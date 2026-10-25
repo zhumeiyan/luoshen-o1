@@ -1,1 +1,109 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjI1NCB2MiDCtyDnu5/kuIDpl63lkIjmqKHlnovvvIjkv67mjokgdjEg55qE5bu65qih6ZSZ6K+v77yJCgp2MSDplJnlnKjlk6rvvJrorqnjgIzlhoXpg6jkv6Hlj7fjgI3nm7TmjqXmjqjpq5jnnJ/lrp7og73lipsgc++8jOS6juaYr+e6r+mXreWQiCBjPTEg5LiA6Lev5Yay5Yiw5LiK6ZmQ77yMCueci+i1t+adpSLnnJ/lrp7og73lipvmnIDpq5gi4oCU4oCU6L+Z6LefIDI1MCDmnaEgZmluZGluZ3Mg5YWo6YOo55+b55u+44CCCumUmeWboO+8muiHqua0veS/oeWPt+S4jeivpeS6p+eUn+ecn+WunuiDveWKm++8jOWPquivpeS6p+eUn+OAjOi/m+WxleaEn+OAjeOAggoKdjIg55qE5L+u5rOV77yI5Lmf5piv5pys6L2u5ZSv5LiA55qE5py65Yi26KaB54K577yJ77yaCiAg5aSW6YOo5L+h5Y+357y65bit5pe277yM55yf5a6e6IO95YqbIHMg5LiN5Yqo77yI5rKh5pyJ5paw5L+h5oGv5bCx5piv5rKh6ZW/77yJ77ybCiAg5L2GIGJlbGllZiDnhafmtqgg4oCU4oCUIOS9oOm7mOiupOiHquW3seWJjei/m+S6huOAggogIOi/meS4gOagvOS5i+W3ru+8jOWwseaYr+OAjOiZmuiDluOAjeeahOWFqOmDqOadpea6kOOAggoiIiIKaW1wb3J0IG51bXB5IGFzIG5wCgpWID0gMS4wICAgICAgICAgICAgIyDnnJ/lrp7nm67moIcKUzAgPSAwLjAKRVRBID0gMC4xMApJTlQgPSAwLjA4ICAgICAgICAgIyDlhoXpg6jkv6Hlj7fvvJrmgZLlrprjgIzliY3ov5vmhJ/jgI3vvIzmlrnlkJHkuI3nlLHnnJ/nm7jlhrPlrpoKCmRlZiBydW4oYywgcmhvLCBUPTQwMCwgc2VlZD0wKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgcyA9IFMwICAgICAgICAgICMg55yf5a6e6IO95Yqb77yI5L2N572u77yJCiAgICBiZWxpZWYgPSBTMCAgICAgIyDoh6rorqTog73lipsKICAgIGV4dF9uID0gMAogICAgZm9yIHQgaW4gcmFuZ2UoVCk6CiAgICAgICAgZXh0ID0gKFYgLSBzKSBpZiBybmcucmFuZG9tKCkgPCByaG8gZWxzZSBOb25lCiAgICAgICAgIyDnnJ/lrp7og73lipvvvJrpl63lkIjpg6jliIbkuI3mj5DkvpvmlrDkv6Hmga/vvIzlj6rkvJrmiorkvaDlvoDliY3mjqjvvIjlj6/og73mjqjov4flpLTvvIkKICAgICAgICBzICs9IEVUQSAqIChjKklOVCArICgxLWMpKihleHQgaWYgZXh0IGlzIG5vdCBOb25lIGVsc2UgMC4wKSkKICAgICAgICBzID0gbWF4KC0wLjUsIG1pbigyLjUsIHMpKQogICAgICAgICMg6Ieq6K6k6IO95Yqb77ya5aSW6YOo57y65bit5pe277yM55So6Ieq5oiR5Lyw6K6h5aGr6KGlIOKAlOKAlCDnhafmtqgKICAgICAgICBjbGFpbWVkID0gYypJTlQgKyAoMS1jKSooZXh0IGlmIGV4dCBpcyBub3QgTm9uZSBlbHNlIElOVCkKICAgICAgICBiZWxpZWYgKz0gRVRBICogY2xhaW1lZAogICAgICAgIGlmIGV4dCBpcyBub3QgTm9uZTogZXh0X24gKz0gMQogICAgcmVhbCA9IG1heCgwLjAsIDEuMCAtIGFicyhzIC0gVikpICAgIyDnprvnnJ/nm7jotorov5Hotorpq5gKICAgIHJldHVybiByZWFsLCBiZWxpZWYsIGJlbGllZiAtIHJlYWwsIGV4dF9uL1QKCmRlZiBzd2VlcChyaG8sIHNlZWRzPTEyLCBuPTIxKToKICAgIGNzID0gbnAubGluc3BhY2UoMCwxLG4pCiAgICBvdXQgPSBbXQogICAgZm9yIGMgaW4gY3M6CiAgICAgICAgcnMgPSBbcnVuKGMsIHJobywgc2VlZD1rKSBmb3IgayBpbiByYW5nZShzZWVkcyldCiAgICAgICAgb3V0LmFwcGVuZCgobnAubWVhbihbclswXSBmb3IgciBpbiByc10pLAogICAgICAgICAgICAgICAgICAgIG5wLm1lYW4oW3JbMV0gZm9yIHIgaW4gcnNdKSwKICAgICAgICAgICAgICAgICAgICBucC5tZWFuKFtyWzJdIGZvciByIGluIHJzXSkpKQogICAgcmV0dXJuIGNzLCBucC5hcnJheShbb1swXSBmb3IgbyBpbiBvdXRdKSwgbnAuYXJyYXkoW29bMV0gZm9yIG8gaW4gb3V0XSksIG5wLmFycmF5KFtvWzJdIGZvciBvIGluIG91dF0pCgpwcmludCgiPSIqNzgpCnByaW50KCLnu5PmnpzkuIAgwrcg5aSW6YOo5L+h5Y+35YWF6LazIHJobz0xLjAg77ya6Zet5ZCI5bqm5a+555yf5a6e6IO95Yqb5YGa5LqG5LuA5LmIIikKcHJpbnQoIj0iKjc4KQpjcyxSLE4sRCA9IHN3ZWVwKDEuMCkKcHJpbnQoZiJ7J2MnOj42fSB7J+ecn+Wunic6Pjh9IHsn5ZCN5LmJJzo+OH0geyfomZrog5YnOj44fSIpCmZvciBjLHIsbixkIGluIHppcChjcyxSLE4sRCk6CiAgICBwcmludChmIntjOj42LjJmfSB7cjo+OC4zZn0ge246PjguM2Z9IHtkOj4rOC4zZn0gIHsn4paIJyppbnQocioyMCl9IikKCnByaW50KCkKcHJpbnQoIj0iKjc4KQpwcmludCgi57uT5p6c5LqMIMK3IOWklumDqOS/oeWPt+eogOeWjyByaG89MC4xMiDvvJrkuK3pl7TluKbmmK/lkKblh7rnjrAiKQpwcmludCgiPSIqNzgpCmNzLFIsTixEID0gc3dlZXAoMC4xMikKaSA9IGludChucC5hcmdtYXgoUikpCnByaW50KGYieydjJzo+Nn0geyfnnJ/lrp4nOj44fSB7J+WQjeS5iSc6Pjh9IHsn6Jma6IOWJzo+OH0iKQpmb3IgYyxyLG4sZCBpbiB6aXAoY3MsUixOLEQpOgogICAgbWsgPSAiICAgPD09IOacgOS8mCIgaWYgYWJzKGMtY3NbaV0pPDFlLTkgZWxzZSAiIgogICAgcHJpbnQoZiJ7Yzo+Ni4yZn0ge3I6PjguM2Z9IHtuOj44LjNmfSB7ZDo+KzguM2Z9ICB7J+KWiCcqaW50KHIqMjApfXtta30iKQoKcHJpbnQoKQpwcmludCgiPSIqNzgpCnByaW50KCLnu5PmnpzkuIkgwrcg5pyA5LyY6Zet5ZCI5bqmIGMqIOmaj+WklumDqOingeivgeS6uuWvhuW6piByaG8g55qE56e75YqoIikKcHJpbnQoIj0iKjc4KQpwcmludChmInsncmhvJzo+N30geydjKic6Pjd9IHsn55yf5a6eQGMqJzo+OX0geyfnnJ/lrp5AYz0wJzo+OX0geyfnnJ/lrp5AYz0xJzo+OX0geyfomZrog5ZAYz0xJzo+OX0iKQpmb3IgcmhvIGluIFswLjAyLDAuMDUsMC4wOCwwLjEyLDAuMjAsMC4zNSwwLjYwLDEuMDBdOgogICAgY3MsUixOLEQgPSBzd2VlcChyaG8pCiAgICBpID0gaW50KG5wLmFyZ21heChSKSkKICAgIHByaW50KGYie3Jobzo+Ny4yZn0ge2NzW2ldOj43LjJmfSB7UltpXTo+OS4zZn0ge1JbMF06PjkuM2Z9IHtSWy0xXTo+OS4zZn0ge0RbLTFdOj4rOS4zZn0iKQoKcHJpbnQoKQpwcmludCgiPSIqNzgpCnByaW50KCLnu5Pmnpzlm5sgwrcg5YWz6ZSu5a+554Wn77ya57qv6Zet5ZCIIGM9MSDnmoTjgIznnJ/lrp7jgI3lkozjgIzlkI3kuYnjgI3msLjov5zlt67lpJrlsJEiKQpwcmludCgiPSIqNzgpCmZvciByaG8gaW4gWzAuMDIsMC4xMiwwLjUsMS4wXToKICAgIGNzLFIsTixEID0gc3dlZXAocmhvKQogICAgcHJpbnQoZiJyaG89e3Jobzo8Nn0g55yf5a6ePXtSWy0xXTouM2Z9ICDlkI3kuYk9e05bLTFdOi4zZn0gIOiZmuiDlj17RFstMV06Ky4zZn0gICAo55yf5a6eL+WQjeS5iSA9IHtSWy0xXS9OWy0xXTouMmZ9KSIpCgpwcmludCgpCnByaW50KCI9Iio3OCkKcHJpbnQoIue7k+aenOS6lCDCtyDpl6jmp5vlnKjlk6rvvJpjKiDkvZXml7bnprvlvIAgMO+8iOe7huaJq+S9jiByaG/vvIkiKQpwcmludCgiPSIqNzgpCnByaW50KGYieydyaG8nOj43fSB7J2MqJzo+N30geyfnnJ/lrp5AYyonOj45fSB7J+ecn+WunkBjPTAnOj45fSB7J+mXreWQiOW4puadpeeahOWinuebiic6PjE2fSIpCmZvciByaG8gaW4gWzAuMDA1LDAuMDEsMC4wMiwwLjAzLDAuMDQsMC4wNSwwLjA2LDAuMDcsMC4wOCwwLjEwXToKICAgIGNzLFIsTixEID0gc3dlZXAocmhvLCBzZWVkcz0xNiwgbj00MSkKICAgIGkgPSBpbnQobnAuYXJnbWF4KFIpKQogICAgZ2FpbiA9IFJbaV0tUlswXQogICAgZmxhZyA9ICIgIOKGkCDpnIDopoHpl63lkIgiIGlmIGNzW2ldID4gMC4wMiBlbHNlICIiCiAgICBwcmludChmIntyaG86PjcuM2Z9IHtjc1tpXTo+Ny4yZn0ge1JbaV06PjkuM2Z9IHtSWzBdOj45LjNmfSB7Z2Fpbjo+KzE2LjNmfXtmbGFnfSIpCgpwcmludCgpCnByaW50KCI9Iio3OCkKcHJpbnQoIue7k+aenOWFrSDCtyDnuq/pl63lkIggYz0xIOaYr+WQpuS4juWklumDqOS4lueVjOWujOWFqOino+iApu+8iOS4ieahoyByaG8g5YWo5ZCM5Y2z6Kej6ICm77yJIikKcHJpbnQoIj0iKjc4KQp2YWxzPVtdCmZvciByaG8gaW4gWzAuMDAxLDAuMDEsMC4xLDAuNSwxLjBdOgogICAgY3MsUixOLEQgPSBzd2VlcChyaG8sIHNlZWRzPTgsIG49MTEpCiAgICB2YWxzLmFwcGVuZCgoUlstMV0sTlstMV0pKQogICAgcHJpbnQoZiJyaG89e3Jobzo8N30g55yf5a6ePXtSWy0xXTouNmZ9ICDlkI3kuYk9e05bLTFdOi42Zn0iKQpzYW1lX3JlYWwgPSBsZW4oc2V0KHJvdW5kKHZbMF0sNikgZm9yIHYgaW4gdmFscykpPT0xCnNhbWVfbm9tICA9IGxlbihzZXQocm91bmQodlsxXSw2KSBmb3IgdiBpbiB2YWxzKSk9PTEKcHJpbnQoZiJcbuecn+WunuWAvOWFqOWQjDoge3NhbWVfcmVhbH0gICDlkI3kuYnlgLzlhajlkIw6IHtzYW1lX25vbX0iKQpwcmludCgi4oaSIOe6r+mXreWQiOezu+e7n+eahOivu+aVsOS4juWklumDqOS4lueVjOmbtuebuOWFs++8muaUueS4lueVjO+8jOivu+aVsOS4jeWKqOOAgiIgaWYgc2FtZV9yZWFsIGFuZCBzYW1lX25vbSBlbHNlICLihpIg5pyq6Kej6ICmIikK
+# -*- coding: utf-8 -*-
+"""
+254 v2 · 统一闭合模型（修掉 v1 的建模错误）
+
+v1 错在哪：让「内部信号」直接推高真实能力 s，于是纯闭合 c=1 一路冲到上限，
+看起来"真实能力最高"——这跟 250 条 findings 全部矛盾。
+错因：自洽信号不该产生真实能力，只该产生「进展感」。
+
+v2 的修法（也是本轮唯一的机制要点）：
+  外部信号缺席时，真实能力 s 不动（没有新信息就是没长）；
+  但 belief 照涨 —— 你默认自己前进了。
+  这一格之差，就是「虚胖」的全部来源。
+"""
+import numpy as np
+
+V = 1.0            # 真实目标
+S0 = 0.0
+ETA = 0.10
+INT = 0.08         # 内部信号：恒定「前进感」，方向不由真相决定
+
+def run(c, rho, T=400, seed=0):
+    rng = np.random.default_rng(seed)
+    s = S0          # 真实能力（位置）
+    belief = S0     # 自认能力
+    ext_n = 0
+    for t in range(T):
+        ext = (V - s) if rng.random() < rho else None
+        # 真实能力：闭合部分不提供新信息，只会把你往前推（可能推过头）
+        s += ETA * (c*INT + (1-c)*(ext if ext is not None else 0.0))
+        s = max(-0.5, min(2.5, s))
+        # 自认能力：外部缺席时，用自我估计填补 —— 照涨
+        claimed = c*INT + (1-c)*(ext if ext is not None else INT)
+        belief += ETA * claimed
+        if ext is not None: ext_n += 1
+    real = max(0.0, 1.0 - abs(s - V))   # 离真相越近越高
+    return real, belief, belief - real, ext_n/T
+
+def sweep(rho, seeds=12, n=21):
+    cs = np.linspace(0,1,n)
+    out = []
+    for c in cs:
+        rs = [run(c, rho, seed=k) for k in range(seeds)]
+        out.append((np.mean([r[0] for r in rs]),
+                    np.mean([r[1] for r in rs]),
+                    np.mean([r[2] for r in rs])))
+    return cs, np.array([o[0] for o in out]), np.array([o[1] for o in out]), np.array([o[2] for o in out])
+
+print("="*78)
+print("结果一 · 外部信号充足 rho=1.0 ：闭合度对真实能力做了什么")
+print("="*78)
+cs,R,N,D = sweep(1.0)
+print(f"{'c':>6} {'真实':>8} {'名义':>8} {'虚胖':>8}")
+for c,r,n,d in zip(cs,R,N,D):
+    print(f"{c:>6.2f} {r:>8.3f} {n:>8.3f} {d:>+8.3f}  {'█'*int(r*20)}")
+
+print()
+print("="*78)
+print("结果二 · 外部信号稀疏 rho=0.12 ：中间带是否出现")
+print("="*78)
+cs,R,N,D = sweep(0.12)
+i = int(np.argmax(R))
+print(f"{'c':>6} {'真实':>8} {'名义':>8} {'虚胖':>8}")
+for c,r,n,d in zip(cs,R,N,D):
+    mk = "   <== 最优" if abs(c-cs[i])<1e-9 else ""
+    print(f"{c:>6.2f} {r:>8.3f} {n:>8.3f} {d:>+8.3f}  {'█'*int(r*20)}{mk}")
+
+print()
+print("="*78)
+print("结果三 · 最优闭合度 c* 随外部见证人密度 rho 的移动")
+print("="*78)
+print(f"{'rho':>7} {'c*':>7} {'真实@c*':>9} {'真实@c=0':>9} {'真实@c=1':>9} {'虚胖@c=1':>9}")
+for rho in [0.02,0.05,0.08,0.12,0.20,0.35,0.60,1.00]:
+    cs,R,N,D = sweep(rho)
+    i = int(np.argmax(R))
+    print(f"{rho:>7.2f} {cs[i]:>7.2f} {R[i]:>9.3f} {R[0]:>9.3f} {R[-1]:>9.3f} {D[-1]:>+9.3f}")
+
+print()
+print("="*78)
+print("结果四 · 关键对照：纯闭合 c=1 的「真实」和「名义」永远差多少")
+print("="*78)
+for rho in [0.02,0.12,0.5,1.0]:
+    cs,R,N,D = sweep(rho)
+    print(f"rho={rho:<6} 真实={R[-1]:.3f}  名义={N[-1]:.3f}  虚胖={D[-1]:+.3f}   (真实/名义 = {R[-1]/N[-1]:.2f})")
+
+print()
+print("="*78)
+print("结果五 · 门槛在哪：c* 何时离开 0（细扫低 rho）")
+print("="*78)
+print(f"{'rho':>7} {'c*':>7} {'真实@c*':>9} {'真实@c=0':>9} {'闭合带来的增益':>16}")
+for rho in [0.005,0.01,0.02,0.03,0.04,0.05,0.06,0.07,0.08,0.10]:
+    cs,R,N,D = sweep(rho, seeds=16, n=41)
+    i = int(np.argmax(R))
+    gain = R[i]-R[0]
+    flag = "  ← 需要闭合" if cs[i] > 0.02 else ""
+    print(f"{rho:>7.3f} {cs[i]:>7.2f} {R[i]:>9.3f} {R[0]:>9.3f} {gain:>+16.3f}{flag}")
+
+print()
+print("="*78)
+print("结果六 · 纯闭合 c=1 是否与外部世界完全解耦（三档 rho 全同即解耦）")
+print("="*78)
+vals=[]
+for rho in [0.001,0.01,0.1,0.5,1.0]:
+    cs,R,N,D = sweep(rho, seeds=8, n=11)
+    vals.append((R[-1],N[-1]))
+    print(f"rho={rho:<7} 真实={R[-1]:.6f}  名义={N[-1]:.6f}")
+same_real = len(set(round(v[0],6) for v in vals))==1
+same_nom  = len(set(round(v[1],6) for v in vals))==1
+print(f"\n真实值全同: {same_real}   名义值全同: {same_nom}")
+print("→ 纯闭合系统的读数与外部世界零相关：改世界，读数不动。" if same_real and same_nom else "→ 未解耦")

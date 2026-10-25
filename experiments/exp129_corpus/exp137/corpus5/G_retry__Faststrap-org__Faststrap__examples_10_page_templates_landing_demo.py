@@ -1,1 +1,60 @@
-IiIiRmFzdHN0cmFwIExhbmRpbmdMYXlvdXQgRGVtby4KClNob3djYXNpbmcgYSBjbGVhbiBmdWxsLXdpZHRoIGxheW91dCBvcHRpbWl6ZWQgZm9yIG1hcmtldGluZyBzaXRlcy4KIiIiCgpmcm9tIGZhc3RodG1sLmNvbW1vbiBpbXBvcnQgSDIsIEEsIERpdiwgRmFzdEhUTUwsIEZvb3RlciwgUCwgc2VydmUKCmZyb20gZmFzdHN0cmFwIGltcG9ydCBCdXR0b24sIEZ4LCBIZXJvLCBJY29uLCBMYW5kaW5nTGF5b3V0LCBOYXZiYXJNb2Rlcm4sIGFkZF9ib290c3RyYXAKCmFwcCA9IEZhc3RIVE1MKCkKYWRkX2Jvb3RzdHJhcChhcHAsIHRoZW1lPSJncmVlbi1uYXR1cmUiLCBmb250X2ZhbWlseT0iSW50ZXIiKQoKCkBhcHAucm91dGUoIi8iKQpkZWYgaG9tZSgpOgogICAgIyBNb2Rlcm4gR2xhc3MgTmF2YmFyCiAgICBuYXYgPSBOYXZiYXJNb2Rlcm4oCiAgICAgICAgYnJhbmQ9RGl2KEljb24oImxpZ2h0bmluZy1maWxsIiwgY2xzPSJtZS0yIHRleHQtc3VjY2VzcyIpLCAiRmFzdENsb3VkIiksCiAgICAgICAgaXRlbXM9WwogICAgICAgICAgICBBKCJGZWF0dXJlcyIsIGhyZWY9IiMiLCBjbHM9Im5hdi1saW5rIiksCiAgICAgICAgICAgIEEoIlByaWNpbmciLCBocmVmPSIjIiwgY2xzPSJuYXYtbGluayIpLAogICAgICAgICAgICBCdXR0b24oIkxhdW5jaCBBcHAiLCBjbHM9ImJ0bi1zdWNjZXNzIG1zLWxnLTMiKSwKICAgICAgICBdLAogICAgICAgIGdsYXNzPVRydWUsCiAgICApCgogICAgIyBIZXJvIFNlY3Rpb24KICAgIGhlcm8gPSBIZXJvKAogICAgICAgIHRpdGxlPSJEZXBsb3kgWW91ciBGYXN0SFRNTCBBcHBzIEdsb2JhbGx5IiwKICAgICAgICBzdWJ0aXRsZT0iVGhlIGZhc3Rlc3Qgd2F5IHRvIGdvIGZyb20gbG9jYWwgZGV2ZWxvcG1lbnQgdG8gcHJvZHVjdGlvbiB3aXRoIHplcm8tSlMgbGF5b3V0cy4iLAogICAgICAgIGN0YT1EaXYoCiAgICAgICAgICAgIEJ1dHRvbigiU3RhcnQgRnJlZSBUcmlhbCIsIGNscz0iYnRuLXN1Y2Nlc3MgYnRuLWxnIHB4LTUgbWUtMiIpLAogICAgICAgICAgICBCdXR0b24oIkNvbnRhY3QgU2FsZXMiLCBjbHM9ImJ0bi1vdXRsaW5lLXN1Y2Nlc3MgYnRuLWxnIHB4LTUiKSwKICAgICAgICAgICAgY2xzPSJkLWZsZXgganVzdGlmeS1jb250ZW50LWNlbnRlciBtdC00IiwKICAgICAgICApLAogICAgICAgIGNscz1mIntGeC5mYWRlX2luX3VwfSIsCiAgICApCgogICAgIyBTaW1wbGUgQ29udGVudCBDYXJkCiAgICBjb250ZW50ID0gRGl2KAogICAgICAgIEgyKCJPcHRpbWl6ZWQgZm9yIFBlcmZvcm1hbmNlIiwgY2xzPSJ0ZXh0LWNlbnRlciBtYi00IiksCiAgICAgICAgUCgKICAgICAgICAgICAgIkZhc3RDbG91ZCB1c2VzIEZhc3RzdHJhcCdzIExhbmRpbmdMYXlvdXQgdG8gZW5zdXJlIHlvdXIgbWFya2V0aW5nIHBhZ2VzIGxvYWQgaW5zdGFudGx5IGFuZCBsb29rIHByZW1pdW0gd2l0aG91dCBhIHNpbmdsZSBsaW5lIG9mIGN1c3RvbSBKYXZhU2NyaXB0LiIsCiAgICAgICAgICAgIGNscz0ibGVhZCB0ZXh0LWNlbnRlciIsCiAgICAgICAgKSwKICAgICAgICBjbHM9InB5LTUiLAogICAgKQoKICAgIGZvb3RlciA9IEZvb3RlcigKICAgICAgICBEaXYoCiAgICAgICAgICAgIERpdigiwqkgMjAyNiBGYXN0Q2xvdWQuIFBvd2VyZWQgYnkgRmFzdHN0cmFwLiIsIGNscz0idGV4dC1tdXRlZCIpLAogICAgICAgICAgICBjbHM9ImNvbnRhaW5lciB0ZXh0LWNlbnRlciBweS00IGJvcmRlci10b3AgbXQtNSIsCiAgICAgICAgKQogICAgKQoKICAgIHJldHVybiBMYW5kaW5nTGF5b3V0KGhlcm8sIGNvbnRlbnQsIG5hdmJhcj1uYXYsIGZvb3Rlcj1mb290ZXIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHNlcnZlKHBvcnQ9NTAxMykK
+"""Faststrap LandingLayout Demo.
+
+Showcasing a clean full-width layout optimized for marketing sites.
+"""
+
+from fasthtml.common import H2, A, Div, FastHTML, Footer, P, serve
+
+from faststrap import Button, Fx, Hero, Icon, LandingLayout, NavbarModern, add_bootstrap
+
+app = FastHTML()
+add_bootstrap(app, theme="green-nature", font_family="Inter")
+
+
+@app.route("/")
+def home():
+    # Modern Glass Navbar
+    nav = NavbarModern(
+        brand=Div(Icon("lightning-fill", cls="me-2 text-success"), "FastCloud"),
+        items=[
+            A("Features", href="#", cls="nav-link"),
+            A("Pricing", href="#", cls="nav-link"),
+            Button("Launch App", cls="btn-success ms-lg-3"),
+        ],
+        glass=True,
+    )
+
+    # Hero Section
+    hero = Hero(
+        title="Deploy Your FastHTML Apps Globally",
+        subtitle="The fastest way to go from local development to production with zero-JS layouts.",
+        cta=Div(
+            Button("Start Free Trial", cls="btn-success btn-lg px-5 me-2"),
+            Button("Contact Sales", cls="btn-outline-success btn-lg px-5"),
+            cls="d-flex justify-content-center mt-4",
+        ),
+        cls=f"{Fx.fade_in_up}",
+    )
+
+    # Simple Content Card
+    content = Div(
+        H2("Optimized for Performance", cls="text-center mb-4"),
+        P(
+            "FastCloud uses Faststrap's LandingLayout to ensure your marketing pages load instantly and look premium without a single line of custom JavaScript.",
+            cls="lead text-center",
+        ),
+        cls="py-5",
+    )
+
+    footer = Footer(
+        Div(
+            Div("© 2026 FastCloud. Powered by Faststrap.", cls="text-muted"),
+            cls="container text-center py-4 border-top mt-5",
+        )
+    )
+
+    return LandingLayout(hero, content, navbar=nav, footer=footer)
+
+
+if __name__ == "__main__":
+    serve(port=5013)

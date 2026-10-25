@@ -1,1 +1,44 @@
-WwogewogICJuYW1lIjogIueOqeagvOWvueeFp+WBmuWdjyIsCiAgIkwiOiAiTDEiLAogICJNIjogIu+8iOacquWRveS4re+8iSIsCiAgIlAiOiAi77yI5pyq5ZG95Lit77yJIiwKICAiaGl0IjogMQogfSwKIHsKICAibmFtZSI6ICLotJ/ovb3mnKrkvZznlKjkuo7mtYvph48iLAogICJMIjogIu+8iOacquWRveS4re+8iSIsCiAgIk0iOiAi77yI5pyq5ZG95Lit77yJIiwKICAiUCI6ICLvvIjmnKrlkb3kuK3vvIkiLAogICJoaXQiOiAwCiB9LAogewogICJuYW1lIjogIuWOu+mHjeaMh+agh+WPo+W+hOmUmeivryIsCiAgIkwiOiAi77yI5pyq5ZG95Lit77yJIiwKICAiTSI6ICLvvIjmnKrlkb3kuK3vvIkiLAogICJQIjogIu+8iOacquWRveS4re+8iSIsCiAgImhpdCI6IDAKIH0sCiB7CiAgIm5hbWUiOiAi6aKE5rOo5YaM6aG65bqP5YGH6K6+6KKr5o6o57+7IiwKICAiTCI6ICLvvIjmnKrlkb3kuK3vvIkiLAogICJNIjogIu+8iOacquWRveS4re+8iSIsCiAgIlAiOiAi77yI5pyq5ZG95Lit77yJIiwKICAiaGl0IjogMAogfSwKIHsKICAibmFtZSI6ICLmg4Xnu6rpl6jlnKjlkajmnJ/kuJbnlYzmnInlrrMiLAogICJMIjogIu+8iOacquWRveS4re+8iSIsCiAgIk0iOiAi77yI5pyq5ZG95Lit77yJIiwKICAiUCI6ICLvvIjmnKrlkb3kuK3vvIkiLAogICJoaXQiOiAwCiB9LAogewogICJuYW1lIjogIuaMh+agh+aOqeebluWvueeFp+WkseaViCIsCiAgIkwiOiAi77yI5pyq5ZG95Lit77yJIiwKICAiTSI6ICLvvIjmnKrlkb3kuK3vvIkiLAogICJQIjogIu+8iOacquWRveS4re+8iSIsCiAgImhpdCI6IDAKIH0KXQ==
+[
+ {
+  "name": "玩格对照做坏",
+  "L": "L1",
+  "M": "（未命中）",
+  "P": "（未命中）",
+  "hit": 1
+ },
+ {
+  "name": "负载未作用于测量",
+  "L": "（未命中）",
+  "M": "（未命中）",
+  "P": "（未命中）",
+  "hit": 0
+ },
+ {
+  "name": "去重指标口径错误",
+  "L": "（未命中）",
+  "M": "（未命中）",
+  "P": "（未命中）",
+  "hit": 0
+ },
+ {
+  "name": "预注册顺序假设被推翻",
+  "L": "（未命中）",
+  "M": "（未命中）",
+  "P": "（未命中）",
+  "hit": 0
+ },
+ {
+  "name": "情绪门在周期世界有害",
+  "L": "（未命中）",
+  "M": "（未命中）",
+  "P": "（未命中）",
+  "hit": 0
+ },
+ {
+  "name": "指标掩盖对照失效",
+  "L": "（未命中）",
+  "M": "（未命中）",
+  "P": "（未命中）",
+  "hit": 0
+ }
+]

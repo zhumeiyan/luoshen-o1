@@ -1,1 +1,247 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjE4OTog56eN5a2Q6Zeu6aKYIOKAlOKAlCDmj5DljYfog73lipvmmK8i5r+A5Y+R56eN5a2QIui/mOaYryLnur/mgKfmianlrrki77yfCgrnp43lrZAgPSDnlKjmiLfnmoTor53vvIjpq5jlr4bluqbvvIzmiJHnmoTlsLrvvIkK5Zyf5aOkID0g5Yik5o2u5qC477yI5aSn6YeP44CB5L2O5a+G5bqm44CB5byC6LSo77yJCgrliKTmja7vvJrlpoLmnpzog73lipvmj5DljYfmmK8i5r+A5Y+R56eN5a2QIuiAjOmdniLmianlrrki77yM5YiZCiAg56eN5a2Q5LiO5Zyf5aOk5LmL6Ze05bqU5a2Y5Zyo44CQ5Lqk5LqS5pWI5bqU44CR4oCU4oCU5LiN5piv566A5Y2V55u45Yqg44CCCiAgLSDkuqTkupIgPiAwIDog6LaF5Yqg5oCn77yM5Zyf5aOk55yf55qE5biu56eN5a2Q5bGV5byA77yI56eN5a2Q6ZyA6KaB5Zyf5aOk77yJCiAgLSDkuqTkupIgPCAwIDog56iA6YeK77yM5byC6LSo5Zyf5aOk55uW5L2P5LqG56eN5a2Q55qE5YiG5biDCgrkuInmtYvvvJoKICBBIOS6pOS6kumhuSAgICAgIHMgeCB0IOWboOWtkOe9keagvAogIEIg5Y+R6Iq96ZiI5YC8ICAgIOWbuuWumuenjeWtkO+8jOe7huaJq+Wcn+WjpOmHj++8iOmdnuWNleiwg++8n+mAgumHj+S/g+WPkeiKve+8jOi/h+mHj+eogOmHiu+8iQogIEMg5Li055WM6LSo6YePICAgIOWbuuWumuWcn+WjpO+8jOe7huaJq+enjeWtkOmHj++8iFMg5b2i77yf56eN5a2Q6ZyA6KaB5Yiw5LiA5a6a6YeP5omN5Y+R6Iq977yJCiIiIgppbXBvcnQganNvbiwgb3MsIHJlCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CmltcG9ydCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCdBZ2cnKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBudW1weSBhcyBucAoKQkFTRSA9ICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMScKU0VFRF9QQVRIID0gQkFTRSArICcvZXhwZXJpbWVudHMvZXhwMTgwX3JlY29yZC91X3NpZGVfZnVsbC50eHQnClNPSUxfUEFUSCA9IEJBU0UgKyAnL2V2aWRlbmNlL+Wksei0peaooeW8j+W6ky/liKTmja7moLgubWQnCk9VVCA9IEJBU0UgKyAnL2V4cGVyaW1lbnRzL2V4cDE4OV9zZWVkJwpvcy5tYWtlZGlycyhPVVQsIGV4aXN0X29rPVRydWUpCgojIC0tLS0tLS0tLS0g5Yqg6L29IC0tLS0tLS0tLS0KcmF3ID0gb3BlbihTRUVEX1BBVEgsIGVuY29kaW5nPSd1dGYtOCcpLnJlYWQoKQpzb2lsID0gb3BlbihTT0lMX1BBVEgsIGVuY29kaW5nPSd1dGYtOCcpLnJlYWQoKQoKbGluZXMgPSByYXcuc3BsaXQoJ1xuJykKY2xlYW4gPSBbXQpmb3IgbG4gaW4gbGluZXM6CiAgICBzID0gbG4uc3RyaXAoKQogICAgaWYgbm90IHM6CiAgICAgICAgY29udGludWUKICAgIGlmIHMuc3RhcnRzd2l0aCgnIycpIG9yIHMuc3RhcnRzd2l0aCgnPT0nKSBvciBzLnN0YXJ0c3dpdGgoJ1snKToKICAgICAgICBjb250aW51ZQogICAgcyA9IHJlLnN1YihyJ15cWz9VMFxkK1xdP1xzKicsICcnLCBzKSAgICMg5Yml56a757yW5Y+35YmN57yACiAgICBjbGVhbi5hcHBlbmQocykKc2VlZCA9ICdcbicuam9pbihjbGVhbikKCnByaW50KCdTRUVEIGhlYWQ6JywgcmVwcihzZWVkWzoxNTBdKSkKcHJpbnQoJ1NPSUwgaGVhZDonLCByZXByKHNvaWxbOjE1MF0pKQpwcmludCgnbGVuIHNlZWQnLCBsZW4oc2VlZCksICd8IGxlbiBzb2lsJywgbGVuKHNvaWwpKQoKIyAtLS0tLS0tLS0tIOWIkuWIhiAtLS0tLS0tLS0tCm4gPSBsZW4oc2VlZCkKdHJfc2VlZCA9IHNlZWRbOmludChuICogMC44KV0KdGVzdCA9IHNlZWRbaW50KG4gKiAwLjgpOl0KTnMgPSBsZW4odHJfc2VlZCkKcHJpbnQoJ3RyYWluX3NlZWQnLCBOcywgJ3wgdGVzdCcsIGxlbih0ZXN0KSkKCiMg5Zu65a6a6K+N6KGo77yIMTc55Y+35pWZ6K6t77ya6K+N6KGo6ZqP5pWw5o2u5Y+Y5YyW5Lya6YCg5Ye65YGH6LaL5Yq/77yJClZPQ0FCID0gc29ydGVkKHNldChzZWVkKSB8IHNldChzb2lsKSkKVklEWCA9IHtjOiBpIGZvciBpLCBjIGluIGVudW1lcmF0ZShWT0NBQil9ClYgPSBsZW4oVk9DQUIpCgoKZGVmIGJ1aWxkKHRleHQsIGspOgogICAgbSA9IGRlZmF1bHRkaWN0KGxhbWJkYTogZGVmYXVsdGRpY3QoaW50KSkKICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSAtIGspOgogICAgICAgIG1bdGV4dFtpOmkgKyBrXV1bdGV4dFtpICsga11dICs9IDEKICAgIHJldHVybiBtCgoKZGVmIGFjY19vZihtLCBrKToKICAgIGMgPSB0ID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRlc3QpIC0gayk6CiAgICAgICAgY3R4ID0gdGVzdFtpOmkgKyBrXTsgbnggPSB0ZXN0W2kgKyBrXQogICAgICAgIGlmIGN0eCBpbiBtOgogICAgICAgICAgICBwID0gbWF4KG1bY3R4XSwga2V5PW1bY3R4XS5nZXQpCiAgICAgICAgICAgIGlmIHAgPT0gbng6CiAgICAgICAgICAgICAgICBjICs9IDEKICAgICAgICB0ICs9IDEKICAgIHJldHVybiBjIC8gdCBpZiB0IGVsc2UgMC4wCgoKZGVmIGNvdl9vZihtLCBrKToKICAgIHQgPSBzZWVuID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRlc3QpIC0gayk6CiAgICAgICAgaWYgdGVzdFtpOmkgKyBrXSBpbiBtOgogICAgICAgICAgICBzZWVuICs9IDEKICAgICAgICB0ICs9IDEKICAgIHJldHVybiBzZWVuIC8gdCBpZiB0IGVsc2UgMC4wCgoKZGVmIGJpdHNfb2YobSwgayk6CiAgICAiIiLlm7rlrpror43ooaggKyDliqDkuIDlubPmu5HnmoTkuqTlj4nnhrXvvIhiaXRzL+Wtl+espu+8ie+8jOi2iuS9jui2iuWlvSIiIgogICAgdG90ID0gMC4wOyBjbnQgPSAwCiAgICBmb3IgaSBpbiByYW5nZShsZW4odGVzdCkgLSBrKToKICAgICAgICBjdHggPSB0ZXN0W2k6aSArIGtdOyBueCA9IHRlc3RbaSArIGtdCiAgICAgICAgZCA9IG0uZ2V0KGN0eCkKICAgICAgICBpZiBkIGlzIE5vbmU6CiAgICAgICAgICAgIHAgPSAxLjAgLyBWICAgICAgICAgICAgICAgICAgICAgIyDmnKrop4EgY29udGV4dO+8muWdh+WMgAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHMgPSBzdW0oZC52YWx1ZXMoKSkgKyBWICAgICAgICAgIyDliqDkuIDlubPmu5EKICAgICAgICAgICAgcCA9IChkLmdldChueCwgMCkgKyAxLjApIC8gcwogICAgICAgIHRvdCArPSAtbnAubG9nMihwKTsgY250ICs9IDEKICAgIHJldHVybiB0b3QgLyBjbnQgaWYgY250IGVsc2UgZmxvYXQoJ25hbicpCgoKIyA9PT09PT09PT09PT09PT09PSBBIOS6pOS6kumhue+8mnMgeCB0IOWboOWtkOe9keagvCA9PT09PT09PT09PT09PT09PQpwcmludCgnXG49PT0gQSDlm6DlrZDnvZHmoLwgPT09JykKc3ZhbHMgPSBbMCwgMC4yNSwgMC41LCAwLjc1LCAxLjBdCnR2YWxzID0gWzAsIDAuNSwgMSwgMiwgNF0KZ3JpZCA9IHt9ICAgICAgICMgZ3JpZFtrXVtzXVt0XSA9IGFjYwpncmlkYiA9IHt9ICAgICAgIyBiaXRzCmdyaWRjID0ge30gICAgICAjIGNvdmVyYWdlCgpmb3IgayBpbiBbMSwgMiwgM106CiAgICBncmlkW2tdID0ge307IGdyaWRiW2tdID0ge307IGdyaWRjW2tdID0ge30KICAgIGZvciBzIGluIHN2YWxzOgogICAgICAgIGdyaWRba11bc10gPSB7fTsgZ3JpZGJba11bc10gPSB7fTsgZ3JpZGNba11bc10gPSB7fQogICAgICAgIGZvciB0IGluIHR2YWxzOgogICAgICAgICAgICB0eHQgPSB0cl9zZWVkWzppbnQoTnMgKiBzKV0gKyBzb2lsWzppbnQoTnMgKiB0KV0KICAgICAgICAgICAgbSA9IGJ1aWxkKHR4dCwgaykKICAgICAgICAgICAgYSA9IGFjY19vZihtLCBrKQogICAgICAgICAgICBncmlkW2tdW3NdW3RdID0gYQogICAgICAgICAgICBncmlkYltrXVtzXVt0XSA9IGJpdHNfb2YobSwgaykKICAgICAgICAgICAgZ3JpZGNba11bc11bdF0gPSBjb3Zfb2YobSwgaykKICAgICAgICAgICAgcHJpbnQoZidrPXtrfSBzPXtzfSB0PXt0fSAgYWNjPXthOi40Zn0gYml0cz17Z3JpZGJba11bc11bdF06LjRmfSBjb3Y9e2dyaWRjW2tdW3NdW3RdOi40Zn0nKQoKIyDkuqTkupLpobnvvIhrPTIg5Li777yMaz0xLzMg56iz5YGl77yJCmludGVyID0ge30KZm9yIGsgaW4gWzEsIDIsIDNdOgogICAgYTAwID0gZ3JpZFtrXVswLjBdWzBdCiAgICBhMTAgPSBncmlkW2tdWzEuMF1bMF0gICAgICAgICMg5Y+q5pyJ56eN5a2QCiAgICBhMDEgPSBncmlkW2tdWzAuMF1bMV0gICAgICAgICMg5Y+q5pyJ5Zyf5aOkCiAgICBhMTEgPSBncmlkW2tdWzEuMF1bMV0gICAgICAgICMg56eN5a2QK+Wcn+WjpO+8iOetiemHj++8iQogICAgZV9zZWVkID0gYTEwIC0gYTAwCiAgICBlX3NvaWwgPSBhMDEgLSBhMDAKICAgIGVfYm90aCA9IGExMSAtIGEwMAogICAgaW50ZXJba10gPSB7CiAgICAgICAgJ2FjY19zZWVkX29ubHknOiBhMTAsICdhY2Nfc29pbF9vbmx5JzogYTAxLCAnYWNjX2JvdGgnOiBhMTEsICdhY2Nfbm9uZSc6IGEwMCwKICAgICAgICAnRV9zZWVkJzogZV9zZWVkLCAnRV9zb2lsJzogZV9zb2lsLCAnRV9ib3RoJzogZV9ib3RoLAogICAgICAgICdpbnRlcmFjdGlvbic6IGVfYm90aCAtIGVfc2VlZCAtIGVfc29pbCwKICAgICAgICAnc29pbF9tYXJnaW5hbF9naXZlbl9zZWVkJzogYTExIC0gYTEwLCAgICMg5pyJ56eN5a2Q5pe277yM5Yqg5Zyf5aOk5piv5biu5b+Z6L+Y5piv56iA6YeKCiAgICB9CnByaW50KCdcbj09PSDkuqTkupLpobkgPT09JykKZm9yIGssIHYgaW4gaW50ZXIuaXRlbXMoKToKICAgIHByaW50KGYnaz17a306IHNlZWQ9e3ZbImFjY19zZWVkX29ubHkiXTouNGZ9IHNvaWw9e3ZbImFjY19zb2lsX29ubHkiXTouNGZ9ICcKICAgICAgICAgIGYnYm90aD17dlsiYWNjX2JvdGgiXTouNGZ9IHwgaW50ZXJhY3Rpb249e3ZbImludGVyYWN0aW9uIl06Ky40Zn0gJwogICAgICAgICAgZid8IHNvaWx8c2VlZD17dlsic29pbF9tYXJnaW5hbF9naXZlbl9zZWVkIl06Ky40Zn0nKQoKIyA9PT09PT09PT09PT09PT09PSBCIOWPkeiKvemYiOWAvO+8muWbuuWumuenjeWtkO+8jOe7huaJq+Wcn+WjpCA9PT09PT09PT09PT09PT09PQpwcmludCgnXG49PT0gQiDlj5Hoir3pmIjlgLzvvIhzPTEuMO+8iSA9PT0nKQp0ZmluZSA9IFswLCAwLjEsIDAuMjUsIDAuNSwgMC43NSwgMSwgMS41LCAyLCAzLCA0LCA2LCA4XQpnZXJtID0ge30KZm9yIGsgaW4gWzJdOgogICAgZ2VybVtrXSA9IFtdCiAgICBmb3IgdCBpbiB0ZmluZToKICAgICAgICB0eHQgPSB0cl9zZWVkICsgc29pbFs6aW50KE5zICogdCldCiAgICAgICAgbSA9IGJ1aWxkKHR4dCwgaykKICAgICAgICBhID0gYWNjX29mKG0sIGspCiAgICAgICAgZ2VybVtrXS5hcHBlbmQoeyd0JzogdCwgJ2FjYyc6IGEsICdiaXRzJzogYml0c19vZihtLCBrKSwgJ2Nvdic6IGNvdl9vZihtLCBrKX0pCiAgICAgICAgcHJpbnQoZid0PXt0fTogYWNjPXthOi40Zn0gY292PXtnZXJtW2tdWy0xXVsiY292Il06LjRmfScpCgojIOS4gOmYtuW3ruWIhuaJvuacgOWkp+i3s+WPmO+8iOmYtuair+ajgOa1i++8iQphY2NzID0gW2dbJ2FjYyddIGZvciBnIGluIGdlcm1bMl1dCmRpZmZzID0gW2FjY3NbaSArIDFdIC0gYWNjc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oYWNjcykgLSAxKV0KbWF4anVtcCA9IGludChucC5hcmdtYXgoZGlmZnMpKSBpZiBkaWZmcyBlbHNlIC0xCnByaW50KCflnJ/lo6Tmiavmj48gYWNjIOW6j+WIlzonLCBbcm91bmQoYSwgNCkgZm9yIGEgaW4gYWNjc10pCnByaW50KCfmnIDlpKfmraPot7Plj5jkvY3nva4gaWR4PScsIG1heGp1bXAsICcg5bmF5bqmPScsIGRpZmZzW21heGp1bXBdIGlmIG1heGp1bXAgPj0gMCBlbHNlIE5vbmUpCnBlYWtfaWR4ID0gaW50KG5wLmFyZ21heChhY2NzKSkKcHJpbnQoJ+WzsOWAvCB0ID0nLCB0ZmluZVtwZWFrX2lkeF0sICcgYWNjID0nLCBhY2NzW3BlYWtfaWR4XSkKCiMgPT09PT09PT09PT09PT09PT0gQyDkuLTnlYzotKjph4/vvJrlm7rlrprlnJ/lo6TvvIznu4bmiavnp43lrZAgPT09PT09PT09PT09PT09PT0KcHJpbnQoJ1xuPT09IEMg56eN5a2Q5Li055WM6LSo6YeP77yIdD0wLjXvvIkgPT09JykKc2ZpbmUgPSBbMCwgMC4wNSwgMC4xLCAwLjIsIDAuMywgMC41LCAwLjcsIDEuMF0KVF9GSVggPSAwLjUKY3JpdCA9IFtdCmZvciBzIGluIHNmaW5lOgogICAgdHh0ID0gdHJfc2VlZFs6aW50KE5zICogcyldICsgc29pbFs6aW50KE5zICogVF9GSVgpXQogICAgbSA9IGJ1aWxkKHR4dCwgMikKICAgIGEgPSBhY2Nfb2YobSwgMikKICAgIGNyaXQuYXBwZW5kKHsncyc6IHMsICdhY2MnOiBhLCAnY292JzogY292X29mKG0sIDIpfSkKICAgIHByaW50KGYncz17c306IGFjYz17YTouNGZ9IGNvdj17Y3JpdFstMV1bImNvdiJdOi40Zn0nKQoKIyA9PT09PT09PT09PT09PT09PSDlm74gPT09PT09PT09PT09PT09PT0KZmlnLCBheGVzID0gcGx0LnN1YnBsb3RzKDIsIDIsIGZpZ3NpemU9KDEzLCA5KSkKCiMgQSDng63lipvlm74KYXggPSBheGVzWzAsIDBdCk0gPSBucC5hcnJheShbW2dyaWRbMl1bc11bdF0gZm9yIHQgaW4gdHZhbHNdIGZvciBzIGluIHN2YWxzXSkKaW0gPSBheC5pbXNob3coTSwgY21hcD0ndmlyaWRpcycsIG9yaWdpbj0nbG93ZXInLCBhc3BlY3Q9J2F1dG8nKQpheC5zZXRfeHRpY2tzKHJhbmdlKGxlbih0dmFscykpKTsgYXguc2V0X3h0aWNrbGFiZWxzKFtmJ3t0fXgnIGZvciB0IGluIHR2YWxzXSkKYXguc2V0X3l0aWNrcyhyYW5nZShsZW4oc3ZhbHMpKSk7IGF4LnNldF95dGlja2xhYmVscyhbZid7aW50KHMqMTAwKX0lJyBmb3IgcyBpbiBzdmFsc10pCmF4LnNldF94bGFiZWwoJ+Wcn+WjpOmHj++8iMOX56eN5a2Q6K6t57uD6YeP77yJJyk7IGF4LnNldF95bGFiZWwoJ+enjeWtkOmHjycpCmF4LnNldF90aXRsZSgnQSDnp43lrZAgw5cg5Zyf5aOk77yIaz0yLCB0b3AtMe+8iScpCmZvciBpIGluIHJhbmdlKGxlbihzdmFscykpOgogICAgZm9yIGogaW4gcmFuZ2UobGVuKHR2YWxzKSk6CiAgICAgICAgYXgudGV4dChqLCBpLCBmJ3tNW2ksal06LjNmfScsIGhhPSdjZW50ZXInLCB2YT0nY2VudGVyJywgY29sb3I9J3cnLCBmb250c2l6ZT04KQpwbHQuY29sb3JiYXIoaW0sIGF4PWF4KQoKIyBBMiDovrnpmYXmlYjlupTvvJrmnInnp43lrZDml7bliqDlnJ/lo6QKYXggPSBheGVzWzAsIDFdCmF4LnBsb3QodHZhbHMsIFtncmlkWzJdWzEuMF1bdF0gZm9yIHQgaW4gdHZhbHNdLCAnby0nLCBjb2xvcj0nY3JpbXNvbicsIGxhYmVsPSfnp43lrZDlhajph48gcz0xLjAnKQpheC5wbG90KHR2YWxzLCBbZ3JpZFsyXVswLjBdW3RdIGZvciB0IGluIHR2YWxzXSwgJ3MtLScsIGNvbG9yPSdncmF5JywgbGFiZWw9J+aXoOenjeWtkCBzPTAnKQpheC5wbG90KHR2YWxzLCBbZ3JpZFsyXVsxLjBdWzBdXSAqIGxlbih0dmFscyksICc6JywgY29sb3I9J2JsYWNrJywgbGFiZWw9J+e6r+enjeWtkOWfuue6vycpCmF4LnNldF94bGFiZWwoJ+Wcn+WjpOmHj++8iMOX56eN5a2Q6K6t57uD6YeP77yJJyk7IGF4LnNldF95bGFiZWwoJ3RvcC0xIGFjYycpCmF4LnNldF90aXRsZShmJ0Ig5Zyf5aOk55qE6L656ZmF5L2c55So77yI5Lqk5LqSPXtpbnRlclsyXVsiaW50ZXJhY3Rpb24iXTorLjRmfe+8iScpCmF4LmxlZ2VuZChmb250c2l6ZT04KTsgYXguZ3JpZChhbHBoYT0uMykKCiMgQiDnu4bmiavlj5Hoir0KYXggPSBheGVzWzEsIDBdCmF4LnBsb3QodGZpbmUsIGFjY3MsICdvLScsIGNvbG9yPSdkYXJrZ3JlZW4nKQpheC5heGhsaW5lKGFjY3NbMF0sIGxzPSc6JywgY29sb3I9J2JsYWNrJywgbGFiZWw9J+aXoOWcn+WjpOWfuue6vycpCmF4LmF4dmxpbmUodGZpbmVbcGVha19pZHhdLCBscz0nLS0nLCBjb2xvcj0ncmVkJywgYWxwaGE9LjYsIGxhYmVsPWYn5bOw5YC8IHQ9e3RmaW5lW3BlYWtfaWR4XX0nKQpheC5zZXRfeGxhYmVsKCflnJ/lo6Tph4/vvIjDl+enjeWtkOiuree7g+mHj++8iScpOyBheC5zZXRfeWxhYmVsKCd0b3AtMSBhY2MnKQpheC5zZXRfdGl0bGUoJ0LigLIg5Y+R6Iq96ZiI5YC85omr5o+P77yIcz0xLjDvvIknKQpheC5sZWdlbmQoZm9udHNpemU9OCk7IGF4LmdyaWQoYWxwaGE9LjMpCgojIEMg5Li055WM6LSo6YePCmF4ID0gYXhlc1sxLCAxXQpheC5wbG90KFtjWydzJ10gZm9yIGMgaW4gY3JpdF0sIFtjWydhY2MnXSBmb3IgYyBpbiBjcml0XSwgJ28tJywgY29sb3I9J2RhcmtvcmFuZ2UnKQpheC5wbG90KFtjWydzJ10gZm9yIGMgaW4gY3JpdF0sIFtjWydjb3YnXSBmb3IgYyBpbiBjcml0XSwgJ3MtLScsIGNvbG9yPSdzdGVlbGJsdWUnLCBsYWJlbD0n6KaG55uW546HJykKYXguc2V0X3hsYWJlbCgn56eN5a2Q6YeP77yI5Y2g56eN5a2Q6K6t57uD6K+t5paZ5q+U5L6L77yJJyk7IGF4LnNldF95bGFiZWwoJ2FjYyAvIGNvdmVyYWdlJykKYXguc2V0X3RpdGxlKCdDIOenjeWtkOS4tOeVjOi0qOmHj++8iHQ9MC4177yJJykKYXgubGVnZW5kKGZvbnRzaXplPTgpOyBheC5ncmlkKGFscGhhPS4zKQoKcGx0LnRpZ2h0X2xheW91dCgpCnBsdC5zYXZlZmlnKE9VVCArICcvcmVuZGVyMTg5LnBuZycsIGRwaT0xMTApCnByaW50KCdcbnNhdmVkJywgT1VUICsgJy9yZW5kZXIxODkucG5nJykKCiMgPT09PT09PT09PT09PT09PT0gSlNPTiA9PT09PT09PT09PT09PT09PQpyZXMgPSB7CiAgICAnY29ycHVzJzogeydzZWVkX2NoYXJzJzogbGVuKHNlZWQpLCAnc29pbF9jaGFycyc6IGxlbihzb2lsKSwKICAgICAgICAgICAgICAgJ3RyYWluX3NlZWRfY2hhcnMnOiBOcywgJ3Rlc3RfY2hhcnMnOiBsZW4odGVzdCksICd2b2NhYic6IFZ9LAogICAgJ2dyaWRfYWNjJzoge3N0cihrKToge3N0cihzKToge3N0cih0KTogZ3JpZFtrXVtzXVt0XSBmb3IgdCBpbiB0dmFsc30gZm9yIHMgaW4gc3ZhbHN9IGZvciBrIGluIFsxLCAyLCAzXX0sCiAgICAnZ3JpZF9iaXRzJzoge3N0cihrKToge3N0cihzKToge3N0cih0KTogZ3JpZGJba11bc11bdF0gZm9yIHQgaW4gdHZhbHN9IGZvciBzIGluIHN2YWxzfSBmb3IgayBpbiBbMSwgMiwgM119LAogICAgJ2dyaWRfY292Jzoge3N0cihrKToge3N0cihzKToge3N0cih0KTogZ3JpZGNba11bc11bdF0gZm9yIHQgaW4gdHZhbHN9IGZvciBzIGluIHN2YWxzfSBmb3IgayBpbiBbMSwgMiwgM119LAogICAgJ2ludGVyYWN0aW9uJzoge3N0cihrKTogaW50ZXJba10gZm9yIGsgaW4gWzEsIDIsIDNdfSwKICAgICdnZXJtaW5hdGlvbl9zY2FuJzoge3N0cihrKTogZ2VybVtrXSBmb3IgayBpbiBnZXJtfSwKICAgICdnZXJtaW5hdGlvbl9wZWFrX3QnOiB0ZmluZVtwZWFrX2lkeF0sCiAgICAnZ2VybWluYXRpb25fcGVha19hY2MnOiBhY2NzW3BlYWtfaWR4XSwKICAgICdjcml0aWNhbF9tYXNzX3NjYW4nOiBjcml0LAogICAgJ21heF9qdW1wX2lkeCc6IG1heGp1bXAsCiAgICAnbm90ZSc6ICflnJ/lo6Q95Yik5o2u5qC4Lm1kKOW8gui0qCk7IOS6pOS6kjwwIOihqOekuuW8gui0qOWcn+WjpOeogOmHiuenjeWtkOWIhuW4gycsCn0KanNvbi5kdW1wKHJlcywgb3BlbihPVVQgKyAnL3Jlc3VsdDE4OS5qc29uJywgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSwKICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCnByaW50KCdzYXZlZCcsIE9VVCArICcvcmVzdWx0MTg5Lmpzb24nKQo=
+# -*- coding: utf-8 -*-
+"""
+189: 种子问题 —— 提升能力是"激发种子"还是"线性扩容"？
+
+种子 = 用户的话（高密度，我的尺）
+土壤 = 判据核（大量、低密度、异质）
+
+判据：如果能力提升是"激发种子"而非"扩容"，则
+  种子与土壤之间应存在【交互效应】——不是简单相加。
+  - 交互 > 0 : 超加性，土壤真的帮种子展开（种子需要土壤）
+  - 交互 < 0 : 稀释，异质土壤盖住了种子的分布
+
+三测：
+  A 交互项      s x t 因子网格
+  B 发芽阈值    固定种子，细扫土壤量（非单调？适量促发芽，过量稀释）
+  C 临界质量    固定土壤，细扫种子量（S 形？种子需要到一定量才发芽）
+"""
+import json, os, re
+from collections import defaultdict
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import numpy as np
+
+BASE = '/data/workspace/luoshen-o1'
+SEED_PATH = BASE + '/experiments/exp180_record/u_side_full.txt'
+SOIL_PATH = BASE + '/evidence/失败模式库/判据核.md'
+OUT = BASE + '/experiments/exp189_seed'
+os.makedirs(OUT, exist_ok=True)
+
+# ---------- 加载 ----------
+raw = open(SEED_PATH, encoding='utf-8').read()
+soil = open(SOIL_PATH, encoding='utf-8').read()
+
+lines = raw.split('\n')
+clean = []
+for ln in lines:
+    s = ln.strip()
+    if not s:
+        continue
+    if s.startswith('#') or s.startswith('==') or s.startswith('['):
+        continue
+    s = re.sub(r'^\[?U0\d+\]?\s*', '', s)   # 剥离编号前缀
+    clean.append(s)
+seed = '\n'.join(clean)
+
+print('SEED head:', repr(seed[:150]))
+print('SOIL head:', repr(soil[:150]))
+print('len seed', len(seed), '| len soil', len(soil))
+
+# ---------- 划分 ----------
+n = len(seed)
+tr_seed = seed[:int(n * 0.8)]
+test = seed[int(n * 0.8):]
+Ns = len(tr_seed)
+print('train_seed', Ns, '| test', len(test))
+
+# 固定词表（179号教训：词表随数据变化会造出假趋势）
+VOCAB = sorted(set(seed) | set(soil))
+VIDX = {c: i for i, c in enumerate(VOCAB)}
+V = len(VOCAB)
+
+
+def build(text, k):
+    m = defaultdict(lambda: defaultdict(int))
+    for i in range(len(text) - k):
+        m[text[i:i + k]][text[i + k]] += 1
+    return m
+
+
+def acc_of(m, k):
+    c = t = 0
+    for i in range(len(test) - k):
+        ctx = test[i:i + k]; nx = test[i + k]
+        if ctx in m:
+            p = max(m[ctx], key=m[ctx].get)
+            if p == nx:
+                c += 1
+        t += 1
+    return c / t if t else 0.0
+
+
+def cov_of(m, k):
+    t = seen = 0
+    for i in range(len(test) - k):
+        if test[i:i + k] in m:
+            seen += 1
+        t += 1
+    return seen / t if t else 0.0
+
+
+def bits_of(m, k):
+    """固定词表 + 加一平滑的交叉熵（bits/字符），越低越好"""
+    tot = 0.0; cnt = 0
+    for i in range(len(test) - k):
+        ctx = test[i:i + k]; nx = test[i + k]
+        d = m.get(ctx)
+        if d is None:
+            p = 1.0 / V                     # 未见 context：均匀
+        else:
+            s = sum(d.values()) + V         # 加一平滑
+            p = (d.get(nx, 0) + 1.0) / s
+        tot += -np.log2(p); cnt += 1
+    return tot / cnt if cnt else float('nan')
+
+
+# ================= A 交互项：s x t 因子网格 =================
+print('\n=== A 因子网格 ===')
+svals = [0, 0.25, 0.5, 0.75, 1.0]
+tvals = [0, 0.5, 1, 2, 4]
+grid = {}       # grid[k][s][t] = acc
+gridb = {}      # bits
+gridc = {}      # coverage
+
+for k in [1, 2, 3]:
+    grid[k] = {}; gridb[k] = {}; gridc[k] = {}
+    for s in svals:
+        grid[k][s] = {}; gridb[k][s] = {}; gridc[k][s] = {}
+        for t in tvals:
+            txt = tr_seed[:int(Ns * s)] + soil[:int(Ns * t)]
+            m = build(txt, k)
+            a = acc_of(m, k)
+            grid[k][s][t] = a
+            gridb[k][s][t] = bits_of(m, k)
+            gridc[k][s][t] = cov_of(m, k)
+            print(f'k={k} s={s} t={t}  acc={a:.4f} bits={gridb[k][s][t]:.4f} cov={gridc[k][s][t]:.4f}')
+
+# 交互项（k=2 主，k=1/3 稳健）
+inter = {}
+for k in [1, 2, 3]:
+    a00 = grid[k][0.0][0]
+    a10 = grid[k][1.0][0]        # 只有种子
+    a01 = grid[k][0.0][1]        # 只有土壤
+    a11 = grid[k][1.0][1]        # 种子+土壤（等量）
+    e_seed = a10 - a00
+    e_soil = a01 - a00
+    e_both = a11 - a00
+    inter[k] = {
+        'acc_seed_only': a10, 'acc_soil_only': a01, 'acc_both': a11, 'acc_none': a00,
+        'E_seed': e_seed, 'E_soil': e_soil, 'E_both': e_both,
+        'interaction': e_both - e_seed - e_soil,
+        'soil_marginal_given_seed': a11 - a10,   # 有种子时，加土壤是帮忙还是稀释
+    }
+print('\n=== 交互项 ===')
+for k, v in inter.items():
+    print(f'k={k}: seed={v["acc_seed_only"]:.4f} soil={v["acc_soil_only"]:.4f} '
+          f'both={v["acc_both"]:.4f} | interaction={v["interaction"]:+.4f} '
+          f'| soil|seed={v["soil_marginal_given_seed"]:+.4f}')
+
+# ================= B 发芽阈值：固定种子，细扫土壤 =================
+print('\n=== B 发芽阈值（s=1.0） ===')
+tfine = [0, 0.1, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8]
+germ = {}
+for k in [2]:
+    germ[k] = []
+    for t in tfine:
+        txt = tr_seed + soil[:int(Ns * t)]
+        m = build(txt, k)
+        a = acc_of(m, k)
+        germ[k].append({'t': t, 'acc': a, 'bits': bits_of(m, k), 'cov': cov_of(m, k)})
+        print(f't={t}: acc={a:.4f} cov={germ[k][-1]["cov"]:.4f}')
+
+# 一阶差分找最大跳变（阶梯检测）
+accs = [g['acc'] for g in germ[2]]
+diffs = [accs[i + 1] - accs[i] for i in range(len(accs) - 1)]
+maxjump = int(np.argmax(diffs)) if diffs else -1
+print('土壤扫描 acc 序列:', [round(a, 4) for a in accs])
+print('最大正跳变位置 idx=', maxjump, ' 幅度=', diffs[maxjump] if maxjump >= 0 else None)
+peak_idx = int(np.argmax(accs))
+print('峰值 t =', tfine[peak_idx], ' acc =', accs[peak_idx])
+
+# ================= C 临界质量：固定土壤，细扫种子 =================
+print('\n=== C 种子临界质量（t=0.5） ===')
+sfine = [0, 0.05, 0.1, 0.2, 0.3, 0.5, 0.7, 1.0]
+T_FIX = 0.5
+crit = []
+for s in sfine:
+    txt = tr_seed[:int(Ns * s)] + soil[:int(Ns * T_FIX)]
+    m = build(txt, 2)
+    a = acc_of(m, 2)
+    crit.append({'s': s, 'acc': a, 'cov': cov_of(m, 2)})
+    print(f's={s}: acc={a:.4f} cov={crit[-1]["cov"]:.4f}')
+
+# ================= 图 =================
+fig, axes = plt.subplots(2, 2, figsize=(13, 9))
+
+# A 热力图
+ax = axes[0, 0]
+M = np.array([[grid[2][s][t] for t in tvals] for s in svals])
+im = ax.imshow(M, cmap='viridis', origin='lower', aspect='auto')
+ax.set_xticks(range(len(tvals))); ax.set_xticklabels([f'{t}x' for t in tvals])
+ax.set_yticks(range(len(svals))); ax.set_yticklabels([f'{int(s*100)}%' for s in svals])
+ax.set_xlabel('土壤量（×种子训练量）'); ax.set_ylabel('种子量')
+ax.set_title('A 种子 × 土壤（k=2, top-1）')
+for i in range(len(svals)):
+    for j in range(len(tvals)):
+        ax.text(j, i, f'{M[i,j]:.3f}', ha='center', va='center', color='w', fontsize=8)
+plt.colorbar(im, ax=ax)
+
+# A2 边际效应：有种子时加土壤
+ax = axes[0, 1]
+ax.plot(tvals, [grid[2][1.0][t] for t in tvals], 'o-', color='crimson', label='种子全量 s=1.0')
+ax.plot(tvals, [grid[2][0.0][t] for t in tvals], 's--', color='gray', label='无种子 s=0')
+ax.plot(tvals, [grid[2][1.0][0]] * len(tvals), ':', color='black', label='纯种子基线')
+ax.set_xlabel('土壤量（×种子训练量）'); ax.set_ylabel('top-1 acc')
+ax.set_title(f'B 土壤的边际作用（交互={inter[2]["interaction"]:+.4f}）')
+ax.legend(fontsize=8); ax.grid(alpha=.3)
+
+# B 细扫发芽
+ax = axes[1, 0]
+ax.plot(tfine, accs, 'o-', color='darkgreen')
+ax.axhline(accs[0], ls=':', color='black', label='无土壤基线')
+ax.axvline(tfine[peak_idx], ls='--', color='red', alpha=.6, label=f'峰值 t={tfine[peak_idx]}')
+ax.set_xlabel('土壤量（×种子训练量）'); ax.set_ylabel('top-1 acc')
+ax.set_title('B′ 发芽阈值扫描（s=1.0）')
+ax.legend(fontsize=8); ax.grid(alpha=.3)
+
+# C 临界质量
+ax = axes[1, 1]
+ax.plot([c['s'] for c in crit], [c['acc'] for c in crit], 'o-', color='darkorange')
+ax.plot([c['s'] for c in crit], [c['cov'] for c in crit], 's--', color='steelblue', label='覆盖率')
+ax.set_xlabel('种子量（占种子训练语料比例）'); ax.set_ylabel('acc / coverage')
+ax.set_title('C 种子临界质量（t=0.5）')
+ax.legend(fontsize=8); ax.grid(alpha=.3)
+
+plt.tight_layout()
+plt.savefig(OUT + '/render189.png', dpi=110)
+print('\nsaved', OUT + '/render189.png')
+
+# ================= JSON =================
+res = {
+    'corpus': {'seed_chars': len(seed), 'soil_chars': len(soil),
+               'train_seed_chars': Ns, 'test_chars': len(test), 'vocab': V},
+    'grid_acc': {str(k): {str(s): {str(t): grid[k][s][t] for t in tvals} for s in svals} for k in [1, 2, 3]},
+    'grid_bits': {str(k): {str(s): {str(t): gridb[k][s][t] for t in tvals} for s in svals} for k in [1, 2, 3]},
+    'grid_cov': {str(k): {str(s): {str(t): gridc[k][s][t] for t in tvals} for s in svals} for k in [1, 2, 3]},
+    'interaction': {str(k): inter[k] for k in [1, 2, 3]},
+    'germination_scan': {str(k): germ[k] for k in germ},
+    'germination_peak_t': tfine[peak_idx],
+    'germination_peak_acc': accs[peak_idx],
+    'critical_mass_scan': crit,
+    'max_jump_idx': maxjump,
+    'note': '土壤=判据核.md(异质); 交互<0 表示异质土壤稀释种子分布',
+}
+json.dump(res, open(OUT + '/result189.json', 'w', encoding='utf-8'),
+          ensure_ascii=False, indent=2)
+print('saved', OUT + '/result189.json')

@@ -1,1 +1,62 @@
-ewogInpoIjogewogICJuYW1lIjogIuS4reaWh8K35rGJ5a2X77yI5bCB6Zet6ZuG77yJIiwKICAiY3VydmUiOiBbCiAgIFsKICAgIDUwMDAsCiAgICA2NzEKICAgXSwKICAgWwogICAgMTAwMDAsCiAgICA4NTAKICAgXSwKICAgWwogICAgMjAwMDAsCiAgICA5OTUKICAgXSwKICAgWwogICAgNDAwMDAsCiAgICAxMjU4CiAgIF0sCiAgIFsKICAgIDc5Mzg2LAogICAgMTQ3OQogICBdCiAgXSwKICAiYiI6IDAuMjg1MjYyNTM0OTgyNjM4NTQKIH0sCiAiY29kZSI6IHsKICAibmFtZSI6ICLku6PnoIHCt+agh+ivhuespu+8iOmAoOivjcK35byA5pS+6ZuG77yJIiwKICAiY3VydmUiOiBbCiAgIFsKICAgIDUwMDAsCiAgICAxMDM0CiAgIF0sCiAgIFsKICAgIDEwMDAwLAogICAgMTQ4NQogICBdLAogICBbCiAgICA1MDAwMCwKICAgIDM4NzIKICAgXSwKICAgWwogICAgMTAwMDAwLAogICAgNjAzNwogICBdLAogICBbCiAgICAyMDAwMDAsCiAgICAxMTUyMAogICBdLAogICBbCiAgICA1MDAwMDAsCiAgICAzMDg1NgogICBdLAogICBbCiAgICAxMDAwMDAwLAogICAgNTQxMzYKICAgXQogIF0sCiAgImIiOiAwLjc0ODk4NDQ5NzQ4ODUyMTEKIH0KfQ==
+{
+ "zh": {
+  "name": "中文·汉字（封闭集）",
+  "curve": [
+   [
+    5000,
+    671
+   ],
+   [
+    10000,
+    850
+   ],
+   [
+    20000,
+    995
+   ],
+   [
+    40000,
+    1258
+   ],
+   [
+    79386,
+    1479
+   ]
+  ],
+  "b": 0.28526253498263854
+ },
+ "code": {
+  "name": "代码·标识符（造词·开放集）",
+  "curve": [
+   [
+    5000,
+    1034
+   ],
+   [
+    10000,
+    1485
+   ],
+   [
+    50000,
+    3872
+   ],
+   [
+    100000,
+    6037
+   ],
+   [
+    200000,
+    11520
+   ],
+   [
+    500000,
+    30856
+   ],
+   [
+    1000000,
+    54136
+   ]
+  ],
+  "b": 0.7489844974885211
+ }
+}

@@ -1,1 +1,37 @@
-ewogICJial90aW1lIjogIjIwMjYtMTAtMjNUMjA6MTc6MjAuOTQxMDU3IiwKICAid2VpaGFpX3NvbGFyX3RpbWUiOiAiMjA6NDE6NDciLAogICJiZWlqaW5nX3NvbGFyX3RpbWUiOiAiMjA6MTk6MDEiLAogICJsb25fZGlmZl9taW4iOiAyMi44LAogICJhbHRfd2VpaGFpIjogLTM5LjMzLAogICJhbHRfYmVpamluZyI6IC0zNC40MiwKICAibGlnaHRfbm93IjogMC4wLAogICJkYXlfY3VydmUiOiBbCiAgICAwLjMyNTUsCiAgICAwLjQ3MTksCiAgICAwLjU3NzIsCiAgICAwLjYzNDMsCiAgICAwLjYzOTIsCiAgICAwLjU5MTYsCiAgICAwLjQ5NDcsCiAgICAwLjM1NTIsCiAgICAwLjE4MjYsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjE0NzkKICBdLAogICJkaXN0aW5jdF93YW50IjogOSwKICAiYWxpdmVfZW5kIjogdHJ1ZQp9
+{
+  "bj_time": "2026-10-23T20:17:20.941057",
+  "weihai_solar_time": "20:41:47",
+  "beijing_solar_time": "20:19:01",
+  "lon_diff_min": 22.8,
+  "alt_weihai": -39.33,
+  "alt_beijing": -34.42,
+  "light_now": 0.0,
+  "day_curve": [
+    0.3255,
+    0.4719,
+    0.5772,
+    0.6343,
+    0.6392,
+    0.5916,
+    0.4947,
+    0.3552,
+    0.1826,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.1479
+  ],
+  "distinct_want": 9,
+  "alive_end": true
+}

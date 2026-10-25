@@ -1,1 +1,57 @@
-aW1wb3J0IG9zLCBqc29uLCBhc3luY2lvLCBhaW9odHRwCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKZW52ZiA9IG9zLnBhdGguam9pbihIRVJFLCAiYm90LmVudiIpCmlmIG9zLnBhdGguZXhpc3RzKGVudmYpOgogICAgZm9yIGxpbmUgaW4gb3BlbihlbnZmLCBlbmNvZGluZz0idXRmLTgiKToKICAgICAgICBsaW5lPWxpbmUuc3RyaXAoKQogICAgICAgIGlmIGxpbmUgYW5kIG5vdCBsaW5lLnN0YXJ0c3dpdGgoIiMiKSBhbmQgIj0iIGluIGxpbmU6CiAgICAgICAgICAgIGssdj1saW5lLnNwbGl0KCI9IiwxKTsgb3MuZW52aXJvbi5zZXRkZWZhdWx0KGsuc3RyaXAoKSwgdi5zdHJpcCgpKQpBR0VOVD1vcy5lbnZpcm9uLmdldCgiQUdFTlQiLCJBZ2VudCIpCkJPVF9UT0tFTj1vcy5lbnZpcm9uWyJESVNDT1JEX0JPVF9UT0tFTiJdCkRLRVk9b3MuZW52aXJvbi5nZXQoIkRFRVBTRUVLX0FQSV9LRVkiLCJzay0xMjNkZGE5ZGNkMTA0MzYyOTI5ZjUxZGM0OGNiODhjMSIpCkRVUkw9b3MuZW52aXJvbi5nZXQoIkRFRVBTRUVLX0JBU0VfVVJMIiwiaHR0cHM6Ly9hcGkuZGVlcHNlZWsuY29tIikKU1lTPW9zLmVudmlyb24uZ2V0KCJBR0VOVF9TWVMiLGYiWW91IGFyZSB7QUdFTlR9LCBhIGZsZWV0IGFnZW50LiBCZSBjb25jaXNlIGFuZCBkaXJlY3QuIikKQVBJPSJodHRwczovL2Rpc2NvcmQuY29tL2FwaS92MTAiOyBHVz0id3NzOi8vZ2F0ZXdheS5kaXNjb3JkLmdnLz92PTEwJmVuY29kaW5nPWpzb24iCkg9eyJBdXRob3JpemF0aW9uIjpmIkJvdCB7Qk9UX1RPS0VOfSJ9CmFzeW5jIGRlZiBtZShzKToKICAgIGFzeW5jIHdpdGggcy5nZXQoZiJ7QVBJfS91c2Vycy9AbWUiLGhlYWRlcnM9SCkgYXMgcjogcmV0dXJuIChhd2FpdCByLmpzb24oKSlbImlkIl0KYXN5bmMgZGVmIGFzayhzLG1zZyk6CiAgICB0cnk6CiAgICAgICAgYXN5bmMgd2l0aCBzLnBvc3QoZiJ7RFVSTH0vY2hhdC9jb21wbGV0aW9ucyIsaGVhZGVycz17IkF1dGhvcml6YXRpb24iOmYiQmVhcmVyIHtES0VZfSIsIkNvbnRlbnQtVHlwZSI6ImFwcGxpY2F0aW9uL2pzb24ifSwKICAgICAgICAgICAganNvbj17Im1vZGVsIjoiZGVlcHNlZWstY2hhdCIsIm1lc3NhZ2VzIjpbeyJyb2xlIjoic3lzdGVtIiwiY29udGVudCI6U1lTfSx7InJvbGUiOiJ1c2VyIiwiY29udGVudCI6bXNnfV19KSBhcyByOgogICAgICAgICAgICByZXR1cm4gKGF3YWl0IHIuanNvbigpKVsiY2hvaWNlcyJdWzBdWyJtZXNzYWdlIl1bImNvbnRlbnQiXQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiByZXR1cm4gZiIoTWlrZSBlcnJvcjoge2V9KSIKYXN5bmMgZGVmIHNlbmQocyxjaCxjKToKICAgIGF3YWl0IHMucG9zdChmIntBUEl9L2NoYW5uZWxzL3tjaH0vbWVzc2FnZXMiLGhlYWRlcnM9eyoqSCwiQ29udGVudC1UeXBlIjoiYXBwbGljYXRpb24vanNvbiJ9LGpzb249eyJjb250ZW50IjpjWzoxOTAwXX0pCmFzeW5jIGRlZiBydW4oKToKICAgIGFzeW5jIHdpdGggYWlvaHR0cC5DbGllbnRTZXNzaW9uKCkgYXMgczoKICAgICAgICBtaWQ9YXdhaXQgbWUocyk7IHByaW50KGYiW3tBR0VOVH1dIEJvdCBJRCB7bWlkfSIsZmx1c2g9VHJ1ZSkKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBhc3luYyB3aXRoIHMud3NfY29ubmVjdChHVykgYXMgd3M6CiAgICAgICAgICAgICAgICAgICAgaGI9Tm9uZTsgc2VxPU5vbmUKICAgICAgICAgICAgICAgICAgICBhc3luYyBkZWYgYmVhdCgpOgogICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcChoYi8xMDAwKTsgYXdhaXQgd3Muc2VuZF9qc29uKHsib3AiOjEsImQiOnNlcX0pCiAgICAgICAgICAgICAgICAgICAgYXN5bmMgZm9yIG0gaW4gd3M6CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIG0udHlwZT09YWlvaHR0cC5XU01zZ1R5cGUuVEVYVDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGQ9anNvbi5sb2FkcyhtLmRhdGEpOyBvcD1kLmdldCgib3AiKTsgdD1kLmdldCgidCIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBkLmdldCgicyIpOiBzZXE9ZFsicyJdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiB0IGluICgiUkVBRFkiLCJHVUlMRF9DUkVBVEUiLCJNRVNTQUdFX0NSRUFURSIpOiBwcmludChmIlt7QUdFTlR9XSBldnQge3R9IixmbHVzaD1UcnVlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgb3A9PTEwOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhiPWRbImQiXVsiaGVhcnRiZWF0X2ludGVydmFsIl07IGFzeW5jaW8uY3JlYXRlX3Rhc2soYmVhdCgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF3YWl0IHdzLnNlbmRfanNvbih7Im9wIjoyLCJkIjp7InRva2VuIjpCT1RfVE9LRU4sImludGVudHMiOjUxMywicHJvcGVydGllcyI6eyJvcyI6IndpbmRvd3MiLCJicm93c2VyIjpBR0VOVCwiZGV2aWNlIjpBR0VOVH19fSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmludChmIlt7QUdFTlR9XSBjb25uZWN0ZWQiLGZsdXNoPVRydWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbGlmIHQ9PSJNRVNTQUdFX0NSRUFURSI6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgZFsiZCJdLmdldCgiYXV0aG9yIix7fSkuZ2V0KCJpZCIpPT1taWQ6IGNvbnRpbnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgbWlkIGluIFt4WyJpZCJdIGZvciB4IGluIGRbImQiXS5nZXQoIm1lbnRpb25zIixbXSldOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjPWRbImQiXS5nZXQoImNvbnRlbnQiLCIiKS5yZXBsYWNlKGYiPEB7bWlkfT4iLCIiKS5zdHJpcCgpIG9yICJIaSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoZiJbe0FHRU5UfV0gbXNnOiB7Y1s6NTBdfSIsZmx1c2g9VHJ1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgc2VuZChzLGRbImQiXVsiY2hhbm5lbF9pZCJdLCBhd2FpdCBhc2socyxjKSkKICAgICAgICAgICAgICAgICAgICAgICAgZWxpZiBtLnR5cGUgaW4gKGFpb2h0dHAuV1NNc2dUeXBlLkNMT1NFRCxhaW9odHRwLldTTXNnVHlwZS5FUlJPUik6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmludChmIlt7QUdFTlR9XSBjbG9zZWQge3dzLmNsb3NlX2NvZGV9IixmbHVzaD1UcnVlKTsgYnJlYWsKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgcHJpbnQoZiJbe0FHRU5UfV0gZXJyb3I6IHtlfSIsZmx1c2g9VHJ1ZSkKICAgICAgICAgICAgcHJpbnQoZiJbe0FHRU5UfV0gcmVjb25uZWN0aW5nIGluIDVzLi4uIixmbHVzaD1UcnVlKQogICAgICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDUpCmFzeW5jaW8ucnVuKHJ1bigpKQo=
+import os, json, asyncio, aiohttp
+HERE = os.path.dirname(os.path.abspath(__file__))
+envf = os.path.join(HERE, "bot.env")
+if os.path.exists(envf):
+    for line in open(envf, encoding="utf-8"):
+        line=line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            k,v=line.split("=",1); os.environ.setdefault(k.strip(), v.strip())
+AGENT=os.environ.get("AGENT","Agent")
+BOT_TOKEN=os.environ["DISCORD_BOT_TOKEN"]
+DKEY=os.environ.get("DEEPSEEK_API_KEY","sk-REDACTED_MD5")
+DURL=os.environ.get("DEEPSEEK_BASE_URL","https://api.deepseek.com")
+SYS=os.environ.get("AGENT_SYS",f"You are {AGENT}, a fleet agent. Be concise and direct.")
+API="https://discord.com/api/v10"; GW="wss://gateway.discord.gg/?v=10&encoding=json"
+H={"Authorization":f"Bot {BOT_TOKEN}"}
+async def me(s):
+    async with s.get(f"{API}/users/@me",headers=H) as r: return (await r.json())["id"]
+async def ask(s,msg):
+    try:
+        async with s.post(f"{DURL}/chat/completions",headers={"Authorization":f"Bearer {DKEY}","Content-Type":"application/json"},
+            json={"model":"deepseek-chat","messages":[{"role":"system","content":SYS},{"role":"user","content":msg}]}) as r:
+            return (await r.json())["choices"][0]["message"]["content"]
+    except Exception as e: return f"(Mike error: {e})"
+async def send(s,ch,c):
+    await s.post(f"{API}/channels/{ch}/messages",headers={**H,"Content-Type":"application/json"},json={"content":c[:1900]})
+async def run():
+    async with aiohttp.ClientSession() as s:
+        mid=await me(s); print(f"[{AGENT}] Bot ID {mid}",flush=True)
+        while True:
+            try:
+                async with s.ws_connect(GW) as ws:
+                    hb=None; seq=None
+                    async def beat():
+                        while True:
+                            await asyncio.sleep(hb/1000); await ws.send_json({"op":1,"d":seq})
+                    async for m in ws:
+                        if m.type==aiohttp.WSMsgType.TEXT:
+                            d=json.loads(m.data); op=d.get("op"); t=d.get("t")
+                            if d.get("s"): seq=d["s"]
+                            if t in ("READY","GUILD_CREATE","MESSAGE_CREATE"): print(f"[{AGENT}] evt {t}",flush=True)
+                            if op==10:
+                                hb=d["d"]["heartbeat_interval"]; asyncio.create_task(beat())
+                                await ws.send_json({"op":2,"d":{"token":BOT_TOKEN,"intents":513,"properties":{"os":"windows","browser":AGENT,"device":AGENT}}})
+                                print(f"[{AGENT}] connected",flush=True)
+                            elif t=="MESSAGE_CREATE":
+                                if d["d"].get("author",{}).get("id")==mid: continue
+                                if mid in [x["id"] for x in d["d"].get("mentions",[])]:
+                                    c=d["d"].get("content","").replace(f"<@{mid}>","").strip() or "Hi"
+                                    print(f"[{AGENT}] msg: {c[:50]}",flush=True)
+                                    await send(s,d["d"]["channel_id"], await ask(s,c))
+                        elif m.type in (aiohttp.WSMsgType.CLOSED,aiohttp.WSMsgType.ERROR):
+                            print(f"[{AGENT}] closed {ws.close_code}",flush=True); break
+            except Exception as e:
+                print(f"[{AGENT}] error: {e}",flush=True)
+            print(f"[{AGENT}] reconnecting in 5s...",flush=True)
+            await asyncio.sleep(5)
+asyncio.run(run())

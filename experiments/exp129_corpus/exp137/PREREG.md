@@ -1,1 +1,29 @@
-IyBleHAxMzcg6aKE5rOo5YaM77yI5YaZ5LqO5Y+W5pWw5LiO5omr5o+P5LmL5YmN77yJCgojIyDog4zmma8KZXhwMTM277ya5Y+R6LSn54mIIDMg5p2h6KeE5YiZ5Zyo6K+E5rWL5qGG5p625LiKIDIuNCDmrKEvMTAwS0LjgIE5LzEyIOaWh+S7tuayiem7mO+8mwrlnKjmiJDnhp/lupPkuIogMC45IOasoS8xMDBLQuOAgTEzLzE0IOayiem7mO+8m+WcqOS9juaYn+S7o+eggeS4iiAxLjYg5qyhLzEwMEtC44CCCue7k+iuuiLmsonpu5jmmK/nnJ/nmoQi5oiQ56uL77yM5L2G5Y+q6KaG55uW5LqGIDMg57G76K+t5paZ44CCCgojIyBIMe+8iOS4u+WBh+iuvu+8iQrlrZjlnKjkuIDkuKrlsJrmnKrmtYvov4fnmoTku6PnoIHln5/vvIzlhbblj5HotKfop4TliJnnnJ/lrp7lkb3kuK3lr4bluqbmmL7okZfpq5jkuo7miJDnhp/lupPln7rnur/vvIwK5LiU57K+5bqm5Y+v6YCa6L+H6Ze46Zeo44CC5Y2z77ya5rKJ6buY5pivIuWfn+mAiemUmSLvvIzkuI3mmK8i5Lqn5ZOB5peg5Lu35YC8IuOAggoKIyMgSDLvvIjlpIfmi6nvvIkK5LiN5a2Y5Zyo6L+Z5qC355qE5Z+f44CC5rKJ6buY5piv5Lqn5ZOB5oCn6LSo77yM5LiN5piv5Y+W5qC36Zeu6aKY44CCCgojIyDpl7jpl6jvvIjot5HkuYvliY3lrprmrbvvvIkK5p+Q5Z+f5ruh6Laz5YWo6YOo5LiJ5p2h5omN566XIEgxIOaIkOeri++8mgogIEcxICDlr4bluqbvvJror6Xln5/lkb3kuK3lr4bluqYgPj0gNS4wIOasoS8xMDBLQu+8iOaIkOeGn+W6k+Wfuue6vyAwLjkg55qEIDUuNSDlgI3vvIkKICBHMiAg57K+5bqm77ya6K+l5Z+f5oq95qC35Yik5a6a5Lil5qC8IFRQIOeOhyA+PSA2MCUKICBHMyAg5qC35pys77ya6K+l5Z+f5Y+v5Yik5a6a5Y+R546w5pWwIG4gPj0gNe+8jOS4lCBXaWxzb24g5LiL55WMID49IDAuNDUK5LiJ5p2h5Lu75LiA5LiN5ruh6LazIC0+IEgy77yM5LuY6LS55qGj57u05oyB5pqC5YGc44CCCgojIyDliKTlrprlj6PlvoTvvIjmsr/nlKggZXhwMTM0LzEzNe+8iQotIOS4peagvCBUUO+8muivhOWuoeiAheaJk+W8gOivpeihjO+8jOiDveehruiupOi/meWwseaYr+S4gOS4quecn+e8uumZt+OAggotIOWtmOeWkeS4gOW+i+iusCBGUO+8iOS/neWuiO+8jOWBj+WQkSBIMu+8ieOAggotIOWIpOWumuiAheWPquacieaIkeS4gOS4qu+8jOi/meaYr+W3suefpeWxgOmZkOOAggoKIyMg56aB5q2iCi0g5LiN5YWB6K645Zug5Li6IuafkOS4quWfn+aVsOWtl+WlveeciyLogIzkuovlkI7np7vliqjpmIjlgLzjgIIKLSDkuI3lhYHorrjmiorlrr3mnb7moIflh4bvvIjlrZfpnaLmiJDnq4vvvInlvZPkvZzovr7moIfkvp3mja7vvIhleHAxMzEg5bey6K+B5piO6L+Z5oqK5bC65a2Q5a6z5LqGIHYwLjMuMO+8ieOAggo=
+# exp137 预注册（写于取数与扫描之前）
+
+## 背景
+exp136：发货版 3 条规则在评测框架上 2.4 次/100KB、9/12 文件沉默；
+在成熟库上 0.9 次/100KB、13/14 沉默；在低星代码上 1.6 次/100KB。
+结论"沉默是真的"成立，但只覆盖了 3 类语料。
+
+## H1（主假设）
+存在一个尚未测过的代码域，其发货规则真实命中密度显著高于成熟库基线，
+且精度可通过闸门。即：沉默是"域选错"，不是"产品无价值"。
+
+## H2（备择）
+不存在这样的域。沉默是产品性质，不是取样问题。
+
+## 闸门（跑之前定死）
+某域满足全部三条才算 H1 成立：
+  G1  密度：该域命中密度 >= 5.0 次/100KB（成熟库基线 0.9 的 5.5 倍）
+  G2  精度：该域抽样判定严格 TP 率 >= 60%
+  G3  样本：该域可判定发现数 n >= 5，且 Wilson 下界 >= 0.45
+三条任一不满足 -> H2，付费档维持暂停。
+
+## 判定口径（沿用 exp134/135）
+- 严格 TP：评审者打开该行，能确认这就是一个真缺陷。
+- 存疑一律记 FP（保守，偏向 H2）。
+- 判定者只有我一个，这是已知局限。
+
+## 禁止
+- 不允许因为"某个域数字好看"而事后移动阈值。
+- 不允许把宽松标准（字面成立）当作达标依据（exp131 已证明这把尺子害了 v0.3.0）。

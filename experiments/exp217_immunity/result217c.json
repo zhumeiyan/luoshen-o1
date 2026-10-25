@@ -1,1 +1,191 @@
-ewogInNjYW5fcyI6IFsKICB7CiAgICJzIjogMC4wNSwKICAgInRocmVhdCI6IDEuMCwKICAgIkgiOiAwLjAsCiAgICJuZXQiOiAtMC4wMDc1LAogICAibWlzIjogMC4wCiAgfSwKICB7CiAgICJzIjogMC4xLAogICAidGhyZWF0IjogMS4wLAogICAiSCI6IDAuMCwKICAgIm5ldCI6IC0wLjAxNSwKICAgIm1pcyI6IDAuMAogIH0sCiAgewogICAicyI6IDAuMTUsCiAgICJ0aHJlYXQiOiAwLjUxOSwKICAgIkgiOiAwLjQ4MSwKICAgIm5ldCI6IDAuNDU4NSwKICAgIm1pcyI6IDAuMAogIH0sCiAgewogICAicyI6IDAuMiwKICAgInRocmVhdCI6IDAuMDc4LAogICAiSCI6IDAuOTIyLAogICAibmV0IjogMC44OTIsCiAgICJtaXMiOiAwLjAKICB9LAogIHsKICAgInMiOiAwLjMsCiAgICJ0aHJlYXQiOiAwLjAzNCwKICAgIkgiOiAwLjk2NiwKICAgIm5ldCI6IDAuOTIxLAogICAibWlzIjogMC4wCiAgfSwKICB7CiAgICJzIjogMC40LAogICAidGhyZWF0IjogMC4wMjgsCiAgICJIIjogMC45NzIsCiAgICJuZXQiOiAwLjkxMiwKICAgIm1pcyI6IDAuMAogIH0sCiAgewogICAicyI6IDAuNSwKICAgInRocmVhdCI6IDAuMDA5LAogICAiSCI6IDAuOTkxLAogICAibmV0IjogMC45MTYsCiAgICJtaXMiOiAwLjAKICB9LAogIHsKICAgInMiOiAwLjcsCiAgICJ0aHJlYXQiOiAwLjAwNiwKICAgIkgiOiAwLjk5NCwKICAgIm5ldCI6IDAuODg5LAogICAibWlzIjogMC4wCiAgfSwKICB7CiAgICJzIjogMC45LAogICAidGhyZWF0IjogMC4wMDIsCiAgICJIIjogMC45OTgsCiAgICJuZXQiOiAwLjg2MywKICAgIm1pcyI6IDAuMAogIH0sCiAgewogICAicyI6IDEuMCwKICAgInRocmVhdCI6IDAuMCwKICAgIkgiOiAxLjAsCiAgICJuZXQiOiAwLjg1LAogICAibWlzIjogMC4wCiAgfQogXSwKICJiZXN0X3MiOiB7CiAgInMiOiAwLjMsCiAgInRocmVhdCI6IDAuMDM0LAogICJIIjogMC45NjYsCiAgIm5ldCI6IDAuOTIxLAogICJtaXMiOiAwLjAKIH0sCiAiQV9leHRlcm5hbCI6IFsKICB7CiAgICJzdHJhdGVneSI6ICJub25lIiwKICAgInRocmVhdCI6IDEuMCwKICAgIkgiOiAwLjAsCiAgICJtaXNfcGVyX2dlbiI6IDAuMCwKICAgIm1pc19zaGFyZSI6IDAuMCwKICAgImNsZWFyZWQiOiAiMC81IgogIH0sCiAgewogICAic3RyYXRlZ3kiOiAibWFya2VyIiwKICAgInRocmVhdCI6IDAuMCwKICAgIkgiOiAxLjAsCiAgICJtaXNfcGVyX2dlbiI6IDAuMDE5NjUsCiAgICJtaXNfc2hhcmUiOiAwLjY2MDIsCiAgICJjbGVhcmVkIjogIjUvNSIKICB9LAogIHsKICAgInN0cmF0ZWd5IjogInNlbGZyZXBvcnQiLAogICAidGhyZWF0IjogMS4wLAogICAiSCI6IDAuMCwKICAgIm1pc19wZXJfZ2VuIjogMC4wMDEwMiwKICAgIm1pc19zaGFyZSI6IDAuMDUyMiwKICAgImNsZWFyZWQiOiAiMC81IgogIH0sCiAgewogICAic3RyYXRlZ3kiOiAid2l0bmVzcyIsCiAgICJ0aHJlYXQiOiAwLjA0NSwKICAgIkgiOiAwLjk1NSwKICAgIm1pc19wZXJfZ2VuIjogMC4wLAogICAibWlzX3NoYXJlIjogMC4wLAogICAiY2xlYXJlZCI6ICI1LzUiCiAgfSwKICB7CiAgICJzdHJhdGVneSI6ICJjb21ibyIsCiAgICJ0aHJlYXQiOiAwLjAsCiAgICJIIjogMS4wLAogICAibWlzX3Blcl9nZW4iOiAwLjAxOTc4LAogICAibWlzX3NoYXJlIjogMC42NjMxLAogICAiY2xlYXJlZCI6ICI1LzUiCiAgfQogXSwKICJCX2ludGVybmFsIjogWwogIHsKICAgInN0cmF0ZWd5IjogIm5vbmUiLAogICAidGhyZWF0IjogMS4wLAogICAiSCI6IDAuMCwKICAgIm1pc19wZXJfZ2VuIjogMC4wLAogICAibWlzX3NoYXJlIjogMC4wLAogICAiY2xlYXJlZCI6ICIwLzUiCiAgfSwKICB7CiAgICJzdHJhdGVneSI6ICJtYXJrZXIiLAogICAidGhyZWF0IjogMS4wLAogICAiSCI6IDAuMCwKICAgIm1pc19wZXJfZ2VuIjogMC4wMDExMSwKICAgIm1pc19zaGFyZSI6IDAuMDU2MiwKICAgImNsZWFyZWQiOiAiMC81IgogIH0sCiAgewogICAic3RyYXRlZ3kiOiAic2VsZnJlcG9ydCIsCiAgICJ0aHJlYXQiOiAxLjAsCiAgICJIIjogMC4wLAogICAibWlzX3Blcl9nZW4iOiAwLjAwMTExLAogICAibWlzX3NoYXJlIjogMC4wNTYyLAogICAiY2xlYXJlZCI6ICIwLzUiCiAgfSwKICB7CiAgICJzdHJhdGVneSI6ICJ3aXRuZXNzIiwKICAgInRocmVhdCI6IDAuMDM0LAogICAiSCI6IDAuOTY2LAogICAibWlzX3Blcl9nZW4iOiAwLjAsCiAgICJtaXNfc2hhcmUiOiAwLjAsCiAgICJjbGVhcmVkIjogIjUvNSIKICB9LAogIHsKICAgInN0cmF0ZWd5IjogImNvbWJvIiwKICAgInRocmVhdCI6IDAuMDM2LAogICAiSCI6IDAuOTY0LAogICAibWlzX3Blcl9nZW4iOiAwLjAxODczLAogICAibWlzX3NoYXJlIjogMC41NDQ0LAogICAiY2xlYXJlZCI6ICI1LzUiCiAgfQogXSwKICJwYXJhbHlzaXMiOiBbCiAgewogICAibW9kZSI6ICJ3aXRuZXNzKOWklumDqOingeivgeS6uikiLAogICAidGhyZWF0IjogMC4wMzQsCiAgICJIIjogMC45NjYsCiAgICJwZXJfc2VlZF90aHJlYXQiOiBbCiAgICAwLjAsCiAgICAwLjA0LAogICAgMC4wNCwKICAgIDAuMDU1LAogICAgMC4wMzUKICAgXQogIH0sCiAgewogICAibW9kZSI6ICJ3aXRuZXNzKOiHquaIkeagoeWHhikiLAogICAidGhyZWF0IjogMC40MDksCiAgICJIIjogMC41OTEsCiAgICJwZXJfc2VlZF90aHJlYXQiOiBbCiAgICAwLjAxLAogICAgMS4wLAogICAgMC4wMSwKICAgIDAuMDI1LAogICAgMS4wCiAgIF0KICB9CiBdCn0=
+{
+ "scan_s": [
+  {
+   "s": 0.05,
+   "threat": 1.0,
+   "H": 0.0,
+   "net": -0.0075,
+   "mis": 0.0
+  },
+  {
+   "s": 0.1,
+   "threat": 1.0,
+   "H": 0.0,
+   "net": -0.015,
+   "mis": 0.0
+  },
+  {
+   "s": 0.15,
+   "threat": 0.519,
+   "H": 0.481,
+   "net": 0.4585,
+   "mis": 0.0
+  },
+  {
+   "s": 0.2,
+   "threat": 0.078,
+   "H": 0.922,
+   "net": 0.892,
+   "mis": 0.0
+  },
+  {
+   "s": 0.3,
+   "threat": 0.034,
+   "H": 0.966,
+   "net": 0.921,
+   "mis": 0.0
+  },
+  {
+   "s": 0.4,
+   "threat": 0.028,
+   "H": 0.972,
+   "net": 0.912,
+   "mis": 0.0
+  },
+  {
+   "s": 0.5,
+   "threat": 0.009,
+   "H": 0.991,
+   "net": 0.916,
+   "mis": 0.0
+  },
+  {
+   "s": 0.7,
+   "threat": 0.006,
+   "H": 0.994,
+   "net": 0.889,
+   "mis": 0.0
+  },
+  {
+   "s": 0.9,
+   "threat": 0.002,
+   "H": 0.998,
+   "net": 0.863,
+   "mis": 0.0
+  },
+  {
+   "s": 1.0,
+   "threat": 0.0,
+   "H": 1.0,
+   "net": 0.85,
+   "mis": 0.0
+  }
+ ],
+ "best_s": {
+  "s": 0.3,
+  "threat": 0.034,
+  "H": 0.966,
+  "net": 0.921,
+  "mis": 0.0
+ },
+ "A_external": [
+  {
+   "strategy": "none",
+   "threat": 1.0,
+   "H": 0.0,
+   "mis_per_gen": 0.0,
+   "mis_share": 0.0,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "marker",
+   "threat": 0.0,
+   "H": 1.0,
+   "mis_per_gen": 0.01965,
+   "mis_share": 0.6602,
+   "cleared": "5/5"
+  },
+  {
+   "strategy": "selfreport",
+   "threat": 1.0,
+   "H": 0.0,
+   "mis_per_gen": 0.00102,
+   "mis_share": 0.0522,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "witness",
+   "threat": 0.045,
+   "H": 0.955,
+   "mis_per_gen": 0.0,
+   "mis_share": 0.0,
+   "cleared": "5/5"
+  },
+  {
+   "strategy": "combo",
+   "threat": 0.0,
+   "H": 1.0,
+   "mis_per_gen": 0.01978,
+   "mis_share": 0.6631,
+   "cleared": "5/5"
+  }
+ ],
+ "B_internal": [
+  {
+   "strategy": "none",
+   "threat": 1.0,
+   "H": 0.0,
+   "mis_per_gen": 0.0,
+   "mis_share": 0.0,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "marker",
+   "threat": 1.0,
+   "H": 0.0,
+   "mis_per_gen": 0.00111,
+   "mis_share": 0.0562,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "selfreport",
+   "threat": 1.0,
+   "H": 0.0,
+   "mis_per_gen": 0.00111,
+   "mis_share": 0.0562,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "witness",
+   "threat": 0.034,
+   "H": 0.966,
+   "mis_per_gen": 0.0,
+   "mis_share": 0.0,
+   "cleared": "5/5"
+  },
+  {
+   "strategy": "combo",
+   "threat": 0.036,
+   "H": 0.964,
+   "mis_per_gen": 0.01873,
+   "mis_share": 0.5444,
+   "cleared": "5/5"
+  }
+ ],
+ "paralysis": [
+  {
+   "mode": "witness(外部见证人)",
+   "threat": 0.034,
+   "H": 0.966,
+   "per_seed_threat": [
+    0.0,
+    0.04,
+    0.04,
+    0.055,
+    0.035
+   ]
+  },
+  {
+   "mode": "witness(自我校准)",
+   "threat": 0.409,
+   "H": 0.591,
+   "per_seed_threat": [
+    0.01,
+    1.0,
+    0.01,
+    0.025,
+    1.0
+   ]
+  }
+ ]
+}

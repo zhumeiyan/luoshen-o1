@@ -1,1 +1,4 @@
-ICBjb25kIGRvbmUgbm9uZQpub25lIHJhd19kPTAuMzgxIFI9NC4xCiAgY29uZCBkb25lIGRjCmRjIHJhd19kPTAuMjAxIFI9NC4zCg==
+  cond done none
+none raw_d=0.381 R=4.1
+  cond done dc
+dc raw_d=0.201 R=4.3

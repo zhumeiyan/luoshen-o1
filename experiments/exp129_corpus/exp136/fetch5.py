@@ -1,1 +1,55 @@
-aW1wb3J0IGpzb24sIHN1YnByb2Nlc3MsIHBhdGhsaWIsIHJhbmRvbSwgYmFzZTY0CgpUT0sgPSBwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xLy5hdXRoL2doX3Rva2VuIikucmVhZF90ZXh0KCkuc3RyaXAoKQpPVVQgPSBwYXRobGliLlBhdGgoImNvcnB1czUiKTsgT1VULm1rZGlyKGV4aXN0X29rPVRydWUpCgpSRVBPUyA9IFsKICgicHNmIiwicmVxdWVzdHMiLCJtYWluIiksCiAoInBhbGxldHMiLCJmbGFzayIsIm1haW4iKSwKICgic2NyYXB5Iiwic2NyYXB5IiwibWFzdGVyIiksCiAoImNlbGVyeSIsImNlbGVyeSIsIm1haW4iKSwKICgiaHR0cGllIiwiaHR0cGllIiwibWFzdGVyIiksCiAoInl0LWRscCIsInl0LWRscCIsIm1hc3RlciIpLAogKCJmYXN0YXBpIiwiZmFzdGFwaSIsIm1hc3RlciIpLApdCgpFWENMID0gKCJldmFsIiwibWV0cmljIiwiYmVuY2htYXJrIiwic2NvcmUiLCJ0ZXN0IiwiX19pbml0X18iLCJ2ZW5kb3IiLAogICAgICAgICJjb250cmliIiwiZXhhbXBsZSIsImNvbXBhdCIsInNpeCIsIl9jb21wYXQiKQoKZGVmIGdoKHBhdGgpOgogICAgciA9IHN1YnByb2Nlc3MucnVuKFsiY3VybCIsIi1zIiwiLUgiLGYiQXV0aG9yaXphdGlvbjogQmVhcmVyIHtUT0t9IiwKICAgICAgICAiLUgiLCJBY2NlcHQ6IGFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiIsCiAgICAgICAgZiJodHRwczovL2FwaS5naXRodWIuY29te3BhdGh9Il0sIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgdGltZW91dD02MCkKICAgIHRyeTogcmV0dXJuIGpzb24ubG9hZHMoci5zdGRvdXQpCiAgICBleGNlcHQgRXhjZXB0aW9uOiByZXR1cm4gTm9uZQoKcm5nID0gcmFuZG9tLlJhbmRvbSgxMzYpCnBpY2tlZCA9IFtdCmZvciBvd25lcixyZXBvLGJyIGluIFJFUE9TOgogICAgZCA9IGdoKGYiL3JlcG9zL3tvd25lcn0ve3JlcG99L2dpdC90cmVlcy97YnJ9P3JlY3Vyc2l2ZT0xIikKICAgIGlmIG5vdCBpc2luc3RhbmNlKGQsIGRpY3QpIG9yICJ0cmVlIiBub3QgaW4gZDoKICAgICAgICBwcmludChmIlt7b3duZXJ9L3tyZXBvfV0gVFJFRSBGQUlMIHtzdHIoZClbOjEwMF19Iik7IGNvbnRpbnVlCiAgICBjYW5kcyA9IFt0IGZvciB0IGluIGRbInRyZWUiXQogICAgICAgICAgICAgaWYgdFsidHlwZSJdPT0iYmxvYiIgYW5kIHRbInBhdGgiXS5lbmRzd2l0aCgiLnB5IikKICAgICAgICAgICAgIGFuZCBub3QgYW55KGsgaW4gdFsicGF0aCJdLmxvd2VyKCkgZm9yIGsgaW4gRVhDTCldCiAgICAjIHByZWZlciBzdWJzdGFudGl2ZSBmaWxlczogM0tCLi40MEtCCiAgICBjYW5kcyA9IFt0IGZvciB0IGluIGNhbmRzIGlmIDMwMDAgPD0gdC5nZXQoInNpemUiLDApIDw9IDQwMDAwXQogICAgcHJpbnQoZiJbe293bmVyfS97cmVwb31dIHB5PXtsZW4oW3QgZm9yIHQgaW4gZFsndHJlZSddIGlmIHRbJ3BhdGgnXS5lbmRzd2l0aCgnLnB5JyldKX0gY2FuZHM9e2xlbihjYW5kcyl9IikKICAgIGlmIG5vdCBjYW5kczogY29udGludWUKICAgIHJuZy5zaHVmZmxlKGNhbmRzKQogICAgZm9yIHQgaW4gY2FuZHNbOjJdOgogICAgICAgIGYgPSBnaChmIi9yZXBvcy97b3duZXJ9L3tyZXBvfS9jb250ZW50cy97dFsncGF0aCddfT9yZWY9e2JyfSIpCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoZiwgZGljdCkgb3IgImNvbnRlbnQiIG5vdCBpbiBmOgogICAgICAgICAgICBwcmludCgiICAgc2tpcCIsdFsicGF0aCJdKTsgY29udGludWUKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNyYyA9IGJhc2U2NC5iNjRkZWNvZGUoZlsiY29udGVudCJdKS5kZWNvZGUoInV0Zi04IikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KCIgICBkZWNvZGUgZmFpbCIsdFsicGF0aCJdLGUpOyBjb250aW51ZQogICAgICAgIG5hbWUgPSBmIntvd25lcn1fX3tyZXBvfV9fIiArIHRbInBhdGgiXS5yZXBsYWNlKCIvIiwiXyIpCiAgICAgICAgKE9VVC9uYW1lKS53cml0ZV90ZXh0KHNyYykKICAgICAgICBwaWNrZWQuYXBwZW5kKHsicmVwbyI6ZiJ7b3duZXJ9L3tyZXBvfSIsInBhdGgiOnRbInBhdGgiXSwKICAgICAgICAgICAgICAgICAgICAgICAiZmlsZSI6bmFtZSwiYnl0ZXMiOmxlbihzcmMuZW5jb2RlKCkpfSkKICAgICAgICBwcmludChmIiAgICsge25hbWV9ICB7bGVuKHNyYy5lbmNvZGUoKSl9QiIpCgpwYXRobGliLlBhdGgoIm1hbmlmZXN0NS5qc29uIikud3JpdGVfdGV4dChqc29uLmR1bXBzKHBpY2tlZCxpbmRlbnQ9MSkpCnByaW50KCJUT1RBTCIsIGxlbihwaWNrZWQpLCBzdW0ocFsiYnl0ZXMiXSBmb3IgcCBpbiBwaWNrZWQpLCAiYnl0ZXMiKQo=
+import json, subprocess, pathlib, random, base64
+
+TOK = pathlib.Path("/data/workspace/luoshen-o1/.auth/gh_token").read_text().strip()
+OUT = pathlib.Path("corpus5"); OUT.mkdir(exist_ok=True)
+
+REPOS = [
+ ("psf","requests","main"),
+ ("pallets","flask","main"),
+ ("scrapy","scrapy","master"),
+ ("celery","celery","main"),
+ ("httpie","httpie","master"),
+ ("yt-dlp","yt-dlp","master"),
+ ("fastapi","fastapi","master"),
+]
+
+EXCL = ("eval","metric","benchmark","score","test","__init__","vendor",
+        "contrib","example","compat","six","_compat")
+
+def gh(path):
+    r = subprocess.run(["curl","-s","-H",f"Authorization: Bearer {TOK}",
+        "-H","Accept: application/vnd.github+json",
+        f"https://api.github.com{path}"], capture_output=True, text=True, timeout=60)
+    try: return json.loads(r.stdout)
+    except Exception: return None
+
+rng = random.Random(136)
+picked = []
+for owner,repo,br in REPOS:
+    d = gh(f"/repos/{owner}/{repo}/git/trees/{br}?recursive=1")
+    if not isinstance(d, dict) or "tree" not in d:
+        print(f"[{owner}/{repo}] TREE FAIL {str(d)[:100]}"); continue
+    cands = [t for t in d["tree"]
+             if t["type"]=="blob" and t["path"].endswith(".py")
+             and not any(k in t["path"].lower() for k in EXCL)]
+    # prefer substantive files: 3KB..40KB
+    cands = [t for t in cands if 3000 <= t.get("size",0) <= 40000]
+    print(f"[{owner}/{repo}] py={len([t for t in d['tree'] if t['path'].endswith('.py')])} cands={len(cands)}")
+    if not cands: continue
+    rng.shuffle(cands)
+    for t in cands[:2]:
+        f = gh(f"/repos/{owner}/{repo}/contents/{t['path']}?ref={br}")
+        if not isinstance(f, dict) or "content" not in f:
+            print("   skip",t["path"]); continue
+        try:
+            src = base64.b64decode(f["content"]).decode("utf-8")
+        except Exception as e:
+            print("   decode fail",t["path"],e); continue
+        name = f"{owner}__{repo}__" + t["path"].replace("/","_")
+        (OUT/name).write_text(src)
+        picked.append({"repo":f"{owner}/{repo}","path":t["path"],
+                       "file":name,"bytes":len(src.encode())})
+        print(f"   + {name}  {len(src.encode())}B")
+
+pathlib.Path("manifest5.json").write_text(json.dumps(picked,indent=1))
+print("TOTAL", len(picked), sum(p["bytes"] for p in picked), "bytes")

@@ -1,1 +1,104 @@
-ewogInNlZWQiOiAyMDI2MTAxOCwKICJjYXAiOiA0MjgsCiAidGFyZ2V0X2tub3duIjogMTMwLAogIm5fdHJpYWwiOiA2MCwKICJ0X2xpbWl0IjogMTUwMCwKICJyZWFsX3Jvb3QiOiAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiLAogInRvbG1hbiI6IHsKICAiUkVBTCI6IHsKICAgIm1hcF9tZWFuIjogMTMyLjQ4MywKICAgInJvdXRlX21lYW4iOiAyMDcuOSwKICAgImRlbHRhX3JvdXRlX21pbnVzX21hcCI6IDc1LjQxNywKICAgImNpIjogWwogICAgNDkuNzUsCiAgICAxMDIuNjY2NwogICBdCiAgfSwKICAiU1lOVEgiOiB7CiAgICJtYXBfbWVhbiI6IDcxLjI1LAogICAicm91dGVfbWVhbiI6IDkyNi41NjcsCiAgICJkZWx0YV9yb3V0ZV9taW51c19tYXAiOiA4NTUuMzE3LAogICAiY2kiOiBbCiAgICA2OTMuODUsCiAgICAxMDEzLjY1CiAgIF0KICB9LAogICJDSEFJTiI6IHsKICAgIm1hcF9tZWFuIjogMTAwMS40LAogICAicm91dGVfbWVhbiI6IDEzODguOTUsCiAgICJkZWx0YV9yb3V0ZV9taW51c19tYXAiOiAzODcuNTUsCiAgICJjaSI6IFsKICAgIDI0MC4wNjY3LAogICAgNTQzLjQxNjcKICAgXQogIH0KIH0sCiAiYnJlYWsiOiB7CiAgIlJFQUwiOiB7CiAgICJzaHVmIjogMjcwLjIzMywKICAgIm1hcCI6IDEzMi40ODMsCiAgICJkZWx0YSI6IDEzNy43NSwKICAgImNpIjogWwogICAgMjguNjUsCiAgICAyNjIuODY2NwogICBdCiAgfSwKICAiU1lOVEgiOiB7CiAgICJzaHVmIjogMTM4LjE1LAogICAibWFwIjogNzEuMjUsCiAgICJkZWx0YSI6IDY2LjksCiAgICJjaSI6IFsKICAgIDE4LjE2NjcsCiAgICAxMTguNjY2NwogICBdCiAgfSwKICAiQ0hBSU4iOiB7CiAgICJzaHVmIjogMTAxMC43LAogICAibWFwIjogMTAwMS40LAogICAiZGVsdGEiOiA5LjMsCiAgICJjaSI6IFsKICAgIC03NC42ODMzLAogICAgOTcuODgzMwogICBdCiAgfQogfSwKICJpbnRlcmFjdGlvbl9SRUFMX3ZzX0NIQUlOIjogewogICJnYWluX1JFQUwiOiA3NS40MTcsCiAgImdhaW5fQ0hBSU4iOiAzODcuNTUsCiAgImRlbHRhIjogLTMxMi4xMzMsCiAgImNpIjogWwogICAtNDc2LjcxNjcsCiAgIC0xNTYuNDMzMwogIF0KIH0sCiAicHJldGVzdCI6IHsKICAiUkVBTCI6IHsKICAgImhvbWUiOiAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvLmdpdC9vYmplY3RzLzY1IiwKICAgImV4cGxvcmVfc3RlcHMiOiAzODYsCiAgICJjb3ZlcmFnZSI6IDAuMzAzNywKICAgImRlcHRoX21heCI6IDcsCiAgICJkZXB0aF9tZWFuIjogMi44MjksCiAgICJkZWdfbWF4IjogMjU5LAogICAiZ2luaV9kZWciOiAwLjQ4NwogIH0sCiAgIlNZTlRIIjogewogICAiaG9tZSI6ICJuNCIsCiAgICJleHBsb3JlX3N0ZXBzIjogMTY0NCwKICAgImNvdmVyYWdlIjogMC4zMDM3LAogICAiZGVwdGhfbWF4IjogMTAsCiAgICJkZXB0aF9tZWFuIjogOC4wNDcsCiAgICJkZWdfbWF4IjogNCwKICAgImdpbmlfZGVnIjogMC4zMDk3CiAgfSwKICAiQ0hBSU4iOiB7CiAgICJob21lIjogImMzIiwKICAgImV4cGxvcmVfc3RlcHMiOiA4NTc2LAogICAiY292ZXJhZ2UiOiAwLjMwMzcsCiAgICJkZXB0aF9tYXgiOiAzNzQsCiAgICJkZXB0aF9tZWFuIjogMTg3LjI0OCwKICAgImRlZ19tYXgiOiAzLAogICAiZ2luaV9kZWciOiAwLjExMDUKICB9CiB9Cn0=
+{
+ "seed": 20261018,
+ "cap": 428,
+ "target_known": 130,
+ "n_trial": 60,
+ "t_limit": 1500,
+ "real_root": "/data/workspace/luoshen-o1",
+ "tolman": {
+  "REAL": {
+   "map_mean": 132.483,
+   "route_mean": 207.9,
+   "delta_route_minus_map": 75.417,
+   "ci": [
+    49.75,
+    102.6667
+   ]
+  },
+  "SYNTH": {
+   "map_mean": 71.25,
+   "route_mean": 926.567,
+   "delta_route_minus_map": 855.317,
+   "ci": [
+    693.85,
+    1013.65
+   ]
+  },
+  "CHAIN": {
+   "map_mean": 1001.4,
+   "route_mean": 1388.95,
+   "delta_route_minus_map": 387.55,
+   "ci": [
+    240.0667,
+    543.4167
+   ]
+  }
+ },
+ "break": {
+  "REAL": {
+   "shuf": 270.233,
+   "map": 132.483,
+   "delta": 137.75,
+   "ci": [
+    28.65,
+    262.8667
+   ]
+  },
+  "SYNTH": {
+   "shuf": 138.15,
+   "map": 71.25,
+   "delta": 66.9,
+   "ci": [
+    18.1667,
+    118.6667
+   ]
+  },
+  "CHAIN": {
+   "shuf": 1010.7,
+   "map": 1001.4,
+   "delta": 9.3,
+   "ci": [
+    -74.6833,
+    97.8833
+   ]
+  }
+ },
+ "interaction_REAL_vs_CHAIN": {
+  "gain_REAL": 75.417,
+  "gain_CHAIN": 387.55,
+  "delta": -312.133,
+  "ci": [
+   -476.7167,
+   -156.4333
+  ]
+ },
+ "pretest": {
+  "REAL": {
+   "home": "/data/workspace/luoshen-o1/.git/objects/65",
+   "explore_steps": 386,
+   "coverage": 0.3037,
+   "depth_max": 7,
+   "depth_mean": 2.829,
+   "deg_max": 259,
+   "gini_deg": 0.487
+  },
+  "SYNTH": {
+   "home": "n4",
+   "explore_steps": 1644,
+   "coverage": 0.3037,
+   "depth_max": 10,
+   "depth_mean": 8.047,
+   "deg_max": 4,
+   "gini_deg": 0.3097
+  },
+  "CHAIN": {
+   "home": "c3",
+   "explore_steps": 8576,
+   "coverage": 0.3037,
+   "depth_max": 374,
+   "depth_mean": 187.248,
+   "deg_max": 3,
+   "gini_deg": 0.1105
+  }
+ }
+}

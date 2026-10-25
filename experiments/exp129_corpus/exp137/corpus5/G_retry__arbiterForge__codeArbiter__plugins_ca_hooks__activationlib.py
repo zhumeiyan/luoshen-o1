@@ -1,1 +1,280 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIGNvZGVBcmJpdGVyIC0gQUNUSVZBVElPTjogd2hpY2ggSG9zdCB0aGlzIHByb2Nlc3MgaXMgcnVubmluZyB1bmRlciwgd2hlcmUgdGhlCiMgcHJvamVjdCByb290IGlzLCBhbmQgd2hldGhlciB0aGUgYXJiaXRlciBpcyBzd2l0Y2hlZCBvbiBmb3IgaXQuCiMKIyBFeHRyYWN0ZWQgZnJvbSBfaG9va2xpYiAoaXNzdWUgIzMyMSwgYXJjaGl0ZWN0dXJlLTAwMikgYXMgc2xpY2UgNCwgdGhlIGxhc3QgYW5kCiMgdGhlIG9uZSB3aXRoIHJlYWwgdGVldGguIE1lYXN1cmVkIGxpa2UgdGhlIG90aGVyczogdGhpcyBjbHVzdGVyIHJlZmVyZW5jZXMKIyBOT1RISU5HIGZyb20gdGhlIHJlc3Qgb2YgX2hvb2tsaWIuIFRoZSBlZGdlIHJ1bnMgdGhlIG90aGVyIHdheSBmb3IgdGhlIGZpcnN0CiMgdGltZSAtIF9sb2dfZ2F0ZV9ldmVudCAod2hpY2ggc3RheXMgYmVoaW5kKSBjYWxscyBnZXRfaG9zdCgpIGFuZAojIHByb2plY3Rfcm9vdCgpIC0gc28gX2hvb2tsaWIgaW1wb3J0cyBmcm9tIGhlcmUgYW5kIG5ldmVyIHRoZSByZXZlcnNlLiBTdGlsbAojIG9uZS13YXksIHN0aWxsIG5vIGN5Y2xlLgojCiMgV0hZIFRIRVNFIEJFTE9ORyBUT0dFVEhFUjogdGhleSBhcmUgdGhlIHRocmVlIGFuc3dlcnMgZXZlcnkgaG9vayBuZWVkcyBiZWZvcmUKIyBpdCBjYW4gZGVjaWRlIGFueXRoaW5nLCBhbmQgdGhleSBzaGFyZSB0d28gcHJvY2Vzcy1saWZldGltZSBjYWNoZXMuIGBfSE9TVGAgYW5kCiMgYF9ST09UX0NBQ0hFYCBleGlzdCBiZWNhdXNlIGEgaG9vayBpcyBhIHNpbmdsZS1zaG90IHByb2Nlc3Mgd2hvc2UgaG9zdCBpZGVudGl0eQojIGFuZCBwcm9qZWN0IHJvb3QgY2Fubm90IGNoYW5nZSBtaWQtcnVuOyBhcmJpdGVyX2FjdGl2ZSByZWFkcyB0aGUgcm9vdCB0byBmaW5kCiMgQ09OVEVYVC5tZCwgYW5kIHByb2plY3Rfcm9vdCByZWFkcyB0aGUgaG9zdC4gU3BsaXR0aW5nIHRoZW0gd291bGQgcHV0IGEgY2FjaGUKIyBpbiBvbmUgbW9kdWxlIGFuZCBpdHMgb25seSB3cml0ZXIgaW4gYW5vdGhlci4KIwojIE9OIFRIRSBNVVRBQkxFIEdMT0JBTFMsIGJlY2F1c2UgdGhpcyBpcyB0aGUgdHJhcCBpbiB0aGlzIHNsaWNlOgojIGBfSE9TVGAgaXMgZGVsaWJlcmF0ZWx5IE5PVCByZS1leHBvcnRlZCBieSBfaG9va2xpYi4gYGZyb20gX2FjdGl2YXRpb25saWIKIyBpbXBvcnQgX0hPU1RgIGJpbmRzIHRoZSBWQUxVRSBhdCBpbXBvcnQgdGltZSwgc28gYSBsYXRlciBzZXRfaG9zdCgpIHdvdWxkCiMgcmViaW5kIHRoZSBuYW1lIEhFUkUgYW5kIGxlYXZlIF9ob29rbGliIGhvbGRpbmcgYSBzdGFsZSBOb25lIGZvcmV2ZXIgLSB0aGUKIyBleGFjdCBzaWxlbnQtZGl2ZXJnZW5jZSBidWcgdGhlIHBhcnRpdGlvbiBleGlzdHMgdG8gcHJldmVudC4gVGhlIHRocmVlCiMgYWNjZXNzb3JzIEFSRSByZS1leHBvcnRlZCwgYW5kIHRoZXkgYWxsIHJlYWQgYW5kIHdyaXRlIHRoaXMgbW9kdWxlJ3MgZ2xvYmFsLAojIHNvIGV2ZXJ5IGNhbGxlciBzZWVzIG9uZSBjYWNoZSBubyBtYXR0ZXIgd2hpY2ggbW9kdWxlIGl0IGltcG9ydGVkIHRoZW0gZnJvbS4KIyBUaGF0IGlzIHRoZSBvcHBvc2l0ZSBvZiBzbGljZSAzJ3MgbGVzc29uIChyZS1leHBvcnQgdGhlIHByaXZhdGVzKSBhbmQgZm9yIGEKIyBwcmVjaXNlIHJlYXNvbjogYSBGVU5DVElPTiBiaW5kaW5nIHN0YXlzIGxpdmUsIGEgVkFMVUUgYmluZGluZyBkb2VzIG5vdC4KIyBWZXJpZmllZDogbm90aGluZyBpbiB0aGUgcmVwbyByZWFkcyBfaG9va2xpYi5fSE9TVCBkaXJlY3RseS4KCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBvcwppbXBvcnQgcmUKCmltcG9ydCBob3N0YXBpCgoKIyBUaGUgbG9hZGVkIEhvc3QgaXMgcHJvY2Vzcy1jYWNoZWQ6IGhvb2tzIGFyZSBzaW5nbGUtc2hvdCBwcm9jZXNzZXMsIGFuZCB0aGUKIyBob3N0J3MgaWRlbnRpdHkgY2Fubm90IGNoYW5nZSBtaWQtcHJvY2VzcyAoaXRzIG1ldGhvZHMgcmVhZCBlbnYvcGF5bG9hZCBzdGF0ZQojIGxpdmUgYXQgY2FsbCB0aW1lLCBzbyBjYWNoaW5nIHRoZSBPQkpFQ1QgY2hhbmdlcyBubyB2ZXJkaWN0KS4KX0hPU1QgPSBOb25lCgpkZWYgZ2V0X2hvc3QoKToKICAgICIiIlRoZSBwcm9jZXNzJ3MgSG9zdCBpbnN0YW5jZSAoaG9zdGFwaS5sb2FkX2hvc3QoKSwgY2FjaGVkKS4iIiIKICAgIGdsb2JhbCBfSE9TVAogICAgaWYgX0hPU1QgaXMgTm9uZToKICAgICAgICBfSE9TVCA9IGhvc3RhcGkubG9hZF9ob3N0KCkKICAgIHJldHVybiBfSE9TVAoKCmRlZiBzZXRfaG9zdChob3N0KToKICAgICIiIkRlcGVuZGVuY3ktaW5qZWN0aW9uIHNlYW0gKCMyNTcgYXJjaGl0ZWN0dXJlLTAwMS9wZXJmb3JtYW5jZS0wMDIpLgoKICAgIFByaW1lcyB0aGUgbW9kdWxlLWNhY2hlZCBgX0hPU1RgIHRoYXQgYGdldF9ob3N0KClgIHJlYWRzLiBFdmVyeSBlbnRyeQogICAgc2NyaXB0J3MgYHJ1bihob3N0LCBhcmd2PU5vbmUpYCBjYWxscyB0aGlzIEJFRk9SRSBgbWFpbigpYCwgc28gdGhlIEhvc3QKICAgIGluc3RhbmNlIHRoZSBgX19tYWluX19gIGd1YXJkIGFscmVhZHkgcmVzb2x2ZWQgdmlhIGBob3N0YXBpLmxvYWRfaG9zdCgpYAogICAgaXMgdGhlIFNBTUUgb2JqZWN0IGBnZXRfaG9zdCgpYCBzZXJ2ZXMgaW5zaWRlIGBtYWluKClgIOKAlCBjbG9zaW5nIHR3bwogICAgZGVmZWN0cyBhdCBvbmNlOiAoMSkgYG1haW4oKWAgbm8gbG9uZ2VyIHRyaWdnZXJzIGl0cyBvd24gcmVkdW5kYW50CiAgICBgaG9zdGFwaS5sb2FkX2hvc3QoKWAgKGEgc2Vjb25kIGBfaG9zdC5weWAgbG9hZCBwZXIgaW52b2NhdGlvbiksIGFuZAogICAgKDIpIGBydW4oaG9zdClgIHN0b3BzIHNpbGVudGx5IGlnbm9yaW5nIGl0cyBgaG9zdGAgYXJndW1lbnQg4oCUIGEgdGVzdCB0aGF0CiAgICBjYWxscyBgcnVuKGZha2VfaG9zdClgIG5vdyBnZW51aW5lbHkgZXhlcmNpc2VzIGBmYWtlX2hvc3RgLCBub3Qgd2hhdGV2ZXIKICAgIGBsb2FkX2hvc3QoKWAgcmVzb2x2ZXMgZnJvbSBkaXNrLiBJbiBwcm9kdWN0aW9uIHRoZSBpbmplY3RlZCBob3N0IElTIHRoZQogICAgYGxvYWRfaG9zdCgpYCByZXN1bHQgdGhlIGd1YXJkIGFscmVhZHkgY29tcHV0ZWQsIHNvIHRoaXMgY2hhbmdlcyBubwogICAgYmVoYXZpb3Ig4oCUIGl0IG9ubHkgcmVtb3ZlcyB0aGUgcmVkdW5kYW50IHNlY29uZCBsb2FkIGFuZCBtYWtlcyB0aGUKICAgIGV4aXN0aW5nIGBydW4oaG9zdClgIHBhcmFtZXRlciBsaXZlLiIiIgogICAgZ2xvYmFsIF9IT1NUCiAgICBfSE9TVCA9IGhvc3QKCgpkZWYgcmVzZXRfaG9zdCgpOgogICAgIiIiVGVzdC1vbmx5OiBjbGVhciB0aGUgaW5qZWN0ZWQvY2FjaGVkIGBfSE9TVGAgc28gdGhlIG5leHQgYGdldF9ob3N0KClgCiAgICBsYXp5LWxvYWRzIGFmcmVzaC4gUHJvZHVjdGlvbiBob29rIHByb2Nlc3NlcyBhcmUgc2luZ2xlLXNob3QgYW5kIG5ldmVyIG5lZWQKICAgIHRoaXM7IGJ1dCBgc2V0X2hvc3QoKWAgbWFrZXMgYF9IT1NUYCBhIHByb2Nlc3MtbGlmZXRpbWUgc2luZ2xldG9uLCBzbyBhIHRlc3QKICAgIHRoYXQgY2FsbHMgYHJ1bihmYWtlX2hvc3QpYCBtdXN0IHJlc2V0IGl0IGluIHRlYXJEb3duIOKAlCBvdGhlcndpc2UgdGhlIGZha2UKICAgIGxlYWtzIGludG8gYW55IGxhdGVyIGluLXByb2Nlc3MgdGVzdCB0aGF0IGNhbGxzIGBnZXRfaG9zdCgpYCB3aXRob3V0IGl0cyBvd24KICAgIHBhdGNoLCBzaWxlbnRseSBydW5uaW5nIGFnYWluc3QgdGhlIHdyb25nIGhvc3QgYW5kIG1hc2tpbmcgYSBnYXRlCiAgICByZWdyZXNzaW9uIChzZWN1cml0eSByZXZpZXcgIzI1NywgTE9XKS4iIiIKICAgIGdsb2JhbCBfSE9TVAogICAgX0hPU1QgPSBOb25lCgojIHByb2plY3Rfcm9vdCgpIG1lbW9pemF0aW9uIChwZXJmb3JtYW5jZS0wMDEvMDAzLCAjMjYwKS4gQSBob29rIGlzIGEKIyBzaW5nbGUtc2hvdCBwcm9jZXNzLCBzbyBDTEFVREVfUFJPSkVDVF9ESVIgYW5kIHRoZSBwcm9jZXNzIGN3ZCBjYW5ub3QKIyBjaGFuZ2UgbWlkLXByb2Nlc3Mg4oCUIGJ1dCB0aGUgcmVzb2x2ZWQgVkFMVUUgaXMgY2FjaGVkIGtleWVkIG9uIHRob3NlIHR3bwojIGlucHV0cyAobm90IHVuY29uZGl0aW9uYWxseSkgcmF0aGVyIHRoYW4gYXMgb25lIGJhcmUgdmFsdWUsIHNvIGFuIGVudi9jd2QKIyBjaGFuZ2UgaXMgYSBjYWNoZSBNSVNTLCBuZXZlciBhIHN0YWxlIGhpdC4gVGhpcyBrZWVwcyB0aGUgcHJvZHVjdGlvbgojIHNpbmdsZS1zaG90IGNvbnRyYWN0ICh0aGUgc2FtZSBob29rIHByb2Nlc3MgYWx3YXlzIHNlZXMgYW4gdW5jaGFuZ2luZwojIGVudi9jd2QsIHNvIGl0IHJlc29sdmVzIGF0IG1vc3Qgb25jZSkgd2hpbGUgc3RheWluZyBjb3JyZWN0IGZvciB0aGUKIyBpbi1wcm9jZXNzIGludGVncmF0aW9uLXRlc3QgaGFybmVzc2VzIHRoYXQgbGVnaXRpbWF0ZWx5IHJlLXRhcmdldAojIHByb2plY3Rfcm9vdCgpIGFjcm9zcyBtYW55IGZpeHR1cmVzL2VudnMgd2l0aGluIG9uZSBQeXRob24gcHJvY2VzcwojIChgcHl0aG9uIC1tIHVuaXR0ZXN0IGRpc2NvdmVyYCBydW5zIHRoZSB3aG9sZSBzdWl0ZSBpbiBPTkUgaW50ZXJwcmV0ZXIg4oCUCiMgYW4gdW5jb25kaXRpb25hbCBzaW5nbGUtdmFsdWUgY2FjaGUgd291bGQgbGVhayB0aGUgRklSU1QgdGVzdCdzIHJlc29sdmVkCiMgcm9vdCBpbnRvIGV2ZXJ5IGxhdGVyIHRlc3QgdGhhdCBjYWxscyBwcm9qZWN0X3Jvb3QoKSBvciB3YXJuKCkvYmxvY2soKS8KIyByZW1pbmQoKSBpbi1wcm9jZXNzKS4gQSBwYXlsb2FkJ3MgYGN3ZGAgaXMgZGVsaWJlcmF0ZWx5IE5PVCBwYXJ0IG9mIHRoZQojIGNhY2hlIGtleTogd2l0aGluIG9uZSByZWFsIGhvb2sgcHJvY2VzcyB0aGUgcGF5bG9hZCBpcyBwYXJzZWQgYXQgbW9zdCBvbmNlCiMgYW5kIG5ldmVyIGNoYW5nZXMsIHNvIGEgcGF5bG9hZC1iZWFyaW5nIGNhbGwgYW5kIGEgbGF0ZXIgbm8tcGF5bG9hZCBjYWxsIGluCiMgdGhlIFNBTUUgKGVudiwgY3dkKSBjb250ZXh0IGFyZSB0aGUgU0FNRSBsb2dpY2FsIHJlc29sdXRpb24gYW5kIG11c3QgcmV0dXJuCiMgdGhlIFNBTUUgdmFsdWUg4oCUIGV4YWN0bHkgdGhlICJwYXlsb2FkLWJlYXJpbmcgZmlyc3QgY2FsbCwgbGF0ZXIgbm8tYXJnCiMgY2FsbHMgc3RheSBjb25zaXN0ZW50IiBjb250cmFjdC4gKEEgcGF5bG9hZC1vbmx5IHNjZW5hcmlvIOKAlCBDb2RleCwgbm8KIyBDTEFVREVfUFJPSkVDVF9ESVIg4oCUIHN0aWxsIHJlc29sdmVzIG9uY2U6IHRoZSBmaXJzdCBjYWxsJ3MgcGF5bG9hZCB3aW5zIGFuZAojIGlzIGNhY2hlZCBhZ2FpbnN0IHRoZSBjdXJyZW50IChlbnYsIGN3ZCk7IGVudi9jd2QgZG9uJ3QgY2hhbmdlIGVpdGhlci4pCl9ST09UX0NBQ0hFID0ge30KCgpkZWYgX3Jvb3RfY2FjaGVfa2V5KCk6CiAgICByZXR1cm4gKG9zLmVudmlyb24uZ2V0KCJDTEFVREVfUFJPSkVDVF9ESVIiKSwgb3MuZ2V0Y3dkKCkpCgoKZGVmIF9yZXNldF9yb290X2NhY2hlKCk6CiAgICAiIiJUZXN0LW9ubHk6IGRyb3AgZXZlcnkgbWVtb2l6ZWQgcHJvamVjdF9yb290KCkgcmVzb2x1dGlvbi4gUHJvZHVjdGlvbgogICAgaG9vayBwcm9jZXNzZXMgbmV2ZXIgbmVlZCB0aGlzIChlYWNoIGlzIHNpbmdsZS1zaG90KTsgaW50ZWdyYXRpb24gdGVzdHMKICAgIHRoYXQgc2ltdWxhdGUgTUFOWSBsb2dpY2FsIGhvb2sgaW52b2NhdGlvbnMgaW4gb25lIFB5dGhvbiBwcm9jZXNzIGFuZAogICAgbmVlZCBhIHJlc29sdXRpb24gdG8gYmUgZ2VudWluZWx5IHJlLWNvbXB1dGVkIChyYXRoZXIgdGhhbiBzZXJ2ZWQgZnJvbSBhbgogICAgc3RpbGwtdmFsaWQgKGVudiwgY3dkKSBjYWNoZSBlbnRyeSkgY2FsbCB0aGlzIGJldHdlZW4gc2NlbmFyaW9zLiIiIgogICAgX1JPT1RfQ0FDSEUuY2xlYXIoKQoKCmRlZiBtYXJrZXJfcm9vdChwYXlsb2FkPU5vbmUpOgogICAgIiIiVGhlIHJvb3QgYC5jb2RlYXJiaXRlci8ubWFya2Vycy9gIGdhdGUgcGFzc2VzIChzZWN1cml0eS1wYXNzLnB5LAogICAgbWlncmF0aW9uLXBhc3MucHksIGFuZCB0aGUgSC0wOWIvSC0xMGIvSC0xNCBndWFyZHMpIGFyZSB3cml0dGVuIHRvIGFuZAogICAgcmVhZCBmcm9tICgjNjA0KSDigJQgc2VlIGBob3N0YXBpLkhvc3QubWFya2VyX3Jvb3RgJ3MgZG9jc3RyaW5nIGZvciB3aHkKICAgIHRoaXMgaXMgTk9UIHRoZSBzYW1lIHRoaW5nIGFzIGBwcm9qZWN0X3Jvb3QoKWAgaW4gYSBsaW5rZWQgd29ya3RyZWUuCgogICAgTm90IG1lbW9pemVkIGxpa2UgYHByb2plY3Rfcm9vdCgpYCBhYm92ZTogY2FsbGVkIGF0IG1vc3Qgb25jZSBvciB0d2ljZQogICAgcGVyIGhvb2sgcHJvY2VzcyAodGhlIG1hcmtlciBjaGVja3MsIG9yIGEgc2luZ2xlIGBzZWN1cml0eS1wYXNzLnB5YCAvCiAgICBgbWlncmF0aW9uLXBhc3MucHlgIHJ1biksIHNvIHRoZSBleHRyYSBnaXQgc3Bhd24gYSBsaW5rZWQtd29ya3RyZWUKICAgIGVzY2FsYXRpb24gb2NjYXNpb25hbGx5IGNvc3RzIGlzIG5vdCB3b3J0aCBhIHNlY29uZCBjYWNoZSB0byBhdm9pZC4iIiIKICAgIHJldHVybiBnZXRfaG9zdCgpLm1hcmtlcl9yb290KHBheWxvYWQpCgpBUkJJVEVSX1JFID0gcmUuY29tcGlsZShyIl5ccyphcmJpdGVyOlxzKmVuYWJsZWRccyokIiwgcmUuSSkKX0JPRFlfTUFSS0VSX1JFID0gcmUuY29tcGlsZShyIl5ccyo8IS0tXHMqSU5JVElBTElaRURccyotLT5ccyokIikKX0ZFTkNFX1JFID0gcmUuY29tcGlsZShyIl4gezAsM30oYHszLH18fnszLH0pKD86W15gfl0uKik/JCIpCgpkZWYgY29udGV4dF9zdGF0ZV90ZXh0KHRleHQpOgogICAgIiIiUmV0dXJuIChlbmFibGVkLCBtYWxmb3JtZWQsIGluaXRpYWxpemVkKSBmcm9tIG9uZSBDT05URVhULm1kIHBhcnNlLiIiIgogICAgbGluZXMgPSAodGV4dCBvciAiIikuc3BsaXQoIlxuIikKICAgIGlmIG5vdCBsaW5lczoKICAgICAgICByZXR1cm4gKEZhbHNlLCBGYWxzZSwgRmFsc2UpCiAgICBmaXJzdCA9IGxpbmVzWzBdLmxzdHJpcCgi77u/IikgICMgdG9sZXJhdGUgYSBsZWFkaW5nIFVURi04IEJPTQogICAgaWYgZmlyc3Quc3RyaXAoKSAhPSAiLS0tIjoKICAgICAgICByZXR1cm4gKEZhbHNlLCBGYWxzZSwgRmFsc2UpCiAgICBlbmFibGVkID0gRmFsc2UKICAgIGJvZHlfc3RhcnQgPSBOb25lCiAgICBmb3IgaW5kZXgsIGxuIGluIGVudW1lcmF0ZShsaW5lc1sxOl0sIDEpOgogICAgICAgIGlmIGxuLnN0cmlwKCkgPT0gIi0tLSI6CiAgICAgICAgICAgIGJvZHlfc3RhcnQgPSBpbmRleCArIDEKICAgICAgICAgICAgYnJlYWsKICAgICAgICBpZiBBUkJJVEVSX1JFLm1hdGNoKGxuKToKICAgICAgICAgICAgZW5hYmxlZCA9IFRydWUKICAgIGlmIGJvZHlfc3RhcnQgaXMgTm9uZToKICAgICAgICByZXR1cm4gKEZhbHNlLCBUcnVlLCBGYWxzZSkKICAgIGlmIG5vdCBlbmFibGVkOgogICAgICAgIHJldHVybiAoRmFsc2UsIEZhbHNlLCBGYWxzZSkKCiAgICBmZW5jZV9jaGFyID0gIiIKICAgIGZlbmNlX2xlbmd0aCA9IDAKICAgIGluX2NvbW1lbnQgPSBGYWxzZQogICAgZm9yIGxuIGluIGxpbmVzW2JvZHlfc3RhcnQ6XToKICAgICAgICBzdHJpcHBlZCA9IGxuLnN0cmlwKCkKICAgICAgICBpZiBmZW5jZV9jaGFyOgogICAgICAgICAgICBpZiByZS5mdWxsbWF0Y2gociIgezAsM30iICsgcmUuZXNjYXBlKGZlbmNlX2NoYXIpICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ7IiArIHN0cihmZW5jZV9sZW5ndGgpICsgciIsfVxzKiIsIGxuKToKICAgICAgICAgICAgICAgIGZlbmNlX2NoYXIgPSAiIgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIGluX2NvbW1lbnQ6CiAgICAgICAgICAgIGlmICItLT4iIGluIGxuOgogICAgICAgICAgICAgICAgaW5fY29tbWVudCA9IEZhbHNlCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZmVuY2UgPSBfRkVOQ0VfUkUubWF0Y2gobG4pCiAgICAgICAgaWYgZmVuY2U6CiAgICAgICAgICAgIGZlbmNlX2NoYXIsIGZlbmNlX2xlbmd0aCA9IGZlbmNlLmdyb3VwKDEpWzBdLCBsZW4oZmVuY2UuZ3JvdXAoMSkpCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgX0JPRFlfTUFSS0VSX1JFLmZ1bGxtYXRjaChsbik6CiAgICAgICAgICAgIHJldHVybiAoVHJ1ZSwgRmFsc2UsIFRydWUpCiAgICAgICAgaWYgIjwhLS0iIGluIHN0cmlwcGVkIGFuZCAiLS0+IiBub3QgaW4gc3RyaXBwZWQ6CiAgICAgICAgICAgIGluX2NvbW1lbnQgPSBUcnVlCiAgICByZXR1cm4gKFRydWUsIEZhbHNlLCBGYWxzZSkKCgpkZWYgZnJvbnRtYXR0ZXJfZW5hYmxlZF90ZXh0KHRleHQpOgogICAgIiIiKGVuYWJsZWQsIG1hbGZvcm1lZCkgZm9yIENPTlRFWFQubWQgY29udGVudDsgc2hhcmVkIHdpdGggYm9keSBwYXJzaW5nLiIiIgogICAgZW5hYmxlZCwgbWFsZm9ybWVkLCBfaW5pdGlhbGl6ZWQgPSBjb250ZXh0X3N0YXRlX3RleHQodGV4dCkKICAgIHJldHVybiAoZW5hYmxlZCwgbWFsZm9ybWVkKQoKCmRlZiBpbml0aWFsaXplZF9ib2R5X3RleHQodGV4dCk6CiAgICAiIiJUcnVlIG9ubHkgZm9yIGEgc3RhbmRhbG9uZSBtYXJrZXIgaW4gYW4gZW5hYmxlZCBDT05URVhULm1kIGJvZHkuIiIiCiAgICByZXR1cm4gY29udGV4dF9zdGF0ZV90ZXh0KHRleHQpWzJdCgoKZGVmIHBhc3NpdmVfYWN0aXZhdGlvbl9pbnZlbnRvcnkocm9vdCk6CiAgICAiIiJSZWFkIG9ubHkgdGhlIGV4cGxpY2l0IHJvb3QncyBhY3RpdmF0aW9uIG1hcmtlcjsgZXhlY3V0ZSBubyBwcm9qZWN0IHRvb2xzLgoKICAgIFRoaXMgaXMgYSBwcmUtc2Vzc2lvbiBpbnNwZWN0aW9uIHJlc3VsdCwgbm90IHByb29mIG9mIHJlcG9zaXRvcnkgaWRlbnRpdHksCiAgICBob3N0IGNhcGFiaWxpdHksIG5ldHdvcmsgcG9saWN5LCBvciBwZXJtaXNzaW9uIHRvIGFjdGl2YXRlLiBUaGUgY2FsbGVyIG11c3QKICAgIGludmVudG9yeSBzZW5zaXRpdmUgcGF0aHMgYmVmb3JlIHNlbmRpbmcgYW55IHNvdXJjZSB0byBhIG1vZGVsLgogICAgIiIiCiAgICByb290ID0gb3MucGF0aC5hYnNwYXRoKHJvb3QpCiAgICBpZiBub3Qgb3MucGF0aC5pc2Rpcihyb290KSBvciBvcy5wYXRoLmlzbGluayhyb290KToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJwYXNzaXZlIGluc3BlY3Rpb24gcmVxdWlyZXMgYW4gZXhpc3RpbmcsIG5vbi1saW5rIGRpcmVjdG9yeSIpCiAgICBzdGF0ZV9kaXIgPSBvcy5wYXRoLmpvaW4ocm9vdCwgIi5jb2RlYXJiaXRlciIpCiAgICBjdHggPSBvcy5wYXRoLmpvaW4oc3RhdGVfZGlyLCAiQ09OVEVYVC5tZCIpCiAgICBpZiBvcy5wYXRoLmlzbGluayhzdGF0ZV9kaXIpIG9yIG9zLnBhdGguaXNsaW5rKGN0eCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigicGFzc2l2ZSBpbnNwZWN0aW9uIHJlZnVzZXMgbGlua2VkIGNvbnRleHQgcGF0aHMiKQogICAgaWYgb3MucGF0aC5sZXhpc3RzKHN0YXRlX2RpcikgYW5kIG5vdCBvcy5wYXRoLmlzZGlyKHN0YXRlX2Rpcik6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiLmNvZGVhcmJpdGVyIGlzIG5vdCBhIGRpcmVjdG9yeSIpCiAgICBpZiBvcy5wYXRoLmxleGlzdHMoY3R4KSBhbmQgbm90IG9zLnBhdGguaXNmaWxlKGN0eCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiQ09OVEVYVC5tZCBpcyBub3QgYSByZWd1bGFyIGZpbGUiKQogICAgZXhpc3RzID0gb3MucGF0aC5pc2ZpbGUoY3R4KQogICAgZW5hYmxlZCA9IG1hbGZvcm1lZCA9IGluaXRpYWxpemVkID0gRmFsc2UKICAgIGlmIGV4aXN0czoKICAgICAgICBpZiBvcy5wYXRoLmdldHNpemUoY3R4KSA+IDEwMjQgKiAxMDI0OgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJDT05URVhULm1kIGV4Y2VlZHMgcGFzc2l2ZSBpbnNwZWN0aW9uIHJlYWQgbGltaXQiKQogICAgICAgIHdpdGggb3BlbihjdHgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIHN0cmVhbToKICAgICAgICAgICAgZW5hYmxlZCwgbWFsZm9ybWVkLCBpbml0aWFsaXplZCA9IGNvbnRleHRfc3RhdGVfdGV4dChzdHJlYW0ucmVhZCgxMDI0ICogMTAyNCArIDEpKQogICAgZWZmZWN0ID0geyJjYXBhYmlsaXR5IjogInVudmVyaWZpZWQiLCAiYXV0aG9yaXphdGlvbiI6ICJub3RfZXN0YWJsaXNoZWQiLAogICAgICAgICAgICAgICJwZXJmb3JtZWQiOiBGYWxzZX0KICAgIGFjdGl2YXRpb25fYmVoYXZpb3JzID0gewogICAgICAgICJnaXRfaG9va3NfZXhjbHVzaW9ucyI6ICJzY2FmZm9sZCBtYXkgd3JpdGUgR2l0LWxvY2FsIGV4Y2x1c2lvbnMgYW5kIGhvb2tzOyBhY3RpdmUgc3RhcnR1cCBtYXkgcmVmcmVzaCBob29rcyIsCiAgICAgICAgImdpdF9mZXRjaCI6ICJhY3RpdmUgc3RhcnR1cCBtYXkgc3Bhd24gZGV0YWNoZWQgR2l0IGZldGNoIiwKICAgICAgICAidXBkYXRlX3JlZnJlc2giOiAiYWN0aXZlIHN0YXJ0dXAgbWF5IHNwYXduIGRldGFjaGVkIHVwZGF0ZSByZWZyZXNoIiwKICAgICAgICAiaW5mZXJlbmNlX3RyYW5zcG9ydCI6ICJob3N0LXNlbGVjdGVkIG1vZGVsIG1heSByZWNlaXZlIGFwcHJvdmVkIHNvdXJjZSBhZnRlciBhdXRob3JpemF0aW9uIiwKICAgIH0KICAgIHJldHVybiB7CiAgICAgICAgInByb2ZpbGUiOiAicGFzc2l2ZS1iZWZvcmUtYWN0aXZhdGlvbiIsCiAgICAgICAgInJvb3QiOiByb290LAogICAgICAgICJyb290X2lkZW50aXR5IjogImNhbGxlcl9zdXBwbGllZF91bnZlcmlmaWVkIiwKICAgICAgICAiY29udGV4dCI6IHsiZXhpc3RzIjogZXhpc3RzLCAiZW5hYmxlZCI6IGVuYWJsZWQsCiAgICAgICAgICAgICAgICAgICAgImluaXRpYWxpemVkIjogaW5pdGlhbGl6ZWQsICJtYWxmb3JtZWQiOiBtYWxmb3JtZWR9LAogICAgICAgICJlZmZlY3RzIjoge25hbWU6IHsqKmVmZmVjdCwgImFjdGl2YXRpb25fYmVoYXZpb3IiOiBiZWhhdmlvcn0KICAgICAgICAgICAgICAgICAgICBmb3IgbmFtZSwgYmVoYXZpb3IgaW4gYWN0aXZhdGlvbl9iZWhhdmlvcnMuaXRlbXMoKX0sCiAgICAgICAgInNvdXJjZV9yZWFkcyI6ICJub25lIiwKICAgICAgICAic2Vuc2l0aXZlX3BhdGhfaW52ZW50b3J5IjogInBlbmRpbmciLAogICAgfQoKCmRlZiBmcm9udG1hdHRlcl9lbmFibGVkKGN0eF9wYXRoKToKICAgICIiIlJldHVybiAoZW5hYmxlZCwgbWFsZm9ybWVkKSBmb3IgQ09OVEVYVC5tZCBPTiBESVNLLiBgZW5hYmxlZGAgaWZmCiAgICBgYXJiaXRlcjogZW5hYmxlZGAgYXBwZWFycyBpbiBhIHByb3Blcmx5LWNsb3NlZCBsZWFkaW5nIFlBTUwgZnJvbnRtYXR0ZXIKICAgIGJsb2NrLiBgbWFsZm9ybWVkYCBpZmYgYSBibG9jayBvcGVucyAoYC0tLWAgb24gbGluZSAxKSBidXQgbmV2ZXIgY2xvc2VzIOKAlCB0aGUKICAgIGZhaWwtbG91ZCBjYXNlLiBBIGZpbGUgd2l0aCBubyBmcm9udG1hdHRlciBhdCBhbGwgaXMgc2ltcGx5IGRvcm1hbnQgKG5vdAogICAgbWFsZm9ybWVkKS4gVW5yZWFkYWJsZSBmaWxlIC0+IChGYWxzZSwgRmFsc2UpLiIiIgogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbihjdHhfcGF0aCwgZW5jb2Rpbmc9InV0Zi04IiwgZXJyb3JzPSJyZXBsYWNlIikgYXMgZjoKICAgICAgICAgICAgdGV4dCA9IGYucmVhZCgpCiAgICBleGNlcHQgRXhjZXB0aW9uOiAgIyBub3FhOiBCTEUwMDEKICAgICAgICByZXR1cm4gKEZhbHNlLCBGYWxzZSkKICAgIHJldHVybiBmcm9udG1hdHRlcl9lbmFibGVkX3RleHQodGV4dCkKCgpkZWYgYXJiaXRlcl9hY3RpdmUocm9vdCk6CiAgICAiIiJUcnVlIGlmZiB0aGlzIHJlcG8gb3B0ZWQgaW4gKGBhcmJpdGVyOiBlbmFibGVkYCBpbiBDT05URVhULm1kIGZyb250bWF0dGVyKS4KICAgIEV2ZXJ5IGVuZm9yY2VtZW50IGhvb2sgZ2F0ZXMgb24gdGhpcyBzbyB0aGUgcGx1Z2luIGlzIGdlbnVpbmVseSBkb3JtYW50IGluCiAgICByZXBvcyB0aGF0IG5ldmVyIG9wdGVkIGluIOKAlCB0aGUgcGx1Z2luLmpzb24gYWN0aXZhdGlvbiBjb250cmFjdC4iIiIKICAgIGVuYWJsZWQsIF8gPSBmcm9udG1hdHRlcl9lbmFibGVkKG9zLnBhdGguam9pbihyb290LCAiLmNvZGVhcmJpdGVyIiwgIkNPTlRFWFQubWQiKSkKICAgIHJldHVybiBlbmFibGVkCgpkZWYgcHJvamVjdF9yb290KHBheWxvYWQ9Tm9uZSk6CiAgICAiIiJUaGUgcHJvamVjdCByb290LiBgQ0xBVURFX1BST0pFQ1RfRElSYCBpcyB0aGUgaGFybmVzcydzIG93biBhdXRob3JpdGF0aXZlCiAgICBzaWduYWwgYW5kIGlzIHRydXN0ZWQgZmlyc3Q6IGEgaG9vayBzdWJwcm9jZXNzIGlzIG5vdCBndWFyYW50ZWVkIHRvIHN0YXJ0CiAgICB3aXRoIHRoZSBwcm9qZWN0IGRpcmVjdG9yeSBhcyBpdHMgY3dkLCBhbmQgYSBgZ2l0IHJldi1wYXJzZWAgZnJvbSBlbHNld2hlcmUKICAgIGNhbiByZXNvbHZlIHRvIGEgZGlmZmVyZW50IHJlcG8gZW50aXJlbHkgKGUuZy4gdGhlIHBsdWdpbidzIG93biBtYXJrZXRwbGFjZQogICAgY2xvbmUpLiBUaGUgZW52LWZpcnN0IHJlYWQgYWxzbyBzYXZlcyBvbmUgZ2l0IHNwYXduIHBlciBob29rIGludm9jYXRpb24uCiAgICBUZXN0IGhhcm5lc3NlcyB0aGF0IHNwYXduIGhvb2tzIGludG8gZml4dHVyZSByZXBvcyBtdXN0IHBpbiB0aGUgdmFyaWFibGUgdG8KICAgIHRoZSBmaXh0dXJlLCBhcyB0aGUgcHJvZHVjdGlvbiBoYXJuZXNzIHBpbnMgaXQgdG8gdGhlIHByb2plY3QuCgogICAgVGhlIHJlc29sdXRpb24gaXRzZWxmIGxpdmVzIG9uIHRoZSBIb3N0IHNlYW0gKGhvc3RhcGkuSG9zdC5wcm9qZWN0X3Jvb3QsCiAgICBBRFItMDAxMSkg4oCUIHRoaXMgZnVuY3Rpb24ga2VlcHMgaXRzIHB1YmxpYyBzaWduYXR1cmUgKG5vdyBhY2NlcHRpbmcgYW4KICAgIG9wdGlvbmFsIGBwYXlsb2FkYCwgYXJjaGl0ZWN0dXJlLTAwNi8jMjYwLCBzbyBhIGNhbGxlciB0aGF0IGFscmVhZHkgaGFzCiAgICB0aGUgcGFyc2VkIGhvb2sgcGF5bG9hZCBjYW4gaGFuZCBpdCB0aHJvdWdoIHRvIHRoZSBwYXlsb2FkLWN3ZCBsZWcpIGFuZAogICAgZGVsZWdhdGVzLCBzbyBldmVyeSBleGlzdGluZyBuby1hcmcgY2FsbGVyL2ltcG9ydCBrZWVwcyB3b3JraW5nIHVuY2hhbmdlZC4KCiAgICBNZW1vaXplZCBwZXIgKENMQVVERV9QUk9KRUNUX0RJUiwgcHJvY2VzcyBjd2QpIOKAlCBzZWUgX1JPT1RfQ0FDSEUgYWJvdmUgZm9yCiAgICB0aGUgZnVsbCBjb250cmFjdCAocGVyZm9ybWFuY2UtMDAxLzAwMywgIzI2MCk6IGF0IG1vc3Qgb25lIHJlc29sdXRpb24KICAgIChhbmQgYXQgbW9zdCBvbmUgZ2l0IHNwYXduKSBwZXIgdGhhdCBrZXksIHNvIHRoZSByZXBlYXRlZCBwcm9qZWN0X3Jvb3QoKQogICAgcmVhZHMgaW5zaWRlIGJsb2NrKCkvcmVtaW5kKCkvd2FybigpJ3MgZ2F0ZS1ldmVudCBsb2dnaW5nIGRvbid0IGVhY2ggcGF5CiAgICBhIGZyZXNoIHN1YnByb2Nlc3MuIiIiCiAgICBrZXkgPSBfcm9vdF9jYWNoZV9rZXkoKQogICAgaWYga2V5IG5vdCBpbiBfUk9PVF9DQUNIRToKICAgICAgICBfUk9PVF9DQUNIRVtrZXldID0gZ2V0X2hvc3QoKS5wcm9qZWN0X3Jvb3QocGF5bG9hZCkKICAgIHJldHVybiBfUk9PVF9DQUNIRVtrZXldCg==
+#!/usr/bin/env python3
+# codeArbiter - ACTIVATION: which Host this process is running under, where the
+# project root is, and whether the arbiter is switched on for it.
+#
+# Extracted from _hooklib (issue #321, architecture-002) as slice 4, the last and
+# the one with real teeth. Measured like the others: this cluster references
+# NOTHING from the rest of _hooklib. The edge runs the other way for the first
+# time - _log_gate_event (which stays behind) calls get_host() and
+# project_root() - so _hooklib imports from here and never the reverse. Still
+# one-way, still no cycle.
+#
+# WHY THESE BELONG TOGETHER: they are the three answers every hook needs before
+# it can decide anything, and they share two process-lifetime caches. `_HOST` and
+# `_ROOT_CACHE` exist because a hook is a single-shot process whose host identity
+# and project root cannot change mid-run; arbiter_active reads the root to find
+# CONTEXT.md, and project_root reads the host. Splitting them would put a cache
+# in one module and its only writer in another.
+#
+# ON THE MUTABLE GLOBALS, because this is the trap in this slice:
+# `_HOST` is deliberately NOT re-exported by _hooklib. `from _activationlib
+# import _HOST` binds the VALUE at import time, so a later set_host() would
+# rebind the name HERE and leave _hooklib holding a stale None forever - the
+# exact silent-divergence bug the partition exists to prevent. The three
+# accessors ARE re-exported, and they all read and write this module's global,
+# so every caller sees one cache no matter which module it imported them from.
+# That is the opposite of slice 3's lesson (re-export the privates) and for a
+# precise reason: a FUNCTION binding stays live, a VALUE binding does not.
+# Verified: nothing in the repo reads _hooklib._HOST directly.
+
+from __future__ import annotations
+
+import os
+import re
+
+import hostapi
+
+
+# The loaded Host is process-cached: hooks are single-shot processes, and the
+# host's identity cannot change mid-process (its methods read env/payload state
+# live at call time, so caching the OBJECT changes no verdict).
+_HOST = None
+
+def get_host():
+    """The process's Host instance (hostapi.load_host(), cached)."""
+    global _HOST
+    if _HOST is None:
+        _HOST = hostapi.load_host()
+    return _HOST
+
+
+def set_host(host):
+    """Dependency-injection seam (#257 architecture-001/performance-002).
+
+    Primes the module-cached `_HOST` that `get_host()` reads. Every entry
+    script's `run(host, argv=None)` calls this BEFORE `main()`, so the Host
+    instance the `__main__` guard already resolved via `hostapi.load_host()`
+    is the SAME object `get_host()` serves inside `main()` — closing two
+    defects at once: (1) `main()` no longer triggers its own redundant
+    `hostapi.load_host()` (a second `_host.py` load per invocation), and
+    (2) `run(host)` stops silently ignoring its `host` argument — a test that
+    calls `run(fake_host)` now genuinely exercises `fake_host`, not whatever
+    `load_host()` resolves from disk. In production the injected host IS the
+    `load_host()` result the guard already computed, so this changes no
+    behavior — it only removes the redundant second load and makes the
+    existing `run(host)` parameter live."""
+    global _HOST
+    _HOST = host
+
+
+def reset_host():
+    """Test-only: clear the injected/cached `_HOST` so the next `get_host()`
+    lazy-loads afresh. Production hook processes are single-shot and never need
+    this; but `set_host()` makes `_HOST` a process-lifetime singleton, so a test
+    that calls `run(fake_host)` must reset it in tearDown — otherwise the fake
+    leaks into any later in-process test that calls `get_host()` without its own
+    patch, silently running against the wrong host and masking a gate
+    regression (security review #257, LOW)."""
+    global _HOST
+    _HOST = None
+
+# project_root() memoization (performance-001/003, #260). A hook is a
+# single-shot process, so CLAUDE_PROJECT_DIR and the process cwd cannot
+# change mid-process — but the resolved VALUE is cached keyed on those two
+# inputs (not unconditionally) rather than as one bare value, so an env/cwd
+# change is a cache MISS, never a stale hit. This keeps the production
+# single-shot contract (the same hook process always sees an unchanging
+# env/cwd, so it resolves at most once) while staying correct for the
+# in-process integration-test harnesses that legitimately re-target
+# project_root() across many fixtures/envs within one Python process
+# (`python -m unittest discover` runs the whole suite in ONE interpreter —
+# an unconditional single-value cache would leak the FIRST test's resolved
+# root into every later test that calls project_root() or warn()/block()/
+# remind() in-process). A payload's `cwd` is deliberately NOT part of the
+# cache key: within one real hook process the payload is parsed at most once
+# and never changes, so a payload-bearing call and a later no-payload call in
+# the SAME (env, cwd) context are the SAME logical resolution and must return
+# the SAME value — exactly the "payload-bearing first call, later no-arg
+# calls stay consistent" contract. (A payload-only scenario — Codex, no
+# CLAUDE_PROJECT_DIR — still resolves once: the first call's payload wins and
+# is cached against the current (env, cwd); env/cwd don't change either.)
+_ROOT_CACHE = {}
+
+
+def _root_cache_key():
+    return (os.environ.get("CLAUDE_PROJECT_DIR"), os.getcwd())
+
+
+def _reset_root_cache():
+    """Test-only: drop every memoized project_root() resolution. Production
+    hook processes never need this (each is single-shot); integration tests
+    that simulate MANY logical hook invocations in one Python process and
+    need a resolution to be genuinely re-computed (rather than served from an
+    still-valid (env, cwd) cache entry) call this between scenarios."""
+    _ROOT_CACHE.clear()
+
+
+def marker_root(payload=None):
+    """The root `.codearbiter/.markers/` gate passes (security-pass.py,
+    migration-pass.py, and the H-09b/H-10b/H-14 guards) are written to and
+    read from (#604) — see `hostapi.Host.marker_root`'s docstring for why
+    this is NOT the same thing as `project_root()` in a linked worktree.
+
+    Not memoized like `project_root()` above: called at most once or twice
+    per hook process (the marker checks, or a single `security-pass.py` /
+    `migration-pass.py` run), so the extra git spawn a linked-worktree
+    escalation occasionally costs is not worth a second cache to avoid."""
+    return get_host().marker_root(payload)
+
+ARBITER_RE = re.compile(r"^\s*arbiter:\s*enabled\s*$", re.I)
+_BODY_MARKER_RE = re.compile(r"^\s*<!--\s*INITIALIZED\s*-->\s*$")
+_FENCE_RE = re.compile(r"^ {0,3}(`{3,}|~{3,})(?:[^`~].*)?$")
+
+def context_state_text(text):
+    """Return (enabled, malformed, initialized) from one CONTEXT.md parse."""
+    lines = (text or "").split("\n")
+    if not lines:
+        return (False, False, False)
+    first = lines[0].lstrip("﻿")  # tolerate a leading UTF-8 BOM
+    if first.strip() != "---":
+        return (False, False, False)
+    enabled = False
+    body_start = None
+    for index, ln in enumerate(lines[1:], 1):
+        if ln.strip() == "---":
+            body_start = index + 1
+            break
+        if ARBITER_RE.match(ln):
+            enabled = True
+    if body_start is None:
+        return (False, True, False)
+    if not enabled:
+        return (False, False, False)
+
+    fence_char = ""
+    fence_length = 0
+    in_comment = False
+    for ln in lines[body_start:]:
+        stripped = ln.strip()
+        if fence_char:
+            if re.fullmatch(r" {0,3}" + re.escape(fence_char) +
+                            "{" + str(fence_length) + r",}\s*", ln):
+                fence_char = ""
+            continue
+        if in_comment:
+            if "-->" in ln:
+                in_comment = False
+            continue
+        fence = _FENCE_RE.match(ln)
+        if fence:
+            fence_char, fence_length = fence.group(1)[0], len(fence.group(1))
+            continue
+        if _BODY_MARKER_RE.fullmatch(ln):
+            return (True, False, True)
+        if "<!--" in stripped and "-->" not in stripped:
+            in_comment = True
+    return (True, False, False)
+
+
+def frontmatter_enabled_text(text):
+    """(enabled, malformed) for CONTEXT.md content; shared with body parsing."""
+    enabled, malformed, _initialized = context_state_text(text)
+    return (enabled, malformed)
+
+
+def initialized_body_text(text):
+    """True only for a standalone marker in an enabled CONTEXT.md body."""
+    return context_state_text(text)[2]
+
+
+def passive_activation_inventory(root):
+    """Read only the explicit root's activation marker; execute no project tools.
+
+    This is a pre-session inspection result, not proof of repository identity,
+    host capability, network policy, or permission to activate. The caller must
+    inventory sensitive paths before sending any source to a model.
+    """
+    root = os.path.abspath(root)
+    if not os.path.isdir(root) or os.path.islink(root):
+        raise ValueError("passive inspection requires an existing, non-link directory")
+    state_dir = os.path.join(root, ".codearbiter")
+    ctx = os.path.join(state_dir, "CONTEXT.md")
+    if os.path.islink(state_dir) or os.path.islink(ctx):
+        raise ValueError("passive inspection refuses linked context paths")
+    if os.path.lexists(state_dir) and not os.path.isdir(state_dir):
+        raise ValueError(".codearbiter is not a directory")
+    if os.path.lexists(ctx) and not os.path.isfile(ctx):
+        raise ValueError("CONTEXT.md is not a regular file")
+    exists = os.path.isfile(ctx)
+    enabled = malformed = initialized = False
+    if exists:
+        if os.path.getsize(ctx) > 1024 * 1024:
+            raise ValueError("CONTEXT.md exceeds passive inspection read limit")
+        with open(ctx, encoding="utf-8") as stream:
+            enabled, malformed, initialized = context_state_text(stream.read(1024 * 1024 + 1))
+    effect = {"capability": "unverified", "authorization": "not_established",
+              "performed": False}
+    activation_behaviors = {
+        "git_hooks_exclusions": "scaffold may write Git-local exclusions and hooks; active startup may refresh hooks",
+        "git_fetch": "active startup may spawn detached Git fetch",
+        "update_refresh": "active startup may spawn detached update refresh",
+        "inference_transport": "host-selected model may receive approved source after authorization",
+    }
+    return {
+        "profile": "passive-before-activation",
+        "root": root,
+        "root_identity": "caller_supplied_unverified",
+        "context": {"exists": exists, "enabled": enabled,
+                    "initialized": initialized, "malformed": malformed},
+        "effects": {name: {**effect, "activation_behavior": behavior}
+                    for name, behavior in activation_behaviors.items()},
+        "source_reads": "none",
+        "sensitive_path_inventory": "pending",
+    }
+
+
+def frontmatter_enabled(ctx_path):
+    """Return (enabled, malformed) for CONTEXT.md ON DISK. `enabled` iff
+    `arbiter: enabled` appears in a properly-closed leading YAML frontmatter
+    block. `malformed` iff a block opens (`---` on line 1) but never closes — the
+    fail-loud case. A file with no frontmatter at all is simply dormant (not
+    malformed). Unreadable file -> (False, False)."""
+    try:
+        with open(ctx_path, encoding="utf-8", errors="replace") as f:
+            text = f.read()
+    except Exception:  # noqa: BLE001
+        return (False, False)
+    return frontmatter_enabled_text(text)
+
+
+def arbiter_active(root):
+    """True iff this repo opted in (`arbiter: enabled` in CONTEXT.md frontmatter).
+    Every enforcement hook gates on this so the plugin is genuinely dormant in
+    repos that never opted in — the plugin.json activation contract."""
+    enabled, _ = frontmatter_enabled(os.path.join(root, ".codearbiter", "CONTEXT.md"))
+    return enabled
+
+def project_root(payload=None):
+    """The project root. `CLAUDE_PROJECT_DIR` is the harness's own authoritative
+    signal and is trusted first: a hook subprocess is not guaranteed to start
+    with the project directory as its cwd, and a `git rev-parse` from elsewhere
+    can resolve to a different repo entirely (e.g. the plugin's own marketplace
+    clone). The env-first read also saves one git spawn per hook invocation.
+    Test harnesses that spawn hooks into fixture repos must pin the variable to
+    the fixture, as the production harness pins it to the project.
+
+    The resolution itself lives on the Host seam (hostapi.Host.project_root,
+    ADR-0011) — this function keeps its public signature (now accepting an
+    optional `payload`, architecture-006/#260, so a caller that already has
+    the parsed hook payload can hand it through to the payload-cwd leg) and
+    delegates, so every existing no-arg caller/import keeps working unchanged.
+
+    Memoized per (CLAUDE_PROJECT_DIR, process cwd) — see _ROOT_CACHE above for
+    the full contract (performance-001/003, #260): at most one resolution
+    (and at most one git spawn) per that key, so the repeated project_root()
+    reads inside block()/remind()/warn()'s gate-event logging don't each pay
+    a fresh subprocess."""
+    key = _root_cache_key()
+    if key not in _ROOT_CACHE:
+        _ROOT_CACHE[key] = get_host().project_root(payload)
+    return _ROOT_CACHE[key]

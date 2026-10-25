@@ -1,1 +1,79 @@
-ewogInJlc3VsdHMiOiBbCiAgewogICAid29ybGQiOiAiZHluYW1pYyIsCiAgICJzaHVmZmxlIjogMSwKICAgIm1vZGFsIjogMC4wLAogICAiayI6ICIxIiwKICAgIm4iOiAyMCwKICAgInN1Y2Nlc3MiOiAxLjAsCiAgICJvYnNfbWVhbiI6IDQuMCwKICAgImVycl9tZWFuIjogMC4wCiAgfSwKICB7CiAgICJ3b3JsZCI6ICJkeW5hbWljIiwKICAgInNodWZmbGUiOiAxLAogICAibW9kYWwiOiAwLjAsCiAgICJrIjogIjIiLAogICAibiI6IDIwLAogICAic3VjY2VzcyI6IDEuMCwKICAgIm9ic19tZWFuIjogMy44LAogICAiZXJyX21lYW4iOiAwLjMKICB9LAogIHsKICAgIndvcmxkIjogImR5bmFtaWMiLAogICAic2h1ZmZsZSI6IDEsCiAgICJtb2RhbCI6IDAuMCwKICAgImsiOiAiNCIsCiAgICJuIjogMjAsCiAgICJzdWNjZXNzIjogMC4yLAogICAib2JzX21lYW4iOiAzLjAsCiAgICJlcnJfbWVhbiI6IDAuOQogIH0sCiAgewogICAid29ybGQiOiAiZHluYW1pYyIsCiAgICJzaHVmZmxlIjogMSwKICAgIm1vZGFsIjogMC4wLAogICAiayI6ICJvcGVuIiwKICAgIm4iOiAyMCwKICAgInN1Y2Nlc3MiOiAwLjAsCiAgICJvYnNfbWVhbiI6IDEuMCwKICAgImVycl9tZWFuIjogMC41NQogIH0KIF0sCiAiZGlhZyI6IHsKICAidGVtcGxhdGVzX2J1aWx0IjogWwogICAiQUxQSEEiLAogICAiQkVUQSIsCiAgICJDTE9TRSIsCiAgICJERUxUQSIsCiAgICJHQU1NQSIKICBdLAogICJ0ZW1wbGF0ZXNfc291cmNlIjogImNhY2hlIiwKICAibW91c2VfZXZlbnRzIjogMywKICAibW91c2Vfc2FtcGxlIjogWwogICB7CiAgICAidCI6ICJtb3VzZWRvd24iLAogICAgIngiOiAxNjQsCiAgICAieSI6IDUyMiwKICAgICJ0ZyI6ICJCRVRBIiwKICAgICJ0cyI6IDE3OTIyMDE1NDU1MzQKICAgfSwKICAgewogICAgInQiOiAibW91c2V1cCIsCiAgICAieCI6IDE2NCwKICAgICJ5IjogNTIyLAogICAgInRnIjogIkJFVEEiLAogICAgInRzIjogMTc5MjIwMTU0NTUzNAogICB9LAogICB7CiAgICAidCI6ICJjbGljayIsCiAgICAieCI6IDE2NCwKICAgICJ5IjogNTIyLAogICAgInRnIjogIkJFVEEiLAogICAgInRzIjogMTc5MjIwMTU0NTUzNAogICB9CiAgXSwKICAiZWxhcHNlZF9zIjogOTAuMgogfQp9
+{
+ "results": [
+  {
+   "world": "dynamic",
+   "shuffle": 1,
+   "modal": 0.0,
+   "k": "1",
+   "n": 20,
+   "success": 1.0,
+   "obs_mean": 4.0,
+   "err_mean": 0.0
+  },
+  {
+   "world": "dynamic",
+   "shuffle": 1,
+   "modal": 0.0,
+   "k": "2",
+   "n": 20,
+   "success": 1.0,
+   "obs_mean": 3.8,
+   "err_mean": 0.3
+  },
+  {
+   "world": "dynamic",
+   "shuffle": 1,
+   "modal": 0.0,
+   "k": "4",
+   "n": 20,
+   "success": 0.2,
+   "obs_mean": 3.0,
+   "err_mean": 0.9
+  },
+  {
+   "world": "dynamic",
+   "shuffle": 1,
+   "modal": 0.0,
+   "k": "open",
+   "n": 20,
+   "success": 0.0,
+   "obs_mean": 1.0,
+   "err_mean": 0.55
+  }
+ ],
+ "diag": {
+  "templates_built": [
+   "ALPHA",
+   "BETA",
+   "CLOSE",
+   "DELTA",
+   "GAMMA"
+  ],
+  "templates_source": "cache",
+  "mouse_events": 3,
+  "mouse_sample": [
+   {
+    "t": "mousedown",
+    "x": 164,
+    "y": 522,
+    "tg": "BETA",
+    "ts": 1792201545534
+   },
+   {
+    "t": "mouseup",
+    "x": 164,
+    "y": 522,
+    "tg": "BETA",
+    "ts": 1792201545534
+   },
+   {
+    "t": "click",
+    "x": 164,
+    "y": 522,
+    "tg": "BETA",
+    "ts": 1792201545534
+   }
+  ],
+  "elapsed_s": 90.2
+ }
+}

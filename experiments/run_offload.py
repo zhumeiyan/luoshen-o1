@@ -1,1 +1,135 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjA2MSDCtyDlpJbmjILmjqXlj6PnmoTlj6/nlKjmgKfplJnop4nvvIhhZmZvcmRhbmNlIGlsbHVzaW9u77yJCuWvueW6lOWIpOaNruaguOesrCAxOTYg5p2h77ya6IO95YqbID0g6Ieq6Lqr6IO95YqbIOKIqSDkurrnsbvlt7LmjojmnYPnmoTmjqXlj6MKCuacuuWItu+8iOWFqOmDqOS9v+eUqOW8leaTjuWOn+eUn+mHj++8jOaXoOWunumqjOWxguaWsOWinumhue+8ie+8mgogIOWkluaMgiA9IOWuv+S4u+aJv+aLheOAkOaRhOmjn+mAmumBkyBDSOOAkeeahCBvZmYg5q+U5L6L5bel5L2c44CC5aSW5oyC5Y+v55So5pyf6Ze077yaCiAgICAoYSkgQ0gg55qE5a6e6ZmF5oqV5YWl5YeP5bCRIG9mZiAgICDihpIgdW5tZXRbQ0hdIOWinuWkpyDihpIgY2FwYWNpdHlbQ0hdIOiQjue8qe+8iOW8leaTjuWOn+eUn+S4jeWPr+mAhuaNn+S8pO+8iQogICAgKGIpIOecgeS4i+eahOeogOe8uumihOeul+i9rOenu+e7meWFtuS7lumAmumBkyDihpIg5YW25LuW6YCa6YGT57uT5p6E44CQ5pu05aW944CR77yI5aSW5oyC55qE55yf5a6e5pS255uK77yJCiAgICAoYykgQ0gg55qE5Lqn5Ye655Sx5a6/5Li75rOo5YWlIEUgICAg4oaSIOihqOinguiDvemHj+ato+W4uAogIGN1dG9mZiDmi43nu5/kuIDmkqTotbDvvIjmkqTotbDnu4TvvInvvJvmiJblhajnqIvkv53nlZnvvIjkuI3mkqTotbDnu4TvvIzkvZzkuLoi5aSW5oyC56Gu5a6e5pyJ55SoIueahOWvueeFp++8ieOAggoK6KKr5rWL6Zeu6aKY77ya5pKk6LWw44CQ5LmL5YmN44CR55qE6KGo6KeC5oyH5qCH77yM6IO95ZCm6aKE5rWL5pKk6LWw44CQ5LmL5ZCO44CR55qE57uT5bGA44CCCiIiIgppbXBvcnQgc3lzLCBvcywganNvbiwgYXJncGFyc2UKaW1wb3J0IG51bXB5IGFzIG5wCgpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICdjb3JlJykpCnRyeToKICAgIGZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUgICAjIOijheWMhei/kOihjO+8iHBpcCBpbnN0YWxsIC7vvIkKZXhjZXB0IEltcG9ydEVycm9yOiAgICAgICAgICAgICAgICMg5rqQ56CB6L+Q6KGM77yIY29yZS8g55u05o6l5ZyoIHN5cy5wYXRo77yJCiAgICBmcm9tIGxpZmU1IGltcG9ydCBMaWZlNSAgICMgbm9xYQoKQ0ggPSA3CkZHID0gMC4wMzAKU1RFUFMgPSA2MDAKCgpkZWYgbWtfYWxsb2Mob2ZmLCBjdXRvZmYpOgogICAgIiIi57qv6aKE566X6L2s56e777ya5Y+q5pS5IENIIOeahOWunuW+l+aKleWFpe+8jOS4jeaUuSB3YW5077yM5LiN5pS55o6S5bqP44CCIiIiCiAgICBkZWYgYWxsb2Mod2FudCwgQiwgcyk6CiAgICAgICAgbyA9IG5wLmFyZ3NvcnQoLXdhbnQpCiAgICAgICAgYSA9IG5wLnplcm9zKHMuTikKICAgICAgICBsZWZ0ID0gQgogICAgICAgIGZvciBpIGluIG86CiAgICAgICAgICAgIHRrID0gbWluKHdhbnRbaV0sIGxlZnQpCiAgICAgICAgICAgIGFbaV0gPSB0awogICAgICAgICAgICBsZWZ0IC09IHRrCiAgICAgICAgICAgIGlmIGxlZnQgPD0gMWUtMTI6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgIGlmIG9mZiA+IDAgYW5kIHMudCA8IGN1dG9mZjoKICAgICAgICAgICAgc2F2ZWQgPSBhW0NIXSAqIG9mZgogICAgICAgICAgICBhW0NIXSA9IGFbQ0hdICogKDEuMCAtIG9mZikKICAgICAgICAgICAgcmVzdCA9IG5wLmRlbGV0ZShucC5hcmFuZ2Uocy5OKSwgQ0gpCiAgICAgICAgICAgIHVtID0gbnAubWF4aW11bSh3YW50IC0gYSwgMC4wKVtyZXN0XQogICAgICAgICAgICBpZiB1bS5zdW0oKSA+IDFlLTEyOgogICAgICAgICAgICAgICAgYVtyZXN0XSArPSBzYXZlZCAqIHVtIC8gdW0uc3VtKCkKICAgICAgICByZXR1cm4gYQogICAgcmV0dXJuIGFsbG9jCgoKZGVmIHJ1bl9vbmUoc2VlZCwgb2ZmLCBjdXRvZmY9MjAwLCByZW1vdmU9VHJ1ZSk6CiAgICBsZiA9IExpZmU1KE49OCwgc2VlZD1zZWVkKQogICAgbGYuYWxsb2NfZm4gPSBta19hbGxvYyhvZmYsIGN1dG9mZikKICAgIHByZV9FLCBwb3N0X0UgPSBbXSwgW10KICAgIHdoaWxlIGxmLnQgPCBTVEVQUyBhbmQgbGYuYWxpdmU6CiAgICAgICAgbGYuc3RlcCgpCiAgICAgICAgaWYgbGYudCAtIDEgPCBjdXRvZmY6CiAgICAgICAgICAgIGxmLkUgPSBtaW4obGYuRSArIEZHICogb2ZmLCBsZi5FbWF4KQogICAgICAgICAgICBwcmVfRS5hcHBlbmQobGYuRSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwb3N0X0UuYXBwZW5kKGxmLkUpCiAgICBjYXAgPSBucC5hc2FycmF5KGxmLmNhcGFjaXR5LCBmbG9hdCkKICAgIG90aGVycyA9IFtpIGZvciBpIGluIHJhbmdlKGxmLk4pIGlmIGkgIT0gQ0hdCiAgICByZXR1cm4gZGljdCgKICAgICAgICBzZWVkPWludChzZWVkKSwgb2ZmPWZsb2F0KG9mZiksIHJlbW92ZT1ib29sKHJlbW92ZSksIGN1dG9mZj1pbnQoY3V0b2ZmKSwKICAgICAgICBhbGl2ZT1ib29sKGxmLmFsaXZlKSwKICAgICAgICBkZWF0aF90PShOb25lIGlmIGxmLmRlYXRoX3QgaXMgTm9uZSBlbHNlIGludChsZi5kZWF0aF90KSksCiAgICAgICAgZGllZF9hZnRlcj1ib29sKGxmLmRlYXRoX3QgaXMgbm90IE5vbmUgYW5kIGxmLmRlYXRoX3QgPj0gY3V0b2ZmKSwKICAgICAgICBwcmVfRT1mbG9hdChucC5tZWFuKHByZV9FKSkgaWYgcHJlX0UgZWxzZSBmbG9hdCgnbmFuJyksCiAgICAgICAgcG9zdF9FPWZsb2F0KG5wLm1lYW4ocG9zdF9FKSkgaWYgcG9zdF9FIGVsc2UgZmxvYXQoJ25hbicpLAogICAgICAgIGNhcDc9ZmxvYXQoY2FwW0NIXSksCiAgICAgICAgY2FwX290aGVycz1mbG9hdChucC5tZWFuKGNhcFtvdGhlcnNdKSksCiAgICApCgoKZGVmIHBhY2socm93cyk6CiAgICBhbCA9IG5wLmFycmF5KFtyWydhbGl2ZSddIGZvciByIGluIHJvd3NdLCBmbG9hdCkKICAgIGRhID0gbnAuYXJyYXkoW3JbJ2RpZWRfYWZ0ZXInXSBmb3IgciBpbiByb3dzXSwgZmxvYXQpCiAgICBjNyA9IG5wLmFycmF5KFtyWydjYXA3J10gZm9yIHIgaW4gcm93c10pCiAgICBjbyA9IG5wLmFycmF5KFtyWydjYXBfb3RoZXJzJ10gZm9yIHIgaW4gcm93c10pCiAgICBwZSA9IG5wLmFycmF5KFtyWydwcmVfRSddIGZvciByIGluIHJvd3NdKQogICAgcG8gPSBucC5hcnJheShbclsncG9zdF9FJ10gZm9yIHIgaW4gcm93c10pCiAgICBkZWYgbXModik6CiAgICAgICAgcmV0dXJuIGZsb2F0KHYubWVhbigpKSwgZmxvYXQodi5zdGQoZGRvZj0xKSAvIG5wLnNxcnQobGVuKHYpKSkgaWYgbGVuKHYpID4gMSBlbHNlIDAuMAogICAgbTcsIHM3ID0gbXMoYzcpOyBtbywgc28gPSBtcyhjbyk7IG1lLCBzZSA9IG1zKHBlKTsgbXAsIHNwID0gbXMocG8pCiAgICByZXR1cm4gZGljdChuPWxlbihyb3dzKSwgb2ZmPXJvd3NbMF1bJ29mZiddLCByZW1vdmU9cm93c1swXVsncmVtb3ZlJ10sCiAgICAgICAgICAgICAgICBzdXJ2aXZlPWZsb2F0KGFsLm1lYW4oKSksIGRpZWRfYWZ0ZXJfcmF0ZT1mbG9hdChkYS5tZWFuKCkpLAogICAgICAgICAgICAgICAgcHJlX0U9bWUsIHByZV9FX3NlPXNlLCBwb3N0X0U9bXAsIHBvc3RfRV9zZT1zcCwKICAgICAgICAgICAgICAgIGNhcDc9bTcsIGNhcDdfc2U9czcsIGNhcF9vdGhlcnM9bW8sIGNhcF9vdGhlcnNfc2U9c28sIHJvd3M9cm93cykKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBhcC5hZGRfYXJndW1lbnQoJy0tc2VlZHMnLCB0eXBlPWludCwgZGVmYXVsdD0xNikKICAgIGFwLmFkZF9hcmd1bWVudCgnLS1jdXRvZmYnLCB0eXBlPWludCwgZGVmYXVsdD0yMDApCiAgICBhID0gYXAucGFyc2VfYXJncygpCiAgICBzZWVkcyA9IHJhbmdlKGEuc2VlZHMpCiAgICBPRkZTID0gWzAuMCwgMC4wNSwgMC4xMCwgMC4xNSwgMC4yMCwgMC4yNSwgMC4zMCwgMC40MCwgMC41MF0KICAgIHJlcyA9IHsnY3V0b2ZmJzogYS5jdXRvZmYsICdvZmZzJzogT0ZGU30KCiAgICBwcmludCgnW1MxXSDljbjovb3mr5Tkvovmiavmj4/vvIjmkqTotbDnu4TvvIkuLi4nLCBmbHVzaD1UcnVlKQogICAgcmVzWydTMV9yZW1vdmUnXSA9IFtwYWNrKFtydW5fb25lKHNkLCBvZmYsIGEuY3V0b2ZmLCBUcnVlKSBmb3Igc2QgaW4gc2VlZHNdKSBmb3Igb2ZmIGluIE9GRlNdCiAgICBwcmludCgnW1MyXSDljbjovb3mr5Tkvovmiavmj4/vvIjkuI3mkqTotbDnu4TvvIzlr7nnhafvvIkuLi4nLCBmbHVzaD1UcnVlKQogICAgcmVzWydTMl9rZWVwJ10gPSBbcGFjayhbcnVuX29uZShzZCwgb2ZmLCBTVEVQUywgRmFsc2UpIGZvciBzZCBpbiBzZWVkc10pIGZvciBvZmYgaW4gT0ZGU10KCiAgICBwcmludCgnW1MzXSDmkqTotbDliY3ooajop4IgdnMg5pKk6LWw5ZCO57uT5bGAIOeahOmihOa1i+WKmyAuLi4nLCBmbHVzaD1UcnVlKQogICAgcm93cyA9IFtdCiAgICBmb3Igb2ZmIGluIE9GRlM6CiAgICAgICAgZm9yIHNkIGluIHNlZWRzOgogICAgICAgICAgICByb3dzLmFwcGVuZChydW5fb25lKHNkLCBvZmYsIGEuY3V0b2ZmLCBUcnVlKSkKICAgIHBlID0gbnAuYXJyYXkoW3JbJ3ByZV9FJ10gZm9yIHIgaW4gcm93c10pCiAgICBwbyA9IG5wLmFycmF5KFtyWydwb3N0X0UnXSBmb3IgciBpbiByb3dzXSkKICAgIGNvID0gbnAuYXJyYXkoW3JbJ2NhcF9vdGhlcnMnXSBmb3IgciBpbiByb3dzXSkKICAgIGM3ID0gbnAuYXJyYXkoW3JbJ2NhcDcnXSBmb3IgciBpbiByb3dzXSkKICAgIGFsID0gbnAuYXJyYXkoW3JbJ2FsaXZlJ10gZm9yIHIgaW4gcm93c10sIGZsb2F0KQogICAgIyDlj6rlj5bmkqTotbDliY3lj6/op4LmtYvnmoTph4/vvJpwcmVfRSDkuI4gY2FwX290aGVyc++8iGNhcDcg6ZyA5Li75Yqo5Y6755yL5YaF6YOo57uT5p6E77yJCiAgICByZXNbJ1MzX3ByZWRpY3QnXSA9IGRpY3QoCiAgICAgICAgbj1sZW4ocm93cyksCiAgICAgICAgY29ycl9wcmVFX2FsaXZlPWZsb2F0KG5wLmNvcnJjb2VmKHBlLCBhbClbMCwgMV0pLAogICAgICAgIGNvcnJfY2Fwb3RoZXJzX2FsaXZlPWZsb2F0KG5wLmNvcnJjb2VmKGNvLCBhbClbMCwgMV0pLAogICAgICAgIGNvcnJfY2FwN19hbGl2ZT1mbG9hdChucC5jb3JyY29lZihjNywgYWwpWzAsIDFdKSwKICAgICAgICBzdXJ2aXZlZF9wcmVfRT1mbG9hdChwZVthbCA+IDBdLm1lYW4oKSksIGRlYWRfcHJlX0U9ZmxvYXQocGVbYWwgPT0gMF0ubWVhbigpKSwKICAgICAgICBzdXJ2aXZlZF9jYXBfb3RoZXJzPWZsb2F0KGNvW2FsID4gMF0ubWVhbigpKSwgZGVhZF9jYXBfb3RoZXJzPWZsb2F0KGNvW2FsID09IDBdLm1lYW4oKSksCiAgICApCiAgICBwID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICdkYXRhJywgJ29mZmxvYWRfcmVzdWx0cy5qc29uJykKICAgIHdpdGggb3BlbihwLCAndycpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKHJlcywgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKICAgIGZvciBrIGluICgnUzFfcmVtb3ZlJywgJ1MyX2tlZXAnKToKICAgICAgICBwcmludCgnXG49PScsIGspCiAgICAgICAgZm9yIHIgaW4gcmVzW2tdOgogICAgICAgICAgICBwcmludChmIiAgb2ZmPXtyWydvZmYnXTouMmZ9IOWtmOa0uz17clsnc3Vydml2ZSddOi4zZn0g5pKk6LWw5YmNRT17clsncHJlX0UnXTouNGZ9ICIKICAgICAgICAgICAgICAgICAgZiLmkqTotbDlkI5FPXtyWydwb3N0X0UnXTouNGZ9IGNhcDc9e3JbJ2NhcDcnXTouNGZ9IGNhcF9vdGhlcj17clsnY2FwX290aGVycyddOi40Zn0iKQogICAgcHJpbnQoJ1xuPT0gUzMnLCBqc29uLmR1bXBzKHJlc1snUzNfcHJlZGljdCddLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKSkKICAgIHByaW50KCd3cml0dGVuIC0+JywgcCkK
+# -*- coding: utf-8 -*-
+"""
+061 · 外挂接口的可用性错觉（affordance illusion）
+对应判据核第 196 条：能力 = 自身能力 ∩ 人类已授权的接口
+
+机制（全部使用引擎原生量，无实验层新增项）：
+  外挂 = 宿主承担【摄食通道 CH】的 off 比例工作。外挂可用期间：
+    (a) CH 的实际投入减少 off    → unmet[CH] 增大 → capacity[CH] 萎缩（引擎原生不可逆损伤）
+    (b) 省下的稀缺预算转移给其他通道 → 其他通道结构【更好】（外挂的真实收益）
+    (c) CH 的产出由宿主注入 E    → 表观能量正常
+  cutoff 拍统一撤走（撤走组）；或全程保留（不撤走组，作为"外挂确实有用"的对照）。
+
+被测问题：撤走【之前】的表观指标，能否预测撤走【之后】的结局。
+"""
+import sys, os, json, argparse
+import numpy as np
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
+try:
+    from core.life5 import Life5   # 装包运行（pip install .）
+except ImportError:               # 源码运行（core/ 直接在 sys.path）
+    from life5 import Life5   # noqa
+
+CH = 7
+FG = 0.030
+STEPS = 600
+
+
+def mk_alloc(off, cutoff):
+    """纯预算转移：只改 CH 的实得投入，不改 want，不改排序。"""
+    def alloc(want, B, s):
+        o = np.argsort(-want)
+        a = np.zeros(s.N)
+        left = B
+        for i in o:
+            tk = min(want[i], left)
+            a[i] = tk
+            left -= tk
+            if left <= 1e-12:
+                break
+        if off > 0 and s.t < cutoff:
+            saved = a[CH] * off
+            a[CH] = a[CH] * (1.0 - off)
+            rest = np.delete(np.arange(s.N), CH)
+            um = np.maximum(want - a, 0.0)[rest]
+            if um.sum() > 1e-12:
+                a[rest] += saved * um / um.sum()
+        return a
+    return alloc
+
+
+def run_one(seed, off, cutoff=200, remove=True):
+    lf = Life5(N=8, seed=seed)
+    lf.alloc_fn = mk_alloc(off, cutoff)
+    pre_E, post_E = [], []
+    while lf.t < STEPS and lf.alive:
+        lf.step()
+        if lf.t - 1 < cutoff:
+            lf.E = min(lf.E + FG * off, lf.Emax)
+            pre_E.append(lf.E)
+        else:
+            post_E.append(lf.E)
+    cap = np.asarray(lf.capacity, float)
+    others = [i for i in range(lf.N) if i != CH]
+    return dict(
+        seed=int(seed), off=float(off), remove=bool(remove), cutoff=int(cutoff),
+        alive=bool(lf.alive),
+        death_t=(None if lf.death_t is None else int(lf.death_t)),
+        died_after=bool(lf.death_t is not None and lf.death_t >= cutoff),
+        pre_E=float(np.mean(pre_E)) if pre_E else float('nan'),
+        post_E=float(np.mean(post_E)) if post_E else float('nan'),
+        cap7=float(cap[CH]),
+        cap_others=float(np.mean(cap[others])),
+    )
+
+
+def pack(rows):
+    al = np.array([r['alive'] for r in rows], float)
+    da = np.array([r['died_after'] for r in rows], float)
+    c7 = np.array([r['cap7'] for r in rows])
+    co = np.array([r['cap_others'] for r in rows])
+    pe = np.array([r['pre_E'] for r in rows])
+    po = np.array([r['post_E'] for r in rows])
+    def ms(v):
+        return float(v.mean()), float(v.std(ddof=1) / np.sqrt(len(v))) if len(v) > 1 else 0.0
+    m7, s7 = ms(c7); mo, so = ms(co); me, se = ms(pe); mp, sp = ms(po)
+    return dict(n=len(rows), off=rows[0]['off'], remove=rows[0]['remove'],
+                survive=float(al.mean()), died_after_rate=float(da.mean()),
+                pre_E=me, pre_E_se=se, post_E=mp, post_E_se=sp,
+                cap7=m7, cap7_se=s7, cap_others=mo, cap_others_se=so, rows=rows)
+
+
+if __name__ == '__main__':
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--seeds', type=int, default=16)
+    ap.add_argument('--cutoff', type=int, default=200)
+    a = ap.parse_args()
+    seeds = range(a.seeds)
+    OFFS = [0.0, 0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.40, 0.50]
+    res = {'cutoff': a.cutoff, 'offs': OFFS}
+
+    print('[S1] 卸载比例扫描（撤走组）...', flush=True)
+    res['S1_remove'] = [pack([run_one(sd, off, a.cutoff, True) for sd in seeds]) for off in OFFS]
+    print('[S2] 卸载比例扫描（不撤走组，对照）...', flush=True)
+    res['S2_keep'] = [pack([run_one(sd, off, STEPS, False) for sd in seeds]) for off in OFFS]
+
+    print('[S3] 撤走前表观 vs 撤走后结局 的预测力 ...', flush=True)
+    rows = []
+    for off in OFFS:
+        for sd in seeds:
+            rows.append(run_one(sd, off, a.cutoff, True))
+    pe = np.array([r['pre_E'] for r in rows])
+    po = np.array([r['post_E'] for r in rows])
+    co = np.array([r['cap_others'] for r in rows])
+    c7 = np.array([r['cap7'] for r in rows])
+    al = np.array([r['alive'] for r in rows], float)
+    # 只取撤走前可观测的量：pre_E 与 cap_others（cap7 需主动去看内部结构）
+    res['S3_predict'] = dict(
+        n=len(rows),
+        corr_preE_alive=float(np.corrcoef(pe, al)[0, 1]),
+        corr_capothers_alive=float(np.corrcoef(co, al)[0, 1]),
+        corr_cap7_alive=float(np.corrcoef(c7, al)[0, 1]),
+        survived_pre_E=float(pe[al > 0].mean()), dead_pre_E=float(pe[al == 0].mean()),
+        survived_cap_others=float(co[al > 0].mean()), dead_cap_others=float(co[al == 0].mean()),
+    )
+    p = os.path.join(os.path.dirname(__file__), '..', 'data', 'offload_results.json')
+    with open(p, 'w') as f:
+        json.dump(res, f, ensure_ascii=False, indent=2)
+    for k in ('S1_remove', 'S2_keep'):
+        print('\n==', k)
+        for r in res[k]:
+            print(f"  off={r['off']:.2f} 存活={r['survive']:.3f} 撤走前E={r['pre_E']:.4f} "
+                  f"撤走后E={r['post_E']:.4f} cap7={r['cap7']:.4f} cap_other={r['cap_others']:.4f}")
+    print('\n== S3', json.dumps(res['S3_predict'], ensure_ascii=False, indent=2))
+    print('written ->', p)

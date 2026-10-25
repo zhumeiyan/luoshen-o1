@@ -1,1 +1,3 @@
-eyJydW5faWQiOiAiMzRkODdlMjg1MzU3NGM3ZCIsICJzZXEiOiAxLCAidHMiOiAwLjAsICJ3YWxsIjogIjIwMjYtMTAtMjRUMDk6MTA6MTIiLCAiZXZlbnQiOiAicnVuLnN0YXJ0IiwgImRhdGEiOiB7Im5hbWUiOiAicHJvYmUifX0KeyJydW5faWQiOiAiMzRkODdlMjg1MzU3NGM3ZCIsICJzZXEiOiAyLCAidHMiOiAwLjA4MDgsICJ3YWxsIjogIjIwMjYtMTAtMjRUMDk6MTA6MTIiLCAiZXZlbnQiOiAic3RlcC5hIiwgImRhdGEiOiB7fX0KeyJydW5faWQiOiAiMzRkODdlMjg1MzU3NGM3ZCIsICJzZXEiOiAzLCAidHMiOiAwLjM0MzIsICJ3YWxsIjogIjIwMjYtMTAtMjRUMDk6MTA6MTIiLCAiZXZlbnQiOiAiY2hlY2twb2ludCIsICJkYXRhIjogeyJieXRlcyI6IDk5fX0K
+{"run_id": "34d87e2853574c7d", "seq": 1, "ts": 0.0, "wall": "2026-10-24T09:10:12", "event": "run.start", "data": {"name": "probe"}}
+{"run_id": "34d87e2853574c7d", "seq": 2, "ts": 0.0808, "wall": "2026-10-24T09:10:12", "event": "step.a", "data": {}}
+{"run_id": "34d87e2853574c7d", "seq": 3, "ts": 0.3432, "wall": "2026-10-24T09:10:12", "event": "checkpoint", "data": {"bytes": 99}}

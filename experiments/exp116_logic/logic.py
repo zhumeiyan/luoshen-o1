@@ -1,1 +1,129 @@
-IiIiCjExNiDCtyBh4omgYiDihpQgYT1iIOaYr+mAu+i+ke+8muWbm+enjeW9ouW8j+WMlumAkOadoea1iwrkuI3or7TlroMi5rex5Yi7Iu+8jOWFiOeci+Wug+WcqOWTquenjemAu+i+kemHjOiDveecn+OAgeS4lOiDveWBh++8iOWPr+ivgeS8qu+8ieOAggoiIiIKaW1wb3J0IGl0ZXJ0b29scywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKClIgPSB7fQoKZGVmIGZhbHNpZmlhYmxlKHRydXRocyk6CiAgICAiIiLkuIDmnaHop6Pph4rlj6rmnInlnKjnnJ8v5YGH6YO95Ye6546w5pe25omN5Y+v6K+B5Lyq77yb5Y+q5Ye655yf5oiW5Y+q5Ye65YGHID0g6aWx5ZKMID0g5q2755qE5ZG96aKYIiIiCiAgICB0ID0gaW50KHN1bShib29sKHgpIGZvciB4IGluIHRydXRocykpOyBmID0gbGVuKHRydXRocykgLSB0CiAgICByZXR1cm4gZGljdChuX3RydWU9dCwgbl9mYWxzZT1mLCBzYXR1cmFibGU9KHQgPiAwIGFuZCBmID4gMCkpCgojIC0tLS0tLS0tLS0gUGFydCAxIMK3IOe7j+WFuOS6jOWAvO+8muWFrOW8j+aYr+S4jeaYr+awuOWBh+W8jyAtLS0tLS0tLS0tCnJvd3MgPSBbXQpmb3IgYSwgYiBpbiBpdGVydG9vbHMucHJvZHVjdCgoMCwgMSksIHJlcGVhdD0yKToKICAgIFAgPSBpbnQoYSAhPSBiKSAgICAgICAgICAjIGHiiaBiCiAgICBRID0gaW50KGEgPT0gYikgICAgICAgICAgIyBhPWIKICAgIHJvd3MuYXBwZW5kKGRpY3QoYT1hLCBiPWIsIG5lcT1QLCBlcT1RLCBmb3JtdWxhPWludChQID09IFEpKSkKbl90cnVlID0gc3VtKHJbImZvcm11bGEiXSBmb3IgciBpbiByb3dzKQpSWyJjbGFzc2ljYWwiXSA9IGRpY3Qocm93cz1yb3dzLCB2ZXJkaWN0PSLmsLjlgYflvI/vvIhQ4oaUwqxQ77yJIiBpZiBuX3RydWUgPT0gMCBlbHNlICLlj6/nnJ8iLAogICAgICAgICAgICAgICAgICAgICAgKipmYWxzaWZpYWJsZShbYm9vbChyWyJmb3JtdWxhIl0pIGZvciByIGluIHJvd3NdKSkKCiMgLS0tLS0tLS0tLSBQYXJ0IDIgwrcg5Zub56eN6Kej6YeK77yM5ZCE6Ieq6IO95ZCm44CQ5ZCM5pe25Lqn55Sf55yf5ZKM5YGH44CRIC0tLS0tLS0tLS0KIyDliKTmja7vvJrkuIDmnaHop6Pph4rlj6rmnInlnKjnnJ8v5YGH6YO95Ye6546w5pe25omN5Y+v6K+B5Lyq77yb5Y+q5Ye655yf5oiW5Y+q5Ye65YGHID0g6aWx5ZKMID0g5q2755qE5ZG96aKYCgpkZWYgZmFsc2lmaWFibGUodHJ1dGhzKToKICAgIHQgPSBzdW0odHJ1dGhzKTsgZiA9IGxlbih0cnV0aHMpIC0gdAogICAgcmV0dXJuIGRpY3Qobl90cnVlPXQsIG5fZmFsc2U9Ziwgc2F0dXJhYmxlPSh0ID4gMCBhbmQgZiA+IDApKQoKIyDikaEg5pe25bqPL+aooeaAge+8muWNleaXtuWIu+S7jeWBh++8jOS9huWcqOeql+WPo+WGhSDiiIMoYeKJoGIpIOKIpyDiiIMoYT1iKQp0ZW1wb3JhbCA9IHt9CmJfZml4ZWQgPSAxCmZvciBUIGluIFsxLCAyLCA0LCA4LCAxNiwgMzIsIDEwKio5XTogICAjIFQ9MTAqKjkg6KeG5Li65oGS5a6aCiAgICBhX3NlcSA9IFtiX2ZpeGVkIGlmICh0IC8vIG1heChULCAxKSkgJSAyID09IDAgZWxzZSAxIC0gYl9maXhlZAogICAgICAgICAgICAgZm9yIHQgaW4gcmFuZ2UoNjQpXQogICAgaWYgVCA+PSAxMCoqOToKICAgICAgICBhX3NlcSA9IFtiX2ZpeGVkXSAqIDY0CiAgICBuZXFfZXZlciA9IGFueShhICE9IGJfZml4ZWQgZm9yIGEgaW4gYV9zZXEpCiAgICBlcV9ldmVyID0gYW55KGEgPT0gYl9maXhlZCBmb3IgYSBpbiBhX3NlcSkKICAgIHRlbXBvcmFsW1RdID0gZGljdChuZXFfZXZlcj1ib29sKG5lcV9ldmVyKSwgZXFfZXZlcj1ib29sKGVxX2V2ZXIpLAogICAgICAgICAgICAgICAgICAgICAgIGZvcm11bGE9Ym9vbChuZXFfZXZlciBhbmQgZXFfZXZlcikpClJbInRlbXBvcmFsIl0gPSBkaWN0KHNjYW49dGVtcG9yYWwsCiAgICAgICAgICAgICAgICAgICAgICoqZmFsc2lmaWFibGUoW3ZbImZvcm11bGEiXSBmb3IgdiBpbiB0ZW1wb3JhbC52YWx1ZXMoKV0pKQoKIyDikaIg5qyh5Y2P6LCDIExQ77yI5LiJ5YC877yJ77ya5YC8ID0g55yf5YC86ZuG5ZCIIOKKhiB7VCxGfQpULCBGLCBCID0gZnJvemVuc2V0KHsiVCJ9KSwgZnJvemVuc2V0KHsiRiJ9KSwgZnJvemVuc2V0KHsiVCIsICJGIn0pCmRlZiBuZWcoeCk6IHJldHVybiBmcm96ZW5zZXQoeyJGIiBpZiB2ID09ICJUIiBlbHNlICJUIiBmb3IgdiBpbiB4fSkKZGVmIG1lZXQoeCwgeSk6ICAjIOKIpwogICAgb3V0ID0gc2V0KCkKICAgIGlmICJUIiBpbiB4IGFuZCAiVCIgaW4geTogb3V0LmFkZCgiVCIpCiAgICBpZiAiRiIgaW4geCBvciAiRiIgaW4geTogb3V0LmFkZCgiRiIpCiAgICByZXR1cm4gZnJvemVuc2V0KG91dCkKZGVmIGpvaW4oeCwgeSk6ICAjIOKIqAogICAgb3V0ID0gc2V0KCkKICAgIGlmICJUIiBpbiB4IG9yICJUIiBpbiB5OiBvdXQuYWRkKCJUIikKICAgIGlmICJGIiBpbiB4IGFuZCAiRiIgaW4geTogb3V0LmFkZCgiRiIpCiAgICByZXR1cm4gZnJvemVuc2V0KG91dCkKZGVmIGltcCh4LCB5KTogcmV0dXJuIGpvaW4obmVnKHgpLCB5KQpkZWYgaWZmKHgsIHkpOiByZXR1cm4gbWVldChpbXAoeCwgeSksIGltcCh5LCB4KSkKZGVmIGVxMyhhLCBiKToKICAgIGlmIGEgPT0gYjogcmV0dXJuIGEKICAgIGlmIGEgPT0gQiBvciBiID09IEI6IHJldHVybiBCCiAgICByZXR1cm4gRgpOQU1FUyA9IHtUOiAiVCIsIEY6ICJGIiwgQjogIkIifQpscF9yb3dzID0gW10KZm9yIGEsIGIgaW4gaXRlcnRvb2xzLnByb2R1Y3QoKFQsIEYsIEIpLCByZXBlYXQ9Mik6CiAgICBlID0gZXEzKGEsIGIpCiAgICBmb3JtID0gaWZmKG5lZyhlKSwgZSkKICAgIGxwX3Jvd3MuYXBwZW5kKGRpY3QoYT1OQU1FU1thXSwgYj1OQU1FU1tiXSwgZXE9TkFNRVNbZV0sCiAgICAgICAgICAgICAgICAgICAgICAgIGZvcm11bGE9TkFNRVNbZm9ybV0sIGRlc2lnbmF0ZWQ9KCJUIiBpbiBmb3JtKSkpClJbInBhcmFjb25zaXN0ZW50X0xQIl0gPSBkaWN0KAogICAgcm93cz1scF9yb3dzLCAqKmZhbHNpZmlhYmxlKFtyWyJkZXNpZ25hdGVkIl0gZm9yIHIgaW4gbHBfcm93c10pKQoKIyDikaMg55u45a+55ZCM5LiA77yaPSDop6Pph4rkuLoi5Zyo5p+Q57KS5bqmIGsg5LiL5oqV5b2x5ZCM5YOPIgpybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMCkKYV92ZWMgPSBybmcubm9ybWFsKDAsIDEsIDY0KQpiX3ZlYyA9IGFfdmVjICsgcm5nLm5vcm1hbCgwLCAwLjI1LCA2NCkgICAgICAjIOe7hueykuW6puS4jeetiQpyZWwgPSB7fQojIOW9kuS4gOWMluWIsCBbMCwxXSDlkI7mjIkgayDkuKrmobbnspfnspLljJbvvJtrPeahtuaVsO+8iGsg5bCPPeeyl++8iQojIOW/hemhu+eUqOOAkOWQjOS4gOS4quWPmOaNouOAkeW9kuS4gOWMluS4pOiAhe+8muWIhuWIq+W9kuS4gOWMluS8muaKiuS4pOS4quS4jeWQjOWQkemHj+aLieWIsOWQjOS4gOWMuumXtO+8jAojIOS6uuS4uuaKrOmrmOWQjOWDj+eOh++8iOWPiOS4gOS4quS8mumdmem7mOmAoOWBh+eahCBidWfvvIkKbG8sIGhpID0gYV92ZWMubWluKCksIG5wLnB0cChhX3ZlYykKYW4gPSAoYV92ZWMgLSBsbykgLyAoaGkgKyAxZS0xMikKYm4gPSAoYl92ZWMgLSBsbykgLyAoaGkgKyAxZS0xMikKZm9yIGsgaW4gWzEsIDIsIDMsIDQsIDYsIDgsIDEyLCAxNiwgMjQsIDMyLCA0OCwgNjQsIDEyOF06CiAgICBxYSA9IG5wLmZsb29yKGFuICogaykuYXN0eXBlKGludCkKICAgIHFiID0gbnAuZmxvb3IoYm4gKiBrKS5hc3R5cGUoaW50KQogICAgc2FtZV9yYXRlID0gZmxvYXQobnAubWVhbihxYSA9PSBxYikpCiAgICBuZXFfZmluZSA9IG5vdCBucC5hbGxjbG9zZShhX3ZlYywgYl92ZWMpCiAgICAjIOWIpOaNrueUqOWQjOWDj+eOh++8iOi/nue7remHj++8ie+8jOS4jeeUqCLlhajpg6jnm7jlkIwi77yI5ZCO6ICF5Lya6aWx5ZKM5Zyo5YGH4oCU4oCU5pys6L2u6Ieq5pud77yJCiAgICBlcV9jb2Fyc2UgPSBib29sKHNhbWVfcmF0ZSA+IDAuNSkKICAgIHJlbFtrXSA9IGRpY3Qoc2FtZV9yYXRlPXJvdW5kKHNhbWVfcmF0ZSwgNCksIG5lcV9maW5lPWJvb2wobmVxX2ZpbmUpLAogICAgICAgICAgICAgICAgICBlcV9jb2Fyc2U9ZXFfY29hcnNlLCBmb3JtdWxhPWJvb2wobmVxX2ZpbmUgYW5kIGVxX2NvYXJzZSkpClJbInJlbGF0aXZlX2lkZW50aXR5Il0gPSBkaWN0KHNjYW49cmVsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqKmZhbHNpZmlhYmxlKFt2WyJmb3JtdWxhIl0gZm9yIHYgaW4gcmVsLnZhbHVlcygpXSkpCgpSWyJmYWxzaWZpYWJpbGl0eV90YWJsZSJdID0gewogICAgbmFtZTogZGljdChuX3RydWU9UltuYW1lXVsibl90cnVlIl0sIG5fZmFsc2U9UltuYW1lXVsibl9mYWxzZSJdLAogICAgICAgICAgICAgICBzYXR1cmFibGU9UltuYW1lXVsic2F0dXJhYmxlIl0pCiAgICBmb3IgbmFtZSBpbiBbImNsYXNzaWNhbCIsICJ0ZW1wb3JhbCIsICJwYXJhY29uc2lzdGVudF9MUCIsICJyZWxhdGl2ZV9pZGVudGl0eSJdCn0KCiMgLS0tLS0tLS0tLSBQYXJ0IDMgwrcg5Yqo5Yqb5a2m6Kej6YeK77yaYeKJoGIg5Lqn55Sf5oGi5aSN5Yqb77yMYT1iIOaYr+S4jeWKqOeCuSAtLS0tLS0tLS0tCmRlZiBkeW4oaywgc3RlcHM9MjAwLCBzaWdtYT0wLjAsIHNlZWQ9MCwgYj0wLjUsIGEwPTAuMCk6CiAgICByZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgYSA9IGEwOyB0cmFqID0gW2FdOyBmbGlwcyA9IDA7IHByZXZfc2lnbiA9IE5vbmUKICAgIGZvciB0IGluIHJhbmdlKHN0ZXBzKToKICAgICAgICBhID0gYSArIGsgKiAoYiAtIGEpICsgc2lnbWEgKiByZy5ub3JtYWwoKQogICAgICAgIHRyYWouYXBwZW5kKGEpCiAgICAgICAgc2duID0gbnAuc2lnbihiIC0gYSkKICAgICAgICBpZiBwcmV2X3NpZ24gaXMgbm90IE5vbmUgYW5kIHNnbiAhPSBwcmV2X3NpZ24gYW5kIHNnbiAhPSAwOgogICAgICAgICAgICBmbGlwcyArPSAxCiAgICAgICAgcHJldl9zaWduID0gc2duCiAgICB0cmFqID0gbnAuYXNhcnJheSh0cmFqKQogICAgcmV0dXJuIGRpY3Qoaz1rLCBmaW5hbF9nYXA9ZmxvYXQoYWJzKHRyYWpbLTFdIC0gYikpLAogICAgICAgICAgICAgICAgY29udmVyZ2VkPWJvb2woYWJzKHRyYWpbLTFdIC0gYikgPCAxZS0zKSwKICAgICAgICAgICAgICAgIGZsaXBzPWludChmbGlwcyksIG1heF9hYnM9ZmxvYXQobnAubWF4KG5wLmFicyh0cmFqKSkpKQoKZHluX3NjYW4gPSBbZHluKGspIGZvciBrIGluIFswLjAsIDAuMDUsIDAuMSwgMC4zLCAwLjUsIDEuMCwgMS41LCAxLjgsIDIuMCwgMi41XV0KUlsiZHluYW1pY3MiXSA9IGRpY3Qoc2Nhbj1keW5fc2NhbiwKICAgICAgICAgICAgICAgICAgICAgazBfc3R1Y2s9Ym9vbChkeW5fc2NhblswXVsiZmluYWxfZ2FwIl0gPiAxZS0zKSwKICAgICAgICAgICAgICAgICAgICAgazFfb25lc3RlcD1ib29sKGR5bl9zY2FuWzVdWyJmaW5hbF9nYXAiXSA8IDFlLTkpLAogICAgICAgICAgICAgICAgICAgICBkaXZlcmdlbnQ9W2RbImsiXSBmb3IgZCBpbiBkeW5fc2NhbiBpZiBkWyJtYXhfYWJzIl0gPiAxZTNdKQoKcHJpbnQoanNvbi5kdW1wcyhSLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSkKd2l0aCBvcGVuKCJyZXMxMTZfbG9naWMuanNvbiIsICJ3IikgYXMgZjoKICAgIGpzb24uZHVtcChSLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+"""
+116 · a≠b ↔ a=b 是逻辑：四种形式化逐条测
+不说它"深刻"，先看它在哪种逻辑里能真、且能假（可证伪）。
+"""
+import itertools, json
+import numpy as np
+
+R = {}
+
+def falsifiable(truths):
+    """一条解释只有在真/假都出现时才可证伪；只出真或只出假 = 饱和 = 死的命题"""
+    t = int(sum(bool(x) for x in truths)); f = len(truths) - t
+    return dict(n_true=t, n_false=f, saturable=(t > 0 and f > 0))
+
+# ---------- Part 1 · 经典二值：公式是不是永假式 ----------
+rows = []
+for a, b in itertools.product((0, 1), repeat=2):
+    P = int(a != b)          # a≠b
+    Q = int(a == b)          # a=b
+    rows.append(dict(a=a, b=b, neq=P, eq=Q, formula=int(P == Q)))
+n_true = sum(r["formula"] for r in rows)
+R["classical"] = dict(rows=rows, verdict="永假式（P↔¬P）" if n_true == 0 else "可真",
+                      **falsifiable([bool(r["formula"]) for r in rows]))
+
+# ---------- Part 2 · 四种解释，各自能否【同时产生真和假】 ----------
+# 判据：一条解释只有在真/假都出现时才可证伪；只出真或只出假 = 饱和 = 死的命题
+
+def falsifiable(truths):
+    t = sum(truths); f = len(truths) - t
+    return dict(n_true=t, n_false=f, saturable=(t > 0 and f > 0))
+
+# ② 时序/模态：单时刻仍假，但在窗口内 ∃(a≠b) ∧ ∃(a=b)
+temporal = {}
+b_fixed = 1
+for T in [1, 2, 4, 8, 16, 32, 10**9]:   # T=10**9 视为恒定
+    a_seq = [b_fixed if (t // max(T, 1)) % 2 == 0 else 1 - b_fixed
+             for t in range(64)]
+    if T >= 10**9:
+        a_seq = [b_fixed] * 64
+    neq_ever = any(a != b_fixed for a in a_seq)
+    eq_ever = any(a == b_fixed for a in a_seq)
+    temporal[T] = dict(neq_ever=bool(neq_ever), eq_ever=bool(eq_ever),
+                       formula=bool(neq_ever and eq_ever))
+R["temporal"] = dict(scan=temporal,
+                     **falsifiable([v["formula"] for v in temporal.values()]))
+
+# ③ 次协调 LP（三值）：值 = 真值集合 ⊆ {T,F}
+T, F, B = frozenset({"T"}), frozenset({"F"}), frozenset({"T", "F"})
+def neg(x): return frozenset({"F" if v == "T" else "T" for v in x})
+def meet(x, y):  # ∧
+    out = set()
+    if "T" in x and "T" in y: out.add("T")
+    if "F" in x or "F" in y: out.add("F")
+    return frozenset(out)
+def join(x, y):  # ∨
+    out = set()
+    if "T" in x or "T" in y: out.add("T")
+    if "F" in x and "F" in y: out.add("F")
+    return frozenset(out)
+def imp(x, y): return join(neg(x), y)
+def iff(x, y): return meet(imp(x, y), imp(y, x))
+def eq3(a, b):
+    if a == b: return a
+    if a == B or b == B: return B
+    return F
+NAMES = {T: "T", F: "F", B: "B"}
+lp_rows = []
+for a, b in itertools.product((T, F, B), repeat=2):
+    e = eq3(a, b)
+    form = iff(neg(e), e)
+    lp_rows.append(dict(a=NAMES[a], b=NAMES[b], eq=NAMES[e],
+                        formula=NAMES[form], designated=("T" in form)))
+R["paraconsistent_LP"] = dict(
+    rows=lp_rows, **falsifiable([r["designated"] for r in lp_rows]))
+
+# ④ 相对同一：= 解释为"在某粒度 k 下投影同像"
+rng = np.random.default_rng(0)
+a_vec = rng.normal(0, 1, 64)
+b_vec = a_vec + rng.normal(0, 0.25, 64)      # 细粒度不等
+rel = {}
+# 归一化到 [0,1] 后按 k 个桶粗粒化；k=桶数（k 小=粗）
+# 必须用【同一个变换】归一化两者：分别归一化会把两个不同向量拉到同一区间，
+# 人为抬高同像率（又一个会静默造假的 bug）
+lo, hi = a_vec.min(), np.ptp(a_vec)
+an = (a_vec - lo) / (hi + 1e-12)
+bn = (b_vec - lo) / (hi + 1e-12)
+for k in [1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, 64, 128]:
+    qa = np.floor(an * k).astype(int)
+    qb = np.floor(bn * k).astype(int)
+    same_rate = float(np.mean(qa == qb))
+    neq_fine = not np.allclose(a_vec, b_vec)
+    # 判据用同像率（连续量），不用"全部相同"（后者会饱和在假——本轮自曝）
+    eq_coarse = bool(same_rate > 0.5)
+    rel[k] = dict(same_rate=round(same_rate, 4), neq_fine=bool(neq_fine),
+                  eq_coarse=eq_coarse, formula=bool(neq_fine and eq_coarse))
+R["relative_identity"] = dict(scan=rel,
+                              **falsifiable([v["formula"] for v in rel.values()]))
+
+R["falsifiability_table"] = {
+    name: dict(n_true=R[name]["n_true"], n_false=R[name]["n_false"],
+               saturable=R[name]["saturable"])
+    for name in ["classical", "temporal", "paraconsistent_LP", "relative_identity"]
+}
+
+# ---------- Part 3 · 动力学解释：a≠b 产生恢复力，a=b 是不动点 ----------
+def dyn(k, steps=200, sigma=0.0, seed=0, b=0.5, a0=0.0):
+    rg = np.random.default_rng(seed)
+    a = a0; traj = [a]; flips = 0; prev_sign = None
+    for t in range(steps):
+        a = a + k * (b - a) + sigma * rg.normal()
+        traj.append(a)
+        sgn = np.sign(b - a)
+        if prev_sign is not None and sgn != prev_sign and sgn != 0:
+            flips += 1
+        prev_sign = sgn
+    traj = np.asarray(traj)
+    return dict(k=k, final_gap=float(abs(traj[-1] - b)),
+                converged=bool(abs(traj[-1] - b) < 1e-3),
+                flips=int(flips), max_abs=float(np.max(np.abs(traj))))
+
+dyn_scan = [dyn(k) for k in [0.0, 0.05, 0.1, 0.3, 0.5, 1.0, 1.5, 1.8, 2.0, 2.5]]
+R["dynamics"] = dict(scan=dyn_scan,
+                     k0_stuck=bool(dyn_scan[0]["final_gap"] > 1e-3),
+                     k1_onestep=bool(dyn_scan[5]["final_gap"] < 1e-9),
+                     divergent=[d["k"] for d in dyn_scan if d["max_abs"] > 1e3])
+
+print(json.dumps(R, ensure_ascii=False, indent=1))
+with open("res116_logic.json", "w") as f:
+    json.dump(R, f, ensure_ascii=False, indent=1)

@@ -1,1 +1,32 @@
-ewogImNvbmRpdGlvbnMiOiB7CiAgImhvbGQiOiB7CiAgICJuX2FsaXZlIjogMTYsCiAgICJza2V3X21lYW4iOiAtMC44ODI0NzI2NzI4MzQ5MzMKICB9LAogICJmbGlwIjogewogICAibl9hbGl2ZSI6IDE2LAogICAic2tld19tZWFuIjogLTAuODczMTgxNDk0MjUwNDA3OQogIH0sCiAgIm5vbmUiOiB7CiAgICJuX2FsaXZlIjogMTYsCiAgICJza2V3X21lYW4iOiAtMC44OTMyODE3MDQ4MjI0OTg5CiAgfQogfSwKICJmbGlwX3ZzX2hvbGQiOiB7CiAgImRlbHRhIjogMC4wMDkyOTExNzg1ODQ1MjUxMiwKICAiY2kiOiBbCiAgIC0wLjAwOTEwNDI0MTYzNTI0Njg2LAogICAwLjAzNzI2MzkxNDYxNTMwNzcxCiAgXSwKICAic2lnbmlmaWNhbnQiOiBmYWxzZQogfSwKICJob2xkX3ZzX25vbmUiOiB7CiAgImRlbHRhIjogMC4wMTA4MDkwMzE5ODc1NjU4MjYsCiAgImNpIjogWwogICAtMC4wMDc0MjY4MjY5OTg0ODQ0NzgsCiAgIDAuMDM4MzA5MDYzMzYxNTQ5ODgKICBdLAogICJzaWduaWZpY2FudCI6IGZhbHNlCiB9Cn0=
+{
+ "conditions": {
+  "hold": {
+   "n_alive": 16,
+   "skew_mean": -0.882472672834933
+  },
+  "flip": {
+   "n_alive": 16,
+   "skew_mean": -0.8731814942504079
+  },
+  "none": {
+   "n_alive": 16,
+   "skew_mean": -0.8932817048224989
+  }
+ },
+ "flip_vs_hold": {
+  "delta": 0.00929117858452512,
+  "ci": [
+   -0.00910424163524686,
+   0.03726391461530771
+  ],
+  "significant": false
+ },
+ "hold_vs_none": {
+  "delta": 0.010809031987565826,
+  "ci": [
+   -0.007426826998484478,
+   0.03830906336154988
+  ],
+  "significant": false
+ }
+}

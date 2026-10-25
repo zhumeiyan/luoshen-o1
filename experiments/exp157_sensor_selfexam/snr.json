@@ -1,1 +1,23 @@
-ewogIuW8uiI6IHsKICAiZF9wcmltZSI6IDEyOS42MiwKICAibm9pc2VfbWVhbiI6IDk2LjYsCiAgInNpZ19tZWFuIjogNTU2My40LAogICJ3b3JrX3dpZHRoX2ZyYWMiOiAwLjkyNSwKICAibl9nb29kIjogMzgKIH0sCiAi5LitIjogewogICJkX3ByaW1lIjogMjQuOTQsCiAgIm5vaXNlX21lYW4iOiA5Ny45LAogICJzaWdfbWVhbiI6IDM0Ny43LAogICJ3b3JrX3dpZHRoX2ZyYWMiOiAwLjgyNSwKICAibl9nb29kIjogMzQKIH0sCiAi5byxIjogewogICJkX3ByaW1lIjogOC40ODcsCiAgIm5vaXNlX21lYW4iOiA5Ni44LAogICJzaWdfbWVhbiI6IDE0Ny40LAogICJ3b3JrX3dpZHRoX2ZyYWMiOiAwLjUyNSwKICAibl9nb29kIjogMjIKIH0KfQ==
+{
+ "强": {
+  "d_prime": 129.62,
+  "noise_mean": 96.6,
+  "sig_mean": 5563.4,
+  "work_width_frac": 0.925,
+  "n_good": 38
+ },
+ "中": {
+  "d_prime": 24.94,
+  "noise_mean": 97.9,
+  "sig_mean": 347.7,
+  "work_width_frac": 0.825,
+  "n_good": 34
+ },
+ "弱": {
+  "d_prime": 8.487,
+  "noise_mean": 96.8,
+  "sig_mean": 147.4,
+  "work_width_frac": 0.525,
+  "n_good": 22
+ }
+}

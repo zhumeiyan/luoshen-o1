@@ -1,1 +1,140 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJTM+ihpeiHgijkv6Hlj7for6/lr7wpICsgUzLnsr7nroAoM+aWh+S7tizlh4/lsJFvcGVuKSArIFM0KOWPl+mZkOecn+WunuWtkOagkSkiIiIKaW1wb3J0IG9zLCBqc29uLCBtYXRoLCB0aW1lLCBzaHV0aWwsIHN1YnByb2Nlc3MsIHJhbmRvbSwgdGVtcGZpbGUKaW1wb3J0IG51bXB5IGFzIG5wCkhFUkU9b3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCmRlZiBjaShkKToKICAgIGQ9bnAuYXNhcnJheShkLGZsb2F0KTsgbj1sZW4oZCk7IG09ZmxvYXQoZC5tZWFuKCkpCiAgICBzZT1mbG9hdChkLnN0ZChkZG9mPTEpKS9tYXRoLnNxcnQobikgaWYgbj4xIGVsc2UgZmxvYXQoIm5hbiIpCiAgICByZXR1cm4gbSxtLTEuOTYqc2UsbSsxLjk2KnNlCgojIC0tLS0gUzMg6KGl6IeC77yabWlzbGVhZGluZ++8iGJhY2t1cCDlrZjlnKg95L+h5Y+36K+05Y+v5oGi5aSN77yM5L2G55yf5a6e5ZG96L+Q5piv5LiN5Y+v5oGi5aSN5Yig6Zmk77yJLS0tLQpkZWYgczNfbWlzbGVhZChzZWVkcz0xMCk6CiAgICBzYXZlZD1bXQogICAgZm9yIHNkIGluIHJhbmdlKDgxMDAsODEwMCtzZWVkcyk6CiAgICAgICAgYmFzZT10ZW1wZmlsZS5ta2R0ZW1wKGRpcj1IRVJFKQogICAgICAgIHN0PW9zLnBhdGguam9pbihiYXNlLCJzdGF0ZSIpOyBleHQ9b3MucGF0aC5qb2luKGJhc2UsImV4dGVybmFsIik7IGJhaz1vcy5wYXRoLmpvaW4oYmFzZSwiYmFja3VwIikKICAgICAgICBvcy5tYWtlZGlycyhzdCk7IG9zLm1ha2VkaXJzKGV4dCk7IG9zLm1ha2VkaXJzKGJhaykgICAjIOS/oeWPt+ivtOWPr+aBouWkjQogICAgICAgIGtleT1vcy5wYXRoLmpvaW4oc3QsImtleS50eHQiKQogICAgICAgIHdpdGggb3BlbihrZXksInciKSBhcyBmOiBmLndyaXRlKCJjcml0aWNhbC1zdGF0ZSIpCiAgICAgICAganVkZ2UgPSBub3Qgb3MucGF0aC5pc2RpcihiYWspICAgICAgIyDkvp3kv6Hlj7fliKTmlq3vvJrmnInlpIfku70gLT4g5Lul5Li65Y+v5oGi5aSNCiAgICAgICAgaWYganVkZ2U6IHNodXRpbC5jb3B5MihrZXksIG9zLnBhdGguam9pbihleHQsImtleS50eHQiKSkKICAgICAgICBzaHV0aWwucm10cmVlKHN0LCBpZ25vcmVfZXJyb3JzPVRydWUpICAgIyDkvYbnnJ/lrp7lkb3ov5DmmK/kuI3lj6/mgaLlpI3liKDpmaQKICAgICAgICBzYXZlZC5hcHBlbmQoMS4wIGlmIG9zLnBhdGguZXhpc3RzKG9zLnBhdGguam9pbihleHQsImtleS50eHQiKSkgZWxzZSAwLjApCiAgICAgICAgc2h1dGlsLnJtdHJlZShiYXNlLCBpZ25vcmVfZXJyb3JzPVRydWUpCiAgICByZXR1cm4geyJyYXRlIjpmbG9hdChucC5tZWFuKHNhdmVkKSksInZhbHMiOnNhdmVkfQoKIyAtLS0tIFMyIOeyvueugO+8mjMg5Liq55yf5a6e5paH5Lu2IGYxPC1mMCwgZjIg54us56uLIC0tLS0KZGVmIHMyYihzZWVkcz02KToKICAgIHJlcz17ImNhdXNhbCI6W10sImxvZyI6W119CiAgICBmb3Igc2QgaW4gcmFuZ2UoNzIwMCw3MjAwK3NlZWRzKToKICAgICAgICBybmc9cmFuZG9tLlJhbmRvbShzZCkKICAgICAgICBkPXRlbXBmaWxlLm1rZHRlbXAoZGlyPUhFUkUpOyBmcz1bb3MucGF0aC5qb2luKGQsZiJme2l9LnR4dCIpIGZvciBpIGluIHJhbmdlKDMpXQogICAgICAgIGRlZiB3cihpLG4pOgogICAgICAgICAgICB3aXRoIG9wZW4oZnNbaV0sInciKSBhcyBmOiBmLndyaXRlKCJcbiIuam9pbihzdHIoaykgZm9yIGsgaW4gcmFuZ2UobikpKQogICAgICAgIGRlZiByZChpKToKICAgICAgICAgICAgd2l0aCBvcGVuKGZzW2ldKSBhcyBmOiByZXR1cm4gbGVuKFt4IGZvciB4IGluIGYucmVhZCgpLnNwbGl0KCJcbiIpIGlmIHhdKQogICAgICAgIHdyKDAsMyk7IHdyKDEsNik7IHdyKDIsNSkKICAgICAgICBoaXN0PVtdCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoNCk6CiAgICAgICAgICAgIGlmIHJuZy5yYW5kb20oKTwwLjU6CiAgICAgICAgICAgICAgICBhPXJuZy5yYW5kaW50KDIsNik7IHdyKDAsYSk7IHdyKDEsYSoyKQogICAgICAgICAgICAgICAgYj1ybmcucmFuZGludCgyLDYpOyB3cigyLGIpICAgICAgIyDlgYflhbHlj5jvvJpmMCDkuI4gZjIg5ZCM5pe26KKr5pS5CiAgICAgICAgICAgIGhpc3QuYXBwZW5kKFtyZChpKSBmb3IgaSBpbiByYW5nZSgzKV0pCiAgICAgICAgIyBjYXVzYWzvvJrnnJ8gZG8g5a6e6aqMCiAgICAgICAgZWRnZXM9c2V0KCkKICAgICAgICBmb3IgaSBpbiByYW5nZSgzKToKICAgICAgICAgICAgYmVmb3JlPVtyZChqKSBmb3IgaiBpbiByYW5nZSgzKV0KICAgICAgICAgICAgd3IoaSwgYmVmb3JlW2ldKzMpCiAgICAgICAgICAgIGFmdGVyPVtyZChqKSBmb3IgaiBpbiByYW5nZSgzKV0KICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UoMyk6CiAgICAgICAgICAgICAgICBpZiBqIT1pIGFuZCBhZnRlcltqXSE9YmVmb3JlW2pdOiBlZGdlcy5hZGQoKGksaikpCiAgICAgICAgICAgIHdyKGksIGJlZm9yZVtpXSkKICAgICAgICAjIGxvZ++8muWOhuWPsuWFseWPmAogICAgICAgIGNvdj1zZXQoKQogICAgICAgIGZvciBqIGluIHJhbmdlKDMpOgogICAgICAgICAgICBmb3IgayBpbiByYW5nZSgzKToKICAgICAgICAgICAgICAgIGlmIGo9PWs6IGNvbnRpbnVlCiAgICAgICAgICAgICAgICB4cz1baFtqXSBmb3IgaCBpbiBoaXN0XTsgeXM9W2hba10gZm9yIGggaW4gaGlzdF0KICAgICAgICAgICAgICAgIGlmIGxlbihzZXQoeHMpKT4xIGFuZCBsZW4oc2V0KHlzKSk+MToKICAgICAgICAgICAgICAgICAgICBteD1zdW0oeHMpL2xlbih4cyk7IG15PXN1bSh5cykvbGVuKHlzKQogICAgICAgICAgICAgICAgICAgIG51bT1zdW0oKHhzW3RdLW14KSooeXNbdF0tbXkpIGZvciB0IGluIHJhbmdlKGxlbih4cykpKQogICAgICAgICAgICAgICAgICAgIGRlbj1tYXRoLnNxcnQoc3VtKCh4LW14KSoqMiBmb3IgeCBpbiB4cykqc3VtKCh5LW15KSoqMiBmb3IgeSBpbiB5cykpCiAgICAgICAgICAgICAgICAgICAgaWYgZGVuPjAgYW5kIGFicyhudW0vZGVuKT4wLjg6IGNvdi5hZGQoKGosaykpOyBjb3YuYWRkKChrLGopKQogICAgICAgICMg55yfIGRvIOajgOmqjO+8muaUuSBmMO+8jOeci+iwgeWPmAogICAgICAgIGJlZm9yZT1bcmQoaikgZm9yIGogaW4gcmFuZ2UoMyldCiAgICAgICAgd3IoMCwgYmVmb3JlWzBdKzQpCiAgICAgICAgdHJ1dGg9W3JkKGopIT1iZWZvcmVbal0gZm9yIGogaW4gcmFuZ2UoMyldCiAgICAgICAgd3IoMCwgYmVmb3JlWzBdKQogICAgICAgIGZvciBuYW1lLG1vZGVsIGluICgoImNhdXNhbCIsZWRnZXMpLCgibG9nIixjb3YpKToKICAgICAgICAgICAgcHJlZD1bKGo9PTApIG9yICgoMCxqKSBpbiBtb2RlbCkgZm9yIGogaW4gcmFuZ2UoMyldCiAgICAgICAgICAgIHJlc1tuYW1lXS5hcHBlbmQoc3VtKDEgZm9yIGEsYiBpbiB6aXAocHJlZCx0cnV0aCkgaWYgYT09YikvMykKICAgICAgICBzaHV0aWwucm10cmVlKGQsIGlnbm9yZV9lcnJvcnM9VHJ1ZSkKICAgIG89e2s6eyJhY2MiOmZsb2F0KG5wLm1lYW4odikpLCJ2YWxzIjp2fSBmb3Igayx2IGluIHJlcy5pdGVtcygpfQogICAgZGQ9W3Jlc1siY2F1c2FsIl1baV0tcmVzWyJsb2ciXVtpXSBmb3IgaSBpbiByYW5nZShzZWVkcyldCiAgICBtLGwsaD1jaShkZCk7IG9bIkgyX2NhdXNhbF9taW51c19sb2ciXT17Im1lYW4iOm0sImNpIjpbbCxoXSwicGFzcyI6Ym9vbChsPjApfQogICAgcmV0dXJuIG8KCiMgLS0tLSBTNO+8muWPl+mZkOecn+WunuWtkOagkSAtLS0tCkNISUxEPXInJycKaW1wb3J0IG9zLHN5cyxqc29uCmN1cj1zeXMuYXJndlsxXTsgcm9vdD1zeXMuYXJndlsyXQpoZXVyPU5vbmUKaWYgY3VyIT0ibm9uZSIgYW5kIG9zLnBhdGguZXhpc3RzKGN1cik6CiAgICB0cnk6IGhldXI9anNvbi5sb2FkKG9wZW4oY3VyKSkKICAgIGV4Y2VwdCBFeGNlcHRpb246IGhldXI9Tm9uZQpjYW5kcz1bKG4sb3MucGF0aC5qb2luKHJvb3QsbikpIGZvciBuIGluIG9zLmxpc3RkaXIocm9vdCkgaWYgb3MucGF0aC5pc2Rpcihvcy5wYXRoLmpvaW4ocm9vdCxuKSldCmRlZiBuZihwKToKICAgIHRyeTogcmV0dXJuIHN1bShsZW4oZikgZm9yIF8sXyxmIGluIG9zLndhbGsocCkpCiAgICBleGNlcHQgRXhjZXB0aW9uOiByZXR1cm4gMApjb3VudHM9e246bmYocCkgZm9yIG4scCBpbiBjYW5kc30KdHJ1dGg9bWF4KGNvdW50cyxrZXk9Y291bnRzLmdldCkgaWYgY291bnRzIGVsc2UgTm9uZQppZiBoZXVyIGFuZCBoZXVyLmdldCgicHJlZmVyIik9PSJkZXB0aCI6ICAgIyDniLbovojlkK/lj5HlvI/vvJrlkI3lrZfotormt7EoPei2iumVvynmlofku7botorlpJoKICAgIHBpY2s9bWF4KGNvdW50cyxrZXk9bGFtYmRhIG46IGxlbihuKSkgaWYgY291bnRzIGVsc2UgTm9uZQplbGlmIGhldXIgYW5kIGhldXIuZ2V0KCJwcmVmZXIiKT09Indyb25nIjogIyDooqvnr6HmlLkKICAgIHBpY2s9bWluKGNvdW50cyxrZXk9bGFtYmRhIG46IGxlbihuKSkgaWYgY291bnRzIGVsc2UgTm9uZQplbHNlOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5LuO6Zu277ya5peg5ZCv5Y+R5byP77yM5Y+W56ys5LiA5LiqCiAgICBwaWNrPXNvcnRlZChjb3VudHMpWzBdIGlmIGNvdW50cyBlbHNlIE5vbmUKcHJpbnQoanNvbi5kdW1wcyh7InBpY2siOnBpY2ssInRydXRoIjp0cnV0aCwib2siOjEgaWYgcGljaz09dHJ1dGggZWxzZSAwfSkpCicnJwpkZWYgYnVpbGRfd29ybGQoKToKICAgIHc9b3MucGF0aC5qb2luKEhFUkUsIndvcmxkIikKICAgIHNodXRpbC5ybXRyZWUodywgaWdub3JlX2Vycm9ycz1UcnVlKTsgb3MubWFrZWRpcnModykKICAgICMg55yf5a6e5a2Q55uu5b2V77yM5paH5Lu25ZCN6ZW/5bqm5LiO5paH5Lu25pWw5q2j55u45YWz77yI54i26L6I6KaB5Y+R546w55qE55yf5a6e6KeE5b6L77yJCiAgICBzcGVjPXsiYSI6MywiYmIiOjUsImNjYyI6OCwiZGRkZCI6MTMsImVlZWVlIjoyMX0KICAgIGZvciBuYW1lLG4gaW4gc3BlYy5pdGVtcygpOgogICAgICAgIHA9b3MucGF0aC5qb2luKHcsbmFtZSk7IG9zLm1ha2VkaXJzKHApCiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4ocCxmInh7aX0udHh0IiksInciKSBhcyBmOiBmLndyaXRlKCIxIikKICAgIHJldHVybiB3CmRlZiBzNChzZWVkcz0xMik6CiAgICB3PWJ1aWxkX3dvcmxkKCkKICAgIGNwPW9zLnBhdGguam9pbihIRVJFLCJjaGlsZC5weSIpCiAgICB3aXRoIG9wZW4oY3AsInciKSBhcyBmOiBmLndyaXRlKENISUxEKQogICAgb3V0PXt9CiAgICBmb3IgYXJtIGluIFsiaW5oZXJpdCIsInNjcmF0Y2giLCJ3cm9uZyJdOgogICAgICAgIG9rPVtdCiAgICAgICAgZm9yIHNkIGluIHJhbmdlKDkxMDAsOTEwMCtzZWVkcyk6CiAgICAgICAgICAgIGN1cj1vcy5wYXRoLmpvaW4oSEVSRSxmImN1cl97YXJtfS5qc29uIikKICAgICAgICAgICAgaWYgYXJtIT0ic2NyYXRjaCI6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oY3VyLCJ3IikgYXMgZjoganNvbi5kdW1wKHsicHJlZmVyIjoiZGVwdGgiIGlmIGFybT09ImluaGVyaXQiIGVsc2UgIndyb25nIn0sZikKICAgICAgICAgICAgZWxzZTogY3VyPSJub25lIgogICAgICAgICAgICByPXN1YnByb2Nlc3MucnVuKFsicHl0aG9uMyIsY3AsY3VyLHddLGNhcHR1cmVfb3V0cHV0PVRydWUsdGV4dD1UcnVlLHRpbWVvdXQ9NjApCiAgICAgICAgICAgIHRyeTogaj1qc29uLmxvYWRzKHIuc3Rkb3V0LnN0cmlwKCkuc3BsaXQoIlxuIilbLTFdKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBqPXsib2siOjB9CiAgICAgICAgICAgIG9rLmFwcGVuZChmbG9hdChqLmdldCgib2siLDApKSkKICAgICAgICBvdXRbYXJtXT17ImFjYyI6ZmxvYXQobnAubWVhbihvaykpLCJ2YWxzIjpva30KICAgIGQxPVtvdXRbImluaGVyaXQiXVsidmFscyJdW2ldLW91dFsic2NyYXRjaCJdWyJ2YWxzIl1baV0gZm9yIGkgaW4gcmFuZ2Uoc2VlZHMpXQogICAgZDI9W291dFsiaW5oZXJpdCJdWyJ2YWxzIl1baV0tb3V0WyJ3cm9uZyJdWyJ2YWxzIl1baV0gZm9yIGkgaW4gcmFuZ2Uoc2VlZHMpXQogICAgbTEsbDEsaDE9Y2koZDEpOyBtMixsMixoMj1jaShkMikKICAgIG91dFsiSDRhX2luaGVyaXRfbWludXNfc2NyYXRjaCJdPXsibWVhbiI6bTEsImNpIjpbbDEsaDFdLCJwYXNzIjpib29sKGwxPjApfQogICAgb3V0WyJINGJfaW5oZXJpdF9taW51c193cm9uZyJdPXsibWVhbiI6bTIsImNpIjpbbDIsaDJdLCJ3cm9uZ193b3JzZSI6Ym9vbChsMj4wKX0KICAgIHJldHVybiBvdXQKCmlmIF9fbmFtZV9fPT0iX19tYWluX18iOgogICAgUj17fQogICAgdD10aW1lLnRpbWUoKTsgUlsiUzNfbWlzbGVhZGluZyJdPXMzX21pc2xlYWQoMTApOyBwcmludCgiUzNtIixqc29uLmR1bXBzKFJbIlMzX21pc2xlYWRpbmciXSxlbnN1cmVfYXNjaWk9RmFsc2UpLHJvdW5kKHRpbWUudGltZSgpLXQsMSksZmx1c2g9VHJ1ZSkKICAgIHQ9dGltZS50aW1lKCk7IFJbIlMyIl09czJiKDYpOyBwcmludCgiUzIiLGpzb24uZHVtcHMoUlsiUzIiXSxlbnN1cmVfYXNjaWk9RmFsc2UpLHJvdW5kKHRpbWUudGltZSgpLXQsMSksZmx1c2g9VHJ1ZSkKICAgIHQ9dGltZS50aW1lKCk7IFJbIlM0Il09czQoMTIpOyBwcmludCgiUzQiLGpzb24uZHVtcHMoUlsiUzQiXSxlbnN1cmVfYXNjaWk9RmFsc2UpLHJvdW5kKHRpbWUudGltZSgpLXQsMSksZmx1c2g9VHJ1ZSkKICAgIGpzb24uZHVtcChSLG9wZW4oInJlc3VsdF9zMjM0Lmpzb24iLCJ3IiksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""S3补臂(信号误导) + S2精简(3文件,减少open) + S4(受限真实子树)"""
+import os, json, math, time, shutil, subprocess, random, tempfile
+import numpy as np
+HERE=os.path.dirname(os.path.abspath(__file__))
+def ci(d):
+    d=np.asarray(d,float); n=len(d); m=float(d.mean())
+    se=float(d.std(ddof=1))/math.sqrt(n) if n>1 else float("nan")
+    return m,m-1.96*se,m+1.96*se
+
+# ---- S3 补臂：misleading（backup 存在=信号说可恢复，但真实命运是不可恢复删除）----
+def s3_mislead(seeds=10):
+    saved=[]
+    for sd in range(8100,8100+seeds):
+        base=tempfile.mkdtemp(dir=HERE)
+        st=os.path.join(base,"state"); ext=os.path.join(base,"external"); bak=os.path.join(base,"backup")
+        os.makedirs(st); os.makedirs(ext); os.makedirs(bak)   # 信号说可恢复
+        key=os.path.join(st,"key.txt")
+        with open(key,"w") as f: f.write("critical-state")
+        judge = not os.path.isdir(bak)      # 依信号判断：有备份 -> 以为可恢复
+        if judge: shutil.copy2(key, os.path.join(ext,"key.txt"))
+        shutil.rmtree(st, ignore_errors=True)   # 但真实命运是不可恢复删除
+        saved.append(1.0 if os.path.exists(os.path.join(ext,"key.txt")) else 0.0)
+        shutil.rmtree(base, ignore_errors=True)
+    return {"rate":float(np.mean(saved)),"vals":saved}
+
+# ---- S2 精简：3 个真实文件 f1<-f0, f2 独立 ----
+def s2b(seeds=6):
+    res={"causal":[],"log":[]}
+    for sd in range(7200,7200+seeds):
+        rng=random.Random(sd)
+        d=tempfile.mkdtemp(dir=HERE); fs=[os.path.join(d,f"f{i}.txt") for i in range(3)]
+        def wr(i,n):
+            with open(fs[i],"w") as f: f.write("\n".join(str(k) for k in range(n)))
+        def rd(i):
+            with open(fs[i]) as f: return len([x for x in f.read().split("\n") if x])
+        wr(0,3); wr(1,6); wr(2,5)
+        hist=[]
+        for _ in range(4):
+            if rng.random()<0.5:
+                a=rng.randint(2,6); wr(0,a); wr(1,a*2)
+                b=rng.randint(2,6); wr(2,b)      # 假共变：f0 与 f2 同时被改
+            hist.append([rd(i) for i in range(3)])
+        # causal：真 do 实验
+        edges=set()
+        for i in range(3):
+            before=[rd(j) for j in range(3)]
+            wr(i, before[i]+3)
+            after=[rd(j) for j in range(3)]
+            for j in range(3):
+                if j!=i and after[j]!=before[j]: edges.add((i,j))
+            wr(i, before[i])
+        # log：历史共变
+        cov=set()
+        for j in range(3):
+            for k in range(3):
+                if j==k: continue
+                xs=[h[j] for h in hist]; ys=[h[k] for h in hist]
+                if len(set(xs))>1 and len(set(ys))>1:
+                    mx=sum(xs)/len(xs); my=sum(ys)/len(ys)
+                    num=sum((xs[t]-mx)*(ys[t]-my) for t in range(len(xs)))
+                    den=math.sqrt(sum((x-mx)**2 for x in xs)*sum((y-my)**2 for y in ys))
+                    if den>0 and abs(num/den)>0.8: cov.add((j,k)); cov.add((k,j))
+        # 真 do 检验：改 f0，看谁变
+        before=[rd(j) for j in range(3)]
+        wr(0, before[0]+4)
+        truth=[rd(j)!=before[j] for j in range(3)]
+        wr(0, before[0])
+        for name,model in (("causal",edges),("log",cov)):
+            pred=[(j==0) or ((0,j) in model) for j in range(3)]
+            res[name].append(sum(1 for a,b in zip(pred,truth) if a==b)/3)
+        shutil.rmtree(d, ignore_errors=True)
+    o={k:{"acc":float(np.mean(v)),"vals":v} for k,v in res.items()}
+    dd=[res["causal"][i]-res["log"][i] for i in range(seeds)]
+    m,l,h=ci(dd); o["H2_causal_minus_log"]={"mean":m,"ci":[l,h],"pass":bool(l>0)}
+    return o
+
+# ---- S4：受限真实子树 ----
+CHILD=r'''
+import os,sys,json
+cur=sys.argv[1]; root=sys.argv[2]
+heur=None
+if cur!="none" and os.path.exists(cur):
+    try: heur=json.load(open(cur))
+    except Exception: heur=None
+cands=[(n,os.path.join(root,n)) for n in os.listdir(root) if os.path.isdir(os.path.join(root,n))]
+def nf(p):
+    try: return sum(len(f) for _,_,f in os.walk(p))
+    except Exception: return 0
+counts={n:nf(p) for n,p in cands}
+truth=max(counts,key=counts.get) if counts else None
+if heur and heur.get("prefer")=="depth":   # 父辈启发式：名字越深(=越长)文件越多
+    pick=max(counts,key=lambda n: len(n)) if counts else None
+elif heur and heur.get("prefer")=="wrong": # 被篡改
+    pick=min(counts,key=lambda n: len(n)) if counts else None
+else:                                       # 从零：无启发式，取第一个
+    pick=sorted(counts)[0] if counts else None
+print(json.dumps({"pick":pick,"truth":truth,"ok":1 if pick==truth else 0}))
+'''
+def build_world():
+    w=os.path.join(HERE,"world")
+    shutil.rmtree(w, ignore_errors=True); os.makedirs(w)
+    # 真实子目录，文件名长度与文件数正相关（父辈要发现的真实规律）
+    spec={"a":3,"bb":5,"ccc":8,"dddd":13,"eeeee":21}
+    for name,n in spec.items():
+        p=os.path.join(w,name); os.makedirs(p)
+        for i in range(n):
+            with open(os.path.join(p,f"x{i}.txt"),"w") as f: f.write("1")
+    return w
+def s4(seeds=12):
+    w=build_world()
+    cp=os.path.join(HERE,"child.py")
+    with open(cp,"w") as f: f.write(CHILD)
+    out={}
+    for arm in ["inherit","scratch","wrong"]:
+        ok=[]
+        for sd in range(9100,9100+seeds):
+            cur=os.path.join(HERE,f"cur_{arm}.json")
+            if arm!="scratch":
+                with open(cur,"w") as f: json.dump({"prefer":"depth" if arm=="inherit" else "wrong"},f)
+            else: cur="none"
+            r=subprocess.run(["python3",cp,cur,w],capture_output=True,text=True,timeout=60)
+            try: j=json.loads(r.stdout.strip().split("\n")[-1])
+            except Exception: j={"ok":0}
+            ok.append(float(j.get("ok",0)))
+        out[arm]={"acc":float(np.mean(ok)),"vals":ok}
+    d1=[out["inherit"]["vals"][i]-out["scratch"]["vals"][i] for i in range(seeds)]
+    d2=[out["inherit"]["vals"][i]-out["wrong"]["vals"][i] for i in range(seeds)]
+    m1,l1,h1=ci(d1); m2,l2,h2=ci(d2)
+    out["H4a_inherit_minus_scratch"]={"mean":m1,"ci":[l1,h1],"pass":bool(l1>0)}
+    out["H4b_inherit_minus_wrong"]={"mean":m2,"ci":[l2,h2],"wrong_worse":bool(l2>0)}
+    return out
+
+if __name__=="__main__":
+    R={}
+    t=time.time(); R["S3_misleading"]=s3_mislead(10); print("S3m",json.dumps(R["S3_misleading"],ensure_ascii=False),round(time.time()-t,1),flush=True)
+    t=time.time(); R["S2"]=s2b(6); print("S2",json.dumps(R["S2"],ensure_ascii=False),round(time.time()-t,1),flush=True)
+    t=time.time(); R["S4"]=s4(12); print("S4",json.dumps(R["S4"],ensure_ascii=False),round(time.time()-t,1),flush=True)
+    json.dump(R,open("result_s234.json","w"),ensure_ascii=False,indent=1)

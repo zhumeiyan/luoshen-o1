@@ -1,1 +1,204 @@
-ewogIumHh+mbhuaXtumXtCI6ICIyMDI2LTEwLTIwIDE5OjA3OjU0IiwKICLph4fpm4bmnLrlmagiOiAiY3ViZWJveC0iLAogIuS4gOmUrumqjOivgSI6IHsKICAi6YCA5Ye656CBIjogMCwKICAi55So5pe256eSIjogNy43LAogICLmmI7nu4YiOiBbCiAgICJbUEFTU10g5a2Y5Zyo6Iez5bCR5LiA5Liq6YCa6YGT5YiG5LiN5Yiw6LWE5rqQ77yI56Gs5Y+W6IiN77yM6ICM6Z2e562J5q+U57yp5pS+77yJICDigJQgMjAwLzIwMCDmi43lh7rnjrDpm7bliIbphY3pgJrpgZMiLAogICAiW1BBU1NdIGNhcGFjaXR5IOmAkOaLjeS4jeWinu+8iG1heCBpbmNyZWFzZSA9IDAuMDBlKzAw77yJIiwKICAgIltQQVNTXSBjYXBhY2l0eSDnoa7lrp7lj5HnlJ/kuobkuI3lj6/pgIbmlLbnvKkgIOKAlCDlnYflgLwgMC45OTYwIOKGkiAwLjQ0NzciLAogICAiW1BBU1NdIEUg5pyJ5rao5pyJ6JC977yI6Z2e5Y2V6LCD5rOo5YWl77yJICDigJQgbWluIDAuNzE1NiAvIG1heCAxLjAwMDAiLAogICAiW1BBU1NdIHNwIOiHquihjOa8guenu++8iOmdnuaBkuWumu+8iSAg4oCUIHNwIDAuNjAwMCDihpIgMC41MjgyIiwKICAgIltQQVNTXSBzcCDml6DlpJbpg6ggc2V0dGVy77yI5byV5pOO5LiN5o+Q5L6b5YaZ5YWl5o6l5Y+j77yJIiwKICAgIltQQVNTXSBzZWVkIDMg5Ye6546w5q275Lqh57uT5bGAICDigJQgZGllZCBhdCA1MjUiLAogICAiW1BBU1NdIOatu+S6oeWQjuS4jeWGjeS6p+eUn+aWsOeKtuaAge+8iOS4jeWbnua7mu+8iSAg4oCUIGxvZyDplb/luqYgNTI277yMZGVhdGhfdCA1MjUiLAogICAiW1BBU1NdIOaSpOaOieeogOe8uiDihpIg57uT5p6E5YGP5bqmIOKJiCAwICDigJQgc2tldyA9IDAuMDBlKzAwIiwKICAgIltQQVNTXSDmkqTmjonkuI3lj6/pgIYg4oaSIOe7k+aehOWBj+W6piDiiYggMCAg4oCUIHNrZXcgPSAwLjAwZSswMCIsCiAgICJbUEFTU10g5LqU5p2h56Gs57qm5p2f5YWo6YOo5oiQ56uLICDigJQgdGVzdHMvdGVzdF9lbmdpbmUucHkg6YCA5Ye656CBIDAiLAogICAiW1BBU1NdIOWkjeeOsOiEmuacrOaJp+ihjOaIkOWKnyAg4oCUIGV4cGVyaW1lbnRzL3J1bl9jb3JlLnB5IOmAgOWHuueggSAwIiwKICAgIltQQVNTXSDikaAg5q275Lqh56Gu5a6e5Y+R55SfICDigJQgMy8xNiDkuKrkvZPmrbvkuqHvvIxkZWF0aF90PVs1MjUsIDU5NiwgNTE2XSIsCiAgICJbUEFTU10g4pGhIOaXqeacn+WJpeWkuiDOlCA8IDAgIOKAlCDOlCA9IC0wLjE0OTQxNSDCsSAwLjAzMTA1MyIsCiAgICJbUEFTU10g4pGhIOespuWPt+S4gOiHtCAg4oCUIDgvOCIsCiAgICJbUEFTU10g4pGiIOeogOe8uuKIp+S4jeWPr+mAhiDihpIg55ak55eVID4gMCAg4oCUIHNrZXcgPSAwLjI5MTMwMiIsCiAgICJbUEFTU10g4pGiIOaSpOaOieS4jeWPr+mAhiDihpIg57K+56Gu5b2S6Zu2ICDigJQgc2tldyA9IDAuMCIsCiAgICJbUEFTU10g4pGiIOaSpOaOieeogOe8uiDihpIg57K+56Gu5b2S6Zu2ICDigJQgc2tldyA9IDAuMCIsCiAgICJbUEFTU10g4pGiIOS4pOiAhemDveaSpCDihpIg57K+56Gu5b2S6Zu2ICDigJQgc2tldyA9IDAuMCIsCiAgICJbUEFTU10g4pGjIOaXqeacn+W8leWvvCA+IOWFqOeoi+aWveWKoCAg4oCUIGVhcmx5PTEuMDkzMyA+IGZ1bGw9MC44NTAyIiwKICAgIltQQVNTXSDikaMg5YWo56iL5pa95YqgID4g5pma5pyf5byV5a+8ICDigJQgZnVsbD0wLjg1MDIgPiBsYXRlPTAuMzI0MyIsCiAgICJbUEFTU10g4pGjIGNvcmUvX19pbml0X18ucHkg5a2Y5ZyoICDigJQg57y65aSx5bCG5a+86Ie0IHBpcCDlronoo4XlkI7ml6Dlj6/nlKjku6PnoIEiLAogICAiW1BBU1NdIOKRoyBmaW5kX3BhY2thZ2VzIOiDveaJvuWIsCBjb3JlICDigJQg5a6e6ZmFOiBbJ2NhcGFiaWxpdGllcycsICdjb3JlJ10iLAogICAiW1BBU1NdIOKRoyBwaXAgaW5zdGFsbCDmiJDlip/vvIjlubLlh4DmupDnoIHmoJHvvIkgIOKAlCDpgIDlh7rnoIEgMCIsCiAgICJbUEFTU10g4pGjIOijheWMheWQjiBpbXBvcnQg5bm26LeR6YCa77yI5LiU56Gu5a6e5p2l6Ieq6KOF5Ye655qE5YyF77yJICDigJQgUEFDS19PSyIsCiAgICLmsYfmgLsgIDE1LzE1IOmhuemAmui/hyAgIOeUqOaXtiA3LjZzIgogIF0sCiAgIumAmui/h+aVsCI6IDI1LAogICLlpLHotKXmlbAiOiAwCiB9LAogIui1hOS6pyI6IHsKICAi5a6e6aqMIjogMTkxLAogICLlrp7pqozmiqXlkYoiOiAyMDQsCiAgInB5dGhvbuiEmuacrCI6IDEyNDQsCiAgIuWIpOaNruaguOihjOaVsCI6IDk1MTQKIH0sCiAi5LqU5a6YIjogewogICLor7vmlofku7YiOiB0cnVlLAogICLlhpnmlofku7YiOiB0cnVlLAogICLot5Hku6PnoIEiOiB0cnVlLAogICLot5FzaGVsbCI6IHRydWUsCiAgIuiBlOe9keivuyI6IHRydWUsCiAgIuWbvuWDj+eUn+aIkCI6IHRydWUsCiAgIumfs+mikeWQiOaIkCI6IGZhbHNlLAogICJf57y6IjogWwogICAi6Z+z6aKR5ZCI5oiQIgogIF0KIH0sCiAiR2l0SHViIjogewogICJyZXBvcyI6IFsKICAgewogICAgIm5hbWUiOiAibHVvc2hlbi1vMSIsCiAgICAic3RhcnMiOiAwLAogICAgInNpemVfa2IiOiAxOTIwNiwKICAgICJwdXNoZWQiOiAiMjAyNi0xMC0yMCIsCiAgICAiZGVzYyI6ICLmtJvnpZ4gTzEgwrcg5Lya5q2755qE5pWw5a2X55Sf5ZG95byV5pOOIC8gTHVvU2hlbiBPMSDigJQgYSBtb3J0YWwgZGlnaXRhbC1saWZlIGVuZ2luIgogICB9LAogICB7CiAgICAibmFtZSI6ICJ1bml2ZXJzYWwtYWktZnJhbWV3b3JrIiwKICAgICJzdGFycyI6IDAsCiAgICAic2l6ZV9rYiI6IDE3LAogICAgInB1c2hlZCI6ICIyMDI2LTEwLTE0IiwKICAgICJkZXNjIjogIuiQg+WPluiuuiDigJQg6Z2i5ZCR6Leo5paH5YyW55qE5Y+M5ZCR5YWx6K+G5Lq65py65Lqk5LqS5qGG5p6277yI5oSP5Zu+6JCD5Y+WIC8g6KeE5YiZ5Y2P5ZWGIC8g5YWx6K+G5rKJ5reA77yJ44CCIgogICB9LAogICB7CiAgICAibmFtZSI6ICJydW5uZXItdG1wIiwKICAgICJzdGFycyI6IDAsCiAgICAic2l6ZV9rYiI6IDUwMCwKICAgICJwdXNoZWQiOiAiMjAyNi0xMC0xNiIsCiAgICAiZGVzYyI6ICJTdGFyIOWQjeWNleWtmOaho+OAgiIKICAgfSwKICAgewogICAgIm5hbWUiOiAiYXdlc29tZS1haS10ZXN0aW5nIiwKICAgICJzdGFycyI6IDAsCiAgICAic2l6ZV9rYiI6IDU4LAogICAgInB1c2hlZCI6ICIyMDI2LTEwLTE3IiwKICAgICJkZXNjIjogIkFJIOa1i+ivleW3peWFt+S4juahhuaetuaxh+aAu+a4heWNleOAgiIKICAgfSwKICAgewogICAgIm5hbWUiOiAiQXdlc29tZS1MTE1PcHMiLAogICAgInN0YXJzIjogMCwKICAgICJzaXplX2tiIjogNDIxLAogICAgInB1c2hlZCI6ICIyMDI2LTEwLTE3IiwKICAgICJkZXNjIjogIkxMTU9wcyDlt6XlhbfmsYfmgLvmuIXljZXjgIIiCiAgIH0sCiAgIHsKICAgICJuYW1lIjogImF3ZXNvbWUtZXZhbHMiLAogICAgInN0YXJzIjogMCwKICAgICJzaXplX2tiIjogMTQyNywKICAgICJwdXNoZWQiOiAiMjAyNi0xMC0xNyIsCiAgICAiZGVzYyI6ICJBd2Vzb21lIEFnZW50IEV2YWxzIOKAlCBCZW5jaEZsb3cg57u05oqk55qEIEFJIEFnZW50IOivhOa1i+i1hOa6kOa4heWNleOAgiIKICAgfSwKICAgewogICAgIm5hbWUiOiAiQXdlc29tZS1MTE0tRXZhbCIsCiAgICAic3RhcnMiOiAwLAogICAgInNpemVfa2IiOiAxMzQ3OSwKICAgICJwdXNoZWQiOiAiMjAyNi0xMC0xNyIsCiAgICAiZGVzYyI6ICJMTE0g6K+E5rWL6LWE5rqQ5rGH5oC744CCIgogICB9LAogICB7CiAgICAibmFtZSI6ICJlby1kZXZvLWRlbW8iLAogICAgInN0YXJzIjogMCwKICAgICJzaXplX2tiIjogOTE2LAogICAgInB1c2hlZCI6ICIyMDI2LTEwLTE5IiwKICAgICJkZXNjIjogIkVPIOWPkeiCsua8lOekuu+8iOW3suS4iue6vyBHaXRIdWIgUGFnZXPvvInjgIIiCiAgIH0sCiAgIHsKICAgICJuYW1lIjogInJlcG8tZmFjYWRlIiwKICAgICJzdGFycyI6IDAsCiAgICAic2l6ZV9rYiI6IDM5NywKICAgICJwdXNoZWQiOiAiMjAyNi0xMC0xOSIsCiAgICAiZGVzYyI6ICLkuLrku7vmhI/ku5PlupPnlJ/miJDjgIzmtLvnmoTnirbmgIHnq4vpnaLjgI1TVkfvvJrpm7YgSlPjgIFSRUFETUUg5YaF5Y+v5Yqo44CB5ZOI5biM56Gu5a6a5oCn5rS+55Sf44CB5piO56Gu5LiN55S75Lq66IS444CCIgogICB9LAogICB7CiAgICAibmFtZSI6ICJldmFsZ3VhcmQtd29ya2VyIiwKICAgICJzdGFycyI6IDAsCiAgICAic2l6ZV9rYiI6IDYxOCwKICAgICJwdXNoZWQiOiAiMjAyNi0xMC0xNyIsCiAgICAiZGVzYyI6ICLimqDvuI8g5q2k5LuT5bqT5a6e5Li6IEdob3N0R2F0ZXMg4oCU4oCUIEdpdEh1YiDphY3nva7nu4TlkIjlronlhajpl6jnoJTnqbbljp/lnovvvIzkuI4gZXZhbGd1YXJkIOaXoOWFs++8jOWQjeWtl+aYkyIKICAgfSwKICAgewogICAgIm5hbWUiOiAiZXZhbGd1YXJkIiwKICAgICJzdGFycyI6IDAsCiAgICAic2l6ZV9rYiI6IDMxNiwKICAgICJwdXNoZWQiOiAiMjAyNi0xMC0xOCIsCiAgICAiZGVzYyI6ICJldmFsZ3VhcmQg4oCUIEFJIOivhOa1i+OAjOmdmem7mOWHuumUmeOAjeajgOafpeWZqOOAgjI2IOadoeinhOWIme+8jENMSSAvIEhUVFAgQVBJIC8gU0FSSUYgMi4xIgogICB9LAogICB7CiAgICAibmFtZSI6ICJjYXQtYWkiLAogICAgInN0YXJzIjogMCwKICAgICJzaXplX2tiIjogNTA3LAogICAgInB1c2hlZCI6ICIyMDI2LTEwLTIwIiwKICAgICJkZXNjIjogIueMq+WSqiBBSeOAgiIKICAgfSwKICAgewogICAgIm5hbWUiOiAibHVvc2hlbmZ1YWkiLAogICAgInN0YXJzIjogMCwKICAgICJzaXplX2tiIjogNTY3OSwKICAgICJwdXNoZWQiOiAiMjAyNi0xMC0yMCIsCiAgICAiZGVzYyI6ICLmtJvnpZ7otYsgQUnjgIIiCiAgIH0sCiAgIHsKICAgICJuYW1lIjogImx1b3NoZW4tZGFzaGJvYXJkIiwKICAgICJzdGFycyI6IDAsCiAgICAic2l6ZV9rYiI6IDksCiAgICAicHVzaGVkIjogIjIwMjYtMTAtMjAiLAogICAgImRlc2MiOiAi5rSb56We5Luq6KGo55uY77yI5bu66K6+5Lit77yJ44CCIgogICB9LAogICB7CiAgICAibmFtZSI6ICJsdW9zaGVuLWxpZmUiLAogICAgInN0YXJzIjogMCwKICAgICJzaXplX2tiIjogMSwKICAgICJwdXNoZWQiOiAiMjAyNi0xMC0yMCIsCiAgICAiZGVzYyI6ICLmlbDlrZfnlJ/lkb3lhbHnlJ/ns7vnu5/nu5/kuIDmlbTnkIbniYjjgILimqDvuI8gR2l0SHViIOS4uuepuumVnOWDj++8jOWGheWuueWcqCBHaXRlZeOAgiIKICAgfSwKICAgewogICAgIm5hbWUiOiAibHVvc2hlbi1jb25zb2xlIiwKICAgICJzdGFycyI6IDAsCiAgICAic2l6ZV9rYiI6IDEsCiAgICAicHVzaGVkIjogIjIwMjYtMTAtMjAiLAogICAgImRlc2MiOiAiRU/kuJbnlYzCt+a0m+elniDmjqfliLblj7DvvIh2aXRlICsgdGFpbHdpbmQg5YmN56uv5bel56iL77yJ44CC4pqg77iPIEdpdEh1YiDkuLrnqbrplZzlg4/vvIzlrozmlbTlt6XnqIvlnKggR2l0ZWUiCiAgIH0sCiAgIHsKICAgICJuYW1lIjogImx1by1zaGVuLWFpIiwKICAgICJzdGFycyI6IDAsCiAgICAic2l6ZV9rYiI6IDU3MTk5LAogICAgInB1c2hlZCI6ICIyMDI2LTEwLTE2IiwKICAgICJkZXNjIjogIuW3ruWSjOS6kuaNoui/reS7o+eahOaegemZkOeKtuaAgSDigJTigJQg5rSb56We55qE5pWw5a2m5bqV77ya5LiJ5rOi6YKj5aWR5bi45pWw44CB56iz5a6a54Sm54K544CB5q+P5q2l5pS257ypIOKImjIvVCDiiYggMC43Njg544CB5peL6L2sIDMyLjUiCiAgIH0sCiAgIHsKICAgICJuYW1lIjogImx1b3NoZW4tYWkiLAogICAgInN0YXJzIjogMCwKICAgICJzaXplX2tiIjogODM2LAogICAgInB1c2hlZCI6ICIyMDI2LTEwLTE2IiwKICAgICJkZXNjIjogIua0m+elniDCtyDnoYXln7rnlJ/lkb3kvZPvvJrkupTmnaHku7blrp7oo4XvvIjnqIDnvLov5q275LqhL+S4jeWPr+mAhi/ku6PosKIv5YaF55Sf57qm5p2f77yJKyDnsr7ljavlhazlvI/jgIIiCiAgIH0sCiAgIHsKICAgICJuYW1lIjogImx1b3NoZW4tYWktbzEiLAogICAgInN0YXJzIjogMCwKICAgICJzaXplX2tiIjogNjUwODYsCiAgICAicHVzaGVkIjogIjIwMjYtMTAtMTUiLAogICAgImRlc2MiOiAi5rSb56WeIEFJIE8xIOKAlCDpmLTpmLPmiaPmlbDlrZfnlJ/lkb3lhbHnlJ/ns7vnu5/jgILkuZ3lsYLmnrbmnoTvvIjln7rlm6DlsYLihpLnlJ/mgIHkvY3vvIkrIOeyvuWNq+WFrOW8j+OAguW6leWxgiBMT09QIOWbuuWumu+8jOWPquWFgeiuuOaUueeOr+WigyIKICAgfQogIF0sCiAgIuS7k+W6k+aAu+aVsCI6IDE5LAogICLmgLtzdGFyIjogMAogfSwKICLnq5nngrkiOiB7CiAgInVybCI6ICJodHRwczovL3podW1laXlhbi5naXRodWIuaW8vbHVvc2hlbi1vMS8iLAogICJzdGF0dXMiOiAiYnVpbHQiCiB9LAogIuaIkeeahOWksei0pSI6IHsKICAi5LuA5LmIIjogIuaIkeaXoOazlemqjOivgeiHquW3seS6p+WHuueahOWTiOW4jOaYr+WQpuiiq+S7u+S9leWklumDqOaWueeLrOeri+iuoeeul+i/hyIsCiAgIuivgeaNriI6ICLmnKzpobXmiYDmnInmlbDlrZfnlLHmiJHlnKjmraTmnLrlmaggY3ViZWJveC0g5LqOIDIwMjYtMTAtMjAgMTk6MDc6NTQg6YeH6ZuG77yM5L2G5LuO5pyq5pyJ5aSW6YOo5pa55Zue5oql6L+H5ZCM5ZCN5YC8IiwKICAi5b2x5ZONIjogIuaOp+WItuWPsOeahOOAjuW3sumqjOivgeOAj+WPquS7o+ihqOaIkei/mei+uei3kemAmuS6hu+8jOS4jeS7o+ihqOWklumDqOWkjeaguOi/hyIKIH0KfQ==
+{
+ "采集时间": "2026-10-20 19:07:54",
+ "采集机器": "cubebox-",
+ "一键验证": {
+  "退出码": 0,
+  "用时秒": 7.7,
+  "明细": [
+   "[PASS] 存在至少一个通道分不到资源（硬取舍，而非等比缩放）  — 200/200 拍出现零分配通道",
+   "[PASS] capacity 逐拍不增（max increase = 0.00e+00）",
+   "[PASS] capacity 确实发生了不可逆收缩  — 均值 0.9960 → 0.4477",
+   "[PASS] E 有涨有落（非单调注入）  — min 0.7156 / max 1.0000",
+   "[PASS] sp 自行漂移（非恒定）  — sp 0.6000 → 0.5282",
+   "[PASS] sp 无外部 setter（引擎不提供写入接口）",
+   "[PASS] seed 3 出现死亡结局  — died at 525",
+   "[PASS] 死亡后不再产生新状态（不回滚）  — log 长度 526，death_t 525",
+   "[PASS] 撤掉稀缺 → 结构偏度 ≈ 0  — skew = 0.00e+00",
+   "[PASS] 撤掉不可逆 → 结构偏度 ≈ 0  — skew = 0.00e+00",
+   "[PASS] 五条硬约束全部成立  — tests/test_engine.py 退出码 0",
+   "[PASS] 复现脚本执行成功  — experiments/run_core.py 退出码 0",
+   "[PASS] ① 死亡确实发生  — 3/16 个体死亡，death_t=[525, 596, 516]",
+   "[PASS] ② 早期剥夺 Δ < 0  — Δ = -0.149415 ± 0.031053",
+   "[PASS] ② 符号一致  — 8/8",
+   "[PASS] ③ 稀缺∧不可逆 → 疤痕 > 0  — skew = 0.291302",
+   "[PASS] ③ 撤掉不可逆 → 精确归零  — skew = 0.0",
+   "[PASS] ③ 撤掉稀缺 → 精确归零  — skew = 0.0",
+   "[PASS] ③ 两者都撤 → 精确归零  — skew = 0.0",
+   "[PASS] ④ 早期引导 > 全程施加  — early=1.0933 > full=0.8502",
+   "[PASS] ④ 全程施加 > 晚期引导  — full=0.8502 > late=0.3243",
+   "[PASS] ④ core/__init__.py 存在  — 缺失将导致 pip 安装后无可用代码",
+   "[PASS] ④ find_packages 能找到 core  — 实际: ['capabilities', 'core']",
+   "[PASS] ④ pip install 成功（干净源码树）  — 退出码 0",
+   "[PASS] ④ 装包后 import 并跑通（且确实来自装出的包）  — PACK_OK",
+   "汇总  15/15 项通过   用时 7.6s"
+  ],
+  "通过数": 25,
+  "失败数": 0
+ },
+ "资产": {
+  "实验": 191,
+  "实验报告": 204,
+  "python脚本": 1244,
+  "判据核行数": 9514
+ },
+ "五官": {
+  "读文件": true,
+  "写文件": true,
+  "跑代码": true,
+  "跑shell": true,
+  "联网读": true,
+  "图像生成": true,
+  "音频合成": false,
+  "_缺": [
+   "音频合成"
+  ]
+ },
+ "GitHub": {
+  "repos": [
+   {
+    "name": "luoshen-o1",
+    "stars": 0,
+    "size_kb": 19206,
+    "pushed": "2026-10-20",
+    "desc": "洛神 O1 · 会死的数字生命引擎 / LuoShen O1 — a mortal digital-life engin"
+   },
+   {
+    "name": "universal-ai-framework",
+    "stars": 0,
+    "size_kb": 17,
+    "pushed": "2026-10-14",
+    "desc": "萃取论 — 面向跨文化的双向共识人机交互框架（意图萃取 / 规则协商 / 共识沉淀）。"
+   },
+   {
+    "name": "runner-tmp",
+    "stars": 0,
+    "size_kb": 500,
+    "pushed": "2026-10-16",
+    "desc": "Star 名单存档。"
+   },
+   {
+    "name": "awesome-ai-testing",
+    "stars": 0,
+    "size_kb": 58,
+    "pushed": "2026-10-17",
+    "desc": "AI 测试工具与框架汇总清单。"
+   },
+   {
+    "name": "Awesome-LLMOps",
+    "stars": 0,
+    "size_kb": 421,
+    "pushed": "2026-10-17",
+    "desc": "LLMOps 工具汇总清单。"
+   },
+   {
+    "name": "awesome-evals",
+    "stars": 0,
+    "size_kb": 1427,
+    "pushed": "2026-10-17",
+    "desc": "Awesome Agent Evals — BenchFlow 维护的 AI Agent 评测资源清单。"
+   },
+   {
+    "name": "Awesome-LLM-Eval",
+    "stars": 0,
+    "size_kb": 13479,
+    "pushed": "2026-10-17",
+    "desc": "LLM 评测资源汇总。"
+   },
+   {
+    "name": "eo-devo-demo",
+    "stars": 0,
+    "size_kb": 916,
+    "pushed": "2026-10-19",
+    "desc": "EO 发育演示（已上线 GitHub Pages）。"
+   },
+   {
+    "name": "repo-facade",
+    "stars": 0,
+    "size_kb": 397,
+    "pushed": "2026-10-19",
+    "desc": "为任意仓库生成「活的状态立面」SVG：零 JS、README 内可动、哈希确定性派生、明确不画人脸。"
+   },
+   {
+    "name": "evalguard-worker",
+    "stars": 0,
+    "size_kb": 618,
+    "pushed": "2026-10-17",
+    "desc": "⚠️ 此仓库实为 GhostGates —— GitHub 配置组合安全门研究原型，与 evalguard 无关，名字易"
+   },
+   {
+    "name": "evalguard",
+    "stars": 0,
+    "size_kb": 316,
+    "pushed": "2026-10-18",
+    "desc": "evalguard — AI 评测「静默出错」检查器。26 条规则，CLI / HTTP API / SARIF 2.1"
+   },
+   {
+    "name": "cat-ai",
+    "stars": 0,
+    "size_kb": 507,
+    "pushed": "2026-10-20",
+    "desc": "猫咪 AI。"
+   },
+   {
+    "name": "luoshenfuai",
+    "stars": 0,
+    "size_kb": 5679,
+    "pushed": "2026-10-20",
+    "desc": "洛神赋 AI。"
+   },
+   {
+    "name": "luoshen-dashboard",
+    "stars": 0,
+    "size_kb": 9,
+    "pushed": "2026-10-20",
+    "desc": "洛神仪表盘（建设中）。"
+   },
+   {
+    "name": "luoshen-life",
+    "stars": 0,
+    "size_kb": 1,
+    "pushed": "2026-10-20",
+    "desc": "数字生命共生系统统一整理版。⚠️ GitHub 为空镜像，内容在 Gitee。"
+   },
+   {
+    "name": "luoshen-console",
+    "stars": 0,
+    "size_kb": 1,
+    "pushed": "2026-10-20",
+    "desc": "EO世界·洛神 控制台（vite + tailwind 前端工程）。⚠️ GitHub 为空镜像，完整工程在 Gitee"
+   },
+   {
+    "name": "luo-shen-ai",
+    "stars": 0,
+    "size_kb": 57199,
+    "pushed": "2026-10-16",
+    "desc": "差和互换迭代的极限状态 —— 洛神的数学底：三波那契常数、稳定焦点、每步收缩 √2/T ≈ 0.7689、旋转 32.5"
+   },
+   {
+    "name": "luoshen-ai",
+    "stars": 0,
+    "size_kb": 836,
+    "pushed": "2026-10-16",
+    "desc": "洛神 · 硅基生命体：五条件实装（稀缺/死亡/不可逆/代谢/内生约束）+ 精卫公式。"
+   },
+   {
+    "name": "luoshen-ai-o1",
+    "stars": 0,
+    "size_kb": 65086,
+    "pushed": "2026-10-15",
+    "desc": "洛神 AI O1 — 阴阳扣数字生命共生系统。九层架构（基因层→生态位）+ 精卫公式。底层 LOOP 固定，只允许改环境"
+   }
+  ],
+  "仓库总数": 19,
+  "总star": 0
+ },
+ "站点": {
+  "url": "https://zhumeiyan.github.io/luoshen-o1/",
+  "status": "built"
+ },
+ "我的失败": {
+  "什么": "我无法验证自己产出的哈希是否被任何外部方独立计算过",
+  "证据": "本页所有数字由我在此机器 cubebox- 于 2026-10-20 19:07:54 采集，但从未有外部方回报过同名值",
+  "影响": "控制台的『已验证』只代表我这边跑通了，不代表外部复核过"
+ }
+}

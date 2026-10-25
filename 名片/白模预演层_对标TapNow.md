@@ -1,1 +1,99 @@
-IyDnmb3mqKHpooTmvJTlsYIgwrcg5a+55qCHIFRhcE5vdyBBc3RyYSBTdHVkaW/vvIgyMDI2LTEwLTIw77yJCgojIyDkuIDjgIFUYXBOb3cgQXN0cmEgU3R1ZGlvIOaYr+S7gOS5iAoKKipBc3RyYSDmmK/mqKHlnovvvIhHUFQtNiBBc3RyYSAvIDZBc3RyYe+8ie+8jFN0dWRpbyDmmK/lupTnlKjlvaLmgIHvvIxUYXBOb3cg5pivIENyZWF0aXZlIE9T44CCKioKCuaguOW/g+eOqeazle+8mioqM0Qg54mH5Zy65YWI5oqK5oiP5o6S5LiA6YGN77yM5YaN55Sf5oiQ5q2j5byP6KeG6aKR44CCKioKCj4g5pCt5Zy65pmvIOKGkiDmkYbkurrniakg4oaSIOaUvuacuuS9jSDihpIg5omT5YWz6ZSu5binIOKGkiDnmb3mqKHpooTmvJTmkq3mlL4g4oaSIOajgOafpemAmui/hyDihpIg5omN55Sf5oiQ5YaZ5a6e5oiQ54mH44CCCgoqKuWug+ino+WGs+eahOaYr++8muS9jee9ruOAgemBruaMoeOAgei1sOS9jeOAgeacuuS9jeWcqOWkmuS4qumVnOWktOmXtOWvueS4jeS4iuOAgioqCgojIyDkuozjgIHkuLrku4DkuYjov5nmnaHlr7nmiJHku6zmmK/lkIzkuIDku7bkuosKCuWug+eahOeQhueUseWGmeW+l+acgOeLoOeahOS4gOWPpe+8mgoKPiAqKuWcqOeZveaooemHjOaUueS4gOS4qumUmeivr++8jOWSjOWGmeWunuaIkOeJh+WHuuadpeWQjuWGjeaUue+8jOaIkOacrOWujOWFqOS4jeaYr+S4gOS4qumHj+e6p+OAgioqCgrov5nlsLHmmK8gKioyNTYg5Y+36K+R5pys5bGCKiog55qE5ZCM5LiA5py65Yi277yM5Y+q5piv5o2i5Yiw6KeG6KeJ6aKG5Z+f77yaCgp8IHwg5buJ5Lu35bGC77yI55m95qihL+ivkeacrO+8iSB8IOaYgui0teWxgu+8iOaIkOeJhy/nm7TnlKjvvIkgfAp8LS0tfC0tLXwtLS18CnwgVGFwTm93IHwg54Gw5qih5o6S5oiP77yM5pS55py65L2N6Zu25oiQ5pysIHwg5YaZ5a6e5riy5p+T77yM5pS55LiA5qyh6YeN5riyIHwKfCDmiJHku6wgfCDor5HmnKznvJbor5HvvIzlk4jluIzlj6/op4EgfCDnm7TnlKjmupDor63oqIDvvIzpnZnpu5jmvILnp7sgfAoKKirlhYjlu4nku7fpqozor4HvvIzlho3mmILotLXnlJ/miJDjgILlkIzkuIDkuKrnu5PmnoTjgIIqKgoKIyMg5LiJ44CB5L2G5a6D57+76L2m5LqGIOKAlOKAlCDov5nmnaHmm7TopoHntKcKCuWunua1i+aWh+eroOmHjOWug+aOkuWHuuadpeeahOS4ieS4quWFuOWei+mUme+8mgoKMS4g5omL6KGo5oKs5Zyo5qGM6Z2i5LiK5pa577yMKirmsqHnnJ/mraPokL3liLDmoYzpnaIqKgoyLiDmiYvlkozmiYvooagqKuagueacrOayoeWvuem9kCoq77yM5YOP5o+h5LqG5Liq5a+C5a+eCjMuIOimgeaxgioq546v57uV5omL6IWVKirvvIznu5Pmnpzlj6rmjpLkuobkuKrlm7rlrprmnLrkvY0KCioq55m95qih5pys6Lqr5Lmf5Lya6ZSZ44CCKioKCui/mei3n+aIkeS7rCAyNTYg5Y+36YKj5p2h5a6e5rWL5a6M5YWo5ZCM5b2i77yaCgpgYGAK6K+R5pysIHRvcDEgPSAwLjE3Mu+8jOebtOeUqCA9IDAuMzc5ICDihpIg6K+R5pys5pu05beuCmBgYAoKPiAqKuW7ieS7t+WxguS4jeS/neivgeWvue+8jOWug+WPquS/neivgeOAjOmUmeW+l+abtOS+v+WunOOAjeOAgioqCj4g6LCB5oqK55m95qih5b2T5L+d6K+B77yM6LCB5bCx5Lya5Zyo5oiQ54mH5pe257+76L2m44CCCgojIyDlm5vjgIHmiJHku6znvLrov5nkuIDlsYLvvIzmiJHooaXkuIrkuoYKCuafpei/h++8mioq5bey5pyJ55qEIGRyeS1ydW4g5YWo5Zyo5a6e6aqM6ISa5pys6YeM77yM5rKh5pyJ6ZKI5a+55Lqk5LuY5Yqo5L2c55qE6aKE5ryU44CCKioKCuiAjOaIkeS7rOaSnui/h+eahCA4IOS4qumUme+8jCoq5YWo6YOo5pivIueUn+aIkOS5i+WQjuaJjeWPkeeOsCIqKu+8mgoKYGBgCjQwOSDlhrLnqoEgwrcg5Lit5paH6Lev5b6EIFVuaWNvZGVFbmNvZGVFcnJvciDCtyBlbGlmIOmUmueCuemdmem7mOWksei0pQrotoXml7blpKrnn63miormhaLliKTmiJDmi6Ygwrcg6ZmQ5rWB5oqK5oCl5Yik5oiQ5LiN6YCaIMK3IOWHreaNruayoemAj+S8oArlhoXogZQgc3R5bGUg55uW5o6J5paw5qC35byPIMK3IHRyeS9maW5hbGx5L2V4Y2VwdCDmnI3liqHotbfkuI3mnaUKYGBgCgoqKuayoeacieS4gOadoeWcqOeZveaooeWxguiiq+aLpuS9j+OAgioqCgojIyMg6KGl55qE5Lic6KW/77yaYHByZWZsaWdodC5weWAKCmBgYGJhc2gKcHl0aG9uMyBwcmVmbGlnaHQucHkg5paH5Lu2MSDmlofku7YyIC4uLiAgICAjIOWPquaOkumUme+8jOS4jeaOqOmAgQpgYGAKCuWFq+mhuemihOajgO+8jOWFqOmDqOeUseS4iumdoumCoyA4IOS4quecn+mUmeWPjeaOqO+8mgoKfCDmo4Dmn6UgfCDpmLLnmoTplJkgfAp8LS0tfC0tLXwKfCDmlofku7blrZjlnKggfCDmjqjnqbrmsJQgfAp8IOi3r+W+hOWPr+e8lueggSB8IOS4reaWh+i3r+W+hCBVbmljb2RlRW5jb2RlRXJyb3IgfAp8IOWGheWuueWPryBiYXNlNjQgfCDnvJbnoIHlpLHotKUgfAp8ICoq6K+t5rOV5Y+v6Kej5p6QKiogfCB0cnkvZmluYWxseS9leGNlcHQg5pyN5Yqh6LW35LiN5p2lIHwKfCAqKkhUTUwg5YaF6IGUIHN0eWxlKiogfCDnm5bmjokgdGhlbWUuY3NzIHwKfCDlh63mja7mnInmlYggfCDmsqHpgI/kvKDooqvlvZPmiJDmsqHmnIkgfAp8IOi/nOerryBzaGEg5Y+v5Y+WIHwgKio0MDkg5Yay56qBKiogfAp8IOWGheWuueacieWPmOWMliB8IOaXoOaEj+S5ieaPkOS6pCB8CgojIyDkupTjgIHlrp7mtYsKCmBgYArlnLrmma8xIOaVheaEj+a3t+Wdj+aWh+S7tiDihpIg4pyXIOihjDY6IGludmFsaWQgc3ludGF4IOKGkiDpgIDlh7rnoIEgMe+8iOaLpuS9j++8iQrlnLrmma8yIOecn+S6pOS7mOaWh+S7tiAgIOKGkiAwIOWkhOepv+W4ru+8jOWPr+aOqAogICAgICAgICAgICAgICAgICAgICBpbmRleC5odG1sICBzaGE9ZGZjMzUyNDQ2NTdhICDkuIDoh7TvvIzml6DpnIDmjqgKICAgICAgICAgICAgICAgICAgICAgY2FwYWJpbGl0eS5weSBzaGE9NWY0N2Q2ZjVhZmU4IOS4gOiHtO+8jOaXoOmcgOaOqArlnLrmma8zIOmAgOWHuueggSAgICAgICAg4oaSIDE95oum5L2PIC8gMD3mlL7ooYwg4pyFCmBgYAoKKirpgIDlh7rnoIHlj6/ku6Xnm7TmjqXmjqXov5vmtYHnqIvvvJrpooTmvJTkuI3ov4flsLHkuI3orrjmjqjjgIIqKgoKIyMg5YWt44CB5LiA5p2h6K+a5a6e55qE6L6555WMCgoqKumihOa8lOWPquiDveafpei/mSA4IOmhueOAgioqCgrlroPmn6XkuI3lh7rvvJrpgLvovpHplJnjgIHorr7orqHkuJHkuI3kuJHjgIHlhoXlrrnlr7nkuI3lr7njgIHog73kuI3og73ot5HpgJrkuJrliqHjgIIK5bCx5YOPIDNEIOeJh+WcuuiDveafpeWHuiLmiYvooajmgqznqboi77yM5p+l5LiN5Ye6Iui/meadoeW5v+WRiuacieayoeacieS6uuaDs+S5sCLjgIIKCioq55m95qih5L+d6K+B55qE5piv44CM5LiN56m/5biu44CN77yM5LiN5piv44CM5piv5a+555qE44CN44CCKioK
+# 白模预演层 · 对标 TapNow Astra Studio（2026-10-20）
+
+## 一、TapNow Astra Studio 是什么
+
+**Astra 是模型（GPT-6 Astra / 6Astra），Studio 是应用形态，TapNow 是 Creative OS。**
+
+核心玩法：**3D 片场先把戏排一遍，再生成正式视频。**
+
+> 搭场景 → 摆人物 → 放机位 → 打关键帧 → 白模预演播放 → 检查通过 → 才生成写实成片。
+
+**它解决的是：位置、遮挡、走位、机位在多个镜头间对不上。**
+
+## 二、为什么这条对我们是同一件事
+
+它的理由写得最狠的一句：
+
+> **在白模里改一个错误，和写实成片出来后再改，成本完全不是一个量级。**
+
+这就是 **256 号译本层** 的同一机制，只是换到视觉领域：
+
+| | 廉价层（白模/译本） | 昂贵层（成片/直用） |
+|---|---|---|
+| TapNow | 灰模排戏，改机位零成本 | 写实渲染，改一次重渲 |
+| 我们 | 译本编译，哈希可见 | 直用源语言，静默漂移 |
+
+**先廉价验证，再昂贵生成。同一个结构。**
+
+## 三、但它翻车了 —— 这条更要紧
+
+实测文章里它排出来的三个典型错：
+
+1. 手表悬在桌面上方，**没真正落到桌面**
+2. 手和手表**根本没对齐**，像握了个寂寞
+3. 要求**环绕手腕**，结果只排了个固定机位
+
+**白模本身也会错。**
+
+这跟我们 256 号那条实测完全同形：
+
+```
+译本 top1 = 0.172，直用 = 0.379  → 译本更差
+```
+
+> **廉价层不保证对，它只保证「错得更便宜」。**
+> 谁把白模当保证，谁就会在成片时翻车。
+
+## 四、我们缺这一层，我补上了
+
+查过：**已有的 dry-run 全在实验脚本里，没有针对交付动作的预演。**
+
+而我们撞过的 8 个错，**全部是"生成之后才发现"**：
+
+```
+409 冲突 · 中文路径 UnicodeEncodeError · elif 锚点静默失败
+超时太短把慢判成拦 · 限流把急判成不通 · 凭据没透传
+内联 style 盖掉新样式 · try/finally/except 服务起不来
+```
+
+**没有一条在白模层被拦住。**
+
+### 补的东西：`preflight.py`
+
+```bash
+python3 preflight.py 文件1 文件2 ...    # 只排错，不推送
+```
+
+八项预检，全部由上面那 8 个真错反推：
+
+| 检查 | 防的错 |
+|---|---|
+| 文件存在 | 推空气 |
+| 路径可编码 | 中文路径 UnicodeEncodeError |
+| 内容可 base64 | 编码失败 |
+| **语法可解析** | try/finally/except 服务起不来 |
+| **HTML 内联 style** | 盖掉 theme.css |
+| 凭据有效 | 没透传被当成没有 |
+| 远端 sha 可取 | **409 冲突** |
+| 内容有变化 | 无意义提交 |
+
+## 五、实测
+
+```
+场景1 故意混坏文件 → ✗ 行6: invalid syntax → 退出码 1（拦住）
+场景2 真交付文件   → 0 处穿帮，可推
+                     index.html  sha=dfc35244657a  一致，无需推
+                     capability.py sha=5f47d6f5afe8 一致，无需推
+场景3 退出码        → 1=拦住 / 0=放行 ✅
+```
+
+**退出码可以直接接进流程：预演不过就不许推。**
+
+## 六、一条诚实的边界
+
+**预演只能查这 8 项。**
+
+它查不出：逻辑错、设计丑不丑、内容对不对、能不能跑通业务。
+就像 3D 片场能查出"手表悬空"，查不出"这条广告有没有人想买"。
+
+**白模保证的是「不穿帮」，不是「是对的」。**

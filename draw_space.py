@@ -1,1 +1,11 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5bem77ya5Luj56CBIOS4gOadoeaoquadoe+8iOWPquacieWJjeWQju+8ieOAguWPs++8muS4reaWhyDkuIDkuKrmlrnlnZfvvIjkuIrkuIvlt6blj7Ppg73mnInvvInjgIIiIiIKaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYi5wYXRjaGVzIGltcG9ydCBSZWN0YW5nbGUKQkc9IiMwYjBiMGMiOyBPUj0iI0ZGNkIxQSIKZmlnLGF4PXBsdC5zdWJwbG90cyhmaWdzaXplPSg5LjYsNC40KSxmYWNlY29sb3I9QkcpOyBheC5zZXRfZmFjZWNvbG9yKEJHKQpheC5zZXRfeGxpbSgwLDEwKTsgYXguc2V0X3lsaW0oMCw0LjQpOyBheC5heGlzKCJvZmYiKQpheC5hZGRfcGF0Y2goUmVjdGFuZ2xlKCgxLjAsMi44NSksIDcuNiwgMC40MiwgZmM9T1IsIGVjPSJub25lIikpICAgIyDku6PnoIHvvJrmqKrmnaEKYXguYWRkX3BhdGNoKFJlY3RhbmdsZSgoMy41LDAuODUpLCAyLjYsIDEuNTUsIGZjPU9SLCBlYz0ibm9uZSIpKSAgICMg5Lit5paH77ya5pa55Z2XCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoIuaEn+WumOahpS/nrKblj7dfdjQ2X+aoquadoeS4juaWueWdly5wbmciLGRwaT0xMTAsZmFjZWNvbG9yPUJHKTsgcHJpbnQoIm9rIikK
+# -*- coding: utf-8 -*-
+"""左：代码 一条横条（只有前后）。右：中文 一个方块（上下左右都有）。"""
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+BG="#0b0b0c"; OR="#FF6B1A"
+fig,ax=plt.subplots(figsize=(9.6,4.4),facecolor=BG); ax.set_facecolor(BG)
+ax.set_xlim(0,10); ax.set_ylim(0,4.4); ax.axis("off")
+ax.add_patch(Rectangle((1.0,2.85), 7.6, 0.42, fc=OR, ec="none"))   # 代码：横条
+ax.add_patch(Rectangle((3.5,0.85), 2.6, 1.55, fc=OR, ec="none"))   # 中文：方块
+plt.tight_layout(); plt.savefig("感官桥/符号_v46_横条与方块.png",dpi=110,facecolor=BG); print("ok")

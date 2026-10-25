@@ -1,1 +1,138 @@
-IyBldmFsZ3VhcmQg4oCU4oCUIExMTSAvIOaZuuiDveS9k+ivhOa1i+iEmuacrOmdmeaAgeajgOafpeWZqAoK5q+P5p2h6KeE5YiZ6YO95rqv5rqQ5YiwICoqMzY4IOadoeWunuivgeWksei0peaooeW8j+WIpOaNruW6kyoqIOmHjOeahOe8luWPt+adoeebru+8m+ivpeW6k+adpeiHqiAxMDArCuasoeecn+WunuWunumqjO+8jOavj+adoemDveaYr+ecn+eahOiuqeS4gOasoeWunumqjOS9nOW6n+S5i+WQjuaJjeWGmeS4i+adpeeahOOAguS4jeaYr+S7o+eggemjjuagvOWBj+WlveOAggoKYGBgCiQgZXZhbGd1YXJkIG15X2V2YWwucHkKCltCTE9DS10gRUcwMDIgIOWIpOaNriAjMTQwICDmiqXkuoblh4bnoa7njocv5Y+s5Zue77yM5Y205rKh5pyJ6ZqP5py65Z+657q/CltCTE9DS10gRUcwMTYgIOWIpOaNriAjMzc3ICDkvp3otZblpJbpg6jpgJrpgZPvvIzljbTmsqHmnInph43mlrDlrp7mtYvlj6/ovr7mgKcKW1dBUk4gXSBFRzAxMSAg5Yik5o2uICM0MTkgIOadoeS7tuS8miBza2lw77yM57uT5p6c5Y205oyJ57uE6Ze0546H5q+U6L6DCmBgYAoK6YCA5Ye656CB77ya5Y+q6KaB5Ye6546wIGJsb2NrZXIg5bCx6L+U5ZueIDHvvIzlj6/nm7TmjqXov5sgQ0njgIIKCiMjIOS4uuS7gOS5iOmcgOimgeWugwoK5aSn5aSa5pWw6K+E5rWL5pWw5a2X6ZSZ77yM5LiN5piv5Zug5Li65qih5Z6L5beu77yM6ICM5pivKirmtYvph4/mnKzouqsqKuWdj+S6hu+8jOS4lOayoeS6uuajgOafpe+8mgoKfCDnjrDosaEgfCDnnJ/nm7ggfAp8LS0tfC0tLXwKfCDlj6zlm54gMC45NSB8IOeejueMnOacrOadpeWwseaciSAwLjkwIHwKfCDliIbnsbvms5XlvpfliIYgfjEuMCB8IOWcqOW9kue6s+WHuuWug+eahOmCo+aJueivreaWmeS4iua1i+eahCB8Cnwg5omA5pyJ5p2h5Lu26YO955u4562JIHwg5oyH5qCH5YWo56iL57uT5p6E5oCn5Li66Zu2IHwKfCAi5bmy6aKE5pyJ5pWIIiB8IOW5sumihOWPmOmHj+i1i+WAvOWQjuS7juacquiiq+ivu+WPliB8Cnwg57uT5p6c5bey5b2S5qGjIHwg5pel5b+X6YeM5YaZ5LqG77yM56OB55uY5LiK5rKh5YaZIHwKfCDpgJrpgZPlj6/nlKggfCDkuIrkuKrmnIjlj6/nlKjvvIzku4rlpKkgNDAzIHwKCiMjIOWuieijhQoK6Zu25L6d6LWW77yMUHl0aG9uIDMuOCvjgIIKCmBgYGJhc2gKcGlwIGluc3RhbGwgZXZhbGd1YXJkCiMg5oiW5LiN5a6J6KOF77yaCnB5dGhvbjMgLW0gZXZhbGd1YXJkIHlvdXJfZXZhbC5weQpgYGAKCiMjIOWunua1iwoKfCDmoLfmnKwgfCBibG9ja2VyIHwgd2FybiB8IOe7k+iuuiB8CnwtLS18LS0tfC0tLXwtLS18CnwgYHBsYW50ZWRfZXZhbC5weWDvvIjln4sgMTYg5Liq5Z2R77yJIHwgNCB8IDExIHwgKioxNi8xNiDop4TliJnlhajpg6jlkb3kuK0qKiB8CnwgYGNsZWFuX2V2YWwucHlg77yI5oyJ6KeE5YiZ5YaZ5a+577yJIHwgKiowKiogfCAqKjAqKiB8IOS7hSAxIOadoSBpbmZvIHwKCioq5bmy5YeA5Luj56CB6Zu26K+v5oql44CCKiog5Lya5Lmx5Y+r55qEIGxpbnRlciDmsqHkurrnlKjjgILkuKTkuKogZml4dHVyZSDpg73lnKjku5PlupPph4zvvIzlj6/oh6rpqozjgIIKCmBweXRob24zIHRlc3RzL3J1bl90ZXN0cy5weWAg4oaSIDYvNu+8iOmbtuS+nei1liBydW5uZXLvvIzkuI3pnIDopoEgcHl0ZXN077yJ44CCCgojIyDmiavlroPoh6rlt7HkvZzogIXnmoTku6PnoIHvvIjlpoLlrp7miqXlkYrvvIkKCmBgYApjb3JlLyAgICAzIOaWh+S7tiAgIDAgYmxvY2tlciAgIDMgd2Fybgp0b29scy8gIDE1IOaWh+S7tiAgIDcgYmxvY2tlciAgIDggd2FybgpgYGAKCjcg5LiqIGJsb2NrZXIg5pivIDXDl0VHMDE2ICsgMsOXRUcwMDbvvIwqKumDveaYr+WunumqjOiEmuacrOmHjOeahOecn+e8uumZtyoq77yM5LiN5piv5Zmq6Z+z44CCCgojIyB2MC4yIOiHquafpeWHuueahOS4ieS4qumdmem7mOWkseaViAoKMS4gKipgcmVgIOayoeWvvOWFpSoqIOKAlOKAlCDlm57pgIDliIbmlK/nm7TmjqUgTmFtZUVycm9yCjIuICoqYCIgIi5qb2luKHRva2VucylgIOaKiuaJgOacieW4pueCueeahOWQjeWtl+aLhuWdjyoqIOKAlOKAlCBgcmVxdWVzdHMuZ2V0YCDlj5jmiJAKICAgYHJlcXVlc3RzIC4gZ2V0YO+8jCoqRUcwMTYg5LuO5p2l5rKh6IO95ZG95Lit5Lu75L2V55yf5a6e6L+c56iL6LCD55SoKirvvIzmiYDmnIkKICAgYG5wLm1lYW5gIC8gYGpzb24uZHVtcGAg5YWz6ZSu5a2X5YWo5piv5q2755qECjMuICoq5YaZ5Zyo5LiK6KGM55qE5L+d5oqk55yL5LiN6KeBKiog4oCU4oCUIGBkZW5vbSA9IG1heChuLDEpYCDkuYvlkI7nmoQgYHRwL2Rlbm9tYCDooqvor6/miqUKCuesrCAyIOadoeacgOWFs+mUru+8mioq5LiA5p2h5LuO5LiN6Kem5Y+R55qE6KeE5YiZ77yM5ZKM5LiA5p2h5LuO5LiN6ZyA6KaB6Kem5Y+R55qE6KeE5YiZ77yM6ZW/5b6X5LiA5qih5LiA5qC344CCKioKCiMjIOWxgOmZkO+8iOWGmeWcqOWJjemdou+8iQoKLSDlj6ror7vmupDnoIHvvIzkuI3ov5DooYzvvJvml6Dms5Xnn6XpgZPmjIfmoIcqKuaVsOWAvCoq5piv5ZCm55yf55qE5oGS6Zu2Ci0g6YOo5YiG6KeE5YiZ77yIRUcwMDIvRUcwMDcvRUcwMTHigJNFRzAxNu+8ieaYr+WFs+mUruWtl+WQr+WPkeW8j++8jOaJvueahOaYryLlgZrkuobmraPnoa7lrp7ot7UKICDnmoTor4Hmja4i77yM5LiN5piv6K+B5piOCi0g5LuFIFB5dGhvbgotICoq6K6+6K6h5LiK6YeN57K+56Gu546H6L275Y+s5Zue546HKirvvJrmvI/kuIDkuKrnvLrpmbflj6rmmK/ph43ot5HkuIDmrKHvvIzor6/miqXkuIDmrKHkvaDkvJrljbjovb3lroMKCiMjIOiuuOWPrwoK5bel5YW3IE1JVO+8m+WIpOaNruW6kyBDQyBCWSA0LjDvvIznvbLlkI0gS0xhbWVuZ+OAggoKIyMgUFJPIOinhOWImeWMhe+8iOS7mOi0ue+8jDEwIOadoe+8iQoKYC0tcHJvYCDlkK/nlKjjgILov5nkupvop4TliJnpkojlr7ki5Luj56CB55yL6LW35p2l5a6M5YWo5q2j56Gu44CB5L2G5pWw5a2X55qE5ZCr5LmJ6ZSZ5LqGIueahOe8uumZt+KAlOKAlArlroPku6zog73mtLvov4cgY29kZSByZXZpZXfvvIzlm6DkuLogYnVnIOS4jeWcqOiDveS4jeiDvei3ke+8jOWcqOi3keWHuuadpeeahOaVsOaYr+S4jeaYr+mCo+S4quaEj+aAneOAggoKfCDop4TliJkgfCDkuKXph43luqYgfCDmipPku4DkuYggfAp8LS0tfC0tLXwtLS18CnwgRUdQMDEgfCBibG9ja2VyIHwg5aSx6LSl5qC35pys6KKr6Z2Z6buY5YmU6Zmk5ZCO5YaN566X5YiGIHwKfCBFR1AwMiB8IGJsb2NrZXIgfCDpmIjlgLwv6YCJ5oup5Zyo5oql5ZGK55So55qE5ZCM5LiA5Lu95pWw5o2u5LiK6LCDIHwKfCBFR1AwMyB8IHdhcm4gfCDlpJrmrKHmr5TovoPmnKrlgZrlpJrph43moKHmraMgfAp8IEVHUDA0IHwgYmxvY2tlciB8IOS4pOS4pOWIpOWumuacquWBmumhuuW6jy/kvY3nva7ljrvlgY8gfAp8IEVHUDA1IHwgYmxvY2tlciB8IOiuree7g+mbhuS4juivhOa1i+mbhuWQjOa6kOaXoOWIh+WIhiB8CnwgRUdQMDYgfCB3YXJuIHwg5Y2V56eN5a2Q5Y2V5qyh6L+Q6KGM77yM5pyq5oql5pa55beuIHwKfCBFR1AwNyB8IHdhcm4gfCDnvJPlrZjlpI3nlKjmnKrlgZrlk4jluIwv54mI5pys5qCh6aqMIHwKfCBFR1AwOCB8IHdhcm4gfCDmlq3oqIDlj6ropobnm5bmiJDlip/ot6/lvoQgfAp8IEVHUDA5IHwgd2FybiB8IOmAkOagt+acrOWIhuaVsOWPquaKpeWdh+WAvO+8jOS4jeaKpeWwvumDqCB8CnwgRUdQMTAgfCBibG9ja2VyIHwg5pyq5qCh6aqM5ZON5bqU57uT5p6E5bCx5rex5bGC5Y+W5YC8IHwKCiMjIyDlrp7mtYsKCnwg5qC35pysIHwg5ZG95LitIHwg5YGH6Ziz5oCnIHwKfC0tLXwtLS18LS0tfAp8IOWfi+S6hiAxMCDkuKrnvLrpmbfnmoQgYHRlc3RzL3Byb19wbGFudGVkLnB5YCB8ICoqMTAgLyAxMCoqIHwg4oCUIHwKfCDmjInop4TliJnlhpnlr7nnmoQgYHRlc3RzL3Byb19jbGVhbi5weWAgfCDigJQgfCAqKjAgLyAxMCoqIHwKCiMjIyDov5nmnaHkuqflk4Hnur/oh6rlt7HmipPliLDnmoTnvLrpmbcKClBSTyDljIXlvIDlj5Hov4fnqIvkuK3vvIzop4TliJnoh6rlt7HouKnkuoYgNiDkuKrpnZnpu5jlpLHmlYjvvIzlhajpg6jnlZnmoaPvvJoKCjEuICoq5rOo6YeK5Zyo6aqX6KeE5YiZKiog4oCU4oCUIOWfi+mbt+agt+acrOeahOazqOmHiuWGmeS6hiJubyBoYXNoIu+8jOinhOWImeaJq+WOn+Wni+a6kOegge+8jAogICDkuo7mmK8iaGFzaCLov5nkuKogdG9rZW4g5Ye6546w5Zyo5paH5Lu26YeM77yM5a6I5Y2r5Yik5a6a6YCa6L+H77yM6KeE5YiZ6KKr6Ieq5bex6Z2Z6Z+z44CCCiAgIOi/meaYr+WIpOaNruaguCAjMjPvvIjmiavljp/lp4vmupDnoIHorqkgKuaPkOWIsCog5p+Q54mp55qE5rOo6YeK5ruh6LazICrlgZrliLAqIOafkOeJqeeahOajgOafpe+8iQogICDlnKjmnKzpobnnm67ph4znmoQqKuesrOS4ieasoeWkjeWPkSoq44CC5L+u5rOV5piv5omA5pyJ6KeE5YiZ5LiA5b6L6LWwIGBfY29kZV9vbmx5YOOAggoyLiBgInZhbCJgIOaYryBgInB2YWxzImAg55qE5a2Q5LiyIOKAlOKAlCDnrpfkuoYgcCDlgLznmoTmlofku7bnnIvotbfmnaXlg4/mnIkgZGV2IOmbhgozLiBgImNpImAg5pivIGAic2NpcHkiYCDnmoTlrZDkuLIg4oCU4oCUIOWvvOWFpSBzY2lweSDnnIvotbfmnaXlg4/miqXkuobnva7kv6HljLrpl7QKNC4gYCIuZ2V0KCJgIOWMuemFjSBgcmVxdWVzdHMuZ2V0KGAg4oCU4oCUIOS7u+S9lei/nOeoi+iwg+eUqOeci+i1t+adpemDveWBmuS6huWuiOWNq++8iEVHUDEw44CBRUcwMTYg5ZCE5LiA5qyh77yJCjUuIGBleGNlcHQgRXhjZXB0aW9uOmAg6KKr5b2T5oiQ56qE5o2V6I635pS+6L+HIOKAlOKAlCDlroPlkozoo7ggYGV4Y2VwdGAg5LiA5qC35a69CjYuIGBtaW4ocHZhbHMpYCDph4znmoQgYG1pbihgIOiiq+W9k+aIkOWwvumDqOe7n+iuoSDigJTigJQg5o6p55uW5LqG55yf55qE5rKh5pyJ5bC+6YOo5oql5ZGKCgojIyMg5aSW6YOo55yf5a6e6K+t5paZ6aqM6K+BCgrot5HlnKggVEFDVCDku5PlupPvvIhDQyBCWSA0LjDvvIxLTGFtZW5n77yJ55qEIGBlbmdpbmUvdGFjdF9ydW4ucHlgIOS4iu+8mgoKYGBgCjAgYmxvY2tlciDCtyAxIHdhcm4KRUcwMDUgIEwxNTc6IDEwMCpzdGF0WydleGFjdCddL24gICAgIOKGkCBuIOaXoOWuiOWNq++8jG49MCDml7YgWmVyb0RpdmlzaW9uRXJyb3IKYGBgCgrlkIzkuIDova7ov5jmipPlh7rlubbkv67mjonkuobmnKzlt6XlhbflnKjnnJ/lrp7ku6PnoIHkuIrnmoQgMiDkuKrlgYfpmLPmgKfvvJoKYDEwMCp0cC9ndG90IGlmIGd0b3QgZWxzZSBuYW5gIOiiq+ivr+WIpOS4uuaXoOWuiOWNq+mZpOazle+8iOWFtuWunuaYr+S4ieWFg+WuiOWNq++8ie+8mwrml6Dku7vkvZXnvZHnu5zosIPnlKjnmoTmlofku7booqvor6/liKTkuLoi5L6d6LWW5aSW6YOo6YCa6YGTIu+8iGAuZ2V0KGAg6K+v5Yy56YWN77yJ44CCCgojIyMg5bGA6ZmQ77yI54Wn5a6e6K+077yJCgotIOmdmeaAgeWIhuaekO+8jOeci+W+l+WIsOespuWPt+eci+S4jeWIsOi/kOihjOaXtuWPluWAvAotICoqRUdQMDYg5Zyo6Z2e6K+E5rWL6ISa5pys5LiK5Lya6L+H5oqlKirvvJrlt6XlhbflgYflrprnm67moIfmmK/or4TmtYvohJrmnKzvvIwKICDlr7nnmbvlvZUv5o6o6YCB57G76ISa5pys77yMIuacquaKpeaWueW3riLmmK/lmarlo7AKLSDlkIzkuYnor43ooajkuYvlpJbnmoTnrYnku7flhpnms5XkvJrmvI/vvJvmraPliJkvQVNUIOWQr+WPkeW8j+S4jeWPr+iDveWujOWkhwo=
+# evalguard —— LLM / 智能体评测脚本静态检查器
+
+每条规则都溯源到 **368 条实证失败模式判据库** 里的编号条目；该库来自 100+
+次真实实验，每条都是真的让一次实验作废之后才写下来的。不是代码风格偏好。
+
+```
+$ evalguard my_eval.py
+
+[BLOCK] EG002  判据 #140  报了准确率/召回，却没有随机基线
+[BLOCK] EG016  判据 #377  依赖外部通道，却没有重新实测可达性
+[WARN ] EG011  判据 #419  条件会 skip，结果却按组间率比较
+```
+
+退出码：只要出现 blocker 就返回 1，可直接进 CI。
+
+## 为什么需要它
+
+大多数评测数字错，不是因为模型差，而是**测量本身**坏了，且没人检查：
+
+| 现象 | 真相 |
+|---|---|
+| 召回 0.95 | 瞎猜本来就有 0.90 |
+| 分类法得分 ~1.0 | 在归纳出它的那批语料上测的 |
+| 所有条件都相等 | 指标全程结构性为零 |
+| "干预有效" | 干预变量赋值后从未被读取 |
+| 结果已归档 | 日志里写了，磁盘上没写 |
+| 通道可用 | 上个月可用，今天 403 |
+
+## 安装
+
+零依赖，Python 3.8+。
+
+```bash
+pip install evalguard
+# 或不安装：
+python3 -m evalguard your_eval.py
+```
+
+## 实测
+
+| 样本 | blocker | warn | 结论 |
+|---|---|---|---|
+| `planted_eval.py`（埋 16 个坑） | 4 | 11 | **16/16 规则全部命中** |
+| `clean_eval.py`（按规则写对） | **0** | **0** | 仅 1 条 info |
+
+**干净代码零误报。** 会乱叫的 linter 没人用。两个 fixture 都在仓库里，可自验。
+
+`python3 tests/run_tests.py` → 6/6（零依赖 runner，不需要 pytest）。
+
+## 扫它自己作者的代码（如实报告）
+
+```
+core/    3 文件   0 blocker   3 warn
+tools/  15 文件   7 blocker   8 warn
+```
+
+7 个 blocker 是 5×EG016 + 2×EG006，**都是实验脚本里的真缺陷**，不是噪音。
+
+## v0.2 自查出的三个静默失效
+
+1. **`re` 没导入** —— 回退分支直接 NameError
+2. **`" ".join(tokens)` 把所有带点的名字拆坏** —— `requests.get` 变成
+   `requests . get`，**EG016 从来没能命中任何真实远程调用**，所有
+   `np.mean` / `json.dump` 关键字全是死的
+3. **写在上行的保护看不见** —— `denom = max(n,1)` 之后的 `tp/denom` 被误报
+
+第 2 条最关键：**一条从不触发的规则，和一条从不需要触发的规则，长得一模一样。**
+
+## 局限（写在前面）
+
+- 只读源码，不运行；无法知道指标**数值**是否真的恒零
+- 部分规则（EG002/EG007/EG011–EG016）是关键字启发式，找的是"做了正确实践
+  的证据"，不是证明
+- 仅 Python
+- **设计上重精确率轻召回率**：漏一个缺陷只是重跑一次，误报一次你会卸载它
+
+## 许可
+
+工具 MIT；判据库 CC BY 4.0，署名 KLameng。
+
+## PRO 规则包（付费，10 条）
+
+`--pro` 启用。这些规则针对"代码看起来完全正确、但数字的含义错了"的缺陷——
+它们能活过 code review，因为 bug 不在能不能跑，在跑出来的数是不是那个意思。
+
+| 规则 | 严重度 | 抓什么 |
+|---|---|---|
+| EGP01 | blocker | 失败样本被静默剔除后再算分 |
+| EGP02 | blocker | 阈值/选择在报告用的同一份数据上调 |
+| EGP03 | warn | 多次比较未做多重校正 |
+| EGP04 | blocker | 两两判定未做顺序/位置去偏 |
+| EGP05 | blocker | 训练集与评测集同源无切分 |
+| EGP06 | warn | 单种子单次运行，未报方差 |
+| EGP07 | warn | 缓存复用未做哈希/版本校验 |
+| EGP08 | warn | 断言只覆盖成功路径 |
+| EGP09 | warn | 逐样本分数只报均值，不报尾部 |
+| EGP10 | blocker | 未校验响应结构就深层取值 |
+
+### 实测
+
+| 样本 | 命中 | 假阳性 |
+|---|---|---|
+| 埋了 10 个缺陷的 `tests/pro_planted.py` | **10 / 10** | — |
+| 按规则写对的 `tests/pro_clean.py` | — | **0 / 10** |
+
+### 这条产品线自己抓到的缺陷
+
+PRO 包开发过程中，规则自己踩了 6 个静默失效，全部留档：
+
+1. **注释在骗规则** —— 埋雷样本的注释写了"no hash"，规则扫原始源码，
+   于是"hash"这个 token 出现在文件里，守卫判定通过，规则被自己静音。
+   这是判据核 #23（扫原始源码让 *提到* 某物的注释满足 *做到* 某物的检查）
+   在本项目里的**第三次复发**。修法是所有规则一律走 `_code_only`。
+2. `"val"` 是 `"pvals"` 的子串 —— 算了 p 值的文件看起来像有 dev 集
+3. `"ci"` 是 `"scipy"` 的子串 —— 导入 scipy 看起来像报了置信区间
+4. `".get("` 匹配 `requests.get(` —— 任何远程调用看起来都做了守卫（EGP10、EG016 各一次）
+5. `except Exception:` 被当成窄捕获放过 —— 它和裸 `except` 一样宽
+6. `min(pvals)` 里的 `min(` 被当成尾部统计 —— 掩盖了真的没有尾部报告
+
+### 外部真实语料验证
+
+跑在 TACT 仓库（CC BY 4.0，KLameng）的 `engine/tact_run.py` 上：
+
+```
+0 blocker · 1 warn
+EG005  L157: 100*stat['exact']/n     ← n 无守卫，n=0 时 ZeroDivisionError
+```
+
+同一轮还抓出并修掉了本工具在真实代码上的 2 个假阳性：
+`100*tp/gtot if gtot else nan` 被误判为无守卫除法（其实是三元守卫）；
+无任何网络调用的文件被误判为"依赖外部通道"（`.get(` 误匹配）。
+
+### 局限（照实说）
+
+- 静态分析，看得到符号看不到运行时取值
+- **EGP06 在非评测脚本上会过报**：工具假定目标是评测脚本，
+  对登录/推送类脚本，"未报方差"是噪声
+- 同义词表之外的等价写法会漏；正则/AST 启发式不可能完备

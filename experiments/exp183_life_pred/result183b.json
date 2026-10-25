@@ -1,1 +1,32 @@
-ewogICJyZXBlYXRfeDEiOiB7CiAgICAicHJlZCI6IDAuMjkxOCwKICAgICJsaWZ0IjogMC4yMzIyLAogICAgImF1dG9jb3JyIjogMC4zOTgyLAogICAgIm52X2RlY2F5IjogMC40OTc1CiAgfSwKICAicmVwZWF0X3gyIjogewogICAgInByZWQiOiAwLjY2NTIsCiAgICAibGlmdCI6IDAuNjExMiwKICAgICJhdXRvY29yciI6IC0wLjAzNDcsCiAgICAibnZfZGVjYXkiOiAwLjAKICB9LAogICJyZXBlYXRfeDQiOiB7CiAgICAicHJlZCI6IDAuNzE2OCwKICAgICJsaWZ0IjogMC42NjEzLAogICAgImF1dG9jb3JyIjogLTAuMDAyMSwKICAgICJudl9kZWNheSI6IDAuMAogIH0sCiAgInJlcGVhdF94OCI6IHsKICAgICJwcmVkIjogMC43MDk1LAogICAgImxpZnQiOiAwLjY1NTMsCiAgICAiYXV0b2NvcnIiOiAtMC4wMDEzLAogICAgIm52X2RlY2F5IjogMC4wCiAgfSwKICAic2h1ZmZsZWQiOiB7CiAgICAicHJlZCI6IDAuMDUwMywKICAgICJsaWZ0IjogLTAuMDAwOSwKICAgICJhdXRvY29yciI6IDAuMDE2MSwKICAgICJudl9kZWNheSI6IDAuOTg1MQogIH0KfQ==
+{
+  "repeat_x1": {
+    "pred": 0.2918,
+    "lift": 0.2322,
+    "autocorr": 0.3982,
+    "nv_decay": 0.4975
+  },
+  "repeat_x2": {
+    "pred": 0.6652,
+    "lift": 0.6112,
+    "autocorr": -0.0347,
+    "nv_decay": 0.0
+  },
+  "repeat_x4": {
+    "pred": 0.7168,
+    "lift": 0.6613,
+    "autocorr": -0.0021,
+    "nv_decay": 0.0
+  },
+  "repeat_x8": {
+    "pred": 0.7095,
+    "lift": 0.6553,
+    "autocorr": -0.0013,
+    "nv_decay": 0.0
+  },
+  "shuffled": {
+    "pred": 0.0503,
+    "lift": -0.0009,
+    "autocorr": 0.0161,
+    "nv_decay": 0.9851
+  }
+}

@@ -1,1 +1,14 @@
-ewogIm9rIjogewogICLikaAg55yf5omn6KGMIjogdHJ1ZSwKICAi4pGhIOWPr+WkjeeOsCgz5qyh5ZOI5biM5LiA6Ie0KSI6IHRydWUsCiAgIuKRoiDlpLHotKXooqvmjZXojrco6Z2eMOmAgOWHuueggSkiOiB0cnVlLAogICLikaMg6K+t5rOV6ZSZ6K+v6KKr5oqTIjogdHJ1ZSwKICAi4pGkIOa0m+elnuaooeWdl+WcqOaymeebkuWPr+aJp+ihjCI6IHRydWUKIH0sCiAiaGFzaGVzIjogWwogICI5OGI2NGFmYTM5NDdkNGJlIiwKICAiOThiNjRhZmEzOTQ3ZDRiZSIsCiAgIjk4YjY0YWZhMzk0N2Q0YmUiCiBdCn0=
+{
+ "ok": {
+  "① 真执行": true,
+  "② 可复现(3次哈希一致)": true,
+  "③ 失败被捕获(非0退出码)": true,
+  "④ 语法错误被抓": true,
+  "⑤ 洛神模块在沙盒可执行": true
+ },
+ "hashes": [
+  "98b64afa3947d4be",
+  "98b64afa3947d4be",
+  "98b64afa3947d4be"
+ ]
+}

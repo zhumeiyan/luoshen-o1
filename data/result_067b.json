@@ -1,1 +1,42 @@
-ewogICJib251czAuMF92MC4wIjogewogICAgIm9wcF9mcmFjIjogMC4xMzkyLAogICAgImF1Y19xIjogMC4wCiAgfSwKICAiYm9udXMwLjBfdjAuMjUiOiB7CiAgICAib3BwX2ZyYWMiOiAwLjE2MTMsCiAgICAiYXVjX3EiOiAwLjAKICB9LAogICJib251czAuMF92MC41IjogewogICAgIm9wcF9mcmFjIjogMC4xOTUsCiAgICAiYXVjX3EiOiAwLjAKICB9LAogICJib251czAuMF92MC43NSI6IHsKICAgICJvcHBfZnJhYyI6IDAuMjA0MiwKICAgICJhdWNfcSI6IDAuMAogIH0sCiAgImJvbnVzMC4wX3YxLjAiOiB7CiAgICAib3BwX2ZyYWMiOiAwLjM2NSwKICAgICJhdWNfcSI6IDAuMAogIH0sCiAgImJvbnVzMC40X3YwLjAiOiB7CiAgICAib3BwX2ZyYWMiOiAwLjA0ODgsCiAgICAiYXVjX3EiOiAwLjAKICB9LAogICJib251czAuNF92MC4yNSI6IHsKICAgICJvcHBfZnJhYyI6IDAuMDU0MiwKICAgICJhdWNfcSI6IDAuMAogIH0sCiAgImJvbnVzMC40X3YwLjUiOiB7CiAgICAib3BwX2ZyYWMiOiAwLjA0ODcsCiAgICAiYXVjX3EiOiAwLjAKICB9LAogICJib251czAuNF92MC43NSI6IHsKICAgICJvcHBfZnJhYyI6IDAuMDUyMSwKICAgICJhdWNfcSI6IDAuMAogIH0sCiAgImJvbnVzMC40X3YxLjAiOiB7CiAgICAib3BwX2ZyYWMiOiAwLjA2MzgsCiAgICAiYXVjX3EiOiAwLjAKICB9Cn0=
+{
+  "bonus0.0_v0.0": {
+    "opp_frac": 0.1392,
+    "auc_q": 0.0
+  },
+  "bonus0.0_v0.25": {
+    "opp_frac": 0.1613,
+    "auc_q": 0.0
+  },
+  "bonus0.0_v0.5": {
+    "opp_frac": 0.195,
+    "auc_q": 0.0
+  },
+  "bonus0.0_v0.75": {
+    "opp_frac": 0.2042,
+    "auc_q": 0.0
+  },
+  "bonus0.0_v1.0": {
+    "opp_frac": 0.365,
+    "auc_q": 0.0
+  },
+  "bonus0.4_v0.0": {
+    "opp_frac": 0.0488,
+    "auc_q": 0.0
+  },
+  "bonus0.4_v0.25": {
+    "opp_frac": 0.0542,
+    "auc_q": 0.0
+  },
+  "bonus0.4_v0.5": {
+    "opp_frac": 0.0487,
+    "auc_q": 0.0
+  },
+  "bonus0.4_v0.75": {
+    "opp_frac": 0.0521,
+    "auc_q": 0.0
+  },
+  "bonus0.4_v1.0": {
+    "opp_frac": 0.0638,
+    "auc_q": 0.0
+  }
+}

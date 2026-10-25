@@ -1,1 +1,131 @@
-IyBUQUNUIOWGheWMluWNoQoK5p2l5rqQ77yaS0xhbWVuZy9UQUNULVRocmVlLUF4aXMtQ2hlY2sgdjIuNy4477yIQ0MgQlkgNC4w77yJCuaWueW8j++8mioq5Y+q5YaF5YyW6IO95YaF5YyW55qE77yI57uT5p6EL+a1geeoi++8ie+8jOWGheWuueeFp+W8leeUqOS4jeehrOiDjOOAgioqCgotLS0KCiMjIOS4gOOAgee7k+aehOS4jeWPmOmHj++8iOWPr+WGheWMlsK36Zu25L6L5aSW77yJCgrmr4/kuKrlrZDlnZDmoIcgPSDkuIDkuKrkuInlhYPnu4TvvIwqKjU4MC81ODAg5YWo5piv5LiJ5q6177yM5peg5LiA5Liq5L6L5aSWKirvvJoKCmBgYArmrrUxICDnjrDosaEgICAgICDop4LmtYvliLDku4DkuYjkuI3lr7nvvIjlj6/op4LmtYvor4Hmja7vvIkK5q61MiAg5L2N572uICAgICAg6ZSZ5Zyo5ZOq5Liq546v6IqCL+WTquS4quWtmOWCqOS9jee9rgrmrrUzICDpqozor4Hot6/lvoQgIOaAjuS5iOmqjCArIOmHj+WMlumYiOWAvApgYGAKCioq6L+Z5Liq5LiJ5YWD57uE5bCx5piv5oiR5Lus55qE6Zet546vKirvvIjkuI3nlKjog4zvvIzmnKzmnaXlsLHmmK/miJHku6znmoTkuJzopb/vvInvvJoKCnwg5q61IHwg5oiR5Lus55qE6K+05rOVIHwg5Ye65aSEIHwKfC0tLXwtLS18LS0tfAp8IOeOsOixoSB8IOaui+W3ru+8iOS4pOmAmumBk+ebuOWHj+WJqeS4i+eahO+8iSB8IOWumuebmMK35qCh5YeG5ZmoIHwKfCDkvY3nva4gfCDmib7lsYLigJTigJTlhYjlrpogTCDlho3osIjmlLkgfCDnrKzlhavljYHkuIPoioIgfAp8IOmqjOivgei3r+W+hCB8IOWPr+i/vea6r++8jOihpeeahOawuOi/nOagh+edgCB8IOesrOWFreWNgeS4gC/kuZ3ljYHoioIgfAoKKirmrrUzIOW4puaVsO+8jOaYr+Wug+acgOehrOeahOWcsOaWuSoq77yaMTE3IOS4quWdkOagh+mHjCA0NyDkuKrvvIg0MCXvvInmnInph4/ljJbpmIjlgLzjgIIKCi0tLQoKIyMg5LqM44CB5YaF5a655LiN5Y+Y6YeP77yI5LiN5a2Y5ZyowrfkuI3lj6/lhoXljJbvvIkKCuWunua1iyAxMTcg5Liq5a2Q5Z2Q5qCH55qE5pyJ5pWI57u05bqm77yI5Y+C5LiO546H77yM56ys5Lmd5Y2B5LiJ6IqC5ZCM5LiA5oqK5bC677yJ77yaCgpgYGAK5pyJ5pWI57u05bqmIDQwLjUgLyDlrp7pmYUgMTE3IOKGkiDljovnvKnmr5QgMC4zNQrliY0gMSDkuKrkuLvmiJDliIbop6Pph4ogMTIlCuWJjSAzIOS4qiAgICAgICDop6Pph4ogMTglICAg4oaQIOiLpeacieecn+S4jeWPmOmHj++8jOi/memHjOivpeaYryA2MCUrCuWJjSA0MCDkuKogICAgICDop6Pph4ogNjUlCmBgYAoKKirmsqHmnInlhoXlrrnkuI3lj5jph4/jgIIxMTcg5Liq5piv55yf57u05bqm77yI5Y+v5Y6L5YiwIH40MO+8jOWOi+S4jeWIsCAx77yJ44CCKioKCiMjIyDlhoXljJblrp7pqozvvIjor5rlrp7nu5PmnpzvvIkKCuWcqOWug+eahCAyOSDkuKrmoKHlh4bmoYjkvovkuIrvvJoKCmBgYAogICAgICAgICAgICAgICBMIOi9tCAgICAgTSDovbQgICAgIFAg6L20CjE3IOS4que7hOe6p+WIpOaNriAgIDU1JSAgICAgIDM4JSAgICAgIDMxJSAgICAg4oaQIOaIkeWGheWMlueahAoxMTcg5Liq5a2Q5Z2Q5qCHICAgIDU5JSAgICAgIDQ1JSAgICAgIDIxJQrlroPnmoTop4TliJnlvJXmk44gICAgNzguNiUgICAgOTUuNyUgICAgODYuNCUgICDihpAg5a6D55qECumaj+acuuWfuue6vyAgICAgICAgMjUlICAgICAgMjIlICAgICAgMjUlCmBgYAoKKirlhoXljJblnKjlhoXlrrnlsYLovpPkuobjgIIqKiAxNyDkuKrnu4TnuqfkvY7kuo7mnInmlYjnu7TluqYgNDAuNSDihpIg5qyg5ouf5ZCI44CCCuaLv+a7oSAxMTcg5Liq5Lmf5rKh6L+95LiK4oCU4oCUKirlt67ot53lnKjmlrnms5XvvIjlroPnmoTliIbmtYHliKTmja7mmK/miYvlhpnnmoTvvInvvIzkuI3lnKjlnZDmoIfmlbDjgIIqKgoKIyMjIOaJgOS7peWGheWMlueahOi+ueeVjOWumuatu+S6hgoKYGBgCuWPr+WGheWMliAg57uT5p6E77yI5LiJ5YWD57uE77yJwrcg5rWB56iL77yI6L+H6Ze477yJwrcg57qq5b6L77yI5LiN5pep5YGc77yJCuS4jeWPr+WGheWMliAxMTcg5Liq5Z2Q5qCH55qE5YaF5a65IOKAlOKAlCDmsqHmnInkuI3lj5jph4/vvIznoazog4zmsqHnlKjvvIznhaflvJXnlKgKYGBgCgotLS0KCiMjIOS4ieOAgea1geeoi+S4jeWPmOmHj++8iOWPr+WGheWMlu+8iQoKYGBgCuesrCAwIOatpSAg5YmN572u5o6S6Zmk6Ze4ICAg5YWI5o6S6ZmkIuS4jeWNoOeggSLvvIzlho3ov5sgTC9NL1AK56ysIDEg5q2lICBMIOi9tCAgICAgICAg5a6a5Zyo5ZOq5LiA5bGC54qv77yI5Y+v5aSa6YCJ77yJCuesrCAyIOatpSAgTS9QIOi9tCAgICAgIOS4ieatpeWMuemFjeazleS+neasoei/h+mXuArnrKwgMyDmraUgIOaAu+S9k+e7k+iuuiAgICDovpPlh7rkupTpobnvvJrlnZDmoIcgKyDlkb3kuK3lkKvkuYkgKyDpqozor4Hot6/lvoQgKyDlkIjop4TmmKDlsIQKYGBgCgoqKuWFs+mUrue6quW+i++8iOWug+iHquW3seWGmeeahO+8jOi3n+aIkeS7rOeLrOeri+a1i+WIsOeahOS4gOiHtO+8ie+8mioqCgo+IOWIpOWdkOagh+aXtumXriLmnKzotKjmmK/kuI3mmK/ov5nlsYIi77yM5LiN5pivIuayvuS4jeayvui+uSLjgIIKPiDlh6DkuY7mr4/mnaHplJnor6/pg73ot5/lpb3lh6DlsYLmsr7ovrnvvIwqKuayvui+ueWwseetlCLmmK8i77yM5Lya5Zyo5YmN6Z2i55qE5bGC6KKr6ZSZ6K+v5oiq5YGcKirjgIIKCioq6L+Z5bCx5piv56ys5YWr5Y2B5LqU6IqC55qE5pep5YGc6Zm36Zix44CB56ys5Lmd5Y2B5LiA6IqC55qEIM+D4oaSMO+8jOiiq+Wug+eLrOeri+aSnuWIsOS6huOAgioqCgotLS0KCiMjIOWbm+OAgea0nuWcqOWTqu+8iOi/mOayoeeglOeptuaYjueZveeahOWcsOaWue+8iQoKYGBgCjExNyDkuKrlrZDlnZDmoIcgICAgIDgyIOS4qu+8iDcwJe+8ieS7juayoeacieahiOS+i+eFp+S6rgoyOSDkuKrmoYjkvosgICAgICAgIDI4IHN5bnRoZXRpYyDCtyAxIHJlYWwKTTkg6Ieq5Y+R5Y2P5L2cICAgICAg5pW057uE56m677yIb3B0cz1bXe+8jOW+heecn+WunuahiOS+iyByYXRpZnnvvIkKTDQg57O757uf546v5aKDICAgICAg5Y+q5pyJIDEg5Liq5qGI5L6LICDihpAg6ICMIEwg6L205Y+s5Zue5pyA5L2OCmBgYAoK5a6D6Ieq5bex5om/6K6k55qE77yIU0VMRl9GQUlMVVJFUy5tZO+8ie+8mgoKYGBgCs66PTAuOTQ1IOaYr+S6lOaooeWei+W9vOatpOS4gOiHtO+8jOS4jeaYr+i3n+ecn+ebuOS4gOiHtCDigJTigJQg5b6q546v6K666K+B77yI56ys5YWt5Y2B5YWr6IqC5ZCM5LiA5p2h77yJCjExNyDlnZDmoIflubPlnYfmkYrkuI3liLAgMC4yNSDkuKrmoKHlh4bmoLfkvosg4oCU4oCUIOS4pemHjeasoOWumgrliIbnsbvms5XkuI3mmK/mnLrliLYg4oCU4oCUIOS4jeWPr+a2iOiejeOAgeS4jeWPr+WvueeFpwpgYGAKCioq5Lik5p2h5oiR5Lus54us56uL5rWL5Yiw6L+H77yaKioKCmBgYArlroPor7QgTCDovbTlj6zlm57mnIDkvY4gNzguNiUK5oiR5LusIOesrOWFq+WNgeS4g+iKgu+8muWxgumXtOW9ouaAgemHjeWPoCAwLjA1IOaXtuWPrOWbniA3Ny4wJSDigJTigJQg5Yeg5LmO6YeN5ZCICiAgICAg5Y6f5Zug5Lmf5rWL5Ye65p2l5LqG77ya5LiN5piv6IO95Yqb5LiN5aSf77yM5piv5aSp6Iqx5p2/5bCx5Zyo6YKj5YS/CgrlroPor7Qg5Z2Q5qCH5qyg5a6aCuaIkeS7rCDnrKzkuZ3ljYHkuInoioLvvJrmoLfmnKznqIDnvLrml7blhoXljJbotaIgOS43IOWAje+8iOS9huWJjeaPkOaYryLnnJ/mnInkuI3lj5jph48i77yJCmBgYAoKLS0tCgojIyDkupTjgIHmiJHku6znu5nlroPnmoTkuInlnZfooaXkuIEKCioq4pGgIEwg6L2055qE5Yik5o2u77yI5a6D57y677yJKioKCuesrOWFq+WNgeS4g+iKguWunua1i++8muWPrOWbniA3NyUg5pe2Iueci+eXh+eKtueMnCLlsLHlpJ/vvIzkvY7kuo4gKio2MiUqKiDlv4XpobvpgKDmjqLpkojjgIIKNjIlIOaYr+S6pOWPieeCue+8jOS5i+S4iueMnO+8jOS5i+S4i+a1i+OAggoKKirikaEg5peg6ZiI5YC855qE6YKjIDYwJSDmjInlj6DliqDmgIHlpITnkIYqKgoKMTE3IOS4qumHjCA3MCDkuKrvvIg2MCXvvInmrrUzIOayoeaciemHj+WMlumYiOWAvOOAggrpgqPkupvmmK8qKuaDsyoq77yM5LiN5pivKirnu5PorroqKiDigJTigJQg5oyJ56ys5YWr5Y2B5Zub6IqC77ya5Y+g5Yqg77yM5LiN5Z2N57yp77yM5p2D6YeN6YO95Zyo44CCCgoqKuKRoiDlhoXljJbnmoTovrnnlYwqKgoK56ys5Lmd5Y2B5LiJ6IqCIuWGheWMlui1oiA5Ljcg5YCNIuacieWJjeaPkO+8mioq55yf5a2Y5Zyo5LiN5Y+Y6YePKirjgIIK5pys5Y2h56ys5LqM6IqC5a6e5rWL77yaVEFDVCDnmoTlhoXlrrnlsYLmsqHmnInkuI3lj5jph48g4oaSIOWGheWMluS4jemAgueUqCDihpIg54Wn5byV55So44CCCioq6L+Z5p2h5piv56ys5Lmd5Y2B5LiJ6IqC55qE6L6555WM5p2h5Lu277yM5LmL5YmN5rKh5YaZ44CCKioK
+# TACT 内化卡
+
+来源：KLameng/TACT-Three-Axis-Check v2.7.8（CC BY 4.0）
+方式：**只内化能内化的（结构/流程），内容照引用不硬背。**
+
+---
+
+## 一、结构不变量（可内化·零例外）
+
+每个子坐标 = 一个三元组，**580/580 全是三段，无一个例外**：
+
+```
+段1  现象      观测到什么不对（可观测证据）
+段2  位置      错在哪个环节/哪个存储位置
+段3  验证路径  怎么验 + 量化阈值
+```
+
+**这个三元组就是我们的闭环**（不用背，本来就是我们的东西）：
+
+| 段 | 我们的说法 | 出处 |
+|---|---|---|
+| 现象 | 残差（两通道相减剩下的） | 定盘·校准器 |
+| 位置 | 找层——先定 L 再谈改 | 第八十七节 |
+| 验证路径 | 可追溯，补的永远标着 | 第六十一/九十节 |
+
+**段3 带数，是它最硬的地方**：117 个坐标里 47 个（40%）有量化阈值。
+
+---
+
+## 二、内容不变量（不存在·不可内化）
+
+实测 117 个子坐标的有效维度（参与率，第九十三节同一把尺）：
+
+```
+有效维度 40.5 / 实际 117 → 压缩比 0.35
+前 1 个主成分解释 12%
+前 3 个       解释 18%   ← 若有真不变量，这里该是 60%+
+前 40 个      解释 65%
+```
+
+**没有内容不变量。117 个是真维度（可压到 ~40，压不到 1）。**
+
+### 内化实验（诚实结果）
+
+在它的 29 个校准案例上：
+
+```
+               L 轴     M 轴     P 轴
+17 个组级判据   55%      38%      31%     ← 我内化的
+117 个子坐标    59%      45%      21%
+它的规则引擎    78.6%    95.7%    86.4%   ← 它的
+随机基线        25%      22%      25%
+```
+
+**内化在内容层输了。** 17 个组级低于有效维度 40.5 → 欠拟合。
+拿满 117 个也没追上——**差距在方法（它的分流判据是手写的），不在坐标数。**
+
+### 所以内化的边界定死了
+
+```
+可内化  结构（三元组）· 流程（过闸）· 纪律（不早停）
+不可内化 117 个坐标的内容 —— 没有不变量，硬背没用，照引用
+```
+
+---
+
+## 三、流程不变量（可内化）
+
+```
+第 0 步  前置排除闸   先排除"不占码"，再进 L/M/P
+第 1 步  L 轴        定在哪一层犯（可多选）
+第 2 步  M/P 轴      三步匹配法依次过闸
+第 3 步  总体结论    输出五项：坐标 + 命中含义 + 验证路径 + 合规映射
+```
+
+**关键纪律（它自己写的，跟我们独立测到的一致）：**
+
+> 判坐标时问"本质是不是这层"，不是"沾不沾边"。
+> 几乎每条错误都跟好几层沾边，**沾边就答"是"，会在前面的层被错误截停**。
+
+**这就是第八十五节的早停陷阱、第九十一节的 σ→0，被它独立撞到了。**
+
+---
+
+## 四、洞在哪（还没研究明白的地方）
+
+```
+117 个子坐标     82 个（70%）从没有案例照亮
+29 个案例        28 synthetic · 1 real
+M9 自发协作      整组空（opts=[]，待真实案例 ratify）
+L4 系统环境      只有 1 个案例  ← 而 L 轴召回最低
+```
+
+它自己承认的（SELF_FAILURES.md）：
+
+```
+κ=0.945 是五模型彼此一致，不是跟真相一致 —— 循环论证（第六十八节同一条）
+117 坐标平均摊不到 0.25 个校准样例 —— 严重欠定
+分类法不是机制 —— 不可消融、不可对照
+```
+
+**两条我们独立测到过：**
+
+```
+它说 L 轴召回最低 78.6%
+我们 第八十七节：层间形态重叠 0.05 时召回 77.0% —— 几乎重合
+     原因也测出来了：不是能力不够，是天花板就在那儿
+
+它说 坐标欠定
+我们 第九十三节：样本稀缺时内化赢 9.7 倍（但前提是"真有不变量"）
+```
+
+---
+
+## 五、我们给它的三块补丁
+
+**① L 轴的判据（它缺）**
+
+第八十七节实测：召回 77% 时"看症状猜"就够，低于 **62%** 必须造探针。
+62% 是交叉点，之上猜，之下测。
+
+**② 无阈值的那 60% 按叠加态处理**
+
+117 个里 70 个（60%）段3 没有量化阈值。
+那些是**想**，不是**结论** —— 按第八十四节：叠加，不坍缩，权重都在。
+
+**③ 内化的边界**
+
+第九十三节"内化赢 9.7 倍"有前提：**真存在不变量**。
+本卡第二节实测：TACT 的内容层没有不变量 → 内化不适用 → 照引用。
+**这条是第九十三节的边界条件，之前没写。**

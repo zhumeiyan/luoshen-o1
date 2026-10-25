@@ -1,1 +1,24 @@
-IiIiQXR0ZXN0IGluc3RhbGxlZCBHaGlkcmEgbGF1bmNoIG1ldGFkYXRhIGFuZCB0aGUgSkRLIHVzZWQgYnkgaGVhZGxlc3MgcXVlcmllcy4iIiIKaW1wb3J0IGhhc2hsaWIKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmltcG9ydCB0b21sbGliCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KCgpkZWYgdmVyaWZ5KGdoaWRyYV9ob21lLCBqYXZhX2hvbWUpOgogICAgbG9jayA9IHRvbWxsaWIubG9hZHMoKFJPT1QgLyAiY29uZmlnL3Rvb2xzLmxvY2sudG9tbCIpLnJlYWRfdGV4dCgpKQogICAgZm9yIHNlY3Rpb24sIHJvb3QsIGVudHJpZXMgaW4gKAogICAgICAgICgiZ2hpZHJhIiwgZ2hpZHJhX2hvbWUsIHsKICAgICAgICAgICAgImFwcGxpY2F0aW9uX3Byb3BlcnRpZXNfc2hhMjU2IjogIkdoaWRyYS9hcHBsaWNhdGlvbi5wcm9wZXJ0aWVzIiwKICAgICAgICAgICAgImFuYWx5emVfaGVhZGxlc3Nfc2hhMjU2IjogInN1cHBvcnQvYW5hbHl6ZUhlYWRsZXNzIn0pLAogICAgICAgICgidGVtdXJpbl9qZGsiLCBqYXZhX2hvbWUsIHsKICAgICAgICAgICAgImphdmFfc2hhMjU2IjogImJpbi9qYXZhIiwgIm1vZHVsZXNfc2hhMjU2IjogImxpYi9tb2R1bGVzIiwKICAgICAgICAgICAgInJlbGVhc2Vfc2hhMjU2IjogInJlbGVhc2UifSksCiAgICApOgogICAgICAgIGlmIHJvb3QgaXMgTm9uZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICByb290ID0gUGF0aChyb290KQogICAgICAgIGZvciBrZXksIGZpbGVuYW1lIGluIGVudHJpZXMuaXRlbXMoKToKICAgICAgICAgICAgaWYgaGFzaGxpYi5zaGEyNTYoKHJvb3QgLyBmaWxlbmFtZSkucmVhZF9ieXRlcygpKS5oZXhkaWdlc3QoKSAhPSBsb2NrW3NlY3Rpb25dW2tleV06CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiYW5hbHlzaXMgdG9vbCBoYXNoIG1pc21hdGNoOiB7c2VjdGlvbn0ve2ZpbGVuYW1lfSIpCg==
+"""Attest installed Ghidra launch metadata and the JDK used by headless queries."""
+import hashlib
+from pathlib import Path
+import tomllib
+
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def verify(ghidra_home, java_home):
+    lock = tomllib.loads((ROOT / "config/tools.lock.toml").read_text())
+    for section, root, entries in (
+        ("ghidra", ghidra_home, {
+            "application_properties_sha256": "Ghidra/application.properties",
+            "analyze_headless_sha256": "support/analyzeHeadless"}),
+        ("temurin_jdk", java_home, {
+            "java_sha256": "bin/java", "modules_sha256": "lib/modules",
+            "release_sha256": "release"}),
+    ):
+        if root is None:
+            continue
+        root = Path(root)
+        for key, filename in entries.items():
+            if hashlib.sha256((root / filename).read_bytes()).hexdigest() != lock[section][key]:
+                raise ValueError(f"analysis tool hash mismatch: {section}/{filename}")

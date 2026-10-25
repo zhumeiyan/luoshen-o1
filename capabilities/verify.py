@@ -1,1 +1,251 @@
-IiIi5Yik5a6a5bGC44CCCgrov5nmmK/mnKzljIXkuI4i5aSn5qih5Z6L5Lmf6IO955Sf5oiQIueahOWIhueVjOaJgOWcqOOAguS4ieadoeehrOinhOWIme+8mgoKICBSMSDliKTlrprlj6ror7sqKuS6p+eJqeacrOi6qyoq77yI5YOP57SgIC8g6YeH5qC3IC8g5a2X6IqC77yJ77yM57ud5LiN6K+755Sf5oiQ5pe25Lyg5YWl55qEIHNwZWPjgIIKICAgICDor7sgc3BlYyDnrYnkuo7orqnnlJ/miJDlsYLnu5noh6rlt7Hlj5HlkIjmoLzor4HjgIIKICBSMiDlpLHotKXlv4XpobvmjIflh7oqKuWFt+S9k+WTquS4quaMh+aghyoq6LaK55WM77yM56aB5q2i6L+U5ZueIueci+i1t+adpeS4jeWkquWlvSLjgIIKICAgICDmsqHmnInmjIfmoIfnmoTlpLHotKXkuI3lj6/lpI3njrDvvIzkuZ/kuI3lj6/kv67lpI3jgIIKICBSMyDliKTlrprlsYLoh6rouqvopoHooqvoh6rmo4DvvIhzZWxmdGVzdC5wee+8ie+8jOWQpuWImeWug+WwseaYr+S4gOS4quS8mumdmem7mOWkseaViOeahOS7quihqOOAggoK5q+P5LiA57G75Lqn54mp55qEIuWQiOagvCLpg73ooqvmi4bmiJDlj6/op4LmtYvmjIfmoIfvvIzkuJQqKuWIu+aEj+WMheWQq+iDveaKk+S9j+epuuWjs+eahOajgOafpSoq77yaCuS4gOW8oOe6r+eZveWbvuOAgeS4gOautemdmemfs+mfs+mikeOAgeS4gOW4p+m7keWxj+inhumike+8jOmDveW/hemhu+WcqOWvueW6lOWIpOWumumHjCBGQUlM44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgb3MKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSAuYXJ0aWZhY3QgaW1wb3J0IEFydGlmYWN0LCBWZXJkaWN0LCB2ZXJkaWN0CmZyb20gLiBpbXBvcnQgdmlkZW8gYXMgX3ZpZGVvCmZyb20gLiBpbXBvcnQgYXVkaW8gYXMgX2F1ZGlvCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyDlm77niYcKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZGVmIGltYWdlKGFydDogQXJ0aWZhY3QsIG1pbl9pbms6IGZsb2F0ID0gMC4wMDIsCiAgICAgICAgICBtaW5fY29sb3JzOiBpbnQgPSAyLCBtaW5fc2lkZTogaW50ID0gNjQpIC0+IFZlcmRpY3Q6CiAgICAiIiLliKTlrprkuIDlvKDlm77mmK/kuI3mmK/nnJ/muLLmn5Plh7rmnaXkuobjgIIKCiAgICBgaW5rX3JhdGlvYCDmipPnmoTmmK8i5YWo5piv6IOM5pmvIuKAlOKAlOe6r+eZveWbvueahOWAvOaOpei/kSAw44CCCiAgICBgZGlzdGluY3RfY29sb3JzYCDmipPnmoTmmK8i5riy5p+T5aSx6LSl5Y+q5Ymp5LiA5Liq6Imy5Z2XIuOAggogICAgIiIiCiAgICByZWFzb25zLCBtID0gW10sIHt9CiAgICBpZiBub3QgYXJ0LmV4aXN0czoKICAgICAgICByZXR1cm4gdmVyZGljdCgiaW1hZ2UiLCBGYWxzZSwgeyJleGlzdHMiOiBGYWxzZX0sCiAgICAgICAgICAgICAgICAgICAgICAgWyLmlofku7bkuI3lrZjlnKg6ICIgKyBhcnQucGF0aF0pCgogICAgZnJvbSBQSUwgaW1wb3J0IEltYWdlCiAgICB0cnk6CiAgICAgICAgaW0gPSBJbWFnZS5vcGVuKGFydC5wYXRoKS5jb252ZXJ0KCJSR0IiKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiB2ZXJkaWN0KCJpbWFnZSIsIEZhbHNlLCB7Im9wZW4iOiBGYWxzZX0sIFtmIuaJk+S4jeW8gDoge2V9Il0pCgogICAgdywgaCA9IGltLnNpemUKICAgIGEgPSBucC5hc2FycmF5KGltKS5hc3R5cGUobnAuaW50MTYpCiAgICBtLnVwZGF0ZSh7IndpZHRoIjogdywgImhlaWdodCI6IGgsICJieXRlcyI6IGFydC5zaXplfSkKCiAgICBpZiBtaW4odywgaCkgPCBtaW5fc2lkZToKICAgICAgICByZWFzb25zLmFwcGVuZChmIuWwuuWvuOi/h+WwjyB7d314e2h9IDwge21pbl9zaWRlfSIpCgogICAgIyDog4zmma/oibIgPSDlh7rnjrDmnIDlpJrnmoTpopzoibLvvJtpbmsgPSDlgY/nprvog4zmma/otoXov4fpmIjlgLznmoTlg4/ntKDljaDmr5QKICAgIGZsYXQgPSBhLnJlc2hhcGUoLTEsIDMpCiAgICAjIOmHj+WMluWQjuaJvuS8l+aVsO+8jOmBv+WFjSAyNTUsMjU1LDI1NSDkuI4gMjU0LDI1NSwyNTUg6KKr566X5oiQ5Lik56eN6ImyCiAgICBxID0gKGZsYXQgLy8gMTYpCiAgICBrZXlzLCBjb3VudHMgPSBucC51bmlxdWUocSwgYXhpcz0wLCByZXR1cm5fY291bnRzPVRydWUpCiAgICBiZyA9IGtleXNbY291bnRzLmFyZ21heCgpXSAqIDE2CiAgICBkaXN0ID0gbnAuYWJzKGZsYXQgLSBiZykuc3VtKGF4aXM9MSkKICAgIGluayA9IGZsb2F0KChkaXN0ID4gMzApLm1lYW4oKSkKICAgIG1bImlua19yYXRpbyJdID0gcm91bmQoaW5rLCA1KQoKICAgIG5jb2wgPSBpbnQobGVuKG5wLnVuaXF1ZShxLCBheGlzPTApKSkKICAgIG1bImRpc3RpbmN0X2NvbG9ycyJdID0gbmNvbAoKICAgIGlmIGluayA8IG1pbl9pbms6CiAgICAgICAgcmVhc29ucy5hcHBlbmQoZiLlh6DkuY7ml6DlhoXlrrkgaW5rX3JhdGlvPXtpbms6LjVmfSA8IHttaW5faW5rfe+8iOWPr+iDveaYr+e6r+iDjOaZr+epuuWbvu+8iSIpCiAgICBpZiBuY29sIDwgbWluX2NvbG9yczoKICAgICAgICByZWFzb25zLmFwcGVuZChmIuminOiJsuaVsOi/h+WwkSB7bmNvbH0gPCB7bWluX2NvbG9yc33vvIjlj6/og73mmK/ljZXoibLlnZfvvIkiKQoKICAgIGFydC5wcm9iZWQudXBkYXRlKG0pCiAgICByZXR1cm4gdmVyZGljdCgiaW1hZ2UiLCBub3QgcmVhc29ucywgbSwgcmVhc29ucykKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOinhumikQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgdmlkZW8oYXJ0OiBBcnRpZmFjdCwgbWluX3NlY29uZHM6IGZsb2F0ID0gMC41LAogICAgICAgICAgbWluX21vdGlvbjogZmxvYXQgPSAwLjAwNCwgbWluX3NpZGU6IGludCA9IDY0KSAtPiBWZXJkaWN0OgogICAgIiIi5Yik5a6a5LiA5q616KeG6aKR5piv5LiN5piv55yf55qE5pyJ55S76Z2i44CB5LiU5Zyo5Yqo44CCCgogICAg5Lik5p2h6IO95oqT5L2P56m65aOz55qE5qOA5p+l77yaCiAgICAgIC0gYGR1cmF0aW9uYCDmipMi5Y6L5qC55rKh57yW5Ye65p2lIgogICAgICAtIGBtb3Rpb25gIOaKkyLnvJblh7rmnaXkuobkvYbmr4/luKfpg73kuIDmoLci77yI5Zu+54mH6L2u5pKt55qE6YCA5YyW5b2i5oCB77yJCiAgICAiIiIKICAgIHJlYXNvbnMsIG0gPSBbXSwge30KICAgIGlmIG5vdCBhcnQuZXhpc3RzOgogICAgICAgIHJldHVybiB2ZXJkaWN0KCJ2aWRlbyIsIEZhbHNlLCB7ImV4aXN0cyI6IEZhbHNlfSwgWyLmlofku7bkuI3lrZjlnKg6ICIgKyBhcnQucGF0aF0pCgogICAgaW5mbyA9IF92aWRlby5wcm9iZShhcnQucGF0aCkKICAgIG0udXBkYXRlKHtrOiB2IGZvciBrLCB2IGluIGluZm8uaXRlbXMoKSBpZiB2IGlzIG5vdCBOb25lfSkKICAgIG1bImJ5dGVzIl0gPSBhcnQuc2l6ZQoKICAgIGR1ciA9IE5vbmUKICAgIGlmIGluZm8uZ2V0KCJkdXJhdGlvbiIpOgogICAgICAgIHRyeToKICAgICAgICAgICAgZHVyID0gZmxvYXQoaW5mb1siZHVyYXRpb24iXSkKICAgICAgICBleGNlcHQgKFR5cGVFcnJvciwgVmFsdWVFcnJvcik6CiAgICAgICAgICAgIGR1ciA9IE5vbmUKICAgIGlmIGR1ciBpcyBOb25lIGFuZCBpbmZvLmdldCgiZnJhbWVzIikgYW5kIGluZm8uZ2V0KCJmcHMiKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIG51bSwgZGVuID0gc3RyKGluZm9bImZwcyJdKS5zcGxpdCgiLyIpCiAgICAgICAgICAgIGZwcyA9IGZsb2F0KG51bSkgLyBmbG9hdChkZW4pIGlmIGZsb2F0KGRlbikgZWxzZSAwLjAKICAgICAgICAgICAgZHVyID0gaW50KGluZm9bImZyYW1lcyJdKSAvIGZwcyBpZiBmcHMgZWxzZSBOb25lCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgZHVyID0gTm9uZQogICAgaWYgZHVyIGlzIG5vdCBOb25lOgogICAgICAgIG1bInNlY29uZHMiXSA9IHJvdW5kKGR1ciwgMykKICAgICAgICBpZiBkdXIgPCBtaW5fc2Vjb25kczoKICAgICAgICAgICAgcmVhc29ucy5hcHBlbmQoZiLml7bplb/ov4fnn60ge2R1cjouM2Z9cyA8IHttaW5fc2Vjb25kc31zIikKCiAgICB3LCBoID0gaW5mby5nZXQoIndpZHRoIiksIGluZm8uZ2V0KCJoZWlnaHQiKQogICAgaWYgdyBhbmQgaCBhbmQgbWluKGludCh3KSwgaW50KGgpKSA8IG1pbl9zaWRlOgogICAgICAgIHJlYXNvbnMuYXBwZW5kKGYi5YiG6L6o546H6L+H5L2OIHt3fXh7aH0iKQoKICAgICMg5oq95bin566X5bin6Ze05beu44CC5oq95LiN5Yiw5b+F6aG7IEZBSUzvvIzkuI3og73pnZnpu5jmlL7ooYwg4oCU4oCUCiAgICAjIOS4gOS4quaKk+S4jeWIsCLpnZnmraLop4bpopEi55qE5Yik5a6a5Zmo562J5LqO5rKh5pyJ5Yik5a6a5Zmo77yM6ICM5a6D5aSx5pWI5pe255yL6LW35p2lCiAgICAjIOWSjOmAmui/h+S4gOaooeS4gOagt++8iOmDveaYryBvaz1UcnVl77yJ44CC6L+Z5piv5pys5bGC5pyA5a655piT5Z2P55qE5Zyw5pa544CCCiAgICBtb3Rpb24gPSBfZnJhbWVfbW90aW9uKGFydC5wYXRoLCBzYW1wbGVzPTgsIGR1cmF0aW9uPWR1cikKICAgIGlmIG1vdGlvbiBpcyBOb25lOgogICAgICAgIHJlYXNvbnMuYXBwZW5kKCLmir3luKflpLHotKXvvIzml6Dms5XliKTlrprnlLvpnaLmmK/lkKblnKjlj5jljJbvvIjkuI3njJzvvIzliKQgRkFJTO+8iSIpCiAgICBlbHNlOgogICAgICAgIG1bIm1vdGlvbiJdID0gcm91bmQobW90aW9uLCA1KQogICAgICAgIGlmIG1vdGlvbiA8IG1pbl9tb3Rpb246CiAgICAgICAgICAgIHJlYXNvbnMuYXBwZW5kKAogICAgICAgICAgICAgICAgZiLluKfpl7Tlh6DkuY7ml6Dlj5jljJYgbW90aW9uPXttb3Rpb246LjVmfSA8IHttaW5fbW90aW9ufe+8iOWPr+iDveaYr+mdmeatouWbvuW9k+inhumike+8iSIpCgogICAgYXJ0LnByb2JlZC51cGRhdGUobSkKICAgIHJldHVybiB2ZXJkaWN0KCJ2aWRlbyIsIG5vdCByZWFzb25zLCBtLCByZWFzb25zKQoKCmRlZiBfZnJhbWVfbW90aW9uKHBhdGg6IHN0ciwgc2FtcGxlczogaW50ID0gOCwgZHVyYXRpb246IGZsb2F0IHwgTm9uZSA9IE5vbmUpOgogICAgIiIi5oyJ6KeG6aKR5YWo6ZW/562J6Led5oq95bin77yM566X5bmz5Z2H5bin6Ze05beu44CC6L+U5ZueIE5vbmUg6KGo56S65oq95bin5aSx6LSl77yI5LiN54yc77yJ44CCCgogICAg6YeH5qC36Ze06ZqU5b+F6aG755Sx5pe26ZW/566X5Ye65p2l77yM5LiN6IO95YaZ5q27IGZwc+OAguWGmeatu+S8muWHuui/meenjemUme+8mjIg56eS6KeG6aKR5oyJCiAgICBgZnBzPTEvMmAg5Y+q5oq95YiwIDEg5bin77yM5LqO5pivIuW4p+mXtOW3riLml6Dku47orqHnrpfvvIzliKTlrprlmajpnZnpu5jmlL7ooYwg4oCU4oCUIOiAjAogICAg6Z2Z5q2i6KeG6aKR5oGw5aW95piv5a6D5pyA6K+l5oqT5L2P55qE5Lic6KW/44CCCiAgICAiIiIKICAgIGltcG9ydCBzaHV0aWwKICAgIGltcG9ydCBzdWJwcm9jZXNzCiAgICBpbXBvcnQgdGVtcGZpbGUKICAgIGV4ZSA9IHNodXRpbC53aGljaCgiZmZtcGVnIikKICAgIGlmIG5vdCBleGU6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGZyb20gUElMIGltcG9ydCBJbWFnZQogICAgIyDmioogc2FtcGxlcyDluKfpk7rmu6Hlhajplb/vvJrpl7TpmpQgPSDml7bplb8gLyDluKfmlbDvvJvml7bplb/mnKrnn6XlsLHmjIkgMSDluKcv56eS5YWc5bqVCiAgICBpZiBkdXJhdGlvbiBhbmQgZHVyYXRpb24gPiAwOgogICAgICAgIGZwcyA9IG1heCgwLjUsIHNhbXBsZXMgLyBmbG9hdChkdXJhdGlvbikpCiAgICBlbHNlOgogICAgICAgIGZwcyA9IDEuMAogICAgdG1wID0gdGVtcGZpbGUubWtkdGVtcChwcmVmaXg9ImNhcHZlcl8iKQogICAgdHJ5OgogICAgICAgIHIgPSBzdWJwcm9jZXNzLnJ1bigKICAgICAgICAgICAgW2V4ZSwgIi15IiwgIi1sb2dsZXZlbCIsICJlcnJvciIsICItaSIsIHBhdGgsCiAgICAgICAgICAgICAiLXZmIiwgZiJmcHM9e2ZwczouM2Z9LHNjYWxlPTY0OjM2IiwKICAgICAgICAgICAgICItZnJhbWVzOnYiLCBzdHIoc2FtcGxlcyksIG9zLnBhdGguam9pbih0bXAsICJzJTAyZC5wbmciKV0sCiAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgdGltZW91dD00MCkKICAgICAgICBmaWxlcyA9IHNvcnRlZChmIGZvciBmIGluIG9zLmxpc3RkaXIodG1wKSBpZiBmLmVuZHN3aXRoKCIucG5nIikpCiAgICAgICAgaWYgbGVuKGZpbGVzKSA8IDI6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgYXJycyA9IFtdCiAgICAgICAgZm9yIGYgaW4gZmlsZXM6CiAgICAgICAgICAgIGFycnMuYXBwZW5kKG5wLmFzYXJyYXkoSW1hZ2Uub3Blbihvcy5wYXRoLmpvaW4odG1wLCBmKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29udmVydCgiTCIpLCBkdHlwZT1ucC5pbnQxNikpCiAgICAgICAgZGlmZnMgPSBbZmxvYXQobnAuYWJzKGFycnNbaSArIDFdIC0gYXJyc1tpXSkubWVhbigpKSAvIDI1NS4wCiAgICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFycnMpIC0gMSldCiAgICAgICAgcmV0dXJuIGZsb2F0KG5wLm1lYW4oZGlmZnMpKSBpZiBkaWZmcyBlbHNlIE5vbmUKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGZpbmFsbHk6CiAgICAgICAgaW1wb3J0IHNodXRpbCBhcyBzaAogICAgICAgIHNoLnJtdHJlZSh0bXAsIGlnbm9yZV9lcnJvcnM9VHJ1ZSkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOmfs+mikQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgYXVkaW8oYXJ0OiBBcnRpZmFjdCwgbWluX3NlY29uZHM6IGZsb2F0ID0gMC4yLAogICAgICAgICAgbWluX3JtczogZmxvYXQgPSAwLjAwMSwgbWF4X2NsaXBfcnVuOiBpbnQgPSAyMCkgLT4gVmVyZGljdDoKICAgICIiIuWIpOWumuS4gOautemfs+mikeaYr+S4jeaYr+ecn+acieWjsOOAgeS4lOayoeiiq+WJiuazouOAggoKICAgIGBybXNgIOaKk+mdmemfs+aWh+S7tu+8iOWAvOS4uiAw77yJ44CCCiAgICBgY2xpcF9ydW5gIOaKk+WJiuazou+8mueci+acgOmVv+eahOS4gOautei/nue7rei0tOmhtumHh+agt+acieWkmumVv++8iOW5s+mhtuW5s+WPsO+8ieOAggoKICAgIOi/memHjOi4qei/h+S4pOS4quWdke+8jOmDveWGmeS4i+adpeWFjeW+l+WGjei4qe+8mgogICAgICAxLiDkuI3og73nlKggcGVha+KJiDEuMCDliKTliYrms6Ig4oCU4oCUIOa7oeW5heato+W8pueahOWzsOWAvOacrOadpeWwseaYryAxLjDvvIzpgqPmmK/mraPluLgKICAgICAgICAg5ZON5bqm44CC5pep5pyf54mI5pys6L+Z5LmI5YaZ77yM5oqK5q+P5LiA5q615q2j5bi46Z+z6aKR6YO95Yik5oiQ5LqG5Z2P44CCCiAgICAgIDIuIOS5n+S4jeiDveeUqOi0tOmhtuWNoOavlCDigJTigJQg5ruh5bmF5q2j5bym55qE5Y2g5q+U5a6e5rWL5bCx5pyJIDIl77yM5ZCM5qC35Lya6K+v5Yik44CCCiAgICDliYrms6LnnJ/mraPnmoTnibnlvoHmmK/lubPpobYqKui/nue7reaIkOautSoq77ya56Gs5oiq5pat5Lya55WZ5LiL5Yeg5Y2B5LiK55m+5Liq6YeH5qC357K+56GuCiAgICDotLTovrnnmoTlubPlj7DvvIzogIzmraPlvKbmr4/kuKrlkajmnJ/lj6rmnInlraTnq4vnmoTkuIDkuKTkuKrph4fmoLfmjqXov5Hls7DlgLzjgIIKICAgICIiIgogICAgcmVhc29ucywgbSA9IFtdLCB7fQogICAgaWYgbm90IGFydC5leGlzdHM6CiAgICAgICAgcmV0dXJuIHZlcmRpY3QoImF1ZGlvIiwgRmFsc2UsIHsiZXhpc3RzIjogRmFsc2V9LCBbIuaWh+S7tuS4jeWtmOWcqDogIiArIGFydC5wYXRoXSkKCiAgICBpZiBhcnQuZXh0ID09ICJ3YXYiOgogICAgICAgIGluZm8gPSBfYXVkaW8ucHJvYmUoYXJ0LnBhdGgpCiAgICAgICAgaWYgbm90IGluZm86CiAgICAgICAgICAgIHJldHVybiB2ZXJkaWN0KCJhdWRpbyIsIEZhbHNlLCB7Im9wZW4iOiBGYWxzZX0sIFsi6K+75LiN5Ye6IHdhdiDlpLQiXSkKICAgICAgICBtLnVwZGF0ZShpbmZvKQogICAgZWxzZToKICAgICAgICAjIG1wMyDnlKggZmZtcGVnIOi9rCB3YXYg5YaN6K+75LiN5YiS566X77yM6L+Z6YeM5Y+q6K+75pe26ZW/5LiO56CB546H562J5Z+65pys5L+h5oGvCiAgICAgICAgaW1wb3J0IHNodXRpbAogICAgICAgIGltcG9ydCBzdWJwcm9jZXNzCiAgICAgICAgZXhlID0gc2h1dGlsLndoaWNoKCJmZnByb2JlIikKICAgICAgICBpZiBleGU6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGltcG9ydCBqc29uIGFzIF9qc29uCiAgICAgICAgICAgICAgICByID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgICAgICAgICAgW2V4ZSwgIi12IiwgImVycm9yIiwgIi1zaG93X2VudHJpZXMiLAogICAgICAgICAgICAgICAgICAgICAiZm9ybWF0PWR1cmF0aW9uLGJpdF9yYXRlIiwgIi1vZiIsICJqc29uIiwgYXJ0LnBhdGhdLAogICAgICAgICAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgdGltZW91dD0yMCkKICAgICAgICAgICAgICAgIGZtID0gX2pzb24ubG9hZHMoci5zdGRvdXQgb3IgInt9IikuZ2V0KCJmb3JtYXQiLCB7fSkKICAgICAgICAgICAgICAgIGlmIGZtLmdldCgiZHVyYXRpb24iKToKICAgICAgICAgICAgICAgICAgICBtWyJzZWNvbmRzIl0gPSByb3VuZChmbG9hdChmbVsiZHVyYXRpb24iXSksIDMpCiAgICAgICAgICAgICAgICBpZiBmbS5nZXQoImJpdF9yYXRlIik6CiAgICAgICAgICAgICAgICAgICAgbVsiYml0X3JhdGUiXSA9IGludChmbVsiYml0X3JhdGUiXSkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICBtWyJieXRlcyJdID0gYXJ0LnNpemUKICAgICAgICBtWyJub3RlIl0gPSAi6Z2eIHdhdu+8jHJtcy9wZWFrIOacqua1i++8iOS4jeeMnO+8iSIKCiAgICBzZWMgPSBtLmdldCgic2Vjb25kcyIpCiAgICBpZiBzZWMgaXMgbm90IE5vbmUgYW5kIHNlYyA8IG1pbl9zZWNvbmRzOgogICAgICAgIHJlYXNvbnMuYXBwZW5kKGYi5pe26ZW/6L+H55+tIHtzZWN9cyA8IHttaW5fc2Vjb25kc31zIikKCiAgICBybXMgPSBtLmdldCgicm1zIikKICAgIGlmIHJtcyBpcyBub3QgTm9uZToKICAgICAgICBpZiBybXMgPCBtaW5fcm1zOgogICAgICAgICAgICByZWFzb25zLmFwcGVuZChmIuaOpei/kemdmemfsyBybXM9e3Jtc30gPCB7bWluX3Jtc30iKQoKICAgIHJ1biA9IG0uZ2V0KCJjbGlwX3J1biIpCiAgICBpZiBydW4gaXMgbm90IE5vbmUgYW5kIHJ1biA+IG1heF9jbGlwX3J1bjoKICAgICAgICByZWFzb25zLmFwcGVuZCgKICAgICAgICAgICAgZiLmnIDplb/ov57nu63otLTpobbmrrUge3J1bn0g6YeH5qC3ID4ge21heF9jbGlwX3J1bn3vvIzms6LlvaLooqvmiKrmlq3vvIjliYrms6LlpLHnnJ/vvIkiKQoKICAgIGFydC5wcm9iZWQudXBkYXRlKG0pCiAgICByZXR1cm4gdmVyZGljdCgiYXVkaW8iLCBub3QgcmVhc29ucywgbSwgcmVhc29ucykKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOe7n+S4gOWFpeWPowojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgY2hlY2soYXJ0OiBBcnRpZmFjdCwgKiprdykgLT4gVmVyZGljdDoKICAgIGlmIGFydC5raW5kID09ICJpbWFnZSI6CiAgICAgICAgcmV0dXJuIGltYWdlKGFydCwgKiprdykKICAgIGlmIGFydC5raW5kID09ICJ2aWRlbyI6CiAgICAgICAgcmV0dXJuIHZpZGVvKGFydCwgKiprdykKICAgIGlmIGFydC5raW5kID09ICJhdWRpbyI6CiAgICAgICAgcmV0dXJuIGF1ZGlvKGFydCwgKiprdykKICAgIHJldHVybiB2ZXJkaWN0KGFydC5raW5kLCBGYWxzZSwge30sIFtmIuayoeaciSB7YXJ0LmtpbmR9IOeahOWIpOWumuWZqO+8iOS4jeWBh+ijheWIpOi/h++8iSJdKQo=
+"""判定层。
+
+这是本包与"大模型也能生成"的分界所在。三条硬规则：
+
+  R1 判定只读**产物本身**（像素 / 采样 / 字节），绝不读生成时传入的 spec。
+     读 spec 等于让生成层给自己发合格证。
+  R2 失败必须指出**具体哪个指标**越界，禁止返回"看起来不太好"。
+     没有指标的失败不可复现，也不可修复。
+  R3 判定层自身要被自检（selftest.py），否则它就是一个会静默失效的仪表。
+
+每一类产物的"合格"都被拆成可观测指标，且**刻意包含能抓住空壳的检查**：
+一张纯白图、一段静音音频、一帧黑屏视频，都必须在对应判定里 FAIL。
+"""
+from __future__ import annotations
+
+import os
+
+import numpy as np
+
+from .artifact import Artifact, Verdict, verdict
+from . import video as _video
+from . import audio as _audio
+
+
+# ---------------------------------------------------------------------------
+# 图片
+# ---------------------------------------------------------------------------
+def image(art: Artifact, min_ink: float = 0.002,
+          min_colors: int = 2, min_side: int = 64) -> Verdict:
+    """判定一张图是不是真渲染出来了。
+
+    `ink_ratio` 抓的是"全是背景"——纯白图的值接近 0。
+    `distinct_colors` 抓的是"渲染失败只剩一个色块"。
+    """
+    reasons, m = [], {}
+    if not art.exists:
+        return verdict("image", False, {"exists": False},
+                       ["文件不存在: " + art.path])
+
+    from PIL import Image
+    try:
+        im = Image.open(art.path).convert("RGB")
+    except Exception as e:
+        return verdict("image", False, {"open": False}, [f"打不开: {e}"])
+
+    w, h = im.size
+    a = np.asarray(im).astype(np.int16)
+    m.update({"width": w, "height": h, "bytes": art.size})
+
+    if min(w, h) < min_side:
+        reasons.append(f"尺寸过小 {w}x{h} < {min_side}")
+
+    # 背景色 = 出现最多的颜色；ink = 偏离背景超过阈值的像素占比
+    flat = a.reshape(-1, 3)
+    # 量化后找众数，避免 255,255,255 与 254,255,255 被算成两种色
+    q = (flat // 16)
+    keys, counts = np.unique(q, axis=0, return_counts=True)
+    bg = keys[counts.argmax()] * 16
+    dist = np.abs(flat - bg).sum(axis=1)
+    ink = float((dist > 30).mean())
+    m["ink_ratio"] = round(ink, 5)
+
+    ncol = int(len(np.unique(q, axis=0)))
+    m["distinct_colors"] = ncol
+
+    if ink < min_ink:
+        reasons.append(f"几乎无内容 ink_ratio={ink:.5f} < {min_ink}（可能是纯背景空图）")
+    if ncol < min_colors:
+        reasons.append(f"颜色数过少 {ncol} < {min_colors}（可能是单色块）")
+
+    art.probed.update(m)
+    return verdict("image", not reasons, m, reasons)
+
+
+# ---------------------------------------------------------------------------
+# 视频
+# ---------------------------------------------------------------------------
+def video(art: Artifact, min_seconds: float = 0.5,
+          min_motion: float = 0.004, min_side: int = 64) -> Verdict:
+    """判定一段视频是不是真的有画面、且在动。
+
+    两条能抓住空壳的检查：
+      - `duration` 抓"压根没编出来"
+      - `motion` 抓"编出来了但每帧都一样"（图片轮播的退化形态）
+    """
+    reasons, m = [], {}
+    if not art.exists:
+        return verdict("video", False, {"exists": False}, ["文件不存在: " + art.path])
+
+    info = _video.probe(art.path)
+    m.update({k: v for k, v in info.items() if v is not None})
+    m["bytes"] = art.size
+
+    dur = None
+    if info.get("duration"):
+        try:
+            dur = float(info["duration"])
+        except (TypeError, ValueError):
+            dur = None
+    if dur is None and info.get("frames") and info.get("fps"):
+        try:
+            num, den = str(info["fps"]).split("/")
+            fps = float(num) / float(den) if float(den) else 0.0
+            dur = int(info["frames"]) / fps if fps else None
+        except Exception:
+            dur = None
+    if dur is not None:
+        m["seconds"] = round(dur, 3)
+        if dur < min_seconds:
+            reasons.append(f"时长过短 {dur:.3f}s < {min_seconds}s")
+
+    w, h = info.get("width"), info.get("height")
+    if w and h and min(int(w), int(h)) < min_side:
+        reasons.append(f"分辨率过低 {w}x{h}")
+
+    # 抽帧算帧间差。抽不到必须 FAIL，不能静默放行 ——
+    # 一个抓不到"静止视频"的判定器等于没有判定器，而它失效时看起来
+    # 和通过一模一样（都是 ok=True）。这是本层最容易坏的地方。
+    motion = _frame_motion(art.path, samples=8, duration=dur)
+    if motion is None:
+        reasons.append("抽帧失败，无法判定画面是否在变化（不猜，判 FAIL）")
+    else:
+        m["motion"] = round(motion, 5)
+        if motion < min_motion:
+            reasons.append(
+                f"帧间几乎无变化 motion={motion:.5f} < {min_motion}（可能是静止图当视频）")
+
+    art.probed.update(m)
+    return verdict("video", not reasons, m, reasons)
+
+
+def _frame_motion(path: str, samples: int = 8, duration: float | None = None):
+    """按视频全长等距抽帧，算平均帧间差。返回 None 表示抽帧失败（不猜）。
+
+    采样间隔必须由时长算出来，不能写死 fps。写死会出这种错：2 秒视频按
+    `fps=1/2` 只抽到 1 帧，于是"帧间差"无从计算，判定器静默放行 —— 而
+    静止视频恰好是它最该抓住的东西。
+    """
+    import shutil
+    import subprocess
+    import tempfile
+    exe = shutil.which("ffmpeg")
+    if not exe:
+        return None
+    from PIL import Image
+    # 把 samples 帧铺满全长：间隔 = 时长 / 帧数；时长未知就按 1 帧/秒兜底
+    if duration and duration > 0:
+        fps = max(0.5, samples / float(duration))
+    else:
+        fps = 1.0
+    tmp = tempfile.mkdtemp(prefix="capver_")
+    try:
+        r = subprocess.run(
+            [exe, "-y", "-loglevel", "error", "-i", path,
+             "-vf", f"fps={fps:.3f},scale=64:36",
+             "-frames:v", str(samples), os.path.join(tmp, "s%02d.png")],
+            capture_output=True, text=True, timeout=40)
+        files = sorted(f for f in os.listdir(tmp) if f.endswith(".png"))
+        if len(files) < 2:
+            return None
+        arrs = []
+        for f in files:
+            arrs.append(np.asarray(Image.open(os.path.join(tmp, f))
+                                   .convert("L"), dtype=np.int16))
+        diffs = [float(np.abs(arrs[i + 1] - arrs[i]).mean()) / 255.0
+                 for i in range(len(arrs) - 1)]
+        return float(np.mean(diffs)) if diffs else None
+    except Exception:
+        return None
+    finally:
+        import shutil as sh
+        sh.rmtree(tmp, ignore_errors=True)
+
+
+# ---------------------------------------------------------------------------
+# 音频
+# ---------------------------------------------------------------------------
+def audio(art: Artifact, min_seconds: float = 0.2,
+          min_rms: float = 0.001, max_clip_run: int = 20) -> Verdict:
+    """判定一段音频是不是真有声、且没被削波。
+
+    `rms` 抓静音文件（值为 0）。
+    `clip_run` 抓削波：看最长的一段连续贴顶采样有多长（平顶平台）。
+
+    这里踩过两个坑，都写下来免得再踩：
+      1. 不能用 peak≈1.0 判削波 —— 满幅正弦的峰值本来就是 1.0，那是正常
+         响度。早期版本这么写，把每一段正常音频都判成了坏。
+      2. 也不能用贴顶占比 —— 满幅正弦的占比实测就有 2%，同样会误判。
+    削波真正的特征是平顶**连续成段**：硬截断会留下几十上百个采样精确
+    贴边的平台，而正弦每个周期只有孤立的一两个采样接近峰值。
+    """
+    reasons, m = [], {}
+    if not art.exists:
+        return verdict("audio", False, {"exists": False}, ["文件不存在: " + art.path])
+
+    if art.ext == "wav":
+        info = _audio.probe(art.path)
+        if not info:
+            return verdict("audio", False, {"open": False}, ["读不出 wav 头"])
+        m.update(info)
+    else:
+        # mp3 用 ffmpeg 转 wav 再读不划算，这里只读时长与码率等基本信息
+        import shutil
+        import subprocess
+        exe = shutil.which("ffprobe")
+        if exe:
+            try:
+                import json as _json
+                r = subprocess.run(
+                    [exe, "-v", "error", "-show_entries",
+                     "format=duration,bit_rate", "-of", "json", art.path],
+                    capture_output=True, text=True, timeout=20)
+                fm = _json.loads(r.stdout or "{}").get("format", {})
+                if fm.get("duration"):
+                    m["seconds"] = round(float(fm["duration"]), 3)
+                if fm.get("bit_rate"):
+                    m["bit_rate"] = int(fm["bit_rate"])
+            except Exception:
+                pass
+        m["bytes"] = art.size
+        m["note"] = "非 wav，rms/peak 未测（不猜）"
+
+    sec = m.get("seconds")
+    if sec is not None and sec < min_seconds:
+        reasons.append(f"时长过短 {sec}s < {min_seconds}s")
+
+    rms = m.get("rms")
+    if rms is not None:
+        if rms < min_rms:
+            reasons.append(f"接近静音 rms={rms} < {min_rms}")
+
+    run = m.get("clip_run")
+    if run is not None and run > max_clip_run:
+        reasons.append(
+            f"最长连续贴顶段 {run} 采样 > {max_clip_run}，波形被截断（削波失真）")
+
+    art.probed.update(m)
+    return verdict("audio", not reasons, m, reasons)
+
+
+# ---------------------------------------------------------------------------
+# 统一入口
+# ---------------------------------------------------------------------------
+def check(art: Artifact, **kw) -> Verdict:
+    if art.kind == "image":
+        return image(art, **kw)
+    if art.kind == "video":
+        return video(art, **kw)
+    if art.kind == "audio":
+        return audio(art, **kw)
+    return verdict(art.kind, False, {}, [f"没有 {art.kind} 的判定器（不假装判过）"])

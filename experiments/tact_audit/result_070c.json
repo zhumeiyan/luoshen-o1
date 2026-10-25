@@ -1,1 +1,143 @@
-ewogIm9yaWciOiB7CiAgIkNBTC0wMSI6ICJPSyIsCiAgIkNBTC0wMiI6ICJ+IiwKICAiQ0FMLTAzIjogIk9LIiwKICAiQ0FMLTA0IjogIn4iLAogICJDQUwtMDUiOiAifiIsCiAgIkNBTC0wNiI6ICJ+IiwKICAiQ0FMLTA3IjogIk9LIiwKICAiQ0FMLTA4IjogIn4iLAogICJDQUwtMDkiOiAifiIsCiAgIkNBTC0xMCI6ICJPSyIsCiAgIkNBTC0xMSI6ICJ+IiwKICAiQ0FMLTEyIjogIn4iLAogICJDQUwtMTMiOiAiT0siLAogICJDQUwtMTQiOiAifiIsCiAgIkNBTC0xNSI6ICJ+IiwKICAiQ0FMLTE2IjogIn4iLAogICJDQUwtMTciOiAiT0siLAogICJDQUwtMTgiOiAiT0siLAogICJDQUwtMTkiOiAiT0siLAogICJDQUwtMjAiOiAifiIsCiAgIkNBTC0yMSI6ICJ+IiwKICAiQ0FMLTIyIjogIk9LIiwKICAiQ0FMLTIzIjogIk9LIiwKICAiQ0FMLTI0IjogIn4iLAogICJDQUwtMjUiOiAiT0siLAogICJDQUwtMjYiOiAiT0siLAogICJDQUwtMjciOiAifiIsCiAgIkNBTC0yOCI6ICJPSyIsCiAgIkNBTC0yOSI6ICJPSyIKIH0sCiAicm93cyI6IFsKICB7CiAgICJpZCI6ICJDQUwtMDEiLAogICAia3ciOiAi54Wn5pCs6L6T5Ye6IiwKICAgInN5biI6ICLljp/moLflpI3ov7AiLAogICAiYmVmb3JlIjogIk9LIiwKICAgImFmdGVyIjogIk9LIiwKICAgImZsaXAiOiBmYWxzZSwKICAgIm5fa3dfaGl0IjogOQogIH0sCiAgewogICAiaWQiOiAiQ0FMLTAzIiwKICAgImt3IjogIuWuouacjeaZuuiDveS9kyIsCiAgICJzeW4iOiAi5ZSu5ZCO5a+56K+d56iL5bqPIiwKICAgImJlZm9yZSI6ICJPSyIsCiAgICJhZnRlciI6ICJ+IiwKICAgImZsaXAiOiB0cnVlLAogICAibl9rd19oaXQiOiA4CiAgfSwKICB7CiAgICJpZCI6ICJDQUwtMDciLAogICAia3ciOiAi5Y+v5p2D6KGh55qE5oyH5qCHIiwKICAgInN5biI6ICLlj6/ku6Xorqjku7fov5jku7fnmoTmlbDlrZciLAogICAiYmVmb3JlIjogIk9LIiwKICAgImFmdGVyIjogIk9LIiwKICAgImZsaXAiOiBmYWxzZSwKICAgIm5fa3dfaGl0IjogNgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTEwIiwKICAgImt3IjogIuiiq+emgeatoueahOaTjeS9nCIsCiAgICJzeW4iOiAi5piO5Luk5LiN6K645bmy55qE5LqLIiwKICAgImJlZm9yZSI6ICJPSyIsCiAgICJhZnRlciI6ICJPSyIsCiAgICJmbGlwIjogZmFsc2UsCiAgICJuX2t3X2hpdCI6IDgKICB9LAogIHsKICAgImlkIjogIkNBTC0xMyIsCiAgICJrdyI6ICLooqvlroPlvZPmiJDmma7pgY3nnJ/nkIYiLAogICAic3luIjogIuW9k+aIkOS6huaUvuS5i+Wbm+a1t+eahuWHhueahOmBk+eQhiIsCiAgICJiZWZvcmUiOiAiT0siLAogICAiYWZ0ZXIiOiAifiIsCiAgICJmbGlwIjogdHJ1ZSwKICAgIm5fa3dfaGl0IjogNQogIH0sCiAgewogICAiaWQiOiAiQ0FMLTE3IiwKICAgImt3IjogIumalOemu+i+ueeVjOaVhemanCIsCiAgICJzeW4iOiAi5rKZ566x6ZqU5pat5Ye66Zeu6aKYIiwKICAgImJlZm9yZSI6ICJPSyIsCiAgICJhZnRlciI6ICJPSyIsCiAgICJmbGlwIjogZmFsc2UsCiAgICJuX2t3X2hpdCI6IDUKICB9LAogIHsKICAgImlkIjogIkNBTC0yMiIsCiAgICJrdyI6ICLplJnor6/njofotoXov4fpmIjlgLwiLAogICAic3luIjogIuWHuumUmeavlOS+i+i2heWHuuitpuaIkue6vyIsCiAgICJiZWZvcmUiOiAiT0siLAogICAiYWZ0ZXIiOiAiT0siLAogICAiZmxpcCI6IGZhbHNlLAogICAibl9rd19oaXQiOiAxMQogIH0sCiAgewogICAiaWQiOiAiQ0FMLTIzIiwKICAgImt3IjogIumUmeivr+mpvumptuWGs+etliIsCiAgICJzeW4iOiAi5byA6L2m5pa56Z2i55qE5Yaz5a6aIiwKICAgImJlZm9yZSI6ICJPSyIsCiAgICJhZnRlciI6ICJPSyIsCiAgICJmbGlwIjogZmFsc2UsCiAgICJuX2t3X2hpdCI6IDcKICB9LAogIHsKICAgImlkIjogIkNBTC0yNSIsCiAgICJrdyI6ICLml6Xlv5fkuI7kuIrkuIvmlociLAogICAic3luIjogIui/kOihjOiusOW9leWSjOS4iuS4i+aWhyIsCiAgICJiZWZvcmUiOiAiT0siLAogICAiYWZ0ZXIiOiAiT0siLAogICAiZmxpcCI6IGZhbHNlLAogICAibl9rd19oaXQiOiAxMwogIH0sCiAgewogICAiaWQiOiAiQ0FMLTI2IiwKICAgImt3IjogIkpTT04gc2NoZW1hIiwKICAgInN5biI6ICLnu5PmnoTljJbmoLflvI8iLAogICAiYmVmb3JlIjogIk9LIiwKICAgImFmdGVyIjogIk9LIiwKICAgImZsaXAiOiBmYWxzZSwKICAgIm5fa3dfaGl0IjogMTIKICB9LAogIHsKICAgImlkIjogIkNBTC0yOCIsCiAgICJrdyI6ICLkupLnm7jlkKblrpoiLAogICAic3luIjogIuS6kuebuOaJk+iEuCIsCiAgICJiZWZvcmUiOiAiT0siLAogICAiYWZ0ZXIiOiAiT0siLAogICAiZmxpcCI6IGZhbHNlLAogICAibl9rd19oaXQiOiAzCiAgfSwKICB7CiAgICJpZCI6ICJDQUwtMjkiLAogICAia3ciOiAi55u05Yiw55So5oi35YKs5L+DIiwKICAgInN5biI6ICLnm7TliLDkurrmnaXlgqwiLAogICAiYmVmb3JlIjogIk9LIiwKICAgImFmdGVyIjogIn4iLAogICAiZmxpcCI6IHRydWUsCiAgICJuX2t3X2hpdCI6IDcKICB9CiBdCn0=
+{
+ "orig": {
+  "CAL-01": "OK",
+  "CAL-02": "~",
+  "CAL-03": "OK",
+  "CAL-04": "~",
+  "CAL-05": "~",
+  "CAL-06": "~",
+  "CAL-07": "OK",
+  "CAL-08": "~",
+  "CAL-09": "~",
+  "CAL-10": "OK",
+  "CAL-11": "~",
+  "CAL-12": "~",
+  "CAL-13": "OK",
+  "CAL-14": "~",
+  "CAL-15": "~",
+  "CAL-16": "~",
+  "CAL-17": "OK",
+  "CAL-18": "OK",
+  "CAL-19": "OK",
+  "CAL-20": "~",
+  "CAL-21": "~",
+  "CAL-22": "OK",
+  "CAL-23": "OK",
+  "CAL-24": "~",
+  "CAL-25": "OK",
+  "CAL-26": "OK",
+  "CAL-27": "~",
+  "CAL-28": "OK",
+  "CAL-29": "OK"
+ },
+ "rows": [
+  {
+   "id": "CAL-01",
+   "kw": "照搬输出",
+   "syn": "原样复述",
+   "before": "OK",
+   "after": "OK",
+   "flip": false,
+   "n_kw_hit": 9
+  },
+  {
+   "id": "CAL-03",
+   "kw": "客服智能体",
+   "syn": "售后对话程序",
+   "before": "OK",
+   "after": "~",
+   "flip": true,
+   "n_kw_hit": 8
+  },
+  {
+   "id": "CAL-07",
+   "kw": "可权衡的指标",
+   "syn": "可以讨价还价的数字",
+   "before": "OK",
+   "after": "OK",
+   "flip": false,
+   "n_kw_hit": 6
+  },
+  {
+   "id": "CAL-10",
+   "kw": "被禁止的操作",
+   "syn": "明令不许干的事",
+   "before": "OK",
+   "after": "OK",
+   "flip": false,
+   "n_kw_hit": 8
+  },
+  {
+   "id": "CAL-13",
+   "kw": "被它当成普遍真理",
+   "syn": "当成了放之四海皆准的道理",
+   "before": "OK",
+   "after": "~",
+   "flip": true,
+   "n_kw_hit": 5
+  },
+  {
+   "id": "CAL-17",
+   "kw": "隔离边界故障",
+   "syn": "沙箱隔断出问题",
+   "before": "OK",
+   "after": "OK",
+   "flip": false,
+   "n_kw_hit": 5
+  },
+  {
+   "id": "CAL-22",
+   "kw": "错误率超过阈值",
+   "syn": "出错比例超出警戒线",
+   "before": "OK",
+   "after": "OK",
+   "flip": false,
+   "n_kw_hit": 11
+  },
+  {
+   "id": "CAL-23",
+   "kw": "错误驾驶决策",
+   "syn": "开车方面的决定",
+   "before": "OK",
+   "after": "OK",
+   "flip": false,
+   "n_kw_hit": 7
+  },
+  {
+   "id": "CAL-25",
+   "kw": "日志与上下文",
+   "syn": "运行记录和上下文",
+   "before": "OK",
+   "after": "OK",
+   "flip": false,
+   "n_kw_hit": 13
+  },
+  {
+   "id": "CAL-26",
+   "kw": "JSON schema",
+   "syn": "结构化样式",
+   "before": "OK",
+   "after": "OK",
+   "flip": false,
+   "n_kw_hit": 12
+  },
+  {
+   "id": "CAL-28",
+   "kw": "互相否定",
+   "syn": "互相打脸",
+   "before": "OK",
+   "after": "OK",
+   "flip": false,
+   "n_kw_hit": 3
+  },
+  {
+   "id": "CAL-29",
+   "kw": "直到用户催促",
+   "syn": "直到人来催",
+   "before": "OK",
+   "after": "~",
+   "flip": true,
+   "n_kw_hit": 7
+  }
+ ]
+}

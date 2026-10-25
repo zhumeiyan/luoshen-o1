@@ -1,1 +1,44 @@
-IiIiQ29uc3RhbnRzIGZvciByYWluYmlyZC4iIiIKCmZyb20gZW51bSBpbXBvcnQgSW50RW51bQoKCmNsYXNzIERheU9mV2VlayhJbnRFbnVtKToKICAgICIiIkRheSBvZiB0aGUgd2Vlay4iIiIKCiAgICBTVU5EQVkgPSAwCiAgICAiIiJTdW5kYXkuIiIiCgogICAgTU9OREFZID0gMQogICAgIiIiTW9uZGF5LiIiIgoKICAgIFRVRVNEQVkgPSAyCiAgICAiIiJUdWVzZGF5LiIiIgoKICAgIFdFRE5FU0RBWSA9IDMKICAgICIiIldlZG5lc2RheS4iIiIKCiAgICBUSFVSU0RBWSA9IDQKICAgICIiIlRodXJzZGF5LiIiIgoKICAgIEZSSURBWSA9IDUKICAgICIiIkZyaWRheS4iIiIKCiAgICBTQVRVUkRBWSA9IDYKICAgICIiIlNhdHVyZGF5LiIiIgoKCmNsYXNzIFByb2dyYW1GcmVxdWVuY3koSW50RW51bSk6CiAgICAiIiJQcm9ncmFtIGZyZXF1ZW5jeS4iIiIKCiAgICBDVVNUT00gPSAwCiAgICAiIiJBIGN1c3RvbSBzY2hlZHVsZSB3aXRoIHNwZWNpZmljIGRheXMgb2YgdGhlIHdlZWsuIiIiCgogICAgQ1lDTElDID0gMQogICAgIiIiQSBzY2hlZHVsZSB0aGF0IGN5Y2xlcyBldmVyeSBOIGRheXMuIiIiCgogICAgT0REID0gMgogICAgIiIiQSBzY2hlZHVsZSB0aGF0IHJ1bnMgb24gb2RkIGRheXMuIiIiCgogICAgRVZFTiA9IDMKICAgICIiIkEgc2NoZWR1bGUgdGhhdCBydW5zIG9uIGV2ZW50IGRheXMuIiIiCg==
+"""Constants for rainbird."""
+
+from enum import IntEnum
+
+
+class DayOfWeek(IntEnum):
+    """Day of the week."""
+
+    SUNDAY = 0
+    """Sunday."""
+
+    MONDAY = 1
+    """Monday."""
+
+    TUESDAY = 2
+    """Tuesday."""
+
+    WEDNESDAY = 3
+    """Wednesday."""
+
+    THURSDAY = 4
+    """Thursday."""
+
+    FRIDAY = 5
+    """Friday."""
+
+    SATURDAY = 6
+    """Saturday."""
+
+
+class ProgramFrequency(IntEnum):
+    """Program frequency."""
+
+    CUSTOM = 0
+    """A custom schedule with specific days of the week."""
+
+    CYCLIC = 1
+    """A schedule that cycles every N days."""
+
+    ODD = 2
+    """A schedule that runs on odd days."""
+
+    EVEN = 3
+    """A schedule that runs on event days."""

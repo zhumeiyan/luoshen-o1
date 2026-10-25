@@ -1,1 +1,184 @@
-aW1wb3J0IHBhbmRhcyBhcyBwZApmcm9tIGdsb2IgaW1wb3J0IGdsb2IKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBSZWFkIHNpbmdsZSBDU1YgZmlsZQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnNpbmdsZV9maWxlX2FjYyA9IHBkLnJlYWRfY3N2KAogICAgImRhdGEvcmF3L01ldGFNb3Rpb24vQS1iZW5jaC1oZWF2eV9NZXRhV2Vhcl8yMDE5LTAxLTE0VDE0LjIyLjQ5LjE2NV9DNDI3MzJCRTI1NUNfQWNjZWxlcm9tZXRlcl8xMi41MDBIel8xLjQuNC5jc3YiCikKc2luZ2xlX2ZpbGVfZ3lyID0gcGQucmVhZF9jc3YoCiAgICAiZGF0YS9yYXcvTWV0YU1vdGlvbi9BLWJlbmNoLWhlYXZ5X01ldGFXZWFyXzIwMTktMDEtMTRUMTQuMjIuNDkuMTY1X0M0MjczMkJFMjU1Q19HeXJvc2NvcGVfMjUuMDAwSHpfMS40LjQuY3N2IgopCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgTGlzdCBhbGwgZGF0YSBpbiBkYXRhL3Jhdy9NZXRhTW90aW9uCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZmlsZXMgPSBnbG9iKCJkYXRhL3Jhdy9NZXRhTW90aW9uLyouY3N2IikKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBFeHRyYWN0IGZlYXR1cmVzIGZyb20gZmlsZW5hbWUKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpmID0gZmlsZXNbMTBdCgpwYXJ0aWNpcGFudHMgPSBmLnNwbGl0KCItIilbMF0ucmVwbGFjZSgiZGF0YS9yYXcvTWV0YU1vdGlvblxcIiwgIiIpCmxhYmxlID0gZi5zcGxpdCgiLSIpWzFdCmNhdGFnb3J5ID0gZi5zcGxpdCgiLSIpWzJdLnJzdHJpcCgiMTIzNDUiKS5yc3RyaXAoIl9NZXRhV2Vhcl8yMDE5IikKCmRmID0gcGQucmVhZF9jc3YoZikKCmRmWyJwYXJ0aWNpcGFudHMiXSA9IHBhcnRpY2lwYW50cwpkZlsibGFibGUiXSA9IGxhYmxlCmRmWyJjYXRhZ29yeSJdID0gY2F0YWdvcnkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgUmVhZCBhbGwgZmlsZXMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKYWNjX2RmID0gcGQuRGF0YUZyYW1lKCkKZ3lyX2RmID0gcGQuRGF0YUZyYW1lKCkKCmFjY19zZXQgPSAxCmd5cl9zZXQgPSAxCgpmb3IgZiBpbiBmaWxlczoKICAgIHBhcnRpY2lwYW50cyA9IGYuc3BsaXQoIi0iKVswXS5yZXBsYWNlKCJkYXRhL3Jhdy9NZXRhTW90aW9uXFwiLCAiIikKICAgIGxhYmxlID0gZi5zcGxpdCgiLSIpWzFdCiAgICBjYXRhZ29yeSA9IGYuc3BsaXQoIi0iKVsyXS5yc3RyaXAoIjEyMzQ1IikucnN0cmlwKCJfTWV0YVdlYXJfMjAxOSIpCgogICAgZGYgPSBwZC5yZWFkX2NzdihmKQoKICAgIGRmWyJwYXJ0aWNpcGFudHMiXSA9IHBhcnRpY2lwYW50cwogICAgZGZbImxhYmxlIl0gPSBsYWJsZQogICAgZGZbImNhdGFnb3J5Il0gPSBjYXRhZ29yeQoKICAgIGlmICJBY2NlbGVyb21ldGVyIiBpbiBmOgogICAgICAgIGRmWyJzZXQiXSA9IGFjY19zZXQKICAgICAgICBhY2NfZGYgPSBwZC5jb25jYXQoW2FjY19kZiwgZGZdKQogICAgICAgIGFjY19zZXQgKz0gMQoKICAgIGlmICJHeXJvc2NvcGUiIGluIGY6CiAgICAgICAgZGZbInNldCJdID0gZ3lyX3NldAogICAgICAgIGd5cl9kZiA9IHBkLmNvbmNhdChbZ3lyX2RmLCBkZl0pCiAgICAgICAgZ3lyX3NldCArPSAxCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIFdvcmtpbmcgd2l0aCBkYXRldGltZXMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKYWNjX2RmLmluZGV4ID0gcGQudG9fZGF0ZXRpbWUoYWNjX2RmWyJlcG9jaCAobXMpIl0sIHVuaXQ9Im1zIikKZ3lyX2RmLmluZGV4ID0gcGQudG9fZGF0ZXRpbWUoZ3lyX2RmWyJlcG9jaCAobXMpIl0sIHVuaXQ9Im1zIikKCmRlbCBhY2NfZGZbImVwb2NoIChtcykiXQpkZWwgYWNjX2RmWyJ0aW1lICgwMTowMCkiXQpkZWwgYWNjX2RmWyJlbGFwc2VkIChzKSJdCgpkZWwgZ3lyX2RmWyJlcG9jaCAobXMpIl0KZGVsIGd5cl9kZlsidGltZSAoMDE6MDApIl0KZGVsIGd5cl9kZlsiZWxhcHNlZCAocykiXQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBUdXJuIGludG8gZnVuY3Rpb24KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKZmlsZXMgPSBnbG9iKCJkYXRhL3Jhdy9NZXRhTW90aW9uLyouY3N2IikKCgpkZWYgcmVhZF9kYXRhX2Zyb21fZmlsZXMoZmlsZXMpOgogICAgYWNjX2RmID0gcGQuRGF0YUZyYW1lKCkKCiAgICBneXJfZGYgPSBwZC5EYXRhRnJhbWUoKQoKICAgIGFjY19zZXQgPSAxCiAgICBneXJfc2V0ID0gMQoKICAgIGZvciBmIGluIGZpbGVzOgogICAgICAgIHBhcnRpY2lwYW50cyA9IGYuc3BsaXQoIi0iKVswXS5yZXBsYWNlKCJkYXRhL3Jhdy9NZXRhTW90aW9uXFwiLCAiIikKICAgICAgICBsYWJsZSA9IGYuc3BsaXQoIi0iKVsxXQogICAgICAgIGNhdGFnb3J5ID0gZi5zcGxpdCgiLSIpWzJdLnJzdHJpcCgiMTIzNDUiKS5yc3RyaXAoIl9NZXRhV2Vhcl8yMDE5IikKCiAgICAgICAgZGYgPSBwZC5yZWFkX2NzdihmKQoKICAgICAgICBkZlsicGFydGljaXBhbnRzIl0gPSBwYXJ0aWNpcGFudHMKICAgICAgICBkZlsibGFibGUiXSA9IGxhYmxlCiAgICAgICAgZGZbImNhdGFnb3J5Il0gPSBjYXRhZ29yeQoKICAgICAgICBpZiAiQWNjZWxlcm9tZXRlciIgaW4gZjoKICAgICAgICAgICAgZGZbInNldCJdID0gYWNjX3NldAogICAgICAgICAgICBhY2NfZGYgPSBwZC5jb25jYXQoW2FjY19kZiwgZGZdKQogICAgICAgICAgICBhY2Nfc2V0ICs9IDEKCiAgICAgICAgaWYgIkd5cm9zY29wZSIgaW4gZjoKICAgICAgICAgICAgZGZbInNldCJdID0gZ3lyX3NldAogICAgICAgICAgICBneXJfZGYgPSBwZC5jb25jYXQoW2d5cl9kZiwgZGZdKQogICAgICAgICAgICBneXJfc2V0ICs9IDEKCiAgICBhY2NfZGYuaW5kZXggPSBwZC50b19kYXRldGltZShhY2NfZGZbImVwb2NoIChtcykiXSwgdW5pdD0ibXMiKQoKICAgIGd5cl9kZi5pbmRleCA9IHBkLnRvX2RhdGV0aW1lKGd5cl9kZlsiZXBvY2ggKG1zKSJdLCB1bml0PSJtcyIpCgogICAgZGVsIGFjY19kZlsiZXBvY2ggKG1zKSJdCiAgICBkZWwgYWNjX2RmWyJ0aW1lICgwMTowMCkiXQogICAgZGVsIGFjY19kZlsiZWxhcHNlZCAocykiXQoKICAgIGRlbCBneXJfZGZbImVwb2NoIChtcykiXQogICAgZGVsIGd5cl9kZlsidGltZSAoMDE6MDApIl0KICAgIGRlbCBneXJfZGZbImVsYXBzZWQgKHMpIl0KCiAgICByZXR1cm4gYWNjX2RmLCBneXJfZGYKCgphY2NfZGYsIGd5cl9kZiA9IHJlYWRfZGF0YV9mcm9tX2ZpbGVzKGZpbGVzKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIE1lcmdpbmcgZGF0YXNldHMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkYXRhX21lcmdlID0gcGQuY29uY2F0KFthY2NfZGYuaWxvY1s6LCA6M10sIGd5cl9kZl0sIGF4aXM9MSkKCmRhdGFfbWVyZ2UuY29sdW1ucyA9IFsKICAgICJhY2NfeCIsCiAgICAiYWNjX3kiLAogICAgImFjY196IiwKICAgICJneXJfeCIsCiAgICAiZ3lyX3kiLAogICAgImd5cl96IiwKICAgICJwYXJ0aWNpcGFudHMiLAogICAgImxhYmxlIiwKICAgICJjYXRhZ29yeSIsCiAgICAic2V0IiwKXQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIFJlc2FtcGxlIGRhdGEgKGZyZXF1ZW5jeSBjb252ZXJzaW9uKQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgojIEFjY2VsZXJvbWV0ZXI6ICAgIDEyLjUwMEhaCiMgR3lyb3Njb3BlOiAgICAgICAgMjUuMDAwSHoKCnNhbXBsaW5nID0gewogICAgImFjY194IjogIm1lYW4iLAogICAgImFjY195IjogIm1lYW4iLAogICAgImFjY196IjogIm1lYW4iLAogICAgImd5cl94IjogIm1lYW4iLAogICAgImd5cl95IjogIm1lYW4iLAogICAgImd5cl96IjogIm1lYW4iLAogICAgInBhcnRpY2lwYW50cyI6ICJsYXN0IiwKICAgICJsYWJsZSI6ICJsYXN0IiwKICAgICJjYXRhZ29yeSI6ICJsYXN0IiwKICAgICJzZXQiOiAibGFzdCIsCn0KCmRhdGFfbWVyZ2UucmVzYW1wbGUocnVsZT0iMjAwbXMiKS5hcHBseShzYW1wbGluZykKCmRheXMgPSBbIGcgZm9yIG4sIGcgaW4gZGF0YV9tZXJnZS5ncm91cGJ5KHBkLkdyb3VwZXIoZnJlcT0iRCIpKSBdCgpkYXRhX3Jlc2FtcGxlID0gcGQuY29uY2F0KGRmLnJlc2FtcGxlKHJ1bGU9IjIwMG1zIikuYXBwbHkoc2FtcGxpbmcpLmRyb3BuYSgpIGZvciBkZiBpbiBkYXlzKQpkYXRhX3Jlc2FtcGxlWyJzZXQiXSA9IGRhdGFfcmVzYW1wbGVbInNldCJdLmFzdHlwZSgiaW50IikKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBFeHBvcnQgZGF0YXNldAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmRhdGFfcmVzYW1wbGUudG9fcGlja2xlKCJkYXRhL2ludGVyaW0vZGF0YV9wcm9jZXNzZWQucGtsIik=
+import pandas as pd
+from glob import glob
+
+# --------------------------------------------------------------
+# Read single CSV file
+# --------------------------------------------------------------
+single_file_acc = pd.read_csv(
+    "data/raw/MetaMotion/A-bench-heavy_MetaWear_2019-01-14T14.22.49.165_C42732BE255C_Accelerometer_12.500Hz_1.4.4.csv"
+)
+single_file_gyr = pd.read_csv(
+    "data/raw/MetaMotion/A-bench-heavy_MetaWear_2019-01-14T14.22.49.165_C42732BE255C_Gyroscope_25.000Hz_1.4.4.csv"
+)
+
+# --------------------------------------------------------------
+# List all data in data/raw/MetaMotion
+# --------------------------------------------------------------
+files = glob("data/raw/MetaMotion/*.csv")
+
+# --------------------------------------------------------------
+# Extract features from filename
+# --------------------------------------------------------------
+f = files[10]
+
+participants = f.split("-")[0].replace("data/raw/MetaMotion\\", "")
+lable = f.split("-")[1]
+catagory = f.split("-")[2].rstrip("12345").rstrip("_MetaWear_2019")
+
+df = pd.read_csv(f)
+
+df["participants"] = participants
+df["lable"] = lable
+df["catagory"] = catagory
+
+
+# --------------------------------------------------------------
+# Read all files
+# --------------------------------------------------------------
+
+acc_df = pd.DataFrame()
+gyr_df = pd.DataFrame()
+
+acc_set = 1
+gyr_set = 1
+
+for f in files:
+    participants = f.split("-")[0].replace("data/raw/MetaMotion\\", "")
+    lable = f.split("-")[1]
+    catagory = f.split("-")[2].rstrip("12345").rstrip("_MetaWear_2019")
+
+    df = pd.read_csv(f)
+
+    df["participants"] = participants
+    df["lable"] = lable
+    df["catagory"] = catagory
+
+    if "Accelerometer" in f:
+        df["set"] = acc_set
+        acc_df = pd.concat([acc_df, df])
+        acc_set += 1
+
+    if "Gyroscope" in f:
+        df["set"] = gyr_set
+        gyr_df = pd.concat([gyr_df, df])
+        gyr_set += 1
+
+
+# --------------------------------------------------------------
+# Working with datetimes
+# --------------------------------------------------------------
+
+acc_df.index = pd.to_datetime(acc_df["epoch (ms)"], unit="ms")
+gyr_df.index = pd.to_datetime(gyr_df["epoch (ms)"], unit="ms")
+
+del acc_df["epoch (ms)"]
+del acc_df["time (01:00)"]
+del acc_df["elapsed (s)"]
+
+del gyr_df["epoch (ms)"]
+del gyr_df["time (01:00)"]
+del gyr_df["elapsed (s)"]
+
+
+# --------------------------------------------------------------
+# Turn into function
+# --------------------------------------------------------------
+
+files = glob("data/raw/MetaMotion/*.csv")
+
+
+def read_data_from_files(files):
+    acc_df = pd.DataFrame()
+
+    gyr_df = pd.DataFrame()
+
+    acc_set = 1
+    gyr_set = 1
+
+    for f in files:
+        participants = f.split("-")[0].replace("data/raw/MetaMotion\\", "")
+        lable = f.split("-")[1]
+        catagory = f.split("-")[2].rstrip("12345").rstrip("_MetaWear_2019")
+
+        df = pd.read_csv(f)
+
+        df["participants"] = participants
+        df["lable"] = lable
+        df["catagory"] = catagory
+
+        if "Accelerometer" in f:
+            df["set"] = acc_set
+            acc_df = pd.concat([acc_df, df])
+            acc_set += 1
+
+        if "Gyroscope" in f:
+            df["set"] = gyr_set
+            gyr_df = pd.concat([gyr_df, df])
+            gyr_set += 1
+
+    acc_df.index = pd.to_datetime(acc_df["epoch (ms)"], unit="ms")
+
+    gyr_df.index = pd.to_datetime(gyr_df["epoch (ms)"], unit="ms")
+
+    del acc_df["epoch (ms)"]
+    del acc_df["time (01:00)"]
+    del acc_df["elapsed (s)"]
+
+    del gyr_df["epoch (ms)"]
+    del gyr_df["time (01:00)"]
+    del gyr_df["elapsed (s)"]
+
+    return acc_df, gyr_df
+
+
+acc_df, gyr_df = read_data_from_files(files)
+
+# --------------------------------------------------------------
+# Merging datasets
+# --------------------------------------------------------------
+data_merge = pd.concat([acc_df.iloc[:, :3], gyr_df], axis=1)
+
+data_merge.columns = [
+    "acc_x",
+    "acc_y",
+    "acc_z",
+    "gyr_x",
+    "gyr_y",
+    "gyr_z",
+    "participants",
+    "lable",
+    "catagory",
+    "set",
+]
+
+# --------------------------------------------------------------
+# Resample data (frequency conversion)
+# --------------------------------------------------------------
+
+# Accelerometer:    12.500HZ
+# Gyroscope:        25.000Hz
+
+sampling = {
+    "acc_x": "mean",
+    "acc_y": "mean",
+    "acc_z": "mean",
+    "gyr_x": "mean",
+    "gyr_y": "mean",
+    "gyr_z": "mean",
+    "participants": "last",
+    "lable": "last",
+    "catagory": "last",
+    "set": "last",
+}
+
+data_merge.resample(rule="200ms").apply(sampling)
+
+days = [ g for n, g in data_merge.groupby(pd.Grouper(freq="D")) ]
+
+data_resample = pd.concat(df.resample(rule="200ms").apply(sampling).dropna() for df in days)
+data_resample["set"] = data_resample["set"].astype("int")
+
+# --------------------------------------------------------------
+# Export dataset
+# --------------------------------------------------------------
+data_resample.to_pickle("data/interim/data_processed.pkl")

@@ -1,1 +1,15 @@
-ewogICJjYXNlIjogIuetm+mAieOAjuiwgeiuqeWNleOAj+aXtu+8jOiEmuacrOaKpSAjMjIwNiDimIXmnInkurrorqnljZUg4oCU4oCUIOi/meaYr+ecn+eahOWQlyIsCiAgImNoYW5uZWxfYSI6IHsibGFiZWwiOiAiY29kZU5pbmphNjIg5a6e6ZmF6KGo5oCBIiwgInZhbHVlIjogMCwgInVuaXQiOiAi5p2hIn0sCiAgImNoYW5uZWxfYiI6IHsibGFiZWwiOiAi6ISa5pys5Yik5a6a55qE6K6p5Y2V5L+h5Y+3IiwgInZhbHVlIjogMSwgInVuaXQiOiAi5p2hIn0sCiAgInRvbGVyYW5jZSI6IDAsCiAgInBhcmFtcyI6IFsKICAgIHsibmFtZSI6ICLkv6Hlj7fmnaXmupAgPSDmiJHoh6rlt7HlnKggIzIyMDYg6YeM5byV6L+w55qE6KeE5YiZICdJIGRvIG5vdCB3YW50IHRvIGNhcnJ5IG91dCB0aGUgZml4JyIsICJzcmMiOiAi5oiR55qE6K+E6K66In0KICBdLAogICJhYmxhdGlvbl9pbnNpZGVfbW9kZWxfb25seSI6IHRydWUsCiAgInJhbl9yZWFsX3N5c3RlbSI6IHRydWUsCiAgImRlY2xhcmVkX3Vua25vd25zIjogWwogICAgIuaIkeaKiuinhOWImeW8lei/sOS6huS4gOmBje+8jOajgOa1i+iEmuacrOivu+WIsOiHquW3seeahOi+k+WHuu+8jOaKiuWug+W9k+aIkOecn+ihqOaAgSIsCiAgICAi6Lef56ysNumil+aYn++8iOWuoeiuoeWZqOaJq+WIsOiHquW3se+8ieaYr+WQjOS4gOexu++8muajgOa1i+WZqOaxoeafkyIKICBdCn0K
+{
+  "case": "筛选『谁让单』时，脚本报 #2206 ★有人让单 —— 这是真的吗",
+  "channel_a": {"label": "codeNinja62 实际表态", "value": 0, "unit": "条"},
+  "channel_b": {"label": "脚本判定的让单信号", "value": 1, "unit": "条"},
+  "tolerance": 0,
+  "params": [
+    {"name": "信号来源 = 我自己在 #2206 里引述的规则 'I do not want to carry out the fix'", "src": "我的评论"}
+  ],
+  "ablation_inside_model_only": true,
+  "ran_real_system": true,
+  "declared_unknowns": [
+    "我把规则引述了一遍，检测脚本读到自己的输出，把它当成真表态",
+    "跟第6颗星（审计器扫到自己）是同一类：检测器污染"
+  ]
+}

@@ -1,1 +1,337 @@
-IiIiT1JNIG1vZGVsIGZvciB0aGUgYGBub2RlX3NhbXBsZXNgYCB0YWJsZSAobGF5ZXIgNzogdGhlIGJveGVzLCBub3QgdGhlIGNhbGxzKS4KCk9uZSByb3cgcGVyICoqc2NyYXBlKiosIGkuZS4gcGVyIGBgKG5vZGUsIHNvdXJjZSwgYXRfbXMpYGAuIEEgbm9kZSBpcyB0aGUKb3BlcmF0b3IncyBvd24gbmFtZSBmb3IgYSB0YXJnZXQgKGBgc2Z1LTFgYCksIGFuZCB0aGUgc2FtZSBub2RlIGlzIHVzdWFsbHkKc2NyYXBlZCB0d2ljZSBwZXIgdGljayAtLSBvbmNlIGFzIGBgbGl2ZWtpdC1zZXJ2ZXJgYCBhbmQgb25jZSBhcwpgYG5vZGUtZXhwb3J0ZXJgYCAtLSBzbyB0aGUgdHdvIHNlcmllcyBsaW5lIHVwIG9uIG9uZSB0aW1lIGF4aXMuCgoqKk5vIGZvcmVpZ24ga2V5IHRvIGBgY2FsbHNgYCwgYW5kIG5vIGBgY2FsbF9pZGBgIGNvbHVtbi4qKiBMYXllciA3IGlzCmNvcnJlbGF0ZWQgYnkgYGAobm9kZSwgdGltZSB3aW5kb3cpYGAgb25seS4gbGl2ZWtpdC1zZXJ2ZXIncwpgYGxpdmVraXRfcGFja2V0XypgYCBhbmQgbGl2ZWtpdC1zaXAncwpgYGludml0ZV8qYGAgLyBgYGNhbGxzXypgYCBhcmUgTk9ERSBjb3VudGVyczogYXR0cmlidXRpbmcgb25lIG9mIHRoZW0gdG8gYSBjYWxsCndvdWxkIGludmVudCBhIHBlci1jYWxsIG1lYXN1cmVtZW50IHRoYXQgZG9lcyBub3QgZXhpc3Qgc2VydmVyLXNpZGUgKHRoZSBzYW1lCnJlYXNvbiBgYGNhbGxfbGVnc2BgIGhhcyBubyBsb3NzIC8gaml0dGVyIC8gTU9TIGNvbHVtbikuCgoqKkV2ZXJ5IHZhbHVlIGNvbHVtbiBpcyBudWxsYWJsZSwgYW5kIE5VTEwgbWVhbnMgIm5vdCBtZWFzdXJlZCIuKiogQSBzZXJpZXMgdGhlCnRhcmdldCBkaWQgbm90IGV4cG9zZSwgYSBzY3JhcGUgdGhhdCB0aW1lZCBvdXQsIGFuZCBhIHJlbGVhc2UgdGhhdCByZW5hbWVkIGEKbWV0cmljIGFsbCBzdG9yZSBOVUxMIC0tIG5ldmVyIDAuIEEgMCBpbiBgYHBhY2tldHNfdG90YWxgYCB3b3VsZCByZW5kZXIgYXMgYQpub2RlIGNhcnJ5aW5nIG5vIHRyYWZmaWMsIHdoaWNoIGlzIHRoZSBvcHBvc2l0ZSBvZiAid2UgY291bGQgbm90IHNlZSBpdCIuCmBgb3V0Y29tZWBgIHNheXMgd2h5IHRoZSByb3cgaGFzIG5vIHZhbHVlcywgYW5kIGBgc2VyaWVzX2ZvdW5kYGAgc2F5cyBob3cgbWFueQpvZiB0aGUgc2VyaWVzIGV4cGVjdGVkIGZvciB0aGF0IHNvdXJjZSB3ZXJlIGFjdHVhbGx5IHByZXNlbnQsIHNvIGEgcmVuYW1lIHNob3dzCnVwIGFzICIwIG9mIDUgbWF0Y2hlZCIgcmF0aGVyIHRoYW4gYXMgYW4gdW5leHBsYWluYWJsZSBlbXB0eSBjaGFydC4KCioqQ291bnRlcnMgYXJlIHN0b3JlZCBSQVcsIGV4YWN0bHkgYXMgc2NyYXBlZCwgYW5kIGRpZmZlZCBhdCByZWFkIHRpbWUqKgooYGBub2RlX3NhbXBsZXNfcmVwb3NpdG9yeS5jb3VudGVyX3JhdGVzYGApLiBTdG9yaW5nIGEgcmF0ZSBhdCB3cml0ZSB0aW1lIHdvdWxkCmJha2UgaW4gdGhlIGNvdW50ZXItcmVzZXQgYnVnOiBhIGxpdmVraXQtc2VydmVyIHJlc3RhcnQgemVyb2VzIGV2ZXJ5IGBgX3RvdGFsYGAsCmFuZCB0aGUgaG9uZXN0IHJlYWRpbmcgb2YgYSBkZWNyZWFzZSBpcyAidW5rbm93biIsIHdoaWNoIG9ubHkgdGhlIHJlYWQgc2lkZSBjYW4KZXhwcmVzcyBhcyBOVUxMLgoKQnl0ZSBhbmQgZmlsZS1kZXNjcmlwdG9yIGNvbHVtbnMgYXJlIGBgQmlnSW50ZWdlcmBgLiBgYHBhY2tldF9ieXRlc190b3RhbGBgIG9uIGEKYnVzeSBTRlUgcGFzc2VzIDIgR2lCIHdpdGhpbiBob3VycyBhbmQgYGBub2RlX2ZpbGVmZF9tYXhpbXVtYGAgaXMgcm91dGluZWx5Cm5lYXIgYGAyKio2My0xYGA7IGFuIElOVDQgYWNjZXB0cyBuZWl0aGVyLCBzaWxlbnRseSBvbiBTUUxpdGUgYW5kIGFzIGEgNTAwIG9uClBvc3RncmVTUUwuIFNhbWUgdHJhcCBhcyB0aGUgd29ya2VyIGJ5dGUtY291bnQgY29sdW1ucyBhbmQgdGhlIGBgY2FsbHNgYAptaWxsaXNlY29uZCBjb2x1bW5zLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gdHlwaW5nIGltcG9ydCBDbGFzc1ZhcgoKZnJvbSBzcWxhbGNoZW15IGltcG9ydCBCaWdJbnRlZ2VyLCBJbmRleApmcm9tIHNxbG1vZGVsIGltcG9ydCBGaWVsZCwgU1FMTW9kZWwKCgpjbGFzcyBOb2RlU2FtcGxlKFNRTE1vZGVsLCB0YWJsZT1UcnVlKToKICAgICIiIk9uZSBzY3JhcGUgb2Ygb25lIG5vZGUncyBQcm9tZXRoZXVzIGV4cG9zaXRpb24uIiIiCgogICAgX190YWJsZW5hbWVfXzogQ2xhc3NWYXJbc3RyXSA9ICJub2RlX3NhbXBsZXMiCiAgICBfX3RhYmxlX2FyZ3NfXyA9ICgKICAgICAgICAjIFRoZSByZWFkIHBhdGg6IG9uZSBub2RlJ3Mgb25lIHNlcmllcywgaW4gdGltZSBvcmRlci4gTGVhZHMgd2l0aCB0aGUKICAgICAgICAjIChub2RlLCBzb3VyY2UpIHBhaXIgdGhlIGNvdW50ZXIgZGlmZiBpcyBjb21wdXRlZCB3aXRoaW4gLS0gZGlmZmluZwogICAgICAgICMgYWNyb3NzIHR3byBzb3VyY2VzLCBvciBhY3Jvc3MgdHdvIG5vZGVzLCB3b3VsZCBzdWJ0cmFjdCB1bnJlbGF0ZWQKICAgICAgICAjIGNvdW50ZXJzLgogICAgICAgIEluZGV4KCJpZHhfbm9kZV9zYW1wbGVzX25vZGVfc291cmNlX2F0X21zIiwgIm5vZGUiLCAic291cmNlIiwgImF0X21zIiksCiAgICAgICAgIyBCb3RoIHRyaW1zICh0aGUgc2NyYXBlIHdvcmtlcidzIHVuY29uZGl0aW9uYWwgb25lIGFuZCB0aGUgcGVyLXByb2plY3QKICAgICAgICAjIHJldGVudGlvbiBwYXNzKSBkZWxldGUgYnkgYWdlLCB3aGljaCBpcyB0aGUgb25seSBzY2FuIHRoaXMgdGFibGUgaGFzCiAgICAgICAgIyB0byBzdXJ2aXZlIGF0IH41N2sgcm93cy9kYXkuCiAgICAgICAgSW5kZXgoImlkeF9ub2RlX3NhbXBsZXNfYXRfbXMiLCAiYXRfbXMiKSwKICAgICkKCiAgICBpZDogaW50IHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgcHJpbWFyeV9rZXk9VHJ1ZSkKCiAgICAjIFRoZSBvcGVyYXRvcidzIG5hbWUgZm9yIHRoZSB0YXJnZXQsIGZyb20gdGhlIHNjcmFwZSBjb25maWcgLS0gTk9UIHRoZQogICAgIyBleHBvcnRlcidzIGBgbm9kZV9pZGBgIGxhYmVsLiBsaXZla2l0LXNlcnZlciBtaW50cyBhIGZyZXNoIGBgbm9kZV9pZGBgIHBlcgogICAgIyBwcm9jZXNzIHVubGVzcyBpdCBpcyBwaW5uZWQsIHNvIGtleWluZyBvbiBpdCB3b3VsZCBzcGxpdCBvbmUgaG9zdCdzIHNlcmllcwogICAgIyBpbiB0d28gYXQgZXZlcnkgcmVzdGFydDogZXhhY3RseSB3aGVuIHRoZSBjb3VudGVyLXJlc2V0IHJ1bGUgbmVlZHMgdGhlIHR3bwogICAgIyBoYWx2ZXMgYWRqYWNlbnQgdG8gbm90aWNlIHRoZSByZXNldC4KICAgIG5vZGU6IHN0cgoKICAgICMgV2hpY2ggZXhwb3J0ZXIgcHJvZHVjZWQgdGhlIHJvdzogJ2xpdmVraXQtc2VydmVyJyB8ICdsaXZla2l0LXNpcCcgfAogICAgIyAnbm9kZS1leHBvcnRlcicuIE5vdCBhIGZvcmVpZ24ga2V5IHRvIGFueXRoaW5nOyBpdCBpcyB0aGUgc2Vjb25kIGhhbGYgb2YKICAgICMgdGhlIHNlcmllcyBrZXkuCiAgICBzb3VyY2U6IHN0cgoKICAgICMgU2NyYXBlIHdhbGwgY2xvY2ssIGVwb2NoIG1pbGxpc2Vjb25kcywgc3RhbXBlZCBvbmNlIHBlciB0aWNrIGJ5IHRoZSB3b3JrZXIKICAgICMgc28gZXZlcnkgdGFyZ2V0IGluIG9uZSBwYXNzIHNoYXJlcyBhIHRpbWVzdGFtcC4gQmlnSW50ZWdlcjogfjEuOGUxMiB0b2RheS4KICAgIGF0X21zOiBpbnQgPSBGaWVsZChzYV90eXBlPUJpZ0ludGVnZXIpCgogICAgIyBBIHNhbXBsZSBpcyBob3N0LXNjb3BlZCwgbm90IHByb2plY3Qtc2NvcGVkOiBhIG5vZGUgc2VydmVzIHdoYXRldmVyIHRyYWZmaWMKICAgICMgbGFuZHMgb24gaXQuIFRoZSBjb2x1bW4gZXhpc3RzIHNvIHRoZSByb3cgYWdlcyBvdXQgb24gdGhlIHNhbWUgcGVyLXByb2plY3QKICAgICMgcmV0ZW50aW9uIHBhc3MgYXMgZXZlcnl0aGluZyBlbHNlLCBhbmQgaXQgaXMgbm90IHBhcnQgb2YgYW55IHBheWxvYWQuCiAgICBwcm9qZWN0OiBzdHIgPSBGaWVsZChkZWZhdWx0PSJkZWZhdWx0IikKCiAgICAjIEhvdyB0aGUgc2NyYXBlIGVuZGVkOiAnb2snIHwgJ3RpbWVvdXQnIHwgJ3VucmVhY2hhYmxlJyB8ICdodHRwX2Vycm9yJyB8CiAgICAjICd0b29fbGFyZ2UnIHwgJ3VucGFyc2VhYmxlJy4gQSBmYWlsZWQgc2NyYXBlIHN0aWxsIHdyaXRlcyBhIHJvdyAtLSBhIGdhcCBpbgogICAgIyB0aGUgc2VyaWVzIHRoYXQgc2F5cyB3aHkgYmVhdHMgYSBzaWxlbnQgZ2FwIHRoYXQgcmVhZHMgYXMgIm5vdGhpbmcKICAgICMgaGFwcGVuZWQiLgogICAgb3V0Y29tZTogc3RyCgogICAgIyBIb3cgbWFueSBvZiB0aGUgc2VyaWVzIGV4cGVjdGVkIGZvciBgYHNvdXJjZWBgIHdlcmUgcHJlc2VudCBpbiB0aGUKICAgICMgZXhwb3NpdGlvbi4gTlVMTCB3aGVuIHRoZSBzY3JhcGUgbmV2ZXIgcHJvZHVjZWQgYSBib2R5LiAwIHdpdGgKICAgICMgYGBvdXRjb21lPSdvaydgYCBpcyB0aGUgc2lnbmF0dXJlIG9mIGEgcmVuYW1lZCBtZXRyaWMsIHdoaWNoIGlzIG90aGVyd2lzZQogICAgIyBpbmRpc3Rpbmd1aXNoYWJsZSBmcm9tIGFuIGlkbGUgbm9kZS4KICAgIHNlcmllc19mb3VuZDogaW50IHwgTm9uZSA9IE5vbmUKCiAgICAjIC0tLS0gbGl2ZWtpdC1zZXJ2ZXIgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAjIEdhdWdlcyBhcmUgc3RvcmVkIGFzIHNjcmFwZWQ7IGNvdW50ZXJzIGFyZSBjdW11bGF0aXZlIGFuZCBhcmUgZGlmZmVkIGF0CiAgICAjIHJlYWQgdGltZS4KICAgIHJvb21zOiBpbnQgfCBOb25lID0gTm9uZQogICAgcGFydGljaXBhbnRzOiBpbnQgfCBOb25lID0gTm9uZQogICAgcGFja2V0c190b3RhbDogaW50IHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgc2FfdHlwZT1CaWdJbnRlZ2VyKQogICAgIyBCaWdJbnRlZ2VyIGlzIGxvYWQtYmVhcmluZyBoZXJlIChzZWUgdGhlIG1vZHVsZSBkb2NzdHJpbmcpLgogICAgcGFja2V0X2J5dGVzX3RvdGFsOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCgogICAgIyAtLS0tIGxpdmVraXQtc2lwIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgIyBGbGVldCBhZ2dyZWdhdGVzIG9ubHkuIGxpdmVraXQtc2lwIGlzIGJsaW5kIHRvIGFueXRoaW5nIHBlci1jYWxsLCBzbwogICAgIyBub3RoaW5nIGhlcmUgbWF5IGJlIGpvaW5lZCB0byBhIGBgY2FsbHNgYCByb3cuCiAgICBzaXBfY2FsbHNfYWN0aXZlOiBpbnQgfCBOb25lID0gTm9uZQogICAgc2lwX2ludml0ZV9yZXF1ZXN0c19yYXdfdG90YWw6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgIHNpcF9pbnZpdGVfcmVxdWVzdHNfdG90YWw6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgIHNpcF9pbnZpdGVfYWNjZXB0ZWRfdG90YWw6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgIHNpcF9jYWxsc190ZXJtaW5hdGVkX3RvdGFsOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCgogICAgIyAtLS0tIG5vZGVfZXhwb3J0ZXIgKGhvc3QpIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgIyBUaGUgZmlsZS1kZXNjcmlwdG9yIHBhaXIgaXMgdGhlIE00IGhlYWRsaW5lOiBhIHJhbXAga25lZSBjb3JyZWxhdGVkIHdpdGgKICAgICMgYGBmaWxlZmRfYWxsb2NhdGVkYGAgcmVhY2hpbmcgYGBmaWxlZmRfbWF4aW11bWBgIG9uIG9uZSBob3N0LgogICAgZmlsZWZkX2FsbG9jYXRlZDogaW50IHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgc2FfdHlwZT1CaWdJbnRlZ2VyKQogICAgIyBCaWdJbnRlZ2VyLCBub3QgSW50ZWdlcjogYGBmcy5maWxlLW1heGBgIGlzIGZyZXF1ZW50bHkgfjkuMmUxOC4KICAgIGZpbGVmZF9tYXhpbXVtOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCiAgICBsb2FkMTogZmxvYXQgfCBOb25lID0gTm9uZQogICAgIyBDUFUgaXMgdHdvIGNvdW50ZXJzLCBub3QgYSBwZXJjZW50YWdlOiBidXN5IGZyYWN0aW9uIG92ZXIgYSB3aW5kb3cgaXMKICAgICMgYGAxIC0gZChpZGxlKS9kKHRvdGFsKWBgLCB3aGljaCBvbmx5IHRoZSByZWFkLXRpbWUgZGlmZiBjYW4gY29tcHV0ZS4gQQogICAgIyBzdG9yZWQgcGVyY2VudGFnZSB3b3VsZCBoYXZlIHRvIHBpY2sgYSB3aW5kb3cgYXQgd3JpdGUgdGltZSBhbmQgd291bGQgZ28KICAgICMgbmVnYXRpdmUgYWNyb3NzIGEgcmVib290LgogICAgY3B1X3NlY29uZHNfdG90YWw6IGZsb2F0IHwgTm9uZSA9IE5vbmUKICAgIGNwdV9pZGxlX3NlY29uZHNfdG90YWw6IGZsb2F0IHwgTm9uZSA9IE5vbmUKICAgIG1lbW9yeV9hdmFpbGFibGVfYnl0ZXM6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgIG1lbW9yeV90b3RhbF9ieXRlczogaW50IHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgc2FfdHlwZT1CaWdJbnRlZ2VyKQoKICAgICMgLS0tLSBHbyBydW50aW1lIChsaXZla2l0LXNlcnZlciBhbmQgbGl2ZWtpdC1zaXAgYXJlIGJvdGggR28pIC0tLS0tLS0tLS0tCiAgICAjIFRoZSByZXR1cm4tdG8tYmFzZWxpbmUgcGFpcjogYWZ0ZXIgYSBsb2FkIHJ1biBpcyB0b3JuIGRvd24gYW5kIHRoZSByZWFwCiAgICAjIHRpbWVvdXRzIGhhdmUgcGFzc2VkLCB0aGVzZSB0d28gc2hvdWxkIGNvbWUgYmFjayBuZWFyIHdoZXJlIHRoZXkgc3RhcnRlZC4KICAgICMKICAgICMgUlNTIGlzIGRlbGliZXJhdGVseSBOT1Qgb25lIG9mIHRoZW0uIEdvIHJldHVybnMgZnJlZWQgaGVhcCB0byB0aGUgT1MKICAgICMgbGF6aWx5LCBzbyBhIHByb2Nlc3MgdGhhdCBoYXMgZnVsbHkgZHJhaW5lZCBjYW4gaG9sZCBpdHMgcmVzaWRlbnQgc2l6ZSBmb3IKICAgICMgYSBsb25nIHRpbWUgYWZ0ZXJ3YXJkcy4gR2F0aW5nIG9uIFJTUyB3b3VsZCByZXBvcnQgYSBsZWFrIHRoYXQgaXMgbm90IG9uZSwKICAgICMgYW5kIHdvcnNlLCBpdCB3b3VsZCBkbyBzbyBvbiBldmVyeSBoZWFsdGh5IHJ1biwgd2hpY2ggdHJhaW5zIGEgcmVhZGVyIHRvCiAgICAjIGlnbm9yZSB0aGUgZ2F0ZS4gYGBoZWFwX2ludXNlYGAgaXMgd2hhdCB0aGUgcnVudGltZSBhY3R1YWxseSBzdGlsbCBob2xkcywKICAgICMgYW5kIGEgZ29yb3V0aW5lIGNvdW50IHRoYXQgZG9lcyBub3QgY29tZSBkb3duIGlzIHRoZSBzaGFwZSBhIHJlYWwgbGVhawogICAgIyB0YWtlcyBoZXJlIChhIHBlci1jYWxsIGdvcm91dGluZSB0aGF0IG5ldmVyIGV4aXRzKS4KICAgICMKICAgICMgYGBoZWFwX2ludXNlX2J5dGVzYGAgcmF0aGVyIHRoYW4gYGBoZWFwX2ludXNlYGA6IGV2ZXJ5IG90aGVyIGJ5dGUgY29sdW1uIGluCiAgICAjIHRoaXMgdGFibGUgY2FycmllcyBpdHMgdW5pdCBpbiB0aGUgbmFtZS4KICAgIGhlYXBfaW51c2VfYnl0ZXM6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgIGdvX2dvcm91dGluZXM6IGludCB8IE5vbmUgPSBOb25lCgogICAgIyAtLS0tIGFuc3dlciBsYXRlbmN5IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgIyBUaGUgZW5nYWdlbWVudCdzIHNpbmdsZSBiaWdnZXN0IHJpc2s6IGxpdmVraXQtc2lwIHdpdGhob2xkcyAyMDAgT0sgdW50aWwKICAgICMgaXQgaGFzIHN1YnNjcmliZWQgdG8gYW4gYXVkaW8gdHJhY2ssIHNvIHRoZSBhbnN3ZXJpbmcgcGFydGljaXBhbnQncyBqb2luCiAgICAjIHRpbWUgSVMgdGhlIGNhbGxlci12aXNpYmxlIGFuc3dlciBsYXRlbmN5LiBUaGVzZSBhcmUgdGhlIG9ubHkgc2VydmVyLXNpZGUKICAgICMgc2VyaWVzIHRoYXQgbWVhc3VyZSBpdC4KICAgICMKICAgICMgVGhhdCBpZGVudGl0eSBpcyBNRUFTVVJFRCByYXRoZXIgdGhhbiBhcmd1ZWQuIE9uIGxpdmVraXQtc2lwIDEuMTAuMSB0aGUKICAgICMgSEVMUCBzdHJpbmcgcmVhZHMgIlNJUCByb29tIGpvaW4gZHVyYXRpb24gKGZyb20gSU5WSVRFIHRvIG1peGVkIHJvb20KICAgICMgYXVkaW8pIiwgbmFtaW5nIGJvdGggYm91bmRhcmllcywgYW5kIHRoZSB0aHJlZSBkdXJhdGlvbiBmYW1pbGllcyBjbG9zZSBvbgogICAgIyBhIHJlYWwgY2FsbDogc2Vzc2lvbiAoSU5WSVRFIHRvIGNsb3NlZCkgbWludXMgY2FsbCAoc3VjY2Vzc2Z1bCBwaW4gdG8KICAgICMgY2xvc2VkKSBpcyAwLjA1Njc3NTYwMyBzIGFnYWluc3QgYSBqb2luIHN1bSBvZiAwLjA1NjU5NTY0NiBzLCBhZ3JlZWluZyB0bwogICAgIyAwLjE4IG1zLiBKb2luIGlzIHRoZSBwcmUtMjAwLU9LIHNlZ21lbnQgb2YgdGhlIHNlc3Npb24sIG5vdCBhIG51bWJlciB0aGF0CiAgICAjIG1lcmVseSB0cmFja3MgaXQuCiAgICAjCiAgICAjIEEgaGlzdG9ncmFtIGlzIHN0b3JlZCBhcyBpdHMgX3N1bSBhbmQgX2NvdW50IHJhdGhlciB0aGFuIGl0cyBidWNrZXRzLAogICAgIyBiZWNhdXNlIGJ1Y2tldHMgYXJlIGN1bXVsYXRpdmUgYW5kIHN1bW1pbmcgdGhlbSBjb3VudHMgb25lIG9ic2VydmF0aW9uCiAgICAjIG9uY2UgcGVyIGJ1Y2tldC4gVHdvIGV4cGxpY2l0IGJ1Y2tldCBjb3VudHMgYXJlIGtlcHQgYWxvbmdzaWRlIHNvIGEKICAgICMgcHJvcG9ydGlvbiB1bmRlciBhIGJvdW5kIGlzIGFuc3dlcmFibGUgd2l0aG91dCBhIHBlcmNlbnRpbGU6IGxlPTEgYW5kCiAgICAjIGxlPTUgYXJlIHRoZSB0d28gdGhlIGFjY2VwdGFuY2UgY29udmVyc2F0aW9uIGFjdHVhbGx5IHR1cm5zIG9uLgogICAgc2lwX2pvaW5fc2VjX3N1bTogZmxvYXQgfCBOb25lID0gTm9uZQogICAgc2lwX2pvaW5fc2VjX2NvdW50OiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCiAgICBzaXBfam9pbl9sZTFfY291bnQ6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgIHNpcF9qb2luX2xlNV9jb3VudDogaW50IHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgc2FfdHlwZT1CaWdJbnRlZ2VyKQogICAgc2lwX2NoZWNrX3NlY19zdW06IGZsb2F0IHwgTm9uZSA9IE5vbmUKICAgIHNpcF9jaGVja19zZWNfY291bnQ6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgIHNlc3Npb25fc3RhcnRfdGltZV9tc19zdW06IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgIHNlc3Npb25fc3RhcnRfdGltZV9tc19jb3VudDogaW50IHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgc2FfdHlwZT1CaWdJbnRlZ2VyKQoKICAgICMgLS0tLSBmaWxlIGRlc2NyaXB0b3JzLCB0aGUgbGltaXQgdGhhdCBhY3R1YWxseSBiaW5kcyAtLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAjIFRoZSBQRVItUFJPQ0VTUyBybGltaXQsIG5vdCB0aGUgaG9zdCBmcy5maWxlLW1heC4gVGhlIGhvc3QgZmlndXJlIGlzCiAgICAjIGNvbW1vbmx5IHVuYm91bmRlZCBhbmQgdW5zdG9yYWJsZSwgYW5kIHRoZSBsaW1pdCBhIHNlcnZpY2UgYWN0dWFsbHkgaGl0cwogICAgIyBpcyBpdHMgb3duIExpbWl0Tk9GSUxFLCB3aGljaCBub2RlX2V4cG9ydGVyIHN0cnVjdHVyYWxseSBjYW5ub3Qgc2VlLgogICAgcHJvY2Vzc19vcGVuX2ZkczogaW50IHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgc2FfdHlwZT1CaWdJbnRlZ2VyKQogICAgcHJvY2Vzc19tYXhfZmRzOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCgogICAgIyAtLS0tIGFkbWlzc2lvbiBhbmQgbWVkaWEgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgIyBzaXBfYXZhaWxhYmxlIGlzICJ3aGV0aGVyIHRoaXMgbm9kZSBjYW4gYWNjZXB0IG5ldyByZXF1ZXN0cyIgYW5kIGZsaXBzIHRvCiAgICAjIDAgd2hlbiBpdCBzdG9wcyB0YWtpbmcgSU5WSVRFcywgd2hpY2ggaXMgYm90aCB0aGUgaGVhbHRoIHNpZ25hbCBhbmQgdGhlCiAgICAjIG5vZGUtZHJhaW4gdGVzdC4KICAgIHNpcF9hdmFpbGFibGU6IGludCB8IE5vbmUgPSBOb25lCiAgICAjIFByZXNlbnQgb24gbGl2ZWtpdC1zaXAgT05MWS4gQWJzZW50IGZyb20gZXZlcnkgbGl2ZWtpdF8qIGZhbWlseSBvbiB0aGUKICAgICMgc2VydmVyLCBzbyBpdCBpcyBuZXZlciB3aXJlZCB0aGVyZS4KICAgIHNpcF9ub2RlX2NwdV9sb2FkOiBmbG9hdCB8IE5vbmUgPSBOb25lCiAgICAjIFNwbGl0IGJ5IGRpcmVjdGlvbiBhbmQgbmV2ZXIgc3VtbWVkLiBBIGNhbGwgdGhhdCBzZW50IDMzNyBhbmQgcmVjZWl2ZWQKICAgICMgMzMwIHN1bXMgdG8gNjY3LCBhbmQgb25lLXdheSBhdWRpbyBkaXNhcHBlYXJzIGludG8gdGhhdCBzaW5nbGUgbnVtYmVyLgogICAgc2lwX3J0cF9wYWNrZXRzX3JlY3Y6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgIHNpcF9ydHBfcGFja2V0c19zZW5kOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCgogICAgIyAtLS0tIGtlcm5lbCBPT00ga2lsbHMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAjIFZFUklGSUVEIG9uIGEgbGl2ZSBwcm9tL25vZGUtZXhwb3J0ZXI6IG5vZGVfdm1zdGF0X29vbV9raWxsIHJlYWRzIDAgb24gYQogICAgIyBoZWFsdGh5IGJveC4gQ3VtdWxhdGl2ZSBzaW5jZSBib290LCBzbyBvbmx5IGFuIElOQ1JFQVNFIGluc2lkZSBhIHdpbmRvdwogICAgIyBtZWFucyB0aGUga2VybmVsIGtpbGxlZCBzb21ldGhpbmcgZHVyaW5nIHRoZSBydW4uCiAgICAjCiAgICAjIEdhdGVkIHNlcGFyYXRlbHkgZnJvbSBwcm9jZXNzIHJlc3RhcnRzIG9uIHB1cnBvc2UuIEEgY3Jhc2ggcHJlc2VudHMgYXMgYQogICAgIyByZXN0YXJ0LCBzbyB0aGUgcmVzdGFydCBnYXRlIGNvdmVycyBjcmFzaGVzOyBidXQgIm5vIHJlc3RhcnQiIGRvZXMgbm90CiAgICAjIHByb3ZlICJubyBPT00iLCBiZWNhdXNlIHRoZSBrZXJuZWwgY2FuIGtpbGwgYSBjaGlsZCBvciBhIHNpYmxpbmcgcHJvY2VzcwogICAgIyB3aXRob3V0IHRoZSBzY3JhcGVkIHNlcnZpY2UgZXZlciByZXN0YXJ0aW5nLiBGb2xkaW5nIHRoZW0gdG9nZXRoZXIgd291bGQKICAgICMgbGV0IG9uZSBjbGVhbiBzaWduYWwgdm91Y2ggZm9yIGEgY3JpdGVyaW9uIGl0IGRvZXMgbm90IGNvdmVyLgogICAgdm1zdGF0X29vbV9raWxsOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCgogICAgIyAtLS0tIFJlZGlzLCB0aGUgc2hhcmVkIHN0YXRlIGV2ZXJ5IFNJUCBub2RlIGRlcGVuZHMgb24gLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAjIFZFUklGSUVEIGFnYWluc3QgYSBsaXZlIG9saXZlcjAwNi9yZWRpc19leHBvcnRlciBhZ2FpbnN0IHJlZGlzOjcsIG5vdAogICAgIyBpbmZlcnJlZDogZXZlcnkgbmFtZSBiZWxvdyB3YXMgcmVhZCBvZmYgaXRzIGV4cG9zaXRpb24gYmVmb3JlIHdpcmluZy4KICAgICMKICAgICMgcmVkaXNfdXAgaXMgdGhlIHByaW1hcnkgc2lnbmFsIGFuZCB0aGUgb25seSBvbmUgdGhhdCBhbnN3ZXJzICJ3YXMgUmVkaXMKICAgICMgcmVhY2hhYmxlIGF0IGFsbCIuIDAgbWVhbnMgdGhlIGV4cG9ydGVyIHJhbiBhbmQgY291bGQgbm90IHJlYWNoIFJlZGlzLAogICAgIyB3aGljaCBpcyBhIGZhY3Q7IE5VTEwgbWVhbnMgbm9ib2R5IHNjcmFwZWQsIHdoaWNoIGlzIG5vdC4KICAgIHJlZGlzX3VwOiBpbnQgfCBOb25lID0gTm9uZQogICAgcmVkaXNfcmVqZWN0ZWRfY29ubmVjdGlvbnNfdG90YWw6IGludCB8IE5vbmUgPSBGaWVsZCgKICAgICAgICBkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcgogICAgKQogICAgcmVkaXNfbWVtb3J5X3VzZWRfYnl0ZXM6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgICMgQSBsaXZlIGV4cG9ydGVyIHJlcG9ydHMgMCBoZXJlIHdoZW4gbm8gbWF4bWVtb3J5IGlzIGNvbmZpZ3VyZWQsIHdoaWNoIGlzCiAgICAjIE5PVCAibm8gbWVtb3J5IGF2YWlsYWJsZSI6IGl0IGlzICJubyBsaW1pdCIuIFN0b3JpbmcgaXQgcmF3IGFuZCBkaXZpZGluZwogICAgIyB3b3VsZCBlaXRoZXIgZGl2aWRlIGJ5IHplcm8gb3IgcmVhZCBhcyB0b3RhbCBleGhhdXN0aW9uLCBzbyB0aGUKICAgICMgdW5ib3VuZGVkIGNhc2UgaXMgcmVjb3JkZWQgc2VwYXJhdGVseSwgZXhhY3RseSBhcyBmaWxlZmRfbWF4aW11bSBpcy4KICAgIHJlZGlzX21lbW9yeV9tYXhfYnl0ZXM6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKICAgICMgMSB1bmJvdW5kZWQsIDAgYSByZWFsIGxpbWl0LCBOVUxMIHVubWVhc3VyZWQuIERlcml2ZWQsIG5vdCBzY3JhcGVkLgogICAgcmVkaXNfbWVtb3J5X21heF91bmJvdW5kZWQ6IGludCB8IE5vbmUgPSBOb25lCiAgICByZWRpc19ibG9ja2VkX2NsaWVudHM6IGludCB8IE5vbmUgPSBOb25lCiAgICByZWRpc19ldmljdGVkX2tleXNfdG90YWw6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKCiAgICAjIC0tLS0gaGVhbHRoIGVuZHBvaW50IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICMgTm90IGEgUHJvbWV0aGV1cyBzZXJpZXMuIFdyaXR0ZW4gYnkgdGhlIHNhbWUgc2FtcGxpbmcgbG9vcCBvbnRvIHRoZSBzYW1lCiAgICAjIHRpbWUgYXhpcywgc28gYSAic3VzdGFpbmVkIGZhaWx1cmUiIGdhdGUgaGFzIGEgd2luZG93IG9mIHNhbXBsZXMgdG8gcmVhc29uCiAgICAjIG92ZXIgZXhhY3RseSBsaWtlIGV2ZXJ5IG90aGVyIGNyaXRlcmlvbiwgYXQgdGhlIGNvc3Qgb2YgdGhyZWUgY29sdW1ucwogICAgIyByYXRoZXIgdGhhbiBhIHBhcmFsbGVsIHByb2JlIHN1YnN5c3RlbS4KICAgICMKICAgICMgMSBoZWFsdGh5IChhbnkgMnh4KSwgMCB1bmhlYWx0aHksIE5VTEwgbm90IHByb2JlZC4gTlVMTCBpcyB0aGUgYW5zd2VyIHdoZW4KICAgICMgbm8gaGVhbHRoIGVuZHBvaW50IGlzIGNvbmZpZ3VyZWQsIGFuZCBpdCBtdXN0IG5ldmVyIGJlIHJlYWQgYXMgMDogIm5vYm9keQogICAgIyBhc2tlZCIgYW5kICJpdCBhbnN3ZXJlZCBiYWRseSIgYXJlIGRpZmZlcmVudCBmYWN0cy4KICAgIGhlYWx0aF9vazogaW50IHwgTm9uZSA9IE5vbmUKICAgICMgVGhlIEhUVFAgc3RhdHVzIHdoZW4gYSByZXNwb25zZSBhcnJpdmVkIGF0IGFsbCwgTlVMTCB3aGVuIG5vbmUgZGlkLiBUaGlzCiAgICAjIGlzIHdoYXQgc2VwYXJhdGVzICJyZXR1cm5lZCA1MDMiIGZyb20gInJlZnVzZWQgdGhlIGNvbm5lY3Rpb24iLgogICAgIyBsaXZla2l0LXNpcCBhbnN3ZXJzIDIwMCBPSywgNDI5IFVuZGVyTG9hZCBvciA1MDMgVW5hdmFpbGFibGU7CiAgICAjIGxpdmVraXQtc2VydmVyIGFuc3dlcnMgMjAwIG9yIDQwNi4KICAgIGhlYWx0aF9zdGF0dXNfY29kZTogaW50IHwgTm9uZSA9IE5vbmUKICAgICMgMSB3aGVuIHRoZSBmYWlsdXJlIHdhcyBhIGRlYWRsaW5lIHJhdGhlciB0aGFuIGEgcmVmdXNhbC4gQm90aCBsZWF2ZQogICAgIyBoZWFsdGhfc3RhdHVzX2NvZGUgTlVMTCwgYW5kIHRoZXkgYXJlIGRpZmZlcmVudCBwcm9ibGVtczogYSByZWZ1c2FsIG1lYW5zCiAgICAjIG5vdGhpbmcgaXMgbGlzdGVuaW5nLCBhIHRpbWVvdXQgbWVhbnMgc29tZXRoaW5nIGlzIGxpc3RlbmluZyBhbmQgc3R1Y2suCiAgICBoZWFsdGhfdGltZWRfb3V0OiBpbnQgfCBOb25lID0gTm9uZQoKICAgICMgLS0tLSByZXN0YXJ0IGFuZCBhdHRyaWJ1dGlvbiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICMgQSBwcm9jZXNzIHRoYXQgcmVzdGFydGVkIG1pZC1ydW4gaW52YWxpZGF0ZXMgZXZlcnkgY291bnRlciByYXRlIGFjcm9zcwogICAgIyB0aGUgcmVzdGFydC4gc3RhcnRfdGltZSBpcyB3aGF0IG1ha2VzIHRoYXQgdmlzaWJsZSByYXRoZXIgdGhhbiBhIG15c3RlcnkKICAgICMgZGlzY29udGludWl0eS4KICAgIHByb2Nlc3Nfc3RhcnRfdGltZV9zZWNvbmRzOiBmbG9hdCB8IE5vbmUgPSBOb25lCiAgICBwcm9jZXNzX2NwdV9zZWNvbmRzX3RvdGFsOiBmbG9hdCB8IE5vbmUgPSBOb25lCiAgICBwcm9jZXNzX3Jlc2lkZW50X21lbW9yeV9ieXRlczogaW50IHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgc2FfdHlwZT1CaWdJbnRlZ2VyKQoKICAgICMgLS0tLSBwb3J0IGhlYWRyb29tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICMgVURQIHNvY2tldHMgaW4gdXNlIGFnYWluc3QgcG9ydHMgdGhhdCBjb3VsZCBub3QgYmUgYWxsb2NhdGVkLiBUaGUgc2Vjb25kCiAgICAjIGlzIHRoZSBvbmUgdGhhdCBtYXR0ZXJzOiBhIG5vbi16ZXJvIHJhdGUgbWVhbnMgdGhlIGJveCByYW4gb3V0IG9mIHBvcnRzLAogICAgIyB3aGljaCBhdCA1MDAgY29uY3VycmVudCBpcyBhIGZhciBtb3JlIGxpa2VseSB3YWxsIHRoYW4gQ1BVLgogICAgc29ja3N0YXRfdWRwX2ludXNlOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCiAgICB1ZHBfbm9fcG9ydHNfdG90YWw6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKCiAgICAjIC0tLS0gc3RhbGUgc3RhdGUgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAjIFJlYWQgZm9yIHdoYXQgZG9lcyBOT1QgY29tZSBkb3duIGFmdGVyIHRlYXJkb3duLiBOYW1lZCBfdG90YWwgYnkgdGhlCiAgICAjIGV4cG9ydGVyIGJ1dCBiZWhhdmluZyBhcyBnYXVnZXM6IHRoZXkgYXJlIGN1cnJlbnQgY291bnRzLCBub3QgY3VtdWxhdGl2ZSwKICAgICMgc28gdGhleSBhcmUgbmV2ZXIgZGlmZmVkLgogICAgdHJhY2tfcHVibGlzaGVkX3RvdGFsOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCiAgICB0cmFja19zdWJzY3JpYmVkX3RvdGFsOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCiAgICBwc3JwY19zdHJlYW1fY291bnQ6IGludCB8IE5vbmUgPSBGaWVsZChkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcikKCiAgICAjIC0tLS0gdW5ib3VuZGVkIG1hcmtlciAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAjIFRIUkVFIHN0YXRlcywgYW5kIHRoZSBkaXN0aW5jdGlvbiBiZXR3ZWVuIHRoZW0gaXMgdGhlIGVudGlyZSBwb2ludC4KICAgICMgMSBtZWFucyB0aGUgaG9zdCBmaWxlLWRlc2NyaXB0b3IgbWF4aW11bSBwYXJzZWQgYXMgZWZmZWN0aXZlbHkgdW5ib3VuZGVkLAogICAgIyBzbyBoZWFkcm9vbSBvbiBpdCBjYW5ub3QgcnVuIG91dC4gMCBtZWFucyBpdCBwYXJzZWQgYXMgYSByZWFsIGJvdW5kLiBOVUxMCiAgICAjIG1lYW5zIG5vYm9keSBtZWFzdXJlZCBpdC4gIkNhbm5vdCBydW4gb3V0IiBhbmQgIm5vYm9keSBsb29rZWQiIGFyZQogICAgIyBkaWZmZXJlbnQgY2xhaW1zIGFuZCB0aGlzIHRhYmxlJ3MgZG9jdHJpbmUgZm9yYmlkcyBjb2xsYXBzaW5nIHRoZW0uCiAgICAjCiAgICAjIEludGVnZXIgcmF0aGVyIHRoYW4gQm9vbGVhbiBzbyBpdCB0cmF2ZWxzIHRoZSBzYW1lIGNvZXJjaW9uIHBhdGggYXMgZXZlcnkKICAgICMgb3RoZXIgc2NyYXBlZCBjb2x1bW4gaW5zdGVhZCBvZiBuZWVkaW5nIGEgcGFyYWxsZWwgb25lLiBJdCBpcyBkZXJpdmVkCiAgICAjIGZyb20gbm9kZV9maWxlZmRfbWF4aW11bSByYXRoZXIgdGhhbiBzY3JhcGVkIGRpcmVjdGx5LCBidXQgaXQgaXMgc3RpbGwgYW4KICAgICMgb2JzZXJ2YXRpb24gYWJvdXQgb25lIHNjcmFwZSwgd2hpY2ggaXMgd2hhdCBhIHZhbHVlIGNvbHVtbiBpcy4KICAgIGZpbGVmZF9tYXhpbXVtX3VuYm91bmRlZDogaW50IHwgTm9uZSA9IE5vbmUKCiAgICAjIC0tLS0gUlRQIHBvcnQgaGVhZHJvb20gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgIyBUaGUgcGFpciB0aGF0IGFuc3dlcnMgImhvdyBjbG9zZSBpcyB0aGlzIG5vZGUgdG8gcnVubmluZyBvdXQgb2YgbWVkaWEKICAgICMgcG9ydHMiLCB3aGljaCBpcyB0aGUgd2FsbCBhIFNJUCBib3ggaGl0cyBsb25nIGJlZm9yZSBDUFUgZG9lcy4KICAgICMKICAgICMgYGBtZWRpYV9wb3J0c190b3RhbGBgIGlzIGEgREVDTEFSRUQgY29uZmlnIHZhbHVlICh0aGUgc2l6ZSBvZiB0aGUKICAgICMgY29uZmlndXJlZCBydHBfcG9ydCByYW5nZSwgZS5nLiAxMDAwMSksIG5vdCBhIG1lYXN1cmVtZW50LiBJdCBpcyBzdG9yZWQgb24KICAgICMgdGhlIHNhbXBsZSBhbnl3YXkgc28gdGhlIHJhdGlvIGlzIGNvbXB1dGVkIGFnYWluc3QgdGhlIHJhbmdlIHRoYXQgd2FzIGluCiAgICAjIGZvcmNlIGF0IHRoYXQgaW5zdGFudCByYXRoZXIgdGhhbiBhZ2FpbnN0IHdoYXRldmVyIHRoZSBjb25maWcgc2F5cyBhdCByZWFkCiAgICAjIHRpbWUuIEEgbm9kZSB0aGF0IHB1Ymxpc2hlcyBpbl91c2Ugd2l0aG91dCB0b3RhbCBsZWF2ZXMgdGhpcyBOVUxMLCBhbmQgdGhlCiAgICAjIGhlYWRyb29tIGlzIHRoZW4gVU5LTk9XTjogZGl2aWRpbmcgYnkgYSBndWVzc2VkIHJhbmdlIHNpemUgd291bGQgaW52ZW50IGEKICAgICMgcGVyY2VudGFnZSBub2JvZHkgbWVhc3VyZWQuCiAgICAjCiAgICAjIGBgbWVkaWFfcG9ydHNfaW5fdXNlYGAgY291bnRzIFVEUCBzb2NrZXRzIGJvdW5kIGluc2lkZSB0aGF0IHJhbmdlLCBzbyBpdCBpcwogICAgIyBuYXJyb3dlciB0aGFuIHNvY2tzdGF0X3VkcF9pbnVzZSAod2hpY2ggY291bnRzIGV2ZXJ5IFVEUCBzb2NrZXQgb24gdGhlCiAgICAjIGhvc3QsIGluY2x1ZGluZyBzaWduYWxsaW5nIGFuZCBETlMpIGFuZCBpcyB0aGUgb25seSBvbmUgb2YgdGhlIHR3byB0aGF0CiAgICAjIGNhbiBiZSByZWFkIGFzIGEgZnJhY3Rpb24gb2YgdGhlIHJhbmdlLgogICAgbWVkaWFfcG9ydHNfdG90YWw6IGludCB8IE5vbmUgPSBOb25lCiAgICBtZWRpYV9wb3J0c19pbl91c2U6IGludCB8IE5vbmUgPSBOb25lCgogICAgIyAtLS0tIG5ldHdvcmsgaGVhZHJvb20gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICMgQ2xvdWQgaG9zdHMgc2hhcGUgdHJhZmZpYyByYXRoZXIgdGhhbiBkcm9wcGluZyBpdCBzaWxlbnRseSwgYW5kIHRoZSBldGh0b29sCiAgICAjIGFsbG93YW5jZSBjb3VudGVycyBhcmUgd2hlcmUgdGhhdCBzaGFwaW5nIGlzIGFkbWl0dGVkLiBBIG5vbi16ZXJvIERFTFRBCiAgICAjIG92ZXIgYSBydW4gbWVhbnMgdGhlIGluc3RhbmNlIHdhcyB0aHJvdHRsZWQsIHdoaWNoIHByZXNlbnRzIHRvIGEgY2FsbGVyIGFzCiAgICAjIGppdHRlciBhbmQgbG9zcyB0aGF0IG5vIGFwcGxpY2F0aW9uIG1ldHJpYyBleHBsYWlucy4KICAgICMKICAgICMgQ3VtdWxhdGl2ZSBzaW5jZSBkcml2ZXIgcmVzZXQsIHNvIG9ubHkgYW4gaW5jcmVhc2UgaW5zaWRlIHRoZSB3aW5kb3cgaXMKICAgICMgYXR0cmlidXRhYmxlIHRvIHRoZSBydW4uIFRoaXMgaXMgbm90IHRoZW9yZXRpY2FsOiBvbmUgcmVhbCBTSVAgbm9kZSByZWFkcwogICAgIyA5NjEzIG9uIGJ3X2luIGZyb20gYmVmb3JlIHRoZSBlbmdhZ2VtZW50IHN0YXJ0ZWQgd2hpbGUgaXRzIHR3aW4gcmVhZHMgMCwKICAgICMgc28gYW4gYWJzb2x1dGUgcmVhZGluZyB3b3VsZCBmYWlsIGEgbm9kZSBmb3IgdGhyb3R0bGluZyBpdCBuZXZlciBzdWZmZXJlZAogICAgIyBkdXJpbmcgdGhlIHRlc3QuCiAgICAjCiAgICAjIEJpZ0ludGVnZXIgb24gYWxsIGZpdmU6IHRoZXkgYXJlIHVuYm91bmRlZCBjdW11bGF0aXZlIGNvdW50ZXJzLCBhbmQgYW4KICAgICMgSU5UNCB0aGF0IG92ZXJmbG93cyBpcyBhIDUwMCBvbiBQb3N0Z3JlU1FMIGFuZCBhIHNpbGVudCB3cm9uZyBudW1iZXIgb24KICAgICMgU1FMaXRlLgogICAgZXRodG9vbF9id19pbl9hbGxvd2FuY2VfZXhjZWVkZWQ6IGludCB8IE5vbmUgPSBGaWVsZCgKICAgICAgICBkZWZhdWx0PU5vbmUsIHNhX3R5cGU9QmlnSW50ZWdlcgogICAgKQogICAgZXRodG9vbF9id19vdXRfYWxsb3dhbmNlX2V4Y2VlZGVkOiBpbnQgfCBOb25lID0gRmllbGQoCiAgICAgICAgZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIKICAgICkKICAgIGV0aHRvb2xfcHBzX2FsbG93YW5jZV9leGNlZWRlZDogaW50IHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgc2FfdHlwZT1CaWdJbnRlZ2VyKQogICAgZXRodG9vbF9jb25udHJhY2tfYWxsb3dhbmNlX2V4Y2VlZGVkOiBpbnQgfCBOb25lID0gRmllbGQoCiAgICAgICAgZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIKICAgICkKICAgIGV0aHRvb2xfbGlua2xvY2FsX2FsbG93YW5jZV9leGNlZWRlZDogaW50IHwgTm9uZSA9IEZpZWxkKAogICAgICAgIGRlZmF1bHQ9Tm9uZSwgc2FfdHlwZT1CaWdJbnRlZ2VyCiAgICApCgogICAgIyBUaGUgdGhyb3VnaHB1dCB0aGUgYWxsb3dhbmNlIGNvdW50ZXJzIGFyZSB0aGUgY2VpbGluZyBvbi4gU3BsaXQgYnkKICAgICMgZGlyZWN0aW9uIGFuZCBuZXZlciBzdW1tZWQ6IG9uZS13YXkgYXVkaW8gaXMgaW52aXNpYmxlIGluIGEgdG90YWwsIGV4YWN0bHkKICAgICMgYXMgd2l0aCB0aGUgc2lwX3J0cF9wYWNrZXRzIHBhaXIuIEJpZ0ludGVnZXIgYmVjYXVzZSBhIGJ1c3kgbm9kZSBwYXNzZXMKICAgICMgMiBHaUIgd2l0aGluIGhvdXJzLgogICAgbmV0d29ya19yZWNlaXZlX2J5dGVzX3RvdGFsOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCiAgICBuZXR3b3JrX3RyYW5zbWl0X2J5dGVzX3RvdGFsOiBpbnQgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBzYV90eXBlPUJpZ0ludGVnZXIpCg==
+"""ORM model for the ``node_samples`` table (layer 7: the boxes, not the calls).
+
+One row per **scrape**, i.e. per ``(node, source, at_ms)``. A node is the
+operator's own name for a target (``sfu-1``), and the same node is usually
+scraped twice per tick -- once as ``livekit-server`` and once as
+``node-exporter`` -- so the two series line up on one time axis.
+
+**No foreign key to ``calls``, and no ``call_id`` column.** Layer 7 is
+correlated by ``(node, time window)`` only. livekit-server's
+``livekit_packet_*`` and livekit-sip's
+``invite_*`` / ``calls_*`` are NODE counters: attributing one of them to a call
+would invent a per-call measurement that does not exist server-side (the same
+reason ``call_legs`` has no loss / jitter / MOS column).
+
+**Every value column is nullable, and NULL means "not measured".** A series the
+target did not expose, a scrape that timed out, and a release that renamed a
+metric all store NULL -- never 0. A 0 in ``packets_total`` would render as a
+node carrying no traffic, which is the opposite of "we could not see it".
+``outcome`` says why the row has no values, and ``series_found`` says how many
+of the series expected for that source were actually present, so a rename shows
+up as "0 of 5 matched" rather than as an unexplainable empty chart.
+
+**Counters are stored RAW, exactly as scraped, and diffed at read time**
+(``node_samples_repository.counter_rates``). Storing a rate at write time would
+bake in the counter-reset bug: a livekit-server restart zeroes every ``_total``,
+and the honest reading of a decrease is "unknown", which only the read side can
+express as NULL.
+
+Byte and file-descriptor columns are ``BigInteger``. ``packet_bytes_total`` on a
+busy SFU passes 2 GiB within hours and ``node_filefd_maximum`` is routinely
+near ``2**63-1``; an INT4 accepts neither, silently on SQLite and as a 500 on
+PostgreSQL. Same trap as the worker byte-count columns and the ``calls``
+millisecond columns.
+"""
+
+from __future__ import annotations
+
+from typing import ClassVar
+
+from sqlalchemy import BigInteger, Index
+from sqlmodel import Field, SQLModel
+
+
+class NodeSample(SQLModel, table=True):
+    """One scrape of one node's Prometheus exposition."""
+
+    __tablename__: ClassVar[str] = "node_samples"
+    __table_args__ = (
+        # The read path: one node's one series, in time order. Leads with the
+        # (node, source) pair the counter diff is computed within -- diffing
+        # across two sources, or across two nodes, would subtract unrelated
+        # counters.
+        Index("idx_node_samples_node_source_at_ms", "node", "source", "at_ms"),
+        # Both trims (the scrape worker's unconditional one and the per-project
+        # retention pass) delete by age, which is the only scan this table has
+        # to survive at ~57k rows/day.
+        Index("idx_node_samples_at_ms", "at_ms"),
+    )
+
+    id: int | None = Field(default=None, primary_key=True)
+
+    # The operator's name for the target, from the scrape config -- NOT the
+    # exporter's ``node_id`` label. livekit-server mints a fresh ``node_id`` per
+    # process unless it is pinned, so keying on it would split one host's series
+    # in two at every restart: exactly when the counter-reset rule needs the two
+    # halves adjacent to notice the reset.
+    node: str
+
+    # Which exporter produced the row: 'livekit-server' | 'livekit-sip' |
+    # 'node-exporter'. Not a foreign key to anything; it is the second half of
+    # the series key.
+    source: str
+
+    # Scrape wall clock, epoch milliseconds, stamped once per tick by the worker
+    # so every target in one pass shares a timestamp. BigInteger: ~1.8e12 today.
+    at_ms: int = Field(sa_type=BigInteger)
+
+    # A sample is host-scoped, not project-scoped: a node serves whatever traffic
+    # lands on it. The column exists so the row ages out on the same per-project
+    # retention pass as everything else, and it is not part of any payload.
+    project: str = Field(default="default")
+
+    # How the scrape ended: 'ok' | 'timeout' | 'unreachable' | 'http_error' |
+    # 'too_large' | 'unparseable'. A failed scrape still writes a row -- a gap in
+    # the series that says why beats a silent gap that reads as "nothing
+    # happened".
+    outcome: str
+
+    # How many of the series expected for ``source`` were present in the
+    # exposition. NULL when the scrape never produced a body. 0 with
+    # ``outcome='ok'`` is the signature of a renamed metric, which is otherwise
+    # indistinguishable from an idle node.
+    series_found: int | None = None
+
+    # ---- livekit-server ---------------------------------------------------
+    # Gauges are stored as scraped; counters are cumulative and are diffed at
+    # read time.
+    rooms: int | None = None
+    participants: int | None = None
+    packets_total: int | None = Field(default=None, sa_type=BigInteger)
+    # BigInteger is load-bearing here (see the module docstring).
+    packet_bytes_total: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- livekit-sip ------------------------------------------------------
+    # Fleet aggregates only. livekit-sip is blind to anything per-call, so
+    # nothing here may be joined to a ``calls`` row.
+    sip_calls_active: int | None = None
+    sip_invite_requests_raw_total: int | None = Field(default=None, sa_type=BigInteger)
+    sip_invite_requests_total: int | None = Field(default=None, sa_type=BigInteger)
+    sip_invite_accepted_total: int | None = Field(default=None, sa_type=BigInteger)
+    sip_calls_terminated_total: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- node_exporter (host) ---------------------------------------------
+    # The file-descriptor pair is the M4 headline: a ramp knee correlated with
+    # ``filefd_allocated`` reaching ``filefd_maximum`` on one host.
+    filefd_allocated: int | None = Field(default=None, sa_type=BigInteger)
+    # BigInteger, not Integer: ``fs.file-max`` is frequently ~9.2e18.
+    filefd_maximum: int | None = Field(default=None, sa_type=BigInteger)
+    load1: float | None = None
+    # CPU is two counters, not a percentage: busy fraction over a window is
+    # ``1 - d(idle)/d(total)``, which only the read-time diff can compute. A
+    # stored percentage would have to pick a window at write time and would go
+    # negative across a reboot.
+    cpu_seconds_total: float | None = None
+    cpu_idle_seconds_total: float | None = None
+    memory_available_bytes: int | None = Field(default=None, sa_type=BigInteger)
+    memory_total_bytes: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- Go runtime (livekit-server and livekit-sip are both Go) -----------
+    # The return-to-baseline pair: after a load run is torn down and the reap
+    # timeouts have passed, these two should come back near where they started.
+    #
+    # RSS is deliberately NOT one of them. Go returns freed heap to the OS
+    # lazily, so a process that has fully drained can hold its resident size for
+    # a long time afterwards. Gating on RSS would report a leak that is not one,
+    # and worse, it would do so on every healthy run, which trains a reader to
+    # ignore the gate. ``heap_inuse`` is what the runtime actually still holds,
+    # and a goroutine count that does not come down is the shape a real leak
+    # takes here (a per-call goroutine that never exits).
+    #
+    # ``heap_inuse_bytes`` rather than ``heap_inuse``: every other byte column in
+    # this table carries its unit in the name.
+    heap_inuse_bytes: int | None = Field(default=None, sa_type=BigInteger)
+    go_goroutines: int | None = None
+
+    # ---- answer latency ---------------------------------------------------
+    # The engagement's single biggest risk: livekit-sip withholds 200 OK until
+    # it has subscribed to an audio track, so the answering participant's join
+    # time IS the caller-visible answer latency. These are the only server-side
+    # series that measure it.
+    #
+    # That identity is MEASURED rather than argued. On livekit-sip 1.10.1 the
+    # HELP string reads "SIP room join duration (from INVITE to mixed room
+    # audio)", naming both boundaries, and the three duration families close on
+    # a real call: session (INVITE to closed) minus call (successful pin to
+    # closed) is 0.056775603 s against a join sum of 0.056595646 s, agreeing to
+    # 0.18 ms. Join is the pre-200-OK segment of the session, not a number that
+    # merely tracks it.
+    #
+    # A histogram is stored as its _sum and _count rather than its buckets,
+    # because buckets are cumulative and summing them counts one observation
+    # once per bucket. Two explicit bucket counts are kept alongside so a
+    # proportion under a bound is answerable without a percentile: le=1 and
+    # le=5 are the two the acceptance conversation actually turns on.
+    sip_join_sec_sum: float | None = None
+    sip_join_sec_count: int | None = Field(default=None, sa_type=BigInteger)
+    sip_join_le1_count: int | None = Field(default=None, sa_type=BigInteger)
+    sip_join_le5_count: int | None = Field(default=None, sa_type=BigInteger)
+    sip_check_sec_sum: float | None = None
+    sip_check_sec_count: int | None = Field(default=None, sa_type=BigInteger)
+    session_start_time_ms_sum: int | None = Field(default=None, sa_type=BigInteger)
+    session_start_time_ms_count: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- file descriptors, the limit that actually binds -------------------
+    # The PER-PROCESS rlimit, not the host fs.file-max. The host figure is
+    # commonly unbounded and unstorable, and the limit a service actually hits
+    # is its own LimitNOFILE, which node_exporter structurally cannot see.
+    process_open_fds: int | None = Field(default=None, sa_type=BigInteger)
+    process_max_fds: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- admission and media ----------------------------------------------
+    # sip_available is "whether this node can accept new requests" and flips to
+    # 0 when it stops taking INVITEs, which is both the health signal and the
+    # node-drain test.
+    sip_available: int | None = None
+    # Present on livekit-sip ONLY. Absent from every livekit_* family on the
+    # server, so it is never wired there.
+    sip_node_cpu_load: float | None = None
+    # Split by direction and never summed. A call that sent 337 and received
+    # 330 sums to 667, and one-way audio disappears into that single number.
+    sip_rtp_packets_recv: int | None = Field(default=None, sa_type=BigInteger)
+    sip_rtp_packets_send: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- kernel OOM kills ---------------------------------------------------
+    # VERIFIED on a live prom/node-exporter: node_vmstat_oom_kill reads 0 on a
+    # healthy box. Cumulative since boot, so only an INCREASE inside a window
+    # means the kernel killed something during the run.
+    #
+    # Gated separately from process restarts on purpose. A crash presents as a
+    # restart, so the restart gate covers crashes; but "no restart" does not
+    # prove "no OOM", because the kernel can kill a child or a sibling process
+    # without the scraped service ever restarting. Folding them together would
+    # let one clean signal vouch for a criterion it does not cover.
+    vmstat_oom_kill: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- Redis, the shared state every SIP node depends on ------------------
+    # VERIFIED against a live oliver006/redis_exporter against redis:7, not
+    # inferred: every name below was read off its exposition before wiring.
+    #
+    # redis_up is the primary signal and the only one that answers "was Redis
+    # reachable at all". 0 means the exporter ran and could not reach Redis,
+    # which is a fact; NULL means nobody scraped, which is not.
+    redis_up: int | None = None
+    redis_rejected_connections_total: int | None = Field(
+        default=None, sa_type=BigInteger
+    )
+    redis_memory_used_bytes: int | None = Field(default=None, sa_type=BigInteger)
+    # A live exporter reports 0 here when no maxmemory is configured, which is
+    # NOT "no memory available": it is "no limit". Storing it raw and dividing
+    # would either divide by zero or read as total exhaustion, so the
+    # unbounded case is recorded separately, exactly as filefd_maximum is.
+    redis_memory_max_bytes: int | None = Field(default=None, sa_type=BigInteger)
+    # 1 unbounded, 0 a real limit, NULL unmeasured. Derived, not scraped.
+    redis_memory_max_unbounded: int | None = None
+    redis_blocked_clients: int | None = None
+    redis_evicted_keys_total: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- health endpoint ----------------------------------------------------
+    # Not a Prometheus series. Written by the same sampling loop onto the same
+    # time axis, so a "sustained failure" gate has a window of samples to reason
+    # over exactly like every other criterion, at the cost of three columns
+    # rather than a parallel probe subsystem.
+    #
+    # 1 healthy (any 2xx), 0 unhealthy, NULL not probed. NULL is the answer when
+    # no health endpoint is configured, and it must never be read as 0: "nobody
+    # asked" and "it answered badly" are different facts.
+    health_ok: int | None = None
+    # The HTTP status when a response arrived at all, NULL when none did. This
+    # is what separates "returned 503" from "refused the connection".
+    # livekit-sip answers 200 OK, 429 UnderLoad or 503 Unavailable;
+    # livekit-server answers 200 or 406.
+    health_status_code: int | None = None
+    # 1 when the failure was a deadline rather than a refusal. Both leave
+    # health_status_code NULL, and they are different problems: a refusal means
+    # nothing is listening, a timeout means something is listening and stuck.
+    health_timed_out: int | None = None
+
+    # ---- restart and attribution ------------------------------------------
+    # A process that restarted mid-run invalidates every counter rate across
+    # the restart. start_time is what makes that visible rather than a mystery
+    # discontinuity.
+    process_start_time_seconds: float | None = None
+    process_cpu_seconds_total: float | None = None
+    process_resident_memory_bytes: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- port headroom ----------------------------------------------------
+    # UDP sockets in use against ports that could not be allocated. The second
+    # is the one that matters: a non-zero rate means the box ran out of ports,
+    # which at 500 concurrent is a far more likely wall than CPU.
+    sockstat_udp_inuse: int | None = Field(default=None, sa_type=BigInteger)
+    udp_no_ports_total: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- stale state ------------------------------------------------------
+    # Read for what does NOT come down after teardown. Named _total by the
+    # exporter but behaving as gauges: they are current counts, not cumulative,
+    # so they are never diffed.
+    track_published_total: int | None = Field(default=None, sa_type=BigInteger)
+    track_subscribed_total: int | None = Field(default=None, sa_type=BigInteger)
+    psrpc_stream_count: int | None = Field(default=None, sa_type=BigInteger)
+
+    # ---- unbounded marker -------------------------------------------------
+    # THREE states, and the distinction between them is the entire point.
+    # 1 means the host file-descriptor maximum parsed as effectively unbounded,
+    # so headroom on it cannot run out. 0 means it parsed as a real bound. NULL
+    # means nobody measured it. "Cannot run out" and "nobody looked" are
+    # different claims and this table's doctrine forbids collapsing them.
+    #
+    # Integer rather than Boolean so it travels the same coercion path as every
+    # other scraped column instead of needing a parallel one. It is derived
+    # from node_filefd_maximum rather than scraped directly, but it is still an
+    # observation about one scrape, which is what a value column is.
+    filefd_maximum_unbounded: int | None = None
+
+    # ---- RTP port headroom -------------------------------------------------
+    # The pair that answers "how close is this node to running out of media
+    # ports", which is the wall a SIP box hits long before CPU does.
+    #
+    # ``media_ports_total`` is a DECLARED config value (the size of the
+    # configured rtp_port range, e.g. 10001), not a measurement. It is stored on
+    # the sample anyway so the ratio is computed against the range that was in
+    # force at that instant rather than against whatever the config says at read
+    # time. A node that publishes in_use without total leaves this NULL, and the
+    # headroom is then UNKNOWN: dividing by a guessed range size would invent a
+    # percentage nobody measured.
+    #
+    # ``media_ports_in_use`` counts UDP sockets bound inside that range, so it is
+    # narrower than sockstat_udp_inuse (which counts every UDP socket on the
+    # host, including signalling and DNS) and is the only one of the two that
+    # can be read as a fraction of the range.
+    media_ports_total: int | None = None
+    media_ports_in_use: int | None = None
+
+    # ---- network headroom --------------------------------------------------
+    # Cloud hosts shape traffic rather than dropping it silently, and the ethtool
+    # allowance counters are where that shaping is admitted. A non-zero DELTA
+    # over a run means the instance was throttled, which presents to a caller as
+    # jitter and loss that no application metric explains.
+    #
+    # Cumulative since driver reset, so only an increase inside the window is
+    # attributable to the run. This is not theoretical: one real SIP node reads
+    # 9613 on bw_in from before the engagement started while its twin reads 0,
+    # so an absolute reading would fail a node for throttling it never suffered
+    # during the test.
+    #
+    # BigInteger on all five: they are unbounded cumulative counters, and an
+    # INT4 that overflows is a 500 on PostgreSQL and a silent wrong number on
+    # SQLite.
+    ethtool_bw_in_allowance_exceeded: int | None = Field(
+        default=None, sa_type=BigInteger
+    )
+    ethtool_bw_out_allowance_exceeded: int | None = Field(
+        default=None, sa_type=BigInteger
+    )
+    ethtool_pps_allowance_exceeded: int | None = Field(default=None, sa_type=BigInteger)
+    ethtool_conntrack_allowance_exceeded: int | None = Field(
+        default=None, sa_type=BigInteger
+    )
+    ethtool_linklocal_allowance_exceeded: int | None = Field(
+        default=None, sa_type=BigInteger
+    )
+
+    # The throughput the allowance counters are the ceiling on. Split by
+    # direction and never summed: one-way audio is invisible in a total, exactly
+    # as with the sip_rtp_packets pair. BigInteger because a busy node passes
+    # 2 GiB within hours.
+    network_receive_bytes_total: int | None = Field(default=None, sa_type=BigInteger)
+    network_transmit_bytes_total: int | None = Field(default=None, sa_type=BigInteger)

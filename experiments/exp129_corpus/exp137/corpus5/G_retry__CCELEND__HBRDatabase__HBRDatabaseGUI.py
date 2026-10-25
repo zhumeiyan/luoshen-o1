@@ -1,1 +1,340 @@
-aW1wb3J0IHN5cwppbXBvcnQgb3MKaW1wb3J0IHR0a2Jvb3RzdHJhcCBhcyB0dGsKZnJvbSB0dGtib290c3RyYXAuY29uc3RhbnRzIGltcG9ydCAqCgpmcm9tIGNhbnZhc19ldmVudHMgaW1wb3J0IEFydHdvcmtEaXNwbGF5ZXJIZWlnaHQKZnJvbSB3aW5kb3cgaW1wb3J0IHNldF93aW5kb3dfZXhwYW5kLCBzZXRfd2luZG93X2ljb24sIGNyZWF0X3dpbmRvdywgc2V0X3dpbmRvd190b3AsIHNldF9nbG9iYWxfYmcKZnJvbSB3aW5kb3cgaW1wb3J0IGxvYWRfbWVudV9pY29uLCBnZXRfaWNvX3BhdGhfYnlfbmFtZQpmcm9tIHNjcm9sbGJhcl9mcmFtZV93aW4gaW1wb3J0IFNjcm9sbGJhckZyYW1lV2luCmZyb20gdG9vbHMgaW1wb3J0IGRlbGV0ZV9vbGRfZmlsZV9hbmRfc3ViZGlycywgaXNfYWRtaW4KZnJvbSDml6Xlv5cuZXJyb3JfcXVldWVfcHJvYyBpbXBvcnQgY2hlY2tfZXJyb3JfcXVldWUKZnJvbSDmm7TmlrAuY2hlY2tfcHJvYyBpbXBvcnQgY2hlY2tfZm9yX3VwZGF0ZXMKCnN5cy5wYXRoLmFwcGVuZChvcy5wYXRoLmFic3BhdGgoIi4v5oyB5pyJ54mpIikpCmZyb20g5oyB5pyJ54mpLumlsOWTgS5qZXdlbHJ5c193aW4gaW1wb3J0IHNob3dfamV3ZWxyeXNfdHlwZQpmcm9tIOaMgeacieeJqS7lpZbmna/li4vnq6AudHJvcGh5X21lZGFsc193aW4gaW1wb3J0IHNob3dfdHJvcGh5X21lZGFscwpmcm9tIOaMgeacieeJqS7pgZPlhbcucHJvcHNfd2luIGltcG9ydCBzaG93X3Byb3BzCmZyb20g5oyB5pyJ54mpLuS4u+e6v+mBk+WFty5tYWluX3Byb3BzX3dpbiBpbXBvcnQgc2hvd19tYWluX3Byb3BzCmZyb20g5oyB5pyJ54mpLumlsOWTgeadkOaWmS5qZXdlbHJ5X21hdGVyaWFsc193aW4gaW1wb3J0IHNob3dfamV3ZWxyeV9tYXRlcmlhbHMKZnJvbSDmjIHmnInniaku5oiQ6ZW/57Sg5p2QLmdyb3d0aF9tYXRlcmlhbHNfd2luIGltcG9ydCBzaG93X2dyb3d0aF9tYXRlcmlhbHMKZnJvbSDmjIHmnInniaku5rS75Yqo5aWW56ugLm1lZGFsc193aW4gaW1wb3J0IHNob3dfbWVkYWxzCmZyb20g5oyB5pyJ54mpLuW8uuWMlue0oOadkC5zdHJlbmd0aGVuX21hdGVyaWFsc193aW4gaW1wb3J0IHNob3dfc3RyZW5ndGhlbl9tYXRlcmlhbHMKZnJvbSDmjIHmnInniaku5YWl5Zy65Yi4LnRpY2tldHNfd2luIGltcG9ydCBzaG93X3RpY2tldHMKZnJvbSDmjIHmnInniaku6LSn5biBLmN1cnJlbmN5c193aW4gaW1wb3J0IHNob3dfY3VycmVuY3lzCmZyb20g5oyB5pyJ54mpLuWinuW5heWZqC5hbXBsaWZpZXJzX3dpbiBpbXBvcnQgc2hvd19hbXBsaWZpZXJzCmZyb20g5oyB5pyJ54mpLuaJreibi+adkOaWmS5jYXBzdWxldG95c193aW4gaW1wb3J0IHNob3dfY2Fwc3VsZXRveXMKZnJvbSDmjIHmnInniaku6Iqv54mHLmNoaXBzX3dpbiBpbXBvcnQgc2hvd19jaGlwcwpmcm9tIOaMgeacieeJqS7noo7niYcuZnJhZ21lbnRzX3dpbiBpbXBvcnQgc2hvd19mcmFnbWVudHMKCnN5cy5wYXRoLmFwcGVuZChvcy5wYXRoLmFic3BhdGgoIi4v5oiY5paX57O757ufIikpCmZyb20g5oiY5paX57O757ufLuWFsem4o+Wkqei1iy5nbXRmX3dpbiBpbXBvcnQgY3JlYXRfZ210Zl93aW4KZnJvbSDmiJjmlpfns7vnu58u5Z+656GALmpjX3dpbiBpbXBvcnQgY3JlYXRfamNfd2luCmZyb20g5oiY5paX57O757ufLk9ELm9kX3dpbiBpbXBvcnQgY3JlYXRfb2Rfd2luCmZyb20g5oiY5paX57O757ufLuS5mOWMui5jcV93aW4gaW1wb3J0IGNyZWF0X2NxX3dpbgpmcm9tIOaImOaWl+ezu+e7ny7ogYzkuJouY2FyZWVyc193aW4gaW1wb3J0IHNob3dfY2FyZWVyCmZyb20g5oiY5paX57O757ufLuatpuWZqC53ZWFwb25zX3dpbiBpbXBvcnQgc2hvd193ZWFwb24KZnJvbSDmiJjmlpfns7vnu58u5bGe5oCnLmF0dHJpYnV0ZXNfd2luIGltcG9ydCBzaG93X2F0dHJpYnV0ZQpmcm9tIOaImOaWl+ezu+e7ny7nirbmgIEuc3RhdHVzX3dpbiBpbXBvcnQgc2hvd19zdGF0dQoKc3lzLnBhdGguYXBwZW5kKG9zLnBhdGguYWJzcGF0aCgiLi/mlYzkuroiKSkKZnJvbSDmlYzkurou5Li757q/Lnp4X3dpbiBpbXBvcnQgc2hvd196eF9lbmVteXMKZnJvbSDmlYzkurou5pe26ZKf5aGULnN6dF93aW4gaW1wb3J0IHNob3dfc3p0X2VuZW15cwpmcm9tIOaVjOS6ui7lhYnnkINCT1NTLmdxYm9zc193aW4gaW1wb3J0IHNob3dfZ3Fib3NzX2VuZW15cwpmcm9tIOaVjOS6ui7ml7bkuYvkv67ngrzlnLouc3p4bGNfd2luIGltcG9ydCBzaG93X3N6eGxjX2VuZW15cwpmcm9tIOaVjOS6ui7mo7HplZzmiJgubGp6X3dpbiBpbXBvcnQgc2hvd19sanpfZW5lbXlzCmZyb20g5pWM5Lq6LuWuneefs+ajsemVnOaImC5ic2xqel93aW4gaW1wb3J0IHNob3dfYnNsanpfZW5lbXlzCmZyb20g5pWM5Lq6LuW8guaXtuWxgi55c2Nfd2luIGltcG9ydCBzaG93X3lzY19lbmVteXMKZnJvbSDmlYzkurou6auY5YiG5oyR5oiYLmdmdHpfd2luIGltcG9ydCBzaG93X2dmdHpfZW5lbXlzCmZyb20g5pWM5Lq6LuaBkuaYn+aImC5oeHpfd2luIGltcG9ydCBzaG93X2h4el9lbmVteXMKZnJvbSDmlYzkurou6YGt6YGH5oiYLnp5el93aW4gaW1wb3J0IHNob3dfenl6X2VuZW15cwoKc3lzLnBhdGguYXBwZW5kKG9zLnBhdGguYWJzcGF0aCgiLi/mkJzntKIiKSkKZnJvbSDmkJzntKIuc2VhcmNoX3dpbiBpbXBvcnQgY3JlYXRfc2VhcmNoX3dpbgoKc3lzLnBhdGguYXBwZW5kKG9zLnBhdGguYWJzcGF0aCgiLi/op5LoibIiKSkKZnJvbSDop5LoibIudGVhbV93aW4gaW1wb3J0IGNyZWF0X3RlYW1fd2luCgpzeXMucGF0aC5hcHBlbmQob3MucGF0aC5hYnNwYXRoKCIuL+abtOaWsCIpKQpmcm9tIOabtOaWsC5odHRwX3VwZGF0ZV9wcm9jZXNzaW5nIGltcG9ydCBodHRwX3VwZGF0ZV9kYXRhCgpzeXMucGF0aC5hcHBlbmQob3MucGF0aC5hYnNwYXRoKCIuL+mfs+S5kCIpKQpmcm9tIOmfs+S5kC5Mb2FkIGltcG9ydCBjcmVhdF9tdXNpY193aW5fdGsgYXMgY3JlYXRfbXVzaWNfd2luCgpzeXMucGF0aC5hcHBlbmQob3MucGF0aC5hYnNwYXRoKCIuL+W3peWFtyIpKQpmcm9tIOW3peWFty5HZXRFbnRyaWVzR1VJTG9jYWwuc2VlZF90b29scy5Mb2FkIGltcG9ydCBsb2FkX3NlZWRfdG9vbHMKZnJvbSDlt6XlhbcuR2V0RW50cmllc0dVSUxvY2FsLkxvYWQgaW1wb3J0IGNyZWF0X2N0X3dpbl90ayBhcyBjcmVhdF9jdF93aW4KZnJvbSDlt6XlhbcuRGFtYWdlU2NvcmVDYWwuTG9hZCBpbXBvcnQgY3JlYXRfZHNjX3dpbl90ayBhcyBjcmVhdF9kc2Nfd2luCmZyb20g5bel5YW3LkRhbWFnZVNjb3JlQ2FsLkxvYWQgaW1wb3J0IGNyZWF0X2RzY193aW5fdjJfdGsgYXMgY3JlYXRfZHNjX3dpbl92Mgpmcm9tIOW3peWFty5IQlJicm9jaHVyZS5Mb2FkIGltcG9ydCBnZXRfaGJyX2Jyb2NodXJlCmZyb20g5bel5YW3LkhCUuS8pOWus+aooeaLny5Mb2FkIGltcG9ydCBsb2FkX2hicl9kYW1hZ2Vfc2ltdWxhdGlvbgpmcm9tIOW3peWFty5BRlNHVG9vbHMuTG9hZCBpbXBvcnQgbG9hZF9BRlNHVG9vbHMKZnJvbSDlt6XlhbcuaGJyX3Rvb2wuTG9hZCBpbXBvcnQgbG9hZF9oYnJfdG9vbApmcm9tIOW3peWFty5oYnJfdG9vbF9vbGRfZGFtYWdlX2NhbGN1bGF0b3IuTG9hZCBpbXBvcnQgbG9hZF9oYnJfdG9vbF9vbGRfZGFtYWdlX2NhbGN1bGF0b3IKZnJvbSDlt6XlhbcuaGJyX2F4bGV0b29sLkxvYWQgaW1wb3J0IGxvYWRfaGJyX2F4bGV0b29sCmZyb20g5bel5YW3Lndpa2lfaGJyX2hkLkxvYWQgaW1wb3J0IGxvYWRfd2lraV9oYnJfaGQKZnJvbSDlt6Xlhbcu6K+N5p2h6K6h566X5ZmoLkxvYWQgaW1wb3J0IGxvYWRfZW50cnlfY2FsY3VsYXRvcgpmcm9tIOW3peWFty5vX2hicl9xdWVzdC5Mb2FkIGltcG9ydCBsb2FkX29faGJyX3F1ZXN0CmZyb20g5bel5YW3Lmhicl9xdWVzdC5Mb2FkIGltcG9ydCBsb2FkX2hicl9xdWVzdApmcm9tIOW3peWFty5nYW1lOF9oYnIuTG9hZCBpbXBvcnQgbG9hZF9nYW1lOF9oYnIKZnJvbSDlt6XlhbcuZ2FtZWtlZV9oYnIuTG9hZCBpbXBvcnQgbG9hZF9nYW1la2VlX2hicgpmcm9tIOW3peWFty7lhaXpmJ/ln7norq3miYvlhowuTG9hZCBpbXBvcnQgbG9hZF9nYW1lX2JpbGliaWxpX2NvbQpmcm9tIOW3peWFty5MaW5lQXJ0LmxpbmVfYXJ0X3dpbiBpbXBvcnQgY3JlYXRfbGluZV9hcnRfd2luCmZyb20g5bel5YW3LkxpbmVBcnQubGluZV9hcnRfd2luMiBpbXBvcnQgY3JlYXRfbGluZV9hcnRfd2luMgpmcm9tIOW3peWFty5MaW5lQXJ0LkxvYWQgaW1wb3J0IGxvYWRfTGluZUFydEdVSTJfUVQsIGxvYWRfdmlkZW9fbGluZV9hcnQKCnN5cy5wYXRoLmFwcGVuZChvcy5wYXRoLmFic3BhdGgoIi4v5YWz5LqOIikpCmZyb20g5YWz5LqOLmFib3V0X3dpbiBpbXBvcnQgY3JlYXRfYWJvdXRfd2luCgpzeXMucGF0aC5hcHBlbmQob3MucGF0aC5hYnNwYXRoKCIuL+aXpeW/lyIpKQpmcm9tIOaXpeW/ly5hZHZhbmNlZF9sb2dnZXIgaW1wb3J0IEFkdmFuY2VkTG9nZ2VyCmxvZ2dlciA9IEFkdmFuY2VkTG9nZ2VyLmdldF9sb2dnZXIoX19uYW1lX18pCgojIOWNoOS9jeWHveaVsApkZWYgdXBkYXRlX291dHB1dCh0ZXh0KToKICAgIHByaW50KHRleHQpCgojIOWFqOWxgOW/q+aNt+mUrue7keWumuWHveaVsApkZWYgYmluZF9zaG9ydGN1dHMocm9vdCwgc2Nyb2xsYmFyX2ZyYW1lX29iaik6CgogICAgIyBDdHJsK1Mg5omT5byA5pCc57SiCiAgICByb290LmJpbmRfYWxsKCc8Q29udHJvbC1zPicsIGxhbWJkYSBldmVudDogY3JlYXRfc2VhcmNoX3dpbihyb290LCBzY3JvbGxiYXJfZnJhbWVfb2JqKSkKICAgIHJvb3QuYmluZF9hbGwoJzxDb250cm9sLVM+JywgbGFtYmRhIGV2ZW50OiBjcmVhdF9zZWFyY2hfd2luKHJvb3QsIHNjcm9sbGJhcl9mcmFtZV9vYmopKQogICAgCiAgICAjIEN0cmwrVSDmm7TmlrDmlbDmja4KICAgIHJvb3QuYmluZF9hbGwoJzxDb250cm9sLXU+JywgbGFtYmRhIGV2ZW50OiBodHRwX3VwZGF0ZV9kYXRhKCkpCiAgICByb290LmJpbmRfYWxsKCc8Q29udHJvbC1VPicsIGxhbWJkYSBldmVudDogaHR0cF91cGRhdGVfZGF0YSgpKQogICAgCiAgICAjIEN0cmwrQSDlhbPkuo4KICAgIHJvb3QuYmluZF9hbGwoJzxDb250cm9sLWE+JywgbGFtYmRhIGV2ZW50OiBjcmVhdF9hYm91dF93aW4ocm9vdCkpCiAgICByb290LmJpbmRfYWxsKCc8Q29udHJvbC1BPicsIGxhbWJkYSBldmVudDogY3JlYXRfYWJvdXRfd2luKHJvb3QpKQogICAgCiAgICAjIEN0cmwrTSDpn7PkuZAKICAgIHJvb3QuYmluZF9hbGwoJzxDb250cm9sLW0+JywgbGFtYmRhIGV2ZW50OiBjcmVhdF9tdXNpY193aW4oKSkKICAgIHJvb3QuYmluZF9hbGwoJzxDb250cm9sLU0+JywgbGFtYmRhIGV2ZW50OiBjcmVhdF9tdXNpY193aW4oKSkKICAgIAogICAgIyBDdHJsK1Eg6YCA5Ye6CiAgICByb290LmJpbmRfYWxsKCc8Q29udHJvbC1xPicsIGxhbWJkYSBldmVudDogcm9vdC5xdWl0KCkpCiAgICByb290LmJpbmRfYWxsKCc8Q29udHJvbC1RPicsIGxhbWJkYSBldmVudDogcm9vdC5xdWl0KCkpCiAgICAKICAgICMgRjEg5omT5byA5pCc57SiCiAgICByb290LmJpbmRfYWxsKCc8RjE+JywgbGFtYmRhIGV2ZW50OiBjcmVhdF9zZWFyY2hfd2luKHJvb3QsIHNjcm9sbGJhcl9mcmFtZV9vYmopKQoKIyDliJvlu7rljZXkuKroj5zljZXpobnvvIzlubbnu5Hlrprlkb3ku6QKZGVmIGNyZWF0ZV9tZW51X2l0ZW0obWVudTogdHRrLk1lbnUsIGxhYmVsOiBzdHIsIGltYWdlLCBjb21tYW5kOiBjYWxsYWJsZSwgYWNjZWxlcmF0b3I9Tm9uZSwgKmFyZ3MpOgogICAgaWYgYWNjZWxlcmF0b3I6CiAgICAgICAgaWYgaW1hZ2U6CiAgICAgICAgICAgIG1lbnUuYWRkX2NvbW1hbmQobGFiZWw9bGFiZWwsIGltYWdlPWltYWdlLCBjb21wb3VuZD0ibGVmdCIsIAogICAgICAgICAgICAgICAgICAgICAgICAgICBhY2NlbGVyYXRvcj1hY2NlbGVyYXRvciwgY29tbWFuZD1sYW1iZGE6IGNvbW1hbmQoKmFyZ3MpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG1lbnUuYWRkX2NvbW1hbmQobGFiZWw9bGFiZWwsIGFjY2VsZXJhdG9yPWFjY2VsZXJhdG9yLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tbWFuZD1sYW1iZGE6IGNvbW1hbmQoKmFyZ3MpKQogICAgZWxzZToKICAgICAgICBpZiBpbWFnZToKICAgICAgICAgICAgbWVudS5hZGRfY29tbWFuZChsYWJlbD1sYWJlbCwgaW1hZ2U9aW1hZ2UsIGNvbXBvdW5kPSJsZWZ0IiwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbW1hbmQ9bGFtYmRhOiBjb21tYW5kKCphcmdzKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBtZW51LmFkZF9jb21tYW5kKGxhYmVsPWxhYmVsLCBjb21tYW5kPWxhbWJkYTogY29tbWFuZCgqYXJncykpCgojIOWIm+W7uuiPnOWNleagjwpkZWYgY3JlYXRlX21lbnUocGFyZW50X2ZyYW1lOiB0dGsuRnJhbWUsIHNjcm9sbGJhcl9mcmFtZV9vYmo6IFNjcm9sbGJhckZyYW1lV2luKToKICAgIAogICAgIyDliJvlu7roh6rlrprkuYnoj5zljZXmoLflvI8KICAgIHN0eWxlID0gdHRrLlN0eWxlKCkKICAgIHN0eWxlLmNvbmZpZ3VyZSgKICAgICAgICAiQ3VzdG9tLlRNZW51YnV0dG9uIiwgICMg5o6n5Yi26I+c5Y2V5oyJ6ZKu5qC35byPCiAgICAgICAgYmFja2dyb3VuZD0iI2YwZjBmMCIgICMg6IOM5pmv6ImyCiAgICApCiAgICBtZW51X2JhciA9IHR0ay5NZW51KHBhcmVudF9mcmFtZSkKCgogICAgIyDop5LoibLoj5zljZUg6I+c5Y2V5LiN5Y+v5YiG56a7CiAgICB0ZWFtX21lbnUgPSB0dGsuTWVudShtZW51X2JhciwgdGVhcm9mZj0wKQogICAgdGVhbV9uYW1lcyA9IFsKICAgICAgICAiMzFBIiwgIjMxQiIsICIzMUMiLCAiMzBHIiwgIjMxRCIsICIzMUUiLCAiMzFGIiwgIjMxWCIsICJBbmdlbCBCZWF0cyEiLCAi5Y+45Luk6YOoIiwgInBlcnNvbmE1ciIKICAgIF0KICAgIGZvciB0ZWFtX25hbWUgaW4gdGVhbV9uYW1lczoKICAgICAgICBpY29fcGF0aCA9IGdldF9pY29fcGF0aF9ieV9uYW1lKHRlYW1fbmFtZSkKICAgICAgICBpY29uID0gbG9hZF9tZW51X2ljb24oaWNvX3BhdGgsIHRlYW1fbmFtZSkKICAgICAgICBjcmVhdGVfbWVudV9pdGVtKHRlYW1fbWVudSwgdGVhbV9uYW1lLCBpY29uLAogICAgICAgICAgICBjcmVhdF90ZWFtX3dpbiwgTm9uZSwgcGFyZW50X2ZyYW1lLCB0ZWFtX25hbWUpCiAgICBtZW51X2Jhci5hZGRfY2FzY2FkZShsYWJlbD0i8J+RpOinkuiJsiIsIG1lbnU9dGVhbV9tZW51KQoKICAgICMg54mp5ZOB5p2Q5paZ6I+c5Y2VCiAgICBpdGVtX21lbnUgPSB0dGsuTWVudShtZW51X2JhciwgdGVhcm9mZj0wKQogICAgaXRlbV9uYW1lcyA9IFsKICAgICAgICAi5rS75Yqo6YGT5YW3IgogICAgXQogICAgZm9yIGl0ZW1fbmFtZSBpbiBpdGVtX25hbWVzOgogICAgICAgIGNyZWF0ZV9tZW51X2l0ZW0oaXRlbV9tZW51LCBpdGVtX25hbWUsIE5vbmUsIHVwZGF0ZV9vdXRwdXQsIE5vbmUsIGl0ZW1fbmFtZSkKCiAgICAjIOWumuS5ieiPnOWNlemhueeahOWQjeensOWSjOWvueW6lOeahOWbnuiwg+WHveaVsAogICAgbWVudV9pdGVtX2NhbGxzID0gWwogICAgICAgICgi5Li757q/6YGT5YW3Iiwgc2hvd19tYWluX3Byb3BzKSwKICAgICAgICAoIumBk+WFtyIsIHNob3dfcHJvcHMpLAogICAgICAgICgi6aWw5ZOBIiwgc2hvd19qZXdlbHJ5c190eXBlKSwKICAgICAgICAoIumlsOWTgeadkOaWmSIsIHNob3dfamV3ZWxyeV9tYXRlcmlhbHMpLAogICAgICAgICgi5rS75Yqo5aWW56ugIiwgc2hvd19tZWRhbHMpLAogICAgICAgICgi5aWW5p2v5YuL56ugIiwgc2hvd190cm9waHlfbWVkYWxzKSwKICAgICAgICAoIuaIkOmVv+e0oOadkCIsIHNob3dfZ3Jvd3RoX21hdGVyaWFscyksCiAgICAgICAgKCLlvLrljJbntKDmnZAiLCBzaG93X3N0cmVuZ3RoZW5fbWF0ZXJpYWxzKSwKICAgICAgICAoIuWinuW5heWZqCIsIHNob3dfYW1wbGlmaWVycyksCiAgICAgICAgKCLoiq/niYciLCBzaG93X2NoaXBzKSwKICAgICAgICAoIuWFpeWcuuWIuCIsIHNob3dfdGlja2V0cyksCiAgICAgICAgKCLmia3om4vmnZDmlpkiLCBzaG93X2NhcHN1bGV0b3lzKSwKICAgICAgICAoIueijueJhyIsIHNob3dfZnJhZ21lbnRzKSwKICAgICAgICAoIui0p+W4gSIsIHNob3dfY3VycmVuY3lzKSAgCiAgICBdCiAgICAjIOW+queOr+WIm+W7uuiPnOWNlemhuQogICAgZm9yIGl0ZW1fY2FsbF9uYW1lLCBjYWxsYmFjayBpbiBtZW51X2l0ZW1fY2FsbHM6CiAgICAgICAgaWNvX3BhdGggPSBnZXRfaWNvX3BhdGhfYnlfbmFtZShpdGVtX2NhbGxfbmFtZSkKICAgICAgICBpY29uID0gbG9hZF9tZW51X2ljb24oaWNvX3BhdGgsIGl0ZW1fY2FsbF9uYW1lKQogICAgICAgIGNyZWF0ZV9tZW51X2l0ZW0oaXRlbV9tZW51LCBpdGVtX2NhbGxfbmFtZSwgaWNvbiwgY2FsbGJhY2ssIE5vbmUsIHNjcm9sbGJhcl9mcmFtZV9vYmopCiAgICBtZW51X2Jhci5hZGRfY2FzY2FkZShsYWJlbD0i8J+TnOaMgeacieeJqSIsIG1lbnU9aXRlbV9tZW51KQoKICAgICMg5pWM5Lq66I+c5Y2VCiAgICBlbmVteV9tZW51ID0gdHRrLk1lbnUobWVudV9iYXIsIHRlYXJvZmY9MCkKICAgIGVuZW15X25hbWVzID0gWwogICAgICAgICLmtLvliqjmo7HplZzmiJgiLCLlup/ln58iCiAgICBdCiAgICBmb3IgZW5lbXlfbmFtZSBpbiBlbmVteV9uYW1lczoKICAgICAgICBjcmVhdGVfbWVudV9pdGVtKGVuZW15X21lbnUsIGVuZW15X25hbWUsIE5vbmUsIHVwZGF0ZV9vdXRwdXQsIE5vbmUsIGVuZW15X25hbWUpCgogICAgbWVudV9lbmVteV9jYWxscyA9IFsKICAgICAgICAoIuaXtumSn+WhlCIsIHNob3dfc3p0X2VuZW15cyksCiAgICAgICAgKCLkuLvnur8iLCBzaG93X3p4X2VuZW15cyksCiAgICAgICAgKCLlhYnnkINCT1NTIiwgc2hvd19ncWJvc3NfZW5lbXlzKSwKICAgICAgICAoIuaXtuS5i+S/rueCvOWcuiIsIHNob3dfc3p4bGNfZW5lbXlzKSwKICAgICAgICAoIuajsemVnOaImCIsIHNob3dfbGp6X2VuZW15cyksCiAgICAgICAgKCLlrp3nn7Pmo7HplZzmiJgiLCBzaG93X2JzbGp6X2VuZW15cyksCiAgICAgICAgKCLmgZLmmJ/miavojaHmiJjnur8iLCBzaG93X2h4el9lbmVteXMpLAogICAgICAgICgi6auY5YiG5oyR5oiYIiwgc2hvd19nZnR6X2VuZW15cyksCiAgICAgICAgKCLlvILml7blsYIiLCBzaG93X3lzY19lbmVteXMpLAogICAgICAgICgi6YGt6YGH5oiYIiwgc2hvd196eXpfZW5lbXlzKSwKICAgIF0KICAgICMg5b6q546v5Yib5bu66I+c5Y2V6aG5CiAgICBmb3IgZW5lbXlfY2FsbF9uYW1lLCBjYWxsYmFjayBpbiBtZW51X2VuZW15X2NhbGxzOgogICAgICAgIGljb19wYXRoID0gZ2V0X2ljb19wYXRoX2J5X25hbWUoZW5lbXlfY2FsbF9uYW1lKQogICAgICAgIGljb24gPSBsb2FkX21lbnVfaWNvbihpY29fcGF0aCwgZW5lbXlfY2FsbF9uYW1lKQogICAgICAgIGNyZWF0ZV9tZW51X2l0ZW0oZW5lbXlfbWVudSwgZW5lbXlfY2FsbF9uYW1lLCBpY29uLCBjYWxsYmFjaywgTm9uZSwgc2Nyb2xsYmFyX2ZyYW1lX29iaikKICAgICMgbWVudV9iYXIuYWRkX2Nhc2NhZGUobGFiZWw9IvCfqqzmlYzkuroiLCBtZW51PWVuZW15X21lbnUpCiAgICBtZW51X2Jhci5hZGRfY2FzY2FkZShsYWJlbD0i8J+RvuaVjOS6uiIsIG1lbnU9ZW5lbXlfbWVudSkKICAgIAogICAgIyDmiJjmlpfns7vnu5/oj5zljZUKICAgIGJhdHRsZV9tZW51ID0gdHRrLk1lbnUobWVudV9iYXIsIHRlYXJvZmY9MCkKICAgICMg5a6a5LmJ6I+c5Y2V6aG555qE5ZCN56ew5ZKM5a+55bqU55qE5Zue6LCD5Ye95pWwCiAgICBtZW51X2JhdHRsZV9jYWxscyA9IFsKICAgICAgICAoIuWFsem4o+Wkqei1iyIsIGNyZWF0X2dtdGZfd2luKSwgIAogICAgICAgICgi5Z+656GAIiwgY3JlYXRfamNfd2luKSwKICAgICAgICAoIkhpdCIsIGNyZWF0X29kX3dpbiksCiAgICAgICAgKCLkuZjljLoiLCBjcmVhdF9jcV93aW4pLAogICAgICAgICgi6IGM5LiaIiwgc2hvd19jYXJlZXIpLAogICAgICAgICgi5q2m5ZmoIiwgc2hvd193ZWFwb24pLAogICAgICAgICgi5bGe5oCnIiwgc2hvd19hdHRyaWJ1dGUpLAogICAgICAgICgi5pWI5p6c44CB54q25oCBIiwgc2hvd19zdGF0dSkKICAgIF0KICAgICMg5b6q546v5Yib5bu66I+c5Y2V6aG5CiAgICBmb3IgYmF0dGxlX2NhbGxfbmFtZSwgY2FsbGJhY2sgaW4gbWVudV9iYXR0bGVfY2FsbHM6CiAgICAgICAgaWYgYmF0dGxlX2NhbGxfbmFtZSBpbiBbJ+WFsem4o+Wkqei1iycsJ+WfuuehgCcsJ0hpdCcsJ+S5mOWMuiddOgogICAgICAgICAgICBpY29uID0gbG9hZF9tZW51X2ljb24oIi4v5oiY5paX57O757ufL2hlbHAuaWNvIiwgYmF0dGxlX2NhbGxfbmFtZSkKICAgICAgICAgICAgY3JlYXRlX21lbnVfaXRlbShiYXR0bGVfbWVudSwgYmF0dGxlX2NhbGxfbmFtZSwgaWNvbiwgY2FsbGJhY2ssIE5vbmUsIHBhcmVudF9mcmFtZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBpY29fcGF0aCA9IGdldF9pY29fcGF0aF9ieV9uYW1lKGJhdHRsZV9jYWxsX25hbWUpCiAgICAgICAgICAgIGljb24gPSBsb2FkX21lbnVfaWNvbihpY29fcGF0aCwgYmF0dGxlX2NhbGxfbmFtZSkKICAgICAgICAgICAgY3JlYXRlX21lbnVfaXRlbShiYXR0bGVfbWVudSwgYmF0dGxlX2NhbGxfbmFtZSwgaWNvbiwgY2FsbGJhY2ssIE5vbmUsIHNjcm9sbGJhcl9mcmFtZV9vYmopCiAgICBtZW51X2Jhci5hZGRfY2FzY2FkZShsYWJlbD0i4pqU5oiY5paX57O757ufIiwgbWVudT1iYXR0bGVfbWVudSkKCiAgICAjIOaQnOe0ouiPnOWNlSAtIOa3u+WKoOW/q+aNt+mUruaYvuekugogICAgc2VhcmNoX2ljb24gPSBsb2FkX21lbnVfaWNvbigiLi9mYXZpY29uLmljbyIsICLmkJzntKIiKQogICAgbWVudV9iYXIuYWRkX2NvbW1hbmQobGFiZWw9IvCflI3mkJzntKIiLCBjb21wb3VuZD0ibGVmdCIsCiAgICAgICAgYWNjZWxlcmF0b3I9IkN0cmwrUyIsIGNvbW1hbmQ9bGFtYmRhOiBjcmVhdF9zZWFyY2hfd2luKHBhcmVudF9mcmFtZSwgc2Nyb2xsYmFyX2ZyYW1lX29iaikpCgogICAgIyDpn7PkuZDoj5zljZUgLSDmt7vliqDlv6vmjbfplK7mmL7npLoKICAgIG11c2ljX2ljb24gPSBsb2FkX21lbnVfaWNvbigiLi9mYXZpY29uLmljbyIsICLpn7PkuZAiKQogICAgbWVudV9iYXIuYWRkX2NvbW1hbmQobGFiZWw9IvCfjqfpn7PkuZAiLCBjb21wb3VuZD0ibGVmdCIsCiAgICAgICAgYWNjZWxlcmF0b3I9IkN0cmwrTSIsIGNvbW1hbmQ9bGFtYmRhOiBjcmVhdF9tdXNpY193aW4oKSkKCiAgICAjIOW3peWFt+iPnOWNlQogICAgdG9vbF9tZW51ID0gdHRrLk1lbnUobWVudV9iYXIsIHRlYXJvZmY9MCkKICAgIG1lbnVfdG9vbF9jYWxscyA9IFsKICAgICAgICAoIuWbvueJh+i9rOe6v+eov+W3peWFtyIsIGNyZWF0X2xpbmVfYXJ0X3dpbiksCiAgICAgICAgKCLlm77niYfovaznur/nqL/lt6XlhbcyLjAiLCBjcmVhdF9saW5lX2FydF93aW4yKSwKICAgICAgICAoIuWbvueJh+i9rOe6v+eov+W3peWFtzIuMCBRVCIsIGxvYWRfTGluZUFydEdVSTJfUVQpLAogICAgICAgICgi6KeG6aKR6L2s57q/56i/IFFUIiwgbG9hZF92aWRlb19saW5lX2FydCksCiAgICAgICAgKCJzZWVkIHRvb2xzIiwgbG9hZF9zZWVkX3Rvb2xzKSwKICAgICAgICAoIuivjeadoeiOt+WPliIsIGNyZWF0X2N0X3dpbiksCiAgICAgICAgKCLkvKTlrrPliIborqHnrpciLCBjcmVhdF9kc2Nfd2luKSwKICAgICAgICAoIuS8pOWus+WIhuiuoeeul1YyIiwgY3JlYXRfZHNjX3dpbl92MiksCiAgICAgICAgKCLpo47moLzlm77pibTojrflj5YiLCBnZXRfaGJyX2Jyb2NodXJlKSwKICAgICAgICAoIkFGU0dUb29sc+S8pOWus+iuoeeulyIsIGxvYWRfQUZTR1Rvb2xzKSwKICAgICAgICAoIuS8pOWus+aooeaLnyIsIGxvYWRfaGJyX2RhbWFnZV9zaW11bGF0aW9uKSwKICAgICAgICAoImhici10b29sIiwgbG9hZF9oYnJfdG9vbCksCiAgICAgICAgKCJoYnItdG9vbOS8pOWus+iuoeeulyIsIGxvYWRfaGJyX3Rvb2xfb2xkX2RhbWFnZV9jYWxjdWxhdG9yKSwKICAgICAgICAoImhici1heGxldG9vbCIsIGxvYWRfaGJyX2F4bGV0b29sKSwKICAgICAgICAoIndpa2kuaGJyLWhkIiwgbG9hZF93aWtpX2hicl9oZCksCiAgICAgICAgKCLor43mnaHorqHnrpflmajvvIjlnKjnur/vvIkiLCBsb2FkX2VudHJ5X2NhbGN1bGF0b3IpLAogICAgICAgIAogICAgICAgICgiby5oYnIucXVlc3TvvIh2NS4xMO+8iSIsIGxvYWRfb19oYnJfcXVlc3QpLAogICAgICAgICgiaGJyLnF1ZXN0IiwgbG9hZF9oYnJfcXVlc3QpLAogICAgICAgICgi5YWl6Zif5Z+56K6t5omL5YaMIiwgbG9hZF9nYW1lX2JpbGliaWxpX2NvbSksCiAgICAgICAgKCJnYW1la2VlIiwgbG9hZF9nYW1la2VlX2hiciksCiAgICAgICAgKCJnYW1lOCIsIGxvYWRfZ2FtZThfaGJyKSwKICAgIF0KICAgICMg5b6q546v5Yib5bu66I+c5Y2V6aG5CiAgICBmb3IgdG9vbF9jYWxsX25hbWUsIGNhbGxiYWNrIGluIG1lbnVfdG9vbF9jYWxsczoKICAgICAgICBpY29uID0gbG9hZF9tZW51X2ljb24oIi4v5bel5YW3L3cxLmljbyIsIHRvb2xfY2FsbF9uYW1lKQogICAgICAgIGNyZWF0ZV9tZW51X2l0ZW0odG9vbF9tZW51LCB0b29sX2NhbGxfbmFtZSwgaWNvbiwgY2FsbGJhY2spCiAgICBtZW51X2Jhci5hZGRfY2FzY2FkZShsYWJlbD0i8J+boO+4j+W3peWFtyIsIG1lbnU9dG9vbF9tZW51KQoKCiAgICAjIOabtOaWsOaVsOaNruiPnOWNlSAtIOa3u+WKoOW/q+aNt+mUruaYvuekugogICAgdXBkYXRlX2ljb24gPSBsb2FkX21lbnVfaWNvbigiLi9mYXZpY29uLmljbyIsICLmm7TmlrAiKQogICAgbWVudV9iYXIuYWRkX2NvbW1hbmQobGFiZWw9IvCfk7Lmm7TmlrAiLCBjb21wb3VuZD0ibGVmdCIsCiAgICAgICAgYWNjZWxlcmF0b3I9IkN0cmwrVSIsIGNvbW1hbmQ9bGFtYmRhOiBodHRwX3VwZGF0ZV9kYXRhKCkpCgogICAgIyDlhbPkuo7oj5zljZUgLSDmt7vliqDlv6vmjbfplK7mmL7npLoKICAgIGFib3V0X2ljb24gPSBsb2FkX21lbnVfaWNvbigiLi9mYXZpY29uLmljbyIsICLlhbPkuo4iKQogICAgbWVudV9iYXIuYWRkX2NvbW1hbmQobGFiZWw9IvCfj7fvuI/lhbPkuo4iLCBjb21wb3VuZD0ibGVmdCIsCiAgICAgICAgYWNjZWxlcmF0b3I9IkN0cmwrQSIsIGNvbW1hbmQ9bGFtYmRhOiBjcmVhdF9hYm91dF93aW4ocGFyZW50X2ZyYW1lKSkKCiAgICBwYXJlbnRfZnJhbWUuY29uZmlnKG1lbnU9bWVudV9iYXIpCiAgICAKICAgICMg57uR5a6a5YWo5bGA5b+r5o236ZSuCiAgICBiaW5kX3Nob3J0Y3V0cyhwYXJlbnRfZnJhbWUsIHNjcm9sbGJhcl9mcmFtZV9vYmopCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgoKICAgIGlmIGlzX2FkbWluKCk6CiAgICAgICAgcm9vdF93aW5fbmFtZSA9ICJIQlJEYXRhYmFzZSAtIOS7peeuoeeQhuWRmOi6q+S7vei/kOihjCIKICAgIGVsc2U6CiAgICAgICAgcm9vdF93aW5fbmFtZSA9ICJIQlJEYXRhYmFzZSIKCiAgICAjIGZyb20gdGtpbnRlciBpbXBvcnQgbWVzc2FnZWJveAogICAgIyBtZXNzYWdlYm94LnNob3dpbmZvKCLmj5DnpLoiLCAgIiAg55Sx5LqO5L2c6ICF5bel5L2c5oCn6LSo5raJ5a+G562J5Y6f5Zug77yM5pys5pWw5o2u5bqT5a6i5oi356uv44CB5pyN5Yqh56uv5Y2z5bCG5YGc5q2i5pu05paw5Y+K57u05oqk44CCXG4gIOWmguacieWQjOWlveeOqeWutuaDs+imgee7p+e7reS9v+eUqOS7peWPiue7tOaKpOacjeWKoeWZqO+8jOivt+S4juaIkeiBlOezu+OAguaEn+iwouWkp+WutuS4gOebtOS7peadpeeahOaUr+aMge+8gVxuICDkvZzogIXvvJrkuI3lkIPoirHmpJLnmoTmsarmsarpmJ8iKQoKCiAgICBkZWxldGVfb2xkX2ZpbGVfYW5kX3N1YmRpcnMoKQoKICAgICMg5Yib5bu65Li756qX5Y+jCiAgICByb290ID0gY3JlYXRfd2luZG93KHJvb3Rfd2luX25hbWUsIDExNjAsIDcxNywgNDQwLCA1MCkjMTE2MAogICAgc2V0X2dsb2JhbF9iZyhyb290KQogICAgc2V0X3dpbmRvd19pY29uKHJvb3QsICIuL2Zhdmljb24uaWNvIikKICAgIHNldF93aW5kb3dfZXhwYW5kKHJvb3QsIHJvd3NwYW49MSwgY29sdW1uc3Bhbj02KQogICAgcm9vdC51cGRhdGUoKQoKICAgICMg57uR5a6a6byg5qCH54K55Ye75LqL5Lu25Yiw54i256qX5Y+j77yM54K55Ye7572u6aG2CiAgICByb290LmJpbmQoIjxCdXR0b24tMT4iLCBsYW1iZGEgZXZlbnQ6IHNldF93aW5kb3dfdG9wKHJvb3QpKQoKICAgIHNjcm9sbGJhcl9mcmFtZV9vYmogPSBTY3JvbGxiYXJGcmFtZVdpbihyb290LCBjb2x1bW5zcGFuPTYpCiAgICBzY3JvbGxiYXJfZnJhbWVfb2JqLnNjcm9sbGFibGVfZnJhbWUuZ3JpZF9yb3djb25maWd1cmUoMCwgd2VpZ2h0PTEpCiAgICAjIOWIm+W7uuiPnOWNlQogICAgY3JlYXRlX21lbnUocm9vdCwgc2Nyb2xsYmFyX2ZyYW1lX29iaikKCiAgICBBcnR3b3JrRGlzcGxheWVySGVpZ2h0KHNjcm9sbGJhcl9mcmFtZV9vYmouc2Nyb2xsYWJsZV9mcmFtZSwKICAgICAgICAidmJnX2hici5wbmciLCA3MTcsIDAsICI3MCUiKQoKICAgIGNoZWNrX2Vycm9yX3F1ZXVlKHJvb3QpCgogICAgY2hlY2tfZm9yX3VwZGF0ZXMoKQoKICAgIHJvb3QubWFpbmxvb3AoKQ==
+import sys
+import os
+import ttkbootstrap as ttk
+from ttkbootstrap.constants import *
+
+from canvas_events import ArtworkDisplayerHeight
+from window import set_window_expand, set_window_icon, creat_window, set_window_top, set_global_bg
+from window import load_menu_icon, get_ico_path_by_name
+from scrollbar_frame_win import ScrollbarFrameWin
+from tools import delete_old_file_and_subdirs, is_admin
+from 日志.error_queue_proc import check_error_queue
+from 更新.check_proc import check_for_updates
+
+sys.path.append(os.path.abspath("./持有物"))
+from 持有物.饰品.jewelrys_win import show_jewelrys_type
+from 持有物.奖杯勋章.trophy_medals_win import show_trophy_medals
+from 持有物.道具.props_win import show_props
+from 持有物.主线道具.main_props_win import show_main_props
+from 持有物.饰品材料.jewelry_materials_win import show_jewelry_materials
+from 持有物.成长素材.growth_materials_win import show_growth_materials
+from 持有物.活动奖章.medals_win import show_medals
+from 持有物.强化素材.strengthen_materials_win import show_strengthen_materials
+from 持有物.入场券.tickets_win import show_tickets
+from 持有物.货币.currencys_win import show_currencys
+from 持有物.增幅器.amplifiers_win import show_amplifiers
+from 持有物.扭蛋材料.capsuletoys_win import show_capsuletoys
+from 持有物.芯片.chips_win import show_chips
+from 持有物.碎片.fragments_win import show_fragments
+
+sys.path.append(os.path.abspath("./战斗系统"))
+from 战斗系统.共鸣天赋.gmtf_win import creat_gmtf_win
+from 战斗系统.基础.jc_win import creat_jc_win
+from 战斗系统.OD.od_win import creat_od_win
+from 战斗系统.乘区.cq_win import creat_cq_win
+from 战斗系统.职业.careers_win import show_career
+from 战斗系统.武器.weapons_win import show_weapon
+from 战斗系统.属性.attributes_win import show_attribute
+from 战斗系统.状态.status_win import show_statu
+
+sys.path.append(os.path.abspath("./敌人"))
+from 敌人.主线.zx_win import show_zx_enemys
+from 敌人.时钟塔.szt_win import show_szt_enemys
+from 敌人.光球BOSS.gqboss_win import show_gqboss_enemys
+from 敌人.时之修炼场.szxlc_win import show_szxlc_enemys
+from 敌人.棱镜战.ljz_win import show_ljz_enemys
+from 敌人.宝石棱镜战.bsljz_win import show_bsljz_enemys
+from 敌人.异时层.ysc_win import show_ysc_enemys
+from 敌人.高分挑战.gftz_win import show_gftz_enemys
+from 敌人.恒星战.hxz_win import show_hxz_enemys
+from 敌人.遭遇战.zyz_win import show_zyz_enemys
+
+sys.path.append(os.path.abspath("./搜索"))
+from 搜索.search_win import creat_search_win
+
+sys.path.append(os.path.abspath("./角色"))
+from 角色.team_win import creat_team_win
+
+sys.path.append(os.path.abspath("./更新"))
+from 更新.http_update_processing import http_update_data
+
+sys.path.append(os.path.abspath("./音乐"))
+from 音乐.Load import creat_music_win_tk as creat_music_win
+
+sys.path.append(os.path.abspath("./工具"))
+from 工具.GetEntriesGUILocal.seed_tools.Load import load_seed_tools
+from 工具.GetEntriesGUILocal.Load import creat_ct_win_tk as creat_ct_win
+from 工具.DamageScoreCal.Load import creat_dsc_win_tk as creat_dsc_win
+from 工具.DamageScoreCal.Load import creat_dsc_win_v2_tk as creat_dsc_win_v2
+from 工具.HBRbrochure.Load import get_hbr_brochure
+from 工具.HBR伤害模拟.Load import load_hbr_damage_simulation
+from 工具.AFSGTools.Load import load_AFSGTools
+from 工具.hbr_tool.Load import load_hbr_tool
+from 工具.hbr_tool_old_damage_calculator.Load import load_hbr_tool_old_damage_calculator
+from 工具.hbr_axletool.Load import load_hbr_axletool
+from 工具.wiki_hbr_hd.Load import load_wiki_hbr_hd
+from 工具.词条计算器.Load import load_entry_calculator
+from 工具.o_hbr_quest.Load import load_o_hbr_quest
+from 工具.hbr_quest.Load import load_hbr_quest
+from 工具.game8_hbr.Load import load_game8_hbr
+from 工具.gamekee_hbr.Load import load_gamekee_hbr
+from 工具.入队培训手册.Load import load_game_bilibili_com
+from 工具.LineArt.line_art_win import creat_line_art_win
+from 工具.LineArt.line_art_win2 import creat_line_art_win2
+from 工具.LineArt.Load import load_LineArtGUI2_QT, load_video_line_art
+
+sys.path.append(os.path.abspath("./关于"))
+from 关于.about_win import creat_about_win
+
+sys.path.append(os.path.abspath("./日志"))
+from 日志.advanced_logger import AdvancedLogger
+logger = AdvancedLogger.get_logger(__name__)
+
+# 占位函数
+def update_output(text):
+    print(text)
+
+# 全局快捷键绑定函数
+def bind_shortcuts(root, scrollbar_frame_obj):
+
+    # Ctrl+S 打开搜索
+    root.bind_all('<Control-s>', lambda event: creat_search_win(root, scrollbar_frame_obj))
+    root.bind_all('<Control-S>', lambda event: creat_search_win(root, scrollbar_frame_obj))
+    
+    # Ctrl+U 更新数据
+    root.bind_all('<Control-u>', lambda event: http_update_data())
+    root.bind_all('<Control-U>', lambda event: http_update_data())
+    
+    # Ctrl+A 关于
+    root.bind_all('<Control-a>', lambda event: creat_about_win(root))
+    root.bind_all('<Control-A>', lambda event: creat_about_win(root))
+    
+    # Ctrl+M 音乐
+    root.bind_all('<Control-m>', lambda event: creat_music_win())
+    root.bind_all('<Control-M>', lambda event: creat_music_win())
+    
+    # Ctrl+Q 退出
+    root.bind_all('<Control-q>', lambda event: root.quit())
+    root.bind_all('<Control-Q>', lambda event: root.quit())
+    
+    # F1 打开搜索
+    root.bind_all('<F1>', lambda event: creat_search_win(root, scrollbar_frame_obj))
+
+# 创建单个菜单项，并绑定命令
+def create_menu_item(menu: ttk.Menu, label: str, image, command: callable, accelerator=None, *args):
+    if accelerator:
+        if image:
+            menu.add_command(label=label, image=image, compound="left", 
+                           accelerator=accelerator, command=lambda: command(*args))
+        else:
+            menu.add_command(label=label, accelerator=accelerator, 
+                           command=lambda: command(*args))
+    else:
+        if image:
+            menu.add_command(label=label, image=image, compound="left", 
+                           command=lambda: command(*args))
+        else:
+            menu.add_command(label=label, command=lambda: command(*args))
+
+# 创建菜单栏
+def create_menu(parent_frame: ttk.Frame, scrollbar_frame_obj: ScrollbarFrameWin):
+    
+    # 创建自定义菜单样式
+    style = ttk.Style()
+    style.configure(
+        "Custom.TMenubutton",  # 控制菜单按钮样式
+        background="#f0f0f0"  # 背景色
+    )
+    menu_bar = ttk.Menu(parent_frame)
+
+
+    # 角色菜单 菜单不可分离
+    team_menu = ttk.Menu(menu_bar, tearoff=0)
+    team_names = [
+        "31A", "31B", "31C", "30G", "31D", "31E", "31F", "31X", "Angel Beats!", "司令部", "persona5r"
+    ]
+    for team_name in team_names:
+        ico_path = get_ico_path_by_name(team_name)
+        icon = load_menu_icon(ico_path, team_name)
+        create_menu_item(team_menu, team_name, icon,
+            creat_team_win, None, parent_frame, team_name)
+    menu_bar.add_cascade(label="👤角色", menu=team_menu)
+
+    # 物品材料菜单
+    item_menu = ttk.Menu(menu_bar, tearoff=0)
+    item_names = [
+        "活动道具"
+    ]
+    for item_name in item_names:
+        create_menu_item(item_menu, item_name, None, update_output, None, item_name)
+
+    # 定义菜单项的名称和对应的回调函数
+    menu_item_calls = [
+        ("主线道具", show_main_props),
+        ("道具", show_props),
+        ("饰品", show_jewelrys_type),
+        ("饰品材料", show_jewelry_materials),
+        ("活动奖章", show_medals),
+        ("奖杯勋章", show_trophy_medals),
+        ("成长素材", show_growth_materials),
+        ("强化素材", show_strengthen_materials),
+        ("增幅器", show_amplifiers),
+        ("芯片", show_chips),
+        ("入场券", show_tickets),
+        ("扭蛋材料", show_capsuletoys),
+        ("碎片", show_fragments),
+        ("货币", show_currencys)  
+    ]
+    # 循环创建菜单项
+    for item_call_name, callback in menu_item_calls:
+        ico_path = get_ico_path_by_name(item_call_name)
+        icon = load_menu_icon(ico_path, item_call_name)
+        create_menu_item(item_menu, item_call_name, icon, callback, None, scrollbar_frame_obj)
+    menu_bar.add_cascade(label="📜持有物", menu=item_menu)
+
+    # 敌人菜单
+    enemy_menu = ttk.Menu(menu_bar, tearoff=0)
+    enemy_names = [
+        "活动棱镜战","废域"
+    ]
+    for enemy_name in enemy_names:
+        create_menu_item(enemy_menu, enemy_name, None, update_output, None, enemy_name)
+
+    menu_enemy_calls = [
+        ("时钟塔", show_szt_enemys),
+        ("主线", show_zx_enemys),
+        ("光球BOSS", show_gqboss_enemys),
+        ("时之修炼场", show_szxlc_enemys),
+        ("棱镜战", show_ljz_enemys),
+        ("宝石棱镜战", show_bsljz_enemys),
+        ("恒星扫荡战线", show_hxz_enemys),
+        ("高分挑战", show_gftz_enemys),
+        ("异时层", show_ysc_enemys),
+        ("遭遇战", show_zyz_enemys),
+    ]
+    # 循环创建菜单项
+    for enemy_call_name, callback in menu_enemy_calls:
+        ico_path = get_ico_path_by_name(enemy_call_name)
+        icon = load_menu_icon(ico_path, enemy_call_name)
+        create_menu_item(enemy_menu, enemy_call_name, icon, callback, None, scrollbar_frame_obj)
+    # menu_bar.add_cascade(label="🪬敌人", menu=enemy_menu)
+    menu_bar.add_cascade(label="👾敌人", menu=enemy_menu)
+    
+    # 战斗系统菜单
+    battle_menu = ttk.Menu(menu_bar, tearoff=0)
+    # 定义菜单项的名称和对应的回调函数
+    menu_battle_calls = [
+        ("共鸣天赋", creat_gmtf_win),  
+        ("基础", creat_jc_win),
+        ("Hit", creat_od_win),
+        ("乘区", creat_cq_win),
+        ("职业", show_career),
+        ("武器", show_weapon),
+        ("属性", show_attribute),
+        ("效果、状态", show_statu)
+    ]
+    # 循环创建菜单项
+    for battle_call_name, callback in menu_battle_calls:
+        if battle_call_name in ['共鸣天赋','基础','Hit','乘区']:
+            icon = load_menu_icon("./战斗系统/help.ico", battle_call_name)
+            create_menu_item(battle_menu, battle_call_name, icon, callback, None, parent_frame)
+        else:
+            ico_path = get_ico_path_by_name(battle_call_name)
+            icon = load_menu_icon(ico_path, battle_call_name)
+            create_menu_item(battle_menu, battle_call_name, icon, callback, None, scrollbar_frame_obj)
+    menu_bar.add_cascade(label="⚔战斗系统", menu=battle_menu)
+
+    # 搜索菜单 - 添加快捷键显示
+    search_icon = load_menu_icon("./favicon.ico", "搜索")
+    menu_bar.add_command(label="🔍搜索", compound="left",
+        accelerator="Ctrl+S", command=lambda: creat_search_win(parent_frame, scrollbar_frame_obj))
+
+    # 音乐菜单 - 添加快捷键显示
+    music_icon = load_menu_icon("./favicon.ico", "音乐")
+    menu_bar.add_command(label="🎧音乐", compound="left",
+        accelerator="Ctrl+M", command=lambda: creat_music_win())
+
+    # 工具菜单
+    tool_menu = ttk.Menu(menu_bar, tearoff=0)
+    menu_tool_calls = [
+        ("图片转线稿工具", creat_line_art_win),
+        ("图片转线稿工具2.0", creat_line_art_win2),
+        ("图片转线稿工具2.0 QT", load_LineArtGUI2_QT),
+        ("视频转线稿 QT", load_video_line_art),
+        ("seed tools", load_seed_tools),
+        ("词条获取", creat_ct_win),
+        ("伤害分计算", creat_dsc_win),
+        ("伤害分计算V2", creat_dsc_win_v2),
+        ("风格图鉴获取", get_hbr_brochure),
+        ("AFSGTools伤害计算", load_AFSGTools),
+        ("伤害模拟", load_hbr_damage_simulation),
+        ("hbr-tool", load_hbr_tool),
+        ("hbr-tool伤害计算", load_hbr_tool_old_damage_calculator),
+        ("hbr-axletool", load_hbr_axletool),
+        ("wiki.hbr-hd", load_wiki_hbr_hd),
+        ("词条计算器（在线）", load_entry_calculator),
+        
+        ("o.hbr.quest（v5.10）", load_o_hbr_quest),
+        ("hbr.quest", load_hbr_quest),
+        ("入队培训手册", load_game_bilibili_com),
+        ("gamekee", load_gamekee_hbr),
+        ("game8", load_game8_hbr),
+    ]
+    # 循环创建菜单项
+    for tool_call_name, callback in menu_tool_calls:
+        icon = load_menu_icon("./工具/w1.ico", tool_call_name)
+        create_menu_item(tool_menu, tool_call_name, icon, callback)
+    menu_bar.add_cascade(label="🛠️工具", menu=tool_menu)
+
+
+    # 更新数据菜单 - 添加快捷键显示
+    update_icon = load_menu_icon("./favicon.ico", "更新")
+    menu_bar.add_command(label="📲更新", compound="left",
+        accelerator="Ctrl+U", command=lambda: http_update_data())
+
+    # 关于菜单 - 添加快捷键显示
+    about_icon = load_menu_icon("./favicon.ico", "关于")
+    menu_bar.add_command(label="🏷️关于", compound="left",
+        accelerator="Ctrl+A", command=lambda: creat_about_win(parent_frame))
+
+    parent_frame.config(menu=menu_bar)
+    
+    # 绑定全局快捷键
+    bind_shortcuts(parent_frame, scrollbar_frame_obj)
+
+if __name__ == "__main__":
+
+    if is_admin():
+        root_win_name = "HBRDatabase - 以管理员身份运行"
+    else:
+        root_win_name = "HBRDatabase"
+
+    # from tkinter import messagebox
+    # messagebox.showinfo("提示",  "  由于作者工作性质涉密等原因，本数据库客户端、服务端即将停止更新及维护。\n  如有同好玩家想要继续使用以及维护服务器，请与我联系。感谢大家一直以来的支持！\n  作者：不吃花椒的汪汪队")
+
+
+    delete_old_file_and_subdirs()
+
+    # 创建主窗口
+    root = creat_window(root_win_name, 1160, 717, 440, 50)#1160
+    set_global_bg(root)
+    set_window_icon(root, "./favicon.ico")
+    set_window_expand(root, rowspan=1, columnspan=6)
+    root.update()
+
+    # 绑定鼠标点击事件到父窗口，点击置顶
+    root.bind("<Button-1>", lambda event: set_window_top(root))
+
+    scrollbar_frame_obj = ScrollbarFrameWin(root, columnspan=6)
+    scrollbar_frame_obj.scrollable_frame.grid_rowconfigure(0, weight=1)
+    # 创建菜单
+    create_menu(root, scrollbar_frame_obj)
+
+    ArtworkDisplayerHeight(scrollbar_frame_obj.scrollable_frame,
+        "vbg_hbr.png", 717, 0, "70%")
+
+    check_error_queue(root)
+
+    check_for_updates()
+
+    root.mainloop()

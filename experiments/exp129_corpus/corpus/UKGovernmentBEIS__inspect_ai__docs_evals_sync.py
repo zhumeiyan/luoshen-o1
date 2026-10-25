@@ -1,1 +1,167 @@
-IiIiTG9hZCBpbnNwZWN0X2V2YWxzIGV2YWwueWFtbCBmaWxlcyBpbnRvIG5vcm1hbGl6ZWQgRXZhbFJlY29yZCBkaWN0cy4KClJlYWRzIGB7aW5zcGVjdF9ldmFsc30vc3JjL2luc3BlY3RfZXZhbHMvKi9ldmFsLnlhbWxgIGFuZCBlbWl0cyByZWNvcmRzIG1hdGNoaW5nCnRoZSBkZXNpZ24gc2NoZW1hIGNvbnN1bWVkIGJ5IHRoZSAvZG9jcy9ldmFscyBTUEEuIENhdGVnb3JpZXMgY29tZSBmcm9tIHRoZQp1cHN0cmVhbSBgZ3JvdXBgIGZpZWxkIHBsdXMgb3B0aW9uYWwgYWRkaXRpb25zIGZyb20gYGV2YWxzX292ZXJyaWRlcy55bWxgLgpXcml0ZXMgYXJlIGhhbmRsZWQgYnkgc3luY19hbGwucHkg4oCUIHRoaXMgbW9kdWxlIG9ubHkgbG9hZHMuCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmltcG9ydCB5YW1sCgpIRVJFID0gUGF0aChfX2ZpbGVfXykucGFyZW50Ck9WRVJMQVlfRklMRSA9IEhFUkUgLyAiZXZhbHNfb3ZlcnJpZGVzLnltbCIKCkNBVEVHT1JZX09SREVSID0gWwogICAgIkNvZGluZyIsCiAgICAiQXNzaXN0YW50cyIsCiAgICAiUmVhc29uaW5nIiwKICAgICJLbm93bGVkZ2UiLAogICAgIkN5YmVyc2VjdXJpdHkiLAogICAgIlNhZmVndWFyZHMiLAogICAgIlNjaWVuY2UiLAogICAgIk1hdGhlbWF0aWNzIiwKICAgICJCaW9sb2d5IiwKICAgICJDaGVtaXN0cnkiLAogICAgIlBoeXNpY3MiLAogICAgIlByb2Zlc3Npb25hbCIsCiAgICAiRmluYW5jZSIsCiAgICAiTWVkaWNpbmUiLAogICAgIkxhdyIsCiAgICAiQmVoYXZpb3IiLAogICAgIk11bHRpbW9kYWwiLAogICAgIlNjaGVtaW5nIiwKXQoKQ0FURUdPUllfVk9DQUIgPSBzZXQoQ0FURUdPUllfT1JERVIpCgoKZGVmIF9maXJzdF9zZW50ZW5jZSh0ZXh0OiBzdHIpIC0+IHN0cjoKICAgIHRleHQgPSAiICIuam9pbih0ZXh0LnNwbGl0KCkpCiAgICBmb3Igc2VwIGluICgiLiAiLCAiISAiLCAiPyAiKToKICAgICAgICBpZHggPSB0ZXh0LmZpbmQoc2VwKQogICAgICAgIGlmIGlkeCAhPSAtMToKICAgICAgICAgICAgcmV0dXJuIHRleHRbOiBpZHggKyAxXQogICAgcmV0dXJuIHRleHQKCgpkZWYgX2Rlcml2ZV9raW5kKHRhZ3M6IGxpc3Rbc3RyXSkgLT4gc3RyOgogICAgdGFnX3NldCA9IHt0Lmxvd2VyKCkgZm9yIHQgaW4gdGFnc30KICAgIGlmICJtdWx0aW1vZGFsIiBpbiB0YWdfc2V0OgogICAgICAgIHJldHVybiAibXVsdGltb2RhbCIKICAgIGlmICJhZ2VudCIgaW4gdGFnX3NldDoKICAgICAgICByZXR1cm4gImFnZW50IgogICAgaWYgImtub3dsZWRnZSIgaW4gdGFnX3NldDoKICAgICAgICByZXR1cm4gInFhIgogICAgcmV0dXJuICJnZW5lcmF0aW9uIgoKCmRlZiBfZGVyaXZlX21vZGFsaXRpZXModGFnczogbGlzdFtzdHJdLCBtZXRhZGF0YTogZGljdFtzdHIsIEFueV0pIC0+IGxpc3Rbc3RyXToKICAgIHRhZ19zZXQgPSB7dC5sb3dlcigpIGZvciB0IGluIHRhZ3N9CiAgICBtb2RzOiBsaXN0W3N0cl0gPSBbXQogICAgaWYgImFnZW50IiBpbiB0YWdfc2V0OgogICAgICAgIG1vZHMuYXBwZW5kKCJhZ2VudCIpCiAgICBpZiAidG9vbHMiIGluIHRhZ19zZXQgb3IgInRvb2wtdXNlIiBpbiB0YWdfc2V0OgogICAgICAgIG1vZHMuYXBwZW5kKCJ0b29sLXVzZSIpCiAgICBpZiBtZXRhZGF0YS5nZXQoInNhbmRib3giKToKICAgICAgICBtb2RzLmFwcGVuZCgic2FuZGJveCIpCiAgICBpZiAibXVsdGltb2RhbCIgaW4gdGFnX3NldDoKICAgICAgICBtb2RzLmFwcGVuZCgidmlzaW9uIikKICAgIGlmICJtdWx0aS10dXJuIiBpbiB0YWdfc2V0OgogICAgICAgIG1vZHMuYXBwZW5kKCJtdWx0aS10dXJuIikKICAgIGlmIG5vdCBtb2RzOgogICAgICAgIG1vZHMuYXBwZW5kKCJ0ZXh0IikKICAgIHJldHVybiBtb2RzCgoKZGVmIF9kZXJpdmVfc2FtcGxlcyh0YXNrczogbGlzdFtkaWN0W3N0ciwgQW55XV0pIC0+IGludCB8IE5vbmU6CiAgICBmb3IgdGFzayBpbiB0YXNrcyBvciBbXToKICAgICAgICBuID0gdGFzay5nZXQoImRhdGFzZXRfc2FtcGxlcyIpCiAgICAgICAgaWYgaXNpbnN0YW5jZShuLCBpbnQpOgogICAgICAgICAgICByZXR1cm4gbgogICAgcmV0dXJuIE5vbmUKCgpkZWYgX2Rlcml2ZV90YXNrX25hbWUoc2x1Zzogc3RyLCB0YXNrczogbGlzdFtkaWN0W3N0ciwgQW55XV0pIC0+IHN0cjoKICAgICIiIlBpY2sgdGhlIHRhc2sgbmFtZSB0byBleHBvc2UgaW4gQ0xJIC8gUHl0aG9uIHNuaXBwZXRzLgoKICAgIE1vc3QgZXZhbHMgaGF2ZSBhIHNpbmdsZSB0YXNrIHdob3NlIG5hbWUgbWF0Y2hlcyB0aGUgZGlyZWN0b3J5IHNsdWcKICAgIChlLmcuIGBgZ3BxYV9kaWFtb25kL2BgIGNvbnRhaW5zIHRhc2sgYGBncHFhX2RpYW1vbmRgYCkuIFNvbWUgZGlyZWN0b3JpZXMKICAgIGJ1bmRsZSBtdWx0aXBsZSB2YXJpYW50cyB1bmRlciBhIG5vbi1tYXRjaGluZyBzbHVnIChlLmcuIGBgbW1sdS9gYAogICAgY29udGFpbnMgYGBtbWx1XzBfc2hvdGBgIGFuZCBgYG1tbHVfNV9zaG90YGApOyBmb3IgdGhvc2Ugd2UgdXNlIHRoZQogICAgZmlyc3QgdGFzaydzIG5hbWUgc28gdGhlIHJlbmRlcmVkIGBgaW5zcGVjdCBldmFsIC4uLmBgIGNvbW1hbmQgYW5kCiAgICBQeXRob24gaW1wb3J0IGFjdHVhbGx5IHdvcmsuCiAgICAiIiIKICAgIHRhc2tfbmFtZXMgPSBbCiAgICAgICAgdC5nZXQoIm5hbWUiKSBmb3IgdCBpbiAodGFza3Mgb3IgW10pIGlmIGlzaW5zdGFuY2UodCwgZGljdCkgYW5kIHQuZ2V0KCJuYW1lIikKICAgIF0KICAgIGlmIHRhc2tfbmFtZXMgYW5kIHNsdWcgbm90IGluIHRhc2tfbmFtZXM6CiAgICAgICAgcmV0dXJuIHN0cih0YXNrX25hbWVzWzBdKQogICAgcmV0dXJuIHNsdWcKCgpkZWYgX2xvYWRfb3ZlcmxheSgpIC0+IGRpY3Rbc3RyLCBkaWN0W3N0ciwgQW55XV06CiAgICBpZiBub3QgT1ZFUkxBWV9GSUxFLmV4aXN0cygpOgogICAgICAgIHJldHVybiB7fQogICAgZGF0YSA9IHlhbWwuc2FmZV9sb2FkKE9WRVJMQVlfRklMRS5yZWFkX3RleHQoKSkgb3Ige30KICAgIGlmIG5vdCBpc2luc3RhbmNlKGRhdGEsIGRpY3QpOgogICAgICAgIHJldHVybiB7fQogICAgcmV0dXJuIGRhdGEKCgpkZWYgX3RvX3JlY29yZCgKICAgIHlhbWxfcGF0aDogUGF0aCwKICAgIGluc3BlY3RfZXZhbHNfcGF0aDogUGF0aCwKICAgIG92ZXJsYXk6IGRpY3Rbc3RyLCBkaWN0W3N0ciwgQW55XV0sCikgLT4gZGljdFtzdHIsIEFueV06CiAgICBkYXRhID0geWFtbC5zYWZlX2xvYWQoeWFtbF9wYXRoLnJlYWRfdGV4dCgpKQogICAgc2x1ZyA9IHlhbWxfcGF0aC5wYXJlbnQubmFtZQogICAgdGFncyA9IGRhdGEuZ2V0KCJ0YWdzIikgb3IgW10KICAgIG1ldGFkYXRhID0gZGF0YS5nZXQoIm1ldGFkYXRhIikgb3Ige30KICAgIG92ID0gb3ZlcmxheS5nZXQoc2x1Zywge30pCgogICAgZ3JvdXAgPSBkYXRhLmdldCgiZ3JvdXAiLCAiT3RoZXIiKQogICAgaWYgImNhdGVnb3JpZXMiIGluIG92OgogICAgICAgIGNhdGVnb3JpZXMgPSBsaXN0KG92WyJjYXRlZ29yaWVzIl0pCiAgICBlbHNlOgogICAgICAgIGNhdGVnb3JpZXMgPSBbZ3JvdXBdCgogICAgcGFwZXIgPSBvdi5nZXQoImFyeGl2Iikgb3Igb3YuZ2V0KCJwYXBlciIpIG9yIGRhdGEuZ2V0KCJhcnhpdiIpCgogICAgdGl0bGUgPSBkYXRhLmdldCgidGl0bGUiLCBzbHVnKQogICAgaWYgIjogIiBpbiB0aXRsZToKICAgICAgICB0aXRsZSA9IHRpdGxlLnNwbGl0KCI6ICIsIDEpWzBdCgogICAgdGFza3MgPSBkYXRhLmdldCgidGFza3MiKSBvciBbXQogICAgdGFza19uYW1lID0gX2Rlcml2ZV90YXNrX25hbWUoc2x1ZywgdGFza3MpCgogICAgcmV0dXJuIHsKICAgICAgICAiaWQiOiBzbHVnLAogICAgICAgICJuYW1lIjogdGl0bGUsCiAgICAgICAgInNvdXJjZSI6ICJldmFscyIsCiAgICAgICAgImNhdGVnb3JpZXMiOiBjYXRlZ29yaWVzLAogICAgICAgICJ0YWdzIjogbGlzdCh0YWdzKSwKICAgICAgICAia2luZCI6IF9kZXJpdmVfa2luZCh0YWdzKSwKICAgICAgICAibW9kYWxpdGllcyI6IF9kZXJpdmVfbW9kYWxpdGllcyh0YWdzLCBtZXRhZGF0YSksCiAgICAgICAgImRlc2MiOiBfZmlyc3Rfc2VudGVuY2UoKGRhdGEuZ2V0KCJkZXNjcmlwdGlvbiIpIG9yICIiKS5zdHJpcCgpKSwKICAgICAgICAicGFwZXIiOiBwYXBlciwKICAgICAgICAiY29kZSI6IGYiaW5zcGVjdF9ldmFscy97dGFza19uYW1lfSIsCiAgICAgICAgImNvbnRyaWJ1dG9ycyI6IGxpc3QoZGF0YS5nZXQoImNvbnRyaWJ1dG9ycyIpIG9yIFtdKSwKICAgICAgICAic2FtcGxlcyI6IF9kZXJpdmVfc2FtcGxlcyh0YXNrcyksCiAgICAgICAgImZlYXR1cmVkIjogRmFsc2UsCiAgICAgICAgInVybCI6IGYiaHR0cHM6Ly91a2dvdmVybm1lbnRiZWlzLmdpdGh1Yi5pby9pbnNwZWN0X2V2YWxzL2V2YWxzL3tzbHVnfS8iLAogICAgfQoKCmRlZiBsb2FkX2V2YWxzKGluc3BlY3RfZXZhbHNfcGF0aDogUGF0aCkgLT4gbGlzdFtkaWN0W3N0ciwgQW55XV06CiAgICBvdmVybGF5ID0gX2xvYWRfb3ZlcmxheSgpCiAgICByZWNvcmRzOiBsaXN0W2RpY3Rbc3RyLCBBbnldXSA9IFtdCiAgICBmb3IgeWFtbF9wYXRoIGluIHNvcnRlZCgKICAgICAgICAoaW5zcGVjdF9ldmFsc19wYXRoIC8gInNyYyIgLyAiaW5zcGVjdF9ldmFscyIpLmdsb2IoIiovZXZhbC55YW1sIikKICAgICk6CiAgICAgICAgcmVjb3Jkcy5hcHBlbmQoX3RvX3JlY29yZCh5YW1sX3BhdGgsIGluc3BlY3RfZXZhbHNfcGF0aCwgb3ZlcmxheSkpCiAgICByZXR1cm4gcmVjb3Jkcwo=
+"""Load inspect_evals eval.yaml files into normalized EvalRecord dicts.
+
+Reads `{inspect_evals}/src/inspect_evals/*/eval.yaml` and emits records matching
+the design schema consumed by the /docs/evals SPA. Categories come from the
+upstream `group` field plus optional additions from `evals_overrides.yml`.
+Writes are handled by sync_all.py — this module only loads.
+"""
+
+from __future__ import annotations
+
+from pathlib import Path
+from typing import Any
+
+import yaml
+
+HERE = Path(__file__).parent
+OVERLAY_FILE = HERE / "evals_overrides.yml"
+
+CATEGORY_ORDER = [
+    "Coding",
+    "Assistants",
+    "Reasoning",
+    "Knowledge",
+    "Cybersecurity",
+    "Safeguards",
+    "Science",
+    "Mathematics",
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Professional",
+    "Finance",
+    "Medicine",
+    "Law",
+    "Behavior",
+    "Multimodal",
+    "Scheming",
+]
+
+CATEGORY_VOCAB = set(CATEGORY_ORDER)
+
+
+def _first_sentence(text: str) -> str:
+    text = " ".join(text.split())
+    for sep in (". ", "! ", "? "):
+        idx = text.find(sep)
+        if idx != -1:
+            return text[: idx + 1]
+    return text
+
+
+def _derive_kind(tags: list[str]) -> str:
+    tag_set = {t.lower() for t in tags}
+    if "multimodal" in tag_set:
+        return "multimodal"
+    if "agent" in tag_set:
+        return "agent"
+    if "knowledge" in tag_set:
+        return "qa"
+    return "generation"
+
+
+def _derive_modalities(tags: list[str], metadata: dict[str, Any]) -> list[str]:
+    tag_set = {t.lower() for t in tags}
+    mods: list[str] = []
+    if "agent" in tag_set:
+        mods.append("agent")
+    if "tools" in tag_set or "tool-use" in tag_set:
+        mods.append("tool-use")
+    if metadata.get("sandbox"):
+        mods.append("sandbox")
+    if "multimodal" in tag_set:
+        mods.append("vision")
+    if "multi-turn" in tag_set:
+        mods.append("multi-turn")
+    if not mods:
+        mods.append("text")
+    return mods
+
+
+def _derive_samples(tasks: list[dict[str, Any]]) -> int | None:
+    for task in tasks or []:
+        n = task.get("dataset_samples")
+        if isinstance(n, int):
+            return n
+    return None
+
+
+def _derive_task_name(slug: str, tasks: list[dict[str, Any]]) -> str:
+    """Pick the task name to expose in CLI / Python snippets.
+
+    Most evals have a single task whose name matches the directory slug
+    (e.g. ``gpqa_diamond/`` contains task ``gpqa_diamond``). Some directories
+    bundle multiple variants under a non-matching slug (e.g. ``mmlu/``
+    contains ``mmlu_0_shot`` and ``mmlu_5_shot``); for those we use the
+    first task's name so the rendered ``inspect eval ...`` command and
+    Python import actually work.
+    """
+    task_names = [
+        t.get("name") for t in (tasks or []) if isinstance(t, dict) and t.get("name")
+    ]
+    if task_names and slug not in task_names:
+        return str(task_names[0])
+    return slug
+
+
+def _load_overlay() -> dict[str, dict[str, Any]]:
+    if not OVERLAY_FILE.exists():
+        return {}
+    data = yaml.safe_load(OVERLAY_FILE.read_text()) or {}
+    if not isinstance(data, dict):
+        return {}
+    return data
+
+
+def _to_record(
+    yaml_path: Path,
+    inspect_evals_path: Path,
+    overlay: dict[str, dict[str, Any]],
+) -> dict[str, Any]:
+    data = yaml.safe_load(yaml_path.read_text())
+    slug = yaml_path.parent.name
+    tags = data.get("tags") or []
+    metadata = data.get("metadata") or {}
+    ov = overlay.get(slug, {})
+
+    group = data.get("group", "Other")
+    if "categories" in ov:
+        categories = list(ov["categories"])
+    else:
+        categories = [group]
+
+    paper = ov.get("arxiv") or ov.get("paper") or data.get("arxiv")
+
+    title = data.get("title", slug)
+    if ": " in title:
+        title = title.split(": ", 1)[0]
+
+    tasks = data.get("tasks") or []
+    task_name = _derive_task_name(slug, tasks)
+
+    return {
+        "id": slug,
+        "name": title,
+        "source": "evals",
+        "categories": categories,
+        "tags": list(tags),
+        "kind": _derive_kind(tags),
+        "modalities": _derive_modalities(tags, metadata),
+        "desc": _first_sentence((data.get("description") or "").strip()),
+        "paper": paper,
+        "code": f"inspect_evals/{task_name}",
+        "contributors": list(data.get("contributors") or []),
+        "samples": _derive_samples(tasks),
+        "featured": False,
+        "url": f"https://ukgovernmentbeis.github.io/inspect_evals/evals/{slug}/",
+    }
+
+
+def load_evals(inspect_evals_path: Path) -> list[dict[str, Any]]:
+    overlay = _load_overlay()
+    records: list[dict[str, Any]] = []
+    for yaml_path in sorted(
+        (inspect_evals_path / "src" / "inspect_evals").glob("*/eval.yaml")
+    ):
+        records.append(_to_record(yaml_path, inspect_evals_path, overlay))
+    return records

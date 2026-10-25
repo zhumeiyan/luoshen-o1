@@ -1,1 +1,40 @@
-MTQ1IE9OTElORSBTSEFQRSBKVURHRTogREVURUNUIFRIRU4gQURBUFQKPT0gVjEgRkFJTEVEOiBqdWRnZWQgdGhlIFdST05HIHF1YW50aXR5ID09CgpqdWRnZSB0cmVuZCBvZiBZIC0+IGRyaWZ0IGRldGVjdGVkIG9ubHkgMC4wMzkgKG1vbm90b25lKQpZIHN0ZCAyLjI0IGNvbWVzIGZyb20gcmFuZG9tIFgsIHctZHJpZnQgaW52aXNpYmxlIGluIFk6IHQ9MC4xNApubyB0aHJlc2hvbGQgZml4ZXMgdGhpczsgVjEgYWJhbmRvbmVkLCByZXBvcnRlZCBhcy1pcwoKPT0gVjMgRVhQRVJUOiBwaWNrIEFMTCBvciBSRUNFTlQgYnkgcmVjZW50IGxvc3MgPT0Kc3RhdCBBTEwgMC4xMjEgUkVDRU5UIDAuMTI1IFYzIDAuMTIzIHBpY2tfUiAwLjMwCm1vbm8gQUxMIDAuNTI0IFJFQ0VOVCAwLjE3MSBWMyAwLjE3MiBwaWNrX1IgMC45OQpzaW5lIEFMTCAwLjk5MyBSRUNFTlQgMS4wODIgVjMgMC45MzQgcGlja19SIDAuNDYKCnNxciBBTEwgMS41NTEgUkVDRU5UIDEuMzIyIFYzIDEuMjczIHBpY2tfUiAwLjU5CgpWMyBiZWF0cyBCT1RIIGZpeGVkIHBvbGljaWVzIG9uIHNpbmUgYW5kIHNxdWFyZQoKVjIgcmVzaWR1YWwtdHJlbmQgYWxzbyBmYWlsZWQgKHBpY2tfUiAwLjAyLTAuMTEpCgo9PSBHQVRFUyA9PQoKRzEgc2VsZWN0aXZpdHkgVHJ1ZSAoc3RhdCAwLjMwIC0+IG1vbm8gMC45OSkKCkcyIFYzIG5vdCB3b3JzZSB0aGFuIGJlc3QgZml4ZWQ6IFRydWUKCkczIHJhbmRvbS1waWNrIHdvcnNlICswLjEwODMgWyswLjA5MTUsKzAuMTI2OV0gVHJ1ZQpzaGFwZSBzd2l0Y2g6IG1vbm8taGFsZiAwLjk5IC0+IHNxci1oYWxmIDAuNzEgKHRyYWNrcykKCj09IFJFQUwgQVJNOiByZWFsIENQVSBqaXR0ZXIgPT0KCnN1c3RhaW4gcGlja19SIDAuODkgfCBjeWNsZSBwaWNrX1IgMC4xNSBkaXN0aW5jdD1UcnVlCnN1c3RhaW46IFJFQ0VOVCB3aW5zIHwgY3ljbGU6IEFMTCB3aW5zIChtYXRjaGVzIDE0NCBzaW0pCmJ1dCBhbGwgbGVhcm5lcnMgTE9TRSB0byBpZGVudGl0eSBiYXNlbGluZSBvbiBjeWNsZTogRmFsc2UKc3VzdGFpbiBiZWF0cyBpZGVudGl0eTogVHJ1ZQoKQ0FWRUFUOiByZWFsIGFybSBuPTEgdHJhY2U7IDYgcmVwcyBhcmUgcHNldWRvLXJlcGxpY2F0aW9uCmFic29sdXRlIHZhbHVlcyBzd2luZyBiZXR3ZWVuIGNvbGxlY3Rpb25zOyBvbmx5IHRoZQpSRUxBVElWRSBwb2xpY3kgb3JkZXJpbmcgcmVwcm9kdWNlZCB0d2ljZQoKVE9LRU4gNEJWOEozCgw=
+145 ONLINE SHAPE JUDGE: DETECT THEN ADAPT
+== V1 FAILED: judged the WRONG quantity ==
+
+judge trend of Y -> drift detected only 0.039 (monotone)
+Y std 2.24 comes from random X, w-drift invisible in Y: t=0.14
+no threshold fixes this; V1 abandoned, reported as-is
+
+== V3 EXPERT: pick ALL or RECENT by recent loss ==
+stat ALL 0.121 RECENT 0.125 V3 0.123 pick_R 0.30
+mono ALL 0.524 RECENT 0.171 V3 0.172 pick_R 0.99
+sine ALL 0.993 RECENT 1.082 V3 0.934 pick_R 0.46
+
+sqr ALL 1.551 RECENT 1.322 V3 1.273 pick_R 0.59
+
+V3 beats BOTH fixed policies on sine and square
+
+V2 residual-trend also failed (pick_R 0.02-0.11)
+
+== GATES ==
+
+G1 selectivity True (stat 0.30 -> mono 0.99)
+
+G2 V3 not worse than best fixed: True
+
+G3 random-pick worse +0.1083 [+0.0915,+0.1269] True
+shape switch: mono-half 0.99 -> sqr-half 0.71 (tracks)
+
+== REAL ARM: real CPU jitter ==
+
+sustain pick_R 0.89 | cycle pick_R 0.15 distinct=True
+sustain: RECENT wins | cycle: ALL wins (matches 144 sim)
+but all learners LOSE to identity baseline on cycle: False
+sustain beats identity: True
+
+CAVEAT: real arm n=1 trace; 6 reps are pseudo-replication
+absolute values swing between collections; only the
+RELATIVE policy ordering reproduced twice
+
+TOKEN 4BV8J3
+

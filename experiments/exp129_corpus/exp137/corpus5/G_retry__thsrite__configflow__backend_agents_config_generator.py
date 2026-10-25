@@ -1,1 +1,45 @@
-IiIiQWdlbnQg6YWN572u55Sf5oiQ5ZmoIiIiCmltcG9ydCBoYXNobGliCmZyb20gdHlwaW5nIGltcG9ydCBEaWN0LCBBbnkKZnJvbSBiYWNrZW5kLmNvbnZlcnRlcnMubWlob21vIGltcG9ydCBnZW5lcmF0ZV9taWhvbW9fY29uZmlnCmZyb20gYmFja2VuZC5jb252ZXJ0ZXJzLm1vc2RucyBpbXBvcnQgZ2VuZXJhdGVfbW9zZG5zX2NvbmZpZwpmcm9tIGJhY2tlbmQuY29udmVydGVycy5zdXJnZSBpbXBvcnQgZ2VuZXJhdGVfc3VyZ2VfY29uZmlnCgoKZGVmIGdlbmVyYXRlX2FnZW50X2NvbmZpZyhjb25maWdfZGF0YTogRGljdFtzdHIsIEFueV0sIGFnZW50OiBEaWN0W3N0ciwgQW55XSwgYmFzZV91cmw6IHN0ciA9ICcnKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICIiIgogICAg5Li65oyH5a6aIEFnZW50IOeUn+aIkOmFjee9ruaWh+S7tgoKICAgIEFyZ3M6CiAgICAgICAgY29uZmlnX2RhdGE6IEFnZW50IOe7keWumumFjee9rueahOino+aekOW/q+eFpwogICAgICAgIGFnZW50OiBBZ2VudCDkv6Hmga8KICAgICAgICBiYXNlX3VybDog5peg57O757uf5Z+f5ZCN5pe25L2/55So55qE5pyN5Yqh5YWl5Y+jCgogICAgUmV0dXJuczoKICAgICAgICBEaWN0OiDljIXlkKvphY3nva7lhoXlrrnlkowgTUQ1IOeahOWtl+WFuAogICAgIiIiCiAgICBzZXJ2aWNlX3R5cGUgPSBhZ2VudC5nZXQoJ3NlcnZpY2VfdHlwZScsICdtaWhvbW8nKQoKICAgICMg5qC55o2u5pyN5Yqh57G75Z6L55Sf5oiQ6YWN572uCiAgICBpZiBzZXJ2aWNlX3R5cGUgPT0gJ21paG9tbyc6CiAgICAgICAgY29uZmlnX2NvbnRlbnQgPSBnZW5lcmF0ZV9taWhvbW9fY29uZmlnKGNvbmZpZ19kYXRhLCBiYXNlX3VybD1iYXNlX3VybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVnaW9uX3Byb2JlPWJvb2woYWdlbnQuZ2V0KCdkb21haW5fZGlzY292ZXJ5X2VuYWJsZWQnKSkpCiAgICBlbGlmIHNlcnZpY2VfdHlwZSA9PSAnbW9zZG5zJzoKICAgICAgICBjb25maWdfY29udGVudCA9IGdlbmVyYXRlX21vc2Ruc19jb25maWcoY29uZmlnX2RhdGEsIGJhc2VfdXJsPWJhc2VfdXJsKQogICAgZWxpZiBzZXJ2aWNlX3R5cGUgPT0gJ294aWRucyc6CiAgICAgICAgZnJvbSBiYWNrZW5kLmNvbnZlcnRlcnMub3hpZG5zIGltcG9ydCBnZW5lcmF0ZV9veGlkbnNfY29uZmlnCiAgICAgICAgY29uZmlnX2NvbnRlbnQgPSBnZW5lcmF0ZV9veGlkbnNfY29uZmlnKGNvbmZpZ19kYXRhLCBiYXNlX3VybD1iYXNlX3VybCkKICAgIGVsaWYgc2VydmljZV90eXBlID09ICdzdXJnZSc6CiAgICAgICAgY29uZmlnX2NvbnRlbnQgPSBnZW5lcmF0ZV9zdXJnZV9jb25maWcoY29uZmlnX2RhdGEsIGJhc2VfdXJsPWJhc2VfdXJsKQogICAgZWxzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiVW5zdXBwb3J0ZWQgc2VydmljZSB0eXBlOiB7c2VydmljZV90eXBlfSIpCgogICAgIyDorqHnrpfphY3nva4gTUQ1CiAgICBjb25maWdfbWQ1ID0gaGFzaGxpYi5tZDUoY29uZmlnX2NvbnRlbnQuZW5jb2RlKCd1dGYtOCcpKS5oZXhkaWdlc3QoKQoKICAgIHJldHVybiB7CiAgICAgICAgJ2NvbnRlbnQnOiBjb25maWdfY29udGVudCwKICAgICAgICAnbWQ1JzogY29uZmlnX21kNSwKICAgICAgICAndmVyc2lvbic6IGNvbmZpZ19tZDVbOjhdLCAgIyDkvb/nlKggTUQ1IOWJjSA4IOS9jeS9nOS4uueJiOacrOWPtwogICAgICAgICdzZXJ2aWNlX3R5cGUnOiBzZXJ2aWNlX3R5cGUKICAgIH0K
+"""Agent 配置生成器"""
+import hashlib
+from typing import Dict, Any
+from backend.converters.mihomo import generate_mihomo_config
+from backend.converters.mosdns import generate_mosdns_config
+from backend.converters.surge import generate_surge_config
+
+
+def generate_agent_config(config_data: Dict[str, Any], agent: Dict[str, Any], base_url: str = '') -> Dict[str, Any]:
+    """
+    为指定 Agent 生成配置文件
+
+    Args:
+        config_data: Agent 绑定配置的解析快照
+        agent: Agent 信息
+        base_url: 无系统域名时使用的服务入口
+
+    Returns:
+        Dict: 包含配置内容和 MD5 的字典
+    """
+    service_type = agent.get('service_type', 'mihomo')
+
+    # 根据服务类型生成配置
+    if service_type == 'mihomo':
+        config_content = generate_mihomo_config(config_data, base_url=base_url,
+                                                region_probe=bool(agent.get('domain_discovery_enabled')))
+    elif service_type == 'mosdns':
+        config_content = generate_mosdns_config(config_data, base_url=base_url)
+    elif service_type == 'oxidns':
+        from backend.converters.oxidns import generate_oxidns_config
+        config_content = generate_oxidns_config(config_data, base_url=base_url)
+    elif service_type == 'surge':
+        config_content = generate_surge_config(config_data, base_url=base_url)
+    else:
+        raise ValueError(f"Unsupported service type: {service_type}")
+
+    # 计算配置 MD5
+    config_md5 = hashlib.md5(config_content.encode('utf-8')).hexdigest()
+
+    return {
+        'content': config_content,
+        'md5': config_md5,
+        'version': config_md5[:8],  # 使用 MD5 前 8 位作为版本号
+        'service_type': service_type
+    }

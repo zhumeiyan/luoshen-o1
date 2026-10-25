@@ -1,1 +1,334 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKQ3JlYXRlIGEgbmV3IHNjaGVtYSB3aXRoIGRlZGljYXRlZCB1c2VyIGFuZCBwcm9wZXIgcGVybWlzc2lvbnMuCgpTdXBwb3J0cyB0d28gbW9kZXM6CiAgMS4gR0VORVJBVEUgKGRlZmF1bHQpOiBPdXRwdXQgU1FMIHRvIHN0ZG91dC9maWxlIGZvciBtYW51YWwgcmV2aWV3IGFuZCBleGVjdXRpb24KICAyLiBFWEVDVVRFOiBSdW4gU1FMIGRpcmVjdGx5IGFnYWluc3QgZGF0YWJhc2UgKGRldi90ZXN0IG9ubHkpCgpVc2FnZToKICAgICMgR2VuZXJhdGUgU1FMIHRvIHN0ZG91dCAoZGVmYXVsdCAtIHNhZmUpCiAgICBweXRob24gY3JlYXRlX3NjaGVtYV91c2VyLnB5IDxzY2hlbWFfbmFtZT4gPHVzZXJuYW1lPiA8cGFzc3dvcmQ+IC0tZ2VuZXJhdGUKCiAgICAjIEdlbmVyYXRlIFNRTCB0byBmaWxlcwogICAgcHl0aG9uIGNyZWF0ZV9zY2hlbWFfdXNlci5weSA8c2NoZW1hX25hbWU+IDx1c2VybmFtZT4gPHBhc3N3b3JkPiAtLWdlbmVyYXRlIC0tb3V0cHV0LWRpciAuL3NxbAoKICAgICMgRXhlY3V0ZSBkaXJlY3RseSAoZGV2L3Rlc3Qgb25seSAtIHJlcXVpcmVzIGNvbm5lY3Rpb24gc3RyaW5nKQogICAgcHl0aG9uIGNyZWF0ZV9zY2hlbWFfdXNlci5weSA8c2NoZW1hX25hbWU+IDx1c2VybmFtZT4gPHBhc3N3b3JkPiAtLWV4ZWN1dGUgLS1jb25uZWN0aW9uLXN0cmluZyAicG9zdGdyZXNxbDovLy4uLiIKCkV4YW1wbGVzOgogICAgcHl0aG9uIGNyZWF0ZV9zY2hlbWFfdXNlci5weSBteWFwcCBhcHBfdXNlciAiJChvcGVuc3NsIHJhbmQgLWJhc2U2NCAzMikiIC0tZ2VuZXJhdGUKICAgIHB5dGhvbiBjcmVhdGVfc2NoZW1hX3VzZXIucHkgbXlhcHAgYXBwX3VzZXIgc2VjdXJlX3Bhc3MgLS1leGVjdXRlIC0tY29ubmVjdGlvbi1zdHJpbmcgIiRBRE1JTl9VUkwiCiIiIgoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBzeXMKaW1wb3J0IG9zCmltcG9ydCByZQpmcm9tIHVybGxpYi5wYXJzZSBpbXBvcnQgdXJscGFyc2UsIHBhcnNlX3FzCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCgoKSURFTlRJRklFUl9QQVRURVJOID0gcmUuY29tcGlsZShyIl5bQS1aYS16X11bQS1aYS16MC05X10qJCIpCgoKZGVmIHZhbGlkYXRlX2lkZW50aWZpZXIodmFsdWU6IHN0ciwgbGFiZWw6IHN0cikgLT4gc3RyOgogICAgIiIiVmFsaWRhdGUgU1FMIGlkZW50aWZpZXIgZm9yIGdlbmVyYXRlZCBTUUwgb3V0cHV0LiIiIgogICAgaWYgbm90IElERU5USUZJRVJfUEFUVEVSTi5mdWxsbWF0Y2godmFsdWUpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJJbnZhbGlkIHtsYWJlbH06IHt2YWx1ZSFyfS4gVXNlIGxldHRlcnMsIGRpZ2l0cywgYW5kIHVuZGVyc2NvcmVzIG9ubHkuIikKICAgIHJldHVybiB2YWx1ZQoKCmRlZiBzcWxfbGl0ZXJhbCh2YWx1ZTogc3RyKSAtPiBzdHI6CiAgICAiIiJFc2NhcGUgdmFsdWUgYXMgU1FMIHN0cmluZyBsaXRlcmFsLiIiIgogICAgcmV0dXJuICInIiArIHZhbHVlLnJlcGxhY2UoIiciLCAiJyciKSArICInIgoKIyBTUUwgVGVtcGxhdGVzClNFVFVQX1NRTF9URU1QTEFURSA9ICIiIi0tID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci0tIERhdGFiYXNlIFNldHVwIGZvcjoge3NjaGVtYV9uYW1lfQotLSBHZW5lcmF0ZWQ6IHt0aW1lc3RhbXB9Ci0tIE1vZGU6IHttb2RlfQotLSA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKXFxjIGRlZmF1bHRkYgoKLS0gQ3JlYXRlIGFwcGxpY2F0aW9uIHNjaGVtYQpDUkVBVEUgU0NIRU1BIElGIE5PVCBFWElTVFMgIntzY2hlbWFfbmFtZX0iOwoiIiIKClVTRVJTX1NRTF9URU1QTEFURSA9ICIiIi0tID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci0tIFVzZXIgU2V0dXAgZm9yOiB7c2NoZW1hX25hbWV9Ci0tIEdlbmVyYXRlZDoge3RpbWVzdGFtcH0KLS0gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLS0gU0VDVVJJVFk6IFJldmlldyBwYXNzd29yZCBiZWZvcmUgZXhlY3V0aW5nCi0tIEdlbmVyYXRlIHNlY3VyZSBwYXNzd29yZCB3aXRoOiBvcGVuc3NsIHJhbmQgLWJhc2U2NCAzMgoKQ1JFQVRFIFVTRVIge3VzZXJuYW1lfSBXSVRIIFBBU1NXT1JEIHtwYXNzd29yZF9saXRlcmFsfTsKIiIiCgpQRVJNSVNTSU9OU19TUUxfVEVNUExBVEUgPSAiIiItLSA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQotLSBQZXJtaXNzaW9ucyBmb3I6IHtzY2hlbWFfbmFtZX0gLT4ge3VzZXJuYW1lfQotLSBHZW5lcmF0ZWQ6IHt0aW1lc3RhbXB9Ci0tID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgotLSBHcmFudCBzY2hlbWEgdXNhZ2UKR1JBTlQgVVNBR0UgT04gU0NIRU1BICJ7c2NoZW1hX25hbWV9IiBUTyB7dXNlcm5hbWV9OwoKLS0gR3JhbnQgdGFibGUgcGVybWlzc2lvbnMgKENSVUQpCkdSQU5UIFNFTEVDVCwgSU5TRVJULCBVUERBVEUsIERFTEVURSBPTiBBTEwgVEFCTEVTIElOIFNDSEVNQSAie3NjaGVtYV9uYW1lfSIgVE8ge3VzZXJuYW1lfTsKCi0tIEdyYW50IHNlcXVlbmNlIHBlcm1pc3Npb25zIChmb3Igc2VyaWFsL2F1dG8taW5jcmVtZW50KQpHUkFOVCBVU0FHRSwgU0VMRUNUIE9OIEFMTCBTRVFVRU5DRVMgSU4gU0NIRU1BICJ7c2NoZW1hX25hbWV9IiBUTyB7dXNlcm5hbWV9OwoKLS0gR3JhbnQgZnVuY3Rpb24gcGVybWlzc2lvbnMKR1JBTlQgRVhFQ1VURSBPTiBBTEwgRlVOQ1RJT05TIElOIFNDSEVNQSAie3NjaGVtYV9uYW1lfSIgVE8ge3VzZXJuYW1lfTsKCi0tIENSSVRJQ0FMOiBTZXQgZGVmYXVsdCBwcml2aWxlZ2VzIGZvciBmdXR1cmUgb2JqZWN0cwpBTFRFUiBERUZBVUxUIFBSSVZJTEVHRVMgSU4gU0NIRU1BICJ7c2NoZW1hX25hbWV9IiAKICBHUkFOVCBTRUxFQ1QsIElOU0VSVCwgVVBEQVRFLCBERUxFVEUgT04gVEFCTEVTIFRPIHt1c2VybmFtZX07CkFMVEVSIERFRkFVTFQgUFJJVklMRUdFUyBJTiBTQ0hFTUEgIntzY2hlbWFfbmFtZX0iIAogIEdSQU5UIFVTQUdFLCBTRUxFQ1QgT04gU0VRVUVOQ0VTIFRPIHt1c2VybmFtZX07CkFMVEVSIERFRkFVTFQgUFJJVklMRUdFUyBJTiBTQ0hFTUEgIntzY2hlbWFfbmFtZX0iIAogIEdSQU5UIEVYRUNVVEUgT04gRlVOQ1RJT05TIFRPIHt1c2VybmFtZX07CgotLSBTZXQgZGVmYXVsdCBzZWFyY2hfcGF0aCBmb3IgdXNlcgpBTFRFUiBVU0VSIHt1c2VybmFtZX0gU0VUIHNlYXJjaF9wYXRoIFRPICJ7c2NoZW1hX25hbWV9IjsKCi0tIFNFQ1VSSVRZOiBSZXZva2UgcHVibGljIHNjaGVtYSBhY2Nlc3MgKGlzb2xhdGlvbikKUkVWT0tFIEFMTCBPTiBTQ0hFTUEgcHVibGljIEZST00ge3VzZXJuYW1lfTsKIiIiCgpDT05ORUNUSU9OU19FTlZfVEVNUExBVEUgPSAiIiIjID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgQ29ubmVjdGlvbiBTdHJpbmdzIGZvcjoge3NjaGVtYV9uYW1lfQojIEdlbmVyYXRlZDoge3RpbWVzdGFtcH0KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIFJlcGxhY2UgSE9TVCBhbmQgUE9SVCB3aXRoIHZhbHVlcyBmcm9tOiBkb2N0bCBkYXRhYmFzZXMgY29ubmVjdGlvbiA8Y2x1c3Rlci1pZD4KCiMgUHJpbWFyeSBjb25uZWN0aW9uIHN0cmluZwpEQVRBQkFTRV9VUkw9cG9zdGdyZXNxbDovL3t1c2VybmFtZX06e3Bhc3N3b3JkfUBIT1NUOjI1MDYwL2RlZmF1bHRkYj9zc2xtb2RlPXJlcXVpcmUKCiMgSW5kaXZpZHVhbCBjb21wb25lbnRzIChmb3IgT1JNcykKREJfSE9TVD1IT1NUCkRCX1BPUlQ9MjUwNjAKREJfTkFNRT1kZWZhdWx0ZGIKREJfVVNFUj17dXNlcm5hbWV9CkRCX1BBU1NXT1JEPXtwYXNzd29yZH0KREJfU0NIRU1BPXtzY2hlbWFfbmFtZX0KREJfU1NMTU9ERT1yZXF1aXJlCgojIFdpdGggc2NoZW1hIGluIHNlYXJjaF9wYXRoCkRBVEFCQVNFX1VSTF9XSVRIX1NDSEVNQT1wb3N0Z3Jlc3FsOi8ve3VzZXJuYW1lfTp7cGFzc3dvcmR9QEhPU1Q6MjUwNjAvZGVmYXVsdGRiP3NzbG1vZGU9cmVxdWlyZSZvcHRpb25zPS1jc2VhcmNoX3BhdGglM0R7c2NoZW1hX25hbWV9CiIiIgoKCmRlZiBnZW5lcmF0ZV9zcWwoc2NoZW1hX25hbWU6IHN0ciwgdXNlcm5hbWU6IHN0ciwgcGFzc3dvcmQ6IHN0ciwgb3V0cHV0X2Rpcjogc3RyID0gTm9uZSk6CiAgICAiIiJHZW5lcmF0ZSBTUUwgZmlsZXMgZm9yIHNjaGVtYS91c2VyIHNldHVwLiIiIgogICAgdGltZXN0YW1wID0gZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCkKCiAgICBzY2hlbWFfbmFtZSA9IHZhbGlkYXRlX2lkZW50aWZpZXIoc2NoZW1hX25hbWUsICJzY2hlbWEgbmFtZSIpCiAgICB1c2VybmFtZSA9IHZhbGlkYXRlX2lkZW50aWZpZXIodXNlcm5hbWUsICJ1c2VybmFtZSIpCiAgICAKICAgIGNvbnRleHQgPSB7CiAgICAgICAgInNjaGVtYV9uYW1lIjogc2NoZW1hX25hbWUsCiAgICAgICAgInVzZXJuYW1lIjogdXNlcm5hbWUsCiAgICAgICAgInBhc3N3b3JkIjogcGFzc3dvcmQsCiAgICAgICAgInBhc3N3b3JkX2xpdGVyYWwiOiBzcWxfbGl0ZXJhbChwYXNzd29yZCksCiAgICAgICAgInRpbWVzdGFtcCI6IHRpbWVzdGFtcCwKICAgICAgICAibW9kZSI6ICJnZW5lcmF0ZSIKICAgIH0KICAgIAogICAgc2V0dXBfc3FsID0gU0VUVVBfU1FMX1RFTVBMQVRFLmZvcm1hdCgqKmNvbnRleHQpCiAgICB1c2Vyc19zcWwgPSBVU0VSU19TUUxfVEVNUExBVEUuZm9ybWF0KCoqY29udGV4dCkKICAgIHBlcm1pc3Npb25zX3NxbCA9IFBFUk1JU1NJT05TX1NRTF9URU1QTEFURS5mb3JtYXQoKipjb250ZXh0KQogICAgY29ubmVjdGlvbnNfZW52ID0gQ09OTkVDVElPTlNfRU5WX1RFTVBMQVRFLmZvcm1hdCgqKmNvbnRleHQpCiAgICAKICAgIGlmIG91dHB1dF9kaXI6CiAgICAgICAgb3MubWFrZWRpcnMob3V0cHV0X2RpciwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICAKICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKG91dHB1dF9kaXIsICJkYi1zZXR1cC5zcWwiKSwgInciKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKHNldHVwX3NxbCkKICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKG91dHB1dF9kaXIsICJkYi11c2Vycy5zcWwiKSwgInciKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKHVzZXJzX3NxbCkKICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKG91dHB1dF9kaXIsICJkYi1wZXJtaXNzaW9ucy5zcWwiKSwgInciKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKHBlcm1pc3Npb25zX3NxbCkKICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKG91dHB1dF9kaXIsICJkYi1jb25uZWN0aW9ucy5lbnYiKSwgInciKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKGNvbm5lY3Rpb25zX2VudikKICAgICAgICAKICAgICAgICBwcmludChmIuKchSBHZW5lcmF0ZWQgU1FMIGZpbGVzIGluOiB7b3V0cHV0X2Rpcn0vIikKICAgICAgICBwcmludChmIiAgIC0gZGItc2V0dXAuc3FsIikKICAgICAgICBwcmludChmIiAgIC0gZGItdXNlcnMuc3FsIikKICAgICAgICBwcmludChmIiAgIC0gZGItcGVybWlzc2lvbnMuc3FsIikKICAgICAgICBwcmludChmIiAgIC0gZGItY29ubmVjdGlvbnMuZW52IikKICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQoIk5leHQgc3RlcHM6IikKICAgICAgICBwcmludCgiICAxLiBSZXZpZXcgdGhlIGdlbmVyYXRlZCBTUUwgZmlsZXMiKQogICAgICAgIHByaW50KCIgIDIuIFJlcGxhY2UgcGFzc3dvcmQgcGxhY2Vob2xkZXIgaWYgbmVlZGVkIikKICAgICAgICBwcmludCgiICAzLiBFeGVjdXRlIHdpdGg6IHBzcWwgXCIkQURNSU5fVVJMXCIgLWYgZGItc2V0dXAuc3FsIikKICAgICAgICBwcmludCgiICAgICAgICAgICAgICAgICAgIHBzcWwgXCIkQURNSU5fVVJMXCIgLWYgZGItdXNlcnMuc3FsIikKICAgICAgICBwcmludCgiICAgICAgICAgICAgICAgICAgIHBzcWwgXCIkQURNSU5fVVJMXCIgLWYgZGItcGVybWlzc2lvbnMuc3FsIikKICAgIGVsc2U6CiAgICAgICAgIyBPdXRwdXQgdG8gc3Rkb3V0CiAgICAgICAgcHJpbnQoIi0tID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKQogICAgICAgIHByaW50KCItLSBHRU5FUkFURUQgU1FMIC0gUmV2aWV3IGJlZm9yZSBleGVjdXRpbmciKQogICAgICAgIHByaW50KCItLSA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IikKICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQoIi0tIEZJTEU6IGRiLXNldHVwLnNxbCIpCiAgICAgICAgcHJpbnQoc2V0dXBfc3FsKQogICAgICAgIHByaW50KCkKICAgICAgICBwcmludCgiLS0gRklMRTogZGItdXNlcnMuc3FsIikKICAgICAgICBwcmludCh1c2Vyc19zcWwpCiAgICAgICAgcHJpbnQoKQogICAgICAgIHByaW50KCItLSBGSUxFOiBkYi1wZXJtaXNzaW9ucy5zcWwiKQogICAgICAgIHByaW50KHBlcm1pc3Npb25zX3NxbCkKICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQoIi0tIEZJTEU6IGRiLWNvbm5lY3Rpb25zLmVudiIpCiAgICAgICAgcHJpbnQoY29ubmVjdGlvbnNfZW52KQoKCmRlZiBleGVjdXRlX3NxbChjb25uZWN0aW9uX3N0cmluZzogc3RyLCBzY2hlbWFfbmFtZTogc3RyLCB1c2VybmFtZTogc3RyLCBwYXNzd29yZDogc3RyKToKICAgICIiIkV4ZWN1dGUgU1FMIGRpcmVjdGx5IGFnYWluc3QgZGF0YWJhc2UgKGRldi90ZXN0IG9ubHkpLiIiIgogICAgdHJ5OgogICAgICAgIGltcG9ydCBwc3ljb3BnMgogICAgICAgIGZyb20gcHN5Y29wZzIgaW1wb3J0IHNxbAogICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgIHByaW50KCLinYwgcHN5Y29wZzIgbm90IGluc3RhbGxlZC4gSW5zdGFsbCB3aXRoOiB1diBwaXAgaW5zdGFsbCBwc3ljb3BnMi1iaW5hcnkiKQogICAgICAgIHN5cy5leGl0KDEpCiAgICAKICAgIHByaW50KCLimqDvuI8gIEVYRUNVVElORyBTUUwgRElSRUNUTFkgLSBVc2Ugb25seSBmb3IgZGV2L3Rlc3QgZW52aXJvbm1lbnRzIikKICAgIHByaW50KCkKICAgIAogICAgY29ubiA9IE5vbmUKICAgIHRyeToKICAgICAgICBjb25uID0gcHN5Y29wZzIuY29ubmVjdChjb25uZWN0aW9uX3N0cmluZykKICAgICAgICBjb25uLmF1dG9jb21taXQgPSBUcnVlCiAgICAgICAgY3VyID0gY29ubi5jdXJzb3IoKQogICAgICAgIAogICAgICAgIHByaW50KGYiQ3JlYXRpbmcgc2NoZW1hOiB7c2NoZW1hX25hbWV9IikKICAgICAgICBjdXIuZXhlY3V0ZSgKICAgICAgICAgICAgc3FsLlNRTCgiQ1JFQVRFIFNDSEVNQSBJRiBOT1QgRVhJU1RTIHt9IikKICAgICAgICAgICAgLmZvcm1hdChzcWwuSWRlbnRpZmllcihzY2hlbWFfbmFtZSkpCiAgICAgICAgKQogICAgICAgIAogICAgICAgIHByaW50KGYiQ3JlYXRpbmcgdXNlcjoge3VzZXJuYW1lfSIpCiAgICAgICAgY3VyLmV4ZWN1dGUoCiAgICAgICAgICAgIHNxbC5TUUwoIkNSRUFURSBVU0VSIHt9IFdJVEggUEFTU1dPUkQgJXMiKQogICAgICAgICAgICAuZm9ybWF0KHNxbC5JZGVudGlmaWVyKHVzZXJuYW1lKSksCiAgICAgICAgICAgIChwYXNzd29yZCwpCiAgICAgICAgKQogICAgICAgIAogICAgICAgIHByaW50KGYiR3JhbnRpbmcgcGVybWlzc2lvbnMgdG8ge3VzZXJuYW1lfSBvbiBzY2hlbWEge3NjaGVtYV9uYW1lfSIpCiAgICAgICAgCiAgICAgICAgY3VyLmV4ZWN1dGUoCiAgICAgICAgICAgIHNxbC5TUUwoIkdSQU5UIFVTQUdFIE9OIFNDSEVNQSB7fSBUTyB7fSIpCiAgICAgICAgICAgIC5mb3JtYXQoc3FsLklkZW50aWZpZXIoc2NoZW1hX25hbWUpLCBzcWwuSWRlbnRpZmllcih1c2VybmFtZSkpCiAgICAgICAgKQogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICBzcWwuU1FMKCJHUkFOVCBBTEwgUFJJVklMRUdFUyBPTiBBTEwgVEFCTEVTIElOIFNDSEVNQSB7fSBUTyB7fSIpCiAgICAgICAgICAgIC5mb3JtYXQoc3FsLklkZW50aWZpZXIoc2NoZW1hX25hbWUpLCBzcWwuSWRlbnRpZmllcih1c2VybmFtZSkpCiAgICAgICAgKQogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICBzcWwuU1FMKCJHUkFOVCBBTEwgUFJJVklMRUdFUyBPTiBBTEwgU0VRVUVOQ0VTIElOIFNDSEVNQSB7fSBUTyB7fSIpCiAgICAgICAgICAgIC5mb3JtYXQoc3FsLklkZW50aWZpZXIoc2NoZW1hX25hbWUpLCBzcWwuSWRlbnRpZmllcih1c2VybmFtZSkpCiAgICAgICAgKQogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICBzcWwuU1FMKCJHUkFOVCBBTEwgUFJJVklMRUdFUyBPTiBBTEwgRlVOQ1RJT05TIElOIFNDSEVNQSB7fSBUTyB7fSIpCiAgICAgICAgICAgIC5mb3JtYXQoc3FsLklkZW50aWZpZXIoc2NoZW1hX25hbWUpLCBzcWwuSWRlbnRpZmllcih1c2VybmFtZSkpCiAgICAgICAgKQogICAgICAgIAogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICBzcWwuU1FMKCJBTFRFUiBERUZBVUxUIFBSSVZJTEVHRVMgSU4gU0NIRU1BIHt9IEdSQU5UIEFMTCBPTiBUQUJMRVMgVE8ge30iKQogICAgICAgICAgICAuZm9ybWF0KHNxbC5JZGVudGlmaWVyKHNjaGVtYV9uYW1lKSwgc3FsLklkZW50aWZpZXIodXNlcm5hbWUpKQogICAgICAgICkKICAgICAgICBjdXIuZXhlY3V0ZSgKICAgICAgICAgICAgc3FsLlNRTCgiQUxURVIgREVGQVVMVCBQUklWSUxFR0VTIElOIFNDSEVNQSB7fSBHUkFOVCBBTEwgT04gU0VRVUVOQ0VTIFRPIHt9IikKICAgICAgICAgICAgLmZvcm1hdChzcWwuSWRlbnRpZmllcihzY2hlbWFfbmFtZSksIHNxbC5JZGVudGlmaWVyKHVzZXJuYW1lKSkKICAgICAgICApCiAgICAgICAgY3VyLmV4ZWN1dGUoCiAgICAgICAgICAgIHNxbC5TUUwoIkFMVEVSIERFRkFVTFQgUFJJVklMRUdFUyBJTiBTQ0hFTUEge30gR1JBTlQgQUxMIE9OIEZVTkNUSU9OUyBUTyB7fSIpCiAgICAgICAgICAgIC5mb3JtYXQoc3FsLklkZW50aWZpZXIoc2NoZW1hX25hbWUpLCBzcWwuSWRlbnRpZmllcih1c2VybmFtZSkpCiAgICAgICAgKQogICAgICAgIAogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICBzcWwuU1FMKCJBTFRFUiBVU0VSIHt9IFNFVCBzZWFyY2hfcGF0aCBUTyB7fSIpCiAgICAgICAgICAgIC5mb3JtYXQoc3FsLklkZW50aWZpZXIodXNlcm5hbWUpLCBzcWwuSWRlbnRpZmllcihzY2hlbWFfbmFtZSkpCiAgICAgICAgKQogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICBzcWwuU1FMKCJSRVZPS0UgQUxMIE9OIFNDSEVNQSBwdWJsaWMgRlJPTSB7fSIpCiAgICAgICAgICAgIC5mb3JtYXQoc3FsLklkZW50aWZpZXIodXNlcm5hbWUpKQogICAgICAgICkKICAgICAgICAKICAgICAgICBjdXIuY2xvc2UoKQogICAgICAgIAogICAgICAgIHByaW50KCkKICAgICAgICBwcmludChmIuKchSBDcmVhdGVkIHNjaGVtYSAne3NjaGVtYV9uYW1lfScgd2l0aCB1c2VyICd7dXNlcm5hbWV9JyIpCiAgICAgICAgcHJpbnQoIuKchSBVc2VyIGlzb2xhdGVkIHRvIHNjaGVtYSAocHVibGljIHJldm9rZWQpIikKICAgICAgICAKICAgICAgICAjIEdlbmVyYXRlIGNvbm5lY3Rpb24gc3RyaW5nIGZvciBuZXcgdXNlcgogICAgICAgIG5ld19jb25uID0gYnVpbGRfY29ubmVjdGlvbl9zdHJpbmcoY29ubmVjdGlvbl9zdHJpbmcsIHVzZXJuYW1lLCBwYXNzd29yZCkKICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQoZiLwn5OLIENvbm5lY3Rpb24gc3RyaW5nIGZvciB7dXNlcm5hbWV9OiIpCiAgICAgICAgcHJpbnQoZiIgICB7bmV3X2Nvbm59IikKICAgICAgICAKICAgIGV4Y2VwdCBwc3ljb3BnMi5lcnJvcnMuRHVwbGljYXRlU2NoZW1hOgogICAgICAgIHByaW50KGYi4pqg77iPICBTY2hlbWEgJ3tzY2hlbWFfbmFtZX0nIGFscmVhZHkgZXhpc3RzIikKICAgIGV4Y2VwdCBwc3ljb3BnMi5lcnJvcnMuRHVwbGljYXRlT2JqZWN0OgogICAgICAgIHByaW50KGYi4pqg77iPICBVc2VyICd7dXNlcm5hbWV9JyBhbHJlYWR5IGV4aXN0cyIpCiAgICBleGNlcHQgcHN5Y29wZzIuRXJyb3IgYXMgZToKICAgICAgICBwcmludChmIuKdjCBEYXRhYmFzZSBlcnJvcjoge2V9IikKICAgICAgICBzeXMuZXhpdCgxKQogICAgZmluYWxseToKICAgICAgICBpZiBjb25uOgogICAgICAgICAgICBjb25uLmNsb3NlKCkKCgpkZWYgYnVpbGRfY29ubmVjdGlvbl9zdHJpbmcoYmFzZV9jb25uZWN0aW9uX3N0cmluZzogc3RyLCB1c2VybmFtZTogc3RyLCBwYXNzd29yZDogc3RyKSAtPiBzdHI6CiAgICAiIiJCdWlsZCBjb25uZWN0aW9uIHN0cmluZyBmb3IgdGhlIG5ldyB1c2VyLiIiIgogICAgcGFyc2VkID0gdXJscGFyc2UoYmFzZV9jb25uZWN0aW9uX3N0cmluZykKICAgIHF1ZXJ5X3BhcmFtcyA9IHBhcnNlX3FzKHBhcnNlZC5xdWVyeSkKICAgIHNzbG1vZGUgPSBxdWVyeV9wYXJhbXMuZ2V0KCdzc2xtb2RlJywgWydyZXF1aXJlJ10pWzBdCiAgICAKICAgIHJldHVybiAoCiAgICAgICAgZiJwb3N0Z3Jlc3FsOi8ve3VzZXJuYW1lfTp7cGFzc3dvcmR9QCIKICAgICAgICBmIntwYXJzZWQuaG9zdG5hbWV9OntwYXJzZWQucG9ydH0iCiAgICAgICAgZiJ7cGFyc2VkLnBhdGh9P3NzbG1vZGU9e3NzbG1vZGV9IgogICAgKQoKCmRlZiBtYWluKCk6CiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgICAgICBkZXNjcmlwdGlvbj0iQ3JlYXRlIFBvc3RncmVTUUwgc2NoZW1hIHdpdGggZGVkaWNhdGVkIHVzZXIiLAogICAgICAgIGZvcm1hdHRlcl9jbGFzcz1hcmdwYXJzZS5SYXdEZXNjcmlwdGlvbkhlbHBGb3JtYXR0ZXIsCiAgICAgICAgZXBpbG9nPSIiIgpFeGFtcGxlczoKICAjIEdlbmVyYXRlIFNRTCBmaWxlcyBmb3IgcmV2aWV3IChyZWNvbW1lbmRlZCkKICBweXRob24gY3JlYXRlX3NjaGVtYV91c2VyLnB5IG15YXBwIG15YXBwX3VzZXIgc2VjdXJlX3Bhc3MgLS1nZW5lcmF0ZSAtLW91dHB1dC1kaXIgLi9zcWwKCiAgIyBFeGVjdXRlIGRpcmVjdGx5IChkZXYvdGVzdCBvbmx5KQogIHB5dGhvbiBjcmVhdGVfc2NoZW1hX3VzZXIucHkgbXlhcHAgbXlhcHBfdXNlciBzZWN1cmVfcGFzcyAtLWV4ZWN1dGUgLS1jb25uZWN0aW9uLXN0cmluZyAiJEFETUlOX1VSTCIKICAgICAgICAiIiIKICAgICkKICAgIAogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgic2NoZW1hX25hbWUiLCBoZWxwPSJOYW1lIG9mIHNjaGVtYSB0byBjcmVhdGUiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgidXNlcm5hbWUiLCBoZWxwPSJOYW1lIG9mIHVzZXIgdG8gY3JlYXRlIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoInBhc3N3b3JkIiwgaGVscD0iUGFzc3dvcmQgZm9yIHVzZXIgKG9yIHVzZTogJChvcGVuc3NsIHJhbmQgLWJhc2U2NCAzMikpIikKICAgIAogICAgbW9kZV9ncm91cCA9IHBhcnNlci5hZGRfbXV0dWFsbHlfZXhjbHVzaXZlX2dyb3VwKHJlcXVpcmVkPVRydWUpCiAgICBtb2RlX2dyb3VwLmFkZF9hcmd1bWVudCgiLS1nZW5lcmF0ZSIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsIGhlbHA9IkdlbmVyYXRlIFNRTCBmaWxlcyAoc2FmZSwgZGVmYXVsdCkiKQogICAgbW9kZV9ncm91cC5hZGRfYXJndW1lbnQoIi0tZXhlY3V0ZSIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsIGhlbHA9IkV4ZWN1dGUgU1FMIGRpcmVjdGx5IChkZXYvdGVzdCBvbmx5KSIpCiAgICAKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tb3V0cHV0LWRpciIsICItbyIsIGhlbHA9IkRpcmVjdG9yeSBmb3IgZ2VuZXJhdGVkIFNRTCBmaWxlcyAoZ2VuZXJhdGUgbW9kZSkiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jb25uZWN0aW9uLXN0cmluZyIsICItYyIsIGhlbHA9IkFkbWluIGNvbm5lY3Rpb24gc3RyaW5nIChleGVjdXRlIG1vZGUpIikKICAgIAogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKICAgIAogICAgaWYgYXJncy5leGVjdXRlIGFuZCBub3QgYXJncy5jb25uZWN0aW9uX3N0cmluZzoKICAgICAgICBwYXJzZXIuZXJyb3IoIi0tZXhlY3V0ZSByZXF1aXJlcyAtLWNvbm5lY3Rpb24tc3RyaW5nIikKICAgIAogICAgaWYgYXJncy5nZW5lcmF0ZToKICAgICAgICBnZW5lcmF0ZV9zcWwoYXJncy5zY2hlbWFfbmFtZSwgYXJncy51c2VybmFtZSwgYXJncy5wYXNzd29yZCwgYXJncy5vdXRwdXRfZGlyKQogICAgZWxzZToKICAgICAgICBleGVjdXRlX3NxbChhcmdzLmNvbm5lY3Rpb25fc3RyaW5nLCBhcmdzLnNjaGVtYV9uYW1lLCBhcmdzLnVzZXJuYW1lLCBhcmdzLnBhc3N3b3JkKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""
+Create a new schema with dedicated user and proper permissions.
+
+Supports two modes:
+  1. GENERATE (default): Output SQL to stdout/file for manual review and execution
+  2. EXECUTE: Run SQL directly against database (dev/test only)
+
+Usage:
+    # Generate SQL to stdout (default - safe)
+    python create_schema_user.py <schema_name> <username> <password> --generate
+
+    # Generate SQL to files
+    python create_schema_user.py <schema_name> <username> <password> --generate --output-dir ./sql
+
+    # Execute directly (dev/test only - requires connection string)
+    python create_schema_user.py <schema_name> <username> <password> --execute --connection-string "postgresql://..."
+
+Examples:
+    python create_schema_user.py myapp app_user "$(openssl rand -base64 32)" --generate
+    python create_schema_user.py myapp app_user secure_pass --execute --connection-string "$ADMIN_URL"
+"""
+
+import argparse
+import sys
+import os
+import re
+from urllib.parse import urlparse, parse_qs
+from datetime import datetime
+
+
+IDENTIFIER_PATTERN = re.compile(r"^[A-Za-z_][A-Za-z0-9_]*$")
+
+
+def validate_identifier(value: str, label: str) -> str:
+    """Validate SQL identifier for generated SQL output."""
+    if not IDENTIFIER_PATTERN.fullmatch(value):
+        raise ValueError(f"Invalid {label}: {value!r}. Use letters, digits, and underscores only.")
+    return value
+
+
+def sql_literal(value: str) -> str:
+    """Escape value as SQL string literal."""
+    return "'" + value.replace("'", "''") + "'"
+
+# SQL Templates
+SETUP_SQL_TEMPLATE = """-- ============================================
+-- Database Setup for: {schema_name}
+-- Generated: {timestamp}
+-- Mode: {mode}
+-- ============================================
+
+\\c defaultdb
+
+-- Create application schema
+CREATE SCHEMA IF NOT EXISTS "{schema_name}";
+"""
+
+USERS_SQL_TEMPLATE = """-- ============================================
+-- User Setup for: {schema_name}
+-- Generated: {timestamp}
+-- ============================================
+-- SECURITY: Review password before executing
+-- Generate secure password with: openssl rand -base64 32
+
+CREATE USER {username} WITH PASSWORD {password_literal};
+"""
+
+PERMISSIONS_SQL_TEMPLATE = """-- ============================================
+-- Permissions for: {schema_name} -> {username}
+-- Generated: {timestamp}
+-- ============================================
+
+-- Grant schema usage
+GRANT USAGE ON SCHEMA "{schema_name}" TO {username};
+
+-- Grant table permissions (CRUD)
+GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA "{schema_name}" TO {username};
+
+-- Grant sequence permissions (for serial/auto-increment)
+GRANT USAGE, SELECT ON ALL SEQUENCES IN SCHEMA "{schema_name}" TO {username};
+
+-- Grant function permissions
+GRANT EXECUTE ON ALL FUNCTIONS IN SCHEMA "{schema_name}" TO {username};
+
+-- CRITICAL: Set default privileges for future objects
+ALTER DEFAULT PRIVILEGES IN SCHEMA "{schema_name}" 
+  GRANT SELECT, INSERT, UPDATE, DELETE ON TABLES TO {username};
+ALTER DEFAULT PRIVILEGES IN SCHEMA "{schema_name}" 
+  GRANT USAGE, SELECT ON SEQUENCES TO {username};
+ALTER DEFAULT PRIVILEGES IN SCHEMA "{schema_name}" 
+  GRANT EXECUTE ON FUNCTIONS TO {username};
+
+-- Set default search_path for user
+ALTER USER {username} SET search_path TO "{schema_name}";
+
+-- SECURITY: Revoke public schema access (isolation)
+REVOKE ALL ON SCHEMA public FROM {username};
+"""
+
+CONNECTIONS_ENV_TEMPLATE = """# ============================================
+# Connection Strings for: {schema_name}
+# Generated: {timestamp}
+# ============================================
+# Replace HOST and PORT with values from: doctl databases connection <cluster-id>
+
+# Primary connection string
+DATABASE_URL=postgresql://{username}:{password}@HOST:25060/defaultdb?sslmode=require
+
+# Individual components (for ORMs)
+DB_HOST=HOST
+DB_PORT=25060
+DB_NAME=defaultdb
+DB_USER={username}
+DB_PASSWORD={password}
+DB_SCHEMA={schema_name}
+DB_SSLMODE=require
+
+# With schema in search_path
+DATABASE_URL_WITH_SCHEMA=postgresql://{username}:{password}@HOST:25060/defaultdb?sslmode=require&options=-csearch_path%3D{schema_name}
+"""
+
+
+def generate_sql(schema_name: str, username: str, password: str, output_dir: str = None):
+    """Generate SQL files for schema/user setup."""
+    timestamp = datetime.now().isoformat()
+
+    schema_name = validate_identifier(schema_name, "schema name")
+    username = validate_identifier(username, "username")
+    
+    context = {
+        "schema_name": schema_name,
+        "username": username,
+        "password": password,
+        "password_literal": sql_literal(password),
+        "timestamp": timestamp,
+        "mode": "generate"
+    }
+    
+    setup_sql = SETUP_SQL_TEMPLATE.format(**context)
+    users_sql = USERS_SQL_TEMPLATE.format(**context)
+    permissions_sql = PERMISSIONS_SQL_TEMPLATE.format(**context)
+    connections_env = CONNECTIONS_ENV_TEMPLATE.format(**context)
+    
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
+        
+        with open(os.path.join(output_dir, "db-setup.sql"), "w") as f:
+            f.write(setup_sql)
+        with open(os.path.join(output_dir, "db-users.sql"), "w") as f:
+            f.write(users_sql)
+        with open(os.path.join(output_dir, "db-permissions.sql"), "w") as f:
+            f.write(permissions_sql)
+        with open(os.path.join(output_dir, "db-connections.env"), "w") as f:
+            f.write(connections_env)
+        
+        print(f"✅ Generated SQL files in: {output_dir}/")
+        print(f"   - db-setup.sql")
+        print(f"   - db-users.sql")
+        print(f"   - db-permissions.sql")
+        print(f"   - db-connections.env")
+        print()
+        print("Next steps:")
+        print("  1. Review the generated SQL files")
+        print("  2. Replace password placeholder if needed")
+        print("  3. Execute with: psql \"$ADMIN_URL\" -f db-setup.sql")
+        print("                   psql \"$ADMIN_URL\" -f db-users.sql")
+        print("                   psql \"$ADMIN_URL\" -f db-permissions.sql")
+    else:
+        # Output to stdout
+        print("-- ===========================================")
+        print("-- GENERATED SQL - Review before executing")
+        print("-- ===========================================")
+        print()
+        print("-- FILE: db-setup.sql")
+        print(setup_sql)
+        print()
+        print("-- FILE: db-users.sql")
+        print(users_sql)
+        print()
+        print("-- FILE: db-permissions.sql")
+        print(permissions_sql)
+        print()
+        print("-- FILE: db-connections.env")
+        print(connections_env)
+
+
+def execute_sql(connection_string: str, schema_name: str, username: str, password: str):
+    """Execute SQL directly against database (dev/test only)."""
+    try:
+        import psycopg2
+        from psycopg2 import sql
+    except ImportError:
+        print("❌ psycopg2 not installed. Install with: uv pip install psycopg2-binary")
+        sys.exit(1)
+    
+    print("⚠️  EXECUTING SQL DIRECTLY - Use only for dev/test environments")
+    print()
+    
+    conn = None
+    try:
+        conn = psycopg2.connect(connection_string)
+        conn.autocommit = True
+        cur = conn.cursor()
+        
+        print(f"Creating schema: {schema_name}")
+        cur.execute(
+            sql.SQL("CREATE SCHEMA IF NOT EXISTS {}")
+            .format(sql.Identifier(schema_name))
+        )
+        
+        print(f"Creating user: {username}")
+        cur.execute(
+            sql.SQL("CREATE USER {} WITH PASSWORD %s")
+            .format(sql.Identifier(username)),
+            (password,)
+        )
+        
+        print(f"Granting permissions to {username} on schema {schema_name}")
+        
+        cur.execute(
+            sql.SQL("GRANT USAGE ON SCHEMA {} TO {}")
+            .format(sql.Identifier(schema_name), sql.Identifier(username))
+        )
+        cur.execute(
+            sql.SQL("GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA {} TO {}")
+            .format(sql.Identifier(schema_name), sql.Identifier(username))
+        )
+        cur.execute(
+            sql.SQL("GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA {} TO {}")
+            .format(sql.Identifier(schema_name), sql.Identifier(username))
+        )
+        cur.execute(
+            sql.SQL("GRANT ALL PRIVILEGES ON ALL FUNCTIONS IN SCHEMA {} TO {}")
+            .format(sql.Identifier(schema_name), sql.Identifier(username))
+        )
+        
+        cur.execute(
+            sql.SQL("ALTER DEFAULT PRIVILEGES IN SCHEMA {} GRANT ALL ON TABLES TO {}")
+            .format(sql.Identifier(schema_name), sql.Identifier(username))
+        )
+        cur.execute(
+            sql.SQL("ALTER DEFAULT PRIVILEGES IN SCHEMA {} GRANT ALL ON SEQUENCES TO {}")
+            .format(sql.Identifier(schema_name), sql.Identifier(username))
+        )
+        cur.execute(
+            sql.SQL("ALTER DEFAULT PRIVILEGES IN SCHEMA {} GRANT ALL ON FUNCTIONS TO {}")
+            .format(sql.Identifier(schema_name), sql.Identifier(username))
+        )
+        
+        cur.execute(
+            sql.SQL("ALTER USER {} SET search_path TO {}")
+            .format(sql.Identifier(username), sql.Identifier(schema_name))
+        )
+        cur.execute(
+            sql.SQL("REVOKE ALL ON SCHEMA public FROM {}")
+            .format(sql.Identifier(username))
+        )
+        
+        cur.close()
+        
+        print()
+        print(f"✅ Created schema '{schema_name}' with user '{username}'")
+        print("✅ User isolated to schema (public revoked)")
+        
+        # Generate connection string for new user
+        new_conn = build_connection_string(connection_string, username, password)
+        print()
+        print(f"📋 Connection string for {username}:")
+        print(f"   {new_conn}")
+        
+    except psycopg2.errors.DuplicateSchema:
+        print(f"⚠️  Schema '{schema_name}' already exists")
+    except psycopg2.errors.DuplicateObject:
+        print(f"⚠️  User '{username}' already exists")
+    except psycopg2.Error as e:
+        print(f"❌ Database error: {e}")
+        sys.exit(1)
+    finally:
+        if conn:
+            conn.close()
+
+
+def build_connection_string(base_connection_string: str, username: str, password: str) -> str:
+    """Build connection string for the new user."""
+    parsed = urlparse(base_connection_string)
+    query_params = parse_qs(parsed.query)
+    sslmode = query_params.get('sslmode', ['require'])[0]
+    
+    return (
+        f"postgresql://{username}:{password}@"
+        f"{parsed.hostname}:{parsed.port}"
+        f"{parsed.path}?sslmode={sslmode}"
+    )
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Create PostgreSQL schema with dedicated user",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  # Generate SQL files for review (recommended)
+  python create_schema_user.py myapp myapp_user secure_pass --generate --output-dir ./sql
+
+  # Execute directly (dev/test only)
+  python create_schema_user.py myapp myapp_user secure_pass --execute --connection-string "$ADMIN_URL"
+        """
+    )
+    
+    parser.add_argument("schema_name", help="Name of schema to create")
+    parser.add_argument("username", help="Name of user to create")
+    parser.add_argument("password", help="Password for user (or use: $(openssl rand -base64 32))")
+    
+    mode_group = parser.add_mutually_exclusive_group(required=True)
+    mode_group.add_argument("--generate", action="store_true", help="Generate SQL files (safe, default)")
+    mode_group.add_argument("--execute", action="store_true", help="Execute SQL directly (dev/test only)")
+    
+    parser.add_argument("--output-dir", "-o", help="Directory for generated SQL files (generate mode)")
+    parser.add_argument("--connection-string", "-c", help="Admin connection string (execute mode)")
+    
+    args = parser.parse_args()
+    
+    if args.execute and not args.connection_string:
+        parser.error("--execute requires --connection-string")
+    
+    if args.generate:
+        generate_sql(args.schema_name, args.username, args.password, args.output_dir)
+    else:
+        execute_sql(args.connection_string, args.schema_name, args.username, args.password)
+
+
+if __name__ == "__main__":
+    main()

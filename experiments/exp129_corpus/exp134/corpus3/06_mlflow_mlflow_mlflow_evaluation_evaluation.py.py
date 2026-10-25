@@ -1,1 +1,411 @@
-IiIiClRIRSAnbWxmbG93LmV2YWx1YXRpb25gIE1PRFVMRSBJUyBMRUdBQ1kgQU5EIFdJTEwgQkUgUkVNT1ZFRCBJTiBNTEZMT1cgMy4wLgpGb3IgYXNzZXNzbWVudCBmdW5jdGlvbmFsaXR5LCB1c2UgYG1sZmxvdy5lbnRpdGllcy5hc3Nlc3NtZW50YCBmb3IgYXNzZXNzbWVudCBjbGFzc2VzIGFuZApgbWxmbG93LnRyYWNpbmcuYXNzZXNzbWVudHNgIGZvciBhc3Nlc3NtZW50IEFQSXMuIFRoZXJlIGFyZSBubyBhbHRlcm5hdGl2ZXMgZm9yIEV2YWx1YXRpb24gYW5kCkV2YWx1YXRpb25FbnRpdHkgb2JqZWN0cyBhbmQgcmVsYXRlZCBBUElzLgoiIiIKCmltcG9ydCBoYXNobGliCmltcG9ydCBqc29uCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmZyb20gbWxmbG93LmVudGl0aWVzLl9tbGZsb3dfb2JqZWN0IGltcG9ydCBfTWxmbG93T2JqZWN0CmZyb20gbWxmbG93LmVudGl0aWVzLm1ldHJpYyBpbXBvcnQgTWV0cmljCmZyb20gbWxmbG93LmV2YWx1YXRpb24uYXNzZXNzbWVudCBpbXBvcnQgQXNzZXNzbWVudCwgQXNzZXNzbWVudEVudGl0eQpmcm9tIG1sZmxvdy5ldmFsdWF0aW9uLmV2YWx1YXRpb25fdGFnIGltcG9ydCAoCiAgICBFdmFsdWF0aW9uVGFnLCAgIyBBc3N1bWluZyBFdmFsdWF0aW9uVGFnIGlzIGluIHRoaXMgbW9kdWxlCikKZnJvbSBtbGZsb3cudHJhY2luZy51dGlscyBpbXBvcnQgVHJhY2VKU09ORW5jb2Rlcgpmcm9tIG1sZmxvdy51dGlscy5hbm5vdGF0aW9ucyBpbXBvcnQgZGVwcmVjYXRlZAoKCkBkZXByZWNhdGVkKHNpbmNlPSIzLjAuMCIpCmNsYXNzIEV2YWx1YXRpb25FbnRpdHkoX01sZmxvd09iamVjdCk6CiAgICAiIiIKICAgIEV2YWx1YXRpb24gcmVzdWx0IGRhdGEsIGluY2x1ZGluZyBpbnB1dHMsIG91dHB1dHMsIHRhcmdldHMsIGFzc2Vzc21lbnRzLCBhbmQgbW9yZS4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIGV2YWx1YXRpb25faWQ6IHN0ciwKICAgICAgICBydW5faWQ6IHN0ciwKICAgICAgICBpbnB1dHNfaWQ6IHN0ciwKICAgICAgICBpbnB1dHM6IGRpY3Rbc3RyLCBBbnldLAogICAgICAgIG91dHB1dHM6IGRpY3Rbc3RyLCBBbnldIHwgTm9uZSA9IE5vbmUsCiAgICAgICAgcmVxdWVzdF9pZDogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICAgICAgdGFyZ2V0czogZGljdFtzdHIsIEFueV0gfCBOb25lID0gTm9uZSwKICAgICAgICBlcnJvcl9jb2RlOiBzdHIgfCBOb25lID0gTm9uZSwKICAgICAgICBlcnJvcl9tZXNzYWdlOiBzdHIgfCBOb25lID0gTm9uZSwKICAgICAgICBhc3Nlc3NtZW50czogbGlzdFtBc3Nlc3NtZW50RW50aXR5XSB8IE5vbmUgPSBOb25lLAogICAgICAgIG1ldHJpY3M6IGxpc3RbTWV0cmljXSB8IE5vbmUgPSBOb25lLAogICAgICAgIHRhZ3M6IGxpc3RbRXZhbHVhdGlvblRhZ10gfCBOb25lID0gTm9uZSwKICAgICk6CiAgICAgICAgIiIiCiAgICAgICAgQ29uc3RydWN0IGEgbmV3IG1sZmxvdy5ldmFsdWF0aW9uLkV2YWx1YXRpb25FbnRpdHkgaW5zdGFuY2UuCgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIGV2YWx1YXRpb25faWQ6IEEgdW5pcXVlIGlkZW50aWZpZXIgZm9yIHRoZSBldmFsdWF0aW9uLgogICAgICAgICAgICBydW5faWQ6IFRoZSBJRCBvZiB0aGUgTUxmbG93IFJ1biBjb250YWluaW5nIHRoZSBFdmFsdWF0aW9uLgogICAgICAgICAgICBpbnB1dHNfaWQ6IEEgdW5pcXVlIGlkZW50aWZpZXIgZm9yIHRoZSBpbnB1dCBuYW1lcyBhbmQgdmFsdWVzIGZvciBldmFsdWF0aW9uLgogICAgICAgICAgICBpbnB1dHM6IElucHV0IG5hbWVzIGFuZCB2YWx1ZXMgZm9yIGV2YWx1YXRpb24uCiAgICAgICAgICAgIG91dHB1dHM6IE91dHB1dHMgb2J0YWluZWQgZHVyaW5nIGluZmVyZW5jZS4KICAgICAgICAgICAgcmVxdWVzdF9pZDogVGhlIElEIG9mIGFuIE1MZmxvdyBUcmFjZSBjb3JyZXNwb25kaW5nIHRvIHRoZSBpbnB1dHMgYW5kIG91dHB1dHMuCiAgICAgICAgICAgIHRhcmdldHM6IEV4cGVjdGVkIHZhbHVlcyB0aGF0IHRoZSBtb2RlbCBzaG91bGQgcHJvZHVjZSBkdXJpbmcgaW5mZXJlbmNlLgogICAgICAgICAgICBlcnJvcl9jb2RlOiBBbiBlcnJvciBjb2RlIHJlcHJlc2VudGluZyBhbnkgaXNzdWVzIGVuY291bnRlcmVkIGR1cmluZyB0aGUgZXZhbHVhdGlvbi4KICAgICAgICAgICAgZXJyb3JfbWVzc2FnZTogQSBkZXNjcmlwdGl2ZSBlcnJvciBtZXNzYWdlIHJlcHJlc2VudGluZyBhbnkgaXNzdWVzIGVuY291bnRlcmVkIGR1cmluZwogICAgICAgICAgICAgICAgdGhlIGV2YWx1YXRpb24uCiAgICAgICAgICAgIGFzc2Vzc21lbnRzOiBBc3Nlc3NtZW50cyBmb3IgdGhlIGV2YWx1YXRpb24uCiAgICAgICAgICAgIG1ldHJpY3M6IE9iamVjdGl2ZSBudW1lcmljYWwgbWV0cmljcyBmb3IgdGhlIGV2YWx1YXRpb24sIGUuZy4sICJudW1iZXIgb2YgaW5wdXQgdG9rZW5zIiwKICAgICAgICAgICAgICAgICJudW1iZXIgb2Ygb3V0cHV0IHRva2VucyIuCiAgICAgICAgICAgIHRhZ3M6IExpc3Qgb2YgdGFncyBhc3NvY2lhdGVkIHdpdGggdGhlIGV2YWx1YXRpb24uCiAgICAgICAgIiIiCiAgICAgICAgc2VsZi5fZXZhbHVhdGlvbl9pZCA9IGV2YWx1YXRpb25faWQKICAgICAgICBzZWxmLl9ydW5faWQgPSBydW5faWQKICAgICAgICBzZWxmLl9pbnB1dHNfaWQgPSBpbnB1dHNfaWQKICAgICAgICBzZWxmLl9pbnB1dHMgPSBpbnB1dHMKICAgICAgICBzZWxmLl9vdXRwdXRzID0gb3V0cHV0cwogICAgICAgIHNlbGYuX3JlcXVlc3RfaWQgPSByZXF1ZXN0X2lkCiAgICAgICAgc2VsZi5fdGFyZ2V0cyA9IHRhcmdldHMKICAgICAgICBzZWxmLl9lcnJvcl9jb2RlID0gZXJyb3JfY29kZQogICAgICAgIHNlbGYuX2Vycm9yX21lc3NhZ2UgPSBlcnJvcl9tZXNzYWdlCiAgICAgICAgc2VsZi5fYXNzZXNzbWVudHMgPSBhc3Nlc3NtZW50cwogICAgICAgIHNlbGYuX21ldHJpY3MgPSBtZXRyaWNzCiAgICAgICAgc2VsZi5fdGFncyA9IHRhZ3MKCiAgICBAcHJvcGVydHkKICAgIGRlZiBldmFsdWF0aW9uX2lkKHNlbGYpIC0+IHN0cjoKICAgICAgICAiIiJUaGUgZXZhbHVhdGlvbiBJRC4iIiIKICAgICAgICByZXR1cm4gc2VsZi5fZXZhbHVhdGlvbl9pZAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHJ1bl9pZChzZWxmKSAtPiBzdHI6CiAgICAgICAgIiIiVGhlIElEIG9mIHRoZSBNTGZsb3cgUnVuIGNvbnRhaW5pbmcgdGhlIGV2YWx1YXRpb24iIiIKICAgICAgICByZXR1cm4gc2VsZi5fcnVuX2lkCgogICAgQHByb3BlcnR5CiAgICBkZWYgaW5wdXRzX2lkKHNlbGYpIC0+IHN0cjoKICAgICAgICAiIiJUaGUgZXZhbHVhdGlvbiBpbnB1dHMgSUQuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2lucHV0c19pZAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGlucHV0cyhzZWxmKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICAgICAiIiJUaGUgZXZhbHVhdGlvbiBpbnB1dHMuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2lucHV0cwoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG91dHB1dHMoc2VsZikgLT4gZGljdFtzdHIsIEFueV0gfCBOb25lOgogICAgICAgICIiIlRoZSBldmFsdWF0aW9uIG91dHB1dHMuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX291dHB1dHMKCiAgICBAcHJvcGVydHkKICAgIGRlZiByZXF1ZXN0X2lkKHNlbGYpIC0+IHN0ciB8IE5vbmU6CiAgICAgICAgIiIiVGhlIGV2YWx1YXRpb24gcmVxdWVzdCBJRC4iIiIKICAgICAgICByZXR1cm4gc2VsZi5fcmVxdWVzdF9pZAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRhcmdldHMoc2VsZikgLT4gZGljdFtzdHIsIEFueV0gfCBOb25lOgogICAgICAgICIiIlRoZSBldmFsdWF0aW9uIHRhcmdldHMuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX3RhcmdldHMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBlcnJvcl9jb2RlKHNlbGYpIC0+IHN0ciB8IE5vbmU6CiAgICAgICAgIiIiVGhlIGV2YWx1YXRpb24gZXJyb3IgY29kZS4iIiIKICAgICAgICByZXR1cm4gc2VsZi5fZXJyb3JfY29kZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGVycm9yX21lc3NhZ2Uoc2VsZikgLT4gc3RyIHwgTm9uZToKICAgICAgICAiIiJUaGUgZXZhbHVhdGlvbiBlcnJvciBtZXNzYWdlLiIiIgogICAgICAgIHJldHVybiBzZWxmLl9lcnJvcl9tZXNzYWdlCgogICAgQHByb3BlcnR5CiAgICBkZWYgYXNzZXNzbWVudHMoc2VsZikgLT4gbGlzdFtBc3Nlc3NtZW50RW50aXR5XSB8IE5vbmU6CiAgICAgICAgIiIiVGhlIGV2YWx1YXRpb24gYXNzZXNzbWVudHMuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2Fzc2Vzc21lbnRzCgogICAgQHByb3BlcnR5CiAgICBkZWYgbWV0cmljcyhzZWxmKSAtPiBsaXN0W01ldHJpY10gfCBOb25lOgogICAgICAgICIiIlRoZSBldmFsdWF0aW9uIG1ldHJpY3MuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX21ldHJpY3MKCiAgICBAcHJvcGVydHkKICAgIGRlZiB0YWdzKHNlbGYpIC0+IGxpc3RbRXZhbHVhdGlvblRhZ10gfCBOb25lOgogICAgICAgICIiIlRoZSBldmFsdWF0aW9uIHRhZ3MuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX3RhZ3MKCiAgICBkZWYgX19lcV9fKHNlbGYsIF9fbyk6CiAgICAgICAgaWYgaXNpbnN0YW5jZShfX28sIHNlbGYuX19jbGFzc19fKToKICAgICAgICAgICAgcmV0dXJuIHNlbGYudG9fZGljdGlvbmFyeSgpID09IF9fby50b19kaWN0aW9uYXJ5KCkKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBkZWYgdG9fZGljdGlvbmFyeShzZWxmKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICAgICAiIiIKICAgICAgICBDb252ZXJ0IHRoZSBFdmFsdWF0aW9uIG9iamVjdCB0byBhIGRpY3Rpb25hcnkuCgogICAgICAgIFJldHVybnM6CiAgICAgICAgICAgIGRpY3Q6IFRoZSBFdmFsdWF0aW9uIG9iamVjdCByZXByZXNlbnRlZCBhcyBhIGRpY3Rpb25hcnkuCiAgICAgICAgIiIiCiAgICAgICAgZXZhbHVhdGlvbl9kaWN0ID0gewogICAgICAgICAgICAiZXZhbHVhdGlvbl9pZCI6IHNlbGYuZXZhbHVhdGlvbl9pZCwKICAgICAgICAgICAgInJ1bl9pZCI6IHNlbGYucnVuX2lkLAogICAgICAgICAgICAiaW5wdXRzX2lkIjogc2VsZi5pbnB1dHNfaWQsCiAgICAgICAgICAgICJpbnB1dHMiOiBzZWxmLmlucHV0cywKICAgICAgICAgICAgIm91dHB1dHMiOiBzZWxmLm91dHB1dHMsCiAgICAgICAgICAgICJyZXF1ZXN0X2lkIjogc2VsZi5yZXF1ZXN0X2lkLAogICAgICAgICAgICAidGFyZ2V0cyI6IHNlbGYudGFyZ2V0cywKICAgICAgICAgICAgImVycm9yX2NvZGUiOiBzZWxmLmVycm9yX2NvZGUsCiAgICAgICAgICAgICJlcnJvcl9tZXNzYWdlIjogc2VsZi5lcnJvcl9tZXNzYWdlLAogICAgICAgICAgICAiYXNzZXNzbWVudHMiOiBbYXNzZXNzLnRvX2RpY3Rpb25hcnkoKSBmb3IgYXNzZXNzIGluIHNlbGYuYXNzZXNzbWVudHNdCiAgICAgICAgICAgIGlmIHNlbGYuYXNzZXNzbWVudHMKICAgICAgICAgICAgZWxzZSBOb25lLAogICAgICAgICAgICAibWV0cmljcyI6IFttZXRyaWMudG9fZGljdGlvbmFyeSgpIGZvciBtZXRyaWMgaW4gc2VsZi5tZXRyaWNzXQogICAgICAgICAgICBpZiBzZWxmLm1ldHJpY3MKICAgICAgICAgICAgZWxzZSBOb25lLAogICAgICAgICAgICAidGFncyI6IFt0YWcudG9fZGljdGlvbmFyeSgpIGZvciB0YWcgaW4gc2VsZi50YWdzXSBpZiBzZWxmLnRhZ3MgZWxzZSBOb25lLAogICAgICAgIH0KICAgICAgICByZXR1cm4ge2s6IHYgZm9yIGssIHYgaW4gZXZhbHVhdGlvbl9kaWN0Lml0ZW1zKCkgaWYgdiBpcyBub3QgTm9uZX0KCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBmcm9tX2RpY3Rpb25hcnkoY2xzLCBldmFsdWF0aW9uX2RpY3Q6IGRpY3Rbc3RyLCBBbnldKToKICAgICAgICAiIiIKICAgICAgICBDcmVhdGUgYW4gRXZhbHVhdGlvbiBvYmplY3QgZnJvbSBhIGRpY3Rpb25hcnkuCgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIGV2YWx1YXRpb25fZGljdCAoZGljdCk6IERpY3Rpb25hcnkgY29udGFpbmluZyBldmFsdWF0aW9uIGluZm9ybWF0aW9uLgoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBFdmFsdWF0aW9uOiBUaGUgRXZhbHVhdGlvbiBvYmplY3QgY3JlYXRlZCBmcm9tIHRoZSBkaWN0aW9uYXJ5LgogICAgICAgICIiIgogICAgICAgIGFzc2Vzc21lbnRzID0gTm9uZQogICAgICAgIGlmICJhc3Nlc3NtZW50cyIgaW4gZXZhbHVhdGlvbl9kaWN0OgogICAgICAgICAgICBhc3Nlc3NtZW50cyA9IFsKICAgICAgICAgICAgICAgIEFzc2Vzc21lbnRFbnRpdHkuZnJvbV9kaWN0aW9uYXJ5KGFzc2VzcykKICAgICAgICAgICAgICAgIGZvciBhc3Nlc3MgaW4gZXZhbHVhdGlvbl9kaWN0WyJhc3Nlc3NtZW50cyJdCiAgICAgICAgICAgIF0KICAgICAgICBtZXRyaWNzID0gTm9uZQogICAgICAgIGlmICJtZXRyaWNzIiBpbiBldmFsdWF0aW9uX2RpY3Q6CiAgICAgICAgICAgIG1ldHJpY3MgPSBbTWV0cmljLmZyb21fZGljdGlvbmFyeShtZXRyaWMpIGZvciBtZXRyaWMgaW4gZXZhbHVhdGlvbl9kaWN0WyJtZXRyaWNzIl1dCiAgICAgICAgdGFncyA9IE5vbmUKICAgICAgICBpZiAidGFncyIgaW4gZXZhbHVhdGlvbl9kaWN0OgogICAgICAgICAgICB0YWdzID0gW0V2YWx1YXRpb25UYWcodGFnWyJrZXkiXSwgdGFnWyJ2YWx1ZSJdKSBmb3IgdGFnIGluIGV2YWx1YXRpb25fZGljdFsidGFncyJdXQogICAgICAgIHJldHVybiBjbHMoCiAgICAgICAgICAgIGV2YWx1YXRpb25faWQ9ZXZhbHVhdGlvbl9kaWN0WyJldmFsdWF0aW9uX2lkIl0sCiAgICAgICAgICAgIHJ1bl9pZD1ldmFsdWF0aW9uX2RpY3RbInJ1bl9pZCJdLAogICAgICAgICAgICBpbnB1dHNfaWQ9ZXZhbHVhdGlvbl9kaWN0WyJpbnB1dHNfaWQiXSwKICAgICAgICAgICAgaW5wdXRzPWV2YWx1YXRpb25fZGljdFsiaW5wdXRzIl0sCiAgICAgICAgICAgIG91dHB1dHM9ZXZhbHVhdGlvbl9kaWN0LmdldCgib3V0cHV0cyIpLAogICAgICAgICAgICByZXF1ZXN0X2lkPWV2YWx1YXRpb25fZGljdC5nZXQoInJlcXVlc3RfaWQiKSwKICAgICAgICAgICAgdGFyZ2V0cz1ldmFsdWF0aW9uX2RpY3QuZ2V0KCJ0YXJnZXRzIiksCiAgICAgICAgICAgIGVycm9yX2NvZGU9ZXZhbHVhdGlvbl9kaWN0LmdldCgiZXJyb3JfY29kZSIpLAogICAgICAgICAgICBlcnJvcl9tZXNzYWdlPWV2YWx1YXRpb25fZGljdC5nZXQoImVycm9yX21lc3NhZ2UiKSwKICAgICAgICAgICAgYXNzZXNzbWVudHM9YXNzZXNzbWVudHMsCiAgICAgICAgICAgIG1ldHJpY3M9bWV0cmljcywKICAgICAgICAgICAgdGFncz10YWdzLAogICAgICAgICkKCgpAZGVwcmVjYXRlZChzaW5jZT0iMy4wLjAiKQpjbGFzcyBFdmFsdWF0aW9uKF9NbGZsb3dPYmplY3QpOgogICAgIiIiCiAgICBFdmFsdWF0aW9uIHJlc3VsdCBkYXRhLgogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgaW5wdXRzOiBkaWN0W3N0ciwgQW55XSwKICAgICAgICBvdXRwdXRzOiBkaWN0W3N0ciwgQW55XSB8IE5vbmUgPSBOb25lLAogICAgICAgIGlucHV0c19pZDogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICAgICAgcmVxdWVzdF9pZDogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICAgICAgdGFyZ2V0czogZGljdFtzdHIsIEFueV0gfCBOb25lID0gTm9uZSwKICAgICAgICBlcnJvcl9jb2RlOiBzdHIgfCBOb25lID0gTm9uZSwKICAgICAgICBlcnJvcl9tZXNzYWdlOiBzdHIgfCBOb25lID0gTm9uZSwKICAgICAgICBhc3Nlc3NtZW50czogbGlzdFtBc3Nlc3NtZW50XSB8IE5vbmUgPSBOb25lLAogICAgICAgIG1ldHJpY3M6IGRpY3Rbc3RyLCBmbG9hdF0gfCBsaXN0W01ldHJpY10gfCBOb25lID0gTm9uZSwKICAgICAgICB0YWdzOiBkaWN0W3N0ciwgc3RyXSB8IE5vbmUgPSBOb25lLAogICAgKToKICAgICAgICAiIiIKICAgICAgICBDb25zdHJ1Y3QgYSBuZXcgRXZhbHVhdGlvbiBpbnN0YW5jZS4KCiAgICAgICAgQXJnczoKICAgICAgICAgICAgaW5wdXRzOiBJbnB1dCBuYW1lcyBhbmQgdmFsdWVzIGZvciBldmFsdWF0aW9uLgogICAgICAgICAgICBvdXRwdXRzOiBPdXRwdXRzIG9idGFpbmVkIGR1cmluZyBpbmZlcmVuY2UuCiAgICAgICAgICAgIGlucHV0c19pZDogQSB1bmlxdWUgaWRlbnRpZmllciBmb3IgdGhlIGlucHV0IG5hbWVzIGFuZCB2YWx1ZXMgZm9yIGV2YWx1YXRpb24uCiAgICAgICAgICAgIHJlcXVlc3RfaWQ6IFRoZSBJRCBvZiBhbiBNTGZsb3cgVHJhY2UgY29ycmVzcG9uZGluZyB0byB0aGUgaW5wdXRzIGFuZCBvdXRwdXRzLgogICAgICAgICAgICB0YXJnZXRzOiBFeHBlY3RlZCB2YWx1ZXMgdGhhdCB0aGUgbW9kZWwgc2hvdWxkIHByb2R1Y2UgZHVyaW5nIGluZmVyZW5jZS4KICAgICAgICAgICAgZXJyb3JfY29kZTogQW4gZXJyb3IgY29kZSByZXByZXNlbnRpbmcgYW55IGlzc3VlcyBlbmNvdW50ZXJlZCBkdXJpbmcgdGhlIGV2YWx1YXRpb24uCiAgICAgICAgICAgIGVycm9yX21lc3NhZ2U6IEEgZGVzY3JpcHRpdmUgZXJyb3IgbWVzc2FnZSByZXByZXNlbnRpbmcgYW55IGlzc3VlcyBlbmNvdW50ZXJlZCBkdXJpbmcKICAgICAgICAgICAgICAgIHRoZSBldmFsdWF0aW9uLgogICAgICAgICAgICBhc3Nlc3NtZW50czogQXNzZXNzbWVudHMgZm9yIHRoZSBldmFsdWF0aW9uLgogICAgICAgICAgICBtZXRyaWNzOiBPYmplY3RpdmUgbnVtZXJpY2FsIG1ldHJpY3MgZm9yIHRoZSBldmFsdWF0aW9uLCBlLmcuLCAibnVtYmVyIG9mIGlucHV0IHRva2VucyIsCiAgICAgICAgICAgICAgICAibnVtYmVyIG9mIG91dHB1dCB0b2tlbnMiLgogICAgICAgICAgICB0YWdzOiBEaWN0aW9uYXJ5IG9mIHRhZ3MgYXNzb2NpYXRlZCB3aXRoIHRoZSBldmFsdWF0aW9uLgogICAgICAgICIiIgogICAgICAgIGlmIGlzaW5zdGFuY2UobWV0cmljcywgZGljdCk6CiAgICAgICAgICAgIG1ldHJpY3MgPSBbCiAgICAgICAgICAgICAgICBNZXRyaWMoa2V5PWtleSwgdmFsdWU9dmFsdWUsIHRpbWVzdGFtcD0wLCBzdGVwPTApIGZvciBrZXksIHZhbHVlIGluIG1ldHJpY3MuaXRlbXMoKQogICAgICAgICAgICBdCiAgICAgICAgaWYgaXNpbnN0YW5jZSh0YWdzLCBkaWN0KToKICAgICAgICAgICAgdGFncyA9IFtFdmFsdWF0aW9uVGFnKGtleT1zdHIoa2V5KSwgdmFsdWU9c3RyKHZhbHVlKSkgZm9yIGtleSwgdmFsdWUgaW4gdGFncy5pdGVtcygpXQoKICAgICAgICBzZWxmLl9pbnB1dHMgPSBpbnB1dHMKICAgICAgICBzZWxmLl9vdXRwdXRzID0gb3V0cHV0cwogICAgICAgIHNlbGYuX2lucHV0c19pZCA9IGlucHV0c19pZCBvciBfZ2VuZXJhdGVfaW5wdXRzX2lkKGlucHV0cykKICAgICAgICBzZWxmLl9yZXF1ZXN0X2lkID0gcmVxdWVzdF9pZAogICAgICAgIHNlbGYuX3RhcmdldHMgPSB0YXJnZXRzCiAgICAgICAgc2VsZi5fZXJyb3JfY29kZSA9IGVycm9yX2NvZGUKICAgICAgICBzZWxmLl9lcnJvcl9tZXNzYWdlID0gZXJyb3JfbWVzc2FnZQogICAgICAgIHNlbGYuX2Fzc2Vzc21lbnRzID0gYXNzZXNzbWVudHMKICAgICAgICBzZWxmLl9tZXRyaWNzID0gbWV0cmljcwogICAgICAgIHNlbGYuX3RhZ3MgPSB0YWdzCgogICAgQHByb3BlcnR5CiAgICBkZWYgaW5wdXRzX2lkKHNlbGYpIC0+IHN0cjoKICAgICAgICAiIiJUaGUgZXZhbHVhdGlvbiBpbnB1dHMgSUQuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2lucHV0c19pZAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGlucHV0cyhzZWxmKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICAgICAiIiJUaGUgZXZhbHVhdGlvbiBpbnB1dHMuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2lucHV0cwoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG91dHB1dHMoc2VsZikgLT4gZGljdFtzdHIsIEFueV0gfCBOb25lOgogICAgICAgICIiIlRoZSBldmFsdWF0aW9uIG91dHB1dHMuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX291dHB1dHMKCiAgICBAcHJvcGVydHkKICAgIGRlZiByZXF1ZXN0X2lkKHNlbGYpIC0+IHN0ciB8IE5vbmU6CiAgICAgICAgIiIiVGhlIGV2YWx1YXRpb24gcmVxdWVzdCBJRC4iIiIKICAgICAgICByZXR1cm4gc2VsZi5fcmVxdWVzdF9pZAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRhcmdldHMoc2VsZikgLT4gZGljdFtzdHIsIEFueV0gfCBOb25lOgogICAgICAgICIiIlRoZSBldmFsdWF0aW9uIHRhcmdldHMuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX3RhcmdldHMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBlcnJvcl9jb2RlKHNlbGYpIC0+IHN0ciB8IE5vbmU6CiAgICAgICAgIiIiVGhlIGV2YWx1YXRpb24gZXJyb3IgY29kZS4iIiIKICAgICAgICByZXR1cm4gc2VsZi5fZXJyb3JfY29kZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGVycm9yX21lc3NhZ2Uoc2VsZikgLT4gc3RyIHwgTm9uZToKICAgICAgICAiIiJUaGUgZXZhbHVhdGlvbiBlcnJvciBtZXNzYWdlLiIiIgogICAgICAgIHJldHVybiBzZWxmLl9lcnJvcl9tZXNzYWdlCgogICAgQHByb3BlcnR5CiAgICBkZWYgYXNzZXNzbWVudHMoc2VsZikgLT4gbGlzdFtBc3Nlc3NtZW50XSB8IE5vbmU6CiAgICAgICAgIiIiVGhlIGV2YWx1YXRpb24gYXNzZXNzbWVudHMuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2Fzc2Vzc21lbnRzCgogICAgQHByb3BlcnR5CiAgICBkZWYgbWV0cmljcyhzZWxmKSAtPiBsaXN0W01ldHJpY10gfCBOb25lOgogICAgICAgICIiIlRoZSBldmFsdWF0aW9uIG1ldHJpY3MuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX21ldHJpY3MKCiAgICBAcHJvcGVydHkKICAgIGRlZiB0YWdzKHNlbGYpIC0+IGRpY3Rbc3RyLCBzdHJdIHwgTm9uZToKICAgICAgICAiIiJUaGUgZXZhbHVhdGlvbiB0YWdzLiIiIgogICAgICAgIHJldHVybiBzZWxmLl90YWdzCgogICAgZGVmIF9fZXFfXyhzZWxmLCBfX28pOgogICAgICAgIGlmIGlzaW5zdGFuY2UoX19vLCBzZWxmLl9fY2xhc3NfXyk6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnRvX2RpY3Rpb25hcnkoKSA9PSBfX28udG9fZGljdGlvbmFyeSgpCiAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgZGVmIF90b19lbnRpdHkoc2VsZiwgcnVuX2lkOiBzdHIsIGV2YWx1YXRpb25faWQ6IHN0cikgLT4gRXZhbHVhdGlvbkVudGl0eToKICAgICAgICAiIiIKICAgICAgICBDb252ZXJ0IHRoZSBFdmFsdWF0aW9uIG9iamVjdCB0byBhbiBFdmFsdWF0aW9uRW50aXR5IG9iamVjdC4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgRXZhbHVhdGlvbkVudGl0eTogQW4gRXZhbHVhdGlvbkVudGl0eSBvYmplY3QuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIEV2YWx1YXRpb25FbnRpdHkoCiAgICAgICAgICAgIGV2YWx1YXRpb25faWQ9ZXZhbHVhdGlvbl9pZCwKICAgICAgICAgICAgcnVuX2lkPXJ1bl9pZCwKICAgICAgICAgICAgaW5wdXRzX2lkPXNlbGYuaW5wdXRzX2lkLAogICAgICAgICAgICBpbnB1dHM9c2VsZi5pbnB1dHMsCiAgICAgICAgICAgIG91dHB1dHM9c2VsZi5vdXRwdXRzLAogICAgICAgICAgICByZXF1ZXN0X2lkPXNlbGYucmVxdWVzdF9pZCwKICAgICAgICAgICAgdGFyZ2V0cz1zZWxmLnRhcmdldHMsCiAgICAgICAgICAgIGVycm9yX2NvZGU9c2VsZi5lcnJvcl9jb2RlLAogICAgICAgICAgICBlcnJvcl9tZXNzYWdlPXNlbGYuZXJyb3JfbWVzc2FnZSwKICAgICAgICAgICAgYXNzZXNzbWVudHM9W2Fzc2Vzcy5fdG9fZW50aXR5KGV2YWx1YXRpb25faWQpIGZvciBhc3Nlc3MgaW4gc2VsZi5hc3Nlc3NtZW50c10KICAgICAgICAgICAgaWYgc2VsZi5hc3Nlc3NtZW50cwogICAgICAgICAgICBlbHNlIE5vbmUsCiAgICAgICAgICAgIG1ldHJpY3M9c2VsZi5tZXRyaWNzLAogICAgICAgICAgICB0YWdzPXNlbGYudGFncywKICAgICAgICApCgogICAgZGVmIHRvX2RpY3Rpb25hcnkoc2VsZikgLT4gZGljdFtzdHIsIEFueV06CiAgICAgICAgIiIiCiAgICAgICAgQ29udmVydCB0aGUgRXZhbHVhdGlvbiBvYmplY3QgdG8gYSBkaWN0aW9uYXJ5LgoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBkaWN0OiBUaGUgRXZhbHVhdGlvbiBvYmplY3QgcmVwcmVzZW50ZWQgYXMgYSBkaWN0aW9uYXJ5LgogICAgICAgICIiIgogICAgICAgIGV2YWx1YXRpb25fZGljdCA9IHsKICAgICAgICAgICAgImlucHV0c19pZCI6IHNlbGYuaW5wdXRzX2lkLAogICAgICAgICAgICAiaW5wdXRzIjogc2VsZi5pbnB1dHMsCiAgICAgICAgICAgICJvdXRwdXRzIjogc2VsZi5vdXRwdXRzLAogICAgICAgICAgICAicmVxdWVzdF9pZCI6IHNlbGYucmVxdWVzdF9pZCwKICAgICAgICAgICAgInRhcmdldHMiOiBzZWxmLnRhcmdldHMsCiAgICAgICAgICAgICJlcnJvcl9jb2RlIjogc2VsZi5lcnJvcl9jb2RlLAogICAgICAgICAgICAiZXJyb3JfbWVzc2FnZSI6IHNlbGYuZXJyb3JfbWVzc2FnZSwKICAgICAgICAgICAgImFzc2Vzc21lbnRzIjogW2Fzc2Vzcy50b19kaWN0aW9uYXJ5KCkgZm9yIGFzc2VzcyBpbiBzZWxmLmFzc2Vzc21lbnRzXQogICAgICAgICAgICBpZiBzZWxmLmFzc2Vzc21lbnRzCiAgICAgICAgICAgIGVsc2UgTm9uZSwKICAgICAgICAgICAgIm1ldHJpY3MiOiBbbWV0cmljLnRvX2RpY3Rpb25hcnkoKSBmb3IgbWV0cmljIGluIHNlbGYubWV0cmljc10KICAgICAgICAgICAgaWYgc2VsZi5tZXRyaWNzCiAgICAgICAgICAgIGVsc2UgTm9uZSwKICAgICAgICAgICAgInRhZ3MiOiBbdGFnLnRvX2RpY3Rpb25hcnkoKSBmb3IgdGFnIGluIHNlbGYudGFnc10gaWYgc2VsZi50YWdzIGVsc2UgTm9uZSwKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHtrOiB2IGZvciBrLCB2IGluIGV2YWx1YXRpb25fZGljdC5pdGVtcygpIGlmIHYgaXMgbm90IE5vbmV9CgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgZnJvbV9kaWN0aW9uYXJ5KGNscywgZXZhbHVhdGlvbl9kaWN0OiBkaWN0W3N0ciwgQW55XSk6CiAgICAgICAgIiIiCiAgICAgICAgQ3JlYXRlIGFuIEV2YWx1YXRpb24gb2JqZWN0IGZyb20gYSBkaWN0aW9uYXJ5LgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBldmFsdWF0aW9uX2RpY3QgKGRpY3QpOiBEaWN0aW9uYXJ5IGNvbnRhaW5pbmcgZXZhbHVhdGlvbiBpbmZvcm1hdGlvbi4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgRXZhbHVhdGlvbjogVGhlIEV2YWx1YXRpb24gb2JqZWN0IGNyZWF0ZWQgZnJvbSB0aGUgZGljdGlvbmFyeS4KICAgICAgICAiIiIKICAgICAgICBhc3Nlc3NtZW50cyA9IE5vbmUKICAgICAgICBpZiAiYXNzZXNzbWVudHMiIGluIGV2YWx1YXRpb25fZGljdDoKICAgICAgICAgICAgYXNzZXNzbWVudHMgPSBbCiAgICAgICAgICAgICAgICBBc3Nlc3NtZW50LmZyb21fZGljdGlvbmFyeShhc3Nlc3MpIGZvciBhc3Nlc3MgaW4gZXZhbHVhdGlvbl9kaWN0WyJhc3Nlc3NtZW50cyJdCiAgICAgICAgICAgIF0KICAgICAgICBtZXRyaWNzID0gTm9uZQogICAgICAgIGlmICJtZXRyaWNzIiBpbiBldmFsdWF0aW9uX2RpY3Q6CiAgICAgICAgICAgIG1ldHJpY3MgPSBbTWV0cmljLmZyb21fZGljdGlvbmFyeShtZXRyaWMpIGZvciBtZXRyaWMgaW4gZXZhbHVhdGlvbl9kaWN0WyJtZXRyaWNzIl1dCiAgICAgICAgdGFncyA9IE5vbmUKICAgICAgICBpZiAidGFncyIgaW4gZXZhbHVhdGlvbl9kaWN0OgogICAgICAgICAgICB0YWdzID0gW0V2YWx1YXRpb25UYWcodGFnWyJrZXkiXSwgdGFnWyJ2YWx1ZSJdKSBmb3IgdGFnIGluIGV2YWx1YXRpb25fZGljdFsidGFncyJdXQogICAgICAgIHJldHVybiBjbHMoCiAgICAgICAgICAgIGlucHV0c19pZD1ldmFsdWF0aW9uX2RpY3RbImlucHV0c19pZCJdLAogICAgICAgICAgICBpbnB1dHM9ZXZhbHVhdGlvbl9kaWN0WyJpbnB1dHMiXSwKICAgICAgICAgICAgb3V0cHV0cz1ldmFsdWF0aW9uX2RpY3QuZ2V0KCJvdXRwdXRzIiksCiAgICAgICAgICAgIHJlcXVlc3RfaWQ9ZXZhbHVhdGlvbl9kaWN0LmdldCgicmVxdWVzdF9pZCIpLAogICAgICAgICAgICB0YXJnZXRzPWV2YWx1YXRpb25fZGljdC5nZXQoInRhcmdldHMiKSwKICAgICAgICAgICAgZXJyb3JfY29kZT1ldmFsdWF0aW9uX2RpY3QuZ2V0KCJlcnJvcl9jb2RlIiksCiAgICAgICAgICAgIGVycm9yX21lc3NhZ2U9ZXZhbHVhdGlvbl9kaWN0LmdldCgiZXJyb3JfbWVzc2FnZSIpLAogICAgICAgICAgICBhc3Nlc3NtZW50cz1hc3Nlc3NtZW50cywKICAgICAgICAgICAgbWV0cmljcz1tZXRyaWNzLAogICAgICAgICAgICB0YWdzPXRhZ3MsCiAgICAgICAgKQoKCmRlZiBfZ2VuZXJhdGVfaW5wdXRzX2lkKGlucHV0czogZGljdFtzdHIsIEFueV0pIC0+IHN0cjoKICAgICIiIgogICAgR2VuZXJhdGVzIGEgdW5pcXVlIGlkZW50aWZpZXIgZm9yIHRoZSBpbnB1dHMuCgogICAgQXJnczoKICAgICAgICBpbnB1dHMgKERpY3Rbc3RyLCBBbnldKTogSW5wdXQgZmllbGRzIHVzZWQgYnkgdGhlIG1vZGVsIHRvIGNvbXB1dGUgb3V0cHV0cy4KCiAgICBSZXR1cm5zOgogICAgICAgIHN0cjogQSB1bmlxdWUgaWRlbnRpZmllciBmb3IgdGhlIGlucHV0cy4KICAgICIiIgogICAgaW5wdXRzX2pzb24gPSBqc29uLmR1bXBzKGlucHV0cywgc29ydF9rZXlzPVRydWUsIGNscz1UcmFjZUpTT05FbmNvZGVyKQogICAgcmV0dXJuIGhhc2hsaWIuc2hhMjU2KGlucHV0c19qc29uLmVuY29kZSgidXRmLTgiKSkuaGV4ZGlnZXN0KCkK
+"""
+THE 'mlflow.evaluation` MODULE IS LEGACY AND WILL BE REMOVED IN MLFLOW 3.0.
+For assessment functionality, use `mlflow.entities.assessment` for assessment classes and
+`mlflow.tracing.assessments` for assessment APIs. There are no alternatives for Evaluation and
+EvaluationEntity objects and related APIs.
+"""
+
+import hashlib
+import json
+from typing import Any
+
+from mlflow.entities._mlflow_object import _MlflowObject
+from mlflow.entities.metric import Metric
+from mlflow.evaluation.assessment import Assessment, AssessmentEntity
+from mlflow.evaluation.evaluation_tag import (
+    EvaluationTag,  # Assuming EvaluationTag is in this module
+)
+from mlflow.tracing.utils import TraceJSONEncoder
+from mlflow.utils.annotations import deprecated
+
+
+@deprecated(since="3.0.0")
+class EvaluationEntity(_MlflowObject):
+    """
+    Evaluation result data, including inputs, outputs, targets, assessments, and more.
+    """
+
+    def __init__(
+        self,
+        evaluation_id: str,
+        run_id: str,
+        inputs_id: str,
+        inputs: dict[str, Any],
+        outputs: dict[str, Any] | None = None,
+        request_id: str | None = None,
+        targets: dict[str, Any] | None = None,
+        error_code: str | None = None,
+        error_message: str | None = None,
+        assessments: list[AssessmentEntity] | None = None,
+        metrics: list[Metric] | None = None,
+        tags: list[EvaluationTag] | None = None,
+    ):
+        """
+        Construct a new mlflow.evaluation.EvaluationEntity instance.
+
+        Args:
+            evaluation_id: A unique identifier for the evaluation.
+            run_id: The ID of the MLflow Run containing the Evaluation.
+            inputs_id: A unique identifier for the input names and values for evaluation.
+            inputs: Input names and values for evaluation.
+            outputs: Outputs obtained during inference.
+            request_id: The ID of an MLflow Trace corresponding to the inputs and outputs.
+            targets: Expected values that the model should produce during inference.
+            error_code: An error code representing any issues encountered during the evaluation.
+            error_message: A descriptive error message representing any issues encountered during
+                the evaluation.
+            assessments: Assessments for the evaluation.
+            metrics: Objective numerical metrics for the evaluation, e.g., "number of input tokens",
+                "number of output tokens".
+            tags: List of tags associated with the evaluation.
+        """
+        self._evaluation_id = evaluation_id
+        self._run_id = run_id
+        self._inputs_id = inputs_id
+        self._inputs = inputs
+        self._outputs = outputs
+        self._request_id = request_id
+        self._targets = targets
+        self._error_code = error_code
+        self._error_message = error_message
+        self._assessments = assessments
+        self._metrics = metrics
+        self._tags = tags
+
+    @property
+    def evaluation_id(self) -> str:
+        """The evaluation ID."""
+        return self._evaluation_id
+
+    @property
+    def run_id(self) -> str:
+        """The ID of the MLflow Run containing the evaluation"""
+        return self._run_id
+
+    @property
+    def inputs_id(self) -> str:
+        """The evaluation inputs ID."""
+        return self._inputs_id
+
+    @property
+    def inputs(self) -> dict[str, Any]:
+        """The evaluation inputs."""
+        return self._inputs
+
+    @property
+    def outputs(self) -> dict[str, Any] | None:
+        """The evaluation outputs."""
+        return self._outputs
+
+    @property
+    def request_id(self) -> str | None:
+        """The evaluation request ID."""
+        return self._request_id
+
+    @property
+    def targets(self) -> dict[str, Any] | None:
+        """The evaluation targets."""
+        return self._targets
+
+    @property
+    def error_code(self) -> str | None:
+        """The evaluation error code."""
+        return self._error_code
+
+    @property
+    def error_message(self) -> str | None:
+        """The evaluation error message."""
+        return self._error_message
+
+    @property
+    def assessments(self) -> list[AssessmentEntity] | None:
+        """The evaluation assessments."""
+        return self._assessments
+
+    @property
+    def metrics(self) -> list[Metric] | None:
+        """The evaluation metrics."""
+        return self._metrics
+
+    @property
+    def tags(self) -> list[EvaluationTag] | None:
+        """The evaluation tags."""
+        return self._tags
+
+    def __eq__(self, __o):
+        if isinstance(__o, self.__class__):
+            return self.to_dictionary() == __o.to_dictionary()
+        return False
+
+    def to_dictionary(self) -> dict[str, Any]:
+        """
+        Convert the Evaluation object to a dictionary.
+
+        Returns:
+            dict: The Evaluation object represented as a dictionary.
+        """
+        evaluation_dict = {
+            "evaluation_id": self.evaluation_id,
+            "run_id": self.run_id,
+            "inputs_id": self.inputs_id,
+            "inputs": self.inputs,
+            "outputs": self.outputs,
+            "request_id": self.request_id,
+            "targets": self.targets,
+            "error_code": self.error_code,
+            "error_message": self.error_message,
+            "assessments": [assess.to_dictionary() for assess in self.assessments]
+            if self.assessments
+            else None,
+            "metrics": [metric.to_dictionary() for metric in self.metrics]
+            if self.metrics
+            else None,
+            "tags": [tag.to_dictionary() for tag in self.tags] if self.tags else None,
+        }
+        return {k: v for k, v in evaluation_dict.items() if v is not None}
+
+    @classmethod
+    def from_dictionary(cls, evaluation_dict: dict[str, Any]):
+        """
+        Create an Evaluation object from a dictionary.
+
+        Args:
+            evaluation_dict (dict): Dictionary containing evaluation information.
+
+        Returns:
+            Evaluation: The Evaluation object created from the dictionary.
+        """
+        assessments = None
+        if "assessments" in evaluation_dict:
+            assessments = [
+                AssessmentEntity.from_dictionary(assess)
+                for assess in evaluation_dict["assessments"]
+            ]
+        metrics = None
+        if "metrics" in evaluation_dict:
+            metrics = [Metric.from_dictionary(metric) for metric in evaluation_dict["metrics"]]
+        tags = None
+        if "tags" in evaluation_dict:
+            tags = [EvaluationTag(tag["key"], tag["value"]) for tag in evaluation_dict["tags"]]
+        return cls(
+            evaluation_id=evaluation_dict["evaluation_id"],
+            run_id=evaluation_dict["run_id"],
+            inputs_id=evaluation_dict["inputs_id"],
+            inputs=evaluation_dict["inputs"],
+            outputs=evaluation_dict.get("outputs"),
+            request_id=evaluation_dict.get("request_id"),
+            targets=evaluation_dict.get("targets"),
+            error_code=evaluation_dict.get("error_code"),
+            error_message=evaluation_dict.get("error_message"),
+            assessments=assessments,
+            metrics=metrics,
+            tags=tags,
+        )
+
+
+@deprecated(since="3.0.0")
+class Evaluation(_MlflowObject):
+    """
+    Evaluation result data.
+    """
+
+    def __init__(
+        self,
+        inputs: dict[str, Any],
+        outputs: dict[str, Any] | None = None,
+        inputs_id: str | None = None,
+        request_id: str | None = None,
+        targets: dict[str, Any] | None = None,
+        error_code: str | None = None,
+        error_message: str | None = None,
+        assessments: list[Assessment] | None = None,
+        metrics: dict[str, float] | list[Metric] | None = None,
+        tags: dict[str, str] | None = None,
+    ):
+        """
+        Construct a new Evaluation instance.
+
+        Args:
+            inputs: Input names and values for evaluation.
+            outputs: Outputs obtained during inference.
+            inputs_id: A unique identifier for the input names and values for evaluation.
+            request_id: The ID of an MLflow Trace corresponding to the inputs and outputs.
+            targets: Expected values that the model should produce during inference.
+            error_code: An error code representing any issues encountered during the evaluation.
+            error_message: A descriptive error message representing any issues encountered during
+                the evaluation.
+            assessments: Assessments for the evaluation.
+            metrics: Objective numerical metrics for the evaluation, e.g., "number of input tokens",
+                "number of output tokens".
+            tags: Dictionary of tags associated with the evaluation.
+        """
+        if isinstance(metrics, dict):
+            metrics = [
+                Metric(key=key, value=value, timestamp=0, step=0) for key, value in metrics.items()
+            ]
+        if isinstance(tags, dict):
+            tags = [EvaluationTag(key=str(key), value=str(value)) for key, value in tags.items()]
+
+        self._inputs = inputs
+        self._outputs = outputs
+        self._inputs_id = inputs_id or _generate_inputs_id(inputs)
+        self._request_id = request_id
+        self._targets = targets
+        self._error_code = error_code
+        self._error_message = error_message
+        self._assessments = assessments
+        self._metrics = metrics
+        self._tags = tags
+
+    @property
+    def inputs_id(self) -> str:
+        """The evaluation inputs ID."""
+        return self._inputs_id
+
+    @property
+    def inputs(self) -> dict[str, Any]:
+        """The evaluation inputs."""
+        return self._inputs
+
+    @property
+    def outputs(self) -> dict[str, Any] | None:
+        """The evaluation outputs."""
+        return self._outputs
+
+    @property
+    def request_id(self) -> str | None:
+        """The evaluation request ID."""
+        return self._request_id
+
+    @property
+    def targets(self) -> dict[str, Any] | None:
+        """The evaluation targets."""
+        return self._targets
+
+    @property
+    def error_code(self) -> str | None:
+        """The evaluation error code."""
+        return self._error_code
+
+    @property
+    def error_message(self) -> str | None:
+        """The evaluation error message."""
+        return self._error_message
+
+    @property
+    def assessments(self) -> list[Assessment] | None:
+        """The evaluation assessments."""
+        return self._assessments
+
+    @property
+    def metrics(self) -> list[Metric] | None:
+        """The evaluation metrics."""
+        return self._metrics
+
+    @property
+    def tags(self) -> dict[str, str] | None:
+        """The evaluation tags."""
+        return self._tags
+
+    def __eq__(self, __o):
+        if isinstance(__o, self.__class__):
+            return self.to_dictionary() == __o.to_dictionary()
+        return False
+
+    def _to_entity(self, run_id: str, evaluation_id: str) -> EvaluationEntity:
+        """
+        Convert the Evaluation object to an EvaluationEntity object.
+
+        Returns:
+            EvaluationEntity: An EvaluationEntity object.
+        """
+        return EvaluationEntity(
+            evaluation_id=evaluation_id,
+            run_id=run_id,
+            inputs_id=self.inputs_id,
+            inputs=self.inputs,
+            outputs=self.outputs,
+            request_id=self.request_id,
+            targets=self.targets,
+            error_code=self.error_code,
+            error_message=self.error_message,
+            assessments=[assess._to_entity(evaluation_id) for assess in self.assessments]
+            if self.assessments
+            else None,
+            metrics=self.metrics,
+            tags=self.tags,
+        )
+
+    def to_dictionary(self) -> dict[str, Any]:
+        """
+        Convert the Evaluation object to a dictionary.
+
+        Returns:
+            dict: The Evaluation object represented as a dictionary.
+        """
+        evaluation_dict = {
+            "inputs_id": self.inputs_id,
+            "inputs": self.inputs,
+            "outputs": self.outputs,
+            "request_id": self.request_id,
+            "targets": self.targets,
+            "error_code": self.error_code,
+            "error_message": self.error_message,
+            "assessments": [assess.to_dictionary() for assess in self.assessments]
+            if self.assessments
+            else None,
+            "metrics": [metric.to_dictionary() for metric in self.metrics]
+            if self.metrics
+            else None,
+            "tags": [tag.to_dictionary() for tag in self.tags] if self.tags else None,
+        }
+        return {k: v for k, v in evaluation_dict.items() if v is not None}
+
+    @classmethod
+    def from_dictionary(cls, evaluation_dict: dict[str, Any]):
+        """
+        Create an Evaluation object from a dictionary.
+
+        Args:
+            evaluation_dict (dict): Dictionary containing evaluation information.
+
+        Returns:
+            Evaluation: The Evaluation object created from the dictionary.
+        """
+        assessments = None
+        if "assessments" in evaluation_dict:
+            assessments = [
+                Assessment.from_dictionary(assess) for assess in evaluation_dict["assessments"]
+            ]
+        metrics = None
+        if "metrics" in evaluation_dict:
+            metrics = [Metric.from_dictionary(metric) for metric in evaluation_dict["metrics"]]
+        tags = None
+        if "tags" in evaluation_dict:
+            tags = [EvaluationTag(tag["key"], tag["value"]) for tag in evaluation_dict["tags"]]
+        return cls(
+            inputs_id=evaluation_dict["inputs_id"],
+            inputs=evaluation_dict["inputs"],
+            outputs=evaluation_dict.get("outputs"),
+            request_id=evaluation_dict.get("request_id"),
+            targets=evaluation_dict.get("targets"),
+            error_code=evaluation_dict.get("error_code"),
+            error_message=evaluation_dict.get("error_message"),
+            assessments=assessments,
+            metrics=metrics,
+            tags=tags,
+        )
+
+
+def _generate_inputs_id(inputs: dict[str, Any]) -> str:
+    """
+    Generates a unique identifier for the inputs.
+
+    Args:
+        inputs (Dict[str, Any]): Input fields used by the model to compute outputs.
+
+    Returns:
+        str: A unique identifier for the inputs.
+    """
+    inputs_json = json.dumps(inputs, sort_keys=True, cls=TraceJSONEncoder)
+    return hashlib.sha256(inputs_json.encode("utf-8")).hexdigest()

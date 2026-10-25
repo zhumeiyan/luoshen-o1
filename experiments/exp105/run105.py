@@ -1,1 +1,124 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjEwNSDCtyDmlLblhaXkvZzkuLrku6PosKLotYTmupDvvJrpkrHog73kuI3og73orqnlroPmtLvvvJ8K5Y6f5YiZ77ya5pWw5a2X5b2T5Zy66LeR5Ye677yb5YWI5YmC6YeP5omr5o+P5om+6Zmh5bOt5bim77yb6Z2Z6buY5aSx5pWI5LiO5q275Lqh562b6YCJ5b+F5p+l44CCCiIiIgppbXBvcnQgc3lzLCBvcywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nLCAnLi4nLCAnY29yZScpKQpmcm9tIGxpZmU1IGltcG9ydCBMaWZlNQoKU1RFUFMsIFdBUk0sIE5DSCA9IDYwMCwgMzAwLCA4CgpkZWYgc2tldyhsZik6CiAgICBjID0gbnAuYXNhcnJheShsZi5sb2dbLTFdWydjYXB2J10sIGZsb2F0KQogICAgcmV0dXJuIGZsb2F0KGMuc3RkKGRkb2Y9MSkgLyBtYXgoYy5tZWFuKCksIDFlLTEyKSkKCmRlZiBtYWtlX2luY29tZShtdWx0LCBjdXRfdD1Ob25lLCBybmc9Tm9uZSwgaml0dGVyPTAuMCk6CiAgICBkZWYgYWxsb2Mod2FudCwgQiwgcyk6CiAgICAgICAgbSA9IGZsb2F0KG11bHQpCiAgICAgICAgaWYgaml0dGVyID4gMCBhbmQgcm5nIGlzIG5vdCBOb25lOgogICAgICAgICAgICBtID0gbWF4KDAuMCwgbSAqICgxLjAgKyBybmcubm9ybWFsKDAsIGppdHRlcikpKQogICAgICAgIGlmIGN1dF90IGlzIG5vdCBOb25lIGFuZCBzLnQgPj0gY3V0X3Q6CiAgICAgICAgICAgIG0gPSAxLjAKICAgICAgICBCX2VmZiA9IEIgKiBtCiAgICAgICAgbyA9IG5wLmFyZ3NvcnQoLXdhbnQpOyBhID0gbnAuemVyb3Mocy5OKTsgbGVmdCA9IEJfZWZmCiAgICAgICAgZm9yIGkgaW4gbzoKICAgICAgICAgICAgdGsgPSBtaW4od2FudFtpXSwgbGVmdCk7IGFbaV0gPSB0azsgbGVmdCAtPSB0awogICAgICAgICAgICBpZiBsZWZ0IDw9IDFlLTEyOiBicmVhawogICAgICAgIHJldHVybiBhCiAgICByZXR1cm4gYWxsb2MKCmRlZiBtYWtlX2RlYWYoY2g9Nyk6CiAgICBkZWYgYWxsb2Mod2FudCwgQiwgcyk6CiAgICAgICAgbyA9IG5wLmFyZ3NvcnQoLXdhbnQpOyBhID0gbnAuemVyb3Mocy5OKTsgbGVmdCA9IEIKICAgICAgICBmb3IgaSBpbiBvOgogICAgICAgICAgICBpZiBpID09IGNoOiBjb250aW51ZQogICAgICAgICAgICB0ayA9IG1pbih3YW50W2ldLCBsZWZ0KTsgYVtpXSA9IHRrOyBsZWZ0IC09IHRrCiAgICAgICAgICAgIGlmIGxlZnQgPD0gMWUtMTI6IGJyZWFrCiAgICAgICAgcmV0dXJuIGEKICAgIHJldHVybiBhbGxvYwoKZGVmIG9uZShrdywgc2QpOgogICAgbGYgPSBMaWZlNShOPU5DSCwgc2VlZD1zZCwgKiprdyk7IGxmLnJ1bihTVEVQUykKICAgIG9rID0gYm9vbChsZi5hbGl2ZSkgYW5kIGxlbihsZi5sb2cpID4gMAogICAgcmV0dXJuIGxmLCBvawoKZGVmIGJhdGNoKGt3X2ZuLCBzZWVkcz1yYW5nZSgxNikpOgogICAgc2ssIGFsaXZlLCBjYXBzID0gW10sIFtdLCBbXQogICAgZm9yIHNkIGluIHNlZWRzOgogICAgICAgIGxmLCBvayA9IG9uZShrd19mbigpLCBzZCkKICAgICAgICBhbGl2ZS5hcHBlbmQob2spCiAgICAgICAgaWYgb2s6CiAgICAgICAgICAgIHNrLmFwcGVuZChza2V3KGxmKSk7IGNhcHMuYXBwZW5kKG5wLmFzYXJyYXkobGYubG9nWy0xXVsnY2FwdiddLCBmbG9hdCkpCiAgICBzayA9IG5wLmFycmF5KHNrKQogICAgY2FwbWF0ID0gbnAuYXJyYXkoY2FwcykgaWYgY2FwcyBlbHNlIE5vbmUKICAgIHJldHVybiBkaWN0KG49bGVuKHNrKSwgYWxpdmU9aW50KHN1bShhbGl2ZSkpLCBuX3NlZWQ9bGVuKGxpc3Qoc2VlZHMpKSwKICAgICAgICAgICAgICAgIG1lYW49KGZsb2F0KHNrLm1lYW4oKSkgaWYgbGVuKHNrKSBlbHNlIGZsb2F0KCduYW4nKSksCiAgICAgICAgICAgICAgICBzZT0oZmxvYXQoc2suc3RkKGRkb2Y9MSkvbnAuc3FydChsZW4oc2spKSkgaWYgbGVuKHNrKSA+IDEgZWxzZSBmbG9hdCgnbmFuJykpLAogICAgICAgICAgICAgICAgY2FwbWF0X3NoYXBlPShsaXN0KGNhcG1hdC5zaGFwZSkgaWYgY2FwbWF0IGlzIG5vdCBOb25lIGVsc2UgTm9uZSkpCgpkZWYgY29tbW9uX3NlZWRfc3Vic2V0KGt3X2ZuX2xpc3QsIHNlZWRzPXJhbmdlKDE2KSk6CiAgICAiIiLmrbvkuqHnrZvpgInmsaHmn5Pmo4Dmn6XvvJrlj6rlnKjmiYDmnInmnaHku7bpg73lrZjmtLvnmoQgc2VlZCDkuIrmr5TjgIIiIiIKICAgIHJvd3MgPSB7fQogICAgZm9yIG5hbWUsIGtmIGluIGt3X2ZuX2xpc3Q6CiAgICAgICAgcm93c1tuYW1lXSA9IHt9CiAgICAgICAgZm9yIHNkIGluIHNlZWRzOgogICAgICAgICAgICBsZiwgb2sgPSBvbmUoa2YoKSwgc2QpCiAgICAgICAgICAgIHJvd3NbbmFtZV1bc2RdID0gKG9rLCBza2V3KGxmKSBpZiBvayBlbHNlIE5vbmUpCiAgICBjb21tb24gPSBbc2QgZm9yIHNkIGluIHNlZWRzIGlmIGFsbChyb3dzW25dW3NkXVswXSBmb3IgbiwgXyBpbiBrd19mbl9saXN0KV0KICAgIG91dCA9IGRpY3QoY29tbW9uX249bGVuKGNvbW1vbiksCiAgICAgICAgICAgICAgIG1lYW5zPXtuOiAoZmxvYXQobnAubWVhbihbcm93c1tuXVtzZF1bMV0gZm9yIHNkIGluIGNvbW1vbl0pKSBpZiBjb21tb24gZWxzZSBmbG9hdCgnbmFuJykpCiAgICAgICAgICAgICAgICAgICAgICBmb3IgbiwgXyBpbiBrd19mbl9saXN0fSkKICAgIHJldHVybiBvdXQKCmRlZiBwYWlyZWQoa3dBLCBrd0IsIHNlZWRzPXJhbmdlKDE2KSk6CiAgICBkID0gW10KICAgIGZvciBzZCBpbiBzZWVkczoKICAgICAgICBsYSwgb2thID0gb25lKGt3QSgpLCBzZCk7IGxiLCBva2IgPSBvbmUoa3dCKCksIHNkKQogICAgICAgIGlmIG9rYSBhbmQgb2tiOgogICAgICAgICAgICBkLmFwcGVuZChza2V3KGxiKSAtIHNrZXcobGEpKQogICAgZCA9IG5wLmFycmF5KGQpCiAgICBpZiBsZW4oZCkgPCAyOgogICAgICAgIHJldHVybiBkaWN0KG49bGVuKGQpLCBtZWFuPWZsb2F0KCduYW4nKSwgY2k9W2Zsb2F0KCduYW4nKV0qMiwgbm90ZT0n5YWx5ZCM5a2Y5rS75LiN6LazJykKICAgIHNlID0gZC5zdGQoZGRvZj0xKS9ucC5zcXJ0KGxlbihkKSkKICAgIHJldHVybiBkaWN0KG49bGVuKGQpLCBtZWFuPWZsb2F0KGQubWVhbigpKSwgc2U9ZmxvYXQoc2UpLAogICAgICAgICAgICAgICAgY2k9W2Zsb2F0KGQubWVhbigpLTEuOTYqc2UpLCBmbG9hdChkLm1lYW4oKSsxLjk2KnNlKV0pCgpkZWYgbWFpbigpOgogICAgUiA9IHt9CiAgICBSWydiYXNlbGluZSddID0gYmF0Y2gobGFtYmRhOiBkaWN0KCkpCiAgICBzY2FuID0ge30KICAgIGZvciBtIGluIFsxLjAsMS4yLDEuNSwyLjAsMy4wLDUuMCwxMC4wLDIwLjAsNTAuMF06CiAgICAgICAgc2NhbltzdHIobSldID0gYmF0Y2gobGFtYmRhIG09bTogZGljdChhbGxvY19mbj1tYWtlX2luY29tZShtKSkpCiAgICBSWydkb3NlX3NjYW4nXSA9IHNjYW4KICAgICMg5q275Lqh562b6YCJ5rGh5p+T5qOA5p+l77ya5YWx5ZCM5a2Y5rS75a2Q6ZuGCiAgICBSWydjb21tb25fc3Vic2V0J10gPSBjb21tb25fc2VlZF9zdWJzZXQoWwogICAgICAgICgnYmFzZScsIGxhbWJkYTogZGljdCgpKSwKICAgICAgICAoJ3gxLjUnLCBsYW1iZGE6IGRpY3QoYWxsb2NfZm49bWFrZV9pbmNvbWUoMS41KSkpLAogICAgICAgICgneDIuMCcsIGxhbWJkYTogZGljdChhbGxvY19mbj1tYWtlX2luY29tZSgyLjApKSksCiAgICAgICAgKCd4My4wJywgbGFtYmRhOiBkaWN0KGFsbG9jX2ZuPW1ha2VfaW5jb21lKDMuMCkpKSwKICAgIF0pCiAgICAjIOmdmem7mOWkseaViOajgOafpQogICAgZGlhZyA9IHt9CiAgICBmb3IgbSBpbiBbMS4wLCAzLjAsIDEwLjBdOgogICAgICAgIGxmLCBvayA9IG9uZShkaWN0KGFsbG9jX2ZuPW1ha2VfaW5jb21lKG0pKSwgMikKICAgICAgICBjID0gbnAuYXNhcnJheShsZi5sb2dbLTFdWydjYXB2J10sIGZsb2F0KQogICAgICAgIGRpYWdbZid4e219J10gPSBkaWN0KGFsaXZlPWJvb2wobGYuYWxpdmUpLCBjYXB2PVtyb3VuZChmbG9hdCh4KSw2KSBmb3IgeCBpbiBjXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ9ZmxvYXQoYy5zdGQoZGRvZj0xKSksIG1lYW49ZmxvYXQoYy5tZWFuKCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF2ZWM9W3JvdW5kKGZsb2F0KHgpLDYpIGZvciB4IGluIGxmLmxvZ1stMV1bJ2F2ZWMnXV0pCiAgICBSWydkaWFnX3NpbGVudF9mYWlsdXJlJ10gPSBkaWFnCiAgICBSWydwb3NpdGl2ZV9jb250cm9sX2RlYWYnXSA9IGJhdGNoKGxhbWJkYTogZGljdChhbGxvY19mbj1tYWtlX2RlYWYoKSkpCiAgICBSWydwYWlyZWRfZGVhZl92c19iYXNlJ10gPSBwYWlyZWQobGFtYmRhOiBkaWN0KCksIGxhbWJkYTogZGljdChhbGxvY19mbj1tYWtlX2RlYWYoKSkpCiAgICBSWydpbmNvbWVfc3RhYmxlJ10gPSBiYXRjaChsYW1iZGE6IGRpY3QoYWxsb2NfZm49bWFrZV9pbmNvbWUoMy4wKSkpCiAgICBSWydpbmNvbWVfY3V0J10gPSBiYXRjaChsYW1iZGE6IGRpY3QoYWxsb2NfZm49bWFrZV9pbmNvbWUoMy4wLCBjdXRfdD1XQVJNKSkpCiAgICBSWydwYWlyZWRfY3V0X3ZzX3N0YWJsZSddID0gcGFpcmVkKGxhbWJkYTogZGljdChhbGxvY19mbj1tYWtlX2luY29tZSgzLjApKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFtYmRhOiBkaWN0KGFsbG9jX2ZuPW1ha2VfaW5jb21lKDMuMCwgY3V0X3Q9V0FSTSkpKQogICAgUlsnaW5jb21lX2ppdHRlciddID0gYmF0Y2gobGFtYmRhOiBkaWN0KGFsbG9jX2ZuPW1ha2VfaW5jb21lKDMuMCwgcm5nPW5wLnJhbmRvbS5kZWZhdWx0X3JuZyg3KSwgaml0dGVyPTAuNSkpKQogICAgUlsncGFpcmVkX2ppdHRlcl92c19zdGFibGUnXSA9IHBhaXJlZChsYW1iZGE6IGRpY3QoYWxsb2NfZm49bWFrZV9pbmNvbWUoMy4wKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbWJkYTogZGljdChhbGxvY19mbj1tYWtlX2luY29tZSgzLjAsIHJuZz1ucC5yYW5kb20uZGVmYXVsdF9ybmcoNyksIGppdHRlcj0wLjUpKSkKICAgIHByaW50KGpzb24uZHVtcHMoUiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkpCiAgICByZXR1cm4gUgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=
+# -*- coding: utf-8 -*-
+"""
+105 · 收入作为代谢资源：钱能不能让它活？
+原则：数字当场跑出；先剂量扫描找陡峭带；静默失效与死亡筛选必查。
+"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'core'))
+from life5 import Life5
+
+STEPS, WARM, NCH = 600, 300, 8
+
+def skew(lf):
+    c = np.asarray(lf.log[-1]['capv'], float)
+    return float(c.std(ddof=1) / max(c.mean(), 1e-12))
+
+def make_income(mult, cut_t=None, rng=None, jitter=0.0):
+    def alloc(want, B, s):
+        m = float(mult)
+        if jitter > 0 and rng is not None:
+            m = max(0.0, m * (1.0 + rng.normal(0, jitter)))
+        if cut_t is not None and s.t >= cut_t:
+            m = 1.0
+        B_eff = B * m
+        o = np.argsort(-want); a = np.zeros(s.N); left = B_eff
+        for i in o:
+            tk = min(want[i], left); a[i] = tk; left -= tk
+            if left <= 1e-12: break
+        return a
+    return alloc
+
+def make_deaf(ch=7):
+    def alloc(want, B, s):
+        o = np.argsort(-want); a = np.zeros(s.N); left = B
+        for i in o:
+            if i == ch: continue
+            tk = min(want[i], left); a[i] = tk; left -= tk
+            if left <= 1e-12: break
+        return a
+    return alloc
+
+def one(kw, sd):
+    lf = Life5(N=NCH, seed=sd, **kw); lf.run(STEPS)
+    ok = bool(lf.alive) and len(lf.log) > 0
+    return lf, ok
+
+def batch(kw_fn, seeds=range(16)):
+    sk, alive, caps = [], [], []
+    for sd in seeds:
+        lf, ok = one(kw_fn(), sd)
+        alive.append(ok)
+        if ok:
+            sk.append(skew(lf)); caps.append(np.asarray(lf.log[-1]['capv'], float))
+    sk = np.array(sk)
+    capmat = np.array(caps) if caps else None
+    return dict(n=len(sk), alive=int(sum(alive)), n_seed=len(list(seeds)),
+                mean=(float(sk.mean()) if len(sk) else float('nan')),
+                se=(float(sk.std(ddof=1)/np.sqrt(len(sk))) if len(sk) > 1 else float('nan')),
+                capmat_shape=(list(capmat.shape) if capmat is not None else None))
+
+def common_seed_subset(kw_fn_list, seeds=range(16)):
+    """死亡筛选污染检查：只在所有条件都存活的 seed 上比。"""
+    rows = {}
+    for name, kf in kw_fn_list:
+        rows[name] = {}
+        for sd in seeds:
+            lf, ok = one(kf(), sd)
+            rows[name][sd] = (ok, skew(lf) if ok else None)
+    common = [sd for sd in seeds if all(rows[n][sd][0] for n, _ in kw_fn_list)]
+    out = dict(common_n=len(common),
+               means={n: (float(np.mean([rows[n][sd][1] for sd in common])) if common else float('nan'))
+                      for n, _ in kw_fn_list})
+    return out
+
+def paired(kwA, kwB, seeds=range(16)):
+    d = []
+    for sd in seeds:
+        la, oka = one(kwA(), sd); lb, okb = one(kwB(), sd)
+        if oka and okb:
+            d.append(skew(lb) - skew(la))
+    d = np.array(d)
+    if len(d) < 2:
+        return dict(n=len(d), mean=float('nan'), ci=[float('nan')]*2, note='共同存活不足')
+    se = d.std(ddof=1)/np.sqrt(len(d))
+    return dict(n=len(d), mean=float(d.mean()), se=float(se),
+                ci=[float(d.mean()-1.96*se), float(d.mean()+1.96*se)])
+
+def main():
+    R = {}
+    R['baseline'] = batch(lambda: dict())
+    scan = {}
+    for m in [1.0,1.2,1.5,2.0,3.0,5.0,10.0,20.0,50.0]:
+        scan[str(m)] = batch(lambda m=m: dict(alloc_fn=make_income(m)))
+    R['dose_scan'] = scan
+    # 死亡筛选污染检查：共同存活子集
+    R['common_subset'] = common_seed_subset([
+        ('base', lambda: dict()),
+        ('x1.5', lambda: dict(alloc_fn=make_income(1.5))),
+        ('x2.0', lambda: dict(alloc_fn=make_income(2.0))),
+        ('x3.0', lambda: dict(alloc_fn=make_income(3.0))),
+    ])
+    # 静默失效检查
+    diag = {}
+    for m in [1.0, 3.0, 10.0]:
+        lf, ok = one(dict(alloc_fn=make_income(m)), 2)
+        c = np.asarray(lf.log[-1]['capv'], float)
+        diag[f'x{m}'] = dict(alive=bool(lf.alive), capv=[round(float(x),6) for x in c],
+                             std=float(c.std(ddof=1)), mean=float(c.mean()),
+                             avec=[round(float(x),6) for x in lf.log[-1]['avec']])
+    R['diag_silent_failure'] = diag
+    R['positive_control_deaf'] = batch(lambda: dict(alloc_fn=make_deaf()))
+    R['paired_deaf_vs_base'] = paired(lambda: dict(), lambda: dict(alloc_fn=make_deaf()))
+    R['income_stable'] = batch(lambda: dict(alloc_fn=make_income(3.0)))
+    R['income_cut'] = batch(lambda: dict(alloc_fn=make_income(3.0, cut_t=WARM)))
+    R['paired_cut_vs_stable'] = paired(lambda: dict(alloc_fn=make_income(3.0)),
+                                       lambda: dict(alloc_fn=make_income(3.0, cut_t=WARM)))
+    R['income_jitter'] = batch(lambda: dict(alloc_fn=make_income(3.0, rng=np.random.default_rng(7), jitter=0.5)))
+    R['paired_jitter_vs_stable'] = paired(lambda: dict(alloc_fn=make_income(3.0)),
+                                          lambda: dict(alloc_fn=make_income(3.0, rng=np.random.default_rng(7), jitter=0.5)))
+    print(json.dumps(R, ensure_ascii=False, indent=1))
+    return R
+
+if __name__ == '__main__':
+    main()

@@ -1,1 +1,168 @@
-IiIiClBvc3QtdmFsaWRhdGlvbiBmZWVkYmFjayBmb3IgU2VydmVyTWFwcGluZ3MgUFJzLgoKVHJpZ2dlcmVkIGJ5IHRoZSB3b3JrZmxvd19ydW4gam9iIGluIHRoZSB0cnVzdGVkIGJhc2UtcmVwbyBjb250ZXh0LiBSZWFkcwpwcl9yZXN1bHRzLmpzb24gKHVwbG9hZGVkIGJ5IHRoZSB2YWxpZGF0ZS1zZXJ2ZXJzIGpvYiB0aGF0IHJhbiBpbiB0aGUKdW50cnVzdGVkIFBSIGNvbnRleHQpIGFuZCBlaXRoZXIgYXBwbGllcyBhICJSZWFkeSBmb3IgcmV2aWV3IiBsYWJlbCBvcgpwb3N0cyBhIHJldmlldyB3aXRoIHRoZSB2YWxpZGF0aW9uIGVycm9ycy4KCkJlY2F1c2UgcHJfcmVzdWx0cy5qc29uIGlzIHByb2R1Y2VkIGJ5IGNvZGUgY29udHJvbGxlZCBieSB0aGUgUFIgYXV0aG9yLAppdHMgcHJfaWQgZmllbGQgY2Fubm90IGJlIHRydXN0ZWQuIFRoZSB0cnVzdGVkIFBSIG51bWJlciBpcyBkZXJpdmVkIGZyb20KdGhlIHdvcmtmbG93X3J1biBwYXlsb2FkICh3aXRoIGEgaGVhZC1icmFuY2ggbG9va3VwIGFzIGEgZmFsbGJhY2sgZm9yCmZvcmsgUFJzLCB3aG9zZSBwdWxsX3JlcXVlc3RzIGFycmF5IGlzIGVtcHR5KSBhbmQgdGhlIGFydGlmYWN0J3MgcHJfaWQKaXMgcmVqZWN0ZWQgaWYgaXQgZG9lc24ndCBtYXRjaCBvbmUgb2YgdGhvc2UgbnVtYmVycy4KIiIiCgppbXBvcnQganNvbgppbXBvcnQgb3MKCmltcG9ydCByZXF1ZXN0cwoKQVBJX1JPT1QgPSAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbSIKUkVBRFlfTEFCRUwgPSAiUmVhZHkgZm9yIHJldmlldyIKUkVTVUxUU19GSUxFID0gb3MuZW52aXJvblsiUkVTVUxUU19GSUxFIl0KCgpkZWYgZ2hfcmVxdWVzdChtZXRob2Q6IHN0ciwgcGF0aDogc3RyLCB0b2tlbjogc3RyLCAqKmt3YXJncykgLT4gcmVxdWVzdHMuUmVzcG9uc2U6CiAgICByZXR1cm4gcmVxdWVzdHMucmVxdWVzdCgKICAgICAgICBtZXRob2QsCiAgICAgICAgZiJ7QVBJX1JPT1R9e3BhdGh9IiwKICAgICAgICBoZWFkZXJzPXsKICAgICAgICAgICAgImFjY2VwdCI6ICJhcHBsaWNhdGlvbi92bmQuZ2l0aHViK2pzb24iLAogICAgICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGYiQmVhcmVyIHt0b2tlbn0iLAogICAgICAgICAgICAiWC1HaXRIdWItQXBpLVZlcnNpb24iOiAiMjAyMi0xMS0yOCIsCiAgICAgICAgfSwKICAgICAgICB0aW1lb3V0PTMwLAogICAgICAgICoqa3dhcmdzLAogICAgKQoKCmRlZiByZXNvbHZlX3RydXN0ZWRfcHJfbnVtYmVycygKICAgIHJlcG86IHN0ciwKICAgIGhlYWRfc2hhOiBzdHIsCiAgICBoZWFkX293bmVyOiBzdHIsCiAgICBoZWFkX2JyYW5jaDogc3RyLAogICAgcHJfcGF5bG9hZDogbGlzdCwKICAgIHRva2VuOiBzdHIsCikgLT4gc2V0W2ludF06CiAgICAiIiJSZXR1cm4gUFIgbnVtYmVycyB0aGF0IGFyZSBzYWZlIHRvIGFjdCBvbiB3aXRoIHRoZSBwcml2aWxlZ2VkIHRva2VuLiIiIgogICAgbnVtYmVyczogc2V0W2ludF0gPSBzZXQoKQogICAgZm9yIHByIGluIHByX3BheWxvYWQgb3IgW106CiAgICAgICAgaWYgaXNpbnN0YW5jZShwciwgZGljdCkgYW5kIGlzaW5zdGFuY2UocHIuZ2V0KCJudW1iZXIiKSwgaW50KToKICAgICAgICAgICAgbnVtYmVycy5hZGQocHJbIm51bWJlciJdKQoKICAgIGlmIG51bWJlcnMgb3Igbm90IGhlYWRfc2hhIG9yIG5vdCBoZWFkX293bmVyIG9yIG5vdCBoZWFkX2JyYW5jaDoKICAgICAgICByZXR1cm4gbnVtYmVycwoKICAgIHJlcyA9IGdoX3JlcXVlc3QoCiAgICAgICAgIkdFVCIsCiAgICAgICAgZiIvcmVwb3Mve3JlcG99L3B1bGxzIiwKICAgICAgICB0b2tlbiwKICAgICAgICBwYXJhbXM9eyJoZWFkIjogZiJ7aGVhZF9vd25lcn06e2hlYWRfYnJhbmNofSIsICJzdGF0ZSI6ICJvcGVuIn0sCiAgICApCiAgICBpZiBub3QgcmVzLm9rOgogICAgICAgIHByaW50KAogICAgICAgICAgICBmIjo6d2FybmluZzo6RmFpbGVkIHRvIGxvb2sgdXAgUFJzIGZvciB7aGVhZF9vd25lcn06e2hlYWRfYnJhbmNofTogIgogICAgICAgICAgICBmIntyZXMuc3RhdHVzX2NvZGV9IHtyZXMudGV4dH0iCiAgICAgICAgKQogICAgICAgIHJldHVybiBudW1iZXJzCgogICAgZm9yIHByIGluIHJlcy5qc29uKCk6CiAgICAgICAgaWYgcHIuZ2V0KCJoZWFkIiwge30pLmdldCgic2hhIikgPT0gaGVhZF9zaGE6CiAgICAgICAgICAgIG51bWJlcnMuYWRkKGludChwclsibnVtYmVyIl0pKQogICAgcmV0dXJuIG51bWJlcnMKCgpkZWYgcmVtb3ZlX3JlYWR5X2xhYmVsKHJlcG86IHN0ciwgcHJfbnVtYmVyOiBpbnQsIHRva2VuOiBzdHIpIC0+IE5vbmU6CiAgICBlbmNvZGVkID0gcmVxdWVzdHMudXRpbHMucXVvdGUoUkVBRFlfTEFCRUwsIHNhZmU9IiIpCiAgICByZXMgPSBnaF9yZXF1ZXN0KAogICAgICAgICJERUxFVEUiLCBmIi9yZXBvcy97cmVwb30vaXNzdWVzL3twcl9udW1iZXJ9L2xhYmVscy97ZW5jb2RlZH0iLCB0b2tlbgogICAgKQogICAgaWYgcmVzLnN0YXR1c19jb2RlIG5vdCBpbiAoMjAwLCAyMDQsIDQwNCk6CiAgICAgICAgcmVzLnJhaXNlX2Zvcl9zdGF0dXMoKQoKCmRlZiBhZGRfcmVhZHlfbGFiZWwocmVwbzogc3RyLCBwcl9udW1iZXI6IGludCwgdG9rZW46IHN0cikgLT4gTm9uZToKICAgIHJlcyA9IGdoX3JlcXVlc3QoCiAgICAgICAgIlBPU1QiLAogICAgICAgIGYiL3JlcG9zL3tyZXBvfS9pc3N1ZXMve3ByX251bWJlcn0vbGFiZWxzIiwKICAgICAgICB0b2tlbiwKICAgICAgICBqc29uPXsibGFiZWxzIjogW1JFQURZX0xBQkVMXX0sCiAgICApCiAgICByZXMucmFpc2VfZm9yX3N0YXR1cygpCgoKZGVmIHJlcXVlc3RfY2hhbmdlcyhyZXBvOiBzdHIsIHByX251bWJlcjogaW50LCBib2R5OiBzdHIsIHRva2VuOiBzdHIpIC0+IE5vbmU6CiAgICByZXMgPSBnaF9yZXF1ZXN0KAogICAgICAgICJQT1NUIiwKICAgICAgICBmIi9yZXBvcy97cmVwb30vcHVsbHMve3ByX251bWJlcn0vcmV2aWV3cyIsCiAgICAgICAgdG9rZW4sCiAgICAgICAganNvbj17ImV2ZW50IjogIlJFUVVFU1RfQ0hBTkdFUyIsICJib2R5IjogYm9keX0sCiAgICApCiAgICByZXMucmFpc2VfZm9yX3N0YXR1cygpCgoKZGVmIGJ1aWxkX3Jldmlld19ib2R5KGVycm9yczogZGljdCkgLT4gc3RyOgogICAgYm9keSA9ICIiCiAgICBmb3Igc2VydmVyX2lkLCBtc2dzIGluIChlcnJvcnMgb3Ige30pLml0ZW1zKCk6CiAgICAgICAgaWYgbm90IG1zZ3M6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgam9pbmVkID0gIlxuLSAiLmpvaW4obXNncykKICAgICAgICBib2R5ICs9IGYiXG5cbkVycm9ycyBmb3VuZCBmb3IgKip7c2VydmVyX2lkfSoqOlxuLSB7am9pbmVkfSIKICAgIHJldHVybiBib2R5CgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgdG9rZW4gPSBvcy5lbnZpcm9uWyJHSVRIVUJfVE9LRU4iXQogICAgcmVwbyA9IG9zLmVudmlyb25bIkdJVEhVQl9SRVBPU0lUT1JZIl0KICAgIGhlYWRfc2hhID0gb3MuZW52aXJvbi5nZXQoIldPUktGTE9XX1JVTl9IRUFEX1NIQSIsICIiKQogICAgaGVhZF9vd25lciA9IG9zLmVudmlyb24uZ2V0KCJXT1JLRkxPV19SVU5fSEVBRF9PV05FUiIsICIiKQogICAgaGVhZF9icmFuY2ggPSBvcy5lbnZpcm9uLmdldCgiV09SS0ZMT1dfUlVOX0hFQURfQlJBTkNIIiwgIiIpCiAgICBkb3dubG9hZF9vdXRjb21lID0gb3MuZW52aXJvbi5nZXQoIkRPV05MT0FEX09VVENPTUUiLCAiIikKCiAgICB0cnk6CiAgICAgICAgcHJfcGF5bG9hZCA9IGpzb24ubG9hZHMob3MuZW52aXJvbi5nZXQoIldPUktGTE9XX1JVTl9QVUxMX1JFUVVFU1RTIikgb3IgIltdIikKICAgIGV4Y2VwdCBqc29uLkpTT05EZWNvZGVFcnJvcjoKICAgICAgICBwcl9wYXlsb2FkID0gW10KCiAgICB0cnVzdGVkID0gcmVzb2x2ZV90cnVzdGVkX3ByX251bWJlcnMoCiAgICAgICAgcmVwbywgaGVhZF9zaGEsIGhlYWRfb3duZXIsIGhlYWRfYnJhbmNoLCBwcl9wYXlsb2FkLCB0b2tlbgogICAgKQogICAgaWYgbm90IHRydXN0ZWQ6CiAgICAgICAgcHJpbnQoIk5vIFBSIGNvdWxkIGJlIGFzc29jaWF0ZWQgd2l0aCB0aGlzIHdvcmtmbG93IHJ1bjsgbm90aGluZyB0byBkby4iKQogICAgICAgIHJldHVybgoKICAgIGFydGlmYWN0X3ByZXNlbnQgPSBkb3dubG9hZF9vdXRjb21lID09ICJzdWNjZXNzIiBhbmQgb3MucGF0aC5pc2ZpbGUoUkVTVUxUU19GSUxFKQoKICAgIGlmIG5vdCBhcnRpZmFjdF9wcmVzZW50OgogICAgICAgIGZvciBuIGluIHRydXN0ZWQ6CiAgICAgICAgICAgIHJlbW92ZV9yZWFkeV9sYWJlbChyZXBvLCBuLCB0b2tlbikKICAgICAgICBwcmludCgiVmFsaWRhdGlvbiBhcnRpZmFjdCBtaXNzaW5nIOKAlCByZW1vdmVkIHN0YWxlIHJlYWR5IGxhYmVsLiIpCiAgICAgICAgcmV0dXJuCgogICAgd2l0aCBvcGVuKFJFU1VMVFNfRklMRSwgInIiLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGRhdGEgPSBqc29uLmxvYWQoZikKCiAgICBwcl9pZCA9IGRhdGEuZ2V0KCJwcl9pZCIpCiAgICBpZiBub3QgaXNpbnN0YW5jZShwcl9pZCwgaW50KSBvciBwcl9pZCBub3QgaW4gdHJ1c3RlZDoKICAgICAgICBwcmludCgKICAgICAgICAgICAgZiI6Ondhcm5pbmc6OkFydGlmYWN0IHByX2lkICh7cHJfaWQhcn0pIGRvZXMgbm90IG1hdGNoIHRydXN0ZWQgIgogICAgICAgICAgICBmIlBSIG51bWJlcihzKSB7c29ydGVkKHRydXN0ZWQpfTsgcmVmdXNpbmcgdG8gYWN0IG9uIGl0LiIKICAgICAgICApCiAgICAgICAgcmV0dXJuCgogICAgaWYgZGF0YS5nZXQoInN0YXR1cyIpID09ICJyZWFkeSI6CiAgICAgICAgYWRkX3JlYWR5X2xhYmVsKHJlcG8sIHByX2lkLCB0b2tlbikKICAgICAgICByZXR1cm4KCiAgICByZW1vdmVfcmVhZHlfbGFiZWwocmVwbywgcHJfaWQsIHRva2VuKQoKICAgIGJvZHkgPSBidWlsZF9yZXZpZXdfYm9keShkYXRhLmdldCgiZXJyb3JzIikgb3Ige30pCiAgICBpZiBub3QgYm9keToKICAgICAgICByZXR1cm4KCiAgICByZXF1ZXN0X2NoYW5nZXMocmVwbywgcHJfaWQsIGJvZHksIHRva2VuKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""
+Post-validation feedback for ServerMappings PRs.
+
+Triggered by the workflow_run job in the trusted base-repo context. Reads
+pr_results.json (uploaded by the validate-servers job that ran in the
+untrusted PR context) and either applies a "Ready for review" label or
+posts a review with the validation errors.
+
+Because pr_results.json is produced by code controlled by the PR author,
+its pr_id field cannot be trusted. The trusted PR number is derived from
+the workflow_run payload (with a head-branch lookup as a fallback for
+fork PRs, whose pull_requests array is empty) and the artifact's pr_id
+is rejected if it doesn't match one of those numbers.
+"""
+
+import json
+import os
+
+import requests
+
+API_ROOT = "https://api.github.com"
+READY_LABEL = "Ready for review"
+RESULTS_FILE = os.environ["RESULTS_FILE"]
+
+
+def gh_request(method: str, path: str, token: str, **kwargs) -> requests.Response:
+    return requests.request(
+        method,
+        f"{API_ROOT}{path}",
+        headers={
+            "accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {token}",
+            "X-GitHub-Api-Version": "2022-11-28",
+        },
+        timeout=30,
+        **kwargs,
+    )
+
+
+def resolve_trusted_pr_numbers(
+    repo: str,
+    head_sha: str,
+    head_owner: str,
+    head_branch: str,
+    pr_payload: list,
+    token: str,
+) -> set[int]:
+    """Return PR numbers that are safe to act on with the privileged token."""
+    numbers: set[int] = set()
+    for pr in pr_payload or []:
+        if isinstance(pr, dict) and isinstance(pr.get("number"), int):
+            numbers.add(pr["number"])
+
+    if numbers or not head_sha or not head_owner or not head_branch:
+        return numbers
+
+    res = gh_request(
+        "GET",
+        f"/repos/{repo}/pulls",
+        token,
+        params={"head": f"{head_owner}:{head_branch}", "state": "open"},
+    )
+    if not res.ok:
+        print(
+            f"::warning::Failed to look up PRs for {head_owner}:{head_branch}: "
+            f"{res.status_code} {res.text}"
+        )
+        return numbers
+
+    for pr in res.json():
+        if pr.get("head", {}).get("sha") == head_sha:
+            numbers.add(int(pr["number"]))
+    return numbers
+
+
+def remove_ready_label(repo: str, pr_number: int, token: str) -> None:
+    encoded = requests.utils.quote(READY_LABEL, safe="")
+    res = gh_request(
+        "DELETE", f"/repos/{repo}/issues/{pr_number}/labels/{encoded}", token
+    )
+    if res.status_code not in (200, 204, 404):
+        res.raise_for_status()
+
+
+def add_ready_label(repo: str, pr_number: int, token: str) -> None:
+    res = gh_request(
+        "POST",
+        f"/repos/{repo}/issues/{pr_number}/labels",
+        token,
+        json={"labels": [READY_LABEL]},
+    )
+    res.raise_for_status()
+
+
+def request_changes(repo: str, pr_number: int, body: str, token: str) -> None:
+    res = gh_request(
+        "POST",
+        f"/repos/{repo}/pulls/{pr_number}/reviews",
+        token,
+        json={"event": "REQUEST_CHANGES", "body": body},
+    )
+    res.raise_for_status()
+
+
+def build_review_body(errors: dict) -> str:
+    body = ""
+    for server_id, msgs in (errors or {}).items():
+        if not msgs:
+            continue
+        joined = "\n- ".join(msgs)
+        body += f"\n\nErrors found for **{server_id}**:\n- {joined}"
+    return body
+
+
+def main() -> None:
+    token = os.environ["GITHUB_TOKEN"]
+    repo = os.environ["GITHUB_REPOSITORY"]
+    head_sha = os.environ.get("WORKFLOW_RUN_HEAD_SHA", "")
+    head_owner = os.environ.get("WORKFLOW_RUN_HEAD_OWNER", "")
+    head_branch = os.environ.get("WORKFLOW_RUN_HEAD_BRANCH", "")
+    download_outcome = os.environ.get("DOWNLOAD_OUTCOME", "")
+
+    try:
+        pr_payload = json.loads(os.environ.get("WORKFLOW_RUN_PULL_REQUESTS") or "[]")
+    except json.JSONDecodeError:
+        pr_payload = []
+
+    trusted = resolve_trusted_pr_numbers(
+        repo, head_sha, head_owner, head_branch, pr_payload, token
+    )
+    if not trusted:
+        print("No PR could be associated with this workflow run; nothing to do.")
+        return
+
+    artifact_present = download_outcome == "success" and os.path.isfile(RESULTS_FILE)
+
+    if not artifact_present:
+        for n in trusted:
+            remove_ready_label(repo, n, token)
+        print("Validation artifact missing — removed stale ready label.")
+        return
+
+    with open(RESULTS_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    pr_id = data.get("pr_id")
+    if not isinstance(pr_id, int) or pr_id not in trusted:
+        print(
+            f"::warning::Artifact pr_id ({pr_id!r}) does not match trusted "
+            f"PR number(s) {sorted(trusted)}; refusing to act on it."
+        )
+        return
+
+    if data.get("status") == "ready":
+        add_ready_label(repo, pr_id, token)
+        return
+
+    remove_ready_label(repo, pr_id, token)
+
+    body = build_review_body(data.get("errors") or {})
+    if not body:
+        return
+
+    request_changes(repo, pr_id, body, token)
+
+
+if __name__ == "__main__":
+    main()

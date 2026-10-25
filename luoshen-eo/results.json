@@ -1,1 +1,92 @@
-ewogImNvcmUiOiB7CiAgIm9rIjogdHJ1ZSwKICAiZXhpdF9jb2RlIjogMCwKICAiZGVzYyI6ICLkupTmnaHku7YgKyDlk4jluIzpk74gKyDouqvku73orqTor4Eg6Ieq5qOAIiwKICAidG9va19tcyI6IDg3LAogICJudW1iZXJzIjogewogICAiZmxvdyI6IDEuMCwKICAgInNjYXIiOiAxLjAsCiAgICJkZWFkIjogZmFsc2UsCiAgICJtc2UiOiBudWxsLAogICAiZml0bmVzcyI6IG51bGwsCiAgICLnkIbop6PluqYiOiBudWxsLAogICAiY2FwYWNpdHkiOiAwLjk5NiwKICAgInN1cnByaXNlIjogbnVsbCwKICAgInRpY2siOiBudWxsCiAgfSwKICAiZGVhdGhfdGljayI6IG51bGwKIH0sCiAidjEiOiB7CiAgIm9rIjogdHJ1ZSwKICAiZXhpdF9jb2RlIjogMCwKICAiZGVzYyI6ICLln7rnoYDmtoznjrDvvJrmjIHnu63mlLbnm4ogLyDpm7bmlLbnm4ogLyDpl7TmrYfmlLbnm4oiLAogICJ0b29rX21zIjogMTUwNSwKICAibnVtYmVycyI6IHsKICAgImZsb3ciOiAwLjEwNCwKICAgInNjYXIiOiAyLjAsCiAgICJkZWFkIjogZmFsc2UsCiAgICJtc2UiOiBudWxsLAogICAiZml0bmVzcyI6IG51bGwsCiAgICLnkIbop6PluqYiOiAwLjk3MjUsCiAgICJjYXBhY2l0eSI6IDAuOTA5OCwKICAgInN1cnByaXNlIjogbnVsbCwKICAgInRpY2siOiAzNjAuMAogIH0sCiAgImRlYXRoX3RpY2siOiAxMjUKIH0sCiAidjMiOiB7CiAgIm9rIjogdHJ1ZSwKICAiZXhpdF9jb2RlIjogMCwKICAiZGVzYyI6ICLlrozmlbQgRU/vvJrnuqbmnZ8gKyDmhJ/lrpggKyDlpKfohJEiLAogICJ0b29rX21zIjogNTI0NjgsCiAgIm51bWJlcnMiOiB7CiAgICJmbG93IjogMS4wLAogICAic2NhciI6IG51bGwsCiAgICJkZWFkIjogZmFsc2UsCiAgICJtc2UiOiAwLjA0NSwKICAgImZpdG5lc3MiOiAwLjkxNDgsCiAgICLnkIbop6PluqYiOiAwLjk1NTcsCiAgICJjYXBhY2l0eSI6IG51bGwsCiAgICJzdXJwcmlzZSI6IDAuMDQsCiAgICJ0aWNrIjogMjcwLjAKICB9LAogICJkZWF0aF90aWNrIjogbnVsbAogfSwKICJ2NCI6IHsKICAib2siOiB0cnVlLAogICJleGl0X2NvZGUiOiAwLAogICJkZXNjIjogIuiApuWQiOa2jOeOsO+8mueogOe8uuKGkumlpemlv+KGkuWtpuS5oCIsCiAgInRvb2tfbXMiOiA1MTcwMSwKICAibnVtYmVycyI6IHsKICAgImZsb3ciOiAxLjAsCiAgICJzY2FyIjogbnVsbCwKICAgImRlYWQiOiBmYWxzZSwKICAgIm1zZSI6IDAuMDQ1LAogICAiZml0bmVzcyI6IDAuOTU2OSwKICAgIueQhuino+W6piI6IDAuOTU1NywKICAgImNhcGFjaXR5IjogbnVsbCwKICAgInN1cnByaXNlIjogbnVsbCwKICAgInRpY2siOiAyNzAuMAogIH0sCiAgImRlYXRoX3RpY2siOiBudWxsCiB9LAogInY1IjogewogICJvayI6IHRydWUsCiAgImV4aXRfY29kZSI6IDAsCiAgImRlc2MiOiAi6ZW/5pyfIDEwMDAg5ouN5raM546wIiwKICAidG9va19tcyI6IDU1NTE1LAogICJudW1iZXJzIjogewogICAiZmxvdyI6IDEuMCwKICAgInNjYXIiOiAwLjAsCiAgICJkZWFkIjogZmFsc2UsCiAgICJtc2UiOiAwLjI1NDEsCiAgICJmaXRuZXNzIjogMC45ODY3LAogICAi55CG6Kej5bqmIjogMC45NzYxLAogICAiY2FwYWNpdHkiOiAwLjk5OTgsCiAgICJzdXJwcmlzZSI6IG51bGwsCiAgICJ0aWNrIjogOTAwLjAKICB9LAogICJkZWF0aF90aWNrIjogbnVsbAogfQp9
+{
+ "core": {
+  "ok": true,
+  "exit_code": 0,
+  "desc": "五条件 + 哈希链 + 身份认证 自检",
+  "took_ms": 87,
+  "numbers": {
+   "flow": 1.0,
+   "scar": 1.0,
+   "dead": false,
+   "mse": null,
+   "fitness": null,
+   "理解度": null,
+   "capacity": 0.996,
+   "surprise": null,
+   "tick": null
+  },
+  "death_tick": null
+ },
+ "v1": {
+  "ok": true,
+  "exit_code": 0,
+  "desc": "基础涌现：持续收益 / 零收益 / 间歇收益",
+  "took_ms": 1505,
+  "numbers": {
+   "flow": 0.104,
+   "scar": 2.0,
+   "dead": false,
+   "mse": null,
+   "fitness": null,
+   "理解度": 0.9725,
+   "capacity": 0.9098,
+   "surprise": null,
+   "tick": 360.0
+  },
+  "death_tick": 125
+ },
+ "v3": {
+  "ok": true,
+  "exit_code": 0,
+  "desc": "完整 EO：约束 + 感官 + 大脑",
+  "took_ms": 52468,
+  "numbers": {
+   "flow": 1.0,
+   "scar": null,
+   "dead": false,
+   "mse": 0.045,
+   "fitness": 0.9148,
+   "理解度": 0.9557,
+   "capacity": null,
+   "surprise": 0.04,
+   "tick": 270.0
+  },
+  "death_tick": null
+ },
+ "v4": {
+  "ok": true,
+  "exit_code": 0,
+  "desc": "耦合涌现：稀缺→饥饿→学习",
+  "took_ms": 51701,
+  "numbers": {
+   "flow": 1.0,
+   "scar": null,
+   "dead": false,
+   "mse": 0.045,
+   "fitness": 0.9569,
+   "理解度": 0.9557,
+   "capacity": null,
+   "surprise": null,
+   "tick": 270.0
+  },
+  "death_tick": null
+ },
+ "v5": {
+  "ok": true,
+  "exit_code": 0,
+  "desc": "长期 1000 拍涌现",
+  "took_ms": 55515,
+  "numbers": {
+   "flow": 1.0,
+   "scar": 0.0,
+   "dead": false,
+   "mse": 0.2541,
+   "fitness": 0.9867,
+   "理解度": 0.9761,
+   "capacity": 0.9998,
+   "surprise": null,
+   "tick": 900.0
+  },
+  "death_tick": null
+ }
+}

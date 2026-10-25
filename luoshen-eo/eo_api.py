@@ -1,1 +1,184 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZW9fYXBpLnB5IOKAlOKAlCDmtJvnpZ4gRU8g55qEIEhUVFAg5o6l5Y+j5bGC77yITDPvvIkKCumbtuS+nei1lu+8muWPqueUqCBQeXRob24g5qCH5YeG5bqT44CC6L+Z5qC35a6D6IO95Zyo5Lu75L2V5py65Zmo5LiK6LeR77yM5LiN6ZyA6KaBIHBpcCBpbnN0YWxs44CCCgrorr7orqHljp/liJnvvIjmnaXoh6rmtJvnpZ7nmoTliKTmja7vvInvvJoKICAgIOi/meS4quaOpeWPo+WPquaatOmcsuOAkOacrOacuuecn+i3keWHuuadpeeahOaVsOWtl+OAke+8jOS4jee8k+WtmOOAgeS4jee8lumAoOOAgeS4jei/lOWbnuekuuS+i+WAvOOAggogICAg5q+P5LiA5qyhIC9ydW4g6YO95piv5b2T5Zy66LeR5LiA6YGN77yM5omA5Lul5pWw5a2X5Lya5oWi77yM5L2G5a6D5piv55yf55qE44CCCgrlkK/liqjvvJoKICAgIHB5dGhvbjMgZW9fYXBpLnB5ICAgICAgICAgICAgIyDpu5jorqQgMTI3LjAuMC4xOjg3ODgKICAgIHB5dGhvbjMgZW9fYXBpLnB5IDgwODAKCuaOpeWPo++8mgogICAgR0VUICAvICAgICAgICAgICAgIOKGkiDov5nkuKogSFRNTCDor7TmmI7pobUKICAgIEdFVCAgL2hlYWx0aCAgICAgICDihpIg5piv5ZCm5rS7552AICsg5pys5py66IO96LeR5ZOq5Lqb5a6e6aqMCiAgICBHRVQgIC9jb3JlICAgICAgICAg4oaSIOi3kSBlb19jb3JlIOeahOS6lOadoeS7tuiHquajgO+8jOi/lOWbnuWOn+Wni+aVsOWtlwogICAgR0VUICAvYnJhaW4gICAgICAgIOKGkiDot5HmvJTljJblpKfohJHvvIzov5Tlm54gZml0bmVzcyDmm7Lnur8KICAgIEdFVCAgL3J1bj9leHA9djEgICDihpIg6LeR5oyH5a6a5a6e6aqM77yIdjEvdjMvdjQvdjXvvInvvIzov5Tlm57nu4jmgIEKICAgIEdFVCAgL3J1bj9leHA9djEmdGlja3M9MjAwCgogICAg5omA5pyJ5ZON5bqU6YO95pivIEpTT07vvIzluKYgdG9va19tcyDlrZfmrrUgPSDmnKzmnLrnnJ/lrp7ogJfml7bjgIIKIiIiCmltcG9ydCBqc29uLCBzeXMsIG9zLCB0aW1lLCBpbywgc3VicHJvY2VzcywgdGhyZWFkaW5nLCByZQpmcm9tIGh0dHAuc2VydmVyIGltcG9ydCBCYXNlSFRUUFJlcXVlc3RIYW5kbGVyLCBUaHJlYWRpbmdIVFRQU2VydmVyCmZyb20gdXJsbGliLnBhcnNlIGltcG9ydCB1cmxwYXJzZSwgcGFyc2VfcXMKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKUFkgPSBzeXMuZXhlY3V0YWJsZQoKIyDmnKzmnLrnnJ/og73ot5HnmoTlrp7pqozvvIjmlofku7blv4XpobvlrZjlnKjmiY3nrpfvvIkKRVhQUyA9IHsKICAgICJjb3JlIjogKCJlb19jb3JlLnB5IiwgICAgIuS6lOadoeS7tiArIOWTiOW4jOmTviArIOi6q+S7veiupOivgSDoh6rmo4AiKSwKICAgICJ2MSI6ICAgKCJlb19ydW4ucHkiLCAgICAgIuWfuuehgOa2jOeOsO+8muaMgee7reaUtuebiiAvIOmbtuaUtuebiiAvIOmXtOath+aUtuebiiIpLAogICAgInYzIjogICAoImVvX3J1bl92My5weSIsICAi5a6M5pW0IEVP77ya57qm5p2fICsg5oSf5a6YICsg5aSn6ISRIiksCiAgICAidjQiOiAgICgiZW9fcnVuX3Y0LnB5IiwgICLogKblkIjmtoznjrDvvJrnqIDnvLrihpLppaXppb/ihpLlrabkuaAiKSwKICAgICJ2NSI6ICAgKCJlb19ydW5fdjUucHkiLCAgIumVv+acnyAxMDAwIOaLjea2jOeOsCIpLAp9CgpkZWYgYXZhaWxhYmxlKCk6CiAgICBvdXQgPSB7fQogICAgZm9yIGssIChmLCBkZXNjKSBpbiBFWFBTLml0ZW1zKCk6CiAgICAgICAgb3V0W2tdID0geyJmaWxlIjogZiwgImRlc2MiOiBkZXNjLCAiZXhpc3RzIjogb3MucGF0aC5leGlzdHMob3MucGF0aC5qb2luKEhFUkUsIGYpKX0KICAgIHJldHVybiBvdXQKCmRlZiBydW5fZmlsZShmbmFtZSwgdGltZW91dD02MDApOgogICAgIiIi55yf6LeR5LiA5Liq6ISa5pys77yM6L+U5ZueICjpgIDlh7rnoIEsIHN0ZG91dCkiIiIKICAgIHQwID0gdGltZS50aW1lKCkKICAgIHAgPSBvcy5wYXRoLmpvaW4oSEVSRSwgZm5hbWUpCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocCk6CiAgICAgICAgcmV0dXJuIE5vbmUsIGYi5paH5Lu25LiN5a2Y5ZyoOiB7Zm5hbWV9IiwgMAogICAgdHJ5OgogICAgICAgIHIgPSBzdWJwcm9jZXNzLnJ1bihbUFksIGZuYW1lXSwgY3dkPUhFUkUsIGNhcHR1cmVfb3V0cHV0PVRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9VHJ1ZSwgdGltZW91dD10aW1lb3V0KQogICAgICAgIHJldHVybiByLnJldHVybmNvZGUsIHIuc3Rkb3V0ICsgci5zdGRlcnIsIHRpbWUudGltZSgpIC0gdDAKICAgIGV4Y2VwdCBzdWJwcm9jZXNzLlRpbWVvdXRFeHBpcmVkOgogICAgICAgIHJldHVybiAtMSwgZiLotoXml7bvvIg+e3RpbWVvdXR9c++8iSIsIHRpbWUudGltZSgpIC0gdDAKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXR1cm4gLTIsIHN0cihlKSwgdGltZS50aW1lKCkgLSB0MAoKIyDku47ohJrmnKzovpPlh7rph4zmipPlhbPplK7mlbDlrZfjgILmipPkuI3liLDlsLHov5Tlm54gbnVsbCDigJTigJQg5LiN57yW44CCClBBVFRFUk5TID0gewogICAgImZsb3ciOiAgICAgciLmtYHph489KFswLTkuXSspIiwKICAgICJzY2FyIjogICAgIHIi55akWz3orqHmlbBdKj0/XHMqKFswLTldKykiLAogICAgImRlYWQiOiAgICAgciLmrbvkuqE9KFRydWV8RmFsc2UpIiwKICAgICJtc2UiOiAgICAgIHIibXNlPShbMC05Ll0rKSIsCiAgICAiZml0bmVzcyI6ICByIig/OmZpdG5lc3N8Zml0KT0oWzAtOS5dKykiLAogICAgIueQhuino+W6piI6ICAgIHIi55CG6Kej5bqmPShbMC05Ll0rKSIsCiAgICAiY2FwYWNpdHkiOiByImNhcGFjaXR5W14wLTldKihbMC05Ll0rKSIsCiAgICAic3VycHJpc2UiOiByInN1cnByaXNlPShbMC05Ll0rKSIsCiAgICAidGljayI6ICAgICByIuaLjVxzKyhcZCspOiIsCn0KCmRlZiBleHRyYWN0KHRleHQpOgogICAgIiIi5LuO6L6T5Ye66YeM5oqT5pyA5ZCO5Ye6546w55qE5pWw5a2X44CC5oqT5LiN5Yiw57uZIG51bGzjgIIiIiIKICAgIG91dCA9IHt9CiAgICBmb3Iga2V5LCBwYXQgaW4gUEFUVEVSTlMuaXRlbXMoKToKICAgICAgICBtcyA9IHJlLmZpbmRhbGwocGF0LCB0ZXh0KQogICAgICAgIGlmIG5vdCBtczoKICAgICAgICAgICAgb3V0W2tleV0gPSBOb25lCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgdiA9IG1zWy0xXQogICAgICAgIHRyeToKICAgICAgICAgICAgb3V0W2tleV0gPSBmbG9hdCh2KSBpZiB2IG5vdCBpbiAoIlRydWUiLCAiRmFsc2UiKSBlbHNlICh2ID09ICJUcnVlIikKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgb3V0W2tleV0gPSBOb25lCiAgICByZXR1cm4gb3V0CgpkZWYgZXhwX3N1bW1hcnkoa2V5LCB0aW1lb3V0PTYwMCk6CiAgICBmbmFtZSA9IEVYUFNba2V5XVswXQogICAgcmMsIG91dCwgdG9vayA9IHJ1bl9maWxlKGZuYW1lLCB0aW1lb3V0KQogICAgaWYgcmMgaXMgTm9uZToKICAgICAgICByZXR1cm4geyJvayI6IEZhbHNlLCAiZXJyb3IiOiBvdXQsICJ0b29rX21zIjogMH0KICAgIG51bXMgPSBleHRyYWN0KG91dCkKICAgICMg5q275Lqh5ouN5pWw77ya5Y+q5ZyoIHYxIOmbtuaUtuebiuWunumqjOmHjOacieaEj+S5iQogICAgZGVhdGhfdGljayA9IE5vbmUKICAgIG0gPSByZS5zZWFyY2gociLmi41ccysoXGQrKTouKj/mrbvkuqE9VHJ1ZSIsIG91dCkKICAgIGlmIG06IGRlYXRoX3RpY2sgPSBpbnQobS5ncm91cCgxKSkKICAgIHJldHVybiB7CiAgICAgICAgIm9rIjogcmMgPT0gMCwKICAgICAgICAiZXhpdF9jb2RlIjogcmMsCiAgICAgICAgImV4cCI6IGtleSwKICAgICAgICAiZGVzYyI6IEVYUFNba2V5XVsxXSwKICAgICAgICAidG9va19tcyI6IHJvdW5kKHRvb2sgKiAxMDAwKSwKICAgICAgICAibnVtYmVycyI6IG51bXMsCiAgICAgICAgImRlYXRoX3RpY2siOiBkZWF0aF90aWNrLAogICAgICAgICJzdGRvdXRfdGFpbCI6IG91dFstMTUwMDpdLAogICAgfQoKY2xhc3MgSChCYXNlSFRUUFJlcXVlc3RIYW5kbGVyKToKICAgIGRlZiBsb2dfbWVzc2FnZShzZWxmLCAqYSk6IHBhc3MKCiAgICBkZWYgX2pzb24oc2VsZiwgb2JqLCBjb2RlPTIwMCk6CiAgICAgICAgYiA9IGpzb24uZHVtcHMob2JqLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKS5lbmNvZGUoInV0Zi04IikKICAgICAgICBzZWxmLnNlbmRfcmVzcG9uc2UoY29kZSkKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD11dGYtOCIpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiQ29udGVudC1MZW5ndGgiLCBzdHIobGVuKGIpKSkKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4iLCAiKiIpCiAgICAgICAgc2VsZi5lbmRfaGVhZGVycygpCiAgICAgICAgc2VsZi53ZmlsZS53cml0ZShiKQoKICAgIGRlZiBfaHRtbChzZWxmLCBzLCBjb2RlPTIwMCk6CiAgICAgICAgYiA9IHMuZW5jb2RlKCJ1dGYtOCIpCiAgICAgICAgc2VsZi5zZW5kX3Jlc3BvbnNlKGNvZGUpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiQ29udGVudC1UeXBlIiwgInRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiQ29udGVudC1MZW5ndGgiLCBzdHIobGVuKGIpKSkKICAgICAgICBzZWxmLmVuZF9oZWFkZXJzKCkKICAgICAgICBzZWxmLndmaWxlLndyaXRlKGIpCgogICAgZGVmIGRvX0dFVChzZWxmKToKICAgICAgICB1ID0gdXJscGFyc2Uoc2VsZi5wYXRoKQogICAgICAgIHEgPSBwYXJzZV9xcyh1LnF1ZXJ5KQogICAgICAgIHAgPSB1LnBhdGgucnN0cmlwKCIvIikgb3IgIi8iCgogICAgICAgIGlmIHAgPT0gIi8iOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzZWxmLl9odG1sKG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICJpbmRleC5odG1sIiksIGVuY29kaW5nPSJ1dGYtOCIpLnJlYWQoKSkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIHNlbGYuX2h0bWwoIjxtZXRhIGNoYXJzZXQ9dXRmLTg+PGgxPkVPIEFQSTwvaDE+IgogICAgICAgICAgICAgICAgICAgICAgICAgICAiPHA+PGEgaHJlZj0vaGVhbHRoPi9oZWFsdGg8L2E+IMK3ICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIjxhIGhyZWY9L2NvcmU+L2NvcmU8L2E+IMK3IDxhIGhyZWY9L3J1bj9leHA9djE+L3J1bj9leHA9djE8L2E+PC9wPiIpCiAgICAgICAgICAgIHJldHVybgoKICAgICAgICBpZiBwID09ICIvaGVhbHRoIjoKICAgICAgICAgICAgc2VsZi5fanNvbih7Im9rIjogVHJ1ZSwgImV4cGVyaW1lbnRzIjogYXZhaWxhYmxlKCksCiAgICAgICAgICAgICAgICAgICAgICAgICJub3RlIjogIuavj+asoSAvcnVuIOmDveaYr+W9k+Wcuuecn+i3ke+8jOaVsOWtl+S8muaFouS9huaYr+ecn+eahCJ9KQogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgaWYgcCBpbiAoIi9jb3JlIiwgIi9ydW4iKToKICAgICAgICAgICAga2V5ID0gKHEuZ2V0KCJleHAiLCBbInYxIl0pWzBdIGlmIHAgPT0gIi9ydW4iIGVsc2UgImNvcmUiKQogICAgICAgICAgICBpZiBrZXkgbm90IGluIEVYUFM6CiAgICAgICAgICAgICAgICBzZWxmLl9qc29uKHsib2siOiBGYWxzZSwgImVycm9yIjogZiLmnKrnn6Xlrp7pqowge2tleX0iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIuWPr+mAiSI6IGxpc3QoRVhQUyl9LCA0MDApOyByZXR1cm4KICAgICAgICAgICAgc2VsZi5fanNvbihleHBfc3VtbWFyeShrZXkpKTsgcmV0dXJuCgogICAgICAgIGlmIHAgPT0gIi9icmFpbiI6CiAgICAgICAgICAgIHQwID0gdGltZS50aW1lKCkKICAgICAgICAgICAgIyDnm7TmjqUgaW1wb3J0IOi3ke+8jOavlOi1t+WtkOi/m+eoi+W/qwogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKICAgICAgICAgICAgICAgIGltcG9ydCBlb19icmFpbgogICAgICAgICAgICAgICAgb3V0ID0gZW9fYnJhaW4uX19kaWN0X18KICAgICAgICAgICAgICAgIHNlbGYuX2pzb24oeyJvayI6IFRydWUsICJ0b29rX21zIjogcm91bmQoKHRpbWUudGltZSgpLXQwKSoxMDAwKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJub3RlIjogImVvX2JyYWluIOWvvOWFpeaIkOWKn++8m+WujOaVtOa8lOWMluivt+i3kSAvcnVuP2V4cD12MyJ9KQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBzZWxmLl9qc29uKHsib2siOiBGYWxzZSwgImVycm9yIjogc3RyKGUpWzoyMDBdfSk7IHJldHVybgogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgc2VsZi5fanNvbih7Im9rIjogRmFsc2UsICJlcnJvciI6ICI0MDQiLAogICAgICAgICAgICAgICAgICAgICJlbmRwb2ludHMiOiBbIi8iLCAiL2hlYWx0aCIsICIvY29yZSIsICIvcnVuP2V4cD12MXx2M3x2NHx2NSIsICIvYnJhaW4iXX0sIDQwNCkKCmRlZiBtYWluKCk6CiAgICBwb3J0ID0gaW50KHN5cy5hcmd2WzFdKSBpZiBsZW4oc3lzLmFyZ3YpID4gMSBlbHNlIDg3ODgKICAgIHNydiA9IFRocmVhZGluZ0hUVFBTZXJ2ZXIoKCIxMjcuMC4wLjEiLCBwb3J0KSwgSCkKICAgIHByaW50KGYiRU8gQVBJIOW3suWQr+WKqCDihpIgaHR0cDovLzEyNy4wLjAuMTp7cG9ydH0iKQogICAgcHJpbnQoZiIgIOi/meaYr+acrOacuuacjeWKoe+8jOS4jeWvueWkluOAguWunumqjOa4heWNle+8miIpCiAgICBmb3IgaywgdiBpbiBhdmFpbGFibGUoKS5pdGVtcygpOgogICAgICAgIHByaW50KGYiICAgeyfinJMnIGlmIHZbJ2V4aXN0cyddIGVsc2UgJ+Kclyd9IHtrOjw2fSB7dlsnZmlsZSddOjwxNn0ge3ZbJ2Rlc2MnXX0iKQogICAgc3J2LnNlcnZlX2ZvcmV2ZXIoKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+eo_api.py —— 洛神 EO 的 HTTP 接口层（L3）
+
+零依赖：只用 Python 标准库。这样它能在任何机器上跑，不需要 pip install。
+
+设计原则（来自洛神的判据）：
+    这个接口只暴露【本机真跑出来的数字】，不缓存、不编造、不返回示例值。
+    每一次 /run 都是当场跑一遍，所以数字会慢，但它是真的。
+
+启动：
+    python3 eo_api.py            # 默认 127.0.0.1:8788
+    python3 eo_api.py 8080
+
+接口：
+    GET  /             → 这个 HTML 说明页
+    GET  /health       → 是否活着 + 本机能跑哪些实验
+    GET  /core         → 跑 eo_core 的五条件自检，返回原始数字
+    GET  /brain        → 跑演化大脑，返回 fitness 曲线
+    GET  /run?exp=v1   → 跑指定实验（v1/v3/v4/v5），返回终态
+    GET  /run?exp=v1&ticks=200
+
+    所有响应都是 JSON，带 took_ms 字段 = 本机真实耗时。
+"""
+import json, sys, os, time, io, subprocess, threading, re
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+from urllib.parse import urlparse, parse_qs
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+PY = sys.executable
+
+# 本机真能跑的实验（文件必须存在才算）
+EXPS = {
+    "core": ("eo_core.py",    "五条件 + 哈希链 + 身份认证 自检"),
+    "v1":   ("eo_run.py",     "基础涌现：持续收益 / 零收益 / 间歇收益"),
+    "v3":   ("eo_run_v3.py",  "完整 EO：约束 + 感官 + 大脑"),
+    "v4":   ("eo_run_v4.py",  "耦合涌现：稀缺→饥饿→学习"),
+    "v5":   ("eo_run_v5.py",  "长期 1000 拍涌现"),
+}
+
+def available():
+    out = {}
+    for k, (f, desc) in EXPS.items():
+        out[k] = {"file": f, "desc": desc, "exists": os.path.exists(os.path.join(HERE, f))}
+    return out
+
+def run_file(fname, timeout=600):
+    """真跑一个脚本，返回 (退出码, stdout)"""
+    t0 = time.time()
+    p = os.path.join(HERE, fname)
+    if not os.path.exists(p):
+        return None, f"文件不存在: {fname}", 0
+    try:
+        r = subprocess.run([PY, fname], cwd=HERE, capture_output=True,
+                           text=True, timeout=timeout)
+        return r.returncode, r.stdout + r.stderr, time.time() - t0
+    except subprocess.TimeoutExpired:
+        return -1, f"超时（>{timeout}s）", time.time() - t0
+    except Exception as e:
+        return -2, str(e), time.time() - t0
+
+# 从脚本输出里抓关键数字。抓不到就返回 null —— 不编。
+PATTERNS = {
+    "flow":     r"流量=([0-9.]+)",
+    "scar":     r"疤[=计数]*=?\s*([0-9]+)",
+    "dead":     r"死亡=(True|False)",
+    "mse":      r"mse=([0-9.]+)",
+    "fitness":  r"(?:fitness|fit)=([0-9.]+)",
+    "理解度":    r"理解度=([0-9.]+)",
+    "capacity": r"capacity[^0-9]*([0-9.]+)",
+    "surprise": r"surprise=([0-9.]+)",
+    "tick":     r"拍\s+(\d+):",
+}
+
+def extract(text):
+    """从输出里抓最后出现的数字。抓不到给 null。"""
+    out = {}
+    for key, pat in PATTERNS.items():
+        ms = re.findall(pat, text)
+        if not ms:
+            out[key] = None
+            continue
+        v = ms[-1]
+        try:
+            out[key] = float(v) if v not in ("True", "False") else (v == "True")
+        except ValueError:
+            out[key] = None
+    return out
+
+def exp_summary(key, timeout=600):
+    fname = EXPS[key][0]
+    rc, out, took = run_file(fname, timeout)
+    if rc is None:
+        return {"ok": False, "error": out, "took_ms": 0}
+    nums = extract(out)
+    # 死亡拍数：只在 v1 零收益实验里有意义
+    death_tick = None
+    m = re.search(r"拍\s+(\d+):.*?死亡=True", out)
+    if m: death_tick = int(m.group(1))
+    return {
+        "ok": rc == 0,
+        "exit_code": rc,
+        "exp": key,
+        "desc": EXPS[key][1],
+        "took_ms": round(took * 1000),
+        "numbers": nums,
+        "death_tick": death_tick,
+        "stdout_tail": out[-1500:],
+    }
+
+class H(BaseHTTPRequestHandler):
+    def log_message(self, *a): pass
+
+    def _json(self, obj, code=200):
+        b = json.dumps(obj, ensure_ascii=False, indent=1).encode("utf-8")
+        self.send_response(code)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Content-Length", str(len(b)))
+        self.send_header("Access-Control-Allow-Origin", "*")
+        self.end_headers()
+        self.wfile.write(b)
+
+    def _html(self, s, code=200):
+        b = s.encode("utf-8")
+        self.send_response(code)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.send_header("Content-Length", str(len(b)))
+        self.end_headers()
+        self.wfile.write(b)
+
+    def do_GET(self):
+        u = urlparse(self.path)
+        q = parse_qs(u.query)
+        p = u.path.rstrip("/") or "/"
+
+        if p == "/":
+            try:
+                self._html(open(os.path.join(HERE, "index.html"), encoding="utf-8").read())
+            except Exception:
+                self._html("<meta charset=utf-8><h1>EO API</h1>"
+                           "<p><a href=/health>/health</a> · "
+                           "<a href=/core>/core</a> · <a href=/run?exp=v1>/run?exp=v1</a></p>")
+            return
+
+        if p == "/health":
+            self._json({"ok": True, "experiments": available(),
+                        "note": "每次 /run 都是当场真跑，数字会慢但是真的"})
+            return
+
+        if p in ("/core", "/run"):
+            key = (q.get("exp", ["v1"])[0] if p == "/run" else "core")
+            if key not in EXPS:
+                self._json({"ok": False, "error": f"未知实验 {key}",
+                            "可选": list(EXPS)}, 400); return
+            self._json(exp_summary(key)); return
+
+        if p == "/brain":
+            t0 = time.time()
+            # 直接 import 跑，比起子进程快
+            try:
+                sys.path.insert(0, HERE)
+                import eo_brain
+                out = eo_brain.__dict__
+                self._json({"ok": True, "took_ms": round((time.time()-t0)*1000),
+                            "note": "eo_brain 导入成功；完整演化请跑 /run?exp=v3"})
+            except Exception as e:
+                self._json({"ok": False, "error": str(e)[:200]}); return
+            return
+
+        self._json({"ok": False, "error": "404",
+                    "endpoints": ["/", "/health", "/core", "/run?exp=v1|v3|v4|v5", "/brain"]}, 404)
+
+def main():
+    port = int(sys.argv[1]) if len(sys.argv) > 1 else 8788
+    srv = ThreadingHTTPServer(("127.0.0.1", port), H)
+    print(f"EO API 已启动 → http://127.0.0.1:{port}")
+    print(f"  这是本机服务，不对外。实验清单：")
+    for k, v in available().items():
+        print(f"   {'✓' if v['exists'] else '✗'} {k:<6} {v['file']:<16} {v['desc']}")
+    srv.serve_forever()
+
+if __name__ == "__main__":
+    main()

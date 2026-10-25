@@ -1,1 +1,281 @@
-IiIiQVNSIGV2YWx1YXRpb24gc2NyaXB0OiBjb21wdXRlIFdvcmQgRXJyb3IgUmF0ZSAoV0VSKSBvbiBMaWJyaVNwZWVjaCB0ZXN0LWNsZWFuLgoKUnVucyBpbmZlcmVuY2UgYWdhaW5zdCBhIHJ1bm5pbmcgbXN0YXIgc2VydmVyIGFuZCBjb21wYXJlcyB0cmFuc2NyaXB0aW9uIG91dHB1dAphZ2FpbnN0IGdyb3VuZC10cnV0aCB0cmFuc2NyaXB0cy4gIFN1cHBvcnRzIFdoaXNwZXItbGFyZ2UtdjMgYW5kIEhpZ2dzIEF1ZGlvLgoKVXNhZ2U6CiAgICBweXRob24gLW0gYmVuY2htYXJrLmFzcl9ldmFsIFxcCiAgICAgICAgLS11cmwgaHR0cDovL2xvY2FsaG9zdDo4MDAwIFxcCiAgICAgICAgLS1tb2RlbCB3aGlzcGVyX2xhcmdlIFxcCiAgICAgICAgLS1udW0tcmVxdWVzdHMgMTAwIFxcCiAgICAgICAgLS1sb2NhbC1jYWNoZSAuL21zdGFyLWV2YWwtY2FjaGUKClJlcXVpcmVzOgogICAgcGlwIGluc3RhbGwgaml3ZXIKIiIiCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGFzeW5jaW8KaW1wb3J0IGJhc2U2NAppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHRpbWUKCmltcG9ydCBhaW9odHRwCgpmcm9tIGJlbmNobWFyay5iYXNlIGltcG9ydCBNb2RlbCwgTW9kZWxUeXBlLCBSZXF1ZXN0VHlwZQpmcm9tIGJlbmNobWFyay5kYXRhc2V0IGltcG9ydCBMaWJyaVNwZWVjaEV2YWxEYXRhc2V0CmZyb20gYmVuY2htYXJrLnJlcXVlc3QgaW1wb3J0IFJlcXVlc3RJbnB1dAoKX0FTUl9NT0RFTFMgPSB7TW9kZWxUeXBlLldISVNQRVJfTEFSR0UsIE1vZGVsVHlwZS5ISUdHU19BVURJT30KCgphc3luYyBkZWYgX3RyYW5zY3JpYmUoCiAgICBzZXNzaW9uOiBhaW9odHRwLkNsaWVudFNlc3Npb24sCiAgICByZXFfaW5wdXQ6IFJlcXVlc3RJbnB1dCwKICAgIGJhc2VfdXJsOiBzdHIsCiAgICByZXF1ZXN0X2lkOiBpbnQsCiAgICBtb2RlbDogTW9kZWwsCikgLT4gdHVwbGVbaW50LCBzdHIgfCBOb25lLCBzdHIgfCBOb25lXToKICAgICIiIlNlbmQgb25lIEEyVCByZXF1ZXN0IHRvIC9nZW5lcmF0ZTsgcmV0dXJuIChpZCwgdHJhbnNjcmlwdCwgZXJyb3IpLiIiIgogICAgbW9kZWxfa3dhcmdzID0ganNvbi5kdW1wcygKICAgICAgICB7Kiptb2RlbC5nZXRfbW9kZWxfa3dhcmdzKFJlcXVlc3RUeXBlLkEyVCksICoqcmVxX2lucHV0Lm1vZGVsX2t3YXJnc30KICAgICkKCiAgICB0cnk6CiAgICAgICAgZm9ybSA9IGFpb2h0dHAuRm9ybURhdGEoKQogICAgICAgIGZvcm0uYWRkX2ZpZWxkKCJ0ZXh0IiwgcmVxX2lucHV0LnByb21wdCkKICAgICAgICBmb3JtLmFkZF9maWVsZCgibW9kZWxfa3dhcmdzIiwgbW9kZWxfa3dhcmdzKQogICAgICAgIGZvcm0uYWRkX2ZpZWxkKCJvdXRwdXRfbW9kYWxpdGllcyIsICJ0ZXh0IikKICAgICAgICBmb3JtLmFkZF9maWVsZCgiaW5wdXRfbW9kYWxpdGllcyIsICJhdWRpbyx0ZXh0IikKCiAgICAgICAgYXVkaW9fYnl0ZXMgPSByZXFfaW5wdXQuZ2V0X2J5dGVzKCJhdWRpbyIpCiAgICAgICAgaWYgYXVkaW9fYnl0ZXM6CiAgICAgICAgICAgIGZvcm0uYWRkX2ZpZWxkKAogICAgICAgICAgICAgICAgImZpbGVzIiwKICAgICAgICAgICAgICAgIGF1ZGlvX2J5dGVzLAogICAgICAgICAgICAgICAgZmlsZW5hbWU9cmVxX2lucHV0LmdldF9maWxlbmFtZSgiYXVkaW8iKSwKICAgICAgICAgICAgICAgIGNvbnRlbnRfdHlwZT0iYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtIiwKICAgICAgICAgICAgKQoKICAgICAgICB0ZXh0X2NodW5rczogbGlzdFtieXRlc10gPSBbXQogICAgICAgIGFzeW5jIHdpdGggc2Vzc2lvbi5wb3N0KGYie2Jhc2VfdXJsfS9nZW5lcmF0ZSIsIGRhdGE9Zm9ybSkgYXMgcmVzcDoKICAgICAgICAgICAgcmVzcC5yYWlzZV9mb3Jfc3RhdHVzKCkKICAgICAgICAgICAgYXN5bmMgZm9yIHJhd19saW5lIGluIHJlc3AuY29udGVudDoKICAgICAgICAgICAgICAgIGxpbmUgPSByYXdfbGluZS5zdHJpcCgpCiAgICAgICAgICAgICAgICBpZiBub3QgbGluZToKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIG1zZyA9IGpzb24ubG9hZHMobGluZSkKICAgICAgICAgICAgICAgIGV4Y2VwdCBqc29uLkpTT05EZWNvZGVFcnJvcjoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgaWYgbm90IG1zZy5nZXQoImRhdGEiKToKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgaWYgbXNnLmdldCgibW9kYWxpdHkiKSA9PSAidGV4dCI6CiAgICAgICAgICAgICAgICAgICAgdGV4dF9jaHVua3MuYXBwZW5kKGJhc2U2NC5iNjRkZWNvZGUobXNnWyJkYXRhIl0pKQoKICAgICAgICB0cmFuc2NyaXB0ID0gYiIiLmpvaW4odGV4dF9jaHVua3MpLmRlY29kZSgidXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKS5zdHJpcCgpCiAgICAgICAgcmV0dXJuIHJlcXVlc3RfaWQsIHRyYW5zY3JpcHQsIE5vbmUKCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICByZXR1cm4gcmVxdWVzdF9pZCwgTm9uZSwgc3RyKGV4YykKCgphc3luYyBkZWYgX3J1bl9ldmFsKAogICAgYmFzZV91cmw6IHN0ciwKICAgIG1vZGVsOiBNb2RlbCwKICAgIGRhdGFzZXQ6IExpYnJpU3BlZWNoRXZhbERhdGFzZXQsCiAgICBtYXhfY29uY3VycmVuY3k6IGludCwKICAgIG51bV93YXJtdXA6IGludCwKKSAtPiBkaWN0OgogICAgcmVxdWVzdHMgPSBkYXRhc2V0LmdldF9yZXF1ZXN0cygpCiAgICByZWZlcmVuY2VzID0gZGF0YXNldC5yZWZlcmVuY2VzCgogICAgc2VtID0gYXN5bmNpby5TZW1hcGhvcmUobWF4X2NvbmN1cnJlbmN5KQoKICAgIGFzeW5jIGRlZiBfbGltaXRlZChpOiBpbnQsIHJlcTogUmVxdWVzdElucHV0KToKICAgICAgICBhc3luYyB3aXRoIHNlbToKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IF90cmFuc2NyaWJlKHNlc3Npb24sIHJlcSwgYmFzZV91cmwsIGksIG1vZGVsKQoKICAgIGNvbm5lY3Rvcl9saW1pdCA9IG1heCgxMDAsIG1heF9jb25jdXJyZW5jeSArIDEwKQogICAgYXN5bmMgd2l0aCBhaW9odHRwLkNsaWVudFNlc3Npb24oCiAgICAgICAgdGltZW91dD1haW9odHRwLkNsaWVudFRpbWVvdXQodG90YWw9MzAwKSwKICAgICAgICBjb25uZWN0b3I9YWlvaHR0cC5UQ1BDb25uZWN0b3IobGltaXQ9Y29ubmVjdG9yX2xpbWl0KSwKICAgICkgYXMgc2Vzc2lvbjoKICAgICAgICAjIFdhcm11cAogICAgICAgIGlmIG51bV93YXJtdXAgPiAwIGFuZCByZXF1ZXN0czoKICAgICAgICAgICAgcHJpbnQoZiJXYXJtaW5nIHVwICh7bnVtX3dhcm11cH0gcmVxdWVzdChzKSkuLi4iKQogICAgICAgICAgICB3YXJtdXBfdGFza3MgPSBbCiAgICAgICAgICAgICAgICBhc3luY2lvLmNyZWF0ZV90YXNrKF9saW1pdGVkKC0oaSArIDEpLCByZXF1ZXN0c1tpICUgbGVuKHJlcXVlc3RzKV0pKQogICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobnVtX3dhcm11cCkKICAgICAgICAgICAgXQogICAgICAgICAgICBhd2FpdCBhc3luY2lvLmdhdGhlcigqd2FybXVwX3Rhc2tzKQogICAgICAgICAgICBwcmludCgiV2FybXVwIGRvbmUuIikKCiAgICAgICAgcHJpbnQoZiJSdW5uaW5nIGV2YWwgb24ge2xlbihyZXF1ZXN0cyl9IHNhbXBsZShzKS4uLiIpCiAgICAgICAgd2FsbF9zdGFydCA9IHRpbWUubW9ub3RvbmljKCkKICAgICAgICB0YXNrcyA9IFthc3luY2lvLmNyZWF0ZV90YXNrKF9saW1pdGVkKGksIHJlcSkpIGZvciBpLCByZXEgaW4gZW51bWVyYXRlKHJlcXVlc3RzKV0KICAgICAgICByZXN1bHRzID0gYXdhaXQgYXN5bmNpby5nYXRoZXIoKnRhc2tzKQogICAgICAgIHdhbGxfdGltZSA9IHRpbWUubW9ub3RvbmljKCkgLSB3YWxsX3N0YXJ0CgogICAgaHlwb3RoZXNlczogbGlzdFtzdHJdID0gWyIiXSAqIGxlbihyZXF1ZXN0cykKICAgIGVycm9yczogbGlzdFtzdHJdID0gW10KICAgIGZvciByZXFfaWQsIHRyYW5zY3JpcHQsIGVyciBpbiByZXN1bHRzOgogICAgICAgIGlmIHJlcV9pZCA+PSAwOgogICAgICAgICAgICBpZiBlcnI6CiAgICAgICAgICAgICAgICBlcnJvcnMuYXBwZW5kKGYiW3tyZXFfaWR9XSB7ZXJyfSIpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBoeXBvdGhlc2VzW3JlcV9pZF0gPSB0cmFuc2NyaXB0IG9yICIiCgogICAgcmV0dXJuIHsKICAgICAgICAicmVmZXJlbmNlcyI6IHJlZmVyZW5jZXMsCiAgICAgICAgImh5cG90aGVzZXMiOiBoeXBvdGhlc2VzLAogICAgICAgICJlcnJvcnMiOiBlcnJvcnMsCiAgICAgICAgIndhbGxfdGltZSI6IHdhbGxfdGltZSwKICAgICAgICAibnVtX3JlcXVlc3RzIjogbGVuKHJlcXVlc3RzKSwKICAgIH0KCgpkZWYgX2NvbXB1dGVfd2VyKHJlZmVyZW5jZXM6IGxpc3Rbc3RyXSwgaHlwb3RoZXNlczogbGlzdFtzdHJdKSAtPiBkaWN0OgogICAgdHJ5OgogICAgICAgIGltcG9ydCBqaXdlcgogICAgZXhjZXB0IEltcG9ydEVycm9yIGFzIGV4YzoKICAgICAgICByYWlzZSBJbXBvcnRFcnJvcigicGlwIGluc3RhbGwgaml3ZXIiKSBmcm9tIGV4YwoKICAgIHRyYW5zZm9ybSA9IGppd2VyLkNvbXBvc2UoWwogICAgICAgIGppd2VyLlRvVXBwZXJDYXNlKCksCiAgICAgICAgaml3ZXIuUmVtb3ZlUHVuY3R1YXRpb24oKSwKICAgICAgICBqaXdlci5TdHJpcCgpLAogICAgICAgIGppd2VyLlJlbW92ZU11bHRpcGxlU3BhY2VzKCksCiAgICBdKQoKICAgIHJlZnNfY2xlYW4gPSBbdHJhbnNmb3JtKHIpIGZvciByIGluIHJlZmVyZW5jZXNdCiAgICBoeXBzX2NsZWFuID0gW3RyYW5zZm9ybShoKSBmb3IgaCBpbiBoeXBvdGhlc2VzXQoKICAgIG92ZXJhbGwgPSBqaXdlci53ZXIocmVmc19jbGVhbiwgaHlwc19jbGVhbikKCiAgICBwZXJfc2FtcGxlOiBsaXN0W2RpY3RdID0gW10KICAgIGZvciBpLCAocmVmLCBoeXApIGluIGVudW1lcmF0ZSh6aXAocmVmc19jbGVhbiwgaHlwc19jbGVhbiwgc3RyaWN0PVRydWUpKToKICAgICAgICBzYW1wbGVfd2VyID0gaml3ZXIud2VyKFtyZWZdLCBbaHlwXSkgaWYgcmVmIGVsc2UgMC4wCiAgICAgICAgcGVyX3NhbXBsZS5hcHBlbmQoeyJpbmRleCI6IGksICJ3ZXIiOiBzYW1wbGVfd2VyLCAicmVmIjogcmVmLCAiaHlwIjogaHlwfSkKCiAgICByZXR1cm4geyJ3ZXIiOiBvdmVyYWxsLCAicGVyX3NhbXBsZSI6IHBlcl9zYW1wbGV9CgoKZGVmIF9wcmludF9yZXBvcnQoCiAgICBtb2RlbF9uYW1lOiBzdHIsCiAgICB3ZXJfcmVzdWx0czogZGljdCwKICAgIHdhbGxfdGltZTogZmxvYXQsCiAgICBudW1fcmVxdWVzdHM6IGludCwKICAgIGVycm9yczogbGlzdFtzdHJdLAopIC0+IE5vbmU6CiAgICB3ZXIgPSB3ZXJfcmVzdWx0c1sid2VyIl0KICAgIHBlcl9zYW1wbGUgPSB3ZXJfcmVzdWx0c1sicGVyX3NhbXBsZSJdCgogICAgd29yc3QgPSBzb3J0ZWQocGVyX3NhbXBsZSwga2V5PWxhbWJkYSB4OiB4WyJ3ZXIiXSwgcmV2ZXJzZT1UcnVlKVs6NV0KCiAgICBwcmludChmIlxueyc9JyAqIDYwfSIpCiAgICBwcmludChmIiAgQVNSIEV2YWx1YXRpb24g4oCUIHttb2RlbF9uYW1lfSIpCiAgICBwcmludChmInsnPScgKiA2MH0iKQogICAgcHJpbnQoZiIgIFNhbXBsZXMgICA6IHtudW1fcmVxdWVzdHN9IikKICAgIHByaW50KGYiICBFcnJvcnMgICAgOiB7bGVuKGVycm9ycyl9IikKICAgIHByaW50KGYiICBXYWxsIHRpbWUgOiB7d2FsbF90aW1lOi4yZn1zIikKICAgIHByaW50KGYiICBUaHJvdWdocHV0OiB7bnVtX3JlcXVlc3RzIC8gd2FsbF90aW1lOi4yZn0gcmVxL3MiKQogICAgcHJpbnQoZiJcbiAgV0VSIChvdmVyYWxsKToge3dlciAqIDEwMDouMmZ9JSIpCiAgICBwcmludCgiXG4gIFdvcnN0IHNhbXBsZXMgKHRvcC01KToiKQogICAgZm9yIHMgaW4gd29yc3Q6CiAgICAgICAgcHJpbnQoZiIgICAgW3tzWydpbmRleCddOjRkfV0gV0VSPXtzWyd3ZXInXSAqIDEwMDouMWZ9JSIpCiAgICAgICAgcHJpbnQoZiIgICAgICAgICAgIFJFRjoge3NbJ3JlZiddWzo4MF19IikKICAgICAgICBwcmludChmIiAgICAgICAgICAgSFlQOiB7c1snaHlwJ11bOjgwXX0iKQogICAgaWYgZXJyb3JzOgogICAgICAgIHByaW50KGYiXG4gIEVycm9ycyAoe2xlbihlcnJvcnMpfSk6IikKICAgICAgICBmb3IgZSBpbiBlcnJvcnNbOjEwXToKICAgICAgICAgICAgcHJpbnQoZiIgICAge2V9IikKICAgIHByaW50KGYieyc9JyAqIDYwfVxuIikKCgpkZWYgcGFyc2VfYXJncygpIC0+IGFyZ3BhcnNlLk5hbWVzcGFjZToKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSJBU1IgV0VSIGV2YWx1YXRpb24gb24gTGlicmlTcGVlY2giKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS11cmwiLCByZXF1aXJlZD1UcnVlLCBoZWxwPSJtc3RhciBzZXJ2ZXIgYmFzZSBVUkwiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1tb2RlbCIsCiAgICAgICAgcmVxdWlyZWQ9VHJ1ZSwKICAgICAgICBjaG9pY2VzPVttLnZhbHVlIGZvciBtIGluIF9BU1JfTU9ERUxTXSwKICAgICAgICBoZWxwPSJBU1IgbW9kZWwgdG8gZXZhbHVhdGUiLAogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1udW0tcmVxdWVzdHMiLCB0eXBlPWludCwgZGVmYXVsdD0xMDAsIGhlbHA9Ik51bWJlciBvZiBhdWRpbyBzYW1wbGVzIHRvIGV2YWx1YXRlIgogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1zcGxpdCIsCiAgICAgICAgZGVmYXVsdD0idGVzdC5jbGVhbiIsCiAgICAgICAgaGVscD0iTGlicmlTcGVlY2ggc3BsaXQgKGRlZmF1bHQ6IHRlc3QuY2xlYW4pIiwKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tbWF4LWNvbmN1cnJlbmN5IiwKICAgICAgICB0eXBlPWludCwKICAgICAgICBkZWZhdWx0PTQsCiAgICAgICAgaGVscD0iTWF4IGluLWZsaWdodCByZXF1ZXN0cyAoZGVmYXVsdDogNCkiLAogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1udW0td2FybXVwIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tbG9jYWwtY2FjaGUiLCBkZWZhdWx0PSIuL21zdGFyLWV2YWwtY2FjaGUiLCB0eXBlPXN0cikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0taGYtY2FjaGUiLCBkZWZhdWx0PU5vbmUsIGhlbHA9Ikh1Z2dpbmdGYWNlIGNhY2hlIGRpciIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLW91dHB1dC1qc29uIiwKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgaGVscD0iV3JpdGUgZnVsbCByZXN1bHRzIEpTT04gdG8gdGhpcyBwYXRoIiwKICAgICkKICAgIHJldHVybiBwYXJzZXIucGFyc2VfYXJncygpCgoKYXN5bmMgZGVmIG1haW4oKSAtPiBOb25lOgogICAgYXJncyA9IHBhcnNlX2FyZ3MoKQoKICAgIG1vZGVsX3R5cGUgPSBNb2RlbFR5cGUoYXJncy5tb2RlbCkKICAgIG1vZGVsID0gbW9kZWxfdHlwZS5pbnN0KCkKCiAgICBwcmludChmIkxvYWRpbmcgTGlicmlTcGVlY2ggJ3thcmdzLnNwbGl0fScgc3BsaXQgKHthcmdzLm51bV9yZXF1ZXN0c30gc2FtcGxlcykuLi4iKQogICAgZGF0YXNldCA9IExpYnJpU3BlZWNoRXZhbERhdGFzZXQoCiAgICAgICAgbG9jYWxfZmlsZV9kaXI9b3MucGF0aC5qb2luKGFyZ3MubG9jYWxfY2FjaGUsICJsaWJyaXNwZWVjaF9ldmFsIiksCiAgICAgICAgbnVtX3JlcXVlc3RzPWFyZ3MubnVtX3JlcXVlc3RzLAogICAgICAgIHNwbGl0PWFyZ3Muc3BsaXQsCiAgICAgICAgY2FjaGVfZGlyPWFyZ3MuaGZfY2FjaGUsCiAgICApCiAgICBwcmludChmIkxvYWRlZCB7bGVuKGRhdGFzZXQpfSBzYW1wbGVzLiIpCgogICAgcmVzdWx0ID0gYXdhaXQgX3J1bl9ldmFsKAogICAgICAgIGJhc2VfdXJsPWFyZ3MudXJsLAogICAgICAgIG1vZGVsPW1vZGVsLAogICAgICAgIGRhdGFzZXQ9ZGF0YXNldCwKICAgICAgICBtYXhfY29uY3VycmVuY3k9YXJncy5tYXhfY29uY3VycmVuY3ksCiAgICAgICAgbnVtX3dhcm11cD1hcmdzLm51bV93YXJtdXAsCiAgICApCgogICAgd2VyX3Jlc3VsdHMgPSBfY29tcHV0ZV93ZXIocmVzdWx0WyJyZWZlcmVuY2VzIl0sIHJlc3VsdFsiaHlwb3RoZXNlcyJdKQoKICAgIF9wcmludF9yZXBvcnQoCiAgICAgICAgbW9kZWxfbmFtZT1hcmdzLm1vZGVsLAogICAgICAgIHdlcl9yZXN1bHRzPXdlcl9yZXN1bHRzLAogICAgICAgIHdhbGxfdGltZT1yZXN1bHRbIndhbGxfdGltZSJdLAogICAgICAgIG51bV9yZXF1ZXN0cz1yZXN1bHRbIm51bV9yZXF1ZXN0cyJdLAogICAgICAgIGVycm9ycz1yZXN1bHRbImVycm9ycyJdLAogICAgKQoKICAgIGlmIGFyZ3Mub3V0cHV0X2pzb246CiAgICAgICAgcGF5bG9hZCA9IHsKICAgICAgICAgICAgIm1vZGVsIjogYXJncy5tb2RlbCwKICAgICAgICAgICAgInNwbGl0IjogYXJncy5zcGxpdCwKICAgICAgICAgICAgIm51bV9yZXF1ZXN0cyI6IHJlc3VsdFsibnVtX3JlcXVlc3RzIl0sCiAgICAgICAgICAgICJ3YWxsX3RpbWVfcyI6IHJlc3VsdFsid2FsbF90aW1lIl0sCiAgICAgICAgICAgICJ3ZXIiOiB3ZXJfcmVzdWx0c1sid2VyIl0sCiAgICAgICAgICAgICJlcnJvcnMiOiByZXN1bHRbImVycm9ycyJdLAogICAgICAgICAgICAicGVyX3NhbXBsZSI6IHdlcl9yZXN1bHRzWyJwZXJfc2FtcGxlIl0sCiAgICAgICAgfQogICAgICAgIG9zLm1ha2VkaXJzKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoYXJncy5vdXRwdXRfanNvbikpLCBleGlzdF9vaz1UcnVlKQogICAgICAgIHdpdGggb3BlbihhcmdzLm91dHB1dF9qc29uLCAidyIpIGFzIGY6CiAgICAgICAgICAgIGpzb24uZHVtcChwYXlsb2FkLCBmLCBpbmRlbnQ9MikKICAgICAgICBwcmludChmIlJlc3VsdHMgd3JpdHRlbiB0byB7YXJncy5vdXRwdXRfanNvbn0iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBhc3luY2lvLnJ1bihtYWluKCkpCg==
+"""ASR evaluation script: compute Word Error Rate (WER) on LibriSpeech test-clean.
+
+Runs inference against a running mstar server and compares transcription output
+against ground-truth transcripts.  Supports Whisper-large-v3 and Higgs Audio.
+
+Usage:
+    python -m benchmark.asr_eval \\
+        --url http://localhost:8000 \\
+        --model whisper_large \\
+        --num-requests 100 \\
+        --local-cache ./mstar-eval-cache
+
+Requires:
+    pip install jiwer
+"""
+
+import argparse
+import asyncio
+import base64
+import json
+import os
+import time
+
+import aiohttp
+
+from benchmark.base import Model, ModelType, RequestType
+from benchmark.dataset import LibriSpeechEvalDataset
+from benchmark.request import RequestInput
+
+_ASR_MODELS = {ModelType.WHISPER_LARGE, ModelType.HIGGS_AUDIO}
+
+
+async def _transcribe(
+    session: aiohttp.ClientSession,
+    req_input: RequestInput,
+    base_url: str,
+    request_id: int,
+    model: Model,
+) -> tuple[int, str | None, str | None]:
+    """Send one A2T request to /generate; return (id, transcript, error)."""
+    model_kwargs = json.dumps(
+        {**model.get_model_kwargs(RequestType.A2T), **req_input.model_kwargs}
+    )
+
+    try:
+        form = aiohttp.FormData()
+        form.add_field("text", req_input.prompt)
+        form.add_field("model_kwargs", model_kwargs)
+        form.add_field("output_modalities", "text")
+        form.add_field("input_modalities", "audio,text")
+
+        audio_bytes = req_input.get_bytes("audio")
+        if audio_bytes:
+            form.add_field(
+                "files",
+                audio_bytes,
+                filename=req_input.get_filename("audio"),
+                content_type="application/octet-stream",
+            )
+
+        text_chunks: list[bytes] = []
+        async with session.post(f"{base_url}/generate", data=form) as resp:
+            resp.raise_for_status()
+            async for raw_line in resp.content:
+                line = raw_line.strip()
+                if not line:
+                    continue
+                try:
+                    msg = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                if not msg.get("data"):
+                    continue
+                if msg.get("modality") == "text":
+                    text_chunks.append(base64.b64decode(msg["data"]))
+
+        transcript = b"".join(text_chunks).decode("utf-8", errors="replace").strip()
+        return request_id, transcript, None
+
+    except Exception as exc:
+        return request_id, None, str(exc)
+
+
+async def _run_eval(
+    base_url: str,
+    model: Model,
+    dataset: LibriSpeechEvalDataset,
+    max_concurrency: int,
+    num_warmup: int,
+) -> dict:
+    requests = dataset.get_requests()
+    references = dataset.references
+
+    sem = asyncio.Semaphore(max_concurrency)
+
+    async def _limited(i: int, req: RequestInput):
+        async with sem:
+            return await _transcribe(session, req, base_url, i, model)
+
+    connector_limit = max(100, max_concurrency + 10)
+    async with aiohttp.ClientSession(
+        timeout=aiohttp.ClientTimeout(total=300),
+        connector=aiohttp.TCPConnector(limit=connector_limit),
+    ) as session:
+        # Warmup
+        if num_warmup > 0 and requests:
+            print(f"Warming up ({num_warmup} request(s))...")
+            warmup_tasks = [
+                asyncio.create_task(_limited(-(i + 1), requests[i % len(requests)]))
+                for i in range(num_warmup)
+            ]
+            await asyncio.gather(*warmup_tasks)
+            print("Warmup done.")
+
+        print(f"Running eval on {len(requests)} sample(s)...")
+        wall_start = time.monotonic()
+        tasks = [asyncio.create_task(_limited(i, req)) for i, req in enumerate(requests)]
+        results = await asyncio.gather(*tasks)
+        wall_time = time.monotonic() - wall_start
+
+    hypotheses: list[str] = [""] * len(requests)
+    errors: list[str] = []
+    for req_id, transcript, err in results:
+        if req_id >= 0:
+            if err:
+                errors.append(f"[{req_id}] {err}")
+            else:
+                hypotheses[req_id] = transcript or ""
+
+    return {
+        "references": references,
+        "hypotheses": hypotheses,
+        "errors": errors,
+        "wall_time": wall_time,
+        "num_requests": len(requests),
+    }
+
+
+def _compute_wer(references: list[str], hypotheses: list[str]) -> dict:
+    try:
+        import jiwer
+    except ImportError as exc:
+        raise ImportError("pip install jiwer") from exc
+
+    transform = jiwer.Compose([
+        jiwer.ToUpperCase(),
+        jiwer.RemovePunctuation(),
+        jiwer.Strip(),
+        jiwer.RemoveMultipleSpaces(),
+    ])
+
+    refs_clean = [transform(r) for r in references]
+    hyps_clean = [transform(h) for h in hypotheses]
+
+    overall = jiwer.wer(refs_clean, hyps_clean)
+
+    per_sample: list[dict] = []
+    for i, (ref, hyp) in enumerate(zip(refs_clean, hyps_clean, strict=True)):
+        sample_wer = jiwer.wer([ref], [hyp]) if ref else 0.0
+        per_sample.append({"index": i, "wer": sample_wer, "ref": ref, "hyp": hyp})
+
+    return {"wer": overall, "per_sample": per_sample}
+
+
+def _print_report(
+    model_name: str,
+    wer_results: dict,
+    wall_time: float,
+    num_requests: int,
+    errors: list[str],
+) -> None:
+    wer = wer_results["wer"]
+    per_sample = wer_results["per_sample"]
+
+    worst = sorted(per_sample, key=lambda x: x["wer"], reverse=True)[:5]
+
+    print(f"\n{'=' * 60}")
+    print(f"  ASR Evaluation — {model_name}")
+    print(f"{'=' * 60}")
+    print(f"  Samples   : {num_requests}")
+    print(f"  Errors    : {len(errors)}")
+    print(f"  Wall time : {wall_time:.2f}s")
+    print(f"  Throughput: {num_requests / wall_time:.2f} req/s")
+    print(f"\n  WER (overall): {wer * 100:.2f}%")
+    print("\n  Worst samples (top-5):")
+    for s in worst:
+        print(f"    [{s['index']:4d}] WER={s['wer'] * 100:.1f}%")
+        print(f"           REF: {s['ref'][:80]}")
+        print(f"           HYP: {s['hyp'][:80]}")
+    if errors:
+        print(f"\n  Errors ({len(errors)}):")
+        for e in errors[:10]:
+            print(f"    {e}")
+    print(f"{'=' * 60}\n")
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="ASR WER evaluation on LibriSpeech")
+    parser.add_argument("--url", required=True, help="mstar server base URL")
+    parser.add_argument(
+        "--model",
+        required=True,
+        choices=[m.value for m in _ASR_MODELS],
+        help="ASR model to evaluate",
+    )
+    parser.add_argument(
+        "--num-requests", type=int, default=100, help="Number of audio samples to evaluate"
+    )
+    parser.add_argument(
+        "--split",
+        default="test.clean",
+        help="LibriSpeech split (default: test.clean)",
+    )
+    parser.add_argument(
+        "--max-concurrency",
+        type=int,
+        default=4,
+        help="Max in-flight requests (default: 4)",
+    )
+    parser.add_argument("--num-warmup", type=int, default=3)
+    parser.add_argument("--local-cache", default="./mstar-eval-cache", type=str)
+    parser.add_argument("--hf-cache", default=None, help="HuggingFace cache dir")
+    parser.add_argument(
+        "--output-json",
+        default=None,
+        help="Write full results JSON to this path",
+    )
+    return parser.parse_args()
+
+
+async def main() -> None:
+    args = parse_args()
+
+    model_type = ModelType(args.model)
+    model = model_type.inst()
+
+    print(f"Loading LibriSpeech '{args.split}' split ({args.num_requests} samples)...")
+    dataset = LibriSpeechEvalDataset(
+        local_file_dir=os.path.join(args.local_cache, "librispeech_eval"),
+        num_requests=args.num_requests,
+        split=args.split,
+        cache_dir=args.hf_cache,
+    )
+    print(f"Loaded {len(dataset)} samples.")
+
+    result = await _run_eval(
+        base_url=args.url,
+        model=model,
+        dataset=dataset,
+        max_concurrency=args.max_concurrency,
+        num_warmup=args.num_warmup,
+    )
+
+    wer_results = _compute_wer(result["references"], result["hypotheses"])
+
+    _print_report(
+        model_name=args.model,
+        wer_results=wer_results,
+        wall_time=result["wall_time"],
+        num_requests=result["num_requests"],
+        errors=result["errors"],
+    )
+
+    if args.output_json:
+        payload = {
+            "model": args.model,
+            "split": args.split,
+            "num_requests": result["num_requests"],
+            "wall_time_s": result["wall_time"],
+            "wer": wer_results["wer"],
+            "errors": result["errors"],
+            "per_sample": wer_results["per_sample"],
+        }
+        os.makedirs(os.path.dirname(os.path.abspath(args.output_json)), exist_ok=True)
+        with open(args.output_json, "w") as f:
+            json.dump(payload, f, indent=2)
+        print(f"Results written to {args.output_json}")
+
+
+if __name__ == "__main__":
+    asyncio.run(main())

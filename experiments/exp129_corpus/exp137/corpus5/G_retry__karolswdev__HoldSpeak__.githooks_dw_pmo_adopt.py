@@ -1,1 +1,213 @@
-IiIiVGhlIGRpc2NvdmVyeS10by1zY2FmZm9sZCBicmlkZ2U6IGBgZHcgYWRvcHQgLS1mcm9tLXJlcG9ydGBgLgoKQWRvcHRpb24gZGlzY292ZXJ5IHByb2R1Y2VzIG1hY2hpbmUtcGFyc2VhYmxlIHRhYmxlcyAoUHJvcG9zZWQgUGhhc2UKSW5kZXgsIFByb3Bvc2VkIEZpcnN0IFN0b3JpZXMpLiBUaGlzIG1vZHVsZSBwYXJzZXMgdGhlbSDigJQgd2l0aApsaW5lLW51bWJlcmVkIGVycm9ycywgcmVmdXNpbmcgcGFydGlhbCBzY2FmZm9sZHMg4oCUIGFuZCB0dXJucyB0aGVtIGludG8KdGhlIHNhbWUgcGhhc2Uvc3RvcnkgbXV0YXRpb24gcGxhbnMgdGhlIENMSSB1c2VzLCBiZWhpbmQgYQpwcmV2aWV3LXRoZW4tYXBwbHkgZmxvdy4gTm90aGluZyBpcyB3cml0dGVuIHdpdGhvdXQgYGAtLWFwcGx5YGAuCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHJlCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpmcm9tIC5tb2RlbCBpbXBvcnQgU1RPUllfSURfUkUsIFByb2plY3QsIGRpZQpmcm9tIC5wYXJzZSBpbXBvcnQgZGlzY292ZXJfcHJvamVjdHMsIGdldF9waGFzZSwgZ2V0X3Byb2plY3QsIHNwbGl0X3RhYmxlX3Jvdwpmcm9tIC5wYXRocyBpbXBvcnQgcmVhZF90ZXh0LCByZWwsIHJvYWRtYXBfZGlyLCBzbHVnaWZ5CmZyb20gLm11dGF0aW9ucyBpbXBvcnQgYXBwbHlfcGxhbiwgcGxhbl9waGFzZV9jcmVhdGUsIHBsYW5fc3RvcnlfY3JlYXRlCmZyb20gLnZhbGlkYXRlIGltcG9ydCBjaGVja19wcm9qZWN0CgpQSEFTRV9UQUJMRV9IRUFERVIgPSAifCBQaGFzZSB8IFRpdGxlIHwgR29hbCB8IFdoeSBub3cgfCIKU1RPUllfVEFCTEVfSEVBREVSID0gInwgSUQgfCBUaXRsZSB8IEFjY2VwdGFuY2UgZXZpZGVuY2UgfCBOb3RlcyB8IgoKCkBkYXRhY2xhc3MKY2xhc3MgQWRvcHRpb25SZXBvcnQ6CiAgICBwaGFzZXM6IGxpc3RbZGljdFtzdHIsIG9iamVjdF1dID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpCiAgICBzdG9yaWVzOiBsaXN0W2RpY3Rbc3RyLCBvYmplY3RdXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQogICAgc2x1Zzogc3RyIHwgTm9uZSA9IE5vbmUKICAgIHByZWZpeDogc3RyIHwgTm9uZSA9IE5vbmUKCgpkZWYgX3RhYmxlX3Jvd3MobGluZXM6IGxpc3Rbc3RyXSwgaGVhZGluZzogc3RyLCBoZWFkZXI6IHN0cikgLT4gbGlzdFt0dXBsZVtpbnQsIGxpc3Rbc3RyXV1dOgogICAgIiIiUm93cyAoMS1iYXNlZCBsaW5lIG51bWJlciwgY2VsbHMpIG9mIHRoZSB0YWJsZSB1bmRlciBgaGVhZGluZ2AuIiIiCiAgICByb3dzOiBsaXN0W3R1cGxlW2ludCwgbGlzdFtzdHJdXV0gPSBbXQogICAgaW5fc2VjdGlvbiA9IEZhbHNlCiAgICBpbl90YWJsZSA9IEZhbHNlCiAgICBmb3IgaSwgbGluZSBpbiBlbnVtZXJhdGUobGluZXMsIHN0YXJ0PTEpOgogICAgICAgIGlmIGxpbmUuc3RyaXAoKS5zdGFydHN3aXRoKCIjIyAiKToKICAgICAgICAgICAgaWYgaW5fc2VjdGlvbjoKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIGluX3NlY3Rpb24gPSBsaW5lLnN0cmlwKCkubG93ZXIoKSA9PSBoZWFkaW5nLmxvd2VyKCkKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBub3QgaW5fc2VjdGlvbjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzdHJpcHBlZCA9IGxpbmUuc3RyaXAoKQogICAgICAgIGlmIHN0cmlwcGVkLnN0YXJ0c3dpdGgoInwgIikgYW5kIHN0cmlwcGVkLnJlcGxhY2UoIiAiLCAiIikgPT0gaGVhZGVyLnJlcGxhY2UoIiAiLCAiIik6CiAgICAgICAgICAgIGluX3RhYmxlID0gVHJ1ZQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIG5vdCBpbl90YWJsZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBzdHJpcHBlZC5zdGFydHN3aXRoKCJ8LS0tIik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgbm90IHN0cmlwcGVkLnN0YXJ0c3dpdGgoInwiKToKICAgICAgICAgICAgYnJlYWsKICAgICAgICByb3dzLmFwcGVuZCgoaSwgc3BsaXRfdGFibGVfcm93KGxpbmUpKSkKICAgIHJldHVybiByb3dzCgoKZGVmIHBhcnNlX2Fkb3B0aW9uX3JlcG9ydCh0ZXh0OiBzdHIpIC0+IEFkb3B0aW9uUmVwb3J0OgogICAgbGluZXMgPSB0ZXh0LnNwbGl0bGluZXMoKQogICAgcmVwb3J0ID0gQWRvcHRpb25SZXBvcnQoKQoKICAgIG0gPSByZS5zZWFyY2gociJcKlwqUm9hZG1hcCByb290OlwqXCpccypgP3BtL3JvYWRtYXAvKFteL2Bcc10rKS8/YD8iLCB0ZXh0KQogICAgaWYgbToKICAgICAgICByZXBvcnQuc2x1ZyA9IG0uZ3JvdXAoMSkKCiAgICBwaGFzZV9yb3dzID0gX3RhYmxlX3Jvd3MobGluZXMsICIjIyBQcm9wb3NlZCBQaGFzZSBJbmRleCIsIFBIQVNFX1RBQkxFX0hFQURFUikKICAgIGlmIG5vdCBwaGFzZV9yb3dzOgogICAgICAgIGRpZSgKICAgICAgICAgICAgIm5vICdQcm9wb3NlZCBQaGFzZSBJbmRleCcgdGFibGUgZm91bmQgKGV4cGVjdGVkIGhlYWRlciAiCiAgICAgICAgICAgIGYiJ3tQSEFTRV9UQUJMRV9IRUFERVJ9Jyk7IHJlZ2VuZXJhdGUgdGhlIHJlcG9ydCB3aXRoIHRoZSBjdXJyZW50ICIKICAgICAgICAgICAgImFkb3B0aW9uLWRpc2NvdmVyeSBwcm9tcHQiCiAgICAgICAgKQogICAgc2Vlbl9udW1iZXJzOiBzZXRbaW50XSA9IHNldCgpCiAgICBmb3IgbGluZW5vLCBjZWxscyBpbiBwaGFzZV9yb3dzOgogICAgICAgIGlmIGxlbihjZWxscykgIT0gNDoKICAgICAgICAgICAgZGllKGYibWFsZm9ybWVkIHBoYXNlIHJvdyBhdCBsaW5lIHtsaW5lbm99OiBleHBlY3RlZCA0IGNvbHVtbnMgKFBoYXNlIHwgVGl0bGUgfCBHb2FsIHwgV2h5IG5vdyksIGdvdCB7bGVuKGNlbGxzKX0iKQogICAgICAgIHJhd19udW1iZXIsIHRpdGxlLCBnb2FsID0gY2VsbHNbMF0sIGNlbGxzWzFdLCBjZWxsc1syXQogICAgICAgIGlmIG5vdCByYXdfbnVtYmVyLmlzZGlnaXQoKToKICAgICAgICAgICAgZGllKGYibWFsZm9ybWVkIHBoYXNlIHJvdyBhdCBsaW5lIHtsaW5lbm99OiBwaGFzZSBtdXN0IGJlIGEgbnVtYmVyLCBnb3Qge3Jhd19udW1iZXIhcn0iKQogICAgICAgIG51bWJlciA9IGludChyYXdfbnVtYmVyKQogICAgICAgIGlmIG51bWJlciBpbiBzZWVuX251bWJlcnM6CiAgICAgICAgICAgIGRpZShmIm1hbGZvcm1lZCBwaGFzZSByb3cgYXQgbGluZSB7bGluZW5vfTogZHVwbGljYXRlIHBoYXNlIG51bWJlciB7bnVtYmVyfSIpCiAgICAgICAgaWYgbm90IHRpdGxlLnN0cmlwKCkgb3IgdGl0bGUuc3RyaXAoKSBpbiB7IuKApiIsICIuLi4ifToKICAgICAgICAgICAgZGllKGYibWFsZm9ybWVkIHBoYXNlIHJvdyBhdCBsaW5lIHtsaW5lbm99OiBlbXB0eSBwaGFzZSB0aXRsZSIpCiAgICAgICAgc2Vlbl9udW1iZXJzLmFkZChudW1iZXIpCiAgICAgICAgcmVwb3J0LnBoYXNlcy5hcHBlbmQoeyJudW1iZXIiOiBudW1iZXIsICJ0aXRsZSI6IHRpdGxlLnN0cmlwKCksICJnb2FsIjogZ29hbC5zdHJpcCgpfSkKCiAgICBzdG9yeV9yb3dzID0gX3RhYmxlX3Jvd3MobGluZXMsICIjIyBQcm9wb3NlZCBGaXJzdCBTdG9yaWVzIiwgU1RPUllfVEFCTEVfSEVBREVSKQogICAgZm9yIGxpbmVubywgY2VsbHMgaW4gc3Rvcnlfcm93czoKICAgICAgICBpZiBsZW4oY2VsbHMpICE9IDQ6CiAgICAgICAgICAgIGRpZShmIm1hbGZvcm1lZCBzdG9yeSByb3cgYXQgbGluZSB7bGluZW5vfTogZXhwZWN0ZWQgNCBjb2x1bW5zIChJRCB8IFRpdGxlIHwgQWNjZXB0YW5jZSBldmlkZW5jZSB8IE5vdGVzKSwgZ290IHtsZW4oY2VsbHMpfSIpCiAgICAgICAgc3RvcnlfaWQsIHRpdGxlID0gY2VsbHNbMF0uc3RyaXAoKS5zdHJpcCgiYCIpLCBjZWxsc1sxXS5zdHJpcCgpCiAgICAgICAgaWRfbWF0Y2ggPSBTVE9SWV9JRF9SRS5tYXRjaChzdG9yeV9pZCkKICAgICAgICBpZiBub3QgaWRfbWF0Y2g6CiAgICAgICAgICAgIGRpZShmIm1hbGZvcm1lZCBzdG9yeSByb3cgYXQgbGluZSB7bGluZW5vfTogSUQge3N0b3J5X2lkIXJ9IGRvZXMgbm90IG1hdGNoIFBSRUZJWC1waGFzZS1udW1iZXIiKQogICAgICAgIHBoYXNlX251bWJlciA9IGludChpZF9tYXRjaC5ncm91cCgyKSkKICAgICAgICBpZiBwaGFzZV9udW1iZXIgbm90IGluIHNlZW5fbnVtYmVyczoKICAgICAgICAgICAgZGllKGYibWFsZm9ybWVkIHN0b3J5IHJvdyBhdCBsaW5lIHtsaW5lbm99OiBzdG9yeSB7c3RvcnlfaWR9IHJlZmVyZW5jZXMgcGhhc2Uge3BoYXNlX251bWJlcn0sIHdoaWNoIGlzIG5vdCBpbiB0aGUgcGhhc2UgaW5kZXgiKQogICAgICAgIGlmIG5vdCB0aXRsZSBvciB0aXRsZSBpbiB7IuKApiIsICIuLi4ifToKICAgICAgICAgICAgZGllKGYibWFsZm9ybWVkIHN0b3J5IHJvdyBhdCBsaW5lIHtsaW5lbm99OiBlbXB0eSBzdG9yeSB0aXRsZSIpCiAgICAgICAgaWYgcmVwb3J0LnByZWZpeCBpcyBOb25lOgogICAgICAgICAgICByZXBvcnQucHJlZml4ID0gaWRfbWF0Y2guZ3JvdXAoMSkKICAgICAgICByZXBvcnQuc3Rvcmllcy5hcHBlbmQoeyJpZCI6IHN0b3J5X2lkLCAicGhhc2UiOiBwaGFzZV9udW1iZXIsICJ0aXRsZSI6IHRpdGxlfSkKCiAgICByZXR1cm4gcmVwb3J0CgoKTUlOSU1BTF9SRUFETUUgPSAiIiIjIHtuYW1lfSAtIFJvYWRtYXAKCioqTGFzdCB1cGRhdGVkOioqIHtkYXRlfS4KKipDdXJyZW50IHBoYXNlOioqIFt7Zmlyc3RfcGhhc2VfZGlyfV0oLi97Zmlyc3RfcGhhc2VfZGlyfS9jdXJyZW50LXBoYXNlLXN0YXR1cy5tZCkuCioqU3RhdHVzOioqIGFjdGl2ZS4KCiMjIFZpc2lvbgoKU2VlZGVkIGZyb20gdGhlIGFkb3B0aW9uIGRpc2NvdmVyeSByZXBvcnQ7IHJlZmluZSBhcyB0aGUgcm9hZG1hcCBncm93cy4KCiMjIFBoYXNlIGluZGV4Cgp8IFBoYXNlIHwgR29hbCAob25lIGxpbmUpIHwgU3RhdHVzIHwgRm9sZGVyIHwKfC0tLXwtLS18LS0tfC0tLXwKCiMjIFByb2plY3QgbWV0YWRhdGEKCi0gKipTbHVnOioqIGB7c2x1Z31gCi0gKipTdG9yeSBJRCBwcmVmaXg6Kioge3ByZWZpeH0KIiIiCgoKZGVmIF9lbnN1cmVfcHJvamVjdCgKICAgIHJvb3Q6IFBhdGgsCiAgICBzbHVnOiBzdHIsCiAgICBuYW1lOiBzdHIgfCBOb25lLAogICAgcHJlZml4OiBzdHIgfCBOb25lLAogICAgZmlyc3RfcGhhc2VfZGlyOiBzdHIsCiAgICBhcHBseTogYm9vbCwKKSAtPiB0dXBsZVtQcm9qZWN0LCBsaXN0W3N0cl1dOgogICAgZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQoKICAgIG5vdGVzOiBsaXN0W3N0cl0gPSBbXQogICAgcHJvamVjdF9kaXIgPSByb2FkbWFwX2Rpcihyb290KSAvIHNsdWcKICAgIHJlYWRtZSA9IHByb2plY3RfZGlyIC8gIlJFQURNRS5tZCIKICAgIGlmIG5vdCByZWFkbWUuZXhpc3RzKCk6CiAgICAgICAgbm90ZXMuYXBwZW5kKGYiY3JlYXRlIHtyZWwocmVhZG1lLCByb290KX0gKG1pbmltYWwgcHJvamVjdCBSRUFETUUpIikKICAgICAgICBpZiBhcHBseToKICAgICAgICAgICAgcHJvamVjdF9kaXIubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgICAgICAgICByZWFkbWUud3JpdGVfdGV4dCgKICAgICAgICAgICAgICAgIE1JTklNQUxfUkVBRE1FLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBuYW1lPW5hbWUgb3Igc2x1Zy5yZXBsYWNlKCItIiwgIiAiKS50aXRsZSgpLAogICAgICAgICAgICAgICAgICAgIGRhdGU9ZGF0ZS50b2RheSgpLmlzb2Zvcm1hdCgpLAogICAgICAgICAgICAgICAgICAgIHNsdWc9c2x1ZywKICAgICAgICAgICAgICAgICAgICBwcmVmaXg9cHJlZml4IG9yICJQUkoiLAogICAgICAgICAgICAgICAgICAgIGZpcnN0X3BoYXNlX2Rpcj1maXJzdF9waGFzZV9kaXIsCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgZW5jb2Rpbmc9InV0Zi04IiwKICAgICAgICAgICAgKQogICAgaWYgbm90IGFwcGx5IGFuZCBub3QgcmVhZG1lLmV4aXN0cygpOgogICAgICAgICMgUHJldmlldyBhZ2FpbnN0IGEgcHJvamVjdCB0aGF0IGRvZXMgbm90IGV4aXN0IHlldC4KICAgICAgICByZXR1cm4gUHJvamVjdChzbHVnLCBwcm9qZWN0X2RpciwgcHJlZml4IG9yICJQUkoiKSwgbm90ZXMKICAgIGZvciBwcm9qZWN0IGluIGRpc2NvdmVyX3Byb2plY3RzKHJvb3QpOgogICAgICAgIGlmIHByb2plY3Quc2x1ZyA9PSBzbHVnOgogICAgICAgICAgICByZXR1cm4gcHJvamVjdCwgbm90ZXMKICAgIHJldHVybiBnZXRfcHJvamVjdChyb290LCBzbHVnKSwgbm90ZXMKCgpkZWYgcnVuX2Fkb3B0aW9uKAogICAgcm9vdDogUGF0aCwKICAgIHJlcG9ydF9wYXRoOiBQYXRoLAogICAgc2x1Zzogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICBuYW1lOiBzdHIgfCBOb25lID0gTm9uZSwKICAgIHByZWZpeDogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICBhcHBseTogYm9vbCA9IEZhbHNlLAopIC0+IGRpY3Rbc3RyLCBvYmplY3RdOgogICAgaWYgbm90IHJlcG9ydF9wYXRoLmlzX2ZpbGUoKToKICAgICAgICBkaWUoZiJhZG9wdGlvbiByZXBvcnQgbm90IGZvdW5kOiB7cmVwb3J0X3BhdGh9IikKICAgIHJlcG9ydCA9IHBhcnNlX2Fkb3B0aW9uX3JlcG9ydChyZWFkX3RleHQocmVwb3J0X3BhdGgpKQogICAgc2x1ZyA9IHNsdWcgb3IgcmVwb3J0LnNsdWcKICAgIGlmIG5vdCBzbHVnOgogICAgICAgIGRpZSgiY291bGQgbm90IGRldGVybWluZSB0aGUgcHJvamVjdCBzbHVnOyBwYXNzIC0tcHJvamVjdCBvciBhZGQgdGhlIFJvYWRtYXAgcm9vdCBsaW5lIHRvIHRoZSByZXBvcnQiKQogICAgc2x1ZyA9IHNsdWdpZnkoc2x1ZykKICAgIHByZWZpeCA9IHByZWZpeCBvciByZXBvcnQucHJlZml4CgogICAgZmlyc3QgPSByZXBvcnQucGhhc2VzWzBdCiAgICBmaXJzdF9waGFzZV9kaXIgPSBmInBoYXNlLXtmaXJzdFsnbnVtYmVyJ119LXtzbHVnaWZ5KHN0cihmaXJzdFsndGl0bGUnXSkpfSIKICAgIHByb2plY3QsIG5vdGVzID0gX2Vuc3VyZV9wcm9qZWN0KHJvb3QsIHNsdWcsIG5hbWUsIHByZWZpeCwgZmlyc3RfcGhhc2VfZGlyLCBhcHBseSkKICAgIHBsYW5uZWQ6IGxpc3Rbc3RyXSA9IGxpc3Qobm90ZXMpCiAgICBhcHBsaWVkOiBsaXN0W3N0cl0gPSBbXQoKICAgIGlmIG5vdCBhcHBseToKICAgICAgICBmb3IgcGhhc2UgaW4gcmVwb3J0LnBoYXNlczoKICAgICAgICAgICAgcGhhc2VfZGlyID0gZiJwaGFzZS17cGhhc2VbJ251bWJlciddfS17c2x1Z2lmeShzdHIocGhhc2VbJ3RpdGxlJ10pKX0iCiAgICAgICAgICAgIHBsYW5uZWQuYXBwZW5kKGYiY3JlYXRlIHBtLXBoYXNlIHtwaGFzZV9kaXJ9LyAoZ29hbDoge3BoYXNlWydnb2FsJ119KSIpCiAgICAgICAgZm9yIHN0b3J5IGluIHJlcG9ydC5zdG9yaWVzOgogICAgICAgICAgICBwbGFubmVkLmFwcGVuZChmImNyZWF0ZSBzdG9yeSB7c3RvcnlbJ2lkJ119IOKAlCB7c3RvcnlbJ3RpdGxlJ119IikKICAgICAgICByZXR1cm4geyJtb2RlIjogInByZXZpZXciLCAicHJvamVjdCI6IHNsdWcsICJwbGFubmVkIjogcGxhbm5lZCwgImlzc3VlcyI6IFtdfQoKICAgIGZvciBwaGFzZSBpbiByZXBvcnQucGhhc2VzOgogICAgICAgIHBsYW4gPSBwbGFuX3BoYXNlX2NyZWF0ZSgKICAgICAgICAgICAgcm9vdCwgcHJvamVjdCwgaW50KHBoYXNlWyJudW1iZXIiXSksIHN0cihwaGFzZVsidGl0bGUiXSksIGdvYWw9c3RyKHBoYXNlWyJnb2FsIl0pIG9yIE5vbmUsIHN0YXR1cz0icGxhbm5lZCIKICAgICAgICApCiAgICAgICAgcmVzdWx0ID0gYXBwbHlfcGxhbihwbGFuLCB2YWxpZGF0ZV9hZnRlcj1GYWxzZSkKICAgICAgICBhcHBsaWVkLmV4dGVuZChyZXN1bHRbImNoYW5nZWQiXSkKICAgIGZvciBzdG9yeSBpbiByZXBvcnQuc3RvcmllczoKICAgICAgICBwaGFzZSA9IGdldF9waGFzZShwcm9qZWN0LCBzdHIoc3RvcnlbInBoYXNlIl0pKQogICAgICAgIHBsYW4gPSBwbGFuX3N0b3J5X2NyZWF0ZShyb290LCBwcm9qZWN0LCBwaGFzZSwgc3RyKHN0b3J5WyJ0aXRsZSJdKSwgc3RhdHVzPSJiYWNrbG9nIikKICAgICAgICByZXN1bHQgPSBhcHBseV9wbGFuKHBsYW4sIHZhbGlkYXRlX2FmdGVyPUZhbHNlKQogICAgICAgIGFwcGxpZWQuZXh0ZW5kKHJlc3VsdFsiY2hhbmdlZCJdKQoKICAgIGlzc3VlcyA9IGNoZWNrX3Byb2plY3QoZ2V0X3Byb2plY3Qocm9vdCwgc2x1ZyksIHJvb3QpCiAgICByZXR1cm4geyJtb2RlIjogImFwcGxpZWQiLCAicHJvamVjdCI6IHNsdWcsICJwbGFubmVkIjogcGxhbm5lZCwgImFwcGxpZWQiOiBhcHBsaWVkLCAiaXNzdWVzIjogaXNzdWVzfQo=
+"""The discovery-to-scaffold bridge: ``dw adopt --from-report``.
+
+Adoption discovery produces machine-parseable tables (Proposed Phase
+Index, Proposed First Stories). This module parses them — with
+line-numbered errors, refusing partial scaffolds — and turns them into
+the same phase/story mutation plans the CLI uses, behind a
+preview-then-apply flow. Nothing is written without ``--apply``.
+"""
+
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass, field
+from pathlib import Path
+
+from .model import STORY_ID_RE, Project, die
+from .parse import discover_projects, get_phase, get_project, split_table_row
+from .paths import read_text, rel, roadmap_dir, slugify
+from .mutations import apply_plan, plan_phase_create, plan_story_create
+from .validate import check_project
+
+PHASE_TABLE_HEADER = "| Phase | Title | Goal | Why now |"
+STORY_TABLE_HEADER = "| ID | Title | Acceptance evidence | Notes |"
+
+
+@dataclass
+class AdoptionReport:
+    phases: list[dict[str, object]] = field(default_factory=list)
+    stories: list[dict[str, object]] = field(default_factory=list)
+    slug: str | None = None
+    prefix: str | None = None
+
+
+def _table_rows(lines: list[str], heading: str, header: str) -> list[tuple[int, list[str]]]:
+    """Rows (1-based line number, cells) of the table under `heading`."""
+    rows: list[tuple[int, list[str]]] = []
+    in_section = False
+    in_table = False
+    for i, line in enumerate(lines, start=1):
+        if line.strip().startswith("## "):
+            if in_section:
+                break
+            in_section = line.strip().lower() == heading.lower()
+            continue
+        if not in_section:
+            continue
+        stripped = line.strip()
+        if stripped.startswith("| ") and stripped.replace(" ", "") == header.replace(" ", ""):
+            in_table = True
+            continue
+        if not in_table:
+            continue
+        if stripped.startswith("|---"):
+            continue
+        if not stripped.startswith("|"):
+            break
+        rows.append((i, split_table_row(line)))
+    return rows
+
+
+def parse_adoption_report(text: str) -> AdoptionReport:
+    lines = text.splitlines()
+    report = AdoptionReport()
+
+    m = re.search(r"\*\*Roadmap root:\*\*\s*`?pm/roadmap/([^/`\s]+)/?`?", text)
+    if m:
+        report.slug = m.group(1)
+
+    phase_rows = _table_rows(lines, "## Proposed Phase Index", PHASE_TABLE_HEADER)
+    if not phase_rows:
+        die(
+            "no 'Proposed Phase Index' table found (expected header "
+            f"'{PHASE_TABLE_HEADER}'); regenerate the report with the current "
+            "adoption-discovery prompt"
+        )
+    seen_numbers: set[int] = set()
+    for lineno, cells in phase_rows:
+        if len(cells) != 4:
+            die(f"malformed phase row at line {lineno}: expected 4 columns (Phase | Title | Goal | Why now), got {len(cells)}")
+        raw_number, title, goal = cells[0], cells[1], cells[2]
+        if not raw_number.isdigit():
+            die(f"malformed phase row at line {lineno}: phase must be a number, got {raw_number!r}")
+        number = int(raw_number)
+        if number in seen_numbers:
+            die(f"malformed phase row at line {lineno}: duplicate phase number {number}")
+        if not title.strip() or title.strip() in {"…", "..."}:
+            die(f"malformed phase row at line {lineno}: empty phase title")
+        seen_numbers.add(number)
+        report.phases.append({"number": number, "title": title.strip(), "goal": goal.strip()})
+
+    story_rows = _table_rows(lines, "## Proposed First Stories", STORY_TABLE_HEADER)
+    for lineno, cells in story_rows:
+        if len(cells) != 4:
+            die(f"malformed story row at line {lineno}: expected 4 columns (ID | Title | Acceptance evidence | Notes), got {len(cells)}")
+        story_id, title = cells[0].strip().strip("`"), cells[1].strip()
+        id_match = STORY_ID_RE.match(story_id)
+        if not id_match:
+            die(f"malformed story row at line {lineno}: ID {story_id!r} does not match PREFIX-phase-number")
+        phase_number = int(id_match.group(2))
+        if phase_number not in seen_numbers:
+            die(f"malformed story row at line {lineno}: story {story_id} references phase {phase_number}, which is not in the phase index")
+        if not title or title in {"…", "..."}:
+            die(f"malformed story row at line {lineno}: empty story title")
+        if report.prefix is None:
+            report.prefix = id_match.group(1)
+        report.stories.append({"id": story_id, "phase": phase_number, "title": title})
+
+    return report
+
+
+MINIMAL_README = """# {name} - Roadmap
+
+**Last updated:** {date}.
+**Current phase:** [{first_phase_dir}](./{first_phase_dir}/current-phase-status.md).
+**Status:** active.
+
+## Vision
+
+Seeded from the adoption discovery report; refine as the roadmap grows.
+
+## Phase index
+
+| Phase | Goal (one line) | Status | Folder |
+|---|---|---|---|
+
+## Project metadata
+
+- **Slug:** `{slug}`
+- **Story ID prefix:** {prefix}
+"""
+
+
+def _ensure_project(
+    root: Path,
+    slug: str,
+    name: str | None,
+    prefix: str | None,
+    first_phase_dir: str,
+    apply: bool,
+) -> tuple[Project, list[str]]:
+    from datetime import date
+
+    notes: list[str] = []
+    project_dir = roadmap_dir(root) / slug
+    readme = project_dir / "README.md"
+    if not readme.exists():
+        notes.append(f"create {rel(readme, root)} (minimal project README)")
+        if apply:
+            project_dir.mkdir(parents=True, exist_ok=True)
+            readme.write_text(
+                MINIMAL_README.format(
+                    name=name or slug.replace("-", " ").title(),
+                    date=date.today().isoformat(),
+                    slug=slug,
+                    prefix=prefix or "PRJ",
+                    first_phase_dir=first_phase_dir,
+                ),
+                encoding="utf-8",
+            )
+    if not apply and not readme.exists():
+        # Preview against a project that does not exist yet.
+        return Project(slug, project_dir, prefix or "PRJ"), notes
+    for project in discover_projects(root):
+        if project.slug == slug:
+            return project, notes
+    return get_project(root, slug), notes
+
+
+def run_adoption(
+    root: Path,
+    report_path: Path,
+    slug: str | None = None,
+    name: str | None = None,
+    prefix: str | None = None,
+    apply: bool = False,
+) -> dict[str, object]:
+    if not report_path.is_file():
+        die(f"adoption report not found: {report_path}")
+    report = parse_adoption_report(read_text(report_path))
+    slug = slug or report.slug
+    if not slug:
+        die("could not determine the project slug; pass --project or add the Roadmap root line to the report")
+    slug = slugify(slug)
+    prefix = prefix or report.prefix
+
+    first = report.phases[0]
+    first_phase_dir = f"phase-{first['number']}-{slugify(str(first['title']))}"
+    project, notes = _ensure_project(root, slug, name, prefix, first_phase_dir, apply)
+    planned: list[str] = list(notes)
+    applied: list[str] = []
+
+    if not apply:
+        for phase in report.phases:
+            phase_dir = f"phase-{phase['number']}-{slugify(str(phase['title']))}"
+            planned.append(f"create pm-phase {phase_dir}/ (goal: {phase['goal']})")
+        for story in report.stories:
+            planned.append(f"create story {story['id']} — {story['title']}")
+        return {"mode": "preview", "project": slug, "planned": planned, "issues": []}
+
+    for phase in report.phases:
+        plan = plan_phase_create(
+            root, project, int(phase["number"]), str(phase["title"]), goal=str(phase["goal"]) or None, status="planned"
+        )
+        result = apply_plan(plan, validate_after=False)
+        applied.extend(result["changed"])
+    for story in report.stories:
+        phase = get_phase(project, str(story["phase"]))
+        plan = plan_story_create(root, project, phase, str(story["title"]), status="backlog")
+        result = apply_plan(plan, validate_after=False)
+        applied.extend(result["changed"])
+
+    issues = check_project(get_project(root, slug), root)
+    return {"mode": "applied", "project": slug, "planned": planned, "applied": applied, "issues": issues}

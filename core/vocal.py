@@ -1,1 +1,160 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrlj5Hpn7PvvJrku47niannkIbplb/lh7rmnaXvvIzkuI3mmK/oo4XkuKogVFRTIOaooeWdlwo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CueUqOaIt+WOn+ivne+8muOAjOWujOWFqOWDj+S6uuexu+mCo+agt+aAneiAg+OAguS6uuaYr+WmguS9leWPkemfs+eahO+8n+aYr+aAjuS5iOWtpuS5oOWPkemfs+eahO+8n+OAjQoK4piFIOS6uuS5i+WPkemfs+eahOeJqeeQhumTvu+8iOS4jeaYr+aooeWdl+a4heWNle+8jOaYr+S4gOadoeWboOaenOmTvu+8ie+8mgogICAg6IK6IOKGkiDmsJTmtYHvvIjog73ph4/vvIzmjqXnrKwy5q2l5ZG85ZC45pys6IO977ya5rKh5rCU5bCx5rKh5aOw77yJCiAgICDihpMKICAgIOWjsOW4piDihpIg5Z+66aKRIEYw77yI5aOw5bim6LaK55+t6LaK6JaE77yMRjAg6LaK6auYIOKGkiDlqbTlhL/mr5TmiJDkurrpq5jvvIkKICAgIOKGkwogICAg5aOw6YGT77yI5LiA5qC557qmIDE3LjVjbSDnmoTnrqHlrZDvvInihpIg5YWx5oyv5bOwIEZuID0gKDJuLTEpwrdjLyg0TCkKICAgIOKGkwogICAg6IiM5aS0L+WYtOWUhy/kuIvpoozosIPpn7Mg4oaSIOaUueWPmOeuoeWtkOeahOW9oueKtiDihpIg5pS55Y+Y5YWx5oyv5bOwCiAgICDihpMKICAgIOWFg+mfs+eUsSBGMS9GMiDlhrPlrprvvJpGMeKGkOiIjOS9jemrmOS9ju+8jEYy4oaQ6IiM5L2N5YmN5ZCO77yM5ZyG5ZSH5Y6L5L2OIEYyCgrimIUg5a2m5Lmg5LiN5piv6K6t57uD77yM5piv6Zet546v77yI55yf5Lq657G75Y+R5bGV6Lev5b6E77yJ77yaCiAgICA2LTEw5pyIIGJhYmJsaW5n77ya6ZqP5py65Yqo6IiM5aS0IOKGkiDkubHlj6sKICAgIOiHquWQrO+8muWQrOingeiHquW3seeahOWjsOmfs++8jOW7uueri+OAjOi/kOWKqOKGkuWjsOmfs+OAjeaYoOWwhAogICAg56S+5Lya77ya54i25q+N5a+55o6l6L+R5q+N6K+t55qE5Y+r5aOw5Y+N5bqU5pu05by677yI55yf5a6e546w6LGh77yJCiAgICAxMuaciOWQju+8muaUtuaVm+WIsOavjeivremfs+e0oAoK4piFIOS4iee7hOWIhu+8iOWvueW6lOecn+WunuWPkeWxle+8jOS4jeaYr+aIkee8lueahOWvueeFp++8ie+8mgogICAgQSDml6Doh6rlkKzml6DnpL7kvJog4oaSIOS5seWKqO+8jOS4jeaUtuaVmwogICAgQiDmnInoh6rlkKzml6DnpL7kvJog4oaSIOW9ouaIkOiHquW3seeahOWOn+Wei++8jOS9huS4jeWvuem9kOavjeivrQogICAgQyDmnInoh6rlkKwr56S+5LyaICDihpIg5Y6f5Z6L5a+56b2Q5q+N6K+tCgpwcm92ZW5hbmNl77yaCiAgICDlhbHmjK/ls7DlhazlvI8v5aOw6YCfL+WjsOmBk+mVv+W6pi/lhYPpn7Plrp7mtYvlgLwgPSBSRUFM77yI5pWZ56eR5Lmm57qn5YWs5byA5pWw5o2u77yJCiAgICDlrabkuaDnu5PmnpwgPSDmnKzmspnnm5LnnJ/ot5EKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IG1hdGgKaW1wb3J0IG51bXB5IGFzIG5wCgpDX1NPVU5EID0gMzUwMDAuMCAgICAgICAgICAjIGNtL3PvvIzkvZPmuKnnqbrmsJTlo7DpgJ/vvIhSRUFM77yJCgojIOWjsOmBk+mVv+W6pu+8iFJFQUzvvIzmlZnnp5HkuablgLzvvIkKTF9BRFVMVF9NQUxFID0gMTcuNSAgICAgICAgIyBjbQpMX0FEVUxUX0ZFTUFMRSA9IDE1LjAKTF9JTkZBTlQgPSA5LjAgICAgICAgICAgICAgIyDlqbTlhL/lo7DpgZPnn60g4oaSIOWFseaMr+WzsOe6puaIkOS6uiAyIOWAjQoKIyDln7rpopHvvIhSRUFM77yJCkYwX01BTEUsIEYwX0ZFTUFMRSwgRjBfSU5GQU5UID0gMTIwLjAsIDIxMC4wLCA0MzAuMAoKIyDnnJ/lrp7lhYPpn7PlhbHmjK/ls7DvvIhQZXRlcnNvbiAmIEJhcm5leSAxOTUy77yM55S35aOw77yMUkVBTO+8iQpWT1dFTFNfUkVBTCA9IHsKICAgICJpIjogICgyNzAsIDIyOTApLCAgICMgaGVlZAogICAgIsmqIjogICgzOTAsIDE5OTApLCAgICMgaGlkCiAgICAiZSI6ICAoNTMwLCAxODQwKSwgICAjIGhhZGUKICAgICLDpiI6ICAoNjYwLCAxNzIwKSwgICAjIGhhZAogICAgIsmRIjogICg3MzAsIDEwOTApLCAgICMgaG9kCiAgICAiyZQiOiAgKDU3MCwgIDg0MCksICAgIyBoYXdlZAogICAgIsqKIjogICg0NDAsIDEwMjApLCAgICMgaG9vZAogICAgInUiOiAgKDMwMCwgIDg3MCksICAgIyB3aG8nZAp9CgoKZGVmIGZvcm1hbnRzX25ldXRyYWwoTD1MX0FEVUxUX01BTEUpOgogICAgIiIi5Z2H5YyA566h5YWx5oyv5bOw77yIUkVBTCDlhazlvI/vvInjgIIiIiIKICAgIHJldHVybiBbKDIgKiBuIC0gMSkgKiBDX1NPVU5EIC8gKDQuMCAqIEwpIGZvciBuIGluICgxLCAyLCAzKV0KCgpjbGFzcyBWb2NhbFRyYWN0OgogICAgIiIi5aOw6YGT77ya6IiM5L2NL+WchuWUhyDihpIg5YWx5oyv5bOw44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIEw9TF9BRFVMVF9NQUxFLCBmMD1GMF9NQUxFLAogICAgICAgICAgICAgICAgIGJyZWF0aD0xLjApOgogICAgICAgIHNlbGYuTCA9IEwKICAgICAgICBzZWxmLmYwID0gZjAKICAgICAgICBzZWxmLmJyZWF0aCA9IGJyZWF0aCAgICAgICAgICAjIOiCuuawlOa1ge+8iDB+Me+8jOaOpeWRvOWQuOacrOiDve+8iQogICAgICAgIGJhc2UgPSBmb3JtYW50c19uZXV0cmFsKEwpCiAgICAgICAgc2VsZi5iMSwgc2VsZi5iMiwgc2VsZi5iMyA9IGJhc2UKCiAgICBkZWYgYXJ0aWN1bGF0ZShzZWxmLCBoZWlnaHQsIGZyb250LCByb3VuZF8pOgogICAgICAgICIiIgogICAgICAgIOiwg+mfsyDihpIgKEYxLCBGMiwgRjMpCiAgICAgICAgICBoZWlnaHQg6IiM5L2N6auY5L2OIDAo5L2OKX4xKOmrmCnvvJrotorpq5ggRjEg6LaK5L2OCiAgICAgICAgICBmcm9udCAg6IiM5L2N5YmN5ZCOIDAo5ZCOKX4xKOWJjSnvvJrotorliY0gRjIg6LaK6auYCiAgICAgICAgICByb3VuZF8g5ZyG5ZSHICAgMH4xICAgICAgICAgIO+8muWchuWUh+WOi+S9jiBGMgogICAgICAgICIiIgogICAgICAgIGgsIGYsIHIgPSAoZmxvYXQobnAuY2xpcCh4LCAwLjAsIDEuMCkpIGZvciB4IGluIChoZWlnaHQsIGZyb250LCByb3VuZF8pKQogICAgICAgICMg4piFIOesrOS4gOeJiOmUmeWcqOi/memHjO+8mmYxID0gYjEqKDEtMC40NGgpIOS4i+mZkOWPquiDveWIsCA1MDAqKDEtMC40NCk9Mjgw77yMCiAgICAgICAgIyAgIOiAjOS9juiIjOS9jeWFg+mfsygvyZEvIDczMOOAgS/Dpi8gNjYw44CBL8mULyA1NzAp55qEIEYxIOOAkOmrmOS6juOAkeS4reaAp+euoSA1MDAKICAgICAgICAjICAg4oaSIOWunua1iyA0IOS4quWFg+mfsyBGMSDlhajooqvljaHlnKggNTAw44CC5pS55oiQ6KaG55uWIDczMCjkvY4pfjI3MCjpq5gpIOWFqOWMuumXtOOAggogICAgICAgICMg4piFIOesrOS6jOeJiOmUmeWcqOi/memHjO+8mnNlbGYuYjEvYjIvYjMg5p2l6IeqIGZvcm1hbnRzX25ldXRyYWwoc2VsZi5MKe+8jAogICAgICAgICMgICDjgJDlt7Lnu4/jgJHmjInlo7DpgZPplb/luqbnrpfov4fkuobvvIhGbj0oMm4tMSljLzRM77yJ44CC5oiR5Y+I5LmY5LqG5LiA6YGNCiAgICAgICAgIyAgIHM9TF9BRFVMVF9NQUxFL0wg4oaSIOWptOWEv+WjsOmBk+iiq+e8qeaUvuS4pOasoe+8iDE4OTAg6ICM6Z2eIDk3Mu+8ieOAggogICAgICAgICMgICDnu5PmnpzlqbTlhL/nu4QgaGl0cz0w77yM5oiR5beu54K55oqK5a6D5b2T5oiQIuecn+WunueOsOixoSLmiqXlh7rljrvjgIIKICAgICAgICAjICAg4piFIOS/ru+8muWOu+aOiSBz44CC5oiQ5Lq6IHM9MSDkuI3lj5flvbHlk43vvIzljp8gOC84IOWFg+mfs+mqjOivgeS7jeaIkOeri+OAggogICAgICAgIGYxID0gc2VsZi5iMSAqICgxLjQ2IC0gMC45MiAqIGgpICAgICAgICAgICAgICMg5oiQ5Lq6IGg9MOKGkjczMCwgaD0x4oaSMjcwCiAgICAgICAgZjIgPSBzZWxmLmIyICogKDAuNTggKyAwLjkwICogZikgKiAoMS4wIC0gMC4yNSAqIHIpCiAgICAgICAgZjMgPSBzZWxmLmIzICogKDEuMCArIDAuMjAgKiBmKQogICAgICAgIHJldHVybiBmbG9hdChmMSksIGZsb2F0KGYyKSwgZmxvYXQoZjMpCgogICAgZGVmIHBob25hdGUoc2VsZiwgaGVpZ2h0LCBmcm9udCwgcm91bmRfKToKICAgICAgICAiIiLlj5Hlo7DvvJrmsqHmsJTlsLHmsqHlo7DvvIjov5nmmK/niannkIbvvIzkuI3mmK/op4TliJnvvInjgIIiIiIKICAgICAgICBpZiBzZWxmLmJyZWF0aCA8PSAwLjA1OgogICAgICAgICAgICByZXR1cm4gTm9uZSAgICAgICAgICAgICAgICAgICAgICAjIOWPkeS4jeWHugogICAgICAgIGYxLCBmMiwgZjMgPSBzZWxmLmFydGljdWxhdGUoaGVpZ2h0LCBmcm9udCwgcm91bmRfKQogICAgICAgIGFtcCA9IHNlbGYuYnJlYXRoCiAgICAgICAgcmV0dXJuIGRpY3QoZjA9c2VsZi5mMCwgZjE9ZjEsIGYyPWYyLCBmMz1mMywgYW1wPWFtcCkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgbW9kZWxfZXJyb3IoKToKICAgICIiIuaooeWei+mihOa1iyB2cyBQZXRlcnNvbiZCYXJuZXkg5a6e5rWL77yI56Gs6aqM6K+B77ya5qih5Z6L5a+55LiN5a+577yJ44CCIiIiCiAgICB2dCA9IFZvY2FsVHJhY3QoTD1MX0FEVUxUX01BTEUpCiAgICAjIOavj+S4quecn+WunuWFg+mfs+WPjeino+WHuuacgOWMuemFjeeahOiwg+mfs+WPguaVsO+8iOe9keagvOaQnOe0ou+8iQogICAgcm93cyA9IFtdCiAgICBmb3IgbmFtZSwgKHRmMSwgdGYyKSBpbiBWT1dFTFNfUkVBTC5pdGVtcygpOgogICAgICAgIGJlc3QgPSBOb25lCiAgICAgICAgZm9yIGggaW4gbnAubGluc3BhY2UoMCwgMSwgNDEpOgogICAgICAgICAgICBmb3IgZiBpbiBucC5saW5zcGFjZSgwLCAxLCA0MSk6CiAgICAgICAgICAgICAgICBmb3IgciBpbiBucC5saW5zcGFjZSgwLCAxLCAxMSk6CiAgICAgICAgICAgICAgICAgICAgcDEsIHAyLCBfID0gdnQuYXJ0aWN1bGF0ZShoLCBmLCByKQogICAgICAgICAgICAgICAgICAgIGQgPSBhYnMocDEgLSB0ZjEpIC8gdGYxICsgYWJzKHAyIC0gdGYyKSAvIHRmMgogICAgICAgICAgICAgICAgICAgIGlmIGJlc3QgaXMgTm9uZSBvciBkIDwgYmVzdFswXToKICAgICAgICAgICAgICAgICAgICAgICAgYmVzdCA9IChkLCBoLCBmLCByLCBwMSwgcDIpCiAgICAgICAgcm93cy5hcHBlbmQoKG5hbWUsIHRmMSwgdGYyLCBiZXN0WzRdLCBiZXN0WzVdLCBiZXN0WzBdKSkKICAgIHJldHVybiByb3dzCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDc4KQogICAgcHJpbnQoIiDlj5Hpn7PniannkIblsYLnmoTnoazpqozor4HvvJrmqKHlnosgdnMg55yf5Lq65a6e5rWL77yIUGV0ZXJzb24gJiBCYXJuZXkgMTk1Mu+8iSIpCiAgICBwcmludCgiPSIgKiA3OCkKICAgIHByaW50KGYiXG57J+WFg+mfsyc6PDZ9eyfnnJ/lrp5GMSc6Pjh9eyfnnJ/lrp5GMic6Pjh9eyfmqKHlnotGMSc6Pjl9eyfmqKHlnotGMic6Pjl9eyfnm7jlr7nor6/lt64nOj4xMH0iKQogICAgcHJpbnQoIi0iICogNzgpCiAgICByb3dzID0gbW9kZWxfZXJyb3IoKQogICAgZXJycyA9IFtdCiAgICBmb3IgbmFtZSwgdDEsIHQyLCBwMSwgcDIsIGQgaW4gcm93czoKICAgICAgICBwcmludChmIntuYW1lOjw2fXt0MTo+OC4wZn17dDI6PjguMGZ9e3AxOj45LjBmfXtwMjo+OS4wZn17ZDo+MTAuM2Z9IikKICAgICAgICBlcnJzLmFwcGVuZChkKQogICAgcHJpbnQoIi0iICogNzgpCiAgICBwcmludChmIiAg5bmz5Z2H55u45a+56K+v5beuIHtucC5tZWFuKGVycnMpOi40Zn0gICDmnIDlpKcge21heChlcnJzKTouNGZ9IikKICAgIHByaW50KGYiICDimIUgOCDkuKrlhYPpn7Pph4zor6/lt648MC4xMCDnmoTvvJp7c3VtKDEgZm9yIGUgaW4gZXJycyBpZiBlPDAuMTApfS84IikKCiAgICBwcmludCgiXG4iICsgIj0iICogNzgpCiAgICBwcmludCgiIOWjsOmBk+mVv+W6piDihpIg5YWx5oyv5bOw77yI5am05YS/5Li65LuA5LmI5aOw6Z+z5bCW77yJIikKICAgIHByaW50KCI9IiAqIDc4KQogICAgZm9yIGxibCwgTCwgZjAgaW4gWygi5oiQ5Lq655S3IiwgTF9BRFVMVF9NQUxFLCBGMF9NQUxFKSwKICAgICAgICAgICAgICAgICAgICAgICAoIuaIkOS6uuWlsyIsIExfQURVTFRfRkVNQUxFLCBGMF9GRU1BTEUpLAogICAgICAgICAgICAgICAgICAgICAgICgi5am05YS/IiwgTF9JTkZBTlQsIEYwX0lORkFOVCldOgogICAgICAgIGYgPSBmb3JtYW50c19uZXV0cmFsKEwpCiAgICAgICAgcHJpbnQoZiIgIHtsYmw6PDZ9IEw9e0w6PjUuMWZ9Y20gIEYwPXtmMDo+NS4wZn1IeiAgIgogICAgICAgICAgICAgIGYiRjE9e2ZbMF06PjYuMGZ9ICBGMj17ZlsxXTo+Ni4wZn0gIEYzPXtmWzJdOj42LjBmfSIpCiAgICByID0gZm9ybWFudHNfbmV1dHJhbChMX0lORkFOVClbMF0gLyBmb3JtYW50c19uZXV0cmFsKExfQURVTFRfTUFMRSlbMF0KICAgIHByaW50KGYiXG4gIOKYhSDlqbTlhL8gRjEgLyDmiJDkurogRjEgPSB7cjouMmZ9ICDvvIjnnJ/lrp7nuqYgMiDlgI3vvJrlqbTlhL/lo7DpgZPnn63vvIkiKQoKICAgIHByaW50KCJcbiIgKyAiPSIgKiA3OCkKICAgIHByaW50KCIg5rKh5rCU5bCx5rKh5aOw77yI5o6l56ysMuatpeWRvOWQuOacrOiDve+8iSIpCiAgICBwcmludCgiPSIgKiA3OCkKICAgIGZvciBiIGluIFsxLjAsIDAuNSwgMC4xLCAwLjAyXToKICAgICAgICB2dCA9IFZvY2FsVHJhY3QoYnJlYXRoPWIpCiAgICAgICAgcyA9IHZ0LnBob25hdGUoMC41LCAwLjUsIDAuMCkKICAgICAgICBwcmludChmIiAg6IK65rCU5rWBIHtiOjw1fSDihpIgeydGMT0lLjBmIEh6LCDluYXluqYlLjJmJyUoc1snZjEnXSxzWydhbXAnXSkgaWYgcyBlbHNlICflj5HkuI3lh7rlo7AnfSIpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+发音：从物理长出来，不是装个 TTS 模块
+================================================================
+用户原话：「完全像人类那样思考。人是如何发音的？是怎么学习发音的？」
+
+★ 人之发音的物理链（不是模块清单，是一条因果链）：
+    肺 → 气流（能量，接第2步呼吸本能：没气就没声）
+    ↓
+    声带 → 基频 F0（声带越短越薄，F0 越高 → 婴儿比成人高）
+    ↓
+    声道（一根约 17.5cm 的管子）→ 共振峰 Fn = (2n-1)·c/(4L)
+    ↓
+    舌头/嘴唇/下颌调音 → 改变管子的形状 → 改变共振峰
+    ↓
+    元音由 F1/F2 决定：F1←舌位高低，F2←舌位前后，圆唇压低 F2
+
+★ 学习不是训练，是闭环（真人类发展路径）：
+    6-10月 babbling：随机动舌头 → 乱叫
+    自听：听见自己的声音，建立「运动→声音」映射
+    社会：父母对接近母语的叫声反应更强（真实现象）
+    12月后：收敛到母语音素
+
+★ 三组分（对应真实发展，不是我编的对照）：
+    A 无自听无社会 → 乱动，不收敛
+    B 有自听无社会 → 形成自己的原型，但不对齐母语
+    C 有自听+社会  → 原型对齐母语
+
+provenance：
+    共振峰公式/声速/声道长度/元音实测值 = REAL（教科书级公开数据）
+    学习结果 = 本沙盒真跑
+"""
+from __future__ import annotations
+import math
+import numpy as np
+
+C_SOUND = 35000.0          # cm/s，体温空气声速（REAL）
+
+# 声道长度（REAL，教科书值）
+L_ADULT_MALE = 17.5        # cm
+L_ADULT_FEMALE = 15.0
+L_INFANT = 9.0             # 婴儿声道短 → 共振峰约成人 2 倍
+
+# 基频（REAL）
+F0_MALE, F0_FEMALE, F0_INFANT = 120.0, 210.0, 430.0
+
+# 真实元音共振峰（Peterson & Barney 1952，男声，REAL）
+VOWELS_REAL = {
+    "i":  (270, 2290),   # heed
+    "ɪ":  (390, 1990),   # hid
+    "e":  (530, 1840),   # hade
+    "æ":  (660, 1720),   # had
+    "ɑ":  (730, 1090),   # hod
+    "ɔ":  (570,  840),   # hawed
+    "ʊ":  (440, 1020),   # hood
+    "u":  (300,  870),   # who'd
+}
+
+
+def formants_neutral(L=L_ADULT_MALE):
+    """均匀管共振峰（REAL 公式）。"""
+    return [(2 * n - 1) * C_SOUND / (4.0 * L) for n in (1, 2, 3)]
+
+
+class VocalTract:
+    """声道：舌位/圆唇 → 共振峰。"""
+
+    def __init__(self, L=L_ADULT_MALE, f0=F0_MALE,
+                 breath=1.0):
+        self.L = L
+        self.f0 = f0
+        self.breath = breath          # 肺气流（0~1，接呼吸本能）
+        base = formants_neutral(L)
+        self.b1, self.b2, self.b3 = base
+
+    def articulate(self, height, front, round_):
+        """
+        调音 → (F1, F2, F3)
+          height 舌位高低 0(低)~1(高)：越高 F1 越低
+          front  舌位前后 0(后)~1(前)：越前 F2 越高
+          round_ 圆唇   0~1          ：圆唇压低 F2
+        """
+        h, f, r = (float(np.clip(x, 0.0, 1.0)) for x in (height, front, round_))
+        # ★ 第一版错在这里：f1 = b1*(1-0.44h) 下限只能到 500*(1-0.44)=280，
+        #   而低舌位元音(/ɑ/ 730、/æ/ 660、/ɔ/ 570)的 F1 【高于】中性管 500
+        #   → 实测 4 个元音 F1 全被卡在 500。改成覆盖 730(低)~270(高) 全区间。
+        # ★ 第二版错在这里：self.b1/b2/b3 来自 formants_neutral(self.L)，
+        #   【已经】按声道长度算过了（Fn=(2n-1)c/4L）。我又乘了一遍
+        #   s=L_ADULT_MALE/L → 婴儿声道被缩放两次（1890 而非 972）。
+        #   结果婴儿组 hits=0，我差点把它当成"真实现象"报出去。
+        #   ★ 修：去掉 s。成人 s=1 不受影响，原 8/8 元音验证仍成立。
+        f1 = self.b1 * (1.46 - 0.92 * h)             # 成人 h=0→730, h=1→270
+        f2 = self.b2 * (0.58 + 0.90 * f) * (1.0 - 0.25 * r)
+        f3 = self.b3 * (1.0 + 0.20 * f)
+        return float(f1), float(f2), float(f3)
+
+    def phonate(self, height, front, round_):
+        """发声：没气就没声（这是物理，不是规则）。"""
+        if self.breath <= 0.05:
+            return None                      # 发不出
+        f1, f2, f3 = self.articulate(height, front, round_)
+        amp = self.breath
+        return dict(f0=self.f0, f1=f1, f2=f2, f3=f3, amp=amp)
+
+
+# ------------------------------------------------------------------
+def model_error():
+    """模型预测 vs Peterson&Barney 实测（硬验证：模型对不对）。"""
+    vt = VocalTract(L=L_ADULT_MALE)
+    # 每个真实元音反解出最匹配的调音参数（网格搜索）
+    rows = []
+    for name, (tf1, tf2) in VOWELS_REAL.items():
+        best = None
+        for h in np.linspace(0, 1, 41):
+            for f in np.linspace(0, 1, 41):
+                for r in np.linspace(0, 1, 11):
+                    p1, p2, _ = vt.articulate(h, f, r)
+                    d = abs(p1 - tf1) / tf1 + abs(p2 - tf2) / tf2
+                    if best is None or d < best[0]:
+                        best = (d, h, f, r, p1, p2)
+        rows.append((name, tf1, tf2, best[4], best[5], best[0]))
+    return rows
+
+
+if __name__ == "__main__":
+    print("=" * 78)
+    print(" 发音物理层的硬验证：模型 vs 真人实测（Peterson & Barney 1952）")
+    print("=" * 78)
+    print(f"\n{'元音':<6}{'真实F1':>8}{'真实F2':>8}{'模型F1':>9}{'模型F2':>9}{'相对误差':>10}")
+    print("-" * 78)
+    rows = model_error()
+    errs = []
+    for name, t1, t2, p1, p2, d in rows:
+        print(f"{name:<6}{t1:>8.0f}{t2:>8.0f}{p1:>9.0f}{p2:>9.0f}{d:>10.3f}")
+        errs.append(d)
+    print("-" * 78)
+    print(f"  平均相对误差 {np.mean(errs):.4f}   最大 {max(errs):.4f}")
+    print(f"  ★ 8 个元音里误差<0.10 的：{sum(1 for e in errs if e<0.10)}/8")
+
+    print("\n" + "=" * 78)
+    print(" 声道长度 → 共振峰（婴儿为什么声音尖）")
+    print("=" * 78)
+    for lbl, L, f0 in [("成人男", L_ADULT_MALE, F0_MALE),
+                       ("成人女", L_ADULT_FEMALE, F0_FEMALE),
+                       ("婴儿", L_INFANT, F0_INFANT)]:
+        f = formants_neutral(L)
+        print(f"  {lbl:<6} L={L:>5.1f}cm  F0={f0:>5.0f}Hz  "
+              f"F1={f[0]:>6.0f}  F2={f[1]:>6.0f}  F3={f[2]:>6.0f}")
+    r = formants_neutral(L_INFANT)[0] / formants_neutral(L_ADULT_MALE)[0]
+    print(f"\n  ★ 婴儿 F1 / 成人 F1 = {r:.2f}  （真实约 2 倍：婴儿声道短）")
+
+    print("\n" + "=" * 78)
+    print(" 没气就没声（接第2步呼吸本能）")
+    print("=" * 78)
+    for b in [1.0, 0.5, 0.1, 0.02]:
+        vt = VocalTract(breath=b)
+        s = vt.phonate(0.5, 0.5, 0.0)
+        print(f"  肺气流 {b:<5} → {'F1=%.0f Hz, 幅度%.2f'%(s['f1'],s['amp']) if s else '发不出声'}")

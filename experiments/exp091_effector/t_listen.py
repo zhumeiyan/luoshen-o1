@@ -1,1 +1,34 @@
-aW1wb3J0IG9zLCBzdHJ1Y3QsIHRpbWUsIHRocmVhZGluZwpmcm9tIHVpbnB1dF9kZXYgaW1wb3J0ICoKCm5hbWU9J0xTSUxJQ09OLUtCRDInCmtiPVZEZXYobmFtZSwga2V5cz1bMzAsNDgsNDYsNTcsMjhdKQpub2RlPWZpbmRfZXZlbnRfbm9kZShuYW1lKQpwcmludCgnbm9kZTonLCBub2RlKQoKZmQ9b3Mub3Blbihub2RlLCBvcy5PX1JET05MWSkgICAjIOmYu+Whnu+8jOWFiOW8oOiAswpidWY9W10Kc3RvcD1bRmFsc2VdCmRlZiBwdW1wKCk6CiAgICB3aGlsZSBub3Qgc3RvcFswXToKICAgICAgICB0cnk6IGQ9b3MucmVhZChmZCwgRVZfU0laRSozMikKICAgICAgICBleGNlcHQgT1NFcnJvcjogYnJlYWsKICAgICAgICBmb3IgaSBpbiByYW5nZSgwLGxlbihkKS1FVl9TSVpFKzEsIEVWX1NJWkUpOgogICAgICAgICAgICBzLHUsdCxjLHY9c3RydWN0LnVucGFjayhFVl9GTVQsZFtpOmkrRVZfU0laRV0pCiAgICAgICAgICAgIGJ1Zi5hcHBlbmQoKHQsYyx2KSkKdGg9dGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9cHVtcCxkYWVtb249VHJ1ZSk7IHRoLnN0YXJ0KCkKdGltZS5zbGVlcCgwLjIpCgpzZXE9WzMwLDQ4LDQ2LDU3LDI4XQpmb3IgayBpbiBzZXE6IGtiLnRhcChrKQp0aW1lLnNsZWVwKDAuNSk7IHN0b3BbMF09VHJ1ZTsgdGltZS5zbGVlcCgwLjIpCm9zLmNsb3NlKGZkKTsga2IuY2xvc2UoKQoKa2V5cz1bKGMsdikgZm9yICh0LGMsdikgaW4gYnVmIGlmIHQ9PUVWX0tFWV0KZG93bnM9W2MgZm9yIChjLHYpIGluIGtleXMgaWYgdj09MV0KdXBzICA9W2MgZm9yIChjLHYpIGluIGtleXMgaWYgdj09MF0KcHJpbnQoJ3RvdGFsIGV2ZW50czonLCBsZW4oYnVmKSkKcHJpbnQoJ0tFWSBkb3duIGNvZGVzOicsIGRvd25zKQpwcmludCgnS0VZIHVwICAgY29kZXM6JywgdXBzKQpwcmludCgnTUFUQ0ggZG93bj09c2VxOicsIGRvd25zPT1zZXEpCnByaW50KCdNQVRDSCB1cD09c2VxICA6JywgdXBzPT1zZXEpCg==
+import os, struct, time, threading
+from uinput_dev import *
+
+name='LSILICON-KBD2'
+kb=VDev(name, keys=[30,48,46,57,28])
+node=find_event_node(name)
+print('node:', node)
+
+fd=os.open(node, os.O_RDONLY)   # 阻塞，先张耳
+buf=[]
+stop=[False]
+def pump():
+    while not stop[0]:
+        try: d=os.read(fd, EV_SIZE*32)
+        except OSError: break
+        for i in range(0,len(d)-EV_SIZE+1, EV_SIZE):
+            s,u,t,c,v=struct.unpack(EV_FMT,d[i:i+EV_SIZE])
+            buf.append((t,c,v))
+th=threading.Thread(target=pump,daemon=True); th.start()
+time.sleep(0.2)
+
+seq=[30,48,46,57,28]
+for k in seq: kb.tap(k)
+time.sleep(0.5); stop[0]=True; time.sleep(0.2)
+os.close(fd); kb.close()
+
+keys=[(c,v) for (t,c,v) in buf if t==EV_KEY]
+downs=[c for (c,v) in keys if v==1]
+ups  =[c for (c,v) in keys if v==0]
+print('total events:', len(buf))
+print('KEY down codes:', downs)
+print('KEY up   codes:', ups)
+print('MATCH down==seq:', downs==seq)
+print('MATCH up==seq  :', ups==seq)

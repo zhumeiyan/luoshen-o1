@@ -1,1 +1,92 @@
-IiIiZXhwMTMxIGFuYWx5c2lzIOKAlCB3aHkgaXMgcHJlY2lzaW9uIGxvdz8gU2VwYXJhdGUgdGhlIHRocmVlIGNhbmRpZGF0ZSBjYXVzZXMuCgpDYXVzZSAxICBGSUxFIFJPTEU6IGZpbmRpbmdzIG9uIGV4YW1wbGVzL2RvY3Mgc2NyaXB0cyBhcmUgbm9pc2UgKG5vdCBldmFsIHNjcmlwdHMpLgpDYXVzZSAyICBBTkNIT1I6IHRoZSBsaW5lIHdlIHBpbiB0byBpcyBub3QgdGhlIGNvbnN0cnVjdCB3ZSBhY2N1c2UuCkNhdXNlIDMgIFJVTEUgVFlQRTogYWJzZW5jZS1ydWxlcyAoInlvdSBkaWQgbm90IHJlcG9ydCBYIikgY2Fubm90IGRpc3Rpbmd1aXNoCiAgICAgICAgICAiZm9yZ290IFgiIGZyb20gIlggYmVsb25ncyB0byBhbm90aGVyIGxheWVyIiBpbiBhIG1hdHVyZSBjb2RlYmFzZS4KCkZvciBlYWNoIHdlIGFzayB0aGUgc2FtZSBxdWVzdGlvbjogaXMgaXQgc2VwYXJhYmxlPyBpLmUuIGlzIHRoZXJlIGEgc3Vic2V0IHdoZXJlCnByZWNpc2lvbiBpcyBtYXRlcmlhbGx5IGJldHRlcj8gQSBjYXVzZSB0aGF0IGRvZXMgbm90IHNlcGFyYXRlIGlzIGFuIGV4Y3VzZSwgbm90CmEgbWVjaGFuaXNtLgoiIiIKaW1wb3J0IGpzb24sIHBhdGhsaWIKCkQgPSBwYXRobGliLlBhdGgoX19maWxlX18pLnBhcmVudApsYWIgPSBqc29uLmxvYWQob3BlbihEIC8gImxhYmVsczEzMS5qc29uIikpCmxhYiA9IFt4IGZvciB4IGluIGxhYiBpZiB4WyJlZyJdICE9ICJFRzAwMCJdCgojIC0tLS0gcm9sZSBjbGFzc2lmaWNhdGlvbiBieSBwYXRoIHRva2VuIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZGVmIHJvbGUoZik6CiAgICBpZiAiZXhhbXBsZXMiIGluIGYgb3IgImRvY3NfIiBpbiBmIG9yICJkZW1vIiBpbiBmIG9yICJ0ZW1wbGF0ZSIgaW4gZjoKICAgICAgICByZXR1cm4gImV4YW1wbGUiCiAgICBpZiAic2NyaXB0c18iIGluIGY6CiAgICAgICAgcmV0dXJuICJzY3JpcHQiCiAgICBpZiAiZXZhbHVhdG9yIiBpbiBmIG9yICJydW5fZXZhbCIgaW4gZiBvciAiZXZhbHVhdGVfdGFzayIgaW4gZjoKICAgICAgICByZXR1cm4gImhhcm5lc3MiCiAgICByZXR1cm4gIm1ldHJpYy1saWIiCgpBQlNFTkNFID0geyJFRzAwMiIsICJFR1AwNiIsICJFR1AwOSIsICJFRzAxMiIsICJFRzAxNiIsICJFRzAxMSJ9CmZvciB4IGluIGxhYjoKICAgIHhbInJvbGUiXSA9IHJvbGUoeFsiZmlsZSJdKQogICAgeFsia2luZCJdID0gImFic2VuY2UiIGlmIHhbImVnIl0gaW4gQUJTRU5DRSBlbHNlICJwcmVzZW5jZSIKCmRlZiByYXRlKHJvd3MsIGtleSk6CiAgICBuID0gbGVuKHJvd3MpCiAgICBpZiBuID09IDA6CiAgICAgICAgcmV0dXJuICgwLCAwLCAwLjApCiAgICB0cCA9IHN1bSgxIGZvciByIGluIHJvd3MgaWYgcltrZXldID09ICJUUCIpCiAgICByZXR1cm4gKHRwLCBuLCB0cCAvIG4pCgpwcmludCgiPT09IG92ZXJhbGwgKDE3IGZpbmRpbmdzLCBFRzAwMCBhdWRpdCByb3dzIGV4Y2x1ZGVkKSA9PT0iKQpmb3IgayBpbiAoInN0cmljdCIsICJsb29zZSIpOgogICAgdHAsIG4sIHIgPSByYXRlKGxhYiwgaykKICAgIHByaW50KGYiICB7azo8N30ge3RwfS97bn0gPSB7cjouMSV9ICAgKHNoaXAgZ2F0ZSA2MCUpIikKCnByaW50KCJcbj09PSBzZW5zaXRpdml0eTogZG9lcyB0aGUgdmVyZGljdCBkZXBlbmQgb24gaG93IGdlbmVyb3VzIEkgYW0/ID09PSIpCnByaW50KCIgIHN0cmljdCA9IHJldmlld2VyIHdvdWxkIGFjY2VwdCB0aGUgZmluZGluZyBhdCBUSEFUIGxpbmUiKQpwcmludCgiICBsb29zZSAgPSB0aGUgcnVsZSdzIGNsYWltIGhvbGRzIGF0IGZpbGUgbGV2ZWwsIGxpbmUgaWdub3JlZCIpCnByaW50KCIgIGdhdGUgbWV0IHVuZGVyOiIsIFtrIGZvciBrIGluICgic3RyaWN0IiwgImxvb3NlIikgaWYgcmF0ZShsYWIsIGspWzJdID49IDAuNjBdIG9yICJORUlUSEVSIikKCnByaW50KCJcbj09PSBjYXVzZSAxOiBmaWxlIHJvbGUgPT09IikKZm9yIHIgaW4gKCJleGFtcGxlIiwgInNjcmlwdCIsICJoYXJuZXNzIiwgIm1ldHJpYy1saWIiKToKICAgIHJvd3MgPSBbeCBmb3IgeCBpbiBsYWIgaWYgeFsicm9sZSJdID09IHJdCiAgICB0cywgbiwgcnMgPSByYXRlKHJvd3MsICJzdHJpY3QiKQogICAgdGwsIF8sIHJsID0gcmF0ZShyb3dzLCAibG9vc2UiKQogICAgcHJpbnQoZiIgIHtyOjwxMX0gbj17bjo8M30gc3RyaWN0IHt0c30ve259IHtyczo+Ni4xJX0gICBsb29zZSB7dGx9L3tufSB7cmw6PjYuMSV9IikKCnByaW50KCJcbj09PSBjYXVzZSAyOiBpcyB0aGUgcGlubmVkIGxpbmUgdGhlIGFjY3VzZWQgY29uc3RydWN0PyA9PT0iKQpvayA9IFt4IGZvciB4IGluIGxhYiBpZiB4WyJhbmNob3Jfb2siXV0KYmFkID0gW3ggZm9yIHggaW4gbGFiIGlmIG5vdCB4WyJhbmNob3Jfb2siXV0KcHJpbnQoZiIgIGFuY2hvciBjb3JyZWN0ICB7bGVuKG9rKX0ve2xlbihsYWIpfSA9IHtsZW4ob2spL2xlbihsYWIpOi4xJX0iKQpmb3IgayBpbiAoInN0cmljdCIsICJsb29zZSIpOgogICAgdHAsIG4sIHIgPSByYXRlKG9rLCBrKQogICAgcHJpbnQoZiIgICAgYW1vbmcgYW5jaG9yLWNvcnJlY3Q6IHtrfSB7dHB9L3tufSA9IHtyOi4xJX0iKQogICAgdHAsIG4sIHIgPSByYXRlKGJhZCwgaykKICAgIHByaW50KGYiICAgIGFtb25nIGFuY2hvci13cm9uZyAgOiB7a30ge3RwfS97bn0gPSB7cjouMSV9IikKCnByaW50KCJcbj09PSBjYXVzZSAzOiBhYnNlbmNlIHZzIHByZXNlbmNlIHJ1bGVzID09PSIpCmZvciBjIGluICgiYWJzZW5jZSIsICJwcmVzZW5jZSIpOgogICAgcm93cyA9IFt4IGZvciB4IGluIGxhYiBpZiB4WyJraW5kIl0gPT0gY10KICAgIHRzLCBuLCBycyA9IHJhdGUocm93cywgInN0cmljdCIpCiAgICB0bCwgXywgcmwgPSByYXRlKHJvd3MsICJsb29zZSIpCiAgICBwcmludChmIiAge2M6PDl9IG49e246PDN9IHN0cmljdCB7dHN9L3tufSB7cnM6PjYuMSV9ICAgbG9vc2Uge3RsfS97bn0ge3JsOj42LjElfSIpCgojIC0tLS0gdGhlIGZpeCBJIHByb3Bvc2VkOiBkcm9wIGV4YW1wbGUvZG9jcyBmaWxlcyBvbmx5IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmtlcHQgPSBbeCBmb3IgeCBpbiBsYWIgaWYgeFsicm9sZSJdICE9ICJleGFtcGxlIl0KcHJpbnQoIlxuPT09IHByb3Bvc2VkIGZpeDogc3VwcHJlc3MgZmluZGluZ3Mgb24gZXhhbXBsZXMvZG9jcyBmaWxlcyBPTkxZID09PSIpCnByaW50KGYiICBmaW5kaW5ncyB7bGVuKGxhYil9IC0+IHtsZW4oa2VwdCl9IikKZm9yIGsgaW4gKCJzdHJpY3QiLCAibG9vc2UiKToKICAgIHRwLCBuLCByID0gcmF0ZShrZXB0LCBrKQogICAgcHJpbnQoZiIgICAge2s6PDd9IHt0cH0ve259ID0ge3I6LjElfSAgICh3YXMge3JhdGUobGFiLGspWzJdOi4xJX0pIikKCiMgLS0tLSBhbmQgdGhlIGZpeCBJIHJlamVjdGVkOiBhbHNvIHN1cHByZXNzIHNjcmlwdHMvIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0Ka2VwdDIgPSBbeCBmb3IgeCBpbiBsYWIgaWYgeFsicm9sZSJdIG5vdCBpbiAoImV4YW1wbGUiLCAic2NyaXB0IildCnByaW50KCJcbj09PSByZWplY3RlZCBmaXg6IGFsc28gc3VwcHJlc3Mgc2NyaXB0cy8gPT09IikKcHJpbnQoZiIgIGZpbmRpbmdzIHtsZW4obGFiKX0gLT4ge2xlbihrZXB0Mil9IikKZm9yIGsgaW4gKCJzdHJpY3QiLCAibG9vc2UiKToKICAgIHRwLCBuLCByID0gcmF0ZShrZXB0MiwgaykKICAgIHByaW50KGYiICAgIHtrOjw3fSB7dHB9L3tufSA9IHtyOi4xJX0iKQpwcmludCgiICByZWplY3RlZCBiZWNhdXNlIHVuZGVyIGxvb3NlIGl0IHJlbW92ZXMgMiBUUCBhbmQgMiBGUCDigJQgbmV0IHplcm8sIGFuZCBpdCIpCnByaW50KCIgIHdvdWxkIGRlbGV0ZSAjMTYsIHRoZSBPTkxZIGZpbmRpbmcgcGlubmVkIHRvIHRoZSBhY3R1YWwgZXh0ZXJuYWwgY2FsbC4iKQoKanNvbi5kdW1wKHsibGFiZWxzIjogbGFifSwgb3BlbihEIC8gImFuYWx5c2lzMTMxLmpzb24iLCAidyIpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+"""exp131 analysis — why is precision low? Separate the three candidate causes.
+
+Cause 1  FILE ROLE: findings on examples/docs scripts are noise (not eval scripts).
+Cause 2  ANCHOR: the line we pin to is not the construct we accuse.
+Cause 3  RULE TYPE: absence-rules ("you did not report X") cannot distinguish
+          "forgot X" from "X belongs to another layer" in a mature codebase.
+
+For each we ask the same question: is it separable? i.e. is there a subset where
+precision is materially better? A cause that does not separate is an excuse, not
+a mechanism.
+"""
+import json, pathlib
+
+D = pathlib.Path(__file__).parent
+lab = json.load(open(D / "labels131.json"))
+lab = [x for x in lab if x["eg"] != "EG000"]
+
+# ---- role classification by path token -------------------------------------
+def role(f):
+    if "examples" in f or "docs_" in f or "demo" in f or "template" in f:
+        return "example"
+    if "scripts_" in f:
+        return "script"
+    if "evaluator" in f or "run_eval" in f or "evaluate_task" in f:
+        return "harness"
+    return "metric-lib"
+
+ABSENCE = {"EG002", "EGP06", "EGP09", "EG012", "EG016", "EG011"}
+for x in lab:
+    x["role"] = role(x["file"])
+    x["kind"] = "absence" if x["eg"] in ABSENCE else "presence"
+
+def rate(rows, key):
+    n = len(rows)
+    if n == 0:
+        return (0, 0, 0.0)
+    tp = sum(1 for r in rows if r[key] == "TP")
+    return (tp, n, tp / n)
+
+print("=== overall (17 findings, EG000 audit rows excluded) ===")
+for k in ("strict", "loose"):
+    tp, n, r = rate(lab, k)
+    print(f"  {k:<7} {tp}/{n} = {r:.1%}   (ship gate 60%)")
+
+print("\n=== sensitivity: does the verdict depend on how generous I am? ===")
+print("  strict = reviewer would accept the finding at THAT line")
+print("  loose  = the rule's claim holds at file level, line ignored")
+print("  gate met under:", [k for k in ("strict", "loose") if rate(lab, k)[2] >= 0.60] or "NEITHER")
+
+print("\n=== cause 1: file role ===")
+for r in ("example", "script", "harness", "metric-lib"):
+    rows = [x for x in lab if x["role"] == r]
+    ts, n, rs = rate(rows, "strict")
+    tl, _, rl = rate(rows, "loose")
+    print(f"  {r:<11} n={n:<3} strict {ts}/{n} {rs:>6.1%}   loose {tl}/{n} {rl:>6.1%}")
+
+print("\n=== cause 2: is the pinned line the accused construct? ===")
+ok = [x for x in lab if x["anchor_ok"]]
+bad = [x for x in lab if not x["anchor_ok"]]
+print(f"  anchor correct  {len(ok)}/{len(lab)} = {len(ok)/len(lab):.1%}")
+for k in ("strict", "loose"):
+    tp, n, r = rate(ok, k)
+    print(f"    among anchor-correct: {k} {tp}/{n} = {r:.1%}")
+    tp, n, r = rate(bad, k)
+    print(f"    among anchor-wrong  : {k} {tp}/{n} = {r:.1%}")
+
+print("\n=== cause 3: absence vs presence rules ===")
+for c in ("absence", "presence"):
+    rows = [x for x in lab if x["kind"] == c]
+    ts, n, rs = rate(rows, "strict")
+    tl, _, rl = rate(rows, "loose")
+    print(f"  {c:<9} n={n:<3} strict {ts}/{n} {rs:>6.1%}   loose {tl}/{n} {rl:>6.1%}")
+
+# ---- the fix I proposed: drop example/docs files only -----------------------
+kept = [x for x in lab if x["role"] != "example"]
+print("\n=== proposed fix: suppress findings on examples/docs files ONLY ===")
+print(f"  findings {len(lab)} -> {len(kept)}")
+for k in ("strict", "loose"):
+    tp, n, r = rate(kept, k)
+    print(f"    {k:<7} {tp}/{n} = {r:.1%}   (was {rate(lab,k)[2]:.1%})")
+
+# ---- and the fix I rejected: also suppress scripts/ -------------------------
+kept2 = [x for x in lab if x["role"] not in ("example", "script")]
+print("\n=== rejected fix: also suppress scripts/ ===")
+print(f"  findings {len(lab)} -> {len(kept2)}")
+for k in ("strict", "loose"):
+    tp, n, r = rate(kept2, k)
+    print(f"    {k:<7} {tp}/{n} = {r:.1%}")
+print("  rejected because under loose it removes 2 TP and 2 FP — net zero, and it")
+print("  would delete #16, the ONLY finding pinned to the actual external call.")
+
+json.dump({"labels": lab}, open(D / "analysis131.json", "w"), ensure_ascii=False, indent=1)

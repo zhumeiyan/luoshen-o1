@@ -1,1 +1,83 @@
-IiIi5a+55q+U5YmN5ZCO5Lik5Lu96YWN6aKd5b+r54Wn77yM5Lqn5Ye65Y+Y5YyW5LqL5Lu244CCCgrkuovku7bnsbvlnovvvJoKLSBxdW90YV9vcGVuIDog5p+Q5Yqe5LqL5aSE5p+Q5pel5pyf5p+Q5pe25q61IOW3sua7oS/kuI3lvIDmlL4gLT4g5pyJ5ZCN6aKd77yIci94IC0+IGcvee+8ieKAlOKAlOmAmuefpeeahOaguOW/g+inpuWPkQotIG5ld19kYXRlICAgOiDpooTnuqbnqpflj6Pmu5rliqjvvIzmlrDml6XmnJ/pppbmrKHlh7rnjrDkuJTmnInlkI3pop0KLSBxdW90YV9nb25lIDog5pyJ5ZCN6aKdIC0+IOW3sua7oe+8iOeci+adv+WxleekuueUqO+8jOS4jeinpuWPkemAmuefpe+8iQoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCBzeXMKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWV6b25lLCB0aW1lZGVsdGEKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpIS1QgPSB0aW1lem9uZSh0aW1lZGVsdGEoaG91cnM9OCkpCgpPUEVOID0gKCJnIiwgInkiKQoKCmRlZiBkaWZmX3NuYXBzaG90cyhvbGQ6IGRpY3QgfCBOb25lLCBuZXc6IGRpY3QpIC0+IGxpc3RbZGljdF06CiAgICAiIiLov5Tlm57kuovku7bliJfooajjgIJvbGQg5Li6IE5vbmXvvIjpppbmrKHov5DooYzvvInml7bkuI3kuqfnlJ/kuovku7bjgIIiIiIKICAgIGlmIG5vdCBvbGQ6CiAgICAgICAgcmV0dXJuIFtdCgogICAgZXZlbnRzOiBsaXN0W2RpY3RdID0gW10KICAgIGRldGVjdGVkX2F0ID0gZGF0ZXRpbWUubm93KEhLVCkuaXNvZm9ybWF0KHRpbWVzcGVjPSJzZWNvbmRzIikKICAgIG9sZF9xdW90YSA9IG9sZC5nZXQoInF1b3RhIiwge30pCiAgICBvbGRfZGF0ZXMgPSBzZXQob2xkLmdldCgiZGF0ZXMiLCBbXSkpCgogICAgZGVmIGVtaXQoZXR5cGU6IHN0ciwgb2ZmaWNlOiBzdHIsIGRhdGU6IHN0ciwgc2Vzc2lvbjogc3RyLAogICAgICAgICAgICAgZnJtOiBzdHIgfCBOb25lLCB0bzogc3RyKSAtPiBOb25lOgogICAgICAgIGV2ZW50cy5hcHBlbmQoewogICAgICAgICAgICAidHlwZSI6IGV0eXBlLAogICAgICAgICAgICAib2ZmaWNlIjogb2ZmaWNlLAogICAgICAgICAgICAiZGF0ZSI6IGRhdGUsCiAgICAgICAgICAgICJzZXNzaW9uIjogc2Vzc2lvbiwgICMgUj3kuIDoiKzmnI3liqHml7bmrrUgSz3lu7bplb/mnI3liqHml7bmrrUKICAgICAgICAgICAgImZyb20iOiBmcm0sCiAgICAgICAgICAgICJ0byI6IHRvLAogICAgICAgICAgICAiZGV0ZWN0ZWRfYXQiOiBkZXRlY3RlZF9hdCwKICAgICAgICB9KQoKICAgIGZvciBvZmZpY2VfaWQsIGJ5X2RhdGUgaW4gbmV3LmdldCgicXVvdGEiLCB7fSkuaXRlbXMoKToKICAgICAgICBvbGRfYnlfZGF0ZSA9IG9sZF9xdW90YS5nZXQob2ZmaWNlX2lkLCB7fSkKICAgICAgICBmb3IgZGF0ZSwgY2VsbCBpbiBieV9kYXRlLml0ZW1zKCk6CiAgICAgICAgICAgIG9sZF9jZWxsID0gb2xkX2J5X2RhdGUuZ2V0KGRhdGUpCiAgICAgICAgICAgIGZvciBzZXNzaW9uIGluICgiUiIsICJLIik6CiAgICAgICAgICAgICAgICB0byA9IGNlbGwuZ2V0KHNlc3Npb24sICJ4IikKICAgICAgICAgICAgICAgIGlmIG9sZF9jZWxsIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgIyDmlrDml6XmnJ/ov5vlhaXnqpflj6PvvJrlj6rmiqXmnInlkI3pop3nmoTvvIzpgb/lhY3mr4/lpKnmu5rliqjnqpflj6PliLflsY8KICAgICAgICAgICAgICAgICAgICBpZiBkYXRlIG5vdCBpbiBvbGRfZGF0ZXMgYW5kIHRvIGluIE9QRU46CiAgICAgICAgICAgICAgICAgICAgICAgIGVtaXQoIm5ld19kYXRlIiwgb2ZmaWNlX2lkLCBkYXRlLCBzZXNzaW9uLCBOb25lLCB0bykKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgZnJtID0gb2xkX2NlbGwuZ2V0KHNlc3Npb24sICJ4IikKICAgICAgICAgICAgICAgIGlmIGZybSA9PSB0bzoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgaWYgZnJtIG5vdCBpbiBPUEVOIGFuZCB0byBpbiBPUEVOOgogICAgICAgICAgICAgICAgICAgIGVtaXQoInF1b3RhX29wZW4iLCBvZmZpY2VfaWQsIGRhdGUsIHNlc3Npb24sIGZybSwgdG8pCiAgICAgICAgICAgICAgICBlbGlmIGZybSBpbiBPUEVOIGFuZCB0byBub3QgaW4gT1BFTjoKICAgICAgICAgICAgICAgICAgICBlbWl0KCJxdW90YV9nb25lIiwgb2ZmaWNlX2lkLCBkYXRlLCBzZXNzaW9uLCBmcm0sIHRvKQogICAgZXZlbnRzLnNvcnQoa2V5PWxhbWJkYSBlOiAoZVsib2ZmaWNlIl0sIGVbImRhdGUiXSwgZVsic2Vzc2lvbiJdKSkKICAgIHJldHVybiBldmVudHMKCgpkZWYgbWFpbihvbGRfcGF0aDogc3RyID0gImRhdGEvcXVvdGFfcHJldi5qc29uIiwKICAgICAgICAgbmV3X3BhdGg6IHN0ciA9ICJkYXRhL3F1b3RhLmpzb24iLAogICAgICAgICBvdXRfcGF0aDogc3RyID0gImRhdGEvZXZlbnRzLmpzb24iKSAtPiBOb25lOgogICAgb2xkID0gTm9uZQogICAgaWYgUGF0aChvbGRfcGF0aCkuZXhpc3RzKCk6CiAgICAgICAgb2xkID0ganNvbi5sb2FkcyhQYXRoKG9sZF9wYXRoKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCiAgICBuZXcgPSBqc29uLmxvYWRzKFBhdGgobmV3X3BhdGgpLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkKCiAgICBldmVudHMgPSBkaWZmX3NuYXBzaG90cyhvbGQsIG5ldykKICAgIFBhdGgob3V0X3BhdGgpLndyaXRlX3RleHQoCiAgICAgICAganNvbi5kdW1wcyh7ImdlbmVyYXRlZF9hdCI6IGRhdGV0aW1lLm5vdyhIS1QpLmlzb2Zvcm1hdCh0aW1lc3BlYz0ic2Vjb25kcyIpLAogICAgICAgICAgICAgICAgICAgICJldmVudHMiOiBldmVudHN9LCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSwKICAgICAgICBlbmNvZGluZz0idXRmLTgiKQogICAgbl9vcGVuID0gc3VtKDEgZm9yIGUgaW4gZXZlbnRzIGlmIGVbInR5cGUiXSBpbiAoInF1b3RhX29wZW4iLCAibmV3X2RhdGUiKSkKICAgIHByaW50KGYiT0sgZXZlbnRzPXtsZW4oZXZlbnRzKX0gbm90aWZ5X3dvcnRoeT17bl9vcGVufSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKnN5cy5hcmd2WzE6XSkK
+"""对比前后两份配额快照，产出变化事件。
+
+事件类型：
+- quota_open : 某办事处某日期某时段 已满/不开放 -> 有名额（r/x -> g/y）——通知的核心触发
+- new_date   : 预约窗口滚动，新日期首次出现且有名额
+- quota_gone : 有名额 -> 已满（看板展示用，不触发通知）
+"""
+
+from __future__ import annotations
+
+import json
+import sys
+from datetime import datetime, timezone, timedelta
+from pathlib import Path
+
+HKT = timezone(timedelta(hours=8))
+
+OPEN = ("g", "y")
+
+
+def diff_snapshots(old: dict | None, new: dict) -> list[dict]:
+    """返回事件列表。old 为 None（首次运行）时不产生事件。"""
+    if not old:
+        return []
+
+    events: list[dict] = []
+    detected_at = datetime.now(HKT).isoformat(timespec="seconds")
+    old_quota = old.get("quota", {})
+    old_dates = set(old.get("dates", []))
+
+    def emit(etype: str, office: str, date: str, session: str,
+             frm: str | None, to: str) -> None:
+        events.append({
+            "type": etype,
+            "office": office,
+            "date": date,
+            "session": session,  # R=一般服务时段 K=延长服务时段
+            "from": frm,
+            "to": to,
+            "detected_at": detected_at,
+        })
+
+    for office_id, by_date in new.get("quota", {}).items():
+        old_by_date = old_quota.get(office_id, {})
+        for date, cell in by_date.items():
+            old_cell = old_by_date.get(date)
+            for session in ("R", "K"):
+                to = cell.get(session, "x")
+                if old_cell is None:
+                    # 新日期进入窗口：只报有名额的，避免每天滚动窗口刷屏
+                    if date not in old_dates and to in OPEN:
+                        emit("new_date", office_id, date, session, None, to)
+                    continue
+                frm = old_cell.get(session, "x")
+                if frm == to:
+                    continue
+                if frm not in OPEN and to in OPEN:
+                    emit("quota_open", office_id, date, session, frm, to)
+                elif frm in OPEN and to not in OPEN:
+                    emit("quota_gone", office_id, date, session, frm, to)
+    events.sort(key=lambda e: (e["office"], e["date"], e["session"]))
+    return events
+
+
+def main(old_path: str = "data/quota_prev.json",
+         new_path: str = "data/quota.json",
+         out_path: str = "data/events.json") -> None:
+    old = None
+    if Path(old_path).exists():
+        old = json.loads(Path(old_path).read_text(encoding="utf-8"))
+    new = json.loads(Path(new_path).read_text(encoding="utf-8"))
+
+    events = diff_snapshots(old, new)
+    Path(out_path).write_text(
+        json.dumps({"generated_at": datetime.now(HKT).isoformat(timespec="seconds"),
+                    "events": events}, ensure_ascii=False, indent=1),
+        encoding="utf-8")
+    n_open = sum(1 for e in events if e["type"] in ("quota_open", "new_date"))
+    print(f"OK events={len(events)} notify_worthy={n_open}")
+
+
+if __name__ == "__main__":
+    main(*sys.argv[1:])

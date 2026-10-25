@@ -1,1 +1,40 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIGV2YWxndWFyZCBsYW5kaW5nIHBhZ2UgLT4gR2l0SHViIFBhZ2VzCiMgVXNhZ2U6ICBHSVRIVUJfVE9LRU49Z2hwX3h4eHggIC4vUFVTSF9QQUdFUy5zaApzZXQgLWV1byBwaXBlZmFpbAoKUkVQTz0iJHtSRVBPOi1ldmFsZ3VhcmR9IgpERVNDPSJTdGF0aWMgY2hlY2tlciBmb3IgTExNL2FnZW50IGV2YWx1YXRpb24gc2NyaXB0cy4gMzY4LWZhaWx1cmUtbW9kZSBjYW5vbi4iCkhFUkU9IiQoY2QgIiQoZGlybmFtZSAiJDAiKSIgJiYgcHdkKSIKU1JDPSIkSEVSRS8uLi9zaXRlL2luZGV4Lmh0bWwiCgo6ICIke0dJVEhVQl9UT0tFTjo/TmVlZCBHSVRIVUJfVE9LRU49Z2hwX3h4eHggKHNjb3BlOiByZXBvKX0iClsgLWYgIiRTUkMiIF0gfHwgeyBlY2hvICJpbmRleC5odG1sIG5vdCBmb3VuZCI7IGV4aXQgMTsgfQoKQVBJPSJodHRwczovL2FwaS5naXRodWIuY29tIgpIMT0iQXV0aG9yaXphdGlvbjogQmVhcmVyICRHSVRIVUJfVE9LRU4iCkgyPSJBY2NlcHQ6IGFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiIKCk9XTkVSPSQoY3VybCAtcyAtSCAiJEgxIiAtSCAiJEgyIiAiJEFQSS91c2VyIiB8IHB5dGhvbjMgLWMgJ2ltcG9ydCBzeXMsanNvbjtwcmludChqc29uLmxvYWQoc3lzLnN0ZGluKVsibG9naW4iXSknKQplY2hvICJvd25lcjogJE9XTkVSIgoKIyAxLiBjcmVhdGUgcmVwbyAoaWdub3JlICJhbHJlYWR5IGV4aXN0cyIpCmN1cmwgLXMgLW8gL2Rldi9udWxsIC13ICJjcmVhdGUgcmVwbzogJXtodHRwX2NvZGV9XG4iIFwKICAtWCBQT1NUICIkQVBJL3VzZXIvcmVwb3MiIC1IICIkSDEiIC1IICIkSDIiIFwKICAtZCAie1wibmFtZVwiOlwiJFJFUE9cIixcImRlc2NyaXB0aW9uXCI6XCIkREVTQ1wiLFwiaG9tZXBhZ2VcIjpcImh0dHBzOi8vJE9XTkVSLmdpdGh1Yi5pby8kUkVQTy9cIixcInByaXZhdGVcIjpmYWxzZSxcImF1dG9faW5pdFwiOnRydWV9IgoKIyAyLiBwdXNoIGluZGV4Lmh0bWwKQjY0PSQoYmFzZTY0IC13MCAiJFNSQyIpCmN1cmwgLXMgLW8gL2Rldi9udWxsIC13ICJwdXQgaW5kZXguaHRtbDogJXtodHRwX2NvZGV9XG4iIFwKICAtWCBQVVQgIiRBUEkvcmVwb3MvJE9XTkVSLyRSRVBPL2NvbnRlbnRzL2luZGV4Lmh0bWwiIFwKICAtSCAiJEgxIiAtSCAiJEgyIiBcCiAgLWQgIntcIm1lc3NhZ2VcIjpcImV2YWxndWFyZCBsYW5kaW5nIHBhZ2VcIixcImNvbnRlbnRcIjpcIiRCNjRcIn0iCgojIDMuIGVuYWJsZSBHaXRIdWIgUGFnZXMgKGJ1aWxkIGZyb20gcm9vdCkKY3VybCAtcyAtbyAvZGV2L251bGwgLXcgImVuYWJsZSBwYWdlczogJXtodHRwX2NvZGV9XG4iIFwKICAtWCBQT1NUICIkQVBJL3JlcG9zLyRPV05FUi8kUkVQTy9wYWdlcyIgLUggIiRIMSIgLUggIiRIMiIgXAogIC1kICd7InNvdXJjZSI6eyJicmFuY2giOiJtYWluIiwicGF0aCI6Ii8ifX0nIHx8IHRydWUKCmVjaG8KZWNobyAiZG9uZSAtPiBodHRwczovLyRPV05FUi5naXRodWIuaW8vJFJFUE8vIgplY2hvICIoUGFnZXMg6aaW5qyh55Sf5pWI57qmIDEtMyDliIbpkp/vvJvoi6XnrKwgMyDmraXov5Tlm54gNDA5IOivtOaYjuW3suW8gOWQr++8jOWPr+W/veeVpSkiCg==
+#!/usr/bin/env bash
+# evalguard landing page -> GitHub Pages
+# Usage:  GITHUB_TOKEN=ghp_xxxx  ./PUSH_PAGES.sh
+set -euo pipefail
+
+REPO="${REPO:-evalguard}"
+DESC="Static checker for LLM/agent evaluation scripts. 368-failure-mode canon."
+HERE="$(cd "$(dirname "$0")" && pwd)"
+SRC="$HERE/../site/index.html"
+
+: "${GITHUB_TOKEN:?Need GITHUB_TOKEN=ghp_xxxx (scope: repo)}"
+[ -f "$SRC" ] || { echo "index.html not found"; exit 1; }
+
+API="https://api.github.com"
+H1="Authorization: Bearer $GITHUB_TOKEN"
+H2="Accept: application/vnd.github+json"
+
+OWNER=$(curl -s -H "$H1" -H "$H2" "$API/user" | python3 -c 'import sys,json;print(json.load(sys.stdin)["login"])')
+echo "owner: $OWNER"
+
+# 1. create repo (ignore "already exists")
+curl -s -o /dev/null -w "create repo: %{http_code}\n" \
+  -X POST "$API/user/repos" -H "$H1" -H "$H2" \
+  -d "{\"name\":\"$REPO\",\"description\":\"$DESC\",\"homepage\":\"https://$OWNER.github.io/$REPO/\",\"private\":false,\"auto_init\":true}"
+
+# 2. push index.html
+B64=$(base64 -w0 "$SRC")
+curl -s -o /dev/null -w "put index.html: %{http_code}\n" \
+  -X PUT "$API/repos/$OWNER/$REPO/contents/index.html" \
+  -H "$H1" -H "$H2" \
+  -d "{\"message\":\"evalguard landing page\",\"content\":\"$B64\"}"
+
+# 3. enable GitHub Pages (build from root)
+curl -s -o /dev/null -w "enable pages: %{http_code}\n" \
+  -X POST "$API/repos/$OWNER/$REPO/pages" -H "$H1" -H "$H2" \
+  -d '{"source":{"branch":"main","path":"/"}}' || true
+
+echo
+echo "done -> https://$OWNER.github.io/$REPO/"
+echo "(Pages 首次生效约 1-3 分钟；若第 3 步返回 409 说明已开启，可忽略)"

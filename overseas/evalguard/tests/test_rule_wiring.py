@@ -1,1 +1,128 @@
-IiIiU3RydWN0dXJhbCBzZWxmLWNoZWNrOiBldmVyeSBydWxlIGRlY29yYXRvciBtdXN0IG5hbWUgdGhlIGZ1bmN0aW9uIGJlbG93IGl0LgoKV2h5IHRoaXMgdGVzdCBleGlzdHMKLS0tLS0tLS0tLS0tLS0tLS0tLS0KZXhwMTM4IGZvdW5kIGEgbGl2ZSBidWcgb2YgdGhpcyBleGFjdCBzaGFwZSBpbiBwcm9kdWN0aW9uIGNvZGUuIFRoZQpgQHJ1bGUoIkVHMDA1IiwgLi4uKWAgZGVjb3JhdG9yIHNhdCBhdCBsaW5lIDQwMzsgdHdvIGhlbHBlciBmdW5jdGlvbnMgd2VyZQpsYXRlciBpbnNlcnRlZCBiZXR3ZWVuIGl0IGFuZCB0aGUgcmVhbCBgZGVmIGVnMDA1YCBhdCBsaW5lIDQ3MC4gUHl0aG9uCmFwcGxpZXMgYSBkZWNvcmF0b3IgdG8gd2hhdGV2ZXIgZnVuY3Rpb24gZGVmaW5pdGlvbiBjb21lcyBuZXh0LCBzbyB0aGUKZGVjb3JhdG9yIGJvdW5kIHRvIGBfcGF0aGxpa2VfbmFtZXNgIGluc3RlYWQuCgpUaGUgY29uc2VxdWVuY2VzIHdlcmUgcXVpZXQgYW5kIHNldmVyZSBhdCB0aGUgc2FtZSB0aW1lOgoKICAqIGBfcGF0aGxpa2VfbmFtZXNgIHdhcyByZWdpc3RlcmVkIGludG8gUlVMRVMgY2FycnlpbmcgRUcwMDUncyBtZXRhCiAgKiB0aGUgcmVhbCBgZWcwMDVgIHdhcyBuZXZlciByZWdpc3RlcmVkIGFuZCBuZXZlciByYW4KICAqIGV2ZXJ5IHNjYW4gY2FsbGVkIHRoZSBoZWxwZXIgd2l0aCAodHJlZSwgc3JjLCBwYXRoKSAtPiBUeXBlRXJyb3IKICAqIGNsaSdzIHBlci1ydWxlIGV4Y2VwdCBkb3duZ3JhZGVzIGEgY3Jhc2hpbmcgcnVsZSB0byBzZXZlcml0eSAiaW5mbyIsCiAgICBzbyBFRzAwNSByZXBvcnRlZCAicnVsZSBlcnJvcjogLi4uIiBmb3IgYSB3aG9sZSByZWxlYXNlIGFuZCBub2JvZHkKICAgIHNhdyBpdCBhcyBhbiBvdXRhZ2UKCkEgdW5pdCB0ZXN0IG9mIGVnMDA1J3MgYmVoYXZpb3VyIHdvdWxkIG5vdCBoYXZlIGNhdWdodCB0aGlzLCBiZWNhdXNlCmVnMDA1IHdhcyBuZXZlciByZWFjaGVkIHRocm91Z2ggdGhlIHB1YmxpYyBwYXRoLiBPbmx5IGEgc3RydWN0dXJhbCBjaGVjawp0aGF0IHJlYWRzIHRoZSBzb3VyY2UgY2FuLiBUaGF0IGlzIHdoYXQgdGhpcyBmaWxlIGlzLgoKSXQgYWxzbyBhc3NlcnRzIHRoZSBpbnZlcnNlOiBubyBydWxlIGZ1bmN0aW9uIGlzIGxlZnQgdW5kZWNvcmF0ZWQsIHdoaWNoCmlzIHRoZSBzYW1lIGZhaWx1cmUgc2VlbiBmcm9tIHRoZSBvdGhlciBzaWRlIChhIHJ1bGUgdGhhdCBzaWxlbnRseSBkb2VzCm5vdCBleGlzdCkuCiIiIgppbXBvcnQgYXN0CmltcG9ydCBwYXRobGliCmltcG9ydCBzeXMKCkhFUkUgPSBwYXRobGliLlBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQucGFyZW50CiMgcnVubmFibGUgYm90aCBhcyBhIHB5dGVzdCBtb2R1bGUgYW5kIGFzIGBweXRob24zIHRlc3RzL3Rlc3RfcnVsZV93aXJpbmcucHlgCmlmIHN0cihIRVJFLnBhcmVudCkgbm90IGluIHN5cy5wYXRoOgogICAgc3lzLnBhdGguaW5zZXJ0KDAsIHN0cihIRVJFLnBhcmVudCkpCgoKZGVmIF9zY2FuX21vZHVsZShmbmFtZSwgZGVjb3JhdG9yX25hbWVzKToKICAgICIiIllpZWxkIChlZ19pZCwgZGVjb3JhdG9yX2xpbmUsIGZ1bmNfbmFtZSwgZnVuY19saW5lKSBmb3IgZWFjaCBkZWNvcmF0ZWQgZGVmLiIiIgogICAgc3JjID0gSEVSRS5qb2lucGF0aChmbmFtZSkucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpCiAgICB0cmVlID0gYXN0LnBhcnNlKHNyYykKICAgIG91dCA9IFtdCiAgICBmb3Igbm9kZSBpbiB0cmVlLmJvZHk6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2Uobm9kZSwgYXN0LkZ1bmN0aW9uRGVmKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmb3IgZCBpbiBub2RlLmRlY29yYXRvcl9saXN0OgogICAgICAgICAgICBpZiBub3QgKGlzaW5zdGFuY2UoZCwgYXN0LkNhbGwpCiAgICAgICAgICAgICAgICAgICAgYW5kIGdldGF0dHIoZC5mdW5jLCAiaWQiLCAiIikgaW4gZGVjb3JhdG9yX25hbWVzKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlmIG5vdCAoZC5hcmdzIGFuZCBpc2luc3RhbmNlKGQuYXJnc1swXSwgYXN0LkNvbnN0YW50KSk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBvdXQuYXBwZW5kKChkLmFyZ3NbMF0udmFsdWUsIG5vZGUubmFtZSwgbm9kZS5saW5lbm8pKQogICAgcmV0dXJuIG91dAoKCmRlZiBfZXhwZWN0ZWRfbmFtZShlZ19pZCk6CiAgICAiIiJFRzAwNSAtPiBlZzAwNSwgRUdQMDEgLT4gZWdwMDEuIExvd2VyY2FzZWQsIG5vIG90aGVyIGNoYW5nZS4iIiIKICAgIHJldHVybiBlZ19pZC5sb3dlcigpLnJlcGxhY2UoImVnIiwgImVnIiwgMSkKCgpkZWYgdGVzdF9kZWNvcmF0b3JfYmluZHNfdGhlX25hbWVkX2Z1bmN0aW9uKCk6CiAgICAiIiJUaGUgZGVjb3JhdG9yIG11c3Qgc2l0IGltbWVkaWF0ZWx5IGFib3ZlIHRoZSBmdW5jdGlvbiBpdCBuYW1lcy4iIiIKICAgIGJhZCA9IFtdCiAgICBmb3IgZm5hbWUsIGRlY3MgaW4gKCgicnVsZXMucHkiLCB7InJ1bGUifSksICgicHJvX3J1bGVzLnB5IiwgeyJwcnVsZSJ9KSk6CiAgICAgICAgZm9yIGVnX2lkLCBmdW5jX25hbWUsIGxpbmVubyBpbiBfc2Nhbl9tb2R1bGUoZm5hbWUsIGRlY3MpOgogICAgICAgICAgICBpZiBmdW5jX25hbWUgIT0gZWdfaWQubG93ZXIoKToKICAgICAgICAgICAgICAgIGJhZC5hcHBlbmQoZiJ7Zm5hbWV9OntsaW5lbm99ICB7ZWdfaWR9IGRlY29yYXRlcyAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGYiZGVmIHtmdW5jX25hbWV9KCksIGV4cGVjdGVkIGRlZiB7ZWdfaWQubG93ZXIoKX0oKSIpCiAgICBhc3NlcnQgbm90IGJhZCwgImRlY29yYXRvciBib3VuZCB0byB0aGUgd3JvbmcgZnVuY3Rpb246XG4gICIgKyAiXG4gICIuam9pbihiYWQpCgoKZGVmIHRlc3RfZXZlcnlfcnVsZV9mdW5jdGlvbl9pc19kZWNvcmF0ZWQoKToKICAgICIiIk5vIGVnMHh4L2VncHh4IGZ1bmN0aW9uIG1heSBiZSBsZWZ0IHVucmVnaXN0ZXJlZC4iIiIKICAgIHVuZGVjb3JhdGVkID0gW10KICAgIGZvciBmbmFtZSwgZGVjcyBpbiAoKCJydWxlcy5weSIsIHsicnVsZSJ9KSwgKCJwcm9fcnVsZXMucHkiLCB7InBydWxlIn0pKToKICAgICAgICBzcmMgPSBIRVJFLmpvaW5wYXRoKGZuYW1lKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikKICAgICAgICB0cmVlID0gYXN0LnBhcnNlKHNyYykKICAgICAgICBkZWNvcmF0ZWQgPSB7bi5uYW1lIGZvciBuIGluIHRyZWUuYm9keQogICAgICAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKG4sIGFzdC5GdW5jdGlvbkRlZikKICAgICAgICAgICAgICAgICAgICAgYW5kIGFueShpc2luc3RhbmNlKGQsIGFzdC5DYWxsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBnZXRhdHRyKGQuZnVuYywgImlkIiwgIiIpIGluIGRlY3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgZCBpbiBuLmRlY29yYXRvcl9saXN0KX0KICAgICAgICBmb3IgbiBpbiB0cmVlLmJvZHk6CiAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKG4sIGFzdC5GdW5jdGlvbkRlZik6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBpZiAobi5uYW1lLnN0YXJ0c3dpdGgoImVnIikgYW5kIG4ubmFtZVsyOjNdLmlzZGlnaXQoKQogICAgICAgICAgICAgICAgICAgIGFuZCBuLm5hbWUgbm90IGluIGRlY29yYXRlZCk6CiAgICAgICAgICAgICAgICB1bmRlY29yYXRlZC5hcHBlbmQoZiJ7Zm5hbWV9OntuLmxpbmVub30gZGVmIHtuLm5hbWV9KCkiKQogICAgYXNzZXJ0IG5vdCB1bmRlY29yYXRlZCwgKCJydWxlIGZ1bmN0aW9ucyBuZXZlciByZWdpc3RlcmVkOlxuICAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAiXG4gICIuam9pbih1bmRlY29yYXRlZCkpCgoKZGVmIHRlc3RfcmVnaXN0ZXJlZF9ydWxlc19hcmVfY2FsbGFibGVfd2l0aF90aHJlZV9hcmdzKCk6CiAgICAiIiJUaGUgc2lnbmF0dXJlIGNsaSBhY3R1YWxseSB1c2VzLiBDYXRjaGVzIGEgaGVscGVyIHJlZ2lzdGVyZWQgYnkgYWNjaWRlbnQuIiIiCiAgICBmcm9tIGV2YWxndWFyZC5ydWxlcyBpbXBvcnQgUlVMRVMKICAgIGZyb20gZXZhbGd1YXJkLnByb19ydWxlcyBpbXBvcnQgUFJPX1JVTEVTCiAgICBmb3IgZm4gaW4gbGlzdChSVUxFUykgKyBsaXN0KFBST19SVUxFUyk6CiAgICAgICAgY29kZSA9IGZuLl9fY29kZV9fCiAgICAgICAgbiA9IGNvZGUuY29fYXJnY291bnQKICAgICAgICBhc3NlcnQgbiA9PSAzLCAoZiJ7Zm4ubWV0YS5nZXQoJ2VnX2lkJyl9IC0+IHtmbi5fX25hbWVfX30gdGFrZXMgIgogICAgICAgICAgICAgICAgICAgICAgICBmIntufSBhcmdzLCBjbGkgY2FsbHMgaXQgd2l0aCAzICh0cmVlLCBzcmMsIHBhdGgpIikKCgpkZWYgdGVzdF9ub19kdXBsaWNhdGVfZWdfaWRzKCk6CiAgICBmcm9tIGV2YWxndWFyZC5ydWxlcyBpbXBvcnQgUlVMRVMKICAgIGZyb20gZXZhbGd1YXJkLnByb19ydWxlcyBpbXBvcnQgUFJPX1JVTEVTCiAgICBzZWVuLCBkdXBlcyA9IHNldCgpLCBbXQogICAgZm9yIGZuIGluIGxpc3QoUlVMRVMpICsgbGlzdChQUk9fUlVMRVMpOgogICAgICAgIGVpZCA9IGZuLm1ldGEuZ2V0KCJlZ19pZCIpCiAgICAgICAgaWYgZWlkIGluIHNlZW46CiAgICAgICAgICAgIGR1cGVzLmFwcGVuZChlaWQpCiAgICAgICAgc2Vlbi5hZGQoZWlkKQogICAgYXNzZXJ0IG5vdCBkdXBlcywgZiJkdXBsaWNhdGUgZWdfaWQgcmVnaXN0ZXJlZDoge2R1cGVzfSIKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgZmFpbHMgPSAwCiAgICBmb3IgbmFtZSwgZm4gaW4gc29ydGVkKGdsb2JhbHMoKS5pdGVtcygpKToKICAgICAgICBpZiBub3QgbmFtZS5zdGFydHN3aXRoKCJ0ZXN0XyIpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHRyeToKICAgICAgICAgICAgZm4oKQogICAgICAgICAgICBwcmludChmIiAgUEFTUyAge25hbWV9IikKICAgICAgICBleGNlcHQgQXNzZXJ0aW9uRXJyb3IgYXMgZToKICAgICAgICAgICAgZmFpbHMgKz0gMQogICAgICAgICAgICBwcmludChmIiAgRkFJTCAge25hbWV9XG4gICAgICAgIHtlfSIpCiAgICBwcmludChmIlxueydBTEwgUEFTUycgaWYgbm90IGZhaWxzIGVsc2Ugc3RyKGZhaWxzKSArICcgRkFJTEVEJ30iKQogICAgc3lzLmV4aXQoMSBpZiBmYWlscyBlbHNlIDApCg==
+"""Structural self-check: every rule decorator must name the function below it.
+
+Why this test exists
+--------------------
+exp138 found a live bug of this exact shape in production code. The
+`@rule("EG005", ...)` decorator sat at line 403; two helper functions were
+later inserted between it and the real `def eg005` at line 470. Python
+applies a decorator to whatever function definition comes next, so the
+decorator bound to `_pathlike_names` instead.
+
+The consequences were quiet and severe at the same time:
+
+  * `_pathlike_names` was registered into RULES carrying EG005's meta
+  * the real `eg005` was never registered and never ran
+  * every scan called the helper with (tree, src, path) -> TypeError
+  * cli's per-rule except downgrades a crashing rule to severity "info",
+    so EG005 reported "rule error: ..." for a whole release and nobody
+    saw it as an outage
+
+A unit test of eg005's behaviour would not have caught this, because
+eg005 was never reached through the public path. Only a structural check
+that reads the source can. That is what this file is.
+
+It also asserts the inverse: no rule function is left undecorated, which
+is the same failure seen from the other side (a rule that silently does
+not exist).
+"""
+import ast
+import pathlib
+import sys
+
+HERE = pathlib.Path(__file__).resolve().parent.parent
+# runnable both as a pytest module and as `python3 tests/test_rule_wiring.py`
+if str(HERE.parent) not in sys.path:
+    sys.path.insert(0, str(HERE.parent))
+
+
+def _scan_module(fname, decorator_names):
+    """Yield (eg_id, decorator_line, func_name, func_line) for each decorated def."""
+    src = HERE.joinpath(fname).read_text(encoding="utf-8")
+    tree = ast.parse(src)
+    out = []
+    for node in tree.body:
+        if not isinstance(node, ast.FunctionDef):
+            continue
+        for d in node.decorator_list:
+            if not (isinstance(d, ast.Call)
+                    and getattr(d.func, "id", "") in decorator_names):
+                continue
+            if not (d.args and isinstance(d.args[0], ast.Constant)):
+                continue
+            out.append((d.args[0].value, node.name, node.lineno))
+    return out
+
+
+def _expected_name(eg_id):
+    """EG005 -> eg005, EGP01 -> egp01. Lowercased, no other change."""
+    return eg_id.lower().replace("eg", "eg", 1)
+
+
+def test_decorator_binds_the_named_function():
+    """The decorator must sit immediately above the function it names."""
+    bad = []
+    for fname, decs in (("rules.py", {"rule"}), ("pro_rules.py", {"prule"})):
+        for eg_id, func_name, lineno in _scan_module(fname, decs):
+            if func_name != eg_id.lower():
+                bad.append(f"{fname}:{lineno}  {eg_id} decorates "
+                           f"def {func_name}(), expected def {eg_id.lower()}()")
+    assert not bad, "decorator bound to the wrong function:\n  " + "\n  ".join(bad)
+
+
+def test_every_rule_function_is_decorated():
+    """No eg0xx/egpxx function may be left unregistered."""
+    undecorated = []
+    for fname, decs in (("rules.py", {"rule"}), ("pro_rules.py", {"prule"})):
+        src = HERE.joinpath(fname).read_text(encoding="utf-8")
+        tree = ast.parse(src)
+        decorated = {n.name for n in tree.body
+                     if isinstance(n, ast.FunctionDef)
+                     and any(isinstance(d, ast.Call)
+                             and getattr(d.func, "id", "") in decs
+                             for d in n.decorator_list)}
+        for n in tree.body:
+            if not isinstance(n, ast.FunctionDef):
+                continue
+            if (n.name.startswith("eg") and n.name[2:3].isdigit()
+                    and n.name not in decorated):
+                undecorated.append(f"{fname}:{n.lineno} def {n.name}()")
+    assert not undecorated, ("rule functions never registered:\n  "
+                             + "\n  ".join(undecorated))
+
+
+def test_registered_rules_are_callable_with_three_args():
+    """The signature cli actually uses. Catches a helper registered by accident."""
+    from evalguard.rules import RULES
+    from evalguard.pro_rules import PRO_RULES
+    for fn in list(RULES) + list(PRO_RULES):
+        code = fn.__code__
+        n = code.co_argcount
+        assert n == 3, (f"{fn.meta.get('eg_id')} -> {fn.__name__} takes "
+                        f"{n} args, cli calls it with 3 (tree, src, path)")
+
+
+def test_no_duplicate_eg_ids():
+    from evalguard.rules import RULES
+    from evalguard.pro_rules import PRO_RULES
+    seen, dupes = set(), []
+    for fn in list(RULES) + list(PRO_RULES):
+        eid = fn.meta.get("eg_id")
+        if eid in seen:
+            dupes.append(eid)
+        seen.add(eid)
+    assert not dupes, f"duplicate eg_id registered: {dupes}"
+
+
+if __name__ == "__main__":
+    fails = 0
+    for name, fn in sorted(globals().items()):
+        if not name.startswith("test_"):
+            continue
+        try:
+            fn()
+            print(f"  PASS  {name}")
+        except AssertionError as e:
+            fails += 1
+            print(f"  FAIL  {name}\n        {e}")
+    print(f"\n{'ALL PASS' if not fails else str(fails) + ' FAILED'}")
+    sys.exit(1 if fails else 0)

@@ -1,1 +1,184 @@
-IiIiR3JvdW5kIENSVCBkZWZpbml0aW9ucyBpbiBjb21wbGV0ZSBjb2RlIGFuZCBpbmRlcGVuZGVudGx5IHBsYWNlZCBkYXRhLiIiIgppbXBvcnQgaGFzaGxpYgppbXBvcnQganNvbgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmltcG9ydCBwZWZpbGUKCmZyb20gY29mZiBpbXBvcnQgcGFyc2UsIHJlZ2lvbiwgX3JlbG9jYXRpb25zCmZyb20gY3J0X2xpYnJhcnkgaW1wb3J0IGV4dHJhY3QsIGZ1bmN0aW9uX3NlY3Rpb24sIG1lbWJlcnMsIHJlbG9jYXRlCgoKZGVmIGRpZ2VzdChwYXRoKToKICAgIHJldHVybiBoYXNobGliLnNoYTI1NihQYXRoKHBhdGgpLnJlYWRfYnl0ZXMoKSkuaGV4ZGlnZXN0KCkKCgpkZWYgdmVyaWZ5X2Fic29sdXRlX2RlZmluaXRpb25zKHJvb3QsIG1hbmlmZXN0LCBtYXBwaW5nKToKICAgICIiIlZlcmlmeSBleHRlcm5hbCBDT0ZGIEFCUyB2YWx1ZXMgd2l0aG91dCBwbGFjaW5nIHRhcmdldCBzdG9yYWdlLiIiIgogICAgZW50cmllcyA9IG1hbmlmZXN0LmdldCgnYWJzb2x1dGVfZGVmaW5pdGlvbnMnLCBbXSkKICAgIHNlbGVjdGVkID0ge2VudHJ5WydtZW1iZXJfaGVhZGVyX29mZnNldCddIGZvciBlbnRyeSBpbiBlbnRyaWVzfQogICAgbGlicmFyeSA9IHJvb3QgLyBtYW5pZmVzdFsnbGlicmFyeSddCiAgICByYXdfbWVtYmVycyA9IHtvZmZzZXQ6IChuYW1lLCByYXcpIGZvciBvZmZzZXQsIG5hbWUsIHJhdyBpbiBtZW1iZXJzKGxpYnJhcnkpCiAgICAgICAgICAgICAgICAgICBpZiBvZmZzZXQgaW4gc2VsZWN0ZWR9CiAgICBleHBvcnRzLCByb3dzLCBpbnB1dHMgPSB7fSwgW10sIHt9CiAgICBmb3IgZW50cnkgaW4gZW50cmllczoKICAgICAgICBpZiBlbnRyeVsnc3ltYm9sJ10gaW4gZXhwb3J0czoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignZHVwbGljYXRlIGFic29sdXRlIGRlZmluaXRpb24nKQogICAgICAgIG5hbWUsIHJhdyA9IHJhd19tZW1iZXJzW2VudHJ5WydtZW1iZXJfaGVhZGVyX29mZnNldCddXQogICAgICAgIGlmIG5hbWUgIT0gZW50cnlbJ21lbWJlciddIG9yIGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KCkgIT0gZW50cnlbJ21lbWJlcl9zaGEyNTYnXToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignYWJzb2x1dGUgbWVtYmVyIGlkZW50aXR5IG1pc21hdGNoJykKICAgICAgICBvYmogPSByb290IC8gJ2J1aWxkL3Byb2Jlcy9jcnQtYWJzb2x1dGUnIC8gZiJ7ZW50cnlbJ21lbWJlcl9oZWFkZXJfb2Zmc2V0J106MDh4fS5vYmoiCiAgICAgICAgb2JqLnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICAgICAgb2JqLndyaXRlX2J5dGVzKHJhdykKICAgICAgICBfLCBfLCBzeW1ib2xzID0gcGFyc2Uob2JqKQogICAgICAgIGRlZmluZWQgPSBbcyBmb3IgcyBpbiBzeW1ib2xzLnZhbHVlcygpIGlmIHNbJ25hbWUnXSA9PSBlbnRyeVsnc3ltYm9sJ11dCiAgICAgICAgaWYgKGxlbihkZWZpbmVkKSAhPSAxIG9yIGRlZmluZWRbMF1bJ3NlY3Rpb24nXSAhPSAtMSBvcgogICAgICAgICAgICAgICAgZGVmaW5lZFswXVsnc3RvcmFnZSddICE9IDIpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdhYnNvbHV0ZSBiaW5kaW5nIHJlcXVpcmVzIG9uZSBleHRlcm5hbCBDT0ZGIEFCUyBkZWZpbml0aW9uJykKICAgICAgICB2YWx1ZSA9IGRlZmluZWRbMF1bJ3ZhbHVlJ10KICAgICAgICBpZiB2YWx1ZSAhPSBlbnRyeVsndmFsdWUnXToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignYWJzb2x1dGUgZGVmaW5pdGlvbiB2YWx1ZSBkaWZmZXJzJykKICAgICAgICBlc3RhYmxpc2hlZCA9IHsqKm1hcHBpbmcsICoqZXhwb3J0c30KICAgICAgICBpZiBlbnRyeVsnc3ltYm9sJ10gaW4gZXN0YWJsaXNoZWQgYW5kIGVzdGFibGlzaGVkW2VudHJ5WydzeW1ib2wnXV0gIT0gdmFsdWU6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2Fic29sdXRlIGRlZmluaXRpb24gY29udHJhZGljdHMgZXN0YWJsaXNoZWQgYmluZGluZycpCiAgICAgICAgZXhwb3J0c1tlbnRyeVsnc3ltYm9sJ11dID0gdmFsdWUKICAgICAgICBpbnB1dHNbc3RyKG9iai5yZWxhdGl2ZV90byhyb290KSldID0gZGlnZXN0KG9iaikKICAgICAgICByb3dzLmFwcGVuZChkaWN0KCoqZW50cnksIHN0YXR1cz0nc2FtZScsIHNlY3Rpb249LTEsIHN0b3JhZ2U9MiwKICAgICAgICAgICAgICAgICAgICAgICAgIG9iamVjdD1zdHIob2JqLnJlbGF0aXZlX3RvKHJvb3QpKSwKICAgICAgICAgICAgICAgICAgICAgICAgIGJhc2lzPSdleHRlcm5hbCBhYnNvbHV0ZSBkZWZpbml0aW9uIGluIGhhc2gtdmVyaWZpZWQgQ09GRiBtZW1iZXInKSkKICAgIHJldHVybiBleHBvcnRzLCByb3dzLCBpbnB1dHMKCgpkZWYgdmVyaWZ5X2RlZmluaXRpb25zKHJvb3QsIGxpYnJhcnksIGVudHJpZXMsIG1hcHBpbmcsIGJhc2UsIGxvYWRlZCk6CiAgICBleHBvcnRzLCByb3dzLCBpbnB1dHMgPSB7fSwgW10sIHt9CiAgICBmb3IgZW50cnkgaW4gZW50cmllczoKICAgICAgICBhZGRyZXNzID0gaW50KGVudHJ5WydhZGRyZXNzJ10sIDApCiAgICAgICAgb2JqLCBpZGVudGl0eSA9IGV4dHJhY3QobGlicmFyeSwgZW50cnlbJ3N5bWJvbCddLCByb290IC8gJ2J1aWxkL3Byb2Jlcy9jcnQtZGVmaW5pdGlvbnMnKQogICAgICAgIGNvZGUsIHJlbG9jYXRpb25zID0gZnVuY3Rpb25fc2VjdGlvbihvYmosIGVudHJ5WydzeW1ib2wnXSkKICAgICAgICBpZiBsZW4oY29kZSkgIT0gZW50cnlbJ3NpemUnXSBvciBub3QgYmFzZSA8PSBhZGRyZXNzIDw9IGJhc2UgKyBsZW4obG9hZGVkKSAtIGxlbihjb2RlKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigncHJpb3IgZGVmaW5pdGlvbiB3aG9sZS1zZWN0aW9uIGV4dGVudCBtaXNtYXRjaCcpCiAgICAgICAgbGlua2VkID0gcmVsb2NhdGUoY29kZSwgcmVsb2NhdGlvbnMsIGFkZHJlc3MsIG1hcHBpbmcpCiAgICAgICAgaWYgbGlua2VkICE9IGxvYWRlZFthZGRyZXNzIC0gYmFzZTphZGRyZXNzIC0gYmFzZSArIGxlbihsaW5rZWQpXToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigncHJpb3IgZGVmaW5pdGlvbiB3aG9sZS1zZWN0aW9uIGJ5dGVzIGRpZmZlcicpCiAgICAgICAgXywgXywgc3ltYm9scyA9IHBhcnNlKG9iaikKICAgICAgICBzeW1ib2wgPSBuZXh0KHMgZm9yIHMgaW4gc3ltYm9scy52YWx1ZXMoKSBpZiBzWyduYW1lJ10gPT0gZW50cnlbJ3N5bWJvbCddIGFuZCBzWydzZWN0aW9uJ10gPiAwKQogICAgICAgIGlmIHN5bWJvbFsnc3RvcmFnZSddIG5vdCBpbiAoMiwgMykgb3Igc3ltYm9sWyd2YWx1ZSddICE9IDA6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ3ByaW9yIGRlZmluaXRpb24gaXMgbm90IGEgY29tcGxldGUgc2VjdGlvbi1zdGFydCBmdW5jdGlvbicpCiAgICAgICAgaWYgZW50cnlbJ3N5bWJvbCddIGluIG1hcHBpbmcgYW5kIG1hcHBpbmdbZW50cnlbJ3N5bWJvbCddXSAhPSBhZGRyZXNzOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdwcmlvciBkZWZpbml0aW9uIGNvbnRyYWRpY3RzIGVzdGFibGlzaGVkIGJpbmRpbmcnKQogICAgICAgIGlmIHN5bWJvbFsnc3RvcmFnZSddID09IDI6CiAgICAgICAgICAgIGV4cG9ydHNbZW50cnlbJ3N5bWJvbCddXSA9IGFkZHJlc3MKICAgICAgICBpbnB1dHNbc3RyKG9iai5yZWxhdGl2ZV90byhyb290KSldID0gZGlnZXN0KG9iaikKICAgICAgICByb3dzLmFwcGVuZChkaWN0KCoqZW50cnksICoqaWRlbnRpdHksIG9iamVjdD1zdHIob2JqLnJlbGF0aXZlX3RvKHJvb3QpKSwKICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz0nc2FtZScsIGV4dGVybmFsX2RlZmluaXRpb249c3ltYm9sWydzdG9yYWdlJ10gPT0gMiwKICAgICAgICAgICAgICAgICAgICAgICAgIGNvZGVfc2hhMjU2PWhhc2hsaWIuc2hhMjU2KGxpbmtlZCkuaGV4ZGlnZXN0KCksCiAgICAgICAgICAgICAgICAgICAgICAgICByZWxvY2F0aW9ucz1yZWxvY2F0aW9ucywKICAgICAgICAgICAgICAgICAgICAgICAgIGFwcGxpZWRfYmluZGluZ3M9e3JbJ3N5bWJvbCddOiBoZXgobWFwcGluZ1tyWydzeW1ib2wnXV0pIGZvciByIGluIHJlbG9jYXRpb25zfSkpCiAgICByZXR1cm4gZXhwb3J0cywgcm93cywgaW5wdXRzCgoKZGVmIHZlcmlmeV9kYXRhX3NlY3Rpb25zKHJvb3QsIG1hbmlmZXN0LCBtYXBwaW5nLCBvcmlnaW5hbCk6CiAgICBsaWJyYXJ5ID0gcm9vdCAvIG1hbmlmZXN0WydsaWJyYXJ5J10KICAgIHNlbGVjdGVkID0ge2VbJ21lbWJlcl9oZWFkZXJfb2Zmc2V0J10gZm9yIGUgaW4gbWFuaWZlc3QuZ2V0KCdkYXRhX3NlY3Rpb25zJywgW10pfQogICAgcmF3X21lbWJlcnMgPSB7b2Zmc2V0OiAobmFtZSwgcmF3KSBmb3Igb2Zmc2V0LCBuYW1lLCByYXcgaW4gbWVtYmVycyhsaWJyYXJ5KSBpZiBvZmZzZXQgaW4gc2VsZWN0ZWR9CiAgICBpbWFnZSA9IHBlZmlsZS5QRShzdHIob3JpZ2luYWwpKQogICAgY2FycmllciA9IG9yaWdpbmFsLnJlYWRfYnl0ZXMoKQogICAgZXhwb3J0cywgcm93cywgaW5wdXRzID0ge30sIFtdLCB7fQogICAgZm9yIGVudHJ5IGluIG1hbmlmZXN0LmdldCgnZGF0YV9zZWN0aW9ucycsIFtdKToKICAgICAgICBhZGRyZXNzID0gaW50KGVudHJ5WydhZGRyZXNzJ10sIDApCiAgICAgICAgbmFtZSwgcmF3ID0gcmF3X21lbWJlcnNbZW50cnlbJ21lbWJlcl9oZWFkZXJfb2Zmc2V0J11dCiAgICAgICAgaWYgbmFtZSAhPSBlbnRyeVsnbWVtYmVyJ10gb3IgaGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKSAhPSBlbnRyeVsnbWVtYmVyX3NoYTI1NiddOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdkYXRhIG1lbWJlciBpZGVudGl0eSBtaXNtYXRjaCcpCiAgICAgICAgb2JqID0gcm9vdCAvICdidWlsZC9wcm9iZXMvY3J0LWRhdGEnIC8gZiJ7ZW50cnlbJ21lbWJlcl9oZWFkZXJfb2Zmc2V0J106MDh4fS5vYmoiCiAgICAgICAgb2JqLnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICAgICAgb2JqLndyaXRlX2J5dGVzKHJhdykKICAgICAgICBkYXRhLCBzZWN0aW9ucywgc3ltYm9scyA9IHBhcnNlKG9iaikKICAgICAgICBpbmRleCA9IGVudHJ5WydzZWN0aW9uX2luZGV4J10KICAgICAgICBpZiBub3QgMSA8PSBpbmRleCA8PSBsZW4oc2VjdGlvbnMpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdtaXNzaW5nIGNvbXBsZXRlIGRhdGEgc2VjdGlvbicpCiAgICAgICAgc2VjdGlvbiA9IHNlY3Rpb25zW2luZGV4IC0gMV0KICAgICAgICBpZiAobm90IHNlY3Rpb25bJ2ZsYWdzJ10gJiAweDQwIG9yIHNlY3Rpb25bJ2ZsYWdzJ10gJiAweDIwIG9yCiAgICAgICAgICAgICAgICBub3Qgc2VjdGlvblsnZGF0YSddIG9yIHNlY3Rpb25bJ3NpemUnXSAhPSBlbnRyeVsnc2l6ZSddKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignY29tcGxldGUgaW5pdGlhbGl6ZWQgZGF0YSBleHRlbnQgbWlzbWF0Y2gnKQogICAgICAgIGNvbnRlbnQgPSByZWdpb24oZGF0YSwgc2VjdGlvblsnZGF0YSddLCBzZWN0aW9uWydzaXplJ10pCiAgICAgICAgcmVsb2NhdGlvbnMgPSBfcmVsb2NhdGlvbnMoZGF0YSwgc2VjdGlvbiwgc3ltYm9scywgY29udGVudCkKICAgICAgICBkZWZpbmVkID0ge3NbJ25hbWUnXTogcyBmb3IgcyBpbiBzeW1ib2xzLnZhbHVlcygpIGlmIHNbJ3NlY3Rpb24nXSA9PSBpbmRleH0KICAgICAgICBpZiBhbnkoc1sndmFsdWUnXSA+IGxlbihjb250ZW50KSBmb3IgcyBpbiBkZWZpbmVkLnZhbHVlcygpKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignZGF0YSBkZWZpbml0aW9uIGV4Y2VlZHMgY29tcGxldGUgc2VjdGlvbicpCiAgICAgICAgZXN0YWJsaXNoZWQgPSB7KiptYXBwaW5nLCAqKmV4cG9ydHN9CiAgICAgICAgYmFzaXMgPSBlbnRyeVsnYmFzaXMnXQogICAgICAgIGlmIGJhc2lzWydraW5kJ10gPT0gJ2VzdGFibGlzaGVkX3N5bWJvbHMnOgogICAgICAgICAgICBhbmNob3JzID0gYmFzaXNbJ3N5bWJvbHMnXQogICAgICAgICAgICBpZiBsZW4oc2V0KGFuY2hvcnMpKSA8IDIgb3IgYW55KG4gbm90IGluIGVzdGFibGlzaGVkIG9yIG4gbm90IGluIGRlZmluZWQgZm9yIG4gaW4gYW5jaG9ycyk6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdkYXRhIHBsYWNlbWVudCByZXF1aXJlcyBtdWx0aXBsZSBlc3RhYmxpc2hlZCBzeW1ib2xzJykKICAgICAgICAgICAgYmFzZXMgPSB7ZXN0YWJsaXNoZWRbbl0gLSBkZWZpbmVkW25dWyd2YWx1ZSddIGZvciBuIGluIGFuY2hvcnN9CiAgICAgICAgICAgIGlmIGJhc2VzICE9IHthZGRyZXNzfToKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2VzdGFibGlzaGVkIGRhdGEgYW5jaG9ycyBkaXNhZ3JlZSB3aXRoIHNlY3Rpb24gcGxhY2VtZW50JykKICAgICAgICAgICAgcGxhY2VtZW50ID0ge246IGhleChlc3RhYmxpc2hlZFtuXSkgZm9yIG4gaW4gYW5jaG9yc30KICAgICAgICBlbGlmIGJhc2lzWydraW5kJ10gPT0gJ3VuaXF1ZV9pbml0aWFsaXplZF9zeW1ib2wnOgogICAgICAgICAgICBpZiBiYXNpc1snc3ltYm9sJ10gbm90IGluIGRlZmluZWQ6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdtaXNzaW5nIGluaXRpYWxpemVkIGRpc2NvdmVyeSBzeW1ib2wnKQogICAgICAgICAgICBzdGFydCA9IGRlZmluZWRbYmFzaXNbJ3N5bWJvbCddXVsndmFsdWUnXQogICAgICAgICAgICBlbmQgPSBzdGFydCArIGJhc2lzWydzaXplJ10KICAgICAgICAgICAgbmV4dF9kZWZpbml0aW9uID0gbWluKChzWyd2YWx1ZSddIGZvciBzIGluIGRlZmluZWQudmFsdWVzKCkgaWYgc1sndmFsdWUnXSA+IHN0YXJ0KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ9bGVuKGNvbnRlbnQpKQogICAgICAgICAgICBpZiAoYmFzaXNbJ3NpemUnXSA8IDE2IG9yIGVuZCAhPSBuZXh0X2RlZmluaXRpb24gb3IKICAgICAgICAgICAgICAgICAgICBhbnkoclsnb2Zmc2V0J10gPCBlbmQgYW5kIHJbJ29mZnNldCddICsgNCA+IHN0YXJ0IGZvciByIGluIHJlbG9jYXRpb25zKSk6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdkaXNjb3Zlcnkgc3ltYm9sIG92ZXJsYXBzIGEgcmVsb2NhdGlvbiBvciBpbmNvbXBsZXRlIGV4dGVudCcpCiAgICAgICAgICAgIG5lZWRsZSA9IGNvbnRlbnRbc3RhcnQ6ZW5kXQogICAgICAgICAgICBmaXJzdCA9IGNhcnJpZXIuZmluZChuZWVkbGUpCiAgICAgICAgICAgIGlmIGZpcnN0IDwgMCBvciBjYXJyaWVyLmZpbmQobmVlZGxlLCBmaXJzdCArIDEpID49IDA6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdpbml0aWFsaXplZCBkaXNjb3Zlcnkgc3ltYm9sIGlzIG5vdCB1bmlxdWUnKQogICAgICAgICAgICBsb2NhdGVkID0gaW1hZ2UuT1BUSU9OQUxfSEVBREVSLkltYWdlQmFzZSArIGltYWdlLmdldF9ydmFfZnJvbV9vZmZzZXQoZmlyc3QpIC0gc3RhcnQKICAgICAgICAgICAgaWYgbG9jYXRlZCAhPSBhZGRyZXNzOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigndW5pcXVlIGluaXRpYWxpemVkIHN5bWJvbCBkb2VzIG5vdCBsb2NhdGUgdGhlIGRlY2xhcmVkIHNlY3Rpb24nKQogICAgICAgICAgICBwbGFjZW1lbnQgPSBkaWN0KHN5bWJvbD1iYXNpc1snc3ltYm9sJ10sIGNvbXBsZXRlX3N5bWJvbF9ieXRlcz1sZW4obmVlZGxlKSwgZmlsZV9vZmZzZXQ9Zmlyc3QpCiAgICAgICAgZWxpZiBiYXNpc1sna2luZCddIGluICgndW5pcXVlX2luaXRpYWxpemVkX3NlY3Rpb24nLCAndW5pcXVlX2luaXRpYWxpemVkX3N0cmluZycpOgogICAgICAgICAgICBpZiByZWxvY2F0aW9ucyBvciBub3QgYW55KGNvbnRlbnQpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignd2hvbGUtc2VjdGlvbiBkaXNjb3ZlcnkgcmVxdWlyZXMgbm9uemVybyByZWxvY2F0aW9uLWZyZWUgaW5pdGlhbGl6ZWQgZGF0YScpCiAgICAgICAgICAgIGlmIGJhc2lzWydraW5kJ10gPT0gJ3VuaXF1ZV9pbml0aWFsaXplZF9zdHJpbmcnOgogICAgICAgICAgICAgICAgbGl0ZXJhbCA9IGRlZmluZWQuZ2V0KGJhc2lzWydzeW1ib2wnXSkKICAgICAgICAgICAgICAgIGlmIChsaXRlcmFsIGlzIE5vbmUgb3IgbGl0ZXJhbFsndmFsdWUnXSAhPSAwIG9yCiAgICAgICAgICAgICAgICAgICAgICAgIGxpdGVyYWxbJ3N0b3JhZ2UnXSAhPSAyIG9yIG5vdCBsaXRlcmFsWyduYW1lJ10uc3RhcnRzd2l0aCgnPz9fQ0AnKSBvcgogICAgICAgICAgICAgICAgICAgICAgICBsZW4oY29udGVudCkgPCA5IG9yIGNvbnRlbnRbLTE6XSAhPSBiJ1wwJyBvcgogICAgICAgICAgICAgICAgICAgICAgICBhbnkoYyA8IDMyIG9yIGMgPiAxMjYgZm9yIGMgaW4gY29udGVudFs6LTFdKSk6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignZGlzY292ZXJ5IHJlcXVpcmVzIGEgY29tcGxldGUgaW5pdGlhbGl6ZWQgQVNDSUkgc3RyaW5nIGxpdGVyYWwnKQogICAgICAgICAgICBlbGlmIGxlbihjb250ZW50KSA8IDE2OgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignd2hvbGUtc2VjdGlvbiBkaXNjb3ZlcnkgcmVxdWlyZXMgYXQgbGVhc3Qgc2l4dGVlbiBpbml0aWFsaXplZCBieXRlcycpCiAgICAgICAgICAgIGZpcnN0ID0gY2Fycmllci5maW5kKGNvbnRlbnQpCiAgICAgICAgICAgIGlmIGZpcnN0IDwgMCBvciBjYXJyaWVyLmZpbmQoY29udGVudCwgZmlyc3QgKyAxKSA+PSAwOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignaW5pdGlhbGl6ZWQgZGlzY292ZXJ5IHNlY3Rpb24gaXMgbm90IHVuaXF1ZScpCiAgICAgICAgICAgIGxvY2F0ZWQgPSBpbWFnZS5PUFRJT05BTF9IRUFERVIuSW1hZ2VCYXNlICsgaW1hZ2UuZ2V0X3J2YV9mcm9tX29mZnNldChmaXJzdCkKICAgICAgICAgICAgaWYgbG9jYXRlZCAhPSBhZGRyZXNzOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigndW5pcXVlIGluaXRpYWxpemVkIHNlY3Rpb24gZG9lcyBub3QgbG9jYXRlIHRoZSBkZWNsYXJlZCBzZWN0aW9uJykKICAgICAgICAgICAgcGxhY2VtZW50ID0gZGljdChjb21wbGV0ZV9zZWN0aW9uX2J5dGVzPWxlbihjb250ZW50KSwgZmlsZV9vZmZzZXQ9Zmlyc3QpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigndW5zdXBwb3J0ZWQgaW5kZXBlbmRlbnQgZGF0YSBwbGFjZW1lbnQgYmFzaXMnKQogICAgICAgIGxvY2FsID0ge246IGFkZHJlc3MgKyBzWyd2YWx1ZSddIGZvciBuLCBzIGluIGRlZmluZWQuaXRlbXMoKX0KICAgICAgICBpZiBhbnkobiBpbiBlc3RhYmxpc2hlZCBhbmQgZXN0YWJsaXNoZWRbbl0gIT0gYSBmb3IgbiwgYSBpbiBsb2NhbC5pdGVtcygpKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignZGF0YSBkZWZpbml0aW9uIGNvbnRyYWRpY3RzIGFuIGVzdGFibGlzaGVkIHN5bWJvbCcpCiAgICAgICAgbGlua2VkID0gcmVsb2NhdGUoY29udGVudCwgcmVsb2NhdGlvbnMsIGFkZHJlc3MsIHsqKmVzdGFibGlzaGVkLCAqKmxvY2FsfSkKICAgICAgICBwYXRoID0gcm9vdCAvIGVudHJ5WydldmlkZW5jZV9wYXRoJ10KICAgICAgICByZWNvcmQgPSBqc29uLmxvYWRzKHBhdGgucmVhZF90ZXh0KCkpCiAgICAgICAgZXZpZGVuY2UgPSByZWNvcmQuZ2V0KCdldmlkZW5jZScsIHJlY29yZCkKICAgICAgICBpZiAocmVjb3JkWydldmlkZW5jZV9pZCddICE9IGVudHJ5WydldmlkZW5jZV9pZCddIG9yCiAgICAgICAgICAgICAgICBldmlkZW5jZVsnc3ViamVjdCddWydkaWdlc3QnXVsnc2hhMjU2J10gIT0gbWFuaWZlc3RbJ3RhcmdldF9zaGEyNTYnXSBvcgogICAgICAgICAgICAgICAgZXZpZGVuY2VbJ3Byb3ZpZGVyJ10gIT0gbWFuaWZlc3RbJ3Byb3ZpZGVyJ10pOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdkYXRhIEV2aWRlbmNlIHRhcmdldC9wcm92aWRlciBpZGVudGl0eSBtaXNtYXRjaCcpCiAgICAgICAgb2JzZXJ2ZWQgPSByZWNvcmQuZ2V0KCdyZXN1bHQnLCByZWNvcmQuZ2V0KCdyYXdfcmVzdWx0JykpCiAgICAgICAgaWYgKG9ic2VydmVkIGlzIE5vbmUgb3Igbm90IG9ic2VydmVkWydjb21wbGV0ZSddIG9yIGludChvYnNlcnZlZFsnYWRkcmVzcyddLCAwKSAhPSBhZGRyZXNzIG9yCiAgICAgICAgICAgICAgICBvYnNlcnZlZFsncmVxdWVzdGVkX2J5dGVzJ10gIT0gbGVuKGxpbmtlZCkgb3Igb2JzZXJ2ZWRbJ3JldHVybmVkX2J5dGVzJ10gIT0gbGVuKGxpbmtlZCkpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdkYXRhIEV2aWRlbmNlIGNvbXBsZXRlIGV4dGVudCBtaXNtYXRjaCcpCiAgICAgICAgb2JzZXJ2ZWRfYnl0ZXMgPSBieXRlcy5mcm9taGV4KG9ic2VydmVkWydieXRlc19oZXgnXSkKICAgICAgICBpZiBsaW5rZWQgIT0gb2JzZXJ2ZWRfYnl0ZXMgb3IgbGlua2VkICE9IGltYWdlLmdldF9kYXRhKGFkZHJlc3MgLSBpbWFnZS5PUFRJT05BTF9IRUFERVIuSW1hZ2VCYXNlLCBsZW4obGlua2VkKSk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ3dob2xlIHJlbG9jYXRlZCBkYXRhIGRpZmZlcnMgZnJvbSBFdmlkZW5jZSBvciBQRScpCiAgICAgICAgIyBObyBzeW1ib2wgYmVjb21lcyBiaW5kaW5nIGF1dGhvcml0eSB1bnRpbCBpdHMgd2hvbGUgc3RvcmFnZSBwYXNzZXMuCiAgICAgICAgYWN0dWFsX2V4cG9ydHMgPSB7bjogYSBmb3IgbiwgYSBpbiBsb2NhbC5pdGVtcygpIGlmIGRlZmluZWRbbl1bJ3N0b3JhZ2UnXSA9PSAyfQogICAgICAgIGV4cG9ydHMudXBkYXRlKGFjdHVhbF9leHBvcnRzKQogICAgICAgIGZvciBwIGluIChvYmosIHBhdGgsIHBhdGgucGFyZW50IC8gJ2Nsb3NlLmpzb24nKToKICAgICAgICAgICAgaW5wdXRzW3N0cihwLnJlbGF0aXZlX3RvKHJvb3QpKV0gPSBkaWdlc3QocCkKICAgICAgICByb3dzLmFwcGVuZChkaWN0KCoqZW50cnksIHN0YXR1cz0nc2FtZScsIHBsYWNlbWVudD1wbGFjZW1lbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhX3NoYTI1Nj1oYXNobGliLnNoYTI1NihsaW5rZWQpLmhleGRpZ2VzdCgpLCByZWxvY2F0aW9ucz1yZWxvY2F0aW9ucywKICAgICAgICAgICAgICAgICAgICAgICAgIGFwcGxpZWRfYmluZGluZ3M9e3JbJ3N5bWJvbCddOiBoZXgoKHsqKmVzdGFibGlzaGVkLCAqKmxvY2FsfSlbclsnc3ltYm9sJ11dKSBmb3IgciBpbiByZWxvY2F0aW9uc30sCiAgICAgICAgICAgICAgICAgICAgICAgICBleHBvcnRlZF9kZWZpbml0aW9ucz17bjogaGV4KGEpIGZvciBuLCBhIGluIGFjdHVhbF9leHBvcnRzLml0ZW1zKCl9KSkKICAgIHJldHVybiBleHBvcnRzLCByb3dzLCBpbnB1dHMK
+"""Ground CRT definitions in complete code and independently placed data."""
+import hashlib
+import json
+from pathlib import Path
+
+import pefile
+
+from coff import parse, region, _relocations
+from crt_library import extract, function_section, members, relocate
+
+
+def digest(path):
+    return hashlib.sha256(Path(path).read_bytes()).hexdigest()
+
+
+def verify_absolute_definitions(root, manifest, mapping):
+    """Verify external COFF ABS values without placing target storage."""
+    entries = manifest.get('absolute_definitions', [])
+    selected = {entry['member_header_offset'] for entry in entries}
+    library = root / manifest['library']
+    raw_members = {offset: (name, raw) for offset, name, raw in members(library)
+                   if offset in selected}
+    exports, rows, inputs = {}, [], {}
+    for entry in entries:
+        if entry['symbol'] in exports:
+            raise ValueError('duplicate absolute definition')
+        name, raw = raw_members[entry['member_header_offset']]
+        if name != entry['member'] or hashlib.sha256(raw).hexdigest() != entry['member_sha256']:
+            raise ValueError('absolute member identity mismatch')
+        obj = root / 'build/probes/crt-absolute' / f"{entry['member_header_offset']:08x}.obj"
+        obj.parent.mkdir(parents=True, exist_ok=True)
+        obj.write_bytes(raw)
+        _, _, symbols = parse(obj)
+        defined = [s for s in symbols.values() if s['name'] == entry['symbol']]
+        if (len(defined) != 1 or defined[0]['section'] != -1 or
+                defined[0]['storage'] != 2):
+            raise ValueError('absolute binding requires one external COFF ABS definition')
+        value = defined[0]['value']
+        if value != entry['value']:
+            raise ValueError('absolute definition value differs')
+        established = {**mapping, **exports}
+        if entry['symbol'] in established and established[entry['symbol']] != value:
+            raise ValueError('absolute definition contradicts established binding')
+        exports[entry['symbol']] = value
+        inputs[str(obj.relative_to(root))] = digest(obj)
+        rows.append(dict(**entry, status='same', section=-1, storage=2,
+                         object=str(obj.relative_to(root)),
+                         basis='external absolute definition in hash-verified COFF member'))
+    return exports, rows, inputs
+
+
+def verify_definitions(root, library, entries, mapping, base, loaded):
+    exports, rows, inputs = {}, [], {}
+    for entry in entries:
+        address = int(entry['address'], 0)
+        obj, identity = extract(library, entry['symbol'], root / 'build/probes/crt-definitions')
+        code, relocations = function_section(obj, entry['symbol'])
+        if len(code) != entry['size'] or not base <= address <= base + len(loaded) - len(code):
+            raise ValueError('prior definition whole-section extent mismatch')
+        linked = relocate(code, relocations, address, mapping)
+        if linked != loaded[address - base:address - base + len(linked)]:
+            raise ValueError('prior definition whole-section bytes differ')
+        _, _, symbols = parse(obj)
+        symbol = next(s for s in symbols.values() if s['name'] == entry['symbol'] and s['section'] > 0)
+        if symbol['storage'] not in (2, 3) or symbol['value'] != 0:
+            raise ValueError('prior definition is not a complete section-start function')
+        if entry['symbol'] in mapping and mapping[entry['symbol']] != address:
+            raise ValueError('prior definition contradicts established binding')
+        if symbol['storage'] == 2:
+            exports[entry['symbol']] = address
+        inputs[str(obj.relative_to(root))] = digest(obj)
+        rows.append(dict(**entry, **identity, object=str(obj.relative_to(root)),
+                         status='same', external_definition=symbol['storage'] == 2,
+                         code_sha256=hashlib.sha256(linked).hexdigest(),
+                         relocations=relocations,
+                         applied_bindings={r['symbol']: hex(mapping[r['symbol']]) for r in relocations}))
+    return exports, rows, inputs
+
+
+def verify_data_sections(root, manifest, mapping, original):
+    library = root / manifest['library']
+    selected = {e['member_header_offset'] for e in manifest.get('data_sections', [])}
+    raw_members = {offset: (name, raw) for offset, name, raw in members(library) if offset in selected}
+    image = pefile.PE(str(original))
+    carrier = original.read_bytes()
+    exports, rows, inputs = {}, [], {}
+    for entry in manifest.get('data_sections', []):
+        address = int(entry['address'], 0)
+        name, raw = raw_members[entry['member_header_offset']]
+        if name != entry['member'] or hashlib.sha256(raw).hexdigest() != entry['member_sha256']:
+            raise ValueError('data member identity mismatch')
+        obj = root / 'build/probes/crt-data' / f"{entry['member_header_offset']:08x}.obj"
+        obj.parent.mkdir(parents=True, exist_ok=True)
+        obj.write_bytes(raw)
+        data, sections, symbols = parse(obj)
+        index = entry['section_index']
+        if not 1 <= index <= len(sections):
+            raise ValueError('missing complete data section')
+        section = sections[index - 1]
+        if (not section['flags'] & 0x40 or section['flags'] & 0x20 or
+                not section['data'] or section['size'] != entry['size']):
+            raise ValueError('complete initialized data extent mismatch')
+        content = region(data, section['data'], section['size'])
+        relocations = _relocations(data, section, symbols, content)
+        defined = {s['name']: s for s in symbols.values() if s['section'] == index}
+        if any(s['value'] > len(content) for s in defined.values()):
+            raise ValueError('data definition exceeds complete section')
+        established = {**mapping, **exports}
+        basis = entry['basis']
+        if basis['kind'] == 'established_symbols':
+            anchors = basis['symbols']
+            if len(set(anchors)) < 2 or any(n not in established or n not in defined for n in anchors):
+                raise ValueError('data placement requires multiple established symbols')
+            bases = {established[n] - defined[n]['value'] for n in anchors}
+            if bases != {address}:
+                raise ValueError('established data anchors disagree with section placement')
+            placement = {n: hex(established[n]) for n in anchors}
+        elif basis['kind'] == 'unique_initialized_symbol':
+            if basis['symbol'] not in defined:
+                raise ValueError('missing initialized discovery symbol')
+            start = defined[basis['symbol']]['value']
+            end = start + basis['size']
+            next_definition = min((s['value'] for s in defined.values() if s['value'] > start),
+                                  default=len(content))
+            if (basis['size'] < 16 or end != next_definition or
+                    any(r['offset'] < end and r['offset'] + 4 > start for r in relocations)):
+                raise ValueError('discovery symbol overlaps a relocation or incomplete extent')
+            needle = content[start:end]
+            first = carrier.find(needle)
+            if first < 0 or carrier.find(needle, first + 1) >= 0:
+                raise ValueError('initialized discovery symbol is not unique')
+            located = image.OPTIONAL_HEADER.ImageBase + image.get_rva_from_offset(first) - start
+            if located != address:
+                raise ValueError('unique initialized symbol does not locate the declared section')
+            placement = dict(symbol=basis['symbol'], complete_symbol_bytes=len(needle), file_offset=first)
+        elif basis['kind'] in ('unique_initialized_section', 'unique_initialized_string'):
+            if relocations or not any(content):
+                raise ValueError('whole-section discovery requires nonzero relocation-free initialized data')
+            if basis['kind'] == 'unique_initialized_string':
+                literal = defined.get(basis['symbol'])
+                if (literal is None or literal['value'] != 0 or
+                        literal['storage'] != 2 or not literal['name'].startswith('??_C@') or
+                        len(content) < 9 or content[-1:] != b'\0' or
+                        any(c < 32 or c > 126 for c in content[:-1])):
+                    raise ValueError('discovery requires a complete initialized ASCII string literal')
+            elif len(content) < 16:
+                raise ValueError('whole-section discovery requires at least sixteen initialized bytes')
+            first = carrier.find(content)
+            if first < 0 or carrier.find(content, first + 1) >= 0:
+                raise ValueError('initialized discovery section is not unique')
+            located = image.OPTIONAL_HEADER.ImageBase + image.get_rva_from_offset(first)
+            if located != address:
+                raise ValueError('unique initialized section does not locate the declared section')
+            placement = dict(complete_section_bytes=len(content), file_offset=first)
+        else:
+            raise ValueError('unsupported independent data placement basis')
+        local = {n: address + s['value'] for n, s in defined.items()}
+        if any(n in established and established[n] != a for n, a in local.items()):
+            raise ValueError('data definition contradicts an established symbol')
+        linked = relocate(content, relocations, address, {**established, **local})
+        path = root / entry['evidence_path']
+        record = json.loads(path.read_text())
+        evidence = record.get('evidence', record)
+        if (record['evidence_id'] != entry['evidence_id'] or
+                evidence['subject']['digest']['sha256'] != manifest['target_sha256'] or
+                evidence['provider'] != manifest['provider']):
+            raise ValueError('data Evidence target/provider identity mismatch')
+        observed = record.get('result', record.get('raw_result'))
+        if (observed is None or not observed['complete'] or int(observed['address'], 0) != address or
+                observed['requested_bytes'] != len(linked) or observed['returned_bytes'] != len(linked)):
+            raise ValueError('data Evidence complete extent mismatch')
+        observed_bytes = bytes.fromhex(observed['bytes_hex'])
+        if linked != observed_bytes or linked != image.get_data(address - image.OPTIONAL_HEADER.ImageBase, len(linked)):
+            raise ValueError('whole relocated data differs from Evidence or PE')
+        # No symbol becomes binding authority until its whole storage passes.
+        actual_exports = {n: a for n, a in local.items() if defined[n]['storage'] == 2}
+        exports.update(actual_exports)
+        for p in (obj, path, path.parent / 'close.json'):
+            inputs[str(p.relative_to(root))] = digest(p)
+        rows.append(dict(**entry, status='same', placement=placement,
+                         data_sha256=hashlib.sha256(linked).hexdigest(), relocations=relocations,
+                         applied_bindings={r['symbol']: hex(({**established, **local})[r['symbol']]) for r in relocations},
+                         exported_definitions={n: hex(a) for n, a in actual_exports.items()}))
+    return exports, rows, inputs

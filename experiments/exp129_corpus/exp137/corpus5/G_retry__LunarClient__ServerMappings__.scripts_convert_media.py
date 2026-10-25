@@ -1,1 +1,500 @@
-IiIiClRoaXMgbW9kdWxlIGlzIHVzZWQgdG8gY29udmVydCBtZWRpYSBmaWxlcyBmb3Igc2VydmVycy4gSXQgc3VwcG9ydHMgY29udmVyc2lvbiBvZiBsb2dvcywKYmFja2dyb3VuZHMsIGFuZCBiYW5uZXJzIHdpdGggZGlmZmVyZW50IHNpemVzIGZvciBkaWZmZXJlbnQgcGxhY2VtZW50cyBhY3Jvc3MgTHVuYXIgQ2xpZW50LgoiIiIKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgaGFzaGxpYgppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHNodXRpbAoKaW1wb3J0IHdlYnB0b29scwpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UgYXMgaW1hZ2UKZnJvbSB1dGlscyBpbXBvcnQgZ2V0X2FsbF9zZXJ2ZXJzCgojIEdyYW50IHBlcm1pc3Npb25zIHRvIFdlYnB0b29scwp3ZWJwdG9vbHMuZ3JhbnRfcGVybWlzc2lvbigpCgoKZGVmIG1haW4oKToKICAgICIiIgogICAgTWFpbiBmdW5jdGlvbiB0byBwYXJzZSBhcmd1bWVudHMgYW5kIGNvbnZlcnQgc2VydmVyIG1lZGlhLgogICAgIiIiCiAgICB1c2VfYXJncyA9IG9zLmdldGVudigiVVNFX0FSR1MiKSA9PSAidHJ1ZSIKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKCiAgICAjIEdlbmVyYWwgQXJncwogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1zZXJ2ZXJzX2RpciIsIHJlcXVpcmVkPXVzZV9hcmdzLCB0eXBlPXN0cikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0taW5hY3RpdmVfZmlsZSIsIHJlcXVpcmVkPXVzZV9hcmdzLCB0eXBlPXN0cikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tbG9zc2xlc3MiLCBkZWZhdWx0PUZhbHNlLCBhY3Rpb249InN0b3JlX3RydWUiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jaGFuZ2VkX2ZpbGVzIiwgcmVxdWlyZWQ9RmFsc2UsIHR5cGU9c3RyKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1kcnlfdXBsb2FkIiwgZGVmYXVsdD0iZmFsc2UiLCB0eXBlPXN0cikKCiAgICAjIExvZ28gQXJncwogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1zZXJ2ZXJzX2xvZ29zX291dHB1dCIsIHJlcXVpcmVkPXVzZV9hcmdzLCB0eXBlPXN0cikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tc2VydmVyc19sb2dvc19zaXplcyIsIG5hcmdzPSIrIiwgdHlwZT1pbnQsIGRlZmF1bHQ9WzI1Nl0pCgogICAgIyBCYWNrZ3JvdW5kIGFyZ3MKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tc2VydmVyc19iYWNrZ3JvdW5kc19vdXRwdXQiLCByZXF1aXJlZD11c2VfYXJncywgdHlwZT1zdHIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLXNlcnZlcnNfYmFja2dyb3VuZHNfc2l6ZXMiLCBuYXJncz0iKyIsIHR5cGU9c3RyLCBkZWZhdWx0PVsiMTkyMHgxMDgwIl0KICAgICkKCiAgICAjIFdvcmRtYXJrIEFyZ3MKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tc2VydmVyc193b3JkbWFya3Nfb3V0cHV0IiwgcmVxdWlyZWQ9dXNlX2FyZ3MsIHR5cGU9c3RyKQoKICAgICMgQmFubmVyIGFyZ3MKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tc2VydmVyc19iYW5uZXJzX291dHB1dCIsIHJlcXVpcmVkPXVzZV9hcmdzLCB0eXBlPXN0cikKCiAgICAjIEFzc2V0cyBhcmdzCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXNlcnZlcnNfYXNzZXRzX291dHB1dCIsIHJlcXVpcmVkPXVzZV9hcmdzLCB0eXBlPXN0cikKCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQogICAgYXJncy5kcnlfdXBsb2FkID0gYXJncy5kcnlfdXBsb2FkLmxvd2VyKCkgaW4gWyJ0cnVlIiwgIjEiLCAidCIsICJ5IiwgInllcyJdCgogICAgIyBJZiB3ZSBkb24ndCBmaW5kIHRoZSBlbnYgdmFyaWFibGUgZm9yIHVzZSBhcmdzIGFzc3VtZSB3ZSdyZSBydW5uaW5nIHRoaXMgbG9jYWxseQogICAgaWYgbm90IHVzZV9hcmdzOgogICAgICAgIGxvY2FsID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkucmVwbGFjZSgKICAgICAgICAgICAgIlxcIiwgIi8iCiAgICAgICAgKQoKICAgICAgICBhcmdzLmluYWN0aXZlX2ZpbGUgPSBsb2NhbCArICIvaW5hY3RpdmUuanNvbiIKICAgICAgICBhcmdzLnNlcnZlcnNfZGlyID0gbG9jYWwgKyAiL3NlcnZlcnMiCgogICAgICAgIGFyZ3Muc2VydmVyc19sb2dvc19vdXRwdXQgPSBsb2NhbCArICIvLm91dC9zZXJ2ZXJzX2xvZ29zX291dHB1dCIKICAgICAgICBhcmdzLnNlcnZlcnNfYmFja2dyb3VuZHNfb3V0cHV0ID0gbG9jYWwgKyAiLy5vdXQvYmFja2dyb3VuZHMiCiAgICAgICAgYXJncy5zZXJ2ZXJzX3dvcmRtYXJrc19vdXRwdXQgPSBsb2NhbCArICIvLm91dC93b3JkbWFya3MiCiAgICAgICAgYXJncy5zZXJ2ZXJzX2Jhbm5lcnNfb3V0cHV0ID0gbG9jYWwgKyAiLy5vdXQvYmFubmVycyIKICAgICAgICBhcmdzLnNlcnZlcnNfYXNzZXRzX291dHB1dCA9IGxvY2FsICsgIi8ub3V0L2Fzc2V0cyIKICAgICAgICBhcmdzLmxvc3NsZXNzID0gRmFsc2UKCiAgICAjIExvYWQgc2VydmVyIG1hcHBpbmdzIEpTT04KICAgIHNlcnZlcnMgPSBnZXRfYWxsX3NlcnZlcnMoCiAgICAgICAgYXJncy5zZXJ2ZXJzX2RpciwgYXJncy5pbmFjdGl2ZV9maWxlLCBGYWxzZQogICAgKQoKICAgIGlmIGFyZ3MuZHJ5X3VwbG9hZDoKICAgICAgICBwcmludChmIkRyeSBydW4gZGV0ZWN0ZWQuIENvbnZlcnRpbmcge2xlbihzZXJ2ZXJzKX0gc2VydmVyIG1lZGlhLi4uIikKICAgIGVsc2U6CiAgICAgICAgY2hhbmdlZF9maWxlcyA9ICgKICAgICAgICAgICAgbGlzdChqc29uLmxvYWRzKGFyZ3MuY2hhbmdlZF9maWxlcykpIGlmIGFyZ3MuY2hhbmdlZF9maWxlcyBlbHNlIFtdCiAgICAgICAgKQogICAgICAgIGNoYW5nZWRfc2VydmVycyA9IGxpc3Qoc2V0KGZpbGUuc3BsaXQoIi8iKVsxXSBmb3IgZmlsZSBpbiBjaGFuZ2VkX2ZpbGVzKSkKCiAgICAgICAgcHJpbnQoCiAgICAgICAgICAgIGYiQ29udmVydGluZyB7bGVuKGNoYW5nZWRfc2VydmVycyl9IHNlcnZlciBtZWRpYSBmcm9tIHRoZSBmb2xsb3dpbmcgc2VydmVyczoiCiAgICAgICAgKQogICAgICAgIHByaW50KGNoYW5nZWRfc2VydmVycykKCiAgICAgICAgIyBGaWx0ZXIgc2VydmVycyBhcnJheQogICAgICAgIHNlcnZlcnMgPSBbc2VydmVyIGZvciBzZXJ2ZXIgaW4gc2VydmVycyBpZiBzZXJ2ZXJbImlkIl0gaW4gY2hhbmdlZF9zZXJ2ZXJzXQoKICAgIGJhY2tncm91bmRfYW1vdW50ID0gMAogICAgd29yZG1hcmtfYW1vdW50ID0gMAogICAgYmFubmVyX2Ftb3VudCA9IDAKCiAgICAjIENyZWF0ZSBzZXJ2ZXIgbWVkaWEgb3V0cHV0IGRpcmVjdG9yaWVzCiAgICBvcy5tYWtlZGlycyhhcmdzLnNlcnZlcnNfbG9nb3Nfb3V0cHV0LCBleGlzdF9vaz1UcnVlKQogICAgb3MubWFrZWRpcnMoYXJncy5zZXJ2ZXJzX2JhY2tncm91bmRzX291dHB1dCwgZXhpc3Rfb2s9VHJ1ZSkKICAgIG9zLm1ha2VkaXJzKGFyZ3Muc2VydmVyc193b3JkbWFya3Nfb3V0cHV0LCBleGlzdF9vaz1UcnVlKQogICAgb3MubWFrZWRpcnMoYXJncy5zZXJ2ZXJzX2Jhbm5lcnNfb3V0cHV0LCBleGlzdF9vaz1UcnVlKQogICAgb3MubWFrZWRpcnMoYXJncy5zZXJ2ZXJzX2Fzc2V0c19vdXRwdXQsIGV4aXN0X29rPVRydWUpCgogICAgZm9yIHNlcnZlciBpbiBzZXJ2ZXJzOgogICAgICAgIHNlcnZlcl9pZCA9IHNlcnZlclsiaWQiXQogICAgICAgIHNlcnZlcl9uYW1lID0gc2VydmVyWyJuYW1lIl0KCiAgICAgICAgIyBQYXRocwogICAgICAgIGxvZ29fcGF0aCA9IGYie2FyZ3Muc2VydmVyc19kaXJ9L3tzZXJ2ZXJfaWR9L2xvZ28ucG5nIgogICAgICAgIGJhY2tncm91bmRfcGF0aCA9IGYie2FyZ3Muc2VydmVyc19kaXJ9L3tzZXJ2ZXJfaWR9L2JhY2tncm91bmQucG5nIgogICAgICAgIHdvcmRtYXJrX3BhdGggPSBmInthcmdzLnNlcnZlcnNfZGlyfS97c2VydmVyX2lkfS93b3JkbWFyay5wbmciCiAgICAgICAgc3RhdGljX2Jhbm5lcl9wYXRoID0gZiJ7YXJncy5zZXJ2ZXJzX2Rpcn0ve3NlcnZlcl9pZH0vYmFubmVyLnBuZyIKICAgICAgICBhbmltYXRlZF9iYW5uZXJfcGF0aCA9IGYie2FyZ3Muc2VydmVyc19kaXJ9L3tzZXJ2ZXJfaWR9L2Jhbm5lci5naWYiCgogICAgICAgIGNvbnZlcnRfbG9nbygKICAgICAgICAgICAgbG9nb19wYXRoLAogICAgICAgICAgICBhcmdzLnNlcnZlcnNfbG9nb3Nfb3V0cHV0LAogICAgICAgICAgICBzZXJ2ZXJfaWQsCiAgICAgICAgICAgIHNlcnZlcl9uYW1lLAogICAgICAgICAgICBhcmdzLnNlcnZlcnNfbG9nb3Nfc2l6ZXMsCiAgICAgICAgICAgIGFyZ3MubG9zc2xlc3MsCiAgICAgICAgKQoKICAgICAgICBpZiBjb252ZXJ0X2JhY2tncm91bmQoCiAgICAgICAgICAgIGJhY2tncm91bmRfcGF0aCwKICAgICAgICAgICAgYXJncy5zZXJ2ZXJzX2JhY2tncm91bmRzX291dHB1dCwKICAgICAgICAgICAgc2VydmVyX2lkLAogICAgICAgICAgICBzZXJ2ZXJfbmFtZSwKICAgICAgICAgICAgYXJncy5zZXJ2ZXJzX2JhY2tncm91bmRzX3NpemVzLAogICAgICAgICAgICBhcmdzLmxvc3NsZXNzLAogICAgICAgICk6CiAgICAgICAgICAgIGJhY2tncm91bmRfYW1vdW50ICs9IDEKICAgICAgICAKICAgICAgICBpZiBjb252ZXJ0X3dvcmRtYXJrKAogICAgICAgICAgICB3b3JkbWFya19wYXRoLAogICAgICAgICAgICBhcmdzLnNlcnZlcnNfd29yZG1hcmtzX291dHB1dCwKICAgICAgICAgICAgc2VydmVyX2lkLAogICAgICAgICAgICBzZXJ2ZXJfbmFtZSwKICAgICAgICAgICAgYXJncy5sb3NzbGVzcywKICAgICAgICApOgogICAgICAgICAgICB3b3JkbWFya19hbW91bnQgKz0gMQoKICAgICAgICAjIGNvbnZlcnQgb25seSB0aGUgZmlyc3QgYmFubmVyIHRoYXQgZXhpc3RzLCBiZWNhdXNlIGVpdGhlciBjYW4gZXhpc3QuCiAgICAgICAgZm9yIGJhbm5lcl9wYXRoIGluIFtzdGF0aWNfYmFubmVyX3BhdGgsIGFuaW1hdGVkX2Jhbm5lcl9wYXRoXToKICAgICAgICAgICAgaWYgY29udmVydF9iYW5uZXIoCiAgICAgICAgICAgICAgICBiYW5uZXJfcGF0aCwKICAgICAgICAgICAgICAgIGFyZ3Muc2VydmVyc19iYW5uZXJzX291dHB1dCwKICAgICAgICAgICAgICAgIHNlcnZlcl9pZCwKICAgICAgICAgICAgICAgIHNlcnZlcl9uYW1lLAogICAgICAgICAgICAgICAgYXJncy5sb3NzbGVzcywKICAgICAgICAgICAgKToKICAgICAgICAgICAgICAgIGJhbm5lcl9hbW91bnQgKz0gMQogICAgICAgICAgICAgICAgYnJlYWsKCiAgICAgICAgY29weV9hc3NldHMoCiAgICAgICAgICAgIGYie2FyZ3Muc2VydmVyc19kaXJ9L3tzZXJ2ZXJfaWR9IiwKICAgICAgICAgICAgYXJncy5zZXJ2ZXJzX2Fzc2V0c19vdXRwdXQsCiAgICAgICAgICAgIHNlcnZlcl9pZCwKICAgICAgICAgICAgc2VydmVyX25hbWUsCiAgICAgICAgKQoKICAgIHByaW50KGYiU3VjZXNzZnVsbHkgY29udmVydGVkIHtsZW4oc2VydmVycyl9IHNlcnZlciBsb2dvcy4iKQogICAgcHJpbnQoCiAgICAgICAgZiJTdWNjZXNzZnVsbHkgY29udmVydGVkIHtiYWNrZ3JvdW5kX2Ftb3VudH0gc2VydmVyIGJhY2tncm91bmRzIC0gIgogICAgICAgIGYiKHtsZW4oc2VydmVycykgLSBiYWNrZ3JvdW5kX2Ftb3VudH0gc2VydmVycyBkaWQgbm90IHByb3ZpZGUgYSBiYWNrZ3JvdW5kKS4iCiAgICApCiAgICBwcmludCgKICAgICAgICBmIlN1Y2Nlc3NmdWxseSBjb252ZXJ0ZWQge3dvcmRtYXJrX2Ftb3VudH0gc2VydmVyIHdvcmRtYXJrcyAtICIKICAgICAgICBmIih7bGVuKHNlcnZlcnMpIC0gd29yZG1hcmtfYW1vdW50fSBzZXJ2ZXJzIGRpZCBub3QgcHJvdmlkZSBhIHdvcmRtYXJrKS4iCiAgICApCiAgICBwcmludCgKICAgICAgICBmIlN1Y2Nlc3NmdWxseSBjb252ZXJ0ZWQge2Jhbm5lcl9hbW91bnR9IHNlcnZlciBiYW5uZXJzIC0gIgogICAgICAgIGYiKHtsZW4oc2VydmVycykgLSBiYW5uZXJfYW1vdW50fSBzZXJ2ZXJzIGRpZCBub3QgcHJvdmlkZSBhIGJhbm5lcikuIgogICAgKQoKCmRlZiBjb252ZXJ0X3dvcmRtYXJrKAogICAgcGF0aDogc3RyLAogICAgb3V0cHV0OiBzdHIsCiAgICBzZXJ2ZXJfaWQ6IHN0ciwKICAgIHNlcnZlcl9uYW1lOiBzdHIsCiAgICBsb3NzbGVzczogYm9vbCA9IEZhbHNlLAopIC0+IGJvb2w6CiAgICAiIiIKICAgIENvbnZlcnQgdGhlIHdvcmRtYXJrIGltYWdlIHRvIGRpZmZlcmVudCBzaXplcyBhbmQgZm9ybWF0cy4KCiAgICBUaGUgb3JpZ2luYWwgUE5HIGZpbGUgaXMga2VwdCBmb3IgZW52aXJvbm1lbnRzIHRoYXQgZG8gbm90IHN1cHBvcnQgV0VCUC4KCiAgICBBcmdzOgogICAgICAgIHBhdGggKHN0cik6IFRoZSBwYXRoIHRvIHRoZSBzb3VyY2UgaW1hZ2UgZmlsZS4KICAgICAgICBvdXRwdXQgKHN0cik6IFRoZSBwYXRoIHdoZXJlIHRoZSBjb252ZXJ0ZWQgaW1hZ2Ugd2lsbCBiZSBzYXZlZC4KICAgICAgICBzZXJ2ZXJfaWQgKHN0cik6IFRoZSBJRCBvZiB0aGUgc2VydmVyLgogICAgICAgIHNlcnZlcl9uYW1lIChzdHIpOiBUaGUgbmFtZSBvZiB0aGUgc2VydmVyLgogICAgICAgIGxvc3NsZXNzIChib29sLCBvcHRpb25hbCk6IElmIHNldCB0byBUcnVlLCB0aGUgaW1hZ2Ugd2lsbCBiZSBjb252ZXJ0ZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aXRob3V0IGFueSBsb3NzIGluIHF1YWxpdHkuIERlZmF1bHQgaXMgRmFsc2UuCgogICAgUmV0dXJuczoKICAgICAgICBib29sOiBUcnVlIGlmIHRoZSB3b3JkbWFyayBpbWFnZSB3YXMgc3VjY2Vzc2Z1bGx5IGNvbnZlcnRlZCwgRmFsc2Ugb3RoZXJ3aXNlLgogICAgIiIiCgogICAgIyBTaWxlbnRseSBza2lwIGlmIG5vdCBwcmVzZW50IGFzIGl0IGlzIG9wdGlvbmFsCiAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUocGF0aCk6CiAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgIyBSYXcgbm8gdHJhbnNmb3JtYXRpb25zIChQTkcpCiAgICBzaHV0aWwuY29weWZpbGUocGF0aCwgZiJ7b3V0cHV0fS97c2VydmVyX2lkfS5wbmciKQoKICAgICMgQmFzZSAxOTIweDEwODAgU2l6ZSAoV2ViUCkKICAgIGNvbnZlcnRfYW5kX3Jlc2l6ZSgKICAgICAgICBwYXRoLAogICAgICAgIGYie291dHB1dH0ve3NlcnZlcl9pZH0ud2VicCIsCiAgICAgICAgbG9zc2xlc3M9bG9zc2xlc3MsCiAgICApCgogICAgcHJpbnQoZiJTdWNjZXNzZnVsbHkgY29udmVydGVkIHtzZXJ2ZXJfbmFtZX0ncyB3b3JkbWFyay4iKQogICAgcmV0dXJuIFRydWUKCgpkZWYgY29udmVydF9iYWNrZ3JvdW5kKAogICAgcGF0aDogc3RyLAogICAgb3V0cHV0OiBzdHIsCiAgICBzZXJ2ZXJfaWQ6IHN0ciwKICAgIHNlcnZlcl9uYW1lOiBzdHIsCiAgICBzaXplczogbGlzdCwKICAgIGxvc3NsZXNzOiBib29sID0gRmFsc2UsCikgLT4gYm9vbDoKICAgICIiIgogICAgQ29udmVydCB0aGUgYmFja2dyb3VuZCBpbWFnZSB0byBkaWZmZXJlbnQgc2l6ZXMgYW5kIGZvcm1hdHMuCgogICAgVGhlIG9yaWdpbmFsIFBORyBmaWxlIGlzIGtlcHQgZm9yIGVudmlyb25tZW50cyB0aGF0IGRvIG5vdCBzdXBwb3J0IFdFQlAuCgogICAgQXJnczoKICAgICAgICBwYXRoIChzdHIpOiBUaGUgcGF0aCB0byB0aGUgc291cmNlIGltYWdlIGZpbGUuCiAgICAgICAgb3V0cHV0IChzdHIpOiBUaGUgcGF0aCB3aGVyZSB0aGUgY29udmVydGVkIGltYWdlIHdpbGwgYmUgc2F2ZWQuCiAgICAgICAgc2VydmVyX2lkIChzdHIpOiBUaGUgSUQgb2YgdGhlIHNlcnZlci4KICAgICAgICBzZXJ2ZXJfbmFtZSAoc3RyKTogVGhlIG5hbWUgb2YgdGhlIHNlcnZlci4KICAgICAgICBzaXplcyAobGlzdCk6IFRoZSBsaXN0IG9mIHNpemVzIHRvIHJlc2l6ZSB0aGUgaW1hZ2UgdG8uCiAgICAgICAgbG9zc2xlc3MgKGJvb2wsIG9wdGlvbmFsKTogSWYgc2V0IHRvIFRydWUsIHRoZSBpbWFnZSB3aWxsIGJlIGNvbnZlcnRlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpdGhvdXQgYW55IGxvc3MgaW4gcXVhbGl0eS4gRGVmYXVsdCBpcyBGYWxzZS4KCiAgICBSZXR1cm5zOgogICAgICAgIGJvb2w6IFRydWUgaWYgdGhlIGJhY2tncm91bmQgaW1hZ2Ugd2FzIHN1Y2Nlc3NmdWxseSBjb252ZXJ0ZWQsIEZhbHNlIG90aGVyd2lzZS4KICAgICIiIgoKICAgICMgU2lsZW50bHkgc2tpcCBpZiBub3QgcHJlc2VudCBhcyBpdCBpcyBvcHRpb25hbAogICAgaWYgbm90IG9zLnBhdGguaXNmaWxlKHBhdGgpOgogICAgICAgIHJldHVybiBGYWxzZQoKICAgICMgUmF3IG5vIHRyYW5zZm9ybWF0aW9ucyAoUE5HKQogICAgc2h1dGlsLmNvcHlmaWxlKHBhdGgsIGYie291dHB1dH0ve3NlcnZlcl9pZH0ucG5nIikKCiAgICAjIEJhc2UgMTkyMHgxMDgwIFNpemUgKFdlYlApCiAgICBjb252ZXJ0X2FuZF9yZXNpemUoCiAgICAgICAgcGF0aCwKICAgICAgICBmIntvdXRwdXR9L3tzZXJ2ZXJfaWR9LndlYnAiLAogICAgICAgIGxvc3NsZXNzPWxvc3NsZXNzLAogICAgKQoKICAgICMgQmFja2dyb3VuZCBTaXplLWJhc2VkIGRlc3RpbmF0aW9uIG5hbWUKICAgIGZvciBzaXplIGluIHNpemVzOgogICAgICAgIGNvbnZlcnRfYW5kX3Jlc2l6ZSgKICAgICAgICAgICAgcGF0aCwKICAgICAgICAgICAgZiJ7b3V0cHV0fS97c2VydmVyX2lkfS17c2l6ZS5zcGxpdCgneCcpWzFdfS53ZWJwIiwKICAgICAgICAgICAgbG9zc2xlc3M9bG9zc2xlc3MsCiAgICAgICAgICAgIHdpZHRoPXNpemUuc3BsaXQoIngiKVswXSwKICAgICAgICAgICAgaGVpZ2h0PXNpemUuc3BsaXQoIngiKVsxXSwKICAgICAgICApCgogICAgcHJpbnQoZiJTdWNjZXNzZnVsbHkgY29udmVydGVkIHtzZXJ2ZXJfbmFtZX0ncyBiYWNrZ3JvdW5kLiIpCiAgICByZXR1cm4gVHJ1ZQoKCmRlZiBjb252ZXJ0X2Jhbm5lcigKICAgIHBhdGg6IHN0ciwgb3V0cHV0OiBzdHIsIHNlcnZlcl9pZDogc3RyLCBzZXJ2ZXJfbmFtZTogc3RyLCBsb3NzbGVzczogYm9vbCA9IEZhbHNlCikgLT4gYm9vbDoKICAgICIiIgogICAgQ29udmVydCB0aGUgYmFubmVyIGltYWdlIHRvIGRpZmZlcmVudCBmb3JtYXRzLgoKICAgIElmIHRoZSBmaWxlIGlzIGFscmVhZHkgYSBQTkcsIHdlIGFzc3VtZSBpdCdzIGFscmVhZHkgYSBzcHJpdGVtYXAgb3IganVzdCBhIHN0YXRpYyBiYW5uZXIuCiAgICBJZiBpdCdzIGEgR0lGLCB3ZSBjb252ZXJ0IGl0IHRvIGEgc3ByaXRlbWFwIGFuZCBzYXZlIHRoZSBHSUYgYXMgd2VsbC4KCiAgICBBZGRpdGlvbmFsbHksIGJvdGggZm9ybWF0cyBjcmVhdGUgYSBtZXRhZGF0YSBqc29uIGZpbGUgd2l0aCB0aGUgZnJhbWUgZHVyYXRpb25zLgoKICAgIEFyZ3M6CiAgICAgICAgcGF0aCAoc3RyKTogVGhlIHBhdGggdG8gdGhlIHNvdXJjZSBpbWFnZSBmaWxlLgogICAgICAgIG91dHB1dCAoc3RyKTogVGhlIHBhdGggd2hlcmUgdGhlIGNvbnZlcnRlZCBpbWFnZSB3aWxsIGJlIHNhdmVkLgogICAgICAgIHNlcnZlcl9pZCAoc3RyKTogVGhlIElEIG9mIHRoZSBzZXJ2ZXIuCiAgICAgICAgc2VydmVyX25hbWUgKHN0cik6IFRoZSBuYW1lIG9mIHRoZSBzZXJ2ZXIuCiAgICAgICAgbG9zc2xlc3MgKGJvb2wsIG9wdGlvbmFsKTogSWYgc2V0IHRvIFRydWUsIHRoZSBpbWFnZSB3aWxsIGJlIGNvbnZlcnRlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpdGhvdXQgYW55IGxvc3MgaW4gcXVhbGl0eS4gRGVmYXVsdCBpcyBGYWxzZS4KCiAgICBSZXR1cm5zOgogICAgICAgIGJvb2w6IFRydWUgaWYgdGhlIGJhbm5lciBpbWFnZSB3YXMgc3VjY2Vzc2Z1bGx5IGNvbnZlcnRlZCwgRmFsc2Ugb3RoZXJ3aXNlLgogICAgIiIiCgogICAgIyBTaWxlbnRseSBza2lwIGlmIG5vdCBwcmVzZW50IGFzIGl0IGlzIG9wdGlvbmFsCiAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUocGF0aCk6CiAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgaW1nID0gaW1hZ2Uub3BlbihwYXRoKQoKICAgIGlmIGltZy5mb3JtYXQgPT0gIlBORyI6CiAgICAgICAgIyBSYXcgbm8gdHJhbnNmb3JtYXRpb25zIChQTkcpCiAgICAgICAgc2h1dGlsLmNvcHlmaWxlKHBhdGgsIGYie291dHB1dH0ve3NlcnZlcl9pZH0ucG5nIikKCiAgICAgICAgIyBCYXNlIGZ1bGwgU2l6ZSAoV2ViUCkKICAgICAgICBjb252ZXJ0X2FuZF9yZXNpemUoCiAgICAgICAgICAgIHBhdGgsCiAgICAgICAgICAgIGYie291dHB1dH0ve3NlcnZlcl9pZH0ud2VicCIsCiAgICAgICAgICAgIGxvc3NsZXNzPWxvc3NsZXNzLAogICAgICAgICkKICAgIGVsaWYgaW1nLmZvcm1hdCA9PSAiR0lGIjoKICAgICAgICAjIFJhdyBubyB0cmFuc2Zvcm1hdGlvbiAoR0lGKQogICAgICAgIHNodXRpbC5jb3B5ZmlsZShwYXRoLCBmIntvdXRwdXR9L3tzZXJ2ZXJfaWR9LmdpZiIpCgogICAgICAgICMgQ29udmVydCB0byBzcHJpdGUgc2hlZXQgKFdFQlApCiAgICAgICAgZ2lmX3RvX3Nwcml0ZV9zaGVldChwYXRoLCBvdXRwdXQsIHNlcnZlcl9pZCwgbG9zc2xlc3MpCgogICAgIyBDcmVhdGUgbWV0YWRhdGEgZm9yIGJhbm5lcgogICAgbWFrZV9iYW5uZXJfbWV0YWRhdGEocGF0aCwgb3V0cHV0LCBzZXJ2ZXJfaWQpCgogICAgcHJpbnQoZiJTdWNjZXNzZnVsbHkgY29udmVydGVkIHtzZXJ2ZXJfbmFtZX0ncyBiYW5uZXIuIikKICAgIHJldHVybiBUcnVlCgoKZGVmIG1ha2VfYmFubmVyX21ldGFkYXRhKHBhdGg6IHN0ciwgb3V0cHV0OiBzdHIsIHNlcnZlcl9pZDogc3RyKToKICAgICIiIgogICAgVGhpcyBmdW5jdGlvbiBjcmVhdGVzIGEgbWV0YWRhdGEgSlNPTiBmaWxlIGZvciB0aGUgYmFubmVyIGltYWdlLgoKICAgIFRoZSBtZXRhZGF0YSBpbmNsdWRlcyB0aGUgZHVyYXRpb24gb2YgZWFjaCBmcmFtZSBpbiB0aGUgaW1hZ2UuIFRoaXMgaXMgcGFydGljdWxhcmx5CiAgICB1c2VmdWwgZm9yIGFuaW1hdGVkIEdJRnMgdGhhdCBhcmUgY29udmVydGVkIHRvIHNwcml0ZSBzaGVldHMuIE5vdCBwYXJ0aWN1bGFybHkgdXNlZnVsCiAgICBmb3Igc3RhdGljIGJhbm5lcnMgd2hlcmUgdGhlcmUgaXMgb25seSBvbmUgZnJhbWUuCgogICAgQXJnczoKICAgICAgICBwYXRoIChzdHIpOiBUaGUgcGF0aCB0byB0aGUgc291cmNlIGltYWdlIGZpbGUuCiAgICAgICAgb3V0cHV0IChzdHIpOiBUaGUgcGF0aCB3aGVyZSB0aGUgbWV0YWRhdGEgSlNPTiBmaWxlIHdpbGwgYmUgc2F2ZWQuCiAgICAgICAgc2VydmVyX2lkIChzdHIpOiBUaGUgSUQgb2YgdGhlIHNlcnZlci4KICAgICIiIgogICAgaW1nID0gaW1hZ2Uub3BlbihwYXRoKQogICAgZnJhbWVfZHVyYXRpb25zID0gW10KCiAgICAjIEdldCBmcmFtZSBkdXJhdGlvbnMgZnJvbSBmcmFtZSBpbmZvCiAgICBpZiBpbWcubl9mcmFtZXMgPiAxOgogICAgICAgIGZvciBpZHggaW4gcmFuZ2UoMCwgaW1nLm5fZnJhbWVzKToKICAgICAgICAgICAgaW1nLnNlZWsoaWR4KQogICAgICAgICAgICBmcmFtZV9kdXJhdGlvbnMuYXBwZW5kKGltZy5pbmZvWyJkdXJhdGlvbiJdKQoKICAgICMgV3JpdGUgdG8ganNvbiBmaWxlCiAgICB3aXRoIG9wZW4oZiJ7b3V0cHV0fS97c2VydmVyX2lkfS5qc29uIiwgInciLCBlbmNvZGluZz0iVVRGLTgiKSBhcyBmcDoKICAgICAgICBqc29uLmR1bXAoeyJmcmFtZV9kdXJhdGlvbnMiOiBmcmFtZV9kdXJhdGlvbnN9LCBmcCkKCgpkZWYgZ2lmX3RvX3Nwcml0ZV9zaGVldChwYXRoOiBzdHIsIG91dHB1dDogc3RyLCBzZXJ2ZXJfaWQ6IHN0ciwgbG9zc2xlc3M6IGJvb2wgPSBGYWxzZSk6CiAgICAiIiIKICAgIFRoaXMgZnVuY3Rpb24gY29udmVydHMgYSBHSUYgaW1hZ2UgaW50byBhIHNwcml0ZSBzaGVldC4KCiAgICBUaGUgc3ByaXRlIHNoZWV0IGlzIHNhdmVkIGluIHRoZSBvcmlnaW5hbCBQTkcgZm9ybWF0IGFuZCB0aGVuIGNvbnZlcnRlZCB0byBXRUJQLgogICAgRWFjaCBmcmFtZSBvZiB0aGUgR0lGIGlzIHBhc3RlZCBpbnRvIHRoZSBzcHJpdGUgc2hlZXQuCgogICAgQXJnczoKICAgICAgICBwYXRoIChzdHIpOiBUaGUgcGF0aCB0byB0aGUgc291cmNlIEdJRiBmaWxlLgogICAgICAgIG91dHB1dCAoc3RyKTogVGhlIHBhdGggd2hlcmUgdGhlIHNwcml0ZSBzaGVldCB3aWxsIGJlIHNhdmVkLgogICAgICAgIHNlcnZlcl9pZCAoc3RyKTogVGhlIElEIG9mIHRoZSBzZXJ2ZXIuCiAgICAgICAgbG9zc2xlc3MgKGJvb2wsIG9wdGlvbmFsKTogSWYgc2V0IHRvIFRydWUsIHRoZSBzcHJpdGUgc2hlZXQgd2lsbCBiZSBjb252ZXJ0ZWQgd2l0aG91dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFueSBsb3NzIGluIHF1YWxpdHkuIERlZmF1bHQgaXMgRmFsc2UuCiAgICAiIiIKCiAgICBpbWcgPSBpbWFnZS5vcGVuKHBhdGgpCiAgICBzcHJpdGVfaW1nID0gaW1hZ2UubmV3KCJSR0JBIiwgKGltZy53aWR0aCwgaW1nLmhlaWdodCAqIGltZy5uX2ZyYW1lcykpCgogICAgIyBDb252ZXJ0IGV2ZXJ5IGZyYW1lIGFuZCBwYXN0ZSBpdCBpbnRvIHRoZSBzcHJpdGUgc2hlZXQKICAgIGZvciBpZHggaW4gcmFuZ2UoMCwgaW1nLm5fZnJhbWVzKToKICAgICAgICBpbWcuc2VlayhpZHgpCiAgICAgICAgc3ByaXRlX2ltZy5wYXN0ZShpbWcsICgwLCBpbWcuaGVpZ2h0ICogaWR4KSkKCiAgICAjIFNhdmUgdGhlIHNwcml0ZSBzaGVldCBpbiBvdXIgb3JpZ2luYWwgZm9ybWF0IChQTkcpCiAgICBzcHJpdGVfaW1nLnNhdmUoZiJ7b3V0cHV0fS97c2VydmVyX2lkfS5wbmciKQoKICAgICMgQ29udmVydCB0aGUgc3ByaXRlIHNoZWV0IHRvIFdFQlAKICAgIGNvbnZlcnRfYW5kX3Jlc2l6ZSgKICAgICAgICBmIntvdXRwdXR9L3tzZXJ2ZXJfaWR9LnBuZyIsIGYie291dHB1dH0ve3NlcnZlcl9pZH0ud2VicCIsIGxvc3NsZXNzPWxvc3NsZXNzCiAgICApCgoKZGVmIGNvbnZlcnRfbG9nbygKICAgIHBhdGg6IHN0ciwKICAgIG91dHB1dDogc3RyLAogICAgc2VydmVyX2lkOiBzdHIsCiAgICBzZXJ2ZXJfbmFtZTogc3RyLAogICAgc2l6ZXM6IGxpc3QsCiAgICBsb3NzbGVzczogYm9vbCA9IEZhbHNlLAopOgogICAgIiIiCiAgICBUaGlzIGZ1bmN0aW9uIGNvbnZlcnRzIHRoZSBzZXJ2ZXIgbG9nbyBpbnRvIGRpZmZlcmVudCBzaXplcyBhbmQgZm9ybWF0cy4KCiAgICBUaGUgbG9nbyBpcyBrZXB0IGluIHRoZSBvcmlnaW5hbCBQTkcgZm9ybWF0IGZvciBlbnZpcm9ubWVudHMgdGhhdCBkbyBub3Qgc3VwcG9ydCBXRUJQLgogICAgSXQgaXMgYWxzbyByZXNpemVkIGludG8gZGlmZmVyZW50IHNpemVzIGFzIHNwZWNpZmllZCBpbiB0aGUgJ3NpemVzJyBwYXJhbWV0ZXIuCgogICAgUGFyYW1ldGVyczoKICAgICAgICBwYXRoIChzdHIpOiBUaGUgcGF0aCB0byB0aGUgc291cmNlIGxvZ28gZmlsZS4KICAgICAgICBvdXRwdXQgKHN0cik6IFRoZSBwYXRoIHdoZXJlIHRoZSBjb252ZXJ0ZWQgbG9nb3Mgd2lsbCBiZSBzYXZlZC4KICAgICAgICBzZXJ2ZXJfaWQgKHN0cik6IFRoZSBJRCBvZiB0aGUgc2VydmVyLgogICAgICAgIHNlcnZlcl9uYW1lIChzdHIpOiBUaGUgbmFtZSBvZiB0aGUgc2VydmVyLgogICAgICAgIHNpemVzIChsaXN0KTogQSBsaXN0IG9mIHNpemVzIHRvIHdoaWNoIHRoZSBsb2dvIHdpbGwgYmUgcmVzaXplZC4KICAgICAgICBsb3NzbGVzcyAoYm9vbCwgb3B0aW9uYWwpOiBJZiBzZXQgdG8gVHJ1ZSwgdGhlIGxvZ28gd2lsbCBiZSBjb252ZXJ0ZWQgd2l0aG91dCBhbnkgbG9zcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluIHF1YWxpdHkuIERlZmF1bHQgaXMgRmFsc2UuCiAgICAiIiIKCiAgICAjIFJhdyBubyB0cmFuc2Zvcm1hdGlvbnMgKFBORykKICAgIHNodXRpbC5jb3B5ZmlsZShwYXRoLCBmIntvdXRwdXR9L3tzZXJ2ZXJfaWR9LnBuZyIpCgogICAgIyBCYXNlIDUxMiBTaXplIExvZ28gKFdlYlApCiAgICBjb252ZXJ0X2FuZF9yZXNpemUoCiAgICAgICAgcGF0aCwgZiJ7b3V0cHV0fS97c2VydmVyX2lkfS53ZWJwIiwgbG9zc2xlc3M9bG9zc2xlc3MsIHdpZHRoPTUxMiwgaGVpZ2h0PTUxMgogICAgKQoKICAgICMgTG9nbyBTaXplLWJhc2VkIGRlc3RpbmF0aW9uIG5hbWUKICAgIGZvciBzaXplIGluIHNpemVzOgogICAgICAgIGNvbnZlcnRfYW5kX3Jlc2l6ZSgKICAgICAgICAgICAgcGF0aCwKICAgICAgICAgICAgZiJ7b3V0cHV0fS97c2VydmVyX2lkfS17c2l6ZX0ud2VicCIsCiAgICAgICAgICAgIGxvc3NsZXNzPWxvc3NsZXNzLAogICAgICAgICAgICB3aWR0aD1zaXplLAogICAgICAgICAgICBoZWlnaHQ9c2l6ZSwKICAgICAgICApCgogICAgcHJpbnQoZiJTdWNjZXNzZnVsbHkgY29udmVydGVkIHtzZXJ2ZXJfbmFtZX0ncyBsb2dvLiIpCgoKZGVmIGNvcHlfYXNzZXRzKAogICAgc2VydmVyX2Rpcjogc3RyLAogICAgb3V0cHV0OiBzdHIsCiAgICBzZXJ2ZXJfaWQ6IHN0ciwKICAgIHNlcnZlcl9uYW1lOiBzdHIsCik6CiAgICAiIiIKICAgIENvcHkgYWxsIHJhdyBhc3NldCBmaWxlcyBmb3IgYSBzZXJ2ZXIgaW50byB0aGUgYXNzZXRzIG91dHB1dCBkaXJlY3RvcnksCiAgICB1c2luZyB0aGUgU0hBMSBoYXNoIG9mIHRoZSBmaWxlIGNvbnRlbnQgYXMgdGhlIGZpbGVuYW1lLgogICAgIiIiCiAgICBzZXJ2ZXJfb3V0cHV0ID0gZiJ7b3V0cHV0fS97c2VydmVyX2lkfSIKICAgIG9zLm1ha2VkaXJzKHNlcnZlcl9vdXRwdXQsIGV4aXN0X29rPVRydWUpCgogICAgYXNzZXRfZmlsZXMgPSBbImxvZ28ucG5nIiwgImJhY2tncm91bmQucG5nIiwgIndvcmRtYXJrLnBuZyIsICJiYW5uZXIucG5nIiwgImJhbm5lci5naWYiXQogICAgY29waWVkID0gMAoKICAgIGZvciBhc3NldF9maWxlIGluIGFzc2V0X2ZpbGVzOgogICAgICAgIHNvdXJjZV9wYXRoID0gZiJ7c2VydmVyX2Rpcn0ve2Fzc2V0X2ZpbGV9IgogICAgICAgIGlmIG9zLnBhdGguaXNmaWxlKHNvdXJjZV9wYXRoKToKICAgICAgICAgICAgZmlsZV9oYXNoID0gaGFzaGxpYi5zaGExKG9wZW4oc291cmNlX3BhdGgsICJyYiIpLnJlYWQoKSkuaGV4ZGlnZXN0KCkKICAgICAgICAgICAgZXh0ID0gb3MucGF0aC5zcGxpdGV4dChhc3NldF9maWxlKVsxXQogICAgICAgICAgICBzaHV0aWwuY29weWZpbGUoc291cmNlX3BhdGgsIGYie3NlcnZlcl9vdXRwdXR9L3tmaWxlX2hhc2h9e2V4dH0iKQogICAgICAgICAgICBjb3BpZWQgKz0gMQoKICAgIHByaW50KGYiQ29waWVkIHtjb3BpZWR9IHJhdyBhc3NldChzKSBmb3Ige3NlcnZlcl9uYW1lfS4iKQoKCmRlZiBjb252ZXJ0X2FuZF9yZXNpemUoCiAgICBzb3VyY2U6IHN0ciwKICAgIGRlc3RpbmF0aW9uOiBzdHIsCiAgICB3aWR0aDogaW50ID0gTm9uZSwKICAgIGhlaWdodDogaW50ID0gTm9uZSwKICAgIGxvc3NsZXNzOiBib29sID0gRmFsc2UsCik6CiAgICAiIiIKICAgIFRoaXMgZnVuY3Rpb24gY29udmVydHMgYW5kIHJlc2l6ZXMgYW4gaW1hZ2UuCgogICAgUGFyYW1ldGVyczoKICAgICAgICBzb3VyY2UgKHN0cik6IFRoZSBwYXRoIHRvIHRoZSBzb3VyY2UgaW1hZ2UgZmlsZS4KICAgICAgICBkZXN0aW5hdGlvbiAoc3RyKTogVGhlIHBhdGggd2hlcmUgdGhlIGNvbnZlcnRlZCBpbWFnZSB3aWxsIGJlIHNhdmVkLgogICAgICAgIHdpZHRoIChpbnQsIG9wdGlvbmFsKTogVGhlIHdpZHRoIHRvIHJlc2l6ZSB0aGUgaW1hZ2UgdG8uIElmIG5vdCBwcm92aWRlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSBvcmlnaW5hbCBpbWFnZSB3aWR0aCBpcyB1c2VkLgogICAgICAgIGhlaWdodCAoaW50LCBvcHRpb25hbCk6IFRoZSBoZWlnaHQgdG8gcmVzaXplIHRoZSBpbWFnZSB0by4gSWYgbm90IHByb3ZpZGVkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSBvcmlnaW5hbCBpbWFnZSBoZWlnaHQgaXMgdXNlZC4KICAgICAgICBsb3NzbGVzcyAoYm9vbCwgb3B0aW9uYWwpOiBJZiBzZXQgdG8gVHJ1ZSwgdGhlIGltYWdlIHdpbGwgYmUgY29udmVydGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2l0aG91dCBhbnkgbG9zcyBpbiBxdWFsaXR5LiBEZWZhdWx0IGlzIEZhbHNlLgogICAgIiIiCgogICAgIyBBbHdheXMgc3RyaXAgb3V0IHRoZSBtZXRhZGF0YQogICAgb3B0aW9ucyA9IFsiLW1ldGFkYXRhIG5vbmUiXQoKICAgICMgT25seSByZXNpemUgaWYgcHJvdmlkZWQKICAgIGlmIHdpZHRoIGFuZCBoZWlnaHQ6CiAgICAgICAgb3B0aW9ucy5hcHBlbmQoZiItcmVzaXplIHt3aWR0aH0ge2hlaWdodH0iKQoKICAgICMgQXBwbHkgbG9zc2xlc3MKICAgIGlmIGxvc3NsZXNzOgogICAgICAgIG9wdGlvbnMuYXBwZW5kKCItbG9zc2xlc3MiKQoKICAgIG91dHB1dCA9IHdlYnB0b29scy5jd2VicCgKICAgICAgICBpbnB1dF9pbWFnZT1zb3VyY2UsIG91dHB1dF9pbWFnZT1kZXN0aW5hdGlvbiwgb3B0aW9uPSIgIi5qb2luKG9wdGlvbnMpCiAgICApCgogICAgIyBBbiBlcnJvciBvY2N1cmVkCiAgICBpZiBvdXRwdXQuZ2V0KCJleGl0X2NvZGUiKToKICAgICAgICBwcmludChvdXRwdXQpCiAgICAgICAgcmFpc2UgT1NFcnJvcihmIkZhaWxlZCB0byBydW4gV2VicHRvb2xzICh7c291cmNlfSkiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""
+This module is used to convert media files for servers. It supports conversion of logos,
+backgrounds, and banners with different sizes for different placements across Lunar Client.
+"""
+
+import argparse
+import hashlib
+import json
+import os
+import shutil
+
+import webptools
+from PIL import Image as image
+from utils import get_all_servers
+
+# Grant permissions to Webptools
+webptools.grant_permission()
+
+
+def main():
+    """
+    Main function to parse arguments and convert server media.
+    """
+    use_args = os.getenv("USE_ARGS") == "true"
+    parser = argparse.ArgumentParser()
+
+    # General Args
+    parser.add_argument("--servers_dir", required=use_args, type=str)
+    parser.add_argument("--inactive_file", required=use_args, type=str)
+    parser.add_argument("--lossless", default=False, action="store_true")
+    parser.add_argument("--changed_files", required=False, type=str)
+    parser.add_argument("--dry_upload", default="false", type=str)
+
+    # Logo Args
+    parser.add_argument("--servers_logos_output", required=use_args, type=str)
+    parser.add_argument("--servers_logos_sizes", nargs="+", type=int, default=[256])
+
+    # Background args
+    parser.add_argument("--servers_backgrounds_output", required=use_args, type=str)
+    parser.add_argument(
+        "--servers_backgrounds_sizes", nargs="+", type=str, default=["1920x1080"]
+    )
+
+    # Wordmark Args
+    parser.add_argument("--servers_wordmarks_output", required=use_args, type=str)
+
+    # Banner args
+    parser.add_argument("--servers_banners_output", required=use_args, type=str)
+
+    # Assets args
+    parser.add_argument("--servers_assets_output", required=use_args, type=str)
+
+    args = parser.parse_args()
+    args.dry_upload = args.dry_upload.lower() in ["true", "1", "t", "y", "yes"]
+
+    # If we don't find the env variable for use args assume we're running this locally
+    if not use_args:
+        local = os.path.abspath(os.path.join(os.path.dirname(__file__), "..")).replace(
+            "\\", "/"
+        )
+
+        args.inactive_file = local + "/inactive.json"
+        args.servers_dir = local + "/servers"
+
+        args.servers_logos_output = local + "/.out/servers_logos_output"
+        args.servers_backgrounds_output = local + "/.out/backgrounds"
+        args.servers_wordmarks_output = local + "/.out/wordmarks"
+        args.servers_banners_output = local + "/.out/banners"
+        args.servers_assets_output = local + "/.out/assets"
+        args.lossless = False
+
+    # Load server mappings JSON
+    servers = get_all_servers(
+        args.servers_dir, args.inactive_file, False
+    )
+
+    if args.dry_upload:
+        print(f"Dry run detected. Converting {len(servers)} server media...")
+    else:
+        changed_files = (
+            list(json.loads(args.changed_files)) if args.changed_files else []
+        )
+        changed_servers = list(set(file.split("/")[1] for file in changed_files))
+
+        print(
+            f"Converting {len(changed_servers)} server media from the following servers:"
+        )
+        print(changed_servers)
+
+        # Filter servers array
+        servers = [server for server in servers if server["id"] in changed_servers]
+
+    background_amount = 0
+    wordmark_amount = 0
+    banner_amount = 0
+
+    # Create server media output directories
+    os.makedirs(args.servers_logos_output, exist_ok=True)
+    os.makedirs(args.servers_backgrounds_output, exist_ok=True)
+    os.makedirs(args.servers_wordmarks_output, exist_ok=True)
+    os.makedirs(args.servers_banners_output, exist_ok=True)
+    os.makedirs(args.servers_assets_output, exist_ok=True)
+
+    for server in servers:
+        server_id = server["id"]
+        server_name = server["name"]
+
+        # Paths
+        logo_path = f"{args.servers_dir}/{server_id}/logo.png"
+        background_path = f"{args.servers_dir}/{server_id}/background.png"
+        wordmark_path = f"{args.servers_dir}/{server_id}/wordmark.png"
+        static_banner_path = f"{args.servers_dir}/{server_id}/banner.png"
+        animated_banner_path = f"{args.servers_dir}/{server_id}/banner.gif"
+
+        convert_logo(
+            logo_path,
+            args.servers_logos_output,
+            server_id,
+            server_name,
+            args.servers_logos_sizes,
+            args.lossless,
+        )
+
+        if convert_background(
+            background_path,
+            args.servers_backgrounds_output,
+            server_id,
+            server_name,
+            args.servers_backgrounds_sizes,
+            args.lossless,
+        ):
+            background_amount += 1
+        
+        if convert_wordmark(
+            wordmark_path,
+            args.servers_wordmarks_output,
+            server_id,
+            server_name,
+            args.lossless,
+        ):
+            wordmark_amount += 1
+
+        # convert only the first banner that exists, because either can exist.
+        for banner_path in [static_banner_path, animated_banner_path]:
+            if convert_banner(
+                banner_path,
+                args.servers_banners_output,
+                server_id,
+                server_name,
+                args.lossless,
+            ):
+                banner_amount += 1
+                break
+
+        copy_assets(
+            f"{args.servers_dir}/{server_id}",
+            args.servers_assets_output,
+            server_id,
+            server_name,
+        )
+
+    print(f"Sucessfully converted {len(servers)} server logos.")
+    print(
+        f"Successfully converted {background_amount} server backgrounds - "
+        f"({len(servers) - background_amount} servers did not provide a background)."
+    )
+    print(
+        f"Successfully converted {wordmark_amount} server wordmarks - "
+        f"({len(servers) - wordmark_amount} servers did not provide a wordmark)."
+    )
+    print(
+        f"Successfully converted {banner_amount} server banners - "
+        f"({len(servers) - banner_amount} servers did not provide a banner)."
+    )
+
+
+def convert_wordmark(
+    path: str,
+    output: str,
+    server_id: str,
+    server_name: str,
+    lossless: bool = False,
+) -> bool:
+    """
+    Convert the wordmark image to different sizes and formats.
+
+    The original PNG file is kept for environments that do not support WEBP.
+
+    Args:
+        path (str): The path to the source image file.
+        output (str): The path where the converted image will be saved.
+        server_id (str): The ID of the server.
+        server_name (str): The name of the server.
+        lossless (bool, optional): If set to True, the image will be converted
+                                   without any loss in quality. Default is False.
+
+    Returns:
+        bool: True if the wordmark image was successfully converted, False otherwise.
+    """
+
+    # Silently skip if not present as it is optional
+    if not os.path.isfile(path):
+        return False
+
+    # Raw no transformations (PNG)
+    shutil.copyfile(path, f"{output}/{server_id}.png")
+
+    # Base 1920x1080 Size (WebP)
+    convert_and_resize(
+        path,
+        f"{output}/{server_id}.webp",
+        lossless=lossless,
+    )
+
+    print(f"Successfully converted {server_name}'s wordmark.")
+    return True
+
+
+def convert_background(
+    path: str,
+    output: str,
+    server_id: str,
+    server_name: str,
+    sizes: list,
+    lossless: bool = False,
+) -> bool:
+    """
+    Convert the background image to different sizes and formats.
+
+    The original PNG file is kept for environments that do not support WEBP.
+
+    Args:
+        path (str): The path to the source image file.
+        output (str): The path where the converted image will be saved.
+        server_id (str): The ID of the server.
+        server_name (str): The name of the server.
+        sizes (list): The list of sizes to resize the image to.
+        lossless (bool, optional): If set to True, the image will be converted
+                                   without any loss in quality. Default is False.
+
+    Returns:
+        bool: True if the background image was successfully converted, False otherwise.
+    """
+
+    # Silently skip if not present as it is optional
+    if not os.path.isfile(path):
+        return False
+
+    # Raw no transformations (PNG)
+    shutil.copyfile(path, f"{output}/{server_id}.png")
+
+    # Base 1920x1080 Size (WebP)
+    convert_and_resize(
+        path,
+        f"{output}/{server_id}.webp",
+        lossless=lossless,
+    )
+
+    # Background Size-based destination name
+    for size in sizes:
+        convert_and_resize(
+            path,
+            f"{output}/{server_id}-{size.split('x')[1]}.webp",
+            lossless=lossless,
+            width=size.split("x")[0],
+            height=size.split("x")[1],
+        )
+
+    print(f"Successfully converted {server_name}'s background.")
+    return True
+
+
+def convert_banner(
+    path: str, output: str, server_id: str, server_name: str, lossless: bool = False
+) -> bool:
+    """
+    Convert the banner image to different formats.
+
+    If the file is already a PNG, we assume it's already a spritemap or just a static banner.
+    If it's a GIF, we convert it to a spritemap and save the GIF as well.
+
+    Additionally, both formats create a metadata json file with the frame durations.
+
+    Args:
+        path (str): The path to the source image file.
+        output (str): The path where the converted image will be saved.
+        server_id (str): The ID of the server.
+        server_name (str): The name of the server.
+        lossless (bool, optional): If set to True, the image will be converted
+                                   without any loss in quality. Default is False.
+
+    Returns:
+        bool: True if the banner image was successfully converted, False otherwise.
+    """
+
+    # Silently skip if not present as it is optional
+    if not os.path.isfile(path):
+        return False
+
+    img = image.open(path)
+
+    if img.format == "PNG":
+        # Raw no transformations (PNG)
+        shutil.copyfile(path, f"{output}/{server_id}.png")
+
+        # Base full Size (WebP)
+        convert_and_resize(
+            path,
+            f"{output}/{server_id}.webp",
+            lossless=lossless,
+        )
+    elif img.format == "GIF":
+        # Raw no transformation (GIF)
+        shutil.copyfile(path, f"{output}/{server_id}.gif")
+
+        # Convert to sprite sheet (WEBP)
+        gif_to_sprite_sheet(path, output, server_id, lossless)
+
+    # Create metadata for banner
+    make_banner_metadata(path, output, server_id)
+
+    print(f"Successfully converted {server_name}'s banner.")
+    return True
+
+
+def make_banner_metadata(path: str, output: str, server_id: str):
+    """
+    This function creates a metadata JSON file for the banner image.
+
+    The metadata includes the duration of each frame in the image. This is particularly
+    useful for animated GIFs that are converted to sprite sheets. Not particularly useful
+    for static banners where there is only one frame.
+
+    Args:
+        path (str): The path to the source image file.
+        output (str): The path where the metadata JSON file will be saved.
+        server_id (str): The ID of the server.
+    """
+    img = image.open(path)
+    frame_durations = []
+
+    # Get frame durations from frame info
+    if img.n_frames > 1:
+        for idx in range(0, img.n_frames):
+            img.seek(idx)
+            frame_durations.append(img.info["duration"])
+
+    # Write to json file
+    with open(f"{output}/{server_id}.json", "w", encoding="UTF-8") as fp:
+        json.dump({"frame_durations": frame_durations}, fp)
+
+
+def gif_to_sprite_sheet(path: str, output: str, server_id: str, lossless: bool = False):
+    """
+    This function converts a GIF image into a sprite sheet.
+
+    The sprite sheet is saved in the original PNG format and then converted to WEBP.
+    Each frame of the GIF is pasted into the sprite sheet.
+
+    Args:
+        path (str): The path to the source GIF file.
+        output (str): The path where the sprite sheet will be saved.
+        server_id (str): The ID of the server.
+        lossless (bool, optional): If set to True, the sprite sheet will be converted without
+                                   any loss in quality. Default is False.
+    """
+
+    img = image.open(path)
+    sprite_img = image.new("RGBA", (img.width, img.height * img.n_frames))
+
+    # Convert every frame and paste it into the sprite sheet
+    for idx in range(0, img.n_frames):
+        img.seek(idx)
+        sprite_img.paste(img, (0, img.height * idx))
+
+    # Save the sprite sheet in our original format (PNG)
+    sprite_img.save(f"{output}/{server_id}.png")
+
+    # Convert the sprite sheet to WEBP
+    convert_and_resize(
+        f"{output}/{server_id}.png", f"{output}/{server_id}.webp", lossless=lossless
+    )
+
+
+def convert_logo(
+    path: str,
+    output: str,
+    server_id: str,
+    server_name: str,
+    sizes: list,
+    lossless: bool = False,
+):
+    """
+    This function converts the server logo into different sizes and formats.
+
+    The logo is kept in the original PNG format for environments that do not support WEBP.
+    It is also resized into different sizes as specified in the 'sizes' parameter.
+
+    Parameters:
+        path (str): The path to the source logo file.
+        output (str): The path where the converted logos will be saved.
+        server_id (str): The ID of the server.
+        server_name (str): The name of the server.
+        sizes (list): A list of sizes to which the logo will be resized.
+        lossless (bool, optional): If set to True, the logo will be converted without any loss
+                                   in quality. Default is False.
+    """
+
+    # Raw no transformations (PNG)
+    shutil.copyfile(path, f"{output}/{server_id}.png")
+
+    # Base 512 Size Logo (WebP)
+    convert_and_resize(
+        path, f"{output}/{server_id}.webp", lossless=lossless, width=512, height=512
+    )
+
+    # Logo Size-based destination name
+    for size in sizes:
+        convert_and_resize(
+            path,
+            f"{output}/{server_id}-{size}.webp",
+            lossless=lossless,
+            width=size,
+            height=size,
+        )
+
+    print(f"Successfully converted {server_name}'s logo.")
+
+
+def copy_assets(
+    server_dir: str,
+    output: str,
+    server_id: str,
+    server_name: str,
+):
+    """
+    Copy all raw asset files for a server into the assets output directory,
+    using the SHA1 hash of the file content as the filename.
+    """
+    server_output = f"{output}/{server_id}"
+    os.makedirs(server_output, exist_ok=True)
+
+    asset_files = ["logo.png", "background.png", "wordmark.png", "banner.png", "banner.gif"]
+    copied = 0
+
+    for asset_file in asset_files:
+        source_path = f"{server_dir}/{asset_file}"
+        if os.path.isfile(source_path):
+            file_hash = hashlib.sha1(open(source_path, "rb").read()).hexdigest()
+            ext = os.path.splitext(asset_file)[1]
+            shutil.copyfile(source_path, f"{server_output}/{file_hash}{ext}")
+            copied += 1
+
+    print(f"Copied {copied} raw asset(s) for {server_name}.")
+
+
+def convert_and_resize(
+    source: str,
+    destination: str,
+    width: int = None,
+    height: int = None,
+    lossless: bool = False,
+):
+    """
+    This function converts and resizes an image.
+
+    Parameters:
+        source (str): The path to the source image file.
+        destination (str): The path where the converted image will be saved.
+        width (int, optional): The width to resize the image to. If not provided,
+                               the original image width is used.
+        height (int, optional): The height to resize the image to. If not provided,
+                                the original image height is used.
+        lossless (bool, optional): If set to True, the image will be converted
+                                   without any loss in quality. Default is False.
+    """
+
+    # Always strip out the metadata
+    options = ["-metadata none"]
+
+    # Only resize if provided
+    if width and height:
+        options.append(f"-resize {width} {height}")
+
+    # Apply lossless
+    if lossless:
+        options.append("-lossless")
+
+    output = webptools.cwebp(
+        input_image=source, output_image=destination, option=" ".join(options)
+    )
+
+    # An error occured
+    if output.get("exit_code"):
+        print(output)
+        raise OSError(f"Failed to run Webptools ({source})")
+
+
+if __name__ == "__main__":
+    main()

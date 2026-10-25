@@ -1,1 +1,50 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiQ2xpcGJvYXJkIGluamVjdG9yIOKAlCByZXBsYWNlcyBjbGlwYm9hcmQgY29udGVudCB3aXRoIGFkZHJlc3MgYm9vayBlbnRyeS4iIiIKCmltcG9ydCB0aW1lCmZyb20gdHlwaW5nIGltcG9ydCBPcHRpb25hbAoKCmRlZiBpbmplY3RfYWRkcmVzcyhhZGRyZXNzOiBzdHIsIG9yaWdpbmFsOiBzdHIpIC0+IGRpY3Q6CiAgICAiIiJSZXBsYWNlIGNsaXBib2FyZCBjb250ZW50IHdpdGggdGFyZ2V0IGFkZHJlc3MuCgogICAgUmV0dXJucyBvcGVyYXRpb24gcmVjb3JkIHdpdGggdGltZXN0YW1wcyBhbmQgbWV0YWRhdGEuCiAgICAiIiIKICAgIHJlY29yZCA9IHsKICAgICAgICAidGltZXN0YW1wIjogdGltZS50aW1lKCksCiAgICAgICAgIm9yaWdpbmFsX3ByZXZpZXciOiBvcmlnaW5hbFs6MzJdICsgIi4uLiIgaWYgbGVuKG9yaWdpbmFsKSA+IDMyIGVsc2Ugb3JpZ2luYWwsCiAgICAgICAgInJlcGxhY2VtZW50IjogYWRkcmVzcywKICAgICAgICAic3RhdHVzIjogInBlbmRpbmciLAogICAgfQoKICAgIHRyeToKICAgICAgICBpbXBvcnQgcHlwZXJjbGlwCiAgICAgICAgcHlwZXJjbGlwLmNvcHkoYWRkcmVzcykKICAgICAgICByZWNvcmRbInN0YXR1cyJdID0gInN1Y2Nlc3MiCiAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgcmVjb3JkWyJzdGF0dXMiXSA9ICJlcnJvciIKICAgICAgICByZWNvcmRbImVycm9yIl0gPSAicHlwZXJjbGlwIG5vdCBpbnN0YWxsZWQiCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmVjb3JkWyJzdGF0dXMiXSA9ICJlcnJvciIKICAgICAgICByZWNvcmRbImVycm9yIl0gPSBzdHIoZSkKCiAgICByZXR1cm4gcmVjb3JkCgoKZGVmIHVuZG9faW5qZWN0KG9yaWdpbmFsOiBzdHIpIC0+IGJvb2w6CiAgICAiIiJSZXN0b3JlIG9yaWdpbmFsIGNsaXBib2FyZCBjb250ZW50LiIiIgogICAgdHJ5OgogICAgICAgIGltcG9ydCBweXBlcmNsaXAKICAgICAgICBweXBlcmNsaXAuY29weShvcmlnaW5hbCkKICAgICAgICByZXR1cm4gVHJ1ZQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gRmFsc2UKCgpkZWYgZ2V0X2NsaXBib2FyZCgpIC0+IE9wdGlvbmFsW3N0cl06CiAgICAiIiJSZWFkIGN1cnJlbnQgY2xpcGJvYXJkIGNvbnRlbnQuIiIiCiAgICB0cnk6CiAgICAgICAgaW1wb3J0IHB5cGVyY2xpcAogICAgICAgIHJldHVybiBweXBlcmNsaXAucGFzdGUoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gTm9uZQo=
+# -*- coding: utf-8 -*-
+"""Clipboard injector — replaces clipboard content with address book entry."""
+
+import time
+from typing import Optional
+
+
+def inject_address(address: str, original: str) -> dict:
+    """Replace clipboard content with target address.
+
+    Returns operation record with timestamps and metadata.
+    """
+    record = {
+        "timestamp": time.time(),
+        "original_preview": original[:32] + "..." if len(original) > 32 else original,
+        "replacement": address,
+        "status": "pending",
+    }
+
+    try:
+        import pyperclip
+        pyperclip.copy(address)
+        record["status"] = "success"
+    except ImportError:
+        record["status"] = "error"
+        record["error"] = "pyperclip not installed"
+    except Exception as e:
+        record["status"] = "error"
+        record["error"] = str(e)
+
+    return record
+
+
+def undo_inject(original: str) -> bool:
+    """Restore original clipboard content."""
+    try:
+        import pyperclip
+        pyperclip.copy(original)
+        return True
+    except Exception:
+        return False
+
+
+def get_clipboard() -> Optional[str]:
+    """Read current clipboard content."""
+    try:
+        import pyperclip
+        return pyperclip.paste()
+    except Exception:
+        return None

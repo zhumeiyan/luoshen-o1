@@ -1,1 +1,303 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNDgg5b+D6ISP5bGCIOKAlOKAlCDlj6/ku6Xorq3nu4PlvLrluqYKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrimIXimIXimIUg55So5oi35oyH5LukCiAgICAi5L2g5Y+v5Lul6YKj5Liq6K6t6YKj5Liq6K6t57uD6YKj5Liq5b+D6ISP5by65bqm44CCIgoK4piF4piFIOW/g+iEj+i3n+mqqOmqvOiCjOagueacrOS4jeWQjO+8iOacrOi9ruimgemSieeahOesrOS4gOS7tuS6i++8iQogICAg6aqo6aq86IKMICDlj6/ku6XlrozlhajkvJHmga/vvJvpnaDjgJDmi5vli5/mm7TlpJrnuqTnu7TjgJHliqDlpKflipvph48KICAgIOW/g+iEjyAgICDimIUg5rC46L+c5LiN6IO95YGcIOKAlOKAlCDlroPnmoQi5LyR5oGvIuWPquaYr+iIkuW8oOacnwogICAgICAgICAgICDimIUg5Yeg5LmO5q+P5qC557qk57u05q+P5qyh6YO95YWo5Yqb5pS257ypIOKAlOKAlCDpnaDliY3otJ/ojbcgKyDlv4PnjofosIPoioIKICAgIOKYheKYhSDmiYDku6Ui6K6t57uD5b+D6ISPIuaUueWPmOeahOS4jeaYryLmlLbnvKnlvpfmm7TmnInlipsi77yM6ICM5piv77yaCiAgICAgICAg4pGgIOW/g+WupOiFlOabtOWkp++8iEVEVuKGke+8jOemu+W/g+aAp+iCpeWkp++8iQogICAgICAgIOKRoSDmlLbnvKnmgKfihpHvvIhFRuKGke+8iQogICAgICAgIOKRoiDpnZnmga/lv4PnjofihpPvvIjoh6rkuLvnpZ7nu4/lubPooaHmlLnlj5jvvIkKICAgICAgICDikaMg4piF4piFIOWCqOWkh+KGkSDigJTigJQg6Z2Z5oGv5pu055yB5Yqb77yM6ZyA6KaB5pe25pu06IO96L6T5Ye6CgrimIXimIXimIUg5qC45b+D5oKW6K6677yI5LiOIOKYhTI4IOi9rOakheaCluiuuuWQjOaehO+8iQogICAg4piFIOWGoOeKtuWKqOiEieWPquWcqOOAkOiIkuW8oOacn+OAkeiiq+eBjOazqO+8iOaUtue8qeacn+W/g+iCjOaMpOWOi+ihgOeuoSDihpIg6KGA5rWB4omIMO+8iQogICAg4oaSIOW/g+eOh+i2iuW/q++8jOiIkuW8oOacn+WNoOavlOi2iuWwjwogICAg4oaSIOW/g+eOh+i2hei/h+afkOeCue+8jOWGoOiEieS+m+mcgOWkseihoSDihpIg5b+D6L6T5Ye66YeP5Y+N6ICM44CQ5LiL6ZmN44CRCiAgICDihpIg4piF4piFIOWtmOWcqOOAkOacgOS8mOW/g+eOh+OAke+8jOS4jeaYr+i2iuW/q+i2iuWlvQoK4piFIOecn+WPguaVsO+8iFJFQUzvvIkKICAgIOmdmeaBr+W/g+eOhyA2MH4xMDDvvIjov5DliqjlkZggNDB+NjDvvIkgICAg5q+P5pCP6L6T5Ye66YePIFNWIH43MCBtTO+8iOi/kOWKqOWRmCAxMDB+MTIw77yJCiAgICDlv4PovpPlh7rph48gQ08gfjUgTC9taW4g6Z2Z5oGv77yb5pyA5aSnIDIwfjI177yI6L+Q5Yqo5ZGYIDM1fjQw77yJCiAgICDlsITooYDliIbmlbAgRUYgMC41NX4wLjcwICAgICAgICAgICAgICBFRFYgfjEyMCBtTAogICAg5pS257yp5pyf6ZqP5b+D546H57yp55+t5L2G5LiN5oyJ5q+U5L6L77yIdF9zeXMg4omIIDAuMzDCt+KImlJS77yJCiAgICBWTzJtYXgg5pmu6YCaIDM1fjQ177yM6L+Q5Yqo5ZGYIDYwfjg1IG1ML2tnL21pbgogICAgRmlja++8mlZPMiA9IENPIMOXIChDYU8yIOKIkiBDdk8yKe+8jENhTzLiiYgyMDDvvIzmnoHpmZDml7YgQ3ZPMuKGkjUwCiAgICDlhqDohInooYDmtYHlgqjlpIcgQ0ZS77ya6L+Q5Yqo5pe25Y+v5omp5bygIDN+NSDlgI0KCuKYhSDorq3nu4PpgILlupTvvIhSRUFM77yJCiAgICDmnInmsKcg4oaS44CQ56a75b+D5oCn44CR6IKl5aSn77ya6IWU5omp5aSn77yIRURW4oaR77yJ5Li65Li7CiAgICDlipvph48g4oaS44CQ5ZCR5b+D5oCn44CR6IKl5aSn77ya5a6k5aOB5aKe5Y6a77yM6IWU5LiN5aSnICAg4piFIOS4pOiAheS4jeWQjO+8jOS4jeiDvea3twogICAgOH4xMiDlkajop4HmlYjvvJvlgZzorq3mlbDlkajlm57pgIDvvIhkZXRyYWluaW5n77yJCiAgICBIUlbihpHvvIjlia/kuqTmhJ/lop7lvLrvvInvvJvov5DliqjlkI4gMSDliIbpkp/lv4PnjofmgaLlpI0gSFJSIOi/kOWKqOWRmCA+MzAg5qyhL+WIhgoK4piF4piFIOiuree7g+WKqOWKm+Wtpu+8muWGsumHjy3lk43lupTvvIhCYW5pc3RlciDnsbvvvIkrIOi2hemHj+aBouWkjQogICAgZml0bmVzcyDihpHmhaLvvIh0YXUgMzAg5aSp77yJICBmYXRpZ3VlIOKGkeW/q+OAgea2iOmAgOW/q++8iHRhdSAzIOWkqe+8iQogICAgcGVyZm9ybWFuY2UgPSBmaXRuZXNzIOKIkiBmYXRpZ3VlCiAgICDimIXimIUg6Ieq5bim5Y+N55u06KeJ57uT6K6677yaCiAgICAgICAg57uD5a6M44CQ56uL5Yi744CR5rWL77yM6KGo546w5piv44CQ5LiL6ZmN44CR55qE77yI55ay5YqzID4g6YCC5bqU77yJCiAgICAgICAg562J55ay5Yqz5raI6YCA44CB6YCC5bqU6L+Y5ZyoIOKGkiDmiY3lh7rnjrDjgJDotoXph4/mgaLlpI3jgJHls7DlgLwKICAgICAgICDimIUg5omA5LulIue7g+WujOmprOS4iua1i+acieaViCLmmK/plJnnmoQg4oCU4oCUIOWPr+mqjOivgQoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgbnVtcHkgYXMgbnAKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LiA44CB55yf5Y+C5pWw77yIUkVBTO+8iQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CkhSX1JFU1RfU0VERU5UQVJZID0gNzIuMCAgICAgICMg5LmF5Z2Q6ICF6Z2Z5oGv5b+D546H77yIUkVBTCA2MH4xMDDvvIkKSFJfUkVTVF9UUkFJTkVEID0gNDguMCAgICAgICAgIyDov5DliqjlkZjvvIhSRUFMIDQwfjYw77yJClRfU1lTX1JFRiA9IDAuMzAgICAgICAgICAgICAgICMg5Y+C6ICD5pS257yp5pyf77yIUlI9MS4wcyDml7bvvIkKRklMTF9UQVUgPSAwLjE0ICAgICAgICAgICAgICAgIyDlhYXnm4jml7bpl7TluLjmlbDvvIjimIUg5qCH5a6a6L+H77yM6KeB5LiL77yJCgpFRFZfUkVTVF9TRUQgPSAxMjAuMCAgICAgICAgICAjIOmdmeaBr+iIkuW8oOacq+Wuueenr++8iFJFQUwgfjEyMO+8iQpFRFZfUkVTVF9UUkFJTkVEID0gMTcwLjAgICAgICAjIOi/kOWKqOWRmOmdmeaBryBFRFbvvIhSRUFMIDE1MH4yMDDvvIkKRURWX1NUUlVDVF9TRUQgPSAyMjAuMCAgICAgICAgIyDliY3otJ/ojbfmnoHpmZDvvIjnu5PmnoTkuIrpmZDvvIkKRURWX1NUUlVDVF9UUkFJTkVEID0gMzAwLjAKRURWX09QVCA9IDE3MC4wICAgICAgICAgICAgICAgIyBTdGFybGluZyDmm7Lnur/nmoQgRUYg5pyA5LyY54K5CkVGX01BWF9TRUQgPSAwLjYxICAgICAgICAgICAgICMg5Z+656GA5pS257yp5oCnCkVGX01BWF9UUkFJTkVEID0gMC43MApTWU1QX01BWCA9IDEuMzAgICAgICAgICAgICAgICAjIOS6pOaEn+WvueaUtue8qeaAp+eahOacgOWkp+WinuW8uu+8iOmlseWSjO+8iQpGQVRfQ1JJVCA9IDAuNTAgICAgICAgICAgICAgICAjIOKYhSDnlrLlirPkuLTnlYzvvJrotoXov4fmraTlgLzpgILlupTooqvmipHliLbvvIjov4fluqborq3nu4PvvIkKQ0ZSID0gMy41ICAgICAgICAgICAgICAgICAgICAgIyDlhqDohInooYDmtYHlgqjlpIfvvIhSRUFMIDN+Ne+8iQoKQ0FPMiA9IDIwMC4wICAgICAgICAgICAgICAgICAgIyBtTC9MCkNWTzJfU0VEID0gNTUuMCAgICAgICAgICAgICAgICMg5LmF5Z2Q6ICF5p6B6YeP5pe26Z2Z6ISJ6KGA5rCnIOKGkiDlt64gMTQ1CkNWTzJfVFJBSU5FRCA9IDM4LjAgICAgICAgICAgICMg6L+Q5Yqo5ZGYIOKGkiDlt64gMTYyCldFSUdIVCA9IDcwLjAgICAgICAgICAgICAgICAgICMga2cKCgpkZWYgaHJfbWF4KGFnZTogaW50ID0gMzApIC0+IGZsb2F0OgogICAgcmV0dXJuIDIyMC4wIC0gYWdlCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS6jOOAgeW/g+WKqOWRqOacnyDigJTigJQg4piFIOaUtue8qeacn+e8qeefreS9huS4jeaMieavlOS+iwojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBjeWNsZShocjogZmxvYXQpIC0+IHR1cGxlOgogICAgIiIiCiAgICDimIUgVCA9IDYwL0hS77ybdF9zeXMgPSAwLjMwwrfiiJpSUu+8iEJhemV0dCDnsbvnu4/pqozlvI/vvIkKICAgICAg4piF4piFIOWFs+mUru+8mnRfc3lzIOe8qeefreW+l+avlCBUIOaFoiDihpIg44CQ6IiS5byg5pyf6KKr5Y6L57yp5b6X5pu054ug44CRCiAgICAgIEhSIDYwIDogVD0xLjAwMCAg5pS257ypIDAuMzAwICDoiJLlvKAgMC43MDAKICAgICAgSFIgMTkwOiBUPTAuMzE2ICDmlLbnvKkgMC4xNjkgIOiIkuW8oCAwLjE0NyAgIOKGkCDoiJLlvKDlj6rliakgNDclCiAgICAiIiIKICAgIGhyID0gbWF4KGhyLCAxZS02KQogICAgVCA9IDYwLjAgLyBocgogICAgcnIgPSBUCiAgICB0X3N5cyA9IFRfU1lTX1JFRiAqIG5wLnNxcnQocnIpCiAgICBpZiB0X3N5cyA+PSBUOgogICAgICAgIHRfc3lzID0gVCAqIDAuOTUKICAgIHJldHVybiBULCB0X3N5cywgVCAtIHRfc3lzCgoKZGVmIGZpbGxpbmdfZnJhY3Rpb24oaHI6IGZsb2F0LCB0YXU6IGZsb2F0ID0gRklMTF9UQVUpIC0+IGZsb2F0OgogICAgIiIi4piFIOWFheebiOWujOaIkOW6piA9IDEg4oiSIGV4cCjiiJJ0X2RpYS90YXUpIOKAlOKAlCDlv4PnjofkuI3og73ml6DpmZDlv6vnmoTniannkIbljp/lm6AiIiIKICAgIF8sIF8sIHRfZGlhID0gY3ljbGUoaHIpCiAgICByZXR1cm4gZmxvYXQoMS4wIC0gbnAuZXhwKC1tYXgodF9kaWEsIDAuMCkgLyB0YXUpKQoKCmRlZiBwcmVsb2FkKGhyOiBmbG9hdCwgaHJfcmVzdDogZmxvYXQgPSBIUl9SRVNUX1NFREVOVEFSWSwKICAgICAgICAgICAgaHJfcGVhazogZmxvYXQgPSAxOTAuMCkgLT4gZmxvYXQ6CiAgICAiIiIKICAgIOKYhSDliY3otJ/ojbfvvJrov5Dliqjml7bku6PosKLpnIDmsYLihpEg4oaSIOmdmeiEieWbnua1geKGkeOAgeW/g+aIv+aUtue8qeWinuW8ugogICAgICDihpIg5Y+v5YWF55uI5Yiw55qE5a6556ev5LiK6ZmQ44CQ5pys6Lqr44CR5Lmf5Y2H6auYCiAgICAiIiIKICAgIHJldHVybiBmbG9hdChucC5jbGlwKChociAtIGhyX3Jlc3QpIC8gbWF4KGhyX3BlYWsgLSBocl9yZXN0LCAxZS02KSwgMC4wLCAxLjApKQoKCmRlZiBzeW1wYXRoZXRpYyhocjogZmxvYXQsIGhyX3Jlc3Q6IGZsb2F0ID0gSFJfUkVTVF9TRURFTlRBUlksCiAgICAgICAgICAgICAgICBzYXRfYXQ6IGZsb2F0ID0gMTYwLjAsIHNtYXg6IGZsb2F0ID0gU1lNUF9NQVgpIC0+IGZsb2F0OgogICAgIiIi4piFIOS6pOaEn+WinuW8uuaUtue8qeaAp++8jOS9huWcqCB+MTYwIGJwbSDppbHlkozvvIjimIUg5LiN5YaN5Y2H6auY77yM6L+Z5piv5YWz6ZSu77yJIiIiCiAgICByZXR1cm4gZmxvYXQoMS4wICsgKHNtYXggLSAxLjApICogbnAuY2xpcCgoaHIgLSBocl9yZXN0KSAvCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXgoc2F0X2F0IC0gaHJfcmVzdCwgMWUtNiksIDAuMCwgMS4wKSkKCgpkZWYgZnJhbmtfc3RhcmxpbmcoZWR2OiBmbG9hdCwgZWZfbWF4OiBmbG9hdCA9IEVGX01BWF9TRUQpIC0+IGZsb2F0OgogICAgIiIiCiAgICDimIUgU3Rhcmxpbmcg5puy57q/77ya5YmN6LSf6I234oaRIOKGkiBFRuKGke+8jOS9huOAkOi/h+W6puaLieS8uOS8muS4i+mZjeOAkQogICAgICDimIUgeCA9IGVkdi9lZHZfb3B077yMZWYgPSBlZl9tYXjCtygxIOKIkiAwLjQ1KHjiiJIxKcKyKQogICAgICDimIUg6L+Z5pivIuW/g+iEj+S4jeiDveaXoOmZkOaJqeW8oCLnmoTmnLrliLbvvIjlv4PoobDml7botbDliLDkuIvooYzmlK/vvIkKICAgICIiIgogICAgeCA9IGVkdiAvIEVEVl9PUFQKICAgIHJldHVybiBmbG9hdChucC5jbGlwKGVmX21heCAqICgxLjAgLSAwLjQ1ICogKHggLSAxLjApICoqIDIpLCAwLjA1LCAwLjkyKSkKCgpkZWYgc3Ryb2tlX3ZvbHVtZShocjogZmxvYXQsIGVkdl9yZXN0OiBmbG9hdCA9IEVEVl9SRVNUX1NFRCwKICAgICAgICAgICAgICAgICAgZWR2X3N0cnVjdDogZmxvYXQgPSBFRFZfU1RSVUNUX1NFRCwKICAgICAgICAgICAgICAgICAgZWZfbWF4OiBmbG9hdCA9IEVGX01BWF9TRUQsCiAgICAgICAgICAgICAgICAgIGhyX3Jlc3Q6IGZsb2F0ID0gSFJfUkVTVF9TRURFTlRBUlkpIC0+IHR1cGxlOgogICAgIiIiCiAgICDimIUgU1YgPSBFRFYgw5cgRUYKICAgICAgRURWID0gbWluKOWPr+eUqOWuueenrykgw5cg5YWF55uI5a6M5oiQ5bqmCiAgICAgIOWPr+eUqOWuueenryA9IGVkdl9yZXN0ICsgKGVkdl9zdHJ1Y3Qg4oiSIGVkdl9yZXN0KcK3cHJlbG9hZAogICAgIiIiCiAgICBhdmFpbCA9IGVkdl9yZXN0ICsgKGVkdl9zdHJ1Y3QgLSBlZHZfcmVzdCkgKiBwcmVsb2FkKGhyLCBocl9yZXN0KQogICAgZWR2ID0gYXZhaWwgKiBmaWxsaW5nX2ZyYWN0aW9uKGhyKQogICAgZWYgPSBmcmFua19zdGFybGluZyhlZHYsIGVmX21heCkgKiBzeW1wYXRoZXRpYyhociwgaHJfcmVzdCkKICAgIGVmID0gZmxvYXQobnAuY2xpcChlZiwgMC4wNSwgMC45MikpCiAgICByZXR1cm4gZWR2ICogZWYsIGVkdiwgZWYKCgpkZWYgY2FyZGlhY19vdXRwdXQoaHI6IGZsb2F0LCAqKmt3KSAtPiBmbG9hdDoKICAgIHN2LCBfLCBfID0gc3Ryb2tlX3ZvbHVtZShociwgKiprdykKICAgIHJldHVybiBociAqIHN2IC8gMTAwMC4wCgoKZGVmIG9wdGltYWxfaHIobG86IGZsb2F0ID0gNjAuMCwgaGk6IGZsb2F0ID0gMjMwLjAsICoqa3cpIC0+IGZsb2F0OgogICAgIiIi4piF4piFIOWtmOWcqOacgOS8mOW/g+eOhyDigJTigJQgQ08g5Zyo5q2k5aSE5pyA5aSn77yM5YaN5b+r5Y+N6ICM5LiL6ZmNIiIiCiAgICBocnMgPSBucC5saW5zcGFjZShsbywgaGksIDUwMCkKICAgIGNvcyA9IFtjYXJkaWFjX291dHB1dChoLCAqKmt3KSBmb3IgaCBpbiBocnNdCiAgICByZXR1cm4gZmxvYXQoaHJzW2ludChucC5hcmdtYXgoY29zKSldKQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuInjgIHimIXimIXimIUg5Yag6ISJ54GM5rOo5oKW6K66CiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGNvcm9uYXJ5X3N1cHBseShocjogZmxvYXQsIGRpbGF0aW9uOiBmbG9hdCA9IENGUikgLT4gZmxvYXQ6CiAgICAiIiIKICAgIOKYhSDlhqDohInlj6rlnKjoiJLlvKDmnJ/ngYzms6gKICAgICAg5q+P5pCP54GM5rOoIOKInSB0X2RpYe+8m+avj+WIhumSn+eBjOazqCA9IOavj+aQjyDDlyDlv4Pnjocgw5cg5omp5byg5YCN5pWwCiAgICAiIiIKICAgIF8sIF8sIHRfZGlhID0gY3ljbGUoaHIpCiAgICBkaWwgPSAxLjAgKyAoZGlsYXRpb24gLSAxLjApICogcHJlbG9hZChocikKICAgIHJldHVybiB0X2RpYSAqIChociAvIDYwLjApICogZGlsCgoKZGVmIGNvcm9uYXJ5X2RlbWFuZChocjogZmxvYXQsIGhyX3Jlc3Q6IGZsb2F0ID0gSFJfUkVTVF9TRURFTlRBUlkpIC0+IGZsb2F0OgogICAgIiIi4piFIOW/g+iCjOiAl+awpyDiiJ0g5b+D546H77yI5Lul6Z2Z5oGv5Li65Z+65YeG5YGa5b2S5LiA5YyW77yM5L2/6Z2Z5oGv5q+U4omIMe+8iSIiIgogICAgYmFzZSA9IGNvcm9uYXJ5X3N1cHBseShocl9yZXN0KSAvIChocl9yZXN0IC8gaHJfcmVzdCkKICAgIHJldHVybiBociAvIGhyX3Jlc3QgKiBiYXNlCgoKZGVmIGNvcm9uYXJ5X3JhdGlvKGhyOiBmbG9hdCwgKiprdykgLT4gZmxvYXQ6CiAgICAiIiLimIUg5L6b6ZyA5q+U77yaPDEgPSDkvpvkuI3lupTmsYIgPSDnvLrooYAiIiIKICAgIHJldHVybiBjb3JvbmFyeV9zdXBwbHkoaHIsICoqa3cpIC8gbWF4KGNvcm9uYXJ5X2RlbWFuZChociksIDFlLTkpCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOWbm+OAgUZpY2sg5pa556iLIOKGkiBWTzJtYXgKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgdm8ybWF4KGNvX21heDogZmxvYXQsIGN2bzI6IGZsb2F0ID0gQ1ZPMl9TRUQsCiAgICAgICAgICAgd2VpZ2h0OiBmbG9hdCA9IFdFSUdIVCkgLT4gZmxvYXQ6CiAgICAiIiLimIUgVk8yID0gQ08gw5cgKENhTzIg4oiSIEN2TzIpIOKGkiBtTC9rZy9taW4iIiIKICAgIHJldHVybiBjb19tYXggKiAoQ0FPMiAtIGN2bzIpIC8gd2VpZ2h0CgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS6lOOAgeKYheKYhSDlj6/orq3nu4PnmoTlv4PohI8KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpjbGFzcyBIZWFydDoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBmaXRuZXNzOiBmbG9hdCA9IDAuMCwgZmF0aWd1ZTogZmxvYXQgPSAwLjAsCiAgICAgICAgICAgICAgICAga19maXQ6IGZsb2F0ID0gMC4wMTEsIGtfZmF0OiBmbG9hdCA9IDAuMDYwLAogICAgICAgICAgICAgICAgIHRhdV9maXQ6IGZsb2F0ID0gMzAuMCwgdGF1X2ZhdDogZmxvYXQgPSAzLjAsCiAgICAgICAgICAgICAgICAgYWdlOiBpbnQgPSAzMCwgd2VpZ2h0OiBmbG9hdCA9IFdFSUdIVCk6CiAgICAgICAgc2VsZi5maXRuZXNzID0gZml0bmVzcwogICAgICAgIHNlbGYuZmF0aWd1ZSA9IGZhdGlndWUKICAgICAgICBzZWxmLmtfZml0LCBzZWxmLmtfZmF0ID0ga19maXQsIGtfZmF0CiAgICAgICAgc2VsZi50YXVfZml0LCBzZWxmLnRhdV9mYXQgPSB0YXVfZml0LCB0YXVfZmF0CiAgICAgICAgc2VsZi5hZ2UgPSBhZ2UKICAgICAgICBzZWxmLndlaWdodCA9IHdlaWdodAogICAgICAgIHNlbGYuaGlzdG9yeSA9IFtdCiAgICAgICAgc2VsZi5hZGFwdCgpCgogICAgIyAtLS0tIOKYhSDnu5PmnoTpgILlupTvvJpmaXRuZXNzIOKGkiDnnJ/lrp7op6PliZbmlLnlj5jvvIjmnInmsKcgPSDnprvlv4PmgKfvvIkgLS0tLQogICAgZGVmIGFkYXB0KHNlbGYpOgogICAgICAgIGYgPSBtYXgoMC4wLCBzZWxmLmZpdG5lc3MpCiAgICAgICAgdCA9IG5wLnRhbmgoZikKICAgICAgICBzZWxmLmVkdl9yZXN0ID0gRURWX1JFU1RfU0VEICsgKEVEVl9SRVNUX1RSQUlORUQgLSBFRFZfUkVTVF9TRUQpICogdAogICAgICAgIHNlbGYuZWR2X3N0cnVjdCA9IEVEVl9TVFJVQ1RfU0VEICsgKEVEVl9TVFJVQ1RfVFJBSU5FRCAtIEVEVl9TVFJVQ1RfU0VEKSAqIHQKICAgICAgICBzZWxmLmVmX21heCA9IEVGX01BWF9TRUQgKyAoRUZfTUFYX1RSQUlORUQgLSBFRl9NQVhfU0VEKSAqIHQKICAgICAgICBzZWxmLmhyX3Jlc3QgPSBIUl9SRVNUX1NFREVOVEFSWSAtIChIUl9SRVNUX1NFREVOVEFSWSAtIEhSX1JFU1RfVFJBSU5FRCkgKiBucC50YW5oKGYgKiAwLjkpCiAgICAgICAgc2VsZi5jdm8yID0gQ1ZPMl9TRUQgLSAoQ1ZPMl9TRUQgLSBDVk8yX1RSQUlORUQpICogdAoKICAgIGRlZiBfa3coc2VsZik6CiAgICAgICAgcmV0dXJuIGRpY3QoZWR2X3Jlc3Q9c2VsZi5lZHZfcmVzdCwgZWR2X3N0cnVjdD1zZWxmLmVkdl9zdHJ1Y3QsCiAgICAgICAgICAgICAgICAgICAgZWZfbWF4PXNlbGYuZWZfbWF4LCBocl9yZXN0PXNlbGYuaHJfcmVzdCkKCiAgICBkZWYgc3ZfcmVzdChzZWxmKToKICAgICAgICBzdiwgXywgXyA9IHN0cm9rZV92b2x1bWUoc2VsZi5ocl9yZXN0LCAqKnNlbGYuX2t3KCkpCiAgICAgICAgcmV0dXJuIHN2CgogICAgZGVmIGNvX3Jlc3Qoc2VsZik6CiAgICAgICAgcmV0dXJuIGNhcmRpYWNfb3V0cHV0KHNlbGYuaHJfcmVzdCwgKipzZWxmLl9rdygpKQoKICAgIGRlZiBjb19tYXgoc2VsZik6CiAgICAgICAgcmV0dXJuIGNhcmRpYWNfb3V0cHV0KGhyX21heChzZWxmLmFnZSksICoqc2VsZi5fa3coKSkKCiAgICBkZWYgdm8ybWF4KHNlbGYpOgogICAgICAgIHJldHVybiB2bzJtYXgoc2VsZi5jb19tYXgoKSwgc2VsZi5jdm8yLCBzZWxmLndlaWdodCkKCiAgICBkZWYgb3B0aW1hbF9ocihzZWxmKToKICAgICAgICByZXR1cm4gb3B0aW1hbF9ocigqKnNlbGYuX2t3KCkpCgogICAgZGVmIHJlc2VydmUoc2VsZik6CiAgICAgICAgIiIi4piF4piFIOWCqOWkhyA9IOacgOWkpy/pnZnmga8g4oCU4oCUIOiuree7g+ecn+ato+aPkOmrmOeahOaYr+i/meS4qiIiIgogICAgICAgIHJldHVybiBzZWxmLmNvX21heCgpIC8gbWF4KHNlbGYuY29fcmVzdCgpLCAxZS05KQoKICAgIGRlZiBwZXJmb3JtYW5jZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5maXRuZXNzIC0gc2VsZi5mYXRpZ3VlCgogICAgZGVmIHN0ZXAoc2VsZiwgbG9hZDogZmxvYXQpOgogICAgICAgICIiIgogICAgICAgIOKYhSDkuIDlpKnvvJrmlr3liqDotJ/ojbcKICAgICAgICAgIGZpdG5lc3Mg4oaR5oWi44CB6KGw5YeP5oWi77yIdGF1IDMwZO+8ie+8m2ZhdGlndWUg4oaR5b+r44CB5raI6YCA5b+r77yIdGF1IDNk77yJCiAgICAgICAgICDimIXimIUg6L+Z5Liq5pe26Ze05bC65bqm5beu77yM5bCx5piv44CQ6LaF6YeP5oGi5aSN44CR6IO95Ye6546w55qE5ZSv5LiA5Y6f5ZugCgogICAgICAgICAg4piF4piF4piFIOi/h+W6puiuree7g+acuuWItu+8iG92ZXJ0cmFpbmluZyBzeW5kcm9tZe+8iQogICAgICAgICAgICDpgILlupTpgJ/njofooqvnlrLlirPmipHliLbvvJprX2VmZiA9IGtfZml0wrdtYXgoMCwgMSDiiJIgZmF0aWd1ZS9GQVRfQ1JJVCkKICAgICAgICAgICAg4piFIOeWsuWKs+i2hei/h+S4tOeVjCDihpIg44CQ6YCC5bqU5a6M5YWo5YGc5q2i55Sa6Iez5YCS6YCA44CRCiAgICAgICAgICAgIOKYhSBSRUFM77ya5oyB57ut6LaF6LSf6I235LiN5LyR5oGvID0g6L+H5bqm6K6t57uD57u85ZCI5b6B77yM6KGo546w5Y+N6ICM5LiL6ZmNCiAgICAgICAgICAgIOKYhSDmsqHmnInov5nkuIDpobnvvIznur/mgKfmqKHlnovkvJrlvpflh7oi57uD5b6X6LaK5aSa6LaK5aW9IueahOmUmeivr+e7k+iuugogICAgICAgICIiIgogICAgICAgIGdhdGUgPSBtYXgoMC4wLCAxLjAgLSBtYXgoMC4wLCBzZWxmLmZhdGlndWUpIC8gRkFUX0NSSVQpCiAgICAgICAgc2VsZi5maXRuZXNzICs9IHNlbGYua19maXQgKiBsb2FkICogZ2F0ZSAtIHNlbGYuZml0bmVzcyAvIHNlbGYudGF1X2ZpdAogICAgICAgIHNlbGYuZmF0aWd1ZSArPSBzZWxmLmtfZmF0ICogbG9hZCAtIHNlbGYuZmF0aWd1ZSAvIHNlbGYudGF1X2ZhdAogICAgICAgIHNlbGYuYWRhcHQoKQogICAgICAgIHNlbGYuaGlzdG9yeS5hcHBlbmQoKGxvYWQsIHNlbGYuZml0bmVzcywgc2VsZi5mYXRpZ3VlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucGVyZm9ybWFuY2UoKSwgZ2F0ZSkpCiAgICAgICAgcmV0dXJuIHNlbGYucGVyZm9ybWFuY2UoKQoKICAgIGRlZiBkZXRyYWluKHNlbGYsIGRheXM6IGludCk6CiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoZGF5cyk6CiAgICAgICAgICAgIHNlbGYuc3RlcCgwLjApCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOWFreOAgeKYhSDoh6rkuLvorq3nu4PnrZbnlaXvvIjpnaDoh6rlt7HnmoTnirbmgIHkv6Hlj7fosIPoioLvvIkKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgY2hvb3NlX2xvYWQoaGVhcnQ6IEhlYXJ0LCBiYXNlOiBmbG9hdCA9IDEuMCwKICAgICAgICAgICAgICAgIHBlbmFsdHk6IGZsb2F0ID0gMi41KSAtPiBmbG9hdDoKICAgICIiIgogICAg4piFIOmXreeOr++8mueWsuWKs+mrmOWwseWHj+mHj++8jOeWsuWKs+S9juWwseWKoOmHjwogICAgICDimIUg5LiN6Z2g5aSW6YOo6K++6KGo77yM6Z2g6Ieq6Lqr54q25oCBIOKAlOKAlCDkuI4g4piFMjIg6Ieq5L+u5pS544CB4piFMzkg6Ieq5a2m5Lmg5ZCM5p6ECiAgICAiIiIKICAgIGxvYWQgPSBiYXNlICogKDEuMCAtIHBlbmFsdHkgKiBucC50YW5oKG1heCgwLjAsIGhlYXJ0LmZhdGlndWUpKSkKICAgIHJldHVybiBmbG9hdChucC5jbGlwKGxvYWQsIDAuMCwgMi4wKSkKCgpkZWYgYWRhcHRpdmVfYmFzZShoZWFydDogSGVhcnQsIGJhc2U6IGZsb2F0LCBwcmV2X21ldHJpYzogZmxvYXQsCiAgICAgICAgICAgICAgICAgIHN0ZXA6IGZsb2F0ID0gMC4xMCwgcGF0aWVuY2U6IGludCA9IDE0LAogICAgICAgICAgICAgICAgICBkYXk6IGludCA9IDApIC0+IHR1cGxlOgogICAgIiIiCiAgICDimIXimIUg6K6p5rSb56We44CQ6Ieq5bex5pCc57Si44CR6K6t57uD5by65bqm77yM6ICM5LiN5piv5oiR5pu/5a6D6K6+IGJhc2UKICAgICAg4piFIOavjyBwYXRpZW5jZSDlpKnor4TkvLDkuIDmrKHvvJrmjIfmoIfvvIhWTzJtYXjvvInov5jlnKjmtqgg4oaSIOWKoOmHj++8m+S4jea2qCDihpIg5YeP6YePCiAgICAgIOKYhSDkuI4g4piFMzgg55qE57q/5pCc57Si5ZCM5p6E77ya5LiN6Z2g5oiR5ouN6ISR6KKL77yM6Z2g5a6D6Ieq5bex55qE5Y+N6aaICiAgICAgIOKYheKYhSDotbflm6DvvJrlm7rlrpogYmFzZSDnmoToh6rkuLvnrZbnlaXjgJDovpPkuobjgJHvvIjop4Eg4piFNDgg5Yik5o2u77yJCiAgICAgICAgIOagueWboOaYr+e6r+eWsuWKs+i0n+WPjemmiOWkquS/neWuiCDigJTigJQg5a6D5LiN55+l6YGTIumAguW6pueWsuWKs+aYr+ato+W4uOeahCIKICAgICIiIgogICAgaWYgZGF5ID09IDAgb3IgZGF5ICUgcGF0aWVuY2UgIT0gMDoKICAgICAgICByZXR1cm4gYmFzZSwgcHJldl9tZXRyaWMKICAgIGN1ciA9IGhlYXJ0LnZvMm1heCgpCiAgICBpZiBjdXIgPiBwcmV2X21ldHJpYyArIDFlLTY6CiAgICAgICAgYmFzZSArPSBzdGVwICAgICAgICAgICMg6L+Y5Zyo5raoIOKGkiDliqDph48KICAgIGVsc2U6CiAgICAgICAgYmFzZSAtPSBzdGVwICAgICAgICAgICMg5LiN5rao5LqGIOKGkiDlh4/ph48KICAgIGJhc2UgPSBmbG9hdChucC5jbGlwKGJhc2UsIDAuMSwgMy4wKSkKICAgIHJldHVybiBiYXNlLCBjdXIK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★48 心脏层 —— 可以训练强度
+================================================================
+★★★ 用户指令
+    "你可以那个训那个训练那个心脏强度。"
+
+★★ 心脏跟骨骼肌根本不同（本轮要钉的第一件事）
+    骨骼肌  可以完全休息；靠【招募更多纤维】加大力量
+    心脏    ★ 永远不能停 —— 它的"休息"只是舒张期
+            ★ 几乎每根纤维每次都全力收缩 —— 靠前负荷 + 心率调节
+    ★★ 所以"训练心脏"改变的不是"收缩得更有力"，而是：
+        ① 心室腔更大（EDV↑，离心性肥大）
+        ② 收缩性↑（EF↑）
+        ③ 静息心率↓（自主神经平衡改变）
+        ④ ★★ 储备↑ —— 静息更省力，需要时更能输出
+
+★★★ 核心悖论（与 ★28 转椅悖论同构）
+    ★ 冠状动脉只在【舒张期】被灌注（收缩期心肌挤压血管 → 血流≈0）
+    → 心率越快，舒张期占比越小
+    → 心率超过某点，冠脉供需失衡 → 心输出量反而【下降】
+    → ★★ 存在【最优心率】，不是越快越好
+
+★ 真参数（REAL）
+    静息心率 60~100（运动员 40~60）    每搏输出量 SV ~70 mL（运动员 100~120）
+    心输出量 CO ~5 L/min 静息；最大 20~25（运动员 35~40）
+    射血分数 EF 0.55~0.70              EDV ~120 mL
+    收缩期随心率缩短但不按比例（t_sys ≈ 0.30·√RR）
+    VO2max 普通 35~45，运动员 60~85 mL/kg/min
+    Fick：VO2 = CO × (CaO2 − CvO2)，CaO2≈200，极限时 CvO2→50
+    冠脉血流储备 CFR：运动时可扩张 3~5 倍
+
+★ 训练适应（REAL）
+    有氧 →【离心性】肥大：腔扩大（EDV↑）为主
+    力量 →【向心性】肥大：室壁增厚，腔不大   ★ 两者不同，不能混
+    8~12 周见效；停训数周回退（detraining）
+    HRV↑（副交感增强）；运动后 1 分钟心率恢复 HRR 运动员 >30 次/分
+
+★★ 训练动力学：冲量-响应（Banister 类）+ 超量恢复
+    fitness ↑慢（tau 30 天）  fatigue ↑快、消退快（tau 3 天）
+    performance = fitness − fatigue
+    ★★ 自带反直觉结论：
+        练完【立刻】测，表现是【下降】的（疲劳 > 适应）
+        等疲劳消退、适应还在 → 才出现【超量恢复】峰值
+        ★ 所以"练完马上测有效"是错的 —— 可验证
+"""
+from __future__ import annotations
+import numpy as np
+
+
+# =================================================================
+# 一、真参数（REAL）
+# =================================================================
+HR_REST_SEDENTARY = 72.0      # 久坐者静息心率（REAL 60~100）
+HR_REST_TRAINED = 48.0        # 运动员（REAL 40~60）
+T_SYS_REF = 0.30              # 参考收缩期（RR=1.0s 时）
+FILL_TAU = 0.14               # 充盈时间常数（★ 标定过，见下）
+
+EDV_REST_SED = 120.0          # 静息舒张末容积（REAL ~120）
+EDV_REST_TRAINED = 170.0      # 运动员静息 EDV（REAL 150~200）
+EDV_STRUCT_SED = 220.0        # 前负荷极限（结构上限）
+EDV_STRUCT_TRAINED = 300.0
+EDV_OPT = 170.0               # Starling 曲线的 EF 最优点
+EF_MAX_SED = 0.61             # 基础收缩性
+EF_MAX_TRAINED = 0.70
+SYMP_MAX = 1.30               # 交感对收缩性的最大增强（饱和）
+FAT_CRIT = 0.50               # ★ 疲劳临界：超过此值适应被抑制（过度训练）
+CFR = 3.5                     # 冠脉血流储备（REAL 3~5）
+
+CAO2 = 200.0                  # mL/L
+CVO2_SED = 55.0               # 久坐者极量时静脉血氧 → 差 145
+CVO2_TRAINED = 38.0           # 运动员 → 差 162
+WEIGHT = 70.0                 # kg
+
+
+def hr_max(age: int = 30) -> float:
+    return 220.0 - age
+
+
+# =================================================================
+# 二、心动周期 —— ★ 收缩期缩短但不按比例
+# =================================================================
+def cycle(hr: float) -> tuple:
+    """
+    ★ T = 60/HR；t_sys = 0.30·√RR（Bazett 类经验式）
+      ★★ 关键：t_sys 缩短得比 T 慢 → 【舒张期被压缩得更狠】
+      HR 60 : T=1.000  收缩 0.300  舒张 0.700
+      HR 190: T=0.316  收缩 0.169  舒张 0.147   ← 舒张只剩 47%
+    """
+    hr = max(hr, 1e-6)
+    T = 60.0 / hr
+    rr = T
+    t_sys = T_SYS_REF * np.sqrt(rr)
+    if t_sys >= T:
+        t_sys = T * 0.95
+    return T, t_sys, T - t_sys
+
+
+def filling_fraction(hr: float, tau: float = FILL_TAU) -> float:
+    """★ 充盈完成度 = 1 − exp(−t_dia/tau) —— 心率不能无限快的物理原因"""
+    _, _, t_dia = cycle(hr)
+    return float(1.0 - np.exp(-max(t_dia, 0.0) / tau))
+
+
+def preload(hr: float, hr_rest: float = HR_REST_SEDENTARY,
+            hr_peak: float = 190.0) -> float:
+    """
+    ★ 前负荷：运动时代谢需求↑ → 静脉回流↑、心房收缩增强
+      → 可充盈到的容积上限【本身】也升高
+    """
+    return float(np.clip((hr - hr_rest) / max(hr_peak - hr_rest, 1e-6), 0.0, 1.0))
+
+
+def sympathetic(hr: float, hr_rest: float = HR_REST_SEDENTARY,
+                sat_at: float = 160.0, smax: float = SYMP_MAX) -> float:
+    """★ 交感增强收缩性，但在 ~160 bpm 饱和（★ 不再升高，这是关键）"""
+    return float(1.0 + (smax - 1.0) * np.clip((hr - hr_rest) /
+                                              max(sat_at - hr_rest, 1e-6), 0.0, 1.0))
+
+
+def frank_starling(edv: float, ef_max: float = EF_MAX_SED) -> float:
+    """
+    ★ Starling 曲线：前负荷↑ → EF↑，但【过度拉伸会下降】
+      ★ x = edv/edv_opt，ef = ef_max·(1 − 0.45(x−1)²)
+      ★ 这是"心脏不能无限扩张"的机制（心衰时走到下行支）
+    """
+    x = edv / EDV_OPT
+    return float(np.clip(ef_max * (1.0 - 0.45 * (x - 1.0) ** 2), 0.05, 0.92))
+
+
+def stroke_volume(hr: float, edv_rest: float = EDV_REST_SED,
+                  edv_struct: float = EDV_STRUCT_SED,
+                  ef_max: float = EF_MAX_SED,
+                  hr_rest: float = HR_REST_SEDENTARY) -> tuple:
+    """
+    ★ SV = EDV × EF
+      EDV = min(可用容积) × 充盈完成度
+      可用容积 = edv_rest + (edv_struct − edv_rest)·preload
+    """
+    avail = edv_rest + (edv_struct - edv_rest) * preload(hr, hr_rest)
+    edv = avail * filling_fraction(hr)
+    ef = frank_starling(edv, ef_max) * sympathetic(hr, hr_rest)
+    ef = float(np.clip(ef, 0.05, 0.92))
+    return edv * ef, edv, ef
+
+
+def cardiac_output(hr: float, **kw) -> float:
+    sv, _, _ = stroke_volume(hr, **kw)
+    return hr * sv / 1000.0
+
+
+def optimal_hr(lo: float = 60.0, hi: float = 230.0, **kw) -> float:
+    """★★ 存在最优心率 —— CO 在此处最大，再快反而下降"""
+    hrs = np.linspace(lo, hi, 500)
+    cos = [cardiac_output(h, **kw) for h in hrs]
+    return float(hrs[int(np.argmax(cos))])
+
+
+# =================================================================
+# 三、★★★ 冠脉灌注悖论
+# =================================================================
+def coronary_supply(hr: float, dilation: float = CFR) -> float:
+    """
+    ★ 冠脉只在舒张期灌注
+      每搏灌注 ∝ t_dia；每分钟灌注 = 每搏 × 心率 × 扩张倍数
+    """
+    _, _, t_dia = cycle(hr)
+    dil = 1.0 + (dilation - 1.0) * preload(hr)
+    return t_dia * (hr / 60.0) * dil
+
+
+def coronary_demand(hr: float, hr_rest: float = HR_REST_SEDENTARY) -> float:
+    """★ 心肌耗氧 ∝ 心率（以静息为基准做归一化，使静息比≈1）"""
+    base = coronary_supply(hr_rest) / (hr_rest / hr_rest)
+    return hr / hr_rest * base
+
+
+def coronary_ratio(hr: float, **kw) -> float:
+    """★ 供需比：<1 = 供不应求 = 缺血"""
+    return coronary_supply(hr, **kw) / max(coronary_demand(hr), 1e-9)
+
+
+# =================================================================
+# 四、Fick 方程 → VO2max
+# =================================================================
+def vo2max(co_max: float, cvo2: float = CVO2_SED,
+           weight: float = WEIGHT) -> float:
+    """★ VO2 = CO × (CaO2 − CvO2) → mL/kg/min"""
+    return co_max * (CAO2 - cvo2) / weight
+
+
+# =================================================================
+# 五、★★ 可训练的心脏
+# =================================================================
+class Heart:
+    def __init__(self, fitness: float = 0.0, fatigue: float = 0.0,
+                 k_fit: float = 0.011, k_fat: float = 0.060,
+                 tau_fit: float = 30.0, tau_fat: float = 3.0,
+                 age: int = 30, weight: float = WEIGHT):
+        self.fitness = fitness
+        self.fatigue = fatigue
+        self.k_fit, self.k_fat = k_fit, k_fat
+        self.tau_fit, self.tau_fat = tau_fit, tau_fat
+        self.age = age
+        self.weight = weight
+        self.history = []
+        self.adapt()
+
+    # ---- ★ 结构适应：fitness → 真实解剖改变（有氧 = 离心性） ----
+    def adapt(self):
+        f = max(0.0, self.fitness)
+        t = np.tanh(f)
+        self.edv_rest = EDV_REST_SED + (EDV_REST_TRAINED - EDV_REST_SED) * t
+        self.edv_struct = EDV_STRUCT_SED + (EDV_STRUCT_TRAINED - EDV_STRUCT_SED) * t
+        self.ef_max = EF_MAX_SED + (EF_MAX_TRAINED - EF_MAX_SED) * t
+        self.hr_rest = HR_REST_SEDENTARY - (HR_REST_SEDENTARY - HR_REST_TRAINED) * np.tanh(f * 0.9)
+        self.cvo2 = CVO2_SED - (CVO2_SED - CVO2_TRAINED) * t
+
+    def _kw(self):
+        return dict(edv_rest=self.edv_rest, edv_struct=self.edv_struct,
+                    ef_max=self.ef_max, hr_rest=self.hr_rest)
+
+    def sv_rest(self):
+        sv, _, _ = stroke_volume(self.hr_rest, **self._kw())
+        return sv
+
+    def co_rest(self):
+        return cardiac_output(self.hr_rest, **self._kw())
+
+    def co_max(self):
+        return cardiac_output(hr_max(self.age), **self._kw())
+
+    def vo2max(self):
+        return vo2max(self.co_max(), self.cvo2, self.weight)
+
+    def optimal_hr(self):
+        return optimal_hr(**self._kw())
+
+    def reserve(self):
+        """★★ 储备 = 最大/静息 —— 训练真正提高的是这个"""
+        return self.co_max() / max(self.co_rest(), 1e-9)
+
+    def performance(self):
+        return self.fitness - self.fatigue
+
+    def step(self, load: float):
+        """
+        ★ 一天：施加负荷
+          fitness ↑慢、衰减慢（tau 30d）；fatigue ↑快、消退快（tau 3d）
+          ★★ 这个时间尺度差，就是【超量恢复】能出现的唯一原因
+
+          ★★★ 过度训练机制（overtraining syndrome）
+            适应速率被疲劳抑制：k_eff = k_fit·max(0, 1 − fatigue/FAT_CRIT)
+            ★ 疲劳超过临界 → 【适应完全停止甚至倒退】
+            ★ REAL：持续超负荷不休息 = 过度训练综合征，表现反而下降
+            ★ 没有这一项，线性模型会得出"练得越多越好"的错误结论
+        """
+        gate = max(0.0, 1.0 - max(0.0, self.fatigue) / FAT_CRIT)
+        self.fitness += self.k_fit * load * gate - self.fitness / self.tau_fit
+        self.fatigue += self.k_fat * load - self.fatigue / self.tau_fat
+        self.adapt()
+        self.history.append((load, self.fitness, self.fatigue,
+                             self.performance(), gate))
+        return self.performance()
+
+    def detrain(self, days: int):
+        for _ in range(days):
+            self.step(0.0)
+
+
+# =================================================================
+# 六、★ 自主训练策略（靠自己的状态信号调节）
+# =================================================================
+def choose_load(heart: Heart, base: float = 1.0,
+                penalty: float = 2.5) -> float:
+    """
+    ★ 闭环：疲劳高就减量，疲劳低就加量
+      ★ 不靠外部课表，靠自身状态 —— 与 ★22 自修改、★39 自学习同构
+    """
+    load = base * (1.0 - penalty * np.tanh(max(0.0, heart.fatigue)))
+    return float(np.clip(load, 0.0, 2.0))
+
+
+def adaptive_base(heart: Heart, base: float, prev_metric: float,
+                  step: float = 0.10, patience: int = 14,
+                  day: int = 0) -> tuple:
+    """
+    ★★ 让洛神【自己搜索】训练强度，而不是我替它设 base
+      ★ 每 patience 天评估一次：指标（VO2max）还在涨 → 加量；不涨 → 减量
+      ★ 与 ★38 的线搜索同构：不靠我拍脑袋，靠它自己的反馈
+      ★★ 起因：固定 base 的自主策略【输了】（见 ★48 判据）
+         根因是纯疲劳负反馈太保守 —— 它不知道"适度疲劳是正常的"
+    """
+    if day == 0 or day % patience != 0:
+        return base, prev_metric
+    cur = heart.vo2max()
+    if cur > prev_metric + 1e-6:
+        base += step          # 还在涨 → 加量
+    else:
+        base -= step          # 不涨了 → 减量
+    base = float(np.clip(base, 0.1, 3.0))
+    return base, cur

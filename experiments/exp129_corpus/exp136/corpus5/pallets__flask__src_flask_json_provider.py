@@ -1,1 +1,215 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGRhdGFjbGFzc2VzCmltcG9ydCBkZWNpbWFsCmltcG9ydCBqc29uCmltcG9ydCB0eXBpbmcgYXMgdAppbXBvcnQgdXVpZAppbXBvcnQgd2Vha3JlZgpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRlCgpmcm9tIHdlcmt6ZXVnLmh0dHAgaW1wb3J0IGh0dHBfZGF0ZQoKaWYgdC5UWVBFX0NIRUNLSU5HOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICBmcm9tIHdlcmt6ZXVnLnNhbnNpby5yZXNwb25zZSBpbXBvcnQgUmVzcG9uc2UKCiAgICBmcm9tIC4uc2Fuc2lvLmFwcCBpbXBvcnQgQXBwCgoKY2xhc3MgSlNPTlByb3ZpZGVyOgogICAgIiIiQSBzdGFuZGFyZCBzZXQgb2YgSlNPTiBvcGVyYXRpb25zIGZvciBhbiBhcHBsaWNhdGlvbi4gU3ViY2xhc3NlcwogICAgb2YgdGhpcyBjYW4gYmUgdXNlZCB0byBjdXN0b21pemUgSlNPTiBiZWhhdmlvciBvciB1c2UgZGlmZmVyZW50CiAgICBKU09OIGxpYnJhcmllcy4KCiAgICBUbyBpbXBsZW1lbnQgYSBwcm92aWRlciBmb3IgYSBzcGVjaWZpYyBsaWJyYXJ5LCBzdWJjbGFzcyB0aGlzIGJhc2UKICAgIGNsYXNzIGFuZCBpbXBsZW1lbnQgYXQgbGVhc3QgOm1ldGg6YGR1bXBzYCBhbmQgOm1ldGg6YGxvYWRzYC4gQWxsCiAgICBvdGhlciBtZXRob2RzIGhhdmUgZGVmYXVsdCBpbXBsZW1lbnRhdGlvbnMuCgogICAgVG8gdXNlIGEgZGlmZmVyZW50IHByb3ZpZGVyLCBlaXRoZXIgc3ViY2xhc3MgYGBGbGFza2BgIGFuZCBzZXQKICAgIDphdHRyOmB+Zmxhc2suRmxhc2suanNvbl9wcm92aWRlcl9jbGFzc2AgdG8gYSBwcm92aWRlciBjbGFzcywgb3Igc2V0CiAgICA6YXR0cjpgYXBwLmpzb24gPGZsYXNrLkZsYXNrLmpzb24+YCB0byBhbiBpbnN0YW5jZSBvZiB0aGUgY2xhc3MuCgogICAgOnBhcmFtIGFwcDogQW4gYXBwbGljYXRpb24gaW5zdGFuY2UuIFRoaXMgd2lsbCBiZSBzdG9yZWQgYXMgYQogICAgICAgIDpjbGFzczpgd2Vha3JlZi5wcm94eWAgb24gdGhlIDphdHRyOmBfYXBwYCBhdHRyaWJ1dGUuCgogICAgLi4gdmVyc2lvbmFkZGVkOjogMi4yCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgYXBwOiBBcHApIC0+IE5vbmU6CiAgICAgICAgc2VsZi5fYXBwOiBBcHAgPSB3ZWFrcmVmLnByb3h5KGFwcCkKCiAgICBkZWYgZHVtcHMoc2VsZiwgb2JqOiB0LkFueSwgKiprd2FyZ3M6IHQuQW55KSAtPiBzdHI6CiAgICAgICAgIiIiU2VyaWFsaXplIGRhdGEgYXMgSlNPTi4KCiAgICAgICAgOnBhcmFtIG9iajogVGhlIGRhdGEgdG8gc2VyaWFsaXplLgogICAgICAgIDpwYXJhbSBrd2FyZ3M6IE1heSBiZSBwYXNzZWQgdG8gdGhlIHVuZGVybHlpbmcgSlNPTiBsaWJyYXJ5LgogICAgICAgICIiIgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBkZWYgZHVtcChzZWxmLCBvYmo6IHQuQW55LCBmcDogdC5JT1tzdHJdLCAqKmt3YXJnczogdC5BbnkpIC0+IE5vbmU6CiAgICAgICAgIiIiU2VyaWFsaXplIGRhdGEgYXMgSlNPTiBhbmQgd3JpdGUgdG8gYSBmaWxlLgoKICAgICAgICA6cGFyYW0gb2JqOiBUaGUgZGF0YSB0byBzZXJpYWxpemUuCiAgICAgICAgOnBhcmFtIGZwOiBBIGZpbGUgb3BlbmVkIGZvciB3cml0aW5nIHRleHQuIFNob3VsZCB1c2UgdGhlIFVURi04CiAgICAgICAgICAgIGVuY29kaW5nIHRvIGJlIHZhbGlkIEpTT04uCiAgICAgICAgOnBhcmFtIGt3YXJnczogTWF5IGJlIHBhc3NlZCB0byB0aGUgdW5kZXJseWluZyBKU09OIGxpYnJhcnkuCiAgICAgICAgIiIiCiAgICAgICAgZnAud3JpdGUoc2VsZi5kdW1wcyhvYmosICoqa3dhcmdzKSkKCiAgICBkZWYgbG9hZHMoc2VsZiwgczogc3RyIHwgYnl0ZXMsICoqa3dhcmdzOiB0LkFueSkgLT4gdC5Bbnk6CiAgICAgICAgIiIiRGVzZXJpYWxpemUgZGF0YSBhcyBKU09OLgoKICAgICAgICA6cGFyYW0gczogVGV4dCBvciBVVEYtOCBieXRlcy4KICAgICAgICA6cGFyYW0ga3dhcmdzOiBNYXkgYmUgcGFzc2VkIHRvIHRoZSB1bmRlcmx5aW5nIEpTT04gbGlicmFyeS4KICAgICAgICAiIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgogICAgZGVmIGxvYWQoc2VsZiwgZnA6IHQuSU9bdC5BbnlTdHJdLCAqKmt3YXJnczogdC5BbnkpIC0+IHQuQW55OgogICAgICAgICIiIkRlc2VyaWFsaXplIGRhdGEgYXMgSlNPTiByZWFkIGZyb20gYSBmaWxlLgoKICAgICAgICA6cGFyYW0gZnA6IEEgZmlsZSBvcGVuZWQgZm9yIHJlYWRpbmcgdGV4dCBvciBVVEYtOCBieXRlcy4KICAgICAgICA6cGFyYW0ga3dhcmdzOiBNYXkgYmUgcGFzc2VkIHRvIHRoZSB1bmRlcmx5aW5nIEpTT04gbGlicmFyeS4KICAgICAgICAiIiIKICAgICAgICByZXR1cm4gc2VsZi5sb2FkcyhmcC5yZWFkKCksICoqa3dhcmdzKQoKICAgIGRlZiBfcHJlcGFyZV9yZXNwb25zZV9vYmooCiAgICAgICAgc2VsZiwgYXJnczogdHVwbGVbdC5BbnksIC4uLl0sIGt3YXJnczogZGljdFtzdHIsIHQuQW55XQogICAgKSAtPiB0LkFueToKICAgICAgICBpZiBhcmdzIGFuZCBrd2FyZ3M6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcigiYXBwLmpzb24ucmVzcG9uc2UoKSB0YWtlcyBlaXRoZXIgYXJncyBvciBrd2FyZ3MsIG5vdCBib3RoIikKCiAgICAgICAgaWYgbm90IGFyZ3MgYW5kIG5vdCBrd2FyZ3M6CiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgIGlmIGxlbihhcmdzKSA9PSAxOgogICAgICAgICAgICByZXR1cm4gYXJnc1swXQoKICAgICAgICByZXR1cm4gYXJncyBvciBrd2FyZ3MKCiAgICBkZWYgcmVzcG9uc2Uoc2VsZiwgKmFyZ3M6IHQuQW55LCAqKmt3YXJnczogdC5BbnkpIC0+IFJlc3BvbnNlOgogICAgICAgICIiIlNlcmlhbGl6ZSB0aGUgZ2l2ZW4gYXJndW1lbnRzIGFzIEpTT04sIGFuZCByZXR1cm4gYQogICAgICAgIDpjbGFzczpgfmZsYXNrLlJlc3BvbnNlYCBvYmplY3Qgd2l0aCB0aGUgYGBhcHBsaWNhdGlvbi9qc29uYGAKICAgICAgICBtaW1ldHlwZS4KCiAgICAgICAgVGhlIDpmdW5jOmB+Zmxhc2suanNvbi5qc29uaWZ5YCBmdW5jdGlvbiBjYWxscyB0aGlzIG1ldGhvZCBmb3IKICAgICAgICB0aGUgY3VycmVudCBhcHBsaWNhdGlvbi4KCiAgICAgICAgRWl0aGVyIHBvc2l0aW9uYWwgb3Iga2V5d29yZCBhcmd1bWVudHMgY2FuIGJlIGdpdmVuLCBub3QgYm90aC4KICAgICAgICBJZiBubyBhcmd1bWVudHMgYXJlIGdpdmVuLCBgYE5vbmVgYCBpcyBzZXJpYWxpemVkLgoKICAgICAgICA6cGFyYW0gYXJnczogQSBzaW5nbGUgdmFsdWUgdG8gc2VyaWFsaXplLCBvciBtdWx0aXBsZSB2YWx1ZXMgdG8KICAgICAgICAgICAgdHJlYXQgYXMgYSBsaXN0IHRvIHNlcmlhbGl6ZS4KICAgICAgICA6cGFyYW0ga3dhcmdzOiBUcmVhdCBhcyBhIGRpY3QgdG8gc2VyaWFsaXplLgogICAgICAgICIiIgogICAgICAgIG9iaiA9IHNlbGYuX3ByZXBhcmVfcmVzcG9uc2Vfb2JqKGFyZ3MsIGt3YXJncykKICAgICAgICByZXR1cm4gc2VsZi5fYXBwLnJlc3BvbnNlX2NsYXNzKHNlbGYuZHVtcHMob2JqKSwgbWltZXR5cGU9ImFwcGxpY2F0aW9uL2pzb24iKQoKCmRlZiBfZGVmYXVsdChvOiB0LkFueSkgLT4gdC5Bbnk6CiAgICBpZiBpc2luc3RhbmNlKG8sIGRhdGUpOgogICAgICAgIHJldHVybiBodHRwX2RhdGUobykKCiAgICBpZiBpc2luc3RhbmNlKG8sIChkZWNpbWFsLkRlY2ltYWwsIHV1aWQuVVVJRCkpOgogICAgICAgIHJldHVybiBzdHIobykKCiAgICBpZiBkYXRhY2xhc3NlcyBhbmQgZGF0YWNsYXNzZXMuaXNfZGF0YWNsYXNzKG8pOgogICAgICAgIHJldHVybiBkYXRhY2xhc3Nlcy5hc2RpY3QobykgICMgdHlwZTogaWdub3JlW2FyZy10eXBlXQoKICAgIGlmIGhhc2F0dHIobywgIl9faHRtbF9fIik6CiAgICAgICAgcmV0dXJuIHN0cihvLl9faHRtbF9fKCkpCgogICAgcmFpc2UgVHlwZUVycm9yKGYiT2JqZWN0IG9mIHR5cGUge3R5cGUobykuX19uYW1lX199IGlzIG5vdCBKU09OIHNlcmlhbGl6YWJsZSIpCgoKY2xhc3MgRGVmYXVsdEpTT05Qcm92aWRlcihKU09OUHJvdmlkZXIpOgogICAgIiIiUHJvdmlkZSBKU09OIG9wZXJhdGlvbnMgdXNpbmcgUHl0aG9uJ3MgYnVpbHQtaW4gOm1vZDpganNvbmAKICAgIGxpYnJhcnkuIFNlcmlhbGl6ZXMgdGhlIGZvbGxvd2luZyBhZGRpdGlvbmFsIGRhdGEgdHlwZXM6CgogICAgLSAgIDpjbGFzczpgZGF0ZXRpbWUuZGF0ZXRpbWVgIGFuZCA6Y2xhc3M6YGRhdGV0aW1lLmRhdGVgIGFyZQogICAgICAgIHNlcmlhbGl6ZWQgdG8gOnJmYzpgODIyYCBzdHJpbmdzLiBUaGlzIGlzIHRoZSBzYW1lIGFzIHRoZSBIVFRQCiAgICAgICAgZGF0ZSBmb3JtYXQuCiAgICAtICAgOmNsYXNzOmB1dWlkLlVVSURgIGlzIHNlcmlhbGl6ZWQgdG8gYSBzdHJpbmcuCiAgICAtICAgOmNsYXNzOmBkYXRhY2xhc3Nlcy5kYXRhY2xhc3NgIGlzIHBhc3NlZCB0bwogICAgICAgIDpmdW5jOmBkYXRhY2xhc3Nlcy5hc2RpY3RgLgogICAgLSAgIDpjbGFzczpgfm1hcmt1cHNhZmUuTWFya3VwYCAob3IgYW55IG9iamVjdCB3aXRoIGEgYGBfX2h0bWxfX2BgCiAgICAgICAgbWV0aG9kKSB3aWxsIGNhbGwgdGhlIGBgX19odG1sX19gYCBtZXRob2QgdG8gZ2V0IGEgc3RyaW5nLgogICAgIiIiCgogICAgZGVmYXVsdDogdC5DYWxsYWJsZVtbdC5BbnldLCB0LkFueV0gPSBzdGF0aWNtZXRob2QoX2RlZmF1bHQpCiAgICAiIiJBcHBseSB0aGlzIGZ1bmN0aW9uIHRvIGFueSBvYmplY3QgdGhhdCA6bWV0aDpganNvbi5kdW1wc2AgZG9lcwogICAgbm90IGtub3cgaG93IHRvIHNlcmlhbGl6ZS4gSXQgc2hvdWxkIHJldHVybiBhIHZhbGlkIEpTT04gdHlwZSBvcgogICAgcmFpc2UgYSBgYFR5cGVFcnJvcmBgLgogICAgIiIiCgogICAgZW5zdXJlX2FzY2lpID0gVHJ1ZQogICAgIiIiUmVwbGFjZSBub24tQVNDSUkgY2hhcmFjdGVycyB3aXRoIGVzY2FwZSBzZXF1ZW5jZXMuIFRoaXMgbWF5IGJlCiAgICBtb3JlIGNvbXBhdGlibGUgd2l0aCBzb21lIGNsaWVudHMsIGJ1dCBjYW4gYmUgZGlzYWJsZWQgZm9yIGJldHRlcgogICAgcGVyZm9ybWFuY2UgYW5kIHNpemUuCiAgICAiIiIKCiAgICBzb3J0X2tleXMgPSBUcnVlCiAgICAiIiJTb3J0IHRoZSBrZXlzIGluIGFueSBzZXJpYWxpemVkIGRpY3RzLiBUaGlzIG1heSBiZSB1c2VmdWwgZm9yCiAgICBzb21lIGNhY2hpbmcgc2l0dWF0aW9ucywgYnV0IGNhbiBiZSBkaXNhYmxlZCBmb3IgYmV0dGVyIHBlcmZvcm1hbmNlLgogICAgV2hlbiBlbmFibGVkLCBrZXlzIG11c3QgYWxsIGJlIHN0cmluZ3MsIHRoZXkgYXJlIG5vdCBjb252ZXJ0ZWQKICAgIGJlZm9yZSBzb3J0aW5nLgogICAgIiIiCgogICAgY29tcGFjdDogYm9vbCB8IE5vbmUgPSBOb25lCiAgICAiIiJJZiBgYFRydWVgYCwgb3IgYGBOb25lYGAgb3V0IG9mIGRlYnVnIG1vZGUsIHRoZSA6bWV0aDpgcmVzcG9uc2VgCiAgICBvdXRwdXQgd2lsbCBub3QgYWRkIGluZGVudGF0aW9uLCBuZXdsaW5lcywgb3Igc3BhY2VzLiBJZiBgYEZhbHNlYGAsCiAgICBvciBgYE5vbmVgYCBpbiBkZWJ1ZyBtb2RlLCBpdCB3aWxsIHVzZSBhIG5vbi1jb21wYWN0IHJlcHJlc2VudGF0aW9uLgogICAgIiIiCgogICAgbWltZXR5cGUgPSAiYXBwbGljYXRpb24vanNvbiIKICAgICIiIlRoZSBtaW1ldHlwZSBzZXQgaW4gOm1ldGg6YHJlc3BvbnNlYC4iIiIKCiAgICBkZWYgZHVtcHMoc2VsZiwgb2JqOiB0LkFueSwgKiprd2FyZ3M6IHQuQW55KSAtPiBzdHI6CiAgICAgICAgIiIiU2VyaWFsaXplIGRhdGEgYXMgSlNPTiB0byBhIHN0cmluZy4KCiAgICAgICAgS2V5d29yZCBhcmd1bWVudHMgYXJlIHBhc3NlZCB0byA6ZnVuYzpganNvbi5kdW1wc2AuIFNldHMgc29tZQogICAgICAgIHBhcmFtZXRlciBkZWZhdWx0cyBmcm9tIHRoZSA6YXR0cjpgZGVmYXVsdGAsCiAgICAgICAgOmF0dHI6YGVuc3VyZV9hc2NpaWAsIGFuZCA6YXR0cjpgc29ydF9rZXlzYCBhdHRyaWJ1dGVzLgoKICAgICAgICA6cGFyYW0gb2JqOiBUaGUgZGF0YSB0byBzZXJpYWxpemUuCiAgICAgICAgOnBhcmFtIGt3YXJnczogUGFzc2VkIHRvIDpmdW5jOmBqc29uLmR1bXBzYC4KICAgICAgICAiIiIKICAgICAgICBrd2FyZ3Muc2V0ZGVmYXVsdCgiZGVmYXVsdCIsIHNlbGYuZGVmYXVsdCkKICAgICAgICBrd2FyZ3Muc2V0ZGVmYXVsdCgiZW5zdXJlX2FzY2lpIiwgc2VsZi5lbnN1cmVfYXNjaWkpCiAgICAgICAga3dhcmdzLnNldGRlZmF1bHQoInNvcnRfa2V5cyIsIHNlbGYuc29ydF9rZXlzKQogICAgICAgIHJldHVybiBqc29uLmR1bXBzKG9iaiwgKiprd2FyZ3MpCgogICAgZGVmIGxvYWRzKHNlbGYsIHM6IHN0ciB8IGJ5dGVzLCAqKmt3YXJnczogdC5BbnkpIC0+IHQuQW55OgogICAgICAgICIiIkRlc2VyaWFsaXplIGRhdGEgYXMgSlNPTiBmcm9tIGEgc3RyaW5nIG9yIGJ5dGVzLgoKICAgICAgICA6cGFyYW0gczogVGV4dCBvciBVVEYtOCBieXRlcy4KICAgICAgICA6cGFyYW0ga3dhcmdzOiBQYXNzZWQgdG8gOmZ1bmM6YGpzb24ubG9hZHNgLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHMsICoqa3dhcmdzKQoKICAgIGRlZiByZXNwb25zZShzZWxmLCAqYXJnczogdC5BbnksICoqa3dhcmdzOiB0LkFueSkgLT4gUmVzcG9uc2U6CiAgICAgICAgIiIiU2VyaWFsaXplIHRoZSBnaXZlbiBhcmd1bWVudHMgYXMgSlNPTiwgYW5kIHJldHVybiBhCiAgICAgICAgOmNsYXNzOmB+Zmxhc2suUmVzcG9uc2VgIG9iamVjdCB3aXRoIGl0LiBUaGUgcmVzcG9uc2UgbWltZXR5cGUKICAgICAgICB3aWxsIGJlICJhcHBsaWNhdGlvbi9qc29uIiBhbmQgY2FuIGJlIGNoYW5nZWQgd2l0aAogICAgICAgIDphdHRyOmBtaW1ldHlwZWAuCgogICAgICAgIElmIDphdHRyOmBjb21wYWN0YCBpcyBgYEZhbHNlYGAgb3IgZGVidWcgbW9kZSBpcyBlbmFibGVkLCB0aGUKICAgICAgICBvdXRwdXQgd2lsbCBiZSBmb3JtYXR0ZWQgdG8gYmUgZWFzaWVyIHRvIHJlYWQuCgogICAgICAgIEVpdGhlciBwb3NpdGlvbmFsIG9yIGtleXdvcmQgYXJndW1lbnRzIGNhbiBiZSBnaXZlbiwgbm90IGJvdGguCiAgICAgICAgSWYgbm8gYXJndW1lbnRzIGFyZSBnaXZlbiwgYGBOb25lYGAgaXMgc2VyaWFsaXplZC4KCiAgICAgICAgOnBhcmFtIGFyZ3M6IEEgc2luZ2xlIHZhbHVlIHRvIHNlcmlhbGl6ZSwgb3IgbXVsdGlwbGUgdmFsdWVzIHRvCiAgICAgICAgICAgIHRyZWF0IGFzIGEgbGlzdCB0byBzZXJpYWxpemUuCiAgICAgICAgOnBhcmFtIGt3YXJnczogVHJlYXQgYXMgYSBkaWN0IHRvIHNlcmlhbGl6ZS4KICAgICAgICAiIiIKICAgICAgICBvYmogPSBzZWxmLl9wcmVwYXJlX3Jlc3BvbnNlX29iaihhcmdzLCBrd2FyZ3MpCiAgICAgICAgZHVtcF9hcmdzOiBkaWN0W3N0ciwgdC5BbnldID0ge30KCiAgICAgICAgaWYgKHNlbGYuY29tcGFjdCBpcyBOb25lIGFuZCBzZWxmLl9hcHAuZGVidWcpIG9yIHNlbGYuY29tcGFjdCBpcyBGYWxzZToKICAgICAgICAgICAgZHVtcF9hcmdzLnNldGRlZmF1bHQoImluZGVudCIsIDIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZHVtcF9hcmdzLnNldGRlZmF1bHQoInNlcGFyYXRvcnMiLCAoIiwiLCAiOiIpKQoKICAgICAgICByZXR1cm4gc2VsZi5fYXBwLnJlc3BvbnNlX2NsYXNzKAogICAgICAgICAgICBmIntzZWxmLmR1bXBzKG9iaiwgKipkdW1wX2FyZ3MpfVxuIiwgbWltZXR5cGU9c2VsZi5taW1ldHlwZQogICAgICAgICkK
+from __future__ import annotations
+
+import dataclasses
+import decimal
+import json
+import typing as t
+import uuid
+import weakref
+from datetime import date
+
+from werkzeug.http import http_date
+
+if t.TYPE_CHECKING:  # pragma: no cover
+    from werkzeug.sansio.response import Response
+
+    from ..sansio.app import App
+
+
+class JSONProvider:
+    """A standard set of JSON operations for an application. Subclasses
+    of this can be used to customize JSON behavior or use different
+    JSON libraries.
+
+    To implement a provider for a specific library, subclass this base
+    class and implement at least :meth:`dumps` and :meth:`loads`. All
+    other methods have default implementations.
+
+    To use a different provider, either subclass ``Flask`` and set
+    :attr:`~flask.Flask.json_provider_class` to a provider class, or set
+    :attr:`app.json <flask.Flask.json>` to an instance of the class.
+
+    :param app: An application instance. This will be stored as a
+        :class:`weakref.proxy` on the :attr:`_app` attribute.
+
+    .. versionadded:: 2.2
+    """
+
+    def __init__(self, app: App) -> None:
+        self._app: App = weakref.proxy(app)
+
+    def dumps(self, obj: t.Any, **kwargs: t.Any) -> str:
+        """Serialize data as JSON.
+
+        :param obj: The data to serialize.
+        :param kwargs: May be passed to the underlying JSON library.
+        """
+        raise NotImplementedError
+
+    def dump(self, obj: t.Any, fp: t.IO[str], **kwargs: t.Any) -> None:
+        """Serialize data as JSON and write to a file.
+
+        :param obj: The data to serialize.
+        :param fp: A file opened for writing text. Should use the UTF-8
+            encoding to be valid JSON.
+        :param kwargs: May be passed to the underlying JSON library.
+        """
+        fp.write(self.dumps(obj, **kwargs))
+
+    def loads(self, s: str | bytes, **kwargs: t.Any) -> t.Any:
+        """Deserialize data as JSON.
+
+        :param s: Text or UTF-8 bytes.
+        :param kwargs: May be passed to the underlying JSON library.
+        """
+        raise NotImplementedError
+
+    def load(self, fp: t.IO[t.AnyStr], **kwargs: t.Any) -> t.Any:
+        """Deserialize data as JSON read from a file.
+
+        :param fp: A file opened for reading text or UTF-8 bytes.
+        :param kwargs: May be passed to the underlying JSON library.
+        """
+        return self.loads(fp.read(), **kwargs)
+
+    def _prepare_response_obj(
+        self, args: tuple[t.Any, ...], kwargs: dict[str, t.Any]
+    ) -> t.Any:
+        if args and kwargs:
+            raise TypeError("app.json.response() takes either args or kwargs, not both")
+
+        if not args and not kwargs:
+            return None
+
+        if len(args) == 1:
+            return args[0]
+
+        return args or kwargs
+
+    def response(self, *args: t.Any, **kwargs: t.Any) -> Response:
+        """Serialize the given arguments as JSON, and return a
+        :class:`~flask.Response` object with the ``application/json``
+        mimetype.
+
+        The :func:`~flask.json.jsonify` function calls this method for
+        the current application.
+
+        Either positional or keyword arguments can be given, not both.
+        If no arguments are given, ``None`` is serialized.
+
+        :param args: A single value to serialize, or multiple values to
+            treat as a list to serialize.
+        :param kwargs: Treat as a dict to serialize.
+        """
+        obj = self._prepare_response_obj(args, kwargs)
+        return self._app.response_class(self.dumps(obj), mimetype="application/json")
+
+
+def _default(o: t.Any) -> t.Any:
+    if isinstance(o, date):
+        return http_date(o)
+
+    if isinstance(o, (decimal.Decimal, uuid.UUID)):
+        return str(o)
+
+    if dataclasses and dataclasses.is_dataclass(o):
+        return dataclasses.asdict(o)  # type: ignore[arg-type]
+
+    if hasattr(o, "__html__"):
+        return str(o.__html__())
+
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+
+
+class DefaultJSONProvider(JSONProvider):
+    """Provide JSON operations using Python's built-in :mod:`json`
+    library. Serializes the following additional data types:
+
+    -   :class:`datetime.datetime` and :class:`datetime.date` are
+        serialized to :rfc:`822` strings. This is the same as the HTTP
+        date format.
+    -   :class:`uuid.UUID` is serialized to a string.
+    -   :class:`dataclasses.dataclass` is passed to
+        :func:`dataclasses.asdict`.
+    -   :class:`~markupsafe.Markup` (or any object with a ``__html__``
+        method) will call the ``__html__`` method to get a string.
+    """
+
+    default: t.Callable[[t.Any], t.Any] = staticmethod(_default)
+    """Apply this function to any object that :meth:`json.dumps` does
+    not know how to serialize. It should return a valid JSON type or
+    raise a ``TypeError``.
+    """
+
+    ensure_ascii = True
+    """Replace non-ASCII characters with escape sequences. This may be
+    more compatible with some clients, but can be disabled for better
+    performance and size.
+    """
+
+    sort_keys = True
+    """Sort the keys in any serialized dicts. This may be useful for
+    some caching situations, but can be disabled for better performance.
+    When enabled, keys must all be strings, they are not converted
+    before sorting.
+    """
+
+    compact: bool | None = None
+    """If ``True``, or ``None`` out of debug mode, the :meth:`response`
+    output will not add indentation, newlines, or spaces. If ``False``,
+    or ``None`` in debug mode, it will use a non-compact representation.
+    """
+
+    mimetype = "application/json"
+    """The mimetype set in :meth:`response`."""
+
+    def dumps(self, obj: t.Any, **kwargs: t.Any) -> str:
+        """Serialize data as JSON to a string.
+
+        Keyword arguments are passed to :func:`json.dumps`. Sets some
+        parameter defaults from the :attr:`default`,
+        :attr:`ensure_ascii`, and :attr:`sort_keys` attributes.
+
+        :param obj: The data to serialize.
+        :param kwargs: Passed to :func:`json.dumps`.
+        """
+        kwargs.setdefault("default", self.default)
+        kwargs.setdefault("ensure_ascii", self.ensure_ascii)
+        kwargs.setdefault("sort_keys", self.sort_keys)
+        return json.dumps(obj, **kwargs)
+
+    def loads(self, s: str | bytes, **kwargs: t.Any) -> t.Any:
+        """Deserialize data as JSON from a string or bytes.
+
+        :param s: Text or UTF-8 bytes.
+        :param kwargs: Passed to :func:`json.loads`.
+        """
+        return json.loads(s, **kwargs)
+
+    def response(self, *args: t.Any, **kwargs: t.Any) -> Response:
+        """Serialize the given arguments as JSON, and return a
+        :class:`~flask.Response` object with it. The response mimetype
+        will be "application/json" and can be changed with
+        :attr:`mimetype`.
+
+        If :attr:`compact` is ``False`` or debug mode is enabled, the
+        output will be formatted to be easier to read.
+
+        Either positional or keyword arguments can be given, not both.
+        If no arguments are given, ``None`` is serialized.
+
+        :param args: A single value to serialize, or multiple values to
+            treat as a list to serialize.
+        :param kwargs: Treat as a dict to serialize.
+        """
+        obj = self._prepare_response_obj(args, kwargs)
+        dump_args: dict[str, t.Any] = {}
+
+        if (self.compact is None and self._app.debug) or self.compact is False:
+            dump_args.setdefault("indent", 2)
+        else:
+            dump_args.setdefault("separators", (",", ":"))
+
+        return self._app.response_class(
+            f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+        )

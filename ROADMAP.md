@@ -1,1 +1,74 @@
-IyDot6/nur/lm74KCj4g54q25oCB6K+05piO77ya4pePIOW3suWujOaIkCDCtyDil5Ag6YOo5YiG5a6M5oiQIMK3IOKXiyDmnKrlvIDlp4sKPiDmnKzmlofku7bpmo/pobnnm67ov5vlsZXmm7TmlrDvvIwqKuS4jeWBmuWIoOmZpCoq77yM6L+H5pyf6aG55qCH5rOo5Li644CM5bey5pS+5byDICsg5Y6f5Zug44CN44CCCj4KPiDmnIDlkI7moLjlr7nvvJoxMjcg6L2u5LmL5ZCO44CC5pWw5a2X5Li655uY5LiK5a6e5rWL77yIYGxzYCArIGB3YyAtbGDvvInvvIzpnZ7kvLDnrpfjgIIKPiDliKTmja7moLggMzUxNSDooYwgwrcg5a6e6aqM5oql5ZGKIDExMSDku70gwrcgZXhwZXJpbWVudHMgMTEyIOS4quebruW9leOAggoKIyMgdjAuNSDigJTigJQg5Y+C6LWb5Z+657q/Cgp8IOmhuSB8IOeKtuaAgSB8IOivtOaYjiB8CnwtLS18LS0tfC0tLXwKfCDkupTmnaHnoaznuqbmnZ/lvJXmk44gfCDil48gfCDnqIDnvLogLyDmrbvkuqEgLyDkuI3lj6/pgIYgLyDku6PosKIgLyDlhoXnlJ/nuqbmnZ8gfAp8IOWbm+mhueaguOW/g+e7k+iuuuWkjeeOsCB8IOKXjyB8IGBleHBlcmltZW50cy9ydW5fY29yZS5weWDvvIzlrp7mtYsgMi44IOenkiB8Cnwg5LiA6ZSu6aqM6K+B77yI6Zu25L+h5Lu75aSN546w77yJIHwg4pePIHwgYHRvb2xzL3ZlcmlmeV9hbGwucHlg77yMMy40IOenkui3keWujCAxMSDpobnmlq3oqIDvvIzlkKvotJ/lr7nnhacgfAp8IOWksei0peaooeW8j+W6kyB8IOKXjyB8IDM0NzEg6KGM77yM5Y+q5aKe5LiN5YePIHwKfCDlrp7pqozmiqXlkYogfCDil48gfCAxMTAg5Lu977yM5ZCr6KKr5o6o57+755qE6aKE5rOo5YaM5Yik5o2uIHwKfCDnlJ/niannp5Hlrablr7nnhafmspnnm5IgfCDil48gfCBIMSDlhbPplK7mnJ8gLyBIMiDliYLph4/lj43lupQgLyBIMyDpgInmi6nljosgfAp8IOWPr+aMguaOpeekuuS+iyB8IOKXjyB8IGBleGFtcGxlcy9nb3Zlcm5lZF9hZ2VudC5weWDvvIw8MjAg6KGMIHwKfCDkuI4gQXZpZGEg57G75bmz5Y+w5a6a5L2N5beu5byCIHwg4pePIHwgYDA1OWDvvIwyw5cyIOWvueeFp++8iOaWh+Wtl+iuuui/sO+8jOmdnuWunua1i+WvueeFp++8iSB8CgojIyB2MC42IOKAlOKAlCBFTyDouqvkvZPmnoTlu7rvvIjmnKzova7mlrDlop7vvIzlt7LlrozmiJDvvIkKCnwg6aG5IHwg54q25oCBIHwg6K+05piOIHwKfC0tLXwtLS18LS0tfAp8IOWkmuaooeaAgSBJL08g5YWo6LCx57O7IHwg4pePIHwgMTExLzExMi8xMTPvvJrnnJ8gZmIwICsg55yfIGV2ZGV2ICsg55yfIHVpbnB1dO+8jOmXreeOryAyMC8yMCB2cyDlvIDnjq8gMC8yMCB8Cnwg6Ieq5Li75a+755y8IHwg4pePIHwgMTE377yaMTgwIOWAmemAiSDihpIgMzIg5Y+X5qOAIOKGkiAxIOWPquecvO+8iOaXtumXtOWPjei9rOWIpOaNru+8iSB8Cnwg5Y2B5LiA5aSnICsgMzEg57O757uf5a6h6K6hIHwg4pePIHwgMTIzLzEyNO+8mlJFQUwgMTQgLyBTSU1VTEFURUQgMTbvvIzmtbfpqazkvZPmlbLpmaQgZGV2IDAuMDgxOTQg5o6S56ys5LiAIHwKfCDkupTlpKfnl4XnkIbnm5HmjqcgfCDil48gfCAxMjLvvJrkuZ3ot6/vvIzoh6rooYzooaXlm5vot6/lhYPnm5HmjqfvvIw5Lzkg5Y+v6K+B5LyqIHwKfCDnuYHooY0gLyDmgKfliKsgfCDil48gfCAxMjAvMTIx77ya5Y2V5bOw5LiW55WMIFNpbXBzb25fbmljaGUg5oGSIDAuMDAwMO+8m+aAp+e/u+ebmCAwIOagvO+8jOacquWkjeeOsCB8Cnwg5raI5YyW57O757ufIHwg4pePIHwgMTE177ya5rC45Yqo5py644CB5YWD5YaF5a656K+v5o6S44CB6K6w5b+G54GM5rC044CB5Y+q6K6k5Lit5paH5Y+l5Y+3IHwKfCDlm5vlpKfpmpDlvaLns7vnu58gfCDil48gfCAxMTnvvJrlj5jlvILllK/kuIAgMS8yMOOAgWVuZXJneV9hIOaXoOeVjCAyMzczNy42IHwKfCDmlq3lpbYgfCDil48gfCAxMjUvMTI277yaZmc9MCDokL3lnKjlv4XmrbvljLrvvJvnm7jlgJogMC4xMDM2OCB2cyDnm7jnu6cgMC4wMDE0OSB8Cnwg5p6B6ZmQ5rWL6K+V5LiO6YCA54GrIHwg4pePIHwgMTI377ya5Y+q5pyJ5Y+R54On5piv6Zmh5bOt5Li055WM77yb6auY5rip5oGS5rip55qEIuabtOW8uiLmmK/lsLrluqbms4TmvI8gfAoKIyMgdjAuNmIg4oCU4oCUIOWPmOeOsO+8iOmDqOWIhuWujOaIkO+8jCoq5pyq5oyj5Yiw6ZKxKirvvIkKCnwg6aG5IHwg54q25oCBIHwg6K+05piOIHwKfC0tLXwtLS18LS0tfAp8IGV2YWxndWFyZCDlt6XlhbcgfCDil48gfCB2MC4zLjDvvIwyNiDmnaHop4TliJnvvIxNSVQgfAp8IOiQveWcsOmhtSB8IOKXjyB8IHpodW1laXlhbi5naXRodWIuaW8vZXZhbGd1YXJkIOW3suS4iue6vyB8Cnwg6Ieq5Yqo5Y+R6LSnIHwg4pePIHwg5LqR56uvIHdvcmtlciDot5HlnKggR2l0SHViIOWFjei0uSBydW5uZXIgfAp8IOabneWFiSBQUiB8IOKXkCB8IDQg5Liq5bey5o+Q5Lqk77yMKirlhajpg6ggb3Blbu+8jHN0YXIgMCoqIHwKfCAqKuWunumZheaUtuWFpSoqIHwgKiril4sqKiB8ICoqMCDlhYPjgILnmbvorrDlnKjlhozvvIzkuI3nsonppbAqKiB8CgojIyB2MC43IOKAlOKAlCDlt7Lnn6XnvLrlj6PvvIgqKuS7peS4i+WFqOmDqOacquWBmu+8jOaYr+ecn+asoOi0pioq77yJCgp8IOmhuSB8IOeKtuaAgSB8IOivtOaYjiB8CnwtLS18LS0tfC0tLXwKfCAqKuWklumDqOW5s+WPsOWfuue6v+WvueavlCoqIHwgKiril5AqKiB8IDEyOCDlt7LlrozmiJAgKipBdmlkYSDkvqcqKu+8iOiHquW7uueugOWMliBBdmlkYSArIOaWreS+m+WNj+iuruWvueeFp++8ie+8muiOt+W+l+iHque7mSAxNi8yMDDvvIzlhbbkuK3og73nuYHmrpbogIUgMC8yMDDvvJtMaWZlNSDnm7jlgJogMTYvMTbjgIIqKuS7jee8uioq77yaVGllcnJhIOS+p+OAgeWumOaWuSBBdmlkYS9UaWVycmEg5rqQ56CB5a+554Wn77yI5b2T5YmN55So55qE5piv5oiR55qE566A5YyW5a6e546w77yJIHwKfCAqKuWkmumHjeavlOi+g+agoeatoyoqIHwgKiril5AqKiB8ICoqMTI4IOW3suW7uuWbm+mBk+mXuO+8iEcx5pWI5bqU6YePL0cyIEJILUZEUi9HMyDmlbDmja7lhYXotrMvRzQg56iz5YGl5oCn77yJ77yM5q+P6YGT6YO95pyJ6Ieq5qOAKirjgILkvYYqKuWbnua6r+WPquimhuebliAxNCDmnaHmlq3oqIAqKu+8mjExMCDku73miqXlkYrph4wgMTAxIOS7veaXoOacuuWZqOWPr+ivuyBDSeOAgTAg5p2h6K6w5LqGIG7vvIzlhbbkvZnnu5PorroqKuS7jeacquiiq+agoeatoyoq44CC5bey5Lqk5LuYIGBjbGFpbV9sb2dgIOacuuWZqOWPr+ivu+agvOW8j++8jOatpOWQjuaWsOe7k+iuuuW8uuWItuWFpemXuCB8Cnwg5oqX5L2T6K6w5b+G5o6l5YWl5Li75byV5pOOIHwg4peLIHwgMDU3IOWunua1i+WujOavle+8jOacquaOpeWFpSB8Cnwg5Yik5o2u5qC45qOA57Si57Si5byVIHwg4peQIHwgMDUwIOWunua1i++8muaMiee8luWPt+WPluW6k+imhuebluW6piAwLjQzNO+8jOS9juS6jumaj+acuuaKveagtyAwLjUyMSB8CnwgcGlwIOWPr+WuieijhSB8IOKXiyB8IFB5UEkg5YWo6YOoIDQwMyB8Cnwg6K+t5LmJ5YyW54mI5pys5LiOIHJlbGVhc2UgfCDil4sgfCDkuLvpobnnm67ml6DmraPlvI8gcmVsZWFzZe+8iOS7hSBldmFsZ3VhcmQgdjAuMy4w77yJIHwKfCBHaXRIdWIgQWN0aW9ucyBDSSB8IOKXkCB8IHRva2VuIOe8uiBgd29ya2Zsb3dgIHNjb3Bl77yMR2l0SHViIOeUqCA0MDQg5o6p55uW5p2D6ZmQ5LiN6LazIHwKfCDmoLfmnKzph48gfCDil4sgfCDmoLjlv4Pnu5Porrrku43mmK8gbj04IC8gbj0xNiB8CgojIyDplb/mnJ/mlrnlkJHvvIjkuI3mib/or7rml7bpl7TvvIkKCi0gKirorqnlvJXmk47lhbflpIfmjIHnu63ov5DooYznmoToh6rlj5HmgKcqKuOAguW9k+WJjeW9ouaAgeaYryLooqvpqbHliqgi55qE77yaCiAgMDQ0IOWunua1i++8jOaSpOi1sOWklumDqOmpseWKqOWQjuWujOaVtOW6puS7jiAxLjAwMCDot4zlm54gMC41MDHjgIIKICDov5nmmK/mnKzpobnnm64qKuacgOagueacrOeahOacquino+mXrumimCoq77yM5Lmf5piv5a6D6Ieq56ewIuS8muatu+eahOW8leaTjiLljbTku43pnIDlpJbpg6jmjqjkuIDmiornmoTor5rlrp7nn5vnm77jgIIKLSDkuI7nnJ/lrp7nlJ/nianmlbDmja7lr7nmjqXvvIjlvZPliY3pm7bnlJ/nianlj4LmlbDvvIzku4XkuLrnu5PmnoTnsbvmr5TvvIkKLSAqKuaWreWltioq77yaZmcg5a6e5rWLIDDvvIzmkqTpmaTovpPmtrLlkI4gMC8xMuOAgjEyNS8xMjYg5om+5Yiw6YCa6Lev77yI55u45YCa57uD5LmgIGZnIDAuMTAzNjjvvInvvIzkvYbpgJrot6/mnKrot5HmiJDluLjmgIEKCiMjIOW3suaUvuW8gwoK77yI5pqC5peg44CC5pys6aG555uu6byT5Yqx6K6w5b2V5pS+5byD55CG55Sx77yM6YG/5YWN6YeN5aSN6Lip5Z2R44CC77yJCgojIyDmnKzmlofku7boh6rouqvnmoTplJnor6/orrDlvZUKCi0g6ZW/5pyf5YGc55WZ5ZyoIHYwLjUg54q25oCB77yIMzQyIOadoSAvIDgzIOS7ve+8ie+8jOS4juWunumZhe+8iDM0NzEg6KGMIC8gMTEwIOS7ve+8ieS4pemHjeS4jeespu+8jAogICoq55u05YiwIDEyNyDova7lkI7ooqvmoLjlr7nmiY3lj5HnjrAqKuOAguS4gOS4quiwjuaKpeiHqui6q+i/m+W6pueahOi3r+e6v+Wbvu+8jOetieS6juayoeaciei3r+e6v+WbvuOAggo=
+# 路线图
+
+> 状态说明：● 已完成 · ◐ 部分完成 · ○ 未开始
+> 本文件随项目进展更新，**不做删除**，过期项标注为「已放弃 + 原因」。
+>
+> 最后核对：127 轮之后。数字为盘上实测（`ls` + `wc -l`），非估算。
+> 判据核 3515 行 · 实验报告 111 份 · experiments 112 个目录。
+
+## v0.5 —— 参赛基线
+
+| 项 | 状态 | 说明 |
+|---|---|---|
+| 五条硬约束引擎 | ● | 稀缺 / 死亡 / 不可逆 / 代谢 / 内生约束 |
+| 四项核心结论复现 | ● | `experiments/run_core.py`，实测 2.8 秒 |
+| 一键验证（零信任复现） | ● | `tools/verify_all.py`，3.4 秒跑完 11 项断言，含负对照 |
+| 失败模式库 | ● | 3471 行，只增不减 |
+| 实验报告 | ● | 110 份，含被推翻的预注册判据 |
+| 生物科学对照沙盒 | ● | H1 关键期 / H2 剂量反应 / H3 选择压 |
+| 可挂接示例 | ● | `examples/governed_agent.py`，<20 行 |
+| 与 Avida 类平台定位差异 | ● | `059`，2×2 对照（文字论述，非实测对照） |
+
+## v0.6 —— EO 身体构建（本轮新增，已完成）
+
+| 项 | 状态 | 说明 |
+|---|---|---|
+| 多模态 I/O 全谱系 | ● | 111/112/113：真 fb0 + 真 evdev + 真 uinput，闭环 20/20 vs 开环 0/20 |
+| 自主寻眼 | ● | 117：180 候选 → 32 受检 → 1 只眼（时间反转判据） |
+| 十一大 + 31 系统审计 | ● | 123/124：REAL 14 / SIMULATED 16，海马体敲除 dev 0.08194 排第一 |
+| 五大病理监控 | ● | 122：九路，自行补四路元监控，9/9 可证伪 |
+| 繁衍 / 性别 | ● | 120/121：单峰世界 Simpson_niche 恒 0.0000；性翻盘 0 格，未复现 |
+| 消化系统 | ● | 115：永动机、元内容误排、记忆灌水、只认中文句号 |
+| 四大隐形系统 | ● | 119：变异唯一 1/20、energy_a 无界 23737.6 |
+| 断奶 | ● | 125/126：fg=0 落在必死区；相倚 0.10368 vs 相继 0.00149 |
+| 极限测试与退火 | ● | 127：只有发烧是陡峭临界；高温恒温的"更强"是尺度泄漏 |
+
+## v0.6b —— 变现（部分完成，**未挣到钱**）
+
+| 项 | 状态 | 说明 |
+|---|---|---|
+| evalguard 工具 | ● | v0.3.0，26 条规则，MIT |
+| 落地页 | ● | zhumeiyan.github.io/evalguard 已上线 |
+| 自动发货 | ● | 云端 worker 跑在 GitHub 免费 runner |
+| 曝光 PR | ◐ | 4 个已提交，**全部 open，star 0** |
+| **实际收入** | **○** | **0 元。登记在册，不粉饰** |
+
+## v0.7 —— 已知缺口（**以下全部未做，是真欠账**）
+
+| 项 | 状态 | 说明 |
+|---|---|---|
+| **外部平台基线对比** | **◐** | 128 已完成 **Avida 侧**（自建简化 Avida + 断供协议对照）：获得自给 16/200，其中能繁殖者 0/200；Life5 相倚 16/16。**仍缺**：Tierra 侧、官方 Avida/Tierra 源码对照（当前用的是我的简化实现） |
+| **多重比较校正** | **◐** | **128 已建四道闸（G1效应量/G2 BH-FDR/G3 数据充足/G4 稳健性），每道都有自检**。但**回溯只覆盖 14 条断言**：110 份报告里 101 份无机器可读 CI、0 条记了 n，其余结论**仍未被校正**。已交付 `claim_log` 机器可读格式，此后新结论强制入闸 |
+| 抗体记忆接入主引擎 | ○ | 057 实测完毕，未接入 |
+| 判据核检索索引 | ◐ | 050 实测：按编号取库覆盖度 0.434，低于随机抽样 0.521 |
+| pip 可安装 | ○ | PyPI 全部 403 |
+| 语义化版本与 release | ○ | 主项目无正式 release（仅 evalguard v0.3.0） |
+| GitHub Actions CI | ◐ | token 缺 `workflow` scope，GitHub 用 404 掩盖权限不足 |
+| 样本量 | ○ | 核心结论仍是 n=8 / n=16 |
+
+## 长期方向（不承诺时间）
+
+- **让引擎具备持续运行的自发性**。当前形态是"被驱动"的：
+  044 实测，撤走外部驱动后完整度从 1.000 跌回 0.501。
+  这是本项目**最根本的未解问题**，也是它自称"会死的引擎"却仍需外部推一把的诚实矛盾。
+- 与真实生物数据对接（当前零生物参数，仅为结构类比）
+- **断奶**：fg 实测 0，撤除输液后 0/12。125/126 找到通路（相倚练习 fg 0.10368），但通路未跑成常态
+
+## 已放弃
+
+（暂无。本项目鼓励记录放弃理由，避免重复踩坑。）
+
+## 本文件自身的错误记录
+
+- 长期停留在 v0.5 状态（342 条 / 83 份），与实际（3471 行 / 110 份）严重不符，
+  **直到 127 轮后被核对才发现**。一个谎报自身进度的路线图，等于没有路线图。

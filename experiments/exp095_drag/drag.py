@@ -1,1 +1,68 @@
-IiIiMDk177ya5YOP5Lq65LiA5qC35ouW4oCU4oCU5LiN566X77yM5Y+q6L6555yL6L655Yqo44CCCumXreeOr+etlueVpeWPquacieS4gOadoSBpZu+8muWcqOebruagh+W3pui+ueWwseW+gOWPs+aMquS4gOeCue+8jOWPjeS5i+W+gOW3pu+8jOeEtuWQjumHjeaWsOeci+OAggrlvIDnjq/nrZbnlaXvvJrnnIvkuIDmrKHvvIznrpflpb3mgLvkvY3np7vvvIzpl63nnLzkuIDmrKHotbDlrozjgIIKIiIiCmltcG9ydCBvcywgdGltZSwganNvbiwgc3lzLCBzdHJ1Y3QsIGZjbnRsCmZyb20gUElMIGltcG9ydCBJbWFnZQpmcm9tIHBsYXl3cmlnaHQuc3luY19hcGkgaW1wb3J0IHN5bmNfcGxheXdyaWdodAoKIyAtLS0tIOecvO+8muWPquS7juaIquWbvuWDj+e0oOmHjOaJvue6oihoYW5kbGUp5ZKM57u/KHRhcmdldCnvvIzkuI3or7vpobXpnaLku7vkvZXlj5jph48gLS0tLQpkZWYgc2VlKHBhdGgpOgogICAgaW0gPSBJbWFnZS5vcGVuKHBhdGgpLmNvbnZlcnQoIlJHQiIpOyBXLEggPSBpbS5zaXplOyBweCA9IGltLmxvYWQoKQogICAgcmgsIHJ0ID0gaW50KEgqMC4yNCksIGludChIKjAuNzYpOyByZWRzPVtdOyBncmVlbnM9W10KICAgIGZvciB4IGluIHJhbmdlKFcpOgogICAgICAgIHIxLGcxLGIxID0gcHhbeCxyaF0KICAgICAgICByMixnMixiMiA9IHB4W3gscnRdCiAgICAgICAgaWYgcjE+MTUwIGFuZCBnMTw5MCBhbmQgYjE8OTA6IHJlZHMuYXBwZW5kKHgpCiAgICAgICAgaWYgZzI+MTUwIGFuZCByMjw5MCBhbmQgYjI8OTA6IGdyZWVucy5hcHBlbmQoeCkKICAgIHJldHVybiAoc3VtKHJlZHMpL2xlbihyZWRzKSBpZiByZWRzIGVsc2UgTm9uZSwgc3VtKGdyZWVucykvbGVuKGdyZWVucykgaWYgZ3JlZW5zIGVsc2UgTm9uZSkKClRPTCwgU1RFUCwgTUFYU1RFUCA9IDEyLCAxNCwgODAKQ0xJUCA9IHsieCI6MCwieSI6MTUwLCJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDV9ClkgPSAxNzUKCmRlZiB0cmlhbChwdywgdXJsLCBzdCwgdGFnKToKICAgIGIgPSBwdy5jaHJvbWl1bS5sYXVuY2goZXhlY3V0YWJsZV9wYXRoPSIvdXNyL2Jpbi9nb29nbGUtY2hyb21lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJncz1bIi0tbm8tc2FuZGJveCIsIi0tZGlzYWJsZS1kZXYtc2htLXVzYWdlIl0pCiAgICBwZyA9IGIubmV3X3BhZ2Uodmlld3BvcnQ9eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjozMDB9KQogICAgcGcuZ290byh1cmwpOyBwZy53YWl0X2Zvcl90aW1lb3V0KDMwMCkKICAgIHNob3QgPSBmInt0YWd9LnBuZyIKICAgIHBnLnNjcmVlbnNob3QocGF0aD1zaG90LCBjbGlwPUNMSVApOyBoeCx0eCA9IHNlZShzaG90KQogICAgaWYgaHggaXMgTm9uZSBvciB0eCBpcyBOb25lOgogICAgICAgIGIuY2xvc2UoKTsgcmV0dXJuIHsic3RlcHMiOjAsImZpcnN0X2VyciI6Tm9uZSwiZmluYWxfZXJyIjpOb25lLCJoaXQiOkZhbHNlLCJ0cmFqIjpbXX0KICAgIGZpcnN0ID0gYWJzKHR4LWh4KTsgdHJhaj1bXQogICAgbXggPSBoeCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOaJi+W9k+WJjeWcqOWTqu+8iOecn+WunuWdkOagh++8iQogICAgcGcubW91c2UubW92ZShteCwgWSk7IHBnLm1vdXNlLmRvd24oKSAgICAgICAgICAjIOaJi+aMieS4iwogICAgcGcud2FpdF9mb3JfdGltZW91dCg2MCkKICAgIGlmIHN0ID09ICJvcGVuIjoKICAgICAgICAjIOiuoeeul+a0vu+8mueci+S4gOecvO+8jOeul+aAu+S9jeenu++8jOmXreecvOS4gOasoei1sOWujO+8iOWBh+iuvuS4gOatpT3kuIDmraXkvY3np7vvvIkKICAgICAgICBuID0gaW50KHJvdW5kKGFicyh0eC1oeCkvU1RFUCkpOyBkID0gU1RFUCBpZiB0eD5oeCBlbHNlIC1TVEVQCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobWluKG4sTUFYU1RFUCkpOgogICAgICAgICAgICBteCArPSBkOyBwZy5tb3VzZS5tb3ZlKG14LCBZKQogICAgICAgIHBnLndhaXRfZm9yX3RpbWVvdXQoMTUwKQogICAgZWxzZToKICAgICAgICAjIOS6uuexu+a0vu+8muS4jeeul+i3neemu+OAgeS4jeeul+WHveaVsOKAlOKAlOWPqumXriLlroPlnKjlk6rovrki77yM5Yqo5LiA54K577yM5YaN55yLCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoTUFYU1RFUCk6CiAgICAgICAgICAgIGlmIHR4IGlzIE5vbmUgb3IgaHggaXMgTm9uZTogYnJlYWsKICAgICAgICAgICAgZXJyID0gdHggLSBoeAogICAgICAgICAgICBpZiBhYnMoZXJyKSA8PSBUT0w6IGJyZWFrCiAgICAgICAgICAgIG14ICs9IChTVEVQIGlmIGVycj4wIGVsc2UgLVNURVApCiAgICAgICAgICAgIHBnLm1vdXNlLm1vdmUobXgsIFkpCiAgICAgICAgICAgIHBnLnNjcmVlbnNob3QocGF0aD1zaG90LCBjbGlwPUNMSVApOyBoeCx0eCA9IHNlZShzaG90KTsgdHJhai5hcHBlbmQocm91bmQoZXJyLDEpKQogICAgcGcubW91c2UudXAoKTsgcGcud2FpdF9mb3JfdGltZW91dCgxMjApCiAgICBwZy5zY3JlZW5zaG90KHBhdGg9c2hvdCwgY2xpcD1DTElQKTsgZngsZnR4ID0gc2VlKHNob3QpCiAgICBmaW4gPSBOb25lIGlmIChmeCBpcyBOb25lIG9yIGZ0eCBpcyBOb25lKSBlbHNlIGFicyhmeC1mdHgpCiAgICBiLmNsb3NlKCkKICAgIHJldHVybiB7InN0ZXBzIjpsZW4odHJhaikgaWYgc3Q9PSJjbG9zZWQiIGVsc2UgbWluKGludChyb3VuZChmaXJzdC9TVEVQKSksTUFYU1RFUCksCiAgICAgICAgICAgICJmaXJzdF9lcnIiOnJvdW5kKGZpcnN0LDEpLCAiZmluYWxfZXJyIjpyb3VuZChmaW4sMSkgaWYgZmluIGlzIG5vdCBOb25lIGVsc2UgTm9uZSwKICAgICAgICAgICAgImhpdCI6Ym9vbChmaW4gaXMgbm90IE5vbmUgYW5kIGZpbjw9VE9MKSwgInRyYWoiOnRyYWpbOjhdfQoKc2NlbmUsIHN0ID0gc3lzLmFyZ3ZbMV0sIHN5cy5hcmd2WzJdCmdhaW4gPSAxLjcgaWYgc2NlbmU9PSLlpLHphY0iIGVsc2UgMS4wCm1wICAgPSAiZHJpZnQiIGlmIHNjZW5lPT0i5Lya5YqoIiBlbHNlICJob25lc3QiCnVybCAgPSBmImh0dHA6Ly8xMjcuMC4wLjE6ODg5OS9wYWdlLmh0bWw/bW9kZT17bXB9JmdhaW49e2dhaW59Igp3aXRoIHN5bmNfcGxheXdyaWdodCgpIGFzIHB3OgogICAgciA9IHRyaWFsKHB3LCB1cmwsIHN0LCBmInNfe3NjZW5lfV97c3R9IikKclsic2NlbmUiXT1zY2VuZTsgclsi562W55WlIl09IuS6uuexu+a0vijovrnnnIvovrnliqgpIiBpZiBzdD09ImNsb3NlZCIgZWxzZSAi6K6h566X5rS+KOS4gOasoeeul+WujCkiCnByaW50KGpzb24uZHVtcHMoe2s6diBmb3Igayx2IGluIHIuaXRlbXMoKSBpZiBrIT0idHJhaiJ9LCBlbnN1cmVfYXNjaWk9RmFsc2UpLCAidHJhauWJjTg6IiwgclsidHJhaiJdKQpqc29uLmR1bXAociwgb3BlbihmInJfe3NjZW5lfV97c3R9Lmpzb24iLCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSkK
+"""095：像人一样拖——不算，只边看边动。
+闭环策略只有一条 if：在目标左边就往右挪一点，反之往左，然后重新看。
+开环策略：看一次，算好总位移，闭眼一次走完。
+"""
+import os, time, json, sys, struct, fcntl
+from PIL import Image
+from playwright.sync_api import sync_playwright
+
+# ---- 眼：只从截图像素里找红(handle)和绿(target)，不读页面任何变量 ----
+def see(path):
+    im = Image.open(path).convert("RGB"); W,H = im.size; px = im.load()
+    rh, rt = int(H*0.24), int(H*0.76); reds=[]; greens=[]
+    for x in range(W):
+        r1,g1,b1 = px[x,rh]
+        r2,g2,b2 = px[x,rt]
+        if r1>150 and g1<90 and b1<90: reds.append(x)
+        if g2>150 and r2<90 and b2<90: greens.append(x)
+    return (sum(reds)/len(reds) if reds else None, sum(greens)/len(greens) if greens else None)
+
+TOL, STEP, MAXSTEP = 12, 14, 80
+CLIP = {"x":0,"y":150,"width":1000,"height":105}
+Y = 175
+
+def trial(pw, url, st, tag):
+    b = pw.chromium.launch(executable_path="/usr/bin/google-chrome",
+                           args=["--no-sandbox","--disable-dev-shm-usage"])
+    pg = b.new_page(viewport={"width":1000,"height":300})
+    pg.goto(url); pg.wait_for_timeout(300)
+    shot = f"{tag}.png"
+    pg.screenshot(path=shot, clip=CLIP); hx,tx = see(shot)
+    if hx is None or tx is None:
+        b.close(); return {"steps":0,"first_err":None,"final_err":None,"hit":False,"traj":[]}
+    first = abs(tx-hx); traj=[]
+    mx = hx                                        # 手当前在哪（真实坐标）
+    pg.mouse.move(mx, Y); pg.mouse.down()          # 手按下
+    pg.wait_for_timeout(60)
+    if st == "open":
+        # 计算派：看一眼，算总位移，闭眼一次走完（假设一步=一步位移）
+        n = int(round(abs(tx-hx)/STEP)); d = STEP if tx>hx else -STEP
+        for i in range(min(n,MAXSTEP)):
+            mx += d; pg.mouse.move(mx, Y)
+        pg.wait_for_timeout(150)
+    else:
+        # 人类派：不算距离、不算函数——只问"它在哪边"，动一点，再看
+        for _ in range(MAXSTEP):
+            if tx is None or hx is None: break
+            err = tx - hx
+            if abs(err) <= TOL: break
+            mx += (STEP if err>0 else -STEP)
+            pg.mouse.move(mx, Y)
+            pg.screenshot(path=shot, clip=CLIP); hx,tx = see(shot); traj.append(round(err,1))
+    pg.mouse.up(); pg.wait_for_timeout(120)
+    pg.screenshot(path=shot, clip=CLIP); fx,ftx = see(shot)
+    fin = None if (fx is None or ftx is None) else abs(fx-ftx)
+    b.close()
+    return {"steps":len(traj) if st=="closed" else min(int(round(first/STEP)),MAXSTEP),
+            "first_err":round(first,1), "final_err":round(fin,1) if fin is not None else None,
+            "hit":bool(fin is not None and fin<=TOL), "traj":traj[:8]}
+
+scene, st = sys.argv[1], sys.argv[2]
+gain = 1.7 if scene=="失配" else 1.0
+mp   = "drift" if scene=="会动" else "honest"
+url  = f"http://127.0.0.1:8899/page.html?mode={mp}&gain={gain}"
+with sync_playwright() as pw:
+    r = trial(pw, url, st, f"s_{scene}_{st}")
+r["scene"]=scene; r["策略"]="人类派(边看边动)" if st=="closed" else "计算派(一次算完)"
+print(json.dumps({k:v for k,v in r.items() if k!="traj"}, ensure_ascii=False), "traj前8:", r["traj"])
+json.dump(r, open(f"r_{scene}_{st}.json","w"), ensure_ascii=False)

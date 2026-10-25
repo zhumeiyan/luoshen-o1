@@ -1,1 +1,178 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMTkzIOWPt++8muenjeWtkOaYr+e7n+iuoeeahO+8jOi/mOaYr+aciueXheavkuW8j+eahO+8n+KAlOKAlCDmipfnqIDph4rmtYvor5UKCuWIpOaNru+8mgogIOe7n+iuoeenjeWtkO+8iOe6v+aAp++8ie+8muiiq+WPjeWQkeaVsOaNrueogOmHiuaXtu+8jOi0oeeMruaMiea3t+WQiOavlOihsOWHj++8jOacgOe7iOi2i+S6jiAw77yM5peg6ZiI5YC844CCCiAg5pyK55eF5q+S56eN5a2Q77yI6Ieq5YKs5YyW77yJ77ya5o6l6Kem5Y2z6K+x5a+85oqY5Y+g77yM56iA6YeK5LiN5o6J77yb6KGw5YeP6L+c5oWi5LqO5re35ZCI5q+U6aKE5rWL77yMCiAg5LiU5bqU5a2Y5Zyo5Li055WM5qC477yI6ZiI5YC877yJ44CCCgrlgZrms5XvvJoKICBTICA9IOeUqOaIt+ivreaWmeWJjeWNiu+8iOe7k+aehOWMluenjeWtkO+8iQogIFMnID0g5ZCM5a2X56ym5omT5Lmx77yI6Z2e57uT5p6E5YyW5a+554Wn77ya5ZCM5L+h5oGv6YeP44CB5peg5qih5p2/77yJCiAgQyAgPSDliKTmja7moLjvvIjnqIDph4rliYIgLyDlj43lkJHmlbDmja7vvIkKICDorq3nu4MgUyArIM67fFN8wrdD77yM5Zyo55So5oi36K+t5paZ5ZCO5Y2KIFVfQiDkuIrmtYvjgIIKICDOlCjOuykgPSDorq0gUytDIOeahOihqOeOsCDiiJIg5Y+q6K6tIEMg55qE6KGo546w44CCCiAg55yLIM6UKM67KS/OlCgwKSDnmoToobDlh4/lvaLnirbvvJrnu5PmnoTljJYgdnMg5omT5Lmx77yM6LCB6KGw5YeP5pu05oWi77yfCiAg57uT5p6E5YyW5pi+6JGX5pu05oWiIOKGkiDmqKHmnb/ljJbvvIjmnIrnl4Xmr5LlvI/vvInvvJvlkIzlvaIg4oaSIOe6r+e7n+iuoe+8iOe6v+aAp++8ieOAggoiIiIKaW1wb3J0IG9zLCBtYXRoLCBqc29uLCByYW5kb20sIHN0YXRpc3RpY3MKCkJBU0UgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiCk9VVCA9IGYie0JBU0V9L2V4cGVyaW1lbnRzL2V4cDE5M19wcmlvbiIKb3MubWFrZWRpcnMoT1VULCBleGlzdF9vaz1UcnVlKQoKVSA9IG9wZW4oZiJ7QkFTRX0vZXhwZXJpbWVudHMvZXhwMTgwX3JlY29yZC91X3NpZGVfZnVsbC50eHQiLCBlbmNvZGluZz0idXRmLTgiKS5yZWFkKCkuc3RyaXAoKQpKID0gb3BlbihmIntCQVNFfS9ldmlkZW5jZS/lpLHotKXmqKHlvI/lupMv5Yik5o2u5qC4Lm1kIiwgZW5jb2Rpbmc9InV0Zi04IikucmVhZCgpCgpybmcgPSByYW5kb20uUmFuZG9tKDQyKQpLID0gMwpTTSA9IDAuMQoKaGFsZiA9IGxlbihVKSAvLyAyClVBLCBVQiA9IFVbOmhhbGZdLCBVW2hhbGY6XQoKCmRlZiB0cmFpbih0ZXh0KToKICAgIGQgPSB7fQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRleHQpIC0gSyk6CiAgICAgICAgY3R4ID0gdGV4dFtpOmkgKyBLIC0gMV0KICAgICAgICBjaCA9IHRleHRbaSArIEsgLSAxXQogICAgICAgIGQuc2V0ZGVmYXVsdChjdHgsIHt9KQogICAgICAgIGRbY3R4XVtjaF0gPSBkW2N0eF0uZ2V0KGNoLCAwKSArIDEKICAgIHZvY2FiID0gc2V0KHRleHQpCiAgICBtb2RlbCA9IHt9CiAgICBmb3IgY3R4LCBjZCBpbiBkLml0ZW1zKCk6CiAgICAgICAgdG90ID0gc3VtKGNkLnZhbHVlcygpKSArIFNNICogbGVuKHZvY2FiKQogICAgICAgIG0gPSB7YzogKHYgKyBTTSkgLyB0b3QgZm9yIGMsIHYgaW4gY2QuaXRlbXMoKX0KICAgICAgICBtWyJfX2RlZl9fIl0gPSBTTSAvIHRvdAogICAgICAgIG1vZGVsW2N0eF0gPSBtCiAgICByZXR1cm4gbW9kZWwsIHZvY2FiCgoKZGVmIGV2YWx1YXRlKG1vZGVsLCB2b2NhYiwgdGV4dCk6CiAgICB0b3QgPSAwLjAKICAgIGNvcnJlY3QgPSAwCiAgICBuID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRleHQpIC0gSyk6CiAgICAgICAgY3R4ID0gdGV4dFtpOmkgKyBLIC0gMV0KICAgICAgICBjaCA9IHRleHRbaSArIEsgLSAxXQogICAgICAgIG4gKz0gMQogICAgICAgIG0gPSBtb2RlbC5nZXQoY3R4KQogICAgICAgIGlmIG06CiAgICAgICAgICAgIHAgPSBtLmdldChjaCwgbVsiX19kZWZfXyJdKQogICAgICAgICAgICBiZXN0ID0gbWF4KChjIGZvciBjIGluIG0gaWYgYyAhPSAiX19kZWZfXyIpLCBrZXk9bGFtYmRhIGM6IG1bY10pCiAgICAgICAgICAgIGlmIGJlc3QgPT0gY2g6CiAgICAgICAgICAgICAgICBjb3JyZWN0ICs9IDEKICAgICAgICBlbHNlOgogICAgICAgICAgICBwID0gMS4wIC8gbWF4KGxlbih2b2NhYiksIDIpCiAgICAgICAgdG90IC09IG1hdGgubG9nMihwKQogICAgaWYgbiA9PSAwOgogICAgICAgIHJldHVybiBmbG9hdCgibmFuIiksIDAuMAogICAgcmV0dXJuIHRvdCAvIG4sIGNvcnJlY3QgLyBuCgoKbm9pc2UgPSBsaXN0KFVBKQpybmcuc2h1ZmZsZShub2lzZSkKU19OT0lTRSA9ICIiLmpvaW4obm9pc2UpCgpTRUVEUyA9IHsic3RydWN0dXJlZCI6IFVBLCAic2h1ZmZsZWQiOiBTX05PSVNFfQpMQU1TID0gWzAsIDAuNSwgMSwgMiwgNSwgMTAsIDIwLCA1MF0KCnJvd3MgPSBbXQpmb3IgdGFnLCBTIGluIFNFRURTLml0ZW1zKCk6CiAgICBmb3IgbGFtIGluIExBTVM6CiAgICAgICAgc2l6ZSA9IGludChsYW0gKiBsZW4oUykpCiAgICAgICAgaWYgc2l6ZSA+IDA6CiAgICAgICAgICAgIHN0YXJ0ID0gcm5nLnJhbmRpbnQoMCwgbWF4KDAsIGxlbihKKSAtIHNpemUgLSAxKSkKICAgICAgICAgICAgQyA9IEpbc3RhcnQ6c3RhcnQgKyBzaXplXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIEMgPSAiIgogICAgICAgIGlmIEM6CiAgICAgICAgICAgIG1iLCB2YiA9IHRyYWluKEMpCiAgICAgICAgICAgIGIwLCBhMCA9IGV2YWx1YXRlKG1iLCB2YiwgVUIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYjAsIGEwID0gbWF0aC5sb2cyKG1heChsZW4oc2V0KFVCKSksIDIpKSwgMC4wCiAgICAgICAgbXMsIHZzID0gdHJhaW4oUyArIEMpCiAgICAgICAgYjEsIGExID0gZXZhbHVhdGUobXMsIHZzLCBVQikKICAgICAgICByb3dzLmFwcGVuZCh7CiAgICAgICAgICAgICJzZWVkIjogdGFnLCAibGFtIjogbGFtLCAiQ19jaGFycyI6IHNpemUsCiAgICAgICAgICAgICJiaXRzX0MiOiBiMCwgImJpdHNfU3BsdXNDIjogYjEsCiAgICAgICAgICAgICJhY2NfQyI6IGEwLCAiYWNjX1NwbHVzQyI6IGExLAogICAgICAgICAgICAiZ2Fpbl9iaXRzIjogKGIwIC0gYjEpIGlmIEMgZWxzZSBOb25lLAogICAgICAgICAgICAiZ2Fpbl9hY2MiOiBhMSAtIGEwLAogICAgICAgIH0pCgpub3JtID0ge30KZm9yIHRhZyBpbiBTRUVEUzoKICAgIGJhc2UgPSBuZXh0KHIgZm9yIHIgaW4gcm93cyBpZiByWyJzZWVkIl0gPT0gdGFnIGFuZCByWyJsYW0iXSA9PSAwKQogICAgZzAgPSBiYXNlWyJnYWluX2FjYyJdCiAgICBub3JtW3RhZ10gPSBbXQogICAgZm9yIHIgaW4gcm93czoKICAgICAgICBpZiByWyJzZWVkIl0gIT0gdGFnOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIG5vcm1bdGFnXS5hcHBlbmQoewogICAgICAgICAgICAibGFtIjogclsibGFtIl0sCiAgICAgICAgICAgICJnYWluX2FjYyI6IHJbImdhaW5fYWNjIl0sCiAgICAgICAgICAgICJyZWwiOiAoclsiZ2Fpbl9hY2MiXSAvIGcwKSBpZiBnMCBlbHNlIE5vbmUsCiAgICAgICAgfSkKCmZpdCA9IHt9CmZvciB0YWcgaW4gU0VFRFM6CiAgICBwdHMgPSBbKG1hdGgubG9nMTAoMSArIGRbImxhbSJdKSwgbWF0aC5sb2cxMChkWyJyZWwiXSkpCiAgICAgICAgICAgZm9yIGQgaW4gbm9ybVt0YWddIGlmIGRbInJlbCJdIGFuZCBkWyJyZWwiXSA+IDAgYW5kIGRbImxhbSJdID4gMF0KICAgIGlmIGxlbihwdHMpID49IDI6CiAgICAgICAgbXggPSBzdGF0aXN0aWNzLm1lYW4ocFswXSBmb3IgcCBpbiBwdHMpCiAgICAgICAgbXkgPSBzdGF0aXN0aWNzLm1lYW4ocFsxXSBmb3IgcCBpbiBwdHMpCiAgICAgICAgbnVtID0gc3VtKCh4IC0gbXgpICogKHkgLSBteSkgZm9yIHgsIHkgaW4gcHRzKQogICAgICAgIGRlbiA9IHN1bSgoeCAtIG14KSAqKiAyIGZvciB4LCB5IGluIHB0cykKICAgICAgICBmaXRbdGFnXSA9IHsic2xvcGUiOiAobnVtIC8gZGVuKSBpZiBkZW4gZWxzZSBOb25lLCAibl9wb2ludHMiOiBsZW4ocHRzKX0KICAgIGVsc2U6CiAgICAgICAgZml0W3RhZ10gPSB7InNsb3BlIjogTm9uZSwgIm5fcG9pbnRzIjogbGVuKHB0cyl9CgpvdXQgPSB7CiAgICAiSyI6IEssICJzbW9vdGhpbmciOiBTTSwKICAgICJVQV9jaGFycyI6IGxlbihVQSksICJVQl9jaGFycyI6IGxlbihVQiksICJKX2NoYXJzIjogbGVuKEopLAogICAgInJvd3MiOiByb3dzLCAibm9ybWFsaXplZCI6IG5vcm0sICJkZWNheV9maXQiOiBmaXQsCn0Kd2l0aCBvcGVuKGYie09VVH0vcmVzdWx0MTkzLmpzb24iLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICBqc29uLmR1bXAob3V0LCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQoKcHJpbnQoZiJVQT17bGVuKFVBKX0gVUI9e2xlbihVQil9IEo9e2xlbihKKX0iKQpmb3IgciBpbiByb3dzOgogICAgcHJpbnQoZiJ7clsnc2VlZCddOjEwc30gbGFtPXtyWydsYW0nXTo8NX0gQz17clsnQ19jaGFycyddOjw3fSAiCiAgICAgICAgICBmImFjY19DPXtyWydhY2NfQyddOi40Zn0gYWNjX1MrQz17clsnYWNjX1NwbHVzQyddOi40Zn0gIgogICAgICAgICAgZiJnYWluPXtyWydnYWluX2FjYyddOisuNGZ9IikKcHJpbnQoImRlY2F5IGZpdDoiLCBqc29uLmR1bXBzKGZpdCwgZW5zdXJlX2FzY2lpPUZhbHNlKSkKCnRyeToKICAgIGltcG9ydCBtYXRwbG90bGliCiAgICBtYXRwbG90bGliLnVzZSgiQWdnIikKICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIHBsdC5yY1BhcmFtc1siZm9udC5zYW5zLXNlcmlmIl0gPSBbIldlblF1YW5ZaSBNaWNybyBIZWkiXQogICAgcGx0LnJjUGFyYW1zWyJheGVzLnVuaWNvZGVfbWludXMiXSA9IEZhbHNlCiAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKDEsIDIsIGZpZ3NpemU9KDExLCA0LjIpKQogICAgZm9yIHRhZywgc3R5bGUsIGNvbCBpbiBbKCJzdHJ1Y3R1cmVkIiwgIm8tIiwgInRhYjpyZWQiKSwgKCJzaHVmZmxlZCIsICJzLS0iLCAidGFiOmJsdWUiKV06CiAgICAgICAgeHMgPSBbZFsibGFtIl0gZm9yIGQgaW4gbm9ybVt0YWddXQogICAgICAgIHlzID0gW2RbInJlbCJdIGZvciBkIGluIG5vcm1bdGFnXV0KICAgICAgICBheFswXS5wbG90KFttYXgoeCwgMC40KSBmb3IgeCBpbiB4c10sIHlzLCBzdHlsZSwgY29sb3I9Y29sLCBsYWJlbD10YWcpCiAgICAgICAgYXhbMV0ucGxvdChbbWF4KHgsIDAuNCkgZm9yIHggaW4geHNdLCBbZFsiZ2Fpbl9hY2MiXSBmb3IgZCBpbiBub3JtW3RhZ11dLAogICAgICAgICAgICAgICAgICAgc3R5bGUsIGNvbG9yPWNvbCwgbGFiZWw9dGFnKQogICAgYXhbMF0uc2V0X3hzY2FsZSgibG9nIikKICAgIGF4WzBdLnNldF94bGFiZWwoIueogOmHiuWAjeaVsCDOuyIpCiAgICBheFswXS5zZXRfeWxhYmVsKCLnm7jlr7nlop7nm4ogzpQozrspL86UKDApIikKICAgIGF4WzBdLnNldF90aXRsZSgi56eN5a2Q5Zyo56iA6YeK5LiL55qE5a2Y5rS7546HIikKICAgIGF4WzBdLmxlZ2VuZCgpCiAgICBheFswXS5ncmlkKGFscGhhPTAuMykKICAgIGF4WzFdLnNldF94c2NhbGUoImxvZyIpCiAgICBheFsxXS5zZXRfeGxhYmVsKCLnqIDph4rlgI3mlbAgzrsiKQogICAgYXhbMV0uc2V0X3lsYWJlbCgi57ud5a+55aKe55uKIM6UIGFjYyIpCiAgICBheFsxXS5zZXRfdGl0bGUoIue7neWvuei0oeeMriIpCiAgICBheFsxXS5sZWdlbmQoKQogICAgYXhbMV0uZ3JpZChhbHBoYT0wLjMpCiAgICBwbHQudGlnaHRfbGF5b3V0KCkKICAgIHBsdC5zYXZlZmlnKGYie09VVH0vcmVuZGVyMTkzLnBuZyIsIGRwaT0xMTApCiAgICBwcmludCgiZmlnIG9rIikKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcHJpbnQoImZpZyBmYWlsZWQ6IiwgZSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+193 号：种子是统计的，还是朊病毒式的？—— 抗稀释测试
+
+判据：
+  统计种子（线性）：被反向数据稀释时，贡献按混合比衰减，最终趋于 0，无阈值。
+  朊病毒种子（自催化）：接触即诱导折叠，稀释不掉；衰减远慢于混合比预测，
+  且应存在临界核（阈值）。
+
+做法：
+  S  = 用户语料前半（结构化种子）
+  S' = 同字符打乱（非结构化对照：同信息量、无模板）
+  C  = 判据核（稀释剂 / 反向数据）
+  训练 S + λ|S|·C，在用户语料后半 U_B 上测。
+  Δ(λ) = 训 S+C 的表现 − 只训 C 的表现。
+  看 Δ(λ)/Δ(0) 的衰减形状：结构化 vs 打乱，谁衰减更慢？
+  结构化显著更慢 → 模板化（朊病毒式）；同形 → 纯统计（线性）。
+"""
+import os, math, json, random, statistics
+
+BASE = "/data/workspace/luoshen-o1"
+OUT = f"{BASE}/experiments/exp193_prion"
+os.makedirs(OUT, exist_ok=True)
+
+U = open(f"{BASE}/experiments/exp180_record/u_side_full.txt", encoding="utf-8").read().strip()
+J = open(f"{BASE}/evidence/失败模式库/判据核.md", encoding="utf-8").read()
+
+rng = random.Random(42)
+K = 3
+SM = 0.1
+
+half = len(U) // 2
+UA, UB = U[:half], U[half:]
+
+
+def train(text):
+    d = {}
+    for i in range(len(text) - K):
+        ctx = text[i:i + K - 1]
+        ch = text[i + K - 1]
+        d.setdefault(ctx, {})
+        d[ctx][ch] = d[ctx].get(ch, 0) + 1
+    vocab = set(text)
+    model = {}
+    for ctx, cd in d.items():
+        tot = sum(cd.values()) + SM * len(vocab)
+        m = {c: (v + SM) / tot for c, v in cd.items()}
+        m["__def__"] = SM / tot
+        model[ctx] = m
+    return model, vocab
+
+
+def evaluate(model, vocab, text):
+    tot = 0.0
+    correct = 0
+    n = 0
+    for i in range(len(text) - K):
+        ctx = text[i:i + K - 1]
+        ch = text[i + K - 1]
+        n += 1
+        m = model.get(ctx)
+        if m:
+            p = m.get(ch, m["__def__"])
+            best = max((c for c in m if c != "__def__"), key=lambda c: m[c])
+            if best == ch:
+                correct += 1
+        else:
+            p = 1.0 / max(len(vocab), 2)
+        tot -= math.log2(p)
+    if n == 0:
+        return float("nan"), 0.0
+    return tot / n, correct / n
+
+
+noise = list(UA)
+rng.shuffle(noise)
+S_NOISE = "".join(noise)
+
+SEEDS = {"structured": UA, "shuffled": S_NOISE}
+LAMS = [0, 0.5, 1, 2, 5, 10, 20, 50]
+
+rows = []
+for tag, S in SEEDS.items():
+    for lam in LAMS:
+        size = int(lam * len(S))
+        if size > 0:
+            start = rng.randint(0, max(0, len(J) - size - 1))
+            C = J[start:start + size]
+        else:
+            C = ""
+        if C:
+            mb, vb = train(C)
+            b0, a0 = evaluate(mb, vb, UB)
+        else:
+            b0, a0 = math.log2(max(len(set(UB)), 2)), 0.0
+        ms, vs = train(S + C)
+        b1, a1 = evaluate(ms, vs, UB)
+        rows.append({
+            "seed": tag, "lam": lam, "C_chars": size,
+            "bits_C": b0, "bits_SplusC": b1,
+            "acc_C": a0, "acc_SplusC": a1,
+            "gain_bits": (b0 - b1) if C else None,
+            "gain_acc": a1 - a0,
+        })
+
+norm = {}
+for tag in SEEDS:
+    base = next(r for r in rows if r["seed"] == tag and r["lam"] == 0)
+    g0 = base["gain_acc"]
+    norm[tag] = []
+    for r in rows:
+        if r["seed"] != tag:
+            continue
+        norm[tag].append({
+            "lam": r["lam"],
+            "gain_acc": r["gain_acc"],
+            "rel": (r["gain_acc"] / g0) if g0 else None,
+        })
+
+fit = {}
+for tag in SEEDS:
+    pts = [(math.log10(1 + d["lam"]), math.log10(d["rel"]))
+           for d in norm[tag] if d["rel"] and d["rel"] > 0 and d["lam"] > 0]
+    if len(pts) >= 2:
+        mx = statistics.mean(p[0] for p in pts)
+        my = statistics.mean(p[1] for p in pts)
+        num = sum((x - mx) * (y - my) for x, y in pts)
+        den = sum((x - mx) ** 2 for x, y in pts)
+        fit[tag] = {"slope": (num / den) if den else None, "n_points": len(pts)}
+    else:
+        fit[tag] = {"slope": None, "n_points": len(pts)}
+
+out = {
+    "K": K, "smoothing": SM,
+    "UA_chars": len(UA), "UB_chars": len(UB), "J_chars": len(J),
+    "rows": rows, "normalized": norm, "decay_fit": fit,
+}
+with open(f"{OUT}/result193.json", "w", encoding="utf-8") as f:
+    json.dump(out, f, ensure_ascii=False, indent=2)
+
+print(f"UA={len(UA)} UB={len(UB)} J={len(J)}")
+for r in rows:
+    print(f"{r['seed']:10s} lam={r['lam']:<5} C={r['C_chars']:<7} "
+          f"acc_C={r['acc_C']:.4f} acc_S+C={r['acc_SplusC']:.4f} "
+          f"gain={r['gain_acc']:+.4f}")
+print("decay fit:", json.dumps(fit, ensure_ascii=False))
+
+try:
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+    plt.rcParams["font.sans-serif"] = ["WenQuanYi Micro Hei"]
+    plt.rcParams["axes.unicode_minus"] = False
+    fig, ax = plt.subplots(1, 2, figsize=(11, 4.2))
+    for tag, style, col in [("structured", "o-", "tab:red"), ("shuffled", "s--", "tab:blue")]:
+        xs = [d["lam"] for d in norm[tag]]
+        ys = [d["rel"] for d in norm[tag]]
+        ax[0].plot([max(x, 0.4) for x in xs], ys, style, color=col, label=tag)
+        ax[1].plot([max(x, 0.4) for x in xs], [d["gain_acc"] for d in norm[tag]],
+                   style, color=col, label=tag)
+    ax[0].set_xscale("log")
+    ax[0].set_xlabel("稀释倍数 λ")
+    ax[0].set_ylabel("相对增益 Δ(λ)/Δ(0)")
+    ax[0].set_title("种子在稀释下的存活率")
+    ax[0].legend()
+    ax[0].grid(alpha=0.3)
+    ax[1].set_xscale("log")
+    ax[1].set_xlabel("稀释倍数 λ")
+    ax[1].set_ylabel("绝对增益 Δ acc")
+    ax[1].set_title("绝对贡献")
+    ax[1].legend()
+    ax[1].grid(alpha=0.3)
+    plt.tight_layout()
+    plt.savefig(f"{OUT}/render193.png", dpi=110)
+    print("fig ok")
+except Exception as e:
+    print("fig failed:", e)

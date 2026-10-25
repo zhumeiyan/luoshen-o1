@@ -1,1 +1,106 @@
-IyAwNTQgwrcgVEFDVCDljaHluJXlo7DmmI7nmoTliKTliKvlipvmo4DpqowKCj4g5qCH562+77ya5a6e546w6aqM6K+B77yM6Z2e6K+B5o2u44CCCj4g5pys6L2u55u05o6l5L2/55So5LqG55So5oi35o+Q5L6b55qEIFRBQ1Qg5LuT5bqTIFJFQURNRe+8iOW3suehruiupOWPguaVsO+8ieS4jiBFYXN5QWkg5LuT5bqT6K+05piO44CCCgojIyAwLiDlt7Lnoa7orqTnmoTlpJbpg6jlj4LmlbDvvIjmnaXoh6rnlKjmiLfmj5DkvpvnmoQgR2l0SHViIOmhtemdou+8iQoKVEFDVCB2Mi43Ljgg6Ieq6ZmI77yaCgp8IOmhuSB8IOWAvCB8CnwtLS18LS0tfAp8IOWtkOWdkOagh+aVsCB8ICoqMTE3KirvvIhgY29vcmRpbmF0ZV9kYXRhLmpzb25g77yJIHwKfCDmoKHlh4bmoLfkvosgfCAqKjI5KirvvIhgY2FsaWJyYXRpb25fY2FzZXMuanNvbmDvvIzlkKsgQ0FMLTI5IOecn+WuniBhZ2VudCDnqbrovazvvIkgfAp8IOS4gOiHtOaAp+mqjOivgSB8ICoqNSDlrrblm73kuqfmqKHlnosgw5cgMTIg5p2hIHN5bnRoZXRpY++8jEZsZWlzcyDOuioqIHwKfCDmiqXlkYrlgLwgfCAqKkwgzrogPSAwLjk0NSAvIOWRveS4rSA5OC4yJSoqIHwKfCDop4TliJnlvJXmk47ln7rnur8gfCBNIOWPrOWbniA5NS43JSDCtyBQIDg2LjQlIMK3IEwgNzguNiUgfAp8IOWFjei0oyB8IOOAjOWIpOaNruS4juWdkOagh+Wwmuacque7j+S6uuW3peagh+azqOiAheeLrOeri+mqjOivgeKApuato+ehruaAp+W+heekvuWMuiByYXRpZnnjgI0gfAoKRWFzeUFp77yIR2l0ZWXvvInvvJpKYXZhIOS6uuW3peaZuuiDveeul+azleahhuaetu+8jE1hdmVuIOS4gOmUruW8leWFpeOAgSoq6Zu26aKd5aSW5L6d6LWWKirvvIzlt7LlsIHoo4Xlm77lg4/nm67moIfmo4DmtYsgLyDmmbrog73lrqLmnI3mqKHlnZfvvIzlubbmj5Dkvpvmt7HluqblrabkuaAgLyDmnLrlmajlrabkuaAgLyDlvLrljJblrabkuaAgLyDlkK/lj5HlvI/lrabkuaAgLyDnn6npmLXov5DnrpfnrYnlupXlsYLlt6XlhbfjgILlrprkvY3mmK/jgIzorqnmr4/kuKrlvIDlj5HogIXpg73og73lvIDlj5HnrKblkIjoh6rlt7HkuJrliqHnmoTlsI/lvq7mqKHlnovjgI3jgIIKCiMjIDEuIOacrOi9rumXrueahOaYr+S7gOS5iAoKMDQ5IC8gMDUxIOWuoeiuoeS6huOAjOWPrOWbnuOAje+8jOe7k+iuuuaYr++8muadkOaWmeWGhea7oeWIhuWxnuiHquivge+8jOmaj+acuuWdkOagh+W6k+S5n+iDveWPrOWbniB+MC43Ne+8jOWIpOWIq+WKm+aciemYiOWAvOOAggoK5L2GIFRBQ1Qg5a+55aSW5pyA5pi+55y855qE5Lik5Liq5pWw5pivICoqzrogPSAwLjk0NSoqIOWSjCAqKuWRveS4rSA5OC4yJSoq44CC6L+Z5Lik5Liq5pWwKirmsqHooqvlrqHorqHov4cqKuOAggoK5pys6L2u6Zeu77yaKirlnKjlroPoh6rpmYjnmoTlj4LmlbDkuIvvvIgxMTcg5Z2Q5qCH44CBNSDmqKHlnovjgIExMiDmnaEgc3ludGhldGlj77yJ77yMzrog5LiO5ZG95Lit6IO95ZCm5Yy65YiG44CM5Z2Q5qCH5bqT5q2j56Gu44CN5LiO44CM5Z2Q5qCH5bqT6KKr5LiA6Ie05Zyw572u5o2i77yI5Y2z5YWo5L2T55So6ZSZ5L2G55So5b6X5LiA5qC377yJ44CN77yfKioKCiMjIDIuIOiuvuiuoQoKLSBLID0gMTE377yI5oiR5pa5IDkg5Liq6aG25bGC55yf5Zug5ZCE5pGKIDEzIOS4quWPtuWtkO+8jDnDlzEzPTExN++8iQotIFIgPSA1IOS9jeivhOWuoeiAhe+8iOWvueW6lCA1IOWutuaooeWei++8ie+8jOWFseS6q+WQjOS4gOWll+WdkOagh+W6kwotIE4gPSAxMu+8iOWMuemFjeWFtiAxMiDmnaEgc3ludGhldGlj77yJ77yPMjnvvIjmoKHlh4bpm4bop4TmqKHvvInvvI8xMDTvvIjmiJHmlrnnnJ/lrp7lpLHor6/op4TmqKHvvIkKLSDor4TlrqHogIXooYzkuLrvvJrku6XmpoLnjocgYDEtZXBzYCDovpPlh7rjgIzlupPmmKDlsITlkI7nmoTlnZDmoIfjgI3vvIzku6XmpoLnjocgYGVwc2Ag6L6T5Ye66ZqP5py65Y+25a2Q77yI5qih5ouf5qih5Z6L6Ze055qE55yf5a6e5YiG5q2n77yJCi0gKirlr7nnhafmnaHku7YqKu+8mgogIC0gYGNvcnJlY3Rg77ya5bqT5oqK5paH5pys5q2j56Gu5pig5bCE5Yiw55yf5YC85Y+25a2QCiAgLSBgcGVybXV0ZWRg77ya5a+5IDExNyDkuKrlj7blrZDlgZrkuIDkuKoqKumaj+acuuWPjOWwhCoq44CC5omA5pyJ6K+E5a6h6ICF5YWx5Lqr6L+Z5Liq572u5o2iIOKHkiDku5bku6zkvp3nhLYqKuW9vOatpOWQjOaEjyoq77yM5Y+q5piv5YWo5L2T5LiA6Ie05Zyw5oyH5ZCR6ZSZ6K+v55qE5Y+25a2QCi0g5rWL6YeP77yaRmxlaXNzIM6677yI6K+E5a6h6ICF6Ze05LiA6Ie05oCn77yJ77yLICoq5ZG95Lit55yf5YC8KirvvIjovpPlh7rmmK/lkKbnrYnkuo7nnJ/lgLzlj7blrZDigJTigJTov5nmmK/lpJbpg6jnnJ/lgLzlj6PlvoTvvIxUQUNUIOayoeacie+8iQoKIyMgMy4g57uT5p6cCgojIyMgMy4xIM66IOS4juWRveS4reecn+WAvO+8iE49MTLvvIzljLnphY3lhbYgMTIg5p2hIHN5bnRoZXRpY++8iQoKfCBlcHMgfCDOuiDmraPnoa4gfCDOuiDnva7mjaIgfCDlkb3kuK3nnJ/lgLwg5q2j56GuIHwg5ZG95Lit55yf5YC8IOe9ruaNoiB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IDAuMDAgfCAxLjAwMDAgfCAxLjAwMDAgfCAxLjAwMDAgfCAwLjAwNjkgfAp8ICoqMC4wMioqIHwgKiowLjk0MzgqKiB8ICoqMC45NDYzKiogfCAqKjAuOTc5OSoqIHwgKiowLjAwOTkqKiB8CnwgMC4wNSB8IDAuODY0NyB8IDAuODY2MCB8IDAuOTUwMCB8IDAuMDA4NiB8CnwgMC4xMCB8IDAuNzQ4MiB8IDAuNzUxNCB8IDAuOTAxMCB8IDAuMDA5NSB8CnwgMC4yMCB8IDAuNTQ4MiB8IDAuNTUyOCB8IDAuODAwMyB8IDAuMDA4NiB8CgpOPTI5IOS4jiBOPTEwNCDlvaLnirblrozlhajkuIDoh7TvvIjOuiDmraPnoa7iiYjnva7mjaLvvIzlkb3kuK3nnJ/lgLzmraPnoa4gfjAuOTXigJMwLjk477yM572u5o2i5oGSIH4wLjAwOCDiiYggMS8xMTfvvInjgIIKCiMjIyAzLjIg5Yy56YWN5qGj77yI5pyA56Gs55qE5LiA5p2h77yJCgrlnKggKiplcHMgPSAwLjAy44CBTiA9IDEyKiog5aSE77yM5pys5qih5Z6L5aSN546w5Ye65LqG5a+55pa55oql5ZGK55qE5Lik5Liq5pWw77yaCgpgYGAKzrogICAgICDmraPnoa7lupMgMC45NDM4ICDnva7mjaLlupMgMC45NDYzICAg4oaQIOS4pOiAhemDvSDiiYggMC45NDXvvIzlt64gMC4wMDI177yI5Zmq5aOw5YaF77yJCuWRveS4rSAgIOato+ehruW6kyAwLjk3OTkgIOe9ruaNouW6kyAwLjAwOTkgICDihpAg5beuIDk5IOWAjQpgYGAKCuS5n+WwseaYr+ivtO+8mioq5a+55pa55oql5ZGK55qEIM66PTAuOTQ1IOS4jiDlkb3kuK0gOTguMiXvvIzmraPlpb3okL3lnKjkuIDkuKrjgIzmraPnoa7lupPjgI3kuI7jgIzooqvkuIDoh7Tnva7mjaLnmoTlupPjgI3lrozlhajml6Dms5XljLrliIbnmoTkvY3nva7jgIIqKgoKIyMgNC4g5LiJ5p2h57uT6K66CgojIyMg4pGgIM66IOS4juOAjOWRveS4reOAjeihoemHj+eahOaYr+S4gOiHtOaAp++8jOS4jeaYr+ato+ehruaApwoKRmxlaXNzIM66IOeahOWumuS5ieaYr+OAjOivhOWuoeiAhemXtOS4gOiHtOi2heWHuuacuumBh+eahOmDqOWIhuOAjeOAguW9k+aJgOacieivhOWuoeiAhSoq5YWx5Lqr5ZCM5LiA5aWX5Z2Q5qCH5bqTKirml7bvvIzlr7nor6XlupPlgZrku7vmhI/nva7mjaLvvIzor4TlrqHogIXkuYvpl7TnmoQqKuS4gOiHtOe7k+aehOS4jeWPmCoqIOKHkiDOuiDkuI3lj5jjgIIKCuWQjOeQhu+8jOWcqOW6k+WGheivhOS8sOeahOOAjOWRveS4reOAje+8iOW8leaTjuaYr+WQpue7meWHuuS6huS4gOS4quWdkOagh+OAgeivhOWuoeiAheaYr+WQpuetlOW+l+S4gOiHtO+8ieS5n+aYr+WGhemDqOmHj++8jOe9ruaNouS4i+S4jeWPmOOAggoKPiAqKs66IOmrmOWPquivgeaYjuWdkOagh+W6k+OAjOehruWumuaAp+i2s+Wkn+W8uuOAgeaooeWei+eFp+edgOWBmuiDveWBmuW+l+S4gOiHtOOAje+8jOS4jeivgeaYjuWdkOagh+aYr+ecn+WboOOAgioqCgojIyMg4pGhIOi/meaBsOWlveWNsOivgeS6huWvueaWueiHquW3seeahOWFjei0o+WjsOaYjuKAlOKAlOS9huivu+azleS4iuS8muiiq+ivr+eUqAoKVEFDVCBSRUFETUUg5piO56Gu5YaZ5LqG44CM5bCa5pyq57uP5Lq65bel5qCH5rOo6ICF54us56uL6aqM6K+B77yM5q2j56Gu5oCn5b6F56S+5Yy6IHJhdGlmeeOAjeOAgioq6L+Z5Y+l6K+d5piv5a+555qE44CCKioKCumXrumimOWcqOS6ju+8muS7k+W6k+aKiiDOuiDkuI7lkb3kuK3kvZzkuLrjgIzkuIDoh7TmgKfljobnqIsgLyDor4rmlq3kv6Hlj7fjgI3lhazlvIDlsZXnpLrvvIhMIM66IDAuOTQ1IC8g5ZG95LitIDk4LjIl77yJ77yM6ICM6L+Z5Lik5Liq5pWw5oyJ5pys6L2u5a6e5rWLKirlr7nmraPnoa7mgKfpm7bliKTliKvlipsqKuOAguivu+iAheaegeaYk+aKiuWug+S7rOivu+aIkOOAjOW3sumqjOivgeOAjeOAggoK6IO9IHJhdGlmeSDlnZDmoIfnmoQqKuWPquacieS4gOWll+eLrOeri+S6juivpeWdkOagh+W6k+eahOecn+WAvOagh+azqCoq44CC5a+55pa56Ieq5bex5Lmf55+l6YGT4oCU4oCU5omA5Lul5omN5b6B6ZuG55yf5a6e5qGI5L6L44CC5pys6L2u57uZ5Ye65LqG5Li65LuA5LmI5LiN5b6B6ZuG5bCx5rC46L+c6K+B5LiN5LqG44CCCgojIyMg4pGiIEVhc3lBaSDkuI7miJHku6znmoTlsYLmrKHlhbPns7vvvIjlm57lupTjgIzkuI3mmK/mnInlkJfjgI3vvIkKCkVhc3lBaSDmmK8qKumbtuS+nei1luOAgeW8gOeuseWNs+eUqOOAgeWwgeijheWlveaooeWdlyoq55qE566X5rOV5bel5YW3566x77yM5L2N5LqOKirkvb/nlKjlsYIqKu+8muiuqeW8gOWPkeiAheeUqCBBSSAvIOmAoOWwj+W+ruaooeWei+OAggoK5oiR5Lus5YGa55qE5pivKirlj5HnlJ/lsYIqKu+8muiuqeWIpOaNruOAgeW8leaTjuOAgeS4lueVjOiHquW3sea8lOWMluOAguS6jOiAheS4jemHjeWPoOOAggoKKirnu5PorrrkuI3lj5jvvJrkuI3ph43pgKAgRWFzeUFp77yI5L2/55So5bGC5bey5pyJ546w5oiQ55qE77yJ77yb5oiR5Lus6KaB6KGl55qE5piv5rKh5Lq657uZ55qE5Y+R55Sf5bGC44CCKiog5L2G5pyJ5LiA5p2h5Y+v5a2m55qE5bel56iL57qq5b6L4oCU4oCU6Iul5oiR5Lus55qE5ryU5YyW5byV5pOO6KaB5a+55aSW5Y+v55So77yM5bqU5oqEIEVhc3lBaSDnmoTjgIzpm7bkvp3otZYgKyDkuIDplK7lvJXlhaUgKyDlupXlsYLlsIHoo4XjgI3lvaLmgIHjgIIKCiMjIDUuIOaIkeeahOWkseivrwoK5pys6L2u5peg5pa55rOV5oCn5aSx6K+v44CC5L2G5pyJ5LiA5aSEKirlv4Xpobvlo7DmmI7nmoTlj5blgLwqKu+8mmVwcz0wLjAyIOaYr+aIkSoq5Y+N5o6oKirlh7rmnaXku6XljLnphY3lr7nmlrkgzro9MC45NDUg55qE77yM5LiN5piv54us56uL5rWL6YeP55qE5a+55pa55Zmq5aOw44CC5a6D5Y+q6K+05piO44CM5a2Y5Zyo6L+Z5qC35LiA5qGj77yM5L2/5Lik5Liq5pWw5ZCM5pe25oiQ56uL44CN77yM5LiN5Luj6KGo5a+55pa555yf5a6e55qE5qih5Z6L5YiG5q2n546H5bCx5pivIDAuMDLjgIIKCiMjIDYuIOWxgOmZkO+8iOS4jeW+l+WkluaOqO+8iQoKLSAqKuacquaLv+WIsCBgY29vcmRpbmF0ZV9kYXRhLmpzb25gIOS4jiBgY2FsaWJyYXRpb25fY2FzZXMuanNvbmAg55yf6LqrKirvvIhyYXcg6YCa6YGT5LiN5Y+v6L6+77yJ44CC5pys6L2u5pivKirmjIkgUkVBRE1FIOWPguaVsOWBmueahOWQjOaehOaooeaLnyoq77yM5a6h6K6h55qE5piv44CM6L+Z57G75oyH5qCH55qE5oCn6LSo44CN77yM5LiN5piv5a+55pa55Z2Q5qCH55qE5YW35L2T5a+56ZSZ44CCCi0g572u5o2i5pivKirlhajlupPlj4zlsIQqKu+8iOacgOaegeerr++8ieOAguecn+WunuWdkOagh+W6k+abtOWPr+iDveaYr+OAjOmDqOWIhumUmeOAje+8jOatpOaXtuWRveS4reecn+WAvOeahOi3jOW5heS8muWwj+S4gOS6m++8jOS9hiAqKs66IOS4jeWPmCoq6L+Z5Liq57uT6K665LiN5Y+X5b2x5ZON44CCCi0g44CM5ZG95Lit55yf5YC844CN5Zyo55yf5a6eIEFJIOS6i+aVheWIhuexu+mHjCoq5rKh5pyJ5YWs6K6kIGdyb3VuZCB0cnV0aCoq77yM5omA5Lul5a+55pa55Lmf56Gu5a6e5ou/5LiN5Yiw4oCU4oCU6L+Z5q2j5piv5LuW5Lus5peg5rOV6Ieq6K+B55qE5qC55Zug44CCCi0gSz0xMTcg55Sx5oiR5pa5IDkg57G75pGK5oiQIDEzIOWPtuWtkOaehOmAoO+8jOS4juWvueaWueecn+WunueahCAxMTcg5Liq5a2Q5Z2Q5qCH6K+t5LmJ5peg5YWz44CCCgojIyA3LiDliKTmja7moLjmlrDlop4KCi0gKirnrKwgMTY0IOadoSDCtyDOuiDkuI7lkb3kuK3nmoTnva7mjaLkuI3lj5jmgKcqKgotICoq56ysIDE2NSDmnaEgwrcg5ZCMIM66IOS4i+eahOato+ehruaAp+WhjOe8qe+8iOW3riB+OTkg5YCN77yJKioKLSAqKuesrCAxNjYg5p2hIMK3IOeOsOaIkOW3peWFt+S9jeS6juS9v+eUqOWxgu+8jOaIkeaWueS9jeS6juWPkeeUn+Wxgu+8jOS4jemHjemAoCoqCg==
+# 054 · TACT 卡帕声明的判别力检验
+
+> 标签：实现验证，非证据。
+> 本轮直接使用了用户提供的 TACT 仓库 README（已确认参数）与 EasyAi 仓库说明。
+
+## 0. 已确认的外部参数（来自用户提供的 GitHub 页面）
+
+TACT v2.7.8 自陈：
+
+| 项 | 值 |
+|---|---|
+| 子坐标数 | **117**（`coordinate_data.json`） |
+| 校准样例 | **29**（`calibration_cases.json`，含 CAL-29 真实 agent 空转） |
+| 一致性验证 | **5 家国产模型 × 12 条 synthetic，Fleiss κ** |
+| 报告值 | **L κ = 0.945 / 命中 98.2%** |
+| 规则引擎基线 | M 召回 95.7% · P 86.4% · L 78.6% |
+| 免责 | 「判据与坐标尚未经人工标注者独立验证…正确性待社区 ratify」 |
+
+EasyAi（Gitee）：Java 人工智能算法框架，Maven 一键引入、**零额外依赖**，已封装图像目标检测 / 智能客服模块，并提供深度学习 / 机器学习 / 强化学习 / 启发式学习 / 矩阵运算等底层工具。定位是「让每个开发者都能开发符合自己业务的小微模型」。
+
+## 1. 本轮问的是什么
+
+049 / 051 审计了「召回」，结论是：材料内满分属自证，随机坐标库也能召回 ~0.75，判别力有阈值。
+
+但 TACT 对外最显眼的两个数是 **κ = 0.945** 和 **命中 98.2%**。这两个数**没被审计过**。
+
+本轮问：**在它自陈的参数下（117 坐标、5 模型、12 条 synthetic），κ 与命中能否区分「坐标库正确」与「坐标库被一致地置换（即全体用错但用得一样）」？**
+
+## 2. 设计
+
+- K = 117（我方 9 个顶层真因各摊 13 个叶子，9×13=117）
+- R = 5 位评审者（对应 5 家模型），共享同一套坐标库
+- N = 12（匹配其 12 条 synthetic）／29（校准集规模）／104（我方真实失误规模）
+- 评审者行为：以概率 `1-eps` 输出「库映射后的坐标」，以概率 `eps` 输出随机叶子（模拟模型间的真实分歧）
+- **对照条件**：
+  - `correct`：库把文本正确映射到真值叶子
+  - `permuted`：对 117 个叶子做一个**随机双射**。所有评审者共享这个置换 ⇒ 他们依然**彼此同意**，只是全体一致地指向错误的叶子
+- 测量：Fleiss κ（评审者间一致性）＋ **命中真值**（输出是否等于真值叶子——这是外部真值口径，TACT 没有）
+
+## 3. 结果
+
+### 3.1 κ 与命中真值（N=12，匹配其 12 条 synthetic）
+
+| eps | κ 正确 | κ 置换 | 命中真值 正确 | 命中真值 置换 |
+|---|---|---|---|---|
+| 0.00 | 1.0000 | 1.0000 | 1.0000 | 0.0069 |
+| **0.02** | **0.9438** | **0.9463** | **0.9799** | **0.0099** |
+| 0.05 | 0.8647 | 0.8660 | 0.9500 | 0.0086 |
+| 0.10 | 0.7482 | 0.7514 | 0.9010 | 0.0095 |
+| 0.20 | 0.5482 | 0.5528 | 0.8003 | 0.0086 |
+
+N=29 与 N=104 形状完全一致（κ 正确≈置换，命中真值正确 ~0.95–0.98，置换恒 ~0.008 ≈ 1/117）。
+
+### 3.2 匹配档（最硬的一条）
+
+在 **eps = 0.02、N = 12** 处，本模型复现出了对方报告的两个数：
+
+```
+κ      正确库 0.9438  置换库 0.9463   ← 两者都 ≈ 0.945，差 0.0025（噪声内）
+命中   正确库 0.9799  置换库 0.0099   ← 差 99 倍
+```
+
+也就是说：**对方报告的 κ=0.945 与 命中 98.2%，正好落在一个「正确库」与「被一致置换的库」完全无法区分的位置。**
+
+## 4. 三条结论
+
+### ① κ 与「命中」衡量的是一致性，不是正确性
+
+Fleiss κ 的定义是「评审者间一致超出机遇的部分」。当所有评审者**共享同一套坐标库**时，对该库做任意置换，评审者之间的**一致结构不变** ⇒ κ 不变。
+
+同理，在库内评估的「命中」（引擎是否给出了一个坐标、评审者是否答得一致）也是内部量，置换下不变。
+
+> **κ 高只证明坐标库「确定性足够强、模型照着做能做得一致」，不证明坐标是真因。**
+
+### ② 这恰好印证了对方自己的免责声明——但读法上会被误用
+
+TACT README 明确写了「尚未经人工标注者独立验证，正确性待社区 ratify」。**这句话是对的。**
+
+问题在于：仓库把 κ 与命中作为「一致性历程 / 诊断信号」公开展示（L κ 0.945 / 命中 98.2%），而这两个数按本轮实测**对正确性零判别力**。读者极易把它们读成「已验证」。
+
+能 ratify 坐标的**只有一套独立于该坐标库的真值标注**。对方自己也知道——所以才征集真实案例。本轮给出了为什么不征集就永远证不了。
+
+### ③ EasyAi 与我们的层次关系（回应「不是有吗」）
+
+EasyAi 是**零依赖、开箱即用、封装好模块**的算法工具箱，位于**使用层**：让开发者用 AI / 造小微模型。
+
+我们做的是**发生层**：让判据、引擎、世界自己演化。二者不重叠。
+
+**结论不变：不重造 EasyAi（使用层已有现成的）；我们要补的是没人给的发生层。** 但有一条可学的工程纪律——若我们的演化引擎要对外可用，应抄 EasyAi 的「零依赖 + 一键引入 + 底层封装」形态。
+
+## 5. 我的失误
+
+本轮无方法性失误。但有一处**必须声明的取值**：eps=0.02 是我**反推**出来以匹配对方 κ=0.945 的，不是独立测量的对方噪声。它只说明「存在这样一档，使两个数同时成立」，不代表对方真实的模型分歧率就是 0.02。
+
+## 6. 局限（不得外推）
+
+- **未拿到 `coordinate_data.json` 与 `calibration_cases.json` 真身**（raw 通道不可达）。本轮是**按 README 参数做的同构模拟**，审计的是「这类指标的性质」，不是对方坐标的具体对错。
+- 置换是**全库双射**（最极端）。真实坐标库更可能是「部分错」，此时命中真值的跌幅会小一些，但 **κ 不变**这个结论不受影响。
+- 「命中真值」在真实 AI 事故分类里**没有公认 ground truth**，所以对方也确实拿不到——这正是他们无法自证的根因。
+- K=117 由我方 9 类摊成 13 叶子构造，与对方真实的 117 个子坐标语义无关。
+
+## 7. 判据核新增
+
+- **第 164 条 · κ 与命中的置换不变性**
+- **第 165 条 · 同 κ 下的正确性塌缩（差 ~99 倍）**
+- **第 166 条 · 现成工具位于使用层，我方位于发生层，不重造**

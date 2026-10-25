@@ -1,1 +1,466 @@
-IiIiQXV0aGVudGljYXRlZCBvcmRpbmFyeSBwcm9qZWN0IGVudmlyb25tZW50cywgb3duZWQgdW50aWwgdGhlIHBhcmVudCBwaXBlIGNsb3Nlcy4iIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IGhtYWMKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAppbXBvcnQgcmUKaW1wb3J0IHNlY3JldHMKaW1wb3J0IHNodXRpbAppbXBvcnQgc2lnbmFsCmltcG9ydCBzb2NrZXQKaW1wb3J0IHN0YXQKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHN5cwppbXBvcnQgdGVtcGZpbGUKaW1wb3J0IHRocmVhZGluZwppbXBvcnQgdGltZQpmcm9tIGh0dHAuc2VydmVyIGltcG9ydCBCYXNlSFRUUFJlcXVlc3RIYW5kbGVyLCBIVFRQU2VydmVyCmZyb20gdXJsbGliLnJlcXVlc3QgaW1wb3J0IFJlcXVlc3QsIGJ1aWxkX29wZW5lciwgUHJveHlIYW5kbGVyLCBIVFRQUmVkaXJlY3RIYW5kbGVyCmZyb20gdXJsbGliLmVycm9yIGltcG9ydCBVUkxFcnJvcgoKZnJvbSBydW50aW1lX3Byb2Nlc3MgaW1wb3J0IFByb2Nlc3NUcmVlCmZyb20gcnVudGltZV9yZXNvdXJjZSBpbXBvcnQgRk9SQklEREVOLCBNQVJLRVIsIG93bmVkX2Rlc3RpbmF0aW9uLCByZXNvdXJjZV9kaWdlc3QKCmNsYXNzIE5vUmVkaXJlY3QoSFRUUFJlZGlyZWN0SGFuZGxlcik6CiAgICBkZWYgcmVkaXJlY3RfcmVxdWVzdChzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHJldHVybiBOb25lCgoKSFRUUCA9IGJ1aWxkX29wZW5lcihQcm94eUhhbmRsZXIoe30pLCBOb1JlZGlyZWN0KCkpCmRlZiBzYWZlX3BhdGgocm9vdCwgcmVsYXRpdmUpOgogICAgaWYgKG5vdCBpc2luc3RhbmNlKHJlbGF0aXZlLCBzdHIpIG9yIG5vdCByZWxhdGl2ZSBvciBQYXRoKHJlbGF0aXZlKS5hbmNob3IKICAgICAgICAgICAgb3IgUGF0aChyZWxhdGl2ZSkuZHJpdmUpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInNvdXJjZSBwYXRocyBtdXN0IGJlIHJlbGF0aXZlIikKICAgIHBhdGggPSByb290IC8gcmVsYXRpdmUKICAgIGlmIGFueShwLmxvd2VyKCkgaW4gRk9SQklEREVOIG9yIHAgPT0gIi4uIiBmb3IgcCBpbiBQYXRoKHJlbGF0aXZlKS5wYXJ0cyk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigicHJpdmF0ZSBvciBlc2NhcGluZyBzb3VyY2UgcGF0aCByZWZ1c2VkIikKICAgIGlmIG5vdCBwYXRoLnJlc29sdmUoKS5pc19yZWxhdGl2ZV90byhyb290KToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJzb3VyY2UgcGF0aCBlc2NhcGVzIGNvbmZpZ3VyZWQgcm9vdCIpCiAgICBjdXJzb3IgPSBwYXRoCiAgICB3aGlsZSBjdXJzb3IgIT0gcm9vdDoKICAgICAgICBpZiBjdXJzb3IuaXNfc3ltbGluaygpIG9yIChoYXNhdHRyKGN1cnNvciwgImlzX2p1bmN0aW9uIikgYW5kIGN1cnNvci5pc19qdW5jdGlvbigpKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigic291cmNlIGxpbmtzIGFyZSB1bnN1cHBvcnRlZCIpCiAgICAgICAgY3Vyc29yID0gY3Vyc29yLnBhcmVudAogICAgcmV0dXJuIHBhdGgKCgpkZWYgc291cmNlX2ZpbGVzKHJvb3QsIGluY2x1ZGVzKToKICAgIGZpbGVzID0ge30KICAgIGZvciByZWwgaW4gaW5jbHVkZXM6CiAgICAgICAgcGF0aCA9IHNhZmVfcGF0aChyb290LCByZWwpCiAgICAgICAgaWYgbm90IHBhdGguZXhpc3RzKCk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImNvbmZpZ3VyZWQgc291cmNlIG1pc3NpbmciKQogICAgICAgIGNhbmRpZGF0ZXMgPSBwYXRoLnJnbG9iKCIqIikgaWYgcGF0aC5pc19kaXIoKSBlbHNlIFtwYXRoXQogICAgICAgIGZvciBjaGlsZCBpbiBjYW5kaWRhdGVzOgogICAgICAgICAgICBuYW1lID0gY2hpbGQucmVsYXRpdmVfdG8ocm9vdCkuYXNfcG9zaXgoKQogICAgICAgICAgICBzYWZlX3BhdGgocm9vdCwgbmFtZSkKICAgICAgICAgICAgaWYgY2hpbGQuaXNfZmlsZSgpOgogICAgICAgICAgICAgICAgZmlsZXNbbmFtZV0gPSBjaGlsZAogICAgaWYgbm90IGZpbGVzOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImVtcHR5IHNvdXJjZSBzbmFwc2hvdCIpCiAgICByZXR1cm4gZmlsZXMKCgpkZWYgZGlnZXN0KGZpbGVzKToKICAgIHJlc3VsdCA9IGhhc2hsaWIuc2hhMjU2KCkKICAgIGZvciBuYW1lLCBwYXRoIGluIHNvcnRlZChmaWxlcy5pdGVtcygpKToKICAgICAgICBjb250ZW50ID0gcGF0aC5yZWFkX2J5dGVzKCkKICAgICAgICByZXN1bHQudXBkYXRlKG5hbWUuZW5jb2RlKCkgKyBiIlwwIiArIHN0cihsZW4oY29udGVudCkpLmVuY29kZSgpICsgYiJcMCIgKyBjb250ZW50KQogICAgcmV0dXJuIHJlc3VsdC5oZXhkaWdlc3QoKQoKCmRlZiB0cmVlX2RpZ2VzdChyb290KToKICAgIHJldHVybiBkaWdlc3Qoc291cmNlX2ZpbGVzKHJvb3QsIFtwLm5hbWUgZm9yIHAgaW4gcm9vdC5pdGVyZGlyKCldKSkKCgpkZWYgcmVtb3ZlX3RyZWUocm9vdCk6CiAgICBkZWYgd3JpdGFibGUoZnVuY3Rpb24sIHBhdGgsIGV4Yyk6CiAgICAgICAgb3MuY2htb2QocGF0aCwgc3RhdC5TX0lXUklURSB8IHN0YXQuU19JUkVBRCkKICAgICAgICBmdW5jdGlvbihwYXRoKQogICAgZGVhZGxpbmUgPSB0aW1lLm1vbm90b25pYygpICsgNQogICAgd2hpbGUgcm9vdC5leGlzdHMoKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNodXRpbC5ybXRyZWUocm9vdCwgb25lcnJvcj13cml0YWJsZSkKICAgICAgICBleGNlcHQgUGVybWlzc2lvbkVycm9yOgogICAgICAgICAgICAjIFdpbmRvd3MgY2FuIHJlcG9ydCB6ZXJvIGpvYiBtZW1iZXJzIGp1c3QgYmVmb3JlIGZpbmFsIGZpbGUgaGFuZGxlcwogICAgICAgICAgICAjIGFyZSByZWxlYXNlZC4gQm91bmQgdGhlIHdhaXQgYW5kIHN1cmZhY2UgYSBwZXJzaXN0ZW50IGNsZWFudXAgZXJyb3IuCiAgICAgICAgICAgIGlmIHRpbWUubW9ub3RvbmljKCkgPj0gZGVhZGxpbmU6CiAgICAgICAgICAgICAgICByYWlzZQogICAgICAgICAgICB0aW1lLnNsZWVwKC4wNSkKCgpkZWYgY29tbWFuZCh2YWx1ZSwgdmFyaWFibGVzKToKICAgIGlmIG5vdCBpc2luc3RhbmNlKHZhbHVlLCBsaXN0KSBvciBub3QgdmFsdWUgb3Igbm90IGFsbChpc2luc3RhbmNlKHMsIHN0cikgYW5kIHMgZm9yIHMgaW4gdmFsdWUpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImNvbW1hbmRzIHJlcXVpcmUgbm9uZW1wdHkgYXJndiBhcnJheXMiKQogICAgYXJndiA9IFtdCiAgICBmb3IgaXRlbSBpbiB2YWx1ZToKICAgICAgICBmb3Iga2V5LCByZXBsYWNlbWVudCBpbiB2YXJpYWJsZXMuaXRlbXMoKToKICAgICAgICAgICAgaXRlbSA9IGl0ZW0ucmVwbGFjZSgieyIgKyBrZXkgKyAifSIsIHJlcGxhY2VtZW50KQogICAgICAgIGFyZ3YuYXBwZW5kKGl0ZW0pCiAgICBleGVjdXRhYmxlID0gc2h1dGlsLndoaWNoKGFyZ3ZbMF0pIG9yIGFyZ3ZbMF0KICAgICMgQSBuYXJyb3cgb3JkaW5hcnkgcnVudGltZSBzdXJmYWNlLiBTY3JpcHRzIHJlbWFpbiB0cnVzdGVkIG9wZXJhdG9yIGNvZGU7CiAgICAjIHRoaXMgaXMgZGVsaWJlcmF0ZWx5IG5vdCBhIHNhbWUtdXNlciBzYW5kYm94IG9yIGEgc2NyaXB0LWNvbnRlbnQgc2Nhbm5lci4KICAgIGlmIG5vdCByZS5mdWxsbWF0Y2gociIoPzpweXRob24oPzpcZCsoPzpcLlxkKykqKT98bm9kZSkoPzpcLmV4ZSk/IiwgUGF0aChleGVjdXRhYmxlKS5uYW1lLmxvd2VyKCkpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIm9ubHkgb3JkaW5hcnkgUHl0aG9uL05vZGUgZXhlY3V0YWJsZXMgYXJlIHN1cHBvcnRlZDsgbm8gc2hlbGxzIG9yIHByb3ZpZGVyIENMSXMiKQogICAgYXJndlswXSA9IGV4ZWN1dGFibGUKICAgIHJldHVybiBhcmd2CgoKY2xhc3MgRW52aXJvbm1lbnRzOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNvbmZpZywgc3RvcHBpbmcpOgogICAgICAgIGlmIGNvbmZpZy5nZXQoInZlcnNpb24iKSAhPSAxIG9yIG5vdCBpc2luc3RhbmNlKGNvbmZpZy5nZXQoInJvb3RzIiksIGRpY3QpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJydW50aW1lIGNvbmZpZyByZXF1aXJlcyB2ZXJzaW9uIDEgYW5kIG5hbWVkIHJvb3RzIikKICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwogICAgICAgIHNlbGYucm9vdHMgPSB7fQogICAgICAgIHNlbGYuYmluZGluZ3MgPSB7fQogICAgICAgIGZvciBuYW1lLCByYXcgaW4gY29uZmlnWyJyb290cyJdLml0ZW1zKCk6CiAgICAgICAgICAgIGJvdW5kID0gaXNpbnN0YW5jZShyYXcsIGRpY3QpCiAgICAgICAgICAgIHBhdGggPSBQYXRoKHJhdy5nZXQoInBhdGgiLCAiIikpIGlmIGJvdW5kIGVsc2UgUGF0aChyYXcpCiAgICAgICAgICAgIGlmIG5vdCBwYXRoLmlzX2Fic29sdXRlKCkgb3IgcGF0aC5pc19zeW1saW5rKCkgb3IgKG5vdCBib3VuZCBhbmQgbm90IHBhdGguaXNfZGlyKCkpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigicm9vdHMgbXVzdCBiZSBleHBsaWNpdCBhYnNvbHV0ZSBkaXJlY3RvcmllcyIpCiAgICAgICAgICAgIHBhdGggPSBwYXRoLnJlc29sdmUoKQogICAgICAgICAgICBpZiBib3VuZDoKICAgICAgICAgICAgICAgIGlmIHNldChyYXcpICE9IHsicGF0aCIsICJiaW5kaW5nIn0gb3IgcmF3WyJiaW5kaW5nIl0gIT0gTUFSS0VSOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImJvdW5kIHJvb3RzIHJlcXVpcmUgcGF0aCBhbmQgLmZhY3RvcnktcmVzb3VyY2UuanNvbiBiaW5kaW5nIikKICAgICAgICAgICAgICAgIHNlbGYuYmluZGluZ3NbbmFtZV0gPSBUcnVlCiAgICAgICAgICAgIHNlbGYucm9vdHNbbmFtZV0gPSBwYXRoCiAgICAgICAgc2VsZi5zdG9wcGluZyA9IHN0b3BwaW5nCiAgICAgICAgc2VsZi5iYXNlID0gUGF0aCh0ZW1wZmlsZS5ta2R0ZW1wKHByZWZpeD0iZmFjdG9yeS1ydW50aW1lLSIpKQogICAgICAgIHNlbGYuYWN0aXZlID0ge30KICAgICAgICBzZWxmLnVzZWRfcG9ydHMgPSBzZXQoKQoKICAgIGRlZiB0ZWFyZG93bihzZWxmLCBzbG90KToKICAgICAgICBpdGVtID0gc2VsZi5hY3RpdmUuZ2V0KHNsb3QpCiAgICAgICAgaWYgaXRlbToKICAgICAgICAgICAgZm9yIHByb2MgaW4gcmV2ZXJzZWQoaXRlbVsicHJvY2Vzc2VzIl0pOgogICAgICAgICAgICAgICAgcHJvYy5jbG9zZSgpCiAgICAgICAgICAgIHJlbW92ZV90cmVlKGl0ZW1bImRpcmVjdG9yeSJdKQogICAgICAgICAgICBkZWwgc2VsZi5hY3RpdmVbc2xvdF0KICAgICAgICByZXR1cm4geyJ2ZXJzaW9uIjogMSwgInN0b3BwZWQiOiBUcnVlfQoKICAgIGRlZiBjbG9zZShzZWxmKToKICAgICAgICBmb3Igc2xvdCBpbiBsaXN0KHNlbGYuYWN0aXZlKToKICAgICAgICAgICAgc2VsZi50ZWFyZG93bihzbG90KQogICAgICAgIHJlbW92ZV90cmVlKHNlbGYuYmFzZSkKCiAgICBkZWYgc3RhcnQoc2VsZiwgcmVxdWVzdCk6CiAgICAgICAgc2xvdCA9IHJlcXVlc3QuZ2V0KCJzbG90IikKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShzbG90LCBzdHIpIG9yIG5vdCByZS5mdWxsbWF0Y2gociJbYS16QS1aMC05Xy1dezEsODB9Iiwgc2xvdCk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImludmFsaWQgc2xvdCIpCiAgICAgICAgIyBSZXBsYWNlbWVudCBpcyBjbGVhbnVwLWZpcnN0LCBpbmNsdWRpbmcgYSBtYWxmb3JtZWQgcmV0cnkgcmVxdWVzdC4KICAgICAgICBzZWxmLnRlYXJkb3duKHNsb3QpCiAgICAgICAgaWYgc2V0KHJlcXVlc3QpIC0geyJzbG90IiwgInJvb3QiLCAibXV0YXRpb24iLCAiZXhwZWN0ZWRfc291cmNlIiwgImV4cGVjdGVkX3JldmlzaW9uIn06CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInVua25vd24gc3RhcnQgZmllbGRzOyBjb21tYW5kcyBhbmQgcGF0aHMgY2Fubm90IGJlIHN1cHBsaWVkIGJ5IGNhbGxlcnMiKQogICAgICAgIHJvb3QgPSBzZWxmLnJvb3RzLmdldChyZXF1ZXN0LmdldCgicm9vdCIpKQogICAgICAgIGlmIHJvb3QgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigidW5rbm93biBjb25maWd1cmVkIHJvb3QiKQogICAgICAgIGJpbmRpbmcgPSBOb25lCiAgICAgICAgaWYgc2VsZi5iaW5kaW5ncy5nZXQocmVxdWVzdC5nZXQoInJvb3QiKSk6CiAgICAgICAgICAgIGlmIG5vdCBvd25lZF9kZXN0aW5hdGlvbihyb290KToKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImJvdW5kIHJvb3QgaXMgbm90IGFuIG93bmVkIHJ1bnRpbWUgcmVzb3VyY2UiKQogICAgICAgICAgICBiaW5kaW5nID0ganNvbi5sb2Fkcygocm9vdCAvIE1BUktFUikucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgICAgICAgICBleHBlY3RlZF9yZXZpc2lvbiA9IHJlcXVlc3QuZ2V0KCJleHBlY3RlZF9yZXZpc2lvbiIpCiAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGV4cGVjdGVkX3JldmlzaW9uLCBzdHIpIG9yIGV4cGVjdGVkX3JldmlzaW9uICE9IGJpbmRpbmdbInNvdXJjZV9yZXZpc2lvbiJdOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigic3RhbGUgZXhwZWN0ZWQgY2FuZGlkYXRlIHJldmlzaW9uIikKICAgICAgICAgICAgaWYgcmVzb3VyY2VfZGlnZXN0KHJvb3QpICE9IGJpbmRpbmdbInJlc291cmNlX2RpZ2VzdCJdOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigicHJlcGFyZWQgY2FuZGlkYXRlIHJlc291cmNlIGNoYW5nZWQiKQogICAgICAgIGNmZyA9IHNlbGYuY29uZmlnCiAgICAgICAgaWYgY2ZnLmdldCgic2hhcGUiKSBub3QgaW4geyJodHRwIiwgImNsaSIsICJsaWJyYXJ5In06CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInN1cHBvcnRlZCBzaGFwZXM6IGh0dHAsIGNsaSwgbGlicmFyeSIpCiAgICAgICAgb3JpZ2luYWwgPSBzb3VyY2VfZmlsZXMocm9vdCwgY2ZnWyJpbmNsdWRlIl0pCiAgICAgICAgYmVmb3JlID0gZGlnZXN0KG9yaWdpbmFsKQogICAgICAgIGlmIHJlcXVlc3QuZ2V0KCJleHBlY3RlZF9zb3VyY2UiLCBiZWZvcmUpICE9IGJlZm9yZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigic3RhbGUgcmVxdWVzdGVkIHNvdXJjZSIpCiAgICAgICAgZGlyZWN0b3J5ID0gc2VsZi5iYXNlIC8gc2VjcmV0cy50b2tlbl9oZXgoMTYpCiAgICAgICAgc291cmNlLCBzdGF0ZSA9IGRpcmVjdG9yeSAvICJzb3VyY2UiLCBkaXJlY3RvcnkgLyAic3RhdGUiCiAgICAgICAgc291cmNlLm1rZGlyKHBhcmVudHM9VHJ1ZSkKICAgICAgICBzdGF0ZS5ta2RpcigpCiAgICAgICAgaXRlbSA9IHsiZGlyZWN0b3J5IjogZGlyZWN0b3J5LCAic291cmNlIjogc291cmNlLCAicHJvY2Vzc2VzIjogW119CiAgICAgICAgc2VsZi5hY3RpdmVbc2xvdF0gPSBpdGVtCiAgICAgICAgdHJ5OgogICAgICAgICAgICBmb3IgcmVsLCBwYXRoIGluIG9yaWdpbmFsLml0ZW1zKCk6CiAgICAgICAgICAgICAgICB0YXJnZXQgPSBzb3VyY2UgLyByZWwKICAgICAgICAgICAgICAgIHRhcmdldC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgICAgICAgICAgICAgc2h1dGlsLmNvcHkyKHBhdGgsIHRhcmdldCkKICAgICAgICAgICAgaWYgdHJlZV9kaWdlc3Qoc291cmNlKSAhPSBiZWZvcmUgb3IgZGlnZXN0KHNvdXJjZV9maWxlcyhyb290LCBjZmdbImluY2x1ZGUiXSkpICE9IGJlZm9yZToKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInNvdXJjZSBjaGFuZ2VkIGR1cmluZyBzbmFwc2hvdCIpCiAgICAgICAgICAgIG11dGF0aW9uID0gcmVxdWVzdC5nZXQoIm11dGF0aW9uIikKICAgICAgICAgICAgaWYgbXV0YXRpb246CiAgICAgICAgICAgICAgICBtYXRjaGVzID0gW2QgZm9yIGQgaW4gY2ZnLmdldCgibXV0YXRpb25zIiwgW10pIGlmIGQuZ2V0KCJpZCIpID09IG11dGF0aW9uXQogICAgICAgICAgICAgICAgaWYgbGVuKG1hdGNoZXMpICE9IDE6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigidW5rbm93biBvciBhbWJpZ3VvdXMgbXV0YXRpb24iKQogICAgICAgICAgICAgICAgZGVmZWN0ID0gbWF0Y2hlc1swXQogICAgICAgICAgICAgICAgdGFyZ2V0ID0gc2FmZV9wYXRoKHNvdXJjZSwgZGVmZWN0WyJmaWxlIl0pCiAgICAgICAgICAgICAgICBib2R5ID0gdGFyZ2V0LnJlYWRfYnl0ZXMoKQogICAgICAgICAgICAgICAgZmluZCwgcmVwbGFjZSA9IGRlZmVjdFsiZmluZCJdLmVuY29kZSgpLCBkZWZlY3RbInJlcGxhY2UiXS5lbmNvZGUoKQogICAgICAgICAgICAgICAgaWYgbm90IGZpbmQgb3IgZmluZCA9PSByZXBsYWNlIG9yIGJvZHkuY291bnQoZmluZCkgIT0gMToKICAgICAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJtdXRhdGlvbiByZXF1aXJlcyBhIHVuaXF1ZSBjaGFuZ2luZyBhbmNob3IiKQogICAgICAgICAgICAgICAgdGFyZ2V0LndyaXRlX2J5dGVzKGJvZHkucmVwbGFjZShmaW5kLCByZXBsYWNlLCAxKSkKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoMTAwKToKICAgICAgICAgICAgICAgIHdpdGggc29ja2V0LnNvY2tldCgpIGFzIGxlYXNlOgogICAgICAgICAgICAgICAgICAgIGxlYXNlLmJpbmQoKCIxMjcuMC4wLjEiLCAwKSkKICAgICAgICAgICAgICAgICAgICBwb3J0ID0gbGVhc2UuZ2V0c29ja25hbWUoKVsxXQogICAgICAgICAgICAgICAgaWYgcG9ydCBub3QgaW4gc2VsZi51c2VkX3BvcnRzOgogICAgICAgICAgICAgICAgICAgIHNlbGYudXNlZF9wb3J0cy5hZGQocG9ydCkKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiY2Fubm90IGFsbG9jYXRlIGEgZnJlc2ggdGFyZ2V0IikKICAgICAgICAgICAgdmFyaWFibGVzID0geyJzb3VyY2UiOiBzdHIoc291cmNlKSwgInN0YXRlIjogc3RyKHN0YXRlKSwgInBvcnQiOiBzdHIocG9ydCksCiAgICAgICAgICAgICAgICAgICAgICAgICAicHl0aG9uIjogc3lzLmV4ZWN1dGFibGV9CiAgICAgICAgICAgIGVudiA9IHtrOiB2IGZvciBrLCB2IGluIG9zLmVudmlyb24uaXRlbXMoKSBpZiBrLnVwcGVyKCkgaW4KICAgICAgICAgICAgICAgICAgIHsiUEFUSCIsICJTWVNURU1ST09UIiwgIldJTkRJUiIsICJDT01TUEVDIiwgIlBBVEhFWFQiLCAiTEFORyJ9fQogICAgICAgICAgICBlbnYudXBkYXRlKHsiSE9NRSI6IHN0cihzdGF0ZSksICJVU0VSUFJPRklMRSI6IHN0cihzdGF0ZSksICJUTVAiOiBzdHIoc3RhdGUpLAogICAgICAgICAgICAgICAgICAgICAgICAiVEVNUCI6IHN0cihzdGF0ZSksICJUTVBESVIiOiBzdHIoc3RhdGUpLCAiUFlUSE9ORE9OVFdSSVRFQllURUNPREUiOiAiMSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJGQUNUT1JZX1JVTlRJTUVfU1RBVEUiOiBzdHIoc3RhdGUpLCAiRkFDVE9SWV9SVU5USU1FX1BPUlQiOiBzdHIocG9ydCl9KQogICAgICAgICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBjZmcuZ2V0KCJlbnYiLCB7fSkuaXRlbXMoKToKICAgICAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHZhbHVlLCBzdHIpIG9yIGtleS5zdGFydHN3aXRoKCJGQUNUT1JZX1JVTlRJTUVfIik6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiaW52YWxpZCBlbnZpcm9ubWVudCBjb25maWd1cmF0aW9uIikKICAgICAgICAgICAgICAgIGZvciB2YXIsIHJlcGxhY2VtZW50IGluIHZhcmlhYmxlcy5pdGVtcygpOgogICAgICAgICAgICAgICAgICAgIHZhbHVlID0gdmFsdWUucmVwbGFjZSgieyIgKyB2YXIgKyAifSIsIHJlcGxhY2VtZW50KQogICAgICAgICAgICAgICAgZW52W2tleV0gPSB2YWx1ZQogICAgICAgICAgICB0aW1lb3V0ID0gZmxvYXQoY2ZnLmdldCgidGltZW91dF9zIiwgMzApKQogICAgICAgICAgICBpZiBub3QgMCA8IHRpbWVvdXQgPD0gMzAwOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigidGltZW91dF9zIG11c3QgYmUgYmV0d2VlbiAwIGFuZCAzMDAiKQogICAgICAgICAgICBpZiBjZmcuZ2V0KCJzZXR1cCIpOgogICAgICAgICAgICAgICAgc2V0dXAgPSBQcm9jZXNzVHJlZShjb21tYW5kKGNmZ1sic2V0dXAiXSwgdmFyaWFibGVzKSwgc291cmNlLCBlbnYpCiAgICAgICAgICAgICAgICBpdGVtWyJwcm9jZXNzZXMiXS5hcHBlbmQoc2V0dXApCiAgICAgICAgICAgICAgICBzZWxmLndhaXRfZXhpdChzZXR1cCwgdGltZW91dCkKICAgICAgICAgICAgICAgIGlmIHNldHVwLnByb2MucmV0dXJuY29kZSAhPSAwOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInByb2plY3Qgc2V0dXAgZmFpbGVkIChvdXRwdXQgd2l0aGhlbGQpIikKICAgICAgICAgICAgICAgIHNldHVwLmNsb3NlKCkKICAgICAgICAgICAgICAgIGl0ZW1bInByb2Nlc3NlcyJdLnJlbW92ZShzZXR1cCkKICAgICAgICAgICAgYWN0dWFsID0gdHJlZV9kaWdlc3Qoc291cmNlKQogICAgICAgICAgICBhcmd2ID0gY29tbWFuZChjZmdbImNvbW1hbmQiXSwgdmFyaWFibGVzKQogICAgICAgICAgICBpZGVudGl0eSA9ICJmYWN0b3J5LXYxOiIgKyBoYXNobGliLnNoYTI1Nihqc29uLmR1bXBzKAogICAgICAgICAgICAgICAgeyJzb3VyY2UiOiBhY3R1YWwsICJhcmd2IjogYXJndiwgImVudiI6IGVudn0sIHNvcnRfa2V5cz1UcnVlKS5lbmNvZGUoKSkuaGV4ZGlnZXN0KCkKICAgICAgICAgICAgZW52WyJGQUNUT1JZX1JVTlRJTUVfQ0FORElEQVRFIl0gPSBpZGVudGl0eQogICAgICAgICAgICBmb3IgcGF0aCBpbiBzb3VyY2Uucmdsb2IoIioiKToKICAgICAgICAgICAgICAgIGlmIHBhdGguaXNfZmlsZSgpOgogICAgICAgICAgICAgICAgICAgIHBhdGguY2htb2Qoc3RhdC5TX0lSRUFEKQogICAgICAgICAgICBwcm9jID0gUHJvY2Vzc1RyZWUoYXJndiwgc291cmNlLCBlbnYpCiAgICAgICAgICAgIGl0ZW1bInByb2Nlc3NlcyJdLmFwcGVuZChwcm9jKQogICAgICAgICAgICBpdGVtLnVwZGF0ZShjYW5kaWRhdGU9aWRlbnRpdHksIGRpZ2VzdD1hY3R1YWwsIHByb2M9cHJvYywgc2hhcGU9Y2ZnWyJzaGFwZSJdLAogICAgICAgICAgICAgICAgICAgICAgICB0YXJnZXQ9ZiJodHRwOi8vMTI3LjAuMC4xOntwb3J0fSIsIG9yaWdpbmFsPWJlZm9yZSwgYmluZGluZz1iaW5kaW5nKQogICAgICAgICAgICBpZiBjZmdbInNoYXBlIl0gPT0gImh0dHAiOgogICAgICAgICAgICAgICAgZGVhZGxpbmUgPSB0aW1lLm1vbm90b25pYygpICsgdGltZW91dAogICAgICAgICAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgICAgICAgICBpZiBzZWxmLnN0b3BwaW5nLmlzX3NldCgpIG9yIHByb2MucHJvYy5wb2xsKCkgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImFwcCBzdG9wcGVkIGJlZm9yZSByZWFkaW5lc3MiKQogICAgICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5wcm9iZShpdGVtKQogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgICAgIGV4Y2VwdCAoVVJMRXJyb3IsIE9TRXJyb3IsIFZhbHVlRXJyb3IpOgogICAgICAgICAgICAgICAgICAgICAgICBpZiB0aW1lLm1vbm90b25pYygpID49IGRlYWRsaW5lOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiYXBwIHJlYWRpbmVzcy9pZGVudGl0eSByZWZ1c2VkIikgZnJvbSBOb25lCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuc3RvcHBpbmcud2FpdCguMDUpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzZWxmLndhaXRfZXhpdChwcm9jLCB0aW1lb3V0KQogICAgICAgICAgICAgICAgaXRlbVsiZXhpdF9jb2RlIl0gPSBwcm9jLnByb2MucmV0dXJuY29kZQogICAgICAgICAgICAgICAgcHJvYy5jbG9zZSgpICAjIGluY2x1ZGVzIGRlc2NlbmRhbnRzIG9mIGZpbml0ZSBjb21tYW5kcwogICAgICAgICAgICByZXR1cm4gc2VsZi5pZGVudGl0eShzbG90KQogICAgICAgIGV4Y2VwdCBCYXNlRXhjZXB0aW9uOgogICAgICAgICAgICBzZWxmLnRlYXJkb3duKHNsb3QpCiAgICAgICAgICAgIHJhaXNlCgogICAgZGVmIHdhaXRfZXhpdChzZWxmLCBwcm9jLCB0aW1lb3V0KToKICAgICAgICBkZWFkbGluZSA9IHRpbWUubW9ub3RvbmljKCkgKyB0aW1lb3V0CiAgICAgICAgd2hpbGUgcHJvYy5wcm9jLnBvbGwoKSBpcyBOb25lOgogICAgICAgICAgICBpZiBzZWxmLnN0b3BwaW5nLndhaXQoLjA1KSBvciB0aW1lLm1vbm90b25pYygpID49IGRlYWRsaW5lOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigicHJvamVjdCBjb21tYW5kIGNhbmNlbGxlZCBvciB0aW1lZCBvdXQiKQoKICAgIGRlZiBwcm9iZShzZWxmLCBpdGVtKToKICAgICAgICBpZiBpdGVtWyJwcm9jIl0ucHJvYy5wb2xsKCkgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIm93bmVkIGFwcCBpcyBkZWFkIikKICAgICAgICBmb3Iga2V5IGluICgiaGVhbHRoX3BhdGgiLCAiaWRlbnRpdHlfcGF0aCIpOgogICAgICAgICAgICBwYXRoID0gc2VsZi5jb25maWcuZ2V0KGtleSkKICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UocGF0aCwgc3RyKSBvciBub3QgcGF0aC5zdGFydHN3aXRoKCIvIikgb3IgcGF0aC5zdGFydHN3aXRoKCIvLyIpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiSFRUUCByZXF1aXJlcyBoZWFsdGhfcGF0aCBhbmQgaWRlbnRpdHlfcGF0aCIpCiAgICAgICAgICAgIHdpdGggSFRUUC5vcGVuKGl0ZW1bInRhcmdldCJdICsgcGF0aCwgdGltZW91dD0uNSkgYXMgcmVzcG9uc2U6CiAgICAgICAgICAgICAgICBpZiByZXNwb25zZS5nZXR1cmwoKSAhPSBpdGVtWyJ0YXJnZXQiXSArIHBhdGggb3IgcmVzcG9uc2Uuc3RhdHVzICE9IDIwMDoKICAgICAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJyZWRpcmVjdGVkIG9yIHVuaGVhbHRoeSB0YXJnZXQiKQogICAgICAgICAgICAgICAgYm9keSA9IHJlc3BvbnNlLnJlYWQoNjU1MzcpLmRlY29kZSgidXRmLTgiKQogICAgICAgICAgICBpZiBrZXkgPT0gImlkZW50aXR5X3BhdGgiIGFuZCBib2R5LnN0cmlwKCkgIT0gaXRlbVsiY2FuZGlkYXRlIl06CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ3cm9uZyB0YXJnZXQgaWRlbnRpdHkiKQogICAgICAgIGlmIGl0ZW1bInByb2MiXS5wcm9jLnBvbGwoKSBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigib3duZWQgYXBwIGRpZWQgZHVyaW5nIHByb2JlIikKCiAgICBkZWYgaWRlbnRpdHkoc2VsZiwgc2xvdCk6CiAgICAgICAgaXRlbSA9IHNlbGYuYWN0aXZlLmdldChzbG90KQogICAgICAgIGlmIG5vdCBpdGVtIG9yIHRyZWVfZGlnZXN0KGl0ZW1bInNvdXJjZSJdKSAhPSBpdGVtWyJkaWdlc3QiXToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigibWlzc2luZyBvciBjaGFuZ2VkIGNhbmRpZGF0ZSBzbmFwc2hvdCIpCiAgICAgICAgaWYgaXRlbVsic2hhcGUiXSA9PSAiaHR0cCI6CiAgICAgICAgICAgIHNlbGYucHJvYmUoaXRlbSkKICAgICAgICAgICAgaWYgdHJlZV9kaWdlc3QoaXRlbVsic291cmNlIl0pICE9IGl0ZW1bImRpZ2VzdCJdOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiY2FuZGlkYXRlIGNoYW5nZWQgZHVyaW5nIHByb2JlIikKICAgICAgICByZXN1bHQgPSB7InZlcnNpb24iOiAxLCAic2xvdCI6IHNsb3QsICJjYW5kaWRhdGUiOiBpdGVtWyJjYW5kaWRhdGUiXSwKICAgICAgICAgICAgICAgICJzb3VyY2VfZGlnZXN0IjogaXRlbVsiZGlnZXN0Il0sICJpbnB1dF9kaWdlc3QiOiBpdGVtWyJvcmlnaW5hbCJdLAogICAgICAgICAgICAgICAgInNoYXBlIjogaXRlbVsic2hhcGUiXSwgInRhcmdldCI6IGl0ZW1bInRhcmdldCJdIGlmIGl0ZW1bInNoYXBlIl0gPT0gImh0dHAiIGVsc2UgTm9uZSwKICAgICAgICAgICAgICAgICJleGl0X2NvZGUiOiBpdGVtLmdldCgiZXhpdF9jb2RlIiksICJzbmFwc2hvdCI6IHN0cihpdGVtWyJzb3VyY2UiXSksCiAgICAgICAgICAgICAgICAic3RhdGUiOiBzdHIoaXRlbVsiZGlyZWN0b3J5Il0gLyAic3RhdGUiKX0KICAgICAgICBpZiBpdGVtWyJiaW5kaW5nIl06CiAgICAgICAgICAgIHJlc3VsdC51cGRhdGUoc291cmNlX3JldmlzaW9uPWl0ZW1bImJpbmRpbmciXVsic291cmNlX3JldmlzaW9uIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlX3RyZWU9aXRlbVsiYmluZGluZyJdWyJzb3VyY2VfdHJlZSJdLAogICAgICAgICAgICAgICAgICAgICAgICAgIHJlc291cmNlX2RpZ2VzdD1pdGVtWyJiaW5kaW5nIl1bInJlc291cmNlX2RpZ2VzdCJdKQogICAgICAgIHJldHVybiByZXN1bHQKCgpkZWYgc2VydmUoY29uZmlnKToKICAgIHN0b3BwaW5nID0gdGhyZWFkaW5nLkV2ZW50KCkKICAgIG1hbmFnZXIgPSBFbnZpcm9ubWVudHMoY29uZmlnLCBzdG9wcGluZykKICAgIHRva2VuID0gc2VjcmV0cy50b2tlbl91cmxzYWZlKDMyKQogICAgY2xhc3MgSGFuZGxlcihCYXNlSFRUUFJlcXVlc3RIYW5kbGVyKToKICAgICAgICBkZWYgbG9nX21lc3NhZ2Uoc2VsZiwgKmFyZ3MpOgogICAgICAgICAgICBwYXNzCgogICAgICAgIGRlZiBkb19QT1NUKHNlbGYpOgogICAgICAgICAgICBzZWxmLmNvbm5lY3Rpb24uc2V0dGltZW91dCgyKQogICAgICAgICAgICBpZiBub3QgaG1hYy5jb21wYXJlX2RpZ2VzdChzZWxmLmhlYWRlcnMuZ2V0KCJBdXRob3JpemF0aW9uIiwgIiIpLCAiQmVhcmVyICIgKyB0b2tlbik6CiAgICAgICAgICAgICAgICBzZWxmLnNlbmRfZXJyb3IoNDAzKQogICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGxlbmd0aCA9IGludChzZWxmLmhlYWRlcnMuZ2V0KCJDb250ZW50LUxlbmd0aCIsICIwIikpCiAgICAgICAgICAgICAgICBpZiBub3QgMCA8IGxlbmd0aCA8PSAxNjM4NDoKICAgICAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJpbnZhbGlkIHJlcXVlc3Qgc2l6ZSIpCiAgICAgICAgICAgICAgICBkYXRhID0ganNvbi5sb2FkcyhzZWxmLnJmaWxlLnJlYWQobGVuZ3RoKSkKICAgICAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGRhdGEsIGRpY3QpOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInJlcXVlc3QgbXVzdCBiZSBhbiBvYmplY3QiKQogICAgICAgICAgICAgICAgaWYgc2VsZi5wYXRoIGluIHsiL3NldHVwIiwgIi9zdGFydCJ9OgogICAgICAgICAgICAgICAgICAgICMgc2V0dXAgaXMgYSBjbGVhbnVwIGJvdW5kYXJ5OyBzdGFydCBwZXJmb3JtcyBwcm92aXNpb25pbmcgYXRvbWljYWxseS4KICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBtYW5hZ2VyLnRlYXJkb3duKGRhdGFbInNsb3QiXSkgaWYgc2VsZi5wYXRoID09ICIvc2V0dXAiIGVsc2UgbWFuYWdlci5zdGFydChkYXRhKQogICAgICAgICAgICAgICAgZWxpZiBzZWxmLnBhdGggPT0gIi90ZWFyZG93biI6CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gbWFuYWdlci50ZWFyZG93bihkYXRhWyJzbG90Il0pCiAgICAgICAgICAgICAgICBlbGlmIHNlbGYucGF0aCA9PSAiL2lkZW50aXR5IjoKICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBtYW5hZ2VyLmlkZW50aXR5KGRhdGFbInNsb3QiXSkKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigidW5rbm93biBvcGVyYXRpb24iKQogICAgICAgICAgICAgICAgc3RhdHVzID0gMjAwCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICAjIE5ldmVyIGVjaG8gY2FsbGVyIHRleHQsIHByb2plY3Qgb3V0cHV0LCBwYXRocyBvciBzZWNyZXRzIG9uIGZhaWx1cmUuCiAgICAgICAgICAgICAgICBmb3Igc2xvdCBpbiBsaXN0KG1hbmFnZXIuYWN0aXZlKToKICAgICAgICAgICAgICAgICAgICBtYW5hZ2VyLnRlYXJkb3duKHNsb3QpCiAgICAgICAgICAgICAgICBzdGF0dXMsIHJlc3VsdCA9IDQwMCwgeyJlcnJvciI6ICJydW50aW1lIHJlcXVlc3QgcmVmdXNlZDsgYWN0aXZlIGVudmlyb25tZW50cyBjbGVhbmVkIn0KICAgICAgICAgICAgcGF5bG9hZCA9IGpzb24uZHVtcHMocmVzdWx0KS5lbmNvZGUoKQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzZWxmLnNlbmRfcmVzcG9uc2Uoc3RhdHVzKQogICAgICAgICAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQogICAgICAgICAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiQ29udGVudC1MZW5ndGgiLCBzdHIobGVuKHBheWxvYWQpKSkKICAgICAgICAgICAgICAgIHNlbGYuZW5kX2hlYWRlcnMoKQogICAgICAgICAgICAgICAgc2VsZi53ZmlsZS53cml0ZShwYXlsb2FkKQogICAgICAgICAgICBleGNlcHQgKEJyb2tlblBpcGVFcnJvciwgQ29ubmVjdGlvblJlc2V0RXJyb3IpOgogICAgICAgICAgICAgICAgcGFzcwoKICAgIGRlZiBwYXJlbnRfcGlwZSgpOgogICAgICAgIHN5cy5zdGRpbi5idWZmZXIucmVhZCgpCiAgICAgICAgc3RvcHBpbmcuc2V0KCkKICAgIHRocmVhZGluZy5UaHJlYWQodGFyZ2V0PXBhcmVudF9waXBlLCBkYWVtb249VHJ1ZSkuc3RhcnQoKQogICAgZm9yIHNpZ251bSBpbiAoc2lnbmFsLlNJR0lOVCwgc2lnbmFsLlNJR1RFUk0pOgogICAgICAgIHNpZ25hbC5zaWduYWwoc2lnbnVtLCBsYW1iZGEgKl86IHN0b3BwaW5nLnNldCgpKQogICAgc2VydmVyID0gTm9uZQogICAgdHJ5OgogICAgICAgIHNlcnZlciA9IEhUVFBTZXJ2ZXIoKCIxMjcuMC4wLjEiLCAwKSwgSGFuZGxlcikKICAgICAgICBzZXJ2ZXIudGltZW91dCA9IC4yCiAgICAgICAgIyBQcml2YXRlIGhhbmRzaGFrZSBvdmVyIGEgcGlwZS4gUGFyZW50IGV4aXQgaGVyZSBtdXN0IGFsc28gY2xlYW4gdXAuCiAgICAgICAgcHJpbnQoanNvbi5kdW1wcyh7InVybCI6IGYiaHR0cDovLzEyNy4wLjAuMTp7c2VydmVyLnNlcnZlcl9wb3J0fSIsICJ0b2tlbiI6IHRva2VufSksIGZsdXNoPVRydWUpCiAgICAgICAgd2hpbGUgbm90IHN0b3BwaW5nLmlzX3NldCgpOgogICAgICAgICAgICBzZXJ2ZXIuaGFuZGxlX3JlcXVlc3QoKQogICAgZmluYWxseToKICAgICAgICBpZiBzZXJ2ZXI6CiAgICAgICAgICAgIHNlcnZlci5zZXJ2ZXJfY2xvc2UoKQogICAgICAgIG1hbmFnZXIuY2xvc2UoKQoKCmNsYXNzIFJ1bnRpbWVIb3N0OgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNvbmZpZyk6CiAgICAgICAgc2VsZi5jb25maWcgPSBQYXRoKGNvbmZpZykucmVzb2x2ZSgpCgogICAgZGVmIF9fZW50ZXJfXyhzZWxmKToKICAgICAgICBzZWxmLnByb2MgPSBzdWJwcm9jZXNzLlBvcGVuKFtzeXMuZXhlY3V0YWJsZSwgc3RyKFBhdGgoX19maWxlX18pLnJlc29sdmUoKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIl9zZXJ2ZSIsIHN0cihzZWxmLmNvbmZpZyldLCBzdGRpbj1zdWJwcm9jZXNzLlBJUEUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCBzdGRlcnI9c3VicHJvY2Vzcy5ERVZOVUxMLCBjbG9zZV9mZHM9VHJ1ZSkKICAgICAgICBsaW5lID0gc2VsZi5wcm9jLnN0ZG91dC5yZWFkbGluZSgpCiAgICAgICAgaWYgbm90IGxpbmU6CiAgICAgICAgICAgIHNlbGYucHJvYy5zdGRpbi5jbG9zZSgpCiAgICAgICAgICAgIHNlbGYucHJvYy53YWl0KHRpbWVvdXQ9MTUpCiAgICAgICAgICAgIHNlbGYucHJvYy5zdGRvdXQuY2xvc2UoKQogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJydW50aW1lIGhvc3QgY29uZmlndXJhdGlvbiByZWZ1c2VkIikKICAgICAgICBzZWxmLmNvbm5lY3Rpb24gPSBqc29uLmxvYWRzKGxpbmUpCiAgICAgICAgcmV0dXJuIHNlbGYKCiAgICBkZWYgZW52aXJvbm1lbnQoc2VsZik6CiAgICAgICAgcmV0dXJuIHsiRkFDVE9SWV9SVU5USU1FX1VSTCI6IHNlbGYuY29ubmVjdGlvblsidXJsIl0sCiAgICAgICAgICAgICAgICAiRkFDVE9SWV9SVU5USU1FX1RPS0VOIjogc2VsZi5jb25uZWN0aW9uWyJ0b2tlbiJdfQoKICAgIGRlZiBfX2V4aXRfXyhzZWxmLCAqZXhjKToKICAgICAgICBzZWxmLnByb2Muc3RkaW4uY2xvc2UoKQogICAgICAgIHJjID0gc2VsZi5wcm9jLndhaXQodGltZW91dD0zMCkKICAgICAgICBzZWxmLnByb2Muc3Rkb3V0LmNsb3NlKCkKICAgICAgICBpZiByYzoKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJydW50aW1lIG93bmVyIGNsZWFudXAgZmFpbGVkIikKCgpkZWYgcmVxdWVzdChhY3Rpb24sIGRhdGEsIGNvbm5lY3Rpb249Tm9uZSk6CiAgICBjb25uZWN0aW9uID0gY29ubmVjdGlvbiBvciB7InVybCI6IG9zLmVudmlyb25bIkZBQ1RPUllfUlVOVElNRV9VUkwiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidG9rZW4iOiBvcy5lbnZpcm9uWyJGQUNUT1JZX1JVTlRJTUVfVE9LRU4iXX0KICAgICMgRW52aXJvbm1lbnQgaXMgdHJ1c3RlZCwgYnV0IGNyZWRlbnRpYWxzIG11c3QgbmV2ZXIgYmUgc2VudCB0byByZW1vdGUgaG9zdHMuCiAgICBpZiBub3QgcmUuZnVsbG1hdGNoKHIiaHR0cDovLzEyN1wuMFwuMFwuMTpbMC05XSsiLCBjb25uZWN0aW9uWyJ1cmwiXSk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigicnVudGltZSBjb250cm9sIG11c3QgYmUgbG9vcGJhY2siKQogICAgcmVxID0gUmVxdWVzdChjb25uZWN0aW9uWyJ1cmwiXSArICIvIiArIGFjdGlvbiwgZGF0YT1qc29uLmR1bXBzKGRhdGEpLmVuY29kZSgpLAogICAgICAgICAgICAgICAgICBoZWFkZXJzPXsiQXV0aG9yaXphdGlvbiI6ICJCZWFyZXIgIiArIGNvbm5lY3Rpb25bInRva2VuIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiJ9KQogICAgd2l0aCBIVFRQLm9wZW4ocmVxLCB0aW1lb3V0PTMxMCkgYXMgcmVzcG9uc2U6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZChyZXNwb25zZSkKCgpkZWYgbWFpbihhcmd2PU5vbmUpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249X19kb2NfXykKICAgIHN1YiA9IHBhcnNlci5hZGRfc3VicGFyc2VycyhkZXN0PSJhY3Rpb24iLCByZXF1aXJlZD1UcnVlKQogICAgc2VydmVfcGFyc2VyID0gc3ViLmFkZF9wYXJzZXIoIl9zZXJ2ZSIsIGhlbHA9YXJncGFyc2UuU1VQUFJFU1MpCiAgICBzZXJ2ZV9wYXJzZXIuYWRkX2FyZ3VtZW50KCJjb25maWciKQogICAgbWFudWFsID0gc3ViLmFkZF9wYXJzZXIoInNlcnZlIiwgaGVscD0iZm9yZWdyb3VuZCBvd25lcjsgY3JlZGVudGlhbHMgZ28gdG8gYSBwcml2YXRlIGNvbm5lY3Rpb24gZmlsZSIpCiAgICBtYW51YWwuYWRkX2FyZ3VtZW50KCItLWNvbmZpZyIsIHJlcXVpcmVkPVRydWUpCiAgICBtYW51YWwuYWRkX2FyZ3VtZW50KCItLWNvbm5lY3Rpb24tZmlsZSIsIHJlcXVpcmVkPVRydWUsIHR5cGU9UGF0aCkKICAgIGZvciBhY3Rpb24gaW4gKCJzZXR1cCIsICJzdGFydCIsICJ0ZWFyZG93biIsICJpZGVudGl0eSIsICJkZXNjcmliZSIpOgogICAgICAgIG5vZGUgPSBzdWIuYWRkX3BhcnNlcihhY3Rpb24pCiAgICAgICAgbm9kZS5hZGRfYXJndW1lbnQoIi0tc2xvdCIsIHJlcXVpcmVkPVRydWUpCiAgICAgICAgbm9kZS5hZGRfYXJndW1lbnQoIi0tY29ubmVjdGlvbi1maWxlIiwgdHlwZT1QYXRoKQogICAgICAgIGlmIGFjdGlvbiA9PSAic3RhcnQiOgogICAgICAgICAgICBub2RlLmFkZF9hcmd1bWVudCgiLS1yb290IiwgcmVxdWlyZWQ9VHJ1ZSkKICAgICAgICAgICAgbm9kZS5hZGRfYXJndW1lbnQoIi0tbXV0YXRpb24iKQogICAgICAgICAgICBub2RlLmFkZF9hcmd1bWVudCgiLS1leHBlY3RlZC1zb3VyY2UiKQogICAgICAgICAgICBub2RlLmFkZF9hcmd1bWVudCgiLS1leHBlY3RlZC1yZXZpc2lvbiIpCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoYXJndikKICAgIHRyeToKICAgICAgICBpZiBhcmdzLmFjdGlvbiA9PSAiX3NlcnZlIjoKICAgICAgICAgICAgc2VydmUoanNvbi5sb2FkcyhQYXRoKGFyZ3MuY29uZmlnKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpKQogICAgICAgIGVsaWYgYXJncy5hY3Rpb24gPT0gInNlcnZlIjoKICAgICAgICAgICAgd2l0aCBSdW50aW1lSG9zdChhcmdzLmNvbmZpZykgYXMgaG9zdDoKICAgICAgICAgICAgICAgICMgRXhjbHVzaXZlIGNyZWF0aW9uIGF2b2lkcyBvdmVyd3JpdGluZyB1c2VyIGRhdGEgb3IgZm9sbG93aW5nIGxpbmtzLgogICAgICAgICAgICAgICAgZmQgPSBvcy5vcGVuKGFyZ3MuY29ubmVjdGlvbl9maWxlLCBvcy5PX1dST05MWSB8IG9zLk9fQ1JFQVQgfCBvcy5PX0VYQ0wsIDBvNjAwKQogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIHdpdGggb3MuZmRvcGVuKGZkLCAidyIpIGFzIHN0cmVhbToKICAgICAgICAgICAgICAgICAgICAgICAganNvbi5kdW1wKGhvc3QuY29ubmVjdGlvbiwgc3RyZWFtKQogICAgICAgICAgICAgICAgICAgIHByaW50KCJSdW50aW1lIG93bmVyIHJlYWR5OyBrZWVwIHRoaXMgcHJvY2VzcyBmb3JlZ3JvdW5kLiIsIGZsdXNoPVRydWUpCiAgICAgICAgICAgICAgICAgICAgc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHVEVSTSwgbGFtYmRhICpfOiAoXyBmb3IgXyBpbiAoKSkudGhyb3coS2V5Ym9hcmRJbnRlcnJ1cHQoKSkpCiAgICAgICAgICAgICAgICAgICAgd2hpbGUgaG9zdC5wcm9jLnBvbGwoKSBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKC4yKQogICAgICAgICAgICAgICAgZmluYWxseToKICAgICAgICAgICAgICAgICAgICBhcmdzLmNvbm5lY3Rpb25fZmlsZS51bmxpbmsobWlzc2luZ19vaz1UcnVlKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGNvbm5lY3Rpb24gPSBqc29uLmxvYWRzKGFyZ3MuY29ubmVjdGlvbl9maWxlLnJlYWRfdGV4dCgpKSBpZiBhcmdzLmNvbm5lY3Rpb25fZmlsZSBlbHNlIE5vbmUKICAgICAgICAgICAgZGF0YSA9IHtrOiB2IGZvciBrLCB2IGluIHZhcnMoYXJncykuaXRlbXMoKQogICAgICAgICAgICAgICAgICAgIGlmIGsgbm90IGluIHsiYWN0aW9uIiwgImNvbm5lY3Rpb25fZmlsZSJ9IGFuZCB2IGlzIG5vdCBOb25lfQogICAgICAgICAgICByZXN1bHQgPSByZXF1ZXN0KCJpZGVudGl0eSIgaWYgYXJncy5hY3Rpb24gPT0gImRlc2NyaWJlIiBlbHNlIGFyZ3MuYWN0aW9uLCBkYXRhLCBjb25uZWN0aW9uKQogICAgICAgICAgICBwcmludChyZXN1bHRbImNhbmRpZGF0ZSJdIGlmIGFyZ3MuYWN0aW9uID09ICJpZGVudGl0eSIgZWxzZSBqc29uLmR1bXBzKHJlc3VsdCkpCiAgICAgICAgcmV0dXJuIDAKICAgIGV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoKICAgICAgICByZXR1cm4gMTMwCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHByaW50KCJSdW50aW1lIGhvc3Qgb3BlcmF0aW9uIGZhaWxlZDsgY2hlY2sgdHJ1c3RlZCBwcm9qZWN0IGNvbmZpZ3VyYXRpb24gYW5kIG93bmVyIGxpdmVuZXNzLiIsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICByZXR1cm4gMQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICByYWlzZSBTeXN0ZW1FeGl0KG1haW4oKSkK
+"""Authenticated ordinary project environments, owned until the parent pipe closes."""
+from __future__ import annotations
+import argparse
+import hashlib
+import hmac
+import json
+import os
+from pathlib import Path
+import re
+import secrets
+import shutil
+import signal
+import socket
+import stat
+import subprocess
+import sys
+import tempfile
+import threading
+import time
+from http.server import BaseHTTPRequestHandler, HTTPServer
+from urllib.request import Request, build_opener, ProxyHandler, HTTPRedirectHandler
+from urllib.error import URLError
+
+from runtime_process import ProcessTree
+from runtime_resource import FORBIDDEN, MARKER, owned_destination, resource_digest
+
+class NoRedirect(HTTPRedirectHandler):
+    def redirect_request(self, *args, **kwargs):
+        return None
+
+
+HTTP = build_opener(ProxyHandler({}), NoRedirect())
+def safe_path(root, relative):
+    if (not isinstance(relative, str) or not relative or Path(relative).anchor
+            or Path(relative).drive):
+        raise ValueError("source paths must be relative")
+    path = root / relative
+    if any(p.lower() in FORBIDDEN or p == ".." for p in Path(relative).parts):
+        raise ValueError("private or escaping source path refused")
+    if not path.resolve().is_relative_to(root):
+        raise ValueError("source path escapes configured root")
+    cursor = path
+    while cursor != root:
+        if cursor.is_symlink() or (hasattr(cursor, "is_junction") and cursor.is_junction()):
+            raise ValueError("source links are unsupported")
+        cursor = cursor.parent
+    return path
+
+
+def source_files(root, includes):
+    files = {}
+    for rel in includes:
+        path = safe_path(root, rel)
+        if not path.exists():
+            raise ValueError("configured source missing")
+        candidates = path.rglob("*") if path.is_dir() else [path]
+        for child in candidates:
+            name = child.relative_to(root).as_posix()
+            safe_path(root, name)
+            if child.is_file():
+                files[name] = child
+    if not files:
+        raise ValueError("empty source snapshot")
+    return files
+
+
+def digest(files):
+    result = hashlib.sha256()
+    for name, path in sorted(files.items()):
+        content = path.read_bytes()
+        result.update(name.encode() + b"\0" + str(len(content)).encode() + b"\0" + content)
+    return result.hexdigest()
+
+
+def tree_digest(root):
+    return digest(source_files(root, [p.name for p in root.iterdir()]))
+
+
+def remove_tree(root):
+    def writable(function, path, exc):
+        os.chmod(path, stat.S_IWRITE | stat.S_IREAD)
+        function(path)
+    deadline = time.monotonic() + 5
+    while root.exists():
+        try:
+            shutil.rmtree(root, onerror=writable)
+        except PermissionError:
+            # Windows can report zero job members just before final file handles
+            # are released. Bound the wait and surface a persistent cleanup error.
+            if time.monotonic() >= deadline:
+                raise
+            time.sleep(.05)
+
+
+def command(value, variables):
+    if not isinstance(value, list) or not value or not all(isinstance(s, str) and s for s in value):
+        raise ValueError("commands require nonempty argv arrays")
+    argv = []
+    for item in value:
+        for key, replacement in variables.items():
+            item = item.replace("{" + key + "}", replacement)
+        argv.append(item)
+    executable = shutil.which(argv[0]) or argv[0]
+    # A narrow ordinary runtime surface. Scripts remain trusted operator code;
+    # this is deliberately not a same-user sandbox or a script-content scanner.
+    if not re.fullmatch(r"(?:python(?:\d+(?:\.\d+)*)?|node)(?:\.exe)?", Path(executable).name.lower()):
+        raise ValueError("only ordinary Python/Node executables are supported; no shells or provider CLIs")
+    argv[0] = executable
+    return argv
+
+
+class Environments:
+    def __init__(self, config, stopping):
+        if config.get("version") != 1 or not isinstance(config.get("roots"), dict):
+            raise ValueError("runtime config requires version 1 and named roots")
+        self.config = config
+        self.roots = {}
+        self.bindings = {}
+        for name, raw in config["roots"].items():
+            bound = isinstance(raw, dict)
+            path = Path(raw.get("path", "")) if bound else Path(raw)
+            if not path.is_absolute() or path.is_symlink() or (not bound and not path.is_dir()):
+                raise ValueError("roots must be explicit absolute directories")
+            path = path.resolve()
+            if bound:
+                if set(raw) != {"path", "binding"} or raw["binding"] != MARKER:
+                    raise ValueError("bound roots require path and .factory-resource.json binding")
+                self.bindings[name] = True
+            self.roots[name] = path
+        self.stopping = stopping
+        self.base = Path(tempfile.mkdtemp(prefix="factory-runtime-"))
+        self.active = {}
+        self.used_ports = set()
+
+    def teardown(self, slot):
+        item = self.active.get(slot)
+        if item:
+            for proc in reversed(item["processes"]):
+                proc.close()
+            remove_tree(item["directory"])
+            del self.active[slot]
+        return {"version": 1, "stopped": True}
+
+    def close(self):
+        for slot in list(self.active):
+            self.teardown(slot)
+        remove_tree(self.base)
+
+    def start(self, request):
+        slot = request.get("slot")
+        if not isinstance(slot, str) or not re.fullmatch(r"[a-zA-Z0-9_-]{1,80}", slot):
+            raise ValueError("invalid slot")
+        # Replacement is cleanup-first, including a malformed retry request.
+        self.teardown(slot)
+        if set(request) - {"slot", "root", "mutation", "expected_source", "expected_revision"}:
+            raise ValueError("unknown start fields; commands and paths cannot be supplied by callers")
+        root = self.roots.get(request.get("root"))
+        if root is None:
+            raise ValueError("unknown configured root")
+        binding = None
+        if self.bindings.get(request.get("root")):
+            if not owned_destination(root):
+                raise ValueError("bound root is not an owned runtime resource")
+            binding = json.loads((root / MARKER).read_text(encoding="utf-8"))
+            expected_revision = request.get("expected_revision")
+            if not isinstance(expected_revision, str) or expected_revision != binding["source_revision"]:
+                raise ValueError("stale expected candidate revision")
+            if resource_digest(root) != binding["resource_digest"]:
+                raise ValueError("prepared candidate resource changed")
+        cfg = self.config
+        if cfg.get("shape") not in {"http", "cli", "library"}:
+            raise ValueError("supported shapes: http, cli, library")
+        original = source_files(root, cfg["include"])
+        before = digest(original)
+        if request.get("expected_source", before) != before:
+            raise ValueError("stale requested source")
+        directory = self.base / secrets.token_hex(16)
+        source, state = directory / "source", directory / "state"
+        source.mkdir(parents=True)
+        state.mkdir()
+        item = {"directory": directory, "source": source, "processes": []}
+        self.active[slot] = item
+        try:
+            for rel, path in original.items():
+                target = source / rel
+                target.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(path, target)
+            if tree_digest(source) != before or digest(source_files(root, cfg["include"])) != before:
+                raise ValueError("source changed during snapshot")
+            mutation = request.get("mutation")
+            if mutation:
+                matches = [d for d in cfg.get("mutations", []) if d.get("id") == mutation]
+                if len(matches) != 1:
+                    raise ValueError("unknown or ambiguous mutation")
+                defect = matches[0]
+                target = safe_path(source, defect["file"])
+                body = target.read_bytes()
+                find, replace = defect["find"].encode(), defect["replace"].encode()
+                if not find or find == replace or body.count(find) != 1:
+                    raise ValueError("mutation requires a unique changing anchor")
+                target.write_bytes(body.replace(find, replace, 1))
+            for _ in range(100):
+                with socket.socket() as lease:
+                    lease.bind(("127.0.0.1", 0))
+                    port = lease.getsockname()[1]
+                if port not in self.used_ports:
+                    self.used_ports.add(port)
+                    break
+            else:
+                raise ValueError("cannot allocate a fresh target")
+            variables = {"source": str(source), "state": str(state), "port": str(port),
+                         "python": sys.executable}
+            env = {k: v for k, v in os.environ.items() if k.upper() in
+                   {"PATH", "SYSTEMROOT", "WINDIR", "COMSPEC", "PATHEXT", "LANG"}}
+            env.update({"HOME": str(state), "USERPROFILE": str(state), "TMP": str(state),
+                        "TEMP": str(state), "TMPDIR": str(state), "PYTHONDONTWRITEBYTECODE": "1",
+                        "FACTORY_RUNTIME_STATE": str(state), "FACTORY_RUNTIME_PORT": str(port)})
+            for key, value in cfg.get("env", {}).items():
+                if not isinstance(value, str) or key.startswith("FACTORY_RUNTIME_"):
+                    raise ValueError("invalid environment configuration")
+                for var, replacement in variables.items():
+                    value = value.replace("{" + var + "}", replacement)
+                env[key] = value
+            timeout = float(cfg.get("timeout_s", 30))
+            if not 0 < timeout <= 300:
+                raise ValueError("timeout_s must be between 0 and 300")
+            if cfg.get("setup"):
+                setup = ProcessTree(command(cfg["setup"], variables), source, env)
+                item["processes"].append(setup)
+                self.wait_exit(setup, timeout)
+                if setup.proc.returncode != 0:
+                    raise ValueError("project setup failed (output withheld)")
+                setup.close()
+                item["processes"].remove(setup)
+            actual = tree_digest(source)
+            argv = command(cfg["command"], variables)
+            identity = "factory-v1:" + hashlib.sha256(json.dumps(
+                {"source": actual, "argv": argv, "env": env}, sort_keys=True).encode()).hexdigest()
+            env["FACTORY_RUNTIME_CANDIDATE"] = identity
+            for path in source.rglob("*"):
+                if path.is_file():
+                    path.chmod(stat.S_IREAD)
+            proc = ProcessTree(argv, source, env)
+            item["processes"].append(proc)
+            item.update(candidate=identity, digest=actual, proc=proc, shape=cfg["shape"],
+                        target=f"http://127.0.0.1:{port}", original=before, binding=binding)
+            if cfg["shape"] == "http":
+                deadline = time.monotonic() + timeout
+                while True:
+                    if self.stopping.is_set() or proc.proc.poll() is not None:
+                        raise ValueError("app stopped before readiness")
+                    try:
+                        self.probe(item)
+                        break
+                    except (URLError, OSError, ValueError):
+                        if time.monotonic() >= deadline:
+                            raise ValueError("app readiness/identity refused") from None
+                        self.stopping.wait(.05)
+            else:
+                self.wait_exit(proc, timeout)
+                item["exit_code"] = proc.proc.returncode
+                proc.close()  # includes descendants of finite commands
+            return self.identity(slot)
+        except BaseException:
+            self.teardown(slot)
+            raise
+
+    def wait_exit(self, proc, timeout):
+        deadline = time.monotonic() + timeout
+        while proc.proc.poll() is None:
+            if self.stopping.wait(.05) or time.monotonic() >= deadline:
+                raise ValueError("project command cancelled or timed out")
+
+    def probe(self, item):
+        if item["proc"].proc.poll() is not None:
+            raise ValueError("owned app is dead")
+        for key in ("health_path", "identity_path"):
+            path = self.config.get(key)
+            if not isinstance(path, str) or not path.startswith("/") or path.startswith("//"):
+                raise ValueError("HTTP requires health_path and identity_path")
+            with HTTP.open(item["target"] + path, timeout=.5) as response:
+                if response.geturl() != item["target"] + path or response.status != 200:
+                    raise ValueError("redirected or unhealthy target")
+                body = response.read(65537).decode("utf-8")
+            if key == "identity_path" and body.strip() != item["candidate"]:
+                raise ValueError("wrong target identity")
+        if item["proc"].proc.poll() is not None:
+            raise ValueError("owned app died during probe")
+
+    def identity(self, slot):
+        item = self.active.get(slot)
+        if not item or tree_digest(item["source"]) != item["digest"]:
+            raise ValueError("missing or changed candidate snapshot")
+        if item["shape"] == "http":
+            self.probe(item)
+            if tree_digest(item["source"]) != item["digest"]:
+                raise ValueError("candidate changed during probe")
+        result = {"version": 1, "slot": slot, "candidate": item["candidate"],
+                "source_digest": item["digest"], "input_digest": item["original"],
+                "shape": item["shape"], "target": item["target"] if item["shape"] == "http" else None,
+                "exit_code": item.get("exit_code"), "snapshot": str(item["source"]),
+                "state": str(item["directory"] / "state")}
+        if item["binding"]:
+            result.update(source_revision=item["binding"]["source_revision"],
+                          source_tree=item["binding"]["source_tree"],
+                          resource_digest=item["binding"]["resource_digest"])
+        return result
+
+
+def serve(config):
+    stopping = threading.Event()
+    manager = Environments(config, stopping)
+    token = secrets.token_urlsafe(32)
+    class Handler(BaseHTTPRequestHandler):
+        def log_message(self, *args):
+            pass
+
+        def do_POST(self):
+            self.connection.settimeout(2)
+            if not hmac.compare_digest(self.headers.get("Authorization", ""), "Bearer " + token):
+                self.send_error(403)
+                return
+            try:
+                length = int(self.headers.get("Content-Length", "0"))
+                if not 0 < length <= 16384:
+                    raise ValueError("invalid request size")
+                data = json.loads(self.rfile.read(length))
+                if not isinstance(data, dict):
+                    raise ValueError("request must be an object")
+                if self.path in {"/setup", "/start"}:
+                    # setup is a cleanup boundary; start performs provisioning atomically.
+                    result = manager.teardown(data["slot"]) if self.path == "/setup" else manager.start(data)
+                elif self.path == "/teardown":
+                    result = manager.teardown(data["slot"])
+                elif self.path == "/identity":
+                    result = manager.identity(data["slot"])
+                else:
+                    raise ValueError("unknown operation")
+                status = 200
+            except Exception:
+                # Never echo caller text, project output, paths or secrets on failure.
+                for slot in list(manager.active):
+                    manager.teardown(slot)
+                status, result = 400, {"error": "runtime request refused; active environments cleaned"}
+            payload = json.dumps(result).encode()
+            try:
+                self.send_response(status)
+                self.send_header("Content-Type", "application/json")
+                self.send_header("Content-Length", str(len(payload)))
+                self.end_headers()
+                self.wfile.write(payload)
+            except (BrokenPipeError, ConnectionResetError):
+                pass
+
+    def parent_pipe():
+        sys.stdin.buffer.read()
+        stopping.set()
+    threading.Thread(target=parent_pipe, daemon=True).start()
+    for signum in (signal.SIGINT, signal.SIGTERM):
+        signal.signal(signum, lambda *_: stopping.set())
+    server = None
+    try:
+        server = HTTPServer(("127.0.0.1", 0), Handler)
+        server.timeout = .2
+        # Private handshake over a pipe. Parent exit here must also clean up.
+        print(json.dumps({"url": f"http://127.0.0.1:{server.server_port}", "token": token}), flush=True)
+        while not stopping.is_set():
+            server.handle_request()
+    finally:
+        if server:
+            server.server_close()
+        manager.close()
+
+
+class RuntimeHost:
+    def __init__(self, config):
+        self.config = Path(config).resolve()
+
+    def __enter__(self):
+        self.proc = subprocess.Popen([sys.executable, str(Path(__file__).resolve()),
+                                      "_serve", str(self.config)], stdin=subprocess.PIPE,
+                                     stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, close_fds=True)
+        line = self.proc.stdout.readline()
+        if not line:
+            self.proc.stdin.close()
+            self.proc.wait(timeout=15)
+            self.proc.stdout.close()
+            raise ValueError("runtime host configuration refused")
+        self.connection = json.loads(line)
+        return self
+
+    def environment(self):
+        return {"FACTORY_RUNTIME_URL": self.connection["url"],
+                "FACTORY_RUNTIME_TOKEN": self.connection["token"]}
+
+    def __exit__(self, *exc):
+        self.proc.stdin.close()
+        rc = self.proc.wait(timeout=30)
+        self.proc.stdout.close()
+        if rc:
+            raise RuntimeError("runtime owner cleanup failed")
+
+
+def request(action, data, connection=None):
+    connection = connection or {"url": os.environ["FACTORY_RUNTIME_URL"],
+                                "token": os.environ["FACTORY_RUNTIME_TOKEN"]}
+    # Environment is trusted, but credentials must never be sent to remote hosts.
+    if not re.fullmatch(r"http://127\.0\.0\.1:[0-9]+", connection["url"]):
+        raise ValueError("runtime control must be loopback")
+    req = Request(connection["url"] + "/" + action, data=json.dumps(data).encode(),
+                  headers={"Authorization": "Bearer " + connection["token"],
+                           "Content-Type": "application/json"})
+    with HTTP.open(req, timeout=310) as response:
+        return json.load(response)
+
+
+def main(argv=None):
+    parser = argparse.ArgumentParser(description=__doc__)
+    sub = parser.add_subparsers(dest="action", required=True)
+    serve_parser = sub.add_parser("_serve", help=argparse.SUPPRESS)
+    serve_parser.add_argument("config")
+    manual = sub.add_parser("serve", help="foreground owner; credentials go to a private connection file")
+    manual.add_argument("--config", required=True)
+    manual.add_argument("--connection-file", required=True, type=Path)
+    for action in ("setup", "start", "teardown", "identity", "describe"):
+        node = sub.add_parser(action)
+        node.add_argument("--slot", required=True)
+        node.add_argument("--connection-file", type=Path)
+        if action == "start":
+            node.add_argument("--root", required=True)
+            node.add_argument("--mutation")
+            node.add_argument("--expected-source")
+            node.add_argument("--expected-revision")
+    args = parser.parse_args(argv)
+    try:
+        if args.action == "_serve":
+            serve(json.loads(Path(args.config).read_text(encoding="utf-8")))
+        elif args.action == "serve":
+            with RuntimeHost(args.config) as host:
+                # Exclusive creation avoids overwriting user data or following links.
+                fd = os.open(args.connection_file, os.O_WRONLY | os.O_CREAT | os.O_EXCL, 0o600)
+                try:
+                    with os.fdopen(fd, "w") as stream:
+                        json.dump(host.connection, stream)
+                    print("Runtime owner ready; keep this process foreground.", flush=True)
+                    signal.signal(signal.SIGTERM, lambda *_: (_ for _ in ()).throw(KeyboardInterrupt()))
+                    while host.proc.poll() is None:
+                        time.sleep(.2)
+                finally:
+                    args.connection_file.unlink(missing_ok=True)
+        else:
+            connection = json.loads(args.connection_file.read_text()) if args.connection_file else None
+            data = {k: v for k, v in vars(args).items()
+                    if k not in {"action", "connection_file"} and v is not None}
+            result = request("identity" if args.action == "describe" else args.action, data, connection)
+            print(result["candidate"] if args.action == "identity" else json.dumps(result))
+        return 0
+    except KeyboardInterrupt:
+        return 130
+    except Exception:
+        print("Runtime host operation failed; check trusted project configuration and owner liveness.", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

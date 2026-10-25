@@ -1,1 +1,239 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWunumqjCAwODAgwrcg5bel5YW35omp5bGV55qE5piv44CQ6YCa6YGT5pWw44CR6L+Y5piv44CQ57K+5bqm44CRCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K6KKr5qOA6aqM5a+56LGh77ya5Yik5o2u5qC456ysIDMyOSDmnaHvvIgwNzkg55qE5pWj5paH57uT6K6677yM5q2k5YmN5LuO5pyq5YGa6L+H5a6e6aqM77yJCiAgICLlt6XlhbfmianlsZXnmoTmmK/pgJrpgZPmlbDvvIgw4oaSMe+8ie+8jOS4jeaYr+eyvuW6pu+8m+ehheWfuuaYr+mCo+S7tuW3peWFt+eahOW7tuS8uOOAgiIKCuaLhuaIkOWPr+ivgeS8qumXrumimO+8mgogIEhfQSDnsr7luqbvvJpOIOWbuuWumuWPquaUueemu+aVo+aho+aVsCBM77yM5YaF5Zyo57uT5p6E77yI5a656YeP5YGP5bqm77yJ5bqU5a6e6LSo562J5Lu344CCCiAgSF9CIOmAmumBk+aVsCB2cyDkv6Hmga/ph4/og73lkKbliIbnprvvvJrlkIzkuIDnu4TnnJ/lrp7or7vmlbDjgJDlubPpk7rjgJFrIOasoSDihpIgTj04a++8jAogICAgICDovpPlhaXliIbluIPpgJDkvY3nm7jlkIzjgIHmlrDlop7kv6Hmga/ph4/kuLogMOOAguiLpSLpgJrpgZPmlbDmnKzouqsi5pyJ5pWI5bqU77yM5bmz6ZO65Lmf5bqU5Y+Y44CCCiAgSF9DIOaWsOe7tOW6pueahOS7t+WAvOaYr+WQpuetieS6jiLlpJrkuIDmoLnnur8i77ya5aKe6K6+IDEg5Liq6YCa6YGT77yM5YaF5a655YiG5Yir5Li6CiAgICAgIOWkjeWItuaXouaciSAvIOWQjOWfjuaWsOa4qeW6puagt+acrCAvIOecn+Wunua5v+W6piAvIOecn+WunuawlOWOiyAvIOWdh+WMgOWZquWjsCAvIOmUmemFjea4qeW6puOAggogICAgICDlhbPplK7lr7nnhafmmK/jgJDlnYfljIDlmarlo7DjgJHvvJroi6Xlmarlo7DkuZ/kuqfnlJ/lkIznrYnlop7nm4rvvIwKICAgICAg5YiZIue7k+aehOWinuebiiDiiaAg5pu055CG6Kej5LiW55WMIuOAggogIEhfRCDliYLph4/vvJrlop7orr4gMS8yLzQg5Liq55yf5a6e5paw57u05bqm6YCa6YGT77yM5aKe55uK5piv5ZCm5Y2V6LCD44CCCgrpmLLmsaHmn5PvvIjml6LmnInliKTmja7vvInvvJoKICDCtyDnrKwgMjMg5p2h77yaa19zYWw+MCDkuJQgc2FsIOaOpemAmuS4u+mAmumBk++8iOaYvuW8j+ajgOmqjO+8iQogIMK3IOesrCAzMzAg5p2h77ya5omA5pyJ6KGo5b6B57uf5LiA5Yiw6Z2e6Zu25Yy66Ze0IFswLjE1LDAuODVdCiAgwrcg5q275Lqh562b6YCJ77ya5Li757uT6K665LiA5b6L5Y+W44CQ5YWx5ZCM5a2Y5rS75a2Q6ZuG44CR5aSN5qC4CiAgwrcgZm9yYWdlX2NoIOWbuuWumuS4uiA377yITiDlj5jljJbml7bmkYTpo5/pgJrpgZPkuI3lj6/mvILnp7vvvIkKICDCtyDlj5blgLzov5DmsJTvvJrmr4/kuKrmnaHku7blj5YgOCDkuKrlrp7kvovljJbmsYLlnYflgLzvvIzpgb/lhY3ljZXkuKrmlbDlgLzlrprnlJ/mrbsKIiIiCmltcG9ydCBqc29uLCBvcywgc3lzLCB0aW1lLCB1cmxsaWIucmVxdWVzdAppbXBvcnQgbnVtcHkgYXMgbnAKClJPT1QgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAnLi4nKQpzeXMucGF0aC5pbnNlcnQoMCwgUk9PVCkKZnJvbSBjb3JlIGltcG9ydCBMaWZlNQoKT1VUID0gb3MucGF0aC5qb2luKFJPT1QsICdldmlkZW5jZScsICdyYXdfZGF0YScsICdjaGFubmVsX3ZzX3ByZWNpc2lvbl8wODAuanNvbicpCgpDSVRJRVMgPSBbCiAgICAoIuWogea1tyIsIDM3LjUxMzA5LCAxMjIuMTIwNzQpLCAoIuWMl+S6rCIsIDM5LjkwNDIsIDExNi40MDc0KSwKICAgICgi5LiK5rW3IiwgMzEuMjMwNCwgMTIxLjQ3MzcpLCAgICgi5bm/5beeIiwgMjMuMTI5MSwgMTEzLjI2NDQpLAogICAgKCLmt7HlnLMiLCAyMi41NDMxLCAxMTQuMDU3OSksICAgKCLlk4jlsJTmu6giLCA0NS44MDM4LCAxMjYuNTM0OSksCiAgICAoIuS5jOmygeacqOm9kCIsIDQzLjgyNTYsIDg3LjYxNjgpLCAoIuaLieiQqCIsIDI5LjY1MjAsIDkxLjE3MjEpLAogICAgKCLkuInkupoiLCAxOC4yNTI4LCAxMDkuNTExOSksICAgKCLmiJDpg70iLCAzMC41NzI4LCAxMDQuMDY2OCksCiAgICAoIuilv+WuiSIsIDM0LjM0MTYsIDEwOC45Mzk4KSwgICAoIuatpuaxiSIsIDMwLjU5MjgsIDExNC4zMDU1KSwKICAgICgi5piG5piOIiwgMjUuMDM4OSwgMTAyLjcxODMpLCAgICgi6LS16ZizIiwgMjYuNjQ3MCwgMTA2LjYzMDIpLAogICAgKCLlhbDlt54iLCAzNi4wNjExLCAxMDMuODM0MyksICAgKCLopb/lroEiLCAzNi42MTcxLCAxMDEuNzc4MiksCiAgICAoIuWRvOWSjOa1qeeJuSIsIDQwLjg0MTQsIDExMS43NTE5KSwgKCLmsojpmLMiLCA0MS44MDU3LCAxMjMuNDMxNSksCiAgICAoIumVv+aYpSIsIDQzLjgxNzEsIDEyNS4zMjM1KSwgICAoIuefs+WutuW6hCIsIDM4LjA0MjgsIDExNC41MTQ5KSwKICAgICgi5aSq5Y6fIiwgMzcuODcwNiwgMTEyLjU0ODkpLCAgICgi5rWO5Y2XIiwgMzYuNjUxMiwgMTE3LjEyMDEpLAogICAgKCLpg5Hlt54iLCAzNC43NDY2LCAxMTMuNjI1NCksICAgKCLljZfkuqwiLCAzMi4wNjAzLCAxMTguNzk2OSksCiAgICAoIuadreW3niIsIDMwLjI3NDEsIDEyMC4xNTUxKSwgICAoIumVv+aymSIsIDI4LjIyODIsIDExMi45Mzg4KSwKICAgICgi5Y2X5piMIiwgMjguNjgyMCwgMTE1Ljg1NzkpLCAgICgi56aP5beeIiwgMjYuMDc0NSwgMTE5LjI5NjUpLAogICAgKCLljZflroEiLCAyMi44MTcwLCAxMDguMzY2NSksICAgKCLmtbflj6MiLCAyMC4wNDQ0LCAxMTAuMTk5OSksCl0KClNFRURTID0gbGlzdChyYW5nZSg0OCkpClRJQ0tTID0gNDAwCktfU0FMID0gMC4xMApTX0xPLCBTX0hJID0gMC4xNSwgMC44NQpGT1JBR0UgPSA3Ck5fSU5TVCA9IDggICAgICAgICAgIyDmr4/kuKrmnaHku7bnmoTlrp7kvovljJbkuKrmlbDvvIjmtojpmaTljZXkuKrmlbDlgLznmoTov5DmsJTvvIkKCgpkZWYgZmV0Y2hfYWxsKCk6CiAgICByb3dzID0gW10KICAgIGZvciBuLCBsYSwgbG8gaW4gQ0lUSUVTOgogICAgICAgIGdvdCA9IE5vbmUKICAgICAgICBmb3IgXyBpbiByYW5nZSgzKToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdSA9IGYiaHR0cHM6Ly9hcGlzLm1hcC5xcS5jb20vd3Mvd2VhdGhlci92MS8/bG9jYXRpb249e2xhfSx7bG99IgogICAgICAgICAgICAgICAgZCA9IGpzb24ubG9hZHModXJsbGliLnJlcXVlc3QudXJsb3Blbih1LCB0aW1lb3V0PTEwKS5yZWFkKCkuZGVjb2RlKCd1dGYtOCcsICdpZ25vcmUnKSkKICAgICAgICAgICAgICAgIGluZiA9IGRbInJlc3VsdCJdWyJyZWFsdGltZSJdWzBdWyJpbmZvcyJdCiAgICAgICAgICAgICAgICBnb3QgPSBkaWN0KGNpdHk9biwgdGVtcGVyYXR1cmU9ZmxvYXQoaW5mWyJ0ZW1wZXJhdHVyZSJdKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaHVtaWRpdHk9ZmxvYXQoaW5mWyJodW1pZGl0eSJdKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJlc3N1cmU9ZmxvYXQoaW5mLmdldCgiYWlyX3ByZXNzdXJlIiwgMTAxMy4wKSkpCiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgdGltZS5zbGVlcCgwLjYpCiAgICAgICAgaWYgZ290OgogICAgICAgICAgICByb3dzLmFwcGVuZChnb3QpCiAgICByZXR1cm4gcm93cwoKCmRlZiBub3JtMDEoeCk6CiAgICB4ID0gbnAuYXNhcnJheSh4LCBmbG9hdCkKICAgIGxvLCBoaSA9IGZsb2F0KHgubWluKCkpLCBmbG9hdCh4Lm1heCgpKQogICAgcmV0dXJuIG5wLm9uZXNfbGlrZSh4KSAqIDAuNSBpZiBoaSAtIGxvIDwgMWUtOSBlbHNlICh4IC0gbG8pIC8gKGhpIC0gbG8pCgoKZGVmIHRvX3JhbmdlKHgwMSk6CiAgICByZXR1cm4gU19MTyArIG5wLmFzYXJyYXkoeDAxLCBmbG9hdCkgKiAoU19ISSAtIFNfTE8pCgoKZGVmIHF1YW50aXplKHgwMSwgTCk6CiAgICBpZiBMIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIG5wLmFzYXJyYXkoeDAxLCBmbG9hdCkKICAgIGlkeCA9IG5wLmNsaXAoKG5wLmFzYXJyYXkoeDAxLCBmbG9hdCkgKiBMKS5hc3R5cGUoaW50KSwgMCwgTCAtIDEpCiAgICByZXR1cm4gKGlkeCArIDAuNSkgLyBMCgoKZGVmIHJ1bl9vbmUoc2FsLCBzZWVkKToKICAgIHNhbCA9IG5wLmFzYXJyYXkoc2FsLCBmbG9hdCkKICAgIGxpZmUgPSBMaWZlNShOPWxlbihzYWwpLCBzZWVkPXNlZWQsIGtfc2FsPUtfU0FMLCBzYWw9c2FsLCBmb3JhZ2VfY2g9Rk9SQUdFKQogICAgbGlmZS5ydW4oVElDS1MpCiAgICBjYXAgPSBucC5hc2FycmF5KGxpZmUuY2FwYWNpdHksIGZsb2F0KQogICAgcmV0dXJuIGZsb2F0KG5wLnN0ZChjYXApIC8gKG5wLm1lYW4oY2FwKSArIDFlLTEyKSksIGJvb2woZ2V0YXR0cihsaWZlLCAnYWxpdmUnLCBUcnVlKSkKCgpkZWYgYmF0Y2godmFyaWFudHMsIGxhYmVsLCBzdG9yZSk6CiAgICAiIiJ2YXJpYW50czog5q+P5Liq5p2h5Lu25LiL55qE6Iul5bmy5a6e5L6L5YyW5ZCR6YeP77yb5q+P5Liq5a6e5L6L5YyW6LeR5YWo6YOoIHNlZWQg5ZCO5Y+W5Z2H5YC8IiIiCiAgICBwZXJfc2VlZCwgYWxpdmVfYWxsID0gW10sIFtdCiAgICBmb3IgdiBpbiB2YXJpYW50czoKICAgICAgICBycyA9IFtydW5fb25lKHYsIHMpIGZvciBzIGluIFNFRURTXQogICAgICAgIHBlcl9zZWVkLmFwcGVuZChbclswXSBmb3IgciBpbiByc10pCiAgICAgICAgYWxpdmVfYWxsLmFwcGVuZChbclsxXSBmb3IgciBpbiByc10pCiAgICBwZXJfc2VlZCA9IG5wLmFycmF5KHBlcl9zZWVkKSAgICAgICAgICAjIChuX2luc3QsIG5fc2VlZCkKICAgIGFsaXZlX2FsbCA9IG5wLmFycmF5KGFsaXZlX2FsbCkKICAgIHNrID0gcGVyX3NlZWQubWVhbihheGlzPTApICAgICAgICAgICAgICMg5q+P5LiqIHNlZWQg5Zyo6K+l5p2h5Lu25LiL55qE5Z2H5YC8CiAgICBhbCA9IGFsaXZlX2FsbC5hbGwoYXhpcz0wKSAgICAgICAgICAgICAjIOWFqOmDqOWunuS+i+WMlumDveWtmOa0u+aJjeeulwogICAgc3RvcmVbbGFiZWxdID0gZGljdChza2V3PWZsb2F0KHNrLm1lYW4oKSksIGFsaXZlPWludChhbC5zdW0oKSksCiAgICAgICAgICAgICAgICAgICAgICAgIG5fY2g9aW50KGxlbih2YXJpYW50c1swXSkpLCBuX2luc3Q9bGVuKHZhcmlhbnRzKSwKICAgICAgICAgICAgICAgICAgICAgICAgYWxsPVtmbG9hdCh4KSBmb3IgeCBpbiBza10sCiAgICAgICAgICAgICAgICAgICAgICAgIGFsaXZlX21hc2s9W2Jvb2woeCkgZm9yIHggaW4gYWxdLAogICAgICAgICAgICAgICAgICAgICAgICBpbl9zdGQ9ZmxvYXQobnAubWVhbihbbnAuc3RkKHYpIGZvciB2IGluIHZhcmlhbnRzXSkpKQogICAgcHJpbnQoZiIgIHtsYWJlbDoyMHN9IE49e2xlbih2YXJpYW50c1swXSk6MmR9ICDlgY/luqY9e3NrLm1lYW4oKTouNmZ9ICAiCiAgICAgICAgICBmIuWtmOa0uz17aW50KGFsLnN1bSgpKX0ve2xlbihTRUVEUyl9ICDovpPlhaVzdGQ9e25wLm1lYW4oW25wLnN0ZCh2KSBmb3IgdiBpbiB2YXJpYW50c10pOi40Zn0iKQogICAgcmV0dXJuIHNrLCBhbAoKCmRlZiBwYWlyZWRfY2koYSwgYiwgbmJvb3Q9MjAwMDAsIHNlZWQ9MSk6CiAgICBkID0gbnAuYXNhcnJheShhLCBmbG9hdCkgLSBucC5hc2FycmF5KGIsIGZsb2F0KQogICAgaWYgbGVuKGQpIDwgNDoKICAgICAgICByZXR1cm4gZmxvYXQoZC5tZWFuKCkpLCBmbG9hdCgnbmFuJyksIGZsb2F0KCduYW4nKQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBpZHggPSBybmcuaW50ZWdlcnMoMCwgbGVuKGQpLCBzaXplPShuYm9vdCwgbGVuKGQpKSkKICAgIGJvb3QgPSBkW2lkeF0ubWVhbihheGlzPTEpCiAgICByZXR1cm4gZmxvYXQoZC5tZWFuKCkpLCBmbG9hdChucC5wZXJjZW50aWxlKGJvb3QsIDIuNSkpLCBmbG9hdChucC5wZXJjZW50aWxlKGJvb3QsIDk3LjUpKQoKCmRlZiBjbXBfYWxsKHN0b3JlLCBiYXNlX2xhYmVsLCByZXNrZXksIHJlcywgdGFnPSIiKToKICAgICIiIuWFqOenjeWtkCArIOWFseWQjOWtmOa0u+WtkOmbhiDlj4zph43mr5TovoMiIiIKICAgIGJzayA9IG5wLmFycmF5KHN0b3JlW2Jhc2VfbGFiZWxdWyJhbGwiXSkKICAgIHByaW50KGYiICAtLS0g5q+U6L6D5Z+65YeG77yae2Jhc2VfbGFiZWx9IC0tLSIpCiAgICBtYXNrcyA9IFtucC5hcnJheSh2WyJhbGl2ZV9tYXNrIl0pIGZvciB2IGluIHN0b3JlLnZhbHVlcygpXQogICAgY29tbW9uID0gbnAuYWxsKG5wLnZzdGFjayhtYXNrcyksIGF4aXM9MCkKICAgIHByaW50KGYiICAgIFvpmLLmsaHmn5NdIOWFseWQjOWtmOa0uyB7aW50KGNvbW1vbi5zdW0oKSl9L3tsZW4oU0VFRFMpfSIpCiAgICBmb3IgbGFiLCB2IGluIHN0b3JlLml0ZW1zKCk6CiAgICAgICAgaWYgbGFiID09IGJhc2VfbGFiZWw6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZCwgbG8sIGhpID0gcGFpcmVkX2NpKG5wLmFycmF5KHZbImFsbCJdKSwgYnNrKQogICAgICAgIGRjLCBsb2MsIGhpYyA9IChucC5uYW4sIG5wLm5hbiwgbnAubmFuKQogICAgICAgIGlmIGNvbW1vbi5zdW0oKSA+PSA4OgogICAgICAgICAgICBkYywgbG9jLCBoaWMgPSBwYWlyZWRfY2kobnAuYXJyYXkodlsiYWxsIl0pW2NvbW1vbl0sIGJza1tjb21tb25dKQogICAgICAgIHZbInZzX2Jhc2UiXSA9IGRpY3QoZGlmZj1kLCBjaT1bbG8sIGhpXSkKICAgICAgICB2WyJ2c19iYXNlX2NvbW1vbiJdID0gZGljdChkaWZmPWRjLCBjaT1bbG9jLCBoaWNdKQogICAgICAgIGYxID0gJ+etieS7tycgaWYgKGxvIDw9IDAgPD0gaGkpIGVsc2UgJ+KYhScKICAgICAgICBmMiA9ICfnrYnku7cnIGlmIChucC5pc25hbihkYykgb3IgbG9jIDw9IDAgPD0gaGljKSBlbHNlICfimIUnCiAgICAgICAgcHJpbnQoZiIgICAge2xhYjoyMHN9IOWFqOenjeWtkM6UPXtkOisuNmZ9W3tsbzorLjVmfSx7aGk6Ky41Zn1de2YxfSAgIgogICAgICAgICAgICAgIGYi5YWx5ZCM5a2Y5rS7zpQ9e2RjOisuNmZ9W3tsb2M6Ky41Zn0se2hpYzorLjVmfV17ZjJ9IikKICAgIHJlc1tyZXNrZXldID0ge2s6IHtrazogdnYgZm9yIGtrLCB2diBpbiB2Lml0ZW1zKCkKICAgICAgICAgICAgICAgICAgICAgICBpZiBrayBub3QgaW4gKCdhbGl2ZV9tYXNrJywpfSBmb3IgaywgdiBpbiBzdG9yZS5pdGVtcygpfQoKCmRlZiBtYWluKCk6CiAgICBwcmludCgiPSIgKiA3MCkKICAgIHByaW50KCLlrp7pqowgMDgwIMK3IOW3peWFt+aJqeWxleeahOaYr+OAkOmAmumBk+aVsOOAkei/mOaYr+OAkOeyvuW6puOAkSDigJTigJQg5qOA6aqM56ysIDMyOSDmnaEiKQogICAgcHJpbnQoIj0iICogNzApCgogICAgYTEgPSBydW5fb25lKG5wLm9uZXMoOCkgKiAwLjUsIDApWzBdCiAgICBhMiA9IHJ1bl9vbmUobnAubGluc3BhY2UoMC4yLCAwLjgsIDgpLCAwKVswXQogICAgaWYgYWJzKGExIC0gYTIpIDwgMWUtMTI6CiAgICAgICAgcHJpbnQoIltGQVRBTF0gc2FsIOacquaOpemAmuS4u+mAmumBk++8iOesrCAyMyDmnaHvvIkiKTsgcmV0dXJuCiAgICBwcmludChmIltndWFyZF0gc2FsIOaOpemAmu+8muetieW8uiB7YTE6LjZmfSB2cyDmoq/luqYge2EyOi42Zn0iKQoKICAgIHJvd3MgPSBmZXRjaF9hbGwoKQogICAgcHJpbnQoZiJcblvmlbDmja5dIOecn+WunuaNouiDveWZqOivu+aVsCB7bGVuKHJvd3MpfS97bGVuKENJVElFUyl9IOWfjiIpCiAgICBpZiBsZW4ocm93cykgPCAxNjoKICAgICAgICBwcmludCgiW0ZBVEFMXSDor7vmlbDkuI3otrMiKTsgcmV0dXJuCiAgICBUID0gbnAuYXJyYXkoW3JbInRlbXBlcmF0dXJlIl0gZm9yIHIgaW4gcm93c10sIGZsb2F0KQogICAgSCA9IG5wLmFycmF5KFtyWyJodW1pZGl0eSJdIGZvciByIGluIHJvd3NdLCBmbG9hdCkKICAgIFAgPSBucC5hcnJheShbclsicHJlc3N1cmUiXSBmb3IgciBpbiByb3dzXSwgZmxvYXQpCiAgICBwcmludChmIiAg5rip5bqmIHtULm1pbigpOi4wZn1+e1QubWF4KCk6LjBmfcKwQyAg5rm/5bqmIHtILm1pbigpOi4wZn1+e0gubWF4KCk6LjBmfSUgICIKICAgICAgICAgIGYi5rCU5Y6LIHtQLm1pbigpOi4wZn1+e1AubWF4KCk6LjBmfWhQYSIpCiAgICByZXMgPSBkaWN0KHRpbWVzdGFtcD10aW1lLnN0cmZ0aW1lKCIlWS0lbS0lZCAlSDolTTolUyIpLCBjb25maWc9ZGljdCgKICAgICAgICB0aWNrcz1USUNLUywga19zYWw9S19TQUwsIHNlZWRzPWxlbihTRUVEUyksIG5faW5zdD1OX0lOU1QsIGZvcmFnZV9jaD1GT1JBR0UpLAogICAgICAgIG5fY2l0aWVzPWxlbihyb3dzKSwgY2l0aWVzPXJvd3MpCiAgICBUMDEsIEgwMSwgUDAxID0gbm9ybTAxKFQpLCBub3JtMDEoSCksIG5vcm0wMShQKQogICAgYmFzZTggPSB0b19yYW5nZShUMDFbOjhdKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLSBQYXJ0IEEgwrcg57K+5bqmIC0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCJcbj09PSBQYXJ0IEEgwrcg57K+5bqm77yI56a75pWj5qGj5pWwIEzvvInvvIxOPTgg5Zu65a6aID09PSIpCiAgICBzQSA9IHt9CiAgICBmb3IgTCBpbiBbMiwgMywgNSwgMTAsIDIwLCAxMDAsIE5vbmVdOgogICAgICAgIGJhdGNoKFt0b19yYW5nZShxdWFudGl6ZShUMDFbOjhdLCBMKSldLCBmIkw9e0x9IiBpZiBMIGVsc2UgIkw94oie6L+e57utIiwgc0EpCiAgICBjbXBfYWxsKHNBLCAiTD3iiJ7ov57nu60iLCAicGFydEFfcHJlY2lzaW9uIiwgcmVzKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLSBQYXJ0IEIgwrcg6YCa6YGT5pWwIC0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCJcbj09PSBQYXJ0IEIgwrcg6YCa6YGT5pWw77ya5bmz6ZO677yI6Zu25paw5aKe5L+h5oGv77yJdnMg55yf5omp77yI5paw5aKe5L+h5oGv77yJPT09IikKICAgIHNCID0ge30KICAgIGZvciBrIGluIFsxLCAyLCAzLCA0XToKICAgICAgICBiYXRjaChbbnAudGlsZShiYXNlOCwgayldLCBmIuW5s+mTums9e2t9KE49ezgqa30pIiwgc0IpCiAgICBmb3IgbiBpbiBbOCwgMTYsIDI0LCAzMF06CiAgICAgICAgaWYgbiA8PSBsZW4oVDAxKToKICAgICAgICAgICAgYmF0Y2goW3RvX3JhbmdlKFQwMVs6bl0pXSwgZiLnnJ/mialOPXtufSIsIHNCKQogICAgY21wX2FsbChzQiwgIuW5s+mTums9MShOPTgpIiwgInBhcnRCX2NoYW5uZWxfY291bnQiLCByZXMpCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tIFBhcnQgQyDCtyDmlrDliqDkuIDkuKrpgJrpgZPvvIzlhoXlrrnlhrPlrprku4DkuYggLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuPT09IFBhcnQgQyDCtyDmlrDlop4gMSDkuKrpgJrpgZPvvJrlhoXlrrnlhrPlrprku4DkuYjvvIhOPTnvvIk9PT0iKQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDIwMjYpCiAgICBzQyA9IHt9CiAgICBiYXRjaChbbnAuY29uY2F0ZW5hdGUoW2Jhc2U4LCBbMC41XV0pXSwgIuWfuue6vyvkuK3mgKcwLjUiLCBzQykgICAgICAgICAgICAgICAgICAgICMg5Lit5oCn5Y+C54WnCiAgICBiYXRjaChbbnAuY29uY2F0ZW5hdGUoW2Jhc2U4LCBbYmFzZThbaV1dXSkgZm9yIGkgaW4gcmFuZ2UoTl9JTlNUKV0sICIr5aSN5Yi25pei5pyJIiwgc0MpCiAgICBiYXRjaChbbnAuY29uY2F0ZW5hdGUoW2Jhc2U4LCB0b19yYW5nZShUMDFbOCArIGk6OSArIGldKV0pIGZvciBpIGluIHJhbmdlKE5fSU5TVCldLAogICAgICAgICAgIivmlrDmuKnluqbmoLfmnKwiLCBzQykKICAgIGJhdGNoKFtucC5jb25jYXRlbmF0ZShbYmFzZTgsIHRvX3JhbmdlKEgwMVs4ICsgaTo5ICsgaV0pXSkgZm9yIGkgaW4gcmFuZ2UoTl9JTlNUKV0sCiAgICAgICAgICAiK+ecn+Wunua5v+W6piIsIHNDKQogICAgYmF0Y2goW25wLmNvbmNhdGVuYXRlKFtiYXNlOCwgdG9fcmFuZ2UoUDAxWzggKyBpOjkgKyBpXSldKSBmb3IgaSBpbiByYW5nZShOX0lOU1QpXSwKICAgICAgICAgICIr55yf5a6e5rCU5Y6LIiwgc0MpCiAgICBiYXRjaChbbnAuY29uY2F0ZW5hdGUoW2Jhc2U4LCB0b19yYW5nZShbcm5nLnVuaWZvcm0oMCwgMSldKV0pCiAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoTl9JTlNUKV0sICIr5Z2H5YyA5Zmq5aOwIiwgc0MpCiAgICBiYXRjaChbbnAuY29uY2F0ZW5hdGUoW2Jhc2U4LCB0b19yYW5nZShUMDFbKDIwICsgaSkgJSBsZW4oVDAxKTooMjEgKyBpKSAlIGxlbihUMDEpXSldKQogICAgICAgICAgIGZvciBpIGluIHJhbmdlKE5fSU5TVCldLCAiK+mUmemFjea4qeW6piIsIHNDKQogICAgIyDliYLph4/vvJrmlrDlop4gMS8yLzQg5Liq55yf5a6e5rm/5bqm6YCa6YGTCiAgICBmb3IgbSBpbiBbMSwgMiwgNF06CiAgICAgICAgYmF0Y2goW25wLmNvbmNhdGVuYXRlKFtiYXNlOCwgdG9fcmFuZ2UoSDAxWzggKyBpOjggKyBpICsgbV0pXSkKICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTl9JTlNUKV0sIGYiK3ttfeS4qua5v+W6pumAmumBkyIsIHNDKQogICAgY21wX2FsbChzQywgIuWfuue6vyvkuK3mgKcwLjUiLCAicGFydENfbmV3X2NoYW5uZWwiLCByZXMpCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tIFBhcnQgRCDCtyDni6znq4vluqYgLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuPT09IFBhcnQgRCDCtyDmlrDnu7Tluqbnm7jlr7nml6LmnInpgJrpgZPnmoTnnJ/lrp7ni6znq4vluqYgPT09IikKICAgIHJfVEggPSBmbG9hdChucC5jb3JyY29lZihULCBIKVswLCAxXSk7IHJfVFAgPSBmbG9hdChucC5jb3JyY29lZihULCBQKVswLCAxXSkKICAgIHByaW50KGYiICDmuKnluqYt5rm/5bqmIHI9e3JfVEg6Ky40Zn0gICDmuKnluqYt5rCU5Y6LIHI9e3JfVFA6Ky40Zn0iKQogICAgcmVzWyJwYXJ0RF9pbmRlcGVuZGVuY2UiXSA9IGRpY3Qocl90ZW1wX2h1bT1yX1RILCByX3RlbXBfcHJlcz1yX1RQLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbj1sZW4oVCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3RlPSLnlKjkuo7op6Pph4ogUGFydCBDIOS4reWQhOaWsOWinumAmumBk+eahOWinuebiuaOkuW6jyIpCgogICAgb3MubWFrZWRpcnMob3MucGF0aC5kaXJuYW1lKE9VVCksIGV4aXN0X29rPVRydWUpCiAgICBqc29uLmR1bXAocmVzLCBvcGVuKE9VVCwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKICAgIHByaW50KGYiXG5b6JC955uYXSB7T1VUfSIpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=
+# -*- coding: utf-8 -*-
+"""
+实验 080 · 工具扩展的是【通道数】还是【精度】
+================================================================
+被检验对象：判据核第 329 条（079 的散文结论，此前从未做过实验）
+   "工具扩展的是通道数（0→1），不是精度；硅基是那件工具的延伸。"
+
+拆成可证伪问题：
+  H_A 精度：N 固定只改离散档数 L，内在结构（容量偏度）应实质等价。
+  H_B 通道数 vs 信息量能否分离：同一组真实读数【平铺】k 次 → N=8k，
+      输入分布逐位相同、新增信息量为 0。若"通道数本身"有效应，平铺也应变。
+  H_C 新维度的价值是否等于"多一根线"：增设 1 个通道，内容分别为
+      复制既有 / 同城新温度样本 / 真实湿度 / 真实气压 / 均匀噪声 / 错配温度。
+      关键对照是【均匀噪声】：若噪声也产生同等增益，
+      则"结构增益 ≠ 更理解世界"。
+  H_D 剂量：增设 1/2/4 个真实新维度通道，增益是否单调。
+
+防污染（既有判据）：
+  · 第 23 条：k_sal>0 且 sal 接通主通道（显式检验）
+  · 第 330 条：所有表征统一到非零区间 [0.15,0.85]
+  · 死亡筛选：主结论一律取【共同存活子集】复核
+  · forage_ch 固定为 7（N 变化时摄食通道不可漂移）
+  · 取值运气：每个条件取 8 个实例化求均值，避免单个数值定生死
+"""
+import json, os, sys, time, urllib.request
+import numpy as np
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+sys.path.insert(0, ROOT)
+from core import Life5
+
+OUT = os.path.join(ROOT, 'evidence', 'raw_data', 'channel_vs_precision_080.json')
+
+CITIES = [
+    ("威海", 37.51309, 122.12074), ("北京", 39.9042, 116.4074),
+    ("上海", 31.2304, 121.4737),   ("广州", 23.1291, 113.2644),
+    ("深圳", 22.5431, 114.0579),   ("哈尔滨", 45.8038, 126.5349),
+    ("乌鲁木齐", 43.8256, 87.6168), ("拉萨", 29.6520, 91.1721),
+    ("三亚", 18.2528, 109.5119),   ("成都", 30.5728, 104.0668),
+    ("西安", 34.3416, 108.9398),   ("武汉", 30.5928, 114.3055),
+    ("昆明", 25.0389, 102.7183),   ("贵阳", 26.6470, 106.6302),
+    ("兰州", 36.0611, 103.8343),   ("西宁", 36.6171, 101.7782),
+    ("呼和浩特", 40.8414, 111.7519), ("沈阳", 41.8057, 123.4315),
+    ("长春", 43.8171, 125.3235),   ("石家庄", 38.0428, 114.5149),
+    ("太原", 37.8706, 112.5489),   ("济南", 36.6512, 117.1201),
+    ("郑州", 34.7466, 113.6254),   ("南京", 32.0603, 118.7969),
+    ("杭州", 30.2741, 120.1551),   ("长沙", 28.2282, 112.9388),
+    ("南昌", 28.6820, 115.8579),   ("福州", 26.0745, 119.2965),
+    ("南宁", 22.8170, 108.3665),   ("海口", 20.0444, 110.1999),
+]
+
+SEEDS = list(range(48))
+TICKS = 400
+K_SAL = 0.10
+S_LO, S_HI = 0.15, 0.85
+FORAGE = 7
+N_INST = 8          # 每个条件的实例化个数（消除单个数值的运气）
+
+
+def fetch_all():
+    rows = []
+    for n, la, lo in CITIES:
+        got = None
+        for _ in range(3):
+            try:
+                u = f"https://apis.map.qq.com/ws/weather/v1/?location={la},{lo}"
+                d = json.loads(urllib.request.urlopen(u, timeout=10).read().decode('utf-8', 'ignore'))
+                inf = d["result"]["realtime"][0]["infos"]
+                got = dict(city=n, temperature=float(inf["temperature"]),
+                           humidity=float(inf["humidity"]),
+                           pressure=float(inf.get("air_pressure", 1013.0)))
+                break
+            except Exception:
+                time.sleep(0.6)
+        if got:
+            rows.append(got)
+    return rows
+
+
+def norm01(x):
+    x = np.asarray(x, float)
+    lo, hi = float(x.min()), float(x.max())
+    return np.ones_like(x) * 0.5 if hi - lo < 1e-9 else (x - lo) / (hi - lo)
+
+
+def to_range(x01):
+    return S_LO + np.asarray(x01, float) * (S_HI - S_LO)
+
+
+def quantize(x01, L):
+    if L is None:
+        return np.asarray(x01, float)
+    idx = np.clip((np.asarray(x01, float) * L).astype(int), 0, L - 1)
+    return (idx + 0.5) / L
+
+
+def run_one(sal, seed):
+    sal = np.asarray(sal, float)
+    life = Life5(N=len(sal), seed=seed, k_sal=K_SAL, sal=sal, forage_ch=FORAGE)
+    life.run(TICKS)
+    cap = np.asarray(life.capacity, float)
+    return float(np.std(cap) / (np.mean(cap) + 1e-12)), bool(getattr(life, 'alive', True))
+
+
+def batch(variants, label, store):
+    """variants: 每个条件下的若干实例化向量；每个实例化跑全部 seed 后取均值"""
+    per_seed, alive_all = [], []
+    for v in variants:
+        rs = [run_one(v, s) for s in SEEDS]
+        per_seed.append([r[0] for r in rs])
+        alive_all.append([r[1] for r in rs])
+    per_seed = np.array(per_seed)          # (n_inst, n_seed)
+    alive_all = np.array(alive_all)
+    sk = per_seed.mean(axis=0)             # 每个 seed 在该条件下的均值
+    al = alive_all.all(axis=0)             # 全部实例化都存活才算
+    store[label] = dict(skew=float(sk.mean()), alive=int(al.sum()),
+                        n_ch=int(len(variants[0])), n_inst=len(variants),
+                        all=[float(x) for x in sk],
+                        alive_mask=[bool(x) for x in al],
+                        in_std=float(np.mean([np.std(v) for v in variants])))
+    print(f"  {label:20s} N={len(variants[0]):2d}  偏度={sk.mean():.6f}  "
+          f"存活={int(al.sum())}/{len(SEEDS)}  输入std={np.mean([np.std(v) for v in variants]):.4f}")
+    return sk, al
+
+
+def paired_ci(a, b, nboot=20000, seed=1):
+    d = np.asarray(a, float) - np.asarray(b, float)
+    if len(d) < 4:
+        return float(d.mean()), float('nan'), float('nan')
+    rng = np.random.default_rng(seed)
+    idx = rng.integers(0, len(d), size=(nboot, len(d)))
+    boot = d[idx].mean(axis=1)
+    return float(d.mean()), float(np.percentile(boot, 2.5)), float(np.percentile(boot, 97.5))
+
+
+def cmp_all(store, base_label, reskey, res, tag=""):
+    """全种子 + 共同存活子集 双重比较"""
+    bsk = np.array(store[base_label]["all"])
+    print(f"  --- 比较基准：{base_label} ---")
+    masks = [np.array(v["alive_mask"]) for v in store.values()]
+    common = np.all(np.vstack(masks), axis=0)
+    print(f"    [防污染] 共同存活 {int(common.sum())}/{len(SEEDS)}")
+    for lab, v in store.items():
+        if lab == base_label:
+            continue
+        d, lo, hi = paired_ci(np.array(v["all"]), bsk)
+        dc, loc, hic = (np.nan, np.nan, np.nan)
+        if common.sum() >= 8:
+            dc, loc, hic = paired_ci(np.array(v["all"])[common], bsk[common])
+        v["vs_base"] = dict(diff=d, ci=[lo, hi])
+        v["vs_base_common"] = dict(diff=dc, ci=[loc, hic])
+        f1 = '等价' if (lo <= 0 <= hi) else '★'
+        f2 = '等价' if (np.isnan(dc) or loc <= 0 <= hic) else '★'
+        print(f"    {lab:20s} 全种子Δ={d:+.6f}[{lo:+.5f},{hi:+.5f}]{f1}  "
+              f"共同存活Δ={dc:+.6f}[{loc:+.5f},{hic:+.5f}]{f2}")
+    res[reskey] = {k: {kk: vv for kk, vv in v.items()
+                       if kk not in ('alive_mask',)} for k, v in store.items()}
+
+
+def main():
+    print("=" * 70)
+    print("实验 080 · 工具扩展的是【通道数】还是【精度】 —— 检验第 329 条")
+    print("=" * 70)
+
+    a1 = run_one(np.ones(8) * 0.5, 0)[0]
+    a2 = run_one(np.linspace(0.2, 0.8, 8), 0)[0]
+    if abs(a1 - a2) < 1e-12:
+        print("[FATAL] sal 未接通主通道（第 23 条）"); return
+    print(f"[guard] sal 接通：等强 {a1:.6f} vs 梯度 {a2:.6f}")
+
+    rows = fetch_all()
+    print(f"\n[数据] 真实换能器读数 {len(rows)}/{len(CITIES)} 城")
+    if len(rows) < 16:
+        print("[FATAL] 读数不足"); return
+    T = np.array([r["temperature"] for r in rows], float)
+    H = np.array([r["humidity"] for r in rows], float)
+    P = np.array([r["pressure"] for r in rows], float)
+    print(f"  温度 {T.min():.0f}~{T.max():.0f}°C  湿度 {H.min():.0f}~{H.max():.0f}%  "
+          f"气压 {P.min():.0f}~{P.max():.0f}hPa")
+    res = dict(timestamp=time.strftime("%Y-%m-%d %H:%M:%S"), config=dict(
+        ticks=TICKS, k_sal=K_SAL, seeds=len(SEEDS), n_inst=N_INST, forage_ch=FORAGE),
+        n_cities=len(rows), cities=rows)
+    T01, H01, P01 = norm01(T), norm01(H), norm01(P)
+    base8 = to_range(T01[:8])
+
+    # ---------------- Part A · 精度 ----------------
+    print("\n=== Part A · 精度（离散档数 L），N=8 固定 ===")
+    sA = {}
+    for L in [2, 3, 5, 10, 20, 100, None]:
+        batch([to_range(quantize(T01[:8], L))], f"L={L}" if L else "L=∞连续", sA)
+    cmp_all(sA, "L=∞连续", "partA_precision", res)
+
+    # ---------------- Part B · 通道数 ----------------
+    print("\n=== Part B · 通道数：平铺（零新增信息）vs 真扩（新增信息）===")
+    sB = {}
+    for k in [1, 2, 3, 4]:
+        batch([np.tile(base8, k)], f"平铺k={k}(N={8*k})", sB)
+    for n in [8, 16, 24, 30]:
+        if n <= len(T01):
+            batch([to_range(T01[:n])], f"真扩N={n}", sB)
+    cmp_all(sB, "平铺k=1(N=8)", "partB_channel_count", res)
+
+    # ---------------- Part C · 新加一个通道，内容决定什么 ----------------
+    print("\n=== Part C · 新增 1 个通道：内容决定什么（N=9）===")
+    rng = np.random.default_rng(2026)
+    sC = {}
+    batch([np.concatenate([base8, [0.5]])], "基线+中性0.5", sC)                    # 中性参照
+    batch([np.concatenate([base8, [base8[i]]]) for i in range(N_INST)], "+复制既有", sC)
+    batch([np.concatenate([base8, to_range(T01[8 + i:9 + i])]) for i in range(N_INST)],
+          "+新温度样本", sC)
+    batch([np.concatenate([base8, to_range(H01[8 + i:9 + i])]) for i in range(N_INST)],
+          "+真实湿度", sC)
+    batch([np.concatenate([base8, to_range(P01[8 + i:9 + i])]) for i in range(N_INST)],
+          "+真实气压", sC)
+    batch([np.concatenate([base8, to_range([rng.uniform(0, 1)])])
+           for _ in range(N_INST)], "+均匀噪声", sC)
+    batch([np.concatenate([base8, to_range(T01[(20 + i) % len(T01):(21 + i) % len(T01)])])
+           for i in range(N_INST)], "+错配温度", sC)
+    # 剂量：新增 1/2/4 个真实湿度通道
+    for m in [1, 2, 4]:
+        batch([np.concatenate([base8, to_range(H01[8 + i:8 + i + m])])
+               for i in range(N_INST)], f"+{m}个湿度通道", sC)
+    cmp_all(sC, "基线+中性0.5", "partC_new_channel", res)
+
+    # ---------------- Part D · 独立度 ----------------
+    print("\n=== Part D · 新维度相对既有通道的真实独立度 ===")
+    r_TH = float(np.corrcoef(T, H)[0, 1]); r_TP = float(np.corrcoef(T, P)[0, 1])
+    print(f"  温度-湿度 r={r_TH:+.4f}   温度-气压 r={r_TP:+.4f}")
+    res["partD_independence"] = dict(r_temp_hum=r_TH, r_temp_pres=r_TP,
+                                     n=len(T),
+                                     note="用于解释 Part C 中各新增通道的增益排序")
+
+    os.makedirs(os.path.dirname(OUT), exist_ok=True)
+    json.dump(res, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    print(f"\n[落盘] {OUT}")
+
+
+if __name__ == '__main__':
+    main()

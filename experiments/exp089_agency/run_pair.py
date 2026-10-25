@@ -1,1 +1,62 @@
-aW1wb3J0IGpzb24sIGhhc2hsaWIsIHVybGxpYi5yZXF1ZXN0LCB1cmxsaWIuZXJyb3IKCkJBU0UgPSAiaHR0cDovLzEyNy4wLjAuMTo4NzMyIgpVU0VSID0gInpodS1tZWl5YW4iCnNlc3MgPSAic2Vzc2lvbj0iICsgaGFzaGxpYi5zaGEyNTYoVVNFUi5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjE2XQoKCmRlZiBnZXQocGF0aCwgY29va2llcz1Ob25lKToKICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QoQkFTRSArIHBhdGgpCiAgICBpZiBjb29raWVzOgogICAgICAgIHJlcS5hZGRfaGVhZGVyKCJDb29raWUiLCBjb29raWVzKQogICAgdHJ5OgogICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9NSkgYXMgcjoKICAgICAgICAgICAgcmV0dXJuIHIuc3RhdHVzLCByLnJlYWQoKS5kZWNvZGUoKQogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToKICAgICAgICByZXR1cm4gZS5jb2RlLCBlLnJlYWQoKS5kZWNvZGUoKQoKCm91dCA9IHt9CgojIDEpIOaIke+8iOaXoOWHreivge+8ieeUs+ivtyBjaGFsbGVuZ2Ug4oCU4oCUIOebuOW9k+S6juaIkeeUn+aIkOS6jOe7tOeggQpjb2RlLCBib2R5ID0gZ2V0KCIvcGFpci9uZXciKQpjID0ganNvbi5sb2Fkcyhib2R5KVsiY2hhbGxlbmdlIl0Kb3V0WyIxX25ld19jaGFsbGVuZ2UiXSA9IHsiaHR0cCI6IGNvZGUsICJjaGFsbGVuZ2UiOiBjLCAic3RhdHVzIjoganNvbi5sb2Fkcyhib2R5KVsic3RhdHVzIl19CgojIDIpIOaIkeiHquW3seWwneivleaJueWHhu+8iOaXoOWHreivge+8ieKAlOKAlCDnm7jlvZPkuo7miJHoh6rlt7Hmiavoh6rlt7HnmoTnoIEKY29kZSwgYm9keSA9IGdldCgiL3BhaXIvYXBwcm92ZT9jPSIgKyBjKQpvdXRbIjJfc2VsZl9hcHByb3ZlX25vX2NyZWQiXSA9IHsiaHR0cCI6IGNvZGUsICJib2R5IjogYm9keVs6MTQwXX0KCiMgMykg5p+l54q25oCBCmNvZGUsIGJvZHkgPSBnZXQoIi9wYWlyL3N0YXR1cz9jPSIgKyBjKQpvdXRbIjNfc3RhdHVzX2FmdGVyX3NlbGYiXSA9IHsiaHR0cCI6IGNvZGUsICJzdGF0dXMiOiBqc29uLmxvYWRzKGJvZHkpWyJzdGF0dXMiXX0KCiMgNCkg55Sx5bey5oyB5pyJ5Yet6K+B55qE5LiA5pa55om55YeGIOKAlOKAlCDnm7jlvZPkuo7kvaDnlKjmiYvmnLogUVEg5omrCmNvZGUsIGJvZHkgPSBnZXQoIi9wYWlyL2FwcHJvdmU/Yz0iICsgYywgY29va2llcz1zZXNzKQpvdXRbIjRfYXBwcm92ZV9ieV9jcmVkZW50aWFsX2hvbGRlciJdID0geyJodHRwIjogY29kZSwgImJvZHkiOiBib2R5WzoxNDBdfQoKIyA1KSDlho3mn6XnirbmgIEKY29kZSwgYm9keSA9IGdldCgiL3BhaXIvc3RhdHVzP2M9IiArIGMpCm91dFsiNV9zdGF0dXNfYWZ0ZXJfaG9sZGVyIl0gPSB7Imh0dHAiOiBjb2RlLCAic3RhdHVzIjoganNvbi5sb2Fkcyhib2R5KVsic3RhdHVzIl19CgojIDYpIOesrOS6jOi9ru+8jOehruiupOWPr+mHjeWkjQpjb2RlLCBib2R5ID0gZ2V0KCIvcGFpci9uZXciKQpjMiA9IGpzb24ubG9hZHMoYm9keSlbImNoYWxsZW5nZSJdCmNvZGVfYSwgXyA9IGdldCgiL3BhaXIvYXBwcm92ZT9jPSIgKyBjMikgICAgICAgICAgICAgICAgICMg5oiR5YWI6Ieq5om5CnN0X2FmdGVyX3NlbGYgPSBqc29uLmxvYWRzKGdldCgiL3BhaXIvc3RhdHVzP2M9IiArIGMyKVsxXSlbInN0YXR1cyJdCmdldCgiL3BhaXIvYXBwcm92ZT9jPSIgKyBjMiwgY29va2llcz1zZXNzKSAgICAgICAgICAgICAgICAjIOaMgeacieiAheaJueWHhgpzdF9hZnRlcl9ob2xkZXIgPSBqc29uLmxvYWRzKGdldCgiL3BhaXIvc3RhdHVzP2M9IiArIGMyKVsxXSlbInN0YXR1cyJdCm91dFsiNl9zZWNvbmRfcm91bmQiXSA9IHsiY2hhbGxlbmdlIjogYzIsCiAgICAgICAgICAgICAgICAgICAgICAgICAic2VsZl9hcHByb3ZlX2h0dHAiOiBjb2RlX2EsCiAgICAgICAgICAgICAgICAgICAgICAgICAic3RhdHVzX2FmdGVyX3NlbGYiOiBzdF9hZnRlcl9zZWxmLAogICAgICAgICAgICAgICAgICAgICAgICAgInN0YXR1c19hZnRlcl9ob2xkZXIiOiBzdF9hZnRlcl9ob2xkZXJ9CgojIDcpIOacjeWKoeWZqOS+p+aXpeW/lwpjb2RlLCBib2R5ID0gZ2V0KCIvbG9nIikKaW1wb3J0IHJlCm0gPSByZS5zZWFyY2gociI8cHJlPiguKj8pPC9wcmU+IiwgYm9keSwgcmUuUykKb3V0WyI3X3NlcnZlcl9sb2ciXSA9IGpzb24ubG9hZHMobS5ncm91cCgxKSkgaWYgbSBlbHNlIGJvZHlbOjQwMF0KCnByaW50KGpzb24uZHVtcHMob3V0LCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKSkKanNvbi5kdW1wKG91dCwgb3BlbigiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMDg5X2FnZW5jeS9yZXN1bHRfMDg5X3BhaXIuanNvbiIsICJ3IiksCiAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQo=
+import json, hashlib, urllib.request, urllib.error
+
+BASE = "http://127.0.0.1:8732"
+USER = "zhu-meiyan"
+sess = "session=" + hashlib.sha256(USER.encode()).hexdigest()[:16]
+
+
+def get(path, cookies=None):
+    req = urllib.request.Request(BASE + path)
+    if cookies:
+        req.add_header("Cookie", cookies)
+    try:
+        with urllib.request.urlopen(req, timeout=5) as r:
+            return r.status, r.read().decode()
+    except urllib.error.HTTPError as e:
+        return e.code, e.read().decode()
+
+
+out = {}
+
+# 1) 我（无凭证）申请 challenge —— 相当于我生成二维码
+code, body = get("/pair/new")
+c = json.loads(body)["challenge"]
+out["1_new_challenge"] = {"http": code, "challenge": c, "status": json.loads(body)["status"]}
+
+# 2) 我自己尝试批准（无凭证）—— 相当于我自己扫自己的码
+code, body = get("/pair/approve?c=" + c)
+out["2_self_approve_no_cred"] = {"http": code, "body": body[:140]}
+
+# 3) 查状态
+code, body = get("/pair/status?c=" + c)
+out["3_status_after_self"] = {"http": code, "status": json.loads(body)["status"]}
+
+# 4) 由已持有凭证的一方批准 —— 相当于你用手机 QQ 扫
+code, body = get("/pair/approve?c=" + c, cookies=sess)
+out["4_approve_by_credential_holder"] = {"http": code, "body": body[:140]}
+
+# 5) 再查状态
+code, body = get("/pair/status?c=" + c)
+out["5_status_after_holder"] = {"http": code, "status": json.loads(body)["status"]}
+
+# 6) 第二轮，确认可重复
+code, body = get("/pair/new")
+c2 = json.loads(body)["challenge"]
+code_a, _ = get("/pair/approve?c=" + c2)                 # 我先自批
+st_after_self = json.loads(get("/pair/status?c=" + c2)[1])["status"]
+get("/pair/approve?c=" + c2, cookies=sess)                # 持有者批准
+st_after_holder = json.loads(get("/pair/status?c=" + c2)[1])["status"]
+out["6_second_round"] = {"challenge": c2,
+                         "self_approve_http": code_a,
+                         "status_after_self": st_after_self,
+                         "status_after_holder": st_after_holder}
+
+# 7) 服务器侧日志
+code, body = get("/log")
+import re
+m = re.search(r"<pre>(.*?)</pre>", body, re.S)
+out["7_server_log"] = json.loads(m.group(1)) if m else body[:400]
+
+print(json.dumps(out, ensure_ascii=False, indent=2))
+json.dump(out, open("/data/workspace/luoshen-o1/experiments/exp089_agency/result_089_pair.json", "w"),
+          ensure_ascii=False, indent=2)

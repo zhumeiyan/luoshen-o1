@@ -1,1 +1,45 @@
-IiIiTG9ndXJ1IGNvbmZpZ3VyYXRpb24gZm9yIHRoZSBIVFRQIHNlcnZlciBzdGFjay4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBsb2dnaW5nCmltcG9ydCBzeXMKZnJvbSB0eXBlcyBpbXBvcnQgRnJhbWVUeXBlCgpmcm9tIGxvZ3VydSBpbXBvcnQgbG9nZ2VyCgoKY2xhc3MgX0ludGVyY2VwdEhhbmRsZXIobG9nZ2luZy5IYW5kbGVyKToKICAgICIiIkZvcndhcmQgc3RkbGliIGxvZyByZWNvcmRzIGludG8gbG9ndXJ1LCBwcmVzZXJ2aW5nIGxldmVsICsgY2FsbGVyLiIiIgoKICAgIGRlZiBlbWl0KHNlbGYsIHJlY29yZDogbG9nZ2luZy5Mb2dSZWNvcmQpIC0+IE5vbmU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBsZXZlbDogc3RyIHwgaW50ID0gbG9nZ2VyLmxldmVsKHJlY29yZC5sZXZlbG5hbWUpLm5hbWUKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgbGV2ZWwgPSByZWNvcmQubGV2ZWxubwoKICAgICAgICBmcmFtZTogRnJhbWVUeXBlIHwgTm9uZSA9IGxvZ2dpbmcuY3VycmVudGZyYW1lKCkKICAgICAgICBkZXB0aCA9IDIKICAgICAgICB3aGlsZSBmcmFtZSBhbmQgZnJhbWUuZl9jb2RlLmNvX2ZpbGVuYW1lID09IGxvZ2dpbmcuX19maWxlX186CiAgICAgICAgICAgIGZyYW1lID0gZnJhbWUuZl9iYWNrCiAgICAgICAgICAgIGRlcHRoICs9IDEKCiAgICAgICAgbG9nZ2VyLm9wdChkZXB0aD1kZXB0aCwgZXhjZXB0aW9uPXJlY29yZC5leGNfaW5mbykubG9nKAogICAgICAgICAgICBsZXZlbCwgcmVjb3JkLmdldE1lc3NhZ2UoKQogICAgICAgICkKCgpkZWYgY29uZmlndXJlX2xvZ2dpbmcobGV2ZWw6IHN0ciA9ICJJTkZPIikgLT4gTm9uZToKICAgICIiIlJlcGxhY2UgbG9ndXJ1J3MgZGVmYXVsdCBzaW5rIGFuZCBwaXBlIHN0ZGxpYiBsb2cgcmVjb3JkcyBpbi4iIiIKICAgIGxvZ2dlci5yZW1vdmUoKQogICAgbG9nZ2VyLmFkZCgKICAgICAgICBzeXMuc3RkZXJyLAogICAgICAgIGxldmVsPWxldmVsLAogICAgICAgIGZvcm1hdD0oCiAgICAgICAgICAgICI8Z3JlZW4+e3RpbWU6WVlZWS1NTS1ERCBISDptbTpzcy5TU1N9PC9ncmVlbj4gfCAiCiAgICAgICAgICAgICI8bGV2ZWw+e2xldmVsOiA8OH08L2xldmVsPiB8ICIKICAgICAgICAgICAgIjxjeWFuPntuYW1lfTwvY3lhbj46PGN5YW4+e2Z1bmN0aW9ufTwvY3lhbj46PGN5YW4+e2xpbmV9PC9jeWFuPiAtICIKICAgICAgICAgICAgIjxsZXZlbD57bWVzc2FnZX08L2xldmVsPiIKICAgICAgICApLAogICAgKQogICAgbG9nZ2luZy5iYXNpY0NvbmZpZyhoYW5kbGVycz1bX0ludGVyY2VwdEhhbmRsZXIoKV0sIGxldmVsPTAsIGZvcmNlPVRydWUpCg==
+"""Loguru configuration for the HTTP server stack."""
+
+from __future__ import annotations
+
+import logging
+import sys
+from types import FrameType
+
+from loguru import logger
+
+
+class _InterceptHandler(logging.Handler):
+    """Forward stdlib log records into loguru, preserving level + caller."""
+
+    def emit(self, record: logging.LogRecord) -> None:
+        try:
+            level: str | int = logger.level(record.levelname).name
+        except ValueError:
+            level = record.levelno
+
+        frame: FrameType | None = logging.currentframe()
+        depth = 2
+        while frame and frame.f_code.co_filename == logging.__file__:
+            frame = frame.f_back
+            depth += 1
+
+        logger.opt(depth=depth, exception=record.exc_info).log(
+            level, record.getMessage()
+        )
+
+
+def configure_logging(level: str = "INFO") -> None:
+    """Replace loguru's default sink and pipe stdlib log records in."""
+    logger.remove()
+    logger.add(
+        sys.stderr,
+        level=level,
+        format=(
+            "<green>{time:YYYY-MM-DD HH:mm:ss.SSS}</green> | "
+            "<level>{level: <8}</level> | "
+            "<cyan>{name}</cyan>:<cyan>{function}</cyan>:<cyan>{line}</cyan> - "
+            "<level>{message}</level>"
+        ),
+    )
+    logging.basicConfig(handlers=[_InterceptHandler()], level=0, force=True)

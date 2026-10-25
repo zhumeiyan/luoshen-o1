@@ -1,1 +1,47 @@
-aW1wb3J0IHJlcXVlc3RzCgpkZWYgZmV0Y2hfaXBfZGF0YSh1cmwpOgogICAgIiIi6I635Y+WSVDmlbDmja4iIiIKICAgIHRyeToKICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCh1cmwpCiAgICAgICAgcmVzcG9uc2UucmFpc2VfZm9yX3N0YXR1cygpICAjIOajgOafpeivt+axguaYr+WQpuaIkOWKnwogICAgICAgIHJldHVybiByZXNwb25zZS50ZXh0LnN0cmlwKCkuc3BsaXRsaW5lcygpICAjIOaMieihjOWIhuWJsgogICAgZXhjZXB0IHJlcXVlc3RzLlJlcXVlc3RFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIuivt+axgumUmeivrzoge2V9IikKICAgICAgICByZXR1cm4gW10gICMg6L+U5Zue56m65YiX6KGo5Lul6Ziy5ZCO57ut5Luj56CB5Ye66ZSZCgpkZWYgZmV0Y2hfaXBfbG9jYXRpb24oaXApOgogICAgIiIi5p+l6K+iSVDnmoTlnLDnkIbkvY3nva4iIiIKICAgIGxvY2F0aW9uX2FwaV91cmwgPSBmImh0dHA6Ly9pcC1hcGkuY29tL2pzb24ve2lwfSIKICAgIHRyeToKICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldChsb2NhdGlvbl9hcGlfdXJsKQogICAgICAgIHJlc3BvbnNlLnJhaXNlX2Zvcl9zdGF0dXMoKSAgIyDmo4Dmn6Xor7fmsYLmmK/lkKbmiJDlip8KICAgICAgICBkYXRhID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgcmV0dXJuIGRhdGEuZ2V0KCdyZWdpb24nLCAn5pyq55+l5Yy65Z+fJykgICMg6I635Y+W5Yy65Z+f77yM6buY6K6k5Li64oCc5pyq55+l5Yy65Z+f4oCdCiAgICBleGNlcHQgcmVxdWVzdHMuUmVxdWVzdEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KGYi6I635Y+W5L2N572u6ZSZ6K+vOiB7ZX0iKQogICAgICAgIHJldHVybiAn5pyq55+l5Yy65Z+fJyAgIyDlj5HnlJ/plJnor6/ml7bov5Tlm57igJzmnKrnn6XljLrln5/igJ0KCmRlZiBnZW5lcmF0ZV9vdXRwdXRfZmlsZShpcF9kYXRhLCBvdXRwdXRfZmlsZW5hbWUpOgogICAgIiIi55Sf5oiQ6L6T5Ye65paH5Lu2IiIiCiAgICBzZWVuID0ge30gICMg55So5LqO6Lef6Liq5bey5aSE55CG55qE6L6T5Ye66KGMCiAgICB3aXRoIG9wZW4ob3V0cHV0X2ZpbGVuYW1lLCAndycsIGVuY29kaW5nPSd1dGYtOCcpIGFzIGY6CiAgICAgICAgZm9yIGlwX2VudHJ5IGluIGlwX2RhdGE6CiAgICAgICAgICAgIGlwID0gaXBfZW50cnkuc3BsaXQoJyMnKVswXSAgIyDmj5Dlj5ZJUOmDqOWIhgogICAgICAgICAgICBsb2NhdGlvbiA9IGZldGNoX2lwX2xvY2F0aW9uKGlwKSAgIyDojrflj5blnLDnkIbkvY3nva4KICAgICAgICAgICAgCiAgICAgICAgICAgICMg5aSE55CG6YeN5aSN6aG5CiAgICAgICAgICAgIG91dHB1dF9saW5lID0gZiJ7aXB9I3tsb2NhdGlvbn0iCiAgICAgICAgICAgIGlmIG91dHB1dF9saW5lIGluIHNlZW46CiAgICAgICAgICAgICAgICBzZWVuW291dHB1dF9saW5lXSArPSAxICAjIOWinuWKoOmHjeWkjeiuoeaVsAogICAgICAgICAgICAgICAgb3V0cHV0X2xpbmUgPSBmIntpcH0je2xvY2F0aW9ufXtzZWVuW291dHB1dF9saW5lXX0iICAjIOeUn+aIkOaWsOeahOWUr+S4gOihjAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc2VlbltvdXRwdXRfbGluZV0gPSAxICAjIOWIneWni+WMluiuoeaVsOS4ujEKCiAgICAgICAgICAgIGYud3JpdGUob3V0cHV0X2xpbmUgKyAnXG4nKSAgIyDlhpnlhaXmlofku7YKICAgIHByaW50KGYi6L6T5Ye65bey5L+d5a2Y5YiwIHtvdXRwdXRfZmlsZW5hbWV9IikKCiMg5Li756iL5bqPCnVybCA9ICJodHRwczovL2FkZHJlc3Nlc2FwaS4wOTAyMjcueHl6L2lwLjE2NDc0Ni54eXoiICAjIOebruagh1VSTAppcF9kYXRhID0gZmV0Y2hfaXBfZGF0YSh1cmwpICAjIOiOt+WPlklQ5pWw5o2uCmdlbmVyYXRlX291dHB1dF9maWxlKGlwX2RhdGEsICJjZi50eHQiKSAgIyDnlJ/miJDovpPlh7rmlofku7YK
+import requests
+
+def fetch_ip_data(url):
+    """获取IP数据"""
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # 检查请求是否成功
+        return response.text.strip().splitlines()  # 按行分割
+    except requests.RequestException as e:
+        print(f"请求错误: {e}")
+        return []  # 返回空列表以防后续代码出错
+
+def fetch_ip_location(ip):
+    """查询IP的地理位置"""
+    location_api_url = f"http://ip-api.com/json/{ip}"
+    try:
+        response = requests.get(location_api_url)
+        response.raise_for_status()  # 检查请求是否成功
+        data = response.json()
+        return data.get('region', '未知区域')  # 获取区域，默认为“未知区域”
+    except requests.RequestException as e:
+        print(f"获取位置错误: {e}")
+        return '未知区域'  # 发生错误时返回“未知区域”
+
+def generate_output_file(ip_data, output_filename):
+    """生成输出文件"""
+    seen = {}  # 用于跟踪已处理的输出行
+    with open(output_filename, 'w', encoding='utf-8') as f:
+        for ip_entry in ip_data:
+            ip = ip_entry.split('#')[0]  # 提取IP部分
+            location = fetch_ip_location(ip)  # 获取地理位置
+            
+            # 处理重复项
+            output_line = f"{ip}#{location}"
+            if output_line in seen:
+                seen[output_line] += 1  # 增加重复计数
+                output_line = f"{ip}#{location}{seen[output_line]}"  # 生成新的唯一行
+            else:
+                seen[output_line] = 1  # 初始化计数为1
+
+            f.write(output_line + '\n')  # 写入文件
+    print(f"输出已保存到 {output_filename}")
+
+# 主程序
+url = "https://addressesapi.090227.xyz/ip.164746.xyz"  # 目标URL
+ip_data = fetch_ip_data(url)  # 获取IP数据
+generate_output_file(ip_data, "cf.txt")  # 生成输出文件

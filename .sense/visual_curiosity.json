@@ -1,1 +1,13 @@
-ewogIm9rIjogewogICLikaAg4piFIOeUu+mdouadpeiHquecn+mhtemdou+8iOS4jeaYr+aIkemAoOeahO+8iSI6IHRydWUsCiAgIuKRoSDimIUg5Y2h54mH5bim55yf5a6e5pWw5a2X77yI5pKt5pS+L+W8ueW5lS/ml7bplb/lnYfpnZ7pm7bvvIkiOiB0cnVlLAogICLikaIg4piF4piFIOe6v+aAp+W9kuS4gOWMuuWIhuW6puaYvuiRl+mrmOS6jiB0YW5o77yI4omlMS41w5fvvIkiOiB0cnVlLAogICLikaMg4piFIOaOkuW6j+WIhuWHuuWxguasoe+8iOmmluWwvuW3rui3nSA+IDAuM++8iSI6IHRydWUsCiAgIuKRpCDimIUg5pyJ55S76Z2i55qE6YCJ5oup5LiO6ZqP5py65LiN5ZCMIjogdHJ1ZSwKICAi4pGlIOKYhSDnnJ/ljrvngrnkuobvvIjml6DorrrmiJDotKXpg73lpoLlrp7orrDlvZXvvIkiOiB0cnVlCiB9LAogInNwcmVhZF90YW5oIjogMC4xNzg1ODI2MTM1ODY1ODg0NSwKICJzcHJlYWRfbGluZWFyIjogMC4zNjAxNDQ2NTgzOTQzODU4LAogInRvcCI6ICLljaHniYc4Igp9
+{
+ "ok": {
+  "① ★ 画面来自真页面（不是我造的）": true,
+  "② ★ 卡片带真实数字（播放/弹幕/时长均非零）": true,
+  "③ ★★ 线性归一区分度显著高于 tanh（≥1.5×）": true,
+  "④ ★ 排序分出层次（首尾差距 > 0.3）": true,
+  "⑤ ★ 有画面的选择与随机不同": true,
+  "⑥ ★ 真去点了（无论成败都如实记录）": true
+ },
+ "spread_tanh": 0.17858261358658845,
+ "spread_linear": 0.3601446583943858,
+ "top": "卡片8"
+}

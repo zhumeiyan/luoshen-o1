@@ -1,1 +1,163 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK55S15a2Q6by7ID09IOWXheinieaYr+OAkOmrmOe7tOS4lOayoeacieWdkOagh+i9tOOAkeeahAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CueUqOaIt++8muOAjOm8u+WtkOaMieeUteWtkOm8u+S5n+ihjOOAguOAjQoK4piFIOS4juinhuiniS/lkKzop4nnmoTmoLnmnKzkuI3lkIzvvIjmnKzlsYLopoHor4HmmI7vvInvvJoKICAgIOinhuiniSAzIOS4quaEn+WPl+WZqCDihpIgMyDnu7TvvIzmnInlnZDmoIfovbQKICAgIOWQrOiniSDln7rlupXohpwgICAgIOKGkiAxIOe7tOmikeeOh+i9tAogICAg4piFIOWXheiniSB+NDAwIOWPl+S9kyDihpIgNDAwIOe7tO+8jOOAkOayoeacieiHqueEtuebuOmCu+WFs+ezu+OAke+8jOmdoOe7hOWQiOe8lueggQoK4piFIOWbm+e7hOWvueeFp++8iOavj+e7hOmDveaciSLmtYvliKvnmoQi55qE6YKj5Liq6YeP77yJ77yaCiAg4pGgIOS6pOWPieaVj+aEn++8muWNleS4quS4jemAieaLqSB2cyDpmLXliJfpgInmi6nvvIjimIUg5Lqk5Y+J5pWP5oSf5piv6K6+6K6h5LiN5piv57y66Zm377yJCiAg4pGhIOe7tOaVsOaJq+aPj++8muWPr+WIhuaAp+maj+e7tOaVsOWNh+W5tumlseWSjAogIOKRoiDmvILnp7sgdnMg5YaN55Sf77ya55S15a2Q6by75ryC77yM55Sf54mp6by76Z2g5Y+X5L2T5YaN55Sf6YeN572uCiAg4pGjIOa3t+WQiOeJqe+8mue6v+aAp+ebuOWKoCB2cyDnq57kuonnu5PlkIjvvIhSRUFMIOaKkeWItu+8iQoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKZnJvbSBjb3JlLmVsZWN0cm9uaWNfbm9zZSBpbXBvcnQgKAogICAgT1JfR0VORVNfRlVOQywgT1JfVE9UQUwsIE9TTl9DT1VOVCwgR0xPTUVSVUxJLCBFUElUSEVMSVVNX0NNMiwKICAgIFJFR0VORVJBVEVfREFZUywgTU9TX1RFTVBfQywgVDkwX1JFU1BfUywgVDkwX1JFQ09WX1MsCiAgICBEUklGVF9QQ1RfREFZLCBEUklGVF9QQ1RfTU9OVEgsIExPRF9QUEIsIFJIX1NFTlMsIFRFTVBfU0VOUywKICAgIG1ha2VfcmVjZXB0b3JfbWF0cml4LCByZWNlcHRvcl9yZXNwb25zZSwgcmVjZXB0b3JfSywgbWFrZV9kYXRhc2V0LAogICAgbm9ybWFsaXplX3Jlc3BvbnNlLCBzZXBhcmFiaWxpdHksIHNpbmdsZV92c19hcnJheSwgZGltX3N3ZWVwLAogICAgYXBwbHlfZHJpZnQsIGJpb2xvZ2ljYWxfcmVuZXdhbCwgZHJpZnRfY3VydmUsCiAgICBlbnZfZWZmZWN0LCBlbnZfY29tcGVuc2F0ZSwgb2xmYWN0b3J5X2FkYXB0YXRpb24sIHNlbnNvcl9zYXR1cmF0aW9uLAogICAgcmVjb3ZlcnksIGNvbXBldGl0aXZlX2JpbmRpbmcsIG1peHR1cmVfc3VwcHJlc3Npb24sCikKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiPSIqODgpCiAgICBwcmludCgiIOeUteWtkOm8u++8muS6pOWPieaVj+aEnyDihpIg6Zi15YiXIOKGkiDmvILnp7sg4oaSIOernuS6iee7k+WQiCIpCiAgICBwcmludCgiPSIqODgpCiAgICBwcmludChmIlxuICDnlJ/nianpvLsgUkVBTO+8muWPl+S9kyB7T1JfR0VORVNfRlVOQ30g56eN77yI5oC7IHtPUl9UT1RBTH3vvIznuqbkuIDljYrlgYfln7rlm6DvvIkiKQogICAgcHJpbnQoZiIgICAgICAgICAgICAgICDll4XnpZ7nu4/lhYMge09TTl9DT1VOVC8xZTY6LjBmfSDnmb7kuIcgICDogr7lsI/nkIMge0dMT01FUlVMSX0iKQogICAgcHJpbnQoZiIgICAgICAgICAgICAgICDll4XkuIrnmq4ge0VQSVRIRUxJVU1fQ00yfSBjbcKyICAg5YaN55Sf5ZGo5pyfIHtSRUdFTkVSQVRFX0RBWVM6LjBmfSDlpKkiKQogICAgcHJpbnQoZiIgIOeUteWtkOm8uyBSRUFM77yaTU9TIHtNT1NfVEVNUF9DOi4wZn3CsEMgICDlk43lupQgdDkwIHtUOTBfUkVTUF9TOi4wZn1zICAgIgogICAgICAgICAgZiLmgaLlpI0ge1Q5MF9SRUNPVl9TOi4wZn1zIikKICAgIHByaW50KGYiICAgICAgICAgICAgICAg5ryC56e7IHtEUklGVF9QQ1RfREFZfSUv5aSp77yIe0RSSUZUX1BDVF9NT05USH0lL+aciO+8iSAgICIKICAgICAgICAgIGYi5qOA5Ye66ZmQIHtMT0RfUFBCOi4wZn0gcHBiIikKICAgIG9rID0ge30KICAgIHJuZzAgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMCkKICAgIE5fT0RPUiA9IDIwCiAgICBNID0gbWFrZV9yZWNlcHRvcl9tYXRyaXgoTl9PRE9SLCAxNiwgcm5nPXJuZzApCiAgICBjaGFuY2UgPSAxLjAgLyBOX09ET1IKCiAgICAjIC0tLS0tLS0tLS0g5a6e6aqMMe+8muS6pOWPieaVj+aEnyAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqowx44CR4piFIOS6pOWPieaVj+aEn+S4jeaYr+e8uumZt++8jOaYr+OAkOiuvuiuoeOAkSIpCiAgICBwcmludCgiLSIqODgpCiAgICBhMSwgYWEgPSBzaW5nbGVfdnNfYXJyYXkoTSwgc2VlZD0xKQogICAgYjEsIGJhID0gc2luZ2xlX3ZzX2FycmF5KE0sIHNlZWQ9MSwgbm9ybT1GYWxzZSkKICAgIHByaW50KGYiICB7Jyc6PDE4fXsn5Y2V5Lyg5oSf5ZmoJzo+MTJ9eyfmlbTliJfpmLXliJcnOj4xMn17J+aPkOWNhyc6PjEwfSIpCiAgICBwcmludChmIiAgeyflgZrmtZPluqblvZLkuIDljJYnOjwxOH17YTE6PjEyLjNmfXthYTo+MTIuM2Z9e2FhL21heChhMSwxZS05KTo+OS4xZn3DlyIpCiAgICBwcmludChmIiAgeyfkuI3lgZrlvZLkuIDljJYo5a+554WnKSc6PDE4fXtiMTo+MTIuM2Z9e2JhOj4xMi4zZn17YmEvbWF4KGIxLDFlLTkpOj45LjFmfcOXIikKICAgIHByaW50KGYiXG4gIOmaj+acuuawtOW5syA9IDEve05fT0RPUn0gPSB7Y2hhbmNlOi4zZn0iKQogICAgcHJpbnQoZiIgIOKYhSDljZXkuKrkvKDmhJ/lmagge2ExOi4zZn3vvIzlj6rmr5Tpmo/mnLrpq5jkuIDngrnngrkg4oCU4oCUIOWug+OAkOS4jemAieaLqeOAkSIpCiAgICBwcmludChmIiAg4piFIOaVtOWIl+mYteWIlyB7YWE6LjNmfSDigJTigJQg57uE5ZCI6LW35p2l5omN6YCJ5oupIikKICAgIG9rWyLikaAg4piFIOaVtOWIl+mYteWIl+aYvuiRl+S8mOS6juWNleS8oOaEn+WZqO+8iD4zw5fvvIkiXSA9IGJvb2woYWEgPiAzKmExKQogICAgb2tbIuKRoSDljZXkvKDmhJ/lmajor4bliKvnjofmjqXov5Hpmo/mnLrvvIg8M8OX6ZqP5py677yJIl0gPSBib29sKGExIDwgMypjaGFuY2UpCiAgICBva1si4pGiIOmYteWIl+ivhuWIq+eOh+i/nOi2hemaj+acuu+8iD44w5fpmo/mnLrvvIkiXSA9IGJvb2woYWEgPiA4KmNoYW5jZSkKCiAgICAjIC0tLS0tLS0tLS0g5a6e6aqMMu+8mue7tOaVsOaJq+aPjyAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqowy44CR57u05pWw5Yaz5a6a5Y+v5YiG5oCn77yI4piFIOW5tuS8mumlseWSjO+8iSIpCiAgICBwcmludCgiLSIqODgpCiAgICBwcmludChmIiAgeyfnu7TmlbAnOj43fXsnMjDnsbvor4bliKvnjocnOj4xNH17JzEwMOexu+ivhuWIq+eOhyc6PjE0fSIpCiAgICBkMjAgPSBkaWN0KGRpbV9zd2VlcChuX29kb3I9MjAsIGRpbXM9KDEsMiw0LDgsMTYsMzIsNjQsMTI4LDQwMCksIHNlZWQ9MikpCiAgICBkMTAwID0gZGljdChkaW1fc3dlZXAobl9vZG9yPTEwMCwgZGltcz0oMSwyLDQsOCwxNiwzMiw2NCwxMjgsNDAwKSwgc2VlZD01KSkKICAgIGZvciBkIGluICgxLDIsNCw4LDE2LDMyLDY0LDEyOCw0MDApOgogICAgICAgIHByaW50KGYiICB7ZDo+N317ZDIwW2RdOj4xNC4zZn17ZDEwMFtkXTo+MTQuM2Z9IikKICAgIG9rWyLikaMg5Y+v5YiG5oCn6ZqP57u05pWw5Y2V6LCD5LiK5Y2H77yIMjDnsbvvvIwx4oaSMTbnu7TvvIkiXSA9IGJvb2woCiAgICAgICAgZDIwWzE2XSA+IGQyMFs0XSA+IGQyMFsxXSkKICAgIG9rWyLikaQg4piFIOmrmOe7tOmlseWSjO+8mjQwMOe7tOS4jeWGjeS8mOS6jjEyOOe7tO+8iMKxMC4wMu+8iSJdID0gYm9vbCgKICAgICAgICBhYnMoZDIwWzQwMF0tZDIwWzEyOF0pIDwgMC4wMikKICAgIG9rWyLikaUg4piFIOexu+aVsOi2iuWkmui2iumavu+8mjEwMOexu+WcqOWQjOagt+e7tOaVsOS4i+ivhuWIq+eOh+abtOS9jiJdID0gYm9vbCgKICAgICAgICBkMTAwWzE2XSA8IGQyMFsxNl0pCiAgICBwcmludChmIlxuICDimIUgMTYg57u05pe277yaMjDnsbsge2QyMFsxNl06LjNmfSAgdnMgIDEwMOexuyB7ZDEwMFsxNl06LjNmfSIpCiAgICBwcmludChmIiAg4piFIOWXheinieimgSB7T1JfR0VORVNfRlVOQ30g57u077yM5q2j5Zug5Li66KaB5YiG6L6o55qE5rCU5ZGz56eN57G75p6B5aSaIikKCiAgICAjIC0tLS0tLS0tLS0g5a6e6aqMM++8mua8guenuyB2cyDlho3nlJ8gLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMM+OAkeKYhSDmvILnp7vvvIjnlLXlrZDpvLvoh7Tlkb3kvKTvvIkgdnMg5YaN55Sf77yI55Sf54mp6by755qE6Kej5rOV77yJIikKICAgIHByaW50KCItIio4OCkKICAgIHByaW50KGYiICB7J+WkqeaVsCc6Pjd9eyfnlLXlrZDpvLsnOj4xMH17J+eUn+eJqem8uyc6PjEwfXsn5bey5YaN55Sf5Y+X5L2TJzo+MTJ9IikKICAgIGRjID0gZHJpZnRfY3VydmUoTSwgc2VlZD0zKQogICAgZm9yIGQsIGFlLCBhYiwgZnIgaW4gZGM6CiAgICAgICAgcHJpbnQoZiIgIHtkOj43fXthZTo+MTAuM2Z9e2FiOj4xMC4zZn17ZnI6PjEyLjJmfSIpCiAgICBhY2NfZTAgPSBkY1swXVsxXTsgYWNjX2UzNjUgPSBkY1stMV1bMV0KICAgIG9rWyLikaYg4piFIOeUteWtkOm8u+ivhuWIq+eOh+maj+WkqeaVsOS4i+mZjSJdID0gYm9vbChhY2NfZTM2NSA8IGFjY19lMCkKICAgIG9rWyLikacg55Sf54mp6by75Zug5Y+X5L2T5YaN55Sf6ICM5LiN5bSp77yIMzY15aSp5LuNPjAuOO+8iSJdID0gYm9vbChkY1stMV1bMl0gPiAwLjgpCiAgICBva1si4pGoIOKYhSAzNjUg5aSp5pe255Sf54mp6by75LyY5LqO55S15a2Q6by7Il0gPSBib29sKGRjWy0xXVsyXSA+IGRjWy0xXVsxXSkKICAgIHByaW50KGYiXG4gIDM2NeWkqe+8mueUteWtkOm8uyB7ZGNbLTFdWzFdOi4zZn0gIOeUn+eJqem8uyB7ZGNbLTFdWzJdOi4zZn0iKQogICAgcHJpbnQoIiAg4piFIOeUn+eJqem8u+eahOino+azleS4jeaYr+abtOeos+eahOS8oOaEn+WZqO+8jOiAjOaYr+OAkOWumuacn+aNouaOieS8oOaEn+WZqOOAkeKAlOKAlDQ15aSp5o2i5LiA5om5IikKCiAgICAjIC0tLS0tLS0tLS0g5a6e6aqMNO+8mua3t+WQiOeJqeernuS6iSAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqow044CR4piFIOa3t+WQiOeJqeaKkeWItu+8mkErQiDiiaAgQStC77yI56ue5LqJ57uT5ZCI77yJIikKICAgIHByaW50KCItIio4OCkKICAgIEsgPSByZWNlcHRvcl9LKDE2LCBucC5yYW5kb20uZGVmYXVsdF9ybmcoNykpCiAgICByQSwgckIsIGxpbiwgY29tcCA9IGNvbXBldGl0aXZlX2JpbmRpbmcoTVswXSwgTVsxXSwgMS4wLCAxLjAsIEspCiAgICByYXRpbyA9IGNvbXAuc3VtKCkgLyBsaW4uc3VtKCkKICAgIHByaW50KGYiICDnur/mgKfnm7jliqAgzqMgICAgID0ge2xpbi5zdW0oKTouNGZ9IikKICAgIHByaW50KGYiICDnq57kuonnu5PlkIggzqMgICAgID0ge2NvbXAuc3VtKCk6LjRmfSIpCiAgICBwcmludChmIiAg4piFIOaKkeWItuavlCAgICAgICA9IHtyYXRpbzouM2Z9ICDvvIhSRUFMIOa3t+WQiOeJqeaKkeWItiAwLjV+MC4577yJIikKICAgIG9rWyLikakg4piFIOa3t+WQiOeJqeWTjeW6lOS9juS6jue6v+aAp+ebuOWKoO+8iOavlOWAvDwx77yJIl0gPSBib29sKHJhdGlvIDwgMS4wKQogICAgb2tbIuKRqiDmipHliLblvLrluqbokL0gUkVBTCDljLrpl7QgMC41fjAuOTUiXSA9IGJvb2woMC41IDw9IHJhdGlvIDw9IDAuOTUpCiAgICAjIOa1k+W6puaJq+aPj++8mua1k+W6pui2iumrmOaKkeWItui2iuW8ugogICAgcHJpbnQoZiJcbiAgeyfmtZPluqYnOj44fXsn5oqR5Yi25q+UJzo+MTB9IikKICAgIGZvciBjIGluIFswLjEsIDAuNSwgMS4wLCA1LjAsIDIwLjBdOgogICAgICAgIF8sIF8sIGwyLCBjMiA9IGNvbXBldGl0aXZlX2JpbmRpbmcoTVswXSwgTVsxXSwgYywgYywgSykKICAgICAgICBwcmludChmIiAge2M6PjguMWZ9e2MyLnN1bSgpL2wyLnN1bSgpOj4xMC4zZn0iKQogICAgbG8gPSBjb21wZXRpdGl2ZV9iaW5kaW5nKE1bMF0sTVsxXSwwLjEsMC4xLEspWzNdLnN1bSgpL2NvbXBldGl0aXZlX2JpbmRpbmcoTVswXSxNWzFdLDAuMSwwLjEsSylbMl0uc3VtKCkKICAgIGhpID0gY29tcGV0aXRpdmVfYmluZGluZyhNWzBdLE1bMV0sMjAuLDIwLixLKVszXS5zdW0oKS9jb21wZXRpdGl2ZV9iaW5kaW5nKE1bMF0sTVsxXSwyMC4sMjAuLEspWzJdLnN1bSgpCiAgICBva1si4pGrIOKYhSDmtZPluqbotorpq5jmipHliLbotorlvLrvvIjlj5fkvZPppbHlkozvvIkiXSA9IGJvb2woaGkgPCBsbykKCiAgICAjIC0tLS0tLS0tLS0g5a6e6aqMNe+8mumAguW6lCB2cyDppbHlkowgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMNeOAkeKYhSDnlJ/nianjgJDpgILlupTjgJEgdnMg55S15a2Q6by744CQ6aWx5ZKM44CR77yI5YWz6ZSu5Yy65Yir77yJIikKICAgIHByaW50KCItIio4OCkKICAgIHQgPSBucC5hcnJheShbMCwgNSwgMTAsIDMwLCA2MCwgMTIwLCAzMDBdKQogICAgYWQgPSBvbGZhY3RvcnlfYWRhcHRhdGlvbih0KTsgc2EgPSBzZW5zb3Jfc2F0dXJhdGlvbih0KQogICAgcHJpbnQoZiIgIHsn5pe26Ze0KHMpJzo+OX17J+eUn+eJqemAguW6lCc6PjEyfXsn55S15a2Q6by75ZON5bqUJzo+MTJ9IikKICAgIGZvciB0dCwgYV8sIHNfIGluIHppcCh0LCBhZCwgc2EpOgogICAgICAgIHByaW50KGYiICB7dHQ6Pjl9e2FfOj4xMi4zZn17c186PjEyLjNmfSIpCiAgICBva1si4pGsIOKYhSDnlJ/nianlk43lupTkvJrjgJDoobDlh4/jgJHvvIjpgILlupTvvInvvIznlLXlrZDpvLvlj6rljYfkuI3pmY3vvIjppbHlkozvvIkiXSA9IGJvb2woCiAgICAgICAgYWRbLTFdIDwgYWRbMF0gYW5kIHNhWy0xXSA+IHNhWzBdKQogICAgcHJpbnQoZiJcbiAg4piFIOeUn+eJqe+8mnthZFswXTouM2Z9IOKGkiB7YWRbLTFdOi4zZn3vvIjoobDlh4/liLAge2FkWy0xXTouMCV977yJIikKICAgIHByaW50KGYiICDimIUg55S15a2Q6by777yae3NhWzBdOi4zZn0g4oaSIHtzYVstMV06LjNmfe+8iOWPquWNh+S4jemZje+8iSIpCiAgICBwcmludChmIiAg4piFIOeUn+eJqemAguW6lOWIsCB7YWRbLTFdOi4wJX0g5bCx44CQ5LiN5YaN5LiL6ZmN44CR77yI5LiN5Lya5a6M5YWo5b2S6Zu277yJIikKCiAgICAjIC0tLS0tLS0tLS0g5a6e6aqMNu+8mua4qea5v+W6piAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqow244CR5rip5rm/5bqm5L6d6LWW5LiO6KGl5YG/IikKICAgIHByaW50KCItIio4OCkKICAgIFIsIGxhYmVscywgXyA9IG1ha2VfZGF0YXNldChNLCAzMCwgbnAucmFuZG9tLmRlZmF1bHRfcm5nKDkpKQogICAgUm4gPSBub3JtYWxpemVfcmVzcG9uc2UoUikKICAgIGJhc2VfYWNjID0gc2VwYXJhYmlsaXR5KFJuLCBsYWJlbHMsIG5wLnJhbmRvbS5kZWZhdWx0X3JuZyg5KSkKICAgIHJvd3MgPSBbXQogICAgcHJpbnQoZiIgIHsnUkgnOj42fXsn5rip5bqmJzo+N317J+acquihpeWBvyc6PjEwfXsn5bey6KGl5YG/Jzo+MTB9IikKICAgIGZvciByaCwgdGMgaW4gWygwLjUsMjUuMCksKDAuOCwyNS4wKSwoMC4yLDI1LjApLCgwLjUsNDAuMCksKDAuOSwzNS4wKV06CiAgICAgICAgUncgPSBlbnZfZWZmZWN0KFIsIHJoLCB0YykKICAgICAgICBSYyA9IGVudl9jb21wZW5zYXRlKFJ3LCByaCwgdGMpCiAgICAgICAgYV93ID0gc2VwYXJhYmlsaXR5KG5vcm1hbGl6ZV9yZXNwb25zZShSdyksIGxhYmVscywgbnAucmFuZG9tLmRlZmF1bHRfcm5nKDkpKQogICAgICAgIGFfYyA9IHNlcGFyYWJpbGl0eShub3JtYWxpemVfcmVzcG9uc2UoUmMpLCBsYWJlbHMsIG5wLnJhbmRvbS5kZWZhdWx0X3JuZyg5KSkKICAgICAgICByb3dzLmFwcGVuZCgocmgsdGMsYV93LGFfYykpCiAgICAgICAgcHJpbnQoZiIgIHtyaDo+Ni4xZn17dGM6PjcuMWZ9e2Ffdzo+MTAuM2Z9e2FfYzo+MTAuM2Z9IikKICAgIG9rWyLika0g4piFIOihpeWBv+WQjuivhuWIq+eOh+aBouWkje+8iOWQhOadoeS7tuWdhyDiiaUg5pyq6KGl5YG/77yJIl0gPSBib29sKAogICAgICAgIGFsbChjID49IHcgLSAxZS05IGZvciBfLF8sdyxjIGluIHJvd3MpKQogICAgcHJpbnQoZiJcbiAg5Z+657q/77yI5qCH5YeG546v5aKD77yJe2Jhc2VfYWNjOi4zZn0iKQogICAgcHJpbnQoIiAg4piFIOihpeWBv+WJjeaPkO+8muS9oOOAkOa1i+S6huOAkea4qea5v+W6puOAguayoea1i+WwseihpeS4jeS6huOAgiIpCgogICAgcHJpbnQoIlxuIisiPSIqODgpCiAgICBwcmludCgiIOWIpOaNruaxh+aAuyIpCiAgICBwcmludCgiPSIqODgpCiAgICBmb3Igayx2IGluIG9rLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiB2IGVsc2UgJ+KdjCd9IHtrfSIpCiAgICBwcmludChmIlxuICDinIUge3N1bShvay52YWx1ZXMoKSl9L3tsZW4ob2spfSIpCiAgICBwcmludCgiXG4gIOKdjCDmnKrlu7rmqKHvvJrmsJTlkbPnqbrpl7TnmoTjgJDljJblrabnu5PmnoTovbTjgJHvvIjliIblrZDnibnlvoHlhrPlrprlj5fkvZPkurLlkozluqbvvIkiKQogICAgcHJpbnQoIiAg4p2MIOacquW7uuaooe+8muWXheeQg+S+p+aKkeWItuOAgeWXheearuWxgueogOeWj+e8lueggeOAgeawlOWRs+iusOW/hiIpCiAgICBwcmludCgiICDinYwg5pyq5bu65qih77ya5rCU5rWBL+WQuOmZhOWKqOWKm+WtpuOAgem8u+iFlOWxgua1geS4juWXheijguino+WJliIpCiAgICBwcmludCgiICDimqDvuI8g5Y+X5L2T5ZON5bqU55+p6Zi15piv6ZqP5py655Sf5oiQ55qE77yM5LiN5piv55yf5a6eIE9SLW9kb3Ig5Lqy5ZKM5bqm5pWw5o2uIikKICAgIGpzb24uZHVtcCh7azpib29sKHYpIGZvciBrLHYgaW4gb2suaXRlbXMoKX0sCiAgICAgICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oSEVSRSwiLnNlbnNlIiwibm9zZS5qc29uIiksInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+电子鼻 == 嗅觉是【高维且没有坐标轴】的
+========================================
+用户：「鼻子按电子鼻也行。」
+
+★ 与视觉/听觉的根本不同（本层要证明）：
+    视觉 3 个感受器 → 3 维，有坐标轴
+    听觉 基底膜     → 1 维频率轴
+    ★ 嗅觉 ~400 受体 → 400 维，【没有自然相邻关系】，靠组合编码
+
+★ 四组对照（每组都有"测别的"的那个量）：
+  ① 交叉敏感：单个不选择 vs 阵列选择（★ 交叉敏感是设计不是缺陷）
+  ② 维数扫描：可分性随维数升并饱和
+  ③ 漂移 vs 再生：电子鼻漂，生物鼻靠受体再生重置
+  ④ 混合物：线性相加 vs 竞争结合（REAL 抑制）
+"""
+import os, sys, json
+import numpy as np
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.electronic_nose import (
+    OR_GENES_FUNC, OR_TOTAL, OSN_COUNT, GLOMERULI, EPITHELIUM_CM2,
+    REGENERATE_DAYS, MOS_TEMP_C, T90_RESP_S, T90_RECOV_S,
+    DRIFT_PCT_DAY, DRIFT_PCT_MONTH, LOD_PPB, RH_SENS, TEMP_SENS,
+    make_receptor_matrix, receptor_response, receptor_K, make_dataset,
+    normalize_response, separability, single_vs_array, dim_sweep,
+    apply_drift, biological_renewal, drift_curve,
+    env_effect, env_compensate, olfactory_adaptation, sensor_saturation,
+    recovery, competitive_binding, mixture_suppression,
+)
+
+if __name__ == "__main__":
+    print("="*88)
+    print(" 电子鼻：交叉敏感 → 阵列 → 漂移 → 竞争结合")
+    print("="*88)
+    print(f"\n  生物鼻 REAL：受体 {OR_GENES_FUNC} 种（总 {OR_TOTAL}，约一半假基因）")
+    print(f"               嗅神经元 {OSN_COUNT/1e6:.0f} 百万   肾小球 {GLOMERULI}")
+    print(f"               嗅上皮 {EPITHELIUM_CM2} cm²   再生周期 {REGENERATE_DAYS:.0f} 天")
+    print(f"  电子鼻 REAL：MOS {MOS_TEMP_C:.0f}°C   响应 t90 {T90_RESP_S:.0f}s   "
+          f"恢复 {T90_RECOV_S:.0f}s")
+    print(f"               漂移 {DRIFT_PCT_DAY}%/天（{DRIFT_PCT_MONTH}%/月）   "
+          f"检出限 {LOD_PPB:.0f} ppb")
+    ok = {}
+    rng0 = np.random.default_rng(0)
+    N_ODOR = 20
+    M = make_receptor_matrix(N_ODOR, 16, rng=rng0)
+    chance = 1.0 / N_ODOR
+
+    # ---------- 实验1：交叉敏感 ----------
+    print("\n【实验1】★ 交叉敏感不是缺陷，是【设计】")
+    print("-"*88)
+    a1, aa = single_vs_array(M, seed=1)
+    b1, ba = single_vs_array(M, seed=1, norm=False)
+    print(f"  {'':<18}{'单传感器':>12}{'整列阵列':>12}{'提升':>10}")
+    print(f"  {'做浓度归一化':<18}{a1:>12.3f}{aa:>12.3f}{aa/max(a1,1e-9):>9.1f}×")
+    print(f"  {'不做归一化(对照)':<18}{b1:>12.3f}{ba:>12.3f}{ba/max(b1,1e-9):>9.1f}×")
+    print(f"\n  随机水平 = 1/{N_ODOR} = {chance:.3f}")
+    print(f"  ★ 单个传感器 {a1:.3f}，只比随机高一点点 —— 它【不选择】")
+    print(f"  ★ 整列阵列 {aa:.3f} —— 组合起来才选择")
+    ok["① ★ 整列阵列显著优于单传感器（>3×）"] = bool(aa > 3*a1)
+    ok["② 单传感器识别率接近随机（<3×随机）"] = bool(a1 < 3*chance)
+    ok["③ 阵列识别率远超随机（>8×随机）"] = bool(aa > 8*chance)
+
+    # ---------- 实验2：维数扫描 ----------
+    print("\n【实验2】维数决定可分性（★ 并会饱和）")
+    print("-"*88)
+    print(f"  {'维数':>7}{'20类识别率':>14}{'100类识别率':>14}")
+    d20 = dict(dim_sweep(n_odor=20, dims=(1,2,4,8,16,32,64,128,400), seed=2))
+    d100 = dict(dim_sweep(n_odor=100, dims=(1,2,4,8,16,32,64,128,400), seed=5))
+    for d in (1,2,4,8,16,32,64,128,400):
+        print(f"  {d:>7}{d20[d]:>14.3f}{d100[d]:>14.3f}")
+    ok["④ 可分性随维数单调上升（20类，1→16维）"] = bool(
+        d20[16] > d20[4] > d20[1])
+    ok["⑤ ★ 高维饱和：400维不再优于128维（±0.02）"] = bool(
+        abs(d20[400]-d20[128]) < 0.02)
+    ok["⑥ ★ 类数越多越难：100类在同样维数下识别率更低"] = bool(
+        d100[16] < d20[16])
+    print(f"\n  ★ 16 维时：20类 {d20[16]:.3f}  vs  100类 {d100[16]:.3f}")
+    print(f"  ★ 嗅觉要 {OR_GENES_FUNC} 维，正因为要分辨的气味种类极多")
+
+    # ---------- 实验3：漂移 vs 再生 ----------
+    print("\n【实验3】★ 漂移（电子鼻致命伤） vs 再生（生物鼻的解法）")
+    print("-"*88)
+    print(f"  {'天数':>7}{'电子鼻':>10}{'生物鼻':>10}{'已再生受体':>12}")
+    dc = drift_curve(M, seed=3)
+    for d, ae, ab, fr in dc:
+        print(f"  {d:>7}{ae:>10.3f}{ab:>10.3f}{fr:>12.2f}")
+    acc_e0 = dc[0][1]; acc_e365 = dc[-1][1]
+    ok["⑦ ★ 电子鼻识别率随天数下降"] = bool(acc_e365 < acc_e0)
+    ok["⑧ 生物鼻因受体再生而不崩（365天仍>0.8）"] = bool(dc[-1][2] > 0.8)
+    ok["⑨ ★ 365 天时生物鼻优于电子鼻"] = bool(dc[-1][2] > dc[-1][1])
+    print(f"\n  365天：电子鼻 {dc[-1][1]:.3f}  生物鼻 {dc[-1][2]:.3f}")
+    print("  ★ 生物鼻的解法不是更稳的传感器，而是【定期换掉传感器】——45天换一批")
+
+    # ---------- 实验4：混合物竞争 ----------
+    print("\n【实验4】★ 混合物抑制：A+B ≠ A+B（竞争结合）")
+    print("-"*88)
+    K = receptor_K(16, np.random.default_rng(7))
+    rA, rB, lin, comp = competitive_binding(M[0], M[1], 1.0, 1.0, K)
+    ratio = comp.sum() / lin.sum()
+    print(f"  线性相加 Σ     = {lin.sum():.4f}")
+    print(f"  竞争结合 Σ     = {comp.sum():.4f}")
+    print(f"  ★ 抑制比       = {ratio:.3f}  （REAL 混合物抑制 0.5~0.9）")
+    ok["⑩ ★ 混合物响应低于线性相加（比值<1）"] = bool(ratio < 1.0)
+    ok["⑪ 抑制强度落 REAL 区间 0.5~0.95"] = bool(0.5 <= ratio <= 0.95)
+    # 浓度扫描：浓度越高抑制越强
+    print(f"\n  {'浓度':>8}{'抑制比':>10}")
+    for c in [0.1, 0.5, 1.0, 5.0, 20.0]:
+        _, _, l2, c2 = competitive_binding(M[0], M[1], c, c, K)
+        print(f"  {c:>8.1f}{c2.sum()/l2.sum():>10.3f}")
+    lo = competitive_binding(M[0],M[1],0.1,0.1,K)[3].sum()/competitive_binding(M[0],M[1],0.1,0.1,K)[2].sum()
+    hi = competitive_binding(M[0],M[1],20.,20.,K)[3].sum()/competitive_binding(M[0],M[1],20.,20.,K)[2].sum()
+    ok["⑫ ★ 浓度越高抑制越强（受体饱和）"] = bool(hi < lo)
+
+    # ---------- 实验5：适应 vs 饱和 ----------
+    print("\n【实验5】★ 生物【适应】 vs 电子鼻【饱和】（关键区别）")
+    print("-"*88)
+    t = np.array([0, 5, 10, 30, 60, 120, 300])
+    ad = olfactory_adaptation(t); sa = sensor_saturation(t)
+    print(f"  {'时间(s)':>9}{'生物适应':>12}{'电子鼻响应':>12}")
+    for tt, a_, s_ in zip(t, ad, sa):
+        print(f"  {tt:>9}{a_:>12.3f}{s_:>12.3f}")
+    ok["⑬ ★ 生物响应会【衰减】（适应），电子鼻只升不降（饱和）"] = bool(
+        ad[-1] < ad[0] and sa[-1] > sa[0])
+    print(f"\n  ★ 生物：{ad[0]:.3f} → {ad[-1]:.3f}（衰减到 {ad[-1]:.0%}）")
+    print(f"  ★ 电子鼻：{sa[0]:.3f} → {sa[-1]:.3f}（只升不降）")
+    print(f"  ★ 生物适应到 {ad[-1]:.0%} 就【不再下降】（不会完全归零）")
+
+    # ---------- 实验6：温湿度 ----------
+    print("\n【实验6】温湿度依赖与补偿")
+    print("-"*88)
+    R, labels, _ = make_dataset(M, 30, np.random.default_rng(9))
+    Rn = normalize_response(R)
+    base_acc = separability(Rn, labels, np.random.default_rng(9))
+    rows = []
+    print(f"  {'RH':>6}{'温度':>7}{'未补偿':>10}{'已补偿':>10}")
+    for rh, tc in [(0.5,25.0),(0.8,25.0),(0.2,25.0),(0.5,40.0),(0.9,35.0)]:
+        Rw = env_effect(R, rh, tc)
+        Rc = env_compensate(Rw, rh, tc)
+        a_w = separability(normalize_response(Rw), labels, np.random.default_rng(9))
+        a_c = separability(normalize_response(Rc), labels, np.random.default_rng(9))
+        rows.append((rh,tc,a_w,a_c))
+        print(f"  {rh:>6.1f}{tc:>7.1f}{a_w:>10.3f}{a_c:>10.3f}")
+    ok["⑭ ★ 补偿后识别率恢复（各条件均 ≥ 未补偿）"] = bool(
+        all(c >= w - 1e-9 for _,_,w,c in rows))
+    print(f"\n  基线（标准环境）{base_acc:.3f}")
+    print("  ★ 补偿前提：你【测了】温湿度。没测就补不了。")
+
+    print("\n"+"="*88)
+    print(" 判据汇总")
+    print("="*88)
+    for k,v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n  ✅ {sum(ok.values())}/{len(ok)}")
+    print("\n  ❌ 未建模：气味空间的【化学结构轴】（分子特征决定受体亲和度）")
+    print("  ❌ 未建模：嗅球侧抑制、嗅皮层稀疏编码、气味记忆")
+    print("  ❌ 未建模：气流/吸附动力学、鼻腔层流与嗅裂解剖")
+    print("  ⚠️ 受体响应矩阵是随机生成的，不是真实 OR-odor 亲和度数据")
+    json.dump({k:bool(v) for k,v in ok.items()},
+              open(os.path.join(HERE,".sense","nose.json"),"w"),
+              ensure_ascii=False, indent=1)

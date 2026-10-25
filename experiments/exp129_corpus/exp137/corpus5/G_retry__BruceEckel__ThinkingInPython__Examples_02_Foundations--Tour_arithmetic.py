@@ -1,1 +1,20 @@
-IyBhcml0aG1ldGljLnB5CgpwcmludCg3IC8gMikgICMgVHJ1ZSBkaXZpc2lvbiwgYWx3YXlzIGEgZmxvYXQKIzogMy41CnByaW50KDcgLy8gMikgICMgRmxvb3IgZGl2aXNpb24KIzogMwpwcmludCg3ICUgMikgICMgUmVtYWluZGVyCiM6IDEKcHJpbnQoLTcgLy8gMiwgLTcgJSAyKSAgIyBGbG9vcnMsIG5vdCB0cnVuY2F0ZXMgdG93YXJkIHplcm8KIzogLTQgMQpwcmludCgyICoqIDEwKSAgIyBFeHBvbmVudGlhdGlvbgojOiAxMDI0CnByaW50KDEwICoqIDMwKSAgIyBBIDMxLWRpZ2l0IGludCwgbm8gb3ZlcmZsb3cKIzogMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMApwcmludChhYnMoLTUpLCByb3VuZCgzLjE0MTU5LCAyKSkKIzogNSAzLjE0CnByaW50KHJvdW5kKDAuNSksIHJvdW5kKDEuNSksIHJvdW5kKDIuNSkpICAjIFRpZXMgZ28gdG8gZXZlbgojOiAwIDIgMgpwcmludChUcnVlICsgVHJ1ZSwgVHJ1ZSA9PSAxKSAgIyBBIGJvb2wgaXMgYW4gaW50CiM6IDIgVHJ1ZQo=
+# arithmetic.py
+
+print(7 / 2)  # True division, always a float
+#: 3.5
+print(7 // 2)  # Floor division
+#: 3
+print(7 % 2)  # Remainder
+#: 1
+print(-7 // 2, -7 % 2)  # Floors, not truncates toward zero
+#: -4 1
+print(2 ** 10)  # Exponentiation
+#: 1024
+print(10 ** 30)  # A 31-digit int, no overflow
+#: 1000000000000000000000000000000
+print(abs(-5), round(3.14159, 2))
+#: 5 3.14
+print(round(0.5), round(1.5), round(2.5))  # Ties go to even
+#: 0 2 2
+print(True + True, True == 1)  # A bool is an int
+#: 2 True

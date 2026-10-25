@@ -1,1 +1,67 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJTMyDnnJ/lrp7nl5vop4nov4fmlY/vvJrkvKTlj6PlrZjlnKjml7bpmIjlgLzkuIvpmY3vvIzms6jmhI/lipvph43liIbphY0KICBjb25zdCDph4fmoLfpooTnrpfmgZLlrpogSz02CiAgaHlwZXIg5bmz5pe2IEs9M++8iOecgeW8gOmUgO+8ie+8jOacieS8pOWPo+aXtiBLPTnvvIjov4fmlY/vvJrliqDlvLrnm5Hop4bvvIkK6Zeu6aKY77ya6L+H5pWP5pivIui/h+W6puWPjeW6lCLov5jmmK8i6LWE5rqQ6YeN5YiG6YWNIu+8nwoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHJhbmRvbSwgc3RhdGlzdGljcyBhcyBzdApzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpmcm9tIGNlbGwgaW1wb3J0IEJvZHkKTj0xMjsgUk9VTkRTPTM2OyBIRUFMX0NPU1Q9MjsgQ0FTQ0FERT00CgpkZWYgcnVuKGtpbmQsIHNlZWQsIHA9MC41KToKICAgIHJuZz1yYW5kb20uUmFuZG9tKHNlZWQpOyBiPUJvZHkoTikKICAgIHdvdW5kcz17fTsgcGVuZGluZz17fTsgY2hlY2tlZD0wOyBtaXNzPTAKICAgIHRyeToKICAgICAgICBmb3IgdCBpbiByYW5nZShST1VORFMpOgogICAgICAgICAgICBhdj1saXN0KGIuY2VsbHMua2V5cygpKQogICAgICAgICAgICBpZiBhdiBhbmQgcm5nLnJhbmRvbSgpPHA6CiAgICAgICAgICAgICAgICB2PXJuZy5jaG9pY2UoYXYpCiAgICAgICAgICAgICAgICBpZiBiLmtpbGwodik6IHdvdW5kc1t2XT10CiAgICAgICAgICAgIGsgPSA2IGlmIGtpbmQ9PSdjb25zdCcgZWxzZSAoOSBpZiB3b3VuZHMgZWxzZSAzKQogICAgICAgICAgICBzbG90cz1saXN0KHJhbmdlKE4pKTsgcm5nLnNodWZmbGUoc2xvdHMpCiAgICAgICAgICAgIGZvciBjaWQgaW4gc2xvdHNbOmtdOgogICAgICAgICAgICAgICAgY2hlY2tlZCs9MQogICAgICAgICAgICAgICAgaWYgY2lkIGluIGIuY2VsbHM6CiAgICAgICAgICAgICAgICAgICAgb3MucGF0aC5leGlzdHMoJy9wcm9jLyVkJyViLmNlbGxzW2NpZF0pCiAgICAgICAgICAgICAgICBlbGlmIGNpZCBpbiB3b3VuZHMgYW5kIGNpZCBub3QgaW4gcGVuZGluZzoKICAgICAgICAgICAgICAgICAgICBwZW5kaW5nW2NpZF09SEVBTF9DT1NUOyB3b3VuZHMucG9wKGNpZCxOb25lKQogICAgICAgICAgICBmb3IgYyBpbiBsaXN0KHBlbmRpbmcpOgogICAgICAgICAgICAgICAgcGVuZGluZ1tjXS09MQogICAgICAgICAgICAgICAgaWYgcGVuZGluZ1tjXTw9MDogYi5oZWFsKGMpOyBkZWwgcGVuZGluZ1tjXQogICAgICAgICAgICBmb3IgY2lkIGluIGxpc3Qod291bmRzKToKICAgICAgICAgICAgICAgIGlmIHQtd291bmRzW2NpZF0+PUNBU0NBREU6CiAgICAgICAgICAgICAgICAgICAgbmI9W3ggZm9yIHggaW4gcmFuZ2UoTikgaWYgeCE9Y2lkIGFuZCB4IGluIGIuY2VsbHMgYW5kIHggbm90IGluIHdvdW5kc10KICAgICAgICAgICAgICAgICAgICBpZiBuYjoKICAgICAgICAgICAgICAgICAgICAgICAgbnY9cm5nLmNob2ljZShuYikKICAgICAgICAgICAgICAgICAgICAgICAgaWYgYi5raWxsKG52KTogd291bmRzW252XT10CiAgICAgICAgICAgICAgICAgICAgICAgIG1pc3MrPTEKICAgICAgICAgICAgICAgICAgICB3b3VuZHMucG9wKGNpZCxOb25lKQogICAgICAgIHJlcz1kaWN0KGtpbmQ9a2luZCwgYWxpdmU9Yi5hbGl2ZSgpLCBjaGVja2VkPWNoZWNrZWQsIG1pc3M9bWlzcykKICAgIGZpbmFsbHk6CiAgICAgICAgYi5yZWFwKCkKICAgIHJldHVybiByZXMKCmRlZiBjaSh2KToKICAgIG09c3QubWVhbih2KTsgcz1zdC5zdGRldih2KS9sZW4odikqKjAuNSBpZiBsZW4odik+MSBlbHNlIDAuMAogICAgcmV0dXJuIChtLTEuOTYqcywgbSsxLjk2KnMpCgpSRVBTPTEwOyBvdXQ9e30KZm9yIHAgaW4gWzAuMywgMC41LCAwLjddOgogICAgZm9yIGtpbmQgaW4gWydjb25zdCcsJ2h5cGVyJ106CiAgICAgICAgcnM9W3J1bihraW5kLCA3NyppKzMsIHApIGZvciBpIGluIHJhbmdlKFJFUFMpXQogICAgICAgIGFsPVtyWydhbGl2ZSddIGZvciByIGluIHJzXTsgY2s9W3JbJ2NoZWNrZWQnXSBmb3IgciBpbiByc10KICAgICAgICBvdXRbJ3AlLjFmXyVzJyUocCxraW5kKV09ZGljdChhbGl2ZT1hbCwgY2hlY2tlZD1jaywKICAgICAgICAgICAgYWxpdmVfbWVhbj1zdC5tZWFuKGFsKSwgY2hlY2tlZF9tZWFuPXN0Lm1lYW4oY2spKQogICAgICAgIHByaW50KCdwPSUuMWYgJS02cyBhbGl2ZSAlNS4yZiBDSVslLjJmLCUuMmZdICDmo4Dmn6UgJTYuMWYnCiAgICAgICAgICAgICAgJShwLGtpbmQsc3QubWVhbihhbCksY2koYWwpWzBdLGNpKGFsKVsxXSxzdC5tZWFuKGNrKSkpCiAgICBwcmludCgpCmpzb24uZHVtcChvdXQsIG9wZW4oJ3Jlc3VsdF9oeXBlci5qc29uJywndycpLCBpbmRlbnQ9MSkKCnByaW50KCc9PT0g5pWI546H5q+U77yI5q+P5a2Y5rS757uG6IOe6ICX5qOA5p+l5qyh5pWw77yJPT09JykKZm9yIHAgaW4gWzAuMywwLjUsMC43XToKICAgIGZvciBraW5kIGluIFsnY29uc3QnLCdoeXBlciddOgogICAgICAgIGQ9b3V0WydwJS4xZl8lcyclKHAsa2luZCldCiAgICAgICAgZT1kWydjaGVja2VkX21lYW4nXS9tYXgoMC41LGRbJ2FsaXZlX21lYW4nXSkKICAgICAgICBwcmludCgncD0lLjFmICUtNnMg5pWI546HICUuMWYnJShwLGtpbmQsZSkpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""S3 真实痛觉过敏：伤口存在时阈值下降，注意力重分配
+  const 采样预算恒定 K=6
+  hyper 平时 K=3（省开销），有伤口时 K=9（过敏：加强监视）
+问题：过敏是"过度反应"还是"资源重分配"？
+"""
+import os, sys, json, random, statistics as st
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from cell import Body
+N=12; ROUNDS=36; HEAL_COST=2; CASCADE=4
+
+def run(kind, seed, p=0.5):
+    rng=random.Random(seed); b=Body(N)
+    wounds={}; pending={}; checked=0; miss=0
+    try:
+        for t in range(ROUNDS):
+            av=list(b.cells.keys())
+            if av and rng.random()<p:
+                v=rng.choice(av)
+                if b.kill(v): wounds[v]=t
+            k = 6 if kind=='const' else (9 if wounds else 3)
+            slots=list(range(N)); rng.shuffle(slots)
+            for cid in slots[:k]:
+                checked+=1
+                if cid in b.cells:
+                    os.path.exists('/proc/%d'%b.cells[cid])
+                elif cid in wounds and cid not in pending:
+                    pending[cid]=HEAL_COST; wounds.pop(cid,None)
+            for c in list(pending):
+                pending[c]-=1
+                if pending[c]<=0: b.heal(c); del pending[c]
+            for cid in list(wounds):
+                if t-wounds[cid]>=CASCADE:
+                    nb=[x for x in range(N) if x!=cid and x in b.cells and x not in wounds]
+                    if nb:
+                        nv=rng.choice(nb)
+                        if b.kill(nv): wounds[nv]=t
+                        miss+=1
+                    wounds.pop(cid,None)
+        res=dict(kind=kind, alive=b.alive(), checked=checked, miss=miss)
+    finally:
+        b.reap()
+    return res
+
+def ci(v):
+    m=st.mean(v); s=st.stdev(v)/len(v)**0.5 if len(v)>1 else 0.0
+    return (m-1.96*s, m+1.96*s)
+
+REPS=10; out={}
+for p in [0.3, 0.5, 0.7]:
+    for kind in ['const','hyper']:
+        rs=[run(kind, 77*i+3, p) for i in range(REPS)]
+        al=[r['alive'] for r in rs]; ck=[r['checked'] for r in rs]
+        out['p%.1f_%s'%(p,kind)]=dict(alive=al, checked=ck,
+            alive_mean=st.mean(al), checked_mean=st.mean(ck))
+        print('p=%.1f %-6s alive %5.2f CI[%.2f,%.2f]  检查 %6.1f'
+              %(p,kind,st.mean(al),ci(al)[0],ci(al)[1],st.mean(ck)))
+    print()
+json.dump(out, open('result_hyper.json','w'), indent=1)
+
+print('=== 效率比（每存活细胞耗检查次数）===')
+for p in [0.3,0.5,0.7]:
+    for kind in ['const','hyper']:
+        d=out['p%.1f_%s'%(p,kind)]
+        e=d['checked_mean']/max(0.5,d['alive_mean'])
+        print('p=%.1f %-6s 效率 %.1f'%(p,kind,e))

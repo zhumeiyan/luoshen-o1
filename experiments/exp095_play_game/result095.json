@@ -1,1 +1,228 @@
-ewogIkNfcGxheSI6IHsKICAib3JhY2xlIjogewogICAicmF0ZSI6IDEuMCwKICAgInN0ZXBzIjogMS4wLAogICAiZ2FwIjogMC4wLAogICAibiI6IDE2CiAgfSwKICAiY2xvc2VkIjogewogICAicmF0ZSI6IDAuODc1LAogICAic3RlcHMiOiA1LjkzNzUsCiAgICJnYXAiOiA1Ljg3NDM1NzM4MTIyOTU4NSwKICAgIm4iOiAxNgogIH0sCiAgImJsaW5kIjogewogICAicmF0ZSI6IDAuMCwKICAgInN0ZXBzIjogMTUwLjAsCiAgICJnYXAiOiA0NzEuOTQ3MTQ4OTM1NzE5MjcsCiAgICJuIjogMTYKICB9LAogICJvcGVuIjogewogICAicmF0ZSI6IDAuMCwKICAgInN0ZXBzIjogMTUwLjAsCiAgICJnYXAiOiAzNTkuMTg2ODg0OTc2NTMwNzMsCiAgICJuIjogMTYKICB9CiB9LAogIkRfbGFnIjogewogICIwIjogewogICAibmFpdmUiOiB7CiAgICAicmF0ZSI6IDAuODc1LAogICAgInN0ZXBzIjogNS4zNzUsCiAgICAiZ2FwIjogNS44MzUyMzY4MTI0OTY0NywKICAgICJuIjogMTYKICAgfSwKICAgInByZWQiOiB7CiAgICAicmF0ZSI6IDAuOTM3NSwKICAgICJzdGVwcyI6IDUuNjI1LAogICAgImdhcCI6IDUuMTQxOTY5NDc4Mzg1MTA1LAogICAgIm4iOiAxNgogICB9CiAgfSwKICAiMSI6IHsKICAgIm5haXZlIjogewogICAgInJhdGUiOiAwLjAsCiAgICAic3RlcHMiOiAxNDAuODEyNSwKICAgICJnYXAiOiA0NTkuMjA4NjI0OTU1NDE2LAogICAgIm4iOiAxNgogICB9LAogICAicHJlZCI6IHsKICAgICJyYXRlIjogMC40Mzc1LAogICAgInN0ZXBzIjogNzguMCwKICAgICJnYXAiOiAxMjYuMTkyMjczMDg0MTU3NzYsCiAgICAibiI6IDE2CiAgIH0KICB9LAogICIyIjogewogICAibmFpdmUiOiB7CiAgICAicmF0ZSI6IDAuMCwKICAgICJzdGVwcyI6IDE1MC4wLAogICAgImdhcCI6IDQ5MC44NTE3MTY3MzcwNjUzLAogICAgIm4iOiAxNgogICB9LAogICAicHJlZCI6IHsKICAgICJyYXRlIjogMC41NjI1LAogICAgInN0ZXBzIjogMTIuMCwKICAgICJnYXAiOiAyMzIuNTc4ODMwNzAyOTQxMDIsCiAgICAibiI6IDE2CiAgIH0KICB9LAogICI0IjogewogICAibmFpdmUiOiB7CiAgICAicmF0ZSI6IDAuMCwKICAgICJzdGVwcyI6IDE0MS40Mzc1LAogICAgImdhcCI6IDQwNC4xODAzNDg2NTQwNTE0LAogICAgIm4iOiAxNgogICB9LAogICAicHJlZCI6IHsKICAgICJyYXRlIjogMC40Mzc1LAogICAgInN0ZXBzIjogMjYuNzUsCiAgICAiZ2FwIjogMzMzLjYyNjg0OTAxNjE2MTQzLAogICAgIm4iOiAxNgogICB9CiAgfSwKICAiOCI6IHsKICAgIm5haXZlIjogewogICAgInJhdGUiOiAwLjAsCiAgICAic3RlcHMiOiAxMzIuMTg3NSwKICAgICJnYXAiOiAzNDQuOTEwNzkyNjEzMzkyMSwKICAgICJuIjogMTYKICAgfSwKICAgInByZWQiOiB7CiAgICAicmF0ZSI6IDAuMTI1LAogICAgInN0ZXBzIjogMjQuOTM3NSwKICAgICJnYXAiOiA0MTAuNzE2OTkxNTY2OTUxNywKICAgICJuIjogMTYKICAgfQogIH0sCiAgIjE2IjogewogICAibmFpdmUiOiB7CiAgICAicmF0ZSI6IDAuMCwKICAgICJzdGVwcyI6IDEyMy41LAogICAgImdhcCI6IDQ2Mi4yNDc3MTMxNjM3NjM5LAogICAgIm4iOiAxNgogICB9LAogICAicHJlZCI6IHsKICAgICJyYXRlIjogMC4wNjI1LAogICAgInN0ZXBzIjogMTAuMTg3NSwKICAgICJnYXAiOiA0MDYuOTQxNDUwNjc1MDM5LAogICAgIm4iOiAxNgogICB9CiAgfQogfSwKICJFX3JlcyI6IHsKICAiODAwIjogewogICAicmF0ZSI6IDAuNzUsCiAgICJzdGVwcyI6IDUuNzUsCiAgICJnYXAiOiA2Ljg5NDY2MjI2MTc5ODA2OCwKICAgIm4iOiAxNgogIH0sCiAgIjQwMCI6IHsKICAgInJhdGUiOiAxLjAsCiAgICJzdGVwcyI6IDYuNDM3NSwKICAgImdhcCI6IDUuNTQ2MzE0OTk2MDg4OTg0LAogICAibiI6IDE2CiAgfSwKICAiMjAwIjogewogICAicmF0ZSI6IDAuODEyNSwKICAgInN0ZXBzIjogNS41LAogICAiZ2FwIjogNi45MzQzMjc0OTUxMjQzNTcsCiAgICJuIjogMTYKICB9LAogICIxMDAiOiB7CiAgICJyYXRlIjogMC44NzUsCiAgICJzdGVwcyI6IDYuNjI1LAogICAiZ2FwIjogNy4wNTY5Mjk5NzkyMjU1OTksCiAgICJuIjogMTYKICB9LAogICI1MCI6IHsKICAgInJhdGUiOiAwLjY4NzUsCiAgICJzdGVwcyI6IDUuNjI1LAogICAiZ2FwIjogNy4zNzM3OTkwNjcwNTc5ODIsCiAgICJuIjogMTYKICB9LAogICIyNSI6IHsKICAgInJhdGUiOiAwLjc1LAogICAic3RlcHMiOiA2Ljc1LAogICAiZ2FwIjogOC45ODk0NTUyMDA3MDU2MSwKICAgIm4iOiAxNgogIH0sCiAgIjEyIjogewogICAicmF0ZSI6IDAuMjUsCiAgICJzdGVwcyI6IDY5LjMxMjUsCiAgICJnYXAiOiAyMy43MTY5MTA2ODkzMzA3MywKICAgIm4iOiAxNgogIH0sCiAgIjYiOiB7CiAgICJyYXRlIjogMC4wLAogICAic3RlcHMiOiAxNTAuMCwKICAgImdhcCI6IDU2OS41OTc0OTQ3OTc2NzU2LAogICAibiI6IDE2CiAgfQogfSwKICJGX2J1ZGdldCI6IHsKICAiOCI6IHsKICAgInJhdGUiOiAwLjE4NzUsCiAgICJzdGVwcyI6IDQ0LjMxMjUsCiAgICJnYXAiOiA0OS4zMjAxMjYzNTEwMzE3MiwKICAgIm4iOiAxNiwKICAgImZyYW1lcyI6IDYyCiAgfSwKICAiMTYiOiB7CiAgICJyYXRlIjogMC4zMTI1LAogICAic3RlcHMiOiAxMC41LAogICAiZ2FwIjogMTUuMTc2NTYwODExOTY1Mzc3LAogICAibiI6IDE2LAogICAiZnJhbWVzIjogNTMKICB9LAogICIzMiI6IHsKICAgInJhdGUiOiAwLjc1LAogICAic3RlcHMiOiA4LjU2MjUsCiAgICJnYXAiOiA3LjE4NDYwNjc5ODkxOTE0OCwKICAgIm4iOiAxNiwKICAgImZyYW1lcyI6IDQxCiAgfSwKICAiNjQiOiB7CiAgICJyYXRlIjogMC45Mzc1LAogICAic3RlcHMiOiA2LjQzNzUsCiAgICJnYXAiOiA0LjkyOTg5ODIzMzM2MDg4OCwKICAgIm4iOiAxNiwKICAgImZyYW1lcyI6IDI4CiAgfSwKICAiMTI4IjogewogICAicmF0ZSI6IDAuNjg3NSwKICAgInN0ZXBzIjogNS43NSwKICAgImdhcCI6IDguNjA3OTExNjIyOTQzNDY1LAogICAibiI6IDE2LAogICAiZnJhbWVzIjogMTcKICB9LAogICIyNTYiOiB7CiAgICJyYXRlIjogMC4zNzUsCiAgICJzdGVwcyI6IDUuNjI1LAogICAiZ2FwIjogOS44MTM3NzI4Nzc1MzI3NDksCiAgICJuIjogMTYsCiAgICJmcmFtZXMiOiAxMAogIH0sCiAgIjUxMiI6IHsKICAgInJhdGUiOiAwLjU2MjUsCiAgICJzdGVwcyI6IDQuMzc1LAogICAiZ2FwIjogNjUuODIyOTQ0NTcwMTg0NjcsCiAgICJuIjogMTYsCiAgICJmcmFtZXMiOiA1CiAgfSwKICAiODAwIjogewogICAicmF0ZSI6IDAuMTI1LAogICAic3RlcHMiOiAzLjAsCiAgICJnYXAiOiAxNzcuOTA4Njg1NTg1MzMxNSwKICAgIm4iOiAxNiwKICAgImZyYW1lcyI6IDMKICB9CiB9LAogIkZfcGFyYW0iOiB7CiAgIlQiOiAxNTAwLjAsCiAgInJlbmRlciI6IDAuNSwKICAiZGVjaWRlIjogMjAuMAogfSwKICJlbGFwc2VkIjogNjYuODg3NTU0NjQ1NTM4MzMKfQ==
+{
+ "C_play": {
+  "oracle": {
+   "rate": 1.0,
+   "steps": 1.0,
+   "gap": 0.0,
+   "n": 16
+  },
+  "closed": {
+   "rate": 0.875,
+   "steps": 5.9375,
+   "gap": 5.874357381229585,
+   "n": 16
+  },
+  "blind": {
+   "rate": 0.0,
+   "steps": 150.0,
+   "gap": 471.94714893571927,
+   "n": 16
+  },
+  "open": {
+   "rate": 0.0,
+   "steps": 150.0,
+   "gap": 359.18688497653073,
+   "n": 16
+  }
+ },
+ "D_lag": {
+  "0": {
+   "naive": {
+    "rate": 0.875,
+    "steps": 5.375,
+    "gap": 5.83523681249647,
+    "n": 16
+   },
+   "pred": {
+    "rate": 0.9375,
+    "steps": 5.625,
+    "gap": 5.141969478385105,
+    "n": 16
+   }
+  },
+  "1": {
+   "naive": {
+    "rate": 0.0,
+    "steps": 140.8125,
+    "gap": 459.208624955416,
+    "n": 16
+   },
+   "pred": {
+    "rate": 0.4375,
+    "steps": 78.0,
+    "gap": 126.19227308415776,
+    "n": 16
+   }
+  },
+  "2": {
+   "naive": {
+    "rate": 0.0,
+    "steps": 150.0,
+    "gap": 490.8517167370653,
+    "n": 16
+   },
+   "pred": {
+    "rate": 0.5625,
+    "steps": 12.0,
+    "gap": 232.57883070294102,
+    "n": 16
+   }
+  },
+  "4": {
+   "naive": {
+    "rate": 0.0,
+    "steps": 141.4375,
+    "gap": 404.1803486540514,
+    "n": 16
+   },
+   "pred": {
+    "rate": 0.4375,
+    "steps": 26.75,
+    "gap": 333.62684901616143,
+    "n": 16
+   }
+  },
+  "8": {
+   "naive": {
+    "rate": 0.0,
+    "steps": 132.1875,
+    "gap": 344.9107926133921,
+    "n": 16
+   },
+   "pred": {
+    "rate": 0.125,
+    "steps": 24.9375,
+    "gap": 410.7169915669517,
+    "n": 16
+   }
+  },
+  "16": {
+   "naive": {
+    "rate": 0.0,
+    "steps": 123.5,
+    "gap": 462.2477131637639,
+    "n": 16
+   },
+   "pred": {
+    "rate": 0.0625,
+    "steps": 10.1875,
+    "gap": 406.941450675039,
+    "n": 16
+   }
+  }
+ },
+ "E_res": {
+  "800": {
+   "rate": 0.75,
+   "steps": 5.75,
+   "gap": 6.894662261798068,
+   "n": 16
+  },
+  "400": {
+   "rate": 1.0,
+   "steps": 6.4375,
+   "gap": 5.546314996088984,
+   "n": 16
+  },
+  "200": {
+   "rate": 0.8125,
+   "steps": 5.5,
+   "gap": 6.934327495124357,
+   "n": 16
+  },
+  "100": {
+   "rate": 0.875,
+   "steps": 6.625,
+   "gap": 7.056929979225599,
+   "n": 16
+  },
+  "50": {
+   "rate": 0.6875,
+   "steps": 5.625,
+   "gap": 7.373799067057982,
+   "n": 16
+  },
+  "25": {
+   "rate": 0.75,
+   "steps": 6.75,
+   "gap": 8.98945520070561,
+   "n": 16
+  },
+  "12": {
+   "rate": 0.25,
+   "steps": 69.3125,
+   "gap": 23.71691068933073,
+   "n": 16
+  },
+  "6": {
+   "rate": 0.0,
+   "steps": 150.0,
+   "gap": 569.5974947976756,
+   "n": 16
+  }
+ },
+ "F_budget": {
+  "8": {
+   "rate": 0.1875,
+   "steps": 44.3125,
+   "gap": 49.32012635103172,
+   "n": 16,
+   "frames": 62
+  },
+  "16": {
+   "rate": 0.3125,
+   "steps": 10.5,
+   "gap": 15.176560811965377,
+   "n": 16,
+   "frames": 53
+  },
+  "32": {
+   "rate": 0.75,
+   "steps": 8.5625,
+   "gap": 7.184606798919148,
+   "n": 16,
+   "frames": 41
+  },
+  "64": {
+   "rate": 0.9375,
+   "steps": 6.4375,
+   "gap": 4.929898233360888,
+   "n": 16,
+   "frames": 28
+  },
+  "128": {
+   "rate": 0.6875,
+   "steps": 5.75,
+   "gap": 8.607911622943465,
+   "n": 16,
+   "frames": 17
+  },
+  "256": {
+   "rate": 0.375,
+   "steps": 5.625,
+   "gap": 9.813772877532749,
+   "n": 16,
+   "frames": 10
+  },
+  "512": {
+   "rate": 0.5625,
+   "steps": 4.375,
+   "gap": 65.82294457018467,
+   "n": 16,
+   "frames": 5
+  },
+  "800": {
+   "rate": 0.125,
+   "steps": 3.0,
+   "gap": 177.9086855853315,
+   "n": 16,
+   "frames": 3
+  }
+ },
+ "F_param": {
+  "T": 1500.0,
+  "render": 0.5,
+  "decide": 20.0
+ },
+ "elapsed": 66.88755464553833
+}

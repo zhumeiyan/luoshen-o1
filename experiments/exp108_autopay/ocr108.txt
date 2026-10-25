@@ -1,1 +1,10 @@
-Q09ERSA0U1EyVjcKZG93bmxvYWRfemlwX2J5dGVzID0gMzQxODYKY2Fub25fanNvbl9ieXRlcyA9IDI4MTI3MQpydWxlc19wcm8gPSAyNgoKcnVsZXNfZnJlZSA9IDE2Cm9yZGVyX2JvdF9ydW5zID0gMwp0ZXN0X2Z1bGZpbGxlZCA9IDEKdGVzdF9uZWVkc19pbmZvID0xCgw=
+CODE 4SQ2V7
+download_zip_bytes = 34186
+canon_json_bytes = 281271
+rules_pro = 26
+
+rules_free = 16
+order_bot_runs = 3
+test_fulfilled = 1
+test_needs_info =1
+

@@ -1,1 +1,158 @@
-IiIiQXVkaXQgZXZlcnkgZmluZGluZyBhZ2FpbnN0IGl0cyBkZWNsYXJlZCBhbmNob3Igc3BlYyAoZXhwMTMzKS4KClRoZSBzcGVjIGlzIGEgQ0xBSU0uIFRoaXMgc2NyaXB0IGlzIHRoZSB0ZXN0IG9mIHRoYXQgY2xhaW0uIEZvciBlYWNoCmZpbmRpbmcgaXQgYXNrcyB0aHJlZSBxdWVzdGlvbnMgaW4gb3JkZXI6CgogIFExICBEb2VzIHRoZSBydWxlIGRlY2xhcmUgd2hhdCBpdCBhY2N1c2VzIGF0IGFsbD8KICBRMiAgSXMgdGhlcmUgYSBub2RlIG9mIHRoZSBkZWNsYXJlZCB0eXBlIEFUIHRoZSBwaW5uZWQgbGluZT8KICBRMyAgRG9lcyB0aGF0IG5vZGUncyBvd24gc291cmNlIGNvbnRhaW4gb25lIG9mIHRoZSBkZWNsYXJlZCBrZXlzPwoKQSBmaW5kaW5nIHRoYXQgZmFpbHMgUTIgaXMgcGlubmVkIHRvIGNvZGUgb2YgdGhlIHdyb25nIGtpbmQuCkEgZmluZGluZyB0aGF0IGZhaWxzIFEzIGlzIHBpbm5lZCB0byB0aGUgcmlnaHQga2luZCBvZiBjb2RlIGJ1dCB0aGUgY29kZQpkb2VzIG5vdCBhY3R1YWxseSBzYXkgd2hhdCB0aGUgcnVsZSBzYXlzIGl0IHNheXMuCgpOZWl0aGVyIGlzIGEgImZhbHNlIHBvc2l0aXZlIiBpbiB0aGUgdXN1YWwgc2Vuc2U6IHRoZSBydWxlJ3MgY2xhaW0gbWF5IGJlCnRydWUgYXQgZmlsZSBsZXZlbC4gV2hhdCBmYWlscyBpcyB0aGUgQVJST1csIG5vdCB0aGUgY2xhaW0uIEJ1dCBhIGZpbmRpbmcKd2hvc2UgYXJyb3cgcG9pbnRzIHNvbWV3aGVyZSBlbHNlIGlzIHVudXNhYmxlIC0tIHRoZSByZWFkZXIgb3BlbnMgdGhlIGxpbmUsCmZpbmRzIG5vdGhpbmcsIGFuZCBkaXNjYXJkcyBhIHRydWUgZmluZGluZy4KIiIiCmltcG9ydCBhc3QKaW1wb3J0IGpzb24KaW1wb3J0IHBhdGhsaWIKaW1wb3J0IHN5cwppbXBvcnQgY29sbGVjdGlvbnMKCnN5cy5wYXRoLmluc2VydCgwLCAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvb3ZlcnNlYXMiKQpmcm9tIGV2YWxndWFyZCBpbXBvcnQgY2xpICAgICAgICAgICAgICAgICAgICAgICMgbm9xYTogRTQwMgpmcm9tIGV2YWxndWFyZC5jbGkgaW1wb3J0IHNjYW4gICAgICAgICAgICAgICAgICMgbm9xYTogRTQwMgpmcm9tIGV2YWxndWFyZC5zcGVjIGltcG9ydCBBTkNIT1JfU1BFQywgc3BlY19mb3IgICMgbm9xYTogRTQwMgoKY2xpLlBST19PTlswXSA9IFRydWUKCkNPUlBVUyA9IHBhdGhsaWIuUGF0aCgiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9jb3JwdXMyIikKCgpkZWYgbm9kZXNfYXRfbGluZSh0cmVlLCBsaW5lKToKICAgICIiIk5vZGVzIHdob3NlIG93biBzdGFydCBsaW5lID09IGBsaW5lYC4iIiIKICAgIG91dCA9IFtdCiAgICBmb3IgbiBpbiBhc3Qud2Fsayh0cmVlKToKICAgICAgICBpZiBnZXRhdHRyKG4sICJsaW5lbm8iLCBOb25lKSA9PSBsaW5lOgogICAgICAgICAgICBvdXQuYXBwZW5kKG4pCiAgICByZXR1cm4gb3V0CgoKZGVmIHNlZyhzcmMsIG5vZGUpOgogICAgdHJ5OgogICAgICAgIHJldHVybiBhc3QuZ2V0X3NvdXJjZV9zZWdtZW50KHNyYywgbm9kZSkgb3IgIiIKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuICIiCgoKZGVmIGF1ZGl0X2ZpbGUocGF0aCk6CiAgICBzcmMgPSBwYXRobGliLlBhdGgocGF0aCkucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0icmVwbGFjZSIpCiAgICB0cnk6CiAgICAgICAgdHJlZSA9IGFzdC5wYXJzZShzcmMpCiAgICBleGNlcHQgU3ludGF4RXJyb3I6CiAgICAgICAgcmV0dXJuIFtdCiAgICAjIHNjYW4oKSBpcyBydWxlLWxldmVsOyBlYWNoIHJ1bGUgY2FycmllcyBhIGBoaXRzYCBsaXN0IG9mIGluZGl2aWR1YWwKICAgICMgcGlucy4gQXVkaXRpbmcgdGhlIHJ1bGUgZGljdCBpbnN0ZWFkIG9mIHRoZSBoaXRzIHdvdWxkIHJlYWQgbGluZT1Ob25lCiAgICAjIGZvciBldmVyeSBmaW5kaW5nIGFuZCByZXBvcnQgMTAwJSBXUk9OR19OT0RFIC0tIGEgbWVhc3VyZW1lbnQgdGhhdCBpcwogICAgIyB3cm9uZyBiZWNhdXNlIG9mIHRoZSByZWFkZXIsIG5vdCBiZWNhdXNlIG9mIHRoZSBydWxlcy4gKHYxIGJ1Zy4pCiAgICBmaW5kaW5ncyA9IFtdCiAgICBmb3IgciBpbiBzY2FuKHN0cihwYXRoKSk6CiAgICAgICAgZm9yIGggaW4gKHIuZ2V0KCJoaXRzIikgb3IgW3t9XSk6CiAgICAgICAgICAgIGZpbmRpbmdzLmFwcGVuZChkaWN0KHIsIGxpbmU9aC5nZXQoImxpbmUiKSwgaGl0PWguZ2V0KCJoaXQiKSkpCiAgICByb3dzID0gW10KICAgIGZvciBmIGluIGZpbmRpbmdzOgogICAgICAgIGVnID0gZi5nZXQoImVnX2lkIiwgIj8iKQogICAgICAgIGxpbmUgPSBmLmdldCgibGluZSIpCiAgICAgICAgcyA9IHNwZWNfZm9yKGVnKQogICAgICAgIHJvdyA9IGRpY3QoZmlsZT1wYXRobGliLlBhdGgocGF0aCkubmFtZSwgZWc9ZWcsCiAgICAgICAgICAgICAgICAgICBzZXY9Zi5nZXQoInNldmVyaXR5IiwgIj8iKSwgbGluZT1saW5lLAogICAgICAgICAgICAgICAgICAgaGl0PShmLmdldCgiaGl0Iikgb3IgIiIpWzo2MF0pCiAgICAgICAgaWYgcyBpcyBOb25lOgogICAgICAgICAgICByb3cudXBkYXRlKHZlcmRpY3Q9Ik5PX1NQRUMiLCB3aHk9InJ1bGUgZGVjbGFyZXMgbm90aGluZyIpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKHJvdykKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBzWyJraW5kIl0gPT0gIm1vZHVsZSI6CiAgICAgICAgICAgICMgVGhlIGhvbmVzdCBmb3JtIGlzIE5PIHBpbi4gQW55dGhpbmcgPiAxIGlzIGV4cDEzMCdzIGxpZS4KICAgICAgICAgICAgb2sgPSAobGluZSBpbiAoTm9uZSwgMCwgMSkpCiAgICAgICAgICAgIHJvdy51cGRhdGUodmVyZGljdD0iTU9EVUxFX09LIiBpZiBvayBlbHNlICJNT0RVTEVfUElOTkVEIiwKICAgICAgICAgICAgICAgICAgICAgICB3aHk9Im1vZHVsZSBjbGFpbSwgbm8gcGluIiBpZiBvayBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGYibW9kdWxlIGNsYWltIHBpbm5lZCB0byBsaW5lIHtsaW5lfSIpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKHJvdykKICAgICAgICAgICAgY29udGludWUKICAgICAgICBjYW5kcyA9IFtuIGZvciBuIGluIG5vZGVzX2F0X2xpbmUodHJlZSwgbGluZSkKICAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKG4sIHNbIm5vZGUiXSldCiAgICAgICAgaWYgbm90IGNhbmRzOgogICAgICAgICAgICByb3cudXBkYXRlKHZlcmRpY3Q9IldST05HX05PREUiLAogICAgICAgICAgICAgICAgICAgICAgIHdoeT1mIm5vIHtbdC5fX25hbWVfXyBmb3IgdCBpbiBzWydub2RlJ11dfSBhdCBsaW5lIHtsaW5lfSIpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKHJvdykKICAgICAgICAgICAgY29udGludWUKICAgICAgICBrZXlzID0gdHVwbGUoay5sb3dlcigpIGZvciBrIGluIHNbImtleXMiXSkKICAgICAgICBoaXQgPSBOb25lCiAgICAgICAgZm9yIG4gaW4gY2FuZHM6CiAgICAgICAgICAgICMgZXhwMTMzIHYyOiB2MSB1c2VkIHRoZSBub2RlJ3MgV0hPTEUgc291cmNlIHNlZ21lbnQuIEFuCiAgICAgICAgICAgICMgYXN0LkZvciBzZWdtZW50IGlzIHRoZSBlbnRpcmUgbG9vcCBib2R5LCBzbyBhIHBpbiBvbiB0aGUKICAgICAgICAgICAgIyBoZWFkZXIgbGluZSBgZm9yIHRhc2sgaW4gLi4uOmAgd2FzICJwcm92ZW4iIGJ5IGEgYGNvbnRpbnVlYAogICAgICAgICAgICAjIHR3ZW50eSBsaW5lcyBiZWxvdyAtLSB0ZXh0IHRoZSByZWFkZXIgbmV2ZXIgc2Vlcy4gVGhlIHByb29mCiAgICAgICAgICAgICMgbXVzdCB1c2Ugd2hhdCB0aGUgcmVhZGVyIGlzIGFjdHVhbGx5IHNlbnQgdG86IHRoZSBsaW5lLgogICAgICAgICAgICBsaW5lcyA9IHNyYy5zcGxpdGxpbmVzKCkKICAgICAgICAgICAgdCA9IGxpbmVzW2xpbmUgLSAxXSBpZiBpc2luc3RhbmNlKGxpbmUsIGludCkgYW5kIDAgPCBsaW5lIDw9IGxlbihsaW5lcykgXAogICAgICAgICAgICAgICAgZWxzZSBzZWcoc3JjLCBuKQogICAgICAgICAgICBsb3cgPSB0Lmxvd2VyKCkKICAgICAgICAgICAgaWYgbm90IGtleXMgb3IgYW55KGsgaW4gbG93IGZvciBrIGluIGtleXMpOgogICAgICAgICAgICAgICAgaGl0ID0gbgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICBpZiBoaXQgaXMgTm9uZToKICAgICAgICAgICAgcm93LnVwZGF0ZSh2ZXJkaWN0PSJVTlBST1ZFTiIsCiAgICAgICAgICAgICAgICAgICAgICAgd2h5PSJub2RlIGZvdW5kIGJ1dCBpdHMgc291cmNlIG5hbWVzIG5vbmUgb2YgIgogICAgICAgICAgICAgICAgICAgICAgICAgICBmIntsaXN0KHNbJ2tleXMnXSlbOjRdfSIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcm93LnVwZGF0ZSh2ZXJkaWN0PSJQUk9WRU4iLCB3aHk9c2VnKHNyYywgaGl0KS5zdHJpcCgpWzo2MF0pCiAgICAgICAgcm93cy5hcHBlbmQocm93KQogICAgcmV0dXJuIHJvd3MKCgpkZWYgbWFpbigpOgogICAgZmlsZXMgPSBzb3J0ZWQoQ09SUFVTLmdsb2IoIioucHkiKSkKICAgIHJvd3MgPSBbXQogICAgZm9yIGYgaW4gZmlsZXM6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByb3dzLmV4dGVuZChhdWRpdF9maWxlKGYpKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcm93cy5hcHBlbmQoZGljdChmaWxlPWYubmFtZSwgZWc9IkNSQVNIIiwgc2V2PSItIiwgbGluZT1Ob25lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpdD1zdHIoZSlbOjYwXSwgdmVyZGljdD0iQ1JBU0giLCB3aHk9IiIpKQogICAgb3V0ID0gcGF0aGxpYi5QYXRoKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjlfY29ycHVzL2V4cDEzMyIpCiAgICBvdXQubWtkaXIoZXhpc3Rfb2s9VHJ1ZSkKICAgIChvdXQgLyAiYXVkaXQxMzMuanNvbiIpLndyaXRlX3RleHQoanNvbi5kdW1wcyhyb3dzLCBpbmRlbnQ9MSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UpKQoKICAgIHYgPSBjb2xsZWN0aW9ucy5Db3VudGVyKHJbInZlcmRpY3QiXSBmb3IgciBpbiByb3dzKQogICAgcHJpbnQoImZpbGVzOiIsIGxlbihmaWxlcyksICIgZmluZGluZ3M6IiwgbGVuKHJvd3MpKQogICAgcHJpbnQoInZlcmRpY3RzOiIsIGRpY3QodikpCiAgICBwcmludCgpCiAgICBwcmludChmInsnZWcnOjdzfSB7J1BST1ZFTic6PjZzfSB7J1VOUFJPVic6PjZzfSB7J1dST05HJzo+NXN9ICIKICAgICAgICAgIGYieydNT0RQSU4nOj42c30geydOT19TUEVDJzo+N3N9ICAgd2h5IikKICAgIHBlciA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGNvbGxlY3Rpb25zLkNvdW50ZXIpCiAgICBmb3IgciBpbiByb3dzOgogICAgICAgIHBlcltyWyJlZyJdXVtyWyJ2ZXJkaWN0Il1dICs9IDEKICAgIGZvciBlZyBpbiBzb3J0ZWQocGVyKToKICAgICAgICBjID0gcGVyW2VnXQogICAgICAgIHByaW50KGYie2VnOjdzfSB7Y1snUFJPVkVOJ106NmR9IHtjWydVTlBST1ZFTiddOjZkfSB7Y1snV1JPTkdfTk9ERSddOjVkfSAiCiAgICAgICAgICAgICAgZiJ7Y1snTU9EVUxFX1BJTk5FRCddOjZkfSB7Y1snTk9fU1BFQyddOjdkfSAgICIKICAgICAgICAgICAgICBmIntBTkNIT1JfU1BFQy5nZXQoZWcsIHt9KS5nZXQoJ25vdGUnLCAnJylbOjQwXX0iKQogICAgcHJpbnQoKQogICAgdG90ID0gbGVuKHJvd3MpCiAgICBnb29kID0gdlsiUFJPVkVOIl0gKyB2WyJNT0RVTEVfT0siXQogICAgcHJpbnQoZiJwcm92ZW4tb3ItaG9uZXN0LW1vZHVsZToge2dvb2R9L3t0b3R9ID0ge2dvb2QvbWF4KHRvdCwxKTouMSV9IikKICAgIHByaW50KCkKICAgIHByaW50KCItLS0gZmFpbHVyZXMgLS0tIikKICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgaWYgclsidmVyZGljdCJdIGluICgiVU5QUk9WRU4iLCAiV1JPTkdfTk9ERSIsICJNT0RVTEVfUElOTkVEIiwgIk5PX1NQRUMiKToKICAgICAgICAgICAgcHJpbnQoZiJ7clsnZWcnXTo3c30ge3JbJ3ZlcmRpY3QnXToxM3N9IHtyWydmaWxlJ11bOjM4XTozOHN9ICIKICAgICAgICAgICAgICAgICAgZiJMe3JbJ2xpbmUnXX0gIHtyWyd3aHknXVs6NTJdfSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""Audit every finding against its declared anchor spec (exp133).
+
+The spec is a CLAIM. This script is the test of that claim. For each
+finding it asks three questions in order:
+
+  Q1  Does the rule declare what it accuses at all?
+  Q2  Is there a node of the declared type AT the pinned line?
+  Q3  Does that node's own source contain one of the declared keys?
+
+A finding that fails Q2 is pinned to code of the wrong kind.
+A finding that fails Q3 is pinned to the right kind of code but the code
+does not actually say what the rule says it says.
+
+Neither is a "false positive" in the usual sense: the rule's claim may be
+true at file level. What fails is the ARROW, not the claim. But a finding
+whose arrow points somewhere else is unusable -- the reader opens the line,
+finds nothing, and discards a true finding.
+"""
+import ast
+import json
+import pathlib
+import sys
+import collections
+
+sys.path.insert(0, "/data/workspace/luoshen-o1/overseas")
+from evalguard import cli                      # noqa: E402
+from evalguard.cli import scan                 # noqa: E402
+from evalguard.spec import ANCHOR_SPEC, spec_for  # noqa: E402
+
+cli.PRO_ON[0] = True
+
+CORPUS = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/corpus2")
+
+
+def nodes_at_line(tree, line):
+    """Nodes whose own start line == `line`."""
+    out = []
+    for n in ast.walk(tree):
+        if getattr(n, "lineno", None) == line:
+            out.append(n)
+    return out
+
+
+def seg(src, node):
+    try:
+        return ast.get_source_segment(src, node) or ""
+    except Exception:
+        return ""
+
+
+def audit_file(path):
+    src = pathlib.Path(path).read_text(encoding="utf-8", errors="replace")
+    try:
+        tree = ast.parse(src)
+    except SyntaxError:
+        return []
+    # scan() is rule-level; each rule carries a `hits` list of individual
+    # pins. Auditing the rule dict instead of the hits would read line=None
+    # for every finding and report 100% WRONG_NODE -- a measurement that is
+    # wrong because of the reader, not because of the rules. (v1 bug.)
+    findings = []
+    for r in scan(str(path)):
+        for h in (r.get("hits") or [{}]):
+            findings.append(dict(r, line=h.get("line"), hit=h.get("hit")))
+    rows = []
+    for f in findings:
+        eg = f.get("eg_id", "?")
+        line = f.get("line")
+        s = spec_for(eg)
+        row = dict(file=pathlib.Path(path).name, eg=eg,
+                   sev=f.get("severity", "?"), line=line,
+                   hit=(f.get("hit") or "")[:60])
+        if s is None:
+            row.update(verdict="NO_SPEC", why="rule declares nothing")
+            rows.append(row)
+            continue
+        if s["kind"] == "module":
+            # The honest form is NO pin. Anything > 1 is exp130's lie.
+            ok = (line in (None, 0, 1))
+            row.update(verdict="MODULE_OK" if ok else "MODULE_PINNED",
+                       why="module claim, no pin" if ok else
+                           f"module claim pinned to line {line}")
+            rows.append(row)
+            continue
+        cands = [n for n in nodes_at_line(tree, line)
+                 if isinstance(n, s["node"])]
+        if not cands:
+            row.update(verdict="WRONG_NODE",
+                       why=f"no {[t.__name__ for t in s['node']]} at line {line}")
+            rows.append(row)
+            continue
+        keys = tuple(k.lower() for k in s["keys"])
+        hit = None
+        for n in cands:
+            # exp133 v2: v1 used the node's WHOLE source segment. An
+            # ast.For segment is the entire loop body, so a pin on the
+            # header line `for task in ...:` was "proven" by a `continue`
+            # twenty lines below -- text the reader never sees. The proof
+            # must use what the reader is actually sent to: the line.
+            lines = src.splitlines()
+            t = lines[line - 1] if isinstance(line, int) and 0 < line <= len(lines) \
+                else seg(src, n)
+            low = t.lower()
+            if not keys or any(k in low for k in keys):
+                hit = n
+                break
+        if hit is None:
+            row.update(verdict="UNPROVEN",
+                       why="node found but its source names none of "
+                           f"{list(s['keys'])[:4]}")
+        else:
+            row.update(verdict="PROVEN", why=seg(src, hit).strip()[:60])
+        rows.append(row)
+    return rows
+
+
+def main():
+    files = sorted(CORPUS.glob("*.py"))
+    rows = []
+    for f in files:
+        try:
+            rows.extend(audit_file(f))
+        except Exception as e:
+            rows.append(dict(file=f.name, eg="CRASH", sev="-", line=None,
+                             hit=str(e)[:60], verdict="CRASH", why=""))
+    out = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp133")
+    out.mkdir(exist_ok=True)
+    (out / "audit133.json").write_text(json.dumps(rows, indent=1,
+                                                  ensure_ascii=False))
+
+    v = collections.Counter(r["verdict"] for r in rows)
+    print("files:", len(files), " findings:", len(rows))
+    print("verdicts:", dict(v))
+    print()
+    print(f"{'eg':7s} {'PROVEN':>6s} {'UNPROV':>6s} {'WRONG':>5s} "
+          f"{'MODPIN':>6s} {'NO_SPEC':>7s}   why")
+    per = collections.defaultdict(collections.Counter)
+    for r in rows:
+        per[r["eg"]][r["verdict"]] += 1
+    for eg in sorted(per):
+        c = per[eg]
+        print(f"{eg:7s} {c['PROVEN']:6d} {c['UNPROVEN']:6d} {c['WRONG_NODE']:5d} "
+              f"{c['MODULE_PINNED']:6d} {c['NO_SPEC']:7d}   "
+              f"{ANCHOR_SPEC.get(eg, {}).get('note', '')[:40]}")
+    print()
+    tot = len(rows)
+    good = v["PROVEN"] + v["MODULE_OK"]
+    print(f"proven-or-honest-module: {good}/{tot} = {good/max(tot,1):.1%}")
+    print()
+    print("--- failures ---")
+    for r in rows:
+        if r["verdict"] in ("UNPROVEN", "WRONG_NODE", "MODULE_PINNED", "NO_SPEC"):
+            print(f"{r['eg']:7s} {r['verdict']:13s} {r['file'][:38]:38s} "
+                  f"L{r['line']}  {r['why'][:52]}")
+
+
+if __name__ == "__main__":
+    main()

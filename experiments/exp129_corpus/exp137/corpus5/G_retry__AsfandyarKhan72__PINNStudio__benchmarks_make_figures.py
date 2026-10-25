@@ -1,1 +1,309 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKRmlndXJlcyBhbmQgdGFibGVzIGZvciBiZW5jaG1hcmtzL3RyYWluaW5nX21ldGhvZHMubWQsIGRyYXduIGZyb20KYmVuY2htYXJrcy9maWd1cmVzL3N0dWR5Lmpzb24gKG9uZSByZWNvcmQgcGVyIHJ1bjogZXhhbXBsZSwgc2V0dXAsIGFuZCB0aGUKcmVsYXRpdmUgTDIgZXJyb3Igb2YgdGhlIG1haW4gb3V0cHV0IGF0IGVhY2ggcmVmZXJlbmNlIHRpbWUpLgoKRXZlcnkgc2V0dXAgaGFzIG9uZSBjb2xvdXIsIG1hcmtlciBhbmQgbGluZSBzdHlsZSBpbiBldmVyeSBmaWd1cmU6IHRoZQpjb2xvdXIgaXMgdGhlIHdlaWdodGluZyBtZXRob2QgKG5vbmUsIFJCQSwgU0EtUElOTiwgY2F1c2FsLCBjYXVzYWwgKwpNc0ZGTiksIGEgc29saWQgbGluZSB0cmFpbnMgb24gdGhlIHdob2xlIHRpbWUgaW50ZXJ2YWwgYXQgb25jZSBhbmQgYSBkYXNoZWQKbGluZSBpbiB0aW1lIHdpbmRvd3MsIGFuZCB0aGUgdHdvIHJlZmVyZW5jZXMgd2l0aG91dCBhbiBleGFjdCBpbml0aWFsCmNvbmRpdGlvbiAobG9zcyBCQyArIGxvc3MgSUMsIGV4YWN0IEJDICsgbG9zcyBJQykgYXJlIGdyYXkuCgpFYWNoIGZpZ3VyZSBpcyB3cml0dGVuIGFzIGEgUE5HIGZvciB0aGUgZG9jdW1lbnRhdGlvbiBhbmQgYSB2ZWN0b3IgUERGCihmaWd1cmVzL3BkZi8pIGZvciBwYXBlcnMgYW5kIHNsaWRlczsgY2FwdGlvbnMgbGl2ZSBpbiB0aGUgbWFya2Rvd24uIFRoZQpjb3JlIHRhYmxlcyBpbiB0aGUgbWFya2Rvd24gc2l0IGJldHdlZW4gPCEtLSBjb3JlOklEIC0tPiBtYXJrZXJzIGFuZCBhcmUKcmV3cml0dGVuIGZyb20gdGhlIHNhbWUgZGF0YS4gUmVidWlsZCB3aXRoCiAgICBweXRob24zIGJlbmNobWFya3MvbWFrZV9maWd1cmVzLnB5CiIiIgppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHJlCgppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliLnRpY2tlciBpbXBvcnQgRnVuY0Zvcm1hdHRlciwgTG9nTG9jYXRvciwgTnVsbEZvcm1hdHRlcgoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpPVVQgPSBvcy5wYXRoLmpvaW4oSEVSRSwgImZpZ3VyZXMiKQpNRCA9IG9zLnBhdGguam9pbihIRVJFLCAidHJhaW5pbmdfbWV0aG9kcy5tZCIpCgpJTkssIElOSzIsIEdSSUQsIEZSQU1FID0gIiMxZjFmMWUiLCAiIzRhNGE0NiIsICIjZThlN2UyIiwgIiM4YzhiODYiCkdSQVksIEdSQVkyID0gIiM3ZDdkNzgiLCAiI2E5YThhMiIKCiMgVGhlIHN0dWR5J3Mgc2V0dXBzLCBpbiB0YWJsZSBvcmRlcjogKG5hbWUsIHBhbmVsLCBjb2xvdXIsIG1hcmtlciwgbGluZSBzdHlsZSkKU0VUVVBTID0gWwogICAgKCJMb3NzIEJDICsgbG9zcyBJQyIsICJ3aG9sZSIsIEdSQVksICJvIiwgIi0iKSwKICAgICgiRXhhY3QgQkMgKyBsb3NzIElDIiwgIndob2xlIiwgR1JBWTIsICJzIiwgIi0iKSwKICAgICgiRXhhY3QgQkMgKyBleGFjdCBJQyIsICJ3aG9sZSIsICIjNjI1MGQ2IiwgIkQiLCAiLSIpLAogICAgKCJFeGFjdCBCQyArIGV4YWN0IElDICsgUkJBIiwgIndob2xlIiwgIiMyYTc4ZDYiLCAibyIsICItIiksCiAgICAoIkV4YWN0IEJDICsgZXhhY3QgSUMgKyBTQS1QSU5OIiwgIndob2xlIiwgIiNlYjY4MzQiLCAicyIsICItIiksCiAgICAoIkV4YWN0IEJDICsgZXhhY3QgSUMgKyBjYXVzYWwiLCAid2hvbGUiLCAiIzFiYWY3YSIsICJeIiwgIi0iKSwKICAgICgiRXhhY3QgQkMgKyBleGFjdCBJQyArIGNhdXNhbCArIE1zRkZOIiwgIndob2xlIiwgIiMwMDgzMDAiLCAidiIsICItIiksCiAgICAoIlRpbWUgd2luZG93czogZXhhY3QgQkMgKyBsb3NzIElDIiwgIndpbmRvd3MiLCAiIzYyNTBkNiIsICJEIiwgKDAsICg1LCAyLjUpKSksCiAgICAoIlRpbWUgd2luZG93czogZXhhY3QgQkMgKyBsb3NzIElDICsgUkJBIiwgIndpbmRvd3MiLCAiIzJhNzhkNiIsICJvIiwgKDAsICg1LCAyLjUpKSksCiAgICAoIlRpbWUgd2luZG93czogZXhhY3QgQkMgKyBsb3NzIElDICsgU0EtUElOTiIsICJ3aW5kb3dzIiwgIiNlYjY4MzQiLCAicyIsICgwLCAoNSwgMi41KSkpLApdCiMgc2V0dXBzIG9mIHRoZSBwcm9ibGVtcyB3aXRob3V0IHBlcmlvZGljaXR5IG9yIGFuIGluaXRpYWwtY29uZGl0aW9uIGZvcm11bGEKUExBSU5fU0VUVVBTID0gWwogICAgKCJQbGFpbiIsICJ3aG9sZSIsIEdSQVksICJvIiwgIi0iKSwKICAgICgiUGxhaW4gKyBSQkEiLCAid2hvbGUiLCAiIzJhNzhkNiIsICJvIiwgIi0iKSwKICAgICgiUGxhaW4gKyBTQS1QSU5OIiwgIndob2xlIiwgIiNlYjY4MzQiLCAicyIsICItIiksCiAgICAoIlBsYWluICsgY2F1c2FsIiwgIndob2xlIiwgIiMxYmFmN2EiLCAiXiIsICItIiksCiAgICAoIlBsYWluICsgTXNGRk4iLCAid2hvbGUiLCAiI2U4N2JhNCIsICJQIiwgIi0iKSwKICAgICgiUGxhaW4gKyBjYXVzYWwgKyBNc0ZGTiIsICJ3aG9sZSIsICIjMDA4MzAwIiwgInYiLCAiLSIpLApdClNUWUxFID0ge3NbMF06IHNbMTpdIGZvciBzIGluIFNFVFVQUyArIFBMQUlOX1NFVFVQU30KT1JERVIgPSBbc1swXSBmb3IgcyBpbiBTRVRVUFNdICsgW3NbMF0gZm9yIHMgaW4gUExBSU5fU0VUVVBTXQoKcGx0LnJjUGFyYW1zLnVwZGF0ZSh7CiAgICAiZm9udC5mYW1pbHkiOiAiRGVqYVZ1IFNhbnMiLAogICAgIm1hdGh0ZXh0LmZvbnRzZXQiOiAiZGVqYXZ1c2FucyIsCiAgICAiZm9udC5zaXplIjogOSwKICAgICJheGVzLmxpbmV3aWR0aCI6IDAuOCwKICAgICJ4dGljay5kaXJlY3Rpb24iOiAiaW4iLAogICAgInl0aWNrLmRpcmVjdGlvbiI6ICJpbiIsCiAgICAieHRpY2subWFqb3Iuc2l6ZSI6IDMuNSwKICAgICJ5dGljay5tYWpvci5zaXplIjogMy41LAogICAgInl0aWNrLm1pbm9yLnNpemUiOiAyLAogICAgInh0aWNrLnRvcCI6IFRydWUsCiAgICAieXRpY2sucmlnaHQiOiBUcnVlLAogICAgImxlZ2VuZC5mb250c2l6ZSI6IDcuNSwKICAgICJzYXZlZmlnLmRwaSI6IDIyMCwKICAgICJwZGYuZm9udHR5cGUiOiA0MiwgICAgICAgICAgIyBlZGl0YWJsZSB0ZXh0IGluIHRoZSBQREYKfSkKCgpkZWYgX3BjdCh2KToKICAgIHJldHVybiBmInt2Omd9JSIKCgpkZWYgX2xlZ2VuZChheCwgbG9jLCBuY29sKToKICAgIGxlZyA9IGF4LmxlZ2VuZChsb2M9bG9jLCBuY29sPW5jb2wsIGZyYW1lb249VHJ1ZSwgZmFuY3lib3g9RmFsc2UsIGZyYW1lYWxwaGE9MC45NSwKICAgICAgICAgICAgICAgICAgICBlZGdlY29sb3I9IiNjZmNlYzgiLCBib3JkZXJwYWQ9MC41LCBoYW5kbGVsZW5ndGg9Mi40LCBsYWJlbHNwYWNpbmc9MC4zNSwKICAgICAgICAgICAgICAgICAgICBjb2x1bW5zcGFjaW5nPTEuMiwgYm9yZGVyYXhlc3BhZD0wLjYpCiAgICBsZWcuZ2V0X2ZyYW1lKCkuc2V0X2xpbmV3aWR0aCgwLjYpCiAgICBmb3IgdCBpbiBsZWcuZ2V0X3RleHRzKCk6CiAgICAgICAgdC5zZXRfY29sb3IoSU5LKQogICAgcmV0dXJuIGxlZwoKCmRlZiBfb3ZlcmxhcHMoZmlnLCBheCwgbGVnKToKICAgICIiIlRydWUgaWYgYW55IHBsb3R0ZWQgbGluZSAoc2FtcGxlZCBhbG9uZyBpdHMgc2VnbWVudHMsIGluIHNjcmVlbiBzcGFjZSkKICAgIHBhc3NlcyB1bmRlciB0aGUgbGVnZW5kIGJveC4iIiIKICAgIGZpZy5jYW52YXMuZHJhdygpCiAgICBib3ggPSBsZWcuZ2V0X3dpbmRvd19leHRlbnQoKS5leHBhbmRlZCgxLjAyLCAxLjA2KQogICAgZm9yIGxpbmUgaW4gYXguZ2V0X2xpbmVzKCk6CiAgICAgICAgeHkgPSBheC50cmFuc0RhdGEudHJhbnNmb3JtKGxpc3QoemlwKCpsaW5lLmdldF9kYXRhKCkpKSkKICAgICAgICBmb3IgKHgwLCB5MCksICh4MSwgeTEpIGluIHppcCh4eVs6LTFdLCB4eVsxOl0pOgogICAgICAgICAgICBmb3IgZiBpbiBucC5saW5zcGFjZSgwLjAsIDEuMCwgMjUpOgogICAgICAgICAgICAgICAgaWYgYm94LmNvbnRhaW5zKHgwICsgZiAqICh4MSAtIHgwKSwgeTAgKyBmICogKHkxIC0geTApKToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGlmIGxlbih4eSkgPT0gMSBhbmQgYm94LmNvbnRhaW5zKCp4eVswXSk6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICByZXR1cm4gRmFsc2UKCgpkZWYgX3BsYWNlX2xlZ2VuZChmaWcsIGF4KToKICAgICIiIkxlZ2VuZCBpbnNpZGUgdGhlIGF4ZXMsIG5ldmVyIG9uIHRvcCBvZiB0aGUgZGF0YTogdGhlIGZpcnN0IGZyZWUKICAgIGNvcm5lciwgZWxzZSB0d28gY29sdW1ucyBhdCB0aGUgdG9wIHdpdGggdGhlIHkgcmFuZ2UgcmFpc2VkIHRvIG1ha2Ugcm9vbS4iIiIKICAgIGZvciBsb2MgaW4gKCJ1cHBlciByaWdodCIsICJsb3dlciByaWdodCIsICJ1cHBlciBsZWZ0IiwgImxvd2VyIGxlZnQiLCAiY2VudGVyIHJpZ2h0Iik6CiAgICAgICAgbGVnID0gX2xlZ2VuZChheCwgbG9jLCAxKQogICAgICAgIGlmIG5vdCBfb3ZlcmxhcHMoZmlnLCBheCwgbGVnKToKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgbGVnLnJlbW92ZSgpCiAgICBsbywgaGkgPSBheC5nZXRfeWxpbSgpCiAgICBmb3IgXyBpbiByYW5nZSgxNCk6CiAgICAgICAgbGVnID0gX2xlZ2VuZChheCwgInVwcGVyIGNlbnRlciIsIDIpCiAgICAgICAgaWYgbm90IF9vdmVybGFwcyhmaWcsIGF4LCBsZWcpOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBsZWcucmVtb3ZlKCkKICAgICAgICBoaSAqPSAxLjYKICAgICAgICBheC5zZXRfeWxpbShsbywgaGkpCiAgICBfbGVnZW5kKGF4LCAidXBwZXIgY2VudGVyIiwgMikKCgpkZWYgX3NlcmllcyhyKToKICAgIHB0cyA9IFtwIGZvciBwIGluIHJbImwyIl0gaWYgcFswXSA+IDBdICAgICAgICMgdCA9IDAgaXMgbm90IGRyYXduIChsb2cgc2NhbGUsIGV4YWN0IElDKQogICAgcmV0dXJuIFtwWzBdIGZvciBwIGluIHB0c10sIFtwWzFdICogMTAwIGZvciBwIGluIHB0c10KCgpkZWYgX2RyYXcoYXgsIHJlY3MpOgogICAgZm9yIHIgaW4gcmVjczoKICAgICAgICBjb2xvciwgbWFya2VyLCBscyA9IFNUWUxFW3JbInNldHVwIl1dWzE6XQogICAgICAgIHRzLCBsc18gPSBfc2VyaWVzKHIpCiAgICAgICAgaWYgbm90IHRzOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHRwbCA9IHIuZ2V0KCJ0ZW1wbGF0ZSIpCiAgICAgICAgcmVmID0gY29sb3IgaW4gKEdSQVksIEdSQVkyKSAgICAgICAgICAjIHRoZSB0d28gcmVmZXJlbmNlczogb3BlbiBtYXJrZXJzCiAgICAgICAgYXgucGxvdCh0cywgbHNfLCBjb2xvcj1jb2xvciwgbHM9bHMsIGx3PTIuNCBpZiB0cGwgZWxzZSAxLjQsIG1hcmtlcj1tYXJrZXIsIG1zPTYgaWYgdHBsIGVsc2UgNC41LAogICAgICAgICAgICAgICAgbWZjPSJ3aGl0ZSIgaWYgcmVmIGVsc2UgY29sb3IsIG1lYz0id2hpdGUiIGlmICh0cGwgYW5kIG5vdCByZWYpIGVsc2UgY29sb3IsIG1ldz0wLjkgaWYgcmVmIGVsc2UgMC44LAogICAgICAgICAgICAgICAgbGFiZWw9ci5nZXQoImxhYmVsIiwgclsic2V0dXAiXSkgKyAoIiAodGVtcGxhdGUpIiBpZiB0cGwgZWxzZSAiIiksIHpvcmRlcj00IGlmIHRwbCBlbHNlICgyIGlmIHJlZiBlbHNlIDMpKQoKCmRlZiBfc3R5bGVfYXhlcyhheCwgeGxhYmVsLCB5bGFiZWw9VHJ1ZSk6CiAgICBheC5zZXRfeXNjYWxlKCJsb2ciKQogICAgYXguZ3JpZChUcnVlLCB3aGljaD0ibWFqb3IiLCBheGlzPSJ5IiwgY29sb3I9R1JJRCwgbHc9MC43KQogICAgYXguc2V0X2F4aXNiZWxvdyhUcnVlKQogICAgZm9yIHMgaW4gYXguc3BpbmVzLnZhbHVlcygpOgogICAgICAgIHMuc2V0X2NvbG9yKEZSQU1FKQogICAgYXgudGlja19wYXJhbXMoY29sb3JzPUlOSzIsIHdoaWNoPSJib3RoIikKICAgIGF4LnNldF94bGFiZWwoeGxhYmVsLCBjb2xvcj1JTkspCiAgICBpZiB5bGFiZWw6CiAgICAgICAgYXguc2V0X3lsYWJlbCgiUmVsYXRpdmUgJExfMiQgZXJyb3IiLCBjb2xvcj1JTkspCgoKZGVmIF9sb2dfdGlja3MoYXhlcywgcmVjcyk6CiAgICB2YWxzID0gW3BbMV0gKiAxMDAgZm9yIHIgaW4gcmVjcyBmb3IgcCBpbiByWyJsMiJdIGlmIHBbMF0gPiAwXQogICAgbG8sIGhpID0gbWluKHZhbHMpLCBtYXgodmFscykKICAgIGxvX2QsIGhpX2QgPSAxMCAqKiBucC5mbG9vcihucC5sb2cxMChsbykpLCAxMCAqKiBucC5jZWlsKG5wLmxvZzEwKGhpKSkKICAgIGRlY2FkZXMgPSBoaV9kIC8gbG9fZCA+IDMwMAogICAgZm9yIGF4IGluIGF4ZXM6CiAgICAgICAgYXguc2V0X3lsaW0obG9fZCAqIDAuODUgaWYgZGVjYWRlcyBlbHNlIGxvICogMC43LCBoaSAqIDEuNSkKICAgICAgICBheC55YXhpcy5zZXRfbWFqb3JfbG9jYXRvcihMb2dMb2NhdG9yKGJhc2U9MTAsIHN1YnM9KDEuMCwpIGlmIGRlY2FkZXMgZWxzZSAoMS4wLCAyLjAsIDUuMCkpKQogICAgICAgIGF4LnlheGlzLnNldF9taW5vcl9mb3JtYXR0ZXIoTnVsbEZvcm1hdHRlcigpKQogICAgICAgICMgbm8gbGFiZWxzIGZhciBhYm92ZSB0aGUgZGF0YSAodGhlIHkgcmFuZ2UgbWF5IGJlIHJhaXNlZCBmb3IgdGhlIGxlZ2VuZCkKICAgICAgICBheC55YXhpcy5zZXRfbWFqb3JfZm9ybWF0dGVyKEZ1bmNGb3JtYXR0ZXIobGFtYmRhIHYsIF86IF9wY3QodikgaWYgdiA8PSBoaSAqIDIuNSBlbHNlICIiKSkKCgpkZWYgZXhhbXBsZV9maWd1cmUoZSk6CiAgICAiIiJBbGwgY29yZSBzZXR1cHMgaW4gb25lIHBsb3Q6IGNvbG91ciA9IHdlaWdodGluZyBtZXRob2QsIHNvbGlkID0gdGhlCiAgICB3aG9sZSB0aW1lIGludGVydmFsIGF0IG9uY2UsIGRhc2hlZCA9IHRpbWUgd2luZG93cy4gVGhlIGxlZ2VuZCBzaXRzCiAgICB1bmRlciB0aGUgcGxvdCwgaW4gdHdvIGNvbHVtbnMsIGluIHRoZSBvcmRlciBvZiB0aGUgdGFibGUuIiIiCiAgICBjb3JlID0gc29ydGVkKGVbImNvcmUiXSwga2V5PWxhbWJkYSByOiBPUkRFUi5pbmRleChyWyJzZXR1cCJdKSkKICAgIHBsYWluID0gZS5nZXQoInBsYWluX3NldHVwcyIpCiAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9KDYuNiwgNC4wKSBpZiBwbGFpbiBlbHNlICg3LjYsIDUuNikpCiAgICBfZHJhdyhheCwgY29yZSkKICAgIF9zdHlsZV9heGVzKGF4LCBlWyJ4bGFiZWwiXSkKICAgIF9sb2dfdGlja3MoW2F4XSwgY29yZSkKICAgIGlmIHBsYWluOgogICAgICAgIGZpZy50aWdodF9sYXlvdXQocGFkPTAuNCkKICAgICAgICBfcGxhY2VfbGVnZW5kKGZpZywgYXgpCiAgICBlbHNlOgogICAgICAgIGxlZyA9IGF4LmxlZ2VuZChsb2M9InVwcGVyIGNlbnRlciIsIGJib3hfdG9fYW5jaG9yPSgwLjUsIC0wLjE0KSwgbmNvbD0yLCBmcmFtZW9uPUZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICBoYW5kbGVsZW5ndGg9My4wLCBjb2x1bW5zcGFjaW5nPTEuNiwgbGFiZWxzcGFjaW5nPTAuNSwgZm9udHNpemU9Ny41KQogICAgICAgIGZvciB0IGluIGxlZy5nZXRfdGV4dHMoKToKICAgICAgICAgICAgdC5zZXRfY29sb3IoSU5LKQogICAgICAgIGZpZy50aWdodF9sYXlvdXQocGFkPTAuNCkKICAgIHJldHVybiBfc2F2ZShmaWcsICJzdHVkeV8iICsgZVsiaWQiXSArICIucG5nIikKCgpkZWYgX3NhdmUoZmlnLCBuYW1lKToKICAgIG9zLm1ha2VkaXJzKG9zLnBhdGguam9pbihPVVQsICJwZGYiKSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHBuZyA9IG9zLnBhdGguam9pbihPVVQsIG5hbWUpCiAgICBmaWcuc2F2ZWZpZyhwbmcsIGZhY2Vjb2xvcj0id2hpdGUiLCBiYm94X2luY2hlcz0idGlnaHQiLCBwYWRfaW5jaGVzPTAuMDUpCiAgICBmaWcuc2F2ZWZpZyhvcy5wYXRoLmpvaW4oT1VULCAicGRmIiwgbmFtZS5yZXBsYWNlKCIucG5nIiwgIi5wZGYiKSksIGZhY2Vjb2xvcj0id2hpdGUiLCBiYm94X2luY2hlcz0idGlnaHQiLCBwYWRfaW5jaGVzPTAuMDUpCiAgICBwbHQuY2xvc2UoZmlnKQogICAgcmV0dXJuIHBuZwoKCmRlZiBfYXQociwgdCk6CiAgICBmb3IgdHQsIHYgaW4gclsibDIiXToKICAgICAgICBpZiBhYnModHQgLSB0KSA8IDFlLTk6CiAgICAgICAgICAgIHJldHVybiB2CiAgICByZXR1cm4gTm9uZQoKCmRlZiBmbXQodik6CiAgICAiIiJBIHJlbGF0aXZlIGVycm9yIGFzIGEgcGVyY2VudGFnZSwgdHdvIHNpZ25pZmljYW50IGRpZ2l0cy4iIiIKICAgIGlmIHYgaXMgTm9uZToKICAgICAgICByZXR1cm4gIuKAkyIKICAgIHAgPSB2ICogMTAwCiAgICBpZiBwID49IDEwOgogICAgICAgIHJldHVybiBmIntwOi4wZn0lIgogICAgZGlnaXRzID0gbWF4KDEgLSBpbnQobnAuZmxvb3IobnAubG9nMTAocCkpKSwgMCkKICAgIHJldHVybiBmIntwOi57ZGlnaXRzfWZ9JSIKCgpkZWYgY29yZV90YWJsZShlKToKICAgIHRpbWVzID0gZVsidGFibGVfdGltZXMiXQogICAgdGwgPSAidCciIGlmICJ0JyIgaW4gZVsieGxhYmVsIl0gZWxzZSAidCIKICAgIGhlYWQgPSAifCBTZXR1cCB8ICIgKyAiIHwgIi5qb2luKGYiJHt0bH0gPSB7dDpnfSQiIGZvciB0IGluIHRpbWVzKSArICIgfCIKICAgIGxpbmVzID0gW2hlYWQsICJ8LS0tfCIgKyAiLS0tfCIgKiBsZW4odGltZXMpXQogICAgcmVjcyA9IHtyWyJzZXR1cCJdOiByIGZvciByIGluIGVbImNvcmUiXX0KICAgIHNldHVwcyA9IFtzIGZvciBzIGluIE9SREVSIGlmIHMgaW4gcmVjc10gaWYgZS5nZXQoInBsYWluX3NldHVwcyIpIGVsc2UgW3NbMF0gZm9yIHMgaW4gU0VUVVBTXQogICAgYmVzdCA9IG1pbigociBmb3IgciBpbiBlWyJjb3JlIl0pLCBrZXk9bGFtYmRhIHI6IF9hdChyLCB0aW1lc1stMV0pIG9yIDllOSkKICAgIGZvciBzIGluIHNldHVwczoKICAgICAgICByID0gcmVjcy5nZXQocykKICAgICAgICBuYW1lID0gKHIuZ2V0KCJsYWJlbCIsIHMpIGlmIHIgZWxzZSBzKSArICgiICh0ZW1wbGF0ZSkiIGlmIHIgYW5kIHIuZ2V0KCJ0ZW1wbGF0ZSIpIGVsc2UgIiIpCiAgICAgICAgaWYgciBpcyBOb25lOgogICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiJ8IHtuYW1lfSB8ICIgKyAiIHwgIi5qb2luKCLigJMiIGZvciBfIGluIHRpbWVzKSArICIgfCIpCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgY2VsbHMgPSBbZm10KF9hdChyLCB0KSkgZm9yIHQgaW4gdGltZXNdCiAgICAgICAgaWYgciBpcyBiZXN0OgogICAgICAgICAgICBuYW1lLCBjZWxscyA9IGYiKip7bmFtZX0qKiIsIFtmIioqe2N9KioiIGZvciBjIGluIGNlbGxzXQogICAgICAgIGxpbmVzLmFwcGVuZChmInwge25hbWV9IHwgIiArICIgfCAiLmpvaW4oY2VsbHMpICsgIiB8IikKICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCgoKT1ZFUlZJRVdfQ09MUyA9IFtzWzBdIGZvciBzIGluIFNFVFVQU10KT1ZFUlZJRVdfU0hPUlQgPSBbIkxvc3MgQkNcbmxvc3MgSUMiLCAiRXhhY3QgQkNcbmxvc3MgSUMiLCAiRXhhY3QgQkNcbmV4YWN0IElDIiwgIkV4YWN0IEJDXG5leGFjdCBJQ1xuKyBSQkEiLAogICAgICAgICAgICAgICAgICAiRXhhY3QgQkNcbmV4YWN0IElDXG4rIFNBLVBJTk4iLCAiRXhhY3QgQkNcbmV4YWN0IElDXG4rIGNhdXNhbCIsICJFeGFjdCBCQ1xuZXhhY3QgSUNcbisgY2F1c2FsXG4rIE1zRkZOIiwKICAgICAgICAgICAgICAgICAgIldpbmRvd3M6XG5leGFjdCBCQ1xubG9zcyBJQyIsICJXaW5kb3dzOlxuZXhhY3QgQkNcbmxvc3MgSUNcbisgUkJBIiwgIldpbmRvd3M6XG5leGFjdCBCQ1xubG9zcyBJQ1xuKyBTQS1QSU5OIl0KCgpkZWYgb3ZlcnZpZXcoZXhhbXBsZXMpOgogICAgIiIiRXJyb3IgYXQgdGhlIGxhc3QgdGltZSwgZXZlcnkgcGhhc2UtZmllbGQgZXhhbXBsZSB4IGV2ZXJ5IGNvcmUgc2V0dXAuIiIiCiAgICByb3dzID0gW2UgZm9yIGUgaW4gZXhhbXBsZXMgaWYgbm90IGUuZ2V0KCJwbGFpbl9zZXR1cHMiKV0KICAgIE0gPSBucC5mdWxsKChsZW4ocm93cyksIGxlbihPVkVSVklFV19DT0xTKSksIG5wLm5hbikKICAgIGZvciBpLCBlIGluIGVudW1lcmF0ZShyb3dzKToKICAgICAgICB0ID0gZVsidGFibGVfdGltZXMiXVstMV0KICAgICAgICBmb3IgciBpbiBlWyJjb3JlIl06CiAgICAgICAgICAgIHYgPSBfYXQociwgdCkKICAgICAgICAgICAgaWYgdiBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIE1baSwgT1ZFUlZJRVdfQ09MUy5pbmRleChyWyJzZXR1cCJdKV0gPSB2ICogMTAwCiAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9KDEwLjQsIDAuNDggKiBsZW4ocm93cykgKyAxLjUpKQogICAgTCA9IG5wLmxvZzEwKG5wLmNsaXAoTSwgMWUtMywgMzAwKSkKICAgIGNtYXAgPSBtYXRwbG90bGliLmNvbG9ybWFwc1siQmx1ZXNfciJdLmNvcHkoKQogICAgY21hcC5zZXRfYmFkKCIjZjNmMmVlIikKICAgIGltID0gYXguaW1zaG93KG5wLm1hLm1hc2tlZF9pbnZhbGlkKEwpLCBjbWFwPWNtYXAsIHZtaW49LTIuMiwgdm1heD0yLjQsIGFzcGVjdD0iYXV0byIpCiAgICBmb3IgaSBpbiByYW5nZShNLnNoYXBlWzBdKToKICAgICAgICBiZXN0ID0gbnAubmFubWluKE1baV0pCiAgICAgICAgZm9yIGogaW4gcmFuZ2UoTS5zaGFwZVsxXSk6CiAgICAgICAgICAgIHYgPSBNW2ksIGpdCiAgICAgICAgICAgIGlmIG5wLmlzbmFuKHYpOgogICAgICAgICAgICAgICAgYXgudGV4dChqLCBpLCAi4oCTIiwgaGE9ImNlbnRlciIsIHZhPSJjZW50ZXIiLCBjb2xvcj1JTksyLCBmb250c2l6ZT03LjUpCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICB0eHQgPSBmbXQodiAvIDEwMCkKICAgICAgICAgICAgZGFyayA9IExbaSwgal0gPCAwLjIKICAgICAgICAgICAgYXgudGV4dChqLCBpLCB0eHQsIGhhPSJjZW50ZXIiLCB2YT0iY2VudGVyIiwgZm9udHNpemU9Ny41LAogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJ3aGl0ZSIgaWYgZGFyayBlbHNlIElOSywgZm9udHdlaWdodD0iYm9sZCIgaWYgdiA9PSBiZXN0IGVsc2UgIm5vcm1hbCIpCiAgICBheC5zZXRfeHRpY2tzKHJhbmdlKGxlbihPVkVSVklFV19DT0xTKSksIE9WRVJWSUVXX1NIT1JULCBmb250c2l6ZT03LjUsIGNvbG9yPUlOSykKICAgIGF4LnNldF95dGlja3MocmFuZ2UobGVuKHJvd3MpKSwgW2Yie2VbJ3RpdGxlJ119LCAkeyd0JyArIGNocigzOSkgaWYgY2hyKDM5KSBpbiBlWyd4bGFiZWwnXSBlbHNlICd0J30gPSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmIntlWyd0YWJsZV90aW1lcyddWy0xXTpnfSQiIGZvciBlIGluIHJvd3NdLCBmb250c2l6ZT03LjUsIGNvbG9yPUlOSykKICAgIGF4LnhheGlzLnRpY2tfdG9wKCkKICAgIGF4LnRpY2tfcGFyYW1zKGxlbmd0aD0wKQogICAgZm9yIHMgaW4gYXguc3BpbmVzLnZhbHVlcygpOgogICAgICAgIHMuc2V0X3Zpc2libGUoRmFsc2UpCiAgICBheC5zZXRfeHRpY2tzKG5wLmFyYW5nZSgtMC41LCBNLnNoYXBlWzFdKSwgbWlub3I9VHJ1ZSkKICAgIGF4LnNldF95dGlja3MobnAuYXJhbmdlKC0wLjUsIE0uc2hhcGVbMF0pLCBtaW5vcj1UcnVlKQogICAgYXguZ3JpZCh3aGljaD0ibWlub3IiLCBjb2xvcj0id2hpdGUiLCBsdz0yKQogICAgYXgudGlja19wYXJhbXMod2hpY2g9Im1pbm9yIiwgbGVuZ3RoPTApCiAgICBheC5heHZsaW5lKDYuNSwgY29sb3I9SU5LMiwgbHc9MC44KQogICAgZmlnLnRpZ2h0X2xheW91dChwYWQ9MC40KQogICAgcmV0dXJuIF9zYXZlKGZpZywgInN0dWR5X292ZXJ2aWV3LnBuZyIpCgoKZGVmIHVwZGF0ZV9tYXJrZG93bihleGFtcGxlcyk6CiAgICAiIiJSZXdyaXRlIHRoZSBnZW5lcmF0ZWQgdGFibGVzIGJldHdlZW4gPCEtLSBjb3JlOklEIC0tPiBhbmQgPCEtLSAvY29yZSAtLT4gbWFya2Vycy4iIiIKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhNRCk6CiAgICAgICAgcmV0dXJuCiAgICBzID0gb3BlbihNRCkucmVhZCgpCiAgICBmb3IgZSBpbiBleGFtcGxlczoKICAgICAgICBzID0gcmUuc3ViKHJmIig8IS0tIGNvcmU6e2VbJ2lkJ119IC0tPlxuKSg/Oig/ITwhLS0gY29yZTopLikqPyg8IS0tIC9jb3JlIC0tPikiLAogICAgICAgICAgICAgICAgICAgbGFtYmRhIG06IG0uZ3JvdXAoMSkgKyBjb3JlX3RhYmxlKGUpICsgIlxuIiArIG0uZ3JvdXAoMiksIHMsIGZsYWdzPXJlLlMpCiAgICBvcGVuKE1ELCAidyIpLndyaXRlKHMpCgoKZGVmIG1haW4oKToKICAgIGRhdGEgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oT1VULCAic3R1ZHkuanNvbiIpKSkKICAgIGZvciBlIGluIGRhdGFbImV4YW1wbGVzIl06CiAgICAgICAgcHJpbnQoZXhhbXBsZV9maWd1cmUoZSkpCiAgICBwcmludChvdmVydmlldyhkYXRhWyJleGFtcGxlcyJdKSkKICAgIHVwZGF0ZV9tYXJrZG93bihkYXRhWyJleGFtcGxlcyJdKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""
+Figures and tables for benchmarks/training_methods.md, drawn from
+benchmarks/figures/study.json (one record per run: example, setup, and the
+relative L2 error of the main output at each reference time).
+
+Every setup has one colour, marker and line style in every figure: the
+colour is the weighting method (none, RBA, SA-PINN, causal, causal +
+MsFFN), a solid line trains on the whole time interval at once and a dashed
+line in time windows, and the two references without an exact initial
+condition (loss BC + loss IC, exact BC + loss IC) are gray.
+
+Each figure is written as a PNG for the documentation and a vector PDF
+(figures/pdf/) for papers and slides; captions live in the markdown. The
+core tables in the markdown sit between <!-- core:ID --> markers and are
+rewritten from the same data. Rebuild with
+    python3 benchmarks/make_figures.py
+"""
+import json
+import os
+import re
+
+import numpy as np
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.ticker import FuncFormatter, LogLocator, NullFormatter
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT = os.path.join(HERE, "figures")
+MD = os.path.join(HERE, "training_methods.md")
+
+INK, INK2, GRID, FRAME = "#1f1f1e", "#4a4a46", "#e8e7e2", "#8c8b86"
+GRAY, GRAY2 = "#7d7d78", "#a9a8a2"
+
+# The study's setups, in table order: (name, panel, colour, marker, line style)
+SETUPS = [
+    ("Loss BC + loss IC", "whole", GRAY, "o", "-"),
+    ("Exact BC + loss IC", "whole", GRAY2, "s", "-"),
+    ("Exact BC + exact IC", "whole", "#6250d6", "D", "-"),
+    ("Exact BC + exact IC + RBA", "whole", "#2a78d6", "o", "-"),
+    ("Exact BC + exact IC + SA-PINN", "whole", "#eb6834", "s", "-"),
+    ("Exact BC + exact IC + causal", "whole", "#1baf7a", "^", "-"),
+    ("Exact BC + exact IC + causal + MsFFN", "whole", "#008300", "v", "-"),
+    ("Time windows: exact BC + loss IC", "windows", "#6250d6", "D", (0, (5, 2.5))),
+    ("Time windows: exact BC + loss IC + RBA", "windows", "#2a78d6", "o", (0, (5, 2.5))),
+    ("Time windows: exact BC + loss IC + SA-PINN", "windows", "#eb6834", "s", (0, (5, 2.5))),
+]
+# setups of the problems without periodicity or an initial-condition formula
+PLAIN_SETUPS = [
+    ("Plain", "whole", GRAY, "o", "-"),
+    ("Plain + RBA", "whole", "#2a78d6", "o", "-"),
+    ("Plain + SA-PINN", "whole", "#eb6834", "s", "-"),
+    ("Plain + causal", "whole", "#1baf7a", "^", "-"),
+    ("Plain + MsFFN", "whole", "#e87ba4", "P", "-"),
+    ("Plain + causal + MsFFN", "whole", "#008300", "v", "-"),
+]
+STYLE = {s[0]: s[1:] for s in SETUPS + PLAIN_SETUPS}
+ORDER = [s[0] for s in SETUPS] + [s[0] for s in PLAIN_SETUPS]
+
+plt.rcParams.update({
+    "font.family": "DejaVu Sans",
+    "mathtext.fontset": "dejavusans",
+    "font.size": 9,
+    "axes.linewidth": 0.8,
+    "xtick.direction": "in",
+    "ytick.direction": "in",
+    "xtick.major.size": 3.5,
+    "ytick.major.size": 3.5,
+    "ytick.minor.size": 2,
+    "xtick.top": True,
+    "ytick.right": True,
+    "legend.fontsize": 7.5,
+    "savefig.dpi": 220,
+    "pdf.fonttype": 42,          # editable text in the PDF
+})
+
+
+def _pct(v):
+    return f"{v:g}%"
+
+
+def _legend(ax, loc, ncol):
+    leg = ax.legend(loc=loc, ncol=ncol, frameon=True, fancybox=False, framealpha=0.95,
+                    edgecolor="#cfcec8", borderpad=0.5, handlelength=2.4, labelspacing=0.35,
+                    columnspacing=1.2, borderaxespad=0.6)
+    leg.get_frame().set_linewidth(0.6)
+    for t in leg.get_texts():
+        t.set_color(INK)
+    return leg
+
+
+def _overlaps(fig, ax, leg):
+    """True if any plotted line (sampled along its segments, in screen space)
+    passes under the legend box."""
+    fig.canvas.draw()
+    box = leg.get_window_extent().expanded(1.02, 1.06)
+    for line in ax.get_lines():
+        xy = ax.transData.transform(list(zip(*line.get_data())))
+        for (x0, y0), (x1, y1) in zip(xy[:-1], xy[1:]):
+            for f in np.linspace(0.0, 1.0, 25):
+                if box.contains(x0 + f * (x1 - x0), y0 + f * (y1 - y0)):
+                    return True
+        if len(xy) == 1 and box.contains(*xy[0]):
+            return True
+    return False
+
+
+def _place_legend(fig, ax):
+    """Legend inside the axes, never on top of the data: the first free
+    corner, else two columns at the top with the y range raised to make room."""
+    for loc in ("upper right", "lower right", "upper left", "lower left", "center right"):
+        leg = _legend(ax, loc, 1)
+        if not _overlaps(fig, ax, leg):
+            return
+        leg.remove()
+    lo, hi = ax.get_ylim()
+    for _ in range(14):
+        leg = _legend(ax, "upper center", 2)
+        if not _overlaps(fig, ax, leg):
+            return
+        leg.remove()
+        hi *= 1.6
+        ax.set_ylim(lo, hi)
+    _legend(ax, "upper center", 2)
+
+
+def _series(r):
+    pts = [p for p in r["l2"] if p[0] > 0]       # t = 0 is not drawn (log scale, exact IC)
+    return [p[0] for p in pts], [p[1] * 100 for p in pts]
+
+
+def _draw(ax, recs):
+    for r in recs:
+        color, marker, ls = STYLE[r["setup"]][1:]
+        ts, ls_ = _series(r)
+        if not ts:
+            continue
+        tpl = r.get("template")
+        ref = color in (GRAY, GRAY2)          # the two references: open markers
+        ax.plot(ts, ls_, color=color, ls=ls, lw=2.4 if tpl else 1.4, marker=marker, ms=6 if tpl else 4.5,
+                mfc="white" if ref else color, mec="white" if (tpl and not ref) else color, mew=0.9 if ref else 0.8,
+                label=r.get("label", r["setup"]) + (" (template)" if tpl else ""), zorder=4 if tpl else (2 if ref else 3))
+
+
+def _style_axes(ax, xlabel, ylabel=True):
+    ax.set_yscale("log")
+    ax.grid(True, which="major", axis="y", color=GRID, lw=0.7)
+    ax.set_axisbelow(True)
+    for s in ax.spines.values():
+        s.set_color(FRAME)
+    ax.tick_params(colors=INK2, which="both")
+    ax.set_xlabel(xlabel, color=INK)
+    if ylabel:
+        ax.set_ylabel("Relative $L_2$ error", color=INK)
+
+
+def _log_ticks(axes, recs):
+    vals = [p[1] * 100 for r in recs for p in r["l2"] if p[0] > 0]
+    lo, hi = min(vals), max(vals)
+    lo_d, hi_d = 10 ** np.floor(np.log10(lo)), 10 ** np.ceil(np.log10(hi))
+    decades = hi_d / lo_d > 300
+    for ax in axes:
+        ax.set_ylim(lo_d * 0.85 if decades else lo * 0.7, hi * 1.5)
+        ax.yaxis.set_major_locator(LogLocator(base=10, subs=(1.0,) if decades else (1.0, 2.0, 5.0)))
+        ax.yaxis.set_minor_formatter(NullFormatter())
+        # no labels far above the data (the y range may be raised for the legend)
+        ax.yaxis.set_major_formatter(FuncFormatter(lambda v, _: _pct(v) if v <= hi * 2.5 else ""))
+
+
+def example_figure(e):
+    """All core setups in one plot: colour = weighting method, solid = the
+    whole time interval at once, dashed = time windows. The legend sits
+    under the plot, in two columns, in the order of the table."""
+    core = sorted(e["core"], key=lambda r: ORDER.index(r["setup"]))
+    plain = e.get("plain_setups")
+    fig, ax = plt.subplots(figsize=(6.6, 4.0) if plain else (7.6, 5.6))
+    _draw(ax, core)
+    _style_axes(ax, e["xlabel"])
+    _log_ticks([ax], core)
+    if plain:
+        fig.tight_layout(pad=0.4)
+        _place_legend(fig, ax)
+    else:
+        leg = ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.14), ncol=2, frameon=False,
+                        handlelength=3.0, columnspacing=1.6, labelspacing=0.5, fontsize=7.5)
+        for t in leg.get_texts():
+            t.set_color(INK)
+        fig.tight_layout(pad=0.4)
+    return _save(fig, "study_" + e["id"] + ".png")
+
+
+def _save(fig, name):
+    os.makedirs(os.path.join(OUT, "pdf"), exist_ok=True)
+    png = os.path.join(OUT, name)
+    fig.savefig(png, facecolor="white", bbox_inches="tight", pad_inches=0.05)
+    fig.savefig(os.path.join(OUT, "pdf", name.replace(".png", ".pdf")), facecolor="white", bbox_inches="tight", pad_inches=0.05)
+    plt.close(fig)
+    return png
+
+
+def _at(r, t):
+    for tt, v in r["l2"]:
+        if abs(tt - t) < 1e-9:
+            return v
+    return None
+
+
+def fmt(v):
+    """A relative error as a percentage, two significant digits."""
+    if v is None:
+        return "–"
+    p = v * 100
+    if p >= 10:
+        return f"{p:.0f}%"
+    digits = max(1 - int(np.floor(np.log10(p))), 0)
+    return f"{p:.{digits}f}%"
+
+
+def core_table(e):
+    times = e["table_times"]
+    tl = "t'" if "t'" in e["xlabel"] else "t"
+    head = "| Setup | " + " | ".join(f"${tl} = {t:g}$" for t in times) + " |"
+    lines = [head, "|---|" + "---|" * len(times)]
+    recs = {r["setup"]: r for r in e["core"]}
+    setups = [s for s in ORDER if s in recs] if e.get("plain_setups") else [s[0] for s in SETUPS]
+    best = min((r for r in e["core"]), key=lambda r: _at(r, times[-1]) or 9e9)
+    for s in setups:
+        r = recs.get(s)
+        name = (r.get("label", s) if r else s) + (" (template)" if r and r.get("template") else "")
+        if r is None:
+            lines.append(f"| {name} | " + " | ".join("–" for _ in times) + " |")
+            continue
+        cells = [fmt(_at(r, t)) for t in times]
+        if r is best:
+            name, cells = f"**{name}**", [f"**{c}**" for c in cells]
+        lines.append(f"| {name} | " + " | ".join(cells) + " |")
+    return "\n".join(lines)
+
+
+OVERVIEW_COLS = [s[0] for s in SETUPS]
+OVERVIEW_SHORT = ["Loss BC\nloss IC", "Exact BC\nloss IC", "Exact BC\nexact IC", "Exact BC\nexact IC\n+ RBA",
+                  "Exact BC\nexact IC\n+ SA-PINN", "Exact BC\nexact IC\n+ causal", "Exact BC\nexact IC\n+ causal\n+ MsFFN",
+                  "Windows:\nexact BC\nloss IC", "Windows:\nexact BC\nloss IC\n+ RBA", "Windows:\nexact BC\nloss IC\n+ SA-PINN"]
+
+
+def overview(examples):
+    """Error at the last time, every phase-field example x every core setup."""
+    rows = [e for e in examples if not e.get("plain_setups")]
+    M = np.full((len(rows), len(OVERVIEW_COLS)), np.nan)
+    for i, e in enumerate(rows):
+        t = e["table_times"][-1]
+        for r in e["core"]:
+            v = _at(r, t)
+            if v is not None:
+                M[i, OVERVIEW_COLS.index(r["setup"])] = v * 100
+    fig, ax = plt.subplots(figsize=(10.4, 0.48 * len(rows) + 1.5))
+    L = np.log10(np.clip(M, 1e-3, 300))
+    cmap = matplotlib.colormaps["Blues_r"].copy()
+    cmap.set_bad("#f3f2ee")
+    im = ax.imshow(np.ma.masked_invalid(L), cmap=cmap, vmin=-2.2, vmax=2.4, aspect="auto")
+    for i in range(M.shape[0]):
+        best = np.nanmin(M[i])
+        for j in range(M.shape[1]):
+            v = M[i, j]
+            if np.isnan(v):
+                ax.text(j, i, "–", ha="center", va="center", color=INK2, fontsize=7.5)
+                continue
+            txt = fmt(v / 100)
+            dark = L[i, j] < 0.2
+            ax.text(j, i, txt, ha="center", va="center", fontsize=7.5,
+                    color="white" if dark else INK, fontweight="bold" if v == best else "normal")
+    ax.set_xticks(range(len(OVERVIEW_COLS)), OVERVIEW_SHORT, fontsize=7.5, color=INK)
+    ax.set_yticks(range(len(rows)), [f"{e['title']}, ${'t' + chr(39) if chr(39) in e['xlabel'] else 't'} = "
+                                     f"{e['table_times'][-1]:g}$" for e in rows], fontsize=7.5, color=INK)
+    ax.xaxis.tick_top()
+    ax.tick_params(length=0)
+    for s in ax.spines.values():
+        s.set_visible(False)
+    ax.set_xticks(np.arange(-0.5, M.shape[1]), minor=True)
+    ax.set_yticks(np.arange(-0.5, M.shape[0]), minor=True)
+    ax.grid(which="minor", color="white", lw=2)
+    ax.tick_params(which="minor", length=0)
+    ax.axvline(6.5, color=INK2, lw=0.8)
+    fig.tight_layout(pad=0.4)
+    return _save(fig, "study_overview.png")
+
+
+def update_markdown(examples):
+    """Rewrite the generated tables between <!-- core:ID --> and <!-- /core --> markers."""
+    if not os.path.exists(MD):
+        return
+    s = open(MD).read()
+    for e in examples:
+        s = re.sub(rf"(<!-- core:{e['id']} -->\n)(?:(?!<!-- core:).)*?(<!-- /core -->)",
+                   lambda m: m.group(1) + core_table(e) + "\n" + m.group(2), s, flags=re.S)
+    open(MD, "w").write(s)
+
+
+def main():
+    data = json.load(open(os.path.join(OUT, "study.json")))
+    for e in data["examples"]:
+        print(example_figure(e))
+    print(overview(data["examples"]))
+    update_markdown(data["examples"])
+
+
+if __name__ == "__main__":
+    main()

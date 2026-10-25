@@ -1,1 +1,395 @@
-ewogImNvbGxhcHNlX2dyaWQiOiB7CiAgIjAuMDUiOiB7CiAgICI1IjogewogICAgInIiOiAxLAogICAgInJfb3Zlcl90YXUiOiAwLjIsCiAgICAiZ2Fpbl9tZWFuIjogMC4xODEzODI5MTIwMjc5NDgxOCwKICAgICJnYWluX3N0ZCI6IDAuMDExMDEyNzg1MDQxMTEzOTYsCiAgICAia3N0YXIiOiBbCiAgICAgMSwKICAgICAxLAogICAgIDIKICAgIF0sCiAgICAibl9zYW1wbGVzIjogNDAwMDAKICAgfSwKICAgIjEwIjogewogICAgInIiOiAxLAogICAgInJfb3Zlcl90YXUiOiAwLjEsCiAgICAiZ2Fpbl9tZWFuIjogMC4yNjI4Mjc1ODc0NzY0NzA1NiwKICAgICJnYWluX3N0ZCI6IDAuMDAyMjY5ODg3NDA3ODY0MzU2NCwKICAgICJrc3RhciI6IFsKICAgICAxLAogICAgIDEsCiAgICAgMQogICAgXSwKICAgICJuX3NhbXBsZXMiOiA0MDAwMAogICB9LAogICAiMjAiOiB7CiAgICAiciI6IDEsCiAgICAicl9vdmVyX3RhdSI6IDAuMDUsCiAgICAiZ2Fpbl9tZWFuIjogMC4zNTIwNjkwMzc0OTk1OTA3MywKICAgICJnYWluX3N0ZCI6IDAuMDA1MzgwNzI2OTEyNTY3NjI4LAogICAgImtzdGFyIjogWwogICAgIDEsCiAgICAgMSwKICAgICAxCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDQwMDAwCiAgIH0sCiAgICI0MCI6IHsKICAgICJyIjogMiwKICAgICJyX292ZXJfdGF1IjogMC4wNSwKICAgICJnYWluX21lYW4iOiAwLjM0NzMzNTYzMDcwNzQ3Njg2LAogICAgImdhaW5fc3RkIjogMC4wMDYxNDcwMTg0NTk5NDY4Mjk1LAogICAgImtzdGFyIjogWwogICAgIDEsCiAgICAgMSwKICAgICAxCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDIwMDAwCiAgIH0sCiAgICI4MCI6IHsKICAgICJyIjogNCwKICAgICJyX292ZXJfdGF1IjogMC4wNSwKICAgICJnYWluX21lYW4iOiAwLjMzNjI5MjA3ODE5NzI4NTEsCiAgICAiZ2Fpbl9zdGQiOiAwLjAyMTMwODM2ODYzMTEwNDkyMywKICAgICJrc3RhciI6IFsKICAgICAxLAogICAgIDEsCiAgICAgMQogICAgXSwKICAgICJuX3NhbXBsZXMiOiAxMDAwMAogICB9CiAgfSwKICAiMC4xIjogewogICAiNSI6IHsKICAgICJyIjogMSwKICAgICJyX292ZXJfdGF1IjogMC4yLAogICAgImdhaW5fbWVhbiI6IDAuMTgxMzgyOTEyMDI3OTQ4MTgsCiAgICAiZ2Fpbl9zdGQiOiAwLjAxMTAxMjc4NTA0MTExMzk2LAogICAgImtzdGFyIjogWwogICAgIDEsCiAgICAgMSwKICAgICAyCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDQwMDAwCiAgIH0sCiAgICIxMCI6IHsKICAgICJyIjogMSwKICAgICJyX292ZXJfdGF1IjogMC4xLAogICAgImdhaW5fbWVhbiI6IDAuMjYyODI3NTg3NDc2NDcwNTYsCiAgICAiZ2Fpbl9zdGQiOiAwLjAwMjI2OTg4NzQwNzg2NDM1NjQsCiAgICAia3N0YXIiOiBbCiAgICAgMSwKICAgICAxLAogICAgIDEKICAgIF0sCiAgICAibl9zYW1wbGVzIjogNDAwMDAKICAgfSwKICAgIjIwIjogewogICAgInIiOiAyLAogICAgInJfb3Zlcl90YXUiOiAwLjEsCiAgICAiZ2Fpbl9tZWFuIjogMC4yNjI0NjAwMTQ2NTM2NDE1LAogICAgImdhaW5fc3RkIjogMC4wMDIzNTk0NTcyOTY2ODA3ODksCiAgICAia3N0YXIiOiBbCiAgICAgMSwKICAgICAxLAogICAgIDEKICAgIF0sCiAgICAibl9zYW1wbGVzIjogMjAwMDAKICAgfSwKICAgIjQwIjogewogICAgInIiOiA0LAogICAgInJfb3Zlcl90YXUiOiAwLjEsCiAgICAiZ2Fpbl9tZWFuIjogMC4yNTMyOTExNjYxNDgxNDQ3MywKICAgICJnYWluX3N0ZCI6IDAuMDEzNTMyNDg5NTMxOTU4Mjk1LAogICAgImtzdGFyIjogWwogICAgIDEsCiAgICAgMSwKICAgICAxCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDEwMDAwCiAgIH0sCiAgICI4MCI6IHsKICAgICJyIjogOCwKICAgICJyX292ZXJfdGF1IjogMC4xLAogICAgImdhaW5fbWVhbiI6IDAuMjI5MzQyOTI3OTMwMzg5OSwKICAgICJnYWluX3N0ZCI6IDAuMDIzNjAwMzU4Mzk3MDY0NDcsCiAgICAia3N0YXIiOiBbCiAgICAgMiwKICAgICAxLAogICAgIDEKICAgIF0sCiAgICAibl9zYW1wbGVzIjogNTAwMAogICB9CiAgfSwKICAiMC4yIjogewogICAiNSI6IHsKICAgICJyIjogMSwKICAgICJyX292ZXJfdGF1IjogMC4yLAogICAgImdhaW5fbWVhbiI6IDAuMTgxMzgyOTEyMDI3OTQ4MTgsCiAgICAiZ2Fpbl9zdGQiOiAwLjAxMTAxMjc4NTA0MTExMzk2LAogICAgImtzdGFyIjogWwogICAgIDEsCiAgICAgMSwKICAgICAyCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDQwMDAwCiAgIH0sCiAgICIxMCI6IHsKICAgICJyIjogMiwKICAgICJyX292ZXJfdGF1IjogMC4yLAogICAgImdhaW5fbWVhbiI6IDAuMTg4NTY2OTYwODc3OTk5NjUsCiAgICAiZ2Fpbl9zdGQiOiAwLjAwNTY3NjA3MDE5MDE4OTY0NywKICAgICJrc3RhciI6IFsKICAgICAxLAogICAgIDEsCiAgICAgMgogICAgXSwKICAgICJuX3NhbXBsZXMiOiAyMDAwMAogICB9LAogICAiMjAiOiB7CiAgICAiciI6IDQsCiAgICAicl9vdmVyX3RhdSI6IDAuMiwKICAgICJnYWluX21lYW4iOiAwLjE4MTIxMjk3NTk1MDgyNDk0LAogICAgImdhaW5fc3RkIjogMC4wMDk0OTY2NjE3NTQ5ODkwMjMsCiAgICAia3N0YXIiOiBbCiAgICAgMSwKICAgICAxLAogICAgIDEKICAgIF0sCiAgICAibl9zYW1wbGVzIjogMTAwMDAKICAgfSwKICAgIjQwIjogewogICAgInIiOiA4LAogICAgInJfb3Zlcl90YXUiOiAwLjIsCiAgICAiZ2Fpbl9tZWFuIjogMC4xNjA0MDcyMTg1MzkwMzg3MiwKICAgICJnYWluX3N0ZCI6IDAuMDE4MTc4MzAyNjQzNzM0MTc0LAogICAgImtzdGFyIjogWwogICAgIDEsCiAgICAgMSwKICAgICAyCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDUwMDAKICAgfSwKICAgIjgwIjogewogICAgInIiOiAxNiwKICAgICJyX292ZXJfdGF1IjogMC4yLAogICAgImdhaW5fbWVhbiI6IDAuMTUxMTA3ODY0ODIwNTMzMTgsCiAgICAiZ2Fpbl9zdGQiOiAwLjAzNDA0ODI3Nzk4MzA5NzUyLAogICAgImtzdGFyIjogWwogICAgIDEsCiAgICAgMSwKICAgICAyCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDI1MDAKICAgfQogIH0sCiAgIjAuNCI6IHsKICAgIjUiOiB7CiAgICAiciI6IDIsCiAgICAicl9vdmVyX3RhdSI6IDAuNCwKICAgICJnYWluX21lYW4iOiAwLjExNzYzMTkxNDM4NTI0NjczLAogICAgImdhaW5fc3RkIjogMC4wMDQ2OTE5ODU5NDgwODc4NjEsCiAgICAia3N0YXIiOiBbCiAgICAgMSwKICAgICAxLAogICAgIDEKICAgIF0sCiAgICAibl9zYW1wbGVzIjogMjAwMDAKICAgfSwKICAgIjEwIjogewogICAgInIiOiA0LAogICAgInJfb3Zlcl90YXUiOiAwLjQsCiAgICAiZ2Fpbl9tZWFuIjogMC4xMjUzMDk1Mzk3OTcxOTM2NywKICAgICJnYWluX3N0ZCI6IDAuMDAwODY4NzQ4NzY0NDQ3NjkwOCwKICAgICJrc3RhciI6IFsKICAgICAxLAogICAgIDEsCiAgICAgMQogICAgXSwKICAgICJuX3NhbXBsZXMiOiAxMDAwMAogICB9LAogICAiMjAiOiB7CiAgICAiciI6IDgsCiAgICAicl9vdmVyX3RhdSI6IDAuNCwKICAgICJnYWluX21lYW4iOiAwLjEwODI3MDU2MTEzMzc3Njk0LAogICAgImdhaW5fc3RkIjogMC4wMTU0Mjk3MTgxMTk0MTkwODgsCiAgICAia3N0YXIiOiBbCiAgICAgMSwKICAgICAxLAogICAgIDEKICAgIF0sCiAgICAibl9zYW1wbGVzIjogNTAwMAogICB9LAogICAiNDAiOiB7CiAgICAiciI6IDE2LAogICAgInJfb3Zlcl90YXUiOiAwLjQsCiAgICAiZ2Fpbl9tZWFuIjogMC4xMDYzNzA4MjA2ODA4ODE1NCwKICAgICJnYWluX3N0ZCI6IDAuMDA1MzQ4NTMzNjQ5MzA5MjkxLAogICAgImtzdGFyIjogWwogICAgIDEsCiAgICAgMSwKICAgICAxCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDI1MDAKICAgfSwKICAgIjgwIjogewogICAgInIiOiAzMiwKICAgICJyX292ZXJfdGF1IjogMC40LAogICAgImdhaW5fbWVhbiI6IDAuMDk4MzI5MTc3NTE3NTQ1MTgsCiAgICAiZ2Fpbl9zdGQiOiAwLjAyMzY1NzUwMjAyNTUyMzAxOCwKICAgICJrc3RhciI6IFsKICAgICAyLAogICAgIDEsCiAgICAgMQogICAgXSwKICAgICJuX3NhbXBsZXMiOiAxMjUwCiAgIH0KICB9LAogICIwLjgiOiB7CiAgICI1IjogewogICAgInIiOiA0LAogICAgInJfb3Zlcl90YXUiOiAwLjgsCiAgICAiZ2Fpbl9tZWFuIjogMC4wNjM2NTM2MzM3MDkzODI5MSwKICAgICJnYWluX3N0ZCI6IDAuMDA2MjMwMTI3NDYwODU3Mjc4LAogICAgImtzdGFyIjogWwogICAgIDEsCiAgICAgMSwKICAgICAxCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDEwMDAwCiAgIH0sCiAgICIxMCI6IHsKICAgICJyIjogOCwKICAgICJyX292ZXJfdGF1IjogMC44LAogICAgImdhaW5fbWVhbiI6IDAuMDYyNTU2NjgwMjExMDkzODEsCiAgICAiZ2Fpbl9zdGQiOiAwLjAxNTQzOTc0MjQzNTM0Mzc0OCwKICAgICJrc3RhciI6IFsKICAgICAxLAogICAgIDEsCiAgICAgMQogICAgXSwKICAgICJuX3NhbXBsZXMiOiA1MDAwCiAgIH0sCiAgICIyMCI6IHsKICAgICJyIjogMTYsCiAgICAicl9vdmVyX3RhdSI6IDAuOCwKICAgICJnYWluX21lYW4iOiAwLjA0OTE3NzY5MTc0Nzk3Mjg4LAogICAgImdhaW5fc3RkIjogMC4wMTYyMDc0NTc3NTQ4NzgxMzQsCiAgICAia3N0YXIiOiBbCiAgICAgMiwKICAgICAyLAogICAgIDIKICAgIF0sCiAgICAibl9zYW1wbGVzIjogMjUwMAogICB9LAogICAiNDAiOiB7CiAgICAiciI6IDMyLAogICAgInJfb3Zlcl90YXUiOiAwLjgsCiAgICAiZ2Fpbl9tZWFuIjogMC4wNTkyNzk4NzMwODY5Nzk0NiwKICAgICJnYWluX3N0ZCI6IDAuMDEyMDUxNzA4OTAzOTAxNzEyLAogICAgImtzdGFyIjogWwogICAgIDIsCiAgICAgMiwKICAgICAxCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDEyNTAKICAgfSwKICAgIjgwIjogewogICAgInIiOiA2NCwKICAgICJyX292ZXJfdGF1IjogMC44LAogICAgImdhaW5fbWVhbiI6IDAuMDIyNzMwNTk4ODEwNzU0MzQ3LAogICAgImdhaW5fc3RkIjogMC4wMTA1OTc0NTI0NTczOTQ3ODcsCiAgICAia3N0YXIiOiBbCiAgICAgMiwKICAgICAyLAogICAgIDEKICAgIF0sCiAgICAibl9zYW1wbGVzIjogNjI1CiAgIH0KICB9LAogICIxLjYiOiB7CiAgICI1IjogewogICAgInIiOiA4LAogICAgInJfb3Zlcl90YXUiOiAxLjYsCiAgICAiZ2Fpbl9tZWFuIjogMC4wMjU1ODIxMTEwMjc5NDc3NSwKICAgICJnYWluX3N0ZCI6IDAuMDA5MzQ2NjEwNjY0NzM4ODc5LAogICAgImtzdGFyIjogWwogICAgIDMsCiAgICAgMSwKICAgICAxCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDUwMDAKICAgfSwKICAgIjEwIjogewogICAgInIiOiAxNiwKICAgICJyX292ZXJfdGF1IjogMS42LAogICAgImdhaW5fbWVhbiI6IDAuMDA5MjQxNzM3NjY5OTE5MjgxLAogICAgImdhaW5fc3RkIjogMC4wMDU2NzA4NzA2NDg5NDkzNDUsCiAgICAia3N0YXIiOiBbCiAgICAgMiwKICAgICAyLAogICAgIDMKICAgIF0sCiAgICAibl9zYW1wbGVzIjogMjUwMAogICB9LAogICAiMjAiOiB7CiAgICAiciI6IDMyLAogICAgInJfb3Zlcl90YXUiOiAxLjYsCiAgICAiZ2Fpbl9tZWFuIjogMC4wMDc5MzYwMTQxODA1MDQzMzksCiAgICAiZ2Fpbl9zdGQiOiAwLjAxNzczNzcwNzg3MDQ1NTgxNywKICAgICJrc3RhciI6IFsKICAgICAxLAogICAgIDQsCiAgICAgMQogICAgXSwKICAgICJuX3NhbXBsZXMiOiAxMjUwCiAgIH0sCiAgICI0MCI6IHsKICAgICJyIjogNjQsCiAgICAicl9vdmVyX3RhdSI6IDEuNiwKICAgICJnYWluX21lYW4iOiAwLjAwODI5MTMyNDQxNjg0OTksCiAgICAiZ2Fpbl9zdGQiOiAwLjAwNzQ0NDU0NTM5MDk5OTY3NiwKICAgICJrc3RhciI6IFsKICAgICAxLAogICAgIDIsCiAgICAgMQogICAgXSwKICAgICJuX3NhbXBsZXMiOiA2MjUKICAgfSwKICAgIjgwIjogewogICAgInIiOiAxMjgsCiAgICAicl9vdmVyX3RhdSI6IDEuNiwKICAgICJnYWluX21lYW4iOiAtMC4wMDkyMzI1MTc1OTMwNTc2NCwKICAgICJnYWluX3N0ZCI6IDAuMDIxMDQ1NTcxNzk3NzAyNDczLAogICAgImtzdGFyIjogWwogICAgIDIsCiAgICAgMywKICAgICAxCiAgICBdLAogICAgIm5fc2FtcGxlcyI6IDMxMgogICB9CiAgfQogfSwKICJncm91cF9tZWFuX2J5X3giOiB7CiAgIjAuMDUiOiAwLjI5NTk4MTQ0OTE4MTc1NDMsCiAgIjAuMSI6IDAuMjM3ODYwOTIxNjQ3MzE4OTUsCiAgIjAuMiI6IDAuMTcyNTM1NTg2NDQzMjY4OTQsCiAgIjAuNCI6IDAuMTExMTgyNDAyNzAyOTI4ODEsCiAgIjAuOCI6IDAuMDUxNDc5Njk1NTEzMjM2NjgsCiAgIjEuNiI6IDAuMDA4MzYzNzMzOTQwNDMyNzI2CiB9LAogInNwcmVhZF93aXRoaW5feCI6IHsKICAiMC4wNSI6IDAuMDY1Nzg3NTY2NjA0NzYzNjgsCiAgIjAuMSI6IDAuMDMwNzUzNDE5MzYxODg4NDUsCiAgIjAuMiI6IDAuMDE0MjYwNTg3NTUzNzgyNzY2LAogICIwLjQiOiAwLjAwOTM1OTU2OTkwNDI3ODkyNCwKICAiMC44IjogMC4wMTUyNTQ4ODA2MjE3OTQ3MDgsCiAgIjEuNiI6IDAuMDExMDE4NzA4MjMxMzU2ODQ0CiB9LAogInNwcmVhZF9hY3Jvc3NfeCI6IDAuMTAwNjAzODE2Nzg2MTIxOTMsCiAiY29sbGFwc2VfcmF0aW8iOiAwLjI0MjU5MzA2OTQ1NDQ0MTI2LAogInNlZWRfc3RkX21lYW4iOiAwLjAxMTYzNTgwNDg1NDQxMzc1Ngp9
+{
+ "collapse_grid": {
+  "0.05": {
+   "5": {
+    "r": 1,
+    "r_over_tau": 0.2,
+    "gain_mean": 0.18138291202794818,
+    "gain_std": 0.01101278504111396,
+    "kstar": [
+     1,
+     1,
+     2
+    ],
+    "n_samples": 40000
+   },
+   "10": {
+    "r": 1,
+    "r_over_tau": 0.1,
+    "gain_mean": 0.26282758747647056,
+    "gain_std": 0.0022698874078643564,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 40000
+   },
+   "20": {
+    "r": 1,
+    "r_over_tau": 0.05,
+    "gain_mean": 0.35206903749959073,
+    "gain_std": 0.005380726912567628,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 40000
+   },
+   "40": {
+    "r": 2,
+    "r_over_tau": 0.05,
+    "gain_mean": 0.34733563070747686,
+    "gain_std": 0.0061470184599468295,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 20000
+   },
+   "80": {
+    "r": 4,
+    "r_over_tau": 0.05,
+    "gain_mean": 0.3362920781972851,
+    "gain_std": 0.021308368631104923,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 10000
+   }
+  },
+  "0.1": {
+   "5": {
+    "r": 1,
+    "r_over_tau": 0.2,
+    "gain_mean": 0.18138291202794818,
+    "gain_std": 0.01101278504111396,
+    "kstar": [
+     1,
+     1,
+     2
+    ],
+    "n_samples": 40000
+   },
+   "10": {
+    "r": 1,
+    "r_over_tau": 0.1,
+    "gain_mean": 0.26282758747647056,
+    "gain_std": 0.0022698874078643564,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 40000
+   },
+   "20": {
+    "r": 2,
+    "r_over_tau": 0.1,
+    "gain_mean": 0.2624600146536415,
+    "gain_std": 0.002359457296680789,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 20000
+   },
+   "40": {
+    "r": 4,
+    "r_over_tau": 0.1,
+    "gain_mean": 0.25329116614814473,
+    "gain_std": 0.013532489531958295,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 10000
+   },
+   "80": {
+    "r": 8,
+    "r_over_tau": 0.1,
+    "gain_mean": 0.2293429279303899,
+    "gain_std": 0.02360035839706447,
+    "kstar": [
+     2,
+     1,
+     1
+    ],
+    "n_samples": 5000
+   }
+  },
+  "0.2": {
+   "5": {
+    "r": 1,
+    "r_over_tau": 0.2,
+    "gain_mean": 0.18138291202794818,
+    "gain_std": 0.01101278504111396,
+    "kstar": [
+     1,
+     1,
+     2
+    ],
+    "n_samples": 40000
+   },
+   "10": {
+    "r": 2,
+    "r_over_tau": 0.2,
+    "gain_mean": 0.18856696087799965,
+    "gain_std": 0.005676070190189647,
+    "kstar": [
+     1,
+     1,
+     2
+    ],
+    "n_samples": 20000
+   },
+   "20": {
+    "r": 4,
+    "r_over_tau": 0.2,
+    "gain_mean": 0.18121297595082494,
+    "gain_std": 0.009496661754989023,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 10000
+   },
+   "40": {
+    "r": 8,
+    "r_over_tau": 0.2,
+    "gain_mean": 0.16040721853903872,
+    "gain_std": 0.018178302643734174,
+    "kstar": [
+     1,
+     1,
+     2
+    ],
+    "n_samples": 5000
+   },
+   "80": {
+    "r": 16,
+    "r_over_tau": 0.2,
+    "gain_mean": 0.15110786482053318,
+    "gain_std": 0.03404827798309752,
+    "kstar": [
+     1,
+     1,
+     2
+    ],
+    "n_samples": 2500
+   }
+  },
+  "0.4": {
+   "5": {
+    "r": 2,
+    "r_over_tau": 0.4,
+    "gain_mean": 0.11763191438524673,
+    "gain_std": 0.004691985948087861,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 20000
+   },
+   "10": {
+    "r": 4,
+    "r_over_tau": 0.4,
+    "gain_mean": 0.12530953979719367,
+    "gain_std": 0.0008687487644476908,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 10000
+   },
+   "20": {
+    "r": 8,
+    "r_over_tau": 0.4,
+    "gain_mean": 0.10827056113377694,
+    "gain_std": 0.015429718119419088,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 5000
+   },
+   "40": {
+    "r": 16,
+    "r_over_tau": 0.4,
+    "gain_mean": 0.10637082068088154,
+    "gain_std": 0.005348533649309291,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 2500
+   },
+   "80": {
+    "r": 32,
+    "r_over_tau": 0.4,
+    "gain_mean": 0.09832917751754518,
+    "gain_std": 0.023657502025523018,
+    "kstar": [
+     2,
+     1,
+     1
+    ],
+    "n_samples": 1250
+   }
+  },
+  "0.8": {
+   "5": {
+    "r": 4,
+    "r_over_tau": 0.8,
+    "gain_mean": 0.06365363370938291,
+    "gain_std": 0.006230127460857278,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 10000
+   },
+   "10": {
+    "r": 8,
+    "r_over_tau": 0.8,
+    "gain_mean": 0.06255668021109381,
+    "gain_std": 0.015439742435343748,
+    "kstar": [
+     1,
+     1,
+     1
+    ],
+    "n_samples": 5000
+   },
+   "20": {
+    "r": 16,
+    "r_over_tau": 0.8,
+    "gain_mean": 0.04917769174797288,
+    "gain_std": 0.016207457754878134,
+    "kstar": [
+     2,
+     2,
+     2
+    ],
+    "n_samples": 2500
+   },
+   "40": {
+    "r": 32,
+    "r_over_tau": 0.8,
+    "gain_mean": 0.05927987308697946,
+    "gain_std": 0.012051708903901712,
+    "kstar": [
+     2,
+     2,
+     1
+    ],
+    "n_samples": 1250
+   },
+   "80": {
+    "r": 64,
+    "r_over_tau": 0.8,
+    "gain_mean": 0.022730598810754347,
+    "gain_std": 0.010597452457394787,
+    "kstar": [
+     2,
+     2,
+     1
+    ],
+    "n_samples": 625
+   }
+  },
+  "1.6": {
+   "5": {
+    "r": 8,
+    "r_over_tau": 1.6,
+    "gain_mean": 0.02558211102794775,
+    "gain_std": 0.009346610664738879,
+    "kstar": [
+     3,
+     1,
+     1
+    ],
+    "n_samples": 5000
+   },
+   "10": {
+    "r": 16,
+    "r_over_tau": 1.6,
+    "gain_mean": 0.009241737669919281,
+    "gain_std": 0.005670870648949345,
+    "kstar": [
+     2,
+     2,
+     3
+    ],
+    "n_samples": 2500
+   },
+   "20": {
+    "r": 32,
+    "r_over_tau": 1.6,
+    "gain_mean": 0.007936014180504339,
+    "gain_std": 0.017737707870455817,
+    "kstar": [
+     1,
+     4,
+     1
+    ],
+    "n_samples": 1250
+   },
+   "40": {
+    "r": 64,
+    "r_over_tau": 1.6,
+    "gain_mean": 0.0082913244168499,
+    "gain_std": 0.007444545390999676,
+    "kstar": [
+     1,
+     2,
+     1
+    ],
+    "n_samples": 625
+   },
+   "80": {
+    "r": 128,
+    "r_over_tau": 1.6,
+    "gain_mean": -0.00923251759305764,
+    "gain_std": 0.021045571797702473,
+    "kstar": [
+     2,
+     3,
+     1
+    ],
+    "n_samples": 312
+   }
+  }
+ },
+ "group_mean_by_x": {
+  "0.05": 0.2959814491817543,
+  "0.1": 0.23786092164731895,
+  "0.2": 0.17253558644326894,
+  "0.4": 0.11118240270292881,
+  "0.8": 0.05147969551323668,
+  "1.6": 0.008363733940432726
+ },
+ "spread_within_x": {
+  "0.05": 0.06578756660476368,
+  "0.1": 0.03075341936188845,
+  "0.2": 0.014260587553782766,
+  "0.4": 0.009359569904278924,
+  "0.8": 0.015254880621794708,
+  "1.6": 0.011018708231356844
+ },
+ "spread_across_x": 0.10060381678612193,
+ "collapse_ratio": 0.24259306945444126,
+ "seed_std_mean": 0.011635804854413756
+}

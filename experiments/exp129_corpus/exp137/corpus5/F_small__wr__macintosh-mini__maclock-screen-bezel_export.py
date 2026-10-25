@@ -1,1 +1,24 @@
-IiIiV3JpdGUgdGhlIHByaW50IHBsYXRlIGFzIFNURVAgKHRvIGVkaXQgaW4gYW55IENBRCB0b29sKSBhbmQgU1RMICh0byBzbGljZSkuIiIiCmltcG9ydCBwYXRobGliCmltcG9ydCBzeXMKCmZyb20gYnVpbGQxMjNkIGltcG9ydCBleHBvcnRfc3RlcCwgZXhwb3J0X3N0bAoKaW1wb3J0IGJlemVsCgpIRVJFID0gcGF0aGxpYi5QYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50Ck5BTUUgPSAibWFjbG9jay1zY3JlZW4tYmV6ZWwiCgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICBwbGF0ZSA9IGJlemVsLnBsYXRlKCkKICAgIGV4cG9ydF9zdGVwKHBsYXRlLCBzdHIoSEVSRSAvIGYie05BTUV9LnN0ZXAiKSkKICAgIGV4cG9ydF9zdGwocGxhdGUsIHN0cihIRVJFIC8gZiJ7TkFNRX0uc3RsIiksIHRvbGVyYW5jZT0wLjAwMSwgYW5ndWxhcl90b2xlcmFuY2U9MC4xKQogICAgZm9yIG5hbWUsIHBhcnQgaW4gYmV6ZWwucGFydHMoKS5pdGVtcygpOgogICAgICAgIGJiID0gcGFydC5ib3VuZGluZ19ib3goKQogICAgICAgIHByaW50KGYie25hbWV9OiB7YmIuc2l6ZS5YOi4zZn0geCB7YmIuc2l6ZS5ZOi4zZn0geCB7YmIuc2l6ZS5aOi4zZn0gbW0sIHtwYXJ0LnZvbHVtZTouMWZ9IG1tMyIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+"""Write the print plate as STEP (to edit in any CAD tool) and STL (to slice)."""
+import pathlib
+import sys
+
+from build123d import export_step, export_stl
+
+import bezel
+
+HERE = pathlib.Path(__file__).resolve().parent
+NAME = "maclock-screen-bezel"
+
+
+def main() -> int:
+    plate = bezel.plate()
+    export_step(plate, str(HERE / f"{NAME}.step"))
+    export_stl(plate, str(HERE / f"{NAME}.stl"), tolerance=0.001, angular_tolerance=0.1)
+    for name, part in bezel.parts().items():
+        bb = part.bounding_box()
+        print(f"{name}: {bb.size.X:.3f} x {bb.size.Y:.3f} x {bb.size.Z:.3f} mm, {part.volume:.1f} mm3")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

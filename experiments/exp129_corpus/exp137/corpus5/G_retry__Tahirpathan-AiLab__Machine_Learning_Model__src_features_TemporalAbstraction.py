@@ -1,1 +1,49 @@
-IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMKIyAgICBNYXJrIEhvb2dlbmRvb3JuIGFuZCBCdXJraGFyZHQgRnVuayAoMjAxNykgICAgICAgICAgICAgICMKIyAgICBNYWNoaW5lIExlYXJuaW5nIGZvciB0aGUgUXVhbnRpZmllZCBTZWxmICAgICAgICAgICAgICAgICMKIyAgICBTcHJpbmdlciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMKIyAgICBDaGFwdGVyIDQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCiMgVXBkYXRlZCBieSBEYXZlIEViYmVsYWFyIG9uIDIyLTEyLTIwMjIKCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgc2NpcHkuc3RhdHMgYXMgc3RhdHMKCiMgQ2xhc3MgdG8gYWJzdHJhY3QgYSBoaXN0b3J5IG9mIG51bWVyaWNhbCB2YWx1ZXMgd2UgY2FuIHVzZSBhcyBhbiBhdHRyaWJ1dGUuCmNsYXNzIE51bWVyaWNhbEFic3RyYWN0aW9uOgoKICAgICMgVGhpcyBmdW5jdGlvbiBhZ2dyZWdhdGVzIGEgbGlzdCBvZiB2YWx1ZXMgdXNpbmcgdGhlIHNwZWNpZmllZCBhZ2dyZWdhdGlvbgogICAgIyBmdW5jdGlvbiAod2hpY2ggY2FuIGJlICdtZWFuJywgJ21heCcsICdtaW4nLCAnbWVkaWFuJywgJ3N0ZCcpCiAgICBkZWYgYWdncmVnYXRlX3ZhbHVlKHNlbGYsIGFnZ3JlZ2F0aW9uX2Z1bmN0aW9uKToKICAgICAgICAjIENvbXB1dGUgdGhlIHZhbHVlcyBhbmQgcmV0dXJuIHRoZSByZXN1bHQuCiAgICAgICAgaWYgYWdncmVnYXRpb25fZnVuY3Rpb24gPT0gIm1lYW4iOgogICAgICAgICAgICByZXR1cm4gbnAubWVhbgogICAgICAgIGVsaWYgYWdncmVnYXRpb25fZnVuY3Rpb24gPT0gIm1heCI6CiAgICAgICAgICAgIHJldHVybiBucC5tYXgKICAgICAgICBlbGlmIGFnZ3JlZ2F0aW9uX2Z1bmN0aW9uID09ICJtaW4iOgogICAgICAgICAgICByZXR1cm4gbnAubWluCiAgICAgICAgZWxpZiBhZ2dyZWdhdGlvbl9mdW5jdGlvbiA9PSAibWVkaWFuIjoKICAgICAgICAgICAgcmV0dXJuIG5wLm1lZGlhbgogICAgICAgIGVsaWYgYWdncmVnYXRpb25fZnVuY3Rpb24gPT0gInN0ZCI6CiAgICAgICAgICAgIHJldHVybiBucC5zdGQKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gbnAubmFuCgogICAgIyBBYnN0cmFjdCBudW1lcmljYWwgY29sdW1ucyBzcGVjaWZpZWQgZ2l2ZW4gYSB3aW5kb3cgc2l6ZSAoaS5lLiB0aGUgbnVtYmVyIG9mIHRpbWUgcG9pbnRzIGZyb20KICAgICMgdGhlIHBhc3QgY29uc2lkZXJlZCkgYW5kIGFuIGFnZ3JlZ2F0aW9uIGZ1bmN0aW9uLgogICAgZGVmIGFic3RyYWN0X251bWVyaWNhbChzZWxmLCBkYXRhX3RhYmxlLCBjb2xzLCB3aW5kb3dfc2l6ZSwgYWdncmVnYXRpb25fZnVuY3Rpb24pOgoKICAgICAgICAjIENyZWF0ZSBuZXcgY29sdW1ucyBmb3IgdGhlIHRlbXBvcmFsIGRhdGEsIHBhc3Mgb3ZlciB0aGUgZGF0YXNldCBhbmQgY29tcHV0ZSB2YWx1ZXMKICAgICAgICBmb3IgY29sIGluIGNvbHM6CiAgICAgICAgICAgIGRhdGFfdGFibGVbCiAgICAgICAgICAgICAgICBjb2wgKyAiX3RlbXBfIiArIGFnZ3JlZ2F0aW9uX2Z1bmN0aW9uICsgIl93c18iICsgc3RyKHdpbmRvd19zaXplKQogICAgICAgICAgICBdID0gKAogICAgICAgICAgICAgICAgZGF0YV90YWJsZVtjb2xdCiAgICAgICAgICAgICAgICAucm9sbGluZyh3aW5kb3dfc2l6ZSkKICAgICAgICAgICAgICAgIC5hcHBseShzZWxmLmFnZ3JlZ2F0ZV92YWx1ZShhZ2dyZWdhdGlvbl9mdW5jdGlvbikpCiAgICAgICAgICAgICkKCiAgICAgICAgcmV0dXJuIGRhdGFfdGFibGUK
+##############################################################
+#                                                            #
+#    Mark Hoogendoorn and Burkhardt Funk (2017)              #
+#    Machine Learning for the Quantified Self                #
+#    Springer                                                #
+#    Chapter 4                                               #
+#                                                            #
+##############################################################
+
+# Updated by Dave Ebbelaar on 22-12-2022
+
+import numpy as np
+import scipy.stats as stats
+
+# Class to abstract a history of numerical values we can use as an attribute.
+class NumericalAbstraction:
+
+    # This function aggregates a list of values using the specified aggregation
+    # function (which can be 'mean', 'max', 'min', 'median', 'std')
+    def aggregate_value(self, aggregation_function):
+        # Compute the values and return the result.
+        if aggregation_function == "mean":
+            return np.mean
+        elif aggregation_function == "max":
+            return np.max
+        elif aggregation_function == "min":
+            return np.min
+        elif aggregation_function == "median":
+            return np.median
+        elif aggregation_function == "std":
+            return np.std
+        else:
+            return np.nan
+
+    # Abstract numerical columns specified given a window size (i.e. the number of time points from
+    # the past considered) and an aggregation function.
+    def abstract_numerical(self, data_table, cols, window_size, aggregation_function):
+
+        # Create new columns for the temporal data, pass over the dataset and compute values
+        for col in cols:
+            data_table[
+                col + "_temp_" + aggregation_function + "_ws_" + str(window_size)
+            ] = (
+                data_table[col]
+                .rolling(window_size)
+                .apply(self.aggregate_value(aggregation_function))
+            )
+
+        return data_table

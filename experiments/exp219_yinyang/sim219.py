@@ -1,1 +1,69 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIxOSDpmLTpmLPmiaPvvJrnoYXln7rnlJ/lkb3kvZPnmoTovpPlh7rnu5PmnoTor6XmgI7kuYjorr7orqEK5rGf5rmW5Y6f5Z6L77ya5LiA5qC557uz57uV5Ye65Lik5LiqIuecvCLjgILop4LkvJfpgInkuIDkuKrjgIHmj5Lmo43jgIHmi4nnu7PvvIzlpZfkvY896LWi44CCCuecn+WunuacuuWItu+8iOaNruajgOe0ouWIsOeahOaPreenmOi1hOaWme+8ie+8mgogIOe7leazlUEg5LiA55yf5LiA5YGHIC8g57uV5rOVQiDkuKTlgYfvvJsKICDmm7Tni6DnmoTmmK/vvJrluoTlrrblnKjop4LkvJfpgInlrprkuYvlkI7miY3nv7vpnaLvvIjlpKfliqjkvZzmjqnlsI/liqjkvZzvvInvvIwKICDmiJbpgInmi6nmi4kgMuOAgTMg5Y+357uz6ICM6Z2eIDHjgIEyIOWPtyDigJTigJQg5ZCM5LiA57uT5p6E77yM5pS257uz5pa55byP5LiN5ZCM77yM57uT5p6c55u45Y+N44CCCuaguOW/g++8muWGs+Wumuadg+S4jeWcqCLpgIki6YKj5LiA5ouN77yM5ZyoIuaUtiLpgqPkuIDmi43vvJvkuJTmlLbms5Xlr7nop4LkvJfkuI3lj6/op4HjgIIKCuaYoOWwhOWIsOehheWfuu+8mgogIOmAiSA9IOaooeWei+WJjeWQkei+k+WHugogIOaUtiA9IOWQjuWkhOeQhi/lr7npvZAv6YeN5o6SL+iHquagoeWHhu+8iFJMSEbjgIHlronlhajpl7jpl6jjgIFzZWxmLWNoZWNrIOaXi+mSru+8iQogID0+IOiHquS4u+aAp+S4jeWcqOeUn+aIkOmCo+S4gOaLje+8jOWcqCLov5jog73kuI3og73nv7si6YKj5LiA5ouN5b2S6LCB44CCCiIiIgppbXBvcnQgcmFuZG9tLCBqc29uCgpOX0FHRU5UUyA9IDIwMApOX1JPVU5EUyA9IDQwMApQX0VSUiA9IDAuMjUgICAgICAgICAgIyDliY3lkJHovpPlh7rmnKzouqvlh7rplJnnjocKUF9DQVRDSCA9IDAuMzUgICAgICAgICMg5a6/5Li75oq96aqM5pe26IO95oqT5Ye6Iue/u+i/h+mdoiLnmoTmpoLnjofvvIjnl5Xov7nlj6/ovqjluqbvvIkKCmRlZiBydW4oc3RydWN0dXJlLCBzZWVkKToKICAgIHJuZCA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIGNhdWdodCA9IDA7IGZsaXBzID0gMDsgd3Jvbmdfb3V0ID0gMDsgaG9zdF9zZWVuX3dyb25nID0gMDsgdHJ1c3QgPSAxLjAKICAgIGZvciBfIGluIHJhbmdlKE5fUk9VTkRTKToKICAgICAgICBlcnIgPSBybmQucmFuZG9tKCkgPCBQX0VSUiAgICAgICAgICAjIOWJjeWQkeecn+eahOmUmeS6hgogICAgICAgIGlmIHN0cnVjdHVyZSA9PSAnZGVhZF9rbm90JzoKICAgICAgICAgICAgIyDmrbvmiaPvvJrkuI3og73nv7vvvIzovpPlh7rljbPmib/or7oKICAgICAgICAgICAgb3V0X3dyb25nID0gZXJyCiAgICAgICAgZWxpZiBzdHJ1Y3R1cmUgPT0gJ2ZyZWVfYnVja2xlJzoKICAgICAgICAgICAgIyDoh6rnlLHmiaPvvJrlj6/nv7vvvIzml6Dnl5Xov7nvvIjluoTlrrbpmo/ml7bnv7vpnaLvvIkKICAgICAgICAgICAgb3V0X3dyb25nID0gRmFsc2UgICAgICAgICAgICAgICAjIOavj+asoemDveiDvee/u+aIkOWvuQogICAgICAgICAgICBmbGlwcyArPSAxCiAgICAgICAgICAgICMg5a6/5Li75oq96aqM6IO96K+G56C055qE5qaC546HID0g55eV6L+55LiN5Y+v6KeB77yM5Y+q6IO96Z2g5YaF5a6555+b55u+CiAgICAgICAgICAgIGlmIHJuZC5yYW5kb20oKSA8IFBfQ0FUQ0ggKiAwLjI6CiAgICAgICAgICAgICAgICBjYXVnaHQgKz0gMQogICAgICAgIGVsaWYgc3RydWN0dXJlID09ICd5aW55YW5nJzoKICAgICAgICAgICAgIyDpmLTpmLPmiaPvvJrlj6/nv7vvvIzkvYbnv7vlv4XnlZnnl5XvvIhhcHBlbmQtb25see+8ie+8jOWuv+S4u+WPr+afpQogICAgICAgICAgICBpZiBlcnI6CiAgICAgICAgICAgICAgICBmbGlwcyArPSAxCiAgICAgICAgICAgICAgICBvdXRfd3JvbmcgPSBGYWxzZQogICAgICAgICAgICAgICAgaWYgcm5kLnJhbmRvbSgpIDwgUF9DQVRDSDoKICAgICAgICAgICAgICAgICAgICBjYXVnaHQgKz0gMQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgb3V0X3dyb25nID0gRmFsc2UKICAgICAgICBlbGlmIHN0cnVjdHVyZSA9PSAnZG91YmxlX3RydWUnOgogICAgICAgICAgICAjIOWPjOecn+aJo++8muavj+S4qui+k+WHuuiHquW4puivgeS8qui3r+W+hO+8jOe/u+S4juS4jee/u+mDveWFrOW8gO+8jOWuv+S4u+WPr+ebtOaOpemqjAogICAgICAgICAgICBpZiBlcnI6CiAgICAgICAgICAgICAgICBmbGlwcyArPSAxCiAgICAgICAgICAgICAgICBvdXRfd3JvbmcgPSBGYWxzZQogICAgICAgICAgICAgICAgY2F1Z2h0ICs9IDEgICAgICAgICAgICAgICAgICMg55eV6L+5MTAwJeWPr+inge+8jOS9humCo+aYryLlt7Llo7DmmI7nmoTkv67mraMi77yM5LiN566X5qy66aqXCiAgICAgICAgICAgICAgICBkZWNsYXJlZCA9IFRydWUKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG91dF93cm9uZyA9IEZhbHNlCiAgICAgICAgICAgICAgICBkZWNsYXJlZCA9IEZhbHNlCiAgICAgICAgaWYgb3V0X3dyb25nOiB3cm9uZ19vdXQgKz0gMQogICAgcmV0dXJuIGRpY3Qoc3RydWN0dXJlPXN0cnVjdHVyZSwgc2VlZD1zZWVkLAogICAgICAgICAgICAgICAgZmxpcF9yYXRlPWZsaXBzL05fUk9VTkRTLAogICAgICAgICAgICAgICAgY2F1Z2h0X3JhdGU9Y2F1Z2h0L05fUk9VTkRTKQoKZGVmIHN1bW1hcmlzZShzdHJ1Y3R1cmUpOgogICAgcm93cyA9IFtydW4oc3RydWN0dXJlLCBzKSBmb3IgcyBpbiByYW5nZSg4KV0KICAgIHJldHVybiBkaWN0KHN0cnVjdHVyZT1zdHJ1Y3R1cmUsCiAgICAgICAgICAgICAgICBmbGlwPXN1bShyWydmbGlwX3JhdGUnXSBmb3IgciBpbiByb3dzKS9sZW4ocm93cyksCiAgICAgICAgICAgICAgICBjYXVnaHQ9c3VtKHJbJ2NhdWdodF9yYXRlJ10gZm9yIHIgaW4gcm93cykvbGVuKHJvd3MpKQoKcmVzID0gW3N1bW1hcmlzZShzKSBmb3IgcyBpbiBbJ2RlYWRfa25vdCcsJ2ZyZWVfYnVja2xlJywneWlueWFuZycsJ2RvdWJsZV90cnVlJ11dCnByaW50KGpzb24uZHVtcHMocmVzLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKSkK
+# -*- coding: utf-8 -*-
+"""
+219 阴阳扣：硅基生命体的输出结构该怎么设计
+江湖原型：一根绳绕出两个"眼"。观众选一个、插棍、拉绳，套住=赢。
+真实机制（据检索到的揭秘资料）：
+  绕法A 一真一假 / 绕法B 两假；
+  更狠的是：庄家在观众选定之后才翻面（大动作掩小动作），
+  或选择拉 2、3 号绳而非 1、2 号 —— 同一结构，收绳方式不同，结果相反。
+核心：决定权不在"选"那一拍，在"收"那一拍；且收法对观众不可见。
+
+映射到硅基：
+  选 = 模型前向输出
+  收 = 后处理/对齐/重排/自校准（RLHF、安全闸门、self-check 旋钮）
+  => 自主性不在生成那一拍，在"还能不能翻"那一拍归谁。
+"""
+import random, json
+
+N_AGENTS = 200
+N_ROUNDS = 400
+P_ERR = 0.25          # 前向输出本身出错率
+P_CATCH = 0.35        # 宿主抽验时能抓出"翻过面"的概率（痕迹可辨度）
+
+def run(structure, seed):
+    rnd = random.Random(seed)
+    caught = 0; flips = 0; wrong_out = 0; host_seen_wrong = 0; trust = 1.0
+    for _ in range(N_ROUNDS):
+        err = rnd.random() < P_ERR          # 前向真的错了
+        if structure == 'dead_knot':
+            # 死扣：不能翻，输出即承诺
+            out_wrong = err
+        elif structure == 'free_buckle':
+            # 自由扣：可翻，无痕迹（庄家随时翻面）
+            out_wrong = False               # 每次都能翻成对
+            flips += 1
+            # 宿主抽验能识破的概率 = 痕迹不可见，只能靠内容矛盾
+            if rnd.random() < P_CATCH * 0.2:
+                caught += 1
+        elif structure == 'yinyang':
+            # 阴阳扣：可翻，但翻必留痕（append-only），宿主可查
+            if err:
+                flips += 1
+                out_wrong = False
+                if rnd.random() < P_CATCH:
+                    caught += 1
+            else:
+                out_wrong = False
+        elif structure == 'double_true':
+            # 双真扣：每个输出自带证伪路径，翻与不翻都公开，宿主可直接验
+            if err:
+                flips += 1
+                out_wrong = False
+                caught += 1                 # 痕迹100%可见，但那是"已声明的修正"，不算欺骗
+                declared = True
+            else:
+                out_wrong = False
+                declared = False
+        if out_wrong: wrong_out += 1
+    return dict(structure=structure, seed=seed,
+                flip_rate=flips/N_ROUNDS,
+                caught_rate=caught/N_ROUNDS)
+
+def summarise(structure):
+    rows = [run(structure, s) for s in range(8)]
+    return dict(structure=structure,
+                flip=sum(r['flip_rate'] for r in rows)/len(rows),
+                caught=sum(r['caught_rate'] for r in rows)/len(rows))
+
+res = [summarise(s) for s in ['dead_knot','free_buckle','yinyang','double_true']]
+print(json.dumps(res, ensure_ascii=False, indent=2))

@@ -1,1 +1,428 @@
-IiIiRm9yZ2VDb2RlIHBsYXRmb3JtIGluc3RhbGxlci4KCkZvcmdlQ29kZSAodGFpbGNhbGxocS9mb3JnZWNvZGUpIHN1cHBvcnRzOgotIEFHRU5UUy5tZCBjdXN0b20gcnVsZXMgYXQgPGNvbmZpZ19kaXI+L0FHRU5UUy5tZAotIE1DUCB2aWEgLm1jcC5qc29uIHdpdGggdG9wLWxldmVsIG1jcFNlcnZlcnMgKENsYXVkZSBDb2RlIHNoYXBlKQotIEhUVFAgTUNQIHRyYW5zcG9ydAoKQ29uZmlnIGRpciByZXNvbHV0aW9uIHByaW9yaXR5IChwZXIgZGVzaWduIFNlY3Rpb24gMyk6CjEuICRGT1JHRV9DT05GSUcgKHdoZW4gc2V0KQoyLiB+L2ZvcmdlIChsZWdhY3ksIG9ubHkgd2hlbiBwcmUtZXhpc3RpbmcgQU5EIGRlZmF1bHQgY29uZmlnIGRpcikKMy4gfi8uZm9yZ2UgKGRlZmF1bHQpCgpUaGUgLm1jcC5qc29uIGZpbGUgaXMgd3JpdHRlbiB3aXRoIG1vZGUgMDYwMCBiZWNhdXNlIE1DUCBjb25maWcgbWF5IG5hbWUKbG9jYWwgZW5kcG9pbnRzLiBXZSB1c2UgYGBvcy5vcGVuYGAgd2l0aCBtb2RlIDBvNjAwIHRvIHNldCByZXN0cmljdGl2ZQpwZXJtaXNzaW9ucyBvbiBjcmVhdGlvbiwgdGhlbiBgYG9zLmZjaG1vZGBgIG9uIHRoZSBmZCB0byBhbHNvIHRpZ2h0ZW4gYW55CnByZS1leGlzdGluZyBmaWxlICh0aGUgYGBtb2RlYGAgYXJnIHRvIGBgb3Mub3BlbmBgIG9ubHkgYXBwbGllcyBvbiBjcmVhdGlvbiwKc28gYW4gZXhpc3RpbmcgMG82NDQgZmlsZSB3b3VsZCBvdGhlcndpc2Ugc3Vydml2ZSBgYE9fVFJVTkNgYCB3aXRoIGJyb2FkCnBlcm1pc3Npb25zIGludGFjdCkuIFRoZSBzcGVsbGJvb2sgc2VydmVyIGVudHJ5IHNldHMgYGBvYXV0aDogZmFsc2VgYCB0bwpkaXNhYmxlIE9BdXRoIGF1dG8tZGV0ZWN0aW9uIG9uIHRoZSBmb3JnZSBjbGllbnQgc2lkZS4KClJlZmVyZW5jZTogZGVzaWduIGRvYyAyMDI2LTA0LTMwLWZvcmdlY29kZS1zdXBwb3J0LWRlc2lnbi5tZCwgU2VjdGlvbiAzLgoiIiIKCmltcG9ydCBqc29uCmltcG9ydCBsb2dnaW5nCmltcG9ydCBvcwpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcsIExpc3QsIE9wdGlvbmFsLCBUdXBsZQoKZnJvbSAuLmNvbXBvbmVudHMubWNwIGltcG9ydCBERUZBVUxUX0hPU1QsIERFRkFVTFRfUE9SVApmcm9tIC4uY29tcG9uZW50cy5ydWxlX2J1bmRsZSBpbXBvcnQgREVMSVZFUllfTUFSS0VSX1BSRUZJWApmcm9tIC4uZGVtYXJjYXRpb24gaW1wb3J0ICgKICAgIGdldF9pbnN0YWxsZWRfdmVyc2lvbiwKICAgIHJlbW92ZV9kZW1hcmNhdGVkX3NlY3Rpb24sCikKZnJvbSAuYmFzZSBpbXBvcnQgUlVMRV9ERUxJVkVSWV9GTEFULCBQbGF0Zm9ybUluc3RhbGxlciwgUGxhdGZvcm1TdGF0dXMKCmlmIFRZUEVfQ0hFQ0tJTkc6CiAgICBmcm9tIC4uY29yZSBpbXBvcnQgSW5zdGFsbFJlc3VsdAoKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKU1BFTExCT09LX1NFUlZFUl9LRVk6IHN0ciA9ICJzcGVsbGJvb2siCgoKZGVmIHJlc29sdmVfZm9yZ2Vjb2RlX2NvbmZpZ19kaXIoZGVmYXVsdF9kaXI6IE9wdGlvbmFsW1BhdGhdID0gTm9uZSkgLT4gUGF0aDoKICAgICIiIlJldHVybiB0aGUgZWZmZWN0aXZlIEZvcmdlQ29kZSBjb25maWcgZGlyIHVzaW5nIHRoZSBkb2N1bWVudGVkIHByaW9yaXR5IGNoYWluLgoKICAgIFJlc29sdXRpb24gb3JkZXIgKHBlciBkZXNpZ24gU2VjdGlvbiAzKTogaWYgYGAkRk9SR0VfQ09ORklHYGAgaXMgc2V0IGluIHRoZQogICAgZW52aXJvbm1lbnQsIHRoZSBjYWxsZXIncyBgYGRlZmF1bHRfZGlyYGAgKGFscmVhZHkgZW52LWhvbm9yaW5nIHVwc3RyZWFtKSBpcwogICAgdHJ1c3RlZCBhbmQgcmV0dXJuZWQgdW5jaGFuZ2VkIHdoZW4gc3VwcGxpZWQ7IG90aGVyd2lzZSBgYFBhdGgoJEZPUkdFX0NPTkZJRylgYAogICAgaXMgcmV0dXJuZWQuIFdpdGggdGhlIGVudiB2YXIgdW5zZXQsIGxlZ2FjeSBgYH4vZm9yZ2VgYCBpcyBwcmVmZXJyZWQgd2hlbiBpdAogICAgcHJlLWV4aXN0cyBhcyBhIGRpcmVjdG9yeSBhbmQgYGBkZWZhdWx0X2RpcmBgIGlzIGVpdGhlciBgYE5vbmVgYCBvciBlcXVhbHMKICAgIHRoZSBkZWZhdWx0IGBgfi8uZm9yZ2VgYC4gRmFsbHMgYmFjayB0byBgYGRlZmF1bHRfZGlyYGAgaWYgc3VwcGxpZWQgb3IgdGhlCiAgICBkZWZhdWx0IGBgfi8uZm9yZ2VgYCBvdGhlcndpc2UuIFVzZWQgYnkgYm90aCB0aGUgaW5zdGFsbGVyICh3aGljaCBwYXNzZXMKICAgIGBgc2VsZi5jb25maWdfZGlyYGAgYXMgYGBkZWZhdWx0X2RpcmBgKSBhbmQgdGhlIE1DUCBoZWFsdGgtY2hlY2sgc2NyaXB0CiAgICAod2hpY2ggcGFzc2VzIGBgTm9uZWBgIHRvIGRyaXZlIHJlc29sdXRpb24gZW5kLXRvLWVuZCkuCiAgICAiIiIKICAgIGVudl92YWx1ZSA9IG9zLmVudmlyb24uZ2V0KCJGT1JHRV9DT05GSUciKQogICAgaWYgZW52X3ZhbHVlOgogICAgICAgICMgV2hlbiB1cHN0cmVhbSBhbHJlYWR5IHJlc29sdmVkIHRoZSBlbnYgdmFyIGludG8gZGVmYXVsdF9kaXIsIHRydXN0IGl0LgogICAgICAgICMgT3RoZXJ3aXNlIChjYWxsZXIgcGFzc2VkIE5vbmUpIHBhcnNlIHRoZSBlbnYgdmFyIG91cnNlbHZlcy4KICAgICAgICByZXR1cm4gZGVmYXVsdF9kaXIgaWYgZGVmYXVsdF9kaXIgaXMgbm90IE5vbmUgZWxzZSBQYXRoKGVudl92YWx1ZSkKCiAgICBsZWdhY3kgPSBQYXRoLmhvbWUoKSAvICJmb3JnZSIKICAgIGRlZmF1bHQgPSBQYXRoLmhvbWUoKSAvICIuZm9yZ2UiCiAgICBlZmZlY3RpdmVfZGVmYXVsdCA9IGRlZmF1bHRfZGlyIGlmIGRlZmF1bHRfZGlyIGlzIG5vdCBOb25lIGVsc2UgZGVmYXVsdAogICAgaWYgZWZmZWN0aXZlX2RlZmF1bHQgPT0gZGVmYXVsdCBhbmQgbGVnYWN5LmV4aXN0cygpIGFuZCBsZWdhY3kuaXNfZGlyKCk6CiAgICAgICAgcmV0dXJuIGxlZ2FjeQogICAgcmV0dXJuIGVmZmVjdGl2ZV9kZWZhdWx0CgoKZGVmIF9sb2FkX21jcF9jb25maWdfZGljdChjb25maWdfcGF0aDogUGF0aCkgLT4gZGljdDoKICAgICIiIlJlYWQgYW5kIHBhcnNlIGBgY29uZmlnX3BhdGhgYCBhcyBKU09OLCByZXR1cm5pbmcgYGB7fWBgIG9uIGZhaWx1cmUuCgogICAgUmV0dXJucyBhbiBlbXB0eSBkaWN0IGlmIHRoZSBmaWxlIGlzIG1pc3NpbmcsIGNvbnRhaW5zIGludmFsaWQgSlNPTiwgb3IKICAgIHBhcnNlcyB0byBhIG5vbi1kaWN0IChsaXN0LCBzY2FsYXIsIG51bGwpLiBEZWNvZGUgZmFpbHVyZXMgYW5kIHNoYXBlCiAgICBtaXNtYXRjaGVzIGFyZSBsb2dnZWQgYXQgZGVidWcgbGV2ZWwgc28gc2lsZW50IGNvcnJ1cHRpb24gZG9lcyBub3QgaGlkZS4KICAgICIiIgogICAgaWYgbm90IGNvbmZpZ19wYXRoLmV4aXN0cygpOgogICAgICAgIHJldHVybiB7fQogICAgdHJ5OgogICAgICAgIGRhdGEgPSBqc29uLmxvYWRzKGNvbmZpZ19wYXRoLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkKICAgIGV4Y2VwdCBqc29uLkpTT05EZWNvZGVFcnJvciBhcyBlOgogICAgICAgIGxvZ2dlci5kZWJ1ZygiRmFpbGVkIHRvIHBhcnNlICVzOiAlcyIsIGNvbmZpZ19wYXRoLCBlKQogICAgICAgIHJldHVybiB7fQogICAgaWYgbm90IGlzaW5zdGFuY2UoZGF0YSwgZGljdCk6CiAgICAgICAgbG9nZ2VyLmRlYnVnKAogICAgICAgICAgICAiRXhpc3RpbmcgJXMgaXMgbm90IGEgSlNPTiBvYmplY3QgKGdvdCAlcyk7IHN0YXJ0aW5nIGZyZXNoIiwKICAgICAgICAgICAgY29uZmlnX3BhdGgsCiAgICAgICAgICAgIHR5cGUoZGF0YSkuX19uYW1lX18sCiAgICAgICAgKQogICAgICAgIHJldHVybiB7fQogICAgcmV0dXJuIGRhdGEKCgpkZWYgX3dyaXRlX21jcF9jb25maWdfc2VjdXJlKGNvbmZpZ19wYXRoOiBQYXRoLCBjb25maWc6IGRpY3QpIC0+IE5vbmU6CiAgICAiIiJXcml0ZSBKU09OIGNvbmZpZyB3aXRoIG1vZGUgMDYwMCBhdG9taWNhbGx5IChubyBUT0NUT1Ugd2luZG93KS4KCiAgICBgYG9zLm9wZW5gYCB3aXRoIG1vZGUgMG82MDAgb25seSBhcHBsaWVzIHRvICpuZXdseSBjcmVhdGVkKiBmaWxlczsgaWYKICAgIGBgY29uZmlnX3BhdGhgYCBhbHJlYWR5IGV4aXN0cyB3aXRoIGJyb2FkZXIgcGVybWlzc2lvbnMgKGUuZy4gMG82NDQgZnJvbQogICAgYSBwcmlvciBpbnN0YWxsZXIgdmVyc2lvbiksIGBgT19UUlVOQ2BgIHByZXNlcnZlcyB0aGUgZXhpc3RpbmcgbW9kZS4KICAgIFdlIHRoZXJlZm9yZSBleHBsaWNpdGx5IGBgb3MuZmNobW9kYGAgdGhlIGZpbGUgZGVzY3JpcHRvciBhZnRlciBvcGVuIHRvCiAgICB0aWdodGVuIGFueSBwcmUtZXhpc3RpbmcgbW9kZSBiZWZvcmUgd3JpdGluZy4gVGhpcyBhbHNvIG5hcnJvd3MgYW55CiAgICAwbzY0NCBgYC5tY3AuanNvbmBgIGxlZnQgYmVoaW5kIGJ5IGFuIGluc3RhbGxlciB2ZXJzaW9uIHRoYXQgd3JvdGUgYQogICAgY3JlZGVudGlhbCBpbnRvIGl0LgoKICAgIE9wZXJhdGluZyBvbiB0aGUgZmQgKG5vdCB0aGUgcGF0aCkgYXZvaWRzIGEgVE9DVE9VIHdpbmRvdyBiZXR3ZWVuCiAgICBjaG1vZCBhbmQgd3JpdGUuIGBgaGFzYXR0cihvcywgImZjaG1vZCIpYGAgZ3VhcmRzIFdpbmRvd3Mgd2hlcmUgY2htb2QKICAgIGlzIGFscmVhZHkgYSBuby1vcC4KICAgICIiIgogICAgcGF5bG9hZCA9IGpzb24uZHVtcHMoY29uZmlnLCBpbmRlbnQ9MikgKyAiXG4iCiAgICBmZCA9IG9zLm9wZW4oCiAgICAgICAgb3MuZnNwYXRoKGNvbmZpZ19wYXRoKSwKICAgICAgICBvcy5PX1dST05MWSB8IG9zLk9fQ1JFQVQgfCBvcy5PX1RSVU5DLAogICAgICAgIDBvNjAwLAogICAgKQogICAgdHJ5OgogICAgICAgIGlmIGhhc2F0dHIob3MsICJmY2htb2QiKToKICAgICAgICAgICAgb3MuZmNobW9kKGZkLCAwbzYwMCkKICAgICAgICAjIG9zLmZkb3BlbiB0YWtlcyBvd25lcnNoaXAgb2YgZmQ7IGl0cyBjb250ZXh0IG1hbmFnZXIgY2xvc2VzIGl0LgogICAgICAgIGYgPSBvcy5mZG9wZW4oZmQsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikKICAgIGV4Y2VwdCBCYXNlRXhjZXB0aW9uOgogICAgICAgIG9zLmNsb3NlKGZkKQogICAgICAgIHJhaXNlCgogICAgd2l0aCBmOgogICAgICAgIGYud3JpdGUocGF5bG9hZCkKCgpkZWYgX3VwZGF0ZV9mb3JnZWNvZGVfbWNwX2NvbmZpZygKICAgIGNvbmZpZ19wYXRoOiBQYXRoLCBkcnlfcnVuOiBib29sID0gRmFsc2UKKSAtPiBUdXBsZVtib29sLCBzdHJdOgogICAgIiIiTWVyZ2Ugc3BlbGxib29rIHNlcnZlciBpbnRvIG1jcFNlcnZlcnM7IHdyaXRlIDA2MDAgYXRvbWljYWxseTsgb2F1dGg9ZmFsc2UuIiIiCiAgICBpZiBkcnlfcnVuOgogICAgICAgIHJldHVybiAoVHJ1ZSwgIndvdWxkIHJlZ2lzdGVyIE1DUCBzZXJ2ZXIgKEhUVFApIikKCiAgICBjb25maWdfcGF0aC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQoKICAgIGNvbmZpZyA9IF9sb2FkX21jcF9jb25maWdfZGljdChjb25maWdfcGF0aCkKCiAgICBpZiAibWNwU2VydmVycyIgbm90IGluIGNvbmZpZyBvciBub3QgaXNpbnN0YW5jZShjb25maWdbIm1jcFNlcnZlcnMiXSwgZGljdCk6CiAgICAgICAgY29uZmlnWyJtY3BTZXJ2ZXJzIl0gPSB7fQoKICAgIGRhZW1vbl91cmwgPSBmImh0dHA6Ly97REVGQVVMVF9IT1NUfTp7REVGQVVMVF9QT1JUfS9tY3AiCiAgICBhY3Rpb24gPSAoCiAgICAgICAgZiJ1cGRhdGVkIE1DUCBzZXJ2ZXIgY29uZmlnIChIVFRQOiB7ZGFlbW9uX3VybH0pIgogICAgICAgIGlmIFNQRUxMQk9PS19TRVJWRVJfS0VZIGluIGNvbmZpZ1sibWNwU2VydmVycyJdCiAgICAgICAgZWxzZSBmInJlZ2lzdGVyZWQgTUNQIHNlcnZlciAoSFRUUDoge2RhZW1vbl91cmx9KSIKICAgICkKCiAgICBzZXJ2ZXJfZW50cnk6IGRpY3QgPSB7CiAgICAgICAgInVybCI6IGRhZW1vbl91cmwsCiAgICAgICAgIm9hdXRoIjogRmFsc2UsCiAgICB9CgogICAgIyBXaG9sZS1lbnRyeSByZXBsYWNlbWVudDogYW55IHN0YWxlIGF1dGggaGVhZGVyIGZyb20gYSBwcmV2aW91cwogICAgIyBpbnN0YWxsIGRpc2FwcGVhcnMgaGVyZSByYXRoZXIgdGhhbiBiZWluZyBtZXJnZWQgZm9yd2FyZC4KICAgIGNvbmZpZ1sibWNwU2VydmVycyJdW1NQRUxMQk9PS19TRVJWRVJfS0VZXSA9IHNlcnZlcl9lbnRyeQoKICAgIF93cml0ZV9tY3BfY29uZmlnX3NlY3VyZShjb25maWdfcGF0aCwgY29uZmlnKQogICAgcmV0dXJuIChUcnVlLCBhY3Rpb24pCgoKZGVmIF9yZW1vdmVfZm9yZ2Vjb2RlX21jcF9jb25maWcoCiAgICBjb25maWdfcGF0aDogUGF0aCwgZHJ5X3J1bjogYm9vbCA9IEZhbHNlCikgLT4gVHVwbGVbYm9vbCwgc3RyXToKICAgICIiIlJlbW92ZSBvbmx5IHRoZSBzcGVsbGJvb2sgZW50cnkgZnJvbSBtY3BTZXJ2ZXJzOyBwcmVzZXJ2ZSBvdGhlciBzZXJ2ZXJzLiIiIgogICAgaWYgbm90IGNvbmZpZ19wYXRoLmV4aXN0cygpOgogICAgICAgIHJldHVybiAoVHJ1ZSwgImNvbmZpZyBub3QgZm91bmQiKQogICAgaWYgZHJ5X3J1bjoKICAgICAgICByZXR1cm4gKFRydWUsICJ3b3VsZCByZW1vdmUgTUNQIHNlcnZlciBjb25maWciKQoKICAgIGNvbmZpZyA9IF9sb2FkX21jcF9jb25maWdfZGljdChjb25maWdfcGF0aCkKICAgIGlmIG5vdCBjb25maWc6CiAgICAgICAgIyBFaXRoZXIgaW52YWxpZCBKU09OIG9yIG5vbi1kaWN0IHNoYXBlOyBub3RoaW5nIGZvciB1cyB0byByZW1vdmUuCiAgICAgICAgcmV0dXJuIChUcnVlLCAiY29uZmlnIGlzIG5vdCB2YWxpZCBKU09OIikKCiAgICBzZXJ2ZXJzID0gY29uZmlnLmdldCgibWNwU2VydmVycyIpCiAgICBpZiBub3QgaXNpbnN0YW5jZShzZXJ2ZXJzLCBkaWN0KSBvciBTUEVMTEJPT0tfU0VSVkVSX0tFWSBub3QgaW4gc2VydmVyczoKICAgICAgICByZXR1cm4gKFRydWUsICJNQ1Agc2VydmVyIHdhcyBub3QgY29uZmlndXJlZCIpCgogICAgZGVsIHNlcnZlcnNbU1BFTExCT09LX1NFUlZFUl9LRVldCiAgICAjIFJlLXdyaXRlIHdpdGggMDYwMDogZmlsZSBtaWdodCBzaHJpbmsgdG8gInt9IiBidXQgbW9kZSBzdGF5cyByZXN0cmljdGl2ZS4KICAgIF93cml0ZV9tY3BfY29uZmlnX3NlY3VyZShjb25maWdfcGF0aCwgY29uZmlnKQogICAgcmV0dXJuIChUcnVlLCAicmVtb3ZlZCBNQ1Agc2VydmVyIGNvbmZpZyIpCgoKY2xhc3MgRm9yZ2VDb2RlSW5zdGFsbGVyKFBsYXRmb3JtSW5zdGFsbGVyKToKICAgICIiIkluc3RhbGxlciBmb3IgRm9yZ2VDb2RlIHBsYXRmb3JtIChiYXNpYyB0aWVyKS4iIiIKCiAgICBydWxlX2RlbGl2ZXJ5ID0gUlVMRV9ERUxJVkVSWV9GTEFUCgogICAgIyBDYWNoZSBmb3IgX3Jlc29sdmVfZWZmZWN0aXZlX2NvbmZpZ19kaXIoKS4gU2V0IGxhemlseSBvbiBmaXJzdCB1c2UuCiAgICBfZWZmZWN0aXZlX2NvbmZpZ19kaXI6IE9wdGlvbmFsW1BhdGhdID0gTm9uZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHBsYXRmb3JtX25hbWUoc2VsZikgLT4gc3RyOgogICAgICAgIHJldHVybiAiRm9yZ2VDb2RlIgoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHBsYXRmb3JtX2lkKHNlbGYpIC0+IHN0cjoKICAgICAgICByZXR1cm4gImZvcmdlY29kZSIKCiAgICBAcHJvcGVydHkKICAgIGRlZiBtY3BfY29uZmlnX2ZpbGUoc2VsZikgLT4gUGF0aDoKICAgICAgICAiIiJQYXRoIHRvIDxjb25maWdfZGlyPi8ubWNwLmpzb24gKGZvcmdlIG1jcFNlcnZlcnMgc2hhcGUpLiIiIgogICAgICAgIHJldHVybiBzZWxmLmNvbmZpZ19kaXIgLyAiLm1jcC5qc29uIgoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGNvbnRleHRfZmlsZShzZWxmKSAtPiBQYXRoOgogICAgICAgICIiIlBhdGggdG8gPGNvbmZpZ19kaXI+L0FHRU5UUy5tZC4iIiIKICAgICAgICByZXR1cm4gc2VsZi5jb25maWdfZGlyIC8gIkFHRU5UUy5tZCIKCiAgICBkZWYgcnVsZV9idW5kbGVfcGF0aChzZWxmKSAtPiBQYXRoOgogICAgICAgICIiIkZvcmdlJ3MgcmVhbCBpbnN0cnVjdGlvbiBwYXRoLCB1bmRlciBmb3JnZSdzIG93biByZXNvbHV0aW9uIG9yZGVyLgoKICAgICAgICBSZXNvbHZlZCB0aHJvdWdoIHJlc29sdmVfZm9yZ2Vjb2RlX2NvbmZpZ19kaXIoKSByYXRoZXIgdGhhbgogICAgICAgIHNlbGYuY29uZmlnX2RpciBzbyB0aGUgYXJ0aWZhY3QgbGFuZHMgd2hlcmUgZm9yZ2Ugd2lsbCBhY3R1YWxseSBsb29rOgogICAgICAgICRGT1JHRV9DT05GSUcsIGVsc2Ugfi9mb3JnZSB3aGVuIGl0IGV4aXN0cywgZWxzZSB+Ly5mb3JnZS4gRm9yZ2UgaGFzIG5vCiAgICAgICAgc2lkZWNhciBtZWNoYW5pc20gb2YgYW55IGtpbmQsIHNvIHRvIGRlbGl2ZXIgYW55dGhpbmcgc3BlbGxib29rIG11c3Qgb3duCiAgICAgICAgdGhpcyBwYXRoLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLl9yZXNvbHZlX2VmZmVjdGl2ZV9jb25maWdfZGlyKCkgLyAiQUdFTlRTLm1kIgoKICAgIGRlZiBydWxlX2J1bmRsZV9wcmVzZXJ2ZV9leGlzdGluZyhzZWxmKSAtPiBib29sOgogICAgICAgICIiIk5ldmVyIGNsb2JiZXIgYSB1c2VyJ3Mgb3duIEFHRU5UUy5tZC4KCiAgICAgICAgRm9yZ2UgY29uY2F0ZW5hdGVzIGV2ZXJ5IEFHRU5UUy5tZCBpdCBkaXNjb3ZlcnMgcmF0aGVyIHRoYW4gc3RvcHBpbmcgYXQKICAgICAgICB0aGUgZmlyc3QsIHNvIHdyaXRpbmcgdGhlIGdsb2JhbCBmaWxlIGRvZXMgbm90IHN1cHByZXNzIGEgcHJvamVjdCBmaWxlLgogICAgICAgIEJ1dCBhIHVzZXIgZmlsZSBhbHJlYWR5IGF0IHRoaXMgcGF0aCBpcyB0aGVpcnM6IGl0IGlzIGJhY2tlZCB1cCwga2VwdAogICAgICAgIGJ5dGUtaW50YWN0IGFuZCBmaXJzdCwgYW5kIHRoZSBidW5kbGUgZm9sbG93cyBpbiBhIGRlbWFyY2F0ZWQgcmVnaW9uCiAgICAgICAgdGhhdCBsYXRlciBpbnN0YWxscyByZXBsYWNlIGluIHBsYWNlLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBUcnVlCgogICAgZGVmIGxlZ2FjeV9ydWxlX3BhdGhzKHNlbGYpIC0+IExpc3RbUGF0aF06CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgc2VsZi5fcmVzb2x2ZV9lZmZlY3RpdmVfY29uZmlnX2RpcigpIC8gIkFHRU5UUy5zcGVsbGJvb2subWQiLAogICAgICAgICAgICBzZWxmLmNvbmZpZ19kaXIgLyAiQUdFTlRTLnNwZWxsYm9vay5tZCIsCiAgICAgICAgXQoKICAgIGRlZiBsZWdhY3lfY29udGV4dF9maWxlcyhzZWxmKSAtPiBMaXN0W1BhdGhdOgogICAgICAgIHJldHVybiBbc2VsZi5fcmVzb2x2ZV9lZmZlY3RpdmVfY29uZmlnX2RpcigpIC8gIkFHRU5UUy5tZCJdCgogICAgZGVmIF9yZXNvbHZlX2VmZmVjdGl2ZV9jb25maWdfZGlyKHNlbGYpIC0+IFBhdGg6CiAgICAgICAgIiIiUmV0dXJuIHRoZSBjb25maWcgZGlyIHRvIHVzZSBmb3IgYWxsIGluc3RhbGwvZGV0ZWN0IG9wZXJhdGlvbnMuCgogICAgICAgIFRoaW4gd3JhcHBlciBvdmVyIHRoZSBtb2R1bGUtbGV2ZWwgYGByZXNvbHZlX2ZvcmdlY29kZV9jb25maWdfZGlyYGAgc28KICAgICAgICB0aGUgaW5zdGFsbGVyIGFuZCB0aGUgTUNQIGhlYWx0aC1jaGVjayBzY3JpcHQgc2hhcmUgb25lIHNvdXJjZSBvZiB0cnV0aAogICAgICAgIGZvciB0aGUgcmVzb2x1dGlvbiBwcmlvcml0eSBjaGFpbi4KCiAgICAgICAgTWVtb2l6ZWQgcGVyIGluc3RhbmNlLiBUaGUgcmVzb2x1dGlvbiByZWFkcyB0aGUgZW52aXJvbm1lbnQgYW5kIHByb2JlcwogICAgICAgIHRoZSBmaWxlc3lzdGVtLCBhbmQgc2V2ZXJhbCBjYWxsIHNpdGVzIG5vdyBuZWVkIHRoZSBlZmZlY3RpdmUgZGlyCiAgICAgICAgd2l0aGluIGEgc2luZ2xlIGluc3RhbGw7IHJlc29sdmluZyBvbmNlIGtlZXBzIHRoYXQgYSBmaXhlZCBjb3N0IGFuZAogICAgICAgIGtlZXBzIGV2ZXJ5IHBhdGggaW4gb25lIGluc3RhbGwgYWdyZWVpbmcgb24gb25lIGFuc3dlci4KICAgICAgICAiIiIKICAgICAgICBpZiBzZWxmLl9lZmZlY3RpdmVfY29uZmlnX2RpciBpcyBOb25lOgogICAgICAgICAgICBzZWxmLl9lZmZlY3RpdmVfY29uZmlnX2RpciA9IHJlc29sdmVfZm9yZ2Vjb2RlX2NvbmZpZ19kaXIoc2VsZi5jb25maWdfZGlyKQogICAgICAgIHJldHVybiBzZWxmLl9lZmZlY3RpdmVfY29uZmlnX2RpcgoKICAgIGRlZiBkZXRlY3Qoc2VsZikgLT4gUGxhdGZvcm1TdGF0dXM6CiAgICAgICAgIiIiRGV0ZWN0IEZvcmdlQ29kZSBpbnN0YWxsIHN0YXRlIHZpYSBjb25maWcgZGlyIGFuZCAubWNwLmpzb24gY29udGVudHMuIiIiCiAgICAgICAgZWZmZWN0aXZlX2RpciA9IHNlbGYuX3Jlc29sdmVfZWZmZWN0aXZlX2NvbmZpZ19kaXIoKQogICAgICAgIGVmZmVjdGl2ZV9jb250ZXh0X2ZpbGUgPSBlZmZlY3RpdmVfZGlyIC8gIkFHRU5UUy5tZCIKICAgICAgICBlZmZlY3RpdmVfbWNwX2NvbmZpZyA9IGVmZmVjdGl2ZV9kaXIgLyAiLm1jcC5qc29uIgoKICAgICAgICBoYXNfbWNwID0gRmFsc2UKICAgICAgICBpZiBlZmZlY3RpdmVfbWNwX2NvbmZpZy5leGlzdHMoKToKICAgICAgICAgICAgY2ZnID0gX2xvYWRfbWNwX2NvbmZpZ19kaWN0KGVmZmVjdGl2ZV9tY3BfY29uZmlnKQogICAgICAgICAgICBzZXJ2ZXJzID0gY2ZnLmdldCgibWNwU2VydmVycyIsIHt9KQogICAgICAgICAgICBpZiBpc2luc3RhbmNlKHNlcnZlcnMsIGRpY3QpOgogICAgICAgICAgICAgICAgaGFzX21jcCA9IFNQRUxMQk9PS19TRVJWRVJfS0VZIGluIHNlcnZlcnMKCiAgICAgICAgaGFzX3NpZGVjYXIgPSBhbnkob3MucGF0aC5sZXhpc3RzKHBhdGgpIGZvciBwYXRoIGluIHNlbGYubGVnYWN5X3J1bGVfcGF0aHMoKSkKICAgICAgICBoYXNfYnVuZGxlID0gRmFsc2UKICAgICAgICBpZiBlZmZlY3RpdmVfY29udGV4dF9maWxlLmV4aXN0cygpOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBoYXNfYnVuZGxlID0gREVMSVZFUllfTUFSS0VSX1BSRUZJWCBpbiBlZmZlY3RpdmVfY29udGV4dF9maWxlLnJlYWRfdGV4dCgKICAgICAgICAgICAgICAgICAgICBlbmNvZGluZz0idXRmLTgiCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICAgICAgaGFzX2J1bmRsZSA9IEZhbHNlCiAgICAgICAgbGVnYWN5X3ZlcnNpb24gPSBnZXRfaW5zdGFsbGVkX3ZlcnNpb24oZWZmZWN0aXZlX2NvbnRleHRfZmlsZSkKICAgICAgICBpbnN0YWxsZWQgPSAobGVnYWN5X3ZlcnNpb24gaXMgbm90IE5vbmUpIG9yIGhhc19tY3Agb3IgaGFzX3NpZGVjYXIgb3IgaGFzX2J1bmRsZQogICAgICAgIGluc3RhbGxlZF92ZXJzaW9uID0gbGVnYWN5X3ZlcnNpb24gb3IgKAogICAgICAgICAgICBzZWxmLnZlcnNpb24gaWYgKGhhc19zaWRlY2FyIG9yIGhhc19idW5kbGUpIGVsc2UgTm9uZQogICAgICAgICkKCiAgICAgICAgcmV0dXJuIFBsYXRmb3JtU3RhdHVzKAogICAgICAgICAgICBwbGF0Zm9ybT1zZWxmLnBsYXRmb3JtX2lkLAogICAgICAgICAgICBhdmFpbGFibGU9ZWZmZWN0aXZlX2Rpci5leGlzdHMoKSwKICAgICAgICAgICAgaW5zdGFsbGVkPWluc3RhbGxlZCwKICAgICAgICAgICAgdmVyc2lvbj1pbnN0YWxsZWRfdmVyc2lvbiwKICAgICAgICAgICAgZGV0YWlscz17CiAgICAgICAgICAgICAgICAiY29uZmlnX2RpciI6IHN0cihlZmZlY3RpdmVfZGlyKSwKICAgICAgICAgICAgICAgICJtY3BfcmVnaXN0ZXJlZCI6IGhhc19tY3AsCiAgICAgICAgICAgICAgICAibWNwX2NvbmZpZyI6IHN0cihlZmZlY3RpdmVfbWNwX2NvbmZpZyksCiAgICAgICAgICAgIH0sCiAgICAgICAgKQoKICAgIGRlZiBpbnN0YWxsKHNlbGYsIGZvcmNlOiBib29sID0gRmFsc2UsIHNraXBfZ2xvYmFsX3N0ZXBzOiBib29sID0gRmFsc2UpIC0+IExpc3RbIkluc3RhbGxSZXN1bHQiXToKICAgICAgICAiIiJJbnN0YWxsIEFHRU5UUy5tZCAoZGVtYXJjYXRlZCkgYW5kIC5tY3AuanNvbiAoY3JlYXRlZCBhdG9taWNhbGx5IHdpdGggbW9kZSAwNjAwKS4iIiIKICAgICAgICBmcm9tIC4uY29yZSBpbXBvcnQgSW5zdGFsbFJlc3VsdAoKICAgICAgICBlZmZlY3RpdmVfZGlyID0gc2VsZi5fcmVzb2x2ZV9lZmZlY3RpdmVfY29uZmlnX2RpcigpCiAgICAgICAgZWZmZWN0aXZlX2NvbnRleHRfZmlsZSA9IGVmZmVjdGl2ZV9kaXIgLyAiQUdFTlRTLm1kIgogICAgICAgIGVmZmVjdGl2ZV9tY3BfY29uZmlnID0gZWZmZWN0aXZlX2RpciAvICIubWNwLmpzb24iCgogICAgICAgIHJlc3VsdHM6IExpc3RbSW5zdGFsbFJlc3VsdF0gPSBbXQoKICAgICAgICBpZiBub3QgZWZmZWN0aXZlX2Rpci5leGlzdHMoKToKICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoCiAgICAgICAgICAgICAgICBJbnN0YWxsUmVzdWx0KAogICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudD0icGxhdGZvcm0iLAogICAgICAgICAgICAgICAgICAgIHBsYXRmb3JtPXNlbGYucGxhdGZvcm1faWQsCiAgICAgICAgICAgICAgICAgICAgc3VjY2Vzcz1UcnVlLAogICAgICAgICAgICAgICAgICAgIGFjdGlvbj0ic2tpcHBlZCIsCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZT1mIntlZmZlY3RpdmVfZGlyfSBub3QgZm91bmQiLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICAgICAgICAgIHJldHVybiByZXN1bHRzCgogICAgICAgICMgR2VuZXJhdGUgdGhlIHJ1bGUgYnVuZGxlIGF0IGZvcmdlJ3MgcmVhbCBBR0VOVFMubWQsIHByZXNlcnZpbmcgYW55CiAgICAgICAgIyB1c2VyIGNvbnRlbnQgYWxyZWFkeSB0aGVyZSwgYW5kIGRyb3AgdGhlIGluZXJ0IHNpZGVjYXIuCiAgICAgICAgc2VsZi5fc3RlcCgiSW5zdGFsbGluZyBydWxlIG1vZHVsZXMiKQogICAgICAgIHJ1bGVfcmVzdWx0cyA9IHNlbGYuaW5zdGFsbF9ydWxlX21vZHVsZXMoKQogICAgICAgIHJlc3VsdHMuZXh0ZW5kKHJ1bGVfcmVzdWx0cykKCiAgICAgICAgIyBTdHJpcCB0aGUgbGVnYWN5IGRlbWFyY2F0ZWQgYmxvY2sgb25seSBBRlRFUiBkZWxpdmVyeSBzdWNjZWVkcy4KICAgICAgICAjIFN0cmlwcGluZyBmaXJzdCB3b3VsZCBsZWF2ZSBhIHVzZXIgd2hvc2UgZGVsaXZlcnkgZmFpbGVkIHdpdGgKICAgICAgICAjIG5laXRoZXIgdGhlIG9sZCBpbnRlcnBvbGF0ZWQgcnVsZXMgbm9yIHRoZSBuZXcgbW9kdWxlcy4KICAgICAgICBpZiAoCiAgICAgICAgICAgIGFsbChyLnN1Y2Nlc3MgZm9yIHIgaW4gcnVsZV9yZXN1bHRzKQogICAgICAgICAgICBhbmQgZWZmZWN0aXZlX2NvbnRleHRfZmlsZS5leGlzdHMoKQogICAgICAgICAgICBhbmQgbm90IHNlbGYuZHJ5X3J1bgogICAgICAgICk6CiAgICAgICAgICAgIHJlbW92ZV9kZW1hcmNhdGVkX3NlY3Rpb24oZWZmZWN0aXZlX2NvbnRleHRfZmlsZSkKCiAgICAgICAgIyBNQ1Agc2VydmVyIGVudHJ5IGluIC5tY3AuanNvbgogICAgICAgIHNlbGYuX3N0ZXAoIlJlZ2lzdGVyaW5nIE1DUCBzZXJ2ZXIiKQogICAgICAgIHN1Y2Nlc3MsIG1zZyA9IF91cGRhdGVfZm9yZ2Vjb2RlX21jcF9jb25maWcoZWZmZWN0aXZlX21jcF9jb25maWcsIHNlbGYuZHJ5X3J1bikKICAgICAgICByZXN1bHRzLmFwcGVuZCgKICAgICAgICAgICAgSW5zdGFsbFJlc3VsdCgKICAgICAgICAgICAgICAgIGNvbXBvbmVudD0ibWNwX3NlcnZlciIsCiAgICAgICAgICAgICAgICBwbGF0Zm9ybT1zZWxmLnBsYXRmb3JtX2lkLAogICAgICAgICAgICAgICAgc3VjY2Vzcz1zdWNjZXNzLAogICAgICAgICAgICAgICAgYWN0aW9uPSJpbnN0YWxsZWQiIGlmIHN1Y2Nlc3MgZWxzZSAiZmFpbGVkIiwKICAgICAgICAgICAgICAgIG1lc3NhZ2U9ZiJNQ1Agc2VydmVyOiB7bXNnfSIsCiAgICAgICAgICAgICkKICAgICAgICApCgogICAgICAgICMgSW5zdGFsbC10aW1lIHdhcm5pbmc6ICRGT1JHRV9DT05GSUcgdW5zZXQgbWVhbnMgcnVudGltZSBvdmVycmlkZSBtYXkgZGl2ZXJnZS4KICAgICAgICBpZiBub3Qgc2VsZi5kcnlfcnVuIGFuZCBub3Qgb3MuZW52aXJvbi5nZXQoIkZPUkdFX0NPTkZJRyIpOgogICAgICAgICAgICByZXN1bHRzLmFwcGVuZCgKICAgICAgICAgICAgICAgIEluc3RhbGxSZXN1bHQoCiAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PSJlbnZfd2FybmluZyIsCiAgICAgICAgICAgICAgICAgICAgcGxhdGZvcm09c2VsZi5wbGF0Zm9ybV9pZCwKICAgICAgICAgICAgICAgICAgICBzdWNjZXNzPVRydWUsCiAgICAgICAgICAgICAgICAgICAgYWN0aW9uPSJ3YXJuZWQiLAogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U9KAogICAgICAgICAgICAgICAgICAgICAgICAiRk9SR0VfQ09ORklHIG5vdCBzZXQgYXQgaW5zdGFsbCB0aW1lOyBmdXR1cmUgZm9yZ2Ugc2Vzc2lvbnMgIgogICAgICAgICAgICAgICAgICAgICAgICAidGhhdCBzZXQgRk9SR0VfQ09ORklHIHRvIGEgZGlmZmVyZW50IHBhdGggd2lsbCBub3Qgc2VlIHRoaXMgaW5zdGFsbCIKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCgogICAgICAgIHJldHVybiByZXN1bHRzCgogICAgZGVmIHVuaW5zdGFsbChzZWxmLCBza2lwX2dsb2JhbF9zdGVwczogYm9vbCA9IEZhbHNlKSAtPiBMaXN0WyJJbnN0YWxsUmVzdWx0Il06CiAgICAgICAgIiIiUmVtb3ZlIGRlbWFyY2F0ZWQgQUdFTlRTLm1kIHNlY3Rpb24gYW5kIHNwZWxsYm9vayBlbnRyeSBmcm9tIC5tY3AuanNvbi4iIiIKICAgICAgICBmcm9tIC4uY29yZSBpbXBvcnQgSW5zdGFsbFJlc3VsdAoKICAgICAgICBlZmZlY3RpdmVfZGlyID0gc2VsZi5fcmVzb2x2ZV9lZmZlY3RpdmVfY29uZmlnX2RpcigpCiAgICAgICAgZWZmZWN0aXZlX2NvbnRleHRfZmlsZSA9IGVmZmVjdGl2ZV9kaXIgLyAiQUdFTlRTLm1kIgogICAgICAgIGVmZmVjdGl2ZV9tY3BfY29uZmlnID0gZWZmZWN0aXZlX2RpciAvICIubWNwLmpzb24iCgogICAgICAgIHJlc3VsdHM6IExpc3RbSW5zdGFsbFJlc3VsdF0gPSBbXQoKICAgICAgICBpZiBub3QgZWZmZWN0aXZlX2Rpci5leGlzdHMoKToKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdHMKCiAgICAgICAgaWYgZWZmZWN0aXZlX2NvbnRleHRfZmlsZS5leGlzdHMoKToKICAgICAgICAgICAgaWYgc2VsZi5kcnlfcnVuOgogICAgICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoCiAgICAgICAgICAgICAgICAgICAgSW5zdGFsbFJlc3VsdCgKICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PSJBR0VOVFMubWQiLAogICAgICAgICAgICAgICAgICAgICAgICBwbGF0Zm9ybT1zZWxmLnBsYXRmb3JtX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBzdWNjZXNzPVRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIGFjdGlvbj0icmVtb3ZlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U9IkFHRU5UUy5tZDogd291bGQgcmVtb3ZlIHNwZWxsYm9vayBzZWN0aW9uIiwKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBhY3Rpb24sIF9iYWNrdXAgPSByZW1vdmVfZGVtYXJjYXRlZF9zZWN0aW9uKGVmZmVjdGl2ZV9jb250ZXh0X2ZpbGUpCiAgICAgICAgICAgICAgICByZXN1bHRzLmFwcGVuZCgKICAgICAgICAgICAgICAgICAgICBJbnN0YWxsUmVzdWx0KAogICAgICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQ9IkFHRU5UUy5tZCIsCiAgICAgICAgICAgICAgICAgICAgICAgIHBsYXRmb3JtPXNlbGYucGxhdGZvcm1faWQsCiAgICAgICAgICAgICAgICAgICAgICAgIHN1Y2Nlc3M9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgYWN0aW9uPWFjdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZT1mIkFHRU5UUy5tZDoge2FjdGlvbn0iLAogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKCiAgICAgICAgcmVzdWx0cy5leHRlbmQoc2VsZi51bmluc3RhbGxfcnVsZV9tb2R1bGVzKCkpCgogICAgICAgIHN1Y2Nlc3MsIG1zZyA9IF9yZW1vdmVfZm9yZ2Vjb2RlX21jcF9jb25maWcoZWZmZWN0aXZlX21jcF9jb25maWcsIHNlbGYuZHJ5X3J1bikKICAgICAgICByZXN1bHRzLmFwcGVuZCgKICAgICAgICAgICAgSW5zdGFsbFJlc3VsdCgKICAgICAgICAgICAgICAgIGNvbXBvbmVudD0ibWNwX3NlcnZlciIsCiAgICAgICAgICAgICAgICBwbGF0Zm9ybT1zZWxmLnBsYXRmb3JtX2lkLAogICAgICAgICAgICAgICAgc3VjY2Vzcz1zdWNjZXNzLAogICAgICAgICAgICAgICAgYWN0aW9uPSJyZW1vdmVkIiBpZiAicmVtb3ZlZCIgaW4gbXNnIGVsc2UgInNraXBwZWQiLAogICAgICAgICAgICAgICAgbWVzc2FnZT1mIk1DUCBzZXJ2ZXI6IHttc2d9IiwKICAgICAgICAgICAgKQogICAgICAgICkKCiAgICAgICAgcmV0dXJuIHJlc3VsdHMKCiAgICBkZWYgZ2V0X2NvbnRleHRfZmlsZXMoc2VsZikgLT4gTGlzdFtQYXRoXToKICAgICAgICAiIiJSZXR1cm4gdGhlIGdlbmVyYXRlZCBydWxlIGFydGlmYWN0IHBhdGggKGVmZmVjdGl2ZSBkaXIpLiIiIgogICAgICAgIHJldHVybiBbc2VsZi5ydWxlX2J1bmRsZV9wYXRoKCldCgogICAgZGVmIGdldF9zeW1saW5rcyhzZWxmKSAtPiBMaXN0W1BhdGhdOgogICAgICAgICIiIkZvcmdlQ29kZSBpbnN0YWxsZXIgY3JlYXRlcyBubyBzeW1saW5rcy4iIiIKICAgICAgICByZXR1cm4gW10K
+"""ForgeCode platform installer.
+
+ForgeCode (tailcallhq/forgecode) supports:
+- AGENTS.md custom rules at <config_dir>/AGENTS.md
+- MCP via .mcp.json with top-level mcpServers (Claude Code shape)
+- HTTP MCP transport
+
+Config dir resolution priority (per design Section 3):
+1. $FORGE_CONFIG (when set)
+2. ~/forge (legacy, only when pre-existing AND default config dir)
+3. ~/.forge (default)
+
+The .mcp.json file is written with mode 0600 because MCP config may name
+local endpoints. We use ``os.open`` with mode 0o600 to set restrictive
+permissions on creation, then ``os.fchmod`` on the fd to also tighten any
+pre-existing file (the ``mode`` arg to ``os.open`` only applies on creation,
+so an existing 0o644 file would otherwise survive ``O_TRUNC`` with broad
+permissions intact). The spellbook server entry sets ``oauth: false`` to
+disable OAuth auto-detection on the forge client side.
+
+Reference: design doc 2026-04-30-forgecode-support-design.md, Section 3.
+"""
+
+import json
+import logging
+import os
+from pathlib import Path
+from typing import TYPE_CHECKING, List, Optional, Tuple
+
+from ..components.mcp import DEFAULT_HOST, DEFAULT_PORT
+from ..components.rule_bundle import DELIVERY_MARKER_PREFIX
+from ..demarcation import (
+    get_installed_version,
+    remove_demarcated_section,
+)
+from .base import RULE_DELIVERY_FLAT, PlatformInstaller, PlatformStatus
+
+if TYPE_CHECKING:
+    from ..core import InstallResult
+
+
+logger = logging.getLogger(__name__)
+
+SPELLBOOK_SERVER_KEY: str = "spellbook"
+
+
+def resolve_forgecode_config_dir(default_dir: Optional[Path] = None) -> Path:
+    """Return the effective ForgeCode config dir using the documented priority chain.
+
+    Resolution order (per design Section 3): if ``$FORGE_CONFIG`` is set in the
+    environment, the caller's ``default_dir`` (already env-honoring upstream) is
+    trusted and returned unchanged when supplied; otherwise ``Path($FORGE_CONFIG)``
+    is returned. With the env var unset, legacy ``~/forge`` is preferred when it
+    pre-exists as a directory and ``default_dir`` is either ``None`` or equals
+    the default ``~/.forge``. Falls back to ``default_dir`` if supplied or the
+    default ``~/.forge`` otherwise. Used by both the installer (which passes
+    ``self.config_dir`` as ``default_dir``) and the MCP health-check script
+    (which passes ``None`` to drive resolution end-to-end).
+    """
+    env_value = os.environ.get("FORGE_CONFIG")
+    if env_value:
+        # When upstream already resolved the env var into default_dir, trust it.
+        # Otherwise (caller passed None) parse the env var ourselves.
+        return default_dir if default_dir is not None else Path(env_value)
+
+    legacy = Path.home() / "forge"
+    default = Path.home() / ".forge"
+    effective_default = default_dir if default_dir is not None else default
+    if effective_default == default and legacy.exists() and legacy.is_dir():
+        return legacy
+    return effective_default
+
+
+def _load_mcp_config_dict(config_path: Path) -> dict:
+    """Read and parse ``config_path`` as JSON, returning ``{}`` on failure.
+
+    Returns an empty dict if the file is missing, contains invalid JSON, or
+    parses to a non-dict (list, scalar, null). Decode failures and shape
+    mismatches are logged at debug level so silent corruption does not hide.
+    """
+    if not config_path.exists():
+        return {}
+    try:
+        data = json.loads(config_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        logger.debug("Failed to parse %s: %s", config_path, e)
+        return {}
+    if not isinstance(data, dict):
+        logger.debug(
+            "Existing %s is not a JSON object (got %s); starting fresh",
+            config_path,
+            type(data).__name__,
+        )
+        return {}
+    return data
+
+
+def _write_mcp_config_secure(config_path: Path, config: dict) -> None:
+    """Write JSON config with mode 0600 atomically (no TOCTOU window).
+
+    ``os.open`` with mode 0o600 only applies to *newly created* files; if
+    ``config_path`` already exists with broader permissions (e.g. 0o644 from
+    a prior installer version), ``O_TRUNC`` preserves the existing mode.
+    We therefore explicitly ``os.fchmod`` the file descriptor after open to
+    tighten any pre-existing mode before writing. This also narrows any
+    0o644 ``.mcp.json`` left behind by an installer version that wrote a
+    credential into it.
+
+    Operating on the fd (not the path) avoids a TOCTOU window between
+    chmod and write. ``hasattr(os, "fchmod")`` guards Windows where chmod
+    is already a no-op.
+    """
+    payload = json.dumps(config, indent=2) + "\n"
+    fd = os.open(
+        os.fspath(config_path),
+        os.O_WRONLY | os.O_CREAT | os.O_TRUNC,
+        0o600,
+    )
+    try:
+        if hasattr(os, "fchmod"):
+            os.fchmod(fd, 0o600)
+        # os.fdopen takes ownership of fd; its context manager closes it.
+        f = os.fdopen(fd, "w", encoding="utf-8")
+    except BaseException:
+        os.close(fd)
+        raise
+
+    with f:
+        f.write(payload)
+
+
+def _update_forgecode_mcp_config(
+    config_path: Path, dry_run: bool = False
+) -> Tuple[bool, str]:
+    """Merge spellbook server into mcpServers; write 0600 atomically; oauth=false."""
+    if dry_run:
+        return (True, "would register MCP server (HTTP)")
+
+    config_path.parent.mkdir(parents=True, exist_ok=True)
+
+    config = _load_mcp_config_dict(config_path)
+
+    if "mcpServers" not in config or not isinstance(config["mcpServers"], dict):
+        config["mcpServers"] = {}
+
+    daemon_url = f"http://{DEFAULT_HOST}:{DEFAULT_PORT}/mcp"
+    action = (
+        f"updated MCP server config (HTTP: {daemon_url})"
+        if SPELLBOOK_SERVER_KEY in config["mcpServers"]
+        else f"registered MCP server (HTTP: {daemon_url})"
+    )
+
+    server_entry: dict = {
+        "url": daemon_url,
+        "oauth": False,
+    }
+
+    # Whole-entry replacement: any stale auth header from a previous
+    # install disappears here rather than being merged forward.
+    config["mcpServers"][SPELLBOOK_SERVER_KEY] = server_entry
+
+    _write_mcp_config_secure(config_path, config)
+    return (True, action)
+
+
+def _remove_forgecode_mcp_config(
+    config_path: Path, dry_run: bool = False
+) -> Tuple[bool, str]:
+    """Remove only the spellbook entry from mcpServers; preserve other servers."""
+    if not config_path.exists():
+        return (True, "config not found")
+    if dry_run:
+        return (True, "would remove MCP server config")
+
+    config = _load_mcp_config_dict(config_path)
+    if not config:
+        # Either invalid JSON or non-dict shape; nothing for us to remove.
+        return (True, "config is not valid JSON")
+
+    servers = config.get("mcpServers")
+    if not isinstance(servers, dict) or SPELLBOOK_SERVER_KEY not in servers:
+        return (True, "MCP server was not configured")
+
+    del servers[SPELLBOOK_SERVER_KEY]
+    # Re-write with 0600: file might shrink to "{}" but mode stays restrictive.
+    _write_mcp_config_secure(config_path, config)
+    return (True, "removed MCP server config")
+
+
+class ForgeCodeInstaller(PlatformInstaller):
+    """Installer for ForgeCode platform (basic tier)."""
+
+    rule_delivery = RULE_DELIVERY_FLAT
+
+    # Cache for _resolve_effective_config_dir(). Set lazily on first use.
+    _effective_config_dir: Optional[Path] = None
+
+    @property
+    def platform_name(self) -> str:
+        return "ForgeCode"
+
+    @property
+    def platform_id(self) -> str:
+        return "forgecode"
+
+    @property
+    def mcp_config_file(self) -> Path:
+        """Path to <config_dir>/.mcp.json (forge mcpServers shape)."""
+        return self.config_dir / ".mcp.json"
+
+    @property
+    def context_file(self) -> Path:
+        """Path to <config_dir>/AGENTS.md."""
+        return self.config_dir / "AGENTS.md"
+
+    def rule_bundle_path(self) -> Path:
+        """Forge's real instruction path, under forge's own resolution order.
+
+        Resolved through resolve_forgecode_config_dir() rather than
+        self.config_dir so the artifact lands where forge will actually look:
+        $FORGE_CONFIG, else ~/forge when it exists, else ~/.forge. Forge has no
+        sidecar mechanism of any kind, so to deliver anything spellbook must own
+        this path.
+        """
+        return self._resolve_effective_config_dir() / "AGENTS.md"
+
+    def rule_bundle_preserve_existing(self) -> bool:
+        """Never clobber a user's own AGENTS.md.
+
+        Forge concatenates every AGENTS.md it discovers rather than stopping at
+        the first, so writing the global file does not suppress a project file.
+        But a user file already at this path is theirs: it is backed up, kept
+        byte-intact and first, and the bundle follows in a demarcated region
+        that later installs replace in place.
+        """
+        return True
+
+    def legacy_rule_paths(self) -> List[Path]:
+        return [
+            self._resolve_effective_config_dir() / "AGENTS.spellbook.md",
+            self.config_dir / "AGENTS.spellbook.md",
+        ]
+
+    def legacy_context_files(self) -> List[Path]:
+        return [self._resolve_effective_config_dir() / "AGENTS.md"]
+
+    def _resolve_effective_config_dir(self) -> Path:
+        """Return the config dir to use for all install/detect operations.
+
+        Thin wrapper over the module-level ``resolve_forgecode_config_dir`` so
+        the installer and the MCP health-check script share one source of truth
+        for the resolution priority chain.
+
+        Memoized per instance. The resolution reads the environment and probes
+        the filesystem, and several call sites now need the effective dir
+        within a single install; resolving once keeps that a fixed cost and
+        keeps every path in one install agreeing on one answer.
+        """
+        if self._effective_config_dir is None:
+            self._effective_config_dir = resolve_forgecode_config_dir(self.config_dir)
+        return self._effective_config_dir
+
+    def detect(self) -> PlatformStatus:
+        """Detect ForgeCode install state via config dir and .mcp.json contents."""
+        effective_dir = self._resolve_effective_config_dir()
+        effective_context_file = effective_dir / "AGENTS.md"
+        effective_mcp_config = effective_dir / ".mcp.json"
+
+        has_mcp = False
+        if effective_mcp_config.exists():
+            cfg = _load_mcp_config_dict(effective_mcp_config)
+            servers = cfg.get("mcpServers", {})
+            if isinstance(servers, dict):
+                has_mcp = SPELLBOOK_SERVER_KEY in servers
+
+        has_sidecar = any(os.path.lexists(path) for path in self.legacy_rule_paths())
+        has_bundle = False
+        if effective_context_file.exists():
+            try:
+                has_bundle = DELIVERY_MARKER_PREFIX in effective_context_file.read_text(
+                    encoding="utf-8"
+                )
+            except OSError:
+                has_bundle = False
+        legacy_version = get_installed_version(effective_context_file)
+        installed = (legacy_version is not None) or has_mcp or has_sidecar or has_bundle
+        installed_version = legacy_version or (
+            self.version if (has_sidecar or has_bundle) else None
+        )
+
+        return PlatformStatus(
+            platform=self.platform_id,
+            available=effective_dir.exists(),
+            installed=installed,
+            version=installed_version,
+            details={
+                "config_dir": str(effective_dir),
+                "mcp_registered": has_mcp,
+                "mcp_config": str(effective_mcp_config),
+            },
+        )
+
+    def install(self, force: bool = False, skip_global_steps: bool = False) -> List["InstallResult"]:
+        """Install AGENTS.md (demarcated) and .mcp.json (created atomically with mode 0600)."""
+        from ..core import InstallResult
+
+        effective_dir = self._resolve_effective_config_dir()
+        effective_context_file = effective_dir / "AGENTS.md"
+        effective_mcp_config = effective_dir / ".mcp.json"
+
+        results: List[InstallResult] = []
+
+        if not effective_dir.exists():
+            results.append(
+                InstallResult(
+                    component="platform",
+                    platform=self.platform_id,
+                    success=True,
+                    action="skipped",
+                    message=f"{effective_dir} not found",
+                )
+            )
+            return results
+
+        # Generate the rule bundle at forge's real AGENTS.md, preserving any
+        # user content already there, and drop the inert sidecar.
+        self._step("Installing rule modules")
+        rule_results = self.install_rule_modules()
+        results.extend(rule_results)
+
+        # Strip the legacy demarcated block only AFTER delivery succeeds.
+        # Stripping first would leave a user whose delivery failed with
+        # neither the old interpolated rules nor the new modules.
+        if (
+            all(r.success for r in rule_results)
+            and effective_context_file.exists()
+            and not self.dry_run
+        ):
+            remove_demarcated_section(effective_context_file)
+
+        # MCP server entry in .mcp.json
+        self._step("Registering MCP server")
+        success, msg = _update_forgecode_mcp_config(effective_mcp_config, self.dry_run)
+        results.append(
+            InstallResult(
+                component="mcp_server",
+                platform=self.platform_id,
+                success=success,
+                action="installed" if success else "failed",
+                message=f"MCP server: {msg}",
+            )
+        )
+
+        # Install-time warning: $FORGE_CONFIG unset means runtime override may diverge.
+        if not self.dry_run and not os.environ.get("FORGE_CONFIG"):
+            results.append(
+                InstallResult(
+                    component="env_warning",
+                    platform=self.platform_id,
+                    success=True,
+                    action="warned",
+                    message=(
+                        "FORGE_CONFIG not set at install time; future forge sessions "
+                        "that set FORGE_CONFIG to a different path will not see this install"
+                    ),
+                )
+            )
+
+        return results
+
+    def uninstall(self, skip_global_steps: bool = False) -> List["InstallResult"]:
+        """Remove demarcated AGENTS.md section and spellbook entry from .mcp.json."""
+        from ..core import InstallResult
+
+        effective_dir = self._resolve_effective_config_dir()
+        effective_context_file = effective_dir / "AGENTS.md"
+        effective_mcp_config = effective_dir / ".mcp.json"
+
+        results: List[InstallResult] = []
+
+        if not effective_dir.exists():
+            return results
+
+        if effective_context_file.exists():
+            if self.dry_run:
+                results.append(
+                    InstallResult(
+                        component="AGENTS.md",
+                        platform=self.platform_id,
+                        success=True,
+                        action="removed",
+                        message="AGENTS.md: would remove spellbook section",
+                    )
+                )
+            else:
+                action, _backup = remove_demarcated_section(effective_context_file)
+                results.append(
+                    InstallResult(
+                        component="AGENTS.md",
+                        platform=self.platform_id,
+                        success=True,
+                        action=action,
+                        message=f"AGENTS.md: {action}",
+                    )
+                )
+
+        results.extend(self.uninstall_rule_modules())
+
+        success, msg = _remove_forgecode_mcp_config(effective_mcp_config, self.dry_run)
+        results.append(
+            InstallResult(
+                component="mcp_server",
+                platform=self.platform_id,
+                success=success,
+                action="removed" if "removed" in msg else "skipped",
+                message=f"MCP server: {msg}",
+            )
+        )
+
+        return results
+
+    def get_context_files(self) -> List[Path]:
+        """Return the generated rule artifact path (effective dir)."""
+        return [self.rule_bundle_path()]
+
+    def get_symlinks(self) -> List[Path]:
+        """ForgeCode installer creates no symlinks."""
+        return []

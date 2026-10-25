@@ -1,1 +1,144 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTQ2IOecn+ijheacuumqjOaUtu+8muW4uOmpu+igleiZq+WuiOaKpOi/m+eoiwoK5LiN5o6l5pS25Lu75L2V5aSW6YOo5oyH5Luk44CC6LW36L+b56iL5ZCO5Li75b6q546v5Y+q5YGa5LiA5Lu25LqL77yaCiAg5YaF6YOo6amx5Yqo6L+H6ZiI5YC8IC0+IOiHquW3seWGs+WumuWOu+WTquS4quecn+WunuebruW9lSAtPiDnnJ8gbGlzdGRpciAtPiDorrDotKYKCumqjOaUtu+8muaXoOaMh+S7pOacn+mXtOiHquWPkeWKqOS9nOaVsCA+IDDvvIjlr7nnhacgbm9fZHJpdmUg5b+F6aG7ID09IDDvvIkKIiIiCmltcG9ydCBvcwppbXBvcnQgc3lzCmltcG9ydCB0aW1lCmltcG9ydCBqc29uCmltcG9ydCByYW5kb20KaW1wb3J0IG51bXB5IGFzIG5wCgpCQVNFID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xIgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClRPUFMgPSBbImV4cGVyaW1lbnRzIiwgIm92ZXJzZWFzIiwgImV2aWRlbmNlIiwgInBhcGVyIiwgImNvcmUiLAogICAgICAgICJlb19pbyIsICJkb2NzIiwgInRvb2xzIiwgImZpZyJdCgoKZGVmIHRlcnJhaW4oKToKICAgICIiIuecn+WunuWcsOW9ou+8muebruW9leiKgueCuSArIOWPr+ingua1i+e6v+e0oih0b3Agb25lLWhvdCArIOa3seW6pikiIiIKICAgIG5vZGVzID0gW10KICAgIGZvciB0IGluIFRPUFM6CiAgICAgICAgcm9vdCA9IG9zLnBhdGguam9pbihCQVNFLCB0KQogICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHJvb3QpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGdvdCA9IDAKICAgICAgICBmb3IgZHAsIGRuLCBmbiBpbiBvcy53YWxrKHJvb3QpOgogICAgICAgICAgICBpZiBub3QgZG4gYW5kIG5vdCBmbjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIG5vZGVzLmFwcGVuZChkcCkKICAgICAgICAgICAgZ290ICs9IDEKICAgICAgICAgICAgaWYgZ290ID49IDEwOgogICAgICAgICAgICAgICAgYnJlYWsKICAgIFggPSBbXQogICAgZm9yIHAgaW4gbm9kZXM6CiAgICAgICAgcmVsID0gb3MucGF0aC5yZWxwYXRoKHAsIEJBU0UpCiAgICAgICAgcGFydHMgPSByZWwuc3BsaXQob3Muc2VwKQogICAgICAgIHRvcCA9IHBhcnRzWzBdIGlmIHBhcnRzIGVsc2UgIiIKICAgICAgICBuYW1lID0gb3MucGF0aC5iYXNlbmFtZShwKSBvciAiLiIKICAgICAgICBYLmFwcGVuZChbMS4wIGlmIHRvcCA9PSB0IGVsc2UgMC4wIGZvciB0IGluIFRPUFNdCiAgICAgICAgICAgICAgICAgKyBbZmxvYXQobGVuKHBhcnRzKSksIGxlbihyZWwpIC8gNjAuMCwKICAgICAgICAgICAgICAgICAgICAxLjAgaWYgYW55KGMuaXNkaWdpdCgpIGZvciBjIGluIG5hbWUpIGVsc2UgMC4wXSkKICAgIHJldHVybiBub2RlcywgbnAuYXJyYXkoWCwgZmxvYXQpCgoKZGVmIGNvbnRlbnQocGF0aCk6CiAgICB0cnk6CiAgICAgICAgZSA9IG9zLmxpc3RkaXIocGF0aCkKICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIHJldHVybiBOb25lCiAgICBuZiA9IG5kID0gMAogICAgZXh0ID0ge30KICAgIGZvciB4IGluIGU6CiAgICAgICAgcCA9IG9zLnBhdGguam9pbihwYXRoLCB4KQogICAgICAgIGlmIG9zLnBhdGguaXNkaXIocCk6CiAgICAgICAgICAgIG5kICs9IDEKICAgICAgICBlbHNlOgogICAgICAgICAgICBuZiArPSAxCiAgICAgICAgICAgIGsgPSBvcy5wYXRoLnNwbGl0ZXh0KHgpWzFdLmxvd2VyKCkKICAgICAgICAgICAgZXh0W2tdID0gZXh0LmdldChrLCAwKSArIDEKICAgIGtleXMgPSBbIi5weSIsICIubWQiLCAiLmpzb24iLCAiLnBuZyIsICIudHh0IiwgIi56aXAiLCAiLnNoIiwgIi5odG1sIl0KICAgIHJldHVybiBbbmYgLyA1MC4wLCBuZCAvIDUuMF0gKyBbZXh0LmdldChrLCAwKSAvIDUuMCBmb3IgayBpbiBrZXlzXSBcCiAgICAgICAgKyBbbGVuKGV4dCkgLyA4LjBdCgoKZGVmIG1haW4oKToKICAgIGRyaXZlID0gc3lzLmFyZ3ZbMV0gaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAiY3VyaW9zaXR5IgogICAgZHVyID0gZmxvYXQoc3lzLmFyZ3ZbMl0pIGlmIGxlbihzeXMuYXJndikgPiAyIGVsc2UgMjAuMAogICAgbG9nID0gb3MucGF0aC5qb2luKEhFUkUsIGYid29ybWRfe2RyaXZlfS5qc29uIikKCiAgICBub2RlcywgWCA9IHRlcnJhaW4oKQogICAga2VlcCA9IFtpIGZvciBpIGluIHJhbmdlKFguc2hhcGVbMV0pIGlmIFhbOiwgaV0uc3RkKCkgPiAxZS05XQogICAgWCA9IFhbOiwga2VlcF0KICAgIFhzID0gKFggLSBYLm1lYW4oMCkpIC8gKFguc3RkKDApICsgMWUtOSkKICAgIG4gPSBsZW4obm9kZXMpCgogICAgcm5nID0gcmFuZG9tLlJhbmRvbSgxMjM0NSkKICAgIHNjYW5uZWQgPSBzZXQoKQogICAgYWN0aW9ucyA9IFtdCiAgICB0MCA9IHRpbWUudGltZSgpCiAgICB0aWNrID0gMAogICAgZ19zZWxmID0gMS4wCiAgICByZWNlbnRfZ2FpbiA9IDAuMAogICAgWWJ1ZiA9IFtdCgogICAgd2hpbGUgdGltZS50aW1lKCkgLSB0MCA8IGR1cjoKICAgICAgICB0aWNrICs9IDEKICAgICAgICBjYW5kID0gW2kgZm9yIGkgaW4gcmFuZ2UobikgaWYgaSBub3QgaW4gc2Nhbm5lZF0gb3IgbGlzdChyYW5nZShuKSkKICAgICAgICBpZiBkcml2ZSA9PSAibm9fZHJpdmUiOgogICAgICAgICAgICB0aW1lLnNsZWVwKDAuMDIpCiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIG5vdiA9IHt9CiAgICAgICAgZm9yIGkgaW4gY2FuZDoKICAgICAgICAgICAgaWYgaSBpbiBzY2FubmVkOgogICAgICAgICAgICAgICAgbm92W2ldID0gMC4wCiAgICAgICAgICAgIGVsaWYgbm90IHNjYW5uZWQ6CiAgICAgICAgICAgICAgICBub3ZbaV0gPSAxLjAKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG5vdltpXSA9IGZsb2F0KG5wLmxpbmFsZy5ub3JtKAogICAgICAgICAgICAgICAgICAgIFhzW2xpc3Qoc2Nhbm5lZCldIC0gWHNbaV0sIGF4aXM9MSkubWluKCkpCiAgICAgICAgbGV2ZWwgPSBzdW0obm92LnZhbHVlcygpKSAvIGxlbihub3YpICsgMC4yICogKDEuMCAtIGdfc2VsZikKICAgICAgICBpZiBsZXZlbCA8PSAwLjA6CiAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMikKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgaWYgcm5nLnJhbmRvbSgpIDwgMC4wNToKICAgICAgICAgICAgcGljayA9IHJuZy5jaG9pY2UoY2FuZCkKICAgICAgICBlbGlmIGRyaXZlID09ICJjdXJpb3NpdHkiOgogICAgICAgICAgICBwaWNrID0gbWF4KGNhbmQsIGtleT1sYW1iZGEgaTogbm92W2ldKQogICAgICAgIGVsaWYgZHJpdmUgPT0gImFudGkiOgogICAgICAgICAgICBwaWNrID0gbWluKGNhbmQsIGtleT1sYW1iZGEgaTogbm92W2ldKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHBpY2sgPSBybmcuY2hvaWNlKGNhbmQpCgogICAgICAgIHkgPSBjb250ZW50KG5vZGVzW3BpY2tdKQogICAgICAgIGlmIHkgaXMgTm9uZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzY2FubmVkLmFkZChwaWNrKQogICAgICAgIGFjdGlvbnMuYXBwZW5kKHsidGljayI6IHRpY2ssICJub2RlIjogbm9kZXNbcGlja10sCiAgICAgICAgICAgICAgICAgICAgICAgICJ0Ijogcm91bmQodGltZS50aW1lKCkgLSB0MCwgMyl9KQogICAgICAgIHJlY2VudF9nYWluID0gMC45ICogcmVjZW50X2dhaW4gKyAwLjEgKiBub3ZbcGlja10KICAgICAgICBnX3NlbGYgPSBtaW4oMS4wLCByZWNlbnRfZ2FpbiAvIDAuMykKICAgICAgICB0aW1lLnNsZWVwKDAuMDIpCgogICAgb3V0ID0geyJkcml2ZSI6IGRyaXZlLCAiZHVyYXRpb24iOiBkdXIsICJ0aWNrcyI6IHRpY2ssCiAgICAgICAgICAgIm5fYWN0aW9ucyI6IGxlbihhY3Rpb25zKSwKICAgICAgICAgICAic3BvbnRfcmF0ZSI6IGxlbihhY3Rpb25zKSAvIG1heCgxLCB0aWNrKSwKICAgICAgICAgICAiY292ZXJhZ2UiOiBsZW4oc2Nhbm5lZCkgLyBuLAogICAgICAgICAgICJ1bmlxdWVfbm9kZXMiOiBsZW4oc2Nhbm5lZCksCiAgICAgICAgICAgImFjdGlvbnMiOiBhY3Rpb25zWzoyMF19CiAgICB3aXRoIG9wZW4obG9nLCAidyIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKG91dCwgZiwgaW5kZW50PTIpCiAgICBwcmludChqc29uLmR1bXBzKHtrOiB2IGZvciBrLCB2IGluIG91dC5pdGVtcygpIGlmIGsgIT0gImFjdGlvbnMifSwKICAgICAgICAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlKSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp146 真装机验收：常驻蠕虫守护进程
+
+不接收任何外部指令。起进程后主循环只做一件事：
+  内部驱动过阈值 -> 自己决定去哪个真实目录 -> 真 listdir -> 记账
+
+验收：无指令期间自发动作数 > 0（对照 no_drive 必须 == 0）
+"""
+import os
+import sys
+import time
+import json
+import random
+import numpy as np
+
+BASE = "/data/workspace/luoshen-o1"
+HERE = os.path.dirname(os.path.abspath(__file__))
+TOPS = ["experiments", "overseas", "evidence", "paper", "core",
+        "eo_io", "docs", "tools", "fig"]
+
+
+def terrain():
+    """真实地形：目录节点 + 可观测线索(top one-hot + 深度)"""
+    nodes = []
+    for t in TOPS:
+        root = os.path.join(BASE, t)
+        if not os.path.isdir(root):
+            continue
+        got = 0
+        for dp, dn, fn in os.walk(root):
+            if not dn and not fn:
+                continue
+            nodes.append(dp)
+            got += 1
+            if got >= 10:
+                break
+    X = []
+    for p in nodes:
+        rel = os.path.relpath(p, BASE)
+        parts = rel.split(os.sep)
+        top = parts[0] if parts else ""
+        name = os.path.basename(p) or "."
+        X.append([1.0 if top == t else 0.0 for t in TOPS]
+                 + [float(len(parts)), len(rel) / 60.0,
+                    1.0 if any(c.isdigit() for c in name) else 0.0])
+    return nodes, np.array(X, float)
+
+
+def content(path):
+    try:
+        e = os.listdir(path)
+    except OSError:
+        return None
+    nf = nd = 0
+    ext = {}
+    for x in e:
+        p = os.path.join(path, x)
+        if os.path.isdir(p):
+            nd += 1
+        else:
+            nf += 1
+            k = os.path.splitext(x)[1].lower()
+            ext[k] = ext.get(k, 0) + 1
+    keys = [".py", ".md", ".json", ".png", ".txt", ".zip", ".sh", ".html"]
+    return [nf / 50.0, nd / 5.0] + [ext.get(k, 0) / 5.0 for k in keys] \
+        + [len(ext) / 8.0]
+
+
+def main():
+    drive = sys.argv[1] if len(sys.argv) > 1 else "curiosity"
+    dur = float(sys.argv[2]) if len(sys.argv) > 2 else 20.0
+    log = os.path.join(HERE, f"wormd_{drive}.json")
+
+    nodes, X = terrain()
+    keep = [i for i in range(X.shape[1]) if X[:, i].std() > 1e-9]
+    X = X[:, keep]
+    Xs = (X - X.mean(0)) / (X.std(0) + 1e-9)
+    n = len(nodes)
+
+    rng = random.Random(12345)
+    scanned = set()
+    actions = []
+    t0 = time.time()
+    tick = 0
+    g_self = 1.0
+    recent_gain = 0.0
+    Ybuf = []
+
+    while time.time() - t0 < dur:
+        tick += 1
+        cand = [i for i in range(n) if i not in scanned] or list(range(n))
+        if drive == "no_drive":
+            time.sleep(0.02)
+            continue
+
+        nov = {}
+        for i in cand:
+            if i in scanned:
+                nov[i] = 0.0
+            elif not scanned:
+                nov[i] = 1.0
+            else:
+                nov[i] = float(np.linalg.norm(
+                    Xs[list(scanned)] - Xs[i], axis=1).min())
+        level = sum(nov.values()) / len(nov) + 0.2 * (1.0 - g_self)
+        if level <= 0.0:
+            time.sleep(0.02)
+            continue
+
+        if rng.random() < 0.05:
+            pick = rng.choice(cand)
+        elif drive == "curiosity":
+            pick = max(cand, key=lambda i: nov[i])
+        elif drive == "anti":
+            pick = min(cand, key=lambda i: nov[i])
+        else:
+            pick = rng.choice(cand)
+
+        y = content(nodes[pick])
+        if y is None:
+            continue
+        scanned.add(pick)
+        actions.append({"tick": tick, "node": nodes[pick],
+                        "t": round(time.time() - t0, 3)})
+        recent_gain = 0.9 * recent_gain + 0.1 * nov[pick]
+        g_self = min(1.0, recent_gain / 0.3)
+        time.sleep(0.02)
+
+    out = {"drive": drive, "duration": dur, "ticks": tick,
+           "n_actions": len(actions),
+           "spont_rate": len(actions) / max(1, tick),
+           "coverage": len(scanned) / n,
+           "unique_nodes": len(scanned),
+           "actions": actions[:20]}
+    with open(log, "w") as f:
+        json.dump(out, f, indent=2)
+    print(json.dumps({k: v for k, v in out.items() if k != "actions"},
+                     ensure_ascii=False))
+
+
+if __name__ == "__main__":
+    main()

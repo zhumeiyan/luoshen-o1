@@ -1,1 +1,187 @@
-IyB1aS9wYXJhbWV0ZXJfYnJvd3Nlci5weQoKZnJvbSBQeVF0Ni5RdFdpZGdldHMgaW1wb3J0IChRV2lkZ2V0LCBRVkJveExheW91dCwgUUxpbmVFZGl0LCBRU2Nyb2xsQXJlYSwgUUZyYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIFFQdXNoQnV0dG9uLCBRSEJveExheW91dCwgUUxhYmVsLCBRQ2hlY2tCb3gsIFFDb21ib0JveCkKZnJvbSBQeVF0Ni5RdENvcmUgaW1wb3J0IFF0LCBweXF0U2lnbmFsCmZyb20gTGxhbWFjcHBfTW9kZWxfbGF1bmNoZXIucGFyYW1ldGVyc19kYiBpbXBvcnQgKExMQU1BX0NQUF9QQVJBTUVURVJTLCBOSU5GRVJfUEFSQU1FVEVSUywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU1RSQVRBX1BBUkFNRVRFUlMsIFNUUkFUQV9FTkdJTkVfQVJHUykKZnJvbSAuc3R5bGVzIGltcG9ydCBQQVJBTUVURVJfQlJPV1NFUl9TVFlMRVMKCgpjbGFzcyBQYXJhbWV0ZXJCcm93c2VyKFFXaWRnZXQpOgogICAgIiIiQSB3aWRnZXQgZm9yIGJyb3dzaW5nIGFuZCBhZGRpbmcgbGxhbWEuY3BwIHBhcmFtZXRlcnMuIiIiCiAgICAjIFNpZ25hbCBlbWl0cyB0aGUgcGFyYW1ldGVyIGRhdGEgKGRpY3QpIGFuZCB0aGUgaW5wdXQgd2lkZ2V0IGl0c2VsZgogICAgcGFyYW1ldGVyX2FkZF9yZXF1ZXN0ZWQgPSBweXF0U2lnbmFsKGRpY3QsIFFXaWRnZXQpCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBhcmVudD1Ob25lKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKHBhcmVudCkKICAgICAgICBzZWxmLmJyb3dzZXJfcGFyYW1fcm93cyA9IFtdCiAgICAgICAgc2VsZi5fc2V0dXBfdWkoKQoKICAgIGRlZiBfc2V0dXBfdWkoc2VsZik6CiAgICAgICAgc2VsZi5zZXRTdHlsZVNoZWV0KFBBUkFNRVRFUl9CUk9XU0VSX1NUWUxFU1sibWFpbl9iZyJdKQogICAgICAgIG1haW5fbGF5b3V0ID0gUVZCb3hMYXlvdXQoc2VsZikKICAgICAgICBtYWluX2xheW91dC5zZXRDb250ZW50c01hcmdpbnMoMTAsIDEwLCAxMCwgMTApCiAgICAgICAgbWFpbl9sYXlvdXQuc2V0U3BhY2luZygxMCkKCiAgICAgICAgc2VhcmNoX2JhciA9IFFMaW5lRWRpdCgpCiAgICAgICAgc2VhcmNoX2Jhci5zZXRQbGFjZWhvbGRlclRleHQoIlNlYXJjaCBmb3IgYSBwYXJhbWV0ZXIuLi4iKQogICAgICAgIHNlYXJjaF9iYXIuc2V0Q2xlYXJCdXR0b25FbmFibGVkKFRydWUpCiAgICAgICAgc2VhcmNoX2Jhci5zZXRTdHlsZVNoZWV0KFBBUkFNRVRFUl9CUk9XU0VSX1NUWUxFU1sic2VhcmNoX2JhciJdKQogICAgICAgIHNlYXJjaF9iYXIudGV4dENoYW5nZWQuY29ubmVjdChzZWxmLmZpbHRlcl9wYXJhbWV0ZXJzKQogICAgICAgIG1haW5fbGF5b3V0LmFkZFdpZGdldChzZWFyY2hfYmFyKQoKICAgICAgICBzY3JvbGxfYXJlYSA9IFFTY3JvbGxBcmVhKCkKICAgICAgICBzY3JvbGxfYXJlYS5zZXRXaWRnZXRSZXNpemFibGUoVHJ1ZSkKICAgICAgICBzY3JvbGxfYXJlYS5zZXRTdHlsZVNoZWV0KFBBUkFNRVRFUl9CUk9XU0VSX1NUWUxFU1sic2Nyb2xsX2FyZWEiXSkKICAgICAgICBtYWluX2xheW91dC5hZGRXaWRnZXQoc2Nyb2xsX2FyZWEpCgogICAgICAgIHNjcm9sbF9jb250ZW50ID0gUVdpZGdldCgpCiAgICAgICAgc2VsZi5icm93c2VyX2xheW91dCA9IFFWQm94TGF5b3V0KHNjcm9sbF9jb250ZW50KQogICAgICAgIHNlbGYuYnJvd3Nlcl9sYXlvdXQuc2V0QWxpZ25tZW50KFF0LkFsaWdubWVudEZsYWcuQWxpZ25Ub3ApCiAgICAgICAgc2VsZi5icm93c2VyX2xheW91dC5zZXRDb250ZW50c01hcmdpbnMoMCwgMCwgNSwgMCkKICAgICAgICBzZWxmLmJyb3dzZXJfbGF5b3V0LnNldFNwYWNpbmcoMCkKICAgICAgICBzY3JvbGxfYXJlYS5zZXRXaWRnZXQoc2Nyb2xsX2NvbnRlbnQpCgogICAgICAgIHNlbGYuYnJvd3Nlcl9wYXJhbV9yb3dzLmNsZWFyKCkKICAgICAgICBzZWxmLl9lbmdpbmVfbW9kZSA9ICdsbGFtYScgICMgRGVmYXVsdCB0byBMbGFtYS5jcHAgbW9kZQogICAgICAgIGZvciBncm91cCBpbiBMTEFNQV9DUFBfUEFSQU1FVEVSUzoKICAgICAgICAgICAgc2VsZi5fY3JlYXRlX2dyb3VwX2JveChncm91cCkKCiAgICBkZWYgc2V0X21vZGUoc2VsZiwgZW5naW5lKToKICAgICAgICAiIiJTd2l0Y2ggYmV0d2VlbiBMbGFtYS5jcHAsIE5JbmZlciBhbmQgU3RyYXRhIHBhcmFtZXRlciBzZXRzLgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBlbmdpbmU6ICdsbGFtYScsICduaW5mZXInIG9yICdzdHJhdGEnLiBBIGJvb2wgaXMgYWxzbyBhY2NlcHRlZAogICAgICAgICAgICBmb3IgYmFja3dhcmRzIGNvbXBhdGliaWxpdHkgKFRydWUgPSAnbmluZmVyJywgRmFsc2UgPSAnbGxhbWEnKS4KICAgICAgICAiIiIKICAgICAgICBpZiBpc2luc3RhbmNlKGVuZ2luZSwgYm9vbCk6CiAgICAgICAgICAgIGVuZ2luZSA9ICduaW5mZXInIGlmIGVuZ2luZSBlbHNlICdsbGFtYScKICAgICAgICBpZiBzZWxmLl9lbmdpbmVfbW9kZSA9PSBlbmdpbmU6CiAgICAgICAgICAgIHJldHVybiAgIyBObyBjaGFuZ2UgbmVlZGVkCgogICAgICAgIHNlbGYuX2VuZ2luZV9tb2RlID0gZW5naW5lCiAgICAgICAgc2VsZi5icm93c2VyX3BhcmFtX3Jvd3MuY2xlYXIoKQoKICAgICAgICAjIENsZWFyIGV4aXN0aW5nIGdyb3VwIGJveGVzCiAgICAgICAgd2hpbGUgc2VsZi5icm93c2VyX2xheW91dC5jb3VudCgpOgogICAgICAgICAgICBjaGlsZCA9IHNlbGYuYnJvd3Nlcl9sYXlvdXQudGFrZUF0KDApLndpZGdldCgpCiAgICAgICAgICAgIGlmIGNoaWxkOgogICAgICAgICAgICAgICAgY2hpbGQuZGVsZXRlTGF0ZXIoKQoKICAgICAgICAjIFBvcHVsYXRlIHdpdGggdGhlIGNvcnJlY3QgcGFyYW1ldGVyIHNldAogICAgICAgIGlmIGVuZ2luZSA9PSAnc3RyYXRhJzoKICAgICAgICAgICAgIyBzZXJ2ZS9zZXJ2ZXIucHkgZmxhZ3MgKyBzdHJhdGEuZXhlIGVuZ2luZSBhcmdzIChjb25maWcgSlNPTikKICAgICAgICAgICAgcGFyYW1zID0gU1RSQVRBX1BBUkFNRVRFUlMgKyBTVFJBVEFfRU5HSU5FX0FSR1MKICAgICAgICBlbGlmIGVuZ2luZSA9PSAnbmluZmVyJzoKICAgICAgICAgICAgcGFyYW1zID0gTklORkVSX1BBUkFNRVRFUlMKICAgICAgICBlbHNlOgogICAgICAgICAgICBwYXJhbXMgPSBMTEFNQV9DUFBfUEFSQU1FVEVSUwogICAgICAgIGZvciBncm91cCBpbiBwYXJhbXM6CiAgICAgICAgICAgIHNlbGYuX2NyZWF0ZV9ncm91cF9ib3goZ3JvdXApCgogICAgZGVmIF9jcmVhdGVfZ3JvdXBfYm94KHNlbGYsIGdyb3VwX2RhdGEpOgogICAgICAgIGdyb3VwX2JveCA9IFFGcmFtZSgpCiAgICAgICAgZ3JvdXBfYm94LnNldFN0eWxlU2hlZXQoUEFSQU1FVEVSX0JST1dTRVJfU1RZTEVTWyJncm91cF9ib3giXSkKICAgICAgICBncm91cF9sYXlvdXQgPSBRVkJveExheW91dChncm91cF9ib3gpCiAgICAgICAgZ3JvdXBfbGF5b3V0LnNldENvbnRlbnRzTWFyZ2lucygwLCAwLCAwLCAwKQogICAgICAgIGdyb3VwX2xheW91dC5zZXRTcGFjaW5nKDApCgogICAgICAgIGhlYWRlcl9idXR0b24gPSBRUHVzaEJ1dHRvbihmIuKWuiAge2dyb3VwX2RhdGFbJ25hbWUnXX0iKQogICAgICAgIGhlYWRlcl9idXR0b24uc2V0UHJvcGVydHkoImlzX2NvbGxhcHNpYmxlIiwgVHJ1ZSkKICAgICAgICBncm91cF9sYXlvdXQuYWRkV2lkZ2V0KGhlYWRlcl9idXR0b24pCgogICAgICAgIGNvbnRlbnRfd2lkZ2V0ID0gUVdpZGdldCgpCiAgICAgICAgY29udGVudF9sYXlvdXQgPSBRVkJveExheW91dChjb250ZW50X3dpZGdldCkKICAgICAgICBjb250ZW50X2xheW91dC5zZXRDb250ZW50c01hcmdpbnMoMCwgMCwgMCwgMCkKICAgICAgICBjb250ZW50X2xheW91dC5zZXRTcGFjaW5nKDApCgogICAgICAgIGZvciBwYXJhbSBpbiBncm91cF9kYXRhWydwYXJhbWV0ZXJzJ106CiAgICAgICAgICAgIHBhcmFtX2ZyYW1lID0gc2VsZi5fY3JlYXRlX3BhcmFtX3JvdyhwYXJhbSkKICAgICAgICAgICAgY29udGVudF9sYXlvdXQuYWRkV2lkZ2V0KHBhcmFtX2ZyYW1lKQogICAgICAgICAgICBzZWxmLmJyb3dzZXJfcGFyYW1fcm93cy5hcHBlbmQoeydmcmFtZSc6IHBhcmFtX2ZyYW1lLCAnZ3JvdXAnOiBncm91cF9ib3gsICdkYXRhJzogcGFyYW19KQoKICAgICAgICBjb250ZW50X3dpZGdldC5zZXRMYXlvdXQoY29udGVudF9sYXlvdXQpCiAgICAgICAgZ3JvdXBfbGF5b3V0LmFkZFdpZGdldChjb250ZW50X3dpZGdldCkKICAgICAgICBzZWxmLmJyb3dzZXJfbGF5b3V0LmFkZFdpZGdldChncm91cF9ib3gpCgogICAgICAgICMgQ29ubmVjdCBzaWduYWwgYWZ0ZXIgYWxsIGVsZW1lbnRzIGFyZSBjcmVhdGVkCiAgICAgICAgc3R5bGVfdGVtcGxhdGUgPSBQQVJBTUVURVJfQlJPV1NFUl9TVFlMRVNbImhlYWRlcl9idXR0b25fdGVtcGxhdGUiXQogICAgICAgIGhlYWRlcl9idXR0b24uY2xpY2tlZC5jb25uZWN0KAogICAgICAgICAgICBsYW1iZGEgY2hrPUZhbHNlLCB3PWNvbnRlbnRfd2lkZ2V0LCBiPWhlYWRlcl9idXR0b24sIHM9c3R5bGVfdGVtcGxhdGU6IHNlbGYudG9nZ2xlX2dyb3VwX2JveCh3LCBiLCBzKSkKCiAgICAgICAgY29udGVudF93aWRnZXQuc2V0VmlzaWJsZShGYWxzZSkKICAgICAgICBoZWFkZXJfYnV0dG9uLnNldFN0eWxlU2hlZXQoc3R5bGVfdGVtcGxhdGUuZm9ybWF0KHJhZGl1cz0iYm9yZGVyLXJhZGl1czogNHB4OyIpKQoKICAgIGRlZiBfY3JlYXRlX3BhcmFtX3JvdyhzZWxmLCBwYXJhbV9kYXRhKToKICAgICAgICBwYXJhbV9mcmFtZSA9IFFGcmFtZSgpCiAgICAgICAgcGFyYW1fZnJhbWUuc2V0U3R5bGVTaGVldChQQVJBTUVURVJfQlJPV1NFUl9TVFlMRVNbInBhcmFtX2ZyYW1lIl0pCiAgICAgICAgcGFyYW1fbGF5b3V0ID0gUUhCb3hMYXlvdXQocGFyYW1fZnJhbWUpCiAgICAgICAgcGFyYW1fbGF5b3V0LnNldFNwYWNpbmcoMTUpCgogICAgICAgICMgVGV4dCBwYXJ0CiAgICAgICAgdGV4dF93aWRnZXQgPSBRV2lkZ2V0KCkKICAgICAgICB0ZXh0X2xheW91dCA9IFFWQm94TGF5b3V0KHRleHRfd2lkZ2V0KQogICAgICAgIHRleHRfbGF5b3V0LnNldFNwYWNpbmcoNCkKICAgICAgICBuYW1lX2xhYmVsID0gUUxhYmVsKGYie3BhcmFtX2RhdGFbJ25hbWUnXX0gKHtwYXJhbV9kYXRhWydwcmVmaXgnXX0pIikKICAgICAgICBuYW1lX2xhYmVsLnNldFN0eWxlU2hlZXQoUEFSQU1FVEVSX0JST1dTRVJfU1RZTEVTWyJwYXJhbV9uYW1lX2xhYmVsIl0pCiAgICAgICAgZGVzY19sYWJlbCA9IFFMYWJlbChwYXJhbV9kYXRhWydkZXNjcmlwdGlvbiddKQogICAgICAgIGRlc2NfbGFiZWwuc2V0V29yZFdyYXAoVHJ1ZSkKICAgICAgICBkZXNjX2xhYmVsLnNldFN0eWxlU2hlZXQoUEFSQU1FVEVSX0JST1dTRVJfU1RZTEVTWyJwYXJhbV9kZXNjX2xhYmVsIl0pCiAgICAgICAgdGV4dF9sYXlvdXQuYWRkV2lkZ2V0KG5hbWVfbGFiZWwpCiAgICAgICAgdGV4dF9sYXlvdXQuYWRkV2lkZ2V0KGRlc2NfbGFiZWwpCiAgICAgICAgcGFyYW1fbGF5b3V0LmFkZFdpZGdldCh0ZXh0X3dpZGdldCwgMykKCiAgICAgICAgIyBJbnB1dCBwYXJ0CiAgICAgICAgaW5wdXRfd2lkZ2V0X2NvbnRhaW5lciA9IFFXaWRnZXQoKQogICAgICAgIGlucHV0X2xheW91dCA9IFFWQm94TGF5b3V0KGlucHV0X3dpZGdldF9jb250YWluZXIpCiAgICAgICAgaW5wdXRfbGF5b3V0LnNldFNwYWNpbmcoNSkKICAgICAgICBpbnB1dF9sYXlvdXQuc2V0QWxpZ25tZW50KFF0LkFsaWdubWVudEZsYWcuQWxpZ25DZW50ZXIpCgogICAgICAgIHBhcmFtX2lucHV0ID0gTm9uZQogICAgICAgIGlmIHBhcmFtX2RhdGFbJ3R5cGUnXSA9PSAnY2hlY2tib3gnOgogICAgICAgICAgICBwYXJhbV9pbnB1dCA9IFFDaGVja0JveCgpCiAgICAgICAgZWxpZiBwYXJhbV9kYXRhWyd0eXBlJ10gPT0gJ3NlbGVjdCc6CiAgICAgICAgICAgIHBhcmFtX2lucHV0ID0gUUNvbWJvQm94KCkKICAgICAgICAgICAgcGFyYW1faW5wdXQuYWRkSXRlbXMocGFyYW1fZGF0YVsnb3B0aW9ucyddKQogICAgICAgICAgICBwYXJhbV9pbnB1dC5zZXRTdHlsZVNoZWV0KFBBUkFNRVRFUl9CUk9XU0VSX1NUWUxFU1siY29tYm9fYm94Il0pCiAgICAgICAgICAgIHBhcmFtX2lucHV0LnNldE1pbmltdW1XaWR0aCgxMjApCiAgICAgICAgZWxzZTogICMgbnVtYmVyLCB0ZXh0CiAgICAgICAgICAgIHBhcmFtX2lucHV0ID0gUUxpbmVFZGl0KHN0cihwYXJhbV9kYXRhWydkZWZhdWx0J10pKQogICAgICAgICAgICBwYXJhbV9pbnB1dC5zZXRTdHlsZVNoZWV0KFBBUkFNRVRFUl9CUk9XU0VSX1NUWUxFU1sibGluZV9lZGl0Il0pCgogICAgICAgIGFkZF9idXR0b24gPSBRUHVzaEJ1dHRvbigiQWRkIikKICAgICAgICBhZGRfYnV0dG9uLnNldFN0eWxlU2hlZXQoUEFSQU1FVEVSX0JST1dTRVJfU1RZTEVTWyJhZGRfYnV0dG9uIl0pCiAgICAgICAgYWRkX2J1dHRvbi5jbGlja2VkLmNvbm5lY3QoCiAgICAgICAgICAgIGxhbWJkYSBjaGs9RmFsc2UsIHA9cGFyYW1fZGF0YSwgaW5wPXBhcmFtX2lucHV0OiBzZWxmLnBhcmFtZXRlcl9hZGRfcmVxdWVzdGVkLmVtaXQocCwgaW5wKSkKCiAgICAgICAgaW5wdXRfbGF5b3V0LmFkZFdpZGdldChwYXJhbV9pbnB1dCkKICAgICAgICBpbnB1dF9sYXlvdXQuYWRkV2lkZ2V0KGFkZF9idXR0b24pCiAgICAgICAgcGFyYW1fbGF5b3V0LmFkZFdpZGdldChpbnB1dF93aWRnZXRfY29udGFpbmVyLCAxKQoKICAgICAgICByZXR1cm4gcGFyYW1fZnJhbWUKCiAgICBkZWYgdG9nZ2xlX2dyb3VwX2JveChzZWxmLCB3aWRnZXQsIGJ1dHRvbiwgc3R5bGVfdGVtcGxhdGUpOgogICAgICAgIGlzX3Zpc2libGUgPSB3aWRnZXQuaXNWaXNpYmxlKCkKICAgICAgICB3aWRnZXQuc2V0VmlzaWJsZShub3QgaXNfdmlzaWJsZSkKICAgICAgICBpZiBpc192aXNpYmxlOgogICAgICAgICAgICBidXR0b24uc2V0VGV4dChidXR0b24udGV4dCgpLnJlcGxhY2UoIuKWvCIsICLilroiKSkKICAgICAgICAgICAgcmFkaXVzX3N0eWxlID0gImJvcmRlci1yYWRpdXM6IDRweDsiCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYnV0dG9uLnNldFRleHQoYnV0dG9uLnRleHQoKS5yZXBsYWNlKCLilroiLCAi4pa8IikpCiAgICAgICAgICAgIHJhZGl1c19zdHlsZSA9ICJib3JkZXItdG9wLWxlZnQtcmFkaXVzOiA0cHg7IGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiA0cHg7IgogICAgICAgIGJ1dHRvbi5zZXRTdHlsZVNoZWV0KHN0eWxlX3RlbXBsYXRlLmZvcm1hdChyYWRpdXM9cmFkaXVzX3N0eWxlKSkKCiAgICBkZWYgZmlsdGVyX3BhcmFtZXRlcnMoc2VsZiwgdGV4dCk6CiAgICAgICAgc2VhcmNoX3Rlcm0gPSB0ZXh0Lmxvd2VyKCkuc3RyaXAoKQogICAgICAgIHZpc2libGVfZ3JvdXBzID0gc2V0KCkKICAgICAgICBmb3Igcm93IGluIHNlbGYuYnJvd3Nlcl9wYXJhbV9yb3dzOgogICAgICAgICAgICBpc19tYXRjaCA9IChzZWFyY2hfdGVybSBpbiByb3dbJ2RhdGEnXVsnbmFtZSddLmxvd2VyKCkgb3IKICAgICAgICAgICAgICAgICAgICAgICAgc2VhcmNoX3Rlcm0gaW4gcm93WydkYXRhJ11bJ2Rlc2NyaXB0aW9uJ10ubG93ZXIoKSBvcgogICAgICAgICAgICAgICAgICAgICAgICBzZWFyY2hfdGVybSBpbiByb3dbJ2RhdGEnXVsncHJlZml4J10ubG93ZXIoKSkKICAgICAgICAgICAgcm93WydmcmFtZSddLnNldFZpc2libGUoaXNfbWF0Y2gpCiAgICAgICAgICAgIGlmIGlzX21hdGNoOgogICAgICAgICAgICAgICAgdmlzaWJsZV9ncm91cHMuYWRkKHJvd1snZ3JvdXAnXSkKCiAgICAgICAgZm9yIHJvdyBpbiBzZWxmLmJyb3dzZXJfcGFyYW1fcm93czoKICAgICAgICAgICAgcm93Wydncm91cCddLnNldFZpc2libGUocm93Wydncm91cCddIGluIHZpc2libGVfZ3JvdXBzKQ==
+# ui/parameter_browser.py
+
+from PyQt6.QtWidgets import (QWidget, QVBoxLayout, QLineEdit, QScrollArea, QFrame,
+                             QPushButton, QHBoxLayout, QLabel, QCheckBox, QComboBox)
+from PyQt6.QtCore import Qt, pyqtSignal
+from Llamacpp_Model_launcher.parameters_db import (LLAMA_CPP_PARAMETERS, NINFER_PARAMETERS,
+                                                   STRATA_PARAMETERS, STRATA_ENGINE_ARGS)
+from .styles import PARAMETER_BROWSER_STYLES
+
+
+class ParameterBrowser(QWidget):
+    """A widget for browsing and adding llama.cpp parameters."""
+    # Signal emits the parameter data (dict) and the input widget itself
+    parameter_add_requested = pyqtSignal(dict, QWidget)
+
+    def __init__(self, parent=None):
+        super().__init__(parent)
+        self.browser_param_rows = []
+        self._setup_ui()
+
+    def _setup_ui(self):
+        self.setStyleSheet(PARAMETER_BROWSER_STYLES["main_bg"])
+        main_layout = QVBoxLayout(self)
+        main_layout.setContentsMargins(10, 10, 10, 10)
+        main_layout.setSpacing(10)
+
+        search_bar = QLineEdit()
+        search_bar.setPlaceholderText("Search for a parameter...")
+        search_bar.setClearButtonEnabled(True)
+        search_bar.setStyleSheet(PARAMETER_BROWSER_STYLES["search_bar"])
+        search_bar.textChanged.connect(self.filter_parameters)
+        main_layout.addWidget(search_bar)
+
+        scroll_area = QScrollArea()
+        scroll_area.setWidgetResizable(True)
+        scroll_area.setStyleSheet(PARAMETER_BROWSER_STYLES["scroll_area"])
+        main_layout.addWidget(scroll_area)
+
+        scroll_content = QWidget()
+        self.browser_layout = QVBoxLayout(scroll_content)
+        self.browser_layout.setAlignment(Qt.AlignmentFlag.AlignTop)
+        self.browser_layout.setContentsMargins(0, 0, 5, 0)
+        self.browser_layout.setSpacing(0)
+        scroll_area.setWidget(scroll_content)
+
+        self.browser_param_rows.clear()
+        self._engine_mode = 'llama'  # Default to Llama.cpp mode
+        for group in LLAMA_CPP_PARAMETERS:
+            self._create_group_box(group)
+
+    def set_mode(self, engine):
+        """Switch between Llama.cpp, NInfer and Strata parameter sets.
+
+        Args:
+            engine: 'llama', 'ninfer' or 'strata'. A bool is also accepted
+            for backwards compatibility (True = 'ninfer', False = 'llama').
+        """
+        if isinstance(engine, bool):
+            engine = 'ninfer' if engine else 'llama'
+        if self._engine_mode == engine:
+            return  # No change needed
+
+        self._engine_mode = engine
+        self.browser_param_rows.clear()
+
+        # Clear existing group boxes
+        while self.browser_layout.count():
+            child = self.browser_layout.takeAt(0).widget()
+            if child:
+                child.deleteLater()
+
+        # Populate with the correct parameter set
+        if engine == 'strata':
+            # serve/server.py flags + strata.exe engine args (config JSON)
+            params = STRATA_PARAMETERS + STRATA_ENGINE_ARGS
+        elif engine == 'ninfer':
+            params = NINFER_PARAMETERS
+        else:
+            params = LLAMA_CPP_PARAMETERS
+        for group in params:
+            self._create_group_box(group)
+
+    def _create_group_box(self, group_data):
+        group_box = QFrame()
+        group_box.setStyleSheet(PARAMETER_BROWSER_STYLES["group_box"])
+        group_layout = QVBoxLayout(group_box)
+        group_layout.setContentsMargins(0, 0, 0, 0)
+        group_layout.setSpacing(0)
+
+        header_button = QPushButton(f"►  {group_data['name']}")
+        header_button.setProperty("is_collapsible", True)
+        group_layout.addWidget(header_button)
+
+        content_widget = QWidget()
+        content_layout = QVBoxLayout(content_widget)
+        content_layout.setContentsMargins(0, 0, 0, 0)
+        content_layout.setSpacing(0)
+
+        for param in group_data['parameters']:
+            param_frame = self._create_param_row(param)
+            content_layout.addWidget(param_frame)
+            self.browser_param_rows.append({'frame': param_frame, 'group': group_box, 'data': param})
+
+        content_widget.setLayout(content_layout)
+        group_layout.addWidget(content_widget)
+        self.browser_layout.addWidget(group_box)
+
+        # Connect signal after all elements are created
+        style_template = PARAMETER_BROWSER_STYLES["header_button_template"]
+        header_button.clicked.connect(
+            lambda chk=False, w=content_widget, b=header_button, s=style_template: self.toggle_group_box(w, b, s))
+
+        content_widget.setVisible(False)
+        header_button.setStyleSheet(style_template.format(radius="border-radius: 4px;"))
+
+    def _create_param_row(self, param_data):
+        param_frame = QFrame()
+        param_frame.setStyleSheet(PARAMETER_BROWSER_STYLES["param_frame"])
+        param_layout = QHBoxLayout(param_frame)
+        param_layout.setSpacing(15)
+
+        # Text part
+        text_widget = QWidget()
+        text_layout = QVBoxLayout(text_widget)
+        text_layout.setSpacing(4)
+        name_label = QLabel(f"{param_data['name']} ({param_data['prefix']})")
+        name_label.setStyleSheet(PARAMETER_BROWSER_STYLES["param_name_label"])
+        desc_label = QLabel(param_data['description'])
+        desc_label.setWordWrap(True)
+        desc_label.setStyleSheet(PARAMETER_BROWSER_STYLES["param_desc_label"])
+        text_layout.addWidget(name_label)
+        text_layout.addWidget(desc_label)
+        param_layout.addWidget(text_widget, 3)
+
+        # Input part
+        input_widget_container = QWidget()
+        input_layout = QVBoxLayout(input_widget_container)
+        input_layout.setSpacing(5)
+        input_layout.setAlignment(Qt.AlignmentFlag.AlignCenter)
+
+        param_input = None
+        if param_data['type'] == 'checkbox':
+            param_input = QCheckBox()
+        elif param_data['type'] == 'select':
+            param_input = QComboBox()
+            param_input.addItems(param_data['options'])
+            param_input.setStyleSheet(PARAMETER_BROWSER_STYLES["combo_box"])
+            param_input.setMinimumWidth(120)
+        else:  # number, text
+            param_input = QLineEdit(str(param_data['default']))
+            param_input.setStyleSheet(PARAMETER_BROWSER_STYLES["line_edit"])
+
+        add_button = QPushButton("Add")
+        add_button.setStyleSheet(PARAMETER_BROWSER_STYLES["add_button"])
+        add_button.clicked.connect(
+            lambda chk=False, p=param_data, inp=param_input: self.parameter_add_requested.emit(p, inp))
+
+        input_layout.addWidget(param_input)
+        input_layout.addWidget(add_button)
+        param_layout.addWidget(input_widget_container, 1)
+
+        return param_frame
+
+    def toggle_group_box(self, widget, button, style_template):
+        is_visible = widget.isVisible()
+        widget.setVisible(not is_visible)
+        if is_visible:
+            button.setText(button.text().replace("▼", "►"))
+            radius_style = "border-radius: 4px;"
+        else:
+            button.setText(button.text().replace("►", "▼"))
+            radius_style = "border-top-left-radius: 4px; border-top-right-radius: 4px;"
+        button.setStyleSheet(style_template.format(radius=radius_style))
+
+    def filter_parameters(self, text):
+        search_term = text.lower().strip()
+        visible_groups = set()
+        for row in self.browser_param_rows:
+            is_match = (search_term in row['data']['name'].lower() or
+                        search_term in row['data']['description'].lower() or
+                        search_term in row['data']['prefix'].lower())
+            row['frame'].setVisible(is_match)
+            if is_match:
+                visible_groups.add(row['group'])
+
+        for row in self.browser_param_rows:
+            row['group'].setVisible(row['group'] in visible_groups)

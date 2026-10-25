@@ -1,1 +1,61 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi6YCQ5p2h54us56uL5pWI5bqU77ya5q+P5qyh5Y+q5pS55YaZIDEg5p2h77yM5YW25L2ZIDI4IOadoeWOn+aWh+OAgiIiIgppbXBvcnQganNvbiwgb3MsIHN1YnByb2Nlc3MsIHN5cywgc2h1dGlsLCByZSwgdGltZQpmcm9tIHBhcmFwaHJhc2UgaW1wb3J0IFAKCmJhc2UgPSBqc29uLmxvYWQob3BlbigiY2FsaWJyYXRpb25fY2FzZXMuanNvbiIsIGVuY29kaW5nPSJ1dGYtOCIpKQpjYXNlcyA9IGJhc2VbImNhc2VzIl0KSURTID0gW2NbImlkIl0gZm9yIGMgaW4gY2FzZXNdCgpkZWYgcnVuX3dpdGgodG0sIHRyaWVzPTMpOgogICAgZm9yIGF0dGVtcHQgaW4gcmFuZ2UodHJpZXMpOgogICAgICAgIGQgPSBqc29uLmxvYWRzKGpzb24uZHVtcHMoYmFzZSkpCiAgICAgICAgZm9yIGMgaW4gZFsiY2FzZXMiXToKICAgICAgICAgICAgaWYgY1siaWQiXSBpbiB0bToKICAgICAgICAgICAgICAgIGNbInBoZW5vbWVub24iXSA9IHRtW2NbImlkIl1dCiAgICAgICAgcCA9ICJfdG1wX29uZSIKICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmpvaW4ocCwgImRhdGEiKSwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICBzaHV0aWwuY29weSgiZW5naW5lL3RhY3RfcnVuLnB5IiwgcCkKICAgICAgICBzaHV0aWwuY29weSgiZW5naW5lL2RhdGEvY29vcmRpbmF0ZV9kYXRhLmpzb24iLCBvcy5wYXRoLmpvaW4ocCwgImRhdGEiKSkKICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKHAsICJkYXRhIiwgImNhbGlicmF0aW9uX2Nhc2VzLmpzb24iKSwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICBqc29uLmR1bXAoZCwgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKICAgICAgICByID0gc3VicHJvY2Vzcy5ydW4oW3N5cy5leGVjdXRhYmxlLCAidGFjdF9ydW4ucHkiLCAiLS1jYWxpYnJhdGlvbiJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICBjd2Q9cCwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlKQogICAgICAgIHJvd3MgPSB7fQogICAgICAgIGZvciBsaW5lIGluIHIuc3Rkb3V0LnNwbGl0bGluZXMoKToKICAgICAgICAgICAgbSA9IHJlLm1hdGNoKHInXihDQUwtXGQrKVxzKyhcUyspXHMrKFxTKylccysoT0t8filccyokJywgbGluZS5zdHJpcCgpKQogICAgICAgICAgICBpZiBtOgogICAgICAgICAgICAgICAgcm93c1ttLmdyb3VwKDEpXSA9IG0uZ3JvdXAoNCkKICAgICAgICBpZiBsZW4ocm93cykgPT0gbGVuKElEUyk6CiAgICAgICAgICAgIHJldHVybiByb3dzCiAgICAgICAgdGltZS5zbGVlcCgwLjIpCiAgICByYWlzZSBSdW50aW1lRXJyb3IoZiLop6PmnpDkuI3lrozmlbQ6IHtsZW4ocm93cyl9L3tsZW4oSURTKX0gaWQ9e3RtfSIpCgpvcmlnID0gcnVuX3dpdGgoe30pCnByaW50KCLljp/mlofln7rlh4bkuInovbTlrozlhajljLnphY06Iiwgc3VtKDEgZm9yIHYgaW4gb3JpZy52YWx1ZXMoKSBpZiB2ID09ICJPSyIpLCAiLyIsIGxlbihvcmlnKSkKCnJvd3Nfb3V0LCBmbGlwcyA9IFtdLCAwCmZvciBjIGluIGNhc2VzOgogICAgY2lkID0gY1siaWQiXQogICAgb25lID0gcnVuX3dpdGgoe2NpZDogUFtjaWRdfSkKICAgIGJlZm9yZSwgYWZ0ZXIgPSBvcmlnW2NpZF0sIG9uZVtjaWRdCiAgICBnZSA9IChjWyJnb2xkZW4iXSA9PSB7IkwiOiBbXSwgIk0iOiBbXSwgIlAiOiBbXX0pCiAgICBpZiBiZWZvcmUgPT0gIk9LIiBhbmQgYWZ0ZXIgIT0gIk9LIjoKICAgICAgICBmbGlwcyArPSAxCiAgICByb3dzX291dC5hcHBlbmQoeyJpZCI6IGNpZCwgImdvbGRlbl9lbXB0eSI6IGdlLCAiYmVmb3JlIjogYmVmb3JlLAogICAgICAgICAgICAgICAgICAgICAiYWZ0ZXIiOiBhZnRlciwgImZsaXBwZWQiOiAoYmVmb3JlID09ICJPSyIgYW5kIGFmdGVyICE9ICJPSyIpfSkKCnByaW50KCJcbumAkOadoeeLrOeri+aViOW6lO+8iOavj+asoeWPquaUueWGmei/meS4gOadoe+8jOWFtuS9mSAyOCDmnaHljp/mlofvvIkiKQpwcmludChmInsnSUQnOjw5fXsnZ29sZGVu56m6Jzo8MTB9eyfljp/mlocnOjw3fXsn5pS55YaZ5ZCOJzo8OH17J+e/u+i9rCd9IikKZm9yIHIgaW4gcm93c19vdXQ6CiAgICBwcmludChmIntyWydpZCddOjw5fXtzdHIoclsnZ29sZGVuX2VtcHR5J10pOjwxMH17clsnYmVmb3JlJ106PDd9e3JbJ2FmdGVyJ106PDh9eyfimIUnIGlmIHJbJ2ZsaXBwZWQnXSBlbHNlICcnfSIpCgpva19iID0gc3VtKDEgZm9yIHIgaW4gcm93c19vdXQgaWYgclsiYmVmb3JlIl0gPT0gIk9LIikKb2tfYSA9IHN1bSgxIGZvciByIGluIHJvd3Nfb3V0IGlmIHJbImFmdGVyIl0gPT0gIk9LIikKbmVfYiA9IHN1bSgxIGZvciByIGluIHJvd3Nfb3V0IGlmIG5vdCByWyJnb2xkZW5fZW1wdHkiXSBhbmQgclsiYmVmb3JlIl0gPT0gIk9LIikKbmVfYSA9IHN1bSgxIGZvciByIGluIHJvd3Nfb3V0IGlmIG5vdCByWyJnb2xkZW5fZW1wdHkiXSBhbmQgclsiYWZ0ZXIiXSA9PSAiT0siKQpwcmludChmIlxu5Y6f5pysIE9LICAgICAgICAgICAgICA6IHtva19ifS8yOSIpCnByaW50KGYi5LuF5pS56K+l5p2h5ZCO5LuNIE9LICAgICAgOiB7b2tfYX0vMjkgICAtPiDnv7vovawge2ZsaXBzfSDmnaEiKQpwcmludChmIuWJlOmZpCBnb2xkZW4g5YWo56m6IDIg5p2hOiB7bmVfYn0vMjcgPSB7bmVfYi8yNzouNGZ9ICAtPiAge25lX2F9LzI3ID0ge25lX2EvMjc6LjRmfSIpCmpzb24uZHVtcCh7Im9yaWciOiBvcmlnLCAicm93cyI6IHJvd3Nfb3V0fSwgb3BlbigicmVzdWx0XzA3MGIuanNvbiIsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IiksCiAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+# -*- coding: utf-8 -*-
+"""逐条独立效应：每次只改写 1 条，其余 28 条原文。"""
+import json, os, subprocess, sys, shutil, re, time
+from paraphrase import P
+
+base = json.load(open("calibration_cases.json", encoding="utf-8"))
+cases = base["cases"]
+IDS = [c["id"] for c in cases]
+
+def run_with(tm, tries=3):
+    for attempt in range(tries):
+        d = json.loads(json.dumps(base))
+        for c in d["cases"]:
+            if c["id"] in tm:
+                c["phenomenon"] = tm[c["id"]]
+        p = "_tmp_one"
+        os.makedirs(os.path.join(p, "data"), exist_ok=True)
+        shutil.copy("engine/tact_run.py", p)
+        shutil.copy("engine/data/coordinate_data.json", os.path.join(p, "data"))
+        with open(os.path.join(p, "data", "calibration_cases.json"), "w", encoding="utf-8") as f:
+            json.dump(d, f, ensure_ascii=False, indent=1)
+        r = subprocess.run([sys.executable, "tact_run.py", "--calibration"],
+                           cwd=p, capture_output=True, text=True)
+        rows = {}
+        for line in r.stdout.splitlines():
+            m = re.match(r'^(CAL-\d+)\s+(\S+)\s+(\S+)\s+(OK|~)\s*$', line.strip())
+            if m:
+                rows[m.group(1)] = m.group(4)
+        if len(rows) == len(IDS):
+            return rows
+        time.sleep(0.2)
+    raise RuntimeError(f"解析不完整: {len(rows)}/{len(IDS)} id={tm}")
+
+orig = run_with({})
+print("原文基准三轴完全匹配:", sum(1 for v in orig.values() if v == "OK"), "/", len(orig))
+
+rows_out, flips = [], 0
+for c in cases:
+    cid = c["id"]
+    one = run_with({cid: P[cid]})
+    before, after = orig[cid], one[cid]
+    ge = (c["golden"] == {"L": [], "M": [], "P": []})
+    if before == "OK" and after != "OK":
+        flips += 1
+    rows_out.append({"id": cid, "golden_empty": ge, "before": before,
+                     "after": after, "flipped": (before == "OK" and after != "OK")})
+
+print("\n逐条独立效应（每次只改写这一条，其余 28 条原文）")
+print(f"{'ID':<9}{'golden空':<10}{'原文':<7}{'改写后':<8}{'翻转'}")
+for r in rows_out:
+    print(f"{r['id']:<9}{str(r['golden_empty']):<10}{r['before']:<7}{r['after']:<8}{'★' if r['flipped'] else ''}")
+
+ok_b = sum(1 for r in rows_out if r["before"] == "OK")
+ok_a = sum(1 for r in rows_out if r["after"] == "OK")
+ne_b = sum(1 for r in rows_out if not r["golden_empty"] and r["before"] == "OK")
+ne_a = sum(1 for r in rows_out if not r["golden_empty"] and r["after"] == "OK")
+print(f"\n原本 OK              : {ok_b}/29")
+print(f"仅改该条后仍 OK      : {ok_a}/29   -> 翻转 {flips} 条")
+print(f"剔除 golden 全空 2 条: {ne_b}/27 = {ne_b/27:.4f}  ->  {ne_a}/27 = {ne_a/27:.4f}")
+json.dump({"orig": orig, "rows": rows_out}, open("result_070b.json", "w", encoding="utf-8"),
+          ensure_ascii=False, indent=1)

@@ -1,1 +1,76 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK55yf5a6e6aqM6K+BICM377ya5Luj56CB5omn6KGMIC8g5rKZ55uS44CCCgrmnIDljbHpmannmoTkuI3mmK8i6LeR5LiN5LqGIu+8jOaYr+OAkOi3keWksei0peS6huS9huayoeiiq+WPkeeOsOOAke+8mgogIOWRveS7pOi/lOWbnumdniAwIOKGkiBhZ2VudCDmsqHmo4Dmn6XpgIDlh7rnoIEg4oaSIOaLv+edgOepuue7k+aenOe7p+e7reW+gOS4i+e8luOAggoK5omA5Lul5pys5a6e6aqM55qE5Yik5o2u5LiN5pivIuiDveS4jeiDvei3kSLvvIzmmK/kuInku7bkuovvvJoKICDikaAg55yf5omn6KGMIOKAlOKAlCDlrZDov5vnqIvnnJ/nmoTot5HkuobvvIzmi7/liLDovpPlh7oKICDikaEg5Y+v5aSN546wIOKAlOKAlCDlkIzkuIDkuKrnoa7lrprmgKfku7vliqHot5HkuKTmrKHvvIznu5PmnpzpgJDlrZfoioLkuIDoh7QKICDikaIg4piFIOWksei0peWPr+ingSDigJTigJQg5pWF5oSP6LeR5LiA5Liq5b+F5aSx6LSl55qE5ZG95Luk77yM6aqM6K+B6YCA5Ye656CB6KKr5o2V6I63CiAgICAgICAgICAgICAgICAgIO+8iOi/meS4gOadoeacgOWFs+mUru+8mumdmem7mOWksei0peaYryBhZ2VudCDmnIDlpKfnmoTosI7vvIkKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uLCBzdWJwcm9jZXNzLCBoYXNobGliCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKCmRlZiBydW4oY21kLCAqKmt3KToKICAgIHAgPSBzdWJwcm9jZXNzLnJ1bihjbWQsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgdGltZW91dD05MCwgKiprdykKICAgIHJldHVybiBwLnJldHVybmNvZGUsIHAuc3Rkb3V0LCBwLnN0ZGVycgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDcyKQogICAgcHJpbnQoIiDnnJ/lrp7pqozor4EgIzcgwrcg5Luj56CB5omn6KGMIC8g5rKZ55uSIikKICAgIHByaW50KCI9IiAqIDcyKQoKICAgIG9rID0ge30KCiAgICAjIOKRoCDnnJ/miafooYwKICAgIHByaW50KGYiXG5bMV0g55yf5omn6KGM5LiA5Liq56Gu5a6a5oCn6K6h566XIikKICAgIGNvZGUgPSAicHJpbnQoc3VtKGkqaSBmb3IgaSBpbiByYW5nZSgxMDAwMCkpKSIKICAgIHJjLCBvdXQsIGVyciA9IHJ1bihbc3lzLmV4ZWN1dGFibGUsICItYyIsIGNvZGVdKQogICAgdmFsID0gb3V0LnN0cmlwKCkKICAgIHByaW50KGYiICAgIOmAgOWHuueggSB7cmN9ICDnu5Pmnpwge3ZhbH0iKQogICAgb2tbIuKRoCDnnJ/miafooYwiXSA9IHJjID09IDAgYW5kIHZhbC5pc2RpZ2l0KCkKCiAgICAjIOKRoSDlj6/lpI3njrDvvJrot5HkuKTmrKHpgJDlrZfoioLkuIDoh7QKICAgIHByaW50KGYiXG5bMl0g5Y+v5aSN546w5oCn77yI5ZCM5LiA5Liq5Lu75Yqh6LeRIDMg5qyh77yM5q+U5a+55ZOI5biM77yJIikKICAgIGhhc2hlcyA9IFtdCiAgICBmb3IgaSBpbiByYW5nZSgzKToKICAgICAgICByYywgb3V0LCBlcnIgPSBydW4oW3N5cy5leGVjdXRhYmxlLCAiLWMiLCBjb2RlXSkKICAgICAgICBoID0gaGFzaGxpYi5zaGEyNTYob3V0LmVuY29kZSgpKS5oZXhkaWdlc3QoKVs6MTZdCiAgICAgICAgaGFzaGVzLmFwcGVuZChoKQogICAgICAgIHByaW50KGYiICAgIOesrCB7aSsxfSDmrKEgIHtofSAg5YC8IHtvdXQuc3RyaXAoKX0iKQogICAgb2tbIuKRoSDlj6/lpI3njrAoM+asoeWTiOW4jOS4gOiHtCkiXSA9IGxlbihzZXQoaGFzaGVzKSkgPT0gMQoKICAgICMg4pGiIOKYhSDlpLHotKXlj6/op4EKICAgIHByaW50KGYiXG5bM10g4piFIOWksei0peWPr+ingSDigJTigJQg5pWF5oSP6LeR5LiA5Liq5b+F5aSx6LSl55qE5ZG95LukIikKICAgIHJjLCBvdXQsIGVyciA9IHJ1bihbc3lzLmV4ZWN1dGFibGUsICItYyIsICJpbXBvcnQgc3lzOyBzeXMuZXhpdCgzKSJdKQogICAgY2F1Z2h0ID0gcmMgIT0gMAogICAgcHJpbnQoZiIgICAg6YCA5Ye656CBIHtyY30gIHsn4pyFIOiiq+aNleiOtycgaWYgY2F1Z2h0IGVsc2UgJ+KdjCDpnZnpu5jkuoYnfSIpCiAgICBva1si4pGiIOWksei0peiiq+aNleiOtyjpnZ4w6YCA5Ye656CBKSJdID0gY2F1Z2h0CgogICAgIyDikaMg6K+t5rOV6ZSZ6K+v5Lmf6KaB6KKr5oqTCiAgICBwcmludChmIlxuWzRdIOivreazlemUmeivr+S5n+imgeiiq+aKkyIpCiAgICByYywgb3V0LCBlcnIgPSBydW4oW3N5cy5leGVjdXRhYmxlLCAiLWMiLCAiZGVmICg6Il0pCiAgICBwcmludChmIiAgICDpgIDlh7rnoIEge3JjfSAgc3RkZXJyIOaciSBTeW50YXhFcnJvcjogeydTeW50YXhFcnJvcicgaW4gZXJyfSIpCiAgICBva1si4pGjIOivreazlemUmeivr+iiq+aKkyJdID0gcmMgIT0gMCBhbmQgIlN5bnRheEVycm9yIiBpbiBlcnIKCiAgICAjIOKRpCDmiafooYzmtJvnpZ7oh6rlt7HnmoTkuJzopb8g4oCU4oCUIOWcqOaymeebkumHjOecn+i3kQogICAgcHJpbnQoZiJcbls1XSDlnKjmspnnm5Lph4znnJ/ot5HmtJvnpZ7nmoTmqKHlnZciKQogICAgcmMsIG91dCwgZXJyID0gcnVuKFtzeXMuZXhlY3V0YWJsZSwgIi1jIiwKICAgICAgICAiaW1wb3J0IHN5czsgc3lzLnBhdGguaW5zZXJ0KDAsICVyKVxuIgogICAgICAgICJmcm9tIHRvb2xzLmNvbnRleHRfY29tcHJlc3MgaW1wb3J0IGNvbXByZXNzXG4iCiAgICAgICAgInIgPSBjb21wcmVzcyhbeydsYXllcic6J3N5c3RlbScsJ3RleHQnOifliKTmja7moLggIzg1NCd9XSlcbiIKICAgICAgICAicHJpbnQoJ09LJywgclsna2VwdCddWzBdWyd0ZXh0J10pIiAlIEhFUkVdKQogICAgcHJpbnQoZiIgICAg6YCA5Ye656CBIHtyY30gIOi+k+WHuiB7KG91dCBvciBlcnIpLnN0cmlwKClbOjcwXX0iKQogICAgb2tbIuKRpCDmtJvnpZ7mqKHlnZflnKjmspnnm5Llj6/miafooYwiXSA9IHJjID09IDAgYW5kICJPSyIgaW4gb3V0CgogICAgcHJpbnQoZiJcbiIgKyAiPSIgKiA3MikKICAgIGZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiB2IGVsc2UgJ+KdjCd9IHtrfSIpCiAgICBwcmludChmIlxu6YCa6L+HIHtzdW0ob2sudmFsdWVzKCkpfS97bGVuKG9rKX0iKQogICAganNvbi5kdW1wKHsib2siOiBvaywgImhhc2hlcyI6IGhhc2hlc30sCiAgICAgICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZW5zZSIsICJzYW5kYm94X2V4ZWMuanNvbiIpLCAidyIpLAogICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+"""
+真实验证 #7：代码执行 / 沙盒。
+
+最危险的不是"跑不了"，是【跑失败了但没被发现】：
+  命令返回非 0 → agent 没检查退出码 → 拿着空结果继续往下编。
+
+所以本实验的判据不是"能不能跑"，是三件事：
+  ① 真执行 —— 子进程真的跑了，拿到输出
+  ② 可复现 —— 同一个确定性任务跑两次，结果逐字节一致
+  ③ ★ 失败可见 —— 故意跑一个必失败的命令，验证退出码被捕获
+                  （这一条最关键：静默失败是 agent 最大的谎）
+"""
+import os, sys, json, subprocess, hashlib
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+def run(cmd, **kw):
+    p = subprocess.run(cmd, capture_output=True, text=True, timeout=90, **kw)
+    return p.returncode, p.stdout, p.stderr
+
+if __name__ == "__main__":
+    print("=" * 72)
+    print(" 真实验证 #7 · 代码执行 / 沙盒")
+    print("=" * 72)
+
+    ok = {}
+
+    # ① 真执行
+    print(f"\n[1] 真执行一个确定性计算")
+    code = "print(sum(i*i for i in range(10000)))"
+    rc, out, err = run([sys.executable, "-c", code])
+    val = out.strip()
+    print(f"    退出码 {rc}  结果 {val}")
+    ok["① 真执行"] = rc == 0 and val.isdigit()
+
+    # ② 可复现：跑两次逐字节一致
+    print(f"\n[2] 可复现性（同一个任务跑 3 次，比对哈希）")
+    hashes = []
+    for i in range(3):
+        rc, out, err = run([sys.executable, "-c", code])
+        h = hashlib.sha256(out.encode()).hexdigest()[:16]
+        hashes.append(h)
+        print(f"    第 {i+1} 次  {h}  值 {out.strip()}")
+    ok["② 可复现(3次哈希一致)"] = len(set(hashes)) == 1
+
+    # ③ ★ 失败可见
+    print(f"\n[3] ★ 失败可见 —— 故意跑一个必失败的命令")
+    rc, out, err = run([sys.executable, "-c", "import sys; sys.exit(3)"])
+    caught = rc != 0
+    print(f"    退出码 {rc}  {'✅ 被捕获' if caught else '❌ 静默了'}")
+    ok["③ 失败被捕获(非0退出码)"] = caught
+
+    # ④ 语法错误也要被抓
+    print(f"\n[4] 语法错误也要被抓")
+    rc, out, err = run([sys.executable, "-c", "def (:"])
+    print(f"    退出码 {rc}  stderr 有 SyntaxError: {'SyntaxError' in err}")
+    ok["④ 语法错误被抓"] = rc != 0 and "SyntaxError" in err
+
+    # ⑤ 执行洛神自己的东西 —— 在沙盒里真跑
+    print(f"\n[5] 在沙盒里真跑洛神的模块")
+    rc, out, err = run([sys.executable, "-c",
+        "import sys; sys.path.insert(0, %r)\n"
+        "from tools.context_compress import compress\n"
+        "r = compress([{'layer':'system','text':'判据核 #854'}])\n"
+        "print('OK', r['kept'][0]['text'])" % HERE])
+    print(f"    退出码 {rc}  输出 {(out or err).strip()[:70]}")
+    ok["⑤ 洛神模块在沙盒可执行"] = rc == 0 and "OK" in out
+
+    print(f"\n" + "=" * 72)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n通过 {sum(ok.values())}/{len(ok)}")
+    json.dump({"ok": ok, "hashes": hashes},
+              open(os.path.join(HERE, ".sense", "sandbox_exec.json"), "w"),
+              ensure_ascii=False, indent=1)

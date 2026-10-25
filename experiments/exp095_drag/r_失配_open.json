@@ -1,1 +1,1 @@
-eyJzdGVwcyI6IDQ0LCAiZmlyc3RfZXJyIjogNjIwLjAsICJmaW5hbF9lcnIiOiAyNDAuMCwgImhpdCI6IGZhbHNlLCAidHJhaiI6IFtdLCAic2NlbmUiOiAi5aSx6YWNIiwgIuetlueVpSI6ICLorqHnrpfmtL4o5LiA5qyh566X5a6MKSJ9
+{"steps": 44, "first_err": 620.0, "final_err": 240.0, "hit": false, "traj": [], "scene": "失配", "策略": "计算派(一次算完)"}

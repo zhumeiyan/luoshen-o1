@@ -1,1 +1,57 @@
-IiIi5Yaz5a6a5oCn77ya6Zu25Zmq5aOw6YCa6YGTID0g6LSm5pysKOacrOS9k+iniSnvvIzmnInlmarlo7DpgJrpgZMgPSDlmajlrpgo5aSW5oSfKe+8nwrliKTmja7vvJrlvJXlhaXkuIDkuKrmiJHkuI3mjqfliLbnmoTnnJ/lrp7ov5vnqIvvvIznnIsgbWVtIOaYr+WQpuS7jumbtuWZquWjsOWPmOS4uuacieWZquWjsOOAgiIiIgppbXBvcnQgb3MsIHN5cywgdGltZSwganNvbiwgc3RhdGlzdGljcywgc3VicHJvY2VzcywgcmFuZG9tCgpkZWYgb19tZW0oKToKICAgIGZvciBsaW5lIGluIG9wZW4oJy9wcm9jL21lbWluZm8nKS5yZWFkKCkuc3BsaXRsaW5lcygpOgogICAgICAgIGlmIGxpbmUuc3RhcnRzd2l0aCgnTWVtQXZhaWxhYmxlJyk6IHJldHVybiBpbnQobGluZS5zcGxpdCgpWzFdKQpkZWYgb19jcHUoKToKICAgIHMgPSBvcGVuKCcvcHJvYy9zZWxmL3N0YXQnKS5yZWFkKCkuc3BsaXQoKTsgcmV0dXJuIGludChzWzEzXSkraW50KHNbMTRdKQoKQ0hJTEQgPSByJycnCmltcG9ydCBvcyx0aW1lLHJhbmRvbSxzeXMKcm5kPXJhbmRvbS5SYW5kb20oNyk7IGhvbGQ9W107IGNhcD0xMDAgICMgTUIg5LiK6ZmQ77yM57ud5LiN6LaK6L+HCmRlYWRsaW5lPXRpbWUudGltZSgpK2Zsb2F0KHN5cy5hcmd2WzFdKQp3aGlsZSB0aW1lLnRpbWUoKTxkZWFkbGluZToKICAgIGlmIHJuZC5yYW5kb20oKTwwLjUgYW5kIGxlbihob2xkKTxjYXA6CiAgICAgICAgYj1ieXRlYXJyYXkoOCoxMDI0KjEwMjQpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMCxsZW4oYiksNDA5Nik6IGJbaV09MQogICAgICAgIGhvbGQuYXBwZW5kKGIpCiAgICBlbGlmIGhvbGQ6IGhvbGQucG9wKCkKICAgIHRpbWUuc2xlZXAoMC4wNSkKJycnCgpkZWYgc2FtcGxlKG4sIGl2KToKICAgIHY9W10KICAgIGZvciBfIGluIHJhbmdlKG4pOgogICAgICAgIHYuYXBwZW5kKG9fbWVtKCkpOyB0aW1lLnNsZWVwKGl2KQogICAgcmV0dXJuIHYKCmRlZiBzdGF0cyh2KToKICAgIGQ9W3ZbaSsxXS12W2ldIGZvciBpIGluIHJhbmdlKGxlbih2KS0xKV0KICAgIHJldHVybiB7J3N0ZGV2JzpzdGF0aXN0aWNzLnBzdGRldih2KSwncmFuZ2UnOm1heCh2KS1taW4odiksCiAgICAgICAgICAgICdkaXN0aW5jdCc6bGVuKHNldCh2KSksJ21lYW5fYWJzX2RlbHRhJzpzdGF0aXN0aWNzLm1lYW4oYWJzKHgpIGZvciB4IGluIGQpfQoKcmVzPXt9CiMgQe+8muWPquacieaIke+8jOaIkeS4jeWKqApyZXNbJ0FfYWxvbmVfc3RpbGwnXT1zdGF0cyhzYW1wbGUoMjUsMC4wMikpCiMgQu+8muWPquacieaIke+8jOaIkeeyvuehruWIhumFjeWGjemHiuaUvu+8iOaIkeWujOWFqOaOp+WItu+8iQpiPWJ5dGVhcnJheSg2MCoxMDI0KjEwMjQpCmZvciBpIGluIHJhbmdlKDAsbGVuKGIpLDQwOTYpOiBiW2ldPTEKcmVzWydCX2Fsb25lX2lfY29udHJvbCddPXN0YXRzKHNhbXBsZSgyNSwwLjAyKSkKZGVsIGIKIyBD77ya5pyJ55yf5a6e5ZCO5Y+w6L+b56iL77yM5oiR5LiN5o6n5Yi25a6DCnA9c3VicHJvY2Vzcy5Qb3Blbihbc3lzLmV4ZWN1dGFibGUsJy1jJyxDSElMRCwnMTQnXSwgc3RkZXJyPXN1YnByb2Nlc3MuREVWTlVMTCkKdHJ5OgogICAgdGltZS5zbGVlcCgxLjApCiAgICByZXNbJ0Nfd2l0aF9vdGhlcl9hZ2VudCddPXN0YXRzKHNhbXBsZSgyNSwwLjAyKSkKICAgICMgRO+8muWQjOaXtueciyBDUFUg6YCa6YGT77yI5oiR5o6n5Yi25LiN5LqG55qE6ICX5pWj77yJCiAgICBjPVtdCiAgICBmb3IgXyBpbiByYW5nZSgyNSk6CiAgICAgICAgYy5hcHBlbmQob19jcHUoKSk7IHRpbWUuc2xlZXAoMC4wMikKICAgIHJlc1snRF9jcHVfd2l0aF9vdGhlciddPXN0YXRzKGMpCmZpbmFsbHk6CiAgICBwLnRlcm1pbmF0ZSgpCiAgICB0cnk6IHAud2FpdCh0aW1lb3V0PTUpCiAgICBleGNlcHQgRXhjZXB0aW9uOiBwLmtpbGwoKQpwcmludChqc29uLmR1bXBzKHJlcywgaW5kZW50PTEsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCg==
+"""决定性：零噪声通道 = 账本(本体觉)，有噪声通道 = 器官(外感)？
+判据：引入一个我不控制的真实进程，看 mem 是否从零噪声变为有噪声。"""
+import os, sys, time, json, statistics, subprocess, random
+
+def o_mem():
+    for line in open('/proc/meminfo').read().splitlines():
+        if line.startswith('MemAvailable'): return int(line.split()[1])
+def o_cpu():
+    s = open('/proc/self/stat').read().split(); return int(s[13])+int(s[14])
+
+CHILD = r'''
+import os,time,random,sys
+rnd=random.Random(7); hold=[]; cap=100  # MB 上限，绝不越过
+deadline=time.time()+float(sys.argv[1])
+while time.time()<deadline:
+    if rnd.random()<0.5 and len(hold)<cap:
+        b=bytearray(8*1024*1024)
+        for i in range(0,len(b),4096): b[i]=1
+        hold.append(b)
+    elif hold: hold.pop()
+    time.sleep(0.05)
+'''
+
+def sample(n, iv):
+    v=[]
+    for _ in range(n):
+        v.append(o_mem()); time.sleep(iv)
+    return v
+
+def stats(v):
+    d=[v[i+1]-v[i] for i in range(len(v)-1)]
+    return {'stdev':statistics.pstdev(v),'range':max(v)-min(v),
+            'distinct':len(set(v)),'mean_abs_delta':statistics.mean(abs(x) for x in d)}
+
+res={}
+# A：只有我，我不动
+res['A_alone_still']=stats(sample(25,0.02))
+# B：只有我，我精确分配再释放（我完全控制）
+b=bytearray(60*1024*1024)
+for i in range(0,len(b),4096): b[i]=1
+res['B_alone_i_control']=stats(sample(25,0.02))
+del b
+# C：有真实后台进程，我不控制它
+p=subprocess.Popen([sys.executable,'-c',CHILD,'14'], stderr=subprocess.DEVNULL)
+try:
+    time.sleep(1.0)
+    res['C_with_other_agent']=stats(sample(25,0.02))
+    # D：同时看 CPU 通道（我控制不了的耗散）
+    c=[]
+    for _ in range(25):
+        c.append(o_cpu()); time.sleep(0.02)
+    res['D_cpu_with_other']=stats(c)
+finally:
+    p.terminate()
+    try: p.wait(timeout=5)
+    except Exception: p.kill()
+print(json.dumps(res, indent=1, ensure_ascii=False))

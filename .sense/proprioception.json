@@ -1,1 +1,18 @@
-ewogIuKRoCDimIUg5pegIM6zIOaXtu+8jOaUtue8qeacq+acn+iCjOaireS/oeWPt+aYvuiRl+S4i+mZje+8iD4yMCXvvIkiOiB0cnVlLAogIuKRoSDimIUg5pyJIM6zIOaXtu+8jOaUtue8qeacq+acn+S/oeWPt+WfuuacrOe7tOaMge+8iOS4i+mZjSA8MTIl77yJIjogdHJ1ZSwKICLikaIg4piFIOaciSDOsyDnmoTlhajnqIvkv6Hlj7cgPiDml6AgzrPvvIjlhbHlkIzmv4DmtLvnoa7lrp7kv53kvY/kuobkv6Hlj7fvvIkiOiB0cnVlLAogIuKRoyBHVE8g5Zyo6ZiI5YC8KDAuMU4p5Lul5LiL5LiN5ZON5bqUIjogdHJ1ZSwKICLikaQg4piFIEdUTyDppbHlkozvvJrlipvnv7sgNCDlgI0oMjAw4oaSODAwTinvvIzlk43lupTlop7ph48gPDAuMSI6IHRydWUsCiAi4pGlIDUwTijppbHlkozngrkp5ZON5bqUID0gMC41IjogdHJ1ZSwKICLikaYgSWEg5Lyg5a+85pyA5b+r77yIMTIwIG0vc++8ie+8jOW7tui/n+acgOefrSI6IHRydWUsCiAi4pGnIOKYhSDmnKzkvZPop4nlj43lsIQoMTdtcykg6L+c5b+r5LqO6KeG6KeJKDgwbXMpIjogdHJ1ZSwKICLikagg5Y2V56qB6Kem5Y+N5bCE57qmIDE1fjIwIG1z77yIUkVBTO+8iSI6IHRydWUsCiAi4pGpIOaJi+aMh+mYiOWAvCA8IOiGne+8iOi/nOerr+abtOeyvue7hu+8iSI6IHRydWUsCiAi4pGqIOKYhSDlrZjlnKjkuLvliqjlj6/ovqjjgIHooqvliqjkuI3lj6/ovqjnmoTkuK3pl7Top5LluqYiOiB0cnVlLAogIuKRqyDimIUg5Yqb5Yy56YWN55u45a+56K+v5beu6JC9IFJFQUwgNX4xMCUiOiB0cnVlLAogIuKRrCDimIUg5peg5aSW5ZGo6L6T5YWl5LuN5oSf6KeJ5a2Y5Zyo77yI5bm76IKi77yJIjogdHJ1ZSwKICLika0g6ZWc5YOP55uS55aX5rOV77ya57uZ6KeG6KeJ6L6T5YWlIOKGkiDnlrznl5vmjIfmlbDkuIvpmY0iOiB0cnVlLAogIuKRriDimIUg5Y+q5pyJ5YmN5bqtKDEsMCkg4oaSIOWIpCfkuJbnlYzlnKjliqgnIjogdHJ1ZSwKICLika8g5YmN5bqtK+acrOS9k+iniemDveaciSgxLDEpIOKGkiDliKQn5oiR5Zyo5YqoJyI6IHRydWUKfQ==
+{
+ "① ★ 无 γ 时，收缩末期肌梭信号显著下降（>20%）": true,
+ "② ★ 有 γ 时，收缩末期信号基本维持（下降 <12%）": true,
+ "③ ★ 有 γ 的全程信号 > 无 γ（共同激活确实保住了信号）": true,
+ "④ GTO 在阈值(0.1N)以下不响应": true,
+ "⑤ ★ GTO 饱和：力翻 4 倍(200→800N)，响应增量 <0.1": true,
+ "⑥ 50N(饱和点)响应 = 0.5": true,
+ "⑦ Ia 传导最快（120 m/s），延迟最短": true,
+ "⑧ ★ 本体觉反射(17ms) 远快于视觉(80ms)": true,
+ "⑨ 单突触反射约 15~20 ms（REAL）": true,
+ "⑩ 手指阈值 < 膝（远端更精细）": true,
+ "⑪ ★ 存在主动可辨、被动不可辨的中间角度": true,
+ "⑫ ★ 力匹配相对误差落 REAL 5~10%": true,
+ "⑬ ★ 无外周输入仍感觉存在（幻肢）": true,
+ "⑭ 镜像盒疗法：给视觉输入 → 疼痛指数下降": true,
+ "⑮ ★ 只有前庭(1,0) → 判'世界在动'": true,
+ "⑯ 前庭+本体觉都有(1,1) → 判'我在动'": true
+}

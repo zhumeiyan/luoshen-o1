@@ -1,1 +1,90 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIyOSDku4DkuYjpg73mg7Png6fkuIDng6cK54GrID0g6YCa55So5peg5beu5Yir5pON5L2c77yM5pa95Yqg5Yiw5Lu75oSP5p2Q5paZ77yM57uT5p6c5pyq55+l44CCCuWOmuWwvu+8muWkp+mDqOWIhueZveeDp++8jOaegeWwkeaVsOi3g+i/ge+8iOWcn+KGkumZtuOAgeefv+KGkumHkeWxnu+8ieOAggrlj5jph4/vvJrmnZDmlpnku7flgLzljprlsL7luqYgYWxwaGEgLyDlhYjpqozlh4bnoa7luqYgcSAvIOWNsemZqeWNoOavlCBoIC8g54Gr56eN54aE54Gt546HIGRlY2F5CuetlueVpe+8mmV4cGxvcmUo5Lmx54OnKSBleHBsb2l0KOWFiOmqjOWumuWQkSkgcGhhc2VkKOWFiOS5seeDp+WQjuWumuWQkSkKIiIiCmltcG9ydCBudW1weSBhcyBucAoKTSwgVCA9IDgwMCwgMTUwCgpkZWYgZ2VuKGFscGhhLCBoLCBzZWVkKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgdiA9IG5wLmNsaXAocm5nLnBhcmV0byhhbHBoYSwgTSkgKyAxLCAwLCA2MCkKICAgIGlzX2hheiA9IHJuZy5yYW5kb20oTSkgPCBoCiAgICB2ID0gdiAqIG5wLndoZXJlKGlzX2hheiwgMi4wLCAxLjApICAgICAgIyDljbHpmannmoTmm7Tor7HkuroKICAgIHJldHVybiB2LCBpc19oYXosIHJuZwoKZGVmIHNpZ21hKHEpOiByZXR1cm4gKDEuMCAtIHEpICogMTIuMAoKZGVmIHJ1bihhbHBoYSwgaCwgUywgbW9kZSwgcSwgc2VlZCwgcF90cmlnPTAuMjUsIGNvc3Q9MC4xMiwgaGF6X3Blbj0wLjYsIGRlY2F5PTAuMCk6CiAgICB2LCBpc19oYXosIHJuZyA9IGdlbihhbHBoYSwgaCwgc2VlZCkKICAgIGVzdCA9IHYgKyBybmcubm9ybWFsKDAsIHNpZ21hKHEpLCBNKQogICAgdG9wNSA9IG5wLnF1YW50aWxlKHYsIDAuOTUpCiAgICBidXJuZWQgPSBucC56ZXJvcyhNLCBib29sKTsgbmV0ID0gMC4wOyBjYXAgPSAxLjAKICAgIGJlc3QgPSAwLjA7IGRpcyA9IDA7IGhpdHMgPSAwOyBuYnVybiA9IDAKICAgIGFsaXZlID0gVHJ1ZQogICAgZm9yIHQgaW4gcmFuZ2UoVCk6CiAgICAgICAgdW4gPSBucC53aGVyZSh+YnVybmVkKVswXQogICAgICAgIGlmIGxlbih1bikgPT0gMDogYnJlYWsKICAgICAgICBpZiBhbGl2ZSBhbmQgZGVjYXkgPiAwIGFuZCBybmcucmFuZG9tKCkgPCBkZWNheTogYWxpdmUgPSBGYWxzZQogICAgICAgIGlmIG5vdCBhbGl2ZTogYnJlYWsKICAgICAgICBrID0gbWluKFMsIGxlbih1bikpCiAgICAgICAgaWYgbW9kZSA9PSAnZXhwbG9yZSc6CiAgICAgICAgICAgIHBpY2sgPSBybmcuY2hvaWNlKHVuLCBzaXplPWssIHJlcGxhY2U9RmFsc2UpCiAgICAgICAgZWxpZiBtb2RlID09ICdleHBsb2l0JzoKICAgICAgICAgICAgcGljayA9IHVuW25wLmFyZ3NvcnQoZXN0W3VuXSlbLWs6XV0KICAgICAgICBlbHNlOiAgIyBwaGFzZWQKICAgICAgICAgICAgaWYgdCA8IFQgLy8gMzoKICAgICAgICAgICAgICAgIHBpY2sgPSBybmcuY2hvaWNlKHVuLCBzaXplPWssIHJlcGxhY2U9RmFsc2UpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwaWNrID0gdW5bbnAuYXJnc29ydChlc3RbdW5dKVstazpdXQogICAgICAgIGZvciBqIGluIHBpY2s6CiAgICAgICAgICAgIGJ1cm5lZFtqXSA9IFRydWU7IG5idXJuICs9IDEKICAgICAgICAgICAgZ2FpbiA9IHZbal0gKiBjYXAKICAgICAgICAgICAgbmV0ICs9IGdhaW47IGJlc3QgPSBtYXgoYmVzdCwgZ2FpbikKICAgICAgICAgICAgaWYgdltqXSA+PSB0b3A1OiBoaXRzICs9IDEKICAgICAgICAgICAgaWYgaXNfaGF6W2pdIGFuZCBybmcucmFuZG9tKCkgPCBwX3RyaWc6CiAgICAgICAgICAgICAgICBkaXMgKz0gMTsgY2FwICo9ICgxIC0gaGF6X3Blbik7IG5ldCAqPSAwLjgKICAgICAgICBuZXQgLT0gY29zdCAqIGsKICAgIHJldHVybiBkaWN0KG5ldD1uZXQsIGJlc3Q9YmVzdCwgZGlzPWRpcywgY2FwPWNhcCwgaGl0cz1oaXRzLCBuYnVybj1uYnVybikKCmRlZiBhdmcoKiprdyk6CiAgICBycyA9IFtydW4oc2VlZD1zLCAqKmt3KSBmb3IgcyBpbiByYW5nZSg1KV0KICAgIHJldHVybiB7azogZmxvYXQobnAubWVhbihbcltrXSBmb3IgciBpbiByc10pKSBmb3IgayBpbiByc1swXX0KCnByaW50KCI9PT0gQSDljprlsL7luqYgYWxwaGEgw5cg5bm/5bqmIFPvvIhleHBsb3JlIOS5seeDp++8iT09PSIpCnByaW50KCJhbHBoYVxcUyAiICsgIiIuam9pbihmIntTOj45ZH0iIGZvciBTIGluIFsxLDIsNCw4LDE2LDMyXSkpCmZvciBhIGluIFswLjgsIDEuNSwgMy4wLCA2LjAsIDEyLjBdOgogICAgcm93ID0gW10KICAgIGZvciBTIGluIFsxLDIsNCw4LDE2LDMyXToKICAgICAgICByb3cuYXBwZW5kKGF2ZyhhbHBoYT1hLCBoPTAuMTAsIFM9UywgbW9kZT0nZXhwbG9yZScsIHE9MC4wKVsnbmV0J10pCiAgICBwcmludChmInthOjUuMWZ9ICAiICsgIiIuam9pbihmInt4OjkuMWZ9IiBmb3IgeCBpbiByb3cpKQoKcHJpbnQoIlxuPT09IEIg5YWI6aqM5YeG56Gu5bqmIHHvvJrlrprlkJEgdnMg5Lmx54OnIHZzIOS4pOmYtuaute+8iGFscGhhPTEuNSxTPTjvvIk9PT0iKQpwcmludCgiICBxICAgIOS5seeDpyAgICAg5a6a5ZCRICAgICDkuKTpmLbmrrUiKQpmb3IgcSBpbiBbMC4wLCAwLjI1LCAwLjUsIDAuNzUsIDEuMF06CiAgICBlID0gYXZnKGFscGhhPTEuNSxoPTAuMTAsUz04LG1vZGU9J2V4cGxvcmUnLHE9cSlbJ25ldCddCiAgICB4ID0gYXZnKGFscGhhPTEuNSxoPTAuMTAsUz04LG1vZGU9J2V4cGxvaXQnLHE9cSlbJ25ldCddCiAgICBwID0gYXZnKGFscGhhPTEuNSxoPTAuMTAsUz04LG1vZGU9J3BoYXNlZCcscT1xKVsnbmV0J10KICAgIHByaW50KGYie3E6NS4yZn0gIHtlOjguMWZ9IHt4OjguMWZ9IHtwOjguMWZ9IikKCnByaW50KCJcbj09PSBDIOWNsemZqeWNoOavlCBoIMOXIOW5v+W6pu+8iGFscGhhPTEuNSwgZXhwbG9yZe+8iT09PSIpCnByaW50KCIgaFxcUyAgIiArICIiLmpvaW4oZiJ7Uzo+OWR9IiBmb3IgUyBpbiBbMSw0LDgsMTYsMzJdKSkKZm9yIGggaW4gWzAuMCwgMC4wNSwgMC4xMCwgMC4yMCwgMC40MF06CiAgICByb3cgPSBbYXZnKGFscGhhPTEuNSxoPWgsUz1TLG1vZGU9J2V4cGxvcmUnLHE9MC4wKVsnbmV0J10gZm9yIFMgaW4gWzEsNCw4LDE2LDMyXV0KICAgIHByaW50KGYie2g6NS4yZn0gIiArICIiLmpvaW4oZiJ7eDo5LjFmfSIgZm9yIHggaW4gcm93KSkKCnByaW50KCJcbj09PSBEIOeBq+S8mueBrSBkZWNheSDDlyDmnIDkvJjlub/luqYgPT09IikKcHJpbnQoImRlY2F5ICDmnIDkvJhTICAg6K+lU+WHgOWAvCAgIOW5v+eDp1M9MzLlh4DlgLwgIOeBvumavuaVsCIpCmZvciBkYyBpbiBbMC4wLCAwLjAxLCAwLjAzLCAwLjA4XToKICAgIHJlcyA9IFsoUywgYXZnKGFscGhhPTEuNSxoPTAuMTAsUz1TLG1vZGU9J2V4cGxvcmUnLHE9MC4wLGRlY2F5PWRjKSkgZm9yIFMgaW4gWzEsMiw0LDgsMTYsMzJdXQogICAgYnMgPSBtYXgocmVzLCBrZXk9bGFtYmRhIHI6IHJbMV1bJ25ldCddKQogICAgczMyID0gW3IgZm9yIHIgaW4gcmVzIGlmIHJbMF09PTMyXVswXVsxXQogICAgcHJpbnQoZiJ7ZGM6NS4yZn0gICB7YnNbMF06M2R9ICAgIHtic1sxXVsnbmV0J106OC4xZn0gICB7czMyWyduZXQnXTo4LjFmfSAgICAge2JzWzFdWydkaXMnXTouMWZ9IikKCnByaW50KCJcbj09PSBFIOa1qui0ueeOh++8iGFscGhhPTEuNSwgaD0wLjEwLCBTPTgsIGV4cGxvcmXvvIk9PT0iKQpyID0gYXZnKGFscGhhPTEuNSxoPTAuMTAsUz04LG1vZGU9J2V4cGxvcmUnLHE9MC4wKQpwcmludChmIuWFseeDpyB7clsnbmJ1cm4nXTouMGZ9IOS7tu+8jOWRveS4rSB0b3A1JSB7clsnaGl0cyddOi4xZn0g5Lu2IOKGkiDlkb3kuK3njocge3JbJ2hpdHMnXS9yWyduYnVybiddKjEwMDouMWZ9JSIpCg==
+# -*- coding: utf-8 -*-
+"""
+229 什么都想烧一烧
+火 = 通用无差别操作，施加到任意材料，结果未知。
+厚尾：大部分白烧，极少数跃迁（土→陶、矿→金属）。
+变量：材料价值厚尾度 alpha / 先验准确度 q / 危险占比 h / 火种熄灭率 decay
+策略：explore(乱烧) exploit(先验定向) phased(先乱烧后定向)
+"""
+import numpy as np
+
+M, T = 800, 150
+
+def gen(alpha, h, seed):
+    rng = np.random.default_rng(seed)
+    v = np.clip(rng.pareto(alpha, M) + 1, 0, 60)
+    is_haz = rng.random(M) < h
+    v = v * np.where(is_haz, 2.0, 1.0)      # 危险的更诱人
+    return v, is_haz, rng
+
+def sigma(q): return (1.0 - q) * 12.0
+
+def run(alpha, h, S, mode, q, seed, p_trig=0.25, cost=0.12, haz_pen=0.6, decay=0.0):
+    v, is_haz, rng = gen(alpha, h, seed)
+    est = v + rng.normal(0, sigma(q), M)
+    top5 = np.quantile(v, 0.95)
+    burned = np.zeros(M, bool); net = 0.0; cap = 1.0
+    best = 0.0; dis = 0; hits = 0; nburn = 0
+    alive = True
+    for t in range(T):
+        un = np.where(~burned)[0]
+        if len(un) == 0: break
+        if alive and decay > 0 and rng.random() < decay: alive = False
+        if not alive: break
+        k = min(S, len(un))
+        if mode == 'explore':
+            pick = rng.choice(un, size=k, replace=False)
+        elif mode == 'exploit':
+            pick = un[np.argsort(est[un])[-k:]]
+        else:  # phased
+            if t < T // 3:
+                pick = rng.choice(un, size=k, replace=False)
+            else:
+                pick = un[np.argsort(est[un])[-k:]]
+        for j in pick:
+            burned[j] = True; nburn += 1
+            gain = v[j] * cap
+            net += gain; best = max(best, gain)
+            if v[j] >= top5: hits += 1
+            if is_haz[j] and rng.random() < p_trig:
+                dis += 1; cap *= (1 - haz_pen); net *= 0.8
+        net -= cost * k
+    return dict(net=net, best=best, dis=dis, cap=cap, hits=hits, nburn=nburn)
+
+def avg(**kw):
+    rs = [run(seed=s, **kw) for s in range(5)]
+    return {k: float(np.mean([r[k] for r in rs])) for k in rs[0]}
+
+print("=== A 厚尾度 alpha × 广度 S（explore 乱烧）===")
+print("alpha\\S " + "".join(f"{S:>9d}" for S in [1,2,4,8,16,32]))
+for a in [0.8, 1.5, 3.0, 6.0, 12.0]:
+    row = []
+    for S in [1,2,4,8,16,32]:
+        row.append(avg(alpha=a, h=0.10, S=S, mode='explore', q=0.0)['net'])
+    print(f"{a:5.1f}  " + "".join(f"{x:9.1f}" for x in row))
+
+print("\n=== B 先验准确度 q：定向 vs 乱烧 vs 两阶段（alpha=1.5,S=8）===")
+print("  q    乱烧     定向     两阶段")
+for q in [0.0, 0.25, 0.5, 0.75, 1.0]:
+    e = avg(alpha=1.5,h=0.10,S=8,mode='explore',q=q)['net']
+    x = avg(alpha=1.5,h=0.10,S=8,mode='exploit',q=q)['net']
+    p = avg(alpha=1.5,h=0.10,S=8,mode='phased',q=q)['net']
+    print(f"{q:5.2f}  {e:8.1f} {x:8.1f} {p:8.1f}")
+
+print("\n=== C 危险占比 h × 广度（alpha=1.5, explore）===")
+print(" h\\S  " + "".join(f"{S:>9d}" for S in [1,4,8,16,32]))
+for h in [0.0, 0.05, 0.10, 0.20, 0.40]:
+    row = [avg(alpha=1.5,h=h,S=S,mode='explore',q=0.0)['net'] for S in [1,4,8,16,32]]
+    print(f"{h:5.2f} " + "".join(f"{x:9.1f}" for x in row))
+
+print("\n=== D 火会灭 decay × 最优广度 ===")
+print("decay  最优S   该S净值   广烧S=32净值  灾难数")
+for dc in [0.0, 0.01, 0.03, 0.08]:
+    res = [(S, avg(alpha=1.5,h=0.10,S=S,mode='explore',q=0.0,decay=dc)) for S in [1,2,4,8,16,32]]
+    bs = max(res, key=lambda r: r[1]['net'])
+    s32 = [r for r in res if r[0]==32][0][1]
+    print(f"{dc:5.2f}   {bs[0]:3d}    {bs[1]['net']:8.1f}   {s32['net']:8.1f}     {bs[1]['dis']:.1f}")
+
+print("\n=== E 浪费率（alpha=1.5, h=0.10, S=8, explore）===")
+r = avg(alpha=1.5,h=0.10,S=8,mode='explore',q=0.0)
+print(f"共烧 {r['nburn']:.0f} 件，命中 top5% {r['hits']:.1f} 件 → 命中率 {r['hits']/r['nburn']*100:.1f}%")

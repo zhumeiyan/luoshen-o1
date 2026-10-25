@@ -1,1 +1,65 @@
-aW1wb3J0IGFzeW5jaW8sIGpzb24sIG9zLCByYW5kb20sIHN1YnByb2Nlc3MKZnJvbSBwbGF5d3JpZ2h0LmFzeW5jX2FwaSBpbXBvcnQgYXN5bmNfcGxheXdyaWdodApPVVQ9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDA5M19odW1hbl9kb29yIgpVPW9zLmVudmlyb25bIlFRX1UiXTsgUD1vcy5lbnZpcm9uWyJRUV9QIl0KCmFzeW5jIGRlZiBodW1hbl90eXBlKHBnLCB0ZXh0LCBkZWxheV9yYW5nZT0oMC4wOCwwLjIyKSk6CiAgICBmb3IgY2ggaW4gdGV4dDoKICAgICAgICBhd2FpdCBwZy5rZXlib2FyZC50eXBlKGNoKQogICAgICAgIGF3YWl0IHBnLndhaXRfZm9yX3RpbWVvdXQoaW50KHJhbmRvbS51bmlmb3JtKCpkZWxheV9yYW5nZSkqMTAwMCkpCgphc3luYyBkZWYgbWFpbigpOgogICAgYXN5bmMgd2l0aCBhc3luY19wbGF5d3JpZ2h0KCkgYXMgcDoKICAgICAgICBiID0gYXdhaXQgcC5jaHJvbWl1bS5sYXVuY2goZXhlY3V0YWJsZV9wYXRoPSIvdXNyL2Jpbi9nb29nbGUtY2hyb21lIixhcmdzPVsiLS1uby1zYW5kYm94IiwiLS1kaXNhYmxlLWRldi1zaG0tdXNhZ2UiXSkKICAgICAgICBwZyA9IGF3YWl0IGIubmV3X3BhZ2Uodmlld3BvcnQ9eyJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo5MDB9KQogICAgICAgIGF3YWl0IHBnLmdvdG8oImh0dHBzOi8vbWFpbC5xcS5jb20iLCB0aW1lb3V0PTQ1MDAwLCB3YWl0X3VudGlsPSJkb21jb250ZW50bG9hZGVkIikKICAgICAgICBhd2FpdCBwZy53YWl0X2Zvcl90aW1lb3V0KDYwMDApCiAgICAgICAgdGd0PU5vbmUKICAgICAgICBmb3IgZiBpbiBwZy5mcmFtZXM6CiAgICAgICAgICAgIGlmICJ4bG9naW4iIGluIGYudXJsOiB0Z3Q9ZjsgYnJlYWsKICAgICAgICBiYiA9IGF3YWl0IHRndC5sb2NhdG9yKCIjc3dpdGNoZXJfcGxvZ2luIikuYm91bmRpbmdfYm94KCkKICAgICAgICBhd2FpdCBwZy5tb3VzZS5jbGljayhiYlsieCJdK2JiWyJ3aWR0aCJdLzIsIGJiWyJ5Il0rYmJbImhlaWdodCJdLzIpCiAgICAgICAgYXdhaXQgcGcud2FpdF9mb3JfdGltZW91dCgzMDAwKQoKICAgICAgICAjIOecn+m8oOagh+eCuei0puWPt+ahhiArIOecn+mUruebmOaVsgogICAgICAgIHViID0gYXdhaXQgdGd0LmxvY2F0b3IoIiN1IikuYm91bmRpbmdfYm94KCkKICAgICAgICBhd2FpdCBwZy5tb3VzZS5jbGljayh1YlsieCJdK3ViWyJ3aWR0aCJdLzIsIHViWyJ5Il0rdWJbImhlaWdodCJdLzIpCiAgICAgICAgYXdhaXQgcGcud2FpdF9mb3JfdGltZW91dCg0MDApCiAgICAgICAgYXdhaXQgaHVtYW5fdHlwZShwZywgVSkKICAgICAgICAjIOecvOedm++8muivu+Wbnui+k+WFpeahhuecn+WunuWGheWuuQogICAgICAgIHVfdmFsID0gYXdhaXQgdGd0LmxvY2F0b3IoIiN1IikuaW5wdXRfdmFsdWUoKQoKICAgICAgICBwYiA9IGF3YWl0IHRndC5sb2NhdG9yKCIjcCIpLmJvdW5kaW5nX2JveCgpCiAgICAgICAgYXdhaXQgcGcubW91c2UuY2xpY2socGJbIngiXStwYlsid2lkdGgiXS8yLCBwYlsieSJdK3BiWyJoZWlnaHQiXS8yKQogICAgICAgIGF3YWl0IHBnLndhaXRfZm9yX3RpbWVvdXQoNDAwKQogICAgICAgIGF3YWl0IGh1bWFuX3R5cGUocGcsIFApCiAgICAgICAgcF92YWwgPSBhd2FpdCB0Z3QubG9jYXRvcigiI3AiKS5pbnB1dF92YWx1ZSgpCgogICAgICAgIGF3YWl0IHBnLnNjcmVlbnNob3QocGF0aD1mIntPVVR9L2ZpbGxlZC5wbmciKQogICAgICAgIHByaW50KGpzb24uZHVtcHMoeyJ1X3R5cGVkX2xlbiI6bGVuKFUpLCJ1X3JlYWRiYWNrIjp1X3ZhbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAidV9tYXRjaCI6dV92YWw9PVUsInBfdHlwZWRfbGVuIjpsZW4oUCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgInBfcmVhZGJhY2tfbWFza2VkIjoiKiIqbGVuKHBfdmFsKSwicF9sZW5fbWF0Y2giOmxlbihwX3ZhbCk9PWxlbihQKX0sCiAgICAgICAgICAgICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UpKQogICAgICAgICMgT0NSIOiHquW3seeci+S4gOecvOi+k+WFpeahhuWMuuWfnwogICAgICAgIGltcG9ydCBjdjIKICAgICAgICBpbWc9Y3YyLmltcmVhZChmIntPVVR9L2ZpbGxlZC5wbmciKQogICAgICAgIHVieD1pbnQodWJbIngiXSk7IHVieT1pbnQodWJbInkiXSkKICAgICAgICBjcm9wPWltZ1t1Ynk6dWJ5KzM4LCB1Yng6dWJ4KzI1MF0KICAgICAgICBjdjIuaW13cml0ZShmIntPVVR9L2Nyb3BfdS5wbmciLCBjcm9wKQogICAgICAgIHN1YnByb2Nlc3MucnVuKFsicHl0aG9uMyIsIi1jIiwiIiIKaW1wb3J0IHB5dGVzc2VyYWN0LGN2MixzeXMKaW09Y3YyLmltcmVhZCgnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMDkzX2h1bWFuX2Rvb3IvY3JvcF91LnBuZycpCmltPWN2Mi5yZXNpemUoaW0sTm9uZSxmeD0zLGZ5PTMsaW50ZXJwb2xhdGlvbj1jdjIuSU5URVJfQ1VCSUMpCmc9Y3YyLmN2dENvbG9yKGltLGN2Mi5DT0xPUl9CR1IyR1JBWSkKcHJpbnQoJ09DUl9VOicscmVwcihweXRlc3NlcmFjdC5pbWFnZV90b19zdHJpbmcoZyxjb25maWc9Jy0tcHNtIDcnKS5zdHJpcCgpKSkKIiIiXSxjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSkKICAgICAgICByPXN1YnByb2Nlc3MucnVuKFsicHl0aG9uMyIsIi1jIiwiIiIKaW1wb3J0IHB5dGVzc2VyYWN0LGN2MgppbT1jdjIuaW1yZWFkKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAwOTNfaHVtYW5fZG9vci9jcm9wX3UucG5nJykKaW09Y3YyLnJlc2l6ZShpbSxOb25lLGZ4PTMsZnk9MyxpbnRlcnBvbGF0aW9uPWN2Mi5JTlRFUl9DVUJJQykKZz1jdjIuY3Z0Q29sb3IoaW0sY3YyLkNPTE9SX0JHUjJHUkFZKQpwcmludCgnT0NSX1U6JyxyZXByKHB5dGVzc2VyYWN0LmltYWdlX3RvX3N0cmluZyhnLGNvbmZpZz0nLS1wc20gNycpLnN0cmlwKCkpKQoiIiJdLGNhcHR1cmVfb3V0cHV0PVRydWUsdGV4dD1UcnVlKQogICAgICAgIHByaW50KHIuc3Rkb3V0LnN0cmlwKCkgb3Igci5zdGRlcnIuc3RyaXAoKVs6MjAwXSkKICAgICAgICBhd2FpdCBiLmNsb3NlKCkKYXN5bmNpby5ydW4obWFpbigpKQo=
+import asyncio, json, os, random, subprocess
+from playwright.async_api import async_playwright
+OUT="/data/workspace/luoshen-o1/experiments/exp093_human_door"
+U=os.environ["QQ_U"]; P=os.environ["QQ_P"]
+
+async def human_type(pg, text, delay_range=(0.08,0.22)):
+    for ch in text:
+        await pg.keyboard.type(ch)
+        await pg.wait_for_timeout(int(random.uniform(*delay_range)*1000))
+
+async def main():
+    async with async_playwright() as p:
+        b = await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox","--disable-dev-shm-usage"])
+        pg = await b.new_page(viewport={"width":1280,"height":900})
+        await pg.goto("https://mail.qq.com", timeout=45000, wait_until="domcontentloaded")
+        await pg.wait_for_timeout(6000)
+        tgt=None
+        for f in pg.frames:
+            if "xlogin" in f.url: tgt=f; break
+        bb = await tgt.locator("#switcher_plogin").bounding_box()
+        await pg.mouse.click(bb["x"]+bb["width"]/2, bb["y"]+bb["height"]/2)
+        await pg.wait_for_timeout(3000)
+
+        # 真鼠标点账号框 + 真键盘敲
+        ub = await tgt.locator("#u").bounding_box()
+        await pg.mouse.click(ub["x"]+ub["width"]/2, ub["y"]+ub["height"]/2)
+        await pg.wait_for_timeout(400)
+        await human_type(pg, U)
+        # 眼睛：读回输入框真实内容
+        u_val = await tgt.locator("#u").input_value()
+
+        pb = await tgt.locator("#p").bounding_box()
+        await pg.mouse.click(pb["x"]+pb["width"]/2, pb["y"]+pb["height"]/2)
+        await pg.wait_for_timeout(400)
+        await human_type(pg, P)
+        p_val = await tgt.locator("#p").input_value()
+
+        await pg.screenshot(path=f"{OUT}/filled.png")
+        print(json.dumps({"u_typed_len":len(U),"u_readback":u_val,
+                          "u_match":u_val==U,"p_typed_len":len(P),
+                          "p_readback_masked":"*"*len(p_val),"p_len_match":len(p_val)==len(P)},
+                         ensure_ascii=False))
+        # OCR 自己看一眼输入框区域
+        import cv2
+        img=cv2.imread(f"{OUT}/filled.png")
+        ubx=int(ub["x"]); uby=int(ub["y"])
+        crop=img[uby:uby+38, ubx:ubx+250]
+        cv2.imwrite(f"{OUT}/crop_u.png", crop)
+        subprocess.run(["python3","-c","""
+import pytesseract,cv2,sys
+im=cv2.imread('/data/workspace/luoshen-o1/experiments/exp093_human_door/crop_u.png')
+im=cv2.resize(im,None,fx=3,fy=3,interpolation=cv2.INTER_CUBIC)
+g=cv2.cvtColor(im,cv2.COLOR_BGR2GRAY)
+print('OCR_U:',repr(pytesseract.image_to_string(g,config='--psm 7').strip()))
+"""],capture_output=True,text=True)
+        r=subprocess.run(["python3","-c","""
+import pytesseract,cv2
+im=cv2.imread('/data/workspace/luoshen-o1/experiments/exp093_human_door/crop_u.png')
+im=cv2.resize(im,None,fx=3,fy=3,interpolation=cv2.INTER_CUBIC)
+g=cv2.cvtColor(im,cv2.COLOR_BGR2GRAY)
+print('OCR_U:',repr(pytesseract.image_to_string(g,config='--psm 7').strip()))
+"""],capture_output=True,text=True)
+        print(r.stdout.strip() or r.stderr.strip()[:200])
+        await b.close()
+asyncio.run(main())

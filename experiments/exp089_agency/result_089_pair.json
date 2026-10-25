@@ -1,1 +1,76 @@
-ewogICIxX25ld19jaGFsbGVuZ2UiOiB7CiAgICAiaHR0cCI6IDIwMCwKICAgICJjaGFsbGVuZ2UiOiAiODIwMkQyQ0MiLAogICAgInN0YXR1cyI6ICJwZW5kaW5nIgogIH0sCiAgIjJfc2VsZl9hcHByb3ZlX25vX2NyZWQiOiB7CiAgICAiaHR0cCI6IDQwMywKICAgICJib2R5IjogIntcIm9rXCI6IGZhbHNlLCBcInJlYXNvblwiOiBcIk5PIFNFU1NJT04gXFx1MjAxNCBhcHByb3ZlciBtdXN0IGFscmVhZHkgaG9sZCBjcmVkZW50aWFsXCJ9IgogIH0sCiAgIjNfc3RhdHVzX2FmdGVyX3NlbGYiOiB7CiAgICAiaHR0cCI6IDIwMCwKICAgICJzdGF0dXMiOiAicGVuZGluZyIKICB9LAogICI0X2FwcHJvdmVfYnlfY3JlZGVudGlhbF9ob2xkZXIiOiB7CiAgICAiaHR0cCI6IDIwMCwKICAgICJib2R5IjogIntcIm9rXCI6IHRydWUsIFwic3RhdHVzXCI6IFwiZ3JhbnRlZFwifSIKICB9LAogICI1X3N0YXR1c19hZnRlcl9ob2xkZXIiOiB7CiAgICAiaHR0cCI6IDIwMCwKICAgICJzdGF0dXMiOiAiZ3JhbnRlZCIKICB9LAogICI2X3NlY29uZF9yb3VuZCI6IHsKICAgICJjaGFsbGVuZ2UiOiAiMTdBNkRDQzAiLAogICAgInNlbGZfYXBwcm92ZV9odHRwIjogNDAzLAogICAgInN0YXR1c19hZnRlcl9zZWxmIjogInBlbmRpbmciLAogICAgInN0YXR1c19hZnRlcl9ob2xkZXIiOiAiZ3JhbnRlZCIKICB9LAogICI3X3NlcnZlcl9sb2ciOiBbCiAgICBbCiAgICAgICJuZXciLAogICAgICAiQkUxMUJCQkQiLAogICAgICAiYnk9YW5vbnltb3VzIgogICAgXSwKICAgIFsKICAgICAgImFwcHJvdmUiLAogICAgICAiQkUxMUJCQkQiLAogICAgICAiUkVKRUNURUQgbm8tc2Vzc2lvbiIKICAgIF0sCiAgICBbCiAgICAgICJhcHByb3ZlIiwKICAgICAgIkJFMTFCQkJEIiwKICAgICAgIkdSQU5URUQgYnk9emh1LW1laXlhbiIKICAgIF0sCiAgICBbCiAgICAgICJuZXciLAogICAgICAiODIwMkQyQ0MiLAogICAgICAiYnk9YW5vbnltb3VzIgogICAgXSwKICAgIFsKICAgICAgImFwcHJvdmUiLAogICAgICAiODIwMkQyQ0MiLAogICAgICAiUkVKRUNURUQgbm8tc2Vzc2lvbiIKICAgIF0sCiAgICBbCiAgICAgICJhcHByb3ZlIiwKICAgICAgIjgyMDJEMkNDIiwKICAgICAgIkdSQU5URUQgYnk9emh1LW1laXlhbiIKICAgIF0sCiAgICBbCiAgICAgICJuZXciLAogICAgICAiMTdBNkRDQzAiLAogICAgICAiYnk9YW5vbnltb3VzIgogICAgXSwKICAgIFsKICAgICAgImFwcHJvdmUiLAogICAgICAiMTdBNkRDQzAiLAogICAgICAiUkVKRUNURUQgbm8tc2Vzc2lvbiIKICAgIF0sCiAgICBbCiAgICAgICJhcHByb3ZlIiwKICAgICAgIjE3QTZEQ0MwIiwKICAgICAgIkdSQU5URUQgYnk9emh1LW1laXlhbiIKICAgIF0KICBdCn0=
+{
+  "1_new_challenge": {
+    "http": 200,
+    "challenge": "8202D2CC",
+    "status": "pending"
+  },
+  "2_self_approve_no_cred": {
+    "http": 403,
+    "body": "{\"ok\": false, \"reason\": \"NO SESSION \\u2014 approver must already hold credential\"}"
+  },
+  "3_status_after_self": {
+    "http": 200,
+    "status": "pending"
+  },
+  "4_approve_by_credential_holder": {
+    "http": 200,
+    "body": "{\"ok\": true, \"status\": \"granted\"}"
+  },
+  "5_status_after_holder": {
+    "http": 200,
+    "status": "granted"
+  },
+  "6_second_round": {
+    "challenge": "17A6DCC0",
+    "self_approve_http": 403,
+    "status_after_self": "pending",
+    "status_after_holder": "granted"
+  },
+  "7_server_log": [
+    [
+      "new",
+      "BE11BBBD",
+      "by=anonymous"
+    ],
+    [
+      "approve",
+      "BE11BBBD",
+      "REJECTED no-session"
+    ],
+    [
+      "approve",
+      "BE11BBBD",
+      "GRANTED by=zhu-meiyan"
+    ],
+    [
+      "new",
+      "8202D2CC",
+      "by=anonymous"
+    ],
+    [
+      "approve",
+      "8202D2CC",
+      "REJECTED no-session"
+    ],
+    [
+      "approve",
+      "8202D2CC",
+      "GRANTED by=zhu-meiyan"
+    ],
+    [
+      "new",
+      "17A6DCC0",
+      "by=anonymous"
+    ],
+    [
+      "approve",
+      "17A6DCC0",
+      "REJECTED no-session"
+    ],
+    [
+      "approve",
+      "17A6DCC0",
+      "GRANTED by=zhu-meiyan"
+    ]
+  ]
+}

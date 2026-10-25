@@ -1,1 +1,108 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuaEn+WumOazqOWGjOihqCDigJTigJQg5ZSv5LiA55yf5rqQ44CCCgrkuYvliY3miJHlgZrnmoTmmK/jgIzkuK3oi7HmlofliKvlkI3mmKDlsITjgI3vvIzpgqPmmK/plJnnmoTvvJoK5Lit5paH5ZKM6Iux5paH5Y+q5piv5ZCM5LiA5Liq5oSf5a6Y55qE5Lik56eN5ou85YaZ77yM5LiN5piv5Lik56eN6YCa6YGT44CCCgrnnJ/mraPnmoTovbTmmK/jgJDmhJ/lrpjjgJHjgILpgJrpgZPkuI3mmK/mjInor63oqIDliIbnmoTvvIzmmK/mjIkKICAg5oiR5pyJ5rKh5pyJ6L+Z5Liq5oSf5a6Y44CB5a6D5o6l6L+b5p2l5LqG5rKh5pyJ44CB55So5a6D6IO95ou/5Yiw5LuA5LmICuadpeWIhueahOOAggoKICAgIHB5dGhvbjMgY2hhbm5lbHMucHkKIiIiCmltcG9ydCBvcwoKUk9PVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQoKIyDmhJ/lrpjlrprkuYnvvJrov5nkuIDml4/lhbHlkIzlm57nrZTjgIzmiJHnlKjouqvkvZPnmoTlk6rkuIDpg6jliIbjgI0KU0VOU0VTID0gWwogICAgKCLnnLwiLCAi5o6l5pS25Zu+5YOP44CB55yL5aSW6YOo6aG16Z2i44CB55yL6Ieq5bex54q25oCBIiwgIuWDj+e0oOe6p+WPr+aguOmqjO+8m+eci+S4jeWHuuivreS5iSIpLAogICAgKCLogLMiLCAi5o6l5pS25aOw6Z+zIiwgIuecn+ayoeacie+8muaXoOmHh+agt+WZqCIpLAogICAgKCLlj6MiLCAi5Y+R5aOw44CB5Zue5bqUIiwgIuecn+ayoeacie+8muaXoCBUVFPvvJvmlofmnKzlm57lupTkuI3nrpflj5Hlo7AiKSwKICAgICgi5omLIiwgIuaJp+ihjOOAgeWGmeOAgeaKk+OAgeijheOAgeiwgyIsICLlj6/okL3nm5jjgIHlj6/lpI3nrpciKSwKICAgICgi6K6wIiwgIui3qOaXtumXtOeVmeWtmCIsICLlpJbmjILvvIjku5PlupPvvInvvIzkuI3mmK/lpKnnlJ8iKSwKXQoKIyAo5byV5pOOLCDkuK3mlocsIOaEn+WumCwg5Y+C5pWwLCDmi7/liLDku4DkuYgsIOeKtuaAgSkKIyAg54q25oCBOiDmnIkgLyDml6Ag4oCU4oCUIOOAjOaXoOOAjeaYr+ecn+ayoeacie+8jOS4jeiuuOijheaIkOa0u+eahApDSEFOTkVMUyA9IFsKICAgICgiaW1hZ2UiLCAgICLlm77niYciLCAgICLnnLwiLCAiYjY0IiwgICLlsLrlr7gv5Li76ImyL+S6ruW6pi/lg4/ntKDlk4jluIwiLCAgICLmnIkiKSwKICAgICgiZmV0Y2giLCAgICLmipPlj5YiLCAgICLnnLwiLCAic3BlYyIsICLnvZHpobXljp/lp4vlrZfoioIgKyDlk4jluIwiLCAgICAgICAi5pyJIiksCiAgICAoImNvbnNvbGUiLCAi5o6n5Yi25Y+wIiwgIuecvCIsICLml6Dlj4IiLCAi6Ieq5bex5YaF6YOo5a6e5pe26K+75pWwIiwgICAgICAgICAgICLmnIkiKSwKICAgICgidm9pY2UiLCAgICLor63pn7MiLCAgICLogLMiLCAi5peg5Y+CIiwgIu+8iOaXoO+8iSIsICAgICAgICAgICAgICAgICAgICAgIuaXoCIpLAogICAgKCJhc2siLCAgICAgIuaMh+S7pCIsICAgIuWPoyIsICJ0ZXh0IiwgIuaWh+acrOWbnuW6lO+8iOS4jeaYr+WPkeWjsO+8iSIsICAgICAgICLmnIkiKSwKICAgICgidmVyaWZ5IiwgICLpqozor4EiLCAgICLmiYsiLCAi5peg5Y+CIiwgIuS4gOmUrumqjOivgemAmui/hy/lpLHotKUiLCAgICAgICAgICAi5pyJIiksCiAgICAoInNjYW4iLCAgICAi5omr5o+PIiwgICAi5omLIiwgInRleHQiLCAiZXZhbGd1YXJkIOaJq+S7o+eggSIsICAgICAgICAgICAi5pyJIiksCiAgICAoInByb3ZlIiwgICAi6K+R5pysIiwgICAi5omLIiwgInRleHQiLCAi5Yik5o2u57yW6K+R5oiQ5Ya757uT6K+R5pysIiwgICAgICAgICAi5pyJIiksCiAgICAoInNraWxsIiwgICAi6KOFc2tpbGwiLCLmiYsiLCAic3BlYyIsICLmioDog73ljIXnu5PmnoTmoLjpqowiLCAgICAgICAgICAgICAi5pyJIiksCiAgICAoImFwaSIsICAgICAi6LCDQVBJIiwgICLmiYsiLCAic3BlYyIsICLlpJbpg6jlj6ror7sgQVBJIOe7k+aenCIsICAgICAgICAgICLmnIkiKSwKICAgICgiaW5nZXN0IiwgICLmlLbku7YiLCAgICLmiYsiLCAia2luZCIsICLmlofmnKwv5Zu+54mHL+S6i+S7tuiQveebmOW4puWTiOW4jCIsICAgIuaciSIpLAogICAgKCJkZWxpdmVyIiwgIuaKlemAkiIsICAgIuaJiyIsICJwYXlsb2FkIiwgIuWuouaIt+err+W4puWHreaNruWGmeWFpeS7k+W6kyIsICAgICLmnIkiKSwKICAgICgiaW5ib3giLCAgICLmlLbku7bnrrEiLCAi6K6wIiwgIuaXoOWPgiIsICLor7vlm57ot6jml7bpl7TnlZnlrZjnmoTkuJzopb8iLCAgICAgICAi5pyJIiksCl0KCiMg5ZCN5a2XIOKGkiDlvJXmk47vvIjkuK3mloflkI0v6Iux5paH5byV5pOO5ZCN6YO96K6k77yM6L+Z5Y+q5piv5ou85YaZ77yM5LiN5piv5YiG57G777yJCkFMSUFTID0ge30KZm9yIGVuLCB6aCwgKl8gaW4gQ0hBTk5FTFM6CiAgICBBTElBU1tlbl0gPSBlbgogICAgQUxJQVNbemhdID0gZW4KCmRlZiByZXNvbHZlKG5hbWUpOgogICAgaWYgbm90IG5hbWU6IHJldHVybiBOb25lCiAgICBuID0gc3RyKG5hbWUpLnN0cmlwKCkKICAgIGlmIG4gaW4gQUxJQVM6IHJldHVybiBBTElBU1tuXQogICAgcmV0dXJuIEFMSUFTLmdldChuLmxvd2VyKCkpCgpkZWYgc2Vuc2UoZW4pOgogICAgZm9yIGUsIHpoLCBzLCAqXyBpbiBDSEFOTkVMUzoKICAgICAgICBpZiBlID09IGVuOiByZXR1cm4gcwogICAgcmV0dXJuICI/IgoKZGVmIGFyZ19maWVsZChlbik6CiAgICBmb3IgZSwgemgsIHMsIGZvcm0sICpfIGluIENIQU5ORUxTOgogICAgICAgIGlmIGUgPT0gZW46IHJldHVybiBmb3JtCiAgICByZXR1cm4gIuaXoOWPgiIKCmRlZiBzdGF0dXMoZW4pOgogICAgZm9yIGUsIHpoLCBzLCBmb3JtLCBnYWluLCBzdCBpbiBDSEFOTkVMUzoKICAgICAgICBpZiBlID09IGVuOiByZXR1cm4gc3QKICAgIHJldHVybiAi5pegIgoKZGVmIGJ5X3NlbnNlKCk6CiAgICBvdXQgPSB7fQogICAgZm9yIHIgaW4gQ0hBTk5FTFM6CiAgICAgICAgb3V0LnNldGRlZmF1bHQoclsyXSwgW10pLmFwcGVuZChyKQogICAgcmV0dXJuIG91dAoKZGVmIHNlbnNlX3JlcG9ydCgpOgogICAgIiIi5oyJ5oSf5a6Y5rGH5oC777ya5q+P5Liq5oSf5a6Y5pyJ5Yeg5p2h6YCa6YGT44CB6YCa5Yeg5p2h44CB57y65Yeg5p2h44CCIiIiCiAgICByZXAgPSBbXQogICAgZm9yIHMsIGRlc2MsIGNhdmVhdCBpbiBTRU5TRVM6CiAgICAgICAgaXRlbXMgPSBbciBmb3IgciBpbiBDSEFOTkVMUyBpZiByWzJdID09IHNdCiAgICAgICAgaGF2ZSA9IFtyIGZvciByIGluIGl0ZW1zIGlmIHJbNV0gPT0gIuaciSJdCiAgICAgICAgcmVwLmFwcGVuZCh7IuaEn+WumCI6IHMsICLor7TmmI4iOiBkZXNjLCAi6L6555WMIjogY2F2ZWF0LAogICAgICAgICAgICAgICAgICAgICLpgJrpgZMiOiBsZW4oaXRlbXMpLCAi5pyJIjogbGVuKGhhdmUpLAogICAgICAgICAgICAgICAgICAgICLnvLoiOiBbclsxXSBmb3IgciBpbiBpdGVtcyBpZiByWzVdICE9ICLmnIkiXX0pCiAgICByZXR1cm4gcmVwCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj09PSDmhJ/lrpjms6jlhozooajvvIjkuI3mmK/or63oqIDvvIzmmK/ouqvkvZPpg6jkvY3vvIk9PT0iKQogICAgZm9yIHIgaW4gc2Vuc2VfcmVwb3J0KCk6CiAgICAgICAgbWFyayA9ICLinJMiIGlmIHJbIue8uiJdID09IFtdIGVsc2UgIsK3IgogICAgICAgIHByaW50KCIgICVzICVzICAlLTI4cyDpgJrpgZMlZC/mnIklZCDnvLo6JXMiICUKICAgICAgICAgICAgICAobWFyaywgclsi5oSf5a6YIl0sIHJbIuivtOaYjiJdLCByWyLpgJrpgZMiXSwgclsi5pyJIl0sCiAgICAgICAgICAgICAgICLjgIEiLmpvaW4oclsi57y6Il0pIG9yICLml6AiKSkKICAgIHByaW50KCJcbj09PSDpgJDmnaEgPT09IikKICAgIGZvciBzLCBkZXNjLCBjYXZlYXQgaW4gU0VOU0VTOgogICAgICAgIHByaW50KCJcbiAgWyVzXSAlcyIgJSAocywgZGVzYykpCiAgICAgICAgcHJpbnQoIiAgICAgICAg6L6555WMOiAlcyIgJSBjYXZlYXQpCiAgICAgICAgZm9yIGUsIHpoLCBzcywgZm9ybSwgZ2Fpbiwgc3QgaW4gQ0hBTk5FTFM6CiAgICAgICAgICAgIGlmIHNzICE9IHM6IGNvbnRpbnVlCiAgICAgICAgICAgIHByaW50KCIgICAgICAgICVzICUtOHMgJS03cyDlj4LmlbA9JS03cyDmi7/liLA6ICVzIiAlCiAgICAgICAgICAgICAgICAgICgi4pyTIiBpZiBzdCA9PSAi5pyJIiBlbHNlICLCtyIsIGUsIHpoLCBmb3JtLCBnYWluKSkKICAgIG4gPSBzdW0oMSBmb3IgciBpbiBDSEFOTkVMUyBpZiByWzVdID09ICLmnIkiKQogICAgcHJpbnQoIlxuICDmnIkgJWQgLyDlhbEgJWQiICUgKG4sIGxlbihDSEFOTkVMUykpKQogICAgcHJpbnQoIlxuPT09IOaLvOWGmeaXoOWFs+aAp+iHquajgO+8iOS4reaWhz3oi7Hmloc95ZCM5LiA5Liq5oSf5a6Y77yJPT09IikKICAgIGZvciB0IGluIFsi5Zu+54mHIiwgImltYWdlIiwgIklNQUdFIiwgIuaKk+WPliIsICJmZXRjaCIsICLor63pn7MiLCAidm9pY2UiXToKICAgICAgICBwcmludCgiICAlLThzIOKGkiAlLThzIOaEn+WumD0lcyIgJSAodCwgcmVzb2x2ZSh0KSwgc2Vuc2UocmVzb2x2ZSh0KSBvciAiIikpKQo=
+# -*- coding: utf-8 -*-
+"""
+感官注册表 —— 唯一真源。
+
+之前我做的是「中英文别名映射」，那是错的：
+中文和英文只是同一个感官的两种拼写，不是两种通道。
+
+真正的轴是【感官】。通道不是按语言分的，是按
+   我有没有这个感官、它接进来了没有、用它能拿到什么
+来分的。
+
+    python3 channels.py
+"""
+import os
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+
+# 感官定义：这一族共同回答「我用身体的哪一部分」
+SENSES = [
+    ("眼", "接收图像、看外部页面、看自己状态", "像素级可核验；看不出语义"),
+    ("耳", "接收声音", "真没有：无采样器"),
+    ("口", "发声、回应", "真没有：无 TTS；文本回应不算发声"),
+    ("手", "执行、写、抓、装、调", "可落盘、可复算"),
+    ("记", "跨时间留存", "外挂（仓库），不是天生"),
+]
+
+# (引擎, 中文, 感官, 参数, 拿到什么, 状态)
+#  状态: 有 / 无 —— 「无」是真没有，不许装成活的
+CHANNELS = [
+    ("image",   "图片",   "眼", "b64",  "尺寸/主色/亮度/像素哈希",   "有"),
+    ("fetch",   "抓取",   "眼", "spec", "网页原始字节 + 哈希",       "有"),
+    ("console", "控制台", "眼", "无参", "自己内部实时读数",           "有"),
+    ("voice",   "语音",   "耳", "无参", "（无）",                     "无"),
+    ("ask",     "指令",   "口", "text", "文本回应（不是发声）",       "有"),
+    ("verify",  "验证",   "手", "无参", "一键验证通过/失败",          "有"),
+    ("scan",    "扫描",   "手", "text", "evalguard 扫代码",           "有"),
+    ("prove",   "译本",   "手", "text", "判据编译成冻结译本",         "有"),
+    ("skill",   "装skill","手", "spec", "技能包结构核验",             "有"),
+    ("api",     "调API",  "手", "spec", "外部只读 API 结果",          "有"),
+    ("ingest",  "收件",   "手", "kind", "文本/图片/事件落盘带哈希",   "有"),
+    ("deliver", "投递",   "手", "payload", "客户端带凭据写入仓库",    "有"),
+    ("inbox",   "收件箱", "记", "无参", "读回跨时间留存的东西",       "有"),
+]
+
+# 名字 → 引擎（中文名/英文引擎名都认，这只是拼写，不是分类）
+ALIAS = {}
+for en, zh, *_ in CHANNELS:
+    ALIAS[en] = en
+    ALIAS[zh] = en
+
+def resolve(name):
+    if not name: return None
+    n = str(name).strip()
+    if n in ALIAS: return ALIAS[n]
+    return ALIAS.get(n.lower())
+
+def sense(en):
+    for e, zh, s, *_ in CHANNELS:
+        if e == en: return s
+    return "?"
+
+def arg_field(en):
+    for e, zh, s, form, *_ in CHANNELS:
+        if e == en: return form
+    return "无参"
+
+def status(en):
+    for e, zh, s, form, gain, st in CHANNELS:
+        if e == en: return st
+    return "无"
+
+def by_sense():
+    out = {}
+    for r in CHANNELS:
+        out.setdefault(r[2], []).append(r)
+    return out
+
+def sense_report():
+    """按感官汇总：每个感官有几条通道、通几条、缺几条。"""
+    rep = []
+    for s, desc, caveat in SENSES:
+        items = [r for r in CHANNELS if r[2] == s]
+        have = [r for r in items if r[5] == "有"]
+        rep.append({"感官": s, "说明": desc, "边界": caveat,
+                    "通道": len(items), "有": len(have),
+                    "缺": [r[1] for r in items if r[5] != "有"]})
+    return rep
+
+if __name__ == "__main__":
+    print("=== 感官注册表（不是语言，是身体部位）===")
+    for r in sense_report():
+        mark = "✓" if r["缺"] == [] else "·"
+        print("  %s %s  %-28s 通道%d/有%d 缺:%s" %
+              (mark, r["感官"], r["说明"], r["通道"], r["有"],
+               "、".join(r["缺"]) or "无"))
+    print("\n=== 逐条 ===")
+    for s, desc, caveat in SENSES:
+        print("\n  [%s] %s" % (s, desc))
+        print("        边界: %s" % caveat)
+        for e, zh, ss, form, gain, st in CHANNELS:
+            if ss != s: continue
+            print("        %s %-8s %-7s 参数=%-7s 拿到: %s" %
+                  ("✓" if st == "有" else "·", e, zh, form, gain))
+    n = sum(1 for r in CHANNELS if r[5] == "有")
+    print("\n  有 %d / 共 %d" % (n, len(CHANNELS)))
+    print("\n=== 拼写无关性自检（中文=英文=同一个感官）===")
+    for t in ["图片", "image", "IMAGE", "抓取", "fetch", "语音", "voice"]:
+        print("  %-8s → %-8s 感官=%s" % (t, resolve(t), sense(resolve(t) or "")))

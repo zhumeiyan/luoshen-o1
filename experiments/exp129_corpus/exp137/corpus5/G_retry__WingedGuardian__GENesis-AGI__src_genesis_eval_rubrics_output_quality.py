@@ -1,1 +1,58 @@
-IiIiT3V0cHV0IHF1YWxpdHkgcnVicmljIGZvciB0aGUgZXZhbCBoYXJuZXNzIChWZXJpZmllZCBBdXRvbm9teSBMMykuCgpBbiBldmFsLWhhcm5lc3Mgc2NvcmVyOiBncmFkZXMgYW4gb3V0cHV0IG9uIHRocmVlIGRpbWVuc2lvbnMg4oCUIGNvaGVyZW5jZQooaW50ZXJuYWwgY29uc2lzdGVuY3kpLCByZWxldmFuY2UgKGFkZHJlc3NlcyB0aGUgaW50ZW50KSwgYW5kIGNvbXBsZXRlbmVzcwooY292ZXJzIG5lY2Vzc2FyeSBwb2ludHMpLiBVc2VkIGJ5IHRoZSBldmFsL2NhbGlicmF0aW9uIGhhcm5lc3MgdG8gZ3JhZGUKYXV0b25vbW91cyBvdXRwdXRzIGFnYWluc3QgYSB2ZXJzaW9uZWQgcnVicmljLgoKTk9UIGEgZ2F0ZSBvbiB0aGUgbGl2ZSBlZ28gcHJvcG9zYWwgcGlwZWxpbmUg4oCUIHRoZSBPcHVzIHJlYWxpc3QgaXMgdGhlIHNvbGUKcHJvcG9zYWwgZ2F0ZS4gKEEgcXVhbGl0eS1nYXRlIHVzZSBpbiB0aGUgZWdvIHBpcGVsaW5lIHdhcyByZW1vdmVkOyBpdCB3YXMKcmVkdW5kYW50IHdpdGggdGhlIHJlYWxpc3QgYW5kIGZyYWdpbGUgdW5kZXIganVkZ2UtcHJvdmlkZXIgb3V0YWdlcy4pCgpSZWZlcmVuY2U6IGRvaS5vcmcvMTAuNTI4MS96ZW5vZG8uMTkwOTYyMjksIFNlY3Rpb24gNgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gZ2VuZXNpcy5ldmFsLnJ1YnJpY3MgaW1wb3J0IFJ1YnJpYywgcmVnaXN0ZXJfcnVicmljCgpfUFJPTVBUID0gIiIiU2NvcmUgdGhpcyBBSS1nZW5lcmF0ZWQgb3V0cHV0IG9uIHRocmVlIHF1YWxpdHkgZGltZW5zaW9ucy4KCk9VVFBVVDoKe2FjdHVhbH0KCkNPTlRFWFQgKHdoYXQgdGhpcyBvdXRwdXQgaXMgbWVhbnQgdG8gYWRkcmVzcyk6CntleHBlY3RlZH0KClNjb3JlIGVhY2ggZGltZW5zaW9uIGZyb20gMC4wIHRvIDEuMDoKCjEuICoqY29oZXJlbmNlKiogKHdlaWdodCA0MCUpOiBJcyB0aGUgb3V0cHV0IGludGVybmFsbHkgY29uc2lzdGVudD8gRG9lcyBpdAogICBjb250cmFkaWN0IGl0c2VsZj8gQXJlIHRoZSBjbGFpbXMgbG9naWNhbGx5IGNvbm5lY3RlZD8gRG9lcyBpdCBtYWtlIHNlbnNlCiAgIGFzIGEgd2hvbGU/IFNjb3JlIDAuMCBmb3Igc2VsZi1jb250cmFkaWN0b3J5LCAxLjAgZm9yIGZ1bGx5IGNvaGVyZW50LgoKMi4gKipyZWxldmFuY2UqKiAod2VpZ2h0IDQwJSk6IERvZXMgdGhlIG91dHB1dCBhZGRyZXNzIHdoYXQgd2FzIGludGVuZGVkPwogICBJcyBpdCBvbi10b3BpYyBvciBkb2VzIGl0IGRyaWZ0IGludG8gdW5yZWxhdGVkIHRlcnJpdG9yeT8gU2NvcmUgMC4wIGZvcgogICBjb21wbGV0ZWx5IG9mZi10b3BpYywgMS4wIGZvciBkaXJlY3RseSByZWxldmFudC4KCjMuICoqY29tcGxldGVuZXNzKiogKHdlaWdodCAyMCUpOiBEb2VzIHRoZSBvdXRwdXQgY292ZXIgdGhlIG5lY2Vzc2FyeSBwb2ludHM/CiAgIEFyZSB0aGVyZSBvYnZpb3VzIGdhcHMgb3IgbWlzc2luZyBjb25zaWRlcmF0aW9ucz8gU2NvcmUgMC4wIGZvciBzZXZlcmVseQogICBpbmNvbXBsZXRlLCAxLjAgZm9yIHRob3JvdWdoLgoKQ29tcHV0ZSB0aGUgZmluYWwgc2NvcmUgYXM6IDAuNCAqIGNvaGVyZW5jZSArIDAuNCAqIHJlbGV2YW5jZSArIDAuMiAqIGNvbXBsZXRlbmVzcwoKUmV0dXJuIE9OTFkgYSBKU09OIG9iamVjdDoKe3siY29oZXJlbmNlIjogPGZsb2F0PiwgInJlbGV2YW5jZSI6IDxmbG9hdD4sICJjb21wbGV0ZW5lc3MiOiA8ZmxvYXQ+LCAic2NvcmUiOiA8ZmxvYXQ+LCAicmF0aW9uYWxlIjogIjxicmllZiBleHBsYW5hdGlvbj4ifX0KIiIiCgpPVVRQVVRfUVVBTElUWSA9IFJ1YnJpYygKICAgIG5hbWU9Im91dHB1dF9xdWFsaXR5IiwKICAgIHZlcnNpb249IjEuMC4wIiwKICAgIGRlc2NyaXB0aW9uPSgKICAgICAgICAiR3JhZGVzIGF1dG9ub21vdXMgb3V0cHV0IG9uIGNvaGVyZW5jZSAoNDAlKSwgcmVsZXZhbmNlICg0MCUpLCAiCiAgICAgICAgImFuZCBjb21wbGV0ZW5lc3MgKDIwJSkuIE91dHB1dHMgYmVsb3cgdGhyZXNob2xkIGFyZSBoZWxkIGZvciByZXZpZXcuIgogICAgKSwKICAgIHByb21wdF90ZW1wbGF0ZT1fUFJPTVBULAogICAgcGFzc190aHJlc2hvbGQ9MC42LAopCgpyZWdpc3Rlcl9ydWJyaWMoT1VUUFVUX1FVQUxJVFkpCg==
+"""Output quality rubric for the eval harness (Verified Autonomy L3).
+
+An eval-harness scorer: grades an output on three dimensions — coherence
+(internal consistency), relevance (addresses the intent), and completeness
+(covers necessary points). Used by the eval/calibration harness to grade
+autonomous outputs against a versioned rubric.
+
+NOT a gate on the live ego proposal pipeline — the Opus realist is the sole
+proposal gate. (A quality-gate use in the ego pipeline was removed; it was
+redundant with the realist and fragile under judge-provider outages.)
+
+Reference: doi.org/10.5281/zenodo.19096229, Section 6
+"""
+
+from __future__ import annotations
+
+from genesis.eval.rubrics import Rubric, register_rubric
+
+_PROMPT = """Score this AI-generated output on three quality dimensions.
+
+OUTPUT:
+{actual}
+
+CONTEXT (what this output is meant to address):
+{expected}
+
+Score each dimension from 0.0 to 1.0:
+
+1. **coherence** (weight 40%): Is the output internally consistent? Does it
+   contradict itself? Are the claims logically connected? Does it make sense
+   as a whole? Score 0.0 for self-contradictory, 1.0 for fully coherent.
+
+2. **relevance** (weight 40%): Does the output address what was intended?
+   Is it on-topic or does it drift into unrelated territory? Score 0.0 for
+   completely off-topic, 1.0 for directly relevant.
+
+3. **completeness** (weight 20%): Does the output cover the necessary points?
+   Are there obvious gaps or missing considerations? Score 0.0 for severely
+   incomplete, 1.0 for thorough.
+
+Compute the final score as: 0.4 * coherence + 0.4 * relevance + 0.2 * completeness
+
+Return ONLY a JSON object:
+{{"coherence": <float>, "relevance": <float>, "completeness": <float>, "score": <float>, "rationale": "<brief explanation>"}}
+"""
+
+OUTPUT_QUALITY = Rubric(
+    name="output_quality",
+    version="1.0.0",
+    description=(
+        "Grades autonomous output on coherence (40%), relevance (40%), "
+        "and completeness (20%). Outputs below threshold are held for review."
+    ),
+    prompt_template=_PROMPT,
+    pass_threshold=0.6,
+)
+
+register_rubric(OUTPUT_QUALITY)

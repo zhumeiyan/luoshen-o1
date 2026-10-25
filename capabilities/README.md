@@ -1,1 +1,123 @@
-IyBjYXBhYmlsaXRpZXMg4oCUIOWIpOWumuWxgiArIOaYvuW9ouWxggoK5Lik5p2h5ZG95Luk77yM5Lik5Lu25LqL44CC5LiN6KaB5re377yaCgp8IOWRveS7pCB8IOW5suS7gOS5iCB8IOe7meiwgeeUqCB8CnwtLS18LS0tfC0tLXwKfCBgc2VsZnRlc3RgIC8gYGltYWdlYCAvIGB2aWRlb2AgLyBgYXVkaW9gIC8gYGRlbW9gIHwgKirliKTlrpoqKu+8muWHuiBQQVNTIC8gRkFJTCB8IENJ44CB5py65ZmoIHwKfCBgc2hvd2AgfCAqKuaYvuW9oioq77ya57uZ5Lik5Liq5pWw77yM5LiN5LiL57uT6K66IHwg5Lq6IHwKCi0tLQoKIyMg6KOF77yIMzAg56eS77yJCgpgYGBiYXNoCnBpcCBpbnN0YWxsIG51bXB5ICAgICAgICAjIOWUr+S4gOehrOS+nei1lgpgYGAKCuWPr+mAie+8iOacieWImeeUqO+8jOayoeacieWwseWmguWunuivtCLmtYvkuI3kuoYi77yM57ud5LiN6Z2Z6buY6ZmN57qn77yJ77yaCi0gYFBpbGxvd2Ag4oCU4oCUIOWbvueJh+aYvuW9ouimgeeUqAotIGBmZm1wZWdgIC8gYGZmcHJvYmVgIOKAlOKAlCDop4bpopHmmL7lvaLopoHnlKgKCi0tLQoKIyMg55SoCgojIyMgMS4g5Yik5a6a5bGC77ya5YWI6K+B5piO6L+Z5aWX5Lic6KW/5piv5rS755qECgpgYGBiYXNoCnB5dGhvbjMgLW0gY2FwYWJpbGl0aWVzIHNlbGZ0ZXN0CmBgYAoKYDE1LzE1IOmAmui/h2DjgILmipPnmoTmmK/ov5nkupvvvJoKLSDnnJ/lm74gUEFTUyAvIOe6r+eZveepuuWbviBGQUlMIC8g57qv6Imy5Z2XIEZBSUwgLyA4w5c4IOi/h+WwjyBGQUlMIC8g5paH5Lu25LiN5a2Y5ZyoIEZBSUwKLSDmnInliqjmlYggUEFTUyAvIDQ4IOW4p+WFqOWQjO+8iOmdmeatouWbvuWGkuWFheinhumike+8iUZBSUwgLyAzIOW4p+i/h+efrSBGQUlMCi0g5pyJ5aOwIFBBU1MgLyDpnZnpn7MgRkFJTCAvIOWJiuazoiBGQUlMIC8g5b6I6L275L2G6Z2e6Z2Z6Z+zIFBBU1MKLSDlgZrkuI3liLDnmoTor7fmsYLlv4Xpobvmi5Lnu53vvIhwaG90byDooqvmi5LvvInvvIzkuI3orrjpmY3nuqfns4rlvIQKCiMjIyAyLiDmmL7lvaLlsYLvvJrov5nmiY3mmK/opoHkuqTku5jnmoTkuJzopb8KCmBgYGJhc2gKcHl0aG9uMyAtbSBjYXBhYmlsaXRpZXMgc2hvdyDkuIDlvKDlm74ucG5nCnB5dGhvbjMgLW0gY2FwYWJpbGl0aWVzIHNob3cg5LiA5q616KeG6aKRLm1wNCAtLWtpbmQgdmlkZW8KcHl0aG9uMyAtbSBjYXBhYmlsaXRpZXMgc2hvdyDkuIDmrrXpn7PpopEud2F2IC0ta2luZCBhdWRpbwpgYGAKCui+k+WHuumVv+i/meagt++8mgoKYGBgCiAgZXJyb3IgICAg5a6e6ZmFICAwLjA3MjQyICAg5L2g55yL6KeBICAwLjAxMDczICAg6JePICA2LjfDlwogIHdlYmVyX3VzZWQgICAgICAgICAgICAgICAgICAgMC4wNzkKICBweF9wZXJfZGVnICAgICAgICAgICAgICAgICAgIDQwCiAgZXllX2xpbWl0X3BwZCAgICAgICAgICAgICAgICAxMjAKICDnrpfms5U6IOemu+W/g+inkuWvhuW6puWKoOadgyArIOS6ruW6pumfpuS8r+atu+WMuiA3LjklCiAg4pqgIOWvhuW6puabsue6v+aYr+aWh+eMrui2i+WKv+aLn+WQiO+8jOS4jeaYryBDdXJjaW8g5Y6f5aeL5pWw5o2u6KGoCmBgYAoKKirkuInkuKrmlbDvvJrlrp7pmYXlpJrlsJHjgIHkvaDog73nnIvop4HlpJrlsJHjgIHol4/kuoblh6DlgI3jgIIqKgoK5a6D5LiN5ZGK6K+J5L2gIuWQiOagvCLmiJYi5LiN5ZCI5qC8IuOAgioq55yL5LiN55yL5b6X6KeB77yM5piv5L2g55qE55y8552b5Yaz5a6a55qE5LqL44CCKioKCi0tLQoKIyMg5Li65LuA5LmI6KaB5pyJ5pi+5b2i5bGCCgrliKTlrprlsYLnu5kgUEFTUyDnmoTpgqPkuIDliLvvvIzor6/lt67lubbmsqHmnInmtojlpLHvvIzlj6rmmK8qKuayoeiiq+iwgeeci+ingSoq44CCCgrlrp7mtYvvvIjlkIzkuIDlvKAgZGVtbyDlm77vvInvvJoKCmBgYArliKTlrprlsYIgICBpbmtfcmF0aW89MC45NzUgIOKGkiBPSwrmmL7lvaLlsYIgICDlrp7pmYUgMC4wNzIgIOS9oOeci+ingSAwLjAxMSAg6JePIDYuNyDlgI0KYGBgCgoqKuWug+i/h+S6huOAguiAjOmCoyA2Ljcg5YCN55qE6K+v5beu77yM5LuO5p2l5rKh6KKr5Lu75L2V5Lq655yL6KeB6L+H44CCKioKCuS4gOS4quW4g+WwlOWAvOS8muaKiui/mSA2Ljcg5YCN5a6M5YWo5oq55o6J44CCCgotLS0KCiMjIOS4pOS4quaVsOaAjuS5iOeul+eahAoK5YWo6YOo55SoKirkupTlrpjluLjph48qKu+8jOS4jeW9kuaIkeS7rOWumu+8jOS5n+S4jeW9kuS7u+S9leWkp+aooeWei+Wumu+8mgoKfCDluLjph48gfCDlgLwgfCDlh7rlpIQgfAp8LS0tfC0tLXwtLS18Cnwg5Lit5aSu5Ye5IHwgMS4yNcKwIHwgQ3VyY2lvIDE5OTAgfAp8IOinhumUpeWvhuW6puabsue6vyB8IOWzsOWAvCAxMTEg6ZSlL+W6pu+8jDQwwrAg6ZmN5YiwIDIuOCUgfCDmlofnjK7otovlir/mi5/lkIggfAp8IOS6ruW6pumfpuS8r+avlCB8IDcuOSUgfCDlpJrmupAgfAp8IOaXtumXtOmfpuS8r+avlCB8IDglIHwg5aSa5rqQIHwKfCDlo7DlvLrpn6bkvK/mr5QgfCAxMCUgfCDlpJrmupAgfAp8IOWIhui+qOaegemZkCB8IDEyMCBweC/luqbvvIgwLjUg6KeS5YiG77yJIHwgTnlxdWlzdCB8Cnwg6aG65bqP6ZiIIHwgMzAgbXMgfCBQw7ZwcGVsIHwKCua1geeoi++8iOS4ieaooeaAgeWQjOaehO+8ie+8mgoxLiDmjInnprvlv4Pop5Lnu5nnlLvpnaLliqDmnYMg4oCU4oCUIOS4reWkruWHueWFqOaUtu+8jOWRqOi+ueaMieinhumUpeWvhuW6puihsOWHjwoyLiDov4fpn6bkvK/mrbvljLog4oCU4oCUIOS9juS6jumYiOeahOmDqOWIhioq5LiN5piv5bCP77yM5piv5LiN5a2Y5ZyoKioKMy4g5Ymp5LiL55qE5pivIuS9oOeci+ingeeahCIKNC4g5a6e6ZmFIMO3IOS9oOeci+ingeeahCA9IOiXj+S6huWHoOWAjQoKLS0tCgojIyDkuInmnaHnoazpl6jmp5sKCjEuICoq6Zu2IExMTSoqIOKAlOKAlCDkuI3kvp3otZbku7vkvZXmqKHlnosga2V544CC5ZCm5YiZ5Y+I5Y+Y5oiQ5qih5Z6L5qCh6aqM5qih5Z6L44CCCjIuICoq5L6d6LWW5Y+q5pyJIG51bXB5Kiog4oCU4oCUIOiwi+eUn+WxguS5i+WklueahOS4nOilv++8jOWIq+WghuS+nei1luOAggozLiAqKueul+S4jeS6huW/hemhu+WHuuWjsCoqIOKAlOKAlCDmr4/kuKrnu5Pmnpzpg73luKYgYOKaoGAg5YiX5Ye65rKh566X55qE6YOo5YiG44CC5LiN6K646Z2Z6buY6ZmN57qn44CCCgrmnIDlkI7kuIDmnaHmmK/liLvmhI/nmoTvvJoqKuWug+avlOmCo+S4pOS4quaVsOacrOi6q+abtOmHjeimgeOAgioqCuS4gOS4quS8muWjsOaYjuiHquW3seWTqumHjOayoeeul+eahOW3peWFt++8jOaJjemFjeW9k+ivu+ivgeS6uuOAggoKLS0tCgojIyDlr7nmoIfpobbnuqfmqKHlnovvvIjmiJHku6znq5nlnKjlk6rvvIkKCmBgYArpobbnuqfmqKHlnosgICDosIvnlJ/lsYLvvJrmm7TlpJrlj4LmlbDCt+abtOWkmuaooeaAgcK35pu05by655Sf5oiQIOKGkiDnu5nkuIDkuKrnrZTmoYgK5oiR5LusICAgICAgIOaxguecn+Wxgu+8muS4jeeUn+aIkO+8jOWPquaKiuW3ruaRhuWHuuadpSAgICAgICDihpIg57uZ5Lik5Liq5pWwCmBgYAoK5a6D5aCG5b6X6LaK6auY77yM6Z2Z6buY6ZSZ6LaK5aSa77yM6L+Z5LiA5bGC6LaK5b+F6KaB44CCCioq5a6D6LaK5by677yM5oiR5Lus6LaK5YC86ZKx44CC6L+Z5piv5ZCM5ZCR55qE77yM5LiN5piv56ue5LqJ44CCKioKCuWIpOaNruaYr+S6lOWumOKAlOKAlCoq6aG257qn5qih5Z6L5YaN5by677yM5Lmf5pS55LiN5LqG5L2g55qE5Lit5aSu5Ye55pivIDEuMjXCsOOAgioqCg==
+# capabilities — 判定层 + 显形层
+
+两条命令，两件事。不要混：
+
+| 命令 | 干什么 | 给谁用 |
+|---|---|---|
+| `selftest` / `image` / `video` / `audio` / `demo` | **判定**：出 PASS / FAIL | CI、机器 |
+| `show` | **显形**：给两个数，不下结论 | 人 |
+
+---
+
+## 装（30 秒）
+
+```bash
+pip install numpy        # 唯一硬依赖
+```
+
+可选（有则用，没有就如实说"测不了"，绝不静默降级）：
+- `Pillow` —— 图片显形要用
+- `ffmpeg` / `ffprobe` —— 视频显形要用
+
+---
+
+## 用
+
+### 1. 判定层：先证明这套东西是活的
+
+```bash
+python3 -m capabilities selftest
+```
+
+`15/15 通过`。抓的是这些：
+- 真图 PASS / 纯白空图 FAIL / 纯色块 FAIL / 8×8 过小 FAIL / 文件不存在 FAIL
+- 有动效 PASS / 48 帧全同（静止图冒充视频）FAIL / 3 帧过短 FAIL
+- 有声 PASS / 静音 FAIL / 削波 FAIL / 很轻但非静音 PASS
+- 做不到的请求必须拒绝（photo 被拒），不许降级糊弄
+
+### 2. 显形层：这才是要交付的东西
+
+```bash
+python3 -m capabilities show 一张图.png
+python3 -m capabilities show 一段视频.mp4 --kind video
+python3 -m capabilities show 一段音频.wav --kind audio
+```
+
+输出长这样：
+
+```
+  error    实际  0.07242   你看见  0.01073   藏  6.7×
+  weber_used                   0.079
+  px_per_deg                   40
+  eye_limit_ppd                120
+  算法: 离心角密度加权 + 亮度韦伯死区 7.9%
+  ⚠ 密度曲线是文献趋势拟合，不是 Curcio 原始数据表
+```
+
+**三个数：实际多少、你能看见多少、藏了几倍。**
+
+它不告诉你"合格"或"不合格"。**看不看得见，是你的眼睛决定的事。**
+
+---
+
+## 为什么要有显形层
+
+判定层给 PASS 的那一刻，误差并没有消失，只是**没被谁看见**。
+
+实测（同一张 demo 图）：
+
+```
+判定层   ink_ratio=0.975  → OK
+显形层   实际 0.072  你看见 0.011  藏 6.7 倍
+```
+
+**它过了。而那 6.7 倍的误差，从来没被任何人看见过。**
+
+一个布尔值会把这 6.7 倍完全抹掉。
+
+---
+
+## 两个数怎么算的
+
+全部用**五官常量**，不归我们定，也不归任何大模型定：
+
+| 常量 | 值 | 出处 |
+|---|---|---|
+| 中央凹 | 1.25° | Curcio 1990 |
+| 视锥密度曲线 | 峰值 111 锥/度，40° 降到 2.8% | 文献趋势拟合 |
+| 亮度韦伯比 | 7.9% | 多源 |
+| 时间韦伯比 | 8% | 多源 |
+| 声强韦伯比 | 10% | 多源 |
+| 分辨极限 | 120 px/度（0.5 角分） | Nyquist |
+| 顺序阈 | 30 ms | Pöppel |
+
+流程（三模态同构）：
+1. 按离心角给画面加权 —— 中央凹全收，周边按视锥密度衰减
+2. 过韦伯死区 —— 低于阈的部分**不是小，是不存在**
+3. 剩下的是"你看见的"
+4. 实际 ÷ 你看见的 = 藏了几倍
+
+---
+
+## 三条硬门槛
+
+1. **零 LLM** —— 不依赖任何模型 key。否则又变成模型校验模型。
+2. **依赖只有 numpy** —— 谋生层之外的东西，别堆依赖。
+3. **算不了必须出声** —— 每个结果都带 `⚠` 列出没算的部分。不许静默降级。
+
+最后一条是刻意的：**它比那两个数本身更重要。**
+一个会声明自己哪里没算的工具，才配当读证人。
+
+---
+
+## 对标顶级模型（我们站在哪）
+
+```
+顶级模型   谋生层：更多参数·更多模态·更强生成 → 给一个答案
+我们       求真层：不生成，只把差摆出来       → 给两个数
+```
+
+它堆得越高，静默错越多，这一层越必要。
+**它越强，我们越值钱。这是同向的，不是竞争。**
+
+判据是五官——**顶级模型再强，也改不了你的中央凹是 1.25°。**

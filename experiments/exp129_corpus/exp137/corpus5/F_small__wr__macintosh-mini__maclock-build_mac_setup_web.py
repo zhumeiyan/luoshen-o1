@@ -1,1 +1,287 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIFNQRFgtRmlsZUNvcHlyaWdodFRleHQ6IDIwMjYgV2VsbHMgUmlsZXkKIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogR1BMLTMuMC1vci1sYXRlcgoKIyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyBtYWNfc2V0dXBfd2ViLnB5CiMKIyBUaGUgdHdvIHNldHVwIHBhZ2VzLCBzZXJ2ZWQgYnkgbWFjX3NldHVwLnB5IG9uIHBvcnQgODAuCiMgICAtIE9uIHRoZSBNYWMncyBvd24gaG90c3BvdDogdGhlIHBhZ2UgcGhvbmVzIHBvcCB1cCBieSB0aGVtc2VsdmVzLCBhc2tpbmcKIyAgICAgZm9yIHRoZSBXaS1GaSBuZXR3b3JrLCBpdHMgcGFzc3dvcmQgYW5kIChmaXJzdCB0aW1lKSBhIE1hYyBwYXNzd29yZC4KIyAgICAgRXZlcnkgb3RoZXIgYWRkcmVzcyBhIHBob25lIGFza3MgZm9yIGlzIHNlbnQgaGVyZS4KIyAgIC0gT24gdGhlIG93bmVyJ3MgV2ktRmksIHdoaWxlIHRoZXJlJ3Mgbm8gUk9NOiB0aGUgUk9NIHBhZ2UuCiMgRXZlcnl0aGluZyBpcyBpbmxpbmU6IHBob25lcyBvbiB0aGUgaG90c3BvdCBoYXZlIG5vIGludGVybmV0LgojICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKaW1wb3J0IGh0bWwKaW1wb3J0IHJlCmltcG9ydCB1cmxsaWIuZXJyb3IKaW1wb3J0IHVybGxpYi5wYXJzZQppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBodHRwLnNlcnZlciBpbXBvcnQgQmFzZUhUVFBSZXF1ZXN0SGFuZGxlciwgVGhyZWFkaW5nSFRUUFNlcnZlcgoKZnJvbSBtYWNfc2V0dXAgaW1wb3J0IENvbm5lY3RSZXF1ZXN0CgpIT1RTUE9UX0lQID0gJzEwLjQyLjAuMScKUE9SVEFMX1VSTCA9IGYnaHR0cDovL3tIT1RTUE9UX0lQfS8nCk1BWF9ST01fQllURVMgPSAxNiAqIDEwMjQgKiAxMDI0CkdVSURFX1VSTCA9ICdodHRwczovL3d3dy5yZWR1bmRhbnRyb2JvdC5jb20vc2hlZXBzaGF2ZXInCkdVSURFID0gKCdOZWVkIGEgUk9NPyA8YSBocmVmPSJodHRwczovL3d3dy5yZWR1bmRhbnRyb2JvdC5jb20vc2hlZXBzaGF2ZXIiPlJlZHVuZGFudCBSb2JvdFwncyAnCiAgICAgICAgICdlbXVsYXRvciBndWlkZTwvYT4gZXhwbGFpbnMgd2hpY2ggb25lIHRvIHVzZSBhbmQgd2hlcmUgdG8gZmluZCBpdC4gVGhlIDxiPlBlcmZvcm1hIFJPTTwvYj4gd29ya3MgYmVzdC4nKQoKCmNsYXNzIEZvcm1FcnJvcihFeGNlcHRpb24pOgogICAgIiIiQSBmb3JtIHdhcyByZWZ1c2VkOyBzdHIoZSkgaXMgdGhlIG1lc3NhZ2UgZm9yIHRoZSBvd25lci4iIiIKCgpkZWYgcGFyc2VfY29ubmVjdF9mb3JtKGJvZHksIG5lZWRzX3Bhc3N3b3JkKToKICAgIGYgPSB1cmxsaWIucGFyc2UucGFyc2VfcXMoYm9keS5kZWNvZGUoJ3V0Zi04JywgJ3JlcGxhY2UnKSwga2VlcF9ibGFua192YWx1ZXM9VHJ1ZSkKCiAgICBkZWYgZ2V0KG5hbWUpOgogICAgICAgIHJldHVybiBmLmdldChuYW1lLCBbJyddKVswXQoKICAgICMgQSBuZXR3b3JrIHBpY2tlZCBmcm9tIHRoZSBsaXN0IHdpbnM7ICJPdGhlcuKApiIgKGVtcHR5KSBtZWFucyB0aGUgdHlwZWQgbmFtZS4KICAgIHNzaWQgPSBnZXQoJ25ldHdvcmsnKQogICAgaGlkZGVuID0gRmFsc2UKICAgIGlmIG5vdCBzc2lkOgogICAgICAgIHNzaWQgPSBnZXQoJ290aGVyJykuc3RyaXAoKQogICAgICAgIGhpZGRlbiA9IFRydWUKICAgIGlmIG5vdCBzc2lkOgogICAgICAgIHJhaXNlIEZvcm1FcnJvcignUGljayB5b3VyIFdpLUZpIG5ldHdvcmssIG9yIHR5cGUgaXRzIG5hbWUuJykKICAgIGlmIGxlbihzc2lkLmVuY29kZSgpKSA+IDMyOgogICAgICAgIHJhaXNlIEZvcm1FcnJvcignVGhhdCBuZXR3b3JrIG5hbWUgaXMgdG9vIGxvbmcuJykKICAgIHBhc3N3b3JkID0gZ2V0KCdwYXNzd29yZCcpCiAgICBoZXhfcHNrID0gbGVuKHBhc3N3b3JkKSA9PSA2NCBhbmQgcmUuZnVsbG1hdGNoKHInWzAtOWEtZkEtRl0rJywgcGFzc3dvcmQpCiAgICBpZiBwYXNzd29yZCBhbmQgbm90IGhleF9wc2sgYW5kIG5vdCA4IDw9IGxlbihwYXNzd29yZCkgPD0gNjM6CiAgICAgICAgcmFpc2UgRm9ybUVycm9yKCdXaS1GaSBwYXNzd29yZHMgYXJlIDggdG8gNjMgY2hhcmFjdGVycy4gJwogICAgICAgICAgICAgICAgICAgICAgICAnTGVhdmUgaXQgYmxhbmsgaWYgeW91ciBuZXR3b3JrIGhhcyBub25lLicpCiAgICBtYWNfcGFzc3dvcmQgPSBOb25lCiAgICBpZiBuZWVkc19wYXNzd29yZDoKICAgICAgICBtYWNfcGFzc3dvcmQgPSBnZXQoJ21hY19wYXNzd29yZCcpCiAgICAgICAgaWYgbm90IG1hY19wYXNzd29yZDoKICAgICAgICAgICAgcmFpc2UgRm9ybUVycm9yKCdDaG9vc2UgYSBwYXNzd29yZCBmb3IgeW91ciBNYWMuJykKICAgICAgICBpZiBsZW4obWFjX3Bhc3N3b3JkKSA8IDQ6CiAgICAgICAgICAgIHJhaXNlIEZvcm1FcnJvcigiTWFrZSB0aGUgTWFjJ3MgcGFzc3dvcmQgYXQgbGVhc3QgNCBjaGFyYWN0ZXJzLiIpCiAgICAgICAgaWYgbWFjX3Bhc3N3b3JkICE9IGdldCgnbWFjX3Bhc3N3b3JkMicpOgogICAgICAgICAgICByYWlzZSBGb3JtRXJyb3IoIlRoZSB0d28gTWFjIHBhc3N3b3JkcyBkb24ndCBtYXRjaC4iKQogICAgaWYgYW55KGMgaW4gcyBmb3IgcyBpbiAocGFzc3dvcmQsIG1hY19wYXNzd29yZCBvciAnJykgZm9yIGMgaW4gJ1xyXG5cMCcpOgogICAgICAgIHJhaXNlIEZvcm1FcnJvcigiUGFzc3dvcmRzIGNhbid0IGNvbnRhaW4gbGluZSBicmVha3MuIikKICAgIHR6ID0gZ2V0KCd0eicpCiAgICBpZiBub3QgcmUuZnVsbG1hdGNoKHInW0EtWmEtel1bQS1aYS16MC05XytcLV0qKC9bQS1aYS16MC05XytcLV0rKSonLCB0eikgb3IgbGVuKHR6KSA+IDY0OgogICAgICAgIHR6ID0gTm9uZQogICAgcmV0dXJuIENvbm5lY3RSZXF1ZXN0KHNzaWQsIHBhc3N3b3JkLCBoaWRkZW4sIG1hY19wYXNzd29yZCwgdHopCgoKZGVmIGZldGNoX3VybCh1cmwsIGxpbWl0PU1BWF9ST01fQllURVMpOgogICAgaWYgdXJsbGliLnBhcnNlLnVybHNwbGl0KHVybCkuc2NoZW1lIG5vdCBpbiAoJ2h0dHAnLCAnaHR0cHMnKToKICAgICAgICByYWlzZSBGb3JtRXJyb3IoIlRoYXQgbGluayBkb2Vzbid0IGxvb2sgcmlnaHQuIEl0IHNob3VsZCBzdGFydCB3aXRoIGh0dHA6Ly8gb3IgaHR0cHM6Ly8uIikKICAgIHRyeToKICAgICAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KHVybCwgaGVhZGVycz17J1VzZXItQWdlbnQnOiAnbWFjaW50b3NoLW1pbmktc2V0dXAnfSkKICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PTYwKSBhcyByOgogICAgICAgICAgICBkYXRhID0gci5yZWFkKGxpbWl0ICsgMSkKICAgIGV4Y2VwdCAodXJsbGliLmVycm9yLlVSTEVycm9yLCBPU0Vycm9yLCBWYWx1ZUVycm9yKToKICAgICAgICByYWlzZSBGb3JtRXJyb3IoIkNvdWxkbid0IGRvd25sb2FkIHRoYXQgbGluay4gQ2hlY2sgaXQgYW5kIHRyeSBhZ2Fpbi4iKQogICAgaWYgbGVuKGRhdGEpID4gbGltaXQ6CiAgICAgICAgcmFpc2UgRm9ybUVycm9yKCdUaGF0IGZpbGUgaXMgdG9vIGJpZyB0byBiZSBhIFJPTS4nKQogICAgcmV0dXJuIGRhdGEKCgojIC0tLSBwYWdlcyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpTVFlMRSA9ICIiIgo6cm9vdHtjb2xvci1zY2hlbWU6bGlnaHR9Cip7Ym94LXNpemluZzpib3JkZXItYm94fQpodG1se2JhY2tncm91bmQ6I2E4YThhODtiYWNrZ3JvdW5kLWltYWdlOnJhZGlhbC1ncmFkaWVudCgjOGM4YzhjIDFweCx0cmFuc3BhcmVudCAxcHgpO2JhY2tncm91bmQtc2l6ZTo0cHggNHB4fQpib2R5e21hcmdpbjowO3BhZGRpbmc6MTZweDtmb250OjE3cHgvMS40ICJDaGljYWdvIiwiQ2hpY2Fnb0ZMRiIsLWFwcGxlLXN5c3RlbSxzeXN0ZW0tdWksc2Fucy1zZXJpZjtjb2xvcjojMDAwfQoud2lue21heC13aWR0aDo0NjBweDttYXJnaW46MCBhdXRvO2JhY2tncm91bmQ6I2ZmZjtib3JkZXI6MnB4IHNvbGlkICMwMDA7Ym94LXNoYWRvdzozcHggM3B4IDAgIzAwMH0KLmJhcntwb3NpdGlvbjpyZWxhdGl2ZTtoZWlnaHQ6MjZweDtib3JkZXItYm90dG9tOjJweCBzb2xpZCAjMDAwOwogYmFja2dyb3VuZDpyZXBlYXRpbmctbGluZWFyLWdyYWRpZW50KCMwMDAgMCAxcHgsI2ZmZiAxcHggM3B4KTtiYWNrZ3JvdW5kLWNsaXA6Y29udGVudC1ib3g7cGFkZGluZzo0cHggNHB4fQouYmFyIGgxe3Bvc2l0aW9uOmFic29sdXRlO2xlZnQ6NTAlO3RvcDoxcHg7dHJhbnNmb3JtOnRyYW5zbGF0ZVgoLTUwJSk7bWFyZ2luOjA7cGFkZGluZzowIDEwcHg7CiBiYWNrZ3JvdW5kOiNmZmY7Zm9udC1zaXplOjE2cHg7bGluZS1oZWlnaHQ6MjJweDt3aGl0ZS1zcGFjZTpub3dyYXB9Ci5ib2R5e3BhZGRpbmc6MThweH0KcHttYXJnaW46MCAwIDE0cHh9CmxhYmVse2Rpc3BsYXk6YmxvY2s7bWFyZ2luOjE0cHggMCA2cHg7Zm9udC13ZWlnaHQ6NjAwfQppbnB1dCxzZWxlY3R7d2lkdGg6MTAwJTtmb250OmluaGVyaXQ7cGFkZGluZzoxMHB4O2JvcmRlcjoycHggc29saWQgIzAwMDtib3JkZXItcmFkaXVzOjA7YmFja2dyb3VuZDojZmZmO2NvbG9yOiMwMDA7bWluLWhlaWdodDo0NnB4fQpidXR0b257ZGlzcGxheTpibG9jazt3aWR0aDoxMDAlO21hcmdpbi10b3A6MjJweDtmb250OmluaGVyaXQ7Zm9udC13ZWlnaHQ6NjAwO21pbi1oZWlnaHQ6NTBweDtiYWNrZ3JvdW5kOiNmZmY7Y29sb3I6IzAwMDsKIC13ZWJraXQtYXBwZWFyYW5jZTpub25lO2FwcGVhcmFuY2U6bm9uZTtib3JkZXI6MnB4IHNvbGlkICMwMDA7Ym9yZGVyLXJhZGl1czoxMnB4O2JveC1zaGFkb3c6MCAwIDAgM3B4ICNmZmYsMCAwIDAgNXB4ICMwMDB9CmJ1dHRvbjphY3RpdmV7YmFja2dyb3VuZDojMDAwO2NvbG9yOiNmZmZ9Ci5lcnJ7Ym9yZGVyOjJweCBzb2xpZCAjMDAwO3BhZGRpbmc6MTBweDttYXJnaW4tYm90dG9tOjE0cHg7YmFja2dyb3VuZDojZmZmNmM4fQouc21hbGx7Zm9udC1zaXplOjE0cHg7Y29sb3I6IzMzM30KYXtjb2xvcjojMDAwfQoub3J7dGV4dC1hbGlnbjpjZW50ZXI7bWFyZ2luOjE4cHggMCAwfQoiIiIKCgpkZWYgcGFnZSh0aXRsZSwgYm9keSk6CiAgICByZXR1cm4gKCc8IWRvY3R5cGUgaHRtbD48aHRtbCBsYW5nPSJlbiI+PGhlYWQ+PG1ldGEgY2hhcnNldD0idXRmLTgiPicKICAgICAgICAgICAgJzxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsaW5pdGlhbC1zY2FsZT0xIj4nCiAgICAgICAgICAgICc8bWV0YSBuYW1lPSJjb2xvci1zY2hlbWUiIGNvbnRlbnQ9ImxpZ2h0Ij4nCiAgICAgICAgICAgIGYnPHRpdGxlPntodG1sLmVzY2FwZSh0aXRsZSl9PC90aXRsZT48c3R5bGU+e1NUWUxFfTwvc3R5bGU+PC9oZWFkPjxib2R5PicKICAgICAgICAgICAgZic8ZGl2IGNsYXNzPSJ3aW4iPjxkaXYgY2xhc3M9ImJhciI+PGgxPntodG1sLmVzY2FwZSh0aXRsZSl9PC9oMT48L2Rpdj4nCiAgICAgICAgICAgIGYnPGRpdiBjbGFzcz0iYm9keSI+e2JvZHl9PC9kaXY+PC9kaXY+PC9ib2R5PjwvaHRtbD4nKQoKCmRlZiBfZXJyb3IobXNnKToKICAgIHJldHVybiBmJzxkaXYgY2xhc3M9ImVyciI+e2h0bWwuZXNjYXBlKG1zZyl9PC9kaXY+JyBpZiBtc2cgZWxzZSAnJwoKCmRlZiBwb3J0YWxfcGFnZShzdGF0ZSwgZXJyb3I9Tm9uZSk6CiAgICBvcHRpb25zID0gJycuam9pbihmJzxvcHRpb24+e2h0bWwuZXNjYXBlKG4pfTwvb3B0aW9uPicgZm9yIG4gaW4gc3RhdGVbJ25ldHdvcmtzJ10pCiAgICBtYWMgPSAnJwogICAgaWYgc3RhdGVbJ25lZWRzX3Bhc3N3b3JkJ106CiAgICAgICAgbWFjID0gKCc8bGFiZWwgZm9yPSJtcCI+QSBuZXcgcGFzc3dvcmQgZm9yIHRoaXMgTWFjPC9sYWJlbD4nCiAgICAgICAgICAgICAgICc8aW5wdXQgaWQ9Im1wIiBuYW1lPSJtYWNfcGFzc3dvcmQiIHR5cGU9InBhc3N3b3JkIiBhdXRvY29tcGxldGU9Im5ldy1wYXNzd29yZCIgcmVxdWlyZWQ+JwogICAgICAgICAgICAgICAnPGxhYmVsIGZvcj0ibXAyIj5UeXBlIGl0IGFnYWluPC9sYWJlbD4nCiAgICAgICAgICAgICAgICc8aW5wdXQgaWQ9Im1wMiIgbmFtZT0ibWFjX3Bhc3N3b3JkMiIgdHlwZT0icGFzc3dvcmQiIGF1dG9jb21wbGV0ZT0ibmV3LXBhc3N3b3JkIiByZXF1aXJlZD4nCiAgICAgICAgICAgICAgICc8cCBjbGFzcz0ic21hbGwiPllvdVwnbGwgb25seSBuZWVkIGl0IGZvciBhZHZhbmNlZCB0aGluZ3MsIGxpa2UgY29weWluZyBhIG5ldyBkaXNrICcKICAgICAgICAgICAgICAgJ2ltYWdlIG9udG8gdGhlIE1hYy48L3A+JykKICAgIGJvZHkgPSAoX2Vycm9yKGVycm9yIG9yIHN0YXRlLmdldCgnZXJyb3InKSkKICAgICAgICAgICAgKyAnPGZvcm0gbWV0aG9kPSJwb3N0IiBhY3Rpb249Ii9jb25uZWN0Ij4nCiAgICAgICAgICAgICc8bGFiZWwgZm9yPSJuIj5Zb3VyIFdpLUZpIG5ldHdvcms8L2xhYmVsPicKICAgICAgICAgICAgZic8c2VsZWN0IGlkPSJuIiBuYW1lPSJuZXR3b3JrIj57b3B0aW9uc308b3B0aW9uIHZhbHVlPSIiPk90aGVy4oCmPC9vcHRpb24+PC9zZWxlY3Q+JwogICAgICAgICAgICAjIFNob3duIG9uY2UgIk90aGVy4oCmIiBpcyBwaWNrZWQgKHN0cmFpZ2h0IGF3YXkgaWYgbm90aGluZyB3YXMgZm91bmQpLgogICAgICAgICAgICBmJzxkaXYgaWQ9Im90aGVyYm94InsiIGhpZGRlbiIgaWYgc3RhdGVbIm5ldHdvcmtzIl0gZWxzZSAiIn0+JwogICAgICAgICAgICAnPGxhYmVsIGZvcj0ibyI+TmV0d29yayBuYW1lPC9sYWJlbD4nCiAgICAgICAgICAgICc8aW5wdXQgaWQ9Im8iIG5hbWU9Im90aGVyIiBhdXRvY2FwaXRhbGl6ZT0ib2ZmIiBhdXRvY29ycmVjdD0ib2ZmIiBzcGVsbGNoZWNrPSJmYWxzZSI+JwogICAgICAgICAgICAnPC9kaXY+JwogICAgICAgICAgICAnPGxhYmVsIGZvcj0icCI+V2ktRmkgcGFzc3dvcmQ8L2xhYmVsPicKICAgICAgICAgICAgJzxpbnB1dCBpZD0icCIgbmFtZT0icGFzc3dvcmQiIHR5cGU9InBhc3N3b3JkIiBhdXRvY29tcGxldGU9Im9mZiI+JwogICAgICAgICAgICArIG1hYwogICAgICAgICAgICArICc8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJ0eiIgaWQ9InR6Ij4nCiAgICAgICAgICAgICc8YnV0dG9uIHR5cGU9InN1Ym1pdCI+Q29ubmVjdDwvYnV0dG9uPjwvZm9ybT4nCiAgICAgICAgICAgICc8c2NyaXB0PnRyeXtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgidHoiKS52YWx1ZT0nCiAgICAgICAgICAgICdJbnRsLkRhdGVUaW1lRm9ybWF0KCkucmVzb2x2ZWRPcHRpb25zKCkudGltZVpvbmV8fCIifWNhdGNoKGUpe30nCiAgICAgICAgICAgICd2YXIgbj1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibiIpLGI9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm90aGVyYm94Iik7JwogICAgICAgICAgICAnZnVuY3Rpb24gb3RoZXIoKXtiLmhpZGRlbj1uLnZhbHVlIT09IiI7aWYoIWIuaGlkZGVuKWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJvIikuZm9jdXMoKX0nCiAgICAgICAgICAgICduLm9uY2hhbmdlPW90aGVyO2IuaGlkZGVuPW4udmFsdWUhPT0iIjs8L3NjcmlwdD4nKQogICAgcmV0dXJuIHBhZ2UoJ1NldCB1cCBXaS1GaScsIGJvZHkpCgoKZGVmIGNvbm5lY3RpbmdfcGFnZShuZXR3b3JrKToKICAgIHJldHVybiBwYWdlKCdDb25uZWN0aW5n4oCmJywgZic8cD5Kb2luaW5nIDxiPntodG1sLmVzY2FwZShuZXR3b3JrKX08L2I+4oCmPC9wPicKICAgICAgICAgICAgICAgICc8cD5UaGlzIHNldHVwIG5ldHdvcmsgZ29lcyBhd2F5IG9uY2UgeW91ciBNYWMgaXMgY29ubmVjdGVkLjwvcD4nKQoKCmRlZiByb21fcGFnZShzdGF0ZSwgZXJyb3I9Tm9uZSk6CiAgICBib2R5ID0gKF9lcnJvcihlcnJvciBvciBzdGF0ZS5nZXQoJ2Vycm9yJykpCiAgICAgICAgICAgICsgZic8cD57R1VJREV9PC9wPicKICAgICAgICAgICAgJzxsYWJlbCBmb3I9ImYiPlVwbG9hZCB0aGUgUk9NIChvciB0aGUgLnppcCB5b3UgZG93bmxvYWRlZCk8L2xhYmVsPicKICAgICAgICAgICAgJzxpbnB1dCBpZD0iZiIgdHlwZT0iZmlsZSI+JwogICAgICAgICAgICAnPGJ1dHRvbiBpZD0idXAiIHR5cGU9ImJ1dHRvbiI+VXNlIHRoaXMgZmlsZTwvYnV0dG9uPicKICAgICAgICAgICAgJzxwIGNsYXNzPSJvciI+b3I8L3A+JwogICAgICAgICAgICAnPGZvcm0gbWV0aG9kPSJwb3N0IiBhY3Rpb249Ii9yb20tdXJsIj4nCiAgICAgICAgICAgICc8bGFiZWwgZm9yPSJ1Ij5QYXN0ZSBpdHMgZG93bmxvYWQgbGluazwvbGFiZWw+JwogICAgICAgICAgICAnPGlucHV0IGlkPSJ1IiBuYW1lPSJ1cmwiIHR5cGU9InVybCIgaW5wdXRtb2RlPSJ1cmwiIGF1dG9jYXBpdGFsaXplPSJvZmYiICcKICAgICAgICAgICAgJ2F1dG9jb3JyZWN0PSJvZmYiIHNwZWxsY2hlY2s9ImZhbHNlIiBwbGFjZWhvbGRlcj0iaHR0cHM6Ly/igKYiPicKICAgICAgICAgICAgJzxidXR0b24gdHlwZT0ic3VibWl0Ij5Eb3dubG9hZCBpdDwvYnV0dG9uPjwvZm9ybT4nCiAgICAgICAgICAgICc8c2NyaXB0PmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ1cCIpLm9uY2xpY2s9YXN5bmMgZnVuY3Rpb24oKXsnCiAgICAgICAgICAgICd2YXIgZj1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiZiIpLmZpbGVzWzBdO2lmKCFmKXJldHVybjsnCiAgICAgICAgICAgICd0aGlzLmRpc2FibGVkPXRydWU7dGhpcy50ZXh0Q29udGVudD0iQ2hlY2tpbmfigKYiOycKICAgICAgICAgICAgJ3ZhciByPWF3YWl0IGZldGNoKCIvcm9tIix7bWV0aG9kOiJQT1NUIixib2R5OmZ9KTsnCiAgICAgICAgICAgICdkb2N1bWVudC5vcGVuKCk7ZG9jdW1lbnQud3JpdGUoYXdhaXQgci50ZXh0KCkpO2RvY3VtZW50LmNsb3NlKCk7fTwvc2NyaXB0PicpCiAgICByZXR1cm4gcGFnZSgnQWRkIGEgUk9NJywgYm9keSkKCgpkZWYgcm9tX2RvbmVfcGFnZSgpOgogICAgcmV0dXJuIHBhZ2UoJ0FsbCBzZXQnLCAnPHA+R290IGl0LiBZb3VyIE1hYyBpcyBzdGFydGluZyB1cDogbGlzdGVuIGZvciB0aGUgY2hpbWUuPC9wPicKICAgICAgICAgICAgICAgICc8cD5JZiB0aGUgTWFjIGNvbWVzIGJhY2sgdG8gdGhpcyBzdGVwIGluc3RlYWQsIHRoYXQgUk9NIGRpZG5cJ3Qgd29yay4gJwogICAgICAgICAgICAgICAgJ1JlbG9hZCB0aGlzIHBhZ2UgYW5kIHRyeSBhbm90aGVyLjwvcD4nKQoKCiMgLS0tIHNlcnZlciAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmNsYXNzIEhhbmRsZXIoQmFzZUhUVFBSZXF1ZXN0SGFuZGxlcik6CiAgICBzZXJ2ZXJfdmVyc2lvbiA9ICdtYWNpbnRvc2gtbWluaScKICAgIHN5c192ZXJzaW9uID0gJycKCiAgICBkZWYgbG9nX21lc3NhZ2Uoc2VsZiwgZm10LCAqYXJncyk6CiAgICAgICAgcGFzcyAgICMgbm90aGluZyBzZWNyZXQsIGJ1dCBub3RoaW5nIHdvcnRoIGtlZXBpbmcgZWl0aGVyCgogICAgZGVmIF9zZW5kKHNlbGYsIHN0YXR1cywgYm9keT0nJywgaGVhZGVycz1Ob25lKToKICAgICAgICBkYXRhID0gYm9keS5lbmNvZGUoKQogICAgICAgIHNlbGYuc2VuZF9yZXNwb25zZShzdGF0dXMpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcignQ29udGVudC1UeXBlJywgJ3RleHQvaHRtbDsgY2hhcnNldD11dGYtOCcpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcignQ2FjaGUtQ29udHJvbCcsICduby1zdG9yZScpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcignQ29udGVudC1MZW5ndGgnLCBzdHIobGVuKGRhdGEpKSkKICAgICAgICBmb3IgaywgdiBpbiAoaGVhZGVycyBvciB7fSkuaXRlbXMoKToKICAgICAgICAgICAgc2VsZi5zZW5kX2hlYWRlcihrLCB2KQogICAgICAgIHNlbGYuZW5kX2hlYWRlcnMoKQogICAgICAgIGlmIHNlbGYuY29tbWFuZCAhPSAnSEVBRCc6CiAgICAgICAgICAgIHNlbGYud2ZpbGUud3JpdGUoZGF0YSkKCiAgICBkZWYgX3JlZGlyZWN0KHNlbGYpOgogICAgICAgIHNlbGYuX3NlbmQoMzAyLCAnJywgeydMb2NhdGlvbic6IFBPUlRBTF9VUkx9KQoKICAgIGRlZiBfYm9keShzZWxmLCBsaW1pdCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBsZW5ndGggPSBpbnQoc2VsZi5oZWFkZXJzLmdldCgnQ29udGVudC1MZW5ndGgnKSBvciAwKQogICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICBsZW5ndGggPSAwCiAgICAgICAgaWYgbGVuZ3RoID4gbGltaXQ6CiAgICAgICAgICAgIHNlbGYuY2xvc2VfY29ubmVjdGlvbiA9IFRydWUKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICByZXR1cm4gc2VsZi5yZmlsZS5yZWFkKGxlbmd0aCkKCiAgICBkZWYgX2hvc3Qoc2VsZik6CiAgICAgICAgcmV0dXJuIChzZWxmLmhlYWRlcnMuZ2V0KCdIb3N0Jykgb3IgJycpLnNwbGl0KCc6JylbMF0KCiAgICBkZWYgZG9fSEVBRChzZWxmKToKICAgICAgICBzZWxmLmRvX0dFVCgpCgogICAgZGVmIGRvX0dFVChzZWxmKToKICAgICAgICBjdGwgPSBzZWxmLnNlcnZlci5jb250cm9sbGVyCiAgICAgICAgcyA9IGN0bC5zdGF0ZSgpCiAgICAgICAgcGF0aCA9IHVybGxpYi5wYXJzZS51cmxzcGxpdChzZWxmLnBhdGgpLnBhdGgKICAgICAgICBpZiBzWydwaGFzZSddID09ICdob3RzcG90JzoKICAgICAgICAgICAgaWYgc2VsZi5faG9zdCgpICE9IEhPVFNQT1RfSVAgb3IgcGF0aCAhPSAnLyc6CiAgICAgICAgICAgICAgICByZXR1cm4gc2VsZi5fcmVkaXJlY3QoKQogICAgICAgICAgICByZXR1cm4gc2VsZi5fc2VuZCgyMDAsIHBvcnRhbF9wYWdlKHMpKQogICAgICAgIGlmIHNbJ3BoYXNlJ10gPT0gJ2Nvbm5lY3RpbmcnIGFuZCBwYXRoID09ICcvJzoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3NlbmQoMjAwLCBjb25uZWN0aW5nX3BhZ2Uoc1snbmV0d29yayddIG9yICcnKSkKICAgICAgICBpZiBzWydwaGFzZSddID09ICdyb20nIGFuZCBwYXRoID09ICcvJzoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3NlbmQoMjAwLCByb21fcGFnZShzKSkKICAgICAgICBpZiBzWydwaGFzZSddID09ICdzdGFydGluZycgYW5kIHBhdGggPT0gJy8nOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fc2VuZCgyMDAsIHJvbV9kb25lX3BhZ2UoKSkKICAgICAgICByZXR1cm4gc2VsZi5fc2VuZCg0MDQsIHBhZ2UoJ05vdCBoZXJlJywgJzxwPk5vdGhpbmcgdG8gc2V0IHVwIHJpZ2h0IG5vdy48L3A+JykpCgogICAgZGVmIGRvX1BPU1Qoc2VsZik6CiAgICAgICAgY3RsID0gc2VsZi5zZXJ2ZXIuY29udHJvbGxlcgogICAgICAgIHMgPSBjdGwuc3RhdGUoKQogICAgICAgIHBhdGggPSB1cmxsaWIucGFyc2UudXJsc3BsaXQoc2VsZi5wYXRoKS5wYXRoCiAgICAgICAgaWYgc1sncGhhc2UnXSA9PSAnaG90c3BvdCcgYW5kIHBhdGggPT0gJy9jb25uZWN0JzoKICAgICAgICAgICAgYm9keSA9IHNlbGYuX2JvZHkoNjQgKiAxMDI0KQogICAgICAgICAgICBpZiBib2R5IGlzIE5vbmU6CiAgICAgICAgICAgICAgICByZXR1cm4gc2VsZi5fc2VuZCg0MTMsIHBvcnRhbF9wYWdlKHMsICdUaGF0IHdhcyB0b28gbXVjaCB0byBzZW5kLicpKQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICByZXEgPSBwYXJzZV9jb25uZWN0X2Zvcm0oYm9keSwgc1snbmVlZHNfcGFzc3dvcmQnXSkKICAgICAgICAgICAgZXhjZXB0IEZvcm1FcnJvciBhcyBlOgogICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3NlbmQoMjAwLCBwb3J0YWxfcGFnZShzLCBzdHIoZSkpKQogICAgICAgICAgICBlcnJvciA9IGN0bC5zdWJtaXRfd2lmaShyZXEpCiAgICAgICAgICAgIGlmIGVycm9yOgogICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3NlbmQoMjAwLCBwb3J0YWxfcGFnZShjdGwuc3RhdGUoKSwgZXJyb3IpKQogICAgICAgICAgICByZXR1cm4gc2VsZi5fc2VuZCgyMDAsIGNvbm5lY3RpbmdfcGFnZShyZXEuc3NpZCkpCiAgICAgICAgaWYgc1sncGhhc2UnXSA9PSAncm9tJyBhbmQgcGF0aCA9PSAnL3JvbSc6CiAgICAgICAgICAgIGRhdGEgPSBzZWxmLl9ib2R5KE1BWF9ST01fQllURVMpCiAgICAgICAgICAgIGlmIGRhdGEgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLl9zZW5kKDQxMywgcm9tX3BhZ2UocywgJ1RoYXQgZmlsZSBpcyB0b28gYmlnIHRvIGJlIGEgUk9NLicpKQogICAgICAgICAgICByZXR1cm4gc2VsZi5fcm9tX3Jlc3VsdChjdGwsIHMsIGRhdGEpCiAgICAgICAgaWYgc1sncGhhc2UnXSA9PSAncm9tJyBhbmQgcGF0aCA9PSAnL3JvbS11cmwnOgogICAgICAgICAgICBib2R5ID0gc2VsZi5fYm9keSg4ICogMTAyNCkKICAgICAgICAgICAgdXJsID0gdXJsbGliLnBhcnNlLnBhcnNlX3FzKChib2R5IG9yIGInJykuZGVjb2RlKCd1dGYtOCcsICdyZXBsYWNlJykpLmdldCgndXJsJywgWycnXSlbMF0uc3RyaXAoKQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBkYXRhID0gZmV0Y2hfdXJsKHVybCkKICAgICAgICAgICAgZXhjZXB0IEZvcm1FcnJvciBhcyBlOgogICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3NlbmQoMjAwLCByb21fcGFnZShzLCBzdHIoZSkpKQogICAgICAgICAgICByZXR1cm4gc2VsZi5fcm9tX3Jlc3VsdChjdGwsIHMsIGRhdGEpCiAgICAgICAgcmV0dXJuIHNlbGYuX3NlbmQoNDA0LCBwYWdlKCdOb3QgaGVyZScsICc8cD5Ob3RoaW5nIHRvIHNldCB1cCByaWdodCBub3cuPC9wPicpKQoKICAgIGRlZiBfcm9tX3Jlc3VsdChzZWxmLCBjdGwsIHMsIGRhdGEpOgogICAgICAgIGVycm9yID0gY3RsLnN1Ym1pdF9yb20oZGF0YSkKICAgICAgICBpZiBlcnJvcjoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3NlbmQoMjAwLCByb21fcGFnZShzLCBlcnJvcikpCiAgICAgICAgcmV0dXJuIHNlbGYuX3NlbmQoMjAwLCByb21fZG9uZV9wYWdlKCkpCgoKZGVmIG1ha2Vfc2VydmVyKGNvbnRyb2xsZXIsIHBvcnQ9ODAsIGhvc3Q9JycpOgogICAgc2VydmVyID0gVGhyZWFkaW5nSFRUUFNlcnZlcigoaG9zdCwgcG9ydCksIEhhbmRsZXIpCiAgICBzZXJ2ZXIuZGFlbW9uX3RocmVhZHMgPSBUcnVlCiAgICBzZXJ2ZXIuY29udHJvbGxlciA9IGNvbnRyb2xsZXIKICAgIHJldHVybiBzZXJ2ZXIK
+#!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 Wells Riley
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# ####################################
+# mac_setup_web.py
+#
+# The two setup pages, served by mac_setup.py on port 80.
+#   - On the Mac's own hotspot: the page phones pop up by themselves, asking
+#     for the Wi-Fi network, its password and (first time) a Mac password.
+#     Every other address a phone asks for is sent here.
+#   - On the owner's Wi-Fi, while there's no ROM: the ROM page.
+# Everything is inline: phones on the hotspot have no internet.
+# ####################################
+
+import html
+import re
+import urllib.error
+import urllib.parse
+import urllib.request
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+
+from mac_setup import ConnectRequest
+
+HOTSPOT_IP = '10.42.0.1'
+PORTAL_URL = f'http://{HOTSPOT_IP}/'
+MAX_ROM_BYTES = 16 * 1024 * 1024
+GUIDE_URL = 'https://www.redundantrobot.com/sheepshaver'
+GUIDE = ('Need a ROM? <a href="https://www.redundantrobot.com/sheepshaver">Redundant Robot\'s '
+         'emulator guide</a> explains which one to use and where to find it. The <b>Performa ROM</b> works best.')
+
+
+class FormError(Exception):
+    """A form was refused; str(e) is the message for the owner."""
+
+
+def parse_connect_form(body, needs_password):
+    f = urllib.parse.parse_qs(body.decode('utf-8', 'replace'), keep_blank_values=True)
+
+    def get(name):
+        return f.get(name, [''])[0]
+
+    # A network picked from the list wins; "Other…" (empty) means the typed name.
+    ssid = get('network')
+    hidden = False
+    if not ssid:
+        ssid = get('other').strip()
+        hidden = True
+    if not ssid:
+        raise FormError('Pick your Wi-Fi network, or type its name.')
+    if len(ssid.encode()) > 32:
+        raise FormError('That network name is too long.')
+    password = get('password')
+    hex_psk = len(password) == 64 and re.fullmatch(r'[0-9a-fA-F]+', password)
+    if password and not hex_psk and not 8 <= len(password) <= 63:
+        raise FormError('Wi-Fi passwords are 8 to 63 characters. '
+                        'Leave it blank if your network has none.')
+    mac_password = None
+    if needs_password:
+        mac_password = get('mac_password')
+        if not mac_password:
+            raise FormError('Choose a password for your Mac.')
+        if len(mac_password) < 4:
+            raise FormError("Make the Mac's password at least 4 characters.")
+        if mac_password != get('mac_password2'):
+            raise FormError("The two Mac passwords don't match.")
+    if any(c in s for s in (password, mac_password or '') for c in '\r\n\0'):
+        raise FormError("Passwords can't contain line breaks.")
+    tz = get('tz')
+    if not re.fullmatch(r'[A-Za-z][A-Za-z0-9_+\-]*(/[A-Za-z0-9_+\-]+)*', tz) or len(tz) > 64:
+        tz = None
+    return ConnectRequest(ssid, password, hidden, mac_password, tz)
+
+
+def fetch_url(url, limit=MAX_ROM_BYTES):
+    if urllib.parse.urlsplit(url).scheme not in ('http', 'https'):
+        raise FormError("That link doesn't look right. It should start with http:// or https://.")
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'macintosh-mini-setup'})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            data = r.read(limit + 1)
+    except (urllib.error.URLError, OSError, ValueError):
+        raise FormError("Couldn't download that link. Check it and try again.")
+    if len(data) > limit:
+        raise FormError('That file is too big to be a ROM.')
+    return data
+
+
+# --- pages -----------------------------------------------------------------
+STYLE = """
+:root{color-scheme:light}
+*{box-sizing:border-box}
+html{background:#a8a8a8;background-image:radial-gradient(#8c8c8c 1px,transparent 1px);background-size:4px 4px}
+body{margin:0;padding:16px;font:17px/1.4 "Chicago","ChicagoFLF",-apple-system,system-ui,sans-serif;color:#000}
+.win{max-width:460px;margin:0 auto;background:#fff;border:2px solid #000;box-shadow:3px 3px 0 #000}
+.bar{position:relative;height:26px;border-bottom:2px solid #000;
+ background:repeating-linear-gradient(#000 0 1px,#fff 1px 3px);background-clip:content-box;padding:4px 4px}
+.bar h1{position:absolute;left:50%;top:1px;transform:translateX(-50%);margin:0;padding:0 10px;
+ background:#fff;font-size:16px;line-height:22px;white-space:nowrap}
+.body{padding:18px}
+p{margin:0 0 14px}
+label{display:block;margin:14px 0 6px;font-weight:600}
+input,select{width:100%;font:inherit;padding:10px;border:2px solid #000;border-radius:0;background:#fff;color:#000;min-height:46px}
+button{display:block;width:100%;margin-top:22px;font:inherit;font-weight:600;min-height:50px;background:#fff;color:#000;
+ -webkit-appearance:none;appearance:none;border:2px solid #000;border-radius:12px;box-shadow:0 0 0 3px #fff,0 0 0 5px #000}
+button:active{background:#000;color:#fff}
+.err{border:2px solid #000;padding:10px;margin-bottom:14px;background:#fff6c8}
+.small{font-size:14px;color:#333}
+a{color:#000}
+.or{text-align:center;margin:18px 0 0}
+"""
+
+
+def page(title, body):
+    return ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
+            '<meta name="viewport" content="width=device-width,initial-scale=1">'
+            '<meta name="color-scheme" content="light">'
+            f'<title>{html.escape(title)}</title><style>{STYLE}</style></head><body>'
+            f'<div class="win"><div class="bar"><h1>{html.escape(title)}</h1></div>'
+            f'<div class="body">{body}</div></div></body></html>')
+
+
+def _error(msg):
+    return f'<div class="err">{html.escape(msg)}</div>' if msg else ''
+
+
+def portal_page(state, error=None):
+    options = ''.join(f'<option>{html.escape(n)}</option>' for n in state['networks'])
+    mac = ''
+    if state['needs_password']:
+        mac = ('<label for="mp">A new password for this Mac</label>'
+               '<input id="mp" name="mac_password" type="password" autocomplete="new-password" required>'
+               '<label for="mp2">Type it again</label>'
+               '<input id="mp2" name="mac_password2" type="password" autocomplete="new-password" required>'
+               '<p class="small">You\'ll only need it for advanced things, like copying a new disk '
+               'image onto the Mac.</p>')
+    body = (_error(error or state.get('error'))
+            + '<form method="post" action="/connect">'
+            '<label for="n">Your Wi-Fi network</label>'
+            f'<select id="n" name="network">{options}<option value="">Other…</option></select>'
+            # Shown once "Other…" is picked (straight away if nothing was found).
+            f'<div id="otherbox"{" hidden" if state["networks"] else ""}>'
+            '<label for="o">Network name</label>'
+            '<input id="o" name="other" autocapitalize="off" autocorrect="off" spellcheck="false">'
+            '</div>'
+            '<label for="p">Wi-Fi password</label>'
+            '<input id="p" name="password" type="password" autocomplete="off">'
+            + mac
+            + '<input type="hidden" name="tz" id="tz">'
+            '<button type="submit">Connect</button></form>'
+            '<script>try{document.getElementById("tz").value='
+            'Intl.DateTimeFormat().resolvedOptions().timeZone||""}catch(e){}'
+            'var n=document.getElementById("n"),b=document.getElementById("otherbox");'
+            'function other(){b.hidden=n.value!=="";if(!b.hidden)document.getElementById("o").focus()}'
+            'n.onchange=other;b.hidden=n.value!=="";</script>')
+    return page('Set up Wi-Fi', body)
+
+
+def connecting_page(network):
+    return page('Connecting…', f'<p>Joining <b>{html.escape(network)}</b>…</p>'
+                '<p>This setup network goes away once your Mac is connected.</p>')
+
+
+def rom_page(state, error=None):
+    body = (_error(error or state.get('error'))
+            + f'<p>{GUIDE}</p>'
+            '<label for="f">Upload the ROM (or the .zip you downloaded)</label>'
+            '<input id="f" type="file">'
+            '<button id="up" type="button">Use this file</button>'
+            '<p class="or">or</p>'
+            '<form method="post" action="/rom-url">'
+            '<label for="u">Paste its download link</label>'
+            '<input id="u" name="url" type="url" inputmode="url" autocapitalize="off" '
+            'autocorrect="off" spellcheck="false" placeholder="https://…">'
+            '<button type="submit">Download it</button></form>'
+            '<script>document.getElementById("up").onclick=async function(){'
+            'var f=document.getElementById("f").files[0];if(!f)return;'
+            'this.disabled=true;this.textContent="Checking…";'
+            'var r=await fetch("/rom",{method:"POST",body:f});'
+            'document.open();document.write(await r.text());document.close();}</script>')
+    return page('Add a ROM', body)
+
+
+def rom_done_page():
+    return page('All set', '<p>Got it. Your Mac is starting up: listen for the chime.</p>'
+                '<p>If the Mac comes back to this step instead, that ROM didn\'t work. '
+                'Reload this page and try another.</p>')
+
+
+# --- server ----------------------------------------------------------------
+class Handler(BaseHTTPRequestHandler):
+    server_version = 'macintosh-mini'
+    sys_version = ''
+
+    def log_message(self, fmt, *args):
+        pass   # nothing secret, but nothing worth keeping either
+
+    def _send(self, status, body='', headers=None):
+        data = body.encode()
+        self.send_response(status)
+        self.send_header('Content-Type', 'text/html; charset=utf-8')
+        self.send_header('Cache-Control', 'no-store')
+        self.send_header('Content-Length', str(len(data)))
+        for k, v in (headers or {}).items():
+            self.send_header(k, v)
+        self.end_headers()
+        if self.command != 'HEAD':
+            self.wfile.write(data)
+
+    def _redirect(self):
+        self._send(302, '', {'Location': PORTAL_URL})
+
+    def _body(self, limit):
+        try:
+            length = int(self.headers.get('Content-Length') or 0)
+        except ValueError:
+            length = 0
+        if length > limit:
+            self.close_connection = True
+            return None
+        return self.rfile.read(length)
+
+    def _host(self):
+        return (self.headers.get('Host') or '').split(':')[0]
+
+    def do_HEAD(self):
+        self.do_GET()
+
+    def do_GET(self):
+        ctl = self.server.controller
+        s = ctl.state()
+        path = urllib.parse.urlsplit(self.path).path
+        if s['phase'] == 'hotspot':
+            if self._host() != HOTSPOT_IP or path != '/':
+                return self._redirect()
+            return self._send(200, portal_page(s))
+        if s['phase'] == 'connecting' and path == '/':
+            return self._send(200, connecting_page(s['network'] or ''))
+        if s['phase'] == 'rom' and path == '/':
+            return self._send(200, rom_page(s))
+        if s['phase'] == 'starting' and path == '/':
+            return self._send(200, rom_done_page())
+        return self._send(404, page('Not here', '<p>Nothing to set up right now.</p>'))
+
+    def do_POST(self):
+        ctl = self.server.controller
+        s = ctl.state()
+        path = urllib.parse.urlsplit(self.path).path
+        if s['phase'] == 'hotspot' and path == '/connect':
+            body = self._body(64 * 1024)
+            if body is None:
+                return self._send(413, portal_page(s, 'That was too much to send.'))
+            try:
+                req = parse_connect_form(body, s['needs_password'])
+            except FormError as e:
+                return self._send(200, portal_page(s, str(e)))
+            error = ctl.submit_wifi(req)
+            if error:
+                return self._send(200, portal_page(ctl.state(), error))
+            return self._send(200, connecting_page(req.ssid))
+        if s['phase'] == 'rom' and path == '/rom':
+            data = self._body(MAX_ROM_BYTES)
+            if data is None:
+                return self._send(413, rom_page(s, 'That file is too big to be a ROM.'))
+            return self._rom_result(ctl, s, data)
+        if s['phase'] == 'rom' and path == '/rom-url':
+            body = self._body(8 * 1024)
+            url = urllib.parse.parse_qs((body or b'').decode('utf-8', 'replace')).get('url', [''])[0].strip()
+            try:
+                data = fetch_url(url)
+            except FormError as e:
+                return self._send(200, rom_page(s, str(e)))
+            return self._rom_result(ctl, s, data)
+        return self._send(404, page('Not here', '<p>Nothing to set up right now.</p>'))
+
+    def _rom_result(self, ctl, s, data):
+        error = ctl.submit_rom(data)
+        if error:
+            return self._send(200, rom_page(s, error))
+        return self._send(200, rom_done_page())
+
+
+def make_server(controller, port=80, host=''):
+    server = ThreadingHTTPServer((host, port), Handler)
+    server.daemon_threads = True
+    server.controller = controller
+    return server

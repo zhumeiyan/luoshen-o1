@@ -1,1 +1,25 @@
-aW1wb3J0IHN1YnByb2Nlc3MsIGpzb24sIHRpbWUKVUFfQ1VSTCAgPSAiY3VybC84LjQuMCIKVUFfQ0hST01FPSAiTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMxLjAuMC4wIFNhZmFyaS81MzcuMzYiClVBX1BIT05FID0gIk1vemlsbGEvNS4wIChpUGhvbmU7IENQVSBpUGhvbmUgT1MgMTdfMCBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTcuMCBNb2JpbGUvMTVFMTQ4IFNhZmFyaS82MDQuMSIKVUFTPXsiY3VybCI6VUFfQ1VSTCwiY2hyb21lIjpVQV9DSFJPTUUsImlwaG9uZSI6VUFfUEhPTkV9ClQ9WyJodHRwczovL2dpdGh1Yi5jb20vS0xhbWVuZy9UQUNULVRocmVlLUF4aXMtQ2hlY2siLAogICAiaHR0cHM6Ly9naXRlZS5jb20vZHJvbWFyYS9lYXN5QWkiLAogICAiaHR0cHM6Ly93d3cub3NjaGluYS5uZXQiLAogICAiaHR0cHM6Ly9jYXB0Y2hhLmd0aW1nLmNvbS9zdGF0aWMvdGVtcGxhdGUvZHJhZ19lbGUuY2I3ZTU3ZTUuaHRtbCIsCiAgICJodHRwczovL21haWwucXEuY29tIl0KcmVzPXt9CmZvciBuYW1lLHVhIGluIFVBUy5pdGVtcygpOgogICAgZm9yIHUgaW4gVDoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHI9c3VicHJvY2Vzcy5ydW4oWyJjdXJsIiwiLXMiLCItbyIsIi9kZXYvbnVsbCIsIi13IiwiJXtodHRwX2NvZGV9IiwiLW0iLCIxMiIsIi1BIix1YSx1XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSkKICAgICAgICAgICAgY29kZT1pbnQoci5zdGRvdXQuc3RyaXAoKSkgaWYgci5zdGRvdXQuc3RyaXAoKS5pc2RpZ2l0KCkgZWxzZSAwCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogY29kZT0wCiAgICAgICAgcmVzLnNldGRlZmF1bHQodSx7fSlbbmFtZV09Y29kZQogICAgICAgIHByaW50KGYie3VbOjUyXTo1NHN9IHtuYW1lOjdzfSAtPiB7Y29kZX0iKQpqc29uLmR1bXAocmVzLG9wZW4oInVhLmpzb24iLCJ3IiksaW5kZW50PTEpCnByaW50KCJcbj09PSBVQSDmmK/lkKbmlLnlj5jnu5PmnpwgPT09IikKZm9yIHUsZCBpbiByZXMuaXRlbXMoKToKICAgIHZhbHM9c2V0KGQudmFsdWVzKCkpCiAgICBwcmludChmIiAge3VbOjUyXTo1NHN9IHtkfSAgeydVQeaVj+aEnycgaWYgbGVuKHZhbHMpPjEgZWxzZSAnVUHml6DlhbMnfSIpCg==
+import subprocess, json, time
+UA_CURL  = "curl/8.4.0"
+UA_CHROME= "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+UA_PHONE = "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+UAS={"curl":UA_CURL,"chrome":UA_CHROME,"iphone":UA_PHONE}
+T=["https://github.com/KLameng/TACT-Three-Axis-Check",
+   "https://gitee.com/dromara/easyAi",
+   "https://www.oschina.net",
+   "https://captcha.gtimg.com/static/template/drag_ele.cb7e57e5.html",
+   "https://mail.qq.com"]
+res={}
+for name,ua in UAS.items():
+    for u in T:
+        try:
+            r=subprocess.run(["curl","-s","-o","/dev/null","-w","%{http_code}","-m","12","-A",ua,u],
+                             capture_output=True,text=True)
+            code=int(r.stdout.strip()) if r.stdout.strip().isdigit() else 0
+        except Exception: code=0
+        res.setdefault(u,{})[name]=code
+        print(f"{u[:52]:54s} {name:7s} -> {code}")
+json.dump(res,open("ua.json","w"),indent=1)
+print("\n=== UA 是否改变结果 ===")
+for u,d in res.items():
+    vals=set(d.values())
+    print(f"  {u[:52]:54s} {d}  {'UA敏感' if len(vals)>1 else 'UA无关'}")

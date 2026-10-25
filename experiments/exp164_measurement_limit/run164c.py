@@ -1,1 +1,50 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKZXhwMTY0YyBBMjog5YWz6IGU6KeE5qihIG0g5aKe5aSn5pe2LCDop4LmtYvmibDliqjnmoTlvbHlk43mmK/liqDpgJ/ov5jmmK/ooqvnuqDplJk/CumHj+WtkDog57qg57yg57KS5a2Q6LaK5aSa6LaK6Zq+5L+d5oqkKOmAgOebuOW5siksIOS4lOS4jeWPr+WFi+mahiAtPiDml6Dms5XlpJrmlbDmipXnpajnuqDplJkK57uP5YW4OiDlhbPogZTlj6/lpI3liLYgLT4g5aSa5pWw5oqV56Wo5bqU6IO957qg6ZSZIC0+IG0g6LaK5aSn6LaK56iz5YGlCui/meS4gOagvOeUqOadpeWIkua4hSLnu4/lhbjnsbvmr5Qi5LiOIumHj+WtkOecn+WuniLnmoTovrnnlYwKIiIiCmltcG9ydCBvcywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKCk9VVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNjRfbWVhc3VyZW1lbnRfbGltaXQiCgoKZGVmIGV4cEEyKHRyaWFscz0yMDAwLCBtcz0oMSwgMywgNSwgMTEsIDIxKSwgcHM9KDAuMjAsIDAuMzUsIDAuNTApKToKICAgIG91dCA9IHt9CiAgICBmb3IgcCBpbiBwczoKICAgICAgICByb3cgPSB7fQogICAgICAgIHRociA9IGludChyb3VuZChwKjI1NikpIGlmIHAgPiAwIGVsc2UgMAogICAgICAgIGZvciBtIGluIG1zOgogICAgICAgICAgICBjb3JyZWN0ID0gMAogICAgICAgICAgICBmb3IgdCBpbiByYW5nZSh0cmlhbHMpOgogICAgICAgICAgICAgICAgbmIgPSAoMiptICsgNykvLzggKyAyCiAgICAgICAgICAgICAgICBiID0gbnAudW5wYWNrYml0cyhucC5mcm9tYnVmZmVyKG9zLnVyYW5kb20obmIpLCBkdHlwZT1ucC51aW50OCkpCiAgICAgICAgICAgICAgICBYID0gYlswXQogICAgICAgICAgICAgICAgQSA9IGJbMToxK21dCiAgICAgICAgICAgICAgICBCID0gKEEgXiBYKS5hc3R5cGUobnAudWludDgpICAgICAgICAgICMgQl9pID0gQV9pIF4gWAogICAgICAgICAgICAgICAgaWYgcCA+IDA6CiAgICAgICAgICAgICAgICAgICAgZXJyID0gKG5wLmZyb21idWZmZXIob3MudXJhbmRvbShtKSwgZHR5cGU9bnAudWludDgpIDwgdGhyKS5hc3R5cGUobnAudWludDgpCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGVyciA9IG5wLnplcm9zKG0sIGR0eXBlPW5wLnVpbnQ4KQogICAgICAgICAgICAgICAgQV9vYnMgPSAoQSBeIGVycikuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICAgICAgdm90ZXMgPSAoQV9vYnMgXiBCKS5hc3R5cGUobnAudWludDgpICAjID0gWCBeIGVycl9pCiAgICAgICAgICAgICAgICBtYWogPSAxIGlmIGludCh2b3Rlcy5zdW0oKSkqMiA+IG0gZWxzZSAwCiAgICAgICAgICAgICAgICBjb3JyZWN0ICs9IGludChtYWogPT0gWCkKICAgICAgICAgICAgcm93W3N0cihtKV0gPSBjb3JyZWN0L3RyaWFscwogICAgICAgIG91dFtmIntwOi4yZn0iXSA9IHJvdwogICAgcmV0dXJuIG91dAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICByID0gZXhwQTIoKQogICAgcHJpbnQoIkEyOiDlhbPogZTlr7nmlbAgbSDlop7lpKfml7YsIOS7juiiq+aJsOWKqOWFs+iBlOS4reWkmuaVsOaKleelqOaBouWkjSBYIOeahOWHhuehrueOhyIpCiAgICBwcmludCgiICAgKOe7j+WFuOWFs+iBlOWPr+WkjeWItiAtPiDlpJrmlbDmipXnpajnuqDplJkpIikKICAgIGhkciA9ICIgIHBcXG0gICIgKyAiIi5qb2luKCIlOHMiICUgbSBmb3IgbSBpbiAoMSwgMywgNSwgMTEsIDIxKSkKICAgIHByaW50KGhkcikKICAgIGZvciBwLCByb3cgaW4gci5pdGVtcygpOgogICAgICAgIHByaW50KCIgICVzICAiICUgcCArICIiLmpvaW4oIiU4LjRmIiAlIHJvd1tzdHIobSldIGZvciBtIGluICgxLCAzLCA1LCAxMSwgMjEpKSkKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oT1VULCAncmVzdWx0MTY0Yy5qc29uJyksICd3JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAociwgZiwgaW5kZW50PTEpCiAgICBwcmludCgic2F2ZWQiKQo=
+#!/usr/bin/env python3
+"""
+exp164c A2: 关联规模 m 增大时, 观测扰动的影响是加速还是被纠错?
+量子: 纠缠粒子越多越难保护(退相干), 且不可克隆 -> 无法多数投票纠错
+经典: 关联可复制 -> 多数投票应能纠错 -> m 越大越稳健
+这一格用来划清"经典类比"与"量子真实"的边界
+"""
+import os, json
+import numpy as np
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp164_measurement_limit"
+
+
+def expA2(trials=2000, ms=(1, 3, 5, 11, 21), ps=(0.20, 0.35, 0.50)):
+    out = {}
+    for p in ps:
+        row = {}
+        thr = int(round(p*256)) if p > 0 else 0
+        for m in ms:
+            correct = 0
+            for t in range(trials):
+                nb = (2*m + 7)//8 + 2
+                b = np.unpackbits(np.frombuffer(os.urandom(nb), dtype=np.uint8))
+                X = b[0]
+                A = b[1:1+m]
+                B = (A ^ X).astype(np.uint8)          # B_i = A_i ^ X
+                if p > 0:
+                    err = (np.frombuffer(os.urandom(m), dtype=np.uint8) < thr).astype(np.uint8)
+                else:
+                    err = np.zeros(m, dtype=np.uint8)
+                A_obs = (A ^ err).astype(np.uint8)
+                votes = (A_obs ^ B).astype(np.uint8)  # = X ^ err_i
+                maj = 1 if int(votes.sum())*2 > m else 0
+                correct += int(maj == X)
+            row[str(m)] = correct/trials
+        out[f"{p:.2f}"] = row
+    return out
+
+
+if __name__ == "__main__":
+    r = expA2()
+    print("A2: 关联对数 m 增大时, 从被扰动关联中多数投票恢复 X 的准确率")
+    print("   (经典关联可复制 -> 多数投票纠错)")
+    hdr = "  p\\m  " + "".join("%8s" % m for m in (1, 3, 5, 11, 21))
+    print(hdr)
+    for p, row in r.items():
+        print("  %s  " % p + "".join("%8.4f" % row[str(m)] for m in (1, 3, 5, 11, 21)))
+    with open(os.path.join(OUT, 'result164c.json'), 'w') as f:
+        json.dump(r, f, indent=1)
+    print("saved")

@@ -1,1 +1,87 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5omL55y85Y2P6LCD55qE55yf5Yik5o2uOiDnnLzor7vlh7rjgJDkuJbnlYznirbmgIEo55uu5qCHKeOAkSwg5omL5o2u5q2k6KGM5YqoLCDor6/lt67mmK/lkKbkuIvpmY3jgIIK5a+554Wn5LiJ6IeCOiBjbG9zZWQo55y8LT7miYspIC8gb3BlbijmiYvkuI3nnIvnnLwpIC8gYmxpbmQo55y85LiN5pu05pawKQrlsY/luZXnvJbnoIE6IOS4iuWNiuWxj+e6ouadoeW4pj3nm67moIco5LiW55WM57uZ55qEKSwg5LiL5Y2K5bGP55m95p2h5bimPeaIkeeahOaMh+mSiArmjqfliLblmajlj6rog73ku47lg4/ntKDop6PnoIEsIOaLv+S4jeWIsCB0YXJnZXQg5Y+Y6YeP44CCCiIiIgppbXBvcnQgb3MsIGZjbnRsLCBzdHJ1Y3QsIHRpbWUsIGpzb24sIG51bXB5IGFzIG5wClVJX1NFVF9FVkJJVCwgVUlfU0VUX0tFWUJJVCwgVUlfREVWX0NSRUFURSA9IDB4NDAwNDU1NjQsIDB4NDAwNDU1NjUsIDB4NTUwMQpFVl9LRVksIEVWX1NZTiwgU1lOX1JFUE9SVCA9IDEsIDAsIDAKVyxILEJQUCA9IDEwMjQsNzY4LDQ7IEZTWj1XKkgqQlBQOyBOQj04OyBCVz1XLy84CktFWV9MRUZULCBLRVlfUklHSFQgPSAxMDUsIDEwNgoKZGVmIG1rX2hhbmQoKToKICAgIGZkID0gb3Mub3BlbigiL2Rldi91aW5wdXQiLCBvcy5PX1dST05MWXxvcy5PX05PTkJMT0NLKQogICAgZmNudGwuaW9jdGwoZmQsIFVJX1NFVF9FVkJJVCwgRVZfS0VZKQogICAgZm9yIGtjIGluIChLRVlfTEVGVCwgS0VZX1JJR0hUKTogZmNudGwuaW9jdGwoZmQsIFVJX1NFVF9LRVlCSVQsIGtjKQogICAgZGV2ID0gc3RydWN0LnBhY2soJzgwc0hISEhJJywgYiJsdW9zaGVuX2hhbmQyIiwgNiwgMHgxMjM0LCAweDU2NzgsIDEsIDApICsgc3RydWN0LnBhY2soJzY0aScsKihbMF0qNjQpKSo0CiAgICBhc3NlcnQgbGVuKGRldik9PTExMTYKICAgIG9zLndyaXRlKGZkLCBkZXYpOyBmY250bC5pb2N0bChmZCwgVUlfREVWX0NSRUFURSwgMCk7IHRpbWUuc2xlZXAoMC4yKTsgcmV0dXJuIGZkCmRlZiBwcmVzcyhmZCwga2MpOgogICAgZm9yIHYgaW4gKDEsMCk6CiAgICAgICAgb3Mud3JpdGUoZmQsIHN0cnVjdC5wYWNrKCdsbEhISScsIGludCh0aW1lLnRpbWUoKSksIDAsIEVWX0tFWSwga2MsIHYpKQogICAgICAgIG9zLndyaXRlKGZkLCBzdHJ1Y3QucGFjaygnbGxISEknLCAwLDAsIEVWX1NZTiwgU1lOX1JFUE9SVCwgMCkpCgpGQiA9IG9zLm9wZW4oIi9kZXYvZmIwIiwgb3MuT19SRFdSKQpkZWYgcmVuZGVyKHRhcmdldCwgbWUpOgogICAgaW1nID0gbnAuemVyb3MoKEgsVyxCUFApLCBucC51aW50OCk7IGltZ1s6LDosM109MjU1CiAgICBpbWdbOkgvLzIsIHRhcmdldCpCVzoodGFyZ2V0KzEpKkJXLCAwXSA9IDI1NSAgICAgICAgICAjIOe6oj3nm67moIcKICAgIGltZ1tILy8yOiwgbWUqQlc6KG1lKzEpKkJXLCA6M10gPSAyNTUgICAgICAgICAgICAgICAgICMg55m9PeaIkQogICAgb3MubHNlZWsoRkIsMCwwKTsgb3Mud3JpdGUoRkIsIGltZy50b2J5dGVzKCkpOyB0aW1lLnNsZWVwKDAuMDMpCmRlZiByZWFkcGl4KCk6CiAgICBvcy5sc2VlayhGQiwwLDApOyByZXR1cm4gbnAuZnJvbWJ1ZmZlcihvcy5yZWFkKEZCLEZTWiksIG5wLnVpbnQ4KS5yZXNoYXBlKEgsVyxCUFApCmRlZiBkZWNvZGUoYnVmKToKICAgICIiIuWPquS7juWDj+e0oOivu+WHuiAodGFyZ2V0LCBtZSnjgILkuI3nn6XpgZPku7vkvZXlj5jph4/jgIIiIiIKICAgIHQgPSBpbnQobnAuYXJnbWF4KFtidWZbOkgvLzIsIGIqQlc6KGIrMSkqQlcsIDBdLm1lYW4oKSBmb3IgYiBpbiByYW5nZShOQildKSkKICAgIG0gPSBpbnQobnAuYXJnbWF4KFtidWZbSC8vMjosIGIqQlc6KGIrMSkqQlcsIDBdLm1lYW4oKSBmb3IgYiBpbiByYW5nZShOQildKSkKICAgIHJldHVybiB0LCBtCgpkZWYgcnVuKG1vZGUsIHNlZWQsIHN0ZXBzPTMwKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKjMxKzcpCiAgICBmZCA9IG1rX2hhbmQoKQogICAgbWUgPSAzOyB0YXJnZXQgPSA2CiAgICBlcnJzID0gW10KICAgIHN0YWxlID0gTm9uZQogICAgZm9yIHQgaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgIGlmICh0KzEpICUgNCA9PSAwOiAgICAgICAgICAgICAgICAgICAgICAgIyDnm67moIflkajmnJ/mgKfnp7vliqgo5LiW55WM5Zyo5Y+YKQogICAgICAgICAgICB0YXJnZXQgPSBpbnQobnAuY2xpcCh0YXJnZXQgKyBybmcuY2hvaWNlKFstMSwxXSksIDAsIE5CLTEpKQogICAgICAgIHJlbmRlcih0YXJnZXQsIG1lKQogICAgICAgIGJ1ZiA9IHJlYWRwaXgoKQogICAgICAgIGlmIG1vZGUgPT0gJ2JsaW5kJzoKICAgICAgICAgICAgaWYgc3RhbGUgaXMgTm9uZTogc3RhbGUgPSBidWYuY29weSgpCiAgICAgICAgICAgIHRnLCBtcCA9IGRlY29kZShzdGFsZSkgICAgICAgICAgICAgICAjIOecvOS4jeabtOaWsAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHRnLCBtcCA9IGRlY29kZShidWYpICAgICAgICAgICAgICAgICAjIOecvOivu+W9k+WJjQogICAgICAgIGlmIG1vZGUgPT0gJ2Nsb3NlZCc6CiAgICAgICAgICAgIGlmIHRnID4gbXA6IHByZXNzKGZkLCBLRVlfUklHSFQpOyBtZSA9IG1pbihtZSsxLCBOQi0xKQogICAgICAgICAgICBlbGlmIHRnIDwgbXA6IHByZXNzKGZkLCBLRVlfTEVGVCk7ICBtZSA9IG1heChtZS0xLCAwKQogICAgICAgIGVsaWYgbW9kZSA9PSAnb3Blbic6CiAgICAgICAgICAgIGlmIHJuZy5yYW5kb20oKSA8IDAuNTogcHJlc3MoZmQsIEtFWV9SSUdIVCk7IG1lID0gbWluKG1lKzEsIE5CLTEpCiAgICAgICAgICAgIGVsc2U6IHByZXNzKGZkLCBLRVlfTEVGVCk7IG1lID0gbWF4KG1lLTEsIDApCiAgICAgICAgZXJycy5hcHBlbmQoYWJzKHRhcmdldCAtIG1lKSkKICAgIG9zLmNsb3NlKGZkKQogICAgYSA9IG5wLmFzYXJyYXkoZXJycywgZmxvYXQpCiAgICB0aGlyZCA9IGxlbihhKS8vMwogICAgcmV0dXJuIGRpY3QobWVhbj1mbG9hdChhLm1lYW4oKSksIGVhcmx5PWZsb2F0KGFbOnRoaXJkXS5tZWFuKCkpLCBsYXRlPWZsb2F0KGFbLXRoaXJkOl0ubWVhbigpKSwKICAgICAgICAgICAgICAgIGRyb3A9ZmxvYXQoYVs6dGhpcmRdLm1lYW4oKS1hWy10aGlyZDpdLm1lYW4oKSksIGVycnM9W2ludCh4KSBmb3IgeCBpbiBhXSkKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBvdXQgPSB7fQogICAgZm9yIG1vZGUgaW4gKCdjbG9zZWQnLCdvcGVuJywnYmxpbmQnKToKICAgICAgICBycyA9IFtydW4obW9kZSwgcykgZm9yIHMgaW4gcmFuZ2UoOCldCiAgICAgICAgb3V0W21vZGVdID0gZGljdChtZWFuPWZsb2F0KG5wLm1lYW4oW3JbJ21lYW4nXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgICAgICAgICAgIGVhcmx5PWZsb2F0KG5wLm1lYW4oW3JbJ2Vhcmx5J10gZm9yIHIgaW4gcnNdKSksCiAgICAgICAgICAgICAgICAgICAgICAgICBsYXRlPWZsb2F0KG5wLm1lYW4oW3JbJ2xhdGUnXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgICAgICAgICAgIGRyb3A9ZmxvYXQobnAubWVhbihbclsnZHJvcCddIGZvciByIGluIHJzXSkpLAogICAgICAgICAgICAgICAgICAgICAgICAgZHJvcHM9W3JbJ2Ryb3AnXSBmb3IgciBpbiByc10pCiAgICAgICAgcHJpbnQoZiJ7bW9kZTo8N30gbWVhbj17b3V0W21vZGVdWydtZWFuJ106LjNmfSBlYXJseT17b3V0W21vZGVdWydlYXJseSddOi4zZn0gbGF0ZT17b3V0W21vZGVdWydsYXRlJ106LjNmfSBkcm9wPXtvdXRbbW9kZV1bJ2Ryb3AnXTorLjNmfSIpCiAgICBkZWYgcGFpcmVkKGEsYik6CiAgICAgICAgZD1ucC5hc2FycmF5KGEpLW5wLmFzYXJyYXkoYik7IHJuZz1ucC5yYW5kb20uZGVmYXVsdF9ybmcoMCkKICAgICAgICBicz1ucC5hcnJheShbbnAubWVhbihybmcuY2hvaWNlKGQsbGVuKGQpLFRydWUpKSBmb3IgXyBpbiByYW5nZSg0MDAwKV0pCiAgICAgICAgbG8saGk9ZmxvYXQobnAucGVyY2VudGlsZShicywyLjUpKSxmbG9hdChucC5wZXJjZW50aWxlKGJzLDk3LjUpKQogICAgICAgIHJldHVybiBkaWN0KGRpZmY9ZmxvYXQoZC5tZWFuKCkpLGNpPVtsbyxoaV0sc2lnPWJvb2woKGxvPjApPT0oaGk+MCkpKQogICAgb3V0WydjbG9zZWRfdnNfb3BlbiddICA9IHBhaXJlZChvdXRbJ2Nsb3NlZCddWydkcm9wcyddLCBvdXRbJ29wZW4nXVsnZHJvcHMnXSkKICAgIG91dFsnY2xvc2VkX3ZzX2JsaW5kJ10gPSBwYWlyZWQob3V0WydjbG9zZWQnXVsnZHJvcHMnXSwgb3V0WydibGluZCddWydkcm9wcyddKQogICAgcHJpbnQoImNsb3NlZC1vcGVuICIsIG91dFsnY2xvc2VkX3ZzX29wZW4nXSkKICAgIHByaW50KCJjbG9zZWQtYmxpbmQiLCBvdXRbJ2Nsb3NlZF92c19ibGluZCddKQogICAganNvbi5kdW1wKG91dCwgb3BlbigndHJhY2suanNvbicsJ3cnKSwgaW5kZW50PTEpCg==
+# -*- coding: utf-8 -*-
+"""手眼协调的真判据: 眼读出【世界状态(目标)】, 手据此行动, 误差是否下降。
+对照三臂: closed(眼->手) / open(手不看眼) / blind(眼不更新)
+屏幕编码: 上半屏红条带=目标(世界给的), 下半屏白条带=我的指针
+控制器只能从像素解码, 拿不到 target 变量。
+"""
+import os, fcntl, struct, time, json, numpy as np
+UI_SET_EVBIT, UI_SET_KEYBIT, UI_DEV_CREATE = 0x40045564, 0x40045565, 0x5501
+EV_KEY, EV_SYN, SYN_REPORT = 1, 0, 0
+W,H,BPP = 1024,768,4; FSZ=W*H*BPP; NB=8; BW=W//8
+KEY_LEFT, KEY_RIGHT = 105, 106
+
+def mk_hand():
+    fd = os.open("/dev/uinput", os.O_WRONLY|os.O_NONBLOCK)
+    fcntl.ioctl(fd, UI_SET_EVBIT, EV_KEY)
+    for kc in (KEY_LEFT, KEY_RIGHT): fcntl.ioctl(fd, UI_SET_KEYBIT, kc)
+    dev = struct.pack('80sHHHHI', b"luoshen_hand2", 6, 0x1234, 0x5678, 1, 0) + struct.pack('64i',*([0]*64))*4
+    assert len(dev)==1116
+    os.write(fd, dev); fcntl.ioctl(fd, UI_DEV_CREATE, 0); time.sleep(0.2); return fd
+def press(fd, kc):
+    for v in (1,0):
+        os.write(fd, struct.pack('llHHI', int(time.time()), 0, EV_KEY, kc, v))
+        os.write(fd, struct.pack('llHHI', 0,0, EV_SYN, SYN_REPORT, 0))
+
+FB = os.open("/dev/fb0", os.O_RDWR)
+def render(target, me):
+    img = np.zeros((H,W,BPP), np.uint8); img[:,:,3]=255
+    img[:H//2, target*BW:(target+1)*BW, 0] = 255          # 红=目标
+    img[H//2:, me*BW:(me+1)*BW, :3] = 255                 # 白=我
+    os.lseek(FB,0,0); os.write(FB, img.tobytes()); time.sleep(0.03)
+def readpix():
+    os.lseek(FB,0,0); return np.frombuffer(os.read(FB,FSZ), np.uint8).reshape(H,W,BPP)
+def decode(buf):
+    """只从像素读出 (target, me)。不知道任何变量。"""
+    t = int(np.argmax([buf[:H//2, b*BW:(b+1)*BW, 0].mean() for b in range(NB)]))
+    m = int(np.argmax([buf[H//2:, b*BW:(b+1)*BW, 0].mean() for b in range(NB)]))
+    return t, m
+
+def run(mode, seed, steps=30):
+    rng = np.random.default_rng(seed*31+7)
+    fd = mk_hand()
+    me = 3; target = 6
+    errs = []
+    stale = None
+    for t in range(steps):
+        if (t+1) % 4 == 0:                       # 目标周期性移动(世界在变)
+            target = int(np.clip(target + rng.choice([-1,1]), 0, NB-1))
+        render(target, me)
+        buf = readpix()
+        if mode == 'blind':
+            if stale is None: stale = buf.copy()
+            tg, mp = decode(stale)               # 眼不更新
+        else:
+            tg, mp = decode(buf)                 # 眼读当前
+        if mode == 'closed':
+            if tg > mp: press(fd, KEY_RIGHT); me = min(me+1, NB-1)
+            elif tg < mp: press(fd, KEY_LEFT);  me = max(me-1, 0)
+        elif mode == 'open':
+            if rng.random() < 0.5: press(fd, KEY_RIGHT); me = min(me+1, NB-1)
+            else: press(fd, KEY_LEFT); me = max(me-1, 0)
+        errs.append(abs(target - me))
+    os.close(fd)
+    a = np.asarray(errs, float)
+    third = len(a)//3
+    return dict(mean=float(a.mean()), early=float(a[:third].mean()), late=float(a[-third:].mean()),
+                drop=float(a[:third].mean()-a[-third:].mean()), errs=[int(x) for x in a])
+
+if __name__ == '__main__':
+    out = {}
+    for mode in ('closed','open','blind'):
+        rs = [run(mode, s) for s in range(8)]
+        out[mode] = dict(mean=float(np.mean([r['mean'] for r in rs])),
+                         early=float(np.mean([r['early'] for r in rs])),
+                         late=float(np.mean([r['late'] for r in rs])),
+                         drop=float(np.mean([r['drop'] for r in rs])),
+                         drops=[r['drop'] for r in rs])
+        print(f"{mode:<7} mean={out[mode]['mean']:.3f} early={out[mode]['early']:.3f} late={out[mode]['late']:.3f} drop={out[mode]['drop']:+.3f}")
+    def paired(a,b):
+        d=np.asarray(a)-np.asarray(b); rng=np.random.default_rng(0)
+        bs=np.array([np.mean(rng.choice(d,len(d),True)) for _ in range(4000)])
+        lo,hi=float(np.percentile(bs,2.5)),float(np.percentile(bs,97.5))
+        return dict(diff=float(d.mean()),ci=[lo,hi],sig=bool((lo>0)==(hi>0)))
+    out['closed_vs_open']  = paired(out['closed']['drops'], out['open']['drops'])
+    out['closed_vs_blind'] = paired(out['closed']['drops'], out['blind']['drops'])
+    print("closed-open ", out['closed_vs_open'])
+    print("closed-blind", out['closed_vs_blind'])
+    json.dump(out, open('track.json','w'), indent=1)

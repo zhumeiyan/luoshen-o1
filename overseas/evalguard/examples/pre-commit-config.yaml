@@ -1,1 +1,27 @@
-IyBDb3B5IGludG8gLnByZS1jb21taXQtY29uZmlnLnlhbWwKIwojIFdoeSBib3RoZXIgd2hlbiBDSSBhbHJlYWR5IHJ1bnMgaXQ6IENJIHRlbGxzIHlvdSBhZnRlciB0aGUgcHVzaCwgYW5kIHRoZQojIGZpbmRpbmcgaXMgdGhlbiB0d28gY29udGV4dHMgYXdheSBmcm9tIHRoZSBsaW5lIHRoYXQgY2F1c2VkIGl0LiBUaGUKIyBwcmUtY29tbWl0IGhvb2sgZmFpbHMgYXQgdGhlIG1vbWVudCB5b3Ugd3JpdGUgYGV4Y2VwdCBFeGNlcHRpb246IHBhc3NgLAojIHdoaWxlIHlvdSBzdGlsbCByZW1lbWJlciB3aHkgeW91IHdyb3RlIGl0LgojCiMgYGxhbmd1YWdlOiBzeXN0ZW1gIGlzIGRlbGliZXJhdGUuIFRoaXMgcHJvamVjdCdzIHdob2xlIGFyZ3VtZW50IGlzIHRoYXQgYQojIHNjYW5uZXIgc2hvdWxkIG5vdCBuZWVkIHRvIGluc3RhbGwgYW55dGhpbmcgYmVmb3JlIGl0IGNhbiB0ZWxsIHlvdSB5b3VyCiMgc2NyaXB0IGlzIGx5aW5nOyBtYWtpbmcgdGhlIGhvb2sgYnVpbGQgYW4gaXNvbGF0ZWQgdmVudiBvbiBmaXJzdCBjb21taXQKIyB3b3VsZCB1bmRlcmN1dCB0aGF0IGZvciBubyBiZW5lZml0LCBzaW5jZSBldmFsZ3VhcmQgaGFzIG5vIGRlcGVuZGVuY2llcy4KCnJlcG9zOgogIC0gcmVwbzogaHR0cHM6Ly9naXRodWIuY29tL3podW1laXlhbi9sdW9zaGVuLW8xCiAgICByZXY6IG1haW4KICAgIGhvb2tzOgogICAgICAtIGlkOiBldmFsZ3VhcmQKICAgICAgICBuYW1lOiBldmFsZ3VhcmQKICAgICAgICBlbnRyeTogcHl0aG9uMyAtbSBldmFsZ3VhcmQKICAgICAgICBsYW5ndWFnZTogc3lzdGVtCiAgICAgICAgdHlwZXM6IFtweXRob25dCiAgICAgICAgIyBPbmx5IHRoZSBwYXRocyB3aGVyZSBldmFsdWF0aW9uIGNvZGUgYWN0dWFsbHkgbGl2ZXMuIFJ1bm5pbmcgdGhpcwogICAgICAgICMgb3ZlciBhIHdob2xlIGFwcGxpY2F0aW9uIGNvZGViYXNlIHByb2R1Y2VzIG5vaXNlOiBydWxlcyBhYm91dAogICAgICAgICMgYmFzZWxpbmVzIGFuZCBoZWxkLW91dCBzZXRzIGFyZSBtZWFuaW5nbGVzcyBvdXRzaWRlIGV2YWwgc2NyaXB0cy4KICAgICAgICBmaWxlczogXihldmFsc3x0ZXN0c3xiZW5jaG1hcmtzfGV4cGVyaW1lbnRzKS8KICAgICAgICBhcmdzOiBbIi0tc2V2ZXJpdHkiLCAid2FybiJdCiAgICAgICAgcGFzc19maWxlbmFtZXM6IHRydWUK
+# Copy into .pre-commit-config.yaml
+#
+# Why bother when CI already runs it: CI tells you after the push, and the
+# finding is then two contexts away from the line that caused it. The
+# pre-commit hook fails at the moment you write `except Exception: pass`,
+# while you still remember why you wrote it.
+#
+# `language: system` is deliberate. This project's whole argument is that a
+# scanner should not need to install anything before it can tell you your
+# script is lying; making the hook build an isolated venv on first commit
+# would undercut that for no benefit, since evalguard has no dependencies.
+
+repos:
+  - repo: https://github.com/zhumeiyan/luoshen-o1
+    rev: main
+    hooks:
+      - id: evalguard
+        name: evalguard
+        entry: python3 -m evalguard
+        language: system
+        types: [python]
+        # Only the paths where evaluation code actually lives. Running this
+        # over a whole application codebase produces noise: rules about
+        # baselines and held-out sets are meaningless outside eval scripts.
+        files: ^(evals|tests|benchmarks|experiments)/
+        args: ["--severity", "warn"]
+        pass_filenames: true

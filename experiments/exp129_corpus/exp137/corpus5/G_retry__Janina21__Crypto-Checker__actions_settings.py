@@ -1,1 +1,62 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiU2V0dGluZ3MgYWN0aW9uIOKAlCBSUEMgZW5kcG9pbnRzLCBBUEkga2V5cywgZXhwb3J0IGNvbmZpZ3VyYXRpb24uIiIiCgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmZyb20gcmljaC50YWJsZSBpbXBvcnQgVGFibGUKZnJvbSByaWNoLnBhbmVsIGltcG9ydCBQYW5lbApmcm9tIHJpY2ggaW1wb3J0IGJveAoKZnJvbSBzY2FubmVyLnVpIGltcG9ydCBjb25zb2xlLCBwcmludF9pbmZvLCBwcmludF93YXJuaW5nCgoKZGVmIGFjdGlvbl9zZXR0aW5ncygpOgogICAgIiIiRGlzcGxheSBzZXR1cCBpbnN0cnVjdGlvbnM6IGNvbmZpZy5qc29uLCBSUEMgZW5kcG9pbnRzLCBBUEkga2V5cy4iIiIKICAgIHRhYmxlID0gVGFibGUoCiAgICAgICAgc2hvd19oZWFkZXI9VHJ1ZSwKICAgICAgICBoZWFkZXJfc3R5bGU9ImJvbGQgYnJpZ2h0X2JsdWUiLAogICAgICAgIGJvcmRlcl9zdHlsZT0iYmx1ZSIsCiAgICAgICAgYm94PWJveC5ST1VOREVELAogICAgICAgIHRpdGxlPSJbYm9sZCBicmlnaHRfYmx1ZV0g4peIIENPTkZJR1VSQVRJT04g4peIIFsvXSIsCiAgICAgICAgdGl0bGVfc3R5bGU9ImJyaWdodF9ibHVlIiwKICAgICkKICAgIHRhYmxlLmFkZF9jb2x1bW4oIlNldHRpbmciLCBzdHlsZT0iYnJpZ2h0X2JsdWUiKQogICAgdGFibGUuYWRkX2NvbHVtbigiRGVzY3JpcHRpb24iLCBzdHlsZT0iZGltIikKICAgIHRhYmxlLmFkZF9jb2x1bW4oIkV4YW1wbGUiLCBzdHlsZT0iYnJpZ2h0X2JsYWNrIikKCiAgICB0YWJsZS5hZGRfcm93KCJycGNfZW5kcG9pbnRzIiwgIlBlci1jaGFpbiBSUEMgZW5kcG9pbnQgVVJMcyIsICJodHRwczovL2V0aC1tYWlubmV0LmcuYWxjaGVteS5jb20vdjIvLi4uIikKICAgIHRhYmxlLmFkZF9yb3coImFwaV9rZXlzIiwgIkV4cGxvcmVyIEFQSSBrZXlzIChvcHRpb25hbCkiLCAiZXRoZXJzY2FuOiBZT1VSX0tFWSIpCiAgICB0YWJsZS5hZGRfcm93KCJkZWZhdWx0X2NoYWluIiwgIkRlZmF1bHQgY2hhaW4gZm9yIHF1ZXJpZXMiLCAiZXRoZXJldW0gLyBiaXRjb2luIC8gc29sYW5hIikKICAgIHRhYmxlLmFkZF9yb3coImN1cnJlbmN5IiwgIkZpYXQgY3VycmVuY3kgZm9yIHZhbHVhdGlvbnMiLCAiVVNEIC8gRVVSIC8gR0JQIikKICAgIHRhYmxlLmFkZF9yb3coIm1heF9jb25jdXJyZW50X3JlcXVlc3RzIiwgIlBhcmFsbGVsIHJlcXVlc3QgbGltaXQiLCAiMTAiKQogICAgdGFibGUuYWRkX3JvdygicmVxdWVzdF90aW1lb3V0X3NlYyIsICJSUEMgcmVxdWVzdCB0aW1lb3V0IiwgIjMwIikKICAgIHRhYmxlLmFkZF9yb3coImNhY2hlX3R0bF9zZWMiLCAiQmFsYW5jZSBjYWNoZSBkdXJhdGlvbiIsICIzMDAiKQogICAgdGFibGUuYWRkX3JvdygiZXhwb3J0LmRlZmF1bHRfZm9ybWF0IiwgIkRlZmF1bHQgZXhwb3J0IGZvcm1hdCIsICJjc3YgLyBqc29uIC8gcGRmIC8gaHRtbCIpCiAgICB0YWJsZS5hZGRfcm93KCJleHBvcnQub3V0cHV0X2RpcmVjdG9yeSIsICJFeHBvcnQgb3V0cHV0IHBhdGgiLCAiLi9leHBvcnRzIikKCiAgICBwYW5lbCA9IFBhbmVsKAogICAgICAgIHRhYmxlLAogICAgICAgIHRpdGxlPSJbYm9sZCBibHVlXSBDcnlwdG8gQ2hlY2tlciBTZXR0aW5ncyBbL10iLAogICAgICAgIGJvcmRlcl9zdHlsZT0iYnJpZ2h0X2JsdWUiLAogICAgICAgIGJveD1ib3guRE9VQkxFLAogICAgKQoKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludChwYW5lbCkKCiAgICBiYXNlX2RpciA9IFBhdGgoX19maWxlX18pLnBhcmVudC5wYXJlbnQKICAgIGNvbmZpZ19wYXRoID0gYmFzZV9kaXIgLyAiY29uZmlnLmpzb24iCgogICAgY29uc29sZS5wcmludCgpCiAgICBjb25zb2xlLnByaW50KCJbZGltXUNvbmZpZ3VyYXRpb24gZmlsZXM6Wy9dIikKICAgIGNvbnNvbGUucHJpbnQoZiIgIFticmlnaHRfYmx1ZV1jb25maWcuanNvblsvXSAg4oaSIHtjb25maWdfcGF0aH0iKQogICAgY29uc29sZS5wcmludCgpCiAgICBjb25zb2xlLnByaW50KAogICAgICAgICJbYnJpZ2h0X2JsdWVdUlBDIGVuZHBvaW50IGZvcm1hdDpbL11cbiIKICAgICAgICAiICDigKIgW2RpbV1FVk0gY2hhaW5zOiBodHRwczovLzxwcm92aWRlcj4vPGFwaV9rZXk+Wy9dXG4iCiAgICAgICAgIiAg4oCiIFtkaW1dQml0Y29pbjogaHR0cHM6Ly9ibG9ja3N0cmVhbS5pbmZvL2FwaVsvXVxuIgogICAgICAgICIgIOKAoiBbZGltXVNvbGFuYTogaHR0cHM6Ly9hcGkubWFpbm5ldC1iZXRhLnNvbGFuYS5jb21bL10iCiAgICApCiAgICBjb25zb2xlLnByaW50KCkKICAgIHByaW50X3dhcm5pbmcoIktlZXAgQVBJIGtleXMgc2VjdXJlLiBOZXZlciBjb21taXQgY29uZmlnLmpzb24gdG8gdmVyc2lvbiBjb250cm9sLiIpCiAgICBwcmludF9pbmZvKCJFZGl0IGNvbmZpZyBmaWxlcyB3aXRoIGFueSB0ZXh0IGVkaXRvciAoZS5nLiBWUyBDb2RlLCBOb3RlcGFkKS4iKQo=
+# -*- coding: utf-8 -*-
+"""Settings action — RPC endpoints, API keys, export configuration."""
+
+from pathlib import Path
+
+from rich.table import Table
+from rich.panel import Panel
+from rich import box
+
+from scanner.ui import console, print_info, print_warning
+
+
+def action_settings():
+    """Display setup instructions: config.json, RPC endpoints, API keys."""
+    table = Table(
+        show_header=True,
+        header_style="bold bright_blue",
+        border_style="blue",
+        box=box.ROUNDED,
+        title="[bold bright_blue] ◈ CONFIGURATION ◈ [/]",
+        title_style="bright_blue",
+    )
+    table.add_column("Setting", style="bright_blue")
+    table.add_column("Description", style="dim")
+    table.add_column("Example", style="bright_black")
+
+    table.add_row("rpc_endpoints", "Per-chain RPC endpoint URLs", "https://eth-mainnet.g.alchemy.com/v2/...")
+    table.add_row("api_keys", "Explorer API keys (optional)", "etherscan: YOUR_KEY")
+    table.add_row("default_chain", "Default chain for queries", "ethereum / bitcoin / solana")
+    table.add_row("currency", "Fiat currency for valuations", "USD / EUR / GBP")
+    table.add_row("max_concurrent_requests", "Parallel request limit", "10")
+    table.add_row("request_timeout_sec", "RPC request timeout", "30")
+    table.add_row("cache_ttl_sec", "Balance cache duration", "300")
+    table.add_row("export.default_format", "Default export format", "csv / json / pdf / html")
+    table.add_row("export.output_directory", "Export output path", "./exports")
+
+    panel = Panel(
+        table,
+        title="[bold blue] Crypto Checker Settings [/]",
+        border_style="bright_blue",
+        box=box.DOUBLE,
+    )
+
+    console.print()
+    console.print(panel)
+
+    base_dir = Path(__file__).parent.parent
+    config_path = base_dir / "config.json"
+
+    console.print()
+    console.print("[dim]Configuration files:[/]")
+    console.print(f"  [bright_blue]config.json[/]  → {config_path}")
+    console.print()
+    console.print(
+        "[bright_blue]RPC endpoint format:[/]\n"
+        "  • [dim]EVM chains: https://<provider>/<api_key>[/]\n"
+        "  • [dim]Bitcoin: https://blockstream.info/api[/]\n"
+        "  • [dim]Solana: https://api.mainnet-beta.solana.com[/]"
+    )
+    console.print()
+    print_warning("Keep API keys secure. Never commit config.json to version control.")
+    print_info("Edit config files with any text editor (e.g. VS Code, Notepad).")

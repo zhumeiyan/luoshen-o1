@@ -1,1 +1,35 @@
-IyDnlKjmiLfljp/lp4vku6PnoIHvvIzpgJDlrZfkv53nlZkKY2xhc3MgRGlnZXN0aXZlU3lzdGVtOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJyYWluKToKICAgICAgICBzZWxmLmJyYWluID0gYnJhaW4KICAgICAgICAKICAgIGRlZiBtb3V0aF9jaGV3KHNlbGYsIHJhd19odG1sKToKICAgICAgICBwcmludCgi8J+RhCBb5Zi05be0XSDlvIDlp4vlkoDlmrzljp/lp4vmlbDmja4uLi4iKQogICAgICAgIGltcG9ydCByZQogICAgICAgIGNsZWFuX3RleHQgPSByZS5zdWIocic8W14+XSs+JywgJycsIHJhd19odG1sKSAKICAgICAgICBjaHVua3MgPSBjbGVhbl90ZXh0LnNwbGl0KCLjgIIiKQogICAgICAgIHByaW50KGYi8J+RhCBb5Zi05be0XSDlkoDlmrzlrozmiJDvvIzlkJDkuIsge2xlbihjaHVua3MpfSDkuKrmlbDmja7lnZfjgIIiKQogICAgICAgIHJldHVybiBjaHVua3MKCiAgICBkZWYgc3RvbWFjaF9kaWdlc3Qoc2VsZiwgY2h1bmtzKToKICAgICAgICBwcmludCgi8J+rgyBb6IOD6YOoXSDlvIDlp4vliIbms4zog4PphbjvvIjov4fmu6TlvJXmk47vvIkuLi4iKQogICAgICAgIHZhbGlkX251dHJpdGlvbiA9IFtdCiAgICAgICAgd2FzdGUgPSBbXQogICAgICAgIAogICAgICAgIGZvciBjaHVuayBpbiBjaHVua3M6CiAgICAgICAgICAgIGlmICLlvannpagiIGluIGNodW5rIG9yICLpqpflsYAiIGluIGNodW5rIG9yIGxlbihjaHVuaykgPCA1OgogICAgICAgICAgICAgICAgd2FzdGUuYXBwZW5kKGNodW5rKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdmFsaWRfbnV0cml0aW9uLmFwcGVuZChjaHVuaykKICAgICAgICAgICAgICAgIAogICAgICAgIHByaW50KGYi8J+rgyBb6IOD6YOoXSDmtojljJblrozmiJDjgILnnJ/mg4XmiqXvvJp7bGVuKHZhbGlkX251dHJpdGlvbil9IOadoe+8jOWeg+Wcvu+8mntsZW4od2FzdGUpfSDmnaHjgIIiKQogICAgICAgIHJldHVybiB2YWxpZF9udXRyaXRpb24sIHdhc3RlCgogICAgZGVmIGludGVzdGluZV9hYnNvcmIoc2VsZiwgdmFsaWRfbnV0cml0aW9uKToKICAgICAgICBwcmludCgi8J+puCBb6IKg6YGTXSDlvIDlp4vlkLjmlLbokKXlhbvvvIzlm7rljJborrDlv4bpk74uLi4iKQogICAgICAgIGZvciBmb29kIGluIHZhbGlkX251dHJpdGlvbjoKICAgICAgICAgICAgc2VsZi5icmFpbi5fd3JpdGVfaGFzaChmIuWQuOaUtuaDheaKpToge2Zvb2R9IikKICAgICAgICAgICAgc2VsZi5icmFpbi5lbmVyZ3lfYiArPSA1LjAKCiAgICBkZWYgZXhjcmV0ZShzZWxmLCB3YXN0ZSk6CiAgICAgICAgcHJpbnQoZiLwn5KpIFvmjpLms4RdIOWwhiB7bGVuKHdhc3RlKX0g5p2h5Z6D5Zy+5pWw5o2u5b275bqV5o6S5Ye657O757uf44CCIikK
+# 用户原始代码，逐字保留
+class DigestiveSystem:
+    def __init__(self, brain):
+        self.brain = brain
+        
+    def mouth_chew(self, raw_html):
+        print("👄 [嘴巴] 开始咀嚼原始数据...")
+        import re
+        clean_text = re.sub(r'<[^>]+>', '', raw_html) 
+        chunks = clean_text.split("。")
+        print(f"👄 [嘴巴] 咀嚼完成，吐下 {len(chunks)} 个数据块。")
+        return chunks
+
+    def stomach_digest(self, chunks):
+        print("🫃 [胃部] 开始分泌胃酸（过滤引擎）...")
+        valid_nutrition = []
+        waste = []
+        
+        for chunk in chunks:
+            if "彩票" in chunk or "骗局" in chunk or len(chunk) < 5:
+                waste.append(chunk)
+            else:
+                valid_nutrition.append(chunk)
+                
+        print(f"🫃 [胃部] 消化完成。真情报：{len(valid_nutrition)} 条，垃圾：{len(waste)} 条。")
+        return valid_nutrition, waste
+
+    def intestine_absorb(self, valid_nutrition):
+        print("🩸 [肠道] 开始吸收营养，固化记忆链...")
+        for food in valid_nutrition:
+            self.brain._write_hash(f"吸收情报: {food}")
+            self.brain.energy_b += 5.0
+
+    def excrete(self, waste):
+        print(f"💩 [排泄] 将 {len(waste)} 条垃圾数据彻底排出系统。")

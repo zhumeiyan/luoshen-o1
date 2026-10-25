@@ -1,1 +1,24 @@
-IyAxNTIg6aKE5rOo5YaM77yI6LeR5LmL5YmN5YaZ5q2777yJCgojIyDpl67popgKMTUxIOa1i+WHuu+8muWFreagvOmHjOWPquacieaWh+WMluagvOS6p+eUn+mHj+e6p+S4jeWQjOeahOWinuebiu+8iEwxIDQxLjIgLT4gTDErTDZjIDcwLjXvvIzmtojono0gLTM3LjPvvInjgIIK5paH5YyW55qE5Lu35YC856m256uf5pivIuecgeaXtumXtCLvvIjlj6/ooqvkuKrkvZPni6zoh6rlu7bplb/lt6XkvZzmm7/ku6PvvInvvIzov5jmmK8i5LiN5Y+v5pu/5LujIu+8nwoKIyMg562J6aKE566X6K6+6K6h77yI5qC45b+D77ya5Lik6L655oC75q2l5pWw55u45ZCM77yJCi0gY3VsdHVyZSAgIDogRyDku6Mgw5cgVD0xNTAg5q2l77yM5Luj6Ze057un5om/IHN0b3Jl77yI5oC75q2l5pWwID0gRyoxNTDvvIkKLSBzb2xvICAgICAgOiAxIOS7oyDDlyAoRyoxNTApIOatpe+8jOS4jee7p+aJv++8jOS9hiB2aXNpdGVkIOi/nue7ree0r+enrwotIHNvbG9fc2VnICA6IEcg5LujIMOXIDE1MCDmraXvvIzkuI3nu6fmib/vvIzmr4/ku6Pph43nva7orrDlv4bvvIjmgLvmraXmlbDlkIzkuLogRyoxNTDvvIkKCiMjIOWBh+iuvu+8iOWPr+iDveS4uuecn+S5n+WPr+iDveS4uuWBh++8iQpIMSAg562J6aKE566X54K5IEc9MTbvvJpjdWx0dXJlID4gc29sbyAgICAgICAgICDvvIjmlofljJbkuI3lj6/ooqvkuKrkvZPml7bpl7Tmm7/ku6PvvIkKSDIgIOWJgumHj+aJq+aPj++8mnNvbG8g5q2l5pWw5aKe6IezIDk2MDAg5LuNIDwgY3VsdHVyZSDnqLPmgIHvvIjmuJDov5Hnur/mm7TkvY7vvIzpnZ7ku4Xotbfngrnmm7Tpq5jvvIkKSDMgIOmYtOaAp+WvueeFp++8mnNvbG9fc2VnIOKJiCBzb2xvKFQ9MTUwKSAgICAgICDvvIgi5YiG5LujIuacrOi6q+aXoOS7t+WAvO+8jOS7t+WAvOWcqOe7p+aJv++8iQoKIyMg5Yik5o2uCi0gQ0kg55SoIHQg6L+R5Ly855qE5Z2H5YC8wrExLjk2KlNF77yMbj04Ci0g57uT6K665Y+q5ZyoIENJIOS4jei3qCAw77yI5oiW5LiN6YeN5Y+g77yJ5pe25oiQ56uLCi0g6IulIEgxL0gyIOS7u+S4gOS4uuWBh++8jOWmguWunuaKpeWRiu+8jOS4jeaNouaMh+agh+e/u+atowoKIyMg5bey55+l5re35reG77yI6LeR5YmN5aOw5piO77yJCmN1bHR1cmUg5q+P5Luj6YeN572uIHZpc2l0ZWTjgIHpnaDnu6fmib/nmoQga25vd24g5a6a5ZCR77ybc29sbyDov57nu63ntK/np68gdmlzaXRlZOOAggrkuozogIXkuI3lr7nnp7DmmK/nnJ/lrp7nmoTvvIzkuZ/mraPmmK/ooqvmtYvlr7nosaHvvJoi6ZW/5pe26Ze056ev57Sv6Ieq5bex55qE57uP6aqMIiB2cyAi57un5om/5LuW5Lq655qE55+l6K+GIuOAggo=
+# 152 预注册（跑之前写死）
+
+## 问题
+151 测出：六格里只有文化格产生量级不同的增益（L1 41.2 -> L1+L6c 70.5，消融 -37.3）。
+文化的价值究竟是"省时间"（可被个体独自延长工作替代），还是"不可替代"？
+
+## 等预算设计（核心：两边总步数相同）
+- culture   : G 代 × T=150 步，代间继承 store（总步数 = G*150）
+- solo      : 1 代 × (G*150) 步，不继承，但 visited 连续累积
+- solo_seg  : G 代 × 150 步，不继承，每代重置记忆（总步数同为 G*150）
+
+## 假设（可能为真也可能为假）
+H1  等预算点 G=16：culture > solo          （文化不可被个体时间替代）
+H2  剂量扫描：solo 步数增至 9600 仍 < culture 稳态（渐近线更低，非仅起点更高）
+H3  阴性对照：solo_seg ≈ solo(T=150)       （"分代"本身无价值，价值在继承）
+
+## 判据
+- CI 用 t 近似的均值±1.96*SE，n=8
+- 结论只在 CI 不跨 0（或不重叠）时成立
+- 若 H1/H2 任一为假，如实报告，不换指标翻正
+
+## 已知混淆（跑前声明）
+culture 每代重置 visited、靠继承的 known 定向；solo 连续累积 visited。
+二者不对称是真实的，也正是被测对象："长时间积累自己的经验" vs "继承他人的知识"。

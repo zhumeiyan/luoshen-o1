@@ -1,1 +1,6 @@
-aW1wb3J0IHN0YXRpc3RpY3MsIG9zCmRlZiBvX21lbSgpOgogICAgZm9yIGxpbmUgaW4gb3BlbignL3Byb2MvbWVtaW5mbycpLnJlYWQoKS5zcGxpdGxpbmVzKCk6CiAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCdNZW1BdmFpbGFibGUnKTogcmV0dXJuIGludChsaW5lLnNwbGl0KClbMV0pCnY9W29fbWVtKCkgZm9yIF8gaW4gcmFuZ2UoNDApXQpwcmludCgnbWVtIG5vaXNlOiBtZWFuJyxzdGF0aXN0aWNzLm1lYW4odiksJ3N0ZGV2JyxzdGF0aXN0aWNzLnBzdGRldih2KSwncmFuZ2UnLG1heCh2KS1taW4odikpCg==
+import statistics, os
+def o_mem():
+    for line in open('/proc/meminfo').read().splitlines():
+        if line.startswith('MemAvailable'): return int(line.split()[1])
+v=[o_mem() for _ in range(40)]
+print('mem noise: mean',statistics.mean(v),'stdev',statistics.pstdev(v),'range',max(v)-min(v))

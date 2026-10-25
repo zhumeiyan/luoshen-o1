@@ -1,1 +1,201 @@
-aW1wb3J0IHJlCmltcG9ydCBsb2dnaW5nCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKClpTVERfTUFHSUMgPSBiIlx4MjhceGI1XHgyZlx4ZmQiCgp0cnk6CiAgICBpbXBvcnQgenN0YW5kYXJkIGFzIF96c3RkCiAgICBfWlNURF9DVFggPSBfenN0ZC5ac3RkRGVjb21wcmVzc29yKCkKICAgIEhBU19aU1REID0gVHJ1ZQpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBfWlNURF9DVFggPSBOb25lCiAgICBIQVNfWlNURCA9IEZhbHNlCgpkZWYgbWF5YmVfenN0ZF9kZWNvbXByZXNzKGRhdGEpIC0+IGJ5dGVzOgogICAgIiIi6Iul5pivIHpzdGQg5Y6L57yp5YyF5YiZ6Kej5Y6L77yM5ZCm5YiZ5Y6f5qC36L+U5ZueIiIiCiAgICBpZiBub3QgZGF0YToKICAgICAgICByZXR1cm4gYiIiCiAgICBpZiBpc2luc3RhbmNlKGRhdGEsIHN0cik6CiAgICAgICAgZGF0YSA9IGRhdGEuZW5jb2RlKCJ1dGYtOCIsIGVycm9ycz0iaWdub3JlIikKICAgIGlmIGRhdGFbOjRdICE9IFpTVERfTUFHSUM6CiAgICAgICAgcmV0dXJuIGJ5dGVzKGRhdGEpCiAgICBpZiBub3QgSEFTX1pTVEQ6CiAgICAgICAgcmV0dXJuIGIiIgogICAgdHJ5OgogICAgICAgIHJldHVybiBfWlNURF9DVFguZGVjb21wcmVzcyhkYXRhKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgbG9nZ2VyLndhcm5pbmcoZiJ6c3RkIOino+WOi+Wksei0pe+8iOi+k+WFpSB7bGVuKGRhdGEpfSDlrZfoioLvvIk6IHtleGN9IikKICAgICAgICByZXR1cm4gYiIiCgpUWVBFX0xBQkVMUyA9IHsKICAgIDE6ICLmlofmnKwiLAogICAgMzogIuWbvueJhyIsCiAgICAzNDogIuivremfsyIsCiAgICAzNzogIuWlveWPi+ivt+axgiIsCiAgICA0MjogIuWQjeeJhyIsCiAgICA0MzogIuinhumikSIsCiAgICA0NzogIuihqOaDhSIsCiAgICA0ODogIuS9jee9riIsCiAgICA0OTogIuW6lOeUqOa2iOaBryIsCiAgICA1MDogIumAmuivnSIsCiAgICA1MTogIuinhumikeWPtyIsCiAgICA1MjogIuinhumikeWPtyIsCiAgICAxMDAwMDogIuezu+e7nyIsCiAgICAxMDAwMjogIuezu+e7nyIsCn0KCkFQUE1TR19MQUJFTFMgPSB7CiAgICAxOiAi6ZO+5o6lIiwKICAgIDI6ICLnm7jlhowiLAogICAgMzogIuWbvueJhyIsCiAgICA0OiAi6KeG6aKRIiwKICAgIDU6ICLpk77mjqUiLAogICAgNjogIuaWh+S7tiIsCiAgICA3OiAi5L2N572uIiwKICAgIDg6ICLooajmg4UiLAogICAgOTogIuWbvuaWhyIsCiAgICAxMDogIumfs+S5kCIsCiAgICAxMTogIumfs+S5kCIsCiAgICAxMjogIuWQjeeJhyIsCiAgICAxNDogIuaJk+aLm+WRvCIsCiAgICAxNTogIumikemBkyIsCiAgICAxNjogIue+pOaOpem+mSIsCiAgICAxNzogIuWunuaXtuivremfsyIsCiAgICAxODogIuS8geS4mue7v+azoeazoSIsCiAgICAxOTogIuiBiuWkqeiusOW9lSIsCiAgICAyMDogIuWNoeWIuCIsCiAgICAyNDogIue+pOS9k+mihOiniCIsCiAgICAyNTogIue+pOWFrOWRiiIsCiAgICAzMzogIuWwj+eoi+W6jyIsCiAgICAzNDogIuWwj+eoi+W6jyIsCiAgICAzNTogIuWwj+eoi+W6jyIsCiAgICAzNjogIuinhumikeWPtyIsCiAgICA1NzogIuW8leeUqCIsCiAgICA2MjogIuaLjeS4gOaLjSIsCn0KCmRlZiBfY2xlYW5feG1sX3RleHQodmFsdWU6IHN0cikgLT4gc3RyOgogICAgIiIi5Y675o6JIENEQVRBIOWMheijueW5tui/mOWOn+W4uOingSBYTUwg5a6e5L2TIiIiCiAgICB0ZXh0ID0gKHZhbHVlIG9yICIiKS5zdHJpcCgpCiAgICB0ZXh0ID0gcmUuc3ViKHIiXjwhXFtDREFUQVxbKC4qPylcXVxdPiQiLCByIlwxIiwgdGV4dCwgZmxhZ3M9cmUuRE9UQUxMKQogICAgcmV0dXJuICgKICAgICAgICB0ZXh0LnJlcGxhY2UoIiZsdDsiLCAiPCIpCiAgICAgICAgLnJlcGxhY2UoIiZndDsiLCAiPiIpCiAgICAgICAgLnJlcGxhY2UoIiZhbXA7IiwgIiYiKQogICAgICAgIC5yZXBsYWNlKCImcXVvdDsiLCAnIicpCiAgICAgICAgLnJlcGxhY2UoIiZhcG9zOyIsICInIikKICAgICAgICAuc3RyaXAoKQogICAgKQoKCiMg5qCH562+5bGe5oCn5q6177ya5YWB6K645bGe5oCn5YC85YaF6YOo5Ye6546wICc+J++8iOWmgiA8YSBocmVmPSJ4PnkiPu+8ieOAgueUqOW8leWPt+aEn+efpeeahAojIOS6pOabv+W8j+WMuemFje+8jOmBv+WFjSBbXj5dKiDlnKjlsZ7mgKflgLzph4znmoTnrKzkuIDkuKogJz4nIOWkhOaPkOWJjeaIquaWre+8jOaKiiAieD55IiDkuYvlkI4KIyDnmoTlnoPlnL7lvZPmiJDmraPmlofjgIIKX0FUVFJTID0gciIiIig/OiJbXiJdKiJ8J1teJ10qJ3xbXj4iJ10pKiIiIgoKCmRlZiBleHRyYWN0X3RhZ19mcm9tX3htbCh4bWxfdGV4dDogc3RyLCB0YWc6IHN0cikgLT4gc3RyOgogICAgIiIi5o+Q5Y+W5oyH5a6a5qCH562+5YaF55qE6aaW5Liq6Z2e56m65paH5pys77yI6Lez6L+H6Ieq6Zet5ZCI5LiO56m65qCH562+77yJIiIiCiAgICBpZiBub3QgeG1sX3RleHQ6CiAgICAgICAgcmV0dXJuICIiCiAgICAjIOWFiOWJlOmZpOiHqumXreWQiOagh+etvu+8iDx0YWcvPiDkuI4gPHRhZyAvPu+8ieOAguWug+S7rOayoeaciemXreWQiOagh+etvu+8jOato+WImeeahOmdnumHjeWPoAogICAgIyDmiavmj4/kvJrku47lroPkuIDot6/lkJ7liLDlkI7pnaLlkIzlkI3nmoTnnJ/moIfnrb7vvIzlr7zoh7TntKfpmo/lhbblkI7nmoTnnJ/moIfnrb7ooqvmlbTkvZPot7Pov4fjgIIKICAgICMgXGIg5L+d6K+BIDx0YWdhdHRyLz4g6L+Z57G75ZCM5ZCN5YmN57yA5LiN5Lya6KKr6K+v5b2T5oiQIDx0YWcvPuOAggogICAgY2xlYW5lZCA9IHJlLnN1YihyZiI8e3RhZ31cYig/OntfQVRUUlN9KT8vPiIsICIiLCB4bWxfdGV4dCkKICAgICMg5q2j5paH6YGH5Yiw5ZCM5ZCN5byA5qCH562+5Y2z5YGc5q2i77ya6ISP5pWw5o2u6YeM57y66Zet5ZCI5qCH562+55qEIDx0aXRsZT5hPHRpdGxlPmI8L3RpdGxlPgogICAgIyDlkKbliJnkvJrmiorkuKTkuKrmoIfnrb7kuYvpl7TnmoTlhoXlrrnmlbTmrrXlkJ7ov5vmnaXjgIIKICAgIHBhdHRlcm4gPSByZiI8e3RhZ31cYih7X0FUVFJTfSk+KCg/Oig/ITx7dGFnfVxiKS4pKj8pPC97dGFnfT4iCiAgICBmb3IgbWF0Y2ggaW4gcmUuZmluZGl0ZXIocGF0dGVybiwgY2xlYW5lZCwgcmUuRE9UQUxMKToKICAgICAgICB2YWx1ZSA9IF9jbGVhbl94bWxfdGV4dChtYXRjaC5ncm91cCgyKSkKICAgICAgICBpZiB2YWx1ZToKICAgICAgICAgICAgcmV0dXJuIHZhbHVlCiAgICByZXR1cm4gIiIKCgpkZWYgZXh0cmFjdF90aXRsZV9mcm9tX3htbCh4bWxfdGV4dDogc3RyKSAtPiBzdHI6CiAgICAiIiLku44gYXBwbXNnIFhNTCDkuK3mj5Dlj5YgPHRpdGxlPiDlhoXlrrkiIiIKICAgIHJldHVybiBleHRyYWN0X3RhZ19mcm9tX3htbCh4bWxfdGV4dCwgInRpdGxlIikKCmRlZiBfc3VtbWFyaXplX3F1b3RlZChxdW90ZWQ6IHN0cikgLT4gc3RyOgogICAgIiIi6KKr5byV55So55qE5raI5oGv5pys6Lqr6Iul5pivIGFwcG1zZ++8jOWFtiA8Y29udGVudD4g6YeM5bWM55qE5piv5pW05q615Y6f5aeLIFhNTOOAggoKICAgIOatpOaXtuWGjeino+aekOS4gOWxgu+8jOWPluWHuuWPr+ivu+eahCA8dGl0bGU+LzxkZXM+77yM6YG/5YWN5oqK5pW05q61IFhNTCDlvZPmiJDlvJXnlKjljp/mlocKICAgIOebtOaOpeWhnui/m+ato+aWh+OAguino+aekOS4jeWHuuWPr+ivu+Wtl+auteaXtuaMieW1jOWll+agueagh+etvumAgOWMluS4uuexu+Wei+WNoOS9jeOAggogICAgIiIiCiAgICByYXcgPSBxdW90ZWQgb3IgIiIKICAgIHRleHQgPSByYXcubHN0cmlwKCkKICAgICMg576k6IGK5Lit6KKr5byV55So5YaF5a655Y+v6IO95bimICJ3eGlkX3h4eDogIiDlj5HpgIHogIXliY3nvIDvvJvku4XlvZPliaXmjonliY3nvIDlkI7noa7lrp7ku6UKICAgICMgWE1MIOW8gOWktOaXtuaJjeWJpeemu++8jOmBv+WFjeivr+S8pOW9ouWmgiAiYWJjMTIzOiDkvaDlpb0iIOeahOato+W4uOW8leeUqOaWh+acrOOAggogICAgc3RyaXBwZWQgPSByZS5zdWIociJeW0EtWmEtejAtOV8uXC1AXXs0LH06XHMqIiwgIiIsIHRleHQsIGNvdW50PTEpCiAgICBpZiBzdHJpcHBlZC5zdGFydHN3aXRoKCI8P3htbCIpIG9yIHN0cmlwcGVkLnN0YXJ0c3dpdGgoIjxtc2ciKToKICAgICAgICB0ZXh0ID0gc3RyaXBwZWQKICAgIGVsaWYgbm90ICh0ZXh0LnN0YXJ0c3dpdGgoIjw/eG1sIikgb3IgdGV4dC5zdGFydHN3aXRoKCI8bXNnIikpOgogICAgICAgIHJldHVybiByYXcKICAgIGZvciB0YWcgaW4gKCJ0aXRsZSIsICJkZXMiLCAiY29udGVudCIpOgogICAgICAgIHZhbHVlID0gZXh0cmFjdF90YWdfZnJvbV94bWwodGV4dCwgdGFnKQogICAgICAgIHZhbHVlID0gKHZhbHVlIG9yICIiKS5zdHJpcCgpCiAgICAgICAgaWYgdmFsdWUgYW5kIG5vdCB2YWx1ZS5zdGFydHN3aXRoKCI8Iik6CiAgICAgICAgICAgIHJldHVybiB2YWx1ZQogICAgZm9yIHRva2VuLCBsYWJlbCBpbiAoKCI8aW1nIiwgIlvlm77niYddIiksICgiPHZpZGVvIiwgIlvop4bpopFdIiksICgiPGVtb2ppIiwgIlvooajmg4VdIikpOgogICAgICAgIGlmIHRva2VuIGluIHRleHQ6CiAgICAgICAgICAgIHJldHVybiBsYWJlbAogICAgcmV0dXJuICJb5aSa5aqS5L2T5raI5oGvXSIKCgpkZWYgYnVpbGRfY29udGVudChsb2NhbF90eXBlOiBpbnQsIHJhd19jb250ZW50LCByYXdfc291cmNlKSAtPiBzdHI6CiAgICAiIiLlsIYgcmF3X2NvbnRlbnQgLyByYXdfc291cmNlIOagueaNriBsb2NhbF90eXBlIOaehOW7uuaIkOWPr+ivu+Wtl+espuS4siIiIgogICAgaWYgbG9jYWxfdHlwZSA9PSAxOgogICAgICAgIGlmIGlzaW5zdGFuY2UocmF3X2NvbnRlbnQsIGJ5dGVzKToKICAgICAgICAgICAgdGV4dCA9IG1heWJlX3pzdGRfZGVjb21wcmVzcyhyYXdfY29udGVudCkuZGVjb2RlKCJ1dGYtOCIsIGVycm9ycz0iaWdub3JlIikKICAgICAgICBlbHNlOgogICAgICAgICAgICB0ZXh0ID0gc3RyKHJhd19jb250ZW50IG9yICIiKQogICAgICAgICMg576k6IGK5raI5oGv5Lya5oqK5Y+R6YCB6ICF57yW56CB5oiQIGA8c2VuZGVyX2lkPjogYCDliY3nvIDvvIjlrp7mtYvkuI4gc2VuZGVyX3VzZXJuYW1lIOS4gOiHtOOAgQogICAgICAgICMg56eB6IGK5LuO5LiN5Ye6546w77yJ77yM5bGe5YaX5L2Z5qCH6K6w77yM5riF55CG5ZCO5q2j5paH5pu05Y+v6K+744CC6ZmkIHd4aWRfIOWklu+8jOWFrOS8l+WPty/mnI3liqHlj7cKICAgICAgICAjIOS8muivnei/mOS8muWHuueOsCBnaF8g5LiOIDzmlbDlrZc+QG9wZW5pbSDlvaLlvI/vvIzkuIDlubbmuIXnkIbjgIIKICAgICAgICByZXR1cm4gcmUuc3ViKAogICAgICAgICAgICByIl4oPzp3eGlkX1tBLVphLXowLTlfLV17NCx9fGdoX1tBLVphLXowLTlfLV17NCx9fFswLTldezYsfUBvcGVuaW0pOlxzKiIsICIiLCB0ZXh0CiAgICAgICAgKQoKICAgICMg57O757uf5raI5oGv77yI5pKk5ZueIC8g5YWl576k5o+Q56S6562J77yJ77ya5q2j5paH5aSa5Li65Y+v6K+75paH5pys77yM6YOo5YiGIHR5cGUg5Li6IHN5c21zZyBYTUwKICAgIGlmIGxvY2FsX3R5cGUgaW4gKDEwMDAwLCAxMDAwMik6CiAgICAgICAgcmF3ID0gbWF5YmVfenN0ZF9kZWNvbXByZXNzKHJhd19jb250ZW50IG9yIHJhd19zb3VyY2UpCiAgICAgICAgdGV4dCA9IHJhdy5kZWNvZGUoInV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKSBpZiBpc2luc3RhbmNlKHJhdywgYnl0ZXMpIGVsc2Ugc3RyKHJhdyBvciAiIikKICAgICAgICB0ZXh0ID0gdGV4dC5zdHJpcCgpCiAgICAgICAgaWYgIjxzeXNtc2ciIGluIHRleHQ6CiAgICAgICAgICAgIGZvciB0YWcgaW4gKCJjb250ZW50IiwgInRleHQiLCAicmVwbGFjZW1zZyIsICJwbGFpbiIpOgogICAgICAgICAgICAgICAgdmFsdWUgPSBleHRyYWN0X3RhZ19mcm9tX3htbCh0ZXh0LCB0YWcpCiAgICAgICAgICAgICAgICBpZiB2YWx1ZToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmFsdWUKICAgICAgICByZXR1cm4gdGV4dCBvciAiW+ezu+e7n10iCgogICAgbGFiZWwgPSBUWVBFX0xBQkVMUy5nZXQobG9jYWxfdHlwZSkKICAgIGlmIGxhYmVsOgogICAgICAgIHJldHVybiBmIlt7bGFiZWx9XSIKCiAgICAjIGFwcG1zZyDlpITnkIYKICAgIGRlY29tcHJlc3NlZCA9IG1heWJlX3pzdGRfZGVjb21wcmVzcyhyYXdfY29udGVudCBvciByYXdfc291cmNlKQogICAgeG1sX3RleHQgPSBkZWNvbXByZXNzZWQuZGVjb2RlKCJ1dGYtOCIsIGVycm9ycz0iaWdub3JlIikgaWYgZGVjb21wcmVzc2VkIGVsc2UgIiIKICAgIGFwcF90eXBlID0gKGxvY2FsX3R5cGUgPj4gMzIpIGlmIGxvY2FsX3R5cGUgPiAweEZGRkZGRkZGIGVsc2UgMAogICAgc3ViX2xhYmVsID0gQVBQTVNHX0xBQkVMUy5nZXQoYXBwX3R5cGUsICLmtojmga8iKQoKICAgIGlmIHhtbF90ZXh0OgogICAgICAgICMg5byV55So5raI5oGv77yaPHRpdGxlPiDmmK/mnKzmrKHlm57lpI3lhoXlrrnvvIw8cmVmZXJtc2c+IOmHjOaJjeaYr+iiq+W8leeUqOWOn+aWh+S4juS9nOiAhQogICAgICAgIGlmIGFwcF90eXBlID09IDU3OgogICAgICAgICAgICByZXBseSA9IGV4dHJhY3RfdGFnX2Zyb21feG1sKHhtbF90ZXh0LCAidGl0bGUiKQogICAgICAgICAgICBxdW90ZWQgPSBfc3VtbWFyaXplX3F1b3RlZChleHRyYWN0X3RhZ19mcm9tX3htbCh4bWxfdGV4dCwgImNvbnRlbnQiKSkKICAgICAgICAgICAgd2hvID0gZXh0cmFjdF90YWdfZnJvbV94bWwoeG1sX3RleHQsICJkaXNwbGF5bmFtZSIpCiAgICAgICAgICAgIGlmIHF1b3RlZDoKICAgICAgICAgICAgICAgIGhlYWQgPSBmIlvlvJXnlKgge3dob306IHtxdW90ZWR9XSIgaWYgd2hvIGVsc2UgZiJb5byV55SoOiB7cXVvdGVkfV0iCiAgICAgICAgICAgICAgICByZXR1cm4gZiJ7aGVhZH0ge3JlcGx5fSIgaWYgcmVwbHkgZWxzZSBoZWFkCiAgICAgICAgICAgIGlmIHJlcGx5OgogICAgICAgICAgICAgICAgcmV0dXJuIGYiW+W8leeUqF0ge3JlcGx5fSIKCiAgICAgICAgdGl0bGUgPSBleHRyYWN0X3RhZ19mcm9tX3htbCh4bWxfdGV4dCwgInRpdGxlIikKICAgICAgICBpZiB0aXRsZToKICAgICAgICAgICAgcmV0dXJuIGYiW3tzdWJfbGFiZWx9XSB7dGl0bGV9IgogICAgICAgIGlmICI8YXBwbXNnIiBpbiB4bWxfdGV4dDoKICAgICAgICAgICAgcmV0dXJuIGYiW3tzdWJfbGFiZWx9XSIKCiAgICByZXR1cm4gZiJbe3N1Yl9sYWJlbH1dIiBpZiBhcHBfdHlwZSBlbHNlICJb5aSa5aqS5L2T5raI5oGvXSIK
+import re
+import logging
+
+logger = logging.getLogger(__name__)
+
+ZSTD_MAGIC = b"\x28\xb5\x2f\xfd"
+
+try:
+    import zstandard as _zstd
+    _ZSTD_CTX = _zstd.ZstdDecompressor()
+    HAS_ZSTD = True
+except ImportError:
+    _ZSTD_CTX = None
+    HAS_ZSTD = False
+
+def maybe_zstd_decompress(data) -> bytes:
+    """若是 zstd 压缩包则解压，否则原样返回"""
+    if not data:
+        return b""
+    if isinstance(data, str):
+        data = data.encode("utf-8", errors="ignore")
+    if data[:4] != ZSTD_MAGIC:
+        return bytes(data)
+    if not HAS_ZSTD:
+        return b""
+    try:
+        return _ZSTD_CTX.decompress(data)
+    except Exception as exc:
+        logger.warning(f"zstd 解压失败（输入 {len(data)} 字节）: {exc}")
+        return b""
+
+TYPE_LABELS = {
+    1: "文本",
+    3: "图片",
+    34: "语音",
+    37: "好友请求",
+    42: "名片",
+    43: "视频",
+    47: "表情",
+    48: "位置",
+    49: "应用消息",
+    50: "通话",
+    51: "视频号",
+    52: "视频号",
+    10000: "系统",
+    10002: "系统",
+}
+
+APPMSG_LABELS = {
+    1: "链接",
+    2: "相册",
+    3: "图片",
+    4: "视频",
+    5: "链接",
+    6: "文件",
+    7: "位置",
+    8: "表情",
+    9: "图文",
+    10: "音乐",
+    11: "音乐",
+    12: "名片",
+    14: "打招呼",
+    15: "频道",
+    16: "群接龙",
+    17: "实时语音",
+    18: "企业绿泡泡",
+    19: "聊天记录",
+    20: "卡券",
+    24: "群体预览",
+    25: "群公告",
+    33: "小程序",
+    34: "小程序",
+    35: "小程序",
+    36: "视频号",
+    57: "引用",
+    62: "拍一拍",
+}
+
+def _clean_xml_text(value: str) -> str:
+    """去掉 CDATA 包裹并还原常见 XML 实体"""
+    text = (value or "").strip()
+    text = re.sub(r"^<!\[CDATA\[(.*?)\]\]>$", r"\1", text, flags=re.DOTALL)
+    return (
+        text.replace("&lt;", "<")
+        .replace("&gt;", ">")
+        .replace("&amp;", "&")
+        .replace("&quot;", '"')
+        .replace("&apos;", "'")
+        .strip()
+    )
+
+
+# 标签属性段：允许属性值内部出现 '>'（如 <a href="x>y">）。用引号感知的
+# 交替式匹配，避免 [^>]* 在属性值里的第一个 '>' 处提前截断，把 "x>y" 之后
+# 的垃圾当成正文。
+_ATTRS = r"""(?:"[^"]*"|'[^']*'|[^>"'])*"""
+
+
+def extract_tag_from_xml(xml_text: str, tag: str) -> str:
+    """提取指定标签内的首个非空文本（跳过自闭合与空标签）"""
+    if not xml_text:
+        return ""
+    # 先剔除自闭合标签（<tag/> 与 <tag />）。它们没有闭合标签，正则的非重叠
+    # 扫描会从它一路吞到后面同名的真标签，导致紧随其后的真标签被整体跳过。
+    # \b 保证 <tagattr/> 这类同名前缀不会被误当成 <tag/>。
+    cleaned = re.sub(rf"<{tag}\b(?:{_ATTRS})?/>", "", xml_text)
+    # 正文遇到同名开标签即停止：脏数据里缺闭合标签的 <title>a<title>b</title>
+    # 否则会把两个标签之间的内容整段吞进来。
+    pattern = rf"<{tag}\b({_ATTRS})>((?:(?!<{tag}\b).)*?)</{tag}>"
+    for match in re.finditer(pattern, cleaned, re.DOTALL):
+        value = _clean_xml_text(match.group(2))
+        if value:
+            return value
+    return ""
+
+
+def extract_title_from_xml(xml_text: str) -> str:
+    """从 appmsg XML 中提取 <title> 内容"""
+    return extract_tag_from_xml(xml_text, "title")
+
+def _summarize_quoted(quoted: str) -> str:
+    """被引用的消息本身若是 appmsg，其 <content> 里嵌的是整段原始 XML。
+
+    此时再解析一层，取出可读的 <title>/<des>，避免把整段 XML 当成引用原文
+    直接塞进正文。解析不出可读字段时按嵌套根标签退化为类型占位。
+    """
+    raw = quoted or ""
+    text = raw.lstrip()
+    # 群聊中被引用内容可能带 "wxid_xxx: " 发送者前缀；仅当剥掉前缀后确实以
+    # XML 开头时才剥离，避免误伤形如 "abc123: 你好" 的正常引用文本。
+    stripped = re.sub(r"^[A-Za-z0-9_.\-@]{4,}:\s*", "", text, count=1)
+    if stripped.startswith("<?xml") or stripped.startswith("<msg"):
+        text = stripped
+    elif not (text.startswith("<?xml") or text.startswith("<msg")):
+        return raw
+    for tag in ("title", "des", "content"):
+        value = extract_tag_from_xml(text, tag)
+        value = (value or "").strip()
+        if value and not value.startswith("<"):
+            return value
+    for token, label in (("<img", "[图片]"), ("<video", "[视频]"), ("<emoji", "[表情]")):
+        if token in text:
+            return label
+    return "[多媒体消息]"
+
+
+def build_content(local_type: int, raw_content, raw_source) -> str:
+    """将 raw_content / raw_source 根据 local_type 构建成可读字符串"""
+    if local_type == 1:
+        if isinstance(raw_content, bytes):
+            text = maybe_zstd_decompress(raw_content).decode("utf-8", errors="ignore")
+        else:
+            text = str(raw_content or "")
+        # 群聊消息会把发送者编码成 `<sender_id>: ` 前缀（实测与 sender_username 一致、
+        # 私聊从不出现），属冗余标记，清理后正文更可读。除 wxid_ 外，公众号/服务号
+        # 会话还会出现 gh_ 与 <数字>@openim 形式，一并清理。
+        return re.sub(
+            r"^(?:wxid_[A-Za-z0-9_-]{4,}|gh_[A-Za-z0-9_-]{4,}|[0-9]{6,}@openim):\s*", "", text
+        )
+
+    # 系统消息（撤回 / 入群提示等）：正文多为可读文本，部分 type 为 sysmsg XML
+    if local_type in (10000, 10002):
+        raw = maybe_zstd_decompress(raw_content or raw_source)
+        text = raw.decode("utf-8", errors="ignore") if isinstance(raw, bytes) else str(raw or "")
+        text = text.strip()
+        if "<sysmsg" in text:
+            for tag in ("content", "text", "replacemsg", "plain"):
+                value = extract_tag_from_xml(text, tag)
+                if value:
+                    return value
+        return text or "[系统]"
+
+    label = TYPE_LABELS.get(local_type)
+    if label:
+        return f"[{label}]"
+
+    # appmsg 处理
+    decompressed = maybe_zstd_decompress(raw_content or raw_source)
+    xml_text = decompressed.decode("utf-8", errors="ignore") if decompressed else ""
+    app_type = (local_type >> 32) if local_type > 0xFFFFFFFF else 0
+    sub_label = APPMSG_LABELS.get(app_type, "消息")
+
+    if xml_text:
+        # 引用消息：<title> 是本次回复内容，<refermsg> 里才是被引用原文与作者
+        if app_type == 57:
+            reply = extract_tag_from_xml(xml_text, "title")
+            quoted = _summarize_quoted(extract_tag_from_xml(xml_text, "content"))
+            who = extract_tag_from_xml(xml_text, "displayname")
+            if quoted:
+                head = f"[引用 {who}: {quoted}]" if who else f"[引用: {quoted}]"
+                return f"{head} {reply}" if reply else head
+            if reply:
+                return f"[引用] {reply}"
+
+        title = extract_tag_from_xml(xml_text, "title")
+        if title:
+            return f"[{sub_label}] {title}"
+        if "<appmsg" in xml_text:
+            return f"[{sub_label}]"
+
+    return f"[{sub_label}]" if app_type else "[多媒体消息]"

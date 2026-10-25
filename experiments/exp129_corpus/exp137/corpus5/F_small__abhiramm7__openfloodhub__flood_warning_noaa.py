@@ -1,1 +1,277 @@
-IiIiTk9BQSAvIE5XUyBkYXRhIG92ZXJsYXlzIGZvciB0aGUgQ05OIGZvcmVjYXN0LgoKVGhlc2Ugc2VyaWVzIGFyZSAqY29tcGFyaXNvbiBvdmVybGF5cyog4oCUIHRoZXkgcmlkZSBhbG9uZ3NpZGUgdGhlIENOTidzIG93bgpmb3JlY2FzdCBpbiB0aGUgcHJlZGljdGlvbiBvdXRwdXQsIHRoZXkgYXJlIG5vdCBmZWQgYmFjayBpbnRvIHRoZSBtb2RlbC4KClNvdXJjZXMsIGFsbCB1bmF1dGhlbnRpY2F0ZWQgSlNPTjoKCiAgTldQUyAgaHR0cHM6Ly9hcGkud2F0ZXIubm9hYS5nb3Yvbndwcy92MS9kb2NzLwogICAgL2dhdWdlcy97dXNnc0lkfSAgICAgICAgICAgICAgICAgZ2F1Z2UgbWV0YWRhdGEsIG9mZmljaWFsIGZsb29kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJlc2hvbGRzLCBjdXJyZW50IG9icyArIE5XUyBmb3JlY2FzdAogICAgL3JlYWNoZXMve3JlYWNoSWR9L3N0cmVhbWZsb3cgICAgTk9BQSBOYXRpb25hbCBXYXRlciBNb2RlbCBzdHJlYW1mbG93OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXNpc0Fzc2ltaWxhdGlvbiAgYmVzdC1lc3RpbWF0ZSAib2JzZXJ2ZWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNob3J0UmFuZ2UgICAgICAgICAgICBuZXh0IH4xOGggaG91cmx5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lZGl1bVJhbmdlQmxlbmQgICAgICBuZXh0IH4xMGQgaG91cmx5CgogIE5XUyAgIGh0dHBzOi8vYXBpLndlYXRoZXIuZ292LwogICAgL3BvaW50cy97bGF0fSx7bG9ufSAtPiAvZ3JpZHBvaW50cy8uLi4gICBxdWFudGl0YXRpdmVQcmVjaXBpdGF0aW9uIChRUEYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JlY2FzdCByYWluZmFsbCBpbiBtbQoKICBJRU0gICBodHRwczovL21lc29uZXQuYWdyb24uaWFzdGF0ZS5lZHUvCiAgICAvaWVtcmUvbXVsdGlkYXkvLi4uICAgICAgICAgICAgICBNUk1TIHJhZGFyIFFQRSwgb2JzZXJ2ZWQgZGFpbHkgcmFpbmZhbGwKCkZsb3cgaXMgY29udmVydGVkIGZ0wrMvcyAtPiBtwrMvcyBhbmQgcHJlY2lwIGluY2hlcyAtPiBtbSBzbyBldmVyeXRoaW5nIGxpbmVzCnVwIHdpdGggdGhlIENOTidzIHVuaXRzIG9uIHRoZSBjaGFydC4KIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCByZQppbXBvcnQgdGltZQppbXBvcnQgdXJsbGliLmVycm9yCmltcG9ydCB1cmxsaWIucmVxdWVzdAoKaW1wb3J0IHBhbmRhcyBhcyBwZAoKTldQUyA9ICdodHRwczovL2FwaS53YXRlci5ub2FhLmdvdi9ud3BzL3YxJwpOV1MgPSAnaHR0cHM6Ly9hcGkud2VhdGhlci5nb3YnCklFTSA9ICdodHRwczovL21lc29uZXQuYWdyb24uaWFzdGF0ZS5lZHUnCiMgTldTIGFza3MgZm9yIGEgZGVzY3JpcHRpdmUgVXNlci1BZ2VudCB3aXRoIGNvbnRhY3QgaW5mby4KVUEgPSAnb3BlbmZsb29kaHViIChodHRwczovL2dpdGh1Yi5jb20vYWJoaXJhbW03L29wZW5mbG9vZGh1YiknCkNGU19UT19NM1MgPSAwLjAyODMxNjgKSU5fVE9fTU0gPSAyNS40CgoKZGVmIF9nZXQodXJsOiBzdHIsIHRpbWVvdXQ6IGludCA9IDMwLCByZXRyaWVzOiBpbnQgPSAzKSAtPiBkaWN0IHwgTm9uZToKICAgICMgTldQUyByZWd1bGFybHkgZHJvcHMgb3IgdGltZXMgb3V0IGEgc2luZ2xlIHJlcXVlc3QgKHNhbWUgZmxha2luZXNzIGFzCiAgICAjIFVTR1MvT3Blbi1NZXRlbyBpbiBmZXRjaC5weSkg4oCUIHJldHJ5IGJlZm9yZSBnaXZpbmcgdGhlIG92ZXJsYXkgdXAuCiAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KHVybCwgaGVhZGVycz17J1VzZXItQWdlbnQnOiBVQSwgJ0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJ30pCiAgICBmb3IgYXR0ZW1wdCBpbiByYW5nZShyZXRyaWVzKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9dGltZW91dCkgYXMgcjoKICAgICAgICAgICAgICAgIHJldHVybiBqc29uLmxvYWRzKHIucmVhZCgpLmRlY29kZSgpKQogICAgICAgIGV4Y2VwdCAodXJsbGliLmVycm9yLlVSTEVycm9yLCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yLCBUaW1lb3V0RXJyb3IsIFZhbHVlRXJyb3IpIGFzIGU6CiAgICAgICAgICAgICMgNDA0IG1lYW5zIHRoZSByZXNvdXJjZSBkb2Vzbid0IGV4aXN0IGZvciB0aGlzIGdhdWdlIOKAlCBubyByZXRyeS4KICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShlLCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yKSBhbmQgZS5jb2RlID09IDQwNDoKICAgICAgICAgICAgICAgIHByaW50KGYnICAgISBOT0FBIHt1cmxbLTcwOl19OiB7ZX0nKQogICAgICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICAgICAgaWYgYXR0ZW1wdCA9PSByZXRyaWVzIC0gMToKICAgICAgICAgICAgICAgIHByaW50KGYnICAgISBOT0FBIHt1cmxbLTcwOl19OiB7ZX0nKQogICAgICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICAgICAgdGltZS5zbGVlcCgyICogKGF0dGVtcHQgKyAxKSkKCgpkZWYgZmV0Y2hfZ2F1Z2UodXNnc19pZDogc3RyKSAtPiBkaWN0IHwgTm9uZToKICAgICIiIk9uZSBnYXVnZSByZWNvcmQuIFB1bGxzIGxpZCwgcmVhY2ggaWQsIG9mZmljaWFsIGZsb29kIHRocmVzaG9sZHMsIGFuZAogICAgdGhlIGN1cnJlbnQgb2JzZXJ2ZWQgKyBOV1MtZm9yZWNhc3Qgc3RhZ2UuIiIiCiAgICBnID0gX2dldChmJ3tOV1BTfS9nYXVnZXMve3VzZ3NfaWR9JykKICAgIGlmIG5vdCBnIG9yIG5vdCBnLmdldCgnbGlkJyk6CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBjYXRzID0gZy5nZXQoJ2Zsb29kJywge30pLmdldCgnY2F0ZWdvcmllcycsIHt9KSBvciB7fQogICAgZGVmIF9zdGFnZShuYW1lKToKICAgICAgICBjID0gY2F0cy5nZXQobmFtZSwge30pCiAgICAgICAgdiA9IGMuZ2V0KCdzdGFnZScpCiAgICAgICAgcmV0dXJuIGZsb2F0KHYpIGlmIGlzaW5zdGFuY2UodiwgKGludCwgZmxvYXQpKSBhbmQgdiA+IC05MDAwIGVsc2UgTm9uZQogICAgZGVmIF9mbG93KG5hbWUpOgogICAgICAgIGMgPSBjYXRzLmdldChuYW1lLCB7fSkKICAgICAgICB2ID0gYy5nZXQoJ2Zsb3cnKQogICAgICAgIHJldHVybiBmbG9hdCh2KSBpZiBpc2luc3RhbmNlKHYsIChpbnQsIGZsb2F0KSkgYW5kIHYgPiAtOTAwMCBlbHNlIE5vbmUKCiAgICBvYnMgPSBnLmdldCgnc3RhdHVzJywge30pLmdldCgnb2JzZXJ2ZWQnLCB7fSkgb3Ige30KICAgIGZjID0gZy5nZXQoJ3N0YXR1cycsIHt9KS5nZXQoJ2ZvcmVjYXN0Jywge30pIG9yIHt9CgogICAgcmV0dXJuIHsKICAgICAgICAnbGlkJzogZ1snbGlkJ10sCiAgICAgICAgJ3JlYWNoX2lkJzogZy5nZXQoJ3JlYWNoSWQnKSwKICAgICAgICAncmZjJzogZy5nZXQoJ3JmYycsIHt9KS5nZXQoJ2FiYnJldmlhdGlvbicpLAogICAgICAgICd3Zm8nOiBnLmdldCgnd2ZvJywge30pLmdldCgnYWJicmV2aWF0aW9uJyksCiAgICAgICAgJ25hbWVfbndzJzogZy5nZXQoJ25hbWUnKSwKICAgICAgICAndGhyZXNob2xkc19zdGFnZV9mdCc6IHsKICAgICAgICAgICAgJ2FjdGlvbic6ICAgX3N0YWdlKCdhY3Rpb24nKSwKICAgICAgICAgICAgJ21pbm9yJzogICAgX3N0YWdlKCdtaW5vcicpLAogICAgICAgICAgICAnbW9kZXJhdGUnOiBfc3RhZ2UoJ21vZGVyYXRlJyksCiAgICAgICAgICAgICdtYWpvcic6ICAgIF9zdGFnZSgnbWFqb3InKSwKICAgICAgICB9LAogICAgICAgICd0aHJlc2hvbGRzX2Zsb3dfY2ZzJzogewogICAgICAgICAgICAnYWN0aW9uJzogICBfZmxvdygnYWN0aW9uJyksCiAgICAgICAgICAgICdtaW5vcic6ICAgIF9mbG93KCdtaW5vcicpLAogICAgICAgICAgICAnbW9kZXJhdGUnOiBfZmxvdygnbW9kZXJhdGUnKSwKICAgICAgICAgICAgJ21ham9yJzogICAgX2Zsb3coJ21ham9yJyksCiAgICAgICAgfSwKICAgICAgICAnY3VycmVudCc6IHsKICAgICAgICAgICAgJ3N0YWdlX2Z0Jzogb2JzLmdldCgncHJpbWFyeScpIGlmIG9icy5nZXQoJ3ByaW1hcnlVbml0JykgPT0gJ2Z0JyBlbHNlIE5vbmUsCiAgICAgICAgICAgICdmbG93X2Nmcyc6IChvYnMuZ2V0KCdzZWNvbmRhcnknKSAqIDEwMDAgaWYgb2JzLmdldCgnc2Vjb25kYXJ5VW5pdCcpID09ICdrY2ZzJwogICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2Ugb2JzLmdldCgnc2Vjb25kYXJ5JykgaWYgb2JzLmdldCgnc2Vjb25kYXJ5VW5pdCcpID09ICdjZnMnCiAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBOb25lKSwKICAgICAgICAgICAgJ2NhdGVnb3J5Jzogb2JzLmdldCgnZmxvb2RDYXRlZ29yeScpLAogICAgICAgICAgICAndmFsaWRfdGltZSc6IG9icy5nZXQoJ3ZhbGlkVGltZScpLAogICAgICAgIH0sCiAgICAgICAgJ253c19mb3JlY2FzdCc6IHsKICAgICAgICAgICAgJ3N0YWdlX2Z0JzogZmMuZ2V0KCdwcmltYXJ5JykgaWYgZmMuZ2V0KCdwcmltYXJ5VW5pdCcpID09ICdmdCcgZWxzZSBOb25lLAogICAgICAgICAgICAnZmxvd19jZnMnOiAoZmMuZ2V0KCdzZWNvbmRhcnknKSAqIDEwMDAgaWYgZmMuZ2V0KCdzZWNvbmRhcnlVbml0JykgPT0gJ2tjZnMnCiAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBmYy5nZXQoJ3NlY29uZGFyeScpIGlmIGZjLmdldCgnc2Vjb25kYXJ5VW5pdCcpID09ICdjZnMnCiAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBOb25lKSwKICAgICAgICAgICAgJ2NhdGVnb3J5JzogZmMuZ2V0KCdmbG9vZENhdGVnb3J5JyksCiAgICAgICAgICAgICd2YWxpZF90aW1lJzogZmMuZ2V0KCd2YWxpZFRpbWUnKSwKICAgICAgICB9LAogICAgfQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBOT0FBIE5hdGlvbmFsIFdhdGVyIE1vZGVsIHN0cmVhbWZsb3cgKGFuYWx5c2lzICsgc2hvcnQgKyBtZWRpdW0gcmFuZ2UpCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCmRlZiBfdG9fbTNzKGZsb3csIHVuaXRzOiBzdHIgfCBOb25lKSAtPiBmbG9hdDoKICAgICIiIk5XTSBzdHJlYW1mbG93IGlzIHB1Ymxpc2hlZCBpbiBmdMKzL3M7IGNvbnZlcnQgdG8gbcKzL3MuIElmIHRoZSBBUEkgZXZlcgogICAgcmVwb3J0cyBtZXRyaWMgdW5pdHMgd2UgbGVhdmUgdGhlIHZhbHVlIGFsb25lLiIiIgogICAgZiA9IGZsb2F0KGZsb3cpCiAgICBpZiB1bml0cyBhbmQgKCdmdCcgaW4gdW5pdHMgb3IgJ2NmcycgaW4gdW5pdHMubG93ZXIoKSk6CiAgICAgICAgcmV0dXJuIHJvdW5kKGYgKiBDRlNfVE9fTTNTLCAzKQogICAgcmV0dXJuIHJvdW5kKGYsIDMpCgoKZGVmIF9leHRyYWN0X3NlcmllcyhwYXlsb2FkOiBkaWN0LCBrZXk6IHN0cikgLT4gbGlzdFtkaWN0XToKICAgICIiIlB1bGwgb25lIE5XTSBzZXJpZXMgb3V0IG9mIGEgL3N0cmVhbWZsb3cgcmVzcG9uc2UuIFJldHVybnMKICAgIFt7dCwgZmxvd19tM3N9LCAuLi5dIHNvcnRlZCBieSB0aW1lLCBvciBbXSBpZiBhYnNlbnQvZW1wdHkuIiIiCiAgICBibG9jayA9IHBheWxvYWQuZ2V0KGtleSkgb3Ige30KICAgIHNlcmllcyA9IGJsb2NrLmdldCgnc2VyaWVzJykgb3Ige30KICAgIHVuaXRzID0gc2VyaWVzLmdldCgndW5pdHMnKQogICAgb3V0ID0gW10KICAgIGZvciByb3cgaW4gc2VyaWVzLmdldCgnZGF0YScsIFtdKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIG91dC5hcHBlbmQoeyd0Jzogcm93Wyd2YWxpZFRpbWUnXSwgJ2Zsb3dfbTNzJzogX3RvX20zcyhyb3dbJ2Zsb3cnXSwgdW5pdHMpfSkKICAgICAgICBleGNlcHQgKEtleUVycm9yLCBWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICBjb250aW51ZQogICAgb3V0LnNvcnQoa2V5PWxhbWJkYSByOiByWyd0J10pCiAgICByZXR1cm4gb3V0CgoKZGVmIGZldGNoX253bV9zdHJlYW1mbG93KHJlYWNoX2lkOiBzdHIpIC0+IGRpY3Q6CiAgICAiIiJPbmUgcmVxdWVzdCB0byB0aGUgTldQUyByZWFjaCBlbmRwb2ludCByZXR1cm5zIGV2ZXJ5IE5XTSBzZXJpZXMgYXQgb25jZS4KICAgIFJldHVybnMge3Nob3J0LCBtZWRpdW0sIGFuYWx5c2lzfSBhcyBsaXN0cyBvZiB7dCwgZmxvd19tM3N9IGluIG3Csy9zLgoKICAgICAgc2hvcnQgICAgbmV4dCB+MThoIGhvdXJseSAgICAgIChzaG9ydF9yYW5nZSkKICAgICAgbWVkaXVtICAgbmV4dCB+MTBkIGhvdXJseSAgICAgIChtZWRpdW1SYW5nZUJsZW5kLCBkZXRlcm1pbmlzdGljIGJsZW5kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9mIHRoZSBtZWRpdW0tcmFuZ2UgZW5zZW1ibGUpCiAgICAgIGFuYWx5c2lzIHJlY2VudCBiZXN0LWVzdGltYXRlICAoYW5hbHlzaXNBc3NpbWlsYXRpb24pIOKAlCBOV00ncyAib2JzZXJ2ZWQiCiAgICAiIiIKICAgIGVtcHR5ID0geydzaG9ydCc6IFtdLCAnbWVkaXVtJzogW10sICdhbmFseXNpcyc6IFtdfQogICAgaWYgbm90IHJlYWNoX2lkOgogICAgICAgIHJldHVybiBlbXB0eQogICAgZCA9IF9nZXQoZid7TldQU30vcmVhY2hlcy97cmVhY2hfaWR9L3N0cmVhbWZsb3cnKQogICAgaWYgbm90IGQ6CiAgICAgICAgcmV0dXJuIGVtcHR5CiAgICBtZWRpdW0gPSBfZXh0cmFjdF9zZXJpZXMoZCwgJ21lZGl1bVJhbmdlQmxlbmQnKSBvciBfZXh0cmFjdF9zZXJpZXMoZCwgJ21lZGl1bVJhbmdlJykKICAgIHJldHVybiB7CiAgICAgICAgJ3Nob3J0JzogX2V4dHJhY3Rfc2VyaWVzKGQsICdzaG9ydFJhbmdlJyksCiAgICAgICAgJ21lZGl1bSc6IG1lZGl1bSwKICAgICAgICAnYW5hbHlzaXMnOiBfZXh0cmFjdF9zZXJpZXMoZCwgJ2FuYWx5c2lzQXNzaW1pbGF0aW9uJyksCiAgICB9CgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIE5XUyBxdWFudGl0YXRpdmUgcHJlY2lwaXRhdGlvbiBmb3JlY2FzdCAoUVBGKSDigJQgZm9yZWNhc3QgcmFpbmZhbGwsIG1tCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCl9EVVIgPSByZS5jb21waWxlKHInUCg/OihcZCspRCk/KD86VCg/OihcZCspSCk/KD86KFxkKylNKT8pPycpCgoKZGVmIF9pbnRlcnZhbF9ob3Vycyhpc29faW50ZXJ2YWw6IHN0cikgLT4gdHVwbGVbc3RyLCBpbnRdOgogICAgIiIiU3BsaXQgYW4gSVNPODYwMSAnPHN0YXJ0Pi88ZHVyYXRpb24+JyBpbnRvIChzdGFydF9pc28sIG5faG91cnMpLgogICAgTldTIFFQRiBwZXJpb2RzIGFyZSBtdWx0aXBsZXMgb2YgYW4gaG91ciwgZS5nLiAnUFQ2SCcgLT4gNi4iIiIKICAgIHN0YXJ0LCBfLCBkdXIgPSBpc29faW50ZXJ2YWwucGFydGl0aW9uKCcvJykKICAgIG0gPSBfRFVSLmZ1bGxtYXRjaChkdXIpIGlmIGR1ciBlbHNlIE5vbmUKICAgIGlmIG5vdCBtOgogICAgICAgIHJldHVybiBzdGFydCwgMQogICAgZGF5cywgaG91cnMsIG1pbnMgPSAoaW50KGcpIGlmIGcgZWxzZSAwIGZvciBnIGluIG0uZ3JvdXBzKCkpCiAgICByZXR1cm4gc3RhcnQsIG1heCgxLCBkYXlzICogMjQgKyBob3VycyArIHJvdW5kKG1pbnMgLyA2MCkpCgoKZGVmIGZldGNoX253c19xcGYobGF0OiBmbG9hdCwgbG9uOiBmbG9hdCkgLT4gbGlzdFtkaWN0XToKICAgICIiIk5XUyBncmlkcG9pbnQgcXVhbnRpdGF0aXZlIHByZWNpcGl0YXRpb24gZm9yZWNhc3QgYXQgYSBwb2ludC4gRWFjaCBOV1MKICAgIHBlcmlvZCByZXBvcnRzIHRvdGFsIG1tIG92ZXIgYSBtdWx0aS1ob3VyIHdpbmRvdzsgd2Ugc3ByZWFkIGl0IGV2ZW5seSB0bwogICAgaG91cmx5IHNvIGl0IG92ZXJsYXlzIHRoZSBjaGFydCdzIGhvdXJseSBwcmVjaXAgYmFycy4gUmV0dXJucwogICAgW3t0LCBwcmVjaXBfbW19LCAuLi5dIGhvdXJseSBpbiBtbS4iIiIKICAgIHB0ID0gX2dldChmJ3tOV1N9L3BvaW50cy97bGF0Oi40Zn0se2xvbjouNGZ9JykKICAgIGdyaWRfdXJsID0gKHB0IG9yIHt9KS5nZXQoJ3Byb3BlcnRpZXMnLCB7fSkuZ2V0KCdmb3JlY2FzdEdyaWREYXRhJykKICAgIGlmIG5vdCBncmlkX3VybDoKICAgICAgICByZXR1cm4gW10KICAgIGdyaWQgPSBfZ2V0KGdyaWRfdXJsKQogICAgcXBmID0gKGdyaWQgb3Ige30pLmdldCgncHJvcGVydGllcycsIHt9KS5nZXQoJ3F1YW50aXRhdGl2ZVByZWNpcGl0YXRpb24nLCB7fSkKICAgIG91dCA9IFtdCiAgICBmb3IgdiBpbiBxcGYuZ2V0KCd2YWx1ZXMnLCBbXSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB0b3RhbCA9IGZsb2F0KHZbJ3ZhbHVlJ10pCiAgICAgICAgZXhjZXB0IChLZXlFcnJvciwgVmFsdWVFcnJvciwgVHlwZUVycm9yKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzdGFydCwgbiA9IF9pbnRlcnZhbF9ob3Vycyh2LmdldCgndmFsaWRUaW1lJywgJycpKQogICAgICAgIGlmIG5vdCBzdGFydDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICB0MCA9IHBkLlRpbWVzdGFtcChzdGFydCkKICAgICAgICBwZXJfaG91ciA9IHJvdW5kKHRvdGFsIC8gbiwgMykKICAgICAgICBmb3IgaCBpbiByYW5nZShuKToKICAgICAgICAgICAgdCA9ICh0MCArIHBkLlRpbWVkZWx0YShob3Vycz1oKSkuc3RyZnRpbWUoJyVZLSVtLSVkVCVIOiVNOiVTWicpCiAgICAgICAgICAgIG91dC5hcHBlbmQoeyd0JzogdCwgJ3ByZWNpcF9tbSc6IHBlcl9ob3VyfSkKICAgIHJldHVybiBvdXQKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgTVJNUyBvYnNlcnZlZCBwcmVjaXBpdGF0aW9uIChyYWRhciBRUEUpIHZpYSBJRU0gSUVNUkUg4oCUIGRhaWx5LCBtbQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpkZWYgZmV0Y2hfbXJtc19wcmVjaXAobGF0OiBmbG9hdCwgbG9uOiBmbG9hdCwKICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0X2RhdGU6IHN0ciwgZW5kX2RhdGU6IHN0cikgLT4gbGlzdFtkaWN0XToKICAgICIiIk9ic2VydmVkIE1STVMgcmFkYXIgcHJlY2lwaXRhdGlvbiAoUVBFKSBhdCBhIHBvaW50LCBkYWlseSB0b3RhbHMgaW4gbW0sCiAgICBmcm9tIHRoZSBJRU0gSUVNUkUgcG9pbnQgc2VydmljZS4gRGF0ZXMgYXJlICdZWVlZLU1NLUREJy4gUmV0dXJucwogICAgW3tkYXRlLCBwcmVjaXBfbW19LCAuLi5dLiIiIgogICAgZCA9IF9nZXQoZid7SUVNfS9pZW1yZS9tdWx0aWRheS97c3RhcnRfZGF0ZX0ve2VuZF9kYXRlfS97bGF0Oi40Zn0ve2xvbjouNGZ9L2pzb24nKQogICAgaWYgbm90IGQ6CiAgICAgICAgcmV0dXJuIFtdCiAgICBvdXQgPSBbXQogICAgZm9yIHJvdyBpbiBkLmdldCgnZGF0YScsIFtdKToKICAgICAgICBtcm1zX2luID0gcm93LmdldCgnbXJtc19wcmVjaXBfaW4nKQogICAgICAgIGlmIG1ybXNfaW4gaXMgTm9uZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICB0cnk6CiAgICAgICAgICAgIG91dC5hcHBlbmQoeydkYXRlJzogcm93WydkYXRlJ10sICdwcmVjaXBfbW0nOiByb3VuZChmbG9hdChtcm1zX2luKSAqIElOX1RPX01NLCAyKX0pCiAgICAgICAgZXhjZXB0IChLZXlFcnJvciwgVmFsdWVFcnJvciwgVHlwZUVycm9yKToKICAgICAgICAgICAgY29udGludWUKICAgIHJldHVybiBvdXQKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpkZWYgZW5yaWNoX3NpdGUodXNnc19pZDogc3RyLCBsYXQ6IGZsb2F0IHwgTm9uZSA9IE5vbmUsIGxvbjogZmxvYXQgfCBOb25lID0gTm9uZSwKICAgICAgICAgICAgICAgIG1ybXNfc3RhcnQ6IHN0ciB8IE5vbmUgPSBOb25lLCBtcm1zX2VuZDogc3RyIHwgTm9uZSA9IE5vbmUpIC0+IGRpY3Q6CiAgICAiIiJHYXRoZXIgZXZlcnkgTk9BQS9OV1Mgb3ZlcmxheSBmb3Igb25lIGdhdWdlIGluIG9uZSBzaG90LiBSZXR1cm5zIGEgZGljdAogICAgd2l0aCB3aGF0ZXZlciBjb3VsZCBiZSBmZXRjaGVkIChhbnkgZmllbGQgbWF5IGJlIGVtcHR5L05vbmUpOgoKICAgICAgZ2F1Z2UgICAgICAgICAgTldTIG9mZmljaWFsIHRocmVzaG9sZHMgKyBvYnNlcnZlZC9mb3JlY2FzdCBzdGFnZQogICAgICBud21fc2hvcnQgICAgICBOV00gc2hvcnQtcmFuZ2Ugc3RyZWFtZmxvdyAobcKzL3MpCiAgICAgIG53bV9tZWRpdW0gICAgIE5XTSBtZWRpdW0tcmFuZ2UgYmxlbmQgc3RyZWFtZmxvdyAobcKzL3MpCiAgICAgIG53bV9hbmFseXNpcyAgIE5XTSBhbmFseXNpcy1hc3NpbWlsYXRpb24gIm9ic2VydmVkIiBzdHJlYW1mbG93IChtwrMvcykKICAgICAgcXBmICAgICAgICAgICAgTldTIGZvcmVjYXN0IHJhaW5mYWxsLCBob3VybHkgbW0KICAgICAgbXJtc19wcmVjaXAgICAgTVJNUyBvYnNlcnZlZCByYWluZmFsbCwgZGFpbHkgbW0gKG5lZWRzIGxhdC9sb24gKyBkYXRlcykKICAgICIiIgogICAgZ2F1Z2UgPSBmZXRjaF9nYXVnZSh1c2dzX2lkKQogICAgcmVhY2hfaWQgPSBnYXVnZS5nZXQoJ3JlYWNoX2lkJykgaWYgZ2F1Z2UgZWxzZSBOb25lCiAgICBpZiBsYXQgaXMgTm9uZSBhbmQgZ2F1Z2UgaXMgbm90IE5vbmU6CiAgICAgICAgbGF0ID0gZ2F1Z2UuZ2V0KCdsYXRpdHVkZScpCiAgICBpZiBsb24gaXMgTm9uZSBhbmQgZ2F1Z2UgaXMgbm90IE5vbmU6CiAgICAgICAgbG9uID0gZ2F1Z2UuZ2V0KCdsb25naXR1ZGUnKQoKICAgIG53bSA9IGZldGNoX253bV9zdHJlYW1mbG93KHJlYWNoX2lkKQogICAgb3V0ID0gewogICAgICAgICdnYXVnZSc6IGdhdWdlLAogICAgICAgICdud21fc2hvcnQnOiBud21bJ3Nob3J0J10sCiAgICAgICAgJ253bV9tZWRpdW0nOiBud21bJ21lZGl1bSddLAogICAgICAgICdud21fYW5hbHlzaXMnOiBud21bJ2FuYWx5c2lzJ10sCiAgICAgICAgJ3FwZic6IFtdLAogICAgICAgICdtcm1zX3ByZWNpcCc6IFtdLAogICAgfQogICAgaWYgbGF0IGlzIG5vdCBOb25lIGFuZCBsb24gaXMgbm90IE5vbmU6CiAgICAgICAgb3V0WydxcGYnXSA9IGZldGNoX253c19xcGYobGF0LCBsb24pCiAgICAgICAgaWYgbXJtc19zdGFydCBhbmQgbXJtc19lbmQ6CiAgICAgICAgICAgIG91dFsnbXJtc19wcmVjaXAnXSA9IGZldGNoX21ybXNfcHJlY2lwKGxhdCwgbG9uLCBtcm1zX3N0YXJ0LCBtcm1zX2VuZCkKICAgIHJldHVybiBvdXQK
+"""NOAA / NWS data overlays for the CNN forecast.
+
+These series are *comparison overlays* — they ride alongside the CNN's own
+forecast in the prediction output, they are not fed back into the model.
+
+Sources, all unauthenticated JSON:
+
+  NWPS  https://api.water.noaa.gov/nwps/v1/docs/
+    /gauges/{usgsId}                 gauge metadata, official flood
+                                     thresholds, current obs + NWS forecast
+    /reaches/{reachId}/streamflow    NOAA National Water Model streamflow:
+                                       analysisAssimilation  best-estimate "observed"
+                                       shortRange            next ~18h hourly
+                                       mediumRangeBlend      next ~10d hourly
+
+  NWS   https://api.weather.gov/
+    /points/{lat},{lon} -> /gridpoints/...   quantitativePrecipitation (QPF),
+                                             forecast rainfall in mm
+
+  IEM   https://mesonet.agron.iastate.edu/
+    /iemre/multiday/...              MRMS radar QPE, observed daily rainfall
+
+Flow is converted ft³/s -> m³/s and precip inches -> mm so everything lines
+up with the CNN's units on the chart.
+"""
+from __future__ import annotations
+
+import json
+import re
+import time
+import urllib.error
+import urllib.request
+
+import pandas as pd
+
+NWPS = 'https://api.water.noaa.gov/nwps/v1'
+NWS = 'https://api.weather.gov'
+IEM = 'https://mesonet.agron.iastate.edu'
+# NWS asks for a descriptive User-Agent with contact info.
+UA = 'openfloodhub (https://github.com/abhiramm7/openfloodhub)'
+CFS_TO_M3S = 0.0283168
+IN_TO_MM = 25.4
+
+
+def _get(url: str, timeout: int = 30, retries: int = 3) -> dict | None:
+    # NWPS regularly drops or times out a single request (same flakiness as
+    # USGS/Open-Meteo in fetch.py) — retry before giving the overlay up.
+    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept': 'application/json'})
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return json.loads(r.read().decode())
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, ValueError) as e:
+            # 404 means the resource doesn't exist for this gauge — no retry.
+            if isinstance(e, urllib.error.HTTPError) and e.code == 404:
+                print(f'   ! NOAA {url[-70:]}: {e}')
+                return None
+            if attempt == retries - 1:
+                print(f'   ! NOAA {url[-70:]}: {e}')
+                return None
+            time.sleep(2 * (attempt + 1))
+
+
+def fetch_gauge(usgs_id: str) -> dict | None:
+    """One gauge record. Pulls lid, reach id, official flood thresholds, and
+    the current observed + NWS-forecast stage."""
+    g = _get(f'{NWPS}/gauges/{usgs_id}')
+    if not g or not g.get('lid'):
+        return None
+
+    cats = g.get('flood', {}).get('categories', {}) or {}
+    def _stage(name):
+        c = cats.get(name, {})
+        v = c.get('stage')
+        return float(v) if isinstance(v, (int, float)) and v > -9000 else None
+    def _flow(name):
+        c = cats.get(name, {})
+        v = c.get('flow')
+        return float(v) if isinstance(v, (int, float)) and v > -9000 else None
+
+    obs = g.get('status', {}).get('observed', {}) or {}
+    fc = g.get('status', {}).get('forecast', {}) or {}
+
+    return {
+        'lid': g['lid'],
+        'reach_id': g.get('reachId'),
+        'rfc': g.get('rfc', {}).get('abbreviation'),
+        'wfo': g.get('wfo', {}).get('abbreviation'),
+        'name_nws': g.get('name'),
+        'thresholds_stage_ft': {
+            'action':   _stage('action'),
+            'minor':    _stage('minor'),
+            'moderate': _stage('moderate'),
+            'major':    _stage('major'),
+        },
+        'thresholds_flow_cfs': {
+            'action':   _flow('action'),
+            'minor':    _flow('minor'),
+            'moderate': _flow('moderate'),
+            'major':    _flow('major'),
+        },
+        'current': {
+            'stage_ft': obs.get('primary') if obs.get('primaryUnit') == 'ft' else None,
+            'flow_cfs': (obs.get('secondary') * 1000 if obs.get('secondaryUnit') == 'kcfs'
+                          else obs.get('secondary') if obs.get('secondaryUnit') == 'cfs'
+                          else None),
+            'category': obs.get('floodCategory'),
+            'valid_time': obs.get('validTime'),
+        },
+        'nws_forecast': {
+            'stage_ft': fc.get('primary') if fc.get('primaryUnit') == 'ft' else None,
+            'flow_cfs': (fc.get('secondary') * 1000 if fc.get('secondaryUnit') == 'kcfs'
+                          else fc.get('secondary') if fc.get('secondaryUnit') == 'cfs'
+                          else None),
+            'category': fc.get('floodCategory'),
+            'valid_time': fc.get('validTime'),
+        },
+    }
+
+
+# --------------------------------------------------------------------------
+# NOAA National Water Model streamflow (analysis + short + medium range)
+# --------------------------------------------------------------------------
+
+def _to_m3s(flow, units: str | None) -> float:
+    """NWM streamflow is published in ft³/s; convert to m³/s. If the API ever
+    reports metric units we leave the value alone."""
+    f = float(flow)
+    if units and ('ft' in units or 'cfs' in units.lower()):
+        return round(f * CFS_TO_M3S, 3)
+    return round(f, 3)
+
+
+def _extract_series(payload: dict, key: str) -> list[dict]:
+    """Pull one NWM series out of a /streamflow response. Returns
+    [{t, flow_m3s}, ...] sorted by time, or [] if absent/empty."""
+    block = payload.get(key) or {}
+    series = block.get('series') or {}
+    units = series.get('units')
+    out = []
+    for row in series.get('data', []):
+        try:
+            out.append({'t': row['validTime'], 'flow_m3s': _to_m3s(row['flow'], units)})
+        except (KeyError, ValueError, TypeError):
+            continue
+    out.sort(key=lambda r: r['t'])
+    return out
+
+
+def fetch_nwm_streamflow(reach_id: str) -> dict:
+    """One request to the NWPS reach endpoint returns every NWM series at once.
+    Returns {short, medium, analysis} as lists of {t, flow_m3s} in m³/s.
+
+      short    next ~18h hourly      (short_range)
+      medium   next ~10d hourly      (mediumRangeBlend, deterministic blend
+                                       of the medium-range ensemble)
+      analysis recent best-estimate  (analysisAssimilation) — NWM's "observed"
+    """
+    empty = {'short': [], 'medium': [], 'analysis': []}
+    if not reach_id:
+        return empty
+    d = _get(f'{NWPS}/reaches/{reach_id}/streamflow')
+    if not d:
+        return empty
+    medium = _extract_series(d, 'mediumRangeBlend') or _extract_series(d, 'mediumRange')
+    return {
+        'short': _extract_series(d, 'shortRange'),
+        'medium': medium,
+        'analysis': _extract_series(d, 'analysisAssimilation'),
+    }
+
+
+# --------------------------------------------------------------------------
+# NWS quantitative precipitation forecast (QPF) — forecast rainfall, mm
+# --------------------------------------------------------------------------
+
+_DUR = re.compile(r'P(?:(\d+)D)?(?:T(?:(\d+)H)?(?:(\d+)M)?)?')
+
+
+def _interval_hours(iso_interval: str) -> tuple[str, int]:
+    """Split an ISO8601 '<start>/<duration>' into (start_iso, n_hours).
+    NWS QPF periods are multiples of an hour, e.g. 'PT6H' -> 6."""
+    start, _, dur = iso_interval.partition('/')
+    m = _DUR.fullmatch(dur) if dur else None
+    if not m:
+        return start, 1
+    days, hours, mins = (int(g) if g else 0 for g in m.groups())
+    return start, max(1, days * 24 + hours + round(mins / 60))
+
+
+def fetch_nws_qpf(lat: float, lon: float) -> list[dict]:
+    """NWS gridpoint quantitative precipitation forecast at a point. Each NWS
+    period reports total mm over a multi-hour window; we spread it evenly to
+    hourly so it overlays the chart's hourly precip bars. Returns
+    [{t, precip_mm}, ...] hourly in mm."""
+    pt = _get(f'{NWS}/points/{lat:.4f},{lon:.4f}')
+    grid_url = (pt or {}).get('properties', {}).get('forecastGridData')
+    if not grid_url:
+        return []
+    grid = _get(grid_url)
+    qpf = (grid or {}).get('properties', {}).get('quantitativePrecipitation', {})
+    out = []
+    for v in qpf.get('values', []):
+        try:
+            total = float(v['value'])
+        except (KeyError, ValueError, TypeError):
+            continue
+        start, n = _interval_hours(v.get('validTime', ''))
+        if not start:
+            continue
+        t0 = pd.Timestamp(start)
+        per_hour = round(total / n, 3)
+        for h in range(n):
+            t = (t0 + pd.Timedelta(hours=h)).strftime('%Y-%m-%dT%H:%M:%SZ')
+            out.append({'t': t, 'precip_mm': per_hour})
+    return out
+
+
+# --------------------------------------------------------------------------
+# MRMS observed precipitation (radar QPE) via IEM IEMRE — daily, mm
+# --------------------------------------------------------------------------
+
+def fetch_mrms_precip(lat: float, lon: float,
+                      start_date: str, end_date: str) -> list[dict]:
+    """Observed MRMS radar precipitation (QPE) at a point, daily totals in mm,
+    from the IEM IEMRE point service. Dates are 'YYYY-MM-DD'. Returns
+    [{date, precip_mm}, ...]."""
+    d = _get(f'{IEM}/iemre/multiday/{start_date}/{end_date}/{lat:.4f}/{lon:.4f}/json')
+    if not d:
+        return []
+    out = []
+    for row in d.get('data', []):
+        mrms_in = row.get('mrms_precip_in')
+        if mrms_in is None:
+            continue
+        try:
+            out.append({'date': row['date'], 'precip_mm': round(float(mrms_in) * IN_TO_MM, 2)})
+        except (KeyError, ValueError, TypeError):
+            continue
+    return out
+
+
+# --------------------------------------------------------------------------
+
+def enrich_site(usgs_id: str, lat: float | None = None, lon: float | None = None,
+                mrms_start: str | None = None, mrms_end: str | None = None) -> dict:
+    """Gather every NOAA/NWS overlay for one gauge in one shot. Returns a dict
+    with whatever could be fetched (any field may be empty/None):
+
+      gauge          NWS official thresholds + observed/forecast stage
+      nwm_short      NWM short-range streamflow (m³/s)
+      nwm_medium     NWM medium-range blend streamflow (m³/s)
+      nwm_analysis   NWM analysis-assimilation "observed" streamflow (m³/s)
+      qpf            NWS forecast rainfall, hourly mm
+      mrms_precip    MRMS observed rainfall, daily mm (needs lat/lon + dates)
+    """
+    gauge = fetch_gauge(usgs_id)
+    reach_id = gauge.get('reach_id') if gauge else None
+    if lat is None and gauge is not None:
+        lat = gauge.get('latitude')
+    if lon is None and gauge is not None:
+        lon = gauge.get('longitude')
+
+    nwm = fetch_nwm_streamflow(reach_id)
+    out = {
+        'gauge': gauge,
+        'nwm_short': nwm['short'],
+        'nwm_medium': nwm['medium'],
+        'nwm_analysis': nwm['analysis'],
+        'qpf': [],
+        'mrms_precip': [],
+    }
+    if lat is not None and lon is not None:
+        out['qpf'] = fetch_nws_qpf(lat, lon)
+        if mrms_start and mrms_end:
+            out['mrms_precip'] = fetch_mrms_precip(lat, lon, mrms_start, mrms_end)
+    return out

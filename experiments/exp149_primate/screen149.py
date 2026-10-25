@@ -1,1 +1,49 @@
-aW1wb3J0IG9zLCBoYXNobGliLCBzdWJwcm9jZXNzCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKVyxIPTEwMjQsNzY4ClRPS0VOPSdLN00yUVgnCmltZz1JbWFnZS5uZXcoJ1JHQkEnLChXLEgpLCgyNTUsMjU1LDI1NSwyNTUpKQpkPUltYWdlRHJhdy5EcmF3KGltZykKZnA9Jy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMnCmZfYmlnPUltYWdlRm9udC50cnVldHlwZShmcCwzNCk7IGZfbWlkPUltYWdlRm9udC50cnVldHlwZShmcCwyNik7IGZfc21sPUltYWdlRm9udC50cnVldHlwZShmcCwyMikKbGluZXM9WwogKCcxNDkg54G16ZW/57G75qC8IMK3IOecn+WPjOi/m+eoi+ijheacuuiHquajgCcsZl9iaWcpLAogKCcnLGZfc21sKSwKICgnVE9LRU4gJXMnJVRPS0VOLGZfYmlnKSwKICgnJyxmX3NtbCksCiAoJ1MxIHNlbGYvb3RoZXIg5b2S5ZugICBmdWxsPTEuMDAwMCBkaXNjYXJkPTAuNjE2NCBzd2FwcGVkPTAuMTQ1MCcsZl9taWQpLAogKCcgICBzd2FwcGVkIOS7heWcqCB0ZWxsKOaciVVEUCkg5LiL5Y+N5ZCROyBiYXNlKOaXoOmAmuS/oSkgMC40NzY5IOS4jeWPjeWQkScsZl9zbWwpLAogKCcnLGZfc21sKSwKICgn5a+56b2Q5bqmKOWFseS6q+aXtumXtOe7k+aehCkgIGJhc2U9MC40OTMgICB0ZWxsPTEuMDAwJyxmX21pZCksCiAoJycsZl9zbWwpLAogKCdTMiDor7vlv4MgICBiYXNlPTAuNDUyMihGQUlMLOS9juS6juW4uOaVsOWfuue6vzAuNTM1MCknLGZfbWlkKSwKICgnICAgICAgICAgIHRlbGw9MC44Nzk1KFBBU1MsKzAuMjIzMikgIHJhbmRvbUI9MC4zODcwKOmYtOaAp+WvueeFpyknLGZfc21sKSwKICgnJyxmX3NtbCksCiAoJ1MzIOS8oOmAkueGtSAgIOaWueWQkeW3riBiYXNlPSswLjAxMzQgdGVsbD0tMC4wMTA2IHJhbmRvbUI9KzAuMDAyMScsZl9zbWwpLAogKCcgICAgICAgICAgICDmlYjlupTph4/mnoHlsI8oPDAuMDJiaXQpLCDkuI3kvZzkuLvopoHkuLvlvKAnLGZfc21sKSwKICgnJyxmX3NtbCksCiAoJ1M0IOWQiOS9nOaViOeOhyBjb29wPTAuOTczMyAgc29sbz0wLjgwNjcgICA1LzUgcmVwIOWFqOatoycsZl9taWQpLAogKCcgICDph43lpI3nm67lvZUgY29vcD0xLjYgIHNvbG89MTEuNiAgKOmihOeulzYwKScsZl9zbWwpLAogKCcnLGZfc21sKSwKICgn546v5aKD5a6e5rWLOiBvcGVuKCk9MjEuNDNtcyAgcHJlYWQzPTcuNjZtcyAgVURQ5Lii5YyFPTAuMDAwMCAgcmFjZT01LjMlJyxmX3NtbCksCiAoJycsZl9zbWwpLAogKCfnu5Porro6IOWFseS6q+aXtumXtOe7k+aehOeUsemAmuS/oeW7uueriywg5pivIHNlbGYvb3RoZXIg5LiO6K+75b+D55qE5YmN5o+QJyxmX21pZCksCiAoJ1ZFUkRJQ1Q6IOeBtemVv+exu+agvOacuuWItuaIkOeriywg5L2G5L6d6LWW5ZCM5q2l6ICM6Z2e5L6d6LWW566X5rOVJyxmX2JpZyksCl0KeT0xOApmb3IgdCxmIGluIGxpbmVzOgogICAgZC50ZXh0KCgyNCx5KSx0LGZvbnQ9ZixmaWxsPSgwLDAsMCwyNTUpKTsgeSs9IGYuc2l6ZSsxMAppbWcuc2F2ZSgncmVuZGVyMTQ5LnBuZycpCnJhdz1pbWcudG9ieXRlcygpCmFzc2VydCBsZW4ocmF3KT09VypIKjQsIGxlbihyYXcpCmZiPW9zLm9wZW4oJy9kZXYvZmIwJyxvcy5PX1JEV1IpCm9zLnB3cml0ZShmYixyYXcsMCkKY2FwPW9zLnByZWFkKGZiLFcqSCo0LDApICAgICAgICAgICMg56uL5Y2z5Zue6YeHKDE0NzogMC4yc+WQjuWFieagh+imhuebluW3puS4ijE2eDgpCm9zLmNsb3NlKGZiKQpwcmludCgnYnl0ZXMgd3JpdHRlbj0lZCAgY2FwdHVyZWQ9JWQnJShsZW4ocmF3KSxsZW4oY2FwKSkpCnByaW50KCdJREVOVElDQUw6JywgcmF3PT1jYXApCnByaW50KCdzaGEgcmVuZGVyPScsaGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTJdKQpwcmludCgnc2hhIGNhcHR1cmU9JyxoYXNobGliLnNoYTI1NihjYXApLmhleGRpZ2VzdCgpWzoxMl0pCiMg55yfIFBORyDkv53lrZgoMTQ1OiDlrZjljp/lp4vlrZfoioLkvJrlr7zoh7RQSUwvdGVzc2VyYWN05omT5LiN5byAKQpJbWFnZS5mcm9tYnl0ZXMoJ1JHQkEnLChXLEgpLGNhcCkuY29udmVydCgnUkdCJykuc2F2ZSgnY2FwdHVyZWQucG5nJykKcHJpbnQoJ2NhcHR1cmVkLnBuZyBzYXZlZCcpCg==
+import os, hashlib, subprocess
+from PIL import Image, ImageDraw, ImageFont
+W,H=1024,768
+TOKEN='K7M2QX'
+img=Image.new('RGBA',(W,H),(255,255,255,255))
+d=ImageDraw.Draw(img)
+fp='/usr/share/fonts/truetype/wqy/wqy-microhei.ttc'
+f_big=ImageFont.truetype(fp,34); f_mid=ImageFont.truetype(fp,26); f_sml=ImageFont.truetype(fp,22)
+lines=[
+ ('149 灵长类格 · 真双进程装机自检',f_big),
+ ('',f_sml),
+ ('TOKEN %s'%TOKEN,f_big),
+ ('',f_sml),
+ ('S1 self/other 归因  full=1.0000 discard=0.6164 swapped=0.1450',f_mid),
+ ('   swapped 仅在 tell(有UDP) 下反向; base(无通信) 0.4769 不反向',f_sml),
+ ('',f_sml),
+ ('对齐度(共享时间结构)  base=0.493   tell=1.000',f_mid),
+ ('',f_sml),
+ ('S2 读心   base=0.4522(FAIL,低于常数基线0.5350)',f_mid),
+ ('          tell=0.8795(PASS,+0.2232)  randomB=0.3870(阴性对照)',f_sml),
+ ('',f_sml),
+ ('S3 传递熵   方向差 base=+0.0134 tell=-0.0106 randomB=+0.0021',f_sml),
+ ('            效应量极小(<0.02bit), 不作主要主张',f_sml),
+ ('',f_sml),
+ ('S4 合作效率 coop=0.9733  solo=0.8067   5/5 rep 全正',f_mid),
+ ('   重复目录 coop=1.6  solo=11.6  (预算60)',f_sml),
+ ('',f_sml),
+ ('环境实测: open()=21.43ms  pread3=7.66ms  UDP丢包=0.0000  race=5.3%',f_sml),
+ ('',f_sml),
+ ('结论: 共享时间结构由通信建立, 是 self/other 与读心的前提',f_mid),
+ ('VERDICT: 灵长类格机制成立, 但依赖同步而非依赖算法',f_big),
+]
+y=18
+for t,f in lines:
+    d.text((24,y),t,font=f,fill=(0,0,0,255)); y+= f.size+10
+img.save('render149.png')
+raw=img.tobytes()
+assert len(raw)==W*H*4, len(raw)
+fb=os.open('/dev/fb0',os.O_RDWR)
+os.pwrite(fb,raw,0)
+cap=os.pread(fb,W*H*4,0)          # 立即回采(147: 0.2s后光标覆盖左上16x8)
+os.close(fb)
+print('bytes written=%d  captured=%d'%(len(raw),len(cap)))
+print('IDENTICAL:', raw==cap)
+print('sha render=',hashlib.sha256(raw).hexdigest()[:12])
+print('sha capture=',hashlib.sha256(cap).hexdigest()[:12])
+# 真 PNG 保存(145: 存原始字节会导致PIL/tesseract打不开)
+Image.frombytes('RGBA',(W,H),cap).convert('RGB').save('captured.png')
+print('captured.png saved')

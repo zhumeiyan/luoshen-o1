@@ -1,1 +1,103 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTc1Yzog5o6S6ZmkIGV4cDE3NWIg5LitIuWvuem9kOeoi+W6puaJq+aPjyLnmoTml7bpl7TlsYDpg6jmgKfmt7fmt4YKMTc1YiDph4wgdHJhaW4g5Y+WIFUg55qE5YmNIHAlLCDogIwgaGVsZC1vdXQg5pivIFUg55qE5pyA5ZCOIDI1JSAtPgpwIOWinuWkp+WQjOaXtuaEj+WRs+edgCLnnIvop4Hmm7TlpJoi5ZKMIuemu+a1i+ivlembhuabtOi/kSIsIOS4pOiAhea3t+WcqOS4gOi1t+OAggoKMTc1YyDmlLnkuLo6IOaMiea2iOaBryjooYwp6ZqP5py65YiS5YiGLCDlpJrmrKHnp43lrZDlubPlnYcKICAtIOmaj+acuiAyNSUg6KGM5L2cIGhlbGQtb3V0CiAgLSDku47liankvZnooYzkuK3pmo/mnLrlj5YgcCUg5L2cIHRyYWluCiAgLSAyMCDmrKHnp43lrZDlubPlnYcgLT4g5o6S6Zmk5pe26Ze06L+c6L+RCiIiIgppbXBvcnQganNvbiwgbWF0aCwgb3MsIHJhbmRvbQoKQkFTRT1vcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKS0VFUD1zZXQoJ++8jOOAgu+8n++8geOAge+8mu+8myIiJyfvvIjvvInigJTigKbCtycpCmRlZiBjbGVhbihzKToKICAgIG91dD1bXQogICAgZm9yIGNoIGluIHM6CiAgICAgICAgaWYgY2guaXNzcGFjZSgpOiBjb250aW51ZQogICAgICAgIGlmICdcdTRlMDAnPD1jaDw9J1x1OWZmZicgb3IgY2guaXNhbG51bSgpIG9yIGNoIGluIEtFRVA6IG91dC5hcHBlbmQoY2gpCiAgICByZXR1cm4gJycuam9pbihvdXQpCgpsaW5lcz1bY2xlYW4obCkgZm9yIGwgaW4gb3Blbihvcy5wYXRoLmpvaW4oQkFTRSwndV9zaWRlLnR4dCcpLGVuY29kaW5nPSd1dGYtOCcpIGlmIGNsZWFuKGwpXQpwcmludCgn5raI5oGv5p2h5pWwPSVkICDmgLvlrZfnrKY9JWQnJShsZW4obGluZXMpLHN1bShtYXAobGVuLGxpbmVzKSkpKQoKZGVmIGJ1aWxkKHRleHQsayk6CiAgICBkPXt9CiAgICBmb3IgaSBpbiByYW5nZShsZW4odGV4dCktayk6CiAgICAgICAgYz10ZXh0W2k6aStrXTsgbj10ZXh0W2kra10KICAgICAgICBkLnNldGRlZmF1bHQoYyx7fSkuc2V0ZGVmYXVsdChuLDApOyBkW2NdW25dKz0xCiAgICByZXR1cm4gZApkZWYgdW5pZ3JhbSh0ZXh0KToKICAgIGQ9e30KICAgIGZvciBjaCBpbiB0ZXh0OiBkW2NoXT1kLmdldChjaCwwKSsxCiAgICByZXR1cm4gZApkZWYgZXZhbF9hY2MobW9kZWxzLHVnLHRlc3QsayxsYW09MC41KToKICAgIGNvcnJlY3Q9MDt0b3RhbD0wCiAgICBmb3IgaSBpbiByYW5nZShsZW4odGVzdCktayk6CiAgICAgICAgY3R4PXRlc3RbaTppK2tdOyBueHQ9dGVzdFtpK2tdCiAgICAgICAgcHJvYnM9e307IHc9MS4wCiAgICAgICAgZm9yIGtrIGluIHJhbmdlKGssMCwtMSk6CiAgICAgICAgICAgIHN1Yj1jdHhbLWtrOl07IG09bW9kZWxzW2trLTFdCiAgICAgICAgICAgIGlmIHN1YiBpbiBtOgogICAgICAgICAgICAgICAgYz1tW3N1Yl07IHRvdD1zdW0oYy52YWx1ZXMoKSk7IFY9bGVuKHVnKQogICAgICAgICAgICAgICAgZm9yIGNoLG4gaW4gYy5pdGVtcygpOiBwcm9ic1tjaF09cHJvYnMuZ2V0KGNoLDAuMCkrdypsYW0qbi90b3QKICAgICAgICAgICAgICAgIGZvciBjaCBpbiB1ZzogcHJvYnNbY2hdPXByb2JzLmdldChjaCwwLjApK3cqbGFtKjAuMDEvKHRvdCswLjAxKlYpCiAgICAgICAgICAgIHcqPSgxLWxhbSkKICAgICAgICB0b3Q9c3VtKHVnLnZhbHVlcygpKQogICAgICAgIGZvciBjaCxuIGluIHVnLml0ZW1zKCk6IHByb2JzW2NoXT1wcm9icy5nZXQoY2gsMC4wKSt3Km4vdG90CiAgICAgICAgaWYgbm90IHByb2JzOiBjb250aW51ZQogICAgICAgIHRvdGFsKz0xCiAgICAgICAgaWYgbWF4KHByb2JzLml0ZW1zKCksa2V5PWxhbWJkYSB4OnhbMV0pWzBdPT1ueHQ6IGNvcnJlY3QrPTEKICAgIHJldHVybiAoY29ycmVjdC90b3RhbCBpZiB0b3RhbCBlbHNlIDAuMCksIHRvdGFsCgpkZWYgbWFpbigpOgogICAga21heD02CiAgICBzZWVkcz1saXN0KHJhbmdlKDIwKSkKICAgIHBzPVs1LDEwLDIwLDMwLDUwLDc1LDEwMF0KICAgIHJlcz17cDp7azpbXSBmb3IgayBpbiByYW5nZSgxLGttYXgrMSl9IGZvciBwIGluIHBzfQoKICAgIGZvciBzZCBpbiBzZWVkczoKICAgICAgICBybmQ9cmFuZG9tLlJhbmRvbShzZCkKICAgICAgICBpZHg9bGlzdChyYW5nZShsZW4obGluZXMpKSk7IHJuZC5zaHVmZmxlKGlkeCkKICAgICAgICBudGU9bWF4KDEsaW50KGxlbihpZHgpKjAuMjUpKQogICAgICAgIHRlX2lkeD1pZHhbOm50ZV07IHJlc3Q9aWR4W250ZTpdCiAgICAgICAgdGU9Jycuam9pbihsaW5lc1tpXSBmb3IgaSBpbiB0ZV9pZHgpCiAgICAgICAgZm9yIHAgaW4gcHM6CiAgICAgICAgICAgIG50cj1tYXgoMSxpbnQobGVuKHJlc3QpKnAvMTAwKSkKICAgICAgICAgICAgdHJfaWR4PXJuZC5zYW1wbGUocmVzdCxudHIpCiAgICAgICAgICAgIHRyPScnLmpvaW4obGluZXNbaV0gZm9yIGkgaW4gdHJfaWR4KQogICAgICAgICAgICBpZiBsZW4odHIpPDIwMCBvciBsZW4odGUpPDUwOiBjb250aW51ZQogICAgICAgICAgICBtb2RlbHM9W2J1aWxkKHRyLGspIGZvciBrIGluIHJhbmdlKDEsa21heCsxKV0KICAgICAgICAgICAgdWc9dW5pZ3JhbSh0cikKICAgICAgICAgICAgZm9yIGsgaW4gcmFuZ2UoMSxrbWF4KzEpOgogICAgICAgICAgICAgICAgYSxfPWV2YWxfYWNjKG1vZGVscyx1Zyx0ZSxrKQogICAgICAgICAgICAgICAgcmVzW3BdW2tdLmFwcGVuZChhKQoKICAgIG91dD17J3NlZWRzJzpsZW4oc2VlZHMpLCdwcyc6cHMsJ2ttYXgnOmttYXgsJ3Jlcyc6e319CiAgICBwcmludCgpCiAgICBwcmludCgn6ZqP5py65YiS5YiGKDIw56eN5a2Q5bmz5Z2HKSBhY2M6JykKICAgIHByaW50KCclLTZzJyUncCUnLCAnJy5qb2luKCclOXMnJSgnaz0lZCclaykgZm9yIGsgaW4gcmFuZ2UoMSxrbWF4KzEpKSkKICAgIGZvciBwIGluIHBzOgogICAgICAgIHJvdz0nJS02ZCclcAogICAgICAgIG1lYW5zPXt9CiAgICAgICAgZm9yIGsgaW4gcmFuZ2UoMSxrbWF4KzEpOgogICAgICAgICAgICB2PXJlc1twXVtrXTsgbT1zdW0odikvbGVuKHYpIGlmIHYgZWxzZSAwLjAKICAgICAgICAgICAgbWVhbnNba109bTsgcm93Kz0nJTkuNGYnJW0KICAgICAgICBvdXRbJ3JlcyddW3BdPXsnbWVhbic6bWVhbnMsJ24nOmxlbihyZXNbcF1bMV0pfQogICAgICAgIHByaW50KHJvdykKCiAgICBwcmludCgpCiAgICBwcmludCgnaz0yIOi+uemZhSAo6ZqP5py65YiS5YiGKTonKQogICAgcHJldj1Ob25lCiAgICBmb3IgcCBpbiBwczoKICAgICAgICBtPW91dFsncmVzJ11bcF1bJ21lYW4nXVsyXQogICAgICAgIGQ9JycgaWYgcHJldiBpcyBOb25lIGVsc2UgJyDovrnpmYUgJSsuNGYnJShtLXByZXYpCiAgICAgICAgcHJpbnQoJyAgcD0lM2QlJSAgYWNjPSUuNGYlcyclKHAsbSxkKSk7IHByZXY9bQoKICAgIGpzb24uZHVtcChvdXQsb3Blbihvcy5wYXRoLmpvaW4oQkFTRSwncmVzdWx0MTc1Yy5qc29uJyksJ3cnLGVuY29kaW5nPSd1dGYtOCcpLAogICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkKCmlmIF9fbmFtZV9fPT0nX19tYWluX18nOiBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp175c: 排除 exp175b 中"对齐程度扫描"的时间局部性混淆
+175b 里 train 取 U 的前 p%, 而 held-out 是 U 的最后 25% ->
+p 增大同时意味着"看见更多"和"离测试集更近", 两者混在一起。
+
+175c 改为: 按消息(行)随机划分, 多次种子平均
+  - 随机 25% 行作 held-out
+  - 从剩余行中随机取 p% 作 train
+  - 20 次种子平均 -> 排除时间远近
+"""
+import json, math, os, random
+
+BASE=os.path.dirname(os.path.abspath(__file__))
+KEEP=set('，。？！、：；""''（）—…·')
+def clean(s):
+    out=[]
+    for ch in s:
+        if ch.isspace(): continue
+        if '\u4e00'<=ch<='\u9fff' or ch.isalnum() or ch in KEEP: out.append(ch)
+    return ''.join(out)
+
+lines=[clean(l) for l in open(os.path.join(BASE,'u_side.txt'),encoding='utf-8') if clean(l)]
+print('消息条数=%d  总字符=%d'%(len(lines),sum(map(len,lines))))
+
+def build(text,k):
+    d={}
+    for i in range(len(text)-k):
+        c=text[i:i+k]; n=text[i+k]
+        d.setdefault(c,{}).setdefault(n,0); d[c][n]+=1
+    return d
+def unigram(text):
+    d={}
+    for ch in text: d[ch]=d.get(ch,0)+1
+    return d
+def eval_acc(models,ug,test,k,lam=0.5):
+    correct=0;total=0
+    for i in range(len(test)-k):
+        ctx=test[i:i+k]; nxt=test[i+k]
+        probs={}; w=1.0
+        for kk in range(k,0,-1):
+            sub=ctx[-kk:]; m=models[kk-1]
+            if sub in m:
+                c=m[sub]; tot=sum(c.values()); V=len(ug)
+                for ch,n in c.items(): probs[ch]=probs.get(ch,0.0)+w*lam*n/tot
+                for ch in ug: probs[ch]=probs.get(ch,0.0)+w*lam*0.01/(tot+0.01*V)
+            w*=(1-lam)
+        tot=sum(ug.values())
+        for ch,n in ug.items(): probs[ch]=probs.get(ch,0.0)+w*n/tot
+        if not probs: continue
+        total+=1
+        if max(probs.items(),key=lambda x:x[1])[0]==nxt: correct+=1
+    return (correct/total if total else 0.0), total
+
+def main():
+    kmax=6
+    seeds=list(range(20))
+    ps=[5,10,20,30,50,75,100]
+    res={p:{k:[] for k in range(1,kmax+1)} for p in ps}
+
+    for sd in seeds:
+        rnd=random.Random(sd)
+        idx=list(range(len(lines))); rnd.shuffle(idx)
+        nte=max(1,int(len(idx)*0.25))
+        te_idx=idx[:nte]; rest=idx[nte:]
+        te=''.join(lines[i] for i in te_idx)
+        for p in ps:
+            ntr=max(1,int(len(rest)*p/100))
+            tr_idx=rnd.sample(rest,ntr)
+            tr=''.join(lines[i] for i in tr_idx)
+            if len(tr)<200 or len(te)<50: continue
+            models=[build(tr,k) for k in range(1,kmax+1)]
+            ug=unigram(tr)
+            for k in range(1,kmax+1):
+                a,_=eval_acc(models,ug,te,k)
+                res[p][k].append(a)
+
+    out={'seeds':len(seeds),'ps':ps,'kmax':kmax,'res':{}}
+    print()
+    print('随机划分(20种子平均) acc:')
+    print('%-6s'%'p%', ''.join('%9s'%('k=%d'%k) for k in range(1,kmax+1)))
+    for p in ps:
+        row='%-6d'%p
+        means={}
+        for k in range(1,kmax+1):
+            v=res[p][k]; m=sum(v)/len(v) if v else 0.0
+            means[k]=m; row+='%9.4f'%m
+        out['res'][p]={'mean':means,'n':len(res[p][1])}
+        print(row)
+
+    print()
+    print('k=2 边际 (随机划分):')
+    prev=None
+    for p in ps:
+        m=out['res'][p]['mean'][2]
+        d='' if prev is None else ' 边际 %+.4f'%(m-prev)
+        print('  p=%3d%%  acc=%.4f%s'%(p,m,d)); prev=m
+
+    json.dump(out,open(os.path.join(BASE,'result175c.json'),'w',encoding='utf-8'),
+              ensure_ascii=False,indent=1)
+
+if __name__=='__main__': main()

@@ -1,1 +1,217 @@
-IyAvLy8gc2NyaXB0CiMgZGVwZW5kZW5jaWVzID0gWwojICAgInRvbWxpOyBweXRob25fdmVyc2lvbiA8ICczLjExJyIsCiMgICAicHlhbWwiLAojIF0KIyAvLy8KCmltcG9ydCBvcwoKdHJ5OgogICAgaW1wb3J0IHRvbWxsaWIKZXhjZXB0IE1vZHVsZU5vdEZvdW5kRXJyb3I6ICAjIFB5dGhvbiA8IDMuMTEKICAgIGltcG9ydCB0b21saSBhcyB0b21sbGliCmltcG9ydCB5YW1sCgpNS0RPQ1NfWU1MID0gIi4vYXBpX3JlZmVyZW5jZS9ta2RvY3MueW1sIgoKIyBleGFtcGxlcyBjb25maWcKRVhBTVBMRVNfRElSID0gIi4vZXhhbXBsZXMiCkZPTERFUl9OQU1FX1RPX0xBQkVMID0gewogICAgIi4vZXhhbXBsZXMvYWdlbnQiOiAiQWdlbnRzIiwKICAgICIuL2V4YW1wbGVzL2Nvb2tib29rcyI6ICJDb29rYm9va3MiLAogICAgIi4vZXhhbXBsZXMvY2hhdF9lbmdpbmUiOiAiQ2hhdCBFbmdpbmVzIiwKICAgICIuL2V4YW1wbGVzL2N1c3RvbWl6YXRpb24iOiAiQ3VzdG9taXphdGlvbiIsCiAgICAiLi9leGFtcGxlcy9kYXRhX2Nvbm5lY3RvcnMiOiAiRGF0YSBDb25uZWN0b3JzIiwKICAgICIuL2V4YW1wbGVzL2Rpc2NvdmVyX2xsYW1haW5kZXgiOiAiRGlzY292ZXIgTGxhbWFJbmRleCIsCiAgICAiLi9leGFtcGxlcy9kb2NzdG9yZSI6ICJEb2NzdG9yZXMiLAogICAgIi4vZXhhbXBsZXMvZW1iZWRkaW5ncyI6ICJFbWJlZGRpbmdzIiwKICAgICIuL2V4YW1wbGVzL2V2YWx1YXRpb24iOiAiRXZhbHVhdGlvbiIsCiAgICAiLi9leGFtcGxlcy9maW5ldHVuaW5nIjogIkZpbmV0dW5pbmciLAogICAgIi4vZXhhbXBsZXMvaW5nZXN0aW9uIjogIkluZ2VzdGlvbiIsCiAgICAiLi9leGFtcGxlcy9sbGFtYV9kYXRhc2V0IjogIkxsYW1hIERhdGFzZXRzIiwKICAgICIuL2V4YW1wbGVzL2xsYW1hX2h1YiI6ICJMbGFtYSBIdWIiLAogICAgIi4vZXhhbXBsZXMvbGxtIjogIkxMTXMiLAogICAgIi4vZXhhbXBsZXMvbG93X2xldmVsIjogIkxvdyBMZXZlbCIsCiAgICAiLi9leGFtcGxlcy9tYW5hZ2VkIjogIk1hbmFnZWQgSW5kZXhlcyIsCiAgICAiLi9leGFtcGxlcy9tZW1vcnkiOiAiTWVtb3J5IiwKICAgICIuL2V4YW1wbGVzL21ldGFkYXRhX2V4dHJhY3Rpb24iOiAiTWV0YWRhdGEgRXh0cmFjdG9ycyIsCiAgICAiLi9leGFtcGxlcy9tdWx0aV9tb2RhbCI6ICJNdWx0aS1Nb2RhbCIsCiAgICAiLi9leGFtcGxlcy9tdWx0aV90ZW5hbmN5IjogIk11bHRpLVRlbmFuY3kiLAogICAgIi4vZXhhbXBsZXMvbm9kZV9wYXJzZXJzIjogIk5vZGUgUGFyc2VycyAmIFRleHQgU3BsaXR0ZXJzIiwKICAgICIuL2V4YW1wbGVzL25vZGVfcG9zdHByb2Nlc3NvciI6ICJOb2RlIFBvc3Rwcm9jZXNzb3JzIiwKICAgICIuL2V4YW1wbGVzL29iamVjdHMiOiAiT2JqZWN0IFN0b3JlcyIsCiAgICAiLi9leGFtcGxlcy9vYnNlcnZhYmlsaXR5IjogIk9ic2VydmFiaWxpdHkiLAogICAgIi4vZXhhbXBsZXMvb3V0cHV0X3BhcnNpbmciOiAiT3V0cHV0IFBhcnNlcnMiLAogICAgIi4vZXhhbXBsZXMvcGFyYW1fb3B0aW1pemVyIjogIlBhcmFtIE9wdGltaXplciIsCiAgICAiLi9leGFtcGxlcy9waXBlbGluZSI6ICJRdWVyeSBQaXBlbGluZSIsCiAgICAiLi9leGFtcGxlcy9wcm9tcHRzIjogIlByb21wdHMiLAogICAgIi4vZXhhbXBsZXMvcXVlcnlfZW5naW5lIjogIlF1ZXJ5IEVuZ2luZXMiLAogICAgIi4vZXhhbXBsZXMvcXVlcnlfdHJhbnNmb3JtYXRpb25zIjogIlF1ZXJ5IFRyYW5zZm9ybWF0aW9ucyIsCiAgICAiLi9leGFtcGxlcy9yZXNwb25zZV9zeW50aGVzaXplcnMiOiAiUmVzcG9uc2UgU3ludGhlc2l6ZXJzIiwKICAgICIuL2V4YW1wbGVzL3JldHJpZXZlcnMiOiAiUmV0cmlldmVycyIsCiAgICAiLi9leGFtcGxlcy90b29scyI6ICJUb29scyIsCiAgICAiLi9leGFtcGxlcy90cmFuc2Zvcm1zIjogIlRyYW5zZm9ybXMiLAogICAgIi4vZXhhbXBsZXMvdXNlY2FzZXMiOiAiVXNlIENhc2VzIiwKICAgICIuL2V4YW1wbGVzL3ZlY3Rvcl9zdG9yZXMiOiAiVmVjdG9yIFN0b3JlcyIsCiAgICAiLi9leGFtcGxlcy93b3JrZmxvdyI6ICJXb3JrZmxvdyIsCn0KCiMgaW50ZWdyYXRpb24gY29uZmlnCklOVEVHUkFUSU9OX0ZPTERFUlMgPSBbCiAgICAjICIuLi9sbGFtYS1pbmRleC1uZXR3b3JrcyIsCiAgICAjICIuLi9sbGFtYS1pbmRleC1maW5ldHVuaW5nIiwKICAgICIuLi9sbGFtYS1pbmRleC1wYWNrcyIsCiAgICAiLi4vbGxhbWEtaW5kZXgtaW50ZWdyYXRpb25zIiwKICAgICMgIi4uL2xsYW1hLWluZGV4LWNsaSIsCl0KRVhDTFVERURfSU5URUdSQVRJT05fRk9MREVSUyA9IFsKICAgICJsbGFtYS1pbmRleC1pbnRlZ3JhdGlvbnMvYWdlbnQiLApdCklOVEVHUkFUSU9OX0ZPTERFUl9UT19MQUJFTCA9IHsKICAgICJmaW5ldHVuaW5nIjogIkZpbmUtdHVuaW5nIiwKICAgICJsbG1zIjogIkxMTXMiLAogICAgImFnZW50IjogIkFnZW50cyIsCiAgICAiY2FsbGJhY2tzIjogIkNhbGxiYWNrcyIsCiAgICAiY2hhdF9lbmdpbmVzIjogIkNoYXQgRW5naW5lcyIsCiAgICAiZW1iZWRkaW5ncyI6ICJFbWJlZGRpbmdzIiwKICAgICJldmFsdWF0aW9uIjogIkV2YWx1YXRpb24iLAogICAgImV4dHJhY3RvcnMiOiAiTWV0YWRhdGEgRXh0cmFjdG9ycyIsCiAgICAiZ3JhcGhfcmFnIjogIkdyYXBoIFJBRyIsCiAgICAiaW5kaWNlcyI6ICJJbmRleGVzIiwKICAgICJpbmdlc3Rpb24iOiAiSW5nZXN0aW9uIiwKICAgICJpbnN0cnVtZW50YXRpb24iOiAiSW5zdHJ1bWVudGF0aW9uIiwKICAgICJsbGFtYV9kYXRhc2V0IjogIkxsYW1hIERhdGFzZXRzIiwKICAgICJwYWNrcyI6ICJMbGFtYSBQYWNrcyIsCiAgICAibWVtb3J5IjogIk1lbW9yeSIsCiAgICAibXVsdGlfbW9kYWxfbGxtcyI6ICJNdWx0aS1Nb2RhbCBMTE1zIiwKICAgICJub2RlX3BhcnNlcnMiOiAiTm9kZSBQYXJzZXJzICYgVGV4dCBTcGxpdHRlcnMiLAogICAgIm5vZGVfcGFyc2VyIjogIk5vZGUgUGFyc2VycyAmIFRleHQgU3BsaXR0ZXJzIiwKICAgICJvYmplY3RzIjogIk9iamVjdCBTdG9yZXMiLAogICAgIm9ic2VydmFiaWxpdHkiOiAiT2JzZXJ2YWJpbGl0eSIsCiAgICAib3V0cHV0X3BhcnNlcnMiOiAiT3V0cHV0IFBhcnNlcnMiLAogICAgInBvc3Rwcm9jZXNzb3IiOiAiTm9kZSBQb3N0cHJvY2Vzc29ycyIsCiAgICAicHJvZ3JhbSI6ICJQcm9ncmFtcyIsCiAgICAicHJvbXB0cyI6ICJQcm9tcHRzIiwKICAgICJxdWVyeV9lbmdpbmUiOiAiUXVlcnkgRW5naW5lcyIsCiAgICAicXVlcnlfcGlwZWxpbmUiOiAiUXVlcnkgUGlwZWxpbmUiLAogICAgInF1ZXN0aW9uX2dlbiI6ICJRdWVzdGlvbiBHZW5lcmF0b3JzIiwKICAgICJwcm90b2NvbHMiOiAiUHJvdG9jb2xzIiwKICAgICJyZWFkZXJzIjogIlJlYWRlcnMiLAogICAgInJlc3BvbnNlX3N5bnRoZXNpemVycyI6ICJSZXNwb25zZSBTeW50aGVzaXplcnMiLAogICAgInJldHJpZXZlcnMiOiAiUmV0cmlldmVycyIsCiAgICAic2NoZW1hIjogIlNjaGVtYSIsCiAgICAic2VsZWN0b3JzIjogIlNlbGVjdG9ycyIsCiAgICAic3BhcnNlX2VtYmVkZGluZ3MiOiAiU3BhcnNlIEVtYmVkZGluZ3MiLAogICAgInN0b3JhZ2UiOiAiU3RvcmFnZSIsCiAgICAidG9vbHMiOiAiVG9vbHMiLAogICAgIndvcmtmbG93IjogIldvcmtmbG93IiwKICAgICJtZXNzYWdlX3F1ZXVlcyI6ICJNZXNzYWdlIFF1ZXVlcyIsCiAgICAidm9pY2VfYWdlbnRzIjogIlZvaWNlIEFnZW50cyIsCn0KQVBJX1JFRl9URU1QTEFURSA9ICIiIjo6OiB7aW1wb3J0X3BhdGh9CiAgICBvcHRpb25zOgogICAgICBtZW1iZXJzOgp7bWVtYmVyc30KIiIiCkFQSV9SRUZfTUVNQkVSX1RFTVBMQVRFID0gIiIiICAgICAgICAtIHttZW1iZXJ9IiIiCgoKZGVmIG1haW4oKToKICAgIHdpdGggb3BlbihNS0RPQ1NfWU1MKSBhcyBmOgogICAgICAgIG1rZG9jcyA9IHlhbWwuc2FmZV9sb2FkKGYpCgogICAgIyBmaW5kIGFsbCBweXByb2plY3QudG9tbCBmaWxlcyBpbiB0aGUgaW50ZWdyYXRpb24gZm9sZGVycwogICAgIyBlYWNoIHRvbWwgZmlsZSBoYXMgYSB0b21sWyd0b29sJ11bJ2xsYW1haHViJ11bJ2ltcG9ydF9wYXRoJ10ga2V5IHRoYXQgd2UgbmVlZAogICAgIyB0b21sWyd0b29sJ11bJ2xsYW1haHViJ11bJ2NsYXNzX2F1dGhvcnMnXSBjb250YWlucyBhIGxpc3Qgb2YgZXhwb3NlZCBjbGFzc2VzCiAgICAjIEZvciBlYWNoIGNsYXNzLCB3ZSBuZWVkIHRvIGNyZWF0ZSBhbiBBUEkgcmVmZXJlbmNlIHBhZ2UKICAgIHNlYXJjaF9wYXRocyA9IFtdCiAgICBmb3IgZm9sZGVyIGluIElOVEVHUkFUSU9OX0ZPTERFUlM6CiAgICAgICAgZm9yIHJvb3QsIGRpcnMsIGZpbGVzIGluIG9zLndhbGsoZm9sZGVyKToKICAgICAgICAgICAgaWYgIi52ZW52IiBpbiByb290OgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgZm9yIGZpbGUgaW4gZmlsZXM6CiAgICAgICAgICAgICAgICAjIGNoZWNrIGlmIHRoZSBjdXJyZW50IHJvb3QgaXMgaW4gdGhlIGV4Y2x1ZGVkIGludGVncmF0aW9uIGZvbGRlcnMKICAgICAgICAgICAgICAgIGlmIGFueSgKICAgICAgICAgICAgICAgICAgICBleGNsdWRlZF9mb2xkZXIgaW4gcm9vdAogICAgICAgICAgICAgICAgICAgIGZvciBleGNsdWRlZF9mb2xkZXIgaW4gRVhDTFVERURfSU5URUdSQVRJT05fRk9MREVSUwogICAgICAgICAgICAgICAgKToKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgICAgIGlmIGZpbGUgPT0gInB5cHJvamVjdC50b21sIjoKICAgICAgICAgICAgICAgICAgICB0b21sX3BhdGggPSBvcy5wYXRoLmpvaW4ocm9vdCwgZmlsZSkKICAgICAgICAgICAgICAgICAgICBpZiAiLnZlbnYiIGluIHRvbWxfcGF0aDoKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICAgICAgd2l0aCBvcGVuKHRvbWxfcGF0aCwgInJiIikgYXMgZjoKICAgICAgICAgICAgICAgICAgICAgICAgdG9tbF9kYXRhID0gdG9tbGxpYi5sb2FkKGYpCgogICAgICAgICAgICAgICAgICAgIGltcG9ydF9wYXRoID0gdG9tbF9kYXRhWyJ0b29sIl1bImxsYW1haHViIl1bImltcG9ydF9wYXRoIl0KICAgICAgICAgICAgICAgICAgICBjbGFzc19hdXRob3JzID0gdG9tbF9kYXRhWyJ0b29sIl1bImxsYW1haHViIl1bCiAgICAgICAgICAgICAgICAgICAgICAgICJjbGFzc19hdXRob3JzIgogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICBtZW1iZXJzID0gIlxuIi5qb2luKAogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUElfUkVGX01FTUJFUl9URU1QTEFURS5mb3JtYXQobWVtYmVyPW1lbWJlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBtZW1iZXIgaW4gY2xhc3NfYXV0aG9ycwogICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIGFwaV9yZWYgPSBBUElfUkVGX1RFTVBMQVRFLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAgICAgaW1wb3J0X3BhdGg9aW1wb3J0X3BhdGgsIG1lbWJlcnM9bWVtYmVycwogICAgICAgICAgICAgICAgICAgICkKCiAgICAgICAgICAgICAgICAgICAgZm9sZGVyX25hbWUgPSAiLyIuam9pbihpbXBvcnRfcGF0aC5zcGxpdCgiLiIpWzE6LTFdKQogICAgICAgICAgICAgICAgICAgIHNlYXJjaF9wYXRocy5hcHBlbmQob3MucGF0aC5qb2luKCIuLi8iLCByb290KSkKICAgICAgICAgICAgICAgICAgICAjIHNwZWNpYWwgY2FzZXMKICAgICAgICAgICAgICAgICAgICBpZiBmb2xkZXJfbmFtZSA9PSAidmVjdG9yX3N0b3JlcyI6CiAgICAgICAgICAgICAgICAgICAgICAgIGZvbGRlcl9uYW1lID0gInN0b3JhZ2UvdmVjdG9yX3N0b3JlIgogICAgICAgICAgICAgICAgICAgIGVsaWYgZm9sZGVyX25hbWUgPT0gImluZGljZXMvbWFuYWdlZCI6CiAgICAgICAgICAgICAgICAgICAgICAgIGZvbGRlcl9uYW1lID0gImluZGljZXMiCiAgICAgICAgICAgICAgICAgICAgZWxpZiBmb2xkZXJfbmFtZSA9PSAiZ3JhcGhfc3RvcmVzIjoKICAgICAgICAgICAgICAgICAgICAgICAgZm9sZGVyX25hbWUgPSAic3RvcmFnZS9ncmFwaF9zdG9yZXMiCgogICAgICAgICAgICAgICAgICAgIGZ1bGxfcGF0aCA9IG9zLnBhdGguam9pbigKICAgICAgICAgICAgICAgICAgICAgICAgIi4vYXBpX3JlZmVyZW5jZS9hcGlfcmVmZXJlbmNlIiwgZm9sZGVyX25hbWUKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgbW9kdWxlX25hbWUgPSBpbXBvcnRfcGF0aC5zcGxpdCgiLiIpWy0xXSArICIubWQiCiAgICAgICAgICAgICAgICAgICAgb3MubWFrZWRpcnMoZnVsbF9wYXRoLCBleGlzdF9vaz1UcnVlKQogICAgICAgICAgICAgICAgICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZnVsbF9wYXRoLCBtb2R1bGVfbmFtZSksICJ3IikgYXMgZjoKICAgICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShhcGlfcmVmKQoKICAgICMgdXBkYXRlIHNlYXJjaCBwYXRocwogICAgZm9yIGksIHBsdWdpbiBpbiBlbnVtZXJhdGUobWtkb2NzWyJwbHVnaW5zIl0pOgogICAgICAgIGlmICJta2RvY3N0cmluZ3MiIGluIHBsdWdpbjoKICAgICAgICAgICAgZm9yIHNlYXJjaF9wYXRoIGluIHNlYXJjaF9wYXRoczoKICAgICAgICAgICAgICAgIGlmICgKICAgICAgICAgICAgICAgICAgICBzZWFyY2hfcGF0aAogICAgICAgICAgICAgICAgICAgIG5vdCBpbiBta2RvY3NbInBsdWdpbnMiXVtpXVsibWtkb2NzdHJpbmdzIl1bImhhbmRsZXJzIl1bCiAgICAgICAgICAgICAgICAgICAgICAgICJweXRob24iCiAgICAgICAgICAgICAgICAgICAgXVsicGF0aHMiXQogICAgICAgICAgICAgICAgKToKICAgICAgICAgICAgICAgICAgICBta2RvY3NbInBsdWdpbnMiXVtpXVsibWtkb2NzdHJpbmdzIl1bImhhbmRsZXJzIl1bInB5dGhvbiJdWwogICAgICAgICAgICAgICAgICAgICAgICAicGF0aHMiCiAgICAgICAgICAgICAgICAgICAgXS5hcHBlbmQoc2VhcmNoX3BhdGgpCgogICAgIyB3cml0ZSB0aGUgdXBkYXRlZCBta2RvY3MueW1sCiAgICB3aXRoIG9wZW4oTUtET0NTX1lNTCwgInciKSBhcyBmOgogICAgICAgIHlhbWwuZHVtcChta2RvY3MsIGYpCgogICAgIyBjb3B5IG92ZXIgZXh0cmEgZmlsZXMKICAgIG9zLnN5c3RlbSgiY3AgLi4vQ0hBTkdFTE9HLm1kIC4vc3JjL2NvbnRlbnQvZG9jcy9mcmFtZXdvcmsvQ0hBTkdFTE9HLm1kIikKCiAgICAjIEVuc3VyZSBDSEFOR0VMT0cgaGFkIHRoZSBwcm9wZXIgYXN0cm8gaGVhZGVyCiAgICBjaGFuZ2Vsb2dfY29udGVudHMgPSAiIgogICAgd2l0aCBvcGVuKCIuL3NyYy9jb250ZW50L2RvY3MvZnJhbWV3b3JrL0NIQU5HRUxPRy5tZCIsICJyIikgYXMgZjoKICAgICAgICBjaGFuZ2Vsb2dfY29udGVudHMgPSBmLnJlYWQoKQoKICAgIGFzdHJvX2hlYWRlciA9ICItLS1cbnRpdGxlOiBDaGFuZ2VMb2dcbi0tLSIKICAgIGNoYW5nZWxvZ19jb250ZW50cyA9IGNoYW5nZWxvZ19jb250ZW50cy5yZXBsYWNlKAogICAgICAgICIjIENoYW5nZUxvZ1xuIiwgYXN0cm9faGVhZGVyCiAgICApCgogICAgd2l0aCBvcGVuKCIuL3NyYy9jb250ZW50L2RvY3MvZnJhbWV3b3JrL0NIQU5HRUxPRy5tZCIsICJ3IikgYXMgZjoKICAgICAgICBmLndyaXRlKGNoYW5nZWxvZ19jb250ZW50cykKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+# /// script
+# dependencies = [
+#   "tomli; python_version < '3.11'",
+#   "pyaml",
+# ]
+# ///
+
+import os
+
+try:
+    import tomllib
+except ModuleNotFoundError:  # Python < 3.11
+    import tomli as tomllib
+import yaml
+
+MKDOCS_YML = "./api_reference/mkdocs.yml"
+
+# examples config
+EXAMPLES_DIR = "./examples"
+FOLDER_NAME_TO_LABEL = {
+    "./examples/agent": "Agents",
+    "./examples/cookbooks": "Cookbooks",
+    "./examples/chat_engine": "Chat Engines",
+    "./examples/customization": "Customization",
+    "./examples/data_connectors": "Data Connectors",
+    "./examples/discover_llamaindex": "Discover LlamaIndex",
+    "./examples/docstore": "Docstores",
+    "./examples/embeddings": "Embeddings",
+    "./examples/evaluation": "Evaluation",
+    "./examples/finetuning": "Finetuning",
+    "./examples/ingestion": "Ingestion",
+    "./examples/llama_dataset": "Llama Datasets",
+    "./examples/llama_hub": "Llama Hub",
+    "./examples/llm": "LLMs",
+    "./examples/low_level": "Low Level",
+    "./examples/managed": "Managed Indexes",
+    "./examples/memory": "Memory",
+    "./examples/metadata_extraction": "Metadata Extractors",
+    "./examples/multi_modal": "Multi-Modal",
+    "./examples/multi_tenancy": "Multi-Tenancy",
+    "./examples/node_parsers": "Node Parsers & Text Splitters",
+    "./examples/node_postprocessor": "Node Postprocessors",
+    "./examples/objects": "Object Stores",
+    "./examples/observability": "Observability",
+    "./examples/output_parsing": "Output Parsers",
+    "./examples/param_optimizer": "Param Optimizer",
+    "./examples/pipeline": "Query Pipeline",
+    "./examples/prompts": "Prompts",
+    "./examples/query_engine": "Query Engines",
+    "./examples/query_transformations": "Query Transformations",
+    "./examples/response_synthesizers": "Response Synthesizers",
+    "./examples/retrievers": "Retrievers",
+    "./examples/tools": "Tools",
+    "./examples/transforms": "Transforms",
+    "./examples/usecases": "Use Cases",
+    "./examples/vector_stores": "Vector Stores",
+    "./examples/workflow": "Workflow",
+}
+
+# integration config
+INTEGRATION_FOLDERS = [
+    # "../llama-index-networks",
+    # "../llama-index-finetuning",
+    "../llama-index-packs",
+    "../llama-index-integrations",
+    # "../llama-index-cli",
+]
+EXCLUDED_INTEGRATION_FOLDERS = [
+    "llama-index-integrations/agent",
+]
+INTEGRATION_FOLDER_TO_LABEL = {
+    "finetuning": "Fine-tuning",
+    "llms": "LLMs",
+    "agent": "Agents",
+    "callbacks": "Callbacks",
+    "chat_engines": "Chat Engines",
+    "embeddings": "Embeddings",
+    "evaluation": "Evaluation",
+    "extractors": "Metadata Extractors",
+    "graph_rag": "Graph RAG",
+    "indices": "Indexes",
+    "ingestion": "Ingestion",
+    "instrumentation": "Instrumentation",
+    "llama_dataset": "Llama Datasets",
+    "packs": "Llama Packs",
+    "memory": "Memory",
+    "multi_modal_llms": "Multi-Modal LLMs",
+    "node_parsers": "Node Parsers & Text Splitters",
+    "node_parser": "Node Parsers & Text Splitters",
+    "objects": "Object Stores",
+    "observability": "Observability",
+    "output_parsers": "Output Parsers",
+    "postprocessor": "Node Postprocessors",
+    "program": "Programs",
+    "prompts": "Prompts",
+    "query_engine": "Query Engines",
+    "query_pipeline": "Query Pipeline",
+    "question_gen": "Question Generators",
+    "protocols": "Protocols",
+    "readers": "Readers",
+    "response_synthesizers": "Response Synthesizers",
+    "retrievers": "Retrievers",
+    "schema": "Schema",
+    "selectors": "Selectors",
+    "sparse_embeddings": "Sparse Embeddings",
+    "storage": "Storage",
+    "tools": "Tools",
+    "workflow": "Workflow",
+    "message_queues": "Message Queues",
+    "voice_agents": "Voice Agents",
+}
+API_REF_TEMPLATE = """::: {import_path}
+    options:
+      members:
+{members}
+"""
+API_REF_MEMBER_TEMPLATE = """        - {member}"""
+
+
+def main():
+    with open(MKDOCS_YML) as f:
+        mkdocs = yaml.safe_load(f)
+
+    # find all pyproject.toml files in the integration folders
+    # each toml file has a toml['tool']['llamahub']['import_path'] key that we need
+    # toml['tool']['llamahub']['class_authors'] contains a list of exposed classes
+    # For each class, we need to create an API reference page
+    search_paths = []
+    for folder in INTEGRATION_FOLDERS:
+        for root, dirs, files in os.walk(folder):
+            if ".venv" in root:
+                continue
+            for file in files:
+                # check if the current root is in the excluded integration folders
+                if any(
+                    excluded_folder in root
+                    for excluded_folder in EXCLUDED_INTEGRATION_FOLDERS
+                ):
+                    continue
+
+                if file == "pyproject.toml":
+                    toml_path = os.path.join(root, file)
+                    if ".venv" in toml_path:
+                        continue
+
+                    with open(toml_path, "rb") as f:
+                        toml_data = tomllib.load(f)
+
+                    import_path = toml_data["tool"]["llamahub"]["import_path"]
+                    class_authors = toml_data["tool"]["llamahub"][
+                        "class_authors"
+                    ]
+                    members = "\n".join(
+                        [
+                            API_REF_MEMBER_TEMPLATE.format(member=member)
+                            for member in class_authors
+                        ]
+                    )
+                    api_ref = API_REF_TEMPLATE.format(
+                        import_path=import_path, members=members
+                    )
+
+                    folder_name = "/".join(import_path.split(".")[1:-1])
+                    search_paths.append(os.path.join("../", root))
+                    # special cases
+                    if folder_name == "vector_stores":
+                        folder_name = "storage/vector_store"
+                    elif folder_name == "indices/managed":
+                        folder_name = "indices"
+                    elif folder_name == "graph_stores":
+                        folder_name = "storage/graph_stores"
+
+                    full_path = os.path.join(
+                        "./api_reference/api_reference", folder_name
+                    )
+                    module_name = import_path.split(".")[-1] + ".md"
+                    os.makedirs(full_path, exist_ok=True)
+                    with open(os.path.join(full_path, module_name), "w") as f:
+                        f.write(api_ref)
+
+    # update search paths
+    for i, plugin in enumerate(mkdocs["plugins"]):
+        if "mkdocstrings" in plugin:
+            for search_path in search_paths:
+                if (
+                    search_path
+                    not in mkdocs["plugins"][i]["mkdocstrings"]["handlers"][
+                        "python"
+                    ]["paths"]
+                ):
+                    mkdocs["plugins"][i]["mkdocstrings"]["handlers"]["python"][
+                        "paths"
+                    ].append(search_path)
+
+    # write the updated mkdocs.yml
+    with open(MKDOCS_YML, "w") as f:
+        yaml.dump(mkdocs, f)
+
+    # copy over extra files
+    os.system("cp ../CHANGELOG.md ./src/content/docs/framework/CHANGELOG.md")
+
+    # Ensure CHANGELOG had the proper astro header
+    changelog_contents = ""
+    with open("./src/content/docs/framework/CHANGELOG.md", "r") as f:
+        changelog_contents = f.read()
+
+    astro_header = "---\ntitle: ChangeLog\n---"
+    changelog_contents = changelog_contents.replace(
+        "# ChangeLog\n", astro_header
+    )
+
+    with open("./src/content/docs/framework/CHANGELOG.md", "w") as f:
+        f.write(changelog_contents)
+
+
+if __name__ == "__main__":
+    main()

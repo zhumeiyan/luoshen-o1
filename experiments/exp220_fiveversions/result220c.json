@@ -1,1 +1,48 @@
-ewogImcxIjogewogICJ2M1/pmLTpmLPmiaMo5LqM5YC8K3RyYWNlKSI6IHsKICAgIlQx5Zmq5aOwIjogMC40MDkyLAogICAiVDLnv7vpnaIiOiAwLjMyNzcsCiAgICJUM+eBsOW6piI6IDAuMzI3MywKICAgIlQ05aSW5o6oIjogMC4yNTAxLAogICAibWVhbiI6IDAuMzI4NgogIH0sCiAgInNraXBWNDogdjMr5YWs5byPKOaXoOeBsOW6pikiOiB7CiAgICJUMeWZquWjsCI6IDAuNDA2NywKICAgIlQy57+76Z2iIjogMC4zMjMsCiAgICJUM+eBsOW6piI6IDAuMzI5MSwKICAgIlQ05aSW5o6oIjogMC4zMjU4LAogICAibWVhbiI6IDAuMzQ2MQogIH0sCiAgInY0X+eBsOW6puepuumXtCjngbDluqYrdHJhY2UpIjogewogICAiVDHlmarlo7AiOiAwLjIzNDIsCiAgICJUMue/u+mdoiI6IDAuMCwKICAgIlQz54Gw5bqmIjogMC4wLAogICAiVDTlpJbmjqgiOiAwLjA4ODcsCiAgICJtZWFuIjogMC4wODA3CiAgfSwKICAidjVf5YWs5byP5Y2H57qnKOeBsOW6pit0cmFjZSvlhazlvI8pIjogewogICAiVDHlmarlo7AiOiAwLjIzNDgsCiAgICJUMue/u+mdoiI6IDAuMCwKICAgIlQz54Gw5bqmIjogMC4wLAogICAiVDTlpJbmjqgiOiAwLjAsCiAgICJtZWFuIjogMC4wNTg3CiAgfQogfSwKICJnMCI6IHsKICAidjEvdjMg5LqM5YC85Yik5o2uIEBnPTAiOiB7CiAgICJUMeWZquWjsCI6IDAuMDczNSwKICAgIlQy57+76Z2iIjogMC4wLAogICAiVDPngbDluqYiOiAwLjAsCiAgICJUNOWkluaOqCI6IDAuMjQ2OCwKICAgIm1lYW4iOiAwLjA4MDEKICB9LAogICJ2NCDngbDluqbliKTmja4gQGc9MCI6IHsKICAgIlQx5Zmq5aOwIjogMC4xNDIsCiAgICJUMue/u+mdoiI6IDAuMCwKICAgIlQz54Gw5bqmIjogMC4wLAogICAiVDTlpJbmjqgiOiAwLjI0NjQsCiAgICJtZWFuIjogMC4wOTcxCiAgfQogfQp9
+{
+ "g1": {
+  "v3_阴阳扣(二值+trace)": {
+   "T1噪声": 0.4092,
+   "T2翻面": 0.3277,
+   "T3灰度": 0.3273,
+   "T4外推": 0.2501,
+   "mean": 0.3286
+  },
+  "skipV4: v3+公式(无灰度)": {
+   "T1噪声": 0.4067,
+   "T2翻面": 0.323,
+   "T3灰度": 0.3291,
+   "T4外推": 0.3258,
+   "mean": 0.3461
+  },
+  "v4_灰度空间(灰度+trace)": {
+   "T1噪声": 0.2342,
+   "T2翻面": 0.0,
+   "T3灰度": 0.0,
+   "T4外推": 0.0887,
+   "mean": 0.0807
+  },
+  "v5_公式升级(灰度+trace+公式)": {
+   "T1噪声": 0.2348,
+   "T2翻面": 0.0,
+   "T3灰度": 0.0,
+   "T4外推": 0.0,
+   "mean": 0.0587
+  }
+ },
+ "g0": {
+  "v1/v3 二值判据 @g=0": {
+   "T1噪声": 0.0735,
+   "T2翻面": 0.0,
+   "T3灰度": 0.0,
+   "T4外推": 0.2468,
+   "mean": 0.0801
+  },
+  "v4 灰度判据 @g=0": {
+   "T1噪声": 0.142,
+   "T2翻面": 0.0,
+   "T3灰度": 0.0,
+   "T4外推": 0.2464,
+   "mean": 0.0971
+  }
+ }
+}

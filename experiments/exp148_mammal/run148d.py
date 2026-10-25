@@ -1,1 +1,86 @@
-aW1wb3J0IGpzb24sIG1hdGgsIG9zCmltcG9ydCBudW1weSBhcyBucApleGVjKG9wZW4oJ3J1bjE0OGMucHknKS5yZWFkKCkuc3BsaXQoIkQ9anNvbi5sb2FkIilbMF0pCkQ9anNvbi5sb2FkKG9wZW4oJ3JlYWxfc2VyaWVzLmpzb24nKSkKCnByaW50KCI9PT0gQS4gbWlzbWF0Y2jvvJrnlKgn5a6M5YWo5LiN5ZCM5b2i54q255qE55yf5a6e5LiW55WMJ+eahOe7j+WOhuWBmuaipiA9PT0iKQojIHNxdWFyZSDnmoTkuKrkvZPvvIznlKggc3RhYmxlIOeahOecn+Wunue7j+WOhu+8iOS4lueVjOS4jeWMuemFje+8iSB2cyDoh6rlt7HnmoQgdnMg5LiN5qKmCnRndD0nc3F1YXJlJzsgc3JjPSdzdGFibGUnCmJhc2U9W3J1bjMoRFt0Z3RdW3NdLCdub25lJyxGYWxzZSxzKSBmb3IgcyBpbiByYW5nZSg4KV0KZm9yIGMgaW4gWydyZWFsJywnY3Jvc3Nfc2hhcGUnXToKICAgIHY9W3J1bjMoRFt0Z3RdW3NdLCAoJ3JlYWwnIGlmIGM9PSdyZWFsJyBlbHNlICdyZWFsJyksIEZhbHNlLCBzLAogICAgICAgICAgICBvdGhlcj0oRFt0Z3RdWyhzKzQpJThdIGlmIGM9PSdyZWFsJyBlbHNlIERbc3JjXVtzXSkpIGZvciBzIGluIHJhbmdlKDgpXQogICAgIyBjcm9zc19zaGFwZSDpnIDopoHmioogYnVmZmVyIOaNouaIkCBzcmMg55qE57uP6aqMIOKAlOKAlCDpgJrov4cgb3RoZXIg5LygIHNyYyDluo/liJfvvIznlKggJ2Nyb3NzJyDpgLvovpEKICAgIGlmIGM9PSdjcm9zc19zaGFwZSc6CiAgICAgICAgdj1bXQogICAgICAgIGZvciBzIGluIHJhbmdlKDgpOgogICAgICAgICAgICAjIOiHquW3seeZveWkqeeFp+W4uO+8jOedoeecoOmHjeaUviBzcmMg5LiW55WMKHN0YWJsZSnnmoTnnJ/lrp7nu4/ljoYKICAgICAgICAgICAgdi5hcHBlbmQocnVuMyhEW3RndF1bc10sJ2Nyb3NzJyxGYWxzZSxzLG90aGVyPURbc3JjXVtzXSkpCiAgICBnPVtiLWEgZm9yIGIsYSBpbiB6aXAoYmFzZSx2KV0KICAgIG0sbG8saGk9Y2koZykKICAgIHByaW50KGYiICB7YzoxMnN9IGdhaW49e206Ky40Zn1be2xvOisuM2Z9LHtoaTorLjNmfV17JyonIGlmIChsbz4wIG9yIGhpPDApIGVsc2UgJyd9IikKCnByaW50KCJcbj09PSBCLiDliYLph4/miavmj4/vvJrmoqbnmoTova7mlbDvvIhzdGFibGXvvIk9PT0iKQpmb3IgciBpbiBbMCwxLDIsNCw4XToKICAgIGZvciBjIGluIFsncmVhbCcsJ3NodWYnXToKICAgICAgICB2PVtydW4zKERbJ3N0YWJsZSddW3NdLCAoJ25vbmUnIGlmIHI9PTAgZWxzZSBjKSwgRmFsc2UsIHMsIHJvdW5kcz1tYXgociwxKSkgZm9yIHMgaW4gcmFuZ2UoOCldCiAgICAgICAgYj1bcnVuMyhEWydzdGFibGUnXVtzXSwnbm9uZScsRmFsc2UscykgZm9yIHMgaW4gcmFuZ2UoOCldCiAgICAgICAgZz1beC15IGZvciB4LHkgaW4gemlwKGIsdildIGlmIHI+MCBlbHNlIFswLjBdKjgKICAgICAgICBtLGxvLGhpPWNpKGcpCiAgICAgICAgcHJpbnQoZiIgIHJvdW5kcz17cn0ge2M6NXN9IE1BRT17bnAubWVhbih2KTouNGZ9IGdhaW49e206Ky40Zn1be2xvOisuM2Z9LHtoaTorLjNmfV17JyonIGlmIChsbz4wIG9yIGhpPDApIGVsc2UgJyd9IikKCnByaW50KCJcbj09PSBDLiDnjqnvvJrml6DlpJbpg6jlpZblirHnmoToh6rlj5HmjqLntKIg4oaSIOWQjue7reecn+WunuS7u+WKoSA9PT0iKQppbXBvcnQgcmFuZG9tClJPT1Q9Jy91c3IvbGliL3B5dGhvbjMuMTAnCmRlZiBsaXN0ZGlyX3NhZmUocCk6CiAgICB0cnk6CiAgICAgICAgZT1saXN0KG9zLnNjYW5kaXIocCkpOyByZXR1cm4gW3gucGF0aCBmb3IgeCBpbiBlIGlmIHguaXNfZGlyKCldLCBzdW0oMSBmb3IgeCBpbiBlIGlmIHguaXNfZmlsZSgpKQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIFtdLCAwCmRlZiBidWlsZF90cmVlKHJvb3QsIG1heGQ9Myk6CiAgICB0cmVlPXt9CiAgICBkZWYgcmVjKHAsZCk6CiAgICAgICAgaWYgZD5tYXhkOiByZXR1cm4KICAgICAgICBkaXJzLG5mPWxpc3RkaXJfc2FmZShwKQogICAgICAgIHRyZWVbcF09ZGljdChuZmlsZT1uZiwgbmRpcj1sZW4oZGlycyksIGRlcHRoPWQpCiAgICAgICAgZm9yIHEgaW4gZGlyc1s6MTJdOiByZWMocSxkKzEpCiAgICByZWMocm9vdCwwKTsgcmV0dXJuIHRyZWUKVFJFRT1idWlsZF90cmVlKFJPT1QpCnRydXRoX3RvdGFsPXN1bSh2WyduZmlsZSddIGZvciB2IGluIFRSRUUudmFsdWVzKCkpCnRydXRoX21lYW49dHJ1dGhfdG90YWwvbWF4KGxlbihUUkVFKSwxKQpwcmludChmIiAg55yf5a6e5qCROiB7bGVuKFRSRUUpfSDnm67lvZUsIOaWh+S7tuaAu+aVsCB7dHJ1dGhfdG90YWx9LCDlnYflgLwge3RydXRoX21lYW46LjJmfSIpCgpkZWYgcGxheV9waGFzZShzZWVkLCBidWRnZXQpOgogICAgIiIi5peg5aSW6YOo5aWW5Yqx77ya5YaF6YOo6amx5YqoKOaWsOWlh+W6pinoh6rlj5HpgInmi6nnm67lvZXljrsgbGlzdGRpciIiIgogICAgcm5nPXJhbmRvbS5SYW5kb20oc2VlZCk7IG5vZGVzPWxpc3QoVFJFRS5rZXlzKCkpOyBzZWVuPXNldCgpOyBhY3RzPTAKICAgIG9icz1bXQogICAgZm9yIF8gaW4gcmFuZ2UoYnVkZ2V0KToKICAgICAgICBjYW5kPVtuIGZvciBuIGluIG5vZGVzIGlmIG4gbm90IGluIHNlZW5dCiAgICAgICAgaWYgbm90IGNhbmQ6IGJyZWFrCiAgICAgICAgIyDlhoXpg6jpqbHliqjvvJrlgY/lpb3mm7TmtYUo5piT6L6+KSvmnKrop4Hov4cKICAgICAgICBjYW5kLnNvcnQoa2V5PWxhbWJkYSBwOiBUUkVFW3BdWydkZXB0aCddK3JuZy5yYW5kb20oKSoyKQogICAgICAgIHA9Y2FuZFswXTsgc2Vlbi5hZGQocCk7IGFjdHMrPTEKICAgICAgICBvYnMuYXBwZW5kKFRSRUVbcF1bJ25maWxlJ10pCiAgICByZXR1cm4gYWN0cywgb2JzCgpkZWYgZXN0aW1hdGUob2JzLCBidWRnZXRfZXh0cmEpOgogICAgIiIi5Lu75Yqh6Zi25q6177ya5YWB6K645YaN6YeH5qC3IGJ1ZGdldF9leHRyYSDmrKHvvIzkvLDorqHlhajmoJHlubPlnYfmlofku7bmlbAiIiIKICAgIHZhbHM9bGlzdChvYnMpCiAgICBub2Rlcz1bbiBmb3IgbiBpbiBUUkVFIGlmIFRydWVdCiAgICBybmc9cmFuZG9tLlJhbmRvbShoYXNoKHR1cGxlKG9icykpJTk5OTkxKQogICAgZm9yIF8gaW4gcmFuZ2UoYnVkZ2V0X2V4dHJhKToKICAgICAgICB2YWxzLmFwcGVuZChUUkVFW3JuZy5jaG9pY2Uobm9kZXMpXVsnbmZpbGUnXSkKICAgIHJldHVybiBmbG9hdChucC5tZWFuKHZhbHMpKSBpZiB2YWxzIGVsc2UgMC4wCgpyZXM9eydwbGF5JzpbXSwnbm9wbGF5JzpbXX0KZm9yIHMgaW4gcmFuZ2UoMjApOgogICAgYWN0cyxvYnMgPSBwbGF5X3BoYXNlKHMsIDMwKSAgICAgICAgICAgICAgIyDnjqkzMOasoSjml6DlpZblirEpCiAgICBlX3BsYXkgPSBhYnMoZXN0aW1hdGUob2JzLCAxMCkgLSB0cnV0aF9tZWFuKS90cnV0aF9tZWFuCiAgICBlX25vbmUgPSBhYnMoZXN0aW1hdGUoW10sIDEwKSAtIHRydXRoX21lYW4pL3RydXRoX21lYW4gICAjIOWQjOagt+aAu+ingua1iz8g5LiNOiDlr7nnhafnu4Tlj6rnu5kxMOasoQogICAgcmVzWydwbGF5J10uYXBwZW5kKGVfcGxheSk7IHJlc1snbm9wbGF5J10uYXBwZW5kKGVfbm9uZSkKICAgICMg5YWs5bmz5a+554Wn77ya5a+554Wn57uE57uZIDEwIOasoSjkuI7njqnnu4Tku7vliqHmnJ/nm7jlkIzpooTnrpcpCmZvciBrIGluIFsncGxheScsJ25vcGxheSddOgogICAgcHJpbnQoZiIgIHtrOjdzfSDnm7jlr7nor6/lt64ge25wLm1lYW4ocmVzW2tdKTouNGZ9IikKZz1bYi1hIGZvciBhLGIgaW4gemlwKHJlc1sncGxheSddLHJlc1snbm9wbGF5J10pXQptLGxvLGhpPWNpKGcpCnByaW50KGYiICBwbGF5IC0gbm9wbGF5IGdhaW49e206Ky40Zn1be2xvOisuM2Z9LHtoaTorLjNmfV17JyonIGlmIChsbz4wIG9yIGhpPDApIGVsc2UgJyd9IikKcHJpbnQoZiIgIOiHquWPkeWKqOS9nOaVsCjnjqnpmLbmrrUpOiB7cGxheV9waGFzZSgwLDMwKVswXX0vMzAiKQo=
+import json, math, os
+import numpy as np
+exec(open('run148c.py').read().split("D=json.load")[0])
+D=json.load(open('real_series.json'))
+
+print("=== A. mismatch：用'完全不同形状的真实世界'的经历做梦 ===")
+# square 的个体，用 stable 的真实经历（世界不匹配） vs 自己的 vs 不梦
+tgt='square'; src='stable'
+base=[run3(D[tgt][s],'none',False,s) for s in range(8)]
+for c in ['real','cross_shape']:
+    v=[run3(D[tgt][s], ('real' if c=='real' else 'real'), False, s,
+            other=(D[tgt][(s+4)%8] if c=='real' else D[src][s])) for s in range(8)]
+    # cross_shape 需要把 buffer 换成 src 的经验 —— 通过 other 传 src 序列，用 'cross' 逻辑
+    if c=='cross_shape':
+        v=[]
+        for s in range(8):
+            # 自己白天照常，睡眠重放 src 世界(stable)的真实经历
+            v.append(run3(D[tgt][s],'cross',False,s,other=D[src][s]))
+    g=[b-a for b,a in zip(base,v)]
+    m,lo,hi=ci(g)
+    print(f"  {c:12s} gain={m:+.4f}[{lo:+.3f},{hi:+.3f}]{'*' if (lo>0 or hi<0) else ''}")
+
+print("\n=== B. 剂量扫描：梦的轮数（stable）===")
+for r in [0,1,2,4,8]:
+    for c in ['real','shuf']:
+        v=[run3(D['stable'][s], ('none' if r==0 else c), False, s, rounds=max(r,1)) for s in range(8)]
+        b=[run3(D['stable'][s],'none',False,s) for s in range(8)]
+        g=[x-y for x,y in zip(b,v)] if r>0 else [0.0]*8
+        m,lo,hi=ci(g)
+        print(f"  rounds={r} {c:5s} MAE={np.mean(v):.4f} gain={m:+.4f}[{lo:+.3f},{hi:+.3f}]{'*' if (lo>0 or hi<0) else ''}")
+
+print("\n=== C. 玩：无外部奖励的自发探索 → 后续真实任务 ===")
+import random
+ROOT='/usr/lib/python3.10'
+def listdir_safe(p):
+    try:
+        e=list(os.scandir(p)); return [x.path for x in e if x.is_dir()], sum(1 for x in e if x.is_file())
+    except Exception: return [], 0
+def build_tree(root, maxd=3):
+    tree={}
+    def rec(p,d):
+        if d>maxd: return
+        dirs,nf=listdir_safe(p)
+        tree[p]=dict(nfile=nf, ndir=len(dirs), depth=d)
+        for q in dirs[:12]: rec(q,d+1)
+    rec(root,0); return tree
+TREE=build_tree(ROOT)
+truth_total=sum(v['nfile'] for v in TREE.values())
+truth_mean=truth_total/max(len(TREE),1)
+print(f"  真实树: {len(TREE)} 目录, 文件总数 {truth_total}, 均值 {truth_mean:.2f}")
+
+def play_phase(seed, budget):
+    """无外部奖励：内部驱动(新奇度)自发选择目录去 listdir"""
+    rng=random.Random(seed); nodes=list(TREE.keys()); seen=set(); acts=0
+    obs=[]
+    for _ in range(budget):
+        cand=[n for n in nodes if n not in seen]
+        if not cand: break
+        # 内部驱动：偏好更浅(易达)+未见过
+        cand.sort(key=lambda p: TREE[p]['depth']+rng.random()*2)
+        p=cand[0]; seen.add(p); acts+=1
+        obs.append(TREE[p]['nfile'])
+    return acts, obs
+
+def estimate(obs, budget_extra):
+    """任务阶段：允许再采样 budget_extra 次，估计全树平均文件数"""
+    vals=list(obs)
+    nodes=[n for n in TREE if True]
+    rng=random.Random(hash(tuple(obs))%99991)
+    for _ in range(budget_extra):
+        vals.append(TREE[rng.choice(nodes)]['nfile'])
+    return float(np.mean(vals)) if vals else 0.0
+
+res={'play':[],'noplay':[]}
+for s in range(20):
+    acts,obs = play_phase(s, 30)              # 玩30次(无奖励)
+    e_play = abs(estimate(obs, 10) - truth_mean)/truth_mean
+    e_none = abs(estimate([], 10) - truth_mean)/truth_mean   # 同样总观测? 不: 对照组只给10次
+    res['play'].append(e_play); res['noplay'].append(e_none)
+    # 公平对照：对照组给 10 次(与玩组任务期相同预算)
+for k in ['play','noplay']:
+    print(f"  {k:7s} 相对误差 {np.mean(res[k]):.4f}")
+g=[b-a for a,b in zip(res['play'],res['noplay'])]
+m,lo,hi=ci(g)
+print(f"  play - noplay gain={m:+.4f}[{lo:+.3f},{hi:+.3f}]{'*' if (lo>0 or hi<0) else ''}")
+print(f"  自发动作数(玩阶段): {play_phase(0,30)[0]}/30")

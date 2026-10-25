@@ -1,1 +1,68 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIwOTUg5Li75a6e6aqM77yI5L+u5q2j54mI77yJ77yaQyDnjqnms5UgLyBEIOW7tui/n8OX5pys5L2T6KeJ6KGl5YG/IC8gRSDliIbovqjnjocgLyBGIOa4suafky3lhrPnrZbpooTnrpciIiIKaW1wb3J0IHN5cywgb3MsIGpzb24sIHRpbWUKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gZXhwMDk1X3BsYXlfZ2FtZSBpbXBvcnQgKgoKT1VUID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClIgPSB7fQp0MCA9IHRpbWUudGltZSgpCgojIC0tLS0tLS0tLS0tLS0tLS0gU3RhZ2UgQzog546p5rOV5a+55q+U77yI55yf5omL77yJIC0tLS0tLS0tLS0tLS0tLS0KcHJpbnQoJz09IFN0YWdlIEMg546p5rOV5a+55q+U77yI5p2+5omL5Yik5o2u5Y+q5p2l6Ieq55S76Z2i77yJPT0nLCBmbHVzaD1UcnVlKQpoYW5kID0gSGFuZCgpCnNjcmVlbiA9IFNjcmVlbihrZWVwX2hpc3Rvcnk9VHJ1ZSkKQyA9IHt9CmZvciBtb2RlIGluIFsnb3JhY2xlJywgJ2Nsb3NlZCcsICdibGluZCcsICdvcGVuJ106CiAgICBDW21vZGVdID0gcnVuKG49MTYsIG1vZGU9bW9kZSwgZXllPUV5ZShzY3JlZW4sIGNvbHM9V19GQiksCiAgICAgICAgICAgICAgICAgIGhhbmQ9aGFuZCBpZiBtb2RlID09ICdjbG9zZWQnIGVsc2UgTm9uZSwKICAgICAgICAgICAgICAgICAgc2NyZWVuPXNjcmVlbiwgbWF4X3N0ZXBzPTE1MCkKICAgIHByaW50KGYnICB7bW9kZTo3c30g5ZG95Lit546HIHtDW21vZGVdWyJyYXRlIl06LjNmfSAg5q2l5pWwIHtDW21vZGVdWyJzdGVwcyJdOi4xZn0gIOacq+i3nSB7Q1ttb2RlXVsiZ2FwIl06LjFmfScsIGZsdXNoPVRydWUpClJbJ0NfcGxheSddID0gQwoKIyAtLS0tLS0tLS0tLS0tLS0tIFN0YWdlIEQ6IOW7tui/nyDDlyDmnKzkvZPop4nooaXlgb8gLS0tLS0tLS0tLS0tLS0tLQpwcmludCgnXG49PSBTdGFnZSBEIOa4suafk+W7tui/n++8mm5haXZlIHZzIOacrOS9k+inieihpeWBvyA9PScsIGZsdXNoPVRydWUpCkQgPSB7fQpmb3IgbGFnIGluIFswLCAxLCAyLCA0LCA4LCAxNl06CiAgICByb3cgPSB7fQogICAgZm9yIHByZWQgaW4gW0ZhbHNlLCBUcnVlXToKICAgICAgICBzYyA9IFNjcmVlbihrZWVwX2hpc3Rvcnk9VHJ1ZSkKICAgICAgICByb3dbJ3ByZWQnIGlmIHByZWQgZWxzZSAnbmFpdmUnXSA9IHJ1bigKICAgICAgICAgICAgbj0xNiwgbW9kZT0nY2xvc2VkJywgZXllPUV5ZShzYywgY29scz1XX0ZCLCBsYWc9bGFnKSwKICAgICAgICAgICAgc2NyZWVuPXNjLCBtYXhfc3RlcHM9MTUwLCBwcmVkaWN0aXZlPXByZWQsIGhhbmQ9Tm9uZSkKICAgIERbbGFnXSA9IHJvdwogICAgcHJpbnQoZicgIGxhZz17bGFnOjJkfSAgbmFpdmUge3Jvd1sibmFpdmUiXVsicmF0ZSJdOi4zZn0gKHtyb3dbIm5haXZlIl1bInN0ZXBzIl06LjBmfeatpSknCiAgICAgICAgICBmJyAgIOihpeWBvyB7cm93WyJwcmVkIl1bInJhdGUiXTouM2Z9ICh7cm93WyJwcmVkIl1bInN0ZXBzIl06LjBmfeatpSknLCBmbHVzaD1UcnVlKQpSWydEX2xhZyddID0ge3N0cihrKTogdiBmb3IgaywgdiBpbiBELml0ZW1zKCl9CgojIC0tLS0tLS0tLS0tLS0tLS0gU3RhZ2UgRTog5YiG6L6o546HIC0tLS0tLS0tLS0tLS0tLS0KcHJpbnQoJ1xuPT0gU3RhZ2UgRSDliIbovqjnjocgPT0nLCBmbHVzaD1UcnVlKQpFID0ge30KZm9yIGNvbHMgaW4gWzgwMCwgNDAwLCAyMDAsIDEwMCwgNTAsIDI1LCAxMiwgNl06CiAgICBzYyA9IFNjcmVlbihrZWVwX2hpc3Rvcnk9VHJ1ZSkKICAgIEVbY29sc10gPSBydW4obj0xNiwgbW9kZT0nY2xvc2VkJywgZXllPUV5ZShzYywgY29scz1jb2xzKSwKICAgICAgICAgICAgICAgICAgc2NyZWVuPXNjLCBtYXhfc3RlcHM9MTUwLCBoYW5kPU5vbmUpCiAgICBwcmludChmJyAge2NvbHM6NGR9IOWIlyAg5ZG95Lit546HIHtFW2NvbHNdWyJyYXRlIl06LjNmfSAg5q2l5pWwIHtFW2NvbHNdWyJzdGVwcyJdOi4xZn0nLCBmbHVzaD1UcnVlKQpSWydFX3JlcyddID0ge3N0cihrKTogdiBmb3IgaywgdiBpbiBFLml0ZW1zKCl9CgojIC0tLS0tLS0tLS0tLS0tLS0gU3RhZ2UgRjog5riy5p+TIHZzIOWGs+etlumihOeulyAtLS0tLS0tLS0tLS0tLS0tCnByaW50KCdcbj09IFN0YWdlIEYg5riy5p+T6aKE566XIHZzIOWGs+etlumihOeul++8iOaAu+mihOeul+WbuuWumu+8iT09JywgZmx1c2g9VHJ1ZSkKVF9UT1RBTCwgUkVOREVSX0NPU1QsIERFQ0lERV9DT1NUID0gMTUwMC4wLCAwLjUsIDIwLjAKRiA9IHt9CmZvciB3ciBpbiBbOCwgMTYsIDMyLCA2NCwgMTI4LCAyNTYsIDUxMiwgODAwXToKICAgIHBlcl9mcmFtZSA9IHdyICogUkVOREVSX0NPU1QgKyBERUNJREVfQ09TVAogICAgZnJhbWVzID0gbWF4KDIsIGludChUX1RPVEFMIC8gcGVyX2ZyYW1lKSkKICAgIHNjID0gU2NyZWVuKGtlZXBfaGlzdG9yeT1UcnVlKQogICAgZiA9IHJ1bihuPTE2LCBtb2RlPSdjbG9zZWQnLCBleWU9RXllKHNjLCBjb2xzPW1pbih3ciwgV19GQikpLAogICAgICAgICAgICBzY3JlZW49c2MsIG1heF9zdGVwcz1mcmFtZXMsIGhhbmQ9Tm9uZSkKICAgIGZbJ2ZyYW1lcyddID0gZnJhbWVzCiAgICBGW3dyXSA9IGYKICAgIHByaW50KGYnICB7d3I6NGR9IOWIly/luKcg4oaSIHtmcmFtZXM6M2R9IOW4pyAg5ZG95Lit546HIHtmWyJyYXRlIl06LjNmfScsIGZsdXNoPVRydWUpClJbJ0ZfYnVkZ2V0J10gPSB7c3RyKGspOiB2IGZvciBrLCB2IGluIEYuaXRlbXMoKX0KUlsnRl9wYXJhbSddID0gZGljdChUPVRfVE9UQUwsIHJlbmRlcj1SRU5ERVJfQ09TVCwgZGVjaWRlPURFQ0lERV9DT1NUKQoKUlsnZWxhcHNlZCddID0gdGltZS50aW1lKCkgLSB0MApqc29uLmR1bXAoUiwgb3Blbihvcy5wYXRoLmpvaW4oT1VULCAncmVzdWx0MDk1Lmpzb24nKSwgJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKcHJpbnQoJ1xu6ICX5pe2ICUuMWZzJyAlIFJbJ2VsYXBzZWQnXSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""095 主实验（修正版）：C 玩法 / D 延迟×本体觉补偿 / E 分辨率 / F 渲染-决策预算"""
+import sys, os, json, time
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import numpy as np
+from exp095_play_game import *
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+R = {}
+t0 = time.time()
+
+# ---------------- Stage C: 玩法对比（真手） ----------------
+print('== Stage C 玩法对比（松手判据只来自画面）==', flush=True)
+hand = Hand()
+screen = Screen(keep_history=True)
+C = {}
+for mode in ['oracle', 'closed', 'blind', 'open']:
+    C[mode] = run(n=16, mode=mode, eye=Eye(screen, cols=W_FB),
+                  hand=hand if mode == 'closed' else None,
+                  screen=screen, max_steps=150)
+    print(f'  {mode:7s} 命中率 {C[mode]["rate"]:.3f}  步数 {C[mode]["steps"]:.1f}  末距 {C[mode]["gap"]:.1f}', flush=True)
+R['C_play'] = C
+
+# ---------------- Stage D: 延迟 × 本体觉补偿 ----------------
+print('\n== Stage D 渲染延迟：naive vs 本体觉补偿 ==', flush=True)
+D = {}
+for lag in [0, 1, 2, 4, 8, 16]:
+    row = {}
+    for pred in [False, True]:
+        sc = Screen(keep_history=True)
+        row['pred' if pred else 'naive'] = run(
+            n=16, mode='closed', eye=Eye(sc, cols=W_FB, lag=lag),
+            screen=sc, max_steps=150, predictive=pred, hand=None)
+    D[lag] = row
+    print(f'  lag={lag:2d}  naive {row["naive"]["rate"]:.3f} ({row["naive"]["steps"]:.0f}步)'
+          f'   补偿 {row["pred"]["rate"]:.3f} ({row["pred"]["steps"]:.0f}步)', flush=True)
+R['D_lag'] = {str(k): v for k, v in D.items()}
+
+# ---------------- Stage E: 分辨率 ----------------
+print('\n== Stage E 分辨率 ==', flush=True)
+E = {}
+for cols in [800, 400, 200, 100, 50, 25, 12, 6]:
+    sc = Screen(keep_history=True)
+    E[cols] = run(n=16, mode='closed', eye=Eye(sc, cols=cols),
+                  screen=sc, max_steps=150, hand=None)
+    print(f'  {cols:4d} 列  命中率 {E[cols]["rate"]:.3f}  步数 {E[cols]["steps"]:.1f}', flush=True)
+R['E_res'] = {str(k): v for k, v in E.items()}
+
+# ---------------- Stage F: 渲染 vs 决策预算 ----------------
+print('\n== Stage F 渲染预算 vs 决策预算（总预算固定）==', flush=True)
+T_TOTAL, RENDER_COST, DECIDE_COST = 1500.0, 0.5, 20.0
+F = {}
+for wr in [8, 16, 32, 64, 128, 256, 512, 800]:
+    per_frame = wr * RENDER_COST + DECIDE_COST
+    frames = max(2, int(T_TOTAL / per_frame))
+    sc = Screen(keep_history=True)
+    f = run(n=16, mode='closed', eye=Eye(sc, cols=min(wr, W_FB)),
+            screen=sc, max_steps=frames, hand=None)
+    f['frames'] = frames
+    F[wr] = f
+    print(f'  {wr:4d} 列/帧 → {frames:3d} 帧  命中率 {f["rate"]:.3f}', flush=True)
+R['F_budget'] = {str(k): v for k, v in F.items()}
+R['F_param'] = dict(T=T_TOTAL, render=RENDER_COST, decide=DECIDE_COST)
+
+R['elapsed'] = time.time() - t0
+json.dump(R, open(os.path.join(OUT, 'result095.json'), 'w'), ensure_ascii=False, indent=1)
+print('\n耗时 %.1fs' % R['elapsed'])

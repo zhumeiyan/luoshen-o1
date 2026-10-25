@@ -1,1 +1,224 @@
-ewogICJ0ZXN0X2NoYXJzIjogNTA4LAogICJsYXllcnMiOiBbCiAgICB7CiAgICAgICJsYWJlbCI6ICJMMCDmoLgiLAogICAgICAiY2hhcnMiOiAxMDcwLAogICAgICAiQzFf5aSN546wKOiHqui6qykiOiAwLjkwMDgsCiAgICAgICJDMl/pooTmtYso5pyq6KeB6L+HKSI6IDAuMTMwMiwKICAgICAgIkMzX+e6oOmUmUFVQyI6IDAuNTU4MywKICAgICAgIkM0X+WOi+e8qWJpdHMiOiAxOS4yMTYsCiAgICAgICJDNV/nlJ/miJDlkIjms5XmgKciOiAwLjI3OTUKICAgIH0sCiAgICB7CiAgICAgICJsYWJlbCI6ICJMMSAr5ZCm5a6aIiwKICAgICAgImNoYXJzIjogMTEwNywKICAgICAgIkMxX+WkjeeOsCjoh6rouqspIjogMC45MDI0LAogICAgICAiQzJf6aKE5rWLKOacquingei/hykiOiAwLjEzMDIsCiAgICAgICJDM1/nuqDplJlBVUMiOiAwLjU0MTcsCiAgICAgICJDNF/ljovnvKliaXRzIjogMTkuMjMxMywKICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IDAuMjQ1OAogICAgfSwKICAgIHsKICAgICAgImxhYmVsIjogIkwyICvkurrnmoTor50iLAogICAgICAiY2hhcnMiOiA0NTI3LAogICAgICAiQzFf5aSN546wKOiHqui6qykiOiAwLjc5ODksCiAgICAgICJDMl/pooTmtYso5pyq6KeB6L+HKSI6IDAuNTIyNywKICAgICAgIkMzX+e6oOmUmUFVQyI6IDAuODI1LAogICAgICAiQzRf5Y6L57ypYml0cyI6IDYuMzgxMiwKICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IDAuMTk4NwogICAgfSwKICAgIHsKICAgICAgImxhYmVsIjogIkwzICvliKTmja7moLgiLAogICAgICAiY2hhcnMiOiAyNDUyNywKICAgICAgIkMxX+WkjeeOsCjoh6rouqspIjogMC43OTg2LAogICAgICAiQzJf6aKE5rWLKOacquingei/hykiOiAwLjQ5MzEsCiAgICAgICJDM1/nuqDplJlBVUMiOiAwLjgzMzMsCiAgICAgICJDNF/ljovnvKliaXRzIjogNS42NTY1LAogICAgICAiQzVf55Sf5oiQ5ZCI5rOV5oCnIjogMC4xMjQ2CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiAiTDQgK+WunumqjOaVsOaNriIsCiAgICAgICJjaGFycyI6IDQ0NTI3LAogICAgICAiQzFf5aSN546wKOiHqui6qykiOiAwLjc3NTMsCiAgICAgICJDMl/pooTmtYso5pyq6KeB6L+HKSI6IDAuNDU3NiwKICAgICAgIkMzX+e6oOmUmUFVQyI6IDAuODY2NywKICAgICAgIkM0X+WOi+e8qWJpdHMiOiA1Ljg3NjcsCiAgICAgICJDNV/nlJ/miJDlkIjms5XmgKciOiAwLjI2NgogICAgfSwKICAgIHsKICAgICAgImxhYmVsIjogIkw1ICtzaGEiLAogICAgICAiY2hhcnMiOiA0NDU5MSwKICAgICAgIkMxX+WkjeeOsCjoh6rouqspIjogMC43NzUzLAogICAgICAiQzJf6aKE5rWLKOacquingei/hykiOiAwLjQ1NTYsCiAgICAgICJDM1/nuqDplJlBVUMiOiAwLjg2NjcsCiAgICAgICJDNF/ljovnvKliaXRzIjogNS44Nzc1LAogICAgICAiQzVf55Sf5oiQ5ZCI5rOV5oCnIjogMC4zMDMKICAgIH0sCiAgICB7CiAgICAgICJsYWJlbCI6ICJMNiAr5YWx55Sf5YiG5belIiwKICAgICAgImNoYXJzIjogNDQ2MzUsCiAgICAgICJDMV/lpI3njrAo6Ieq6LqrKSI6IDAuNzc0NiwKICAgICAgIkMyX+mihOa1iyjmnKrop4Hov4cpIjogMC40NTU2LAogICAgICAiQzNf57qg6ZSZQVVDIjogMC45MDgzLAogICAgICAiQzRf5Y6L57ypYml0cyI6IDUuODc1MiwKICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IDAuMzI2NgogICAgfQogIF0sCiAgIm1hdGNoZWRfY29udHJvbCI6IFsKICAgIHsKICAgICAgImxhYmVsIjogIkwwIOaguCBb5ZCM6YeP6ZqP5py6XSIsCiAgICAgICJjaGFycyI6IDEwNzAsCiAgICAgICJDMV/lpI3njrAo6Ieq6LqrKSI6IDAuODk0MywKICAgICAgIkMyX+mihOa1iyjmnKrop4Hov4cpIjogMC4wNzMsCiAgICAgICJDM1/nuqDplJlBVUMiOiAwLjYwODMsCiAgICAgICJDNF/ljovnvKliaXRzIjogMTYuNjY3NywKICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IDAuMjA4OCwKICAgICAgIm1hdGNoZWRfY2hhcnMiOiAxMDcwCiAgICB9LAogICAgewogICAgICAibGFiZWwiOiAiTDEgK+WQpuWumiBb5ZCM6YeP6ZqP5py6XSIsCiAgICAgICJjaGFycyI6IDExMDcsCiAgICAgICJDMV/lpI3njrAo6Ieq6LqrKSI6IDAuODg3LAogICAgICAiQzJf6aKE5rWLKOacquingei/hykiOiAwLjA3NSwKICAgICAgIkMzX+e6oOmUmUFVQyI6IDAuNjA4MywKICAgICAgIkM0X+WOi+e8qWJpdHMiOiAxNi40NjcsCiAgICAgICJDNV/nlJ/miJDlkIjms5XmgKciOiAwLjMwOTgsCiAgICAgICJtYXRjaGVkX2NoYXJzIjogMTEwNwogICAgfSwKICAgIHsKICAgICAgImxhYmVsIjogIkwyICvkurrnmoTor50gW+WQjOmHj+maj+acul0iLAogICAgICAiY2hhcnMiOiA0NTI3LAogICAgICAiQzFf5aSN546wKOiHqui6qykiOiAwLjgxMzMsCiAgICAgICJDMl/pooTmtYso5pyq6KeB6L+HKSI6IDAuMDc2OSwKICAgICAgIkMzX+e6oOmUmUFVQyI6IDAuNjUsCiAgICAgICJDNF/ljovnvKliaXRzIjogMTEuODk1NywKICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IDAuMjk2MywKICAgICAgIm1hdGNoZWRfY2hhcnMiOiA0NTI3CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiAiTDMgK+WIpOaNruaguCBb5ZCM6YeP6ZqP5py6XSIsCiAgICAgICJjaGFycyI6IDI0NTI3LAogICAgICAiQzFf5aSN546wKOiHqui6qykiOiAwLjg1MjYsCiAgICAgICJDMl/pooTmtYso5pyq6KeB6L+HKSI6IDAuMTc1NSwKICAgICAgIkMzX+e6oOmUmUFVQyI6IDAuODQxNywKICAgICAgIkM0X+WOi+e8qWJpdHMiOiA4LjQ0NTMsCiAgICAgICJDNV/nlJ/miJDlkIjms5XmgKciOiAwLjI4MjgsCiAgICAgICJtYXRjaGVkX2NoYXJzIjogMjQ1MjcKICAgIH0sCiAgICB7CiAgICAgICJsYWJlbCI6ICJMNCAr5a6e6aqM5pWw5o2uIFvlkIzph4/pmo/mnLpdIiwKICAgICAgImNoYXJzIjogNDQ1MjcsCiAgICAgICJDMV/lpI3njrAo6Ieq6LqrKSI6IDAuNzczNiwKICAgICAgIkMyX+mihOa1iyjmnKrop4Hov4cpIjogMC40NTU2LAogICAgICAiQzNf57qg6ZSZQVVDIjogMC44NzUsCiAgICAgICJDNF/ljovnvKliaXRzIjogNS44NzgyLAogICAgICAiQzVf55Sf5oiQ5ZCI5rOV5oCnIjogMC4yNjI2LAogICAgICAibWF0Y2hlZF9jaGFycyI6IDQ0NTI3CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiAiTDUgK3NoYSBb5ZCM6YeP6ZqP5py6XSIsCiAgICAgICJjaGFycyI6IDQ0NTkxLAogICAgICAiQzFf5aSN546wKOiHqui6qykiOiAwLjc3NDksCiAgICAgICJDMl/pooTmtYso5pyq6KeB6L+HKSI6IDAuNDU1NiwKICAgICAgIkMzX+e6oOmUmUFVQyI6IDAuODc1LAogICAgICAiQzRf5Y6L57ypYml0cyI6IDUuODc0MywKICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IDAuMjU1OSwKICAgICAgIm1hdGNoZWRfY2hhcnMiOiA0NDU5MQogICAgfSwKICAgIHsKICAgICAgImxhYmVsIjogIkw2ICvlhbHnlJ/liIblt6UgW+WQjOmHj+maj+acul0iLAogICAgICAiY2hhcnMiOiA0NDYzNSwKICAgICAgIkMxX+WkjeeOsCjoh6rouqspIjogMC43NzQ2LAogICAgICAiQzJf6aKE5rWLKOacquingei/hykiOiAwLjQ1NTYsCiAgICAgICJDM1/nuqDplJlBVUMiOiAwLjg3NSwKICAgICAgIkM0X+WOi+e8qWJpdHMiOiA1Ljg3NTIsCiAgICAgICJDNV/nlJ/miJDlkIjms5XmgKciOiAwLjI0OTIsCiAgICAgICJtYXRjaGVkX2NoYXJzIjogNDQ2MzUKICAgIH0KICBdLAogICJiYXNlbGluZSI6IHsKICAgICJ1bmlmb3JtX2JpdHMiOiA3LjUzOTIsCiAgICAicmFuZG9tX2F1YyI6IDAuNSwKICAgICJyYW5kb21fYWNjIjogMC4wMDU0CiAgfSwKICAiY3VtX3ZzX21hdGNoZWQiOiBbCiAgICB7CiAgICAgICJsYXllciI6ICJMMCDmoLgiLAogICAgICAiY2hhcnMiOiAxMDcwLAogICAgICAiY3VtX21pbnVzX21hdGNoZWQiOiB7CiAgICAgICAgIkMxX+WkjeeOsCjoh6rouqspIjogMC4wMDY1LAogICAgICAgICJDMl/pooTmtYso5pyq6KeB6L+HKSI6IDAuMDU3MiwKICAgICAgICAiQzNf57qg6ZSZQVVDIjogLTAuMDUsCiAgICAgICAgIkM0X+WOi+e8qWJpdHMiOiAyLjU0ODMsCiAgICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IDAuMDcwNwogICAgICB9CiAgICB9LAogICAgewogICAgICAibGF5ZXIiOiAiTDEgK+WQpuWumiIsCiAgICAgICJjaGFycyI6IDExMDcsCiAgICAgICJjdW1fbWludXNfbWF0Y2hlZCI6IHsKICAgICAgICAiQzFf5aSN546wKOiHqui6qykiOiAwLjAxNTQsCiAgICAgICAgIkMyX+mihOa1iyjmnKrop4Hov4cpIjogMC4wNTUyLAogICAgICAgICJDM1/nuqDplJlBVUMiOiAtMC4wNjY2LAogICAgICAgICJDNF/ljovnvKliaXRzIjogMi43NjQzLAogICAgICAgICJDNV/nlJ/miJDlkIjms5XmgKciOiAtMC4wNjQKICAgICAgfQogICAgfSwKICAgIHsKICAgICAgImxheWVyIjogIkwyICvkurrnmoTor50iLAogICAgICAiY2hhcnMiOiA0NTI3LAogICAgICAiY3VtX21pbnVzX21hdGNoZWQiOiB7CiAgICAgICAgIkMxX+WkjeeOsCjoh6rouqspIjogLTAuMDE0NCwKICAgICAgICAiQzJf6aKE5rWLKOacquingei/hykiOiAwLjQ0NTgsCiAgICAgICAgIkMzX+e6oOmUmUFVQyI6IDAuMTc1LAogICAgICAgICJDNF/ljovnvKliaXRzIjogLTUuNTE0NSwKICAgICAgICAiQzVf55Sf5oiQ5ZCI5rOV5oCnIjogLTAuMDk3NgogICAgICB9CiAgICB9LAogICAgewogICAgICAibGF5ZXIiOiAiTDMgK+WIpOaNruaguCIsCiAgICAgICJjaGFycyI6IDI0NTI3LAogICAgICAiY3VtX21pbnVzX21hdGNoZWQiOiB7CiAgICAgICAgIkMxX+WkjeeOsCjoh6rouqspIjogLTAuMDU0LAogICAgICAgICJDMl/pooTmtYso5pyq6KeB6L+HKSI6IDAuMzE3NiwKICAgICAgICAiQzNf57qg6ZSZQVVDIjogLTAuMDA4NCwKICAgICAgICAiQzRf5Y6L57ypYml0cyI6IC0yLjc4ODgsCiAgICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IC0wLjE1ODIKICAgICAgfQogICAgfSwKICAgIHsKICAgICAgImxheWVyIjogIkw0ICvlrp7pqozmlbDmja4iLAogICAgICAiY2hhcnMiOiA0NDUyNywKICAgICAgImN1bV9taW51c19tYXRjaGVkIjogewogICAgICAgICJDMV/lpI3njrAo6Ieq6LqrKSI6IDAuMDAxNywKICAgICAgICAiQzJf6aKE5rWLKOacquingei/hykiOiAwLjAwMiwKICAgICAgICAiQzNf57qg6ZSZQVVDIjogLTAuMDA4MywKICAgICAgICAiQzRf5Y6L57ypYml0cyI6IC0wLjAwMTUsCiAgICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IDAuMDAzNAogICAgICB9CiAgICB9LAogICAgewogICAgICAibGF5ZXIiOiAiTDUgK3NoYSIsCiAgICAgICJjaGFycyI6IDQ0NTkxLAogICAgICAiY3VtX21pbnVzX21hdGNoZWQiOiB7CiAgICAgICAgIkMxX+WkjeeOsCjoh6rouqspIjogMC4wMDA0LAogICAgICAgICJDMl/pooTmtYso5pyq6KeB6L+HKSI6IDAuMCwKICAgICAgICAiQzNf57qg6ZSZQVVDIjogLTAuMDA4MywKICAgICAgICAiQzRf5Y6L57ypYml0cyI6IDAuMDAzMiwKICAgICAgICAiQzVf55Sf5oiQ5ZCI5rOV5oCnIjogMC4wNDcxCiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgICJsYXllciI6ICJMNiAr5YWx55Sf5YiG5belIiwKICAgICAgImNoYXJzIjogNDQ2MzUsCiAgICAgICJjdW1fbWludXNfbWF0Y2hlZCI6IHsKICAgICAgICAiQzFf5aSN546wKOiHqui6qykiOiAwLjAsCiAgICAgICAgIkMyX+mihOa1iyjmnKrop4Hov4cpIjogMC4wLAogICAgICAgICJDM1/nuqDplJlBVUMiOiAwLjAzMzMsCiAgICAgICAgIkM0X+WOi+e8qWJpdHMiOiAwLjAsCiAgICAgICAgIkM1X+eUn+aIkOWQiOazleaApyI6IDAuMDc3NAogICAgICB9CiAgICB9CiAgXQp9
+{
+  "test_chars": 508,
+  "layers": [
+    {
+      "label": "L0 核",
+      "chars": 1070,
+      "C1_复现(自身)": 0.9008,
+      "C2_预测(未见过)": 0.1302,
+      "C3_纠错AUC": 0.5583,
+      "C4_压缩bits": 19.216,
+      "C5_生成合法性": 0.2795
+    },
+    {
+      "label": "L1 +否定",
+      "chars": 1107,
+      "C1_复现(自身)": 0.9024,
+      "C2_预测(未见过)": 0.1302,
+      "C3_纠错AUC": 0.5417,
+      "C4_压缩bits": 19.2313,
+      "C5_生成合法性": 0.2458
+    },
+    {
+      "label": "L2 +人的话",
+      "chars": 4527,
+      "C1_复现(自身)": 0.7989,
+      "C2_预测(未见过)": 0.5227,
+      "C3_纠错AUC": 0.825,
+      "C4_压缩bits": 6.3812,
+      "C5_生成合法性": 0.1987
+    },
+    {
+      "label": "L3 +判据核",
+      "chars": 24527,
+      "C1_复现(自身)": 0.7986,
+      "C2_预测(未见过)": 0.4931,
+      "C3_纠错AUC": 0.8333,
+      "C4_压缩bits": 5.6565,
+      "C5_生成合法性": 0.1246
+    },
+    {
+      "label": "L4 +实验数据",
+      "chars": 44527,
+      "C1_复现(自身)": 0.7753,
+      "C2_预测(未见过)": 0.4576,
+      "C3_纠错AUC": 0.8667,
+      "C4_压缩bits": 5.8767,
+      "C5_生成合法性": 0.266
+    },
+    {
+      "label": "L5 +sha",
+      "chars": 44591,
+      "C1_复现(自身)": 0.7753,
+      "C2_预测(未见过)": 0.4556,
+      "C3_纠错AUC": 0.8667,
+      "C4_压缩bits": 5.8775,
+      "C5_生成合法性": 0.303
+    },
+    {
+      "label": "L6 +共生分工",
+      "chars": 44635,
+      "C1_复现(自身)": 0.7746,
+      "C2_预测(未见过)": 0.4556,
+      "C3_纠错AUC": 0.9083,
+      "C4_压缩bits": 5.8752,
+      "C5_生成合法性": 0.3266
+    }
+  ],
+  "matched_control": [
+    {
+      "label": "L0 核 [同量随机]",
+      "chars": 1070,
+      "C1_复现(自身)": 0.8943,
+      "C2_预测(未见过)": 0.073,
+      "C3_纠错AUC": 0.6083,
+      "C4_压缩bits": 16.6677,
+      "C5_生成合法性": 0.2088,
+      "matched_chars": 1070
+    },
+    {
+      "label": "L1 +否定 [同量随机]",
+      "chars": 1107,
+      "C1_复现(自身)": 0.887,
+      "C2_预测(未见过)": 0.075,
+      "C3_纠错AUC": 0.6083,
+      "C4_压缩bits": 16.467,
+      "C5_生成合法性": 0.3098,
+      "matched_chars": 1107
+    },
+    {
+      "label": "L2 +人的话 [同量随机]",
+      "chars": 4527,
+      "C1_复现(自身)": 0.8133,
+      "C2_预测(未见过)": 0.0769,
+      "C3_纠错AUC": 0.65,
+      "C4_压缩bits": 11.8957,
+      "C5_生成合法性": 0.2963,
+      "matched_chars": 4527
+    },
+    {
+      "label": "L3 +判据核 [同量随机]",
+      "chars": 24527,
+      "C1_复现(自身)": 0.8526,
+      "C2_预测(未见过)": 0.1755,
+      "C3_纠错AUC": 0.8417,
+      "C4_压缩bits": 8.4453,
+      "C5_生成合法性": 0.2828,
+      "matched_chars": 24527
+    },
+    {
+      "label": "L4 +实验数据 [同量随机]",
+      "chars": 44527,
+      "C1_复现(自身)": 0.7736,
+      "C2_预测(未见过)": 0.4556,
+      "C3_纠错AUC": 0.875,
+      "C4_压缩bits": 5.8782,
+      "C5_生成合法性": 0.2626,
+      "matched_chars": 44527
+    },
+    {
+      "label": "L5 +sha [同量随机]",
+      "chars": 44591,
+      "C1_复现(自身)": 0.7749,
+      "C2_预测(未见过)": 0.4556,
+      "C3_纠错AUC": 0.875,
+      "C4_压缩bits": 5.8743,
+      "C5_生成合法性": 0.2559,
+      "matched_chars": 44591
+    },
+    {
+      "label": "L6 +共生分工 [同量随机]",
+      "chars": 44635,
+      "C1_复现(自身)": 0.7746,
+      "C2_预测(未见过)": 0.4556,
+      "C3_纠错AUC": 0.875,
+      "C4_压缩bits": 5.8752,
+      "C5_生成合法性": 0.2492,
+      "matched_chars": 44635
+    }
+  ],
+  "baseline": {
+    "uniform_bits": 7.5392,
+    "random_auc": 0.5,
+    "random_acc": 0.0054
+  },
+  "cum_vs_matched": [
+    {
+      "layer": "L0 核",
+      "chars": 1070,
+      "cum_minus_matched": {
+        "C1_复现(自身)": 0.0065,
+        "C2_预测(未见过)": 0.0572,
+        "C3_纠错AUC": -0.05,
+        "C4_压缩bits": 2.5483,
+        "C5_生成合法性": 0.0707
+      }
+    },
+    {
+      "layer": "L1 +否定",
+      "chars": 1107,
+      "cum_minus_matched": {
+        "C1_复现(自身)": 0.0154,
+        "C2_预测(未见过)": 0.0552,
+        "C3_纠错AUC": -0.0666,
+        "C4_压缩bits": 2.7643,
+        "C5_生成合法性": -0.064
+      }
+    },
+    {
+      "layer": "L2 +人的话",
+      "chars": 4527,
+      "cum_minus_matched": {
+        "C1_复现(自身)": -0.0144,
+        "C2_预测(未见过)": 0.4458,
+        "C3_纠错AUC": 0.175,
+        "C4_压缩bits": -5.5145,
+        "C5_生成合法性": -0.0976
+      }
+    },
+    {
+      "layer": "L3 +判据核",
+      "chars": 24527,
+      "cum_minus_matched": {
+        "C1_复现(自身)": -0.054,
+        "C2_预测(未见过)": 0.3176,
+        "C3_纠错AUC": -0.0084,
+        "C4_压缩bits": -2.7888,
+        "C5_生成合法性": -0.1582
+      }
+    },
+    {
+      "layer": "L4 +实验数据",
+      "chars": 44527,
+      "cum_minus_matched": {
+        "C1_复现(自身)": 0.0017,
+        "C2_预测(未见过)": 0.002,
+        "C3_纠错AUC": -0.0083,
+        "C4_压缩bits": -0.0015,
+        "C5_生成合法性": 0.0034
+      }
+    },
+    {
+      "layer": "L5 +sha",
+      "chars": 44591,
+      "cum_minus_matched": {
+        "C1_复现(自身)": 0.0004,
+        "C2_预测(未见过)": 0.0,
+        "C3_纠错AUC": -0.0083,
+        "C4_压缩bits": 0.0032,
+        "C5_生成合法性": 0.0471
+      }
+    },
+    {
+      "layer": "L6 +共生分工",
+      "chars": 44635,
+      "cum_minus_matched": {
+        "C1_复现(自身)": 0.0,
+        "C2_预测(未见过)": 0.0,
+        "C3_纠错AUC": 0.0333,
+        "C4_压缩bits": 0.0,
+        "C5_生成合法性": 0.0774
+      }
+    }
+  ]
+}

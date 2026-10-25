@@ -1,1 +1,231 @@
-aW1wb3J0IGxvZ2dpbmcKaW1wb3J0IG9zCmltcG9ydCB0ZW1wZmlsZQpmcm9tIGNvbGxlY3Rpb25zLmFiYyBpbXBvcnQgQ2FsbGFibGUsIEl0ZXJhYmxlLCBJdGVyYXRvciwgTWFwcGluZwpmcm9tIGNvbnRleHRsaWIgaW1wb3J0IGNvbnRleHRtYW5hZ2VyCmZyb20gdHlwaW5nIGltcG9ydCBUWVBFX0NIRUNLSU5HLCBBbnksIFR5cGVWYXIKCmltcG9ydCBjbGljawoKaW1wb3J0IGRhZ3N0ZXIuX2NoZWNrIGFzIGNoZWNrCmZyb20gZGFnc3Rlci5fY29yZS5pbnN0YW5jZSBpbXBvcnQgRGFnc3Rlckluc3RhbmNlLCBJbnN0YW5jZVJlZgpmcm9tIGRhZ3N0ZXIuX2NvcmUuaW5zdGFuY2UuY29uZmlnIGltcG9ydCBpc19kYWdzdGVyX2hvbWVfc2V0CmZyb20gZGFnc3Rlci5fY29yZS5zZWNyZXRzLmVudl9maWxlIGltcG9ydCBnZXRfZW52X3Zhcl9kaWN0CmZyb20gZGFnc3Rlci5fdXRpbHMuZW52IGltcG9ydCBlbnZpcm9uCgpUX0NhbGxhYmxlID0gVHlwZVZhcigiVF9DYWxsYWJsZSIsIGJvdW5kPUNhbGxhYmxlWy4uLiwgQW55XSkKCmlmIFRZUEVfQ0hFQ0tJTkc6CiAgICBmcm9tIGRhZ3N0ZXIuX2NvcmUucmVtb3RlX3JlcHJlc2VudGF0aW9uLmV4dGVybmFsIGltcG9ydCBSZW1vdGVSZXBvc2l0b3J5CgoKZGVmIGhhc19weXByb2plY3RfZGFnc3Rlcl9ibG9jayhwYXRoOiBzdHIpIC0+IGJvb2w6CiAgICBpbXBvcnQgdG9tbGkgICMgZGVmZXIgZm9yIHBlcmYKCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocGF0aCk6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICB3aXRoIG9wZW4ocGF0aCwgInJiIikgYXMgZjoKICAgICAgICBkYXRhID0gdG9tbGkubG9hZChmKQogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGRhdGEsIGRpY3QpOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgcmV0dXJuICJkYWdzdGVyIiBpbiBkYXRhLmdldCgidG9vbCIsIHt9KSBvciAiZGciIGluIGRhdGEuZ2V0KCJ0b29sIiwge30pCgoKQGNvbnRleHRtYW5hZ2VyCmRlZiBfaW5qZWN0X2xvY2FsX2Vudl9maWxlKGxvZ2dlcjogbG9nZ2luZy5Mb2dnZXIpIC0+IEl0ZXJhdG9yW05vbmVdOgogICAgZG90ZW52X2ZpbGVfcGF0aCA9IG9zLmdldGN3ZCgpCgogICAgZW52X3Zhcl9kaWN0ID0gZ2V0X2Vudl92YXJfZGljdChkb3RlbnZfZmlsZV9wYXRoKQoKICAgIHdpdGggZW52aXJvbihlbnZfdmFyX2RpY3QpOgogICAgICAgIGlmIGxlbihlbnZfdmFyX2RpY3QpOgogICAgICAgICAgICBsb2dnZXIuaW5mbygKICAgICAgICAgICAgICAgICJMb2FkZWQgZW52aXJvbm1lbnQgdmFyaWFibGVzIGZyb20gLmVudiBmaWxlOiAiCiAgICAgICAgICAgICAgICArICIsIi5qb2luKFtlbnZfdmFyIGZvciBlbnZfdmFyIGluIGVudl92YXJfZGljdF0pLAogICAgICAgICAgICApCiAgICAgICAgeWllbGQKCgpUTVBfREFHU1RFUl9IT01FX1BSRUZJWCA9ICIudG1wX2RhZ3N0ZXJfaG9tZV8iCgoKQGNvbnRleHRtYW5hZ2VyCmRlZiBfZ2V0X3RlbXBvcmFyeV9pbnN0YW5jZShjbGlfY29tbWFuZDogc3RyLCBsb2dnZXI6IGxvZ2dpbmcuTG9nZ2VyKSAtPiBJdGVyYXRvcltEYWdzdGVySW5zdGFuY2VdOgogICAgIyBtYWtlIHRoZSB0ZW1wIGRpciBpbiB0aGUgY3dkIHNpbmNlIGRlZmF1bHQgdGVtcCBkaXIgcm9vdHMKICAgICMgaGF2ZSBpc3N1ZXMgd2l0aCBGUyBub3RpZnktYmFzZWQgZXZlbnQgbG9nIHdhdGNoaW5nCiAgICAjIHVzZSBhIGZpeGVkIHByZWZpeCBzbyB0aGF0IGNvbnN1bWVyIHByb2plY3RzIGNhbiByZWxpYWJseSBtYW5hZ2UsCiAgICAjIGUuZy4sIGFkZCB0byAuZ2l0aWdub3JlCiAgICB3aXRoIHRlbXBmaWxlLlRlbXBvcmFyeURpcmVjdG9yeShwcmVmaXg9VE1QX0RBR1NURVJfSE9NRV9QUkVGSVgsIGRpcj1vcy5nZXRjd2QoKSkgYXMgdGVtcGRpcjoKICAgICAgICBsb2dnZXIuaW5mbygKICAgICAgICAgICAgZiJVc2luZyB0ZW1wb3JhcnkgZGlyZWN0b3J5IHt0ZW1wZGlyfSBmb3Igc3RvcmFnZS4gVGhpcyB3aWxsIGJlIHJlbW92ZWQgd2hlbiIKICAgICAgICAgICAgZiIge2NsaV9jb21tYW5kfSBleGl0cy4iCiAgICAgICAgKQogICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAiVG8gcGVyc2lzdCBpbmZvcm1hdGlvbiBhY3Jvc3Mgc2Vzc2lvbnMsIHNldCB0aGUgZW52aXJvbm1lbnQgdmFyaWFibGUgREFHU1RFUl9IT01FIgogICAgICAgICAgICAiIHRvIGEgZGlyZWN0b3J5IHRvIHVzZS4iCiAgICAgICAgKQoKICAgICAgICB3aXRoIERhZ3N0ZXJJbnN0YW5jZS5mcm9tX3JlZigKICAgICAgICAgICAgSW5zdGFuY2VSZWYuZnJvbV9kaXIodGVtcGRpciwgY29uZmlnX2Rpcj1vcy5nZXRjd2QoKSkKICAgICAgICApIGFzIGluc3RhbmNlOgogICAgICAgICAgICB5aWVsZCBpbnN0YW5jZQoKCkBjb250ZXh0bWFuYWdlcgpkZWYgZ2V0X3RlbXBvcmFyeV9pbnN0YW5jZV9mb3JfY2xpKAogICAgY2xpX2NvbW1hbmQ6IHN0ciA9ICJ0aGlzIGNvbW1hbmQiLAogICAgbG9nZ2VyOiBsb2dnaW5nLkxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCJkYWdzdGVyIiksCikgLT4gSXRlcmF0b3JbRGFnc3Rlckluc3RhbmNlXToKICAgIHdpdGggX2luamVjdF9sb2NhbF9lbnZfZmlsZShsb2dnZXIpOgogICAgICAgIHdpdGggX2dldF90ZW1wb3JhcnlfaW5zdGFuY2UoY2xpX2NvbW1hbmQsIGxvZ2dlcikgYXMgaW5zdGFuY2U6CiAgICAgICAgICAgIHlpZWxkIGluc3RhbmNlCgoKQGNvbnRleHRtYW5hZ2VyCmRlZiBnZXRfcG9zc2libHlfdGVtcG9yYXJ5X2luc3RhbmNlX2Zvcl9jbGkoCiAgICBjbGlfY29tbWFuZDogc3RyID0gInRoaXMgY29tbWFuZCIsCiAgICBpbnN0YW5jZV9yZWY6IEluc3RhbmNlUmVmIHwgTm9uZSA9IE5vbmUsCiAgICBsb2dnZXI6IGxvZ2dpbmcuTG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoImRhZ3N0ZXIiKSwKKSAtPiBJdGVyYXRvcltEYWdzdGVySW5zdGFuY2VdOgogICAgIiIiQ3JlYXRlIGFuIGluc3RhbmNlIGF0IHRoZSBlbnRyeXBvaW50IGZvciBhIGRhZ3N0ZXIgQ0xJIGNvbW1hbmQuIEhhbmRsZXMgbG9hZGluZwogICAgYW55IGVudmlyb25tZW50IHZhcmlhYmxlcyBmcm9tIGEgbG9jYWwgLmVudiBmaWxlIGFuZCBmaW5kaW5nIHRoZSByaWdodCBwYXRoIHRvIGxvYWQKICAgIHRoZSBpbnN0YW5jZSBmcm9tLiBJZiBEQUdTVEVSX0hPTUUgaXMgbm90IHNldCBhbmQgYW4gaW5zdGFuY2VfcmVmIGlzIG5vdCBwYXNzZWQgaW4sIHdpbGwKICAgIGNyZWF0ZSBhIHRlbXBvcmFyeSBkYWdzdGVyLnlhbWwgZmlsZSB1bmRlciB0aGUgY3dkLgoKICAgIFBhcmFtZXRlcnM6CiAgICBjbGlfY29tbWFuZDogVGhlIG5hbWUgb2YgdGhlIGNvbW1hbmQgLSBvcHRpb25hbCwgdXNlZCBmb3IgbG9nZ2luZyBtZXNzYWdlcy4KICAgIGluc3RhbmNlX3JlZjogRm9yIGNvbW1hbmRzIHRoYXQgZGVsZWdhdGUgdG8gb3RoZXIgY29tbWFuZHMsIHRoZXkgY2FuIHBhc3MgaW4KICAgICAgICBhIHNlcmlhbGl6ZWQgaW5zdGFuY2VfcmVmIG9iamVjdCByYXRoZXIgdGhhbiBsb2FkaW5nIGl0IGZyb20gYSBkYWdzdGVyLnlhbWwgZmlsZS4KICAgIGxvZ2dlcjogQ3VzdG9taXplIGFueSBsb2cgbWVzc2FnZXMgZW1pdHRlZCB3aGlsZSBjcmVhdGluZyB0aGUgaW5zdGFuY2UuCiAgICAiIiIKICAgIHdpdGggX2luamVjdF9sb2NhbF9lbnZfZmlsZShsb2dnZXIpOgogICAgICAgIGlmIGluc3RhbmNlX3JlZjoKICAgICAgICAgICAgd2l0aCBEYWdzdGVySW5zdGFuY2UuZnJvbV9yZWYoaW5zdGFuY2VfcmVmKSBhcyBpbnN0YW5jZToKICAgICAgICAgICAgICAgIHlpZWxkIGluc3RhbmNlCiAgICAgICAgZWxpZiBpc19kYWdzdGVyX2hvbWVfc2V0KCk6CiAgICAgICAgICAgIHdpdGggRGFnc3Rlckluc3RhbmNlLmdldCgpIGFzIGluc3RhbmNlOgogICAgICAgICAgICAgICAgeWllbGQgaW5zdGFuY2UKICAgICAgICBlbHNlOgogICAgICAgICAgICB3aXRoIF9nZXRfdGVtcG9yYXJ5X2luc3RhbmNlKGNsaV9jb21tYW5kLCBsb2dnZXIpIGFzIGluc3RhbmNlOgogICAgICAgICAgICAgICAgeWllbGQgaW5zdGFuY2UKCgpAY29udGV4dG1hbmFnZXIKZGVmIGdldF9pbnN0YW5jZV9mb3JfY2xpKAogICAgaW5zdGFuY2VfcmVmOiBJbnN0YW5jZVJlZiB8IE5vbmUgPSBOb25lLAogICAgbG9nZ2VyOiBsb2dnaW5nLkxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCJkYWdzdGVyIiksCikgLT4gSXRlcmF0b3JbRGFnc3Rlckluc3RhbmNlXToKICAgICIiIkNyZWF0ZSBhbiBpbnN0YW5jZSBhdCB0aGUgZW50cnlwb2ludCBmb3IgYSBkYWdzdGVyIENMSSBjb21tYW5kLiBIYW5kbGVzIGxvYWRpbmcKICAgIGFueSBlbnZpcm9ubWVudCB2YXJpYWJsZXMgZnJvbSBhIGxvY2FsIC5lbnYgZmlsZSBhbmQgZmluZGluZyB0aGUgcmlnaHQgcGF0aCB0byBsb2FkCiAgICB0aGUgaW5zdGFuY2UgZnJvbS4gUmVxdWlyZXMgREFHU1RFUl9IT01FIHRvIGJlIHNldCBvciBpbnN0YW5jZV9yZWYgdG8gYmUgcGFzc2VkIGluLgoKICAgIFBhcmFtZXRlcnM6CiAgICBjbGlfY29tbWFuZDogVGhlIG5hbWUgb2YgdGhlIGNvbW1hbmQgLSBvcHRpb25hbCwgdXNlZCBmb3IgbG9nZ2luZyBtZXNzYWdlcy4KICAgIGluc3RhbmNlX3JlZjogRm9yIGNvbW1hbmRzIHRoYXQgZGVsZWdhdGUgdG8gb3RoZXIgY29tbWFuZHMsIHRoZXkgY2FuIHBhc3MgaW4KICAgICAgICBhIHNlcmlhbGl6ZWQgaW5zdGFuY2VfcmVmIG9iamVjdCByYXRoZXIgdGhhbiBsb2FkaW5nIGl0IGZyb20gYSBkYWdzdGVyLnlhbWwgZmlsZS4KICAgIGxvZ2dlcjogQ3VzdG9taXplIGFueSBsb2cgbWVzc2FnZXMgZW1pdHRlZCB3aGlsZSBjcmVhdGluZyB0aGUgaW5zdGFuY2UuCiAgICAiIiIKICAgIHdpdGggX2luamVjdF9sb2NhbF9lbnZfZmlsZShsb2dnZXIpOgogICAgICAgIGlmIGluc3RhbmNlX3JlZjoKICAgICAgICAgICAgd2l0aCBEYWdzdGVySW5zdGFuY2UuZnJvbV9yZWYoaW5zdGFuY2VfcmVmKSBhcyBpbnN0YW5jZToKICAgICAgICAgICAgICAgIHlpZWxkIGluc3RhbmNlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgd2l0aCBEYWdzdGVySW5zdGFuY2UuZ2V0KCkgYXMgaW5zdGFuY2U6CiAgICAgICAgICAgICAgICB5aWVsZCBpbnN0YW5jZQoKCmRlZiBhc3NlcnRfbm9fcmVtYWluaW5nX29wdHMob3B0czogTWFwcGluZ1tzdHIsIG9iamVjdF0pIC0+IE5vbmU6CiAgICBpZiBvcHRzOgogICAgICAgIGNoZWNrLmZhaWxlZCgKICAgICAgICAgICAgZiJVbmV4cGVjdGVkIG9wdGlvbnMgcmVtYWluaW5nOiB7bGlzdChvcHRzLmtleXMoKSl9LiBFbnN1cmUgdGhhdCBhbGwgb3B0aW9ucyBhcmUgZXh0cmFjdGVkLiIKICAgICAgICApCgoKZGVmIHNlcmlhbGl6ZV9zb3J0ZWRfcXVvdGVkKHN0cmluZ3M6IEl0ZXJhYmxlW3N0cl0pIC0+IHN0cjoKICAgIHJldHVybiAiWyIgKyAiLCAiLmpvaW4oW2YiJ3tzfSciIGZvciBzIGluIHNvcnRlZChsaXN0KHN0cmluZ3MpKV0pICsgIl0iCgoKZGVmIHZhbGlkYXRlX2RhZ3N0ZXJfaG9tZV9pc19zZXQoKSAtPiBOb25lOgogICAgaWYgbm90IGlzX2RhZ3N0ZXJfaG9tZV9zZXQoKToKICAgICAgICByYWlzZSBjbGljay5Vc2FnZUVycm9yKAogICAgICAgICAgICAiVGhlIGVudmlyb25tZW50IHZhcmlhYmxlICREQUdTVEVSX0hPTUUgaXMgbm90IHNldC4gRGFnc3RlciByZXF1aXJlcyB0aGlzICIKICAgICAgICAgICAgImVudmlyb25tZW50IHZhcmlhYmxlIHRvIGJlIHNldCB0byBhbiBleGlzdGluZyBkaXJlY3RvcnkgaW4geW91ciBmaWxlc3lzdGVtICIKICAgICAgICAgICAgInRoYXQgY29udGFpbnMgeW91ciBkYWdzdGVyIGluc3RhbmNlIGNvbmZpZ3VyYXRpb24gZmlsZSAoZGFnc3Rlci55YW1sKS5cbiIKICAgICAgICAgICAgIllvdSBjYW4gcmVzb2x2ZSB0aGlzIGVycm9yIGJ5IGV4cG9ydGluZyB0aGUgZW52aXJvbm1lbnQgdmFyaWFibGUuIgogICAgICAgICAgICAiRm9yIGV4YW1wbGUsIHlvdSBjYW4gcnVuIHRoZSBmb2xsb3dpbmcgY29tbWFuZCBpbiB5b3VyIHNoZWxsIG9yICIKICAgICAgICAgICAgImluY2x1ZGUgaXQgaW4geW91ciBzaGVsbCBjb25maWd1cmF0aW9uIGZpbGU6XG4iCiAgICAgICAgICAgICdcdGV4cG9ydCBEQUdTVEVSX0hPTUU9In4vZGFnc3Rlcl9ob21lIicKICAgICAgICAgICAgIlxuXG4iCiAgICAgICAgKQoKCmRlZiB2YWxpZGF0ZV9yZXBvX2hhc19kZWZpbmVkX3NlbnNvcnMocmVwbzogIlJlbW90ZVJlcG9zaXRvcnkiKSAtPiBOb25lOgogICAgaWYgbm90IHJlcG8uZ2V0X3NlbnNvcnMoKToKICAgICAgICByYWlzZSBjbGljay5Vc2FnZUVycm9yKGYiVGhlcmUgYXJlIG5vIHNlbnNvcnMgZGVmaW5lZCBmb3IgcmVwb3NpdG9yeSB7cmVwby5uYW1lfS4iKQoKCmRlZiB2YWxpZGF0ZV9yZXBvX2hhc19kZWZpbmVkX3NjaGVkdWxlcyhyZXBvOiAiUmVtb3RlUmVwb3NpdG9yeSIpIC0+IE5vbmU6CiAgICBpZiBub3QgcmVwby5nZXRfc2NoZWR1bGVzKCk6CiAgICAgICAgcmFpc2UgY2xpY2suVXNhZ2VFcnJvcihmIlRoZXJlIGFyZSBubyBzY2hlZHVsZXMgZGVmaW5lZCBmb3IgcmVwb3NpdG9yeSB7cmVwby5uYW1lfS4iKQoKCkRFRlNfU1RBVEVfSU5GT19PVkVSUklERV9QQVRIX0VOViA9ICJEQUdTVEVSX0RFRlNfU1RBVEVfSU5GT19PVkVSUklERV9QQVRIIgoKCmRlZiByZXNvbHZlX3NlcmlhbGl6ZWRfZGVmc19zdGF0ZV9pbmZvKAogICAgc2VyaWFsaXplZF9hcmc6IHN0ciB8IE5vbmUsCiAgICBsb2dnZXI6IGxvZ2dpbmcuTG9nZ2VyLAopIC0+IHN0ciB8IE5vbmU6CiAgICAiIiJSZXR1cm4gdGhlIHNlcmlhbGl6ZWQgRGVmc1N0YXRlSW5mbyB0byB1c2UgYXQgc2VydmVyIGJvb3QuCgogICAgSWYgREFHU1RFUl9ERUZTX1NUQVRFX0lORk9fT1ZFUlJJREVfUEFUSCBpcyBzZXQgYW5kIHRoZSBmaWxlIGF0IHRoYXQgcGF0aAogICAgaXMgcmVhZGFibGUsIGl0cyBjb250ZW50cyBhcmUgYXV0aG9yaXRhdGl2ZSBhbmQgd2luIG92ZXIgdGhlCiAgICAtLWRlZnMtc3RhdGUtaW5mbyBDTEkgYXJnIOKAlCBpbmNsdWRpbmcgd2hlbiB0aGUgZmlsZSBpcyBlbXB0eSwgd2hpY2ggbWVhbnMKICAgICJleHBsaWNpdGx5IG5vIHBpbi4iIFRoZSBDTEkgYXJnIGlzIG9ubHkgdXNlZCB3aGVuIHRoZSBlbnYgdmFyIGlzIHVuc2V0IG9yCiAgICB0aGUgZmlsZSBpcyB1bnJlYWRhYmxlL21pc3NpbmcuCgogICAgRW1wdHkgbXVzdCBtZWFuICJubyBwaW4iIHJhdGhlciB0aGFuICJmYWxsIGJhY2sgdG8gdGhlIGFyZyI6IHRoZSBsYXVuY2hlcgogICAgdGhhdCB3cml0ZXMgdGhlIGZpbGUgbWF5IGhhdmUgbW92ZWQgdGhlIHBpbiBmcm9tIHNvbWUgdmFsdWUgdG8gTm9uZSBhZnRlcgogICAgdGhlIHBvZCBzcGVjIHdhcyBjcmVhdGVkLCBhbmQgdGhlIHNwZWMgYXJncyBzdGlsbCBjYXJyeSB0aGUgb2xkIHZhbHVlLiBBCiAgICByZXN0YXJ0IHRoYXQgZmVsbCBiYWNrIHRvIHRoZSBhcmcgd291bGQgc2lsZW50bHkgcmV2aXZlIHRoZSBzdGFsZSBwaW4uCgogICAgVGhpcyBsZXRzIGEgbGF1bmNoZXIgKGUuZy4gSzhzVXNlckNvZGVMYXVuY2hlcikgdXBkYXRlIHRoZSBwaW4gdmlhIGEKICAgIENvbmZpZ01hcC1tb3VudGVkIGZpbGUgd2l0aG91dCByZXdyaXRpbmcgdGhlIHBvZCdzIHNwZWMgYXJncyDigJQgd2hpY2gKICAgIHdvdWxkIG90aGVyd2lzZSB0cmlnZ2VyIGEgcm9sbGluZyByZXN0YXJ0IGFuZCBkZWZlYXQgaW4tcGxhY2UgcmVsb2FkLgogICAgUmVhZHMgYXQgYm9vdCBvbmx5OyBsaXZlIHVwZGF0ZXMgZmxvdyB0aHJvdWdoIHRoZSBnUlBDIFJlbG9hZENvZGVXaXRoU3RhdGUKICAgIFJQQywgbm90IHRoZSBmaWxlLgogICAgIiIiCiAgICBvdmVycmlkZV9wYXRoID0gb3MuZW52aXJvbi5nZXQoREVGU19TVEFURV9JTkZPX09WRVJSSURFX1BBVEhfRU5WKQogICAgaWYgbm90IG92ZXJyaWRlX3BhdGg6CiAgICAgICAgcmV0dXJuIHNlcmlhbGl6ZWRfYXJnCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKG92ZXJyaWRlX3BhdGgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgIGNvbnRlbnQgPSBmLnJlYWQoKS5zdHJpcCgpCiAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgbG9nZ2VyLmluZm8oCiAgICAgICAgICAgICIlcyBzZXQgdG8gJXMgYnV0IGZpbGUgbm90IGZvdW5kOyBmYWxsaW5nIGJhY2sgdG8gLS1kZWZzLXN0YXRlLWluZm8gYXJnLiIsCiAgICAgICAgICAgIERFRlNfU1RBVEVfSU5GT19PVkVSUklERV9QQVRIX0VOViwKICAgICAgICAgICAgb3ZlcnJpZGVfcGF0aCwKICAgICAgICApCiAgICAgICAgcmV0dXJuIHNlcmlhbGl6ZWRfYXJnCiAgICBleGNlcHQgT1NFcnJvciBhcyBlOgogICAgICAgIGxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAiQ291bGQgbm90IHJlYWQgZGVmc19zdGF0ZV9pbmZvIG92ZXJyaWRlIGF0ICVzOiAlczsgIgogICAgICAgICAgICAiZmFsbGluZyBiYWNrIHRvIC0tZGVmcy1zdGF0ZS1pbmZvIGFyZy4iLAogICAgICAgICAgICBvdmVycmlkZV9wYXRoLAogICAgICAgICAgICBlLAogICAgICAgICkKICAgICAgICByZXR1cm4gc2VyaWFsaXplZF9hcmcKICAgIGlmIG5vdCBjb250ZW50OgogICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAiRGVmcyBzdGF0ZSBvdmVycmlkZSBmaWxlICVzIHByZXNlbnQgYnV0IGVtcHR5OyBib290aW5nIHdpdGggbm8gZGVmc19zdGF0ZV9pbmZvIHBpbi4iLAogICAgICAgICAgICBvdmVycmlkZV9wYXRoLAogICAgICAgICkKICAgICAgICByZXR1cm4gTm9uZQogICAgbG9nZ2VyLmluZm8oCiAgICAgICAgIkxvYWRlZCBkZWZzX3N0YXRlX2luZm8gZnJvbSBvdmVycmlkZSBmaWxlICVzIChsZW49JWQpLiIsCiAgICAgICAgb3ZlcnJpZGVfcGF0aCwKICAgICAgICBsZW4oY29udGVudCksCiAgICApCiAgICByZXR1cm4gY29udGVudAo=
+import logging
+import os
+import tempfile
+from collections.abc import Callable, Iterable, Iterator, Mapping
+from contextlib import contextmanager
+from typing import TYPE_CHECKING, Any, TypeVar
+
+import click
+
+import dagster._check as check
+from dagster._core.instance import DagsterInstance, InstanceRef
+from dagster._core.instance.config import is_dagster_home_set
+from dagster._core.secrets.env_file import get_env_var_dict
+from dagster._utils.env import environ
+
+T_Callable = TypeVar("T_Callable", bound=Callable[..., Any])
+
+if TYPE_CHECKING:
+    from dagster._core.remote_representation.external import RemoteRepository
+
+
+def has_pyproject_dagster_block(path: str) -> bool:
+    import tomli  # defer for perf
+
+    if not os.path.exists(path):
+        return False
+    with open(path, "rb") as f:
+        data = tomli.load(f)
+        if not isinstance(data, dict):
+            return False
+
+        return "dagster" in data.get("tool", {}) or "dg" in data.get("tool", {})
+
+
+@contextmanager
+def _inject_local_env_file(logger: logging.Logger) -> Iterator[None]:
+    dotenv_file_path = os.getcwd()
+
+    env_var_dict = get_env_var_dict(dotenv_file_path)
+
+    with environ(env_var_dict):
+        if len(env_var_dict):
+            logger.info(
+                "Loaded environment variables from .env file: "
+                + ",".join([env_var for env_var in env_var_dict]),
+            )
+        yield
+
+
+TMP_DAGSTER_HOME_PREFIX = ".tmp_dagster_home_"
+
+
+@contextmanager
+def _get_temporary_instance(cli_command: str, logger: logging.Logger) -> Iterator[DagsterInstance]:
+    # make the temp dir in the cwd since default temp dir roots
+    # have issues with FS notify-based event log watching
+    # use a fixed prefix so that consumer projects can reliably manage,
+    # e.g., add to .gitignore
+    with tempfile.TemporaryDirectory(prefix=TMP_DAGSTER_HOME_PREFIX, dir=os.getcwd()) as tempdir:
+        logger.info(
+            f"Using temporary directory {tempdir} for storage. This will be removed when"
+            f" {cli_command} exits."
+        )
+        logger.info(
+            "To persist information across sessions, set the environment variable DAGSTER_HOME"
+            " to a directory to use."
+        )
+
+        with DagsterInstance.from_ref(
+            InstanceRef.from_dir(tempdir, config_dir=os.getcwd())
+        ) as instance:
+            yield instance
+
+
+@contextmanager
+def get_temporary_instance_for_cli(
+    cli_command: str = "this command",
+    logger: logging.Logger = logging.getLogger("dagster"),
+) -> Iterator[DagsterInstance]:
+    with _inject_local_env_file(logger):
+        with _get_temporary_instance(cli_command, logger) as instance:
+            yield instance
+
+
+@contextmanager
+def get_possibly_temporary_instance_for_cli(
+    cli_command: str = "this command",
+    instance_ref: InstanceRef | None = None,
+    logger: logging.Logger = logging.getLogger("dagster"),
+) -> Iterator[DagsterInstance]:
+    """Create an instance at the entrypoint for a dagster CLI command. Handles loading
+    any environment variables from a local .env file and finding the right path to load
+    the instance from. If DAGSTER_HOME is not set and an instance_ref is not passed in, will
+    create a temporary dagster.yaml file under the cwd.
+
+    Parameters:
+    cli_command: The name of the command - optional, used for logging messages.
+    instance_ref: For commands that delegate to other commands, they can pass in
+        a serialized instance_ref object rather than loading it from a dagster.yaml file.
+    logger: Customize any log messages emitted while creating the instance.
+    """
+    with _inject_local_env_file(logger):
+        if instance_ref:
+            with DagsterInstance.from_ref(instance_ref) as instance:
+                yield instance
+        elif is_dagster_home_set():
+            with DagsterInstance.get() as instance:
+                yield instance
+        else:
+            with _get_temporary_instance(cli_command, logger) as instance:
+                yield instance
+
+
+@contextmanager
+def get_instance_for_cli(
+    instance_ref: InstanceRef | None = None,
+    logger: logging.Logger = logging.getLogger("dagster"),
+) -> Iterator[DagsterInstance]:
+    """Create an instance at the entrypoint for a dagster CLI command. Handles loading
+    any environment variables from a local .env file and finding the right path to load
+    the instance from. Requires DAGSTER_HOME to be set or instance_ref to be passed in.
+
+    Parameters:
+    cli_command: The name of the command - optional, used for logging messages.
+    instance_ref: For commands that delegate to other commands, they can pass in
+        a serialized instance_ref object rather than loading it from a dagster.yaml file.
+    logger: Customize any log messages emitted while creating the instance.
+    """
+    with _inject_local_env_file(logger):
+        if instance_ref:
+            with DagsterInstance.from_ref(instance_ref) as instance:
+                yield instance
+        else:
+            with DagsterInstance.get() as instance:
+                yield instance
+
+
+def assert_no_remaining_opts(opts: Mapping[str, object]) -> None:
+    if opts:
+        check.failed(
+            f"Unexpected options remaining: {list(opts.keys())}. Ensure that all options are extracted."
+        )
+
+
+def serialize_sorted_quoted(strings: Iterable[str]) -> str:
+    return "[" + ", ".join([f"'{s}'" for s in sorted(list(strings))]) + "]"
+
+
+def validate_dagster_home_is_set() -> None:
+    if not is_dagster_home_set():
+        raise click.UsageError(
+            "The environment variable $DAGSTER_HOME is not set. Dagster requires this "
+            "environment variable to be set to an existing directory in your filesystem "
+            "that contains your dagster instance configuration file (dagster.yaml).\n"
+            "You can resolve this error by exporting the environment variable."
+            "For example, you can run the following command in your shell or "
+            "include it in your shell configuration file:\n"
+            '\texport DAGSTER_HOME="~/dagster_home"'
+            "\n\n"
+        )
+
+
+def validate_repo_has_defined_sensors(repo: "RemoteRepository") -> None:
+    if not repo.get_sensors():
+        raise click.UsageError(f"There are no sensors defined for repository {repo.name}.")
+
+
+def validate_repo_has_defined_schedules(repo: "RemoteRepository") -> None:
+    if not repo.get_schedules():
+        raise click.UsageError(f"There are no schedules defined for repository {repo.name}.")
+
+
+DEFS_STATE_INFO_OVERRIDE_PATH_ENV = "DAGSTER_DEFS_STATE_INFO_OVERRIDE_PATH"
+
+
+def resolve_serialized_defs_state_info(
+    serialized_arg: str | None,
+    logger: logging.Logger,
+) -> str | None:
+    """Return the serialized DefsStateInfo to use at server boot.
+
+    If DAGSTER_DEFS_STATE_INFO_OVERRIDE_PATH is set and the file at that path
+    is readable, its contents are authoritative and win over the
+    --defs-state-info CLI arg — including when the file is empty, which means
+    "explicitly no pin." The CLI arg is only used when the env var is unset or
+    the file is unreadable/missing.
+
+    Empty must mean "no pin" rather than "fall back to the arg": the launcher
+    that writes the file may have moved the pin from some value to None after
+    the pod spec was created, and the spec args still carry the old value. A
+    restart that fell back to the arg would silently revive the stale pin.
+
+    This lets a launcher (e.g. K8sUserCodeLauncher) update the pin via a
+    ConfigMap-mounted file without rewriting the pod's spec args — which
+    would otherwise trigger a rolling restart and defeat in-place reload.
+    Reads at boot only; live updates flow through the gRPC ReloadCodeWithState
+    RPC, not the file.
+    """
+    override_path = os.environ.get(DEFS_STATE_INFO_OVERRIDE_PATH_ENV)
+    if not override_path:
+        return serialized_arg
+    try:
+        with open(override_path, encoding="utf-8") as f:
+            content = f.read().strip()
+    except FileNotFoundError:
+        logger.info(
+            "%s set to %s but file not found; falling back to --defs-state-info arg.",
+            DEFS_STATE_INFO_OVERRIDE_PATH_ENV,
+            override_path,
+        )
+        return serialized_arg
+    except OSError as e:
+        logger.warning(
+            "Could not read defs_state_info override at %s: %s; "
+            "falling back to --defs-state-info arg.",
+            override_path,
+            e,
+        )
+        return serialized_arg
+    if not content:
+        logger.info(
+            "Defs state override file %s present but empty; booting with no defs_state_info pin.",
+            override_path,
+        )
+        return None
+    logger.info(
+        "Loaded defs_state_info from override file %s (len=%d).",
+        override_path,
+        len(content),
+    )
+    return content

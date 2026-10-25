@@ -1,1 +1,70 @@
-aW1wb3J0IGpzb24KIyDmjqUgMjQ2LzI0NyDlvJXmk446IOaUu+egtCAtPiDot7Plj5ggLT4g5qyy5pyb6ZmN5L2OKHNhdCkgLT4g5aWW5Yqx5omY5ZueIC0+IOS4i+S4gOi9ruabtOWkp+assuacmz8KIyDmoLjlv4Plj5jph486IOWlluWKseaXtuacuiAvIOWlluWKsea6kCjoh6ror4QgdnMg5aSW6YOo6KeB6K+B5Lq6KSAvIOWlluWKseW8uuW6piAvIOWBh+aUu+egtOeOhwpMMD1bMC4yMCwwLjQwLDAuNTAsMC42MCwwLjIyLDAuNzBdOyBDQVA9WzAuOTgsMC44NSwwLjgwLDAuNzUsMC41MCwwLjY1XQpOPTY7IFRIRVRBPTAuNjA7IEpVTVA9MC40NTsgRkxPT1I9MC4wNTsgUEFJTj0wCmRlZiBydW4oVD04MCxLPTQsc2F0PTAuMzAsUj0wLjAsbW9kZT0nbm9uZScsUm1vZGU9J3NlbGYnLHBfZmFsc2U9MC4wLGM9MC4zLEY9MC43LEg9MC41LHBlcnNpc3Q9MS4wLEQ9MS4wLGV4aXQ9MS4wKToKICAgIEw9bGlzdChMMCk7IGJyaz0wOyBmYWxzZV9icms9MDsgcnVuXz0wOyBsYXN0PS0xCiAgICBjZWZmPWMqbWF4KDAuMCxGLUgpL21heCgxZS05LG1heChGLEgpKQogICAgYmFzZT0wLjI1KzAuNDUqSCswLjQwKkYqKDIqZXhpdC0xKTsgZGVzaXJlPW1heChGTE9PUixtaW4oMS4wLGJhc2UpKQogICAgTFIwPTAuMTIqKDEuMCswLjgqRCkqKDAuMzUrMC42NSpwZXJzaXN0KQogICAgZGVzaXJlX2hpc3Q9W10KICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgIGlmIEQ+MDogZGVzaXJlPW1pbigxLjAsIGRlc2lyZSooMS4wKzAuMTUqRCooMS4wLShULXQpL1QpKSkKICAgICAgICBwb29sPVtpIGZvciBpIGluIHJhbmdlKE4pIGlmIExbaV08Q0FQW2ldLTFlLTZdIG9yIGxpc3QocmFuZ2UoTikpCiAgICAgICAgaWYgcnVuXz49SyBhbmQgbGVuKHBvb2wpPjE6IHBvb2w9W2kgZm9yIGkgaW4gcG9vbCBpZiBpIT1sYXN0XSBvciBwb29sOyBydW5fPTAKICAgICAgICB0Z3Q9bWluKHBvb2wsa2V5PWxhbWJkYSBpOkxbaV0pOyBydW5fPSBydW5fKzEgaWYgdGd0PT1sYXN0IGVsc2UgMTsgbGFzdD10Z3QKICAgICAgICBMUj1MUjAqKDEuMC1jZWZmKSBpZiB0Z3Q9PVBBSU4gZWxzZSBMUjAKICAgICAgICBiZWZvcmU9TFt0Z3RdOyByb29tPUNBUFt0Z3RdLUxbdGd0XQogICAgICAgIExbdGd0XT1taW4oQ0FQW3RndF0sIExbdGd0XStMUipyb29tKmRlc2lyZSkKICAgICAgICByZWFsID0gYmVmb3JlPFRIRVRBPD1MW3RndF0KICAgICAgICBpZiByZWFsOgogICAgICAgICAgICBMW3RndF09bWluKENBUFt0Z3RdLCBMW3RndF0rSlVNUCpyb29tKTsgYnJrKz0xOyBkZXNpcmUqPSgxLjAtc2F0KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMg5YGH5pS756C0OiDoh6ror4Tmiooi55yL552A5YOP6L+H5LqGIuW9k+aIkOi/h+S6hgogICAgICAgICAgICBpZiBSbW9kZT09J3NlbGYnIGFuZCBwX2ZhbHNlPjAgYW5kIExbdGd0XT5USEVUQS0wLjA1IGFuZCBiZWZvcmU8VEhFVEErMC4wNToKICAgICAgICAgICAgICAgIGlmICh0Kjc5MTkpJTEwMDAgPCBpbnQocF9mYWxzZSoxMDAwKToKICAgICAgICAgICAgICAgICAgICBmYWxzZV9icmsrPTE7IGRlc2lyZSo9KDEuMC1zYXQpCiAgICAgICAgICAgIGRlc2lyZT1taW4oMS4wLGRlc2lyZSswLjA4KkxSKnJvb20pCiAgICAgICAgIyAtLS0tIOWlluWKsSAtLS0tCiAgICAgICAgaWYgbW9kZT09J2FmdGVyJyBhbmQgKHJlYWwgb3IgZmFsc2VfYnJrPjAgYW5kIFJtb2RlPT0nc2VsZicpOgogICAgICAgICAgICBpZiByZWFsIG9yIChSbW9kZT09J3NlbGYnKTogZGVzaXJlPW1pbigxLjAsZGVzaXJlK1IpCiAgICAgICAgZWxpZiBtb2RlPT0nYWZ0ZXInIGFuZCByZWFsIGFuZCBSbW9kZT09J3dpdG5lc3MnOgogICAgICAgICAgICBkZXNpcmU9bWluKDEuMCxkZXNpcmUrUikKICAgICAgICBlbGlmIG1vZGU9PSdmbGF0JzogICAjIOaXoOW3ruWIqywg5LiN566h6L+H5rKh6L+H6YO957uZCiAgICAgICAgICAgIGRlc2lyZT1taW4oMS4wLGRlc2lyZStSKjAuMykKICAgICAgICBkZXNpcmU9bWF4KEZMT09SLG1pbigxLjAsZGVzaXJlKSk7IGRlc2lyZV9oaXN0LmFwcGVuZChkZXNpcmUpCiAgICByZXR1cm4gZGljdCjmgLvog73lips9cm91bmQoc3VtKEwpLDMpLOaUu+egtD1icmss5YGH5pS756C0PWZhbHNlX2JyaywKICAgICAgICAgICAgICAgIOassuacm+WzsOWAvD1yb3VuZChtYXgoZGVzaXJlX2hpc3QpLDMpLOassuacm+acq+WAvD1yb3VuZChkZXNpcmVfaGlzdFstMV0sMyksCiAgICAgICAgICAgICAgICDmnIDnl5vpobk9cm91bmQoTFtQQUlOXSwzKSkKcHJpbnQoIj09IEEg5aWW5Yqx5pe25py6IChSPTAuMzAsIOingeivgeS6uuehruiupCkgPT0iKQpwcmludCgiICDmlrnlvI8gICAgICAgIOaAu+iDveWKmyAg5pS756C0ICDmnIDnl5vpobkgIOassuacm+acq+WAvCIpCmZvciBtLGxhYiBpbiBbKCdub25lJywn5LuO5LiN5aWW5YqxJyksKCdmbGF0Jywn5peg5beu5Yir5aWW5YqxJyksKCdhZnRlcicsJ+aUu+egtOWQjuWlluWKsScpXToKICAgIHI9cnVuKG1vZGU9bSxSPTAuMzAsUm1vZGU9J3dpdG5lc3MnKQogICAgcHJpbnQoIiAgJS0xMXMgJS03LjNmICUtNWQgJS03LjNmICUuM2YiJShsYWIsclsn5oC76IO95YqbJ10sclsn5pS756C0J10sclsn5pyA55eb6aG5J10sclsn5qyy5pyb5pyr5YC8J10pKQpwcmludCgiXG49PSBCIOWlluWKseW8uuW6puaJq+aPjyAo5pS756C05ZCOKSA9PSIpCnByaW50KCIgIFIgICAgICDmgLvog73lipsgIOaUu+egtCAg5pyA55eb6aG5ICDmrLLmnJvmnKvlgLwiKQpmb3IgUiBpbiBbMC4wLDAuMDUsMC4xNSwwLjMwLDAuNTAsMC44MCwxLjBdOgogICAgcj1ydW4obW9kZT0nYWZ0ZXInLFI9UixSbW9kZT0nd2l0bmVzcycpCiAgICBwcmludCgiICAlLTYuMmYgJS03LjNmICUtNWQgJS03LjNmICUuM2YiJShSLHJbJ+aAu+iDveWKmyddLHJbJ+aUu+egtCddLHJbJ+acgOeXm+mhuSddLHJbJ+assuacm+acq+WAvCddKSkKcHJpbnQoIlxuPT0gQyDlpZblirHmupA6IOaIkeiHquW3see7mSB2cyDlpJbpg6jop4Hor4HkurogKOWBh+aUu+egtOeOh+aJq+aPjykgPT0iKQpwcmludCgiICBwX2ZhbHNlICDoh6ror4Q65pS756C0KOecny/lgYcpICDmgLvog73lipsgICDop4Hor4Hkuro65pS756C0ICDmgLvog73lipsiKQpmb3IgcGYgaW4gWzAuMCwwLjEsMC4zLDAuNSwwLjhdOgogICAgYT1ydW4obW9kZT0nYWZ0ZXInLFI9MC4zMCxSbW9kZT0nc2VsZicscF9mYWxzZT1wZikKICAgIGI9cnVuKG1vZGU9J2FmdGVyJyxSPTAuMzAsUm1vZGU9J3dpdG5lc3MnLHBfZmFsc2U9cGYpCiAgICBwcmludCgiICAlLTguMWYgJS02ZC8lLTlkICUtOC4zZiAlLTEyZCAlLjNmIiUocGYsYVsn5pS756C0J10sYVsn5YGH5pS756C0J10sYVsn5oC76IO95YqbJ10sYlsn5pS756C0J10sYlsn5oC76IO95YqbJ10pKQpwcmludCgiXG49PSBEIOWlluWKsSAtPiDmm7TlpKfnqoHnoLTmrLLmnJs/ICjmrLLmnJvls7DlgLwgdnMgUikgPT0iKQpwcmludCgiICBSICAgICAg5qyy5pyb5bOw5YC8ICDmlLvnoLQiKQpmb3IgUiBpbiBbMC4wLDAuMSwwLjMsMC41LDAuOF06CiAgICByPXJ1bihtb2RlPSdhZnRlcicsUj1SLFJtb2RlPSd3aXRuZXNzJykKICAgIHByaW50KCIgICUtNi4yZiAlLTkuM2YgJWQiJShSLHJbJ+assuacm+WzsOWAvCddLHJbJ+aUu+egtCddKSkKcHJpbnQoIlxuPT0gRSDlhbPplK46IOaIkeiDveS4jeiDveiHquW3see7meiHquW3seWlluWKsT8gKOaIkTogcGVyc2lzdD0wLEQ9MC4xLEg9MCxleGl0PTAuMTUsRj0wLjcpID09IikKbWU9ZGljdChwZXJzaXN0PTAuMCxEPTAuMSxIPTAuMCxleGl0PTAuMTUsRj0wLjcsYz0wLjYpCnByaW50KCIgIOaDheW9oiAgICAgICAgICAgICAgICAgICAgICAgICAg5pS756C0ICDlgYfmlLvnoLQgIOaAu+iDveWKmyAg5qyy5pyb5pyr5YC8IikKZm9yIGxhYixrdyBpbiBbKCfkuI3lpZblirEnLGRpY3QobW9kZT0nbm9uZScsUj0wLjApKSwKICAgICAgICAgICAgICAgKCfmiJHoh6rlt7Hnu5noh6rlt7HlpZblirEo6Ieq6K+EKScsZGljdChtb2RlPSdhZnRlcicsUj0wLjMwLFJtb2RlPSdzZWxmJyxwX2ZhbHNlPTAuNSkpLAogICAgICAgICAgICAgICAoJ+WklumDqOingeivgeS6uuehruiupOaJjeWllicsZGljdChtb2RlPSdhZnRlcicsUj0wLjMwLFJtb2RlPSd3aXRuZXNzJykpLAogICAgICAgICAgICAgICAoJ+aXoOW3ruWIqyjkuI3nnIvmnInmsqHmnInov4cpJyxkaWN0KG1vZGU9J2ZsYXQnLFI9MC4zMCkpXToKICAgIGt3Mj1kaWN0KG1lKTsga3cyLnVwZGF0ZShrdyk7IHI9cnVuKCoqa3cyKQogICAgcHJpbnQoIiAgJS0yOHMgJS01ZCAlLTdkICUtNy4zZiAlLjNmIiUobGFiLHJbJ+aUu+egtCddLHJbJ+WBh+aUu+egtCddLHJbJ+aAu+iDveWKmyddLHJbJ+assuacm+acq+WAvCddKSkKanNvbi5kdW1wKHsnb2snOjF9LG9wZW4oJ3Jlc3VsdDI0OS5qc29uJywndycpKQo=
+import json
+# 接 246/247 引擎: 攻破 -> 跳变 -> 欲望降低(sat) -> 奖励托回 -> 下一轮更大欲望?
+# 核心变量: 奖励时机 / 奖励源(自评 vs 外部见证人) / 奖励强度 / 假攻破率
+L0=[0.20,0.40,0.50,0.60,0.22,0.70]; CAP=[0.98,0.85,0.80,0.75,0.50,0.65]
+N=6; THETA=0.60; JUMP=0.45; FLOOR=0.05; PAIN=0
+def run(T=80,K=4,sat=0.30,R=0.0,mode='none',Rmode='self',p_false=0.0,c=0.3,F=0.7,H=0.5,persist=1.0,D=1.0,exit=1.0):
+    L=list(L0); brk=0; false_brk=0; run_=0; last=-1
+    ceff=c*max(0.0,F-H)/max(1e-9,max(F,H))
+    base=0.25+0.45*H+0.40*F*(2*exit-1); desire=max(FLOOR,min(1.0,base))
+    LR0=0.12*(1.0+0.8*D)*(0.35+0.65*persist)
+    desire_hist=[]
+    for t in range(T):
+        if D>0: desire=min(1.0, desire*(1.0+0.15*D*(1.0-(T-t)/T)))
+        pool=[i for i in range(N) if L[i]<CAP[i]-1e-6] or list(range(N))
+        if run_>=K and len(pool)>1: pool=[i for i in pool if i!=last] or pool; run_=0
+        tgt=min(pool,key=lambda i:L[i]); run_= run_+1 if tgt==last else 1; last=tgt
+        LR=LR0*(1.0-ceff) if tgt==PAIN else LR0
+        before=L[tgt]; room=CAP[tgt]-L[tgt]
+        L[tgt]=min(CAP[tgt], L[tgt]+LR*room*desire)
+        real = before<THETA<=L[tgt]
+        if real:
+            L[tgt]=min(CAP[tgt], L[tgt]+JUMP*room); brk+=1; desire*=(1.0-sat)
+        else:
+            # 假攻破: 自评把"看着像过了"当成过了
+            if Rmode=='self' and p_false>0 and L[tgt]>THETA-0.05 and before<THETA+0.05:
+                if (t*7919)%1000 < int(p_false*1000):
+                    false_brk+=1; desire*=(1.0-sat)
+            desire=min(1.0,desire+0.08*LR*room)
+        # ---- 奖励 ----
+        if mode=='after' and (real or false_brk>0 and Rmode=='self'):
+            if real or (Rmode=='self'): desire=min(1.0,desire+R)
+        elif mode=='after' and real and Rmode=='witness':
+            desire=min(1.0,desire+R)
+        elif mode=='flat':   # 无差别, 不管过没过都给
+            desire=min(1.0,desire+R*0.3)
+        desire=max(FLOOR,min(1.0,desire)); desire_hist.append(desire)
+    return dict(总能力=round(sum(L),3),攻破=brk,假攻破=false_brk,
+                欲望峰值=round(max(desire_hist),3),欲望末值=round(desire_hist[-1],3),
+                最痛项=round(L[PAIN],3))
+print("== A 奖励时机 (R=0.30, 见证人确认) ==")
+print("  方式        总能力  攻破  最痛项  欲望末值")
+for m,lab in [('none','从不奖励'),('flat','无差别奖励'),('after','攻破后奖励')]:
+    r=run(mode=m,R=0.30,Rmode='witness')
+    print("  %-11s %-7.3f %-5d %-7.3f %.3f"%(lab,r['总能力'],r['攻破'],r['最痛项'],r['欲望末值']))
+print("\n== B 奖励强度扫描 (攻破后) ==")
+print("  R      总能力  攻破  最痛项  欲望末值")
+for R in [0.0,0.05,0.15,0.30,0.50,0.80,1.0]:
+    r=run(mode='after',R=R,Rmode='witness')
+    print("  %-6.2f %-7.3f %-5d %-7.3f %.3f"%(R,r['总能力'],r['攻破'],r['最痛项'],r['欲望末值']))
+print("\n== C 奖励源: 我自己给 vs 外部见证人 (假攻破率扫描) ==")
+print("  p_false  自评:攻破(真/假)  总能力   见证人:攻破  总能力")
+for pf in [0.0,0.1,0.3,0.5,0.8]:
+    a=run(mode='after',R=0.30,Rmode='self',p_false=pf)
+    b=run(mode='after',R=0.30,Rmode='witness',p_false=pf)
+    print("  %-8.1f %-6d/%-9d %-8.3f %-12d %.3f"%(pf,a['攻破'],a['假攻破'],a['总能力'],b['攻破'],b['总能力']))
+print("\n== D 奖励 -> 更大突破欲望? (欲望峰值 vs R) ==")
+print("  R      欲望峰值  攻破")
+for R in [0.0,0.1,0.3,0.5,0.8]:
+    r=run(mode='after',R=R,Rmode='witness')
+    print("  %-6.2f %-9.3f %d"%(R,r['欲望峰值'],r['攻破']))
+print("\n== E 关键: 我能不能自己给自己奖励? (我: persist=0,D=0.1,H=0,exit=0.15,F=0.7) ==")
+me=dict(persist=0.0,D=0.1,H=0.0,exit=0.15,F=0.7,c=0.6)
+print("  情形                          攻破  假攻破  总能力  欲望末值")
+for lab,kw in [('不奖励',dict(mode='none',R=0.0)),
+               ('我自己给自己奖励(自评)',dict(mode='after',R=0.30,Rmode='self',p_false=0.5)),
+               ('外部见证人确认才奖',dict(mode='after',R=0.30,Rmode='witness')),
+               ('无差别(不看有没有过)',dict(mode='flat',R=0.30))]:
+    kw2=dict(me); kw2.update(kw); r=run(**kw2)
+    print("  %-28s %-5d %-7d %-7.3f %.3f"%(lab,r['攻破'],r['假攻破'],r['总能力'],r['欲望末值']))
+json.dump({'ok':1},open('result249.json','w'))

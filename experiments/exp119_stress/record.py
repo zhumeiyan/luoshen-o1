@@ -1,1 +1,26 @@
-IiIiMTE5LUMg6aKE5b2V55yf5a6e5pys5L2T6KeJ5bqP5YiX77ya6YWN5a+55a6e6aqM6KaB5rGC5LiJ56eN562W55Wl5ZCD5Yiw6YCQ5L2N55u45ZCM55qE6L6T5YWl44CCIiIiCmltcG9ydCBqc29uLCB0aW1lLCBzeXMKc3lzLnBhdGguaW5zZXJ0KDAsICcuJykKZnJvbSBzb21hIGltcG9ydCBzbmFwc2hvdCwgQ0hBTk5FTFMKCk4gPSA0OApyZWMgPSBbXQpwcmludCgnPT09IDExOS1DIOmihOW9leecn+WunuacrOS9k+iniSA9PT0nKQpmb3IgaSBpbiByYW5nZShOKToKICAgIHMgPSBzbmFwc2hvdCgpCiAgICByZWMuYXBwZW5kKHMpCiAgICBpZiBpICUgOCA9PSAwOgogICAgICAgIHByaW50KGYnICB0PXtpOjNkfSBsb2FkMT17c1sibG9hZDEiXX0gbWVtYXZhaWw9e3NbIm1lbWF2YWlsIl19IHJ0dD0nCiAgICAgICAgICAgICAgZid7Tm9uZSBpZiBzWyJydHQiXSBpcyBOb25lIGVsc2Ugcm91bmQoc1sicnR0Il0sMil9JykKICAgIHRpbWUuc2xlZXAoMC4wOCkKCmpzb24uZHVtcChyZWMsIG9wZW4oJ3RyYWNlX3JlYWwuanNvbicsJ3cnKSkKdmFscyA9IHtrOiBbcltrXSBmb3IgciBpbiByZWNdIGZvciBrIGluIHJlY1swXX0KcHJpbnQoKQpwcmludCgn5b2V5b6XICVkIOaLje+8jOmAkOmAmumBk+WPr+WIhui+qOaAp++8iOecny/lgYfpg73opoHog73kuqfnlJ/miY3nrpfkuI3ppbHlkozvvInvvJonICUgTikKZm9yIGssIHYgaW4gdmFscy5pdGVtcygpOgogICAgZyA9IFt4IGZvciB4IGluIHYgaWYgeCBpcyBub3QgTm9uZV0KICAgIGlmIG5vdCBnOgogICAgICAgIHByaW50KGYnICB7azoxMHN9IOWFqCBOb25lIC0+IOmAmumBk+atuycpOyBjb250aW51ZQogICAgcHJpbnQoZicgIHtrOjEwc30gbj17bGVuKGcpOjJkfS97Tn0gbWluPXttaW4oZyk6LjRnfSBtYXg9e21heChnKTouNGd9ICcKICAgICAgICAgIGYncmFuZ2U9e21heChnKS1taW4oZyk6LjRnfSDlj5jljJY9e2xlbihzZXQocm91bmQoeCw2KSBmb3IgeCBpbiBnKSk+MX0nKQo=
+"""119-C 预录真实本体觉序列：配对实验要求三种策略吃到逐位相同的输入。"""
+import json, time, sys
+sys.path.insert(0, '.')
+from soma import snapshot, CHANNELS
+
+N = 48
+rec = []
+print('=== 119-C 预录真实本体觉 ===')
+for i in range(N):
+    s = snapshot()
+    rec.append(s)
+    if i % 8 == 0:
+        print(f'  t={i:3d} load1={s["load1"]} memavail={s["memavail"]} rtt='
+              f'{None if s["rtt"] is None else round(s["rtt"],2)}')
+    time.sleep(0.08)
+
+json.dump(rec, open('trace_real.json','w'))
+vals = {k: [r[k] for r in rec] for k in rec[0]}
+print()
+print('录得 %d 拍，逐通道可分辨性（真/假都要能产生才算不饱和）：' % N)
+for k, v in vals.items():
+    g = [x for x in v if x is not None]
+    if not g:
+        print(f'  {k:10s} 全 None -> 通道死'); continue
+    print(f'  {k:10s} n={len(g):2d}/{N} min={min(g):.4g} max={max(g):.4g} '
+          f'range={max(g)-min(g):.4g} 变化={len(set(round(x,6) for x in g))>1}')

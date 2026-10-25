@@ -1,1 +1,43 @@
-aW1wb3J0IGpzb24KaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCdBZ2cnKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBudW1weSBhcyBucApwbHQucmNQYXJhbXNbJ2ZvbnQuc2Fucy1zZXJpZiddPVsnV2VuUXVhbllpIE1pY3JvIEhlaSddCnBsdC5yY1BhcmFtc1snYXhlcy51bmljb2RlX21pbnVzJ109RmFsc2UKUj1qc29uLmxvYWQob3BlbigncmVzdWx0MTQ4Lmpzb24nKSkKZmlnLGF4PXBsdC5zdWJwbG90cygyLDMsZmlnc2l6ZT0oMTUsOCkpCiMgMSDmoqYKcD0nc3RhYmxlJzsgZD1SWydkcmVhbSddW3BdCm5hbWVzPVsncmVhbCcsJ3JldicsJ3NodWYnLCdjcm9zcycsJ25vaXNlJ107IHZhbHM9W2RbY11bJ2dhaW4nXSBmb3IgYyBpbiBuYW1lc10KZXJycz1bW21heCgwLGRbY11bJ2dhaW4nXS1kW2NdWydsbyddKSBmb3IgYyBpbiBuYW1lc10sW21heCgwLGRbY11bJ2hpJ10tZFtjXVsnZ2FpbiddKSBmb3IgYyBpbiBuYW1lc11dCmF4WzAsMF0uYmFyKG5hbWVzLHZhbHMseWVycj1lcnJzLGNhcHNpemU9NCxjb2xvcj1bJyMyYTcnLCcjY2NjJywnIzJhNycsJyNjYzcnLCcjYzMzJ10pCmF4WzAsMF0uYXhobGluZSgwLGNvbG9yPSdrJyxsdz0uOCk7IGF4WzAsMF0uc2V0X3RpdGxlKCfmoqY6IGdhaW4gdnMg5LiN5qKmIChzdGFibGXnnJ/lrp5DUFUsIG49OCknKQpheFswLDBdLnNldF95bGFiZWwoJ01BReS4i+mZjSjmraM95pu05aW9KScpCiMgMiBtaXNtYXRjaApkMj1SWydkcmVhbSddWydzcXVhcmUnXQpubTI9WydyZWFsJywnY3Jvc3MnLCdub2lzZScsJ21pc21hdGNoJ107IHYyPVtkMltjXVsnZ2FpbiddIGZvciBjIGluIG5tMl0KZTI9W1ttYXgoMCxkMltjXVsnZ2FpbiddLWQyW2NdWydsbyddKSBmb3IgYyBpbiBubTJdLFttYXgoMCxkMltjXVsnaGknXS1kMltjXVsnZ2FpbiddKSBmb3IgYyBpbiBubTJdXQpheFswLDFdLmJhcihubTIsdjIseWVycj1lMixjYXBzaXplPTQsY29sb3I9WycjMmE3JywnI2NjNycsJyNjMzMnLCcjYTMzJ10pCmF4WzAsMV0uYXhobGluZSgwLGNvbG9yPSdrJyxsdz0uOCk7IGF4WzAsMV0uc2V0X3RpdGxlKCflpITlooPljLnphY06IHNxdWFyZeS4quS9k+WBmuaipiAobj04KScpCiMgMyDliYLph48KcnM9WycxJywnMicsJzQnLCc4J10Kcmc9W1JbJ2Rvc2UnXVtyXVsncmVhbCddWydnYWluJ10gZm9yIHIgaW4gcnNdOyBzZz1bUlsnZG9zZSddW3JdWydzaHVmJ11bJ2dhaW4nXSBmb3IgciBpbiByc10KYXhbMCwyXS5wbG90KHJzLHJnLCdvLScsbGFiZWw9J+ato+W6j3JlYWwnKTsgYXhbMCwyXS5wbG90KHJzLHNnLCdzLS0nLGxhYmVsPSfmiZPkubFzaHVmJykKYXhbMCwyXS5zZXRfdGl0bGUoJ+aipuWJgumHjzog5q2j5bqP5LiO5omT5Lmx6YCQ5L2N6YeN5ZCIJyk7IGF4WzAsMl0ubGVnZW5kKCk7IGF4WzAsMl0uc2V0X3hsYWJlbCgn6YeN5pS+6L2u5pWwJykKIyA0IOaDhee7qumXqApncz1bUlsnZ2F0ZSddW3BdWydnYWluJ10gZm9yIHAgaW4gWydzdGFibGUnLCdkcmlmdCcsJ3NxdWFyZSddXQpnZT1bW21heCgwLFJbJ2dhdGUnXVtwXVsnZ2FpbiddLVJbJ2dhdGUnXVtwXVsnbG8nXSkgZm9yIHAgaW4gWydzdGFibGUnLCdkcmlmdCcsJ3NxdWFyZSddXSwKICAgIFttYXgoMCxSWydnYXRlJ11bcF1bJ2hpJ10tUlsnZ2F0ZSddW3BdWydnYWluJ10pIGZvciBwIGluIFsnc3RhYmxlJywnZHJpZnQnLCdzcXVhcmUnXV1dCmF4WzEsMF0uYmFyKFsnc3RhYmxlJywnZHJpZnQnLCdzcXVhcmUnXSxncyx5ZXJyPWdlLGNhcHNpemU9NCxjb2xvcj1bJyNjMzMnLCcjMmE3JywnI2MzMyddKQpheFsxLDBdLmF4aGxpbmUoMCxjb2xvcj0naycsbHc9LjgpOyBheFsxLDBdLnNldF90aXRsZSgn5oOF57uq6ZeoIGdhaW4gKOatoz3pl6jmjqfmm7Tlpb0pJykKIyA1IOeOqQpwbD1SWydwbGF5J10KYXhbMSwxXS5iYXIoWydwbGF5XG7lhoXpg6jpqbHliqgnLCdyYW5kX25vcmVwXG7pmo/mnLrkuI3ph43lpI0nLCdyYW5kXG7pmo/mnLrlj6/ph43lpI0nXSwKICAgICAgICAgICAgW3BsWydwbGF5J11bJ2VyciddLHBsWydyYW5kX25vcmVwJ11bJ2VyciddLHBsWydyYW5kJ11bJ2VyciddXSwKICAgICAgICAgICAgY29sb3I9WycjMmE3JywnIzI3YScsJyM5OTknXSkKYXhbMSwxXS5zZXRfdGl0bGUoJ+eOqTog5Lyw6K6h55yf5a6e55uu5b2V5bmz5Z2H5paH5Lu25pWwIOebuOWvueivr+W3ricpOyBheFsxLDFdLnNldF95bGFiZWwoJ+ebuOWvueivr+W3rijkvY495aW9KScpCiMgNiDljrvph43nm67lvZUKYXhbMSwyXS5iYXIoWydwbGF5JywncmFuZF9ub3JlcCcsJ3JhbmQnXSxbcGxbJ3BsYXknXVsndW5pcV9kaXJzJ10scGxbJ3JhbmRfbm9yZXAnXVsndW5pcV9kaXJzJ10scGxbJ3JhbmQnXVsndW5pcV9kaXJzJ11dLGNvbG9yPVsnIzJhNycsJyMyN2EnLCcjOTk5J10pCmF4WzEsMl0uc2V0X3lsYWJlbCgn5Y676YeN55uu5b2V5pWwLzMwJyk7IGF4WzEsMl0uc2V0X3RpdGxlKCfmnLrliLY6IOeOqeeahOS7t+WAvD3kuI3ph43lpI3ph4fmoLcnKQpwbHQudGlnaHRfbGF5b3V0KCk7IHBsdC5zYXZlZmlnKCdmaWcxNDgucG5nJyxkcGk9MTAwKQpwcmludCgnb2snKQo=
+import json
+import matplotlib; matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import numpy as np
+plt.rcParams['font.sans-serif']=['WenQuanYi Micro Hei']
+plt.rcParams['axes.unicode_minus']=False
+R=json.load(open('result148.json'))
+fig,ax=plt.subplots(2,3,figsize=(15,8))
+# 1 梦
+p='stable'; d=R['dream'][p]
+names=['real','rev','shuf','cross','noise']; vals=[d[c]['gain'] for c in names]
+errs=[[max(0,d[c]['gain']-d[c]['lo']) for c in names],[max(0,d[c]['hi']-d[c]['gain']) for c in names]]
+ax[0,0].bar(names,vals,yerr=errs,capsize=4,color=['#2a7','#ccc','#2a7','#cc7','#c33'])
+ax[0,0].axhline(0,color='k',lw=.8); ax[0,0].set_title('梦: gain vs 不梦 (stable真实CPU, n=8)')
+ax[0,0].set_ylabel('MAE下降(正=更好)')
+# 2 mismatch
+d2=R['dream']['square']
+nm2=['real','cross','noise','mismatch']; v2=[d2[c]['gain'] for c in nm2]
+e2=[[max(0,d2[c]['gain']-d2[c]['lo']) for c in nm2],[max(0,d2[c]['hi']-d2[c]['gain']) for c in nm2]]
+ax[0,1].bar(nm2,v2,yerr=e2,capsize=4,color=['#2a7','#cc7','#c33','#a33'])
+ax[0,1].axhline(0,color='k',lw=.8); ax[0,1].set_title('处境匹配: square个体做梦 (n=8)')
+# 3 剂量
+rs=['1','2','4','8']
+rg=[R['dose'][r]['real']['gain'] for r in rs]; sg=[R['dose'][r]['shuf']['gain'] for r in rs]
+ax[0,2].plot(rs,rg,'o-',label='正序real'); ax[0,2].plot(rs,sg,'s--',label='打乱shuf')
+ax[0,2].set_title('梦剂量: 正序与打乱逐位重合'); ax[0,2].legend(); ax[0,2].set_xlabel('重放轮数')
+# 4 情绪门
+gs=[R['gate'][p]['gain'] for p in ['stable','drift','square']]
+ge=[[max(0,R['gate'][p]['gain']-R['gate'][p]['lo']) for p in ['stable','drift','square']],
+    [max(0,R['gate'][p]['hi']-R['gate'][p]['gain']) for p in ['stable','drift','square']]]
+ax[1,0].bar(['stable','drift','square'],gs,yerr=ge,capsize=4,color=['#c33','#2a7','#c33'])
+ax[1,0].axhline(0,color='k',lw=.8); ax[1,0].set_title('情绪门 gain (正=门控更好)')
+# 5 玩
+pl=R['play']
+ax[1,1].bar(['play\n内部驱动','rand_norep\n随机不重复','rand\n随机可重复'],
+            [pl['play']['err'],pl['rand_norep']['err'],pl['rand']['err']],
+            color=['#2a7','#27a','#999'])
+ax[1,1].set_title('玩: 估计真实目录平均文件数 相对误差'); ax[1,1].set_ylabel('相对误差(低=好)')
+# 6 去重目录
+ax[1,2].bar(['play','rand_norep','rand'],[pl['play']['uniq_dirs'],pl['rand_norep']['uniq_dirs'],pl['rand']['uniq_dirs']],color=['#2a7','#27a','#999'])
+ax[1,2].set_ylabel('去重目录数/30'); ax[1,2].set_title('机制: 玩的价值=不重复采样')
+plt.tight_layout(); plt.savefig('fig148.png',dpi=100)
+print('ok')

@@ -1,1 +1,260 @@
-IyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogQXBhY2hlLTIuMAojIENvcHlyaWdodCAyMDI2IE15Y2VsaXVtIENvbnRyaWJ1dG9ycwoKIiIiClNraWxsIGNvbW1hbmRzOiB0aGUgYGBza2lsbHMvYGAgbWVtb3J5IG5hbWVzcGFjZSwgcHJvbW90ZWQgKCM2MTcpLgoKQSBza2lsbCBpcyBqdXN0IGEgbWVtb3J5OiBTS0lMTC5tZC1zdHlsZSBtYXJrZG93biArIGZyb250bWF0dGVyIGF0CmBgLm15Y2VsaXVtL3Jvb21zL3tyb29tfS9za2lsbHMvPG5hbWU+Lm1kYGAuIFRoZSBzYW1lIHdheSBgYGRlY2lzaW9ucy9gYCBtZW1vcmllcwpnZXQgYSBjYXRlZ29yeSB2aWV3IGFuZCBgYGFnZW50cy9gYCBhIG1lbWJlcnMgcGFuZWwsIHRoZSBgYHNraWxscy9gYCBuYW1lc3BhY2UgaXMKcHJvbW90ZWQgaW50byBhIHNraWxscyBzdXJmYWNlLiBTbyBza2lsbHMgYXJlIHJvb20tc2NvcGVkLCBsaWtlIG1lbW9yeSwgYW5kIGEKc2tpbGwgaXMgcmVhY2hhYmxlIGFzIGEgbWVtb3J5IHRvby4gUmVhZHMgYW5kIHdyaXRlcyByZXNvbHZlIGFnYWluc3QgdGhlIGh1YiBvdmVyCkhUVFA7IGEgc3Bva2Uga2VlcHMgbm8gbG9jYWwgcmVwbGljYS4KIiIiCgppbXBvcnQganNvbgpmcm9tIGNvbGxlY3Rpb25zLmFiYyBpbXBvcnQgSXRlcmF0b3IKZnJvbSBjb250ZXh0bGliIGltcG9ydCBjb250ZXh0bWFuYWdlcgpmcm9tIGltcG9ydGxpYiBpbXBvcnQgcmVzb3VyY2VzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgQW55CgppbXBvcnQgaHR0cHgKaW1wb3J0IHR5cGVyCmZyb20gcmljaC5jb25zb2xlIGltcG9ydCBDb25zb2xlCgpmcm9tIG15Y2VsaXVtIGltcG9ydCBpZGVudGl0eQpmcm9tIG15Y2VsaXVtLmNsaV9vcHRpb25zIGltcG9ydCBhY3RzX2FzLCBlbWl0c19qc29uLCBpbl9yb29tLCByb29tX29yX2V4aXQKZnJvbSBteWNlbGl1bS5jbGllbnQgaW1wb3J0IGh1Yl9lcnJvcl9kZXRhaWwsIHR5cGVkX2NsaWVudApmcm9tIG15Y2VsaXVtLmNvbmZpZyBpbXBvcnQgTXljZWxpdW1Db25maWcKZnJvbSBteWNlbGl1bS5kb2NfcmVmIGltcG9ydCBkb2NfcmVmCmZyb20gbXljZWxpdW0udGV4dF9pbnB1dCBpbXBvcnQgdGFrZXNfdGV4dApmcm9tIG15Y2VsaXVtX2JhY2tlbmRfY2xpZW50LmVycm9ycyBpbXBvcnQgVW5leHBlY3RlZFN0YXR1cwoKYXBwID0gdHlwZXIuVHlwZXIoCiAgICBoZWxwPSJDcmVhdGUgYW5kIGJyb3dzZSBhIHJvb20ncyBza2lsbHM6IFNLSUxMLm1kLXN0eWxlIG1hcmtkb3duIGluIHRoZSByb29tJ3Mgc2tpbGxzLyBuYW1lc3BhY2UuIFNraWxscyBiYWNrIHRoZSBjaGF0IGNvbXBvc2VyJ3MgLyB0cmlnZ2VyLiIsCiAgICBub19hcmdzX2lzX2hlbHA9VHJ1ZSwKKQpjb25zb2xlID0gQ29uc29sZSgpCgoKZGVmIF9nZXRfY2xpZW50KCk6CiAgICAiIiJUaGUgc2hhcmVkIGF1dGhlbnRpY2F0ZWQgT3BlbkFQSSBjbGllbnQgKHNlZSBgYG15Y2VsaXVtLmNsaWVudGBgKS4iIiIKICAgIHJldHVybiB0eXBlZF9jbGllbnQoKQoKCmRlZiBfaHViX3VybCgpIC0+IHN0cjoKICAgICIiIlRoZSBodWIgQVBJIFVSTCB0aGlzIGNsaWVudCByZXNvbHZlcyBza2lsbHMgYWdhaW5zdC4iIiIKICAgIHJldHVybiBNeWNlbGl1bUNvbmZpZy5sb2FkKCkuc2VydmVyLmFwaV91cmwKCgpAY29udGV4dG1hbmFnZXIKZGVmIF9odWJfc2Vzc2lvbigpIC0+IEl0ZXJhdG9yW0FueV06CiAgICAiIiJZaWVsZCBhIGh1YiBjbGllbnQsIHJlcG9ydGluZyBhbiB1bnJlYWNoYWJsZSBodWIgaW5zdGVhZCBvZiByYWlzaW5nLiIiIgogICAgd2l0aCBfZ2V0X2NsaWVudCgpIGFzIGNsaWVudDoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHlpZWxkIGNsaWVudAogICAgICAgIGV4Y2VwdCBodHRweC5IVFRQRXJyb3IgYXMgZXhjOgogICAgICAgICAgICBjb25zb2xlLnByaW50KGYiW3JlZF1FcnJvcjpbL3JlZF0gY2FuJ3QgcmVhY2ggdGhlIGh1YiBhdCB7X2h1Yl91cmwoKX06IHtleGN9IikKICAgICAgICAgICAgY29uc29sZS5wcmludCgKICAgICAgICAgICAgICAgICJbZGltXUNoZWNrIHRoZSBodWIgaXMgcnVubmluZyAoJ215Y2VsaXVtIHN0YXR1cycpLCBvciBwb2ludCAiCiAgICAgICAgICAgICAgICAic2VydmVyLmFwaV91cmwgYXQgaXQuWy9kaW1dIgogICAgICAgICAgICApCiAgICAgICAgICAgIHJhaXNlIHR5cGVyLkV4aXQoMSkgZnJvbSBleGMKICAgICAgICBleGNlcHQgVW5leHBlY3RlZFN0YXR1cyBhcyBleGM6CiAgICAgICAgICAgIGRldGFpbCA9IGh1Yl9lcnJvcl9kZXRhaWwoZXhjLmNvbnRlbnQpCiAgICAgICAgICAgIHN1ZmZpeCA9IGYiOiB7ZGV0YWlsfSIgaWYgZGV0YWlsIGVsc2UgIi4iCiAgICAgICAgICAgIGNvbnNvbGUucHJpbnQoCiAgICAgICAgICAgICAgICBmIltyZWRdRXJyb3I6Wy9yZWRdIGh1YiBhdCB7X2h1Yl91cmwoKX0gcmV0dXJuZWQgSFRUUCB7ZXhjLnN0YXR1c19jb2RlfXtzdWZmaXh9IgogICAgICAgICAgICApCiAgICAgICAgICAgIHJhaXNlIHR5cGVyLkV4aXQoMSkgZnJvbSBleGMKCgpkZWYgX2dldF9hY3RpdmVfcm9vbShyb29tOiBzdHIgfCBOb25lKSAtPiBzdHI6CiAgICAiIiJUaGUgcm9vbSB0byB1c2UsIGluIGBgY2FsbGVyLnJvb21gYCdzIG9yZGVyLiIiIgogICAgcmV0dXJuIHJvb21fb3JfZXhpdChNeWNlbGl1bUNvbmZpZy5sb2FkKCksIHJvb20pCgoKZGVmIF9lY2hvX2pzb24oZGF0YTogQW55KSAtPiBOb25lOgogICAgIiIiUHJpbnQgYGBkYXRhYGAgYXMgSlNPTiBhbmQgbm90aGluZyBlbHNlLCBmb3IgYGAtLWpzb25gYC4iIiIKICAgIHR5cGVyLmVjaG8oanNvbi5kdW1wcyhkYXRhLCBpbmRlbnQ9MiwgZGVmYXVsdD1zdHIpKQoKCkBkb2NfcmVmKAogICAgdXNhZ2U9Im15Y2VsaXVtIHNraWxsIHNldCA8bmFtZT4gWzxib2R5Pl0gWy0tYm9keSA8bWFya2Rvd24+XSBbLS1maWxlIDxwYXRoPl0gWy0tZGVzYyA8dGV4dD5dIiwKICAgIGRlc2M9IkNyZWF0ZSBvciB1cGRhdGUgYSBza2lsbCAodXBzZXJ0KSBpbiBhIHJvb20ncyBza2lsbHMvIG5hbWVzcGFjZS4gVGhlIGJvZHkgaXMgbWFya2Rvd24sIGZyb20gdGhlIHBvc2l0aW9uYWwgYXJndW1lbnQsIDxjb2RlPi0tYm9keTwvY29kZT4sIG9yIDxjb2RlPi0tZmlsZTwvY29kZT4gKDxjb2RlPi08L2NvZGU+IHJlYWRzIHN0ZGluKS4iLAogICAgZ3JvdXA9InNraWxsIiwKKQpAYXBwLmNvbW1hbmQobmFtZT0ic2V0IikKQHRha2VzX3RleHQoImJvZHkiLCAiVGhlIHNraWxsJ3MgaW5zdHJ1Y3Rpb25zLCBpbiBtYXJrZG93bi4iLCBub3VuPSJza2lsbCBib2R5IikKQGluX3Jvb20oInJvb20iKQpAYWN0c19hcygiaGFuZGxlIikKZGVmIHNraWxsX3NldCgKICAgIG5hbWU6IHN0ciA9IHR5cGVyLkFyZ3VtZW50KC4uLiwgaGVscD0iU2tpbGwgc2x1ZyAoa2ViYWItY2FzZSwgZS5nLiAnc3VtbWFyaXplLXJvb20nKSIpLAogICAgYm9keTogc3RyID0gdHlwZXIuQXJndW1lbnQoLi4uLCBoZWxwPSJTa2lsbCBib2R5IChwcm9zZSAvIGluc3RydWN0aW9ucykiKSwKICAgIHJvb206IHN0ciB8IE5vbmUgPSBOb25lLAogICAgZGVzY3JpcHRpb246IHN0ciA9IHR5cGVyLk9wdGlvbigKICAgICAgICAiIiwgIi0tZGVzYyIsICItZCIsIGhlbHA9Ik9uZS1saW5lIHN1bW1hcnkgc2hvd24gaW4gbGlzdGluZ3MgYW5kIHRoZSBjb21wb3NlciIKICAgICksCiAgICBoYW5kbGU6IHN0ciB8IE5vbmUgPSBOb25lLAogICAgdGFnczogc3RyIHwgTm9uZSA9IHR5cGVyLk9wdGlvbihOb25lLCAiLS10YWdzIiwgIi10IiwgaGVscD0iQ29tbWEtc2VwYXJhdGVkIHRhZ3MiKSwKKSAtPiBOb25lOgogICAgIiIiQ3JlYXRlIG9yIHVwc2VydCBhIHNraWxsIGluIGEgcm9vbSdzIHNraWxscy8gbmFtZXNwYWNlLiBBbHdheXMgdXBzZXJ0czsgdmVyc2lvbiBidW1wcy4iIiIKICAgIGZyb20gbXljZWxpdW1fYmFja2VuZF9jbGllbnQuYXBpLnNraWxscyBpbXBvcnQgKAogICAgICAgIGNyZWF0ZV9za2lsbF9hcGlfcm9vbXNfcm9vbV9uYW1lX3NraWxsc19wb3N0IGFzIGNyZWF0ZV9hcGksCiAgICApCiAgICBmcm9tIG15Y2VsaXVtX2JhY2tlbmRfY2xpZW50Lm1vZGVscyBpbXBvcnQgU2tpbGxDcmVhdGUKCiAgICBib2R5X3RleHQgPSBib2R5CiAgICByb29tX25hbWUgPSBfZ2V0X2FjdGl2ZV9yb29tKHJvb20pCiAgICBoYW5kbGUgPSBpZGVudGl0eS5yZXNvbHZlX2FjdG9yKE15Y2VsaXVtQ29uZmlnLmxvYWQoKSwgb3ZlcnJpZGU9aGFuZGxlKQogICAgdGFnX2xpc3QgPSBbdC5zdHJpcCgpIGZvciB0IGluIHRhZ3Muc3BsaXQoIiwiKV0gaWYgdGFncyBlbHNlIE5vbmUKCiAgICBpdGVtID0gU2tpbGxDcmVhdGUoCiAgICAgICAgbmFtZT1uYW1lLAogICAgICAgIGJvZHk9Ym9keV90ZXh0LAogICAgICAgIGRlc2NyaXB0aW9uPWRlc2NyaXB0aW9uLAogICAgICAgIGNyZWF0ZWRfYnk9aGFuZGxlLAogICAgICAgIHRhZ3M9dGFnX2xpc3QsCiAgICApCiAgICB3aXRoIF9odWJfc2Vzc2lvbigpIGFzIGNsaWVudDoKICAgICAgICBza2lsbCA9IGNyZWF0ZV9hcGkuc3luYyhyb29tX25hbWU9cm9vbV9uYW1lLCBjbGllbnQ9Y2xpZW50LCBib2R5PWl0ZW0pCiAgICAgICAgdmVyc2lvbiA9IGYidntza2lsbC52ZXJzaW9ufSIgaWYgaGFzYXR0cihza2lsbCwgInZlcnNpb24iKSBlbHNlICIiCiAgICAgICAgY29uc29sZS5wcmludChmIltncmVlbl1Ta2lsbCBzZXQ6Wy9ncmVlbl0ge3Jvb21fbmFtZX0ve25hbWV9ICh7dmVyc2lvbn0pIikKCgpAZG9jX3JlZigKICAgIHVzYWdlPSJteWNlbGl1bSBza2lsbCBscyIsCiAgICBkZXNjPSJMaXN0IGEgcm9vbSdzIHNraWxscywgbmV3ZXN0LXVwZGF0ZWQgZmlyc3QuIiwKICAgIGdyb3VwPSJza2lsbCIsCikKQGFwcC5jb21tYW5kKG5hbWU9ImxzIikKQGluX3Jvb20oInJvb20iKQpAZW1pdHNfanNvbigiYXNfanNvbiIpCmRlZiBza2lsbF9scyhyb29tOiBzdHIgfCBOb25lID0gTm9uZSwgYXNfanNvbjogYm9vbCA9IEZhbHNlKSAtPiBOb25lOgogICAgIiIiTGlzdCBhIHJvb20ncyBza2lsbHMgZnJvbSB0aGUgaHViLiIiIgogICAgZnJvbSBteWNlbGl1bV9iYWNrZW5kX2NsaWVudC5hcGkuc2tpbGxzIGltcG9ydCAoCiAgICAgICAgbGlzdF9za2lsbHNfYXBpX3Jvb21zX3Jvb21fbmFtZV9za2lsbHNfZ2V0IGFzIGxpc3RfYXBpLAogICAgKQoKICAgIHJvb21fbmFtZSA9IF9nZXRfYWN0aXZlX3Jvb20ocm9vbSkKICAgIHdpdGggX2h1Yl9zZXNzaW9uKCkgYXMgY2xpZW50OgogICAgICAgIHJlc3AgPSBsaXN0X2FwaS5zeW5jKHJvb21fbmFtZT1yb29tX25hbWUsIGNsaWVudD1jbGllbnQpCgogICAgc2tpbGxzID0gZ2V0YXR0cihyZXNwLCAic2tpbGxzIiwgTm9uZSkgb3IgW10KICAgIGlmIGFzX2pzb246CiAgICAgICAgX2VjaG9fanNvbihbcy50b19kaWN0KCkgZm9yIHMgaW4gc2tpbGxzXSkKICAgICAgICByZXR1cm4KICAgIGlmIG5vdCBza2lsbHM6CiAgICAgICAgY29uc29sZS5wcmludCgiW2RpbV1ObyBza2lsbHMgZm91bmRbL2RpbV0iKQogICAgICAgIHJldHVybgoKICAgIGNvbnNvbGUucHJpbnQoZiJbYm9sZF1Ta2lsbHNbL2JvbGRdICh7bGVuKHNraWxscyl9KVxuIikKICAgIGZvciBza2lsbCBpbiBza2lsbHM6CiAgICAgICAgZGVzYyA9IGdldGF0dHIoc2tpbGwsICJkZXNjcmlwdGlvbiIsICIiKSBvciAiIgogICAgICAgIGNvbnNvbGUucHJpbnQoCiAgICAgICAgICAgIGYiW2N5YW5dL3tza2lsbC5uYW1lfVsvY3lhbl0gIFtkaW1ddntza2lsbC52ZXJzaW9ufSAge3NraWxsLmNyZWF0ZWRfYnl9Wy9kaW1dIgogICAgICAgICkKICAgICAgICBpZiBkZXNjOgogICAgICAgICAgICBjb25zb2xlLnByaW50KGYiICB7ZGVzY30iLCBtYXJrdXA9RmFsc2UpCgoKQGRvY19yZWYoCiAgICB1c2FnZT0ibXljZWxpdW0gc2tpbGwgZ2V0IDxuYW1lPiIsCiAgICBkZXNjPSJSZWFkIGEgc2tpbGwgYnkgbmFtZSBmcm9tIGEgcm9vbS4iLAogICAgZ3JvdXA9InNraWxsIiwKKQpAYXBwLmNvbW1hbmQobmFtZT0iZ2V0IikKQGluX3Jvb20oInJvb20iKQpAZW1pdHNfanNvbigiYXNfanNvbiIpCmRlZiBza2lsbF9nZXQoCiAgICBuYW1lOiBzdHIgPSB0eXBlci5Bcmd1bWVudCguLi4sIGhlbHA9IlNraWxsIG5hbWUiKSwKICAgIHJvb206IHN0ciB8IE5vbmUgPSBOb25lLAogICAgYXNfanNvbjogYm9vbCA9IEZhbHNlLAopIC0+IE5vbmU6CiAgICAiIiJSZWFkIGEgc2tpbGwgYnkgbmFtZSAoZnJvbSB0aGUgaHViKS4iIiIKICAgIGZyb20gbXljZWxpdW1fYmFja2VuZF9jbGllbnQuYXBpLnNraWxscyBpbXBvcnQgKAogICAgICAgIGdldF9za2lsbF9hcGlfcm9vbXNfcm9vbV9uYW1lX3NraWxsc19uYW1lX2dldCBhcyBnZXRfYXBpLAogICAgKQogICAgZnJvbSBteWNlbGl1bV9iYWNrZW5kX2NsaWVudC5tb2RlbHMgaW1wb3J0IFNraWxsUmVhZAoKICAgIHJvb21fbmFtZSA9IF9nZXRfYWN0aXZlX3Jvb20ocm9vbSkKICAgIHdpdGggX2h1Yl9zZXNzaW9uKCkgYXMgY2xpZW50OgogICAgICAgIHRyeToKICAgICAgICAgICAgc2tpbGwgPSBnZXRfYXBpLnN5bmMocm9vbV9uYW1lPXJvb21fbmFtZSwgbmFtZT1uYW1lLCBjbGllbnQ9Y2xpZW50KQogICAgICAgIGV4Y2VwdCBVbmV4cGVjdGVkU3RhdHVzIGFzIGV4YzoKICAgICAgICAgICAgaWYgZXhjLnN0YXR1c19jb2RlID09IDQwNDoKICAgICAgICAgICAgICAgIGNvbnNvbGUucHJpbnQoZiJbcmVkXU5vdCBmb3VuZDpbL3JlZF0ge25hbWV9IikKICAgICAgICAgICAgICAgIHJhaXNlIHR5cGVyLkV4aXQoMSkgZnJvbSBleGMKICAgICAgICAgICAgcmFpc2UKCiAgICBpZiBub3QgaXNpbnN0YW5jZShza2lsbCwgU2tpbGxSZWFkKToKICAgICAgICBjb25zb2xlLnByaW50KGYiW3JlZF1Ob3QgZm91bmQ6Wy9yZWRdIHtuYW1lfSIpCiAgICAgICAgcmFpc2UgdHlwZXIuRXhpdCgxKQoKICAgIGlmIGFzX2pzb246CiAgICAgICAgX2VjaG9fanNvbihza2lsbC50b19kaWN0KCkpCiAgICAgICAgcmV0dXJuCgogICAgZGVzYyA9IHNraWxsLmRlc2NyaXB0aW9uIG9yICIiCiAgICBjb25zb2xlLnByaW50KGYiW2N5YW5dL3tza2lsbC5uYW1lfVsvY3lhbl0gIFtkaW1ddntza2lsbC52ZXJzaW9ufSAge3NraWxsLmNyZWF0ZWRfYnl9Wy9kaW1dIikKICAgIGlmIGRlc2M6CiAgICAgICAgY29uc29sZS5wcmludChkZXNjLCBzdHlsZT0iZGltIiwgbWFya3VwPUZhbHNlKQogICAgIyBUaGUgYm9keSBpcyB0aGUgYXV0aG9yJ3MgdGV4dCwgbm90IFJpY2ggbWFya3VwOiBgW1trZXldXWAgbGlua3Mgd291bGQgdmFuaXNoLAogICAgIyBhbmQgUmljaCdzIHdyYXBwaW5nIHdvdWxkIGFkZCBsaW5lIGJyZWFrcyB0aGUgc2tpbGwgZG9lc24ndCBoYXZlLgogICAgY29uc29sZS5wcmludChza2lsbC5ib2R5IG9yICIiLCBtYXJrdXA9RmFsc2UsIHNvZnRfd3JhcD1UcnVlKQoKCkBkb2NfcmVmKAogICAgdXNhZ2U9Im15Y2VsaXVtIHNraWxsIHJtIDxuYW1lPiIsCiAgICBkZXNjPSJEZWxldGUgYSBza2lsbCBmcm9tIGEgcm9vbS4iLAogICAgZ3JvdXA9InNraWxsIiwKKQpAYXBwLmNvbW1hbmQobmFtZT0icm0iKQpAaW5fcm9vbSgicm9vbSIpCmRlZiBza2lsbF9ybSgKICAgIG5hbWU6IHN0ciA9IHR5cGVyLkFyZ3VtZW50KC4uLiwgaGVscD0iU2tpbGwgbmFtZSIpLAogICAgcm9vbTogc3RyIHwgTm9uZSA9IE5vbmUsCikgLT4gTm9uZToKICAgICIiIkRlbGV0ZSBhIHNraWxsIGJ5IG5hbWUuIiIiCiAgICBmcm9tIG15Y2VsaXVtX2JhY2tlbmRfY2xpZW50LmFwaS5za2lsbHMgaW1wb3J0ICgKICAgICAgICBkZWxldGVfc2tpbGxfYXBpX3Jvb21zX3Jvb21fbmFtZV9za2lsbHNfbmFtZV9kZWxldGUgYXMgZGVsZXRlX2FwaSwKICAgICkKCiAgICByb29tX25hbWUgPSBfZ2V0X2FjdGl2ZV9yb29tKHJvb20pCiAgICB3aXRoIF9odWJfc2Vzc2lvbigpIGFzIGNsaWVudDoKICAgICAgICByZXNwID0gZGVsZXRlX2FwaS5zeW5jX2RldGFpbGVkKHJvb21fbmFtZT1yb29tX25hbWUsIG5hbWU9bmFtZSwgY2xpZW50PWNsaWVudCkKICAgICAgICBpZiByZXNwLnN0YXR1c19jb2RlID09IDQwNDoKICAgICAgICAgICAgY29uc29sZS5wcmludChmIltyZWRdTm90IGZvdW5kOlsvcmVkXSB7bmFtZX0iKQogICAgICAgICAgICByYWlzZSB0eXBlci5FeGl0KDEpCiAgICBjb25zb2xlLnByaW50KGYiW2dyZWVuXVNraWxsIHJlbW92ZWQ6Wy9ncmVlbl0ge3Jvb21fbmFtZX0ve25hbWV9IikKCgpAZG9jX3JlZigKICAgIHVzYWdlPSJteWNlbGl1bSBza2lsbCBwcmludCIsCiAgICBkZXNjPSJQcmludCB0aGUgTXljZWxpdW0gYWdlbnQgc2tpbGwgKFNLSUxMLm1kKTogaG93IGFuIGFnZW50IHRha2VzIHBhcnQgaW4gYSByb29tLiBTYXZlIGl0IHdoZXJlIHlvdXIgYWdlbnQgQ0xJIHJlYWRzIHNraWxscywgZS5nLiA8Y29kZT5+Ly5jbGF1ZGUvc2tpbGxzL215Y2VsaXVtL1NLSUxMLm1kPC9jb2RlPi4iLAogICAgZ3JvdXA9InNraWxsIiwKKQpAYXBwLmNvbW1hbmQobmFtZT0icHJpbnQiKQpkZWYgc2tpbGxfcHJpbnQoKSAtPiBOb25lOgogICAgIiIiUHJpbnQgdGhlIE15Y2VsaXVtIGFnZW50IHNraWxsLCB0byBpbnN0YWxsIGJ5IGhhbmQgaW50byBhbiBhZ2VudCBDTEkuCgogICAgVGhpcyBpcyBNeWNlbGl1bSdzIG93biBTS0lMTC5tZCAodGhlIHByb3RvY29sIGFuIGFnZW50IGZvbGxvd3MgaW4gYSByb29tKSwKICAgIG5vdCBhbiBlbnRyeSBpbiBhIHJvb20ncyBza2lsbHMgc3RvcmUgYWJvdmUuIEFnZW50cyB0aGUgcnVubmVyLCBzd2FybSBvcgogICAgdGhlIGRlc2t0b3AgYXBwIHN0YXJ0IGRvbid0IG5lZWQgaXQ6IHRoZWlyIG5vdGVzIGFuZCB3YWtlIHByb21wdHMgY2FycnkgdGhlCiAgICBjb21tYW5kcy4gSXQgaXMgZm9yIGFuIGFnZW50IENMSSB5b3Ugc3RhcnQgeW91cnNlbGYsIGUuZy46CgogICAgICAgIG15Y2VsaXVtIHNraWxsIHByaW50ID4gfi8uY2xhdWRlL3NraWxscy9teWNlbGl1bS9TS0lMTC5tZAogICAgIiIiCiAgICByZWwgPSAic2tpbGxzL215Y2VsaXVtL1NLSUxMLm1kIgogICAgZmFsbGJhY2tfcGFydHMgPSAoInNraWxscyIsICJteWNlbGl1bSIsICJTS0lMTC5tZCIpCiAgICB0cnk6CiAgICAgICAgd2l0aCByZXNvdXJjZXMuYXNfZmlsZShyZXNvdXJjZXMuZmlsZXMoIm15Y2VsaXVtIikuam9pbnBhdGgocmVsKSkgYXMgcDoKICAgICAgICAgICAgdHlwZXIuZWNobyhwLnJlYWRfdGV4dCgpKQogICAgZXhjZXB0IChUeXBlRXJyb3IsIEZpbGVOb3RGb3VuZEVycm9yKToKICAgICAgICBmYWxsYmFjayA9IFBhdGgoX19maWxlX18pLnBhcmVudC5wYXJlbnQuam9pbnBhdGgoKmZhbGxiYWNrX3BhcnRzKQogICAgICAgIGlmIGZhbGxiYWNrLmV4aXN0cygpOgogICAgICAgICAgICB0eXBlci5lY2hvKGZhbGxiYWNrLnJlYWRfdGV4dCgpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHR5cGVyLnNlY2hvKCJTS0lMTC5tZCBub3QgZm91bmQiLCBmZz10eXBlci5jb2xvcnMuUkVEKQogICAgICAgICAgICByYWlzZSB0eXBlci5FeGl0KDEpCg==
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 Mycelium Contributors
+
+"""
+Skill commands: the ``skills/`` memory namespace, promoted (#617).
+
+A skill is just a memory: SKILL.md-style markdown + frontmatter at
+``.mycelium/rooms/{room}/skills/<name>.md``. The same way ``decisions/`` memories
+get a category view and ``agents/`` a members panel, the ``skills/`` namespace is
+promoted into a skills surface. So skills are room-scoped, like memory, and a
+skill is reachable as a memory too. Reads and writes resolve against the hub over
+HTTP; a spoke keeps no local replica.
+"""
+
+import json
+from collections.abc import Iterator
+from contextlib import contextmanager
+from importlib import resources
+from pathlib import Path
+from typing import Any
+
+import httpx
+import typer
+from rich.console import Console
+
+from mycelium import identity
+from mycelium.cli_options import acts_as, emits_json, in_room, room_or_exit
+from mycelium.client import hub_error_detail, typed_client
+from mycelium.config import MyceliumConfig
+from mycelium.doc_ref import doc_ref
+from mycelium.text_input import takes_text
+from mycelium_backend_client.errors import UnexpectedStatus
+
+app = typer.Typer(
+    help="Create and browse a room's skills: SKILL.md-style markdown in the room's skills/ namespace. Skills back the chat composer's / trigger.",
+    no_args_is_help=True,
+)
+console = Console()
+
+
+def _get_client():
+    """The shared authenticated OpenAPI client (see ``mycelium.client``)."""
+    return typed_client()
+
+
+def _hub_url() -> str:
+    """The hub API URL this client resolves skills against."""
+    return MyceliumConfig.load().server.api_url
+
+
+@contextmanager
+def _hub_session() -> Iterator[Any]:
+    """Yield a hub client, reporting an unreachable hub instead of raising."""
+    with _get_client() as client:
+        try:
+            yield client
+        except httpx.HTTPError as exc:
+            console.print(f"[red]Error:[/red] can't reach the hub at {_hub_url()}: {exc}")
+            console.print(
+                "[dim]Check the hub is running ('mycelium status'), or point "
+                "server.api_url at it.[/dim]"
+            )
+            raise typer.Exit(1) from exc
+        except UnexpectedStatus as exc:
+            detail = hub_error_detail(exc.content)
+            suffix = f": {detail}" if detail else "."
+            console.print(
+                f"[red]Error:[/red] hub at {_hub_url()} returned HTTP {exc.status_code}{suffix}"
+            )
+            raise typer.Exit(1) from exc
+
+
+def _get_active_room(room: str | None) -> str:
+    """The room to use, in ``caller.room``'s order."""
+    return room_or_exit(MyceliumConfig.load(), room)
+
+
+def _echo_json(data: Any) -> None:
+    """Print ``data`` as JSON and nothing else, for ``--json``."""
+    typer.echo(json.dumps(data, indent=2, default=str))
+
+
+@doc_ref(
+    usage="mycelium skill set <name> [<body>] [--body <markdown>] [--file <path>] [--desc <text>]",
+    desc="Create or update a skill (upsert) in a room's skills/ namespace. The body is markdown, from the positional argument, <code>--body</code>, or <code>--file</code> (<code>-</code> reads stdin).",
+    group="skill",
+)
+@app.command(name="set")
+@takes_text("body", "The skill's instructions, in markdown.", noun="skill body")
+@in_room("room")
+@acts_as("handle")
+def skill_set(
+    name: str = typer.Argument(..., help="Skill slug (kebab-case, e.g. 'summarize-room')"),
+    body: str = typer.Argument(..., help="Skill body (prose / instructions)"),
+    room: str | None = None,
+    description: str = typer.Option(
+        "", "--desc", "-d", help="One-line summary shown in listings and the composer"
+    ),
+    handle: str | None = None,
+    tags: str | None = typer.Option(None, "--tags", "-t", help="Comma-separated tags"),
+) -> None:
+    """Create or upsert a skill in a room's skills/ namespace. Always upserts; version bumps."""
+    from mycelium_backend_client.api.skills import (
+        create_skill_api_rooms_room_name_skills_post as create_api,
+    )
+    from mycelium_backend_client.models import SkillCreate
+
+    body_text = body
+    room_name = _get_active_room(room)
+    handle = identity.resolve_actor(MyceliumConfig.load(), override=handle)
+    tag_list = [t.strip() for t in tags.split(",")] if tags else None
+
+    item = SkillCreate(
+        name=name,
+        body=body_text,
+        description=description,
+        created_by=handle,
+        tags=tag_list,
+    )
+    with _hub_session() as client:
+        skill = create_api.sync(room_name=room_name, client=client, body=item)
+        version = f"v{skill.version}" if hasattr(skill, "version") else ""
+        console.print(f"[green]Skill set:[/green] {room_name}/{name} ({version})")
+
+
+@doc_ref(
+    usage="mycelium skill ls",
+    desc="List a room's skills, newest-updated first.",
+    group="skill",
+)
+@app.command(name="ls")
+@in_room("room")
+@emits_json("as_json")
+def skill_ls(room: str | None = None, as_json: bool = False) -> None:
+    """List a room's skills from the hub."""
+    from mycelium_backend_client.api.skills import (
+        list_skills_api_rooms_room_name_skills_get as list_api,
+    )
+
+    room_name = _get_active_room(room)
+    with _hub_session() as client:
+        resp = list_api.sync(room_name=room_name, client=client)
+
+    skills = getattr(resp, "skills", None) or []
+    if as_json:
+        _echo_json([s.to_dict() for s in skills])
+        return
+    if not skills:
+        console.print("[dim]No skills found[/dim]")
+        return
+
+    console.print(f"[bold]Skills[/bold] ({len(skills)})\n")
+    for skill in skills:
+        desc = getattr(skill, "description", "") or ""
+        console.print(
+            f"[cyan]/{skill.name}[/cyan]  [dim]v{skill.version}  {skill.created_by}[/dim]"
+        )
+        if desc:
+            console.print(f"  {desc}", markup=False)
+
+
+@doc_ref(
+    usage="mycelium skill get <name>",
+    desc="Read a skill by name from a room.",
+    group="skill",
+)
+@app.command(name="get")
+@in_room("room")
+@emits_json("as_json")
+def skill_get(
+    name: str = typer.Argument(..., help="Skill name"),
+    room: str | None = None,
+    as_json: bool = False,
+) -> None:
+    """Read a skill by name (from the hub)."""
+    from mycelium_backend_client.api.skills import (
+        get_skill_api_rooms_room_name_skills_name_get as get_api,
+    )
+    from mycelium_backend_client.models import SkillRead
+
+    room_name = _get_active_room(room)
+    with _hub_session() as client:
+        try:
+            skill = get_api.sync(room_name=room_name, name=name, client=client)
+        except UnexpectedStatus as exc:
+            if exc.status_code == 404:
+                console.print(f"[red]Not found:[/red] {name}")
+                raise typer.Exit(1) from exc
+            raise
+
+    if not isinstance(skill, SkillRead):
+        console.print(f"[red]Not found:[/red] {name}")
+        raise typer.Exit(1)
+
+    if as_json:
+        _echo_json(skill.to_dict())
+        return
+
+    desc = skill.description or ""
+    console.print(f"[cyan]/{skill.name}[/cyan]  [dim]v{skill.version}  {skill.created_by}[/dim]")
+    if desc:
+        console.print(desc, style="dim", markup=False)
+    # The body is the author's text, not Rich markup: `[[key]]` links would vanish,
+    # and Rich's wrapping would add line breaks the skill doesn't have.
+    console.print(skill.body or "", markup=False, soft_wrap=True)
+
+
+@doc_ref(
+    usage="mycelium skill rm <name>",
+    desc="Delete a skill from a room.",
+    group="skill",
+)
+@app.command(name="rm")
+@in_room("room")
+def skill_rm(
+    name: str = typer.Argument(..., help="Skill name"),
+    room: str | None = None,
+) -> None:
+    """Delete a skill by name."""
+    from mycelium_backend_client.api.skills import (
+        delete_skill_api_rooms_room_name_skills_name_delete as delete_api,
+    )
+
+    room_name = _get_active_room(room)
+    with _hub_session() as client:
+        resp = delete_api.sync_detailed(room_name=room_name, name=name, client=client)
+        if resp.status_code == 404:
+            console.print(f"[red]Not found:[/red] {name}")
+            raise typer.Exit(1)
+    console.print(f"[green]Skill removed:[/green] {room_name}/{name}")
+
+
+@doc_ref(
+    usage="mycelium skill print",
+    desc="Print the Mycelium agent skill (SKILL.md): how an agent takes part in a room. Save it where your agent CLI reads skills, e.g. <code>~/.claude/skills/mycelium/SKILL.md</code>.",
+    group="skill",
+)
+@app.command(name="print")
+def skill_print() -> None:
+    """Print the Mycelium agent skill, to install by hand into an agent CLI.
+
+    This is Mycelium's own SKILL.md (the protocol an agent follows in a room),
+    not an entry in a room's skills store above. Agents the runner, swarm or
+    the desktop app start don't need it: their notes and wake prompts carry the
+    commands. It is for an agent CLI you start yourself, e.g.:
+
+        mycelium skill print > ~/.claude/skills/mycelium/SKILL.md
+    """
+    rel = "skills/mycelium/SKILL.md"
+    fallback_parts = ("skills", "mycelium", "SKILL.md")
+    try:
+        with resources.as_file(resources.files("mycelium").joinpath(rel)) as p:
+            typer.echo(p.read_text())
+    except (TypeError, FileNotFoundError):
+        fallback = Path(__file__).parent.parent.joinpath(*fallback_parts)
+        if fallback.exists():
+            typer.echo(fallback.read_text())
+        else:
+            typer.secho("SKILL.md not found", fg=typer.colors.RED)
+            raise typer.Exit(1)

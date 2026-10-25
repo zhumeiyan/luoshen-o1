@@ -1,1 +1,70 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJTMSDni6znmb0gdjUKdjQgYnVnOiDlubLmibDmr480dGlja+S4gOasoe+8jOS7u+WKoTR0aWNr6LeR5a6MIC0+IG1lYW5fZGlzdD0w77yM5LiJ6IeC5YWoMemlseWSjAp2NTog5q+PIHRpY2sg55yfIGxpc3RkaXIg5oSf55+l77yM5oSf55+l57uT5p6c5oyk5Y2g5bel5L2c6K6w5b+G77yb5oyk5YWl5pWw55Sx55yf5py65pe26ZKf5Zmq5aOw5Yaz5a6aKDAvMSkKICAgIOeLrOeZvemAmumBkyA9IOecn+WuniBVRFAg5Zue546v6Ieq5Y+R6Ieq5pS2CiIiIgppbXBvcnQgb3MsIGpzb24sIG1hdGgsIHNvY2tldCwgdGltZQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZXF1ZQppbXBvcnQgbnVtcHkgYXMgbnAKClJFQUxfRElSID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzIgpUQVJHRVQgPSBbIkEiLCJCIiwiQyJdCkNBUCA9IDMKCmRlZiBjaV9wYWlyZWQoZCk6CiAgICBkPW5wLmFzYXJyYXkoZCxmbG9hdCk7IG49bGVuKGQpOyBtPWZsb2F0KGQubWVhbigpKQogICAgc2U9ZmxvYXQoZC5zdGQoZGRvZj0xKSkvbWF0aC5zcXJ0KG4pIGlmIG4+MSBlbHNlIGZsb2F0KCJuYW4iKQogICAgcmV0dXJuIG0sIG0tMS45NipzZSwgbSsxLjk2KnNlCgpkZWYgcnVuX2FybShhcm0sIHNlZWQsIFQ9MjQpOgogICAgcz1zb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULCBzb2NrZXQuU09DS19ER1JBTSkKICAgIHMuYmluZCgoIjEyNy4wLjAuMSIsMCkpOyBwb3J0PXMuZ2V0c29ja25hbWUoKVsxXTsgcy5zZXR0aW1lb3V0KDAuMDUpCiAgICBkZWYgc2F5KG8pOgogICAgICAgIHRyeToKICAgICAgICAgICAgcy5zZW5kdG8oanNvbi5kdW1wcyhvKS5lbmNvZGUoKSwgKCIxMjcuMC4wLjEiLHBvcnQpKQogICAgICAgICAgICBkLF89cy5yZWN2ZnJvbSg2NTUzNSk7IHJldHVybiBqc29uLmxvYWRzKGQuZGVjb2RlKCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIE5vbmUKICAgIHBsYW49ZGVxdWUoVEFSR0VULG1heGxlbj1DQVApOyBkb25lPVtdOyBuZGlzdD0wCiAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICAjIC0tLS0g54us55m9IC0tLS0KICAgICAgICBpZiBhcm09PSJwcmUiOgogICAgICAgICAgICBpZiB0PT0wOiBzYXkoeyJraW5kIjoicGxhbiIsInBsYW4iOlRBUkdFVH0pCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBtPXNheSh7ImtpbmQiOiJyZWNhbGwifSkKICAgICAgICAgICAgICAgIGlmIG0gYW5kIG0uZ2V0KCJraW5kIik9PSJwbGFuIjoKICAgICAgICAgICAgICAgICAgICBmb3Igc3QgaW4gbS5nZXQoInBsYW4iLFtdKToKICAgICAgICAgICAgICAgICAgICAgICAgaWYgc3Qgbm90IGluIGRvbmUgYW5kIHN0IG5vdCBpbiBwbGFuOiBwbGFuLmFwcGVuZChzdCkKICAgICAgICBlbGlmIGFybT09InBvc3QiOgogICAgICAgICAgICBzYXkoeyJraW5kIjoiaGlzdCIsImhpc3QiOmRvbmV9KQogICAgICAgICMgLS0tLSDnnJ/lrp7mhJ/nn6XvvJrmr48gdGljayDnnJ8gbGlzdGRpcu+8jOaMpOWNoOW3peS9nOiusOW/hiAtLS0tCiAgICAgICAgdHJ5OiBpdGVtcz1vcy5saXN0ZGlyKFJFQUxfRElSKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IGl0ZW1zPVsieCJdCiAgICAgICAgaWYgaW50KHRpbWUucGVyZl9jb3VudGVyX25zKCkgJSAyKT09MTogICAgICAjIOecn+acuuWZquWjsCAtPiAwLzEKICAgICAgICAgICAgcGxhbi5hcHBlbmQoIkQ6IitpdGVtc1t0ICUgbGVuKGl0ZW1zKV0pOyBuZGlzdCs9MQogICAgICAgICMgLS0tLSDmiafooYwgLS0tLQogICAgICAgIG54dD1UQVJHRVRbbGVuKGRvbmUpXQogICAgICAgIGlmIG54dCBpbiBwbGFuOgogICAgICAgICAgICBwbGFuLnJlbW92ZShueHQpOyBkb25lLmFwcGVuZChueHQpCiAgICAgICAgaWYgbGVuKGRvbmUpPT1sZW4oVEFSR0VUKTogYnJlYWsKICAgIHMuY2xvc2UoKQogICAgcmV0dXJuICgxLjAgaWYgZG9uZT09VEFSR0VUIGVsc2UgMC4wKSwgbmRpc3QKCmRlZiBtYWluKHNlZWRzPTEyKToKICAgIG91dD17fTsgc2w9bGlzdChyYW5nZSg0MDAwLDQwMDArc2VlZHMpKQogICAgZm9yIGFybSBpbiBbInByZSIsInBvc3QiLCJvZmYiXToKICAgICAgICB2YWxzPVtdO25kPVtdCiAgICAgICAgZm9yIHNkIGluIHNsOgogICAgICAgICAgICB2LG49cnVuX2FybShhcm0sc2QpOyB2YWxzLmFwcGVuZCh2KTsgbmQuYXBwZW5kKG4pCiAgICAgICAgb3V0W2FybV09eyJyYXRlIjpmbG9hdChucC5tZWFuKHZhbHMpKSwidmFscyI6dmFscywibWVhbl9kaXN0IjpmbG9hdChucC5tZWFuKG5kKSl9CiAgICBkMT1bb3V0WyJwcmUiXVsidmFscyJdW2ldLW91dFsib2ZmIl1bInZhbHMiXVtpXSBmb3IgaSBpbiByYW5nZShzZWVkcyldCiAgICBkMj1bb3V0WyJwb3N0Il1bInZhbHMiXVtpXS1vdXRbIm9mZiJdWyJ2YWxzIl1baV0gZm9yIGkgaW4gcmFuZ2Uoc2VlZHMpXQogICAgbTEsbG8xLGhpMT1jaV9wYWlyZWQoZDEpOyBtMixsbzIsaGkyPWNpX3BhaXJlZChkMikKICAgIG91dFsiSDFhX3ByZV9taW51c19vZmYiXT17Im1lYW4iOm0xLCJjaSI6W2xvMSxoaTFdLCJwYXNzIjpib29sKGxvMT4wKX0KICAgIG91dFsiSDFiX3Bvc3RfbWludXNfb2ZmIl09eyJtZWFuIjptMiwiY2kiOltsbzIsaGkyXSwicG9zdF9ub3RfYmV0dGVyIjpib29sKG5vdChsbzI+MCkpfQogICAgcmV0dXJuIG91dAoKaWYgX19uYW1lX189PSJfX21haW5fXyI6CiAgICByPW1haW4oMTIpOyBwcmludChqc29uLmR1bXBzKHIsZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKSkKICAgIGpzb24uZHVtcChyLG9wZW4oInJlc3VsdF9zMS5qc29uIiwidyIpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""S1 独白 v5
+v4 bug: 干扰每4tick一次，任务4tick跑完 -> mean_dist=0，三臂全1饱和
+v5: 每 tick 真 listdir 感知，感知结果挤占工作记忆；挤入数由真机时钟噪声决定(0/1)
+    独白通道 = 真实 UDP 回环自发自收
+"""
+import os, json, math, socket, time
+from collections import deque
+import numpy as np
+
+REAL_DIR = "/data/workspace/luoshen-o1/experiments"
+TARGET = ["A","B","C"]
+CAP = 3
+
+def ci_paired(d):
+    d=np.asarray(d,float); n=len(d); m=float(d.mean())
+    se=float(d.std(ddof=1))/math.sqrt(n) if n>1 else float("nan")
+    return m, m-1.96*se, m+1.96*se
+
+def run_arm(arm, seed, T=24):
+    s=socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    s.bind(("127.0.0.1",0)); port=s.getsockname()[1]; s.settimeout(0.05)
+    def say(o):
+        try:
+            s.sendto(json.dumps(o).encode(), ("127.0.0.1",port))
+            d,_=s.recvfrom(65535); return json.loads(d.decode())
+        except Exception: return None
+    plan=deque(TARGET,maxlen=CAP); done=[]; ndist=0
+    for t in range(T):
+        # ---- 独白 ----
+        if arm=="pre":
+            if t==0: say({"kind":"plan","plan":TARGET})
+            else:
+                m=say({"kind":"recall"})
+                if m and m.get("kind")=="plan":
+                    for st in m.get("plan",[]):
+                        if st not in done and st not in plan: plan.append(st)
+        elif arm=="post":
+            say({"kind":"hist","hist":done})
+        # ---- 真实感知：每 tick 真 listdir，挤占工作记忆 ----
+        try: items=os.listdir(REAL_DIR)
+        except Exception: items=["x"]
+        if int(time.perf_counter_ns() % 2)==1:      # 真机噪声 -> 0/1
+            plan.append("D:"+items[t % len(items)]); ndist+=1
+        # ---- 执行 ----
+        nxt=TARGET[len(done)]
+        if nxt in plan:
+            plan.remove(nxt); done.append(nxt)
+        if len(done)==len(TARGET): break
+    s.close()
+    return (1.0 if done==TARGET else 0.0), ndist
+
+def main(seeds=12):
+    out={}; sl=list(range(4000,4000+seeds))
+    for arm in ["pre","post","off"]:
+        vals=[];nd=[]
+        for sd in sl:
+            v,n=run_arm(arm,sd); vals.append(v); nd.append(n)
+        out[arm]={"rate":float(np.mean(vals)),"vals":vals,"mean_dist":float(np.mean(nd))}
+    d1=[out["pre"]["vals"][i]-out["off"]["vals"][i] for i in range(seeds)]
+    d2=[out["post"]["vals"][i]-out["off"]["vals"][i] for i in range(seeds)]
+    m1,lo1,hi1=ci_paired(d1); m2,lo2,hi2=ci_paired(d2)
+    out["H1a_pre_minus_off"]={"mean":m1,"ci":[lo1,hi1],"pass":bool(lo1>0)}
+    out["H1b_post_minus_off"]={"mean":m2,"ci":[lo2,hi2],"post_not_better":bool(not(lo2>0))}
+    return out
+
+if __name__=="__main__":
+    r=main(12); print(json.dumps(r,ensure_ascii=False,indent=1))
+    json.dump(r,open("result_s1.json","w"),ensure_ascii=False,indent=1)

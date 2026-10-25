@@ -1,1 +1,82 @@
-IiIi55yf5a6e5o2f5Lyk5rqQICsg55yf5a6e6YCa6YGT6K+75pWwICsg55yf5a6e5ZCe5ZCQ5rWL6YeP44CC5YWo6YOo55SoIGZvcmsgLyAvcHJvYyAvIOiuoeaXtu+8jOS4jeW7uuaooeOAgiIiIgppbXBvcnQgb3MsIHRpbWUsIHNpZ25hbCwganNvbgoKV09SSyA9IDkwMDAwICAjIOS4u+S9k+avj+i9ruW3peS9nOmHj++8iOS5mOazleasoeaVsO+8iQoKCmRlZiB3b3JrKFc9V09SSyk6CiAgICB4ID0gMAogICAgZm9yIGkgaW4gcmFuZ2UoVyk6CiAgICAgICAgeCA9ICh4ICogMTEwMzUxNTI0NSArIDEyMzQ1KSAlIDIxNDc0ODM2NDcKICAgIHJldHVybiB4CgoKZGVmIHNwYXduX2NwdV9idXN5KG4pOgogICAgcGlkcyA9IFtdCiAgICBmb3IgXyBpbiByYW5nZShuKToKICAgICAgICBwaWQgPSBvcy5mb3JrKCkKICAgICAgICBpZiBwaWQgPT0gMDoKICAgICAgICAgICAgeCA9IDAKICAgICAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgICAgIHggPSAoeCAqIDExMDM1MTUyNDUgKyAxMjM0NSkgJSAyMTQ3NDgzNjQ3CiAgICAgICAgICAgIG9zLl9leGl0KDApCiAgICAgICAgcGlkcy5hcHBlbmQocGlkKQogICAgcmV0dXJuIHBpZHMKCgpkZWYgc3Bhd25fbWVtX2hvbGRlcihtYik6CiAgICBwaWQgPSBvcy5mb3JrKCkKICAgIGlmIHBpZCA9PSAwOgogICAgICAgIHRyeToKICAgICAgICAgICAgYiA9IGJ5dGVhcnJheShtYiAqIDEwMjQgKiAxMDI0KQogICAgICAgICAgICBmb3IgaSBpbiByYW5nZSgwLCBsZW4oYiksIDQwOTYpOgogICAgICAgICAgICAgICAgYltpXSA9IDEKICAgICAgICAgICAgc2lnbmFsLnBhdXNlKCkKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBvcy5fZXhpdCgwKQogICAgcmV0dXJuIHBpZAoKCklPRklMRSA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNzFfcGFpbi9fYmlnLmJpbiIKCgpkZWYgZW5zdXJlX2lvZmlsZShtYj0yMDApOgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKElPRklMRSk6CiAgICAgICAgd2l0aCBvcGVuKElPRklMRSwgIndiIikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShvcy51cmFuZG9tKDEwMjQgKiAxMDI0KSkKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UobWIgLSAxKToKICAgICAgICAgICAgICAgIGYud3JpdGUoYiJceDAwIiAqICgxMDI0ICogMTAyNCkpCiAgICAgICAgb3Muc3lzdGVtKCJzeW5jIikKCgpkZWYgc3Bhd25faW9fcmVhZGVyKG4pOgogICAgZW5zdXJlX2lvZmlsZSgpCiAgICBwaWRzID0gW10KICAgIGZvciBfIGluIHJhbmdlKG4pOgogICAgICAgIHBpZCA9IG9zLmZvcmsoKQogICAgICAgIGlmIHBpZCA9PSAwOgogICAgICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICAgICAgd2l0aCBvcGVuKElPRklMRSwgInJiIikgYXMgZjoKICAgICAgICAgICAgICAgICAgICB3aGlsZSBmLnJlYWQoMSA8PCAyMCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgb3MuX2V4aXQoMCkKICAgICAgICBwaWRzLmFwcGVuZChwaWQpCiAgICByZXR1cm4gcGlkcwoKCmRlZiBraWxsYWxsKHBpZHMpOgogICAgZm9yIHAgaW4gcGlkczoKICAgICAgICB0cnk6CiAgICAgICAgICAgIG9zLmtpbGwocCwgc2lnbmFsLlNJR0tJTEwpCiAgICAgICAgICAgIG9zLndhaXRwaWQocCwgMCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBwYXNzCgoKZGVmIHNlbnNlKCk6CiAgICAiIiLnnJ/lrp7pgJrpgZPor7vmlbDvvJrkuInkuKrniannkIbph4/kupLkuI3nm7jpgJrjgIIiIiIKICAgIGxvYWQxID0gZmxvYXQob3BlbigiL3Byb2MvbG9hZGF2ZyIpLnJlYWQoKS5zcGxpdCgpWzBdKQogICAgY3R4dCA9IGludChbbCBmb3IgbCBpbiBvcGVuKCIvcHJvYy9zdGF0IikgaWYgbC5zdGFydHN3aXRoKCJjdHh0IildWzBdLnNwbGl0KClbMV0pCiAgICBtZW0gPSBpbnQoW2wgZm9yIGwgaW4gb3BlbigiL3Byb2MvbWVtaW5mbyIpCiAgICAgICAgICAgICAgIGlmIGwuc3RhcnRzd2l0aCgiTWVtQXZhaWxhYmxlIildWzBdLnNwbGl0KClbMV0pCiAgICByZXR1cm4geyJsb2FkMSI6IGxvYWQxLCAiY3R4dCI6IGN0eHQsICJtZW1fa2IiOiBtZW19Cg==
+"""真实损伤源 + 真实通道读数 + 真实吞吐测量。全部用 fork / /proc / 计时，不建模。"""
+import os, time, signal, json
+
+WORK = 90000  # 主体每轮工作量（乘法次数）
+
+
+def work(W=WORK):
+    x = 0
+    for i in range(W):
+        x = (x * 1103515245 + 12345) % 2147483647
+    return x
+
+
+def spawn_cpu_busy(n):
+    pids = []
+    for _ in range(n):
+        pid = os.fork()
+        if pid == 0:
+            x = 0
+            while True:
+                x = (x * 1103515245 + 12345) % 2147483647
+            os._exit(0)
+        pids.append(pid)
+    return pids
+
+
+def spawn_mem_holder(mb):
+    pid = os.fork()
+    if pid == 0:
+        try:
+            b = bytearray(mb * 1024 * 1024)
+            for i in range(0, len(b), 4096):
+                b[i] = 1
+            signal.pause()
+        finally:
+            os._exit(0)
+    return pid
+
+
+IOFILE = "/data/workspace/luoshen-o1/experiments/exp171_pain/_big.bin"
+
+
+def ensure_iofile(mb=200):
+    if not os.path.exists(IOFILE):
+        with open(IOFILE, "wb") as f:
+            f.write(os.urandom(1024 * 1024))
+            for _ in range(mb - 1):
+                f.write(b"\x00" * (1024 * 1024))
+        os.system("sync")
+
+
+def spawn_io_reader(n):
+    ensure_iofile()
+    pids = []
+    for _ in range(n):
+        pid = os.fork()
+        if pid == 0:
+            while True:
+                with open(IOFILE, "rb") as f:
+                    while f.read(1 << 20):
+                        pass
+            os._exit(0)
+        pids.append(pid)
+    return pids
+
+
+def killall(pids):
+    for p in pids:
+        try:
+            os.kill(p, signal.SIGKILL)
+            os.waitpid(p, 0)
+        except Exception:
+            pass
+
+
+def sense():
+    """真实通道读数：三个物理量互不相通。"""
+    load1 = float(open("/proc/loadavg").read().split()[0])
+    ctxt = int([l for l in open("/proc/stat") if l.startswith("ctxt")][0].split()[1])
+    mem = int([l for l in open("/proc/meminfo")
+               if l.startswith("MemAvailable")][0].split()[1])
+    return {"load1": load1, "ctxt": ctxt, "mem_kb": mem}

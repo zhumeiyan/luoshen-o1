@@ -1,1 +1,129 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIGNvZGVBcmJpdGVyIOKAlCBib2FyZC1kcmlmdCByZWNvbmNpbGUgZW50cnlwb2ludCAoYWR2aXNvcnksIHJlYWQtb25seSBzd2VlcCkuCiMKIyBTdXJmYWNlcyBkcmlmdCBiZXR3ZWVuIHRhc2stYm9hcmQgc3RhdGUgYW5kIG1lcmdlZC1jb21taXQgcmVmZXJlbmNlcy4KIyBXcml0ZXMgbm90aGluZyDigJQgb3Blbi10YXNrcy5tZCBpcyBuZXZlciBvcGVuZWQgZm9yIHdyaXRpbmcgYnkgdGhpcyBtb2R1bGUuCiMKIyBEZXNpZ24gaW52YXJpYW50czoKIyAgIC0gcmVjb25jaWxlX3JlcG9ydChib2FyZF90ZXh0LCBsb2dfdGV4dCwgdG9kYXkpIC0+IHN0ciBpcyBwdXJlOyBuZXZlciByYWlzZXMuCiMgICAtIG1haW4oYXJndikgaXMgdGhlIHRoaW4gSS9PIHNoZWxsOiByZWFkcyBib2FyZCByZWFkLW9ubHkgdmlhIHJlYWRfYm9hcmQoKSwKIyAgICAgcmVhZHMgbWVyZ2VkLWNvbW1pdCB0ZXh0IGZyb20gc3RkaW4gKHRoZSBjYWxsZXIgcGlwZXMgYGdpdCBsb2dgIG91dHB1dCDigJQgbm8KIyAgICAgc3VicHJvY2VzcyBpbiB0aGlzIG1vZHVsZSwgbWlycm9yaW5nIGhvdyBfc3RhbmR1cGxpYiBzdGF5cyBzdWJwcm9jZXNzLWZyZWUpLAojICAgICB0aGVuIGNhbGxzIHJlY29uY2lsZV9yZXBvcnQgYW5kIHByaW50cyB0aGUgcmVzdWx0LgojICAgLSBTdGRsaWIgb25seS4gTm8gc3VicHJvY2VzcyBjYWxscy4gTm8gd3JpdGUgcGF0aHMgb2YgYW55IGtpbmQuCiMKIyBQdWJsaWMgQVBJOgojICAgcmVjb25jaWxlX3JlcG9ydChib2FyZF90ZXh0LCBsb2dfdGV4dCwgdG9kYXkpIC0+IHN0cgojICAgbWFpbihhcmd2PU5vbmUpCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGRhdGV0aW1lCmltcG9ydCBvcwppbXBvcnQgc3lzCgojIEhhbmRsZXMgYm90aCAicnVuIGFzIHNjcmlwdCIgYW5kICJpbXBvcnRlZCBmcm9tIHRoZSB0ZXN0cy8gc3ViLWRpciI6IGVuc3VyZXMKIyB0aGUgaG9va3MgcGFja2FnZSBkaXJlY3RvcnkgaXMgb24gc3lzLnBhdGggc28gX3Rhc2tib2FyZGxpYiByZXNvbHZlcyBjbGVhbmx5CiMgcmVnYXJkbGVzcyBvZiBjd2Qgb3IgaG93IFB5dGhvbiB3YXMgaW52b2tlZC4Kc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKaW1wb3J0IGhvc3RhcGkgICMgbm9xYTogRTQwMiDigJQgaG9zdCBzZWFtIChBRFItMDAxMSkKaW1wb3J0IF9ob29rbGliICAjIG5vcWE6IEU0MDIg4oCUIHNldF9ob3N0IERJIHNlYW0gKCMyNTcpCmltcG9ydCBfZW50cnlsaWIgICMgbm9xYTogRTQwMiDigJQgc2hhcmVkIHJ1bigpIGRpc3BhdGNoIChqc2NwZCBkZWR1cCkKaW1wb3J0IF90YXNrYm9hcmRsaWIgYXMgdGIgICMgbm9xYTogRTQwMgoKCmRlZiByZWNvbmNpbGVfcmVwb3J0KGJvYXJkX3RleHQsIGxvZ190ZXh0LCB0b2RheSk6CiAgICAiIiJSZXR1cm4gYSBodW1hbi1yZWFkYWJsZSBhZHZpc29yeSBkcmlmdCByZXBvcnQgc3RyaW5nLgoKICAgIENhbGxzIGV4dHJhY3RfdGFza19pZHMobG9nX3RleHQpLCB0aGVuIGZpbmRfYm9hcmRfZHJpZnQgYWdhaW5zdCBib2FyZF90ZXh0LAogICAgYW5kIGZvcm1hdHMgdGhlIHJlc3VsdDogZHJpZnRlZCB0YXNrcyAoaWQgKyBzdGF0ZSkgYW5kIHVua25vd24gaWRzLCBvciBhCiAgICBjbGVhbiAnbm8gZHJpZnQgZGV0ZWN0ZWQnIGxpbmUgd2hlbiBub3RoaW5nIG5lZWRzIGF0dGVudGlvbi4KCiAgICBQdXJlIOKAlCBuZXZlciByYWlzZXMuIE5vbmUvZW1wdHkgaW5wdXRzIGRlZ3JhZGUgdG8gYSBjbGVhbiAoZW1wdHkpIHJlcG9ydC4KCiAgICBEcmlmdGVkID0gdGFzayB3aG9zZSBib2FyZCBzdGF0ZSBpcyBub3QgW3hdIGJ1dCB3aG9zZSBpZCBhcHBlYXJlZCBpbiB0aGUKICAgIG1lcmdlZC1jb21taXQgbG9nICh3b3JrIGxhbmRlZCwgYm9hcmQgbm90IGZsaXBwZWQpLiBVbmtub3duID0gaWQgaW4gdGhlIGxvZwogICAgYWJzZW50IGZyb20gdGhlIGJvYXJkIGVudGlyZWx5IChpbmZvcm1hdGlvbmFsIG9ubHk7IG5ldmVyIHRyZWF0ZWQgYXMgZHJpZnQpLgogICAgIiIiCiAgICB0cnk6CiAgICAgICAgbWVyZ2VkX2lkcyA9IHRiLmV4dHJhY3RfdGFza19pZHMobG9nX3RleHQgb3IgIiIpCiAgICAgICAgcmVzdWx0ID0gdGIuZmluZF9ib2FyZF9kcmlmdChib2FyZF90ZXh0IG9yICIiLCBtZXJnZWRfaWRzLCB0b2RheSkKICAgICAgICBsaW5lcyA9IFtmIkJvYXJkIGRyaWZ0IHN3ZWVwIOKAlCB7cmVzdWx0Lm9ic2VydmVkLmlzb2Zvcm1hdCgpfSJdCiAgICAgICAgaWYgbm90IHJlc3VsdC5kcmlmdGVkIGFuZCBub3QgcmVzdWx0LnVua25vd246CiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgiICBubyBkcmlmdCBkZXRlY3RlZCIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgcmVzdWx0LmRyaWZ0ZWQ6CiAgICAgICAgICAgICAgICBsaW5lcy5hcHBlbmQoIiAgRFJJRlRFRCAobWVyZ2VkIGJ1dCBub3QgW3hdKToiKQogICAgICAgICAgICAgICAgZm9yIHQgaW4gcmVzdWx0LmRyaWZ0ZWQ6CiAgICAgICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYiICAgIHt0LmlkfSAgc3RhdGU9e3Quc3RhdGV9IikKICAgICAgICAgICAgaWYgcmVzdWx0LnVua25vd246CiAgICAgICAgICAgICAgICBsaW5lcy5hcHBlbmQoIiAgVU5LTk9XTiBpZHMgKGluIGxvZyBidXQgbm90IG9uIGJvYXJkKToiKQogICAgICAgICAgICAgICAgZm9yIHVpZCBpbiByZXN1bHQudW5rbm93bjoKICAgICAgICAgICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiIgICAge3VpZH0iKQogICAgICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCiAgICBleGNlcHQgRXhjZXB0aW9uOiAgIyBub3FhOiBCTEUwMDEKICAgICAgICByZXR1cm4gIkJvYXJkIGRyaWZ0IHN3ZWVwIOKAlCBlcnJvciBkdXJpbmcgcmVwb3J0IChpbnB1dCBtYXkgYmUgbWFsZm9ybWVkKSIKCgpkZWYgbWFpbihhcmd2PU5vbmUpOgogICAgIiIiVGhpbiBJL08gZW50cnlwb2ludCBmb3IgdGhlIGJvYXJkLWRyaWZ0IGFkdmlzb3J5IHN3ZWVwLgoKICAgIFJlYWRzIHRoZSBib2FyZCBmaWxlIHJlYWQtb25seSB2aWEgX3Rhc2tib2FyZGxpYi5yZWFkX2JvYXJkIChuZXZlciBvcGVucyBpdAogICAgZm9yIHdyaXRpbmcpLiBSZWFkcyBtZXJnZWQtY29tbWl0IHRleHQgZnJvbSBzdGRpbi4gUHJpbnRzIHRoZSBhZHZpc29yeSByZXBvcnQKICAgIHByb2R1Y2VkIGJ5IHJlY29uY2lsZV9yZXBvcnQuIFdyaXRlcyBub3RoaW5nLgoKICAgIFN1YmNvbW1hbmRzOgogICAgICByZWNvbmNpbGUgWy0tYm9hcmQgUEFUSF0gICBzdXJmYWNlIGRyaWZ0OyBib2FyZCBpcyBuZXZlciB3cml0dGVuLgogICAgIiIiCiAgICBpZiBhcmd2IGlzIE5vbmU6CiAgICAgICAgYXJndiA9IHN5cy5hcmd2WzE6XQoKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKAogICAgICAgIHByb2c9ImJvYXJkc3luYyIsCiAgICAgICAgZGVzY3JpcHRpb249IkFkdmlzb3J5IGJvYXJkLWRyaWZ0IHN3ZWVwIOKAlCBuZXZlciB3cml0ZXMgb3Blbi10YXNrcy5tZC4iLAogICAgKQogICAgc3ViID0gcGFyc2VyLmFkZF9zdWJwYXJzZXJzKGRlc3Q9ImNvbW1hbmQiKQoKICAgIHJlYyA9IHN1Yi5hZGRfcGFyc2VyKCJyZWNvbmNpbGUiLCBoZWxwPSJzdXJmYWNlIGJvYXJkIGRyaWZ0IChyZWFkLW9ubHkpIikKICAgIHJlYy5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tYm9hcmQiLAogICAgICAgIGRlZmF1bHQ9Ii5jb2RlYXJiaXRlci9vcGVuLXRhc2tzLm1kIiwKICAgICAgICBtZXRhdmFyPSJQQVRIIiwKICAgICAgICBoZWxwPSJwYXRoIHRvIG9wZW4tdGFza3MubWQgKGRlZmF1bHQ6IC5jb2RlYXJiaXRlci9vcGVuLXRhc2tzLm1kKSIsCiAgICApCgogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKGFyZ3YpCgogICAgaWYgYXJncy5jb21tYW5kID09ICJyZWNvbmNpbGUiOgogICAgICAgICMgRGVmZW5zZS1pbi1kZXB0aDogaG9ub3IgdGhlIG1vZHVsZSdzIGNyYXNoLXNhZmUgaW52YXJpYW50IGZvciB0aGUgSS9PCiAgICAgICAgIyBwYXRoIHRvbyAocmVhZF9ib2FyZCAvIHN0ZGluKSwgbm90IGp1c3QgcmVjb25jaWxlX3JlcG9ydCDigJQgYSBtYWxmb3JtZWQKICAgICAgICAjIC0tYm9hcmQgb3IgYSBzdGRpbiByZWFkIGVycm9yIGRlZ3JhZGVzIHRvIHRoZSBhZHZpc29yeSByZXBvcnQsIG5ldmVyIGEKICAgICAgICAjIHRyYWNlYmFjay4gKFNlY3VyaXR5IHJldmlldyAyMDI2LTA2LTI2LCBMT1cuKQogICAgICAgIHRvZGF5ID0gZGF0ZXRpbWUuZGF0ZS50b2RheSgpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBib2FyZF90ZXh0ID0gdGIucmVhZF9ib2FyZChhcmdzLmJvYXJkKQogICAgICAgICAgICBsb2dfdGV4dCA9IHN5cy5zdGRpbi5yZWFkKCkKICAgICAgICAgICAgcmVwb3J0ID0gcmVjb25jaWxlX3JlcG9ydChib2FyZF90ZXh0IG9yICIiLCBsb2dfdGV4dCwgdG9kYXkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcmVwb3J0ID0gcmVjb25jaWxlX3JlcG9ydCgiIiwgIiIsIHRvZGF5KQogICAgICAgIHByaW50KHJlcG9ydCkKICAgIGVsc2U6CiAgICAgICAgcGFyc2VyLnByaW50X2hlbHAoKQoKCmRlZiBydW4oaG9zdCwgYXJndj1Ob25lKToKICAgICIiIkhvc3Qtc2VhbSBlbnRyeSBwb2ludCAoQURSLTAwMTEpOiB0aGUgX19tYWluX18gZ3VhcmQgY2FsbHMgdGhpcyB3aXRoIHRoZQogICAgcGx1Z2luJ3MgbG9hZGVkIEhvc3QuIFdyYXBzIG1haW4oYXJndikgdW5jaGFuZ2VkIOKAlCBtYWluKCkncyByZXR1cm4gdmFsdWUKICAgIHN0YXlzIGRpc2NhcmRlZCBleGFjdGx5IGFzIHRoZSBvbGQgYmFyZSBgbWFpbigpYCBndWFyZCBkaXNjYXJkZWQgaXQgKHNvCiAgICB0aGUgcHJvY2VzcyBzdGlsbCBleGl0cyAwIG9uIGEgbm9ybWFsIGZhbGwtdGhyb3VnaCkuCgogICAgV2lyZXMgYGhvc3RgIGxpdmUgKCMyNTcpOiBwcmltZXMgYF9ob29rbGliYCdzIHByb2Nlc3MtY2FjaGVkIEhvc3QgdmlhCiAgICBgc2V0X2hvc3QoKWAgQkVGT1JFIG1haW4oKSBydW5zLCBzbyBhbnkgYGdldF9ob3N0KClgIGNhbGwgZG93bnN0cmVhbQogICAgcmVzb2x2ZXMgdG8gdGhlIFNBTUUgaW5zdGFuY2UgdGhlIGNhbGxlciBwYXNzZWQgaGVyZSDigJQgbm8gc2Vjb25kCiAgICBgaG9zdGFwaS5sb2FkX2hvc3QoKWAsIGFuZCBgcnVuKGZha2VfaG9zdClgIGdlbnVpbmVseSBleGVyY2lzZXMKICAgIGBmYWtlX2hvc3RgLiIiIgogICAgcmV0dXJuIF9lbnRyeWxpYi5kaXNwYXRjaChob3N0LCBhcmd2LCBtYWluLCBfaG9va2xpYi5zZXRfaG9zdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3NfYXJndj1UcnVlLCBwcm9wYWdhdGVfcmVzdWx0PUZhbHNlKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChydW4oaG9zdGFwaS5sb2FkX2hvc3QoKSkgb3IgMCkK
+#!/usr/bin/env python3
+# codeArbiter — board-drift reconcile entrypoint (advisory, read-only sweep).
+#
+# Surfaces drift between task-board state and merged-commit references.
+# Writes nothing — open-tasks.md is never opened for writing by this module.
+#
+# Design invariants:
+#   - reconcile_report(board_text, log_text, today) -> str is pure; never raises.
+#   - main(argv) is the thin I/O shell: reads board read-only via read_board(),
+#     reads merged-commit text from stdin (the caller pipes `git log` output — no
+#     subprocess in this module, mirroring how _standuplib stays subprocess-free),
+#     then calls reconcile_report and prints the result.
+#   - Stdlib only. No subprocess calls. No write paths of any kind.
+#
+# Public API:
+#   reconcile_report(board_text, log_text, today) -> str
+#   main(argv=None)
+
+import argparse
+import datetime
+import os
+import sys
+
+# Handles both "run as script" and "imported from the tests/ sub-dir": ensures
+# the hooks package directory is on sys.path so _taskboardlib resolves cleanly
+# regardless of cwd or how Python was invoked.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import hostapi  # noqa: E402 — host seam (ADR-0011)
+import _hooklib  # noqa: E402 — set_host DI seam (#257)
+import _entrylib  # noqa: E402 — shared run() dispatch (jscpd dedup)
+import _taskboardlib as tb  # noqa: E402
+
+
+def reconcile_report(board_text, log_text, today):
+    """Return a human-readable advisory drift report string.
+
+    Calls extract_task_ids(log_text), then find_board_drift against board_text,
+    and formats the result: drifted tasks (id + state) and unknown ids, or a
+    clean 'no drift detected' line when nothing needs attention.
+
+    Pure — never raises. None/empty inputs degrade to a clean (empty) report.
+
+    Drifted = task whose board state is not [x] but whose id appeared in the
+    merged-commit log (work landed, board not flipped). Unknown = id in the log
+    absent from the board entirely (informational only; never treated as drift).
+    """
+    try:
+        merged_ids = tb.extract_task_ids(log_text or "")
+        result = tb.find_board_drift(board_text or "", merged_ids, today)
+        lines = [f"Board drift sweep — {result.observed.isoformat()}"]
+        if not result.drifted and not result.unknown:
+            lines.append("  no drift detected")
+        else:
+            if result.drifted:
+                lines.append("  DRIFTED (merged but not [x]):")
+                for t in result.drifted:
+                    lines.append(f"    {t.id}  state={t.state}")
+            if result.unknown:
+                lines.append("  UNKNOWN ids (in log but not on board):")
+                for uid in result.unknown:
+                    lines.append(f"    {uid}")
+        return "\n".join(lines)
+    except Exception:  # noqa: BLE001
+        return "Board drift sweep — error during report (input may be malformed)"
+
+
+def main(argv=None):
+    """Thin I/O entrypoint for the board-drift advisory sweep.
+
+    Reads the board file read-only via _taskboardlib.read_board (never opens it
+    for writing). Reads merged-commit text from stdin. Prints the advisory report
+    produced by reconcile_report. Writes nothing.
+
+    Subcommands:
+      reconcile [--board PATH]   surface drift; board is never written.
+    """
+    if argv is None:
+        argv = sys.argv[1:]
+
+    parser = argparse.ArgumentParser(
+        prog="boardsync",
+        description="Advisory board-drift sweep — never writes open-tasks.md.",
+    )
+    sub = parser.add_subparsers(dest="command")
+
+    rec = sub.add_parser("reconcile", help="surface board drift (read-only)")
+    rec.add_argument(
+        "--board",
+        default=".codearbiter/open-tasks.md",
+        metavar="PATH",
+        help="path to open-tasks.md (default: .codearbiter/open-tasks.md)",
+    )
+
+    args = parser.parse_args(argv)
+
+    if args.command == "reconcile":
+        # Defense-in-depth: honor the module's crash-safe invariant for the I/O
+        # path too (read_board / stdin), not just reconcile_report — a malformed
+        # --board or a stdin read error degrades to the advisory report, never a
+        # traceback. (Security review 2026-06-26, LOW.)
+        today = datetime.date.today()
+        try:
+            board_text = tb.read_board(args.board)
+            log_text = sys.stdin.read()
+            report = reconcile_report(board_text or "", log_text, today)
+        except Exception:
+            report = reconcile_report("", "", today)
+        print(report)
+    else:
+        parser.print_help()
+
+
+def run(host, argv=None):
+    """Host-seam entry point (ADR-0011): the __main__ guard calls this with the
+    plugin's loaded Host. Wraps main(argv) unchanged — main()'s return value
+    stays discarded exactly as the old bare `main()` guard discarded it (so
+    the process still exits 0 on a normal fall-through).
+
+    Wires `host` live (#257): primes `_hooklib`'s process-cached Host via
+    `set_host()` BEFORE main() runs, so any `get_host()` call downstream
+    resolves to the SAME instance the caller passed here — no second
+    `hostapi.load_host()`, and `run(fake_host)` genuinely exercises
+    `fake_host`."""
+    return _entrylib.dispatch(host, argv, main, _hooklib.set_host,
+                               pass_argv=True, propagate_result=False)
+
+
+if __name__ == "__main__":
+    sys.exit(run(hostapi.load_host()) or 0)

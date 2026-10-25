@@ -1,1 +1,82 @@
-aW1wb3J0IG9zLCBzeXMsIGpzb24sIHRpbWUsIHN0cnVjdCwgc29ja2V0LCByYW5kb20KaW1wb3J0IG11bHRpcHJvY2Vzc2luZyBhcyBtcApOU0xPVD04OyBOVElDSz0zMDAKCmRlZiBhZ2VudChuYW1lLCBwYXRoLCBwcywgcHAsIG1vZGUsIHNlZWQsIG50aWNrLCB0YWcpOgogICAgcm5nPXJhbmRvbS5SYW5kb20oc2VlZCkKICAgIGZkPW9zLm9wZW4ocGF0aCwgb3MuT19SRFdSKSAgICAgICAgICAgICAgICAgIyDluLjpqbsgZmTvvJrmspnnm5Igb3BlbigpPTIxbXPvvIzkuI3og73mr48gdGljayDlvIAKICAgIHM9c29ja2V0LnNvY2tldChzb2NrZXQuQUZfSU5FVCxzb2NrZXQuU09DS19ER1JBTSk7IHMuYmluZCgoJzEyNy4wLjAuMScscHMpKQogICAgcy5zZXR0aW1lb3V0KDAuMDMpOyBwZWVyPSgnMTI3LjAuMC4xJyxwcCkKICAgICMg5Y+M5ZCRIGFjayDmj6HmiYvvvJrljZXlkJHkvJrlr7zoh7TlkI7lkK/liqjogIXmsLjov5znrYnkuI3liLDvvIjlrp7mtYsgMTRzIOWFqOWksei0pe+8iQogICAgZ290X2hpPUZhbHNlOyBnb3RfYWNrPUZhbHNlOyB0ZW5kPXRpbWUudGltZSgpKzIwCiAgICB3aGlsZSB0aW1lLnRpbWUoKTx0ZW5kIGFuZCBub3QgKGdvdF9oaSBhbmQgZ290X2Fjayk6CiAgICAgICAgdHJ5OiBzLnNlbmR0byhiJ2hpJyxwZWVyKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOiBwYXNzCiAgICAgICAgdHJ5OgogICAgICAgICAgICBkLF9hPXMucmVjdmZyb20oNjQpCiAgICAgICAgICAgIGlmIGQ9PWInaGknOiBnb3RfaGk9VHJ1ZTsgcy5zZW5kdG8oYidhY2snLHBlZXIpCiAgICAgICAgICAgIGVsaWYgZD09YidhY2snOiBnb3RfYWNrPVRydWUKICAgICAgICBleGNlcHQgc29ja2V0LnRpbWVvdXQ6IHRpbWUuc2xlZXAoMC4wMDMpCiAgICBocz17J2dvdF9oaSc6Z290X2hpLCdnb3RfYWNrJzpnb3RfYWNrfQogICAgcy5zZXR0aW1lb3V0KDAuMDAxKQogICAgZm9yIF8gaW4gcmFuZ2UoODApOgogICAgICAgIHRyeTogcy5yZWN2ZnJvbSg2NCkKICAgICAgICBleGNlcHQgc29ja2V0LnRpbWVvdXQ6IGJyZWFrCiAgICBzLnNldHRpbWVvdXQoMC4wMykKICAgIGRlZiByZCgpOiByZXR1cm4gbGlzdChzdHJ1Y3QudW5wYWNrKCc8OGknLCBvcy5wcmVhZChmZCwzMiwwKSkpCiAgICBkZWYgYnVtcChzbG90KToKICAgICAgICB2PXN0cnVjdC51bnBhY2soJzxpJywgb3MucHJlYWQoZmQsNCxzbG90KjQpKVswXQogICAgICAgIG9zLnB3cml0ZShmZCwgc3RydWN0LnBhY2soJzxpJyx2KzEpLCBzbG90KjQpCiAgICBnPTAuNTsgcHJldj1yZCgpCiAgICBsb2c9ZGljdChuYW1lPW5hbWUsbW9kZT1tb2RlLGhzPWhzLGFjdD1bXSxnPVtdLGRlbHRhPVtdLHdvcmxkPVtdLHBlZXJfZz1bXSxnb3Q9W10sdHM9W10saW9fbnM9W10pCiAgICBmb3IgdCBpbiByYW5nZShudGljayk6CiAgICAgICAgdz1yZCgpCiAgICAgICAgaGk9bWF4KHJhbmdlKE5TTE9UKSxrZXk9bGFtYmRhIGk6d1tpXSkKICAgICAgICBpZiBtb2RlPT0ncmFuZG9tQicgYW5kIG5hbWU9PSdCJzogYWN0PXJuZy5yYW5kcmFuZ2UoTlNMT1QpCiAgICAgICAgZWxzZTogYWN0ID0gcm5nLmNob2ljZShbaSBmb3IgaSBpbiByYW5nZShOU0xPVCkgaWYgaSE9aGldKSBpZiBnPjAuNSBlbHNlIGhpCiAgICAgICAgdDA9dGltZS50aW1lX25zKCk7IGJ1bXAoYWN0KTsgaW89dGltZS50aW1lX25zKCktdDAKICAgICAgICBwZz1Ob25lCiAgICAgICAgaWYgbW9kZT09J3RlbGwnOgogICAgICAgICAgICB0cnk6IHMuc2VuZHRvKHN0cnVjdC5wYWNrKCc8UWQnLHQsZykscGVlcikKICAgICAgICAgICAgZXhjZXB0IE9TRXJyb3I6IHBhc3MKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgZCxfPXMucmVjdmZyb20oNjQpCiAgICAgICAgICAgICAgICBpZiBsZW4oZCk9PTE2OiBfdDIscGc9c3RydWN0LnVucGFjaygnPFFkJyxkKQogICAgICAgICAgICBleGNlcHQgc29ja2V0LnRpbWVvdXQ6IHBnPU5vbmUKICAgICAgICBhZnRlcj1yZCgpOyBkXz1bYWZ0ZXJbaV0tcHJldltpXSBmb3IgaSBpbiByYW5nZShOU0xPVCldCiAgICAgICAgIyDljp/niYjlj6rljYfkuI3pmY0tPmdfc2VsZuWNoeWcqDAuNTZ+MC45NSznrZbnlaXplIHmrbss6K+75b+D5Lu75Yqh6YCA5YyW44CCCiAgICAgICAgIyDmlLnkuLogT1Ug5YaF5Zyo6IqC5b6LKOWdh+WAvOWbnuW9kivnnJ/pq5jmlq/lmarlo7ApICsg56Kw5pKe5Y+N6aaILCDkv53or4Hlj4zlkJHot6jotoogMC41CiAgICAgICAgZyArPSAtMC4wOCooZy0wLjUpICsgcm5nLmdhdXNzKDAsMC4wNSkKICAgICAgICBpZiBkX1thY3RdPj0yOiBnIC09IDAuMDMgICAgICAjIOWQjOanveeisOaSniA9IOernuS6ieWPl+mYuwogICAgICAgIGc9bWluKDAuOTUsbWF4KDAuMDUsZykpCiAgICAgICAgbG9nWydhY3QnXS5hcHBlbmQoYWN0KTsgbG9nWydnJ10uYXBwZW5kKGcpOyBsb2dbJ2RlbHRhJ10uYXBwZW5kKGRfKQogICAgICAgIGxvZ1snd29ybGQnXS5hcHBlbmQoYWZ0ZXJbOl0pOyBsb2dbJ3BlZXJfZyddLmFwcGVuZChwZykKICAgICAgICBsb2dbJ2dvdCddLmFwcGVuZChwZyBpcyBub3QgTm9uZSk7IGxvZ1sndHMnXS5hcHBlbmQodCk7IGxvZ1snaW9fbnMnXS5hcHBlbmQoaW8pCiAgICAgICAgcHJldj1hZnRlcls6XQogICAgb3MuY2xvc2UoZmQpOyBzLmNsb3NlKCkKICAgIGpzb24uZHVtcChsb2csIG9wZW4oJ2xvZ18lcy5qc29uJyV0YWcsJ3cnKSkKCmRlZiBydW5fcGFpcihtb2RlLCBudGljaz1OVElDSywgc2VlZEE9MSwgc2VlZEI9Mik6CiAgICBoZXJlPW9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQogICAgcGF0aD1vcy5wYXRoLmpvaW4oaGVyZSwnd29ybGRfJXMuYmluJyVtb2RlKQogICAgd2l0aCBvcGVuKHBhdGgsJ3diJykgYXMgZjogZi53cml0ZShzdHJ1Y3QucGFjaygnPDhpJywqWzBdKk5TTE9UKSkKICAgIHBhPXNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsc29ja2V0LlNPQ0tfREdSQU0pOyBwYS5iaW5kKCgnMTI3LjAuMC4xJywwKSk7IEFQPXBhLmdldHNvY2tuYW1lKClbMV0KICAgIHBiPXNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsc29ja2V0LlNPQ0tfREdSQU0pOyBwYi5iaW5kKCgnMTI3LjAuMC4xJywwKSk7IEJQPXBiLmdldHNvY2tuYW1lKClbMV0KICAgIHBhLmNsb3NlKCk7IHBiLmNsb3NlKCkKICAgIHAxPW1wLlByb2Nlc3ModGFyZ2V0PWFnZW50LGFyZ3M9KCdBJyxwYXRoLEFQLEJQLG1vZGUsc2VlZEEsbnRpY2ssJ0FfJyttb2RlKSkKICAgIHAyPW1wLlByb2Nlc3ModGFyZ2V0PWFnZW50LGFyZ3M9KCdCJyxwYXRoLEJQLEFQLG1vZGUsc2VlZEIsbnRpY2ssJ0JfJyttb2RlKSkKICAgIHQwPXRpbWUudGltZSgpOyBwMS5zdGFydCgpOyBwMi5zdGFydCgpOyBwMS5qb2luKHRpbWVvdXQ9NjAwKTsgcDIuam9pbih0aW1lb3V0PTYwMCkKICAgIGVsPXRpbWUudGltZSgpLXQwCiAgICBnb3Q9e30KICAgIGZvciBubSBpbiBbJ0EnLCdCJ106CiAgICAgICAgZm49b3MucGF0aC5qb2luKGhlcmUsJ2xvZ18lc18lcy5qc29uJyUobm0sbW9kZSkpCiAgICAgICAgZ290W25tXT1qc29uLmxvYWQob3BlbihmbikpIGlmIG9zLnBhdGguZXhpc3RzKGZuKSBlbHNlIHsnYWN0JzpbXX0KICAgIHByaW50KCcgIG1vZGU9JS04cyAlLjFmcyAgbGVuQT0lZCBsZW5CPSVkJyUobW9kZSxlbCxsZW4oZ290WydBJ11bJ2FjdCddKSxsZW4oZ290WydCJ11bJ2FjdCddKSkpCiAgICByZXR1cm4gZ290CgppZiBfX25hbWVfXz09J19fbWFpbl9fJzoKICAgIG91dD17fQogICAgZm9yIG1vZGUgaW4gWydiYXNlJywndGVsbCcsJ3JhbmRvbUInXToKICAgICAgICBvdXRbbW9kZV09cnVuX3BhaXIobW9kZSkKICAgIGpzb24uZHVtcChvdXQsb3BlbigncmF3MTQ5Lmpzb24nLCd3JykpCiAgICBwcmludCgnc2F2ZWQgcmF3MTQ5Lmpzb24nKQo=
+import os, sys, json, time, struct, socket, random
+import multiprocessing as mp
+NSLOT=8; NTICK=300
+
+def agent(name, path, ps, pp, mode, seed, ntick, tag):
+    rng=random.Random(seed)
+    fd=os.open(path, os.O_RDWR)                 # 常驻 fd：沙盒 open()=21ms，不能每 tick 开
+    s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); s.bind(('127.0.0.1',ps))
+    s.settimeout(0.03); peer=('127.0.0.1',pp)
+    # 双向 ack 握手：单向会导致后启动者永远等不到（实测 14s 全失败）
+    got_hi=False; got_ack=False; tend=time.time()+20
+    while time.time()<tend and not (got_hi and got_ack):
+        try: s.sendto(b'hi',peer)
+        except OSError: pass
+        try:
+            d,_a=s.recvfrom(64)
+            if d==b'hi': got_hi=True; s.sendto(b'ack',peer)
+            elif d==b'ack': got_ack=True
+        except socket.timeout: time.sleep(0.003)
+    hs={'got_hi':got_hi,'got_ack':got_ack}
+    s.settimeout(0.001)
+    for _ in range(80):
+        try: s.recvfrom(64)
+        except socket.timeout: break
+    s.settimeout(0.03)
+    def rd(): return list(struct.unpack('<8i', os.pread(fd,32,0)))
+    def bump(slot):
+        v=struct.unpack('<i', os.pread(fd,4,slot*4))[0]
+        os.pwrite(fd, struct.pack('<i',v+1), slot*4)
+    g=0.5; prev=rd()
+    log=dict(name=name,mode=mode,hs=hs,act=[],g=[],delta=[],world=[],peer_g=[],got=[],ts=[],io_ns=[])
+    for t in range(ntick):
+        w=rd()
+        hi=max(range(NSLOT),key=lambda i:w[i])
+        if mode=='randomB' and name=='B': act=rng.randrange(NSLOT)
+        else: act = rng.choice([i for i in range(NSLOT) if i!=hi]) if g>0.5 else hi
+        t0=time.time_ns(); bump(act); io=time.time_ns()-t0
+        pg=None
+        if mode=='tell':
+            try: s.sendto(struct.pack('<Qd',t,g),peer)
+            except OSError: pass
+            try:
+                d,_=s.recvfrom(64)
+                if len(d)==16: _t2,pg=struct.unpack('<Qd',d)
+            except socket.timeout: pg=None
+        after=rd(); d_=[after[i]-prev[i] for i in range(NSLOT)]
+        # 原版只升不降->g_self卡在0.56~0.95,策略锁死,读心任务退化。
+        # 改为 OU 内在节律(均值回归+真高斯噪声) + 碰撞反馈, 保证双向跨越 0.5
+        g += -0.08*(g-0.5) + rng.gauss(0,0.05)
+        if d_[act]>=2: g -= 0.03      # 同槽碰撞 = 竞争受阻
+        g=min(0.95,max(0.05,g))
+        log['act'].append(act); log['g'].append(g); log['delta'].append(d_)
+        log['world'].append(after[:]); log['peer_g'].append(pg)
+        log['got'].append(pg is not None); log['ts'].append(t); log['io_ns'].append(io)
+        prev=after[:]
+    os.close(fd); s.close()
+    json.dump(log, open('log_%s.json'%tag,'w'))
+
+def run_pair(mode, ntick=NTICK, seedA=1, seedB=2):
+    here=os.path.dirname(os.path.abspath(__file__))
+    path=os.path.join(here,'world_%s.bin'%mode)
+    with open(path,'wb') as f: f.write(struct.pack('<8i',*[0]*NSLOT))
+    pa=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); pa.bind(('127.0.0.1',0)); AP=pa.getsockname()[1]
+    pb=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); pb.bind(('127.0.0.1',0)); BP=pb.getsockname()[1]
+    pa.close(); pb.close()
+    p1=mp.Process(target=agent,args=('A',path,AP,BP,mode,seedA,ntick,'A_'+mode))
+    p2=mp.Process(target=agent,args=('B',path,BP,AP,mode,seedB,ntick,'B_'+mode))
+    t0=time.time(); p1.start(); p2.start(); p1.join(timeout=600); p2.join(timeout=600)
+    el=time.time()-t0
+    got={}
+    for nm in ['A','B']:
+        fn=os.path.join(here,'log_%s_%s.json'%(nm,mode))
+        got[nm]=json.load(open(fn)) if os.path.exists(fn) else {'act':[]}
+    print('  mode=%-8s %.1fs  lenA=%d lenB=%d'%(mode,el,len(got['A']['act']),len(got['B']['act'])))
+    return got
+
+if __name__=='__main__':
+    out={}
+    for mode in ['base','tell','randomB']:
+        out[mode]=run_pair(mode)
+    json.dump(out,open('raw149.json','w'))
+    print('saved raw149.json')

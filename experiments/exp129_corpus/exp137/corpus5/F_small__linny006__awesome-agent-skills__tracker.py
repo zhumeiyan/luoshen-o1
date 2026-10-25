@@ -1,1 +1,138 @@
-IiIiVXBkYXRlIHNjcmlwdCBmb3IgYXdlc29tZS1hZ2VudC1za2lsbHMuCgpSdW5zIG9uIGEgY3JvbiB2aWEgLmdpdGh1Yi93b3JrZmxvd3MvdXBkYXRlLnltbCBldmVyeSAxNQptaW51dGVzLiBGZXRjaGVzIHRoZSB1cHN0cmVhbSBkYXRhLCBkaWZmcyBhZ2FpbnN0IGRhdGEvaXRlbXMuanNvbiwgcmV3cml0ZXMKdGhlIFJFQURNRSBiZXR3ZWVuIHNlbnRpbmVsIG1hcmtlcnMsIHdyaXRlcyBhIG5ldyBKU09OIHNuYXBzaG90LiBUaGUKd29ya2Zsb3cgdGhlbiBjb21taXRzIGFueSBkaWZmIHdpdGggYSBtZXNzYWdlIGxpa2UKYGBmZWF0OiArTiBhZGRlZCwgLU0gcmVtb3ZlZCAodGltZXN0YW1wKWBgLgoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgc3lzCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lem9uZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmltcG9ydCBodHRweAoKCkRBVEFfRklMRSA9IFBhdGgoImRhdGEvaXRlbXMuanNvbiIpClJFQURNRV9GSUxFID0gUGF0aCgiUkVBRE1FLm1kIikKVEFCTEVfU1RBUlQgPSAiPCEtLSBUUkFDS0VSX1RBQkxFX1NUQVJUIC0tPiIKVEFCTEVfRU5EID0gIjwhLS0gVFJBQ0tFUl9UQUJMRV9FTkQgLS0+IgpMQVNUX1VQREFURURfUkUgPSByZS5jb21waWxlKHIiXj4g4o+wIExhc3QgdXBkYXRlZDogLiskIiwgcmUuTVVMVElMSU5FKQpJVEVNU19CQURHRV9SRSA9IHJlLmNvbXBpbGUociJiYWRnZS9UcmFja2VkX0l0ZW1zLVxkKy1icmlnaHRncmVlbiIpCgoKIyA9PT0gRGF0YSBmZXRjaCA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIFRoZSBkZWZhdWx0IGZldGNoZXIgcXVlcmllcyB0aGUgR2l0SHViIFNlYXJjaCBBUEkgZm9yIHJlcG9zIG1hdGNoaW5nIGEKIyB0b3BpYyArIHJlY2VudCBwdXNoLiBSZXBsYWNlIGBgZmV0Y2hfaXRlbXNgYCBpZiB5b3VyIHRyYWNrZXIgbmVlZHMgYQojIGRpZmZlcmVudCB1cHN0cmVhbS4KCkdJVEhVQl9RVUVSWSA9ICd0b3BpYzphZ2VudC1za2lsbHMgc29ydDp1cGRhdGVkLWRlc2MnCkdJVEhVQl9UT0tFTiA9IG9zLmVudmlyb24uZ2V0KCJHSVRIVUJfVE9LRU4iLCAiIikKTUFYX0lURU1TID0gMjAwCgoKZGVmIGZldGNoX2l0ZW1zKCkgLT4gbGlzdFtkaWN0XToKICAgICIiIlJldHVybiBhIGxpc3Qgb2YgY3VycmVudCBpdGVtcy4gRWFjaCBpdGVtIG11c3QgaGF2ZSBhbiBgYGlkYGAKICAgIChzdGFibGUgaWRlbnRpZmllciB1c2VkIGZvciBkaWZmaW5nKSBhbmQgdGhlIGNvbHVtbnMgcmVuZGVyZWQgaW4KICAgIHRoZSB0YWJsZS4iIiIKICAgIGlmIG5vdCBHSVRIVUJfVE9LRU46CiAgICAgICAgcHJpbnQoIldBUk46IEdJVEhVQl9UT0tFTiBub3Qgc2V0OyBydW5uaW5nIHdpdGggYW5vbnltb3VzIHF1b3RhIikKICAgIGhlYWRlcnMgPSB7IkFjY2VwdCI6ICJhcHBsaWNhdGlvbi92bmQuZ2l0aHViK2pzb24ifQogICAgaWYgR0lUSFVCX1RPS0VOOgogICAgICAgIGhlYWRlcnNbIkF1dGhvcml6YXRpb24iXSA9IGYidG9rZW4ge0dJVEhVQl9UT0tFTn0iCgogICAgdXJsID0gImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vc2VhcmNoL3JlcG9zaXRvcmllcyIKICAgIHBhcmFtcyA9IHsicSI6IEdJVEhVQl9RVUVSWSwgInNvcnQiOiAidXBkYXRlZCIsICJvcmRlciI6ICJkZXNjIiwgInBlcl9wYWdlIjogTUFYX0lURU1TfQogICAgcmVzcCA9IGh0dHB4LmdldCh1cmwsIGhlYWRlcnM9aGVhZGVycywgcGFyYW1zPXBhcmFtcywgdGltZW91dD0zMCkKICAgIHJlc3AucmFpc2VfZm9yX3N0YXR1cygpCiAgICBvdXQgPSBbXQogICAgZm9yIHIgaW4gcmVzcC5qc29uKCkuZ2V0KCJpdGVtcyIsIFtdKVs6TUFYX0lURU1TXToKICAgICAgICBvdXQuYXBwZW5kKHsKICAgICAgICAgICAgImlkIjogclsiZnVsbF9uYW1lIl0sCiAgICAgICAgICAgICJuYW1lIjogclsiZnVsbF9uYW1lIl0sCiAgICAgICAgICAgICJ1cmwiOiByWyJodG1sX3VybCJdLAogICAgICAgICAgICAic3RhcnMiOiByWyJzdGFyZ2F6ZXJzX2NvdW50Il0sCiAgICAgICAgICAgICJsYW5ndWFnZSI6IHIuZ2V0KCJsYW5ndWFnZSIpIG9yICLigJQiLAogICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAoci5nZXQoImRlc2NyaXB0aW9uIikgb3IgIiIpWzoxMjBdLAogICAgICAgICAgICAidXBkYXRlZF9hdCI6IHJbInB1c2hlZF9hdCJdLAogICAgICAgIH0pCiAgICByZXR1cm4gb3V0CgoKIyA9PT0gRGlmZiArIHJlbmRlciA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKCmRlZiBsb2FkX3ByZXZpb3VzKCkgLT4gbGlzdFtkaWN0XToKICAgIGlmIG5vdCBEQVRBX0ZJTEUuZXhpc3RzKCk6CiAgICAgICAgcmV0dXJuIFtdCiAgICB0cnk6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMoREFUQV9GSUxFLnJlYWRfdGV4dCgpKQogICAgZXhjZXB0IGpzb24uSlNPTkRlY29kZUVycm9yOgogICAgICAgIHJldHVybiBbXQoKCmRlZiBkaWZmX2NvdW50cyhvbGQ6IGxpc3RbZGljdF0sIG5ldzogbGlzdFtkaWN0XSkgLT4gdHVwbGVbaW50LCBpbnRdOgogICAgb2xkX2lkcyA9IHtpWyJpZCJdIGZvciBpIGluIG9sZH0KICAgIG5ld19pZHMgPSB7aVsiaWQiXSBmb3IgaSBpbiBuZXd9CiAgICByZXR1cm4gbGVuKG5ld19pZHMgLSBvbGRfaWRzKSwgbGVuKG9sZF9pZHMgLSBuZXdfaWRzKQoKCmRlZiByZW5kZXJfdGFibGUoaXRlbXM6IGxpc3RbZGljdF0pIC0+IHN0cjoKICAgIGlmIG5vdCBpdGVtczoKICAgICAgICByZXR1cm4gIl9ObyBpdGVtcyBpbiB0aGUgdXBzdHJlYW0gZmVlZCByaWdodCBub3cuIE5leHQgY2hlY2sgaW4gMTUgbWludXRlcy5fIgogICAgcm93cyA9IFsifCAjIHwgTmFtZSB8IOKtkCB8IExhbmcgfCBVcGRhdGVkIHwgRGVzY3JpcHRpb24gfCIsCiAgICAgICAgICAgICJ8LS0tfC0tLS0tLXwtLS18LS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tfCJdCiAgICBmb3IgaSwgaXQgaW4gZW51bWVyYXRlKGl0ZW1zLCAxKToKICAgICAgICBuYW1lID0gZiJbe2l0WyduYW1lJ119XSh7aXRbJ3VybCddfSkiCiAgICAgICAgZGVzYyA9IChpdC5nZXQoImRlc2NyaXB0aW9uIikgb3IgIiIpLnJlcGxhY2UoInwiLCAiXFx8IikKICAgICAgICB1cGRhdGVkID0gaXQuZ2V0KCJ1cGRhdGVkX2F0IiwgIiIpWzoxMF0KICAgICAgICByb3dzLmFwcGVuZChmInwge2l9IHwge25hbWV9IHwge2l0LmdldCgnc3RhcnMnLCAwKX0gfCB7aXQuZ2V0KCdsYW5ndWFnZScsICfigJQnKX0gfCB7dXBkYXRlZH0gfCB7ZGVzY30gfCIpCiAgICByZXR1cm4gIlxuIi5qb2luKHJvd3MpCgoKZGVmIHJld3JpdGVfcmVhZG1lKGl0ZW1zOiBsaXN0W2RpY3RdKSAtPiBOb25lOgogICAgdHh0ID0gUkVBRE1FX0ZJTEUucmVhZF90ZXh0KCkKCiAgICB0YWJsZSA9IHJlbmRlcl90YWJsZShpdGVtcykKICAgIHNlY3Rpb24gPSBmIntUQUJMRV9TVEFSVH1cbnt0YWJsZX1cbntUQUJMRV9FTkR9IgogICAgcGF0dGVybiA9IHJlLmNvbXBpbGUocmUuZXNjYXBlKFRBQkxFX1NUQVJUKSArIHIiLio/IiArIHJlLmVzY2FwZShUQUJMRV9FTkQpLCByZS5ET1RBTEwpCiAgICB0eHQgPSBwYXR0ZXJuLnN1YihzZWN0aW9uLCB0eHQpCgogICAgbm93ID0gZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0Yykuc3RyZnRpbWUoIiVZLSVtLSVkICVIOiVNIFVUQyIpCiAgICB0eHQgPSBMQVNUX1VQREFURURfUkUuc3ViKGYiPiDij7AgTGFzdCB1cGRhdGVkOiB7bm93fSIsIHR4dCkKCiAgICB0eHQgPSBJVEVNU19CQURHRV9SRS5zdWIoZiJiYWRnZS9UcmFja2VkX0l0ZW1zLXtsZW4oaXRlbXMpfS1icmlnaHRncmVlbiIsIHR4dCkKCiAgICBSRUFETUVfRklMRS53cml0ZV90ZXh0KHR4dCkKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIGl0ZW1zID0gZmV0Y2hfaXRlbXMoKQogICAgcHJldmlvdXMgPSBsb2FkX3ByZXZpb3VzKCkKICAgIGFkZGVkLCByZW1vdmVkID0gZGlmZl9jb3VudHMocHJldmlvdXMsIGl0ZW1zKQoKICAgIERBVEFfRklMRS5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgREFUQV9GSUxFLndyaXRlX3RleHQoanNvbi5kdW1wcyhpdGVtcywgaW5kZW50PTIsIHNvcnRfa2V5cz1UcnVlKSkKICAgIHJld3JpdGVfcmVhZG1lKGl0ZW1zKQoKICAgIG5vd19zaG9ydCA9IGRhdGV0aW1lLm5vdyh0aW1lem9uZS51dGMpLnN0cmZ0aW1lKCIlWS0lbS0lZCAlSDolTSIpCiAgICBtc2cgPSBmImZlYXQ6ICt7YWRkZWR9IGFkZGVkLCAte3JlbW92ZWR9IHJlbW92ZWQgKHtub3dfc2hvcnR9KSIKICAgIHByaW50KG1zZykKCiAgICAjIFRoZSB3b3JrZmxvdyB3aWxsIGNvbW1pdCBvbmx5IGlmIHRoZXJlJ3MgYSBkaWZmLiBTdXJmYWNlIHRoZSBtZXNzYWdlCiAgICAjIHZpYSBHSVRIVUJfT1VUUFVUIHNvIHRoZSB3b3JrZmxvdyBjYW4gdXNlIGl0LgogICAgZ2hvID0gb3MuZW52aXJvbi5nZXQoIkdJVEhVQl9PVVRQVVQiKQogICAgaWYgZ2hvOgogICAgICAgIHdpdGggb3BlbihnaG8sICJhIikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShmIm1lc3NhZ2U9e21zZ31cbiIpCiAgICAgICAgICAgIGYud3JpdGUoZiJjaGFuZ2VkPXsndHJ1ZScgaWYgKGFkZGVkIG9yIHJlbW92ZWQpIGVsc2UgJ2ZhbHNlJ31cbiIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+"""Update script for awesome-agent-skills.
+
+Runs on a cron via .github/workflows/update.yml every 15
+minutes. Fetches the upstream data, diffs against data/items.json, rewrites
+the README between sentinel markers, writes a new JSON snapshot. The
+workflow then commits any diff with a message like
+``feat: +N added, -M removed (timestamp)``.
+"""
+from __future__ import annotations
+
+import json
+import os
+import re
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+
+import httpx
+
+
+DATA_FILE = Path("data/items.json")
+README_FILE = Path("README.md")
+TABLE_START = "<!-- TRACKER_TABLE_START -->"
+TABLE_END = "<!-- TRACKER_TABLE_END -->"
+LAST_UPDATED_RE = re.compile(r"^> ⏰ Last updated: .+$", re.MULTILINE)
+ITEMS_BADGE_RE = re.compile(r"badge/Tracked_Items-\d+-brightgreen")
+
+
+# === Data fetch =====================================================
+# The default fetcher queries the GitHub Search API for repos matching a
+# topic + recent push. Replace ``fetch_items`` if your tracker needs a
+# different upstream.
+
+GITHUB_QUERY = 'topic:agent-skills sort:updated-desc'
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
+MAX_ITEMS = 200
+
+
+def fetch_items() -> list[dict]:
+    """Return a list of current items. Each item must have an ``id``
+    (stable identifier used for diffing) and the columns rendered in
+    the table."""
+    if not GITHUB_TOKEN:
+        print("WARN: GITHUB_TOKEN not set; running with anonymous quota")
+    headers = {"Accept": "application/vnd.github+json"}
+    if GITHUB_TOKEN:
+        headers["Authorization"] = f"token {GITHUB_TOKEN}"
+
+    url = "https://api.github.com/search/repositories"
+    params = {"q": GITHUB_QUERY, "sort": "updated", "order": "desc", "per_page": MAX_ITEMS}
+    resp = httpx.get(url, headers=headers, params=params, timeout=30)
+    resp.raise_for_status()
+    out = []
+    for r in resp.json().get("items", [])[:MAX_ITEMS]:
+        out.append({
+            "id": r["full_name"],
+            "name": r["full_name"],
+            "url": r["html_url"],
+            "stars": r["stargazers_count"],
+            "language": r.get("language") or "—",
+            "description": (r.get("description") or "")[:120],
+            "updated_at": r["pushed_at"],
+        })
+    return out
+
+
+# === Diff + render ==================================================
+
+
+def load_previous() -> list[dict]:
+    if not DATA_FILE.exists():
+        return []
+    try:
+        return json.loads(DATA_FILE.read_text())
+    except json.JSONDecodeError:
+        return []
+
+
+def diff_counts(old: list[dict], new: list[dict]) -> tuple[int, int]:
+    old_ids = {i["id"] for i in old}
+    new_ids = {i["id"] for i in new}
+    return len(new_ids - old_ids), len(old_ids - new_ids)
+
+
+def render_table(items: list[dict]) -> str:
+    if not items:
+        return "_No items in the upstream feed right now. Next check in 15 minutes._"
+    rows = ["| # | Name | ⭐ | Lang | Updated | Description |",
+            "|---|------|---|------|---------|-------------|"]
+    for i, it in enumerate(items, 1):
+        name = f"[{it['name']}]({it['url']})"
+        desc = (it.get("description") or "").replace("|", "\\|")
+        updated = it.get("updated_at", "")[:10]
+        rows.append(f"| {i} | {name} | {it.get('stars', 0)} | {it.get('language', '—')} | {updated} | {desc} |")
+    return "\n".join(rows)
+
+
+def rewrite_readme(items: list[dict]) -> None:
+    txt = README_FILE.read_text()
+
+    table = render_table(items)
+    section = f"{TABLE_START}\n{table}\n{TABLE_END}"
+    pattern = re.compile(re.escape(TABLE_START) + r".*?" + re.escape(TABLE_END), re.DOTALL)
+    txt = pattern.sub(section, txt)
+
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    txt = LAST_UPDATED_RE.sub(f"> ⏰ Last updated: {now}", txt)
+
+    txt = ITEMS_BADGE_RE.sub(f"badge/Tracked_Items-{len(items)}-brightgreen", txt)
+
+    README_FILE.write_text(txt)
+
+
+def main() -> int:
+    items = fetch_items()
+    previous = load_previous()
+    added, removed = diff_counts(previous, items)
+
+    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
+    DATA_FILE.write_text(json.dumps(items, indent=2, sort_keys=True))
+    rewrite_readme(items)
+
+    now_short = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
+    msg = f"feat: +{added} added, -{removed} removed ({now_short})"
+    print(msg)
+
+    # The workflow will commit only if there's a diff. Surface the message
+    # via GITHUB_OUTPUT so the workflow can use it.
+    gho = os.environ.get("GITHUB_OUTPUT")
+    if gho:
+        with open(gho, "a") as f:
+            f.write(f"message={msg}\n")
+            f.write(f"changed={'true' if (added or removed) else 'false'}\n")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

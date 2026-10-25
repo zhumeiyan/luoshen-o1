@@ -1,1 +1,44 @@
-aW1wb3J0IHRpbWUsc3RhdGlzdGljcyBhcyBzdCxqc29uLHRocmVhZGluZyxyYW5kb20Kc3RvcD10aHJlYWRpbmcuRXZlbnQoKQpkZWYgZHJpZnRlcigpOgogICAgIyDnnJ/lrp7mvILnp7vmupA6IOWRqOacn+aAp+ecn+WunkNQVei0n+i9vSwg5ZGo5pyf57qmMC44cwogICAgd2hpbGUgbm90IHN0b3AuaXNfc2V0KCk6CiAgICAgICAgdDA9dGltZS50aW1lKCk7IHM9MAogICAgICAgIHdoaWxlIHRpbWUudGltZSgpLXQwPDAuNDogcys9MQogICAgICAgIHRpbWUuc2xlZXAoMC40KQp0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1kcmlmdGVyLGRhZW1vbj1UcnVlKS5zdGFydCgpCmRlZiBvbmUod29yayk6CiAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpOyBzPTAKICAgIGZvciBpIGluIHJhbmdlKHdvcmspOiBzKz1pKmkKICAgIHJldHVybiB0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwCnJhbmRvbS5zZWVkKDc3NykKQkFTRT0zMDA7IERMPTEwOyBOPTQ7IFBBSVJTPTMwMAphYnNOPVtdO2Fic1M9W107ZGlmPVtdO2Zha2U9W10KZm9yIHAgaW4gcmFuZ2UoUEFJUlMpOgogICAgYj1zdC5tZWFuKFtvbmUoQkFTRSkgZm9yIF8gaW4gcmFuZ2UoTildKQogICAgcz1zdC5tZWFuKFtvbmUoQkFTRStETCkgZm9yIF8gaW4gcmFuZ2UoTildKQogICAgYWJzTi5hcHBlbmQoYik7IGFic1MuYXBwZW5kKHMpOyBkaWYuYXBwZW5kKHMtYikKICAgIGIxPXN0Lm1lYW4oW29uZShCQVNFKSBmb3IgXyBpbiByYW5nZShOKV0pCiAgICBiMj1zdC5tZWFuKFtvbmUoQkFTRSkgZm9yIF8gaW4gcmFuZ2UoTildKQogICAgZmFrZS5hcHBlbmQoYjItYjEpCnN0b3Auc2V0KCkKcHJpbnQoJ+azqOWFpeecn+Wunua8guenuyjlkajmnJ/otJ/ovb0pICBuPSVk5a+5JyVQQUlSUykKcHJpbnQoJ+aXoOS/oeWPtyBtZWFuPSUuMGYgc2Q9JS4wZiAgbWluPSUuMGYgbWF4PSUuMGYg5p6B5beuPSUuMGYnJSgKIHN0Lm1lYW4oYWJzTiksc3QucHN0ZGV2KGFic04pLG1pbihhYnNOKSxtYXgoYWJzTiksbWF4KGFic04pLW1pbihhYnNOKSkpCmRfYWJzPShzdC5tZWFuKGFic1MpLXN0Lm1lYW4oYWJzTikpLygoKHN0LnBzdGRldihhYnNTKSoqMitzdC5wc3RkZXYoYWJzTikqKjIpLzIpKiowLjUpCnRwcj1zdW0oMSBmb3IgZCBpbiBkaWYgaWYgZD4wKS9sZW4oZGlmKTsgZnByPXN1bSgxIGZvciBkIGluIGZha2UgaWYgZD4wKS9sZW4oZmFrZSkKcHJpbnQoJ+acieS/oeWPtyBtZWFuPSUuMGYgc2Q9JS4wZiclKHN0Lm1lYW4oYWJzUyksc3QucHN0ZGV2KGFic1MpKSkKcHJpbnQoJ+W3ruWIhiAgIG1lYW49JS4wZiBzZD0lLjBmJyUoc3QubWVhbihkaWYpLHN0LnBzdGRldihkaWYpKSkKcHJpbnQoJ+WBh+WvueeFpyBtZWFuPSUuMGYgc2Q9JS4wZiclKHN0Lm1lYW4oZmFrZSksc3QucHN0ZGV2KGZha2UpKSkKcHJpbnQoJ1xuPT09IOa8guenu+eOr+Wig+S4i+S4pOenjeivu+WHuiA9PT0nKQpwcmludCgn57ud5a+56K+75Ye6ICBkXCcgICAgICA9ICUrLjRmJyVkX2FicykKcHJpbnQoJ+W3ruWIhuivu+WHuiAg5Yik5Yir5bqmICAgPSAlKy40ZiAgIChUUFI9JS4zZiBGUFI9JS4zZiknJSh0cHItZnByLHRwcixmcHIpKQpwcmludCgnXG7kv6Hlj7fnnJ/lgLwgzpQ9JS4wZiBucyclKHN0Lm1lYW4oZGlmKSkpCnByaW50KCfmvILnp7vmnoHlt64gPSUuMGYgbnMgIC0+IOa8guenuy/kv6Hlj7cgPSAlLjFmeCclKG1heChhYnNOKS1taW4oYWJzTiksKG1heChhYnNOKS1taW4oYWJzTikpL21heCgxLHN0Lm1lYW4oZGlmKSkpKQpwcmludCgnXG7liKTmja46IOa8guenuz7kv6Hlj7fml7Yg5beu5YiG5Yik5Yir5bqmIOW6lCA+IOe7neWvueWIpOWIq+W6piAtPicsICh0cHItZnByKSA+IGRfYWJzKjAuNSkKIyDliIbliY3ljYrlkI7ljYrnnIvmvILnp7sKaD1QQUlSUy8vMgpwcmludCgnXG7liY3ljYog5peg5L+h5Y+35Z2H5YC8PSUuMGYgIOWQjuWNiiDml6Dkv6Hlj7flnYflgLw9JS4wZiAg5Z2X6Ze05ryC56e7PSUuMGYnJSgKIHN0Lm1lYW4oYWJzTls6aF0pLHN0Lm1lYW4oYWJzTltoOl0pLGFicyhzdC5tZWFuKGFic05bOmhdKS1zdC5tZWFuKGFic05baDpdKSkpKQpqc29uLmR1bXAoeydkX2Ficyc6ZF9hYnMsJ3Rwcic6dHByLCdmcHInOmZwciwnZGlzYyc6dHByLWZwciwKICAnZHJpZnRfcmFuZ2UnOm1heChhYnNOKS1taW4oYWJzTiksJ3NpZyc6c3QubWVhbihkaWYpfSxvcGVuKCdkaWZmMi5qc29uJywndycpKQo=
+import time,statistics as st,json,threading,random
+stop=threading.Event()
+def drifter():
+    # 真实漂移源: 周期性真实CPU负载, 周期约0.8s
+    while not stop.is_set():
+        t0=time.time(); s=0
+        while time.time()-t0<0.4: s+=1
+        time.sleep(0.4)
+threading.Thread(target=drifter,daemon=True).start()
+def one(work):
+    t0=time.perf_counter_ns(); s=0
+    for i in range(work): s+=i*i
+    return time.perf_counter_ns()-t0
+random.seed(777)
+BASE=300; DL=10; N=4; PAIRS=300
+absN=[];absS=[];dif=[];fake=[]
+for p in range(PAIRS):
+    b=st.mean([one(BASE) for _ in range(N)])
+    s=st.mean([one(BASE+DL) for _ in range(N)])
+    absN.append(b); absS.append(s); dif.append(s-b)
+    b1=st.mean([one(BASE) for _ in range(N)])
+    b2=st.mean([one(BASE) for _ in range(N)])
+    fake.append(b2-b1)
+stop.set()
+print('注入真实漂移(周期负载)  n=%d对'%PAIRS)
+print('无信号 mean=%.0f sd=%.0f  min=%.0f max=%.0f 极差=%.0f'%(
+ st.mean(absN),st.pstdev(absN),min(absN),max(absN),max(absN)-min(absN)))
+d_abs=(st.mean(absS)-st.mean(absN))/(((st.pstdev(absS)**2+st.pstdev(absN)**2)/2)**0.5)
+tpr=sum(1 for d in dif if d>0)/len(dif); fpr=sum(1 for d in fake if d>0)/len(fake)
+print('有信号 mean=%.0f sd=%.0f'%(st.mean(absS),st.pstdev(absS)))
+print('差分   mean=%.0f sd=%.0f'%(st.mean(dif),st.pstdev(dif)))
+print('假对照 mean=%.0f sd=%.0f'%(st.mean(fake),st.pstdev(fake)))
+print('\n=== 漂移环境下两种读出 ===')
+print('绝对读出  d\'      = %+.4f'%d_abs)
+print('差分读出  判别度   = %+.4f   (TPR=%.3f FPR=%.3f)'%(tpr-fpr,tpr,fpr))
+print('\n信号真值 Δ=%.0f ns'%(st.mean(dif)))
+print('漂移极差 =%.0f ns  -> 漂移/信号 = %.1fx'%(max(absN)-min(absN),(max(absN)-min(absN))/max(1,st.mean(dif))))
+print('\n判据: 漂移>信号时 差分判别度 应 > 绝对判别度 ->', (tpr-fpr) > d_abs*0.5)
+# 分前半后半看漂移
+h=PAIRS//2
+print('\n前半 无信号均值=%.0f  后半 无信号均值=%.0f  块间漂移=%.0f'%(
+ st.mean(absN[:h]),st.mean(absN[h:]),abs(st.mean(absN[:h])-st.mean(absN[h:]))))
+json.dump({'d_abs':d_abs,'tpr':tpr,'fpr':fpr,'disc':tpr-fpr,
+  'drift_range':max(absN)-min(absN),'sig':st.mean(dif)},open('diff2.json','w'))

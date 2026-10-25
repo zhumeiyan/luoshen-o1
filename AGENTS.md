@@ -1,1 +1,102 @@
-IyBBR0VOVFMubWQg4oCU4oCUIOa0m+elniBPMSDkvJror53lkK/liqjlv4Xor7sKCjwhLS0gTFVPU0hFTi1CT09UIHYxIMK3IOacuuWZqOWPr+ivu+WMuu+8jOWLv+aUueagvOW8jyAtLT4KYGBgeWFtbApib290OgogIHJlYWRfZmlyc3Q6CiAgICAtIC5zZW5zZS9zdGFyX21hcC5tZAogICAgLSBldmlkZW5jZS/lpLHotKXmqKHlvI/lupMv5Yik5o2u5qC4Lm1kCiAgICAtIC5zZW5zZS9jYXBhYmlsaXR5X2F1ZGl0X3JlYWwuanNvbgogIGRpc2NpcGxpbmU6CiAgICAtIOWPjOmAmumBkzog5Lu75L2V5pWw5a2X6YO96KaB5pyJ56ys5LqM5Liq5p2l5rqQ77yM5q6L5beuIFIgPSBCIOKIkiBBCiAgICAtIOS4jeiuuOivtGRvbmU6IOWPquivtOi3kei/h+S7gOS5iOOAgeaVsOWtl+WkmuWwkeOAgeWTquS6m+ayoemqjOivgQogICAgLSDkuKTnuqflpLHotKU6IOaehOS7tuWRveS4rSDiiaAg5a6e5rWL6L6+5qCHCiAgbmV2ZXI6CiAgICAtIOaKiuacquWunua1i+eahOaehOS7tuWGmeaIkOW3suWunueOsAogICAgLSDmi7/lpJrmlbDmipXnpajmjqnnm5YgYWdlbnQg5LmL6Ze055qE5YiG5q2nCiAgICAtIOWIoOaUuSBldmlkZW5jZS/lpLHotKXmqKHlvI/lupMvIOmHjOeahOadoeebru+8iOWPquWHhui/veWKoO+8iQogICAgLSDmiooi5oiR5LiN55+l6YGTIuWMheijheaIkOe7k+iuugpgYGAKPCEtLSAvTFVPU0hFTi1CT09UIC0tPgoK5a+55qCH6aG257qn5pm66IO95L2T55qE5qCH5YeG5YWl5Y+j77yIQ2xhdWRlIENvZGUg55SoIENMQVVERS5tZO+8jENvZGV4L0N1cnNvciDnlKggQUdFTlRTLm1k77yJ44CCCioq5rKh5pyJ6L+Z5Liq5paH5Lu277yM6ZKJ5Zyo5pif5Zu+5LiK55qE5pWZ6K6t5Zyo5paw5Lya6K+d6YeM562J5LqO5LiN5a2Y5ZyoKiog4oCU4oCUIOi/meaYryDimIU5IOS/rueahOe8uumZt+OAggoKLS0tCgojIyDkuIDjgIHmr4/mrKHkvJror53lvIDlp4vvvIzlhYjor7vov5nkuInkuKoKCmBgYAouc2Vuc2Uvc3Rhcl9tYXAubWQgICAgICAgICAgICAgICAgICAgIOa0m+elnuavj+asoeWBnOS4i+adpeeahOWcsOaWue+8iOW9k+WJjSA5IOmil+aYn++8iQpldmlkZW5jZS/lpLHotKXmqKHlvI/lupMv5Yik5o2u5qC4Lm1kICAgICAgICAgICDkuI3lj6/lj5jmoLjvvIzlj6rlop7kuI3lh48KLnNlbnNlL2NhcGFiaWxpdHlfYXVkaXRfcmVhbC5qc29uICAgICDnnJ/lrp7og73lipvovrnnlYzvvJrlk6rkupvlrp7mtYvov4fvvIzlk6rkupvlj6rmnInmnoTku7YKYGBgCgror7vlroPku6znmoTmhI/kuYnvvJoqKuS9oOS4jemcgOimgemHjeaWsOeKr+S4gOmBjeW3sue7j+eKr+i/h+eahOmUmeOAgioqCgotLS0KCiMjIOS6jOOAgeS4ieadoeehrOe6quW+i++8iOi/neWPjeWNs+emgeatouS6pOS7mO+8iQoKKirikaAg5Y+M6YCa6YGTIOKAlOKAlCDku7vkvZXmlbDlrZfpg73opoHmnInnrKzkuozkuKrmnaXmupAqKgoKYGBgCumAmumBkyBBICDliKvkurrnmoTlrp7mtYsgLyDmupDnoIHph4zog73mlbDlh7rmnaXnmoTkuovlrp4K6YCa6YGTIEIgIOaIkeeahOaooeWeiyAvIOaIkeeahOi9rOi/sArmrovlt64gUiA9IEIg4oiSIEEKUiDiiaAgMCAg4oaSIOmCo+S4gOagvOaYr+aIkee8lueahO+8jOS4jeaYryLor6/lt64iCmBgYAoKKirikaEg5LiN6K646K+0IGRvbmUqKiDigJTigJQgQWdlbnQg5YaZ5Ye65p2l55qEICJkb25lIiDkuI3mmK/or4Hmja7jgIIK5Y+q6K+077ya6LeR6L+H5LuA5LmI44CB5pWw5a2X5aSa5bCR44CB5ZOq5Lqb5rKh6aqM6K+B44CCCgoqKuKRoiDljLrliIbkuKTnuqflpLHotKUqKgoKYGBgCuaehOS7tuWRveS4rSAg5paH5Lu25Zyo55uY5LiKICAgICAg4omgIOiDveWKm+i+vuaghwrlrp7mtYvovr7moIcgIOecn+i3kei/hyArIOacieaVsOWtlyAgPSDmiY3mlaLmiqUKYGBgCgo0Mi80MiDpgqPkuKrmlbDmmK/mnoTku7blkb3kuK3jgILnnJ/lrp7mlbDlrZfop4EgYGNhcGFiaWxpdHlfYXVkaXRfcmVhbC5qc29uYOOAggoKLS0tCgojIyDkuInjgIHljoblj7LkuIrmoL3ov4fnmoTot5/lpLTvvIjkuIDlj6Xor53niYjvvIzor6bop4HmmJ/lm77vvIkKCnwg5pifIHwg5qC95Zyo5ZOqIHwg6L20IHwKfC0tLXwtLS18LS0tfAp8IOKYhTEgfCDmioogZXZhbCDlvZMgNm1z77yM5ryP5o6JIDEyOG1zIOeahCBkaXNwYXRjaCDmtKrmsLQgfCB0aW1lIHwKfCDimIUyIHwg5rKh6LeR55yf57O757uf77yM5L2G5bey5aOw5piO5pyq55+lIOKGkiDlj6/kuqTku5ggfCBzb3VyY2UgfAp8IOKYhTMgfCDovazov7AgQVBJIOeKtuaAgeaXtuWkmuivtOS6huS4gOWNle+8iDMg6K+05oiQIDTvvIkgfCB0aW1lIHwKfCDimIU0IHwgUkVBRE1FIOaVsOWtl+i3keS4jeWHuuadpe+8jOW3ruS4gOS4qumHj+e6pyB8IHRpbWUgfAp8IOKYhTUgfCDmi7/kuIDkuKrlt7LlgZzmnI3kuqflk4HlvZPmoIflsLogfCBsYXllciB8Cnwg4piFNiB8IOWuoeiuoeWZqOaJq+WIsOS6huiHquW3se+8jDQyLzQyIOaYr+WBh+eahCB8IGxheWVyIHwKfCDimIU3IHwg562b6YCJIuiwgeiuqeWNlSLml7bvvIzohJrmnKzor7vliLDkuobmiJHlvJXov7DnmoTop4TliJkgfCBjaGFubmVsIHwKfCDimIU4IHwgcmVzdW1lKCkg5rC46L+c6L+U5ZueIE5vbmXvvIxjaGVja3BvaW50IOaYr+atu+eahCB8IGxheWVyIHwKfCDimIU5IHwg5rKh5pyJ5Lya6K+d5YWl5Y+j77yM5pif5Zu+5Zyo5paw5Lya6K+d6K+75LiN5Yiw77yb5LiUIuS6uuiDveivuyLiiaAi5py65Zmo6IO96Kej5p6QIiB8IHRpbWUrY2hhbm5lbCB8Cnwg4piFMTAgfCDmnYPpmZDmuIXljZUgNCDmnaEi6IO9IuaYr+awuOecn+aOoumSiOaSkeeahO+8jOaOouS4jeWHuuadpeS5n+WBh+ijheiDvSB8IGNoYW5uZWwgfAoKKirimIU244CB4piFN+OAgeKYhTEwIOaYr+WQjOS4gOexu++8muajgOa1i+WZqOivu+WIsOS6huiHquW3sSAvIOeUqOS6huawuOecn+aOoumSiOOAgioqCioq4piFOSDmmK/lj6bkuIDnsbvvvJrlhpnkuIvmnaXkuobvvIzkvYbmsqHmjqXov5vlhaXlj6PjgIIqKgoKLS0tCgojIyDlm5vjgIHmlLnov5nkuKrku5PlupPkuYvliY0KCmBgYApnaXQgc3RhdHVzICAgICAgICAgICAgICAgICAgICAgICAgIyDlhYjnoa7orqTmnKzlnLDmmK/lhajph4/ov5jmmK/lrZDpm4YKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg4piFIOabvue7j+W3rueCueaKiui/nOerryA1MiDkuKrmlofku7bliKDmjokKcHl0aG9uMyB0b29scy9wYXJhbGxheC5weSBjYXNlLmpzb24gICAgICAjIOS6pOS7u+S9lee7k+iuuuWJjeWFiOi/h+inhuW3ruaYnwpweXRob24zIHRvb2xzL3N0YXIucHkgY2FzZS5qc29uIC0tYWRkICAgICMg5oyW5Yiw5LqG5bCx6ZKJ5pifCmBgYAoKLS0tCgojIyDkupTjgIHkuI3orrjlgZrnmoTkuosKCmBgYArinYwg5oqK5pyq5a6e5rWL55qE5p6E5Lu25YaZ5oiQIuW3suWunueOsCIK4p2MIOaLv+WkmuaVsOaKleelqOaOqeebliBhZ2VudCDkuYvpl7TnmoTliIbmrafvvIjimIUg6KeBIGV4cF9tdWx0aWFnZW50LnB577yJCuKdjCDliKDmlLkgZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTLyDph4znmoTku7vkvZXmnaHnm67vvIjlj6rlh4bov73liqDvvIkK4p2MIOaKiiLmiJHkuI3nn6XpgZMi5YyF6KOF5oiQ57uT6K66CmBgYAo=
+# AGENTS.md —— 洛神 O1 会话启动必读
+
+<!-- LUOSHEN-BOOT v1 · 机器可读区，勿改格式 -->
+```yaml
+boot:
+  read_first:
+    - .sense/star_map.md
+    - evidence/失败模式库/判据核.md
+    - .sense/capability_audit_real.json
+  discipline:
+    - 双通道: 任何数字都要有第二个来源，残差 R = B − A
+    - 不许说done: 只说跑过什么、数字多少、哪些没验证
+    - 两级失败: 构件命中 ≠ 实测达标
+  never:
+    - 把未实测的构件写成已实现
+    - 拿多数投票掩盖 agent 之间的分歧
+    - 删改 evidence/失败模式库/ 里的条目（只准追加）
+    - 把"我不知道"包装成结论
+```
+<!-- /LUOSHEN-BOOT -->
+
+对标顶级智能体的标准入口（Claude Code 用 CLAUDE.md，Codex/Cursor 用 AGENTS.md）。
+**没有这个文件，钉在星图上的教训在新会话里等于不存在** —— 这是 ★9 修的缺陷。
+
+---
+
+## 一、每次会话开始，先读这三个
+
+```
+.sense/star_map.md                    洛神每次停下来的地方（当前 9 颗星）
+evidence/失败模式库/判据核.md           不可变核，只增不减
+.sense/capability_audit_real.json     真实能力边界：哪些实测过，哪些只有构件
+```
+
+读它们的意义：**你不需要重新犯一遍已经犯过的错。**
+
+---
+
+## 二、三条硬纪律（违反即禁止交付）
+
+**① 双通道 —— 任何数字都要有第二个来源**
+
+```
+通道 A  别人的实测 / 源码里能数出来的事实
+通道 B  我的模型 / 我的转述
+残差 R = B − A
+R ≠ 0  → 那一格是我编的，不是"误差"
+```
+
+**② 不许说 done** —— Agent 写出来的 "done" 不是证据。
+只说：跑过什么、数字多少、哪些没验证。
+
+**③ 区分两级失败**
+
+```
+构件命中  文件在盘上      ≠ 能力达标
+实测达标  真跑过 + 有数字  = 才敢报
+```
+
+42/42 那个数是构件命中。真实数字见 `capability_audit_real.json`。
+
+---
+
+## 三、历史上栽过的跟头（一句话版，详见星图）
+
+| 星 | 栽在哪 | 轴 |
+|---|---|---|
+| ★1 | 把 eval 当 6ms，漏掉 128ms 的 dispatch 洪水 | time |
+| ★2 | 没跑真系统，但已声明未知 → 可交付 | source |
+| ★3 | 转述 API 状态时多说了一单（3 说成 4） | time |
+| ★4 | README 数字跑不出来，差一个量级 | time |
+| ★5 | 拿一个已停服产品当标尺 | layer |
+| ★6 | 审计器扫到了自己，42/42 是假的 | layer |
+| ★7 | 筛选"谁让单"时，脚本读到了我引述的规则 | channel |
+| ★8 | resume() 永远返回 None，checkpoint 是死的 | layer |
+| ★9 | 没有会话入口，星图在新会话读不到；且"人能读"≠"机器能解析" | time+channel |
+| ★10 | 权限清单 4 条"能"是永真探针撑的，探不出来也假装能 | channel |
+
+**★6、★7、★10 是同一类：检测器读到了自己 / 用了永真探针。**
+**★9 是另一类：写下来了，但没接进入口。**
+
+---
+
+## 四、改这个仓库之前
+
+```
+git status                        # 先确认本地是全量还是子集
+                                  # ★ 曾经差点把远端 52 个文件删掉
+python3 tools/parallax.py case.json      # 交任何结论前先过视差星
+python3 tools/star.py case.json --add    # 挖到了就钉星
+```
+
+---
+
+## 五、不许做的事
+
+```
+❌ 把未实测的构件写成"已实现"
+❌ 拿多数投票掩盖 agent 之间的分歧（★ 见 exp_multiagent.py）
+❌ 删改 evidence/失败模式库/ 里的任何条目（只准追加）
+❌ 把"我不知道"包装成结论
+```

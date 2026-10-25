@@ -1,1 +1,35 @@
-aW1wb3J0IHRpbWUsc3RhdGlzdGljcyBhcyBzdCxqc29uLHJhbmRvbSxtYXRoCmRlZiBvbmUod29yayk6CiAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpOyBzPTAKICAgIGZvciBpIGluIHJhbmdlKHdvcmspOiBzKz1pKmkKICAgIHJldHVybiB0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwCmRlZiBkcChBLEIpOgogICAgbWEsbWI9c3QubWVhbihBKSxzdC5tZWFuKEIpOyBzYSxzYj1zdC5wc3RkZXYoQSksc3QucHN0ZGV2KEIpCiAgICBzcD0oKHNhKioyK3NiKioyKS8yKSoqMC41CiAgICByZXR1cm4gKG1iLW1hKS9zcCBpZiBzcD4wIGVsc2UgMC4wCnJhbmRvbS5zZWVkKDIwMjYpCkJBU0U9MzAwOyBERUxUQVM9WzIwLDYwLDE1MF07IE5TPVsxLDIsNCw4LDE2LDMyLDY0XTsgUkVQUz0xNTAKIyDmnoTpgKDlhajpg6ggdHJpYWwg5bm26ZqP5py65omT5LmxIC0+IOa8guenu+iiq+Wdh+aRiuWIsOaJgOacieadoeS7tgp0cmlhbHM9WyhkbCxOKSBmb3IgZGwgaW4gREVMVEFTIGZvciBOIGluIE5TIGZvciBfIGluIHJhbmdlKFJFUFMpXQpyYW5kb20uc2h1ZmZsZSh0cmlhbHMpCmFjYz17fQpmb3IgZGwsTiBpbiB0cmlhbHM6CiAgICBhPVtvbmUoQkFTRSkgZm9yIF8gaW4gcmFuZ2UoTildCiAgICBiPVtvbmUoQkFTRStkbCkgZm9yIF8gaW4gcmFuZ2UoTildCiAgICBrPShkbCxOKTsgYWNjLnNldGRlZmF1bHQoayx7J0EnOltdLCdCJzpbXX0pCiAgICBhY2Nba11bJ0EnXS5hcHBlbmQoc3QubWVhbihhKSk7IGFjY1trXVsnQiddLmFwcGVuZChzdC5tZWFuKGIpKQpyZXM9e30KcHJpbnQoJ0JBU0Ugd29yaz0lZCAg5YWo5p2h5Lu26ZqP5py65Lqk57uHICBSRVBTPSVkJyUoQkFTRSxSRVBTKSkKcHJpbnQoJyU4cyclKCdOJykrJycuam9pbignJTEycyclKCfOtCslZCclZCkgZm9yIGQgaW4gREVMVEFTKSkKZm9yIE4gaW4gTlM6CiAgICByb3c9W10KICAgIGZvciBkbCBpbiBERUxUQVM6CiAgICAgICAgZD1kcChhY2NbKGRsLE4pXVsnQSddLGFjY1soZGwsTildWydCJ10pOyByZXNbJ2QlZF9OJWQnJShkbCxOKV09ZDsgcm93LmFwcGVuZChkKQogICAgcHJpbnQoJyU4ZCclTisnJy5qb2luKCclMTIuNGYnJXYgZm9yIHYgaW4gcm93KSkKcHJpbnQoKQpwcmludCgnPT09IOebuOWvuSBOPTEg55qE5aKe55uK5YCN5pWwICjnmb3lmarnkIborrogPSBzcXJ0KE4pKSA9PT0nKQpwcmludCgnJThzICUxMHMnJSgnTicsJ+eQhuiuuuKImk4nKSsnJy5qb2luKCclMTJzJyUoJ860KyVkJyVkKSBmb3IgZCBpbiBERUxUQVMpKQpmb3IgTiBpbiBOUzoKICAgIHRoPW1hdGguc3FydChOKQogICAgcHJpbnQoJyU4ZCAlMTAuMmYnJShOLHRoKSsnJy5qb2luKCclMTIuMmYnJShyZXNbJ2QlZF9OJWQnJShkbCxOKV0vcmVzWydkJWRfTjEnJShkbCwxKV0pIGZvciBkbCBpbiBERUxUQVMpKQpqc29uLmR1bXAocmVzLG9wZW4oJ2NvcmUyLmpzb24nLCd3JyksaW5kZW50PTEpCg==
+import time,statistics as st,json,random,math
+def one(work):
+    t0=time.perf_counter_ns(); s=0
+    for i in range(work): s+=i*i
+    return time.perf_counter_ns()-t0
+def dp(A,B):
+    ma,mb=st.mean(A),st.mean(B); sa,sb=st.pstdev(A),st.pstdev(B)
+    sp=((sa**2+sb**2)/2)**0.5
+    return (mb-ma)/sp if sp>0 else 0.0
+random.seed(2026)
+BASE=300; DELTAS=[20,60,150]; NS=[1,2,4,8,16,32,64]; REPS=150
+# 构造全部 trial 并随机打乱 -> 漂移被均摊到所有条件
+trials=[(dl,N) for dl in DELTAS for N in NS for _ in range(REPS)]
+random.shuffle(trials)
+acc={}
+for dl,N in trials:
+    a=[one(BASE) for _ in range(N)]
+    b=[one(BASE+dl) for _ in range(N)]
+    k=(dl,N); acc.setdefault(k,{'A':[],'B':[]})
+    acc[k]['A'].append(st.mean(a)); acc[k]['B'].append(st.mean(b))
+res={}
+print('BASE work=%d  全条件随机交织  REPS=%d'%(BASE,REPS))
+print('%8s'%('N')+''.join('%12s'%('δ+%d'%d) for d in DELTAS))
+for N in NS:
+    row=[]
+    for dl in DELTAS:
+        d=dp(acc[(dl,N)]['A'],acc[(dl,N)]['B']); res['d%d_N%d'%(dl,N)]=d; row.append(d)
+    print('%8d'%N+''.join('%12.4f'%v for v in row))
+print()
+print('=== 相对 N=1 的增益倍数 (白噪理论 = sqrt(N)) ===')
+print('%8s %10s'%('N','理论√N')+''.join('%12s'%('δ+%d'%d) for d in DELTAS))
+for N in NS:
+    th=math.sqrt(N)
+    print('%8d %10.2f'%(N,th)+''.join('%12.2f'%(res['d%d_N%d'%(dl,N)]/res['d%d_N1'%(dl,1)]) for dl in DELTAS))
+json.dump(res,open('core2.json','w'),indent=1)

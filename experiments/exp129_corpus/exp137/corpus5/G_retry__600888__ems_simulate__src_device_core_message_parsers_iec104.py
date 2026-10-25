@@ -1,1 +1,364 @@
-IiIiRmllbGQtbGV2ZWwgSUVDIDYwODcwLTUtMTA0IHBhcnNlci4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmZyb20gLmNvbW1vbiBpbXBvcnQgX2ZhaWwsIF9maWVsZCwgX2hleCwgX3Jlc3VsdCwgX3ZhbGlkYXRpb24KCklFQ19UWVBFUyA9IHsKICAgIDE6ICJNX1NQX05BXzEg5Y2V54K56YGl5L+hIiwKICAgIDI6ICJNX1NQX1RBXzEg5Y2V54K56YGl5L+hKENQMTYpIiwKICAgIDM6ICJNX0RQX05BXzEg5Y+M54K56YGl5L+hIiwKICAgIDQ6ICJNX0RQX1RBXzEg5Y+M54K56YGl5L+hKENQMTYpIiwKICAgIDk6ICJNX01FX05BXzEg5b2S5LiA5YyW6YGl5rWLIiwKICAgIDExOiAiTV9NRV9OQl8xIOagh+W6puWMlumBpea1iyIsCiAgICAxMzogIk1fTUVfTkNfMSDnn63mta7ngrnpgaXmtYsiLAogICAgMTU6ICJNX0lUX05BXzEg57Sv6K6h6YePIiwKICAgIDIxOiAiTV9NRV9ORF8xIOW9kuS4gOWMlumBpea1iyjml6Dlk4HotKgpIiwKICAgIDMwOiAiTV9TUF9UQl8xIOWNleeCuemBpeS/oShDUDU2KSIsCiAgICAzMTogIk1fRFBfVEJfMSDlj4zngrnpgaXkv6EoQ1A1NikiLAogICAgMzQ6ICJNX01FX1REXzEg5b2S5LiA5YyW6YGl5rWLKENQNTYpIiwKICAgIDM1OiAiTV9NRV9URV8xIOagh+W6puWMlumBpea1iyhDUDU2KSIsCiAgICAzNjogIk1fTUVfVEZfMSDnn63mta7ngrnpgaXmtYsoQ1A1NikiLAogICAgMzc6ICJNX0lUX1RCXzEg57Sv6K6h6YePKENQNTYpIiwKICAgIDQ1OiAiQ19TQ19OQV8xIOWNleeCuemBpeaOpyIsCiAgICA0NjogIkNfRENfTkFfMSDlj4zngrnpgaXmjqciLAogICAgNDc6ICJDX1JDX05BXzEg5q2l6LCD6IqCIiwKICAgIDQ4OiAiQ19TRV9OQV8xIOW9kuS4gOWMluiuvueCuSIsCiAgICA0OTogIkNfU0VfTkJfMSDmoIfluqbljJborr7ngrkiLAogICAgNTA6ICJDX1NFX05DXzEg55+t5rWu54K56K6+54K5IiwKICAgIDU4OiAiQ19TQ19UQV8xIOWNleeCuemBpeaOpyhDUDU2KSIsCiAgICA1OTogIkNfRENfVEFfMSDlj4zngrnpgaXmjqcoQ1A1NikiLAogICAgNjA6ICJDX1JDX1RBXzEg5q2l6LCD6IqCKENQNTYpIiwKICAgIDYxOiAiQ19TRV9UQV8xIOW9kuS4gOWMluiuvueCuShDUDU2KSIsCiAgICA2MjogIkNfU0VfVEJfMSDmoIfluqbljJborr7ngrkoQ1A1NikiLAogICAgNjM6ICJDX1NFX1RDXzEg55+t5rWu54K56K6+54K5KENQNTYpIiwKICAgIDEwMDogIkNfSUNfTkFfMSDmgLvlj6zllKQiLAogICAgMTAxOiAiQ19DSV9OQV8xIOeUteW6pumHj+WPrOWUpCIsCiAgICAxMDI6ICJDX1JEX05BXzEg6K+75ZG95LukIiwKICAgIDEwMzogIkNfQ1NfTkFfMSDml7bpkp/lkIzmraUiLAogICAgMTA0OiAiQ19UU19OQV8xIOa1i+ivleWRveS7pCIsCiAgICAxMDU6ICJDX1JQX05BXzEg5aSN5L2N6L+b56iLIiwKICAgIDEwNjogIkNfQ0RfTkFfMSDlu7bml7bojrflvpciLAogICAgMTA3OiAiQ19UU19UQV8xIOa1i+ivleWRveS7pChDUDU2KSIsCn0KSUVDX0NPVCA9IHsKICAgIDE6ICLlkajmnJ8iLAogICAgMjogIuiDjOaZr+aJq+aPjyIsCiAgICAzOiAi56qB5Y+RL+iHquWPkSIsCiAgICA0OiAi5Yid5aeL5YyWIiwKICAgIDU6ICLor7fmsYIiLAogICAgNjogIua/gOa0uyIsCiAgICA3OiAi5r+A5rS756Gu6K6kIiwKICAgIDg6ICLlgZzmraLmv4DmtLsiLAogICAgOTogIuWBnOatoua/gOa0u+ehruiupCIsCiAgICAxMDogIua/gOa0u+e7iOatoiIsCiAgICAyMDogIuWTjeW6lOaAu+WPrOWUpCIsCn0KCgpkZWYgcGFyc2VfaWVjMTA0KHJhdzogYnl0ZXMsICosIHJvbGU6IHN0cikgLT4gZGljdFtzdHIsIEFueV06CiAgICByZXN1bHQgPSBfcmVzdWx0KCJJRUMgNjA4NzAtNS0xMDQiLCByYXcpCiAgICByZXN1bHRbInJvbGUiXSA9IHJvbGUubG93ZXIoKQogICAgaWYgbGVuKHJhdykgPCA2IG9yIHJhd1swXSAhPSAweDY4OgogICAgICAgIHJldHVybiBfZmFpbChyZXN1bHQsICJJRUMxMDTmiqXmlofotbflp4vnrKbmiJbplb/luqbml6DmlYgiKQogICAgZmllbGRzID0gcmVzdWx0WyJmaWVsZHMiXQogICAgZmllbGRzLmV4dGVuZCgKICAgICAgICBbCiAgICAgICAgICAgIF9maWVsZCgic3RhcnQiLCAi5ZCv5Yqo5a2X56ymIiwgMCwgcmF3WzoxXSwgIjB4NjgiKSwKICAgICAgICAgICAgX2ZpZWxkKCJhcGR1X2xlbmd0aCIsICJBUERV6ZW/5bqmIiwgMSwgcmF3WzE6Ml0sIHJhd1sxXSwgIuaOp+WItuWfn+WPikFTRFXplb/luqYiKSwKICAgICAgICBdCiAgICApCiAgICBfdmFsaWRhdGlvbihyZXN1bHQsICJBUERV6ZW/5bqmIiwgcmF3WzFdID09IGxlbihyYXcpIC0gMiwgZiLlo7DmmI57cmF3WzFdfeWtl+iKgu+8jOWunumZhXtsZW4ocmF3KSAtIDJ95a2X6IqCIikKICAgIGN0cmwgPSByYXdbMjo2XQogICAgaWYgY3RybFswXSAmIDB4MDMgPT0gMHgwMzoKICAgICAgICBjb21tYW5kcyA9IHsKICAgICAgICAgICAgMHgwNzogIlNUQVJURFRfQUNUIOWQr+WKqOaVsOaNruS8oOi+kyIsCiAgICAgICAgICAgIDB4MEI6ICJTVEFSVERUX0NPTiDlkK/liqjnoa7orqQiLAogICAgICAgICAgICAweDEzOiAiU1RPUERUX0FDVCDlgZzmraLmlbDmja7kvKDovpMiLAogICAgICAgICAgICAweDIzOiAiU1RPUERUX0NPTiDlgZzmraLnoa7orqQiLAogICAgICAgICAgICAweDQzOiAiVEVTVEZSX0FDVCDmtYvor5Xor7fmsYIiLAogICAgICAgICAgICAweDgzOiAiVEVTVEZSX0NPTiDmtYvor5Xnoa7orqQiLAogICAgICAgIH0KICAgICAgICBjb21tYW5kID0gY29tbWFuZHMuZ2V0KGN0cmxbMF0sIGYi5pyq55+lVeW4pzB4e2N0cmxbMF06MDJYfSIpCiAgICAgICAgZmllbGRzLmFwcGVuZChfZmllbGQoImNvbnRyb2wiLCAiVeW4p+aOp+WItuWfnyIsIDIsIGN0cmwsIGNvbW1hbmQpKQogICAgICAgIHJlc3VsdC51cGRhdGUoZnJhbWVfa2luZD0iVeagvOW8j+W4pyIsIHN1bW1hcnk9ZiJV5qC85byP5bin77yae2NvbW1hbmR9IiwgcHVycG9zZT1jb21tYW5kKQogICAgICAgIHJldHVybiByZXN1bHQKICAgIGlmIGN0cmxbMF0gJiAweDAxOgogICAgICAgIG5yID0gaW50LmZyb21fYnl0ZXMoY3RybFsyOjRdLCAibGl0dGxlIikgPj4gMQogICAgICAgIGZpZWxkcy5leHRlbmQoCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgIF9maWVsZCgiY29udHJvbCIsICJT5bin5o6n5Yi25Z+fIiwgMiwgY3RybCwgIuebkeedo+W4pyIpLAogICAgICAgICAgICAgICAgX2ZpZWxkKCJyZWNlaXZlX3NlcXVlbmNlIiwgIuaOpeaUtuW6j+WPt04oUikiLCA0LCBjdHJsWzI6NF0sIG5yKSwKICAgICAgICAgICAgXQogICAgICAgICkKICAgICAgICByZXN1bHQudXBkYXRlKAogICAgICAgICAgICBmcmFtZV9raW5kPSJT5qC85byP5binIiwgc3VtbWFyeT1mIlPmoLzlvI/noa7orqTluKfvvIzlt7LmraPnoa7mjqXmlLbliLDluo/lj7d7bnIgLSAxfSIsIHB1cnBvc2U9IuehruiupOW3suaOpeaUtueahEnmoLzlvI/luKciCiAgICAgICAgKQogICAgICAgIHJldHVybiByZXN1bHQKICAgIG5zLCBuciA9IGludC5mcm9tX2J5dGVzKGN0cmxbOjJdLCAibGl0dGxlIikgPj4gMSwgaW50LmZyb21fYnl0ZXMoY3RybFsyOjRdLCAibGl0dGxlIikgPj4gMQogICAgZmllbGRzLmV4dGVuZCgKICAgICAgICBbCiAgICAgICAgICAgIF9maWVsZCgic2VuZF9zZXF1ZW5jZSIsICLlj5HpgIHluo/lj7dOKFMpIiwgMiwgY3RybFs6Ml0sIG5zKSwKICAgICAgICAgICAgX2ZpZWxkKCJyZWNlaXZlX3NlcXVlbmNlIiwgIuaOpeaUtuW6j+WPt04oUikiLCA0LCBjdHJsWzI6NF0sIG5yKSwKICAgICAgICBdCiAgICApCiAgICByZXN1bHRbImZyYW1lX2tpbmQiXSA9ICJJ5qC85byP5binIgogICAgaWYgbGVuKHJhdykgPCAxMjoKICAgICAgICByZXR1cm4gX2ZhaWwocmVzdWx0LCAiSeagvOW8j+W4p+e8uuWwkeWujOaVtEFTRFUiKQogICAgYXNkdSwgYmFzZSA9IHJhd1s2Ol0sIDYKICAgIHR5cGVfaWQsIHZzcSA9IGFzZHVbMF0sIGFzZHVbMV0KICAgIGNvdW50LCBzZXF1ZW50aWFsID0gdnNxICYgMHg3RiwgYm9vbCh2c3EgJiAweDgwKQogICAgY290LCBuZWdhdGl2ZSwgdGVzdCA9IGFzZHVbMl0gJiAweDNGLCBib29sKGFzZHVbMl0gJiAweDQwKSwgYm9vbChhc2R1WzJdICYgMHg4MCkKICAgIG9yaWdpbmF0b3IsIGNvbW1vbiA9IGFzZHVbM10sIGludC5mcm9tX2J5dGVzKGFzZHVbNDo2XSwgImxpdHRsZSIpCiAgICB0eXBlX25hbWUsIGNvdF9uYW1lID0gSUVDX1RZUEVTLmdldCh0eXBlX2lkLCBmIuacquefpVR5cGUgSUQge3R5cGVfaWR9IiksIElFQ19DT1QuZ2V0KGNvdCwgZiJDT1Qge2NvdH0iKQogICAgZmllbGRzLmV4dGVuZCgKICAgICAgICBbCiAgICAgICAgICAgIF9maWVsZCgidHlwZV9pZCIsICLnsbvlnovmoIfor4ZUeXBlIElEIiwgYmFzZSwgYXNkdVs6MV0sIGYie3R5cGVfaWR9IHt0eXBlX25hbWV9IiksCiAgICAgICAgICAgIF9maWVsZCgidnNxIiwgIuWPr+WPmOe7k+aehOmZkOWumuivjVZTUSIsIGJhc2UgKyAxLCBhc2R1WzE6Ml0sIGYi5a+56LGh5pWwe2NvdW50fe+8jFNRPXtpbnQoc2VxdWVudGlhbCl9IiksCiAgICAgICAgICAgIF9maWVsZCgKICAgICAgICAgICAgICAgICJjb3QiLAogICAgICAgICAgICAgICAgIuS8oOmAgeWOn+WboENPVCIsCiAgICAgICAgICAgICAgICBiYXNlICsgMiwKICAgICAgICAgICAgICAgIGFzZHVbMjo0XSwKICAgICAgICAgICAgICAgIGYie2NvdH0ge2NvdF9uYW1lfSIgKyAoIu+8jOWQpuWumiIgaWYgbmVnYXRpdmUgZWxzZSAiIikgKyAoIu+8jOa1i+ivlSIgaWYgdGVzdCBlbHNlICIiKSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgX2ZpZWxkKCJvcmlnaW5hdG9yIiwgIua6kOWPkeWcsOWdgCIsIGJhc2UgKyAzLCBhc2R1WzM6NF0sIG9yaWdpbmF0b3IpLAogICAgICAgICAgICBfZmllbGQoImNvbW1vbl9hZGRyZXNzIiwgIuWFrOWFseWcsOWdgCIsIGJhc2UgKyA0LCBhc2R1WzQ6Nl0sIGNvbW1vbiksCiAgICAgICAgXQogICAgKQogICAgX3BhcnNlX2llY19vYmplY3RzKHJlc3VsdCwgYXNkdVs2Ol0sIGJhc2UgKyA2LCB0eXBlX2lkLCBjb3VudCwgc2VxdWVudGlhbCkKICAgIHJlc3VsdFsic3VtbWFyeSJdID0gZiJJ5qC85byP5binTihTKT17bnN944CBTihSKT17bnJ977yM5YWs5YWx5Zyw5Z2Ae2NvbW1vbn3vvIx7dHlwZV9uYW1lfe+8jHtjb3RfbmFtZX3vvIx7Y291bnR95Liq5L+h5oGv5L2TIgogICAgcmVzdWx0WyJwdXJwb3NlIl0gPSBmIuS7pXtjb3RfbmFtZX3mlrnlvI/kvKDpgIF7dHlwZV9uYW1lfSIKICAgIHJldHVybiByZXN1bHQKCgpkZWYgX2RlY29kZV9xdWFsaXR5KHZhbHVlOiBpbnQpIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgcmV0dXJuIHsKICAgICAgICAicmF3IjogZiIweHt2YWx1ZTowMlh9IiwKICAgICAgICAib3ZlcmZsb3ciOiBib29sKHZhbHVlICYgMHgwMSksCiAgICAgICAgImJsb2NrZWQiOiBib29sKHZhbHVlICYgMHgxMCksCiAgICAgICAgInN1YnN0aXR1dGVkIjogYm9vbCh2YWx1ZSAmIDB4MjApLAogICAgICAgICJub3RfdG9waWNhbCI6IGJvb2wodmFsdWUgJiAweDQwKSwKICAgICAgICAiaW52YWxpZCI6IGJvb2wodmFsdWUgJiAweDgwKSwKICAgIH0KCgpkZWYgX2RlY29kZV9jcDE2KGRhdGE6IGJ5dGVzKSAtPiB0dXBsZVtzdHIsIGRpY3Rbc3RyLCBBbnldXToKICAgIG1pbGxpc2Vjb25kcyA9IGludC5mcm9tX2J5dGVzKGRhdGFbOjJdLCAibGl0dGxlIikKICAgIHJldHVybiBmInttaWxsaXNlY29uZHMgLyAxMDAwOi4zZn1zIiwgeyJtaWxsaXNlY29uZHMiOiBtaWxsaXNlY29uZHN9CgoKZGVmIF9kZWNvZGVfY3A1NihkYXRhOiBieXRlcykgLT4gdHVwbGVbc3RyLCBkaWN0W3N0ciwgQW55XV06CiAgICBtaWxsaXNlY29uZHMgPSBpbnQuZnJvbV9ieXRlcyhkYXRhWzoyXSwgImxpdHRsZSIpCiAgICBzZWNvbmQsIG1pbGxpc2Vjb25kID0gZGl2bW9kKG1pbGxpc2Vjb25kcywgMTAwMCkKICAgIG1pbnV0ZSwgaW52YWxpZCA9IGRhdGFbMl0gJiAweDNGLCBib29sKGRhdGFbMl0gJiAweDgwKQogICAgaG91ciwgc3VtbWVyX3RpbWUgPSBkYXRhWzNdICYgMHgxRiwgYm9vbChkYXRhWzNdICYgMHg4MCkKICAgIGRheSwgZGF5X29mX3dlZWsgPSBkYXRhWzRdICYgMHgxRiwgKGRhdGFbNF0gPj4gNSkgJiAweDA3CiAgICBtb250aCwgeWVhciA9IGRhdGFbNV0gJiAweDBGLCAyMDAwICsgKGRhdGFbNl0gJiAweDdGKQogICAgdGV4dCA9IGYie3llYXI6MDRkfS17bW9udGg6MDJkfS17ZGF5OjAyZH0ge2hvdXI6MDJkfTp7bWludXRlOjAyZH06e3NlY29uZDowMmR9LnttaWxsaXNlY29uZDowM2R9IgogICAgcmV0dXJuIHRleHQsIHsKICAgICAgICAieWVhciI6IHllYXIsCiAgICAgICAgIm1vbnRoIjogbW9udGgsCiAgICAgICAgImRheSI6IGRheSwKICAgICAgICAiZGF5X29mX3dlZWsiOiBkYXlfb2Zfd2VlaywKICAgICAgICAiaG91ciI6IGhvdXIsCiAgICAgICAgIm1pbnV0ZSI6IG1pbnV0ZSwKICAgICAgICAic2Vjb25kIjogc2Vjb25kLAogICAgICAgICJtaWxsaXNlY29uZCI6IG1pbGxpc2Vjb25kLAogICAgICAgICJpbnZhbGlkIjogaW52YWxpZCwKICAgICAgICAic3VtbWVyX3RpbWUiOiBzdW1tZXJfdGltZSwKICAgIH0KCgpkZWYgX29iamVjdF9sYXlvdXQodHlwZV9pZDogaW50KSAtPiB0dXBsZVtzdHIsIGludCwgc3RyIHwgTm9uZSwgaW50XToKICAgIGxheW91dHMgPSB7CiAgICAgICAgMTogKCJzaW5nbGUiLCAxLCAiZW1iZWRkZWQiLCAwKSwKICAgICAgICAyOiAoInNpbmdsZSIsIDEsICJlbWJlZGRlZCIsIDIpLAogICAgICAgIDM6ICgiZG91YmxlIiwgMSwgImVtYmVkZGVkIiwgMCksCiAgICAgICAgNDogKCJkb3VibGUiLCAxLCAiZW1iZWRkZWQiLCAyKSwKICAgICAgICA5OiAoIm5vcm1hbGl6ZWQiLCAyLCAicWRzIiwgMCksCiAgICAgICAgMTE6ICgic2NhbGVkIiwgMiwgInFkcyIsIDApLAogICAgICAgIDEzOiAoImZsb2F0IiwgNCwgInFkcyIsIDApLAogICAgICAgIDE1OiAoImNvdW50ZXIiLCA0LCAiYmNyIiwgMCksCiAgICAgICAgMjE6ICgibm9ybWFsaXplZCIsIDIsIE5vbmUsIDApLAogICAgICAgIDMwOiAoInNpbmdsZSIsIDEsICJlbWJlZGRlZCIsIDcpLAogICAgICAgIDMxOiAoImRvdWJsZSIsIDEsICJlbWJlZGRlZCIsIDcpLAogICAgICAgIDM0OiAoIm5vcm1hbGl6ZWQiLCAyLCAicWRzIiwgNyksCiAgICAgICAgMzU6ICgic2NhbGVkIiwgMiwgInFkcyIsIDcpLAogICAgICAgIDM2OiAoImZsb2F0IiwgNCwgInFkcyIsIDcpLAogICAgICAgIDM3OiAoImNvdW50ZXIiLCA0LCAiYmNyIiwgNyksCiAgICAgICAgNDU6ICgic2luZ2xlX2NvbW1hbmQiLCAxLCAiY29tbWFuZF9lbWJlZGRlZCIsIDApLAogICAgICAgIDQ2OiAoImRvdWJsZV9jb21tYW5kIiwgMSwgImNvbW1hbmRfZW1iZWRkZWQiLCAwKSwKICAgICAgICA0NzogKCJzdGVwX2NvbW1hbmQiLCAxLCAiY29tbWFuZF9lbWJlZGRlZCIsIDApLAogICAgICAgIDQ4OiAoIm5vcm1hbGl6ZWQiLCAyLCAiY29tbWFuZCIsIDApLAogICAgICAgIDQ5OiAoInNjYWxlZCIsIDIsICJjb21tYW5kIiwgMCksCiAgICAgICAgNTA6ICgiZmxvYXQiLCA0LCAiY29tbWFuZCIsIDApLAogICAgICAgIDU4OiAoInNpbmdsZV9jb21tYW5kIiwgMSwgImNvbW1hbmRfZW1iZWRkZWQiLCA3KSwKICAgICAgICA1OTogKCJkb3VibGVfY29tbWFuZCIsIDEsICJjb21tYW5kX2VtYmVkZGVkIiwgNyksCiAgICAgICAgNjA6ICgic3RlcF9jb21tYW5kIiwgMSwgImNvbW1hbmRfZW1iZWRkZWQiLCA3KSwKICAgICAgICA2MTogKCJub3JtYWxpemVkIiwgMiwgImNvbW1hbmQiLCA3KSwKICAgICAgICA2MjogKCJzY2FsZWQiLCAyLCAiY29tbWFuZCIsIDcpLAogICAgICAgIDYzOiAoImZsb2F0IiwgNCwgImNvbW1hbmQiLCA3KSwKICAgICAgICAxMDA6ICgicW9pIiwgMSwgTm9uZSwgMCksCiAgICAgICAgMTAxOiAoInFjYyIsIDEsIE5vbmUsIDApLAogICAgICAgIDEwMjogKCJub25lIiwgMCwgTm9uZSwgMCksCiAgICAgICAgMTAzOiAoIm5vbmUiLCAwLCBOb25lLCA3KSwKICAgICAgICAxMDQ6ICgidWludDE2IiwgMiwgTm9uZSwgMCksCiAgICAgICAgMTA1OiAoInU4IiwgMSwgTm9uZSwgMCksCiAgICAgICAgMTA2OiAoIm5vbmUiLCAwLCBOb25lLCAyKSwKICAgICAgICAxMDc6ICgidWludDE2IiwgMiwgTm9uZSwgNyksCiAgICB9CiAgICByZXR1cm4gbGF5b3V0c1t0eXBlX2lkXQoKCmRlZiBfZGVjb2RlX3ZhbHVlKGtpbmQ6IHN0ciwgZGF0YTogYnl0ZXMpIC0+IEFueToKICAgIGltcG9ydCBzdHJ1Y3QKCiAgICBpZiBraW5kIGluICgic2luZ2xlIiwgInNpbmdsZV9jb21tYW5kIik6CiAgICAgICAgcmV0dXJuIGJvb2woZGF0YVswXSAmIDB4MDEpCiAgICBpZiBraW5kIGluICgiZG91YmxlIiwgImRvdWJsZV9jb21tYW5kIik6CiAgICAgICAgcmV0dXJuIGRhdGFbMF0gJiAweDAzCiAgICBpZiBraW5kID09ICJzdGVwX2NvbW1hbmQiOgogICAgICAgIHJldHVybiBkYXRhWzBdICYgMHgwMwogICAgaWYga2luZCA9PSAibm9ybWFsaXplZCI6CiAgICAgICAgcmV0dXJuIHJvdW5kKGludC5mcm9tX2J5dGVzKGRhdGFbOjJdLCAibGl0dGxlIiwgc2lnbmVkPVRydWUpIC8gMzI3NjcsIDYpCiAgICBpZiBraW5kID09ICJzY2FsZWQiOgogICAgICAgIHJldHVybiBpbnQuZnJvbV9ieXRlcyhkYXRhWzoyXSwgImxpdHRsZSIsIHNpZ25lZD1UcnVlKQogICAgaWYga2luZCA9PSAiZmxvYXQiOgogICAgICAgIHJldHVybiBzdHJ1Y3QudW5wYWNrKCI8ZiIsIGRhdGFbOjRdKVswXQogICAgaWYga2luZCA9PSAiY291bnRlciI6CiAgICAgICAgcmV0dXJuIGludC5mcm9tX2J5dGVzKGRhdGFbOjRdLCAibGl0dGxlIiwgc2lnbmVkPVRydWUpCiAgICBpZiBraW5kID09ICJ1aW50MTYiOgogICAgICAgIHJldHVybiBpbnQuZnJvbV9ieXRlcyhkYXRhWzoyXSwgImxpdHRsZSIpCiAgICBpZiBraW5kID09ICJ1OCI6CiAgICAgICAgcmV0dXJuIGRhdGFbMF0KICAgIGlmIGtpbmQgPT0gInFvaSI6CiAgICAgICAgcmV0dXJuIGYiUU9JPXtkYXRhWzBdfSIKICAgIGlmIGtpbmQgPT0gInFjYyI6CiAgICAgICAgcmV0dXJuIHsicmVxdWVzdCI6IGRhdGFbMF0gJiAweDNGLCAiZnJlZXplIjogKGRhdGFbMF0gPj4gNikgJiAweDAzfQogICAgcmV0dXJuIE5vbmUKCgpkZWYgX3BhcnNlX2llY19vYmplY3RzKAogICAgcmVzdWx0OiBkaWN0W3N0ciwgQW55XSwgcGF5bG9hZDogYnl0ZXMsIG9mZnNldDogaW50LCB0eXBlX2lkOiBpbnQsIGNvdW50OiBpbnQsIHNlcXVlbnRpYWw6IGJvb2wKKSAtPiBOb25lOgogICAgdHJ5OgogICAgICAgIGtpbmQsIHZhbHVlX3NpemUsIHF1YWxpZmllcl9raW5kLCB0aW1lX3NpemUgPSBfb2JqZWN0X2xheW91dCh0eXBlX2lkKQogICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgIHJlc3VsdFsiY29tcGxldGUiXSA9IEZhbHNlCiAgICAgICAgcmVzdWx0WyJ3YXJuaW5ncyJdLmFwcGVuZCgi6K+lQVNEVeexu+Wei+eahOS/oeaBr+S9k+WAvOWwmuacquWujOWFqOino+aekCIpCiAgICAgICAgcmV0dXJuCgogICAgY3Vyc29yLCBmaXJzdF9pb2EgPSAwLCBOb25lCiAgICBxdWFsaWZpZXJfc2l6ZSA9IDEgaWYgcXVhbGlmaWVyX2tpbmQgaW4gKCJxZHMiLCAiY29tbWFuZCIsICJiY3IiKSBlbHNlIDAKICAgIG9iamVjdF9zaXplID0gdmFsdWVfc2l6ZSArIHF1YWxpZmllcl9zaXplICsgdGltZV9zaXplCiAgICBmb3IgaW5kZXggaW4gcmFuZ2UoY291bnQpOgogICAgICAgIG9iamVjdF9zdGFydCA9IGN1cnNvcgogICAgICAgIGlmIG5vdCBzZXF1ZW50aWFsIG9yIGluZGV4ID09IDA6CiAgICAgICAgICAgIGlmIGN1cnNvciArIDMgPiBsZW4ocGF5bG9hZCk6CiAgICAgICAgICAgICAgICByZXN1bHRbImNvbXBsZXRlIl0gPSBGYWxzZQogICAgICAgICAgICAgICAgcmVzdWx0WyJ3YXJuaW5ncyJdLmFwcGVuZChmIuesrHtpbmRleCArIDF95Liq5L+h5oGv5L2T57y65bCRSU9BIikKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIGlvYSA9IGludC5mcm9tX2J5dGVzKHBheWxvYWRbY3Vyc29yIDogY3Vyc29yICsgM10sICJsaXR0bGUiKQogICAgICAgICAgICBmaXJzdF9pb2EgPSBpb2EKICAgICAgICAgICAgY3Vyc29yICs9IDMKICAgICAgICBlbHNlOgogICAgICAgICAgICBpb2EgPSBpbnQoZmlyc3RfaW9hIG9yIDApICsgaW5kZXgKICAgICAgICBkYXRhX3N0YXJ0ID0gY3Vyc29yCiAgICAgICAgaWYgY3Vyc29yICsgb2JqZWN0X3NpemUgPiBsZW4ocGF5bG9hZCk6CiAgICAgICAgICAgIHJlc3VsdFsiY29tcGxldGUiXSA9IEZhbHNlCiAgICAgICAgICAgIHJlc3VsdFsid2FybmluZ3MiXS5hcHBlbmQoZiLnrKx7aW5kZXggKyAxfeS4quS/oeaBr+S9k+aVsOaNruS4jeWujOaVtCIpCiAgICAgICAgICAgIGJyZWFrCgogICAgICAgIHZhbHVlX3JhdyA9IHBheWxvYWRbY3Vyc29yIDogY3Vyc29yICsgdmFsdWVfc2l6ZV0KICAgICAgICB2YWx1ZSA9IF9kZWNvZGVfdmFsdWUoa2luZCwgdmFsdWVfcmF3KQogICAgICAgIGN1cnNvciArPSB2YWx1ZV9zaXplCiAgICAgICAgcXVhbGl0eSA9IE5vbmUKICAgICAgICBvYmplY3RfZmllbGRzID0gWwogICAgICAgICAgICBfZmllbGQoCiAgICAgICAgICAgICAgICAiaW9hIiwKICAgICAgICAgICAgICAgICLkv6Hmga/lr7nosaHlnLDlnYBJT0EiLAogICAgICAgICAgICAgICAgb2Zmc2V0ICsgb2JqZWN0X3N0YXJ0LAogICAgICAgICAgICAgICAgcGF5bG9hZFtvYmplY3Rfc3RhcnQgOiBvYmplY3Rfc3RhcnQgKyAzXSBpZiBub3Qgc2VxdWVudGlhbCBvciBpbmRleCA9PSAwIGVsc2UgYiIiLAogICAgICAgICAgICAgICAgaW9hLAogICAgICAgICAgICAgICAgIlNRPTHnmoTlkI7nu61JT0HnlLHpppblnLDlnYDpgJLlop4iIGlmIHNlcXVlbnRpYWwgYW5kIGluZGV4ID4gMCBlbHNlICIiLAogICAgICAgICAgICApLAogICAgICAgICAgICBfZmllbGQoInZhbHVlIiwgIuS/oeaBr+S9k+WAvCIsIG9mZnNldCArIGRhdGFfc3RhcnQsIHZhbHVlX3JhdywgdmFsdWUpLAogICAgICAgIF0KCiAgICAgICAgaWYgcXVhbGlmaWVyX2tpbmQgPT0gImVtYmVkZGVkIiBhbmQgdmFsdWVfcmF3OgogICAgICAgICAgICBxdWFsaXR5ID0gX2RlY29kZV9xdWFsaXR5KHZhbHVlX3Jhd1swXSAmIDB4RjApCiAgICAgICAgICAgIG9iamVjdF9maWVsZHMuYXBwZW5kKF9maWVsZCgicXVhbGl0eSIsICLlk4HotKjmj4/ov7Dor40iLCBvZmZzZXQgKyBkYXRhX3N0YXJ0LCB2YWx1ZV9yYXdbOjFdLCBxdWFsaXR5KSkKICAgICAgICBlbGlmIHF1YWxpZmllcl9raW5kID09ICJxZHMiOgogICAgICAgICAgICBxdWFsaWZpZXJfcmF3ID0gcGF5bG9hZFtjdXJzb3IgOiBjdXJzb3IgKyAxXQogICAgICAgICAgICBxdWFsaXR5ID0gX2RlY29kZV9xdWFsaXR5KHF1YWxpZmllcl9yYXdbMF0pCiAgICAgICAgICAgIG9iamVjdF9maWVsZHMuYXBwZW5kKF9maWVsZCgicXVhbGl0eSIsICLlk4HotKjmj4/ov7Dor41RRFMiLCBvZmZzZXQgKyBjdXJzb3IsIHF1YWxpZmllcl9yYXcsIHF1YWxpdHkpKQogICAgICAgICAgICBjdXJzb3IgKz0gMQogICAgICAgIGVsaWYgcXVhbGlmaWVyX2tpbmQgPT0gImJjciI6CiAgICAgICAgICAgIHF1YWxpZmllcl9yYXcgPSBwYXlsb2FkW2N1cnNvciA6IGN1cnNvciArIDFdCiAgICAgICAgICAgIHF1YWxpZmllciA9IHF1YWxpZmllcl9yYXdbMF0KICAgICAgICAgICAgcXVhbGl0eSA9IHsKICAgICAgICAgICAgICAgICJyYXciOiBmIjB4e3F1YWxpZmllcjowMlh9IiwKICAgICAgICAgICAgICAgICJzZXF1ZW5jZSI6IHF1YWxpZmllciAmIDB4MUYsCiAgICAgICAgICAgICAgICAiY2FycnkiOiBib29sKHF1YWxpZmllciAmIDB4MjApLAogICAgICAgICAgICAgICAgImFkanVzdGVkIjogYm9vbChxdWFsaWZpZXIgJiAweDQwKSwKICAgICAgICAgICAgICAgICJpbnZhbGlkIjogYm9vbChxdWFsaWZpZXIgJiAweDgwKSwKICAgICAgICAgICAgfQogICAgICAgICAgICBvYmplY3RfZmllbGRzLmFwcGVuZCgKICAgICAgICAgICAgICAgIF9maWVsZCgiYmluYXJ5X2NvdW50ZXJfcXVhbGl0eSIsICLntK/orqHph4/lk4HotKhCQ1IiLCBvZmZzZXQgKyBjdXJzb3IsIHF1YWxpZmllcl9yYXcsIHF1YWxpdHkpCiAgICAgICAgICAgICkKICAgICAgICAgICAgY3Vyc29yICs9IDEKICAgICAgICBlbGlmIHF1YWxpZmllcl9raW5kIGluICgiY29tbWFuZCIsICJjb21tYW5kX2VtYmVkZGVkIik6CiAgICAgICAgICAgIGlmIHF1YWxpZmllcl9raW5kID09ICJjb21tYW5kX2VtYmVkZGVkIjoKICAgICAgICAgICAgICAgIHF1YWxpZmllcl9yYXcgPSB2YWx1ZV9yYXdbLTE6XQogICAgICAgICAgICAgICAgcXVhbGlmaWVyX29mZnNldCA9IGRhdGFfc3RhcnQgKyB2YWx1ZV9zaXplIC0gMQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcXVhbGlmaWVyX3JhdyA9IHBheWxvYWRbY3Vyc29yIDogY3Vyc29yICsgMV0KICAgICAgICAgICAgICAgIHF1YWxpZmllcl9vZmZzZXQgPSBjdXJzb3IKICAgICAgICAgICAgcXVhbGlmaWVyID0gcXVhbGlmaWVyX3Jhd1swXQogICAgICAgICAgICBxdWFsaXR5ID0gewogICAgICAgICAgICAgICAgInJhdyI6IGYiMHh7cXVhbGlmaWVyOjAyWH0iLAogICAgICAgICAgICAgICAgInNlbGVjdCI6IGJvb2wocXVhbGlmaWVyICYgMHg4MCksCiAgICAgICAgICAgICAgICAicXVhbGlmaWVyIjogKHF1YWxpZmllciA+PiAyKSAmIDB4MUYgaWYgcXVhbGlmaWVyX2tpbmQgPT0gImNvbW1hbmRfZW1iZWRkZWQiIGVsc2UgcXVhbGlmaWVyICYgMHg3RiwKICAgICAgICAgICAgfQogICAgICAgICAgICBvYmplY3RfZmllbGRzLmFwcGVuZCgKICAgICAgICAgICAgICAgIF9maWVsZCgiY29tbWFuZF9xdWFsaWZpZXIiLCAi5ZG95Luk6ZmQ5a6a6K+NIiwgb2Zmc2V0ICsgcXVhbGlmaWVyX29mZnNldCwgcXVhbGlmaWVyX3JhdywgcXVhbGl0eSkKICAgICAgICAgICAgKQogICAgICAgICAgICBpZiBxdWFsaWZpZXJfa2luZCA9PSAiY29tbWFuZCI6CiAgICAgICAgICAgICAgICBjdXJzb3IgKz0gMQoKICAgICAgICB0aW1lc3RhbXAgPSBOb25lCiAgICAgICAgdGltZXN0YW1wX21ldGEgPSBOb25lCiAgICAgICAgaWYgdGltZV9zaXplOgogICAgICAgICAgICB0aW1lX3JhdyA9IHBheWxvYWRbY3Vyc29yIDogY3Vyc29yICsgdGltZV9zaXplXQogICAgICAgICAgICBpZiB0aW1lX3NpemUgPT0gMjoKICAgICAgICAgICAgICAgIHRpbWVzdGFtcCwgdGltZXN0YW1wX21ldGEgPSBfZGVjb2RlX2NwMTYodGltZV9yYXcpCiAgICAgICAgICAgICAgICB0aW1lX25hbWUgPSAiQ1AxNlRpbWUyYSIKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHRpbWVzdGFtcCwgdGltZXN0YW1wX21ldGEgPSBfZGVjb2RlX2NwNTYodGltZV9yYXcpCiAgICAgICAgICAgICAgICB0aW1lX25hbWUgPSAiQ1A1NlRpbWUyYSIKICAgICAgICAgICAgb2JqZWN0X2ZpZWxkcy5hcHBlbmQoCiAgICAgICAgICAgICAgICBfZmllbGQoInRpbWVzdGFtcCIsIHRpbWVfbmFtZSwgb2Zmc2V0ICsgY3Vyc29yLCB0aW1lX3JhdywgdGltZXN0YW1wLCBzdHIodGltZXN0YW1wX21ldGEpKQogICAgICAgICAgICApCiAgICAgICAgICAgIGN1cnNvciArPSB0aW1lX3NpemUKCiAgICAgICAgZnVsbF9yYXcgPSBwYXlsb2FkW2RhdGFfc3RhcnQ6Y3Vyc29yXQogICAgICAgIHJlc3VsdFsib2JqZWN0cyJdLmFwcGVuZCgKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImluZGV4IjogaW5kZXgsCiAgICAgICAgICAgICAgICAib2Zmc2V0Ijogb2Zmc2V0ICsgb2JqZWN0X3N0YXJ0LAogICAgICAgICAgICAgICAgImxlbmd0aCI6IGN1cnNvciAtIG9iamVjdF9zdGFydCwKICAgICAgICAgICAgICAgICJhZGRyZXNzIjogaW9hLAogICAgICAgICAgICAgICAgInZhbHVlIjogdmFsdWUsCiAgICAgICAgICAgICAgICAicmF3X3ZhbHVlIjogX2hleChmdWxsX3JhdyksCiAgICAgICAgICAgICAgICAicXVhbGl0eSI6IHF1YWxpdHksCiAgICAgICAgICAgICAgICAidGltZXN0YW1wIjogdGltZXN0YW1wLAogICAgICAgICAgICAgICAgInRpbWVzdGFtcF9kZXRhaWwiOiB0aW1lc3RhbXBfbWV0YSwKICAgICAgICAgICAgICAgICJmaWVsZHMiOiBvYmplY3RfZmllbGRzLAogICAgICAgICAgICB9CiAgICAgICAgKQoKICAgIGlmIGN1cnNvciA8IGxlbihwYXlsb2FkKToKICAgICAgICByZXN1bHRbIndhcm5pbmdzIl0uYXBwZW5kKGYi5L+h5oGv5L2T5ZCO5LuN5pyJe2xlbihwYXlsb2FkKSAtIGN1cnNvcn3kuKrmnKrop6Pph4rlrZfoioIiKQo=
+"""Field-level IEC 60870-5-104 parser."""
+
+from __future__ import annotations
+
+from typing import Any
+
+from .common import _fail, _field, _hex, _result, _validation
+
+IEC_TYPES = {
+    1: "M_SP_NA_1 单点遥信",
+    2: "M_SP_TA_1 单点遥信(CP16)",
+    3: "M_DP_NA_1 双点遥信",
+    4: "M_DP_TA_1 双点遥信(CP16)",
+    9: "M_ME_NA_1 归一化遥测",
+    11: "M_ME_NB_1 标度化遥测",
+    13: "M_ME_NC_1 短浮点遥测",
+    15: "M_IT_NA_1 累计量",
+    21: "M_ME_ND_1 归一化遥测(无品质)",
+    30: "M_SP_TB_1 单点遥信(CP56)",
+    31: "M_DP_TB_1 双点遥信(CP56)",
+    34: "M_ME_TD_1 归一化遥测(CP56)",
+    35: "M_ME_TE_1 标度化遥测(CP56)",
+    36: "M_ME_TF_1 短浮点遥测(CP56)",
+    37: "M_IT_TB_1 累计量(CP56)",
+    45: "C_SC_NA_1 单点遥控",
+    46: "C_DC_NA_1 双点遥控",
+    47: "C_RC_NA_1 步调节",
+    48: "C_SE_NA_1 归一化设点",
+    49: "C_SE_NB_1 标度化设点",
+    50: "C_SE_NC_1 短浮点设点",
+    58: "C_SC_TA_1 单点遥控(CP56)",
+    59: "C_DC_TA_1 双点遥控(CP56)",
+    60: "C_RC_TA_1 步调节(CP56)",
+    61: "C_SE_TA_1 归一化设点(CP56)",
+    62: "C_SE_TB_1 标度化设点(CP56)",
+    63: "C_SE_TC_1 短浮点设点(CP56)",
+    100: "C_IC_NA_1 总召唤",
+    101: "C_CI_NA_1 电度量召唤",
+    102: "C_RD_NA_1 读命令",
+    103: "C_CS_NA_1 时钟同步",
+    104: "C_TS_NA_1 测试命令",
+    105: "C_RP_NA_1 复位进程",
+    106: "C_CD_NA_1 延时获得",
+    107: "C_TS_TA_1 测试命令(CP56)",
+}
+IEC_COT = {
+    1: "周期",
+    2: "背景扫描",
+    3: "突发/自发",
+    4: "初始化",
+    5: "请求",
+    6: "激活",
+    7: "激活确认",
+    8: "停止激活",
+    9: "停止激活确认",
+    10: "激活终止",
+    20: "响应总召唤",
+}
+
+
+def parse_iec104(raw: bytes, *, role: str) -> dict[str, Any]:
+    result = _result("IEC 60870-5-104", raw)
+    result["role"] = role.lower()
+    if len(raw) < 6 or raw[0] != 0x68:
+        return _fail(result, "IEC104报文起始符或长度无效")
+    fields = result["fields"]
+    fields.extend(
+        [
+            _field("start", "启动字符", 0, raw[:1], "0x68"),
+            _field("apdu_length", "APDU长度", 1, raw[1:2], raw[1], "控制域及ASDU长度"),
+        ]
+    )
+    _validation(result, "APDU长度", raw[1] == len(raw) - 2, f"声明{raw[1]}字节，实际{len(raw) - 2}字节")
+    ctrl = raw[2:6]
+    if ctrl[0] & 0x03 == 0x03:
+        commands = {
+            0x07: "STARTDT_ACT 启动数据传输",
+            0x0B: "STARTDT_CON 启动确认",
+            0x13: "STOPDT_ACT 停止数据传输",
+            0x23: "STOPDT_CON 停止确认",
+            0x43: "TESTFR_ACT 测试请求",
+            0x83: "TESTFR_CON 测试确认",
+        }
+        command = commands.get(ctrl[0], f"未知U帧0x{ctrl[0]:02X}")
+        fields.append(_field("control", "U帧控制域", 2, ctrl, command))
+        result.update(frame_kind="U格式帧", summary=f"U格式帧：{command}", purpose=command)
+        return result
+    if ctrl[0] & 0x01:
+        nr = int.from_bytes(ctrl[2:4], "little") >> 1
+        fields.extend(
+            [
+                _field("control", "S帧控制域", 2, ctrl, "监督帧"),
+                _field("receive_sequence", "接收序号N(R)", 4, ctrl[2:4], nr),
+            ]
+        )
+        result.update(
+            frame_kind="S格式帧", summary=f"S格式确认帧，已正确接收到序号{nr - 1}", purpose="确认已接收的I格式帧"
+        )
+        return result
+    ns, nr = int.from_bytes(ctrl[:2], "little") >> 1, int.from_bytes(ctrl[2:4], "little") >> 1
+    fields.extend(
+        [
+            _field("send_sequence", "发送序号N(S)", 2, ctrl[:2], ns),
+            _field("receive_sequence", "接收序号N(R)", 4, ctrl[2:4], nr),
+        ]
+    )
+    result["frame_kind"] = "I格式帧"
+    if len(raw) < 12:
+        return _fail(result, "I格式帧缺少完整ASDU")
+    asdu, base = raw[6:], 6
+    type_id, vsq = asdu[0], asdu[1]
+    count, sequential = vsq & 0x7F, bool(vsq & 0x80)
+    cot, negative, test = asdu[2] & 0x3F, bool(asdu[2] & 0x40), bool(asdu[2] & 0x80)
+    originator, common = asdu[3], int.from_bytes(asdu[4:6], "little")
+    type_name, cot_name = IEC_TYPES.get(type_id, f"未知Type ID {type_id}"), IEC_COT.get(cot, f"COT {cot}")
+    fields.extend(
+        [
+            _field("type_id", "类型标识Type ID", base, asdu[:1], f"{type_id} {type_name}"),
+            _field("vsq", "可变结构限定词VSQ", base + 1, asdu[1:2], f"对象数{count}，SQ={int(sequential)}"),
+            _field(
+                "cot",
+                "传送原因COT",
+                base + 2,
+                asdu[2:4],
+                f"{cot} {cot_name}" + ("，否定" if negative else "") + ("，测试" if test else ""),
+            ),
+            _field("originator", "源发地址", base + 3, asdu[3:4], originator),
+            _field("common_address", "公共地址", base + 4, asdu[4:6], common),
+        ]
+    )
+    _parse_iec_objects(result, asdu[6:], base + 6, type_id, count, sequential)
+    result["summary"] = f"I格式帧N(S)={ns}、N(R)={nr}，公共地址{common}，{type_name}，{cot_name}，{count}个信息体"
+    result["purpose"] = f"以{cot_name}方式传送{type_name}"
+    return result
+
+
+def _decode_quality(value: int) -> dict[str, Any]:
+    return {
+        "raw": f"0x{value:02X}",
+        "overflow": bool(value & 0x01),
+        "blocked": bool(value & 0x10),
+        "substituted": bool(value & 0x20),
+        "not_topical": bool(value & 0x40),
+        "invalid": bool(value & 0x80),
+    }
+
+
+def _decode_cp16(data: bytes) -> tuple[str, dict[str, Any]]:
+    milliseconds = int.from_bytes(data[:2], "little")
+    return f"{milliseconds / 1000:.3f}s", {"milliseconds": milliseconds}
+
+
+def _decode_cp56(data: bytes) -> tuple[str, dict[str, Any]]:
+    milliseconds = int.from_bytes(data[:2], "little")
+    second, millisecond = divmod(milliseconds, 1000)
+    minute, invalid = data[2] & 0x3F, bool(data[2] & 0x80)
+    hour, summer_time = data[3] & 0x1F, bool(data[3] & 0x80)
+    day, day_of_week = data[4] & 0x1F, (data[4] >> 5) & 0x07
+    month, year = data[5] & 0x0F, 2000 + (data[6] & 0x7F)
+    text = f"{year:04d}-{month:02d}-{day:02d} {hour:02d}:{minute:02d}:{second:02d}.{millisecond:03d}"
+    return text, {
+        "year": year,
+        "month": month,
+        "day": day,
+        "day_of_week": day_of_week,
+        "hour": hour,
+        "minute": minute,
+        "second": second,
+        "millisecond": millisecond,
+        "invalid": invalid,
+        "summer_time": summer_time,
+    }
+
+
+def _object_layout(type_id: int) -> tuple[str, int, str | None, int]:
+    layouts = {
+        1: ("single", 1, "embedded", 0),
+        2: ("single", 1, "embedded", 2),
+        3: ("double", 1, "embedded", 0),
+        4: ("double", 1, "embedded", 2),
+        9: ("normalized", 2, "qds", 0),
+        11: ("scaled", 2, "qds", 0),
+        13: ("float", 4, "qds", 0),
+        15: ("counter", 4, "bcr", 0),
+        21: ("normalized", 2, None, 0),
+        30: ("single", 1, "embedded", 7),
+        31: ("double", 1, "embedded", 7),
+        34: ("normalized", 2, "qds", 7),
+        35: ("scaled", 2, "qds", 7),
+        36: ("float", 4, "qds", 7),
+        37: ("counter", 4, "bcr", 7),
+        45: ("single_command", 1, "command_embedded", 0),
+        46: ("double_command", 1, "command_embedded", 0),
+        47: ("step_command", 1, "command_embedded", 0),
+        48: ("normalized", 2, "command", 0),
+        49: ("scaled", 2, "command", 0),
+        50: ("float", 4, "command", 0),
+        58: ("single_command", 1, "command_embedded", 7),
+        59: ("double_command", 1, "command_embedded", 7),
+        60: ("step_command", 1, "command_embedded", 7),
+        61: ("normalized", 2, "command", 7),
+        62: ("scaled", 2, "command", 7),
+        63: ("float", 4, "command", 7),
+        100: ("qoi", 1, None, 0),
+        101: ("qcc", 1, None, 0),
+        102: ("none", 0, None, 0),
+        103: ("none", 0, None, 7),
+        104: ("uint16", 2, None, 0),
+        105: ("u8", 1, None, 0),
+        106: ("none", 0, None, 2),
+        107: ("uint16", 2, None, 7),
+    }
+    return layouts[type_id]
+
+
+def _decode_value(kind: str, data: bytes) -> Any:
+    import struct
+
+    if kind in ("single", "single_command"):
+        return bool(data[0] & 0x01)
+    if kind in ("double", "double_command"):
+        return data[0] & 0x03
+    if kind == "step_command":
+        return data[0] & 0x03
+    if kind == "normalized":
+        return round(int.from_bytes(data[:2], "little", signed=True) / 32767, 6)
+    if kind == "scaled":
+        return int.from_bytes(data[:2], "little", signed=True)
+    if kind == "float":
+        return struct.unpack("<f", data[:4])[0]
+    if kind == "counter":
+        return int.from_bytes(data[:4], "little", signed=True)
+    if kind == "uint16":
+        return int.from_bytes(data[:2], "little")
+    if kind == "u8":
+        return data[0]
+    if kind == "qoi":
+        return f"QOI={data[0]}"
+    if kind == "qcc":
+        return {"request": data[0] & 0x3F, "freeze": (data[0] >> 6) & 0x03}
+    return None
+
+
+def _parse_iec_objects(
+    result: dict[str, Any], payload: bytes, offset: int, type_id: int, count: int, sequential: bool
+) -> None:
+    try:
+        kind, value_size, qualifier_kind, time_size = _object_layout(type_id)
+    except KeyError:
+        result["complete"] = False
+        result["warnings"].append("该ASDU类型的信息体值尚未完全解析")
+        return
+
+    cursor, first_ioa = 0, None
+    qualifier_size = 1 if qualifier_kind in ("qds", "command", "bcr") else 0
+    object_size = value_size + qualifier_size + time_size
+    for index in range(count):
+        object_start = cursor
+        if not sequential or index == 0:
+            if cursor + 3 > len(payload):
+                result["complete"] = False
+                result["warnings"].append(f"第{index + 1}个信息体缺少IOA")
+                break
+            ioa = int.from_bytes(payload[cursor : cursor + 3], "little")
+            first_ioa = ioa
+            cursor += 3
+        else:
+            ioa = int(first_ioa or 0) + index
+        data_start = cursor
+        if cursor + object_size > len(payload):
+            result["complete"] = False
+            result["warnings"].append(f"第{index + 1}个信息体数据不完整")
+            break
+
+        value_raw = payload[cursor : cursor + value_size]
+        value = _decode_value(kind, value_raw)
+        cursor += value_size
+        quality = None
+        object_fields = [
+            _field(
+                "ioa",
+                "信息对象地址IOA",
+                offset + object_start,
+                payload[object_start : object_start + 3] if not sequential or index == 0 else b"",
+                ioa,
+                "SQ=1的后续IOA由首地址递增" if sequential and index > 0 else "",
+            ),
+            _field("value", "信息体值", offset + data_start, value_raw, value),
+        ]
+
+        if qualifier_kind == "embedded" and value_raw:
+            quality = _decode_quality(value_raw[0] & 0xF0)
+            object_fields.append(_field("quality", "品质描述词", offset + data_start, value_raw[:1], quality))
+        elif qualifier_kind == "qds":
+            qualifier_raw = payload[cursor : cursor + 1]
+            quality = _decode_quality(qualifier_raw[0])
+            object_fields.append(_field("quality", "品质描述词QDS", offset + cursor, qualifier_raw, quality))
+            cursor += 1
+        elif qualifier_kind == "bcr":
+            qualifier_raw = payload[cursor : cursor + 1]
+            qualifier = qualifier_raw[0]
+            quality = {
+                "raw": f"0x{qualifier:02X}",
+                "sequence": qualifier & 0x1F,
+                "carry": bool(qualifier & 0x20),
+                "adjusted": bool(qualifier & 0x40),
+                "invalid": bool(qualifier & 0x80),
+            }
+            object_fields.append(
+                _field("binary_counter_quality", "累计量品质BCR", offset + cursor, qualifier_raw, quality)
+            )
+            cursor += 1
+        elif qualifier_kind in ("command", "command_embedded"):
+            if qualifier_kind == "command_embedded":
+                qualifier_raw = value_raw[-1:]
+                qualifier_offset = data_start + value_size - 1
+            else:
+                qualifier_raw = payload[cursor : cursor + 1]
+                qualifier_offset = cursor
+            qualifier = qualifier_raw[0]
+            quality = {
+                "raw": f"0x{qualifier:02X}",
+                "select": bool(qualifier & 0x80),
+                "qualifier": (qualifier >> 2) & 0x1F if qualifier_kind == "command_embedded" else qualifier & 0x7F,
+            }
+            object_fields.append(
+                _field("command_qualifier", "命令限定词", offset + qualifier_offset, qualifier_raw, quality)
+            )
+            if qualifier_kind == "command":
+                cursor += 1
+
+        timestamp = None
+        timestamp_meta = None
+        if time_size:
+            time_raw = payload[cursor : cursor + time_size]
+            if time_size == 2:
+                timestamp, timestamp_meta = _decode_cp16(time_raw)
+                time_name = "CP16Time2a"
+            else:
+                timestamp, timestamp_meta = _decode_cp56(time_raw)
+                time_name = "CP56Time2a"
+            object_fields.append(
+                _field("timestamp", time_name, offset + cursor, time_raw, timestamp, str(timestamp_meta))
+            )
+            cursor += time_size
+
+        full_raw = payload[data_start:cursor]
+        result["objects"].append(
+            {
+                "index": index,
+                "offset": offset + object_start,
+                "length": cursor - object_start,
+                "address": ioa,
+                "value": value,
+                "raw_value": _hex(full_raw),
+                "quality": quality,
+                "timestamp": timestamp,
+                "timestamp_detail": timestamp_meta,
+                "fields": object_fields,
+            }
+        )
+
+    if cursor < len(payload):
+        result["warnings"].append(f"信息体后仍有{len(payload) - cursor}个未解释字节")

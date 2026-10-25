@@ -1,1 +1,36 @@
-aW1wb3J0IGFzeW5jaW8sIGpzb24KZnJvbSBwbGF5d3JpZ2h0LmFzeW5jX2FwaSBpbXBvcnQgYXN5bmNfcGxheXdyaWdodApPVVQ9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDA5M19odW1hbl9kb29yIgoKYXN5bmMgZGVmIG1haW4oKToKICAgIGFzeW5jIHdpdGggYXN5bmNfcGxheXdyaWdodCgpIGFzIHA6CiAgICAgICAgYiA9IGF3YWl0IHAuY2hyb21pdW0ubGF1bmNoKGV4ZWN1dGFibGVfcGF0aD0iL3Vzci9iaW4vZ29vZ2xlLWNocm9tZSIsYXJncz1bIi0tbm8tc2FuZGJveCIsIi0tZGlzYWJsZS1kZXYtc2htLXVzYWdlIl0pCiAgICAgICAgcGcgPSBhd2FpdCBiLm5ld19wYWdlKHZpZXdwb3J0PXsid2lkdGgiOjEyODAsImhlaWdodCI6OTAwfSkKICAgICAgICBhd2FpdCBwZy5nb3RvKCJodHRwczovL21haWwucXEuY29tIiwgdGltZW91dD00NTAwMCwgd2FpdF91bnRpbD0iZG9tY29udGVudGxvYWRlZCIpCiAgICAgICAgYXdhaXQgcGcud2FpdF9mb3JfdGltZW91dCg1MDAwKQogICAgICAgIGZyID0gcGcuZnJhbWVzCiAgICAgICAgcHJpbnQoImZyYW1lczoiLCBsZW4oZnIpKQogICAgICAgIGZvciBmIGluIGZyOgogICAgICAgICAgICBwcmludCgiIC0iLCBmLnVybFs6MTAwXSkKICAgICAgICAjIOaJvuWIsOeZu+W9lSBpZnJhbWUKICAgICAgICB0YXJnZXQ9Tm9uZQogICAgICAgIGZvciBmIGluIGZyOgogICAgICAgICAgICBpZiAiZ3JhcGgucXEuY29tIiBpbiBmLnVybCBvciAieGxvZ2luIiBpbiBmLnVybCBvciAicHRsb2dpbiIgaW4gZi51cmw6CiAgICAgICAgICAgICAgICB0YXJnZXQ9ZjsgYnJlYWsKICAgICAgICBpZiB0YXJnZXQgaXMgTm9uZSBhbmQgbGVuKGZyKT4xOgogICAgICAgICAgICB0YXJnZXQgPSBmclsxXQogICAgICAgIGlmIHRhcmdldDoKICAgICAgICAgICAgaW5mbyA9IGF3YWl0IHRhcmdldC5ldmFsdWF0ZSgiIiIoKSA9PiB7CiAgICAgICAgICAgICAgY29uc3Qgb3V0PXt1cmw6bG9jYXRpb24uaHJlZix0aXRsZTpkb2N1bWVudC50aXRsZSwKICAgICAgICAgICAgICAgIGlucHV0czpbXSxjbGlja2FibGU6W10sdGV4dDpkb2N1bWVudC5ib2R5P2RvY3VtZW50LmJvZHkuaW5uZXJUZXh0LnNsaWNlKDAsNDAwKTonJywKICAgICAgICAgICAgICAgIGJvZHlTaXplOmRvY3VtZW50LmJvZHk/ZG9jdW1lbnQuYm9keS5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKS53aWR0aCsneCcrZG9jdW1lbnQuYm9keS5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKS5oZWlnaHQ6Jyd9OwogICAgICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ2lucHV0JykuZm9yRWFjaChlPT57Y29uc3Qgcj1lLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpOwogICAgICAgICAgICAgICAgb3V0LmlucHV0cy5wdXNoKHtpZDplLmlkLHR5cGU6ZS50eXBlLHBoOmUucGxhY2Vob2xkZXIsdzpNYXRoLnJvdW5kKHIud2lkdGgpLGg6TWF0aC5yb3VuZChyLmhlaWdodCkseDpNYXRoLnJvdW5kKHIueCkseTpNYXRoLnJvdW5kKHIueSl9KTt9KTsKICAgICAgICAgICAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdhLHNwYW4sZGl2W2lkXScpLmZvckVhY2goZT0+e2NvbnN0IHI9ZS5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKTsKICAgICAgICAgICAgICAgIGlmKHIud2lkdGg+MCYmci5oZWlnaHQ+MCYmZS5pbm5lclRleHQmJmUuaW5uZXJUZXh0LnRyaW0oKS5sZW5ndGg8MjApCiAgICAgICAgICAgICAgICAgIG91dC5jbGlja2FibGUucHVzaCh7dGFnOmUudGFnTmFtZSxpZDplLmlkLHR4dDplLmlubmVyVGV4dC50cmltKCkuc2xpY2UoMCwyMCkseDpNYXRoLnJvdW5kKHIueCtyLndpZHRoLzIpLHk6TWF0aC5yb3VuZChyLnkrci5oZWlnaHQvMil9KTt9KTsKICAgICAgICAgICAgICByZXR1cm4gb3V0O30iIiIpCiAgICAgICAgICAgIHByaW50KGpzb24uZHVtcHMoaW5mbyxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpKQogICAgICAgICAgICBhd2FpdCBwZy5zY3JlZW5zaG90KHBhdGg9ZiJ7T1VUfS9pZnJhbWVfdmlldy5wbmciKQogICAgICAgIGF3YWl0IGIuY2xvc2UoKQphc3luY2lvLnJ1bihtYWluKCkpCg==
+import asyncio, json
+from playwright.async_api import async_playwright
+OUT="/data/workspace/luoshen-o1/experiments/exp093_human_door"
+
+async def main():
+    async with async_playwright() as p:
+        b = await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox","--disable-dev-shm-usage"])
+        pg = await b.new_page(viewport={"width":1280,"height":900})
+        await pg.goto("https://mail.qq.com", timeout=45000, wait_until="domcontentloaded")
+        await pg.wait_for_timeout(5000)
+        fr = pg.frames
+        print("frames:", len(fr))
+        for f in fr:
+            print(" -", f.url[:100])
+        # 找到登录 iframe
+        target=None
+        for f in fr:
+            if "graph.qq.com" in f.url or "xlogin" in f.url or "ptlogin" in f.url:
+                target=f; break
+        if target is None and len(fr)>1:
+            target = fr[1]
+        if target:
+            info = await target.evaluate("""() => {
+              const out={url:location.href,title:document.title,
+                inputs:[],clickable:[],text:document.body?document.body.innerText.slice(0,400):'',
+                bodySize:document.body?document.body.getBoundingClientRect().width+'x'+document.body.getBoundingClientRect().height:''};
+              document.querySelectorAll('input').forEach(e=>{const r=e.getBoundingClientRect();
+                out.inputs.push({id:e.id,type:e.type,ph:e.placeholder,w:Math.round(r.width),h:Math.round(r.height),x:Math.round(r.x),y:Math.round(r.y)});});
+              document.querySelectorAll('a,span,div[id]').forEach(e=>{const r=e.getBoundingClientRect();
+                if(r.width>0&&r.height>0&&e.innerText&&e.innerText.trim().length<20)
+                  out.clickable.push({tag:e.tagName,id:e.id,txt:e.innerText.trim().slice(0,20),x:Math.round(r.x+r.width/2),y:Math.round(r.y+r.height/2)});});
+              return out;}""")
+            print(json.dumps(info,ensure_ascii=False,indent=1))
+            await pg.screenshot(path=f"{OUT}/iframe_view.png")
+        await b.close()
+asyncio.run(main())

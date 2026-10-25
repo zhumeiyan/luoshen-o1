@@ -1,1 +1,127 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK56S+5Lya6IqC5b6LIHYy77ya6KGl5LiK6aWt54K5ICsg6ZuG5Lit5pig5bCECj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K4piFIOS4iuS4gOeJiOWunua1i+WHuueahOeXheWboO+8iOS4jeaYr+aIkeeMnOeahO+8ie+8mgogICAg56S+5Lya6IqC5b6LKOW8peaVoykgIOWtmOa0uyAwLzI077yM5L2G5Lu96aKdMCA9IDAuMDk3OO+8iOmUgeatu+egtOW+l+acgOW9u+W6le+8iQogICAg4oaSIOazqOaEj+WKm+iiq+W4pui1sOS6hu+8jOWNtOayoeWOu+inhemjnyA9IOOAkOmlv+atu+OAkQogICAg5a6e5rWL6YCa6YGTNyjmkYTpo58p5bmz5Z2H5pS25YiwIDAuNzM5N++8jOacuuaisOi9ruaNouWPquaciSAwLjI1MDAKICAgIOKGkiDmlLblvpfmm7TlpJrljbTppb/mrbvvvJrlm6DkuLrlvKXmlaPmkYroloTkuobliIbphY3vvIznu53lr7nph4/kuI3lpJ8KCuKYhSDov5nkuIDniYjkuKTlpITkv67mraPvvIjpg73lr7nlupTnnJ/lrp7kurrnsbvnpL7kvJrvvInvvJoKICAgIOKRoCDliqAgbWVhbCDppa3ngrnvvIjml6k3LjUv5Y2IMTIv5pmaMTguNSDkuInkuKrlvLrohInlhrLvvIxSRUFMIOecn+aXtumSn++8iQogICAgICAg55yf5a6e56S+5Lya6IqC5b6L6YeM5pys5p2l5bCx5pyJ6aWt54K577yM5piv5oiR5LiK5LiA54mI5ryP5LqGCiAgICDikaEgZm9jdXNlZCDpm4bkuK3mmKDlsIQKICAgICAgIOecn+WunuazqOaEj+WKm+aYr+OAkOmbhuS4reWcqOWwkeaVsOS6i+OAkeS4iu+8jOS4jeaYr+WQjOaXtuW8peaVo+WIsOaJgOacieS6iwogICAgICAg5q+P5Liq5qih5oCB5omT5LiA5Liq5Li76YCa6YGT77yM5Li76YCa6YGT6ZqP5a2j6IqC57yT5oWi5ryC56e7CgrimIUg5Zub5Liq54mI5pys5a+55q+U77yaCiAgICDlvKXmlaMo5peg6aWt54K5KSAg5LiK5LiA54mIICAwLzI0CiAgICDlvKXmlaMr6aWt54K5CiAgICDpm4bkuK0o5peg6aWt54K5KQogICAg6ZuG5LitK+mlreeCuSAgICAg4oaQIOmihOacn+acgOWlvQoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKc3lzLnBhdGguaW5zZXJ0KDAsIEhFUkUpCmZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKZnJvbSBjb3JlLndvcmxkX3JoeXRobSBpbXBvcnQgV29ybGRSaHl0aG0KCk4gPSA4OyBTVEVQUyA9IDQwMDsgS1NFRUsgPSAxLjA7IEFNUCA9IDIuMAoKZGVmIGVudChhKToKICAgIGEgPSBucC5hc2FycmF5KGEsIGZsb2F0KSArIDFlLTEyCiAgICBwID0gYSAvIGEuc3VtKCkKICAgIHJldHVybiBmbG9hdCgtKHAgKiBucC5sb2cocCkpLnN1bSgpIC8gbnAubG9nKGxlbihwKSkpCgpkZWYgcnVuKHNlZWQsIG1vZGUsIG1wdD02MC4wLCBzdGVwcz1TVEVQUyk6CiAgICBMID0gTGlmZTUoTj1OLCBzZWVkPXNlZWQsIGtfc2Vlaz1LU0VFSykKICAgIEwuaW5wdXRfdmFsID0gMC4wCiAgICBmYyA9IEwuZm9yYWdlX2NoCiAgICB1c2VfbWVhbCA9ICgn6aWt54K5JyBpbiBtb2RlKQogICAgVyA9IFdvcmxkUmh5dGhtKE49TiwgbWludXRlc19wZXJfdGljaz1tcHQsIHNlZWQ9c2VlZCAqIDEzICsgNSwKICAgICAgICAgICAgICAgICAgICAgZm9yYWdlX2NoPWZjLCB1c2VfbWVhbD11c2VfbWVhbCkKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkICogNyArIDEpCiAgICBlcywgc2ggPSBbXSwgW10KICAgIGZvciB0IGluIHJhbmdlKHN0ZXBzKToKICAgICAgICBpZiBub3QgTC5hbGl2ZTogYnJlYWsKICAgICAgICBpZiBtb2RlLnN0YXJ0c3dpdGgoIuekvuS8muiKguW+iy3lvKXmlaMiKToKICAgICAgICAgICAgbnYgPSBXLnN0ZXAoQU1QLCBmb2N1c2VkPUZhbHNlKQogICAgICAgIGVsaWYgbW9kZS5zdGFydHN3aXRoKCLnpL7kvJroioLlvost6ZuG5LitIik6CiAgICAgICAgICAgIG52ID0gVy5zdGVwKEFNUCwgZm9jdXNlZD1UcnVlKQogICAgICAgIGVsaWYgbW9kZSA9PSAi5py65qKw6L2u5o2iIjoKICAgICAgICAgICAgbnYgPSBucC56ZXJvcyhOKTsgbnZbdCAlIE5dID0gQU1QCiAgICAgICAgZWxpZiBtb2RlID09ICLpmo/mnLoiOgogICAgICAgICAgICBudiA9IHJuZy5yYW5kb20oTikgKiBBTVAKICAgICAgICBlbGlmIG1vZGUgPT0gIuS4jeaOqCI6CiAgICAgICAgICAgIG52ID0gTm9uZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG52ID0gTm9uZQogICAgICAgIEwubmV0X3B1c2ggPSBudgogICAgICAgIHIgPSBMLnN0ZXAoKQogICAgICAgIGlmIHI6CiAgICAgICAgICAgIGVzLmFwcGVuZChlbnQoclsiYXZlYyJdKSkKICAgICAgICAgICAgYSA9IG5wLmFzYXJyYXkoclsiYXZlYyJdLCBmbG9hdCkKICAgICAgICAgICAgc2guYXBwZW5kKGFbMF0gLyBhLnN1bSgpIGlmIGEuc3VtKCkgPiAxZS0xMiBlbHNlIDAuMCkKICAgIHRhaWwgPSBlc1tsZW4oZXMpLy8yOl0KICAgIHJldHVybiBkaWN0KGFsaXZlPUwuYWxpdmUsIGVudD1mbG9hdChucC5tZWFuKHRhaWwpKSBpZiB0YWlsIGVsc2UgMC4wLAogICAgICAgICAgICAgICAgc2hhcmUwPWZsb2F0KG5wLm1lYW4oc2hbLTUwOl0pKSBpZiBzaCBlbHNlIDAuMCkKCmRlZiBzd2VlcChtb2RlLCBuPTI0LCAqKmt3KToKICAgIHJzID0gW3J1bihzLCBtb2RlLCAqKmt3KSBmb3IgcyBpbiByYW5nZShuKV0KICAgIHJldHVybiBkaWN0KGFsaXZlPXN1bSgxIGZvciByIGluIHJzIGlmIHJbImFsaXZlIl0pLCBuPW4sCiAgICAgICAgICAgICAgICBlbnQ9ZmxvYXQobnAubWVhbihbclsiZW50Il0gZm9yIHIgaW4gcnNdKSksCiAgICAgICAgICAgICAgICBzaGFyZTA9ZmxvYXQobnAubWVhbihbclsic2hhcmUwIl0gZm9yIHIgaW4gcnNdKSkpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj0iICogODgpCiAgICBwcmludCgiIOekvuS8muiKguW+iyB2Mu+8mumlreeCuSArIOmbhuS4reaYoOWwhCAgKGtfc2Vlaz0xLjAg5Z2N5aGM5oCBLCAyNCBzZWVkcywg5LiA5ouNPTHlsI/ml7YpIikKICAgIHByaW50KCI9IiAqIDg4KQogICAgcHJpbnQoZiJcbnsn5Yi65r+A5rqQJzo8MjZ9eyflrZjmtLsnOj45fXsn5ZCO5q6154a1Jzo+MTB9eyfku73pop0wJzo+MTB9IikKICAgIHByaW50KCItIiAqIDg4KQogICAgcmVzID0ge30KICAgIGZvciBsYmwgaW4gWyLkuI3mjqgiLCAi6ZqP5py6IiwgIuacuuaisOi9ruaNoiIsCiAgICAgICAgICAgICAgICAi56S+5Lya6IqC5b6LLeW8peaVoyIsICLnpL7kvJroioLlvost5byl5pWjK+mlreeCuSIsCiAgICAgICAgICAgICAgICAi56S+5Lya6IqC5b6LLembhuS4rSIsICLnpL7kvJroioLlvost6ZuG5LitK+mlreeCuSJdOgogICAgICAgIHJlc1tsYmxdID0gc3dlZXAobGJsKQogICAgICAgIHIgPSByZXNbbGJsXQogICAgICAgIHByaW50KGYie2xibDo8MjZ9e3JbJ2FsaXZlJ106PjV9L3tyWyduJ119e3JbJ2VudCddOj4xMC40Zn17clsnc2hhcmUwJ106PjEwLjRmfSIpCgogICAgcHJpbnQoIlxuIiArICI9IiAqIDg4KQogICAgcHJpbnQoIiDliIbop6PvvJrppa3ngrnotKHnjK7lpJrlsJHvvJ/pm4bkuK3otKHnjK7lpJrlsJHvvJ8iKQogICAgcHJpbnQoIj0iICogODgpCiAgICBkX21lYWxfZGlmZiA9IHJlc1si56S+5Lya6IqC5b6LLeW8peaVoyvppa3ngrkiXVsiYWxpdmUiXSAtIHJlc1si56S+5Lya6IqC5b6LLeW8peaVoyJdWyJhbGl2ZSJdCiAgICBkX21lYWxfZm9jID0gcmVzWyLnpL7kvJroioLlvost6ZuG5LitK+mlreeCuSJdWyJhbGl2ZSJdIC0gcmVzWyLnpL7kvJroioLlvost6ZuG5LitIl1bImFsaXZlIl0KICAgIGRfZm9jX25vbWVhbCA9IHJlc1si56S+5Lya6IqC5b6LLembhuS4rSJdWyJhbGl2ZSJdIC0gcmVzWyLnpL7kvJroioLlvost5byl5pWjIl1bImFsaXZlIl0KICAgIGRfZm9jX21lYWwgPSByZXNbIuekvuS8muiKguW+iy3pm4bkuK0r6aWt54K5Il1bImFsaXZlIl0gLSByZXNbIuekvuS8muiKguW+iy3lvKXmlaMr6aWt54K5Il1bImFsaXZlIl0KICAgIHByaW50KGYiXG4gIOW8peaVoyAr6aWt54K5OiB7ZF9tZWFsX2RpZmY6K2R9IOWtmOa0uyIpCiAgICBwcmludChmIiAg6ZuG5LitICvppa3ngrk6IHtkX21lYWxfZm9jOitkfSDlrZjmtLsiKQogICAgcHJpbnQoZiIgICvpm4bkuK0o5peg6aWt54K5KToge2RfZm9jX25vbWVhbDorZH0iKQogICAgcHJpbnQoZiIgICvpm4bkuK0o5pyJ6aWt54K5KToge2RfZm9jX21lYWw6K2R9IikKCiAgICBwcmludCgiXG4iICsgIj0iICogODgpCiAgICBwcmludCgiIOWIpOaNriIpCiAgICBwcmludCgiPSIgKiA4OCkKICAgIGJlc3QgPSByZXNbIuekvuS8muiKguW+iy3pm4bkuK0r6aWt54K5Il0KICAgIG9rID0ge30KICAgIG9rWyLikaAg6ZuG5LitK+mlreeCuSDmmL7okZfkvJjkuo7kuI3mjqjvvIgrMTDku6XkuIrvvIkiXSA9IGJvb2woYmVzdFsiYWxpdmUiXSAtIHJlc1si5LiN5o6oIl1bImFsaXZlIl0gPj0gMTApCiAgICBva1si4pGhIOiDveegtOmUgeatu++8iOS7veminTAgPCAwLjXvvIkiXSA9IGJvb2woYmVzdFsic2hhcmUwIl0gPCAwLjUpCiAgICBva1si4pGiIOS4jeW3ruS6juacuuaisOi9ruaNoiJdID0gYm9vbChiZXN0WyJhbGl2ZSJdID49IHJlc1si5py65qKw6L2u5o2iIl1bImFsaXZlIl0gLSAyKQogICAgb2tbIuKRoyDppa3ngrnnoa7lrp7mnInnlKjvvIjoh7PlsJHkuIDmoaMgKzMg5Lul5LiK77yJIl0gPSBib29sKG1heChkX21lYWxfZGlmZiwgZF9tZWFsX2ZvYykgPj0gMykKICAgIG9rWyLikaQg6ZuG5Lit56Gu5a6e5pyJ55So77yI6Iez5bCR5LiA5qGjICszIOS7peS4iu+8iSJdID0gYm9vbChtYXgoZF9mb2Nfbm9tZWFsLCBkX2ZvY19tZWFsKSA+PSAzKQogICAgZm9yIGssIHYgaW4gb2suaXRlbXMoKToKICAgICAgICBwcmludChmIiAgeyfinIUnIGlmIHYgZWxzZSAn4p2MJ30ge2t9IikKCiAgICBwcmludChmIlxuICDimIUg55uu5qCH77ya5pei5rS75LiL5p2l77yI5a2Y5rS76auY77yJ5Y+I56C06ZSB5q2777yI5Lu96aKdMOS9ju+8iSIpCiAgICBwcmludChmIiAgICDmnLrmorDova7mjaIgICAgICAgIOWtmOa0uyB7cmVzWyfmnLrmorDova7mjaInXVsnYWxpdmUnXX0vMjQgIOS7veminTAge3Jlc1sn5py65qKw6L2u5o2iJ11bJ3NoYXJlMCddOi40Zn0iKQogICAgcHJpbnQoZiIgICAg6ZuG5LitK+mlreeCuSAgICAgICDlrZjmtLsge2Jlc3RbJ2FsaXZlJ119LzI0ICDku73pop0wIHtiZXN0WydzaGFyZTAnXTouNGZ9IikKCiAgICBqc29uLmR1bXAoeyJyZXMiOiByZXMsCiAgICAgICAgICAgICAgICJkZWx0YSI6IGRpY3QobWVhbF9kaWZmPWRfbWVhbF9kaWZmLCBtZWFsX2ZvYz1kX21lYWxfZm9jLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvY19ub21lYWw9ZF9mb2Nfbm9tZWFsLCBmb2NfbWVhbD1kX2ZvY19tZWFsKSwKICAgICAgICAgICAgICAgIm9rIjoge2s6IGJvb2wodikgZm9yIGssIHYgaW4gb2suaXRlbXMoKX19LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAid29ybGRfcmh5dGhtMi5qc29uIiksICJ3IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+社会节律 v2：补上饭点 + 集中映射
+==================================
+★ 上一版实测出的病因（不是我猜的）：
+    社会节律(弥散)  存活 0/24，但份额0 = 0.0978（锁死破得最彻底）
+    → 注意力被带走了，却没去觅食 = 【饿死】
+    实测通道7(摄食)平均收到 0.7397，机械轮换只有 0.2500
+    → 收得更多却饿死：因为弥散摊薄了分配，绝对量不够
+
+★ 这一版两处修正（都对应真实人类社会）：
+    ① 加 meal 饭点（早7.5/午12/晚18.5 三个强脉冲，REAL 真时钟）
+       真实社会节律里本来就有饭点，是我上一版漏了
+    ② focused 集中映射
+       真实注意力是【集中在少数事】上，不是同时弥散到所有事
+       每个模态打一个主通道，主通道随季节缓慢漂移
+
+★ 四个版本对比：
+    弥散(无饭点)  上一版  0/24
+    弥散+饭点
+    集中(无饭点)
+    集中+饭点     ← 预期最好
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.life5 import Life5
+from core.world_rhythm import WorldRhythm
+
+N = 8; STEPS = 400; KSEEK = 1.0; AMP = 2.0
+
+def ent(a):
+    a = np.asarray(a, float) + 1e-12
+    p = a / a.sum()
+    return float(-(p * np.log(p)).sum() / np.log(len(p)))
+
+def run(seed, mode, mpt=60.0, steps=STEPS):
+    L = Life5(N=N, seed=seed, k_seek=KSEEK)
+    L.input_val = 0.0
+    fc = L.forage_ch
+    use_meal = ('饭点' in mode)
+    W = WorldRhythm(N=N, minutes_per_tick=mpt, seed=seed * 13 + 5,
+                     forage_ch=fc, use_meal=use_meal)
+    rng = np.random.default_rng(seed * 7 + 1)
+    es, sh = [], []
+    for t in range(steps):
+        if not L.alive: break
+        if mode.startswith("社会节律-弥散"):
+            nv = W.step(AMP, focused=False)
+        elif mode.startswith("社会节律-集中"):
+            nv = W.step(AMP, focused=True)
+        elif mode == "机械轮换":
+            nv = np.zeros(N); nv[t % N] = AMP
+        elif mode == "随机":
+            nv = rng.random(N) * AMP
+        elif mode == "不推":
+            nv = None
+        else:
+            nv = None
+        L.net_push = nv
+        r = L.step()
+        if r:
+            es.append(ent(r["avec"]))
+            a = np.asarray(r["avec"], float)
+            sh.append(a[0] / a.sum() if a.sum() > 1e-12 else 0.0)
+    tail = es[len(es)//2:]
+    return dict(alive=L.alive, ent=float(np.mean(tail)) if tail else 0.0,
+                share0=float(np.mean(sh[-50:])) if sh else 0.0)
+
+def sweep(mode, n=24, **kw):
+    rs = [run(s, mode, **kw) for s in range(n)]
+    return dict(alive=sum(1 for r in rs if r["alive"]), n=n,
+                ent=float(np.mean([r["ent"] for r in rs])),
+                share0=float(np.mean([r["share0"] for r in rs])))
+
+if __name__ == "__main__":
+    print("=" * 88)
+    print(" 社会节律 v2：饭点 + 集中映射  (k_seek=1.0 坍塌态, 24 seeds, 一拍=1小时)")
+    print("=" * 88)
+    print(f"\n{'刺激源':<26}{'存活':>9}{'后段熵':>10}{'份额0':>10}")
+    print("-" * 88)
+    res = {}
+    for lbl in ["不推", "随机", "机械轮换",
+                "社会节律-弥散", "社会节律-弥散+饭点",
+                "社会节律-集中", "社会节律-集中+饭点"]:
+        res[lbl] = sweep(lbl)
+        r = res[lbl]
+        print(f"{lbl:<26}{r['alive']:>5}/{r['n']}{r['ent']:>10.4f}{r['share0']:>10.4f}")
+
+    print("\n" + "=" * 88)
+    print(" 分解：饭点贡献多少？集中贡献多少？")
+    print("=" * 88)
+    d_meal_diff = res["社会节律-弥散+饭点"]["alive"] - res["社会节律-弥散"]["alive"]
+    d_meal_foc = res["社会节律-集中+饭点"]["alive"] - res["社会节律-集中"]["alive"]
+    d_foc_nomeal = res["社会节律-集中"]["alive"] - res["社会节律-弥散"]["alive"]
+    d_foc_meal = res["社会节律-集中+饭点"]["alive"] - res["社会节律-弥散+饭点"]["alive"]
+    print(f"\n  弥散 +饭点: {d_meal_diff:+d} 存活")
+    print(f"  集中 +饭点: {d_meal_foc:+d} 存活")
+    print(f"  +集中(无饭点): {d_foc_nomeal:+d}")
+    print(f"  +集中(有饭点): {d_foc_meal:+d}")
+
+    print("\n" + "=" * 88)
+    print(" 判据")
+    print("=" * 88)
+    best = res["社会节律-集中+饭点"]
+    ok = {}
+    ok["① 集中+饭点 显著优于不推（+10以上）"] = bool(best["alive"] - res["不推"]["alive"] >= 10)
+    ok["② 能破锁死（份额0 < 0.5）"] = bool(best["share0"] < 0.5)
+    ok["③ 不差于机械轮换"] = bool(best["alive"] >= res["机械轮换"]["alive"] - 2)
+    ok["④ 饭点确实有用（至少一档 +3 以上）"] = bool(max(d_meal_diff, d_meal_foc) >= 3)
+    ok["⑤ 集中确实有用（至少一档 +3 以上）"] = bool(max(d_foc_nomeal, d_foc_meal) >= 3)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+
+    print(f"\n  ★ 目标：既活下来（存活高）又破锁死（份额0低）")
+    print(f"    机械轮换        存活 {res['机械轮换']['alive']}/24  份额0 {res['机械轮换']['share0']:.4f}")
+    print(f"    集中+饭点       存活 {best['alive']}/24  份额0 {best['share0']:.4f}")
+
+    json.dump({"res": res,
+               "delta": dict(meal_diff=d_meal_diff, meal_foc=d_meal_foc,
+                             foc_nomeal=d_foc_nomeal, foc_meal=d_foc_meal),
+               "ok": {k: bool(v) for k, v in ok.items()}},
+              open(os.path.join(HERE, ".sense", "world_rhythm2.json"), "w"),
+              ensure_ascii=False, indent=1)

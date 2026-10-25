@@ -1,1 +1,33 @@
-aW1wb3J0IHBhdGhsaWIsIHJhbmRvbQpXLEg9MTAyNCw3NjgKdHJ5OgogICAgdj1wYXRobGliLlBhdGgoIi9zeXMvY2xhc3MvZ3JhcGhpY3MvZmIwL3ZpcnR1YWxfc2l6ZSIpLnJlYWRfdGV4dCgpLnNwbGl0KCIsIikKICAgIFcsSD1pbnQodlswXSksaW50KHZbMV0pCmV4Y2VwdCBFeGNlcHRpb246IHBhc3MKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udApmcD0iL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIKZj1JbWFnZUZvbnQudHJ1ZXR5cGUoZnAsMjUpOyBmMj1JbWFnZUZvbnQudHJ1ZXR5cGUoZnAsMTgpClRPS0VOPSJNOFI0VlgiCmltZz1JbWFnZS5uZXcoIlJHQiIsKFcsSCksIndoaXRlIik7IGQ9SW1hZ2VEcmF3LkRyYXcoaW1nKQpsaW5lcz1bCiBmIlRPS0VOIHtUT0tFTn0iLAogImV4cDEzNCBpbmRlcGVuZGVudCBjb3JwdXMgNyBuZXcgcmVwb3MiLAogInJlY2FsbCBwbGFudGVkIDE3IHJ1bGVzIHBybyAxNiBydWxlcyBjcmFzaCAwIiwKICJnYXRlIEczIGxpbmUtbGV2ZWwgMTUgb2YgMjkgPSA1MS43IHBjdCBGQUlMIiwKICJnYXRlIEc0IGZpbGUtbGV2ZWwgMSBvZiAxNiA9IDYuMiBwY3QgRkFJTCIsCiAic3ludGF4IEVHMDA1IEVHMDA2IEVHUDAxIEVHUDA0IDE1IG9mIDE2ID0gOTMuOCIsCiAibWV0aG9kb2xvZ3kgMSBvZiAyOSA9IDMuNCBwY3QiLAogImxvb3NlIHN0YW5kYXJkIDQyIG9mIDQ1ID0gOTMuMyBidXQgUkVKRUNURUQgZXhwMTMxIiwKICJFRzAwMiBubyBiYXNlbGluZSAwIG9mIDIgb24gbmV3IGNvcnB1cyIsCiAiYmFyZSBleGNlcHQgRUcwMDYgNyBvZiA4IGRpdiBFRzAwNSA2IG9mIDYiLAogInNwbGl0IGlzIHN5bnRheCB2cyBtZXRob2RvbG9neSBub3QgcHJlc2VudCBhYnNlbnQiLAogIlZFUkRJQ1QgRE8gTk9UIFNISVAgTUVUSE9ET0xPR1kgUlVMRVMiLApdCnk9NDgKZm9yIGksdCBpbiBlbnVtZXJhdGUobGluZXMpOgogICAgZC50ZXh0KCg1MCx5KSx0LGZpbGw9ImJsYWNrIixmb250PWYgaWYgaTwyIGVsc2UgZjIpOyB5Kz01MAppbWcuc2F2ZSgicmVuZGVyMTM0LnBuZyIpCnJhdz1pbWcuY29udmVydCgiUkdCQSIpLnRvYnl0ZXMoKQpwYXRobGliLlBhdGgoIi9kZXYvZmIwIikud3JpdGVfYnl0ZXMocmF3KQpjYXA9cGF0aGxpYi5QYXRoKCIvZGV2L2ZiMCIpLnJlYWRfYnl0ZXMoKVs6bGVuKHJhdyldCnByaW50KCJieXRlcyB3cm90ZSIsbGVuKHJhdyksInJlYWQiLGxlbihjYXApLCJlcXVhbDoiLHJhdz09Y2FwKQo=
+import pathlib, random
+W,H=1024,768
+try:
+    v=pathlib.Path("/sys/class/graphics/fb0/virtual_size").read_text().split(",")
+    W,H=int(v[0]),int(v[1])
+except Exception: pass
+from PIL import Image, ImageDraw, ImageFont
+fp="/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+f=ImageFont.truetype(fp,25); f2=ImageFont.truetype(fp,18)
+TOKEN="M8R4VX"
+img=Image.new("RGB",(W,H),"white"); d=ImageDraw.Draw(img)
+lines=[
+ f"TOKEN {TOKEN}",
+ "exp134 independent corpus 7 new repos",
+ "recall planted 17 rules pro 16 rules crash 0",
+ "gate G3 line-level 15 of 29 = 51.7 pct FAIL",
+ "gate G4 file-level 1 of 16 = 6.2 pct FAIL",
+ "syntax EG005 EG006 EGP01 EGP04 15 of 16 = 93.8",
+ "methodology 1 of 29 = 3.4 pct",
+ "loose standard 42 of 45 = 93.3 but REJECTED exp131",
+ "EG002 no baseline 0 of 2 on new corpus",
+ "bare except EG006 7 of 8 div EG005 6 of 6",
+ "split is syntax vs methodology not present absent",
+ "VERDICT DO NOT SHIP METHODOLOGY RULES",
+]
+y=48
+for i,t in enumerate(lines):
+    d.text((50,y),t,fill="black",font=f if i<2 else f2); y+=50
+img.save("render134.png")
+raw=img.convert("RGBA").tobytes()
+pathlib.Path("/dev/fb0").write_bytes(raw)
+cap=pathlib.Path("/dev/fb0").read_bytes()[:len(raw)]
+print("bytes wrote",len(raw),"read",len(cap),"equal:",raw==cap)

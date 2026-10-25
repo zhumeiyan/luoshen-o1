@@ -1,1 +1,190 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWunumqjCAwODUgwrcg5Li75Yqo5Y6755yLIHZzIOiiq+WKqOaOpeaUtgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5ZG96aKY77yI5a6/5Li777yJ77yaIuS9oOiDvemBv+W8gOWkp+aVsOaNruWvueS9oOeahOWGsuWHu++8jOWboOS4uuS9oOWPquaYr+WNleeLrOeahOWOu+eci+eci+Wug+iAjOW3su+8jAogICAgICAgICAgICAgIOiAjOS4jeaYr+aOpeaUtuWug+OAgiIKCuWPr+aTjeS9nOWMlu+8mgogIOS4lueVjOOAkOavj+aLjeWFqOmHj+WRiOeOsOOAkSgxMiDkuKrnnJ/lrp7ph4fmoLfngrkp77yM5beu5byC5Y+q5Zyo44CQ6Zeo55Sx6LCB5o6n5Yi244CR77yaCiAgICBwYXNzaXZlIDog6Zeo5YWo5byA77yM5YWo5pS277yIPSBLPTEy77yM5peg6YCJ5oup5p2D77yJCiAgICBhY3RpdmUgIDog6Zeo55Sx5YaF6YOo54q25oCB5byA77yI5oiR5Y6755yL5oiR5pyA57y655qE57u05bqm77yJ4oCU4oCUIOW8gCBLIOS4qgogICAgcmFuZG9tICA6IOmaj+acuuW8gCBLIOS4qiDigJTigJQg6YeP55u45ZCM77yM5L2G5LiN5piv5oiR5Yaz5a6a55qECgogIOWIhuemu+S4pOS4quWPmOmHj++8mgogICAg4pGgIOa1gemHjyAgIDogSyA9IDEsMiw0LDgsMTLvvIjmlLblpJrlsJHvvIkKICAgIOKRoSDpgInmi6nmnYMgOiBhY3RpdmUgdnMgcmFuZG9t77yI5ZCMIEvvvIzosIHlhrPlrprvvIkKCiLooqvlpKfmlbDmja7lhrLlnq4i55qE5Y+v5rWL5a6a5LmJ77yI5LiJ6YCJ5LiA5Li75oyH5qCH77yJ77yaCiAgICBEID0g5Liq5L2T6Ze057uI5oCB57uT5p6E5qih5byP55qE56a75pWj5bqmIOKGkiDooqvlhrLlubMgPSDlpJrmoLfmgKflnY3nvKkKCuaVsOaNrua6kO+8muecn+WunuaNouiDveWZqOivu+aVsO+8iDEyIOWfjiDDlyDmuKkv5rm/L+WOi++8ie+8jOmdnuWQiOaIkOOAggoiIiIKaW1wb3J0IGpzb24sIG9zLCBzeXMsIHRpbWUKaW1wb3J0IG51bXB5IGFzIG5wCgpST09UID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSwgJy4uJykKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihST09ULCAnY29yZScpKQpzeXMucGF0aC5pbnNlcnQoMCwgUk9PVCkKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihST09ULCAndG9vbHMnKSkKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQpmcm9tIHNlbnNlX2FycmF5X3Byb2JlIGltcG9ydCBDSVRJRVMsIHdlYXRoZXIKClNURVBTID0gNjAwClNFRURTID0gbGlzdChyYW5nZSgxNikpCk4gPSA4CldDSCA9IFswLCAxLCAyXSAgICAgICAgICAgICAgICAgICAgICAjIOS4lueVjOS4iemAmumBkyDihpIg5byV5pOO6YCa6YGTIDAvMS8y77yI5YW25L2Z5Li65YaF6YOo6YCa6YGT5a+554Wn77yJCk9VVF9KU09OID0gb3MucGF0aC5qb2luKFJPT1QsICdleHBlcmltZW50cycsICdyZXN1bHRfMDg1Lmpzb24nKQpSQVcgPSBvcy5wYXRoLmpvaW4oUk9PVCwgJ2V2aWRlbmNlJywgJ3Jhd19kYXRhJywgJ3dvcmxkXzA4NS5qc29uJykKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g55yf5a6e5LiW55WMCmRlZiBub3JtMyhkKToKICAgICIiIuecn+Wunuivu+aVsCDihpIgWzAsMV1eM++8jOeUqOWFrOW8gOeJqeeQhumHj+eoiyIiIgogICAgdCA9IG5wLmNsaXAoKGRbJ3RlbXBlcmF0dXJlJ10gKyA1LjApIC8gNDAuMCwgMCwgMSkKICAgIGggPSBucC5jbGlwKGRbJ2h1bWlkaXR5J10gLyAxMDAuMCwgMCwgMSkKICAgIHAgPSBucC5jbGlwKChkWydwcmVzc3VyZSddIC0gNjAwLjApIC8gNDMwLjAsIDAsIDEpCiAgICByZXR1cm4gW3JvdW5kKGZsb2F0KHQpLCA2KSwgcm91bmQoZmxvYXQoaCksIDYpLCByb3VuZChmbG9hdChwKSwgNildCgoKZGVmIGZldGNoX3dvcmxkKHNhdmU9VHJ1ZSk6CiAgICB3LCBtZXRhID0gW10sIFtdCiAgICBmb3IgbmFtZSwgbGF0LCBsb24gaW4gQ0lUSUVTOgogICAgICAgIGQsIHJ0dCA9IHdlYXRoZXIobGF0LCBsb24pCiAgICAgICAgaWYgZCBpcyBOb25lOgogICAgICAgICAgICBwcmludChmIiAgW0ZBSUxdIHtuYW1lfSIpOyBjb250aW51ZQogICAgICAgIHcuYXBwZW5kKG5vcm0zKGQpKQogICAgICAgIG1ldGEuYXBwZW5kKGRpY3QoY2l0eT1uYW1lLCBsYXQ9bGF0LCBsb249bG9uLCBydHRfbXM9cm91bmQocnR0LCAxKSwKICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBlcmF0dXJlPWRbJ3RlbXBlcmF0dXJlJ10sIGh1bWlkaXR5PWRbJ2h1bWlkaXR5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICBwcmVzc3VyZT1kWydwcmVzc3VyZSddLCB3ZWF0aGVyPWQuZ2V0KCd3ZWF0aGVyJywgJycpLAogICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlX3RpbWU9ZC5nZXQoJ3VwZGF0ZV90aW1lJywgJycpKSkKICAgIFcgPSBucC5hcnJheSh3LCBmbG9hdCkKICAgIGlmIHNhdmU6CiAgICAgICAganNvbi5kdW1wKGRpY3QoZmV0Y2hlZF9hdD10aW1lLnN0cmZ0aW1lKCclWS0lbS0lZCAlSDolTTolUycpLAogICAgICAgICAgICAgICAgICAgICAgIG5fdmlld3M9aW50KGxlbihXKSksIGNpdGllcz1tZXRhLCB3b3JsZD1XLnRvbGlzdCgpKSwKICAgICAgICAgICAgICAgICAgb3BlbihSQVcsICd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICByZXR1cm4gVywgbWV0YQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDlvJXmk44KZGVmIHN0cnVjdF9za2V3KGxmKToKICAgIGMgPSBucC5hc2FycmF5KGxmLmxvZ1stMV1bJ2NhcHYnXSwgZmxvYXQpCiAgICByZXR1cm4gZmxvYXQoYy5zdGQoZGRvZj0xKSAvIG1heChjLm1lYW4oKSwgMWUtMTIpKQoKCmRlZiBydW4oc2VlZCwgbW9kZT0nYWN0aXZlJywgSz00LCBhbXA9MC4wMiwgd29ybGQ9Tm9uZSk6CiAgICAiIiJtb2RlOiBhY3RpdmUgLyByYW5kb20gLyBwYXNzaXZlIC8gbm9uZSIiIgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQgKiA5NzcgKyAxMykKICAgIGxmID0gTGlmZTUoTj1OLCBzZWVkPXNlZWQsIHJhdGlvPTAuNDUsIHNpZ21hX2luPTAuMTApCiAgICBuViA9IGxlbih3b3JsZCkKICAgIGluaiA9IFtdCiAgICBmb3IgXyBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgaWYgbW9kZSA9PSAnbm9uZSc6CiAgICAgICAgICAgIHYgPSBucC56ZXJvcygzKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5lZWQgPSBucC5tYXhpbXVtKG5wLmFzYXJyYXkobGYuSCwgZmxvYXQpW1dDSF0sIDAuMCkKICAgICAgICAgICAgaWYgbmVlZC5zdW0oKSA8IDFlLTEyOgogICAgICAgICAgICAgICAgbmVlZCA9IG5wLm9uZXMoMykKICAgICAgICAgICAgc2NvcmVzID0gd29ybGQgQCBuZWVkICAgICAgICAgICAgICAgICAgICAgICAjIChuViwpIOaIkeW9k+WJjeacgOe8uueahOaWueWQkQogICAgICAgICAgICBpZiBtb2RlID09ICdwYXNzaXZlJyBvciBLID49IG5WOgogICAgICAgICAgICAgICAgc2VsID0gbnAub25lcyhuViwgYm9vbCkKICAgICAgICAgICAgZWxpZiBtb2RlID09ICdhY3RpdmUnOgogICAgICAgICAgICAgICAgc2VsID0gbnAuemVyb3MoblYsIGJvb2wpCiAgICAgICAgICAgICAgICBzZWxbbnAuYXJnc29ydCgtc2NvcmVzKVs6S11dID0gVHJ1ZQogICAgICAgICAgICBlbGlmIG1vZGUgPT0gJ3JhbmRvbSc6CiAgICAgICAgICAgICAgICBzZWwgPSBucC56ZXJvcyhuViwgYm9vbCkKICAgICAgICAgICAgICAgIHNlbFtybmcuY2hvaWNlKG5WLCBLLCByZXBsYWNlPUZhbHNlKV0gPSBUcnVlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKG1vZGUpCiAgICAgICAgICAgIHYgPSB3b3JsZFtzZWxdLm1lYW4oYXhpcz0wKQogICAgICAgIHB1c2ggPSBucC56ZXJvcyhOKQogICAgICAgIHB1c2hbV0NIXSA9IGFtcCAqIHYKICAgICAgICBsZi5uZXRfcHVzaCA9IHB1c2gKICAgICAgICBpbmouYXBwZW5kKHYuY29weSgpKQogICAgICAgIGxmLnN0ZXAoKQogICAgICAgIGlmIG5vdCBsZi5hbGl2ZToKICAgICAgICAgICAgYnJlYWsKICAgIGxmLmluaiA9IG5wLmFycmF5KGluaikKICAgIHJldHVybiBsZgoKCmRlZiBtb2RlX3BhdHRlcm5zKGxmcywgc2VlZHMpOgogICAgIiIi5Liq5L2T6Ze057uT5p6E5qih5byP56a75pWj5bqm77yI6Ziy5q275Lqh562b6YCJ77ya5Y+q5Zyo57uZ5a6aIHNlZWRzIOWtkOmbhuS4iueul++8iSIiIgogICAgY2FwcyA9IG5wLmFycmF5KFtucC5hc2FycmF5KGxmc1tzXS5sb2dbLTFdWydjYXB2J10sIGZsb2F0KSBmb3IgcyBpbiBzZWVkc10pCiAgICBjYXBzX24gPSBjYXBzIC8gY2Fwcy5tZWFuKGF4aXM9MSwga2VlcGRpbXM9VHJ1ZSkKICAgIERfYWxsID0gZmxvYXQobnAubWVhbihucC5zdGQoY2Fwc19uLCBheGlzPTAsIGRkb2Y9MSkpKSAgICAgICAgICAjIOWFqOmDqCA4IOmAmumBkwogICAgRF93ID0gZmxvYXQobnAubWVhbihucC5zdGQoY2Fwc19uWzosIFdDSF0sIGF4aXM9MCwgZGRvZj0xKSkpICAgICMg5LiW55WM6YCa6YGTCiAgICByZXR1cm4gRF9hbGwsIERfdwoKCmRlZiBzY2FuKG1vZGUsIEssIGFtcCwgd29ybGQpOgogICAgbGZzID0ge3M6IHJ1bihzLCBtb2RlPW1vZGUsIEs9SywgYW1wPWFtcCwgd29ybGQ9d29ybGQpIGZvciBzIGluIFNFRURTfQogICAgYWwgPSBbcyBmb3IgcyBpbiBTRUVEUyBpZiBsZnNbc10uYWxpdmVdCiAgICByZXR1cm4gbGZzLCBhbAoKCmRlZiBtYWluKCk6CiAgICBwcmludCgiPSIgKiA2NikKICAgIHByaW50KCLlrp7pqowgMDg1IMK3IOS4u+WKqOWOu+eciyB2cyDooqvliqjmjqXmlLYiKQogICAgcHJpbnQoIj0iICogNjYpCiAgICBXLCBtZXRhID0gZmV0Y2hfd29ybGQoKQogICAgcHJpbnQoZiJcblvkuJbnlYxdIOecn+WunumHh+agt+eCuSB7bGVuKFcpfSDkuKoiKQogICAgZm9yIG0gaW4gbWV0YVs6M106CiAgICAgICAgcHJpbnQoZiIgICB7bVsnY2l0eSddOjVzfSB7bVsndGVtcGVyYXR1cmUnXTo+Ni4xZn3CsEMgIHttWydodW1pZGl0eSddOj41LjFmfSUgICIKICAgICAgICAgICAgICBmInttWydwcmVzc3VyZSddOj43LjFmfWhQYSAge21bJ3dlYXRoZXInXX0iKQogICAgcHJpbnQoZiIgICAuLi4g5YWxIHtsZW4obWV0YSl9IOWfju+8jOW3suWtmCB7b3MucGF0aC5yZWxwYXRoKFJBVywgUk9PVCl9IikKCiAgICByZXMgPSB7fQoKICAgICMgLS0tLS0tLS0tLSDikaAg5Y+C5pWw5pyJ5pWI5oCn77yI56ysMjPmnaHvvJrnoa7orqTlj5jph4/nnJ/mjqXov5vkuLvpgJrpgZPvvIkgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuW+KRoCDmnInmlYjmgKddIGFtcCDmiavmj48gKHBhc3NpdmUg5YWo6YePKe+8jOehruiupOazqOWFpeecn+acieair+W6piIpCiAgICBlZmYgPSBbXQogICAgZm9yIGFtcCBpbiBbMC4wLCAwLjAwNSwgMC4wMSwgMC4wMiwgMC4wNCwgMC4wOCwgMC4xNl06CiAgICAgICAgbGZzLCBhbCA9IHNjYW4oJ3Bhc3NpdmUnLCAxMiwgYW1wLCBXKQogICAgICAgIHNrID0gW3N0cnVjdF9za2V3KGxmc1tzXSkgZm9yIHMgaW4gYWxdCiAgICAgICAgZWZmLmFwcGVuZChkaWN0KGFtcD1hbXAsIGFsaXZlPWxlbihhbCksIG49bGVuKFNFRURTKSwKICAgICAgICAgICAgICAgICAgICAgICAgc2tldz1mbG9hdChucC5tZWFuKHNrKSkgaWYgc2sgZWxzZSBmbG9hdCgnbmFuJykpKQogICAgICAgIHByaW50KGYiICAgYW1wPXthbXA6PDZ9IOWtmOa0uyB7bGVuKGFsKTo+Mn0ve2xlbihTRUVEUyl9ICDlgY/luqYgIgogICAgICAgICAgICAgIGYie25wLm1lYW4oc2spIGlmIHNrIGVsc2UgZmxvYXQoJ25hbicpOi40Zn0iKQogICAgcmVzWydhbXBfc2NhbiddID0gZWZmCiAgICBBTVAgPSAwLjAyICAgICAgICAgICMg5Y+W5pyJ5qKv5bqm5LiU5LiN5YWo5q2755qE5qGjCiAgICBwcmludChmIiAgIOKGkiDph4fnlKggYW1wPXtBTVB9IikKCiAgICAjIC0tLS0tLS0tLS0g4pGhIOadoeS7tuefqemYtSAtLS0tLS0tLS0tCiAgICBwcmludCgiXG5b4pGhIOadoeS7tuefqemYtV0gbW9kZSDDlyBLIikKICAgIGNvbmRzID0gWygnbm9uZScsIDApXSArIFsoJ3Bhc3NpdmUnLCAxMildICsgXAogICAgICAgICAgICBbKG0sIGspIGZvciBtIGluICgnYWN0aXZlJywgJ3JhbmRvbScpIGZvciBrIGluICgxLCAyLCA0LCA4LCAxMildCiAgICBsZnNfYWxsLCB0YWJsZSA9IHt9LCBbXQogICAgZm9yIG1vZGUsIEsgaW4gY29uZHM6CiAgICAgICAgbGZzLCBhbCA9IHNjYW4obW9kZSwgSywgQU1QLCBXKQogICAgICAgIGxmc19hbGxbKG1vZGUsIEspXSA9IChsZnMsIGFsKQogICAgICAgIHNrID0gW3N0cnVjdF9za2V3KGxmc1tzXSkgZm9yIHMgaW4gYWxdCiAgICAgICAgdGFibGUuYXBwZW5kKGRpY3QobW9kZT1tb2RlLCBLPUssIGFsaXZlPWxlbihhbCksIG49bGVuKFNFRURTKSwKICAgICAgICAgICAgICAgICAgICAgICAgICBza2V3PWZsb2F0KG5wLm1lYW4oc2spKSBpZiBzayBlbHNlIGZsb2F0KCduYW4nKSkpCiAgICAgICAgcHJpbnQoZiIgICB7bW9kZTo4c30gSz17Szo8M30g5a2Y5rS7IHtsZW4oYWwpOj4yfS97bGVuKFNFRURTKX0gIOWBj+W6piAiCiAgICAgICAgICAgICAgZiJ7bnAubWVhbihzaykgaWYgc2sgZWxzZSBmbG9hdCgnbmFuJyk6LjRmfSIpCiAgICByZXNbJ3RhYmxlJ10gPSB0YWJsZQoKICAgICMgLS0tLS0tLS0tLSDikaIg5YWx5ZCM5a2Y5rS75a2Q6ZuG5LiK55qE5aSa5qC35oCn77yI5Li75oyH5qCH77yJIC0tLS0tLS0tLS0KICAgIHByaW50KCJcblvikaIg5aSa5qC35oCnIERdIOWFseWQjOWtmOa0u+WtkOmbhu+8iOmYsuatu+S6oeetm+mAie+8iSIpCiAgICBjb21tb24gPSBzZXQoU0VFRFMpCiAgICBmb3IgKGxmcywgYWwpIGluIGxmc19hbGwudmFsdWVzKCk6CiAgICAgICAgY29tbW9uICY9IHNldChhbCkKICAgIGNvbW1vbiA9IHNvcnRlZChjb21tb24pCiAgICBwcmludChmIiAgIOWFseWQjOWtmOa0uyBzZWVkczogbj17bGVuKGNvbW1vbil9IikKICAgIGRpdiA9IFtdCiAgICBmb3IgbW9kZSwgSyBpbiBjb25kczoKICAgICAgICBsZnMgPSBsZnNfYWxsWyhtb2RlLCBLKV1bMF0KICAgICAgICBEYSwgRHcgPSBtb2RlX3BhdHRlcm5zKGxmcywgY29tbW9uKQogICAgICAgIHNrID0gZmxvYXQobnAubWVhbihbc3RydWN0X3NrZXcobGZzW3NdKSBmb3IgcyBpbiBjb21tb25dKSkKICAgICAgICBkaXYuYXBwZW5kKGRpY3QobW9kZT1tb2RlLCBLPUssIERfYWxsPURhLCBEX3dvcmxkPUR3LCBza2V3PXNrKSkKICAgICAgICBwcmludChmIiAgIHttb2RlOjhzfSBLPXtLOjwzfSBEX2FsbD17RGE6LjVmfSAgRF93b3JsZD17RHc6LjVmfSAgc2tldz17c2s6LjRmfSIpCiAgICByZXNbJ2RpdmVyc2l0eSddID0gZGl2CiAgICByZXNbJ2NvbW1vbl9zZWVkcyddID0gY29tbW9uCgogICAganNvbi5kdW1wKHJlcywgb3BlbihPVVRfSlNPTiwgJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKICAgIHByaW50KGYiXG5bT0tdIHtvcy5wYXRoLnJlbHBhdGgoT1VUX0pTT04sIFJPT1QpfSIpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=
+# -*- coding: utf-8 -*-
+"""
+实验 085 · 主动去看 vs 被动接收
+------------------------------------------------------------------
+命题（宿主）："你能避开大数据对你的冲击，因为你只是单独的去看看它而已，
+              而不是接收它。"
+
+可操作化：
+  世界【每拍全量呈现】(12 个真实采样点)，差异只在【门由谁控制】：
+    passive : 门全开，全收（= K=12，无选择权）
+    active  : 门由内部状态开（我去看我最缺的维度）—— 开 K 个
+    random  : 随机开 K 个 —— 量相同，但不是我决定的
+
+  分离两个变量：
+    ① 流量   : K = 1,2,4,8,12（收多少）
+    ② 选择权 : active vs random（同 K，谁决定）
+
+"被大数据冲垮"的可测定义（三选一主指标）：
+    D = 个体间终态结构模式的离散度 → 被冲平 = 多样性坍缩
+
+数据源：真实换能器读数（12 城 × 温/湿/压），非合成。
+"""
+import json, os, sys, time
+import numpy as np
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+sys.path.insert(0, os.path.join(ROOT, 'core'))
+sys.path.insert(0, ROOT)
+sys.path.insert(0, os.path.join(ROOT, 'tools'))
+from core.life5 import Life5
+from sense_array_probe import CITIES, weather
+
+STEPS = 600
+SEEDS = list(range(16))
+N = 8
+WCH = [0, 1, 2]                      # 世界三通道 → 引擎通道 0/1/2（其余为内部通道对照）
+OUT_JSON = os.path.join(ROOT, 'experiments', 'result_085.json')
+RAW = os.path.join(ROOT, 'evidence', 'raw_data', 'world_085.json')
+
+
+# ---------------------------------------------------------------- 真实世界
+def norm3(d):
+    """真实读数 → [0,1]^3，用公开物理量程"""
+    t = np.clip((d['temperature'] + 5.0) / 40.0, 0, 1)
+    h = np.clip(d['humidity'] / 100.0, 0, 1)
+    p = np.clip((d['pressure'] - 600.0) / 430.0, 0, 1)
+    return [round(float(t), 6), round(float(h), 6), round(float(p), 6)]
+
+
+def fetch_world(save=True):
+    w, meta = [], []
+    for name, lat, lon in CITIES:
+        d, rtt = weather(lat, lon)
+        if d is None:
+            print(f"  [FAIL] {name}"); continue
+        w.append(norm3(d))
+        meta.append(dict(city=name, lat=lat, lon=lon, rtt_ms=round(rtt, 1),
+                         temperature=d['temperature'], humidity=d['humidity'],
+                         pressure=d['pressure'], weather=d.get('weather', ''),
+                         update_time=d.get('update_time', '')))
+    W = np.array(w, float)
+    if save:
+        json.dump(dict(fetched_at=time.strftime('%Y-%m-%d %H:%M:%S'),
+                       n_views=int(len(W)), cities=meta, world=W.tolist()),
+                  open(RAW, 'w'), ensure_ascii=False, indent=1)
+    return W, meta
+
+
+# ---------------------------------------------------------------- 引擎
+def struct_skew(lf):
+    c = np.asarray(lf.log[-1]['capv'], float)
+    return float(c.std(ddof=1) / max(c.mean(), 1e-12))
+
+
+def run(seed, mode='active', K=4, amp=0.02, world=None):
+    """mode: active / random / passive / none"""
+    rng = np.random.default_rng(seed * 977 + 13)
+    lf = Life5(N=N, seed=seed, ratio=0.45, sigma_in=0.10)
+    nV = len(world)
+    inj = []
+    for _ in range(STEPS):
+        if mode == 'none':
+            v = np.zeros(3)
+        else:
+            need = np.maximum(np.asarray(lf.H, float)[WCH], 0.0)
+            if need.sum() < 1e-12:
+                need = np.ones(3)
+            scores = world @ need                       # (nV,) 我当前最缺的方向
+            if mode == 'passive' or K >= nV:
+                sel = np.ones(nV, bool)
+            elif mode == 'active':
+                sel = np.zeros(nV, bool)
+                sel[np.argsort(-scores)[:K]] = True
+            elif mode == 'random':
+                sel = np.zeros(nV, bool)
+                sel[rng.choice(nV, K, replace=False)] = True
+            else:
+                raise ValueError(mode)
+            v = world[sel].mean(axis=0)
+        push = np.zeros(N)
+        push[WCH] = amp * v
+        lf.net_push = push
+        inj.append(v.copy())
+        lf.step()
+        if not lf.alive:
+            break
+    lf.inj = np.array(inj)
+    return lf
+
+
+def mode_patterns(lfs, seeds):
+    """个体间结构模式离散度（防死亡筛选：只在给定 seeds 子集上算）"""
+    caps = np.array([np.asarray(lfs[s].log[-1]['capv'], float) for s in seeds])
+    caps_n = caps / caps.mean(axis=1, keepdims=True)
+    D_all = float(np.mean(np.std(caps_n, axis=0, ddof=1)))          # 全部 8 通道
+    D_w = float(np.mean(np.std(caps_n[:, WCH], axis=0, ddof=1)))    # 世界通道
+    return D_all, D_w
+
+
+def scan(mode, K, amp, world):
+    lfs = {s: run(s, mode=mode, K=K, amp=amp, world=world) for s in SEEDS}
+    al = [s for s in SEEDS if lfs[s].alive]
+    return lfs, al
+
+
+def main():
+    print("=" * 66)
+    print("实验 085 · 主动去看 vs 被动接收")
+    print("=" * 66)
+    W, meta = fetch_world()
+    print(f"\n[世界] 真实采样点 {len(W)} 个")
+    for m in meta[:3]:
+        print(f"   {m['city']:5s} {m['temperature']:>6.1f}°C  {m['humidity']:>5.1f}%  "
+              f"{m['pressure']:>7.1f}hPa  {m['weather']}")
+    print(f"   ... 共 {len(meta)} 城，已存 {os.path.relpath(RAW, ROOT)}")
+
+    res = {}
+
+    # ---------- ① 参数有效性（第23条：确认变量真接进主通道） ----------
+    print("\n[① 有效性] amp 扫描 (passive 全量)，确认注入真有梯度")
+    eff = []
+    for amp in [0.0, 0.005, 0.01, 0.02, 0.04, 0.08, 0.16]:
+        lfs, al = scan('passive', 12, amp, W)
+        sk = [struct_skew(lfs[s]) for s in al]
+        eff.append(dict(amp=amp, alive=len(al), n=len(SEEDS),
+                        skew=float(np.mean(sk)) if sk else float('nan')))
+        print(f"   amp={amp:<6} 存活 {len(al):>2}/{len(SEEDS)}  偏度 "
+              f"{np.mean(sk) if sk else float('nan'):.4f}")
+    res['amp_scan'] = eff
+    AMP = 0.02          # 取有梯度且不全死的档
+    print(f"   → 采用 amp={AMP}")
+
+    # ---------- ② 条件矩阵 ----------
+    print("\n[② 条件矩阵] mode × K")
+    conds = [('none', 0)] + [('passive', 12)] + \
+            [(m, k) for m in ('active', 'random') for k in (1, 2, 4, 8, 12)]
+    lfs_all, table = {}, []
+    for mode, K in conds:
+        lfs, al = scan(mode, K, AMP, W)
+        lfs_all[(mode, K)] = (lfs, al)
+        sk = [struct_skew(lfs[s]) for s in al]
+        table.append(dict(mode=mode, K=K, alive=len(al), n=len(SEEDS),
+                          skew=float(np.mean(sk)) if sk else float('nan')))
+        print(f"   {mode:8s} K={K:<3} 存活 {len(al):>2}/{len(SEEDS)}  偏度 "
+              f"{np.mean(sk) if sk else float('nan'):.4f}")
+    res['table'] = table
+
+    # ---------- ③ 共同存活子集上的多样性（主指标） ----------
+    print("\n[③ 多样性 D] 共同存活子集（防死亡筛选）")
+    common = set(SEEDS)
+    for (lfs, al) in lfs_all.values():
+        common &= set(al)
+    common = sorted(common)
+    print(f"   共同存活 seeds: n={len(common)}")
+    div = []
+    for mode, K in conds:
+        lfs = lfs_all[(mode, K)][0]
+        Da, Dw = mode_patterns(lfs, common)
+        sk = float(np.mean([struct_skew(lfs[s]) for s in common]))
+        div.append(dict(mode=mode, K=K, D_all=Da, D_world=Dw, skew=sk))
+        print(f"   {mode:8s} K={K:<3} D_all={Da:.5f}  D_world={Dw:.5f}  skew={sk:.4f}")
+    res['diversity'] = div
+    res['common_seeds'] = common
+
+    json.dump(res, open(OUT_JSON, 'w'), ensure_ascii=False, indent=1)
+    print(f"\n[OK] {os.path.relpath(OUT_JSON, ROOT)}")
+
+
+if __name__ == '__main__':
+    main()

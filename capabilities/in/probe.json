@@ -1,1 +1,11 @@
-ewogICLnrKblj7fpgJrpgZNfT0NSIjogIumXqCIsCiAgIuWHoOS9lemAmumBk1/lnIblvaLluqYiOiAwLjg5NCwKICAi5Yeg5L2V6YCa6YGTX+WIpOWumiI6ICLlnIYiLAogICLnn5vnm77mo4Dlh7oiOiBmYWxzZSwKICAi5bGP5bmVX+W4p+e8k+WGsiI6ICJSRUFEX09LIGJ5dGVzPTEyMjg4MDAgaW5rPTAuOTk5OSIsCiAgIui+k+WFpeS6i+S7tua1gSI6ICJPUEVOX09LIiwKICAi6Z+z6aKR6YeH6ZuGIjogIkZBSUw6RmlsZU5vdEZvdW5kRXJyb3IiLAogICLmsJTosaFBUEkiOiAiSFRUUCAyMDAiLAogICLmnKzkvZPop4lf6LSf6L29IjogIjEuMjciCn0=
+{
+  "符号通道_OCR": "门",
+  "几何通道_圆形度": 0.894,
+  "几何通道_判定": "圆",
+  "矛盾检出": false,
+  "屏幕_帧缓冲": "READ_OK bytes=1228800 ink=0.9999",
+  "输入事件流": "OPEN_OK",
+  "音频采集": "FAIL:FileNotFoundError",
+  "气象API": "HTTP 200",
+  "本体觉_负载": "1.27"
+}

@@ -1,1 +1,39 @@
-IiIiUnVsZSBjbGFzc2VzIChleHAxMzQpIOKAlCBXSFkgdGhpcyBmaWxlIGV4aXN0cy4KCmV4cDEyOS0xMzMgd2VyZSBhbGwgc3BlbnQgZml4aW5nIG9uZSBxdWVzdGlvbjogaXMgdGhlIGZpbmRpbmcgcGlubmVkIHRvIHRoZQpyaWdodCBsaW5lPyBPbiBhbiBpbmRlcGVuZGVudCBjb3JwdXMgKGV4cDEzNCwgNyByZXBvcyBuZXZlciB1c2VkIGJlZm9yZSkKdGhhdCBxdWVzdGlvbiB0dXJuZWQgb3V0IHRvIGJlIHRoZSB3cm9uZyBvbmUuIFNwbGl0dGluZyB0aGUgZmluZGluZ3MgYnkKcnVsZSBpbnN0ZWFkIG9mIGJ5IHBpbiBnYXZlIGEgbXVjaCBjbGVhbmVyIHNlcGFyYXRpb246CgogICAgc3ludGF4IHJ1bGVzICAgICAgIEVHMDA1IEVHMDA2IEVHUDAxIEVHUDA0ICAgMTUvMTYgc3RyaWN0IHRydWUgPSA5My44JQogICAgbWV0aG9kb2xvZ3kgcnVsZXMgIGV2ZXJ5dGhpbmcgZWxzZSAgICAgICAgICAgIDEvMjkgc3RyaWN0IHRydWUgPSAgMy40JQoKQSBzeW50YXggcnVsZSBhc3NlcnRzIGEgcHJvcGVydHkgb2YgYSAqbm9kZSo6IHRoaXMgZGl2aXNpb24gaGFzIG5vIGd1YXJkLAp0aGlzIGV4Y2VwdCBpcyBiYXJlLCB0aGlzIGhhbmRsZXIgaXMgc2lsZW50LiBUaGUgZXZpZGVuY2UgaXMgaW4gdGhlIG5vZGUsCmEgcmV2aWV3ZXIgY2FuIGNvbmZpcm0gaXQgaW4gb25lIGxvb2ssIGFuZCBpdCBnZW5lcmFsaXNlcyB0byBjb2RlIG5vYm9keQpoYXMgZXZlciBzaG93biB1cy4KCkEgbWV0aG9kb2xvZ3kgcnVsZSBhc3NlcnRzIGEgcHJvcGVydHkgb2YgYSAqc3R1ZHkqOiBubyBiYXNlbGluZSwgbm8KaGVsZC1vdXQgc2V0LCBubyBzcHJlYWQsIG5vIG9yZGVyIHN3YXAuIE9uIHJlYWwgY29kZSB0aGVzZSBmaXJlZCBvbiBtZXRyaWMKbGlicmFyaWVzIGFuZCBmcmFtZXdvcmsgcGx1bWJpbmcsIHdoZXJlIHRoZSBvYmplY3QgdW5kZXIgYWNjdXNhdGlvbiBkb2VzCm5vdCBleGlzdC4gVGhlIGNsYWltIHdhcyBsaXRlcmFsbHkgdHJ1ZSAobG9vc2UgODkuNyUpIGFuZCBwcmFjdGljYWxseQpmYWxzZSAoc3RyaWN0IDMuNCUpLgoKV2UgYWxyZWFkeSBsZWFybmVkIHRoaXMgb25jZTogZXhwMTMxIHNob3dlZCB0aGUgbG9vc2Ugc3RhbmRhcmQgaXMgZXhhY3RseQp3aGF0IGxldCB2MC4zLjAgc2hpcCBhdCAxMSUgcHJlY2lzaW9uLiBTbyBtZXRob2RvbG9neSBydWxlcyBhcmUgTk9UCnNoaXBwZWQuIFRoZXkgcmVtYWluIGF2YWlsYWJsZSBiZWhpbmQgTUVUSE9ET0xPR1lfT04gZm9yIHJlc2VhcmNoIHVzZSBhbmQKYXJlIGV4Y2x1ZGVkIGZyb20gdGhlIHNoaXAgZ2F0ZS4KIiIiClNZTlRBWCA9IHsiRUcwMDUiLCAiRUcwMDYiLCAiRUdQMDEifQojIEVHUDA0IHNjb3JlZCAxLzEgc3RyaWN0IG9uIGV4cDEzNCwgYnV0IG49MS4gUHJvbW90aW5nIGEgcnVsZSBpbnRvIHRoZQojIHNoaXBwZWQgc2V0IG9uIG9uZSBzYW1wbGUgaXMgb3Zlci1maXR0aW5nIHRvIHRoYXQgc2FtcGxlOyBpdCBzdGF5cwojIGV4cGVyaW1lbnRhbCB1bnRpbCBhIHRoaXJkIGNvcnB1cyBnaXZlcyBpdCBhIHJlYWwgZGVub21pbmF0b3IuCkVYUEVSSU1FTlRBTF8xX09GXzEgPSB7IkVHUDA0In0KTUVUSE9ET0xPR1lfT04gPSBbRmFsc2VdCgpkZWYgY2xzX29mKGVnX2lkKToKICAgIHJldHVybiAic3ludGF4IiBpZiBlZ19pZCBpbiBTWU5UQVggZWxzZSAibWV0aG9kb2xvZ3kiCgpkZWYgc2hpcHBlZChlZ19pZCk6CiAgICAiIiJJcyB0aGlzIHJ1bGUgcGFydCBvZiB0aGUgc2VsbGFibGUgcHJvZHVjdD8iIiIKICAgIHJldHVybiBjbHNfb2YoZWdfaWQpID09ICJzeW50YXgiIG9yIE1FVEhPRE9MT0dZX09OWzBdCg==
+"""Rule classes (exp134) — WHY this file exists.
+
+exp129-133 were all spent fixing one question: is the finding pinned to the
+right line? On an independent corpus (exp134, 7 repos never used before)
+that question turned out to be the wrong one. Splitting the findings by
+rule instead of by pin gave a much cleaner separation:
+
+    syntax rules       EG005 EG006 EGP01 EGP04   15/16 strict true = 93.8%
+    methodology rules  everything else            1/29 strict true =  3.4%
+
+A syntax rule asserts a property of a *node*: this division has no guard,
+this except is bare, this handler is silent. The evidence is in the node,
+a reviewer can confirm it in one look, and it generalises to code nobody
+has ever shown us.
+
+A methodology rule asserts a property of a *study*: no baseline, no
+held-out set, no spread, no order swap. On real code these fired on metric
+libraries and framework plumbing, where the object under accusation does
+not exist. The claim was literally true (loose 89.7%) and practically
+false (strict 3.4%).
+
+We already learned this once: exp131 showed the loose standard is exactly
+what let v0.3.0 ship at 11% precision. So methodology rules are NOT
+shipped. They remain available behind METHODOLOGY_ON for research use and
+are excluded from the ship gate.
+"""
+SYNTAX = {"EG005", "EG006", "EGP01"}
+# EGP04 scored 1/1 strict on exp134, but n=1. Promoting a rule into the
+# shipped set on one sample is over-fitting to that sample; it stays
+# experimental until a third corpus gives it a real denominator.
+EXPERIMENTAL_1_OF_1 = {"EGP04"}
+METHODOLOGY_ON = [False]
+
+def cls_of(eg_id):
+    return "syntax" if eg_id in SYNTAX else "methodology"
+
+def shipped(eg_id):
+    """Is this rule part of the sellable product?"""
+    return cls_of(eg_id) == "syntax" or METHODOLOGY_ON[0]

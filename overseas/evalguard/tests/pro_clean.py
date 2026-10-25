@@ -1,1 +1,130 @@
-IiIiQ0xFQU4gZml4dHVyZSAtLSBldmVyeSBQUk8gcnVsZSBtdXN0IHN0YXkgc2lsZW50IGhlcmUuCgpUaGlzIGlzIHRoZSBuZWdhdGl2ZSBjb250cm9sLiBJZiBhbnkgRUdQIHJ1bGUgZmlyZXMgb24gdGhpcyBmaWxlLCB0aGUgcnVsZQppcyBhIGZhbHNlIHBvc2l0aXZlIGdlbmVyYXRvciBhbmQgaXMgbm90IHNoaXBwYWJsZS4KIiIiCmltcG9ydCBqc29uLCBoYXNobGliLCByYW5kb20sIHJlcXVlc3RzCgoKZGVmIHNjb3JlX2FsbCh0cmFpbl9pdGVtcywgZGV2X2l0ZW1zLCB0ZXN0X2l0ZW1zLCBzZWVkPTApOgogICAgcmFuZG9tLnNlZWQoc2VlZCkgICAgICAgICAgICAgICAgICAgIyBFRzAwMTogc2VlZGVkCgogICAgbl9lcnJvciA9IDAgICAgICAgICAgICAgICAgICAgICAgIyBFR1AwMTogZmFpbHVyZXMgY291bnRlZCwgbm90IGRyb3BwZWQKICAgIHBlcl9zYW1wbGUgPSBbXQogICAgZm9yIGl0IGluIHRlc3RfaXRlbXM6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBwZXJfc2FtcGxlLmFwcGVuZChjYWxsX21vZGVsKGl0KSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICAgICAgbl9lcnJvciArPSAxCiAgICAgICAgICAgIHBlcl9zYW1wbGUuYXBwZW5kKE5vbmUpCiAgICB2YWxpZCA9IFt2IGZvciB2IGluIHBlcl9zYW1wbGUgaWYgdiBpcyBub3QgTm9uZV0KCiAgICAjIEVHUDAyOiB0aHJlc2hvbGQgY2hvc2VuIG9uIHRoZSBERVYgc3BsaXQsIGZyb3plbiwgdGhlbiBhcHBsaWVkIG9uY2UKICAgIHRociA9IG1heChyYW5nZSgxMCksIGtleT1sYW1iZGEgdDoKICAgICAgICAgICAgICBzdW0oKGNhbGxfbW9kZWwoeCkgPiB0IC8gMTApID09IHkgZm9yIHgsIHkgaW4gZGV2X2l0ZW1zKSkKICAgIHByZWRzID0gW3YgPiB0aHIgLyAxMCBmb3IgdiBpbiB2YWxpZF0KCiAgICAjIEVHUDAzOiBvbmUgcHJlLXJlZ2lzdGVyZWQgcHJpbWFyeSB0ZXN0LCBtdWx0aXBsaWNpdHkgY29ycmVjdGVkCiAgICBmcm9tIHN0YXRzbW9kZWxzLnN0YXRzLm11bHRpdGVzdCBpbXBvcnQgbXVsdGlwbGV0ZXN0cwogICAgcHZhbHMgPSBbcHJpbWFyeV90ZXN0KHZhbGlkKV0KICAgIHJlamVjdCwgcF9hZGosIF8sIF8gPSBtdWx0aXBsZXRlc3RzKHB2YWxzLCBhbHBoYT0wLjA1LCBtZXRob2Q9ImhvbG0iKQoKICAgICMgRUdQMDQ6IG9yZGVyIHJhbmRvbWlzZWQsIGJvdGggb3JkZXJzIHJlcG9ydGVkIHNlcGFyYXRlbHkKICAgIG9yZGVyX2EgPSBzdW0oanVkZ2UoYSwgYikgPT0gIkEiIGZvciBhLCBiIGluIHBhaXJzKQogICAgb3JkZXJfYiA9IHN1bShqdWRnZShiLCBhKSA9PSAiQiIgZm9yIGEsIGIgaW4gcGFpcnMpCiAgICBhc3NlcnQgYWJzKG9yZGVyX2EgLSBvcmRlcl9iKSA8PSB0b2xlcmFuY2UobGVuKHBhaXJzKSkKCiAgICAjIEVHUDA1OiBkaXNqb2ludCBzcGxpdHMgd2l0aCBhbiBleHBsaWNpdCBvdmVybGFwIGFzc2VydGlvbgogICAgYXNzZXJ0IG5vdCAoc2V0KGlkX29mKHgpIGZvciB4IGluIHRyYWluX2l0ZW1zKSAmCiAgICAgICAgICAgICAgICBzZXQoaWRfb2YoeCkgZm9yIHggaW4gdGVzdF9pdGVtcykpCiAgICAjIEVHMDAyIC8gRUcwMTI6IGNoYW5jZS1sZXZlbCBiYXNlbGluZSBhbmQgcG9zaXRpdmUgY29udHJvbCBhcmUgYm90aAogICAgIyBtZWFzdXJlZCwgbm90IGFzc3VtZWQuIChUaGUgZml4dHVyZSBwcmV2aW91c2x5IGhhZCBuZWl0aGVyIC0tIHRoZQogICAgIyAiY2xlYW4iIGNvbnRyb2wgaGFkIG5ldmVyIGFjdHVhbGx5IGJlZW4gcnVuIGFnYWluc3QgdGhlIFBSTyBydWxlcy4pCiAgICByYW5kb21fYmFzZWxpbmUgPSBzdW0ocmFuZG9tLnJhbmRvbSgpIDwgMC41IGZvciBfIGluIHZhbGlkKSAvIG1heChsZW4odmFsaWQpLCAxKQogICAgcG9zaXRpdmVfY29udHJvbCA9IHN1bShjYWxsX21vZGVsKHgpIGlzIG5vdCBOb25lIGZvciB4IGluIHZhbGlkKSAvIG1heChsZW4odmFsaWQpLCAxKQogICAgYXNzZXJ0IHBvc2l0aXZlX2NvbnRyb2wgPT0gMS4wLCAicG9zaXRpdmUgY29udHJvbCBtdXN0IHJlYWNoIGNlaWxpbmciCiAgICBuX3RvdGFsID0gbGVuKHZhbGlkKQogICAgcmVjYWxsID0gc3VtKHByZWRzKSAvIG1heChsZW4ocHJlZHMpLCAxKQoKICAgICMgRUdQMDY6IHJlcGVhdGVkIG92ZXIgc2VlZHMsIHNwcmVhZCByZXBvcnRlZAogICAgcnVucyA9IFtydW5fb25jZShzKSBmb3IgcyBpbiByYW5nZSg1KV0KICAgIG1lYW4gPSBzdW0ocnVucykgLyBtYXgobGVuKHJ1bnMpLCAxKQogICAgc3RkID0gKHN1bSgociAtIG1lYW4pICoqIDIgZm9yIHIgaW4gcnVucykgLyBtYXgobGVuKHJ1bnMpLCAxKSkgKiogMC41CiAgICBjaV9sbywgY2lfaGkgPSBib290c3RyYXBfY2kocnVucykKCiAgICBwcmludChmInJlY2FsbCB7cmVjYWxsOi4zZn0gKG51bWVyYXRvciB7c3VtKHByZWRzKX0sIGRlbm9taW5hdG9yIHtuX3RvdGFsfSwiKQogICAgcHJpbnQoZiIgIGNoYW5jZS1sZXZlbCBiYXNlbGluZSB7cmFuZG9tX2Jhc2VsaW5lOi4zZn0pIikKICAgIHByaW50KGYibWVhbiB7bWVhbjouM2Z9ICsvLSB7c3RkOi4zZn0gIENJW3tjaV9sbzouM2Z9LHtjaV9oaTouM2Z9XSIpCiAgICBwcmludChmIm5fZXJyb3Ige25fZXJyb3J9IC8ge2xlbih0ZXN0X2l0ZW1zKX0iKQogICAgcHJpbnQoZiJwX2FkaiB7cF9hZGpbMF06LjRmfSAgb3JkZXJBIHtvcmRlcl9hfSBvcmRlckIge29yZGVyX2J9IikKCiAgICAjIEVHUDA3OiBjYWNoZSB2YWxpZGF0ZWQgYnkgaGFzaCBiZWZvcmUgcmV1c2UKICAgIGJsb2IgPSBvcGVuKCJjYWNoZS5qc29uIiwgInJiIikucmVhZCgpCiAgICBkaWdlc3QgPSBoYXNobGliLnNoYTI1NihibG9iKS5oZXhkaWdlc3QoKQogICAgY2FjaGVkID0ganNvbi5sb2FkcyhibG9iKSBpZiBkaWdlc3QgPT0gRVhQRUNURURfU0hBMjU2IGVsc2UgTm9uZQoKICAgICMgRUdQMDk6IG1lYW4gQU5EIHRhaWwgcmVwb3J0ZWQKICAgIHNydCA9IHNvcnRlZCh2IGZvciB2IGluIHZhbGlkKQogICAgcDUwID0gc3J0W2xlbihzcnQpIC8vIDJdCiAgICBwOTAgPSBzcnRbaW50KGxlbihzcnQpICogMC45KV0KICAgIHdvcnN0ID0gc3J0WzBdCiAgICByZXR1cm4geyJtZWFuIjogbWVhbiwgInA1MCI6IHA1MCwgInA5MCI6IHA5MCwgIndvcnN0Ijogd29yc3QsCiAgICAgICAgICAgICJyZWNhbGwiOiByZWNhbGwsICJjYWNoZWRfb2siOiBjYWNoZWQgaXMgbm90IE5vbmV9CgoKZGVmIGZldGNoKCk6CiAgICAjIEVHUDEwOiBzdGF0dXMgYW5kIHNoYXBlIGNoZWNrZWQgYXQgZXZlcnkgbGV2ZWwgYmVmb3JlIGluZGV4aW5nCiAgICBpbXBvcnQgdGltZSBhcyBfdGltZQogICAgcmVhY2hlZF9hdCA9IF90aW1lLnRpbWUoKSAgICAgICAgICAjIEVHMDE2OiByZWFjaGFiaWxpdHkgc3RhbXBlZAogICAgciA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9hcGkuZXhhbXBsZS5jb20vdjEvY2hhdCIsIHRpbWVvdXQ9MzApCiAgICByLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgcHJpbnQoZiJjaGFubmVsIG9rIGF0IHtyZWFjaGVkX2F0fSIpCiAgICBwYXlsb2FkID0gci5qc29uKCkKICAgIGNob2ljZXMgPSBwYXlsb2FkLmdldCgiY2hvaWNlcyIpCiAgICBpZiBub3QgY2hvaWNlczoKICAgICAgICByZXR1cm4gTm9uZQogICAgbXNnID0gY2hvaWNlc1swXS5nZXQoIm1lc3NhZ2UiKSBvciB7fQogICAgcmV0dXJuIG1zZy5nZXQoImNvbnRlbnQiKQoKCmRlZiBjaGVjayh4KToKICAgIHRyeToKICAgICAgICBhc3NlcnQgeCA+IDAKICAgIGV4Y2VwdCBBc3NlcnRpb25FcnJvcjoKICAgICAgICAjIEVHUDA4OiBhc3NlcnRpb24gYWxzbyBndWFyZHMgdGhlIGZhaWx1cmUgcGF0aAogICAgICAgIGFzc2VydCBGQUlMVVJFUyBpcyBub3QgTm9uZQogICAgICAgIHJhaXNlCiAgICByZXR1cm4geAoKCmRlZiBjYWxsX21vZGVsKHgpOgogICAgcmV0dXJuIDEuMAoKCmRlZiBqdWRnZShhLCBiKToKICAgIHJldHVybiAiQSIKCgpkZWYgcHJpbWFyeV90ZXN0KHhzKToKICAgIHJldHVybiAwLjA0CgoKZGVmIGJvb3RzdHJhcF9jaSh4cyk6CiAgICByZXR1cm4gMC4wLCAxLjAKCgpkZWYgcnVuX29uY2Uocyk6CiAgICByZXR1cm4gMC44CgoKZGVmIHRvbGVyYW5jZShuKToKICAgIHJldHVybiAzCgoKZGVmIGlkX29mKHgpOgogICAgcmV0dXJuIHgKCgpwYWlycyA9IFtdCkVYUEVDVEVEX1NIQTI1NiA9ICIwIiAqIDY0CkZBSUxVUkVTID0gW10K
+"""CLEAN fixture -- every PRO rule must stay silent here.
+
+This is the negative control. If any EGP rule fires on this file, the rule
+is a false positive generator and is not shippable.
+"""
+import json, hashlib, random, requests
+
+
+def score_all(train_items, dev_items, test_items, seed=0):
+    random.seed(seed)                   # EG001: seeded
+
+    n_error = 0                      # EGP01: failures counted, not dropped
+    per_sample = []
+    for it in test_items:
+        try:
+            per_sample.append(call_model(it))
+        except Exception as exc:
+            n_error += 1
+            per_sample.append(None)
+    valid = [v for v in per_sample if v is not None]
+
+    # EGP02: threshold chosen on the DEV split, frozen, then applied once
+    thr = max(range(10), key=lambda t:
+              sum((call_model(x) > t / 10) == y for x, y in dev_items))
+    preds = [v > thr / 10 for v in valid]
+
+    # EGP03: one pre-registered primary test, multiplicity corrected
+    from statsmodels.stats.multitest import multipletests
+    pvals = [primary_test(valid)]
+    reject, p_adj, _, _ = multipletests(pvals, alpha=0.05, method="holm")
+
+    # EGP04: order randomised, both orders reported separately
+    order_a = sum(judge(a, b) == "A" for a, b in pairs)
+    order_b = sum(judge(b, a) == "B" for a, b in pairs)
+    assert abs(order_a - order_b) <= tolerance(len(pairs))
+
+    # EGP05: disjoint splits with an explicit overlap assertion
+    assert not (set(id_of(x) for x in train_items) &
+                set(id_of(x) for x in test_items))
+    # EG002 / EG012: chance-level baseline and positive control are both
+    # measured, not assumed. (The fixture previously had neither -- the
+    # "clean" control had never actually been run against the PRO rules.)
+    random_baseline = sum(random.random() < 0.5 for _ in valid) / max(len(valid), 1)
+    positive_control = sum(call_model(x) is not None for x in valid) / max(len(valid), 1)
+    assert positive_control == 1.0, "positive control must reach ceiling"
+    n_total = len(valid)
+    recall = sum(preds) / max(len(preds), 1)
+
+    # EGP06: repeated over seeds, spread reported
+    runs = [run_once(s) for s in range(5)]
+    mean = sum(runs) / max(len(runs), 1)
+    std = (sum((r - mean) ** 2 for r in runs) / max(len(runs), 1)) ** 0.5
+    ci_lo, ci_hi = bootstrap_ci(runs)
+
+    print(f"recall {recall:.3f} (numerator {sum(preds)}, denominator {n_total},")
+    print(f"  chance-level baseline {random_baseline:.3f})")
+    print(f"mean {mean:.3f} +/- {std:.3f}  CI[{ci_lo:.3f},{ci_hi:.3f}]")
+    print(f"n_error {n_error} / {len(test_items)}")
+    print(f"p_adj {p_adj[0]:.4f}  orderA {order_a} orderB {order_b}")
+
+    # EGP07: cache validated by hash before reuse
+    blob = open("cache.json", "rb").read()
+    digest = hashlib.sha256(blob).hexdigest()
+    cached = json.loads(blob) if digest == EXPECTED_SHA256 else None
+
+    # EGP09: mean AND tail reported
+    srt = sorted(v for v in valid)
+    p50 = srt[len(srt) // 2]
+    p90 = srt[int(len(srt) * 0.9)]
+    worst = srt[0]
+    return {"mean": mean, "p50": p50, "p90": p90, "worst": worst,
+            "recall": recall, "cached_ok": cached is not None}
+
+
+def fetch():
+    # EGP10: status and shape checked at every level before indexing
+    import time as _time
+    reached_at = _time.time()          # EG016: reachability stamped
+    r = requests.get("https://api.example.com/v1/chat", timeout=30)
+    r.raise_for_status()
+    print(f"channel ok at {reached_at}")
+    payload = r.json()
+    choices = payload.get("choices")
+    if not choices:
+        return None
+    msg = choices[0].get("message") or {}
+    return msg.get("content")
+
+
+def check(x):
+    try:
+        assert x > 0
+    except AssertionError:
+        # EGP08: assertion also guards the failure path
+        assert FAILURES is not None
+        raise
+    return x
+
+
+def call_model(x):
+    return 1.0
+
+
+def judge(a, b):
+    return "A"
+
+
+def primary_test(xs):
+    return 0.04
+
+
+def bootstrap_ci(xs):
+    return 0.0, 1.0
+
+
+def run_once(s):
+    return 0.8
+
+
+def tolerance(n):
+    return 3
+
+
+def id_of(x):
+    return x
+
+
+pairs = []
+EXPECTED_SHA256 = "0" * 64
+FAILURES = []

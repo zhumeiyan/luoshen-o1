@@ -1,1 +1,377 @@
-IiIiQSBsb2NhbCBSZXNwb25zZXMgcHJvdmlkZXIgZm9yIG5hdGl2ZSBDb2RleCwgYmFja2VkIGJ5IG9uZSBSZW1vcnkgc2VydmVyLiIiIgpmcm9tIGNvbnRleHRsaWIgaW1wb3J0IGNvbnRleHRtYW5hZ2VyCmZyb20gY29weSBpbXBvcnQgZGVlcGNvcHkKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IGpzb24KZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmltcG9ydCB0aHJlYWRpbmcKaW1wb3J0IHRpbWUKaW1wb3J0IHV1aWQKCmltcG9ydCBodHRweAoKZnJvbSAuLmFkYXB0ZXJzLmhhcm5lc3MgaW1wb3J0IENoYXRUZW1wbGF0ZSwgR2xtQ2hhdFRlbXBsYXRlCmZyb20gLi5jbGllbnQgaW1wb3J0IENsaWVudApmcm9tIC4udHlwZXMgaW1wb3J0IGRpZ2VzdApmcm9tIC5wcm90b2NvbCBpbXBvcnQgY29udGVudF90ZXh0LCBtZXNzYWdlc19mcm9tX3dpcmUsIHBhcnNlX291dHB1dCwgc3NlLCB0b29sc19mcm9tX3dpcmUKCgpjbGFzcyBDb2RleENoYXRUZW1wbGF0ZShDaGF0VGVtcGxhdGUpOgogICAgIiIiUmVuZGVyIFF3ZW4ncyBzeXN0ZW0vdG9vbHMgcHJlZml4IHdpdGhvdXQgcmV0YWluaW5nIGEgc3ludGhldGljIHVzZXIgdHVybi4KCiAgICBUaGUgdXBzdHJlYW0gdGVtcGxhdGUgcmVxdWlyZXMgYSB1c2VyIGV2ZW4gZm9yIGEgc3lzdGVtLW9ubHkgcHJlZml4IG9yIGEKICAgIHBvc3QtY29tcGFjdGlvbiB0b29sIGNvbnRpbnVhdGlvbi4gQSB0ZW1wb3JhcnkgYm91bmRhcnkgaXMgcmVtb3ZlZCBiZWZvcmUKICAgIHRva2VuaXphdGlvbjsgaXQgaXMgbmV2ZXIgc3VibWl0dGVkIHRvIHRoZSBtb2RlbC4KICAgICIiIgogICAgZGVmIHN1bW1hcnkoc2VsZiwgdGV4dCk6CiAgICAgICAgIyBRdW90ZWQgdmlzaW9uIG1hcmtlcnMgaW4gY29kZS90b29sIG91dHB1dCBhcmUgb3JkaW5hcnkgdGV4dCwgbm90IGltYWdlCiAgICAgICAgIyBhdHRhY2htZW50cy4gQWN0dWFsIGltYWdlcyB1c2UgdGhlIHNlcGFyYXRlIF9pbWFnZSByZXF1ZXN0IGJlbG93LgogICAgICAgIGZvciBtYXJrZXIgaW4gKCc8fGltYWdlX3BhZHw+JywgJzx8dmlkZW9fcGFkfD4nLCAnPHx2aXNpb25fc3RhcnR8PicsICc8fHZpc2lvbl9lbmR8PicpOgogICAgICAgICAgICB0ZXh0ID0gdGV4dC5yZXBsYWNlKG1hcmtlciwgbWFya2VyLnJlcGxhY2UoJzwnLCByJ1x1MDAzYycpLnJlcGxhY2UoJz4nLCByJ1x1MDAzZScpKQogICAgICAgIHJldHVybiBzdXBlcigpLnN1bW1hcnkodGV4dCkKCiAgICBkZWYgc3BsaXQoc2VsZiwgcHJlZml4X21lc3NhZ2VzLCBtZXNzYWdlcywgKiwgZ2VuZXJhdGlvbj1GYWxzZSk6CiAgICAgICAgYm91bmRhcnkgPSB7J3JvbGUnOiAndXNlcicsICdjb250ZW50JzogJ1JFTU9SWV9URU1QTEFURV9CT1VOREFSWSd9CiAgICAgICAga3dhcmdzID0gZGljdCh0b29scz1zZWxmLnRvb2xzLCB0b2tlbml6ZT1GYWxzZSwgKipzZWxmLnRlbXBsYXRlX2t3YXJncykKICAgICAgICByZW5kZXJlZF9wcmVmaXggPSBzZWxmLnRva2VuaXplci5hcHBseV9jaGF0X3RlbXBsYXRlKHByZWZpeF9tZXNzYWdlcyArIFtib3VuZGFyeV0sCiAgICAgICAgICAgIGFkZF9nZW5lcmF0aW9uX3Byb21wdD1GYWxzZSwgKiprd2FyZ3MpCiAgICAgICAgbWFya2VyID0gJzx8aW1fc3RhcnR8PnVzZXJcblJFTU9SWV9URU1QTEFURV9CT1VOREFSWTx8aW1fZW5kfD5cbicKICAgICAgICBpZiBub3QgcmVuZGVyZWRfcHJlZml4LmVuZHN3aXRoKG1hcmtlcik6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1Vuc3VwcG9ydGVkIFF3ZW4gY2hhdC10ZW1wbGF0ZSBib3VuZGFyeScpCiAgICAgICAgcHJlZml4X3RleHQgPSByZW5kZXJlZF9wcmVmaXhbOi1sZW4obWFya2VyKV0KICAgICAgICBmdWxsID0gc2VsZi50b2tlbml6ZXIuYXBwbHlfY2hhdF90ZW1wbGF0ZShwcmVmaXhfbWVzc2FnZXMgKyBbYm91bmRhcnldICsgbWVzc2FnZXMsCiAgICAgICAgICAgIGFkZF9nZW5lcmF0aW9uX3Byb21wdD1nZW5lcmF0aW9uLCAqKmt3YXJncykKICAgICAgICBpZiBub3QgZnVsbC5zdGFydHN3aXRoKHJlbmRlcmVkX3ByZWZpeCk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1RoZSBuYXRpdmUgdGVtcGxhdGUgY2hhbmdlZCBpdHMgc3lzdGVtL3Rvb2xzIHByZWZpeCcpCiAgICAgICAgcHJlZml4ID0gc2VsZi5zdW1tYXJ5KHByZWZpeF90ZXh0KQogICAgICAgIGZ1bGxfaWRzID0gc2VsZi5zdW1tYXJ5KHByZWZpeF90ZXh0ICsgZnVsbFtsZW4ocmVuZGVyZWRfcHJlZml4KTpdKQogICAgICAgIGlmIGZ1bGxfaWRzWzpsZW4ocHJlZml4KV0gIT0gcHJlZml4OgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdUb2tlbml6YXRpb24gY2hhbmdlZCB0aGUgc3lzdGVtL3Rvb2xzIGJvdW5kYXJ5JykKICAgICAgICByZXR1cm4gcHJlZml4LCBmdWxsX2lkc1tsZW4ocHJlZml4KTpdCgoKZGVmIGF0b21pY19qc29uKHBhdGgsIHZhbHVlKToKICAgIHBhdGggPSBQYXRoKHBhdGgpCiAgICBwYXRoLnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUsIG1vZGU9MG83MDApCiAgICB0ZW1wb3JhcnkgPSBwYXRoLndpdGhfbmFtZShwYXRoLm5hbWUgKyAnLicgKyB1dWlkLnV1aWQ0KCkuaGV4ICsgJy50bXAnKQogICAgdHJ5OgogICAgICAgIHdpdGggdGVtcG9yYXJ5Lm9wZW4oJ3gnKSBhcyBzdHJlYW06CiAgICAgICAgICAgIHRlbXBvcmFyeS5jaG1vZCgwbzYwMCkKICAgICAgICAgICAgc3RyZWFtLndyaXRlKGpzb24uZHVtcHModmFsdWUsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpICsgJ1xuJykKICAgICAgICAgICAgc3RyZWFtLmZsdXNoKCkKICAgICAgICAgICAgaW1wb3J0IG9zCiAgICAgICAgICAgIG9zLmZzeW5jKHN0cmVhbS5maWxlbm8oKSkKICAgICAgICB0ZW1wb3JhcnkucmVwbGFjZShwYXRoKQogICAgZmluYWxseToKICAgICAgICB0ZW1wb3JhcnkudW5saW5rKG1pc3Npbmdfb2s9VHJ1ZSkKCgpjbGFzcyBQcm92aWRlcjoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB1cmwsIGluZm8sIHRva2VuaXplciwgZGlyZWN0b3J5LCAqLCBzZXNzaW9uX2lkLAogICAgICAgICAgICAgICAgIG1heF9uZXdfdG9rZW5zPTE2Mzg0LCB0cmFuc3BvcnQ9Tm9uZSk6CiAgICAgICAgc2VsZi51cmwsIHNlbGYuaW5mbywgc2VsZi50b2tlbml6ZXIgPSB1cmwucnN0cmlwKCcvJyksIGluZm8sIHRva2VuaXplcgogICAgICAgIHNlbGYuZGlyZWN0b3J5ID0gUGF0aChkaXJlY3RvcnkpCiAgICAgICAgc2VsZi5kaXJlY3RvcnkubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlLCBtb2RlPTBvNzAwKQogICAgICAgIHNlbGYuc2Vzc2lvbl9pZCwgc2VsZi5tYXhfbmV3X3Rva2VucyA9IHNlc3Npb25faWQsIG1heF9uZXdfdG9rZW5zCiAgICAgICAgc2VsZi50cmFuc3BvcnQgPSB0cmFuc3BvcnQKICAgICAgICBzZWxmLmNvbmZpZyA9IGluZm9bJ2NvbmZpZyddCiAgICAgICAgc2VsZi5nbG0gPSBzZWxmLmNvbmZpZy5nZXQoJ3NjaGVtYScpID09ICdyZW1vcnlfZ2xtNTNfbG9jYWxfZXZhbHVhdGlvbl92MScKICAgICAgICBzZWxmLl9sb2NrID0gdGhyZWFkaW5nLlJMb2NrKCkKICAgICAgICBzZWxmLl9sb2NrcyA9IHt9CiAgICAgICAgc2VsZi5fY2xvc2VkID0gRmFsc2UKICAgICAgICBzZWxmLm1ldGFfcGF0aCA9IHNlbGYuZGlyZWN0b3J5IC8gJ3Byb3ZpZGVyLmpzb24nCiAgICAgICAgaWYgc2VsZi5tZXRhX3BhdGguZXhpc3RzKCk6CiAgICAgICAgICAgIHNlbGYubWV0YSA9IGpzb24ubG9hZHMoc2VsZi5tZXRhX3BhdGgucmVhZF90ZXh0KCkpCiAgICAgICAgICAgIGlmIHNlbGYubWV0YVsnaWRlbnRpdHknXSAhPSBpbmZvWydpZGVudGl0eSddOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU2VydmVyIG1vZGVsL2NoZWNrcG9pbnQgY2hhbmdlZDsgc3RhcnQgYSBuZXcgci1jb2RleCBzZXNzaW9uJykKICAgICAgICAgICAgaWYgc2VsZi5tZXRhWydzZXNzaW9uX2lkJ10gIT0gc2Vzc2lvbl9pZDoKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1Nlc3Npb24gaWRlbnRpdHkgY2hhbmdlZCcpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5tZXRhID0geydpZGVudGl0eSc6IGluZm9bJ2lkZW50aXR5J10sICdzZXNzaW9uX2lkJzogc2Vzc2lvbl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICdyb290X3RocmVhZF9pZCc6IE5vbmUsICd0aHJlYWRzJzoge319CiAgICAgICAgICAgIGF0b21pY19qc29uKHNlbGYubWV0YV9wYXRoLCBzZWxmLm1ldGEpCgogICAgQGNvbnRleHRtYW5hZ2VyCiAgICBkZWYgY2xpZW50KHNlbGYpOgogICAgICAgIHdpdGggQ2xpZW50KHNlbGYudXJsLCBzZXNzaW9uX2lkPXNlbGYuc2Vzc2lvbl9pZCwgdGltZW91dD0xODAwLAogICAgICAgICAgICAgICAgICAgIHRyYW5zcG9ydD1zZWxmLnRyYW5zcG9ydCwgdHJ1c3RfZW52PUZhbHNlKSBhcyBjbGllbnQ6CiAgICAgICAgICAgIHlpZWxkIGNsaWVudAoKICAgIGRlZiBfdGhyZWFkKHNlbGYsIGhlYWRlcnMpOgogICAgICAgIG1ldGFkYXRhID0ganNvbi5sb2FkcyhoZWFkZXJzLmdldCgneC1jb2RleC10dXJuLW1ldGFkYXRhJywgJ3t9JykpCiAgICAgICAgdGhyZWFkX2lkID0gaGVhZGVycy5nZXQoJ3RocmVhZC1pZCcpIG9yIG1ldGFkYXRhLmdldCgndGhyZWFkX2lkJykgb3IgJ3Jvb3QnCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UodGhyZWFkX2lkLCBzdHIpIG9yIG5vdCAwIDwgbGVuKHRocmVhZF9pZCkgPD0gMTI4OgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdJbnZhbGlkIENvZGV4IHRocmVhZCBJRCcpCiAgICAgICAgaWYgbWV0YWRhdGEuZ2V0KCd0aHJlYWRfaWQnLCB0aHJlYWRfaWQpICE9IHRocmVhZF9pZDoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignQ29uZmxpY3RpbmcgQ29kZXggdGhyZWFkIElEcycpCiAgICAgICAgcGFyZW50ID0gbWV0YWRhdGEuZ2V0KCdwYXJlbnRfdGhyZWFkX2lkJykKICAgICAgICB3aXRoIHNlbGYuX2xvY2s6CiAgICAgICAgICAgIGlmIHNlbGYuX2Nsb3NlZDoKICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcignUHJvdmlkZXIgaXMgY2xvc2luZycpCiAgICAgICAgICAgIGlmIHNlbGYubWV0YVsncm9vdF90aHJlYWRfaWQnXSBpcyBOb25lOgogICAgICAgICAgICAgICAgaWYgcGFyZW50OgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0EgcGFyZW50IHNlc3Npb24gbXVzdCBiZSBvcGVuZWQgYmVmb3JlIGEgc3ViLWFnZW50JykKICAgICAgICAgICAgICAgIHNlbGYubWV0YVsncm9vdF90aHJlYWRfaWQnXSA9IHRocmVhZF9pZAogICAgICAgICAgICBlbGlmIHRocmVhZF9pZCAhPSBzZWxmLm1ldGFbJ3Jvb3RfdGhyZWFkX2lkJ106CiAgICAgICAgICAgICAgICBrbm93biA9IHNlbGYubWV0YVsndGhyZWFkcyddLmdldCh0aHJlYWRfaWQpCiAgICAgICAgICAgICAgICBpZiBub3Qga25vd24gYW5kIHBhcmVudCAhPSBzZWxmLm1ldGFbJ3Jvb3RfdGhyZWFkX2lkJ106CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignT25seSBkaXJlY3QgY2hpbGRyZW4gb2YgdGhpcyBzZXNzaW9uIGFyZSBzdXBwb3J0ZWQnKQogICAgICAgICAgICBpZiB0aHJlYWRfaWQgbm90IGluIHNlbGYubWV0YVsndGhyZWFkcyddOgogICAgICAgICAgICAgICAgc2VsZi5tZXRhWyd0aHJlYWRzJ11bdGhyZWFkX2lkXSA9IHsncGFyZW50JzogcGFyZW50fQogICAgICAgICAgICAgICAgYXRvbWljX2pzb24oc2VsZi5tZXRhX3BhdGgsIHNlbGYubWV0YSkKICAgICAgICAgICAgcmV0dXJuIHRocmVhZF9pZCwgc2VsZi5fbG9ja3Muc2V0ZGVmYXVsdCh0aHJlYWRfaWQsIHRocmVhZGluZy5STG9jaygpKQoKICAgIGRlZiBfcGF0aChzZWxmLCB0aHJlYWQpOgogICAgICAgIHJldHVybiBzZWxmLmRpcmVjdG9yeSAvICgndGhyZWFkLScgKyBoYXNobGliLnNoYTI1Nih0aHJlYWQuZW5jb2RlKCkpLmhleGRpZ2VzdCgpICsgJy5qc29uJykKCiAgICBkZWYgX2xvYWQoc2VsZiwgdGhyZWFkKToKICAgICAgICBwYXRoID0gc2VsZi5fcGF0aCh0aHJlYWQpCiAgICAgICAgaWYgcGF0aC5leGlzdHMoKToKICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMocGF0aC5yZWFkX3RleHQoKSkKICAgICAgICByZXR1cm4geydjaGVja3BvaW50cyc6IHt9LCAncmVzcG9uc2VzJzoge30sICdpbWFnZXMnOiB7fSwgJ2ZvbGRlZCc6IFtdfQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfd2lyZV9pdGVtcyhpdGVtcyk6CiAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtcywgc3RyKToKICAgICAgICAgICAgcmV0dXJuIFt7J3JvbGUnOiAndXNlcicsICdjb250ZW50JzogaXRlbXN9XQogICAgICAgIHJldHVybiBbe2s6IHYgZm9yIGssIHYgaW4gaXRlbS5pdGVtcygpIGlmIGsgbm90IGluIHsnaWQnLCAnc3RhdHVzJ319CiAgICAgICAgICAgICAgICBmb3IgaXRlbSBpbiBpdGVtcyBpZiBpdGVtLmdldCgndHlwZScpICE9ICdjb21wYWN0aW9uX3RyaWdnZXInXQoKICAgIGRlZiBfaW1hZ2Uoc2VsZiwgdXJsLCBzdGF0ZSk6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UodXJsLCBzdHIpIG9yIG5vdCB1cmwuc3RhcnRzd2l0aCgoJ2RhdGE6aW1hZ2UvJywgJ2h0dHBzOi8vJywgJ2h0dHA6Ly8nKSk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0ltYWdlIGlucHV0IHJlcXVpcmVzIGEgZGF0YSBVUkwgb3IgSFRUUCBpbWFnZSBVUkwnKQogICAgICAgIGtleSA9IGhhc2hsaWIuc2hhMjU2KHVybC5lbmNvZGUoKSkuaGV4ZGlnZXN0KCkKICAgICAgICBpZiBrZXkgbm90IGluIHN0YXRlWydpbWFnZXMnXToKICAgICAgICAgICAgaWYgc2VsZi5nbG06CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdJbWFnZSBvYnNlcnZhdGlvbnMgY3VycmVudGx5IHJlcXVpcmUgdGhlIFF3ZW4gYWN0b3InKQogICAgICAgICAgICBwcm9tcHQgPSAoJzx8aW1fc3RhcnR8PnVzZXJcbjx8dmlzaW9uX3N0YXJ0fD48fGltYWdlX3BhZHw+PHx2aXNpb25fZW5kfD5cbicKICAgICAgICAgICAgICAgICAgICAgICdEZXNjcmliZSB0aGlzIGltYWdlIGZvciBhIGNvZGluZyBhZ2VudC4gSW5jbHVkZSB2aXNpYmxlIHRleHQsIGxheW91dCwgJwogICAgICAgICAgICAgICAgICAgICAgJ2Vycm9ycywgYW5kIGRldGFpbHMgdXNlZnVsIGZvciBkZWJ1Z2dpbmcuIERvIG5vdCBpbnZlbnQgdW5zZWVuIGNvbnRlbnQuJwogICAgICAgICAgICAgICAgICAgICAgJzx8aW1fZW5kfD5cbjx8aW1fc3RhcnR8PmFzc2lzdGFudFxuPHRoaW5rPlxuXG48L3RoaW5rPlxuXG4nKQogICAgICAgICAgICB3aXRoIGh0dHB4LkNsaWVudCh0aW1lb3V0PTE4MDAsIHRyYW5zcG9ydD1zZWxmLnRyYW5zcG9ydCwgdHJ1c3RfZW52PUZhbHNlKSBhcyBodHRwOgogICAgICAgICAgICAgICAgcmVzcG9uc2UgPSBodHRwLnBvc3Qoc2VsZi51cmwgKyAnL2dlbmVyYXRlJywganNvbj17J3RleHQnOiBwcm9tcHQsCiAgICAgICAgICAgICAgICAgICAgJ2ltYWdlX2RhdGEnOiBbdXJsXSwgJ3NhbXBsaW5nX3BhcmFtcyc6IHsndGVtcGVyYXR1cmUnOiAwLCAnbWF4X25ld190b2tlbnMnOiAyMDQ4fX0pCiAgICAgICAgICAgICAgICByZXNwb25zZS5yYWlzZV9mb3Jfc3RhdHVzKCkKICAgICAgICAgICAgICAgIHJlc3VsdCA9IHJlc3BvbnNlLmpzb24oKQogICAgICAgICAgICByZWFzb24gPSByZXN1bHQuZ2V0KCdtZXRhX2luZm8nLCB7fSkuZ2V0KCdmaW5pc2hfcmVhc29uJywge30pCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UocmVhc29uLCBkaWN0KSBhbmQgcmVhc29uLmdldCgndHlwZScpIGluIHsnYWJvcnQnLCAnZXJyb3InfToKICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcignU0dMYW5nIGNvdWxkIG5vdCBpbnNwZWN0IHRoZSBpbWFnZScpCiAgICAgICAgICAgIHRleHQgPSByZXN1bHRbJ3RleHQnXS5zcGxpdCgnPC90aGluaz4nKVstMV0uc3RyaXAoKQogICAgICAgICAgICBpZiBub3QgdGV4dDoKICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcignVGhlIG1vZGVsIHJldHVybmVkIG5vIGltYWdlIG9ic2VydmF0aW9uJykKICAgICAgICAgICAgc3RhdGVbJ2ltYWdlcyddW2tleV0gPSAnW0ltYWdlIG9ic2VydmF0aW9uIGJ5IHRoZSBkZXBsb3llZCBRd2VuIG1vZGVsXVxuJyArIHRleHQKICAgICAgICByZXR1cm4gc3RhdGVbJ2ltYWdlcyddW2tleV0KCiAgICBkZWYgX2NvbnRleHQoc2VsZiwgcmVxdWVzdCwgc3RhdGUpOgogICAgICAgIGl0ZW1zID0gcmVxdWVzdC5nZXQoJ2lucHV0JywgW10pCiAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtcywgc3RyKToKICAgICAgICAgICAgaXRlbXMgPSBbeydyb2xlJzogJ3VzZXInLCAnY29udGVudCc6IGl0ZW1zfV0KICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShpdGVtcywgbGlzdCkgb3Igbm90IGFsbChpc2luc3RhbmNlKHgsIGRpY3QpIGZvciB4IGluIGl0ZW1zKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignUmVzcG9uc2VzIGlucHV0IG11c3QgYmUgYSBsaXN0IG9mIGl0ZW1zJykKICAgICAgICB0cmlnZ2VyID0gW2kgZm9yIGksIHggaW4gZW51bWVyYXRlKGl0ZW1zKSBpZiB4LmdldCgndHlwZScpID09ICdjb21wYWN0aW9uX3RyaWdnZXInXQogICAgICAgIGlmIHRyaWdnZXIgYW5kICh0cmlnZ2VyICE9IFtsZW4oaXRlbXMpIC0gMV0gb3Igc2V0KGl0ZW1zWy0xXSkgIT0geyd0eXBlJ30pOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdjb21wYWN0aW9uX3RyaWdnZXIgbXVzdCBiZSB0aGUgbGFzdCBpdGVtIHdpdGhvdXQgYSBwYXlsb2FkJykKICAgICAgICBpZiB0cmlnZ2VyOgogICAgICAgICAgICBpdGVtcyA9IGl0ZW1zWzotMV0KICAgICAgICBjb21wbGV0ZV9pdGVtcyA9IGl0ZW1zCiAgICAgICAgdG9vbHMsIHJvdXRlcyA9IHRvb2xzX2Zyb21fd2lyZShyZXF1ZXN0LmdldCgndG9vbHMnLCBbXSkpCiAgICAgICAgaW5zdHJ1Y3Rpb25zID0gcmVxdWVzdC5nZXQoJ2luc3RydWN0aW9ucycpIG9yICdZb3UgYXJlIGEgY29kaW5nIGFzc2lzdGFudC4gVXNlIHRoZSBhdmFpbGFibGUgdG9vbHMgdG8gY29tcGxldGUgdGhlIHVzZXIgdGFzay4nCiAgICAgICAgbGVhZGluZyA9IFtdCiAgICAgICAgd2hpbGUgaXRlbXMgYW5kIGl0ZW1zWzBdLmdldCgncm9sZScpIGluIHsnc3lzdGVtJywgJ2RldmVsb3Blcid9OgogICAgICAgICAgICBsZWFkaW5nLmFwcGVuZChjb250ZW50X3RleHQoaXRlbXNbMF0uZ2V0KCdjb250ZW50JykpKQogICAgICAgICAgICBpdGVtcyA9IGl0ZW1zWzE6XQogICAgICAgIHByZWZpeCA9IFt7J3JvbGUnOiAnc3lzdGVtJywgJ2NvbnRlbnQnOiAnXG5cbicuam9pbihbaW5zdHJ1Y3Rpb25zLCAqbGVhZGluZ10pfV0KICAgICAgICBjb2RlYyA9IChHbG1DaGF0VGVtcGxhdGUoc2VsZi50b2tlbml6ZXIsIHRvb2xzPXRvb2xzKSBpZiBzZWxmLmdsbSBlbHNlCiAgICAgICAgICAgICAgICAgQ29kZXhDaGF0VGVtcGxhdGUoc2VsZi50b2tlbml6ZXIsIHRvb2xzPXRvb2xzLCB0ZW1wbGF0ZV9rd2FyZ3M9ewogICAgICAgICAgICAgICAgICAgICAnZW5hYmxlX3RoaW5raW5nJzogVHJ1ZSwgJ3ByZXNlcnZlX3RoaW5raW5nJzogVHJ1ZX0pKQogICAgICAgIGluZGljZXMgPSBbaSBmb3IgaSwgeCBpbiBlbnVtZXJhdGUoaXRlbXMpIGlmIHguZ2V0KCd0eXBlJykgPT0gJ2NvbXBhY3Rpb24nXQogICAgICAgIHByZXZpb3VzID0gTm9uZQogICAgICAgIGlmIGluZGljZXM6CiAgICAgICAgICAgIGluZGV4ID0gaW5kaWNlc1stMV0KICAgICAgICAgICAgbWFya2VyID0gaXRlbXNbaW5kZXhdLmdldCgnZW5jcnlwdGVkX2NvbnRlbnQnLCAnJykKICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UobWFya2VyLCBzdHIpIG9yIG5vdCBtYXJrZXIuc3RhcnRzd2l0aCgncmVtb3J5LnYxLicpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignRm9yZWlnbiBjb21wYWN0aW9uIGNoZWNrcG9pbnQnKQogICAgICAgICAgICBwcmV2aW91cyA9IHN0YXRlWydjaGVja3BvaW50cyddLmdldChtYXJrZXIpCiAgICAgICAgICAgIGlmIHByZXZpb3VzIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdVbmtub3duIGNoZWNrcG9pbnQgZm9yIHRoaXMgdGhyZWFkOyByZXN1bWUgdGhlIG9yaWdpbmFsIHNlc3Npb24nKQogICAgICAgICAgICBpZiBwcmV2aW91c1sndG9vbHNfc2hhMjU2J10gIT0gZGlnZXN0KHRvb2xzKSBvciAoCiAgICAgICAgICAgICAgICAgICAgcHJldmlvdXMuZ2V0KCdpbnN0cnVjdGlvbnMnLCBpbnN0cnVjdGlvbnMpICE9IGluc3RydWN0aW9ucyk6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdJbnN0cnVjdGlvbnMgb3IgdG9vbHMgY2hhbmdlZCBhZnRlciBjb21wYWN0OyBzdGFydCBhIG5ldyBzZXNzaW9uJykKICAgICAgICAgICAgaWYgbGVhZGluZyBhbmQgcHJldmlvdXNbJ3ByZWZpeCddICE9IHByZWZpeDoKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0RldmVsb3BlciBpbnN0cnVjdGlvbnMgY2hhbmdlZCBhZnRlciBjb21wYWN0OyBzdGFydCBhIG5ldyBzZXNzaW9uJykKICAgICAgICAgICAgcHJlZml4ID0gcHJldmlvdXNbJ3ByZWZpeCddCiAgICAgICAgICAgIGl0ZW1zID0gaXRlbXNbaW5kZXggKyAxOl0KICAgICAgICBhdXRvbWF0aWMgPSBzdGF0ZS5nZXQoJ2F1dG9fY2hlY2twb2ludCcpCiAgICAgICAgaWYgYXV0b21hdGljOgogICAgICAgICAgICBiYXNlID0gYXV0b21hdGljWyd3aXJlX2Jhc2UnXQogICAgICAgICAgICBpZiBzZWxmLl93aXJlX2l0ZW1zKGNvbXBsZXRlX2l0ZW1zWzpsZW4oYmFzZSldKSA9PSBiYXNlOgogICAgICAgICAgICAgICAgaWYgYXV0b21hdGljWyd0b29sc19zaGEyNTYnXSAhPSBkaWdlc3QodG9vbHMpIG9yIGF1dG9tYXRpY1sncHJlZml4J10gIT0gcHJlZml4OgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0luc3RydWN0aW9ucyBvciB0b29scyBjaGFuZ2VkIGFmdGVyIHN1Yi1hZ2VudCBmb2xkaW5nJykKICAgICAgICAgICAgICAgIHByZXZpb3VzID0gYXV0b21hdGljCiAgICAgICAgICAgICAgICBpdGVtcyA9IGNvbXBsZXRlX2l0ZW1zW2xlbihiYXNlKTpdCiAgICAgICAgbWVzc2FnZXMgPSBtZXNzYWdlc19mcm9tX3dpcmUoaXRlbXMsIGltYWdlX3JlYWRlcj1sYW1iZGEgdXJsOiBzZWxmLl9pbWFnZSh1cmwsIHN0YXRlKSkKICAgICAgICBmb3IgbWVzc2FnZSBpbiBtZXNzYWdlczoKICAgICAgICAgICAgaWYgbWVzc2FnZVsncm9sZSddID09ICdzeXN0ZW0nOgogICAgICAgICAgICAgICAgbWVzc2FnZVsncm9sZSddID0gJ3VzZXInCiAgICAgICAgICAgICAgICBtZXNzYWdlWydjb250ZW50J10gPSAnW0RldmVsb3BlciBpbnN0cnVjdGlvbnMgZnJvbSB0aGUgaGFybmVzc11cbicgKyBtZXNzYWdlWydjb250ZW50J10KICAgICAgICByZXR1cm4gY29kZWMsIHByZWZpeCwgbWVzc2FnZXMsIHByZXZpb3VzLCByb3V0ZXMsIGJvb2wodHJpZ2dlciksIHRvb2xzCgogICAgZGVmIF9jb21wYWN0KHNlbGYsIGNvZGVjLCBwcmVmaXgsIG1lc3NhZ2VzLCBwcmV2aW91cywgdG9vbHMsIGNsaWVudCwgYnJhbmNoZXM9KCkpOgogICAgICAgIGlmIG5vdCBtZXNzYWdlcyBhbmQgcHJldmlvdXMgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignVGhlcmUgaXMgbm8gaGlzdG9yeSB0byBjb21wYWN0JykKICAgICAgICBwcmVmaXhfaWRzLCBoaXN0b3J5X2lkcyA9IGNvZGVjLnNwbGl0KHByZWZpeCwgbWVzc2FnZXMpCiAgICAgICAgY29udHJhY3QgPSBzZWxmLmNvbmZpZy5nZXQoJ3N1bW1hcnlfY29udHJhY3QnLCB7fSkKICAgICAgICBzdWZmaXggPSBjb250cmFjdC5nZXQoJ2dlbmVyYXRpb25fc3VmZml4X2lkcycpCiAgICAgICAgc3VtbWFyeV9tZXNzYWdlcyA9IG1lc3NhZ2VzCiAgICAgICAgaWYgYnJhbmNoZXM6CiAgICAgICAgICAgIHN1bW1hcnlfbWVzc2FnZXMgPSBtZXNzYWdlcyArIFt7J3JvbGUnOiAndXNlcicsICdjb250ZW50JzoKICAgICAgICAgICAgICAgICdbQ29tcGxldGVkIHN1Yi1hZ2VudCByZXN1bHRzXVxuJyArICdcblxuJy5qb2luKGJbJ3N1bW1hcnknXSBmb3IgYiBpbiBicmFuY2hlcyl9XQogICAgICAgIGlmIHN1ZmZpeDoKICAgICAgICAgICAgXywgc3VtbWFyeV9oaXN0b3J5ID0gY29kZWMuc3BsaXQocHJlZml4LCBzdW1tYXJ5X21lc3NhZ2VzKQogICAgICAgICAgICB0YWlsID0gc3VtbWFyeV9oaXN0b3J5ICsgc3VmZml4CiAgICAgICAgZWxzZToKICAgICAgICAgICAgXywgdGFpbCA9IGNvZGVjLnNwbGl0KHByZWZpeCwgc3VtbWFyeV9tZXNzYWdlcyArIFt7J3JvbGUnOiAndXNlcicsICdjb250ZW50JzoKICAgICAgICAgICAgICAgICdXcml0ZSBhIGNvbmNpc2UgY2hlY2twb2ludCB3aXRoIHRoZSB0YXNrLCBwcm9ncmVzcywgY29uc3RyYWludHMgYW5kIG5leHQgc3RlcHMuJ31dLAogICAgICAgICAgICAgICAgZ2VuZXJhdGlvbj1UcnVlKQogICAgICAgIGt3YXJncyA9ICh7J2hhbmRsZSc6IHByZXZpb3VzWydoYW5kbGUnXSwgJ2NvbnRpbnVhdGlvbl9pZHMnOiB0YWlsfSBpZiBwcmV2aW91cwogICAgICAgICAgICAgICAgICBlbHNlIHsnaW5wdXRfaWRzJzogcHJlZml4X2lkcyArIHRhaWx9KQogICAgICAgIHNhbXBsaW5nID0geyd0ZW1wZXJhdHVyZSc6IDB9CiAgICAgICAgaWYgY29udHJhY3QuZ2V0KCdvdXRwdXRfc2NoZW1hJyk6CiAgICAgICAgICAgIHNhbXBsaW5nWydqc29uX3NjaGVtYSddID0ganNvbi5kdW1wcyhjb250cmFjdFsnb3V0cHV0X3NjaGVtYSddKQogICAgICAgIHJlc3VsdCA9IGNsaWVudC5nZW5lcmF0ZSgqKmt3YXJncywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4X25ld190b2tlbnM9bWluKGNvbnRyYWN0LmdldCgnbWF4X3N1bW1hcnlfdG9rZW5zJywgNDA5NiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm1heF9uZXdfdG9rZW5zKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FtcGxpbmc9c2FtcGxpbmcpCiAgICAgICAgcmVhc29uID0gcmVzdWx0LmdldCgnbWV0YV9pbmZvJywge30pLmdldCgnZmluaXNoX3JlYXNvbicpCiAgICAgICAgcmVhc29uID0gcmVhc29uLmdldCgndHlwZScpIGlmIGlzaW5zdGFuY2UocmVhc29uLCBkaWN0KSBlbHNlIHJlYXNvbgogICAgICAgIGlmIHJlYXNvbiAhPSAnc3RvcCc6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcignU3VtbWFyeSBkaWQgbm90IGNvbXBsZXRlOyB0aGUgb3JpZ2luYWwgY29udGV4dCBpcyByZXRhaW5lZCcpCiAgICAgICAgc3VtbWFyeSA9IHJlc3VsdFsndGV4dCddLnNwbGl0KCc8L3RoaW5rPicpWy0xXQogICAgICAgIGZvciBlbmQgaW4gWyc8fGltX2VuZHw+JywgJzx8ZW5kb2Z0ZXh0fD4nLCAnW2VvcF0nXToKICAgICAgICAgICAgc3VtbWFyeSA9IHN1bW1hcnkucmVtb3Zlc3VmZml4KGVuZCkucnN0cmlwKCkKICAgICAgICBpZiBub3Qgc3VtbWFyeS5zdHJpcCgpOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoJ1N1bW1hcnkgaXMgZW1wdHk7IHRoZSBvcmlnaW5hbCBjb250ZXh0IGlzIHJldGFpbmVkJykKICAgICAgICBtZW1vcnkgPSBjbGllbnQuY29tcGFjdChwcmVmaXhfaWRzPXByZWZpeF9pZHMsIGhpc3RvcnlfaWRzPWhpc3RvcnlfaWRzLAogICAgICAgICAgICBzdW1tYXJ5X2lkcz1jb2RlYy5zdW1tYXJ5KHN1bW1hcnkpLCBwcmV2aW91cz1wcmV2aW91c1snaGFuZGxlJ10gaWYgcHJldmlvdXMgZWxzZSBOb25lLAogICAgICAgICAgICBicmFuY2hlcz1bYnJhbmNoWydoYW5kbGUnXSBmb3IgYnJhbmNoIGluIGJyYW5jaGVzXSkKICAgICAgICByZXR1cm4geydoYW5kbGUnOiBtZW1vcnlbJ2hhbmRsZSddLCAnc3VtbWFyeSc6IHN1bW1hcnkuc3RyaXAoKSwgJ3ByZWZpeCc6IHByZWZpeCwKICAgICAgICAgICAgICAgICd0b29sc19zaGEyNTYnOiBkaWdlc3QodG9vbHMpLCAncmVjZWlwdCc6IG1lbW9yeVsncmVjZWlwdCddfSwgcmVzdWx0CgogICAgZGVmIGhhbmRsZShzZWxmLCByZXF1ZXN0LCBoZWFkZXJzPU5vbmUsICosIGZvcmNlX2NvbXBhY3Q9RmFsc2UpOgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHJlcXVlc3QsIGRpY3QpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdSZXNwb25zZXMgcmVxdWVzdCBtdXN0IGJlIGFuIG9iamVjdCcpCiAgICAgICAgdGhyZWFkLCBsb2NrID0gc2VsZi5fdGhyZWFkKGhlYWRlcnMgb3Ige30pCiAgICAgICAgd2l0aCBsb2NrOgogICAgICAgICAgICBzdGF0ZSA9IHNlbGYuX2xvYWQodGhyZWFkKQogICAgICAgICAgICByZXF1ZXN0X2tleSA9IGRpZ2VzdCh7J3JlcXVlc3QnOiByZXF1ZXN0LCAnZm9yY2VfY29tcGFjdCc6IGZvcmNlX2NvbXBhY3R9KQogICAgICAgICAgICBpZiByZXF1ZXN0X2tleSBpbiBzdGF0ZVsncmVzcG9uc2VzJ106CiAgICAgICAgICAgICAgICByZXR1cm4gc3RhdGVbJ3Jlc3BvbnNlcyddW3JlcXVlc3Rfa2V5XQogICAgICAgICAgICBjb2RlYywgcHJlZml4LCBtZXNzYWdlcywgcHJldmlvdXMsIHJvdXRlcywgY29tcGFjdCwgdG9vbHMgPSBzZWxmLl9jb250ZXh0KHJlcXVlc3QsIHN0YXRlKQogICAgICAgICAgICB3aXRoIHNlbGYuY2xpZW50KCkgYXMgY2xpZW50OgogICAgICAgICAgICAgICAgYnJhbmNoZXMgPSBbXQogICAgICAgICAgICAgICAgaWYgdGhyZWFkID09IHNlbGYubWV0YVsncm9vdF90aHJlYWRfaWQnXSBhbmQgbm90IHNlbGYuZ2xtOgogICAgICAgICAgICAgICAgICAgIHdpdGggc2VsZi5fbG9jazoKICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGRyZW4gPSBkZWVwY29weShzZWxmLm1ldGFbJ3RocmVhZHMnXSkKICAgICAgICAgICAgICAgICAgICBmb3IgY2hpbGQgaW4gY2hpbGRyZW4udmFsdWVzKCk6CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBsZXRpb24gPSBjaGlsZC5nZXQoJ2NvbXBsZXRpb24nKQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoY2hpbGQuZ2V0KCdwYXJlbnQnKSA9PSB0aHJlYWQgYW5kIGNvbXBsZXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgY29tcGxldGlvblsnaGFuZGxlJ10gbm90IGluIHN0YXRlLmdldCgnZm9sZGVkJywgW10pKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyYW5jaGVzLmFwcGVuZChjb21wbGV0aW9uKQogICAgICAgICAgICAgICAgaWYgYnJhbmNoZXMgYW5kIG5vdCAoY29tcGFjdCBvciBmb3JjZV9jb21wYWN0KToKICAgICAgICAgICAgICAgICAgICBwcmV2aW91cywgXyA9IHNlbGYuX2NvbXBhY3QoY29kZWMsIHByZWZpeCwgbWVzc2FnZXMsIHByZXZpb3VzLCB0b29scywgY2xpZW50LCBicmFuY2hlcykKICAgICAgICAgICAgICAgICAgICBwcmV2aW91c1snaW5zdHJ1Y3Rpb25zJ10gPSByZXF1ZXN0LmdldCgnaW5zdHJ1Y3Rpb25zJykgb3IgJ1lvdSBhcmUgYSBjb2RpbmcgYXNzaXN0YW50LiBVc2UgdGhlIGF2YWlsYWJsZSB0b29scyB0byBjb21wbGV0ZSB0aGUgdXNlciB0YXNrLicKICAgICAgICAgICAgICAgICAgICBwcmV2aW91c1snd2lyZV9iYXNlJ10gPSBzZWxmLl93aXJlX2l0ZW1zKHJlcXVlc3QuZ2V0KCdpbnB1dCcsIFtdKSkKICAgICAgICAgICAgICAgICAgICBzdGF0ZVsnYXV0b19jaGVja3BvaW50J10gPSBwcmV2aW91cwogICAgICAgICAgICAgICAgICAgIHN0YXRlLnNldGRlZmF1bHQoJ2ZvbGRlZCcsIFtdKS5leHRlbmQoYlsnaGFuZGxlJ10gZm9yIGIgaW4gYnJhbmNoZXMpCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZXMgPSBbXQogICAgICAgICAgICAgICAgaWYgY29tcGFjdCBvciBmb3JjZV9jb21wYWN0OgogICAgICAgICAgICAgICAgICAgIGNoZWNrcG9pbnQsIGdlbmVyYXRlZCA9IHNlbGYuX2NvbXBhY3QoY29kZWMsIHByZWZpeCwgbWVzc2FnZXMsIHByZXZpb3VzLCB0b29scywgY2xpZW50LCBicmFuY2hlcykKICAgICAgICAgICAgICAgICAgICBjaGVja3BvaW50WydpbnN0cnVjdGlvbnMnXSA9IHJlcXVlc3QuZ2V0KCdpbnN0cnVjdGlvbnMnKSBvciAnWW91IGFyZSBhIGNvZGluZyBhc3Npc3RhbnQuIFVzZSB0aGUgYXZhaWxhYmxlIHRvb2xzIHRvIGNvbXBsZXRlIHRoZSB1c2VyIHRhc2suJwogICAgICAgICAgICAgICAgICAgIG1hcmtlciA9ICdyZW1vcnkudjEuJyArIGNoZWNrcG9pbnRbJ2hhbmRsZSddCiAgICAgICAgICAgICAgICAgICAgc3RhdGVbJ2NoZWNrcG9pbnRzJ11bbWFya2VyXSA9IGNoZWNrcG9pbnQKICAgICAgICAgICAgICAgICAgICBzdGF0ZS5wb3AoJ2F1dG9fY2hlY2twb2ludCcsIE5vbmUpCiAgICAgICAgICAgICAgICAgICAgc3RhdGUuc2V0ZGVmYXVsdCgnZm9sZGVkJywgW10pLmV4dGVuZChiWydoYW5kbGUnXSBmb3IgYiBpbiBicmFuY2hlcykKICAgICAgICAgICAgICAgICAgICBvdXRwdXQgPSBbeyd0eXBlJzogJ2NvbXBhY3Rpb24nLCAnaWQnOiAnY21wXycgKyB1dWlkLnV1aWQ0KCkuaGV4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2VuY3J5cHRlZF9jb250ZW50JzogbWFya2VyfV0KICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgcHJlZml4X2lkcywgdGFpbCA9IGNvZGVjLnNwbGl0KHByZWZpeCwgbWVzc2FnZXMsIGdlbmVyYXRpb249VHJ1ZSkKICAgICAgICAgICAgICAgICAgICBrd2FyZ3MgPSAoeydoYW5kbGUnOiBwcmV2aW91c1snaGFuZGxlJ10sICdjb250aW51YXRpb25faWRzJzogdGFpbH0gaWYgcHJldmlvdXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSB7J2lucHV0X2lkcyc6IHByZWZpeF9pZHMgKyB0YWlsfSkKICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZWQgPSBjbGllbnQuZ2VuZXJhdGUoKiprd2FyZ3MsIG1heF9uZXdfdG9rZW5zPXNlbGYubWF4X25ld190b2tlbnMsCiAgICAgICAgICAgICAgICAgICAgICAgIHNhbXBsaW5nPXsndGVtcGVyYXR1cmUnOiAwLjYsICd0b3BfcCc6IDAuOTUsICd0b3Bfayc6IDIwfSkKICAgICAgICAgICAgICAgICAgICByZWFzb24gPSBnZW5lcmF0ZWQuZ2V0KCdtZXRhX2luZm8nLCB7fSkuZ2V0KCdmaW5pc2hfcmVhc29uJykKICAgICAgICAgICAgICAgICAgICBraW5kID0gcmVhc29uLmdldCgndHlwZScpIGlmIGlzaW5zdGFuY2UocmVhc29uLCBkaWN0KSBlbHNlIHJlYXNvbgogICAgICAgICAgICAgICAgICAgIGlmIGtpbmQgbm90IGluIHsnc3RvcCcsICdsZW5ndGgnfToKICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCdTR0xhbmcgZ2VuZXJhdGlvbiBkaWQgbm90IGNvbXBsZXRlJykKICAgICAgICAgICAgICAgICAgICBvdXRwdXQgPSBwYXJzZV9vdXRwdXQoZ2VuZXJhdGVkWyd0ZXh0J10sIHJvdXRlcywgdGhpbmtpbmc9VHJ1ZSkKICAgICAgICAgICAgICAgICAgICBzdGF0ZVsnbGFzdF9pbnB1dCddID0gZGVlcGNvcHkocmVxdWVzdCkKICAgICAgICAgICAgICAgICAgICBzdGF0ZVsnbGFzdF9vdXRwdXQnXSA9IG91dHB1dAogICAgICAgICAgICAgICAgICAgICMgU2VhbCBhIGNvbXBsZXRlZCBjaGlsZCBiZWZvcmUgaXRzIGZpbmFsIGFuc3dlciByZWFjaGVzIHRoZQogICAgICAgICAgICAgICAgICAgICMgcGFyZW50LiBPbiB0aGUgbmV4dCBwYXJlbnQgcmVxdWVzdCBpdHMgbWVtb3J5IGlzIGZvbGRlZCBvbmNlLgogICAgICAgICAgICAgICAgICAgIGlmICh0aHJlYWQgIT0gc2VsZi5tZXRhWydyb290X3RocmVhZF9pZCddIGFuZCBub3Qgc2VsZi5nbG0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBhbnkoeC5nZXQoJ2NoYW5uZWwnKSA9PSAnZmluYWwnIGZvciB4IGluIG91dHB1dCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBub3QgYW55KHhbJ3R5cGUnXSBpbiB7J2Z1bmN0aW9uX2NhbGwnLCAnY3VzdG9tX3Rvb2xfY2FsbCd9IGZvciB4IGluIG91dHB1dCkpOgogICAgICAgICAgICAgICAgICAgICAgICBjb21wbGV0ZWQgPSBtZXNzYWdlcyArIG1lc3NhZ2VzX2Zyb21fd2lyZShvdXRwdXQpCiAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrcG9pbnQsIF8gPSBzZWxmLl9jb21wYWN0KGNvZGVjLCBwcmVmaXgsIGNvbXBsZXRlZCwgcHJldmlvdXMsIHRvb2xzLCBjbGllbnQpCiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlWydjb21wbGV0aW9uJ10gPSBjaGVja3BvaW50CiAgICAgICAgICAgIG1ldGEgPSBnZW5lcmF0ZWQuZ2V0KCdtZXRhX2luZm8nLCB7fSkKICAgICAgICAgICAgaW5wdXRfdG9rZW5zID0gbWV0YS5nZXQoJ3Byb21wdF90b2tlbnMnLCBtZXRhLmdldCgnaW5wdXRfdG9rZW5zJywgMCkpCiAgICAgICAgICAgIG91dHB1dF90b2tlbnMgPSBtZXRhLmdldCgnY29tcGxldGlvbl90b2tlbnMnLCBtZXRhLmdldCgnb3V0cHV0X3Rva2VucycsIDApKQogICAgICAgICAgICByZXNwb25zZSA9IHsnaWQnOiAncmVzcF8nICsgdXVpZC51dWlkNCgpLmhleCwgJ29iamVjdCc6CiAgICAgICAgICAgICAgICAncmVzcG9uc2UuY29tcGFjdGlvbicgaWYgZm9yY2VfY29tcGFjdCBlbHNlICdyZXNwb25zZScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCc6IGludCh0aW1lLnRpbWUoKSksICdzdGF0dXMnOiAnY29tcGxldGVkJywKICAgICAgICAgICAgICAgICdtb2RlbCc6IHJlcXVlc3QuZ2V0KCdtb2RlbCcsICdyZW1vcnknKSwgJ291dHB1dCc6IG91dHB1dCwKICAgICAgICAgICAgICAgICd1c2FnZSc6IHsnaW5wdXRfdG9rZW5zJzogaW5wdXRfdG9rZW5zLCAnb3V0cHV0X3Rva2Vucyc6IG91dHB1dF90b2tlbnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RvdGFsX3Rva2Vucyc6IGlucHV0X3Rva2VucyArIG91dHB1dF90b2tlbnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ2lucHV0X3Rva2Vuc19kZXRhaWxzJzogeydjYWNoZWRfdG9rZW5zJzogMH19fQogICAgICAgICAgICBzdGF0ZVsncmVzcG9uc2VzJ11bcmVxdWVzdF9rZXldID0gcmVzcG9uc2UKICAgICAgICAgICAgYXRvbWljX2pzb24oc2VsZi5fcGF0aCh0aHJlYWQpLCBzdGF0ZSkKICAgICAgICAgICAgd2l0aCBzZWxmLl9sb2NrOgogICAgICAgICAgICAgICAgc2VsZi5tZXRhWyd0aHJlYWRzJ11bdGhyZWFkXVsnbGFzdF9hY3Rpdml0eSddID0gdGltZS50aW1lKCkKICAgICAgICAgICAgICAgIGlmIHN0YXRlLmdldCgnY29tcGxldGlvbicpOgogICAgICAgICAgICAgICAgICAgIHNlbGYubWV0YVsndGhyZWFkcyddW3RocmVhZF1bJ2NvbXBsZXRpb24nXSA9IHN0YXRlWydjb21wbGV0aW9uJ10KICAgICAgICAgICAgICAgIGF0b21pY19qc29uKHNlbGYubWV0YV9wYXRoLCBzZWxmLm1ldGEpCiAgICAgICAgICAgIHJldHVybiByZXNwb25zZQoKICAgIGRlZiBjbG9zZShzZWxmKToKICAgICAgICB3aXRoIHNlbGYuX2xvY2s6CiAgICAgICAgICAgIHNlbGYuX2Nsb3NlZCA9IFRydWUKCgpkZWYgY3JlYXRlX2FwcChwcm92aWRlciwgKiwgdG9rZW4pOgogICAgaW1wb3J0IHNlY3JldHMKICAgIGZyb20gZmFzdGFwaSBpbXBvcnQgRmFzdEFQSSwgSFRUUEV4Y2VwdGlvbiwgUmVxdWVzdAogICAgZnJvbSBmYXN0YXBpLnJlc3BvbnNlcyBpbXBvcnQgSlNPTlJlc3BvbnNlLCBTdHJlYW1pbmdSZXNwb25zZQogICAgZnJvbSBzdGFybGV0dGUuY29uY3VycmVuY3kgaW1wb3J0IHJ1bl9pbl90aHJlYWRwb29sCiAgICBhcHAgPSBGYXN0QVBJKHRpdGxlPSdSZW1vcnkgQ29kZXggcHJvdmlkZXInKQoKICAgIEBhcHAubWlkZGxld2FyZSgnaHR0cCcpCiAgICBhc3luYyBkZWYgbG9jYWxfYXV0aChyZXF1ZXN0LCBjYWxsX25leHQpOgogICAgICAgIHN1cHBsaWVkID0gcmVxdWVzdC5oZWFkZXJzLmdldCgnYXV0aG9yaXphdGlvbicsICcnKQogICAgICAgIGlmIG5vdCBzZWNyZXRzLmNvbXBhcmVfZGlnZXN0KHN1cHBsaWVkLCAnQmVhcmVyICcgKyB0b2tlbik6CiAgICAgICAgICAgIHJldHVybiBKU09OUmVzcG9uc2UoeydlcnJvcic6IHsnbWVzc2FnZSc6ICdMb2NhbCBzZXNzaW9uIHRva2VuIHJlcXVpcmVkJ319LCBzdGF0dXNfY29kZT00MDEpCiAgICAgICAgcmV0dXJuIGF3YWl0IGNhbGxfbmV4dChyZXF1ZXN0KQoKICAgIEBhcHAuZ2V0KCcvaGVhbHRoJykKICAgIGRlZiBoZWFsdGgoKToKICAgICAgICByZXR1cm4geydzdGF0dXMnOiAnb2snfQoKICAgIEBhcHAuZ2V0KCcvdjEvbW9kZWxzJykKICAgIGRlZiBtb2RlbHMoKToKICAgICAgICByZXR1cm4geydkYXRhJzogW3snaWQnOiAncmVtb3J5JywgJ29iamVjdCc6ICdtb2RlbCd9XX0KCiAgICBAYXBwLnBvc3QoJy92MS9yZXNwb25zZXMnKQogICAgQGFwcC5wb3N0KCcvdjEvcmVzcG9uc2VzL2NvbXBhY3QnKQogICAgYXN5bmMgZGVmIHJlc3BvbnNlcyhyZXF1ZXN0OiBSZXF1ZXN0KToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGJvZHkgPSBhd2FpdCByZXF1ZXN0Lmpzb24oKQogICAgICAgICAgICByZXN1bHQgPSBhd2FpdCBydW5faW5fdGhyZWFkcG9vbChwcm92aWRlci5oYW5kbGUsIGJvZHksIGRpY3QocmVxdWVzdC5oZWFkZXJzKSwKICAgICAgICAgICAgICAgIGZvcmNlX2NvbXBhY3Q9cmVxdWVzdC51cmwucGF0aC5lbmRzd2l0aCgnL2NvbXBhY3QnKSkKICAgICAgICBleGNlcHQgKFZhbHVlRXJyb3IsIEtleUVycm9yLCBUeXBlRXJyb3IpIGFzIGV4YzoKICAgICAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDAsIHN0cihleGMpKSBmcm9tIGV4YwogICAgICAgIGV4Y2VwdCAoUnVudGltZUVycm9yLCBodHRweC5IVFRQRXJyb3IpIGFzIGV4YzoKICAgICAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig1MDIsIHN0cihleGMpKSBmcm9tIGV4YwogICAgICAgIGlmIGJvZHkuZ2V0KCdzdHJlYW0nKSBhbmQgbm90IHJlcXVlc3QudXJsLnBhdGguZW5kc3dpdGgoJy9jb21wYWN0Jyk6CiAgICAgICAgICAgIHJldHVybiBTdHJlYW1pbmdSZXNwb25zZShzc2UocmVzdWx0KSwgbWVkaWFfdHlwZT0ndGV4dC9ldmVudC1zdHJlYW0nKQogICAgICAgIHJldHVybiByZXN1bHQKICAgIHJldHVybiBhcHAK
+"""A local Responses provider for native Codex, backed by one Remory server."""
+from contextlib import contextmanager
+from copy import deepcopy
+import hashlib
+import json
+from pathlib import Path
+import threading
+import time
+import uuid
+
+import httpx
+
+from ..adapters.harness import ChatTemplate, GlmChatTemplate
+from ..client import Client
+from ..types import digest
+from .protocol import content_text, messages_from_wire, parse_output, sse, tools_from_wire
+
+
+class CodexChatTemplate(ChatTemplate):
+    """Render Qwen's system/tools prefix without retaining a synthetic user turn.
+
+    The upstream template requires a user even for a system-only prefix or a
+    post-compaction tool continuation. A temporary boundary is removed before
+    tokenization; it is never submitted to the model.
+    """
+    def summary(self, text):
+        # Quoted vision markers in code/tool output are ordinary text, not image
+        # attachments. Actual images use the separate _image request below.
+        for marker in ('<|image_pad|>', '<|video_pad|>', '<|vision_start|>', '<|vision_end|>'):
+            text = text.replace(marker, marker.replace('<', r'\u003c').replace('>', r'\u003e'))
+        return super().summary(text)
+
+    def split(self, prefix_messages, messages, *, generation=False):
+        boundary = {'role': 'user', 'content': 'REMORY_TEMPLATE_BOUNDARY'}
+        kwargs = dict(tools=self.tools, tokenize=False, **self.template_kwargs)
+        rendered_prefix = self.tokenizer.apply_chat_template(prefix_messages + [boundary],
+            add_generation_prompt=False, **kwargs)
+        marker = '<|im_start|>user\nREMORY_TEMPLATE_BOUNDARY<|im_end|>\n'
+        if not rendered_prefix.endswith(marker):
+            raise ValueError('Unsupported Qwen chat-template boundary')
+        prefix_text = rendered_prefix[:-len(marker)]
+        full = self.tokenizer.apply_chat_template(prefix_messages + [boundary] + messages,
+            add_generation_prompt=generation, **kwargs)
+        if not full.startswith(rendered_prefix):
+            raise ValueError('The native template changed its system/tools prefix')
+        prefix = self.summary(prefix_text)
+        full_ids = self.summary(prefix_text + full[len(rendered_prefix):])
+        if full_ids[:len(prefix)] != prefix:
+            raise ValueError('Tokenization changed the system/tools boundary')
+        return prefix, full_ids[len(prefix):]
+
+
+def atomic_json(path, value):
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True, mode=0o700)
+    temporary = path.with_name(path.name + '.' + uuid.uuid4().hex + '.tmp')
+    try:
+        with temporary.open('x') as stream:
+            temporary.chmod(0o600)
+            stream.write(json.dumps(value, ensure_ascii=False, indent=2) + '\n')
+            stream.flush()
+            import os
+            os.fsync(stream.fileno())
+        temporary.replace(path)
+    finally:
+        temporary.unlink(missing_ok=True)
+
+
+class Provider:
+    def __init__(self, url, info, tokenizer, directory, *, session_id,
+                 max_new_tokens=16384, transport=None):
+        self.url, self.info, self.tokenizer = url.rstrip('/'), info, tokenizer
+        self.directory = Path(directory)
+        self.directory.mkdir(parents=True, exist_ok=True, mode=0o700)
+        self.session_id, self.max_new_tokens = session_id, max_new_tokens
+        self.transport = transport
+        self.config = info['config']
+        self.glm = self.config.get('schema') == 'remory_glm53_local_evaluation_v1'
+        self._lock = threading.RLock()
+        self._locks = {}
+        self._closed = False
+        self.meta_path = self.directory / 'provider.json'
+        if self.meta_path.exists():
+            self.meta = json.loads(self.meta_path.read_text())
+            if self.meta['identity'] != info['identity']:
+                raise ValueError('Server model/checkpoint changed; start a new r-codex session')
+            if self.meta['session_id'] != session_id:
+                raise ValueError('Session identity changed')
+        else:
+            self.meta = {'identity': info['identity'], 'session_id': session_id,
+                         'root_thread_id': None, 'threads': {}}
+            atomic_json(self.meta_path, self.meta)
+
+    @contextmanager
+    def client(self):
+        with Client(self.url, session_id=self.session_id, timeout=1800,
+                    transport=self.transport, trust_env=False) as client:
+            yield client
+
+    def _thread(self, headers):
+        metadata = json.loads(headers.get('x-codex-turn-metadata', '{}'))
+        thread_id = headers.get('thread-id') or metadata.get('thread_id') or 'root'
+        if not isinstance(thread_id, str) or not 0 < len(thread_id) <= 128:
+            raise ValueError('Invalid Codex thread ID')
+        if metadata.get('thread_id', thread_id) != thread_id:
+            raise ValueError('Conflicting Codex thread IDs')
+        parent = metadata.get('parent_thread_id')
+        with self._lock:
+            if self._closed:
+                raise RuntimeError('Provider is closing')
+            if self.meta['root_thread_id'] is None:
+                if parent:
+                    raise ValueError('A parent session must be opened before a sub-agent')
+                self.meta['root_thread_id'] = thread_id
+            elif thread_id != self.meta['root_thread_id']:
+                known = self.meta['threads'].get(thread_id)
+                if not known and parent != self.meta['root_thread_id']:
+                    raise ValueError('Only direct children of this session are supported')
+            if thread_id not in self.meta['threads']:
+                self.meta['threads'][thread_id] = {'parent': parent}
+                atomic_json(self.meta_path, self.meta)
+            return thread_id, self._locks.setdefault(thread_id, threading.RLock())
+
+    def _path(self, thread):
+        return self.directory / ('thread-' + hashlib.sha256(thread.encode()).hexdigest() + '.json')
+
+    def _load(self, thread):
+        path = self._path(thread)
+        if path.exists():
+            return json.loads(path.read_text())
+        return {'checkpoints': {}, 'responses': {}, 'images': {}, 'folded': []}
+
+    @staticmethod
+    def _wire_items(items):
+        if isinstance(items, str):
+            return [{'role': 'user', 'content': items}]
+        return [{k: v for k, v in item.items() if k not in {'id', 'status'}}
+                for item in items if item.get('type') != 'compaction_trigger']
+
+    def _image(self, url, state):
+        if not isinstance(url, str) or not url.startswith(('data:image/', 'https://', 'http://')):
+            raise ValueError('Image input requires a data URL or HTTP image URL')
+        key = hashlib.sha256(url.encode()).hexdigest()
+        if key not in state['images']:
+            if self.glm:
+                raise ValueError('Image observations currently require the Qwen actor')
+            prompt = ('<|im_start|>user\n<|vision_start|><|image_pad|><|vision_end|>\n'
+                      'Describe this image for a coding agent. Include visible text, layout, '
+                      'errors, and details useful for debugging. Do not invent unseen content.'
+                      '<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n')
+            with httpx.Client(timeout=1800, transport=self.transport, trust_env=False) as http:
+                response = http.post(self.url + '/generate', json={'text': prompt,
+                    'image_data': [url], 'sampling_params': {'temperature': 0, 'max_new_tokens': 2048}})
+                response.raise_for_status()
+                result = response.json()
+            reason = result.get('meta_info', {}).get('finish_reason', {})
+            if isinstance(reason, dict) and reason.get('type') in {'abort', 'error'}:
+                raise RuntimeError('SGLang could not inspect the image')
+            text = result['text'].split('</think>')[-1].strip()
+            if not text:
+                raise RuntimeError('The model returned no image observation')
+            state['images'][key] = '[Image observation by the deployed Qwen model]\n' + text
+        return state['images'][key]
+
+    def _context(self, request, state):
+        items = request.get('input', [])
+        if isinstance(items, str):
+            items = [{'role': 'user', 'content': items}]
+        if not isinstance(items, list) or not all(isinstance(x, dict) for x in items):
+            raise ValueError('Responses input must be a list of items')
+        trigger = [i for i, x in enumerate(items) if x.get('type') == 'compaction_trigger']
+        if trigger and (trigger != [len(items) - 1] or set(items[-1]) != {'type'}):
+            raise ValueError('compaction_trigger must be the last item without a payload')
+        if trigger:
+            items = items[:-1]
+        complete_items = items
+        tools, routes = tools_from_wire(request.get('tools', []))
+        instructions = request.get('instructions') or 'You are a coding assistant. Use the available tools to complete the user task.'
+        leading = []
+        while items and items[0].get('role') in {'system', 'developer'}:
+            leading.append(content_text(items[0].get('content')))
+            items = items[1:]
+        prefix = [{'role': 'system', 'content': '\n\n'.join([instructions, *leading])}]
+        codec = (GlmChatTemplate(self.tokenizer, tools=tools) if self.glm else
+                 CodexChatTemplate(self.tokenizer, tools=tools, template_kwargs={
+                     'enable_thinking': True, 'preserve_thinking': True}))
+        indices = [i for i, x in enumerate(items) if x.get('type') == 'compaction']
+        previous = None
+        if indices:
+            index = indices[-1]
+            marker = items[index].get('encrypted_content', '')
+            if not isinstance(marker, str) or not marker.startswith('remory.v1.'):
+                raise ValueError('Foreign compaction checkpoint')
+            previous = state['checkpoints'].get(marker)
+            if previous is None:
+                raise ValueError('Unknown checkpoint for this thread; resume the original session')
+            if previous['tools_sha256'] != digest(tools) or (
+                    previous.get('instructions', instructions) != instructions):
+                raise ValueError('Instructions or tools changed after compact; start a new session')
+            if leading and previous['prefix'] != prefix:
+                raise ValueError('Developer instructions changed after compact; start a new session')
+            prefix = previous['prefix']
+            items = items[index + 1:]
+        automatic = state.get('auto_checkpoint')
+        if automatic:
+            base = automatic['wire_base']
+            if self._wire_items(complete_items[:len(base)]) == base:
+                if automatic['tools_sha256'] != digest(tools) or automatic['prefix'] != prefix:
+                    raise ValueError('Instructions or tools changed after sub-agent folding')
+                previous = automatic
+                items = complete_items[len(base):]
+        messages = messages_from_wire(items, image_reader=lambda url: self._image(url, state))
+        for message in messages:
+            if message['role'] == 'system':
+                message['role'] = 'user'
+                message['content'] = '[Developer instructions from the harness]\n' + message['content']
+        return codec, prefix, messages, previous, routes, bool(trigger), tools
+
+    def _compact(self, codec, prefix, messages, previous, tools, client, branches=()):
+        if not messages and previous is None:
+            raise ValueError('There is no history to compact')
+        prefix_ids, history_ids = codec.split(prefix, messages)
+        contract = self.config.get('summary_contract', {})
+        suffix = contract.get('generation_suffix_ids')
+        summary_messages = messages
+        if branches:
+            summary_messages = messages + [{'role': 'user', 'content':
+                '[Completed sub-agent results]\n' + '\n\n'.join(b['summary'] for b in branches)}]
+        if suffix:
+            _, summary_history = codec.split(prefix, summary_messages)
+            tail = summary_history + suffix
+        else:
+            _, tail = codec.split(prefix, summary_messages + [{'role': 'user', 'content':
+                'Write a concise checkpoint with the task, progress, constraints and next steps.'}],
+                generation=True)
+        kwargs = ({'handle': previous['handle'], 'continuation_ids': tail} if previous
+                  else {'input_ids': prefix_ids + tail})
+        sampling = {'temperature': 0}
+        if contract.get('output_schema'):
+            sampling['json_schema'] = json.dumps(contract['output_schema'])
+        result = client.generate(**kwargs,
+                                 max_new_tokens=min(contract.get('max_summary_tokens', 4096),
+                                                    self.max_new_tokens),
+                                 sampling=sampling)
+        reason = result.get('meta_info', {}).get('finish_reason')
+        reason = reason.get('type') if isinstance(reason, dict) else reason
+        if reason != 'stop':
+            raise RuntimeError('Summary did not complete; the original context is retained')
+        summary = result['text'].split('</think>')[-1]
+        for end in ['<|im_end|>', '<|endoftext|>', '[eop]']:
+            summary = summary.removesuffix(end).rstrip()
+        if not summary.strip():
+            raise RuntimeError('Summary is empty; the original context is retained')
+        memory = client.compact(prefix_ids=prefix_ids, history_ids=history_ids,
+            summary_ids=codec.summary(summary), previous=previous['handle'] if previous else None,
+            branches=[branch['handle'] for branch in branches])
+        return {'handle': memory['handle'], 'summary': summary.strip(), 'prefix': prefix,
+                'tools_sha256': digest(tools), 'receipt': memory['receipt']}, result
+
+    def handle(self, request, headers=None, *, force_compact=False):
+        if not isinstance(request, dict):
+            raise ValueError('Responses request must be an object')
+        thread, lock = self._thread(headers or {})
+        with lock:
+            state = self._load(thread)
+            request_key = digest({'request': request, 'force_compact': force_compact})
+            if request_key in state['responses']:
+                return state['responses'][request_key]
+            codec, prefix, messages, previous, routes, compact, tools = self._context(request, state)
+            with self.client() as client:
+                branches = []
+                if thread == self.meta['root_thread_id'] and not self.glm:
+                    with self._lock:
+                        children = deepcopy(self.meta['threads'])
+                    for child in children.values():
+                        completion = child.get('completion')
+                        if (child.get('parent') == thread and completion
+                                and completion['handle'] not in state.get('folded', [])):
+                            branches.append(completion)
+                if branches and not (compact or force_compact):
+                    previous, _ = self._compact(codec, prefix, messages, previous, tools, client, branches)
+                    previous['instructions'] = request.get('instructions') or 'You are a coding assistant. Use the available tools to complete the user task.'
+                    previous['wire_base'] = self._wire_items(request.get('input', []))
+                    state['auto_checkpoint'] = previous
+                    state.setdefault('folded', []).extend(b['handle'] for b in branches)
+                    messages = []
+                if compact or force_compact:
+                    checkpoint, generated = self._compact(codec, prefix, messages, previous, tools, client, branches)
+                    checkpoint['instructions'] = request.get('instructions') or 'You are a coding assistant. Use the available tools to complete the user task.'
+                    marker = 'remory.v1.' + checkpoint['handle']
+                    state['checkpoints'][marker] = checkpoint
+                    state.pop('auto_checkpoint', None)
+                    state.setdefault('folded', []).extend(b['handle'] for b in branches)
+                    output = [{'type': 'compaction', 'id': 'cmp_' + uuid.uuid4().hex,
+                               'encrypted_content': marker}]
+                else:
+                    prefix_ids, tail = codec.split(prefix, messages, generation=True)
+                    kwargs = ({'handle': previous['handle'], 'continuation_ids': tail} if previous
+                              else {'input_ids': prefix_ids + tail})
+                    generated = client.generate(**kwargs, max_new_tokens=self.max_new_tokens,
+                        sampling={'temperature': 0.6, 'top_p': 0.95, 'top_k': 20})
+                    reason = generated.get('meta_info', {}).get('finish_reason')
+                    kind = reason.get('type') if isinstance(reason, dict) else reason
+                    if kind not in {'stop', 'length'}:
+                        raise RuntimeError('SGLang generation did not complete')
+                    output = parse_output(generated['text'], routes, thinking=True)
+                    state['last_input'] = deepcopy(request)
+                    state['last_output'] = output
+                    # Seal a completed child before its final answer reaches the
+                    # parent. On the next parent request its memory is folded once.
+                    if (thread != self.meta['root_thread_id'] and not self.glm
+                            and any(x.get('channel') == 'final' for x in output)
+                            and not any(x['type'] in {'function_call', 'custom_tool_call'} for x in output)):
+                        completed = messages + messages_from_wire(output)
+                        checkpoint, _ = self._compact(codec, prefix, completed, previous, tools, client)
+                        state['completion'] = checkpoint
+            meta = generated.get('meta_info', {})
+            input_tokens = meta.get('prompt_tokens', meta.get('input_tokens', 0))
+            output_tokens = meta.get('completion_tokens', meta.get('output_tokens', 0))
+            response = {'id': 'resp_' + uuid.uuid4().hex, 'object':
+                'response.compaction' if force_compact else 'response',
+                'created_at': int(time.time()), 'status': 'completed',
+                'model': request.get('model', 'remory'), 'output': output,
+                'usage': {'input_tokens': input_tokens, 'output_tokens': output_tokens,
+                          'total_tokens': input_tokens + output_tokens,
+                          'input_tokens_details': {'cached_tokens': 0}}}
+            state['responses'][request_key] = response
+            atomic_json(self._path(thread), state)
+            with self._lock:
+                self.meta['threads'][thread]['last_activity'] = time.time()
+                if state.get('completion'):
+                    self.meta['threads'][thread]['completion'] = state['completion']
+                atomic_json(self.meta_path, self.meta)
+            return response
+
+    def close(self):
+        with self._lock:
+            self._closed = True
+
+
+def create_app(provider, *, token):
+    import secrets
+    from fastapi import FastAPI, HTTPException, Request
+    from fastapi.responses import JSONResponse, StreamingResponse
+    from starlette.concurrency import run_in_threadpool
+    app = FastAPI(title='Remory Codex provider')
+
+    @app.middleware('http')
+    async def local_auth(request, call_next):
+        supplied = request.headers.get('authorization', '')
+        if not secrets.compare_digest(supplied, 'Bearer ' + token):
+            return JSONResponse({'error': {'message': 'Local session token required'}}, status_code=401)
+        return await call_next(request)
+
+    @app.get('/health')
+    def health():
+        return {'status': 'ok'}
+
+    @app.get('/v1/models')
+    def models():
+        return {'data': [{'id': 'remory', 'object': 'model'}]}
+
+    @app.post('/v1/responses')
+    @app.post('/v1/responses/compact')
+    async def responses(request: Request):
+        try:
+            body = await request.json()
+            result = await run_in_threadpool(provider.handle, body, dict(request.headers),
+                force_compact=request.url.path.endswith('/compact'))
+        except (ValueError, KeyError, TypeError) as exc:
+            raise HTTPException(400, str(exc)) from exc
+        except (RuntimeError, httpx.HTTPError) as exc:
+            raise HTTPException(502, str(exc)) from exc
+        if body.get('stream') and not request.url.path.endswith('/compact'):
+            return StreamingResponse(sse(result), media_type='text/event-stream')
+        return result
+    return app

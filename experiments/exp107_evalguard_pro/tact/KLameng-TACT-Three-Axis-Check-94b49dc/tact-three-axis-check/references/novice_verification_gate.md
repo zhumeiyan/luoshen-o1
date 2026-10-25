@@ -1,1 +1,64 @@
-IyBUQUNUIG5vdmljZSDpqozor4HotKjph4/pl6jvvIhOb3ZpY2UgVmVyaWZpY2F0aW9uIEdhdGXvvIkKCj4g54mI5pys77yadjEuMC4wIMK3IOe7keWumu+8mmNvb3JkaW5hdGVfZGF0YS5qc29uIHYyLjcuOCDCtyDogZTliqjvvJpgdmVyaWZpY2F0aW9uLWNoYWluLm1kYO+8iOivgeaNrumTvu+8iQo+IOWumuS9je+8mue7mSLpqozor4Hot6/lvoQv6K+B5o2u6ZO+5aSf5LiN5aSf5Y+v5aSN5qC4Iueri+S4gOmBkyoq6Ieq5Yqo44CB5peg5Lq65Li65qCH5rOoKirnmoTotKjph4/pl6jigJTigJTlgJ/pibQgRmFpdGhMZW5zIOeUqCBub3ZpY2Ug57qn5qih5Z6L5Yik5patIuino+mHiuiDveWQpuiuqeaWsOaJi+W+l+WHuuato+ehrue7k+iuuiLnmoTmgJ3ot6/jgIIKPiDmnKzmlofku7bmmK8qKuacuuWItuinhOiMgyoq77yM5paw5aKe77yM5LiN5pS55YqoIGNvb3JkaW5hdGVfZGF0YS5qc29uIOeahOWdkOagh+ivreS5ie+8jOS4jeW8leWFpemcgOS6uuW3peagh+azqOiAheeahOmqjOivgeOAggoKIyMg5LiA44CB5Li65LuA5LmI5YGa77yI5YCf6Ym0IEZhaXRoTGVucyDnmoQgbm92aWNlIOWIpOaWre+8iQoKRmFpdGhMZW5zIOeahOWFs+mUruiuvuiuoe+8mueUn+aIkOaooeWei+i+k+WHuioq5Y+v6Kej6YeK6K+B5o2u6ZO+KirlkI7vvIznlKjkuIDkuKoqKm5vdmljZSDnuqfmqKHlnosqKu+8iExsYW1hLTMuMS04Qi1JbnN0cnVjdO+8ieWPquWHreino+mHiuWOu+WkjeeOsOe7k+iuuuKAlOKAlOiLpSBub3ZpY2Ug6IO95Yet6Kej6YeK5b6X5Ye65q2j56Gu6aKE5rWL77yM6K+05piO6Kej6YeK6LSo6YeP5ZCI5qC877yb5Y+N5LmL6Kej6YeK5LiN6Laz44CC6L+Z5bCx5pivIueUqOaWsOaJi+ajgOmqjOino+mHiui0qOmHjyLvvIzlrozlhajkuI3pnIDopoHkurrlt6XmoIfms6jjgIIKClRBQ1Qg55qE5a+55bqU55eb54K577ya6aqM6K+B6Lev5b6E77yIcGFpcnMg56ys5LiJ5q6177yJ5YaZ5b6X5YaN57uG77yM5Lmf6Zq+5Lul5Yik5patIuWug+WIsOW6leWkn+S4jeWkn+iuqeS4gOS4quayoeivu+i/h+WIpOaNrueahOS6uuWkjeeOsOato+ehruWdkOaghyLjgILnlKggbm92aWNlIOWkjeeOsOeOh+adpemHj+W6pu+8jOaYr+acgOebtOaOpeOAgeS4lOWPr+iHquWKqOWMlu+8iOaooeWei+iHquivhO+8ieeahOaWueW8j+KAlOKAlOS4jumhueebriLlj6rlgZrkuI3kvp3otZbkurrlt6XmoIfms6jnmoToh6rliqjljJbpg6jliIYi55qE6L6555WM5LiA6Ie044CCCgojIyDkuozjgIHotKjph4/pl6jlrprkuYkKCioq6LSo6YeP6ZeoKirvvJrmiorjgIzlnZDmoIcgKyDor4Hmja7pk77vvIhFMeKAk0Uz77yJ44CN5Lqk57uZ5LiA5LiqKirmnKrmjqXop6bor6XlnZDmoIfliKTmja7nmoQgbm92aWNlIOS7o+eQhioq77yM5Y+q57uZ5Yik5pat6ZSa54K544CB5LiN57uZ5Y6f5aeLIGRlc2PvvIznnIvlroPog73lkKbmjqjlh7rkuI4gZ29sZGVuIOS4gOiHtOeahOWdkOaghy/nu5PorrrjgIIqKm5vdmljZSDlpI3njrDlkb3kuK3njocg4omlIOmYiOWAvOWNs+mAmui/hyoq77yM5ZCm5YiZ6K+B5o2u6ZO+5Zue54KJ6KGl5by644CCCgotICoq5a+56LGhKirvvJpgY29vcmRpbmF0ZV9kYXRhLmpzb25gIOS4reS7u+aEj+WdkOagh+eahOmqjOivgei3r+W+hO+8iOaIliBgdmVyaWZpY2F0aW9uLWNoYWluLm1kYCDnmoTor4Hmja7pk77vvInvvJsKLSAqKuWIpOaNrioq77yabm92aWNlIOWHreivgeaNrumTvuWkjeeOsOWHuueahOWdkOagh++8jOS4jiBnb2xkZW7vvIhjYWxpYnJhdGlvbl9jYXNlcy5qc29u77yJ5q+U5a+577ybCi0gKirpu5jorqTpmIjlgLzlu7rorq4qKu+8mioq4omlIDkwJSoq77yI5ZCMIEZhaXRoTGVucyDnmoTlj6/op6Pph4rmgKfogIPmoLjmoIflh4bph4/nuqfvvJvpobnnm67lj6/lm6DlnLrmma/kuIrosIPvvIzkuI3lu7rorq7kvY7kuo4gODUl77yJ44CCCgojIyDkuInjgIHotKjph4/pl6jljY/orq7vvIjkuIDmrKHliKTlrprvvIkKCjEuICoq6YCJ5Y+W5qC35pysKirvvJrlj5bmn5DlnZDmoIfnmoTkuIDnu4Tpqozor4Hot6/lvoQv6K+B5o2u6ZO+ICsg5a+55bqU55qE5Yik5Yir55So5L6L77yI5LyY5YWI5Y+W6IeqIGBjYWxpYnJhdGlvbl9jYXNlcy5qc29uYO+8jHN5bnRoZXRpYyDkuqblj6/nlKjkuo7mraTvvIzlm6Dlj6rmtYvkuIDoh7TmgKfkuI3lrp7or4HvvInjgIIKMi4gKirmnoTpgKAgbm92aWNlIOi+k+WFpSoq77ya5Y+q57uZ44CM546w6LGh5o+P6L+wICsg6K+B5o2u6ZO+IEUx4oCTRTPvvIjljrvlk6rmn6Uv5p+l5LuA5LmIL+WRveS4reWIpOaNru+8ieOAjeS4juOAjOivpeWdkOagh+aJgOWxniBML00vUCDovbTnmoTlgJnpgInnoIHmuIXljZXjgI3vvIwqKuS4jee7mSoq5Z2Q5qCHIGRlc2MvcGFpcnMg5Y6f5paH44CB5LiN57uZIGdvbGRlbuOAggozLiAqKm5vdmljZSDku6PnkIbov5DooYwqKu+8mueUqOS4gOS4quacquWcqOacrOasoeS7u+WKoeS4reaOpeinpuivpeWIpOaNrueahOaooeWei++8iOS7u+aEjyBMTE0g5oiW5pys5Zyw5bCP5qih5Z6L5Z2H5Y+v77yJ54us56uL6LeR5LiA6YGN77yM6L6T5Ye65a6D6K6k5Li65ZG95Lit55qE5Z2Q5qCH56CB44CCCjQuICoq5q+U5a+56K6h5YiGKirvvJrlr7nmr4/kuKrmoLfmnKzvvIxub3ZpY2Ug6L6T5Ye65LiOIGdvbGRlbiDnmoTlnZDmoIfnoIHkuIDoh7TorrAgMSDliIbvvIhNL1Ag5Y+M5oyC5oyJIuWRveS4reWNs+S4gOiHtCLorqHvvJtnb2xkZW4g55WZ56m66L206Lez6L+H5LiN5Yik77yJ44CCCjUuICoq5Yik5a6aKirvvJrlkb3kuK3njocgPSDkuIDoh7TmoLfmnKzmlbAgLyDlj6/liKTmoLfmnKzmlbDjgILiiaUg6ZiI5YC8IOKGkiBQQVNT77yb5ZCm5YiZIOKGkiDlrprkvY3lpLHotKXmoLfmnKzvvIzlm57ngonooaXlvLogRTMg5Yik5o2u6ZSa54K55oiWIEU0IOWkjeaguOi3r+W+hO+8jOmHjei3keOAggoKIyMg5Zub44CB5LiO6K+B5o2u6ZO+55qE6IGU5YqoCgotIGB2ZXJpZmljYXRpb24tY2hhaW4ubWRgIOeahCBFM++8iOWRveS4reWIpOaNrumUmueCue+8ieaYryBub3ZpY2Ug5Yik5pat55qE5qC45b+D6L6T5YWl4oCU4oCU6ZSa54K56LaK5Y+v5Yik5a6a77yIIuWNoOavlOKJpVglIiLlh7rnjrDmn5Dkuovku7bluo/liJci77yJ77yMbm92aWNlIOi2iuWuueaYk+WkjeeOsO+8mwotIOi0qOmHj+mXqCBGQUlMIOaXtu+8jOaMieivgeaNrumTvuWbm+imgee0oOiviuaWre+8mioqRTEg5LiN5Y+v5a6a5L2NIC8gRTIg5LiN5Y+v5aSN546wIC8gRTMg5Yik5o2u5qih57OKKiog4oaSIOihpeW8uuWvueW6lOimgee0oOWQjumHjei3ke+8jOebtOWIsCBQQVNT77ybCi0g6LSo6YeP6Zeo6YCa6L+H5ZCO77yM6K+l6K+B5o2u6ZO+5omN5Y+v5L2c5Li65ZCO57utIHJhdGlmeSDlgJnpgInnmoQi5Y+v5aSN5qC46Lev5b6EIu+8iOS9hiBzeW50aGV0aWMg5LuN5LiN55So5LqOIHJhdGlmee+8jOecn+WunuahiOS+i+aJjeWPr+KAlOKAlOingSBDT05UUklCVVRJTkcubWTvvInjgIIKCiMjIOS6lOOAgeiEmuacrOmqqOaetu+8iOWPr+iQveWcsOeahOiHquWKqOWMlu+8jOS+m+WunueOsOWPguiAg++8iQoK5Lul5LiL5Lyq5Luj56CB5o+P6L+w5LiA5Liq5pyA5bCP5Y+v6L+Q6KGM55qE6LSo6YeP6Zeo77yb5a6e546w5pe25o6l5YWl5Lu75LiAIE9wZW5BSSDlhbzlrrkgTExNIOaOpeWPo+WNs+WPr++8jOS4jeS+nei1luS6uuW3peagh+azqOOAggoKYGBgCuWvuSBjb29yZGluYXRlX2RhdGEuanNvbiDkuK3nm67moIflnZDmoIc6CiAg5Y+W6K+l5Z2Q5qCH5ZCEIHBhaXJzIOeahOesrOS4ieautemqjOivgei3r+W+hCDihpIg57uE6KOF5Li6IGV2aWRlbmNlX2NoYWluCiAg5Y+WIGNhbGlicmF0aW9uX2Nhc2VzLmpzb24g5Lit5byV55So6K+l5Z2Q5qCH55qE55So5L6L77yIc3ludGhldGljIOWNs+WPr++8ieS4uuagt+acrOmbhgogIOWvueavj+S4quagt+acrDoKICAgIOi+k+WFpSA9ICLnjrDosaE6IHtwaGVub21lbm9ufVxu5YCZ6YCJ56CBOiB76K+l6L205omA5pyJ56CB5riF5Y2VfVxu5Y+q5L6d5o2u5LiL5YiX6K+B5o2u6ZO+5Yik5a6a5ZG95Lit56CBOlxue2V2aWRlbmNlX2NoYWlufSIKICAgIOi+k+WHuiA9IG5vdmljZV9sbG0oaW5wdXQpICAgIyDku7vkuIDmnKrmjqXop6bliKTmja7nmoTmqKHlnosKICAgIHNjb3JlICs9IChub3JtYWxpemUobm92aWNlX291dHB1dCkgPT0gZ29sZGVuIOivpei9tOeggSkgPyAxIDogMAogIOWRveS4reeOhyA9IHNjb3JlIC8gbGVuKOagt+acrCkKICDoi6Ug5ZG95Lit546HID49IDAuOTA6IFBBU1PvvJvlkKbliJk6IOWIl+WHuuWksei0peagt+acrO+8jOaPkOekuuihpeW8uiBFMy9FNO+8jOmHjei3kQpgYGAKCj4g5aSH5rOo77yabm92aWNlIOaooeWei+WPr+WkjeeUqOS7u+aEj+acrOWcsC/lnKjnur8gTExN77yb6LSo6YeP6Zeo5pivKirmqKHlnovoh6ror4QqKu+8jOaXoOS6uuS4uuagh+azqOiAhe+8jOespuWQiOmhueebriLpqozor4HkuqTnlLHnpL7ljLov6Ieq5Yqo5YyWIueahOi+ueeVjOOAggoKIyMg5YWt44CB6YCC55So5Zy65pmvCgoxLiAqKuagoeWHhumbhue7tOaKpCoq77ya5paw5aKeL+S/ruiuoiBzeW50aGV0aWMg55So5L6L5ZCO77yM55So6LSo6YeP6Zeo56Gu6K6k5YW2IGdvbGRlbiDlr7nlupTnmoTpqozor4Hot6/lvoQi5aSf5Y+v5aSN5qC4Iu+8jOmYsuWIpOWIq+atp+S5ie+8mwoyLiAqKlNLSUxMLm1kIOaOqui+nuaUtuaVmyoq77ya5p+Q5Z2Q5qCH5ZG95Lit546H5oyB57ut5YGP5L2O5pe277yM55So6LSo6YeP6Zeo5a6a5L2N5pivIuivgeaNrumTvuS4jeWPr+WkjeaguCLov5jmmK8iU0tJTEwg5byV5a+86Zeu6aKYIu+8mwozLiAqKnJhdGlmeSDliY3miorlhbMqKu+8muecn+WunuahiOS+i+i/m+WFpSByYXRpZnkg5YmN77yM5YWI56Gu6K6k5YW25a+55bqU5Z2Q5qCH55qE6K+B5o2u6ZO+5Y+v6KKrIG5vdmljZSDlpI3njrDvvIjnnJ/lrp7moYjkvovmiY3lj68gcmF0aWZ577yMc3ludGhldGljIOS4jeeUqOS6jiByYXRpZnnvvInjgIIKCiMjIOS4g+OAgee6quW+i+S4jui+ueeVjAoKLSAqKuS4jemAoOeggSoq77ya6LSo6YeP6Zeo5Y+q5Yik6K+B5o2u6ZO+6LSo6YeP77yM5LiN5paw5aKeL+S/ruaUueS7u+S9leWdkOagh+egge+8mwotICoq5LiN5L6d6LWW5Lq65bel5qCH5rOoKirvvJrlhajnqIvmqKHlnovoh6ror4Qv6Ieq5Yqo5YyW77yM5peg55yf5Lq66aqM6K+B6ICF77ybzrov54us56uL5Zue5rWL55WZ57uZ56S+5Yy677yIQ09OVFJJQlVUSU5HLm1k77yJ77ybCi0gKirkuI3mlLnlnZDmoIfor63kuYkqKu+8mui0qOmHj+mXqOS4jemHjeWGmSBjb29yZGluYXRlX2RhdGEg5Yik5o2u77yb5LiO5Y6f5paH5Yay56qB5Lul5Y6f5paH5Li65YeG77ybCi0gKirpmIjlgLzmmK/lu7rorq7pnZ7lvLrliLYqKu+8mum7mOiupCDiiaU5MCXvvIzlj6/lm6Dpobnnm67lnLrmma/kuIrosIPvvJvkuI3lm6Dlkb3kuK3njofkvY7pmLvmraLmioDog73kvb/nlKjvvIjlkIzmoKHlh4bpm4blj6PlvoTvvIzmmK/or4rmlq3kv6Hlj7fpnZ7pl6jnpoHvvInjgIIK
+# TACT novice 验证质量门（Novice Verification Gate）
+
+> 版本：v1.0.0 · 绑定：coordinate_data.json v2.7.8 · 联动：`verification-chain.md`（证据链）
+> 定位：给"验证路径/证据链够不够可复核"立一道**自动、无人为标注**的质量门——借鉴 FaithLens 用 novice 级模型判断"解释能否让新手得出正确结论"的思路。
+> 本文件是**机制规范**，新增，不改动 coordinate_data.json 的坐标语义，不引入需人工标注者的验证。
+
+## 一、为什么做（借鉴 FaithLens 的 novice 判断）
+
+FaithLens 的关键设计：生成模型输出**可解释证据链**后，用一个**novice 级模型**（Llama-3.1-8B-Instruct）只凭解释去复现结论——若 novice 能凭解释得出正确预测，说明解释质量合格；反之解释不足。这就是"用新手检验解释质量"，完全不需要人工标注。
+
+TACT 的对应痛点：验证路径（pairs 第三段）写得再细，也难以判断"它到底够不够让一个没读过判据的人复现正确坐标"。用 novice 复现率来量度，是最直接、且可自动化（模型自评）的方式——与项目"只做不依赖人工标注的自动化部分"的边界一致。
+
+## 二、质量门定义
+
+**质量门**：把「坐标 + 证据链（E1–E3）」交给一个**未接触该坐标判据的 novice 代理**，只给判断锚点、不给原始 desc，看它能否推出与 golden 一致的坐标/结论。**novice 复现命中率 ≥ 阈值即通过**，否则证据链回炉补强。
+
+- **对象**：`coordinate_data.json` 中任意坐标的验证路径（或 `verification-chain.md` 的证据链）；
+- **判据**：novice 凭证据链复现出的坐标，与 golden（calibration_cases.json）比对；
+- **默认阈值建议**：**≥ 90%**（同 FaithLens 的可解释性考核标准量级；项目可因场景上调，不建议低于 85%）。
+
+## 三、质量门协议（一次判定）
+
+1. **选取样本**：取某坐标的一组验证路径/证据链 + 对应的判别用例（优先取自 `calibration_cases.json`，synthetic 亦可用于此，因只测一致性不实证）。
+2. **构造 novice 输入**：只给「现象描述 + 证据链 E1–E3（去哪查/查什么/命中判据）」与「该坐标所属 L/M/P 轴的候选码清单」，**不给**坐标 desc/pairs 原文、不给 golden。
+3. **novice 代理运行**：用一个未在本次任务中接触该判据的模型（任意 LLM 或本地小模型均可）独立跑一遍，输出它认为命中的坐标码。
+4. **比对计分**：对每个样本，novice 输出与 golden 的坐标码一致记 1 分（M/P 双挂按"命中即一致"计；golden 留空轴跳过不判）。
+5. **判定**：命中率 = 一致样本数 / 可判样本数。≥ 阈值 → PASS；否则 → 定位失败样本，回炉补强 E3 判据锚点或 E4 复核路径，重跑。
+
+## 四、与证据链的联动
+
+- `verification-chain.md` 的 E3（命中判据锚点）是 novice 判断的核心输入——锚点越可判定（"占比≥X%""出现某事件序列"），novice 越容易复现；
+- 质量门 FAIL 时，按证据链四要素诊断：**E1 不可定位 / E2 不可复现 / E3 判据模糊** → 补强对应要素后重跑，直到 PASS；
+- 质量门通过后，该证据链才可作为后续 ratify 候选的"可复核路径"（但 synthetic 仍不用于 ratify，真实案例才可——见 CONTRIBUTING.md）。
+
+## 五、脚本骨架（可落地的自动化，供实现参考）
+
+以下伪代码描述一个最小可运行的质量门；实现时接入任一 OpenAI 兼容 LLM 接口即可，不依赖人工标注。
+
+```
+对 coordinate_data.json 中目标坐标:
+  取该坐标各 pairs 的第三段验证路径 → 组装为 evidence_chain
+  取 calibration_cases.json 中引用该坐标的用例（synthetic 即可）为样本集
+  对每个样本:
+    输入 = "现象: {phenomenon}\n候选码: {该轴所有码清单}\n只依据下列证据链判定命中码:\n{evidence_chain}"
+    输出 = novice_llm(input)   # 任一未接触判据的模型
+    score += (normalize(novice_output) == golden 该轴码) ? 1 : 0
+  命中率 = score / len(样本)
+  若 命中率 >= 0.90: PASS；否则: 列出失败样本，提示补强 E3/E4，重跑
+```
+
+> 备注：novice 模型可复用任意本地/在线 LLM；质量门是**模型自评**，无人为标注者，符合项目"验证交由社区/自动化"的边界。
+
+## 六、适用场景
+
+1. **校准集维护**：新增/修订 synthetic 用例后，用质量门确认其 golden 对应的验证路径"够可复核"，防判别歧义；
+2. **SKILL.md 措辞收敛**：某坐标命中率持续偏低时，用质量门定位是"证据链不可复核"还是"SKILL 引导问题"；
+3. **ratify 前把关**：真实案例进入 ratify 前，先确认其对应坐标的证据链可被 novice 复现（真实案例才可 ratify，synthetic 不用于 ratify）。
+
+## 七、纪律与边界
+
+- **不造码**：质量门只判证据链质量，不新增/修改任何坐标码；
+- **不依赖人工标注**：全程模型自评/自动化，无真人验证者；κ/独立回测留给社区（CONTRIBUTING.md）；
+- **不改坐标语义**：质量门不重写 coordinate_data 判据；与原文冲突以原文为准；
+- **阈值是建议非强制**：默认 ≥90%，可因项目场景上调；不因命中率低阻止技能使用（同校准集口径，是诊断信号非门禁）。

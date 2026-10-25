@@ -1,1 +1,356 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSAucmVwb3NpdG9yeV9zY2hlbWEgaW1wb3J0ICgKICAgIEFueSwKICAgIFNlcXVlbmNlLAogICAgX2pzb25fb2JqZWN0LAogICAgc3FsaXRlMywKKQoKCmRlZiBfbG90X2FjY291bnQocm93OiBkaWN0W3N0ciwgQW55XSkgLT4gc3RyOgogICAgIiIiQSBsb3Qgcm93J3MgYWNjb3VudDogdGhlIG5lc3RlZCBgYGNvbnRyYWN0X2tleWBgIGZpcnN0LCB0aGUgZmxhdCBzaWJsaW5nIGFmdGVyLgoKICAgIGBgZmllbGRzX2pzb25gYCBub3cgY2FycmllcyB0aGUgY29udHJhY3QgdW5kZXIgYGBjb250cmFjdF9rZXlgYCAodGhlIGZsYXQKICAgIGBgYWNjb3VudGBgIHNpYmxpbmcgaXMgcmV0aXJlZCksIGJ1dCB0aGUgcmVwb3NpdG9yeSBoYW5kcyBiYWNrIHRoZSBzdG9yZWQKICAgIHBheWxvYWQgdW50b3VjaGVkIChgYHNxbGl0ZV9yb3dfY29kZWNgYCBoZWFscyBubyBjb2x1bW4pLCBzbyBhIHJvdyB3cml0dGVuCiAgICBiZWZvcmUgdGhlIHNoYXBlIHN3aXRjaCBhbnN3ZXJzIG9ubHkgZnJvbSBpdHMgZmxhdCBgYGFjY291bnRgYCAtLSBkcm9wcGluZwogICAgc3VjaCBhIHJvdyBoZXJlIHdvdWxkIHJlYWQgYXMgInRoaXMgYWNjb3VudCBob2xkcyBub3RoaW5nIi4gU2FtZSBkdWFsIHJlYWQKICAgIGFzIGBgcmVhZF9vbmx5X2V2aWRlbmNlLl9sb3RfYWNjb3VudGBgIGFuZAogICAgYGBvcmRlcl9mZWVfbWlncmF0aW9uLl9sb3RfYWNjb3VudGBgOyBgYGxvdF9yZXNvbHZlci5sb3RfY29udHJhY3RfdmFsdWVgYAogICAgd291bGQgYmUgdGhlIHNoYXJlZCBzcGVsbGluZywgYnV0IHRoaXMgbW9kdWxlIGlzIGEgbWl4aW4gb2YgdGhlIHZlcnkgY2xhc3MKICAgIGBgbG90X3Jlc29sdmVyYGAgaW1wb3J0cyBhdCBtb2R1bGUgbGV2ZWwuCiAgICAiIiIKICAgIGZpZWxkcyA9IHJvdy5nZXQoImZpZWxkcyIpCiAgICBmaWVsZHMgPSBmaWVsZHMgaWYgaXNpbnN0YW5jZShmaWVsZHMsIGRpY3QpIGVsc2Uge30KICAgIGNvbnRyYWN0X2tleSA9IGZpZWxkcy5nZXQoImNvbnRyYWN0X2tleSIpCiAgICBpZiBpc2luc3RhbmNlKGNvbnRyYWN0X2tleSwgZGljdCk6CiAgICAgICAgYWNjb3VudCA9IGNvbnRyYWN0X2tleS5nZXQoImFjY291bnQiKQogICAgICAgIGlmIGFjY291bnQgbm90IGluIChOb25lLCAiIik6CiAgICAgICAgICAgIHJldHVybiBzdHIoYWNjb3VudCkKICAgIGFjY291bnQgPSBmaWVsZHMuZ2V0KCJhY2NvdW50IikKICAgIHJldHVybiAiIiBpZiBhY2NvdW50IGluIChOb25lLCAiIikgZWxzZSBzdHIoYWNjb3VudCkKCgpjbGFzcyBEZWNpc2lvblJlYWRSZXBvc2l0b3J5TWl4aW46CiAgICBkZWYgYXNzZXJ0X2ZvcmVpZ25fa2V5c19jbGVhbihzZWxmLCAqLCBjb25uOiBzcWxpdGUzLkNvbm5lY3Rpb24gfCBOb25lID0gTm9uZSkgLT4gTm9uZToKICAgICAgICB3aXRoIHNlbGYuX29wdGlvbmFsX2Nvbm4oY29ubikgYXMgYWN0aXZlX2Nvbm46CiAgICAgICAgICAgIHZpb2xhdGlvbnMgPSBhY3RpdmVfY29ubi5leGVjdXRlKCJQUkFHTUEgZm9yZWlnbl9rZXlfY2hlY2siKS5mZXRjaGFsbCgpCiAgICAgICAgaWYgdmlvbGF0aW9uczoKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGYiU1FMaXRlIGZvcmVpZ24ga2V5IGNoZWNrIGZhaWxlZDoge2xlbih2aW9sYXRpb25zKX0gdmlvbGF0aW9uKHMpIikKCiAgICBkZWYgX3JlYWRfYWNjb3VudF9kZWNpc2lvbl9zdGF0ZV9yb3dzKAogICAgICAgIHNlbGYsCiAgICAgICAgKiwKICAgICAgICBhY2NvdW50OiBzdHIsCiAgICAgICAgY29ubjogc3FsaXRlMy5Db25uZWN0aW9uLAogICAgICAgIHNoYXJlZF90cmFkZV9ldmVudHM6IFNlcXVlbmNlW2RpY3Rbc3RyLCBBbnldXSB8IE5vbmUgPSBOb25lLAogICAgICAgIHNoYXJlZF9wb3NpdGlvbl9sb3RzOiBTZXF1ZW5jZVtkaWN0W3N0ciwgQW55XV0gfCBOb25lID0gTm9uZSwKICAgICAgICBzaGFyZWRfYXNzaWduZWRfc3RvY2tfZXZlbnRzOiBTZXF1ZW5jZVtkaWN0W3N0ciwgQW55XV0gfCBOb25lID0gTm9uZSwKICAgICAgICBzaGFyZWRfd2hlZWxfZXZlbnRzOiBTZXF1ZW5jZVtkaWN0W3N0ciwgQW55XV0gfCBOb25lID0gTm9uZSwKICAgICkgLT4gZGljdFtzdHIsIEFueV06CiAgICAgICAgYWNjb3VudF92YWx1ZSA9IHN0cihhY2NvdW50IG9yICIiKS5zdHJpcCgpLmxvd2VyKCkKICAgICAgICBpZiBub3QgYWNjb3VudF92YWx1ZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiZGVjaXNpb24gc3RhdGUgc25hcHNob3QgcmVxdWlyZXMgYWNjb3VudCIpCiAgICAgICAgZXZlbnRzID0gKAogICAgICAgICAgICBsaXN0KHNoYXJlZF90cmFkZV9ldmVudHMpCiAgICAgICAgICAgIGlmIHNoYXJlZF90cmFkZV9ldmVudHMgaXMgbm90IE5vbmUKICAgICAgICAgICAgZWxzZSBzZWxmLmxpc3RfdHJhZGVfZXZlbnRzKGNvbm49Y29ubikKICAgICAgICApCiAgICAgICAgbG90cyA9ICgKICAgICAgICAgICAgbGlzdChzaGFyZWRfcG9zaXRpb25fbG90cykKICAgICAgICAgICAgaWYgc2hhcmVkX3Bvc2l0aW9uX2xvdHMgaXMgbm90IE5vbmUKICAgICAgICAgICAgZWxzZSBzZWxmLmxpc3RfcG9zaXRpb25fbG90cyhjb25uPWNvbm4pCiAgICAgICAgKQogICAgICAgIGNhc2VzID0gWwogICAgICAgICAgICBfanNvbl9vYmplY3Qocm93WyJyYXdfanNvbiJdKQogICAgICAgICAgICBmb3Igcm93IGluIGNvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgICAgICIiIgogICAgICAgICAgICAgICAgU0VMRUNUIHJhd19qc29uCiAgICAgICAgICAgICAgICBGUk9NIHRyYWRlX2xpZmVjeWNsZV9jYXNlcwogICAgICAgICAgICAgICAgV0hFUkUgYWNjb3VudCA9ID8KICAgICAgICAgICAgICAgIE9SREVSIEJZIHVwZGF0ZWRfYXRfbXMgREVTQywgY2FzZV9pZCBERVNDCiAgICAgICAgICAgICAgICAiIiIsCiAgICAgICAgICAgICAgICAoYWNjb3VudF92YWx1ZSwpLAogICAgICAgICAgICApLmZldGNoYWxsKCkKICAgICAgICBdCiAgICAgICAgZXZpZGVuY2U6IGxpc3RbZGljdFtzdHIsIEFueV1dID0gW10KICAgICAgICBldmlkZW5jZV9yZWNlaXZlZF9hdF9tc19ieV9pZDogZGljdFtzdHIsIGludF0gPSB7fQogICAgICAgIGZvciByb3cgaW4gY29ubi5leGVjdXRlKAogICAgICAgICAgICAiIiIKICAgICAgICAgICAgU0VMRUNUIGxpZmVjeWNsZV9ldmlkZW5jZS5yYXdfanNvbiwKICAgICAgICAgICAgICAgICAgIGxpZmVjeWNsZV9ldmlkZW5jZS5jcmVhdGVkX2F0X21zCiAgICAgICAgICAgIEZST00gdHJhZGVfbGlmZWN5Y2xlX2V2aWRlbmNlIEFTIGxpZmVjeWNsZV9ldmlkZW5jZQogICAgICAgICAgICBKT0lOIHRyYWRlX2xpZmVjeWNsZV9jYXNlcyBBUyBsaWZlY3ljbGVfY2FzZQogICAgICAgICAgICAgIE9OIGxpZmVjeWNsZV9jYXNlLmNhc2VfaWQgPSBsaWZlY3ljbGVfZXZpZGVuY2UuY2FzZV9pZAogICAgICAgICAgICBXSEVSRSBsaWZlY3ljbGVfY2FzZS5hY2NvdW50ID0gPwogICAgICAgICAgICBPUkRFUiBCWSBsaWZlY3ljbGVfZXZpZGVuY2UuY3JlYXRlZF9hdF9tcyBBU0MsCiAgICAgICAgICAgICAgICAgICAgIGxpZmVjeWNsZV9ldmlkZW5jZS5ldmlkZW5jZV9pZCBBU0MKICAgICAgICAgICAgIiIiLAogICAgICAgICAgICAoYWNjb3VudF92YWx1ZSwpLAogICAgICAgICkuZmV0Y2hhbGwoKToKICAgICAgICAgICAgcGF5bG9hZCA9IF9qc29uX29iamVjdChyb3dbInJhd19qc29uIl0pCiAgICAgICAgICAgIGV2aWRlbmNlLmFwcGVuZChwYXlsb2FkKQogICAgICAgICAgICBldmlkZW5jZV9pZCA9IHN0cihwYXlsb2FkLmdldCgiZXZpZGVuY2VfaWQiKSBvciAiIikuc3RyaXAoKQogICAgICAgICAgICBpZiBldmlkZW5jZV9pZDoKICAgICAgICAgICAgICAgIGV2aWRlbmNlX3JlY2VpdmVkX2F0X21zX2J5X2lkW2V2aWRlbmNlX2lkXSA9IGludCgKICAgICAgICAgICAgICAgICAgICByb3dbImNyZWF0ZWRfYXRfbXMiXQogICAgICAgICAgICAgICAgKQogICAgICAgIGFsbG9jYXRpb25zID0gWwogICAgICAgICAgICBfanNvbl9vYmplY3Qocm93WyJyYXdfanNvbiJdKQogICAgICAgICAgICBmb3Igcm93IGluIGNvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgICAgICIiIgogICAgICAgICAgICAgICAgU0VMRUNUIGFsbG9jYXRpb24ucmF3X2pzb24KICAgICAgICAgICAgICAgIEZST00gdHJhZGVfbGlmZWN5Y2xlX2FsbG9jYXRpb25zIEFTIGFsbG9jYXRpb24KICAgICAgICAgICAgICAgIEpPSU4gdHJhZGVfbGlmZWN5Y2xlX2Nhc2VzIEFTIGxpZmVjeWNsZV9jYXNlCiAgICAgICAgICAgICAgICAgIE9OIGxpZmVjeWNsZV9jYXNlLmNhc2VfaWQgPSBhbGxvY2F0aW9uLmNhc2VfaWQKICAgICAgICAgICAgICAgIFdIRVJFIGxpZmVjeWNsZV9jYXNlLmFjY291bnQgPSA/CiAgICAgICAgICAgICAgICBPUkRFUiBCWSBhbGxvY2F0aW9uLmNyZWF0ZWRfYXRfbXMgQVNDLAogICAgICAgICAgICAgICAgICAgICAgICAgYWxsb2NhdGlvbi5hbGxvY2F0aW9uX2lkIEFTQwogICAgICAgICAgICAgICAgIiIiLAogICAgICAgICAgICAgICAgKGFjY291bnRfdmFsdWUsKSwKICAgICAgICAgICAgKS5mZXRjaGFsbCgpCiAgICAgICAgXQogICAgICAgIHNvdXJjZV9jbGFpbXMgPSBbCiAgICAgICAgICAgIF9qc29uX29iamVjdChyb3dbInJhd19qc29uIl0pCiAgICAgICAgICAgIGZvciByb3cgaW4gY29ubi5leGVjdXRlKAogICAgICAgICAgICAgICAgIiIiCiAgICAgICAgICAgICAgICBTRUxFQ1Qgc291cmNlX2NsYWltLnJhd19qc29uCiAgICAgICAgICAgICAgICBGUk9NIHRyYWRlX2xpZmVjeWNsZV9zb3VyY2VfY29uc3VtcHRpb25zIEFTIHNvdXJjZV9jbGFpbQogICAgICAgICAgICAgICAgSk9JTiB0cmFkZV9saWZlY3ljbGVfY2FzZXMgQVMgbGlmZWN5Y2xlX2Nhc2UKICAgICAgICAgICAgICAgICAgT04gbGlmZWN5Y2xlX2Nhc2UuY2FzZV9pZCA9IHNvdXJjZV9jbGFpbS5jYXNlX2lkCiAgICAgICAgICAgICAgICBXSEVSRSBsaWZlY3ljbGVfY2FzZS5hY2NvdW50ID0gPwogICAgICAgICAgICAgICAgT1JERVIgQlkgc291cmNlX2NsYWltLmNyZWF0ZWRfYXRfbXMgQVNDLAogICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlX2NsYWltLnNvdXJjZV9rZXkgQVNDCiAgICAgICAgICAgICAgICAiIiIsCiAgICAgICAgICAgICAgICAoYWNjb3VudF92YWx1ZSwpLAogICAgICAgICAgICApLmZldGNoYWxsKCkKICAgICAgICBdCiAgICAgICAgdGltaW5nX3BvbGljaWVzID0gWwogICAgICAgICAgICBfanNvbl9vYmplY3Qocm93WyJyYXdfanNvbiJdKQogICAgICAgICAgICBmb3Igcm93IGluIGNvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgICAgICIiIgogICAgICAgICAgICAgICAgU0VMRUNUIHRpbWluZy5yYXdfanNvbgogICAgICAgICAgICAgICAgRlJPTSB0cmFkZV9saWZlY3ljbGVfdGltaW5nX3BvbGljaWVzIEFTIHRpbWluZwogICAgICAgICAgICAgICAgSk9JTiB0cmFkZV9saWZlY3ljbGVfY2FzZXMgQVMgbGlmZWN5Y2xlX2Nhc2UKICAgICAgICAgICAgICAgICAgT04gbGlmZWN5Y2xlX2Nhc2UuY2FzZV9pZCA9IHRpbWluZy5jYXNlX2lkCiAgICAgICAgICAgICAgICBXSEVSRSBsaWZlY3ljbGVfY2FzZS5hY2NvdW50ID0gPwogICAgICAgICAgICAgICAgT1JERVIgQlkgdGltaW5nLmNhc2VfaWQgQVNDCiAgICAgICAgICAgICAgICAiIiIsCiAgICAgICAgICAgICAgICAoYWNjb3VudF92YWx1ZSwpLAogICAgICAgICAgICApLmZldGNoYWxsKCkKICAgICAgICBdCiAgICAgICAgZXZpZGVuY2VfcmV2aXNpb25zID0gewogICAgICAgICAgICBzdHIocm93WyJjYXNlX2lkIl0pOiB7CiAgICAgICAgICAgICAgICAicmV2aXNpb24iOiBpbnQocm93WyJyZXZpc2lvbiJdKSwKICAgICAgICAgICAgICAgICJldmlkZW5jZV9jb3VudCI6ICgKICAgICAgICAgICAgICAgICAgICBpbnQocm93WyJldmlkZW5jZV9jb3VudCJdKQogICAgICAgICAgICAgICAgICAgIGlmIHJvd1siZXZpZGVuY2VfY291bnQiXSBpcyBub3QgTm9uZQogICAgICAgICAgICAgICAgICAgIGVsc2UgTm9uZQogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgfQogICAgICAgICAgICBmb3Igcm93IGluIGNvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgICAgICIiIgogICAgICAgICAgICAgICAgU0VMRUNUIHJldmlzaW9uLmNhc2VfaWQsIHJldmlzaW9uLnJldmlzaW9uLAogICAgICAgICAgICAgICAgICAgICAgIHJldmlzaW9uLmV2aWRlbmNlX2NvdW50CiAgICAgICAgICAgICAgICBGUk9NIHRyYWRlX2xpZmVjeWNsZV9ldmlkZW5jZV9yZXZpc2lvbnMgQVMgcmV2aXNpb24KICAgICAgICAgICAgICAgIEpPSU4gdHJhZGVfbGlmZWN5Y2xlX2Nhc2VzIEFTIGxpZmVjeWNsZV9jYXNlCiAgICAgICAgICAgICAgICAgIE9OIGxpZmVjeWNsZV9jYXNlLmNhc2VfaWQgPSByZXZpc2lvbi5jYXNlX2lkCiAgICAgICAgICAgICAgICBXSEVSRSBsaWZlY3ljbGVfY2FzZS5hY2NvdW50ID0gPwogICAgICAgICAgICAgICAgT1JERVIgQlkgcmV2aXNpb24uY2FzZV9pZCBBU0MKICAgICAgICAgICAgICAgICIiIiwKICAgICAgICAgICAgICAgIChhY2NvdW50X3ZhbHVlLCksCiAgICAgICAgICAgICkuZmV0Y2hhbGwoKQogICAgICAgIH0KICAgICAgICBhZG1pc3Npb25faGVhZHMgPSB7CiAgICAgICAgICAgIHN0cihyb3dbImNhc2VfaWQiXSk6IGRpY3Qocm93KQogICAgICAgICAgICBmb3Igcm93IGluIGNvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgICAgICIiIgogICAgICAgICAgICAgICAgU0VMRUNUIGFkbWlzc2lvbi5jYXNlX2lkLCBhZG1pc3Npb24uc2VtYW50aWNfc2NoZW1hLAogICAgICAgICAgICAgICAgICAgICAgIGFkbWlzc2lvbi5zZW1hbnRpY19maW5nZXJwcmludCwgYWRtaXNzaW9uLmV2aWRlbmNlX2lkLAogICAgICAgICAgICAgICAgICAgICAgIGFkbWlzc2lvbi5ldmlkZW5jZV9jcmVhdGVkX2F0X21zLAogICAgICAgICAgICAgICAgICAgICAgIGFkbWlzc2lvbi51cGRhdGVkX2F0X21zCiAgICAgICAgICAgICAgICBGUk9NIHRyYWRlX2xpZmVjeWNsZV9zZXR0bGVtZW50X2FkbWlzc2lvbl9oZWFkcyBBUyBhZG1pc3Npb24KICAgICAgICAgICAgICAgIEpPSU4gdHJhZGVfbGlmZWN5Y2xlX2Nhc2VzIEFTIGxpZmVjeWNsZV9jYXNlCiAgICAgICAgICAgICAgICAgIE9OIGxpZmVjeWNsZV9jYXNlLmNhc2VfaWQgPSBhZG1pc3Npb24uY2FzZV9pZAogICAgICAgICAgICAgICAgV0hFUkUgbGlmZWN5Y2xlX2Nhc2UuYWNjb3VudCA9ID8KICAgICAgICAgICAgICAgIE9SREVSIEJZIGFkbWlzc2lvbi5jYXNlX2lkIEFTQwogICAgICAgICAgICAgICAgIiIiLAogICAgICAgICAgICAgICAgKGFjY291bnRfdmFsdWUsKSwKICAgICAgICAgICAgKS5mZXRjaGFsbCgpCiAgICAgICAgfQogICAgICAgIGFzc2lnbmVkX3N0b2NrX2V2ZW50cyA9ICgKICAgICAgICAgICAgbGlzdChzaGFyZWRfYXNzaWduZWRfc3RvY2tfZXZlbnRzKQogICAgICAgICAgICBpZiBzaGFyZWRfYXNzaWduZWRfc3RvY2tfZXZlbnRzIGlzIG5vdCBOb25lCiAgICAgICAgICAgIGVsc2UgWwogICAgICAgICAgICAgICAgX2pzb25fb2JqZWN0KHJvd1siZXZlbnRfanNvbiJdKQogICAgICAgICAgICAgICAgZm9yIHJvdyBpbiBjb25uLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAgICAgIiIiCiAgICAgICAgICAgICAgICAgICAgU0VMRUNUIGV2ZW50X2pzb24KICAgICAgICAgICAgICAgICAgICBGUk9NIGFzc2lnbmVkX3N0b2NrX2V2ZW50cwogICAgICAgICAgICAgICAgICAgIE9SREVSIEJZIHRyYWRlX3RpbWVfbXMgQVNDLCBzdG9ja19ldmVudF9pZCBBU0MKICAgICAgICAgICAgICAgICAgICAiIiIKICAgICAgICAgICAgICAgICkuZmV0Y2hhbGwoKQogICAgICAgICAgICBdCiAgICAgICAgKQogICAgICAgIHdoZWVsX2V2ZW50cyA9ICgKICAgICAgICAgICAgbGlzdChzaGFyZWRfd2hlZWxfZXZlbnRzKQogICAgICAgICAgICBpZiBzaGFyZWRfd2hlZWxfZXZlbnRzIGlzIG5vdCBOb25lCiAgICAgICAgICAgIGVsc2Ugc2VsZi5saXN0X3doZWVsX2V2ZW50cyhjb25uPWNvbm4pCiAgICAgICAgKQogICAgICAgIGlkZW50aXRpZXMgPSBzZWxmLmxpc3Rfc3RyYXRlZ3lfZ3JvdXBfaWRlbnRpdGllcygKICAgICAgICAgICAgYWNjb3VudD1hY2NvdW50X3ZhbHVlLAogICAgICAgICAgICBjb25uPWNvbm4sCiAgICAgICAgKQogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJhY2NvdW50IjogYWNjb3VudF92YWx1ZSwKICAgICAgICAgICAgInRyYWRlX2V2ZW50cyI6IGV2ZW50cywKICAgICAgICAgICAgInN0b3JlZF9wb3NpdGlvbl9sb3RzIjogbG90cywKICAgICAgICAgICAgImFjY291bnRfcG9zaXRpb25fbG90cyI6IFsKICAgICAgICAgICAgICAgIHJvdwogICAgICAgICAgICAgICAgZm9yIHJvdyBpbiBsb3RzCiAgICAgICAgICAgICAgICBpZiBzdHIoCiAgICAgICAgICAgICAgICAgICAgX2xvdF9hY2NvdW50KHJvdykgb3IgIiIKICAgICAgICAgICAgICAgICkuc3RyaXAoKS5sb3dlcigpCiAgICAgICAgICAgICAgICA9PSBhY2NvdW50X3ZhbHVlCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJhY2NvdW50X2xpZmVjeWNsZV9jYXNlcyI6IGNhc2VzLAogICAgICAgICAgICAiYWNjb3VudF9saWZlY3ljbGVfZXZpZGVuY2UiOiBldmlkZW5jZSwKICAgICAgICAgICAgImFjY291bnRfbGlmZWN5Y2xlX2V2aWRlbmNlX3JlY2VpdmVkX2F0X21zX2J5X2lkIjogKAogICAgICAgICAgICAgICAgZXZpZGVuY2VfcmVjZWl2ZWRfYXRfbXNfYnlfaWQKICAgICAgICAgICAgKSwKICAgICAgICAgICAgImFjY291bnRfbGlmZWN5Y2xlX2FsbG9jYXRpb25zIjogYWxsb2NhdGlvbnMsCiAgICAgICAgICAgICJhY2NvdW50X2xpZmVjeWNsZV9zb3VyY2VfY29uc3VtcHRpb25zIjogc291cmNlX2NsYWltcywKICAgICAgICAgICAgImFjY291bnRfbGlmZWN5Y2xlX3RpbWluZ19wb2xpY2llcyI6IHRpbWluZ19wb2xpY2llcywKICAgICAgICAgICAgImFjY291bnRfbGlmZWN5Y2xlX2V2aWRlbmNlX3JldmlzaW9ucyI6IGV2aWRlbmNlX3JldmlzaW9ucywKICAgICAgICAgICAgImFjY291bnRfbGlmZWN5Y2xlX3NldHRsZW1lbnRfYWRtaXNzaW9uX2hlYWRzIjogYWRtaXNzaW9uX2hlYWRzLAogICAgICAgICAgICAiYWNjb3VudF9hc3NpZ25lZF9zdG9ja19ldmVudHMiOiBbCiAgICAgICAgICAgICAgICByb3cKICAgICAgICAgICAgICAgIGZvciByb3cgaW4gYXNzaWduZWRfc3RvY2tfZXZlbnRzCiAgICAgICAgICAgICAgICBpZiBzdHIoCiAgICAgICAgICAgICAgICAgICAgcm93LmdldCgiYWNjb3VudCIpCiAgICAgICAgICAgICAgICAgICAgb3IgKHJvdy5nZXQoInJhd19wYXlsb2FkIikgb3Ige30pLmdldCgiYWNjb3VudCIpCiAgICAgICAgICAgICAgICAgICAgb3IgIiIKICAgICAgICAgICAgICAgICkuc3RyaXAoKS5sb3dlcigpCiAgICAgICAgICAgICAgICA9PSBhY2NvdW50X3ZhbHVlCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJhY2NvdW50X3doZWVsX2V2ZW50cyI6IFsKICAgICAgICAgICAgICAgIHJvdwogICAgICAgICAgICAgICAgZm9yIHJvdyBpbiB3aGVlbF9ldmVudHMKICAgICAgICAgICAgICAgIGlmIHN0cihyb3cuZ2V0KCJhY2NvdW50Iikgb3IgIiIpLnN0cmlwKCkubG93ZXIoKSA9PSBhY2NvdW50X3ZhbHVlCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJhY2NvdW50X2NvbWJvX2lkZW50aXRpZXMiOiBpZGVudGl0aWVzLAogICAgICAgIH0KCiAgICBkZWYgcmVhZF9saWZlY3ljbGVfYWNjb3VudF9yb3dzKAogICAgICAgIHNlbGYsCiAgICAgICAgKiwKICAgICAgICBhY2NvdW50OiBzdHIsCiAgICAgICAgY29ubjogc3FsaXRlMy5Db25uZWN0aW9uIHwgTm9uZSA9IE5vbmUsCiAgICApIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgICAgIGFjY291bnRfdmFsdWUgPSBzdHIoYWNjb3VudCBvciAiIikuc3RyaXAoKS5sb3dlcigpCiAgICAgICAgaWYgbm90IGFjY291bnRfdmFsdWU6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImxpZmVjeWNsZSBhY2NvdW50IHJlYWRlciByZXF1aXJlcyBhY2NvdW50IikKICAgICAgICBpZiBjb25uIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fcmVhZF9hY2NvdW50X2RlY2lzaW9uX3N0YXRlX3Jvd3MoCiAgICAgICAgICAgICAgICBhY2NvdW50PWFjY291bnRfdmFsdWUsCiAgICAgICAgICAgICAgICBjb25uPWNvbm4sCiAgICAgICAgICAgICkKICAgICAgICBhY3RpdmVfY29ubiA9IHNlbGYuX2Nvbm5lY3QoKQogICAgICAgIHRyeToKICAgICAgICAgICAgYWN0aXZlX2Nvbm4uZXhlY3V0ZSgiQkVHSU4iKQogICAgICAgICAgICByb3dzID0gc2VsZi5fcmVhZF9hY2NvdW50X2RlY2lzaW9uX3N0YXRlX3Jvd3MoCiAgICAgICAgICAgICAgICBhY2NvdW50PWFjY291bnRfdmFsdWUsCiAgICAgICAgICAgICAgICBjb25uPWFjdGl2ZV9jb25uLAogICAgICAgICAgICApCiAgICAgICAgICAgIGFjdGl2ZV9jb25uLmNvbW1pdCgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgYWN0aXZlX2Nvbm4ucm9sbGJhY2soKQogICAgICAgICAgICByYWlzZQogICAgICAgIGZpbmFsbHk6CiAgICAgICAgICAgIGFjdGl2ZV9jb25uLmNsb3NlKCkKICAgICAgICByZXR1cm4gcm93cwoKICAgIGRlZiByZWFkX2xpZmVjeWNsZV9jYXNlX3Jvd3MoCiAgICAgICAgc2VsZiwKICAgICAgICAqLAogICAgICAgIGNhc2VfaWQ6IHN0ciwKICAgICkgLT4gZGljdFtzdHIsIEFueV06CiAgICAgICAgY2FzZV92YWx1ZSA9IHN0cihjYXNlX2lkIG9yICIiKS5zdHJpcCgpCiAgICAgICAgaWYgbm90IGNhc2VfdmFsdWU6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImxpZmVjeWNsZSBjYXNlIHJlYWRlciByZXF1aXJlcyBjYXNlX2lkIikKICAgICAgICBjb25uID0gc2VsZi5fY29ubmVjdCgpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBjb25uLmV4ZWN1dGUoIkJFR0lOIikKICAgICAgICAgICAgbGlmZWN5Y2xlX2Nhc2UgPSBzZWxmLmdldF90cmFkZV9saWZlY3ljbGVfY2FzZSgKICAgICAgICAgICAgICAgIGNhc2VfdmFsdWUsCiAgICAgICAgICAgICAgICBjb25uPWNvbm4sCiAgICAgICAgICAgICkKICAgICAgICAgICAgaWYgbGlmZWN5Y2xlX2Nhc2UgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJsaWZlY3ljbGUgY2FzZSBub3QgZm91bmQ6IHtjYXNlX3ZhbHVlfSIpCiAgICAgICAgICAgIHJvd3MgPSBzZWxmLl9yZWFkX2FjY291bnRfZGVjaXNpb25fc3RhdGVfcm93cygKICAgICAgICAgICAgICAgIGFjY291bnQ9c3RyKGxpZmVjeWNsZV9jYXNlLmdldCgiYWNjb3VudCIpIG9yICIiKSwKICAgICAgICAgICAgICAgIGNvbm49Y29ubiwKICAgICAgICAgICAgKQogICAgICAgICAgICByb3dzWyJyZXF1ZXN0ZWRfbGlmZWN5Y2xlX2Nhc2VfaWQiXSA9IGNhc2VfdmFsdWUKICAgICAgICAgICAgY29ubi5jb21taXQoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIGNvbm4ucm9sbGJhY2soKQogICAgICAgICAgICByYWlzZQogICAgICAgIGZpbmFsbHk6CiAgICAgICAgICAgIGNvbm4uY2xvc2UoKQogICAgICAgIHJldHVybiByb3dzCgogICAgZGVmIHJlYWRfZGVjaXNpb25fc3RhdGVfcm93cyhzZWxmLCAqLCBhY2NvdW50OiBzdHIpIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgICAgIHJldHVybiBzZWxmLnJlYWRfbGlmZWN5Y2xlX2FjY291bnRfcm93cyhhY2NvdW50PWFjY291bnQpCgogICAgZGVmIHJlYWRfZGVjaXNpb25fc3RhdGVfcm93c19tYW55KAogICAgICAgIHNlbGYsCiAgICAgICAgKiwKICAgICAgICBhY2NvdW50czogU2VxdWVuY2Vbc3RyXSwKICAgICkgLT4gZGljdFtzdHIsIGRpY3Rbc3RyLCBBbnldXToKICAgICAgICAiIiJSZWFkIG11bHRpcGxlIGFjY291bnQgZGVjaXNpb24gc3RhdGVzIGZyb20gb25lIFNRTGl0ZSBzbmFwc2hvdC4iIiIKCiAgICAgICAgYWNjb3VudF92YWx1ZXMgPSBzb3J0ZWQoCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN0cihhY2NvdW50IG9yICIiKS5zdHJpcCgpLmxvd2VyKCkKICAgICAgICAgICAgICAgIGZvciBhY2NvdW50IGluIGFjY291bnRzCiAgICAgICAgICAgICAgICBpZiBzdHIoYWNjb3VudCBvciAiIikuc3RyaXAoKQogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIGlmIG5vdCBhY2NvdW50X3ZhbHVlczoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiZGVjaXNpb24gc3RhdGUgYmF0Y2ggcmVxdWlyZXMgYWNjb3VudHMiKQogICAgICAgIGNvbm4gPSBzZWxmLl9jb25uZWN0KCkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGNvbm4uZXhlY3V0ZSgiQkVHSU4iKQogICAgICAgICAgICBldmVudHMgPSBzZWxmLmxpc3RfdHJhZGVfZXZlbnRzKGNvbm49Y29ubikKICAgICAgICAgICAgbG90cyA9IHNlbGYubGlzdF9wb3NpdGlvbl9sb3RzKGNvbm49Y29ubikKICAgICAgICAgICAgYXNzaWduZWRfc3RvY2tfZXZlbnRzID0gWwogICAgICAgICAgICAgICAgX2pzb25fb2JqZWN0KHJvd1siZXZlbnRfanNvbiJdKQogICAgICAgICAgICAgICAgZm9yIHJvdyBpbiBjb25uLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAgICAgIiIiCiAgICAgICAgICAgICAgICAgICAgU0VMRUNUIGV2ZW50X2pzb24KICAgICAgICAgICAgICAgICAgICBGUk9NIGFzc2lnbmVkX3N0b2NrX2V2ZW50cwogICAgICAgICAgICAgICAgICAgIE9SREVSIEJZIHRyYWRlX3RpbWVfbXMgQVNDLCBzdG9ja19ldmVudF9pZCBBU0MKICAgICAgICAgICAgICAgICAgICAiIiIKICAgICAgICAgICAgICAgICkuZmV0Y2hhbGwoKQogICAgICAgICAgICBdCiAgICAgICAgICAgIHdoZWVsX2V2ZW50cyA9IHNlbGYubGlzdF93aGVlbF9ldmVudHMoY29ubj1jb25uKQogICAgICAgICAgICByb3dzID0gewogICAgICAgICAgICAgICAgYWNjb3VudDogc2VsZi5fcmVhZF9hY2NvdW50X2RlY2lzaW9uX3N0YXRlX3Jvd3MoCiAgICAgICAgICAgICAgICAgICAgYWNjb3VudD1hY2NvdW50LAogICAgICAgICAgICAgICAgICAgIGNvbm49Y29ubiwKICAgICAgICAgICAgICAgICAgICBzaGFyZWRfdHJhZGVfZXZlbnRzPWV2ZW50cywKICAgICAgICAgICAgICAgICAgICBzaGFyZWRfcG9zaXRpb25fbG90cz1sb3RzLAogICAgICAgICAgICAgICAgICAgIHNoYXJlZF9hc3NpZ25lZF9zdG9ja19ldmVudHM9YXNzaWduZWRfc3RvY2tfZXZlbnRzLAogICAgICAgICAgICAgICAgICAgIHNoYXJlZF93aGVlbF9ldmVudHM9d2hlZWxfZXZlbnRzLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgZm9yIGFjY291bnQgaW4gYWNjb3VudF92YWx1ZXMKICAgICAgICAgICAgfQogICAgICAgICAgICBjb25uLmNvbW1pdCgpCiAgICAgICAgICAgIHJldHVybiByb3dzCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgY29ubi5yb2xsYmFjaygpCiAgICAgICAgICAgIHJhaXNlCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgY29ubi5jbG9zZSgpCg==
+from __future__ import annotations
+
+from .repository_schema import (
+    Any,
+    Sequence,
+    _json_object,
+    sqlite3,
+)
+
+
+def _lot_account(row: dict[str, Any]) -> str:
+    """A lot row's account: the nested ``contract_key`` first, the flat sibling after.
+
+    ``fields_json`` now carries the contract under ``contract_key`` (the flat
+    ``account`` sibling is retired), but the repository hands back the stored
+    payload untouched (``sqlite_row_codec`` heals no column), so a row written
+    before the shape switch answers only from its flat ``account`` -- dropping
+    such a row here would read as "this account holds nothing". Same dual read
+    as ``read_only_evidence._lot_account`` and
+    ``order_fee_migration._lot_account``; ``lot_resolver.lot_contract_value``
+    would be the shared spelling, but this module is a mixin of the very class
+    ``lot_resolver`` imports at module level.
+    """
+    fields = row.get("fields")
+    fields = fields if isinstance(fields, dict) else {}
+    contract_key = fields.get("contract_key")
+    if isinstance(contract_key, dict):
+        account = contract_key.get("account")
+        if account not in (None, ""):
+            return str(account)
+    account = fields.get("account")
+    return "" if account in (None, "") else str(account)
+
+
+class DecisionReadRepositoryMixin:
+    def assert_foreign_keys_clean(self, *, conn: sqlite3.Connection | None = None) -> None:
+        with self._optional_conn(conn) as active_conn:
+            violations = active_conn.execute("PRAGMA foreign_key_check").fetchall()
+        if violations:
+            raise RuntimeError(f"SQLite foreign key check failed: {len(violations)} violation(s)")
+
+    def _read_account_decision_state_rows(
+        self,
+        *,
+        account: str,
+        conn: sqlite3.Connection,
+        shared_trade_events: Sequence[dict[str, Any]] | None = None,
+        shared_position_lots: Sequence[dict[str, Any]] | None = None,
+        shared_assigned_stock_events: Sequence[dict[str, Any]] | None = None,
+        shared_wheel_events: Sequence[dict[str, Any]] | None = None,
+    ) -> dict[str, Any]:
+        account_value = str(account or "").strip().lower()
+        if not account_value:
+            raise ValueError("decision state snapshot requires account")
+        events = (
+            list(shared_trade_events)
+            if shared_trade_events is not None
+            else self.list_trade_events(conn=conn)
+        )
+        lots = (
+            list(shared_position_lots)
+            if shared_position_lots is not None
+            else self.list_position_lots(conn=conn)
+        )
+        cases = [
+            _json_object(row["raw_json"])
+            for row in conn.execute(
+                """
+                SELECT raw_json
+                FROM trade_lifecycle_cases
+                WHERE account = ?
+                ORDER BY updated_at_ms DESC, case_id DESC
+                """,
+                (account_value,),
+            ).fetchall()
+        ]
+        evidence: list[dict[str, Any]] = []
+        evidence_received_at_ms_by_id: dict[str, int] = {}
+        for row in conn.execute(
+            """
+            SELECT lifecycle_evidence.raw_json,
+                   lifecycle_evidence.created_at_ms
+            FROM trade_lifecycle_evidence AS lifecycle_evidence
+            JOIN trade_lifecycle_cases AS lifecycle_case
+              ON lifecycle_case.case_id = lifecycle_evidence.case_id
+            WHERE lifecycle_case.account = ?
+            ORDER BY lifecycle_evidence.created_at_ms ASC,
+                     lifecycle_evidence.evidence_id ASC
+            """,
+            (account_value,),
+        ).fetchall():
+            payload = _json_object(row["raw_json"])
+            evidence.append(payload)
+            evidence_id = str(payload.get("evidence_id") or "").strip()
+            if evidence_id:
+                evidence_received_at_ms_by_id[evidence_id] = int(
+                    row["created_at_ms"]
+                )
+        allocations = [
+            _json_object(row["raw_json"])
+            for row in conn.execute(
+                """
+                SELECT allocation.raw_json
+                FROM trade_lifecycle_allocations AS allocation
+                JOIN trade_lifecycle_cases AS lifecycle_case
+                  ON lifecycle_case.case_id = allocation.case_id
+                WHERE lifecycle_case.account = ?
+                ORDER BY allocation.created_at_ms ASC,
+                         allocation.allocation_id ASC
+                """,
+                (account_value,),
+            ).fetchall()
+        ]
+        source_claims = [
+            _json_object(row["raw_json"])
+            for row in conn.execute(
+                """
+                SELECT source_claim.raw_json
+                FROM trade_lifecycle_source_consumptions AS source_claim
+                JOIN trade_lifecycle_cases AS lifecycle_case
+                  ON lifecycle_case.case_id = source_claim.case_id
+                WHERE lifecycle_case.account = ?
+                ORDER BY source_claim.created_at_ms ASC,
+                         source_claim.source_key ASC
+                """,
+                (account_value,),
+            ).fetchall()
+        ]
+        timing_policies = [
+            _json_object(row["raw_json"])
+            for row in conn.execute(
+                """
+                SELECT timing.raw_json
+                FROM trade_lifecycle_timing_policies AS timing
+                JOIN trade_lifecycle_cases AS lifecycle_case
+                  ON lifecycle_case.case_id = timing.case_id
+                WHERE lifecycle_case.account = ?
+                ORDER BY timing.case_id ASC
+                """,
+                (account_value,),
+            ).fetchall()
+        ]
+        evidence_revisions = {
+            str(row["case_id"]): {
+                "revision": int(row["revision"]),
+                "evidence_count": (
+                    int(row["evidence_count"])
+                    if row["evidence_count"] is not None
+                    else None
+                ),
+            }
+            for row in conn.execute(
+                """
+                SELECT revision.case_id, revision.revision,
+                       revision.evidence_count
+                FROM trade_lifecycle_evidence_revisions AS revision
+                JOIN trade_lifecycle_cases AS lifecycle_case
+                  ON lifecycle_case.case_id = revision.case_id
+                WHERE lifecycle_case.account = ?
+                ORDER BY revision.case_id ASC
+                """,
+                (account_value,),
+            ).fetchall()
+        }
+        admission_heads = {
+            str(row["case_id"]): dict(row)
+            for row in conn.execute(
+                """
+                SELECT admission.case_id, admission.semantic_schema,
+                       admission.semantic_fingerprint, admission.evidence_id,
+                       admission.evidence_created_at_ms,
+                       admission.updated_at_ms
+                FROM trade_lifecycle_settlement_admission_heads AS admission
+                JOIN trade_lifecycle_cases AS lifecycle_case
+                  ON lifecycle_case.case_id = admission.case_id
+                WHERE lifecycle_case.account = ?
+                ORDER BY admission.case_id ASC
+                """,
+                (account_value,),
+            ).fetchall()
+        }
+        assigned_stock_events = (
+            list(shared_assigned_stock_events)
+            if shared_assigned_stock_events is not None
+            else [
+                _json_object(row["event_json"])
+                for row in conn.execute(
+                    """
+                    SELECT event_json
+                    FROM assigned_stock_events
+                    ORDER BY trade_time_ms ASC, stock_event_id ASC
+                    """
+                ).fetchall()
+            ]
+        )
+        wheel_events = (
+            list(shared_wheel_events)
+            if shared_wheel_events is not None
+            else self.list_wheel_events(conn=conn)
+        )
+        identities = self.list_strategy_group_identities(
+            account=account_value,
+            conn=conn,
+        )
+        return {
+            "account": account_value,
+            "trade_events": events,
+            "stored_position_lots": lots,
+            "account_position_lots": [
+                row
+                for row in lots
+                if str(
+                    _lot_account(row) or ""
+                ).strip().lower()
+                == account_value
+            ],
+            "account_lifecycle_cases": cases,
+            "account_lifecycle_evidence": evidence,
+            "account_lifecycle_evidence_received_at_ms_by_id": (
+                evidence_received_at_ms_by_id
+            ),
+            "account_lifecycle_allocations": allocations,
+            "account_lifecycle_source_consumptions": source_claims,
+            "account_lifecycle_timing_policies": timing_policies,
+            "account_lifecycle_evidence_revisions": evidence_revisions,
+            "account_lifecycle_settlement_admission_heads": admission_heads,
+            "account_assigned_stock_events": [
+                row
+                for row in assigned_stock_events
+                if str(
+                    row.get("account")
+                    or (row.get("raw_payload") or {}).get("account")
+                    or ""
+                ).strip().lower()
+                == account_value
+            ],
+            "account_wheel_events": [
+                row
+                for row in wheel_events
+                if str(row.get("account") or "").strip().lower() == account_value
+            ],
+            "account_combo_identities": identities,
+        }
+
+    def read_lifecycle_account_rows(
+        self,
+        *,
+        account: str,
+        conn: sqlite3.Connection | None = None,
+    ) -> dict[str, Any]:
+        account_value = str(account or "").strip().lower()
+        if not account_value:
+            raise ValueError("lifecycle account reader requires account")
+        if conn is not None:
+            return self._read_account_decision_state_rows(
+                account=account_value,
+                conn=conn,
+            )
+        active_conn = self._connect()
+        try:
+            active_conn.execute("BEGIN")
+            rows = self._read_account_decision_state_rows(
+                account=account_value,
+                conn=active_conn,
+            )
+            active_conn.commit()
+        except Exception:
+            active_conn.rollback()
+            raise
+        finally:
+            active_conn.close()
+        return rows
+
+    def read_lifecycle_case_rows(
+        self,
+        *,
+        case_id: str,
+    ) -> dict[str, Any]:
+        case_value = str(case_id or "").strip()
+        if not case_value:
+            raise ValueError("lifecycle case reader requires case_id")
+        conn = self._connect()
+        try:
+            conn.execute("BEGIN")
+            lifecycle_case = self.get_trade_lifecycle_case(
+                case_value,
+                conn=conn,
+            )
+            if lifecycle_case is None:
+                raise ValueError(f"lifecycle case not found: {case_value}")
+            rows = self._read_account_decision_state_rows(
+                account=str(lifecycle_case.get("account") or ""),
+                conn=conn,
+            )
+            rows["requested_lifecycle_case_id"] = case_value
+            conn.commit()
+        except Exception:
+            conn.rollback()
+            raise
+        finally:
+            conn.close()
+        return rows
+
+    def read_decision_state_rows(self, *, account: str) -> dict[str, Any]:
+        return self.read_lifecycle_account_rows(account=account)
+
+    def read_decision_state_rows_many(
+        self,
+        *,
+        accounts: Sequence[str],
+    ) -> dict[str, dict[str, Any]]:
+        """Read multiple account decision states from one SQLite snapshot."""
+
+        account_values = sorted(
+            {
+                str(account or "").strip().lower()
+                for account in accounts
+                if str(account or "").strip()
+            }
+        )
+        if not account_values:
+            raise ValueError("decision state batch requires accounts")
+        conn = self._connect()
+        try:
+            conn.execute("BEGIN")
+            events = self.list_trade_events(conn=conn)
+            lots = self.list_position_lots(conn=conn)
+            assigned_stock_events = [
+                _json_object(row["event_json"])
+                for row in conn.execute(
+                    """
+                    SELECT event_json
+                    FROM assigned_stock_events
+                    ORDER BY trade_time_ms ASC, stock_event_id ASC
+                    """
+                ).fetchall()
+            ]
+            wheel_events = self.list_wheel_events(conn=conn)
+            rows = {
+                account: self._read_account_decision_state_rows(
+                    account=account,
+                    conn=conn,
+                    shared_trade_events=events,
+                    shared_position_lots=lots,
+                    shared_assigned_stock_events=assigned_stock_events,
+                    shared_wheel_events=wheel_events,
+                )
+                for account in account_values
+            }
+            conn.commit()
+            return rows
+        except Exception:
+            conn.rollback()
+            raise
+        finally:
+            conn.close()

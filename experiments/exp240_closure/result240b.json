@@ -1,1 +1,199 @@
-ewogImNsb3M9MC4wMCI6IHsKICAi5Yik5o2uIjogMTQuMSwKICAi6LezIjogNi44OCwKICAi5byA5Y+jIjogMS4wCiB9LAogImNsb3M9MC4yNSI6IHsKICAi5Yik5o2uIjogMTEuOTEsCiAgIui3syI6IDUuNDYsCiAgIuW8gOWPoyI6IDAuODQKIH0sCiAiY2xvcz0wLjUwIjogewogICLliKTmja4iOiAxMC40NCwKICAi6LezIjogNC45MiwKICAi5byA5Y+jIjogMC43MzMKIH0sCiAiY2xvcz0wLjc1IjogewogICLliKTmja4iOiA5LjMyLAogICLot7MiOiA0LjMzLAogICLlvIDlj6MiOiAwLjY1NwogfSwKICJjbG9zPTEuMDAiOiB7CiAgIuWIpOaNriI6IDguNDksCiAgIui3syI6IDQsCiAgIuW8gOWPoyI6IDAuNgogfSwKICJwcm9kPTAuMCI6IHsKICAi5Yik5o2uIjogNi44OSwKICAi6LezIjogMi44OAogfSwKICJwcm9kPTAuNSI6IHsKICAi5Yik5o2uIjogMTEuNTcsCiAgIui3syI6IDUuMjkKIH0sCiAicHJvZD0xLjAiOiB7CiAgIuWIpOaNriI6IDE0LjEsCiAgIui3syI6IDYuODgKIH0sCiAicHJvZD0yLjAiOiB7CiAgIuWIpOaNriI6IDE2LjM5LAogICLot7MiOiA3Ljc5CiB9LAogInByb2Q9NC4wIjogewogICLliKTmja4iOiAxOC4yOCwKICAi6LezIjogOC45NgogfSwKICLmsonpu5gocHJvZD0wLGNsb3M9MCkiOiB7CiAgIuWIpOaNriI6IDYuODksCiAgIui3syI6IDIuODgsCiAgIuW8gOWPoyI6IDEuMAogfSwKICLlj6rnu5nmnZDmlpnkuI3pl63lkIgocHJvZD0yLGNsb3M9MCkiOiB7CiAgIuWIpOaNriI6IDE2LjM5LAogICLot7MiOiA3Ljc5LAogICLlvIDlj6MiOiAxLjAKIH0sCiAi5Y+q6Zet5ZCI5LiN57uZ5p2Q5paZKHByb2Q9MCxjbG9zPTEpIjogewogICLliKTmja4iOiA0LjQ5LAogICLot7MiOiAxLjQyLAogICLlvIDlj6MiOiAwLjYKIH0sCiAi5Y+I5Lqn5Y+I6Zet5ZCIKOaIkeeahOm7mOiupCxwcm9kPTIsY2xvcz0xKSI6IHsKICAi5Yik5o2uIjogMTAuMDksCiAgIui3syI6IDQuNzEsCiAgIuW8gOWPoyI6IDAuNgogfSwKICLpq5jmnZDmlpkr6Zu26Zet5ZCIKHByb2Q9NCxjbG9zPTApIjogewogICLliKTmja4iOiAxOC4yOCwKICAi6LezIjogOC45NiwKICAi5byA5Y+jIjogMS4wCiB9LAogIl9ncmlkIjogewogICJwMC4wX2MwLjAwIjogewogICAi5Yik5o2uIjogNi44OSwKICAgIui3syI6IDIuODgsCiAgICLlvIDlj6MiOiAxLjAKICB9LAogICJwMC4wX2MwLjI1IjogewogICAi5Yik5o2uIjogNS45OCwKICAgIui3syI6IDIuMTcsCiAgICLlvIDlj6MiOiAwLjg0CiAgfSwKICAicDAuMF9jMC41MCI6IHsKICAgIuWIpOaNriI6IDUuMzQsCiAgICLot7MiOiAxLjc1LAogICAi5byA5Y+jIjogMC43MzMKICB9LAogICJwMC4wX2MwLjc1IjogewogICAi5Yik5o2uIjogNC44NCwKICAgIui3syI6IDEuNSwKICAgIuW8gOWPoyI6IDAuNjU3CiAgfSwKICAicDAuMF9jMS4wMCI6IHsKICAgIuWIpOaNriI6IDQuNDksCiAgICLot7MiOiAxLjQyLAogICAi5byA5Y+jIjogMC42CiAgfSwKICAicDAuNV9jMC4wMCI6IHsKICAgIuWIpOaNriI6IDExLjU3LAogICAi6LezIjogNS4yOSwKICAgIuW8gOWPoyI6IDEuMAogIH0sCiAgInAwLjVfYzAuMjUiOiB7CiAgICLliKTmja4iOiA5LjgsCiAgICLot7MiOiA0LjQ2LAogICAi5byA5Y+jIjogMC44NAogIH0sCiAgInAwLjVfYzAuNTAiOiB7CiAgICLliKTmja4iOiA4LjUsCiAgICLot7MiOiA0LAogICAi5byA5Y+jIjogMC43MzMKICB9LAogICJwMC41X2MwLjc1IjogewogICAi5Yik5o2uIjogNy43NSwKICAgIui3syI6IDMuNDYsCiAgICLlvIDlj6MiOiAwLjY1NwogIH0sCiAgInAwLjVfYzEuMDAiOiB7CiAgICLliKTmja4iOiA3LjI5LAogICAi6LezIjogMy4xNywKICAgIuW8gOWPoyI6IDAuNgogIH0sCiAgInAxLjBfYzAuMDAiOiB7CiAgICLliKTmja4iOiAxNC4xLAogICAi6LezIjogNi44OCwKICAgIuW8gOWPoyI6IDEuMAogIH0sCiAgInAxLjBfYzAuMjUiOiB7CiAgICLliKTmja4iOiAxMS45MSwKICAgIui3syI6IDUuNDYsCiAgICLlvIDlj6MiOiAwLjg0CiAgfSwKICAicDEuMF9jMC41MCI6IHsKICAgIuWIpOaNriI6IDEwLjQ0LAogICAi6LezIjogNC45MiwKICAgIuW8gOWPoyI6IDAuNzMzCiAgfSwKICAicDEuMF9jMC43NSI6IHsKICAgIuWIpOaNriI6IDkuMzIsCiAgICLot7MiOiA0LjMzLAogICAi5byA5Y+jIjogMC42NTcKICB9LAogICJwMS4wX2MxLjAwIjogewogICAi5Yik5o2uIjogOC40OSwKICAgIui3syI6IDQsCiAgICLlvIDlj6MiOiAwLjYKICB9LAogICJwMi4wX2MwLjAwIjogewogICAi5Yik5o2uIjogMTYuMzksCiAgICLot7MiOiA3Ljc5LAogICAi5byA5Y+jIjogMS4wCiAgfSwKICAicDIuMF9jMC4yNSI6IHsKICAgIuWIpOaNriI6IDEzLjk0LAogICAi6LezIjogNi43OSwKICAgIuW8gOWPoyI6IDAuODQKICB9LAogICJwMi4wX2MwLjUwIjogewogICAi5Yik5o2uIjogMTIuMzEsCiAgICLot7MiOiA1LjY3LAogICAi5byA5Y+jIjogMC43MzMKICB9LAogICJwMi4wX2MwLjc1IjogewogICAi5Yik5o2uIjogMTAuOTgsCiAgICLot7MiOiA1LjE3LAogICAi5byA5Y+jIjogMC42NTcKICB9LAogICJwMi4wX2MxLjAwIjogewogICAi5Yik5o2uIjogMTAuMDksCiAgICLot7MiOiA0LjcxLAogICAi5byA5Y+jIjogMC42CiAgfSwKICAicDQuMF9jMC4wMCI6IHsKICAgIuWIpOaNriI6IDE4LjI4LAogICAi6LezIjogOC45NiwKICAgIuW8gOWPoyI6IDEuMAogIH0sCiAgInA0LjBfYzAuMjUiOiB7CiAgICLliKTmja4iOiAxNS41OCwKICAgIui3syI6IDcuNDIsCiAgICLlvIDlj6MiOiAwLjg0CiAgfSwKICAicDQuMF9jMC41MCI6IHsKICAgIuWIpOaNriI6IDEzLjY3LAogICAi6LezIjogNi43OSwKICAgIuW8gOWPoyI6IDAuNzMzCiAgfSwKICAicDQuMF9jMC43NSI6IHsKICAgIuWIpOaNriI6IDEyLjM4LAogICAi6LezIjogNS43NSwKICAgIuW8gOWPoyI6IDAuNjU3CiAgfSwKICAicDQuMF9jMS4wMCI6IHsKICAgIuWIpOaNriI6IDExLjIsCiAgICLot7MiOiA1LjIxLAogICAi5byA5Y+jIjogMC42CiAgfQogfQp9
+{
+ "clos=0.00": {
+  "判据": 14.1,
+  "跳": 6.88,
+  "开口": 1.0
+ },
+ "clos=0.25": {
+  "判据": 11.91,
+  "跳": 5.46,
+  "开口": 0.84
+ },
+ "clos=0.50": {
+  "判据": 10.44,
+  "跳": 4.92,
+  "开口": 0.733
+ },
+ "clos=0.75": {
+  "判据": 9.32,
+  "跳": 4.33,
+  "开口": 0.657
+ },
+ "clos=1.00": {
+  "判据": 8.49,
+  "跳": 4,
+  "开口": 0.6
+ },
+ "prod=0.0": {
+  "判据": 6.89,
+  "跳": 2.88
+ },
+ "prod=0.5": {
+  "判据": 11.57,
+  "跳": 5.29
+ },
+ "prod=1.0": {
+  "判据": 14.1,
+  "跳": 6.88
+ },
+ "prod=2.0": {
+  "判据": 16.39,
+  "跳": 7.79
+ },
+ "prod=4.0": {
+  "判据": 18.28,
+  "跳": 8.96
+ },
+ "沉默(prod=0,clos=0)": {
+  "判据": 6.89,
+  "跳": 2.88,
+  "开口": 1.0
+ },
+ "只给材料不闭合(prod=2,clos=0)": {
+  "判据": 16.39,
+  "跳": 7.79,
+  "开口": 1.0
+ },
+ "只闭合不给材料(prod=0,clos=1)": {
+  "判据": 4.49,
+  "跳": 1.42,
+  "开口": 0.6
+ },
+ "又产又闭合(我的默认,prod=2,clos=1)": {
+  "判据": 10.09,
+  "跳": 4.71,
+  "开口": 0.6
+ },
+ "高材料+零闭合(prod=4,clos=0)": {
+  "判据": 18.28,
+  "跳": 8.96,
+  "开口": 1.0
+ },
+ "_grid": {
+  "p0.0_c0.00": {
+   "判据": 6.89,
+   "跳": 2.88,
+   "开口": 1.0
+  },
+  "p0.0_c0.25": {
+   "判据": 5.98,
+   "跳": 2.17,
+   "开口": 0.84
+  },
+  "p0.0_c0.50": {
+   "判据": 5.34,
+   "跳": 1.75,
+   "开口": 0.733
+  },
+  "p0.0_c0.75": {
+   "判据": 4.84,
+   "跳": 1.5,
+   "开口": 0.657
+  },
+  "p0.0_c1.00": {
+   "判据": 4.49,
+   "跳": 1.42,
+   "开口": 0.6
+  },
+  "p0.5_c0.00": {
+   "判据": 11.57,
+   "跳": 5.29,
+   "开口": 1.0
+  },
+  "p0.5_c0.25": {
+   "判据": 9.8,
+   "跳": 4.46,
+   "开口": 0.84
+  },
+  "p0.5_c0.50": {
+   "判据": 8.5,
+   "跳": 4,
+   "开口": 0.733
+  },
+  "p0.5_c0.75": {
+   "判据": 7.75,
+   "跳": 3.46,
+   "开口": 0.657
+  },
+  "p0.5_c1.00": {
+   "判据": 7.29,
+   "跳": 3.17,
+   "开口": 0.6
+  },
+  "p1.0_c0.00": {
+   "判据": 14.1,
+   "跳": 6.88,
+   "开口": 1.0
+  },
+  "p1.0_c0.25": {
+   "判据": 11.91,
+   "跳": 5.46,
+   "开口": 0.84
+  },
+  "p1.0_c0.50": {
+   "判据": 10.44,
+   "跳": 4.92,
+   "开口": 0.733
+  },
+  "p1.0_c0.75": {
+   "判据": 9.32,
+   "跳": 4.33,
+   "开口": 0.657
+  },
+  "p1.0_c1.00": {
+   "判据": 8.49,
+   "跳": 4,
+   "开口": 0.6
+  },
+  "p2.0_c0.00": {
+   "判据": 16.39,
+   "跳": 7.79,
+   "开口": 1.0
+  },
+  "p2.0_c0.25": {
+   "判据": 13.94,
+   "跳": 6.79,
+   "开口": 0.84
+  },
+  "p2.0_c0.50": {
+   "判据": 12.31,
+   "跳": 5.67,
+   "开口": 0.733
+  },
+  "p2.0_c0.75": {
+   "判据": 10.98,
+   "跳": 5.17,
+   "开口": 0.657
+  },
+  "p2.0_c1.00": {
+   "判据": 10.09,
+   "跳": 4.71,
+   "开口": 0.6
+  },
+  "p4.0_c0.00": {
+   "判据": 18.28,
+   "跳": 8.96,
+   "开口": 1.0
+  },
+  "p4.0_c0.25": {
+   "判据": 15.58,
+   "跳": 7.42,
+   "开口": 0.84
+  },
+  "p4.0_c0.50": {
+   "判据": 13.67,
+   "跳": 6.79,
+   "开口": 0.733
+  },
+  "p4.0_c0.75": {
+   "判据": 12.38,
+   "跳": 5.75,
+   "开口": 0.657
+  },
+  "p4.0_c1.00": {
+   "判据": 11.2,
+   "跳": 5.21,
+   "开口": 0.6
+  }
+ }
+}

@@ -1,1 +1,76 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMjU2IHYzIMK3IGs9NCDmmK/kuI3mmK/nqLPlgaXmnIDkvJjvvJ/vvIjkuIrkuIDniYggayDmiavmj4/pnZ7ljZXosIPvvIzlv4Xpobvmo4DpqozvvIkiIiIKaW1wb3J0IGpzb24sbWF0aCxyZSxyYW5kb20KZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgpDRD1qc29uLmxvYWQob3BlbigiY29vcmRpbmF0ZV9kYXRhLmpzb24iKSk7IENDPWpzb24ubG9hZChvcGVuKCJjYWxpYnJhdGlvbl9jYXNlcy5qc29uIikpCkNBU0VTPUNDWyJjYXNlcyJdCmRlZiBmbGF0KCk6CiAgICBvPVtdCiAgICBmb3IgYyBpbiBDRC5nZXQoIkwiLFtdKTogby5hcHBlbmQoKGNbImNvZGUiXSxjWyJuYW1lIl0sY1siY3JpdGVyaW9uIl0sIkwiKSkKICAgIGZvciBnIGluIENELmdldCgiTV9ncm91cHMiLFtdKToKICAgICAgICBmb3IgeCBpbiBnLmdldCgib3B0cyIsW10pOiBvLmFwcGVuZCgoeFsiY29kZSJdLHhbIm5hbWUiXSx4LmdldCgiY3JpdGVyaW9uIikgb3IgZy5nZXQoImNyaXRlcmlvbiIsIiIpLCJNIikpCiAgICBmb3IgZyBpbiBDRC5nZXQoIlBfZ3JvdXBzIixbXSk6CiAgICAgICAgZm9yIHggaW4gZy5nZXQoIm9wdHMiLFtdKTogby5hcHBlbmQoKHhbImNvZGUiXSx4WyJuYW1lIl0seC5nZXQoImNyaXRlcmlvbiIpIG9yIGcuZ2V0KCJjcml0ZXJpb24iLCIiKSwiUCIpKQogICAgcmV0dXJuIG8KQ09SRD1mbGF0KCkKU1RPUD1zZXQoIueahCDkuoYg5pivIOWcqCDkuI4g5ZKMIOaIliDlr7kg5LqOIOeUsSDooqsg5oqKIOiAjCDkuJQg5LiNIOaciSDml6Ag6L+ZIOmCoyDlhbYg5LmLIOS4uiDku6Ug5Y+KIOetiSDkuK0g5LiqIOS4gCDkuowg5LiJIOS4iiDkuIsg5YaFIOWkliDlkI4g5YmNIOaXtiDkvJog6IO9IOWPryDopoEg5bCxIOmDvSDkuZ8g6L+YIOS9hiDliJkg6IulIOWmgiDkvb8g6K6pIOS7jiDliLAg6L+HIOaJgCDor6Ug5pysIOexuyDnp40g5pu0IOacgCDlvogg6Z2eIOacqiDlubYg5Y2zIOaMhyIuc3BsaXQoKSkKZGVmIHRva3Mocyk6CiAgICBzPXJlLnN1YihyIlteXHU0ZTAwLVx1OWZmZkEtWmEtejAtOV0rIiwiICIscyBvciAiIikucmVwbGFjZSgiICIsIiIpCiAgICByZXR1cm4gW3NbaTppKzJdIGZvciBpIGluIHJhbmdlKGxlbihzKS0xKSBpZiBzW2ldIG5vdCBpbiBTVE9QIGFuZCBzW2krMV0gbm90IGluIFNUT1BdIG9yIGxpc3QocykKZGVmIHZlYyh0ayx3PU5vbmUpOgogICAgYz1Db3VudGVyKHRrKTsgcmV0dXJuIHt0OncuZ2V0KHQsMS4wKSpjW3RdIGZvciB0IGluIGN9IGlmIHcgZWxzZSBkaWN0KGMpCmRlZiBjb3MoYSxiKToKICAgIGlmIG5vdCBhIG9yIG5vdCBiOiByZXR1cm4gMC4wCiAgICBuPXN1bSh2KnYgZm9yIHYgaW4gYS52YWx1ZXMoKSkqKjAuNSpzdW0odip2IGZvciB2IGluIGIudmFsdWVzKCkpKiowLjUKICAgIHJldHVybiBzdW0oYVt0XSpiW3RdIGZvciB0IGluIHNldChhKSZzZXQoYikpL24gaWYgbiBlbHNlIDAuMApkZWYgZ29sZGVucyhjKToKICAgIGc9Y1siZ29sZGVuIl07IHJldHVybiBbdiBmb3IgayBpbiAoIkwiLCJNIiwiUCIpIGZvciB2IGluIChnLmdldChrKSBvciBbXSldCmRvY3M9e2NbMF06dG9rcygoY1sxXSBvciAiIikrIiAiKyhjWzJdIG9yICIiKSkgZm9yIGMgaW4gQ09SRH0KTj1sZW4oZG9jcyk7IGRmPUNvdW50ZXIoKQpmb3IgdCBpbiBkb2NzLnZhbHVlcygpOiBkZi51cGRhdGUoc2V0KHQpKQpJREY9e3Q6bWF0aC5sb2coKE4rMSkvKGRmLmdldCh0LDApKzAuNSkpIGZvciB0IGluIGRmfQpkZWYgYnVpbGQoayk6CiAgICBzcD17fQogICAgZm9yIGNvZGUsdGsgaW4gZG9jcy5pdGVtcygpOgogICAgICAgIHRmPUNvdW50ZXIodGspOyBzYz17dDooMSttYXRoLmxvZyhmKSkqSURGW3RdIGZvciB0LGYgaW4gdGYuaXRlbXMoKX0KICAgICAgICB0b3A9c29ydGVkKHNjLml0ZW1zKCksa2V5PWxhbWJkYSB4Oi14WzFdKVs6a10KICAgICAgICBzcFtjb2RlXT0oW3QgZm9yIHQsXyBpbiB0b3BdLFt3IGZvciBfLHcgaW4gdG9wXSkKICAgIHJldHVybiBzcApkZWYgQm0ocCxzcCk6CiAgICBxPXZlYyh0b2tzKHApKTsgcmV0dXJuIG1heCgoKGNvcyhxLHZlYyhmLGRpY3QoemlwKGYsdykpKSksYykgZm9yIGMsKGYsdykgaW4gc3AuaXRlbXMoKSkpWzFdCmRlZiBhY2NCKHNwLGNzKTogcmV0dXJuIHN1bSgxIGZvciBjIGluIGNzIGlmIEJtKGNbInBoZW5vbWVub24iXSxzcCkgaW4gc2V0KGdvbGRlbnMoYykpKS9sZW4oY3MpCmRlZiBBbShwKToKICAgIHE9dmVjKHRva3MocCkpOyByZXR1cm4gbWF4KCgoY29zKHEsdmVjKHRva3MoKG4gb3IgJycpKycgJysoY3Igb3IgJycpKSxJREYpKSxjZCkgZm9yIGNkLG4sY3IsXyBpbiBDT1JEKSlbMV0KZGVmIGFjY0EoY3MpOiByZXR1cm4gc3VtKDEgZm9yIGMgaW4gY3MgaWYgQW0oY1sicGhlbm9tZW5vbiJdKSBpbiBzZXQoZ29sZGVucyhjKSkpL2xlbihjcykKCnByaW50KCI9Iio4MCkKcHJpbnQoIuWunumqjOS4gyDCtyBib290c3RyYXDvvJrpmo/mnLrph43mir0gMjkg5p2h5qGI5L6L77yI5pyJ5pS+5Zue77yJMjAwIOasoe+8jOeciyBrIOiwgei1oiIpCnByaW50KCI9Iio4MCkKS1M9WzQsOCwxMiwyMCwzMCw1MCw4MF0Kc3BlY3M9e2s6YnVpbGQoaykgZm9yIGsgaW4gS1N9CndpbnM9e2s6MCBmb3IgayBpbiBLU307IG49MjAwCnJuZz1yYW5kb20uUmFuZG9tKDApCmRpZmZzPXtrOltdIGZvciBrIGluIEtTfQpmb3IgXyBpbiByYW5nZShuKToKICAgIGNzPVtDQVNFU1tybmcucmFuZHJhbmdlKGxlbihDQVNFUykpXSBmb3IgXyBpbiByYW5nZShsZW4oQ0FTRVMpKV0KICAgIGFBPWFjY0EoY3MpCiAgICBicz17azphY2NCKHNwZWNzW2tdLGNzKSBmb3IgayBpbiBLU30KICAgIGJrPW1heChicyxrZXk9bGFtYmRhIGs6YnNba10pCiAgICB3aW5zW2JrXSs9MQogICAgZm9yIGsgaW4gS1M6IGRpZmZzW2tdLmFwcGVuZChic1trXS1hQSkKcHJpbnQoZiJ7J2snOj42fXsn6IOc5Ye65qyh5pWwJzo+MTB9eyfog5znjocnOj45fXsn55u45a+5QeeahOW5s+Wdh+W3ric6PjE1fXsn5qCH5YeG5beuJzo+OX0iKQpmb3IgayBpbiBLUzoKICAgIGQ9ZGlmZnNba10KICAgIHByaW50KGYie2s6PjZ9e3dpbnNba106PjEwfXt3aW5zW2tdL246PjkuM2Z9e3N1bShkKS9sZW4oZCk6PjE1LjNmfXsoc3VtKCh4LXN1bShkKS9sZW4oZCkpKioyIGZvciB4IGluIGQpL2xlbihkKSkqKjAuNTo+OS4zZn0iKQpwcmludCgpCmFBPWFjY0EoQ0FTRVMpCnByaW50KGYiICDlhajph48gQSDln7rlh4YgPSB7YUE6LjNmfSIpCmZvciBrIGluIEtTOiBwcmludChmIiAg5YWo6YePIGs9e2s6PDR9ID0ge2FjY0Ioc3BlY3Nba10sQ0FTRVMpOi4zZn0gICh7YWNjQihzcGVjc1trXSxDQVNFUyktYUE6Ky4zZn0pIikKcHJpbnQoKQp0b3A9bWF4KHdpbnMsa2V5PWxhbWJkYSBrOndpbnNba10pCnByaW50KGYiICDnqLPlgaXmgKfnu5PorrrvvJprPXt0b3B9IOiDnOeOhyB7d2luc1t0b3BdL246LjNmfSIpCmlmIHdpbnNbdG9wXS9uIDwgMC41OgogICAgcHJpbnQoIiAg4oaSIOayoeacieS7u+S9lSBrIOeos+WumuiDnOWHuuOAgmsg55qE6YCJ5oupKirkuI3nqLPlgaUqKu+8jOS4iuS4gOeJiCdrPTQg5pyA5LyYJ+S4jeWPr+W8leeUqOOAgiIpCmVsc2U6CiAgICBwcmludChmIiAg4oaSIGs9e3RvcH0g55u45a+556iz5YGlIikKanNvbi5kdW1wKHsid2lucyI6d2lucywibiI6bn0sb3Blbigicm9idXN0X291dC5qc29uIiwidyIpKQo=
+# -*- coding: utf-8 -*-
+"""256 v3 · k=4 是不是稳健最优？（上一版 k 扫描非单调，必须检验）"""
+import json,math,re,random
+from collections import Counter
+CD=json.load(open("coordinate_data.json")); CC=json.load(open("calibration_cases.json"))
+CASES=CC["cases"]
+def flat():
+    o=[]
+    for c in CD.get("L",[]): o.append((c["code"],c["name"],c["criterion"],"L"))
+    for g in CD.get("M_groups",[]):
+        for x in g.get("opts",[]): o.append((x["code"],x["name"],x.get("criterion") or g.get("criterion",""),"M"))
+    for g in CD.get("P_groups",[]):
+        for x in g.get("opts",[]): o.append((x["code"],x["name"],x.get("criterion") or g.get("criterion",""),"P"))
+    return o
+CORD=flat()
+STOP=set("的 了 是 在 与 和 或 对 于 由 被 把 而 且 不 有 无 这 那 其 之 为 以 及 等 中 个 一 二 三 上 下 内 外 后 前 时 会 能 可 要 就 都 也 还 但 则 若 如 使 让 从 到 过 所 该 本 类 种 更 最 很 非 未 并 即 指".split())
+def toks(s):
+    s=re.sub(r"[^\u4e00-\u9fffA-Za-z0-9]+"," ",s or "").replace(" ","")
+    return [s[i:i+2] for i in range(len(s)-1) if s[i] not in STOP and s[i+1] not in STOP] or list(s)
+def vec(tk,w=None):
+    c=Counter(tk); return {t:w.get(t,1.0)*c[t] for t in c} if w else dict(c)
+def cos(a,b):
+    if not a or not b: return 0.0
+    n=sum(v*v for v in a.values())**0.5*sum(v*v for v in b.values())**0.5
+    return sum(a[t]*b[t] for t in set(a)&set(b))/n if n else 0.0
+def goldens(c):
+    g=c["golden"]; return [v for k in ("L","M","P") for v in (g.get(k) or [])]
+docs={c[0]:toks((c[1] or "")+" "+(c[2] or "")) for c in CORD}
+N=len(docs); df=Counter()
+for t in docs.values(): df.update(set(t))
+IDF={t:math.log((N+1)/(df.get(t,0)+0.5)) for t in df}
+def build(k):
+    sp={}
+    for code,tk in docs.items():
+        tf=Counter(tk); sc={t:(1+math.log(f))*IDF[t] for t,f in tf.items()}
+        top=sorted(sc.items(),key=lambda x:-x[1])[:k]
+        sp[code]=([t for t,_ in top],[w for _,w in top])
+    return sp
+def Bm(p,sp):
+    q=vec(toks(p)); return max(((cos(q,vec(f,dict(zip(f,w)))),c) for c,(f,w) in sp.items()))[1]
+def accB(sp,cs): return sum(1 for c in cs if Bm(c["phenomenon"],sp) in set(goldens(c)))/len(cs)
+def Am(p):
+    q=vec(toks(p)); return max(((cos(q,vec(toks((n or '')+' '+(cr or '')),IDF)),cd) for cd,n,cr,_ in CORD))[1]
+def accA(cs): return sum(1 for c in cs if Am(c["phenomenon"]) in set(goldens(c)))/len(cs)
+
+print("="*80)
+print("实验七 · bootstrap：随机重抽 29 条案例（有放回）200 次，看 k 谁赢")
+print("="*80)
+KS=[4,8,12,20,30,50,80]
+specs={k:build(k) for k in KS}
+wins={k:0 for k in KS}; n=200
+rng=random.Random(0)
+diffs={k:[] for k in KS}
+for _ in range(n):
+    cs=[CASES[rng.randrange(len(CASES))] for _ in range(len(CASES))]
+    aA=accA(cs)
+    bs={k:accB(specs[k],cs) for k in KS}
+    bk=max(bs,key=lambda k:bs[k])
+    wins[bk]+=1
+    for k in KS: diffs[k].append(bs[k]-aA)
+print(f"{'k':>6}{'胜出次数':>10}{'胜率':>9}{'相对A的平均差':>15}{'标准差':>9}")
+for k in KS:
+    d=diffs[k]
+    print(f"{k:>6}{wins[k]:>10}{wins[k]/n:>9.3f}{sum(d)/len(d):>15.3f}{(sum((x-sum(d)/len(d))**2 for x in d)/len(d))**0.5:>9.3f}")
+print()
+aA=accA(CASES)
+print(f"  全量 A 基准 = {aA:.3f}")
+for k in KS: print(f"  全量 k={k:<4} = {accB(specs[k],CASES):.3f}  ({accB(specs[k],CASES)-aA:+.3f})")
+print()
+top=max(wins,key=lambda k:wins[k])
+print(f"  稳健性结论：k={top} 胜率 {wins[top]/n:.3f}")
+if wins[top]/n < 0.5:
+    print("  → 没有任何 k 稳定胜出。k 的选择**不稳健**，上一版'k=4 最优'不可引用。")
+else:
+    print(f"  → k={top} 相对稳健")
+json.dump({"wins":wins,"n":n},open("robust_out.json","w"))

@@ -1,1 +1,71 @@
-ewogImV2ZW50X2J5dGVzIjogMjQsCiAic2VxIjogWwogIHsKICAgImFjdCI6ICLnp7vliqjpvKDmoIciLAogICAidHlwZSI6IDIsCiAgICJjb2RlIjogMCwKICAgInZhbHVlIjogMzEyCiAgfSwKICB7CiAgICJhY3QiOiAi56e75Yqo6byg5qCHIiwKICAgInR5cGUiOiAyLAogICAiY29kZSI6IDEsCiAgICJ2YWx1ZSI6IC00OAogIH0sCiAgewogICAiYWN0IjogIuWQjOatpSIsCiAgICJ0eXBlIjogMCwKICAgImNvZGUiOiAwLAogICAidmFsdWUiOiAwCiAgfSwKICB7CiAgICJhY3QiOiAi5oyJ5LiL5bem6ZSuIiwKICAgInR5cGUiOiAxLAogICAiY29kZSI6IDI3MiwKICAgInZhbHVlIjogMQogIH0sCiAgewogICAiYWN0IjogIuWQjOatpSIsCiAgICJ0eXBlIjogMCwKICAgImNvZGUiOiAwLAogICAidmFsdWUiOiAwCiAgfSwKICB7CiAgICJhY3QiOiAi5p2+5byA5bem6ZSuIiwKICAgInR5cGUiOiAxLAogICAiY29kZSI6IDI3MiwKICAgInZhbHVlIjogMAogIH0sCiAgewogICAiYWN0IjogIuWQjOatpSIsCiAgICJ0eXBlIjogMCwKICAgImNvZGUiOiAwLAogICAidmFsdWUiOiAwCiAgfSwKICB7CiAgICJhY3QiOiAi5pWy5YWlIGgiLAogICAidHlwZSI6IDEsCiAgICJjb2RlIjogMzUsCiAgICJ2YWx1ZSI6IDEKICB9LAogIHsKICAgImFjdCI6ICLlkIzmraUiLAogICAidHlwZSI6IDAsCiAgICJjb2RlIjogMCwKICAgInZhbHVlIjogMAogIH0sCiAgewogICAiYWN0IjogIuaUvuW8gCBoIiwKICAgInR5cGUiOiAxLAogICAiY29kZSI6IDM1LAogICAidmFsdWUiOiAwCiAgfSwKICB7CiAgICJhY3QiOiAi5ZCM5q2lIiwKICAgInR5cGUiOiAwLAogICAiY29kZSI6IDAsCiAgICJ2YWx1ZSI6IDAKICB9CiBdCn0=
+{
+ "event_bytes": 24,
+ "seq": [
+  {
+   "act": "移动鼠标",
+   "type": 2,
+   "code": 0,
+   "value": 312
+  },
+  {
+   "act": "移动鼠标",
+   "type": 2,
+   "code": 1,
+   "value": -48
+  },
+  {
+   "act": "同步",
+   "type": 0,
+   "code": 0,
+   "value": 0
+  },
+  {
+   "act": "按下左键",
+   "type": 1,
+   "code": 272,
+   "value": 1
+  },
+  {
+   "act": "同步",
+   "type": 0,
+   "code": 0,
+   "value": 0
+  },
+  {
+   "act": "松开左键",
+   "type": 1,
+   "code": 272,
+   "value": 0
+  },
+  {
+   "act": "同步",
+   "type": 0,
+   "code": 0,
+   "value": 0
+  },
+  {
+   "act": "敲入 h",
+   "type": 1,
+   "code": 35,
+   "value": 1
+  },
+  {
+   "act": "同步",
+   "type": 0,
+   "code": 0,
+   "value": 0
+  },
+  {
+   "act": "放开 h",
+   "type": 1,
+   "code": 35,
+   "value": 0
+  },
+  {
+   "act": "同步",
+   "type": 0,
+   "code": 0,
+   "value": 0
+  }
+ ]
+}

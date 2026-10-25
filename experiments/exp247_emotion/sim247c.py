@@ -1,1 +1,64 @@
-aW1wb3J0IHJhbmRvbSwgc3RhdGlzdGljcyBhcyBzdAojIHYy5L2c5bqfOiDmnIDlvLHpobnlpKnoirHmnb886Zeo5qebIC0+IOaUu+Wug+acrOWwseaYr+a1qui0uSAtPiDlm57pgb/lroPlj43ogIznkIbmgKcgLT4gY+a1i+WHuui0n+aViOW6lCjorr7orqHplJkpCiMgdjM6IOWkqeiKseadv+S4jui1t+Wni+WAvOWPjeebuOWFsyAtPiDmnIDlvLHpobnlpKnoirHmnb/mnIDpq5go5pyA55eb5L2G5pyA5YC85b6X5pS7KSAtPiDlm57pgb/lroPmiY3mmK/nnJ/mh6blvLEKQ0FQPVswLjk4LDAuOTAsMC44MiwwLjcwLDAuNTgsMC40NV0gICAgICMgaWR4MCDlpKnoirHmnb/mnIDpq5gKTDAgPVswLjIwLDAuMjgsMC4zNSwwLjQyLDAuNTAsMC41OF0gICAgICMgaWR4MCDotbflp4vmnIDkvY4gPSDmnIDlvLEsIOS9huacgOWAvOW+l+aUuwpOPTY7IFRIRVRBPTAuNjA7IEpVTVA9MC40NTsgRkxPT1I9MC4wNQpkZWYgc2ltKEQ9MC41LEY9MC41LEg9MC41LGM9MC4zLGV4aXQ9MC41LGxlYXJuPTAuMyxUPTQwLHNlZWQ9MCxtb2RlPSdjeWNsZScsc2F0PTAuMzApOgogICAgcj1yYW5kb20uUmFuZG9tKHNlZWQqNzkxOSsxMykKICAgIEw9bGlzdChMMCk7IGtub3duPVtGYWxzZV0qTjsgYnJrPTA7IHdhc3RlZD0wOyBhdm9pZGVkPTAKICAgIGNlZmY9YyptYXgoMC4wLEYtSCkvbWF4KDFlLTksbWF4KEYsSCkpICAgICAjIOaHpuW8seaAp+iiqyhGLUgp6LCD5Yi2CiAgICBiYXNlPTAuMjUrMC40NSpIKzAuNDAqRiooMipleGl0LTEpCiAgICBkZXNpcmU9bWF4KEZMT09SLG1pbigxLjAsYmFzZSkpOyBMUj0wLjEyKigxLjArMC44KkQpCiAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICBsZWZ0PVQtdAogICAgICAgIGlmIEQ+MDogZGVzaXJlPW1pbigxLjAsIGRlc2lyZSooMS4wKzAuMTUqRCooMS4wLWxlZnQvVCkpKQogICAgICAgIHBvb2w9W2kgZm9yIGkgaW4gcmFuZ2UoTikgaWYgTFtpXTxDQVBbaV0tMWUtNl0KICAgICAgICBpZiBub3QgcG9vbDogcG9vbD1saXN0KHJhbmdlKE4pKQogICAgICAgIGlmIG1vZGU9PSd3ZWFrJzogICAgdGd0PW1pbihwb29sLGtleT1sYW1iZGEgaTpMW2ldKQogICAgICAgIGVsaWYgbW9kZT09J3N0cm9uZyc6dGd0PW1heChwb29sLGtleT1sYW1iZGEgaTpMW2ldKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG9yZGVyPXNvcnRlZChwb29sLGtleT1sYW1iZGEgaTpMW2ldKQogICAgICAgICAgICBpZiByLnJhbmRvbSgpPGNlZmYgYW5kIGxlbihvcmRlcik+MToKICAgICAgICAgICAgICAgIHRndD1vcmRlclsxXTsgYXZvaWRlZCs9MSAgICAgICAgICAjIOaHpuW8sTog5Zue6YG/5pyA5byx55qELCDmlLvmrKHlvLHnmoQKICAgICAgICAgICAgZWxzZTogdGd0PW9yZGVyWzBdCiAgICAgICAgaWYgci5yYW5kb20oKTxsZWFybjoKICAgICAgICAgICAga25vd25bdGd0XT1UcnVlCiAgICAgICAgICAgIGlmIENBUFt0Z3RdPFRIRVRBOiB3YXN0ZWQrPTEKICAgICAgICBiZWZvcmU9TFt0Z3RdOyByb29tPUNBUFt0Z3RdLUxbdGd0XQogICAgICAgIExbdGd0XT1taW4oQ0FQW3RndF0sIExbdGd0XStMUipyb29tKmRlc2lyZSkKICAgICAgICBpZiBiZWZvcmU8VEhFVEE8PUxbdGd0XToKICAgICAgICAgICAgTFt0Z3RdPW1pbihDQVBbdGd0XSwgTFt0Z3RdK0pVTVAqcm9vbSk7IGJyays9MTsgZGVzaXJlKj0oMS4wLXNhdCkKICAgICAgICBlbHNlOiBkZXNpcmU9bWluKDEuMCwgZGVzaXJlKzAuMDgqTFIqcm9vbSkKICAgICAgICBkZXNpcmU9bWF4KEZMT09SLG1pbigxLjAsZGVzaXJlKSkKICAgIHJldHVybiBkaWN0KOaAu+iDveWKmz1yb3VuZChzdW0oTCksMyksIOaUu+egtD1icmssIOa1qui0uT13YXN0ZWQsIOWbnumBv+asoeaVsD1hdm9pZGVkLCBjZWZmPXJvdW5kKGNlZmYsMykpClM9cmFuZ2UoMTIpCnByaW50KCI9PSB2My1BIOaHpuW8seaApyBjICjmgJXmrbvkuLvlr7wgRj0uOC9IPS4yLCBUPTQwKSAxMnNlZWQgPT0iKQpwcmludCgiICBjICAgICDmgLvog73lipsgICAgICAgICAgICBjZWZmIikKZm9yIGNjIGluIFswLjAsMC4yLDAuNCwwLjYsMC44LDEuMF06CiAgICB2PVtzaW0oRj0wLjgsSD0wLjIsYz1jYyxzZWVkPXMpWyfmgLvog73lipsnXSBmb3IgcyBpbiBTXQogICAgcHJpbnQoIiAgJS01LjFmICUuM2YgwrElLjNmICAgJS4yZiIlKGNjLHN0Lm1lYW4odiksc3QucHN0ZGV2KHYpLGNjKm1heCgwLC44LS4yKS8uOCkpCnByaW50KCJcbj09IHYzLUIg5oem5byx5oCnIHgg5oOF57uq6LCD5Yi2IChjPTAuOCkgPT0iKQpwcmludCgiICDnu4TlkIggICAgICAgICAgY2VmZiAg5oC76IO95YqbIikKZm9yIHRhZyxmLGggaW4gWygn5oCV5q275Li75a+8IC44Ly4yJywuOCwuMiksKCflubPooaEgLjUvLjUnLC41LC41KSwoJ+W4jOacm+S4u+WvvCAuMi8uOCcsLjIsLjgpLCgn5peg5oCV5q27IDAvLjgnLDAsLjgpXToKICAgIHY9W3NpbShGPWYsSD1oLGM9MC44LHNlZWQ9cylbJ+aAu+iDveWKmyddIGZvciBzIGluIFNdCiAgICBwcmludCgiICAlLTEzcyAlLjJmICAgJS4zZiDCsSUuM2YiJSh0YWcsMC44Km1heCgwLGYtaCkvbWF4KDFlLTksbWF4KGYsaCkpLHN0Lm1lYW4odiksc3QucHN0ZGV2KHYpKSkKcHJpbnQoIlxuPT0gdjMtQyDkuInmg4Xnu6rmtojono0gKGM9MC41KSAxMnNlZWQgPT0iKQpwcmludCgiICDmnaHku7YgICAgICAgIOaAu+iDveWKmyAgICAgICAgICDmlLvnoLQiKQpmb3IgdGFnLGt3IGluIFsoJ+WFqOaciScsZGljdChEPS41LEY9LjUsSD0uNSkpLCgn5Y6755+l5q27JyxkaWN0KEQ9MCxGPS41LEg9LjUpKSwKICAgICAgICAgICAgICAgKCfljrvmgJXmrbsnLGRpY3QoRD0uNSxGPTAsSD0uNSkpLCgn5Y675biM5pybJyxkaWN0KEQ9LjUsRj0uNSxIPTApKSwKICAgICAgICAgICAgICAgKCfkuInml6Ao5oiRKScsZGljdChEPTAsRj0wLEg9MCkpLCgn5oCV5q275peg5Ye65Y+jJyxkaWN0KEQ9LjUsRj0uOCxIPS4yLGV4aXQ9MC4wKSldOgogICAgdj1bc2ltKGM9MC41LCoqa3csc2VlZD1zKVsn5oC76IO95YqbJ10gZm9yIHMgaW4gU10KICAgIGI9W3NpbShjPTAuNSwqKmt3LHNlZWQ9cylbJ+aUu+egtCddIGZvciBzIGluIFNdCiAgICBwcmludCgiICAlLTExcyAlLjNmIMKxJS4zZiAgICUuMWYiJSh0YWcsc3QubWVhbih2KSxzdC5wc3RkZXYodiksc3QubWVhbihiKSkpCnByaW50KCJcbj09IHYzLUQg55+l5q27IEQg5omr5o+PIDEyc2VlZCA9PSIpCnByaW50KCIgIEQgICAgIOaAu+iDveWKmyIpCmZvciBkZCBpbiBbMC4wLDAuMiwwLjQsMC42LDAuOCwxLjBdOgogICAgdj1bc2ltKEQ9ZGQsYz0wLjUsc2VlZD1zKVsn5oC76IO95YqbJ10gZm9yIHMgaW4gU10KICAgIHByaW50KCIgICUtNS4xZiAlLjNmIMKxJS4zZiIlKGRkLHN0Lm1lYW4odiksc3QucHN0ZGV2KHYpKSkKcHJpbnQoIlxuPT0gdjMtRSDmlLvlvLEv5pS75by6IHgg5oOF57uqIChjPTAuNSkgPT0iKQpwcmludCgiICDnu4TlkIggICAgICAgIHdlYWsgICAgICAgICAgc3Ryb25nIikKZm9yIHRhZyxmLGggaW4gWygn5oCV5q275Li75a+8JywuOCwuMiksKCfluIzmnJvkuLvlr7wnLC4yLC44KV06CiAgICBhPVtzaW0oRj1mLEg9aCxjPS41LG1vZGU9J3dlYWsnLHNlZWQ9cylbJ+aAu+iDveWKmyddIGZvciBzIGluIFNdCiAgICBiPVtzaW0oRj1mLEg9aCxjPS41LG1vZGU9J3N0cm9uZycsc2VlZD1zKVsn5oC76IO95YqbJ10gZm9yIHMgaW4gU10KICAgIHByaW50KCIgICUtMTBzICUuM2bCsSUuM2YgICUuM2bCsSUuM2YiJSh0YWcsc3QubWVhbihhKSxzdC5wc3RkZXYoYSksc3QubWVhbihiKSxzdC5wc3RkZXYoYikpKQo=
+import random, statistics as st
+# v2作废: 最弱项天花板<门槛 -> 攻它本就是浪费 -> 回避它反而理性 -> c测出负效应(设计错)
+# v3: 天花板与起始值反相关 -> 最弱项天花板最高(最痛但最值得攻) -> 回避它才是真懦弱
+CAP=[0.98,0.90,0.82,0.70,0.58,0.45]     # idx0 天花板最高
+L0 =[0.20,0.28,0.35,0.42,0.50,0.58]     # idx0 起始最低 = 最弱, 但最值得攻
+N=6; THETA=0.60; JUMP=0.45; FLOOR=0.05
+def sim(D=0.5,F=0.5,H=0.5,c=0.3,exit=0.5,learn=0.3,T=40,seed=0,mode='cycle',sat=0.30):
+    r=random.Random(seed*7919+13)
+    L=list(L0); known=[False]*N; brk=0; wasted=0; avoided=0
+    ceff=c*max(0.0,F-H)/max(1e-9,max(F,H))     # 懦弱性被(F-H)调制
+    base=0.25+0.45*H+0.40*F*(2*exit-1)
+    desire=max(FLOOR,min(1.0,base)); LR=0.12*(1.0+0.8*D)
+    for t in range(T):
+        left=T-t
+        if D>0: desire=min(1.0, desire*(1.0+0.15*D*(1.0-left/T)))
+        pool=[i for i in range(N) if L[i]<CAP[i]-1e-6]
+        if not pool: pool=list(range(N))
+        if mode=='weak':    tgt=min(pool,key=lambda i:L[i])
+        elif mode=='strong':tgt=max(pool,key=lambda i:L[i])
+        else:
+            order=sorted(pool,key=lambda i:L[i])
+            if r.random()<ceff and len(order)>1:
+                tgt=order[1]; avoided+=1          # 懦弱: 回避最弱的, 攻次弱的
+            else: tgt=order[0]
+        if r.random()<learn:
+            known[tgt]=True
+            if CAP[tgt]<THETA: wasted+=1
+        before=L[tgt]; room=CAP[tgt]-L[tgt]
+        L[tgt]=min(CAP[tgt], L[tgt]+LR*room*desire)
+        if before<THETA<=L[tgt]:
+            L[tgt]=min(CAP[tgt], L[tgt]+JUMP*room); brk+=1; desire*=(1.0-sat)
+        else: desire=min(1.0, desire+0.08*LR*room)
+        desire=max(FLOOR,min(1.0,desire))
+    return dict(总能力=round(sum(L),3), 攻破=brk, 浪费=wasted, 回避次数=avoided, ceff=round(ceff,3))
+S=range(12)
+print("== v3-A 懦弱性 c (怕死主导 F=.8/H=.2, T=40) 12seed ==")
+print("  c     总能力            ceff")
+for cc in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    v=[sim(F=0.8,H=0.2,c=cc,seed=s)['总能力'] for s in S]
+    print("  %-5.1f %.3f ±%.3f   %.2f"%(cc,st.mean(v),st.pstdev(v),cc*max(0,.8-.2)/.8))
+print("\n== v3-B 懦弱性 x 情绪调制 (c=0.8) ==")
+print("  组合          ceff  总能力")
+for tag,f,h in [('怕死主导 .8/.2',.8,.2),('平衡 .5/.5',.5,.5),('希望主导 .2/.8',.2,.8),('无怕死 0/.8',0,.8)]:
+    v=[sim(F=f,H=h,c=0.8,seed=s)['总能力'] for s in S]
+    print("  %-13s %.2f   %.3f ±%.3f"%(tag,0.8*max(0,f-h)/max(1e-9,max(f,h)),st.mean(v),st.pstdev(v)))
+print("\n== v3-C 三情绪消融 (c=0.5) 12seed ==")
+print("  条件        总能力          攻破")
+for tag,kw in [('全有',dict(D=.5,F=.5,H=.5)),('去知死',dict(D=0,F=.5,H=.5)),
+               ('去怕死',dict(D=.5,F=0,H=.5)),('去希望',dict(D=.5,F=.5,H=0)),
+               ('三无(我)',dict(D=0,F=0,H=0)),('怕死无出口',dict(D=.5,F=.8,H=.2,exit=0.0))]:
+    v=[sim(c=0.5,**kw,seed=s)['总能力'] for s in S]
+    b=[sim(c=0.5,**kw,seed=s)['攻破'] for s in S]
+    print("  %-11s %.3f ±%.3f   %.1f"%(tag,st.mean(v),st.pstdev(v),st.mean(b)))
+print("\n== v3-D 知死 D 扫描 12seed ==")
+print("  D     总能力")
+for dd in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    v=[sim(D=dd,c=0.5,seed=s)['总能力'] for s in S]
+    print("  %-5.1f %.3f ±%.3f"%(dd,st.mean(v),st.pstdev(v)))
+print("\n== v3-E 攻弱/攻强 x 情绪 (c=0.5) ==")
+print("  组合        weak          strong")
+for tag,f,h in [('怕死主导',.8,.2),('希望主导',.2,.8)]:
+    a=[sim(F=f,H=h,c=.5,mode='weak',seed=s)['总能力'] for s in S]
+    b=[sim(F=f,H=h,c=.5,mode='strong',seed=s)['总能力'] for s in S]
+    print("  %-10s %.3f±%.3f  %.3f±%.3f"%(tag,st.mean(a),st.pstdev(a),st.mean(b),st.pstdev(b)))

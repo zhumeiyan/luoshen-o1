@@ -1,1 +1,121 @@
-ewogICJRMSI6IFsKICAgIHsKICAgICAgInNlZ19sZW4iOiAyLAogICAgICAicF9iYWQiOiAwLjUsCiAgICAgICJtYWUiOiAwLjk3MjUsCiAgICAgICJzdGQiOiAwLjA0MTIKICAgIH0sCiAgICB7CiAgICAgICJzZWdfbGVuIjogMywKICAgICAgInBfYmFkIjogMC4zMzMzLAogICAgICAibWFlIjogMC45NjA5LAogICAgICAic3RkIjogMC4wMjkyCiAgICB9LAogICAgewogICAgICAic2VnX2xlbiI6IDQsCiAgICAgICJwX2JhZCI6IDAuMjUsCiAgICAgICJtYWUiOiAwLjkwOTYsCiAgICAgICJzdGQiOiAwLjAyODEKICAgIH0sCiAgICB7CiAgICAgICJzZWdfbGVuIjogNiwKICAgICAgInBfYmFkIjogMC4xNjY3LAogICAgICAibWFlIjogMC45MzU5LAogICAgICAic3RkIjogMC4wMTg2CiAgICB9LAogICAgewogICAgICAic2VnX2xlbiI6IDEyLAogICAgICAicF9iYWQiOiAwLjA4MzMsCiAgICAgICJtYWUiOiAwLjg5OTYsCiAgICAgICJzdGQiOiAwLjA0MDMKICAgIH0sCiAgICB7CiAgICAgICJzZWdfbGVuIjogMjQsCiAgICAgICJwX2JhZCI6IDAuMDQxNywKICAgICAgIm1hZSI6IDAuOTMwMywKICAgICAgInN0ZCI6IDAuMDQyMQogICAgfSwKICAgIHsKICAgICAgInNlZ19sZW4iOiA0OCwKICAgICAgInBfYmFkIjogMC4wMjA4LAogICAgICAibWFlIjogMC45MTk5LAogICAgICAic3RkIjogMC4wNDYKICAgIH0sCiAgICB7CiAgICAgICJzZWdfbGVuIjogInJlcGxheSIsCiAgICAgICJwX2JhZCI6IDAuMCwKICAgICAgIm1hZSI6IDAuOTE5OQogICAgfSwKICAgIHsKICAgICAgInNlZ19sZW4iOiAibm9pc2UiLAogICAgICAicF9iYWQiOiAxLjAsCiAgICAgICJtYWUiOiAxLjAxMTYKICAgIH0KICBdLAogICJRMiI6IFsKICAgIHsKICAgICAgIk5fb24iOiAxMCwKICAgICAgInJlc3QiOiAwLjg3MTUsCiAgICAgICJyZXBsYXkiOiAwLjk0NjgsCiAgICAgICJkcmVhbSI6IDAuOTM1NQogICAgfSwKICAgIHsKICAgICAgIk5fb24iOiAyMCwKICAgICAgInJlc3QiOiAwLjg2ODcsCiAgICAgICJyZXBsYXkiOiAwLjg5NDgsCiAgICAgICJkcmVhbSI6IDAuODc3MgogICAgfSwKICAgIHsKICAgICAgIk5fb24iOiA0MCwKICAgICAgInJlc3QiOiAwLjg5MTksCiAgICAgICJyZXBsYXkiOiAwLjkxOTksCiAgICAgICJkcmVhbSI6IDAuOTM1OQogICAgfSwKICAgIHsKICAgICAgIk5fb24iOiA4MCwKICAgICAgInJlc3QiOiAxLjAyNzYsCiAgICAgICJyZXBsYXkiOiAxLjAzMjMsCiAgICAgICJkcmVhbSI6IDEuMDQzOQogICAgfSwKICAgIHsKICAgICAgIk5fb24iOiAxNjAsCiAgICAgICJyZXN0IjogMS42Njc1LAogICAgICAicmVwbGF5IjogMS42NjI5LAogICAgICAiZHJlYW0iOiAxLjgwNzIKICAgIH0KICBdLAogICJRMyI6IFsKICAgIHsKICAgICAgIkJfb2ZmIjogMCwKICAgICAgInJlcGxheSI6IDAuODkxOSwKICAgICAgImRyZWFtIjogMC44OTE5CiAgICB9LAogICAgewogICAgICAiQl9vZmYiOiAyMCwKICAgICAgInJlcGxheSI6IDAuOTA1LAogICAgICAiZHJlYW0iOiAwLjg5MjYKICAgIH0sCiAgICB7CiAgICAgICJCX29mZiI6IDYwLAogICAgICAicmVwbGF5IjogMC45MDk5LAogICAgICAiZHJlYW0iOiAwLjg4OAogICAgfSwKICAgIHsKICAgICAgIkJfb2ZmIjogMTUwLAogICAgICAicmVwbGF5IjogMC45MTU0LAogICAgICAiZHJlYW0iOiAwLjkxNDIKICAgIH0sCiAgICB7CiAgICAgICJCX29mZiI6IDMwMCwKICAgICAgInJlcGxheSI6IDAuOTE5OSwKICAgICAgImRyZWFtIjogMC45MzU5CiAgICB9LAogICAgewogICAgICAiQl9vZmYiOiA2MDAsCiAgICAgICJyZXBsYXkiOiAwLjkyMzEsCiAgICAgICJkcmVhbSI6IDAuOTQ5CiAgICB9CiAgXSwKICAib3JhY2xlIjogMC44MDI0Cn0=
+{
+  "Q1": [
+    {
+      "seg_len": 2,
+      "p_bad": 0.5,
+      "mae": 0.9725,
+      "std": 0.0412
+    },
+    {
+      "seg_len": 3,
+      "p_bad": 0.3333,
+      "mae": 0.9609,
+      "std": 0.0292
+    },
+    {
+      "seg_len": 4,
+      "p_bad": 0.25,
+      "mae": 0.9096,
+      "std": 0.0281
+    },
+    {
+      "seg_len": 6,
+      "p_bad": 0.1667,
+      "mae": 0.9359,
+      "std": 0.0186
+    },
+    {
+      "seg_len": 12,
+      "p_bad": 0.0833,
+      "mae": 0.8996,
+      "std": 0.0403
+    },
+    {
+      "seg_len": 24,
+      "p_bad": 0.0417,
+      "mae": 0.9303,
+      "std": 0.0421
+    },
+    {
+      "seg_len": 48,
+      "p_bad": 0.0208,
+      "mae": 0.9199,
+      "std": 0.046
+    },
+    {
+      "seg_len": "replay",
+      "p_bad": 0.0,
+      "mae": 0.9199
+    },
+    {
+      "seg_len": "noise",
+      "p_bad": 1.0,
+      "mae": 1.0116
+    }
+  ],
+  "Q2": [
+    {
+      "N_on": 10,
+      "rest": 0.8715,
+      "replay": 0.9468,
+      "dream": 0.9355
+    },
+    {
+      "N_on": 20,
+      "rest": 0.8687,
+      "replay": 0.8948,
+      "dream": 0.8772
+    },
+    {
+      "N_on": 40,
+      "rest": 0.8919,
+      "replay": 0.9199,
+      "dream": 0.9359
+    },
+    {
+      "N_on": 80,
+      "rest": 1.0276,
+      "replay": 1.0323,
+      "dream": 1.0439
+    },
+    {
+      "N_on": 160,
+      "rest": 1.6675,
+      "replay": 1.6629,
+      "dream": 1.8072
+    }
+  ],
+  "Q3": [
+    {
+      "B_off": 0,
+      "replay": 0.8919,
+      "dream": 0.8919
+    },
+    {
+      "B_off": 20,
+      "replay": 0.905,
+      "dream": 0.8926
+    },
+    {
+      "B_off": 60,
+      "replay": 0.9099,
+      "dream": 0.888
+    },
+    {
+      "B_off": 150,
+      "replay": 0.9154,
+      "dream": 0.9142
+    },
+    {
+      "B_off": 300,
+      "replay": 0.9199,
+      "dream": 0.9359
+    },
+    {
+      "B_off": 600,
+      "replay": 0.9231,
+      "dream": 0.949
+    }
+  ],
+  "oracle": 0.8024
+}

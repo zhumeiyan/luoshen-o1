@@ -1,1 +1,207 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIxNDU6IOiDveWQpuWcqOe6v+WIpOWumuS4lueVjOW9oueKtu+8jOW5tuaNruatpOWIh+aNouiusOW/huetlueVpe+8nwoKMTQ0IOe7k+iuujog5L+d5oyB5pe26Ze06aG65bqP5piv6LWE5LqnKGRyaWZ0Kei/mOaYr+i0n+WAuihzcXVhcmXlkajmnJ8p77yM5Y+W5Yaz5LqO5LiW55WM5b2i54q244CCCuS9hiAxNDQg6YeM5b2i54q25piv5a6e6aqM6ICF57uZ55qE44CC5pys6L2uOiDlrabkuaDogIXlj6rnnIvov4fljrvop4LmtYvvvIzoh6rlt7HliKTlvaLnirbvvIzoh6rlt7HpgInnrZbnlaXjgIIKCuS4peagvOe6puadnzoKICDliKTliKvlmajlj6rog73nnIsgWVswOnRdICjov4fljrspLCDkuI3og73nnIvmnKrmnaUsIOS4jeiDveeci+ecn+adg+mHjSBX44CCCiAg562W55Wl5Y+q5b2x5ZONIueUqOWTquS6m+WOhuWPsuagt+acrOaLn+WQiCIsIOS4jeaUueWtpuS5oOeul+azleacrOi6q+OAggoiIiIKaW1wb3J0IGpzb24sIG9zLCBudW1weSBhcyBucAoKT1VUID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCk4gPSA0MjAgICAgICAgICAgIyDmraXmlbAKRCA9IDQgICAgICAgICAgICAjIOeJueW+gee7tApLID0gNjAgICAgICAgICAgICMg6L+R5Zug56qX5Y+jCkVWQUxfRlJPTSA9IDEyMCAgIyDliY0gMTIwIOatpemihOeDrSwg5LmL5ZCO5omN6K6h5YWl6K+v5beuCk5PSVNFID0gMC4xNQpDWUNMRVMgPSAzLjAKTEFNID0gMWUtMwpUSEVUQVMgPSBbMS4wLCAxLjUsIDIuMCwgMy4wLCA0LjBdClRIRVRBX01BSU4gPSAyLjAKU0VFRFMgPSBsaXN0KHJhbmdlKDI0KSkKCgojIC0tLS0tLS0tLS0tLS0tLS0g5LiW55WMIC0tLS0tLS0tLS0tLS0tLS0KZGVmIGdlbl93b3JsZChraW5kLCBzZWVkLCBuPU4sIGQ9RCwgZHJpZnQ9MS4wKToKICAgIHJuZyA9IG5wLnJhbmRvbS5SYW5kb21TdGF0ZShzZWVkKQogICAgWCA9IHJuZy5ub3JtYWwoc2l6ZT0obiwgZCkpCiAgICB3MCA9IHJuZy5ub3JtYWwoc2l6ZT1kKQogICAgdiA9IHJuZy5ub3JtYWwoc2l6ZT1kKSAgICAgICAgICAjIOa8guenu+aWueWQkSwg5LiA5qyh5oCn6YeH5qC3CiAgICB1ID0gbnAuYXJhbmdlKG4pIC8gZmxvYXQobikKICAgIGlmIGtpbmQgPT0gInN0YXRpb25hcnkiOgogICAgICAgIGFtcCA9IG5wLnplcm9zKG4pCiAgICBlbGlmIGtpbmQgPT0gIm1vbm90b25lIjoKICAgICAgICBhbXAgPSBkcmlmdCAqIHUKICAgIGVsaWYga2luZCA9PSAic2luZSI6CiAgICAgICAgYW1wID0gZHJpZnQgKiBucC5zaW4oMiAqIG5wLnBpICogQ1lDTEVTICogdSkKICAgIGVsaWYga2luZCA9PSAic3F1YXJlIjoKICAgICAgICBhbXAgPSBkcmlmdCAqIG5wLnNpZ24obnAuc2luKDIgKiBucC5waSAqIENZQ0xFUyAqIHUpKQogICAgZWxzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGtpbmQpCiAgICBXID0gdzBbTm9uZSwgOl0gKyBhbXBbOiwgTm9uZV0gKiB2W05vbmUsIDpdCiAgICBZID0gbnAuc3VtKFggKiBXLCBheGlzPTEpICsgcm5nLm5vcm1hbChzY2FsZT1OT0lTRSwgc2l6ZT1uKQogICAgcmV0dXJuIFgsIFksIFcKCgojIC0tLS0tLS0tLS0tLS0tLS0g5Yik5Yir5ZmoOiDlj6rnnIvov4fljrssIOWIpCAi5piv5ZCmIGRyaWZ0IiAtLS0tLS0tLS0tLS0tLS0tCmRlZiBqdWRnZV9kcmlmdChZaGlzdCwgdGhldGE9VEhFVEFfTUFJTik6CiAgICAiIiLlr7kgWVswOnRdIOWBmuaWnOeOh+aYvuiRl+aAp+ajgOmqjOOAgui/lOWbniAo5piv5ZCm5YikZHJpZnQsIHTnu5/orqHph48pIiIiCiAgICBuID0gbGVuKFloaXN0KQogICAgaWYgbiA8IDEyOgogICAgICAgIHJldHVybiBGYWxzZSwgMC4wCiAgICB0ID0gbnAuYXJhbmdlKG4sIGR0eXBlPWZsb2F0KQogICAgQSA9IG5wLnZzdGFjayhbbnAub25lcyhuKSwgdF0pLlQKICAgIHRyeToKICAgICAgICBjb2VmLCAqXyA9IG5wLmxpbmFsZy5sc3RzcShBLCBZaGlzdCwgcmNvbmQ9Tm9uZSkKICAgIGV4Y2VwdCBucC5saW5hbGcuTGluQWxnRXJyb3I6CiAgICAgICAgcmV0dXJuIEZhbHNlLCAwLjAKICAgIHJlc2lkID0gWWhpc3QgLSBBIEAgY29lZgogICAgcyA9IHJlc2lkLnN0ZCgpCiAgICBkZW5vbSA9IG5wLnN1bSgodCAtIHQubWVhbigpKSAqKiAyKQogICAgaWYgZGVub20gPD0gMCBvciBzIDw9IDFlLTEyOgogICAgICAgIHJldHVybiBGYWxzZSwgMC4wCiAgICBzZSA9IHMgLyBucC5zcXJ0KGRlbm9tKQogICAgdHN0YXQgPSBhYnMoY29lZlsxXSkgLyBzZQogICAgcmV0dXJuIGJvb2wodHN0YXQgPiB0aGV0YSksIGZsb2F0KHRzdGF0KQoKCiMgLS0tLS0tLS0tLS0tLS0tLSDnrZbnlaUgLS0tLS0tLS0tLS0tLS0tLQpkZWYgZml0X3JpZGdlKFhoLCBZaCwgbGFtPUxBTSk6CiAgICBkID0gWGguc2hhcGVbMV0KICAgIEEgPSBYaC5UIEAgWGggKyBsYW0gKiBucC5leWUoZCkKICAgIGIgPSBYaC5UIEAgWWgKICAgIHRyeToKICAgICAgICByZXR1cm4gbnAubGluYWxnLnNvbHZlKEEsIGIpCiAgICBleGNlcHQgbnAubGluYWxnLkxpbkFsZ0Vycm9yOgogICAgICAgIHJldHVybiBucC56ZXJvcyhkKQoKCmRlZiBydW5fYXJtKGtpbmQsIHNlZWQsIHBvbGljeSwgdGhldGE9VEhFVEFfTUFJTiwgaml0dGVyX3JuZz1Ob25lKToKICAgICIiInBvbGljeTogQUxMIC8gUkVDRU5UIC8gQURBUFRJVkUgLyBBREFQVElWRV9SQU5ET00iIiIKICAgIFgsIFksIFcgPSBnZW5fd29ybGQoa2luZCwgc2VlZCkKICAgIGVycnMsIHZlcmRpY3RzLCB0cnV0aCA9IFtdLCBbXSwgW10KICAgIHplcm9fYiwgaWRlbnRfYiA9IFtdLCBbXQogICAgZm9yIHQgaW4gcmFuZ2UoRVZBTF9GUk9NLCBsZW4oWSkpOgogICAgICAgIFhoX2FsbCwgWWhfYWxsID0gWFs6dF0sIFlbOnRdCiAgICAgICAgaXNfZHJpZnQsIF8gPSBqdWRnZV9kcmlmdChZaF9hbGwsIHRoZXRhKQogICAgICAgIHRydXRoLmFwcGVuZChraW5kID09ICJtb25vdG9uZSIpCiAgICAgICAgaWYgcG9saWN5ID09ICJBTEwiOgogICAgICAgICAgICB1c2UsIHYgPSAoWGhfYWxsLCBZaF9hbGwpLCBGYWxzZQogICAgICAgIGVsaWYgcG9saWN5ID09ICJSRUNFTlQiOgogICAgICAgICAgICB1c2UsIHYgPSAoWGhfYWxsWy1LOl0sIFloX2FsbFstSzpdKSwgVHJ1ZQogICAgICAgIGVsaWYgcG9saWN5ID09ICJBREFQVElWRSI6CiAgICAgICAgICAgIHYgPSBpc19kcmlmdAogICAgICAgIGVsaWYgcG9saWN5ID09ICJBREFQVElWRV9SQU5ET00iOgogICAgICAgICAgICAjIOi0n+mdouWvueeFpzog5Yik5a6a57uT5p6c6ZqP5py65YyWLCDkv53njofkuI3lkIzkvYbnoLTlnY/ml7bluo/pkojlr7nmgKcKICAgICAgICAgICAgdiA9IGJvb2woaml0dGVyX3JuZy5yYW5kKCkgPCAwLjUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihwb2xpY3kpCiAgICAgICAgaWYgcG9saWN5IGluICgiQURBUFRJVkUiLCAiQURBUFRJVkVfUkFORE9NIik6CiAgICAgICAgICAgIHVzZSA9IChYaF9hbGxbLUs6XSwgWWhfYWxsWy1LOl0pIGlmIHYgZWxzZSAoWGhfYWxsLCBZaF9hbGwpCiAgICAgICAgdmVyZGljdHMuYXBwZW5kKGJvb2wodikpCiAgICAgICAgdyA9IGZpdF9yaWRnZSh1c2VbMF0sIHVzZVsxXSkKICAgICAgICBwcmVkID0gZmxvYXQoWFt0XSBAIHcpCiAgICAgICAgZXJycy5hcHBlbmQoYWJzKHByZWQgLSBZW3RdKSkKICAgICAgICB6ZXJvX2IuYXBwZW5kKGFicyhZW3RdKSkKICAgICAgICBpZGVudF9iLmFwcGVuZChhYnMoWVt0IC0gMV0gLSBZW3RdKSkKICAgIHJldHVybiBkaWN0KGVycj1mbG9hdChucC5tZWFuKGVycnMpKSwKICAgICAgICAgICAgICAgIGRyaWZ0X3JhdGU9ZmxvYXQobnAubWVhbih2ZXJkaWN0cykpLAogICAgICAgICAgICAgICAgdHJ1dGhfZHJpZnRfcmF0ZT1mbG9hdChucC5tZWFuKHRydXRoKSksCiAgICAgICAgICAgICAgICB6ZXJvPWZsb2F0KG5wLm1lYW4oemVyb19iKSksIGlkZW50PWZsb2F0KG5wLm1lYW4oaWRlbnRfYikpKQoKCiMgLS0tLS0tLS0tLS0tLS0tLSDnu5/orqEgLS0tLS0tLS0tLS0tLS0tLQpkZWYgbWVhbl9jaSh2LCBuYj00MDAwLCBzZWVkPTk4NzY1NCk6CiAgICB2ID0gbnAuYXNhcnJheSh2LCBmbG9hdCkKICAgIG4gPSBsZW4odikKICAgIGlmIG4gPT0gMDoKICAgICAgICByZXR1cm4gMC4wLCAwLjAsIDAuMAogICAgYiA9IHZbbnAucmFuZG9tLlJhbmRvbVN0YXRlKHNlZWQpLnJhbmRpbnQoMCwgbiwgKG5iLCBuKSldLm1lYW4oYXhpcz0xKQogICAgbG8sIGhpID0gbnAucGVyY2VudGlsZShiLCBbMi41LCA5Ny41XSkKICAgIHJldHVybiBmbG9hdCh2Lm1lYW4oKSksIGZsb2F0KGxvKSwgZmxvYXQoaGkpCgoKZGVmIG1haW4oKToKICAgIHdvcmxkcyA9IFsic3RhdGlvbmFyeSIsICJtb25vdG9uZSIsICJzaW5lIiwgInNxdWFyZSJdCiAgICBwb2xpY2llcyA9IFsiQUxMIiwgIlJFQ0VOVCIsICJBREFQVElWRSIsICJBREFQVElWRV9SQU5ET00iXQogICAgcmVzID0ge3c6IHtwOiBbXSBmb3IgcCBpbiBwb2xpY2llc30gZm9yIHcgaW4gd29ybGRzfQogICAgZm9yIHcgaW4gd29ybGRzOgogICAgICAgIGZvciBzZCBpbiBTRUVEUzoKICAgICAgICAgICAganIgPSBucC5yYW5kb20uUmFuZG9tU3RhdGUoc2QgKiA3OTE5ICsgMTMpCiAgICAgICAgICAgIGZvciBwIGluIHBvbGljaWVzOgogICAgICAgICAgICAgICAgcmVzW3ddW3BdLmFwcGVuZChydW5fYXJtKHcsIHNkLCBwLCBUSEVUQV9NQUlOLCBqcikpCgogICAgb3V0ID0geyJ3b3JsZHMiOiB7fSwgInZlcmRpY3QiOiB7fX0KICAgIHByaW50KCI9PT0gTUFJTiAodGhldGE9JS4xZikgPT09IiAlIFRIRVRBX01BSU4pCiAgICBmb3IgdyBpbiB3b3JsZHM6CiAgICAgICAgb3V0WyJ3b3JsZHMiXVt3XSA9IHt9CiAgICAgICAgcHJpbnQoIi0tICVzIiAlIHcpCiAgICAgICAgZm9yIHAgaW4gcG9saWNpZXM6CiAgICAgICAgICAgIHJzID0gcmVzW3ddW3BdCiAgICAgICAgICAgIG0sIGxvLCBoaSA9IG1lYW5fY2koW3JbImVyciJdIGZvciByIGluIHJzXSkKICAgICAgICAgICAgZHIsIF8sIF8gPSBtZWFuX2NpKFtyWyJkcmlmdF9yYXRlIl0gZm9yIHIgaW4gcnNdKQogICAgICAgICAgICBvdXRbIndvcmxkcyJdW3ddW3BdID0geyJlcnIiOiBtLCAiY2kiOiBbbG8sIGhpXSwgImRyaWZ0X3JhdGUiOiBkcn0KICAgICAgICAgICAgcHJpbnQoIiAgICUtMTZzIGVyciAlLjRmIFslLjRmLCUuNGZdICBqdWRnZV9kcmlmdCAlLjNmIgogICAgICAgICAgICAgICAgICAlIChwLCBtLCBsbywgaGksIGRyKSkKICAgICAgICB6ID0gbnAubWVhbihbclsiemVybyJdIGZvciByIGluIHJlc1t3XVsiQUxMIl1dKQogICAgICAgIGliID0gbnAubWVhbihbclsiaWRlbnQiXSBmb3IgciBpbiByZXNbd11bIkFMTCJdXSkKICAgICAgICBvdXRbIndvcmxkcyJdW3ddWyJiYXNlbGluZXMiXSA9IHsiemVybyI6IGZsb2F0KHopLCAiaWRlbnQiOiBmbG9hdChpYil9CiAgICAgICAgcHJpbnQoIiAgIGJhc2VsaW5lczogemVybyAlLjRmICBpZGVudCAlLjRmIiAlICh6LCBpYikpCgogICAgIyBHMTog5Yik5Yir5Zmo6IO95Lqn55Sf55yf5Lmf6IO95Lqn55Sf5YGHCiAgICBnMWEgPSBvdXRbIndvcmxkcyJdWyJtb25vdG9uZSJdWyJBREFQVElWRSJdWyJkcmlmdF9yYXRlIl0gPiAwLjUKICAgIGcxYiA9IG91dFsid29ybGRzIl1bInN0YXRpb25hcnkiXVsiQURBUFRJVkUiXVsiZHJpZnRfcmF0ZSJdIDwgMC4zCiAgICAjIEcyOiBBREFQVElWRSDkuI3liqPkuo7ovoPlpb3nmoTlm7rlrprnrZbnlaUgKCvlrrnlt64pCiAgICBnMiA9IHt9CiAgICBmb3IgdyBpbiB3b3JsZHM6CiAgICAgICAgYSA9IG91dFsid29ybGRzIl1bd11bIkFEQVBUSVZFIl1bImVyciJdCiAgICAgICAgYmVzdCA9IG1pbihvdXRbIndvcmxkcyJdW3ddWyJBTEwiXVsiZXJyIl0sIG91dFsid29ybGRzIl1bd11bIlJFQ0VOVCJdWyJlcnIiXSkKICAgICAgICBnMlt3XSA9IGJvb2woYSA8PSBiZXN0ICsgMC4wMikKICAgICMgRzM6IOmaj+acuuWMluWIpOWumuaYvuiRl+abtOW3riAo6Leo5LiW55WM5ZCI6K6hKQogICAgZGlmZiA9IFtdCiAgICBmb3IgdyBpbiB3b3JsZHM6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJlc1t3XVsiQURBUFRJVkUiXSkpOgogICAgICAgICAgICBkaWZmLmFwcGVuZChyZXNbd11bIkFEQVBUSVZFX1JBTkRPTSJdW2ldWyJlcnIiXSAtIHJlc1t3XVsiQURBUFRJVkUiXVtpXVsiZXJyIl0pCiAgICBtMywgbG8zLCBoaTMgPSBtZWFuX2NpKGRpZmYpCiAgICBnMyA9IGJvb2wobG8zID4gMCkKICAgICMg6Zi05oCn5a+554WnOiBzdGF0aW9uYXJ5IOS4iuWIh+aNouW6lOaXoOaUtuebigogICAgZHMgPSBbcmVzWyJzdGF0aW9uYXJ5Il1bIlJFQ0VOVCJdW2ldWyJlcnIiXSAtIHJlc1sic3RhdGlvbmFyeSJdWyJBREFQVElWRSJdW2ldWyJlcnIiXQogICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJlc1sic3RhdGlvbmFyeSJdWyJBREFQVElWRSJdKSldCiAgICBtcywgbG9zLCBoaXMgPSBtZWFuX2NpKGRzKQoKICAgIG91dFsidmVyZGljdCJdID0gewogICAgICAgICJHMV9kcmlmdF9qdWRnZWQiOiBib29sKGcxYSksICJHMV9zdGF0aW9uYXJ5X25vdF9qdWRnZWQiOiBib29sKGcxYiksCiAgICAgICAgIkcxIjogYm9vbChnMWEgYW5kIGcxYiksCiAgICAgICAgIkcyX3Blcl93b3JsZCI6IGcyLCAiRzIiOiBib29sKGFsbChnMi52YWx1ZXMoKSkpLAogICAgICAgICJHM19kaWZmX21lYW4iOiBtMywgIkczX2NpIjogW2xvMywgaGkzXSwgIkczIjogZzMsCiAgICAgICAgIm5lZ2N0bF9zdGF0aW9uYXJ5X3JlY2VudF9taW51c19hZGFwdGl2ZSI6IFttcywgbG9zLCBoaXNdLAogICAgfQogICAgcHJpbnQoIkcxIiwgb3V0WyJ2ZXJkaWN0Il1bIkcxIl0sICJ8IEcyIiwgZzIsICJ8IEczIiwgZzMsCiAgICAgICAgICAiZGlmZiAlKy40ZiBbJSsuNGYsJSsuNGZdIiAlIChtMywgbG8zLCBoaTMpKQogICAgcHJpbnQoIm5lZ2N0bCBzdGF0aW9uYXJ5IHJlY2VudC1hZGFwdGl2ZSAlKy40ZiBbJSsuNGYsJSsuNGZdIiAlIChtcywgbG9zLCBoaXMpKQoKICAgICMgdGhldGEg5pWP5oSf5oCnICjkuI3mjJHlpb3nnIvnmoQsIOWFqOaKpSkKICAgIG91dFsidGhldGFfc2NhbiJdID0ge30KICAgIGZvciB0aCBpbiBUSEVUQVM6CiAgICAgICAgcm93ID0ge30KICAgICAgICBmb3IgdyBpbiBbIm1vbm90b25lIiwgInN0YXRpb25hcnkiXToKICAgICAgICAgICAgcnIgPSBbcnVuX2FybSh3LCBzZCwgIkFEQVBUSVZFIiwgdGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgbnAucmFuZG9tLlJhbmRvbVN0YXRlKHNkICogNzkxOSArIDEzKSkgZm9yIHNkIGluIFNFRURTWzoxMl1dCiAgICAgICAgICAgIGUsIF8sIF8gPSBtZWFuX2NpKFtyWyJlcnIiXSBmb3IgciBpbiBycl0pCiAgICAgICAgICAgIGQsIF8sIF8gPSBtZWFuX2NpKFtyWyJkcmlmdF9yYXRlIl0gZm9yIHIgaW4gcnJdKQogICAgICAgICAgICByb3dbd10gPSB7ImVyciI6IGUsICJkcmlmdF9yYXRlIjogZH0KICAgICAgICBvdXRbInRoZXRhX3NjYW4iXVtzdHIodGgpXSA9IHJvdwogICAgICAgIHByaW50KCJ0aGV0YSAlLjFmICBtb25vdG9uZSBlcnIgJS40ZiBkciAlLjNmIHwgc3RhdGlvbmFyeSBlcnIgJS40ZiBkciAlLjNmIgogICAgICAgICAgICAgICUgKHRoLCByb3dbIm1vbm90b25lIl1bImVyciJdLCByb3dbIm1vbm90b25lIl1bImRyaWZ0X3JhdGUiXSwKICAgICAgICAgICAgICAgICByb3dbInN0YXRpb25hcnkiXVsiZXJyIl0sIHJvd1sic3RhdGlvbmFyeSJdWyJkcmlmdF9yYXRlIl0pKQoKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oT1VULCAicmVzdWx0XzE0NS5qc29uIiksICJ3IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAob3V0LCBmLCBpbmRlbnQ9MiwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgcHJpbnQoIldST1RFIHJlc3VsdF8xNDUuanNvbiIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""145: 能否在线判定世界形状，并据此切换记忆策略？
+
+144 结论: 保持时间顺序是资产(drift)还是负债(square周期)，取决于世界形状。
+但 144 里形状是实验者给的。本轮: 学习者只看过去观测，自己判形状，自己选策略。
+
+严格约束:
+  判别器只能看 Y[0:t] (过去), 不能看未来, 不能看真权重 W。
+  策略只影响"用哪些历史样本拟合", 不改学习算法本身。
+"""
+import json, os, numpy as np
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+N = 420          # 步数
+D = 4            # 特征维
+K = 60           # 近因窗口
+EVAL_FROM = 120  # 前 120 步预热, 之后才计入误差
+NOISE = 0.15
+CYCLES = 3.0
+LAM = 1e-3
+THETAS = [1.0, 1.5, 2.0, 3.0, 4.0]
+THETA_MAIN = 2.0
+SEEDS = list(range(24))
+
+
+# ---------------- 世界 ----------------
+def gen_world(kind, seed, n=N, d=D, drift=1.0):
+    rng = np.random.RandomState(seed)
+    X = rng.normal(size=(n, d))
+    w0 = rng.normal(size=d)
+    v = rng.normal(size=d)          # 漂移方向, 一次性采样
+    u = np.arange(n) / float(n)
+    if kind == "stationary":
+        amp = np.zeros(n)
+    elif kind == "monotone":
+        amp = drift * u
+    elif kind == "sine":
+        amp = drift * np.sin(2 * np.pi * CYCLES * u)
+    elif kind == "square":
+        amp = drift * np.sign(np.sin(2 * np.pi * CYCLES * u))
+    else:
+        raise ValueError(kind)
+    W = w0[None, :] + amp[:, None] * v[None, :]
+    Y = np.sum(X * W, axis=1) + rng.normal(scale=NOISE, size=n)
+    return X, Y, W
+
+
+# ---------------- 判别器: 只看过去, 判 "是否 drift" ----------------
+def judge_drift(Yhist, theta=THETA_MAIN):
+    """对 Y[0:t] 做斜率显著性检验。返回 (是否判drift, t统计量)"""
+    n = len(Yhist)
+    if n < 12:
+        return False, 0.0
+    t = np.arange(n, dtype=float)
+    A = np.vstack([np.ones(n), t]).T
+    try:
+        coef, *_ = np.linalg.lstsq(A, Yhist, rcond=None)
+    except np.linalg.LinAlgError:
+        return False, 0.0
+    resid = Yhist - A @ coef
+    s = resid.std()
+    denom = np.sum((t - t.mean()) ** 2)
+    if denom <= 0 or s <= 1e-12:
+        return False, 0.0
+    se = s / np.sqrt(denom)
+    tstat = abs(coef[1]) / se
+    return bool(tstat > theta), float(tstat)
+
+
+# ---------------- 策略 ----------------
+def fit_ridge(Xh, Yh, lam=LAM):
+    d = Xh.shape[1]
+    A = Xh.T @ Xh + lam * np.eye(d)
+    b = Xh.T @ Yh
+    try:
+        return np.linalg.solve(A, b)
+    except np.linalg.LinAlgError:
+        return np.zeros(d)
+
+
+def run_arm(kind, seed, policy, theta=THETA_MAIN, jitter_rng=None):
+    """policy: ALL / RECENT / ADAPTIVE / ADAPTIVE_RANDOM"""
+    X, Y, W = gen_world(kind, seed)
+    errs, verdicts, truth = [], [], []
+    zero_b, ident_b = [], []
+    for t in range(EVAL_FROM, len(Y)):
+        Xh_all, Yh_all = X[:t], Y[:t]
+        is_drift, _ = judge_drift(Yh_all, theta)
+        truth.append(kind == "monotone")
+        if policy == "ALL":
+            use, v = (Xh_all, Yh_all), False
+        elif policy == "RECENT":
+            use, v = (Xh_all[-K:], Yh_all[-K:]), True
+        elif policy == "ADAPTIVE":
+            v = is_drift
+        elif policy == "ADAPTIVE_RANDOM":
+            # 负面对照: 判定结果随机化, 保率不同但破坏时序针对性
+            v = bool(jitter_rng.rand() < 0.5)
+        else:
+            raise ValueError(policy)
+        if policy in ("ADAPTIVE", "ADAPTIVE_RANDOM"):
+            use = (Xh_all[-K:], Yh_all[-K:]) if v else (Xh_all, Yh_all)
+        verdicts.append(bool(v))
+        w = fit_ridge(use[0], use[1])
+        pred = float(X[t] @ w)
+        errs.append(abs(pred - Y[t]))
+        zero_b.append(abs(Y[t]))
+        ident_b.append(abs(Y[t - 1] - Y[t]))
+    return dict(err=float(np.mean(errs)),
+                drift_rate=float(np.mean(verdicts)),
+                truth_drift_rate=float(np.mean(truth)),
+                zero=float(np.mean(zero_b)), ident=float(np.mean(ident_b)))
+
+
+# ---------------- 统计 ----------------
+def mean_ci(v, nb=4000, seed=987654):
+    v = np.asarray(v, float)
+    n = len(v)
+    if n == 0:
+        return 0.0, 0.0, 0.0
+    b = v[np.random.RandomState(seed).randint(0, n, (nb, n))].mean(axis=1)
+    lo, hi = np.percentile(b, [2.5, 97.5])
+    return float(v.mean()), float(lo), float(hi)
+
+
+def main():
+    worlds = ["stationary", "monotone", "sine", "square"]
+    policies = ["ALL", "RECENT", "ADAPTIVE", "ADAPTIVE_RANDOM"]
+    res = {w: {p: [] for p in policies} for w in worlds}
+    for w in worlds:
+        for sd in SEEDS:
+            jr = np.random.RandomState(sd * 7919 + 13)
+            for p in policies:
+                res[w][p].append(run_arm(w, sd, p, THETA_MAIN, jr))
+
+    out = {"worlds": {}, "verdict": {}}
+    print("=== MAIN (theta=%.1f) ===" % THETA_MAIN)
+    for w in worlds:
+        out["worlds"][w] = {}
+        print("-- %s" % w)
+        for p in policies:
+            rs = res[w][p]
+            m, lo, hi = mean_ci([r["err"] for r in rs])
+            dr, _, _ = mean_ci([r["drift_rate"] for r in rs])
+            out["worlds"][w][p] = {"err": m, "ci": [lo, hi], "drift_rate": dr}
+            print("   %-16s err %.4f [%.4f,%.4f]  judge_drift %.3f"
+                  % (p, m, lo, hi, dr))
+        z = np.mean([r["zero"] for r in res[w]["ALL"]])
+        ib = np.mean([r["ident"] for r in res[w]["ALL"]])
+        out["worlds"][w]["baselines"] = {"zero": float(z), "ident": float(ib)}
+        print("   baselines: zero %.4f  ident %.4f" % (z, ib))
+
+    # G1: 判别器能产生真也能产生假
+    g1a = out["worlds"]["monotone"]["ADAPTIVE"]["drift_rate"] > 0.5
+    g1b = out["worlds"]["stationary"]["ADAPTIVE"]["drift_rate"] < 0.3
+    # G2: ADAPTIVE 不劣于较好的固定策略 (+容差)
+    g2 = {}
+    for w in worlds:
+        a = out["worlds"][w]["ADAPTIVE"]["err"]
+        best = min(out["worlds"][w]["ALL"]["err"], out["worlds"][w]["RECENT"]["err"])
+        g2[w] = bool(a <= best + 0.02)
+    # G3: 随机化判定显著更差 (跨世界合计)
+    diff = []
+    for w in worlds:
+        for i in range(len(res[w]["ADAPTIVE"])):
+            diff.append(res[w]["ADAPTIVE_RANDOM"][i]["err"] - res[w]["ADAPTIVE"][i]["err"])
+    m3, lo3, hi3 = mean_ci(diff)
+    g3 = bool(lo3 > 0)
+    # 阴性对照: stationary 上切换应无收益
+    ds = [res["stationary"]["RECENT"][i]["err"] - res["stationary"]["ADAPTIVE"][i]["err"]
+          for i in range(len(res["stationary"]["ADAPTIVE"]))]
+    ms, los, his = mean_ci(ds)
+
+    out["verdict"] = {
+        "G1_drift_judged": bool(g1a), "G1_stationary_not_judged": bool(g1b),
+        "G1": bool(g1a and g1b),
+        "G2_per_world": g2, "G2": bool(all(g2.values())),
+        "G3_diff_mean": m3, "G3_ci": [lo3, hi3], "G3": g3,
+        "negctl_stationary_recent_minus_adaptive": [ms, los, his],
+    }
+    print("G1", out["verdict"]["G1"], "| G2", g2, "| G3", g3,
+          "diff %+.4f [%+.4f,%+.4f]" % (m3, lo3, hi3))
+    print("negctl stationary recent-adaptive %+.4f [%+.4f,%+.4f]" % (ms, los, his))
+
+    # theta 敏感性 (不挑好看的, 全报)
+    out["theta_scan"] = {}
+    for th in THETAS:
+        row = {}
+        for w in ["monotone", "stationary"]:
+            rr = [run_arm(w, sd, "ADAPTIVE", th,
+                          np.random.RandomState(sd * 7919 + 13)) for sd in SEEDS[:12]]
+            e, _, _ = mean_ci([r["err"] for r in rr])
+            d, _, _ = mean_ci([r["drift_rate"] for r in rr])
+            row[w] = {"err": e, "drift_rate": d}
+        out["theta_scan"][str(th)] = row
+        print("theta %.1f  monotone err %.4f dr %.3f | stationary err %.4f dr %.3f"
+              % (th, row["monotone"]["err"], row["monotone"]["drift_rate"],
+                 row["stationary"]["err"], row["stationary"]["drift_rate"]))
+
+    with open(os.path.join(OUT, "result_145.json"), "w") as f:
+        json.dump(out, f, indent=2, ensure_ascii=False)
+    print("WROTE result_145.json")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,111 @@
-ewogICJkcml2ZSI6ICJjdXJpb3NpdHkiLAogICJkdXJhdGlvbiI6IDE4LjAsCiAgInRpY2tzIjogNzY2LAogICJuX2FjdGlvbnMiOiAzMiwKICAic3BvbnRfcmF0ZSI6IDAuMDQxNzc1NDU2OTE5MDYwMDUsCiAgImNvdmVyYWdlIjogMC45Njk2OTY5Njk2OTY5Njk3LAogICJ1bmlxdWVfbm9kZXMiOiAzMiwKICAiYWN0aW9ucyI6IFsKICAgIHsKICAgICAgInRpY2siOiAxLAogICAgICAibm9kZSI6ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cyIsCiAgICAgICJ0IjogMC4wOTQKICAgIH0sCiAgICB7CiAgICAgICJ0aWNrIjogMiwKICAgICAgIm5vZGUiOiAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2UiLAogICAgICAidCI6IDAuMTYyCiAgICB9LAogICAgewogICAgICAidGljayI6IDMsCiAgICAgICJub2RlIjogIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2ZpZyIsCiAgICAgICJ0IjogMC4yNgogICAgfSwKICAgIHsKICAgICAgInRpY2siOiA0LAogICAgICAibm9kZSI6ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9kb2NzIiwKICAgICAgInQiOiAwLjM1OQogICAgfSwKICAgIHsKICAgICAgInRpY2siOiA1LAogICAgICAibm9kZSI6ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9wYXBlciIsCiAgICAgICJ0IjogMC40NDEKICAgIH0sCiAgICB7CiAgICAgICJ0aWNrIjogNiwKICAgICAgIm5vZGUiOiAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvb3ZlcnNlYXMvZXZhbGd1YXJkLy5naXRodWIvd29ya2Zsb3dzIiwKICAgICAgInQiOiAwLjQ4CiAgICB9LAogICAgewogICAgICAidGljayI6IDcsCiAgICAgICJub2RlIjogIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2VvX2lvL19fcHljYWNoZV9fIiwKICAgICAgInQiOiAwLjU1NAogICAgfSwKICAgIHsKICAgICAgInRpY2siOiA4LAogICAgICAibm9kZSI6ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS90b29scy9fX3B5Y2FjaGVfXyIsCiAgICAgICJ0IjogMC42MzMKICAgIH0sCiAgICB7CiAgICAgICJ0aWNrIjogOSwKICAgICAgIm5vZGUiOiAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvY29yZS9fX3B5Y2FjaGVfXyIsCiAgICAgICJ0IjogMC43MzIKICAgIH0sCiAgICB7CiAgICAgICJ0aWNrIjogMTAsCiAgICAgICJub2RlIjogIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDA4OF9kdWFsX2NoYW5uZWxfdmlzaW9uIiwKICAgICAgInQiOiAwLjc3MgogICAgfSwKICAgIHsKICAgICAgInRpY2siOiAxMSwKICAgICAgIm5vZGUiOiAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvb3ZlcnNlYXMiLAogICAgICAidCI6IDAuODQ1CiAgICB9LAogICAgewogICAgICAidGljayI6IDEyLAogICAgICAibm9kZSI6ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAwODlfY2xvc2VkX2xvb3AvX19weWNhY2hlX18iLAogICAgICAidCI6IDAuOTI0CiAgICB9LAogICAgewogICAgICAidGljayI6IDEzLAogICAgICAibm9kZSI6ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9vdmVyc2Vhcy9naXRodWJfcHVzaF9raXQiLAogICAgICAidCI6IDAuOTYyCiAgICB9LAogICAgewogICAgICAidGljayI6IDE0LAogICAgICAibm9kZSI6ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9fX3B5Y2FjaGVfXyIsCiAgICAgICJ0IjogMS4wNDYKICAgIH0sCiAgICB7CiAgICAgICJ0aWNrIjogMTUsCiAgICAgICJub2RlIjogIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2NvcmUiLAogICAgICAidCI6IDEuMTQ5CiAgICB9LAogICAgewogICAgICAidGljayI6IDE2LAogICAgICAibm9kZSI6ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9lb19pbyIsCiAgICAgICJ0IjogMS4yMjUKICAgIH0sCiAgICB7CiAgICAgICJ0aWNrIjogMTcsCiAgICAgICJub2RlIjogIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL3Rvb2xzIiwKICAgICAgInQiOiAxLjMwMwogICAgfSwKICAgIHsKICAgICAgInRpY2siOiAxOCwKICAgICAgIm5vZGUiOiAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2UvcmF3X2RhdGEiLAogICAgICAidCI6IDEuMzUyCiAgICB9LAogICAgewogICAgICAidGljayI6IDE5LAogICAgICAibm9kZSI6ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAwODZfd2ViIiwKICAgICAgInQiOiAxLjQyMgogICAgfSwKICAgIHsKICAgICAgInRpY2siOiAyMCwKICAgICAgIm5vZGUiOiAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvb3ZlcnNlYXMvZXZhbGd1YXJkL19fcHljYWNoZV9fIiwKICAgICAgInQiOiAxLjQ5NgogICAgfQogIF0KfQ==
+{
+  "drive": "curiosity",
+  "duration": 18.0,
+  "ticks": 766,
+  "n_actions": 32,
+  "spont_rate": 0.04177545691906005,
+  "coverage": 0.9696969696969697,
+  "unique_nodes": 32,
+  "actions": [
+    {
+      "tick": 1,
+      "node": "/data/workspace/luoshen-o1/experiments",
+      "t": 0.094
+    },
+    {
+      "tick": 2,
+      "node": "/data/workspace/luoshen-o1/evidence",
+      "t": 0.162
+    },
+    {
+      "tick": 3,
+      "node": "/data/workspace/luoshen-o1/fig",
+      "t": 0.26
+    },
+    {
+      "tick": 4,
+      "node": "/data/workspace/luoshen-o1/docs",
+      "t": 0.359
+    },
+    {
+      "tick": 5,
+      "node": "/data/workspace/luoshen-o1/paper",
+      "t": 0.441
+    },
+    {
+      "tick": 6,
+      "node": "/data/workspace/luoshen-o1/overseas/evalguard/.github/workflows",
+      "t": 0.48
+    },
+    {
+      "tick": 7,
+      "node": "/data/workspace/luoshen-o1/eo_io/__pycache__",
+      "t": 0.554
+    },
+    {
+      "tick": 8,
+      "node": "/data/workspace/luoshen-o1/tools/__pycache__",
+      "t": 0.633
+    },
+    {
+      "tick": 9,
+      "node": "/data/workspace/luoshen-o1/core/__pycache__",
+      "t": 0.732
+    },
+    {
+      "tick": 10,
+      "node": "/data/workspace/luoshen-o1/experiments/exp088_dual_channel_vision",
+      "t": 0.772
+    },
+    {
+      "tick": 11,
+      "node": "/data/workspace/luoshen-o1/overseas",
+      "t": 0.845
+    },
+    {
+      "tick": 12,
+      "node": "/data/workspace/luoshen-o1/experiments/exp089_closed_loop/__pycache__",
+      "t": 0.924
+    },
+    {
+      "tick": 13,
+      "node": "/data/workspace/luoshen-o1/overseas/github_push_kit",
+      "t": 0.962
+    },
+    {
+      "tick": 14,
+      "node": "/data/workspace/luoshen-o1/experiments/__pycache__",
+      "t": 1.046
+    },
+    {
+      "tick": 15,
+      "node": "/data/workspace/luoshen-o1/core",
+      "t": 1.149
+    },
+    {
+      "tick": 16,
+      "node": "/data/workspace/luoshen-o1/eo_io",
+      "t": 1.225
+    },
+    {
+      "tick": 17,
+      "node": "/data/workspace/luoshen-o1/tools",
+      "t": 1.303
+    },
+    {
+      "tick": 18,
+      "node": "/data/workspace/luoshen-o1/evidence/raw_data",
+      "t": 1.352
+    },
+    {
+      "tick": 19,
+      "node": "/data/workspace/luoshen-o1/experiments/exp086_web",
+      "t": 1.422
+    },
+    {
+      "tick": 20,
+      "node": "/data/workspace/luoshen-o1/overseas/evalguard/__pycache__",
+      "t": 1.496
+    }
+  ]
+}

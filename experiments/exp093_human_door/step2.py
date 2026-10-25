@@ -1,1 +1,34 @@
-aW1wb3J0IGFzeW5jaW8sIGpzb24KZnJvbSBwbGF5d3JpZ2h0LmFzeW5jX2FwaSBpbXBvcnQgYXN5bmNfcGxheXdyaWdodApPVVQ9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDA5M19odW1hbl9kb29yIgoKYXN5bmMgZGVmIG1haW4oKToKICAgIGFzeW5jIHdpdGggYXN5bmNfcGxheXdyaWdodCgpIGFzIHA6CiAgICAgICAgYiA9IGF3YWl0IHAuY2hyb21pdW0ubGF1bmNoKGV4ZWN1dGFibGVfcGF0aD0iL3Vzci9iaW4vZ29vZ2xlLWNocm9tZSIsYXJncz1bIi0tbm8tc2FuZGJveCIsIi0tZGlzYWJsZS1kZXYtc2htLXVzYWdlIl0pCiAgICAgICAgcGcgPSBhd2FpdCBiLm5ld19wYWdlKHZpZXdwb3J0PXsid2lkdGgiOjEyODAsImhlaWdodCI6OTAwfSkKICAgICAgICBhd2FpdCBwZy5nb3RvKCJodHRwczovL21haWwucXEuY29tIiwgdGltZW91dD00NTAwMCwgd2FpdF91bnRpbD0iZG9tY29udGVudGxvYWRlZCIpCiAgICAgICAgYXdhaXQgcGcud2FpdF9mb3JfdGltZW91dCg2MDAwKQogICAgICAgIHRndD1Ob25lCiAgICAgICAgZm9yIGYgaW4gcGcuZnJhbWVzOgogICAgICAgICAgICBpZiAieGxvZ2luIiBpbiBmLnVybDogdGd0PWY7IGJyZWFrCiAgICAgICAgIyDnnJ/pvKDmoIfvvJrlhYjlj5bkuLvop4blj6Pnu53lr7nlnZDmoIcKICAgICAgICBiYiA9IGF3YWl0IHRndC5sb2NhdG9yKCIjc3dpdGNoZXJfcGxvZ2luIikuYm91bmRpbmdfYm94KCkKICAgICAgICBwcmludCgic3dpdGNoZXIgYmJveChtYWluIHZpZXdwb3J0KToiLCBiYikKICAgICAgICBpZiBiYjoKICAgICAgICAgICAgY3gsIGN5ID0gYmJbIngiXStiYlsid2lkdGgiXS8yLCBiYlsieSJdK2JiWyJoZWlnaHQiXS8yCiAgICAgICAgICAgIGF3YWl0IHBnLm1vdXNlLm1vdmUoY3gtMzAsIGN5LTIwKSAgICMg55yf5a6e56e75Yqo6L2o6L+5CiAgICAgICAgICAgIGF3YWl0IHBnLm1vdXNlLm1vdmUoY3gsIGN5KQogICAgICAgICAgICBhd2FpdCBwZy5tb3VzZS5jbGljayhjeCwgY3kpICAgICAgICAjIOecn+WunuaMieS4i+aKrOi1twogICAgICAgICAgICBwcmludChmIlJFQUwgTU9VU0UgQ0xJQ0sgYXQgKHtjeDouMGZ9LHtjeTouMGZ9KSIpCiAgICAgICAgYXdhaXQgcGcud2FpdF9mb3JfdGltZW91dCgzNTAwKQogICAgICAgIGFmdGVyID0gYXdhaXQgdGd0LmV2YWx1YXRlKCIiIigpID0+IHsKICAgICAgICAgIGNvbnN0IG91dD17aW5wdXRzOltdLHRleHQ6ZG9jdW1lbnQuYm9keS5pbm5lclRleHQuc2xpY2UoMCwzMDApfTsKICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ2lucHV0JykuZm9yRWFjaChlPT57Y29uc3Qgcj1lLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpOwogICAgICAgICAgICBvdXQuaW5wdXRzLnB1c2goe2lkOmUuaWQsdHlwZTplLnR5cGUscGg6ZS5wbGFjZWhvbGRlcix3Ok1hdGgucm91bmQoci53aWR0aCksaDpNYXRoLnJvdW5kKHIuaGVpZ2h0KSx4Ok1hdGgucm91bmQoci54KSx5Ok1hdGgucm91bmQoci55KX0pO30pOwogICAgICAgICAgWyd3ZWJfcXJfbG9naW4nLCdxcl9hcmVhJ10uZm9yRWFjaChpZD0+e2NvbnN0IGU9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQpOwogICAgICAgICAgICBpZihlKXtjb25zdCBjcz1nZXRDb21wdXRlZFN0eWxlKGUpO291dFtpZF09e2Rpc3BsYXk6Y3MuZGlzcGxheSx3Ok1hdGgucm91bmQoZS5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKS53aWR0aCl9O319KTsKICAgICAgICAgIHJldHVybiBvdXQ7fSIiIikKICAgICAgICBwcmludChqc29uLmR1bXBzKGFmdGVyLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkpCiAgICAgICAgYXdhaXQgcGcuc2NyZWVuc2hvdChwYXRoPWYie09VVH0vYWZ0ZXJfcHdkX3N3aXRjaC5wbmciKQogICAgICAgIGF3YWl0IGIuY2xvc2UoKQphc3luY2lvLnJ1bihtYWluKCkpCg==
+import asyncio, json
+from playwright.async_api import async_playwright
+OUT="/data/workspace/luoshen-o1/experiments/exp093_human_door"
+
+async def main():
+    async with async_playwright() as p:
+        b = await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox","--disable-dev-shm-usage"])
+        pg = await b.new_page(viewport={"width":1280,"height":900})
+        await pg.goto("https://mail.qq.com", timeout=45000, wait_until="domcontentloaded")
+        await pg.wait_for_timeout(6000)
+        tgt=None
+        for f in pg.frames:
+            if "xlogin" in f.url: tgt=f; break
+        # 真鼠标：先取主视口绝对坐标
+        bb = await tgt.locator("#switcher_plogin").bounding_box()
+        print("switcher bbox(main viewport):", bb)
+        if bb:
+            cx, cy = bb["x"]+bb["width"]/2, bb["y"]+bb["height"]/2
+            await pg.mouse.move(cx-30, cy-20)   # 真实移动轨迹
+            await pg.mouse.move(cx, cy)
+            await pg.mouse.click(cx, cy)        # 真实按下抬起
+            print(f"REAL MOUSE CLICK at ({cx:.0f},{cy:.0f})")
+        await pg.wait_for_timeout(3500)
+        after = await tgt.evaluate("""() => {
+          const out={inputs:[],text:document.body.innerText.slice(0,300)};
+          document.querySelectorAll('input').forEach(e=>{const r=e.getBoundingClientRect();
+            out.inputs.push({id:e.id,type:e.type,ph:e.placeholder,w:Math.round(r.width),h:Math.round(r.height),x:Math.round(r.x),y:Math.round(r.y)});});
+          ['web_qr_login','qr_area'].forEach(id=>{const e=document.getElementById(id);
+            if(e){const cs=getComputedStyle(e);out[id]={display:cs.display,w:Math.round(e.getBoundingClientRect().width)};}});
+          return out;}""")
+        print(json.dumps(after,ensure_ascii=False,indent=1))
+        await pg.screenshot(path=f"{OUT}/after_pwd_switch.png")
+        await b.close()
+asyncio.run(main())

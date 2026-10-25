@@ -1,1 +1,40 @@
-aW1wb3J0IG9zLGhhc2hsaWIsdGltZQpXLEgsU1M9MTAyNCw3NjgsNDA5NgpUT0tFTj0nSzdNNFFYJwppbXBvcnQgc3RydWN0CmJ1Zj1ieXRlYXJyYXkoYidceDAwJyooU1MqSCkpCmRlZiBweCh4LHkscixnLGIpOgogICAgbz15KlNTK3gqNAogICAgYnVmW29dPWI7IGJ1ZltvKzFdPWc7IGJ1ZltvKzJdPXI7IGJ1ZltvKzNdPTAKIyDnlLvoibLlnZcr5paH5a2X6KGMKOeUqOeugOWNleeCuemYtURpZ2l0KQpyb3dzPVsKICgnQUxMQU4gZmxvb3Igc2xvcGUgbTQtMTYnLCctMC4wMzkgLTAuMDE5JyksCiAoJ2RwcmltZSBOMSB2cyBONjQgZGVsdGEyMCcsJzAuMjU4IDAuMjU4JyksCiAoJ2RyaWZ0IHZzIHNpZ25hbCByYXRpbycsJzU1NDQgLyA3NjMgPSA3LjN4JyksCiAoJ2luamVjdGVkIGRyaWZ0IHJhdGlvJywnMTUyNTI4NyAvIDM5MSA9IDM5MDR4JyksCiAoJ2Fic29sdXRlIHJlYWRvdXQgZHByaW1lJywnMC4wMDMyJyksCiAoJ2RpZmZlcmVudGlhbCBkaXNjJywnMC4zODY3JyksCiAoJ2R1YWwgbW9kZSBodW1hbiBUUFInLCcwLjAxNycpLAogKCdUT0tFTicsJyVzJyVUT0tFTiksCl0KeT00MApmb3Igayx2IGluIHJvd3M6CiAgICAjIOW3puS+p+agh+etvuadoQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKGspKjMpOgogICAgICAgIGZvciBkeSBpbiByYW5nZSgyNCk6CiAgICAgICAgICAgIHB4KDQwK2kqMywgeStkeSwgMjAwLDE4MCw2MCkKICAgICMg5Y+z5L6n5pWw5YC85p2hKOeBsOmYtue8lueggSkKICAgIGZvciBpIGluIHJhbmdlKGxlbih2KSozKToKICAgICAgICBmb3IgZHkgaW4gcmFuZ2UoMjQpOgogICAgICAgICAgICBweCg2MDAraSozLCB5K2R5LCAyNDAsMjQwLDI0MCkKICAgIHkrPTYwCnJhdz1ieXRlcyhidWYpCmg9aGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTJdCndpdGggb3BlbignL2Rldi9mYjAnLCd3YicpIGFzIGY6IGYud3JpdGUocmF3KQp3aXRoIG9wZW4oJy9kZXYvZmIwJywncmInKSBhcyBmOiBjYXA9Zi5yZWFkKFNTKkgpCnByaW50KCd3cml0ZSBieXRlcycsbGVuKHJhdykpCnByaW50KCdjYXAgIGJ5dGVzJyxsZW4oY2FwKSkKcHJpbnQoJ0lERU5USUNBTCcsIHJhdz09Y2FwKQpwcmludCgnc2hhJywgaCwgJ2NhcF9zaGEnLCBoYXNobGliLnNoYTI1NihjYXApLmhleGRpZ2VzdCgpWzoxMl0pCm9wZW4oJ3JlbmRlci5yYXcnLCd3YicpLndyaXRlKHJhdyk7IG9wZW4oJ2NhcHR1cmVkLnJhdycsJ3diJykud3JpdGUoY2FwKQpvcGVuKCd0b2tlbi50eHQnLCd3Jykud3JpdGUoVE9LRU4pCg==
+import os,hashlib,time
+W,H,SS=1024,768,4096
+TOKEN='K7M4QX'
+import struct
+buf=bytearray(b'\x00'*(SS*H))
+def px(x,y,r,g,b):
+    o=y*SS+x*4
+    buf[o]=b; buf[o+1]=g; buf[o+2]=r; buf[o+3]=0
+# 画色块+文字行(用简单点阵Digit)
+rows=[
+ ('ALLAN floor slope m4-16','-0.039 -0.019'),
+ ('dprime N1 vs N64 delta20','0.258 0.258'),
+ ('drift vs signal ratio','5544 / 763 = 7.3x'),
+ ('injected drift ratio','1525287 / 391 = 3904x'),
+ ('absolute readout dprime','0.0032'),
+ ('differential disc','0.3867'),
+ ('dual mode human TPR','0.017'),
+ ('TOKEN','%s'%TOKEN),
+]
+y=40
+for k,v in rows:
+    # 左侧标签条
+    for i in range(len(k)*3):
+        for dy in range(24):
+            px(40+i*3, y+dy, 200,180,60)
+    # 右侧数值条(灰阶编码)
+    for i in range(len(v)*3):
+        for dy in range(24):
+            px(600+i*3, y+dy, 240,240,240)
+    y+=60
+raw=bytes(buf)
+h=hashlib.sha256(raw).hexdigest()[:12]
+with open('/dev/fb0','wb') as f: f.write(raw)
+with open('/dev/fb0','rb') as f: cap=f.read(SS*H)
+print('write bytes',len(raw))
+print('cap  bytes',len(cap))
+print('IDENTICAL', raw==cap)
+print('sha', h, 'cap_sha', hashlib.sha256(cap).hexdigest()[:12])
+open('render.raw','wb').write(raw); open('captured.raw','wb').write(cap)
+open('token.txt','w').write(TOKEN)

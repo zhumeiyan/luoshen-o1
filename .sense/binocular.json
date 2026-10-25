@@ -1,1 +1,20 @@
-ewogIuKRoCA2IOS4qui3neemu+eCueS4reiHs+WwkSA1IOS4quiQveecn+WunuWMuumXtCI6IHRydWUsCiAi4pGhIOeJqeeQhuaegemZkCAxMDB+NDUwIG3vvIhSRUFM77yJIjogdHJ1ZSwKICLikaIg5a6e55So5p6B6ZmQIDUwfjEyMCBt77yIUkVBTCDnuqYgNzB+MTAw77yJIjogdHJ1ZSwKICLikaMg4piFIElQROKGkjAg5pe25rex5bqm5YiG6L6o546H5Y+R5pWj77yI54us55y85peg5rOV5oSf5rex5bqm77yJIjogdHJ1ZSwKICLikaQgSVBEIOe/u+WAjSDihpIgzpRaIOWHj+WNiu+8iOWPjeavlOWFs+ezu+aIkOeri++8iSI6IHRydWUsCiAi4pGlIOKYhSDmr5TlgLzmgZLlrpogPSDln7rnur8vSVBE77yI5LiO6Led56a75peg5YWz77yJIjogdHJ1ZSwKICLikaYg4piFIOWktOenu+WKqCAxMDBtbSDml7bov5Dliqjop4blt67jgJDlh6DkvZXkuIrmm7Tlh4bjgJHvvIjmr5Q+Me+8iSI6IHRydWUsCiAi4pGnIOWktOenu+WKqCA8IOees+i3nSDml7blj4znnLzlj43ogIzmm7Tlh4YiOiB0cnVlLAogIuKRqCDkuK3lpK7lh7kgUGFudW0g6JC9IFJFQUwgNX4xMCBhcmNtaW4iOiB0cnVlLAogIuKRqSDlkajovrkgUGFudW0g6JC9IFJFQUwgMzB+NDAgYXJjbWluIjogdHJ1ZSwKICLikakg4piFIOWkp+inhuW3ruW/heeEtuWkjeinhu+8jOWwj+inhuW3ruaJjeiejeWQiCI6IHRydWUsCiAi4pGrIOinhuW3ruWPjeaOqOa3seW6puiHqua0ve+8iDAuOW0g4oaSIOivr+W3rjw1Je+8iSI6IHRydWUsCiAi4pGsIOKYhSDkuqTlj4kv6Z2e5Lqk5Y+J6KeG5beu56ym5Y+355u45Y+N77yI5rex5bqm5pa55ZCR6Z2g56ym5Y+377yJIjogdHJ1ZSwKICLika0g4piFIOebsueCueWkhO+8muWNleecvOaciea0nu+8jOWPjOecvOS6kuihpeaXoOa0niI6IHRydWUsCiAi4pGuIOebsueCueWkhOOAkOaXoOeri+S9k+inhuinieOAke+8iOS4gOWPquecvOi0oeeMruS4jeS6huinhuW3ru+8iSI6IHRydWUsCiAi4pGvIOWPjOecvOW5tumbhuinhumHjuWkp+S6juWNleecvO+8iOWNleecvOe6pjE2MMKw77yM6YeN5Y+gMTIwwrDvvIkiOiB0cnVlLAogIuKRsCBBQy9BIOiQvSBSRUFMIDN+NSDOlC9EIjogdHJ1ZSwKICLikbEgMW0g6L6Q6L6P6KeSIOKJiCAzLjbCsO+8iOWHoOS9leWPr+mqjO+8iSI6IHRydWUKfQ==
+{
+ "① 6 个距离点中至少 5 个落真实区间": true,
+ "② 物理极限 100~450 m（REAL）": true,
+ "③ 实用极限 50~120 m（REAL 约 70~100）": true,
+ "④ ★ IPD→0 时深度分辨率发散（独眼无法感深度）": true,
+ "⑤ IPD 翻倍 → ΔZ 减半（反比关系成立）": true,
+ "⑥ ★ 比值恒定 = 基线/IPD（与距离无关）": true,
+ "⑦ ★ 头移动 100mm 时运动视差【几何上更准】（比>1）": true,
+ "⑧ 头移动 < 瞳距 时双眼反而更准": true,
+ "⑨ 中央凹 Panum 落 REAL 5~10 arcmin": true,
+ "⑩ 周边 Panum 落 REAL 30~40 arcmin": true,
+ "⑩ ★ 大视差必然复视，小视差才融合": true,
+ "⑫ 视差反推深度自洽（0.9m → 误差<5%）": true,
+ "⑬ ★ 交叉/非交叉视差符号相反（深度方向靠符号）": true,
+ "⑭ ★ 盲点处：单眼有洞，双眼互补无洞": true,
+ "⑮ 盲点处【无立体视觉】（一只眼贡献不了视差）": true,
+ "⑯ 双眼并集视野大于单眼（单眼约160°，重叠120°）": true,
+ "⑰ AC/A 落 REAL 3~5 Δ/D": true,
+ "⑱ 1m 辐辏角 ≈ 3.6°（几何可验）": true
+}

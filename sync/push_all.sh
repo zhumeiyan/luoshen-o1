@@ -1,1 +1,79 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIHB1c2hfYWxsLnNoIOKAlCDkuIDplK7miorlvoXlkIzmraXlhoXlrrnmjqjliLAgR2l0SHViIC8gR2l0ZWUKIwojIOS4uuS7gOS5iOmcgOimgei/meS4quiEmuacrO+8mgojICAg5pys5rKZ55uS5Ye65Y+j6KKrIEdpdGVlIOWFqOermSA0MDPvvIhJUCDnrZbnlaXmi5Lnu53vvInvvIxHaXRIdWIg5YaZ5YWlIDQwMeOAggojICAg5omA5Lul5YaF5a655Zyo6L+Z6YeM5YWo6YOo5YeG5aSH5aW977yM55Sx5pyJ572R55qE5LiA5pa55omn6KGM5pys6ISa5pys5Y2z5Y+v44CCCiMKIyDnlKjms5XvvJoKIyAgIGV4cG9ydCBHSF9UT0tFTj1naHBfeHh4eCAgICAgICAgIyBHaXRIdWIgUGVyc29uYWwgQWNjZXNzIFRva2VuIChyZXBvIOadg+mZkCkKIyAgIGV4cG9ydCBHSVRFRV9UT0tFTj14eHh4ICAgICAgICAgIyBHaXRlZSDnp4Hkurrku6TniYwgKHByb2plY3RzIOadg+mZkCkKIyAgIGJhc2ggcHVzaF9hbGwuc2gKIwojIOWPquaOqOS4gOi+ue+8mgojICAgYmFzaCBwdXNoX2FsbC5zaCBnaXRodWIKIyAgIGJhc2ggcHVzaF9hbGwuc2ggZ2l0ZWUKCnNldCAtZXVvIHBpcGVmYWlsCkhFUkU9IiQoY2QgIiQoZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iKSIgJiYgcHdkKSIKVEFSR0VUPSIkezE6LWFsbH0iCgpsb2coKXsgcHJpbnRmICdcblwwMzNbMW09PSAlcyA9PVwwMzNbMG1cbicgIiQqIjsgfQpkaWUoKXsgcHJpbnRmICdcMDMzWzMxbUZBSUxcMDMzWzBtICVzXG4nICIkKiIgPiYyOyBleGl0IDE7IH0KCiMgLS0tLS0tLS0tLSDnlKggUkVTVCBBUEkg5o6o5Y2V5Liq5paH5Lu277yI5peg6ZyA5pys5ZywIGdpdCDov5znq6/vvIkgLS0tLS0tLS0tLQpwdXRfZmlsZSgpewogIGxvY2FsIGhvc3Q9IiQxIiBhcGk9IiQyIiB0b2tlbj0iJDMiIG93bmVyPSIkNCIgcmVwbz0iJDUiIHBhdGg9IiQ2IiBtc2c9IiQ3IgogIGxvY2FsIGI2NCB1cmwgc2hhCiAgYjY0PSQoYmFzZTY0IC13MCAiJHBhdGgiKQogIHVybD0iaHR0cHM6Ly8kYXBpL3JlcG9zLyRvd25lci8kcmVwby9jb250ZW50cy8kcGF0aCIKCiAgIyDlt7LlrZjlnKjliJnluKYgc2hh77yI5pu05paw77yJ77yM5ZCm5YiZ5paw5bu6CiAgc2hhPSQoY3VybCAtc1MgLUggIkF1dGhvcml6YXRpb246IHRva2VuICR0b2tlbiIgLUggIlVzZXItQWdlbnQ6IHB1c2hfYWxsIiBcCiAgICAgICAgIiR1cmwiIHwgcHl0aG9uMyAtYyAnaW1wb3J0IGpzb24sc3lzO2Q9anNvbi5sb2FkKHN5cy5zdGRpbik7cHJpbnQoZC5nZXQoInNoYSIsIiIpKScgMj4vZGV2L251bGwgfHwgZWNobyAiIikKCiAgaWYgWyAtbiAiJHNoYSIgXTsgdGhlbgogICAgY3VybCAtc1MgLVggUFVUICIkdXJsIiBcCiAgICAgIC1IICJBdXRob3JpemF0aW9uOiB0b2tlbiAkdG9rZW4iIC1IICJVc2VyLUFnZW50OiBwdXNoX2FsbCIgXAogICAgICAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiBcCiAgICAgIC1kICIkKHB5dGhvbjMgLWMgIgppbXBvcnQganNvbixzeXMKcHJpbnQoanNvbi5kdW1wcyh7J21lc3NhZ2UnOnN5cy5hcmd2WzFdLCdjb250ZW50JzpzeXMuYXJndlsyXSwnc2hhJzpzeXMuYXJndlszXX0pKQoiICIkbXNnIiAiJGI2NCIgIiRzaGEiKSIgPi9kZXYvbnVsbAogIGVsc2UKICAgIGN1cmwgLXNTIC1YIFBVVCAiJHVybCIgXAogICAgICAtSCAiQXV0aG9yaXphdGlvbjogdG9rZW4gJHRva2VuIiAtSCAiVXNlci1BZ2VudDogcHVzaF9hbGwiIFwKICAgICAgLUggIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiIgXAogICAgICAtZCAiJChweXRob24zIC1jICIKaW1wb3J0IGpzb24sc3lzCnByaW50KGpzb24uZHVtcHMoeydtZXNzYWdlJzpzeXMuYXJndlsxXSwnY29udGVudCc6c3lzLmFyZ3ZbMl19KSkKIiAiJG1zZyIgIiRiNjQiKSIgPi9kZXYvbnVsbAogIGZpCiAgcHJpbnRmICcgIHB1c2hlZCAlc1xuJyAiJHBhdGgiCn0KCnB1c2hfZ2l0aHViKCl7CiAgbG9nICJHaXRIdWIiCiAgWyAtbiAiJHtHSF9UT0tFTjotfSIgXSB8fCBkaWUgIue8uiBHSF9UT0tFTiIKICAjIOS4pOS4quepuuS7k+W6k+ihpSBSRUFETUXvvIjmjIflkJEgR2l0ZWUg55yf6LSn77yJCiAgKCBjZCAiJEhFUkUvZ2gtY29uc29sZSIgJiYgcHV0X2ZpbGUgZ2l0aHViLmNvbSBhcGkuZ2l0aHViLmNvbSAiJEdIX1RPS0VOIiB6aHVtZWl5YW4gbHVvc2hlbi1jb25zb2xlIFJFQURNRS5tZCAiZG9jczog5qCH5rOo5pys5LuT5bqT5Li656m66ZWc5YOP77yM55yf6LSn5ZyoIEdpdGVlIiApCiAgKCBjZCAiJEhFUkUvZ2gtbGlmZSIgICAgJiYgcHV0X2ZpbGUgZ2l0aHViLmNvbSBhcGkuZ2l0aHViLmNvbSAiJEdIX1RPS0VOIiB6aHVtZWl5YW4gbHVvc2hlbi1saWZlICAgIFJFQURNRS5tZCAiZG9jczog5qCH5rOo5pys5LuT5bqT5Li656m66ZWc5YOP77yM55yf6LSn5ZyoIEdpdGVlIiApCn0KCnB1c2hfZ2l0ZWUoKXsKICBsb2cgIkdpdGVlIgogIFsgLW4gIiR7R0lURUVfVE9LRU46LX0iIF0gfHwgZGllICLnvLogR0lURUVfVE9LRU4iCiAgKCBjZCAiJEhFUkUvZ2l0ZWUtbWlycm9yIiAmJiBcCiAgICBmaW5kIC4gLXR5cGUgZiAtbm90IC1wYXRoICcuLy5naXQvKicgfCB3aGlsZSByZWFkIC1yIGY7IGRvCiAgICAgIHB1dF9maWxlIGdpdGVlLmNvbSBnaXRlZS5jb20vYXBpL3Y1ICIkR0lURUVfVE9LRU4iIHpodS1tZWl5YW4xIGx1b3NoZW4tYWktbzEgIiR7ZiMuL30iICJzeW5jIGZyb20gbHVvc2hlbi1vMSIKICAgIGRvbmUgKQp9CgpjYXNlICIkVEFSR0VUIiBpbgogIGdpdGh1YikgcHVzaF9naXRodWIgOzsKICBnaXRlZSkgIHB1c2hfZ2l0ZWUgIDs7CiAgYWxsKSAgICBwdXNoX2dpdGh1YjsgcHVzaF9naXRlZSA7OwogICopICAgICAgZGllICLmnKrnn6Xnm67moIc6ICRUQVJHRVQiIDs7CmVzYWMKCmxvZyAi5a6M5oiQIgo=
+#!/usr/bin/env bash
+# push_all.sh — 一键把待同步内容推到 GitHub / Gitee
+#
+# 为什么需要这个脚本：
+#   本沙盒出口被 Gitee 全站 403（IP 策略拒绝），GitHub 写入 401。
+#   所以内容在这里全部准备好，由有网的一方执行本脚本即可。
+#
+# 用法：
+#   export GH_TOKEN=ghp_xxxx        # GitHub Personal Access Token (repo 权限)
+#   export GITEE_TOKEN=xxxx         # Gitee 私人令牌 (projects 权限)
+#   bash push_all.sh
+#
+# 只推一边：
+#   bash push_all.sh github
+#   bash push_all.sh gitee
+
+set -euo pipefail
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+TARGET="${1:-all}"
+
+log(){ printf '\n\033[1m== %s ==\033[0m\n' "$*"; }
+die(){ printf '\033[31mFAIL\033[0m %s\n' "$*" >&2; exit 1; }
+
+# ---------- 用 REST API 推单个文件（无需本地 git 远端） ----------
+put_file(){
+  local host="$1" api="$2" token="$3" owner="$4" repo="$5" path="$6" msg="$7"
+  local b64 url sha
+  b64=$(base64 -w0 "$path")
+  url="https://$api/repos/$owner/$repo/contents/$path"
+
+  # 已存在则带 sha（更新），否则新建
+  sha=$(curl -sS -H "Authorization: token $token" -H "User-Agent: push_all" \
+        "$url" | python3 -c 'import json,sys;d=json.load(sys.stdin);print(d.get("sha",""))' 2>/dev/null || echo "")
+
+  if [ -n "$sha" ]; then
+    curl -sS -X PUT "$url" \
+      -H "Authorization: token $token" -H "User-Agent: push_all" \
+      -H "Content-Type: application/json" \
+      -d "$(python3 -c "
+import json,sys
+print(json.dumps({'message':sys.argv[1],'content':sys.argv[2],'sha':sys.argv[3]}))
+" "$msg" "$b64" "$sha")" >/dev/null
+  else
+    curl -sS -X PUT "$url" \
+      -H "Authorization: token $token" -H "User-Agent: push_all" \
+      -H "Content-Type: application/json" \
+      -d "$(python3 -c "
+import json,sys
+print(json.dumps({'message':sys.argv[1],'content':sys.argv[2]}))
+" "$msg" "$b64")" >/dev/null
+  fi
+  printf '  pushed %s\n' "$path"
+}
+
+push_github(){
+  log "GitHub"
+  [ -n "${GH_TOKEN:-}" ] || die "缺 GH_TOKEN"
+  # 两个空仓库补 README（指向 Gitee 真货）
+  ( cd "$HERE/gh-console" && put_file github.com api.github.com "$GH_TOKEN" zhumeiyan luoshen-console README.md "docs: 标注本仓库为空镜像，真货在 Gitee" )
+  ( cd "$HERE/gh-life"    && put_file github.com api.github.com "$GH_TOKEN" zhumeiyan luoshen-life    README.md "docs: 标注本仓库为空镜像，真货在 Gitee" )
+}
+
+push_gitee(){
+  log "Gitee"
+  [ -n "${GITEE_TOKEN:-}" ] || die "缺 GITEE_TOKEN"
+  ( cd "$HERE/gitee-mirror" && \
+    find . -type f -not -path './.git/*' | while read -r f; do
+      put_file gitee.com gitee.com/api/v5 "$GITEE_TOKEN" zhu-meiyan1 luoshen-ai-o1 "${f#./}" "sync from luoshen-o1"
+    done )
+}
+
+case "$TARGET" in
+  github) push_github ;;
+  gitee)  push_gitee  ;;
+  all)    push_github; push_gitee ;;
+  *)      die "未知目标: $TARGET" ;;
+esac
+
+log "完成"

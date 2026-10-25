@@ -1,1 +1,176 @@
-IiIiTG9vcGJhY2stb25seSBhdXRoZW50aWNhdGVkIEpTT04gQVBJIGFuZCBleHBsaWNpdCBzdGF0aWMgYXNzZXQgYWxsb3dsaXN0LiIiIgpmcm9tIGh0dHAuc2VydmVyIGltcG9ydCBCYXNlSFRUUFJlcXVlc3RIYW5kbGVyLCBUaHJlYWRpbmdIVFRQU2VydmVyCmltcG9ydCBqc29uCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAppbXBvcnQgc2VjcmV0cwppbXBvcnQgdGhyZWFkaW5nCmltcG9ydCB0aW1lCmZyb20gdXJsbGliLnBhcnNlIGltcG9ydCB1cmxzcGxpdApmcm9tIC5zdG9yYWdlIGltcG9ydCBQQVJUSUNJUEFOVFMKZnJvbSAucG9saWN5IGltcG9ydCBSb29tUG9saWN5CgpBU1NFVFMgPSB7Jy8nOiAoJ2luZGV4Lmh0bWwnLCAndGV4dC9odG1sJyksICcvYXBwLmpzJzogKCdhcHAuanMnLCAndGV4dC9qYXZhc2NyaXB0JyksICcvcGVuZGluZy5qcyc6ICgncGVuZGluZy5qcycsICd0ZXh0L2phdmFzY3JpcHQnKSwgJy9zdHlsZS5jc3MnOiAoJ3N0eWxlLmNzcycsICd0ZXh0L2NzcycpfQpBU1NFVFMudXBkYXRlKHsnL3BlZXItcm91bmRzJzogKCdwZWVyLXJvdW5kcy5odG1sJywgJ3RleHQvaHRtbCcpLCAnL3BlZXItcm91bmRzLmpzJzogKCdwZWVyLXJvdW5kcy5qcycsICd0ZXh0L2phdmFzY3JpcHQnKX0pCgoKZGVmIGNyZWF0ZV9zZXJ2ZXIoc3RvcmUsIGRpc3BhdGNoZXIsIHRva2VuOiBzdHIsIHBvcnQ6IGludCA9IDAsIHBvbGljeT1Ob25lLCByb3VuZHM9Tm9uZSwgcm91bmRzX3Rva2VuPU5vbmUpIC0+IFRocmVhZGluZ0hUVFBTZXJ2ZXI6CiAgICBwb2xpY3kgPSBwb2xpY3kgb3IgUm9vbVBvbGljeShGYWxzZSkKICAgIHBhcnRpY2lwYW50X2lkcyA9IHR1cGxlKGdldGF0dHIocm91bmRzLCAncGFydGljaXBhbnRzJywgTm9uZSkgb3IgZ2V0YXR0cihzdG9yZSwgJ3BhcnRpY2lwYW50cycsIFBBUlRJQ0lQQU5UUykpCiAgICBjYWNoZSwgY2FjaGVfbG9jayA9IHt9LCB0aHJlYWRpbmcuTG9jaygpCgogICAgZGVmIHJvdW5kX2NhbGxlcihhdXRob3JpemF0aW9uKToKICAgICAgICBpZiBub3Qgcm91bmRzX3Rva2VuOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIGlmIGlzaW5zdGFuY2Uocm91bmRzX3Rva2VuLCBkaWN0KToKICAgICAgICAgICAgZm9yIGNhbGxlciwgdmFsdWUgaW4gcm91bmRzX3Rva2VuLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBpZiBzZWNyZXRzLmNvbXBhcmVfZGlnZXN0KGF1dGhvcml6YXRpb24sICdCZWFyZXIgJyArIHZhbHVlKToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY2FsbGVyCiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgcmV0dXJuICdfX2xlZ2FjeV9fJyBpZiBzZWNyZXRzLmNvbXBhcmVfZGlnZXN0KGF1dGhvcml6YXRpb24sICdCZWFyZXIgJyArIHJvdW5kc190b2tlbikgZWxzZSBOb25lCgogICAgZGVmIHBhcnRpY2lwYW50cygpOgogICAgICAgIHdpdGggY2FjaGVfbG9jazoKICAgICAgICAgICAgaWYgdGltZS5tb25vdG9uaWMoKSAtIGNhY2hlLmdldCgnYXQnLCAtMTAwKSA+IDE1OgogICAgICAgICAgICAgICAgY2FjaGVbJ3ZhbHVlJ10gPSBbeydpZCc6IHAsICoqKGRpc3BhdGNoZXIuYWRhcHRlcnNbcF0uc3RhdHVzKCkgaWYgcCBpbiBkaXNwYXRjaGVyLmFkYXB0ZXJzIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnc3RhdGUnOiAndW5hdmFpbGFibGUnLCAnZGV0YWlsJzogJ0FkYXB0ZXIgbm90IGNvbm5lY3RlZCB5ZXQnfSl9IGZvciBwIGluIHBhcnRpY2lwYW50X2lkc10KICAgICAgICAgICAgICAgIGNhY2hlWydhdCddID0gdGltZS5tb25vdG9uaWMoKQogICAgICAgICAgICByZXR1cm4gY2FjaGVbJ3ZhbHVlJ10KCiAgICBjbGFzcyBIYW5kbGVyKEJhc2VIVFRQUmVxdWVzdEhhbmRsZXIpOgogICAgICAgIHRpbWVvdXQgPSAxMAoKICAgICAgICBkZWYgbG9nX21lc3NhZ2Uoc2VsZiwgKmFyZ3MpOgogICAgICAgICAgICBwYXNzCgogICAgICAgIGRlZiBzZW5kKHNlbGYsIHN0YXR1cywgZGF0YSwgY29udGVudF90eXBlPSdhcHBsaWNhdGlvbi9qc29uJyk6CiAgICAgICAgICAgIGNvbnRlbnQgPSBqc29uLmR1bXBzKGRhdGEsIGVuc3VyZV9hc2NpaT1GYWxzZSkuZW5jb2RlKCkgaWYgY29udGVudF90eXBlID09ICdhcHBsaWNhdGlvbi9qc29uJyBlbHNlIGRhdGEKICAgICAgICAgICAgc2VsZi5zZW5kX3Jlc3BvbnNlKHN0YXR1cykKICAgICAgICAgICAgc2VsZi5zZW5kX2hlYWRlcignQ29udGVudC1UeXBlJywgY29udGVudF90eXBlICsgJzsgY2hhcnNldD11dGYtOCcpCiAgICAgICAgICAgIHNlbGYuc2VuZF9oZWFkZXIoJ0NvbnRlbnQtTGVuZ3RoJywgc3RyKGxlbihjb250ZW50KSkpCiAgICAgICAgICAgIHNlbGYuc2VuZF9oZWFkZXIoJ0NhY2hlLUNvbnRyb2wnLCAnbm8tc3RvcmUnKQogICAgICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCdYLUNvbnRlbnQtVHlwZS1PcHRpb25zJywgJ25vc25pZmYnKQogICAgICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCdSZWZlcnJlci1Qb2xpY3knLCAnbm8tcmVmZXJyZXInKQogICAgICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCdDb250ZW50LVNlY3VyaXR5LVBvbGljeScsICJkZWZhdWx0LXNyYyAnc2VsZic7IHNjcmlwdC1zcmMgJ3NlbGYnOyBzdHlsZS1zcmMgJ3NlbGYnOyBjb25uZWN0LXNyYyAnc2VsZic7IGZyYW1lLWFuY2VzdG9ycyAnbm9uZSc7IGJhc2UtdXJpICdub25lJzsgZm9ybS1hY3Rpb24gJ3NlbGYnIikKICAgICAgICAgICAgc2VsZi5lbmRfaGVhZGVycygpCiAgICAgICAgICAgIHNlbGYud2ZpbGUud3JpdGUoY29udGVudCkKCiAgICAgICAgZGVmIGhhbmRsZV9yZXF1ZXN0KHNlbGYpOgogICAgICAgICAgICBleHBlY3RlZCA9IGYnMTI3LjAuMC4xOntzZWxmLnNlcnZlci5zZXJ2ZXJfcG9ydH0nCiAgICAgICAgICAgIG9yaWdpbiA9ICdodHRwOi8vJyArIGV4cGVjdGVkCiAgICAgICAgICAgIGlmIHNlbGYuaGVhZGVycy5nZXQoJ0hvc3QnKSAhPSBleHBlY3RlZDoKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmQoNDAzLCB7J2Vycm9yJzogJ0xvY2FsIG9yaWdpbiByZXF1aXJlZCd9KQogICAgICAgICAgICBwYXRoID0gdXJsc3BsaXQoc2VsZi5wYXRoKS5wYXRoCiAgICAgICAgICAgICMgQnJvd3NlciBzYW1lLW9yaWdpbiBHRVRzIG5vcm1hbGx5IG9taXQgT3JpZ2luLiAgQSBzdXBwbGllZAogICAgICAgICAgICAjIGZvcmVpZ24gT3JpZ2luIGlzIHN0aWxsIHJlZnVzZWQsIGFuZCBQT1NUIGJlbG93IHJlbWFpbnMgc3RyaWN0LgogICAgICAgICAgICBpZiBwYXRoLnN0YXJ0c3dpdGgoJy9hcGkvJykgYW5kIHNlbGYuaGVhZGVycy5nZXQoJ09yaWdpbicpIG5vdCBpbiAoTm9uZSwgb3JpZ2luKToKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmQoNDAzLCB7J2Vycm9yJzogJ0xvY2FsIG9yaWdpbiByZXF1aXJlZCd9KQogICAgICAgICAgICBpZiBzZWxmLmNvbW1hbmQgPT0gJ0dFVCcgYW5kIHBhdGggaW4gQVNTRVRTOgogICAgICAgICAgICAgICAgbmFtZSwgbWltZSA9IEFTU0VUU1twYXRoXQogICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuc2VuZCgyMDAsIChQYXRoKF9fZmlsZV9fKS5wYXJlbnQgLyAnc3RhdGljJyAvIG5hbWUpLnJlYWRfYnl0ZXMoKSwgbWltZSkKICAgICAgICAgICAgaWYgbm90IHBhdGguc3RhcnRzd2l0aCgnL2FwaS8nKToKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmQoNDA0LCB7J2Vycm9yJzogJ05vdCBmb3VuZCd9KQogICAgICAgICAgICBhdXRob3JpemF0aW9uID0gc2VsZi5oZWFkZXJzLmdldCgnQXV0aG9yaXphdGlvbicsICcnKQogICAgICAgICAgICBodW1hbiA9IHNlY3JldHMuY29tcGFyZV9kaWdlc3QoYXV0aG9yaXphdGlvbiwgJ0JlYXJlciAnICsgdG9rZW4pCiAgICAgICAgICAgIG1hdGNoZWRfY2FsbGVyID0gcm91bmRfY2FsbGVyKGF1dGhvcml6YXRpb24pCiAgICAgICAgICAgIHJvdW5kX2NsaWVudCA9IG1hdGNoZWRfY2FsbGVyIGlzIG5vdCBOb25lCiAgICAgICAgICAgIGlmIG5vdCBodW1hbiBhbmQgbm90IChyb3VuZF9jbGllbnQgYW5kIHBhdGguc3RhcnRzd2l0aCgnL2FwaS9wZWVyLXJvdW5kcy8nKSk6CiAgICAgICAgICAgICAgICByZXR1cm4gc2VsZi5zZW5kKDQwMywgeydlcnJvcic6ICdSdW4gc3RhcnRfY2hhdC5weSAtLW9wZW4gdG8gYXV0aGVudGljYXRlIHRoaXMgd2luZG93J30pCiAgICAgICAgICAgIGlmIHBhdGguc3RhcnRzd2l0aCgnL2FwaS9wZWVyLXJvdW5kcy8nKSBhbmQgbm90IHJvdW5kX2NsaWVudDoKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmQoNDAzLCB7J2Vycm9yJzogJ1BlZXIgcm91bmQgY2xpZW50IGF1dGhlbnRpY2F0aW9uIHJlcXVpcmVkJ30pCiAgICAgICAgICAgIGlmIHNlbGYuY29tbWFuZCA9PSAnUE9TVCcgYW5kIHNlbGYuaGVhZGVycy5nZXQoJ09yaWdpbicpICE9IG9yaWdpbjoKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmQoNDAzLCB7J2Vycm9yJzogJ0xvY2FsIG9yaWdpbiByZXF1aXJlZCd9KQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBib2R5ID0ge30KICAgICAgICAgICAgICAgIGlmIHNlbGYuY29tbWFuZCA9PSAnUE9TVCc6CiAgICAgICAgICAgICAgICAgICAgc2l6ZSA9IGludChzZWxmLmhlYWRlcnMuZ2V0KCdDb250ZW50LUxlbmd0aCcsICcwJykpCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IDAgPCBzaXplIDw9IDY1NTM2OgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gc2VsZi5zZW5kKDQxMywgeydlcnJvcic6ICdSZXF1ZXN0IHRvbyBsYXJnZSBvciBlbXB0eSd9KQogICAgICAgICAgICAgICAgICAgIGlmIHNlbGYuaGVhZGVycy5nZXQoJ0NvbnRlbnQtVHlwZScsICcnKS5zcGxpdCgnOycpWzBdICE9ICdhcHBsaWNhdGlvbi9qc29uJzoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuc2VuZCg0MDAsIHsnZXJyb3InOiAnSlNPTiByZXF1aXJlZCd9KQogICAgICAgICAgICAgICAgICAgIGJvZHkgPSBqc29uLmxvYWRzKHNlbGYucmZpbGUucmVhZChzaXplKSkKICAgICAgICAgICAgICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShib2R5LCBkaWN0KToKICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignSlNPTiBvYmplY3QgcmVxdWlyZWQnKQogICAgICAgICAgICAgICAgcGFydHMgPSBwYXRoLnN0cmlwKCcvJykuc3BsaXQoJy8nKQogICAgICAgICAgICAgICAgaWYgcm91bmRzIGlzIG5vdCBOb25lIGFuZCBwYXJ0c1s6Ml0gPT0gWydhcGknLCAncGVlci1yb3VuZHMnXToKICAgICAgICAgICAgICAgICAgICBpZiBsZW4ocGFydHMpICE9IDQgb3IgcGFydHNbMl0gbm90IGluIHBhcnRpY2lwYW50X2lkczoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuc2VuZCg0MDQsIHsnZXJyb3InOiAnTm90IGZvdW5kJ30pCiAgICAgICAgICAgICAgICAgICAgY2FsbGVyLCBhY3Rpb24gPSBwYXJ0c1syOl0KICAgICAgICAgICAgICAgICAgICBpZiByb3VuZF9jbGllbnQgYW5kIG1hdGNoZWRfY2FsbGVyICE9ICdfX2xlZ2FjeV9fJyBhbmQgbWF0Y2hlZF9jYWxsZXIgIT0gY2FsbGVyOgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gc2VsZi5zZW5kKDQwMywgeydlcnJvcic6ICdDYWxsZXIgdG9rZW4gZG9lcyBub3QgbWF0Y2ggdGhpcyBwZWVyJ30pCiAgICAgICAgICAgICAgICAgICAgaWYgc2VsZi5jb21tYW5kID09ICdQT1NUJyBhbmQgYWN0aW9uID09ICdwcmVwYXJlJzoKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gcm91bmRzLnByZXBhcmUoY2FsbGVyLCBib2R5KQogICAgICAgICAgICAgICAgICAgIGVsaWYgc2VsZi5jb21tYW5kID09ICdHRVQnIGFuZCBhY3Rpb24gPT0gJ3N0YXR1cyc6CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdCA9IHsnb2snOiBUcnVlLCAncGVlcnMnOiBbcCBmb3IgcCBpbiBwYXJ0aWNpcGFudHMoKSBpZiBwWydpZCddICE9IGNhbGxlcl19CiAgICAgICAgICAgICAgICAgICAgZWxpZiBzZWxmLmNvbW1hbmQgPT0gJ0dFVCc6CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdCA9IHJvdW5kcy5yZWFkKGNhbGxlciwgYWN0aW9uKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmQoNDA0LCB7J2Vycm9yJzogJ05vdCBmb3VuZCd9KQogICAgICAgICAgICAgICAgZWxpZiByb3VuZHMgaXMgbm90IE5vbmUgYW5kIHBhdGggPT0gJy9hcGkvcGVlci1hcHByb3ZhbHMnIGFuZCBzZWxmLmNvbW1hbmQgPT0gJ0dFVCc6CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gcm91bmRzLnBlbmRpbmcoKQogICAgICAgICAgICAgICAgZWxpZiByb3VuZHMgaXMgbm90IE5vbmUgYW5kIGxlbihwYXJ0cykgPT0gMyBhbmQgcGFydHNbOjJdID09IFsnYXBpJywgJ3BlZXItYXBwcm92YWxzJ10gYW5kIHNlbGYuY29tbWFuZCA9PSAnUE9TVCc6CiAgICAgICAgICAgICAgICAgICAgaWYgc2V0KGJvZHkpICE9IHsnYXBwcm92ZSd9IG9yIG5vdCBpc2luc3RhbmNlKGJvZHlbJ2FwcHJvdmUnXSwgYm9vbCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0V4cGxpY2l0IGFwcHJvdmFsIG9yIHJlamVjdGlvbiByZXF1aXJlZCcpCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gcm91bmRzLmFwcHJvdmUocGFydHNbMl0sIHJlamVjdD1ub3QgYm9keVsnYXBwcm92ZSddKQogICAgICAgICAgICAgICAgZWxpZiBwYXRoID09ICcvYXBpL3BhcnRpY2lwYW50cycgYW5kIHNlbGYuY29tbWFuZCA9PSAnR0VUJzoKICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSB7J3BhcnRpY2lwYW50cyc6IHBhcnRpY2lwYW50cygpLCAnYWxsb3dfY2xpZW50JzogcG9saWN5LmFsbG93X2NsaWVudH0KICAgICAgICAgICAgICAgIGVsaWYgcGF0aCA9PSAnL2FwaS9yb29tcyc6CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gc3RvcmUucm9vbXMoKSBpZiBzZWxmLmNvbW1hbmQgPT0gJ0dFVCcgZWxzZSBzdG9yZS5jcmVhdGVfcm9vbShib2R5Wyd0aXRsZSddKQogICAgICAgICAgICAgICAgZWxpZiBsZW4ocGFydHMpID49IDMgYW5kIHBhcnRzWzoyXSA9PSBbJ2FwaScsICdyb29tcyddOgogICAgICAgICAgICAgICAgICAgIHJvb20gPSBwYXJ0c1syXQogICAgICAgICAgICAgICAgICAgIGlmIGxlbihwYXJ0cykgPT0gMyBhbmQgc2VsZi5jb21tYW5kID09ICdHRVQnOgogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBzdG9yZS5zbmFwc2hvdChyb29tKQogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHRbJ3ByZWZlcmVuY2VzJ10gPSBzdG9yZS5wcmVmZXJlbmNlcyhyb29tKQogICAgICAgICAgICAgICAgICAgIGVsaWYgbGVuKHBhcnRzKSA9PSA0IGFuZCBzZWxmLmNvbW1hbmQgPT0gJ1BPU1QnOgogICAgICAgICAgICAgICAgICAgICAgICBpZiBwYXJ0c1szXSA9PSAnbWVzc2FnZXMnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwgPSBib2R5WydjbGFzc2lmaWNhdGlvbiddCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbHMgPSBbbWVzc2FnZVsnY2xhc3NpZmljYXRpb24nXSBmb3IgbWVzc2FnZSBpbiBzdG9yZS5zbmFwc2hvdChyb29tKVsnbWVzc2FnZXMnXV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzaWZpY2F0aW9uID0gcG9saWN5LmVmZmVjdGl2ZV9jbGFzc2lmaWNhdGlvbihbKmxhYmVscywgbGFiZWxdKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoYm9keVsncmVjaXBpZW50cyddLCBsaXN0KToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdSZWNpcGllbnRzIG11c3QgYmUgYSBsaXN0JykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciB0YXJnZXQgaW4gYm9keVsncmVjaXBpZW50cyddOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvbGljeS5hdXRob3JpemUodGFyZ2V0LCBjbGFzc2lmaWNhdGlvbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGFwdGVyID0gZGlzcGF0Y2hlci5hZGFwdGVycy5nZXQodGFyZ2V0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGFkYXB0ZXIgaXMgTm9uZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU2VsZWN0ZWQgYWdlbnQgaXMgbm90IGNvbm5lY3RlZCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBhZGFwdGVyLnN0YXR1cygpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgc3RhdGVbJ3N0YXRlJ10gIT0gJ3JlYWR5JzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihzdGF0ZS5nZXQoJ2RldGFpbCcsIHN0YXRlWydzdGF0ZSddKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdCA9IHN0b3JlLnN1Ym1pdChyb29tLCBib2R5WydyZXF1ZXN0X2lkJ10sIGJvZHlbJ3RleHQnXSwgYm9keVsncmVjaXBpZW50cyddLCBsYWJlbCwgbW9kZT1ib2R5LmdldCgnbW9kZScsICdjaGF0JyksIGxlYWQ9Ym9keS5nZXQoJ2xlYWQnKSkKICAgICAgICAgICAgICAgICAgICAgICAgZWxpZiBwYXJ0c1szXSA9PSAncmVuYW1lJzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdCA9IHN0b3JlLnJlbmFtZV9yb29tKHJvb20sIGJvZHlbJ3RpdGxlJ10pCiAgICAgICAgICAgICAgICAgICAgICAgIGVsaWYgcGFydHNbM10gPT0gJ2RlbGV0ZSc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBib2R5LmdldCgnY29uZmlybScpIGlzIG5vdCBUcnVlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0RlbGV0ZSBjb25maXJtYXRpb24gcmVxdWlyZWQnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgcm91bmRzIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvdW5kcy5kZWxldGVfcm9vbShyb29tKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGF0Y2hlci5jYW5jZWxfcm9vbShyb29tKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gc3RvcmUuZGVsZXRlX3Jvb20ocm9vbSkKICAgICAgICAgICAgICAgICAgICAgICAgZWxpZiBwYXJ0c1szXSA9PSAncHJlZmVyZW5jZXMnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gc3RvcmUucHJlZmVyZW5jZXMocm9vbSwgYm9keVsnbGVhZCddLCBib2R5WydwYXJ0aWNpcGFudHMnXSkKICAgICAgICAgICAgICAgICAgICAgICAgZWxpZiBwYXJ0c1szXSA9PSAnc3RvcCc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiByb3VuZHMgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91bmRzLnN0b3Bfcm9vbShyb29tKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gZGlzcGF0Y2hlci5zdG9wKHJvb20pCiAgICAgICAgICAgICAgICAgICAgICAgIGVsaWYgcGFydHNbM10gPT0gJ3Jlc2V0JzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGJvZHlbJ3RhcmdldCddIG5vdCBpbiBwYXJ0aWNpcGFudF9pZHM6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignVW5rbm93biB0YXJnZXQnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RvcmUucmVzZXRfc2Vzc2lvbihyb29tLCBib2R5Wyd0YXJnZXQnXSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdCA9IHsnb2snOiBUcnVlfQogICAgICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuc2VuZCg0MDQsIHsnZXJyb3InOiAnTm90IGZvdW5kJ30pCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuc2VuZCg0MDQsIHsnZXJyb3InOiAnTm90IGZvdW5kJ30pCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmQoNDA0LCB7J2Vycm9yJzogJ05vdCBmb3VuZCd9KQogICAgICAgICAgICAgICAgc2VsZi5zZW5kKDIwMCwgcmVzdWx0KQogICAgICAgICAgICBleGNlcHQgKFZhbHVlRXJyb3IsIEtleUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgICAgICAgICAgc2VsZi5zZW5kKDQwMCwgeydlcnJvcic6ICdJbnZhbGlkIHJlcXVlc3QsIHVuYXZhaWxhYmxlIGFnZW50LCBvciBzaGFyaW5nIHBvbGljeSByZXN0cmljdGlvbi4gQ2hlY2sgcGFydGljaXBhbnQgc3RhdHVzIGFuZCBtZXNzYWdlIGNsYXNzaWZpY2F0aW9uLid9KQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgc2VsZi5zZW5kKDUwMCwgeydlcnJvcic6ICdMb2NhbCBzZXJ2aWNlIGVycm9yOyB5b3VyIGRyYWZ0IGhhcyBiZWVuIGtlcHQuIFJlc3RhcnQgdGhlIGxhdW5jaGVyIGlmIHRoaXMgcGVyc2lzdHMuJ30pCgogICAgICAgIGRvX0dFVCA9IGhhbmRsZV9yZXF1ZXN0CiAgICAgICAgZG9fUE9TVCA9IGhhbmRsZV9yZXF1ZXN0CgogICAgc2VydmVyID0gVGhyZWFkaW5nSFRUUFNlcnZlcigoJzEyNy4wLjAuMScsIHBvcnQpLCBIYW5kbGVyKQogICAgc2VydmVyLmRhZW1vbl90aHJlYWRzID0gVHJ1ZQogICAgcmV0dXJuIHNlcnZlcgo=
+"""Loopback-only authenticated JSON API and explicit static asset allowlist."""
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+import json
+from pathlib import Path
+import secrets
+import threading
+import time
+from urllib.parse import urlsplit
+from .storage import PARTICIPANTS
+from .policy import RoomPolicy
+
+ASSETS = {'/': ('index.html', 'text/html'), '/app.js': ('app.js', 'text/javascript'), '/pending.js': ('pending.js', 'text/javascript'), '/style.css': ('style.css', 'text/css')}
+ASSETS.update({'/peer-rounds': ('peer-rounds.html', 'text/html'), '/peer-rounds.js': ('peer-rounds.js', 'text/javascript')})
+
+
+def create_server(store, dispatcher, token: str, port: int = 0, policy=None, rounds=None, rounds_token=None) -> ThreadingHTTPServer:
+    policy = policy or RoomPolicy(False)
+    participant_ids = tuple(getattr(rounds, 'participants', None) or getattr(store, 'participants', PARTICIPANTS))
+    cache, cache_lock = {}, threading.Lock()
+
+    def round_caller(authorization):
+        if not rounds_token:
+            return None
+        if isinstance(rounds_token, dict):
+            for caller, value in rounds_token.items():
+                if secrets.compare_digest(authorization, 'Bearer ' + value):
+                    return caller
+            return None
+        return '__legacy__' if secrets.compare_digest(authorization, 'Bearer ' + rounds_token) else None
+
+    def participants():
+        with cache_lock:
+            if time.monotonic() - cache.get('at', -100) > 15:
+                cache['value'] = [{'id': p, **(dispatcher.adapters[p].status() if p in dispatcher.adapters else
+                                  {'state': 'unavailable', 'detail': 'Adapter not connected yet'})} for p in participant_ids]
+                cache['at'] = time.monotonic()
+            return cache['value']
+
+    class Handler(BaseHTTPRequestHandler):
+        timeout = 10
+
+        def log_message(self, *args):
+            pass
+
+        def send(self, status, data, content_type='application/json'):
+            content = json.dumps(data, ensure_ascii=False).encode() if content_type == 'application/json' else data
+            self.send_response(status)
+            self.send_header('Content-Type', content_type + '; charset=utf-8')
+            self.send_header('Content-Length', str(len(content)))
+            self.send_header('Cache-Control', 'no-store')
+            self.send_header('X-Content-Type-Options', 'nosniff')
+            self.send_header('Referrer-Policy', 'no-referrer')
+            self.send_header('Content-Security-Policy', "default-src 'self'; script-src 'self'; style-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'")
+            self.end_headers()
+            self.wfile.write(content)
+
+        def handle_request(self):
+            expected = f'127.0.0.1:{self.server.server_port}'
+            origin = 'http://' + expected
+            if self.headers.get('Host') != expected:
+                return self.send(403, {'error': 'Local origin required'})
+            path = urlsplit(self.path).path
+            # Browser same-origin GETs normally omit Origin.  A supplied
+            # foreign Origin is still refused, and POST below remains strict.
+            if path.startswith('/api/') and self.headers.get('Origin') not in (None, origin):
+                return self.send(403, {'error': 'Local origin required'})
+            if self.command == 'GET' and path in ASSETS:
+                name, mime = ASSETS[path]
+                return self.send(200, (Path(__file__).parent / 'static' / name).read_bytes(), mime)
+            if not path.startswith('/api/'):
+                return self.send(404, {'error': 'Not found'})
+            authorization = self.headers.get('Authorization', '')
+            human = secrets.compare_digest(authorization, 'Bearer ' + token)
+            matched_caller = round_caller(authorization)
+            round_client = matched_caller is not None
+            if not human and not (round_client and path.startswith('/api/peer-rounds/')):
+                return self.send(403, {'error': 'Run start_chat.py --open to authenticate this window'})
+            if path.startswith('/api/peer-rounds/') and not round_client:
+                return self.send(403, {'error': 'Peer round client authentication required'})
+            if self.command == 'POST' and self.headers.get('Origin') != origin:
+                return self.send(403, {'error': 'Local origin required'})
+            try:
+                body = {}
+                if self.command == 'POST':
+                    size = int(self.headers.get('Content-Length', '0'))
+                    if not 0 < size <= 65536:
+                        return self.send(413, {'error': 'Request too large or empty'})
+                    if self.headers.get('Content-Type', '').split(';')[0] != 'application/json':
+                        return self.send(400, {'error': 'JSON required'})
+                    body = json.loads(self.rfile.read(size))
+                    if not isinstance(body, dict):
+                        raise ValueError('JSON object required')
+                parts = path.strip('/').split('/')
+                if rounds is not None and parts[:2] == ['api', 'peer-rounds']:
+                    if len(parts) != 4 or parts[2] not in participant_ids:
+                        return self.send(404, {'error': 'Not found'})
+                    caller, action = parts[2:]
+                    if round_client and matched_caller != '__legacy__' and matched_caller != caller:
+                        return self.send(403, {'error': 'Caller token does not match this peer'})
+                    if self.command == 'POST' and action == 'prepare':
+                        result = rounds.prepare(caller, body)
+                    elif self.command == 'GET' and action == 'status':
+                        result = {'ok': True, 'peers': [p for p in participants() if p['id'] != caller]}
+                    elif self.command == 'GET':
+                        result = rounds.read(caller, action)
+                    else:
+                        return self.send(404, {'error': 'Not found'})
+                elif rounds is not None and path == '/api/peer-approvals' and self.command == 'GET':
+                    result = rounds.pending()
+                elif rounds is not None and len(parts) == 3 and parts[:2] == ['api', 'peer-approvals'] and self.command == 'POST':
+                    if set(body) != {'approve'} or not isinstance(body['approve'], bool):
+                        raise ValueError('Explicit approval or rejection required')
+                    result = rounds.approve(parts[2], reject=not body['approve'])
+                elif path == '/api/participants' and self.command == 'GET':
+                    result = {'participants': participants(), 'allow_client': policy.allow_client}
+                elif path == '/api/rooms':
+                    result = store.rooms() if self.command == 'GET' else store.create_room(body['title'])
+                elif len(parts) >= 3 and parts[:2] == ['api', 'rooms']:
+                    room = parts[2]
+                    if len(parts) == 3 and self.command == 'GET':
+                        result = store.snapshot(room)
+                        result['preferences'] = store.preferences(room)
+                    elif len(parts) == 4 and self.command == 'POST':
+                        if parts[3] == 'messages':
+                            label = body['classification']
+                            labels = [message['classification'] for message in store.snapshot(room)['messages']]
+                            classification = policy.effective_classification([*labels, label])
+                            if not isinstance(body['recipients'], list):
+                                raise ValueError('Recipients must be a list')
+                            for target in body['recipients']:
+                                policy.authorize(target, classification)
+                                adapter = dispatcher.adapters.get(target)
+                                if adapter is None:
+                                    raise ValueError('Selected agent is not connected')
+                                state = adapter.status()
+                                if state['state'] != 'ready':
+                                    raise ValueError(state.get('detail', state['state']))
+                            result = store.submit(room, body['request_id'], body['text'], body['recipients'], label, mode=body.get('mode', 'chat'), lead=body.get('lead'))
+                        elif parts[3] == 'rename':
+                            result = store.rename_room(room, body['title'])
+                        elif parts[3] == 'delete':
+                            if body.get('confirm') is not True:
+                                raise ValueError('Delete confirmation required')
+                            if rounds is not None:
+                                rounds.delete_room(room)
+                            dispatcher.cancel_room(room)
+                            result = store.delete_room(room)
+                        elif parts[3] == 'preferences':
+                            result = store.preferences(room, body['lead'], body['participants'])
+                        elif parts[3] == 'stop':
+                            if rounds is not None:
+                                rounds.stop_room(room)
+                            result = dispatcher.stop(room)
+                        elif parts[3] == 'reset':
+                            if body['target'] not in participant_ids:
+                                raise ValueError('Unknown target')
+                            store.reset_session(room, body['target'])
+                            result = {'ok': True}
+                        else:
+                            return self.send(404, {'error': 'Not found'})
+                    else:
+                        return self.send(404, {'error': 'Not found'})
+                else:
+                    return self.send(404, {'error': 'Not found'})
+                self.send(200, result)
+            except (ValueError, KeyError, TypeError):
+                self.send(400, {'error': 'Invalid request, unavailable agent, or sharing policy restriction. Check participant status and message classification.'})
+            except Exception:
+                self.send(500, {'error': 'Local service error; your draft has been kept. Restart the launcher if this persists.'})
+
+        do_GET = handle_request
+        do_POST = handle_request
+
+    server = ThreadingHTTPServer(('127.0.0.1', port), Handler)
+    server.daemon_threads = True
+    return server

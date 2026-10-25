@@ -1,1 +1,21 @@
-ewogIuaKluWKqF8zMG1zIjogewogICLlubPlnYciOiAwLjAwMDMsCiAgIuaKluWKqCI6IDAuMDAwMiwKICAi5pyA5aSnIjogMC4wMDA4CiB9LAogIuaKluWKqF8xMG1zIjogewogICLlubPlnYciOiAwLjAwMDIsCiAgIuaKluWKqCI6IDAuMCwKICAi5pyA5aSnIjogMC4wMDAyCiB9LAogIuaKluWKqF8xbXMiOiB7CiAgIuW5s+WdhyI6IDAuMDAwMiwKICAi5oqW5YqoIjogMC4wLAogICLmnIDlpKciOiAwLjAwMDIKIH0sCiAi55Sf5oiQ6ICX5pe2bXMiOiAxMS45LAogIueUn+aIkOaKluWKqG1zIjogMTEuOCwKICLnnJ/lrp7lr7npvZDmrovlt67nmb7liIbmr5QiOiAzOS41LAogIuS4gOS4qumHj+WtkOWGheWujOaIkOeOhyI6IDEwMAp9
+{
+ "抖动_30ms": {
+  "平均": 0.0003,
+  "抖动": 0.0002,
+  "最大": 0.0008
+ },
+ "抖动_10ms": {
+  "平均": 0.0002,
+  "抖动": 0.0,
+  "最大": 0.0002
+ },
+ "抖动_1ms": {
+  "平均": 0.0002,
+  "抖动": 0.0,
+  "最大": 0.0002
+ },
+ "生成耗时ms": 11.9,
+ "生成抖动ms": 11.8,
+ "真实对齐残差百分比": 39.5,
+ "一个量子内完成率": 100
+}

@@ -1,1 +1,79 @@
-ewogICJodW1hbl/kvaAiOiB7CiAgICAibGVuIjogNDA1MCwKICAgICJwcmVkX2FjYyI6IDAuMjkxOCwKICAgICJiYXNlbGluZSI6IDAuMDU5NywKICAgICJsaWZ0IjogMC4yMzIyLAogICAgIm1lYW5fc3VycHJpc2UiOiAxNS41NjM0LAogICAgInN1cnByaXNlX2F1dG9jb3JyIjogMC4zOTgyLAogICAgIm5vdmVsdHlfZmlyc3QiOiAxLjAsCiAgICAibm92ZWx0eV9sYXN0IjogMC40OTc1LAogICAgIm5vdmVsdHlfZGVjYXkiOiAwLjQ5NzUKICB9LAogICJhaV/liKTmja7moLgiOiB7CiAgICAibGVuIjogMTcyMzU0LAogICAgInByZWRfYWNjIjogMC4yMDUzLAogICAgImJhc2VsaW5lIjogMC4wNzg5LAogICAgImxpZnQiOiAwLjEyNjQsCiAgICAibWVhbl9zdXJwcmlzZSI6IDE2LjAzNDgsCiAgICAic3VycHJpc2VfYXV0b2NvcnIiOiAwLjIzMjgsCiAgICAibm92ZWx0eV9maXJzdCI6IDEuMCwKICAgICJub3ZlbHR5X2xhc3QiOiAwLjUxMDksCiAgICAibm92ZWx0eV9kZWNheSI6IDAuNTEwOQogIH0sCiAgImNvZGUiOiB7CiAgICAibGVuIjogODUwNSwKICAgICJwcmVkX2FjYyI6IDAuMzY5LAogICAgImJhc2VsaW5lIjogMC4yNDQ3LAogICAgImxpZnQiOiAwLjEyNDQsCiAgICAibWVhbl9zdXJwcmlzZSI6IDEyLjQ0OTQsCiAgICAic3VycHJpc2VfYXV0b2NvcnIiOiAwLjQ1MTIsCiAgICAibm92ZWx0eV9maXJzdCI6IDEuMCwKICAgICJub3ZlbHR5X2xhc3QiOiAwLjQ3ODgsCiAgICAibm92ZWx0eV9kZWNheSI6IDAuNDc4OAogIH0sCiAgImVuZ2xpc2giOiB7CiAgICAibGVuIjogMTQ4ODAsCiAgICAicHJlZF9hY2MiOiAwLjY5MTIsCiAgICAiYmFzZWxpbmUiOiAwLjE4MDEsCiAgICAibGlmdCI6IDAuNTExLAogICAgIm1lYW5fc3VycHJpc2UiOiAwLjk2MzksCiAgICAic3VycHJpc2VfYXV0b2NvcnIiOiAtMC4xMzUzLAogICAgIm5vdmVsdHlfZmlyc3QiOiAxLjAsCiAgICAibm92ZWx0eV9sYXN0IjogMC4wLAogICAgIm5vdmVsdHlfZGVjYXkiOiAwLjAKICB9LAogICJwZXJpb2RpY1/mrbsiOiB7CiAgICAibGVuIjogMTIwMDAsCiAgICAicHJlZF9hY2MiOiAxLjAsCiAgICAiYmFzZWxpbmUiOiAwLjEyNSwKICAgICJsaWZ0IjogMC44NzUsCiAgICAibWVhbl9zdXJwcmlzZSI6IDAuMCwKICAgICJzdXJwcmlzZV9hdXRvY29yciI6IDAuMCwKICAgICJub3ZlbHR5X2ZpcnN0IjogMS4wLAogICAgIm5vdmVsdHlfbGFzdCI6IDAuMCwKICAgICJub3ZlbHR5X2RlY2F5IjogMC4wCiAgfSwKICAibm9pc2Vf5q27IjogewogICAgImxlbiI6IDEyMDAwLAogICAgInByZWRfYWNjIjogMC4wMzkyLAogICAgImJhc2VsaW5lIjogMC4wNDExLAogICAgImxpZnQiOiAtMC4wMDE5LAogICAgIm1lYW5fc3VycHJpc2UiOiAyMC42MjI4LAogICAgInN1cnByaXNlX2F1dG9jb3JyIjogMC4wMjY3LAogICAgIm5vdmVsdHlfZmlyc3QiOiAxLjAsCiAgICAibm92ZWx0eV9sYXN0IjogMC41ODk3LAogICAgIm5vdmVsdHlfZGVjYXkiOiAwLjU4OTcKICB9LAogICJkaWdpdHNfaGFzaCI6IHsKICAgICJsZW4iOiAxMjAwMCwKICAgICJwcmVkX2FjYyI6IDAuMDY1LAogICAgImJhc2VsaW5lIjogMC4wNjgzLAogICAgImxpZnQiOiAtMC4wMDMzLAogICAgIm1lYW5fc3VycHJpc2UiOiA3LjM5MjcsCiAgICAic3VycHJpc2VfYXV0b2NvcnIiOiAwLjA1ODEsCiAgICAibm92ZWx0eV9maXJzdCI6IDEuMCwKICAgICJub3ZlbHR5X2xhc3QiOiAwLjA2NDIsCiAgICAibm92ZWx0eV9kZWNheSI6IDAuMDY0MgogIH0KfQ==
+{
+  "human_你": {
+    "len": 4050,
+    "pred_acc": 0.2918,
+    "baseline": 0.0597,
+    "lift": 0.2322,
+    "mean_surprise": 15.5634,
+    "surprise_autocorr": 0.3982,
+    "novelty_first": 1.0,
+    "novelty_last": 0.4975,
+    "novelty_decay": 0.4975
+  },
+  "ai_判据核": {
+    "len": 172354,
+    "pred_acc": 0.2053,
+    "baseline": 0.0789,
+    "lift": 0.1264,
+    "mean_surprise": 16.0348,
+    "surprise_autocorr": 0.2328,
+    "novelty_first": 1.0,
+    "novelty_last": 0.5109,
+    "novelty_decay": 0.5109
+  },
+  "code": {
+    "len": 8505,
+    "pred_acc": 0.369,
+    "baseline": 0.2447,
+    "lift": 0.1244,
+    "mean_surprise": 12.4494,
+    "surprise_autocorr": 0.4512,
+    "novelty_first": 1.0,
+    "novelty_last": 0.4788,
+    "novelty_decay": 0.4788
+  },
+  "english": {
+    "len": 14880,
+    "pred_acc": 0.6912,
+    "baseline": 0.1801,
+    "lift": 0.511,
+    "mean_surprise": 0.9639,
+    "surprise_autocorr": -0.1353,
+    "novelty_first": 1.0,
+    "novelty_last": 0.0,
+    "novelty_decay": 0.0
+  },
+  "periodic_死": {
+    "len": 12000,
+    "pred_acc": 1.0,
+    "baseline": 0.125,
+    "lift": 0.875,
+    "mean_surprise": 0.0,
+    "surprise_autocorr": 0.0,
+    "novelty_first": 1.0,
+    "novelty_last": 0.0,
+    "novelty_decay": 0.0
+  },
+  "noise_死": {
+    "len": 12000,
+    "pred_acc": 0.0392,
+    "baseline": 0.0411,
+    "lift": -0.0019,
+    "mean_surprise": 20.6228,
+    "surprise_autocorr": 0.0267,
+    "novelty_first": 1.0,
+    "novelty_last": 0.5897,
+    "novelty_decay": 0.5897
+  },
+  "digits_hash": {
+    "len": 12000,
+    "pred_acc": 0.065,
+    "baseline": 0.0683,
+    "lift": -0.0033,
+    "mean_surprise": 7.3927,
+    "surprise_autocorr": 0.0581,
+    "novelty_first": 1.0,
+    "novelty_last": 0.0642,
+    "novelty_decay": 0.0642
+  }
+}

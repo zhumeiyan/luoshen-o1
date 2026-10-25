@@ -1,1 +1,225 @@
-ewogImRlbGF5X3Jvd3MiOiBbCiAgewogICAiZGVsYXkiOiAxLAogICAic2tldyI6IDAuNTI1ODk3NjQzMTIzMTAxNSwKICAgImFsaXZlIjogMS4wCiAgfSwKICB7CiAgICJkZWxheSI6IDIsCiAgICJza2V3IjogMC41MjcyNzU2ODg4NjQyNDI5LAogICAiYWxpdmUiOiAxLjAKICB9LAogIHsKICAgImRlbGF5IjogNCwKICAgInNrZXciOiAwLjUyNzExODMzNzg5ODgzMjIsCiAgICJhbGl2ZSI6IDEuMAogIH0sCiAgewogICAiZGVsYXkiOiA4LAogICAic2tldyI6IDAuNTE4ODA4MzM2MTQyNTM0OSwKICAgImFsaXZlIjogMS4wCiAgfSwKICB7CiAgICJkZWxheSI6IDExLAogICAic2tldyI6IDAuNTIzNjM4Njc1MTQyMjQwOCwKICAgImFsaXZlIjogMS4wCiAgfSwKICB7CiAgICJkZWxheSI6IDE2LAogICAic2tldyI6IDAuNTI4MzcxMDE2OTgxNjE3MSwKICAgImFsaXZlIjogMS4wCiAgfSwKICB7CiAgICJkZWxheSI6IDI0LAogICAic2tldyI6IDAuNTM3MzIwMjc5OTE5NDAyNiwKICAgImFsaXZlIjogMS4wCiAgfSwKICB7CiAgICJkZWxheSI6IDMyLAogICAic2tldyI6IDAuNTQxNDk3MzcyNzM0MTEzMiwKICAgImFsaXZlIjogMS4wCiAgfSwKICB7CiAgICJkZWxheSI6IDQ4LAogICAic2tldyI6IDAuNTU2NzU1NzkxMzAzNzQxMSwKICAgImFsaXZlIjogMS4wCiAgfSwKICB7CiAgICJkZWxheSI6IDY0LAogICAic2tldyI6IDAuNTY2MDM0ODE4NDM1ODkyMSwKICAgImFsaXZlIjogMS4wCiAgfQogXSwKICJkZWxheV90ZXN0cyI6IHsKICAiMiI6IHsKICAgImRpZmYiOiAwLjAwMTM3ODA0NTc0MTE0MTQ3NzcsCiAgICJjaSI6IFsKICAgIC0wLjAwMzM5MTA4MzMzMjg0NTIyOTMsCiAgICAwLjAwNjM2Nzk5NjAyNzY0NDY2MgogICBdLAogICAic2lnIjogZmFsc2UsCiAgICJuIjogNjQKICB9LAogICI0IjogewogICAiZGlmZiI6IDAuMDAxMjIwNjk0Nzc1NzMwNzUsCiAgICJjaSI6IFsKICAgIC0wLjAwNTU0NTQ5MTk1OTM0NjkyLAogICAgMC4wMDgwNzM0MjczMTYyMjI1ODYKICAgXSwKICAgInNpZyI6IGZhbHNlLAogICAibiI6IDY0CiAgfSwKICAiOCI6IHsKICAgImRpZmYiOiAtMC4wMDcwODkzMDY5ODA1NjY1MTUsCiAgICJjaSI6IFsKICAgIC0wLjAxNTIwODIzNjQxNjkwOTYwNCwKICAgIDAuMDAwOTcyODY2NTg4MzM3NzEyMwogICBdLAogICAic2lnIjogZmFsc2UsCiAgICJuIjogNjQKICB9LAogICIxMSI6IHsKICAgImRpZmYiOiAtMC4wMDIyNTg5Njc5ODA4NjA1ODg3LAogICAiY2kiOiBbCiAgICAtMC4wMTE5MzExMzE3MjA0MDg3NzUsCiAgICAwLjAwNzc2MzgxNTc5OTg0ODU1NAogICBdLAogICAic2lnIjogZmFsc2UsCiAgICJuIjogNjQKICB9LAogICIxNiI6IHsKICAgImRpZmYiOiAwLjAwMjQ3MzM3Mzg1ODUxNTcyMTMsCiAgICJjaSI6IFsKICAgIC0wLjAwNzAzMTg5MDI4NzkwMTcyNiwKICAgIDAuMDExNzYyNDA5NTAwMzU0MDA4CiAgIF0sCiAgICJzaWciOiBmYWxzZSwKICAgIm4iOiA2NAogIH0sCiAgIjI0IjogewogICAiZGlmZiI6IDAuMDExNDIyNjM2Nzk2MzAxMTA1LAogICAiY2kiOiBbCiAgICAwLjAwMDUxMzc4MjM3NjE4NjMxNTEsCiAgICAwLjAyMTk3NDQ2MTA2Njk4NzcxCiAgIF0sCiAgICJzaWciOiB0cnVlLAogICAibiI6IDY0CiAgfSwKICAiMzIiOiB7CiAgICJkaWZmIjogMC4wMTU1OTk3Mjk2MTEwMTE3MiwKICAgImNpIjogWwogICAgMC4wMDU5NjY3NzcxMDMwNzg1MjEsCiAgICAwLjAyNTEyOTc4MzY4MzA4MTI5CiAgIF0sCiAgICJzaWciOiB0cnVlLAogICAibiI6IDY0CiAgfSwKICAiNDgiOiB7CiAgICJkaWZmIjogMC4wMzA4NTgxNDgxODA2Mzk3LAogICAiY2kiOiBbCiAgICAwLjAyMTEyNjk4ODc3MTA2Mjk5NywKICAgIDAuMDQwNjY4NDUyMDczMjUxODkKICAgXSwKICAgInNpZyI6IHRydWUsCiAgICJuIjogNjQKICB9LAogICI2NCI6IHsKICAgImRpZmYiOiAwLjA0MDEzNzE3NTMxMjc5MDcxLAogICAiY2kiOiBbCiAgICAwLjAzMTAyNjEyOTg3NDYwNTA2NSwKICAgIDAuMDQ5MzkxNDQ0MjEzNzE4MzM0CiAgIF0sCiAgICJzaWciOiB0cnVlLAogICAibiI6IDY0CiAgfQogfSwKICJjZWxscyI6IHsKICAiZ2l0aHVifG5vbmUiOiB7CiAgICJza2V3IjogMC43ODIwMTQxNDA3NzE1NTUzLAogICAiYWxpdmUiOiAxLjAKICB9LAogICJnaXRodWJ8Z3VpIjogewogICAic2tldyI6IDAuNzgyMDE0MTQwNzcxNTU1MywKICAgImFsaXZlIjogMS4wCiAgfSwKICAiZ2l0aHVifHByb3RvIjogewogICAic2tldyI6IDAuNTI1ODk3NjQzMTIzMTAxNSwKICAgImFsaXZlIjogMS4wCiAgfSwKICAiZ2l0aHVifGR1YWwiOiB7CiAgICJza2V3IjogMC41MjU4OTc2NDMxMjMxMDE1LAogICAiYWxpdmUiOiAxLjAKICB9LAogICJxcW1haWx8bm9uZSI6IHsKICAgInNrZXciOiAwLjc4MjAxNDE0MDc3MTU1NTMsCiAgICJhbGl2ZSI6IDEuMAogIH0sCiAgInFxbWFpbHxndWkiOiB7CiAgICJza2V3IjogMC41MjM2Mzg2NzUxNDIyNDA4LAogICAiYWxpdmUiOiAxLjAKICB9LAogICJxcW1haWx8cHJvdG8iOiB7CiAgICJza2V3IjogMC43ODIwMTQxNDA3NzE1NTUzLAogICAiYWxpdmUiOiAxLjAKICB9LAogICJxcW1haWx8ZHVhbCI6IHsKICAgInNrZXciOiAwLjUyMzYzODY3NTE0MjI0MDgsCiAgICJhbGl2ZSI6IDEuMAogIH0KIH0sCiAiY2hhbl90ZXN0cyI6IHsKICAi6Zeo5YWz4omh5peg6YCa6YGTKEdpdEh1YuS+pykiOiB7CiAgICJkaWZmIjogMC4wLAogICAiY2kiOiBbCiAgICAwLjAsCiAgICAwLjAKICAgXSwKICAgInNpZyI6IHRydWUsCiAgICJuIjogNjQKICB9LAogICLpl6jlhbPiiaHml6DpgJrpgZMoUVHkvqcpIjogewogICAiZGlmZiI6IDAuMCwKICAgImNpIjogWwogICAgMC4wLAogICAgMC4wCiAgIF0sCiAgICJzaWciOiB0cnVlLAogICAibiI6IDY0CiAgfSwKICAi6YCa6YGT5b2i5oCBOuWNj+iurjHmi40gdnMgR1VJMTHmi40iOiB7CiAgICJkaWZmIjogMC4wMDIyNTg5Njc5ODA4NjA1ODg3LAogICAiY2kiOiBbCiAgICAtMC4wMDc3NjM4MTU3OTk4NDg1NTgsCiAgICAwLjAxMTkzMTEzMTcyMDQwODc3NAogICBdLAogICAic2lnIjogZmFsc2UsCiAgICJuIjogNjQKICB9LAogICLmnInpl6ggdnMg5peg6ZeoKEdpdEh1YikiOiB7CiAgICJkaWZmIjogLTAuMjU2MTE2NDk3NjQ4NDUzOCwKICAgImNpIjogWwogICAgLTAuMjcyMTQ0OTUwMTY0MDAxNiwKICAgIC0wLjIzOTI4NjM5NzkyODc4NjQyCiAgIF0sCiAgICJzaWciOiB0cnVlLAogICAibiI6IDY0CiAgfSwKICAi5pyJ6ZeoIHZzIOaXoOmXqChRUSkiOiB7CiAgICJkaWZmIjogLTAuMjU4Mzc1NDY1NjI5MzE0MzUsCiAgICJjaSI6IFsKICAgIC0wLjI3MzUwMjA0MjM3NTg1NywKICAgIC0wLjI0MzI0ODUyODIyNzE3ODYKICAgXSwKICAgInNpZyI6IHRydWUsCiAgICJuIjogNjQKICB9CiB9LAogInBhcmFtcyI6IHsKICAiTiI6IDY0LAogICJLU0EiOiAwLjM1LAogICJLQUNUIjogMC4wNSwKICAiRTAiOiAwLjk1LAogICJCQVNBTCI6IDAuMDAxCiB9Cn0=
+{
+ "delay_rows": [
+  {
+   "delay": 1,
+   "skew": 0.5258976431231015,
+   "alive": 1.0
+  },
+  {
+   "delay": 2,
+   "skew": 0.5272756888642429,
+   "alive": 1.0
+  },
+  {
+   "delay": 4,
+   "skew": 0.5271183378988322,
+   "alive": 1.0
+  },
+  {
+   "delay": 8,
+   "skew": 0.5188083361425349,
+   "alive": 1.0
+  },
+  {
+   "delay": 11,
+   "skew": 0.5236386751422408,
+   "alive": 1.0
+  },
+  {
+   "delay": 16,
+   "skew": 0.5283710169816171,
+   "alive": 1.0
+  },
+  {
+   "delay": 24,
+   "skew": 0.5373202799194026,
+   "alive": 1.0
+  },
+  {
+   "delay": 32,
+   "skew": 0.5414973727341132,
+   "alive": 1.0
+  },
+  {
+   "delay": 48,
+   "skew": 0.5567557913037411,
+   "alive": 1.0
+  },
+  {
+   "delay": 64,
+   "skew": 0.5660348184358921,
+   "alive": 1.0
+  }
+ ],
+ "delay_tests": {
+  "2": {
+   "diff": 0.0013780457411414777,
+   "ci": [
+    -0.0033910833328452293,
+    0.006367996027644662
+   ],
+   "sig": false,
+   "n": 64
+  },
+  "4": {
+   "diff": 0.00122069477573075,
+   "ci": [
+    -0.00554549195934692,
+    0.008073427316222586
+   ],
+   "sig": false,
+   "n": 64
+  },
+  "8": {
+   "diff": -0.007089306980566515,
+   "ci": [
+    -0.015208236416909604,
+    0.0009728665883377123
+   ],
+   "sig": false,
+   "n": 64
+  },
+  "11": {
+   "diff": -0.0022589679808605887,
+   "ci": [
+    -0.011931131720408775,
+    0.007763815799848554
+   ],
+   "sig": false,
+   "n": 64
+  },
+  "16": {
+   "diff": 0.0024733738585157213,
+   "ci": [
+    -0.007031890287901726,
+    0.011762409500354008
+   ],
+   "sig": false,
+   "n": 64
+  },
+  "24": {
+   "diff": 0.011422636796301105,
+   "ci": [
+    0.0005137823761863151,
+    0.02197446106698771
+   ],
+   "sig": true,
+   "n": 64
+  },
+  "32": {
+   "diff": 0.01559972961101172,
+   "ci": [
+    0.005966777103078521,
+    0.02512978368308129
+   ],
+   "sig": true,
+   "n": 64
+  },
+  "48": {
+   "diff": 0.0308581481806397,
+   "ci": [
+    0.021126988771062997,
+    0.04066845207325189
+   ],
+   "sig": true,
+   "n": 64
+  },
+  "64": {
+   "diff": 0.04013717531279071,
+   "ci": [
+    0.031026129874605065,
+    0.049391444213718334
+   ],
+   "sig": true,
+   "n": 64
+  }
+ },
+ "cells": {
+  "github|none": {
+   "skew": 0.7820141407715553,
+   "alive": 1.0
+  },
+  "github|gui": {
+   "skew": 0.7820141407715553,
+   "alive": 1.0
+  },
+  "github|proto": {
+   "skew": 0.5258976431231015,
+   "alive": 1.0
+  },
+  "github|dual": {
+   "skew": 0.5258976431231015,
+   "alive": 1.0
+  },
+  "qqmail|none": {
+   "skew": 0.7820141407715553,
+   "alive": 1.0
+  },
+  "qqmail|gui": {
+   "skew": 0.5236386751422408,
+   "alive": 1.0
+  },
+  "qqmail|proto": {
+   "skew": 0.7820141407715553,
+   "alive": 1.0
+  },
+  "qqmail|dual": {
+   "skew": 0.5236386751422408,
+   "alive": 1.0
+  }
+ },
+ "chan_tests": {
+  "门关≡无通道(GitHub侧)": {
+   "diff": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ],
+   "sig": true,
+   "n": 64
+  },
+  "门关≡无通道(QQ侧)": {
+   "diff": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ],
+   "sig": true,
+   "n": 64
+  },
+  "通道形态:协议1拍 vs GUI11拍": {
+   "diff": 0.0022589679808605887,
+   "ci": [
+    -0.007763815799848558,
+    0.011931131720408774
+   ],
+   "sig": false,
+   "n": 64
+  },
+  "有门 vs 无门(GitHub)": {
+   "diff": -0.2561164976484538,
+   "ci": [
+    -0.2721449501640016,
+    -0.23928639792878642
+   ],
+   "sig": true,
+   "n": 64
+  },
+  "有门 vs 无门(QQ)": {
+   "diff": -0.25837546562931435,
+   "ci": [
+    -0.273502042375857,
+    -0.2432485282271786
+   ],
+   "sig": true,
+   "n": 64
+  }
+ },
+ "params": {
+  "N": 64,
+  "KSA": 0.35,
+  "KACT": 0.05,
+  "E0": 0.95,
+  "BASAL": 0.001
+ }
+}

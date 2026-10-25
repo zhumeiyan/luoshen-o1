@@ -1,1 +1,26 @@
-ewogIm5vbmUiOiB7CiAgInN0cmF0ZWd5IjogIm5vbmUiLAogICJjdXQiOiAyNCwKICAiZGV2X3ByZSI6IDEuNDc0MTkyNDIyNDg3NzgyNywKICAiZGV2X3Bvc3QiOiAzLjAyMTEwODQyMDI1NzMyNTcsCiAgImRldl9lbmQiOiAzLjAyMTEwODQyMDI1NzMyNTcsCiAgImFsaXZlIjogdHJ1ZQogfSwKICJyZWFjdGl2ZSI6IHsKICAic3RyYXRlZ3kiOiAicmVhY3RpdmUiLAogICJjdXQiOiAyNCwKICAiZGV2X3ByZSI6IDAuNTg5Njc2OTY4OTk1MTQ4NywKICAiZGV2X3Bvc3QiOiAxLjIwODQ0MzM2ODEwMjkzMDMsCiAgImRldl9lbmQiOiAxLjIwODQ0MzM2ODEwMjkzMDMsCiAgImFsaXZlIjogdHJ1ZQogfSwKICJwcmVkaWN0aXZlIjogewogICJzdHJhdGVneSI6ICJwcmVkaWN0aXZlIiwKICAiY3V0IjogMjQsCiAgImRldl9wcmUiOiAwLjU4OTY3Njk2ODk5NTE0ODcsCiAgImRldl9wb3N0IjogNC44NTE1Nzg5NDQ4MzIzMzQsCiAgImRldl9lbmQiOiA2Ljc0NTgxNTA5NTMwMDYyMywKICAiYWxpdmUiOiB0cnVlCiB9Cn0=
+{
+ "none": {
+  "strategy": "none",
+  "cut": 24,
+  "dev_pre": 1.4741924224877827,
+  "dev_post": 3.0211084202573257,
+  "dev_end": 3.0211084202573257,
+  "alive": true
+ },
+ "reactive": {
+  "strategy": "reactive",
+  "cut": 24,
+  "dev_pre": 0.5896769689951487,
+  "dev_post": 1.2084433681029303,
+  "dev_end": 1.2084433681029303,
+  "alive": true
+ },
+ "predictive": {
+  "strategy": "predictive",
+  "cut": 24,
+  "dev_pre": 0.5896769689951487,
+  "dev_post": 4.851578944832334,
+  "dev_end": 6.745815095300623,
+  "alive": true
+ }
+}

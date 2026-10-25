@@ -1,1 +1,168 @@
-aW1wb3J0IHJlcXVlc3RzCmltcG9ydCByYW5kb20KaW1wb3J0IHJlCmltcG9ydCB0aW1lCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCmZyb20gc2luZ2JveDJwcm94eSBpbXBvcnQgU2luZ0JveFByb3h5ICAjINis2KfbjNqv2LLbjNmGIHYycmF5MnByb3h5INio2Kcgc2luZ2JveDJwcm94eSAo2KjZh9iq2LEg2Ygg2KjYsdmI2LLYqtixKQoKZGVmIGZldGNoX2NvbmZpZ3NfZnJvbV91cmxzKHVybF9saXN0KToKICAgICIiIkZldGNoIGNvbmZpZ3MgZnJvbSBtdWx0aXBsZSBVUkxzIiIiCiAgICBhbGxfY29uZmlncyA9IFtdCiAgIAogICAgZm9yIHVybCBpbiB1cmxfbGlzdDoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHByaW50KGYiRmV0Y2hpbmcgZnJvbToge3VybH0iKQogICAgICAgICAgICBoZWFkZXJzID0gewogICAgICAgICAgICAgICAgJ1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2JwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHVybCwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTIwKQogICAgICAgICAgIAogICAgICAgICAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDA6CiAgICAgICAgICAgICAgICAjINm+24zYr9inINqp2LHYr9mGINiq2YXYp9mFINqp2KfZhtmB24zar+KAjNmH2KfbjCB2bGVzcyDYqNinIHJlZ2V4INio2YfYqNmI2K8g24zYp9mB2KrZhyAo2KrYpyAjcmVtYXJrINix2Ygg2YfZhSDYqNqv24zYsdmHKQogICAgICAgICAgICAgICAgdmxlc3NfcGF0dGVybiA9IHIndmxlc3M6Ly9bXlxzI10rKD86I1teXHNdKik/JwogICAgICAgICAgICAgICAgdmxlc3NfY29uZmlncyA9IHJlLmZpbmRhbGwodmxlc3NfcGF0dGVybiwgcmVzcG9uc2UudGV4dCkKICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAjINmH2YXahtmG24zZhiDYrti3INio2Ycg2K7YtyDYqNix2LHYs9uMINqp2YbbjNmFCiAgICAgICAgICAgICAgICBsaW5lcyA9IHJlc3BvbnNlLnRleHQuc3BsaXQoJ1xuJykKICAgICAgICAgICAgICAgIGZvciBsaW5lIGluIGxpbmVzOgogICAgICAgICAgICAgICAgICAgIGxpbmUgPSBsaW5lLnN0cmlwKCkKICAgICAgICAgICAgICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoJ3ZsZXNzOi8vJyk6CiAgICAgICAgICAgICAgICAgICAgICAgICMg2K3YsNmBINqp2KfYsdin2qnYqtix2YfYp9uMINin2LbYp9mB24wg2K/YsSDYp9mG2KrZh9inCiAgICAgICAgICAgICAgICAgICAgICAgIGNsZWFuX2xpbmUgPSByZS5zdWIocidbYDw+Ilwne318XFxeXScsICcnLCBsaW5lKQogICAgICAgICAgICAgICAgICAgICAgICBpZiBjbGVhbl9saW5lIG5vdCBpbiB2bGVzc19jb25maWdzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmxlc3NfY29uZmlncy5hcHBlbmQoY2xlYW5fbGluZSkKICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAjINmB2YLYtyDaqdin2YbZgduM2q/igIzZh9in24wg2YXYudiq2KjYsSDYsdmIINin2LbYp9mB2Ycg2qnZhgogICAgICAgICAgICAgICAgdmFsaWRfY29uZmlncyA9IFtjZmcgZm9yIGNmZyBpbiB2bGVzc19jb25maWdzIGlmIGlzX3ZhbGlkX3ZsZXNzKGNmZyldCiAgICAgICAgICAgICAgICBhbGxfY29uZmlncy5leHRlbmQodmFsaWRfY29uZmlncykKICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBwcmludChmIkZvdW5kIHtsZW4odmFsaWRfY29uZmlncyl9IHZsZXNzIGNvbmZpZ3MgZnJvbSB7dXJsfSIpCiAgICAgICAgICAgICAgIAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcHJpbnQoZiJGYWlsZWQgdG8gZmV0Y2gge3VybH0sIHN0YXR1cyBjb2RlOiB7cmVzcG9uc2Uuc3RhdHVzX2NvZGV9IikKICAgICAgICAgICAgICAgCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChmIkVycm9yIGZldGNoaW5nIGZyb20ge3VybH06IHtzdHIoZSl9IikKICAgICAgIAogICAgICAgICMg2KrYp9iu24zYsSDaqdmI2KrYp9mHINio24zZhiDYr9ix2K7ZiNin2LPYquKAjNmH2KcKICAgICAgICB0aW1lLnNsZWVwKDEpCiAgIAogICAgcmV0dXJuIGFsbF9jb25maWdzCgpkZWYgaXNfdmFsaWRfdmxlc3MoY29uZmlnKToKICAgICIiIkNoZWNrIGlmIGEgdmxlc3MgY29uZmlnIGlzIHZhbGlkIC0g2KjZh9io2YjYryDbjNin2YHYqtmHINio2Kcg2obaqSByZWFsaXR5ICjYqNix2KfbjCDaqdin2LEg2K/YsSDYp9uM2LHYp9mGKSIiIgogICAgdHJ5OgogICAgICAgIGlmIG5vdCBjb25maWcuc3RhcnRzd2l0aCgndmxlc3M6Ly8nKToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAKICAgICAgICAjINio2LHYsdiz24wg2YjYrNmI2K8gVVVJRCDZiCDYotiv2LHYsyDYs9ix2YjYsQogICAgICAgIGlmICdAJyBub3QgaW4gY29uZmlnOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgIAogICAgICAgICMg2KjYsdix2LPbjCDYs9in2K7Yqtin2LEg2qnZhNuMCiAgICAgICAgcGFydHMgPSBjb25maWcuc3BsaXQoJ3ZsZXNzOi8vJylbMV0uc3BsaXQoJ0AnKQogICAgICAgIGlmIGxlbihwYXJ0cykgPCAyOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgIAogICAgICAgIHV1aWRfcGFydCA9IHBhcnRzWzBdCiAgICAgICAgaWYgbGVuKHV1aWRfcGFydCkgPCAzMDogICMg2K3Yr9in2YLZhCDYt9mI2YQgVVVJRAogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICAKICAgICAgICAjINqG2qkg2KfYttin2YHbjDog2KjYsdin24wg2KfbjNix2KfZhtiMIHJlYWxpdHkg24zYpyB0bHMg2KjZh9iq2LHZhyDYqNin2LTZhwogICAgICAgIGlmICdzZWN1cml0eT1yZWFsaXR5JyBub3QgaW4gY29uZmlnLmxvd2VyKCkgYW5kICdzZWN1cml0eT10bHMnIG5vdCBpbiBjb25maWcubG93ZXIoKToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlICAjINmB2YLYtyDaqdin2YbZgduM2q/igIzZh9in24wg2KfZhdmGINix2Ygg2Ybar9mHINiv2KfYsQogICAgICAgIAogICAgICAgIHJldHVybiBUcnVlCiAgICAgICAKICAgIGV4Y2VwdDoKICAgICAgICByZXR1cm4gRmFsc2UKCmRlZiB0ZXN0X3ZsZXNzX2NvbmZpZyhjb25maWcpOgogICAgIiIiVGVzdCBpZiB2bGVzcyBjb25maWcgd29ya3Mgd2l0aCBJcmFuaWFuIGludGVybmV0IGJ5IG1ha2luZyBhIHJlcXVlc3QiIiIKICAgIHRyeToKICAgICAgICBwcm94eSA9IFNpbmdCb3hQcm94eShjb25maWcpICAjINiq2KjYr9uM2YQgdmxlc3Mg2KjZhyBwcm94eSDZhdit2YTbjCDYqNinIHNpbmdib3gKICAgICAgICB0cnk6CiAgICAgICAgICAgIHByb3hpZXMgPSB7CiAgICAgICAgICAgICAgICAiaHR0cCI6IHByb3h5Lmh0dHBfcHJveHlfdXJsLAogICAgICAgICAgICAgICAgImh0dHBzIjogcHJveHkuaHR0cF9wcm94eV91cmwKICAgICAgICAgICAgfQogICAgICAgICAgICAjINiq2LPYqiByZXF1ZXN0INio2Ycg2LPYp9uM2Kog2K7Yp9ix2KzbjCAo2obaqSBJUCkgLSDYp9qv2LEg2YbYqiDZhdit2K/ZiNivINio2KfYtNmH2Iwg2KfbjNmGINqG2qkg2YXbjOKAjNqp2YbZhyDYsdivINmF24zigIzYtNmHINuM2Kcg2YbZhwogICAgICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9hcGkuaXBpZnkub3JnP2Zvcm1hdD1qc29uIiwgcHJveGllcz1wcm94aWVzLCB0aW1lb3V0PTEwKQogICAgICAgICAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDAgYW5kICJpcCIgaW4gcmVzcG9uc2UuanNvbigpOgogICAgICAgICAgICAgICAgcHJpbnQoZiJDb25maWcgd29ya3M6IHtjb25maWdbOjUwXX0uLi4iKSAgIyDYqNiu2LTbjCDYp9iyINqp2KfZhtmB24zaryDYqNix2KfbjCDZhNmI2q8KICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgcHJveHkuc3RvcCgpICAjINit2KrZhdin2Ysgc3RvcCDaqdmGINiq2Kcg2YXZhtin2KjYuSDYotiy2KfYryDYqNi02YcKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIkNvbmZpZyBmYWlsZWQ6IHtjb25maWdbOjUwXX0uLi4gRXJyb3I6IHtzdHIoZSl9IikKICAgIHJldHVybiBGYWxzZQoKZGVmIG1haW4oKToKICAgICMg2YTbjNiz2Kog2YXZhtin2KjYuSDaqdin2YbZgduM2q8gKNio2LHZiNiy2LHYs9in2YbbjCDYtNiv2Ycg2KjYpyDZhdmG2KfYqNi5INqp2KfYsdii2YXYryDbstuw27LbtiDYqNixINin2LPYp9izINis2LPYqtis2YjZh9in24wg2KfYrtuM2LEgLSDYqtmF2LHaqdiyINix2YjbjCDYp9uM2LHYp9mGINmIIGZyZWUpCiAgICBjb25maWdfdXJscyA9IFsKICAgICAgICAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0Vwb2Rvbmlvcy92MnJheS1jb25maWdzL21haW4vY29uZmlncy92bGVzcy50eHQiLCAgIyDYp9iyIEVwb2RvbmlvcwogICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYmFycnktZmFyL1YycmF5LUNvbmZpZ3MvbWFpbi9TcGxpdHRlZC1CeS1Qcm90b2NvbC92bGVzcy50eHQiLCAgIyDYp9iyIGJhcnJ5LWZhcgogICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTWF0aW5HaGFuYmFyaS92MnJheS1jb25maWdzL21haW4vc3Vic2NyaXB0aW9ucy9maWx0ZXJlZC9zdWJzL3ZsZXNzLnR4dCIsICAjINin2LIgTWF0aW5HaGFuYmFyaQogICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbW9ydGV6YS12Mi9mcmVlLXYycmF5LWlyYW5jZWxsLWNvbmZpZy9tYWluL2NvbmZpZ3Mvdmxlc3MiLCAgIyDYqNix2KfbjCDYp9uM2LHYp9mG2LPZhAogICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veWViZWtoZS9UZWxlZ3JhbVYycmF5Q29sbGVjdG9yL21haW4vc3ViL2Jhc2U2NC92bGVzcyIsICAjINin2LIgeWViZWtoZSAo2KjYsdmI2LLYsdiz2KfZhtuMINmF2qnYsdixKQogICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaXRzeWViZWtoZS9QU0cvbWFpbi9zdWJzY3JpcHRpb25zL3hyYXkvbm9ybWFsL3ZsZXNzIiwgICMg2YXZhtio2Lkg2YLYqNmE24wg2qnYp9ix2KjYsQogICAgICAgICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWFoZGlibGFuZC9WMlJheUFnZ3JlZ2F0b3IvbWFzdGVyL3N1Yi9zcGxpdHRlZC92bGVzcy50eHQiLCAgIyDZhdmG2KjYuSBhZ2dyZWdhdG9yCiAgICBdCiAgIAogICAgcHJpbnQoIkZldGNoaW5nIGNvbmZpZ3MgZnJvbSBzb3VyY2VzLi4uIikKICAgIGFsbF9jb25maWdzID0gZmV0Y2hfY29uZmlnc19mcm9tX3VybHMoY29uZmlnX3VybHMpCiAgIAogICAgcHJpbnQoZiJUb3RhbCB2bGVzcyBjb25maWdzIGZvdW5kOiB7bGVuKGFsbF9jb25maWdzKX0iKQogICAKICAgIGlmIG5vdCBhbGxfY29uZmlnczoKICAgICAgICBwcmludCgiTm8gY29uZmlncyBmb3VuZCEgVXNpbmcgc2FtcGxlIGNvbmZpZ3MgYXMgZmFsbGJhY2suIikKICAgICAgICAjINmG2YXZiNmG2Ycg2qnYp9mG2YHbjNqv4oCM2YfYp9uMINm+2LTYqtuM2KjYp9mGICjYp9uM2YbigIzZh9inINix2Ygg2K7ZiNiv2Kog2KjYpyDZiNin2YLYuduMINis2KfbjNqv2LLbjNmGINqp2YYg2Kfar9ixINqp2KfYsSDZhduM4oCM2qnZhtmGIC0g2KjYpyByZWFsaXR5INio2LHYp9uMINin24zYsdin2YYpCiAgICAgICAgYWxsX2NvbmZpZ3MgPSBbCiAgICAgICAgICAgICJ2bGVzczovL2RmMDY4MGNhLWU0M2MtNDk4ZC1lZDg2LThlMTk2ZWVkZDAxMkAxODUuMTUzLjE4My4yMTE6ODg4MC8/dHlwZT1ncnBjJmVuY3J5cHRpb249bm9uZSZmbG93PSNUZXN0LUNvbmZpZy0xIiwKICAgICAgICAgICAgInZsZXNzOi8vZTEwNWU1NmEtNWY4MS00MWEyLWFiNDQtYmZmZmM5YjAwNjc0QDQ1LjEyLjE0My4xOTE6MjAzMjk/c2VjdXJpdHk9cmVhbGl0eSZlbmNyeXB0aW9uPW5vbmUmcGJrPUxqM01YbGcxNkNURkh0VTg4YWNTUy1BQ2ZHbndKX3hrVTZkQzZrOE9lRG8mZnA9Y2hyb21lJnR5cGU9dGNwJnNuaT15YWhvby5jb20mc2lkPTQ2MDJlZTlmOWYzNiNUZXN0LUNvbmZpZy0yIiwKICAgICAgICAgICAgInZsZXNzOi8vYmZjNzhjZDgtNTk1MS00ODAzLThkNmMtNGNlZGVmOGNkNDIwQDk1LjE2NC44NS4xMDk6NTkzNzQvP3R5cGU9dGNwJmVuY3J5cHRpb249bm9uZSZmbG93PSZzbmk9eWFob28uY29tJmZwPWNocm9tZSZzZWN1cml0eT1yZWFsaXR5JnBiaz1ac3N3WnVCVjhiRUdRV0ZycFNoQ2lsU3l0bkRVajBrd0hGaFRTTFh6T3djJnNpZD1kMjFlN2MjVGVzdC1Db25maWctMyIsCiAgICAgICAgICAgICJ2bGVzczovLzg2NzJiZGNkLWUzMzEtNDY0ZC05ZWQ4LTkzYTI0MmNhN2QyZUA4OS40NC4xOTcuNzc6MTU5NDY/cGF0aD0lMkYmc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmdHlwZT13cyNUZXN0LUNvbmZpZy00IiwKICAgICAgICAgICAgInZsZXNzOi8vZTQ4MjQxOTMtNGY1NC00NTNiLWQwMzctODgzNjhlODVlZjBlQDQ1LjgyLjI1MS44MDo4ODgwP2VuY3J5cHRpb249bm9uZSZzZWN1cml0eT1ub25lJnR5cGU9Z3JwYyNUZXN0LUNvbmZpZy01IgogICAgICAgIF0KICAgCiAgICAjINit2LDZgSBkdXBsaWNhdGVzCiAgICB1bmlxdWVfY29uZmlncyA9IGxpc3Qoc2V0KGFsbF9jb25maWdzKSkKICAgIHByaW50KGYiVW5pcXVlIHZsZXNzIGNvbmZpZ3M6IHtsZW4odW5pcXVlX2NvbmZpZ3MpfSIpCiAgIAogICAgIyDYqtiz2Kog2qnYp9mG2YHbjNqv4oCM2YfYpyAo2YHZgti3INqp2KfYsdii2YXYr+KAjNmH2Kcg2LHZiCDZhtqv2Ycg2K/Yp9ixKQogICAgd29ya2luZ19jb25maWdzID0gW10KICAgIGZvciBjb25maWcgaW4gdW5pcXVlX2NvbmZpZ3M6CiAgICAgICAgaWYgdGVzdF92bGVzc19jb25maWcoY29uZmlnKToKICAgICAgICAgICAgd29ya2luZ19jb25maWdzLmFwcGVuZChjb25maWcpCiAgICAgICAgdGltZS5zbGVlcCgyKSAgIyDYqtin2K7bjNixINio2LHYp9uMINis2YTZiNqv24zYsduMINin2LIg2KjZhNin2qkgKNmH2LEg2KrYs9iqINux27At27HbtSDYq9in2YbbjNmHINi32YjZhCDZhduM4oCM2qnYtNmHKQoKICAgIHByaW50KGYiV29ya2luZyBjb25maWdzIGZvdW5kOiB7bGVuKHdvcmtpbmdfY29uZmlncyl9IikKICAgCiAgICBpZiBub3Qgd29ya2luZ19jb25maWdzOgogICAgICAgIHByaW50KCJObyB3b3JraW5nIGNvbmZpZ3MhIEZhbGxpbmcgYmFjayB0byBzYW1wbGVzIChidXQgdGVzdCB0aGVtIG1hbnVhbGx5KS4iKQogICAgICAgIHdvcmtpbmdfY29uZmlncyA9IGFsbF9jb25maWdzICAjINuM2Kcg2K7Yp9mE24wg2KjYsNin2LEg2Kfar9ixINmG2YXbjOKAjNiu2YjYp9uMCgogICAgIyDZh9mF24zYtNmHINmE24zYs9iqINqp2KfZhdmE2KfZiyDYqti12KfYr9mB24wg2KzYr9uM2K8g2KfbjNis2KfYryDaqdmGCiAgICByYW5kb20uc2h1ZmZsZSh3b3JraW5nX2NvbmZpZ3MpCiAgIAogICAgIyDYp9mG2KrYrtin2KggMzAg2KrYpyDYqti12KfYr9mB24wgKNuM2Kcg2qnZhdiq2LEg2Kfar9ixINiq2LnYr9in2K8g2qnZhSDYqNin2LTZhykKICAgIHNlbGVjdGVkX2NvdW50ID0gbWluKDMwLCBsZW4od29ya2luZ19jb25maWdzKSkKICAgIHNlbGVjdGVkX2NvbmZpZ3MgPSB3b3JraW5nX2NvbmZpZ3NbOnNlbGVjdGVkX2NvdW50XQogICAKICAgICMg2LDYrtuM2LHZhyDYr9ixINmB2KfbjNmECiAgICBjdXJyZW50X3RpbWUgPSBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJVktJW0tJWQgJUg6JU06JVMiKQogICAgd2l0aCBvcGVuKCdjb25maWdzL3dvcmtpbmctY29uZmlncy50eHQnLCAndycsIGVuY29kaW5nPSd1dGYtOCcpIGFzIGY6CiAgICAgICAgZi53cml0ZSgiIyBBdXRvLWdlbmVyYXRlZCB2bGVzcyBjb25maWdzXG4iKQogICAgICAgIGYud3JpdGUoZiIjIExhc3QgdXBkYXRlOiB7Y3VycmVudF90aW1lfVxuIikKICAgICAgICBmLndyaXRlKGYiIyBUb3RhbCB3b3JraW5nOiB7bGVuKHdvcmtpbmdfY29uZmlncyl9XG4iKQogICAgICAgIGYud3JpdGUoZiIjIFJhbmRvbWx5IHNlbGVjdGVkOiB7bGVuKHNlbGVjdGVkX2NvbmZpZ3MpfVxuXG4iKQogICAgICAgCiAgICAgICAgZm9yIGksIGNvbmZpZyBpbiBlbnVtZXJhdGUoc2VsZWN0ZWRfY29uZmlncywgMSk6CiAgICAgICAgICAgIGYud3JpdGUoZiIjIENvbmZpZyB7aX1cbiIpCiAgICAgICAgICAgIGYud3JpdGUoY29uZmlnICsgJ1xuXG4nKQogICAKICAgIHByaW50KGYiU2F2ZWQge2xlbihzZWxlY3RlZF9jb25maWdzKX0gd29ya2luZyBjb25maWdzIHRvIGNvbmZpZ3Mvd29ya2luZy1jb25maWdzLnR4dCIpCiAgICBwcmludChmIlVwZGF0ZSB0aW1lOiB7Y3VycmVudF90aW1lfSIpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+import requests
+import random
+import re
+import time
+from datetime import datetime
+from singbox2proxy import SingBoxProxy  # جایگزین v2ray2proxy با singbox2proxy (بهتر و بروزتر)
+
+def fetch_configs_from_urls(url_list):
+    """Fetch configs from multiple URLs"""
+    all_configs = []
+   
+    for url in url_list:
+        try:
+            print(f"Fetching from: {url}")
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            }
+            response = requests.get(url, headers=headers, timeout=20)
+           
+            if response.status_code == 200:
+                # پیدا کردن تمام کانفیگ‌های vless با regex بهبود یافته (تا #remark رو هم بگیره)
+                vless_pattern = r'vless://[^\s#]+(?:#[^\s]*)?'
+                vless_configs = re.findall(vless_pattern, response.text)
+               
+                # همچنین خط به خط بررسی کنیم
+                lines = response.text.split('\n')
+                for line in lines:
+                    line = line.strip()
+                    if line.startswith('vless://'):
+                        # حذف کاراکترهای اضافی در انتها
+                        clean_line = re.sub(r'[`<>"\'{}|\\^]', '', line)
+                        if clean_line not in vless_configs:
+                            vless_configs.append(clean_line)
+               
+                # فقط کانفیگ‌های معتبر رو اضافه کن
+                valid_configs = [cfg for cfg in vless_configs if is_valid_vless(cfg)]
+                all_configs.extend(valid_configs)
+               
+                print(f"Found {len(valid_configs)} vless configs from {url}")
+               
+            else:
+                print(f"Failed to fetch {url}, status code: {response.status_code}")
+               
+        except Exception as e:
+            print(f"Error fetching from {url}: {str(e)}")
+       
+        # تاخیر کوتاه بین درخواست‌ها
+        time.sleep(1)
+   
+    return all_configs
+
+def is_valid_vless(config):
+    """Check if a vless config is valid - بهبود یافته با چک reality (برای کار در ایران)"""
+    try:
+        if not config.startswith('vless://'):
+            return False
+       
+        # بررسی وجود UUID و آدرس سرور
+        if '@' not in config:
+            return False
+       
+        # بررسی ساختار کلی
+        parts = config.split('vless://')[1].split('@')
+        if len(parts) < 2:
+            return False
+       
+        uuid_part = parts[0]
+        if len(uuid_part) < 30:  # حداقل طول UUID
+            return False
+        
+        # چک اضافی: برای ایران، reality یا tls بهتره باشه
+        if 'security=reality' not in config.lower() and 'security=tls' not in config.lower():
+            return False  # فقط کانفیگ‌های امن رو نگه دار
+        
+        return True
+       
+    except:
+        return False
+
+def test_vless_config(config):
+    """Test if vless config works with Iranian internet by making a request"""
+    try:
+        proxy = SingBoxProxy(config)  # تبدیل vless به proxy محلی با singbox
+        try:
+            proxies = {
+                "http": proxy.http_proxy_url,
+                "https": proxy.http_proxy_url
+            }
+            # تست request به سایت خارجی (چک IP) - اگر نت محدود باشه، این چک می‌کنه رد می‌شه یا نه
+            response = requests.get("https://api.ipify.org?format=json", proxies=proxies, timeout=10)
+            if response.status_code == 200 and "ip" in response.json():
+                print(f"Config works: {config[:50]}...")  # بخشی از کانفیگ برای لوگ
+                return True
+        finally:
+            proxy.stop()  # حتماً stop کن تا منابع آزاد بشه
+    except Exception as e:
+        print(f"Config failed: {config[:50]}... Error: {str(e)}")
+    return False
+
+def main():
+    # لیست منابع کانفیگ (بروزرسانی شده با منابع کارآمد ۲۰۲۶ بر اساس جستجوهای اخیر - تمرکز روی ایران و free)
+    config_urls = [
+        "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/configs/vless.txt",  # از Epodonios
+        "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt",  # از barry-far
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt",  # از MatinGhanbari
+        "https://raw.githubusercontent.com/morteza-v2/free-v2ray-irancell-config/main/configs/vless",  # برای ایرانسل
+        "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/vless",  # از yebekhe (بروزرسانی مکرر)
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/normal/vless",  # منبع قبلی کاربر
+        "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vless.txt",  # منبع aggregator
+    ]
+   
+    print("Fetching configs from sources...")
+    all_configs = fetch_configs_from_urls(config_urls)
+   
+    print(f"Total vless configs found: {len(all_configs)}")
+   
+    if not all_configs:
+        print("No configs found! Using sample configs as fallback.")
+        # نمونه کانفیگ‌های پشتیبان (این‌ها رو خودت با واقعی جایگزین کن اگر کار می‌کنن - با reality برای ایران)
+        all_configs = [
+            "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880/?type=grpc&encryption=none&flow=#Test-Config-1",
+            "vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Test-Config-2",
+            "vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c#Test-Config-3",
+            "vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=none&encryption=none&type=ws#Test-Config-4",
+            "vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Test-Config-5"
+        ]
+   
+    # حذف duplicates
+    unique_configs = list(set(all_configs))
+    print(f"Unique vless configs: {len(unique_configs)}")
+   
+    # تست کانفیگ‌ها (فقط کارآمد‌ها رو نگه دار)
+    working_configs = []
+    for config in unique_configs:
+        if test_vless_config(config):
+            working_configs.append(config)
+        time.sleep(2)  # تاخیر برای جلوگیری از بلاک (هر تست ۱۰-۱۵ ثانیه طول می‌کشه)
+
+    print(f"Working configs found: {len(working_configs)}")
+   
+    if not working_configs:
+        print("No working configs! Falling back to samples (but test them manually).")
+        working_configs = all_configs  # یا خالی بذار اگر نمی‌خوای
+
+    # همیشه لیست کاملاً تصادفی جدید ایجاد کن
+    random.shuffle(working_configs)
+   
+    # انتخاب 30 تا تصادفی (یا کمتر اگر تعداد کم باشه)
+    selected_count = min(30, len(working_configs))
+    selected_configs = working_configs[:selected_count]
+   
+    # ذخیره در فایل
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open('configs/working-configs.txt', 'w', encoding='utf-8') as f:
+        f.write("# Auto-generated vless configs\n")
+        f.write(f"# Last update: {current_time}\n")
+        f.write(f"# Total working: {len(working_configs)}\n")
+        f.write(f"# Randomly selected: {len(selected_configs)}\n\n")
+       
+        for i, config in enumerate(selected_configs, 1):
+            f.write(f"# Config {i}\n")
+            f.write(config + '\n\n')
+   
+    print(f"Saved {len(selected_configs)} working configs to configs/working-configs.txt")
+    print(f"Update time: {current_time}")
+
+if __name__ == "__main__":
+    main()

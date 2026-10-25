@@ -1,1 +1,17 @@
-ZnJvbSBzZXR1cHRvb2xzIGltcG9ydCBzZXR1cCwgZmluZF9wYWNrYWdlcwpzZXR1cCgKICAgIG5hbWU9ImV2YWxndWFyZCIsCiAgICB2ZXJzaW9uPSIwLjIuMCIsCiAgICBkZXNjcmlwdGlvbj0iU3RhdGljIGxpbnRlciBmb3IgTExNL2FnZW50IGV2YWx1YXRpb24gc2NyaXB0cywgYmFja2VkIGJ5IGEgMzY4LWVudHJ5IGVtcGlyaWNhbCBmYWlsdXJlLW1vZGUgY2Fub24iLAogICAgbG9uZ19kZXNjcmlwdGlvbj1vcGVuKCJSRUFETUUubWQiLCBlbmNvZGluZz0idXRmLTgiKS5yZWFkKCksCiAgICBsb25nX2Rlc2NyaXB0aW9uX2NvbnRlbnRfdHlwZT0idGV4dC9tYXJrZG93biIsCiAgICBwYWNrYWdlcz1maW5kX3BhY2thZ2VzKCksCiAgICBweXRob25fcmVxdWlyZXM9Ij49My44IiwKICAgIGVudHJ5X3BvaW50cz17ImNvbnNvbGVfc2NyaXB0cyI6IFsiZXZhbGd1YXJkPWV2YWxndWFyZC5jbGk6bWFpbiJdfSwKICAgIGxpY2Vuc2U9Ik1JVCIsCiAgICBjbGFzc2lmaWVycz1bCiAgICAgICAgIlByb2dyYW1taW5nIExhbmd1YWdlIDo6IFB5dGhvbiA6OiAzIiwKICAgICAgICAiVG9waWMgOjogU29mdHdhcmUgRGV2ZWxvcG1lbnQgOjogUXVhbGl0eSBBc3N1cmFuY2UiLAogICAgICAgICJJbnRlbmRlZCBBdWRpZW5jZSA6OiBEZXZlbG9wZXJzIiwKICAgIF0sCikK
+from setuptools import setup, find_packages
+setup(
+    name="evalguard",
+    version="0.2.0",
+    description="Static linter for LLM/agent evaluation scripts, backed by a 368-entry empirical failure-mode canon",
+    long_description=open("README.md", encoding="utf-8").read(),
+    long_description_content_type="text/markdown",
+    packages=find_packages(),
+    python_requires=">=3.8",
+    entry_points={"console_scripts": ["evalguard=evalguard.cli:main"]},
+    license="MIT",
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "Topic :: Software Development :: Quality Assurance",
+        "Intended Audience :: Developers",
+    ],
+)

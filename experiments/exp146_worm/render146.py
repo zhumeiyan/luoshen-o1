@@ -1,1 +1,74 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJleHAxNDYg5LiK5bGP6Ieq5qOA77ya5riy5p+TIC0+IOWGmSAvZGV2L2ZiMCAtPiDlm57ph4cgLT4g5q+U5a+5IiIiCmltcG9ydCBvcwppbXBvcnQgc3VicHJvY2Vzcwpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpXLCBIID0gMTAyNCwgNzY4ClRPS0VOID0gIlc3SzNRWiIKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQoKaW1nID0gSW1hZ2UubmV3KCJSR0IiLCAoVywgSCksICgyNTUsIDI1NSwgMjU1KSkKZCA9IEltYWdlRHJhdy5EcmF3KGltZykKdHJ5OgogICAgZnAgPSAiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIKICAgIGZfYmlnID0gSW1hZ2VGb250LnRydWV0eXBlKGZwLCAzNCkKICAgIGZfbWlkID0gSW1hZ2VGb250LnRydWV0eXBlKGZwLCAyNikKICAgIGZfc20gPSBJbWFnZUZvbnQudHJ1ZXR5cGUoZnAsIDIxKQpleGNlcHQgRXhjZXB0aW9uOgogICAgZl9iaWcgPSBmX21pZCA9IGZfc20gPSBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKCmxpbmVzID0gWwogICAgKCJFWFAxNDYgV09STSBTVEFHRSIsIGZfYmlnKSwKICAgICgic2VsZi1pbml0aWF0ZWQgc2NoZWR1bGVyIiwgZl9zbSksCiAgICAoIiIsIGZfc20pLAogICAgKCJHMSBub19kcml2ZSBzcG9udF9yYXRlID0gMC4wMDAgIFBBU1MiLCBmX21pZCksCiAgICAoIiIsIGZfc20pLAogICAgKCJURVJSQUlOIEEgcmVhbCAvIG5vIHN0cnVjdHVyZSIsIGZfbWlkKSwKICAgICgiICBwcmV0ZXN0IHJhdGlvIDEuMDkzNiAgbGVhcm5hYmxlIE5PIiwgZl9zbSksCiAgICAoIiAgY3VyaW9zaXR5IC0gcmFuZG9tID0gKzAuMTUwNCAgV09SU0UiLCBmX3NtKSwKICAgICgiIiwgZl9zbSksCiAgICAoIlRFUlJBSU4gQiByZWFsIC8gc3RydWN0dXJlZCIsIGZfbWlkKSwKICAgICgiICBwcmV0ZXN0IHJhdGlvIDAuNjU4MiAgbGVhcm5hYmxlIFlFUyIsIGZfc20pLAogICAgKCIgIGN1cmlvc2l0eSAtIHJhbmRvbSA9IC0wLjA0NDcgIEJFVFRFUiIsIGZfc20pLAogICAgKCIgIGFudGkgMS40MTc3ID4gcmFuZG9tIDEuMjU1MSA+IGN1cmkgMS4yMTA0IiwgZl9zbSksCiAgICAoIiIsIGZfc20pLAogICAgKCJJTlRFUkFDVElPTiBCIC0gQSA9ICswLjE5NTAiLCBmX21pZCksCiAgICAoIiAgQ0kgWyswLjEyMjEgKzAuMjY3OV0gIG5vIHplcm8iLCBmX3NtKSwKICAgICgiIiwgZl9zbSksCiAgICAoIkRBRU1PTiBubyBpbnN0cnVjdGlvbiwgMTggc2VjIiwgZl9taWQpLAogICAgKCIgIGN1cmlvc2l0eSAzMiBhY3Rpb25zIC8gNzY2IHRpY2tzIiwgZl9zbSksCiAgICAoIiAgbm9fZHJpdmUgICAwIGFjdGlvbnMgLyA4NTggdGlja3MiLCBmX3NtKSwKICAgICgiIiwgZl9zbSksCiAgICAoZiJUT0tFTiB7VE9LRU59IiwgZl9iaWcpLApdCgojIOWbuuWumuihjOS9je+8jOmBv+WFjeacq+ihjOi2iueVjO+8iDE0NCDlj7flkIznl4XnrKwgMiDmrKHlpI3lj5HvvIkKWVMgPSBbMTYsIDU0LCA4NCwgMTE2LCAxNTAsIDE4NCwgMjE4LCAyNTIsIDI4NiwgMzIwLCAzNDYsIDM4MCwgNDE0LCA0NTAsIDQ4NCwgNTE2LCA1NTIsIDU4NiwgNjIwLCA2NTYsIDY5MCwgNzEyXQphc3NlcnQgbGVuKFlTKSA9PSBsZW4obGluZXMpLCAobGVuKFlTKSwgbGVuKGxpbmVzKSkKZm9yICh0eHQsIGZudCksIHl5IGluIHppcChsaW5lcywgWVMpOgogICAgZC50ZXh0KCg0MCwgeXkpLCB0eHQsIGZpbGw9KDAsIDAsIDApLCBmb250PWZudCkKcHJpbnQoImxhc3QgbGluZSB5ID0iLCBZU1stMV0sICJjYW52YXMgSCA9IiwgSCwgImZpdHMgPSIsIFlTWy0xXSArIDQ0IDw9IEgpCgpwbmcgPSBvcy5wYXRoLmpvaW4oSEVSRSwgInJlbmRlcjE0Ni5wbmciKQppbWcuc2F2ZShwbmcpCgpGQiA9ICIvZGV2L2ZiMCIKcmF3ID0gaW1nLmNvbnZlcnQoIlJHQiIpLnRvYnl0ZXMoKQp3aXRoIG9wZW4oRkIsICJ3YiIpIGFzIGY6CiAgICBmLndyaXRlKHJhdykKd2l0aCBvcGVuKEZCLCAicmIiKSBhcyBmOgogICAgY2FwID0gZi5yZWFkKGxlbihyYXcpKQppZGVudGljYWwgPSAoY2FwID09IHJhdykKcHJpbnQoIndyb3RlIiwgbGVuKHJhdyksICJjYXB0dXJlZCIsIGxlbihjYXApLCAiSURFTlRJQ0FMIiwgaWRlbnRpY2FsKQoKc3VicHJvY2Vzcy5ydW4oWyJweXRob24zIiwgIi1jIiwgIiIiCmZyb20gUElMIGltcG9ydCBJbWFnZQppbSA9IEltYWdlLm9wZW4oJyVzJykKaW0uc2F2ZSgnJXMnKQoiIiIgJSAocG5nLCBvcy5wYXRoLmpvaW4oSEVSRSwgImV4cGVjdDE0Ni5wbmciKSldLCBjaGVjaz1GYWxzZSkKCiMg5oqK5bin57yT5Yay5Y6f5aeL5a2X6IqC5a2Y5oiQIFBORyDkvpsgT0NSCkltYWdlLmZyb21ieXRlcygiUkdCIiwgKFcsIEgpLCBjYXApLnNhdmUob3MucGF0aC5qb2luKEhFUkUsICJjYXB0dXJlZC5wbmciKSkKcHJpbnQoInNhdmVkIGNhcHR1cmVkLnBuZyIpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""exp146 上屏自检：渲染 -> 写 /dev/fb0 -> 回采 -> 比对"""
+import os
+import subprocess
+from PIL import Image, ImageDraw, ImageFont
+
+W, H = 1024, 768
+TOKEN = "W7K3QZ"
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+img = Image.new("RGB", (W, H), (255, 255, 255))
+d = ImageDraw.Draw(img)
+try:
+    fp = "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+    f_big = ImageFont.truetype(fp, 34)
+    f_mid = ImageFont.truetype(fp, 26)
+    f_sm = ImageFont.truetype(fp, 21)
+except Exception:
+    f_big = f_mid = f_sm = ImageFont.load_default()
+
+lines = [
+    ("EXP146 WORM STAGE", f_big),
+    ("self-initiated scheduler", f_sm),
+    ("", f_sm),
+    ("G1 no_drive spont_rate = 0.000  PASS", f_mid),
+    ("", f_sm),
+    ("TERRAIN A real / no structure", f_mid),
+    ("  pretest ratio 1.0936  learnable NO", f_sm),
+    ("  curiosity - random = +0.1504  WORSE", f_sm),
+    ("", f_sm),
+    ("TERRAIN B real / structured", f_mid),
+    ("  pretest ratio 0.6582  learnable YES", f_sm),
+    ("  curiosity - random = -0.0447  BETTER", f_sm),
+    ("  anti 1.4177 > random 1.2551 > curi 1.2104", f_sm),
+    ("", f_sm),
+    ("INTERACTION B - A = +0.1950", f_mid),
+    ("  CI [+0.1221 +0.2679]  no zero", f_sm),
+    ("", f_sm),
+    ("DAEMON no instruction, 18 sec", f_mid),
+    ("  curiosity 32 actions / 766 ticks", f_sm),
+    ("  no_drive   0 actions / 858 ticks", f_sm),
+    ("", f_sm),
+    (f"TOKEN {TOKEN}", f_big),
+]
+
+# 固定行位，避免末行越界（144 号同病第 2 次复发）
+YS = [16, 54, 84, 116, 150, 184, 218, 252, 286, 320, 346, 380, 414, 450, 484, 516, 552, 586, 620, 656, 690, 712]
+assert len(YS) == len(lines), (len(YS), len(lines))
+for (txt, fnt), yy in zip(lines, YS):
+    d.text((40, yy), txt, fill=(0, 0, 0), font=fnt)
+print("last line y =", YS[-1], "canvas H =", H, "fits =", YS[-1] + 44 <= H)
+
+png = os.path.join(HERE, "render146.png")
+img.save(png)
+
+FB = "/dev/fb0"
+raw = img.convert("RGB").tobytes()
+with open(FB, "wb") as f:
+    f.write(raw)
+with open(FB, "rb") as f:
+    cap = f.read(len(raw))
+identical = (cap == raw)
+print("wrote", len(raw), "captured", len(cap), "IDENTICAL", identical)
+
+subprocess.run(["python3", "-c", """
+from PIL import Image
+im = Image.open('%s')
+im.save('%s')
+""" % (png, os.path.join(HERE, "expect146.png"))], check=False)
+
+# 把帧缓冲原始字节存成 PNG 供 OCR
+Image.frombytes("RGB", (W, H), cap).save(os.path.join(HERE, "captured.png"))
+print("saved captured.png")

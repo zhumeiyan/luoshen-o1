@@ -1,1 +1,53 @@
-ewogICJ0aW1lc3RhbXAiOiAiMjAyNi0xMC0xNyAwMjoxNjo0OSIsCiAgImJ1ZGdldF90b2tlbnNfcGVyX3NlYyI6IDUwLjAsCiAgImJhc2VfdmFyIjogNjQuMDY1MywKICAicm93cyI6IFsKICAgIHsKICAgICAgInJhdGUiOiA2LjI1LAogICAgICAiYml0cyI6IDguMCwKICAgICAgIksiOiAxNjIsCiAgICAgICJtc2UiOiAwLjA5MDczLAogICAgICAibm1zZSI6IDAuMDAxNDIsCiAgICAgICJmcmFtZXNfcGVyX3NlYyI6IDYuMjUsCiAgICAgICJ0b2tlbnNfcGVyX3NlYyI6IDQ1LjkKICAgIH0sCiAgICB7CiAgICAgICJyYXRlIjogMTIuNSwKICAgICAgImJpdHMiOiA0LjAsCiAgICAgICJLIjogMTYsCiAgICAgICJtc2UiOiAyLjA2MDM3LAogICAgICAibm1zZSI6IDAuMDMyMTYsCiAgICAgICJmcmFtZXNfcGVyX3NlYyI6IDEyLjUsCiAgICAgICJ0b2tlbnNfcGVyX3NlYyI6IDUwLjAKICAgIH0sCiAgICB7CiAgICAgICJyYXRlIjogMjUuMCwKICAgICAgImJpdHMiOiAyLjAsCiAgICAgICJLIjogNCwKICAgICAgIm1zZSI6IDYuODI4NjQsCiAgICAgICJubXNlIjogMC4xMDY1OSwKICAgICAgImZyYW1lc19wZXJfc2VjIjogMjUuMCwKICAgICAgInRva2Vuc19wZXJfc2VjIjogNTAuMAogICAgfSwKICAgIHsKICAgICAgInJhdGUiOiA1MC4wLAogICAgICAiYml0cyI6IDEuMCwKICAgICAgIksiOiAyLAogICAgICAibXNlIjogMTMuMzA0NTMsCiAgICAgICJubXNlIjogMC4yMDc2NywKICAgICAgImZyYW1lc19wZXJfc2VjIjogNTAuMCwKICAgICAgInRva2Vuc19wZXJfc2VjIjogNTAuMAogICAgfQogIF0sCiAgImJlc3QiOiB7CiAgICAicmF0ZSI6IDYuMjUsCiAgICAiYml0cyI6IDguMCwKICAgICJLIjogMTYyLAogICAgIm1zZSI6IDAuMDkwNzMsCiAgICAibm1zZSI6IDAuMDAxNDIsCiAgICAiZnJhbWVzX3Blcl9zZWMiOiA2LjI1LAogICAgInRva2Vuc19wZXJfc2VjIjogNDUuOQogIH0sCiAgIm5vdGUiOiAi5Zu65a6a5oC76aKE566X77yb5bin546H5LiO56CB5pys5aSn5bCP5q2k5raI5b286ZW/44CC6Iul5pyA5LyY5Zyo5Lit6Ze05bin546HIC0+IDEyLjVIeiDmnInnu5PmnoTmgKfnkIbnlLHvvJvoi6XljZXosIMgLT4g5bel56iL5aal5Y2P44CCIgp9
+{
+  "timestamp": "2026-10-17 02:16:49",
+  "budget_tokens_per_sec": 50.0,
+  "base_var": 64.0653,
+  "rows": [
+    {
+      "rate": 6.25,
+      "bits": 8.0,
+      "K": 162,
+      "mse": 0.09073,
+      "nmse": 0.00142,
+      "frames_per_sec": 6.25,
+      "tokens_per_sec": 45.9
+    },
+    {
+      "rate": 12.5,
+      "bits": 4.0,
+      "K": 16,
+      "mse": 2.06037,
+      "nmse": 0.03216,
+      "frames_per_sec": 12.5,
+      "tokens_per_sec": 50.0
+    },
+    {
+      "rate": 25.0,
+      "bits": 2.0,
+      "K": 4,
+      "mse": 6.82864,
+      "nmse": 0.10659,
+      "frames_per_sec": 25.0,
+      "tokens_per_sec": 50.0
+    },
+    {
+      "rate": 50.0,
+      "bits": 1.0,
+      "K": 2,
+      "mse": 13.30453,
+      "nmse": 0.20767,
+      "frames_per_sec": 50.0,
+      "tokens_per_sec": 50.0
+    }
+  ],
+  "best": {
+    "rate": 6.25,
+    "bits": 8.0,
+    "K": 162,
+    "mse": 0.09073,
+    "nmse": 0.00142,
+    "frames_per_sec": 6.25,
+    "tokens_per_sec": 45.9
+  },
+  "note": "固定总预算；帧率与码本大小此消彼长。若最优在中间帧率 -> 12.5Hz 有结构性理由；若单调 -> 工程妥协。"
+}

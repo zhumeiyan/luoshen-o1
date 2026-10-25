@@ -1,1 +1,244 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMTc4OiDov7fojKvml7bmiY3mkJwg4oCU4oCUIOWklumDqOS/oea6kOivpeWKoOWcqOWTquS4gOaLjQrnm67moIc6IOmihOa1i+eUqOaIt+S+p+S4i+S4gOWPpSh1X3NpZGUudHh0KQrlhoXpg6g6IOeUqOaIt+WOhuWPsuWJjeautSjmiJHlt7LnnIvop4HkvaDnmoTpg6jliIYpCuWklumDqDog55yf5oqT5Y+W55qE5Lit5paH6K666L+wKGV4dGVybmFsLnR4dCkK5bmy6aKEOiDmiorlpJbpg6jmqKHlnovnmoTmpoLnjofmt7fov5vlhoXpg6jmqKHlnossIOWMuuWIq+WcqOS6jiLmt7flnKjlk6rkupvkvY3nva4iCiAg5pyJ5pa55ZCRKOWPquWcqOmihOa1i+eGtemrmOWkhCkgLyDlj43lkJEo5Zyo54a15L2O5aSEKSAvIOmaj+acuiAvIOWFqOebmAoiIiIKaW1wb3J0IGpzb24sIG1hdGgsIHJhbmRvbSwgb3MsIGhhc2hsaWIKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlciwgZGVmYXVsdGRpY3QKCkJBU0UgPSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTc4X3NlYXJjaCcKVSA9ICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNzVfYWxpZ24vdV9zaWRlLnR4dCcKT1JERVIgPSAyICAgICAgICAgICMgMTc25Y+3OiDnnLzmt7EgMgpNVSA9IDEuMApBTFBIQSA9IDAuMQoKCmRlZiBsb2FkKHApOgogICAgd2l0aCBvcGVuKHAsIGVuY29kaW5nPSd1dGYtOCcpIGFzIGY6CiAgICAgICAgcmV0dXJuIGYucmVhZCgpLnN0cmlwKCkKCgpjbGFzcyBORzoKICAgICIiIuWtl+espiBuLWdyYW0sIOmAkuW9kuaPkuWAvCBiYWNrb2ZmIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHRleHQsIG9yZGVyLCB2b2NhYiwgbXU9TVUsIGFscGhhPUFMUEhBKToKICAgICAgICBzZWxmLm9yZGVyID0gb3JkZXIKICAgICAgICBzZWxmLnZvY2FiID0gc29ydGVkKHZvY2FiKQogICAgICAgIHNlbGYubXUsIHNlbGYuYWxwaGEgPSBtdSwgYWxwaGEKICAgICAgICBzZWxmLmNudCA9IFtkZWZhdWx0ZGljdChDb3VudGVyKSBmb3IgXyBpbiByYW5nZShvcmRlciArIDEpXQogICAgICAgIHNlbGYudG90ID0gW2RpY3QoKSBmb3IgXyBpbiByYW5nZShvcmRlciArIDEpXQogICAgICAgIGZvciBpLCBjaCBpbiBlbnVtZXJhdGUodGV4dCk6CiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKDEsIG9yZGVyICsgMSk6CiAgICAgICAgICAgICAgICBpZiBpIC0gaiA+PSAwOgogICAgICAgICAgICAgICAgICAgIHNlbGYuY250W2pdW3RleHRbaSAtIGo6aV1dW2NoXSArPSAxCiAgICAgICAgZm9yIGogaW4gcmFuZ2UoMSwgb3JkZXIgKyAxKToKICAgICAgICAgICAgZm9yIGN0eCwgYyBpbiBzZWxmLmNudFtqXS5pdGVtcygpOgogICAgICAgICAgICAgICAgc2VsZi50b3Rbal1bY3R4XSA9IHN1bShjLnZhbHVlcygpKQogICAgICAgIHNlbGYudW5pID0gQ291bnRlcihjaCBmb3IgY2ggaW4gdGV4dCBpZiBjaCBpbiB2b2NhYikKICAgICAgICBzZWxmLnRvdDAgPSBzdW0oc2VsZi51bmkudmFsdWVzKCkpCiAgICAgICAgc2VsZi5fY2FjaGUgPSB7fQoKICAgIGRlZiBfdW5pKHNlbGYpOgogICAgICAgIFYgPSBsZW4oc2VsZi52b2NhYikKICAgICAgICBkZW5vbSA9IHNlbGYudG90MCArIHNlbGYuYWxwaGEgKiBWCiAgICAgICAgcmV0dXJuIHtjaDogKHNlbGYudW5pLmdldChjaCwgMCkgKyBzZWxmLmFscGhhKSAvIGRlbm9tIGZvciBjaCBpbiBzZWxmLnZvY2FifQoKICAgIGRlZiBkaXN0KHNlbGYsIGN0eCk6CiAgICAgICAgaiA9IG1pbihsZW4oY3R4KSwgc2VsZi5vcmRlcikKICAgICAgICByZXR1cm4gc2VsZi5fZChjdHhbLWo6XSBpZiBqID4gMCBlbHNlICcnLCBqKQoKICAgIGRlZiBfZChzZWxmLCBjdHgsIGopOgogICAgICAgIGtleSA9IChjdHgsIGopCiAgICAgICAgaWYga2V5IGluIHNlbGYuX2NhY2hlOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fY2FjaGVba2V5XQogICAgICAgIGlmIGogPT0gMDoKICAgICAgICAgICAgciA9IHNlbGYuX3VuaSgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYyA9IHNlbGYuY250W2pdLmdldChjdHgpCiAgICAgICAgICAgIHQgPSBzZWxmLnRvdFtqXS5nZXQoY3R4LCAwKQogICAgICAgICAgICBpZiB0ID09IDA6CiAgICAgICAgICAgICAgICByID0gc2VsZi5fZChjdHhbMTpdIGlmIGogPiAxIGVsc2UgJycsIGogLSAxKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbGFtID0gdCAvICh0ICsgc2VsZi5tdSkKICAgICAgICAgICAgICAgIGJhY2sgPSBzZWxmLl9kKGN0eFsxOl0gaWYgaiA+IDEgZWxzZSAnJywgaiAtIDEpCiAgICAgICAgICAgICAgICByID0ge2NoOiBsYW0gKiAoYy5nZXQoY2gsIDApIC8gdCkgKyAoMSAtIGxhbSkgKiBiYWNrW2NoXQogICAgICAgICAgICAgICAgICAgICBmb3IgY2ggaW4gc2VsZi52b2NhYn0KICAgICAgICBzZWxmLl9jYWNoZVtrZXldID0gcgogICAgICAgIHJldHVybiByCgoKZGVmIEhfb2YoZCk6CiAgICByZXR1cm4gLXN1bShwICogbWF0aC5sb2cyKHApIGZvciBwIGluIGQudmFsdWVzKCkgaWYgcCA+IDApCgoKZGVmIGwyKHApOgogICAgcmV0dXJuIC1tYXRoLmxvZzIobWF4KHAsIDFlLTEyKSkKCgpkZWYgbWVhbih4cyk6CiAgICByZXR1cm4gc3VtKHhzKSAvIGxlbih4cykgaWYgeHMgZWxzZSBmbG9hdCgnbmFuJykKCgpkZWYgcGVhcnNvbihhLCBiKToKICAgIG4gPSBsZW4oYSkKICAgIG1hLCBtYiA9IG1lYW4oYSksIG1lYW4oYikKICAgIG51bSA9IHN1bSgoYVtpXSAtIG1hKSAqIChiW2ldIC0gbWIpIGZvciBpIGluIHJhbmdlKG4pKQogICAgZGEgPSBtYXRoLnNxcnQoc3VtKCh4IC0gbWEpICoqIDIgZm9yIHggaW4gYSkpCiAgICBkYiA9IG1hdGguc3FydChzdW0oKHggLSBtYikgKiogMiBmb3IgeCBpbiBiKSkKICAgIHJldHVybiBudW0gLyAoZGEgKiBkYikgaWYgZGEgPiAwIGFuZCBkYiA+IDAgZWxzZSBmbG9hdCgnbmFuJykKCgpkZWYgcnVuX29uZSh1LCBFX3RleHQsIGN1dF9mcmFjLCBsYW1fbGlzdCwgWF9saXN0LCBzZWVkPTApOgogICAgbiA9IGxlbih1KQogICAgY3V0ID0gaW50KG4gKiBjdXRfZnJhYykKICAgIEl0ciwgVCA9IHVbOmN1dF0sIHVbY3V0Ol0KICAgIGlmIGxlbihUKSA8IDUwOgogICAgICAgIHJldHVybiBOb25lCgogICAgdm9jYWIgPSBzZXQoSXRyKSB8IHNldChFX3RleHQpIHwgc2V0KFQpCiAgICBNSSA9IE5HKEl0ciwgT1JERVIsIHZvY2FiKQogICAgTVUxID0gTkcoSXRyLCAxLCB2b2NhYikgICAgICAgICAgIyDmgLvnu5PniYgodW5pZ3JhbSkKICAgIE1FID0gTkcoRV90ZXh0LCBPUkRFUiwgdm9jYWIpCgogICAgcGFkZGVkID0gSXRyICsgVAogICAgcF9pbnQsIHBfZXh0LCBwX3VuaSwgSHMsIHN1cnAgPSBbXSwgW10sIFtdLCBbXSwgW10KICAgIGZvciBpIGluIHJhbmdlKGxlbihUKSk6CiAgICAgICAgcG9zID0gY3V0ICsgaQogICAgICAgIGN0eCA9IHBhZGRlZFttYXgoMCwgcG9zIC0gT1JERVIpOnBvc10KICAgICAgICBhY3R1YWwgPSBUW2ldCiAgICAgICAgZGkgPSBNSS5kaXN0KGN0eCkKICAgICAgICBkZSA9IE1FLmRpc3QoY3R4KQogICAgICAgIGR1ID0gTVUxLmRpc3QoY3R4KQogICAgICAgIHBfaW50LmFwcGVuZChkaS5nZXQoYWN0dWFsLCAwLjApKQogICAgICAgIHBfZXh0LmFwcGVuZChkZS5nZXQoYWN0dWFsLCAwLjApKQogICAgICAgIHBfdW5pLmFwcGVuZChkdS5nZXQoYWN0dWFsLCAwLjApKQogICAgICAgIEhzLmFwcGVuZChIX29mKGRpKSkKICAgICAgICBzdXJwLmFwcGVuZChsMihkaS5nZXQoYWN0dWFsLCAwLjApKSkKCiAgICBiYXNlID0gbWVhbihbbDIocCkgZm9yIHAgaW4gcF9pbnRdKQogICAgYmFzZV91bmkgPSBtZWFuKFtsMihwKSBmb3IgcCBpbiBwX3VuaV0pCiAgICBiYXNlX2V4dCA9IG1lYW4oW2wyKHApIGZvciBwIGluIHBfZXh0XSkKCiAgICBpZHggPSBsaXN0KHJhbmdlKGxlbihUKSkpCiAgICBieV9oID0gc29ydGVkKGlkeCwga2V5PWxhbWJkYSBpOiBIc1tpXSwgcmV2ZXJzZT1UcnVlKQoKICAgIGRlZiBiaXRzX2ZvcihTLCBsYW0pOgogICAgICAgIG91dCA9IFtdCiAgICAgICAgU3NldCA9IHNldChTKQogICAgICAgIGZvciBpIGluIGlkeDoKICAgICAgICAgICAgaWYgaSBpbiBTc2V0OgogICAgICAgICAgICAgICAgb3V0LmFwcGVuZChsMigoMSAtIGxhbSkgKiBwX2ludFtpXSArIGxhbSAqIHBfZXh0W2ldKSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQobDIocF9pbnRbaV0pKQogICAgICAgIHJldHVybiBtZWFuKG91dCkKCiAgICByZXMgPSB7J2N1dCc6IGN1dF9mcmFjLCAnbl90ZXN0JzogbGVuKFQpLCAnYmFzZSc6IGJhc2UsCiAgICAgICAgICAgJ2Jhc2VfdW5pZ3JhbSc6IGJhc2VfdW5pLCAnYmFzZV9leHRlcm5hbF9vbmx5JzogYmFzZV9leHQsCiAgICAgICAgICAgJ0hfdnNfc3VycHJpc2Vfcic6IHBlYXJzb24oSHMsIHN1cnApLAogICAgICAgICAgICdtZWFuX0gnOiBtZWFuKEhzKX0KCiAgICBybmQgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICBmb3IgbGFtIGluIGxhbV9saXN0OgogICAgICAgIGZvciBYIGluIFhfbGlzdDoKICAgICAgICAgICAgayA9IG1heCgxLCBpbnQocm91bmQoWCAqIGxlbihUKSkpKQogICAgICAgICAgICB0b3AgPSBieV9oWzprXQogICAgICAgICAgICBib3QgPSBieV9oWy1rOl0KICAgICAgICAgICAgdGFnID0gJ2xhbSUuMmZfWCUuMmYnICUgKGxhbSwgWCkKICAgICAgICAgICAgcmVzWydkaXJfJyArIHRhZ10gPSBiaXRzX2Zvcih0b3AsIGxhbSkgICAgICAjIOi/t+iMq+WkhOaQnAogICAgICAgICAgICByZXNbJ2ludl8nICsgdGFnXSA9IGJpdHNfZm9yKGJvdCwgbGFtKSAgICAgICMg5LiN6L+36Iyr5aSE5pCcCiAgICAgICAgICAgIHJlc1snYWxsXycgKyB0YWddID0gYml0c19mb3IoaWR4LCBsYW0pIGlmIFggPj0gMS4wIGVsc2UgTm9uZQogICAgICAgICAgICByciA9IFtdCiAgICAgICAgICAgIGZvciBzIGluIHJhbmdlKDUpOgogICAgICAgICAgICAgICAgc2FtcCA9IHJuZC5zYW1wbGUoaWR4LCBrKQogICAgICAgICAgICAgICAgcnIuYXBwZW5kKGJpdHNfZm9yKHNhbXAsIGxhbSkpCiAgICAgICAgICAgIHJlc1sncmFuZF8nICsgdGFnXSA9IG1lYW4ocnIpCiAgICAjIOWFqOebmOWNleeLrOaJqyBsYW0KICAgIGZvciBsYW0gaW4gbGFtX2xpc3Q6CiAgICAgICAgcmVzWydhbGxfbGFtJS4yZicgJSBsYW1dID0gYml0c19mb3IoaWR4LCBsYW0pCiAgICByZXR1cm4gcmVzCgoKZGVmIG1haW4oKToKICAgIHUgPSBsb2FkKFUpCiAgICBFID0gbG9hZChCQVNFICsgJy9leHRlcm5hbC50eHQnKQogICAgcm5kMCA9IHJhbmRvbS5SYW5kb20oNykKICAgIEVfc2h1ZiA9IGxpc3QoRSkKICAgIHJuZDAuc2h1ZmZsZShFX3NodWYpCiAgICBFX3NodWYgPSAnJy5qb2luKEVfc2h1ZikKCiAgICBsYW1fbGlzdCA9IFswLjEsIDAuMiwgMC4zLCAwLjVdCiAgICBYX2xpc3QgPSBbMC4wNSwgMC4xLCAwLjIsIDAuMywgMC41XQogICAgY3V0cyA9IFswLjcwLCAwLjc1LCAwLjgwLCAwLjg1XQoKICAgIG91dCA9IHsnb3JkZXInOiBPUkRFUiwgJ211JzogTVUsICdhbHBoYSc6IEFMUEhBLAogICAgICAgICAgICdsZW5fdSc6IGxlbih1KSwgJ2xlbl9FJzogbGVuKEUpLAogICAgICAgICAgICdzaGFfdSc6IGhhc2hsaWIuc2hhMjU2KHUuZW5jb2RlKCkpLmhleGRpZ2VzdCgpWzoxMl0sCiAgICAgICAgICAgJ3NoYV9FJzogaGFzaGxpYi5zaGEyNTYoRS5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjEyXSwKICAgICAgICAgICAnY3V0cyc6IFtdLCAnRWZyYWMnOiBbXSwgJ3NodWZmbGVfY29udHJvbCc6IFtdfQoKICAgIGZvciBjIGluIGN1dHM6CiAgICAgICAgciA9IHJ1bl9vbmUodSwgRSwgYywgbGFtX2xpc3QsIFhfbGlzdCkKICAgICAgICBpZiByOgogICAgICAgICAgICBvdXRbJ2N1dHMnXS5hcHBlbmQocikKCiAgICAjIOaQnOWkmuWwkeaJjeWknzogRSDmr5Tkvovmiavmj48gKOWbuuWumiBjdXQ9MC44LCBsYW09MC4zLCBYPTAuMikKICAgIGZvciBmcmFjIGluIFswLjEsIDAuMjUsIDAuNSwgMS4wXToKICAgICAgICBFcyA9IEVbOmludChsZW4oRSkgKiBmcmFjKV0KICAgICAgICBpZiBsZW4oRXMpIDwgMTAwOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHIgPSBydW5fb25lKHUsIEVzLCAwLjgwLCBbMC4zXSwgWzAuMl0pCiAgICAgICAgaWYgcjoKICAgICAgICAgICAgclsnRWZyYWMnXSA9IGZyYWMKICAgICAgICAgICAgclsnRV9sZW4nXSA9IGxlbihFcykKICAgICAgICAgICAgb3V0WydFZnJhYyddLmFwcGVuZChyKQoKICAgICMg5a+554WnOiDmiZPkubHnmoTlpJbpg6jor63mlpko5L+d55WZ5a2X56ym6aKR546HLCDnoLTlnY/pobrluo8pCiAgICByID0gcnVuX29uZSh1LCBFX3NodWYsIDAuODAsIFswLjNdLCBbMC4yXSkKICAgIGlmIHI6CiAgICAgICAgb3V0WydzaHVmZmxlX2NvbnRyb2wnXS5hcHBlbmQocikKCiAgICAjIOetiemVv+WvueeFpzogRSDmiKrmlq3liLDkuI7lhoXpg6jorq3nu4Ppm4bnrYnplb8KICAgIGN1dDgwID0gaW50KGxlbih1KSAqIDAuODApCiAgICBFZXEgPSBFWzpjdXQ4MF0KICAgIHIgPSBydW5fb25lKHUsIEVlcSwgMC44MCwgWzAuM10sIFswLjJdKQogICAgaWYgcjoKICAgICAgICByWydFX2xlbiddID0gbGVuKEVlcSkKICAgICAgICBvdXRbJ3NodWZmbGVfY29udHJvbCddLmFwcGVuZCh7J25vdGUnOiAnRV9lcXVhbF9sZW4nLCAqKnJ9KQoKICAgIHdpdGggb3BlbihCQVNFICsgJy9yZXN1bHQxNzguanNvbicsICd3JywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAob3V0LCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQoKICAgIHByaW50KCdsZW5fdT0lZCBsZW5fRT0lZCcgJSAobGVuKHUpLCBsZW4oRSkpKQogICAgZm9yIHIgaW4gb3V0WydjdXRzJ106CiAgICAgICAgcHJpbnQoJ2N1dD0lLjJmIG49JWQgYmFzZT0lLjRmIHVuaT0lLjRmIGV4dF9vbmx5PSUuNGYgcihILHN1cnApPSUuM2YnCiAgICAgICAgICAgICAgJSAoclsnY3V0J10sIHJbJ25fdGVzdCddLCByWydiYXNlJ10sIHJbJ2Jhc2VfdW5pZ3JhbSddLAogICAgICAgICAgICAgICAgIHJbJ2Jhc2VfZXh0ZXJuYWxfb25seSddLCByWydIX3ZzX3N1cnByaXNlX3InXSkpCiAgICBwcmludCgnLS0tIGxhbT0wLjMwIChkZWx0YSB2cyBiYXNlLCDotJ895pS55ZaEKSAtLS0nKQogICAgZm9yIFggaW4gWF9saXN0OgogICAgICAgIHRhZyA9ICdsYW0wLjMwX1glLjJmJyAlIFgKICAgICAgICBkcyA9IFtjWydkaXJfJyArIHRhZ10gLSBjWydiYXNlJ10gZm9yIGMgaW4gb3V0WydjdXRzJ11dCiAgICAgICAgaXYgPSBbY1snaW52XycgKyB0YWddIC0gY1snYmFzZSddIGZvciBjIGluIG91dFsnY3V0cyddXQogICAgICAgIHJkID0gW2NbJ3JhbmRfJyArIHRhZ10gLSBjWydiYXNlJ10gZm9yIGMgaW4gb3V0WydjdXRzJ11dCiAgICAgICAgcHJpbnQoJ1g9JS4yZiAg6L+36Iyr5aSEJSsuNGYgIOS4jei/t+iMq+WkhCUrLjRmICDpmo/mnLolKy40ZicKICAgICAgICAgICAgICAlIChYLCBtZWFuKGRzKSwgbWVhbihpdiksIG1lYW4ocmQpKSkKICAgIGZvciBsYW0gaW4gbGFtX2xpc3Q6CiAgICAgICAgYWwgPSBbY1snYWxsX2xhbSUuMmYnICUgbGFtXSAtIGNbJ2Jhc2UnXSBmb3IgYyBpbiBvdXRbJ2N1dHMnXV0KICAgICAgICBwcmludCgn5YWo55uYIGxhbT0lLjJmICAlKy40ZicgJSAobGFtLCBtZWFuKGFsKSkpCiAgICBwcmludCgnLS0tIOaQnOWkmuWwkSAtLS0nKQogICAgZm9yIHIgaW4gb3V0WydFZnJhYyddOgogICAgICAgIHRhZyA9ICdsYW0wLjMwX1gwLjIwJwogICAgICAgIHByaW50KCdFZnJhYz0lLjJmIEVfbGVuPSVkIGJhc2U9JS40ZiDov7fojKvlpIQlKy40ZicKICAgICAgICAgICAgICAlIChyWydFZnJhYyddLCByWydFX2xlbiddLCByWydiYXNlJ10sIHJbJ2Rpcl8nICsgdGFnXSAtIHJbJ2Jhc2UnXSkpCiAgICBmb3IgciBpbiBvdXRbJ3NodWZmbGVfY29udHJvbCddOgogICAgICAgIHRhZyA9ICdsYW0wLjMwX1gwLjIwJwogICAgICAgIG50ID0gci5nZXQoJ25vdGUnLCAnRV9zaHVmZmxlZCcpCiAgICAgICAgcHJpbnQoJyVzOiBiYXNlPSUuNGYg6L+36Iyr5aSEJSsuNGYnICUgKG50LCByWydiYXNlJ10sIHJbJ2Rpcl8nICsgdGFnXSAtIHJbJ2Jhc2UnXSkpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+178: 迷茫时才搜 —— 外部信源该加在哪一拍
+目标: 预测用户侧下一句(u_side.txt)
+内部: 用户历史前段(我已看见你的部分)
+外部: 真抓取的中文论述(external.txt)
+干预: 把外部模型的概率混进内部模型, 区别在于"混在哪些位置"
+  有方向(只在预测熵高处) / 反向(在熵低处) / 随机 / 全盘
+"""
+import json, math, random, os, hashlib
+from collections import Counter, defaultdict
+
+BASE = '/data/workspace/luoshen-o1/experiments/exp178_search'
+U = '/data/workspace/luoshen-o1/experiments/exp175_align/u_side.txt'
+ORDER = 2          # 176号: 眼深 2
+MU = 1.0
+ALPHA = 0.1
+
+
+def load(p):
+    with open(p, encoding='utf-8') as f:
+        return f.read().strip()
+
+
+class NG:
+    """字符 n-gram, 递归插值 backoff"""
+
+    def __init__(self, text, order, vocab, mu=MU, alpha=ALPHA):
+        self.order = order
+        self.vocab = sorted(vocab)
+        self.mu, self.alpha = mu, alpha
+        self.cnt = [defaultdict(Counter) for _ in range(order + 1)]
+        self.tot = [dict() for _ in range(order + 1)]
+        for i, ch in enumerate(text):
+            for j in range(1, order + 1):
+                if i - j >= 0:
+                    self.cnt[j][text[i - j:i]][ch] += 1
+        for j in range(1, order + 1):
+            for ctx, c in self.cnt[j].items():
+                self.tot[j][ctx] = sum(c.values())
+        self.uni = Counter(ch for ch in text if ch in vocab)
+        self.tot0 = sum(self.uni.values())
+        self._cache = {}
+
+    def _uni(self):
+        V = len(self.vocab)
+        denom = self.tot0 + self.alpha * V
+        return {ch: (self.uni.get(ch, 0) + self.alpha) / denom for ch in self.vocab}
+
+    def dist(self, ctx):
+        j = min(len(ctx), self.order)
+        return self._d(ctx[-j:] if j > 0 else '', j)
+
+    def _d(self, ctx, j):
+        key = (ctx, j)
+        if key in self._cache:
+            return self._cache[key]
+        if j == 0:
+            r = self._uni()
+        else:
+            c = self.cnt[j].get(ctx)
+            t = self.tot[j].get(ctx, 0)
+            if t == 0:
+                r = self._d(ctx[1:] if j > 1 else '', j - 1)
+            else:
+                lam = t / (t + self.mu)
+                back = self._d(ctx[1:] if j > 1 else '', j - 1)
+                r = {ch: lam * (c.get(ch, 0) / t) + (1 - lam) * back[ch]
+                     for ch in self.vocab}
+        self._cache[key] = r
+        return r
+
+
+def H_of(d):
+    return -sum(p * math.log2(p) for p in d.values() if p > 0)
+
+
+def l2(p):
+    return -math.log2(max(p, 1e-12))
+
+
+def mean(xs):
+    return sum(xs) / len(xs) if xs else float('nan')
+
+
+def pearson(a, b):
+    n = len(a)
+    ma, mb = mean(a), mean(b)
+    num = sum((a[i] - ma) * (b[i] - mb) for i in range(n))
+    da = math.sqrt(sum((x - ma) ** 2 for x in a))
+    db = math.sqrt(sum((x - mb) ** 2 for x in b))
+    return num / (da * db) if da > 0 and db > 0 else float('nan')
+
+
+def run_one(u, E_text, cut_frac, lam_list, X_list, seed=0):
+    n = len(u)
+    cut = int(n * cut_frac)
+    Itr, T = u[:cut], u[cut:]
+    if len(T) < 50:
+        return None
+
+    vocab = set(Itr) | set(E_text) | set(T)
+    MI = NG(Itr, ORDER, vocab)
+    MU1 = NG(Itr, 1, vocab)          # 总结版(unigram)
+    ME = NG(E_text, ORDER, vocab)
+
+    padded = Itr + T
+    p_int, p_ext, p_uni, Hs, surp = [], [], [], [], []
+    for i in range(len(T)):
+        pos = cut + i
+        ctx = padded[max(0, pos - ORDER):pos]
+        actual = T[i]
+        di = MI.dist(ctx)
+        de = ME.dist(ctx)
+        du = MU1.dist(ctx)
+        p_int.append(di.get(actual, 0.0))
+        p_ext.append(de.get(actual, 0.0))
+        p_uni.append(du.get(actual, 0.0))
+        Hs.append(H_of(di))
+        surp.append(l2(di.get(actual, 0.0)))
+
+    base = mean([l2(p) for p in p_int])
+    base_uni = mean([l2(p) for p in p_uni])
+    base_ext = mean([l2(p) for p in p_ext])
+
+    idx = list(range(len(T)))
+    by_h = sorted(idx, key=lambda i: Hs[i], reverse=True)
+
+    def bits_for(S, lam):
+        out = []
+        Sset = set(S)
+        for i in idx:
+            if i in Sset:
+                out.append(l2((1 - lam) * p_int[i] + lam * p_ext[i]))
+            else:
+                out.append(l2(p_int[i]))
+        return mean(out)
+
+    res = {'cut': cut_frac, 'n_test': len(T), 'base': base,
+           'base_unigram': base_uni, 'base_external_only': base_ext,
+           'H_vs_surprise_r': pearson(Hs, surp),
+           'mean_H': mean(Hs)}
+
+    rnd = random.Random(seed)
+    for lam in lam_list:
+        for X in X_list:
+            k = max(1, int(round(X * len(T))))
+            top = by_h[:k]
+            bot = by_h[-k:]
+            tag = 'lam%.2f_X%.2f' % (lam, X)
+            res['dir_' + tag] = bits_for(top, lam)      # 迷茫处搜
+            res['inv_' + tag] = bits_for(bot, lam)      # 不迷茫处搜
+            res['all_' + tag] = bits_for(idx, lam) if X >= 1.0 else None
+            rr = []
+            for s in range(5):
+                samp = rnd.sample(idx, k)
+                rr.append(bits_for(samp, lam))
+            res['rand_' + tag] = mean(rr)
+    # 全盘单独扫 lam
+    for lam in lam_list:
+        res['all_lam%.2f' % lam] = bits_for(idx, lam)
+    return res
+
+
+def main():
+    u = load(U)
+    E = load(BASE + '/external.txt')
+    rnd0 = random.Random(7)
+    E_shuf = list(E)
+    rnd0.shuffle(E_shuf)
+    E_shuf = ''.join(E_shuf)
+
+    lam_list = [0.1, 0.2, 0.3, 0.5]
+    X_list = [0.05, 0.1, 0.2, 0.3, 0.5]
+    cuts = [0.70, 0.75, 0.80, 0.85]
+
+    out = {'order': ORDER, 'mu': MU, 'alpha': ALPHA,
+           'len_u': len(u), 'len_E': len(E),
+           'sha_u': hashlib.sha256(u.encode()).hexdigest()[:12],
+           'sha_E': hashlib.sha256(E.encode()).hexdigest()[:12],
+           'cuts': [], 'Efrac': [], 'shuffle_control': []}
+
+    for c in cuts:
+        r = run_one(u, E, c, lam_list, X_list)
+        if r:
+            out['cuts'].append(r)
+
+    # 搜多少才够: E 比例扫描 (固定 cut=0.8, lam=0.3, X=0.2)
+    for frac in [0.1, 0.25, 0.5, 1.0]:
+        Es = E[:int(len(E) * frac)]
+        if len(Es) < 100:
+            continue
+        r = run_one(u, Es, 0.80, [0.3], [0.2])
+        if r:
+            r['Efrac'] = frac
+            r['E_len'] = len(Es)
+            out['Efrac'].append(r)
+
+    # 对照: 打乱的外部语料(保留字符频率, 破坏顺序)
+    r = run_one(u, E_shuf, 0.80, [0.3], [0.2])
+    if r:
+        out['shuffle_control'].append(r)
+
+    # 等长对照: E 截断到与内部训练集等长
+    cut80 = int(len(u) * 0.80)
+    Eeq = E[:cut80]
+    r = run_one(u, Eeq, 0.80, [0.3], [0.2])
+    if r:
+        r['E_len'] = len(Eeq)
+        out['shuffle_control'].append({'note': 'E_equal_len', **r})
+
+    with open(BASE + '/result178.json', 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+
+    print('len_u=%d len_E=%d' % (len(u), len(E)))
+    for r in out['cuts']:
+        print('cut=%.2f n=%d base=%.4f uni=%.4f ext_only=%.4f r(H,surp)=%.3f'
+              % (r['cut'], r['n_test'], r['base'], r['base_unigram'],
+                 r['base_external_only'], r['H_vs_surprise_r']))
+    print('--- lam=0.30 (delta vs base, 负=改善) ---')
+    for X in X_list:
+        tag = 'lam0.30_X%.2f' % X
+        ds = [c['dir_' + tag] - c['base'] for c in out['cuts']]
+        iv = [c['inv_' + tag] - c['base'] for c in out['cuts']]
+        rd = [c['rand_' + tag] - c['base'] for c in out['cuts']]
+        print('X=%.2f  迷茫处%+.4f  不迷茫处%+.4f  随机%+.4f'
+              % (X, mean(ds), mean(iv), mean(rd)))
+    for lam in lam_list:
+        al = [c['all_lam%.2f' % lam] - c['base'] for c in out['cuts']]
+        print('全盘 lam=%.2f  %+.4f' % (lam, mean(al)))
+    print('--- 搜多少 ---')
+    for r in out['Efrac']:
+        tag = 'lam0.30_X0.20'
+        print('Efrac=%.2f E_len=%d base=%.4f 迷茫处%+.4f'
+              % (r['Efrac'], r['E_len'], r['base'], r['dir_' + tag] - r['base']))
+    for r in out['shuffle_control']:
+        tag = 'lam0.30_X0.20'
+        nt = r.get('note', 'E_shuffled')
+        print('%s: base=%.4f 迷茫处%+.4f' % (nt, r['base'], r['dir_' + tag] - r['base']))
+
+
+if __name__ == '__main__':
+    main()

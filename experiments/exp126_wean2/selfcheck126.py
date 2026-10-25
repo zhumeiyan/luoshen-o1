@@ -1,1 +1,52 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMTI2IOS4iuWxj+iHquajgO+8mua4suafkyDihpIg5YaZIC9kZXYvZmIwKDEwMjR4NzY4IFJHQkEpIOKGkiDnnJ/lrp7ph4fpm4Yg4oaSIE9DUiDlm57or7siIiIKaW1wb3J0IG9zLCBqc29uLCByYW5kb20sIHN0cmluZwpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CmltcG9ydCBudW1weSBhcyBucCwgY3YyLCBweXRlc3NlcmFjdAoKT1VUPSIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjZfd2VhbjIiCmQ0PWpzb24ubG9hZChvcGVuKE9VVCsiL3Jlc3VsdDEyNmQuanNvbiIpKTsgZGM9anNvbi5sb2FkKG9wZW4oT1VUKyIvcmVzdWx0MTI2Yy5qc29uIikpCmRlPWpzb24ubG9hZChvcGVuKE9VVCsiL3Jlc3VsdDEyNmUuanNvbiIpKQp0b2s9Jycuam9pbihyYW5kb20uY2hvaWNlcygiMjM0NTY3ODkiLGs9NikpClI9ZDRbInJlcyJdCnJvd3M9WwogKCJubyBwcmFjdGljZSIsICAgImZnIDAuMDAwMDAgIGxpdmUgMCBvZiAxNiIpLAogKCJwcmFjdGljZSBvcGVuIiwgImZnIDAuMDAxNDkgIGxpdmUgMCBvZiAxNiIpLAogKCJwcmFjdGljZSBjbG9zZWQiLCJmZyAwLjEwMzY4ICBsaXZlIDE1IG9mIDE2IiksCiAoInRvb2wgb25seSIsICAgICAiZmcgMC4wMDAwMCAgbGl2ZSAwIG9mIDE2IiksCiAoInRvb2wgcGx1cyBzZWxmIiwiZmcgMC4wOTI0MSAgbGl2ZSAxNSBvZiAxNiIpLAogKCJ2YXJpYXRpb24iLCAgICAgImZnIDAuMDI5MDAgIGxpdmUgMTEgb2YgMTYiKSwKICgidHJhbnNpZW50IGJpYXMiLCJidXJuIDAgZmcgMC4wMDc5MSAtPiBidXJuIDEwMCBmZyAwLjAwMDkxIiksCiAoIkgxIGNvbnRpbmdlbmN5IiwiZGVsdGEgKzAuMTAyMTkgQ0kgYWxsIHBvc2l0aXZlIiksCiAoIkgyIHRvb2wgdnMgc2VsZiIsImRlbHRhICswLjA5MjQxIENJIGFsbCBwb3NpdGl2ZSIpLAogKCJ2YXJpYXRpb24gZnJlZSIsImZnIDAuMDE5MTIgIGxpdmUgOCBvZiAxNiIpLAogKCJ2YXJpYXRpb24gaGFybSIsImZnIDAuMDAwMDAgIGxpdmUgMCBvZiAxNiAgdGlja3MgMTE1IiksCiAoIlRPS0VOIiwgICAgICAgICB0b2spLApdClcsSD0xMDI0LDc2OAppbWc9SW1hZ2UubmV3KCJSR0IiLChXLEgpLCgyNTUsMjU1LDI1NSkpOyBkcj1JbWFnZURyYXcuRHJhdyhpbWcpCkY9Tm9uZQpmb3IgcCBpbiBbIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMiLCIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTYW5zLnR0ZiJdOgogICAgaWYgb3MucGF0aC5leGlzdHMocCk6CiAgICAgICAgdHJ5OiBGPUltYWdlRm9udC50cnVldHlwZShwLDI3KTsgYnJlYWsKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCmlmIEYgaXMgTm9uZTogRj1JbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKeT0zMApmb3Igayx2IGluIHJvd3M6CiAgICBkci50ZXh0KCgzMCx5KSxmIntrOjE3c30ge3Z9IixmaWxsPSgwLDAsMCksZm9udD1GKTsgeSs9NTYKZHIudGV4dCgoMzAseSsxNCksIjEyNiBXRUFOIFBST1RPQ09MIFNFTEYgQ0hFQ0siLGZpbGw9KDAsMCwwKSxmb250PUYpCmltZy5zYXZlKE9VVCsiL3JlbmRlci5wbmciKQpyZ2JhPWltZy5jb252ZXJ0KCJSR0JBIikucmVzaXplKCgxMDI0LDc2OCkpCmI9cmdiYS50b2J5dGVzKCkKb3BlbigiL2Rldi9mYjAiLCJ3YiIpLndyaXRlKGIpOyBwcmludCgid3JpdHRlbjoiLGxlbihiKSkKcmF3PW9wZW4oIi9kZXYvZmIwIiwicmIiKS5yZWFkKCk7IHByaW50KCJjYXB0dXJlZDoiLGxlbihyYXcpKQphcnI9bnAuZnJvbWJ1ZmZlcihyYXcsZHR5cGU9bnAudWludDgpLnJlc2hhcGUoNzY4LDEwMjQsNCkKSW1hZ2UuZnJvbWFycmF5KGFycls6LDosOjNdLCJSR0IiKS5zYXZlKE9VVCsiL2NhcHR1cmVkLnBuZyIpCmc9Y3YyLmN2dENvbG9yKGN2Mi5yZXNpemUoY3YyLmltcmVhZChPVVQrIi9jYXB0dXJlZC5wbmciKSxOb25lLGZ4PTIsZnk9MixpbnRlcnBvbGF0aW9uPWN2Mi5JTlRFUl9DVUJJQyksY3YyLkNPTE9SX0JHUjJHUkFZKQp0eHQ9cHl0ZXNzZXJhY3QuaW1hZ2VfdG9fc3RyaW5nKGcsY29uZmlnPSItLXBzbSA2IikKb3BlbihPVVQrIi9vY3IudHh0IiwidyIpLndyaXRlKHR4dCkKY2xlYW49dHh0LnJlcGxhY2UoIiAiLCIiKS51cHBlcigpCnByaW50KCI9PT0gT0NSID09PSIpOyBwcmludCh0eHQuc3RyaXAoKVs6OTAwXSkKcHJpbnQoZiJcblRPS0VOPXt0b2t9IGZvdW5kPXt0b2sgaW4gY2xlYW59IikKZm9yIHByb2JlIGluIFsiMC4xMDM2OCIsIjE1IG9mIDE2IiwiMC4wMDc5MSIsIjExNSIsIjAuMDI5MDAiXToKICAgIHByaW50KGYiICBwcm9iZSB7cHJvYmU6MTBzfSAtPiB7cHJvYmUucmVwbGFjZSgnICcsJycpLnVwcGVyKCkgaW4gY2xlYW59IikK
+# -*- coding: utf-8 -*-
+"""126 上屏自检：渲染 → 写 /dev/fb0(1024x768 RGBA) → 真实采集 → OCR 回读"""
+import os, json, random, string
+from PIL import Image, ImageDraw, ImageFont
+import numpy as np, cv2, pytesseract
+
+OUT="/data/workspace/luoshen-o1/experiments/exp126_wean2"
+d4=json.load(open(OUT+"/result126d.json")); dc=json.load(open(OUT+"/result126c.json"))
+de=json.load(open(OUT+"/result126e.json"))
+tok=''.join(random.choices("23456789",k=6))
+R=d4["res"]
+rows=[
+ ("no practice",   "fg 0.00000  live 0 of 16"),
+ ("practice open", "fg 0.00149  live 0 of 16"),
+ ("practice closed","fg 0.10368  live 15 of 16"),
+ ("tool only",     "fg 0.00000  live 0 of 16"),
+ ("tool plus self","fg 0.09241  live 15 of 16"),
+ ("variation",     "fg 0.02900  live 11 of 16"),
+ ("transient bias","burn 0 fg 0.00791 -> burn 100 fg 0.00091"),
+ ("H1 contingency","delta +0.10219 CI all positive"),
+ ("H2 tool vs self","delta +0.09241 CI all positive"),
+ ("variation free","fg 0.01912  live 8 of 16"),
+ ("variation harm","fg 0.00000  live 0 of 16  ticks 115"),
+ ("TOKEN",         tok),
+]
+W,H=1024,768
+img=Image.new("RGB",(W,H),(255,255,255)); dr=ImageDraw.Draw(img)
+F=None
+for p in ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc","/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]:
+    if os.path.exists(p):
+        try: F=ImageFont.truetype(p,27); break
+        except Exception: pass
+if F is None: F=ImageFont.load_default()
+y=30
+for k,v in rows:
+    dr.text((30,y),f"{k:17s} {v}",fill=(0,0,0),font=F); y+=56
+dr.text((30,y+14),"126 WEAN PROTOCOL SELF CHECK",fill=(0,0,0),font=F)
+img.save(OUT+"/render.png")
+rgba=img.convert("RGBA").resize((1024,768))
+b=rgba.tobytes()
+open("/dev/fb0","wb").write(b); print("written:",len(b))
+raw=open("/dev/fb0","rb").read(); print("captured:",len(raw))
+arr=np.frombuffer(raw,dtype=np.uint8).reshape(768,1024,4)
+Image.fromarray(arr[:,:,:3],"RGB").save(OUT+"/captured.png")
+g=cv2.cvtColor(cv2.resize(cv2.imread(OUT+"/captured.png"),None,fx=2,fy=2,interpolation=cv2.INTER_CUBIC),cv2.COLOR_BGR2GRAY)
+txt=pytesseract.image_to_string(g,config="--psm 6")
+open(OUT+"/ocr.txt","w").write(txt)
+clean=txt.replace(" ","").upper()
+print("=== OCR ==="); print(txt.strip()[:900])
+print(f"\nTOKEN={tok} found={tok in clean}")
+for probe in ["0.10368","15 of 16","0.00791","115","0.02900"]:
+    print(f"  probe {probe:10s} -> {probe.replace(' ','').upper() in clean}")

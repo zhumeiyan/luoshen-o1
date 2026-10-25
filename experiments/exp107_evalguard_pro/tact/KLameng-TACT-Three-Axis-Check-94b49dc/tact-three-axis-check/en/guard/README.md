@@ -1,1 +1,49 @@
-IyBUQUNUIFRvb2xraXQgVmVyc2lvbiBMb2NrIGFuZCBQZXJtaXNzaW9uIFByb3RlY3Rpb24gKGd1YXJkLykKClRoaXMgZGlyZWN0b3J5IHByb3ZpZGVzICJ2ZXJzaW9uIGxvY2sgKyBpbnRlZ3JpdHkgY2hlY2sgKyB3cml0ZS1sb2NrIGNvbnZlbnRpb24iIHRvIHByZXZlbnQgY29udHJvbGxlZCBmaWxlcyBmcm9tIGJlaW5nIHJvbGxlZCBiYWNrL3RhbXBlcmVkIHdpdGggYnkgZXh0ZXJuYWwgcHJvY2Vzc2VzICh0aGlzIG9uY2UgaGFwcGVuZWQgb24gMjAyNi0xMC0wMTogdGhlIHYxLjEuMCBmaW5hbGl6ZWQgY2hhbmdlcyB3ZXJlIGV4dGVybmFsbHkgcm9sbGVkIGJhY2sgdG8gdjEuMC4zKS4KCiMjIENvbnRyb2xsZWQgZmlsZXMKLSBgU0tJTEwubWRgIChjcml0ZXJpb24gZ3VpZGFuY2UsIHYxLjEuMSkKLSBgcmVmZXJlbmNlcy9jYWxpYnJhdGlvbl9jYXNlcy5qc29uYCAoY2FsaWJyYXRpb24gc2V0LCB2MS4xLjEpCi0gYHJlZmVyZW5jZXMvY29vcmRpbmF0ZV9kYXRhLmpzb25gIChjb29yZGluYXRlIGJhc2UsIHYyLjcuOCwgKipuZXZlciBtb2RpZmllZCoqKQoKIyMgVGhlIHRocmVlIHRvb2xzCnwgVG9vbCB8IFB1cnBvc2UgfCBVc2FnZSB8CnwtLS18LS0tfC0tLXwKfCBgdmVyaWZ5LnNoYCB8ICoqSW50ZWdyaXR5IGNoZWNrKio6IGNvbXBhcmVzIHRoZSBTSEEtMjU2IG9mIGNvbnRyb2xsZWQgZmlsZXMgYWdhaW5zdCB0aGUgTUFOSUZFU1QgYmFzZWxpbmU7IGFsZXJ0cyBvbiByb2xsYmFjay90YW1wZXJpbmcgKGV4aXQgMSkgfCBgZ3VhcmQvdmVyaWZ5LnNoYCB8CnwgYGxvY2suc2hgIHwgU2V0cyBjb250cm9sbGVkIGZpbGVzIHRvIHJlYWQtb25seSA0NDQsIHByZXZlbnRpbmcgYWNjaWRlbnRhbCB3cml0ZXMgLyBsb3ctcHJpdmlsZWdlIG92ZXJ3cml0ZXMgfCBgZ3VhcmQvbG9jay5zaGAgfAp8IGB1bmxvY2suc2hgIHwgUmVzdG9yZXMgY29udHJvbGxlZCBmaWxlcyB0byB3cml0YWJsZSA2NDQsICoqb25seSB1c2VkIHdoZW4gZmluYWxpemluZyBlZGl0cyoqOyByZWZ1c2VzIHRvIHVubG9jayBpZiBhIGBMT0NLYCBmaWxlIGV4aXN0cyB8IGBndWFyZC91bmxvY2suc2hgIHwKCmBNQU5JRkVTVC5qc29uYCBpcyB0aGUgU0hBLTI1NiArIHZlcnNpb24gYmFzZWxpbmU7ICoqaXQgbXVzdCBiZSByZWdlbmVyYXRlZCBhZnRlciBjb250cm9sbGVkIGZpbGVzIGFyZSB1cGRhdGVkKiogKHNlZSBiZWxvdykuCgojIyBTdGFuZGFyZCBmaW5hbGl6YXRpb24gZmxvdyAod3JpdGUtbG9jayBjb252ZW50aW9uKQpgYGBiYXNoCmd1YXJkL3VubG9jay5zaCAgICAgICAgIyAxLiBVbmxvY2sgKG5vIExPQ0sgY29uZmxpY3QpCiMgMi4gRWRpdCBjb250cm9sbGVkIGZpbGVzCiMgMy4gVXBkYXRlIGd1YXJkL01BTklGRVNULmpzb24gKHJlY29tcHV0ZSBzaGEyNTY7IHVzZSBnaXQgZGlmZiBhcyBhbiBhaWQpCmdpdCBhZGQgLUEgJiYgZ2l0IGNvbW1pdCAtbSAiRGVzY3JpYmUgdGhpcyBjaGFuZ2UiICAgIyA0LiBDb21taXQgdG8gbGVhdmUgdHJhY2VhYmxlIGhpc3RvcnkKZ3VhcmQvbG9jay5zaCAgICAgICAgICAjIDUuIFJlLWxvY2sgcmVhZC1vbmx5Cmd1YXJkL3ZlcmlmeS5zaCAgICAgICAgIyA2LiBSZS12ZXJpZnkgUEFTUwpgYGAKCiMjIFNpbmdsZS13cml0ZXIgZ292ZXJuYW5jZQotIFRoZSB0b29sa2l0IGRpcmVjdG9yeSAqKmFsbG93cyBmaW5hbGl6YXRpb24gb25seSBieSB0aGUgbWFpbiBhZ2VudCArIG1hbnVhbCB1c2VyIGVkaXRzKio7IG90aGVyIHByb2Nlc3NlcyBhcmUgcmVhZC1vbmx5LgotIElmIG11bHRpcGxlIHByb2Nlc3NlcyBlZGl0IGNvbmN1cnJlbnRseSwgZmlyc3QgYWNxdWlyZSB0aGUgbG9jayB3aXRoIGB0b3VjaCBndWFyZC9MT0NLYCBhbmQgcnVuIGBybSBndWFyZC9MT0NLYCB3aGVuIGRvbmU7IHVubG9jay5zaCB3aWxsIHJlZnVzZSB0byB1bmxvY2sgd2hlbiBpdCBzZWVzIExPQ0ssIHByZXZlbnRpbmcgbXV0dWFsIG92ZXJ3cml0ZXMuCi0gQ29udHJvbGxlZCBmaWxlcyBhcmUgYWxyZWFkeSB1bmRlciAqKmdpdCB2ZXJzaW9uIGNvbnRyb2wqKiAoYC5naXRgIGluIHRoaXMgZGlyZWN0b3J5KS4gRm9yIGFueSBhbm9tYWxvdXMgY2hhbmdlIHlvdSBtYXkgdXNlOgogIC0gYGdpdCBzdGF0dXNgIHRvIGRldGVjdCBjaGFuZ2VzIGltbWVkaWF0ZWx5CiAgLSBgZ2l0IGxvZ2AgZm9yIHRyYWNlYWJpbGl0eSBvZiB3aG8gY2hhbmdlZCB3aGF0IGFuZCB3aGVuCiAgLSBgZ2l0IHJlc3RvcmUgPGZpbGU+YCB0byByZXN0b3JlIGluIG9uZSBzdGVwCiAgLSBgZ2l0IGRpZmZgIHRvIGluc3BlY3QgdGhlIGRpZmZlcmVuY2UKCiMjIFJvbGxiYWNrLUhhbmRsaW5nIFNPUAoxLiBgZ3VhcmQvdmVyaWZ5LnNoYCDihpIgRkFJTCB0byBsb2NhdGUgdGhlIGFsdGVyZWQgZmlsZQoyLiBgZ2l0IGxvZyAtLW9uZWxpbmVgICsgYGdpdCBkaWZmYCB0byBzZWUgd2hhdCBpdCB3YXMgY2hhbmdlZCB0bwozLiBgZ2l0IHJlc3RvcmUgPGZpbGU+YCB0byByZXN0b3JlIHRvIGEga25vd24tZ29vZCBiYXNlbGluZQo0LiBgZ3VhcmQvdmVyaWZ5LnNoYCDihpIgUEFTUyB0byBjb25maXJtCjUuIFRyYWNlIGJhY2sgdG8gdGhlIHNvdXJjZSAoc2VlIGBndWFyZC93YXRjaC5zaGAgYW5kIHRoZSAiVHJhY2VhYmlsaXR5IiBzZWN0aW9uKSB0byBwcmV2ZW50IHJlY3VycmVuY2UKCiMjIFRyYWNlYWJpbGl0eSAoaW52ZXN0aWdhdGluZyB0aGUgcm9sbGJhY2sgc291cmNlKQotIENoZWNrIHRoZSBwcmVjaXNlIG1vZGlmaWNhdGlvbiB0aW1lOiBgc3RhdCBTS0lMTC5tZCByZWZlcmVuY2VzL2NhbGlicmF0aW9uX2Nhc2VzLmpzb25gCi0gV2hvIGhhcyBpdCBvcGVuIC8gaXMgd3JpdGluZzogYGxzb2YgK0QgLmAKLSBTY2hlZHVsZWQgdGFza3M6IGBjcm9udGFiIC1sYDsgYGxzIC9ldGMvY3JvbipgCi0gQ2FwdHVyZSB0aGUgd3JpdGVyIGluIHJlYWwgdGltZTogYGd1YXJkL3dhdGNoLnNoYCAoYmFzZWQgb24gaW5vdGlmeXdhaXQ7IG9uY2UgaG9va2VkLCBhbnkgd3JpdGUgdG8gY29udHJvbGxlZCBmaWxlcyByZXBvcnRzIGl0cyBQSUQpCg==
+# TACT Toolkit Version Lock and Permission Protection (guard/)
+
+This directory provides "version lock + integrity check + write-lock convention" to prevent controlled files from being rolled back/tampered with by external processes (this once happened on 2026-10-01: the v1.1.0 finalized changes were externally rolled back to v1.0.3).
+
+## Controlled files
+- `SKILL.md` (criterion guidance, v1.1.1)
+- `references/calibration_cases.json` (calibration set, v1.1.1)
+- `references/coordinate_data.json` (coordinate base, v2.7.8, **never modified**)
+
+## The three tools
+| Tool | Purpose | Usage |
+|---|---|---|
+| `verify.sh` | **Integrity check**: compares the SHA-256 of controlled files against the MANIFEST baseline; alerts on rollback/tampering (exit 1) | `guard/verify.sh` |
+| `lock.sh` | Sets controlled files to read-only 444, preventing accidental writes / low-privilege overwrites | `guard/lock.sh` |
+| `unlock.sh` | Restores controlled files to writable 644, **only used when finalizing edits**; refuses to unlock if a `LOCK` file exists | `guard/unlock.sh` |
+
+`MANIFEST.json` is the SHA-256 + version baseline; **it must be regenerated after controlled files are updated** (see below).
+
+## Standard finalization flow (write-lock convention)
+```bash
+guard/unlock.sh        # 1. Unlock (no LOCK conflict)
+# 2. Edit controlled files
+# 3. Update guard/MANIFEST.json (recompute sha256; use git diff as an aid)
+git add -A && git commit -m "Describe this change"   # 4. Commit to leave traceable history
+guard/lock.sh          # 5. Re-lock read-only
+guard/verify.sh        # 6. Re-verify PASS
+```
+
+## Single-writer governance
+- The toolkit directory **allows finalization only by the main agent + manual user edits**; other processes are read-only.
+- If multiple processes edit concurrently, first acquire the lock with `touch guard/LOCK` and run `rm guard/LOCK` when done; unlock.sh will refuse to unlock when it sees LOCK, preventing mutual overwrites.
+- Controlled files are already under **git version control** (`.git` in this directory). For any anomalous change you may use:
+  - `git status` to detect changes immediately
+  - `git log` for traceability of who changed what and when
+  - `git restore <file>` to restore in one step
+  - `git diff` to inspect the difference
+
+## Rollback-Handling SOP
+1. `guard/verify.sh` → FAIL to locate the altered file
+2. `git log --oneline` + `git diff` to see what it was changed to
+3. `git restore <file>` to restore to a known-good baseline
+4. `guard/verify.sh` → PASS to confirm
+5. Trace back to the source (see `guard/watch.sh` and the "Traceability" section) to prevent recurrence
+
+## Traceability (investigating the rollback source)
+- Check the precise modification time: `stat SKILL.md references/calibration_cases.json`
+- Who has it open / is writing: `lsof +D .`
+- Scheduled tasks: `crontab -l`; `ls /etc/cron*`
+- Capture the writer in real time: `guard/watch.sh` (based on inotifywait; once hooked, any write to controlled files reports its PID)

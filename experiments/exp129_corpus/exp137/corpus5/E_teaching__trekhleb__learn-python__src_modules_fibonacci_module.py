@@ -1,1 +1,43 @@
-IiIiRmlib25hY2NpIG51bWJlcnMgbW9kdWxlLgoKQHNlZTogaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMy90dXRvcmlhbC9tb2R1bGVzLmh0bWwKCkEgbW9kdWxlIGlzIGEgZmlsZSBjb250YWluaW5nIFB5dGhvbiBkZWZpbml0aW9ucyBhbmQgc3RhdGVtZW50cy4gVGhlIGZpbGUgbmFtZSBpcyB0aGUgbW9kdWxlIG5hbWUKd2l0aCB0aGUgc3VmZml4IC5weSBhcHBlbmRlZC4gV2l0aGluIGEgbW9kdWxlLCB0aGUgbW9kdWxl4oCZcyBuYW1lIChhcyBhIHN0cmluZykgaXMgYXZhaWxhYmxlIGFzIHRoZQp2YWx1ZSBvZiB0aGUgZ2xvYmFsIHZhcmlhYmxlIF9fbmFtZV9fLgoiIiIKCgpkZWYgZmlib25hY2NpX2F0X3Bvc2l0aW9uKHBvc2l0aW9uKToKICAgICIiIlJldHVybiBGaWJvbmFjY2kgbnVtYmVyIGF0IHNwZWNpZmllZCBwb3NpdGlvbiIiIgogICAgY3VycmVudF9wb3NpdGlvbiA9IDAKICAgIHByZXZpb3VzX251bWJlciwgY3VycmVudF9udW1iZXIgPSAwLCAxCiAgICB3aGlsZSBjdXJyZW50X3Bvc2l0aW9uIDwgcG9zaXRpb246CiAgICAgICAgY3VycmVudF9wb3NpdGlvbiArPSAxCiAgICAgICAgcHJldmlvdXNfbnVtYmVyLCBjdXJyZW50X251bWJlciA9IGN1cnJlbnRfbnVtYmVyLCBwcmV2aW91c19udW1iZXIgKyBjdXJyZW50X251bWJlcgogICAgcmV0dXJuIHByZXZpb3VzX251bWJlcgoKCmRlZiBmaWJvbmFjY2lfc21hbGxlcl90aGFuKGxpbWl0KToKICAgICIiIlJldHVybiBGaWJvbmFjY2kgc2VyaWVzIHVwIHRvIGxpbWl0IiIiCiAgICByZXN1bHQgPSBbXQogICAgcHJldmlvdXNfbnVtYmVyLCBjdXJyZW50X251bWJlciA9IDAsIDEKICAgIHdoaWxlIHByZXZpb3VzX251bWJlciA8IGxpbWl0OgogICAgICAgIHJlc3VsdC5hcHBlbmQocHJldmlvdXNfbnVtYmVyKQogICAgICAgIHByZXZpb3VzX251bWJlciwgY3VycmVudF9udW1iZXIgPSBjdXJyZW50X251bWJlciwgcHJldmlvdXNfbnVtYmVyICsgY3VycmVudF9udW1iZXIKICAgIHJldHVybiByZXN1bHQKCgojIFdoZW4geW91IHJ1biBhIFB5dGhvbiBtb2R1bGUgd2l0aDoKIwojID4+PiBweXRob24gZmlib25hY2NpLnB5IDxhcmd1bWVudHM+CiMKIyB0aGUgY29kZSBpbiB0aGUgbW9kdWxlIHdpbGwgYmUgZXhlY3V0ZWQsIGp1c3QgYXMgaWYgeW91IGltcG9ydGVkIGl0LCBidXQgd2l0aAojIHRoZSBfX25hbWVfXyBzZXQgdG8gIl9fbWFpbl9fIi4gVGhhdCBtZWFucyB0aGF0IGJ5IGFkZGluZyB0aGlzIGNvZGUgYXQgdGhlIGVuZCBvZiB5b3VyIG1vZHVsZQojIHlvdSBjYW4gbWFrZSB0aGUgZmlsZSB1c2FibGUgYXMgYSBzY3JpcHQgYXMgd2VsbCBhcyBhbiBpbXBvcnRhYmxlIG1vZHVsZSwgYmVjYXVzZSB0aGUgY29kZSB0aGF0CiMgcGFyc2VzIHRoZSBjb21tYW5kIGxpbmUgb25seSBydW5zIGlmIHRoZSBtb2R1bGUgaXMgZXhlY3V0ZWQgYXMgdGhlIOKAnG1haW7igJ0gZmlsZToKIwojID4+PiBweXRob24gZmlib25hY2NpLnB5IDUwCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBpbXBvcnQgc3lzCiAgICBwcmludChmaWJvbmFjY2lfc21hbGxlcl90aGFuKGludChzeXMuYXJndlsxXSkpKQo=
+"""Fibonacci numbers module.
+
+@see: https://docs.python.org/3/tutorial/modules.html
+
+A module is a file containing Python definitions and statements. The file name is the module name
+with the suffix .py appended. Within a module, the module’s name (as a string) is available as the
+value of the global variable __name__.
+"""
+
+
+def fibonacci_at_position(position):
+    """Return Fibonacci number at specified position"""
+    current_position = 0
+    previous_number, current_number = 0, 1
+    while current_position < position:
+        current_position += 1
+        previous_number, current_number = current_number, previous_number + current_number
+    return previous_number
+
+
+def fibonacci_smaller_than(limit):
+    """Return Fibonacci series up to limit"""
+    result = []
+    previous_number, current_number = 0, 1
+    while previous_number < limit:
+        result.append(previous_number)
+        previous_number, current_number = current_number, previous_number + current_number
+    return result
+
+
+# When you run a Python module with:
+#
+# >>> python fibonacci.py <arguments>
+#
+# the code in the module will be executed, just as if you imported it, but with
+# the __name__ set to "__main__". That means that by adding this code at the end of your module
+# you can make the file usable as a script as well as an importable module, because the code that
+# parses the command line only runs if the module is executed as the “main” file:
+#
+# >>> python fibonacci.py 50
+if __name__ == '__main__':
+    import sys
+    print(fibonacci_smaller_than(int(sys.argv[1])))

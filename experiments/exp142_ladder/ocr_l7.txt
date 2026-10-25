@@ -1,1 +1,33 @@
-TDcgUkVMQVRJT04gUlVORwoKZ2VuZXJhbD1jYW4gY29vcGVyYXRlIHwgc3BlY2lmaWM9Zml0cyBNWSBoaXN0b3J5CgpMN2FvbGQgZ2VuIDAuNjI3MSBzcGVjIDAuNjI3MQoKRVJTIDFhZSBVTyBFT0wgRVMpCgpMN2FjbG9uZSBnZW4gMC42MTU4IHNwZWMgMC4wNTY3CgpjbG9uZSBnZW5lcmFsIG1hdGNoZXMgb2xkIC0+IGFiaWxpdHkgaXMgRk9SR0VBQkxFCgpjbG9uZSBzcGVjaWZpYyBCRUxPVyByYW5kb20gLT4gaGlzdG9yeSBpcyBOT1QKCkw3YiBvbGQgbWF0Y2hfQiAwLjY5NTggbWF0Y2hfdHJ1dGggMC44Mzc1CgpMN2IgY2xvbmUgPW1hdGNoX0IgMC4xMjkyIG1hdGNoX3RydXRoIDAuMTQwNgoKTDdiIGNsb25lX2ZlZCBtYXRjaF9CIDAuODExNSBtYXRjaF90cnV0aCAxLjAwMDAKZm9yZ2VyeSBXSU5TIG1hdGNoX0IgMC44MTE1ID4gMC42OTU4CgpidXQgbWF0Y2hfdHJ1dGggMS4wMDAwIHBlcmZlY3QgPSBGT1JHRUQKCkw3YyBkZWJ0IGxlZGdlciAwLjc1NjAgbm9fbGVkZ2VyIDAuMjg3MAoKTDdkIGxpdmVkIDAuNjA0NyBmZWQgMC42MjI1IGRlbHRhIC0wLjAxNzcgQ0lbLTAuMDYxNSwrMC4wMjYwXQpMN2QgdGltZSBOT1QgYmV0dGVyIHRoYW4gZGF0YSAoQ0kgY3Jvc3NlcyAwKQoKUkVBTCB1ZHAgbG9zcyAwLjAwODMgb2JzZXJ2ZWQgMC45OTE3Cgptb2RlbGVkIFBfTE9TUyAwLjIwIC0+IG1vZGVsZWQgY2hhbm5lbCB3YXMgUEVTU0lNSVNUSUMKVE9LRU4gOEtIUzIzCgw=
+L7 RELATION RUNG
+
+general=can cooperate | specific=fits MY history
+
+L7aold gen 0.6271 spec 0.6271
+
+ERS 1ae UO EOL ES)
+
+L7aclone gen 0.6158 spec 0.0567
+
+clone general matches old -> ability is FORGEABLE
+
+clone specific BELOW random -> history is NOT
+
+L7b old match_B 0.6958 match_truth 0.8375
+
+L7b clone =match_B 0.1292 match_truth 0.1406
+
+L7b clone_fed match_B 0.8115 match_truth 1.0000
+forgery WINS match_B 0.8115 > 0.6958
+
+but match_truth 1.0000 perfect = FORGED
+
+L7c debt ledger 0.7560 no_ledger 0.2870
+
+L7d lived 0.6047 fed 0.6225 delta -0.0177 CI[-0.0615,+0.0260]
+L7d time NOT better than data (CI crosses 0)
+
+REAL udp loss 0.0083 observed 0.9917
+
+modeled P_LOSS 0.20 -> modeled channel was PESSIMISTIC
+TOKEN 8KHS23
+

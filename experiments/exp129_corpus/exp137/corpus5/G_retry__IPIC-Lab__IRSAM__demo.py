@@ -1,1 +1,179 @@
-IyBDb3B5cmlnaHQgYnkgSFEtU0FNIHRlYW0KIyBBbGwgcmlnaHRzIHJlc2VydmVkLgoKIyBUaGlzIHNvdXJjZSBjb2RlIGlzIGxpY2Vuc2VkIHVuZGVyIHRoZSBsaWNlbnNlIGZvdW5kIGluIHRoZQojIExJQ0VOU0UgZmlsZSBpbiB0aGUgcm9vdCBkaXJlY3Rvcnkgb2YgdGhpcyBzb3VyY2UgdHJlZS4KCmltcG9ydCBvcwppbXBvcnQgb3MucGF0aCBhcyBvcHMKZnJvbSB0cWRtIGltcG9ydCB0cWRtCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgbG9nZ2luZwppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IHRvcmNoCmltcG9ydCB0b3JjaC5vcHRpbSBhcyBvcHRpbQppbXBvcnQgdG9yY2gubm4gYXMgbm4KaW1wb3J0IHRvcmNoLmRpc3RyaWJ1dGVkIGFzIGRpc3QKaW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgppbXBvcnQgdG9yY2h2aXNpb24udHJhbnNmb3JtcyAgYXMgVApmcm9tIHRvcmNoLmF1dG9ncmFkIGltcG9ydCBWYXJpYWJsZQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBjdjIKaW1wb3J0IHJhbmRvbQpmcm9tIHR5cGluZyBpbXBvcnQgRGljdCwgTGlzdCwgVHVwbGUKCmZyb20gdGhvcCBpbXBvcnQgcHJvZmlsZQoKZnJvbSBzZWdtZW50X2FueXRoaW5nX3RyYWluaW5nLmJ1aWxkX0lSU0FNIGltcG9ydCBidWlsZF9zYW1fSVJTQU0KCmZyb20gdXRpbHMuZGF0YWxvYWRlciBpbXBvcnQgZ2V0X2ltX2d0X25hbWVfZGljdCwgY3JlYXRlX2RhdGFsb2FkZXJzLCBSYW5kb21IRmxpcCwgUmVzaXplLCBMYXJnZVNjYWxlSml0dGVyCmZyb20gdXRpbHMubWV0cmljcyBpbXBvcnQgU2lnbW9pZE1ldHJpYywgU2FtcGxld2lzZVNpZ21vaWRNZXRyaWMKZnJvbSB1dGlscy5tZXRyaWMgaW1wb3J0IFBEX0ZBLCBST0NNZXRyaWMKZnJvbSB1dGlscy5sb3NzX21hc2sgaW1wb3J0IERJQ0VfbG9zcwpmcm9tIHV0aWxzLmxvZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnZXIKaW1wb3J0IHV0aWxzLm1pc2MgYXMgbWlzYwoKb3MuZW52aXJvblsnQ1VEQV9WSVNJQkxFX0RFVklDRVMnXSA9ICcxJwoKZGVmIGdldF9hcmdzX3BhcnNlcigpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoJ0hRLVNBTScsIGFkZF9oZWxwPUZhbHNlKQoKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tb3V0cHV0IiwgdHlwZT1zdHIsIHJlcXVpcmVkPVRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IlBhdGggdG8gdGhlIGRpcmVjdG9yeSB3aGVyZSBtYXNrcyBhbmQgY2hlY2twb2ludHMgd2lsbCBiZSBvdXRwdXQiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1tb2RlbF90eXBlIiwgdHlwZT1zdHIsIGRlZmF1bHQ9InZpdF9sIiwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iVGhlIHR5cGUgb2YgbW9kZWwgdG8gbG9hZCwgaW4gWyd2aXRfaCcsICd2aXRfbCcsICd2aXRfYiddIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tY2hlY2twb2ludCIsIHR5cGU9c3RyLCByZXF1aXJlZD1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSJUaGUgcGF0aCB0byB0aGUgU0FNIGNoZWNrcG9pbnQgdG8gdXNlIGZvciBtYXNrIGdlbmVyYXRpb24uIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tbm9fcHJvbXB0X2NoZWNrcG9pbnQiLCB0eXBlPXN0ciwgZGVmYXVsdD1Ob25lLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSJUaGUgcGF0aCB0byB0aGUgU0FNIGNoZWNrcG9pbnQgdHJhaW5lZCB3aXRoIG5vIHByb21wdCIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWRldmljZSIsIHR5cGU9c3RyLCBkZWZhdWx0PSJjdWRhIiwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iVGhlIGRldmljZSB0byBydW4gZ2VuZXJhdGlvbiBvbi4iKQoKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbGVhcm5pbmdfcmF0ZScsIGRlZmF1bHQ9MWUtNCwgdHlwZT1mbG9hdCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tc3RhcnRfZXBvY2gnLCBkZWZhdWx0PTAsIHR5cGU9aW50KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1scl9kcm9wX2Vwb2NoJywgZGVmYXVsdD0xMCwgdHlwZT1pbnQpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLW1heF9lcG9jaF9udW0nLCBkZWZhdWx0PTEwMDEsIHR5cGU9aW50KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1kYXRhbG9hZGVyX3NpemUnLCBkZWZhdWx0PVs1MTIsIDUxMl0sIHR5cGU9bGlzdCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tYmF0Y2hfc2l6ZV90cmFpbicsIGRlZmF1bHQ9NCwgdHlwZT1pbnQpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWJhdGNoX3NpemVfdmFsaWQnLCBkZWZhdWx0PTEsIHR5cGU9aW50KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1tb2RlbF9zYXZlX2ZyZScsIGRlZmF1bHQ9MTAsIHR5cGU9aW50KQoKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZXZhbCcsIGFjdGlvbj0nc3RvcmVfdHJ1ZScpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLXZpc3VhbGl6ZScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXJlc3RvcmUtbW9kZWwiLCB0eXBlPXN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iVGhlIHBhdGggdG8gdGhlIGhxX2RlY29kZXIgdHJhaW5pbmcgY2hlY2twb2ludCBmb3IgZXZhbHVhdGlvbiIpCgogICAgcmV0dXJuIHBhcnNlci5wYXJzZV9hcmdzKCkKCgpkZWYgbWFpbih2YWxpZF9kYXRhc2V0cywgYXJncyk6CiAgICAjIC0tLSBTdGVwIDE6IFZhbGlkIGRhdGFzZXQgLS0tCiAgICBwcmludCgiLS0tIGNyZWF0ZSB2YWxpZCBkYXRhbG9hZGVyIC0tLSIpCiAgICB2YWxpZF9pbV9ndF9saXN0ID0gZ2V0X2ltX2d0X25hbWVfZGljdCh2YWxpZF9kYXRhc2V0cywgZmxhZz0idmFsaWQiKQogICAgdmFsaWRfZGF0YWxvYWRlcnMsIHZhbGlkX2RhdGFzZXRzID0gY3JlYXRlX2RhdGFsb2FkZXJzKHZhbGlkX2ltX2d0X2xpc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbXlfdHJhbnNmb3Jtcz1bCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc2l6ZShhcmdzLmRhdGFsb2FkZXJfc2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhdGNoX3NpemU9YXJncy5iYXRjaF9zaXplX3ZhbGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWluaW5nPUZhbHNlKQogICAgcHJpbnQobGVuKHZhbGlkX2RhdGFsb2FkZXJzKSwgIiB2YWxpZCBkYXRhbG9hZGVycyBjcmVhdGVkIikKCiAgICAjIC0tLSBTdGVwIDI6IExvYWQgcHJldHJhaW5lZCBOZXR3b3JrLS0tCiAgICBuZXQgPSBidWlsZF9zYW1fSVJTQU0oY2hlY2twb2ludD1hcmdzLmNoZWNrcG9pbnQpCiAgICBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpOgogICAgICAgIG5ldC5jdWRhKCkKCiAgICAjIC0tLSBTdGVwIDM6IFRyYWluIG9yIEV2YWx1YXRlIC0tLQogICAgaWYgYXJncy5ldmFsOgogICAgICAgIGlmIGFyZ3MucmVzdG9yZV9tb2RlbDoKICAgICAgICAgICAgcHJpbnQoInJlc3RvcmUgbW9kZWwgZnJvbToiLCBhcmdzLnJlc3RvcmVfbW9kZWwpCiAgICAgICAgICAgIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCk6CiAgICAgICAgICAgICAgICBuZXQubG9hZF9zdGF0ZV9kaWN0KHRvcmNoLmxvYWQoYXJncy5yZXN0b3JlX21vZGVsKSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG5ldC5sb2FkX3N0YXRlX2RpY3QodG9yY2gubG9hZChhcmdzLnJlc3RvcmVfbW9kZWwsIG1hcF9sb2NhdGlvbj0iY3B1IikpCgogICAgICAgIGV2YWx1YXRlKG5ldCwgdmFsaWRfZGF0YWxvYWRlcnMpCgpkZWYgZXZhbHVhdGUobmV0LCB2YWxpZF9kYXRhbG9hZGVycyk6CiAgICBuZXQuZXZhbCgpCiAgICBtZXRyaWMgPSBkaWN0KCkKCiAgICBJb1VfbWV0cmljID0gU2lnbW9pZE1ldHJpYygpCiAgICBuSW9VX21ldHJpYyA9IFNhbXBsZXdpc2VTaWdtb2lkTWV0cmljKDEsIHNjb3JlX3RocmVzaD0wLjUpCgogICAgUk9DID0gUk9DTWV0cmljKDEsIDEwKQogICAgUGRfRmEgPSBQRF9GQSgxLCAxMCkKCiAgICBJb1VfbWV0cmljLnJlc2V0KCkKICAgIG5Jb1VfbWV0cmljLnJlc2V0KCkKICAgIFBkX0ZhLnJlc2V0KCkKICAgIGZvciBrIGluIHJhbmdlKGxlbih2YWxpZF9kYXRhbG9hZGVycykpOgogICAgICAgIHZhbGlkX2RhdGFsb2FkZXIgPSB2YWxpZF9kYXRhbG9hZGVyc1trXQoKICAgICAgICB0YmFyID0gdHFkbSh2YWxpZF9kYXRhbG9hZGVyKQogICAgICAgIGZvciBkYXRhX3ZhbCBpbiB0YmFyOgogICAgICAgICAgICBpbWlkeF92YWwsIGlucHV0c192YWwsIGxhYmVsc192YWwsIHNoYXBlc192YWwsIGxhYmVsc19vcmkgPSBkYXRhX3ZhbFsnaW1pZHgnXSwgZGF0YV92YWxbJ2ltYWdlJ10sIGRhdGFfdmFsWwogICAgICAgICAgICAgICAgJ2xhYmVsJ10sIGRhdGFfdmFsWydzaGFwZSddLCBkYXRhX3ZhbFsnb3JpX2xhYmVsJ10KCiAgICAgICAgICAgIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCk6CiAgICAgICAgICAgICAgICBpbnB1dHNfdmFsID0gaW5wdXRzX3ZhbC5jdWRhKCkKICAgICAgICAgICAgICAgIGxhYmVsc19vcmkgPSBsYWJlbHNfb3JpLmN1ZGEoKQoKICAgICAgICAgICAgaW1ncyA9IGlucHV0c192YWwucGVybXV0ZSgwLCAyLCAzLCAxKS5jcHUoKS5udW1weSgpCgogICAgICAgICAgICBiYXRjaGVkX2lucHV0ID0gW10KICAgICAgICAgICAgZm9yIGJfaSBpbiByYW5nZShsZW4oaW1ncykpOgogICAgICAgICAgICAgICAgZGljdF9pbnB1dCA9IGRpY3QoKQogICAgICAgICAgICAgICAgaW5wdXRfaW1hZ2UgPSAodG9yY2guYXNfdGVuc29yKChpbWdzW2JfaV0pLmFzdHlwZShkdHlwZT1ucC51aW50OCksIGRldmljZT1uZXQuZGV2aWNlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnBlcm11dGUoMiwgMCwgMSkuY29udGlndW91cygpKQogICAgICAgICAgICAgICAgZGljdF9pbnB1dFsnaW1hZ2UnXSA9IGlucHV0X2ltYWdlCiAgICAgICAgICAgICAgICBkaWN0X2lucHV0WydvcmlnaW5hbF9zaXplJ10gPSBpbWdzW2JfaV0uc2hhcGVbOjJdCiAgICAgICAgICAgICAgICBiYXRjaGVkX2lucHV0LmFwcGVuZChkaWN0X2lucHV0KQoKICAgICAgICAgICAgbWFza3MsIGVkZ2VzID0gbmV0KGJhdGNoZWRfaW5wdXQpCgogICAgICAgICAgICB0b3JjaC5jdWRhLnN5bmNocm9uaXplKCkKCiAgICAgICAgICAgIElvVV9tZXRyaWMudXBkYXRlKG1hc2tzLmNwdSgpLCAobGFiZWxzX29yaSAvIDI1NS4pLmNwdSgpLmRldGFjaCgpKQogICAgICAgICAgICBuSW9VX21ldHJpYy51cGRhdGUobWFza3MuY3B1KCksIChsYWJlbHNfb3JpIC8gMjU1LikuY3B1KCkuZGV0YWNoKCkpCiAgICAgICAgICAgIFBkX0ZhLnVwZGF0ZShtYXNrcy5jcHUoKSwgKGxhYmVsc19vcmkgLyAyNTUuKS5jcHUoKS5kZXRhY2goKSkKCiAgICAgICAgICAgIEZBLCBQRCA9IFBkX0ZhLmdldChsZW4odmFsaWRfZGF0YWxvYWRlcikpCiAgICAgICAgICAgIF8sIElvVSA9IElvVV9tZXRyaWMuZ2V0KCkKICAgICAgICAgICAgXywgbklvVSA9IG5Jb1VfbWV0cmljLmdldCgpCgogICAgICAgICAgICB0YmFyLnNldF9kZXNjcmlwdGlvbignSW9VOiVmLCBuSW9VOiVmLCBQRDolLjhsZiwgRkE6JS44bGYnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICUgKElvVSwgbklvVSwgUERbMF0sIEZBWzBdKSkKICAgICAgICAgICAgCiAgICAgICAgbWV0cmljWydpb3UnXSA9IElvVQogICAgICAgIG1ldHJpY1snbmlvdSddID0gbklvVQogICAgICAgIG1ldHJpY1sncGQnXSA9IFBEWzBdCiAgICAgICAgbWV0cmljWydmYSddID0gRkFbMF0KICAgIHJldHVybiBtZXRyaWMKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgIyAtLS0tLS0tLS0tLS0tLS0gQ29uZmlndXJpbmcgdGhlIFZhbGlkIGRhdGFzZXRzIC0tLS0tLS0tLS0tLS0tLQogICAgZGF0YXNldF92YWxfbnVhYSA9IHsibmFtZSI6ICJTaXJzdHYyXzUxMiIsCiAgICAgICAgICAgICAgICAgICAgICAgICJpbV9kaXIiOiAiZGF0YXNldHMvU2lyc3R2Ml81MTIvdGVzdF9pbWFnZXMiLAogICAgICAgICAgICAgICAgICAgICAgICAiZ3RfZGlyIjogImRhdGFzZXRzL1NpcnN0djJfNTEyL3Rlc3RfbWFza3MiLAogICAgICAgICAgICAgICAgICAgICAgICAiaW1fZXh0IjogIi5wbmciLAogICAgICAgICAgICAgICAgICAgICAgICAiZ3RfZXh0IjogIi5wbmcifQoKICAgIGRhdGFzZXRfdmFsX05VRFQgPSB7Im5hbWUiOiAiTlVEVCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJpbV9kaXIiOiAiZGF0YXNldHMvTlVEVC1TSVJTVDAwL3Rlc3RfaW1hZ2VzIiwKICAgICAgICAgICAgICAgICAgICAgICAgImd0X2RpciI6ICJkYXRhc2V0cy9OVURULVNJUlNUMDAvdGVzdF9tYXNrcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICJpbV9leHQiOiAiLnBuZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICJndF9leHQiOiAiLnBuZyJ9CgogICAgZGF0YXNldF92YWxfSVJTVEQgPSB7Im5hbWUiOiAiSVJTVEQiLAogICAgICAgICAgICAgICAgICAgICAgICAgImltX2RpciI6ICJkYXRhc2V0cy9JUlNURC0xay90ZXN0X2ltYWdlcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAiZ3RfZGlyIjogImRhdGFzZXRzL0lSU1RELTFrL3Rlc3RfbWFza3MiLAogICAgICAgICAgICAgICAgICAgICAgICAgImltX2V4dCI6ICIucG5nIiwKICAgICAgICAgICAgICAgICAgICAgICAgICJndF9leHQiOiAiLnBuZyJ9CgogICAgdmFsaWRfZGF0YXNldHMgPSBbZGF0YXNldF92YWxfbnVhYV0KCiAgICBhcmdzID0gZ2V0X2FyZ3NfcGFyc2VyKCkKCiAgICBtYWluKHZhbGlkX2RhdGFzZXRzLCBhcmdzKQo=
+# Copyright by HQ-SAM team
+# All rights reserved.
+
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+
+import os
+import os.path as ops
+from tqdm import tqdm
+import argparse
+import logging
+import numpy as np
+import torch
+import torch.optim as optim
+import torch.nn as nn
+import torch.distributed as dist
+import torch.nn.functional as F
+import torchvision.transforms  as T
+from torch.autograd import Variable
+import matplotlib.pyplot as plt
+import cv2
+import random
+from typing import Dict, List, Tuple
+
+from thop import profile
+
+from segment_anything_training.build_IRSAM import build_sam_IRSAM
+
+from utils.dataloader import get_im_gt_name_dict, create_dataloaders, RandomHFlip, Resize, LargeScaleJitter
+from utils.metrics import SigmoidMetric, SamplewiseSigmoidMetric
+from utils.metric import PD_FA, ROCMetric
+from utils.loss_mask import DICE_loss
+from utils.log import initialize_logger
+import utils.misc as misc
+
+os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+
+def get_args_parser():
+    parser = argparse.ArgumentParser('HQ-SAM', add_help=False)
+
+    parser.add_argument("--output", type=str, required=True,
+                        help="Path to the directory where masks and checkpoints will be output")
+    parser.add_argument("--model_type", type=str, default="vit_l",
+                        help="The type of model to load, in ['vit_h', 'vit_l', 'vit_b']")
+    parser.add_argument("--checkpoint", type=str, required=True,
+                        help="The path to the SAM checkpoint to use for mask generation.")
+    parser.add_argument("--no_prompt_checkpoint", type=str, default=None,
+                        help="The path to the SAM checkpoint trained with no prompt")
+    parser.add_argument("--device", type=str, default="cuda",
+                        help="The device to run generation on.")
+
+    parser.add_argument('--learning_rate', default=1e-4, type=float)
+    parser.add_argument('--start_epoch', default=0, type=int)
+    parser.add_argument('--lr_drop_epoch', default=10, type=int)
+    parser.add_argument('--max_epoch_num', default=1001, type=int)
+    parser.add_argument('--dataloader_size', default=[512, 512], type=list)
+    parser.add_argument('--batch_size_train', default=4, type=int)
+    parser.add_argument('--batch_size_valid', default=1, type=int)
+    parser.add_argument('--model_save_fre', default=10, type=int)
+
+    parser.add_argument('--eval', action='store_true')
+    parser.add_argument('--visualize', action='store_true')
+    parser.add_argument("--restore-model", type=str,
+                        help="The path to the hq_decoder training checkpoint for evaluation")
+
+    return parser.parse_args()
+
+
+def main(valid_datasets, args):
+    # --- Step 1: Valid dataset ---
+    print("--- create valid dataloader ---")
+    valid_im_gt_list = get_im_gt_name_dict(valid_datasets, flag="valid")
+    valid_dataloaders, valid_datasets = create_dataloaders(valid_im_gt_list,
+                                                           my_transforms=[
+                                                               Resize(args.dataloader_size)
+                                                           ],
+                                                           batch_size=args.batch_size_valid,
+                                                           training=False)
+    print(len(valid_dataloaders), " valid dataloaders created")
+
+    # --- Step 2: Load pretrained Network---
+    net = build_sam_IRSAM(checkpoint=args.checkpoint)
+    if torch.cuda.is_available():
+        net.cuda()
+
+    # --- Step 3: Train or Evaluate ---
+    if args.eval:
+        if args.restore_model:
+            print("restore model from:", args.restore_model)
+            if torch.cuda.is_available():
+                net.load_state_dict(torch.load(args.restore_model))
+            else:
+                net.load_state_dict(torch.load(args.restore_model, map_location="cpu"))
+
+        evaluate(net, valid_dataloaders)
+
+def evaluate(net, valid_dataloaders):
+    net.eval()
+    metric = dict()
+
+    IoU_metric = SigmoidMetric()
+    nIoU_metric = SamplewiseSigmoidMetric(1, score_thresh=0.5)
+
+    ROC = ROCMetric(1, 10)
+    Pd_Fa = PD_FA(1, 10)
+
+    IoU_metric.reset()
+    nIoU_metric.reset()
+    Pd_Fa.reset()
+    for k in range(len(valid_dataloaders)):
+        valid_dataloader = valid_dataloaders[k]
+
+        tbar = tqdm(valid_dataloader)
+        for data_val in tbar:
+            imidx_val, inputs_val, labels_val, shapes_val, labels_ori = data_val['imidx'], data_val['image'], data_val[
+                'label'], data_val['shape'], data_val['ori_label']
+
+            if torch.cuda.is_available():
+                inputs_val = inputs_val.cuda()
+                labels_ori = labels_ori.cuda()
+
+            imgs = inputs_val.permute(0, 2, 3, 1).cpu().numpy()
+
+            batched_input = []
+            for b_i in range(len(imgs)):
+                dict_input = dict()
+                input_image = (torch.as_tensor((imgs[b_i]).astype(dtype=np.uint8), device=net.device)
+                               .permute(2, 0, 1).contiguous())
+                dict_input['image'] = input_image
+                dict_input['original_size'] = imgs[b_i].shape[:2]
+                batched_input.append(dict_input)
+
+            masks, edges = net(batched_input)
+
+            torch.cuda.synchronize()
+
+            IoU_metric.update(masks.cpu(), (labels_ori / 255.).cpu().detach())
+            nIoU_metric.update(masks.cpu(), (labels_ori / 255.).cpu().detach())
+            Pd_Fa.update(masks.cpu(), (labels_ori / 255.).cpu().detach())
+
+            FA, PD = Pd_Fa.get(len(valid_dataloader))
+            _, IoU = IoU_metric.get()
+            _, nIoU = nIoU_metric.get()
+
+            tbar.set_description('IoU:%f, nIoU:%f, PD:%.8lf, FA:%.8lf'
+                                 % (IoU, nIoU, PD[0], FA[0]))
+            
+        metric['iou'] = IoU
+        metric['niou'] = nIoU
+        metric['pd'] = PD[0]
+        metric['fa'] = FA[0]
+    return metric
+
+
+if __name__ == "__main__":
+    # --------------- Configuring the Valid datasets ---------------
+    dataset_val_nuaa = {"name": "Sirstv2_512",
+                        "im_dir": "datasets/Sirstv2_512/test_images",
+                        "gt_dir": "datasets/Sirstv2_512/test_masks",
+                        "im_ext": ".png",
+                        "gt_ext": ".png"}
+
+    dataset_val_NUDT = {"name": "NUDT",
+                        "im_dir": "datasets/NUDT-SIRST00/test_images",
+                        "gt_dir": "datasets/NUDT-SIRST00/test_masks",
+                        "im_ext": ".png",
+                        "gt_ext": ".png"}
+
+    dataset_val_IRSTD = {"name": "IRSTD",
+                         "im_dir": "datasets/IRSTD-1k/test_images",
+                         "gt_dir": "datasets/IRSTD-1k/test_masks",
+                         "im_ext": ".png",
+                         "gt_ext": ".png"}
+
+    valid_datasets = [dataset_val_nuaa]
+
+    args = get_args_parser()
+
+    main(valid_datasets, args)

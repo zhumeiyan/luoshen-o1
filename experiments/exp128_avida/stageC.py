@@ -1,1 +1,121 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCumYtuautUPvvJrmlq3kvpvlkI4gQXZpZGEg5Liq5L2T55qE55yf5a6e54q25oCB5YiG6KejICsg5Y+v6K+B5Lyq5a+554WnCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K5YWz6ZSu6Zeu6aKY77ya5pat5L6b5ZCOIGJpcnRocz0w77yM5piv5Zug5Li6CiAgKGEpIOS4quS9k+ayoeacieiDvemHj++8iOiHque7meayoeiOt+W+l++8ie+8nwogIChiKSDmnInog73ph4/kvYbkuKflpLHkuobnuYHmrpbmnLrliLbvvIjpob7mraTlpLHlvbzvvInvvJ8K6L+Z5Lik6ICF5ZCr5LmJ5a6M5YWo5LiN5ZCM44CCCgrlkIzml7blgZrpmLMv6Zi05oCn5a+554Wn77yM6K+B5piO5oyH5qCH5Y+v6K+B5Lyq44CCCiIiIgppbXBvcnQgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucApzeXMucGF0aC5pbnNlcnQoMCwgJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xJykKc3lzLnBhdGguaW5zZXJ0KDAsICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjhfYXZpZGEnKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CmZyb20gYXZpZGEgaW1wb3J0ICoKCkFOQyA9IFtIX0FMTE9DLCBOT1BfQSwgSk1QX0hFQUQsIEhfQ09QWSwgSUZfTl9FUVUsIE1PVl9IRUFELCBOT1BfQiwgSF9ESVZJREVdICsgW05PUF9DXSAqIDIwCgoKZGVmIGJ1ZGdldF9vZihiaW8sIHcpOgogICAgIiIi5pat5L6bKHNsaWNlPTAp5ZCO6K+l5Liq5L2T55qE5q+P5Luj6IO96YePIiIiCiAgICBzZyA9IChiaW8ucmV3YXJkIC0gMS4wKSAqIHcudGFza19lbmVyZ3lfc2NhbGUKICAgIHJldHVybiBpbnQoKHcuc2xpY2VfcmF0aW8gKiB3LnNjYXJjaXR5ICogdy5lbmVyZ3lfcGVyX2N5Y2xlKSArIHNnKQoKCmRlZiBjYW5fcmVwbGljYXRlKGJpbywgdywgbWF4Yz01MDAwKToKICAgIHQgPSBCaW8oYmlvLmdlbm9tZSwgbWVtX3NpemU9bGVuKGJpby5nZW5vbWUpICogMikKICAgIHQubWVtID0gbGlzdChiaW8ubWVtKQogICAgdC5heCwgdC5ieCwgdC5jeCA9IGJpby5heCwgYmlvLmJ4LCBiaW8uY3gKICAgIGZvciBfIGluIHJhbmdlKG1heGMpOgogICAgICAgIHIgPSB3Ll9leGVjKHQpCiAgICAgICAgaWYgciBhbmQgclswXSA9PSAnZGl2aWRlJzoKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBpZiByIGFuZCByWzBdID09ICdkaXZpZGVfZmFpbCc6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgcmV0dXJuIEZhbHNlCgoKZGVmIGF2aWRhX3N0YXRlKHNlZWQsIGdlbnM9NDAwLCBtdXQ9MC4wMiwgcG9wPTQwKToKICAgIHcgPSBXb3JsZChBTkMsIHBvcF9zaXplPXBvcCwgc2VlZD1zZWVkLCBtdXRfcmF0ZT1tdXQsCiAgICAgICAgICAgICAgc2xpY2VfcmF0aW89ODAsIHRhc2tfZW5lcmd5X3NjYWxlPTIwKQogICAgZm9yIF8gaW4gcmFuZ2UoZ2Vucyk6CiAgICAgICAgdy5zdGVwX2dlbmVyYXRpb24oKQogICAgdy5zbGljZV9yYXRpbyA9IDAgICAgICAgICAgICAgICAgICAgICAgIyDmlq3kvpsKICAgIHJvd3MgPSBbXQogICAgZm9yIGIgaW4gdy5wb3A6CiAgICAgICAgYnVkID0gYnVkZ2V0X29mKGIsIHcpCiAgICAgICAgcmVwID0gY2FuX3JlcGxpY2F0ZShiLCB3KQogICAgICAgIHJvd3MuYXBwZW5kKGRpY3QoaGFzX3Rhc2s9Ym9vbChiLnRhc2tzX2RvbmUpLCBidWRnZXQ9YnVkLCByZXBsaWNhdGU9cmVwKSkKICAgIG4gPSBsZW4ocm93cykKICAgIHJldHVybiBkaWN0KAogICAgICAgIHNlZWQ9c2VlZCwgbj1uLAogICAgICAgIG5fdGFzaz1zdW0oclsnaGFzX3Rhc2snXSBmb3IgciBpbiByb3dzKSwKICAgICAgICBuX2VuZXJneT1zdW0oclsnYnVkZ2V0J10gPiAwIGZvciByIGluIHJvd3MpLAogICAgICAgIG5fdGFza19hbmRfZW5lcmd5PXN1bShyWydoYXNfdGFzayddIGFuZCByWydidWRnZXQnXSA+IDAgZm9yIHIgaW4gcm93cyksCiAgICAgICAgbl90YXNrX2FuZF9yZXBsaWNhdGU9c3VtKHJbJ2hhc190YXNrJ10gYW5kIHJbJ3JlcGxpY2F0ZSddIGZvciByIGluIHJvd3MpLAogICAgICAgIG5fcmVwbGljYXRlPXN1bShyWydyZXBsaWNhdGUnXSBmb3IgciBpbiByb3dzKSwKICAgICAgICBuX3Rhc2tfbm90X3JlcGxpY2F0ZT1zdW0oclsnaGFzX3Rhc2snXSBhbmQgbm90IHJbJ3JlcGxpY2F0ZSddIGZvciByIGluIHJvd3MpLAogICAgKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBvdXQgPSB7J2F2aWRhX3N0YXRlJzogW10sICdjb250cm9scyc6IHt9fQoKICAgIHByaW50KCc9PT0g5pat5L6b5ZCOIEF2aWRhIOS4quS9k+eKtuaAgeWIhuinoyA9PT0nKQogICAgcHJpbnQoZiJ7J3NlZWQnOj41fXsnTic6PjV9eyfmnInku7vliqEnOj44fXsn5pyJ6IO96YePJzo+OH17J+S7u+WKoeKIp+iDvemHjyc6PjEwfXsn5Lu75Yqh4oin6IO957mB5q6WJzo+MTJ9eyfku7vliqHkvYblup8nOj45fSIpCiAgICBmb3IgcyBpbiByYW5nZSg1KToKICAgICAgICByID0gYXZpZGFfc3RhdGUocykKICAgICAgICBvdXRbJ2F2aWRhX3N0YXRlJ10uYXBwZW5kKHIpCiAgICAgICAgcHJpbnQoZiJ7czo+NX17clsnbiddOj41fXtyWyduX3Rhc2snXTo+OH17clsnbl9lbmVyZ3knXTo+OH0iCiAgICAgICAgICAgICAgZiJ7clsnbl90YXNrX2FuZF9lbmVyZ3knXTo+MTB9e3JbJ25fdGFza19hbmRfcmVwbGljYXRlJ106PjEyfXtyWyduX3Rhc2tfbm90X3JlcGxpY2F0ZSddOj45fSIpCgogICAgdG90ID0ge2s6IHN1bShyW2tdIGZvciByIGluIG91dFsnYXZpZGFfc3RhdGUnXSkgZm9yIGsgaW4KICAgICAgICAgICBbJ24nLCAnbl90YXNrJywgJ25fZW5lcmd5JywgJ25fdGFza19hbmRfZW5lcmd5JywKICAgICAgICAgICAgJ25fdGFza19hbmRfcmVwbGljYXRlJywgJ25fdGFza19ub3RfcmVwbGljYXRlJ119CiAgICBvdXRbJ2F2aWRhX3RvdGFsJ10gPSB0b3QKICAgIHByaW50KGYiXG7lkIjorqHvvJrojrflvpfoh6rnu5kge3RvdFsnbl90YXNrJ119L3t0b3RbJ24nXX0iCiAgICAgICAgICBmIu+8m+aWreS+m+WQjuacieiDvemHjyB7dG90WyduX2VuZXJneSddfS97dG90WyduJ119IgogICAgICAgICAgZiLvvJvjgJDmnInoh6rnu5nkuJTog73nuYHmrpbjgJF7dG90WyduX3Rhc2tfYW5kX3JlcGxpY2F0ZSddfS97dG90WyduJ119IikKCiAgICAjIC0tLS0tLS0tLS0g5Y+v6K+B5Lyq5a+554WnIC0tLS0tLS0tLS0KICAgICMg6Zi05oCn77yabXV0PTDvvIjml6Dlj5jlvILvvInihpIg5bqU5peg5Lu75Yqh44CB5peg6Ieq57uZCiAgICB3X25lZyA9IFdvcmxkKEFOQywgcG9wX3NpemU9NDAsIHNlZWQ9MSwgbXV0X3JhdGU9MC4wLAogICAgICAgICAgICAgICAgICBzbGljZV9yYXRpbz04MCwgdGFza19lbmVyZ3lfc2NhbGU9MjApCiAgICBmb3IgXyBpbiByYW5nZSg0MDApOgogICAgICAgIHdfbmVnLnN0ZXBfZ2VuZXJhdGlvbigpCiAgICBuX3Rhc2tfbmVnID0gc3VtKDEgZm9yIGIgaW4gd19uZWcucG9wIGlmIGIudGFza3NfZG9uZSkKICAgICMg6Ziz5oCn77ya5Lq65Li657uZ5YWo6YOo5Liq5L2T5LiA5Liq5Lu75YqhIOKGkiDmlq3kvpvlkI7lupTmnInog73ph48KICAgIHdfcG9zID0gV29ybGQoQU5DLCBwb3Bfc2l6ZT00MCwgc2VlZD0xLCBtdXRfcmF0ZT0wLjAsCiAgICAgICAgICAgICAgICAgIHNsaWNlX3JhdGlvPTgwLCB0YXNrX2VuZXJneV9zY2FsZT0yMCkKICAgIGZvciBfIGluIHJhbmdlKDUwKToKICAgICAgICB3X3Bvcy5zdGVwX2dlbmVyYXRpb24oKQogICAgZm9yIGIgaW4gd19wb3MucG9wOgogICAgICAgIGIudGFza3NfZG9uZS5hZGQoJ0FORCcpCiAgICAgICAgYi5yZXdhcmQgKz0gNC4wCiAgICB3X3Bvcy5zbGljZV9yYXRpbyA9IDAKICAgIG5fZW5lcmd5X3BvcyA9IHN1bSgxIGZvciBiIGluIHdfcG9zLnBvcCBpZiBidWRnZXRfb2YoYiwgd19wb3MpID4gMCkKICAgIG91dFsnY29udHJvbHMnXVsnYXZpZGEnXSA9IGRpY3QobmVnX211dDBfdGFza3M9bl90YXNrX25lZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9zX2dpdmVuX3Rhc2tfZW5lcmd5PW5fZW5lcmd5X3Bvcywgbj1sZW4od19wb3MucG9wKSkKCiAgICAjIExpZmU1IOmYs+aApy/pmLTmgKflr7nnhacKICAgIGRlZiBsZl93ZWFuKGZnLCBzZWVkKToKICAgICAgICBsZiA9IExpZmU1KE49OCwgc2VlZD1zZWVkLCBmZz1mZykKICAgICAgICB0MCA9IGxmLnQKICAgICAgICB3aGlsZSBsZi5hbGl2ZSBhbmQgbGYudCAtIHQwIDwgMTUwMDoKICAgICAgICAgICAgbGYuc3RlcCgpCiAgICAgICAgcmV0dXJuIGJvb2wobGYuYWxpdmUpCiAgICBwb3MgPSBzdW0obGZfd2VhbigwLjE1LCBzKSBmb3IgcyBpbiByYW5nZSgxNikpCiAgICBuZWcgPSBzdW0obGZfd2VhbigwLjAsIHMpIGZvciBzIGluIHJhbmdlKDE2KSkKICAgIG91dFsnY29udHJvbHMnXVsnbGlmZTUnXSA9IGRpY3QocG9zX2ZnMDE1PXBvcywgbmVnX2ZnMD1uZWcsIG49MTYpCgogICAgcHJpbnQoZiJcbj09PSDlj6/or4HkvKrlr7nnhacgPT09IikKICAgIHByaW50KGYiQXZpZGEg6Zi05oCnKG11dD0wKe+8muiOt+W+l+S7u+WKoSB7bl90YXNrX25lZ30vNDAgICDvvIjlupTkuLogMO+8iSIpCiAgICBwcmludChmIkF2aWRhIOmYs+aApyjlvLrnu5nku7vliqEp77ya5pat5L6b5pyJ6IO96YePIHtuX2VuZXJneV9wb3N9LzQwICAg77yI5bqUID4w77yJIikKICAgIHByaW50KGYiTGlmZTUg6Ziz5oCnKGZnPTAuMTUp77ya5pat5L6b5a2Y5rS7IHtwb3N9LzE2IikKICAgIHByaW50KGYiTGlmZTUg6Zi05oCnKGZnPTApICAg77ya5pat5L6b5a2Y5rS7IHtuZWd9LzE2ICAg77yI5bqU5Li6IDDvvIkiKQoKICAgIGpzb24uZHVtcChvdXQsIG9wZW4oJ3N0YWdlQ19yZXN1bHQuanNvbicsICd3JyksIGluZGVudD0yLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGRlZmF1bHQ9c3RyKQogICAgcHJpbnQoJ1xuc2F2ZWQgc3RhZ2VDX3Jlc3VsdC5qc29uJykK
+# -*- coding: utf-8 -*-
+"""
+阶段C：断供后 Avida 个体的真实状态分解 + 可证伪对照
+====================================================
+关键问题：断供后 births=0，是因为
+  (a) 个体没有能量（自给没获得）？
+  (b) 有能量但丧失了繁殖机制（顾此失彼）？
+这两者含义完全不同。
+
+同时做阳/阴性对照，证明指标可证伪。
+"""
+import sys, json
+import numpy as np
+sys.path.insert(0, '/data/workspace/luoshen-o1')
+sys.path.insert(0, '/data/workspace/luoshen-o1/experiments/exp128_avida')
+from core.life5 import Life5
+from avida import *
+
+ANC = [H_ALLOC, NOP_A, JMP_HEAD, H_COPY, IF_N_EQU, MOV_HEAD, NOP_B, H_DIVIDE] + [NOP_C] * 20
+
+
+def budget_of(bio, w):
+    """断供(slice=0)后该个体的每代能量"""
+    sg = (bio.reward - 1.0) * w.task_energy_scale
+    return int((w.slice_ratio * w.scarcity * w.energy_per_cycle) + sg)
+
+
+def can_replicate(bio, w, maxc=5000):
+    t = Bio(bio.genome, mem_size=len(bio.genome) * 2)
+    t.mem = list(bio.mem)
+    t.ax, t.bx, t.cx = bio.ax, bio.bx, bio.cx
+    for _ in range(maxc):
+        r = w._exec(t)
+        if r and r[0] == 'divide':
+            return True
+        if r and r[0] == 'divide_fail':
+            return False
+    return False
+
+
+def avida_state(seed, gens=400, mut=0.02, pop=40):
+    w = World(ANC, pop_size=pop, seed=seed, mut_rate=mut,
+              slice_ratio=80, task_energy_scale=20)
+    for _ in range(gens):
+        w.step_generation()
+    w.slice_ratio = 0                      # 断供
+    rows = []
+    for b in w.pop:
+        bud = budget_of(b, w)
+        rep = can_replicate(b, w)
+        rows.append(dict(has_task=bool(b.tasks_done), budget=bud, replicate=rep))
+    n = len(rows)
+    return dict(
+        seed=seed, n=n,
+        n_task=sum(r['has_task'] for r in rows),
+        n_energy=sum(r['budget'] > 0 for r in rows),
+        n_task_and_energy=sum(r['has_task'] and r['budget'] > 0 for r in rows),
+        n_task_and_replicate=sum(r['has_task'] and r['replicate'] for r in rows),
+        n_replicate=sum(r['replicate'] for r in rows),
+        n_task_not_replicate=sum(r['has_task'] and not r['replicate'] for r in rows),
+    )
+
+
+if __name__ == '__main__':
+    out = {'avida_state': [], 'controls': {}}
+
+    print('=== 断供后 Avida 个体状态分解 ===')
+    print(f"{'seed':>5}{'N':>5}{'有任务':>8}{'有能量':>8}{'任务∧能量':>10}{'任务∧能繁殖':>12}{'任务但废':>9}")
+    for s in range(5):
+        r = avida_state(s)
+        out['avida_state'].append(r)
+        print(f"{s:>5}{r['n']:>5}{r['n_task']:>8}{r['n_energy']:>8}"
+              f"{r['n_task_and_energy']:>10}{r['n_task_and_replicate']:>12}{r['n_task_not_replicate']:>9}")
+
+    tot = {k: sum(r[k] for r in out['avida_state']) for k in
+           ['n', 'n_task', 'n_energy', 'n_task_and_energy',
+            'n_task_and_replicate', 'n_task_not_replicate']}
+    out['avida_total'] = tot
+    print(f"\n合计：获得自给 {tot['n_task']}/{tot['n']}"
+          f"；断供后有能量 {tot['n_energy']}/{tot['n']}"
+          f"；【有自给且能繁殖】{tot['n_task_and_replicate']}/{tot['n']}")
+
+    # ---------- 可证伪对照 ----------
+    # 阴性：mut=0（无变异）→ 应无任务、无自给
+    w_neg = World(ANC, pop_size=40, seed=1, mut_rate=0.0,
+                  slice_ratio=80, task_energy_scale=20)
+    for _ in range(400):
+        w_neg.step_generation()
+    n_task_neg = sum(1 for b in w_neg.pop if b.tasks_done)
+    # 阳性：人为给全部个体一个任务 → 断供后应有能量
+    w_pos = World(ANC, pop_size=40, seed=1, mut_rate=0.0,
+                  slice_ratio=80, task_energy_scale=20)
+    for _ in range(50):
+        w_pos.step_generation()
+    for b in w_pos.pop:
+        b.tasks_done.add('AND')
+        b.reward += 4.0
+    w_pos.slice_ratio = 0
+    n_energy_pos = sum(1 for b in w_pos.pop if budget_of(b, w_pos) > 0)
+    out['controls']['avida'] = dict(neg_mut0_tasks=n_task_neg,
+                                    pos_given_task_energy=n_energy_pos, n=len(w_pos.pop))
+
+    # Life5 阳性/阴性对照
+    def lf_wean(fg, seed):
+        lf = Life5(N=8, seed=seed, fg=fg)
+        t0 = lf.t
+        while lf.alive and lf.t - t0 < 1500:
+            lf.step()
+        return bool(lf.alive)
+    pos = sum(lf_wean(0.15, s) for s in range(16))
+    neg = sum(lf_wean(0.0, s) for s in range(16))
+    out['controls']['life5'] = dict(pos_fg015=pos, neg_fg0=neg, n=16)
+
+    print(f"\n=== 可证伪对照 ===")
+    print(f"Avida 阴性(mut=0)：获得任务 {n_task_neg}/40   （应为 0）")
+    print(f"Avida 阳性(强给任务)：断供有能量 {n_energy_pos}/40   （应 >0）")
+    print(f"Life5 阳性(fg=0.15)：断供存活 {pos}/16")
+    print(f"Life5 阴性(fg=0)   ：断供存活 {neg}/16   （应为 0）")
+
+    json.dump(out, open('stageC_result.json', 'w'), indent=2, ensure_ascii=False, default=str)
+    print('\nsaved stageC_result.json')

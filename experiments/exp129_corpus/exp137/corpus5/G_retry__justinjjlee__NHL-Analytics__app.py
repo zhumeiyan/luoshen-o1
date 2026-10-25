@@ -1,1 +1,37 @@
-IiIiCkxhdW5jaGVyIGZvciBSaW5rbHl0aWNzIFN0cmVhbWxpdCBEYXNoYm9hcmQgb24gSHVnZ2luZyBGYWNlIFNwYWNlcyBhbmQgbG9jYWwgZW52aXJvbm1lbnRzLgoiIiIKaW1wb3J0IG9zCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKCiMgUmVxdWlyZWQgZm9yIEh1Z2dpbmcgRmFjZSBaZXJvR1BVIHJ1bnRpbWUgaW5pdGlhbGl6YXRpb24KdHJ5OgogICAgaW1wb3J0IHNwYWNlcwoKICAgIEBzcGFjZXMuR1BVCiAgICBkZWYgX2luaXRfZ3B1KCk6CiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBfaW5pdF9ncHUoKQpleGNlcHQgRXhjZXB0aW9uOgogICAgcGFzcwoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJvb3RfZGlyID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCiAgICBhcHBfZmlsZSA9IG9zLnBhdGguam9pbihyb290X2RpciwgImFwcCIsICJhcHAucHkiKQogICAgcG9ydCA9IG9zLmVudmlyb24uZ2V0KCJQT1JUIiwgIjc4NjAiKQoKICAgIGNtZCA9IFsKICAgICAgICBzeXMuZXhlY3V0YWJsZSwKICAgICAgICAiLW0iLAogICAgICAgICJzdHJlYW1saXQiLAogICAgICAgICJydW4iLAogICAgICAgIGFwcF9maWxlLAogICAgICAgIGYiLS1zZXJ2ZXIucG9ydD17cG9ydH0iLAogICAgICAgICItLXNlcnZlci5hZGRyZXNzPTAuMC4wLjAiLAogICAgICAgICItLXNlcnZlci5oZWFkbGVzcz10cnVlIiwKICAgICAgICAiLS1zZXJ2ZXIuZW5hYmxlQ09SUz1mYWxzZSIsCiAgICAgICAgIi0tc2VydmVyLmVuYWJsZVhzcmZQcm90ZWN0aW9uPWZhbHNlIiwKICAgIF0KICAgIHN1YnByb2Nlc3MucnVuKGNtZCkK
+"""
+Launcher for Rinklytics Streamlit Dashboard on Hugging Face Spaces and local environments.
+"""
+import os
+import subprocess
+import sys
+
+# Required for Hugging Face ZeroGPU runtime initialization
+try:
+    import spaces
+
+    @spaces.GPU
+    def _init_gpu():
+        return True
+
+    _init_gpu()
+except Exception:
+    pass
+
+if __name__ == "__main__":
+    root_dir = os.path.dirname(os.path.abspath(__file__))
+    app_file = os.path.join(root_dir, "app", "app.py")
+    port = os.environ.get("PORT", "7860")
+
+    cmd = [
+        sys.executable,
+        "-m",
+        "streamlit",
+        "run",
+        app_file,
+        f"--server.port={port}",
+        "--server.address=0.0.0.0",
+        "--server.headless=true",
+        "--server.enableCORS=false",
+        "--server.enableXsrfProtection=false",
+    ]
+    subprocess.run(cmd)

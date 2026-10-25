@@ -1,1 +1,62 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IHJhbmRvbSwgZmNudGwsIHN0cnVjdCwgc3VicHJvY2Vzcywgb3MKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAoKIyDljrvmjonmmJPmt7fmt4blrZfnrKYgQi84IE8vMCBJLzEgUy81IFovMgpBTFBIQSA9ICJBQ0RFRkdISktMTU5QUVJUVVZXWFkzNDY3OSIKQ09ERSA9ICIiLmpvaW4ocmFuZG9tLmNob2ljZShBTFBIQSkgZm9yIF8gaW4gcmFuZ2UoNikpCgpXLCBILCBCUFAgPSAxMDI0LCA3NjgsIDMyCkZPTlQgPSAiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIKZl9iaWcgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwgMjYpCmZfbWlkID0gSW1hZ2VGb250LnRydWV0eXBlKEZPTlQsIDIwKQpmX3NtYWxsID0gSW1hZ2VGb250LnRydWV0eXBlKEZPTlQsIDE1KQoKaW1nID0gSW1hZ2UubmV3KCJSR0JBIiwgKFcsIEgpLCAoMjU1LCAyNTUsIDI1NSwgMjU1KSkKZCA9IEltYWdlRHJhdy5EcmF3KGltZykKCnJvd3MgPSBbCiAgICAoIkVPIFJFUFJPRFVDVElPTiBWMiAgIENPREUgIiArIENPREUsIGZfYmlnKSwKICAgICgiIiwgTm9uZSksCiAgICAoIkExIHNoYXJlZCBjaGFpbiAgICAgICAgIHYxIFRydWUgICAgdjIgRmFsc2UiLCBmX21pZCksCiAgICAoIkEyIHVuaXF1ZSBnZW5vbWUgMjAga2lkcyB2MSAxICAgICAgIHYyIDIwIiwgZl9taWQpLAogICAgKCJBMyBwb3AgYWZ0ZXIgOCBnZW4gICAgICAgdjEgMSAgICAgICB2MiAyMCIsIGZfbWlkKSwKICAgICgiQTMgYmlydGhzIDQ3ICBkZWF0aHMgMjggIHYxIG5vbmUgICAgdjIgeWVzIiwgZl9taWQpLAogICAgKCJBNCBsaWFyIHNlbGZyZXBvcnQgOTk5OSAgdjEgS0VQVCAgICB2MiBQVVJHRUQiLCBmX21pZCksCiAgICAoIiIsIE5vbmUpLAogICAgKCJCIHNpbmdsZXBlYWsgIG5pY2hlIDEgIHNpbXBzb24gMC4wMDAwICBzcHJlYWQgMC4wNTY3IiwgZl9taWQpLAogICAgKCJCIG11bHRpcGVhayAgIG5pY2hlIDIgIHNpbXBzb24gMC4yNTUwICBzcHJlYWQgMC4xNTA0IiwgZl9taWQpLAogICAgKCIiLCBOb25lKSwKICAgICgiQyBtdSBkb3NlICAgbXUwIGJveDEgIG11MC4wNSBib3g2ICBtdTAuMSBib3gxMCAgbXUwLjQgYm94OSIsIGZfc21hbGwpLAogICAgKCJEIGNhcnJ5aW5nICBLMiBib3gyICBLMTAgYm94NiAgSzIwIGJveDEwICBLNDAgYm94OCIsIGZfc21hbGwpLAogICAgKCIiLCBOb25lKSwKICAgICgiU0FUIEkgZmlyc3QgbWV0cmljIHNhdHVyYXRlZCBib3ggMjBvZjIwIGJvdGggd29ybGRzIiwgZl9zbWFsbCksCiAgICAoIlBPU0NUUkwgcmVsYXRpdmUgZGlmZiAwLjA4MjFwY3QgIHVuZGVyIDFwY3QgIEZBSUxFRCIsIGZfc21hbGwpLAogICAgKCJFTkdJTkUgZGVsdGEgdmFyaWVkLWNsb25lIC0wLjAwMDk2MSBDSSBjcm9zc2VzIDAiLCBmX3NtYWxsKSwKXQoKeSA9IDI4CmZvciB0ZXh0LCBmbyBpbiByb3dzOgogICAgaWYgdGV4dDoKICAgICAgICBkLnRleHQoKDQ1LCB5KSwgdGV4dCwgZmlsbD0oMCwgMCwgMCwgMjU1KSwgZm9udD1mbykKICAgIHkgKz0gNDAgaWYgZm8gaXMgZl9zbWFsbCBlbHNlIDQ0CgppbWcuc2F2ZSgicmVuZGVyLnBuZyIpCgpmYiA9IG9wZW4oIi9kZXYvZmIwIiwgIndiIikKcmF3ID0gaW1nLmNvbnZlcnQoIlJHQkEiKS50b2J5dGVzKCkKYXNzZXJ0IGxlbihyYXcpID09IFcgKiBIICogNCwgKGxlbihyYXcpLCBXICogSCAqIDQpCmZiLndyaXRlKHJhdykKZmIuZmx1c2goKQpvcy5zeXN0ZW0oInN5bmMiKQoKd2l0aCBvcGVuKCIvZGV2L2ZiMCIsICJyYiIpIGFzIGY6CiAgICBiYWNrID0gZi5yZWFkKFcgKiBIICogNCkKSW1hZ2UuZnJvbWJ5dGVzKCJSR0JBIiwgKFcsIEgpLCBiYWNrKS5jb252ZXJ0KCJSR0IiKS5zYXZlKCJjYXB0dXJlZC5wbmciKQoKdHh0ID0gc3VicHJvY2Vzcy5ydW4oWyJ0ZXNzZXJhY3QiLCAiY2FwdHVyZWQucG5nIiwgInN0ZG91dCIsICItbCIsICJlbmciLCAiLS1wc20iLCAiNiJdLAogICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUpLnN0ZG91dApvcGVuKCJvY3IudHh0IiwgInciKS53cml0ZSh0eHQpCnByaW50KCJDT0RFOiIsIENPREUpCnByaW50KCItLS0tIE9DUiBmcm9tIGNhcHR1cmVkLnBuZyAtLS0tIikKcHJpbnQodHh0KQo=
+# -*- coding: utf-8 -*-
+import random, fcntl, struct, subprocess, os
+from PIL import Image, ImageDraw, ImageFont
+
+# 去掉易混淆字符 B/8 O/0 I/1 S/5 Z/2
+ALPHA = "ACDEFGHJKLMNPQRTUVWXY34679"
+CODE = "".join(random.choice(ALPHA) for _ in range(6))
+
+W, H, BPP = 1024, 768, 32
+FONT = "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+f_big = ImageFont.truetype(FONT, 26)
+f_mid = ImageFont.truetype(FONT, 20)
+f_small = ImageFont.truetype(FONT, 15)
+
+img = Image.new("RGBA", (W, H), (255, 255, 255, 255))
+d = ImageDraw.Draw(img)
+
+rows = [
+    ("EO REPRODUCTION V2   CODE " + CODE, f_big),
+    ("", None),
+    ("A1 shared chain         v1 True    v2 False", f_mid),
+    ("A2 unique genome 20 kids v1 1       v2 20", f_mid),
+    ("A3 pop after 8 gen       v1 1       v2 20", f_mid),
+    ("A3 births 47  deaths 28  v1 none    v2 yes", f_mid),
+    ("A4 liar selfreport 9999  v1 KEPT    v2 PURGED", f_mid),
+    ("", None),
+    ("B singlepeak  niche 1  simpson 0.0000  spread 0.0567", f_mid),
+    ("B multipeak   niche 2  simpson 0.2550  spread 0.1504", f_mid),
+    ("", None),
+    ("C mu dose   mu0 box1  mu0.05 box6  mu0.1 box10  mu0.4 box9", f_small),
+    ("D carrying  K2 box2  K10 box6  K20 box10  K40 box8", f_small),
+    ("", None),
+    ("SAT I first metric saturated box 20of20 both worlds", f_small),
+    ("POSCTRL relative diff 0.0821pct  under 1pct  FAILED", f_small),
+    ("ENGINE delta varied-clone -0.000961 CI crosses 0", f_small),
+]
+
+y = 28
+for text, fo in rows:
+    if text:
+        d.text((45, y), text, fill=(0, 0, 0, 255), font=fo)
+    y += 40 if fo is f_small else 44
+
+img.save("render.png")
+
+fb = open("/dev/fb0", "wb")
+raw = img.convert("RGBA").tobytes()
+assert len(raw) == W * H * 4, (len(raw), W * H * 4)
+fb.write(raw)
+fb.flush()
+os.system("sync")
+
+with open("/dev/fb0", "rb") as f:
+    back = f.read(W * H * 4)
+Image.frombytes("RGBA", (W, H), back).convert("RGB").save("captured.png")
+
+txt = subprocess.run(["tesseract", "captured.png", "stdout", "-l", "eng", "--psm", "6"],
+                     capture_output=True, text=True).stdout
+open("ocr.txt", "w").write(txt)
+print("CODE:", CODE)
+print("---- OCR from captured.png ----")
+print(txt)

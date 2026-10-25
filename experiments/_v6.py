@@ -1,1 +1,43 @@
-aW1wb3J0IHN5cywgb3MsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMScpCmZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKZnJvbSBjb3JlLndvcmxkX3JoeXRobSBpbXBvcnQgV29ybGRSaHl0aG0KTj04OyBTVEVQUz00MDA7IEtTRUVLPTEuMDsgQU1QPTIuMApkZWYgZW50KGEpOgogICAgYT1ucC5hc2FycmF5KGEsZmxvYXQpKzFlLTEyOyBwPWEvYS5zdW0oKQogICAgcmV0dXJuIGZsb2F0KC0ocCpucC5sb2cocCkpLnN1bSgpL25wLmxvZyhsZW4ocCkpKQpkZWYgcnVuKHNlZWQsIG1wdCk6CiAgICBMPUxpZmU1KE49TixzZWVkPXNlZWQsa19zZWVrPUtTRUVLKTsgTC5pbnB1dF92YWw9MC4wCiAgICBXPVdvcmxkUmh5dGhtKE49TixtaW51dGVzX3Blcl90aWNrPW1wdCxzZWVkPXNlZWQqMTMrNSxmb3JhZ2VfY2g9TC5mb3JhZ2VfY2gsdXNlX21lYWw9VHJ1ZSkKICAgIGVzPVtdO3NoPVtdCiAgICBmb3IgdCBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgaWYgbm90IEwuYWxpdmU6IGJyZWFrCiAgICAgICAgTC5uZXRfcHVzaD1XLnN0ZXAoQU1QLGZvY3VzZWQ9VHJ1ZSkKICAgICAgICByPUwuc3RlcCgpCiAgICAgICAgaWYgcjoKICAgICAgICAgICAgZXMuYXBwZW5kKGVudChyWyJhdmVjIl0pKTsgYT1ucC5hc2FycmF5KHJbImF2ZWMiXSxmbG9hdCkKICAgICAgICAgICAgc2guYXBwZW5kKGFbMF0vYS5zdW0oKSBpZiBhLnN1bSgpPjFlLTEyIGVsc2UgMC4wKQogICAgdGFpbD1lc1tsZW4oZXMpLy8yOl0KICAgIHJldHVybiBkaWN0KGFsaXZlPUwuYWxpdmUsIGVudD1mbG9hdChucC5tZWFuKHRhaWwpKSBpZiB0YWlsIGVsc2UgMC4wLAogICAgICAgICAgICAgICAgc2hhcmUwPWZsb2F0KG5wLm1lYW4oc2hbLTUwOl0pKSBpZiBzaCBlbHNlIDAuMCkKcHJpbnQoIj0iKjg4KQpwcmludCgiIOaXtumXtOWwuuW6puaJq+aPj++8iOmbhuS4rSvppa3ngrnvvInigJTigJQg5LiA5ouN5Luj6KGo5aSa5LmF5omN5pyJ5pWI77yfMjQgc2VlZHMiKQpwcmludCgiPSIqODgpCnByaW50KGYiXG57J+S4gOaLjT0nOj4xMH17J+WtmOa0uyc6Pjl9eyflkI7mrrXnhrUnOj4xMH17J+S7veminTAnOj4xMH0gICDopobnm5boioLlvosiKQpwcmludCgiLSIqODgpCnJvd3M9W10KZm9yIG1wdCxsYmwsc2VlIGluIFsoMSwiMeWIhumSnyIsIuWHoOS5jumdmeatoiIpLCgxNSwiMTXliIYiLCLpnZnmraIiKSwoNjAsIjHlsI/ml7YiLCLml6XlpJwr6aWt54K5IiksCiAgICAgICAgICAgICAgICAgICAgKDE4MCwiM+Wwj+aXtiIsIuaXpeWknCvppa3ngrnnspciKSwoNzIwLCIxMuWwj+aXtiIsIuaXpeWknCIpLCgxNDQwLCIx5aSpIiwi5ZGoIiksKDEwMDgwLCIx5ZGoIiwi5a2j6IqCIildOgogICAgcnM9W3J1bihzLG1wdCkgZm9yIHMgaW4gcmFuZ2UoMjQpXQogICAgcj1kaWN0KGFsaXZlPXN1bSgxIGZvciB4IGluIHJzIGlmIHhbImFsaXZlIl0pLAogICAgICAgICAgIGVudD1mbG9hdChucC5tZWFuKFt4WyJlbnQiXSBmb3IgeCBpbiByc10pKSwKICAgICAgICAgICBzaGFyZTA9ZmxvYXQobnAubWVhbihbeFsic2hhcmUwIl0gZm9yIHggaW4gcnNdKSkpCiAgICByb3dzLmFwcGVuZCgobGJsLHIpKQogICAgcHJpbnQoZiJ7bGJsOj4xMH17clsnYWxpdmUnXTo+NX0vMjR7clsnZW50J106PjEwLjRmfXtyWydzaGFyZTAnXTo+MTAuNGZ9ICAge3NlZX0iKQpwcmludCgiLSIqODgpCmJlc3Q9bWF4KHJvd3Msa2V5PWxhbWJkYSB4OnhbMV1bImFsaXZlIl0pCnByaW50KGYiXG4gIOKYhSDmnIDkvJjvvJrkuIDmi409e2Jlc3RbMF19ICDlrZjmtLsge2Jlc3RbMV1bJ2FsaXZlJ119LzI0ICDku73pop0wIHtiZXN0WzFdWydzaGFyZTAnXTouNGZ9IikKcHJpbnQoZiIgIOKYhSDlsLrluqbkuI3mlY/mhJ/lkJfvvJ/lrZjmtLvot6jluqYge21pbih4WzFdWydhbGl2ZSddIGZvciB4IGluIHJvd3MpfSB+IHttYXgoeFsxXVsnYWxpdmUnXSBmb3IgeCBpbiByb3dzKX0iKQpwcmludChmIlxuICDlr7nnhafln7rnur/vvJrkuI3mjqggMy8yNCAgIOacuuaisOi9ruaNoiAyNC8yNCDku73pop0wIDAuMjgzMSDnhrUgMC4xODY2IikKanNvbi5kdW1wKHtsOnIgZm9yIGwsciBpbiByb3dzfSwgb3BlbigiLnNlbnNlL3dvcmxkX3NjYWxlLmpzb24iLCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+import sys, os, json
+import numpy as np
+sys.path.insert(0,'/data/workspace/luoshen-o1')
+from core.life5 import Life5
+from core.world_rhythm import WorldRhythm
+N=8; STEPS=400; KSEEK=1.0; AMP=2.0
+def ent(a):
+    a=np.asarray(a,float)+1e-12; p=a/a.sum()
+    return float(-(p*np.log(p)).sum()/np.log(len(p)))
+def run(seed, mpt):
+    L=Life5(N=N,seed=seed,k_seek=KSEEK); L.input_val=0.0
+    W=WorldRhythm(N=N,minutes_per_tick=mpt,seed=seed*13+5,forage_ch=L.forage_ch,use_meal=True)
+    es=[];sh=[]
+    for t in range(STEPS):
+        if not L.alive: break
+        L.net_push=W.step(AMP,focused=True)
+        r=L.step()
+        if r:
+            es.append(ent(r["avec"])); a=np.asarray(r["avec"],float)
+            sh.append(a[0]/a.sum() if a.sum()>1e-12 else 0.0)
+    tail=es[len(es)//2:]
+    return dict(alive=L.alive, ent=float(np.mean(tail)) if tail else 0.0,
+                share0=float(np.mean(sh[-50:])) if sh else 0.0)
+print("="*88)
+print(" 时间尺度扫描（集中+饭点）—— 一拍代表多久才有效？24 seeds")
+print("="*88)
+print(f"\n{'一拍=':>10}{'存活':>9}{'后段熵':>10}{'份额0':>10}   覆盖节律")
+print("-"*88)
+rows=[]
+for mpt,lbl,see in [(1,"1分钟","几乎静止"),(15,"15分","静止"),(60,"1小时","日夜+饭点"),
+                    (180,"3小时","日夜+饭点粗"),(720,"12小时","日夜"),(1440,"1天","周"),(10080,"1周","季节")]:
+    rs=[run(s,mpt) for s in range(24)]
+    r=dict(alive=sum(1 for x in rs if x["alive"]),
+           ent=float(np.mean([x["ent"] for x in rs])),
+           share0=float(np.mean([x["share0"] for x in rs])))
+    rows.append((lbl,r))
+    print(f"{lbl:>10}{r['alive']:>5}/24{r['ent']:>10.4f}{r['share0']:>10.4f}   {see}")
+print("-"*88)
+best=max(rows,key=lambda x:x[1]["alive"])
+print(f"\n  ★ 最优：一拍={best[0]}  存活 {best[1]['alive']}/24  份额0 {best[1]['share0']:.4f}")
+print(f"  ★ 尺度不敏感吗？存活跨度 {min(x[1]['alive'] for x in rows)} ~ {max(x[1]['alive'] for x in rows)}")
+print(f"\n  对照基线：不推 3/24   机械轮换 24/24 份额0 0.2831 熵 0.1866")
+json.dump({l:r for l,r in rows}, open(".sense/world_scale.json","w"), ensure_ascii=False, indent=1)

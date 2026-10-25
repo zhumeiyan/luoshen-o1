@@ -1,1 +1,164 @@
-WwogewogICJyZXBvIjogIkVsZXV0aGVyQUkvbG0tZXZhbHVhdGlvbi1oYXJuZXNzIiwKICAicGF0aCI6ICJsbV9ldmFsL2RlZmF1bHRzLnB5IiwKICAiZmlsZSI6ICJFbGV1dGhlckFJX19sbS1ldmFsdWF0aW9uLWhhcm5lc3NfX2xtX2V2YWxfZGVmYXVsdHMucHkiLAogICJieXRlcyI6IDEzNTEKIH0sCiB7CiAgInJlcG8iOiAiRWxldXRoZXJBSS9sbS1ldmFsdWF0aW9uLWhhcm5lc3MiLAogICJwYXRoIjogImxtX2V2YWwvZXZhbHVhdG9yLnB5IiwKICAiZmlsZSI6ICJFbGV1dGhlckFJX19sbS1ldmFsdWF0aW9uLWhhcm5lc3NfX2xtX2V2YWxfZXZhbHVhdG9yLnB5IiwKICAiYnl0ZXMiOiAzMDM5NgogfSwKIHsKICAicmVwbyI6ICJFbGV1dGhlckFJL2xtLWV2YWx1YXRpb24taGFybmVzcyIsCiAgInBhdGgiOiAibG1fZXZhbC9yZXN1bHRfc2NoZW1hLnB5IiwKICAiZmlsZSI6ICJFbGV1dGhlckFJX19sbS1ldmFsdWF0aW9uLWhhcm5lc3NfX2xtX2V2YWxfcmVzdWx0X3NjaGVtYS5weSIsCiAgImJ5dGVzIjogODMwNQogfSwKIHsKICAicmVwbyI6ICJvcGVuYWkvZXZhbHMiLAogICJwYXRoIjogImV2YWxzL2FwaS5weSIsCiAgImZpbGUiOiAib3BlbmFpX19ldmFsc19fZXZhbHNfYXBpLnB5IiwKICAiYnl0ZXMiOiAyOTY1CiB9LAogewogICJyZXBvIjogIm9wZW5haS9ldmFscyIsCiAgInBhdGgiOiAiZXZhbHMvYmFzZS5weSIsCiAgImZpbGUiOiAib3BlbmFpX19ldmFsc19fZXZhbHNfYmFzZS5weSIsCiAgImJ5dGVzIjogMTk1MQogfSwKIHsKICAicmVwbyI6ICJvcGVuYWkvZXZhbHMiLAogICJwYXRoIjogImV2YWxzL2V2YWwucHkiLAogICJmaWxlIjogIm9wZW5haV9fZXZhbHNfX2V2YWxzX2V2YWwucHkiLAogICJieXRlcyI6IDk0MjAKIH0sCiB7CiAgInJlcG8iOiAib3BlbmFpL3NpbXBsZS1ldmFscyIsCiAgInBhdGgiOiAiZHJvcF9ldmFsLnB5IiwKICAiZmlsZSI6ICJvcGVuYWlfX3NpbXBsZS1ldmFsc19fZHJvcF9ldmFsLnB5IiwKICAiYnl0ZXMiOiAxMTIxMgogfSwKIHsKICAicmVwbyI6ICJvcGVuYWkvc2ltcGxlLWV2YWxzIiwKICAicGF0aCI6ICJncHFhX2V2YWwucHkiLAogICJmaWxlIjogIm9wZW5haV9fc2ltcGxlLWV2YWxzX19ncHFhX2V2YWwucHkiLAogICJieXRlcyI6IDMxODgKIH0sCiB7CiAgInJlcG8iOiAib3BlbmFpL3NpbXBsZS1ldmFscyIsCiAgInBhdGgiOiAibWF0aF9ldmFsLnB5IiwKICAiZmlsZSI6ICJvcGVuYWlfX3NpbXBsZS1ldmFsc19fbWF0aF9ldmFsLnB5IiwKICAiYnl0ZXMiOiAyNzc0CiB9LAogewogICJyZXBvIjogImh1Z2dpbmdmYWNlL2xpZ2h0ZXZhbCIsCiAgInBhdGgiOiAic3JjL2xpZ2h0ZXZhbC9fX21haW5fXy5weSIsCiAgImZpbGUiOiAiaHVnZ2luZ2ZhY2VfX2xpZ2h0ZXZhbF9fc3JjX2xpZ2h0ZXZhbF9fX21haW5fXy5weSIsCiAgImJ5dGVzIjogMzMyMgogfSwKIHsKICAicmVwbyI6ICJodWdnaW5nZmFjZS9saWdodGV2YWwiLAogICJwYXRoIjogInNyYy9saWdodGV2YWwvcGlwZWxpbmUucHkiLAogICJmaWxlIjogImh1Z2dpbmdmYWNlX19saWdodGV2YWxfX3NyY19saWdodGV2YWxfcGlwZWxpbmUucHkiLAogICJieXRlcyI6IDE4NjcwCiB9LAogewogICJyZXBvIjogImh1Z2dpbmdmYWNlL2xpZ2h0ZXZhbCIsCiAgInBhdGgiOiAic3JjL2xpZ2h0ZXZhbC9tYWluX3ZsbG0ucHkiLAogICJmaWxlIjogImh1Z2dpbmdmYWNlX19saWdodGV2YWxfX3NyY19saWdodGV2YWxfbWFpbl92bGxtLnB5IiwKICAiYnl0ZXMiOiA1MTkyCiB9LAogewogICJyZXBvIjogIlNXRS1iZW5jaC9TV0UtYmVuY2giLAogICJwYXRoIjogInN3ZWJlbmNoL2NsaS9ldmFsdWF0ZS5weSIsCiAgImZpbGUiOiAiU1dFLWJlbmNoX19TV0UtYmVuY2hfX3N3ZWJlbmNoX2NsaV9ldmFsdWF0ZS5weSIsCiAgImJ5dGVzIjogNDYyOQogfSwKIHsKICAicmVwbyI6ICJTV0UtYmVuY2gvU1dFLWJlbmNoIiwKICAicGF0aCI6ICJzd2ViZW5jaC9oYXJuZXNzL2dyYWRpbmcucHkiLAogICJmaWxlIjogIlNXRS1iZW5jaF9fU1dFLWJlbmNoX19zd2ViZW5jaF9oYXJuZXNzX2dyYWRpbmcucHkiLAogICJieXRlcyI6IDE0MTQyCiB9LAogewogICJyZXBvIjogIlNXRS1iZW5jaC9TV0UtYmVuY2giLAogICJwYXRoIjogInN3ZWJlbmNoL2hhcm5lc3MvcmVwb3J0aW5nLnB5IiwKICAiZmlsZSI6ICJTV0UtYmVuY2hfX1NXRS1iZW5jaF9fc3dlYmVuY2hfaGFybmVzc19yZXBvcnRpbmcucHkiLAogICJieXRlcyI6IDY5NzIKIH0sCiB7CiAgInJlcG8iOiAiVUtHb3Zlcm5tZW50QkVJUy9pbnNwZWN0X2FpIiwKICAicGF0aCI6ICJleGFtcGxlcy9zY29yZXIucHkiLAogICJmaWxlIjogIlVLR292ZXJubWVudEJFSVNfX2luc3BlY3RfYWlfX2V4YW1wbGVzX3Njb3Jlci5weSIsCiAgImJ5dGVzIjogMjgxNQogfSwKIHsKICAicmVwbyI6ICJVS0dvdmVybm1lbnRCRUlTL2luc3BlY3RfYWkiLAogICJwYXRoIjogImV4YW1wbGVzL2V2YWxzZXQucHkiLAogICJmaWxlIjogIlVLR292ZXJubWVudEJFSVNfX2luc3BlY3RfYWlfX2V4YW1wbGVzX2V2YWxzZXQucHkiLAogICJieXRlcyI6IDIzODgKIH0sCiB7CiAgInJlcG8iOiAiVUtHb3Zlcm5tZW50QkVJUy9pbnNwZWN0X2FpIiwKICAicGF0aCI6ICJkb2NzL2V2YWxzL2xsbXMucHkiLAogICJmaWxlIjogIlVLR292ZXJubWVudEJFSVNfX2luc3BlY3RfYWlfX2RvY3NfZXZhbHNfbGxtcy5weSIsCiAgImJ5dGVzIjogMjY3NgogfSwKIHsKICAicmVwbyI6ICJhbGxlbmFpL29sbWVzIiwKICAicGF0aCI6ICJvZV9ldmFsL2xhdW5jaC5weSIsCiAgImZpbGUiOiAiYWxsZW5haV9fb2xtZXNfX29lX2V2YWxfbGF1bmNoLnB5IiwKICAiYnl0ZXMiOiAxNDg1OAogfSwKIHsKICAicmVwbyI6ICJhbGxlbmFpL29sbWVzIiwKICAicGF0aCI6ICJvZV9ldmFsL3J1bl9ldmFsLnB5IiwKICAiZmlsZSI6ICJhbGxlbmFpX19vbG1lc19fb2VfZXZhbF9ydW5fZXZhbC5weSIsCiAgImJ5dGVzIjogNDcyNTYKIH0sCiB7CiAgInJlcG8iOiAiYWxsZW5haS9vbG1lcyIsCiAgInBhdGgiOiAib2VfZXZhbC9kZWZhdWx0X2NvbmZpZ3MucHkiLAogICJmaWxlIjogImFsbGVuYWlfX29sbWVzX19vZV9ldmFsX2RlZmF1bHRfY29uZmlncy5weSIsCiAgImJ5dGVzIjogMTcxNwogfSwKIHsKICAicmVwbyI6ICJzdGFuZm9yZC1jcmZtL2hlbG0iLAogICJwYXRoIjogInNjcmlwdHMvaGVpbV9odW1hbl9ldmFsLnB5IiwKICAiZmlsZSI6ICJzdGFuZm9yZC1jcmZtX19oZWxtX19zY3JpcHRzX2hlaW1faHVtYW5fZXZhbC5weSIsCiAgImJ5dGVzIjogMTM0NDYKIH0sCiB7CiAgInJlcG8iOiAic3RhbmZvcmQtY3JmbS9oZWxtIiwKICAicGF0aCI6ICJzY3JpcHRzL29mZmxpbmVfZXZhbC9pbXBvcnRfcmVzdWx0cy5weSIsCiAgImZpbGUiOiAic3RhbmZvcmQtY3JmbV9faGVsbV9fc2NyaXB0c19vZmZsaW5lX2V2YWxfaW1wb3J0X3Jlc3VsdHMucHkiLAogICJieXRlcyI6IDQyNjIKIH0sCiB7CiAgInJlcG8iOiAic3RhbmZvcmQtY3JmbS9oZWxtIiwKICAicGF0aCI6ICJzY3JpcHRzL29mZmxpbmVfZXZhbC9leHBvcnRfcmVxdWVzdHMucHkiLAogICJmaWxlIjogInN0YW5mb3JkLWNyZm1fX2hlbG1fX3NjcmlwdHNfb2ZmbGluZV9ldmFsX2V4cG9ydF9yZXF1ZXN0cy5weSIsCiAgImJ5dGVzIjogNzIzNgogfSwKIHsKICAicmVwbyI6ICJnb29nbGUvQklHLWJlbmNoIiwKICAicGF0aCI6ICJiaWdiZW5jaC9ldmFsdWF0ZV90YXNrLnB5IiwKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfZXZhbHVhdGVfdGFzay5weSIsCiAgImJ5dGVzIjogMTI5MzQKIH0sCiB7CiAgInJlcG8iOiAiZ29vZ2xlL0JJRy1iZW5jaCIsCiAgInBhdGgiOiAiYmlnYmVuY2gvYXBpL3Rhc2tfbWV0cmljcy5weSIsCiAgImZpbGUiOiAiZ29vZ2xlX19CSUctYmVuY2hfX2JpZ2JlbmNoX2FwaV90YXNrX21ldHJpY3MucHkiLAogICJieXRlcyI6IDE5NDYxCiB9LAogewogICJyZXBvIjogImdvb2dsZS9CSUctYmVuY2giLAogICJwYXRoIjogInNjcmlwdHMvZG9ja2VyL2V2YWx1YXRlX3Rhc2sucHkiLAogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19zY3JpcHRzX2RvY2tlcl9ldmFsdWF0ZV90YXNrLnB5IiwKICAiYnl0ZXMiOiA1MTE5CiB9Cl0=
+[
+ {
+  "repo": "EleutherAI/lm-evaluation-harness",
+  "path": "lm_eval/defaults.py",
+  "file": "EleutherAI__lm-evaluation-harness__lm_eval_defaults.py",
+  "bytes": 1351
+ },
+ {
+  "repo": "EleutherAI/lm-evaluation-harness",
+  "path": "lm_eval/evaluator.py",
+  "file": "EleutherAI__lm-evaluation-harness__lm_eval_evaluator.py",
+  "bytes": 30396
+ },
+ {
+  "repo": "EleutherAI/lm-evaluation-harness",
+  "path": "lm_eval/result_schema.py",
+  "file": "EleutherAI__lm-evaluation-harness__lm_eval_result_schema.py",
+  "bytes": 8305
+ },
+ {
+  "repo": "openai/evals",
+  "path": "evals/api.py",
+  "file": "openai__evals__evals_api.py",
+  "bytes": 2965
+ },
+ {
+  "repo": "openai/evals",
+  "path": "evals/base.py",
+  "file": "openai__evals__evals_base.py",
+  "bytes": 1951
+ },
+ {
+  "repo": "openai/evals",
+  "path": "evals/eval.py",
+  "file": "openai__evals__evals_eval.py",
+  "bytes": 9420
+ },
+ {
+  "repo": "openai/simple-evals",
+  "path": "drop_eval.py",
+  "file": "openai__simple-evals__drop_eval.py",
+  "bytes": 11212
+ },
+ {
+  "repo": "openai/simple-evals",
+  "path": "gpqa_eval.py",
+  "file": "openai__simple-evals__gpqa_eval.py",
+  "bytes": 3188
+ },
+ {
+  "repo": "openai/simple-evals",
+  "path": "math_eval.py",
+  "file": "openai__simple-evals__math_eval.py",
+  "bytes": 2774
+ },
+ {
+  "repo": "huggingface/lighteval",
+  "path": "src/lighteval/__main__.py",
+  "file": "huggingface__lighteval__src_lighteval___main__.py",
+  "bytes": 3322
+ },
+ {
+  "repo": "huggingface/lighteval",
+  "path": "src/lighteval/pipeline.py",
+  "file": "huggingface__lighteval__src_lighteval_pipeline.py",
+  "bytes": 18670
+ },
+ {
+  "repo": "huggingface/lighteval",
+  "path": "src/lighteval/main_vllm.py",
+  "file": "huggingface__lighteval__src_lighteval_main_vllm.py",
+  "bytes": 5192
+ },
+ {
+  "repo": "SWE-bench/SWE-bench",
+  "path": "swebench/cli/evaluate.py",
+  "file": "SWE-bench__SWE-bench__swebench_cli_evaluate.py",
+  "bytes": 4629
+ },
+ {
+  "repo": "SWE-bench/SWE-bench",
+  "path": "swebench/harness/grading.py",
+  "file": "SWE-bench__SWE-bench__swebench_harness_grading.py",
+  "bytes": 14142
+ },
+ {
+  "repo": "SWE-bench/SWE-bench",
+  "path": "swebench/harness/reporting.py",
+  "file": "SWE-bench__SWE-bench__swebench_harness_reporting.py",
+  "bytes": 6972
+ },
+ {
+  "repo": "UKGovernmentBEIS/inspect_ai",
+  "path": "examples/scorer.py",
+  "file": "UKGovernmentBEIS__inspect_ai__examples_scorer.py",
+  "bytes": 2815
+ },
+ {
+  "repo": "UKGovernmentBEIS/inspect_ai",
+  "path": "examples/evalset.py",
+  "file": "UKGovernmentBEIS__inspect_ai__examples_evalset.py",
+  "bytes": 2388
+ },
+ {
+  "repo": "UKGovernmentBEIS/inspect_ai",
+  "path": "docs/evals/llms.py",
+  "file": "UKGovernmentBEIS__inspect_ai__docs_evals_llms.py",
+  "bytes": 2676
+ },
+ {
+  "repo": "allenai/olmes",
+  "path": "oe_eval/launch.py",
+  "file": "allenai__olmes__oe_eval_launch.py",
+  "bytes": 14858
+ },
+ {
+  "repo": "allenai/olmes",
+  "path": "oe_eval/run_eval.py",
+  "file": "allenai__olmes__oe_eval_run_eval.py",
+  "bytes": 47256
+ },
+ {
+  "repo": "allenai/olmes",
+  "path": "oe_eval/default_configs.py",
+  "file": "allenai__olmes__oe_eval_default_configs.py",
+  "bytes": 1717
+ },
+ {
+  "repo": "stanford-crfm/helm",
+  "path": "scripts/heim_human_eval.py",
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "bytes": 13446
+ },
+ {
+  "repo": "stanford-crfm/helm",
+  "path": "scripts/offline_eval/import_results.py",
+  "file": "stanford-crfm__helm__scripts_offline_eval_import_results.py",
+  "bytes": 4262
+ },
+ {
+  "repo": "stanford-crfm/helm",
+  "path": "scripts/offline_eval/export_requests.py",
+  "file": "stanford-crfm__helm__scripts_offline_eval_export_requests.py",
+  "bytes": 7236
+ },
+ {
+  "repo": "google/BIG-bench",
+  "path": "bigbench/evaluate_task.py",
+  "file": "google__BIG-bench__bigbench_evaluate_task.py",
+  "bytes": 12934
+ },
+ {
+  "repo": "google/BIG-bench",
+  "path": "bigbench/api/task_metrics.py",
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "bytes": 19461
+ },
+ {
+  "repo": "google/BIG-bench",
+  "path": "scripts/docker/evaluate_task.py",
+  "file": "google__BIG-bench__scripts_docker_evaluate_task.py",
+  "bytes": 5119
+ }
+]

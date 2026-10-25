@@ -1,1 +1,81 @@
-IiIiZXhwMTM4IOKAlCByZW5kZXIgdGhyZWUtd2F5IHNwbGl0LCB3cml0ZSB0byAvZGV2L2ZiMCwgcmVhZCBiYWNrLCBPQ1IuIiIiCmltcG9ydCBvcywgaGFzaGxpYgpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpGQiA9ICIvZGV2L2ZiMCIKT1VUID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEzOF90cmlzcGxpdCIKCmRlZiBnZW9tKCk6CiAgICB2cyA9IG9wZW4oIi9zeXMvY2xhc3MvZ3JhcGhpY3MvZmIwL3ZpcnR1YWxfc2l6ZSIpLnJlYWQoKS5zdHJpcCgpCiAgICB3LCBoID0gKGludCh4KSBmb3IgeCBpbiB2cy5zcGxpdCgiLCIpKQogICAgYnBwID0gaW50KG9wZW4oIi9zeXMvY2xhc3MvZ3JhcGhpY3MvZmIwL2JpdHNfcGVyX3BpeGVsIikucmVhZCgpLnN0cmlwKCkpCiAgICByZXR1cm4gdywgaCwgYnBwCgpXLCBILCBCUFAgPSBnZW9tKCkKVE9LRU4gPSAiVDRLN1JOIiAgICAgICAgICAjIG5vIE8vMCwgbm8gMS9JLCBubyA4L0IsIG5vIDUvUwpQUk9CRVMgPSBbIjQvNCIsICIyLzYiLCAiNC82IiwgIjAuOTM4IiwgIjAuMDM0IiwgIjAuMDAwIiwKICAgICAgICAgICIxLjAwMCIsICIwLjA4MTk0IiwgIjAuMTAzNjgiLCAiMy81IiwgIjE1IiwgIjEzIl0KCmltZyA9IEltYWdlLm5ldygiUkdCIiwgKFcsIEgpLCAoMjU1LCAyNTUsIDI1NSkpCmQgPSBJbWFnZURyYXcuRHJhdyhpbWcpCnRyeToKICAgIGZfdCA9IEltYWdlRm9udC50cnVldHlwZSgiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIsIDMwKQogICAgZl9iID0gSW1hZ2VGb250LnRydWV0eXBlKCIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIiwgMjEpCiAgICBmX3MgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMiLCAxNykKZXhjZXB0IEV4Y2VwdGlvbjoKICAgIGZfdCA9IGZfYiA9IGZfcyA9IEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQoKeSA9IDE2CmQudGV4dCgoMzYsIHkpLCAiZXhwMTM4ICB0aHJlZS13YXkgc3BsaXQ6IGNvbXB1dGVyIC8gYWdlbnQgLyBzaWxpY29uIGxpZmUiLAogICAgICAgZm9udD1mX3QsIGZpbGw9KDAsIDAsIDApKTsgeSArPSA0NgpkLnRleHQoKDM2LCB5KSwgIlRPS0VOICIgKyBUT0tFTiwgZm9udD1mX2IsIGZpbGw9KDAsIDAsIDApKTsgeSArPSA0MgoKcm93cyA9IFsKICAgICgiTDEgY29tcHV0ZXIgLyBBSSIsICIxMyByZWFkaW5ncyIsICJwcmVjaXNpb24gMC45MzggLyAwLjAzNCIpLAogICAgKCJMMiBBZ2VudCIsICIxMyByZWFkaW5ncyIsICJjbG9zZWQgMS4wMDAgdnMgb3BlbiAwLjAwMCIpLAogICAgKCJMMyBzaWxpY29uIGxpZmUiLCAiMTUgcmVhZGluZ3MiLCAiZmcgMC4wMDAsIHdlYW4gMC8xMiIpLAogICAgKCJzZXBhcmF0b3IiLCAiIiwgIiIpLAogICAgKCJIMSBjcm9zcy1sYXllciBmbGlwIiwgIjQvNCIsICJzYW1lIG51bWJlciwgb3Bwb3NpdGUgdmVyZGljdCIpLAogICAgKCJIMWIgY29udHJvbDogbm90IGZsaXBwZWQiLCAiNC82IiwgImZyYW1ld29yayBpcyBmYWxzaWZpYWJsZSIpLAogICAgKCJIMWIgY29udHJvbDogZmxpcHBlZCIsICIyLzYiLCAiUEFTUyIpLAogICAgKCJIMiBsYXllciBtaXNtYXRjaCIsICIzLzUiLCAibXkgJ2ZhaWxlZCcgY2FsbHMgd2VyZSBtaXMtZ2F1Z2VkIiksCiAgICAoInNlcGFyYXRvciIsICIiLCAiIiksCiAgICAoInN5bnRheCBsYXllciBwcmVjaXNpb24iLCAiMC45MzgiLCAiTDEgdmVyZGljdDogc2hpcCIpLAogICAgKCJtZXRob2RvbG9neSBsYXllciIsICIwLjAzNCIsICJMMSB2ZXJkaWN0OiBraWxsIiksCiAgICAoImluZnVzaW9uIHN1cnZpdmFsIiwgIjEuMDAwIiwgIkwxOiBwZXJmZWN0IC8gTDM6IG1pcnJvciBzdGF0ZSIpLAogICAgKCJzZWxmLWZlZWRpbmcgZmciLCAiMC4wMDAiLCAiTDE6IHNjcmFwIC8gTDM6IGZlZWRzIG9uIG5lZ2VudHJvcHkiKSwKICAgICgiY29udGluZ2VudCBwcmFjdGljZSBmZyIsICIwLjEwMzY4IiwgInZzIG5vbi1jb250aW5nZW50IDAuMDAxNDkiKSwKICAgICgiaGlwcG9jYW1wdXMga25vY2tvdXQgZGV2IiwgIjAuMDgxOTQiLCAicmFuayAxIG9mIDMxIHN5c3RlbXMiKSwKICAgICgic2VwYXJhdG9yIiwgIiIsICIiKSwKICAgICgiVkVSRElDVCIsICIzIGRhdGFzZXRzLCAzIHJ1bGVycyIsICJkbyBub3QgbWl4IHRoZSBydWxlcnMiKSwKXQoKZm9yIGEsIGIsIGMgaW4gcm93czoKICAgIGlmIGEgPT0gInNlcGFyYXRvciI6CiAgICAgICAgeSArPSAxMAogICAgICAgIGNvbnRpbnVlCiAgICBkLnRleHQoKDM2LCB5KSwgYSwgZm9udD1mX3MsIGZpbGw9KDAsIDAsIDApKQogICAgZC50ZXh0KCgzMzAsIHkpLCBiLCBmb250PWZfcywgZmlsbD0oMCwgMCwgMCkpCiAgICBkLnRleHQoKDUyMCwgeSksIGMsIGZvbnQ9Zl9zLCBmaWxsPSgxMTAsIDExMCwgMTEwKSkKICAgIHkgKz0gMjUKCmltZy5zYXZlKG9zLnBhdGguam9pbihPVVQsICJyZW5kZXIxMzgucG5nIikpCgojIC0tLS0gd3JpdGUgdG8gcmVhbCBmcmFtZWJ1ZmZlciAoUkdCQSwgNCBieXRlcyBwZXIgcGl4ZWwpIC0tLS0KcmdiYSA9IGltZy5jb252ZXJ0KCJSR0JBIikudG9ieXRlcygpCndpdGggb3BlbihGQiwgIndiIikgYXMgZjoKICAgIGYud3JpdGUocmdiYSkKcHJpbnQoZiJbZmJdIHdyb3RlIHtsZW4ocmdiYSl9IGJ5dGVzIC0+IHtGQn0gKHtXfXh7SH14e0JQUH0pIikKcHJpbnQoZiJbc2hhXSByZW5kZXIge2hhc2hsaWIuc2hhMjU2KHJnYmEpLmhleGRpZ2VzdCgpWzoxNl19IikKCiMgLS0tLSByZWFkIGJhY2sgLS0tLQp3aXRoIG9wZW4oRkIsICJyYiIpIGFzIGY6CiAgICBjYXAgPSBmLnJlYWQobGVuKHJnYmEpKQpwcmludChmIltmYl0gcmVhZCAge2xlbihjYXApfSBieXRlcyIpCnByaW50KGYiW3NoYV0gY2FwdHVyZSB7aGFzaGxpYi5zaGEyNTYoY2FwKS5oZXhkaWdlc3QoKVs6MTZdfSIpCnByaW50KGYiW2NtcF0gaWRlbnRpY2FsID0ge2NhcCA9PSByZ2JhfSIpCgojIHNhdmUgY2FwdHVyZSBhcyBwbmcgZm9yIE9DUgpJbWFnZS5mcm9tYnl0ZXMoIlJHQkEiLCAoVywgSCksIGNhcCkuY29udmVydCgiUkdCIikuc2F2ZSgKICAgIG9zLnBhdGguam9pbihPVVQsICJjYXB0dXJlZC5wbmciKSkKcHJpbnQoIltva10gY2FwdHVyZWQucG5nIHNhdmVkIikK
+"""exp138 — render three-way split, write to /dev/fb0, read back, OCR."""
+import os, hashlib
+from PIL import Image, ImageDraw, ImageFont
+
+FB = "/dev/fb0"
+OUT = "/data/workspace/luoshen-o1/experiments/exp138_trisplit"
+
+def geom():
+    vs = open("/sys/class/graphics/fb0/virtual_size").read().strip()
+    w, h = (int(x) for x in vs.split(","))
+    bpp = int(open("/sys/class/graphics/fb0/bits_per_pixel").read().strip())
+    return w, h, bpp
+
+W, H, BPP = geom()
+TOKEN = "T4K7RN"          # no O/0, no 1/I, no 8/B, no 5/S
+PROBES = ["4/4", "2/6", "4/6", "0.938", "0.034", "0.000",
+          "1.000", "0.08194", "0.10368", "3/5", "15", "13"]
+
+img = Image.new("RGB", (W, H), (255, 255, 255))
+d = ImageDraw.Draw(img)
+try:
+    f_t = ImageFont.truetype("/usr/share/fonts/truetype/wqy/wqy-microhei.ttc", 30)
+    f_b = ImageFont.truetype("/usr/share/fonts/truetype/wqy/wqy-microhei.ttc", 21)
+    f_s = ImageFont.truetype("/usr/share/fonts/truetype/wqy/wqy-microhei.ttc", 17)
+except Exception:
+    f_t = f_b = f_s = ImageFont.load_default()
+
+y = 16
+d.text((36, y), "exp138  three-way split: computer / agent / silicon life",
+       font=f_t, fill=(0, 0, 0)); y += 46
+d.text((36, y), "TOKEN " + TOKEN, font=f_b, fill=(0, 0, 0)); y += 42
+
+rows = [
+    ("L1 computer / AI", "13 readings", "precision 0.938 / 0.034"),
+    ("L2 Agent", "13 readings", "closed 1.000 vs open 0.000"),
+    ("L3 silicon life", "15 readings", "fg 0.000, wean 0/12"),
+    ("separator", "", ""),
+    ("H1 cross-layer flip", "4/4", "same number, opposite verdict"),
+    ("H1b control: not flipped", "4/6", "framework is falsifiable"),
+    ("H1b control: flipped", "2/6", "PASS"),
+    ("H2 layer mismatch", "3/5", "my 'failed' calls were mis-gauged"),
+    ("separator", "", ""),
+    ("syntax layer precision", "0.938", "L1 verdict: ship"),
+    ("methodology layer", "0.034", "L1 verdict: kill"),
+    ("infusion survival", "1.000", "L1: perfect / L3: mirror state"),
+    ("self-feeding fg", "0.000", "L1: scrap / L3: feeds on negentropy"),
+    ("contingent practice fg", "0.10368", "vs non-contingent 0.00149"),
+    ("hippocampus knockout dev", "0.08194", "rank 1 of 31 systems"),
+    ("separator", "", ""),
+    ("VERDICT", "3 datasets, 3 rulers", "do not mix the rulers"),
+]
+
+for a, b, c in rows:
+    if a == "separator":
+        y += 10
+        continue
+    d.text((36, y), a, font=f_s, fill=(0, 0, 0))
+    d.text((330, y), b, font=f_s, fill=(0, 0, 0))
+    d.text((520, y), c, font=f_s, fill=(110, 110, 110))
+    y += 25
+
+img.save(os.path.join(OUT, "render138.png"))
+
+# ---- write to real framebuffer (RGBA, 4 bytes per pixel) ----
+rgba = img.convert("RGBA").tobytes()
+with open(FB, "wb") as f:
+    f.write(rgba)
+print(f"[fb] wrote {len(rgba)} bytes -> {FB} ({W}x{H}x{BPP})")
+print(f"[sha] render {hashlib.sha256(rgba).hexdigest()[:16]}")
+
+# ---- read back ----
+with open(FB, "rb") as f:
+    cap = f.read(len(rgba))
+print(f"[fb] read  {len(cap)} bytes")
+print(f"[sha] capture {hashlib.sha256(cap).hexdigest()[:16]}")
+print(f"[cmp] identical = {cap == rgba}")
+
+# save capture as png for OCR
+Image.frombytes("RGBA", (W, H), cap).convert("RGB").save(
+    os.path.join(OUT, "captured.png"))
+print("[ok] captured.png saved")

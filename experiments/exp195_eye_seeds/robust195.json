@@ -1,1 +1,50 @@
-WwogIHsKICAgICJ4IjogNSwKICAgICJkeW4iOiA5LjU3MzcsCiAgICAicmFuZF9tdSI6IDkuNjczNSwKICAgICJyYW5kX3NkIjogMC4wMjM4LAogICAgImdhaW4iOiAwLjA5OTgsCiAgICAieiI6IDQuMTkKICB9LAogIHsKICAgICJ4IjogMTAsCiAgICAiZHluIjogOS41MTU3LAogICAgInJhbmRfbXUiOiA5LjY0NCwKICAgICJyYW5kX3NkIjogMC4wMzMxLAogICAgImdhaW4iOiAwLjEyODMsCiAgICAieiI6IDMuODgKICB9LAogIHsKICAgICJ4IjogMjAsCiAgICAiZHluIjogOS40NDEzLAogICAgInJhbmRfbXUiOiA5LjU4NTksCiAgICAicmFuZF9zZCI6IDAuMDQzMiwKICAgICJnYWluIjogMC4xNDQ2LAogICAgInoiOiAzLjM1CiAgfSwKICB7CiAgICAieCI6IDMwLAogICAgImR5biI6IDkuMzU5LAogICAgInJhbmRfbXUiOiA5LjUyOTEsCiAgICAicmFuZF9zZCI6IDAuMDQ5MSwKICAgICJnYWluIjogMC4xNzAxLAogICAgInoiOiAzLjQ2CiAgfSwKICB7CiAgICAieCI6IDUwLAogICAgImR5biI6IDkuMzYwNiwKICAgICJyYW5kX211IjogOS40MTUsCiAgICAicmFuZF9zZCI6IDAuMDU1MywKICAgICJnYWluIjogMC4wNTQ0LAogICAgInoiOiAwLjk4CiAgfSwKICB7CiAgICAieCI6IDcwLAogICAgImR5biI6IDkuMTc5NywKICAgICJyYW5kX211IjogOS4yOTk2LAogICAgInJhbmRfc2QiOiAwLjA1LAogICAgImdhaW4iOiAwLjExOTksCiAgICAieiI6IDIuNAogIH0KXQ==
+[
+  {
+    "x": 5,
+    "dyn": 9.5737,
+    "rand_mu": 9.6735,
+    "rand_sd": 0.0238,
+    "gain": 0.0998,
+    "z": 4.19
+  },
+  {
+    "x": 10,
+    "dyn": 9.5157,
+    "rand_mu": 9.644,
+    "rand_sd": 0.0331,
+    "gain": 0.1283,
+    "z": 3.88
+  },
+  {
+    "x": 20,
+    "dyn": 9.4413,
+    "rand_mu": 9.5859,
+    "rand_sd": 0.0432,
+    "gain": 0.1446,
+    "z": 3.35
+  },
+  {
+    "x": 30,
+    "dyn": 9.359,
+    "rand_mu": 9.5291,
+    "rand_sd": 0.0491,
+    "gain": 0.1701,
+    "z": 3.46
+  },
+  {
+    "x": 50,
+    "dyn": 9.3606,
+    "rand_mu": 9.415,
+    "rand_sd": 0.0553,
+    "gain": 0.0544,
+    "z": 0.98
+  },
+  {
+    "x": 70,
+    "dyn": 9.1797,
+    "rand_mu": 9.2996,
+    "rand_sd": 0.05,
+    "gain": 0.1199,
+    "z": 2.4
+  }
+]

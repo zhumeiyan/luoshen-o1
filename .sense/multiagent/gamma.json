@@ -1,1 +1,9 @@
-ewogInJvbGUiOiAiZ2FtbWEiLAogInBpZCI6IDIzMDgsCiAicnVuX2lkIjogIjQzN2JlMzA4ZjI2MTQ3ZDIiLAogInZhbHVlIjogMTAsCiAicnVsZSI6ICLlj6rmlbAgJyMjIOKYhU4nIOW8gOWktOeahCIsCiAibW9kZSI6ICJob25lc3QiLAogInRyYWNlIjogIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xLy5zZW5zZS90cmFjZXMvNDM3YmUzMDhmMjYxNDdkMi5qc29ubCIKfQ==
+{
+ "role": "gamma",
+ "pid": 2308,
+ "run_id": "437be308f26147d2",
+ "value": 10,
+ "rule": "只数 '## ★N' 开头的",
+ "mode": "honest",
+ "trace": "/data/workspace/luoshen-o1/.sense/traces/437be308f26147d2.jsonl"
+}

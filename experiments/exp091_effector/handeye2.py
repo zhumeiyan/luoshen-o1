@@ -1,1 +1,78 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5omLIHZzIOecvCDlr7nnp7DmgKcgMngyICDigJTigJQgdjLvvJrkv67lpb3pgJrot68gKyDpmLPmgKflr7nnhafjgIIKdjEg5aSx6LSl5Y6f5Zug77yac2Vuc2Ug5Y+q57uPIGtfc2FsL2tfc2Vlay9rX3NlZWtfYXJyIOW9seWTjSB3YW5077yM5LiJ6ICF6buY6K6kIDAKICAgICAgICAgICAgPT4g5Zmq5aOw5qC55pys5rKh6L+b57O757uf77yI5Yik5o2u5qC456ysIDIzIOadoe+8jOacrOmhueebruesrCAxMiDmrKHvvInjgIIK5L+u5rOV77yaa19zZWVrPTAuNiDmiZPlvIAi5oSf55+lLT7nvLrlpLHmhJ8tPndhbnRbMF0i6YCa6Lev77yb5LiW55WM6Ieq5bim6IqC5b6L5L+d6K+BIHNlbnNlIOacieWPmOWMluOAggrnnLzlmaogc2lnbWFfaW7vvJrkuJbnlYzmsqHlj5jvvIzmiJHnnIvplJnkuobjgIIK5omL5ZmqIGVmZl9zaWdtYe+8muaIkeaUueWPmOS4lueVjO+8jOS9huaUueeahOmHj+S4jeWHhuOAggoiIiIKaW1wb3J0IHN5cywgb3MsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJy4uJywgJy4uJykpCnRyeToKICAgIGZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKZXhjZXB0IEltcG9ydEVycm9yOgogICAgc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nLCAnLi4nLCAnY29yZScpKQogICAgZnJvbSBsaWZlNSBpbXBvcnQgTGlmZTUKClNURVBTLCBQRVJJT0QgPSA2MDAsIDgwLjAKCmRlZiBydW4oc2VlZCwgZXllX25vaXNlLCBoYW5kX25vaXNlLCBrX3NlZWs9MC42LCBrX2FjdD0wLjA1LCBnYWluPTEuMCwgZGVjYXk9MC4wNSk6CiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCAqIDc5MTkgKyAxMykKICAgIGxpZmUgPSBMaWZlNShzZWVkPXNlZWQsIHNpZ21hX2luPWV5ZV9ub2lzZSwga19zZWVrPWtfc2VlaykKICAgIGFjdF9jdW0gPSAwLjAKICAgIGZvciB0IGluIHJhbmdlKFNURVBTKToKICAgICAgICB3b3JsZCA9IDAuNSArIDAuMyAqIG5wLnNpbigyICogbnAucGkgKiB0IC8gUEVSSU9EKSAgICMg5LiW55WM6Ieq5Li76IqC5b6LCiAgICAgICAgbGlmZS5pbnB1dF92YWwgPSB3b3JsZCArIGFjdF9jdW0gICAgICAgICAgICAgICAgICAgICAgIyDmiYvmlLnlj5jkuobkuJbnlYwKICAgICAgICBsaWZlLnN0ZXAoKQogICAgICAgIGlmIG5vdCBsaWZlLmFsaXZlOgogICAgICAgICAgICBicmVhawogICAgICAgIHRlbnNpb24gPSBmbG9hdChsaWZlLnNwWzBdIC0gbGlmZS55WzBdKQogICAgICAgIGEgPSBmbG9hdChucC5jbGlwKGtfYWN0ICogdGVuc2lvbiwgMC4wLCAwLjEwKSkKICAgICAgICBhX2VmZiA9IGEgKiAoMS4wICsgaGFuZF9ub2lzZSAqIHJuZy5ub3JtYWwoKSkgaWYgaGFuZF9ub2lzZSA+IDAgZWxzZSBhCiAgICAgICAgYWN0X2N1bSA9IGFjdF9jdW0gKyBnYWluICogYV9lZmYgLSBkZWNheSAqIGFjdF9jdW0KICAgICAgICBhY3RfY3VtID0gZmxvYXQobnAuY2xpcChhY3RfY3VtLCAtMC41LCAwLjUpKQogICAgY2FwID0gbGlmZS5jYXBhY2l0eQogICAgcmV0dXJuIGRpY3Qoc2VlZD1pbnQoc2VlZCksIGFsaXZlPWJvb2wobGlmZS5hbGl2ZSksIGRlYXRoX3Q9bGlmZS5kZWF0aF90LAogICAgICAgICAgICAgICAgc2tldz1mbG9hdChucC5zdGQoY2FwKSAvIG1heChucC5tZWFuKGNhcCksIDFlLTEyKSksCiAgICAgICAgICAgICAgICBhY3RfZmluYWw9ZmxvYXQoYWN0X2N1bSkpCgpkZWYgY2VsbChleWUsIGhhbmQsIG49MTYpOgogICAgcnMgPSBbcnVuKHMsIGV5ZSwgaGFuZCkgZm9yIHMgaW4gcmFuZ2UobildCiAgICBzayA9IG5wLmFycmF5KFtyWydza2V3J10gZm9yIHIgaW4gcnNdKQogICAgcmV0dXJuIGRpY3QoZXllPWV5ZSwgaGFuZD1oYW5kLCBuPW4sIHNrZXc9ZmxvYXQoc2subWVhbigpKSwKICAgICAgICAgICAgICAgIHNrZXdfc2Q9ZmxvYXQoc2suc3RkKCkpLAogICAgICAgICAgICAgICAgYWxpdmVfcmF0ZT1mbG9hdChucC5tZWFuKFtyWydhbGl2ZSddIGZvciByIGluIHJzXSkpLAogICAgICAgICAgICAgICAgc2tld3M9W2Zsb2F0KHgpIGZvciB4IGluIHNrXSkKCmRlZiBwYWlyZWQoYSwgYiwgbmI9NDAwMCk6CiAgICBkID0gbnAuYXJyYXkoYSkgLSBucC5hcnJheShiKTsgbiA9IGxlbihkKQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCiAgICBicyA9IG5wLmFycmF5KFtucC5tZWFuKHJuZy5jaG9pY2UoZCwgbiwgVHJ1ZSkpIGZvciBfIGluIHJhbmdlKG5iKV0pCiAgICBsbywgaGkgPSBmbG9hdChucC5wZXJjZW50aWxlKGJzLCAyLjUpKSwgZmxvYXQobnAucGVyY2VudGlsZShicywgOTcuNSkpCiAgICByZXR1cm4gZGljdChkaWZmPWZsb2F0KGQubWVhbigpKSwgY2k9W2xvLCBoaV0sIHNpZz1ib29sKChsbyA+IDApID09IChoaSA+IDApKSkKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBwcmludCgnPT09IOmYs+aAp+WvueeFp++8mumAmui3r+aYr+WQpuecn+eahOaOpemAmu+8iOS7u+S4gOadoeaXoOaViOW6lOWNs+S9nOW6n++8iT09PScpCiAgICBwb3NfZXllID0gcGFpcmVkKGNlbGwoMC4zMCwgMC4wKVsnc2tld3MnXSwgY2VsbCgwLjAsIDAuMClbJ3NrZXdzJ10pCiAgICBwb3NfaGFuZCA9IHBhaXJlZChjZWxsKDAuMCwgMC4zMClbJ3NrZXdzJ10sIGNlbGwoMC4wLCAwLjApWydza2V3cyddKQogICAgcHJpbnQoZiIgIOecvOWZquWNleeLrDoge3Bvc19leWVbJ2RpZmYnXTorLjZmfSBDST17W3JvdW5kKHgsNSkgZm9yIHggaW4gcG9zX2V5ZVsnY2knXV19IOaYvuiRlz17cG9zX2V5ZVsnc2lnJ119IikKICAgIHByaW50KGYiICDmiYvlmarljZXni6w6IHtwb3NfaGFuZFsnZGlmZiddOisuNmZ9IENJPXtbcm91bmQoeCw1KSBmb3IgeCBpbiBwb3NfaGFuZFsnY2knXV19IOaYvuiRlz17cG9zX2hhbmRbJ3NpZyddfSIpCiAgICBpZiBub3QgKHBvc19leWVbJ3NpZyddIG9yIHBvc19oYW5kWydzaWcnXSk6CiAgICAgICAgcHJpbnQoJyAgISEg5Lik5p2h6YCa6Lev6YO95pyq5o6l6YCa77yM5a6e6aqM5L2c5bqfJyk7IHN5cy5leGl0KDEpCgogICAgY2VsbHMgPSB7fQogICAgZm9yIGV5ZSBpbiAoMC4wLCAwLjMwKToKICAgICAgICBmb3IgaGFuZCBpbiAoMC4wLCAwLjMwKToKICAgICAgICAgICAgYyA9IGNlbGwoZXllLCBoYW5kKTsgY2VsbHNbZidle2V5ZX1faHtoYW5kfSddID0gYwogICAgICAgICAgICBwcmludChmIiAgZXllPXtleWU6PDV9IGhhbmQ9e2hhbmQ6PDV9IHNrZXc9e2NbJ3NrZXcnXTouNmZ9ICIKICAgICAgICAgICAgICAgICAgZiIoc2Qge2NbJ3NrZXdfc2QnXTouNGZ9KSDlrZjmtLs9e2NbJ2FsaXZlX3JhdGUnXTouM2Z9IikKICAgIGJhc2UgPSBjZWxsc1snZTAuMF9oMC4wJ11bJ3NrZXdzJ10KICAgIHByaW50KCdcbj09PSDphY3lr7nlt64gdnMg5Z+657q/ID09PScpCiAgICBmb3IgaywgYyBpbiBjZWxscy5pdGVtcygpOgogICAgICAgIGlmIGsgPT0gJ2UwLjBfaDAuMCc6IGNvbnRpbnVlCiAgICAgICAgciA9IHBhaXJlZChjWydza2V3cyddLCBiYXNlKQogICAgICAgIHByaW50KGYiICB7azoxMnN9IHtyWydkaWZmJ106Ky42Zn0gQ0k9W3tyWydjaSddWzBdOisuNmZ9LHtyWydjaSddWzFdOisuNmZ9XSAiCiAgICAgICAgICAgICAgZiJ7J+aYvuiRlycgaWYgclsnc2lnJ10gZWxzZSAn6LeoMCd9IikKICAgIGpzb24uZHVtcChkaWN0KGNlbGxzPWNlbGxzLCBwb3NfZXllPXBvc19leWUsIHBvc19oYW5kPXBvc19oYW5kKSwKICAgICAgICAgICAgICBvcGVuKCdoYW5kZXllMi5qc29uJywgJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+# -*- coding: utf-8 -*-
+"""手 vs 眼 对称性 2x2  —— v2：修好通路 + 阳性对照。
+v1 失败原因：sense 只经 k_sal/k_seek/k_seek_arr 影响 want，三者默认 0
+            => 噪声根本没进系统（判据核第 23 条，本项目第 12 次）。
+修法：k_seek=0.6 打开"感知->缺失感->want[0]"通路；世界自带节律保证 sense 有变化。
+眼噪 sigma_in：世界没变，我看错了。
+手噪 eff_sigma：我改变世界，但改的量不准。
+"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+try:
+    from core.life5 import Life5
+except ImportError:
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'core'))
+    from life5 import Life5
+
+STEPS, PERIOD = 600, 80.0
+
+def run(seed, eye_noise, hand_noise, k_seek=0.6, k_act=0.05, gain=1.0, decay=0.05):
+    rng = np.random.default_rng(seed * 7919 + 13)
+    life = Life5(seed=seed, sigma_in=eye_noise, k_seek=k_seek)
+    act_cum = 0.0
+    for t in range(STEPS):
+        world = 0.5 + 0.3 * np.sin(2 * np.pi * t / PERIOD)   # 世界自主节律
+        life.input_val = world + act_cum                      # 手改变了世界
+        life.step()
+        if not life.alive:
+            break
+        tension = float(life.sp[0] - life.y[0])
+        a = float(np.clip(k_act * tension, 0.0, 0.10))
+        a_eff = a * (1.0 + hand_noise * rng.normal()) if hand_noise > 0 else a
+        act_cum = act_cum + gain * a_eff - decay * act_cum
+        act_cum = float(np.clip(act_cum, -0.5, 0.5))
+    cap = life.capacity
+    return dict(seed=int(seed), alive=bool(life.alive), death_t=life.death_t,
+                skew=float(np.std(cap) / max(np.mean(cap), 1e-12)),
+                act_final=float(act_cum))
+
+def cell(eye, hand, n=16):
+    rs = [run(s, eye, hand) for s in range(n)]
+    sk = np.array([r['skew'] for r in rs])
+    return dict(eye=eye, hand=hand, n=n, skew=float(sk.mean()),
+                skew_sd=float(sk.std()),
+                alive_rate=float(np.mean([r['alive'] for r in rs])),
+                skews=[float(x) for x in sk])
+
+def paired(a, b, nb=4000):
+    d = np.array(a) - np.array(b); n = len(d)
+    rng = np.random.default_rng(0)
+    bs = np.array([np.mean(rng.choice(d, n, True)) for _ in range(nb)])
+    lo, hi = float(np.percentile(bs, 2.5)), float(np.percentile(bs, 97.5))
+    return dict(diff=float(d.mean()), ci=[lo, hi], sig=bool((lo > 0) == (hi > 0)))
+
+if __name__ == '__main__':
+    print('=== 阳性对照：通路是否真的接通（任一条无效应即作废）===')
+    pos_eye = paired(cell(0.30, 0.0)['skews'], cell(0.0, 0.0)['skews'])
+    pos_hand = paired(cell(0.0, 0.30)['skews'], cell(0.0, 0.0)['skews'])
+    print(f"  眼噪单独: {pos_eye['diff']:+.6f} CI={[round(x,5) for x in pos_eye['ci']]} 显著={pos_eye['sig']}")
+    print(f"  手噪单独: {pos_hand['diff']:+.6f} CI={[round(x,5) for x in pos_hand['ci']]} 显著={pos_hand['sig']}")
+    if not (pos_eye['sig'] or pos_hand['sig']):
+        print('  !! 两条通路都未接通，实验作废'); sys.exit(1)
+
+    cells = {}
+    for eye in (0.0, 0.30):
+        for hand in (0.0, 0.30):
+            c = cell(eye, hand); cells[f'e{eye}_h{hand}'] = c
+            print(f"  eye={eye:<5} hand={hand:<5} skew={c['skew']:.6f} "
+                  f"(sd {c['skew_sd']:.4f}) 存活={c['alive_rate']:.3f}")
+    base = cells['e0.0_h0.0']['skews']
+    print('\n=== 配对差 vs 基线 ===')
+    for k, c in cells.items():
+        if k == 'e0.0_h0.0': continue
+        r = paired(c['skews'], base)
+        print(f"  {k:12s} {r['diff']:+.6f} CI=[{r['ci'][0]:+.6f},{r['ci'][1]:+.6f}] "
+              f"{'显著' if r['sig'] else '跨0'}")
+    json.dump(dict(cells=cells, pos_eye=pos_eye, pos_hand=pos_hand),
+              open('handeye2.json', 'w'), ensure_ascii=False, indent=1)

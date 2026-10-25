@@ -1,1 +1,35 @@
-IiIiMTE2YyDCtyDliYLph4/miavmj4/vvJror4HmmI4gY2FwYWNpdHkg5YGP5bqm6L+Z5p2h5oyH5qCH5a+55aSW6YOo6L6T5YWl5Yiw5bqV5pWP5LiN5pWP5oSfIiIiCmltcG9ydCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gc2NpcHkgaW1wb3J0IHN0YXRzCnN5cy5wYXRoLmluc2VydCgwLCAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CgpTVEVQUywgTiwgU0VFRFMgPSA0MDAsIDgsIGxpc3QocmFuZ2UoOCkpCgpkZWYgcnVuKHYsIHNlZWQpOgogICAgbCA9IExpZmU1KE49Tiwgc2VlZD1zZWVkLCByYXRpbz0wLjYsIGtfc2FsPTAuNCkKICAgIGZvciB0IGluIHJhbmdlKFNURVBTKToKICAgICAgICBpZiBub3QgbC5hbGl2ZTogYnJlYWsKICAgICAgICBsLmlucHV0X3ZhbCA9IHYKICAgICAgICBsLnN0ZXAoKQogICAgY2FwID0gbnAuYXNhcnJheShsLmNhcGFjaXR5KTsgc3AgPSBucC5hc2FycmF5KGwuc3ApCiAgICByZXR1cm4gKGZsb2F0KHN0YXRzLnNrZXcoY2FwKSkgaWYgY2FwLnN0ZCgpID4gMCBlbHNlIDAuMCwKICAgICAgICAgICAgZmxvYXQoY2FwLnN0ZCgpKSwgZmxvYXQoc3Auc3RkKCkpLCBib29sKGwuYWxpdmUpKQoKc2NhbiA9IHt9CmZvciB2IGluIFswLjAsIDAuNSwgMS4wLCAyLjAsIDQuMF06CiAgICBycyA9IFtydW4odiwgcykgZm9yIHMgaW4gU0VFRFNdCiAgICBzY2FuW3N0cih2KV0gPSBkaWN0KHNrZXc9ZmxvYXQobnAubWVhbihbclswXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgICAgICAgICAgY2FwX3N0ZD1mbG9hdChucC5tZWFuKFtyWzFdIGZvciByIGluIHJzXSkpLAogICAgICAgICAgICAgICAgICAgICAgICBzcF9zdGQ9ZmxvYXQobnAubWVhbihbclsyXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgICAgICAgICAgbl9hbGl2ZT1zdW0oclszXSBmb3IgciBpbiBycykpCnNrID0gW3NjYW5ba11bInNrZXciXSBmb3IgayBpbiBzY2FuXQpzcCA9IFtzY2FuW2tdWyJzcF9zdGQiXSBmb3IgayBpbiBzY2FuXQpjcyA9IFtzY2FuW2tdWyJjYXBfc3RkIl0gZm9yIGsgaW4gc2Nhbl0Kb3V0ID0gZGljdChzY2FuPXNjYW4sCiAgICAgICAgICAgc2tld19yYW5nZT1mbG9hdChtYXgoc2spIC0gbWluKHNrKSksCiAgICAgICAgICAgc3Bfc3RkX3JhbmdlPWZsb2F0KG1heChzcCkgLSBtaW4oc3ApKSwKICAgICAgICAgICBjYXBfc3RkX3JhbmdlPWZsb2F0KG1heChjcykgLSBtaW4oY3MpKSkKcHJpbnQoanNvbi5kdW1wcyhvdXQsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpKQpqc29uLmR1bXAob3V0LCBvcGVuKCJyZXMxMTZjX2Rvc2UuanNvbiIsICJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+"""116c · 剂量扫描：证明 capacity 偏度这条指标对外部输入到底敏不敏感"""
+import sys, json
+import numpy as np
+from scipy import stats
+sys.path.insert(0, "/data/workspace/luoshen-o1")
+from core.life5 import Life5
+
+STEPS, N, SEEDS = 400, 8, list(range(8))
+
+def run(v, seed):
+    l = Life5(N=N, seed=seed, ratio=0.6, k_sal=0.4)
+    for t in range(STEPS):
+        if not l.alive: break
+        l.input_val = v
+        l.step()
+    cap = np.asarray(l.capacity); sp = np.asarray(l.sp)
+    return (float(stats.skew(cap)) if cap.std() > 0 else 0.0,
+            float(cap.std()), float(sp.std()), bool(l.alive))
+
+scan = {}
+for v in [0.0, 0.5, 1.0, 2.0, 4.0]:
+    rs = [run(v, s) for s in SEEDS]
+    scan[str(v)] = dict(skew=float(np.mean([r[0] for r in rs])),
+                        cap_std=float(np.mean([r[1] for r in rs])),
+                        sp_std=float(np.mean([r[2] for r in rs])),
+                        n_alive=sum(r[3] for r in rs))
+sk = [scan[k]["skew"] for k in scan]
+sp = [scan[k]["sp_std"] for k in scan]
+cs = [scan[k]["cap_std"] for k in scan]
+out = dict(scan=scan,
+           skew_range=float(max(sk) - min(sk)),
+           sp_std_range=float(max(sp) - min(sp)),
+           cap_std_range=float(max(cs) - min(cs)))
+print(json.dumps(out, ensure_ascii=False, indent=1))
+json.dump(out, open("res116c_dose.json", "w"), ensure_ascii=False, indent=1)

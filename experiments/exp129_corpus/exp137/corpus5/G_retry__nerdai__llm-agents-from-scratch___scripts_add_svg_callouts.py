@@ -1,1 +1,344 @@
-IiIiT3ZlcmxheSBhbm5vdGF0aW9uIGNhbGxvdXRzIG9udG8gYSByZW5kZXJlZCBQbGFudFVNTCBjbGFzcyBkaWFncmFtLgoKQSBjYWxsb3V0IGlzIGEgc21hbGwgZGFzaGVkIGJveCAoImNsYXNzIG1ldGhvZCIsICJlbnVtIiwgLi4uKSBqb2luZWQgdG8KdGhlIHRoaW5nIGl0IGxhYmVscyBieSBhIGRhc2hlZCBlbGJvdyBsZWFkZXIgbGluZSwgaW4gdGhlIHN0eWxlIG9mCk1hbm5pbmcgZmlndXJlIGFubm90YXRpb25zLiBQbGFudFVNTCdzIG93biBgbm90ZWAgY2Fubm90IGRvIHRoaXMgd2VsbDoKYSBub3RlIG9uIGEgY2xhc3MgbWVtYmVyIGRyYXdzIGEgd2VkZ2UgY29ubmVjdG9yLCBhIG5vdGUgb24gYSBsaW5rCmNhbm5vdCBwb2ludCBhdCB0aGUgbGluaydzIGRpYW1vbmQsIGFuZCB0aGUgbGF5b3V0IGVuZ2luZSBjZW50cmVzIGEKbm90ZSBiZXNpZGUgYSB0YWxsIGNsYXNzIGluc3RlYWQgb2YgYmVzaWRlIHRoZSBtZW1iZXIgaXQgaXMgYWJvdXQuClRoaXMgZHJhd3MgdGhlIGNhbGxvdXRzIGRpcmVjdGx5IGFzIFNWRyBvbiB0b3Agb2YgdGhlIGZpbmlzaGVkIHJlbmRlcgppbnN0ZWFkLCBkcml2ZW4gYnkgYSBzaWRlY2FyIFlBTUwgZmlsZSBuZXh0IHRvIHRoZSBgLnB1bWxgIHNvdXJjZSwgdGhlCnNhbWUgd2F5IGBhZGRfc3ZnX2xlZ2VuZC5weWAgZHJhd3MgbGVnZW5kcy4KClNpZGVjYXIgZmlsZSBuYW1pbmc6IGA8ZGlhZ3JhbT4uY2FsbG91dHMueWFtbGAgbmV4dCB0byBgPGRpYWdyYW0+LnB1bWxgLAplLmcuIGB1bWwvY2gwMy9sbG1fY2xhc3MuY2FsbG91dHMueWFtbGAgZm9yIGB1bWwvY2gwMy9sbG1fY2xhc3MucHVtbGAuCkZvcm1hdDoKCiAgICBjYWxsb3V0czoKICAgICAgLSB0ZXh0OiBjbGFzcyBtZXRob2QKICAgICAgICBhbmNob3I6IHt0ZXh0OiBmcm9tX3Rvb2xfY2FsbF9yZXN1bHR9CiAgICAgICAgc2lkZTogYm90dG9tCiAgICAgICAgYXQ6IDAuMTUKICAgICAgICBib3g6IFstMjAwLCA0NTBdCiAgICAgIC0gdGV4dDogY29tcG9zaXRpb24KICAgICAgICBhbmNob3I6IHtsaW5rOiBjb21wb3NpdGlvbn0KICAgICAgICBib3g6IFswLCA1MjBdCiAgICAgIC0gdGV4dDogZW51bQogICAgICAgIGFuY2hvcjoge2VudGl0eTogQ2hhdFJvbGV9CiAgICAgICAgc2lkZTogYm90dG9tCiAgICAgICAgYm94OiBbMjYwLCAzMDBdCgpgYW5jaG9yYCBwaWNrcyB3aGF0IHRoZSBsZWFkZXIgc3RhcnRzIGZyb206CgotIGB7dGV4dDogPHN1YnN0cmluZz59YDogdGhlIGZpcnN0IGA8dGV4dD5gIGVsZW1lbnQgY29udGFpbmluZyB0aGUKICBzdWJzdHJpbmcsIGUuZy4gYSBtZW1iZXIncyBuYW1lLiBJdHMgYm94IGlzIHRoZSB0ZXh0J3MgZXh0ZW50LiBBZGQKICBgbnRoOiAyYCAoMS1iYXNlZCkgdG8gcGljayBhIGxhdGVyIG1hdGNoLCBlLmcuIGEgY29uc3RydWN0b3IKICBwYXJhbWV0ZXIgdGhhdCByZXBlYXRzIGFuIGF0dHJpYnV0ZS4KLSBge2VudGl0eTogPG5hbWU+fWA6IHRoZSBjbGFzcyAob3IgZW51bSwgLi4uKSB3aG9zZSBxdWFsaWZpZWQgbmFtZSBlbmRzCiAgd2l0aCBgLjxuYW1lPmAsIG9yIGVxdWFscyBpdC4gSXRzIGJveCBpcyB0aGUgY2xhc3MncyBvdXRsaW5lLgotIGB7bGluazogPHR5cGU+fWA6IHRoZSBmaXJzdCBsaW5rIG9mIHRoYXQgUGxhbnRVTUwgdHlwZSAoYGNvbXBvc2l0aW9uYCwKICBgYWdncmVnYXRpb25gLCAuLi4pLiBUaGUgYW5jaG9yIHBvaW50IGlzIHRoZSBjZW50cmUgb2YgaXRzIGRpYW1vbmQuCgpGb3IgdGV4dCBhbmQgZW50aXR5IGFuY2hvcnMsIGBzaWRlYCAoYHRvcGAsIGBib3R0b21gLCBgbGVmdGAsIGByaWdodGA7CmRlZmF1bHQgYGJvdHRvbWApIHBpY2tzIHRoZSBlZGdlIHRoZSBsZWFkZXIgbGVhdmVzIGZyb20sIGFuZCBgYXRgICgwIHRvCjEsIGRlZmF1bHQgMC41KSBob3cgZmFyIGFsb25nIHRoYXQgZWRnZS4gYGJveGAgaXMgdGhlIGNhbGxvdXQgYm94J3MKY2VudHJlLCBhcyBhbiBgW2R4LCBkeV1gIG9mZnNldCBmcm9tIHRoZSBhbmNob3IgcG9pbnQgaW4gU1ZHIHVzZXIgdW5pdHMKKHRoZSByYXcgUGxhbnRVTUwgY2FudmFzLCA1MDAgZHBpKS4gVGhlIGxlYWRlciBydW5zIGFsb25nIHRoZSBzaWRlJ3MKYXhpcyBmaXJzdCwgdGhlbiB0dXJucyBvbmNlIGludG8gdGhlIG5lYXJlciBlZGdlIG9mIHRoZSBib3gsIG9yIHJ1bnMKc3RyYWlnaHQgaW4gd2hlbiB0aGUgYm94IGlzIGxpbmVkIHVwIHdpdGggdGhlIGFuY2hvci4KCmB0ZXh0YCBtYXkgc3BhbiBsaW5lczogd3JpdGUgaXQgYXMgYSBZQU1MIGxpc3Qgb2YgbGluZXMuCgpgYWxzb2AgbGlzdHMgZXh0cmEgYW5jaG9ycyAoZWFjaCB3aXRoIGl0cyBvd24gYGFuY2hvcmAsIGBzaWRlYAphbmQgYGF0YCkgdGhhdCBnZXQgdGhlaXIgb3duIGxlYWRlciBpbnRvIHRoZSBzYW1lIGJveCwgZS5nLiBhbgphdHRyaWJ1dGUgYW5kIHRoZSBjb25zdHJ1Y3RvciBwYXJhbWV0ZXIgdGhhdCBzZXRzIGl0LiBUaGUgYm94IGlzIHN0aWxsCnBsYWNlZCByZWxhdGl2ZSB0byB0aGUgZmlyc3QgYW5jaG9yLgoKQm94ZXMgdGhhdCBleHRlbmQgcGFzdCB0aGUgY2FudmFzIGdyb3cgaXQsIHNvIGEgY2FsbG91dCBpcyBuZXZlcgpjbGlwcGVkOiByaWdodC9kb3duIGJ5IGVubGFyZ2luZyB0aGUgdmlld0JveCwgbGVmdC91cCBieSBhbHNvIHNoaWZ0aW5nCnRoZSBkaWFncmFtIGFuZCBjYWxsb3V0cyBvdmVyIGluc2lkZSBhIG5lc3RlZCBncm91cC4KYHNldF9zdmdfcHJpbnRfc2l6ZS5weWAsIHdoaWNoIHJ1bnMgbGF0ZXIsIHNjYWxlcyB0aGUgZ3Jvd24gY2FudmFzIGxpa2UKYW55IG90aGVyLgoiIiIKCmltcG9ydCByZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgTmFtZWRUdXBsZQoKaW1wb3J0IGZpcmUKaW1wb3J0IHlhbWwKCkZPTlRfRkFNSUxZID0gIlRpbWVzIiAgIyBib29rLWNsZWFuJ3MgQU5OT19GT05ULCB1c2VkIGZvciBpdHMgbm90ZXMKRk9OVF9TSVpFID0gODMuMzMzMyAgIyBib29rLWNsZWFuJ3MgMTZwdCBOb3RlRm9udFNpemUgQCA1MDBkcGkKQ0hBUl9XSURUSCA9IDAuNSAqIEZPTlRfU0laRSAgIyBUaW1lcyBhdmVyYWdlcyB+MC41ZW0sIHNvIGJveGVzIGZpdApMSU5FX0hFSUdIVCA9IDEuMTUgKiBGT05UX1NJWkUKUEFERElOR19YID0gNDUuMApQQURESU5HX1kgPSAzMC4wClNUUk9LRSA9ICJzdHJva2U6IzMzMzMzMztzdHJva2Utd2lkdGg6NS4yMDgzO3N0cm9rZS1kYXNoYXJyYXk6MjYsMTg7IgpGSUxMID0gIiNGRkZGQ0MiCkNBTlZBU19NQVJHSU4gPSA0MC4wClNUUkFJR0hUX1RPTEVSQU5DRSA9IDEuMCAgIyB3aXRoaW4gdGhpcywgdGhlIGJveCBjb3VudHMgYXMgbGluZWQgdXAKClNUQVJUVU1MX05BTUUgPSByZS5jb21waWxlKHIiQHN0YXJ0dW1sXHMrKFxTKykiKQpWSUVXQk9YID0gcmUuY29tcGlsZShyJ3ZpZXdCb3g9IjAgMCAoW1xkLl0rKSAoW1xkLl0rKSInKQpTVkdfQ0xPU0UgPSByZS5jb21waWxlKHIiPC9nPjwvc3ZnPiIpCkNPTlRFTlRfR1JPVVAgPSByZS5jb21waWxlKHIiKDxcP3BsYW50dW1sW14+XSpcPz48ZGVmcy8+KTxnPiIpClRFWFQgPSByZS5jb21waWxlKHIiPHRleHRcYihbXj5dKik+KFtePF0qKTwvdGV4dD4iKQpBVFRSID0gcmUuY29tcGlsZShyJyhbXHctXSspPSIoW14iXSopIicpCkdST1VQID0gcmUuY29tcGlsZShyJzxnIGNsYXNzPSIoZW50aXR5fGxpbmspIihbXj5dKik+KC4qPyk8L2c+JywgcmUuUykKUkVDVCA9IHJlLmNvbXBpbGUociI8cmVjdFxiKFtePl0qKS8/PiIpClBPTFlHT04gPSByZS5jb21waWxlKHInPHBvbHlnb25cYltePl0qcG9pbnRzPSIoW14iXSopIicpCkVOVElUSUVTID0gewogICAgIiZsdDsiOiAiPCIsCiAgICAiJmd0OyI6ICI+IiwKICAgICImYW1wOyI6ICImIiwKICAgICImIzE3MTsiOiAiwqsiLAogICAgIiYjMTg3OyI6ICLCuyIsCn0KCgpjbGFzcyBCb3goTmFtZWRUdXBsZSk6CiAgICAiIiJBbiBheGlzLWFsaWduZWQgYm94IGluIFNWRyB1c2VyIHVuaXRzLiIiIgoKICAgIGxlZnQ6IGZsb2F0CiAgICB0b3A6IGZsb2F0CiAgICByaWdodDogZmxvYXQKICAgIGJvdHRvbTogZmxvYXQKCgpkZWYgX2F0dHJzKHJhdzogc3RyKSAtPiBkaWN0W3N0ciwgc3RyXToKICAgIHJldHVybiBkaWN0KEFUVFIuZmluZGFsbChyYXcpKQoKCmRlZiBfdW5lc2NhcGUodGV4dDogc3RyKSAtPiBzdHI6CiAgICBmb3IgZW50aXR5LCBjaGFyIGluIEVOVElUSUVTLml0ZW1zKCk6CiAgICAgICAgdGV4dCA9IHRleHQucmVwbGFjZShlbnRpdHksIGNoYXIpCiAgICByZXR1cm4gdGV4dAoKCmRlZiBfdGV4dF9ib3goY29udGVudDogc3RyLCBuZWVkbGU6IHN0ciwgbnRoOiBpbnQgPSAxKSAtPiBCb3g6CiAgICBzZWVuID0gMAogICAgZm9yIHJhd19hdHRycywgcmF3X3RleHQgaW4gVEVYVC5maW5kYWxsKGNvbnRlbnQpOgogICAgICAgIGlmIG5lZWRsZSBub3QgaW4gX3VuZXNjYXBlKHJhd190ZXh0KToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzZWVuICs9IDEKICAgICAgICBpZiBzZWVuIDwgbnRoOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGEgPSBfYXR0cnMocmF3X2F0dHJzKQogICAgICAgIHgsIHkgPSBmbG9hdChhWyJ4Il0pLCBmbG9hdChhWyJ5Il0pCiAgICAgICAgc2l6ZSA9IGZsb2F0KGEuZ2V0KCJmb250LXNpemUiLCBGT05UX1NJWkUpKQogICAgICAgIHdpZHRoID0gZmxvYXQoYS5nZXQoInRleHRMZW5ndGgiLCBsZW4ocmF3X3RleHQpICogc2l6ZSAqIDAuNSkpCiAgICAgICAgcmV0dXJuIEJveCh4LCB5IC0gMC44ICogc2l6ZSwgeCArIHdpZHRoLCB5ICsgMC4yICogc2l6ZSkKICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJubyBtYXRjaCB7bnRofSBmb3IgPHRleHQ+IGNvbnRhaW5pbmcge25lZWRsZSFyfSIpCgoKZGVmIF9lbnRpdHlfYm94KGNvbnRlbnQ6IHN0ciwgbmFtZTogc3RyKSAtPiBCb3g6CiAgICBmb3Iga2luZCwgcmF3X2F0dHJzLCBib2R5IGluIEdST1VQLmZpbmRhbGwoY29udGVudCk6CiAgICAgICAgaWYga2luZCAhPSAiZW50aXR5IjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBxdWFsaWZpZWQgPSBfYXR0cnMocmF3X2F0dHJzKS5nZXQoImRhdGEtcXVhbGlmaWVkLW5hbWUiLCAiIikKICAgICAgICBpZiBxdWFsaWZpZWQgIT0gbmFtZSBhbmQgbm90IHF1YWxpZmllZC5lbmRzd2l0aChmIi57bmFtZX0iKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICByZWN0ID0gUkVDVC5zZWFyY2goYm9keSkKICAgICAgICBpZiByZWN0IGlzIE5vbmU6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgYSA9IF9hdHRycyhyZWN0Lmdyb3VwKDEpKQogICAgICAgIHgsIHkgPSBmbG9hdChhWyJ4Il0pLCBmbG9hdChhWyJ5Il0pCiAgICAgICAgcmV0dXJuIEJveCh4LCB5LCB4ICsgZmxvYXQoYVsid2lkdGgiXSksIHkgKyBmbG9hdChhWyJoZWlnaHQiXSkpCiAgICByYWlzZSBWYWx1ZUVycm9yKGYibm8gZW50aXR5IG5hbWVkIHtuYW1lIXJ9IikKCgpkZWYgX2xpbmtfcG9pbnQoY29udGVudDogc3RyLCBsaW5rX3R5cGU6IHN0cikgLT4gdHVwbGVbZmxvYXQsIGZsb2F0XToKICAgIGZvciBraW5kLCByYXdfYXR0cnMsIGJvZHkgaW4gR1JPVVAuZmluZGFsbChjb250ZW50KToKICAgICAgICBpZiBraW5kICE9ICJsaW5rIjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBfYXR0cnMocmF3X2F0dHJzKS5nZXQoImRhdGEtbGluay10eXBlIikgIT0gbGlua190eXBlOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHBvbHlnb24gPSBQT0xZR09OLnNlYXJjaChib2R5KQogICAgICAgIGlmIHBvbHlnb24gaXMgTm9uZToKICAgICAgICAgICAgYnJlYWsKICAgICAgICBudW1zID0gW2Zsb2F0KG4pIGZvciBuIGluIHJlLnNwbGl0KHIiWyAsXSsiLCBwb2x5Z29uLmdyb3VwKDEpLnN0cmlwKCkpXQogICAgICAgIHhzLCB5cyA9IG51bXNbMDo6Ml0sIG51bXNbMTo6Ml0KICAgICAgICByZXR1cm4gKG1pbih4cykgKyBtYXgoeHMpKSAvIDIsIChtaW4oeXMpICsgbWF4KHlzKSkgLyAyCiAgICByYWlzZSBWYWx1ZUVycm9yKGYibm8ge2xpbmtfdHlwZSFyfSBsaW5rIHdpdGggYSBkaWFtb25kIikKCgpkZWYgX2VkZ2VfcG9pbnQoYm94OiBCb3gsIHNpZGU6IHN0ciwgYXQ6IGZsb2F0KSAtPiB0dXBsZVtmbG9hdCwgZmxvYXRdOgogICAgaWYgc2lkZSA9PSAiYm90dG9tIjoKICAgICAgICByZXR1cm4gYm94LmxlZnQgKyAoYm94LnJpZ2h0IC0gYm94LmxlZnQpICogYXQsIGJveC5ib3R0b20KICAgIGlmIHNpZGUgPT0gInRvcCI6CiAgICAgICAgcmV0dXJuIGJveC5sZWZ0ICsgKGJveC5yaWdodCAtIGJveC5sZWZ0KSAqIGF0LCBib3gudG9wCiAgICBpZiBzaWRlID09ICJsZWZ0IjoKICAgICAgICByZXR1cm4gYm94LmxlZnQsIGJveC50b3AgKyAoYm94LmJvdHRvbSAtIGJveC50b3ApICogYXQKICAgIGlmIHNpZGUgPT0gInJpZ2h0IjoKICAgICAgICByZXR1cm4gYm94LnJpZ2h0LCBib3gudG9wICsgKGJveC5ib3R0b20gLSBib3gudG9wKSAqIGF0CiAgICByYWlzZSBWYWx1ZUVycm9yKGYic2lkZSBtdXN0IGJlIHRvcCwgYm90dG9tLCBsZWZ0IG9yIHJpZ2h0OiB7c2lkZSFyfSIpCgoKZGVmIF9hbmNob3IoCiAgICBjb250ZW50OiBzdHIsCiAgICBzcGVjOiBkaWN0W3N0ciwgQW55XSwKKSAtPiB0dXBsZVt0dXBsZVtmbG9hdCwgZmxvYXRdLCBib29sXToKICAgICIiIlJldHVybiB0aGUgYW5jaG9yIHBvaW50IGFuZCB3aGV0aGVyIHRoZSBsZWFkZXIgbGVhdmVzIHZlcnRpY2FsbHkuIiIiCiAgICBhbmNob3IgPSBzcGVjWyJhbmNob3IiXQogICAgaWYgImxpbmsiIGluIGFuY2hvcjoKICAgICAgICByZXR1cm4gX2xpbmtfcG9pbnQoY29udGVudCwgYW5jaG9yWyJsaW5rIl0pLCBUcnVlCiAgICBpZiAidGV4dCIgaW4gYW5jaG9yOgogICAgICAgIGJveCA9IF90ZXh0X2JveChjb250ZW50LCBhbmNob3JbInRleHQiXSwgaW50KGFuY2hvci5nZXQoIm50aCIsIDEpKSkKICAgIGVsaWYgImVudGl0eSIgaW4gYW5jaG9yOgogICAgICAgIGJveCA9IF9lbnRpdHlfYm94KGNvbnRlbnQsIGFuY2hvclsiZW50aXR5Il0pCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJhbmNob3IgbmVlZHMgdGV4dCwgZW50aXR5IG9yIGxpbms6IHthbmNob3Ihcn0iKQogICAgc2lkZSA9IHNwZWMuZ2V0KCJzaWRlIiwgImJvdHRvbSIpCiAgICByZXR1cm4gX2VkZ2VfcG9pbnQoYm94LCBzaWRlLCBmbG9hdChzcGVjLmdldCgiYXQiLCAwLjUpKSksIHNpZGUgaW4gewogICAgICAgICJ0b3AiLAogICAgICAgICJib3R0b20iLAogICAgfQoKCmRlZiBfbGVhZGVyKAogICAgc3RhcnQ6IHR1cGxlW2Zsb2F0LCBmbG9hdF0sCiAgICBib3g6IEJveCwKICAgIHZlcnRpY2FsX2ZpcnN0OiBib29sLAopIC0+IGxpc3RbdHVwbGVbZmxvYXQsIGZsb2F0XV06CiAgICAiIiJFbGJvdyBwYXRoIGZyb20gc3RhcnQgaW50byB0aGUgbmVhcmVyIGVkZ2Ugb2YgdGhlIGJveC4iIiIKICAgIHN4LCBzeSA9IHN0YXJ0CiAgICBjeCwgY3kgPSAoYm94LmxlZnQgKyBib3gucmlnaHQpIC8gMiwgKGJveC50b3AgKyBib3guYm90dG9tKSAvIDIKICAgIGlmIHZlcnRpY2FsX2ZpcnN0OgogICAgICAgIGlmICgKICAgICAgICAgICAgYm94LmxlZnQgLSBTVFJBSUdIVF9UT0xFUkFOQ0UKICAgICAgICAgICAgPD0gc3gKICAgICAgICAgICAgPD0gYm94LnJpZ2h0ICsgU1RSQUlHSFRfVE9MRVJBTkNFCiAgICAgICAgKToKICAgICAgICAgICAgcmV0dXJuIFtzdGFydCwgKHN4LCBib3gudG9wIGlmIGN5ID4gc3kgZWxzZSBib3guYm90dG9tKV0KICAgICAgICBlZGdlID0gYm94LmxlZnQgaWYgY3ggPiBzeCBlbHNlIGJveC5yaWdodAogICAgICAgIHJldHVybiBbc3RhcnQsIChzeCwgY3kpLCAoZWRnZSwgY3kpXQogICAgaWYgYm94LnRvcCAtIFNUUkFJR0hUX1RPTEVSQU5DRSA8PSBzeSA8PSBib3guYm90dG9tICsgU1RSQUlHSFRfVE9MRVJBTkNFOgogICAgICAgIHJldHVybiBbc3RhcnQsIChib3gubGVmdCBpZiBjeCA+IHN4IGVsc2UgYm94LnJpZ2h0LCBzeSldCiAgICBlZGdlID0gYm94LnRvcCBpZiBjeSA+IHN5IGVsc2UgYm94LmJvdHRvbQogICAgcmV0dXJuIFtzdGFydCwgKGN4LCBzeSksIChjeCwgZWRnZSldCgoKZGVmIF9sYWJlbF9saW5lcyhzcGVjOiBkaWN0W3N0ciwgQW55XSkgLT4gbGlzdFtzdHJdOgogICAgdGV4dCA9IHNwZWNbInRleHQiXQogICAgbGluZXMgPSB0ZXh0IGlmIGlzaW5zdGFuY2UodGV4dCwgbGlzdCkgZWxzZSBbdGV4dF0KICAgIHJldHVybiBbc3RyKGxpbmUpIGZvciBsaW5lIGluIGxpbmVzXQoKCmRlZiBfY2FsbG91dF9zdmcoY29udGVudDogc3RyLCBzcGVjOiBkaWN0W3N0ciwgQW55XSkgLT4gdHVwbGVbc3RyLCBCb3hdOgogICAgc3RhcnQsIHZlcnRpY2FsX2ZpcnN0ID0gX2FuY2hvcihjb250ZW50LCBzcGVjKQogICAgZHgsIGR5ID0gc3BlY1siYm94Il0KICAgIGxpbmVzID0gX2xhYmVsX2xpbmVzKHNwZWMpCiAgICB3aWR0aCA9IG1heChsZW4obGluZSkgZm9yIGxpbmUgaW4gbGluZXMpICogQ0hBUl9XSURUSCArIFBBRERJTkdfWCAqIDIKICAgIGhlaWdodCA9IExJTkVfSEVJR0hUICogbGVuKGxpbmVzKSArIFBBRERJTkdfWSAqIDIKICAgIGN4LCBjeSA9IHN0YXJ0WzBdICsgZmxvYXQoZHgpLCBzdGFydFsxXSArIGZsb2F0KGR5KQogICAgYm94ID0gQm94KGN4IC0gd2lkdGggLyAyLCBjeSAtIGhlaWdodCAvIDIsIGN4ICsgd2lkdGggLyAyLCBjeSArIGhlaWdodCAvIDIpCiAgICBwYXJ0cyA9IFtdCiAgICBsZWFkZXJzID0gWyhzdGFydCwgdmVydGljYWxfZmlyc3QpXQogICAgbGVhZGVycyArPSBbX2FuY2hvcihjb250ZW50LCBleHRyYSkgZm9yIGV4dHJhIGluIHNwZWMuZ2V0KCJhbHNvIiwgW10pXQogICAgZm9yIHBvaW50LCB2ZXJ0aWNhbCBpbiBsZWFkZXJzOgogICAgICAgIHBhdGggPSBfbGVhZGVyKHBvaW50LCBib3gsIHZlcnRpY2FsKQogICAgICAgIHBvaW50cyA9ICIgIi5qb2luKGYie3g6LjJmfSx7eTouMmZ9IiBmb3IgeCwgeSBpbiBwYXRoKQogICAgICAgIHBhcnRzLmFwcGVuZCgKICAgICAgICAgICAgZic8cG9seWxpbmUgZmlsbD0ibm9uZSIgcG9pbnRzPSJ7cG9pbnRzfSIgc3R5bGU9IntTVFJPS0V9Ii8+JywKICAgICAgICApCiAgICBwYXJ0cy5hcHBlbmQoCiAgICAgICAgZic8cmVjdCBmaWxsPSJ7RklMTH0iIHg9Intib3gubGVmdDouMmZ9IiB5PSJ7Ym94LnRvcDouMmZ9IiAnCiAgICAgICAgZid3aWR0aD0ie3dpZHRoOi4yZn0iIGhlaWdodD0ie2hlaWdodDouMmZ9IiBzdHlsZT0ie1NUUk9LRX0iLz4nLAogICAgKQogICAgZm9yIGksIGxpbmUgaW4gZW51bWVyYXRlKGxpbmVzKToKICAgICAgICBiYXNlbGluZSA9IGJveC50b3AgKyBQQURESU5HX1kgKyBMSU5FX0hFSUdIVCAqIGkgKyAwLjggKiBGT05UX1NJWkUKICAgICAgICBwYXJ0cy5hcHBlbmQoCiAgICAgICAgICAgIGYnPHRleHQgZmlsbD0iIzAwMDAwMCIgZm9udC1mYW1pbHk9Ilwne0ZPTlRfRkFNSUxZfVwnIiAnCiAgICAgICAgICAgIGYnZm9udC1zaXplPSJ7Rk9OVF9TSVpFfSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgJwogICAgICAgICAgICBmJ3g9IntjeDouMmZ9IiB5PSJ7YmFzZWxpbmU6LjJmfSI+e2xpbmV9PC90ZXh0PicsCiAgICAgICAgKQogICAgcmV0dXJuICIiLmpvaW4ocGFydHMpLCBib3gKCgpkZWYgX2FwcGx5X29uZShzdmdfcGF0aDogUGF0aCwgY2FsbG91dHNfcGF0aDogUGF0aCkgLT4gYm9vbDoKICAgICIiIkRyYXcgdGhlIGNhbGxvdXRzIGRlc2NyaWJlZCBieSBjYWxsb3V0c19wYXRoIG9udG8gc3ZnX3BhdGguCgogICAgUmV0dXJuczoKICAgICAgICBib29sOiBUcnVlIGlmIHRoZSBTVkcgd2FzIG1vZGlmaWVkLgogICAgIiIiCiAgICBjb250ZW50ID0gc3ZnX3BhdGgucmVhZF90ZXh0KCkKICAgIHZpZXdib3hfbWF0Y2ggPSBWSUVXQk9YLnNlYXJjaChjb250ZW50KQogICAgaWYgbm90IHZpZXdib3hfbWF0Y2g6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICB3aWR0aCwgaGVpZ2h0ID0gZmxvYXQodmlld2JveF9tYXRjaC5ncm91cCgxKSksIGZsb2F0KHZpZXdib3hfbWF0Y2guZ3JvdXAoMikpCiAgICBzcGVjID0geWFtbC5zYWZlX2xvYWQoY2FsbG91dHNfcGF0aC5yZWFkX3RleHQoKSkKICAgIHBhcnRzLCBib3hlcyA9IFtdLCBbXQogICAgZm9yIGNhbGxvdXQgaW4gc3BlY1siY2FsbG91dHMiXToKICAgICAgICBzdmcsIGJveCA9IF9jYWxsb3V0X3N2Zyhjb250ZW50LCBjYWxsb3V0KQogICAgICAgIHBhcnRzLmFwcGVuZChzdmcpCiAgICAgICAgYm94ZXMuYXBwZW5kKGJveCkKICAgICMgQm94ZXMgbGVmdCBvZiBvciBhYm92ZSB0aGUgY2FudmFzOiBzaGlmdCB0aGUgZHJhd2luZyAoZGlhZ3JhbSBhbmQKICAgICMgY2FsbG91dHMgdG9nZXRoZXIpIHJpZ2h0L2Rvd24gYnkgdGhlIG92ZXJoYW5nLCBpbnNpZGUgYSBuZXN0ZWQgZ3JvdXAKICAgICMgc28gdGhlIG91dGVyIGA8ZGVmcy8+PGc+YCBhbmNob3Igc3Vydml2ZXMgZm9yIGxhdGVyIHBpcGVsaW5lIHN0ZXBzLgogICAgc2hpZnRfeCA9IG1heCgwLjAsICooQ0FOVkFTX01BUkdJTiAtIGIubGVmdCBmb3IgYiBpbiBib3hlcykpCiAgICBzaGlmdF95ID0gbWF4KDAuMCwgKihDQU5WQVNfTUFSR0lOIC0gYi50b3AgZm9yIGIgaW4gYm94ZXMpKQogICAgZ3Jvd25fdyA9IG1heChbd2lkdGgsICooYi5yaWdodCArIENBTlZBU19NQVJHSU4gZm9yIGIgaW4gYm94ZXMpXSkgKyBzaGlmdF94CiAgICBncm93bl9oID0gKAogICAgICAgIG1heChbaGVpZ2h0LCAqKGIuYm90dG9tICsgQ0FOVkFTX01BUkdJTiBmb3IgYiBpbiBib3hlcyldKSArIHNoaWZ0X3kKICAgICkKICAgIG92ZXJsYXkgPSBmJzxnIGRhdGEtY2FsbG91dHM9IjEiPnsiIi5qb2luKHBhcnRzKX08L2c+JwogICAgdGFpbCA9IG92ZXJsYXkgKyAiPC9nPjwvc3ZnPiIKICAgIGlmIHNoaWZ0X3ggb3Igc2hpZnRfeToKICAgICAgICBjb250ZW50LCBtb3ZlZCA9IENPTlRFTlRfR1JPVVAuc3VibigKICAgICAgICAgICAgcmYnXDE8Zz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSh7c2hpZnRfeDouNGZ9LHtzaGlmdF95Oi40Zn0pIj4nLAogICAgICAgICAgICBjb250ZW50LAogICAgICAgICAgICBjb3VudD0xLAogICAgICAgICkKICAgICAgICBpZiBub3QgbW92ZWQ6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIHRhaWwgPSBvdmVybGF5ICsgIjwvZz48L2c+PC9zdmc+IgogICAgaWYgKGdyb3duX3csIGdyb3duX2gpICE9ICh3aWR0aCwgaGVpZ2h0KToKICAgICAgICBjb250ZW50ID0gVklFV0JPWC5zdWIoCiAgICAgICAgICAgIGYndmlld0JveD0iMCAwIHtncm93bl93Oi40Zn0ge2dyb3duX2g6LjRmfSInLAogICAgICAgICAgICBjb250ZW50LAogICAgICAgICAgICBjb3VudD0xLAogICAgICAgICkKICAgIGZpeGVkLCBjb3VudCA9IFNWR19DTE9TRS5zdWJuKHRhaWwsIGNvbnRlbnQsIGNvdW50PTEpCiAgICBpZiBub3QgY291bnQ6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBzdmdfcGF0aC53cml0ZV90ZXh0KGZpeGVkKQogICAgcmV0dXJuIFRydWUKCgpkZWYgbWFpbihyZW5kZXJlZF9kaXI6IFBhdGggfCBzdHIsIHVtbF9kaXI6IFBhdGggfCBzdHIgPSAidW1sIikgLT4gTm9uZToKICAgICIiIk92ZXJsYXkgY2FsbG91dHMgb250byBldmVyeSByZW5kZXJlZCBTVkcgd2l0aCBhIHNpZGVjYXIgc3BlYy4KCiAgICBBcmdzOgogICAgICAgIHJlbmRlcmVkX2RpciAoUGF0aCB8IHN0cik6IERpcmVjdG9yeSBjb250YWluaW5nIHJlbmRlcmVkIFNWR3MKICAgICAgICAgICAgKG1pcnJvcnMgdGhlIGNoYXB0ZXIgc3RydWN0dXJlIHVuZGVyIHVtbF9kaXIpLgogICAgICAgIHVtbF9kaXIgKFBhdGggfCBzdHIpOiBEaXJlY3RvcnkgY29udGFpbmluZyBgLnB1bWxgIHNvdXJjZXMgYW5kCiAgICAgICAgICAgIHRoZWlyIGAqLmNhbGxvdXRzLnlhbWxgIHNpZGVjYXIgZmlsZXMuCgogICAgRXhhbXBsZXM6CiAgICAgICAgPj4+IHV2IHJ1biBweXRob24gX3NjcmlwdHMvYWRkX3N2Z19jYWxsb3V0cy5weSBcCiAgICAgICAgLi4uICAgICAtLXJlbmRlcmVkX2RpciB1bWwvcmVuZGVyZWQKICAgICIiIgogICAgcmVuZGVyZWRfZGlyID0gUGF0aChyZW5kZXJlZF9kaXIpCiAgICB1bWxfZGlyID0gUGF0aCh1bWxfZGlyKQogICAgYXBwbGllZCA9IDAKICAgIGZvciBjYWxsb3V0c19wYXRoIGluIHNvcnRlZCh1bWxfZGlyLnJnbG9iKCIqLmNhbGxvdXRzLnlhbWwiKSk6CiAgICAgICAgcHVtbF9wYXRoID0gY2FsbG91dHNfcGF0aC53aXRoX25hbWUoCiAgICAgICAgICAgIGNhbGxvdXRzX3BhdGgubmFtZS5yZXBsYWNlKCIuY2FsbG91dHMueWFtbCIsICIucHVtbCIpLAogICAgICAgICkKICAgICAgICBuYW1lX21hdGNoID0gU1RBUlRVTUxfTkFNRS5zZWFyY2gocHVtbF9wYXRoLnJlYWRfdGV4dCgpKQogICAgICAgIGlmIG5vdCBuYW1lX21hdGNoOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHN2Z19wYXRoID0gKAogICAgICAgICAgICByZW5kZXJlZF9kaXIKICAgICAgICAgICAgLyBjYWxsb3V0c19wYXRoLnJlbGF0aXZlX3RvKHVtbF9kaXIpLnBhcmVudAogICAgICAgICAgICAvIGYie25hbWVfbWF0Y2guZ3JvdXAoMSl9LnN2ZyIKICAgICAgICApCiAgICAgICAgaWYgc3ZnX3BhdGguZXhpc3RzKCkgYW5kIF9hcHBseV9vbmUoc3ZnX3BhdGgsIGNhbGxvdXRzX3BhdGgpOgogICAgICAgICAgICBhcHBsaWVkICs9IDEKICAgICAgICAgICAgcHJpbnQoZiIgIGNhbGxvdXRzOiB7c3ZnX3BhdGh9IikKICAgIHByaW50KGYiQWRkZWQgY2FsbG91dHMgdG8ge2FwcGxpZWR9IGRpYWdyYW0ocykuIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgZmlyZS5GaXJlKG1haW4pCg==
+"""Overlay annotation callouts onto a rendered PlantUML class diagram.
+
+A callout is a small dashed box ("class method", "enum", ...) joined to
+the thing it labels by a dashed elbow leader line, in the style of
+Manning figure annotations. PlantUML's own `note` cannot do this well:
+a note on a class member draws a wedge connector, a note on a link
+cannot point at the link's diamond, and the layout engine centres a
+note beside a tall class instead of beside the member it is about.
+This draws the callouts directly as SVG on top of the finished render
+instead, driven by a sidecar YAML file next to the `.puml` source, the
+same way `add_svg_legend.py` draws legends.
+
+Sidecar file naming: `<diagram>.callouts.yaml` next to `<diagram>.puml`,
+e.g. `uml/ch03/llm_class.callouts.yaml` for `uml/ch03/llm_class.puml`.
+Format:
+
+    callouts:
+      - text: class method
+        anchor: {text: from_tool_call_result}
+        side: bottom
+        at: 0.15
+        box: [-200, 450]
+      - text: composition
+        anchor: {link: composition}
+        box: [0, 520]
+      - text: enum
+        anchor: {entity: ChatRole}
+        side: bottom
+        box: [260, 300]
+
+`anchor` picks what the leader starts from:
+
+- `{text: <substring>}`: the first `<text>` element containing the
+  substring, e.g. a member's name. Its box is the text's extent. Add
+  `nth: 2` (1-based) to pick a later match, e.g. a constructor
+  parameter that repeats an attribute.
+- `{entity: <name>}`: the class (or enum, ...) whose qualified name ends
+  with `.<name>`, or equals it. Its box is the class's outline.
+- `{link: <type>}`: the first link of that PlantUML type (`composition`,
+  `aggregation`, ...). The anchor point is the centre of its diamond.
+
+For text and entity anchors, `side` (`top`, `bottom`, `left`, `right`;
+default `bottom`) picks the edge the leader leaves from, and `at` (0 to
+1, default 0.5) how far along that edge. `box` is the callout box's
+centre, as an `[dx, dy]` offset from the anchor point in SVG user units
+(the raw PlantUML canvas, 500 dpi). The leader runs along the side's
+axis first, then turns once into the nearer edge of the box, or runs
+straight in when the box is lined up with the anchor.
+
+`text` may span lines: write it as a YAML list of lines.
+
+`also` lists extra anchors (each with its own `anchor`, `side`
+and `at`) that get their own leader into the same box, e.g. an
+attribute and the constructor parameter that sets it. The box is still
+placed relative to the first anchor.
+
+Boxes that extend past the canvas grow it, so a callout is never
+clipped: right/down by enlarging the viewBox, left/up by also shifting
+the diagram and callouts over inside a nested group.
+`set_svg_print_size.py`, which runs later, scales the grown canvas like
+any other.
+"""
+
+import re
+from pathlib import Path
+from typing import Any, NamedTuple
+
+import fire
+import yaml
+
+FONT_FAMILY = "Times"  # book-clean's ANNO_FONT, used for its notes
+FONT_SIZE = 83.3333  # book-clean's 16pt NoteFontSize @ 500dpi
+CHAR_WIDTH = 0.5 * FONT_SIZE  # Times averages ~0.5em, so boxes fit
+LINE_HEIGHT = 1.15 * FONT_SIZE
+PADDING_X = 45.0
+PADDING_Y = 30.0
+STROKE = "stroke:#333333;stroke-width:5.2083;stroke-dasharray:26,18;"
+FILL = "#FFFFCC"
+CANVAS_MARGIN = 40.0
+STRAIGHT_TOLERANCE = 1.0  # within this, the box counts as lined up
+
+STARTUML_NAME = re.compile(r"@startuml\s+(\S+)")
+VIEWBOX = re.compile(r'viewBox="0 0 ([\d.]+) ([\d.]+)"')
+SVG_CLOSE = re.compile(r"</g></svg>")
+CONTENT_GROUP = re.compile(r"(<\?plantuml[^>]*\?><defs/>)<g>")
+TEXT = re.compile(r"<text\b([^>]*)>([^<]*)</text>")
+ATTR = re.compile(r'([\w-]+)="([^"]*)"')
+GROUP = re.compile(r'<g class="(entity|link)"([^>]*)>(.*?)</g>', re.S)
+RECT = re.compile(r"<rect\b([^>]*)/?>")
+POLYGON = re.compile(r'<polygon\b[^>]*points="([^"]*)"')
+ENTITIES = {
+    "&lt;": "<",
+    "&gt;": ">",
+    "&amp;": "&",
+    "&#171;": "«",
+    "&#187;": "»",
+}
+
+
+class Box(NamedTuple):
+    """An axis-aligned box in SVG user units."""
+
+    left: float
+    top: float
+    right: float
+    bottom: float
+
+
+def _attrs(raw: str) -> dict[str, str]:
+    return dict(ATTR.findall(raw))
+
+
+def _unescape(text: str) -> str:
+    for entity, char in ENTITIES.items():
+        text = text.replace(entity, char)
+    return text
+
+
+def _text_box(content: str, needle: str, nth: int = 1) -> Box:
+    seen = 0
+    for raw_attrs, raw_text in TEXT.findall(content):
+        if needle not in _unescape(raw_text):
+            continue
+        seen += 1
+        if seen < nth:
+            continue
+        a = _attrs(raw_attrs)
+        x, y = float(a["x"]), float(a["y"])
+        size = float(a.get("font-size", FONT_SIZE))
+        width = float(a.get("textLength", len(raw_text) * size * 0.5))
+        return Box(x, y - 0.8 * size, x + width, y + 0.2 * size)
+    raise ValueError(f"no match {nth} for <text> containing {needle!r}")
+
+
+def _entity_box(content: str, name: str) -> Box:
+    for kind, raw_attrs, body in GROUP.findall(content):
+        if kind != "entity":
+            continue
+        qualified = _attrs(raw_attrs).get("data-qualified-name", "")
+        if qualified != name and not qualified.endswith(f".{name}"):
+            continue
+        rect = RECT.search(body)
+        if rect is None:
+            break
+        a = _attrs(rect.group(1))
+        x, y = float(a["x"]), float(a["y"])
+        return Box(x, y, x + float(a["width"]), y + float(a["height"]))
+    raise ValueError(f"no entity named {name!r}")
+
+
+def _link_point(content: str, link_type: str) -> tuple[float, float]:
+    for kind, raw_attrs, body in GROUP.findall(content):
+        if kind != "link":
+            continue
+        if _attrs(raw_attrs).get("data-link-type") != link_type:
+            continue
+        polygon = POLYGON.search(body)
+        if polygon is None:
+            break
+        nums = [float(n) for n in re.split(r"[ ,]+", polygon.group(1).strip())]
+        xs, ys = nums[0::2], nums[1::2]
+        return (min(xs) + max(xs)) / 2, (min(ys) + max(ys)) / 2
+    raise ValueError(f"no {link_type!r} link with a diamond")
+
+
+def _edge_point(box: Box, side: str, at: float) -> tuple[float, float]:
+    if side == "bottom":
+        return box.left + (box.right - box.left) * at, box.bottom
+    if side == "top":
+        return box.left + (box.right - box.left) * at, box.top
+    if side == "left":
+        return box.left, box.top + (box.bottom - box.top) * at
+    if side == "right":
+        return box.right, box.top + (box.bottom - box.top) * at
+    raise ValueError(f"side must be top, bottom, left or right: {side!r}")
+
+
+def _anchor(
+    content: str,
+    spec: dict[str, Any],
+) -> tuple[tuple[float, float], bool]:
+    """Return the anchor point and whether the leader leaves vertically."""
+    anchor = spec["anchor"]
+    if "link" in anchor:
+        return _link_point(content, anchor["link"]), True
+    if "text" in anchor:
+        box = _text_box(content, anchor["text"], int(anchor.get("nth", 1)))
+    elif "entity" in anchor:
+        box = _entity_box(content, anchor["entity"])
+    else:
+        raise ValueError(f"anchor needs text, entity or link: {anchor!r}")
+    side = spec.get("side", "bottom")
+    return _edge_point(box, side, float(spec.get("at", 0.5))), side in {
+        "top",
+        "bottom",
+    }
+
+
+def _leader(
+    start: tuple[float, float],
+    box: Box,
+    vertical_first: bool,
+) -> list[tuple[float, float]]:
+    """Elbow path from start into the nearer edge of the box."""
+    sx, sy = start
+    cx, cy = (box.left + box.right) / 2, (box.top + box.bottom) / 2
+    if vertical_first:
+        if (
+            box.left - STRAIGHT_TOLERANCE
+            <= sx
+            <= box.right + STRAIGHT_TOLERANCE
+        ):
+            return [start, (sx, box.top if cy > sy else box.bottom)]
+        edge = box.left if cx > sx else box.right
+        return [start, (sx, cy), (edge, cy)]
+    if box.top - STRAIGHT_TOLERANCE <= sy <= box.bottom + STRAIGHT_TOLERANCE:
+        return [start, (box.left if cx > sx else box.right, sy)]
+    edge = box.top if cy > sy else box.bottom
+    return [start, (cx, sy), (cx, edge)]
+
+
+def _label_lines(spec: dict[str, Any]) -> list[str]:
+    text = spec["text"]
+    lines = text if isinstance(text, list) else [text]
+    return [str(line) for line in lines]
+
+
+def _callout_svg(content: str, spec: dict[str, Any]) -> tuple[str, Box]:
+    start, vertical_first = _anchor(content, spec)
+    dx, dy = spec["box"]
+    lines = _label_lines(spec)
+    width = max(len(line) for line in lines) * CHAR_WIDTH + PADDING_X * 2
+    height = LINE_HEIGHT * len(lines) + PADDING_Y * 2
+    cx, cy = start[0] + float(dx), start[1] + float(dy)
+    box = Box(cx - width / 2, cy - height / 2, cx + width / 2, cy + height / 2)
+    parts = []
+    leaders = [(start, vertical_first)]
+    leaders += [_anchor(content, extra) for extra in spec.get("also", [])]
+    for point, vertical in leaders:
+        path = _leader(point, box, vertical)
+        points = " ".join(f"{x:.2f},{y:.2f}" for x, y in path)
+        parts.append(
+            f'<polyline fill="none" points="{points}" style="{STROKE}"/>',
+        )
+    parts.append(
+        f'<rect fill="{FILL}" x="{box.left:.2f}" y="{box.top:.2f}" '
+        f'width="{width:.2f}" height="{height:.2f}" style="{STROKE}"/>',
+    )
+    for i, line in enumerate(lines):
+        baseline = box.top + PADDING_Y + LINE_HEIGHT * i + 0.8 * FONT_SIZE
+        parts.append(
+            f'<text fill="#000000" font-family="\'{FONT_FAMILY}\'" '
+            f'font-size="{FONT_SIZE}" text-anchor="middle" '
+            f'x="{cx:.2f}" y="{baseline:.2f}">{line}</text>',
+        )
+    return "".join(parts), box
+
+
+def _apply_one(svg_path: Path, callouts_path: Path) -> bool:
+    """Draw the callouts described by callouts_path onto svg_path.
+
+    Returns:
+        bool: True if the SVG was modified.
+    """
+    content = svg_path.read_text()
+    viewbox_match = VIEWBOX.search(content)
+    if not viewbox_match:
+        return False
+    width, height = float(viewbox_match.group(1)), float(viewbox_match.group(2))
+    spec = yaml.safe_load(callouts_path.read_text())
+    parts, boxes = [], []
+    for callout in spec["callouts"]:
+        svg, box = _callout_svg(content, callout)
+        parts.append(svg)
+        boxes.append(box)
+    # Boxes left of or above the canvas: shift the drawing (diagram and
+    # callouts together) right/down by the overhang, inside a nested group
+    # so the outer `<defs/><g>` anchor survives for later pipeline steps.
+    shift_x = max(0.0, *(CANVAS_MARGIN - b.left for b in boxes))
+    shift_y = max(0.0, *(CANVAS_MARGIN - b.top for b in boxes))
+    grown_w = max([width, *(b.right + CANVAS_MARGIN for b in boxes)]) + shift_x
+    grown_h = (
+        max([height, *(b.bottom + CANVAS_MARGIN for b in boxes)]) + shift_y
+    )
+    overlay = f'<g data-callouts="1">{"".join(parts)}</g>'
+    tail = overlay + "</g></svg>"
+    if shift_x or shift_y:
+        content, moved = CONTENT_GROUP.subn(
+            rf'\1<g><g transform="translate({shift_x:.4f},{shift_y:.4f})">',
+            content,
+            count=1,
+        )
+        if not moved:
+            return False
+        tail = overlay + "</g></g></svg>"
+    if (grown_w, grown_h) != (width, height):
+        content = VIEWBOX.sub(
+            f'viewBox="0 0 {grown_w:.4f} {grown_h:.4f}"',
+            content,
+            count=1,
+        )
+    fixed, count = SVG_CLOSE.subn(tail, content, count=1)
+    if not count:
+        return False
+    svg_path.write_text(fixed)
+    return True
+
+
+def main(rendered_dir: Path | str, uml_dir: Path | str = "uml") -> None:
+    """Overlay callouts onto every rendered SVG with a sidecar spec.
+
+    Args:
+        rendered_dir (Path | str): Directory containing rendered SVGs
+            (mirrors the chapter structure under uml_dir).
+        uml_dir (Path | str): Directory containing `.puml` sources and
+            their `*.callouts.yaml` sidecar files.
+
+    Examples:
+        >>> uv run python _scripts/add_svg_callouts.py \
+        ...     --rendered_dir uml/rendered
+    """
+    rendered_dir = Path(rendered_dir)
+    uml_dir = Path(uml_dir)
+    applied = 0
+    for callouts_path in sorted(uml_dir.rglob("*.callouts.yaml")):
+        puml_path = callouts_path.with_name(
+            callouts_path.name.replace(".callouts.yaml", ".puml"),
+        )
+        name_match = STARTUML_NAME.search(puml_path.read_text())
+        if not name_match:
+            continue
+        svg_path = (
+            rendered_dir
+            / callouts_path.relative_to(uml_dir).parent
+            / f"{name_match.group(1)}.svg"
+        )
+        if svg_path.exists() and _apply_one(svg_path, callouts_path):
+            applied += 1
+            print(f"  callouts: {svg_path}")
+    print(f"Added callouts to {applied} diagram(s).")
+
+
+if __name__ == "__main__":
+    fire.Fire(main)

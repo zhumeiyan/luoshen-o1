@@ -1,1 +1,181 @@
-IyAxMjkgwrcg55yf5a6e5LiW55WM5a6h6K6h77ya5oqKIGV2YWxndWFyZCDmiZPliLDkuZ3kuKrmnYPlqIHor4TmtYvmoYbmnrbkuIoKCiMjIOS4gOWPpeivnee7k+iuugoKKirlnKggOSDkuKrmnYPlqIHor4TmtYvmoYbmnrbnmoQgNjEg5Liq55yf5a6e5rqQ5paH5Lu25LiK77yMdjAuMy4wIOeahCBibG9ja2VyIOeyvuehrueOh+aYryAxMSXvvIgzLzI377yJ77ybCuS/ruWujOaYryAxNyXvvIgxLzbvvInjgILmiJHku6zmraTliY0i5Z+L6Zu3IDEwLzEw44CB5bmy5YeAIDAvMCLnmoTmiJDnu6nvvIzmmK/pgInmi6nmgKflj5bmoLfpgKDlh7rmnaXnmoTjgIIqKgoK6L+Z5LiN5pivIuS6p+WTgei/mOiDveWGjeS8mOWMliLvvIzmmK8qKuW9k+WJjeW9ouaAgeS4jeiDveWNlioq44CCCgotLS0KCiMjIOS4gOOAgeivreaWme+8muecn+WunuaKk+eahO+8jOS4jeaYr+e8lueahAoK55SoIEdpdEh1YiBBUEkg5a6e5oqT77yI5LiN5piv5pys5Zyw5p6E6YCg77yJ77yaCgotIGNvcnB1czEgPSAzNCDkuKrmlofku7bvvIjnrKzkuIDmrKHmjInot6/lvoTmnIDnn63lj5bvvIzkuovlkI7or4HmmI7lj5blgY/kuobvvIzop4HnrKzkupToioLvvIkKLSBjb3JwdXMyID0gMjcg5LiqKirmoLjlv4Por4TmtYvmlofku7YqKu+8iOS/ruato+WPluagt+WQju+8iQoK5p2l5rqQ77yI5YWo6YOo55yf5a6e5LuT5bqT77yMbWFpbiDliIbmlK/vvInvvJoKCmBgYApFbGV1dGhlckFJL2xtLWV2YWx1YXRpb24taGFybmVzcyDCtyBvcGVuYWkvZXZhbHMgwrcgb3BlbmFpL3NpbXBsZS1ldmFscwpodWdnaW5nZmFjZS9saWdodGV2YWwgwrcgU1dFLWJlbmNoL1NXRS1iZW5jaCDCtyBVS0dvdmVybm1lbnRCRUlTL2luc3BlY3RfYWkKYWxsZW5haS9vbG1lcyDCtyBzdGFuZm9yZC1jcmZtL2hlbG0gwrcgZ29vZ2xlL0JJRy1iZW5jaApgYGAKCuaguOW/g+ivreaWmeWQqyBgbG1fZXZhbC9ldmFsdWF0b3IucHlg44CBYG9wZW5haS9ldmFscy9ldmFsLnB5YOOAgQpgb2VfZXZhbC9ydW5fZXZhbC5weWDjgIFgc3dlYmVuY2gvaGFybmVzcy9ncmFkaW5nLnB5YOOAgQpgYmlnYmVuY2gvZXZhbHVhdGVfdGFzay5weWDjgIFgc3JjL2xpZ2h0ZXZhbC9waXBlbGluZS5weWAg562JKirnnJ/mraPnmoTor4TmtYvkuLvpgLvovpEqKuOAggoKLS0tCgojIyDkuozjgIHnu5PmnpwKCnwg6K+t5paZIHwgdjAuMy4wKOS/ruWJjSkgfCDkv67lpI3lkI4gfCDpmY3luYUgfAp8LS0tfC0tLXwtLS18LS0tfAp8IGNvcnB1czHvvIgzNCDlt6Xlhbcv6YWN572u5paH5Lu277yJIHwgMjcgYmxvY2tlciB8IDkgfCDiiJI2NyUgfAp8IGNvcnB1czLvvIgyNyDmoLjlv4Por4TmtYvmlofku7bvvIkgfCAyMSB8ICoqNioqIHwgKiriiJI3MSUqKiB8CnwgZml4dHVyZXPvvIg3IOWfi+mbty/lubLlh4DmoLfmnKzvvIkgfCAxNyB8IDE1IHwg4oiSMTIlIHwKCiMjIyDkurrlt6XpgJDmnaHmoLjpqozvvIjov5nmmK/lhbPplK7vvIzkuI3mmK/nnIvlkb3kuK3mlbDvvIkKCioq5L+u5YmNIDI3IOadoSBibG9ja2Vy77yaMyDnnJ8gLyAyNCDlgYcgPSAxMS4xJSoqCioq5L+u5ZCO5qC45b+D6K+t5paZIDYg5p2h77yaMSDnnJ8gLyA1IOWBhyA9IDE2LjclKioKCuWUr+S4gOeahOecn+mYs+aAp++8mgoKYGBgCkVHMDAyIMK3IEVsZXV0aGVyQUkvbG0tZXZhbHVhdGlvbi1oYXJuZXNzIDo6IGxtX2V2YWwvZXZhbHVhdG9yLnB5CiAgICAgICAg5oql5LqG5oyH5qCH77yM5YWo5paH5rKh5pyJ6ZqP5py65Z+657q/56ym5Y+3CmBgYAoK5LqU5Liq5YGH6Ziz5oCn77yaCgpgYGAKRUcwMDIgIGluc3BlY3RfYWkvZXhhbXBsZXMvc2NvcmVyLnB5ICAg56S65L6L5paH5Lu2CkVHMDE2ICBoZWxtL3NjcmlwdHMvaGVpbV9odW1hbl9ldmFsLnB5IOaWh+S7tue6p++8jOaKpeWcqCBMMQpFR1AwMiAgc2ltcGxlLWV2YWxzL2Ryb3BfZXZhbC5weSAgICAgICBIdW5nYXJpYW4g5pyA5LyY5Yy56YWN6KKr5b2T5oiQ6ZiI5YC86LCD5LyYCkVHUDA0ICBCSUctYmVuY2gvZXZhbHVhdGVfdGFzay5weSAgICAgIOaWh+S7tue6pwpFR1AwNCAgbGlnaHRldmFsL3BpcGVsaW5lLnB5ICAgICAgICAgICDmlofku7bnuqcKYGBgCgotLS0KCiMjIOS4ieOAgeagueWboO+8iDI3IOadoeS/ruWJjSBibG9ja2VyIOeahOS6uuW3peWIhuexu++8iQoKfCDmoLnlm6AgfCDmnaHmlbAgfAp8LS0tfC0tLXwKfCAqKuaWh+S7tue6p+WQr+WPkeW8jyoq77yI5pW05paH5Lu25YWz6ZSu6K+N5biD5bCU77yM5oql5ZyoIEwx77yM5peg5rOV5a6a5L2N77yJIHwgMTEgfAp8ICoq5a2Q5Liy5Yy56YWNKirvvIhgYWNjYOKKgmBhY2NlcHRg44CBYGZpdGDiioJgcHJvZml0YOOAgWBjdXJsYOKKgmBjdXJseWDvvIkgfCA4IHwKfCAqKkFTVCDor63kuYnor6/or7sqKu+8iOexu+Wei+azqOino+OAgeWIh+eJh+OAgeWGhemDqOWuueWZqOW9k+aooeWei+WTjeW6lO+8iSB8IDQgfAp8ICoq5qCH5YeG5o6n5Yi25rWB5b2T5Y+N5qih5byPKirvvIhpbnTihpJmbG9hdCDlm57pgIDjgIHph43or5XjgIFIdW5nYXJpYW4g5Yy56YWN77yJIHwgMyB8Cnwg5Zmq5aOw6Lev5b6E5pyq6L+H5ruk77yIdGVzdHMv44CBZXhhbXBsZXMv77yJIHwgMSB8CgrnrKzkuIDmnaEqKuWtkOS4suWMuemFjSoq77yM5ZKM5oiR5Lus5ZyoIGV4cDA5OSDph4zor4rmlq0gVEFDVCDlvJXmk47nmoTnl4XmmK8qKuWQjOS4gOS4queXhSoq44CCCuaIkeS7rOaLv+edgOiviuaWreWIq+S6uueahOWIpOaNru+8jOWcqOiHquW3seeahOS6p+WTgemHjOWOn+agt+WkjeeOsOS6huS4gOmBjeOAggoKLS0tCgojIyDlm5vjgIHkv67kuobku4DkuYgKCjEuIGBfaGFzX3dvcmQoKWDvvJrlrZDkuLIg4oaSIOivjei+ueeVjAoyLiBgX2Rlcml2ZXNfcnVsZXMoKWDvvJoqKuimgeaxgiBBU1Qg6YeM55yf5pyJIGBmaXQoLi4uKWAg6LCD55SoKirvvIzkuI3lho3pnaAiZml0IuWtkOS4sgozLiBgRUdQMTBg77ya5o6S6Zmk57G75Z6L5rOo6Kej5LiK5LiL5paH77yIYE9wdGlvbmFsW0xpc3RbVGV4dF1dYO+8ieOAgeWIh+eJh++8iGBbOi0xXWDvvInvvIwKICAg5bm26KaB5rGC5qC55Y+Y6YePKirnsr7noa4qKuWxnuS6juWTjeW6lOivjeihqO+8iGByZXN1bHRfZGljdFtjb2x1bW5dW2tdYCDkuI3lho3mmK8i5qih5Z6L5ZON5bqUIu+8iQo0LiBgRUcwMDZg77ya5pyJ5rOo6YeK6K+05piOIC8g5bGe5LqO5Zue6YCA6ZO+IOKGkiDosYHlhY0KNS4gYEVHUDAxYO+8mioq5Y+q5Zyo6K+E5YiG5b6q546v5YaFKirjgIHkuJQqKmhhbmRsZXIg5rKh55WZ5LiL6K6w5b2VKirmiY3nrpfpnZnpu5jkuKLlvIMKNi4gYF9pc19ub2lzZV9wYXRoKClg77ya5LuOIuebruW9leWQjeWQqyB0ZXN0cy8iIOaUueaIkCoq5oyJ5YaF5a655Yik5patKioKICAg77yI56ys5LiA54mI6Z2g55uu5b2V5ZCN77yM5oqK5pS+5ZyoIHRlc3RzLyDkuIvnmoTln4vpm7cgZml4dHVyZSDkuIDotbfpnZnpn7PkuobvvIkKNy4gYF9tZXRyaWNfbGluZSgpYO+8muS4jeWGjeWbuuWumuaKpSBMMQoKLS0tCgojIyDkupTjgIHmiJHov5nova7nmoTplJnor6/vvIjmjInkuKXph43luqbmjpLvvIkKCiMjIyDikaAg6K+t5paZ5Y+W5qC35YGP5beuIOKAlOKAlCDnrKzkuIDmrKHnu5PorrrmoLnmnKzkuI3miJDnq4sKYGNhbmRzLnNvcnQoa2V5PWxlbihwKSlgIOWPlioq6Lev5b6E5pyA55+tKirnmoQgNCDkuKrmlofku7Yg4oaSIOaKk+WIsOeahOWFqOaYrwpgdXRpbHMucHlgIC8gYGRhdGEucHlgIC8gYF9faW5pdF9fLnB5YCAvIGBjbGlfYXJncy5weWDjgIIKKirmiJHmiavnmoTkuI3mmK/lroPku6znmoTor4TmtYvohJrmnKzvvIzmmK/lroPku6znmoTlt6Xlhbfnsbvmlofku7bjgIIqKgrnrKzkuozmrKHmlLnmiJDmjIki5qC45b+D6K+E5rWL5paH5Lu25ZCNICsg5o6S6ZmkIHV0aWxzL3Rlc3RzL2RvY3Mi5Y+W5qC377yM5omN5ou/5Yiw55yf6K+t5paZ44CCCgojIyMg4pGhIOaIkeS7peS4uuS/ruS6hu+8jOWFtuWunuayoeS/ruS4iu+8iOazqOmHiuixgeWFje+8iQpgYXN0LmdldF9zb3VyY2Vfc2VnbWVudGAgKirkuKLlvIPooYzlsL7ms6jph4oqKu+8mgoKYGBgCmV4Y2VwdCBQZXJtaXNzaW9uRXJyb3IgYXMgZToKICAgIHBhc3MgICMgdGhpcyBpcyBub3QgYSBjcml0aWNhbCBmYWlsdXJlCmBgYAoK5ou/5Yiw55qEIHNlZyDmmK8gYGV4Y2VwdCBQZXJtaXNzaW9uRXJyb3IgYXMgZTpcbiAgICBwYXNzYCDigJTigJQgKipgI2Ag5Y+W5LiN5YiwKirjgIIKYCIjIiBpbiBzZWdgIOmdmem7mOawuOS4jeaIkOeri+OAguaUueeUqCoq5Y6f5aeL6KGM5paH5pysKirmiY3nlJ/mlYjjgIIK6L+Z5piv5Yik5o2u5qC46YeM5Y+N5aSN5Ye6546w55qE6YKj57G75aSx5pWI77yaKirmlLnliqjnnIvotbfmnaXlupTnlKjkuobvvIzlrp7pmYXmsqHmnInjgIIqKgoKIyMjIOKRoiDovoXliqnlh73mlbDmj5LplJnkvY3nva7vvIzmiqLotbDkuoboo4XppbDlmagK5oiR5oqKIGBfaGFuZGxlcl9yZWNvcmRzYCDlrprkuYnmj5LliLAgYEBwcnVsZSgiRUdQMDEiLCAuLi4pYCAqKuS5i+WQjioq77yMCuS6juaYr+ijhemlsOWZqOijhemlsOS6hui+heWKqeWHveaVsO+8jGBFR1AwMWAg6KKr6Lii5Ye66KeE5YiZ6KGo77yMCuiAjCBgX2hhbmRsZXJfcmVjb3Jkc2Ag6KKr6LCD55So5oiQIGAodHJlZSwgc3JjLCBwYXRoKWAg4oaSIOavj+aWh+S7tuW0qea6g+S4gOasoeOAggoKIyMjIOKRoyBjbGkg5oqK6KeE5YiZ5bSp5rqD5b2T5oiQIGJsb2NrZXIg5oqlCmBleGNlcHQgRXhjZXB0aW9uOiBoaXRzPVt7ImxpbmUiOjAsImhpdCI6InJ1bGUgZXJyb3IuLi4ifV1gIOayv+eUqOinhOWImeiHqui6q+eahCBzZXZlcml0eeOAggoqKuS4gOadoeW0qeaOieeahOinhOWIme+8jOWcqOaKpeWRiumHjOmVv+W+l+WSjOecn+WPkeeOsOS4gOaooeS4gOagt+OAgioqCuS4gOasoei3keWHuiAyNyDkuKrlub3ngbUgYmxvY2tlcuOAguW3suaUueaIkCBgc2V2ZXJpdHk9ImluZm8iYCDlubYgYGNvbnRpbnVlYOOAggoKIyMjIOKRpCDot6/lvoTmiYHlubPljJborqnov4fmu6TlmajlpLHmlYgK5oiR5oqKIGBleGFtcGxlcy9zY29yZXIucHlgIOWtmOaIkCBgLi4uX19leGFtcGxlc19zY29yZXIucHlg77yIYC9g4oaSYF9g77yJ77yMCuS6juaYryBgImV4YW1wbGVzLyIgbm90IGluIHFg77yM5Zmq5aOw6Lev5b6E6L+H5rukKirku47mnKrlkb3kuK0qKuOAggoKIyMjIOKRpSBBL0Ig5rWL6K+V6aaW5qyh6LeR5Ye66YCQ5L2N55u45ZCM55qE57uT5p6cCuaooeWdl+e6pyBgc3lzLm1vZHVsZXNgIOaxoeafk++8muS4pOasoemDveWKoOi9veS6huWQjOS4gOS4qiBgcnVsZXNg44CCCuaUueaIkCoq54us56uL5a2Q6L+b56iLKirot5HmiY3mi7/liLDnnJ/lrp7lt67lvILjgILlt67ngrnlhpnmiJAi5L+u5pS55peg5pWI5p6cIuOAggoKLS0tCgojIyDlha3jgIHku6Pku7fvvJrkv67lgYfpmLPmgKflkIzml7bmnYDkuobnnJ/pmLPmgKcKCnwgfCB8CnwtLS18LS0tfAp8IOWfi+mbtyBmaXh0dXJlIOS4ouWkseecn+mYs+aApyB8ICoqMioq77yIRUcwMDbjgIFFR1AwMe+8iSB8Cnwg5bmy5YeAIGZpeHR1cmUg5q6L55WZ5YGH6Ziz5oCnIHwgKio0KirvvIhjbGVhbl9ldmFsOiBFR1AwNC9FR1AwNe+8m3Byb19jbGVhbjogRUcwMDIvRUcwMTbvvIkgfAoKKioi5bmy5YeA5qC35pys6Zu26K+v5oqlIui/meS4quWNlueCue+8jOWcqCBQUk8g6KeE5YiZ5LiL5LuO5p2l5bCx5LiN5oiQ56uL44CCKioK5oiR5q2k5YmN5Y+q5rWL5LqG5Z+656GA6KeE5YiZ55qEIGNsZWFuIOagt+acrO+8jOayoea1iyBQUk8g6KeE5YiZ55qEIGNsZWFuIOagt+acrOOAggoKLS0tCgojIyDkuIPjgIHllYbkuJrliKTmlq0KCioqdjAuMy4wIOeOsOWcqOS4jeiDveWNluOAgioqCgrlnKjmnYPlqIHmoYbmnrbkuIogMTclIOeahOeyvuehrueOh+aEj+WRs+edgO+8muS4gOS4quecn+WunuWuouaIt+aLv+iHquW3seeahOivhOa1i+S7o+eggeadpeaJq++8jArlpKfmpoLnjofkvJrnnIvliLDkuIDloIYi5oql5ZyoIEwx44CB5peg5rOV5a6a5L2N44CB5YW25a6e5piv5qCH5YeG5YaZ5rOVIueahCBibG9ja2Vy44CCCioq5Lya5Lmx5Y+r55qEIGxpbnRlciDmsqHkurrnlKgqKuKAlOKAlOi/meWPpeivneaYr+aIkeiHquW3seWGmeWcqOS6p+WTgemhteS4iueahOOAggoK5LiL5LiA5q2l5LiN5piv57un57ut5Yqg6KeE5YiZ77yM5piv77yaCgoxLiAqKuaKiuaWh+S7tue6p+WQr+WPkeW8j+WFqOmDqOaUueaIkOWHveaVsOe6pyArIOihjOe6p+WumuS9jSoq77yI6L+Z5pivIDExLzI3IOeahOagueWboO+8iQoyLiAqKuaKiiBmaXh0dXJlIOaJqeaIkCLnnJ/lrp7or63mlpnlm57lvZLpm4YiKirvvJpjb3JwdXMyIOeahCAyNyDkuKrmlofku7bov5sgQ0nvvIwKICAg5q+P5qyh5pS56KeE5YiZ5b+F6aG75ZCM5pe26YCa6L+H5Z+L6Zu377yI5LiN6ZmN5Y+s5Zue77yJ5ZKM5p2D5aiB6K+t5paZ77yI5LiN5Y2H5YGH6Ziz5oCn77yJCjMuIOeyvuehrueOh+S4jeWIsCA2MCUg5LmL5YmN77yM5LiN5oyC5LuY6LS56ZO+5o6lCgotLS0KCiMjIOWFq+OAgei+ueeVjAoKLSAqKiLnnJ8v5YGHIuaYr+aIkeeahOmAkOadoeS6uuW3peWIpOWumioq77yM5Yik5o2u5YaZ5Zyo5q2j5paH6YeM77yM5Y+v5aSN5qC477yb5rKh5pyJ56ys5LqM5qCH5rOo6ICF77yM5pegIM66Ci0gY29ycHVzMiDnmoQgMjcg5Liq5paH5Lu25piv5oiR55qE5Y+W5qC36KeE5YiZ6YCJ55qE77yM5LiN5piv5YWo6YePCi0g5Ymp5LiL6YKjIDEg5p2hIuecn+mYs+aApyLvvIhsbV9ldmFsIOS4jeaKpeWfuue6v++8iSoq5Y+v5Lul6L6p5oqkKirvvJoKICDlkIQgdGFzayDoh6rluKYgYmFzZWxpbmUg5piv6K6+6K6h6YCJ5oup77yM5Luj56CB6YeM5LiN5oql5pyq5b+F5piv57y66Zm3Ci0g5pys6L2u5pyq5o6l5byV5pOO77yM5LiN5Li75byg5Lu75L2V5YWz5LqOIue7k+aehCLnmoTnu5PorroKCi0tLQoKIyMg5Lmd44CB6Ieq5qOACgrmuLLmn5Mg4oaSIOWGmSBgL2Rldi9mYjBg77yIaW9jdGwg5a6e5rWLIDEwMjTDlzc2OMOXMzJicHDvvIwqKlJHQkEqKu+8ieKGkiDlm57ph4cgMywxNDUsNzI4IOWtl+iKgu+8mgoKYGBgCnJlbmRlciBzaGEgYWExM2RiMjRiMmUxCmNhcHR1cmUgc2hhIGFhMTNkYjI0YjJlMSAgICAg4oaQIOmAkOS9jeS4gOiHtApPQ1I6IFRPS0VOIEFIRFdOVSDlkb3kuK3vvIw4IOihjOWFqOivu+WHugpgYGAK
+# 129 · 真实世界审计：把 evalguard 打到九个权威评测框架上
+
+## 一句话结论
+
+**在 9 个权威评测框架的 61 个真实源文件上，v0.3.0 的 blocker 精确率是 11%（3/27）；
+修完是 17%（1/6）。我们此前"埋雷 10/10、干净 0/0"的成绩，是选择性取样造出来的。**
+
+这不是"产品还能再优化"，是**当前形态不能卖**。
+
+---
+
+## 一、语料：真实抓的，不是编的
+
+用 GitHub API 实抓（不是本地构造）：
+
+- corpus1 = 34 个文件（第一次按路径最短取，事后证明取偏了，见第五节）
+- corpus2 = 27 个**核心评测文件**（修正取样后）
+
+来源（全部真实仓库，main 分支）：
+
+```
+EleutherAI/lm-evaluation-harness · openai/evals · openai/simple-evals
+huggingface/lighteval · SWE-bench/SWE-bench · UKGovernmentBEIS/inspect_ai
+allenai/olmes · stanford-crfm/helm · google/BIG-bench
+```
+
+核心语料含 `lm_eval/evaluator.py`、`openai/evals/eval.py`、
+`oe_eval/run_eval.py`、`swebench/harness/grading.py`、
+`bigbench/evaluate_task.py`、`src/lighteval/pipeline.py` 等**真正的评测主逻辑**。
+
+---
+
+## 二、结果
+
+| 语料 | v0.3.0(修前) | 修复后 | 降幅 |
+|---|---|---|---|
+| corpus1（34 工具/配置文件） | 27 blocker | 9 | −67% |
+| corpus2（27 核心评测文件） | 21 | **6** | **−71%** |
+| fixtures（7 埋雷/干净样本） | 17 | 15 | −12% |
+
+### 人工逐条核验（这是关键，不是看命中数）
+
+**修前 27 条 blocker：3 真 / 24 假 = 11.1%**
+**修后核心语料 6 条：1 真 / 5 假 = 16.7%**
+
+唯一的真阳性：
+
+```
+EG002 · EleutherAI/lm-evaluation-harness :: lm_eval/evaluator.py
+        报了指标，全文没有随机基线符号
+```
+
+五个假阳性：
+
+```
+EG002  inspect_ai/examples/scorer.py   示例文件
+EG016  helm/scripts/heim_human_eval.py 文件级，报在 L1
+EGP02  simple-evals/drop_eval.py       Hungarian 最优匹配被当成阈值调优
+EGP04  BIG-bench/evaluate_task.py      文件级
+EGP04  lighteval/pipeline.py           文件级
+```
+
+---
+
+## 三、根因（27 条修前 blocker 的人工分类）
+
+| 根因 | 条数 |
+|---|---|
+| **文件级启发式**（整文件关键词布尔，报在 L1，无法定位） | 11 |
+| **子串匹配**（`acc`⊂`accept`、`fit`⊂`profit`、`curl`⊂`curly`） | 8 |
+| **AST 语义误读**（类型注解、切片、内部容器当模型响应） | 4 |
+| **标准控制流当反模式**（int→float 回退、重试、Hungarian 匹配） | 3 |
+| 噪声路径未过滤（tests/、examples/） | 1 |
+
+第一条**子串匹配**，和我们在 exp099 里诊断 TACT 引擎的病是**同一个病**。
+我们拿着诊断别人的判据，在自己的产品里原样复现了一遍。
+
+---
+
+## 四、修了什么
+
+1. `_has_word()`：子串 → 词边界
+2. `_derives_rules()`：**要求 AST 里真有 `fit(...)` 调用**，不再靠"fit"子串
+3. `EGP10`：排除类型注解上下文（`Optional[List[Text]]`）、切片（`[:-1]`），
+   并要求根变量**精确**属于响应词表（`result_dict[column][k]` 不再是"模型响应"）
+4. `EG006`：有注释说明 / 属于回退链 → 豁免
+5. `EGP01`：**只在评分循环内**、且**handler 没留下记录**才算静默丢弃
+6. `_is_noise_path()`：从"目录名含 tests/" 改成**按内容判断**
+   （第一版靠目录名，把放在 tests/ 下的埋雷 fixture 一起静音了）
+7. `_metric_line()`：不再固定报 L1
+
+---
+
+## 五、我这轮的错误（按严重度排）
+
+### ① 语料取样偏差 —— 第一次结论根本不成立
+`cands.sort(key=len(p))` 取**路径最短**的 4 个文件 → 抓到的全是
+`utils.py` / `data.py` / `__init__.py` / `cli_args.py`。
+**我扫的不是它们的评测脚本，是它们的工具类文件。**
+第二次改成按"核心评测文件名 + 排除 utils/tests/docs"取样，才拿到真语料。
+
+### ② 我以为修了，其实没修上（注释豁免）
+`ast.get_source_segment` **丢弃行尾注释**：
+
+```
+except PermissionError as e:
+    pass  # this is not a critical failure
+```
+
+拿到的 seg 是 `except PermissionError as e:\n    pass` —— **`#` 取不到**。
+`"#" in seg` 静默永不成立。改用**原始行文本**才生效。
+这是判据核里反复出现的那类失效：**改动看起来应用了，实际没有。**
+
+### ③ 辅助函数插错位置，抢走了装饰器
+我把 `_handler_records` 定义插到 `@prule("EGP01", ...)` **之后**，
+于是装饰器装饰了辅助函数，`EGP01` 被踢出规则表，
+而 `_handler_records` 被调用成 `(tree, src, path)` → 每文件崩溃一次。
+
+### ④ cli 把规则崩溃当成 blocker 报
+`except Exception: hits=[{"line":0,"hit":"rule error..."}]` 沿用规则自身的 severity。
+**一条崩掉的规则，在报告里长得和真发现一模一样。**
+一次跑出 27 个幽灵 blocker。已改成 `severity="info"` 并 `continue`。
+
+### ⑤ 路径扁平化让过滤器失效
+我把 `examples/scorer.py` 存成 `...__examples_scorer.py`（`/`→`_`），
+于是 `"examples/" not in q`，噪声路径过滤**从未命中**。
+
+### ⑥ A/B 测试首次跑出逐位相同的结果
+模块级 `sys.modules` 污染：两次都加载了同一个 `rules`。
+改成**独立子进程**跑才拿到真实差异。差点写成"修改无效果"。
+
+---
+
+## 六、代价：修假阳性同时杀了真阳性
+
+| | |
+|---|---|
+| 埋雷 fixture 丢失真阳性 | **2**（EG006、EGP01） |
+| 干净 fixture 残留假阳性 | **4**（clean_eval: EGP04/EGP05；pro_clean: EG002/EG016） |
+
+**"干净样本零误报"这个卖点，在 PRO 规则下从来就不成立。**
+我此前只测了基础规则的 clean 样本，没测 PRO 规则的 clean 样本。
+
+---
+
+## 七、商业判断
+
+**v0.3.0 现在不能卖。**
+
+在权威框架上 17% 的精确率意味着：一个真实客户拿自己的评测代码来扫，
+大概率会看到一堆"报在 L1、无法定位、其实是标准写法"的 blocker。
+**会乱叫的 linter 没人用**——这句话是我自己写在产品页上的。
+
+下一步不是继续加规则，是：
+
+1. **把文件级启发式全部改成函数级 + 行级定位**（这是 11/27 的根因）
+2. **把 fixture 扩成"真实语料回归集"**：corpus2 的 27 个文件进 CI，
+   每次改规则必须同时通过埋雷（不降召回）和权威语料（不升假阳性）
+3. 精确率不到 60% 之前，不挂付费链接
+
+---
+
+## 八、边界
+
+- **"真/假"是我的逐条人工判定**，判据写在正文里，可复核；没有第二标注者，无 κ
+- corpus2 的 27 个文件是我的取样规则选的，不是全量
+- 剩下那 1 条"真阳性"（lm_eval 不报基线）**可以辩护**：
+  各 task 自带 baseline 是设计选择，代码里不报未必是缺陷
+- 本轮未接引擎，不主张任何关于"结构"的结论
+
+---
+
+## 九、自检
+
+渲染 → 写 `/dev/fb0`（ioctl 实测 1024×768×32bpp，**RGBA**）→ 回采 3,145,728 字节：
+
+```
+render sha aa13db24b2e1
+capture sha aa13db24b2e1     ← 逐位一致
+OCR: TOKEN AHDWNU 命中，8 行全读出
+```

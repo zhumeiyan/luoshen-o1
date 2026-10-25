@@ -1,1 +1,53 @@
-ewogInJvd3MiOiBbCiAgewogICAicmVjZWlwdCI6IDEuNSwKICAgImFtcF9zcGFyc2UiOiAwLjAxLAogICAiYW1wX2RlbnNlIjogMC4wMDI1LAogICAibl9zcGFyc2UiOiAxNTAsCiAgICJuX2RlbnNlIjogNjAwLAogICAiYWxpdmVfc3BhcnNlIjogMjIsCiAgICJhbGl2ZV9kZW5zZSI6IDIyLAogICAibl9iYXNlIjogMjUsCiAgICJuX2NvbW1vbiI6IDIxLAogICAiZHJpZnRfc3BhcnNlIjogMC4xMTcwNDYyMjg4MzAwOTQ1NSwKICAgImRyaWZ0X2RlbnNlIjogMC4xMTA5Njc5NTAxMzAxNDUxLAogICAiZGVsdGEiOiAwLjAwNjA3ODI3ODY5OTk0OTQ2NSwKICAgImNpX2xvIjogLTAuMDIxMzIwMzQxNjQ3Njg5NTY4LAogICAiY2lfaGkiOiAwLjAzMTc2NDgwNTMxOTY4NzY4CiAgfSwKICB7CiAgICJyZWNlaXB0IjogMy4wLAogICAiYW1wX3NwYXJzZSI6IDAuMDIsCiAgICJhbXBfZGVuc2UiOiAwLjAwNSwKICAgIm5fc3BhcnNlIjogMTUwLAogICAibl9kZW5zZSI6IDYwMCwKICAgImFsaXZlX3NwYXJzZSI6IDE3LAogICAiYWxpdmVfZGVuc2UiOiAyMCwKICAgIm5fYmFzZSI6IDI1LAogICAibl9jb21tb24iOiAxNywKICAgImRyaWZ0X3NwYXJzZSI6IDAuMTI2NDE0NTkwMjE5NzIzMiwKICAgImRyaWZ0X2RlbnNlIjogMC4xMzYzODc4MDcxNDg4ODMyNCwKICAgImRlbHRhIjogLTAuMDA5OTczMjE2OTI5MTYwMDY3LAogICAiY2lfbG8iOiAtMC4wNTI1NTczNjc5MzM3NTg0MDUsCiAgICJjaV9oaSI6IDAuMDI1NjE5MjI3ODY5MDUwMjY3CiAgfSwKICB7CiAgICJyZWNlaXB0IjogNi4wLAogICAiYW1wX3NwYXJzZSI6IDAuMDQsCiAgICJhbXBfZGVuc2UiOiAwLjAxLAogICAibl9zcGFyc2UiOiAxNTAsCiAgICJuX2RlbnNlIjogNjAwLAogICAiYWxpdmVfc3BhcnNlIjogMTYsCiAgICJhbGl2ZV9kZW5zZSI6IDE4LAogICAibl9iYXNlIjogMjUsCiAgICJuX2NvbW1vbiI6IDE2LAogICAiZHJpZnRfc3BhcnNlIjogMC4xNTI1MDQ4NTc2ODA2Nzg0MiwKICAgImRyaWZ0X2RlbnNlIjogMC4xODQxOTgwMTAzMzAzMzAwNiwKICAgImRlbHRhIjogLTAuMDMxNjkzMTUyNjQ5NjUxNjEsCiAgICJjaV9sbyI6IC0wLjA2MzU5MjYxOTc4NDgxNTI0LAogICAiY2lfaGkiOiAtMC4wMDEyNzkxNTQyNDA2ODAyODcxCiAgfQogXSwKICJjb21tb25fbm90ZSI6ICLlhbHlkIzlrZjmtLvlrZDpm4bvvIzpmLLmrbvkuqHnrZvpgIkiCn0=
+{
+ "rows": [
+  {
+   "receipt": 1.5,
+   "amp_sparse": 0.01,
+   "amp_dense": 0.0025,
+   "n_sparse": 150,
+   "n_dense": 600,
+   "alive_sparse": 22,
+   "alive_dense": 22,
+   "n_base": 25,
+   "n_common": 21,
+   "drift_sparse": 0.11704622883009455,
+   "drift_dense": 0.1109679501301451,
+   "delta": 0.006078278699949465,
+   "ci_lo": -0.021320341647689568,
+   "ci_hi": 0.03176480531968768
+  },
+  {
+   "receipt": 3.0,
+   "amp_sparse": 0.02,
+   "amp_dense": 0.005,
+   "n_sparse": 150,
+   "n_dense": 600,
+   "alive_sparse": 17,
+   "alive_dense": 20,
+   "n_base": 25,
+   "n_common": 17,
+   "drift_sparse": 0.1264145902197232,
+   "drift_dense": 0.13638780714888324,
+   "delta": -0.009973216929160067,
+   "ci_lo": -0.052557367933758405,
+   "ci_hi": 0.025619227869050267
+  },
+  {
+   "receipt": 6.0,
+   "amp_sparse": 0.04,
+   "amp_dense": 0.01,
+   "n_sparse": 150,
+   "n_dense": 600,
+   "alive_sparse": 16,
+   "alive_dense": 18,
+   "n_base": 25,
+   "n_common": 16,
+   "drift_sparse": 0.15250485768067842,
+   "drift_dense": 0.18419801033033006,
+   "delta": -0.03169315264965161,
+   "ci_lo": -0.06359261978481524,
+   "ci_hi": -0.0012791542406802871
+  }
+ ],
+ "common_note": "共同存活子集，防死亡筛选"
+}

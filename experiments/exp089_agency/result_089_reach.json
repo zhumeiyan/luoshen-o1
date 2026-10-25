@@ -1,1 +1,26 @@
-ewogICJkaXNwbGF5IjogewogICAgImZyYW1lYnVmZmVyXy9kZXYvZmIwIjogdHJ1ZSwKICAgICJjaHJvbWUiOiB0cnVlLAogICAgInBsYXl3cmlnaHRfbW91c2Vfa2V5Ym9hcmQiOiB0cnVlLAogICAgInh2ZmIiOiBmYWxzZSwKICAgICJ3aW5kb3dfbWFuYWdlciI6IGZhbHNlCiAgfSwKICAib3MiOiB7CiAgICAic2hlbGwiOiB0cnVlLAogICAgIndyaXRlX2ZpbGVzIjogdHJ1ZSwKICAgICJzcGF3bl9wcm9jZXNzIjogdHJ1ZSwKICAgICJwcm9jX3JlYWQiOiB0cnVlLAogICAgImF1ZGlvX2NhcHR1cmVfZGV2aWNlIjogdHJ1ZQogIH0sCiAgIm5ldHdvcmsiOiB7CiAgICAiZ2l0aHViLmNvbSI6ICI0MDMiLAogICAgImFwaS5naXRodWIuY29tIjogIjQwMyIsCiAgICAiZ2l0ZWUuY29tIjogIjQwMyIsCiAgICAiaW0ucXEuY29tIjogIjIwMCIsCiAgICAicHlwaS5vcmciOiAiNDAzIiwKICAgICJodWdnaW5nZmFjZS5jbyI6ICI0MDMiLAogICAgInd0dHIuaW4iOiAiNDAzIiwKICAgICJxcWRsLmd0aW1nLmNuIjogIjQwMyIKICB9Cn0=
+{
+  "display": {
+    "framebuffer_/dev/fb0": true,
+    "chrome": true,
+    "playwright_mouse_keyboard": true,
+    "xvfb": false,
+    "window_manager": false
+  },
+  "os": {
+    "shell": true,
+    "write_files": true,
+    "spawn_process": true,
+    "proc_read": true,
+    "audio_capture_device": true
+  },
+  "network": {
+    "github.com": "403",
+    "api.github.com": "403",
+    "gitee.com": "403",
+    "im.qq.com": "200",
+    "pypi.org": "403",
+    "huggingface.co": "403",
+    "wttr.in": "403",
+    "qqdl.gtimg.cn": "403"
+  }
+}

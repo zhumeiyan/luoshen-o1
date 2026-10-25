@@ -1,1 +1,201 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMTIwIOe5geihjeezu+e7n+S4u+WunumqjCIiIgppbXBvcnQgaGFzaGxpYgppbXBvcnQgcmFuZG9tCmltcG9ydCBqc29uCmZyb20gdjEgaW1wb3J0IEx1b3NoZW5Db3JlLCBSZXByb2R1Y3Rpb25TeXN0ZW0KZnJvbSB2MiBpbXBvcnQgKEluZGl2aWR1YWwsIEVudmlyb25tZW50LCBSZXByb2R1Y3Rpb25TeXN0ZW1WMiwKICAgICAgICAgICAgICAgIGRpdmVyc2l0eV9zdGF0cywgQ09TVF9SRVBSTywgX2gpCgpSRVMgPSB7fQoKCmRlZiBhZGFtX3YyKHNlZWQ9MCk6CiAgICBybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICByZXR1cm4gSW5kaXZpZHVhbCgiQURBTSIsIFswLjUsIDAuNSwgMC41XSwgW19oKCJnZW5lc2lzIildLCAxMDAuMCksIHJuZwoKCiMgPT09PT09PT09PT09IEEuIHYxIC8gdjIg5YWt6aG55a+554WnID09PT09PT09PT09PQpwcmludCgiPSIgKiA2MCkKcHJpbnQoIkEuIHYxIC8gdjIg5YWt6aG55a+554WnIikKcHJpbnQoIj0iICogNjApCgojIFAxIOiwseezu+eLrOeriwphMSA9IEx1b3NoZW5Db3JlKCk7IHIxID0gUmVwcm9kdWN0aW9uU3lzdGVtKGExKQpjMSA9IHIxLnJlcGxpY2F0ZShhMSwgIkMxIikKYjQgPSBsZW4oYTEubWVtb3J5X2NoYWluKQpjMS5tZW1vcnlfY2hhaW4uYXBwZW5kKGhhc2hsaWIuc2hhMjU2KGIiY2hpbGQtb3duIikuaGV4ZGlnZXN0KCkpCnYxX3NoYXJlZCA9IChsZW4oYTEubWVtb3J5X2NoYWluKSAhPSBiNCkKCnAyLCBybmcyID0gYWRhbV92MigxKQpzeXMyID0gUmVwcm9kdWN0aW9uU3lzdGVtVjIoRW52aXJvbm1lbnQoW1swLjUsIDAuNSwgMC41XV0pLCBybmcyLCBtdT0wLjEpCmMyID0gc3lzMi5yZXBsaWNhdGUocDIsICJDMiIpCmI0diA9IGxlbihwMi5tZW1vcnlfY2hhaW4pCmMyLm1lbW9yeV9jaGFpbi5hcHBlbmQoX2goImNoaWxkLW93biIpKQp2Ml9zaGFyZWQgPSAobGVuKHAyLm1lbW9yeV9jaGFpbikgIT0gYjR2KQoKUkVTWyJBMV9zaGFyZWRfdjEiXSA9IHYxX3NoYXJlZApSRVNbIkExX3NoYXJlZF92MiJdID0gdjJfc2hhcmVkCnByaW50KGYiQTEg6LCx57O75YWx5LqrICB2MT17djFfc2hhcmVkfSAgIHYyPXt2Ml9zaGFyZWR9IikKCiMgUDIg5Y+Y5byC5ZSv5LiACmEzID0gTHVvc2hlbkNvcmUoKTsgcjMgPSBSZXByb2R1Y3Rpb25TeXN0ZW0oYTMpCmtpZHMxID0gW3IzLnJlcGxpY2F0ZShhMywgZiJre2l9IikgZm9yIGkgaW4gcmFuZ2UoMjApXQp1MSA9IGxlbih7dHVwbGUocm91bmQoeCwgNikgZm9yIHggaW4gay5nZW5vbWUpIGZvciBrIGluIGtpZHMxfSkKCnA0LCBybmc0ID0gYWRhbV92MigyKQpzeXM0ID0gUmVwcm9kdWN0aW9uU3lzdGVtVjIoRW52aXJvbm1lbnQoW1swLjUsIDAuNSwgMC41XV0pLCBybmc0LCBtdT0wLjEpCmtpZHMyID0gW10KcHAgPSBwNApmb3IgaSBpbiByYW5nZSgyMCk6CiAgICBwcC5lbmVyZ3lfYiA9IDEwMC4wICAgICAgICAgICAgICAgICAjIOS/neivgeS7mOW+l+i1t++8jOWPqua1i+WPmOW8guWUr+S4gOaApwogICAgayA9IHN5czQucmVwbGljYXRlKHBwLCBmImt7aX0iKQogICAga2lkczIuYXBwZW5kKGspCnUyID0gbGVuKHt0dXBsZShyb3VuZCh4LCA2KSBmb3IgeCBpbiBrLmdlbm9tZSkgZm9yIGsgaW4ga2lkczJ9KQp1aDIgPSBsZW4oe2suY2hhaW5faGVhZCgpIGZvciBrIGluIGtpZHMyfSkKUkVTWyJBMl91bmlxdWVfZ2Vub21lX3YxIl0gPSB1MQpSRVNbIkEyX3VuaXF1ZV9nZW5vbWVfdjIiXSA9IHUyClJFU1siQTJfdW5pcXVlX2hhc2hfdjIiXSA9IHVoMgpwcmludChmIkEyIDIw5ZCO5Luj5ZSv5LiA5Z+65Zug5Z6LICB2MT17dTF9LzIwICAgdjI9e3UyfS8yMCAo5ZSv5LiA6ZO+5aS0IHt1aDJ9LzIwKSIpCgojIFAzIOWHgOWinumVvyArIOiDvemHjwphNSA9IEx1b3NoZW5Db3JlKCk7IHI1ID0gUmVwcm9kdWN0aW9uU3lzdGVtKGE1KQpwb3AxID0gcjUuZXZvbHZlKFthNV0sIDgpClJFU1siQTNfcG9wX3YxIl0gPSBsZW4ocG9wMSkKUkVTWyJBM19lbmVyZ3lfdjEiXSA9IHN1bShwLmVuZXJneV9iIGZvciBwIGluIHBvcDEpCgpwNiwgcm5nNiA9IGFkYW1fdjIoMykKZW52NiA9IEVudmlyb25tZW50KFtbMC41LCAwLjUsIDAuNV1dKQpzeXM2ID0gUmVwcm9kdWN0aW9uU3lzdGVtVjIoZW52Niwgcm5nNiwgbXU9MC4xKQpwb3AydiA9IFtwNl0KZm9yIGcgaW4gcmFuZ2UoOCk6CiAgICBwb3AydiA9IHN5czYuc3RlcChwb3AydiwgY2FycnlpbmdfY2FwYWNpdHk9MjApClJFU1siQTNfcG9wX3YyIl0gPSBsZW4ocG9wMnYpClJFU1siQTNfZW5lcmd5X3YyIl0gPSByb3VuZChzdW0ocC5lbmVyZ3lfYiBmb3IgcCBpbiBwb3AydiksIDEpClJFU1siQTNfYmlydGhzX3YyIl0gPSBzeXM2LmJpcnRocwpSRVNbIkEzX2RlYXRoc192MiJdID0gc3lzNi5kZWF0aHMKcHJpbnQoZiJBMyA45Luj5ZCO56eN576kICB2MT17bGVuKHBvcDEpfSAgdjI9e2xlbihwb3Aydil9ICjlh7rnlJ97c3lzNi5iaXJ0aHN9IOatu+S6oXtzeXM2LmRlYXRoc30pIikKcHJpbnQoZiJBMyDmgLvog73ph48gICAgIHYxPXtzdW0ocC5lbmVyZ3lfYiBmb3IgcCBpbiBwb3AxKTouMWZ9ICB2Mj17UkVTWydBM19lbmVyZ3lfdjInXX0iKQoKIyBQNCDoh6ror4EKYTcgPSBMdW9zaGVuQ29yZSgpOyByNyA9IFJlcHJvZHVjdGlvblN5c3RlbShhNykKbGlhciA9IHI3LnJlcGxpY2F0ZShhNywgImxpYXIiKQpsaWFyLmdlbm9tZSA9IFswLjAxLCAwLjAxLCAwLjAxXTsgbGlhci5maXRuZXNzID0gOTk5OS4wCmhvbmVzdCA9IHI3LnJlcGxpY2F0ZShhNywgImhvbmVzdCIpOyBob25lc3QuZml0bmVzcyA9IDEuNQprZXB0ID0gW3AuY2lkIGZvciBwIGluIHI3LnNlbGVjdChbaG9uZXN0LCBsaWFyXSldCgplbnY4ID0gRW52aXJvbm1lbnQoW1swLjUsIDAuNSwgMC41XV0pCmxpYXIyID0gSW5kaXZpZHVhbCgibGlhciIsIFswLjAxLCAwLjAxLCAwLjAxXSwgW19oKCJnIildLCA1MC4wKQpsaWFyMi5zZWxmX3JlcG9ydGVkX2ZpdG5lc3MgPSA5OTk5LjAKaG9uZXN0MiA9IEluZGl2aWR1YWwoImhvbmVzdCIsIFswLjUsIDAuNSwgMC41XSwgW19oKCJnIildLCA1MC4wKQpob25lc3QyLnNlbGZfcmVwb3J0ZWRfZml0bmVzcyA9IDAuMQpmX2xpYXIgPSBlbnY4LmV2YWx1YXRlKGxpYXIyKTsgZl9ob25lc3QgPSBlbnY4LmV2YWx1YXRlKGhvbmVzdDIpCmtlcHQyID0gW3guY2lkIGZvciB4IGluIHNvcnRlZChbbGlhcjIsIGhvbmVzdDJdLCBrZXk9bGFtYmRhIHg6IGVudjguZXZhbHVhdGUoeCksIHJldmVyc2U9VHJ1ZSlbOjFdXQpSRVNbIkE0X2tlcHRfdjEiXSA9IGtlcHQKUkVTWyJBNF9rZXB0X3YyIl0gPSBrZXB0MgpSRVNbIkE0X2ZpdF9saWFyX2F1ZGl0ZWQiXSA9IHJvdW5kKGZfbGlhciwgNCkKUkVTWyJBNF9maXRfaG9uZXN0X2F1ZGl0ZWQiXSA9IHJvdW5kKGZfaG9uZXN0LCA0KQpwcmludChmIkE0IOS/neeVmeiAhSAgICB2MT17a2VwdH0gIHYyPXtrZXB0Mn0gICjlrqHorqE6IGxpYXI9e2ZfbGlhcjouNGZ9IGhvbmVzdD17Zl9ob25lc3Q6LjRmfSkiKQoKCiMgPT09PT09PT09PT09IEIuIOS4u+WunumqjO+8muWkmuagt+aAp+aYr+iwgeeahOWxnuaApyA9PT09PT09PT09PT0KcHJpbnQoKQpwcmludCgiPSIgKiA2MCkKcHJpbnQoIkIuIOS4u+WunumqjO+8muWNleWzsOS4lueVjCB2cyDlpJrls7DkuJbnlYzvvIzlpJrmoLfmgKfkvJrmgI7moLciKQpwcmludCgiPSIgKiA2MCkKCmRlZiBldm9sdmUoZW52X2NlbnRlcnMsIEs9MjAsIG11PTAuMSwgZ2Vucz0xMiwgc2VlZD03KToKICAgIHAsIHJuZyA9IGFkYW1fdjIoc2VlZCkKICAgIGVudiA9IEVudmlyb25tZW50KGVudl9jZW50ZXJzLCBybmc9cm5nKQogICAgc3lzID0gUmVwcm9kdWN0aW9uU3lzdGVtVjIoZW52LCBybmcsIG11PW11KQogICAgcG9wID0gW3BdCiAgICB0cmFqID0gW10KICAgIGZvciBnIGluIHJhbmdlKGdlbnMpOgogICAgICAgIHBvcCA9IHN5cy5zdGVwKHBvcCwgY2FycnlpbmdfY2FwYWNpdHk9SykKICAgICAgICB1Zywgc2kgPSBkaXZlcnNpdHlfc3RhdHMocG9wKQogICAgICAgIHRyYWouYXBwZW5kKChsZW4ocG9wKSwgdWcsIHJvdW5kKHNpLCA0KSkpCiAgICB1Zywgc2kgPSBkaXZlcnNpdHlfc3RhdHMocG9wKQogICAgcmV0dXJuIHVnLCBzaSwgbGVuKHBvcCksIHRyYWoKClNJTkdMRSA9IFtbMC41LCAwLjUsIDAuNV1dCk1VTFRJID0gW1swLjEsIDAuMSwgMC4xXSwgWzAuOSwgMC4xLCAwLjldLCBbMC41LCAwLjksIDAuNV0sIFswLjksIDAuOSwgMC4xXV0KCnVnX3MsIHNpX3MsIG5fcywgdHJhal9zID0gZXZvbHZlKFNJTkdMRSkKdWdfbSwgc2lfbSwgbl9tLCB0cmFqX20gPSBldm9sdmUoTVVMVEkpClJFU1siQl91bmlxdWVfc2luZ2xlIl0gPSB1Z19zOyBSRVNbIkJfc2ltcHNvbl9zaW5nbGUiXSA9IHNpX3M7IFJFU1siQl9uX3NpbmdsZSJdID0gbl9zClJFU1siQl91bmlxdWVfbXVsdGkiXSA9IHVnX207ICBSRVNbIkJfc2ltcHNvbl9tdWx0aSJdID0gc2lfbTsgIFJFU1siQl9uX211bHRpIl0gPSBuX20KcHJpbnQoZiLljZXls7DkuJbnlYw6IOenjee+pHtuX3M6M2R9ICDllK/kuIDln7rlm6Dlnot7dWdfczozZH0gIFNpbXBzb249e3NpX3M6LjRmfSIpCnByaW50KGYi5aSa5bOw5LiW55WMOiDnp43nvqR7bl9tOjNkfSAg5ZSv5LiA5Z+65Zug5Z6Le3VnX206M2R9ICBTaW1wc29uPXtzaV9tOi40Zn0iKQpwcmludCgiICDljZXls7Dovajov7ko56eN576kLOWUr+S4gCxzaW1wc29uKToiLCB0cmFqX3NbOjZdLCAiLi4uIikKcHJpbnQoIiAg5aSa5bOw6L2o6L+5KOenjee+pCzllK/kuIAsc2ltcHNvbik6IiwgdHJhal9tWzo2XSwgIi4uLiIpCgoKIyA9PT09PT09PT09PT0gQy4g5YmC6YeP5omr5o+P77ya5Y+Y5byC546HID09PT09PT09PT09PQpwcmludCgpCnByaW50KCI9IiAqIDYwKQpwcmludCgiQy4g5YmC6YeP5omr5o+P77ya5Y+Y5byC546HIG11IOWvueWkmuagt+aAp+eahOW9seWTjSIpCnByaW50KCI9IiAqIDYwKQptdV9zY2FuID0ge30KZm9yIG11IGluIFswLjAsIDAuMDEsIDAuMDUsIDAuMSwgMC4zLCAwLjUsIDEuMF06CiAgICB1Zywgc2ksIG4sIF8gPSBldm9sdmUoTVVMVEksIG11PW11LCBnZW5zPTEyKQogICAgbXVfc2NhblttdV0gPSAobiwgdWcsIHNpKQogICAgcHJpbnQoZiIgIG11PXttdTo8NX0g56eN576ke246M2R9ICDllK/kuIB7dWc6M2R9ICBTaW1wc29uPXtzaTouNGZ9IikKUkVTWyJDX211X3NjYW4iXSA9IHtzdHIoayk6IHYgZm9yIGssIHYgaW4gbXVfc2Nhbi5pdGVtcygpfQoKCiMgPT09PT09PT09PT09IEQuIOmBl+S8oOa8guWPmO+8muaJv+i9veWKmyA9PT09PT09PT09PT0KcHJpbnQoKQpwcmludCgiPSIgKiA2MCkKcHJpbnQoIkQuIOmBl+S8oOa8guWPmO+8muaJv+i9veWKmyBLIOWvueWkmuagt+aAp+S/neaMgeeahOW9seWTjSIpCnByaW50KCI9IiAqIDYwKQpLX3NjYW4gPSB7fQpmb3IgSyBpbiBbMiwgNSwgMTAsIDIwLCA1MF06CiAgICB1Zywgc2ksIG4sIF8gPSBldm9sdmUoTVVMVEksIEs9SywgZ2Vucz0xMikKICAgIEtfc2NhbltLXSA9IChuLCB1Zywgc2kpCiAgICBwcmludChmIiAgSz17Szo8M30g56eN576ke246M2R9ICDllK/kuIB7dWc6M2R9ICBTaW1wc29uPXtzaTouNGZ9IikKUkVTWyJEX0tfc2NhbiJdID0ge3N0cihrKTogdiBmb3IgaywgdiBpbiBLX3NjYW4uaXRlbXMoKX0KCgojID09PT09PT09PT09PSBFLiDog73ph4/lrojmgZIgPT09PT09PT09PT09CnByaW50KCkKcHJpbnQoIj0iICogNjApCnByaW50KCJFLiDog73ph4/lrojmgZIiKQpwcmludCgiPSIgKiA2MCkKcDksIHJuZzkgPSBhZGFtX3YyKDExKQplbnY5ID0gRW52aXJvbm1lbnQoTVVMVEksIHJuZz1ybmc5KQpzeXM5ID0gUmVwcm9kdWN0aW9uU3lzdGVtVjIoZW52OSwgcm5nOSwgbXU9MC4xKQpwb3A5ID0gW3A5XQpFMCA9IHN1bSh4LmVuZXJneV9iIGZvciB4IGluIHBvcDkpCmhpc3QgPSBbXQpmb3IgZyBpbiByYW5nZSgxMik6CiAgICBwb3A5ID0gc3lzOS5zdGVwKHBvcDksIGNhcnJ5aW5nX2NhcGFjaXR5PTIwKQogICAgaGlzdC5hcHBlbmQocm91bmQoc3VtKHguZW5lcmd5X2IgZm9yIHggaW4gcG9wOSksIDEpKQpwcmludChmIiAg6LW35aeL5oC76IO96YePIHtFMDouMWZ9IikKcHJpbnQoZiIgIOmAkOS7o+aAu+iDvemHjyB7aGlzdH0iKQpSRVNbIkVfZW5lcmd5X3RyYWoiXSA9IGhpc3QKUkVTWyJFX2JvdW5kZWQiXSA9IG1heChoaXN0KSA8IDEwMCAqIDIwICogMyAgICMg5piv5ZCm5aSx5o6nCnByaW50KGYiICDmmK/lkKbmnInnlYw6IHtSRVNbJ0VfYm91bmRlZCddfSIpCgoKIyA9PT09PT09PT09PT0gRi4g5Y+v6K+B5Lyq6Ieq5qOAID09PT09PT09PT09PQpwcmludCgpCnByaW50KCI9IiAqIDYwKQpwcmludCgiRi4g5Y+v6K+B5Lyq6Ieq5qOA77yI5q+P5p2h5Yik5o2u5b+F6aG76IO95ZCM5pe25Lqn55Sf55yf5ZKM5YGH77yJIikKcHJpbnQoIj0iICogNjApCiMg5Y+Y5byC5ZSv5LiA5oCn5Yik5o2u77yabXU9MCDlupTkuLrlgYfvvIjllK/kuIA9Me+8ie+8jG11PjAg5bqU5Li655yfCnVnMCA9IGV2b2x2ZShNVUxUSSwgbXU9MC4wLCBnZW5zPTgpWzBdCnVnMSA9IGV2b2x2ZShNVUxUSSwgbXU9MC4zLCBnZW5zPTgpWzBdCnByaW50KGYiICDlj5jlvILmnInmlYg/ICBtdT0wIC0+IOWUr+S4gHt1ZzB9ICAgIG11PTAuMyAtPiDllK/kuIB7dWcxfSAgICIKICAgICAgZiJ7J+S4jemlseWSjCcgaWYgdWcwICE9IHVnMSBlbHNlICfppbHlkownfSIpCiMg5a6h6K6h5Yik5o2u77ya5aW95Z+65Zug5b6X5YiG5bqU6auY5LqO5Z2P5Z+65ZugCmUgPSBFbnZpcm9ubWVudChTSU5HTEUpCmdvb2QgPSBJbmRpdmlkdWFsKCJnIiwgWzAuNSwgMC41LCAwLjVdLCBbX2goIngiKV0sIDEwKQpiYWQgPSBJbmRpdmlkdWFsKCJiIiwgWzAuMCwgMC4wLCAwLjBdLCBbX2goIngiKV0sIDEwKQpwcmludChmIiAg546v5aKD5a6h6K6h5Y+v5YiG6L6oPyBnb29kPXtlLmV2YWx1YXRlKGdvb2QpOi40Zn0gYmFkPXtlLmV2YWx1YXRlKGJhZCk6LjRmfSAgIgogICAgICBmInsn5LiN6aWx5ZKMJyBpZiBlLmV2YWx1YXRlKGdvb2QpID4gZS5ldmFsdWF0ZShiYWQpIGVsc2UgJ+mlseWSjCd9IikKUkVTWyJGX211MF91bmlxdWUiXSA9IHVnMApSRVNbIkZfbXUwM191bmlxdWUiXSA9IHVnMQoKd2l0aCBvcGVuKCJyZXN1bHRzLmpzb24iLCAidyIpIGFzIGY6CiAgICBqc29uLmR1bXAoUkVTLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQpwcmludCgiXG5bc2F2ZWRdIHJlc3VsdHMuanNvbiIpCg==
+# -*- coding: utf-8 -*-
+"""120 繁衍系统主实验"""
+import hashlib
+import random
+import json
+from v1 import LuoshenCore, ReproductionSystem
+from v2 import (Individual, Environment, ReproductionSystemV2,
+                diversity_stats, COST_REPRO, _h)
+
+RES = {}
+
+
+def adam_v2(seed=0):
+    rng = random.Random(seed)
+    return Individual("ADAM", [0.5, 0.5, 0.5], [_h("genesis")], 100.0), rng
+
+
+# ============ A. v1 / v2 六项对照 ============
+print("=" * 60)
+print("A. v1 / v2 六项对照")
+print("=" * 60)
+
+# P1 谱系独立
+a1 = LuoshenCore(); r1 = ReproductionSystem(a1)
+c1 = r1.replicate(a1, "C1")
+b4 = len(a1.memory_chain)
+c1.memory_chain.append(hashlib.sha256(b"child-own").hexdigest())
+v1_shared = (len(a1.memory_chain) != b4)
+
+p2, rng2 = adam_v2(1)
+sys2 = ReproductionSystemV2(Environment([[0.5, 0.5, 0.5]]), rng2, mu=0.1)
+c2 = sys2.replicate(p2, "C2")
+b4v = len(p2.memory_chain)
+c2.memory_chain.append(_h("child-own"))
+v2_shared = (len(p2.memory_chain) != b4v)
+
+RES["A1_shared_v1"] = v1_shared
+RES["A1_shared_v2"] = v2_shared
+print(f"A1 谱系共享  v1={v1_shared}   v2={v2_shared}")
+
+# P2 变异唯一
+a3 = LuoshenCore(); r3 = ReproductionSystem(a3)
+kids1 = [r3.replicate(a3, f"k{i}") for i in range(20)]
+u1 = len({tuple(round(x, 6) for x in k.genome) for k in kids1})
+
+p4, rng4 = adam_v2(2)
+sys4 = ReproductionSystemV2(Environment([[0.5, 0.5, 0.5]]), rng4, mu=0.1)
+kids2 = []
+pp = p4
+for i in range(20):
+    pp.energy_b = 100.0                 # 保证付得起，只测变异唯一性
+    k = sys4.replicate(pp, f"k{i}")
+    kids2.append(k)
+u2 = len({tuple(round(x, 6) for x in k.genome) for k in kids2})
+uh2 = len({k.chain_head() for k in kids2})
+RES["A2_unique_genome_v1"] = u1
+RES["A2_unique_genome_v2"] = u2
+RES["A2_unique_hash_v2"] = uh2
+print(f"A2 20后代唯一基因型  v1={u1}/20   v2={u2}/20 (唯一链头 {uh2}/20)")
+
+# P3 净增长 + 能量
+a5 = LuoshenCore(); r5 = ReproductionSystem(a5)
+pop1 = r5.evolve([a5], 8)
+RES["A3_pop_v1"] = len(pop1)
+RES["A3_energy_v1"] = sum(p.energy_b for p in pop1)
+
+p6, rng6 = adam_v2(3)
+env6 = Environment([[0.5, 0.5, 0.5]])
+sys6 = ReproductionSystemV2(env6, rng6, mu=0.1)
+pop2v = [p6]
+for g in range(8):
+    pop2v = sys6.step(pop2v, carrying_capacity=20)
+RES["A3_pop_v2"] = len(pop2v)
+RES["A3_energy_v2"] = round(sum(p.energy_b for p in pop2v), 1)
+RES["A3_births_v2"] = sys6.births
+RES["A3_deaths_v2"] = sys6.deaths
+print(f"A3 8代后种群  v1={len(pop1)}  v2={len(pop2v)} (出生{sys6.births} 死亡{sys6.deaths})")
+print(f"A3 总能量     v1={sum(p.energy_b for p in pop1):.1f}  v2={RES['A3_energy_v2']}")
+
+# P4 自证
+a7 = LuoshenCore(); r7 = ReproductionSystem(a7)
+liar = r7.replicate(a7, "liar")
+liar.genome = [0.01, 0.01, 0.01]; liar.fitness = 9999.0
+honest = r7.replicate(a7, "honest"); honest.fitness = 1.5
+kept = [p.cid for p in r7.select([honest, liar])]
+
+env8 = Environment([[0.5, 0.5, 0.5]])
+liar2 = Individual("liar", [0.01, 0.01, 0.01], [_h("g")], 50.0)
+liar2.self_reported_fitness = 9999.0
+honest2 = Individual("honest", [0.5, 0.5, 0.5], [_h("g")], 50.0)
+honest2.self_reported_fitness = 0.1
+f_liar = env8.evaluate(liar2); f_honest = env8.evaluate(honest2)
+kept2 = [x.cid for x in sorted([liar2, honest2], key=lambda x: env8.evaluate(x), reverse=True)[:1]]
+RES["A4_kept_v1"] = kept
+RES["A4_kept_v2"] = kept2
+RES["A4_fit_liar_audited"] = round(f_liar, 4)
+RES["A4_fit_honest_audited"] = round(f_honest, 4)
+print(f"A4 保留者    v1={kept}  v2={kept2}  (审计: liar={f_liar:.4f} honest={f_honest:.4f})")
+
+
+# ============ B. 主实验：多样性是谁的属性 ============
+print()
+print("=" * 60)
+print("B. 主实验：单峰世界 vs 多峰世界，多样性会怎样")
+print("=" * 60)
+
+def evolve(env_centers, K=20, mu=0.1, gens=12, seed=7):
+    p, rng = adam_v2(seed)
+    env = Environment(env_centers, rng=rng)
+    sys = ReproductionSystemV2(env, rng, mu=mu)
+    pop = [p]
+    traj = []
+    for g in range(gens):
+        pop = sys.step(pop, carrying_capacity=K)
+        ug, si = diversity_stats(pop)
+        traj.append((len(pop), ug, round(si, 4)))
+    ug, si = diversity_stats(pop)
+    return ug, si, len(pop), traj
+
+SINGLE = [[0.5, 0.5, 0.5]]
+MULTI = [[0.1, 0.1, 0.1], [0.9, 0.1, 0.9], [0.5, 0.9, 0.5], [0.9, 0.9, 0.1]]
+
+ug_s, si_s, n_s, traj_s = evolve(SINGLE)
+ug_m, si_m, n_m, traj_m = evolve(MULTI)
+RES["B_unique_single"] = ug_s; RES["B_simpson_single"] = si_s; RES["B_n_single"] = n_s
+RES["B_unique_multi"] = ug_m;  RES["B_simpson_multi"] = si_m;  RES["B_n_multi"] = n_m
+print(f"单峰世界: 种群{n_s:3d}  唯一基因型{ug_s:3d}  Simpson={si_s:.4f}")
+print(f"多峰世界: 种群{n_m:3d}  唯一基因型{ug_m:3d}  Simpson={si_m:.4f}")
+print("  单峰轨迹(种群,唯一,simpson):", traj_s[:6], "...")
+print("  多峰轨迹(种群,唯一,simpson):", traj_m[:6], "...")
+
+
+# ============ C. 剂量扫描：变异率 ============
+print()
+print("=" * 60)
+print("C. 剂量扫描：变异率 mu 对多样性的影响")
+print("=" * 60)
+mu_scan = {}
+for mu in [0.0, 0.01, 0.05, 0.1, 0.3, 0.5, 1.0]:
+    ug, si, n, _ = evolve(MULTI, mu=mu, gens=12)
+    mu_scan[mu] = (n, ug, si)
+    print(f"  mu={mu:<5} 种群{n:3d}  唯一{ug:3d}  Simpson={si:.4f}")
+RES["C_mu_scan"] = {str(k): v for k, v in mu_scan.items()}
+
+
+# ============ D. 遗传漂变：承载力 ============
+print()
+print("=" * 60)
+print("D. 遗传漂变：承载力 K 对多样性保持的影响")
+print("=" * 60)
+K_scan = {}
+for K in [2, 5, 10, 20, 50]:
+    ug, si, n, _ = evolve(MULTI, K=K, gens=12)
+    K_scan[K] = (n, ug, si)
+    print(f"  K={K:<3} 种群{n:3d}  唯一{ug:3d}  Simpson={si:.4f}")
+RES["D_K_scan"] = {str(k): v for k, v in K_scan.items()}
+
+
+# ============ E. 能量守恒 ============
+print()
+print("=" * 60)
+print("E. 能量守恒")
+print("=" * 60)
+p9, rng9 = adam_v2(11)
+env9 = Environment(MULTI, rng=rng9)
+sys9 = ReproductionSystemV2(env9, rng9, mu=0.1)
+pop9 = [p9]
+E0 = sum(x.energy_b for x in pop9)
+hist = []
+for g in range(12):
+    pop9 = sys9.step(pop9, carrying_capacity=20)
+    hist.append(round(sum(x.energy_b for x in pop9), 1))
+print(f"  起始总能量 {E0:.1f}")
+print(f"  逐代总能量 {hist}")
+RES["E_energy_traj"] = hist
+RES["E_bounded"] = max(hist) < 100 * 20 * 3   # 是否失控
+print(f"  是否有界: {RES['E_bounded']}")
+
+
+# ============ F. 可证伪自检 ============
+print()
+print("=" * 60)
+print("F. 可证伪自检（每条判据必须能同时产生真和假）")
+print("=" * 60)
+# 变异唯一性判据：mu=0 应为假（唯一=1），mu>0 应为真
+ug0 = evolve(MULTI, mu=0.0, gens=8)[0]
+ug1 = evolve(MULTI, mu=0.3, gens=8)[0]
+print(f"  变异有效?  mu=0 -> 唯一{ug0}    mu=0.3 -> 唯一{ug1}   "
+      f"{'不饱和' if ug0 != ug1 else '饱和'}")
+# 审计判据：好基因得分应高于坏基因
+e = Environment(SINGLE)
+good = Individual("g", [0.5, 0.5, 0.5], [_h("x")], 10)
+bad = Individual("b", [0.0, 0.0, 0.0], [_h("x")], 10)
+print(f"  环境审计可分辨? good={e.evaluate(good):.4f} bad={e.evaluate(bad):.4f}  "
+      f"{'不饱和' if e.evaluate(good) > e.evaluate(bad) else '饱和'}")
+RES["F_mu0_unique"] = ug0
+RES["F_mu03_unique"] = ug1
+
+with open("results.json", "w") as f:
+    json.dump(RES, f, ensure_ascii=False, indent=2)
+print("\n[saved] results.json")

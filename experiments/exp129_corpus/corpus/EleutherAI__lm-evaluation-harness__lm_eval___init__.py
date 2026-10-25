@@ -1,1 +1,29 @@
-aW1wb3J0IGltcG9ydGxpYi5tZXRhZGF0YQppbXBvcnQgbG9nZ2luZwppbXBvcnQgb3MKZnJvbSBpbXBvcnRsaWIudXRpbCBpbXBvcnQgZmluZF9zcGVjCgoKX192ZXJzaW9uX18gPSBpbXBvcnRsaWIubWV0YWRhdGEudmVyc2lvbigibG1fZXZhbCIpCgoKIyBFbmFibGUgaGlnaC1wZXJmb3JtYW5jZSB0cmFuc2ZlcnMKb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJIRl9YRVRfSElHSF9QRVJGT1JNQU5DRSIsICIxIikgICMgaHVnZ2luZ2ZhY2VfaHViID49IDAuMzIuMAppZiBmaW5kX3NwZWMoImhmX3RyYW5zZmVyIikgaXMgbm90IE5vbmU6CiAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIkhGX0hVQl9FTkFCTEVfSEZfVFJBTlNGRVIiLCAiMSIpICAjIGxlZ2FjeSBoZl90cmFuc2ZlcgoKCiMgTGF6eS1sb2FkIC5ldmFsdWF0b3IgbW9kdWxlIHRvIGltcHJvdmUgQ0xJIHN0YXJ0dXAKZGVmIF9fZ2V0YXR0cl9fKG5hbWUpOgogICAgaWYgbmFtZSA9PSAiZXZhbHVhdGUiOgogICAgICAgIGZyb20gLmV2YWx1YXRvciBpbXBvcnQgZXZhbHVhdGUKCiAgICAgICAgcmV0dXJuIGV2YWx1YXRlCiAgICBlbGlmIG5hbWUgPT0gInNpbXBsZV9ldmFsdWF0ZSI6CiAgICAgICAgZnJvbSAuZXZhbHVhdG9yIGltcG9ydCBzaW1wbGVfZXZhbHVhdGUKCiAgICAgICAgcmV0dXJuIHNpbXBsZV9ldmFsdWF0ZQogICAgcmFpc2UgQXR0cmlidXRlRXJyb3IoZiJtb2R1bGUge19fbmFtZV9fIXJ9IGhhcyBubyBhdHRyaWJ1dGUge25hbWUhcn0iKQoKCl9fYWxsX18gPSBbImV2YWx1YXRlIiwgInNpbXBsZV9ldmFsdWF0ZSIsICJfX3ZlcnNpb25fXyJdCg==
+import importlib.metadata
+import logging
+import os
+from importlib.util import find_spec
+
+
+__version__ = importlib.metadata.version("lm_eval")
+
+
+# Enable high-performance transfers
+os.environ.setdefault("HF_XET_HIGH_PERFORMANCE", "1")  # huggingface_hub >= 0.32.0
+if find_spec("hf_transfer") is not None:
+    os.environ.setdefault("HF_HUB_ENABLE_HF_TRANSFER", "1")  # legacy hf_transfer
+
+
+# Lazy-load .evaluator module to improve CLI startup
+def __getattr__(name):
+    if name == "evaluate":
+        from .evaluator import evaluate
+
+        return evaluate
+    elif name == "simple_evaluate":
+        from .evaluator import simple_evaluate
+
+        return simple_evaluate
+    raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
+
+
+__all__ = ["evaluate", "simple_evaluate", "__version__"]

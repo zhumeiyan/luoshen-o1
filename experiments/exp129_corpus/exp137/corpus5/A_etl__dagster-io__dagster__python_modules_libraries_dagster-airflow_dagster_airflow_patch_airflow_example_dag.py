@@ -1,1 +1,16 @@
-ZnJvbSBkYWdzdGVyX2FpcmZsb3cudXRpbHMgaW1wb3J0IGlzX2FpcmZsb3dfMl9sb2FkZWRfaW5fZW52aXJvbm1lbnQKCgojIFRoZXJlIGlzIGEgYnVnIGluIGFpcmZsb3cgdjEKIyAnc2VhcmNoX2NhdGFsb2cnIGlzIG1pc3NpbmcgYSByZXF1aXJlZCBwb3NpdGlvbiBhcmd1bWVudCAnXycuIEl0IGlzIGZpeGVkIGluIGFpcmZsb3cgdjIuCiMgdjEuMTAgc3RhYmxlOiBodHRwczovL2dpdGh1Yi5jb20vYXBhY2hlL2FpcmZsb3cvYmxvYi92MS0xMC1zdGFibGUvYWlyZmxvdy9leGFtcGxlX2RhZ3MvZXhhbXBsZV9jb21wbGV4LnB5I0wxMzMKIyBtYXN0ZXIgKDA1LTA1LTIwMjApOiBodHRwczovL2dpdGh1Yi5jb20vYXBhY2hlL2FpcmZsb3cvYmxvYi9tYXN0ZXIvYWlyZmxvdy9leGFtcGxlX2RhZ3MvZXhhbXBsZV9jb21wbGV4LnB5I0wxMzZzCmRlZiBwYXRjaF9haXJmbG93X2V4YW1wbGVfZGFnKGRhZ19iYWcpOgogICAgaWYgaXNfYWlyZmxvd18yX2xvYWRlZF9pbl9lbnZpcm9ubWVudCgpOgogICAgICAgIHJldHVybgoKICAgIGRhZyA9IGRhZ19iYWcuZGFncy5nZXQoImV4YW1wbGVfY29tcGxleCIpCiAgICB0YXNrID0gZGFnLmdldF90YXNrKCJzZWFyY2hfY2F0YWxvZyIpCiAgICB0YXNrLm9wX2FyZ3MgPSBbImR1bW15Il0KCiAgICByZXR1cm4K
+from dagster_airflow.utils import is_airflow_2_loaded_in_environment
+
+
+# There is a bug in airflow v1
+# 'search_catalog' is missing a required position argument '_'. It is fixed in airflow v2.
+# v1.10 stable: https://github.com/apache/airflow/blob/v1-10-stable/airflow/example_dags/example_complex.py#L133
+# master (05-05-2020): https://github.com/apache/airflow/blob/master/airflow/example_dags/example_complex.py#L136s
+def patch_airflow_example_dag(dag_bag):
+    if is_airflow_2_loaded_in_environment():
+        return
+
+    dag = dag_bag.dags.get("example_complex")
+    task = dag.get_task("search_catalog")
+    task.op_args = ["dummy"]
+
+    return

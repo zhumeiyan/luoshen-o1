@@ -1,1 +1,313 @@
-IiIiCkRST1A6IEEgUmVhZGluZyBDb21wcmVoZW5zaW9uIEJlbmNobWFyayBSZXF1aXJpbmcgRGlzY3JldGUgUmVhc29uaW5nIE92ZXIgUGFyYWdyYXBocwpEaGVlcnUgRHVhLCBZaXpob25nIFdhbmcsIFByYWRlZXAgRGFzaWdpLCBHYWJyaWVsIFN0YW5vdnNreSwgU2FtZWVyIFNpbmdoLCBNYXR0IEdhcmRuZXIKaHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzE5MDMuMDAxNjEKIiIiCgppbXBvcnQgZ3ppcAppbXBvcnQganNvbgppbXBvcnQgcmFuZG9tCmltcG9ydCByZQppbXBvcnQgc3RyaW5nCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIE9wdGlvbmFsLCBTZXQsIFR1cGxlLCBVbmlvbgoKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gc2NpcHkub3B0aW1pemUgaW1wb3J0IGxpbmVhcl9zdW1fYXNzaWdubWVudAoKZnJvbSAuIGltcG9ydCBjb21tb24KZnJvbSAuY29tbW9uIGltcG9ydCBBTlNXRVJfUEFUVEVSTiwgSFRNTF9KSU5KQQpmcm9tIC50eXBlcyBpbXBvcnQgRXZhbCwgRXZhbFJlc3VsdCwgU2FtcGxlckJhc2UsIFNpbmdsZUV2YWxSZXN1bHQKCiIiIgpGcm9tIGhlcmUgdGhyb3VnaCBfbm9ybWFsaXplX2Fuc3dlciB3YXMgb3JpZ2luYWxseSBjb3BpZWQgZnJvbToKaHR0cHM6Ly93b3Jrc2hlZXRzLmNvZGFsYWIub3JnL3Jlc3QvYnVuZGxlcy8weDZiNTY3ZTFjZjJlMDQxZWM4MGQ3MDk4ZjAzMWM1YzllL2NvbnRlbnRzL2Jsb2IvClRoZW4gY2xlYW5lZCB1cCBhbmQgbW9kaWZpZWQgYSBiaXQuCgpUaGUgcmVzdCB3YXMgb3JpZ2luYWxseSBjb3BpZWQgZnJvbSBodHRwczovL2dpdGh1Yi5jb20vYWxsZW5haS9hbGxlbm5scC1yZWFkaW5nLWNvbXByZWhlbnNpb24vYmxvYi9tYXN0ZXIvYWxsZW5ubHBfcmMKL2V2YWwvZHJvcF9ldmFsLnB5CiIiIgoKCmRlZiBfcmVtb3ZlX2FydGljbGVzKHRleHQ6IHN0cikgLT4gc3RyOgogICAgcmVnZXggPSByZS5jb21waWxlKHIiXGIoYXxhbnx0aGUpXGIiLCByZS5VTklDT0RFKQogICAgcmV0dXJuIHJlLnN1YihyZWdleCwgIiAiLCB0ZXh0KQoKCmRlZiBfd2hpdGVfc3BhY2VfZml4KHRleHQ6IHN0cikgLT4gc3RyOgogICAgcmV0dXJuICIgIi5qb2luKHRleHQuc3BsaXQoKSkKCgpFWENMVURFID0gc2V0KHN0cmluZy5wdW5jdHVhdGlvbikKCgpkZWYgX3JlbW92ZV9wdW5jKHRleHQ6IHN0cikgLT4gc3RyOgogICAgaWYgbm90IF9pc19udW1iZXIodGV4dCk6CiAgICAgICAgcmV0dXJuICIiLmpvaW4oY2ggZm9yIGNoIGluIHRleHQgaWYgY2ggbm90IGluIEVYQ0xVREUpCiAgICBlbHNlOgogICAgICAgIHJldHVybiB0ZXh0CgoKZGVmIF9sb3dlcih0ZXh0OiBzdHIpIC0+IHN0cjoKICAgIHJldHVybiB0ZXh0Lmxvd2VyKCkKCgpkZWYgX3Rva2VuaXplKHRleHQ6IHN0cikgLT4gTGlzdFtzdHJdOgogICAgcmV0dXJuIHJlLnNwbGl0KCIgfC0iLCB0ZXh0KQoKCmRlZiBfbm9ybWFsaXplX2Fuc3dlcih0ZXh0OiBzdHIpIC0+IHN0cjoKICAgICIiIkxvd2VyIHRleHQgYW5kIHJlbW92ZSBwdW5jdHVhdGlvbiwgYXJ0aWNsZXMgYW5kIGV4dHJhIHdoaXRlc3BhY2UuIiIiCgogICAgcGFydHMgPSBbCiAgICAgICAgX3doaXRlX3NwYWNlX2ZpeChfcmVtb3ZlX2FydGljbGVzKF9ub3JtYWxpemVfbnVtYmVyKF9yZW1vdmVfcHVuYyhfbG93ZXIodG9rZW4pKSkpKQogICAgICAgIGZvciB0b2tlbiBpbiBfdG9rZW5pemUodGV4dCkKICAgIF0KICAgIHBhcnRzID0gW3BhcnQgZm9yIHBhcnQgaW4gcGFydHMgaWYgcGFydC5zdHJpcCgpXQogICAgbm9ybWFsaXplZCA9ICIgIi5qb2luKHBhcnRzKS5zdHJpcCgpCiAgICByZXR1cm4gbm9ybWFsaXplZAoKCmRlZiBfaXNfbnVtYmVyKHRleHQ6IHN0cikgLT4gYm9vbDoKICAgIHRyeToKICAgICAgICBmbG9hdCh0ZXh0KQogICAgICAgIHJldHVybiBUcnVlCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICByZXR1cm4gRmFsc2UKCgpkZWYgX25vcm1hbGl6ZV9udW1iZXIodGV4dDogc3RyKSAtPiBzdHI6CiAgICBpZiBfaXNfbnVtYmVyKHRleHQpOgogICAgICAgIHJldHVybiBzdHIoZmxvYXQodGV4dCkpCiAgICBlbHNlOgogICAgICAgIHJldHVybiB0ZXh0CgoKZGVmIF9hbnN3ZXJfdG9fYmFncygKICAgIGFuc3dlcjogVW5pb25bc3RyLCBMaXN0W3N0cl0sIFR1cGxlW3N0ciwgLi4uXV0KKSAtPiBUdXBsZVtMaXN0W3N0cl0sIExpc3RbU2V0W3N0cl1dXToKICAgIGlmIGlzaW5zdGFuY2UoYW5zd2VyLCAobGlzdCwgdHVwbGUpKToKICAgICAgICByYXdfc3BhbnMgPSBhbnN3ZXIKICAgIGVsc2U6CiAgICAgICAgcmF3X3NwYW5zID0gW2Fuc3dlcl0KICAgIG5vcm1hbGl6ZWRfc3BhbnM6IExpc3Rbc3RyXSA9IFtdCiAgICB0b2tlbl9iYWdzID0gW10KICAgIGZvciByYXdfc3BhbiBpbiByYXdfc3BhbnM6CiAgICAgICAgbm9ybWFsaXplZF9zcGFuID0gX25vcm1hbGl6ZV9hbnN3ZXIocmF3X3NwYW4pCiAgICAgICAgbm9ybWFsaXplZF9zcGFucy5hcHBlbmQobm9ybWFsaXplZF9zcGFuKQogICAgICAgIHRva2VuX2JhZ3MuYXBwZW5kKHNldChub3JtYWxpemVkX3NwYW4uc3BsaXQoKSkpCiAgICByZXR1cm4gbm9ybWFsaXplZF9zcGFucywgdG9rZW5fYmFncwoKCmRlZiBfYWxpZ25fYmFncyhwcmVkaWN0ZWQ6IExpc3RbU2V0W3N0cl1dLCBnb2xkOiBMaXN0W1NldFtzdHJdXSkgLT4gTGlzdFtmbG9hdF06CiAgICAiIiIKICAgIFRha2VzIGdvbGQgYW5kIHByZWRpY3RlZCBhbnN3ZXIgc2V0cyBhbmQgZmlyc3QgZmluZHMgdGhlIG9wdGltYWwgMS0xIGFsaWdubWVudAogICAgYmV0d2VlbiB0aGVtIGFuZCBnZXRzIG1heGltdW0gbWV0cmljIHZhbHVlcyBvdmVyIGFsbCB0aGUgYW5zd2Vycy4KICAgICIiIgogICAgc2NvcmVzID0gbnAuemVyb3MoW2xlbihnb2xkKSwgbGVuKHByZWRpY3RlZCldKQogICAgZm9yIGdvbGRfaW5kZXgsIGdvbGRfaXRlbSBpbiBlbnVtZXJhdGUoZ29sZCk6CiAgICAgICAgZm9yIHByZWRfaW5kZXgsIHByZWRfaXRlbSBpbiBlbnVtZXJhdGUocHJlZGljdGVkKToKICAgICAgICAgICAgaWYgX21hdGNoX251bWJlcnNfaWZfcHJlc2VudChnb2xkX2l0ZW0sIHByZWRfaXRlbSk6CiAgICAgICAgICAgICAgICBzY29yZXNbZ29sZF9pbmRleCwgcHJlZF9pbmRleF0gPSBfY29tcHV0ZV9mMShwcmVkX2l0ZW0sIGdvbGRfaXRlbSkKICAgIHJvd19pbmQsIGNvbF9pbmQgPSBsaW5lYXJfc3VtX2Fzc2lnbm1lbnQoLXNjb3JlcykKCiAgICBtYXhfc2NvcmVzID0gbnAuemVyb3MoW21heChsZW4oZ29sZCksIGxlbihwcmVkaWN0ZWQpKV0pCiAgICBmb3Igcm93LCBjb2x1bW4gaW4gemlwKHJvd19pbmQsIGNvbF9pbmQpOgogICAgICAgIG1heF9zY29yZXNbcm93XSA9IG1heChtYXhfc2NvcmVzW3Jvd10sIHNjb3Jlc1tyb3csIGNvbHVtbl0pCiAgICByZXR1cm4gbWF4X3Njb3JlcwoKCmRlZiBfY29tcHV0ZV9mMShwcmVkaWN0ZWRfYmFnOiBTZXRbc3RyXSwgZ29sZF9iYWc6IFNldFtzdHJdKSAtPiBmbG9hdDoKICAgIGludGVyc2VjdGlvbiA9IGxlbihnb2xkX2JhZy5pbnRlcnNlY3Rpb24ocHJlZGljdGVkX2JhZykpCiAgICBpZiBub3QgcHJlZGljdGVkX2JhZzoKICAgICAgICBwcmVjaXNpb24gPSAxLjAKICAgIGVsc2U6CiAgICAgICAgcHJlY2lzaW9uID0gaW50ZXJzZWN0aW9uIC8gZmxvYXQobGVuKHByZWRpY3RlZF9iYWcpKQogICAgaWYgbm90IGdvbGRfYmFnOgogICAgICAgIHJlY2FsbCA9IDEuMAogICAgZWxzZToKICAgICAgICByZWNhbGwgPSBpbnRlcnNlY3Rpb24gLyBmbG9hdChsZW4oZ29sZF9iYWcpKQogICAgZjEgPSAoCiAgICAgICAgKDIgKiBwcmVjaXNpb24gKiByZWNhbGwpIC8gKHByZWNpc2lvbiArIHJlY2FsbCkKICAgICAgICBpZiBub3QgKHByZWNpc2lvbiA9PSAwLjAgYW5kIHJlY2FsbCA9PSAwLjApCiAgICAgICAgZWxzZSAwLjAKICAgICkgKiAxMDAKICAgIHJldHVybiBmMQoKCmRlZiBfbWF0Y2hfbnVtYmVyc19pZl9wcmVzZW50KGdvbGRfYmFnOiBTZXRbc3RyXSwgcHJlZGljdGVkX2JhZzogU2V0W3N0cl0pIC0+IGJvb2w6CiAgICBnb2xkX251bWJlcnMgPSBzZXQoKQogICAgcHJlZGljdGVkX251bWJlcnMgPSBzZXQoKQogICAgZm9yIHdvcmQgaW4gZ29sZF9iYWc6CiAgICAgICAgaWYgX2lzX251bWJlcih3b3JkKToKICAgICAgICAgICAgZ29sZF9udW1iZXJzLmFkZCh3b3JkKQogICAgZm9yIHdvcmQgaW4gcHJlZGljdGVkX2JhZzoKICAgICAgICBpZiBfaXNfbnVtYmVyKHdvcmQpOgogICAgICAgICAgICBwcmVkaWN0ZWRfbnVtYmVycy5hZGQod29yZCkKICAgIGlmIChub3QgZ29sZF9udW1iZXJzKSBvciBnb2xkX251bWJlcnMuaW50ZXJzZWN0aW9uKHByZWRpY3RlZF9udW1iZXJzKToKICAgICAgICByZXR1cm4gVHJ1ZQogICAgcmV0dXJuIEZhbHNlCgoKZGVmIGdldF9kcm9wX21ldHJpY3MoCiAgICBwcmVkaWN0ZWQ6IFVuaW9uW3N0ciwgTGlzdFtzdHJdLCBUdXBsZVtzdHIsIC4uLl1dLCBnb2xkOiBVbmlvbltzdHIsIExpc3Rbc3RyXSwgVHVwbGVbc3RyLCAuLi5dXQopIC0+IFR1cGxlW2Zsb2F0LCBmbG9hdF06CiAgICAiIiIKICAgIFRha2VzIGEgcHJlZGljdGVkIGFuc3dlciBhbmQgYSBnb2xkIGFuc3dlciAodGhhdCBhcmUgYm90aCBlaXRoZXIgYSBzdHJpbmcgb3IgYSBsaXN0IG9mCiAgICBzdHJpbmdzKSwgYW5kIHJldHVybnMgZXhhY3QgbWF0Y2ggYW5kIHRoZSBEUk9QIEYxIG1ldHJpYyBmb3IgdGhlIHByZWRpY3Rpb24uICBJZiB5b3UgYXJlCiAgICB3cml0aW5nIGEgc2NyaXB0IGZvciBldmFsdWF0aW5nIG9iamVjdHMgaW4gbWVtb3J5IChzYXksIHRoZSBvdXRwdXQgb2YgcHJlZGljdGlvbnMgZHVyaW5nCiAgICB2YWxpZGF0aW9uLCBvciB3aGlsZSB0cmFpbmluZyksIHRoaXMgaXMgdGhlIGZ1bmN0aW9uIHlvdSB3YW50IHRvIGNhbGwsIGFmdGVyIHVzaW5nCiAgICA6ZnVuYzpgYW5zd2VyX2pzb25fdG9fc3RyaW5nc2Agd2hlbiByZWFkaW5nIHRoZSBnb2xkIGFuc3dlciBmcm9tIHRoZSByZWxlYXNlZCBkYXRhIGZpbGUuCiAgICAiIiIKICAgIHByZWRpY3RlZF9iYWdzID0gX2Fuc3dlcl90b19iYWdzKHByZWRpY3RlZCkKICAgIGdvbGRfYmFncyA9IF9hbnN3ZXJfdG9fYmFncyhnb2xkKQoKICAgIGlmIHNldChwcmVkaWN0ZWRfYmFnc1swXSkgPT0gc2V0KGdvbGRfYmFnc1swXSkgYW5kIGxlbihwcmVkaWN0ZWRfYmFnc1swXSkgPT0gbGVuKGdvbGRfYmFnc1swXSk6CiAgICAgICAgZXhhY3RfbWF0Y2ggPSAxLjAKICAgIGVsc2U6CiAgICAgICAgZXhhY3RfbWF0Y2ggPSAwLjAKCiAgICBmMV9wZXJfYmFnID0gX2FsaWduX2JhZ3MocHJlZGljdGVkX2JhZ3NbMV0sIGdvbGRfYmFnc1sxXSkKICAgIGYxID0gbnAubWVhbihmMV9wZXJfYmFnKQogICAgZjEgPSByb3VuZChmMSwgMikKICAgIHJldHVybiBleGFjdF9tYXRjaCwgZjEKCgpkZWYgYW5zd2VyX2pzb25fdG9fc3RyaW5ncyhhbnN3ZXI6IERpY3Rbc3RyLCBBbnldKSAtPiBUdXBsZVtUdXBsZVtzdHIsIC4uLl0sIHN0cl06CiAgICAiIiIKICAgIFRha2VzIGFuIGFuc3dlciBKU09OIGJsb2IgZnJvbSB0aGUgRFJPUCBkYXRhIHJlbGVhc2UgYW5kIGNvbnZlcnRzIGl0IGludG8gc3RyaW5ncyB1c2VkIGZvcgogICAgZXZhbHVhdGlvbi4KICAgICIiIgogICAgaWYgIm51bWJlciIgaW4gYW5zd2VyIGFuZCBhbnN3ZXJbIm51bWJlciJdOgogICAgICAgIHJldHVybiB0dXBsZShbc3RyKGFuc3dlclsibnVtYmVyIl0pXSksICJudW1iZXIiCiAgICBlbGlmICJzcGFucyIgaW4gYW5zd2VyIGFuZCBhbnN3ZXJbInNwYW5zIl06CiAgICAgICAgcmV0dXJuIHR1cGxlKGFuc3dlclsic3BhbnMiXSksICJzcGFuIiBpZiBsZW4oYW5zd2VyWyJzcGFucyJdKSA9PSAxIGVsc2UgInNwYW5zIgogICAgZWxpZiAiZGF0ZSIgaW4gYW5zd2VyOgogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIHR1cGxlKAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICJ7MH0gezF9IHsyfSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBhbnN3ZXJbImRhdGUiXVsiZGF5Il0sIGFuc3dlclsiZGF0ZSJdWyJtb250aCJdLCBhbnN3ZXJbImRhdGUiXVsieWVhciJdCiAgICAgICAgICAgICAgICAgICAgKS5zdHJpcCgpCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICksCiAgICAgICAgICAgICJkYXRlIiwKICAgICAgICApCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgIGYiQW5zd2VyIHR5cGUgbm90IGZvdW5kLCBzaG91bGQgYmUgb25lIG9mIG51bWJlciwgc3BhbnMgb3IgZGF0ZSBhdDoge2pzb24uZHVtcHMoYW5zd2VyKX0iCiAgICAgICAgKQoKCmRlZiBhbnN3ZXJfanNvbl90b19zdHJpbmcoYW5zd2VyX2pzb24pOgogICAgcmV0dXJuIGpzb24uZHVtcHMoYW5zd2VyX2pzb25fdG9fc3RyaW5ncyhhbnN3ZXJfanNvbikpCgoKZGVmIG5vcm1hbGl6ZShzOiBzdHIpIC0+IHN0cjoKICAgICIiIkxvd2VyIHRleHQgYW5kIHJlbW92ZSBwdW5jdHVhdGlvbiwgYXJ0aWNsZXMgYW5kIGV4dHJhIHdoaXRlc3BhY2UuIiIiCiAgICBzID0gcy5sb3dlcigpCiAgICBleGNsdWRlID0gc2V0KHN0cmluZy5wdW5jdHVhdGlvbikKICAgIHMgPSAiIi5qb2luKGNoYXIgZm9yIGNoYXIgaW4gcyBpZiBjaGFyIG5vdCBpbiBleGNsdWRlKQogICAgcyA9IHJlLnN1YihyIlxiKGF8YW58dGhlKVxiIiwgIiAiLCBzKQogICAgcyA9ICIgIi5qb2luKHMuc3BsaXQoKSkKICAgIHJldHVybiBzCgoKZGVmIGZ1enp5X21hdGNoKHMxOiBzdHIsIHMyOiBzdHIpIC0+IGJvb2w6CiAgICBzMSA9IG5vcm1hbGl6ZShzMSkKICAgIHMyID0gbm9ybWFsaXplKHMyKQoKICAgIGlmIHMxID09ICIiIG9yIHMyID09ICIiOgogICAgICAgIHJldHVybiBzMSA9PSBzMgoKICAgIHJldHVybiBzMSBpbiBzMiBvciBzMiBpbiBzMQoKCmRlZiBkcm9wX21ldHJpYyhzYW1wbGU6IHN0ciwgcmVmZXJlbmNlOiBsaXN0W3N0cl0pIC0+IFR1cGxlW2Zsb2F0LCBmbG9hdF06CiAgICBlbV9zY29yZXMgPSBbXQogICAgZjFfc2NvcmVzID0gW10KICAgIGZvciBhbnN3ZXIgaW4gcmVmZXJlbmNlOgogICAgICAgIGlmIGFuc3dlci5zdHJpcCgpICE9ICIiOgogICAgICAgICAgICBlbSwgZjEgPSBnZXRfZHJvcF9tZXRyaWNzKHNhbXBsZSwgYW5zd2VyKQogICAgICAgICAgICBlbV9zY29yZXMuYXBwZW5kKGVtKQogICAgICAgICAgICBmMV9zY29yZXMuYXBwZW5kKGYxKQogICAgcmV0dXJuIChtYXgoZW1fc2NvcmVzKSwgbWF4KGYxX3Njb3JlcykpCgoKY2xhc3MgRHJvcEV2YWwoRXZhbCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbnVtX2V4YW1wbGVzOiBpbnQgfCBOb25lID0gTm9uZSwgdHJhaW5fc2FtcGxlc19wZXJfcHJvbXB0OiBpbnQgPSAzKToKICAgICAgICBzZWxmLnNlZWQgPSA0MgogICAgICAgIHNlbGYuX251bV9leGFtcGxlcyA9IG51bV9leGFtcGxlcwogICAgICAgIHNlbGYuX3RyYWluX3NhbXBsZXNfcGVyX3Byb21wdCA9IHRyYWluX3NhbXBsZXNfcGVyX3Byb21wdAogICAgICAgIHNlbGYudHJhaW5fanNvbmwgPSAoCiAgICAgICAgICAgICJodHRwczovL29wZW5haXB1YmxpYy5ibG9iLmNvcmUud2luZG93cy5uZXQvc2ltcGxlLWV2YWxzL2Ryb3BfdjBfdHJhaW4uanNvbmwuZ3oiCiAgICAgICAgKQogICAgICAgIHNlbGYudGVzdF9qc29ubCA9ICgKICAgICAgICAgICAgImh0dHBzOi8vb3BlbmFpcHVibGljLmJsb2IuY29yZS53aW5kb3dzLm5ldC9zaW1wbGUtZXZhbHMvZHJvcF92MF9kZXYuanNvbmwuZ3oiCiAgICAgICAgKQogICAgICAgIHdpdGggZ3ppcC5HemlwRmlsZShmaWxlb2JqPWNvbW1vbi51cmxfdG9fZmlsZW9iaihzZWxmLnRyYWluX2pzb25sLCBiaW5hcnk9VHJ1ZSksIG1vZGU9InJiIikgYXMgZjoKICAgICAgICAgICAgc2VsZi50cmFpbl9zYW1wbGVzID0gbGlzdChtYXAoanNvbi5sb2FkcywgZi5yZWFkbGluZXMoKSkpCiAgICAgICAgd2l0aCBnemlwLkd6aXBGaWxlKGZpbGVvYmo9Y29tbW9uLnVybF90b19maWxlb2JqKHNlbGYudGVzdF9qc29ubCwgYmluYXJ5PVRydWUpLCBtb2RlPSJyYiIpIGFzIGY6CiAgICAgICAgICAgIHNlbGYudGVzdF9zYW1wbGVzID0gbGlzdChtYXAoanNvbi5sb2FkcywgZi5yZWFkbGluZXMoKSkpCiAgICAgICAgICAgIGlmIHNlbGYuX251bV9leGFtcGxlczoKICAgICAgICAgICAgICAgIHNlbGYudGVzdF9zYW1wbGVzID0gcmFuZG9tLlJhbmRvbShzZWxmLnNlZWQpLnNhbXBsZSgKICAgICAgICAgICAgICAgICAgICBzZWxmLnRlc3Rfc2FtcGxlcywgc2VsZi5fbnVtX2V4YW1wbGVzCiAgICAgICAgICAgICAgICApCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIHNhbXBsZXI6IFNhbXBsZXJCYXNlKSAtPiBFdmFsUmVzdWx0OgogICAgICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VsZi5zZWVkKQoKICAgICAgICBkZWYgZm4oZXhhbXBsZTogZGljdFtzdHIsIHN0cl0pOgogICAgICAgICAgICBzdHVmZmluZyA9IHJuZy5zYW1wbGUoc2VsZi50cmFpbl9zYW1wbGVzLCBzZWxmLl90cmFpbl9zYW1wbGVzX3Blcl9wcm9tcHQpCgogICAgICAgICAgICAjIHByb21wdCA9ICIiIlRBU0s6IFJlYWQgdGhlIHByb3ZpZGVkIHBhc3NhZ2UsIHRoZW4gaWRlbnRpZnkgdGhlIGNvcnJlY3QgYW5zd2VyIHRvIHF1ZXN0aW9ucyBiZWxvdy4iIiIKICAgICAgICAgICAgcHJvbXB0ID0gIiIiWW91IHdpbGwgYmUgYXNrZWQgdG8gcmVhZCBhIHBhc3NhZ2UgYW5kIGFuc3dlciBhIHF1ZXN0aW9uLiBTb21lIGV4YW1wbGVzIG9mIHBhc3NhZ2VzIGFuZCBRJkEgYXJlIHByb3ZpZGVkIGJlbG93LiIiIgogICAgICAgICAgICBwcm9tcHQgKz0gIlxuXG4jIEV4YW1wbGVzIgogICAgICAgICAgICBzYW1wbGVzID0gc3R1ZmZpbmcgKyBbZXhhbXBsZV0KICAgICAgICAgICAgZm9yIGksIHNhbXBsZSBpbiBlbnVtZXJhdGUoc2FtcGxlcyk6CiAgICAgICAgICAgICAgICBpc190ZXN0ID0gaSA9PSBsZW4oc3R1ZmZpbmcpCiAgICAgICAgICAgICAgICBwcm9tcHQgKz0gIlxuIyBZb3VyIFRhc2tcbiIgaWYgaXNfdGVzdCBlbHNlICIiCiAgICAgICAgICAgICAgICBwcm9tcHQgKz0gZiIiIgotLS0Ke3NhbXBsZVsiY29udGV4dCJdfSAiIiIKCiAgICAgICAgICAgICAgICBhID0gc2FtcGxlWyJjb21wbGV0aW9uIl0KICAgICAgICAgICAgICAgIGNvcnJlY3RfYW5zd2VycyA9IHNhbXBsZVsicmVmX3RleHQiXS5zcGxpdCgifCIpCgogICAgICAgICAgICAgICAgaWYgbm90IGlzX3Rlc3Q6CiAgICAgICAgICAgICAgICAgICAgcHJvbXB0ICs9IGEgKyAiXG4iCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHByb21wdCArPSAiIiJcbgpUaGluayBzdGVwIGJ5IHN0ZXAsIHRoZW4gd3JpdGUgYSBsaW5lIG9mIHRoZSBmb3JtICJBbnN3ZXI6ICRBTlNXRVIiIGF0IHRoZSBlbmQgb2YgeW91ciByZXNwb25zZS4KICAgICAgICAgICAgICAgICAgICAiIiIKICAgICAgICAgICAgICAgICAgICBwcm9tcHRfbWVzc2FnZXMgPSBbc2FtcGxlci5fcGFja19tZXNzYWdlKGNvbnRlbnQ9cHJvbXB0LCByb2xlPSJ1c2VyIildCiAgICAgICAgICAgICAgICAgICAgc2FtcGxlcl9yZXNwb25zZSA9IHNhbXBsZXIocHJvbXB0X21lc3NhZ2VzKQogICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlX3RleHQgPSBzYW1wbGVyX3Jlc3BvbnNlLnJlc3BvbnNlX3RleHQKICAgICAgICAgICAgICAgICAgICBhY3R1YWxfcXVlcmllZF9wcm9tcHRfbWVzc2FnZXMgPSBzYW1wbGVyX3Jlc3BvbnNlLmFjdHVhbF9xdWVyaWVkX21lc3NhZ2VfbGlzdAogICAgICAgICAgICAgICAgICAgIG1hdGNoID0gcmUuc2VhcmNoKEFOU1dFUl9QQVRURVJOLCByZXNwb25zZV90ZXh0KQogICAgICAgICAgICAgICAgICAgIGV4dHJhY3RlZF9hbnN3ZXIgPSBtYXRjaC5ncm91cCgxKSBpZiBtYXRjaCBlbHNlIHJlc3BvbnNlX3RleHQKICAgICAgICAgICAgICAgICAgICBlbV9zY29yZSwgZjFfc2NvcmUgPSBkcm9wX21ldHJpYyhleHRyYWN0ZWRfYW5zd2VyLCBjb3JyZWN0X2Fuc3dlcnMpCiAgICAgICAgICAgICAgICAgICAgbWF0Y2hlcyA9IFsKICAgICAgICAgICAgICAgICAgICAgICAgZnV6enlfbWF0Y2goZXh0cmFjdGVkX2Fuc3dlciwgY29ycmVjdF9hbnN3ZXIpCiAgICAgICAgICAgICAgICAgICAgICAgIGZvciBjb3JyZWN0X2Fuc3dlciBpbiBjb3JyZWN0X2Fuc3dlcnMKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgZXh0cmFjdGVkX2Fuc3dlcnMgPSBbCiAgICAgICAgICAgICAgICAgICAgICAgIGV4dHJhY3RlZF9hbnN3ZXIgZm9yIGkgaW4gcmFuZ2UobGVuKGNvcnJlY3RfYW5zd2VycykpIGlmIG1hdGNoZXNbaV0KICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgc2NvcmUgPSBUcnVlIGluIG1hdGNoZXMKICAgICAgICAgICAgICAgICAgICBodG1sID0gY29tbW9uLmppbmphX2Vudi5mcm9tX3N0cmluZyhIVE1MX0pJTkpBKS5yZW5kZXIoCiAgICAgICAgICAgICAgICAgICAgICAgIHByb21wdF9tZXNzYWdlcz1hY3R1YWxfcXVlcmllZF9wcm9tcHRfbWVzc2FnZXMsCiAgICAgICAgICAgICAgICAgICAgICAgIG5leHRfbWVzc2FnZT1kaWN0KGNvbnRlbnQ9ZXh0cmFjdGVkX2Fuc3dlciwgcm9sZT0iYXNzaXN0YW50IiksCiAgICAgICAgICAgICAgICAgICAgICAgIHNjb3JlPXNjb3JlLAogICAgICAgICAgICAgICAgICAgICAgICBjb3JyZWN0X2Fuc3dlcj1jb3JyZWN0X2Fuc3dlcnMsCiAgICAgICAgICAgICAgICAgICAgICAgIGV4dHJhY3RlZF9hbnN3ZXI9ZXh0cmFjdGVkX2Fuc3dlcnMsCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIGNvbnZvID0gYWN0dWFsX3F1ZXJpZWRfcHJvbXB0X21lc3NhZ2VzICsgW2RpY3QoY29udGVudD1leHRyYWN0ZWRfYW5zd2VyLCByb2xlPSJhc3Npc3RhbnQiKV0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gU2luZ2xlRXZhbFJlc3VsdCgKICAgICAgICAgICAgICAgICAgICAgICAgaHRtbD1odG1sLAogICAgICAgICAgICAgICAgICAgICAgICBzY29yZT1zY29yZSwKICAgICAgICAgICAgICAgICAgICAgICAgY29udm89Y29udm8sCiAgICAgICAgICAgICAgICAgICAgICAgIG1ldHJpY3M9eyJlbV9zY29yZSI6IGVtX3Njb3JlLCAiZjFfc2NvcmUiOiBmMV9zY29yZX0sCiAgICAgICAgICAgICAgICAgICAgKQoKICAgICAgICByZXN1bHRzID0gY29tbW9uLm1hcF93aXRoX3Byb2dyZXNzKGZuLCBzZWxmLnRlc3Rfc2FtcGxlcykKICAgICAgICByZXR1cm4gY29tbW9uLmFnZ3JlZ2F0ZV9yZXN1bHRzKHJlc3VsdHMpCg==
+"""
+DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs
+Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, Matt Gardner
+https://arxiv.org/abs/1903.00161
+"""
+
+import gzip
+import json
+import random
+import re
+import string
+from typing import Any, Dict, List, Optional, Set, Tuple, Union
+
+import numpy as np
+from scipy.optimize import linear_sum_assignment
+
+from . import common
+from .common import ANSWER_PATTERN, HTML_JINJA
+from .types import Eval, EvalResult, SamplerBase, SingleEvalResult
+
+"""
+From here through _normalize_answer was originally copied from:
+https://worksheets.codalab.org/rest/bundles/0x6b567e1cf2e041ec80d7098f031c5c9e/contents/blob/
+Then cleaned up and modified a bit.
+
+The rest was originally copied from https://github.com/allenai/allennlp-reading-comprehension/blob/master/allennlp_rc
+/eval/drop_eval.py
+"""
+
+
+def _remove_articles(text: str) -> str:
+    regex = re.compile(r"\b(a|an|the)\b", re.UNICODE)
+    return re.sub(regex, " ", text)
+
+
+def _white_space_fix(text: str) -> str:
+    return " ".join(text.split())
+
+
+EXCLUDE = set(string.punctuation)
+
+
+def _remove_punc(text: str) -> str:
+    if not _is_number(text):
+        return "".join(ch for ch in text if ch not in EXCLUDE)
+    else:
+        return text
+
+
+def _lower(text: str) -> str:
+    return text.lower()
+
+
+def _tokenize(text: str) -> List[str]:
+    return re.split(" |-", text)
+
+
+def _normalize_answer(text: str) -> str:
+    """Lower text and remove punctuation, articles and extra whitespace."""
+
+    parts = [
+        _white_space_fix(_remove_articles(_normalize_number(_remove_punc(_lower(token)))))
+        for token in _tokenize(text)
+    ]
+    parts = [part for part in parts if part.strip()]
+    normalized = " ".join(parts).strip()
+    return normalized
+
+
+def _is_number(text: str) -> bool:
+    try:
+        float(text)
+        return True
+    except ValueError:
+        return False
+
+
+def _normalize_number(text: str) -> str:
+    if _is_number(text):
+        return str(float(text))
+    else:
+        return text
+
+
+def _answer_to_bags(
+    answer: Union[str, List[str], Tuple[str, ...]]
+) -> Tuple[List[str], List[Set[str]]]:
+    if isinstance(answer, (list, tuple)):
+        raw_spans = answer
+    else:
+        raw_spans = [answer]
+    normalized_spans: List[str] = []
+    token_bags = []
+    for raw_span in raw_spans:
+        normalized_span = _normalize_answer(raw_span)
+        normalized_spans.append(normalized_span)
+        token_bags.append(set(normalized_span.split()))
+    return normalized_spans, token_bags
+
+
+def _align_bags(predicted: List[Set[str]], gold: List[Set[str]]) -> List[float]:
+    """
+    Takes gold and predicted answer sets and first finds the optimal 1-1 alignment
+    between them and gets maximum metric values over all the answers.
+    """
+    scores = np.zeros([len(gold), len(predicted)])
+    for gold_index, gold_item in enumerate(gold):
+        for pred_index, pred_item in enumerate(predicted):
+            if _match_numbers_if_present(gold_item, pred_item):
+                scores[gold_index, pred_index] = _compute_f1(pred_item, gold_item)
+    row_ind, col_ind = linear_sum_assignment(-scores)
+
+    max_scores = np.zeros([max(len(gold), len(predicted))])
+    for row, column in zip(row_ind, col_ind):
+        max_scores[row] = max(max_scores[row], scores[row, column])
+    return max_scores
+
+
+def _compute_f1(predicted_bag: Set[str], gold_bag: Set[str]) -> float:
+    intersection = len(gold_bag.intersection(predicted_bag))
+    if not predicted_bag:
+        precision = 1.0
+    else:
+        precision = intersection / float(len(predicted_bag))
+    if not gold_bag:
+        recall = 1.0
+    else:
+        recall = intersection / float(len(gold_bag))
+    f1 = (
+        (2 * precision * recall) / (precision + recall)
+        if not (precision == 0.0 and recall == 0.0)
+        else 0.0
+    ) * 100
+    return f1
+
+
+def _match_numbers_if_present(gold_bag: Set[str], predicted_bag: Set[str]) -> bool:
+    gold_numbers = set()
+    predicted_numbers = set()
+    for word in gold_bag:
+        if _is_number(word):
+            gold_numbers.add(word)
+    for word in predicted_bag:
+        if _is_number(word):
+            predicted_numbers.add(word)
+    if (not gold_numbers) or gold_numbers.intersection(predicted_numbers):
+        return True
+    return False
+
+
+def get_drop_metrics(
+    predicted: Union[str, List[str], Tuple[str, ...]], gold: Union[str, List[str], Tuple[str, ...]]
+) -> Tuple[float, float]:
+    """
+    Takes a predicted answer and a gold answer (that are both either a string or a list of
+    strings), and returns exact match and the DROP F1 metric for the prediction.  If you are
+    writing a script for evaluating objects in memory (say, the output of predictions during
+    validation, or while training), this is the function you want to call, after using
+    :func:`answer_json_to_strings` when reading the gold answer from the released data file.
+    """
+    predicted_bags = _answer_to_bags(predicted)
+    gold_bags = _answer_to_bags(gold)
+
+    if set(predicted_bags[0]) == set(gold_bags[0]) and len(predicted_bags[0]) == len(gold_bags[0]):
+        exact_match = 1.0
+    else:
+        exact_match = 0.0
+
+    f1_per_bag = _align_bags(predicted_bags[1], gold_bags[1])
+    f1 = np.mean(f1_per_bag)
+    f1 = round(f1, 2)
+    return exact_match, f1
+
+
+def answer_json_to_strings(answer: Dict[str, Any]) -> Tuple[Tuple[str, ...], str]:
+    """
+    Takes an answer JSON blob from the DROP data release and converts it into strings used for
+    evaluation.
+    """
+    if "number" in answer and answer["number"]:
+        return tuple([str(answer["number"])]), "number"
+    elif "spans" in answer and answer["spans"]:
+        return tuple(answer["spans"]), "span" if len(answer["spans"]) == 1 else "spans"
+    elif "date" in answer:
+        return (
+            tuple(
+                [
+                    "{0} {1} {2}".format(
+                        answer["date"]["day"], answer["date"]["month"], answer["date"]["year"]
+                    ).strip()
+                ]
+            ),
+            "date",
+        )
+    else:
+        raise ValueError(
+            f"Answer type not found, should be one of number, spans or date at: {json.dumps(answer)}"
+        )
+
+
+def answer_json_to_string(answer_json):
+    return json.dumps(answer_json_to_strings(answer_json))
+
+
+def normalize(s: str) -> str:
+    """Lower text and remove punctuation, articles and extra whitespace."""
+    s = s.lower()
+    exclude = set(string.punctuation)
+    s = "".join(char for char in s if char not in exclude)
+    s = re.sub(r"\b(a|an|the)\b", " ", s)
+    s = " ".join(s.split())
+    return s
+
+
+def fuzzy_match(s1: str, s2: str) -> bool:
+    s1 = normalize(s1)
+    s2 = normalize(s2)
+
+    if s1 == "" or s2 == "":
+        return s1 == s2
+
+    return s1 in s2 or s2 in s1
+
+
+def drop_metric(sample: str, reference: list[str]) -> Tuple[float, float]:
+    em_scores = []
+    f1_scores = []
+    for answer in reference:
+        if answer.strip() != "":
+            em, f1 = get_drop_metrics(sample, answer)
+            em_scores.append(em)
+            f1_scores.append(f1)
+    return (max(em_scores), max(f1_scores))
+
+
+class DropEval(Eval):
+    def __init__(self, num_examples: int | None = None, train_samples_per_prompt: int = 3):
+        self.seed = 42
+        self._num_examples = num_examples
+        self._train_samples_per_prompt = train_samples_per_prompt
+        self.train_jsonl = (
+            "https://openaipublic.blob.core.windows.net/simple-evals/drop_v0_train.jsonl.gz"
+        )
+        self.test_jsonl = (
+            "https://openaipublic.blob.core.windows.net/simple-evals/drop_v0_dev.jsonl.gz"
+        )
+        with gzip.GzipFile(fileobj=common.url_to_fileobj(self.train_jsonl, binary=True), mode="rb") as f:
+            self.train_samples = list(map(json.loads, f.readlines()))
+        with gzip.GzipFile(fileobj=common.url_to_fileobj(self.test_jsonl, binary=True), mode="rb") as f:
+            self.test_samples = list(map(json.loads, f.readlines()))
+            if self._num_examples:
+                self.test_samples = random.Random(self.seed).sample(
+                    self.test_samples, self._num_examples
+                )
+
+    def __call__(self, sampler: SamplerBase) -> EvalResult:
+        rng = random.Random(self.seed)
+
+        def fn(example: dict[str, str]):
+            stuffing = rng.sample(self.train_samples, self._train_samples_per_prompt)
+
+            # prompt = """TASK: Read the provided passage, then identify the correct answer to questions below."""
+            prompt = """You will be asked to read a passage and answer a question. Some examples of passages and Q&A are provided below."""
+            prompt += "\n\n# Examples"
+            samples = stuffing + [example]
+            for i, sample in enumerate(samples):
+                is_test = i == len(stuffing)
+                prompt += "\n# Your Task\n" if is_test else ""
+                prompt += f"""
+---
+{sample["context"]} """
+
+                a = sample["completion"]
+                correct_answers = sample["ref_text"].split("|")
+
+                if not is_test:
+                    prompt += a + "\n"
+                else:
+                    prompt += """\n
+Think step by step, then write a line of the form "Answer: $ANSWER" at the end of your response.
+                    """
+                    prompt_messages = [sampler._pack_message(content=prompt, role="user")]
+                    sampler_response = sampler(prompt_messages)
+                    response_text = sampler_response.response_text
+                    actual_queried_prompt_messages = sampler_response.actual_queried_message_list
+                    match = re.search(ANSWER_PATTERN, response_text)
+                    extracted_answer = match.group(1) if match else response_text
+                    em_score, f1_score = drop_metric(extracted_answer, correct_answers)
+                    matches = [
+                        fuzzy_match(extracted_answer, correct_answer)
+                        for correct_answer in correct_answers
+                    ]
+                    extracted_answers = [
+                        extracted_answer for i in range(len(correct_answers)) if matches[i]
+                    ]
+                    score = True in matches
+                    html = common.jinja_env.from_string(HTML_JINJA).render(
+                        prompt_messages=actual_queried_prompt_messages,
+                        next_message=dict(content=extracted_answer, role="assistant"),
+                        score=score,
+                        correct_answer=correct_answers,
+                        extracted_answer=extracted_answers,
+                    )
+                    convo = actual_queried_prompt_messages + [dict(content=extracted_answer, role="assistant")]
+                    return SingleEvalResult(
+                        html=html,
+                        score=score,
+                        convo=convo,
+                        metrics={"em_score": em_score, "f1_score": f1_score},
+                    )
+
+        results = common.map_with_progress(fn, self.test_samples)
+        return common.aggregate_results(results)

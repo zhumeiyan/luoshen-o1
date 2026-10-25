@@ -1,1 +1,116 @@
-IyDmlLbmrL7or7TmmI4gwrcgUGF5bWVudCBJbnN0cnVjdGlvbnMKCj4g55So6YCU77ya5Y+R57uZ5rW35aSW5a6i5oi377yM6K6p5LuW5Lus5oqK6ZKx5rGH5Yiw5L2g55qE5pSv5LuY5a6d44CCCj4g55So5rOV77ya5aSN5Yi244CM6Iux5paH54mI44CN6YKj5LiA6IqC55u05o6l5Y+R57uZ5a6i5oi377yb5Lit5paH6YOo5YiG5piv57uZ5L2g6Ieq5bex55yL55qE5rOo5oSP5LqL6aG544CCCgotLS0KCiMjIOS4gOOAgeWFiOWBmuS4gOasoeiuvue9ru+8iOWPquWBmuS4gOasoe+8jOS9oOi/mei+ue+8iQoK5pSv5LuY5a6dIEFwcCDihpIg6aaW6aG15pCc57SiICoq44CM6Leo5aKD5rGH5qy+44CNKiog4oaSICoq5oiR6KaB5pS25qy+Kiog4oaSICoq6Zeq6YCf5pS25qy+Kiog4oaSIOe7keWumuS4gOW8oCoq5aKD5YaF5YKo6JOE5Y2hKiog4oaSIOeCuSAqKuOAjOWOu+WIhuS6q+OAjSoq77yM5oqK55Sf5oiQ55qE5pS25qy+5ZCN54mH5Y+R57uZ5a6i5oi344CCCgotIOmmluasoeaUtuasvumcgOWujOaIkOWunuWQjSArIOS6uuiEuOmqjOivge+8iOS4gOasoeaAp++8iQotICoq5pS25qy+5Lq65aeT5ZCN5b+F6aG75LiO5a6e5ZCN6K6k6K+B5a6M5YWo5LiA6Ie0KirvvIzlkKbliJnkuI3liLDotKYKLSDliLDotKbnmoTmmK8qKuS6uuawkeW4gSoq77yM5pSv5LuY5a6d5LiN5o6l5pS25aSW5biBCi0g5a6i5oi35rGH5Ye65ZCO5L2g5Lya5pS25Yiw55+t5L+hL0FwcCDpgJrnn6XvvIwqKuW/hemhu+WcqOmZkOWumuaXtumXtOWGheeCueOAjOWOu+eUs+aKpSDihpIg6Ieq5Li755Sz5oql44CN5bm255Sz5oql55So6YCUKirvvIzotoXml7bmrL7pobnkvJrljp/ot6/pgIDlm54KCi0tLQoKIyMg5LqM44CB6Iux5paH54mIIMK3IOWPr+ebtOaOpeWkjeWItuWPkee7meWuouaItwoKYGBgdGV4dApQYXltZW50IEluc3RydWN0aW9ucyDigJQgUGF5IHZpYSBBbGlwYXkgKENoaW5hKQoKUGxlYXNlIHNlbmQgcGF5bWVudCB0aHJvdWdoIGFueSByZW1pdHRhbmNlIHBsYXRmb3JtIHRoYXQgc3VwcG9ydHMKQWxpcGF5IHBheW91dHMuIFlvdSBjYW4gc2VlIHRoZSBmdWxsIGxpc3QgaGVyZToKaHR0cHM6Ly9yZW1pdC5hbGlwYXkuY29tCgpDb21tb25seSB1c2VkIHBsYXRmb3JtczoKICDigKIgUmVtaXRseSAgICAgaHR0cHM6Ly93d3cucmVtaXRseS5jb20gICAgICAoVVMvVUsvRVUpCiAg4oCiIFBheXNlbmQgICAgIGh0dHBzOi8vcGF5c2VuZC5jb20gICAgICAgICAgKGZsYXQgZmVlIH4kMiAvIOKCrDEuNTAgLyDCozEpCiAg4oCiIFdpc2UgICAgICAgIGh0dHBzOi8vd2lzZS5jb20gICAgICAgICAgICAgKG1pZC1tYXJrZXQgcmF0ZSkKICDigKIgV29ybGRSZW1pdCAgaHR0cHM6Ly93d3cud29ybGRyZW1pdC5jb20gICAoZmlyc3QgMyB0cmFuc2ZlcnMgZmVlLWZyZWUpCiAg4oCiIFBhbmRhIFJlbWl0IOeGiueMq+mAn+axhyAgICAgICAgICAgICAgICAgICAgICAoQ2hpbmVzZSBVSSwgb2Z0ZW4gY2hlYXBlc3QpCgpSZWNpcGllbnQgZGV0YWlscyDigJQgZmlsbCB0aGVzZSBpbiBleGFjdGx5IGFzIHNob3duOgoKICBBbGlwYXkgSUQgKGFjY291bnQpIDogMTg2OTcwNjY0MjIKICBMYXN0IE5hbWUgKOWnkykgICAgICA6IFpIVQogIEZpcnN0IE5hbWUgKOWQjSkgICAgIDogTUVJIFlBTgogIENvdW50cnkgLyBSZWdpb24gICAgOiBDaGluYSAoTWFpbmxhbmQpCiAgRGVsaXZlcnkgbWV0aG9kICAgICA6IEFsaXBheQoKSU1QT1JUQU5UOgogIDEuIFRoZSBuYW1lIG11c3QgYmUgZW50ZXJlZCBFWEFDVExZIGFzIGFib3ZlLCBpbiBMYXRpbiBsZXR0ZXJzLAogICAgIG9yIHRoZSB0cmFuc2ZlciB3aWxsIGJlIHJlamVjdGVkLgogIDIuIFdoZW4gdGhlIHBsYXRmb3JtIGFza3MgZm9yICJQdXJwb3NlIG9mIHRyYW5zZmVyIiAvICJSZW1pdHRhbmNlCiAgICAgcHVycG9zZSIsIHBsZWFzZSBzZWxlY3Q6CiAgICAgICAgIlNlcnZpY2UgRmVlIiAvICJQYXltZW50IGZvciBzZXJ2aWNlcyIKICAgICAoTk9UICJGYW1pbHkgc3VwcG9ydCIg4oCUIHdlIGFyZSBwYXlpbmcgZm9yIHNvZnR3YXJlIHdvcmsuKQogIDMuIEFsaXBheSBkZWxpdmVycyBpbiBDTlkuIERvIG5vdCBzZW5kIGZvcmVpZ24gY3VycmVuY3kgZGlyZWN0bHkuCiAgNC4gTGltaXRzOiBtYXggQ05ZIDUwLDAwMCBwZXIgdHJhbnNmZXIsIDUgdHJhbnNmZXJzIHBlciBtb250aCwKICAgICBDTlkgNTAwLDAwMCBwZXIgeWVhciwgcGVyIEFsaXBheSBhY2NvdW50LgogIDUuIEkgbXVzdCBkZWNsYXJlIHRoZSBwdXJwb3NlIG9uIG15IHNpZGUgYWZ0ZXIgeW91IHNlbmQuIElmIEkgZG9uJ3QKICAgICByZXNwb25kIGluIHRpbWUsIHRoZSBtb25leSBpcyByZWZ1bmRlZCB0byB5b3Ug4oCUIHNvIHBsZWFzZSBtZXNzYWdlCiAgICAgbWUgcmlnaHQgYWZ0ZXIgeW91IHNlbmQgaXQuCgpBZnRlciBzZW5kaW5nLCBwbGVhc2Ugc2VuZCBtZTogc2VuZGVyIG5hbWUsIGFtb3VudCwgYW5kIHBsYXRmb3JtLgpUaGFuayB5b3UuCmBgYAoKLS0tCgojIyDkuInjgIHkuKTkuKrkvJrlr7zoh7TjgIzpkrHooqvpgIDlm57jgI3nmoTlnZEKCioq5Z2RIDHvvJrnlKjpgJTpgInplJnjgIIqKgrpl6rpgJ/mlLbmrL7lhYHorrjnmoTnlKjpgJTmmK/vvJoqKui1oeWutuasviAvIOiBjOW3peaKpemFrCAvIOe9keS4iui0reeJqSAvIOe8tOS7mOacjeWKoei0ueeUqCoq44CCCuWNluS7o+eggeeahOmSseWxnuS6jioq44CM57y05LuY5pyN5Yqh6LS555So44CNKirvvIzlrqLmiLflnKjmsYfmrL7lubPlj7DopoHpgInov5nkuIDpobnvvIhTZXJ2aWNlIEZlZSAvIFBheW1lbnQgZm9yIHNlcnZpY2Vz77yJ44CCCumAiemUmeaIluivtOS4jea4he+8jOaUr+S7mOWuneS8muimgeaxguS9oOihpSoq5pyN5Yqh5ZCI5ZCM5oiW5Y2P6K6uKirnmoTmiKrlm77vvJsqKuWcqOmZkOWumuaXtumXtOayoeWPjemmiO+8jOasvumhueebtOaOpemAgOWbnioq44CCCuKGkiDmiYDku6XvvJoqKuavj+asoeaOpeWNleWFiOetvuS4gOS7veeugOWNleeahOacjeWKoeWNj+iuru+8iOWTquaAleWwseaYr+mCruS7tuehruiupO+8ie+8jOeVmeedgOWkh+afpeOAgioqCgoqKuWdkSAy77ya6LaF5pe25pyq55Sz5oql44CCKioK5a6i5oi35rGH5Ye65ZCO5L2g5Lya5pS25Yiw55+t5L+h6ZO+5o6l77yM5b+F6aG76L+b44CM6Zeq6YCf5pS25qy+44CN5bCP56iL5bqP54K5ICoq5Y6755Sz5oqlIOKGkiDoh6rkuLvnlLPmiqUqKuOAggror4HmmI7mnZDmlpnmoLzlvI8gSlBHL1BOR++8jOWNleaWh+S7tiDiiaQgMTBNQuOAggoKLS0tCgojIyDlm5vjgIHpmZDpop3vvIjpl6rpgJ/mlLbmrL7vvIkKCnwg6aG555uuIHwg5LiK6ZmQIHwKfC0tLXwtLS18Cnwg5Y2V56yUIHwgNSDkuIfkurrmsJHluIEgfAp8IOavj+aciCB8IDUg56yUIHwKfCDmr4/lubTntK/orqEgfCA1MCDkuIfkurrmsJHluIEgfAoK6LaF6L+H5bCx5b6X6LWw5Yir55qE6YCa6YGT44CCCgotLS0KCiMjIOS6lOOAgemVv+acn+WNluS7o+egge+8jOWIq+eUqOmXqumAn+aUtuasvuKAlOKAlOW8gOS4h+mHjOaxhwoK6Zeq6YCf5pS25qy+6YCC5ZCI5YG25bCU5pS25LiA56yU44CC6KaB6ZW/5pyf5YGa5rW35aSW55Sf5oSP77yM55SoICoq5LiH6YeM5rGHIFdvcmxkRmlyc3QqKu+8iOiaguiageWbvemZheaXl+S4i++8ie+8mgoKfCB8IOmXqumAn+aUtuasviB8IOS4h+mHjOaxhyBXb3JsZEZpcnN0IHwKfC0tLXwtLS18LS0tfAp8IOW8gOaItyB8IOaUr+S7mOWuneWunuWQjeWNs+WPryB8ICoq5Liq5Lq66Lqr5Lu96K+B5Y2z5Y+v77yM5peg6ZyA6JCl5Lia5omn54WnKiogfAp8IOW5tOaUtuasvuS4iumZkCB8IDUwIOS4h+S6uuawkeW4gSB8ICoq5peg56Gs5oCn5LiK6ZmQ77yM5LiU5LiN5Y2g55So5Liq5Lq6IDUg5LiH576O5YWD5bm05bqm57uT5rGH6aKd5bqmKiogfAp8IOeUqOmAlOmZkOWItiB8IOWPquiDveaYr+i1oeWuti/olqrphawv572R6LStL+acjeWKoei0uSB8IOe7j+iQpeaAp+aUtuasvu+8jOW5s+WPsOS7o+WKnuWkluaxh+eUs+aKpSB8Cnwg5a6i5oi35oCO5LmI5LuYIHwg6LWw5rGH5qy+5bmz5Y+wIHwgKirnu5nkvaDkuIDkuKrnvo7lm70v5qyn5rSy5pys5Zyw6ZO26KGM6LSm5Y+377yM5a6i5oi35pys5Zyw6L2s6LSm77yM5YOP5LuY57uZ5pys5Zu95Lq6KiogfAp8IOi0ueeOhyB8IDDvvIjmlLbmrL7mlrnvvIkgfCDlhaXotKYgMO+8jOaVsOWosS9BSSDlh7rmtbfmj5DnjrAgKiowLjclIOWwgemhtioq77yI5L2O6IezIDDvvIkgfAp8IOaPkOeOsCB8IOWIsOmTtuihjOWNoSB8ICoq5Y+v5o+Q5Yiw5pys5Lq65pSv5LuY5a6dL+mTtuihjOWNoe+8jOacgOW/qyAxIOWIhumSnyoqIHwKCuWvueavlOWQjOexu++8mldpc2Ug5o2i5rGHIDAuNOKAkzAuNiUg5L2GKirkuI3ku6Plip7nlLPmiqXjgIHljaDnlKggNSDkuIfnvo7lhYPpop3luqYqKu+8m1BpbmdQb25nIOaVsOWosSAxJSDlsIHpobbvvJtQYXlvbmVlciDlhaXotKYgMSUgKyDnu5PmsYcgMS4yJe+8jOW5tOWFpei0puS4jei2syA2MDAwIOe+juWFg+i/mOaUtiAyOS45NSDnvo7lhYPlubTotLnjgIIKCioq5a+55Liq5Lq65byA5Y+R6ICF5pS25rW35aSW6L2v5Lu25qy+77yM5LiH6YeM5rGH55uu5YmN5piv5pyA5LyY6Kej44CCKioKCi0tLQoKIyMg5YWt44CB5a6J5YWo5o+Q6YaSCgotIOS4iumdoueahCAqKuWnk+WQjSArIOaJi+acuuWPt+S4jeimgeWFrOW8gOWPkSoqIOWIsCBHaXRIdWIgUkVBRE1F44CBR3Vtcm9hZCDpobXpnaLjgIHku5PlupPph4zjgILlj6rljZXni6zlj5Hnu5nlrqLmiLfjgIIKLSDlrqLmiLfku5jmrL7liY3lhYjlj5HkuIDku73mnI3liqHljY/orq4v6YKu5Lu256Gu6K6k77yM5pei5piv5pS25qy+5Yet6K+B77yM5Lmf5piv5aSW5rGH55Sz5oql5p2Q5paZ44CCCi0g5pS25qy+6LWw5ZCI6KeE5rig6YGT44CB5q2j5bi455Sz5oql57qz56iO44CC57uP6JCl5oCn5pS25YWl6ZW/5pyf6LWw5Liq5Lq66LSm5oi35piv6KKr6aOO5o6n5ZKM56iO5Yqh6YeN54K55YWz5rOo55qE5a+56LGh44CCCgotLS0KCirmnKzmlofku7bkvp3mja7mlK/ku5jlrp3lrpjmlrnjgIzpl6rpgJ/mlLbmrL7jgI3op4TliJnlj4rlm73lrrblpJbmsYfnrqHnkIblsYDjgIrmlK/ku5jmnLrmnoTlpJbmsYfkuJrliqHnrqHnkIblip7ms5XjgIvmlbTnkIbvvIzlhbfkvZPku6XlkITlubPlj7Dlrp7ml7bop4TliJnkuLrlh4bjgIIqCg==
+# 收款说明 · Payment Instructions
+
+> 用途：发给海外客户，让他们把钱汇到你的支付宝。
+> 用法：复制「英文版」那一节直接发给客户；中文部分是给你自己看的注意事项。
+
+---
+
+## 一、先做一次设置（只做一次，你这边）
+
+支付宝 App → 首页搜索 **「跨境汇款」** → **我要收款** → **闪速收款** → 绑定一张**境内储蓄卡** → 点 **「去分享」**，把生成的收款名片发给客户。
+
+- 首次收款需完成实名 + 人脸验证（一次性）
+- **收款人姓名必须与实名认证完全一致**，否则不到账
+- 到账的是**人民币**，支付宝不接收外币
+- 客户汇出后你会收到短信/App 通知，**必须在限定时间内点「去申报 → 自主申报」并申报用途**，超时款项会原路退回
+
+---
+
+## 二、英文版 · 可直接复制发给客户
+
+```text
+Payment Instructions — Pay via Alipay (China)
+
+Please send payment through any remittance platform that supports
+Alipay payouts. You can see the full list here:
+https://remit.alipay.com
+
+Commonly used platforms:
+  • Remitly     https://www.remitly.com      (US/UK/EU)
+  • Paysend     https://paysend.com          (flat fee ~$2 / €1.50 / £1)
+  • Wise        https://wise.com             (mid-market rate)
+  • WorldRemit  https://www.worldremit.com   (first 3 transfers fee-free)
+  • Panda Remit 熊猫速汇                      (Chinese UI, often cheapest)
+
+Recipient details — fill these in exactly as shown:
+
+  Alipay ID (account) : 18697066422
+  Last Name (姓)      : ZHU
+  First Name (名)     : MEI YAN
+  Country / Region    : China (Mainland)
+  Delivery method     : Alipay
+
+IMPORTANT:
+  1. The name must be entered EXACTLY as above, in Latin letters,
+     or the transfer will be rejected.
+  2. When the platform asks for "Purpose of transfer" / "Remittance
+     purpose", please select:
+        "Service Fee" / "Payment for services"
+     (NOT "Family support" — we are paying for software work.)
+  3. Alipay delivers in CNY. Do not send foreign currency directly.
+  4. Limits: max CNY 50,000 per transfer, 5 transfers per month,
+     CNY 500,000 per year, per Alipay account.
+  5. I must declare the purpose on my side after you send. If I don't
+     respond in time, the money is refunded to you — so please message
+     me right after you send it.
+
+After sending, please send me: sender name, amount, and platform.
+Thank you.
+```
+
+---
+
+## 三、两个会导致「钱被退回」的坑
+
+**坑 1：用途选错。**
+闪速收款允许的用途是：**赡家款 / 职工报酬 / 网上购物 / 缴付服务费用**。
+卖代码的钱属于**「缴付服务费用」**，客户在汇款平台要选这一项（Service Fee / Payment for services）。
+选错或说不清，支付宝会要求你补**服务合同或协议**的截图；**在限定时间没反馈，款项直接退回**。
+→ 所以：**每次接单先签一份简单的服务协议（哪怕就是邮件确认），留着备查。**
+
+**坑 2：超时未申报。**
+客户汇出后你会收到短信链接，必须进「闪速收款」小程序点 **去申报 → 自主申报**。
+证明材料格式 JPG/PNG，单文件 ≤ 10MB。
+
+---
+
+## 四、限额（闪速收款）
+
+| 项目 | 上限 |
+|---|---|
+| 单笔 | 5 万人民币 |
+| 每月 | 5 笔 |
+| 每年累计 | 50 万人民币 |
+
+超过就得走别的通道。
+
+---
+
+## 五、长期卖代码，别用闪速收款——开万里汇
+
+闪速收款适合偶尔收一笔。要长期做海外生意，用 **万里汇 WorldFirst**（蚂蚁国际旗下）：
+
+| | 闪速收款 | 万里汇 WorldFirst |
+|---|---|---|
+| 开户 | 支付宝实名即可 | **个人身份证即可，无需营业执照** |
+| 年收款上限 | 50 万人民币 | **无硬性上限，且不占用个人 5 万美元年度结汇额度** |
+| 用途限制 | 只能是赡家/薪酬/网购/服务费 | 经营性收款，平台代办外汇申报 |
+| 客户怎么付 | 走汇款平台 | **给你一个美国/欧洲本地银行账号，客户本地转账，像付给本国人** |
+| 费率 | 0（收款方） | 入账 0，数娱/AI 出海提现 **0.7% 封顶**（低至 0） |
+| 提现 | 到银行卡 | **可提到本人支付宝/银行卡，最快 1 分钟** |
+
+对比同类：Wise 换汇 0.4–0.6% 但**不代办申报、占用 5 万美元额度**；PingPong 数娱 1% 封顶；Payoneer 入账 1% + 结汇 1.2%，年入账不足 6000 美元还收 29.95 美元年费。
+
+**对个人开发者收海外软件款，万里汇目前是最优解。**
+
+---
+
+## 六、安全提醒
+
+- 上面的 **姓名 + 手机号不要公开发** 到 GitHub README、Gumroad 页面、仓库里。只单独发给客户。
+- 客户付款前先发一份服务协议/邮件确认，既是收款凭证，也是外汇申报材料。
+- 收款走合规渠道、正常申报纳税。经营性收入长期走个人账户是被风控和税务重点关注的对象。
+
+---
+
+*本文件依据支付宝官方「闪速收款」规则及国家外汇管理局《支付机构外汇业务管理办法》整理，具体以各平台实时规则为准。*

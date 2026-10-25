@@ -1,1 +1,231 @@
-IyBTUERYLUZpbGVDb3B5cmlnaHRUZXh0OiAyMDIyLXByZXNlbnQgZGVlcHNldCBHbWJIIDxpbmZvQGRlZXBzZXQuYWk+CiMKIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogQXBhY2hlLTIuMAoKaW1wb3J0IGNzdgpmcm9tIGNvcHkgaW1wb3J0IGRlZXBjb3B5CmZyb20gdHlwaW5nIGltcG9ydCBBbnksIExpdGVyYWwsIFVuaW9uCgpmcm9tIGhheXN0YWNrIGltcG9ydCBsb2dnaW5nCmZyb20gaGF5c3RhY2subGF6eV9pbXBvcnRzIGltcG9ydCBMYXp5SW1wb3J0Cgp3aXRoIExhenlJbXBvcnQoIlJ1biAncGlwIGluc3RhbGwgcGFuZGFzJyIpIGFzIHBhbmRhc19pbXBvcnQ6CiAgICBmcm9tIHBhbmRhcyBpbXBvcnQgRGF0YUZyYW1lCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCgpjbGFzcyBFdmFsdWF0aW9uUnVuUmVzdWx0OgogICAgIiIiCiAgICBDb250YWlucyB0aGUgaW5wdXRzIGFuZCB0aGUgb3V0cHV0cyBvZiBhbiBldmFsdWF0aW9uIHBpcGVsaW5lIGFuZCBwcm92aWRlcyBtZXRob2RzIHRvIGluc3BlY3QgdGhlbS4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBydW5fbmFtZTogc3RyLCBpbnB1dHM6IGRpY3Rbc3RyLCBsaXN0W0FueV1dLCByZXN1bHRzOiBkaWN0W3N0ciwgZGljdFtzdHIsIEFueV1dKSAtPiBOb25lOgogICAgICAgICIiIgogICAgICAgIEluaXRpYWxpemUgYSBuZXcgZXZhbHVhdGlvbiBydW4gcmVzdWx0LgoKICAgICAgICA6cGFyYW0gcnVuX25hbWU6CiAgICAgICAgICAgIE5hbWUgb2YgdGhlIGV2YWx1YXRpb24gcnVuLgoKICAgICAgICA6cGFyYW0gaW5wdXRzOgogICAgICAgICAgICBEaWN0aW9uYXJ5IGNvbnRhaW5pbmcgdGhlIGlucHV0cyB1c2VkIGZvciB0aGUgcnVuLiBFYWNoIGtleSBpcyB0aGUgbmFtZSBvZiB0aGUgaW5wdXQgYW5kIGl0cyB2YWx1ZSBpcyBhIGxpc3QKICAgICAgICAgICAgb2YgaW5wdXQgdmFsdWVzLiBUaGUgbGVuZ3RoIG9mIHRoZSBsaXN0cyBzaG91bGQgYmUgdGhlIHNhbWUuCgogICAgICAgIDpwYXJhbSByZXN1bHRzOgogICAgICAgICAgICBEaWN0aW9uYXJ5IGNvbnRhaW5pbmcgdGhlIHJlc3VsdHMgb2YgdGhlIGV2YWx1YXRvcnMgdXNlZCBpbiB0aGUgZXZhbHVhdGlvbiBwaXBlbGluZS4gRWFjaCBrZXkgaXMgdGhlIG5hbWUKICAgICAgICAgICAgb2YgdGhlIG1ldHJpYyBhbmQgaXRzIHZhbHVlIGlzIGRpY3Rpb25hcnkgd2l0aCB0aGUgZm9sbG93aW5nIGtleXM6CiAgICAgICAgICAgICAgICAtICdzY29yZSc6IFRoZSBhZ2dyZWdhdGVkIHNjb3JlIGZvciB0aGUgbWV0cmljLgogICAgICAgICAgICAgICAgLSAnaW5kaXZpZHVhbF9zY29yZXMnOiBBIGxpc3Qgb2Ygc2NvcmVzIGZvciBlYWNoIGlucHV0IHNhbXBsZS4KICAgICAgICAiIiIKICAgICAgICBzZWxmLnJ1bl9uYW1lID0gcnVuX25hbWUKICAgICAgICBzZWxmLmlucHV0cyA9IGRlZXBjb3B5KGlucHV0cykKICAgICAgICBzZWxmLnJlc3VsdHMgPSBkZWVwY29weShyZXN1bHRzKQoKICAgICAgICBpZiBsZW4oaW5wdXRzKSA9PSAwOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJObyBpbnB1dHMgcHJvdmlkZWQuIikKICAgICAgICBpZiBsZW4oe2xlbihsc3QpIGZvciBsc3QgaW4gaW5wdXRzLnZhbHVlcygpfSkgIT0gMToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiTGVuZ3RocyBvZiB0aGUgaW5wdXRzIHNob3VsZCBiZSB0aGUgc2FtZS4iKQoKICAgICAgICBleHBlY3RlZF9sZW4gPSBsZW4obmV4dChpdGVyKGlucHV0cy52YWx1ZXMoKSkpKQoKICAgICAgICBmb3IgbWV0cmljLCBvdXRwdXRzIGluIHJlc3VsdHMuaXRlbXMoKToKICAgICAgICAgICAgaWYgInNjb3JlIiBub3QgaW4gb3V0cHV0czoKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJBZ2dyZWdhdGUgc2NvcmUgbWlzc2luZyBmb3Ige21ldHJpY30uIikKICAgICAgICAgICAgaWYgImluZGl2aWR1YWxfc2NvcmVzIiBub3QgaW4gb3V0cHV0czoKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJJbmRpdmlkdWFsIHNjb3JlcyBtaXNzaW5nIGZvciB7bWV0cmljfS4iKQoKICAgICAgICAgICAgaWYgbGVuKG91dHB1dHNbImluZGl2aWR1YWxfc2NvcmVzIl0pICE9IGV4cGVjdGVkX2xlbjoKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAgICAgZiJMZW5ndGggb2YgaW5kaXZpZHVhbCBzY29yZXMgZm9yICd7bWV0cmljfScgc2hvdWxkIGJlIHRoZSBzYW1lIGFzIHRoZSBpbnB1dHMuICIKICAgICAgICAgICAgICAgICAgICBmIkdvdCB7bGVuKG91dHB1dHNbJ2luZGl2aWR1YWxfc2NvcmVzJ10pfSBidXQgZXhwZWN0ZWQge2V4cGVjdGVkX2xlbn0uIgogICAgICAgICAgICAgICAgKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfd3JpdGVfdG9fY3N2KGNzdl9maWxlOiBzdHIsIGRhdGE6IGRpY3Rbc3RyLCBsaXN0W0FueV1dKSAtPiBzdHI6CiAgICAgICAgIiIiCiAgICAgICAgV3JpdGUgZGF0YSB0byBhIENTViBmaWxlLgoKICAgICAgICA6cGFyYW0gY3N2X2ZpbGU6IFBhdGggdG8gdGhlIENTViBmaWxlIHRvIHdyaXRlCiAgICAgICAgOnBhcmFtIGRhdGE6IERpY3Rpb25hcnkgY29udGFpbmluZyB0aGUgZGF0YSB0byB3cml0ZQogICAgICAgIDpyZXR1cm46IFN0YXR1cyBtZXNzYWdlIGluZGljYXRpbmcgc3VjY2VzcyBvciBmYWlsdXJlCiAgICAgICAgIiIiCiAgICAgICAgbGlzdF9sZW5ndGhzID0gW2xlbih2YWx1ZSkgZm9yIHZhbHVlIGluIGRhdGEudmFsdWVzKCldCgogICAgICAgIGlmIGxlbihzZXQobGlzdF9sZW5ndGhzKSkgIT0gMToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiQWxsIGxpc3RzIGluIHRoZSBKU09OIG11c3QgaGF2ZSB0aGUgc2FtZSBsZW5ndGgiKQoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGhlYWRlcnMgPSBsaXN0KGRhdGEua2V5cygpKQogICAgICAgICAgICBudW1fcm93cyA9IGxpc3RfbGVuZ3Roc1swXQogICAgICAgICAgICByb3dzID0gW10KCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKG51bV9yb3dzKToKICAgICAgICAgICAgICAgIHJvdyA9IFtkYXRhW2hlYWRlcl1baV0gZm9yIGhlYWRlciBpbiBoZWFkZXJzXQogICAgICAgICAgICAgICAgcm93cy5hcHBlbmQocm93KQoKICAgICAgICAgICAgd2l0aCBvcGVuKGNzdl9maWxlLCAidyIsIG5ld2xpbmU9IiIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGNzdmZpbGU6CiAgICAgICAgICAgICAgICB3cml0ZXIgPSBjc3Yud3JpdGVyKGNzdmZpbGUpCiAgICAgICAgICAgICAgICB3cml0ZXIud3JpdGVyb3coaGVhZGVycykKICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZXJvd3Mocm93cykKCiAgICAgICAgICAgIHJldHVybiBmIkRhdGEgc3VjY2Vzc2Z1bGx5IHdyaXR0ZW4gdG8ge2Nzdl9maWxlfSIKICAgICAgICBleGNlcHQgUGVybWlzc2lvbkVycm9yOgogICAgICAgICAgICByZXR1cm4gZiJFcnJvcjogUGVybWlzc2lvbiBkZW5pZWQgd2hlbiB3cml0aW5nIHRvIHtjc3ZfZmlsZX0iCiAgICAgICAgZXhjZXB0IE9TRXJyb3IgYXMgZToKICAgICAgICAgICAgcmV0dXJuIGYiRXJyb3Igd3JpdGluZyB0byB7Y3N2X2ZpbGV9OiB7c3RyKGUpfSIKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybiBmIkVycm9yOiB7c3RyKGUpfSIKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2hhbmRsZV9vdXRwdXQoCiAgICAgICAgZGF0YTogZGljdFtzdHIsIGxpc3RbQW55XV0sIG91dHB1dF9mb3JtYXQ6IExpdGVyYWxbImpzb24iLCAiY3N2IiwgImRmIl0gPSAiY3N2IiwgY3N2X2ZpbGU6IHN0ciB8IE5vbmUgPSBOb25lCiAgICApIC0+IFVuaW9uW3N0ciwgIkRhdGFGcmFtZSIsIGRpY3Rbc3RyLCBsaXN0W0FueV1dXToKICAgICAgICAiIiIKICAgICAgICBIYW5kbGVzIG91dHB1dCBmb3JtYXR0aW5nIGJhc2VkIG9uIGBvdXRwdXRfZm9ybWF0YC4KCiAgICAgICAgOnJldHVybnM6IERhdGFGcmFtZSBmb3IgJ2RmJywgZGljdCBmb3IgJ2pzb24nLCBvciBjb25maXJtYXRpb24gbWVzc2FnZSBmb3IgJ2NzdicKICAgICAgICAiIiIKICAgICAgICBpZiBvdXRwdXRfZm9ybWF0ID09ICJqc29uIjoKICAgICAgICAgICAgcmV0dXJuIGRhdGEKCiAgICAgICAgaWYgb3V0cHV0X2Zvcm1hdCA9PSAiZGYiOgogICAgICAgICAgICBwYW5kYXNfaW1wb3J0LmNoZWNrKCkKICAgICAgICAgICAgcmV0dXJuIERhdGFGcmFtZShkYXRhKQoKICAgICAgICBpZiBvdXRwdXRfZm9ybWF0ID09ICJjc3YiOgogICAgICAgICAgICBpZiBub3QgY3N2X2ZpbGU6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJBIGZpbGUgcGF0aCBtdXN0IGJlIHByb3ZpZGVkIGluICdjc3ZfZmlsZScgcGFyYW1ldGVyIHRvIHNhdmUgdGhlIENTViBvdXRwdXQuIikKICAgICAgICAgICAgcmV0dXJuIEV2YWx1YXRpb25SdW5SZXN1bHQuX3dyaXRlX3RvX2Nzdihjc3ZfZmlsZSwgZGF0YSkKCiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIkludmFsaWQgb3V0cHV0IGZvcm1hdCAne291dHB1dF9mb3JtYXR9JyBwcm92aWRlZC4gQ2hvb3NlIGZyb20gJ2pzb24nLCAnY3N2Jywgb3IgJ2RmJy4iKQoKICAgIGRlZiBhZ2dyZWdhdGVkX3JlcG9ydCgKICAgICAgICBzZWxmLCBvdXRwdXRfZm9ybWF0OiBMaXRlcmFsWyJqc29uIiwgImNzdiIsICJkZiJdID0gImpzb24iLCBjc3ZfZmlsZTogc3RyIHwgTm9uZSA9IE5vbmUKICAgICkgLT4gVW5pb25bZGljdFtzdHIsIGxpc3RbQW55XV0sICJEYXRhRnJhbWUiLCBzdHJdOgogICAgICAgICIiIgogICAgICAgIEdlbmVyYXRlcyBhIHJlcG9ydCB3aXRoIGFnZ3JlZ2F0ZWQgc2NvcmVzIGZvciBlYWNoIG1ldHJpYy4KCiAgICAgICAgOnBhcmFtIG91dHB1dF9mb3JtYXQ6IFRoZSBvdXRwdXQgZm9ybWF0IGZvciB0aGUgcmVwb3J0LCAianNvbiIsICJjc3YiLCBvciAiZGYiLCBkZWZhdWx0IHRvICJqc29uIi4KICAgICAgICA6cGFyYW0gY3N2X2ZpbGU6IEZpbGVwYXRoIHRvIHNhdmUgQ1NWIG91dHB1dCBpZiBgb3V0cHV0X2Zvcm1hdGAgaXMgImNzdiIsIG11c3QgYmUgcHJvdmlkZWQuCgogICAgICAgIDpyZXR1cm5zOgogICAgICAgICAgICBKU09OIG9yIERhdGFGcmFtZSB3aXRoIGFnZ3JlZ2F0ZWQgc2NvcmVzLCBpbiBjYXNlIHRoZSBvdXRwdXQgaXMgc2V0IHRvIGEgQ1NWIGZpbGUsIGEgbWVzc2FnZSBjb25maXJtaW5nIHRoZQogICAgICAgICAgICBzdWNjZXNzZnVsIHdyaXRlIG9yIGFuIGVycm9yIG1lc3NhZ2UuCiAgICAgICAgIiIiCiAgICAgICAgcmVzdWx0cyA9IHtrOiB2WyJzY29yZSJdIGZvciBrLCB2IGluIHNlbGYucmVzdWx0cy5pdGVtcygpfQogICAgICAgIGRhdGEgPSB7Im1ldHJpY3MiOiBsaXN0KHJlc3VsdHMua2V5cygpKSwgInNjb3JlIjogbGlzdChyZXN1bHRzLnZhbHVlcygpKX0KICAgICAgICByZXR1cm4gc2VsZi5faGFuZGxlX291dHB1dChkYXRhLCBvdXRwdXRfZm9ybWF0LCBjc3ZfZmlsZSkKCiAgICBkZWYgZGV0YWlsZWRfcmVwb3J0KAogICAgICAgIHNlbGYsIG91dHB1dF9mb3JtYXQ6IExpdGVyYWxbImpzb24iLCAiY3N2IiwgImRmIl0gPSAianNvbiIsIGNzdl9maWxlOiBzdHIgfCBOb25lID0gTm9uZQogICAgKSAtPiBVbmlvbltkaWN0W3N0ciwgbGlzdFtBbnldXSwgIkRhdGFGcmFtZSIsIHN0cl06CiAgICAgICAgIiIiCiAgICAgICAgR2VuZXJhdGVzIGEgcmVwb3J0IHdpdGggZGV0YWlsZWQgc2NvcmVzIGZvciBlYWNoIG1ldHJpYy4KCiAgICAgICAgOnBhcmFtIG91dHB1dF9mb3JtYXQ6IFRoZSBvdXRwdXQgZm9ybWF0IGZvciB0aGUgcmVwb3J0LCAianNvbiIsICJjc3YiLCBvciAiZGYiLCBkZWZhdWx0IHRvICJqc29uIi4KICAgICAgICA6cGFyYW0gY3N2X2ZpbGU6IEZpbGVwYXRoIHRvIHNhdmUgQ1NWIG91dHB1dCBpZiBgb3V0cHV0X2Zvcm1hdGAgaXMgImNzdiIsIG11c3QgYmUgcHJvdmlkZWQuCgogICAgICAgIDpyZXR1cm5zOgogICAgICAgICAgICBKU09OIG9yIERhdGFGcmFtZSB3aXRoIHRoZSBkZXRhaWxlZCBzY29yZXMsIGluIGNhc2UgdGhlIG91dHB1dCBpcyBzZXQgdG8gYSBDU1YgZmlsZSwgYSBtZXNzYWdlIGNvbmZpcm1pbmcKICAgICAgICAgICAgdGhlIHN1Y2Nlc3NmdWwgd3JpdGUgb3IgYW4gZXJyb3IgbWVzc2FnZS4KICAgICAgICAiIiIKCiAgICAgICAgY29tYmluZWRfZGF0YSA9IHtjb2w6IHNlbGYuaW5wdXRzW2NvbF0gZm9yIGNvbCBpbiBzZWxmLmlucHV0c30KCiAgICAgICAgIyBlbmZvcmNlIGNvbHVtbnMgdHlwZSBjb25zaXN0ZW5jeQogICAgICAgIHNjb3Jlc19jb2x1bW5zID0gbGlzdChzZWxmLnJlc3VsdHMua2V5cygpKQogICAgICAgIGZvciBjb2wgaW4gc2NvcmVzX2NvbHVtbnM6CiAgICAgICAgICAgIGNvbF92YWx1ZXMgPSBzZWxmLnJlc3VsdHNbY29sXVsiaW5kaXZpZHVhbF9zY29yZXMiXQogICAgICAgICAgICBpZiBhbnkoaXNpbnN0YW5jZSh2LCBmbG9hdCkgZm9yIHYgaW4gY29sX3ZhbHVlcyk6CiAgICAgICAgICAgICAgICBjb2xfdmFsdWVzID0gW2Zsb2F0KHYpIGZvciB2IGluIGNvbF92YWx1ZXNdCiAgICAgICAgICAgIGNvbWJpbmVkX2RhdGFbY29sXSA9IGNvbF92YWx1ZXMKCiAgICAgICAgcmV0dXJuIHNlbGYuX2hhbmRsZV9vdXRwdXQoY29tYmluZWRfZGF0YSwgb3V0cHV0X2Zvcm1hdCwgY3N2X2ZpbGUpCgogICAgZGVmIGNvbXBhcmF0aXZlX2RldGFpbGVkX3JlcG9ydCgKICAgICAgICBzZWxmLAogICAgICAgIG90aGVyOiAiRXZhbHVhdGlvblJ1blJlc3VsdCIsCiAgICAgICAga2VlcF9jb2x1bW5zOiBsaXN0W3N0cl0gfCBOb25lID0gTm9uZSwKICAgICAgICBvdXRwdXRfZm9ybWF0OiBMaXRlcmFsWyJqc29uIiwgImNzdiIsICJkZiJdID0gImpzb24iLAogICAgICAgIGNzdl9maWxlOiBzdHIgfCBOb25lID0gTm9uZSwKICAgICkgLT4gVW5pb25bc3RyLCAiRGF0YUZyYW1lIiwgTm9uZV06CiAgICAgICAgIiIiCiAgICAgICAgR2VuZXJhdGVzIGEgcmVwb3J0IHdpdGggZGV0YWlsZWQgc2NvcmVzIGZvciBlYWNoIG1ldHJpYyBmcm9tIHR3byBldmFsdWF0aW9uIHJ1bnMgZm9yIGNvbXBhcmlzb24uCgogICAgICAgIDpwYXJhbSBvdGhlcjogUmVzdWx0cyBvZiBhbm90aGVyIGV2YWx1YXRpb24gcnVuIHRvIGNvbXBhcmUgd2l0aC4KICAgICAgICA6cGFyYW0ga2VlcF9jb2x1bW5zOiBMaXN0IG9mIGNvbW1vbiBjb2x1bW4gbmFtZXMgdG8ga2VlcCBmcm9tIHRoZSBpbnB1dHMgb2YgdGhlIGV2YWx1YXRpb24gcnVucyB0byBjb21wYXJlLgogICAgICAgIDpwYXJhbSBvdXRwdXRfZm9ybWF0OiBUaGUgb3V0cHV0IGZvcm1hdCBmb3IgdGhlIHJlcG9ydCwgImpzb24iLCAiY3N2Iiwgb3IgImRmIiwgZGVmYXVsdCB0byAianNvbiIuCiAgICAgICAgOnBhcmFtIGNzdl9maWxlOiBGaWxlcGF0aCB0byBzYXZlIENTViBvdXRwdXQgaWYgYG91dHB1dF9mb3JtYXRgIGlzICJjc3YiLCBtdXN0IGJlIHByb3ZpZGVkLgoKICAgICAgICA6cmV0dXJuczoKICAgICAgICAgICAgSlNPTiBvciBEYXRhRnJhbWUgd2l0aCBhIGNvbXBhcmlzb24gb2YgdGhlIGRldGFpbGVkIHNjb3JlcywgaW4gY2FzZSB0aGUgb3V0cHV0IGlzIHNldCB0byBhIENTViBmaWxlLAogICAgICAgICAgICAgYSBtZXNzYWdlIGNvbmZpcm1pbmcgdGhlIHN1Y2Nlc3NmdWwgd3JpdGUgb3IgYW4gZXJyb3IgbWVzc2FnZS4KICAgICAgICA6cmFpc2VzIFR5cGVFcnJvcjogSWYgYG90aGVyYCBpcyBub3QgYW4gRXZhbHVhdGlvblJ1blJlc3VsdCBpbnN0YW5jZSwgb3IgaWYgdGhlIGRldGFpbGVkIHJlcG9ydHMgYXJlIG5vdAogICAgICAgICAgICBkaWN0aW9uYXJpZXMuCiAgICAgICAgOnJhaXNlcyBWYWx1ZUVycm9yOiBJZiB0aGUgYG90aGVyYCBwYXJhbWV0ZXIgaXMgbWlzc2luZyByZXF1aXJlZCBhdHRyaWJ1dGVzLgogICAgICAgICIiIgoKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShvdGhlciwgRXZhbHVhdGlvblJ1blJlc3VsdCk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcigiQ29tcGFyYXRpdmUgc2NvcmVzIGNhbiBvbmx5IGJlIGNvbXB1dGVkIGJldHdlZW4gRXZhbHVhdGlvblJ1blJlc3VsdHMuIikKCiAgICAgICAgaWYgbm90IGhhc2F0dHIob3RoZXIsICJydW5fbmFtZSIpIG9yIG5vdCBoYXNhdHRyKG90aGVyLCAiaW5wdXRzIikgb3Igbm90IGhhc2F0dHIob3RoZXIsICJyZXN1bHRzIik6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIlRoZSAnb3RoZXInIHBhcmFtZXRlciBtdXN0IGhhdmUgJ3J1bl9uYW1lJywgJ2lucHV0cycsIGFuZCAncmVzdWx0cycgYXR0cmlidXRlcy4iKQoKICAgICAgICBpZiBzZWxmLnJ1bl9uYW1lID09IG90aGVyLnJ1bl9uYW1lOgogICAgICAgICAgICBsb2dnZXIud2FybmluZygKICAgICAgICAgICAgICAgICJUaGUgcnVuIG5hbWVzIG9mIHRoZSB0d28gZXZhbHVhdGlvbiByZXN1bHRzIGFyZSB0aGUgc2FtZSAoJ3tydW5fbmFtZX0nKSIsIHJ1bl9uYW1lPXNlbGYucnVuX25hbWUKICAgICAgICAgICAgKQoKICAgICAgICBpZiBzZWxmLmlucHV0cy5rZXlzKCkgIT0gb3RoZXIuaW5wdXRzLmtleXMoKToKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAiVGhlIGlucHV0IGNvbHVtbnMgZGlmZmVyIGJldHdlZW4gdGhlIHJlc3VsdHM7IHVzaW5nIHRoZSBpbnB1dCBjb2x1bW5zIG9mICd7cnVuX25hbWV9JyIsCiAgICAgICAgICAgICAgICBydW5fbmFtZT1zZWxmLnJ1bl9uYW1lLAogICAgICAgICAgICApCgogICAgICAgICMgZ290IGJvdGggZGV0YWlsZWQgcmVwb3J0cwogICAgICAgIGRldGFpbGVkX2EgPSBzZWxmLmRldGFpbGVkX3JlcG9ydChvdXRwdXRfZm9ybWF0PSJqc29uIikKICAgICAgICBkZXRhaWxlZF9iID0gb3RoZXIuZGV0YWlsZWRfcmVwb3J0KG91dHB1dF9mb3JtYXQ9Impzb24iKQoKICAgICAgICAjIGVuc3VyZSBib3RoIGRldGFpbGVkIHJlcG9ydHMgYXJlIGluIGRpY3Rpb25hcmllcyBmb3JtYXQKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShkZXRhaWxlZF9hLCBkaWN0KSBvciBub3QgaXNpbnN0YW5jZShkZXRhaWxlZF9iLCBkaWN0KToKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCJEZXRhaWxlZCByZXBvcnRzIG11c3QgYmUgZGljdGlvbmFyaWVzLiIpCgogICAgICAgICMgZGV0ZXJtaW5lIHdoaWNoIGNvbHVtbnMgdG8gaWdub3JlCiAgICAgICAgaWYga2VlcF9jb2x1bW5zIGlzIE5vbmU6CiAgICAgICAgICAgIGlnbm9yZSA9IGxpc3Qoc2VsZi5pbnB1dHMua2V5cygpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlnbm9yZSA9IFtjb2wgZm9yIGNvbCBpbiBsaXN0KHNlbGYuaW5wdXRzLmtleXMoKSkgaWYgY29sIG5vdCBpbiBrZWVwX2NvbHVtbnNdCgogICAgICAgICMgZmlsdGVyIG91dCBpZ25vcmVkIGNvbHVtbnMgZnJvbSBwaXBlX2JfZGljdAogICAgICAgIGZpbHRlcmVkX2RldGFpbGVkX2IgPSB7CiAgICAgICAgICAgIGYie290aGVyLnJ1bl9uYW1lfV97a2V5fSI6IHZhbHVlIGZvciBrZXksIHZhbHVlIGluIGRldGFpbGVkX2IuaXRlbXMoKSBpZiBrZXkgbm90IGluIGlnbm9yZQogICAgICAgIH0KCiAgICAgICAgIyByZW5hbWUgY29sdW1ucyBpbiBwaXBlX2FfZGljdCBiYXNlZCBvbiBpZ25vcmUgbGlzdAogICAgICAgIHJlbmFtZWRfZGV0YWlsZWRfYSA9IHsKICAgICAgICAgICAgKGtleSBpZiBrZXkgaW4gaWdub3JlIGVsc2UgZiJ7c2VsZi5ydW5fbmFtZX1fe2tleX0iKTogdmFsdWUgZm9yIGtleSwgdmFsdWUgaW4gZGV0YWlsZWRfYS5pdGVtcygpCiAgICAgICAgfQoKICAgICAgICAjIGNvbWJpbmUgYm90aCBkZXRhaWxlZCByZXBvcnRzCiAgICAgICAgY29tYmluZWRfcmVzdWx0cyA9IHsqKnJlbmFtZWRfZGV0YWlsZWRfYSwgKipmaWx0ZXJlZF9kZXRhaWxlZF9ifQogICAgICAgIHJldHVybiBzZWxmLl9oYW5kbGVfb3V0cHV0KGNvbWJpbmVkX3Jlc3VsdHMsIG91dHB1dF9mb3JtYXQsIGNzdl9maWxlKQo=
+# SPDX-FileCopyrightText: 2022-present deepset GmbH <info@deepset.ai>
+#
+# SPDX-License-Identifier: Apache-2.0
+
+import csv
+from copy import deepcopy
+from typing import Any, Literal, Union
+
+from haystack import logging
+from haystack.lazy_imports import LazyImport
+
+with LazyImport("Run 'pip install pandas'") as pandas_import:
+    from pandas import DataFrame
+
+logger = logging.getLogger(__name__)
+
+
+class EvaluationRunResult:
+    """
+    Contains the inputs and the outputs of an evaluation pipeline and provides methods to inspect them.
+    """
+
+    def __init__(self, run_name: str, inputs: dict[str, list[Any]], results: dict[str, dict[str, Any]]) -> None:
+        """
+        Initialize a new evaluation run result.
+
+        :param run_name:
+            Name of the evaluation run.
+
+        :param inputs:
+            Dictionary containing the inputs used for the run. Each key is the name of the input and its value is a list
+            of input values. The length of the lists should be the same.
+
+        :param results:
+            Dictionary containing the results of the evaluators used in the evaluation pipeline. Each key is the name
+            of the metric and its value is dictionary with the following keys:
+                - 'score': The aggregated score for the metric.
+                - 'individual_scores': A list of scores for each input sample.
+        """
+        self.run_name = run_name
+        self.inputs = deepcopy(inputs)
+        self.results = deepcopy(results)
+
+        if len(inputs) == 0:
+            raise ValueError("No inputs provided.")
+        if len({len(lst) for lst in inputs.values()}) != 1:
+            raise ValueError("Lengths of the inputs should be the same.")
+
+        expected_len = len(next(iter(inputs.values())))
+
+        for metric, outputs in results.items():
+            if "score" not in outputs:
+                raise ValueError(f"Aggregate score missing for {metric}.")
+            if "individual_scores" not in outputs:
+                raise ValueError(f"Individual scores missing for {metric}.")
+
+            if len(outputs["individual_scores"]) != expected_len:
+                raise ValueError(
+                    f"Length of individual scores for '{metric}' should be the same as the inputs. "
+                    f"Got {len(outputs['individual_scores'])} but expected {expected_len}."
+                )
+
+    @staticmethod
+    def _write_to_csv(csv_file: str, data: dict[str, list[Any]]) -> str:
+        """
+        Write data to a CSV file.
+
+        :param csv_file: Path to the CSV file to write
+        :param data: Dictionary containing the data to write
+        :return: Status message indicating success or failure
+        """
+        list_lengths = [len(value) for value in data.values()]
+
+        if len(set(list_lengths)) != 1:
+            raise ValueError("All lists in the JSON must have the same length")
+
+        try:
+            headers = list(data.keys())
+            num_rows = list_lengths[0]
+            rows = []
+
+            for i in range(num_rows):
+                row = [data[header][i] for header in headers]
+                rows.append(row)
+
+            with open(csv_file, "w", newline="", encoding="utf-8") as csvfile:
+                writer = csv.writer(csvfile)
+                writer.writerow(headers)
+                writer.writerows(rows)
+
+            return f"Data successfully written to {csv_file}"
+        except PermissionError:
+            return f"Error: Permission denied when writing to {csv_file}"
+        except OSError as e:
+            return f"Error writing to {csv_file}: {str(e)}"
+        except Exception as e:
+            return f"Error: {str(e)}"
+
+    @staticmethod
+    def _handle_output(
+        data: dict[str, list[Any]], output_format: Literal["json", "csv", "df"] = "csv", csv_file: str | None = None
+    ) -> Union[str, "DataFrame", dict[str, list[Any]]]:
+        """
+        Handles output formatting based on `output_format`.
+
+        :returns: DataFrame for 'df', dict for 'json', or confirmation message for 'csv'
+        """
+        if output_format == "json":
+            return data
+
+        if output_format == "df":
+            pandas_import.check()
+            return DataFrame(data)
+
+        if output_format == "csv":
+            if not csv_file:
+                raise ValueError("A file path must be provided in 'csv_file' parameter to save the CSV output.")
+            return EvaluationRunResult._write_to_csv(csv_file, data)
+
+        raise ValueError(f"Invalid output format '{output_format}' provided. Choose from 'json', 'csv', or 'df'.")
+
+    def aggregated_report(
+        self, output_format: Literal["json", "csv", "df"] = "json", csv_file: str | None = None
+    ) -> Union[dict[str, list[Any]], "DataFrame", str]:
+        """
+        Generates a report with aggregated scores for each metric.
+
+        :param output_format: The output format for the report, "json", "csv", or "df", default to "json".
+        :param csv_file: Filepath to save CSV output if `output_format` is "csv", must be provided.
+
+        :returns:
+            JSON or DataFrame with aggregated scores, in case the output is set to a CSV file, a message confirming the
+            successful write or an error message.
+        """
+        results = {k: v["score"] for k, v in self.results.items()}
+        data = {"metrics": list(results.keys()), "score": list(results.values())}
+        return self._handle_output(data, output_format, csv_file)
+
+    def detailed_report(
+        self, output_format: Literal["json", "csv", "df"] = "json", csv_file: str | None = None
+    ) -> Union[dict[str, list[Any]], "DataFrame", str]:
+        """
+        Generates a report with detailed scores for each metric.
+
+        :param output_format: The output format for the report, "json", "csv", or "df", default to "json".
+        :param csv_file: Filepath to save CSV output if `output_format` is "csv", must be provided.
+
+        :returns:
+            JSON or DataFrame with the detailed scores, in case the output is set to a CSV file, a message confirming
+            the successful write or an error message.
+        """
+
+        combined_data = {col: self.inputs[col] for col in self.inputs}
+
+        # enforce columns type consistency
+        scores_columns = list(self.results.keys())
+        for col in scores_columns:
+            col_values = self.results[col]["individual_scores"]
+            if any(isinstance(v, float) for v in col_values):
+                col_values = [float(v) for v in col_values]
+            combined_data[col] = col_values
+
+        return self._handle_output(combined_data, output_format, csv_file)
+
+    def comparative_detailed_report(
+        self,
+        other: "EvaluationRunResult",
+        keep_columns: list[str] | None = None,
+        output_format: Literal["json", "csv", "df"] = "json",
+        csv_file: str | None = None,
+    ) -> Union[str, "DataFrame", None]:
+        """
+        Generates a report with detailed scores for each metric from two evaluation runs for comparison.
+
+        :param other: Results of another evaluation run to compare with.
+        :param keep_columns: List of common column names to keep from the inputs of the evaluation runs to compare.
+        :param output_format: The output format for the report, "json", "csv", or "df", default to "json".
+        :param csv_file: Filepath to save CSV output if `output_format` is "csv", must be provided.
+
+        :returns:
+            JSON or DataFrame with a comparison of the detailed scores, in case the output is set to a CSV file,
+             a message confirming the successful write or an error message.
+        :raises TypeError: If `other` is not an EvaluationRunResult instance, or if the detailed reports are not
+            dictionaries.
+        :raises ValueError: If the `other` parameter is missing required attributes.
+        """
+
+        if not isinstance(other, EvaluationRunResult):
+            raise TypeError("Comparative scores can only be computed between EvaluationRunResults.")
+
+        if not hasattr(other, "run_name") or not hasattr(other, "inputs") or not hasattr(other, "results"):
+            raise ValueError("The 'other' parameter must have 'run_name', 'inputs', and 'results' attributes.")
+
+        if self.run_name == other.run_name:
+            logger.warning(
+                "The run names of the two evaluation results are the same ('{run_name}')", run_name=self.run_name
+            )
+
+        if self.inputs.keys() != other.inputs.keys():
+            logger.warning(
+                "The input columns differ between the results; using the input columns of '{run_name}'",
+                run_name=self.run_name,
+            )
+
+        # got both detailed reports
+        detailed_a = self.detailed_report(output_format="json")
+        detailed_b = other.detailed_report(output_format="json")
+
+        # ensure both detailed reports are in dictionaries format
+        if not isinstance(detailed_a, dict) or not isinstance(detailed_b, dict):
+            raise TypeError("Detailed reports must be dictionaries.")
+
+        # determine which columns to ignore
+        if keep_columns is None:
+            ignore = list(self.inputs.keys())
+        else:
+            ignore = [col for col in list(self.inputs.keys()) if col not in keep_columns]
+
+        # filter out ignored columns from pipe_b_dict
+        filtered_detailed_b = {
+            f"{other.run_name}_{key}": value for key, value in detailed_b.items() if key not in ignore
+        }
+
+        # rename columns in pipe_a_dict based on ignore list
+        renamed_detailed_a = {
+            (key if key in ignore else f"{self.run_name}_{key}"): value for key, value in detailed_a.items()
+        }
+
+        # combine both detailed reports
+        combined_results = {**renamed_detailed_a, **filtered_detailed_b}
+        return self._handle_output(combined_results, output_format, csv_file)

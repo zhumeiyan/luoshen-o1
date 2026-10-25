@@ -1,1 +1,2 @@
-OTAKL3Vzci9zaGFyZS9pY29ucy9oaWNvbG9yLzUxMng1MTIvbWltZXR5cGVzL2xpYnJlb2ZmaWNlLW9hc2lzLWVtcHR5LnBuZwo=
+90
+/usr/share/icons/hicolor/512x512/mimetypes/libreoffice-oasis-empty.png

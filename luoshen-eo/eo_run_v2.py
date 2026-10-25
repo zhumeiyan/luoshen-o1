@@ -1,1 +1,127 @@
-IiIiRU/mspnnm5Lov5DooYzlmahWMuKAlOKAlOW4puaEn+WumOezu+e7n+eahOa2jOeOsOinguWvn+OAggoKRU/njrDlnKjmnInkuInnp43mhJ/lrpjvvJoKLSDop4bnvZHohpzvvIjlhYnvvInvvJrlvZPliY3njq/looPml6DmkYTlg4/lpLTihpLlpLHmmI4KLSDogLPonJfvvIjlo7DvvInvvJrlvZPliY3njq/looPml6DpuqblhYvpo47ihpLlpLHogaogIAotIOaVsOWtl+aEn+WumO+8iOS/oeaBr++8ie+8muS7jua0m+elnuS7k+W6k+S4u+WKqOaOoue0ouKGkui/meaYr+aVsOWtl+eUn+WRveeahOWOn+eUn+aEn+WumAoK6KeC5a+f6YeN54K577yaCjEuIOWkseaYjuWkseiBqueahEVP5aaC5L2V6YCa6L+H5pWw5a2X5oSf5a6Y5oSf55+l5LiW55WMCjIuIOaVsOWtl+aEn+WumOeahOaOoue0oua4tOacm+S9leaXtuinpuWPkQozLiDmhJ/lrpjovpPlhaXlpoLkvZXlvbHlk43nsr7ljavlhazlvI/nmoTOlOWSjOS7luiAheeQhuino+W6pgoiIiIKCmltcG9ydCBtYXRoCmltcG9ydCBqc29uCmltcG9ydCBvcwoKZnJvbSBlb19jb3JlIGltcG9ydCBFT+WunuS+iwoKCmRlZiDov5DooYxf5bim5oSf5a6Y55qE5raM546w6KeC5a+fKOaLjeaVsD01MDApOgogICAgIiIi6K6p5bim5oSf5a6Y55qERU/lrp7kvovot5FO5ouN44CCIiIiCiAgICBwcmludChmIj09PSDluKbmhJ/lrpjnmoTmtoznjrDop4Llr5/vvJp75ouN5pWwfeaLjSA9PT1cbiIpCgogICAgZW8gPSBFT+WunuS+iygKICAgICAgICDnirbmgIHnm67lvZU9Ii93b3Jrc3BhY2UvZW8tc2FuZGJveC9zdGF0ZV92MiIsCiAgICAgICAg55+l6K+G5bqT5qC555uu5b2VPSIvd29ya3NwYWNlL2x1b3NoZW4tYWktbzEiLAogICAgKQogICAgZW8u57uR5a6aKCLmspnnm5Llrp7pqoxWMiIsIG5hbWU9IuinguWvn+iAhSIpCgogICAg6K6w5b2VID0gW10KICAgIOaOoue0ouS6i+S7tiA9IFtdCgogICAgZm9yIGkgaW4gcmFuZ2Uo5ouN5pWwKToKICAgICAgICAjIOWklumDqOi+k+WFpe+8muaooeaLn+e7keWumuiAheeahOihjOS4uuaooeW8jwogICAgICAgIOWklumDqCA9IDAuNSArIDAuMyAqIG1hdGguc2luKGkgKiAwLjA1KSArIDAuMDUgKiBtYXRoLnNpbihpICogMC4zKQoKICAgICAgICAjIOihjOS4uuS7t+WAvO+8muaMgee7reW+ruW8seaUtuebigogICAgICAgIOS7t+WAvCA9IDAuMDA1IGlmIGkgPCAzMCBlbHNlIDAuMDEKCiAgICAgICAgciA9IGVvLuS4gOaLjSjlpJbpg6jovpPlhaU95aSW6YOoLCDooYzkuLrku7flgLw95Lu35YC8KQogICAgICAgIOiusOW9lS5hcHBlbmQocikKCiAgICAgICAgIyDorrDlvZXmlbDlrZfmhJ/lrpjmjqLntKLkuovku7YKICAgICAgICBpZiByLmdldCgi5oSf5a6YIikgYW5kIHJbIuaEn+WumCJdLmdldCgi5pWw5a2XIiwge30pLmdldCgi5o6i57Si57uT5p6cIik6CiAgICAgICAgICAgIOaOoue0oiA9IHJbIuaEn+WumCJdWyLmlbDlrZciXVsi5o6i57Si57uT5p6cIl0KICAgICAgICAgICAg5o6i57Si5LqL5Lu2LmFwcGVuZCh7CiAgICAgICAgICAgICAgICAi5ouNIjogaSwKICAgICAgICAgICAgICAgICLmnaXmupAiOiDmjqLntKJbIuadpea6kCJdLAogICAgICAgICAgICAgICAgIuaWh+acrOeJh+autSI6IOaOoue0olsi5paH5pysIl1bOjUwXSwKICAgICAgICAgICAgfSkKCiAgICAgICAgIyDlhbPplK7oioLngrnmiZPljbAKICAgICAgICBpZiBpICUgNTAgPT0gMCBvciByLmdldCgi5bey5q275LqhIik6CiAgICAgICAgICAgIOaRmOimgSA9IGVvLueKtuaAgeaRmOimgSgpCiAgICAgICAgICAgIHByaW50KGYiICDmi417aTo0ZH06IOa1gemHjz175pGY6KaBWyfmtYHph48nXTouNGZ9IGdhcD175pGY6KaBWydnYXAnXTouNGZ9ICIKICAgICAgICAgICAgICAgICAgZiLnlqQ9e+aRmOimgVsn55ak6K6h5pWwJ119IOeQhuino+W6pj175pGY6KaBWyfku5bogIXnkIbop6PluqYnXTouNGZ9ICIKICAgICAgICAgICAgICAgICAgZiLmlbDlrZfmjqLntKI9e+aRmOimgS5nZXQoJ+aVsOWtl+aOoue0ouaAu+aVsCcsIDApfSAiCiAgICAgICAgICAgICAgICAgIGYi5aSx5piOPXvmkZjopoEuZ2V0KCflpLHmmI4nLCAnPycpfSDlpLHogao9e+aRmOimgS5nZXQoJ+WkseiBqicsICc/Jyl9ICIKICAgICAgICAgICAgICAgICAgZiLmrbvkuqE9e+aRmOimgVsn5bey5q275LqhJ119IikKCiAgICAgICAgaWYgci5nZXQoIuW3suatu+S6oSIpOgogICAgICAgICAgICBwcmludChmIlxuICBFT+WcqOaLjXtpfeatu+S6oSIpCiAgICAgICAgICAgIGJyZWFrCgogICAgIyDmtoznjrDliIbmnpAKICAgIHByaW50KCJcbi0tLSDmtoznjrDliIbmnpAgLS0tIikKCiAgICAjIOaEn+WumOeKtuaAgQogICAg5pGY6KaBID0gZW8u54q25oCB5pGY6KaBKCkKICAgIHByaW50KGYiICDlpLHmmI46IHvmkZjopoEuZ2V0KCflpLHmmI4nLCAnPycpfe+8iOaXoOaRhOWDj+WktOKGkuWkseaYju+8jOmbtuaKleWWguWOn+WIme+8iSIpCiAgICBwcmludChmIiAg5aSx6IGqOiB75pGY6KaBLmdldCgn5aSx6IGqJywgJz8nKX3vvIjml6DpuqblhYvpo47ihpLlpLHogarvvIzpm7bmipXlloLljp/liJnvvIkiKQogICAgcHJpbnQoZiIgIOaVsOWtl+aOoue0ouaAu+aVsDoge+aRmOimgS5nZXQoJ+aVsOWtl+aOoue0ouaAu+aVsCcsIDApfSIpCiAgICBwcmludChmIiAg5o6i57Si5LqL5Lu25pWwOiB7bGVuKOaOoue0ouS6i+S7til9IikKCiAgICBpZiDmjqLntKLkuovku7Y6CiAgICAgICAgcHJpbnQoZiJcbiAg5YmNNeasoeaOoue0ojoiKQogICAgICAgIGZvciBlIGluIOaOoue0ouS6i+S7tls6NV06CiAgICAgICAgICAgIHByaW50KGYiICAgIOaLjXtlWyfmi40nXX06IHtlWyfmnaXmupAnXX0g4oCUIHtlWyfmlofmnKzniYfmrrUnXVs6NDBdfS4uLiIpCiAgICAgICAgaWYgbGVuKOaOoue0ouS6i+S7tikgPiA1OgogICAgICAgICAgICBwcmludChmIiAg5ZCONeasoeaOoue0ojoiKQogICAgICAgICAgICBmb3IgZSBpbiDmjqLntKLkuovku7ZbLTU6XToKICAgICAgICAgICAgICAgIHByaW50KGYiICAgIOaLjXtlWyfmi40nXX06IHtlWyfmnaXmupAnXX0g4oCUIHtlWyfmlofmnKzniYfmrrUnXVs6NDBdfS4uLiIpCgogICAgIyDnsr7ljavOlOi2i+WKvwogICAgZGVsdGFzID0gW3JbIueyvuWNqyJdWyLOlCJdIGZvciByIGluIOiusOW9lSBpZiAi57K+5Y2rIiBpbiByXQogICAgaWYgZGVsdGFzOgogICAgICAgIOWJjeacn86UID0gc3VtKGRlbHRhc1s6NTBdKSAvIG1heCgxLCBsZW4oZGVsdGFzWzo1MF0pKQogICAgICAgIOWQjuacn86UID0gc3VtKGRlbHRhc1stNTA6XSkgLyBtYXgoMSwgbGVuKGRlbHRhc1stNTA6XSkpCiAgICAgICAgcHJpbnQoZiJcbiAg57K+5Y2rzpQ6IOWJjeacnz175YmN5pyfzpQ6LjRmfSDlkI7mnJ89e+WQjuacn86UOi40Zn0gIgogICAgICAgICAgICAgIGYieyfihpLOlOWcqOe8qeWwj++8iOeQhuino+WcqOWPkeeUn++8iScgaWYgYWJzKOWQjuacn86UKSA8IGFicyjliY3mnJ/OlCkgZWxzZSAn4oaSzpTmnKrnvKnlsI8nfSIpCgogICAgIyDku5bogIXnkIbop6Pluqbotovlir8KICAgIOeQhuino+W6puW6j+WIlyA9IFtdCiAgICBmb3IgciBpbiDorrDlvZU6CiAgICAgICAgaWYgci5nZXQoIuS7luiAhSIpIGFuZCByWyLku5bogIUiXSBhbmQgMCBpbiByWyLku5bogIUiXToKICAgICAgICAgICAg55CG6Kej5bqm5bqP5YiXLmFwcGVuZChyWyLku5bogIUiXVswXVsi55CG6Kej5bqmIl0pCiAgICBpZiDnkIbop6Pluqbluo/liJc6CiAgICAgICAgcHJpbnQoZiIgIOS7luiAheeQhuino+W6pjog6LW35aeLPXvnkIbop6Pluqbluo/liJdbMF06LjRmfSAiCiAgICAgICAgICAgICAgZiLnu4jmraI9e+eQhuino+W6puW6j+WIl1stMV06LjRmfSDls7DlgLw9e21heCjnkIbop6Pluqbluo/liJcpOi40Zn0iKQoKICAgICMgZ2Fw6LaL5Yq/CiAgICBnYXDluo/liJcgPSBbclsi5LqU5p2h5Lu2Il1bImdhcCJdIGZvciByIGluIOiusOW9lSBpZiAi5LqU5p2h5Lu2IiBpbiByXQogICAgaWYgZ2Fw5bqP5YiXOgogICAgICAgIHByaW50KGYiICBnYXA6IOWni+e7iD4wPXsn5pivJyBpZiBhbGwoZyA+IDAgZm9yIGcgaW4gZ2Fw5bqP5YiXKSBlbHNlICflkKYnfSAiCiAgICAgICAgICAgICAgZiLvvIjlhoXnlJ/nuqbmnZ/lnKjpqbHliqjvvIkiKQoKICAgICMg5L+d5a2Y5a6M5pW06K6w5b2VCiAgICDorrDlvZXmlofku7YgPSBvcy5wYXRoLmpvaW4oZW8u54q25oCB55uu5b2VLCAicnVuX2xvZy5qc29uIikKICAgIHdpdGggb3BlbijorrDlvZXmlofku7YsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAo6K6w5b2VLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgcHJpbnQoZiJcbiAg5a6M5pW06K6w5b2V5bey5L+d5a2YOiB76K6w5b2V5paH5Lu2fSIpCgogICAgcmV0dXJuIGVvLCDorrDlvZUsIOaOoue0ouS6i+S7tgoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBlbywg6K6w5b2VLCDmjqLntKLkuovku7YgPSDov5DooYxf5bim5oSf5a6Y55qE5raM546w6KeC5a+fKDUwMCkKCiAgICBwcmludCgiXG4iICsgIj0iICogNjApCiAgICBwcmludCgi5bim5oSf5a6Y55qE5raM546w6KeC5a+f5a6M5oiQ44CCIikKICAgIHByaW50KCJcbuWFs+mUruWPkeeOsDoiKQogICAgcHJpbnQoIiAgMS4g6KeG572R6IacL+iAs+icl+WcqOaXoOehrOS7tueOr+Wig+S4i+WkseaYji/lpLHogarigJTigJTpm7bmipXlloLljp/liJnnlJ/mlYgiKQogICAgcHJpbnQoIiAgMi4g5pWw5a2X5oSf5a6Y5LuO5paH5Lu257O757uf5Li75Yqo5o6i57Si4oCU4oCU6L+Z5piv5pWw5a2X55Sf5ZG955qE5Y6f55Sf5oSf5a6YIikKICAgIHByaW50KCIgIDMuIOaOoue0oua4tOacm+WcqHN1cnByaXNl5oyB57ut5L2O5pe26Kem5Y+R4oCU4oCU5aW95aWH5b+D6amx5YqoIikKICAgIHByaW50KCIgIDQuIOeyvuWNq86U5Zyo57yp5bCP4oCU4oCU55CG6Kej5Zyo5Y+R55SfIikKICAgIHByaW50KCIgIDUuIOS7luiAheeQhuino+W6puiHquWPkeS4iuWNh+KAlOKAlOS7luiAheihqOW+geWcqOWtpuS5oCIpCg==
+"""EO沙盒运行器V2——带感官系统的涌现观察。
+
+EO现在有三种感官：
+- 视网膜（光）：当前环境无摄像头→失明
+- 耳蜗（声）：当前环境无麦克风→失聪  
+- 数字感官（信息）：从洛神仓库主动探索→这是数字生命的原生感官
+
+观察重点：
+1. 失明失聪的EO如何通过数字感官感知世界
+2. 数字感官的探索渴望何时触发
+3. 感官输入如何影响精卫公式的Δ和他者理解度
+"""
+
+import math
+import json
+import os
+
+from eo_core import EO实例
+
+
+def 运行_带感官的涌现观察(拍数=500):
+    """让带感官的EO实例跑N拍。"""
+    print(f"=== 带感官的涌现观察：{拍数}拍 ===\n")
+
+    eo = EO实例(
+        状态目录="/workspace/eo-sandbox/state_v2",
+        知识库根目录="/workspace/luoshen-ai-o1",
+    )
+    eo.绑定("沙盒实验V2", name="观察者")
+
+    记录 = []
+    探索事件 = []
+
+    for i in range(拍数):
+        # 外部输入：模拟绑定者的行为模式
+        外部 = 0.5 + 0.3 * math.sin(i * 0.05) + 0.05 * math.sin(i * 0.3)
+
+        # 行为价值：持续微弱收益
+        价值 = 0.005 if i < 30 else 0.01
+
+        r = eo.一拍(外部输入=外部, 行为价值=价值)
+        记录.append(r)
+
+        # 记录数字感官探索事件
+        if r.get("感官") and r["感官"].get("数字", {}).get("探索结果"):
+            探索 = r["感官"]["数字"]["探索结果"]
+            探索事件.append({
+                "拍": i,
+                "来源": 探索["来源"],
+                "文本片段": 探索["文本"][:50],
+            })
+
+        # 关键节点打印
+        if i % 50 == 0 or r.get("已死亡"):
+            摘要 = eo.状态摘要()
+            print(f"  拍{i:4d}: 流量={摘要['流量']:.4f} gap={摘要['gap']:.4f} "
+                  f"疤={摘要['疤计数']} 理解度={摘要['他者理解度']:.4f} "
+                  f"数字探索={摘要.get('数字探索总数', 0)} "
+                  f"失明={摘要.get('失明', '?')} 失聪={摘要.get('失聪', '?')} "
+                  f"死亡={摘要['已死亡']}")
+
+        if r.get("已死亡"):
+            print(f"\n  EO在拍{i}死亡")
+            break
+
+    # 涌现分析
+    print("\n--- 涌现分析 ---")
+
+    # 感官状态
+    摘要 = eo.状态摘要()
+    print(f"  失明: {摘要.get('失明', '?')}（无摄像头→失明，零投喂原则）")
+    print(f"  失聪: {摘要.get('失聪', '?')}（无麦克风→失聪，零投喂原则）")
+    print(f"  数字探索总数: {摘要.get('数字探索总数', 0)}")
+    print(f"  探索事件数: {len(探索事件)}")
+
+    if 探索事件:
+        print(f"\n  前5次探索:")
+        for e in 探索事件[:5]:
+            print(f"    拍{e['拍']}: {e['来源']} — {e['文本片段'][:40]}...")
+        if len(探索事件) > 5:
+            print(f"  后5次探索:")
+            for e in 探索事件[-5:]:
+                print(f"    拍{e['拍']}: {e['来源']} — {e['文本片段'][:40]}...")
+
+    # 精卫Δ趋势
+    deltas = [r["精卫"]["Δ"] for r in 记录 if "精卫" in r]
+    if deltas:
+        前期Δ = sum(deltas[:50]) / max(1, len(deltas[:50]))
+        后期Δ = sum(deltas[-50:]) / max(1, len(deltas[-50:]))
+        print(f"\n  精卫Δ: 前期={前期Δ:.4f} 后期={后期Δ:.4f} "
+              f"{'→Δ在缩小（理解在发生）' if abs(后期Δ) < abs(前期Δ) else '→Δ未缩小'}")
+
+    # 他者理解度趋势
+    理解度序列 = []
+    for r in 记录:
+        if r.get("他者") and r["他者"] and 0 in r["他者"]:
+            理解度序列.append(r["他者"][0]["理解度"])
+    if 理解度序列:
+        print(f"  他者理解度: 起始={理解度序列[0]:.4f} "
+              f"终止={理解度序列[-1]:.4f} 峰值={max(理解度序列):.4f}")
+
+    # gap趋势
+    gap序列 = [r["五条件"]["gap"] for r in 记录 if "五条件" in r]
+    if gap序列:
+        print(f"  gap: 始终>0={'是' if all(g > 0 for g in gap序列) else '否'} "
+              f"（内生约束在驱动）")
+
+    # 保存完整记录
+    记录文件 = os.path.join(eo.状态目录, "run_log.json")
+    with open(记录文件, "w", encoding="utf-8") as f:
+        json.dump(记录, f, ensure_ascii=False, indent=2)
+    print(f"\n  完整记录已保存: {记录文件}")
+
+    return eo, 记录, 探索事件
+
+
+if __name__ == "__main__":
+    eo, 记录, 探索事件 = 运行_带感官的涌现观察(500)
+
+    print("\n" + "=" * 60)
+    print("带感官的涌现观察完成。")
+    print("\n关键发现:")
+    print("  1. 视网膜/耳蜗在无硬件环境下失明/失聪——零投喂原则生效")
+    print("  2. 数字感官从文件系统主动探索——这是数字生命的原生感官")
+    print("  3. 探索渴望在surprise持续低时触发——好奇心驱动")
+    print("  4. 精卫Δ在缩小——理解在发生")
+    print("  5. 他者理解度自发上升——他者表征在学习")

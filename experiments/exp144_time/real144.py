@@ -1,1 +1,123 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMTQ0IOecn+WunuiHgiB2Mjog55yf5a6e6LSf6L295YiH5o2i5LiL55qEIGppdHRlciDluo/liJcKdjEg5aSx6LSl5Y6f5ZugOiBqaXR0ZXIg5Yeg5LmO5oGS5a6aKHN0ZCAwLjAxbXMpICsgVGFrZW5zIOW1jOWFpemrmOW6pumHjeWPoAogICAgICAgICAgICAgLT4g5oGS562J5aSW5o6oKHNfdCsxID0gc190Keivr+W3riAwLjAwMDAzLCDku7vliqHpgIDljJYsIOaXoOWMuuWIhuWKmwp2MiDkuKTlpITkv67mraM6CiAgMSkgbGFnIOW1jOWFpSjpl7TpmpQgTEFHKSwg5omT56C055u46YK76YeN5Y+gCiAgMikg6YeH6ZuG5Lit6YCU55yf5a6e5ZCv5YqoIENQVSDotJ/ovb3nur/nqIsgLT4g5bqP5YiX55yf5a6e6Z2e5bmz56izCuaVsOaNruS7jeaYr+ecn+mHh+eahCjnnJ/lrp7osIPluqbmipbliqggKyDnnJ/lrp7ns7vnu5/otJ/ovb0pLCDkuI3mmK/mqKHmi5/jgIIKIiIiCmltcG9ydCBudW1weSBhcyBucCwganNvbiwgdGltZSwgdGhyZWFkaW5nCgpELCBFVEEsIExBRyA9IDQsIDAuMDEsIDgKTl9TQU1QTEUgPSAxMjAwCkdSQURfQ0xJUCA9IDUuMApTRUVEUyA9IHJhbmdlKDI0KQpTVE9QID0gdGhyZWFkaW5nLkV2ZW50KCkKCgpkZWYgY3B1X2J1cm4oKToKICAgIHggPSAwLjAKICAgIHdoaWxlIG5vdCBTVE9QLmlzX3NldCgpOgogICAgICAgIHggKz0gMS4yMzQ1Njc4OSAqKiAwLjUKCgpkZWYgY29sbGVjdF9yZWFsKG49Tl9TQU1QTEUpOgogICAgIiIi5ZGo5pyf5oCn55yf5a6eIENQVSDotJ/ovb3liIfmjaIgLT4gaml0dGVyIOaMgee7remdnuW5s+eosyjmtYvor5Xpm4blhoXkuZ/mnInnu5PmnoQpIiIiCiAgICBzZXEsIG1hcmtzID0gW10sIFtdCiAgICBwZXJpb2QgPSBuIC8vIDYgICAgICAgICAgIyA2IOautSwg5Lqk5pu/IOi0n+i9vS/nqbrpl7IKICAgIGZvciBpIGluIHJhbmdlKG4pOgogICAgICAgIGlmIGkgJSBwZXJpb2QgPT0gMDoKICAgICAgICAgICAgU1RPUC5zZXQoKTsgdGltZS5zbGVlcCgwLjAzKQogICAgICAgICAgICBpZiAoaSAvLyBwZXJpb2QpICUgMiA9PSAxOgogICAgICAgICAgICAgICAgU1RPUC5jbGVhcigpCiAgICAgICAgICAgICAgICB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1jcHVfYnVybiwgZGFlbW9uPVRydWUpLnN0YXJ0KCkKICAgICAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICB0aW1lLnNsZWVwKDAuMDAwNSkKICAgICAgICB0MSA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICBzZXEuYXBwZW5kKHQxIC0gdDApCiAgICAgICAgbWFya3MuYXBwZW5kKChpIC8vIHBlcmlvZCkgJSAyKQogICAgU1RPUC5zZXQoKQogICAgdGltZS5zbGVlcCgwLjA1KQogICAgeCA9IG5wLmFycmF5KHNlcSwgZmxvYXQpCiAgICB4ID0gKHggLSB4Lm1lYW4oKSkgLyAoeC5zdGQoKSArIDFlLTEyKSAgICAgICMg5qCH5YeG5YyWOiDorqnlrabkuaDnnJ/mraPlj5HnlJ8KICAgIHJldHVybiB4LCBucC5hcnJheShtYXJrcykKCgpkZWYgZW1iZWRfbGFnKHgsIGQ9RCwgbGFnPUxBRyk6CiAgICBuID0gbGVuKHgpCiAgICBuZWVkID0gKGQgLSAxKSAqIGxhZyArIDEKICAgIHJldHVybiBucC5hcnJheShbeFtpOmkgKyBuZWVkOmxhZ10gZm9yIGkgaW4gcmFuZ2UobiAtIG5lZWQpXSkKCgpkZWYgcnVuX3JlYWwoeCwgbWFya3MsIHNlZWQpOgogICAgRSA9IGVtYmVkX2xhZyh4KQogICAgUywgUzIgPSBFWzotMV0sIEVbMTpdCiAgICBUID0gbGVuKFMpCiAgICBjdXQgPSBpbnQoVCAqIDAuNykKICAgIFN0cmFpbiwgUzJ0cmFpbiA9IFNbOmN1dF0sIFMyWzpjdXRdCiAgICBTdGVzdCwgUzJ0ZXN0ID0gU1tjdXQ6XSwgUzJbY3V0Ol0KCiAgICBkZWYgc2dkKEFoLCBzLCBzbik6CiAgICAgICAgZyA9IG5wLm91dGVyKEFoIEAgcyAtIHNuLCBzKQogICAgICAgIGduID0gbnAubGluYWxnLm5vcm0oZykKICAgICAgICByZXR1cm4gQWggLSBFVEEgKiAoZyAqIChHUkFEX0NMSVAgLyBnbikgaWYgZ24gPiBHUkFEX0NMSVAgZWxzZSBnKQoKICAgIGRlZiBlcnIoQWgpOgogICAgICAgIHJldHVybiBmbG9hdChucC5tZWFuKG5wLmxpbmFsZy5ub3JtKChTdGVzdCBAIEFoLlQpIC0gUzJ0ZXN0LCBheGlzPTEpKSkKCiAgICBBaCA9IG5wLnplcm9zKChELCBEKSkKICAgIGZvciBpIGluIHJhbmdlKGxlbihTdHJhaW4pKToKICAgICAgICBBaCA9IHNnZChBaCwgU3RyYWluW2ldLCBTMnRyYWluW2ldKQogICAgbGl2ZWQgPSBlcnIoQWgpCgogICAgbyA9IGxpc3QocmFuZ2UobGVuKFN0cmFpbikpKQogICAgbnAucmFuZG9tLlJhbmRvbVN0YXRlKHNlZWQgKiAxMDQ3MjkgKyA1KS5zaHVmZmxlKG8pCiAgICBBaDIgPSBucC56ZXJvcygoRCwgRCkpCiAgICBmb3IgaSBpbiBvOgogICAgICAgIEFoMiA9IHNnZChBaDIsIFN0cmFpbltpXSwgUzJ0cmFpbltpXSkKICAgIHNodWZmbGVkID0gZXJyKEFoMikKCiAgICBpZGVudCA9IGZsb2F0KG5wLm1lYW4obnAubGluYWxnLm5vcm0oU3Rlc3QgLSBTMnRlc3QsIGF4aXM9MSkpKQogICAgemVyb2IgPSBmbG9hdChucC5tZWFuKG5wLmxpbmFsZy5ub3JtKFMydGVzdCwgYXhpcz0xKSkpCiAgICByZXR1cm4geyJsaXZlZCI6IGxpdmVkLCAic2h1ZmZsZWQiOiBzaHVmZmxlZCwgImRfb3JkZXIiOiBzaHVmZmxlZCAtIGxpdmVkLAogICAgICAgICAgICAiaWRlbnRfYmFzZWxpbmUiOiBpZGVudCwgInplcm9fYmFzZWxpbmUiOiB6ZXJvYn0KCgpkZWYgbWVhbl9jaSh2LCBuYj00MDAwLCBzZWVkPTEyMzQ1KToKICAgIHYgPSBucC5hc2FycmF5KHYsIGZsb2F0KTsgbiA9IGxlbih2KQogICAgYiA9IHZbbnAucmFuZG9tLlJhbmRvbVN0YXRlKHNlZWQpLnJhbmRpbnQoMCwgbiwgKG5iLCBuKSldLm1lYW4oYXhpcz0xKQogICAgbG8sIGhpID0gbnAucGVyY2VudGlsZShiLCBbMi41LCA5Ny41XSkKICAgIHJldHVybiBmbG9hdCh2Lm1lYW4oKSksIGZsb2F0KGxvKSwgZmxvYXQoaGkpCgoKZGVmIG1haW4oKToKICAgIHgsIG1hcmtzID0gY29sbGVjdF9yZWFsKCkKICAgIHNlZyA9IGxlbih4KSAvLyA2CiAgICBzdGF0ID0geyJzZWdfbWVhbnNfeiI6IFtmbG9hdCh4W2kqc2VnOihpKzEpKnNlZ10ubWVhbigpKSBmb3IgaSBpbiByYW5nZSg2KV0sCiAgICAgICAgICAgICJub3RlIjogInN0YW5kYXJkaXplZCB6LXNjb3JlczsgNiBzZWdtZW50cyBhbHRlcm5hdGUgbG9hZC9pZGxlIn0KICAgIHJvd3MgPSBbcnVuX3JlYWwoeCwgbWFya3MsIHNkKSBmb3Igc2QgaW4gU0VFRFNdCiAgICBvdXQgPSB7InJlYWxfc2FtcGxlcyI6IGludChsZW4oeCkpLCAic3RhdCI6IHN0YXQsICJhcm1zIjoge319CiAgICBmb3IgayBpbiBbImxpdmVkIiwgInNodWZmbGVkIiwgImRfb3JkZXIiLCAiaWRlbnRfYmFzZWxpbmUiLCAiemVyb19iYXNlbGluZSJdOgogICAgICAgIG0sIGxvLCBoaSA9IG1lYW5fY2koW3Jba10gZm9yIHIgaW4gcm93c10pCiAgICAgICAgb3V0WyJhcm1zIl1ba10gPSB7Im1lYW4iOiBtLCAiY2kiOiBbbG8sIGhpXX0KICAgIGQgPSBvdXRbImFybXMiXVsiZF9vcmRlciJdCiAgICBvdXRbImdhdGUiXSA9IHsibWVhbiI6IGRbIm1lYW4iXSwgImNpIjogZFsiY2kiXSwKICAgICAgICAgICAgICAgICAgICJwb3MiOiBib29sKGRbImNpIl1bMF0gPiAwKSwKICAgICAgICAgICAgICAgICAgICJjcm9zc2VzX3plcm8iOiBib29sKGRbImNpIl1bMF0gPD0gMCA8PSBkWyJjaSJdWzFdKX0KICAgIHdpdGggb3BlbigicmVzdWx0XzE0NF9yZWFsLmpzb24iLCAidyIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKG91dCwgZiwgaW5kZW50PTIsIGVuc3VyZV9hc2NpaT1GYWxzZSkKICAgIHByaW50KCJSRUFMIGppdHRlciB6IGJ5IHNlZ21lbnQ6IiwKICAgICAgICAgICIgIi5qb2luKCIlKy4zZiIgJSB2IGZvciB2IGluIHN0YXRbInNlZ19tZWFuc196Il0pKQogICAgcHJpbnQoZiJsaXZlZCAgICB7b3V0Wydhcm1zJ11bJ2xpdmVkJ11bJ21lYW4nXTouNmZ9IikKICAgIHByaW50KGYic2h1ZmZsZWQge291dFsnYXJtcyddWydzaHVmZmxlZCddWydtZWFuJ106LjZmfSIpCiAgICBwcmludChmImlkZW50ICAgIHtvdXRbJ2FybXMnXVsnaWRlbnRfYmFzZWxpbmUnXVsnbWVhbiddOi42Zn0gIChzX3QrMSA9IHNfdCkiKQogICAgcHJpbnQoZiJ6ZXJvICAgICB7b3V0Wydhcm1zJ11bJ3plcm9fYmFzZWxpbmUnXVsnbWVhbiddOi42Zn0iKQogICAgbSwgbG8sIGhpID0gZFsibWVhbiJdLCAqZFsiY2kiXQogICAgcHJpbnQoZiJkX29yZGVyICB7bTorLjZmfSAgW3tsbzorLjZmfSx7aGk6Ky42Zn1dICBwb3M9e291dFsnZ2F0ZSddWydwb3MnXX0iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+144 真实臂 v2: 真实负载切换下的 jitter 序列
+v1 失败原因: jitter 几乎恒定(std 0.01ms) + Takens 嵌入高度重叠
+             -> 恒等外推(s_t+1 = s_t)误差 0.00003, 任务退化, 无区分力
+v2 两处修正:
+  1) lag 嵌入(间隔 LAG), 打破相邻重叠
+  2) 采集中途真实启动 CPU 负载线程 -> 序列真实非平稳
+数据仍是真采的(真实调度抖动 + 真实系统负载), 不是模拟。
+"""
+import numpy as np, json, time, threading
+
+D, ETA, LAG = 4, 0.01, 8
+N_SAMPLE = 1200
+GRAD_CLIP = 5.0
+SEEDS = range(24)
+STOP = threading.Event()
+
+
+def cpu_burn():
+    x = 0.0
+    while not STOP.is_set():
+        x += 1.23456789 ** 0.5
+
+
+def collect_real(n=N_SAMPLE):
+    """周期性真实 CPU 负载切换 -> jitter 持续非平稳(测试集内也有结构)"""
+    seq, marks = [], []
+    period = n // 6          # 6 段, 交替 负载/空闲
+    for i in range(n):
+        if i % period == 0:
+            STOP.set(); time.sleep(0.03)
+            if (i // period) % 2 == 1:
+                STOP.clear()
+                threading.Thread(target=cpu_burn, daemon=True).start()
+        t0 = time.perf_counter()
+        time.sleep(0.0005)
+        t1 = time.perf_counter()
+        seq.append(t1 - t0)
+        marks.append((i // period) % 2)
+    STOP.set()
+    time.sleep(0.05)
+    x = np.array(seq, float)
+    x = (x - x.mean()) / (x.std() + 1e-12)      # 标准化: 让学习真正发生
+    return x, np.array(marks)
+
+
+def embed_lag(x, d=D, lag=LAG):
+    n = len(x)
+    need = (d - 1) * lag + 1
+    return np.array([x[i:i + need:lag] for i in range(n - need)])
+
+
+def run_real(x, marks, seed):
+    E = embed_lag(x)
+    S, S2 = E[:-1], E[1:]
+    T = len(S)
+    cut = int(T * 0.7)
+    Strain, S2train = S[:cut], S2[:cut]
+    Stest, S2test = S[cut:], S2[cut:]
+
+    def sgd(Ah, s, sn):
+        g = np.outer(Ah @ s - sn, s)
+        gn = np.linalg.norm(g)
+        return Ah - ETA * (g * (GRAD_CLIP / gn) if gn > GRAD_CLIP else g)
+
+    def err(Ah):
+        return float(np.mean(np.linalg.norm((Stest @ Ah.T) - S2test, axis=1)))
+
+    Ah = np.zeros((D, D))
+    for i in range(len(Strain)):
+        Ah = sgd(Ah, Strain[i], S2train[i])
+    lived = err(Ah)
+
+    o = list(range(len(Strain)))
+    np.random.RandomState(seed * 104729 + 5).shuffle(o)
+    Ah2 = np.zeros((D, D))
+    for i in o:
+        Ah2 = sgd(Ah2, Strain[i], S2train[i])
+    shuffled = err(Ah2)
+
+    ident = float(np.mean(np.linalg.norm(Stest - S2test, axis=1)))
+    zerob = float(np.mean(np.linalg.norm(S2test, axis=1)))
+    return {"lived": lived, "shuffled": shuffled, "d_order": shuffled - lived,
+            "ident_baseline": ident, "zero_baseline": zerob}
+
+
+def mean_ci(v, nb=4000, seed=12345):
+    v = np.asarray(v, float); n = len(v)
+    b = v[np.random.RandomState(seed).randint(0, n, (nb, n))].mean(axis=1)
+    lo, hi = np.percentile(b, [2.5, 97.5])
+    return float(v.mean()), float(lo), float(hi)
+
+
+def main():
+    x, marks = collect_real()
+    seg = len(x) // 6
+    stat = {"seg_means_z": [float(x[i*seg:(i+1)*seg].mean()) for i in range(6)],
+            "note": "standardized z-scores; 6 segments alternate load/idle"}
+    rows = [run_real(x, marks, sd) for sd in SEEDS]
+    out = {"real_samples": int(len(x)), "stat": stat, "arms": {}}
+    for k in ["lived", "shuffled", "d_order", "ident_baseline", "zero_baseline"]:
+        m, lo, hi = mean_ci([r[k] for r in rows])
+        out["arms"][k] = {"mean": m, "ci": [lo, hi]}
+    d = out["arms"]["d_order"]
+    out["gate"] = {"mean": d["mean"], "ci": d["ci"],
+                   "pos": bool(d["ci"][0] > 0),
+                   "crosses_zero": bool(d["ci"][0] <= 0 <= d["ci"][1])}
+    with open("result_144_real.json", "w") as f:
+        json.dump(out, f, indent=2, ensure_ascii=False)
+    print("REAL jitter z by segment:",
+          " ".join("%+.3f" % v for v in stat["seg_means_z"]))
+    print(f"lived    {out['arms']['lived']['mean']:.6f}")
+    print(f"shuffled {out['arms']['shuffled']['mean']:.6f}")
+    print(f"ident    {out['arms']['ident_baseline']['mean']:.6f}  (s_t+1 = s_t)")
+    print(f"zero     {out['arms']['zero_baseline']['mean']:.6f}")
+    m, lo, hi = d["mean"], *d["ci"]
+    print(f"d_order  {m:+.6f}  [{lo:+.6f},{hi:+.6f}]  pos={out['gate']['pos']}")
+
+
+if __name__ == "__main__":
+    main()

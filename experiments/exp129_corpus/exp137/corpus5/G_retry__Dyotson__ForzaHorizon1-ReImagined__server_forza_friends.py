@@ -1,1 +1,531 @@
-IiIiRnJpZW5kcyBvbiB0aGUgRm9yemEgTGl2ZSBzZXJ2ZXIgKCM5Mik6IHJlcXVlc3RzIGJ5IGdhbWVydGFnLCBhY2NlcHQgb3IgZGVjbGluZSwgcmVtb3ZlCmFuZCBibG9jaywga2VwdCBwZXIgcGxheWVyIChYVUlEKSBpbiBEQVRBX0RJUi9mcmllbmRzLmpzb24uCgpHYW1lcyB1cCB0byB2MC4xLjE0IGNvdW50IGV2ZXJ5IHBsYXllciBpbiB0aGVpciByb29tIGFzIGEgZnJpZW5kICh0aGUgcm9vbSdzIHJvc3RlciwKUEVFUlMpLiBBIGdhbWUgdGhhdCBzZW5kcyBGRUFUVVJFX0ZSSUVORFMgaW4gaXRzIEhFTExPIGFza3MgdGhlIHNlcnZlciBmb3IgaXRzIGZyaWVuZHMKbGlzdCBpbnN0ZWFkIGFuZCBzaG93cyBvbmx5IHRob3NlIHBsYXllcnMgaW4gdGhlIGdhbWUncyBmcmllbmRzIGxpc3QgKFhib3ggR3VpZGUgZnJpZW5kcywKcHJlc2VuY2UsIGpvaW4gYSBmcmllbmQpIGFuZCBmaXJzdCBpbiB0aGUgaW52aXRlIHBpY2tlci4gRXZlcnl0aGluZyBlbHNlIHN0YXlzIGFzIGl0IHdhczoKdGhlIHJvc3RlciBzdGlsbCBsaXN0cyB0aGUgd2hvbGUgcm9vbSAobWF0Y2htYWtpbmcsIFFvUyBhbmQgc3RhdHMgbmVlZCBpdCksIGFuZCBvbGQgZ2FtZXMKbmVpdGhlciBzZW5kIG5vciBnZXQgRlJJRU5EIG1lc3NhZ2VzLgoKV2hvIGlzIHdobzogdGhlIFhVSUQgYSBnYW1lIHJlcG9ydHMgaXMgbm90IHByb3Zlbiwgc28gdGhlIGZpcnN0IGdhbWUgdGhhdCB1c2VzIHRoZSBmcmllbmRzCm9mIGFuIFhVSUQgYmluZHMgdGhlbSB0byBpdHMgZnJpZW5kcyBrZXkgKDE2IHJhbmRvbSBieXRlcyBpbiBpdHMgbGl2ZV9pZGVudGl0eS50eHQsIHNlbnQKYWZ0ZXIgdGhlIEhFTExPIGZlYXR1cmVzIGJ5dGU7IHRoZSBzZXJ2ZXIga2VlcHMgYSBTSEEtMjU2IG9mIGl0KS4gQSBnYW1lIHdpdGggdGhlIHNhbWUgWFVJRAphbmQgYW5vdGhlciBrZXkgZ2V0cyBubyBmcmllbmRzIGxpc3QgYW5kIGNhbm5vdCBjaGFuZ2UgaXQuCgpNZXNzYWdlIEZSSUVORCAoVURQIGtpbmQgMjIpLCBib2R5IG9wIHU4IHRoZW4gKGJpZyBlbmRpYW47IHN0cmluZ3MgdTggbGVuZ3RoICsgVVRGLTgpOgogIGNsaWVudCAtPiBzZXJ2ZXIKICAgIDEgTElTVCAgICAgdmVyc2lvbiB1MzIgKG9mIHRoZSBsYXN0IGxpc3QgaXQgZ290LCAwIGZvciBub25lKQogICAgMiBTRUFSQ0ggICByZXF1ZXN0IHUxNiwgcXVlcnkKICAgIDMgUkVRVUVTVCAgeHVpZCB1NjQgKDA6IGZpbmQgdGhlIGdhbWVydGFnKSwgZ2FtZXJ0YWcKICAgIDQgQUNDRVBUICAgeHVpZCB1NjQKICAgIDUgREVDTElORSAgeHVpZCB1NjQgKGFuIGluY29taW5nIHJlcXVlc3Q7IGFsc28gdGFrZXMgYmFjayBvbmUgd2Ugc2VudCkKICAgIDYgUkVNT1ZFICAgeHVpZCB1NjQKICAgIDcgQkxPQ0sgICAgeHVpZCB1NjQsIGdhbWVydGFnCiAgICA4IFVOQkxPQ0sgIHh1aWQgdTY0CiAgc2VydmVyIC0+IGNsaWVudAogICAgMTYgTElTVCAgICB2ZXJzaW9uIHUzMiwgdG90YWwgdTE2LCBmaXJzdCB1MTYsIGNvdW50IHUxNiwgdGhlbiBjb3VudCBlbnRyaWVzOgogICAgICAgICAgICAgICB4dWlkIHU2NCwgcmVsYXRpb24gdTggKDEgZnJpZW5kLCAyIGFza3MgdXMsIDMgd2UgYXNrZWQsIDQgYmxvY2tlZCksCiAgICAgICAgICAgICAgIHN0YXRlIHUzMiAoYSBmcmllbmQncyBYX09OTElORV9GUklFTkRTVEFURSBmbGFncywgMCBvZmZsaW5lKSwgZ2FtZXJ0YWcsCiAgICAgICAgICAgICAgIHN0YXR1cyAoYSBmcmllbmQncyBwcmVzZW5jZSBsaW5lKS4gSW4gcGFydHMgdGhhdCBmaXQgYSBkYXRhZ3JhbS4KICAgIDE3IFNBTUUgICAgdmVyc2lvbiB1MzI6IHRoZSBsaXN0IGhhcyBub3QgY2hhbmdlZAogICAgMTggUkVTVUxUUyByZXF1ZXN0IHUxNiwgY291bnQgdTgsIHRoZW4geHVpZCB1NjQsIG9ubGluZSB1OCwgcmVsYXRpb24gdTggKDAgbm9uZSksCiAgICAgICAgICAgICAgIGdhbWVydGFnCiAgICAxOSBOT1RJQ0UgIGV2ZW50IHU4ICgxIGEgcmVxdWVzdCBmcm9tLCAyIGFjY2VwdGVkIGJ5LCAzIHRleHQpLCB4dWlkIHU2NCwgZ2FtZXJ0YWcsIHRleHQKCkxpbWl0czogTUFYX0ZSSUVORFMgZnJpZW5kcywgTUFYX1BFTkRJTkcgcmVxdWVzdHMgd2FpdGluZyBlYWNoIHdheSwgTUFYX0JMT0NLRUQgYmxvY2tzOwpSRVFVRVNUU19QRVJfTUlOIHJlcXVlc3RzIHNlbnQsIEFDVElPTlNfUEVSX01JTiBvdGhlciBjaGFuZ2VzLCBTRUFSQ0hFU19QRVJfTUlOIHNlYXJjaGVzCnBlciBwbGF5ZXIuIEEgcmVxdWVzdCB0byBhIHBsYXllciB3aG8gYmxvY2tlZCB5b3UgbG9va3Mgc2VudCBidXQgaXMgZHJvcHBlZC4KIiIiCgppbXBvcnQgaGFzaGxpYgppbXBvcnQganNvbgppbXBvcnQgbG9nZ2luZwppbXBvcnQgb3MKaW1wb3J0IHN0cnVjdAppbXBvcnQgdGltZQppbXBvcnQgemxpYgoKbG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoImZvcnphLWxpdmUiKQoKS0lORCA9IDIyCkZFQVRVUkUgPSAweDAyICAjIEhFTExPIGZlYXR1cmVzIGJ5dGU6IHRoZSBnYW1lIHVzZXMgdGhlIHNlcnZlcidzIGZyaWVuZHMgbGlzdApMSVNULCBTRUFSQ0gsIFJFUVVFU1QsIEFDQ0VQVCwgREVDTElORSwgUkVNT1ZFLCBCTE9DSywgVU5CTE9DSyA9IHJhbmdlKDEsIDkpClJfTElTVCwgUl9TQU1FLCBSX1JFU1VMVFMsIFJfTk9USUNFID0gMTYsIDE3LCAxOCwgMTkKRlJJRU5ELCBJTkNPTUlORywgT1VUR09JTkcsIEJMT0NLRUQgPSAxLCAyLCAzLCA0Ck5fUkVRVUVTVCwgTl9BQ0NFUFRFRCwgTl9URVhUID0gMSwgMiwgMwoKRklMRSA9ICJmcmllbmRzLmpzb24iCk1BWF9GUklFTkRTID0gMjAwCk1BWF9QRU5ESU5HID0gNTAKTUFYX0JMT0NLRUQgPSAyMDAKTUFYX1JFU1VMVFMgPSAyMApSRVFVRVNUU19QRVJfTUlOID0gMTAKQUNUSU9OU19QRVJfTUlOID0gNjAKU0VBUkNIRVNfUEVSX01JTiA9IDMwCkxJU1RTID0gKDAuNSwgNCkgICMgbGlzdCBhbnN3ZXJzIHBlciBzZWNvbmQgYW5kIGJ1cnN0CkZPUkdFVF9EQVlTID0gMTgwICAjIGEgcGxheWVyIHdpdGggbm8gZnJpZW5kcywgcmVxdWVzdHMgb3IgYmxvY2tzIGlzIGZvcmdvdHRlbiBhZnRlciB0aGlzCktFWV9TSVpFID0gMTYKU1RBVFVTX01BWCA9IDYwCgoKZGVmIHRleHQ4KHMpOgogICAgYiA9IHMuZW5jb2RlKClbOjI1NV0KICAgIHdoaWxlIFRydWU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBiLmRlY29kZSgpCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZXhjZXB0IFVuaWNvZGVEZWNvZGVFcnJvcjoKICAgICAgICAgICAgYiA9IGJbOi0xXQogICAgcmV0dXJuIGJ5dGVzKFtsZW4oYildKSArIGIKCgpkZWYgcmVhZDgoYm9keSwgcG9zKToKICAgIG4gPSBib2R5W3Bvc10KICAgIHJldHVybiBib2R5W3BvcyArIDE6cG9zICsgMSArIG5dLmRlY29kZSgidXRmLTgiLCAicmVwbGFjZSIpLCBwb3MgKyAxICsgbgoKCmRlZiBrZXlfaGFzaChrZXkpOgogICAgcmV0dXJuIGhhc2hsaWIuc2hhMjU2KGJ5dGVzKGtleSkpLmhleGRpZ2VzdCgpCgoKY2xhc3MgU3RvcmU6CiAgICAiIiJUaGUgcGxheWVycycgcmVsYXRpb25zOiB7eHVpZDogeyJuYW1lIiwgInNlZW4iLCAia2V5IiwgImZyaWVuZHMiLCAiaW4iLCAib3V0IiwKICAgICJibG9ja2VkIn19LCBlYWNoIHJlbGF0aW9uIGEge3h1aWQgaGV4OiBzaW5jZX0gbWFwLCBrZXB0IHN5bW1ldHJpYyAoQSdzICJvdXQiIGlzIEIncwogICAgImluIikuIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBhdGg9Tm9uZSk6CiAgICAgICAgc2VsZi5wYXRoID0gcGF0aAogICAgICAgIHNlbGYucGxheWVycyA9IHt9CiAgICAgICAgc2VsZi5kaXJ0eSA9IEZhbHNlCiAgICAgICAgc2VsZi5zYXZlZCA9IDAuMAoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBoeCh4dWlkKToKICAgICAgICByZXR1cm4gIiUwMTZYIiAlIHh1aWQKCiAgICBkZWYgZ2V0KHNlbGYsIHh1aWQsIGNyZWF0ZT1GYWxzZSk6CiAgICAgICAgayA9IHNlbGYuaHgoeHVpZCkKICAgICAgICBwID0gc2VsZi5wbGF5ZXJzLmdldChrKQogICAgICAgIGlmIHAgaXMgTm9uZSBhbmQgY3JlYXRlOgogICAgICAgICAgICBwID0gc2VsZi5wbGF5ZXJzW2tdID0geyJuYW1lIjogIiIsICJzZWVuIjogdGltZS50aW1lKCksICJrZXkiOiAiIiwgImZyaWVuZHMiOiB7fSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaW4iOiB7fSwgIm91dCI6IHt9LCAiYmxvY2tlZCI6IHt9fQogICAgICAgICAgICBzZWxmLmRpcnR5ID0gVHJ1ZQogICAgICAgIHJldHVybiBwCgogICAgZGVmIHJlbGF0aW9uKHNlbGYsIGEsIGIpOgogICAgICAgICIiIldoYXQgYiBpcyB0byBhIChGUklFTkQsIElOQ09NSU5HLCBPVVRHT0lORywgQkxPQ0tFRCwgb3IgMCkuIiIiCiAgICAgICAgcCA9IHNlbGYuZ2V0KGEpCiAgICAgICAgaWYgbm90IHA6CiAgICAgICAgICAgIHJldHVybiAwCiAgICAgICAgayA9IHNlbGYuaHgoYikKICAgICAgICBmb3IgcmVsLCBmaWVsZCBpbiAoKEJMT0NLRUQsICJibG9ja2VkIiksIChGUklFTkQsICJmcmllbmRzIiksIChJTkNPTUlORywgImluIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIChPVVRHT0lORywgIm91dCIpKToKICAgICAgICAgICAgaWYgayBpbiBwW2ZpZWxkXToKICAgICAgICAgICAgICAgIHJldHVybiByZWwKICAgICAgICByZXR1cm4gMAoKICAgIGRlZiBibG9ja3Moc2VsZiwgYSwgYik6CiAgICAgICAgIiIiYSBoYXMgYmxvY2tlZCBiLiIiIgogICAgICAgIHAgPSBzZWxmLmdldChhKQogICAgICAgIHJldHVybiBib29sKHApIGFuZCBzZWxmLmh4KGIpIGluIHBbImJsb2NrZWQiXQoKICAgIGRlZiBzZWVuKHNlbGYsIHh1aWQsIG5hbWUpOgogICAgICAgIHAgPSBzZWxmLmdldCh4dWlkLCBjcmVhdGU9VHJ1ZSkKICAgICAgICBpZiBuYW1lIGFuZCBwWyJuYW1lIl0gIT0gbmFtZToKICAgICAgICAgICAgcFsibmFtZSJdID0gbmFtZQogICAgICAgICAgICBzZWxmLmRpcnR5ID0gVHJ1ZQogICAgICAgIGlmIHRpbWUudGltZSgpIC0gcFsic2VlbiJdID4gMzYwMDoKICAgICAgICAgICAgcFsic2VlbiJdID0gdGltZS50aW1lKCkKICAgICAgICAgICAgc2VsZi5kaXJ0eSA9IFRydWUKCiAgICBkZWYgY2xhaW0oc2VsZiwgeHVpZCwga2V5KToKICAgICAgICAiIiJUcnVlIGlmIHRoaXMgZnJpZW5kcyBrZXkgbWF5IHVzZSB0aGUgWFVJRCdzIGZyaWVuZHMgKGJpbmRpbmcgaXQgb24gZmlyc3QgdXNlKS4iIiIKICAgICAgICBpZiBsZW4oa2V5KSAhPSBLRVlfU0laRToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcCA9IHNlbGYuZ2V0KHh1aWQsIGNyZWF0ZT1UcnVlKQogICAgICAgIGggPSBrZXlfaGFzaChrZXkpCiAgICAgICAgaWYgbm90IHBbImtleSJdOgogICAgICAgICAgICBwWyJrZXkiXSA9IGgKICAgICAgICAgICAgc2VsZi5kaXJ0eSA9IFRydWUKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICByZXR1cm4gcFsia2V5Il0gPT0gaAoKICAgIGRlZiB1bmxpbmsoc2VsZiwgYSwgYik6CiAgICAgICAgIiIiRHJvcHMgZXZlcnkgcmVsYXRpb24gYmV0d2VlbiBhIGFuZCBiIGV4Y2VwdCBibG9ja3MuIiIiCiAgICAgICAgcGEsIHBiID0gc2VsZi5nZXQoYSksIHNlbGYuZ2V0KGIpCiAgICAgICAga2EsIGtiID0gc2VsZi5oeChhKSwgc2VsZi5oeChiKQogICAgICAgIGNoYW5nZWQgPSBGYWxzZQogICAgICAgIGZvciBwLCBrIGluICgocGEsIGtiKSwgKHBiLCBrYSkpOgogICAgICAgICAgICBpZiBub3QgcDoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGZvciBmaWVsZCBpbiAoImZyaWVuZHMiLCAiaW4iLCAib3V0Iik6CiAgICAgICAgICAgICAgICBpZiBwW2ZpZWxkXS5wb3AoaywgTm9uZSkgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgY2hhbmdlZCA9IFRydWUKICAgICAgICBzZWxmLmRpcnR5IHw9IGNoYW5nZWQKICAgICAgICByZXR1cm4gY2hhbmdlZAoKICAgIGRlZiBiZWZyaWVuZChzZWxmLCBhLCBiKToKICAgICAgICBzZWxmLnVubGluayhhLCBiKQogICAgICAgIG5vdyA9IHRpbWUudGltZSgpCiAgICAgICAgc2VsZi5nZXQoYSwgVHJ1ZSlbImZyaWVuZHMiXVtzZWxmLmh4KGIpXSA9IG5vdwogICAgICAgIHNlbGYuZ2V0KGIsIFRydWUpWyJmcmllbmRzIl1bc2VsZi5oeChhKV0gPSBub3cKICAgICAgICBzZWxmLmRpcnR5ID0gVHJ1ZQoKICAgIGRlZiBhc2soc2VsZiwgYSwgYik6CiAgICAgICAgbm93ID0gdGltZS50aW1lKCkKICAgICAgICBzZWxmLmdldChhLCBUcnVlKVsib3V0Il1bc2VsZi5oeChiKV0gPSBub3cKICAgICAgICBzZWxmLmdldChiLCBUcnVlKVsiaW4iXVtzZWxmLmh4KGEpXSA9IG5vdwogICAgICAgIHNlbGYuZGlydHkgPSBUcnVlCgogICAgZGVmIGJsb2NrKHNlbGYsIGEsIGIpOgogICAgICAgIHNlbGYudW5saW5rKGEsIGIpCiAgICAgICAgc2VsZi5nZXQoYSwgVHJ1ZSlbImJsb2NrZWQiXVtzZWxmLmh4KGIpXSA9IHRpbWUudGltZSgpCiAgICAgICAgc2VsZi5kaXJ0eSA9IFRydWUKCiAgICBkZWYgdW5ibG9jayhzZWxmLCBhLCBiKToKICAgICAgICBwID0gc2VsZi5nZXQoYSkKICAgICAgICBpZiBwIGFuZCBwWyJibG9ja2VkIl0ucG9wKHNlbGYuaHgoYiksIE5vbmUpIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLmRpcnR5ID0gVHJ1ZQogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIHJldHVybiBGYWxzZQoKICAgIGRlZiBmaW5kKHNlbGYsIG5hbWUpOgogICAgICAgICIiIlhVSURzIG9mIHRoZSBwbGF5ZXJzIHdpdGggdGhpcyBnYW1lcnRhZyAoYW55IGNhc2UpLCBtb3N0IHJlY2VudGx5IHNlZW4gZmlyc3QuIiIiCiAgICAgICAgbmFtZSA9IG5hbWUubG93ZXIoKQogICAgICAgIGZvdW5kID0gWyhwWyJzZWVuIl0sIGludChrLCAxNikpIGZvciBrLCBwIGluIHNlbGYucGxheWVycy5pdGVtcygpCiAgICAgICAgICAgICAgICAgaWYgcFsibmFtZSJdIGFuZCBwWyJuYW1lIl0ubG93ZXIoKSA9PSBuYW1lXQogICAgICAgIHJldHVybiBbeCBmb3IgXywgeCBpbiBzb3J0ZWQoZm91bmQsIHJldmVyc2U9VHJ1ZSldCgogICAgZGVmIG5hbWUoc2VsZiwgeHVpZCk6CiAgICAgICAgcCA9IHNlbGYuZ2V0KHh1aWQpCiAgICAgICAgcmV0dXJuIHBbIm5hbWUiXSBpZiBwIGFuZCBwWyJuYW1lIl0gZWxzZSAiJTAxNlgiICUgeHVpZAoKICAgICMgLS0tIHRoZSBmaWxlIC0tLQoKICAgIGRlZiBsb2FkKHNlbGYpOgogICAgICAgIGlmIG5vdCBzZWxmLnBhdGg6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBvcGVuKHNlbGYucGF0aCkgYXMgZjoKICAgICAgICAgICAgICAgIGRhdGEgPSBqc29uLmxvYWQoZikKICAgICAgICAgICAgcGxheWVycyA9IGRhdGFbInBsYXllcnMiXQogICAgICAgICAgICBjdXRvZmYgPSB0aW1lLnRpbWUoKSAtIEZPUkdFVF9EQVlTICogODY0MDAKICAgICAgICAgICAgc2VsZi5wbGF5ZXJzID0ge2s6IHAgZm9yIGssIHAgaW4gcGxheWVycy5pdGVtcygpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBwWyJmcmllbmRzIl0gb3IgcFsiaW4iXSBvciBwWyJvdXQiXSBvciBwWyJibG9ja2VkIl0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yIHBbInNlZW4iXSA+PSBjdXRvZmZ9CiAgICAgICAgICAgIGxvZy5pbmZvKCJmcmllbmRzOiAlZCBwbGF5ZXIocykgZnJvbSAlcyIsIGxlbihzZWxmLnBsYXllcnMpLCBzZWxmLnBhdGgpCiAgICAgICAgZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yOgogICAgICAgICAgICBwYXNzCiAgICAgICAgZXhjZXB0IChPU0Vycm9yLCBWYWx1ZUVycm9yLCBLZXlFcnJvciwgVHlwZUVycm9yLCBBdHRyaWJ1dGVFcnJvcikgYXMgZToKICAgICAgICAgICAgbG9nLndhcm5pbmcoImNhbm5vdCByZWFkICVzOiAlcyIsIHNlbGYucGF0aCwgZSkKCiAgICBkZWYgc2F2ZShzZWxmKToKICAgICAgICBpZiBub3Qgc2VsZi5wYXRoOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICB0cnk6CiAgICAgICAgICAgIHRtcCA9IHNlbGYucGF0aCArICIudG1wIgogICAgICAgICAgICB3aXRoIG9wZW4odG1wLCAidyIpIGFzIGY6CiAgICAgICAgICAgICAgICBqc29uLmR1bXAoeyJ2ZXJzaW9uIjogMSwgInBsYXllcnMiOiBzZWxmLnBsYXllcnN9LCBmKQogICAgICAgICAgICBvcy5yZXBsYWNlKHRtcCwgc2VsZi5wYXRoKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yIGFzIGU6CiAgICAgICAgICAgIGxvZy53YXJuaW5nKCJjYW5ub3Qgd3JpdGUgJXM6ICVzIiwgc2VsZi5wYXRoLCBlKQogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBzZWxmLmRpcnR5ID0gRmFsc2UKICAgICAgICBzZWxmLnNhdmVkID0gdGltZS5tb25vdG9uaWMoKQogICAgICAgIHJldHVybiBUcnVlCgogICAgZGVmIG1heWJlX3NhdmUoc2VsZik6CiAgICAgICAgaWYgc2VsZi5kaXJ0eSBhbmQgdGltZS5tb25vdG9uaWMoKSAtIHNlbGYuc2F2ZWQgPj0gMjoKICAgICAgICAgICAgc2VsZi5zYXZlKCkKCgpjbGFzcyBGcmllbmRzOgogICAgIiIiVGhlIEZSSUVORCBtZXNzYWdlcy4gYHNlcnZlcmAgaXMgdGhlIEZvcnphTGl2ZSAoaXRzIHBlZXJzLCBzZW5kIGFuZCBzcGVuZCkuIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHNlcnZlciwgcGF0aD1Ob25lKToKICAgICAgICBzZWxmLnNlcnZlciA9IHNlcnZlcgogICAgICAgIHNlbGYuc3RvcmUgPSBTdG9yZShwYXRoKQogICAgICAgIHNlbGYuYnVja2V0cyA9IHt9ICAjICh4dWlkLCB3aGF0KSAtPiB0b2tlbiBidWNrZXQKCiAgICAjIC0tLSB3aG8gaXMgb25saW5lIC0tLQoKICAgIGRlZiBvbmxpbmUoc2VsZiwgeHVpZCk6CiAgICAgICAgIiIiVGhlIHBlZXJzIHNpZ25lZCBpbiB3aXRoIHRoaXMgWFVJRC4iIiIKICAgICAgICByZXR1cm4gW3AgZm9yIHAgaW4gc2VsZi5zZXJ2ZXIucGVlcnMudmFsdWVzKCkgaWYgcC54dWlkID09IHh1aWRdCgogICAgZGVmIHVzZXJzKHNlbGYsIHh1aWQpOgogICAgICAgICIiIlRoZSBYVUlEJ3MgcGVlcnMgdGhhdCB1c2UgdGhlIGZyaWVuZHMgbGlzdCAoYW5kIG93biBpdCkuIiIiCiAgICAgICAgcmV0dXJuIFtwIGZvciBwIGluIHNlbGYub25saW5lKHh1aWQpCiAgICAgICAgICAgICAgICBpZiBwLmZlYXR1cmVzICYgRkVBVFVSRSBhbmQgZ2V0YXR0cihwLCAiZnJpZW5kc19vayIsIEZhbHNlKV0KCiAgICBkZWYgbGltaXRlZChzZWxmLCB4dWlkLCB3aGF0LCBwZXJfbWludXRlLCBidXJzdD1Ob25lKToKICAgICAgICByYXRlID0gcGVyX21pbnV0ZSAvIDYwLjAKICAgICAgICBidXJzdCA9IGJ1cnN0IG9yIG1heCgxLCBwZXJfbWludXRlIC8vIDIpCiAgICAgICAgbm93ID0gdGltZS5tb25vdG9uaWMoKQogICAgICAgIHRva2VucywgbGFzdCA9IHNlbGYuYnVja2V0cy5nZXQoKHh1aWQsIHdoYXQpLCAoYnVyc3QsIG5vdykpCiAgICAgICAgdG9rZW5zID0gbWluKGJ1cnN0LCB0b2tlbnMgKyAobm93IC0gbGFzdCkgKiByYXRlKQogICAgICAgIG9rID0gdG9rZW5zID49IDEKICAgICAgICBzZWxmLmJ1Y2tldHNbKHh1aWQsIHdoYXQpXSA9ICh0b2tlbnMgLSAxIGlmIG9rIGVsc2UgdG9rZW5zLCBub3cpCiAgICAgICAgaWYgbGVuKHNlbGYuYnVja2V0cykgPiAyMDAwMDoKICAgICAgICAgICAgc2VsZi5idWNrZXRzID0ge2s6IHYgZm9yIGssIHYgaW4gc2VsZi5idWNrZXRzLml0ZW1zKCkgaWYgbm93IC0gdlsxXSA8IDEyMH0KICAgICAgICByZXR1cm4gbm90IG9rCgogICAgIyAtLS0gSEVMTE8gLS0tCgogICAgZGVmIGhlbGxvKHNlbGYsIHBlZXIsIGtleSk6CiAgICAgICAgIiIiQSBIRUxMTyB3aXRoIEZFQVRVUkU6IHJlY29yZHMgdGhlIGdhbWVydGFnIGFuZCBjaGVja3MgdGhlIGZyaWVuZHMga2V5LiIiIgogICAgICAgIGlmIG5vdCBwZWVyLmZlYXR1cmVzICYgRkVBVFVSRToKICAgICAgICAgICAgcGVlci5mcmllbmRzX29rID0gRmFsc2UKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgc2VsZi5zdG9yZS5zZWVuKHBlZXIueHVpZCwgcGVlci5uYW1lKQogICAgICAgIG9rID0gc2VsZi5zdG9yZS5jbGFpbShwZWVyLnh1aWQsIGtleSkKICAgICAgICBpZiBvayAhPSBnZXRhdHRyKHBlZXIsICJmcmllbmRzX29rIiwgTm9uZSk6CiAgICAgICAgICAgIGlmIG5vdCBvazoKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJmcmllbmRzICMlZCAlcjogWFVJRCAlMDE2WCBoYXMgYW5vdGhlciBmcmllbmRzIGtleSIsIHBlZXIuaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICBwZWVyLm5hbWUsIHBlZXIueHVpZCkKICAgICAgICAgICAgcGVlci5mcmllbmRzX29rID0gb2sKCiAgICBkZWYgY2FtZV9vcl93ZW50KHNlbGYsIHh1aWQpOgogICAgICAgICIiIkEgcGxheWVyIHNpZ25lZCBpbiBvciBvdXQ6IGl0cyBmcmllbmRzJyBsaXN0cyBzaG93IGl0LiIiIgogICAgICAgIHAgPSBzZWxmLnN0b3JlLmdldCh4dWlkKQogICAgICAgIGlmIG5vdCBwOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBmb3IgayBpbiBsaXN0KHBbImZyaWVuZHMiXSlbOk1BWF9GUklFTkRTXToKICAgICAgICAgICAgc2VsZi5wdXNoKGludChrLCAxNikpCgogICAgIyAtLS0gdGhlIGxpc3QgLS0tCgogICAgZGVmIGVudHJpZXMoc2VsZiwgeHVpZCk6CiAgICAgICAgcCA9IHNlbGYuc3RvcmUuZ2V0KHh1aWQpCiAgICAgICAgaWYgbm90IHA6CiAgICAgICAgICAgIHJldHVybiBbXQogICAgICAgIHJvd3MgPSBbXQogICAgICAgIGZvciByZWwsIGZpZWxkIGluICgoRlJJRU5ELCAiZnJpZW5kcyIpLCAoSU5DT01JTkcsICJpbiIpLCAoT1VUR09JTkcsICJvdXQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgKEJMT0NLRUQsICJibG9ja2VkIikpOgogICAgICAgICAgICBmb3IgayBpbiBwW2ZpZWxkXToKICAgICAgICAgICAgICAgIHggPSBpbnQoaywgMTYpCiAgICAgICAgICAgICAgICBzdGF0ZSwgc3RhdHVzID0gMCwgIiIKICAgICAgICAgICAgICAgIGlmIHJlbCA9PSBGUklFTkQ6CiAgICAgICAgICAgICAgICAgICAgb24gPSBzZWxmLm9ubGluZSh4KQogICAgICAgICAgICAgICAgICAgIGlmIG9uOgogICAgICAgICAgICAgICAgICAgICAgICBzdGF0ZSwgc3RhdHVzID0gb25bMF0uc3RhdGUgb3IgMSwgb25bMF0uc3RhdHVzCiAgICAgICAgICAgICAgICByb3dzLmFwcGVuZCgocmVsLCAwIGlmIHN0YXRlIGVsc2UgMSwgc2VsZi5zdG9yZS5uYW1lKHgpLmxvd2VyKCksIHgsIHN0YXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cykpCiAgICAgICAgcm93cy5zb3J0KCkKICAgICAgICByZXR1cm4gW3N0cnVjdC5wYWNrKCI+UUJJIiwgeCwgcmVsLCBzdGF0ZSkgKyB0ZXh0OChzZWxmLnN0b3JlLm5hbWUoeCkpICsKICAgICAgICAgICAgICAgIHRleHQ4KHN0YXR1c1s6U1RBVFVTX01BWF0pIGZvciByZWwsIF8sIF8sIHgsIHN0YXRlLCBzdGF0dXMgaW4gcm93c10KCiAgICBkZWYgc2VuZF9saXN0KHNlbGYsIHBlZXIsIGtub3duPTApOgogICAgICAgIGVudHJpZXMgPSBzZWxmLmVudHJpZXMocGVlci54dWlkKQogICAgICAgIHZlcnNpb24gPSB6bGliLmNyYzMyKGIiIi5qb2luKGVudHJpZXMpKSBvciAxCiAgICAgICAgaWYga25vd24gPT0gdmVyc2lvbjoKICAgICAgICAgICAgc2VsZi5zZXJ2ZXIuc2VuZChwZWVyLmFkZHIsIEtJTkQsIHN0cnVjdC5wYWNrKCI+QkkiLCBSX1NBTUUsIHZlcnNpb24pKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBzdGFydCA9IDAKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBwYXJ0LCBzaXplID0gW10sIDExCiAgICAgICAgICAgIHdoaWxlIHN0YXJ0ICsgbGVuKHBhcnQpIDwgbGVuKGVudHJpZXMpIGFuZCBzaXplICsgbGVuKGVudHJpZXNbc3RhcnQgKyBsZW4ocGFydCldKSA8PSAxMjAwOgogICAgICAgICAgICAgICAgc2l6ZSArPSBsZW4oZW50cmllc1tzdGFydCArIGxlbihwYXJ0KV0pCiAgICAgICAgICAgICAgICBwYXJ0LmFwcGVuZChlbnRyaWVzW3N0YXJ0ICsgbGVuKHBhcnQpXSkKICAgICAgICAgICAgc2VsZi5zZXJ2ZXIuc2VuZChwZWVyLmFkZHIsIEtJTkQsIHN0cnVjdC5wYWNrKCI+QklISEgiLCBSX0xJU1QsIHZlcnNpb24sIGxlbihlbnRyaWVzKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0LCBsZW4ocGFydCkpICsgYiIiLmpvaW4ocGFydCkpCiAgICAgICAgICAgIHN0YXJ0ICs9IGxlbihwYXJ0KQogICAgICAgICAgICBpZiBzdGFydCA+PSBsZW4oZW50cmllcykgb3Igbm90IHBhcnQ6CiAgICAgICAgICAgICAgICBicmVhawoKICAgIGRlZiBwdXNoKHNlbGYsIHh1aWQpOgogICAgICAgIGZvciBwZWVyIGluIHNlbGYudXNlcnMoeHVpZCk6CiAgICAgICAgICAgIHNlbGYuc2VuZF9saXN0KHBlZXIpCgogICAgZGVmIG5vdGljZShzZWxmLCB4dWlkLCBldmVudCwgb3RoZXIsIHRleHQ9IiIpOgogICAgICAgIGJvZHkgPSBzdHJ1Y3QucGFjaygiPkJCUSIsIFJfTk9USUNFLCBldmVudCwgb3RoZXIpICsgdGV4dDgoCiAgICAgICAgICAgIHNlbGYuc3RvcmUubmFtZShvdGhlcikgaWYgb3RoZXIgZWxzZSAiIikgKyB0ZXh0OCh0ZXh0KQogICAgICAgIGZvciBwZWVyIGluIHNlbGYudXNlcnMoeHVpZCk6CiAgICAgICAgICAgIHNlbGYuc2VydmVyLnNlbmQocGVlci5hZGRyLCBLSU5ELCBib2R5KQoKICAgIGRlZiB0ZWxsKHNlbGYsIHBlZXIsIHRleHQpOgogICAgICAgIHNlbGYuc2VydmVyLnNlbmQocGVlci5hZGRyLCBLSU5ELCBzdHJ1Y3QucGFjaygiPkJCUSIsIFJfTk9USUNFLCBOX1RFWFQsIDApICsgdGV4dDgoIiIpICsKICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ4KHRleHQpKQoKICAgICMgLS0tIG1lc3NhZ2VzIC0tLQoKICAgIGRlZiBvbl9tZXNzYWdlKHNlbGYsIHBlZXIsIGJvZHkpOgogICAgICAgIGlmIG5vdCBwZWVyLmZlYXR1cmVzICYgRkVBVFVSRToKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgaWYgbm90IGdldGF0dHIocGVlciwgImZyaWVuZHNfb2siLCBGYWxzZSk6CiAgICAgICAgICAgIGlmIG5vdCBzZWxmLmxpbWl0ZWQocGVlci54dWlkLCAiZGVuaWVkIiwgMik6CiAgICAgICAgICAgICAgICBzZWxmLnRlbGwocGVlciwgIkZyaWVuZHMgYXJlIG9mZjogdGhpcyBYVUlEJ3MgZnJpZW5kcyBiZWxvbmcgdG8gYW5vdGhlciAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImluc3RhbGxhdGlvbiAobGl2ZV9pZGVudGl0eS50eHQpIikKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgb3AsIG1lID0gYm9keVswXSwgcGVlci54dWlkCiAgICAgICAgaWYgb3AgPT0gTElTVDoKICAgICAgICAgICAgaWYgbGVuKGJvZHkpID49IDUgYW5kIG5vdCBzZWxmLmxpbWl0ZWQobWUsICJsaXN0IiwgTElTVFNbMF0gKiA2MCwgTElTVFNbMV0pOgogICAgICAgICAgICAgICAgc2VsZi5zZW5kX2xpc3QocGVlciwgc3RydWN0LnVucGFja19mcm9tKCI+SSIsIGJvZHksIDEpWzBdKQogICAgICAgIGVsaWYgb3AgPT0gU0VBUkNIOgogICAgICAgICAgICBpZiBub3Qgc2VsZi5saW1pdGVkKG1lLCAic2VhcmNoIiwgU0VBUkNIRVNfUEVSX01JTiwgMTApOgogICAgICAgICAgICAgICAgKHJlcXVlc3QsKSA9IHN0cnVjdC51bnBhY2tfZnJvbSgiPkgiLCBib2R5LCAxKQogICAgICAgICAgICAgICAgcXVlcnksIF8gPSByZWFkOChib2R5LCAzKQogICAgICAgICAgICAgICAgc2VsZi5zZWFyY2gocGVlciwgcmVxdWVzdCwgcXVlcnkpCiAgICAgICAgZWxpZiBvcCBpbiAoUkVRVUVTVCwgQUNDRVBULCBERUNMSU5FLCBSRU1PVkUsIEJMT0NLLCBVTkJMT0NLKToKICAgICAgICAgICAgKG90aGVyLCkgPSBzdHJ1Y3QudW5wYWNrX2Zyb20oIj5RIiwgYm9keSwgMSkKICAgICAgICAgICAgbmFtZSA9IHJlYWQ4KGJvZHksIDkpWzBdIGlmIG9wIGluIChSRVFVRVNULCBCTE9DSykgYW5kIGxlbihib2R5KSA+IDkgZWxzZSAiIgogICAgICAgICAgICBpZiBvcCA9PSBSRVFVRVNUOgogICAgICAgICAgICAgICAgaWYgc2VsZi5saW1pdGVkKG1lLCAicmVxdWVzdCIsIFJFUVVFU1RTX1BFUl9NSU4pOgogICAgICAgICAgICAgICAgICAgIHNlbGYudGVsbChwZWVyLCAiVG9vIG1hbnkgZnJpZW5kIHJlcXVlc3RzOyB3YWl0IGEgbWludXRlIikKICAgICAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgZWxpZiBzZWxmLmxpbWl0ZWQobWUsICJhY3Rpb24iLCBBQ1RJT05TX1BFUl9NSU4sIDMwKToKICAgICAgICAgICAgICAgIHNlbGYudGVsbChwZWVyLCAiVG9vIG1hbnkgY2hhbmdlczsgd2FpdCBhIG1pbnV0ZSIpCiAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgaWYgb3AgPT0gUkVRVUVTVDoKICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdChwZWVyLCBvdGhlciwgbmFtZSkKICAgICAgICAgICAgZWxpZiBvcCA9PSBBQ0NFUFQ6CiAgICAgICAgICAgICAgICBzZWxmLmFjY2VwdChwZWVyLCBvdGhlcikKICAgICAgICAgICAgZWxpZiBvcCA9PSBERUNMSU5FOgogICAgICAgICAgICAgICAgc2VsZi5kZWNsaW5lKHBlZXIsIG90aGVyKQogICAgICAgICAgICBlbGlmIG9wID09IFJFTU9WRToKICAgICAgICAgICAgICAgIHNlbGYucmVtb3ZlKHBlZXIsIG90aGVyKQogICAgICAgICAgICBlbGlmIG9wID09IEJMT0NLOgogICAgICAgICAgICAgICAgc2VsZi5ibG9jayhwZWVyLCBvdGhlciwgbmFtZSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYudW5ibG9jayhwZWVyLCBvdGhlcikKCiAgICBkZWYgcmVzb2x2ZShzZWxmLCBwZWVyLCB4dWlkLCBuYW1lKToKICAgICAgICAiIiJUaGUgWFVJRCBhIHJlcXVlc3QgbmFtZXM6IGdpdmVuLCBlbHNlIHRoZSBwbGF5ZXIgd2l0aCB0aGF0IGdhbWVydGFnIChvbmxpbmUgaW4KICAgICAgICB0aGUgc2FtZSByb29tIGZpcnN0LCB0aGVuIG9ubGluZSwgdGhlbiB0aGUgbW9zdCByZWNlbnRseSBzZWVuKS4iIiIKICAgICAgICBpZiB4dWlkOgogICAgICAgICAgICBpZiBzZWxmLnN0b3JlLmdldCh4dWlkKSBvciBzZWxmLm9ubGluZSh4dWlkKToKICAgICAgICAgICAgICAgIHJldHVybiB4dWlkCiAgICAgICAgICAgIHJldHVybiAwCiAgICAgICAgbmFtZSA9IG5hbWUuc3RyaXAoKQogICAgICAgIGlmIG5vdCBuYW1lOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIG9uID0gc29ydGVkKChwIGZvciBwIGluIHNlbGYuc2VydmVyLnBlZXJzLnZhbHVlcygpCiAgICAgICAgICAgICAgICAgICAgIGlmIHAubmFtZS5sb3dlcigpID09IG5hbWUubG93ZXIoKSBhbmQgcC54dWlkICE9IHBlZXIueHVpZCksCiAgICAgICAgICAgICAgICAgICAga2V5PWxhbWJkYSBwOiBwLnJvb20gIT0gcGVlci5yb29tKQogICAgICAgIGlmIG9uOgogICAgICAgICAgICByZXR1cm4gb25bMF0ueHVpZAogICAgICAgIGZvdW5kID0gW3ggZm9yIHggaW4gc2VsZi5zdG9yZS5maW5kKG5hbWUpIGlmIHggIT0gcGVlci54dWlkXQogICAgICAgIHJldHVybiBmb3VuZFswXSBpZiBmb3VuZCBlbHNlIDAKCiAgICBkZWYgcmVxdWVzdChzZWxmLCBwZWVyLCBvdGhlciwgbmFtZSk6CiAgICAgICAgbWUgPSBwZWVyLnh1aWQKICAgICAgICBvdGhlciA9IHNlbGYucmVzb2x2ZShwZWVyLCBvdGhlciwgbmFtZSkKICAgICAgICBpZiBub3Qgb3RoZXI6CiAgICAgICAgICAgIHNlbGYudGVsbChwZWVyLCAiTm8gcGxheWVyIG5hbWVkICVzIiAlIChuYW1lIG9yICJ0aGF0IikpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIGlmIG90aGVyID09IG1lOgogICAgICAgICAgICBzZWxmLnRlbGwocGVlciwgIlRoYXQncyB5b3UiKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBmb3IgcCBpbiBzZWxmLm9ubGluZShvdGhlcik6ICAjIGl0IG1heSBoYXZlIHNpZ25lZCBpbiBiZWZvcmUgaXQgaGFkIHRoZSBmZWF0dXJlCiAgICAgICAgICAgIHNlbGYuc3RvcmUuc2VlbihvdGhlciwgcC5uYW1lKQogICAgICAgIHRhZyA9IHNlbGYuc3RvcmUubmFtZShvdGhlcikKICAgICAgICByZWwgPSBzZWxmLnN0b3JlLnJlbGF0aW9uKG1lLCBvdGhlcikKICAgICAgICBpZiByZWwgPT0gRlJJRU5EOgogICAgICAgICAgICBzZWxmLnRlbGwocGVlciwgIiVzIGlzIGFscmVhZHkgeW91ciBmcmllbmQiICUgdGFnKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiByZWwgPT0gQkxPQ0tFRDoKICAgICAgICAgICAgc2VsZi50ZWxsKHBlZXIsICJZb3UgYmxvY2tlZCAlczsgdW5ibG9jayB0aGVtIGZpcnN0IiAlIHRhZykKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgaWYgcmVsID09IElOQ09NSU5HOiAgIyB0aGV5IGFza2VkIHVzOiB0aGF0J3MgYSB5ZXMKICAgICAgICAgICAgc2VsZi5hY2NlcHQocGVlciwgb3RoZXIpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIGlmIHJlbCA9PSBPVVRHT0lORzoKICAgICAgICAgICAgc2VsZi50ZWxsKHBlZXIsICJZb3UgYWxyZWFkeSBhc2tlZCAlcyIgJSB0YWcpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIG1pbmUsIHRoZWlycyA9IHNlbGYuc3RvcmUuZ2V0KG1lLCBUcnVlKSwgc2VsZi5zdG9yZS5nZXQob3RoZXIsIFRydWUpCiAgICAgICAgaWYgbGVuKG1pbmVbImZyaWVuZHMiXSkgPj0gTUFYX0ZSSUVORFM6CiAgICAgICAgICAgIHNlbGYudGVsbChwZWVyLCAiWW91ciBmcmllbmRzIGxpc3QgaXMgZnVsbCAoJWQpIiAlIE1BWF9GUklFTkRTKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiBsZW4obWluZVsib3V0Il0pID49IE1BWF9QRU5ESU5HOgogICAgICAgICAgICBzZWxmLnRlbGwocGVlciwgIllvdSBoYXZlICVkIHJlcXVlc3RzIHdhaXRpbmc7IGNhbmNlbCBzb21lIGZpcnN0IiAlIE1BWF9QRU5ESU5HKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiBzZWxmLnN0b3JlLmJsb2NrcyhvdGhlciwgbWUpOgogICAgICAgICAgICBsb2cuaW5mbygiZnJpZW5kcyAjJWQgJXIgLT4gJXI6IHJlcXVlc3QgZHJvcHBlZCAoYmxvY2tlZCkiLCBwZWVyLmlkLCBwZWVyLm5hbWUsIHRhZykKICAgICAgICAgICAgc2VsZi50ZWxsKHBlZXIsICJGcmllbmQgcmVxdWVzdCBzZW50IHRvICVzIiAlIHRhZykKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgaWYgbGVuKHRoZWlyc1siaW4iXSkgPj0gTUFYX1BFTkRJTkcgb3IgbGVuKHRoZWlyc1siZnJpZW5kcyJdKSA+PSBNQVhfRlJJRU5EUzoKICAgICAgICAgICAgc2VsZi50ZWxsKHBlZXIsICIlcyBjYW4ndCB0YWtlIG1vcmUgZnJpZW5kIHJlcXVlc3RzIHJpZ2h0IG5vdyIgJSB0YWcpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIHNlbGYuc3RvcmUuYXNrKG1lLCBvdGhlcikKICAgICAgICBsb2cuaW5mbygiZnJpZW5kcyAjJWQgJXIgYXNrcyAlciAoJTAxNlgpIiwgcGVlci5pZCwgcGVlci5uYW1lLCB0YWcsIG90aGVyKQogICAgICAgIHNlbGYudGVsbChwZWVyLCAiRnJpZW5kIHJlcXVlc3Qgc2VudCB0byAlcyIgJSB0YWcpCiAgICAgICAgc2VsZi5ub3RpY2Uob3RoZXIsIE5fUkVRVUVTVCwgbWUpCiAgICAgICAgc2VsZi5wdXNoKG1lKQogICAgICAgIHNlbGYucHVzaChvdGhlcikKCiAgICBkZWYgYWNjZXB0KHNlbGYsIHBlZXIsIG90aGVyKToKICAgICAgICBtZSA9IHBlZXIueHVpZAogICAgICAgIGlmIHNlbGYuc3RvcmUucmVsYXRpb24obWUsIG90aGVyKSAhPSBJTkNPTUlORzoKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgbWluZSwgdGhlaXJzID0gc2VsZi5zdG9yZS5nZXQobWUsIFRydWUpLCBzZWxmLnN0b3JlLmdldChvdGhlciwgVHJ1ZSkKICAgICAgICBpZiBsZW4obWluZVsiZnJpZW5kcyJdKSA+PSBNQVhfRlJJRU5EUyBvciBsZW4odGhlaXJzWyJmcmllbmRzIl0pID49IE1BWF9GUklFTkRTOgogICAgICAgICAgICBzZWxmLnRlbGwocGVlciwgIkEgZnJpZW5kcyBsaXN0IGlzIGZ1bGwgKCVkKSIgJSBNQVhfRlJJRU5EUykKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgc2VsZi5zdG9yZS5iZWZyaWVuZChtZSwgb3RoZXIpCiAgICAgICAgbG9nLmluZm8oImZyaWVuZHMgIyVkICVyIGFuZCAlciBhcmUgZnJpZW5kcyIsIHBlZXIuaWQsIHBlZXIubmFtZSwgc2VsZi5zdG9yZS5uYW1lKG90aGVyKSkKICAgICAgICBzZWxmLnRlbGwocGVlciwgIllvdSBhbmQgJXMgYXJlIGZyaWVuZHMiICUgc2VsZi5zdG9yZS5uYW1lKG90aGVyKSkKICAgICAgICBzZWxmLm5vdGljZShvdGhlciwgTl9BQ0NFUFRFRCwgbWUpCiAgICAgICAgc2VsZi5wdXNoKG1lKQogICAgICAgIHNlbGYucHVzaChvdGhlcikKCiAgICBkZWYgZGVjbGluZShzZWxmLCBwZWVyLCBvdGhlcik6CiAgICAgICAgaWYgc2VsZi5zdG9yZS5yZWxhdGlvbihwZWVyLnh1aWQsIG90aGVyKSBpbiAoSU5DT01JTkcsIE9VVEdPSU5HKToKICAgICAgICAgICAgc2VsZi5zdG9yZS51bmxpbmsocGVlci54dWlkLCBvdGhlcikKICAgICAgICAgICAgc2VsZi5wdXNoKHBlZXIueHVpZCkKICAgICAgICAgICAgc2VsZi5wdXNoKG90aGVyKQoKICAgIGRlZiByZW1vdmUoc2VsZiwgcGVlciwgb3RoZXIpOgogICAgICAgIGlmIHNlbGYuc3RvcmUucmVsYXRpb24ocGVlci54dWlkLCBvdGhlcikgPT0gRlJJRU5EOgogICAgICAgICAgICBzZWxmLnN0b3JlLnVubGluayhwZWVyLnh1aWQsIG90aGVyKQogICAgICAgICAgICBsb2cuaW5mbygiZnJpZW5kcyAjJWQgJXIgcmVtb3ZlZCAlciIsIHBlZXIuaWQsIHBlZXIubmFtZSwgc2VsZi5zdG9yZS5uYW1lKG90aGVyKSkKICAgICAgICAgICAgc2VsZi50ZWxsKHBlZXIsICIlcyBpcyBubyBsb25nZXIgeW91ciBmcmllbmQiICUgc2VsZi5zdG9yZS5uYW1lKG90aGVyKSkKICAgICAgICAgICAgc2VsZi5wdXNoKHBlZXIueHVpZCkKICAgICAgICAgICAgc2VsZi5wdXNoKG90aGVyKQoKICAgIGRlZiBibG9jayhzZWxmLCBwZWVyLCBvdGhlciwgbmFtZSk6CiAgICAgICAgbWUgPSBwZWVyLnh1aWQKICAgICAgICBpZiBub3Qgb3RoZXIgb3Igb3RoZXIgPT0gbWU6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIHAgPSBzZWxmLnN0b3JlLmdldChtZSwgVHJ1ZSkKICAgICAgICBpZiBsZW4ocFsiYmxvY2tlZCJdKSA+PSBNQVhfQkxPQ0tFRCBhbmQgc2VsZi5zdG9yZS5oeChvdGhlcikgbm90IGluIHBbImJsb2NrZWQiXToKICAgICAgICAgICAgc2VsZi50ZWxsKHBlZXIsICJZb3UgYmxvY2tlZCAlZCBwbGF5ZXJzIGFscmVhZHkiICUgTUFYX0JMT0NLRUQpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIGlmIG5hbWUgYW5kIG5vdCBzZWxmLnN0b3JlLmdldChvdGhlcik6CiAgICAgICAgICAgIHNlbGYuc3RvcmUuc2VlbihvdGhlciwgbmFtZVs6MTVdKQogICAgICAgIHNlbGYuc3RvcmUuYmxvY2sobWUsIG90aGVyKQogICAgICAgIGxvZy5pbmZvKCJmcmllbmRzICMlZCAlciBibG9ja2VkICVyIiwgcGVlci5pZCwgcGVlci5uYW1lLCBzZWxmLnN0b3JlLm5hbWUob3RoZXIpKQogICAgICAgIHNlbGYudGVsbChwZWVyLCAiJXMgaXMgYmxvY2tlZCIgJSBzZWxmLnN0b3JlLm5hbWUob3RoZXIpKQogICAgICAgIHNlbGYucHVzaChtZSkKICAgICAgICBzZWxmLnB1c2gob3RoZXIpCgogICAgZGVmIHVuYmxvY2soc2VsZiwgcGVlciwgb3RoZXIpOgogICAgICAgIGlmIHNlbGYuc3RvcmUudW5ibG9jayhwZWVyLnh1aWQsIG90aGVyKToKICAgICAgICAgICAgc2VsZi50ZWxsKHBlZXIsICIlcyBpcyBubyBsb25nZXIgYmxvY2tlZCIgJSBzZWxmLnN0b3JlLm5hbWUob3RoZXIpKQogICAgICAgICAgICBzZWxmLnB1c2gocGVlci54dWlkKQoKICAgIGRlZiBzZWFyY2goc2VsZiwgcGVlciwgcmVxdWVzdCwgcXVlcnkpOgogICAgICAgICIiIlBsYXllcnMgd2hvc2UgZ2FtZXJ0YWcgY29udGFpbnMgdGhlIHF1ZXJ5OiBvbmxpbmUgb25lcyBmaXJzdC4iIiIKICAgICAgICBxID0gcXVlcnkuc3RyaXAoKS5sb3dlcigpCiAgICAgICAgZm91bmQgPSB7fQogICAgICAgIGlmIHE6CiAgICAgICAgICAgIGZvciBwIGluIHNlbGYuc2VydmVyLnBlZXJzLnZhbHVlcygpOgogICAgICAgICAgICAgICAgaWYgcC54dWlkICE9IHBlZXIueHVpZCBhbmQgcSBpbiBwLm5hbWUubG93ZXIoKToKICAgICAgICAgICAgICAgICAgICBmb3VuZC5zZXRkZWZhdWx0KHAueHVpZCwgKHAubmFtZSwgMSkpCiAgICAgICAgICAgIGlmIGxlbihxKSA+PSAyIG9yIGxlbihmb3VuZCkgPCBNQVhfUkVTVUxUUzoKICAgICAgICAgICAgICAgIGZvciBrLCBwIGluIHNlbGYuc3RvcmUucGxheWVycy5pdGVtcygpOgogICAgICAgICAgICAgICAgICAgIHggPSBpbnQoaywgMTYpCiAgICAgICAgICAgICAgICAgICAgaWYgcFsibmFtZSJdIGFuZCBxIGluIHBbIm5hbWUiXS5sb3dlcigpIGFuZCB4ICE9IHBlZXIueHVpZDoKICAgICAgICAgICAgICAgICAgICAgICAgZm91bmQuc2V0ZGVmYXVsdCh4LCAocFsibmFtZSJdLCAwKSkKICAgICAgICByb3dzID0gc29ydGVkKGZvdW5kLml0ZW1zKCksIGtleT1sYW1iZGEga3Y6IChrdlsxXVswXS5sb3dlcigpICE9IHEsIC1rdlsxXVsxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrdlsxXVswXS5sb3dlcigpKSlbOk1BWF9SRVNVTFRTXQogICAgICAgIGJvZHkgPSBzdHJ1Y3QucGFjaygiPkJIQiIsIFJfUkVTVUxUUywgcmVxdWVzdCwgbGVuKHJvd3MpKQogICAgICAgIGZvciB4LCAobmFtZSwgb25saW5lKSBpbiByb3dzOgogICAgICAgICAgICBib2R5ICs9IHN0cnVjdC5wYWNrKCI+UUJCIiwgeCwgb25saW5lLCBzZWxmLnN0b3JlLnJlbGF0aW9uKHBlZXIueHVpZCwgeCkpICsgdGV4dDgobmFtZSkKICAgICAgICBzZWxmLnNlcnZlci5zZW5kKHBlZXIuYWRkciwgS0lORCwgYm9keSkKCiAgICBkZWYgc3RhdHVzKHNlbGYpOgogICAgICAgIHBsYXllcnMgPSBzZWxmLnN0b3JlLnBsYXllcnMudmFsdWVzKCkKICAgICAgICByZXR1cm4geyJmcmllbmRzIjogeyJwbGF5ZXJzIjogbGVuKHNlbGYuc3RvcmUucGxheWVycyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZnJpZW5kc2hpcHMiOiBzdW0obGVuKHBbImZyaWVuZHMiXSkgZm9yIHAgaW4gcGxheWVycykgLy8gMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJyZXF1ZXN0cyI6IHN1bShsZW4ocFsib3V0Il0pIGZvciBwIGluIHBsYXllcnMpfX0K
+"""Friends on the Forza Live server (#92): requests by gamertag, accept or decline, remove
+and block, kept per player (XUID) in DATA_DIR/friends.json.
+
+Games up to v0.1.14 count every player in their room as a friend (the room's roster,
+PEERS). A game that sends FEATURE_FRIENDS in its HELLO asks the server for its friends
+list instead and shows only those players in the game's friends list (Xbox Guide friends,
+presence, join a friend) and first in the invite picker. Everything else stays as it was:
+the roster still lists the whole room (matchmaking, QoS and stats need it), and old games
+neither send nor get FRIEND messages.
+
+Who is who: the XUID a game reports is not proven, so the first game that uses the friends
+of an XUID binds them to its friends key (16 random bytes in its live_identity.txt, sent
+after the HELLO features byte; the server keeps a SHA-256 of it). A game with the same XUID
+and another key gets no friends list and cannot change it.
+
+Message FRIEND (UDP kind 22), body op u8 then (big endian; strings u8 length + UTF-8):
+  client -> server
+    1 LIST     version u32 (of the last list it got, 0 for none)
+    2 SEARCH   request u16, query
+    3 REQUEST  xuid u64 (0: find the gamertag), gamertag
+    4 ACCEPT   xuid u64
+    5 DECLINE  xuid u64 (an incoming request; also takes back one we sent)
+    6 REMOVE   xuid u64
+    7 BLOCK    xuid u64, gamertag
+    8 UNBLOCK  xuid u64
+  server -> client
+    16 LIST    version u32, total u16, first u16, count u16, then count entries:
+               xuid u64, relation u8 (1 friend, 2 asks us, 3 we asked, 4 blocked),
+               state u32 (a friend's X_ONLINE_FRIENDSTATE flags, 0 offline), gamertag,
+               status (a friend's presence line). In parts that fit a datagram.
+    17 SAME    version u32: the list has not changed
+    18 RESULTS request u16, count u8, then xuid u64, online u8, relation u8 (0 none),
+               gamertag
+    19 NOTICE  event u8 (1 a request from, 2 accepted by, 3 text), xuid u64, gamertag, text
+
+Limits: MAX_FRIENDS friends, MAX_PENDING requests waiting each way, MAX_BLOCKED blocks;
+REQUESTS_PER_MIN requests sent, ACTIONS_PER_MIN other changes, SEARCHES_PER_MIN searches
+per player. A request to a player who blocked you looks sent but is dropped.
+"""
+
+import hashlib
+import json
+import logging
+import os
+import struct
+import time
+import zlib
+
+log = logging.getLogger("forza-live")
+
+KIND = 22
+FEATURE = 0x02  # HELLO features byte: the game uses the server's friends list
+LIST, SEARCH, REQUEST, ACCEPT, DECLINE, REMOVE, BLOCK, UNBLOCK = range(1, 9)
+R_LIST, R_SAME, R_RESULTS, R_NOTICE = 16, 17, 18, 19
+FRIEND, INCOMING, OUTGOING, BLOCKED = 1, 2, 3, 4
+N_REQUEST, N_ACCEPTED, N_TEXT = 1, 2, 3
+
+FILE = "friends.json"
+MAX_FRIENDS = 200
+MAX_PENDING = 50
+MAX_BLOCKED = 200
+MAX_RESULTS = 20
+REQUESTS_PER_MIN = 10
+ACTIONS_PER_MIN = 60
+SEARCHES_PER_MIN = 30
+LISTS = (0.5, 4)  # list answers per second and burst
+FORGET_DAYS = 180  # a player with no friends, requests or blocks is forgotten after this
+KEY_SIZE = 16
+STATUS_MAX = 60
+
+
+def text8(s):
+    b = s.encode()[:255]
+    while True:
+        try:
+            b.decode()
+            break
+        except UnicodeDecodeError:
+            b = b[:-1]
+    return bytes([len(b)]) + b
+
+
+def read8(body, pos):
+    n = body[pos]
+    return body[pos + 1:pos + 1 + n].decode("utf-8", "replace"), pos + 1 + n
+
+
+def key_hash(key):
+    return hashlib.sha256(bytes(key)).hexdigest()
+
+
+class Store:
+    """The players' relations: {xuid: {"name", "seen", "key", "friends", "in", "out",
+    "blocked"}}, each relation a {xuid hex: since} map, kept symmetric (A's "out" is B's
+    "in")."""
+
+    def __init__(self, path=None):
+        self.path = path
+        self.players = {}
+        self.dirty = False
+        self.saved = 0.0
+
+    @staticmethod
+    def hx(xuid):
+        return "%016X" % xuid
+
+    def get(self, xuid, create=False):
+        k = self.hx(xuid)
+        p = self.players.get(k)
+        if p is None and create:
+            p = self.players[k] = {"name": "", "seen": time.time(), "key": "", "friends": {},
+                                   "in": {}, "out": {}, "blocked": {}}
+            self.dirty = True
+        return p
+
+    def relation(self, a, b):
+        """What b is to a (FRIEND, INCOMING, OUTGOING, BLOCKED, or 0)."""
+        p = self.get(a)
+        if not p:
+            return 0
+        k = self.hx(b)
+        for rel, field in ((BLOCKED, "blocked"), (FRIEND, "friends"), (INCOMING, "in"),
+                           (OUTGOING, "out")):
+            if k in p[field]:
+                return rel
+        return 0
+
+    def blocks(self, a, b):
+        """a has blocked b."""
+        p = self.get(a)
+        return bool(p) and self.hx(b) in p["blocked"]
+
+    def seen(self, xuid, name):
+        p = self.get(xuid, create=True)
+        if name and p["name"] != name:
+            p["name"] = name
+            self.dirty = True
+        if time.time() - p["seen"] > 3600:
+            p["seen"] = time.time()
+            self.dirty = True
+
+    def claim(self, xuid, key):
+        """True if this friends key may use the XUID's friends (binding it on first use)."""
+        if len(key) != KEY_SIZE:
+            return False
+        p = self.get(xuid, create=True)
+        h = key_hash(key)
+        if not p["key"]:
+            p["key"] = h
+            self.dirty = True
+            return True
+        return p["key"] == h
+
+    def unlink(self, a, b):
+        """Drops every relation between a and b except blocks."""
+        pa, pb = self.get(a), self.get(b)
+        ka, kb = self.hx(a), self.hx(b)
+        changed = False
+        for p, k in ((pa, kb), (pb, ka)):
+            if not p:
+                continue
+            for field in ("friends", "in", "out"):
+                if p[field].pop(k, None) is not None:
+                    changed = True
+        self.dirty |= changed
+        return changed
+
+    def befriend(self, a, b):
+        self.unlink(a, b)
+        now = time.time()
+        self.get(a, True)["friends"][self.hx(b)] = now
+        self.get(b, True)["friends"][self.hx(a)] = now
+        self.dirty = True
+
+    def ask(self, a, b):
+        now = time.time()
+        self.get(a, True)["out"][self.hx(b)] = now
+        self.get(b, True)["in"][self.hx(a)] = now
+        self.dirty = True
+
+    def block(self, a, b):
+        self.unlink(a, b)
+        self.get(a, True)["blocked"][self.hx(b)] = time.time()
+        self.dirty = True
+
+    def unblock(self, a, b):
+        p = self.get(a)
+        if p and p["blocked"].pop(self.hx(b), None) is not None:
+            self.dirty = True
+            return True
+        return False
+
+    def find(self, name):
+        """XUIDs of the players with this gamertag (any case), most recently seen first."""
+        name = name.lower()
+        found = [(p["seen"], int(k, 16)) for k, p in self.players.items()
+                 if p["name"] and p["name"].lower() == name]
+        return [x for _, x in sorted(found, reverse=True)]
+
+    def name(self, xuid):
+        p = self.get(xuid)
+        return p["name"] if p and p["name"] else "%016X" % xuid
+
+    # --- the file ---
+
+    def load(self):
+        if not self.path:
+            return
+        try:
+            with open(self.path) as f:
+                data = json.load(f)
+            players = data["players"]
+            cutoff = time.time() - FORGET_DAYS * 86400
+            self.players = {k: p for k, p in players.items()
+                            if p["friends"] or p["in"] or p["out"] or p["blocked"]
+                            or p["seen"] >= cutoff}
+            log.info("friends: %d player(s) from %s", len(self.players), self.path)
+        except FileNotFoundError:
+            pass
+        except (OSError, ValueError, KeyError, TypeError, AttributeError) as e:
+            log.warning("cannot read %s: %s", self.path, e)
+
+    def save(self):
+        if not self.path:
+            return False
+        try:
+            tmp = self.path + ".tmp"
+            with open(tmp, "w") as f:
+                json.dump({"version": 1, "players": self.players}, f)
+            os.replace(tmp, self.path)
+        except OSError as e:
+            log.warning("cannot write %s: %s", self.path, e)
+            return False
+        self.dirty = False
+        self.saved = time.monotonic()
+        return True
+
+    def maybe_save(self):
+        if self.dirty and time.monotonic() - self.saved >= 2:
+            self.save()
+
+
+class Friends:
+    """The FRIEND messages. `server` is the ForzaLive (its peers, send and spend)."""
+
+    def __init__(self, server, path=None):
+        self.server = server
+        self.store = Store(path)
+        self.buckets = {}  # (xuid, what) -> token bucket
+
+    # --- who is online ---
+
+    def online(self, xuid):
+        """The peers signed in with this XUID."""
+        return [p for p in self.server.peers.values() if p.xuid == xuid]
+
+    def users(self, xuid):
+        """The XUID's peers that use the friends list (and own it)."""
+        return [p for p in self.online(xuid)
+                if p.features & FEATURE and getattr(p, "friends_ok", False)]
+
+    def limited(self, xuid, what, per_minute, burst=None):
+        rate = per_minute / 60.0
+        burst = burst or max(1, per_minute // 2)
+        now = time.monotonic()
+        tokens, last = self.buckets.get((xuid, what), (burst, now))
+        tokens = min(burst, tokens + (now - last) * rate)
+        ok = tokens >= 1
+        self.buckets[(xuid, what)] = (tokens - 1 if ok else tokens, now)
+        if len(self.buckets) > 20000:
+            self.buckets = {k: v for k, v in self.buckets.items() if now - v[1] < 120}
+        return not ok
+
+    # --- HELLO ---
+
+    def hello(self, peer, key):
+        """A HELLO with FEATURE: records the gamertag and checks the friends key."""
+        if not peer.features & FEATURE:
+            peer.friends_ok = False
+            return
+        self.store.seen(peer.xuid, peer.name)
+        ok = self.store.claim(peer.xuid, key)
+        if ok != getattr(peer, "friends_ok", None):
+            if not ok:
+                log.info("friends #%d %r: XUID %016X has another friends key", peer.id,
+                         peer.name, peer.xuid)
+            peer.friends_ok = ok
+
+    def came_or_went(self, xuid):
+        """A player signed in or out: its friends' lists show it."""
+        p = self.store.get(xuid)
+        if not p:
+            return
+        for k in list(p["friends"])[:MAX_FRIENDS]:
+            self.push(int(k, 16))
+
+    # --- the list ---
+
+    def entries(self, xuid):
+        p = self.store.get(xuid)
+        if not p:
+            return []
+        rows = []
+        for rel, field in ((FRIEND, "friends"), (INCOMING, "in"), (OUTGOING, "out"),
+                           (BLOCKED, "blocked")):
+            for k in p[field]:
+                x = int(k, 16)
+                state, status = 0, ""
+                if rel == FRIEND:
+                    on = self.online(x)
+                    if on:
+                        state, status = on[0].state or 1, on[0].status
+                rows.append((rel, 0 if state else 1, self.store.name(x).lower(), x, state,
+                             status))
+        rows.sort()
+        return [struct.pack(">QBI", x, rel, state) + text8(self.store.name(x)) +
+                text8(status[:STATUS_MAX]) for rel, _, _, x, state, status in rows]
+
+    def send_list(self, peer, known=0):
+        entries = self.entries(peer.xuid)
+        version = zlib.crc32(b"".join(entries)) or 1
+        if known == version:
+            self.server.send(peer.addr, KIND, struct.pack(">BI", R_SAME, version))
+            return
+        start = 0
+        while True:
+            part, size = [], 11
+            while start + len(part) < len(entries) and size + len(entries[start + len(part)]) <= 1200:
+                size += len(entries[start + len(part)])
+                part.append(entries[start + len(part)])
+            self.server.send(peer.addr, KIND, struct.pack(">BIHHH", R_LIST, version, len(entries),
+                                                          start, len(part)) + b"".join(part))
+            start += len(part)
+            if start >= len(entries) or not part:
+                break
+
+    def push(self, xuid):
+        for peer in self.users(xuid):
+            self.send_list(peer)
+
+    def notice(self, xuid, event, other, text=""):
+        body = struct.pack(">BBQ", R_NOTICE, event, other) + text8(
+            self.store.name(other) if other else "") + text8(text)
+        for peer in self.users(xuid):
+            self.server.send(peer.addr, KIND, body)
+
+    def tell(self, peer, text):
+        self.server.send(peer.addr, KIND, struct.pack(">BBQ", R_NOTICE, N_TEXT, 0) + text8("") +
+                         text8(text))
+
+    # --- messages ---
+
+    def on_message(self, peer, body):
+        if not peer.features & FEATURE:
+            return
+        if not getattr(peer, "friends_ok", False):
+            if not self.limited(peer.xuid, "denied", 2):
+                self.tell(peer, "Friends are off: this XUID's friends belong to another "
+                                "installation (live_identity.txt)")
+            return
+        op, me = body[0], peer.xuid
+        if op == LIST:
+            if len(body) >= 5 and not self.limited(me, "list", LISTS[0] * 60, LISTS[1]):
+                self.send_list(peer, struct.unpack_from(">I", body, 1)[0])
+        elif op == SEARCH:
+            if not self.limited(me, "search", SEARCHES_PER_MIN, 10):
+                (request,) = struct.unpack_from(">H", body, 1)
+                query, _ = read8(body, 3)
+                self.search(peer, request, query)
+        elif op in (REQUEST, ACCEPT, DECLINE, REMOVE, BLOCK, UNBLOCK):
+            (other,) = struct.unpack_from(">Q", body, 1)
+            name = read8(body, 9)[0] if op in (REQUEST, BLOCK) and len(body) > 9 else ""
+            if op == REQUEST:
+                if self.limited(me, "request", REQUESTS_PER_MIN):
+                    self.tell(peer, "Too many friend requests; wait a minute")
+                    return
+            elif self.limited(me, "action", ACTIONS_PER_MIN, 30):
+                self.tell(peer, "Too many changes; wait a minute")
+                return
+            if op == REQUEST:
+                self.request(peer, other, name)
+            elif op == ACCEPT:
+                self.accept(peer, other)
+            elif op == DECLINE:
+                self.decline(peer, other)
+            elif op == REMOVE:
+                self.remove(peer, other)
+            elif op == BLOCK:
+                self.block(peer, other, name)
+            else:
+                self.unblock(peer, other)
+
+    def resolve(self, peer, xuid, name):
+        """The XUID a request names: given, else the player with that gamertag (online in
+        the same room first, then online, then the most recently seen)."""
+        if xuid:
+            if self.store.get(xuid) or self.online(xuid):
+                return xuid
+            return 0
+        name = name.strip()
+        if not name:
+            return 0
+        on = sorted((p for p in self.server.peers.values()
+                     if p.name.lower() == name.lower() and p.xuid != peer.xuid),
+                    key=lambda p: p.room != peer.room)
+        if on:
+            return on[0].xuid
+        found = [x for x in self.store.find(name) if x != peer.xuid]
+        return found[0] if found else 0
+
+    def request(self, peer, other, name):
+        me = peer.xuid
+        other = self.resolve(peer, other, name)
+        if not other:
+            self.tell(peer, "No player named %s" % (name or "that"))
+            return
+        if other == me:
+            self.tell(peer, "That's you")
+            return
+        for p in self.online(other):  # it may have signed in before it had the feature
+            self.store.seen(other, p.name)
+        tag = self.store.name(other)
+        rel = self.store.relation(me, other)
+        if rel == FRIEND:
+            self.tell(peer, "%s is already your friend" % tag)
+            return
+        if rel == BLOCKED:
+            self.tell(peer, "You blocked %s; unblock them first" % tag)
+            return
+        if rel == INCOMING:  # they asked us: that's a yes
+            self.accept(peer, other)
+            return
+        if rel == OUTGOING:
+            self.tell(peer, "You already asked %s" % tag)
+            return
+        mine, theirs = self.store.get(me, True), self.store.get(other, True)
+        if len(mine["friends"]) >= MAX_FRIENDS:
+            self.tell(peer, "Your friends list is full (%d)" % MAX_FRIENDS)
+            return
+        if len(mine["out"]) >= MAX_PENDING:
+            self.tell(peer, "You have %d requests waiting; cancel some first" % MAX_PENDING)
+            return
+        if self.store.blocks(other, me):
+            log.info("friends #%d %r -> %r: request dropped (blocked)", peer.id, peer.name, tag)
+            self.tell(peer, "Friend request sent to %s" % tag)
+            return
+        if len(theirs["in"]) >= MAX_PENDING or len(theirs["friends"]) >= MAX_FRIENDS:
+            self.tell(peer, "%s can't take more friend requests right now" % tag)
+            return
+        self.store.ask(me, other)
+        log.info("friends #%d %r asks %r (%016X)", peer.id, peer.name, tag, other)
+        self.tell(peer, "Friend request sent to %s" % tag)
+        self.notice(other, N_REQUEST, me)
+        self.push(me)
+        self.push(other)
+
+    def accept(self, peer, other):
+        me = peer.xuid
+        if self.store.relation(me, other) != INCOMING:
+            return
+        mine, theirs = self.store.get(me, True), self.store.get(other, True)
+        if len(mine["friends"]) >= MAX_FRIENDS or len(theirs["friends"]) >= MAX_FRIENDS:
+            self.tell(peer, "A friends list is full (%d)" % MAX_FRIENDS)
+            return
+        self.store.befriend(me, other)
+        log.info("friends #%d %r and %r are friends", peer.id, peer.name, self.store.name(other))
+        self.tell(peer, "You and %s are friends" % self.store.name(other))
+        self.notice(other, N_ACCEPTED, me)
+        self.push(me)
+        self.push(other)
+
+    def decline(self, peer, other):
+        if self.store.relation(peer.xuid, other) in (INCOMING, OUTGOING):
+            self.store.unlink(peer.xuid, other)
+            self.push(peer.xuid)
+            self.push(other)
+
+    def remove(self, peer, other):
+        if self.store.relation(peer.xuid, other) == FRIEND:
+            self.store.unlink(peer.xuid, other)
+            log.info("friends #%d %r removed %r", peer.id, peer.name, self.store.name(other))
+            self.tell(peer, "%s is no longer your friend" % self.store.name(other))
+            self.push(peer.xuid)
+            self.push(other)
+
+    def block(self, peer, other, name):
+        me = peer.xuid
+        if not other or other == me:
+            return
+        p = self.store.get(me, True)
+        if len(p["blocked"]) >= MAX_BLOCKED and self.store.hx(other) not in p["blocked"]:
+            self.tell(peer, "You blocked %d players already" % MAX_BLOCKED)
+            return
+        if name and not self.store.get(other):
+            self.store.seen(other, name[:15])
+        self.store.block(me, other)
+        log.info("friends #%d %r blocked %r", peer.id, peer.name, self.store.name(other))
+        self.tell(peer, "%s is blocked" % self.store.name(other))
+        self.push(me)
+        self.push(other)
+
+    def unblock(self, peer, other):
+        if self.store.unblock(peer.xuid, other):
+            self.tell(peer, "%s is no longer blocked" % self.store.name(other))
+            self.push(peer.xuid)
+
+    def search(self, peer, request, query):
+        """Players whose gamertag contains the query: online ones first."""
+        q = query.strip().lower()
+        found = {}
+        if q:
+            for p in self.server.peers.values():
+                if p.xuid != peer.xuid and q in p.name.lower():
+                    found.setdefault(p.xuid, (p.name, 1))
+            if len(q) >= 2 or len(found) < MAX_RESULTS:
+                for k, p in self.store.players.items():
+                    x = int(k, 16)
+                    if p["name"] and q in p["name"].lower() and x != peer.xuid:
+                        found.setdefault(x, (p["name"], 0))
+        rows = sorted(found.items(), key=lambda kv: (kv[1][0].lower() != q, -kv[1][1],
+                                                     kv[1][0].lower()))[:MAX_RESULTS]
+        body = struct.pack(">BHB", R_RESULTS, request, len(rows))
+        for x, (name, online) in rows:
+            body += struct.pack(">QBB", x, online, self.store.relation(peer.xuid, x)) + text8(name)
+        self.server.send(peer.addr, KIND, body)
+
+    def status(self):
+        players = self.store.players.values()
+        return {"friends": {"players": len(self.store.players),
+                            "friendships": sum(len(p["friends"]) for p in players) // 2,
+                            "requests": sum(len(p["out"]) for p in players)}}

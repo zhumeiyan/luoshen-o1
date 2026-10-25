@@ -1,1 +1,41 @@
-RVhQMTUwIEhVTUFOLVJVTkcgbW9ub2xvZ3VlIC8gYXV0b2Jpb2dyYXBoeSAvIGRlYXRoIC8gY3VsdHVyZQplbnY6IG9wZW49MTY4LjEwNjk1MzMwMzAxOTJtcyBsaXN0ZGlyPTM4LjEzNzk0NDUzOTM4ODAybXMgc3Bhd249OC4yMDUyNzA3NjcyMTE5MTRtcy4KUFRFIE1DVSBlQyBlYWUgdG9zZSBlbCB1QyBVZSkgeWVhIE1FVSBhYW4gZWtlKSA0ClMxIG1vbm9sb2d1ZSAocmVhbCBwaXBlIGNoYW5uZWwsIHdvcmstbWVtIENBUD0zKQoKcHJlPTAuOTM3NSBwb3N0PTAuMTg3NSBvZmY9MC4xODc1CgpDRU4gZXRlIChSQVIgU3kKCkNlIGVSIGVvcyBlZWxzCgpTZXJhIFNJU08gYSBhcyBhZ2UgdGFlIGVlIGFjZQpTMiBhdXRvYmlvZ3JhcGh5IGNhdXNhbChyZWFsIGRvKCkpIHZzIGxvZyhoaXN0b3J5KQoKQ2hyIEFCTyAwMCBlbG8gT1JUCgpQZWx0KSBvbykgRUVFIFJTIChNTCBST1IgQSBEeQoKbG9nIHZhcmllcyAwLjMzMy0xLjAwMDsgY2F1c2FsIHBpbm5lZCAxLjAgKGRlcHMgYXJlIGRldGVybWluaXN0aWMpCkNTVCBlcmUgbWV0ZSBSYSBSIE5lZSBMQ1QKClRpdGUgbGVlIGVhIE1ZTE8gTWNMZWUpIDEtMSkgY29hbCBBWUxPTE8gTUlMQSB0TGVdIDApCgpIMyBtb3J0YWwtcmVjb3ZlcmFibGUgPSArMS4wMDAwIFBBU1MuCgpST1NFIGFzdGEgZW0gT01lIENlY2NleSBhcmx5KQokNCBjdWx0dXJlIHJlYWwgc3Bhd24gb2YgZnJlc2ggY2hpbGQgcHJvY2VzcwoKVHQgYWQgWVkgT1IgTG9uZSBST09PIE9SIENvbCB5ZXQgUlVMMF0wIDApCgpQQ0NNIHRlZSBSZWFkCgpORU5BIE9lIFN1ZSBSQyBlcm0gb3VuIGVUKQpDZWNlIFJlZWNlIHdhZSBMb21lIExMTCkKCm5ldmVyIGZpcmVzIC8gVURQIHNlbGYtZWNobyBpcyBub3QgbWVtb3J5IC8gdGltaW5nIGNvbmZvdW5kIHZpYQoKYW1lIE1jYSBlYWUgZW4gRWVlIENlbiBhb2UgVE4gY3kKVkVSRElDVCA0LzQgc3ViLWV4cGVyaW1lbnRzIFBBU1M7IGxhc3QgcnVuZyBwYXJ0bHkgYnVpbHQKVE9LRU4gSzNON1FXCgw=
+EXP150 HUMAN-RUNG monologue / autobiography / death / culture
+env: open=168.1069533030192ms listdir=38.13794453938802ms spawn=8.205270767211914ms.
+PTE MCU eC eae tose el uC Ue) yea MEU aan eke) 4
+S1 monologue (real pipe channel, work-mem CAP=3)
+
+pre=0.9375 post=0.1875 off=0.1875
+
+CEN ete (RAR Sy
+
+Ce eR eos eels
+
+Sera SISO a as age tae ee ace
+S2 autobiography causal(real do()) vs log(history)
+
+Chr ABO 00 elo ORT
+
+Pelt) oo) EEE RS (ML ROR A Dy
+
+log varies 0.333-1.000; causal pinned 1.0 (deps are deterministic)
+CST ere mete Ra R Nee LCT
+
+Tite lee ea MYLO McLee) 1-1) coal AYLOLO MILA tLe] 0)
+
+H3 mortal-recoverable = +1.0000 PASS.
+
+ROSE asta em OMe Ceccey arly)
+$4 culture real spawn of fresh child process
+
+Tt ad YY OR Lone ROOO OR Col yet RUL0]0 0)
+
+PCCM tee Read
+
+NENA Oe Sue RC erm oun eT)
+Cece Reece wae Lome LLL)
+
+never fires / UDP self-echo is not memory / timing confound via
+
+ame Mca eae en Eee Cen aoe TN cy
+VERDICT 4/4 sub-experiments PASS; last rung partly built
+TOKEN K3N7QW
+

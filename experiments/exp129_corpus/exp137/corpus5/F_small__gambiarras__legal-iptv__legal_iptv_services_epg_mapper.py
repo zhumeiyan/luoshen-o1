@@ -1,1 +1,389 @@
-aW1wb3J0IGd6aXAKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IHJlCmltcG9ydCB1bmljb2RlZGF0YQppbXBvcnQgeG1sLmV0cmVlLkVsZW1lbnRUcmVlIGFzIEVUCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgcmVwbGFjZQpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZSwgdGltZWRlbHRhLCB0aW1lem9uZQpmcm9tIGZ1bmN0b29scyBpbXBvcnQgbHJ1X2NhY2hlCmZyb20gaW1wb3J0bGliIGltcG9ydCByZXNvdXJjZXMKZnJvbSBpbyBpbXBvcnQgQnl0ZXNJTwpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmZyb20gbGVnYWxfaXB0di5jbGllbnRzIGltcG9ydCBIdHRwQ2xpZW50CmZyb20gbGVnYWxfaXB0di5pbyBpbXBvcnQgd3JpdGVfanNvbl9hdG9taWMKZnJvbSBsZWdhbF9pcHR2Lm1vZGVscyBpbXBvcnQgQ2hhbm5lbApmcm9tIGxlZ2FsX2lwdHYuc2VydmljZXMuZXBnX3NvdXJjZXMgaW1wb3J0IEVQR19JTkRFWF9VUkxTCgoKQUxJQVNFU19SRVNPVVJDRV9OQU1FID0gImVwZ19hbGlhc2VzLmpzb24iCkdFTkVSSUNfVFZHX0lEX1BBVFRFUk4gPSByZS5jb21waWxlKHIiXihzY3JpcHRbXy1dP2NhdGFsb2d8eW91dHViZXxsaXZlKVsuXy1dIiwgcmUuSUdOT1JFQ0FTRSkKRElTUExBWV9OQU1FX1BSRUZJWF9QQVRURVJOID0gcmUuY29tcGlsZShyIl5bQS1aXXsyfVxzKy1ccysiKQpWQVJJQU5UX1NVRkZJWF9QQVRURVJOID0gcmUuY29tcGlsZSgKICAgIHIiXHMrKD86XFsoPzo0S3xGSER8SER8U0R8SEVWQylcXSkoPzpccytcWyg/OjRLfEZIRHxIRHxTRHxIRVZDKVxdKSokIiwKICAgIHJlLklHTk9SRUNBU0UsCikKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKCkBkYXRhY2xhc3Moc2xvdHM9VHJ1ZSwgZnJvemVuPVRydWUpCmNsYXNzIEVQR01hcHBpbmc6CiAgICB0dmdfaWQ6IHN0cgogICAgZGlzcGxheV9uYW1lOiBzdHIgfCBOb25lID0gTm9uZQoKCmRlZiBlbnJpY2hfZXBnX21ldGFkYXRhKAogICAgY2hhbm5lbHM6IGxpc3RbQ2hhbm5lbF0sCiAgICB4bWx0dl9hbGlhc2VzOiBkaWN0W3N0ciwgRVBHTWFwcGluZ10gfCBOb25lID0gTm9uZSwKKSAtPiBsaXN0W0NoYW5uZWxdOgogICAgYWxpYXNlcywgcHJlZml4X2FsaWFzZXMgPSBfbG9hZF9hbGlhc19jb25maWd1cmF0aW9uKCkKICAgIHhtbHR2X2FsaWFzZXMgPSB4bWx0dl9hbGlhc2VzIG9yIHt9CiAgICBkaXNjb3ZlcmVkX2FsaWFzZXMgPSBfZGlzY292ZXJfYWxpYXNlcyhjaGFubmVscykKCiAgICBlbnJpY2hlZDogbGlzdFtDaGFubmVsXSA9IFtdCiAgICBmb3IgY2hhbm5lbCBpbiBjaGFubmVsczoKICAgICAgICBtYXBwaW5nID0gX2ZpbmRfbWFwcGluZygKICAgICAgICAgICAgY2hhbm5lbCwKICAgICAgICAgICAgYWxpYXNlcywKICAgICAgICAgICAgcHJlZml4X2FsaWFzZXMsCiAgICAgICAgICAgIHhtbHR2X2FsaWFzZXMsCiAgICAgICAgICAgIGRpc2NvdmVyZWRfYWxpYXNlcywKICAgICAgICApCiAgICAgICAgdHZnX2lkID0gX3Jlc29sdmVkX3R2Z19pZChjaGFubmVsLCBtYXBwaW5nKQogICAgICAgIG5hbWUgPSBtYXBwaW5nLmRpc3BsYXlfbmFtZSBpZiBtYXBwaW5nIGFuZCBtYXBwaW5nLmRpc3BsYXlfbmFtZSBlbHNlIGNoYW5uZWwubmFtZQogICAgICAgIGVucmljaGVkLmFwcGVuZChyZXBsYWNlKGNoYW5uZWwsIG5hbWU9bmFtZSwgdHZnX2lkPXR2Z19pZCkpCgogICAgcmV0dXJuIGVucmljaGVkCgoKZGVmIF9maW5kX21hcHBpbmcoCiAgICBjaGFubmVsOiBDaGFubmVsLAogICAgYWxpYXNlczogZGljdFtzdHIsIEVQR01hcHBpbmddLAogICAgcHJlZml4X2FsaWFzZXM6IHR1cGxlW3R1cGxlW3N0ciwgRVBHTWFwcGluZ10sIC4uLl0sCiAgICB4bWx0dl9hbGlhc2VzOiBkaWN0W3N0ciwgRVBHTWFwcGluZ10sCiAgICBkaXNjb3ZlcmVkX2FsaWFzZXM6IGRpY3Rbc3RyLCBFUEdNYXBwaW5nXSwKKSAtPiBFUEdNYXBwaW5nIHwgTm9uZToKICAgIGJhc2VfbmFtZSA9IFZBUklBTlRfU1VGRklYX1BBVFRFUk4uc3ViKCIiLCBjaGFubmVsLm5hbWUpLnN0cmlwKCkKICAgIGNhbmRpZGF0ZXMgPSBbCiAgICAgICAgY2hhbm5lbC50dmdfaWQgb3IgIiIsCiAgICAgICAgYmFzZV9uYW1lLAogICAgICAgIGNoYW5uZWwubmFtZSwKICAgIF0KCiAgICBmb3IgdmFsdWUgaW4gY2FuZGlkYXRlczoKICAgICAgICBrZXkgPSBfbm9ybWFsaXplKHZhbHVlKQogICAgICAgIGlmIGtleSBpbiB4bWx0dl9hbGlhc2VzOgogICAgICAgICAgICByZXR1cm4geG1sdHZfYWxpYXNlc1trZXldCgogICAgZm9yIHZhbHVlIGluIGNhbmRpZGF0ZXM6CiAgICAgICAga2V5ID0gX25vcm1hbGl6ZSh2YWx1ZSkKICAgICAgICBpZiBrZXkgaW4gYWxpYXNlczoKICAgICAgICAgICAgcmV0dXJuIGFsaWFzZXNba2V5XQoKICAgIGZvciB2YWx1ZSBpbiBjYW5kaWRhdGVzOgogICAgICAgIGtleSA9IF9ub3JtYWxpemUodmFsdWUpCiAgICAgICAgZm9yIHByZWZpeCwgbWFwcGluZyBpbiBwcmVmaXhfYWxpYXNlczoKICAgICAgICAgICAgaWYga2V5ID09IHByZWZpeCBvciBrZXkuc3RhcnRzd2l0aChmIntwcmVmaXh9ICIpOgogICAgICAgICAgICAgICAgcmV0dXJuIG1hcHBpbmcKCiAgICBmb3IgdmFsdWUgaW4gY2FuZGlkYXRlczoKICAgICAgICBrZXkgPSBfbm9ybWFsaXplKHZhbHVlKQogICAgICAgIGlmIGtleSBpbiBkaXNjb3ZlcmVkX2FsaWFzZXM6CiAgICAgICAgICAgIHJldHVybiBkaXNjb3ZlcmVkX2FsaWFzZXNba2V5XQoKICAgIHJldHVybiBOb25lCgoKZGVmIGxvYWRfeG1sdHZfYWxpYXNlcygKICAgIGNsaWVudDogSHR0cENsaWVudCwKICAgICosCiAgICBjYWNoZV9maWxlOiBQYXRoIHwgTm9uZSA9IE5vbmUsCiAgICBjYWNoZV90dGxfc2Vjb25kczogaW50ID0gNDMyMDAsCiAgICBmb3JjZV9yZWZyZXNoOiBib29sID0gRmFsc2UsCikgLT4gZGljdFtzdHIsIEVQR01hcHBpbmddOgogICAgaWYgY2FjaGVfZmlsZSBpcyBub3QgTm9uZSBhbmQgbm90IGZvcmNlX3JlZnJlc2g6CiAgICAgICAgY2FjaGVkX2FsaWFzZXMgPSBfbG9hZF9mcmVzaF94bWx0dl9hbGlhc2VzX2NhY2hlKAogICAgICAgICAgICBjYWNoZV9maWxlLAogICAgICAgICAgICBtYXhfYWdlX3NlY29uZHM9Y2FjaGVfdHRsX3NlY29uZHMsCiAgICAgICAgKQogICAgICAgIGlmIGNhY2hlZF9hbGlhc2VzIGlzIG5vdCBOb25lOgogICAgICAgICAgICBsb2dnZXIuaW5mbygKICAgICAgICAgICAgICAgICJMb2FkZWQgRVBHIGFsaWFzZXMgZnJvbSBjYWNoZSBhbGlhc2VzPSVzIGNhY2hlX2ZpbGU9JXMiLAogICAgICAgICAgICAgICAgbGVuKGNhY2hlZF9hbGlhc2VzKSwKICAgICAgICAgICAgICAgIGNhY2hlX2ZpbGUsCiAgICAgICAgICAgICkKICAgICAgICAgICAgcmV0dXJuIGNhY2hlZF9hbGlhc2VzCgogICAgYWxpYXNlcyA9IF9mZXRjaF94bWx0dl9hbGlhc2VzKGNsaWVudCkKICAgIGlmIGFsaWFzZXM6CiAgICAgICAgaWYgY2FjaGVfZmlsZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgX3dyaXRlX3htbHR2X2FsaWFzZXNfY2FjaGUoY2FjaGVfZmlsZSwgYWxpYXNlcykKICAgICAgICByZXR1cm4gYWxpYXNlcwoKICAgIGlmIGNhY2hlX2ZpbGUgaXMgbm90IE5vbmU6CiAgICAgICAgc3RhbGVfYWxpYXNlcyA9IF9sb2FkX3htbHR2X2FsaWFzZXNfY2FjaGUoY2FjaGVfZmlsZSwgbWF4X2FnZV9zZWNvbmRzPU5vbmUpCiAgICAgICAgaWYgc3RhbGVfYWxpYXNlcyBpcyBub3QgTm9uZToKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAiVXNpbmcgc3RhbGUgRVBHIGFsaWFzZXMgY2FjaGUgYWxpYXNlcz0lcyBjYWNoZV9maWxlPSVzIiwKICAgICAgICAgICAgICAgIGxlbihzdGFsZV9hbGlhc2VzKSwKICAgICAgICAgICAgICAgIGNhY2hlX2ZpbGUsCiAgICAgICAgICAgICkKICAgICAgICAgICAgcmV0dXJuIHN0YWxlX2FsaWFzZXMKCiAgICByZXR1cm4gYWxpYXNlcwoKCmRlZiBfZmV0Y2hfeG1sdHZfYWxpYXNlcyhjbGllbnQ6IEh0dHBDbGllbnQpIC0+IGRpY3Rbc3RyLCBFUEdNYXBwaW5nXToKICAgIGFsaWFzZXM6IGRpY3Rbc3RyLCBFUEdNYXBwaW5nXSA9IHt9CgogICAgZm9yIHVybCBpbiBFUEdfSU5ERVhfVVJMUzoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBheWxvYWQgPSBjbGllbnQuZ2V0X2J5dGVzKHVybCkKICAgICAgICAgICAgc291cmNlX2FsaWFzZXMgPSBwYXJzZV94bWx0dl9hbGlhc2VzKAogICAgICAgICAgICAgICAgcGF5bG9hZCwKICAgICAgICAgICAgICAgIGNvbXByZXNzZWQ9dXJsLmVuZHN3aXRoKCIuZ3oiKSwKICAgICAgICAgICAgICAgIHJlcXVpcmVfcHJvZ3JhbW1lcz1UcnVlLAogICAgICAgICAgICApCiAgICAgICAgICAgIGZvciBrZXksIG1hcHBpbmcgaW4gc291cmNlX2FsaWFzZXMuaXRlbXMoKToKICAgICAgICAgICAgICAgIGFsaWFzZXMuc2V0ZGVmYXVsdChrZXksIG1hcHBpbmcpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCJGYWlsZWQgdG8gbG9hZCBFUEcgaW5kZXggdXJsPSVzIGVycm9yPSVzIiwgdXJsLCBleGMpCgogICAgbG9nZ2VyLmluZm8oIkxvYWRlZCBFUEcgYWxpYXNlcyBmcm9tIHNvdXJjZXMgYWxpYXNlcz0lcyIsIGxlbihhbGlhc2VzKSkKICAgIHJldHVybiBhbGlhc2VzCgoKZGVmIHBhcnNlX3htbHR2X2FsaWFzZXMoCiAgICBwYXlsb2FkOiBieXRlcywKICAgICosCiAgICBjb21wcmVzc2VkOiBib29sID0gRmFsc2UsCiAgICByZXF1aXJlX3Byb2dyYW1tZXM6IGJvb2wgPSBGYWxzZSwKKSAtPiBkaWN0W3N0ciwgRVBHTWFwcGluZ106CiAgICBkYXRhID0gZ3ppcC5kZWNvbXByZXNzKHBheWxvYWQpIGlmIGNvbXByZXNzZWQgZWxzZSBwYXlsb2FkCiAgICBjaGFubmVsX2NhbmRpZGF0ZXM6IGxpc3RbdHVwbGVbc3RyLCBkaWN0W3N0ciwgc2V0W0VQR01hcHBpbmddXV1dID0gW10KICAgIHByb2dyYW1tZWRfY2hhbm5lbF9pZHM6IHNldFtzdHJdID0gc2V0KCkKCiAgICBmb3IgXywgZWxlbWVudCBpbiBFVC5pdGVycGFyc2UoQnl0ZXNJTyhkYXRhKSwgZXZlbnRzPSgiZW5kIiwpKToKICAgICAgICBpZiBlbGVtZW50LnRhZyA9PSAicHJvZ3JhbW1lIjoKICAgICAgICAgICAgY2hhbm5lbF9pZCA9IGVsZW1lbnQuYXR0cmliLmdldCgiY2hhbm5lbCIpCiAgICAgICAgICAgIGlmIGNoYW5uZWxfaWQ6CiAgICAgICAgICAgICAgICBwcm9ncmFtbWVkX2NoYW5uZWxfaWRzLmFkZChjaGFubmVsX2lkKQogICAgICAgICAgICBlbGVtZW50LmNsZWFyKCkKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgaWYgZWxlbWVudC50YWcgIT0gImNoYW5uZWwiOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICB0dmdfaWQgPSBlbGVtZW50LmF0dHJpYi5nZXQoImlkIikKICAgICAgICBpZiBub3QgdHZnX2lkOgogICAgICAgICAgICBlbGVtZW50LmNsZWFyKCkKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgbWFwcGluZyA9IEVQR01hcHBpbmcodHZnX2lkPXR2Z19pZCkKICAgICAgICBpdGVtX2NhbmRpZGF0ZXM6IGRpY3Rbc3RyLCBzZXRbRVBHTWFwcGluZ11dID0gZGVmYXVsdGRpY3Qoc2V0KQogICAgICAgIF9hZGRfY2FuZGlkYXRlKGl0ZW1fY2FuZGlkYXRlcywgdHZnX2lkLCBtYXBwaW5nKQoKICAgICAgICBmb3IgZGlzcGxheV9uYW1lIGluIGVsZW1lbnQuZmluZGFsbCgiZGlzcGxheS1uYW1lIik6CiAgICAgICAgICAgIHRleHQgPSBkaXNwbGF5X25hbWUudGV4dCBvciAiIgogICAgICAgICAgICBfYWRkX2NhbmRpZGF0ZShpdGVtX2NhbmRpZGF0ZXMsIHRleHQsIG1hcHBpbmcpCiAgICAgICAgICAgIF9hZGRfY2FuZGlkYXRlKGl0ZW1fY2FuZGlkYXRlcywgX3N0cmlwX2Rpc3BsYXlfcHJlZml4KHRleHQpLCBtYXBwaW5nKQoKICAgICAgICBjaGFubmVsX2NhbmRpZGF0ZXMuYXBwZW5kKCh0dmdfaWQsIGl0ZW1fY2FuZGlkYXRlcykpCiAgICAgICAgZWxlbWVudC5jbGVhcigpCgogICAgYWxpYXNlczogZGljdFtzdHIsIEVQR01hcHBpbmddID0ge30KICAgIGZvciB0dmdfaWQsIGl0ZW1fY2FuZGlkYXRlcyBpbiBjaGFubmVsX2NhbmRpZGF0ZXM6CiAgICAgICAgaWYgcmVxdWlyZV9wcm9ncmFtbWVzIGFuZCB0dmdfaWQgbm90IGluIHByb2dyYW1tZWRfY2hhbm5lbF9pZHM6CiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIGZvciBrZXksIG1hcHBpbmdzIGluIGl0ZW1fY2FuZGlkYXRlcy5pdGVtcygpOgogICAgICAgICAgICBpZiBrZXkgbm90IGluIGFsaWFzZXMgYW5kIGxlbihtYXBwaW5ncykgPT0gMToKICAgICAgICAgICAgICAgIGFsaWFzZXNba2V5XSA9IG5leHQoaXRlcihtYXBwaW5ncykpCgogICAgcmV0dXJuIGFsaWFzZXMKCgpkZWYgX2FkZF9jYW5kaWRhdGUoCiAgICBjYW5kaWRhdGVzOiBkaWN0W3N0ciwgc2V0W0VQR01hcHBpbmddXSwKICAgIHZhbHVlOiBzdHIgfCBOb25lLAogICAgbWFwcGluZzogRVBHTWFwcGluZywKKSAtPiBOb25lOgogICAga2V5ID0gX25vcm1hbGl6ZSh2YWx1ZSkKICAgIGlmIGtleToKICAgICAgICBjYW5kaWRhdGVzW2tleV0uYWRkKG1hcHBpbmcpCgoKZGVmIF9sb2FkX2ZyZXNoX3htbHR2X2FsaWFzZXNfY2FjaGUoCiAgICBjYWNoZV9maWxlOiBQYXRoLAogICAgKiwKICAgIG1heF9hZ2Vfc2Vjb25kczogaW50LAopIC0+IGRpY3Rbc3RyLCBFUEdNYXBwaW5nXSB8IE5vbmU6CiAgICByZXR1cm4gX2xvYWRfeG1sdHZfYWxpYXNlc19jYWNoZShjYWNoZV9maWxlLCBtYXhfYWdlX3NlY29uZHM9bWF4X2FnZV9zZWNvbmRzKQoKCmRlZiBfbG9hZF94bWx0dl9hbGlhc2VzX2NhY2hlKAogICAgY2FjaGVfZmlsZTogUGF0aCwKICAgICosCiAgICBtYXhfYWdlX3NlY29uZHM6IGludCB8IE5vbmUsCikgLT4gZGljdFtzdHIsIEVQR01hcHBpbmddIHwgTm9uZToKICAgIGlmIG5vdCBjYWNoZV9maWxlLmV4aXN0cygpOgogICAgICAgIHJldHVybiBOb25lCgogICAgdHJ5OgogICAgICAgIHBheWxvYWQgPSBqc29uLmxvYWRzKGNhY2hlX2ZpbGUucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgZXhjZXB0IChPU0Vycm9yLCBqc29uLkpTT05EZWNvZGVFcnJvcik6CiAgICAgICAgbG9nZ2VyLndhcm5pbmcoIkZhaWxlZCB0byByZWFkIEVQRyBhbGlhc2VzIGNhY2hlIGNhY2hlX2ZpbGU9JXMiLCBjYWNoZV9maWxlKQogICAgICAgIHJldHVybiBOb25lCgogICAgZ2VuZXJhdGVkX2F0ID0gX3BhcnNlX2RhdGV0aW1lKHBheWxvYWQuZ2V0KCJnZW5lcmF0ZWRfYXQiKSkKICAgIGlmIGdlbmVyYXRlZF9hdCBpcyBOb25lOgogICAgICAgIHJldHVybiBOb25lCgogICAgaWYgbWF4X2FnZV9zZWNvbmRzIGlzIG5vdCBOb25lOgogICAgICAgIGN1dG9mZiA9IF91dGNfbm93KCkgLSB0aW1lZGVsdGEoc2Vjb25kcz1tYXhfYWdlX3NlY29uZHMpCiAgICAgICAgaWYgZ2VuZXJhdGVkX2F0IDwgY3V0b2ZmOgogICAgICAgICAgICByZXR1cm4gTm9uZQoKICAgIHJhd19hbGlhc2VzID0gcGF5bG9hZC5nZXQoImFsaWFzZXMiKQogICAgaWYgbm90IGlzaW5zdGFuY2UocmF3X2FsaWFzZXMsIGRpY3QpOgogICAgICAgIHJldHVybiBOb25lCgogICAgYWxpYXNlczogZGljdFtzdHIsIEVQR01hcHBpbmddID0ge30KICAgIGZvciBrZXksIGl0ZW0gaW4gcmF3X2FsaWFzZXMuaXRlbXMoKToKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShrZXksIHN0cikgb3Igbm90IGlzaW5zdGFuY2UoaXRlbSwgZGljdCk6CiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIHR2Z19pZCA9IGl0ZW0uZ2V0KCJ0dmdfaWQiKQogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHR2Z19pZCwgc3RyKSBvciBub3QgdHZnX2lkOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBkaXNwbGF5X25hbWUgPSBpdGVtLmdldCgiZGlzcGxheV9uYW1lIikKICAgICAgICBhbGlhc2VzW2tleV0gPSBFUEdNYXBwaW5nKAogICAgICAgICAgICB0dmdfaWQ9dHZnX2lkLAogICAgICAgICAgICBkaXNwbGF5X25hbWU9ZGlzcGxheV9uYW1lIGlmIGlzaW5zdGFuY2UoZGlzcGxheV9uYW1lLCBzdHIpIGVsc2UgTm9uZSwKICAgICAgICApCgogICAgcmV0dXJuIGFsaWFzZXMKCgpkZWYgX3dyaXRlX3htbHR2X2FsaWFzZXNfY2FjaGUoCiAgICBjYWNoZV9maWxlOiBQYXRoLAogICAgYWxpYXNlczogZGljdFtzdHIsIEVQR01hcHBpbmddLAopIC0+IE5vbmU6CiAgICBwYXlsb2FkID0gewogICAgICAgICJnZW5lcmF0ZWRfYXQiOiBfdXRjX25vdygpLmlzb2Zvcm1hdCgpLAogICAgICAgICJhbGlhc2VzIjogewogICAgICAgICAgICBrZXk6IHsKICAgICAgICAgICAgICAgICJ0dmdfaWQiOiBtYXBwaW5nLnR2Z19pZCwKICAgICAgICAgICAgICAgICJkaXNwbGF5X25hbWUiOiBtYXBwaW5nLmRpc3BsYXlfbmFtZSwKICAgICAgICAgICAgfQogICAgICAgICAgICBmb3Iga2V5LCBtYXBwaW5nIGluIHNvcnRlZChhbGlhc2VzLml0ZW1zKCkpCiAgICAgICAgfSwKICAgIH0KICAgIHdyaXRlX2pzb25fYXRvbWljKGNhY2hlX2ZpbGUsIHBheWxvYWQpCgoKZGVmIF91dGNfbm93KCkgLT4gZGF0ZXRpbWU6CiAgICByZXR1cm4gZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0YykKCgpkZWYgX3BhcnNlX2RhdGV0aW1lKHZhbHVlOiBzdHIgfCBOb25lKSAtPiBkYXRldGltZSB8IE5vbmU6CiAgICBpZiBub3QgdmFsdWU6CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICB0cnk6CiAgICAgICAgcGFyc2VkID0gZGF0ZXRpbWUuZnJvbWlzb2Zvcm1hdCh2YWx1ZS5yZXBsYWNlKCJaIiwgIiswMDowMCIpKQogICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBpZiBwYXJzZWQudHppbmZvIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIHBhcnNlZC5yZXBsYWNlKHR6aW5mbz10aW1lem9uZS51dGMpCgogICAgcmV0dXJuIHBhcnNlZAoKCmRlZiBfc3RyaXBfZGlzcGxheV9wcmVmaXgodmFsdWU6IHN0cikgLT4gc3RyOgogICAgcmV0dXJuIERJU1BMQVlfTkFNRV9QUkVGSVhfUEFUVEVSTi5zdWIoIiIsIHZhbHVlKS5zdHJpcCgpCgoKZGVmIF9yZXNvbHZlZF90dmdfaWQoY2hhbm5lbDogQ2hhbm5lbCwgbWFwcGluZzogRVBHTWFwcGluZyB8IE5vbmUpIC0+IHN0ciB8IE5vbmU6CiAgICBpZiBtYXBwaW5nOgogICAgICAgIHJldHVybiBtYXBwaW5nLnR2Z19pZAoKICAgIGlmIF9pc19yZWxpYWJsZV90dmdfaWQoY2hhbm5lbC50dmdfaWQpOgogICAgICAgIHJldHVybiBjaGFubmVsLnR2Z19pZAoKICAgIHJldHVybiBOb25lCgoKZGVmIF9kaXNjb3Zlcl9hbGlhc2VzKGNoYW5uZWxzOiBsaXN0W0NoYW5uZWxdKSAtPiBkaWN0W3N0ciwgRVBHTWFwcGluZ106CiAgICBjYW5kaWRhdGVzOiBkaWN0W3N0ciwgc2V0W0VQR01hcHBpbmddXSA9IHt9CgogICAgZm9yIGNoYW5uZWwgaW4gY2hhbm5lbHM6CiAgICAgICAgaWYgbm90IF9pc19yZWxpYWJsZV90dmdfaWQoY2hhbm5lbC50dmdfaWQpOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBtYXBwaW5nID0gRVBHTWFwcGluZyh0dmdfaWQ9Y2hhbm5lbC50dmdfaWQsIGRpc3BsYXlfbmFtZT1jaGFubmVsLm5hbWUpCiAgICAgICAgZm9yIHZhbHVlIGluIChjaGFubmVsLm5hbWUsIGNoYW5uZWwudHZnX2lkKToKICAgICAgICAgICAga2V5ID0gX25vcm1hbGl6ZSh2YWx1ZSkKICAgICAgICAgICAgaWYgbm90IGtleToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGNhbmRpZGF0ZXMuc2V0ZGVmYXVsdChrZXksIHNldCgpKS5hZGQobWFwcGluZykKCiAgICByZXR1cm4gewogICAgICAgIGtleTogbmV4dChpdGVyKHZhbHVlcykpCiAgICAgICAgZm9yIGtleSwgdmFsdWVzIGluIGNhbmRpZGF0ZXMuaXRlbXMoKQogICAgICAgIGlmIGxlbih2YWx1ZXMpID09IDEKICAgIH0KCgpAbHJ1X2NhY2hlKG1heHNpemU9MSkKZGVmIF9sb2FkX2FsaWFzX2NvbmZpZ3VyYXRpb24oKSAtPiB0dXBsZVsKICAgIGRpY3Rbc3RyLCBFUEdNYXBwaW5nXSwKICAgIHR1cGxlW3R1cGxlW3N0ciwgRVBHTWFwcGluZ10sIC4uLl0sCl06CiAgICByZXNvdXJjZSA9IHJlc291cmNlcy5maWxlcygibGVnYWxfaXB0di5yZXNvdXJjZXMiKS5qb2lucGF0aChBTElBU0VTX1JFU09VUkNFX05BTUUpCiAgICBpZiBub3QgcmVzb3VyY2UuaXNfZmlsZSgpOgogICAgICAgIHJldHVybiB7fSwgKCkKCiAgICByYXcgPSBqc29uLmxvYWRzKHJlc291cmNlLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkKICAgIGFsaWFzZXM6IGRpY3Rbc3RyLCBFUEdNYXBwaW5nXSA9IHt9CiAgICBwcmVmaXhfYWxpYXNlczogbGlzdFt0dXBsZVtzdHIsIEVQR01hcHBpbmddXSA9IFtdCgogICAgZm9yIGl0ZW0gaW4gcmF3OgogICAgICAgIG1hcHBpbmcgPSBFUEdNYXBwaW5nKAogICAgICAgICAgICB0dmdfaWQ9aXRlbVsidHZnX2lkIl0sCiAgICAgICAgICAgIGRpc3BsYXlfbmFtZT1pdGVtLmdldCgiZGlzcGxheV9uYW1lIiksCiAgICAgICAgKQogICAgICAgIGZvciBhbGlhcyBpbiBpdGVtLmdldCgiYWxpYXNlcyIsIFtdKToKICAgICAgICAgICAgYWxpYXNlc1tfbm9ybWFsaXplKGFsaWFzKV0gPSBtYXBwaW5nCiAgICAgICAgZm9yIHByZWZpeCBpbiBpdGVtLmdldCgicHJlZml4ZXMiLCBbXSk6CiAgICAgICAgICAgIG5vcm1hbGl6ZWQgPSBfbm9ybWFsaXplKHByZWZpeCkKICAgICAgICAgICAgaWYgbm9ybWFsaXplZDoKICAgICAgICAgICAgICAgIHByZWZpeF9hbGlhc2VzLmFwcGVuZCgobm9ybWFsaXplZCwgbWFwcGluZykpCgogICAgcmV0dXJuIGFsaWFzZXMsIHR1cGxlKHByZWZpeF9hbGlhc2VzKQoKCmRlZiBfaXNfcmVsaWFibGVfdHZnX2lkKHZhbHVlOiBzdHIgfCBOb25lKSAtPiBib29sOgogICAgaWYgbm90IHZhbHVlOgogICAgICAgIHJldHVybiBGYWxzZQoKICAgIGlmIEdFTkVSSUNfVFZHX0lEX1BBVFRFUk4uc2VhcmNoKHZhbHVlKToKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICByZXR1cm4gIi4iIGluIHZhbHVlCgoKQGxydV9jYWNoZShtYXhzaXplPTgxOTIpCmRlZiBfbm9ybWFsaXplKHZhbHVlOiBzdHIgfCBOb25lKSAtPiBzdHI6CiAgICBpZiBub3QgdmFsdWU6CiAgICAgICAgcmV0dXJuICIiCgogICAgbm9ybWFsaXplZCA9IHVuaWNvZGVkYXRhLm5vcm1hbGl6ZSgiTkZLRCIsIHZhbHVlKQogICAgYXNjaWlfdmFsdWUgPSBub3JtYWxpemVkLmVuY29kZSgiYXNjaWkiLCAiaWdub3JlIikuZGVjb2RlKCJhc2NpaSIpCiAgICBzaW1wbGlmaWVkID0gcmUuc3ViKHIiW15hLXowLTldKyIsICIgIiwgYXNjaWlfdmFsdWUuY2FzZWZvbGQoKSkKICAgIHJldHVybiAiICIuam9pbihzaW1wbGlmaWVkLnNwbGl0KCkpCg==
+import gzip
+import json
+import logging
+import re
+import unicodedata
+import xml.etree.ElementTree as ET
+from collections import defaultdict
+from dataclasses import dataclass, replace
+from datetime import datetime, timedelta, timezone
+from functools import lru_cache
+from importlib import resources
+from io import BytesIO
+from pathlib import Path
+
+from legal_iptv.clients import HttpClient
+from legal_iptv.io import write_json_atomic
+from legal_iptv.models import Channel
+from legal_iptv.services.epg_sources import EPG_INDEX_URLS
+
+
+ALIASES_RESOURCE_NAME = "epg_aliases.json"
+GENERIC_TVG_ID_PATTERN = re.compile(r"^(script[_-]?catalog|youtube|live)[._-]", re.IGNORECASE)
+DISPLAY_NAME_PREFIX_PATTERN = re.compile(r"^[A-Z]{2}\s+-\s+")
+VARIANT_SUFFIX_PATTERN = re.compile(
+    r"\s+(?:\[(?:4K|FHD|HD|SD|HEVC)\])(?:\s+\[(?:4K|FHD|HD|SD|HEVC)\])*$",
+    re.IGNORECASE,
+)
+
+logger = logging.getLogger(__name__)
+
+
+@dataclass(slots=True, frozen=True)
+class EPGMapping:
+    tvg_id: str
+    display_name: str | None = None
+
+
+def enrich_epg_metadata(
+    channels: list[Channel],
+    xmltv_aliases: dict[str, EPGMapping] | None = None,
+) -> list[Channel]:
+    aliases, prefix_aliases = _load_alias_configuration()
+    xmltv_aliases = xmltv_aliases or {}
+    discovered_aliases = _discover_aliases(channels)
+
+    enriched: list[Channel] = []
+    for channel in channels:
+        mapping = _find_mapping(
+            channel,
+            aliases,
+            prefix_aliases,
+            xmltv_aliases,
+            discovered_aliases,
+        )
+        tvg_id = _resolved_tvg_id(channel, mapping)
+        name = mapping.display_name if mapping and mapping.display_name else channel.name
+        enriched.append(replace(channel, name=name, tvg_id=tvg_id))
+
+    return enriched
+
+
+def _find_mapping(
+    channel: Channel,
+    aliases: dict[str, EPGMapping],
+    prefix_aliases: tuple[tuple[str, EPGMapping], ...],
+    xmltv_aliases: dict[str, EPGMapping],
+    discovered_aliases: dict[str, EPGMapping],
+) -> EPGMapping | None:
+    base_name = VARIANT_SUFFIX_PATTERN.sub("", channel.name).strip()
+    candidates = [
+        channel.tvg_id or "",
+        base_name,
+        channel.name,
+    ]
+
+    for value in candidates:
+        key = _normalize(value)
+        if key in xmltv_aliases:
+            return xmltv_aliases[key]
+
+    for value in candidates:
+        key = _normalize(value)
+        if key in aliases:
+            return aliases[key]
+
+    for value in candidates:
+        key = _normalize(value)
+        for prefix, mapping in prefix_aliases:
+            if key == prefix or key.startswith(f"{prefix} "):
+                return mapping
+
+    for value in candidates:
+        key = _normalize(value)
+        if key in discovered_aliases:
+            return discovered_aliases[key]
+
+    return None
+
+
+def load_xmltv_aliases(
+    client: HttpClient,
+    *,
+    cache_file: Path | None = None,
+    cache_ttl_seconds: int = 43200,
+    force_refresh: bool = False,
+) -> dict[str, EPGMapping]:
+    if cache_file is not None and not force_refresh:
+        cached_aliases = _load_fresh_xmltv_aliases_cache(
+            cache_file,
+            max_age_seconds=cache_ttl_seconds,
+        )
+        if cached_aliases is not None:
+            logger.info(
+                "Loaded EPG aliases from cache aliases=%s cache_file=%s",
+                len(cached_aliases),
+                cache_file,
+            )
+            return cached_aliases
+
+    aliases = _fetch_xmltv_aliases(client)
+    if aliases:
+        if cache_file is not None:
+            _write_xmltv_aliases_cache(cache_file, aliases)
+        return aliases
+
+    if cache_file is not None:
+        stale_aliases = _load_xmltv_aliases_cache(cache_file, max_age_seconds=None)
+        if stale_aliases is not None:
+            logger.warning(
+                "Using stale EPG aliases cache aliases=%s cache_file=%s",
+                len(stale_aliases),
+                cache_file,
+            )
+            return stale_aliases
+
+    return aliases
+
+
+def _fetch_xmltv_aliases(client: HttpClient) -> dict[str, EPGMapping]:
+    aliases: dict[str, EPGMapping] = {}
+
+    for url in EPG_INDEX_URLS:
+        try:
+            payload = client.get_bytes(url)
+            source_aliases = parse_xmltv_aliases(
+                payload,
+                compressed=url.endswith(".gz"),
+                require_programmes=True,
+            )
+            for key, mapping in source_aliases.items():
+                aliases.setdefault(key, mapping)
+        except Exception as exc:
+            logger.warning("Failed to load EPG index url=%s error=%s", url, exc)
+
+    logger.info("Loaded EPG aliases from sources aliases=%s", len(aliases))
+    return aliases
+
+
+def parse_xmltv_aliases(
+    payload: bytes,
+    *,
+    compressed: bool = False,
+    require_programmes: bool = False,
+) -> dict[str, EPGMapping]:
+    data = gzip.decompress(payload) if compressed else payload
+    channel_candidates: list[tuple[str, dict[str, set[EPGMapping]]]] = []
+    programmed_channel_ids: set[str] = set()
+
+    for _, element in ET.iterparse(BytesIO(data), events=("end",)):
+        if element.tag == "programme":
+            channel_id = element.attrib.get("channel")
+            if channel_id:
+                programmed_channel_ids.add(channel_id)
+            element.clear()
+            continue
+
+        if element.tag != "channel":
+            continue
+
+        tvg_id = element.attrib.get("id")
+        if not tvg_id:
+            element.clear()
+            continue
+
+        mapping = EPGMapping(tvg_id=tvg_id)
+        item_candidates: dict[str, set[EPGMapping]] = defaultdict(set)
+        _add_candidate(item_candidates, tvg_id, mapping)
+
+        for display_name in element.findall("display-name"):
+            text = display_name.text or ""
+            _add_candidate(item_candidates, text, mapping)
+            _add_candidate(item_candidates, _strip_display_prefix(text), mapping)
+
+        channel_candidates.append((tvg_id, item_candidates))
+        element.clear()
+
+    aliases: dict[str, EPGMapping] = {}
+    for tvg_id, item_candidates in channel_candidates:
+        if require_programmes and tvg_id not in programmed_channel_ids:
+            continue
+
+        for key, mappings in item_candidates.items():
+            if key not in aliases and len(mappings) == 1:
+                aliases[key] = next(iter(mappings))
+
+    return aliases
+
+
+def _add_candidate(
+    candidates: dict[str, set[EPGMapping]],
+    value: str | None,
+    mapping: EPGMapping,
+) -> None:
+    key = _normalize(value)
+    if key:
+        candidates[key].add(mapping)
+
+
+def _load_fresh_xmltv_aliases_cache(
+    cache_file: Path,
+    *,
+    max_age_seconds: int,
+) -> dict[str, EPGMapping] | None:
+    return _load_xmltv_aliases_cache(cache_file, max_age_seconds=max_age_seconds)
+
+
+def _load_xmltv_aliases_cache(
+    cache_file: Path,
+    *,
+    max_age_seconds: int | None,
+) -> dict[str, EPGMapping] | None:
+    if not cache_file.exists():
+        return None
+
+    try:
+        payload = json.loads(cache_file.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        logger.warning("Failed to read EPG aliases cache cache_file=%s", cache_file)
+        return None
+
+    generated_at = _parse_datetime(payload.get("generated_at"))
+    if generated_at is None:
+        return None
+
+    if max_age_seconds is not None:
+        cutoff = _utc_now() - timedelta(seconds=max_age_seconds)
+        if generated_at < cutoff:
+            return None
+
+    raw_aliases = payload.get("aliases")
+    if not isinstance(raw_aliases, dict):
+        return None
+
+    aliases: dict[str, EPGMapping] = {}
+    for key, item in raw_aliases.items():
+        if not isinstance(key, str) or not isinstance(item, dict):
+            continue
+
+        tvg_id = item.get("tvg_id")
+        if not isinstance(tvg_id, str) or not tvg_id:
+            continue
+
+        display_name = item.get("display_name")
+        aliases[key] = EPGMapping(
+            tvg_id=tvg_id,
+            display_name=display_name if isinstance(display_name, str) else None,
+        )
+
+    return aliases
+
+
+def _write_xmltv_aliases_cache(
+    cache_file: Path,
+    aliases: dict[str, EPGMapping],
+) -> None:
+    payload = {
+        "generated_at": _utc_now().isoformat(),
+        "aliases": {
+            key: {
+                "tvg_id": mapping.tvg_id,
+                "display_name": mapping.display_name,
+            }
+            for key, mapping in sorted(aliases.items())
+        },
+    }
+    write_json_atomic(cache_file, payload)
+
+
+def _utc_now() -> datetime:
+    return datetime.now(timezone.utc)
+
+
+def _parse_datetime(value: str | None) -> datetime | None:
+    if not value:
+        return None
+
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+
+    if parsed.tzinfo is None:
+        return parsed.replace(tzinfo=timezone.utc)
+
+    return parsed
+
+
+def _strip_display_prefix(value: str) -> str:
+    return DISPLAY_NAME_PREFIX_PATTERN.sub("", value).strip()
+
+
+def _resolved_tvg_id(channel: Channel, mapping: EPGMapping | None) -> str | None:
+    if mapping:
+        return mapping.tvg_id
+
+    if _is_reliable_tvg_id(channel.tvg_id):
+        return channel.tvg_id
+
+    return None
+
+
+def _discover_aliases(channels: list[Channel]) -> dict[str, EPGMapping]:
+    candidates: dict[str, set[EPGMapping]] = {}
+
+    for channel in channels:
+        if not _is_reliable_tvg_id(channel.tvg_id):
+            continue
+
+        mapping = EPGMapping(tvg_id=channel.tvg_id, display_name=channel.name)
+        for value in (channel.name, channel.tvg_id):
+            key = _normalize(value)
+            if not key:
+                continue
+            candidates.setdefault(key, set()).add(mapping)
+
+    return {
+        key: next(iter(values))
+        for key, values in candidates.items()
+        if len(values) == 1
+    }
+
+
+@lru_cache(maxsize=1)
+def _load_alias_configuration() -> tuple[
+    dict[str, EPGMapping],
+    tuple[tuple[str, EPGMapping], ...],
+]:
+    resource = resources.files("legal_iptv.resources").joinpath(ALIASES_RESOURCE_NAME)
+    if not resource.is_file():
+        return {}, ()
+
+    raw = json.loads(resource.read_text(encoding="utf-8"))
+    aliases: dict[str, EPGMapping] = {}
+    prefix_aliases: list[tuple[str, EPGMapping]] = []
+
+    for item in raw:
+        mapping = EPGMapping(
+            tvg_id=item["tvg_id"],
+            display_name=item.get("display_name"),
+        )
+        for alias in item.get("aliases", []):
+            aliases[_normalize(alias)] = mapping
+        for prefix in item.get("prefixes", []):
+            normalized = _normalize(prefix)
+            if normalized:
+                prefix_aliases.append((normalized, mapping))
+
+    return aliases, tuple(prefix_aliases)
+
+
+def _is_reliable_tvg_id(value: str | None) -> bool:
+    if not value:
+        return False
+
+    if GENERIC_TVG_ID_PATTERN.search(value):
+        return False
+
+    return "." in value
+
+
+@lru_cache(maxsize=8192)
+def _normalize(value: str | None) -> str:
+    if not value:
+        return ""
+
+    normalized = unicodedata.normalize("NFKD", value)
+    ascii_value = normalized.encode("ascii", "ignore").decode("ascii")
+    simplified = re.sub(r"[^a-z0-9]+", " ", ascii_value.casefold())
+    return " ".join(simplified.split())

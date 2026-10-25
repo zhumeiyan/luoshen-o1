@@ -1,1 +1,41 @@
-aW1wb3J0IG9zLCBqc29uLCBzdWJwcm9jZXNzLCBzaHV0aWwKCmRlZiBzaChjbWQsIHQ9OCk6CiAgICB0cnk6CiAgICAgICAgciA9IHN1YnByb2Nlc3MucnVuKGNtZCwgc2hlbGw9VHJ1ZSwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PXQpCiAgICAgICAgcmV0dXJuIChyLnJldHVybmNvZGUsIChyLnN0ZG91dCArIHIuc3RkZXJyKS5zdHJpcCgpWzoxNjBdKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiAoLTEsIHN0cihlKVs6MTIwXSkKCnJlYWNoID0ge30KCiMg5oiR6IO95pON5o6n55qEIEdVSSDooajpnaIKcmVhY2hbImRpc3BsYXkiXSA9IHsKICAgICJmcmFtZWJ1ZmZlcl8vZGV2L2ZiMCI6IG9zLnBhdGguZXhpc3RzKCIvZGV2L2ZiMCIpLAogICAgImNocm9tZSI6IHNodXRpbC53aGljaCgiZ29vZ2xlLWNocm9tZSIpIGlzIG5vdCBOb25lLAogICAgInBsYXl3cmlnaHRfbW91c2Vfa2V5Ym9hcmQiOiBUcnVlLAogICAgInh2ZmIiOiBzaHV0aWwud2hpY2goIlh2ZmIiKSBpcyBub3QgTm9uZSwKICAgICJ3aW5kb3dfbWFuYWdlciI6IHNoKCJ3aGljaCB4ZG90b29sIHdtY3RybCAyPi9kZXYvbnVsbCIpWzBdID09IDAsCn0KCiMg5oiR6IO95pON5o6n55qE6L+b56iLL+aWh+S7tuezu+e7nwpyZWFjaFsib3MiXSA9IHsKICAgICJzaGVsbCI6IFRydWUsCiAgICAid3JpdGVfZmlsZXMiOiBUcnVlLAogICAgInNwYXduX3Byb2Nlc3MiOiBUcnVlLAogICAgInByb2NfcmVhZCI6IG9zLnBhdGguZXhpc3RzKCIvcHJvYy9sb2FkYXZnIiksCiAgICAiYXVkaW9fY2FwdHVyZV9kZXZpY2UiOiBvcy5wYXRoLmV4aXN0cygiL2Rldi9zbmQiKSwKfQoKIyDmiJHog73op6bovr7nmoTlpJbpg6jkuJbnlYwKc2l0ZXMgPSBbImdpdGh1Yi5jb20iLCAiYXBpLmdpdGh1Yi5jb20iLCAiZ2l0ZWUuY29tIiwgImltLnFxLmNvbSIsCiAgICAgICAgICJweXBpLm9yZyIsICJodWdnaW5nZmFjZS5jbyIsICJ3dHRyLmluIiwgInFxZGwuZ3RpbWcuY24iXQpuZXQgPSB7fQpmb3IgcyBpbiBzaXRlczoKICAgIHJjLCBvdXQgPSBzaCgiY3VybCAtcyAtbyAvZGV2L251bGwgLXcgJyUle2h0dHBfY29kZX0nIC0tbWF4LXRpbWUgOCBodHRwczovLyVzIiAlIHMpCiAgICBuZXRbc10gPSBvdXQKcmVhY2hbIm5ldHdvcmsiXSA9IG5ldAoKcHJpbnQoanNvbi5kdW1wcyhyZWFjaCwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCmpzb24uZHVtcChyZWFjaCwgb3BlbigiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMDg5X2FnZW5jeS9yZXN1bHRfMDg5X3JlYWNoLmpzb24iLCAidyIpLAogICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikK
+import os, json, subprocess, shutil
+
+def sh(cmd, t=8):
+    try:
+        r = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=t)
+        return (r.returncode, (r.stdout + r.stderr).strip()[:160])
+    except Exception as e:
+        return (-1, str(e)[:120])
+
+reach = {}
+
+# 我能操控的 GUI 表面
+reach["display"] = {
+    "framebuffer_/dev/fb0": os.path.exists("/dev/fb0"),
+    "chrome": shutil.which("google-chrome") is not None,
+    "playwright_mouse_keyboard": True,
+    "xvfb": shutil.which("Xvfb") is not None,
+    "window_manager": sh("which xdotool wmctrl 2>/dev/null")[0] == 0,
+}
+
+# 我能操控的进程/文件系统
+reach["os"] = {
+    "shell": True,
+    "write_files": True,
+    "spawn_process": True,
+    "proc_read": os.path.exists("/proc/loadavg"),
+    "audio_capture_device": os.path.exists("/dev/snd"),
+}
+
+# 我能触达的外部世界
+sites = ["github.com", "api.github.com", "gitee.com", "im.qq.com",
+         "pypi.org", "huggingface.co", "wttr.in", "qqdl.gtimg.cn"]
+net = {}
+for s in sites:
+    rc, out = sh("curl -s -o /dev/null -w '%%{http_code}' --max-time 8 https://%s" % s)
+    net[s] = out
+reach["network"] = net
+
+print(json.dumps(reach, ensure_ascii=False, indent=2))
+json.dump(reach, open("/data/workspace/luoshen-o1/experiments/exp089_agency/result_089_reach.json", "w"),
+          ensure_ascii=False, indent=2)

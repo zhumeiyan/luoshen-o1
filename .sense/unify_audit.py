@@ -1,1 +1,73 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5rSb56WeIMK3IOS7k+W6k+e7n+S4gOWvueagh+WuoeiuoQrmoIflsLrmnaXmupDvvJpvcmNoaWRzLmFwcCDnmoTlpJbpg6jlkYjnjrDvvIjlhYjmoLjlrp7lroPmmK/lkKbov5jmtLvnnYDvvIzlho3osIjlr7nmoIfvvIkK5Yik5o2u77ya5Y+q6K6kIEFQSSDljp/lp4vlrZfmrrXvvIzkuI3orqTmiJHnmoTlpI3ov7AKIiIiCmltcG9ydCBqc29uLCB1cmxsaWIucmVxdWVzdCwgYmFzZTY0LCBzeXMKClRPSz0iZ2hwX2NxYkhONXF2N3RSRDA5YmE1eFFMbjRzeTZOcWV0WTBXTVBpbCIKSD17IkF1dGhvcml6YXRpb24iOmYidG9rZW4ge1RPS30iLCJVc2VyLUFnZW50IjoibHVvc2hlbi11bmlmeSJ9CmRlZiBnZXQodSk6CiAgICB0cnk6IHJldHVybiBqc29uLmxvYWRzKHVybGxpYi5yZXF1ZXN0LnVybG9wZW4odXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1LGhlYWRlcnM9SCksdGltZW91dD00NSkucmVhZCgpKQogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZTogcmV0dXJuIHsiX19lcnJfXyI6ZS5jb2RlfQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiByZXR1cm4geyJfX2Vycl9fIjpzdHIoZSlbOjUwXX0KCiMgLS0tLSDnu5/kuIDop4TojIPvvJrkuIDkuKrku5PlupPlr7nlpJbopoHog73ooqvpmYznlJ/kurogMzAg56eS5YaF55yL5oeCIC0tLS0KUlVMRVMgPSBbCiAgICAoIuaciSBSRUFETUUiLCAgICAgICAgbGFtYmRhIGQsZjogYW55KHgubG93ZXIoKS5zdGFydHN3aXRoKCJyZWFkbWUiKSBmb3IgeCBpbiBmKSksCiAgICAoIuaciSBMSUNFTlNFIiwgICAgICAgbGFtYmRhIGQsZjogZC5nZXQoImxpY2Vuc2UiKSBpcyBub3QgTm9uZSksCiAgICAoIuacieS4gOWPpeivneWumuS9jSIsICAgICAgbGFtYmRhIGQsZjogYm9vbCgoZC5nZXQoImRlc2NyaXB0aW9uIikgb3IgIiIpLnN0cmlwKCkpKSwKICAgICgi5pyJ5Li76K+t6KiAIiwgICAgICAgICBsYW1iZGEgZCxmOiBib29sKGQuZ2V0KCJsYW5ndWFnZSIpKSksCiAgICAoIuacquW9kuahoyjlj6/mlLkpIiwgICAgIGxhbWJkYSBkLGY6IG5vdCBkLmdldCgiYXJjaGl2ZWQiKSksCiAgICAoIuaciSBIb21lcGFnZSIsICAgICAgbGFtYmRhIGQsZjogYm9vbChkLmdldCgiaG9tZXBhZ2UiKSkpLAogICAgKCLmnIkgdG9waWNzIiwgICAgICAgIGxhbWJkYSBkLGY6IGxlbihkLmdldCgidG9waWNzIikgb3IgW10pPjApLApdCgpyZXBvcz1bXTtwPTEKd2hpbGUgVHJ1ZToKICAgIHI9Z2V0KGYiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS91c2Vycy96aHVtZWl5YW4vcmVwb3M/cGVyX3BhZ2U9MTAwJnBhZ2U9e3B9JnNvcnQ9dXBkYXRlZCIpCiAgICBpZiBub3QgaXNpbnN0YW5jZShyLGxpc3QpIG9yIG5vdCByOiBicmVhawogICAgcmVwb3MrPXIKICAgIGlmIGxlbihyKTwxMDA6IGJyZWFrCiAgICBwKz0xCgpwcmludCgiPSIqNzgpCnByaW50KCIg5rSb56WeIMK3IOS7k+W6k+e7n+S4gOWvueagh+Wuoeiuoe+8iEB6aHVtZWl5YW4g5YWo6YeP77yJIikKcHJpbnQoIj0iKjc4KQpwcmludChmIiDmoIflsLrvvJrkuIDkuKrpmYznlJ/kurrlnKggMzAg56eS5YaF6IO955yL5oeC6L+Z5Liq5LuT5bqT5piv5bmy5LuA5LmI55qE44CB6IO95LiN6IO955SoIikKcHJpbnQoZiIg5LuT5bqT5oC75pWw77yae2xlbihyZXBvcyl9XG4iKQoKcm93cz1bXQpmb3IgZCBpbiBzb3J0ZWQocmVwb3Msa2V5PWxhbWJkYSB4OnhbIm5hbWUiXSk6CiAgICBmaWxlcz1nZXQoZiJodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL3podW1laXlhbi97ZFsnbmFtZSddfS9jb250ZW50cy8iKQogICAgZm49W3hbIm5hbWUiXSBmb3IgeCBpbiBmaWxlc10gaWYgaXNpbnN0YW5jZShmaWxlcyxsaXN0KSBlbHNlIFtdCiAgICBwYXNzZWQ9W10KICAgIGZvciBuYW1lLGZuX3Rlc3QgaW4gUlVMRVM6CiAgICAgICAgdHJ5OiBwYXNzZWQuYXBwZW5kKDEgaWYgZm5fdGVzdChkLGZuKSBlbHNlIDApCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzc2VkLmFwcGVuZCgwKQogICAgcm93cy5hcHBlbmQoZGljdChuYW1lPWRbIm5hbWUiXSxzY29yZT1zdW0ocGFzc2VkKSxkZXRhaWw9cGFzc2VkLAogICAgICAgICAgICAgICAgICAgICBhcmNoaXZlZD1kLmdldCgiYXJjaGl2ZWQiKSxzaXplPWQuZ2V0KCJzaXplIikpKQoKaGRyPVtuIGZvciBuLF8gaW4gUlVMRVNdCnByaW50KGYieyfku5PlupMnOjwyNn0iICsgIiIuam9pbihmIntoWzo0XTo8Nn0iIGZvciBoIGluIGhkcikgKyAiIOW+l+WIhiIpCnByaW50KCItIio3OCkKZm9yIHIgaW4gcm93czoKICAgIG1hcmtzPSIiLmpvaW4oZiJ7J+KckycgaWYgdiBlbHNlICfinJcnOjw2fSIgZm9yIHYgaW4gclsiZGV0YWlsIl0pCiAgICBwcmludChmIntyWyduYW1lJ11bOjI1XTo8MjZ9e21hcmtzfSAge3JbJ3Njb3JlJ119LzciKQpwcmludCgiLSIqNzgpCmF2Zz1zdW0oclsic2NvcmUiXSBmb3IgciBpbiByb3dzKS9sZW4ocm93cykKcHJpbnQoZiIg5bmz5Z2HIHthdmc6LjJmfS83IikKcHJpbnQoKQpwcmludCgiIOWbvuS+i++8miIgKyAiICAiLmpvaW4oZiJ7aH09eyfinJMnfSIgZm9yIGggaW4gaGRyKSkKcHJpbnQoKQojIOmAkOadoeefreadvwpwcmludCgiPSIqNzgpCnByaW50KCIg6YCQ5p2h55+t5p2/77yI5oyJ57y65aSx5pWw6YeP5o6S5bqP77yJIikKcHJpbnQoIj0iKjc4KQpmb3IgaSwobixfKSBpbiBlbnVtZXJhdGUoUlVMRVMpOgogICAgbWlzcz1bclsibmFtZSJdIGZvciByIGluIHJvd3MgaWYgbm90IHJbImRldGFpbCJdW2ldXQogICAgcHJpbnQoZiIgIHtuOjwxMn0g57y6IHtsZW4obWlzcyk6PjJ9L3tsZW4ocm93cyl9ICAgeycsICcuam9pbihtaXNzWzo2XSl9eyfigKYnIGlmIGxlbihtaXNzKT42IGVsc2UgJyd9IikKcHJpbnQoKQpqc29uLmR1bXAocm93cyxvcGVuKCIuc2Vuc2UvdW5pZnlfYXVkaXQuanNvbiIsInciKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+洛神 · 仓库统一对标审计
+标尺来源：orchids.app 的外部呈现（先核实它是否还活着，再谈对标）
+判据：只认 API 原始字段，不认我的复述
+"""
+import json, urllib.request, base64, sys
+
+TOK="ghp_REDACTED"
+H={"Authorization":f"token {TOK}","User-Agent":"luoshen-unify"}
+def get(u):
+    try: return json.loads(urllib.request.urlopen(urllib.request.Request(u,headers=H),timeout=45).read())
+    except urllib.error.HTTPError as e: return {"__err__":e.code}
+    except Exception as e: return {"__err__":str(e)[:50]}
+
+# ---- 统一规范：一个仓库对外要能被陌生人 30 秒内看懂 ----
+RULES = [
+    ("有 README",        lambda d,f: any(x.lower().startswith("readme") for x in f)),
+    ("有 LICENSE",       lambda d,f: d.get("license") is not None),
+    ("有一句话定位",      lambda d,f: bool((d.get("description") or "").strip())),
+    ("有主语言",         lambda d,f: bool(d.get("language"))),
+    ("未归档(可改)",     lambda d,f: not d.get("archived")),
+    ("有 Homepage",      lambda d,f: bool(d.get("homepage"))),
+    ("有 topics",        lambda d,f: len(d.get("topics") or [])>0),
+]
+
+repos=[];p=1
+while True:
+    r=get(f"https://api.github.com/users/zhumeiyan/repos?per_page=100&page={p}&sort=updated")
+    if not isinstance(r,list) or not r: break
+    repos+=r
+    if len(r)<100: break
+    p+=1
+
+print("="*78)
+print(" 洛神 · 仓库统一对标审计（@zhumeiyan 全量）")
+print("="*78)
+print(f" 标尺：一个陌生人在 30 秒内能看懂这个仓库是干什么的、能不能用")
+print(f" 仓库总数：{len(repos)}\n")
+
+rows=[]
+for d in sorted(repos,key=lambda x:x["name"]):
+    files=get(f"https://api.github.com/repos/zhumeiyan/{d['name']}/contents/")
+    fn=[x["name"] for x in files] if isinstance(files,list) else []
+    passed=[]
+    for name,fn_test in RULES:
+        try: passed.append(1 if fn_test(d,fn) else 0)
+        except Exception: passed.append(0)
+    rows.append(dict(name=d["name"],score=sum(passed),detail=passed,
+                     archived=d.get("archived"),size=d.get("size")))
+
+hdr=[n for n,_ in RULES]
+print(f"{'仓库':<26}" + "".join(f"{h[:4]:<6}" for h in hdr) + " 得分")
+print("-"*78)
+for r in rows:
+    marks="".join(f"{'✓' if v else '✗':<6}" for v in r["detail"])
+    print(f"{r['name'][:25]:<26}{marks}  {r['score']}/7")
+print("-"*78)
+avg=sum(r["score"] for r in rows)/len(rows)
+print(f" 平均 {avg:.2f}/7")
+print()
+print(" 图例：" + "  ".join(f"{h}={'✓'}" for h in hdr))
+print()
+# 逐条短板
+print("="*78)
+print(" 逐条短板（按缺失数量排序）")
+print("="*78)
+for i,(n,_) in enumerate(RULES):
+    miss=[r["name"] for r in rows if not r["detail"][i]]
+    print(f"  {n:<12} 缺 {len(miss):>2}/{len(rows)}   {', '.join(miss[:6])}{'…' if len(miss)>6 else ''}")
+print()
+json.dump(rows,open(".sense/unify_audit.json","w"),ensure_ascii=False,indent=1)

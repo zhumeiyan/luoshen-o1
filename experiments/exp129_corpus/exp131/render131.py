@@ -1,1 +1,85 @@
-IiIiZXhwMTMxIHNlbGYtY2hlY2s6IHJlbmRlciByZXN1bHRzLCB3cml0ZSB0byAvZGV2L2ZiMCwgcmVhZCBiYWNrLCBPQ1IuCgpUd28gaW5kZXBlbmRlbnQgcHJvYmVzIG9mIHRoZSBkZXZpY2UgZ2VvbWV0cnk6CiAgaW9jdGwgRkJJT0dFVF9WU0NSRUVOSU5GTyAtPiByZXR1cm5zIGFsbCB6ZXJvcyBvbiB0aGlzIHNhbmRib3ggKHVuaW1wbGVtZW50ZWQpCiAgL3N5cy9jbGFzcy9ncmFwaGljcy9mYjAve3ZpcnR1YWxfc2l6ZSxiaXRzX3Blcl9waXhlbH0gLT4gMTAyNHg3NjgsIDMyCmV4cDEyNyB3cm90ZSAxOTIweDEwODAgZnJvbSBtZW1vcnkgYW5kIGdvdCBPU0Vycm9yIGJlZm9yZSBtZWFzdXJpbmcuIE1lYXN1cmUKZmlyc3QsIGFuZCB3aGVuIHR3byBwcm9iZXMgZGlzYWdyZWUgcmVjb3JkIHdoaWNoIG9uZSBpcyBkZWFkLgoiIiIKaW1wb3J0IHBhdGhsaWIsIHN1YnByb2Nlc3MsIGhhc2hsaWIKClcsIEgsIEJQUCA9IDEwMjQsIDc2OCwgMzIgICAgICAgICAgIyBmcm9tIHN5c2ZzLCBzZWUgZG9jc3RyaW5nCkJZVEVTID0gVyAqIEggKiBCUFAgLy8gOAoKVE9LRU4gPSAiSzNON1FXIgpST1dTID0gWwogICAgIkVPIEVYUDEzMSBFVkFMR1VBUkQgU1RBVEVNRU5ULUxFVkVMIiwKICAgICIiLAogICAgZiJUT0tFTiB7VE9LRU59IiwKICAgICIiLAogICAgIlJFQUwgQ09SUFVTIDI3IEZJTEVTLCAxNyBGSU5ESU5HUyIsCiAgICAiICBTVFJJQ1QgIDEvMTcgPSAgNS45IFBDVCIsCiAgICAiICBMT09TRSAgMTAvMTcgPSA1OC44IFBDVCIsCiAgICAiICBHQVRFIDYwIFBDVCAtPiBORUlUSEVSIFBBU1NFUyIsCiAgICAiIiwKICAgICJBRlRFUiBHLVJPTEUgKERFTU8gRklMRVMgREVNT1RFRCkiLAogICAgIiAgQUNUSU9OQUJMRSAxNyAtPiAxNSIsCiAgICAiICBTVFJJQ1QgIDEvMTUgPSAgNi43IFBDVCIsCiAgICAiICBMT09TRSAgMTAvMTUgPSA2Ni43IFBDVCIsCiAgICAiICBHQVRFIFVTRVMgU1RSSUNUIC0+IEZBSUwiLAogICAgIiIsCiAgICAiU0VQQVJBVE9SUyIsCiAgICAiICBBTkNIT1IgQ09SUkVDVCAgNi8xNyA9IDM1LjMgUENUIiwKICAgICIgIEFOQ0hPUi1DT1JSRUNUIFBSRUNJU0lPTiA1LzYgPSA4My4zIFBDVCIsCiAgICAiICBBTkNIT1ItV1JPTkcgICBQUkVDSVNJT04gNS8xMSA9IDQ1LjUgUENUIiwKICAgICIgIERFTU8gRklMRVMgIDAvMiBUUlVFLCBCT1RIIFNUQU5EQVJEUyIsCiAgICAiIiwKICAgICJSRUNBTEwgSEVMRCAgMTIvMTIgQU5EIDE0LzE0IiwKICAgICJSVUxFIENSQVNIRVMgMCIsCiAgICAiVkVSRElDVCBETyBOT1QgU0hJUCIsCl0KCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKIyBleHAxMDYvZXhwMTMwOiBkYXJrLW9uLWxpZ2h0IGF0IGEgcmVhbCBmb250IHNpemUgaXMgd2hhdCBPQ1IgY2FuIGFjdHVhbGx5CiMgcmVhZC4gVGlueSBkZWZhdWx0IGJpdG1hcHMgb24gYSBkYXJrIGdyb3VuZCBwcm9kdWNlIGNvbmZpZGVudCBnYXJiYWdlLgpGT05UID0gSW1hZ2VGb250LnRydWV0eXBlKAogICAgIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvZGVqYXZ1L0RlamFWdVNhbnNNb25vLnR0ZiIsIDIyKQpGT05UQiA9IEltYWdlRm9udC50cnVldHlwZSgKICAgICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTYW5zTW9uby1Cb2xkLnR0ZiIsIDIyKQppbWcgPSBJbWFnZS5uZXcoIlJHQkEiLCAoVywgSCksICgyNTIsIDI1MiwgMjUwLCAyNTUpKQpkID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQpkLnJlY3RhbmdsZShbMCwgMCwgVyAtIDEsIDQ0XSwgZmlsbD0oMjAsIDQ1LCA5MCwgMjU1KSkKeSA9IDEwCmQudGV4dCgoMTQsIHkpLCAiZXZhbGd1YXJkIHYwLjQgIC8gIGV4cDEzMSAgLyAgTk9UIEZPUiBTQUxFIiwKICAgICAgIGZvbnQ9Rk9OVEIsIGZpbGw9KDI1NSwgMjU1LCAyNTUsIDI1NSkpCnkgPSA2Mgpmb3IgciBpbiBST1dTOgogICAgaWYgcjoKICAgICAgICBjb2wgPSAoMCwgOTAsIDE5MCwgMjU1KSBpZiByLnN0YXJ0c3dpdGgoIlRPS0VOIikgZWxzZSBcCiAgICAgICAgICAgICAgKDE5MCwgMjAsIDIwLCAyNTUpIGlmICJGQUlMIiBpbiByIG9yICJETyBOT1QiIGluIHIgZWxzZSBcCiAgICAgICAgICAgICAgKDEwLCAxMTAsIDMwLCAyNTUpIGlmICgiUENUIiBpbiByIG9yICIvMSIgaW4gcikgZWxzZSBcCiAgICAgICAgICAgICAgKDI1LCAyNSwgMzAsIDI1NSkKICAgICAgICBkLnRleHQoKDE2LCB5KSwgciwgZm9udD1GT05UQiBpZiByLmlzdXBwZXIoKSBlbHNlIEZPTlQsIGZpbGw9Y29sKQogICAgeSArPSAzMAoKRCA9IHBhdGhsaWIuUGF0aCgiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9leHAxMzEiKQppbWcuc2F2ZShEIC8gInJlbmRlcjEzMS5wbmciKQpyYXcgPSBpbWcudG9ieXRlcygpCmFzc2VydCBsZW4ocmF3KSA9PSBCWVRFUywgKGxlbihyYXcpLCBCWVRFUykKCndpdGggb3BlbigiL2Rldi9mYjAiLCAicitiIikgYXMgZmI6CiAgICBmYi5zZWVrKDApCiAgICBmYi53cml0ZShyYXcpCgp3aXRoIG9wZW4oIi9kZXYvZmIwIiwgInJiIikgYXMgZmI6CiAgICBiYWNrID0gZmIucmVhZChCWVRFUykKcHJpbnQoZiJ3cm90ZSB7bGVuKHJhdyl9ICByZWFkIGJhY2sge2xlbihiYWNrKX0gIGlkZW50aWNhbD17cmF3ID09IGJhY2t9IikKcHJpbnQoInJlbmRlciBzaGEiLCBoYXNobGliLnNoYTI1NihyYXcpLmhleGRpZ2VzdCgpWzoxMl0sCiAgICAgICJjYXB0dXJlIHNoYSIsIGhhc2hsaWIuc2hhMjU2KGJhY2spLmhleGRpZ2VzdCgpWzoxMl0pCgpJbWFnZS5mcm9tYnl0ZXMoIlJHQkEiLCAoVywgSCksIGJhY2spLnNhdmUoRCAvICJjYXB0dXJlZC5wbmciKQooRCAvICJ0b2tlbi50eHQiKS53cml0ZV90ZXh0KFRPS0VOKQoKIyBwcm9iZTogdGhlIG51bWJlcnMgbXVzdCBzdXJ2aXZlIHRoZSByb3VuZCB0cmlwIGFzIHBpeGVscywgbm90IGFzIHZhcmlhYmxlcwpkYXJrID0gc3VtKDEgZm9yIGkgaW4gcmFuZ2UoMCwgQllURVMsIDQpIGlmIGJhY2tbaV0gPCA0MCkKcHJpbnQoZiJkYXJrLXBpeGVsIGZyYWN0aW9uIHtkYXJrLyhCWVRFUy8vNCk6LjRmfSIpCg==
+"""exp131 self-check: render results, write to /dev/fb0, read back, OCR.
+
+Two independent probes of the device geometry:
+  ioctl FBIOGET_VSCREENINFO -> returns all zeros on this sandbox (unimplemented)
+  /sys/class/graphics/fb0/{virtual_size,bits_per_pixel} -> 1024x768, 32
+exp127 wrote 1920x1080 from memory and got OSError before measuring. Measure
+first, and when two probes disagree record which one is dead.
+"""
+import pathlib, subprocess, hashlib
+
+W, H, BPP = 1024, 768, 32          # from sysfs, see docstring
+BYTES = W * H * BPP // 8
+
+TOKEN = "K3N7QW"
+ROWS = [
+    "EO EXP131 EVALGUARD STATEMENT-LEVEL",
+    "",
+    f"TOKEN {TOKEN}",
+    "",
+    "REAL CORPUS 27 FILES, 17 FINDINGS",
+    "  STRICT  1/17 =  5.9 PCT",
+    "  LOOSE  10/17 = 58.8 PCT",
+    "  GATE 60 PCT -> NEITHER PASSES",
+    "",
+    "AFTER G-ROLE (DEMO FILES DEMOTED)",
+    "  ACTIONABLE 17 -> 15",
+    "  STRICT  1/15 =  6.7 PCT",
+    "  LOOSE  10/15 = 66.7 PCT",
+    "  GATE USES STRICT -> FAIL",
+    "",
+    "SEPARATORS",
+    "  ANCHOR CORRECT  6/17 = 35.3 PCT",
+    "  ANCHOR-CORRECT PRECISION 5/6 = 83.3 PCT",
+    "  ANCHOR-WRONG   PRECISION 5/11 = 45.5 PCT",
+    "  DEMO FILES  0/2 TRUE, BOTH STANDARDS",
+    "",
+    "RECALL HELD  12/12 AND 14/14",
+    "RULE CRASHES 0",
+    "VERDICT DO NOT SHIP",
+]
+
+from PIL import Image, ImageDraw, ImageFont
+# exp106/exp130: dark-on-light at a real font size is what OCR can actually
+# read. Tiny default bitmaps on a dark ground produce confident garbage.
+FONT = ImageFont.truetype(
+    "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 22)
+FONTB = ImageFont.truetype(
+    "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf", 22)
+img = Image.new("RGBA", (W, H), (252, 252, 250, 255))
+d = ImageDraw.Draw(img)
+d.rectangle([0, 0, W - 1, 44], fill=(20, 45, 90, 255))
+y = 10
+d.text((14, y), "evalguard v0.4  /  exp131  /  NOT FOR SALE",
+       font=FONTB, fill=(255, 255, 255, 255))
+y = 62
+for r in ROWS:
+    if r:
+        col = (0, 90, 190, 255) if r.startswith("TOKEN") else \
+              (190, 20, 20, 255) if "FAIL" in r or "DO NOT" in r else \
+              (10, 110, 30, 255) if ("PCT" in r or "/1" in r) else \
+              (25, 25, 30, 255)
+        d.text((16, y), r, font=FONTB if r.isupper() else FONT, fill=col)
+    y += 30
+
+D = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp131")
+img.save(D / "render131.png")
+raw = img.tobytes()
+assert len(raw) == BYTES, (len(raw), BYTES)
+
+with open("/dev/fb0", "r+b") as fb:
+    fb.seek(0)
+    fb.write(raw)
+
+with open("/dev/fb0", "rb") as fb:
+    back = fb.read(BYTES)
+print(f"wrote {len(raw)}  read back {len(back)}  identical={raw == back}")
+print("render sha", hashlib.sha256(raw).hexdigest()[:12],
+      "capture sha", hashlib.sha256(back).hexdigest()[:12])
+
+Image.frombytes("RGBA", (W, H), back).save(D / "captured.png")
+(D / "token.txt").write_text(TOKEN)
+
+# probe: the numbers must survive the round trip as pixels, not as variables
+dark = sum(1 for i in range(0, BYTES, 4) if back[i] < 40)
+print(f"dark-pixel fraction {dark/(BYTES//4):.4f}")

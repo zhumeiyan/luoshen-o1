@@ -1,1 +1,139 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWklumDqOagh+WHhiDigJTigJQg5LiN5piv55So5oi36KaB5rGC77yM5piv6L2v5Lu25YWs5Y+45a6a55qE44CCCgrlvZLlsZ7nuqDmraPvvIjph43opoHvvInvvJoKICDkuIrkuIDniYggU1BFQy5tZCDmiJHmiormhJ/lrpjlj4LmlbDlhpnmiJDjgIznlKjmiLfop4TmoLzvvIzopoHmlLnlj6rog73nlKjmiLfmlLnjgI3jgIIKICDov5nmmK/plJnnmoTjgILov5nkupvlj4LmlbDkuI3mmK/ku7vkvZXkuKrkurrlrprnmoTvvIzmmK8gQXBwbGUgLyBHb29nbGUgLyBXM0MgLwogIE5pZWxzZW4gTm9ybWFuIC8gTWljcm9zb2Z0IOi/meS6m+e7hOe7h+WumueahOihjOS4muinhOiMg+OAggoKICDlt67liKvlvojlhbPplK7vvJoKICAgIOiLpeaYr+OAjOeUqOaIt+imgeaxguOAjeKGkiDnlKjmiLflj6/mlLkg4oaSIOWPr+aSpOmUgCDihpIg6L2vCiAgICDoi6XmmK/jgIzooYzkuJrmoIflh4bjgI3ihpIg6LCB6YO95pS55LiN5LqG77yI5YyF5ous55So5oi35ZKM5oiR77yJ4oaSIOWklumDqOmUmueCuSDihpIg56GsCgogIOaJgOS7peWug+avlOOAjOeUqOaIt+imgeaxguOAjeabtOW8uu+8muWug+aYr+aIkeS7rOS/qeWFseWQjOacjeS7jueahOS4nOilv+OAggoK5p2l5rqQ77yI6YCQ5p2h5Y+v5p+l77yJ77yaCiAgQXBwbGUgSElHICAgICAgICAgIGh0dHBzOi8vZGV2ZWxvcGVyLmFwcGxlLmNvbS9kZXNpZ24vaHVtYW4taW50ZXJmYWNlLWd1aWRlbGluZXMvCiAgTWF0ZXJpYWwgRGVzaWduIDMgIGh0dHBzOi8vbTMubWF0ZXJpYWwuaW8vCiAgV0NBRyAyLjIgICAgICAgICAgIGh0dHBzOi8vd3d3LnczLm9yZy9UUi9XQ0FHMjIvCiAgTmllbHNlbiBOb3JtYW4gR3JvdXAKICBNaWNyb3NvZnQgRmx1ZW50CiAgaHVtYW5zdGFuZGFyZHMub3JnIC9wZXJjZXB0aW9uL3Zpc2lvbgoKICAgIHB5dGhvbjMgc3RhbmRhcmRzLnB5IOWFqOmDqCAgICAgICMg5YiX5Ye65ZCE5a625YWs5Y+45a6a55qE5pWwCiAgICBweXRob24zIHN0YW5kYXJkcy5weSDmn6UgNDQgICAgICMg5p+l5p+Q5Liq5pWw6LCB5a6a55qECiAgICBweXRob24zIHN0YW5kYXJkcy5weSDoh6rmo4AgICAgICAjIOaLv+inhOiMg+ajgOafpeaIkeS7rOeahOmhtemdogoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHJlLCBoYXNobGliCgpST09UID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCgojIOavj+adoe+8muWAvCAvIOiwgeWumueahCAvIOWOn+aWh+S+neaNriAvIOWHuuWkhApTVEQgPSB7CiAgICAi6Kem5o6n55uu5qCHwrfmnIDlsI8iOiBbCiAgICAgICAgKDQ0LCAiQXBwbGUiLCAgICAgICJidXR0b25zIG5lZWQgYSBoaXQgcmVnaW9uIG9mIGF0IGxlYXN0IDQ0eDQ0IHB0IiwgIkhJRy9pT1MvY29udHJvbHMvYnV0dG9ucyIpLAogICAgICAgICg0NCwgIldDQUcgMi4yIiwgICAiU0MgMi41LjUgVGFyZ2V0IFNpemUgKEVuaGFuY2VkKSA0NHg0NCBDU1MgcHgiLCAiTGV2ZWwgQUFBIiksCiAgICAgICAgKDQ4LCAiR29vZ2xlIiwgICAgICJNYXRlcmlhbCBEZXNpZ24gMzogNDh4NDggZHAgKDctMTBtbSBwaHlzaWNhbCkiLCAibTMubWF0ZXJpYWwuaW8iKSwKICAgICAgICAoMjQsICJXQ0FHIDIuMiIsICAgIlNDIDIuNS44IFRhcmdldCBTaXplIChNaW5pbXVtKSAyNHgyNCBDU1MgcHgiLCAiTGV2ZWwgQUEiKSwKICAgICAgICAoMzgsICJOaWVsc2VuIiwgICAgIjFjbSB4IDFjbSAofjM4cHgpIHJlc2VhcmNoLWJhc2VkIiwgIk5OL2ciKSwKICAgICAgICAoNDAsICJNaWNyb3NvZnQiLCAgIkZsdWVudCB0b3VjaCA0MC00NHB4IiwgIkZsdWVudCIpLAogICAgXSwKICAgICLop6bmjqfpl7Tot53Ct+acgOWwjyI6IFsKICAgICAgICAoOCwgICJHb29nbGUiLCAgICJ3ZWIuZGV2OiDoh7PlsJEgOHB4IOmXtOi3ne+8iOi1t+i3s+WAvO+8iSIsICJ3ZWIuZGV2IiksCiAgICAgICAgKDEyLCAi5a6e6Le1IiwgICAgICAiNzJ0ZWNobm9sb2dpZXM6IDEycHQg6Ze06Led5oqK6K+v6Kem5LuOIDExJSDpmY3liLAgMiUiLCAi5a6e5rWLIHRlbGVtZXRyeSIpLAogICAgXSwKICAgICLkuK3lpK7lh7kiOiBbCiAgICAgICAgKDIsICAiaHVtYW5zdGFuZGFyZHMiLCAibmFycm93IGNvbmUgKH4ywrAgb2YgdmlzdWFsIGFuZ2xlKSIsICIvcGVyY2VwdGlvbi92aXNpb24iKSwKICAgICAgICAoMiwgICLnu7Tln7ov55Sf55CGIiwgICAgICAi5Lit5aSu5Ye557qmIDLCsO+8iOWPpuaciSAxwrAvNsKwIOivtOazle+8jOadpea6kOaJk+aetu+8iSIsICLlpJrmnaXmupAiKSwKICAgIF0sCiAgICAi5omr6KeGIjogWwogICAgICAgICgzLCAgImh1bWFuc3RhbmRhcmRzIiwgIk9jY3VyIDItNCB0aW1lcyBwZXIgc2Vjb25kIiwgIi9wZXJjZXB0aW9uL3Zpc2lvbiIpLAogICAgICAgICgzLCAgIuinhuinieWQjOebnyIsICAgICAgICLms6jop4bngrnku6Xmr4/np5LkuInmrKHot7PliqgiLCAidmlzaW9udW5pb24iKSwKICAgIF0sCiAgICAi5Y+N6aaI5bu26L+fwrfkuIrpmZBtcyI6IFsKICAgICAgICAoMTAwLCAi6YCa55SoIiwgIueCueWHu+WPjemmiCDiiaQxMDBtc++8jOWQpuWImemcgOW/meeijOaAge+8mzEwMG1zIOWGheaJjeeul+WboOaenCIsICLkuqTkupLlv4PnkIblrabml7bpl7TlupXnur8iKSwKICAgICAgICAoMTAwMCwi6YCa55SoIiwgIjFzIOWGheacquWujOaIkOmcgOi/m+W6puadoSIsICLlkIzkuIoiKSwKICAgICAgICAoMTAwMDAsIumAmueUqCIsIuWtkOS7u+WKoSDiiaQxMHPvvIzotoXkuobopoHmi4bmraXpqqQiLCAi5ZCM5LiKIiksCiAgICBdLAogICAgIuihjOWuvcK35a2X56ymIjogWwogICAgICAgICg4MCwgIldDQUcgMi4xIiwgIlNDIDEuNC44IOilv+aWhyA4MCDlrZfnrKbku6XlhoUiLCAiTGV2ZWwgQUFBIiksCiAgICAgICAgKDQwLCAiV0NBRyAyLjEiLCAiU0MgMS40Ljgg5Lit5pel6Z+pIDQwIOWtl+espuS7peWGhSIsICJMZXZlbCBBQUEiKSwKICAgICAgICAoNjYsICJCcmluZ2h1cnN0IiwgIuilv+aWh+eQhuaDsyA2NiDlrZfnrKbvvIg0NX43Ne+8iSIsICJUaGUgRWxlbWVudHMgb2YgVHlwb2dyYXBoaWMgU3R5bGUiKSwKICAgIF0sCiAgICAi5a2X57qnwrfmnIDlsI9weCI6IFsKICAgICAgICAoMTEsICJBcHBsZSIsICAgICAgIuaWh+acrOiHs+WwkSAxMSDlg4/ntKDvvIzmraPluLjop4bot53ml6DpnIDnvKnmlL4iLCAiSElHL3RpcHMiKSwKICAgICAgICAoMTYsICJHb29nbGUiLCAgICAgIk1hdGVyaWFsIDMgQm9keSBMYXJnZSAxNnNwIiwgIm0zLm1hdGVyaWFsLmlvIiksCiAgICAgICAgKDE4LCAiTWljcm9zb2Z0IiwgICJQb3dlclBvaW50IOaXoOmanOeije+8muWGheaWhyAxOHB0IOS7peS4iiIsICJNUyDml6Dpmpznoo3mjIfljZciKSwKICAgIF0sCiAgICAi5a+55q+U5bqmwrfmnIDlsI/mr5QiOiBbCiAgICAgICAgKDQuNSwgIldDQUcgMi4yIiwgIlNDIDEuNC4zIOWwj+WtlyA0LjU6MSIsICJMZXZlbCBBQSIpLAogICAgICAgICgzLjAsICJXQ0FHIDIuMiIsICJTQyAxLjQuMyDlpKflrZcgMzoxIiwgIkxldmVsIEFBIiksCiAgICAgICAgKDcuMCwgIldDQUcgMi4yIiwgIkFBQSDlsI/lrZcgNzoxIiwgIkxldmVsIEFBQSIpLAogICAgXSwKfQoKCmRlZiBzaG93X2FsbCgpOgogICAgcHJpbnQoIiAg6L+Z5Lqb5pWw5LiN5piv5oiR5a6a55qE77yM5Lmf5LiN5piv5L2g5a6a55qEIOKAlOKAlCDmmK/ov5nkupvmnLrmnoTlrprnmoTvvJpcbiIpCiAgICBmb3IgaywgdnMgaW4gU1RELml0ZW1zKCk6CiAgICAgICAgcHJpbnQoIiAg44CQJXPjgJEiICUgaykKICAgICAgICBmb3Igdiwgd2hvLCB3aHksIHNyYyBpbiB2czoKICAgICAgICAgICAgcHJpbnQoIiAgICAlLTEwcyAlLTE2cyAlcyIgJSAodiwgd2hvLCB3aHkpKQogICAgICAgIHByaW50KCkKCgpkZWYgZmluZCh2KToKICAgIHYgPSBmbG9hdCh2KQogICAgaGl0ID0gW10KICAgIGZvciBrLCB2cyBpbiBTVEQuaXRlbXMoKToKICAgICAgICBmb3IgdmFsLCB3aG8sIHdoeSwgc3JjIGluIHZzOgogICAgICAgICAgICBpZiBhYnMoZmxvYXQodmFsKSAtIHYpIDwgMWUtNjoKICAgICAgICAgICAgICAgIGhpdC5hcHBlbmQoKGssIHdobywgd2h5LCBzcmMpKQogICAgcHJpbnQoIiAg5p+lICVnIOKAlOKAlCAlZCDlpITlkb3kuK0iICUgKHYsIGxlbihoaXQpKSkKICAgIGZvciBrLCB3aG8sIHdoeSwgc3JjIGluIGhpdDoKICAgICAgICBwcmludCgiICAgIOOAkCVz44CRJXPvvJolc++8iCVz77yJIiAlIChrLCB3aG8sIHdoeSwgc3JjKSkKICAgIGlmIG5vdCBoaXQ6CiAgICAgICAgcHJpbnQoIiAgICDmsqHmnInmnLrmnoTnu5nov4fov5nkuKrmlbAg4oCU4oCUIOmCo+Wug+aYr+aIkeiHquW3seaLjeeahO+8jOS4jeeul+aVsCIpCgoKZGVmIGNoZWNrX2h0bWwocGF0aD1Ob25lKToKICAgICIiIuaLv+inhOiMg+ajgOafpeaIkeS7rOeahOmhtemdou+8muinpuaOp+ebruagh+OAgeWvueavlOW6piIiIgogICAgaW1wb3J0IHJlCiAgICBmaWxlcyA9IFtdCiAgICBmb3IgZiBpbiBvcy5saXN0ZGlyKG9zLnBhdGguam9pbihST09ULCAiZG9jcyIpKToKICAgICAgICBpZiBmLmVuZHN3aXRoKCIuaHRtbCIpOgogICAgICAgICAgICBmaWxlcy5hcHBlbmQob3MucGF0aC5qb2luKFJPT1QsICJkb2NzIiwgZikpCiAgICBwcmludCgiICDmi7/lhazlj7jop4TojIPmo4Dmn6UgZG9jcy8g5LiLICVkIOS4qumhtemdou+8mlxuIiAlIGxlbihmaWxlcykpCiAgICBpc3N1ZXMgPSAwCiAgICBmb3IgcCBpbiBzb3J0ZWQoZmlsZXMpOgogICAgICAgIHMgPSBvcGVuKHAsIGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0iaWdub3JlIikucmVhZCgpCiAgICAgICAgbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUocCkKICAgICAgICAjIOinpuaOp+ebruagh++8muaJviBwYWRkaW5nIOWwj+S6jiA4cHgg55qE5Y+v54K55YWD57Sg77yI57KX5p+l77yJCiAgICAgICAgc21hbGwgPSByZS5maW5kYWxsKHIncGFkZGluZ1xzKjpccyooXGQrKXB4JywgcykKICAgICAgICB0aW55ID0gW2ludCh4KSBmb3IgeCBpbiBzbWFsbCBpZiBpbnQoeCkgPCA4XQogICAgICAgICMg5a+55q+U5bqm77ya5om+54Gw6Imy5paH5a2X77yIIzhhOGE4YSDkuYvnsbvvvIkKICAgICAgICBncmV5cyA9IHNldChyZS5maW5kYWxsKHInIyhbMC05YS1mQS1GXXs2fSknLCBzKSkKICAgICAgICBsb3cgPSBbXQogICAgICAgIGZvciBnIGluIGdyZXlzOgogICAgICAgICAgICByLCBnZywgYiA9IGludChnWzA6Ml0sIDE2KSwgaW50KGdbMjo0XSwgMTYpLCBpbnQoZ1s0OjZdLCAxNikKICAgICAgICAgICAgTCA9IDAuMjEyNiAqIHIgKyAwLjcxNTIgKiBnZyArIDAuMDcyMiAqIGIKICAgICAgICAgICAgaWYgNjAgPCBMIDwgMTYwOiAgICAgICMg5Lit6Ze054Gw77yM5a655piT5LiN6L6+5qCHCiAgICAgICAgICAgICAgICBsb3cuYXBwZW5kKGcpCiAgICAgICAgZmxhZyA9ICIiCiAgICAgICAgaWYgdGlueToKICAgICAgICAgICAgZmxhZyArPSAiIOmXtOi3nTw4cHg6JWTlpIQiICUgbGVuKHRpbnkpOyBpc3N1ZXMgKz0gbGVuKHRpbnkpCiAgICAgICAgaWYgbG93OgogICAgICAgICAgICBmbGFnICs9ICIg5Lit6Ze054GwOiVk6ImyIiAlIGxlbihsb3cpCiAgICAgICAgcHJpbnQoIiAgICAlLTE4cyAlcyIgJSAobmFtZSwgZmxhZyBvciAib2siKSkKICAgIHByaW50KCJcbiAg5rOo77ya6L+Z5piv5q2j5YiZ57KX5p+l77yM5LiN5piv55yf5riy5p+T5qOA5rWL44CC5Yik5o2u5YWs5byA77yM5Y+v5o6o57+744CCIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgY21kID0gc3lzLmFyZ3ZbMV0gaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAi5YWo6YOoIgogICAgaWYgY21kID09ICLmn6UiOgogICAgICAgIGZpbmQoc3lzLmFyZ3ZbMl0gaWYgbGVuKHN5cy5hcmd2KSA+IDIgZWxzZSA0NCkKICAgIGVsaWYgY21kID09ICLoh6rmo4AiOgogICAgICAgIGNoZWNrX2h0bWwoKQogICAgZWxzZToKICAgICAgICBzaG93X2FsbCgpCg==
+# -*- coding: utf-8 -*-
+"""
+外部标准 —— 不是用户要求，是软件公司定的。
+
+归属纠正（重要）：
+  上一版 SPEC.md 我把感官参数写成「用户规格，要改只能用户改」。
+  这是错的。这些参数不是任何个人定的，是 Apple / Google / W3C /
+  Nielsen Norman / Microsoft 这些组织定的行业规范。
+
+  差别很关键：
+    若是「用户要求」→ 用户可改 → 可撤销 → 软
+    若是「行业标准」→ 谁都改不了（包括用户和我）→ 外部锚点 → 硬
+
+  所以它比「用户要求」更强：它是我们俩共同服从的东西。
+
+来源（逐条可查）：
+  Apple HIG          https://developer.apple.com/design/human-interface-guidelines/
+  Material Design 3  https://m3.material.io/
+  WCAG 2.2           https://www.w3.org/TR/WCAG22/
+  Nielsen Norman Group
+  Microsoft Fluent
+  humanstandards.org /perception/vision
+
+    python3 standards.py 全部      # 列出各家公司定的数
+    python3 standards.py 查 44     # 查某个数谁定的
+    python3 standards.py 自检      # 拿规范检查我们的页面
+"""
+import os, sys, json, re, hashlib
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+
+# 每条：值 / 谁定的 / 原文依据 / 出处
+STD = {
+    "触控目标·最小": [
+        (44, "Apple",      "buttons need a hit region of at least 44x44 pt", "HIG/iOS/controls/buttons"),
+        (44, "WCAG 2.2",   "SC 2.5.5 Target Size (Enhanced) 44x44 CSS px", "Level AAA"),
+        (48, "Google",     "Material Design 3: 48x48 dp (7-10mm physical)", "m3.material.io"),
+        (24, "WCAG 2.2",   "SC 2.5.8 Target Size (Minimum) 24x24 CSS px", "Level AA"),
+        (38, "Nielsen",    "1cm x 1cm (~38px) research-based", "NN/g"),
+        (40, "Microsoft",  "Fluent touch 40-44px", "Fluent"),
+    ],
+    "触控间距·最小": [
+        (8,  "Google",   "web.dev: 至少 8px 间距（起跳值）", "web.dev"),
+        (12, "实践",      "72technologies: 12pt 间距把误触从 11% 降到 2%", "实测 telemetry"),
+    ],
+    "中央凹": [
+        (2,  "humanstandards", "narrow cone (~2° of visual angle)", "/perception/vision"),
+        (2,  "维基/生理",      "中央凹约 2°（另有 1°/6° 说法，来源打架）", "多来源"),
+    ],
+    "扫视": [
+        (3,  "humanstandards", "Occur 2-4 times per second", "/perception/vision"),
+        (3,  "视觉同盟",       "注视点以每秒三次跳动", "visionunion"),
+    ],
+    "反馈延迟·上限ms": [
+        (100, "通用", "点击反馈 ≤100ms，否则需忙碌态；100ms 内才算因果", "交互心理学时间底线"),
+        (1000,"通用", "1s 内未完成需进度条", "同上"),
+        (10000,"通用","子任务 ≤10s，超了要拆步骤", "同上"),
+    ],
+    "行宽·字符": [
+        (80, "WCAG 2.1", "SC 1.4.8 西文 80 字符以内", "Level AAA"),
+        (40, "WCAG 2.1", "SC 1.4.8 中日韩 40 字符以内", "Level AAA"),
+        (66, "Bringhurst", "西文理想 66 字符（45~75）", "The Elements of Typographic Style"),
+    ],
+    "字级·最小px": [
+        (11, "Apple",      "文本至少 11 像素，正常视距无需缩放", "HIG/tips"),
+        (16, "Google",     "Material 3 Body Large 16sp", "m3.material.io"),
+        (18, "Microsoft",  "PowerPoint 无障碍：内文 18pt 以上", "MS 无障碍指南"),
+    ],
+    "对比度·最小比": [
+        (4.5, "WCAG 2.2", "SC 1.4.3 小字 4.5:1", "Level AA"),
+        (3.0, "WCAG 2.2", "SC 1.4.3 大字 3:1", "Level AA"),
+        (7.0, "WCAG 2.2", "AAA 小字 7:1", "Level AAA"),
+    ],
+}
+
+
+def show_all():
+    print("  这些数不是我定的，也不是你定的 —— 是这些机构定的：\n")
+    for k, vs in STD.items():
+        print("  【%s】" % k)
+        for v, who, why, src in vs:
+            print("    %-10s %-16s %s" % (v, who, why))
+        print()
+
+
+def find(v):
+    v = float(v)
+    hit = []
+    for k, vs in STD.items():
+        for val, who, why, src in vs:
+            if abs(float(val) - v) < 1e-6:
+                hit.append((k, who, why, src))
+    print("  查 %g —— %d 处命中" % (v, len(hit)))
+    for k, who, why, src in hit:
+        print("    【%s】%s：%s（%s）" % (k, who, why, src))
+    if not hit:
+        print("    没有机构给过这个数 —— 那它是我自己拍的，不算数")
+
+
+def check_html(path=None):
+    """拿规范检查我们的页面：触控目标、对比度"""
+    import re
+    files = []
+    for f in os.listdir(os.path.join(ROOT, "docs")):
+        if f.endswith(".html"):
+            files.append(os.path.join(ROOT, "docs", f))
+    print("  拿公司规范检查 docs/ 下 %d 个页面：\n" % len(files))
+    issues = 0
+    for p in sorted(files):
+        s = open(p, encoding="utf-8", errors="ignore").read()
+        name = os.path.basename(p)
+        # 触控目标：找 padding 小于 8px 的可点元素（粗查）
+        small = re.findall(r'padding\s*:\s*(\d+)px', s)
+        tiny = [int(x) for x in small if int(x) < 8]
+        # 对比度：找灰色文字（#8a8a8a 之类）
+        greys = set(re.findall(r'#([0-9a-fA-F]{6})', s))
+        low = []
+        for g in greys:
+            r, gg, b = int(g[0:2], 16), int(g[2:4], 16), int(g[4:6], 16)
+            L = 0.2126 * r + 0.7152 * gg + 0.0722 * b
+            if 60 < L < 160:      # 中间灰，容易不达标
+                low.append(g)
+        flag = ""
+        if tiny:
+            flag += " 间距<8px:%d处" % len(tiny); issues += len(tiny)
+        if low:
+            flag += " 中间灰:%d色" % len(low)
+        print("    %-18s %s" % (name, flag or "ok"))
+    print("\n  注：这是正则粗查，不是真渲染检测。判据公开，可推翻。")
+
+
+if __name__ == "__main__":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "全部"
+    if cmd == "查":
+        find(sys.argv[2] if len(sys.argv) > 2 else 44)
+    elif cmd == "自检":
+        check_html()
+    else:
+        show_all()

@@ -1,1 +1,19 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIFRBQ1Qg5bel5YW35YyF55uu5b2V5YaZ5YWl55uR5o6n77yI5rqv5rqQ55So77yJCiMg55So6YCU77ya5a6e5pe25oqTIuiwgeWcqOWGmeWPl+aOp+aWh+S7tiLvvIzplIHlrprlm57mu5rmupDlpLTjgIIKIyDnlKjms5XvvJpndWFyZC93YXRjaC5zaCBb56eS5pWwXSAgIO+8iOm7mOiupOebkeaOpyAxMjAg56eS77yMQ3RybC1DIOe7k+adn++8iQojIOS+nei1lu+8mmlub3RpZnl3YWl077yI6Iul5pyq5a6J6KOF77yM55SoIGxzb2YvcHMg5omL5Yqo5rqv5rqQ77yM6KeBIGd1YXJkL1JFQURNRS5tZO+8iQpzZXQgLWUKRElSPSIkKGNkICIkKGRpcm5hbWUgIiR7QkFTSF9TT1VSQ0VbMF19IikvLi4iICYmIHB3ZCkiCkRVUj0iJHsxOi0xMjB9IgppZiAhIGNvbW1hbmQgLXYgaW5vdGlmeXdhaXQgPi9kZXYvbnVsbCAyPiYxOyB0aGVuCiAgZWNobyAiWyFdIOacquWuieijhSBpbm90aWZ5d2FpdOOAguWPr+eUqOabv+S7o++8miIKICBlY2hvICIgICAgd2F0Y2ggLW4xICdsc29mICtEICRESVInIgogIGVjaG8gIiAgICBwcyBhdXggfCBncmVwIC1pRSAndGFjdHxyZXN0b3JlfGJhY2t1cCciCiAgZXhpdCAxCmZpCmVjaG8gIuebkeaOpyAkRElSIOS4i+WPl+aOp+aWh+S7tuWGmeWFpSAke0RVUn1z77yI5Lu75L2V5YaZ5pON5L2c5Lya5omT5Y2w5pe26Ze05LiOIFBJRO+8m0N0cmwtQyDmj5DliY3nu5PmnZ/vvIkuLi4iCmlub3RpZnl3YWl0IC1tIC1yIC0tdGltZWZtdCAnJUg6JU06JVMnIC0tZm9ybWF0ICdbJVRdICV3JWYgJWUgKHBpZD0lcCBjbWQ9JWMpJyBcCiAgLWUgbW9kaWZ5LGNsb3NlX3dyaXRlLGNyZWF0ZSxtb3ZlLGRlbGV0ZSAiJERJUiIgLS10aW1lb3V0ICIkRFVSIiAyPi9kZXYvbnVsbCBcCiAgfCBncmVwIC12RSAnXC5naXQvJyBcCiAgfHwgZWNobyAi77yIJHtEVVJ9cyDlhoXml6Dlj5fmjqfmlofku7blhpnlhaXvvIkiCg==
+#!/usr/bin/env bash
+# TACT 工具包目录写入监控（溯源用）
+# 用途：实时抓"谁在写受控文件"，锁定回滚源头。
+# 用法：guard/watch.sh [秒数]   （默认监控 120 秒，Ctrl-C 结束）
+# 依赖：inotifywait（若未安装，用 lsof/ps 手动溯源，见 guard/README.md）
+set -e
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+DUR="${1:-120}"
+if ! command -v inotifywait >/dev/null 2>&1; then
+  echo "[!] 未安装 inotifywait。可用替代："
+  echo "    watch -n1 'lsof +D $DIR'"
+  echo "    ps aux | grep -iE 'tact|restore|backup'"
+  exit 1
+fi
+echo "监控 $DIR 下受控文件写入 ${DUR}s（任何写操作会打印时间与 PID；Ctrl-C 提前结束）..."
+inotifywait -m -r --timefmt '%H:%M:%S' --format '[%T] %w%f %e (pid=%p cmd=%c)' \
+  -e modify,close_write,create,move,delete "$DIR" --timeout "$DUR" 2>/dev/null \
+  | grep -vE '\.git/' \
+  || echo "（${DUR}s 内无受控文件写入）"

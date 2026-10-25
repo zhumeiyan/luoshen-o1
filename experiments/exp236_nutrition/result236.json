@@ -1,1 +1,90 @@
-ewogImRlbWFuZD0wLjIiOiB7CiAgIkwiOiAxLjAsCiAgIkQiOiAwLjAsCiAgIkEiOiAwLjAsCiAgInEiOiAxLjAsCiAgInJobyI6IDAuMAogfSwKICJkZW1hbmQ9MC41IjogewogICJMIjogMS4wLAogICJEIjogMC4wLAogICJBIjogMC4wLAogICJxIjogMS4wLAogICJyaG8iOiAwLjAKIH0sCiAiZGVtYW5kPTAuOCI6IHsKICAiTCI6IDEuMCwKICAiRCI6IDAuMCwKICAiQSI6IDAuMCwKICAicSI6IDEuMCwKICAicmhvIjogMC4wCiB9LAogImRlbWFuZD0xLjAiOiB7CiAgIkwiOiAxLjAsCiAgIkQiOiAwLjAsCiAgIkEiOiAwLjAsCiAgInEiOiAxLjAsCiAgInJobyI6IDAuMAogfSwKICJkZW1hbmQ9MS41IjogewogICJMIjogMC42NjcsCiAgIkQiOiAwLjE3OSwKICAiQSI6IDAuMTU1LAogICJxIjogMC44NDEsCiAgInJobyI6IDAuMTU1CiB9LAogImRlbWFuZD0yLjAiOiB7CiAgIkwiOiAwLjUsCiAgIkQiOiAwLjE4MywKICAiQSI6IDAuMzE3LAogICJxIjogMC42NzYsCiAgInJobyI6IDAuMzE3CiB9LAogImRlbWFuZD0zLjAiOiB7CiAgIkwiOiAwLjMzMywKICAiRCI6IDAuMTU0LAogICJBIjogMC41MTIsCiAgInEiOiAwLjQ4MSwKICAicmhvIjogMC41MTIKIH0sCiAiZGVtYW5kPTUuMCI6IHsKICAiTCI6IDAuMiwKICAiRCI6IDAuMDkzLAogICJBIjogMC43MDcsCiAgInEiOiAwLjI4OCwKICAicmhvIjogMC43MDcKIH0sCiAiaW5zcGVjdD0wLjAwIjogewogICJxIjogMC41MDQsCiAgIkQiOiAwLjE4MwogfSwKICJpbnNwZWN0PTAuMjUiOiB7CiAgInEiOiAwLjU0NywKICAiRCI6IDAuMTgzCiB9LAogImluc3BlY3Q9MC41MCI6IHsKICAicSI6IDAuNTksCiAgIkQiOiAwLjE4MwogfSwKICJpbnNwZWN0PTAuNzUiOiB7CiAgInEiOiAwLjYzMywKICAiRCI6IDAuMTgzCiB9LAogImluc3BlY3Q9MS4wMCI6IHsKICAicSI6IDAuNjc2LAogICJEIjogMC4xODMKIH0sCiAic3RvY2s9MCI6IHsKICAicSI6IDAuNSwKICAiQSI6IDAuNQogfSwKICJzdG9jaz0yMDAiOiB7CiAgInEiOiAwLjY3NiwKICAiQSI6IDAuMzE3CiB9LAogInN0b2NrPTIwMDAiOiB7CiAgInEiOiAwLjkyNSwKICAiQSI6IDAuMAogfQp9
+{
+ "demand=0.2": {
+  "L": 1.0,
+  "D": 0.0,
+  "A": 0.0,
+  "q": 1.0,
+  "rho": 0.0
+ },
+ "demand=0.5": {
+  "L": 1.0,
+  "D": 0.0,
+  "A": 0.0,
+  "q": 1.0,
+  "rho": 0.0
+ },
+ "demand=0.8": {
+  "L": 1.0,
+  "D": 0.0,
+  "A": 0.0,
+  "q": 1.0,
+  "rho": 0.0
+ },
+ "demand=1.0": {
+  "L": 1.0,
+  "D": 0.0,
+  "A": 0.0,
+  "q": 1.0,
+  "rho": 0.0
+ },
+ "demand=1.5": {
+  "L": 0.667,
+  "D": 0.179,
+  "A": 0.155,
+  "q": 0.841,
+  "rho": 0.155
+ },
+ "demand=2.0": {
+  "L": 0.5,
+  "D": 0.183,
+  "A": 0.317,
+  "q": 0.676,
+  "rho": 0.317
+ },
+ "demand=3.0": {
+  "L": 0.333,
+  "D": 0.154,
+  "A": 0.512,
+  "q": 0.481,
+  "rho": 0.512
+ },
+ "demand=5.0": {
+  "L": 0.2,
+  "D": 0.093,
+  "A": 0.707,
+  "q": 0.288,
+  "rho": 0.707
+ },
+ "inspect=0.00": {
+  "q": 0.504,
+  "D": 0.183
+ },
+ "inspect=0.25": {
+  "q": 0.547,
+  "D": 0.183
+ },
+ "inspect=0.50": {
+  "q": 0.59,
+  "D": 0.183
+ },
+ "inspect=0.75": {
+  "q": 0.633,
+  "D": 0.183
+ },
+ "inspect=1.00": {
+  "q": 0.676,
+  "D": 0.183
+ },
+ "stock=0": {
+  "q": 0.5,
+  "A": 0.5
+ },
+ "stock=200": {
+  "q": 0.676,
+  "A": 0.317
+ },
+ "stock=2000": {
+  "q": 0.925,
+  "A": 0.0
+ }
+}

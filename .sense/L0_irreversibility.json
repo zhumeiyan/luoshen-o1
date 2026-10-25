@@ -1,1 +1,46 @@
-ewogIm9yaWdfc2FtZSI6IHRydWUsCiAibDBfc2FtZSI6IGZhbHNlLAogImFnaW5nX3Jvd3MiOiBbCiAgewogICAiYWdpbmciOiAwLjAsCiAgICJhbGl2ZSI6IDQwLAogICAiY2FwIjogMC40NDI5OTY3MTk0NzI5MTkxMwogIH0sCiAgewogICAiYWdpbmciOiAwLjAwMDUsCiAgICJhbGl2ZSI6IDQwLAogICAiY2FwIjogMC4zOTU5NzMxNjIwODg5OTMxNAogIH0sCiAgewogICAiYWdpbmciOiAwLjAwMSwKICAgImFsaXZlIjogNDAsCiAgICJjYXAiOiAwLjM1NjcyNTg2NjkxODQyMDUKICB9LAogIHsKICAgImFnaW5nIjogMC4wMDIsCiAgICJhbGl2ZSI6IDQwLAogICAiY2FwIjogMC4yODE5ODY5MDY0Mzg3MTA1NQogIH0sCiAgewogICAiYWdpbmciOiAwLjAwNSwKICAgImFsaXZlIjogNDAsCiAgICJjYXAiOiAwLjE1MTA0NDI4MjQ3MzExMjcKICB9LAogIHsKICAgImFnaW5nIjogMC4wMSwKICAgImFsaXZlIjogNDAsCiAgICJjYXAiOiAwLjE1CiAgfSwKICB7CiAgICJhZ2luZyI6IDAuMDIsCiAgICJhbGl2ZSI6IDQwLAogICAiY2FwIjogMC4xNQogIH0KIF0sCiAib2siOiB7CiAgIuKRoCDljp/niYjlj6/pgIbvvIjmmrTpnLLnvLrpmbfvvIkiOiB0cnVlLAogICLikaEg6KOFTDDlkI7kuI3lj6/pgIbmiJDnq4siOiB0cnVlLAogICLikaIg5a2Y5Zyo6ICB5YyW5LiL5LuN5a2Y5rS755qE5Yy66Ze0IjogdHJ1ZQogfQp9
+{
+ "orig_same": true,
+ "l0_same": false,
+ "aging_rows": [
+  {
+   "aging": 0.0,
+   "alive": 40,
+   "cap": 0.44299671947291913
+  },
+  {
+   "aging": 0.0005,
+   "alive": 40,
+   "cap": 0.39597316208899314
+  },
+  {
+   "aging": 0.001,
+   "alive": 40,
+   "cap": 0.3567258669184205
+  },
+  {
+   "aging": 0.002,
+   "alive": 40,
+   "cap": 0.28198690643871055
+  },
+  {
+   "aging": 0.005,
+   "alive": 40,
+   "cap": 0.1510442824731127
+  },
+  {
+   "aging": 0.01,
+   "alive": 40,
+   "cap": 0.15
+  },
+  {
+   "aging": 0.02,
+   "alive": 40,
+   "cap": 0.15
+  }
+ ],
+ "ok": {
+  "① 原版可逆（暴露缺陷）": true,
+  "② 装L0后不可逆成立": true,
+  "③ 存在老化下仍存活的区间": true
+ }
+}

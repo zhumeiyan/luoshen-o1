@@ -1,1 +1,189 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHBsYXRmb3JtCmltcG9ydCBzeXMKCmZyb20gUElMIGltcG9ydCBJbWFnZUZpbGUKZnJvbSBQeVF0Ni5RdENvcmUgaW1wb3J0IFF0CmZyb20gUHlRdDYuUXRHdWkgaW1wb3J0IFFJY29uCmZyb20gUHlRdDYuUXRXaWRnZXRzIGltcG9ydCBRQXBwbGljYXRpb24KCmZyb20gbWRjeC5jb25zdHMgaW1wb3J0IElTX0RPQ0tFUiwgSVNfTUFDLCBJU19ORkMsIElTX1BZSU5TVEFMTEVSLCBJU19XSU5ET1dTLCBNQUlOX1BBVEgKZnJvbSBtZGN4LmNvbnRyb2xsZXJzLm1haW5fd2luZG93Lm1haW5fd2luZG93IGltcG9ydCBNeU1BaW5XaW5kb3cKZnJvbSBtZGN4LmNvcmUudG1kYl9hY3RvciBpbXBvcnQgZmx1c2hfdG1kYl9xdWVyeV9jYWNoZQpmcm9tIG1kY3gudWlfdGhlbWUgaW1wb3J0IGFwcGx5X2FwcGxpY2F0aW9uX3BhbGV0dGUKZnJvbSBtZGN4LnV0aWxzLnZpZGVvIGltcG9ydCBnZXRfdmlkZW9fYmFja2VuZAoKSW1hZ2VGaWxlLkxPQURfVFJVTkNBVEVEX0lNQUdFUyA9IFRydWUKCgpkZWYgX2FwcGx5X3VpX3NjYWxlX2ZhY3RvcigpOgogICAgIiIi6K+75Y+W55So5oi36YWN572u55qEIFVJIOe8qeaUvuavlOS+i+W5tuW6lOeUqOWIsCBRVF9TQ0FMRV9GQUNUT1LjgIIKCiAgICDlnKggbWFpbigpIOaXqeacn+aJp+ihjO+8jOaWh+S7tuS4jeWPr+ivuy/op6PmnpDlpLHotKXlnYfkuI3lupTpmLvmlq3lkK/liqjjgIIKICAgICIiIgogICAgdHJ5OgogICAgICAgIG1hcmtfZmlsZSA9IE1BSU5fUEFUSCAvICJNREN4LmNvbmZpZyIKICAgICAgICBpZiBub3QgbWFya19maWxlLmlzX2ZpbGUoKToKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgcmF3ID0gbWFya19maWxlLnJlYWRfYnl0ZXMoKQogICAgICAgIGNvbmZpZ19wYXRoID0gIiIKICAgICAgICBmb3IgZW5jIGluICgidXRmLTgiLCAiZ2JrIiwgImdiMjMxMiIsICJjcDkzNiIpOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBjb25maWdfcGF0aCA9IHJhdy5kZWNvZGUoZW5jKS5zdHJpcCgpCiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBleGNlcHQgVW5pY29kZURlY29kZUVycm9yOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBub3QgY29uZmlnX3BhdGg6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIGlmIG5vdCBjb25maWdfcGF0aCBvciBub3Qgb3MucGF0aC5pc2ZpbGUoY29uZmlnX3BhdGgpOgogICAgICAgICAgICByZXR1cm4KICAgICAgICB3aXRoIG9wZW4oY29uZmlnX3BhdGgsIGVuY29kaW5nPSJVVEYtOCIpIGFzIGY6CiAgICAgICAgICAgIGNvbmZpZyA9IGpzb24ubG9hZChmKQogICAgICAgIHNjYWxlID0gY29uZmlnLmdldCgidWlfc2NhbGVfZmFjdG9yIiwgMC4wKQogICAgICAgIGlmIHNjYWxlID4gMDoKICAgICAgICAgICAgb3MuZW52aXJvblsiUVRfU0NBTEVfRkFDVE9SIl0gPSBzdHIoc2NhbGUpCiAgICBleGNlcHQgKE9TRXJyb3IsIGpzb24uSlNPTkRlY29kZUVycm9yLCBWYWx1ZUVycm9yKSBhcyBlOgogICAgICAgIHByaW50KGYiW3dhcm5dIF9hcHBseV91aV9zY2FsZV9mYWN0b3Igc2tpcHBlZDoge2V9IikKCgpkZWYgc2hvd19jb25zdGFudHMoKToKICAgICIiIuaYvuekuuaJgOaciei/kOihjOaXtuW4uOmHjyIiIgogICAgY29uc3RhbnRzID0gewogICAgICAgICJNQUlOX1BBVEgiOiBNQUlOX1BBVEgsCiAgICAgICAgIklTX1dJTkRPV1MiOiBJU19XSU5ET1dTLAogICAgICAgICJJU19NQUMiOiBJU19NQUMsCiAgICAgICAgIklTX0RPQ0tFUiI6IElTX0RPQ0tFUiwKICAgICAgICAiSVNfTkZDIjogSVNfTkZDLAogICAgICAgICJJU19QWUlOU1RBTExFUiI6IElTX1BZSU5TVEFMTEVSLAogICAgICAgICJWSURFT19CQUNLRU5EIjogZ2V0X3ZpZGVvX2JhY2tlbmQoKSwKICAgIH0KICAgIHByaW50KCJSdW4gdGltZSBjb25zdGFudHM6IikKICAgIGZvciBrZXksIHZhbHVlIGluIGNvbnN0YW50cy5pdGVtcygpOgogICAgICAgIHByaW50KGYiXHR7a2V5fToge3ZhbHVlfSIpCgoKZGVmIF9jcmVhdGVfYXBwbGljYXRpb24oKSAtPiB0dXBsZVtRQXBwbGljYXRpb24sIE15TUFpbldpbmRvd106CiAgICAjIFF0NiDpu5jorqTmiorpnZ7mlbTmlbDns7vnu5/nvKnmlL7vvIhXaW5kb3dzIDEyNSUvMTUwJSDnrYnvvInlj5bmlbTliLDmlbTmlbDlgI3vvIzlr7zoh7TnlYzpnaLmqKHns4rmiJbov4flpKfvvJsKICAgICMgUGFzc1Rocm91Z2gg5L+d55WZ55yf5a6e57yp5pS+5Zug5a2Q77yM6YWN5ZCIIHVpX3NjYWxlX2ZhY3RvciDphY3nva7pobnlt6XkvZzmraPluLjjgIIKICAgIFFBcHBsaWNhdGlvbi5zZXRIaWdoRHBpU2NhbGVGYWN0b3JSb3VuZGluZ1BvbGljeShRdC5IaWdoRHBpU2NhbGVGYWN0b3JSb3VuZGluZ1BvbGljeS5QYXNzVGhyb3VnaCkKCiAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCiAgICAjIOiurumimCAjMTU577yaUXQg6buY6K6k5Zyo44CM5pyA5ZCO5LiA5Liq5Y+v6KeB6aG25bGC56qX5Y+j44CN6KKr5YWz6Zet5pe26Ieq5Yqo6YCA5Ye677yb5Li756qX57uP5omY55uYCiAgICAjIOmakOiXj+WQjuS4jeWGjeiuoeWFpeWPr+ingeeql+WPo++8jOatpOaXtuWFs+mXrea8lOWRmOeuoeeQhuWZqO+8iOaXoOeItue6p+OAgemdnuaooeaAgemhtuWxgueql+WPo++8ieS8mgogICAgIyDnm7TmjqXngrjmjonmlbTkuKrov5vnqIvjgILmiZjnm5jpqbvnlZnlupTnlKjnmoTpgIDlh7rkuI3lupTnlLHku7vmhI/lt6Xlhbfnqpflj6PpqbHliqjvvIzpgIDlh7rnu5/kuIAKICAgICMg6LWw5Li756qXIGV4aXRfYXBwKCkv5omY55uY6I+c5Y2V55qE5pi+5byPIFFBcHBsaWNhdGlvbi5xdWl0KCnjgIIKICAgIGFwcC5zZXRRdWl0T25MYXN0V2luZG93Q2xvc2VkKEZhbHNlKQogICAgaWYgcGxhdGZvcm0uc3lzdGVtKCkgIT0gIldpbmRvd3MiOgogICAgICAgIGFwcC5zZXRTdHlsZSgiRnVzaW9uIikKICAgIGFwcGx5X2FwcGxpY2F0aW9uX3BhbGV0dGUoRmFsc2UpCiAgICBpZiBwbGF0Zm9ybS5zeXN0ZW0oKSAhPSAiV2luZG93cyI6CiAgICAgICAgIyDnlKggcmVzb3VyY2VzLmljb25faWNv77yI5bey5aSE55CGIFB5SW5zdGFsbGVyIF9NRUlQQVNT77yJ6ICM6Z2e55u45a+5IENXRCDot6/lvoTvvIwKICAgICAgICAjIOWQpuWImeWGu+e7k+WMheWPjOWHu+i/kOihjOaXtiBDV0Qg5LiN5ZCM5Lya5Lii5Lu75Yqh5qCP5Zu+5qCH44CCCiAgICAgICAgZnJvbSBtZGN4LmNvbmZpZy5yZXNvdXJjZXMgaW1wb3J0IHJlc291cmNlcwoKICAgICAgICBhcHAuc2V0V2luZG93SWNvbihRSWNvbihyZXNvdXJjZXMuaWNvbl9pY28pKSAgIyDorr7nva7ku7vliqHmoI/lm77moIcKCiAgICB1aSA9IE15TUFpbldpbmRvdygpCiAgICB1aS5zaG93KCkKICAgIGFwcC5pbnN0YWxsRXZlbnRGaWx0ZXIodWkpCiAgICByZXR1cm4gYXBwLCB1aQoKCmRlZiBfZW5hYmxlX2NyYXNoX2R1bXAoKSAtPiBOb25lOgogICAgIiIi5rOo5YaM5bSp5rqD6L2s5YKo77yaUHl0aG9uIOW8guW4uCB0cmFjZWJhY2sg5YaZ5YWlIE1BSU5fUEFUSC9jcmFzaC8g55uu5b2V44CCCgogICAg55So5LqO6K+K5pat56iL5bqP6Z2Z6buY6YCA5Ye655qE6Zeu6aKY44CC5LuF6K+K5pat55So77yM5aSx6LSl5LiN6Zi75pat5ZCv5Yqo44CCCiAgICBjcmFzaCDnm67lvZXku4XlnKjnqIvluo/lrp7pmYXltKnmuoPml7bmiY3liJvlu7rvvIzmraPluLjov5DooYzml7bkuI3kuqfnlJ/ku7vkvZXmlofku7bjgIIKICAgICIiIgogICAgdHJ5OgogICAgICAgIGltcG9ydCB0cmFjZWJhY2sgYXMgX3RiCiAgICAgICAgZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKCiAgICAgICAgdHMgPSBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJVklbSVkXyVIJU0lUyIpCgogICAgICAgICMgQyDlsYLltKnmuoMgKHNlZ2ZhdWx0KSDloIbmoIjvvJrlsJ3or5XlkK/nlKjvvIzml6Agc3RkZXJyIOaXtumdmem7mOi3s+i/hwogICAgICAgICMg77yI5omT5YyFIHdpbmRvd2VkIOaooeW8j+S4iyBzeXMuc3RkZXJyIOWPr+iDveS4jeWPr+eUqO+8jHNlZ2ZhdWx0IOWghuagiOaXoOazleiQveebmO+8iQogICAgICAgIHRyeToKICAgICAgICAgICAgaW1wb3J0IGZhdWx0aGFuZGxlcgoKICAgICAgICAgICAgZmF1bHRoYW5kbGVyLmVuYWJsZSgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcGFzcwoKICAgICAgICAjIFB5dGhvbiDmnKrmjZXojrflvILluLjvvJrltKnmuoPml7bmiY3mh5LliJvlu7rnm67lvZXlkozmlofku7YKICAgICAgICBkZWYgX2hvb2soZXR5cGUsIGV2YWx1ZSwgZXRiKToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdGV4dCA9ICIiLmpvaW4oX3RiLmZvcm1hdF9leGNlcHRpb24oZXR5cGUsIGV2YWx1ZSwgZXRiKSkKICAgICAgICAgICAgICAgIGNyYXNoX2RpciA9IE1BSU5fUEFUSCAvICJjcmFzaCIKICAgICAgICAgICAgICAgIGNyYXNoX2Rpci5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oY3Jhc2hfZGlyIC8gZiJjcmFzaF97dHN9X3B5LmxvZyIsICJhIiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgICAgICAgICBmLndyaXRlKHRleHQpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHN5cy5fX2V4Y2VwdGhvb2tfXyhldHlwZSwgZXZhbHVlLCBldGIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBwYXNzCgogICAgICAgIHN5cy5leGNlcHRob29rID0gX2hvb2sKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcGFzcwoKCmRlZiBfZW5zdXJlX3N0ZGlvKCkgLT4gTm9uZToKICAgICIiIlB5SW5zdGFsbGVyIHdpbmRvd2VkIOaooeW8j+S4iyBzeXMuc3Rkb3V0L3N0ZGVyciDlj6/og73kuLogTm9uZe+8jOWvvOiHtCBwcmludCgpIOW0qea6g+OAggoKICAgIOmHjeWumuWQkeWIsCBkZXZudWxs77yI5LiN5Yib5bu65Lu75L2V5paH5Lu277yJ77yMZXhjZXB0aG9vayDku43og73lnKjltKnmuoPml7bmh5LliJvlu7ogY3Jhc2gg55uu5b2V5YaZ5paH5Lu244CCCiAgICAiIiIKICAgIGlmIHN5cy5zdGRvdXQgaXMgTm9uZToKICAgICAgICBzeXMuc3Rkb3V0ID0gb3Blbihvcy5kZXZudWxsLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpICAjIHR5cGU6IGlnbm9yZVthc3NpZ25tZW50XQogICAgaWYgc3lzLnN0ZGVyciBpcyBOb25lOgogICAgICAgIHN5cy5zdGRlcnIgPSBvcGVuKG9zLmRldm51bGwsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgICMgdHlwZTogaWdub3JlW2Fzc2lnbm1lbnRdCgoKZGVmIF9lbnN1cmVfYmxvY2tfYXV0b19yZWxhdW5jaCgpIC0+IGJvb2w6CiAgICAiIiLmi6bmiKrjgIxNREN4IOiHqui6q+S7o+eggeWGjSBleGVjIG1haW4ucHnjgI3lr7zoh7TnmoToh6rliqjkuozmrKHlkK/liqjvvIzmlL7ooYzmiYvlt6XlpJrlvIDjgIIKCiAgICDmoIforrDmnLrliLbvvJoKICAgIC0gTURDeCDpppbmrKHlkK/liqjml7borr7nva7njq/looPlj5jph48gTURDWF9JU19GSVJTVF9JTlNUQU5DRT0xCiAgICAtIOajgOa1i+e9kee7nC/lpJbpg6ggQ0Yg6YCC6YWN5bGC562J6Lev5b6E5YaN5qyhIGV4ZWMgbWFpbi5weSDml7bvvIznu6fmib/or6Xnjq/looPlj5jph48KICAgIC0g5YaN5qyhIGV4ZWMg55qE6L+b56iL5qOA5rWL5YiwIE1EQ1hfSVNfRklSU1RfSU5TVEFOQ0Ug5bey5a2Y5ZyoIOKGkiDoh6rliqjmi6bmiKrvvIznm7TmjqXpgIDlh7oKICAgIC0g55So5oi35omL5bel5Y+M5Ye7L+WRveS7pOihjOaWsOW8gO+8iOWFqOaWsOi/m+eoi+agke+8jOeOr+Wig+WPmOmHj+acque7p+aJv++8ieKGkiDmlL7ooYzvvIzkuI3pmZDlpJrlvIAKICAgIOi/lOWbniBUcnVlID0g5pS+6KGM77ybRmFsc2UgPSDmi6bmiKrvvIjosIPnlKjmlrnlupTnm7TmjqXpgIDlh7rvvInjgIIKICAgICIiIgogICAgaWYgb3MuZW52aXJvbi5nZXQoIk1EQ1hfSVNfRklSU1RfSU5TVEFOQ0UiKSA9PSAiMSI6CiAgICAgICAgcHJpbnQoIltNREN4XSDmo4DmtYvliLDnlLHlt7Lov5DooYwgTURDeCDoh6rliqjmi4notbfnmoTkuozmrKHlkK/liqjvvIzmi6bmiKrvvIjmiYvlt6XlpJrlvIDkuI3lj5fpmZDvvIkiKQogICAgICAgIHJldHVybiBGYWxzZQogICAgIyDpppbmrKHlkK/liqjvvIjmiJbmiYvlt6XlpJrlvIDvvInvvJrmoIforrDmnKzov5vnqIvmoJHvvIzkvpvlkI7nu63oh6rliqggZXhlYyDnu6fmib8KICAgIG9zLmVudmlyb25bIk1EQ1hfSVNfRklSU1RfSU5TVEFOQ0UiXSA9ICIxIgogICAgcmV0dXJuIFRydWUKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIF9lbmFibGVfY3Jhc2hfZHVtcCgpCiAgICBfZW5zdXJlX3N0ZGlvKCkKICAgIGlmIG5vdCBfZW5zdXJlX2Jsb2NrX2F1dG9fcmVsYXVuY2goKToKICAgICAgICByZXR1cm4gMAogICAgc2hvd19jb25zdGFudHMoKQogICAgX2FwcGx5X3VpX3NjYWxlX2ZhY3RvcigpCiAgICBhcHAsIF91aSA9IF9jcmVhdGVfYXBwbGljYXRpb24oKQogICAgdHJ5OgogICAgICAgIHJldHVybl9jb2RlID0gYXBwLmV4ZWMoKQogICAgICAgIHJldHVybiByZXR1cm5fY29kZQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KCJNQUlOIEVYQ0VQVElPTjoiLCBlKQogICAgICAgIHRyeToKICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjayBhcyBfdGIKCiAgICAgICAgICAgIF90Yi5wcmludF9leGMoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MKICAgICAgICByZXR1cm4gMQogICAgZmluYWxseToKICAgICAgICBmbHVzaF90bWRiX3F1ZXJ5X2NhY2hlKCkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+import json
+import os
+import platform
+import sys
+
+from PIL import ImageFile
+from PyQt6.QtCore import Qt
+from PyQt6.QtGui import QIcon
+from PyQt6.QtWidgets import QApplication
+
+from mdcx.consts import IS_DOCKER, IS_MAC, IS_NFC, IS_PYINSTALLER, IS_WINDOWS, MAIN_PATH
+from mdcx.controllers.main_window.main_window import MyMAinWindow
+from mdcx.core.tmdb_actor import flush_tmdb_query_cache
+from mdcx.ui_theme import apply_application_palette
+from mdcx.utils.video import get_video_backend
+
+ImageFile.LOAD_TRUNCATED_IMAGES = True
+
+
+def _apply_ui_scale_factor():
+    """读取用户配置的 UI 缩放比例并应用到 QT_SCALE_FACTOR。
+
+    在 main() 早期执行，文件不可读/解析失败均不应阻断启动。
+    """
+    try:
+        mark_file = MAIN_PATH / "MDCx.config"
+        if not mark_file.is_file():
+            return
+        raw = mark_file.read_bytes()
+        config_path = ""
+        for enc in ("utf-8", "gbk", "gb2312", "cp936"):
+            try:
+                config_path = raw.decode(enc).strip()
+                break
+            except UnicodeDecodeError:
+                continue
+        if not config_path:
+            return
+        if not config_path or not os.path.isfile(config_path):
+            return
+        with open(config_path, encoding="UTF-8") as f:
+            config = json.load(f)
+        scale = config.get("ui_scale_factor", 0.0)
+        if scale > 0:
+            os.environ["QT_SCALE_FACTOR"] = str(scale)
+    except (OSError, json.JSONDecodeError, ValueError) as e:
+        print(f"[warn] _apply_ui_scale_factor skipped: {e}")
+
+
+def show_constants():
+    """显示所有运行时常量"""
+    constants = {
+        "MAIN_PATH": MAIN_PATH,
+        "IS_WINDOWS": IS_WINDOWS,
+        "IS_MAC": IS_MAC,
+        "IS_DOCKER": IS_DOCKER,
+        "IS_NFC": IS_NFC,
+        "IS_PYINSTALLER": IS_PYINSTALLER,
+        "VIDEO_BACKEND": get_video_backend(),
+    }
+    print("Run time constants:")
+    for key, value in constants.items():
+        print(f"\t{key}: {value}")
+
+
+def _create_application() -> tuple[QApplication, MyMAinWindow]:
+    # Qt6 默认把非整数系统缩放（Windows 125%/150% 等）取整到整数倍，导致界面模糊或过大；
+    # PassThrough 保留真实缩放因子，配合 ui_scale_factor 配置项工作正常。
+    QApplication.setHighDpiScaleFactorRoundingPolicy(Qt.HighDpiScaleFactorRoundingPolicy.PassThrough)
+
+    app = QApplication(sys.argv)
+    # 议题 #159：Qt 默认在「最后一个可见顶层窗口」被关闭时自动退出；主窗经托盘
+    # 隐藏后不再计入可见窗口，此时关闭演员管理器（无父级、非模态顶层窗口）会
+    # 直接炸掉整个进程。托盘驻留应用的退出不应由任意工具窗口驱动，退出统一
+    # 走主窗 exit_app()/托盘菜单的显式 QApplication.quit()。
+    app.setQuitOnLastWindowClosed(False)
+    if platform.system() != "Windows":
+        app.setStyle("Fusion")
+    apply_application_palette(False)
+    if platform.system() != "Windows":
+        # 用 resources.icon_ico（已处理 PyInstaller _MEIPASS）而非相对 CWD 路径，
+        # 否则冻结包双击运行时 CWD 不同会丢任务栏图标。
+        from mdcx.config.resources import resources
+
+        app.setWindowIcon(QIcon(resources.icon_ico))  # 设置任务栏图标
+
+    ui = MyMAinWindow()
+    ui.show()
+    app.installEventFilter(ui)
+    return app, ui
+
+
+def _enable_crash_dump() -> None:
+    """注册崩溃转储：Python 异常 traceback 写入 MAIN_PATH/crash/ 目录。
+
+    用于诊断程序静默退出的问题。仅诊断用，失败不阻断启动。
+    crash 目录仅在程序实际崩溃时才创建，正常运行时不产生任何文件。
+    """
+    try:
+        import traceback as _tb
+        from datetime import datetime
+
+        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+        # C 层崩溃 (segfault) 堆栈：尝试启用，无 stderr 时静默跳过
+        # （打包 windowed 模式下 sys.stderr 可能不可用，segfault 堆栈无法落盘）
+        try:
+            import faulthandler
+
+            faulthandler.enable()
+        except Exception:
+            pass
+
+        # Python 未捕获异常：崩溃时才懒创建目录和文件
+        def _hook(etype, evalue, etb):
+            try:
+                text = "".join(_tb.format_exception(etype, evalue, etb))
+                crash_dir = MAIN_PATH / "crash"
+                crash_dir.mkdir(parents=True, exist_ok=True)
+                with open(crash_dir / f"crash_{ts}_py.log", "a", encoding="utf-8") as f:
+                    f.write(text)
+            except Exception:
+                pass
+            try:
+                sys.__excepthook__(etype, evalue, etb)
+            except Exception:
+                pass
+
+        sys.excepthook = _hook
+    except Exception:
+        pass
+
+
+def _ensure_stdio() -> None:
+    """PyInstaller windowed 模式下 sys.stdout/stderr 可能为 None，导致 print() 崩溃。
+
+    重定向到 devnull（不创建任何文件），excepthook 仍能在崩溃时懒创建 crash 目录写文件。
+    """
+    if sys.stdout is None:
+        sys.stdout = open(os.devnull, "w", encoding="utf-8")  # type: ignore[assignment]
+    if sys.stderr is None:
+        sys.stderr = open(os.devnull, "w", encoding="utf-8")  # type: ignore[assignment]
+
+
+def _ensure_block_auto_relaunch() -> bool:
+    """拦截「MDCx 自身代码再 exec main.py」导致的自动二次启动，放行手工多开。
+
+    标记机制：
+    - MDCx 首次启动时设置环境变量 MDCX_IS_FIRST_INSTANCE=1
+    - 检测网络/外部 CF 适配层等路径再次 exec main.py 时，继承该环境变量
+    - 再次 exec 的进程检测到 MDCX_IS_FIRST_INSTANCE 已存在 → 自动拦截，直接退出
+    - 用户手工双击/命令行新开（全新进程树，环境变量未继承）→ 放行，不限多开
+    返回 True = 放行；False = 拦截（调用方应直接退出）。
+    """
+    if os.environ.get("MDCX_IS_FIRST_INSTANCE") == "1":
+        print("[MDCx] 检测到由已运行 MDCx 自动拉起的二次启动，拦截（手工多开不受限）")
+        return False
+    # 首次启动（或手工多开）：标记本进程树，供后续自动 exec 继承
+    os.environ["MDCX_IS_FIRST_INSTANCE"] = "1"
+    return True
+
+
+def main() -> int:
+    _enable_crash_dump()
+    _ensure_stdio()
+    if not _ensure_block_auto_relaunch():
+        return 0
+    show_constants()
+    _apply_ui_scale_factor()
+    app, _ui = _create_application()
+    try:
+        return_code = app.exec()
+        return return_code
+    except Exception as e:
+        print("MAIN EXCEPTION:", e)
+        try:
+            import traceback as _tb
+
+            _tb.print_exc()
+        except Exception:
+            pass
+        return 1
+    finally:
+        flush_tmdb_query_cache()
+
+
+if __name__ == "__main__":
+    sys.exit(main())

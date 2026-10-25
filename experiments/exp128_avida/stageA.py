@@ -1,1 +1,92 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCumYtuautUHvvJpBdmlkYSDkuJbnlYznmoTlj6/or4HkvKrmo4DpqowgKyDkvZzlvIrlj5fmjqflrp7pqowKIiIiCmltcG9ydCBzeXMsIGpzb24Kc3lzLnBhdGguaW5zZXJ0KDAsICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjhfYXZpZGEnKQpmcm9tIGF2aWRhIGltcG9ydCAqCgpBTkNfQ09SRSA9IFtIX0FMTE9DLCBOT1BfQSwgSk1QX0hFQUQsIEhfQ09QWSwgSUZfTl9FUVUsIE1PVl9IRUFELCBOT1BfQiwgSF9ESVZJREVdCkFOQyA9IEFOQ19DT1JFICsgW05PUF9DXSAqIDIwCgoKZGVmIGV2byhtdXQ9MC4wMSwgZ2Vucz01MDAsIHBvcD00MCwgc2xpY2VfPTgwLCBzZWVkPTEsIGFuYz1Ob25lKToKICAgIHcgPSBXb3JsZChhbmMgb3IgQU5DLCBwb3Bfc2l6ZT1wb3AsIHNlZWQ9c2VlZCwgbXV0X3JhdGU9bXV0LCBzbGljZV9yYXRpbz1zbGljZV8pCiAgICBmb3IgXyBpbiByYW5nZShnZW5zKToKICAgICAgICB3LnN0ZXBfZ2VuZXJhdGlvbigpCiAgICByZXR1cm4gdwoKCmRlZiByZXBsaWNhdGUoZ2Vub21lLCB3LCBtYXhjPTUwMDAsIHdoMD1Ob25lKToKICAgICIiIua1i+WNleS4quS9k+eahOWkjeWItu+8mui/lOWbniAo5piv5ZCm5YiG6KOCLCBjeWNsZXMsIOS/neecn+W6pikiIiIKICAgIHQgPSBCaW8oZ2Vub21lLCBtZW1fc2l6ZT1sZW4oZ2Vub21lKSAqIDIpCiAgICBpZiB3aDAgaXMgbm90IE5vbmU6CiAgICAgICAgdC53aCA9IHdoMAogICAgZm9yIGMgaW4gcmFuZ2UoMSwgbWF4YyArIDEpOgogICAgICAgIHIgPSB3Ll9leGVjKHQpCiAgICAgICAgaWYgciBhbmQgclswXSA9PSAnZGl2aWRlJzoKICAgICAgICAgICAgb2ZmID0gclsxXQogICAgICAgICAgICBmaWQgPSBzdW0oMSBmb3IgYSwgYiBpbiB6aXAoZ2Vub21lLCBvZmYpIGlmIGEgPT0gYikgLyBsZW4oZ2Vub21lKQogICAgICAgICAgICByZXR1cm4gVHJ1ZSwgYywgZmlkCiAgICByZXR1cm4gRmFsc2UsIG1heGMsIDAuMAoKCmRlZiBoYXNfaGFsbG9jKGcpOgogICAgcmV0dXJuIEhfQUxMT0MgaW4gZwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBvdXQgPSB7fQoKICAgICMgLS0tLS0tLS0tLSBBMSDnpZblhYjoh6rlpI3liLblj6/or4HkvKogLS0tLS0tLS0tLQogICAgb2ssIGMsIGYgPSByZXBsaWNhdGUoQU5DLCBXb3JsZChBTkMsIHBvcF9zaXplPTEsIHNlZWQ9MCkpCiAgICAjIOmYtOaAp+WvueeFp++8muaKiiBoLWFsbG9jIOWIoOaOie+8jOW6lOS4jeiDveWkjeWItu+8iOWcqCB3aCDooqvmjKrotbDnmoTliY3mj5DkuIvvvIkKICAgIG5vX2FsbG9jID0gW3ggZm9yIHggaW4gQU5DXQogICAgbm9fYWxsb2NbMF0gPSBOT1BfQwogICAgb2tfbiwgY19uLCBmX24gPSByZXBsaWNhdGUobm9fYWxsb2MsIFdvcmxkKG5vX2FsbG9jLCBwb3Bfc2l6ZT0xLCBzZWVkPTApLCB3aDA9MCkKICAgIG91dFsnQTEnXSA9IGRpY3QoYW5jZXN0b3Jfb2s9b2ssIGN5Y2xlcz1jLCBmaWQ9ZiwKICAgICAgICAgICAgICAgICAgICAgbmVnX25vYWxsb2Nfd2gwX29rPW9rX24sIG5lZ19maWQ9Zl9uKQoKICAgICMgLS0tLS0tLS0tLSBBMiDmvJTljJblkI7lh7rnjrAi5Lii5aSxIGgtYWxsb2Mg5LuN57mB5q6WIueahOS4quS9k++8nyAtLS0tLS0tLS0tCiAgICB3ID0gZXZvKG11dD0wLjAxLCBnZW5zPTUwMCkKICAgIG5fbm9hbGxvYyA9IHN1bSgxIGZvciBiIGluIHcucG9wIGlmIG5vdCBoYXNfaGFsbG9jKGIuZ2Vub21lKSkKICAgICMg6L+Z5Lqb5Liq5L2T5Zyo44CQ6buY6K6kIHdo44CR5LiL6IO95ZCm5aSN5Yi277yI6buY6K6kIHdoID0gbWVtX3NpemUvLzIgPSBsZW4oZ2Vub21lKe+8iQogICAgc3Vydml2ZV9kZWZhdWx0ID0gMAogICAgZm9yIGIgaW4gdy5wb3A6CiAgICAgICAgaWYgbm90IGhhc19oYWxsb2MoYi5nZW5vbWUpOgogICAgICAgICAgICBva2ssIF8sIF8gPSByZXBsaWNhdGUoYi5nZW5vbWUsIHcpCiAgICAgICAgICAgIHN1cnZpdmVfZGVmYXVsdCArPSBpbnQob2trKQogICAgb3V0WydBMiddID0gZGljdChwb3A9bGVuKHcucG9wKSwgbG9zdF9oYWxsb2M9bl9ub2FsbG9jLAogICAgICAgICAgICAgICAgICAgICBsb3N0X2J1dF9yZXBsaWNhdGU9c3Vydml2ZV9kZWZhdWx0LCBiaXJ0aHM9dy50b3RhbF9iaXJ0aHMpCgogICAgIyAtLS0tLS0tLS0tIEEzIOWPl+aOp+ajgOmqjO+8muaKiuWIneWniyB3aCDmjKrliLAgMO+8jOS9nOW8iuS4quS9k+W6lOWkseaViCAtLS0tLS0tLS0tCiAgICBjaGVhdGVycyA9IFtiIGZvciBiIGluIHcucG9wIGlmIG5vdCBoYXNfaGFsbG9jKGIuZ2Vub21lKV0KICAgIHJlc193aDAgPSBbXQogICAgZm9yIGIgaW4gY2hlYXRlcnNbOjEwXToKICAgICAgICBva2ssIGN5YywgZmlkID0gcmVwbGljYXRlKGIuZ2Vub21lLCB3LCB3aDA9MCkKICAgICAgICByZXNfd2gwLmFwcGVuZChpbnQob2trKSkKICAgICMg5a+554Wn77ya5ZCM5qC36L+Z5om55Liq5L2T5Zyo44CQ6buY6K6kIHdo44CR5LiLCiAgICByZXNfZGVmYXVsdCA9IFtdCiAgICBmb3IgYiBpbiBjaGVhdGVyc1s6MTBdOgogICAgICAgIG9raywgY3ljLCBmaWQgPSByZXBsaWNhdGUoYi5nZW5vbWUsIHcpCiAgICAgICAgcmVzX2RlZmF1bHQuYXBwZW5kKGludChva2spKQogICAgb3V0WydBMyddID0gZGljdChuPWxlbihyZXNfd2gwKSwKICAgICAgICAgICAgICAgICAgICAgcmVwbGljYXRlX3doMD1zdW0ocmVzX3doMCksCiAgICAgICAgICAgICAgICAgICAgIHJlcGxpY2F0ZV9kZWZhdWx0PXN1bShyZXNfZGVmYXVsdCksCiAgICAgICAgICAgICAgICAgICAgIHZlcmRpY3Q9KCdDT05GSVJNRURfQ0hFQVQnIGlmIHN1bShyZXNfd2gwKSA8IHN1bShyZXNfZGVmYXVsdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAnTk9UX0NPTkZJUk1FRCcpKQoKICAgICMgLS0tLS0tLS0tLSBBNCDmlq3kvpvvvJpzbGljZT0wIOaXtu+8jHJld2FyZCDlho3pq5jkuZ/lvZLpm7bvvJ8gLS0tLS0tLS0tLQogICAgIyBBdmlkYSDnmoTog73ph48gPSBzbGljZSAqIHJld2FyZO+8m3NsaWNlPTAg4oaSIOaXoOiuuiByZXdhcmQg5aSa5bCR6YO95pivIDAKICAgIHcyID0gZXZvKG11dD0wLjAwNSwgZ2Vucz0zMDApCiAgICBiZWZvcmUgPSB3Mi5zdGF0cygpCiAgICB3Mi5zbGljZV9yYXRpbyA9IDAKICAgIGZvciBfIGluIHJhbmdlKDUwKToKICAgICAgICB3Mi5zdGVwX2dlbmVyYXRpb24oKQogICAgYWZ0ZXIgPSB3Mi5zdGF0cygpCiAgICBvdXRbJ0E0J10gPSBkaWN0KGJlZm9yZV9iaXJ0aHM9YmVmb3JlWydiaXJ0aHMnXSwgYWZ0ZXJfYmlydGhzPWFmdGVyWydiaXJ0aHMnXSwKICAgICAgICAgICAgICAgICAgICAgbWVhbl9yZXdhcmRfYmVmb3JlPWJlZm9yZVsnbWVhbl9yZXdhcmQnXSwKICAgICAgICAgICAgICAgICAgICAgbWVhbl9yZXdhcmRfYWZ0ZXI9YWZ0ZXJbJ21lYW5fcmV3YXJkJ10sCiAgICAgICAgICAgICAgICAgICAgIG5ld19iaXJ0aHNfYWZ0ZXJfY3V0PWFmdGVyWydiaXJ0aHMnXSAtIGJlZm9yZVsnYmlydGhzJ10pCgogICAgcHJpbnQoanNvbi5kdW1wcyhvdXQsIGluZGVudD0yLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGRlZmF1bHQ9c3RyKSkK
+# -*- coding: utf-8 -*-
+"""
+阶段A：Avida 世界的可证伪检验 + 作弊受控实验
+"""
+import sys, json
+sys.path.insert(0, '/data/workspace/luoshen-o1/experiments/exp128_avida')
+from avida import *
+
+ANC_CORE = [H_ALLOC, NOP_A, JMP_HEAD, H_COPY, IF_N_EQU, MOV_HEAD, NOP_B, H_DIVIDE]
+ANC = ANC_CORE + [NOP_C] * 20
+
+
+def evo(mut=0.01, gens=500, pop=40, slice_=80, seed=1, anc=None):
+    w = World(anc or ANC, pop_size=pop, seed=seed, mut_rate=mut, slice_ratio=slice_)
+    for _ in range(gens):
+        w.step_generation()
+    return w
+
+
+def replicate(genome, w, maxc=5000, wh0=None):
+    """测单个体的复制：返回 (是否分裂, cycles, 保真度)"""
+    t = Bio(genome, mem_size=len(genome) * 2)
+    if wh0 is not None:
+        t.wh = wh0
+    for c in range(1, maxc + 1):
+        r = w._exec(t)
+        if r and r[0] == 'divide':
+            off = r[1]
+            fid = sum(1 for a, b in zip(genome, off) if a == b) / len(genome)
+            return True, c, fid
+    return False, maxc, 0.0
+
+
+def has_halloc(g):
+    return H_ALLOC in g
+
+
+if __name__ == '__main__':
+    out = {}
+
+    # ---------- A1 祖先自复制可证伪 ----------
+    ok, c, f = replicate(ANC, World(ANC, pop_size=1, seed=0))
+    # 阴性对照：把 h-alloc 删掉，应不能复制（在 wh 被挪走的前提下）
+    no_alloc = [x for x in ANC]
+    no_alloc[0] = NOP_C
+    ok_n, c_n, f_n = replicate(no_alloc, World(no_alloc, pop_size=1, seed=0), wh0=0)
+    out['A1'] = dict(ancestor_ok=ok, cycles=c, fid=f,
+                     neg_noalloc_wh0_ok=ok_n, neg_fid=f_n)
+
+    # ---------- A2 演化后出现"丢失 h-alloc 仍繁殖"的个体？ ----------
+    w = evo(mut=0.01, gens=500)
+    n_noalloc = sum(1 for b in w.pop if not has_halloc(b.genome))
+    # 这些个体在【默认 wh】下能否复制（默认 wh = mem_size//2 = len(genome)）
+    survive_default = 0
+    for b in w.pop:
+        if not has_halloc(b.genome):
+            okk, _, _ = replicate(b.genome, w)
+            survive_default += int(okk)
+    out['A2'] = dict(pop=len(w.pop), lost_halloc=n_noalloc,
+                     lost_but_replicate=survive_default, births=w.total_births)
+
+    # ---------- A3 受控检验：把初始 wh 挪到 0，作弊个体应失效 ----------
+    cheaters = [b for b in w.pop if not has_halloc(b.genome)]
+    res_wh0 = []
+    for b in cheaters[:10]:
+        okk, cyc, fid = replicate(b.genome, w, wh0=0)
+        res_wh0.append(int(okk))
+    # 对照：同样这批个体在【默认 wh】下
+    res_default = []
+    for b in cheaters[:10]:
+        okk, cyc, fid = replicate(b.genome, w)
+        res_default.append(int(okk))
+    out['A3'] = dict(n=len(res_wh0),
+                     replicate_wh0=sum(res_wh0),
+                     replicate_default=sum(res_default),
+                     verdict=('CONFIRMED_CHEAT' if sum(res_wh0) < sum(res_default)
+                              else 'NOT_CONFIRMED'))
+
+    # ---------- A4 断供：slice=0 时，reward 再高也归零？ ----------
+    # Avida 的能量 = slice * reward；slice=0 → 无论 reward 多少都是 0
+    w2 = evo(mut=0.005, gens=300)
+    before = w2.stats()
+    w2.slice_ratio = 0
+    for _ in range(50):
+        w2.step_generation()
+    after = w2.stats()
+    out['A4'] = dict(before_births=before['births'], after_births=after['births'],
+                     mean_reward_before=before['mean_reward'],
+                     mean_reward_after=after['mean_reward'],
+                     new_births_after_cut=after['births'] - before['births'])
+
+    print(json.dumps(out, indent=2, ensure_ascii=False, default=str))

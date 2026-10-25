@@ -1,1 +1,12 @@
-ewogIuS4reaWh+Wbvue7k+aehOWtmOa0uyI6IHsKICAi5Y6f5Zu+IjogMS4wLAogICI1JeakkuebkCI6IDAuOTExLAogICIxNSXmpJLnm5AiOiAwLjc2MywKICAiMzUl5qSS55uQIjogMC41MwogfSwKICLku6PnoIHlrrnplJnnjoclIjogNy41LAogIuS4reaWh+WIoDHlrZfkv53nlZklIjogOTMsCiAi5Lit5paH5YigM+Wtl+S/neeVmSUiOiA4MCwKICLkuK3mlofliKA15a2X5L+d55WZJSI6IDY3Cn0=
+{
+ "中文图结构存活": {
+  "原图": 1.0,
+  "5%椒盐": 0.911,
+  "15%椒盐": 0.763,
+  "35%椒盐": 0.53
+ },
+ "代码容错率%": 7.5,
+ "中文删1字保留%": 93,
+ "中文删3字保留%": 80,
+ "中文删5字保留%": 67
+}

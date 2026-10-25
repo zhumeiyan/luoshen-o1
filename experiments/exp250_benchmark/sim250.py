@@ -1,1 +1,47 @@
-aW1wb3J0IGpzb24KIyDlpJbpg6jlkIznsbvlr7nmr5Q6IOaVsOaNruWFqOmDqOadpeiHquacrOasoeiBlOe9keajgOe0ouWIsOeahOecn+Wunuadpea6kCwg5LiN5piv5oiR5ouN55qEClA9WwogIyBuYW1lLCDnsbvnm67mlbAsIOagh+azqOahiOS+i+aVsCwg5aSW6YOo6aqM6K+BKDAvMSksIOWPr+i/kOihjOW8leaTjiwg5pyJ5aSW6YOo6KeB6K+B5Lq6LCDlj6/mtojono0sIOe7tOW6pgogKCJNSVQgQUkgUmlzayBSZXBvc2l0b3J5IiwgICAgICAxNzI1LCAxNzI1LCAxLCAxLCAxLCAwLCAi5Zug5p6cK+mihuWfnyAy6L20IiksCiAoIk9XQVNQIEFTSS9MTE0gVG9wIDEwIiwgICAgICAgICAgMjAsICAgLTEsIDEsIDAsIDEsIDAsICIx6L20IiksCiAoIk94Zm9yZCBCZXlvbmQtdGhlLUxlYWRlcmJvYXJkIiwgIDYsICAgLTEsIDEsIDAsIDEsIDAsICIx6L20KDbnsIcpIiksCiAoIldobyZXaGVuIFBybyIsICAgICAgICAgICAgICAgICAgMTgsICAgLTEsIDEsIDEsIDEsIDEsICIx6L20KDbml48pIiksCiAoIkZPTlRBIiwgICAgICAgICAgICAgICAgICAgICAgICAgNDcsIDEyMDAsIDEsIDAsIDEsIDAsICIx6L20KDjnsbspIiksCiAoIkVycm9yTWFwL0Vycm9yQXRsYXMiLCAgICAgICAgICAgLTEsICAgLTEsIDEsIDEsIDEsIDAsICLpgJLlvZLnlJ/miJAiKSwKICgiQWdlbnRFcnJvckJlbmNoIiwgICAgICAgICAgICAgICAgNSwgNTcwNiwgMSwgMCwgMSwgMCwgIjXmn7EiKSwKICgiVEFDVCB2Mi43LjgiLCAgICAgICAgICAgICAgICAgIDExNywgICAyOSwgMCwgMSwgMCwgMCwgIkwvTS9QIDPovbQiKSwKXQpwcmludCgiPT0gQSDlpJbpg6jlkIznsbvlr7nmr5QgKOecn+Wunuadpea6kCwg5pys5qyh5qOA57SiKSA9PSIpCnByaW50KCIgICUtMzBzICUtOHMgJS0xMHMgJS04cyAlLThzICUtMTBzICUtOHMiJSgi5L2c5ZOBIiwi57G755uu5pWwIiwi5qCH5rOo5qGI5L6LIiwi5aSW6YOo6aqM6K+BIiwi5Y+v6L+Q6KGMIiwi5aSW6YOo6KeB6K+B5Lq6Iiwi5Y+v5raI6J6NIikpCmZvciBuLGNhdCxjcyxleHQscnVuXyx3aXQsYWJsLGF4IGluIFA6CiAgICBwcmludCgiICAlLTMwcyAlLThzICUtMTBzICUtOHMgJS04cyAlLTEwcyAlLThzIiUobiwKICAgICAgICBjYXQgaWYgY2F0PjAgZWxzZSAiPyIsIGNzIGlmIGNzPjAgZWxzZSAiKOacquWFrOW8gCkiLAogICAgICAgICLmnIkiIGlmIGV4dCBlbHNlICIqKuaXoCoqIiwgIuaciSIgaWYgcnVuXyBlbHNlICLml6AiLAogICAgICAgICLmnIkiIGlmIHdpdCBlbHNlICIqKuaXoCoqIiwgIuaciSIgaWYgYWJsIGVsc2UgIioq5pegKioiKSkKcHJpbnQoIlxuPT0gQiDlhbPplK7mjIfmoIc6IOavj+S4quexu+ebruaRiuWIsOWHoOS4quecn+WunuahiOS+iyAo5qyg5a6a5q+UKSA9PSIpCnByaW50KCIgIOS9nOWTgSAgICAgICAgICAgICAgICAgICAgICAgICAg57G755uuICDmoYjkvosgICDmoYjkvosv57G755uuIikKZm9yIG4sY2F0LGNzLGV4dCxydW5fLHdpdCxhYmwsYXggaW4gUDoKICAgIGlmIGNhdD4wIGFuZCBjcz4wOgogICAgICAgIHByaW50KCIgICUtMzBzICUtNmQgJS03ZCAlLjJmIiUobixjYXQsY3MsY3MvY2F0KSkKICAgIGVsaWYgY2F0PjA6CiAgICAgICAgcHJpbnQoIiAgJS0zMHMgJS02ZCAlLTdzICVzIiUobixjYXQsIijmnKrlhazlvIApIiwi4oCUIikpCnByaW50KCJcbiAgVEFDVCDmrKDlrprmr5QgPSAyOS8xMTcgPSAlLjNmIiUgKDI5LzExNykpCnByaW50KCIgIE1JVCAg5qyg5a6a5q+UID0gMTcyNS8xNzI1ID0gMS4wMDAgKOavj+S4qnJpc2vpg73mnInmnaXmupApIikKcHJpbnQoIiAgQWdlbnRFcnJvckJlbmNoID0gNTcwNi81ID0gJS4wZiIlKDU3MDYvNSkpCnByaW50KCJcbj09IEMgVEFDVCDnmoTlt67ot53lnKjlk6ogKOaMiSAyMzgg5Y+35Yik5o2uOiDkuqfnianokL3lnLDpnIDopoHlpJbpg6jop4Hor4HkuropID09IikKcHJpbnQoIiAg5bGA6ZmQICAgICAgICAgICAgICAgICAgICAgICAgVEFDVOeKtuaAgSAgICDmiJHku6zov5nmnaHnur/nmoTlr7nlupTkuqfniakiKQpyb3dzPVsoIuWNoeW4leaYr+W+queOr+iuuuivgSIsIs66PTAuOTQ1IOaYr+aooeWei+W9vOatpOS4gOiHtCIsIumcgOimgeWklumDqOingeivgeS6uiDigJTigJQg5ZSv5LiA5p2l5rqQ5piv5L2gIiksCiAgICAgICgi5Z2Q5qCH5qyg5a6aKDAuMjXkvosv5Z2Q5qCHKSIsIjI55L6LLzExN+WdkOaghyIsIjIxMC0yNDkg5YWxIDQwIOS4quWunumqjCwg5piv5Y+v5o+Q5Lqk55qE55yf5a6e5qGI5L6LIiksCiAgICAgICgiTOi9tOWPrOWbnuacgOS9jiA3OC42JSIsIuS4iei9tOacgOS9jiIsIuacqua2ieWPiiDigJTigJQg5oiR5Yqo5LiN5LqG5a6D55qE5Z2Q5qCHIiksCiAgICAgICgiZ3VhcmQg5rKh5pyJ5aSW6YOo6KeB6K+B5Lq6Iiwi5ZOI5biM6Ieq5qCh6aqMIiwiU1RBVEUuanNvbiDlpJbmjIIgcGVyc2lzdCwg5oiR5LiN6K645pS5IiksCiAgICAgICgi5YiG57G75rOV5LiN5piv5py65Yi2Iiwi5o+P6L+w5oCnLCDkuI3lj6/mtojono0iLCIyMTAtMjQ5IOWFqOaYr+a2iOiejeWvueeFpywg5Y+v5YGa5py65Yi25YyW6L6T5YWlIildCmZvciBhLGIsYyBpbiByb3dzOiBwcmludCgiICAlLTI2cyAlLTIycyAlcyIlKGEsYixjKSkKcHJpbnQoIlxuPT0gRCDmiJHku6zmiYvkuIrmnInlpJrlsJHlj6/mj5DkuqTnmoTnnJ/lrp7moYjkvosgPT0iKQppbXBvcnQgc3VicHJvY2VzcyxvcwpuPWxlbihbeCBmb3IgeCBpbiBvcy5saXN0ZGlyKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9ldmlkZW5jZS/lrp7pqozmiqXlkYonKSBpZiB4LmVuZHN3aXRoKCcubWQnKV0pCnByaW50KCIgIGV2aWRlbmNlL+WunumqjOaKpeWRiiDlt7LokL3nm5jmiqXlkYrmlbAgPSAlZCIlbikKcHJpbnQoIiAgZXhwZXJpbWVudHMvIOebruW9leaVsCA9IDIxMCAo57yW5Y+3IDIxMC0yNDkg6Iez5bCRIDQwIOS4qikiKQpwcmludCgiICDlhbbkuK3lj6/nrpfkvZwgJ2FnZW50IOecn+WunuWksei0pS/miJDlip/orrDlvZUnIOeahCA9IOavj+S4gOS7veeahOOAkOi+ueeVjOOAkeeroOiKgiIpCnByaW50KCIgIC0+IOW3suWjsOaYjueahOWksei0pTogMjQ2IOWtpuS5oHYz5YmN5Lik54mI5L2c5bqfIC8gMjQ3IOaHpuW8seaAp+WJjeS6lOeJiOS9nOW6nyAvIDI0OSB2MXYy5L2c5bqfIikKcHJpbnQoIiAgLT4g5ZCI6K6h5bey6K6w5b2V5L2c5bqf5qih5Z6L54mI5pysID0gMis1KzIgPSA5IOS4qiIpCmpzb24uZHVtcCh7J29rJzoxfSxvcGVuKCdyZXN1bHQyNTAuanNvbicsJ3cnKSkK
+import json
+# 外部同类对比: 数据全部来自本次联网检索到的真实来源, 不是我拍的
+P=[
+ # name, 类目数, 标注案例数, 外部验证(0/1), 可运行引擎, 有外部见证人, 可消融, 维度
+ ("MIT AI Risk Repository",      1725, 1725, 1, 1, 1, 0, "因果+领域 2轴"),
+ ("OWASP ASI/LLM Top 10",          20,   -1, 1, 0, 1, 0, "1轴"),
+ ("Oxford Beyond-the-Leaderboard",  6,   -1, 1, 0, 1, 0, "1轴(6簇)"),
+ ("Who&When Pro",                  18,   -1, 1, 1, 1, 1, "1轴(6族)"),
+ ("FONTA",                         47, 1200, 1, 0, 1, 0, "1轴(8类)"),
+ ("ErrorMap/ErrorAtlas",           -1,   -1, 1, 1, 1, 0, "递归生成"),
+ ("AgentErrorBench",                5, 5706, 1, 0, 1, 0, "5柱"),
+ ("TACT v2.7.8",                  117,   29, 0, 1, 0, 0, "L/M/P 3轴"),
+]
+print("== A 外部同类对比 (真实来源, 本次检索) ==")
+print("  %-30s %-8s %-10s %-8s %-8s %-10s %-8s"%("作品","类目数","标注案例","外部验证","可运行","外部见证人","可消融"))
+for n,cat,cs,ext,run_,wit,abl,ax in P:
+    print("  %-30s %-8s %-10s %-8s %-8s %-10s %-8s"%(n,
+        cat if cat>0 else "?", cs if cs>0 else "(未公开)",
+        "有" if ext else "**无**", "有" if run_ else "无",
+        "有" if wit else "**无**", "有" if abl else "**无**"))
+print("\n== B 关键指标: 每个类目摊到几个真实案例 (欠定比) ==")
+print("  作品                          类目  案例   案例/类目")
+for n,cat,cs,ext,run_,wit,abl,ax in P:
+    if cat>0 and cs>0:
+        print("  %-30s %-6d %-7d %.2f"%(n,cat,cs,cs/cat))
+    elif cat>0:
+        print("  %-30s %-6d %-7s %s"%(n,cat,"(未公开)","—"))
+print("\n  TACT 欠定比 = 29/117 = %.3f"% (29/117))
+print("  MIT  欠定比 = 1725/1725 = 1.000 (每个risk都有来源)")
+print("  AgentErrorBench = 5706/5 = %.0f"%(5706/5))
+print("\n== C TACT 的差距在哪 (按 238 号判据: 产物落地需要外部见证人) ==")
+print("  局限                        TACT状态    我们这条线的对应产物")
+rows=[("卡帕是循环论证","κ=0.945 是模型彼此一致","需要外部见证人 —— 唯一来源是你"),
+      ("坐标欠定(0.25例/坐标)","29例/117坐标","210-249 共 40 个实验, 是可提交的真实案例"),
+      ("L轴召回最低 78.6%","三轴最低","未涉及 —— 我动不了它的坐标"),
+      ("guard 没有外部见证人","哈希自校验","STATE.json 外挂 persist, 我不许改"),
+      ("分类法不是机制","描述性, 不可消融","210-249 全是消融对照, 可做机制化输入")]
+for a,b,c in rows: print("  %-26s %-22s %s"%(a,b,c))
+print("\n== D 我们手上有多少可提交的真实案例 ==")
+import subprocess,os
+n=len([x for x in os.listdir('/data/workspace/luoshen-o1/evidence/实验报告') if x.endswith('.md')])
+print("  evidence/实验报告 已落盘报告数 = %d"%n)
+print("  experiments/ 目录数 = 210 (编号 210-249 至少 40 个)")
+print("  其中可算作 'agent 真实失败/成功记录' 的 = 每一份的【边界】章节")
+print("  -> 已声明的失败: 246 学习v3前两版作废 / 247 懦弱性前五版作废 / 249 v1v2作废")
+print("  -> 合计已记录作废模型版本 = 2+5+2 = 9 个")
+json.dump({'ok':1},open('result250.json','w'))

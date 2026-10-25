@@ -1,1 +1,449 @@
-ewogIm1ldGEiOiB7CiAgIlQiOiAxNTAsCiAgIm5yZXAiOiAxNiwKICAiaGFsZiI6IDYsCiAgIm5vZGVzIjogNTAwLAogICJ0YXJnZXRzIjogNzUsCiAgImRlZyI6IDEwLjgyCiB9LAogImNvbmQiOiB7CiAgIk9GRiI6IHsKICAgIm1lYW4iOiAyMi44LAogICAibG8iOiAxOS45MjUsCiAgICJoaSI6IDI1LjY3NSwKICAgImZpcnN0IjogMjIuNSwKICAgImFsbCI6IDIyLjY5LAogICAidmFscyI6IFsKICAgIDI2LAogICAgMTYsCiAgICAxOSwKICAgIDIxLAogICAgMjEsCiAgICAyOCwKICAgIDI4LAogICAgMjgsCiAgICAxNywKICAgIDI0CiAgIF0KICB9LAogICJMMSI6IHsKICAgIm1lYW4iOiA0MS4yLAogICAibG8iOiAzOC45MjIsCiAgICJoaSI6IDQzLjQ3OCwKICAgImZpcnN0IjogNDAuMzMsCiAgICJhbGwiOiA0MC44OCwKICAgInZhbHMiOiBbCiAgICA0MSwKICAgIDQ3LAogICAgMzQsCiAgICA0MiwKICAgIDQ0LAogICAgNDUsCiAgICA0MCwKICAgIDQxLAogICAgMzgsCiAgICA0MAogICBdCiAgfSwKICAiTDErTDIiOiB7CiAgICJtZWFuIjogNDAuMiwKICAgImxvIjogMzguMzM0LAogICAiaGkiOiA0Mi4wNjYsCiAgICJmaXJzdCI6IDM5LjgzLAogICAiYWxsIjogNDAuMDYsCiAgICJ2YWxzIjogWwogICAgNDEsCiAgICA0NCwKICAgIDM0LAogICAgNDIsCiAgICA0NCwKICAgIDQwLAogICAgMzgsCiAgICA0MSwKICAgIDM4LAogICAgNDAKICAgXQogIH0sCiAgIkwxK0wzIjogewogICAibWVhbiI6IDM0LjgsCiAgICJsbyI6IDMxLjgyMywKICAgImhpIjogMzcuNzc3LAogICAiZmlyc3QiOiAzMy4zMywKICAgImFsbCI6IDM0LjI1LAogICAidmFscyI6IFsKICAgIDM4LAogICAgMzAsCiAgICAyNywKICAgIDMzLAogICAgMzcsCiAgICAzMSwKICAgIDM3LAogICAgMzYsCiAgICAzNSwKICAgIDQ0CiAgIF0KICB9LAogICJMMStMNGciOiB7CiAgICJtZWFuIjogNDAuOCwKICAgImxvIjogMzcuMzA4LAogICAiaGkiOiA0NC4yOTIsCiAgICJmaXJzdCI6IDQzLjE3LAogICAiYWxsIjogNDEuNjksCiAgICJ2YWxzIjogWwogICAgMzgsCiAgICA0NSwKICAgIDQwLAogICAgNTIsCiAgICA0NCwKICAgIDQxLAogICAgNDAsCiAgICAzOSwKICAgIDM5LAogICAgMzAKICAgXQogIH0sCiAgIkwxK0w0ZCI6IHsKICAgIm1lYW4iOiAzNi44LAogICAibG8iOiAzNC4xMjUsCiAgICJoaSI6IDM5LjQ3NSwKICAgImZpcnN0IjogMzcuMzMsCiAgICJhbGwiOiAzNy4wLAogICAidmFscyI6IFsKICAgIDM1LAogICAgMzgsCiAgICAzNiwKICAgIDMxLAogICAgNDEsCiAgICAyOSwKICAgIDQyLAogICAgMzYsCiAgICAzOSwKICAgIDQxCiAgIF0KICB9LAogICJMMStMNHAiOiB7CiAgICJtZWFuIjogMjguMCwKICAgImxvIjogMjUuNjYzLAogICAiaGkiOiAzMC4zMzcsCiAgICJmaXJzdCI6IDI2LjY3LAogICAiYWxsIjogMjcuNSwKICAgInZhbHMiOiBbCiAgICAyOCwKICAgIDI0LAogICAgMjQsCiAgICAzMCwKICAgIDM0LAogICAgMjYsCiAgICAyNSwKICAgIDMzLAogICAgMjUsCiAgICAzMQogICBdCiAgfSwKICAiTDErTDZtIjogewogICAibWVhbiI6IDM5LjIsCiAgICJsbyI6IDM2LjE2NiwKICAgImhpIjogNDIuMjM0LAogICAiZmlyc3QiOiAzNi42NywKICAgImFsbCI6IDM4LjI1LAogICAidmFscyI6IFsKICAgIDQxLAogICAgNDAsCiAgICA0MSwKICAgIDQ4LAogICAgNDEsCiAgICAzMiwKICAgIDQxLAogICAgMzIsCiAgICAzNSwKICAgIDQxCiAgIF0KICB9LAogICJMMStMNmEiOiB7CiAgICJtZWFuIjogMjMuNywKICAgImxvIjogMTkuNDU1LAogICAiaGkiOiAyNy45NDUsCiAgICJmaXJzdCI6IDIzLjAsCiAgICJhbGwiOiAyMy40NCwKICAgInZhbHMiOiBbCiAgICAxOSwKICAgIDMxLAogICAgMTcsCiAgICAyNSwKICAgIDIyLAogICAgMzcsCiAgICAzMCwKICAgIDE5LAogICAgMTcsCiAgICAyMAogICBdCiAgfSwKICAiTDErTDZkIjogewogICAibWVhbiI6IDQyLjYsCiAgICJsbyI6IDQwLjI1OSwKICAgImhpIjogNDQuOTQxLAogICAiZmlyc3QiOiA0MS4wLAogICAiYWxsIjogNDIuMCwKICAgInZhbHMiOiBbCiAgICA0MiwKICAgIDQ3LAogICAgMzUsCiAgICA0MywKICAgIDQ3LAogICAgNDcsCiAgICA0MCwKICAgIDQxLAogICAgNDEsCiAgICA0MwogICBdCiAgfSwKICAiTDErTDZjIjogewogICAibWVhbiI6IDcwLjUsCiAgICJsbyI6IDY5LjgzMSwKICAgImhpIjogNzEuMTY5LAogICAiZmlyc3QiOiA2Mi4wLAogICAiYWxsIjogNjcuMzEsCiAgICJ2YWxzIjogWwogICAgNzAsCiAgICA3MSwKICAgIDY5LAogICAgNjksCiAgICA3MSwKICAgIDcyLAogICAgNzIsCiAgICA3MCwKICAgIDcwLAogICAgNzEKICAgXQogIH0sCiAgIkJFU1Rfbm9MNSI6IHsKICAgIm1lYW4iOiA3My43LAogICAibG8iOiA3Mi44NzEsCiAgICJoaSI6IDc0LjUyOSwKICAgImZpcnN0IjogNTguMCwKICAgImFsbCI6IDY3LjgxLAogICAidmFscyI6IFsKICAgIDcyLAogICAgNzEsCiAgICA3NSwKICAgIDczLAogICAgNzQsCiAgICA3NSwKICAgIDc0LAogICAgNzQsCiAgICA3NSwKICAgIDc0CiAgIF0KICB9LAogICJGVUxMX25vTDUiOiB7CiAgICJtZWFuIjogNTguMSwKICAgImxvIjogNTMuMjYsCiAgICJoaSI6IDYyLjk0LAogICAiZmlyc3QiOiAzNC4xNywKICAgImFsbCI6IDQ5LjEyLAogICAidmFscyI6IFsKICAgIDQ5LAogICAgNjEsCiAgICA1NywKICAgIDUzLAogICAgNjQsCiAgICA0MiwKICAgIDY2LAogICAgNjMsCiAgICA2NCwKICAgIDYyCiAgIF0KICB9LAogICJBQkxfLUwxIjogewogICAibWVhbiI6IDcwLjYsCiAgICJsbyI6IDY5LjEzMywKICAgImhpIjogNzIuMDY3LAogICAiZmlyc3QiOiA1MS44MywKICAgImFsbCI6IDYzLjU2LAogICAidmFscyI6IFsKICAgIDY3LAogICAgNzAsCiAgICA2OCwKICAgIDY5LAogICAgNzMsCiAgICA3MSwKICAgIDY5LAogICAgNzQsCiAgICA3MywKICAgIDcyCiAgIF0KICB9LAogICJBQkxfLUwyIjogewogICAibWVhbiI6IDQ5LjQsCiAgICJsbyI6IDQ1LjAyNSwKICAgImhpIjogNTMuNzc1LAogICAiZmlyc3QiOiAyMy4wLAogICAiYWxsIjogMzkuNSwKICAgInZhbHMiOiBbCiAgICA0MiwKICAgIDQzLAogICAgNDQsCiAgICA1MSwKICAgIDUxLAogICAgNDUsCiAgICA0MywKICAgIDU1LAogICAgNTksCiAgICA2MQogICBdCiAgfSwKICAiQUJMXy1MMyI6IHsKICAgIm1lYW4iOiA1NS45LAogICAibG8iOiA1Mi45NDMsCiAgICJoaSI6IDU4Ljg1NywKICAgImZpcnN0IjogMzYuMCwKICAgImFsbCI6IDQ4LjQ0LAogICAidmFscyI6IFsKICAgIDQ5LAogICAgNTMsCiAgICA1MCwKICAgIDU0LAogICAgNTMsCiAgICA1OCwKICAgIDYwLAogICAgNTgsCiAgICA2MywKICAgIDYxCiAgIF0KICB9LAogICJBQkxfLUw0ZyI6IHsKICAgIm1lYW4iOiA1Ni43LAogICAibG8iOiA1Mi4yMDEsCiAgICJoaSI6IDYxLjE5OSwKICAgImZpcnN0IjogMzUuNjcsCiAgICJhbGwiOiA0OC44MSwKICAgInZhbHMiOiBbCiAgICA1NiwKICAgIDM3LAogICAgNTksCiAgICA1OCwKICAgIDU4LAogICAgNTUsCiAgICA2MSwKICAgIDYxLAogICAgNjEsCiAgICA2MQogICBdCiAgfSwKICAiQUJMXy1MNGQiOiB7CiAgICJtZWFuIjogNzEuNCwKICAgImxvIjogNzAuMTg4LAogICAiaGkiOiA3Mi42MTIsCiAgICJmaXJzdCI6IDUzLjUsCiAgICJhbGwiOiA2NC42OSwKICAgInZhbHMiOiBbCiAgICA2OSwKICAgIDcyLAogICAgNzQsCiAgICA3NSwKICAgIDcxLAogICAgNzIsCiAgICA2OSwKICAgIDcxLAogICAgNzEsCiAgICA3MAogICBdCiAgfSwKICAiQUJMXy1MNHAiOiB7CiAgICJtZWFuIjogNTUuNSwKICAgImxvIjogNTAuOTksCiAgICJoaSI6IDYwLjAxLAogICAiZmlyc3QiOiA0NS4wLAogICAiYWxsIjogNTEuNTYsCiAgICJ2YWxzIjogWwogICAgNDcsCiAgICA1NSwKICAgIDU3LAogICAgNTIsCiAgICA1NCwKICAgIDU1LAogICAgNjEsCiAgICA2NiwKICAgIDY1LAogICAgNDMKICAgXQogIH0sCiAgIkFCTF8tTDZtIjogewogICAibWVhbiI6IDQ2LjcsCiAgICJsbyI6IDQyLjc1OCwKICAgImhpIjogNTAuNjQyLAogICAiZmlyc3QiOiAyNy4xNywKICAgImFsbCI6IDM5LjM4LAogICAidmFscyI6IFsKICAgIDQzLAogICAgNDQsCiAgICAzMywKICAgIDQ4LAogICAgNDYsCiAgICA0NSwKICAgIDQ5LAogICAgNTYsCiAgICA0OSwKICAgIDU0CiAgIF0KICB9LAogICJBQkxfLUw2YSI6IHsKICAgIm1lYW4iOiAyOS45LAogICAibG8iOiAyNy4yNjMsCiAgICJoaSI6IDMyLjUzNywKICAgImZpcnN0IjogMTguNjcsCiAgICJhbGwiOiAyNS42OSwKICAgInZhbHMiOiBbCiAgICAyNSwKICAgIDI0LAogICAgMjcsCiAgICAzMiwKICAgIDI5LAogICAgMjgsCiAgICAzMiwKICAgIDMwLAogICAgMzQsCiAgICAzOAogICBdCiAgfSwKICAiQUJMXy1MNmQiOiB7CiAgICJtZWFuIjogNTAuNSwKICAgImxvIjogNDcuNjM0LAogICAiaGkiOiA1My4zNjYsCiAgICJmaXJzdCI6IDMxLjY3LAogICAiYWxsIjogNDMuNDQsCiAgICJ2YWxzIjogWwogICAgNDIsCiAgICA0NCwKICAgIDQ4LAogICAgNTAsCiAgICA1MSwKICAgIDUyLAogICAgNTQsCiAgICA1NiwKICAgIDUzLAogICAgNTUKICAgXQogIH0sCiAgIkFCTF8tTDZjIjogewogICAibWVhbiI6IDIwLjgsCiAgICJsbyI6IDE4LjM3NiwKICAgImhpIjogMjMuMjI0LAogICAiZmlyc3QiOiAxOC41LAogICAiYWxsIjogMTkuOTQsCiAgICJ2YWxzIjogWwogICAgMjEsCiAgICAxNSwKICAgIDI5LAogICAgMjIsCiAgICAxOCwKICAgIDE4LAogICAgMjIsCiAgICAxOCwKICAgIDIxLAogICAgMjQKICAgXQogIH0KIH0KfQ==
+{
+ "meta": {
+  "T": 150,
+  "nrep": 16,
+  "half": 6,
+  "nodes": 500,
+  "targets": 75,
+  "deg": 10.82
+ },
+ "cond": {
+  "OFF": {
+   "mean": 22.8,
+   "lo": 19.925,
+   "hi": 25.675,
+   "first": 22.5,
+   "all": 22.69,
+   "vals": [
+    26,
+    16,
+    19,
+    21,
+    21,
+    28,
+    28,
+    28,
+    17,
+    24
+   ]
+  },
+  "L1": {
+   "mean": 41.2,
+   "lo": 38.922,
+   "hi": 43.478,
+   "first": 40.33,
+   "all": 40.88,
+   "vals": [
+    41,
+    47,
+    34,
+    42,
+    44,
+    45,
+    40,
+    41,
+    38,
+    40
+   ]
+  },
+  "L1+L2": {
+   "mean": 40.2,
+   "lo": 38.334,
+   "hi": 42.066,
+   "first": 39.83,
+   "all": 40.06,
+   "vals": [
+    41,
+    44,
+    34,
+    42,
+    44,
+    40,
+    38,
+    41,
+    38,
+    40
+   ]
+  },
+  "L1+L3": {
+   "mean": 34.8,
+   "lo": 31.823,
+   "hi": 37.777,
+   "first": 33.33,
+   "all": 34.25,
+   "vals": [
+    38,
+    30,
+    27,
+    33,
+    37,
+    31,
+    37,
+    36,
+    35,
+    44
+   ]
+  },
+  "L1+L4g": {
+   "mean": 40.8,
+   "lo": 37.308,
+   "hi": 44.292,
+   "first": 43.17,
+   "all": 41.69,
+   "vals": [
+    38,
+    45,
+    40,
+    52,
+    44,
+    41,
+    40,
+    39,
+    39,
+    30
+   ]
+  },
+  "L1+L4d": {
+   "mean": 36.8,
+   "lo": 34.125,
+   "hi": 39.475,
+   "first": 37.33,
+   "all": 37.0,
+   "vals": [
+    35,
+    38,
+    36,
+    31,
+    41,
+    29,
+    42,
+    36,
+    39,
+    41
+   ]
+  },
+  "L1+L4p": {
+   "mean": 28.0,
+   "lo": 25.663,
+   "hi": 30.337,
+   "first": 26.67,
+   "all": 27.5,
+   "vals": [
+    28,
+    24,
+    24,
+    30,
+    34,
+    26,
+    25,
+    33,
+    25,
+    31
+   ]
+  },
+  "L1+L6m": {
+   "mean": 39.2,
+   "lo": 36.166,
+   "hi": 42.234,
+   "first": 36.67,
+   "all": 38.25,
+   "vals": [
+    41,
+    40,
+    41,
+    48,
+    41,
+    32,
+    41,
+    32,
+    35,
+    41
+   ]
+  },
+  "L1+L6a": {
+   "mean": 23.7,
+   "lo": 19.455,
+   "hi": 27.945,
+   "first": 23.0,
+   "all": 23.44,
+   "vals": [
+    19,
+    31,
+    17,
+    25,
+    22,
+    37,
+    30,
+    19,
+    17,
+    20
+   ]
+  },
+  "L1+L6d": {
+   "mean": 42.6,
+   "lo": 40.259,
+   "hi": 44.941,
+   "first": 41.0,
+   "all": 42.0,
+   "vals": [
+    42,
+    47,
+    35,
+    43,
+    47,
+    47,
+    40,
+    41,
+    41,
+    43
+   ]
+  },
+  "L1+L6c": {
+   "mean": 70.5,
+   "lo": 69.831,
+   "hi": 71.169,
+   "first": 62.0,
+   "all": 67.31,
+   "vals": [
+    70,
+    71,
+    69,
+    69,
+    71,
+    72,
+    72,
+    70,
+    70,
+    71
+   ]
+  },
+  "BEST_noL5": {
+   "mean": 73.7,
+   "lo": 72.871,
+   "hi": 74.529,
+   "first": 58.0,
+   "all": 67.81,
+   "vals": [
+    72,
+    71,
+    75,
+    73,
+    74,
+    75,
+    74,
+    74,
+    75,
+    74
+   ]
+  },
+  "FULL_noL5": {
+   "mean": 58.1,
+   "lo": 53.26,
+   "hi": 62.94,
+   "first": 34.17,
+   "all": 49.12,
+   "vals": [
+    49,
+    61,
+    57,
+    53,
+    64,
+    42,
+    66,
+    63,
+    64,
+    62
+   ]
+  },
+  "ABL_-L1": {
+   "mean": 70.6,
+   "lo": 69.133,
+   "hi": 72.067,
+   "first": 51.83,
+   "all": 63.56,
+   "vals": [
+    67,
+    70,
+    68,
+    69,
+    73,
+    71,
+    69,
+    74,
+    73,
+    72
+   ]
+  },
+  "ABL_-L2": {
+   "mean": 49.4,
+   "lo": 45.025,
+   "hi": 53.775,
+   "first": 23.0,
+   "all": 39.5,
+   "vals": [
+    42,
+    43,
+    44,
+    51,
+    51,
+    45,
+    43,
+    55,
+    59,
+    61
+   ]
+  },
+  "ABL_-L3": {
+   "mean": 55.9,
+   "lo": 52.943,
+   "hi": 58.857,
+   "first": 36.0,
+   "all": 48.44,
+   "vals": [
+    49,
+    53,
+    50,
+    54,
+    53,
+    58,
+    60,
+    58,
+    63,
+    61
+   ]
+  },
+  "ABL_-L4g": {
+   "mean": 56.7,
+   "lo": 52.201,
+   "hi": 61.199,
+   "first": 35.67,
+   "all": 48.81,
+   "vals": [
+    56,
+    37,
+    59,
+    58,
+    58,
+    55,
+    61,
+    61,
+    61,
+    61
+   ]
+  },
+  "ABL_-L4d": {
+   "mean": 71.4,
+   "lo": 70.188,
+   "hi": 72.612,
+   "first": 53.5,
+   "all": 64.69,
+   "vals": [
+    69,
+    72,
+    74,
+    75,
+    71,
+    72,
+    69,
+    71,
+    71,
+    70
+   ]
+  },
+  "ABL_-L4p": {
+   "mean": 55.5,
+   "lo": 50.99,
+   "hi": 60.01,
+   "first": 45.0,
+   "all": 51.56,
+   "vals": [
+    47,
+    55,
+    57,
+    52,
+    54,
+    55,
+    61,
+    66,
+    65,
+    43
+   ]
+  },
+  "ABL_-L6m": {
+   "mean": 46.7,
+   "lo": 42.758,
+   "hi": 50.642,
+   "first": 27.17,
+   "all": 39.38,
+   "vals": [
+    43,
+    44,
+    33,
+    48,
+    46,
+    45,
+    49,
+    56,
+    49,
+    54
+   ]
+  },
+  "ABL_-L6a": {
+   "mean": 29.9,
+   "lo": 27.263,
+   "hi": 32.537,
+   "first": 18.67,
+   "all": 25.69,
+   "vals": [
+    25,
+    24,
+    27,
+    32,
+    29,
+    28,
+    32,
+    30,
+    34,
+    38
+   ]
+  },
+  "ABL_-L6d": {
+   "mean": 50.5,
+   "lo": 47.634,
+   "hi": 53.366,
+   "first": 31.67,
+   "all": 43.44,
+   "vals": [
+    42,
+    44,
+    48,
+    50,
+    51,
+    52,
+    54,
+    56,
+    53,
+    55
+   ]
+  },
+  "ABL_-L6c": {
+   "mean": 20.8,
+   "lo": 18.376,
+   "hi": 23.224,
+   "first": 18.5,
+   "all": 19.94,
+   "vals": [
+    21,
+    15,
+    29,
+    22,
+    18,
+    18,
+    22,
+    18,
+    21,
+    24
+   ]
+  }
+ }
+}

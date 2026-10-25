@@ -1,1 +1,32 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCue5geihjSB2MSDigJTigJQg5Yqg5oCn5Yir77yI5aSp55yf54mI77yJCuWkmuaVsOS6uuS8mui/meS5iOWGme+8mumaj+acuuWIhiBzZXjvvIxNIHggRiDphY3lr7nmiY3og73nlJ/jgIIKIiIiCmltcG9ydCByYW5kb20KCgpjbGFzcyBJbmQ6CiAgICBkZWYgX19pbml0X18oc2VsZiwgZ2Vub21lLCBzZXgpOgogICAgICAgIHNlbGYuZ2Vub21lID0gbGlzdChnZW5vbWUpCiAgICAgICAgc2VsZi5zZXggPSBzZXgKICAgICAgICBzZWxmLmVuZXJneSA9IDEwLjAKCgpkZWYgbWF0ZV92MShhLCBiLCBybmcpOgogICAgIiIi5aSp55yf6YeN57uE77ya5q+P5Liq5L2N54K55Y+W5bmz5Z2HIiIiCiAgICBjaGlsZF9nID0gWyh4ICsgeSkgLyAyLjAgZm9yIHgsIHkgaW4gemlwKGEuZ2Vub21lLCBiLmdlbm9tZSldCiAgICByZXR1cm4gSW5kKGNoaWxkX2csIHJuZy5jaG9pY2UoWyJNIiwgIkYiXSkpCgoKZGVmIHJlcHJvZHVjZV92MShwb3AsIHJuZyk6CiAgICAiIiLphY3lr7nnuYHmrpYiIiIKICAgIG9mZnNwcmluZyA9IFtdCiAgICBtYWxlcyA9IFtwIGZvciBwIGluIHBvcCBpZiBwLnNleCA9PSAiTSJdCiAgICBmZW1hbGVzID0gW3AgZm9yIHAgaW4gcG9wIGlmIHAuc2V4ID09ICJGIl0KICAgIHJuZy5zaHVmZmxlKG1hbGVzKQogICAgcm5nLnNodWZmbGUoZmVtYWxlcykKICAgIGZvciBtLCBmIGluIHppcChtYWxlcywgZmVtYWxlcyk6CiAgICAgICAgYyA9IG1hdGVfdjEobSwgZiwgcm5nKQogICAgICAgIG9mZnNwcmluZy5hcHBlbmQoYykKICAgIHJldHVybiBvZmZzcHJpbmcK
+# -*- coding: utf-8 -*-
+"""
+繁衍 v1 —— 加性别（天真版）
+多数人会这么写：随机分 sex，M x F 配对才能生。
+"""
+import random
+
+
+class Ind:
+    def __init__(self, genome, sex):
+        self.genome = list(genome)
+        self.sex = sex
+        self.energy = 10.0
+
+
+def mate_v1(a, b, rng):
+    """天真重组：每个位点取平均"""
+    child_g = [(x + y) / 2.0 for x, y in zip(a.genome, b.genome)]
+    return Ind(child_g, rng.choice(["M", "F"]))
+
+
+def reproduce_v1(pop, rng):
+    """配对繁殖"""
+    offspring = []
+    males = [p for p in pop if p.sex == "M"]
+    females = [p for p in pop if p.sex == "F"]
+    rng.shuffle(males)
+    rng.shuffle(females)
+    for m, f in zip(males, females):
+        c = mate_v1(m, f, rng)
+        offspring.append(c)
+    return offspring

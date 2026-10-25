@@ -1,1 +1,149 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIwOTUg5Ye65Zu+ICsg5pi+6JGX5oCn5qOA6aqMIiIiCmltcG9ydCBzeXMsIG9zLCBqc29uCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgnQWdnJykKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IGZvbnRfbWFuYWdlcgoKZm9yIGZwIGluIFsnL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YycsCiAgICAgICAgICAgJy91c3Ivc2hhcmUvZm9udHMvd3F5LW1pY3JvaGVpL3dxeS1taWNyb2hlaS50dGMnXToKICAgIGlmIG9zLnBhdGguZXhpc3RzKGZwKToKICAgICAgICBmb250X21hbmFnZXIuZm9udE1hbmFnZXIuYWRkZm9udChmcCkKICAgICAgICBwbHQucmNQYXJhbXNbJ2ZvbnQuZmFtaWx5J10gPSBmb250X21hbmFnZXIuRm9udFByb3BlcnRpZXMoZm5hbWU9ZnApLmdldF9uYW1lKCkKICAgICAgICBicmVhawpwbHQucmNQYXJhbXNbJ2F4ZXMudW5pY29kZV9taW51cyddID0gRmFsc2UKCk9VVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpGSUcgPSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZmlnJwpvcy5tYWtlZGlycyhGSUcsIGV4aXN0X29rPVRydWUpClIgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oT1VULCAncmVzdWx0MDk1Lmpzb24nKSkpClJjID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKE9VVCwgJ3Jlc3VsdDA5NWMuanNvbicpKSkKCiMgLS0tLS0tLS0tLSDnu5/orqEgLS0tLS0tLS0tLQpkZWYgZmlzaGVyKGEsIGIsIGMsIGQpOgogICAgIiIiMngyIEZpc2hlciDnsr7noa7mo4DpqozvvIjlj4zkvqfvvInvvIznuq8gcHl0aG9uIOWunueOsCIiIgogICAgZnJvbSBtYXRoIGltcG9ydCBjb21iCiAgICBuID0gYSArIGIgKyBjICsgZAogICAgcjEsIHIyLCBjMSA9IGEgKyBiLCBjICsgZCwgYSArIGMKICAgIGRlZiBwX3RhYih4KToKICAgICAgICByZXR1cm4gY29tYihyMSwgeCkgKiBjb21iKHIyLCBjMSAtIHgpIC8gY29tYihuLCBjMSkKICAgIHBfb2JzID0gcF90YWIoYSkKICAgIHRvdCA9IDAuMAogICAgZm9yIHggaW4gcmFuZ2UobWF4KDAsIGMxIC0gcjIpLCBtaW4ocjEsIGMxKSArIDEpOgogICAgICAgIHAgPSBwX3RhYih4KQogICAgICAgIGlmIHAgPD0gcF9vYnMgKyAxZS0xMjoKICAgICAgICAgICAgdG90ICs9IHAKICAgIHJldHVybiB0b3QKCnN0YXQgPSB7fQoKIyBDOiBjbG9zZWQoMTQvMTYpIHZzIGJsaW5kKDAvMTYpIDsgY2xvc2VkIHZzIG9wZW4oMC8xNikKbiA9IFJbJ0NfcGxheSddWydjbG9zZWQnXVsnbiddCmhfY2xvc2VkID0gaW50KHJvdW5kKFJbJ0NfcGxheSddWydjbG9zZWQnXVsncmF0ZSddICogbikpCmhfYmxpbmQgPSBpbnQocm91bmQoUlsnQ19wbGF5J11bJ2JsaW5kJ11bJ3JhdGUnXSAqIG4pKQpoX29wZW4gPSBpbnQocm91bmQoUlsnQ19wbGF5J11bJ29wZW4nXVsncmF0ZSddICogbikpCnN0YXRbJ2Nsb3NlZF92c19ibGluZCddID0gZGljdChhPWhfY2xvc2VkLCBiPW4gLSBoX2Nsb3NlZCwgYz1oX2JsaW5kLCBkPW4gLSBoX2JsaW5kLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcD1maXNoZXIoaF9jbG9zZWQsIG4gLSBoX2Nsb3NlZCwgaF9ibGluZCwgbiAtIGhfYmxpbmQpKQpzdGF0WydjbG9zZWRfdnNfb3BlbiddID0gZGljdChhPWhfY2xvc2VkLCBiPW4gLSBoX2Nsb3NlZCwgYz1oX29wZW4sIGQ9biAtIGhfb3BlbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcD1maXNoZXIoaF9jbG9zZWQsIG4gLSBoX2Nsb3NlZCwgaF9vcGVuLCBuIC0gaF9vcGVuKSkKCiMgRDogbGFnPTEg5pe2IG5haXZlIHZzIOihpeWBvwpuRCA9IFJbJ0RfbGFnJ11bJzEnXVsnbmFpdmUnXVsnbiddCmhuID0gaW50KHJvdW5kKFJbJ0RfbGFnJ11bJzEnXVsnbmFpdmUnXVsncmF0ZSddICogbkQpKQpocCA9IGludChyb3VuZChSWydEX2xhZyddWycxJ11bJ3ByZWQnXVsncmF0ZSddICogbkQpKQpzdGF0WydsYWcxX25haXZlX3ZzX3ByZWQnXSA9IGRpY3QoYT1obiwgYj1uRCAtIGhuLCBjPWhwLCBkPW5EIC0gaHAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwPWZpc2hlcihobiwgbkQgLSBobiwgaHAsIG5EIC0gaHApKQojIEQ6IOihpeWBv+WcqCBsYWc9MCB2cyBsYWc9OO+8iOihpeWBv+eql+WPo+eahOaegemZkO+8iQpoMCA9IGludChyb3VuZChSWydEX2xhZyddWycwJ11bJ3ByZWQnXVsncmF0ZSddICogbkQpKQpoOCA9IGludChyb3VuZChSWydEX2xhZyddWyc4J11bJ3ByZWQnXVsncmF0ZSddICogbkQpKQpzdGF0WydwcmVkX2xhZzBfdnNfbGFnOCddID0gZGljdChhPWgwLCBiPW5EIC0gaDAsIGM9aDgsIGQ9bkQgLSBoOCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcD1maXNoZXIoaDAsIG5EIC0gaDAsIGg4LCBuRCAtIGg4KSkKCiMgRTogMjXliJcgdnMgNuWIl++8iOmYiOWAvO+8iQpuRSA9IFJbJ0VfcmVzJ11bJzI1J11bJ24nXQpoMjUgPSBpbnQocm91bmQoUlsnRV9yZXMnXVsnMjUnXVsncmF0ZSddICogbkUpKQpoNiA9IGludChyb3VuZChSWydFX3JlcyddWyc2J11bJ3JhdGUnXSAqIG5FKSkKc3RhdFsncmVzMjVfdnNfcmVzNiddID0gZGljdChhPWgyNSwgYj1uRSAtIGgyNSwgYz1oNiwgZD1uRSAtIGg2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHA9ZmlzaGVyKGgyNSwgbkUgLSBoMjUsIGg2LCBuRSAtIGg2KSkKCiMgRzog5bOw5YC877yIVD02MDAwIOaXtiAyNTYgdnMgOO+8iQpuRyA9IFJjWyc2MDAwLjAnXVsnMjU2J11bJ24nXQpoMjU2ID0gaW50KHJvdW5kKFJjWyc2MDAwLjAnXVsnMjU2J11bJ3JhdGUnXSAqIG5HKSkKaDhjID0gaW50KHJvdW5kKFJjWyc2MDAwLjAnXVsnOCddWydyYXRlJ10gKiBuRykpCnN0YXRbJ3BlYWsyNTZfdnNfOCddID0gZGljdChhPWgyNTYsIGI9bkcgLSBoMjU2LCBjPWg4YywgZD1uRyAtIGg4YywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHA9ZmlzaGVyKGgyNTYsIG5HIC0gaDI1NiwgaDhjLCBuRyAtIGg4YykpCgpwcmludCgnPT09IOaYvuiRl+aAp+ajgOmqjO+8iEZpc2hlciDlj4zkvqfvvIk9PT0nKQpmb3IgaywgdiBpbiBzdGF0Lml0ZW1zKCk6CiAgICBwcmludChmJyAge2s6MjJzfSB7dlsiYSJdfS97dlsiYSJdK3ZbImIiXX0gdnMge3ZbImMiXX0ve3ZbImMiXSt2WyJkIl19ICAgcD17dlsicCJdOi40Z30nKQpqc29uLmR1bXAoc3RhdCwgb3Blbihvcy5wYXRoLmpvaW4oT1VULCAnc3RhdDA5NS5qc29uJyksICd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCgojIC0tLS0tLS0tLS0g5Zu+IC0tLS0tLS0tLS0KZmlnLCBheCA9IHBsdC5zdWJwbG90cygyLCAyLCBmaWdzaXplPSgxNCwgMTApKQoKIyAoYSkg546p5rOVCmF4YSA9IGF4WzAsIDBdCm1vZGVzID0gWydvcmFjbGUnLCAnY2xvc2VkJywgJ2JsaW5kJywgJ29wZW4nXQpsYmwgPSBbJ29yYWNsZVxuKOefpemBk+ecn+WAvCknLCAnY2xvc2VkXG7lj6rnnIvnlLvpnaInLCAnYmxpbmRcbuS4jeeciycsICdvcGVuXG7ml6Dlj43ppognXQp2YWxzID0gW1JbJ0NfcGxheSddW21dWydyYXRlJ10gZm9yIG0gaW4gbW9kZXNdCmNvbHMgPSBbJyNjY2NjY2MnLCAnIzJhN2ZiZicsICcjYzA1MDRkJywgJyNjMDUwNGQnXQpiID0gYXhhLmJhcihsYmwsIHZhbHMsIGNvbG9yPWNvbHMpCmZvciByLCB2IGluIHppcChiLCB2YWxzKToKICAgIGF4YS50ZXh0KHIuZ2V0X3goKSArIHIuZ2V0X3dpZHRoKCkgLyAyLCB2ICsgMC4wMywgZid7djouM2Z9JywgaGE9J2NlbnRlcicsIGZvbnRzaXplPTExKQpheGEuc2V0X3lsaW0oMCwgMS4xOCkKYXhhLnNldF95bGFiZWwoJ+WRveS4reeOhycpCmF4YS5zZXRfdGl0bGUoJyhhKSDmnb7miYvliKTmja7lj6rmnaXoh6rnlLvpnaLlkI7vvJrkuI3nnIsgPSDlv4XotKVcbicKICAgICAgICAgICAgICBmJ2Nsb3NlZCB2cyBibGluZCAgcD17c3RhdFsiY2xvc2VkX3ZzX2JsaW5kIl1bInAiXTouMmd9JywgZm9udHNpemU9MTEpCmF4YS5heGhsaW5lKDAuMjUsIGxzPSc6JywgYz0nZ3JheScpCmF4YS50ZXh0KDMuNCwgMC4yNywgJ+maj+acuicsIGZvbnRzaXplPTgsIGM9J2dyYXknLCBoYT0nY2VudGVyJykKCiMgKGIpIOW7tui/nyDDlyDooaXlgb8KYXhiID0gYXhbMCwgMV0KbGFncyA9IHNvcnRlZChpbnQoaykgZm9yIGsgaW4gUlsnRF9sYWcnXSkKbnYgPSBbUlsnRF9sYWcnXVtzdHIobCldWyduYWl2ZSddWydyYXRlJ10gZm9yIGwgaW4gbGFnc10KcHYgPSBbUlsnRF9sYWcnXVtzdHIobCldWydwcmVkJ11bJ3JhdGUnXSBmb3IgbCBpbiBsYWdzXQpheGIucGxvdChsYWdzLCBudiwgJ28tJywgYz0nI2MwNTA0ZCcsIGx3PTIsIGxhYmVsPSduYWl2Ze+8iOWPqueUqOecvOedm++8iScpCmF4Yi5wbG90KGxhZ3MsIHB2LCAncy0nLCBjPScjMmE3ZmJmJywgbHc9MiwgbGFiZWw9J+acrOS9k+inieihpeWBv++8iOiusOW+l+iHquW3seaJi+W+gOWTquWKqOS6hu+8iScpCmF4Yi5zZXRfeGxhYmVsKCfmuLLmn5Plu7bov5/vvIjluKfvvIknKQpheGIuc2V0X3lsYWJlbCgn5ZG95Lit546HJykKYXhiLnNldF95bGltKC0wLjA1LCAxLjA1KQpheGIubGVnZW5kKGZvbnRzaXplPTkpCmF4Yi5zZXRfdGl0bGUoJyhiKSDlu7bov58gMSDluKfvvIznuq/op4bop4nlvZLpm7bvvJvmnKzkvZPop4nmiorlroPmlZHlm57mnaVcbicKICAgICAgICAgICAgICBmJ2xhZz0xOiB7aG59L3tuRH0gdnMge2hwfS97bkR9ICBwPXtzdGF0WyJsYWcxX25haXZlX3ZzX3ByZWQiXVsicCJdOi4yZ30nLCBmb250c2l6ZT0xMSkKCiMgKGMpIOWIhui+qOeOhwpheGMgPSBheFsxLCAwXQpjb2xzX2xpc3QgPSBzb3J0ZWQoW2ludChrKSBmb3IgayBpbiBSWydFX3JlcyddXSkKcnYgPSBbUlsnRV9yZXMnXVtzdHIoYyldWydyYXRlJ10gZm9yIGMgaW4gY29sc19saXN0XQpheGMuc2VtaWxvZ3goY29sc19saXN0LCBydiwgJ28tJywgYz0nIzJhN2ZiZicsIGx3PTIpCmF4Yy5zZXRfeGxhYmVsKCfnlLvpnaLliIbovqjnjofvvIjlg4/ntKDliJfmlbDvvIknKQpheGMuc2V0X3lsYWJlbCgn5ZG95Lit546HJykKYXhjLnNldF95bGltKC0wLjA1LCAxLjA1KQpheGMuYXh2c3BhbigwLjEsIDEyLCBjb2xvcj0nI2MwNTA0ZCcsIGFscGhhPTAuMTApCmF4Yy50ZXh0KDQuNSwgMC41LCAn5bSp5aGM5Yy6JywgZm9udHNpemU9MTAsIGM9JyNjMDUwNGQnKQpheGMuc2V0X3RpdGxlKCcoYykg5YiG6L6o546H5piv6ZiI5YC85LiN5piv5riQ5Y+Y77yaMjUg5YiX6L+Y6IO9546p77yMNiDliJflhajnno5cbicKICAgICAgICAgICAgICBmJzI15YiXIHZzIDbliJcgIHA9e3N0YXRbInJlczI1X3ZzX3JlczYiXVsicCJdOi4yZ30nLCBmb250c2l6ZT0xMSkKCiMgKGQpIOmihOeul+adg+ihoQpheGQgPSBheFsxLCAxXQpjbWFwID0gezYwMC4wOiAnI2MwNTA0ZCcsIDE1MDAuMDogJyNlMDhiMmEnLCAzMDAwLjA6ICcjMmE3ZmJmJywgNjAwMC4wOiAnIzNhOGY0Zid9CmZvciBUayBpbiBbJzYwMC4wJywgJzE1MDAuMCcsICczMDAwLjAnLCAnNjAwMC4wJ106CiAgICByb3cgPSBSY1tUa10KICAgIHdzID0gc29ydGVkKGludChrKSBmb3IgayBpbiByb3cpCiAgICB5cyA9IFtyb3dbc3RyKHcpXVsncmF0ZSddIGZvciB3IGluIHdzXQogICAgcGVhayA9IG1heCh3cywga2V5PWxhbWJkYSB3OiByb3dbc3RyKHcpXVsncmF0ZSddKQogICAgYXhkLnNlbWlsb2d4KHdzLCB5cywgJ28tJywgYz1jbWFwW2Zsb2F0KFRrKV0sIGx3PTIsIGxhYmVsPWYn6aKE566XIHtmbG9hdChUayk6LjBmfe+8iOWzsOWAvCB7cGVha30g5YiX77yJJykKYXhkLnNldF94bGFiZWwoJ+avj+W4p+a4suafk+WkmuWwkeWIl++8iOeUu+i0qO+8iScpCmF4ZC5zZXRfeWxhYmVsKCflkb3kuK3njocnKQpheGQuc2V0X3lsaW0oLTAuMDUsIDEuMDUpCmF4ZC5sZWdlbmQoZm9udHNpemU9OSkKYXhkLnNldF90aXRsZSgnKGQpIOeUu+i0qOS4juW4p+aVsOaKouWQjOS4gOS7vemihOeul++8muWAkiBV77yM5LiU5bOw5YC86ZqP6aKE566X5Y+z56e7JywgZm9udHNpemU9MTEpCgpwbHQudGlnaHRfbGF5b3V0KCkKcCA9IG9zLnBhdGguam9pbihGSUcsICcwOTVfcGxheV9nYW1lLnBuZycpCnBsdC5zYXZlZmlnKHAsIGRwaT0xMzUpCnByaW50KCdcbuWbvuW3suS/neWtmDonLCBwKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""095 出图 + 显著性检验"""
+import sys, os, json
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+for fp in ['/usr/share/fonts/truetype/wqy/wqy-microhei.ttc',
+           '/usr/share/fonts/wqy-microhei/wqy-microhei.ttc']:
+    if os.path.exists(fp):
+        font_manager.fontManager.addfont(fp)
+        plt.rcParams['font.family'] = font_manager.FontProperties(fname=fp).get_name()
+        break
+plt.rcParams['axes.unicode_minus'] = False
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+FIG = '/data/workspace/luoshen-o1/fig'
+os.makedirs(FIG, exist_ok=True)
+R = json.load(open(os.path.join(OUT, 'result095.json')))
+Rc = json.load(open(os.path.join(OUT, 'result095c.json')))
+
+# ---------- 统计 ----------
+def fisher(a, b, c, d):
+    """2x2 Fisher 精确检验（双侧），纯 python 实现"""
+    from math import comb
+    n = a + b + c + d
+    r1, r2, c1 = a + b, c + d, a + c
+    def p_tab(x):
+        return comb(r1, x) * comb(r2, c1 - x) / comb(n, c1)
+    p_obs = p_tab(a)
+    tot = 0.0
+    for x in range(max(0, c1 - r2), min(r1, c1) + 1):
+        p = p_tab(x)
+        if p <= p_obs + 1e-12:
+            tot += p
+    return tot
+
+stat = {}
+
+# C: closed(14/16) vs blind(0/16) ; closed vs open(0/16)
+n = R['C_play']['closed']['n']
+h_closed = int(round(R['C_play']['closed']['rate'] * n))
+h_blind = int(round(R['C_play']['blind']['rate'] * n))
+h_open = int(round(R['C_play']['open']['rate'] * n))
+stat['closed_vs_blind'] = dict(a=h_closed, b=n - h_closed, c=h_blind, d=n - h_blind,
+                               p=fisher(h_closed, n - h_closed, h_blind, n - h_blind))
+stat['closed_vs_open'] = dict(a=h_closed, b=n - h_closed, c=h_open, d=n - h_open,
+                              p=fisher(h_closed, n - h_closed, h_open, n - h_open))
+
+# D: lag=1 时 naive vs 补偿
+nD = R['D_lag']['1']['naive']['n']
+hn = int(round(R['D_lag']['1']['naive']['rate'] * nD))
+hp = int(round(R['D_lag']['1']['pred']['rate'] * nD))
+stat['lag1_naive_vs_pred'] = dict(a=hn, b=nD - hn, c=hp, d=nD - hp,
+                                  p=fisher(hn, nD - hn, hp, nD - hp))
+# D: 补偿在 lag=0 vs lag=8（补偿窗口的极限）
+h0 = int(round(R['D_lag']['0']['pred']['rate'] * nD))
+h8 = int(round(R['D_lag']['8']['pred']['rate'] * nD))
+stat['pred_lag0_vs_lag8'] = dict(a=h0, b=nD - h0, c=h8, d=nD - h8,
+                                 p=fisher(h0, nD - h0, h8, nD - h8))
+
+# E: 25列 vs 6列（阈值）
+nE = R['E_res']['25']['n']
+h25 = int(round(R['E_res']['25']['rate'] * nE))
+h6 = int(round(R['E_res']['6']['rate'] * nE))
+stat['res25_vs_res6'] = dict(a=h25, b=nE - h25, c=h6, d=nE - h6,
+                             p=fisher(h25, nE - h25, h6, nE - h6))
+
+# G: 峰值（T=6000 时 256 vs 8）
+nG = Rc['6000.0']['256']['n']
+h256 = int(round(Rc['6000.0']['256']['rate'] * nG))
+h8c = int(round(Rc['6000.0']['8']['rate'] * nG))
+stat['peak256_vs_8'] = dict(a=h256, b=nG - h256, c=h8c, d=nG - h8c,
+                            p=fisher(h256, nG - h256, h8c, nG - h8c))
+
+print('=== 显著性检验（Fisher 双侧）===')
+for k, v in stat.items():
+    print(f'  {k:22s} {v["a"]}/{v["a"]+v["b"]} vs {v["c"]}/{v["c"]+v["d"]}   p={v["p"]:.4g}')
+json.dump(stat, open(os.path.join(OUT, 'stat095.json'), 'w'), ensure_ascii=False, indent=1)
+
+# ---------- 图 ----------
+fig, ax = plt.subplots(2, 2, figsize=(14, 10))
+
+# (a) 玩法
+axa = ax[0, 0]
+modes = ['oracle', 'closed', 'blind', 'open']
+lbl = ['oracle\n(知道真值)', 'closed\n只看画面', 'blind\n不看', 'open\n无反馈']
+vals = [R['C_play'][m]['rate'] for m in modes]
+cols = ['#cccccc', '#2a7fbf', '#c0504d', '#c0504d']
+b = axa.bar(lbl, vals, color=cols)
+for r, v in zip(b, vals):
+    axa.text(r.get_x() + r.get_width() / 2, v + 0.03, f'{v:.3f}', ha='center', fontsize=11)
+axa.set_ylim(0, 1.18)
+axa.set_ylabel('命中率')
+axa.set_title('(a) 松手判据只来自画面后：不看 = 必败\n'
+              f'closed vs blind  p={stat["closed_vs_blind"]["p"]:.2g}', fontsize=11)
+axa.axhline(0.25, ls=':', c='gray')
+axa.text(3.4, 0.27, '随机', fontsize=8, c='gray', ha='center')
+
+# (b) 延迟 × 补偿
+axb = ax[0, 1]
+lags = sorted(int(k) for k in R['D_lag'])
+nv = [R['D_lag'][str(l)]['naive']['rate'] for l in lags]
+pv = [R['D_lag'][str(l)]['pred']['rate'] for l in lags]
+axb.plot(lags, nv, 'o-', c='#c0504d', lw=2, label='naive（只用眼睛）')
+axb.plot(lags, pv, 's-', c='#2a7fbf', lw=2, label='本体觉补偿（记得自己手往哪动了）')
+axb.set_xlabel('渲染延迟（帧）')
+axb.set_ylabel('命中率')
+axb.set_ylim(-0.05, 1.05)
+axb.legend(fontsize=9)
+axb.set_title('(b) 延迟 1 帧，纯视觉归零；本体觉把它救回来\n'
+              f'lag=1: {hn}/{nD} vs {hp}/{nD}  p={stat["lag1_naive_vs_pred"]["p"]:.2g}', fontsize=11)
+
+# (c) 分辨率
+axc = ax[1, 0]
+cols_list = sorted([int(k) for k in R['E_res']])
+rv = [R['E_res'][str(c)]['rate'] for c in cols_list]
+axc.semilogx(cols_list, rv, 'o-', c='#2a7fbf', lw=2)
+axc.set_xlabel('画面分辨率（像素列数）')
+axc.set_ylabel('命中率')
+axc.set_ylim(-0.05, 1.05)
+axc.axvspan(0.1, 12, color='#c0504d', alpha=0.10)
+axc.text(4.5, 0.5, '崩塌区', fontsize=10, c='#c0504d')
+axc.set_title('(c) 分辨率是阈值不是渐变：25 列还能玩，6 列全瞎\n'
+              f'25列 vs 6列  p={stat["res25_vs_res6"]["p"]:.2g}', fontsize=11)
+
+# (d) 预算权衡
+axd = ax[1, 1]
+cmap = {600.0: '#c0504d', 1500.0: '#e08b2a', 3000.0: '#2a7fbf', 6000.0: '#3a8f4f'}
+for Tk in ['600.0', '1500.0', '3000.0', '6000.0']:
+    row = Rc[Tk]
+    ws = sorted(int(k) for k in row)
+    ys = [row[str(w)]['rate'] for w in ws]
+    peak = max(ws, key=lambda w: row[str(w)]['rate'])
+    axd.semilogx(ws, ys, 'o-', c=cmap[float(Tk)], lw=2, label=f'预算 {float(Tk):.0f}（峰值 {peak} 列）')
+axd.set_xlabel('每帧渲染多少列（画质）')
+axd.set_ylabel('命中率')
+axd.set_ylim(-0.05, 1.05)
+axd.legend(fontsize=9)
+axd.set_title('(d) 画质与帧数抢同一份预算：倒 U，且峰值随预算右移', fontsize=11)
+
+plt.tight_layout()
+p = os.path.join(FIG, '095_play_game.png')
+plt.savefig(p, dpi=135)
+print('\n图已保存:', p)

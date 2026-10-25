@@ -1,1 +1,150 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKZXhwMTY0IOa1i+mHj+aegemZkDog54G15pWP5bqm6Zi25qKvIC8g5YWz6IGU5pC65bim5L+h5oGvIC8g6KeC5rWL55qE5Y+N5L2c55SoCumTvuadoTog5qKv5bqmIDwtIOacuuWZqOeBteaVj+W6piA8LSDph4/lrZDmnoHpmZAgPC0g6KeC5rWL5Z2N57ypIDwtIOi/kOWKqCjngbXprYIp5LiN5Y+v6YePCiIiIgppbXBvcnQgb3MsIHRpbWUsIGpzb24sIHN0YXRpc3RpY3MgYXMgc3QKaW1wb3J0IG51bXB5IGFzIG5wCgpPVVQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTY0X21lYXN1cmVtZW50X2xpbWl0Igpvcy5tYWtlZGlycyhPVVQsIGV4aXN0X29rPVRydWUpClIgPSB7fQoKCiMgLS0tLS0tLS0tLS0tLS0tLSDlrp7pqoxBOiDnu4/lhbjnuqDnvKDlr7nnsbvmr5QgLS0tLS0tLS0tLS0tLS0tLQpkZWYgbWlfYml0cyh1LCB2KToKICAgIHUgPSBucC5hc2FycmF5KHUpLmFzdHlwZShib29sKTsgdiA9IG5wLmFzYXJyYXkodikuYXN0eXBlKGJvb2wpCiAgICBwdTEgPSB1Lm1lYW4oKTsgcHYxID0gdi5tZWFuKCkKICAgIGRlZiB0ZXJtKHAsIHEpOgogICAgICAgIHJldHVybiAwLjAgaWYgcCA8PSAwIGVsc2UgcCAqIG5wLmxvZzIocCAvIHEpCiAgICBwMTEgPSAodSAmIHYpLm1lYW4oKQogICAgcDAwID0gKCh+dSkgJiAofnYpKS5tZWFuKCkKICAgIHAwMSA9ICgofnUpICYgdikubWVhbigpCiAgICBwMTAgPSAodSAmICh+dikpLm1lYW4oKQogICAgcmV0dXJuIHRlcm0ocDAwLCAoMS1wdTEpKigxLXB2MSkpICsgdGVybShwMDEsICgxLXB1MSkqcHYxKSArIFwKICAgICAgICAgICB0ZXJtKHAxMCwgcHUxKigxLXB2MSkpICsgdGVybShwMTEsIHB1MSpwdjEpCgoKZGVmIGV4cEEoTj0zMDAwMCk6CiAgICBuYnl0ZXMgPSAoMypOKS8vOCArIDMyCiAgICBiaXRzID0gbnAudW5wYWNrYml0cyhucC5mcm9tYnVmZmVyKG9zLnVyYW5kb20obmJ5dGVzKSwgZHR5cGU9bnAudWludDgpKQogICAgWCA9IGJpdHNbMDpOXS5hc3R5cGUobnAudWludDgpICAgICAgICAgICAgIyDooqvmtYvph4/nmoQi5pa55ZCRIijnnJ/pmo/mnLopCiAgICBBID0gYml0c1tOOjIqTl0uYXN0eXBlKG5wLnVpbnQ4KSAgICAgICAgICAjIOWIhuaUr0Eg5Y2V54us55yL5piv6ZqP5py655qECiAgICBCID0gKEEgXiBYKS5hc3R5cGUobnAudWludDgpICAgICAgICAgICAgICAjIOWFs+iBlCBBXkIg57yW56CBIFgKICAgIG1pX0EgPSBmbG9hdChtaV9iaXRzKEEsIFgpKQogICAgbWlfQiA9IGZsb2F0KG1pX2JpdHMoQiwgWCkpCiAgICBhY2Nfam9pbnQgPSBmbG9hdCgoKEEgXiBCKSA9PSBYKS5tZWFuKCkpCiAgICBzY2FuID0ge30KICAgIGZvciBwIGluIFswLjAsIDAuMDIsIDAuMDUsIDAuMTAsIDAuMjAsIDAuMzUsIDAuNTBdOgogICAgICAgIGlmIHAgPD0gMDoKICAgICAgICAgICAgZXJyID0gbnAuemVyb3MoTiwgZHR5cGU9bnAudWludDgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdGhyID0gaW50KHJvdW5kKHAgKiAyNTYpKQogICAgICAgICAgICBlcnIgPSAobnAuZnJvbWJ1ZmZlcihvcy51cmFuZG9tKE4pLCBkdHlwZT1ucC51aW50OCkgPCB0aHIpLmFzdHlwZShucC51aW50OCkKICAgICAgICBBX29icyA9IChBIF4gZXJyKS5hc3R5cGUobnAudWludDgpCiAgICAgICAgYWNjID0gZmxvYXQoKChBX29icyBeIEIpID09IFgpLm1lYW4oKSkKICAgICAgICBtaV9zaW5nbGUgPSBmbG9hdChtaV9iaXRzKEFfb2JzLCBYKSkKICAgICAgICBzY2FuW2Yie3A6LjJmfSJdID0geyJhY2MiOiBhY2MsICJtaV9zaW5nbGUiOiBtaV9zaW5nbGV9CiAgICByZXMgPSB7Ik4iOiBOLCAibWlfc2luZ2xlX0EiOiBtaV9BLCAibWlfc2luZ2xlX0IiOiBtaV9CLAogICAgICAgICAgICJhY2Nfam9pbnQiOiBhY2Nfam9pbnQsICJwZXJ0dXJiIjogc2Nhbn0KICAgIGFzc2VydCBhY2Nfam9pbnQgPiAwLjk5OSwgZiJB6Ieq5qOA5aSx6LSlOiDlhbPogZTlupTlrozlhajmgaLlpI1YLCBnb3Qge2FjY19qb2ludH0iCiAgICBhc3NlcnQgbWlfQSA8IDAuMDIgYW5kIG1pX0IgPCAwLjAyLCBmIkHoh6rmo4DlpLHotKU6IOWNleWIhuaUr+W6lOaXoOS/oeaBryB7bWlfQX0ge21pX0J9IgogICAgUlsnQSddID0gcmVzCiAgICByZXR1cm4gcmVzCgoKIyAtLS0tLS0tLS0tLS0tLS0tIOWunumqjEI6IOeBteaVj+W6pumYtuairyjnnJ/lrp5DUFUpIC0tLS0tLS0tLS0tLS0tLS0KZGVmIHdvcmtsb2FkKGxldmVsKToKICAgIG4gPSA2MCBpZiBsZXZlbCA9PSAwIGVsc2UgMTgwCiAgICBhID0gbnAuZnVsbCgobiwgbiksIDEuMDAwMDAwMSkKICAgIGIgPSBucC5mdWxsKChuLCBuKSwgMS4wMDAwMDAyKQogICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICBjID0gYSBAIGIKICAgIHJldHVybiB0aW1lLnBlcmZfY291bnRlcl9ucygpIC0gdDAsIGMuc3VtKCkKCgpkZWYgZHByaW1lX2hlbGRvdXQodmFscywgbGFicywgc2VlZF9ieXRlcyk6CiAgICB2YWxzID0gbnAuYXNhcnJheSh2YWxzLCBmbG9hdCk7IGxhYnMgPSBucC5hc2FycmF5KGxhYnMpCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoaW50LmZyb21fYnl0ZXMoc2VlZF9ieXRlcywgJ2JpZycpKQogICAgaWR4ID0gcm5nLnBlcm11dGF0aW9uKGxlbih2YWxzKSk7IG50ciA9IGxlbihpZHgpLy8yCiAgICB0ciwgdGUgPSBpZHhbOm50cl0sIGlkeFtudHI6XQogICAgbTAgPSB2YWxzW3RyXVtsYWJzW3RyXSA9PSAwXS5tZWFuKCk7IG0xID0gdmFsc1t0cl1bbGFic1t0cl0gPT0gMV0ubWVhbigpCiAgICBzaWduID0gMS4wIGlmIG0xID49IG0wIGVsc2UgLTEuMAogICAgczAgPSBzaWduKnZhbHNbdGVdW2xhYnNbdGVdID09IDBdOyBzMSA9IHNpZ24qdmFsc1t0ZV1bbGFic1t0ZV0gPT0gMV0KICAgIGlmIGxlbihzMCkgPCAyIG9yIGxlbihzMSkgPCAyOgogICAgICAgIHJldHVybiAwLjAKICAgIHYwID0gczAudmFyKGRkb2Y9MSk7IHYxID0gczEudmFyKGRkb2Y9MSkKICAgIHNwID0gbnAuc3FydCgoKGxlbihzMCktMSkqdjAgKyAobGVuKHMxKS0xKSp2MSkgLyAobGVuKHMwKStsZW4oczEpLTIpKQogICAgaWYgc3AgPD0gMDoKICAgICAgICByZXR1cm4gMC4wCiAgICByZXR1cm4gZmxvYXQoKHMxLm1lYW4oKS1zMC5tZWFuKCkpL3NwKQoKCmRlZiBleHBCKFM9KDEsIDIsIDQsIDgsIDE2KSwgTj0zMCk6CiAgICBvdXQgPSB7fQogICAgZm9yIHMgaW4gUzoKICAgICAgICB2YWxzID0gW107IGxhYnMgPSBbXQogICAgICAgIG9yZGVyID0gbnAuYXJyYXkoWzAsIDFdKk4sIGR0eXBlPWludCkKICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoaW50LmZyb21fYnl0ZXMob3MudXJhbmRvbSg0KSwgJ2JpZycpKQogICAgICAgIHJuZy5zaHVmZmxlKG9yZGVyKSAgICAgICAgICAgICAgICAgICAgICMg5Lqk57uHLCDpmLLpobrluo/mvILnp7sKICAgICAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyX25zKCkKICAgICAgICBmb3IgbGFiIGluIG9yZGVyOgogICAgICAgICAgICB0b3QgPSAwLjAKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2Uocyk6CiAgICAgICAgICAgICAgICBkdCwgXyA9IHdvcmtsb2FkKGludChsYWIpKTsgdG90ICs9IGR0CiAgICAgICAgICAgIHZhbHMuYXBwZW5kKHRvdC9zKTsgbGFicy5hcHBlbmQoaW50KGxhYikpCiAgICAgICAgdDEgPSB0aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICAgICAgZCA9IGRwcmltZV9oZWxkb3V0KHZhbHMsIGxhYnMsIG9zLnVyYW5kb20oNCkpCiAgICAgICAgb3V0W3N0cihzKV0gPSB7ImRwcmltZSI6IGQsICJjb3N0X3MiOiBmbG9hdCgodDEtdDApLzFlOSksICJuIjogbGVuKHZhbHMpfQogICAgUlsnQiddID0gb3V0CiAgICByZXR1cm4gb3V0CgoKIyAtLS0tLS0tLS0tLS0tLS0tIOWunumqjEM6IOingua1i+eahOWPjeS9nOeUqCjlr7nnhac957qv562J5b6FKSAtLS0tLS0tLS0tLS0tLS0tCmRlZiByZWFkX2F2ZyhsZXZlbCwgbSk6CiAgICB0b3QgPSAwLjAKICAgIGZvciBfIGluIHJhbmdlKG0pOgogICAgICAgIGR0LCBfID0gd29ya2xvYWQobGV2ZWwpOyB0b3QgKz0gZHQKICAgIHJldHVybiB0b3QvbQoKCmRlZiBleHBDKHJlcHM9OCwgc3Ryb25nPTY0LCBtPTYpOgogICAgb2JzID0gW107IHdhaXQgPSBbXQogICAgZm9yIHIgaW4gcmFuZ2UocmVwcyk6CiAgICAgICAgdjAgPSByZWFkX2F2ZygwLCBtKQogICAgICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXJfbnMoKQogICAgICAgIGZvciBfIGluIHJhbmdlKHN0cm9uZyk6CiAgICAgICAgICAgIHdvcmtsb2FkKDEpCiAgICAgICAgdDEgPSB0aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICAgICAgdjEgPSByZWFkX2F2ZygwLCBtKQogICAgICAgIGR0ID0gKHQxLXQwKS8xZTkKICAgICAgICBvYnMuYXBwZW5kKHsidjAiOiB2MCwgInYxIjogdjEsICJkdCI6IGR0LCAiZGVsdGEiOiBhYnModjEtdjApfSkKICAgICAgICB2MGIgPSByZWFkX2F2ZygwLCBtKQogICAgICAgIHRpbWUuc2xlZXAoZHQpCiAgICAgICAgdjFiID0gcmVhZF9hdmcoMCwgbSkKICAgICAgICB3YWl0LmFwcGVuZCh7InYwIjogdjBiLCAidjEiOiB2MWIsICJkdCI6IGR0LCAiZGVsdGEiOiBhYnModjFiLXYwYil9KQogICAgcmVzID0geyJvYnNfZGVsdGFfbWVhbiI6IGZsb2F0KHN0Lm1lYW4oW3hbJ2RlbHRhJ10gZm9yIHggaW4gb2JzXSkpLAogICAgICAgICAgICJ3YWl0X2RlbHRhX21lYW4iOiBmbG9hdChzdC5tZWFuKFt4WydkZWx0YSddIGZvciB4IGluIHdhaXRdKSksCiAgICAgICAgICAgIm9ic19kdF9tZWFuIjogZmxvYXQoc3QubWVhbihbeFsnZHQnXSBmb3IgeCBpbiBvYnNdKSksCiAgICAgICAgICAgIm9ic19kZWx0YXMiOiBbeFsnZGVsdGEnXSBmb3IgeCBpbiBvYnNdLAogICAgICAgICAgICJ3YWl0X2RlbHRhcyI6IFt4WydkZWx0YSddIGZvciB4IGluIHdhaXRdfQogICAgUlsnQyddID0gcmVzCiAgICByZXR1cm4gcmVzCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGEgPSBleHBBKCkKICAgIHByaW50KCJBIOWNleWIhuaUr+S6kuS/oeaBryAgSShBO1gpPSUuNWYgIEkoQjtYKT0lLjVmIiAlIChhWydtaV9zaW5nbGVfQSddLCBhWydtaV9zaW5nbGVfQiddKSkKICAgIHByaW50KCJBIOWFs+iBlOaBouWkjVjlh4bnoa7njocgPSAlLjRmIiAlIGFbJ2FjY19qb2ludCddKQogICAgZm9yIGssIHYgaW4gYVsncGVydHVyYiddLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoIiAgIOingua1i+aJsOWKqHA9JXMgIOWFs+iBlOWHhuehrueOhz0lLjRmICDljZXliIbmlK9JPSUuNWYiICUgKGssIHZbJ2FjYyddLCB2WydtaV9zaW5nbGUnXSkpCiAgICBiID0gZXhwQigpCiAgICBwcmludCgiQiDngbXmlY/luqbpmLbmoq86IikKICAgIGZvciBrLCB2IGluIGIuaXRlbXMoKToKICAgICAgICBwcmludCgiICAgcz0lcyAgZCc9JS40ZiAg5Luj5Lu3PSUuM2ZzIiAlIChrLCB2WydkcHJpbWUnXSwgdlsnY29zdF9zJ10pKQogICAgYyA9IGV4cEMoKQogICAgcHJpbnQoIkMg6KeC5rWL5Y+N5L2c55SoOiDop4LmtYvnu4RkZWx0YT0lLjJmIG5zICDnuq/nrYnlvoXnu4RkZWx0YT0lLjJmIG5zICAo5by66KeC5rWL5pe26ZW/JS40ZnMpIgogICAgICAgICAgJSAoY1snb2JzX2RlbHRhX21lYW4nXSwgY1snd2FpdF9kZWx0YV9tZWFuJ10sIGNbJ29ic19kdF9tZWFuJ10pKQogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihPVVQsICdyZXN1bHQxNjQuanNvbicpLCAndycpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKFIsIGYsIGluZGVudD0xKQogICAgcHJpbnQoInNhdmVkIC0+Iiwgb3MucGF0aC5qb2luKE9VVCwgJ3Jlc3VsdDE2NC5qc29uJykpCg==
+#!/usr/bin/env python3
+"""
+exp164 测量极限: 灵敏度阶梯 / 关联携带信息 / 观测的反作用
+链条: 梯度 <- 机器灵敏度 <- 量子极限 <- 观测坍缩 <- 运动(灵魂)不可量
+"""
+import os, time, json, statistics as st
+import numpy as np
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp164_measurement_limit"
+os.makedirs(OUT, exist_ok=True)
+R = {}
+
+
+# ---------------- 实验A: 经典纠缠对类比 ----------------
+def mi_bits(u, v):
+    u = np.asarray(u).astype(bool); v = np.asarray(v).astype(bool)
+    pu1 = u.mean(); pv1 = v.mean()
+    def term(p, q):
+        return 0.0 if p <= 0 else p * np.log2(p / q)
+    p11 = (u & v).mean()
+    p00 = ((~u) & (~v)).mean()
+    p01 = ((~u) & v).mean()
+    p10 = (u & (~v)).mean()
+    return term(p00, (1-pu1)*(1-pv1)) + term(p01, (1-pu1)*pv1) + \
+           term(p10, pu1*(1-pv1)) + term(p11, pu1*pv1)
+
+
+def expA(N=30000):
+    nbytes = (3*N)//8 + 32
+    bits = np.unpackbits(np.frombuffer(os.urandom(nbytes), dtype=np.uint8))
+    X = bits[0:N].astype(np.uint8)            # 被测量的"方向"(真随机)
+    A = bits[N:2*N].astype(np.uint8)          # 分支A 单独看是随机的
+    B = (A ^ X).astype(np.uint8)              # 关联 A^B 编码 X
+    mi_A = float(mi_bits(A, X))
+    mi_B = float(mi_bits(B, X))
+    acc_joint = float(((A ^ B) == X).mean())
+    scan = {}
+    for p in [0.0, 0.02, 0.05, 0.10, 0.20, 0.35, 0.50]:
+        if p <= 0:
+            err = np.zeros(N, dtype=np.uint8)
+        else:
+            thr = int(round(p * 256))
+            err = (np.frombuffer(os.urandom(N), dtype=np.uint8) < thr).astype(np.uint8)
+        A_obs = (A ^ err).astype(np.uint8)
+        acc = float(((A_obs ^ B) == X).mean())
+        mi_single = float(mi_bits(A_obs, X))
+        scan[f"{p:.2f}"] = {"acc": acc, "mi_single": mi_single}
+    res = {"N": N, "mi_single_A": mi_A, "mi_single_B": mi_B,
+           "acc_joint": acc_joint, "perturb": scan}
+    assert acc_joint > 0.999, f"A自检失败: 关联应完全恢复X, got {acc_joint}"
+    assert mi_A < 0.02 and mi_B < 0.02, f"A自检失败: 单分支应无信息 {mi_A} {mi_B}"
+    R['A'] = res
+    return res
+
+
+# ---------------- 实验B: 灵敏度阶梯(真实CPU) ----------------
+def workload(level):
+    n = 60 if level == 0 else 180
+    a = np.full((n, n), 1.0000001)
+    b = np.full((n, n), 1.0000002)
+    t0 = time.perf_counter_ns()
+    c = a @ b
+    return time.perf_counter_ns() - t0, c.sum()
+
+
+def dprime_heldout(vals, labs, seed_bytes):
+    vals = np.asarray(vals, float); labs = np.asarray(labs)
+    rng = np.random.default_rng(int.from_bytes(seed_bytes, 'big'))
+    idx = rng.permutation(len(vals)); ntr = len(idx)//2
+    tr, te = idx[:ntr], idx[ntr:]
+    m0 = vals[tr][labs[tr] == 0].mean(); m1 = vals[tr][labs[tr] == 1].mean()
+    sign = 1.0 if m1 >= m0 else -1.0
+    s0 = sign*vals[te][labs[te] == 0]; s1 = sign*vals[te][labs[te] == 1]
+    if len(s0) < 2 or len(s1) < 2:
+        return 0.0
+    v0 = s0.var(ddof=1); v1 = s1.var(ddof=1)
+    sp = np.sqrt(((len(s0)-1)*v0 + (len(s1)-1)*v1) / (len(s0)+len(s1)-2))
+    if sp <= 0:
+        return 0.0
+    return float((s1.mean()-s0.mean())/sp)
+
+
+def expB(S=(1, 2, 4, 8, 16), N=30):
+    out = {}
+    for s in S:
+        vals = []; labs = []
+        order = np.array([0, 1]*N, dtype=int)
+        rng = np.random.default_rng(int.from_bytes(os.urandom(4), 'big'))
+        rng.shuffle(order)                     # 交织, 防顺序漂移
+        t0 = time.perf_counter_ns()
+        for lab in order:
+            tot = 0.0
+            for _ in range(s):
+                dt, _ = workload(int(lab)); tot += dt
+            vals.append(tot/s); labs.append(int(lab))
+        t1 = time.perf_counter_ns()
+        d = dprime_heldout(vals, labs, os.urandom(4))
+        out[str(s)] = {"dprime": d, "cost_s": float((t1-t0)/1e9), "n": len(vals)}
+    R['B'] = out
+    return out
+
+
+# ---------------- 实验C: 观测的反作用(对照=纯等待) ----------------
+def read_avg(level, m):
+    tot = 0.0
+    for _ in range(m):
+        dt, _ = workload(level); tot += dt
+    return tot/m
+
+
+def expC(reps=8, strong=64, m=6):
+    obs = []; wait = []
+    for r in range(reps):
+        v0 = read_avg(0, m)
+        t0 = time.perf_counter_ns()
+        for _ in range(strong):
+            workload(1)
+        t1 = time.perf_counter_ns()
+        v1 = read_avg(0, m)
+        dt = (t1-t0)/1e9
+        obs.append({"v0": v0, "v1": v1, "dt": dt, "delta": abs(v1-v0)})
+        v0b = read_avg(0, m)
+        time.sleep(dt)
+        v1b = read_avg(0, m)
+        wait.append({"v0": v0b, "v1": v1b, "dt": dt, "delta": abs(v1b-v0b)})
+    res = {"obs_delta_mean": float(st.mean([x['delta'] for x in obs])),
+           "wait_delta_mean": float(st.mean([x['delta'] for x in wait])),
+           "obs_dt_mean": float(st.mean([x['dt'] for x in obs])),
+           "obs_deltas": [x['delta'] for x in obs],
+           "wait_deltas": [x['delta'] for x in wait]}
+    R['C'] = res
+    return res
+
+
+if __name__ == "__main__":
+    a = expA()
+    print("A 单分支互信息  I(A;X)=%.5f  I(B;X)=%.5f" % (a['mi_single_A'], a['mi_single_B']))
+    print("A 关联恢复X准确率 = %.4f" % a['acc_joint'])
+    for k, v in a['perturb'].items():
+        print("   观测扰动p=%s  关联准确率=%.4f  单分支I=%.5f" % (k, v['acc'], v['mi_single']))
+    b = expB()
+    print("B 灵敏度阶梯:")
+    for k, v in b.items():
+        print("   s=%s  d'=%.4f  代价=%.3fs" % (k, v['dprime'], v['cost_s']))
+    c = expC()
+    print("C 观测反作用: 观测组delta=%.2f ns  纯等待组delta=%.2f ns  (强观测时长%.4fs)"
+          % (c['obs_delta_mean'], c['wait_delta_mean'], c['obs_dt_mean']))
+    with open(os.path.join(OUT, 'result164.json'), 'w') as f:
+        json.dump(R, f, indent=1)
+    print("saved ->", os.path.join(OUT, 'result164.json'))

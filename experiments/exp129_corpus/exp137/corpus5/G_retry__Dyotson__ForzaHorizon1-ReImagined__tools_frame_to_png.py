@@ -1,1 +1,53 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJDb252ZXJ0IGEgRk9SWkFfRlJBTUVEVU1QIGZyb250LWJ1ZmZlciBkdW1wICguYmluICsgLmpzb24pIHRvIFBORy4KClVzYWdlOiBmcmFtZV90b19wbmcucHkgRFVNUC5iaW4gW09VVC5wbmddIFstLWdhaW4gTl0KCkRldGlsZXMgWGVub3MgMkQtdGlsZWQgMzJicHAgc3VyZmFjZXMgKGtfOF84XzhfOCAvIGtfMl8xMF8xMF8xMCwgcmVhZCBhcyA4LWJpdApjaGFubmVscykgYW5kIHdyaXRlcyBhbiBSR0IgUE5HLiAtLWdhaW4gbXVsdGlwbGllcyBjaGFubmVsIHZhbHVlcywgd2hpY2ggaGVscHMKd2hlbiBjaGVja2luZyB3aGV0aGVyIGFuIGFsbW9zdC1ibGFjayBmcmFtZSBoYXMgYW55IHN0cnVjdHVyZS4gTmVlZHMgUGlsbG93LgoiIiIKaW1wb3J0IGpzb24KaW1wb3J0IHN5cwoKZnJvbSBQSUwgaW1wb3J0IEltYWdlCgoKZGVmIHRpbGVkX29mZnNldF8yZCh4LCB5LCB3aWR0aCwgbG9nMl9icHApOgogICAgIiIiVGV4ZWwgaW5kZXggb2YgKHgsIHkpIGluIGEgWGVub3MgMkQgdGlsZWQgc3VyZmFjZSAoWGVuaWEncyBUaWxlZE9mZnNldDJEKS4iIiIKICAgIGFsaWduZWRfd2lkdGggPSAod2lkdGggKyAzMSkgJiB+MzEKICAgIG1hY3JvID0gKCh5ID4+IDUpICogKGFsaWduZWRfd2lkdGggPj4gNSkgKyAoeCA+PiA1KSkgPDwgKGxvZzJfYnBwICsgNykKICAgIG1pY3JvID0gKCgoeSAmIDYpIDw8IDIpICsgKHggJiA3KSkgPDwgbG9nMl9icHAKICAgIG9mZnNldCA9IG1hY3JvICsgKChtaWNybyAmIH4weEYpIDw8IDEpICsgKG1pY3JvICYgMHhGKSArICgoeSAmIDgpIDw8ICgzICsgbG9nMl9icHApKSArICgoeSAmIDEpIDw8IDQpCiAgICBvZmZzZXQgPSAoKChvZmZzZXQgJiB+MHgxRkYpIDw8IDMpICsgKChvZmZzZXQgJiAweDFDMCkgPDwgMikgKyAob2Zmc2V0ICYgMHgzRikKICAgICAgICAgICAgICArICgoeSAmIDE2KSA8PCA3KSArICgoKCgoeSAmIDgpID4+IDIpICsgKHggPj4gMykpICYgMykgPDwgNikpCiAgICByZXR1cm4gb2Zmc2V0ID4+IGxvZzJfYnBwCgoKZGVmIG1haW4oKToKICAgIGFyZ3MgPSBbYSBmb3IgYSBpbiBzeXMuYXJndlsxOl0gaWYgbm90IGEuc3RhcnRzd2l0aCgiLS0iKV0KICAgIGdhaW4gPSAxLjAKICAgIGlmICItLWdhaW4iIGluIHN5cy5hcmd2OgogICAgICAgIGdhaW4gPSBmbG9hdChzeXMuYXJndltzeXMuYXJndi5pbmRleCgiLS1nYWluIikgKyAxXSkKICAgICAgICBhcmdzID0gW2EgZm9yIGEgaW4gYXJncyBpZiBhICE9IHN5cy5hcmd2W3N5cy5hcmd2LmluZGV4KCItLWdhaW4iKSArIDFdXQogICAgc3JjID0gYXJnc1swXQogICAgb3V0ID0gYXJnc1sxXSBpZiBsZW4oYXJncykgPiAxIGVsc2Ugc3JjLnJzcGxpdCgiLiIsIDEpWzBdICsgIi5wbmciCiAgICBtZXRhID0ganNvbi5sb2FkKG9wZW4oc3JjLnJzcGxpdCgiLiIsIDEpWzBdICsgIi5qc29uIikpCiAgICBkYXRhID0gb3BlbihzcmMsICJyYiIpLnJlYWQoKQogICAgdywgaCwgYXcgPSBtZXRhWyJ3aWR0aCJdLCBtZXRhWyJoZWlnaHQiXSwgbWV0YVsiYWxpZ25lZF93aWR0aCJdCiAgICBpbWcgPSBJbWFnZS5uZXcoIlJHQiIsICh3LCBoKSkKICAgIHB4ID0gaW1nLmxvYWQoKQogICAgZm9yIHkgaW4gcmFuZ2UoaCk6CiAgICAgICAgZm9yIHggaW4gcmFuZ2Uodyk6CiAgICAgICAgICAgIGkgPSB0aWxlZF9vZmZzZXRfMmQoeCwgeSwgYXcsIDIpIGlmIG1ldGFbInRpbGVkIl0gZWxzZSB5ICogYXcgKyB4CiAgICAgICAgICAgIG8gPSBpICogNAogICAgICAgICAgICAjIGtfOF84XzhfOCBmcm9udCBidWZmZXJzIGhvbGQgQixHLFIsQSBieXRlcyAoY2hlY2tlZCBhZ2FpbnN0IGEKICAgICAgICAgICAgIyBzY3JlZW5zaG90IG9mIHRoZSBpbnRybyB2aWRlbykuCiAgICAgICAgICAgIGIsIGcsIHIgPSBkYXRhW29dLCBkYXRhW28gKyAxXSwgZGF0YVtvICsgMl0KICAgICAgICAgICAgcHhbeCwgeV0gPSAobWluKDI1NSwgaW50KHIgKiBnYWluKSksIG1pbigyNTUsIGludChnICogZ2FpbikpLCBtaW4oMjU1LCBpbnQoYiAqIGdhaW4pKSkKICAgIGltZy5zYXZlKG91dCkKICAgIHByaW50KG91dCwgZiJ7d314e2h9IiwgInRpbGVkIiBpZiBtZXRhWyJ0aWxlZCJdIGVsc2UgImxpbmVhciIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""Convert a FORZA_FRAMEDUMP front-buffer dump (.bin + .json) to PNG.
+
+Usage: frame_to_png.py DUMP.bin [OUT.png] [--gain N]
+
+Detiles Xenos 2D-tiled 32bpp surfaces (k_8_8_8_8 / k_2_10_10_10, read as 8-bit
+channels) and writes an RGB PNG. --gain multiplies channel values, which helps
+when checking whether an almost-black frame has any structure. Needs Pillow.
+"""
+import json
+import sys
+
+from PIL import Image
+
+
+def tiled_offset_2d(x, y, width, log2_bpp):
+    """Texel index of (x, y) in a Xenos 2D tiled surface (Xenia's TiledOffset2D)."""
+    aligned_width = (width + 31) & ~31
+    macro = ((y >> 5) * (aligned_width >> 5) + (x >> 5)) << (log2_bpp + 7)
+    micro = (((y & 6) << 2) + (x & 7)) << log2_bpp
+    offset = macro + ((micro & ~0xF) << 1) + (micro & 0xF) + ((y & 8) << (3 + log2_bpp)) + ((y & 1) << 4)
+    offset = (((offset & ~0x1FF) << 3) + ((offset & 0x1C0) << 2) + (offset & 0x3F)
+              + ((y & 16) << 7) + (((((y & 8) >> 2) + (x >> 3)) & 3) << 6))
+    return offset >> log2_bpp
+
+
+def main():
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    gain = 1.0
+    if "--gain" in sys.argv:
+        gain = float(sys.argv[sys.argv.index("--gain") + 1])
+        args = [a for a in args if a != sys.argv[sys.argv.index("--gain") + 1]]
+    src = args[0]
+    out = args[1] if len(args) > 1 else src.rsplit(".", 1)[0] + ".png"
+    meta = json.load(open(src.rsplit(".", 1)[0] + ".json"))
+    data = open(src, "rb").read()
+    w, h, aw = meta["width"], meta["height"], meta["aligned_width"]
+    img = Image.new("RGB", (w, h))
+    px = img.load()
+    for y in range(h):
+        for x in range(w):
+            i = tiled_offset_2d(x, y, aw, 2) if meta["tiled"] else y * aw + x
+            o = i * 4
+            # k_8_8_8_8 front buffers hold B,G,R,A bytes (checked against a
+            # screenshot of the intro video).
+            b, g, r = data[o], data[o + 1], data[o + 2]
+            px[x, y] = (min(255, int(r * gain)), min(255, int(g * gain)), min(255, int(b * gain)))
+    img.save(out)
+    print(out, f"{w}x{h}", "tiled" if meta["tiled"] else "linear")
+
+
+if __name__ == "__main__":
+    main()

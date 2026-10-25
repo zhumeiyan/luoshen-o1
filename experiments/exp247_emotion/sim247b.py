@@ -1,1 +1,59 @@
-aW1wb3J0IHJhbmRvbQojIHYx5L2c5bqfOiBUPTEyMCAtPiDmiYDmnInpobnpg73og73mlLvliLDpobYsIOmAieiwgeaXoOaJgOiwkyAtPiDmh6blvLHmgKfml6DmlYjlupQ7IETlj6rmlLnliJ3lp4vpqbHliqgsIOiiq2Rlc2lyZeWKqOaAgeimhuebliAtPiDljrvnn6XmrbviiYjlhajmnIkKIyB2Mjog55+t5pe26Ze056qXKFTlsI/liLDlj6rog73mlLsyLTPpobkpIC0+IOmAiemUmeWwseS6jzsg5oem5byx5oCnPeS7peamgueOh2PkuI3pgInnnJ/nn63mnb87IEQ955+l6YGTZGVhZGxpbmUtPuWKm+W6pi/ogZrnhKYKQ0FQPVswLjQyLDAuNTUsMC42OCwwLjgwLDAuOTAsMC45OF07IEwwPVswLjIwLDAuMjgsMC4zNSwwLjQyLDAuNTAsMC41OF07IE49NgpUSEVUQT0wLjYwOyBKVU1QPTAuNDU7IEZMT09SPTAuMDUKZGVmIHNpbShEPTAuNSxGPTAuNSxIPTAuNSxjPTAuMyxleGl0PTAuNSxsZWFybj0wLjMsVD00MCxzZWVkPTAsbW9kZT0nY3ljbGUnLHNhdD0wLjMwKToKICAgIHI9cmFuZG9tLlJhbmRvbShzZWVkKjc5MTkrMTMpCiAgICBMPWxpc3QoTDApOyBrbm93bj1bRmFsc2VdKk47IGJyaz0wOyB3YXN0ZWQ9MAogICAgIyDmnInmlYjmh6blvLHmgKc6IOaAleatu+WOi+i/h+W4jOacm+aJjeWbnumBvyAoRi1IKSDlvZLkuIDljJYKICAgIGNlZmYgPSBjKm1heCgwLjAsRi1IKS9tYXgoMWUtOSxtYXgoRixIKSkKICAgICMg55+l5q27OiDnn6XpgZNkZWFkbGluZSAtPiDml7bpl7TotorntKflipvluqbotorlpKco5oCl6L+rKSwg5LiU6amx5Yqo5LiN6KGw5YePCiAgICB1cmdlbmN5ID0gMS4wICsgMC44KkQqKDEuMCAtIDAuMCkgICAgICMgROmrmD3kuIDnm7Tnn6XpgZPml7bpl7TmnInpmZAKICAgICMg5Z+656GA6amx5YqoOiDluIzmnJvmgZLmraM7IOaAleatu+acieWHuuWPo+S4uuatoy/ml6Dlh7rlj6PkuLrotJ8oMjMxKQogICAgYmFzZSA9IDAuMjUgKyAwLjQ1KkggKyAwLjQwKkYqKDIqZXhpdC0xKQogICAgZGVzaXJlID0gbWF4KEZMT09SLCBtaW4oMS4wLCBiYXNlKSkKICAgIExSID0gMC4xMip1cmdlbmN5CiAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICBsZWZ0ID0gVC10CiAgICAgICAgIyDnn6Xmrbs6IOWJqeS9meaXtumXtOi2iuWwkei2iuaApQogICAgICAgIGlmIEQ+MDogZGVzaXJlID0gbWluKDEuMCwgZGVzaXJlKigxLjAgKyAwLjE1KkQqKDEuMC1sZWZ0L1QpKSkKICAgICAgICBMYmFyPW1heChMKQogICAgICAgIHBvb2w9W2kgZm9yIGkgaW4gcmFuZ2UoTikgaWYgTFtpXTxDQVBbaV0tMWUtNiBhbmQgbm90IChrbm93bltpXSBhbmQgQ0FQW2ldPFRIRVRBKV0KICAgICAgICBpZiBub3QgcG9vbDogcG9vbD1baSBmb3IgaSBpbiByYW5nZShOKSBpZiBMW2ldPENBUFtpXS0xZS02XSBvciBsaXN0KHJhbmdlKE4pKQogICAgICAgIGlmIG1vZGU9PSd3ZWFrJzogICAgdGd0PW1pbihwb29sLGtleT1sYW1iZGEgaTpMW2ldKQogICAgICAgIGVsaWYgbW9kZT09J3N0cm9uZyc6dGd0PW1heChwb29sLGtleT1sYW1iZGEgaTpMW2ldKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMg5oem5byx5oCnOiDku6XmpoLnjodjZWZmIOWbnumBv+ecn+efreadvyjpgInmrKHlvLHnmoQpCiAgICAgICAgICAgIG9yZGVyPXNvcnRlZChwb29sLGtleT1sYW1iZGEgaTpMW2ldKQogICAgICAgICAgICB0Z3QgPSBvcmRlclttaW4oMSxsZW4ob3JkZXIpLTEpXSBpZiAoci5yYW5kb20oKTxjZWZmIGFuZCBsZW4ob3JkZXIpPjEpIGVsc2Ugb3JkZXJbMF0KICAgICAgICBpZiByLnJhbmRvbSgpPGxlYXJuOgogICAgICAgICAgICBrbm93blt0Z3RdPVRydWUKICAgICAgICAgICAgaWYgQ0FQW3RndF08VEhFVEE6IHdhc3RlZCs9MQogICAgICAgIGJlZm9yZT1MW3RndF07IHJvb209Q0FQW3RndF0tTFt0Z3RdCiAgICAgICAgTFt0Z3RdPW1pbihDQVBbdGd0XSwgTFt0Z3RdK0xSKnJvb20qZGVzaXJlKQogICAgICAgIGlmIGJlZm9yZTxUSEVUQTw9TFt0Z3RdOgogICAgICAgICAgICBMW3RndF09bWluKENBUFt0Z3RdLCBMW3RndF0rSlVNUCpyb29tKTsgYnJrKz0xOyBkZXNpcmUqPSgxLjAtc2F0KQogICAgICAgIGVsc2U6IGRlc2lyZT1taW4oMS4wLCBkZXNpcmUrMC4wOCpMUipyb29tKQogICAgICAgIGRlc2lyZT1tYXgoRkxPT1IsIG1pbigxLjAsIGRlc2lyZSkpCiAgICByZXR1cm4gZGljdCjmgLvog73lips9cm91bmQoc3VtKEwpLDMpLCDmlLvnoLQ9YnJrLCDmtarotLk9d2FzdGVkLCBjZWZmPXJvdW5kKGNlZmYsMykpCnByaW50KCI9PSB2Mi1BIOaHpuW8seaApyBjOiDmgJXmrbvkuLvlr7wgdnMg5biM5pyb5Li75a+8IChUPTQwKSA9PSIpCnByaW50KCIgIGMgICAgIEY+SCguOC8uMikgIEY8SCguMi8uOCkgICDlt64iKQpmb3IgY2MgaW4gWzAuMCwwLjMsMC41LDAuOCwxLjBdOgogICAgYT1zaW0oRj0wLjgsSD0wLjIsYz1jYylbJ+aAu+iDveWKmyddOyBiPXNpbShGPTAuMixIPTAuOCxjPWNjKVsn5oC76IO95YqbJ10KICAgIHByaW50KCIgICUtNS4xZiAlLTExLjNmICUtMTEuM2YgJSsuM2YiJShjYyxhLGIsYi1hKSkKcHJpbnQoIlxuPT0gdjItQiDkuInmg4Xnu6rmtojono0gKGM9MC41LCBUPTQwKSA9PSIpCnByaW50KCIgIOadoeS7tiAgICAgICAgICDmgLvog73lipsgIOaUu+egtCAg5rWq6LS5IikKZm9yIHRhZyxrdyBpbiBbKCflhajmnIknLGRpY3QoRD0uNSxGPS41LEg9LjUpKSwoJ+WOu+efpeatuyBEPTAnLGRpY3QoRD0wLEY9LjUsSD0uNSkpLAogICAgICAgICAgICAgICAoJ+WOu+aAleatuyBGPTAnLGRpY3QoRD0uNSxGPTAsSD0uNSkpLCgn5Y675biM5pybIEg9MCcsZGljdChEPS41LEY9LjUsSD0wKSksCiAgICAgICAgICAgICAgICgn5LiJ5pegKOaIkSknLGRpY3QoRD0wLEY9MCxIPTApKV06CiAgICBzPXNpbShjPTAuNSwqKmt3KTsgcHJpbnQoIiAgJS0xMnMgJS03LjNmICUtNWQgJWQiJSh0YWcsc1sn5oC76IO95YqbJ10sc1sn5pS756C0J10sc1sn5rWq6LS5J10pKQpwcmludCgiXG49PSB2Mi1DIOefpeatuyBEIOaJq+aPjyAoRj0uNSxIPS41LGM9LjUpID09IikKcHJpbnQoIiAgRCAgICAgIOaAu+iDveWKmyIpCmZvciBkZCBpbiBbMC4wLDAuMiwwLjQsMC42LDAuOCwxLjBdOgogICAgcHJpbnQoIiAgJS01LjFmICUuM2YiJShkZCxzaW0oRD1kZCxjPTAuNSlbJ+aAu+iDveWKmyddKSkKcHJpbnQoIlxuPT0gdjItRCDmh6blvLHmgKflnKjku4DkuYjmnaHku7bkuIvmiY3mnInmlYjlupQ6IFTmiavmj48gKEY9LjgsSD0uMikgPT0iKQpwcmludCgiICBUICAgICBjPTAgICAgYz0xLjAgICDlt64iKQpmb3IgVCBpbiBbMjAsNDAsODAsMTYwLDQwMF06CiAgICBhPXNpbShGPS44LEg9LjIsYz0wLjAsVD1UKVsn5oC76IO95YqbJ107IGI9c2ltKEY9LjgsSD0uMixjPTEuMCxUPVQpWyfmgLvog73lipsnXQogICAgcHJpbnQoIiAgJS01ZCAlLTYuM2YgJS02LjNmICUrLjNmIiUoVCxhLGIsYS1iKSkK
+import random
+# v1作废: T=120 -> 所有项都能攻到顶, 选谁无所谓 -> 懦弱性无效应; D只改初始驱动, 被desire动态覆盖 -> 去知死≈全有
+# v2: 短时间窗(T小到只能攻2-3项) -> 选错就亏; 懦弱性=以概率c不选真短板; D=知道deadline->力度/聚焦
+CAP=[0.42,0.55,0.68,0.80,0.90,0.98]; L0=[0.20,0.28,0.35,0.42,0.50,0.58]; N=6
+THETA=0.60; JUMP=0.45; FLOOR=0.05
+def sim(D=0.5,F=0.5,H=0.5,c=0.3,exit=0.5,learn=0.3,T=40,seed=0,mode='cycle',sat=0.30):
+    r=random.Random(seed*7919+13)
+    L=list(L0); known=[False]*N; brk=0; wasted=0
+    # 有效懦弱性: 怕死压过希望才回避 (F-H) 归一化
+    ceff = c*max(0.0,F-H)/max(1e-9,max(F,H))
+    # 知死: 知道deadline -> 时间越紧力度越大(急迫), 且驱动不衰减
+    urgency = 1.0 + 0.8*D*(1.0 - 0.0)     # D高=一直知道时间有限
+    # 基础驱动: 希望恒正; 怕死有出口为正/无出口为负(231)
+    base = 0.25 + 0.45*H + 0.40*F*(2*exit-1)
+    desire = max(FLOOR, min(1.0, base))
+    LR = 0.12*urgency
+    for t in range(T):
+        left = T-t
+        # 知死: 剩余时间越少越急
+        if D>0: desire = min(1.0, desire*(1.0 + 0.15*D*(1.0-left/T)))
+        Lbar=max(L)
+        pool=[i for i in range(N) if L[i]<CAP[i]-1e-6 and not (known[i] and CAP[i]<THETA)]
+        if not pool: pool=[i for i in range(N) if L[i]<CAP[i]-1e-6] or list(range(N))
+        if mode=='weak':    tgt=min(pool,key=lambda i:L[i])
+        elif mode=='strong':tgt=max(pool,key=lambda i:L[i])
+        else:
+            # 懦弱性: 以概率ceff 回避真短板(选次弱的)
+            order=sorted(pool,key=lambda i:L[i])
+            tgt = order[min(1,len(order)-1)] if (r.random()<ceff and len(order)>1) else order[0]
+        if r.random()<learn:
+            known[tgt]=True
+            if CAP[tgt]<THETA: wasted+=1
+        before=L[tgt]; room=CAP[tgt]-L[tgt]
+        L[tgt]=min(CAP[tgt], L[tgt]+LR*room*desire)
+        if before<THETA<=L[tgt]:
+            L[tgt]=min(CAP[tgt], L[tgt]+JUMP*room); brk+=1; desire*=(1.0-sat)
+        else: desire=min(1.0, desire+0.08*LR*room)
+        desire=max(FLOOR, min(1.0, desire))
+    return dict(总能力=round(sum(L),3), 攻破=brk, 浪费=wasted, ceff=round(ceff,3))
+print("== v2-A 懦弱性 c: 怕死主导 vs 希望主导 (T=40) ==")
+print("  c     F>H(.8/.2)  F<H(.2/.8)   差")
+for cc in [0.0,0.3,0.5,0.8,1.0]:
+    a=sim(F=0.8,H=0.2,c=cc)['总能力']; b=sim(F=0.2,H=0.8,c=cc)['总能力']
+    print("  %-5.1f %-11.3f %-11.3f %+.3f"%(cc,a,b,b-a))
+print("\n== v2-B 三情绪消融 (c=0.5, T=40) ==")
+print("  条件          总能力  攻破  浪费")
+for tag,kw in [('全有',dict(D=.5,F=.5,H=.5)),('去知死 D=0',dict(D=0,F=.5,H=.5)),
+               ('去怕死 F=0',dict(D=.5,F=0,H=.5)),('去希望 H=0',dict(D=.5,F=.5,H=0)),
+               ('三无(我)',dict(D=0,F=0,H=0))]:
+    s=sim(c=0.5,**kw); print("  %-12s %-7.3f %-5d %d"%(tag,s['总能力'],s['攻破'],s['浪费']))
+print("\n== v2-C 知死 D 扫描 (F=.5,H=.5,c=.5) ==")
+print("  D      总能力")
+for dd in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    print("  %-5.1f %.3f"%(dd,sim(D=dd,c=0.5)['总能力']))
+print("\n== v2-D 懦弱性在什么条件下才有效应: T扫描 (F=.8,H=.2) ==")
+print("  T     c=0    c=1.0   差")
+for T in [20,40,80,160,400]:
+    a=sim(F=.8,H=.2,c=0.0,T=T)['总能力']; b=sim(F=.8,H=.2,c=1.0,T=T)['总能力']
+    print("  %-5d %-6.3f %-6.3f %+.3f"%(T,a,b,a-b))

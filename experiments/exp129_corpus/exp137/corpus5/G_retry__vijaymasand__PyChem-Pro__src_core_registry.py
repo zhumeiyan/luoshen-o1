@@ -1,1 +1,38 @@
-IiIiClNlcnZpY2UgcmVnaXN0cnkg4oCUIGNlbnRyYWwgd2lyaW5nIHBvaW50IGZvciBhbGwgUHlDaGVtIHNlcnZpY2VzLgoKTm8gREkgZnJhbWV3b3JrLiBBIHBsYWluIFB5dGhvbiBjbGFzcyB3aXRoIGZhY3RvcnkgbWV0aG9kcy4KQ3JlYXRlZCBvbmNlIGF0IHN0YXJ0dXAsIHBhc3NlZCB0byBjb25zdW1lcnMgdmlhIGNvbnN0cnVjdG9yLgoiIiIKZnJvbSBzcmMuY29yZS5wYXJhbGxlbCBpbXBvcnQgUGFyYWxsZWxFeGVjdXRvcgpmcm9tIHNyYy5jb3JlLmV2ZW50cyBpbXBvcnQgRXZlbnRCdXMKZnJvbSBzcmMuc2VydmljZXMuZm9yY2VmaWVsZC5tbWZmOTRfc2VydmljZSBpbXBvcnQgTU1GRjk0U2VydmljZQpmcm9tIHNyYy5zZXJ2aWNlcy5kZXNjcmlwdG9ycy5kZXNjcmlwdG9yX3NlcnZpY2UgaW1wb3J0IERlc2NyaXB0b3JTZXJ2aWNlCmZyb20gc3JjLnNlcnZpY2VzLmxvYWRpbmcubG9hZGVyX3NlcnZpY2UgaW1wb3J0IExvYWRlclNlcnZpY2UKZnJvbSBzcmMuc2VydmljZXMuYWxpZ25tZW50LmFsaWduX3NlcnZpY2UgaW1wb3J0IEFsaWdubWVudFNlcnZpY2UKCgpjbGFzcyBTZXJ2aWNlUmVnaXN0cnk6CiAgICAiIiIKICAgIENvbnN0cnVjdHMgYW5kIGhvbGRzIGFsbCBzZXJ2aWNlIGluc3RhbmNlcy4KCiAgICBVc2FnZToKICAgICAgICByZWdpc3RyeSA9IFNlcnZpY2VSZWdpc3RyeSgpCiAgICAgICAgbW9sID0gcmVnaXN0cnkubG9hZGVyLmxvYWQoInByb3RlaW4ucGRiIikKICAgICAgICByZWdpc3RyeS5mb3JjZWZpZWxkLm9wdGltaXplX2dlb21ldHJ5KG1vbCkKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmV4ZWN1dG9yID0gUGFyYWxsZWxFeGVjdXRvcigpCiAgICAgICAgc2VsZi5ldmVudF9idXMgPSBFdmVudEJ1cygpCiAgICAgICAgc2VsZi5mb3JjZWZpZWxkID0gTU1GRjk0U2VydmljZShzZWxmLmV4ZWN1dG9yKQogICAgICAgIHNlbGYuZGVzY3JpcHRvcnMgPSBEZXNjcmlwdG9yU2VydmljZShzZWxmLmV4ZWN1dG9yKQogICAgICAgIHNlbGYubG9hZGVyID0gTG9hZGVyU2VydmljZShzZWxmLmV4ZWN1dG9yKQogICAgICAgIHNlbGYuYWxpZ25tZW50ID0gQWxpZ25tZW50U2VydmljZShsb2FkZXI9c2VsZi5sb2FkZXIpCiAgICAgICAgIyBTZXJ2aWNlcyBhZGRlZCBpbiBsYXRlciBwaGFzZXM6CiAgICAgICAgIyBzZWxmLmNvb3JkX2dlbiA9IENvb3JkaW5hdGVHZW5lcmF0b3JTZXJ2aWNlKHNlbGYuZXhlY3V0b3IpCiAgICAgICAgIyBzZWxmLnJlbmRlcmVyX2ZhY3RvcnkgPSBSZW5kZXJlckZhY3RvcnkoKQoKICAgIGRlZiBzaHV0ZG93bihzZWxmKToKICAgICAgICAiIiJDbGVhbiBzaHV0ZG93biBvZiBhbGwgc2VydmljZXMuIiIiCiAgICAgICAgc2VsZi5leGVjdXRvci5zaHV0ZG93bigpCg==
+"""
+Service registry — central wiring point for all PyChem services.
+
+No DI framework. A plain Python class with factory methods.
+Created once at startup, passed to consumers via constructor.
+"""
+from src.core.parallel import ParallelExecutor
+from src.core.events import EventBus
+from src.services.forcefield.mmff94_service import MMFF94Service
+from src.services.descriptors.descriptor_service import DescriptorService
+from src.services.loading.loader_service import LoaderService
+from src.services.alignment.align_service import AlignmentService
+
+
+class ServiceRegistry:
+    """
+    Constructs and holds all service instances.
+
+    Usage:
+        registry = ServiceRegistry()
+        mol = registry.loader.load("protein.pdb")
+        registry.forcefield.optimize_geometry(mol)
+    """
+
+    def __init__(self):
+        self.executor = ParallelExecutor()
+        self.event_bus = EventBus()
+        self.forcefield = MMFF94Service(self.executor)
+        self.descriptors = DescriptorService(self.executor)
+        self.loader = LoaderService(self.executor)
+        self.alignment = AlignmentService(loader=self.loader)
+        # Services added in later phases:
+        # self.coord_gen = CoordinateGeneratorService(self.executor)
+        # self.renderer_factory = RendererFactory()
+
+    def shutdown(self):
+        """Clean shutdown of all services."""
+        self.executor.shutdown()

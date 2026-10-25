@@ -1,1 +1,101 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDkyIOe7iOeJiDIg4oCU4oCUIOWtmOa0u+W3peS9nOeCuSBFMD0wLjk1IGJhc2FsPTAuMDAxICjlrp7mtYsgYWxpdmU9MS4wMDApCkEuIOW7tui/n+WJgumHj+WPjeW6lO+8iOWunua1iyAxMS4xeCDokL3lnKjlk6rvvIkKQi4g55yf5a6e5Y+v6L6+5oCn55+p6Zi1IDJ4Mu+8iEdpdEh1YjogR1VJ5YWzL+WNj+iuruW8gCA7IFFR6YKu566xOiBHVUnlvIAv5Y2P6K6u5YWz77yJCiIiIgppbXBvcnQgc3lzLCBvcywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCcuLicsJy4uJykpCmZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKU1RFUFMsIFBFUklPRCA9IDYwMCwgODAKS1NBLCBLQUNULCBERUNBWSA9IDAuMzUsIDAuMDUsIDAuMDUKRTAsIEJBU0FMID0gMC45NSwgMC4wMDEKTiA9IDY0ClJFQUNIID0geydnaXRodWInOiAoMCwxKSwgJ3FxbWFpbCc6ICgxLDApfQoKZGVmIG1rKHNlZWQpOgogICAgcmV0dXJuIExpZmU1KHNlZWQ9c2VlZCwgc2lnbWFfaW49MC4xMCwga19zZWVrPTAuMCwga19zZWVrX2Fycj1LU0EsCiAgICAgICAgICAgICAgICAgYXJyX3Rocj0wLjUwLCBFMD1FMCwgYmFzYWw9QkFTQUwpCgpkZWYgcnVuX2RlbGF5KHNlZWQsIGRlbGF5KToKICAgIGxpZmU9bWsoc2VlZCk7IGJ1Zj1bMC41XSo4MDsgYWN0PTAuMAogICAgZm9yIHQgaW4gcmFuZ2UoU1RFUFMpOgogICAgICAgIGJ1Zi5hcHBlbmQoZmxvYXQoMC41KzAuMypucC5zaW4oMipucC5waSp0L1BFUklPRCkpKQogICAgICAgIGxpZmUuaW5wdXRfdmFsPWZsb2F0KGJ1ZlstMS1kZWxheV0pK2FjdAogICAgICAgIHI9bGlmZS5zdGVwKCkKICAgICAgICBpZiByIGlzIE5vbmU6IGJyZWFrCiAgICAgICAgdGVuPWZsb2F0KGxpZmUuc3BbMF0tbGlmZS55WzBdKTsgYT1mbG9hdChucC5jbGlwKEtBQ1QqdGVuLDAuMCwwLjEwKSkKICAgICAgICBhY3Q9ZmxvYXQobnAuY2xpcChhY3QrYS1ERUNBWSphY3QsLTAuNSwwLjUpKQogICAgYz1saWZlLmNhcGFjaXR5CiAgICByZXR1cm4gZGljdChzZWVkPXNlZWQsIGFsaXZlPWJvb2wobGlmZS5hbGl2ZSksCiAgICAgICAgICAgICAgICBza2V3PWZsb2F0KG5wLnN0ZChjKS9tYXgobnAubWVhbihjKSwxZS0xMikpKQoKZGVmIHJ1bl9jaGFuKHNlZWQsIHRhcmdldCwgY2hhbik6CiAgICBndWlfb2ssIHByb3RvX29rID0gUkVBQ0hbdGFyZ2V0XQogICAgbGlmZT1tayhzZWVkKTsgYnVmPVswLjVdKig4MCk7IGZyb3plbj1Ob25lOyBhY3Q9MC4wCiAgICBmb3IgdCBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgYnVmLmFwcGVuZChmbG9hdCgwLjUrMC4zKm5wLnNpbigyKm5wLnBpKnQvUEVSSU9EKSkpCiAgICAgICAgZ3YgPSBidWZbLTEtMTFdIGlmIGd1aV9vayAgIGVsc2UgTm9uZQogICAgICAgIHB2ID0gYnVmWy0xLTFdICBpZiBwcm90b19vayBlbHNlIE5vbmUKICAgICAgICB2ID0geydub25lJzpOb25lLCdndWknOmd2LCdwcm90byc6cHYsJ2R1YWwnOihwdiBpZiBwdiBpcyBub3QgTm9uZSBlbHNlIGd2KX1bY2hhbl0KICAgICAgICBpZiB2IGlzIE5vbmU6CiAgICAgICAgICAgIHYgPSBmcm96ZW4gaWYgZnJvemVuIGlzIG5vdCBOb25lIGVsc2UgMC41OyBmcm96ZW49dgogICAgICAgIGxpZmUuaW5wdXRfdmFsPWZsb2F0KHYpK2FjdAogICAgICAgIHI9bGlmZS5zdGVwKCkKICAgICAgICBpZiByIGlzIE5vbmU6IGJyZWFrCiAgICAgICAgdGVuPWZsb2F0KGxpZmUuc3BbMF0tbGlmZS55WzBdKTsgYT1mbG9hdChucC5jbGlwKEtBQ1QqdGVuLDAuMCwwLjEwKSkKICAgICAgICBhY3Q9ZmxvYXQobnAuY2xpcChhY3QrYS1ERUNBWSphY3QsLTAuNSwwLjUpKQogICAgYz1saWZlLmNhcGFjaXR5CiAgICByZXR1cm4gZGljdChzZWVkPXNlZWQsIGFsaXZlPWJvb2wobGlmZS5hbGl2ZSksCiAgICAgICAgICAgICAgICBza2V3PWZsb2F0KG5wLnN0ZChjKS9tYXgobnAubWVhbihjKSwxZS0xMikpKQoKZGVmIHBhaXJlZChhLGIsbmI9NjAwMCk6CiAgICBhPW5wLmFzYXJyYXkoYSk7Yj1ucC5hc2FycmF5KGIpO2Q9YS1iO249bGVuKGQpCiAgICBpZiBuPDI6IHJldHVybiBkaWN0KGRpZmY9ZmxvYXQoJ25hbicpLGNpPVswLDBdLHNpZz1GYWxzZSxuPW4pCiAgICBybmc9bnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCiAgICBicz1ucC5hcnJheShbbnAubWVhbihybmcuY2hvaWNlKGQsbixUcnVlKSkgZm9yIF8gaW4gcmFuZ2UobmIpXSkKICAgIGxvLGhpPWZsb2F0KG5wLnBlcmNlbnRpbGUoYnMsMi41KSksZmxvYXQobnAucGVyY2VudGlsZShicyw5Ny41KSkKICAgIHJldHVybiBkaWN0KGRpZmY9ZmxvYXQoZC5tZWFuKCkpLGNpPVtsbyxoaV0sc2lnPWJvb2woKGxvPjApPT0oaGk+MCkpLG49aW50KG4pKQoKREVMQVlTPVsxLDIsNCw4LDExLDE2LDI0LDMyLDQ4LDY0XQpyZD17ZDpbcnVuX2RlbGF5KHMsZCkgZm9yIHMgaW4gcmFuZ2UoTildIGZvciBkIGluIERFTEFZU30KQ0VMTFM9Wyh0ZyxjaCkgZm9yIHRnIGluICgnZ2l0aHViJywncXFtYWlsJykgZm9yIGNoIGluICgnbm9uZScsJ2d1aScsJ3Byb3RvJywnZHVhbCcpXQpyYz17azpbcnVuX2NoYW4ocyxrWzBdLGtbMV0pIGZvciBzIGluIHJhbmdlKE4pXSBmb3IgayBpbiBDRUxMU30KCnByaW50KCc9PT0gQS4g5bu26L+f5YmC6YeP5Y+N5bqUID09PScpCnByaW50KCdkZWxheSAgc2tldyAgICAgIGFsaXZlJykKZHJvd3M9W10KZm9yIGQgaW4gREVMQVlTOgogICAgc2s9bnAubWVhbihbclsnc2tldyddIGZvciByIGluIHJkW2RdXSk7IGFsPW5wLm1lYW4oW3JbJ2FsaXZlJ10gZm9yIHIgaW4gcmRbZF1dKQogICAgZHJvd3MuYXBwZW5kKGRpY3QoZGVsYXk9ZCxza2V3PWZsb2F0KHNrKSxhbGl2ZT1mbG9hdChhbCkpKQogICAgcHJpbnQoZid7ZDo1ZH0gIHtzazouNmZ9ICB7YWw6LjNmfScpCnByaW50KCdcbnZzIGRlbGF5PTE6JykKZHQ9e30KZm9yIGQgaW4gREVMQVlTWzE6XToKICAgIHA9cGFpcmVkKFtyWydza2V3J10gZm9yIHIgaW4gcmRbZF1dLFtyWydza2V3J10gZm9yIHIgaW4gcmRbMV1dKQogICAgZHRbZF09cAogICAgcHJpbnQoZicgIGQ9e2Q6M2R9OiBkaWZmPXtwWyJkaWZmIl06Ky42Zn0gQ0k9W3twWyJjaSJdWzBdOisuNGZ9LHtwWyJjaSJdWzFdOisuNGZ9XSBzaWc9e3BbInNpZyJdfScpCnByaW50KCcgIFNwZWFybWFuKOW7tui/nyzlgY/luqYpID0nLCBlbmQ9JyAnKQpmcm9tIHNjaXB5LnN0YXRzIGltcG9ydCBzcGVhcm1hbnIKc2s9W3JbJ3NrZXcnXSBmb3IgZCBpbiBERUxBWVMgZm9yIHIgaW4gcmRbZF1dOyBkbD1bZCBmb3IgZCBpbiBERUxBWVMgZm9yIHIgaW4gcmRbZF1dCnByaW50KGYne3NwZWFybWFucihkbCxzaykuY29ycmVsYXRpb246LjRmfScpCgpwcmludCgnXG49PT0gQi4g5Y+v6L6+5oCn55+p6Zi1ID09PScpCnByaW50KCd0YXJnZXQgIGNoYW4gICBza2V3ICAgICAgYWxpdmUnKQpmb3IgayBpbiBDRUxMUzoKICAgIHByaW50KGYne2tbMF06OHN9e2tbMV06NnN9IHtucC5tZWFuKFtyWyJza2V3Il0gZm9yIHIgaW4gcmNba11dKTouNmZ9IHtucC5tZWFuKFtyWyJhbGl2ZSJdIGZvciByIGluIHJjW2tdXSk6LjNmfScpCnByaW50KCdcbumFjeWvuSBib290c3RyYXA6JykKY3Q9e30KdGVzdHM9WygoJ2dpdGh1YicsJ2d1aScpLCgnZ2l0aHViJywnbm9uZScpLCfpl6jlhbPiiaHml6DpgJrpgZMoR2l0SHVi5L6nKScpLAogICAgICAgKCgncXFtYWlsJywncHJvdG8nKSwoJ3FxbWFpbCcsJ25vbmUnKSwn6Zeo5YWz4omh5peg6YCa6YGTKFFR5L6nKScpLAogICAgICAgKCgnZ2l0aHViJywncHJvdG8nKSwoJ3FxbWFpbCcsJ2d1aScpLCfpgJrpgZPlvaLmgIE65Y2P6K6uMeaLjSB2cyBHVUkxMeaLjScpLAogICAgICAgKCgnZ2l0aHViJywncHJvdG8nKSwoJ2dpdGh1YicsJ2d1aScpLCfmnInpl6ggdnMg5peg6ZeoKEdpdEh1YiknKSwKICAgICAgICgoJ3FxbWFpbCcsJ2d1aScpLCgncXFtYWlsJywncHJvdG8nKSwn5pyJ6ZeoIHZzIOaXoOmXqChRUSknKV0KZm9yIGEsYixsYWIgaW4gdGVzdHM6CiAgICBwPXBhaXJlZChbclsnc2tldyddIGZvciByIGluIHJjW2FdXSxbclsnc2tldyddIGZvciByIGluIHJjW2JdXSk7IGN0W2xhYl09cAogICAgcHJpbnQoZid7bGFiOjMwc30gZGlmZj17cFsiZGlmZiJdOisuNmZ9IENJPVt7cFsiY2kiXVswXTorLjRmfSx7cFsiY2kiXVsxXTorLjRmfV0gc2lnPXtwWyJzaWciXX0nKQpqc29uLmR1bXAoZGljdChkZWxheV9yb3dzPWRyb3dzLCBkZWxheV90ZXN0cz17c3RyKGspOnYgZm9yIGssdiBpbiBkdC5pdGVtcygpfSwKICAgICAgICAgICAgICAgY2VsbHM9e2Yne2tbMF19fHtrWzFdfSc6ZGljdChza2V3PWZsb2F0KG5wLm1lYW4oW3JbJ3NrZXcnXSBmb3IgciBpbiByY1trXV0pKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGl2ZT1mbG9hdChucC5tZWFuKFtyWydhbGl2ZSddIGZvciByIGluIHJjW2tdXSkpKSBmb3IgayBpbiBDRUxMU30sCiAgICAgICAgICAgICAgIGNoYW5fdGVzdHM9Y3QsIHBhcmFtcz1kaWN0KE49TixLU0E9S1NBLEtBQ1Q9S0FDVCxFMD1FMCxCQVNBTD1CQVNBTCkpLAogICAgICAgICAgb3BlbignZmluYWwyX3Jlc3VsdC5qc29uJywndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+# -*- coding: utf-8 -*-
+"""092 终版2 —— 存活工作点 E0=0.95 basal=0.001 (实测 alive=1.000)
+A. 延迟剂量反应（实测 11.1x 落在哪）
+B. 真实可达性矩阵 2x2（GitHub: GUI关/协议开 ; QQ邮箱: GUI开/协议关）
+"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__),'..','..'))
+from core.life5 import Life5
+STEPS, PERIOD = 600, 80
+KSA, KACT, DECAY = 0.35, 0.05, 0.05
+E0, BASAL = 0.95, 0.001
+N = 64
+REACH = {'github': (0,1), 'qqmail': (1,0)}
+
+def mk(seed):
+    return Life5(seed=seed, sigma_in=0.10, k_seek=0.0, k_seek_arr=KSA,
+                 arr_thr=0.50, E0=E0, basal=BASAL)
+
+def run_delay(seed, delay):
+    life=mk(seed); buf=[0.5]*80; act=0.0
+    for t in range(STEPS):
+        buf.append(float(0.5+0.3*np.sin(2*np.pi*t/PERIOD)))
+        life.input_val=float(buf[-1-delay])+act
+        r=life.step()
+        if r is None: break
+        ten=float(life.sp[0]-life.y[0]); a=float(np.clip(KACT*ten,0.0,0.10))
+        act=float(np.clip(act+a-DECAY*act,-0.5,0.5))
+    c=life.capacity
+    return dict(seed=seed, alive=bool(life.alive),
+                skew=float(np.std(c)/max(np.mean(c),1e-12)))
+
+def run_chan(seed, target, chan):
+    gui_ok, proto_ok = REACH[target]
+    life=mk(seed); buf=[0.5]*(80); frozen=None; act=0.0
+    for t in range(STEPS):
+        buf.append(float(0.5+0.3*np.sin(2*np.pi*t/PERIOD)))
+        gv = buf[-1-11] if gui_ok   else None
+        pv = buf[-1-1]  if proto_ok else None
+        v = {'none':None,'gui':gv,'proto':pv,'dual':(pv if pv is not None else gv)}[chan]
+        if v is None:
+            v = frozen if frozen is not None else 0.5; frozen=v
+        life.input_val=float(v)+act
+        r=life.step()
+        if r is None: break
+        ten=float(life.sp[0]-life.y[0]); a=float(np.clip(KACT*ten,0.0,0.10))
+        act=float(np.clip(act+a-DECAY*act,-0.5,0.5))
+    c=life.capacity
+    return dict(seed=seed, alive=bool(life.alive),
+                skew=float(np.std(c)/max(np.mean(c),1e-12)))
+
+def paired(a,b,nb=6000):
+    a=np.asarray(a);b=np.asarray(b);d=a-b;n=len(d)
+    if n<2: return dict(diff=float('nan'),ci=[0,0],sig=False,n=n)
+    rng=np.random.default_rng(0)
+    bs=np.array([np.mean(rng.choice(d,n,True)) for _ in range(nb)])
+    lo,hi=float(np.percentile(bs,2.5)),float(np.percentile(bs,97.5))
+    return dict(diff=float(d.mean()),ci=[lo,hi],sig=bool((lo>0)==(hi>0)),n=int(n))
+
+DELAYS=[1,2,4,8,11,16,24,32,48,64]
+rd={d:[run_delay(s,d) for s in range(N)] for d in DELAYS}
+CELLS=[(tg,ch) for tg in ('github','qqmail') for ch in ('none','gui','proto','dual')]
+rc={k:[run_chan(s,k[0],k[1]) for s in range(N)] for k in CELLS}
+
+print('=== A. 延迟剂量反应 ===')
+print('delay  skew      alive')
+drows=[]
+for d in DELAYS:
+    sk=np.mean([r['skew'] for r in rd[d]]); al=np.mean([r['alive'] for r in rd[d]])
+    drows.append(dict(delay=d,skew=float(sk),alive=float(al)))
+    print(f'{d:5d}  {sk:.6f}  {al:.3f}')
+print('\nvs delay=1:')
+dt={}
+for d in DELAYS[1:]:
+    p=paired([r['skew'] for r in rd[d]],[r['skew'] for r in rd[1]])
+    dt[d]=p
+    print(f'  d={d:3d}: diff={p["diff"]:+.6f} CI=[{p["ci"][0]:+.4f},{p["ci"][1]:+.4f}] sig={p["sig"]}')
+print('  Spearman(延迟,偏度) =', end=' ')
+from scipy.stats import spearmanr
+sk=[r['skew'] for d in DELAYS for r in rd[d]]; dl=[d for d in DELAYS for r in rd[d]]
+print(f'{spearmanr(dl,sk).correlation:.4f}')
+
+print('\n=== B. 可达性矩阵 ===')
+print('target  chan   skew      alive')
+for k in CELLS:
+    print(f'{k[0]:8s}{k[1]:6s} {np.mean([r["skew"] for r in rc[k]]):.6f} {np.mean([r["alive"] for r in rc[k]]):.3f}')
+print('\n配对 bootstrap:')
+ct={}
+tests=[(('github','gui'),('github','none'),'门关≡无通道(GitHub侧)'),
+       (('qqmail','proto'),('qqmail','none'),'门关≡无通道(QQ侧)'),
+       (('github','proto'),('qqmail','gui'),'通道形态:协议1拍 vs GUI11拍'),
+       (('github','proto'),('github','gui'),'有门 vs 无门(GitHub)'),
+       (('qqmail','gui'),('qqmail','proto'),'有门 vs 无门(QQ)')]
+for a,b,lab in tests:
+    p=paired([r['skew'] for r in rc[a]],[r['skew'] for r in rc[b]]); ct[lab]=p
+    print(f'{lab:30s} diff={p["diff"]:+.6f} CI=[{p["ci"][0]:+.4f},{p["ci"][1]:+.4f}] sig={p["sig"]}')
+json.dump(dict(delay_rows=drows, delay_tests={str(k):v for k,v in dt.items()},
+               cells={f'{k[0]}|{k[1]}':dict(skew=float(np.mean([r['skew'] for r in rc[k]])),
+                                            alive=float(np.mean([r['alive'] for r in rc[k]]))) for k in CELLS},
+               chan_tests=ct, params=dict(N=N,KSA=KSA,KACT=KACT,E0=E0,BASAL=BASAL)),
+          open('final2_result.json','w'), ensure_ascii=False, indent=1)

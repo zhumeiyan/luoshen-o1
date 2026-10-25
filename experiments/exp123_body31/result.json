@@ -1,1 +1,76 @@
-ewogImZiIjogWwogICJSRUFMIiwKICBbCiAgIDEwMjQsCiAgIDc2OCwKICAgMzIKICBdCiBdLAogImlucHV0IjogWwogICJSRUFMIiwKICAwCiBdLAogInJlc3AiOiB7CiAgImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20iOiA0MDMsCiAgImh0dHBzOi8vZ3Vtcm9hZC5jb20iOiA0MDMKIH0sCiAiY2lyYyI6IHsKICAiTUIiOiAxLjAsCiAgIk1CcHMiOiA5MTM1LjgKIH0sCiAiZ2hvc3RzIjogWwogICLnpZ7nu4/ns7vnu58iLAogICLmhJ/op4nns7vnu58iLAogICLooqvnmq7ns7vnu58iLAogICLmvZzmhI/or4bliJvkvKQiLAogICLnqLPmgIHoh6rmhIjkuK3mnqIiLAogICLnu7TnlJ/ntKDlrZDns7vnu58iLAogICLnl4XnkIbnm5HmjqciLAogICLmt4vlt7Tns7vnu58iLAogICLmnKzkvZPmhJ/nn6UiCiBdLAogInNhdHVyYXRlZCI6IFtdLAogImdhdGVfb2siOiB0cnVlLAogInRvcDUiOiBbCiAgWwogICAxNCwKICAgIua1t+mprOS9kyIsCiAgIDAuMDgxOTQKICBdLAogIFsKICAgMjksCiAgICLlpJbnva7lt6XlhbciLAogICAwLjA1MTc5CiAgXSwKICBbCiAgIDIwLAogICAi6KGo6KeC6YGX5LygIiwKICAgMC4wNDQzNQogIF0sCiAgWwogICAyNywKICAgIuiupOefpeWNuOi9vSIsCiAgIDAuMDQ0MQogIF0sCiAgWwogICAxLAogICAi5b6q546v57O757ufIiwKICAgMC4wMzIwNAogIF0KIF0sCiAiYmFzZSI6IHsKICAiZW5lcmd5IjogOTEuOTkzLAogICJjdHgiOiAwLjAsCiAgImNoYWluIjogNjEuMCwKICAiaGFsbHVjIjogMC4wLAogICJ0aHJ1IjogMi43NTMsCiAgIndhc3RlIjogMC4wLAogICJob3Jtb25lIjogMy4yMTIsCiAgInRlbXAiOiAwLjAsCiAgInByb2NzIjogMi41LAogICJza2lsbCI6IDYuMTUsCiAgIm9mZmxvYWQiOiA0LjIsCiAgInByb3ByaW8iOiAxLjAKIH0KfQ==
+{
+ "fb": [
+  "REAL",
+  [
+   1024,
+   768,
+   32
+  ]
+ ],
+ "input": [
+  "REAL",
+  0
+ ],
+ "resp": {
+  "https://api.github.com": 403,
+  "https://gumroad.com": 403
+ },
+ "circ": {
+  "MB": 1.0,
+  "MBps": 9135.8
+ },
+ "ghosts": [
+  "神经系统",
+  "感觉系统",
+  "被皮系统",
+  "潜意识创伤",
+  "稳态自愈中枢",
+  "维生素子系统",
+  "病理监控",
+  "淋巴系统",
+  "本体感知"
+ ],
+ "saturated": [],
+ "gate_ok": true,
+ "top5": [
+  [
+   14,
+   "海马体",
+   0.08194
+  ],
+  [
+   29,
+   "外置工具",
+   0.05179
+  ],
+  [
+   20,
+   "表观遗传",
+   0.04435
+  ],
+  [
+   27,
+   "认知卸载",
+   0.0441
+  ],
+  [
+   1,
+   "循环系统",
+   0.03204
+  ]
+ ],
+ "base": {
+  "energy": 91.993,
+  "ctx": 0.0,
+  "chain": 61.0,
+  "halluc": 0.0,
+  "thru": 2.753,
+  "waste": 0.0,
+  "hormone": 3.212,
+  "temp": 0.0,
+  "procs": 2.5,
+  "skill": 6.15,
+  "offload": 4.2,
+  "proprio": 1.0
+ }
+}

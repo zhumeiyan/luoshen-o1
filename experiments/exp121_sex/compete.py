@@ -1,1 +1,151 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi57uf5LiA56ue5LqJ5qih5Z6L77ya6L+e57ut55Sf5oCB5L2N5Z+65ZugICsg56a75pWj5pyJ5a6z5L2N54K56ZuG5ZCIICsg55yf5a6eIHR3by1mb2xkIGNvc3QKYXNleHVhbCDkuI4gc2V4dWFsIOWcqOWQjOS4gOS4quaxoOWtkOmHjOaKouWQjOS4gOS4quaJv+i9veWKmyBL77yM55yL6ZW/5pyf6LCB5Y2g5LyY44CCCuWdj+S9jeeCuea0l+mZpOacuuWItu+8mumHjee7hOWQjuWtkOS7oyBiYWQgPSDlj4zkurIgYmFkIOeahOS6pOmbhiArIOWQhOiHqueLrOaciemDqOWIhueahOS4gOWNiu+8iOacn+acm++8iQoiIiIKaW1wb3J0IGpzb24sIHJhbmRvbSwgc3RhdGlzdGljcwoKTF9FQ08gPSA4ICAgICAgICAgICMg55Sf5oCB5L2N5Z+65Zug5L2N54K577yI6L+e57ut77yJCkxfQkFEID0gMjQgICAgICAgICAjIOacieWus+S9jeeCue+8iOemu+aVo+mbhuWQiO+8iQpNVV9ELCBNVV9CLCBTID0gMC4wMiwgMC4wMDEsIDAuMDUKTVVfRUNPID0gMC4xMgpLLCBHRU5TLCBOMCA9IDYwLCAyNTAsIDQwCgoKY2xhc3MgUDoKICAgIF9fc2xvdHNfXyA9ICgiZWNvIiwgImJhZCIsICJzZXgiLCAibW9kZSIsICJlbmVyZ3kiKQogICAgZGVmIF9faW5pdF9fKHNlbGYsIGVjbywgYmFkLCBzZXgsIG1vZGUsIGVuZXJneT0yMC4wKToKICAgICAgICBzZWxmLmVjbyA9IGxpc3QoZWNvKTsgc2VsZi5iYWQgPSBzZXQoYmFkKTsgc2VsZi5zZXggPSBzZXgKICAgICAgICBzZWxmLm1vZGUgPSBtb2RlOyBzZWxmLmVuZXJneSA9IGVuZXJneQogICAgQHByb3BlcnR5CiAgICBkZWYgbG9hZChzZWxmKTogcmV0dXJuIGxlbihzZWxmLmJhZCkKCgpkZWYgZWNvX2ZpdChwLCBjZW50ZXJzLCBzaWdtYT0wLjM1KToKICAgIGIgPSAwLjAKICAgIGZvciBjIGluIGNlbnRlcnM6CiAgICAgICAgZDIgPSBzdW0oKHggLSB5KSAqKiAyIGZvciB4LCB5IGluIHppcChwLmVjbywgYykpCiAgICAgICAgYiA9IG1heChiLCBwb3coMi43MTgyODE4Mjg0NTkwNDUsIC1kMiAvICgyICogc2lnbWEgKiogMikpKQogICAgcmV0dXJuIGIKCgpkZWYgdG90YWxfZml0KHAsIGNlbnRlcnMpOgogICAgcmV0dXJuIGVjb19maXQocCwgY2VudGVycykgKiAoKDEuMCAtIFMpICoqIHAubG9hZCkKCgpkZWYgbXV0YXRlX2VjbyhnLCBybmcpOgogICAgb3V0ID0gW10KICAgIGZvciB4IGluIGc6CiAgICAgICAgaWYgcm5nLnJhbmRvbSgpIDwgMC4zNToKICAgICAgICAgICAgeCArPSBybmcuZ2F1c3MoMCwgTVVfRUNPKQogICAgICAgIG91dC5hcHBlbmQobWluKDEuMCwgbWF4KDAuMCwgeCkpKQogICAgcmV0dXJuIG91dAoKCmRlZiBtdXRhdGVfYmFkKGJhZCwgcm5nKToKICAgIG91dCA9IHNldChiYWQpCiAgICBmb3IgaSBpbiByYW5nZShMX0JBRCk6CiAgICAgICAgaWYgaSBpbiBvdXQ6CiAgICAgICAgICAgIGlmIHJuZy5yYW5kb20oKSA8IE1VX0I6CiAgICAgICAgICAgICAgICBvdXQuZGlzY2FyZChpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIHJuZy5yYW5kb20oKSA8IE1VX0Q6CiAgICAgICAgICAgICAgICBvdXQuYWRkKGkpCiAgICByZXR1cm4gb3V0CgoKZGVmIHJlY29tYmluZV9iYWQoYjEsIGIyLCBybmcpOgogICAgIiIi6YeN57uE77ya5Y+M5Lqy5YWx5pyJ55qE5Z2P5L2N54K55b+F55WZ77yb5Y2V5Lqy54us5pyJ55qE5LulIDEvMiDmpoLnjofnlZkgLT4g5pyf5pyb5bCP5LqO5Lu75LiA5Lqy5pysIiIiCiAgICBpbnRlciA9IGIxICYgYjIKICAgIG9ubHkxID0gYjEgLSBiMgogICAgb25seTIgPSBiMiAtIGIxCiAgICBvdXQgPSBzZXQoaW50ZXIpCiAgICBvdXQgfD0ge2kgZm9yIGkgaW4gb25seTEgaWYgcm5nLnJhbmRvbSgpIDwgMC41fQogICAgb3V0IHw9IHtpIGZvciBpIGluIG9ubHkyIGlmIHJuZy5yYW5kb20oKSA8IDAuNX0KICAgIHJldHVybiBvdXQKCgpkZWYgcnVuKGtpbmQsIHNlZWQpOgogICAgcm5nID0gcmFuZG9tLlJhbmRvbShzZWVkKQogICAgaWYga2luZCA9PSAic3RhdGljIjoKICAgICAgICBjZW50ZXJzID0gW1swLjVdICogTF9FQ09dOyBzaGlmdF9ldmVyeSwgc2hpZnRfbWFnID0gMCwgMC4wCiAgICBlbHNlOgogICAgICAgIGNlbnRlcnMgPSBbWzAuNV0gKiBMX0VDT107IHNoaWZ0X2V2ZXJ5LCBzaGlmdF9tYWcgPSAxMiwgMC4wNQogICAgdCA9IDAKICAgIHBvcCA9IFtdCiAgICBmb3IgaSBpbiByYW5nZShOMCk6CiAgICAgICAgbW9kZSA9ICJhc2V4dWFsIiBpZiBpICUgMiA9PSAwIGVsc2UgInNleHVhbCIKICAgICAgICBzZXggPSAiTiIgaWYgbW9kZSA9PSAiYXNleHVhbCIgZWxzZSAoIk0iIGlmIGkgJSA0ID09IDEgZWxzZSAiRiIpCiAgICAgICAgcG9wLmFwcGVuZChQKFtybmcucmFuZG9tKCkgZm9yIF8gaW4gcmFuZ2UoTF9FQ08pXSwgc2V0KCksIHNleCwgbW9kZSkpCiAgICB0cmFqID0gW10KICAgIGZvciBnIGluIHJhbmdlKEdFTlMpOgogICAgICAgIHQgKz0gMQogICAgICAgIGlmIHNoaWZ0X2V2ZXJ5IGFuZCB0ICUgc2hpZnRfZXZlcnkgPT0gMDoKICAgICAgICAgICAgY2VudGVycyA9IFtbbWluKDEuMCwgbWF4KDAuMCwgeCArIHJuZy5nYXVzcygwLCBzaGlmdF9tYWcpKSkgZm9yIHggaW4gY10gZm9yIGMgaW4gY2VudGVyc10KICAgICAgICBmb3IgcCBpbiBwb3A6CiAgICAgICAgICAgIHAuZW5lcmd5ICs9IDYuMCAqIHRvdGFsX2ZpdChwLCBjZW50ZXJzKSAqICgwLjcgKyAwLjYgKiBybmcucmFuZG9tKCkpIC0gMS4wCiAgICAgICAgb2ZmID0gW10KICAgICAgICAjIOaXoOaAp++8muavj+S4quS4quS9k+eLrOeri+S6pyAxIOS7lAogICAgICAgIGZvciBwIGluIFtxIGZvciBxIGluIHBvcCBpZiBxLm1vZGUgPT0gImFzZXh1YWwiXToKICAgICAgICAgICAgaWYgcC5lbmVyZ3kgPj0gOC4wOgogICAgICAgICAgICAgICAgcC5lbmVyZ3kgLT0gOC4wCiAgICAgICAgICAgICAgICBvZmYuYXBwZW5kKFAobXV0YXRlX2VjbyhwLmVjbywgcm5nKSwgbXV0YXRlX2JhZChwLmJhZCwgcm5nKSwgIk4iLCAiYXNleHVhbCIsIDQuMCkpCiAgICAgICAgIyDmnInmgKfvvJrlj6rmnIkgRiDkuqfku5TvvIh0d28tZm9sZCBjb3N077yJ77yM6ZyA5byC5oCn6YWN5a+5CiAgICAgICAgbWFsZXMgPSBbcSBmb3IgcSBpbiBwb3AgaWYgcS5tb2RlID09ICJzZXh1YWwiIGFuZCBxLnNleCA9PSAiTSJdCiAgICAgICAgZmVtYWxlcyA9IFtxIGZvciBxIGluIHBvcCBpZiBxLm1vZGUgPT0gInNleHVhbCIgYW5kIHEuc2V4ID09ICJGIl0KICAgICAgICBybmcuc2h1ZmZsZShtYWxlcyk7IHJuZy5zaHVmZmxlKGZlbWFsZXMpCiAgICAgICAgZm9yIG0sIGYgaW4gemlwKG1hbGVzLCBmZW1hbGVzKToKICAgICAgICAgICAgaWYgZi5lbmVyZ3kgPCA4LjA6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBmLmVuZXJneSAtPSA4LjAKICAgICAgICAgICAgZWNvID0gW2EgaWYgcm5nLnJhbmRvbSgpIDwgMC41IGVsc2UgYiBmb3IgYSwgYiBpbiB6aXAobS5lY28sIGYuZWNvKV0KICAgICAgICAgICAgc2V4ID0gcm5nLmNob2ljZShbIk0iLCAiRiJdKQogICAgICAgICAgICBvZmYuYXBwZW5kKFAobXV0YXRlX2VjbyhlY28sIHJuZyksIG11dGF0ZV9iYWQocmVjb21iaW5lX2JhZChtLmJhZCwgZi5iYWQsIHJuZyksIHJuZyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgc2V4LCAic2V4dWFsIiwgNC4wKSkKICAgICAgICBwb3AgPSBbcSBmb3IgcSBpbiBwb3AgaWYgcS5lbmVyZ3kgPiAwXSArIG9mZgogICAgICAgIHBvcC5zb3J0KGtleT1sYW1iZGEgcTogdG90YWxfZml0KHEsIGNlbnRlcnMpLCByZXZlcnNlPVRydWUpCiAgICAgICAgcG9wID0gcG9wWzpLXQogICAgICAgIGlmIG5vdCBwb3A6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgbmEgPSBzdW0oMSBmb3IgcSBpbiBwb3AgaWYgcS5tb2RlID09ICJhc2V4dWFsIikKICAgICAgICB0cmFqLmFwcGVuZChyb3VuZChuYSAvIGxlbihwb3ApLCA0KSkKICAgIGlmIG5vdCBwb3A6CiAgICAgICAgcmV0dXJuIGRpY3QoZXh0aW5jdD1UcnVlLCBmaW5hbF9hc2V4X2ZyYWM9Tm9uZSwgdHJhaj10cmFqKQogICAgbmEgPSBzdW0oMSBmb3IgcSBpbiBwb3AgaWYgcS5tb2RlID09ICJhc2V4dWFsIikKICAgIHJldHVybiBkaWN0KGV4dGluY3Q9RmFsc2UsIGZpbmFsX2FzZXhfZnJhYz1yb3VuZChuYSAvIGxlbihwb3ApLCA0KSwgTj1sZW4ocG9wKSwKICAgICAgICAgICAgICAgIG1lYW5fbG9hZF9hc2V4PXJvdW5kKHN0YXRpc3RpY3MubWVhbihbcS5sb2FkIGZvciBxIGluIHBvcCBpZiBxLm1vZGUgPT0gImFzZXh1YWwiXSksIDIpCiAgICAgICAgICAgICAgICBpZiBuYSBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICBtZWFuX2xvYWRfc2V4PXJvdW5kKHN0YXRpc3RpY3MubWVhbihbcS5sb2FkIGZvciBxIGluIHBvcCBpZiBxLm1vZGUgPT0gInNleHVhbCJdKSwgMikKICAgICAgICAgICAgICAgIGlmIGxlbihwb3ApIC0gbmEgZWxzZSBOb25lLAogICAgICAgICAgICAgICAgdHJhaj10cmFqKQoKClNFRURTID0gbGlzdChyYW5nZSgxMCkpCm91dCA9IHt9CnByaW50KGYieyd3b3JsZCc6PDEwfXsnZmluYWxfYXNleF9mcmFjJzo+MTh9eydsb2FkX2FzZXgnOj4xMX17J2xvYWRfc2V4Jzo+MTB9eydleHRpbmN0Jzo+OX0iKQpmb3Iga2luZCBpbiBbInN0YXRpYyIsICJzaGlmdGluZyJdOgogICAgcnMgPSBbcnVuKGtpbmQsIHMpIGZvciBzIGluIFNFRURTXQogICAgb2sgPSBbciBmb3IgciBpbiBycyBpZiBub3QgclsiZXh0aW5jdCJdXQogICAgbl9leHQgPSBsZW4ocnMpIC0gbGVuKG9rKQogICAgaWYgb2s6CiAgICAgICAgZmEgPSBzdGF0aXN0aWNzLm1lYW4oclsiZmluYWxfYXNleF9mcmFjIl0gZm9yIHIgaW4gb2spCiAgICAgICAgbGEgPSBzdGF0aXN0aWNzLm1lYW4oclsibWVhbl9sb2FkX2FzZXgiXSBmb3IgciBpbiBvayBpZiByWyJtZWFuX2xvYWRfYXNleCJdIGlzIG5vdCBOb25lKQogICAgICAgIGxzID0gc3RhdGlzdGljcy5tZWFuKHJbIm1lYW5fbG9hZF9zZXgiXSBmb3IgciBpbiBvayBpZiByWyJtZWFuX2xvYWRfc2V4Il0gaXMgbm90IE5vbmUpCiAgICBlbHNlOgogICAgICAgIGZhLCBsYSwgbHMgPSBOb25lLCBOb25lLCBOb25lCiAgICBvdXRba2luZF0gPSBkaWN0KGZpbmFsX2FzZXhfZnJhYz1mYSwgbG9hZF9hc2V4PWxhLCBsb2FkX3NleD1scywgbl9leHRpbmN0PW5fZXh0LAogICAgICAgICAgICAgICAgICAgICB0cmFqPVtyWyJ0cmFqIl0gZm9yIHIgaW4gcnNdKQogICAgcHJpbnQoZiJ7a2luZDo8MTB9eyhmJ3tmYTouNGZ9JyBpZiBmYSBpcyBub3QgTm9uZSBlbHNlICdOQScpOj4xOH0iCiAgICAgICAgICBmInsoZid7bGE6LjJmfScgaWYgbGEgaXMgbm90IE5vbmUgZWxzZSAnTkEnKTo+MTF9IgogICAgICAgICAgZiJ7KGYne2xzOi4yZn0nIGlmIGxzIGlzIG5vdCBOb25lIGVsc2UgJ05BJyk6PjEwfXtuX2V4dDo+OX0iKQoKanNvbi5kdW1wKG91dCwgb3BlbigiY29tcGV0ZV9yZXN1bHRzLmpzb24iLCAidyIpLCBpbmRlbnQ9MSkKCnByaW50KCkKcHJpbnQoIj09PSDml6DmgKfljaDmr5Tovajov7nvvIgxMCBzZWVkIOW5s+Wdh++8jOavjyAyNSDku6Pph4fmoLfvvIk9PT0iKQpmb3Iga2luZCBpbiBbInN0YXRpYyIsICJzaGlmdGluZyJdOgogICAgdHJzID0gW3QgZm9yIHQgaW4gb3V0W2tpbmRdWyJ0cmFqIl0gaWYgdF0KICAgIG0gPSBtaW4obGVuKHQpIGZvciB0IGluIHRycykgaWYgdHJzIGVsc2UgMAogICAgbGluZSA9IFtyb3VuZChzdGF0aXN0aWNzLm1lYW4odFtpXSBmb3IgdCBpbiB0cnMpLCAzKSBmb3IgaSBpbiByYW5nZSgwLCBtLCAyNSldCiAgICBwcmludChmIiAge2tpbmQ6PDl9IHtsaW5lfSIpCnByaW50KCIgICgxLjA95peg5oCn54us5Y2gIDAuMD3mnInmgKfni6zljaApIikK
+# -*- coding: utf-8 -*-
+"""统一竞争模型：连续生态位基因 + 离散有害位点集合 + 真实 two-fold cost
+asexual 与 sexual 在同一个池子里抢同一个承载力 K，看长期谁占优。
+坏位点洗除机制：重组后子代 bad = 双亲 bad 的交集 + 各自独有部分的一半（期望）
+"""
+import json, random, statistics
+
+L_ECO = 8          # 生态位基因位点（连续）
+L_BAD = 24         # 有害位点（离散集合）
+MU_D, MU_B, S = 0.02, 0.001, 0.05
+MU_ECO = 0.12
+K, GENS, N0 = 60, 250, 40
+
+
+class P:
+    __slots__ = ("eco", "bad", "sex", "mode", "energy")
+    def __init__(self, eco, bad, sex, mode, energy=20.0):
+        self.eco = list(eco); self.bad = set(bad); self.sex = sex
+        self.mode = mode; self.energy = energy
+    @property
+    def load(self): return len(self.bad)
+
+
+def eco_fit(p, centers, sigma=0.35):
+    b = 0.0
+    for c in centers:
+        d2 = sum((x - y) ** 2 for x, y in zip(p.eco, c))
+        b = max(b, pow(2.718281828459045, -d2 / (2 * sigma ** 2)))
+    return b
+
+
+def total_fit(p, centers):
+    return eco_fit(p, centers) * ((1.0 - S) ** p.load)
+
+
+def mutate_eco(g, rng):
+    out = []
+    for x in g:
+        if rng.random() < 0.35:
+            x += rng.gauss(0, MU_ECO)
+        out.append(min(1.0, max(0.0, x)))
+    return out
+
+
+def mutate_bad(bad, rng):
+    out = set(bad)
+    for i in range(L_BAD):
+        if i in out:
+            if rng.random() < MU_B:
+                out.discard(i)
+        else:
+            if rng.random() < MU_D:
+                out.add(i)
+    return out
+
+
+def recombine_bad(b1, b2, rng):
+    """重组：双亲共有的坏位点必留；单亲独有的以 1/2 概率留 -> 期望小于任一亲本"""
+    inter = b1 & b2
+    only1 = b1 - b2
+    only2 = b2 - b1
+    out = set(inter)
+    out |= {i for i in only1 if rng.random() < 0.5}
+    out |= {i for i in only2 if rng.random() < 0.5}
+    return out
+
+
+def run(kind, seed):
+    rng = random.Random(seed)
+    if kind == "static":
+        centers = [[0.5] * L_ECO]; shift_every, shift_mag = 0, 0.0
+    else:
+        centers = [[0.5] * L_ECO]; shift_every, shift_mag = 12, 0.05
+    t = 0
+    pop = []
+    for i in range(N0):
+        mode = "asexual" if i % 2 == 0 else "sexual"
+        sex = "N" if mode == "asexual" else ("M" if i % 4 == 1 else "F")
+        pop.append(P([rng.random() for _ in range(L_ECO)], set(), sex, mode))
+    traj = []
+    for g in range(GENS):
+        t += 1
+        if shift_every and t % shift_every == 0:
+            centers = [[min(1.0, max(0.0, x + rng.gauss(0, shift_mag))) for x in c] for c in centers]
+        for p in pop:
+            p.energy += 6.0 * total_fit(p, centers) * (0.7 + 0.6 * rng.random()) - 1.0
+        off = []
+        # 无性：每个个体独立产 1 仔
+        for p in [q for q in pop if q.mode == "asexual"]:
+            if p.energy >= 8.0:
+                p.energy -= 8.0
+                off.append(P(mutate_eco(p.eco, rng), mutate_bad(p.bad, rng), "N", "asexual", 4.0))
+        # 有性：只有 F 产仔（two-fold cost），需异性配对
+        males = [q for q in pop if q.mode == "sexual" and q.sex == "M"]
+        females = [q for q in pop if q.mode == "sexual" and q.sex == "F"]
+        rng.shuffle(males); rng.shuffle(females)
+        for m, f in zip(males, females):
+            if f.energy < 8.0:
+                continue
+            f.energy -= 8.0
+            eco = [a if rng.random() < 0.5 else b for a, b in zip(m.eco, f.eco)]
+            sex = rng.choice(["M", "F"])
+            off.append(P(mutate_eco(eco, rng), mutate_bad(recombine_bad(m.bad, f.bad, rng), rng),
+                          sex, "sexual", 4.0))
+        pop = [q for q in pop if q.energy > 0] + off
+        pop.sort(key=lambda q: total_fit(q, centers), reverse=True)
+        pop = pop[:K]
+        if not pop:
+            break
+        na = sum(1 for q in pop if q.mode == "asexual")
+        traj.append(round(na / len(pop), 4))
+    if not pop:
+        return dict(extinct=True, final_asex_frac=None, traj=traj)
+    na = sum(1 for q in pop if q.mode == "asexual")
+    return dict(extinct=False, final_asex_frac=round(na / len(pop), 4), N=len(pop),
+                mean_load_asex=round(statistics.mean([q.load for q in pop if q.mode == "asexual"]), 2)
+                if na else None,
+                mean_load_sex=round(statistics.mean([q.load for q in pop if q.mode == "sexual"]), 2)
+                if len(pop) - na else None,
+                traj=traj)
+
+
+SEEDS = list(range(10))
+out = {}
+print(f"{'world':<10}{'final_asex_frac':>18}{'load_asex':>11}{'load_sex':>10}{'extinct':>9}")
+for kind in ["static", "shifting"]:
+    rs = [run(kind, s) for s in SEEDS]
+    ok = [r for r in rs if not r["extinct"]]
+    n_ext = len(rs) - len(ok)
+    if ok:
+        fa = statistics.mean(r["final_asex_frac"] for r in ok)
+        la = statistics.mean(r["mean_load_asex"] for r in ok if r["mean_load_asex"] is not None)
+        ls = statistics.mean(r["mean_load_sex"] for r in ok if r["mean_load_sex"] is not None)
+    else:
+        fa, la, ls = None, None, None
+    out[kind] = dict(final_asex_frac=fa, load_asex=la, load_sex=ls, n_extinct=n_ext,
+                     traj=[r["traj"] for r in rs])
+    print(f"{kind:<10}{(f'{fa:.4f}' if fa is not None else 'NA'):>18}"
+          f"{(f'{la:.2f}' if la is not None else 'NA'):>11}"
+          f"{(f'{ls:.2f}' if ls is not None else 'NA'):>10}{n_ext:>9}")
+
+json.dump(out, open("compete_results.json", "w"), indent=1)
+
+print()
+print("=== 无性占比轨迹（10 seed 平均，每 25 代采样）===")
+for kind in ["static", "shifting"]:
+    trs = [t for t in out[kind]["traj"] if t]
+    m = min(len(t) for t in trs) if trs else 0
+    line = [round(statistics.mean(t[i] for t in trs), 3) for i in range(0, m, 25)]
+    print(f"  {kind:<9} {line}")
+print("  (1.0=无性独占 0.0=有性独占)")

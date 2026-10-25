@@ -1,1 +1,176 @@
-IiIiZXZhbGd1YXJkIEhUVFAgQVBJIOKAlCBzdGRsaWIgb25seSwgbm8gZnJhbWV3b3JrLCBubyBuZXR3b3JrIGNhbGwgb3V0LgoKV2h5IHRoaXMgZXhpc3RzCi0tLS0tLS0tLS0tLS0tLQpUaGUgUHl0aG9uIEFQSSBjb3ZlcnMgYW55dGhpbmcgcnVubmluZyBpbi1wcm9jZXNzLiBJdCBkb2VzIG5vdCBjb3ZlciB0aGUKdHdvIGNhc2VzIHRoYXQgZGVjaWRlIHdoZXRoZXIgYSB0b29sIGdldHMgYWRvcHRlZCBpbiBhIHRlYW06CgogICogYSBzZXJ2aWNlIGluIGFub3RoZXIgbGFuZ3VhZ2UgdGhhdCB3YW50cyB0byBjaGVjayBnZW5lcmF0ZWQgY29kZQogICogYSByZXZpZXdlciB3aG8gd2FudHMgYSBVUkwsIG5vdCBhIHBpcCBpbnN0YWxsCgpTbzogYW4gSFRUUCBzdXJmYWNlLiBJdCBpcyBkZWxpYmVyYXRlbHkgYnVpbHQgb24gYGh0dHAuc2VydmVyYCB3aXRoIG5vCmRlcGVuZGVuY3ksIGJlY2F1c2UgYSBzY2FubmVyIHRoYXQgbmVlZHMgYSB3ZWIgZnJhbWV3b3JrIHRvIGJvb3QgaXMgYQpzY2FubmVyIHlvdSB3aWxsIG5vdCBydW4gaW5zaWRlIGEgQ0kgY29udGFpbmVyIGF0IDNhbS4KClNlY3VyaXR5IHBvc3R1cmUsIHN0YXRlZCBwbGFpbmx5OiB0aGlzIHNlcnZlciBpcyBhICoqbG9jYWwqKiBzZXJ2aWNlLiBJdApiaW5kcyAxMjcuMC4wLjEgYnkgZGVmYXVsdCwgaXQgYWNjZXB0cyBQT1NUIG9ubHkgb24gL3NjYW4qLCBpdCBjYXBzIHRoZQpyZXF1ZXN0IGJvZHksIGFuZCBpdCBuZXZlciBleGVjdXRlcyB0aGUgY29kZSBpdCBpcyBnaXZlbiAtLSBpdCBwYXJzZXMgaXQKaW50byBhbiBBU1QgYW5kIHJlYWRzIGl0LiBJdCBpcyBub3QgaGFyZGVuZWQgZm9yIHB1YmxpYyBleHBvc3VyZSBhbmQgdGhlCmAtLWhvc3QgMC4wLjAuMGAgZmxhZyBzYXlzIHNvIGluIGl0cyBoZWxwIHRleHQuCgogICAgcHl0aG9uMyAtbSBldmFsZ3VhcmQgc2VydmUgICAgICAgICAgICAjIGh0dHA6Ly8xMjcuMC4wLjE6ODc4NwogICAgY3VybCAtcyBsb2NhbGhvc3Q6ODc4Ny9ydWxlcyB8IGpxCiAgICBjdXJsIC1zIGxvY2FsaG9zdDo4Nzg3L3NjYW4gLWQgQGJvZHkuanNvbgoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KaW1wb3J0IHRocmVhZGluZwpmcm9tIGh0dHAuc2VydmVyIGltcG9ydCBCYXNlSFRUUFJlcXVlc3RIYW5kbGVyLCBUaHJlYWRpbmdIVFRQU2VydmVyCgpmcm9tIC5hcGkgaW1wb3J0IHNjYW5fcGF0aHMsIHNjYW5fc291cmNlLCBTRVZFUklUSUVTLCBfVkVSU0lPTiwgX1RPT0xfTkFNRQpmcm9tIC5ydWxlcyBpbXBvcnQgUlVMRVMKZnJvbSAucHJvX3J1bGVzIGltcG9ydCBQUk9fUlVMRVMKZnJvbSAuY2xhc3NlcyBpbXBvcnQgU1lOVEFYCgpNQVhfQk9EWSA9IDQgKiAxMDI0ICogMTAyNCAgICAgICAgICAjIDQgTWlCIG9mIHNvdXJjZSBpcyBhbHJlYWR5IGFic3VyZApERUZBVUxUX0hPU1QgPSAiMTI3LjAuMC4xIgpERUZBVUxUX1BPUlQgPSA4Nzg3CgoKZGVmIF9ydWxlX3Jvd3MoKToKICAgIHJvd3MgPSBbXQogICAgZm9yIGZuIGluIGxpc3QoUlVMRVMpICsgbGlzdChQUk9fUlVMRVMpOgogICAgICAgIG0gPSBnZXRhdHRyKGZuLCAibWV0YSIsIHt9KSBvciB7fQogICAgICAgIGVpZCA9IG0uZ2V0KCJlZ19pZCIpCiAgICAgICAgaWYgbm90IGVpZDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICByb3dzLmFwcGVuZCh7CiAgICAgICAgICAgICJlZ19pZCI6IGVpZCwKICAgICAgICAgICAgInRpdGxlIjogbS5nZXQoInRpdGxlIiwgIiIpLAogICAgICAgICAgICAic2V2ZXJpdHkiOiBtLmdldCgic2V2ZXJpdHkiLCAiaW5mbyIpLAogICAgICAgICAgICAid2h5IjogbS5nZXQoIndoeSIsICIiKSwKICAgICAgICAgICAgImZpeCI6IG0uZ2V0KCJmaXgiLCAiIiksCiAgICAgICAgICAgICJjYW5vbiI6IG0uZ2V0KCJjYW5vbiIsIFtdKSwKICAgICAgICAgICAgInBybyI6IGZuIGluIFBST19SVUxFUywKICAgICAgICAgICAgInNoaXBwZWQiOiBlaWQgaW4gU1lOVEFYLAogICAgICAgIH0pCiAgICByZXR1cm4gcm93cwoKCmRlZiBfZG9fc2NhbihwYXlsb2FkOiBkaWN0KToKICAgIHBybyA9IGJvb2wocGF5bG9hZC5nZXQoInBybyIsIEZhbHNlKSkKICAgIGlmICJzb3VyY2UiIGluIHBheWxvYWQ6CiAgICAgICAgcmVzID0gc2Nhbl9zb3VyY2UocGF5bG9hZFsic291cmNlIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgcGF0aD1wYXlsb2FkLmdldCgicGF0aCIsICI8c3RyaW5nPiIpLCBwcm89cHJvKQogICAgZWxpZiAicGF0aHMiIGluIHBheWxvYWQ6CiAgICAgICAgcmVzID0gc2Nhbl9wYXRocyhwYXlsb2FkWyJwYXRocyJdLCBwcm89cHJvKQogICAgZWxpZiAicGF0aCIgaW4gcGF5bG9hZDoKICAgICAgICByZXMgPSBzY2FuX3BhdGhzKFtwYXlsb2FkWyJwYXRoIl1dLCBwcm89cHJvKQogICAgZWxzZToKICAgICAgICByZXR1cm4gTm9uZSwgeyJlcnJvciI6ICJwcm92aWRlIG9uZSBvZjogc291cmNlIHwgcGF0aCB8IHBhdGhzIn0KICAgIHNldiA9IHBheWxvYWQuZ2V0KCJzZXZlcml0eSIpCiAgICBpZiBzZXYgaW4gU0VWRVJJVElFUzoKICAgICAgICByZXMgPSByZXMubGltaXQoc2V2KQogICAgcmV0dXJuIHJlcywgTm9uZQoKCmNsYXNzIEhhbmRsZXIoQmFzZUhUVFBSZXF1ZXN0SGFuZGxlcik6CiAgICBzZXJ2ZXJfdmVyc2lvbiA9IGYie19UT09MX05BTUV9L3tfVkVSU0lPTn0iCiAgICAjIERlZmF1bHQgaXMgSFRUUC8xLjAgYW5kIGEgY2hhdHR5IHZlcnNpb24gc3RyaW5nLiBRdWlldCB0aGUgbG9nIG5vaXNlCiAgICAjIGJ1dCBrZWVwIGVycm9yczogYSBzY2FubmVyIHRoYXQgZmFpbHMgc2lsZW50bHkgaW4gQ0kgaXMgdGhlIGZhaWx1cmUKICAgICMgbW9kZSB0aGlzIHdob2xlIHByb2plY3QgZXhpc3RzIHRvIGNhdGNoLgoKICAgIGRlZiBsb2dfbWVzc2FnZShzZWxmLCBmbXQsICphcmdzKToKICAgICAgICBpZiAiUE9TVCAvc2NhbiIgaW4gKGZtdCAlIGFyZ3MpIG9yICJHRVQgLyIgaW4gKGZtdCAlIGFyZ3MpOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBzdXBlcigpLmxvZ19tZXNzYWdlKGZtdCwgKmFyZ3MpCgogICAgIyAtLS0tIGhlbHBlcnMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGRlZiBfc2VuZChzZWxmLCBjb2RlLCBvYmopOgogICAgICAgIGJvZHkgPSBqc29uLmR1bXBzKG9iaiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikuZW5jb2RlKCJ1dGYtOCIpCiAgICAgICAgc2VsZi5zZW5kX3Jlc3BvbnNlKGNvZGUpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKQogICAgICAgIHNlbGYuc2VuZF9oZWFkZXIoIkNvbnRlbnQtTGVuZ3RoIiwgc3RyKGxlbihib2R5KSkpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiWC1Ub29sIiwgZiJ7X1RPT0xfTkFNRX0ge19WRVJTSU9OfSIpCiAgICAgICAgc2VsZi5lbmRfaGVhZGVycygpCiAgICAgICAgc2VsZi53ZmlsZS53cml0ZShib2R5KQoKICAgIGRlZiBfYm9keShzZWxmKToKICAgICAgICBuID0gaW50KHNlbGYuaGVhZGVycy5nZXQoIkNvbnRlbnQtTGVuZ3RoIikgb3IgMCkKICAgICAgICBpZiBuIDw9IDA6CiAgICAgICAgICAgIHJldHVybiB7fQogICAgICAgIGlmIG4gPiBNQVhfQk9EWToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmImJvZHkgdG9vIGxhcmdlOiB7bn0gPiB7TUFYX0JPRFl9IikKICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhzZWxmLnJmaWxlLnJlYWQobikuZGVjb2RlKCJ1dGYtOCIpKQoKICAgICMgLS0tLSByb3V0ZXMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBkZWYgZG9fR0VUKHNlbGYpOgogICAgICAgIHAgPSBzZWxmLnBhdGguc3BsaXQoIj8iKVswXS5yc3RyaXAoIi8iKSBvciAiLyIKICAgICAgICBpZiBwID09ICIvIjoKICAgICAgICAgICAgc2VsZi5fc2VuZCgyMDAsIHsKICAgICAgICAgICAgICAgICJ0b29sIjogX1RPT0xfTkFNRSwgInZlcnNpb24iOiBfVkVSU0lPTiwKICAgICAgICAgICAgICAgICJlbmRwb2ludHMiOiB7CiAgICAgICAgICAgICAgICAgICAgIkdFVCAvaGVhbHRoIjogImxpdmVuZXNzICsgcnVsZSBjb3VudHMiLAogICAgICAgICAgICAgICAgICAgICJHRVQgL3J1bGVzIjogInRoZSBydWxlIGNhdGFsb2d1ZSwgd2l0aCBzaGlwcGVkIGZsYWdzIiwKICAgICAgICAgICAgICAgICAgICAiUE9TVCAvc2NhbiI6ICJib2R5IHtzb3VyY2V8cGF0aHxwYXRocywgcHJvPywgc2V2ZXJpdHk/fSIsCiAgICAgICAgICAgICAgICAgICAgIlBPU1QgL3NjYW4vc2FyaWYiOiAic2FtZSwgcmV0dXJucyBTQVJJRiAyLjEuMCIsCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgIm5vdGUiOiAibG9jYWwgc2VydmljZTsgcGFyc2VzIHRoZSBjb2RlIGl0IGlzIGdpdmVuLCBuZXZlciBydW5zIGl0IiwKICAgICAgICAgICAgfSkKICAgICAgICBlbGlmIHAgPT0gIi9oZWFsdGgiOgogICAgICAgICAgICBzZWxmLl9zZW5kKDIwMCwgeyJvayI6IFRydWUsICJ0b29sIjogX1RPT0xfTkFNRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidmVyc2lvbiI6IF9WRVJTSU9OLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICJydWxlcyI6IGxlbihfcnVsZV9yb3dzKCkpfSkKICAgICAgICBlbGlmIHAgPT0gIi9ydWxlcyI6CiAgICAgICAgICAgIHJvd3MgPSBfcnVsZV9yb3dzKCkKICAgICAgICAgICAgc2VsZi5fc2VuZCgyMDAsIHsiY291bnQiOiBsZW4ocm93cyksICJydWxlcyI6IHJvd3N9KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuX3NlbmQoNDA0LCB7ImVycm9yIjogZiJubyBzdWNoIGVuZHBvaW50OiB7cH0ifSkKCiAgICBkZWYgZG9fUE9TVChzZWxmKToKICAgICAgICBwID0gc2VsZi5wYXRoLnNwbGl0KCI/IilbMF0ucnN0cmlwKCIvIikgb3IgIi8iCiAgICAgICAgaWYgcCBub3QgaW4gKCIvc2NhbiIsICIvc2Nhbi9zYXJpZiIpOgogICAgICAgICAgICBzZWxmLl9zZW5kKDQwNCwgeyJlcnJvciI6IGYibm8gc3VjaCBlbmRwb2ludDoge3B9In0pCiAgICAgICAgICAgIHJldHVybgogICAgICAgIHRyeToKICAgICAgICAgICAgcGF5bG9hZCA9IHNlbGYuX2JvZHkoKQogICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yIGFzIGU6CiAgICAgICAgICAgIHNlbGYuX3NlbmQoNDAwLCB7ImVycm9yIjogZiJiYWQgcmVxdWVzdCBib2R5OiB7ZX0ifSkKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZXhjZXB0IGpzb24uSlNPTkRlY29kZUVycm9yIGFzIGU6CiAgICAgICAgICAgIHNlbGYuX3NlbmQoNDAwLCB7ImVycm9yIjogZiJpbnZhbGlkIEpTT046IHtlfSJ9KQogICAgICAgICAgICByZXR1cm4KICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlcywgZXJyID0gX2RvX3NjYW4ocGF5bG9hZCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6ICAgICAgICAgICAgICAgICAgICAgICAjIG5ldmVyIDUwMCBvbiB1c2VyIGlucHV0CiAgICAgICAgICAgIHNlbGYuX3NlbmQoNDAwLCB7ImVycm9yIjogZiJ7dHlwZShlKS5fX25hbWVfX306IHtlfSJ9KQogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiBlcnI6CiAgICAgICAgICAgIHNlbGYuX3NlbmQoNDAwLCBlcnIpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIGlmIHAgPT0gIi9zY2FuL3NhcmlmIjoKICAgICAgICAgICAgc2VsZi5fc2VuZCgyMDAsIHJlcy50b19zYXJpZigpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuX3NlbmQoMjAwLCByZXMudG9fZGljdCgpKQoKCmRlZiBzZXJ2ZShob3N0PURFRkFVTFRfSE9TVCwgcG9ydD1ERUZBVUxUX1BPUlQsIGJsb2NrPVRydWUpOgogICAgIiIiU3RhcnQgdGhlIEFQSS4gUmV0dXJucyAoc2VydmVyLCB1cmwpOyBjYWxsZXIgbWF5IC5zaHV0ZG93bigpLiIiIgogICAgc3J2ID0gVGhyZWFkaW5nSFRUUFNlcnZlcigoaG9zdCwgcG9ydCksIEhhbmRsZXIpCiAgICB1cmwgPSBmImh0dHA6Ly97aG9zdH06e3BvcnR9IgogICAgaWYgYmxvY2s6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBzcnYuc2VydmVfZm9yZXZlcigpCiAgICAgICAgZXhjZXB0IEtleWJvYXJkSW50ZXJydXB0OgogICAgICAgICAgICBwYXNzCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgc3J2LnNlcnZlcl9jbG9zZSgpCiAgICByZXR1cm4gc3J2LCB1cmwKCgpkZWYgc2VydmVfYmFja2dyb3VuZChob3N0PURFRkFVTFRfSE9TVCwgcG9ydD1ERUZBVUxUX1BPUlQpOgogICAgc3J2LCB1cmwgPSBzZXJ2ZShob3N0LCBwb3J0LCBibG9jaz1GYWxzZSkKICAgIHQgPSB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1zcnYuc2VydmVfZm9yZXZlciwgZGFlbW9uPVRydWUpCiAgICB0LnN0YXJ0KCkKICAgIHJldHVybiBzcnYsIHVybCwgdAo=
+"""evalguard HTTP API — stdlib only, no framework, no network call out.
+
+Why this exists
+---------------
+The Python API covers anything running in-process. It does not cover the
+two cases that decide whether a tool gets adopted in a team:
+
+  * a service in another language that wants to check generated code
+  * a reviewer who wants a URL, not a pip install
+
+So: an HTTP surface. It is deliberately built on `http.server` with no
+dependency, because a scanner that needs a web framework to boot is a
+scanner you will not run inside a CI container at 3am.
+
+Security posture, stated plainly: this server is a **local** service. It
+binds 127.0.0.1 by default, it accepts POST only on /scan*, it caps the
+request body, and it never executes the code it is given -- it parses it
+into an AST and reads it. It is not hardened for public exposure and the
+`--host 0.0.0.0` flag says so in its help text.
+
+    python3 -m evalguard serve            # http://127.0.0.1:8787
+    curl -s localhost:8787/rules | jq
+    curl -s localhost:8787/scan -d @body.json
+"""
+from __future__ import annotations
+
+import json
+import threading
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+
+from .api import scan_paths, scan_source, SEVERITIES, _VERSION, _TOOL_NAME
+from .rules import RULES
+from .pro_rules import PRO_RULES
+from .classes import SYNTAX
+
+MAX_BODY = 4 * 1024 * 1024          # 4 MiB of source is already absurd
+DEFAULT_HOST = "127.0.0.1"
+DEFAULT_PORT = 8787
+
+
+def _rule_rows():
+    rows = []
+    for fn in list(RULES) + list(PRO_RULES):
+        m = getattr(fn, "meta", {}) or {}
+        eid = m.get("eg_id")
+        if not eid:
+            continue
+        rows.append({
+            "eg_id": eid,
+            "title": m.get("title", ""),
+            "severity": m.get("severity", "info"),
+            "why": m.get("why", ""),
+            "fix": m.get("fix", ""),
+            "canon": m.get("canon", []),
+            "pro": fn in PRO_RULES,
+            "shipped": eid in SYNTAX,
+        })
+    return rows
+
+
+def _do_scan(payload: dict):
+    pro = bool(payload.get("pro", False))
+    if "source" in payload:
+        res = scan_source(payload["source"],
+                          path=payload.get("path", "<string>"), pro=pro)
+    elif "paths" in payload:
+        res = scan_paths(payload["paths"], pro=pro)
+    elif "path" in payload:
+        res = scan_paths([payload["path"]], pro=pro)
+    else:
+        return None, {"error": "provide one of: source | path | paths"}
+    sev = payload.get("severity")
+    if sev in SEVERITIES:
+        res = res.limit(sev)
+    return res, None
+
+
+class Handler(BaseHTTPRequestHandler):
+    server_version = f"{_TOOL_NAME}/{_VERSION}"
+    # Default is HTTP/1.0 and a chatty version string. Quiet the log noise
+    # but keep errors: a scanner that fails silently in CI is the failure
+    # mode this whole project exists to catch.
+
+    def log_message(self, fmt, *args):
+        if "POST /scan" in (fmt % args) or "GET /" in (fmt % args):
+            return
+        super().log_message(fmt, *args)
+
+    # ---- helpers --------------------------------------------------------
+    def _send(self, code, obj):
+        body = json.dumps(obj, ensure_ascii=False, indent=2).encode("utf-8")
+        self.send_response(code)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Content-Length", str(len(body)))
+        self.send_header("X-Tool", f"{_TOOL_NAME} {_VERSION}")
+        self.end_headers()
+        self.wfile.write(body)
+
+    def _body(self):
+        n = int(self.headers.get("Content-Length") or 0)
+        if n <= 0:
+            return {}
+        if n > MAX_BODY:
+            raise ValueError(f"body too large: {n} > {MAX_BODY}")
+        return json.loads(self.rfile.read(n).decode("utf-8"))
+
+    # ---- routes ---------------------------------------------------------
+    def do_GET(self):
+        p = self.path.split("?")[0].rstrip("/") or "/"
+        if p == "/":
+            self._send(200, {
+                "tool": _TOOL_NAME, "version": _VERSION,
+                "endpoints": {
+                    "GET /health": "liveness + rule counts",
+                    "GET /rules": "the rule catalogue, with shipped flags",
+                    "POST /scan": "body {source|path|paths, pro?, severity?}",
+                    "POST /scan/sarif": "same, returns SARIF 2.1.0",
+                },
+                "note": "local service; parses the code it is given, never runs it",
+            })
+        elif p == "/health":
+            self._send(200, {"ok": True, "tool": _TOOL_NAME,
+                             "version": _VERSION,
+                             "rules": len(_rule_rows())})
+        elif p == "/rules":
+            rows = _rule_rows()
+            self._send(200, {"count": len(rows), "rules": rows})
+        else:
+            self._send(404, {"error": f"no such endpoint: {p}"})
+
+    def do_POST(self):
+        p = self.path.split("?")[0].rstrip("/") or "/"
+        if p not in ("/scan", "/scan/sarif"):
+            self._send(404, {"error": f"no such endpoint: {p}"})
+            return
+        try:
+            payload = self._body()
+        except ValueError as e:
+            self._send(400, {"error": f"bad request body: {e}"})
+            return
+        except json.JSONDecodeError as e:
+            self._send(400, {"error": f"invalid JSON: {e}"})
+            return
+        try:
+            res, err = _do_scan(payload)
+        except Exception as e:                       # never 500 on user input
+            self._send(400, {"error": f"{type(e).__name__}: {e}"})
+            return
+        if err:
+            self._send(400, err)
+            return
+        if p == "/scan/sarif":
+            self._send(200, res.to_sarif())
+        else:
+            self._send(200, res.to_dict())
+
+
+def serve(host=DEFAULT_HOST, port=DEFAULT_PORT, block=True):
+    """Start the API. Returns (server, url); caller may .shutdown()."""
+    srv = ThreadingHTTPServer((host, port), Handler)
+    url = f"http://{host}:{port}"
+    if block:
+        try:
+            srv.serve_forever()
+        except KeyboardInterrupt:
+            pass
+        finally:
+            srv.server_close()
+    return srv, url
+
+
+def serve_background(host=DEFAULT_HOST, port=DEFAULT_PORT):
+    srv, url = serve(host, port, block=False)
+    t = threading.Thread(target=srv.serve_forever, daemon=True)
+    t.start()
+    return srv, url, t

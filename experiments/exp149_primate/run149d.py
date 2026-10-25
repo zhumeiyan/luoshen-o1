@@ -1,1 +1,67 @@
-aW1wb3J0IG9zLCBzb2NrZXQsIGpzb24sIHRpbWUsIHJhbmRvbSwgc3RydWN0CmltcG9ydCBtdWx0aXByb2Nlc3NpbmcgYXMgbXAKCiMg55yf5a6e5Zyw5b2i77ya5YWI5p6a5Li+5LiA5qyh77yI55yfIEkvT++8iQpkZWYgdGVycmFpbihyb290PScvdXNyL2xpYi9weXRob24zLjEwJywgY2FwPTQwMCk6CiAgICBvdXQ9W10KICAgIGZvciBkcCxkbixmbiBpbiBvcy53YWxrKHJvb3QpOgogICAgICAgIG91dC5hcHBlbmQoZHApCiAgICAgICAgaWYgbGVuKG91dCk+PWNhcDogYnJlYWsKICAgIHJldHVybiBvdXRbOmNhcF0KCmRlZiBleHBsb3JlcihuYW1lLCBkaXJzLCBwcywgcHAsIHRhbGssIGJ1ZGdldCwgc2VlZCwgdGFnKToKICAgIHJuZz1yYW5kb20uUmFuZG9tKHNlZWQpCiAgICBzPXNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsc29ja2V0LlNPQ0tfREdSQU0pOyBzLmJpbmQoKCcxMjcuMC4wLjEnLHBzKSkKICAgIHMuc2V0dGltZW91dCgwLjAyKTsgcGVlcj0oJzEyNy4wLjAuMScscHApCiAgICBnaD1nYT1GYWxzZTsgdGVuZD10aW1lLnRpbWUoKSsxNQogICAgd2hpbGUgdGltZS50aW1lKCk8dGVuZCBhbmQgbm90KGdoIGFuZCBnYSk6CiAgICAgICAgdHJ5OiBzLnNlbmR0byhiJ2hpJyxwZWVyKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOiBwYXNzCiAgICAgICAgdHJ5OgogICAgICAgICAgICBkLF89cy5yZWN2ZnJvbSg2NCkKICAgICAgICAgICAgaWYgZD09YidoaSc6IGdoPVRydWU7IHMuc2VuZHRvKGInYWNrJyxwZWVyKQogICAgICAgICAgICBlbGlmIGQ9PWInYWNrJzogZ2E9VHJ1ZQogICAgICAgIGV4Y2VwdCBzb2NrZXQudGltZW91dDogdGltZS5zbGVlcCgwLjAwMykKICAgIGtub3duPXNldCgpOyBtaW5lPVtdOyBkdXA9MDsgaW9fbXM9W10KICAgIGZvciBpIGluIHJhbmdlKGJ1ZGdldCk6CiAgICAgICAgIyDpgInkuIDkuKroh6rlt7Hov5jmsqHmjqLntKLjgIHkuJTvvIjoi6XpgJrkv6HvvInlr7nmlrnkuZ/msqHmiqXov4fnmoQKICAgICAgICBjYW5kPVtkIGZvciBkIGluIGRpcnMgaWYgZCBub3QgaW4ga25vd25dCiAgICAgICAgaWYgbm90IGNhbmQ6IGJyZWFrCiAgICAgICAgcGljaz1ybmcuY2hvaWNlKGNhbmQpCiAgICAgICAgdDA9dGltZS50aW1lKCkKICAgICAgICB0cnk6IG49bGVuKGxpc3Qob3Muc2NhbmRpcihwaWNrKSkpICAgIyDnnJ8gSS9P77ya55yf5a6e5o6i57Si5Yqo5L2cCiAgICAgICAgZXhjZXB0IE9TRXJyb3I6IG49MAogICAgICAgIGlvX21zLmFwcGVuZCgodGltZS50aW1lKCktdDApKjEwMDApCiAgICAgICAga25vd24uYWRkKHBpY2spOyBtaW5lLmFwcGVuZChwaWNrKQogICAgICAgIGlmIHRhbGs6CiAgICAgICAgICAgIHRyeTogcy5zZW5kdG8ocGljay5lbmNvZGUoKVs6MjAwXSxwZWVyKQogICAgICAgICAgICBleGNlcHQgT1NFcnJvcjogcGFzcwogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBkLF89cy5yZWN2ZnJvbSgyNTYpCiAgICAgICAgICAgICAgICBpZiBkIG5vdCBpbiAoYidoaScsYidhY2snKToga25vd24uYWRkKGQuZGVjb2RlKGVycm9ycz0naWdub3JlJykpCiAgICAgICAgICAgIGV4Y2VwdCBzb2NrZXQudGltZW91dDogcGFzcwogICAgcy5jbG9zZSgpCiAgICBqc29uLmR1bXAoeyduYW1lJzpuYW1lLCd0YWxrJzp0YWxrLCdtaW5lJzptaW5lLCdpb19tcyc6aW9fbXN9LG9wZW4oJ2xvZ18lcy5qc29uJyV0YWcsJ3cnKSkKCmlmIF9fbmFtZV9fPT0nX19tYWluX18nOgogICAgZGlycz10ZXJyYWluKCkKICAgIHByaW50KCd0ZXJyYWluIGRpcnM9JWQnJWxlbihkaXJzKSkKICAgIHJlcz17fQogICAgZm9yIHJlcCBpbiByYW5nZSg1KToKICAgICBmb3IgdGFsayBpbiBbVHJ1ZSxGYWxzZV06CiAgICAgICAgcGE9c29ja2V0LnNvY2tldChzb2NrZXQuQUZfSU5FVCxzb2NrZXQuU09DS19ER1JBTSk7IHBhLmJpbmQoKCcxMjcuMC4wLjEnLDApKTsgQVA9cGEuZ2V0c29ja25hbWUoKVsxXQogICAgICAgIHBiPXNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsc29ja2V0LlNPQ0tfREdSQU0pOyBwYi5iaW5kKCgnMTI3LjAuMC4xJywwKSk7IEJQPXBiLmdldHNvY2tuYW1lKClbMV0KICAgICAgICBwYS5jbG9zZSgpOyBwYi5jbG9zZSgpCiAgICAgICAgdGFnPSdjb29wJyBpZiB0YWxrIGVsc2UgJ3NvbG8nCiAgICAgICAgcDE9bXAuUHJvY2Vzcyh0YXJnZXQ9ZXhwbG9yZXIsYXJncz0oJ0EnLGRpcnMsQVAsQlAsdGFsaywzMCwxMDArcmVwLCdBXycrdGFnKSkKICAgICAgICBwMj1tcC5Qcm9jZXNzKHRhcmdldD1leHBsb3JlcixhcmdzPSgnQicsZGlycyxCUCxBUCx0YWxrLDMwLDIwMCtyZXAsJ0JfJyt0YWcpKQogICAgICAgIHQwPXRpbWUudGltZSgpOyBwMS5zdGFydCgpOyBwMi5zdGFydCgpOyBwMS5qb2luKHRpbWVvdXQ9MzAwKTsgcDIuam9pbih0aW1lb3V0PTMwMCkKICAgICAgICBBPWpzb24ubG9hZChvcGVuKCdsb2dfQV8lcy5qc29uJyV0YWcpKTsgQj1qc29uLmxvYWQob3BlbignbG9nX0JfJXMuanNvbicldGFnKSkKICAgICAgICB1bmlxPWxlbihzZXQoQVsnbWluZSddKXxzZXQoQlsnbWluZSddKSk7IHRvdD1sZW4oQVsnbWluZSddKStsZW4oQlsnbWluZSddKQogICAgICAgIG92PWxlbihzZXQoQVsnbWluZSddKSZzZXQoQlsnbWluZSddKSkKICAgICAgICBlZmY9dW5pcS9tYXgoMSx0b3QpCiAgICAgICAgcHJpbnQoJyByZXAlZCB0YWxrPSUtNXMgJS4xZnMg5o6i57SiJWQvJWQg5ZSv5LiAPSVkIOmHjeWkjT0lZCDmlYjnjoc9JS40ZiclKHJlcCx0YWxrLHRpbWUudGltZSgpLXQwLGxlbihBWydtaW5lJ10pLGxlbihCWydtaW5lJ10pLHVuaXEsb3YsZWZmKSkKICAgICAgICBlZmY9dW5pcS9tYXgoMSx0b3QpCiAgICAgICAgcmVzLnNldGRlZmF1bHQoJ2Nvb3AnIGlmIHRhbGsgZWxzZSAnc29sbycsW10pLmFwcGVuZChkaWN0KHVuaXE9dW5pcSx0b3Q9dG90LG92ZXJsYXA9b3YsZWZmPWVmZikpCiAgICBqc29uLmR1bXAocmVzLG9wZW4oJ3JlczE0OWQuanNvbicsJ3cnKSkKICAgIHByaW50KCdzYXZlZCcpCg==
+import os, socket, json, time, random, struct
+import multiprocessing as mp
+
+# 真实地形：先枚举一次（真 I/O）
+def terrain(root='/usr/lib/python3.10', cap=400):
+    out=[]
+    for dp,dn,fn in os.walk(root):
+        out.append(dp)
+        if len(out)>=cap: break
+    return out[:cap]
+
+def explorer(name, dirs, ps, pp, talk, budget, seed, tag):
+    rng=random.Random(seed)
+    s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); s.bind(('127.0.0.1',ps))
+    s.settimeout(0.02); peer=('127.0.0.1',pp)
+    gh=ga=False; tend=time.time()+15
+    while time.time()<tend and not(gh and ga):
+        try: s.sendto(b'hi',peer)
+        except OSError: pass
+        try:
+            d,_=s.recvfrom(64)
+            if d==b'hi': gh=True; s.sendto(b'ack',peer)
+            elif d==b'ack': ga=True
+        except socket.timeout: time.sleep(0.003)
+    known=set(); mine=[]; dup=0; io_ms=[]
+    for i in range(budget):
+        # 选一个自己还没探索、且（若通信）对方也没报过的
+        cand=[d for d in dirs if d not in known]
+        if not cand: break
+        pick=rng.choice(cand)
+        t0=time.time()
+        try: n=len(list(os.scandir(pick)))   # 真 I/O：真实探索动作
+        except OSError: n=0
+        io_ms.append((time.time()-t0)*1000)
+        known.add(pick); mine.append(pick)
+        if talk:
+            try: s.sendto(pick.encode()[:200],peer)
+            except OSError: pass
+            try:
+                d,_=s.recvfrom(256)
+                if d not in (b'hi',b'ack'): known.add(d.decode(errors='ignore'))
+            except socket.timeout: pass
+    s.close()
+    json.dump({'name':name,'talk':talk,'mine':mine,'io_ms':io_ms},open('log_%s.json'%tag,'w'))
+
+if __name__=='__main__':
+    dirs=terrain()
+    print('terrain dirs=%d'%len(dirs))
+    res={}
+    for rep in range(5):
+     for talk in [True,False]:
+        pa=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); pa.bind(('127.0.0.1',0)); AP=pa.getsockname()[1]
+        pb=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); pb.bind(('127.0.0.1',0)); BP=pb.getsockname()[1]
+        pa.close(); pb.close()
+        tag='coop' if talk else 'solo'
+        p1=mp.Process(target=explorer,args=('A',dirs,AP,BP,talk,30,100+rep,'A_'+tag))
+        p2=mp.Process(target=explorer,args=('B',dirs,BP,AP,talk,30,200+rep,'B_'+tag))
+        t0=time.time(); p1.start(); p2.start(); p1.join(timeout=300); p2.join(timeout=300)
+        A=json.load(open('log_A_%s.json'%tag)); B=json.load(open('log_B_%s.json'%tag))
+        uniq=len(set(A['mine'])|set(B['mine'])); tot=len(A['mine'])+len(B['mine'])
+        ov=len(set(A['mine'])&set(B['mine']))
+        eff=uniq/max(1,tot)
+        print(' rep%d talk=%-5s %.1fs 探索%d/%d 唯一=%d 重复=%d 效率=%.4f'%(rep,talk,time.time()-t0,len(A['mine']),len(B['mine']),uniq,ov,eff))
+        eff=uniq/max(1,tot)
+        res.setdefault('coop' if talk else 'solo',[]).append(dict(uniq=uniq,tot=tot,overlap=ov,eff=eff))
+    json.dump(res,open('res149d.json','w'))
+    print('saved')

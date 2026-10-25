@@ -1,1 +1,273 @@
-IyBHZW5lcmF0ZWQgZnJvbSBDb21meVVJLUhhbmQtVGllLUNsaXBzIChodHRwczovL2dpdGh1Yi5jb20vZG50cGkvQ29tZnlVSS1IYW5kLVRpZS1DbGlwcykgYnkgdG9vbHMvYnVpbGRfdXBzYW1wbGVyX3BhY2sucHkuCiMgRWRpdCBpdCB0aGVyZSwgbm90IGhlcmU6IHRoZSBuZXh0IGJ1aWxkIG92ZXJ3cml0ZXMgdGhpcyBmaWxlLgoiIiJIMyBWaWRlbyBVcHNhbXBsZXIgLS0gYSBmaW5pc2hlZCBjbGlwIGluLCBhIGJpZ2dlciBvbmUgb3V0LCBpbiBvbmUgbm9kZS4KClRoZSBjaGFpbidzIHVwc2FtcGxlciAodGlsZWRfdXBzYW1wbGVyLnVwc2FtcGxlKSBuZWVkcyBhbiBIMyBBViBsYXRlbnQgYW5kIHRoZQpjb25kaXRpb25pbmcgdGhhdCBtYWRlIGl0LCB3aGljaCBvbmx5IGV4aXN0IGluc2lkZSBhIGNoYWluIHJ1bi4gVGhpcyBub2RlCnN0YXJ0cyBmcm9tIHdoYXQgYSBmaW5pc2hlZCBjbGlwIGFjdHVhbGx5IGlzIC0tIGZyYW1lcyBhbmQgYSBzb3VuZHRyYWNrIC0tIGFuZApkb2VzIHRoZSByZXN0IGl0c2VsZjoKCjEuIGZpdHMgdGhlIGZyYW1lcyBvbnRvIHRoZSBIMyBncmlkIChib3RoIGVkZ2VzIHRvIDMyIHB4KSBhbmQgcGFkcyB0aGVtLCBieQogICByZXBlYXRpbmcgdGhlIGxhc3QgZnJhbWUsIHRvIHRoZSBuZXh0IHZhbGlkIEgzIGxlbmd0aCAoMTdnICsgNSk7CjIuIGVuY29kZXMgdGhlbSB3aXRoIHRoZSB2aWRlbyBWQUUsIGFuZCB0aGUgc291bmR0cmFjayB3aXRoIHRoZSBhdWRpbyBWQUUgd2hlbgogICBib3RoIGFyZSB3aXJlZCAob3RoZXJ3aXNlIGEgc2lsZW50IHN0cmVhbTogdGhlIGF1ZGlvIGlzIGZyb3plbiBpbiB0aGUKICAgcmUtZHJhdyBlaXRoZXIgd2F5LCBpdCBvbmx5IGNvbmRpdGlvbnMgaXQpOwozLiBlbmNvZGVzIHRoZSBwcm9tcHQgYXMgUmVmMlZBIGNvbmRpdGlvbmluZyB3aXRoIG5vIHJlZmVyZW5jZXM7CjQuIHJ1bnMgdGhlIHNhbWUgdXBzYW1wbGVyIHRoZSBjaGFpbiBkb2VzIC0tIGxhdGVudCB1cHNjYWxlIHBlciBjaHVuaywgb25lCiAgIGxpZ2h0IHJlLWRyYXcgaW4gdGlsZXMuIEEgTG9SQSB3aG9zZSBoZWFkZXIgbWFrZXMgaXQgYW4gaDN1cHNjYWxlIGd1aWRlCiAgIExvUkEgZ2V0cyBpdHMgZ3VpZGUgaW5zaWRlIHRoYXQgc2FtZSBzdGVwLCBleGFjdGx5IGFzIG9uIHRoZSBjaGFpbiBub2RlOwo1LiBkZWNvZGVzLCB0cmltcyB0aGUgcGFkZGluZyBvZmYsIGFuZCBoYW5kcyBiYWNrIHRoZSBmcmFtZXMgd2l0aCB0aGUKICAgb3JpZ2luYWwgc291bmR0cmFjayB1bnRvdWNoZWQuCgpgdGlsZV90b2tlbnNgIGlzIHRoZSBvbmUgdGhpbmcgdGhlIGNoYWluJ3MgcmVjaXBlIGZpeGVzIHRoYXQgYSBzbWFsbGVyIGNhcmQKbmVlZHMgdG8gbW92ZTogdGhlIGxhcmdlc3Qgc2VxdWVuY2Ugb25lIHRpbGUgZm9yd2FyZCBtYXkgY2FycnkuIExvd2VyIG1lYW5zCm1vcmUsIHNtYWxsZXIgdGlsZXMgLS0gbGVzcyBWUkFNLCBtb3JlIGZvcndhcmRzLCB0aGUgc2FtZSBmZWF0aGVyZWQgbWVyZ2UuCjcwLDAwMCBpcyB0aGUgcmVjaXBlJ3MgdmFsdWUuCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgbWF0aAoKaW1wb3J0IHRvcmNoCgpmcm9tIC4gaW1wb3J0IHRpbGVkX3Vwc2FtcGxlciBhcyBfdHUKZnJvbSAuIGltcG9ydCB1cHNjYWxlX2d1aWRlIGFzIF91ZwoKVEFHID0gIkgzVmlkZW9VcHNhbXBsZXIiCkdSSURfUFggPSAzMiAgICAgICAgICAgICAgICAjIEgzIGNhbnZhc2VzIGFyZSBtdWx0aXBsZXMgb2YgMzIgb24gYm90aCBlZGdlcwpIM19GUFMgPSAyNCAgICAgICAgICAgICAgICAgIyB3aGF0IEgzJ3MgYXVkaW8gZ3JpZCBhc3N1bWVzIHBlciB2aWRlbyBmcmFtZQoKCmRlZiB2YWxpZF9sZW5ndGgobik6CiAgICAiIiJUaGUgc2hvcnRlc3QgSDMgY2xpcCBsZW5ndGggKDE3ZyArIDUpIHRoYXQgaG9sZHMgbiBmcmFtZXMuIiIiCiAgICBuID0gbWF4KDUsIGludChuKSkKICAgIHJldHVybiAxNyAqIG1hdGguY2VpbCgobiAtIDUpIC8gMTcpICsgNQoKCmRlZiBncmlkX3NpemUodywgaCwgZ3JpZD1HUklEX1BYKToKICAgICIiIih3LCBoKSByb3VuZGVkIHRvIHRoZSBuZWFyZXN0IG11bHRpcGxlIG9mIGBncmlkYCwgYXQgbGVhc3Qgb25lIGNlbGwuIiIiCiAgICByZXR1cm4gKG1heChncmlkLCBpbnQocm91bmQodyAvIGdyaWQpKSAqIGdyaWQpLAogICAgICAgICAgICBtYXgoZ3JpZCwgaW50KHJvdW5kKGggLyBncmlkKSkgKiBncmlkKSkKCgpkZWYgZml0X2ZyYW1lcyhpbWFnZXMsIHcsIGgpOgogICAgIiIiW04sIEgsIFcsIDNdIC0+IFtOLCBoLCB3LCAzXSwgbGFuY3pvcywgb25seSB3aGVuIHRoZSBzaXplIGNoYW5nZXMuIiIiCiAgICBpZiBpbnQoaW1hZ2VzLnNoYXBlWzJdKSA9PSB3IGFuZCBpbnQoaW1hZ2VzLnNoYXBlWzFdKSA9PSBoOgogICAgICAgIHJldHVybiBpbWFnZXMKICAgIGltcG9ydCBjb21meS51dGlscwogICAgb3V0ID0gdG9yY2guZW1wdHkoKGludChpbWFnZXMuc2hhcGVbMF0pLCBoLCB3LCAzKSwgZHR5cGU9aW1hZ2VzLmR0eXBlKQogICAgZm9yIHMgaW4gcmFuZ2UoMCwgaW50KGltYWdlcy5zaGFwZVswXSksIDE2KToKICAgICAgICB4ID0gaW1hZ2VzW3M6cyArIDE2LCAuLi4sIDozXS5tb3ZlZGltKC0xLCAxKQogICAgICAgIG91dFtzOnMgKyAxNl0gPSBjb21meS51dGlscy5jb21tb25fdXBzY2FsZSh4LCB3LCBoLCAibGFuY3pvcyIsICJkaXNhYmxlZCIpLm1vdmVkaW0oMSwgLTEpCiAgICByZXR1cm4gb3V0CgoKZGVmIHBhZF9mcmFtZXMoaW1hZ2VzLCBsZW5ndGgpOgogICAgIiIiUmVwZWF0IHRoZSBsYXN0IGZyYW1lIHVwIHRvIGBsZW5ndGhgICh0aGUgVkFFIHBhZHMgYSBzaG9ydCBjbGlwIHRoZSBzYW1lIHdheSkuIiIiCiAgICBuID0gaW50KGltYWdlcy5zaGFwZVswXSkKICAgIGlmIG4gPj0gbGVuZ3RoOgogICAgICAgIHJldHVybiBpbWFnZXNbOmxlbmd0aF0KICAgIHJldHVybiB0b3JjaC5jYXQoW2ltYWdlcywgaW1hZ2VzWy0xOl0uZXhwYW5kKGxlbmd0aCAtIG4sIC0xLCAtMSwgLTEpXSwgZGltPTApCgoKZGVmIGZpdF9hdWRpb19sYXRlbnQoeiwgYXVkaW9fdCk6CiAgICAiIiJBbiBlbmNvZGVkIHNvdW5kdHJhY2sgdHJpbW1lZCBvciB6ZXJvLXBhZGRlZCB0byB0aGUgY2xpcCdzIGF1ZGlvIHN0ZXBzLiIiIgogICAgaGF2ZSA9IGludCh6LnNoYXBlWy0xXSkKICAgIGlmIGhhdmUgPj0gYXVkaW9fdDoKICAgICAgICByZXR1cm4gelsuLi4sIDphdWRpb190XQogICAgcGFkID0gdG9yY2guemVyb3Moei5zaGFwZVs6LTFdICsgKGF1ZGlvX3QgLSBoYXZlLCksIGR0eXBlPXouZHR5cGUsIGRldmljZT16LmRldmljZSkKICAgIHJldHVybiB0b3JjaC5jYXQoW3osIHBhZF0sIGRpbT0tMSkKCgpkZWYgc2lsZW50X2F1ZGlvKG5fZnJhbWVzLCBmcHMsIHNhbXBsZV9yYXRlPTQ0MTAwKToKICAgIHJldHVybiB7IndhdmVmb3JtIjogdG9yY2guemVyb3MoKDEsIDIsIGludChyb3VuZChuX2ZyYW1lcyAvIGZsb2F0KGZwcykgKiBzYW1wbGVfcmF0ZSkpKSksCiAgICAgICAgICAgICJzYW1wbGVfcmF0ZSI6IHNhbXBsZV9yYXRlfQoKCmRlZiBkZWNvZGVfc3RyZWFtZWQoZGVjb2RlLCB2aWQsIG4sIHNsaWNlX3Q9MzAsIHdhcm1fdD01LCB0YWlsX3Q9Mik6CiAgICAiIiJUaGUgZmlyc3QgYG5gIGZyYW1lcyBvZiBgdmlkYCwgZGVjb2RlZCBhcyB1cHNhbXBsZV9jaGFpbiBkZWNvZGVzOiAzMC10b2tlbgogICAgc2xpY2VzLCBlYWNoIG9wZW5lZCBvbiBhIDUtdG9rZW4gKDE3LWZyYW1lKSB3YXJtLXVwIGl0IHRoZW4gZHJvcHMgYW5kIHJlYWQKICAgIDIgdG9rZW5zIHBhc3QgaXRzIGVuZCwgc28gdGhlIGZ1bGwgY2xpcCBpcyBuZXZlciBvbmUgdGVuc29yIGluIFJBTS4iIiIKICAgIHR2ID0gaW50KHZpZC5zaGFwZVsyXSkKICAgIGlmIHR2IDw9IHNsaWNlX3QgKyB3YXJtX3Q6CiAgICAgICAgaW1nID0gZGVjb2RlKHZpZCkuZmxvYXQoKS5jcHUoKQogICAgICAgIHJldHVybiBpbWcucmVzaGFwZSgtMSwgaW1nLnNoYXBlWy0zXSwgaW1nLnNoYXBlWy0yXSwgaW1nLnNoYXBlWy0xXSlbOm5dCiAgICBvdXQsIGF0ID0gTm9uZSwgMAogICAgZm9yIGswIGluIHJhbmdlKDAsIHR2LCBzbGljZV90KToKICAgICAgICBrMSA9IG1pbih0diwgazAgKyBzbGljZV90KQogICAgICAgIGEgPSBtYXgoMCwgazAgLSB3YXJtX3QpCiAgICAgICAgYiA9IG1pbih0diwgazEgKyB0YWlsX3QpCiAgICAgICAgcGFydCA9IGRlY29kZSh2aWRbOiwgOiwgYTpiXS5jb250aWd1b3VzKCkpLmZsb2F0KCkuY3B1KCkKICAgICAgICBwYXJ0ID0gcGFydC5yZXNoYXBlKC0xLCBwYXJ0LnNoYXBlWy0zXSwgcGFydC5zaGFwZVstMl0sIHBhcnQuc2hhcGVbLTFdKQogICAgICAgIGhlYWQgPSBfdHUuZnJhbWVzX2luKGswKSAtIF90dS5mcmFtZXNfaW4oYSkKICAgICAgICBrZWVwID0gbWluKF90dS5mcmFtZXNfaW4oazEpIC0gX3R1LmZyYW1lc19pbihrMCksIG4gLSBhdCkKICAgICAgICBpZiBrZWVwIDw9IDA6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgaWYgb3V0IGlzIE5vbmU6CiAgICAgICAgICAgIG91dCA9IHRvcmNoLmVtcHR5KChuLCBpbnQocGFydC5zaGFwZVsxXSksIGludChwYXJ0LnNoYXBlWzJdKSwgMyksIGR0eXBlPXRvcmNoLmZsb2F0MzIpCiAgICAgICAgb3V0W2F0OmF0ICsga2VlcF0gPSBwYXJ0W2hlYWQ6aGVhZCArIGtlZXBdCiAgICAgICAgYXQgKz0ga2VlcAogICAgICAgIGRlbCBwYXJ0CiAgICByZXR1cm4gb3V0WzphdF0KCgpjbGFzcyBIVENWaWRlb1Vwc2FtcGxlcjoKICAgICIiIkEgZmluaXNoZWQgSDMgKG9yIGFueSkgY2xpcCB1cHNhbXBsZWQgd2l0aCB0aGUgY2hhaW4ncyB1cHNhbXBsZXIuIiIiCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgSU5QVVRfVFlQRVMoY2xzKToKICAgICAgICBpbXBvcnQgY29tZnkuc2FtcGxlcnMKICAgICAgICBpbXBvcnQgZm9sZGVyX3BhdGhzCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgInJlcXVpcmVkIjogewogICAgICAgICAgICAgICAgIm1vZGVsIjogKCJNT0RFTCIsIHsidG9vbHRpcCI6ICgKICAgICAgICAgICAgICAgICAgICAiVGhlIEgzIG1vZGVsIGZvciB0aGUgcmUtZHJhdy4gV2l0aCBhbiBoM3Vwc2NhbGUgTG9SQSwgd2lyZSB0aGUgcGxhaW4gIgogICAgICAgICAgICAgICAgICAgICJVTkVUTG9hZGVyIG91dHB1dDogdGhlIExvUkEgd2FzIHRyYWluZWQgb24gdGhlIGJhcmUgRGlULiIpfSksCiAgICAgICAgICAgICAgICAiY2xpcCI6ICgiQ0xJUCIsIHsidG9vbHRpcCI6ICJUaGUgSDMgdGV4dCBlbmNvZGVyLCBmb3IgdGhlIHByb21wdC4ifSksCiAgICAgICAgICAgICAgICAidmFlIjogKCJWQUUiLCB7InRvb2x0aXAiOiAiVGhlIEgzIHZpZGVvIFZBRS4ifSksCiAgICAgICAgICAgICAgICAiaW1hZ2VzIjogKCJJTUFHRSIsIHsidG9vbHRpcCI6ICgKICAgICAgICAgICAgICAgICAgICAiVGhlIGNsaXAncyBmcmFtZXMgKEdldCBWaWRlbyBDb21wb25lbnRzKS4gQW55IHNpemU7IGZpdHRlZCB0byBhICIKICAgICAgICAgICAgICAgICAgICAibXVsdGlwbGUgb2YgMzIgcHguIil9KSwKICAgICAgICAgICAgICAgICJwcm9tcHQiOiAoIlNUUklORyIsIHsKICAgICAgICAgICAgICAgICAgICAiZGVmYXVsdCI6IF91Zy5DQVBUSU9OLCAibXVsdGlsaW5lIjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAidG9vbHRpcCI6ICgiV2hhdCB0aGUgcmUtZHJhdyBmb2xsb3dzLiBUaGUgZGVmYXVsdCBpcyB0aGUgY2FwdGlvbiB0aGUgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJoM3Vwc2NhbGUgTG9SQSB3YXMgdHJhaW5lZCBvbjsga2VlcCBpdCB3aXRoIHRoYXQgTG9SQS4iKX0pLAogICAgICAgICAgICAgICAgInVwc2NhbGVfbW9kZWwiOiAoX3R1LmNob2ljZXMoKSwgewogICAgICAgICAgICAgICAgICAgICJ0b29sdGlwIjogZiJGcm9tIG1vZGVscy97X3R1LkZPTERFUn0uIFRoZSByZWNpcGUgdXNlcyB7X3R1LlVQU0NBTEVSX0ZJTEV9LiJ9KSwKICAgICAgICAgICAgICAgICJtZWdhcGl4ZWxzIjogKCJGTE9BVCIsIHsKICAgICAgICAgICAgICAgICAgICAiZGVmYXVsdCI6IF90dS5NRUdBUElYRUxTLCAibWluIjogMC4xLCAibWF4IjogMTYuMCwgInN0ZXAiOiAwLjA1LAogICAgICAgICAgICAgICAgICAgICJ0b29sdGlwIjogIk91dHB1dCBzaXplIGFzIGFyZWEsIGFzcGVjdCBrZXB0ICgxIE1QID0gMTAyNCB4IDEwMjQpLiJ9KSwKICAgICAgICAgICAgICAgICJkZW5vaXNlIjogKCJGTE9BVCIsIHsKICAgICAgICAgICAgICAgICAgICAiZGVmYXVsdCI6IDAuMSwgIm1pbiI6IDAuMCwgIm1heCI6IDEuMCwgInN0ZXAiOiAwLjAwNSwKICAgICAgICAgICAgICAgICAgICAidG9vbHRpcCI6ICgiRnJhY3Rpb24gb2YgdGhlIHNjaGVkdWxlIHRoZSB0d28gcmUtZHJhdyBzdGVwcyBjb3ZlciwgYXMgdGhlICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY2hhaW4ncyB1cHNhbXBsZV9kZW5vaXNlLiAwLjEgaXMgdGhlIHNldHRpbmcgdGhhdCBoZWxkOyAwIG9ubHkgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJlbmxhcmdlcy4iKX0pLAogICAgICAgICAgICAgICAgImxvcmEiOiAoWyJOb25lIl0gKyBmb2xkZXJfcGF0aHMuZ2V0X2ZpbGVuYW1lX2xpc3QoImxvcmFzIiksIHsKICAgICAgICAgICAgICAgICAgICAiZGVmYXVsdCI6ICJOb25lIiwKICAgICAgICAgICAgICAgICAgICAidG9vbHRpcCI6ICgiQSBMb1JBIG9uIHRoZSByZS1kcmF3LiBBbiBoM3Vwc2NhbGUgTG9SQSAocmVhZCBvZmYgaXRzIGhlYWRlcikgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhbHNvIGdldHMgaXRzIGd1aWRlOiB0aGUgY2xpcCBhdCBoYWxmIHRoZSBvdXRwdXQgc2l6ZSwgc28gdGhlICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicmUtZHJhdyByZXN0b3JlcyB0aGUgY2xpcCdzIG93biBkZXRhaWwgaW5zdGVhZCBvZiBpbnZlbnRpbmcgaXQuIil9KSwKICAgICAgICAgICAgICAgICJsb3JhX3N0cmVuZ3RoIjogKCJGTE9BVCIsIHsiZGVmYXVsdCI6IDEuMCwgIm1pbiI6IC00LjAsICJtYXgiOiA0LjAsICJzdGVwIjogMC4wNX0pLAogICAgICAgICAgICAgICAgInRpbGVfdG9rZW5zIjogKCJJTlQiLCB7CiAgICAgICAgICAgICAgICAgICAgImRlZmF1bHQiOiBfdHUuVE9LRU5fQlVER0VULCAibWluIjogODE5MiwgIm1heCI6IDEwNDg1NzYsICJzdGVwIjogMTAyNCwKICAgICAgICAgICAgICAgICAgICAidG9vbHRpcCI6ICgiTGFyZ2VzdCBzZXF1ZW5jZSBvbmUgdGlsZSBmb3J3YXJkIG1heSBjYXJyeS4gTG93ZXIgPSBtb3JlLCAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInNtYWxsZXIgdGlsZXM6IGxlc3MgVlJBTSwgc2xvd2VyLiAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiJ7X3R1LlRPS0VOX0JVREdFVH0gaXMgdGhlIHJlY2lwZSdzIHZhbHVlLiIpfSksCiAgICAgICAgICAgICAgICAic2FtcGxlcl9uYW1lIjogKGNvbWZ5LnNhbXBsZXJzLktTYW1wbGVyLlNBTVBMRVJTLCB7ImRlZmF1bHQiOiAiZXVsZXIifSksCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJvcHRpb25hbCI6IHsKICAgICAgICAgICAgICAgICJhdWRpbyI6ICgiQVVESU8iLCB7InRvb2x0aXAiOiAiVGhlIGNsaXAncyBzb3VuZHRyYWNrLiBQYXNzZWQgdGhyb3VnaCB1bnRvdWNoZWQuIn0pLAogICAgICAgICAgICAgICAgImF1ZGlvX3ZhZSI6ICgiVkFFIiwgeyJ0b29sdGlwIjogKAogICAgICAgICAgICAgICAgICAgICJUaGUgSDMgYXVkaW8gVkFFLiBXaXRoIGl0LCB0aGUgcmUtZHJhdyBpcyBjb25kaXRpb25lZCBvbiB0aGUgcmVhbCAiCiAgICAgICAgICAgICAgICAgICAgInNvdW5kdHJhY2sgKGJlc3QgYXQgMjQgZnBzKTsgd2l0aG91dCBpdCwgb24gc2lsZW5jZS4iKX0pLAogICAgICAgICAgICB9LAogICAgICAgIH0KCiAgICBSRVRVUk5fVFlQRVMgPSAoIklNQUdFIiwgIkFVRElPIiwgIlNUUklORyIpCiAgICBSRVRVUk5fTkFNRVMgPSAoImltYWdlcyIsICJhdWRpbyIsICJyZXBvcnQiKQogICAgRlVOQ1RJT04gPSAicnVuIgogICAgQ0FURUdPUlkgPSAidmlkZW8vdXBzY2FsZSIKICAgIERFU0NSSVBUSU9OID0gKAogICAgICAgICJVcHNhbXBsZXMgYSBmaW5pc2hlZCBjbGlwIHdpdGggdGhlIGNoYWluJ3MgdXBzYW1wbGVyOiBIMyBsYXRlbnQgdXBzY2FsZSwgdGhlbiBhICIKICAgICAgICAibGlnaHQgdHdvLXN0ZXAgcmUtZHJhdyBpbiB0aWxlcy4gQW4gaDN1cHNjYWxlIExvUkEgZ2V0cyBpdHMgZ3VpZGUgaW4gdGhvc2Ugc3RlcHMuICIKICAgICAgICAidGlsZV90b2tlbnMgbGV0cyBhIHNtYWxsZXIgY2FyZCBjdXQgbW9yZSB0aWxlcy4iKQoKICAgIGRlZiBydW4oc2VsZiwgbW9kZWwsIGNsaXAsIHZhZSwgaW1hZ2VzLCBwcm9tcHQsIHVwc2NhbGVfbW9kZWwsIG1lZ2FwaXhlbHMsIGRlbm9pc2UsCiAgICAgICAgICAgIGxvcmEsIGxvcmFfc3RyZW5ndGgsIHRpbGVfdG9rZW5zLCBzYW1wbGVyX25hbWUsIGF1ZGlvPU5vbmUsIGF1ZGlvX3ZhZT1Ob25lKToKICAgICAgICBpbXBvcnQgY29tZnkubmVzdGVkX3RlbnNvciBhcyBudAogICAgICAgIGltcG9ydCBjb21meS5zYW1wbGVycwogICAgICAgIGltcG9ydCBmb2xkZXJfcGF0aHMKICAgICAgICBpbXBvcnQgbm9kZXMKICAgICAgICBmcm9tIGNvbWZ5X2V4dHJhcy5ub2Rlc19taW5pbWF4X2gzIGltcG9ydCBNaW5pTWF4SDNSZWZlcmVuY2VUb1ZpZGVvLCB0ZW1wb3JhbF9zaGFwZQoKICAgICAgICBfdHUucmVnaXN0ZXJfZm9sZGVyKCkKICAgICAgICBuID0gaW50KGltYWdlcy5zaGFwZVswXSkKICAgICAgICBpZiBuIDwgMToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIntUQUd9OiBubyBmcmFtZXMiKQogICAgICAgIHcsIGggPSBncmlkX3NpemUoaW50KGltYWdlcy5zaGFwZVsyXSksIGludChpbWFnZXMuc2hhcGVbMV0pKQogICAgICAgIGxlbmd0aCA9IHZhbGlkX2xlbmd0aChuKQogICAgICAgIF8sIGxhdGVudF90LCBhdWRpb190ID0gdGVtcG9yYWxfc2hhcGUobGVuZ3RoKQoKICAgICAgICBmcmFtZXMgPSBwYWRfZnJhbWVzKGZpdF9mcmFtZXMoaW1hZ2VzLCB3LCBoKSwgbGVuZ3RoKQogICAgICAgIHZpZGVvID0gdmFlLmVuY29kZShmcmFtZXNbLi4uLCA6M10pCiAgICAgICAgaWYgaW50KHZpZGVvLnNoYXBlWzJdKSAhPSBsYXRlbnRfdDoKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGYie1RBR306IHtsZW5ndGh9IGZyYW1lcyBlbmNvZGVkIHRvIHtpbnQodmlkZW8uc2hhcGVbMl0pfSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmImxhdGVudCBzdGVwcywgZXhwZWN0ZWQge2xhdGVudF90fSIpCiAgICAgICAgZGVsIGZyYW1lcwogICAgICAgIGlmIGF1ZGlvIGlzIG5vdCBOb25lIGFuZCBhdWRpb192YWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGltcG9ydCBjb21meS5hdWRpbwogICAgICAgICAgICB3YXYgPSBhdWRpb1sid2F2ZWZvcm0iXQogICAgICAgICAgICB2c3IgPSBnZXRhdHRyKGF1ZGlvX3ZhZSwgImF1ZGlvX3NhbXBsZV9yYXRlIiwgNDQxMDApCiAgICAgICAgICAgIGlmIGludChhdWRpb1sic2FtcGxlX3JhdGUiXSkgIT0gdnNyOgogICAgICAgICAgICAgICAgd2F2ID0gY29tZnkuYXVkaW8ucmVzYW1wbGUod2F2LCBpbnQoYXVkaW9bInNhbXBsZV9yYXRlIl0pLCB2c3IpCiAgICAgICAgICAgIGFfbGF0ID0gZml0X2F1ZGlvX2xhdGVudChhdWRpb192YWUuZW5jb2RlKHdhdls6MV0ubW92ZWRpbSgxLCAtMSkpLCBhdWRpb190KQogICAgICAgICAgICBhdWRpb19ub3RlID0gImNvbmRpdGlvbmVkIG9uIHRoZSBzb3VuZHRyYWNrIgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGFfbGF0ID0gdG9yY2guemVyb3MoKDEsIDMyLCAyLCBhdWRpb190KSwgZHR5cGU9dmlkZW8uZHR5cGUpCiAgICAgICAgICAgIGF1ZGlvX25vdGUgPSAiY29uZGl0aW9uZWQgb24gc2lsZW5jZSAobm8gYXVkaW9fdmFlICsgYXVkaW8pIgogICAgICAgIGxhdGVudCA9IHsic2FtcGxlcyI6IG50Lk5lc3RlZFRlbnNvcigodmlkZW8sIGFfbGF0LnRvKHZpZGVvLmRldmljZSwgdmlkZW8uZHR5cGUpKSl9CgogICAgICAgIGdvdCA9IE1pbmlNYXhIM1JlZmVyZW5jZVRvVmlkZW8uZXhlY3V0ZSgKICAgICAgICAgICAgY2xpcD1jbGlwLCBwcm9tcHQ9c3RyKHByb21wdCksIHdpZHRoPXcsIGhlaWdodD1oLCBsZW5ndGg9bGVuZ3RoLAogICAgICAgICAgICByZWZfaW1hZ2Vfc2l6ZT0ibWF0Y2giKQogICAgICAgIGNvbmQgPSAoZ290LmFyZ3MgaWYgaGFzYXR0cihnb3QsICJhcmdzIikgZWxzZSB0dXBsZShnb3QpKVswXQogICAgICAgIHRyeToKICAgICAgICAgICAgaW1wb3J0IGNvbWZ5Lm1vZGVsX21hbmFnZW1lbnQgYXMgX21tCiAgICAgICAgICAgIGlmIGhhc2F0dHIoY2xpcCwgInBhdGNoZXIiKSBhbmQgaGFzYXR0cihjbGlwLnBhdGNoZXIsICJtb2RlbCIpOgogICAgICAgICAgICAgICAgY2xpcC5wYXRjaGVyLm1vZGVsLnRvKF9tbS50ZXh0X2VuY29kZXJfb2ZmbG9hZF9kZXZpY2UoKSkKICAgICAgICAgICAgICAgIF9tbS5zb2Z0X2VtcHR5X2NhY2hlKCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBwYXNzCgogICAgICAgIGZhY3RvciwgZ3VpZGUgPSAwLCBOb25lCiAgICAgICAgaWYgc3RyKGxvcmEpICE9ICJOb25lIiBhbmQgZmxvYXQobG9yYV9zdHJlbmd0aCkgIT0gMC4wOgogICAgICAgICAgICBwYXRoID0gZm9sZGVyX3BhdGhzLmdldF9mdWxsX3BhdGhfb3JfcmFpc2UoImxvcmFzIiwgc3RyKGxvcmEpKQogICAgICAgICAgICBmYWN0b3IgPSBfdWcubG9yYV9mYWN0b3IocGF0aCkKICAgICAgICAgICAgbW9kZWwgPSBub2Rlcy5Mb3JhTG9hZGVyTW9kZWxPbmx5KCkubG9hZF9sb3JhX21vZGVsX29ubHkoCiAgICAgICAgICAgICAgICBtb2RlbCwgc3RyKGxvcmEpLCBmbG9hdChsb3JhX3N0cmVuZ3RoKSlbMF0KICAgICAgICAjIEFzIHVwc2FtcGxlX2NoYWluOiBwb3J0IGRlbnNlIExvUkEgQWRhTE4gcGF0Y2hlcyAocHJ1bmVkIERpVHMpLgogICAgICAgIGZpeCA9IGdldGF0dHIobm9kZXMsICJOT0RFX0NMQVNTX01BUFBJTkdTIiwge30pLmdldCgiSDNBZGFMTkxvUkFGaXgiKQogICAgICAgIGlmIGZpeCBpcyBub3QgTm9uZSBhbmQgaGFzYXR0cihtb2RlbCwgInBhdGNoZXMiKToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcmVzID0gZml4LmV4ZWN1dGUobW9kZWw9bW9kZWwsIG1vZGU9InBvcnQiKQogICAgICAgICAgICAgICAgbW9kZWwgPSAocmVzLmFyZ3MgaWYgaGFzYXR0cihyZXMsICJhcmdzIikgZWxzZSB0dXBsZShyZXMpKVswXQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgcGFzcwogICAgICAgIGlmIGZhY3RvciBhbmQgZmxvYXQoZGVub2lzZSkgPiAwLjA6CiAgICAgICAgICAgIF91Zy5pbnN0YWxsKCkKCiAgICAgICAgICAgIGRlZiBkZWNvZGUodik6CiAgICAgICAgICAgICAgICBpbWcgPSB2YWUuZGVjb2RlKHYpCiAgICAgICAgICAgICAgICByZXR1cm4gaW1nLnJlc2hhcGUoLTEsIGltZy5zaGFwZVstM10sIGltZy5zaGFwZVstMl0sIGltZy5zaGFwZVstMV0pCiAgICAgICAgICAgIGd1aWRlID0gX3R1Lkd1aWRlKGZhY3Rvcj1mYWN0b3IsIGNvbmQ9Y29uZCwgZGVjb2RlPWRlY29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5jb2RlPXZhZS5lbmNvZGUsIHBpeGVscz1fdWcuZ3VpZGVfcGl4ZWxzKQoKICAgICAgICBzYW1wbGVyID0gY29tZnkuc2FtcGxlcnMuc2FtcGxlcl9vYmplY3Qoc3RyKHNhbXBsZXJfbmFtZSkpCiAgICAgICAgcHJpbnQoZiJbe1RBR31dIHtufSBmcmFtZXMgYXQge2ludChpbWFnZXMuc2hhcGVbMl0pfXh7aW50KGltYWdlcy5zaGFwZVsxXSl9IC0+IEgzICIKICAgICAgICAgICAgICBmImNhbnZhcyB7d314e2h9LCB7bGVuZ3RofSBmcmFtZXMgKHtsYXRlbnRfdH0gbGF0ZW50IHN0ZXBzKSwge2F1ZGlvX25vdGV9OyAiCiAgICAgICAgICAgICAgZiJ0aWxlIGJ1ZGdldCB7aW50KHRpbGVfdG9rZW5zKX0gdG9rZW5zIgogICAgICAgICAgICAgICsgKGYiOyBndWlkZWQgYnkge2xvcmF9IChmYWN0b3Ige2ZhY3Rvcn0pIiBpZiBndWlkZSBpcyBub3QgTm9uZSBlbHNlCiAgICAgICAgICAgICAgICAgZiI7IHJlLWRyYXcgTG9SQSB7bG9yYX0iIGlmIHN0cihsb3JhKSAhPSAiTm9uZSIgZWxzZSAiIiksIGZsdXNoPVRydWUpCiAgICAgICAgIyBUaGUgY2hhaW4ncyByZS1kcmF3LCBleGFjdGx5IGFzIHVwc2FtcGxlX2NoYWluIGNhbGxzIGl0LgogICAgICAgIHN0ZXBzID0gMiBpZiBmbG9hdChkZW5vaXNlKSA+IDAuMCBlbHNlIF90dS5TVEVQUwogICAgICAgIG91dCA9IF90dS51cHNhbXBsZShtb2RlbCwgY29uZCwgbGF0ZW50LCBzYW1wbGVyLCBzdHIodXBzY2FsZV9tb2RlbCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsb2F0KG1lZ2FwaXhlbHMpLCBmbG9hdChkZW5vaXNlKSwgZ3VpZGU9Z3VpZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZGdldD1pbnQodGlsZV90b2tlbnMpLCBzdGVwcz1zdGVwcywgc3RhcnRfc2lnbWE9MC4wLAogICAgICAgICAgICAgICAgICAgICAgICAgICBvdmVybGFwX3B4PTE5MiwgZGV0YWlsX3NpZ21hPTAuMCkKICAgICAgICBfdHUuX2ZyZWUobW9kZWwpCiAgICAgICAgaWYgX3R1Ll9kZXZpY2UoKS50eXBlID09ICJjdWRhIjoKICAgICAgICAgICAgX3R1Ll9mcmVlX2FsbF9ncHUoKQogICAgICAgIGltZyA9IGRlY29kZV9zdHJlYW1lZCh2YWUuZGVjb2RlLCBvdXRbInNhbXBsZXMiXS50ZW5zb3JzWzBdLCBuKQogICAgICAgIGRlbCBvdXQKICAgICAgICByZXBvcnQgPSAoZiJ7bn0gZnJhbWVzIHtpbnQoaW1hZ2VzLnNoYXBlWzJdKX14e2ludChpbWFnZXMuc2hhcGVbMV0pfSAtPiAiCiAgICAgICAgICAgICAgICAgIGYie2ludChpbWcuc2hhcGVbMl0pfXh7aW50KGltZy5zaGFwZVsxXSl9IgogICAgICAgICAgICAgICAgICArIChmIiwgZ3VpZGVkICh7bG9yYX0pIiBpZiBndWlkZSBpcyBub3QgTm9uZSBlbHNlICIiKQogICAgICAgICAgICAgICAgICArIGYiLCB7c3RlcHN9IHN0ZXAocykgYXQgZGVub2lzZSB7ZmxvYXQoZGVub2lzZSk6Z30iCiAgICAgICAgICAgICAgICAgICsgZiIsIHRpbGUgYnVkZ2V0IHtpbnQodGlsZV90b2tlbnMpfSwgb3ZlcmxhcCAxOTJweCIpCiAgICAgICAgcHJpbnQoZiJbe1RBR31dIHtyZXBvcnR9IiwgZmx1c2g9VHJ1ZSkKICAgICAgICByZXR1cm4gKGltZy5mbG9hdCgpLmNwdSgpLCBhdWRpbyBpZiBhdWRpbyBpcyBub3QgTm9uZSBlbHNlIHNpbGVudF9hdWRpbyhuLCBIM19GUFMpLAogICAgICAgICAgICAgICAgcmVwb3J0KQoKCk5PREVfQ0xBU1NfTUFQUElOR1MgPSB7IkgzVmlkZW9VcHNhbXBsZXIiOiBIVENWaWRlb1Vwc2FtcGxlcn0KTk9ERV9ESVNQTEFZX05BTUVfTUFQUElOR1MgPSB7IkgzVmlkZW9VcHNhbXBsZXIiOiAiSDMgVmlkZW8gVXBzYW1wbGVyIn0K
+# Generated from ComfyUI-Hand-Tie-Clips (https://github.com/dntpi/ComfyUI-Hand-Tie-Clips) by tools/build_upsampler_pack.py.
+# Edit it there, not here: the next build overwrites this file.
+"""H3 Video Upsampler -- a finished clip in, a bigger one out, in one node.
+
+The chain's upsampler (tiled_upsampler.upsample) needs an H3 AV latent and the
+conditioning that made it, which only exist inside a chain run. This node
+starts from what a finished clip actually is -- frames and a soundtrack -- and
+does the rest itself:
+
+1. fits the frames onto the H3 grid (both edges to 32 px) and pads them, by
+   repeating the last frame, to the next valid H3 length (17g + 5);
+2. encodes them with the video VAE, and the soundtrack with the audio VAE when
+   both are wired (otherwise a silent stream: the audio is frozen in the
+   re-draw either way, it only conditions it);
+3. encodes the prompt as Ref2VA conditioning with no references;
+4. runs the same upsampler the chain does -- latent upscale per chunk, one
+   light re-draw in tiles. A LoRA whose header makes it an h3upscale guide
+   LoRA gets its guide inside that same step, exactly as on the chain node;
+5. decodes, trims the padding off, and hands back the frames with the
+   original soundtrack untouched.
+
+`tile_tokens` is the one thing the chain's recipe fixes that a smaller card
+needs to move: the largest sequence one tile forward may carry. Lower means
+more, smaller tiles -- less VRAM, more forwards, the same feathered merge.
+70,000 is the recipe's value.
+"""
+from __future__ import annotations
+
+import math
+
+import torch
+
+from . import tiled_upsampler as _tu
+from . import upscale_guide as _ug
+
+TAG = "H3VideoUpsampler"
+GRID_PX = 32                # H3 canvases are multiples of 32 on both edges
+H3_FPS = 24                 # what H3's audio grid assumes per video frame
+
+
+def valid_length(n):
+    """The shortest H3 clip length (17g + 5) that holds n frames."""
+    n = max(5, int(n))
+    return 17 * math.ceil((n - 5) / 17) + 5
+
+
+def grid_size(w, h, grid=GRID_PX):
+    """(w, h) rounded to the nearest multiple of `grid`, at least one cell."""
+    return (max(grid, int(round(w / grid)) * grid),
+            max(grid, int(round(h / grid)) * grid))
+
+
+def fit_frames(images, w, h):
+    """[N, H, W, 3] -> [N, h, w, 3], lanczos, only when the size changes."""
+    if int(images.shape[2]) == w and int(images.shape[1]) == h:
+        return images
+    import comfy.utils
+    out = torch.empty((int(images.shape[0]), h, w, 3), dtype=images.dtype)
+    for s in range(0, int(images.shape[0]), 16):
+        x = images[s:s + 16, ..., :3].movedim(-1, 1)
+        out[s:s + 16] = comfy.utils.common_upscale(x, w, h, "lanczos", "disabled").movedim(1, -1)
+    return out
+
+
+def pad_frames(images, length):
+    """Repeat the last frame up to `length` (the VAE pads a short clip the same way)."""
+    n = int(images.shape[0])
+    if n >= length:
+        return images[:length]
+    return torch.cat([images, images[-1:].expand(length - n, -1, -1, -1)], dim=0)
+
+
+def fit_audio_latent(z, audio_t):
+    """An encoded soundtrack trimmed or zero-padded to the clip's audio steps."""
+    have = int(z.shape[-1])
+    if have >= audio_t:
+        return z[..., :audio_t]
+    pad = torch.zeros(z.shape[:-1] + (audio_t - have,), dtype=z.dtype, device=z.device)
+    return torch.cat([z, pad], dim=-1)
+
+
+def silent_audio(n_frames, fps, sample_rate=44100):
+    return {"waveform": torch.zeros((1, 2, int(round(n_frames / float(fps) * sample_rate)))),
+            "sample_rate": sample_rate}
+
+
+def decode_streamed(decode, vid, n, slice_t=30, warm_t=5, tail_t=2):
+    """The first `n` frames of `vid`, decoded as upsample_chain decodes: 30-token
+    slices, each opened on a 5-token (17-frame) warm-up it then drops and read
+    2 tokens past its end, so the full clip is never one tensor in RAM."""
+    tv = int(vid.shape[2])
+    if tv <= slice_t + warm_t:
+        img = decode(vid).float().cpu()
+        return img.reshape(-1, img.shape[-3], img.shape[-2], img.shape[-1])[:n]
+    out, at = None, 0
+    for k0 in range(0, tv, slice_t):
+        k1 = min(tv, k0 + slice_t)
+        a = max(0, k0 - warm_t)
+        b = min(tv, k1 + tail_t)
+        part = decode(vid[:, :, a:b].contiguous()).float().cpu()
+        part = part.reshape(-1, part.shape[-3], part.shape[-2], part.shape[-1])
+        head = _tu.frames_in(k0) - _tu.frames_in(a)
+        keep = min(_tu.frames_in(k1) - _tu.frames_in(k0), n - at)
+        if keep <= 0:
+            break
+        if out is None:
+            out = torch.empty((n, int(part.shape[1]), int(part.shape[2]), 3), dtype=torch.float32)
+        out[at:at + keep] = part[head:head + keep]
+        at += keep
+        del part
+    return out[:at]
+
+
+class HTCVideoUpsampler:
+    """A finished H3 (or any) clip upsampled with the chain's upsampler."""
+
+    @classmethod
+    def INPUT_TYPES(cls):
+        import comfy.samplers
+        import folder_paths
+        return {
+            "required": {
+                "model": ("MODEL", {"tooltip": (
+                    "The H3 model for the re-draw. With an h3upscale LoRA, wire the plain "
+                    "UNETLoader output: the LoRA was trained on the bare DiT.")}),
+                "clip": ("CLIP", {"tooltip": "The H3 text encoder, for the prompt."}),
+                "vae": ("VAE", {"tooltip": "The H3 video VAE."}),
+                "images": ("IMAGE", {"tooltip": (
+                    "The clip's frames (Get Video Components). Any size; fitted to a "
+                    "multiple of 32 px.")}),
+                "prompt": ("STRING", {
+                    "default": _ug.CAPTION, "multiline": True,
+                    "tooltip": ("What the re-draw follows. The default is the caption the "
+                                "h3upscale LoRA was trained on; keep it with that LoRA.")}),
+                "upscale_model": (_tu.choices(), {
+                    "tooltip": f"From models/{_tu.FOLDER}. The recipe uses {_tu.UPSCALER_FILE}."}),
+                "megapixels": ("FLOAT", {
+                    "default": _tu.MEGAPIXELS, "min": 0.1, "max": 16.0, "step": 0.05,
+                    "tooltip": "Output size as area, aspect kept (1 MP = 1024 x 1024)."}),
+                "denoise": ("FLOAT", {
+                    "default": 0.1, "min": 0.0, "max": 1.0, "step": 0.005,
+                    "tooltip": ("Fraction of the schedule the two re-draw steps cover, as the "
+                                "chain's upsample_denoise. 0.1 is the setting that held; 0 only "
+                                "enlarges.")}),
+                "lora": (["None"] + folder_paths.get_filename_list("loras"), {
+                    "default": "None",
+                    "tooltip": ("A LoRA on the re-draw. An h3upscale LoRA (read off its header) "
+                                "also gets its guide: the clip at half the output size, so the "
+                                "re-draw restores the clip's own detail instead of inventing it.")}),
+                "lora_strength": ("FLOAT", {"default": 1.0, "min": -4.0, "max": 4.0, "step": 0.05}),
+                "tile_tokens": ("INT", {
+                    "default": _tu.TOKEN_BUDGET, "min": 8192, "max": 1048576, "step": 1024,
+                    "tooltip": ("Largest sequence one tile forward may carry. Lower = more, "
+                                "smaller tiles: less VRAM, slower. "
+                                f"{_tu.TOKEN_BUDGET} is the recipe's value.")}),
+                "sampler_name": (comfy.samplers.KSampler.SAMPLERS, {"default": "euler"}),
+            },
+            "optional": {
+                "audio": ("AUDIO", {"tooltip": "The clip's soundtrack. Passed through untouched."}),
+                "audio_vae": ("VAE", {"tooltip": (
+                    "The H3 audio VAE. With it, the re-draw is conditioned on the real "
+                    "soundtrack (best at 24 fps); without it, on silence.")}),
+            },
+        }
+
+    RETURN_TYPES = ("IMAGE", "AUDIO", "STRING")
+    RETURN_NAMES = ("images", "audio", "report")
+    FUNCTION = "run"
+    CATEGORY = "video/upscale"
+    DESCRIPTION = (
+        "Upsamples a finished clip with the chain's upsampler: H3 latent upscale, then a "
+        "light two-step re-draw in tiles. An h3upscale LoRA gets its guide in those steps. "
+        "tile_tokens lets a smaller card cut more tiles.")
+
+    def run(self, model, clip, vae, images, prompt, upscale_model, megapixels, denoise,
+            lora, lora_strength, tile_tokens, sampler_name, audio=None, audio_vae=None):
+        import comfy.nested_tensor as nt
+        import comfy.samplers
+        import folder_paths
+        import nodes
+        from comfy_extras.nodes_minimax_h3 import MiniMaxH3ReferenceToVideo, temporal_shape
+
+        _tu.register_folder()
+        n = int(images.shape[0])
+        if n < 1:
+            raise ValueError(f"{TAG}: no frames")
+        w, h = grid_size(int(images.shape[2]), int(images.shape[1]))
+        length = valid_length(n)
+        _, latent_t, audio_t = temporal_shape(length)
+
+        frames = pad_frames(fit_frames(images, w, h), length)
+        video = vae.encode(frames[..., :3])
+        if int(video.shape[2]) != latent_t:
+            raise RuntimeError(f"{TAG}: {length} frames encoded to {int(video.shape[2])} "
+                               f"latent steps, expected {latent_t}")
+        del frames
+        if audio is not None and audio_vae is not None:
+            import comfy.audio
+            wav = audio["waveform"]
+            vsr = getattr(audio_vae, "audio_sample_rate", 44100)
+            if int(audio["sample_rate"]) != vsr:
+                wav = comfy.audio.resample(wav, int(audio["sample_rate"]), vsr)
+            a_lat = fit_audio_latent(audio_vae.encode(wav[:1].movedim(1, -1)), audio_t)
+            audio_note = "conditioned on the soundtrack"
+        else:
+            a_lat = torch.zeros((1, 32, 2, audio_t), dtype=video.dtype)
+            audio_note = "conditioned on silence (no audio_vae + audio)"
+        latent = {"samples": nt.NestedTensor((video, a_lat.to(video.device, video.dtype)))}
+
+        got = MiniMaxH3ReferenceToVideo.execute(
+            clip=clip, prompt=str(prompt), width=w, height=h, length=length,
+            ref_image_size="match")
+        cond = (got.args if hasattr(got, "args") else tuple(got))[0]
+        try:
+            import comfy.model_management as _mm
+            if hasattr(clip, "patcher") and hasattr(clip.patcher, "model"):
+                clip.patcher.model.to(_mm.text_encoder_offload_device())
+                _mm.soft_empty_cache()
+        except Exception:
+            pass
+
+        factor, guide = 0, None
+        if str(lora) != "None" and float(lora_strength) != 0.0:
+            path = folder_paths.get_full_path_or_raise("loras", str(lora))
+            factor = _ug.lora_factor(path)
+            model = nodes.LoraLoaderModelOnly().load_lora_model_only(
+                model, str(lora), float(lora_strength))[0]
+        # As upsample_chain: port dense LoRA AdaLN patches (pruned DiTs).
+        fix = getattr(nodes, "NODE_CLASS_MAPPINGS", {}).get("H3AdaLNLoRAFix")
+        if fix is not None and hasattr(model, "patches"):
+            try:
+                res = fix.execute(model=model, mode="port")
+                model = (res.args if hasattr(res, "args") else tuple(res))[0]
+            except Exception:
+                pass
+        if factor and float(denoise) > 0.0:
+            _ug.install()
+
+            def decode(v):
+                img = vae.decode(v)
+                return img.reshape(-1, img.shape[-3], img.shape[-2], img.shape[-1])
+            guide = _tu.Guide(factor=factor, cond=cond, decode=decode,
+                              encode=vae.encode, pixels=_ug.guide_pixels)
+
+        sampler = comfy.samplers.sampler_object(str(sampler_name))
+        print(f"[{TAG}] {n} frames at {int(images.shape[2])}x{int(images.shape[1])} -> H3 "
+              f"canvas {w}x{h}, {length} frames ({latent_t} latent steps), {audio_note}; "
+              f"tile budget {int(tile_tokens)} tokens"
+              + (f"; guided by {lora} (factor {factor})" if guide is not None else
+                 f"; re-draw LoRA {lora}" if str(lora) != "None" else ""), flush=True)
+        # The chain's re-draw, exactly as upsample_chain calls it.
+        steps = 2 if float(denoise) > 0.0 else _tu.STEPS
+        out = _tu.upsample(model, cond, latent, sampler, str(upscale_model),
+                           float(megapixels), float(denoise), guide=guide,
+                           budget=int(tile_tokens), steps=steps, start_sigma=0.0,
+                           overlap_px=192, detail_sigma=0.0)
+        _tu._free(model)
+        if _tu._device().type == "cuda":
+            _tu._free_all_gpu()
+        img = decode_streamed(vae.decode, out["samples"].tensors[0], n)
+        del out
+        report = (f"{n} frames {int(images.shape[2])}x{int(images.shape[1])} -> "
+                  f"{int(img.shape[2])}x{int(img.shape[1])}"
+                  + (f", guided ({lora})" if guide is not None else "")
+                  + f", {steps} step(s) at denoise {float(denoise):g}"
+                  + f", tile budget {int(tile_tokens)}, overlap 192px")
+        print(f"[{TAG}] {report}", flush=True)
+        return (img.float().cpu(), audio if audio is not None else silent_audio(n, H3_FPS),
+                report)
+
+
+NODE_CLASS_MAPPINGS = {"H3VideoUpsampler": HTCVideoUpsampler}
+NODE_DISPLAY_NAME_MAPPINGS = {"H3VideoUpsampler": "H3 Video Upsampler"}

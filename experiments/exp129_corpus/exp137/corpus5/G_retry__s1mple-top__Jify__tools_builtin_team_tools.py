@@ -1,1 +1,229 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiVGVhbSBNb2RlIOW3peWFtyDigJQg5pq06Zyy57uZ5Li7IEFnZW50IChMZWFkZXIpIOiwg+eUqOeahCB0ZWFtXyog5bel5YW3IiIiCgppbXBvcnQganNvbgoKZnJvbSB0b29scy5yZWdpc3RyeSBpbXBvcnQgcmVnaXN0ZXJfdG9vbApmcm9tIHRlYW0gaW1wb3J0IGdldF9sZWFkZXIKCgoKIyB0ZWFtX2RlbGVnYXRlIOKAlCDlp5TmtL7ku7vliqHnu5nmn5DkuKogV29ya2VyCkByZWdpc3Rlcl90b29sKAogICAgbmFtZT0idGVhbV9kZWxlZ2F0ZSIsCiAgICBkZXNjcmlwdGlvbj0oCiAgICAgICAgIuWnlOa0vuS7u+WKoee7meWboumYn+S4reeahOafkOS4qiBXb3JrZXIgQWdlbnQg5bm2562J5b6F57uT5p6c44CCIgogICAgICAgICJXb3JrZXIg5piv6aKE5YWI5a6a5LmJ6KeS6Imy55qE5a2Q5pm66IO95L2TICjlpoIgcmV2aWV3ZXIgLyBmaXhlciAvIGdlbmVyYXRvciksICIKICAgICAgICAi5ZCE5pyJ54us56uL55qEIHN5c3RlbV9wcm9tcHQg5ZKM5bel5YW355m95ZCN5Y2V44CCIgogICAgICAgICLoi6XkuI3mjIflrpogd29ya2VyX2lkLCDoh6rliqjpgInmi6nnqbrpl7IgV29ya2Vy44CCIgogICAgKSwKICAgIHBhcmFtZXRlcnM9ewogICAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAgICJ0YXNrIjogewogICAgICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIiwKICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICLopoHlp5TmtL7nmoTku7vliqHmj4/ov7AsIOi2iuWFt+S9k+i2iuWlvSIsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJ3b3JrZXJfaWQiOiB7CiAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciLAogICAgICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIuaMh+WumiBXb3JrZXIgSUQgKOWmgiAncmV2aWV3ZXInLCAnZml4ZXInKSwg5LiN5Lyg5YiZ6Ieq5Yqo6YCJ5oup56m66ZeyIFdvcmtlciIsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJ0aW1lb3V0IjogewogICAgICAgICAgICAgICAgInR5cGUiOiAibnVtYmVyIiwKICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICLotoXml7bnp5LmlbAsIOm7mOiupCAzMDAiLAogICAgICAgICAgICAgICAgImRlZmF1bHQiOiAzMDAsCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgICAgICAicmVxdWlyZWQiOiBbInRhc2siXSwKICAgIH0sCiAgICBwYXJhbGxlbF9zYWZlPVRydWUsCiAgICAjIHJlcXVpcmVzX2FwcHJvdmFsPUZhbHNlLAopCmRlZiB0ZWFtX2RlbGVnYXRlKHRhc2s6IHN0ciwgd29ya2VyX2lkOiBzdHIgPSBOb25lLCB0aW1lb3V0OiBmbG9hdCA9IDMwMCkgLT4gc3RyOgogICAgbGVhZGVyID0gZ2V0X2xlYWRlcigpCiAgICBpZiBsZWFkZXIgaXMgTm9uZToKICAgICAgICByZXR1cm4ganNvbi5kdW1wcyh7ImVycm9yIjogIlRlYW0g5qih5byP5pyq5ZCv5YqoLCDor7flhYjliJ3lp4vljJYgVGVhbU9yY2hlc3RyYXRvciJ9KQogICAgcmV0dXJuIGxlYWRlci5kZWxlZ2F0ZSh0YXNrX2NvbnRlbnQ9dGFzaywgd29ya2VyX2lkPXdvcmtlcl9pZCwgdGltZW91dD10aW1lb3V0KQoKCgojIHRlYW1fYnJvYWRjYXN0IOKAlCDlub/mkq3lkIzkuIDku7vliqHnu5nmiYDmnIkgV29ya2VyCkByZWdpc3Rlcl90b29sKAogICAgbmFtZT0idGVhbV9icm9hZGNhc3QiLAogICAgZGVzY3JpcHRpb249KAogICAgICAgICLlub/mkq3lkIzkuIDku7vliqHnu5nmiYDmnIkgV29ya2VyLCDlubbooYzmiafooYzlkI7ov5Tlm57msYfmgLvnu5PmnpzjgIIiCiAgICAgICAgIumAgueUqOS6jumcgOimgeWkmuinkuiJsuWFseWQjOWuoeafpeWQjOS4gOauteS7o+eggeeahOWcuuaZr+OAgiIKICAgICksCiAgICBwYXJhbWV0ZXJzPXsKICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICJwcm9wZXJ0aWVzIjogewogICAgICAgICAgICAidGFzayI6IHsKICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIsCiAgICAgICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAi6KaB5bm/5pKt57uZ5omA5pyJIFdvcmtlciDnmoTku7vliqEiLAogICAgICAgICAgICB9LAogICAgICAgICAgICAidGltZW91dCI6IHsKICAgICAgICAgICAgICAgICJ0eXBlIjogIm51bWJlciIsCiAgICAgICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAi6LaF5pe256eS5pWwLCDpu5jorqQgMzAwIiwKICAgICAgICAgICAgICAgICJkZWZhdWx0IjogMzAwLAogICAgICAgICAgICB9LAogICAgICAgIH0sCiAgICAgICAgInJlcXVpcmVkIjogWyJ0YXNrIl0sCiAgICB9LAogICAgcGFyYWxsZWxfc2FmZT1UcnVlLAogICAgIyByZXF1aXJlc19hcHByb3ZhbD1GYWxzZSwKKQpkZWYgdGVhbV9icm9hZGNhc3QodGFzazogc3RyLCB0aW1lb3V0OiBmbG9hdCA9IDMwMCkgLT4gc3RyOgogICAgbGVhZGVyID0gZ2V0X2xlYWRlcigpCiAgICBpZiBsZWFkZXIgaXMgTm9uZToKICAgICAgICByZXR1cm4ganNvbi5kdW1wcyh7ImVycm9yIjogIlRlYW0g5qih5byP5pyq5ZCv5YqoLCDor7flhYjliJ3lp4vljJYgVGVhbU9yY2hlc3RyYXRvciJ9KQogICAgcmV0dXJuIGxlYWRlci5icm9hZGNhc3QodGFza19jb250ZW50PXRhc2ssIHRpbWVvdXQ9dGltZW91dCkKCgoKIyB0ZWFtX2RlbGVnYXRlX3BhcmFsbGVsIOKAlCDlubbooYzlp5TmtL7lpJrkuKrkuI3lkIzku7vliqEKQHJlZ2lzdGVyX3Rvb2woCiAgICBuYW1lPSJ0ZWFtX2RlbGVnYXRlX3BhcmFsbGVsIiwKICAgIGRlc2NyaXB0aW9uPSgKICAgICAgICAi5bm26KGM5aeU5rS+5aSa5Liq5LiN5ZCM55qE5Lu75Yqh57uZIFdvcmtlciwg562J5b6F5YWo6YOo5a6M5oiQ5ZCO6L+U5Zue5rGH5oC744CCIgogICAgICAgICLoi6Xmj5Dkvpsgd29ya2VyX2lkcywg5Lu75Yqh5LiOIFdvcmtlciDmjInpobrluo/kuIDkuIDlr7nlupQ7ICIKICAgICAgICAi5ZCm5YiZ6Ieq5Yqo5YiG6YWN44CCIgogICAgKSwKICAgIHBhcmFtZXRlcnM9ewogICAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAgICJ0YXNrcyI6IHsKICAgICAgICAgICAgICAgICJ0eXBlIjogImFycmF5IiwKICAgICAgICAgICAgICAgICJpdGVtcyI6IHsidHlwZSI6ICJzdHJpbmcifSwKICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICLku7vliqHmj4/ov7DliJfooagiLAogICAgICAgICAgICB9LAogICAgICAgICAgICAid29ya2VyX2lkcyI6IHsKICAgICAgICAgICAgICAgICJ0eXBlIjogImFycmF5IiwKICAgICAgICAgICAgICAgICJpdGVtcyI6IHsidHlwZSI6ICJzdHJpbmcifSwKICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJXb3JrZXIgSUQg5YiX6KGoICjkuI4gdGFza3Mg5LiA5LiA5a+55bqUKSwg5LiN5Lyg5YiZ6Ieq5Yqo5YiG6YWNIiwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgInRpbWVvdXQiOiB7CiAgICAgICAgICAgICAgICAidHlwZSI6ICJudW1iZXIiLAogICAgICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIui2heaXtuenkuaVsCwg6buY6K6kIDMwMCIsCiAgICAgICAgICAgICAgICAiZGVmYXVsdCI6IDMwMCwKICAgICAgICAgICAgfSwKICAgICAgICB9LAogICAgICAgICJyZXF1aXJlZCI6IFsidGFza3MiXSwKICAgIH0sCiAgICBwYXJhbGxlbF9zYWZlPVRydWUsCiAgICAjIHJlcXVpcmVzX2FwcHJvdmFsPUZhbHNlLAopCmRlZiB0ZWFtX2RlbGVnYXRlX3BhcmFsbGVsKAogICAgdGFza3M6IGxpc3QsIHdvcmtlcl9pZHM6IGxpc3QgPSBOb25lLCB0aW1lb3V0OiBmbG9hdCA9IDMwMAopIC0+IHN0cjoKICAgIGxlYWRlciA9IGdldF9sZWFkZXIoKQogICAgaWYgbGVhZGVyIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIGpzb24uZHVtcHMoeyJlcnJvciI6ICJUZWFtIOaooeW8j+acquWQr+WKqCwg6K+35YWI5Yid5aeL5YyWIFRlYW1PcmNoZXN0cmF0b3IifSkKICAgIHJldHVybiBsZWFkZXIuZGVsZWdhdGVfcGFyYWxsZWwoCiAgICAgICAgdGFza3M9dGFza3MsIHdvcmtlcl9pZHM9d29ya2VyX2lkcywgdGltZW91dD10aW1lb3V0CiAgICApCgoKCiMgdGVhbV9zdGF0dXMg4oCUIOafpeivouaJgOaciSBXb3JrZXIg54q25oCBCkByZWdpc3Rlcl90b29sKAogICAgbmFtZT0idGVhbV9zdGF0dXMiLAogICAgZGVzY3JpcHRpb249IuafpeivouWboumYn+S4reaJgOaciSBXb3JrZXIg55qE54q25oCBOiDmmK/lkKbnuYHlv5njgIHlt7LlrozmiJDku7vliqHmlbDjgIHmgLvogJfml7bnrYkiLAogICAgcGFyYW1ldGVycz17CiAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAicHJvcGVydGllcyI6IHt9LAogICAgICAgICJyZXF1aXJlZCI6IFtdLAogICAgfSwKICAgIHBhcmFsbGVsX3NhZmU9VHJ1ZSwKICAgICMgcmVxdWlyZXNfYXBwcm92YWw9RmFsc2UsCikKZGVmIHRlYW1fc3RhdHVzKCkgLT4gc3RyOgogICAgbGVhZGVyID0gZ2V0X2xlYWRlcigpCiAgICBpZiBsZWFkZXIgaXMgTm9uZToKICAgICAgICByZXR1cm4ganNvbi5kdW1wcyh7ImVycm9yIjogIlRlYW0g5qih5byP5pyq5ZCv5YqoLCDor7flhYjliJ3lp4vljJYgVGVhbU9yY2hlc3RyYXRvciJ9KQogICAgcmV0dXJuIGxlYWRlci5zdGF0dXMoKQoKCgojIHRlYW1fYWRkX3dvcmtlciDigJQg5Yqo5oCB5re75YqgIFdvcmtlcgpAcmVnaXN0ZXJfdG9vbCgKICAgIG5hbWU9InRlYW1fYWRkX3dvcmtlciIsCiAgICBkZXNjcmlwdGlvbj0oCiAgICAgICAgIuWKqOaAgea3u+WKoOS4gOS4qiBXb3JrZXIg5Yiw5Zui6Zif5Lit44CCV29ya2VyIOaYr+mihOWumuS5ieinkuiJsueahOWtkOaZuuiDveS9kywgIgogICAgICAgICLlkITmnInni6znq4vnmoQgc3lzdGVtX3Byb21wdCDlkozlt6Xlhbfnmb3lkI3ljZXjgILmt7vliqDlkI7nq4vljbPlj6/nlKjjgIIiCiAgICApLAogICAgcGFyYW1ldGVycz17CiAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgIndvcmtlcl9pZCI6IHsKICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIsCiAgICAgICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiV29ya2VyIOWUr+S4gOagh+ivhiAo5aaCICdyZXZpZXdlcicsICdmaXhlcicsICdnZW5lcmF0b3InKSIsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJzeXN0ZW1fcHJvbXB0IjogewogICAgICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIiwKICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJXb3JrZXIg55qE6KeS6ImyIHN5c3RlbSBwcm9tcHQsIOWumuS5ieWFtuiBjOi0o+WSjOihjOS4uiIsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJ3aGl0ZWxpc3QiOiB7CiAgICAgICAgICAgICAgICAidHlwZSI6ICJhcnJheSIsCiAgICAgICAgICAgICAgICAiaXRlbXMiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiV29ya2VyIOWPr+eUqOeahOW3peWFt+eZveWQjeWNlSAo5aaCIFsncmVhZF9maWxlJywgJ3BhdGNoX2ZpbGUnLCAnZXhlYyddKSIsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJtYXhfaXRlcmF0aW9ucyI6IHsKICAgICAgICAgICAgICAgICJ0eXBlIjogIm51bWJlciIsCiAgICAgICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAi5pyA5aSn6L+t5Luj5qyh5pWwLCDpu5jorqQgMjAiLAogICAgICAgICAgICAgICAgImRlZmF1bHQiOiAyMCwKICAgICAgICAgICAgfSwKICAgICAgICB9LAogICAgICAgICJyZXF1aXJlZCI6IFsid29ya2VyX2lkIiwgInN5c3RlbV9wcm9tcHQiLCAid2hpdGVsaXN0Il0sCiAgICB9LAogICAgcGFyYWxsZWxfc2FmZT1UcnVlLAogICAgIyByZXF1aXJlc19hcHByb3ZhbD1GYWxzZSwKKQpkZWYgdGVhbV9hZGRfd29ya2VyKAogICAgd29ya2VyX2lkOiBzdHIsCiAgICBzeXN0ZW1fcHJvbXB0OiBzdHIsCiAgICB3aGl0ZWxpc3Q6IGxpc3QsCiAgICBtYXhfaXRlcmF0aW9uczogaW50ID0gMjAsCikgLT4gc3RyOgogICAgbGVhZGVyID0gZ2V0X2xlYWRlcigpCiAgICBpZiBsZWFkZXIgaXMgTm9uZToKICAgICAgICByZXR1cm4ganNvbi5kdW1wcyh7ImVycm9yIjogIlRlYW0g5qih5byP5pyq5ZCv5YqoLCDor7flhYjliJ3lp4vljJYgVGVhbU9yY2hlc3RyYXRvciJ9KQogICAgdHJ5OgogICAgICAgIGxlYWRlci5hZGRfd29ya2VyKAogICAgICAgICAgICB3b3JrZXJfaWQ9d29ya2VyX2lkLAogICAgICAgICAgICBzeXN0ZW1fcHJvbXB0PXN5c3RlbV9wcm9tcHQsCiAgICAgICAgICAgIHdoaXRlbGlzdD1zZXQod2hpdGVsaXN0KSwKICAgICAgICAgICAgbWF4X2l0ZXJhdGlvbnM9bWF4X2l0ZXJhdGlvbnMsCiAgICAgICAgKQogICAgICAgIHJldHVybiBqc29uLmR1bXBzKHsib2siOiBmIldvcmtlciAne3dvcmtlcl9pZH0nIOW3sua3u+WKoOW5tuWQr+WKqCJ9KQogICAgZXhjZXB0IFZhbHVlRXJyb3IgYXMgZToKICAgICAgICByZXR1cm4ganNvbi5kdW1wcyh7ImVycm9yIjogc3RyKGUpfSkKCgojIHRlYW1fcmVtb3ZlX3dvcmtlciDigJQg56e76Zmk5oyH5a6aIFdvcmtlcgpAcmVnaXN0ZXJfdG9vbCgKICAgIG5hbWU9InRlYW1fcmVtb3ZlX3dvcmtlciIsCiAgICBkZXNjcmlwdGlvbj0oCiAgICAgICAgIuS7juWboumYn+S4reenu+mZpOaMh+WumiBXb3JrZXIg5bm25YWz6Zet5YW257q/56iL44CCIgogICAgICAgICLkvKDlhaUgd29ya2VyX2lkIOWwhuivpSBXb3JrZXIg5YWz6Zet5bm25LuOIFdvcmtlciDmsaDkuK3np7vpmaTjgIIiCiAgICApLAogICAgcGFyYW1ldGVycz17CiAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgIndvcmtlcl9pZCI6IHsKICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIsCiAgICAgICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAi6KaB56e76Zmk55qEIFdvcmtlciBJRCIsCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgICAgICAicmVxdWlyZWQiOiBbIndvcmtlcl9pZCJdLAogICAgfSwKICAgIHBhcmFsbGVsX3NhZmU9VHJ1ZSwKKQpkZWYgdGVhbV9yZW1vdmVfd29ya2VyKHdvcmtlcl9pZDogc3RyKSAtPiBzdHI6CiAgICBsZWFkZXIgPSBnZXRfbGVhZGVyKCkKICAgIGlmIGxlYWRlciBpcyBOb25lOgogICAgICAgIHJldHVybiBqc29uLmR1bXBzKHsiZXJyb3IiOiAiVGVhbSDmqKHlvI/mnKrlkK/liqgsIOivt+WFiOWIneWni+WMliBUZWFtT3JjaGVzdHJhdG9yIn0pCiAgICB0cnk6CiAgICAgICAgbGVhZGVyLnNodXRkb3duKHdvcmtlcl9pZD13b3JrZXJfaWQpCiAgICAgICAgcmV0dXJuIGpzb24uZHVtcHMoeyJvayI6IGYiV29ya2VyICd7d29ya2VyX2lkfScg5bey56e76Zmk5bm25YWz6ZetIn0pCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIGpzb24uZHVtcHMoeyJlcnJvciI6IHN0cihlKX0pCg==
+# -*- coding: utf-8 -*-
+"""Team Mode 工具 — 暴露给主 Agent (Leader) 调用的 team_* 工具"""
+
+import json
+
+from tools.registry import register_tool
+from team import get_leader
+
+
+
+# team_delegate — 委派任务给某个 Worker
+@register_tool(
+    name="team_delegate",
+    description=(
+        "委派任务给团队中的某个 Worker Agent 并等待结果。"
+        "Worker 是预先定义角色的子智能体 (如 reviewer / fixer / generator), "
+        "各有独立的 system_prompt 和工具白名单。"
+        "若不指定 worker_id, 自动选择空闲 Worker。"
+    ),
+    parameters={
+        "type": "object",
+        "properties": {
+            "task": {
+                "type": "string",
+                "description": "要委派的任务描述, 越具体越好",
+            },
+            "worker_id": {
+                "type": "string",
+                "description": "指定 Worker ID (如 'reviewer', 'fixer'), 不传则自动选择空闲 Worker",
+            },
+            "timeout": {
+                "type": "number",
+                "description": "超时秒数, 默认 300",
+                "default": 300,
+            },
+        },
+        "required": ["task"],
+    },
+    parallel_safe=True,
+    # requires_approval=False,
+)
+def team_delegate(task: str, worker_id: str = None, timeout: float = 300) -> str:
+    leader = get_leader()
+    if leader is None:
+        return json.dumps({"error": "Team 模式未启动, 请先初始化 TeamOrchestrator"})
+    return leader.delegate(task_content=task, worker_id=worker_id, timeout=timeout)
+
+
+
+# team_broadcast — 广播同一任务给所有 Worker
+@register_tool(
+    name="team_broadcast",
+    description=(
+        "广播同一任务给所有 Worker, 并行执行后返回汇总结果。"
+        "适用于需要多角色共同审查同一段代码的场景。"
+    ),
+    parameters={
+        "type": "object",
+        "properties": {
+            "task": {
+                "type": "string",
+                "description": "要广播给所有 Worker 的任务",
+            },
+            "timeout": {
+                "type": "number",
+                "description": "超时秒数, 默认 300",
+                "default": 300,
+            },
+        },
+        "required": ["task"],
+    },
+    parallel_safe=True,
+    # requires_approval=False,
+)
+def team_broadcast(task: str, timeout: float = 300) -> str:
+    leader = get_leader()
+    if leader is None:
+        return json.dumps({"error": "Team 模式未启动, 请先初始化 TeamOrchestrator"})
+    return leader.broadcast(task_content=task, timeout=timeout)
+
+
+
+# team_delegate_parallel — 并行委派多个不同任务
+@register_tool(
+    name="team_delegate_parallel",
+    description=(
+        "并行委派多个不同的任务给 Worker, 等待全部完成后返回汇总。"
+        "若提供 worker_ids, 任务与 Worker 按顺序一一对应; "
+        "否则自动分配。"
+    ),
+    parameters={
+        "type": "object",
+        "properties": {
+            "tasks": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "任务描述列表",
+            },
+            "worker_ids": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "Worker ID 列表 (与 tasks 一一对应), 不传则自动分配",
+            },
+            "timeout": {
+                "type": "number",
+                "description": "超时秒数, 默认 300",
+                "default": 300,
+            },
+        },
+        "required": ["tasks"],
+    },
+    parallel_safe=True,
+    # requires_approval=False,
+)
+def team_delegate_parallel(
+    tasks: list, worker_ids: list = None, timeout: float = 300
+) -> str:
+    leader = get_leader()
+    if leader is None:
+        return json.dumps({"error": "Team 模式未启动, 请先初始化 TeamOrchestrator"})
+    return leader.delegate_parallel(
+        tasks=tasks, worker_ids=worker_ids, timeout=timeout
+    )
+
+
+
+# team_status — 查询所有 Worker 状态
+@register_tool(
+    name="team_status",
+    description="查询团队中所有 Worker 的状态: 是否繁忙、已完成任务数、总耗时等",
+    parameters={
+        "type": "object",
+        "properties": {},
+        "required": [],
+    },
+    parallel_safe=True,
+    # requires_approval=False,
+)
+def team_status() -> str:
+    leader = get_leader()
+    if leader is None:
+        return json.dumps({"error": "Team 模式未启动, 请先初始化 TeamOrchestrator"})
+    return leader.status()
+
+
+
+# team_add_worker — 动态添加 Worker
+@register_tool(
+    name="team_add_worker",
+    description=(
+        "动态添加一个 Worker 到团队中。Worker 是预定义角色的子智能体, "
+        "各有独立的 system_prompt 和工具白名单。添加后立即可用。"
+    ),
+    parameters={
+        "type": "object",
+        "properties": {
+            "worker_id": {
+                "type": "string",
+                "description": "Worker 唯一标识 (如 'reviewer', 'fixer', 'generator')",
+            },
+            "system_prompt": {
+                "type": "string",
+                "description": "Worker 的角色 system prompt, 定义其职责和行为",
+            },
+            "whitelist": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "Worker 可用的工具白名单 (如 ['read_file', 'patch_file', 'exec'])",
+            },
+            "max_iterations": {
+                "type": "number",
+                "description": "最大迭代次数, 默认 20",
+                "default": 20,
+            },
+        },
+        "required": ["worker_id", "system_prompt", "whitelist"],
+    },
+    parallel_safe=True,
+    # requires_approval=False,
+)
+def team_add_worker(
+    worker_id: str,
+    system_prompt: str,
+    whitelist: list,
+    max_iterations: int = 20,
+) -> str:
+    leader = get_leader()
+    if leader is None:
+        return json.dumps({"error": "Team 模式未启动, 请先初始化 TeamOrchestrator"})
+    try:
+        leader.add_worker(
+            worker_id=worker_id,
+            system_prompt=system_prompt,
+            whitelist=set(whitelist),
+            max_iterations=max_iterations,
+        )
+        return json.dumps({"ok": f"Worker '{worker_id}' 已添加并启动"})
+    except ValueError as e:
+        return json.dumps({"error": str(e)})
+
+
+# team_remove_worker — 移除指定 Worker
+@register_tool(
+    name="team_remove_worker",
+    description=(
+        "从团队中移除指定 Worker 并关闭其线程。"
+        "传入 worker_id 将该 Worker 关闭并从 Worker 池中移除。"
+    ),
+    parameters={
+        "type": "object",
+        "properties": {
+            "worker_id": {
+                "type": "string",
+                "description": "要移除的 Worker ID",
+            },
+        },
+        "required": ["worker_id"],
+    },
+    parallel_safe=True,
+)
+def team_remove_worker(worker_id: str) -> str:
+    leader = get_leader()
+    if leader is None:
+        return json.dumps({"error": "Team 模式未启动, 请先初始化 TeamOrchestrator"})
+    try:
+        leader.shutdown(worker_id=worker_id)
+        return json.dumps({"ok": f"Worker '{worker_id}' 已移除并关闭"})
+    except Exception as e:
+        return json.dumps({"error": str(e)})

@@ -1,1 +1,344 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrnlLXlrZDpvLsg4oCU4oCUIOWXheinieaYr+OAkOmrmOe7tOS4lOayoeacieWdkOagh+i9tOOAkeeahAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CueUqOaIt++8muOAjOm8u+WtkOaMieeUteWtkOm8u+S5n+ihjOOAguOAjQoK4piFIOWXheinieS4juinhuiniS/lkKzop4nnmoTmoLnmnKzkuI3lkIzvvIjov5nmmK/mnKzlsYLopoHor4HmmI7nmoTvvInvvJoKICAgIOinhuiniSAgMyDkuKrmhJ/lj5flmajvvIjkuInoibLvvIkgIOKGkiAzIOe7tO+8jOacieaYjuehruWdkOagh+i9tAogICAg5ZCs6KeJICDln7rlupXohpwgdG9ub3RvcHkgICAgIOKGkiAxIOe7tOmikeeOh+i9tO+8jOS9jee9rj3popHnjocKICAgIOKYhSDll4Xop4kgfjQwMCDnp43lj5fkvZMgICAgICAgICDihpIgNDAwIOe7tO+8jOS4lOOAkOayoeacieiHqueEtueahCLnm7jpgrsi5YWz57O744CRCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOWPl+S9kyBpIOS4jiBpKzEg5bm25LiN55u45Ly8CiAgICDimIUg5omA5Lul5ZeF6KeJ5LiN6IO955S75oiQ5LiA5p2h57q/5oiW5LiA5Z2X6Imy5Z+f77yM5Y+q6IO96Z2g44CQ57uE5ZCI57yW56CB44CRCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS4gOOAgeeUn+eJqem8u++8iFJFQUzvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg5Yqf6IO95oCn5ZeF6KeJ5Y+X5L2T5Z+65ZugICDnuqYgNDAw77yI5Lq657G777yb5oC75pWw57qmIDgwMO+8jOS4gOWNiuaYr+WBh+WfuuWboO+8iQogICAg5ZeF56We57uP5YWDICAgICAgICAgICAg57qmIDEwMDB+MjAwMCDkuIcKICAgIOKYhSDkuIDkuKrnpZ7nu4/lhYPlj6rooajovr7jgJDkuIDnp43jgJHlj5fkvZPvvIhvbmUgbmV1cm9u4oCTb25lIHJlY2VwdG9y77yJCiAgICDll4XnkIPogr7lsI/nkIMgICAgICAgICAg57qmIDIwMDDvvIjlkIznp43lj5fkvZPnmoTovbTnqoHmsYfogZrliLDlkIzkuIDkuKrnkIPvvIkKICAgIOWXheS4iuearumdouenryAgICAgICAgICDnuqYgMi41fjUgY23CsgogICAg4piFIOWGjeeUn+WRqOacnyAgICAgICAgICDnuqYgMzB+NjAg5aSpIOKAlOKAlCDov5nmmK/nlJ/nianpvLvjgJDmipfmvILnp7vjgJHnmoTmnLrliLYKICAgIOe7hOWQiOe8lueggSAgICAgICAgICAgIOS4gOS4quawlOWRs+a/gOa0u+WkmuS4quWPl+S9k++8m+S4gOS4quWPl+S9k+WTjeW6lOWkmuS4quawlOWRswoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkuozjgIHnlLXlrZDpvLvvvIhSRUFM77yJCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOS8oOaEn+WZqOexu+WeiyAgTU9TKFNuTzIp44CB55S15YyW5a2m44CBUElE44CBTkRJUiDnuqLlpJbjgIFRQ03jgIFTQVcKICAgIOKYhSDkuqTlj4nmlY/mhJ8gIOS4gOS4quS8oOaEn+WZqOWvueWkmuenjeawlOS9k+WTjeW6lCDihpIg44CQ5Y2V5Liq5Lyg5oSf5Zmo5rKh5pyJ6YCJ5oup5oCn44CRCiAgICDimIUg6Zi15YiXICAgICAgOH4zMiDkuKrkvKDmhJ/lmaggKyDmqKHlvI/or4bliKsgPSDnlLXlrZDpvLvvvIhQZXJzYXVkICYgRG9kZCAxOTgy77yJCiAgICDmvILnp7sgICAgICAgIOWfuue6v+a8guenu++8muWHoCUv5aSpIH4g5Yeg5Y2BJS/mnIgg4oaQIOeUteWtkOm8u+OAkOacgOiHtOWRveOAkeeahOmXrumimAogICAg5rip5rm/5bqm5L6d6LWWICBNT1Mg5by65L6d6LWW77yM5b+F6aG76KGl5YG/CiAgICDlk43lupQv5oGi5aSNICAgdDkwIOaVsOenkn7mlbDljYHnp5LvvJvmgaLlpI3mlbDljYHnp5J+5pWw5YiG6ZKfCiAgICDmo4Dlh7rpmZAgICAgICBwcGJ+cHBtCiAgICBNT1Mg5qih5Z6LICAgIFMgPSBSX2FpciAvIFJfZ2FzICAg5oiWICAgUiA9IFIwwrcoMSArIGHCt0NeYikKCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LiJ44CB5pys5bGC6KaB6K+B5piO55qE5LiJ5Lu25LqL77yI4piFIOavj+S7tumDveacieWvueeFp++8iQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDikaAg5Lqk5Y+J5pWP5oSf5LiN5piv57y66Zm377yM5piv44CQ6K6+6K6h44CR77ya5Y2V5Liq5LiN6YCJ5oup77yM6Zi15YiX5omN6YCJ5oupCiAgICDikaEg6Zi15YiX57u05pWw5Yaz5a6a5Y+v5YiG5oCn77ya57u05pWw4oaRIOKGkiDlj6/liIbmgKfihpHvvIjmnInppbHlkozvvIkKICAgIOKRoiDimIUg5ryC56e7IHZzIOWGjeeUn++8mueUteWtkOm8u+S8mua8gu+8jOeUn+eJqem8u+mdoOWPl+S9k+WGjeeUn+mHjee9ruWfuue6vwogICAg4pGjIOa3t+WQiOeJqeaKkeWItu+8mkErQiDiiaAgQStC77yI6Z2e57q/5oCn77yJ4oCU4oCUIOecn+WunueOsOixoe+8jOW/hemhu+WHuueOsAoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgbnVtcHkgYXMgbnAKCiMgLS0tLS0tLS0tLS0tLS0tLSDnlJ/nianpvLsgUkVBTCAtLS0tLS0tLS0tLS0tLS0tCk9SX0dFTkVTX0ZVTkMgICA9IDQwMCAgICAgICAgIyDlip/og73mgKflj5fkvZPln7rlm6DvvIjkurrnsbvvvIkKT1JfVE9UQUwgICAgICAgID0gODAwICAgICAgICAjIOaAu+WfuuWboOW6p++8iOe6puS4gOWNiuWBh+WfuuWboO+8iQpPU05fQ09VTlQgICAgICAgPSAxMmU2ICAgICAgICMg5ZeF56We57uP5YWD77yIMTAwMH4yMDAwIOS4h++8iQpHTE9NRVJVTEkgICAgICAgPSAyMDAwICAgICAgICMg5ZeF55CD6IK+5bCP55CDCkVQSVRIRUxJVU1fQ00yICA9IDMuNSAgICAgICAgIyDll4XkuIrnmq7pnaLnp68KUkVHRU5FUkFURV9EQVlTID0gNDUuMCAgICAgICAjIOWGjeeUn+WRqOacn++8iDMwfjYwIOWkqe+8iQoKIyAtLS0tLS0tLS0tLS0tLS0tIOeUteWtkOm8uyBSRUFMIC0tLS0tLS0tLS0tLS0tLS0KTU9TX1RFTVBfQyAgICAgID0gMzAwLjAgICAgICAjIE1PUyDlt6XkvZzmuKnluqbvvIgyMDB+NDAw77yJClQ5MF9SRVNQX1MgICAgICA9IDguMCAgICAgICAgIyDlk43lupQgdDkw77yI5pWw56eSfuaVsOWNgeenku+8iQpUOTBfUkVDT1ZfUyAgICAgPSA2MC4wICAgICAgICMg5oGi5aSN77yI5pWw5Y2B56eSfuaVsOWIhumSn++8iQpEUklGVF9QQ1RfREFZICAgPSAxLjUgICAgICAgICMg5Z+657q/5ryC56e7ICUv5aSpCkRSSUZUX1BDVF9NT05USCA9IDMwLjAgICAgICAgIyDplb/mnJ/mvILnp7sg5pWw5Y2BJS/mnIgKTE9EX1BQQiAgICAgICAgID0gNTAuMCAgICAgICAjIOajgOWHuumZkO+8iHBwYiDnuqfvvIkKUkhfU0VOUyAgICAgICAgID0gMC4zNSAgICAgICAjIOa5v+W6puaVj+aEn+W6pu+8iOW9kuS4gOWMlu+8iQpURU1QX1NFTlMgICAgICAgPSAwLjI1ICAgICAgICMg5rip5bqm5pWP5oSf5bqmCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LiA44CB5Y+X5L2TL+S8oOaEn+WZqOWTjeW6lOaooeWeiwojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIG1ha2VfcmVjZXB0b3JfbWF0cml4KG5fb2RvcjogaW50LCBuX3JlY2VwOiBpbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICBzcGFyc2l0eTogZmxvYXQgPSAwLjQ1LAogICAgICAgICAgICAgICAgICAgICAgICAgcm5nOiBucC5yYW5kb20uR2VuZXJhdG9yID0gTm9uZSkgLT4gbnAubmRhcnJheToKICAgICIiIuKYhSDnu4TlkIjnvJbnoIHnn6npmLUgTVtvZG9yLCByZWNlcF3jgIIKCiAgICDimIUg56iA55aP77ya5q+P5Liq5rCU5ZGz5Y+q5r+A5rS757qmIDE1JSDnmoTlj5fkvZPvvIhSRUFM77ya5rCU5ZGz5piv56iA55aP57yW56CB77yJCiAgICDimIUg5q+P5Liq5Y+X5L2T5ZON5bqU5aSa56eN5rCU5ZGz77yI5Lqk5Y+J5pWP5oSf77yJCiAgICAiIiIKICAgIHJuZyA9IHJuZyBvciBucC5yYW5kb20uZGVmYXVsdF9ybmcoMCkKICAgICMg4piFIOesrOS4gOeJiOeUqCByYW5kb20oKSoqMyDlho3kuZggMTUlIOeogOeWjyBtYXNr77yaCiAgICAjICAg5ZON5bqU5YC85aSq5bCP5LiU5LiN6YeN5Y+gIOKGkiDnsbvpl7Tot53nprviiYjnsbvlhoXlmarlo7Ag4oaSIOivhuWIq+eOh+WFqOaYr+maj+acuuawtOW5sygwLjAzKQogICAgIyAgIOa3t+WQiOeJqeaKkeWItuS5n+a1i+S4jeWHuuadpe+8iOS4pOS4quawlOWRs+eahOmdnumbtuS9jeS4jemHjeWPoCDihpIgbWF4K21pbj1zdW3vvIzmr5TlgLwxLjAwMO+8iQogICAgIyDimIUg5L+u77ya5YC85Z+f5pS+5a6977yM56iA55aP5bqm5o+Q5YiwIDQ1Je+8iOecn+WunuWPl+S9k+ehruWunuWTjeW6lOWkmuenjeawlOWRs++8jOW/hemhu+mHjeWPoO+8iQogICAgTSA9IDAuMyArIDAuNyAqIHJuZy5yYW5kb20oKG5fb2Rvciwgbl9yZWNlcCkpCiAgICBtYXNrID0gKHJuZy5yYW5kb20oKG5fb2Rvciwgbl9yZWNlcCkpIDwgc3BhcnNpdHkpCiAgICByZXR1cm4gTSAqIG1hc2sKCgpkZWYgbm9ybWFsaXplX3Jlc3BvbnNlKFI6IG5wLm5kYXJyYXksIG1vZGU6IHN0ciA9ICJ2ZWN0b3IiKSAtPiBucC5uZGFycmF5OgogICAgIiIi4piFIOa1k+W6puW9kuS4gOWMliDigJTigJQg55S15a2Q6by755qE5b+F5aSH6aKE5aSE55CG44CCCgogICAg4piFIOS4jeWBmuW9kuS4gOWMlu+8jOacgOi/kemCu+a1i+WIsOeahOaYr+OAkOa1k+W6puW3ruOAkeS4jeaYr+OAkOenjeexu+W3ruOAkQogICAgICBSRUFM77ya55S15a2Q6by75L+h5Y+36aKE5aSE55CG5b+F5YGa6L+Z5LiA5q2lCiAgICAiIiIKICAgIGlmIG1vZGUgPT0gInZlY3RvciI6CiAgICAgICAgbiA9IG5wLmxpbmFsZy5ub3JtKFIsIGF4aXM9MSwga2VlcGRpbXM9VHJ1ZSkKICAgICAgICByZXR1cm4gUiAvIG5wLm1heGltdW0obiwgMWUtOSkKICAgIGlmIG1vZGUgPT0gIm1heCI6CiAgICAgICAgcmV0dXJuIFIgLyBucC5tYXhpbXVtKG5wLmFicyhSKS5tYXgoYXhpcz0xLCBrZWVwZGltcz1UcnVlKSwgMWUtOSkKICAgIHJldHVybiBSCgoKZGVmIG1ha2VfZGF0YXNldChNOiBucC5uZGFycmF5LCBuX3JlcGVhdHM6IGludCwgcm5nOiBucC5yYW5kb20uR2VuZXJhdG9yLAogICAgICAgICAgICAgICAgIGNvbmNfc3ByZWFkOiBmbG9hdCA9IDAuNCwgc25yX2RiOiBmbG9hdCA9IDEwLjApOgogICAgIiIi4piFIOeUn+aIkCBbbGFiZWwsIHJlc3BvbnNlXSDlr7npvZDnmoTmlbDmja7pm4bjgIIKCiAgICDimIUg56ys5LiA54mI55SoIG5wLnRpbGUoTSwobl9yZXBlYXRzLDEpKSDphY0gbnAucmVwZWF0KGxhYmVscykKICAgICAg4oaSIOihjOmhuuW6j+S4juagh+etvuOAkOmUmeS9jeOAke+8jOWIhuexu+WFqOaYr+maj+acuuawtOW5swogICAgIiIiCiAgICBuX29kb3IgPSBNLnNoYXBlWzBdCiAgICBsYWJlbHMgPSBucC5yZXBlYXQobnAuYXJhbmdlKG5fb2RvciksIG5fcmVwZWF0cykgICAgICAjIDAwMC4uMTExLi4yMjIKICAgIE1yZXAgPSBucC5yZXBlYXQoTSwgbl9yZXBlYXRzLCBheGlzPTApICAgICAgICAgICAgICAgICMg4piFIOS4jiBsYWJlbHMg5a+56b2QCiAgICBjb25jID0gMS4wICsgY29uY19zcHJlYWQgKiBybmcucmFuZG9tKGxlbihsYWJlbHMpKQogICAgSyA9IHJlY2VwdG9yX0soTS5zaGFwZVsxXSwgcm5nKQogICAgUiA9IHJlY2VwdG9yX3Jlc3BvbnNlKE1yZXAsIGNvbmMsIEs9SykKICAgICMg4piFIOS8oOaEn+WZqOWZquWjsO+8iFJFQUzvvJrnlLXlrZDpvLvkv6Hlmarmr5TmnInpmZDvvIznuqYgMTB+MjAgZELvvIkKICAgICMgICDnrKzkuIDniYggbm9pc2U9MOOAgeesrOS6jOeJiCAyMCBkQiDihpIg6K+G5Yir546H5LuN6aWx5ZKM5ZyoIDEuMDAwCiAgICAjICAg4piFIOagueWboO+8muexu+WGhei3neemu+KJiDDvvIzliqDmgKfmvILnp7vlr7nmiYDmnInmoLfmnKznm7jlkIzvvIzkuI3mlLnlj5jmnIDov5Hpgrvnu5PmnpwKICAgICMgICAgIOKGkiDlv4XpobvmnInjgJDmr4/moLfmnKzni6znq4vjgJHnmoTlmarlo7DvvIznsbvlhoXot53nprvmiY3nnJ/lrp7lrZjlnKgKICAgICMgICDmlLkgMTAgZELvvIjnuqYgMzIl77yJ5ZCO5ryC56e7L+e7tOaVsC/muKnmub/luqbmiY3mmL7lh7rlt67lvIIKICAgIGlmIHNucl9kYiA8IDIwMDoKICAgICAgICBzaWcgPSBmbG9hdChucC5zcXJ0KG5wLm1lYW4oUiAqKiAyKSkpCiAgICAgICAgUiA9IFIgKyBybmcubm9ybWFsKDAuMCwgc2lnICogMTAgKiogKC1zbnJfZGIgLyAyMC4wKSwgUi5zaGFwZSkKICAgIHJldHVybiBSLCBsYWJlbHMsIGNvbmMKCgpkZWYgcmVjZXB0b3JfSyhuX3JlY2VwOiBpbnQsIHJuZzogbnAucmFuZG9tLkdlbmVyYXRvciA9IE5vbmUsCiAgICAgICAgICAgICAgIHNwcmVhZDogZmxvYXQgPSAxLjIpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLimIUg5q+P5Liq5Y+X5L2T5pyJ44CQ6Ieq5bex55qE44CR5Lqy5ZKM5bqmIEvvvIhFQzUw77yJ44CCCgogICAg4piFIOesrOS4gOeJiOaJgOacieWPl+S9kyBLPTEg4oaSIOa1k+W6puWPmOWMluaYr+e6r+S5mOaApyDihpIg5b2S5LiA5YyW5a6M5YWo5raI6ZmkCiAgICAgIOKGkiDnsbvlhoXot53nprvmgZLkuLogMCDihpIg5YiG57G75rC46L+cIDEuMDAwIOKGkiDmvILnp7vkuZ/mtYvkuI3lh7rmlYjmnpwKICAgIOKYhSDnnJ/lrp7vvJrkuI3lkIzlj5fkvZPlr7nlkIzkuIDliIblrZDnmoTkurLlkozluqblt67lvILlvojlpKfvvIjlr7nmlbDmraPmgIHot6jotormlbDkuKrph4/nuqfvvIkKICAgICIiIgogICAgcm5nID0gcm5nIG9yIG5wLnJhbmRvbS5kZWZhdWx0X3JuZygwKQogICAgcmV0dXJuIG5wLmV4cChybmcubm9ybWFsKDAuMCwgc3ByZWFkLCBuX3JlY2VwKSAqIDAuNSkKCgpkZWYgcmVjZXB0b3JfcmVzcG9uc2UoTTogbnAubmRhcnJheSwgY29uYzogbnAubmRhcnJheSwKICAgICAgICAgICAgICAgICAgICAgIGhpbGxfbjogZmxvYXQgPSAxLjYsIEs6IG5wLm5kYXJyYXkgPSBOb25lCiAgICAgICAgICAgICAgICAgICAgICApIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLimIUgSGlsbCDppbHlkozlk43lupTvvIjkuI3mmK/nur/mgKfvvInjgIJIaWxsIOezu+aVsCBSRUFMIOe6piAxfjPjgIIKCiAgICByID0gY29uY15uIC8gKEtebiArIGNvbmNebikgICDimIUgSyDpgJDlj5fkvZPkuI3lkIwKICAgICIiIgogICAgQyA9IG5wLmFzYXJyYXkoY29uYywgZmxvYXQpWzosIE5vbmVdCiAgICBpZiBLIGlzIE5vbmU6CiAgICAgICAgSyA9IG5wLm9uZXMoTS5zaGFwZVsxXSkKICAgIEsgPSBucC5hc2FycmF5KEssIGZsb2F0KVtOb25lLCA6XQogICAgcmV0dXJuIChDICoqIGhpbGxfbikgLyAoSyAqKiBoaWxsX24gKyBDICoqIGhpbGxfbikgKiBNCgoKZGVmIGNvbXBldGl0aXZlX2JpbmRpbmcoTV9BOiBucC5uZGFycmF5LCBNX0I6IG5wLm5kYXJyYXksCiAgICAgICAgICAgICAgICAgICAgICAgIGNBOiBmbG9hdCA9IDEuMCwgY0I6IGZsb2F0ID0gMS4wLAogICAgICAgICAgICAgICAgICAgICAgICBLOiBucC5uZGFycmF5ID0gTm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgcm5nOiBucC5yYW5kb20uR2VuZXJhdG9yID0gTm9uZSkgLT4gdHVwbGU6CiAgICAiIiLimIUg56ue5LqJ57uT5ZCI77yIUkVBTCDnmoTmt7flkIjnianmipHliLbmnLrliLbvvInjgIIKCiAgICDimIUg5Lik56eN5YiG5a2Q44CQ56ue5LqJ5ZCM5LiA5Y+X5L2T55qE57uT5ZCI5L2N54K544CR4oaSIOWTjeW6lOS4jeaYr+ebuOWKoOiAjOaYr+mlseWSjOernuS6iQogICAgICByX0FCID0gKGNBwrdNX0EgKyBjQsK3TV9CKSAvICgxICsgY0HCt01fQSArIGNCwrdNX0IpCiAgICDimIUg6L+Z5q+UIuWKoOadg+WPluWkpyLmm7TnnJ/lrp7vvJrlj5fkvZPmgLsgb2NjdXBhbmN5IOacieS4iumZkAogICAg6L+U5ZueIChyX0EsIHJfQiwgcl9BQl9saW5lYXIsIHJfQUJfY29tcGV0aXRpdmUpCiAgICAiIiIKICAgIGlmIEsgaXMgTm9uZToKICAgICAgICBLID0gbnAub25lcyhNX0Euc2hhcGVbMF0pCiAgICBLID0gbnAuYXNhcnJheShLLCBmbG9hdCkKICAgIHJBID0gKGNBICogTV9BKSAvIChLICsgY0EgKiBNX0EpCiAgICByQiA9IChjQiAqIE1fQikgLyAoSyArIGNCICogTV9CKQogICAgbGluID0gckEgKyByQgogICAgY29tcCA9IChjQSAqIE1fQSArIGNCICogTV9CKSAvIChLICsgY0EgKiBNX0EgKyBjQiAqIE1fQikKICAgIHJldHVybiByQSwgckIsIGxpbiwgY29tcAoKCmRlZiBtaXh0dXJlX3N1cHByZXNzaW9uKHJfQTogbnAubmRhcnJheSwgcl9COiBucC5uZGFycmF5LAogICAgICAgICAgICAgICAgICAgICAgICBiZXRhOiBmbG9hdCA9IDAuMzUpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLimIUg5re35ZCI54mp5oqR5Yi277yIUkVBTO+8ie+8mkErQiDnmoTlk43lupTjgJDlsI/kuo7jgJFBIOS4jiBCIOWNleeLrOWTjeW6lOS5i+WSjOOAggoKICAgIOKYhSDnnJ/lrp7njrDosaHvvJptaXh0dXJlIHN1cHByZXNzaW9uIC8gaHlwb2FkZGl0aXZpdHkKICAgICAgcl9BQiA9IG1heChyX0EsIHJfQikgKyAoMeKIks6yKcK3bWluKHJfQSwgcl9CKSAgIOKGkCDmipjkuK3mqKHlnosKICAgICAgzrI9MCDihpIg5a6M5YWo57q/5oCn55u45Yqg77ybzrI9MSDihpIg5a6M5YWo5Y+W5pyA5aSn77yI5a6M5YWo5oqR5Yi277yJCiAgICAiIiIKICAgIGhpID0gbnAubWF4aW11bShyX0EsIHJfQikKICAgIGxvID0gbnAubWluaW11bShyX0EsIHJfQikKICAgIHJldHVybiBoaSArICgxLjAgLSBiZXRhKSAqIGxvCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LqM44CB5Y+v5YiG5oCn77yI4piFIOaguOW/g+WIpOaNru+8iQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIHNlcGFyYWJpbGl0eShmZWF0czogbnAubmRhcnJheSwgbGFiZWxzOiBucC5uZGFycmF5LAogICAgICAgICAgICAgICAgIHJuZzogbnAucmFuZG9tLkdlbmVyYXRvciA9IE5vbmUsCiAgICAgICAgICAgICAgICAgbm9pc2U6IGZsb2F0ID0gMC4wKSAtPiBmbG9hdDoKICAgICIiIuacgOi/kemCu+WIhuexu+ato+ehrueOh++8iOeVmeWHuuS4gOS7veWBmua1i+ivle+8ieOAggoKICAgIOKYhSBmZWF0czogW25fc2FtcGxlLCBuX2RpbV3vvJtsYWJlbHM6IFtuX3NhbXBsZV0KICAgIOKYhSDov5Tlm57mraPnoa7njocgMH4xCiAgICAiIiIKICAgIHJuZyA9IHJuZyBvciBucC5yYW5kb20uZGVmYXVsdF9ybmcoMCkKICAgIEYgPSBmZWF0cyArIG5vaXNlICogcm5nLnN0YW5kYXJkX25vcm1hbChmZWF0cy5zaGFwZSkgaWYgbm9pc2UgPiAwIGVsc2UgZmVhdHMKICAgIG4gPSBsZW4oRikKICAgIGlkeCA9IHJuZy5wZXJtdXRhdGlvbihuKQogICAgayA9IG1heCgxLCBuIC8vIDMpCiAgICB0ZXN0LCB0cmFpbiA9IGlkeFs6a10sIGlkeFtrOl0KICAgIGNvcnJlY3QgPSAwCiAgICBmb3IgaSBpbiB0ZXN0OgogICAgICAgIGQgPSBucC5saW5hbGcubm9ybShGW3RyYWluXSAtIEZbaV0sIGF4aXM9MSkKICAgICAgICBjb3JyZWN0ICs9IChsYWJlbHNbdHJhaW5baW50KG5wLmFyZ21pbihkKSldXSA9PSBsYWJlbHNbaV0pCiAgICByZXR1cm4gY29ycmVjdCAvIGsKCgpkZWYgc2luZ2xlX3ZzX2FycmF5KE06IG5wLm5kYXJyYXksIG5fcmVwZWF0czogaW50ID0gNjAsCiAgICAgICAgICAgICAgICAgICAgc2VlZDogaW50ID0gMCwgbm9ybTogYm9vbCA9IFRydWUKICAgICAgICAgICAgICAgICAgICApIC0+IHR1cGxlW2Zsb2F0LCBmbG9hdF06CiAgICAiIiLimIUg5Y2V5Liq5Lyg5oSf5ZmoIHZzIOaVtOWIl+mYteWIlyDnmoTor4bliKvnjofvvIjmoLjlv4Plr7nnhafvvInjgIIiIiIKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgUiwgbGFiZWxzLCBfID0gbWFrZV9kYXRhc2V0KE0sIG5fcmVwZWF0cywgcm5nKQogICAgaWYgbm9ybToKICAgICAgICBSID0gbm9ybWFsaXplX3Jlc3BvbnNlKFIpCiAgICBhY2NfYXJyID0gc2VwYXJhYmlsaXR5KFIsIGxhYmVscywgcm5nKQogICAgYWNjcyA9IFtzZXBhcmFiaWxpdHkobm9ybWFsaXplX3Jlc3BvbnNlKFJbOiwgW2pdXSkgaWYgbm9ybSBlbHNlIFJbOiwgW2pdXSwKICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVscywgcm5nKSBmb3IgaiBpbiByYW5nZShNLnNoYXBlWzFdKV0KICAgIHJldHVybiBmbG9hdChucC5tZWFuKGFjY3MpKSwgZmxvYXQoYWNjX2FycikKCgpkZWYgZGltX3N3ZWVwKG5fb2RvcjogaW50ID0gMjAsIGRpbXM9KDEsIDIsIDQsIDgsIDE2LCAzMiwgNjQsIDEyOCwgNDAwKSwKICAgICAgICAgICAgICBuX3JlcGVhdHM6IGludCA9IDQwLCBzZWVkOiBpbnQgPSAwKToKICAgICIiIuKYhSDnu7TmlbDmiavmj4/vvJrlj6/liIbmgKfpmo/lj5fkvZPmlbDlop7liqDvvIjlupTmnInppbHlkozvvInjgIIiIiIKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgb3V0ID0gW10KICAgIGZvciBkIGluIGRpbXM6CiAgICAgICAgTSA9IG1ha2VfcmVjZXB0b3JfbWF0cml4KG5fb2RvciwgZCwgcm5nPXJuZykKICAgICAgICBSLCBsYWJlbHMsIF8gPSBtYWtlX2RhdGFzZXQoTSwgbl9yZXBlYXRzLCBybmcpCiAgICAgICAgUiA9IG5vcm1hbGl6ZV9yZXNwb25zZShSKQogICAgICAgIG91dC5hcHBlbmQoKGQsIHNlcGFyYWJpbGl0eShSLCBsYWJlbHMsIHJuZykpKQogICAgcmV0dXJuIG91dAoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4ieOAgea8guenuyB2cyDlho3nlJ8KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBhcHBseV9kcmlmdChSOiBucC5uZGFycmF5LCBkYXlzOiBmbG9hdCwgcm5nOiBucC5yYW5kb20uR2VuZXJhdG9yID0gTm9uZSwKICAgICAgICAgICAgICAgIHBjdF9wZXJfZGF5OiBmbG9hdCA9IERSSUZUX1BDVF9EQVkpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLimIUg55S15a2Q6by75Z+657q/5ryC56e777ya5q+P5Liq5Lyg5oSf5Zmo54us56uL6ZqP5py65ri46LWwICsg5aKe55uK5ryC56e744CCIiIiCiAgICBybmcgPSBybmcgb3IgbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCiAgICBuX2RpbSA9IFIuc2hhcGVbMV0KICAgIGJhc2UgPSBybmcubm9ybWFsKDAuMCwgcGN0X3Blcl9kYXkgLyAxMDAuMCAqIG5wLnNxcnQoZGF5cyksIG5fZGltKQogICAgZ2FpbiA9IDEuMCArIHJuZy5ub3JtYWwoMC4wLCBwY3RfcGVyX2RheSAvIDEwMC4wICogbnAuc3FydChkYXlzKSwgbl9kaW0pCiAgICByZXR1cm4gUiAqIGdhaW4gKyBiYXNlCgoKZGVmIGJpb2xvZ2ljYWxfcmVuZXdhbChSMDogbnAubmRhcnJheSwgUl9kcmlmdGVkOiBucC5uZGFycmF5LCBkYXlzOiBmbG9hdCwKICAgICAgICAgICAgICAgICAgICAgICByZW5ld19kYXlzOiBmbG9hdCA9IFJFR0VORVJBVEVfREFZUywKICAgICAgICAgICAgICAgICAgICAgICBybmc6IG5wLnJhbmRvbS5HZW5lcmF0b3IgPSBOb25lKSAtPiB0dXBsZToKICAgICIiIuKYhSDnlJ/nianpvLvvvJrlj5fkvZPmjIHnu63lho3nlJ8g4oaSIOW3suabtOaWsOWPl+S9k+eahOa8guenu+iiq+OAkOaSpOmUgOOAkeOAggoKICAgIOKYhSDmnLrliLbvvJrll4XnpZ7nu4/lhYPnuqYgNDUg5aSp5o2i5LiA5om577yM5paw56We57uP5YWD5bim5p2l5YWo5paw55qE5Y+X5L2T6KGo6L6+CiAgICAgIOKGkiDlt7Lmm7TmlrDpgJrpgZPlm57liLDjgJDlh7rljoLln7rnur/jgJHvvIzmvILnp7vkuI3ntK/np68KICAgICAg4oaSIOKYhSDku6Pku7fvvJrmsJTlkbPorrDlv4blnKjov5nkupvpgJrpgZPkuIropoHph43mlrDmoKHlh4YKICAgIOKYhSDnrKzkuIDniYjlj6rkvKAgUjDvvIjml6DmvILnp7vvvInvvIznrYnkuo7msqHmlr3liqDmvILnp7sg4oaSIOeUn+eJqem8u+awuOi/nCAxLjAwMO+8jOWvueeFp+WkseaViAogICAgIiIiCiAgICBybmcgPSBybmcgb3IgbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCiAgICBmcmFjID0gbWluKDEuMCwgZGF5cyAvIHJlbmV3X2RheXMpCiAgICByZW5ld2VkID0gcm5nLnJhbmRvbShSMC5zaGFwZVsxXSkgPCBmcmFjCiAgICBSMiA9IFJfZHJpZnRlZC5jb3B5KCkKICAgIFIyWzosIHJlbmV3ZWRdID0gUjBbOiwgcmVuZXdlZF0gICAgICAjIOKYhSDlt7Llho3nlJ/nmoTpgJrpgZPvvJrmvILnp7vlvZLpm7YKICAgIHJldHVybiBSMiwgZmxvYXQocmVuZXdlZC5tZWFuKCkpCgoKZGVmIGRyaWZ0X2N1cnZlKE06IG5wLm5kYXJyYXksIGRheXNfbGlzdD0oMCwgNywgMzAsIDkwLCAxODAsIDM2NSksCiAgICAgICAgICAgICAgICBuX3JlcGVhdHM6IGludCA9IDQwLCBzZWVkOiBpbnQgPSAwLCBzbnJfZGI6IGZsb2F0ID0gMTAuMCk6CiAgICAiIiLimIUg5ryC56e75puy57q/77ya4piFIOiuree7g+mbhuaYr+OAkOesrDDlpKnnmoTlupPjgJHvvIzmtYvor5Xpm4bmmK/jgJDnrKxk5aSp6YeH55qE5qC344CR44CCCgogICAg4piFIOWJjeS4pOeJiOWFqOmDqOWksei0pe+8iOivhuWIq+eOh+aBkiAxLjAwMO+8ie+8jOagueWboO+8mgogICAgICB0cmFpbi90ZXN0IOS7juOAkOWQjOS4gOaJueOAgeWQjOS4gOWkqeOAkeeahOaVsOaNrumHjOWIkuWIhgogICAgICDihpIg5Yqg5oCn5ryC56e75a+55omA5pyJ5qC35pys44CQ55u45ZCM44CR4oaSIOS4jeaUueWPmOacgOi/kemCu+e7k+aenCDihpIg5ryC56e7Iua1i+S4jeWHuuadpSIKICAgIOKYhSDnnJ/lrp7lnLrmma/vvJrnlLXlrZDpvLvlh7rljoLml7blu7rlpb3msJTlkbPlupPvvIznlKjkuoYgTiDlpKnlkI7lho3mtYsKICAgICAg4oaSIOW6k+aYr+aXp+eahO+8jOagt+aYr+aWsOeahO+8jOa8guenu+OAkOWPquWcqOagt+acrOS+p+OAkeKGkiDmiY3oh7Tlkb0KICAgICIiIgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBSMCwgbGFiZWxzLCBfID0gbWFrZV9kYXRhc2V0KE0sIG5fcmVwZWF0cywgcm5nLCBzbnJfZGI9c25yX2RiKQogICAgUm4wID0gbm9ybWFsaXplX3Jlc3BvbnNlKFIwKQogICAgIyDimIUg5bu65bqT77ya5q+P5Liq5rCU5ZGz55qE57G75Z2H5YC85L2c5Li65qih5p2/77yIUkVBTO+8mueUteWtkOm8u+WHuuWOguagh+Wumu+8iQogICAgdW5pcSA9IG5wLnVuaXF1ZShsYWJlbHMpCiAgICB0bXBsID0gbnAuYXJyYXkoW1JuMFtsYWJlbHMgPT0gdV0ubWVhbihheGlzPTApIGZvciB1IGluIHVuaXFdKQogICAgb3V0ID0gW10KICAgIGZvciBkIGluIGRheXNfbGlzdDoKICAgICAgICAjIOesrCBkIOWkqemHjemHh+S4gOmBje+8iOaWsOWZquWjsCArIOa8guenu++8iQogICAgICAgIFJkLCBsYWJlbHNfZCwgXyA9IG1ha2VfZGF0YXNldChNLCBuX3JlcGVhdHMsIHJuZywgc25yX2RiPXNucl9kYikKICAgICAgICBSX2UgPSBhcHBseV9kcmlmdChSZCwgZmxvYXQoZCksIHJuZykKICAgICAgICBhY2NfZSA9IF9tYXRjaF90ZW1wbGF0ZXMobm9ybWFsaXplX3Jlc3BvbnNlKFJfZSksIGxhYmVsc19kLCB0bXBsLCB1bmlxKQogICAgICAgIFJfYiwgZnJhYyA9IGJpb2xvZ2ljYWxfcmVuZXdhbChSZCwgYXBwbHlfZHJpZnQoUmQsIGZsb2F0KGQpLCBybmcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbG9hdChkKSwgcm5nPXJuZykKICAgICAgICBhY2NfYiA9IF9tYXRjaF90ZW1wbGF0ZXMobm9ybWFsaXplX3Jlc3BvbnNlKFJfYiksIGxhYmVsc19kLCB0bXBsLCB1bmlxKQogICAgICAgIG91dC5hcHBlbmQoKGQsIGFjY19lLCBhY2NfYiwgZnJhYykpCiAgICByZXR1cm4gb3V0CgoKZGVmIF9tYXRjaF90ZW1wbGF0ZXMoRjogbnAubmRhcnJheSwgbGFiZWxzOiBucC5uZGFycmF5LAogICAgICAgICAgICAgICAgICAgICB0bXBsOiBucC5uZGFycmF5LCB1bmlxOiBucC5uZGFycmF5KSAtPiBmbG9hdDoKICAgICIiIueUqOOAkOesrDDlpKnlu7rnmoTmqKHmnb/lupPjgJHljLnphY3lvZPliY3moLfmnKzvvIzov5Tlm57mraPnoa7njofjgIIiIiIKICAgIGNvcnJlY3QgPSAwCiAgICBmb3IgaSBpbiByYW5nZShsZW4oRikpOgogICAgICAgIGQgPSBucC5saW5hbGcubm9ybSh0bXBsIC0gRltpXSwgYXhpcz0xKQogICAgICAgIGNvcnJlY3QgKz0gKHVuaXFbaW50KG5wLmFyZ21pbihkKSldID09IGxhYmVsc1tpXSkKICAgIHJldHVybiBjb3JyZWN0IC8gbGVuKEYpCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5Zub44CB5rip5rm/5bqmCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgZW52X2VmZmVjdChSOiBucC5uZGFycmF5LCByaDogZmxvYXQgPSAwLjUsIHRlbXBfYzogZmxvYXQgPSAyNS4wLAogICAgICAgICAgICAgICByaF9yZWY6IGZsb2F0ID0gMC41LCB0ZW1wX3JlZjogZmxvYXQgPSAyNS4wKSAtPiBucC5uZGFycmF5OgogICAgIiIi4piFIE1PUyDlr7nmuKnmub/luqblvLrkvp3otZbvvIjmnKrooaXlgb/ml7bvvInjgIIiIiIKICAgIGYgPSAxLjAgKyBSSF9TRU5TICogKHJoIC0gcmhfcmVmKSArIFRFTVBfU0VOUyAqICh0ZW1wX2MgLSB0ZW1wX3JlZikgLyAxMC4wCiAgICByZXR1cm4gUiAqIGYKCgpkZWYgZW52X2NvbXBlbnNhdGUoUjogbnAubmRhcnJheSwgcmg6IGZsb2F0LCB0ZW1wX2M6IGZsb2F0LAogICAgICAgICAgICAgICAgICAgcmhfcmVmOiBmbG9hdCA9IDAuNSwgdGVtcF9yZWY6IGZsb2F0ID0gMjUuMCkgLT4gbnAubmRhcnJheToKICAgICIiIuKYhSDooaXlgb/vvJrpmaTku6Xlt7Lnn6XnmoTnjq/looPlm6DlrZDvvIjliY3mj5DmmK/kvaDjgJDmtYvkuobjgJHmuKnmub/luqbvvInjgIIiIiIKICAgIGYgPSAxLjAgKyBSSF9TRU5TICogKHJoIC0gcmhfcmVmKSArIFRFTVBfU0VOUyAqICh0ZW1wX2MgLSB0ZW1wX3JlZikgLyAxMC4wCiAgICByZXR1cm4gUiAvIGYKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkupTjgIHpgILlupTvvIjnlJ/nianvvIkKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBvbGZhY3RvcnlfYWRhcHRhdGlvbih0X3M6IG5wLm5kYXJyYXksIHRhdTogZmxvYXQgPSAyMC4wLAogICAgICAgICAgICAgICAgICAgICAgICAgZmxvb3I6IGZsb2F0ID0gMC4xNSkgLT4gbnAubmRhcnJheToKICAgICIiIuKYhSDll4Xop4npgILlupTvvJrmjIHnu63mmrTpnLLlk43lupTmjIfmlbDoobDlh4/liLAgZmxvb3LjgIIKCiAgICDimIUgUkVBTO+8muaXtumXtOW4uOaVsOaVsOenkn7mlbDliIbpkp/vvIzkuJTjgJDkuI3kvJrlrozlhajlvZLpm7bjgJEKICAgICIiIgogICAgcmV0dXJuIGZsb29yICsgKDEuMCAtIGZsb29yKSAqIG5wLmV4cCgtbnAuYXNhcnJheSh0X3MsIGZsb2F0KSAvIHRhdSkKCgpkZWYgc2Vuc29yX3NhdHVyYXRpb24odF9zOiBucC5uZGFycmF5LCB0YXU6IGZsb2F0ID0gVDkwX1JFU1BfUykgLT4gbnAubmRhcnJheToKICAgICIiIuKYhSDnlLXlrZDpvLvvvJrkuIrljYfliLDppbHlkozvvIzjgJDkuI3oobDlh4/jgJHvvIjov5nmmK/kuI7nlJ/nianpgILlupTnmoTlhbPplK7ljLrliKvvvInjgIIiIiIKICAgIHJldHVybiAxLjAgLSBucC5leHAoLW5wLmFzYXJyYXkodF9zLCBmbG9hdCkgLyB0YXUpCgoKZGVmIHJlY292ZXJ5KHRfczogbnAubmRhcnJheSwgdGF1OiBmbG9hdCA9IFQ5MF9SRUNPVl9TKSAtPiBucC5uZGFycmF5OgogICAgcmV0dXJuIG5wLmV4cCgtbnAuYXNhcnJheSh0X3MsIGZsb2F0KSAvIHRhdSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+电子鼻 —— 嗅觉是【高维且没有坐标轴】的
+================================================================
+用户：「鼻子按电子鼻也行。」
+
+★ 嗅觉与视觉/听觉的根本不同（这是本层要证明的）：
+    视觉  3 个感受器（三色）  → 3 维，有明确坐标轴
+    听觉  基底膜 tonotopy     → 1 维频率轴，位置=频率
+    ★ 嗅觉 ~400 种受体         → 400 维，且【没有自然的"相邻"关系】
+                                 受体 i 与 i+1 并不相似
+    ★ 所以嗅觉不能画成一条线或一块色域，只能靠【组合编码】
+
+----------------------------------------------------------------
+一、生物鼻（REAL）
+----------------------------------------------------------------
+    功能性嗅觉受体基因  约 400（人类；总数约 800，一半是假基因）
+    嗅神经元            约 1000~2000 万
+    ★ 一个神经元只表达【一种】受体（one neuron–one receptor）
+    嗅球肾小球          约 2000（同种受体的轴突汇聚到同一个球）
+    嗅上皮面积          约 2.5~5 cm²
+    ★ 再生周期          约 30~60 天 —— 这是生物鼻【抗漂移】的机制
+    组合编码            一个气味激活多个受体；一个受体响应多个气味
+
+----------------------------------------------------------------
+二、电子鼻（REAL）
+----------------------------------------------------------------
+    传感器类型  MOS(SnO2)、电化学、PID、NDIR 红外、QCM、SAW
+    ★ 交叉敏感  一个传感器对多种气体响应 → 【单个传感器没有选择性】
+    ★ 阵列      8~32 个传感器 + 模式识别 = 电子鼻（Persaud & Dodd 1982）
+    漂移        基线漂移：几%/天 ~ 几十%/月 ← 电子鼻【最致命】的问题
+    温湿度依赖  MOS 强依赖，必须补偿
+    响应/恢复   t90 数秒~数十秒；恢复数十秒~数分钟
+    检出限      ppb~ppm
+    MOS 模型    S = R_air / R_gas   或   R = R0·(1 + a·C^b)
+
+----------------------------------------------------------------
+三、本层要证明的三件事（★ 每件都有对照）
+----------------------------------------------------------------
+    ① 交叉敏感不是缺陷，是【设计】：单个不选择，阵列才选择
+    ② 阵列维数决定可分性：维数↑ → 可分性↑（有饱和）
+    ③ ★ 漂移 vs 再生：电子鼻会漂，生物鼻靠受体再生重置基线
+    ④ 混合物抑制：A+B ≠ A+B（非线性）—— 真实现象，必须出现
+"""
+from __future__ import annotations
+import numpy as np
+
+# ---------------- 生物鼻 REAL ----------------
+OR_GENES_FUNC   = 400        # 功能性受体基因（人类）
+OR_TOTAL        = 800        # 总基因座（约一半假基因）
+OSN_COUNT       = 12e6       # 嗅神经元（1000~2000 万）
+GLOMERULI       = 2000       # 嗅球肾小球
+EPITHELIUM_CM2  = 3.5        # 嗅上皮面积
+REGENERATE_DAYS = 45.0       # 再生周期（30~60 天）
+
+# ---------------- 电子鼻 REAL ----------------
+MOS_TEMP_C      = 300.0      # MOS 工作温度（200~400）
+T90_RESP_S      = 8.0        # 响应 t90（数秒~数十秒）
+T90_RECOV_S     = 60.0       # 恢复（数十秒~数分钟）
+DRIFT_PCT_DAY   = 1.5        # 基线漂移 %/天
+DRIFT_PCT_MONTH = 30.0       # 长期漂移 数十%/月
+LOD_PPB         = 50.0       # 检出限（ppb 级）
+RH_SENS         = 0.35       # 湿度敏感度（归一化）
+TEMP_SENS       = 0.25       # 温度敏感度
+
+
+# ================================================================
+# 一、受体/传感器响应模型
+# ================================================================
+def make_receptor_matrix(n_odor: int, n_recep: int,
+                         sparsity: float = 0.45,
+                         rng: np.random.Generator = None) -> np.ndarray:
+    """★ 组合编码矩阵 M[odor, recep]。
+
+    ★ 稀疏：每个气味只激活约 15% 的受体（REAL：气味是稀疏编码）
+    ★ 每个受体响应多种气味（交叉敏感）
+    """
+    rng = rng or np.random.default_rng(0)
+    # ★ 第一版用 random()**3 再乘 15% 稀疏 mask：
+    #   响应值太小且不重叠 → 类间距离≈类内噪声 → 识别率全是随机水平(0.03)
+    #   混合物抑制也测不出来（两个气味的非零位不重叠 → max+min=sum，比值1.000）
+    # ★ 修：值域放宽，稀疏度提到 45%（真实受体确实响应多种气味，必须重叠）
+    M = 0.3 + 0.7 * rng.random((n_odor, n_recep))
+    mask = (rng.random((n_odor, n_recep)) < sparsity)
+    return M * mask
+
+
+def normalize_response(R: np.ndarray, mode: str = "vector") -> np.ndarray:
+    """★ 浓度归一化 —— 电子鼻的必备预处理。
+
+    ★ 不做归一化，最近邻测到的是【浓度差】不是【种类差】
+      REAL：电子鼻信号预处理必做这一步
+    """
+    if mode == "vector":
+        n = np.linalg.norm(R, axis=1, keepdims=True)
+        return R / np.maximum(n, 1e-9)
+    if mode == "max":
+        return R / np.maximum(np.abs(R).max(axis=1, keepdims=True), 1e-9)
+    return R
+
+
+def make_dataset(M: np.ndarray, n_repeats: int, rng: np.random.Generator,
+                 conc_spread: float = 0.4, snr_db: float = 10.0):
+    """★ 生成 [label, response] 对齐的数据集。
+
+    ★ 第一版用 np.tile(M,(n_repeats,1)) 配 np.repeat(labels)
+      → 行顺序与标签【错位】，分类全是随机水平
+    """
+    n_odor = M.shape[0]
+    labels = np.repeat(np.arange(n_odor), n_repeats)      # 000..111..222
+    Mrep = np.repeat(M, n_repeats, axis=0)                # ★ 与 labels 对齐
+    conc = 1.0 + conc_spread * rng.random(len(labels))
+    K = receptor_K(M.shape[1], rng)
+    R = receptor_response(Mrep, conc, K=K)
+    # ★ 传感器噪声（REAL：电子鼻信噪比有限，约 10~20 dB）
+    #   第一版 noise=0、第二版 20 dB → 识别率仍饱和在 1.000
+    #   ★ 根因：类内距离≈0，加性漂移对所有样本相同，不改变最近邻结果
+    #     → 必须有【每样本独立】的噪声，类内距离才真实存在
+    #   改 10 dB（约 32%）后漂移/维数/温湿度才显出差异
+    if snr_db < 200:
+        sig = float(np.sqrt(np.mean(R ** 2)))
+        R = R + rng.normal(0.0, sig * 10 ** (-snr_db / 20.0), R.shape)
+    return R, labels, conc
+
+
+def receptor_K(n_recep: int, rng: np.random.Generator = None,
+               spread: float = 1.2) -> np.ndarray:
+    """★ 每个受体有【自己的】亲和度 K（EC50）。
+
+    ★ 第一版所有受体 K=1 → 浓度变化是纯乘性 → 归一化完全消除
+      → 类内距离恒为 0 → 分类永远 1.000 → 漂移也测不出效果
+    ★ 真实：不同受体对同一分子的亲和度差异很大（对数正态跨越数个量级）
+    """
+    rng = rng or np.random.default_rng(0)
+    return np.exp(rng.normal(0.0, spread, n_recep) * 0.5)
+
+
+def receptor_response(M: np.ndarray, conc: np.ndarray,
+                      hill_n: float = 1.6, K: np.ndarray = None
+                      ) -> np.ndarray:
+    """★ Hill 饱和响应（不是线性）。Hill 系数 REAL 约 1~3。
+
+    r = conc^n / (K^n + conc^n)   ★ K 逐受体不同
+    """
+    C = np.asarray(conc, float)[:, None]
+    if K is None:
+        K = np.ones(M.shape[1])
+    K = np.asarray(K, float)[None, :]
+    return (C ** hill_n) / (K ** hill_n + C ** hill_n) * M
+
+
+def competitive_binding(M_A: np.ndarray, M_B: np.ndarray,
+                        cA: float = 1.0, cB: float = 1.0,
+                        K: np.ndarray = None,
+                        rng: np.random.Generator = None) -> tuple:
+    """★ 竞争结合（REAL 的混合物抑制机制）。
+
+    ★ 两种分子【竞争同一受体的结合位点】→ 响应不是相加而是饱和竞争
+      r_AB = (cA·M_A + cB·M_B) / (1 + cA·M_A + cB·M_B)
+    ★ 这比"加权取大"更真实：受体总 occupancy 有上限
+    返回 (r_A, r_B, r_AB_linear, r_AB_competitive)
+    """
+    if K is None:
+        K = np.ones(M_A.shape[0])
+    K = np.asarray(K, float)
+    rA = (cA * M_A) / (K + cA * M_A)
+    rB = (cB * M_B) / (K + cB * M_B)
+    lin = rA + rB
+    comp = (cA * M_A + cB * M_B) / (K + cA * M_A + cB * M_B)
+    return rA, rB, lin, comp
+
+
+def mixture_suppression(r_A: np.ndarray, r_B: np.ndarray,
+                        beta: float = 0.35) -> np.ndarray:
+    """★ 混合物抑制（REAL）：A+B 的响应【小于】A 与 B 单独响应之和。
+
+    ★ 真实现象：mixture suppression / hypoadditivity
+      r_AB = max(r_A, r_B) + (1−β)·min(r_A, r_B)   ← 折中模型
+      β=0 → 完全线性相加；β=1 → 完全取最大（完全抑制）
+    """
+    hi = np.maximum(r_A, r_B)
+    lo = np.minimum(r_A, r_B)
+    return hi + (1.0 - beta) * lo
+
+
+# ================================================================
+# 二、可分性（★ 核心判据）
+# ================================================================
+def separability(feats: np.ndarray, labels: np.ndarray,
+                 rng: np.random.Generator = None,
+                 noise: float = 0.0) -> float:
+    """最近邻分类正确率（留出一份做测试）。
+
+    ★ feats: [n_sample, n_dim]；labels: [n_sample]
+    ★ 返回正确率 0~1
+    """
+    rng = rng or np.random.default_rng(0)
+    F = feats + noise * rng.standard_normal(feats.shape) if noise > 0 else feats
+    n = len(F)
+    idx = rng.permutation(n)
+    k = max(1, n // 3)
+    test, train = idx[:k], idx[k:]
+    correct = 0
+    for i in test:
+        d = np.linalg.norm(F[train] - F[i], axis=1)
+        correct += (labels[train[int(np.argmin(d))]] == labels[i])
+    return correct / k
+
+
+def single_vs_array(M: np.ndarray, n_repeats: int = 60,
+                    seed: int = 0, norm: bool = True
+                    ) -> tuple[float, float]:
+    """★ 单个传感器 vs 整列阵列 的识别率（核心对照）。"""
+    rng = np.random.default_rng(seed)
+    R, labels, _ = make_dataset(M, n_repeats, rng)
+    if norm:
+        R = normalize_response(R)
+    acc_arr = separability(R, labels, rng)
+    accs = [separability(normalize_response(R[:, [j]]) if norm else R[:, [j]],
+                         labels, rng) for j in range(M.shape[1])]
+    return float(np.mean(accs)), float(acc_arr)
+
+
+def dim_sweep(n_odor: int = 20, dims=(1, 2, 4, 8, 16, 32, 64, 128, 400),
+              n_repeats: int = 40, seed: int = 0):
+    """★ 维数扫描：可分性随受体数增加（应有饱和）。"""
+    rng = np.random.default_rng(seed)
+    out = []
+    for d in dims:
+        M = make_receptor_matrix(n_odor, d, rng=rng)
+        R, labels, _ = make_dataset(M, n_repeats, rng)
+        R = normalize_response(R)
+        out.append((d, separability(R, labels, rng)))
+    return out
+
+
+# ================================================================
+# 三、漂移 vs 再生
+# ================================================================
+def apply_drift(R: np.ndarray, days: float, rng: np.random.Generator = None,
+                pct_per_day: float = DRIFT_PCT_DAY) -> np.ndarray:
+    """★ 电子鼻基线漂移：每个传感器独立随机游走 + 增益漂移。"""
+    rng = rng or np.random.default_rng(0)
+    n_dim = R.shape[1]
+    base = rng.normal(0.0, pct_per_day / 100.0 * np.sqrt(days), n_dim)
+    gain = 1.0 + rng.normal(0.0, pct_per_day / 100.0 * np.sqrt(days), n_dim)
+    return R * gain + base
+
+
+def biological_renewal(R0: np.ndarray, R_drifted: np.ndarray, days: float,
+                       renew_days: float = REGENERATE_DAYS,
+                       rng: np.random.Generator = None) -> tuple:
+    """★ 生物鼻：受体持续再生 → 已更新受体的漂移被【撤销】。
+
+    ★ 机制：嗅神经元约 45 天换一批，新神经元带来全新的受体表达
+      → 已更新通道回到【出厂基线】，漂移不累积
+      → ★ 代价：气味记忆在这些通道上要重新校准
+    ★ 第一版只传 R0（无漂移），等于没施加漂移 → 生物鼻永远 1.000，对照失效
+    """
+    rng = rng or np.random.default_rng(0)
+    frac = min(1.0, days / renew_days)
+    renewed = rng.random(R0.shape[1]) < frac
+    R2 = R_drifted.copy()
+    R2[:, renewed] = R0[:, renewed]      # ★ 已再生的通道：漂移归零
+    return R2, float(renewed.mean())
+
+
+def drift_curve(M: np.ndarray, days_list=(0, 7, 30, 90, 180, 365),
+                n_repeats: int = 40, seed: int = 0, snr_db: float = 10.0):
+    """★ 漂移曲线：★ 训练集是【第0天的库】，测试集是【第d天采的样】。
+
+    ★ 前两版全部失败（识别率恒 1.000），根因：
+      train/test 从【同一批、同一天】的数据里划分
+      → 加性漂移对所有样本【相同】→ 不改变最近邻结果 → 漂移"测不出来"
+    ★ 真实场景：电子鼻出厂时建好气味库，用了 N 天后再测
+      → 库是旧的，样是新的，漂移【只在样本侧】→ 才致命
+    """
+    rng = np.random.default_rng(seed)
+    R0, labels, _ = make_dataset(M, n_repeats, rng, snr_db=snr_db)
+    Rn0 = normalize_response(R0)
+    # ★ 建库：每个气味的类均值作为模板（REAL：电子鼻出厂标定）
+    uniq = np.unique(labels)
+    tmpl = np.array([Rn0[labels == u].mean(axis=0) for u in uniq])
+    out = []
+    for d in days_list:
+        # 第 d 天重采一遍（新噪声 + 漂移）
+        Rd, labels_d, _ = make_dataset(M, n_repeats, rng, snr_db=snr_db)
+        R_e = apply_drift(Rd, float(d), rng)
+        acc_e = _match_templates(normalize_response(R_e), labels_d, tmpl, uniq)
+        R_b, frac = biological_renewal(Rd, apply_drift(Rd, float(d), rng),
+                                       float(d), rng=rng)
+        acc_b = _match_templates(normalize_response(R_b), labels_d, tmpl, uniq)
+        out.append((d, acc_e, acc_b, frac))
+    return out
+
+
+def _match_templates(F: np.ndarray, labels: np.ndarray,
+                     tmpl: np.ndarray, uniq: np.ndarray) -> float:
+    """用【第0天建的模板库】匹配当前样本，返回正确率。"""
+    correct = 0
+    for i in range(len(F)):
+        d = np.linalg.norm(tmpl - F[i], axis=1)
+        correct += (uniq[int(np.argmin(d))] == labels[i])
+    return correct / len(F)
+
+
+# ================================================================
+# 四、温湿度
+# ================================================================
+def env_effect(R: np.ndarray, rh: float = 0.5, temp_c: float = 25.0,
+               rh_ref: float = 0.5, temp_ref: float = 25.0) -> np.ndarray:
+    """★ MOS 对温湿度强依赖（未补偿时）。"""
+    f = 1.0 + RH_SENS * (rh - rh_ref) + TEMP_SENS * (temp_c - temp_ref) / 10.0
+    return R * f
+
+
+def env_compensate(R: np.ndarray, rh: float, temp_c: float,
+                   rh_ref: float = 0.5, temp_ref: float = 25.0) -> np.ndarray:
+    """★ 补偿：除以已知的环境因子（前提是你【测了】温湿度）。"""
+    f = 1.0 + RH_SENS * (rh - rh_ref) + TEMP_SENS * (temp_c - temp_ref) / 10.0
+    return R / f
+
+
+# ================================================================
+# 五、适应（生物）
+# ================================================================
+def olfactory_adaptation(t_s: np.ndarray, tau: float = 20.0,
+                         floor: float = 0.15) -> np.ndarray:
+    """★ 嗅觉适应：持续暴露响应指数衰减到 floor。
+
+    ★ REAL：时间常数数秒~数分钟，且【不会完全归零】
+    """
+    return floor + (1.0 - floor) * np.exp(-np.asarray(t_s, float) / tau)
+
+
+def sensor_saturation(t_s: np.ndarray, tau: float = T90_RESP_S) -> np.ndarray:
+    """★ 电子鼻：上升到饱和，【不衰减】（这是与生物适应的关键区别）。"""
+    return 1.0 - np.exp(-np.asarray(t_s, float) / tau)
+
+
+def recovery(t_s: np.ndarray, tau: float = T90_RECOV_S) -> np.ndarray:
+    return np.exp(-np.asarray(t_s, float) / tau)

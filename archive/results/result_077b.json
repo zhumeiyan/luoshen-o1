@@ -1,1 +1,26 @@
-ewogICJwYXJ0QSI6ICLlj6/pqozor4HnjofnibnlvILmgKfvvJrku4Xkurrnsbvor63kuYnojIPnlbTlj6/pqozor4EiLAogICJwYXJ0QiI6IHsKICAgICJ6ZXJvIjogewogICAgICAibW9kZSI6ICJ6ZXJvIiwKICAgICAgImFsaXZlIjogMTEsCiAgICAgICJuIjogMTYsCiAgICAgICJzdHJ1Y3Rfc2tldyI6IDAuMjYxODUzNTM1MzY0Mjc4MSwKICAgICAgInN0ZCI6IDAuMDMxMzQ3MjI2MTcwNjM4NzUKICAgIH0sCiAgICAiY29udCI6IHsKICAgICAgIm1vZGUiOiAiY29udCIsCiAgICAgICJhbGl2ZSI6IDksCiAgICAgICJuIjogMTYsCiAgICAgICJzdHJ1Y3Rfc2tldyI6IDAuMjg3MTg1NzYyMDk1OTU1OSwKICAgICAgInN0ZCI6IDAuMDQ3OTY5OTY4ODExMjg2MTUKICAgIH0sCiAgICAiYmFuZCI6IHsKICAgICAgIm1vZGUiOiAiYmFuZCIsCiAgICAgICJhbGl2ZSI6IDksCiAgICAgICJuIjogMTYsCiAgICAgICJzdHJ1Y3Rfc2tldyI6IDAuMjc5NzY1OTE3MzU4ODA0NDYsCiAgICAgICJzdGQiOiAwLjAyMzI1MzM0Nzg0NTc0MDM1CiAgICB9CiAgfQp9
+{
+  "partA": "可验证率特异性：仅人类语义范畴可验证",
+  "partB": {
+    "zero": {
+      "mode": "zero",
+      "alive": 11,
+      "n": 16,
+      "struct_skew": 0.2618535353642781,
+      "std": 0.03134722617063875
+    },
+    "cont": {
+      "mode": "cont",
+      "alive": 9,
+      "n": 16,
+      "struct_skew": 0.2871857620959559,
+      "std": 0.04796996881128615
+    },
+    "band": {
+      "mode": "band",
+      "alive": 9,
+      "n": 16,
+      "struct_skew": 0.27976591735880446,
+      "std": 0.02325334784574035
+    }
+  }
+}

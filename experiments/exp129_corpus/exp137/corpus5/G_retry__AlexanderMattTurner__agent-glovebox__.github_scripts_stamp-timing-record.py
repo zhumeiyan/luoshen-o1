@@ -1,1 +1,35 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJTdGFtcCB0aGUgY29tbWl0IGEgdGltaW5nIHJlY29yZCB3YXMgbWVhc3VyZWQgYXQgb250byB0aGUgcmVjb3JkLgoKYHBoYXNlLXRpbWVyLmJhc2hgIHdyaXRlcyB0aGUgbWVhc3VyZW1lbnQgYW5kIG5vdGhpbmcgYWJvdXQgd2hlcmUgaXQgY2FtZSBmcm9tLApiZWNhdXNlIHRoZSBzaGVsbCB0aGF0IG1lYXN1cmVzIGEgYm9vdHN0cmFwIGhhcyBubyBidXNpbmVzcyBrbm93aW5nIGFib3V0IGNvbW1pdHMuClRoZSBoaXN0b3J5IGxpbmUgbmVlZHMgYm90aCwgc28gdGhlIHJlY29yZGVyIGpvaW5zIHRoZW0gaGVyZSBhbmQgcHJpbnRzIE9ORSBjb21wYWN0CmxpbmUg4oCUIHRoZSBhcHBlbmQtb25seSBoaXN0b3J5IGZpbGUncyB1bml0LgoKVXNhZ2U6CiAgICBzdGFtcC10aW1pbmctcmVjb3JkLnB5IFJFQ09SRCAtLXNoYSBTSEEKIiIiCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGpzb24KZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgoKZGVmIG1haW4oYXJndjogbGlzdFtzdHJdIHwgTm9uZSA9IE5vbmUpIC0+IE5vbmU6CiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj1fX2RvY19fKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAicmVjb3JkIiwgdHlwZT1QYXRoLCBoZWxwPSJ0aGUgSlNPTiByZWNvcmQgcGhhc2UtdGltZXIuYmFzaCB3cm90ZSIKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tc2hhIiwgcmVxdWlyZWQ9VHJ1ZSwgaGVscD0idGhlIGNvbW1pdCB0aGUgcnVuIG1lYXN1cmVkIikKICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncyhhcmd2KQoKICAgIHJlY29yZCA9IGpzb24ubG9hZHMoYXJncy5yZWNvcmQucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgaWYgbm90IGlzaW5zdGFuY2UocmVjb3JkLCBkaWN0KSBvciAidG90YWxfbXMiIG5vdCBpbiByZWNvcmQ6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmInthcmdzLnJlY29yZH06IG5vdCBhIHRpbWluZyByZWNvcmQgKG5vIHRvdGFsX21zIGZpZWxkKSIpCiAgICBwcmludCgKICAgICAgICBqc29uLmR1bXBzKHsic2hhIjogYXJncy5zaGEsICoqcmVjb3JkfSwgc2VwYXJhdG9ycz0oIiwiLCAiOiIpLCBzb3J0X2tleXM9RmFsc2UpCiAgICApCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""Stamp the commit a timing record was measured at onto the record.
+
+`phase-timer.bash` writes the measurement and nothing about where it came from,
+because the shell that measures a bootstrap has no business knowing about commits.
+The history line needs both, so the recorder joins them here and prints ONE compact
+line — the append-only history file's unit.
+
+Usage:
+    stamp-timing-record.py RECORD --sha SHA
+"""
+
+import argparse
+import json
+from pathlib import Path
+
+
+def main(argv: list[str] | None = None) -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "record", type=Path, help="the JSON record phase-timer.bash wrote"
+    )
+    parser.add_argument("--sha", required=True, help="the commit the run measured")
+    args = parser.parse_args(argv)
+
+    record = json.loads(args.record.read_text(encoding="utf-8"))
+    if not isinstance(record, dict) or "total_ms" not in record:
+        raise SystemExit(f"{args.record}: not a timing record (no total_ms field)")
+    print(
+        json.dumps({"sha": args.sha, **record}, separators=(",", ":"), sort_keys=False)
+    )
+
+
+if __name__ == "__main__":
+    main()

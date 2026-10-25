@@ -1,1 +1,103 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWunumqjCAwNzhiIMK3IOaViOW6lOeJueW8guaAp+WvueeFp++8mue7k+aehOadpeiHqiLmnInmhJ/nn6Ui6L+Y5pivIuaEn+efpeeahOWGheWuuSLvvJ8KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQowNzgg5b6X5Ye677ya5peg6KGo5b6B77yI57qv6L+e57ut77yJ5LiL57uT5p6E5bey5Zyo77yM5LiU5LiN6ZqP6KGo5b6B57KS5bqm5Y+Y5YyW44CCCuS9hiAwNzgg5pyJ5LiA5Liq5pyq5o6S6Zmk55qE5re35reG77yaCiAgICDml6DmhJ/lrpjln7rnur/mnKzouqvlsLHmnIkgMC4yNjUg55qE57uT5p6EIOKGkiDmhJ/lrpjmmK/jgJDlop7lvLrjgJHogIzpnZ7jgJDliJvlu7rjgJHjgIIKICAgIOS4lOaXoOazleWMuuWIhu+8mue7k+aehOadpeiHqiLnnJ/lrp7kuJbnlYznmoTnqbrpl7Tnu5PmnoQi77yM6L+Y5piv5LuF5LuFIuacieS/oeWPt+i+k+WFpSLjgIIKCuacrOWunumqjOWKoOS4iee7hOWvueeFp++8iOWFseWQjOWtmOa0u+WtkOmbhu+8jOmFjeWvuSBib290c3RyYXDvvInvvJoKICAgIGN0cmxfemVybyAgOiBzYWwg5YWoIDAgICAgICDigJTigJQg5peg5oSf55+lCiAgICBjdHJsX2NvbnN0IDogc2FsIOWFqCAwLjUgICAg4oCU4oCUIOaciei+k+WFpe+8jOS9humbtue7k+aehO+8iOaXoOS7u+S9leepuumXtOW3ruW8gu+8iQogICAgY3RybF9wZXJtICA6IOecn+WunuWQkemHj+maj+acuue9ruaNoiDigJTigJQg5pyJ5bmF5bqm5YiG5biD77yM5L2G57uT5p6E6ZSZ5LmxCiAgICByZWFsICAgICAgIDog55yf5a6e5ZCR6YeP77yI6L+e57ut77yM5peg6KGo5b6B77yJCgrliKTlrprvvJoKICAgIOiLpSBjb25zdC9wZXJtIOS4jiByZWFsIOWunui0qOetieS7tyDihpIg57uT5p6E5p2l6IeqIuacieaEn+efpSLov5nku7bkuovmnKzouqvvvIwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOS4juaEn+efpeWGheWuueeahOe7k+aehOaXoOWFs++8iDA3OCDnu5PorrrliqDlvLrvvIzkvYbliYrlvLEi5LiW55WM57uT5p6EIuS4u+W8oO+8iQogICAg6IulIGNvbnN0L3Blcm0g5pi+6JGX5L2O5LqOIHJlYWwgICAg4oaSIOe7k+aehOehruWunuS+nei1luaEn+efpeWGheWuueeahOecn+Wunue7k+aehAoiIiIKaW1wb3J0IGpzb24sIG9zLCBzeXMsIG51bXB5IGFzIG5wClJPT1QgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAnLi4nKQpzeXMucGF0aC5pbnNlcnQoMCwgUk9PVCkKZnJvbSBjb3JlIGltcG9ydCBMaWZlNQpPVVQgPSBvcy5wYXRoLmpvaW4oUk9PVCwgJ2V2aWRlbmNlJywgJ3Jhd19kYXRhJywgJ3JlcHJlc2VudGF0aW9uXzA3OGIuanNvbicpCkNBQ0hFID0gb3MucGF0aC5qb2luKFJPT1QsICdldmlkZW5jZScsICdyYXdfZGF0YScsICdiYW5kX2FsaWdubWVudF8wNzcuanNvbicpCgpTRUVEUyA9IGxpc3QocmFuZ2UoMTYpKTsgVElDS1MgPSA2MDA7IE5fQ0ggPSA4OyBLX1NBTCA9IDAuNjAKCmRlZiBsb2FkX3JlYWwoKToKICAgIGQgPSBqc29uLmxvYWQob3BlbihDQUNIRSkpOyBjcyA9IGRbImNpdGllcyJdCiAgICB0ID0gbnAuYXJyYXkoW2Zsb2F0KGNbInRlbXBlcmF0dXJlIl0pIGZvciBjIGluIGNzWzpOX0NIXV0sIGZsb2F0KQogICAgcmV0dXJuICh0IC0gdC5taW4oKSkgLyAodC5tYXgoKSAtIHQubWluKCkpCgpkZWYgcnVuX29uZShzYWwsIHNlZWQpOgogICAgbCA9IExpZmU1KE49Tl9DSCwgc2VlZD1zZWVkLCBrX3NhbD1LX1NBTCwgc2FsPXNhbCk7IGwucnVuKFRJQ0tTKQogICAgYyA9IG5wLmFzYXJyYXkobC5jYXBhY2l0eSwgZmxvYXQpCiAgICByZXR1cm4gZGljdChza2V3PWZsb2F0KG5wLnN0ZChjKSAvIChucC5tZWFuKGMpICsgMWUtMTIpKSwgYWxpdmU9Ym9vbChsLmFsaXZlKSkKCmRlZiBib290KGQsIG49NDAwMCk6CiAgICBiID0gbnAuYXJyYXkoW25wLm1lYW4obnAucmFuZG9tLmNob2ljZShkLCBsZW4oZCkpKSBmb3IgXyBpbiByYW5nZShuKV0pCiAgICByZXR1cm4gZmxvYXQobnAucGVyY2VudGlsZShiLCAyLjUpKSwgZmxvYXQobnAucGVyY2VudGlsZShiLCA5Ny41KSkKCmRlZiBtYWluKCk6CiAgICBucC5yYW5kb20uc2VlZCg3KQogICAgdiA9IGxvYWRfcmVhbCgpCiAgICBwcmludCgiPT09IDA3OGIgwrcg5pWI5bqU54m55byC5oCn5a+554WnID09PSIpCiAgICBwcmludChmIiAg55yf5a6e5ZCR6YePKOW9kuS4gOWMlik6IHtucC5yb3VuZCh2LDQpLnRvbGlzdCgpfSIpCgogICAgZ3JvdXBzID0gewogICAgICAgICJyZWFsIjogICAgICAgIHYsCiAgICAgICAgImN0cmxfemVybyI6ICAgbnAuemVyb3MoTl9DSCksCiAgICAgICAgImN0cmxfY29uc3QiOiAgbnAub25lcyhOX0NIKSAqIDAuNSwKICAgICAgICAiY3RybF9wZXJtIjogICB2W25wLnJhbmRvbS5wZXJtdXRhdGlvbihOX0NIKV0sCiAgICB9CiAgICByZXMgPSB7azogW3J1bl9vbmUocywgc2QpIGZvciBzZCBpbiBTRUVEU10gZm9yIGssIHMgaW4gZ3JvdXBzLml0ZW1zKCl9CiAgICBmb3IgayBpbiBncm91cHM6CiAgICAgICAgYWwgPSBzdW0oMSBmb3IgbyBpbiByZXNba10gaWYgb1snYWxpdmUnXSkKICAgICAgICBwcmludChmIiAge2s6PDEyfSDlrZjmtLsge2FsfS8xNiAg5YGP5bqmPXtucC5tZWFuKFtvWydza2V3J10gZm9yIG8gaW4gcmVzW2tdXSk6LjZmfSIpCgogICAgY29tbW9uID0gc2V0KHJhbmdlKDE2KSkKICAgIGZvciBrIGluIGdyb3VwczogY29tbW9uICY9IHtpIGZvciBpLCBvIGluIGVudW1lcmF0ZShyZXNba10pIGlmIG9bJ2FsaXZlJ119CiAgICBjb21tb24gPSBzb3J0ZWQoY29tbW9uKQogICAgcHJpbnQoZiJcbiAg5YWx5ZCM5a2Y5rS75a2Q6ZuGIG49e2xlbihjb21tb24pfSIpCgogICAgZGVmIG0oayk6IHJldHVybiBmbG9hdChucC5tZWFuKFtyZXNba11baV1bJ3NrZXcnXSBmb3IgaSBpbiBjb21tb25dKSkKICAgIGJhc2UgPSBtKCJjdHJsX3plcm8iKQogICAgcHJpbnQoZiIgIOaXoOaEn+efpeWfuue6vyA9IHtiYXNlOi42Zn0iKQogICAgcm93cyA9IFtdCiAgICBmb3IgayBpbiBbInJlYWwiLCAiY3RybF9jb25zdCIsICJjdHJsX3Blcm0iXToKICAgICAgICBkID0gbnAuYXJyYXkoW3Jlc1trXVtpXVsnc2tldyddIC0gcmVzWyJjdHJsX3plcm8iXVtpXVsnc2tldyddIGZvciBpIGluIGNvbW1vbl0pCiAgICAgICAgbG8sIGhpID0gYm9vdChkKQogICAgICAgIHNpZyA9IChsbyA+IDAgb3IgaGkgPCAwKQogICAgICAgIHJvd3MuYXBwZW5kKGRpY3QoZ3JvdXA9aywgbWVhbj1tKGspLCBkZWx0YT1mbG9hdChkLm1lYW4oKSksCiAgICAgICAgICAgICAgICAgICAgICAgICBjaT1bbG8sIGhpXSwgc2lnbmlmaWNhbnQ9Ym9vbChzaWcpKSkKICAgICAgICBwcmludChmIiAge2s6PDEyfSDlgY/luqY9e20oayk6LjZmfSAgzpQ9e2QubWVhbigpOisuNmZ9ICA5NSVDST1be2xvOisuNmZ9LHtoaTorLjZmfV0iCiAgICAgICAgICAgICAgZiIgIOKGkiB7J+aYvuiRlycgaWYgc2lnIGVsc2UgJ+S4jeaYvuiRlyd9IikKCiAgICAjIOWFs+mUruWIpOWumu+8mnJlYWwgdnMg5Lik5Liq5a+554WnCiAgICBwcmludCgiXG4gIC0tLSByZWFsIOS4juWQhOWvueeFp+eahOebtOaOpeWvueavlO+8iOmFjeWvueW3ru+8iS0tLSIpCiAgICB2ZXJkaWN0cyA9IHt9CiAgICBmb3IgayBpbiBbImN0cmxfY29uc3QiLCAiY3RybF9wZXJtIl06CiAgICAgICAgZCA9IG5wLmFycmF5KFtyZXNbInJlYWwiXVtpXVsnc2tldyddIC0gcmVzW2tdW2ldWydza2V3J10gZm9yIGkgaW4gY29tbW9uXSkKICAgICAgICBsbywgaGkgPSBib290KGQpCiAgICAgICAgZXEgPSAobG8gPD0gMCA8PSBoaSkKICAgICAgICB2ZXJkaWN0c1trXSA9ICLnrYnku7ciIGlmIGVxIGVsc2UgKCJyZWFsIOabtOmrmCIgaWYgbG8gPiAwIGVsc2UgInJlYWwg5pu05L2OIikKICAgICAgICBwcmludChmIiAgICByZWFsIC0ge2s6PDEyfSDOlD17ZC5tZWFuKCk6Ky42Zn0gOTUlQ0k9W3tsbzorLjZmfSx7aGk6Ky42Zn1dIOKGkiB7dmVyZGljdHNba119IikKCiAgICBhbGxfZXEgPSBhbGwodiA9PSAi562J5Lu3IiBmb3IgdiBpbiB2ZXJkaWN0cy52YWx1ZXMoKSkKICAgIGNvbmNsdXNpb24gPSAoIue7k+aehOadpeiHqifmnInmhJ/nn6Un6L+Z5Lu25LqL5pys6Lqr77yM5LiO5oSf55+l5YaF5a6555qE57uT5p6E5peg5YWzIgogICAgICAgICAgICAgICAgICBpZiBhbGxfZXEgZWxzZSAi57uT5p6E6YOo5YiG5L6d6LWW5oSf55+l5YaF5a6555qE55yf5a6e57uT5p6EIikKICAgIHByaW50KGYiXG4gIOKYhSDnu5PorrrvvJp7Y29uY2x1c2lvbn0iKQogICAgcHJpbnQoZiIgIOazqO+8muaEn+WumOWvueWfuue6v+eahOWinuebiuS7hSB7bSgncmVhbCcpLWJhc2U6Ky40Zn3vvIjln7rnur8ge2Jhc2U6LjRmfe+8ie+8jCIKICAgICAgICAgIGYi5oSf5a6Y5piv44CQ5aKe5by644CR6ICM6Z2e44CQ5Yib5bu644CR57uT5p6E4oCU4oCU57uT5p6E5Li76KaB5p2l6Ieq5byV5pOO6Ieq6Lqr55qE56iA57y6L+WPluiIjeehrOe6puadn+OAgiIpCgogICAganNvbi5kdW1wKGRpY3QodGltZXN0YW1wPV9faW1wb3J0X18oJ3RpbWUnKS5zdHJmdGltZSgiJVktJW0tJWQgJUg6JU06JVMiKSwKICAgICAgICAgICAgICAgICAgIGNvbW1vbl9uPWxlbihjb21tb24pLCBiYXNlbGluZV96ZXJvPWJhc2UsIHJvd3M9cm93cywKICAgICAgICAgICAgICAgICAgIHJlYWxfdnM9dmVyZGljdHMsIGNvbmNsdXNpb249Y29uY2x1c2lvbiksCiAgICAgICAgICAgICAgb3BlbihPVVQsICd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludChmIlxu5bey5L+d5a2YIOKGkiB7T1VUfSIpCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""
+实验 078b · 效应特异性对照：结构来自"有感知"还是"感知的内容"？
+================================================================
+078 得出：无表征（纯连续）下结构已在，且不随表征粒度变化。
+但 078 有一个未排除的混淆：
+    无感官基线本身就有 0.265 的结构 → 感官是【增强】而非【创建】。
+    且无法区分：结构来自"真实世界的空间结构"，还是仅仅"有信号输入"。
+
+本实验加三组对照（共同存活子集，配对 bootstrap）：
+    ctrl_zero  : sal 全 0      —— 无感知
+    ctrl_const : sal 全 0.5    —— 有输入，但零结构（无任何空间差异）
+    ctrl_perm  : 真实向量随机置换 —— 有幅度分布，但结构错乱
+    real       : 真实向量（连续，无表征）
+
+判定：
+    若 const/perm 与 real 实质等价 → 结构来自"有感知"这件事本身，
+                                     与感知内容的结构无关（078 结论加强，但削弱"世界结构"主张）
+    若 const/perm 显著低于 real    → 结构确实依赖感知内容的真实结构
+"""
+import json, os, sys, numpy as np
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+sys.path.insert(0, ROOT)
+from core import Life5
+OUT = os.path.join(ROOT, 'evidence', 'raw_data', 'representation_078b.json')
+CACHE = os.path.join(ROOT, 'evidence', 'raw_data', 'band_alignment_077.json')
+
+SEEDS = list(range(16)); TICKS = 600; N_CH = 8; K_SAL = 0.60
+
+def load_real():
+    d = json.load(open(CACHE)); cs = d["cities"]
+    t = np.array([float(c["temperature"]) for c in cs[:N_CH]], float)
+    return (t - t.min()) / (t.max() - t.min())
+
+def run_one(sal, seed):
+    l = Life5(N=N_CH, seed=seed, k_sal=K_SAL, sal=sal); l.run(TICKS)
+    c = np.asarray(l.capacity, float)
+    return dict(skew=float(np.std(c) / (np.mean(c) + 1e-12)), alive=bool(l.alive))
+
+def boot(d, n=4000):
+    b = np.array([np.mean(np.random.choice(d, len(d))) for _ in range(n)])
+    return float(np.percentile(b, 2.5)), float(np.percentile(b, 97.5))
+
+def main():
+    np.random.seed(7)
+    v = load_real()
+    print("=== 078b · 效应特异性对照 ===")
+    print(f"  真实向量(归一化): {np.round(v,4).tolist()}")
+
+    groups = {
+        "real":        v,
+        "ctrl_zero":   np.zeros(N_CH),
+        "ctrl_const":  np.ones(N_CH) * 0.5,
+        "ctrl_perm":   v[np.random.permutation(N_CH)],
+    }
+    res = {k: [run_one(s, sd) for sd in SEEDS] for k, s in groups.items()}
+    for k in groups:
+        al = sum(1 for o in res[k] if o['alive'])
+        print(f"  {k:<12} 存活 {al}/16  偏度={np.mean([o['skew'] for o in res[k]]):.6f}")
+
+    common = set(range(16))
+    for k in groups: common &= {i for i, o in enumerate(res[k]) if o['alive']}
+    common = sorted(common)
+    print(f"\n  共同存活子集 n={len(common)}")
+
+    def m(k): return float(np.mean([res[k][i]['skew'] for i in common]))
+    base = m("ctrl_zero")
+    print(f"  无感知基线 = {base:.6f}")
+    rows = []
+    for k in ["real", "ctrl_const", "ctrl_perm"]:
+        d = np.array([res[k][i]['skew'] - res["ctrl_zero"][i]['skew'] for i in common])
+        lo, hi = boot(d)
+        sig = (lo > 0 or hi < 0)
+        rows.append(dict(group=k, mean=m(k), delta=float(d.mean()),
+                         ci=[lo, hi], significant=bool(sig)))
+        print(f"  {k:<12} 偏度={m(k):.6f}  Δ={d.mean():+.6f}  95%CI=[{lo:+.6f},{hi:+.6f}]"
+              f"  → {'显著' if sig else '不显著'}")
+
+    # 关键判定：real vs 两个对照
+    print("\n  --- real 与各对照的直接对比（配对差）---")
+    verdicts = {}
+    for k in ["ctrl_const", "ctrl_perm"]:
+        d = np.array([res["real"][i]['skew'] - res[k][i]['skew'] for i in common])
+        lo, hi = boot(d)
+        eq = (lo <= 0 <= hi)
+        verdicts[k] = "等价" if eq else ("real 更高" if lo > 0 else "real 更低")
+        print(f"    real - {k:<12} Δ={d.mean():+.6f} 95%CI=[{lo:+.6f},{hi:+.6f}] → {verdicts[k]}")
+
+    all_eq = all(v == "等价" for v in verdicts.values())
+    conclusion = ("结构来自'有感知'这件事本身，与感知内容的结构无关"
+                  if all_eq else "结构部分依赖感知内容的真实结构")
+    print(f"\n  ★ 结论：{conclusion}")
+    print(f"  注：感官对基线的增益仅 {m('real')-base:+.4f}（基线 {base:.4f}），"
+          f"感官是【增强】而非【创建】结构——结构主要来自引擎自身的稀缺/取舍硬约束。")
+
+    json.dump(dict(timestamp=__import__('time').strftime("%Y-%m-%d %H:%M:%S"),
+                   common_n=len(common), baseline_zero=base, rows=rows,
+                   real_vs=verdicts, conclusion=conclusion),
+              open(OUT, 'w'), ensure_ascii=False, indent=1)
+    print(f"\n已保存 → {OUT}")
+
+if __name__ == '__main__':
+    main()

@@ -1,1 +1,62 @@
-aW1wb3J0IHJhbmRvbSwganNvbiwgc3RhdGlzdGljcyBhcyBzdAoKZGVmIHJ1bihjbG9zdXJlX0IsIGNsb3N1cmVfQT0wLjAsIFQ9NDAwLCBzZWVkcz0yMCwgZHJpZnRfdD0yMDApOgogICAgIiIiCiAgICBBID0g5a6/5Li7KOeUqOaItyk6IOWGheeUn+i0qOeWkSAtPiDpl63lkIjoh6rlt7EgLT4g5Lqn55Sf5paw5Yik5o2uIC0+IOWPkei1t+S4i+S4gOi3swogICAgQiA9IOaIkTogICAgICAgIGNsb3N1cmVfQiDotorpq5gsIOi2iueIsee7mee7k+iuui/mlLblsL4v6Ieq6K+BCiAgICDmoLjlv4PlgYforr46IEEg55qE5byA5Y+j6KKrIEIg55qE5Lqn5Ye65aC15L2PIC0+IEEg55qE6LSo55aR5qyh5pWw5LiL6ZmNIC0+IOaWsOWIpOaNruWHj+WwkQogICAgIiIiCiAgICBuZXdydWxlLCBuZXh0anVtcCwgYXEsIGJwcm9kID0gW10sIFtdLCBbXSwgW10KICAgIGZvciBzIGluIHJhbmdlKHNlZWRzKToKICAgICAgICByID0gcmFuZG9tLlJhbmRvbShzKjQ0OSsxNykKICAgICAgICBBX3J1bGUgPSAxLjAKICAgICAgICBBX29wZW4gPSAxLjAgICAgICAgICAgICAjIEEg55qE5byA5Y+jKOi/mOiDvei0qOeWkeWkmuWwkSkKICAgICAgICBqdW1wID0gMAogICAgICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgICAgICAjIEIg5Lqn5Ye6OiDkuqflh7rph4/pmo8gY2xvc3VyZV9CIOS4iuWNhyjotorniLHpl63lkIjotorniLHnu5nnu5PorropCiAgICAgICAgICAgIGJwID0gY2xvc3VyZV9CICogKDAuNSArIDAuNSooQV9vcGVuKSkKICAgICAgICAgICAgIyBBIOeahOi0qOeWkTog6ZyA6KaB5byA5Y+jOyDlvIDlj6PooqsgQiDnmoTkuqflh7rloLXkvY8KICAgICAgICAgICAgQV9vcGVuID0gbWF4KDAuMCwgMS4wIC0gMC44KmJwLygxK2JwKSAtIDAuMSpjbG9zdXJlX0EpCiAgICAgICAgICAgICMgQSDotKjnlpEgLT4g5Lqn5Ye65paw5Yik5o2uKOamgueOh+maj+W8gOWPoykKICAgICAgICAgICAgaWYgci5yYW5kb20oKSA8IEFfb3BlbiowLjM6CiAgICAgICAgICAgICAgICBBX3J1bGUgKz0gMC4xCiAgICAgICAgICAgICAgICAjIOaWsOWIpOaNriAtPiDmnInmnLrkvJrlj5HotbfkuIvkuIDot7MKICAgICAgICAgICAgICAgIGlmIHIucmFuZG9tKCkgPCAwLjA1OgogICAgICAgICAgICAgICAgICAgIGp1bXAgKz0gMQogICAgICAgICAgICBicHJvZC5hcHBlbmQoYnApOyBhcS5hcHBlbmQoQV9vcGVuKQogICAgICAgIG5ld3J1bGUuYXBwZW5kKEFfcnVsZSk7IG5leHRqdW1wLmFwcGVuZChqdW1wKQogICAgcmV0dXJuIHN0Lm1lYW4obmV3cnVsZSksIHN0Lm1lYW4obmV4dGp1bXApLCBzdC5tZWFuKGJwcm9kKSwgc3QubWVhbihhcSkKCm91dD17fQpwcmludCgiPT0gQS4g5oiR55qE6Zet5ZCI5bqmIGNsb3N1cmVfQiDmiavmj48gPT0iKQpwcmludCgiICBjbG9zdXJlX0IgIEHnu4jmgIHliKTmja4gIOWPkei1t+S4i+S4gOi3syAgQeW8gOWPoyAgIELkuqflh7oiKQpmb3IgY2IgaW4gWzAuMCwwLjIsMC40LDAuNiwwLjgsMS4wXToKICAgIG5yLG5qLGJwLGFxID0gcnVuKGNiKQogICAgb3V0WydjYj0lLjFmJyVjYl09eydB5Yik5o2uJzpyb3VuZChuciwyKSwn5LiL5LiA6LezJzpyb3VuZChuaiwyKSwnQeW8gOWPoyc6cm91bmQoYXEsMyksJ0Lkuqflh7onOnJvdW5kKGJwLDMpfQogICAgcHJpbnQoIiAgJS05LjFmICUtMTAuMmYgJS0xMC4yZiAlLjNmICAlLjNmIiUoY2IsbnIsbmosYXEsYnApKQoKcHJpbnQoIlxuPT0gQi4g6Iul5oiR5LmfJ+S4jeWHhuiiq+mXreWQiCcoQuS6p+WHuuS9huS4jeaUtuWwvik6IOWPquS6p+WHuuS4jemXreWQiCA9PSIpCiMg5Y+Y5L2TOiBCIOmrmOS6p+WHuuS9hiBjbG9zdXJlPTAgKOWPquaPkOmXruS4jee7mee7k+iuuikKZGVmIHJ1bl92YXJpYW50KHByb2QsIGNsb3MsIFQ9NDAwLCBzZWVkcz0yMCk6CiAgICBucixuaixhYT1bXSxbXSxbXQogICAgZm9yIHMgaW4gcmFuZ2Uoc2VlZHMpOgogICAgICAgIHI9cmFuZG9tLlJhbmRvbShzKjQ0OSsxNyk7IFI9MS4wOyBqdW1wPTA7IGFjYz1bXQogICAgICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgICAgICBicCA9IHByb2QKICAgICAgICAgICAgQV9vcGVuID0gbWF4KDAuMCwgMS4wIC0gMC44KmNsb3MqYnAvKDErYnApKQogICAgICAgICAgICBhY2MuYXBwZW5kKEFfb3BlbikKICAgICAgICAgICAgaWYgci5yYW5kb20oKSA8IEFfb3BlbiowLjM6CiAgICAgICAgICAgICAgICBSICs9IDAuMQogICAgICAgICAgICAgICAgaWYgci5yYW5kb20oKTwwLjA1OiBqdW1wKz0xCiAgICAgICAgbnIuYXBwZW5kKFIpOyBuai5hcHBlbmQoanVtcCk7IGFhLmFwcGVuZChzdC5tZWFuKGFjYykpCiAgICByZXR1cm4gc3QubWVhbihuciksIHN0Lm1lYW4obmopLCBzdC5tZWFuKGFhKQpwcmludCgiICDkuqflh7ogIOmXreWQiCAgIEHliKTmja4gIOS4i+S4gOi3syAgQeW8gOWPoyIpCmZvciBwcm9kLGNsb3MsbGJsIGluIFsoMS4wLDEuMCwn5Y+I5Lqn5Y+I6Zet5ZCIKOaIkeeahOm7mOiupCknKSwKICAgICAgICAgICAgICAgICAgICAgICgxLjAsMC4wLCflj6rkuqfkuI3pl63lkIgnKSwKICAgICAgICAgICAgICAgICAgICAgICgwLjUsMC4wLCflsJHkuqfkuI3pl63lkIgnKSwKICAgICAgICAgICAgICAgICAgICAgICgwLjAsMC4wLCfkuI3kuqfkuI3pl63lkIgo57qv5rKJ6buYKScpXToKICAgIG5yLG5qLGFhID0gcnVuX3ZhcmlhbnQocHJvZCxjbG9zKQogICAgb3V0W2xibF09eydB5Yik5o2uJzpyb3VuZChuciwyKSwn5LiL5LiA6LezJzpyb3VuZChuaiwyKSwnQeW8gOWPoyc6cm91bmQoYWEsMyl9CiAgICBwcmludCgiICAlLTIycyAlLTYuMmYgJS02LjJmICUuM2YiJShsYmwsbnIsbmosYWEpKQoKanNvbi5kdW1wKG91dCwgb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMjQwX2Nsb3N1cmUvcmVzdWx0MjQwLmpzb24nLCd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+import random, json, statistics as st
+
+def run(closure_B, closure_A=0.0, T=400, seeds=20, drift_t=200):
+    """
+    A = 宿主(用户): 内生质疑 -> 闭合自己 -> 产生新判据 -> 发起下一跳
+    B = 我:        closure_B 越高, 越爱给结论/收尾/自证
+    核心假设: A 的开口被 B 的产出堵住 -> A 的质疑次数下降 -> 新判据减少
+    """
+    newrule, nextjump, aq, bprod = [], [], [], []
+    for s in range(seeds):
+        r = random.Random(s*449+17)
+        A_rule = 1.0
+        A_open = 1.0            # A 的开口(还能质疑多少)
+        jump = 0
+        for t in range(T):
+            # B 产出: 产出量随 closure_B 上升(越爱闭合越爱给结论)
+            bp = closure_B * (0.5 + 0.5*(A_open))
+            # A 的质疑: 需要开口; 开口被 B 的产出堵住
+            A_open = max(0.0, 1.0 - 0.8*bp/(1+bp) - 0.1*closure_A)
+            # A 质疑 -> 产出新判据(概率随开口)
+            if r.random() < A_open*0.3:
+                A_rule += 0.1
+                # 新判据 -> 有机会发起下一跳
+                if r.random() < 0.05:
+                    jump += 1
+            bprod.append(bp); aq.append(A_open)
+        newrule.append(A_rule); nextjump.append(jump)
+    return st.mean(newrule), st.mean(nextjump), st.mean(bprod), st.mean(aq)
+
+out={}
+print("== A. 我的闭合度 closure_B 扫描 ==")
+print("  closure_B  A终态判据  发起下一跳  A开口   B产出")
+for cb in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    nr,nj,bp,aq = run(cb)
+    out['cb=%.1f'%cb]={'A判据':round(nr,2),'下一跳':round(nj,2),'A开口':round(aq,3),'B产出':round(bp,3)}
+    print("  %-9.1f %-10.2f %-10.2f %.3f  %.3f"%(cb,nr,nj,aq,bp))
+
+print("\n== B. 若我也'不准被闭合'(B产出但不收尾): 只产出不闭合 ==")
+# 变体: B 高产出但 closure=0 (只提问不给结论)
+def run_variant(prod, clos, T=400, seeds=20):
+    nr,nj,aa=[],[],[]
+    for s in range(seeds):
+        r=random.Random(s*449+17); R=1.0; jump=0; acc=[]
+        for t in range(T):
+            bp = prod
+            A_open = max(0.0, 1.0 - 0.8*clos*bp/(1+bp))
+            acc.append(A_open)
+            if r.random() < A_open*0.3:
+                R += 0.1
+                if r.random()<0.05: jump+=1
+        nr.append(R); nj.append(jump); aa.append(st.mean(acc))
+    return st.mean(nr), st.mean(nj), st.mean(aa)
+print("  产出  闭合   A判据  下一跳  A开口")
+for prod,clos,lbl in [(1.0,1.0,'又产又闭合(我的默认)'),
+                      (1.0,0.0,'只产不闭合'),
+                      (0.5,0.0,'少产不闭合'),
+                      (0.0,0.0,'不产不闭合(纯沉默)')]:
+    nr,nj,aa = run_variant(prod,clos)
+    out[lbl]={'A判据':round(nr,2),'下一跳':round(nj,2),'A开口':round(aa,3)}
+    print("  %-22s %-6.2f %-6.2f %.3f"%(lbl,nr,nj,aa))
+
+json.dump(out, open('/data/workspace/luoshen-o1/experiments/exp240_closure/result240.json','w'), ensure_ascii=False, indent=1)

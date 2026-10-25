@@ -1,1 +1,24 @@
-ewogICJMNSI6IHsKICAgICJjb3VwbGVkIjogewogICAgICAidGVfQV90b19CIjogLTAuMzkwNzQyNzY0ODMyMjY0NTYsCiAgICAgICJ0ZV9CX3RvX0EiOiAtMC43NDAxODcxOTQyNzczNDksCiAgICAgICJ0ZV9kaWZmIjogMC4zNDk0NDQ0Mjk0NDUwODQ0NywKICAgICAgIm1pcnJvcl9hY2MiOiAxLjAKICAgIH0sCiAgICAiaW5kZXBlbmRlbnQiOiB7CiAgICAgICJ0ZV9BX3RvX0IiOiAtMS4yNjc2NTMwMTU0MDY5MDM0LAogICAgICAidGVfQl90b19BIjogLTEuMzA4MTkyMTkwNTEwNDMxLAogICAgICAidGVfZGlmZiI6IDAuMDQwNTM5MTc1MTAzNTI3NTYsCiAgICAgICJtaXJyb3JfYWNjIjogMS4wCiAgICB9LAogICAgIm1pcnJvcl9zd2VlcCI6IHsKICAgICAgIjEuMCI6IDAuNTMzMzMzMzMzMzMzMzMzMywKICAgICAgIjAuOSI6IDAuODIsCiAgICAgICIwLjYiOiAxLjAsCiAgICAgICIwLjAiOiAxLjAKICAgIH0sCiAgICAibWlycm9yX2ZhbHNpZmlhYmxlIjogdHJ1ZSwKICAgICJwYXNzXyI6IHRydWUKICB9Cn0=
+{
+  "L5": {
+    "coupled": {
+      "te_A_to_B": -0.39074276483226456,
+      "te_B_to_A": -0.740187194277349,
+      "te_diff": 0.34944442944508447,
+      "mirror_acc": 1.0
+    },
+    "independent": {
+      "te_A_to_B": -1.2676530154069034,
+      "te_B_to_A": -1.308192190510431,
+      "te_diff": 0.04053917510352756,
+      "mirror_acc": 1.0
+    },
+    "mirror_sweep": {
+      "1.0": 0.5333333333333333,
+      "0.9": 0.82,
+      "0.6": 1.0,
+      "0.0": 1.0
+    },
+    "mirror_falsifiable": true,
+    "pass_": true
+  }
+}

@@ -1,1 +1,90 @@
-IyBNSVQgTGljZW5zZQoKIyBDb3B5cmlnaHQgKGMpIDIwMjQgVGFyYXRyYSBELiBSQUhBUklTT04gYW5kIFRoZSBIdWdnaW5nRmFjZSBUZWFtCgojIFBlcm1pc3Npb24gaXMgaGVyZWJ5IGdyYW50ZWQsIGZyZWUgb2YgY2hhcmdlLCB0byBhbnkgcGVyc29uIG9idGFpbmluZyBhIGNvcHkKIyBvZiB0aGlzIHNvZnR3YXJlIGFuZCBhc3NvY2lhdGVkIGRvY3VtZW50YXRpb24gZmlsZXMgKHRoZSAiU29mdHdhcmUiKSwgdG8gZGVhbAojIGluIHRoZSBTb2Z0d2FyZSB3aXRob3V0IHJlc3RyaWN0aW9uLCBpbmNsdWRpbmcgd2l0aG91dCBsaW1pdGF0aW9uIHRoZSByaWdodHMKIyB0byB1c2UsIGNvcHksIG1vZGlmeSwgbWVyZ2UsIHB1Ymxpc2gsIGRpc3RyaWJ1dGUsIHN1YmxpY2Vuc2UsIGFuZC9vciBzZWxsCiMgY29waWVzIG9mIHRoZSBTb2Z0d2FyZSwgYW5kIHRvIHBlcm1pdCBwZXJzb25zIHRvIHdob20gdGhlIFNvZnR3YXJlIGlzCiMgZnVybmlzaGVkIHRvIGRvIHNvLCBzdWJqZWN0IHRvIHRoZSBmb2xsb3dpbmcgY29uZGl0aW9uczoKCiMgVGhlIGFib3ZlIGNvcHlyaWdodCBub3RpY2UgYW5kIHRoaXMgcGVybWlzc2lvbiBub3RpY2Ugc2hhbGwgYmUgaW5jbHVkZWQgaW4gYWxsCiMgY29waWVzIG9yIHN1YnN0YW50aWFsIHBvcnRpb25zIG9mIHRoZSBTb2Z0d2FyZS4KCiMgVEhFIFNPRlRXQVJFIElTIFBST1ZJREVEICJBUyBJUyIsIFdJVEhPVVQgV0FSUkFOVFkgT0YgQU5ZIEtJTkQsIEVYUFJFU1MgT1IKIyBJTVBMSUVELCBJTkNMVURJTkcgQlVUIE5PVCBMSU1JVEVEIFRPIFRIRSBXQVJSQU5USUVTIE9GIE1FUkNIQU5UQUJJTElUWSwKIyBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRSBBTkQgTk9OSU5GUklOR0VNRU5ULiBJTiBOTyBFVkVOVCBTSEFMTCBUSEUKIyBBVVRIT1JTIE9SIENPUFlSSUdIVCBIT0xERVJTIEJFIExJQUJMRSBGT1IgQU5ZIENMQUlNLCBEQU1BR0VTIE9SIE9USEVSCiMgTElBQklMSVRZLCBXSEVUSEVSIElOIEFOIEFDVElPTiBPRiBDT05UUkFDVCwgVE9SVCBPUiBPVEhFUldJU0UsIEFSSVNJTkcgRlJPTSwKIyBPVVQgT0YgT1IgSU4gQ09OTkVDVElPTiBXSVRIIFRIRSBTT0ZUV0FSRSBPUiBUSEUgVVNFIE9SIE9USEVSIERFQUxJTkdTIElOIFRIRQojIFNPRlRXQVJFLgppbXBvcnQgbG9nZ2luZwppbXBvcnQgbG9nZ2luZy5jb25maWcKCmltcG9ydCBjb2xvcmxvZwppbXBvcnQgdHlwZXIKCmltcG9ydCBsaWdodGV2YWwubWFpbl9hY2NlbGVyYXRlCmltcG9ydCBsaWdodGV2YWwubWFpbl9iYXNlbGluZQppbXBvcnQgbGlnaHRldmFsLm1haW5fY3VzdG9tCmltcG9ydCBsaWdodGV2YWwubWFpbl9lbmRwb2ludAppbXBvcnQgbGlnaHRldmFsLm1haW5faW5zcGVjdAppbXBvcnQgbGlnaHRldmFsLm1haW5fbmFub3Ryb24KaW1wb3J0IGxpZ2h0ZXZhbC5tYWluX3NnbGFuZwppbXBvcnQgbGlnaHRldmFsLm1haW5fdGFza3MKaW1wb3J0IGxpZ2h0ZXZhbC5tYWluX3ZsbG0KCgphcHAgPSB0eXBlci5UeXBlcigpCmFwcCA9IHR5cGVyLlR5cGVyKHByZXR0eV9leGNlcHRpb25zX3Nob3dfbG9jYWxzPUZhbHNlKQoKbG9nZ2luZ19jb25maWcgPSBkaWN0KCAgIyBub3FhIEM0MDgKICAgIHZlcnNpb249MSwKICAgIGZvcm1hdHRlcnM9ewogICAgICAgICJjIjogewogICAgICAgICAgICAiKCkiOiBjb2xvcmxvZy5Db2xvcmVkRm9ybWF0dGVyLAogICAgICAgICAgICAiZm9ybWF0IjogIlslKGFzY3RpbWUpc10gWyUobG9nX2NvbG9yKXMlKGxldmVsbmFtZSk4cyUocmVzZXQpc106ICUobWVzc2FnZSlzICglKGZpbGVuYW1lKXM6JShsaW5lbm8pcykiLAogICAgICAgICAgICAibG9nX2NvbG9ycyI6IHsKICAgICAgICAgICAgICAgICJERUJVRyI6ICJjeWFuIiwKICAgICAgICAgICAgICAgICJJTkZPIjogImdyZWVuIiwKICAgICAgICAgICAgICAgICJXQVJOSU5HIjogInllbGxvdyIsCiAgICAgICAgICAgICAgICAiRVJST1IiOiAicmVkIiwKICAgICAgICAgICAgICAgICJDUklUSUNBTCI6ICJyZWQsYmdfd2hpdGUiLAogICAgICAgICAgICB9LAogICAgICAgIH0sCiAgICB9LAogICAgaGFuZGxlcnM9eyJoIjogeyJjbGFzcyI6ICJsb2dnaW5nLlN0cmVhbUhhbmRsZXIiLCAiZm9ybWF0dGVyIjogImMiLCAibGV2ZWwiOiBsb2dnaW5nLklORk99fSwKICAgIHJvb3Q9ewogICAgICAgICJoYW5kbGVycyI6IFsiaCJdLAogICAgICAgICJsZXZlbCI6IGxvZ2dpbmcuSU5GTywKICAgIH0sCikKCmxvZ2dpbmcuY29uZmlnLmRpY3RDb25maWcobG9nZ2luZ19jb25maWcpCmxvZ2dpbmcuY2FwdHVyZVdhcm5pbmdzKGNhcHR1cmU9VHJ1ZSkKCmFwcC5jb21tYW5kKHJpY2hfaGVscF9wYW5lbD0iRXZhbHVhdGlvbiBCYWNrZW5kcyIpKGxpZ2h0ZXZhbC5tYWluX2FjY2VsZXJhdGUuYWNjZWxlcmF0ZSkKYXBwLmNvbW1hbmQocmljaF9oZWxwX3BhbmVsPSJFdmFsdWF0aW9uIFV0aWxzIikobGlnaHRldmFsLm1haW5fYmFzZWxpbmUuYmFzZWxpbmUpCmFwcC5jb21tYW5kKHJpY2hfaGVscF9wYW5lbD0iRXZhbHVhdGlvbiBCYWNrZW5kcyIpKGxpZ2h0ZXZhbC5tYWluX25hbm90cm9uLm5hbm90cm9uKQphcHAuY29tbWFuZChyaWNoX2hlbHBfcGFuZWw9IkV2YWx1YXRpb24gQmFja2VuZHMiKShsaWdodGV2YWwubWFpbl92bGxtLnZsbG0pCmFwcC5jb21tYW5kKHJpY2hfaGVscF9wYW5lbD0iRXZhbHVhdGlvbiBCYWNrZW5kcyIpKGxpZ2h0ZXZhbC5tYWluX2N1c3RvbS5jdXN0b20pCmFwcC5jb21tYW5kKHJpY2hfaGVscF9wYW5lbD0iRXZhbHVhdGlvbiBCYWNrZW5kcyIpKGxpZ2h0ZXZhbC5tYWluX3NnbGFuZy5zZ2xhbmcpCmFwcC5jb21tYW5kKHJpY2hfaGVscF9wYW5lbD0iRXZhbHVhdGlvbiBCYWNrZW5kcyIpKGxpZ2h0ZXZhbC5tYWluX2luc3BlY3QuZXZhbCkKYXBwLmNvbW1hbmQocmljaF9oZWxwX3BhbmVsPSJFdmFsdWF0aW9uVXRpbHMiKShsaWdodGV2YWwubWFpbl9pbnNwZWN0LmJ1bmRsZSkKYXBwLmFkZF90eXBlcigKICAgIGxpZ2h0ZXZhbC5tYWluX2VuZHBvaW50LmFwcCwKICAgIG5hbWU9ImVuZHBvaW50IiwKICAgIHJpY2hfaGVscF9wYW5lbD0iRXZhbHVhdGlvbiBCYWNrZW5kcyIsCiAgICBoZWxwPSJFdmFsdWF0ZSBtb2RlbHMgdXNpbmcgc29tZSBlbmRwb2ludCAodGdpLCBpbmZlcmVuY2UgZW5kcG9pbnQsIG9wZW5haSkgYXMgYmFja2VuZC4iLAopCmFwcC5hZGRfdHlwZXIoCiAgICBsaWdodGV2YWwubWFpbl90YXNrcy5hcHAsCiAgICBuYW1lPSJ0YXNrcyIsCiAgICByaWNoX2hlbHBfcGFuZWw9IlV0aWxzIiwKICAgIGhlbHA9Ikxpc3Qgb3IgaW5zcGVjdCB0YXNrcy4iLAopCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGFwcCgpCg==
+# MIT License
+
+# Copyright (c) 2024 Taratra D. RAHARISON and The HuggingFace Team
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+import logging
+import logging.config
+
+import colorlog
+import typer
+
+import lighteval.main_accelerate
+import lighteval.main_baseline
+import lighteval.main_custom
+import lighteval.main_endpoint
+import lighteval.main_inspect
+import lighteval.main_nanotron
+import lighteval.main_sglang
+import lighteval.main_tasks
+import lighteval.main_vllm
+
+
+app = typer.Typer()
+app = typer.Typer(pretty_exceptions_show_locals=False)
+
+logging_config = dict(  # noqa C408
+    version=1,
+    formatters={
+        "c": {
+            "()": colorlog.ColoredFormatter,
+            "format": "[%(asctime)s] [%(log_color)s%(levelname)8s%(reset)s]: %(message)s (%(filename)s:%(lineno)s)",
+            "log_colors": {
+                "DEBUG": "cyan",
+                "INFO": "green",
+                "WARNING": "yellow",
+                "ERROR": "red",
+                "CRITICAL": "red,bg_white",
+            },
+        },
+    },
+    handlers={"h": {"class": "logging.StreamHandler", "formatter": "c", "level": logging.INFO}},
+    root={
+        "handlers": ["h"],
+        "level": logging.INFO,
+    },
+)
+
+logging.config.dictConfig(logging_config)
+logging.captureWarnings(capture=True)
+
+app.command(rich_help_panel="Evaluation Backends")(lighteval.main_accelerate.accelerate)
+app.command(rich_help_panel="Evaluation Utils")(lighteval.main_baseline.baseline)
+app.command(rich_help_panel="Evaluation Backends")(lighteval.main_nanotron.nanotron)
+app.command(rich_help_panel="Evaluation Backends")(lighteval.main_vllm.vllm)
+app.command(rich_help_panel="Evaluation Backends")(lighteval.main_custom.custom)
+app.command(rich_help_panel="Evaluation Backends")(lighteval.main_sglang.sglang)
+app.command(rich_help_panel="Evaluation Backends")(lighteval.main_inspect.eval)
+app.command(rich_help_panel="EvaluationUtils")(lighteval.main_inspect.bundle)
+app.add_typer(
+    lighteval.main_endpoint.app,
+    name="endpoint",
+    rich_help_panel="Evaluation Backends",
+    help="Evaluate models using some endpoint (tgi, inference endpoint, openai) as backend.",
+)
+app.add_typer(
+    lighteval.main_tasks.app,
+    name="tasks",
+    rich_help_panel="Utils",
+    help="List or inspect tasks.",
+)
+
+
+if __name__ == "__main__":
+    app()

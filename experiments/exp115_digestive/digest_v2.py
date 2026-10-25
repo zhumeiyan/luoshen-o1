@@ -1,1 +1,68 @@
-IiIiRGlnZXN0aXZlU3lzdGVtIHYyOiDnnJ/ku6PosKLniYjjgILkv67kuInkuKogYnVn77ya5peg5raI6ICXL+WFg+WGheWuueiiq+aOki/kuI3liIfoi7HmlofjgIIiIiIKaW1wb3J0IHJlLCBoYXNobGliCgpfU0VOVF9TUExJVCA9IHJlLmNvbXBpbGUocicoPzw9W+OAgu+8ji4h77yBP++8nzvvvJtdKVxzKicpCl9NRVRBID0gcmUuY29tcGlsZShyJyjor4bliKt86L+H5rukfOajgOa1i3zmi6bmiKp856CU56m2fOWIhuaekHzmiZPlh7t85rK755CGKS57MCw0fSjlvannpah86aqX5bGAfOiviOmql3zlnoPlnL4pJykKX0pVTksgPSByZS5jb21waWxlKHInKOW9qeelqHzpqpflsYApJykKCmNsYXNzIEJyYWluOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGVuZXJneT0xMDAuMCwgY2FwPTIwMC4wKToKICAgICAgICBzZWxmLmVuZXJneV9iID0gZW5lcmd5OyBzZWxmLmNhcCA9IGNhcDsgc2VsZi5jaGFpbiA9IFtdCiAgICAgICAgc2VsZi5zZWVuID0gc2V0KCkKICAgIGRlZiBfd3JpdGVfaGFzaChzZWxmLCB0ZXh0KToKICAgICAgICBoID0gaGFzaGxpYi5zaGEyNTYodGV4dC5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjE2XQogICAgICAgIHNlbGYuY2hhaW4uYXBwZW5kKGgpOyBzZWxmLnNlZW4uYWRkKGgpOyByZXR1cm4gaAoKY2xhc3MgRGlnZXN0aXZlU3lzdGVtOgogICAgIyDku6PosKLmiJDmnKzooajvvJrmr4/kuKrlmajlrpjlubLmtLvpg73opoHng6fog73ph48KICAgIENPU1QgPSB7ImNoZXdfcGVyX2NoYXIiOiAwLjAwMSwgImRpZ2VzdF9wZXJfY2h1bmsiOiAwLjUsICJhYnNvcmJfcGVyX2l0ZW0iOiAxLjJ9CiAgICBHQUlOID0gNS4wCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJyYWluKToKICAgICAgICBzZWxmLmJyYWluID0gYnJhaW4KICAgICAgICBzZWxmLmxvZyA9IFtdCgogICAgZGVmIF9idXJuKHNlbGYsIGFtb3VudCwgd2h5KToKICAgICAgICBzZWxmLmJyYWluLmVuZXJneV9iIC09IGFtb3VudAogICAgICAgIHNlbGYubG9nLmFwcGVuZChmImJ1cm4gLXthbW91bnQ6LjNmfSAoe3doeX0pIikKICAgICAgICByZXR1cm4gc2VsZi5icmFpbi5lbmVyZ3lfYgoKICAgIGRlZiBtb3V0aF9jaGV3KHNlbGYsIHJhd19odG1sKToKICAgICAgICBjbGVhbiA9IHJlLnN1YihyJzxbXj5dKz4nLCAnJywgcmF3X2h0bWwpCiAgICAgICAgY2h1bmtzID0gW2Muc3RyaXAoKSBmb3IgYyBpbiBfU0VOVF9TUExJVC5zcGxpdChjbGVhbildCiAgICAgICAgY2h1bmtzID0gW2MgZm9yIGMgaW4gY2h1bmtzIGlmIGNdICAgICAgICAgICMg5L+uOiDljrvnqbrkuLIKICAgICAgICBzZWxmLl9idXJuKGxlbihjbGVhbikgKiBzZWxmLkNPU1RbImNoZXdfcGVyX2NoYXIiXSwgIuWSgOWavCIpCiAgICAgICAgcmV0dXJuIGNodW5rcwoKICAgIGRlZiBzdG9tYWNoX2RpZ2VzdChzZWxmLCBjaHVua3MpOgogICAgICAgIHZhbGlkLCB3YXN0ZSA9IFtdLCBbXQogICAgICAgIGZvciBjIGluIGNodW5rczoKICAgICAgICAgICAgc2VsZi5fYnVybihzZWxmLkNPU1RbImRpZ2VzdF9wZXJfY2h1bmsiXSwgIuiDg+mFuCIpCiAgICAgICAgICAgIGlmIF9NRVRBLnNlYXJjaChjKTogICAgICAgICAgICAgICAgICAgICAjIOS/rjog6K6y5Z6D5Zy+55qE5YWD5YaF5a655LiN5piv5Z6D5Zy+CiAgICAgICAgICAgICAgICB2YWxpZC5hcHBlbmQoYyk7IGNvbnRpbnVlCiAgICAgICAgICAgIGlmIF9KVU5LLnNlYXJjaChjKSBhbmQgbm90IF9NRVRBLnNlYXJjaChjKToKICAgICAgICAgICAgICAgIHdhc3RlLmFwcGVuZChjKTsgY29udGludWUKICAgICAgICAgICAgaWYgbGVuKGMpIDwgNToKICAgICAgICAgICAgICAgIHdhc3RlLmFwcGVuZChjKTsgY29udGludWUKICAgICAgICAgICAgdmFsaWQuYXBwZW5kKGMpCiAgICAgICAgcmV0dXJuIHZhbGlkLCB3YXN0ZQoKICAgIGRlZiBpbnRlc3RpbmVfYWJzb3JiKHNlbGYsIHZhbGlkKToKICAgICAgICBhYnNvcmJlZCA9IDAKICAgICAgICBmb3IgZm9vZCBpbiB2YWxpZDoKICAgICAgICAgICAgc2VsZi5fYnVybihzZWxmLkNPU1RbImFic29yYl9wZXJfaXRlbSJdLCAi5ZC45pS2IikKICAgICAgICAgICAgaCA9IHNlbGYuYnJhaW4uX3dyaXRlX2hhc2goZiLlkLjmlLbmg4XmiqU6IHtmb29kfSIpCiAgICAgICAgICAgIGZyZXNoID0gaCBub3QgaW4gW3ggZm9yIHggaW4gc2VsZi5icmFpbi5jaGFpbls6LTFdXSAgICMg5L+uOiDljrvph40KICAgICAgICAgICAgaWYgZnJlc2g6CiAgICAgICAgICAgICAgICByb29tID0gbWluKHNlbGYuR0FJTiwgc2VsZi5icmFpbi5jYXAgLSBzZWxmLmJyYWluLmVuZXJneV9iKSAgIyDkv646IOmlseiFueS4iumZkAogICAgICAgICAgICAgICAgaWYgcm9vbSA+IDA6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5icmFpbi5lbmVyZ3lfYiArPSByb29tCiAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2cuYXBwZW5kKGYiZ2FpbiAre3Jvb206LjJmfSIpCiAgICAgICAgICAgICAgICAgICAgYWJzb3JiZWQgKz0gMQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc2VsZi5sb2cuYXBwZW5kKCJkdXA6IDAgZ2FpbiIpCiAgICAgICAgcmV0dXJuIGFic29yYmVkCgogICAgZGVmIGV4Y3JldGUoc2VsZiwgd2FzdGUpOgogICAgICAgIHNlbGYuX2J1cm4oMC4xICogbGVuKHdhc3RlKSwgIuaOkuazhCIpCiAgICAgICAgcmV0dXJuIGxlbih3YXN0ZSkK
+"""DigestiveSystem v2: 真代谢版。修三个 bug：无消耗/元内容被排/不切英文。"""
+import re, hashlib
+
+_SENT_SPLIT = re.compile(r'(?<=[。．.!！?？;；])\s*')
+_META = re.compile(r'(识别|过滤|检测|拦截|研究|分析|打击|治理).{0,4}(彩票|骗局|诈骗|垃圾)')
+_JUNK = re.compile(r'(彩票|骗局)')
+
+class Brain:
+    def __init__(self, energy=100.0, cap=200.0):
+        self.energy_b = energy; self.cap = cap; self.chain = []
+        self.seen = set()
+    def _write_hash(self, text):
+        h = hashlib.sha256(text.encode()).hexdigest()[:16]
+        self.chain.append(h); self.seen.add(h); return h
+
+class DigestiveSystem:
+    # 代谢成本表：每个器官干活都要烧能量
+    COST = {"chew_per_char": 0.001, "digest_per_chunk": 0.5, "absorb_per_item": 1.2}
+    GAIN = 5.0
+
+    def __init__(self, brain):
+        self.brain = brain
+        self.log = []
+
+    def _burn(self, amount, why):
+        self.brain.energy_b -= amount
+        self.log.append(f"burn -{amount:.3f} ({why})")
+        return self.brain.energy_b
+
+    def mouth_chew(self, raw_html):
+        clean = re.sub(r'<[^>]+>', '', raw_html)
+        chunks = [c.strip() for c in _SENT_SPLIT.split(clean)]
+        chunks = [c for c in chunks if c]          # 修: 去空串
+        self._burn(len(clean) * self.COST["chew_per_char"], "咀嚼")
+        return chunks
+
+    def stomach_digest(self, chunks):
+        valid, waste = [], []
+        for c in chunks:
+            self._burn(self.COST["digest_per_chunk"], "胃酸")
+            if _META.search(c):                     # 修: 讲垃圾的元内容不是垃圾
+                valid.append(c); continue
+            if _JUNK.search(c) and not _META.search(c):
+                waste.append(c); continue
+            if len(c) < 5:
+                waste.append(c); continue
+            valid.append(c)
+        return valid, waste
+
+    def intestine_absorb(self, valid):
+        absorbed = 0
+        for food in valid:
+            self._burn(self.COST["absorb_per_item"], "吸收")
+            h = self.brain._write_hash(f"吸收情报: {food}")
+            fresh = h not in [x for x in self.brain.chain[:-1]]   # 修: 去重
+            if fresh:
+                room = min(self.GAIN, self.brain.cap - self.brain.energy_b)  # 修: 饱腹上限
+                if room > 0:
+                    self.brain.energy_b += room
+                    self.log.append(f"gain +{room:.2f}")
+                    absorbed += 1
+            else:
+                self.log.append("dup: 0 gain")
+        return absorbed
+
+    def excrete(self, waste):
+        self._burn(0.1 * len(waste), "排泄")
+        return len(waste)

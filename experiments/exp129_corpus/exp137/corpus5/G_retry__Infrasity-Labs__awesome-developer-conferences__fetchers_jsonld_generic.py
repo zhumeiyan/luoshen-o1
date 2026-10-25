@@ -1,1 +1,109 @@
-aW1wb3J0IGpzb24KaW1wb3J0IHJlCmltcG9ydCB0aW1lCmZyb20gdXJsbGliLnBhcnNlIGltcG9ydCB1cmxqb2luCgpmcm9tIGJzNCBpbXBvcnQgQmVhdXRpZnVsU291cAoKaW1wb3J0IGNvbmZpZwpmcm9tIGdlbmVyaWNfY29tbW9uIGltcG9ydCBodHRwX2dldCwgYnVpbGRfZXZlbnQsIHBhcnNlX2lzb19kYXRlLCBmaW5hbGl6ZQoKIyBQYWdlcyB0aGF0IGVtYmVkIHNjaGVtYS5vcmcgRXZlbnQgb2JqZWN0cyBhcyBKU09OLUxELiBBZGQgYSBVUkwgaGVyZSB0byBhZGQgYSBzb3VyY2UuClNPVVJDRVMgPSBbCiAgICAjIGFsbGV2ZW50cy5pbiBjaXR5IHBhZ2VzCiAgICAqW2YiaHR0cHM6Ly9hbGxldmVudHMuaW4ve2N9L3RlY2hub2xvZ3kiIGZvciBjIGluIFsKICAgICAgICAiYmFuZ2Fsb3JlIiwgImxvbmRvbiIsICJuZXclMjB5b3JrIiwgInN5ZG5leSIsCiAgICAgICAgImJlcmxpbiIsICJkZWxoaSIsICJoeWRlcmFiYWQiLCAibXVtYmFpIiwgInNhbiUyMGZyYW5jaXNjbyIsICJzYW8lMjBwYXVsbyIsCiAgICAgICAgInRvcm9udG8iLAogICAgXV0sCiAgICAjIGV2ZW50YnJpdGUuY29tIGxpc3RpbmcgcGFnZXMKICAgICJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9kL29ubGluZS90ZWNobm9sb2d5LS1ldmVudHMvIiwKICAgICJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9kL3VuaXRlZC1raW5nZG9tLS1sb25kb24vdGVjaC0tZXZlbnRzLyIsCiAgICAiaHR0cHM6Ly93d3cuZXZlbnRicml0ZS5jb20vZC91bml0ZWQtc3RhdGVzL2RldmVsb3Blci1jb25mZXJlbmNlLyIsCiAgICAiaHR0cHM6Ly93d3cuZXZlbnRicml0ZS5jb20vZC9hdXN0cmFsaWEtLXN5ZG5leS90ZWNoLS1ldmVudHMvIiwKICAgICJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9kL2NhbmFkYS0tdG9yb250by90ZWNoLS1ldmVudHMvIiwKICAgICJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9kL2dlcm1hbnktLWJlcmxpbi90ZWNoLS1ldmVudHMvIiwKICAgICJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9kL2luZGlhLS1iZW5nYWx1cnUvdGVjaC0tZXZlbnRzLyIsCiAgICAiaHR0cHM6Ly93d3cuZXZlbnRicml0ZS5jb20vZC9zaW5nYXBvcmUtLXNpbmdhcG9yZS90ZWNoLS1ldmVudHMvIiwKICAgICMgc2luZ2xlLXZlbmRvciAvIGNvbW11bml0eSBwYWdlcwogICAgImh0dHBzOi8vd3d3LnBvc3RtYW4uY29tL2V2ZW50cy8iLAogICAgIyBEdWJhaSAvIE1FTkEgZGlyZWN0b3JpZXMKICAgICJodHRwczovL3JvYm9vc2guYWUvZXZlbnRzIiwKXQoKCmRlZiBpdGVyX2xkX25vZGVzKG5vZGUpOgogICAgaWYgaXNpbnN0YW5jZShub2RlLCBsaXN0KToKICAgICAgICBmb3IgbiBpbiBub2RlOgogICAgICAgICAgICB5aWVsZCBmcm9tIGl0ZXJfbGRfbm9kZXMobikKICAgIGVsaWYgaXNpbnN0YW5jZShub2RlLCBkaWN0KToKICAgICAgICB0ID0gbm9kZS5nZXQoJ0B0eXBlJykKICAgICAgICB0eXBlcyA9IHQgaWYgaXNpbnN0YW5jZSh0LCBsaXN0KSBlbHNlIFt0XQogICAgICAgIGlmIGFueShpc2luc3RhbmNlKHgsIHN0cikgYW5kIHguZW5kc3dpdGgoJ0V2ZW50JykgZm9yIHggaW4gdHlwZXMpOgogICAgICAgICAgICB5aWVsZCBub2RlCiAgICAgICAgZm9yIGtleSBpbiAoJ0BncmFwaCcsICdpdGVtTGlzdEVsZW1lbnQnLCAnaXRlbScsICdzdWJFdmVudCcpOgogICAgICAgICAgICBpZiBrZXkgaW4gbm9kZToKICAgICAgICAgICAgICAgIHlpZWxkIGZyb20gaXRlcl9sZF9ub2Rlcyhub2RlW2tleV0pCgoKZGVmIGxvY2F0aW9uX29mKG5vZGUpOgogICAgbG9jID0gbm9kZS5nZXQoJ2xvY2F0aW9uJykKICAgIGlmIGlzaW5zdGFuY2UobG9jLCBsaXN0KToKICAgICAgICBsb2MgPSBsb2NbMF0gaWYgbG9jIGVsc2UgTm9uZQogICAgaWYgaXNpbnN0YW5jZShsb2MsIHN0cik6CiAgICAgICAgcmV0dXJuIGxvYwogICAgaWYgbm90IGlzaW5zdGFuY2UobG9jLCBkaWN0KToKICAgICAgICByZXR1cm4gJycKICAgIGFkZHIgPSBsb2MuZ2V0KCdhZGRyZXNzJykKICAgIHBhcnRzID0gW10KICAgIGlmIGlzaW5zdGFuY2UoYWRkciwgZGljdCk6CiAgICAgICAgcGFydHMgPSBbYWRkci5nZXQoJ2FkZHJlc3NMb2NhbGl0eScpLCBhZGRyLmdldCgnYWRkcmVzc1JlZ2lvbicpLCBhZGRyLmdldCgnYWRkcmVzc0NvdW50cnknKV0KICAgICAgICBwYXJ0cyA9IFtwLmdldCgnbmFtZScpIGlmIGlzaW5zdGFuY2UocCwgZGljdCkgZWxzZSBwIGZvciBwIGluIHBhcnRzXQogICAgZWxpZiBpc2luc3RhbmNlKGFkZHIsIHN0cik6CiAgICAgICAgcGFydHMgPSBbYWRkcl0KICAgIHBhcnRzID0gW3AgZm9yIHAgaW4gcGFydHMgaWYgcF0KICAgIGlmIG5vdCBwYXJ0cyBhbmQgbG9jLmdldCgnbmFtZScpOgogICAgICAgIHBhcnRzID0gW2xvY1snbmFtZSddXQogICAgdGV4dCA9ICcsICcuam9pbihwYXJ0cykKICAgIGlmICdvbmxpbmUnIGluIChub2RlLmdldCgnZXZlbnRBdHRlbmRhbmNlTW9kZScpIG9yICcnKS5sb3dlcigpIGFuZCBub3QgdGV4dDoKICAgICAgICB0ZXh0ID0gJ09ubGluZScKICAgIHJldHVybiB0ZXh0IG9yICgnT25saW5lJyBpZiAnVmlydHVhbExvY2F0aW9uJyBpbiBzdHIobG9jLmdldCgnQHR5cGUnKSkgZWxzZSAnJykKCgpkZWYgZmV0Y2hfcGFnZSh1cmwpOgogICAgcmVzcCA9IGh0dHBfZ2V0KHVybCkKICAgIGlmIG5vdCByZXNwOgogICAgICAgIHJldHVybiBbXSwgMAogICAgc291cCA9IEJlYXV0aWZ1bFNvdXAocmVzcC50ZXh0LCAnaHRtbC5wYXJzZXInKQogICAgb3V0LCByYXcgPSBbXSwgMAogICAgZm9yIHRhZyBpbiBzb3VwLmZpbmRfYWxsKCdzY3JpcHQnLCB0eXBlPSdhcHBsaWNhdGlvbi9sZCtqc29uJyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBkYXRhID0ganNvbi5sb2Fkcyh0YWcuc3RyaW5nIG9yIHRhZy5nZXRfdGV4dCgpIG9yICcnKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZm9yIG5vZGUgaW4gaXRlcl9sZF9ub2RlcyhkYXRhKToKICAgICAgICAgICAgcmF3ICs9IDEKICAgICAgICAgICAgbmFtZSA9IG5vZGUuZ2V0KCduYW1lJykKICAgICAgICAgICAgc3RhcnQgPSBwYXJzZV9pc29fZGF0ZShub2RlLmdldCgnc3RhcnREYXRlJykpCiAgICAgICAgICAgIGlmIG5vdCBuYW1lIG9yIG5vdCBzdGFydDoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGVuZCA9IHBhcnNlX2lzb19kYXRlKG5vZGUuZ2V0KCdlbmREYXRlJykpIG9yIHN0YXJ0CiAgICAgICAgICAgIGxpbmsgPSBub2RlLmdldCgndXJsJykgb3IgJycKICAgICAgICAgICAgbGluayA9IHVybGpvaW4odXJsLCBsaW5rKSBpZiBsaW5rIGVsc2UgdXJsCiAgICAgICAgICAgIG91dC5hcHBlbmQoKGJ1aWxkX2V2ZW50KG5hbWUsIHN0YXJ0LCBlbmQsIGxvY2F0aW9uX29mKG5vZGUpLCBsaW5rKSwgZW5kKSkKICAgIHJldHVybiBvdXQsIHJhdwoKCmRlZiBtYWluKCk6CiAgICBldmVudHMsIHJhd190b3RhbCA9IFtdLCAwCiAgICBmb3IgdXJsIGluIFNPVVJDRVM6CiAgICAgICAgZXZzLCByYXcgPSBmZXRjaF9wYWdlKHVybCkKICAgICAgICBwcmludChmIltKU09OLUxEXSB7dXJsfSAtPiB7cmF3fSBldmVudHMiKQogICAgICAgIGV2ZW50cy5leHRlbmQoZXZzKQogICAgICAgIHJhd190b3RhbCArPSByYXcKICAgICAgICB0aW1lLnNsZWVwKDAuNSkKICAgIGZpbmFsaXplKGV2ZW50cywgIkpTT04tTEQiLCAiZXZlbnRzX2pzb25sZF9nZW5lcmljLmpzb24iLCByYXdfdG90YWwpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+import json
+import re
+import time
+from urllib.parse import urljoin
+
+from bs4 import BeautifulSoup
+
+import config
+from generic_common import http_get, build_event, parse_iso_date, finalize
+
+# Pages that embed schema.org Event objects as JSON-LD. Add a URL here to add a source.
+SOURCES = [
+    # allevents.in city pages
+    *[f"https://allevents.in/{c}/technology" for c in [
+        "bangalore", "london", "new%20york", "sydney",
+        "berlin", "delhi", "hyderabad", "mumbai", "san%20francisco", "sao%20paulo",
+        "toronto",
+    ]],
+    # eventbrite.com listing pages
+    "https://www.eventbrite.com/d/online/technology--events/",
+    "https://www.eventbrite.com/d/united-kingdom--london/tech--events/",
+    "https://www.eventbrite.com/d/united-states/developer-conference/",
+    "https://www.eventbrite.com/d/australia--sydney/tech--events/",
+    "https://www.eventbrite.com/d/canada--toronto/tech--events/",
+    "https://www.eventbrite.com/d/germany--berlin/tech--events/",
+    "https://www.eventbrite.com/d/india--bengaluru/tech--events/",
+    "https://www.eventbrite.com/d/singapore--singapore/tech--events/",
+    # single-vendor / community pages
+    "https://www.postman.com/events/",
+    # Dubai / MENA directories
+    "https://roboosh.ae/events",
+]
+
+
+def iter_ld_nodes(node):
+    if isinstance(node, list):
+        for n in node:
+            yield from iter_ld_nodes(n)
+    elif isinstance(node, dict):
+        t = node.get('@type')
+        types = t if isinstance(t, list) else [t]
+        if any(isinstance(x, str) and x.endswith('Event') for x in types):
+            yield node
+        for key in ('@graph', 'itemListElement', 'item', 'subEvent'):
+            if key in node:
+                yield from iter_ld_nodes(node[key])
+
+
+def location_of(node):
+    loc = node.get('location')
+    if isinstance(loc, list):
+        loc = loc[0] if loc else None
+    if isinstance(loc, str):
+        return loc
+    if not isinstance(loc, dict):
+        return ''
+    addr = loc.get('address')
+    parts = []
+    if isinstance(addr, dict):
+        parts = [addr.get('addressLocality'), addr.get('addressRegion'), addr.get('addressCountry')]
+        parts = [p.get('name') if isinstance(p, dict) else p for p in parts]
+    elif isinstance(addr, str):
+        parts = [addr]
+    parts = [p for p in parts if p]
+    if not parts and loc.get('name'):
+        parts = [loc['name']]
+    text = ', '.join(parts)
+    if 'online' in (node.get('eventAttendanceMode') or '').lower() and not text:
+        text = 'Online'
+    return text or ('Online' if 'VirtualLocation' in str(loc.get('@type')) else '')
+
+
+def fetch_page(url):
+    resp = http_get(url)
+    if not resp:
+        return [], 0
+    soup = BeautifulSoup(resp.text, 'html.parser')
+    out, raw = [], 0
+    for tag in soup.find_all('script', type='application/ld+json'):
+        try:
+            data = json.loads(tag.string or tag.get_text() or '')
+        except Exception:
+            continue
+        for node in iter_ld_nodes(data):
+            raw += 1
+            name = node.get('name')
+            start = parse_iso_date(node.get('startDate'))
+            if not name or not start:
+                continue
+            end = parse_iso_date(node.get('endDate')) or start
+            link = node.get('url') or ''
+            link = urljoin(url, link) if link else url
+            out.append((build_event(name, start, end, location_of(node), link), end))
+    return out, raw
+
+
+def main():
+    events, raw_total = [], 0
+    for url in SOURCES:
+        evs, raw = fetch_page(url)
+        print(f"[JSON-LD] {url} -> {raw} events")
+        events.extend(evs)
+        raw_total += raw
+        time.sleep(0.5)
+    finalize(events, "JSON-LD", "events_jsonld_generic.json", raw_total)
+
+
+if __name__ == "__main__":
+    main()

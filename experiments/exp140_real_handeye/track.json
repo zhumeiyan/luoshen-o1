@@ -1,1 +1,66 @@
-ewogImNsb3NlZCI6IHsKICAibWVhbiI6IDAuMSwKICAiZWFybHkiOiAwLjMsCiAgImxhdGUiOiAwLjAsCiAgImRyb3AiOiAwLjMsCiAgImRyb3BzIjogWwogICAwLjMsCiAgIDAuMywKICAgMC4zLAogICAwLjMsCiAgIDAuMywKICAgMC4zLAogICAwLjMsCiAgIDAuMwogIF0KIH0sCiAib3BlbiI6IHsKICAibWVhbiI6IDMuMTM3NSwKICAiZWFybHkiOiAzLjc1LAogICJsYXRlIjogMi41NjI1LAogICJkcm9wIjogMS4xODc1LAogICJkcm9wcyI6IFsKICAgMC44OTk5OTk5OTk5OTk5OTk1LAogICAtMC4xOTk5OTk5OTk5OTk5OTk5NiwKICAgMC4zOTk5OTk5OTk5OTk5OTk0NywKICAgMi41LAogICAyLjAsCiAgIDEuMCwKICAgMC41LAogICAyLjQKICBdCiB9LAogImJsaW5kIjogewogICJtZWFuIjogMy4xMjA4MzMzMzMzMzMzMzM2LAogICJlYXJseSI6IDMuMTc1LAogICJsYXRlIjogMy4wNSwKICAiZHJvcCI6IDAuMTI1MDAwMDAwMDAwMDAwMDYsCiAgImRyb3BzIjogWwogICAtMC4yOTk5OTk5OTk5OTk5OTk4LAogICAwLjM5OTk5OTk5OTk5OTk5OTksCiAgIC0xLjEsCiAgIDEuNzAwMDAwMDAwMDAwMDAwMiwKICAgLTEuNCwKICAgMC4zOTk5OTk5OTk5OTk5OTk5LAogICAwLjAsCiAgIDEuMzAwMDAwMDAwMDAwMDAwMwogIF0KIH0sCiAiY2xvc2VkX3ZzX29wZW4iOiB7CiAgImRpZmYiOiAtMC44ODc1LAogICJjaSI6IFsKICAgLTEuNTI1MzEyNSwKICAgLTAuMjc0OTk5OTk5OTk5OTk5NwogIF0sCiAgInNpZyI6IHRydWUKIH0sCiAiY2xvc2VkX3ZzX2JsaW5kIjogewogICJkaWZmIjogMC4xNzUsCiAgImNpIjogWwogICAtMC41MTI1MDAwMDAwMDAwMDAxLAogICAwLjg3NQogIF0sCiAgInNpZyI6IGZhbHNlCiB9Cn0=
+{
+ "closed": {
+  "mean": 0.1,
+  "early": 0.3,
+  "late": 0.0,
+  "drop": 0.3,
+  "drops": [
+   0.3,
+   0.3,
+   0.3,
+   0.3,
+   0.3,
+   0.3,
+   0.3,
+   0.3
+  ]
+ },
+ "open": {
+  "mean": 3.1375,
+  "early": 3.75,
+  "late": 2.5625,
+  "drop": 1.1875,
+  "drops": [
+   0.8999999999999995,
+   -0.19999999999999996,
+   0.39999999999999947,
+   2.5,
+   2.0,
+   1.0,
+   0.5,
+   2.4
+  ]
+ },
+ "blind": {
+  "mean": 3.1208333333333336,
+  "early": 3.175,
+  "late": 3.05,
+  "drop": 0.12500000000000006,
+  "drops": [
+   -0.2999999999999998,
+   0.3999999999999999,
+   -1.1,
+   1.7000000000000002,
+   -1.4,
+   0.3999999999999999,
+   0.0,
+   1.3000000000000003
+  ]
+ },
+ "closed_vs_open": {
+  "diff": -0.8875,
+  "ci": [
+   -1.5253125,
+   -0.2749999999999997
+  ],
+  "sig": true
+ },
+ "closed_vs_blind": {
+  "diff": 0.175,
+  "ci": [
+   -0.5125000000000001,
+   0.875
+  ],
+  "sig": false
+ }
+}

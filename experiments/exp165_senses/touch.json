@@ -1,1 +1,66 @@
-ewogInNtb290aF9kZXZfemVybyI6IHsKICAidG91Y2gxIjogewogICAibWVhbl9ucyI6IDI1MDYuMywKICAgInN0ZGV2X25zIjogNTUyMS43LAogICAicm91Z2huZXNzIjogMi4yMDMyLAogICAibWVkaWFuX25zIjogMTI3MC4wCiAgfSwKICAidG91Y2gyIjogewogICAibWVhbl9ucyI6IDExMTMuNiwKICAgInN0ZGV2X25zIjogNzQ0LjUsCiAgICJyb3VnaG5lc3MiOiAwLjY2ODYsCiAgICJtZWRpYW5fbnMiOiA5MTUuMAogIH0sCiAgInJlbGlhYmlsaXR5X2RSb3VnaCI6IDEuNTM0NiwKICAicmVwZWF0X3N0YWJsZSI6IGZhbHNlCiB9LAogInN1cmZhY2VfQSI6IHsKICAidG91Y2gxIjogewogICAibWVhbl9ucyI6IDYyMDUyLjcsCiAgICJzdGRldl9ucyI6IDE4Nzg0LjIsCiAgICJyb3VnaG5lc3MiOiAwLjMwMjcsCiAgICJtZWRpYW5fbnMiOiA1NjA1NC41CiAgfSwKICAidG91Y2gyIjogewogICAibWVhbl9ucyI6IDU1NTk5LjEsCiAgICJzdGRldl9ucyI6IDE4NDIwLjYsCiAgICJyb3VnaG5lc3MiOiAwLjMzMTMsCiAgICJtZWRpYW5fbnMiOiA0ODc1NC4wCiAgfSwKICAicmVsaWFiaWxpdHlfZFJvdWdoIjogMC4wMjg2LAogICJyZXBlYXRfc3RhYmxlIjogdHJ1ZQogfSwKICJzdXJmYWNlX0IiOiB7CiAgInRvdWNoMSI6IHsKICAgIm1lYW5fbnMiOiA1MzU4NS4wLAogICAic3RkZXZfbnMiOiAxNzgzMC44LAogICAicm91Z2huZXNzIjogMC4zMzI4LAogICAibWVkaWFuX25zIjogNjE2MTkuMAogIH0sCiAgInRvdWNoMiI6IHsKICAgIm1lYW5fbnMiOiA1MTIwMS4wLAogICAic3RkZXZfbnMiOiAyMzM4Ni4yLAogICAicm91Z2huZXNzIjogMC40NTY4LAogICAibWVkaWFuX25zIjogNTE2NDQuMAogIH0sCiAgInJlbGlhYmlsaXR5X2RSb3VnaCI6IDAuMTI0LAogICJyZXBlYXRfc3RhYmxlIjogdHJ1ZQogfSwKICJzdXJmYWNlX0MiOiB7CiAgInRvdWNoMSI6IHsKICAgIm1lYW5fbnMiOiA0Mjk5MzMuNywKICAgInN0ZGV2X25zIjogMjI5NTI2Mi40LAogICAicm91Z2huZXNzIjogNS4zMzg2LAogICAibWVkaWFuX25zIjogNTQ4NjkuMAogIH0sCiAgInRvdWNoMiI6IHsKICAgIm1lYW5fbnMiOiAzNDgzMC4xLAogICAic3RkZXZfbnMiOiAxOTMyMi40LAogICAicm91Z2huZXNzIjogMC41NTQ4LAogICAibWVkaWFuX25zIjogMzI3NDQuNQogIH0sCiAgInJlbGlhYmlsaXR5X2RSb3VnaCI6IDQuNzgzOCwKICAicmVwZWF0X3N0YWJsZSI6IGZhbHNlCiB9Cn0=
+{
+ "smooth_dev_zero": {
+  "touch1": {
+   "mean_ns": 2506.3,
+   "stdev_ns": 5521.7,
+   "roughness": 2.2032,
+   "median_ns": 1270.0
+  },
+  "touch2": {
+   "mean_ns": 1113.6,
+   "stdev_ns": 744.5,
+   "roughness": 0.6686,
+   "median_ns": 915.0
+  },
+  "reliability_dRough": 1.5346,
+  "repeat_stable": false
+ },
+ "surface_A": {
+  "touch1": {
+   "mean_ns": 62052.7,
+   "stdev_ns": 18784.2,
+   "roughness": 0.3027,
+   "median_ns": 56054.5
+  },
+  "touch2": {
+   "mean_ns": 55599.1,
+   "stdev_ns": 18420.6,
+   "roughness": 0.3313,
+   "median_ns": 48754.0
+  },
+  "reliability_dRough": 0.0286,
+  "repeat_stable": true
+ },
+ "surface_B": {
+  "touch1": {
+   "mean_ns": 53585.0,
+   "stdev_ns": 17830.8,
+   "roughness": 0.3328,
+   "median_ns": 61619.0
+  },
+  "touch2": {
+   "mean_ns": 51201.0,
+   "stdev_ns": 23386.2,
+   "roughness": 0.4568,
+   "median_ns": 51644.0
+  },
+  "reliability_dRough": 0.124,
+  "repeat_stable": true
+ },
+ "surface_C": {
+  "touch1": {
+   "mean_ns": 429933.7,
+   "stdev_ns": 2295262.4,
+   "roughness": 5.3386,
+   "median_ns": 54869.0
+  },
+  "touch2": {
+   "mean_ns": 34830.1,
+   "stdev_ns": 19322.4,
+   "roughness": 0.5548,
+   "median_ns": 32744.5
+  },
+  "reliability_dRough": 4.7838,
+  "repeat_stable": false
+ }
+}

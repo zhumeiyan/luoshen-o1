@@ -1,1 +1,52 @@
-IiIiV2hhdCBhbiBlbmdpbmUgcmVqZWN0cyB0aGF0IGEgUG9zdGdyZVNRTC10cmFpbmVkIHdyaXRlciByZWFjaGVzIGZvciwgYW5kIHdoYXQgdG8gd3JpdGUgaW5zdGVhZCAoIzMyNSkuCgpUaGUgY2xpZW50IGlzIHRvbGQgdGhlIGVuZ2luZSAoYGRhdGFiYXNlX3R5cGVgLCBhbmQgdGhlIG1vZGVsJ3MgYHN0b3JhZ2VfdHlwZWApIGFuZCBzdGlsbCB3cml0ZXMKUG9zdGdyZVNRTCwgYmVjYXVzZSBhIG5hbWUgc2F5cyBub3RoaW5nIGFib3V0IHdoaWNoIGZlYXR1cmVzIHRoYXQgZW5naW5lIGxhY2tzLiBFdmVyeSBzdWNoIHN0YXRlbWVudApjb3N0cyBhIHdhcmVob3VzZSByb3VuZCB0cmlwIGFuZCBhIGZ1bGwgY2xpZW50IHR1cm4gdG8gcmV3cml0ZS4gSGFuZGluZyB0aGUgY2xpZW50IHRoZSBnYXBzIEJFRk9SRSBpdAp3cml0ZXMgaXMgdGhlIG9ubHkgZml4IHRoYXQgcmVtb3ZlcyB0aGUgcmV0cnk6IGEgcmVmdXNhbCBuYW1pbmcgdGhlIHJld3JpdGUgc3RpbGwgc3BlbmRzIHRoZSB0dXJuLgoKUnVsZXMgYXJlIHBlciBFTkdJTkUsIG5ldmVyIHBlciBjdXN0b21lciwgYW5kIHJlYWQtcGF0aCBvbmx5IOKAlCB0aGUgZ3VhcmQgYWRtaXRzIG5vdGhpbmcgYnV0IFNFTEVDVCwKc28gYSBydWxlIGFib3V0IElOU0VSVCBvciBSRVRVUk5JTkcgd291bGQgYmUgdG9rZW5zIHNwZW50IG9uIHNvbWV0aGluZyB0aGF0IGNhbm5vdCBoYXBwZW4uIEVhY2gKcmV3cml0ZSBtdXN0IHJldHVybiB0aGUgc2FtZSByZXN1bHQgYXMgdGhlIGNvbnN0cnVjdCBpdCByZXBsYWNlcywgTlVMTHMgYW5kIGVtcHR5IGlucHV0cyBpbmNsdWRlZDogYQpydWxlIHRoYXQgdHJhZGVzIGFuIGVycm9yIGZvciBhIHF1aWV0bHkgZGlmZmVyZW50IGFuc3dlciBpcyB3b3JzZSB0aGFuIHRoZSBlcnJvci4KCktleWVkIGJ5IGBTdG9yYWdlVHlwZWAgZXhhY3RseSBhcyB0aGUgbW9kZWwgc3BlbGxzIGl0IChgUmVkc2hpZnRgKSwgdGhlIHNhbWUga2V5CmBzZW1hbnRpY19tb2RlbC5zcWxfZGlhbGVjdGAgbWFwcyB0byBhIHNxbGdsb3QgZGlhbGVjdC4gQW4gZW5naW5lIHdpdGggbm8gZW50cnkgZ2V0cyBub3RoaW5nLCB3aGljaAppcyB0aGUgcmlnaHQgZGVmYXVsdDogYSBydWxlcyBibG9jayBmb3IgYW4gZW5naW5lIHRoZSB3cml0ZXIgYWxyZWFkeSBoYW5kbGVzIGlzIG5vaXNlIGl0IHBheXMgZm9yIG9uCmV2ZXJ5IHNjaGVtYSBjYWxsLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCl9SRURTSElGVCA9ICIiIlwKQW1hem9uIFJlZHNoaWZ0IGlzIFBvc3RncmVTUUwtZGVyaXZlZCBidXQgcmVqZWN0cyBzZXZlcmFsIFBvc3RncmVTUUwgZmVhdHVyZXMuIFdyaXRlIHRoZXNlIGluc3RlYWQ6Ci0gTm8gRklMVEVSIG9uIGFnZ3JlZ2F0ZXMuIENPVU5UKCopIEZJTFRFUiAoV0hFUkUgYykgLT4gQ09VTlQoQ0FTRSBXSEVOIGMgVEhFTiAxIEVORCk7IFwKU1VNKHYpIEZJTFRFUiAoV0hFUkUgYykgLT4gU1VNKENBU0UgV0hFTiBjIFRIRU4gdiBFTkQpOyBBVkcgbGlrZXdpc2UuIExlYXZlIHRoZSBFTFNFIG91dCBzbyBcCm5vbi1tYXRjaGluZyByb3dzIGFyZSBOVUxMIGFuZCBpZ25vcmVkLgotIE5vIFNUUklOR19BR0cuIFVzZSBMSVNUQUdHKGNvbCwgJywgJykgV0lUSElOIEdST1VQIChPUkRFUiBCWSBjb2wpLiBUaGUgZGVsaW1pdGVyIG11c3QgYmUgYSBcCmNvbnN0YW50LCBhbmQgZXZlcnkgb3JkZXJlZCBhZ2dyZWdhdGUgaW4gb25lIFNFTEVDVCAoTElTVEFHRywgUEVSQ0VOVElMRV9DT05ULCBNRURJQU4pIG11c3QgdXNlIHRoZSBcCnNhbWUgb3JkZXJpbmcuIFRoZXJlIGlzIG5vIEFSUkFZX0FHRyBhbmQgbm8gYXJyYXkgcmVzdWx0IHR5cGU7IExJU1RBR0cgcmV0dXJucyB0ZXh0LCBzbyB1c2UgaXQgb25seSBcCndoZW4gYSB0ZXh0IGxpc3QgaXMgd2hhdCB0aGUgcXVlc3Rpb24gd2FudHMuCi0gTElTVEFHRywgTUVESUFOIGFuZCBQRVJDRU5USUxFX0NPTlQgY2Fubm90IHNoYXJlIGEgU0VMRUNUIHdpdGggYW55IERJU1RJTkNUIGFnZ3JlZ2F0ZSBcCihDT1VOVChESVNUSU5DVCAuLi4pKS4gQ29tcHV0ZSB0aGVtIGluIHNlcGFyYXRlIENURXMgYW5kIGpvaW4gdGhlIENURXMuCi0gRGF0ZSBhcml0aG1ldGljIHRha2VzIHRoZSB1bml0IGZpcnN0LCB1bnF1b3RlZDogREFURUFERChkYXksIC0zMCwgQ1VSUkVOVF9EQVRFKSwgXApEQVRFRElGRihkYXksIHN0YXJ0X3RzLCBlbmRfdHMpLiBEQVRFX1RSVU5DKCdtb250aCcsIHRzKSBpcyBmaW5lLiBVc2UgR0VUREFURSgpIG9yIENVUlJFTlRfREFURS4KLSBVc2UgU1VCU1RSSU5HKHMsIHN0YXJ0LCBsZW5ndGgpLCBub3QgU1VCU1RSLgotIEEgQk9PTEVBTiBjYW5ub3QgYmUgY2FzdCB0byBWQVJDSEFSIG9yIHBhc3NlZCB0byBhIHN0cmluZyBmdW5jdGlvbiAoQlRSSU0sIENPTkNBVCkuIFVzZSBcCkNBU0UgV0hFTiBjb2wgVEhFTiAndHJ1ZScgV0hFTiBOT1QgY29sIFRIRU4gJ2ZhbHNlJyBFTkQsIHdoaWNoIGtlZXBzIE5VTEwgYXMgTlVMTC4KLSBObyBESVNUSU5DVCBPTiBhbmQgbm8gTEFURVJBTCBqb2lucy4gRm9yIG9uZSByb3cgcGVyIGdyb3VwIHVzZSBST1dfTlVNQkVSKCkgT1ZFUiAoUEFSVElUSU9OIEJZIC4uLiBcCk9SREVSIEJZIC4uLikgaW4gYSBzdWJxdWVyeSBhbmQga2VlcCByb3cgMSAoUVVBTElGWSBhbHNvIHdvcmtzKS4KLSBNYW55IGNvcnJlbGF0ZWQgc3VicXVlcmllcyBhcmUgcmVqZWN0ZWQuIFJld3JpdGUgdGhlbSBhcyBhIEpPSU4gdG8gYSBDVEUgdGhhdCBhZ2dyZWdhdGVzIG9uY2UuCi0gRlVMTCBKT0lOIG5lZWRzIGEgcGxhaW4gZXF1YWxpdHkgam9pbiBjb25kaXRpb24uCi0gRG91YmxlLXF1b3RlIGFueSBpZGVudGlmaWVyIChjb2x1bW4sIHRhYmxlIG9yIGFsaWFzKSB0aGF0IGlzIGEgcmVzZXJ2ZWQgd29yZCwgZS5nLiAidGFibGUiLCAiZW5kIiwgXAoidXNlciIuCi0gTm8gR0VORVJBVEVfU0VSSUVTIGFnYWluc3QgdGFibGVzLiBObyBSRUdFWFBfTUFUQ0hFUzsgdXNlIFJFR0VYUF9TVUJTVFIsIFJFR0VYUF9SRVBMQUNFLCBcClJFR0VYUF9DT1VOVCBvciB+LgoiIiIKCl9SVUxFUzogZGljdFtzdHIsIHN0cl0gPSB7IlJlZHNoaWZ0IjogX1JFRFNISUZUfQoKCmRlZiBkaWFsZWN0X3J1bGVzX2ZvcihzdG9yYWdlX3R5cGU6IHN0ciB8IE5vbmUpIC0+IHN0ciB8IE5vbmU6CiAgICAiIiJUaGUgcnVsZXMgYmxvY2sgZm9yIG9uZSBkZWNsYXJlZCBlbmdpbmUsIG9yIE5vbmUgd2hlbiBpdCBoYXMgbm9uZSAob3IgdGhlIGVuZ2luZSBpcyB1bmtub3duKS4iIiIKICAgIHJldHVybiBfUlVMRVMuZ2V0KHN0b3JhZ2VfdHlwZSkgaWYgc3RvcmFnZV90eXBlIGVsc2UgTm9uZQo=
+"""What an engine rejects that a PostgreSQL-trained writer reaches for, and what to write instead (#325).
+
+The client is told the engine (`database_type`, and the model's `storage_type`) and still writes
+PostgreSQL, because a name says nothing about which features that engine lacks. Every such statement
+costs a warehouse round trip and a full client turn to rewrite. Handing the client the gaps BEFORE it
+writes is the only fix that removes the retry: a refusal naming the rewrite still spends the turn.
+
+Rules are per ENGINE, never per customer, and read-path only — the guard admits nothing but SELECT,
+so a rule about INSERT or RETURNING would be tokens spent on something that cannot happen. Each
+rewrite must return the same result as the construct it replaces, NULLs and empty inputs included: a
+rule that trades an error for a quietly different answer is worse than the error.
+
+Keyed by `StorageType` exactly as the model spells it (`Redshift`), the same key
+`semantic_model.sql_dialect` maps to a sqlglot dialect. An engine with no entry gets nothing, which
+is the right default: a rules block for an engine the writer already handles is noise it pays for on
+every schema call.
+"""
+
+from __future__ import annotations
+
+_REDSHIFT = """\
+Amazon Redshift is PostgreSQL-derived but rejects several PostgreSQL features. Write these instead:
+- No FILTER on aggregates. COUNT(*) FILTER (WHERE c) -> COUNT(CASE WHEN c THEN 1 END); \
+SUM(v) FILTER (WHERE c) -> SUM(CASE WHEN c THEN v END); AVG likewise. Leave the ELSE out so \
+non-matching rows are NULL and ignored.
+- No STRING_AGG. Use LISTAGG(col, ', ') WITHIN GROUP (ORDER BY col). The delimiter must be a \
+constant, and every ordered aggregate in one SELECT (LISTAGG, PERCENTILE_CONT, MEDIAN) must use the \
+same ordering. There is no ARRAY_AGG and no array result type; LISTAGG returns text, so use it only \
+when a text list is what the question wants.
+- LISTAGG, MEDIAN and PERCENTILE_CONT cannot share a SELECT with any DISTINCT aggregate \
+(COUNT(DISTINCT ...)). Compute them in separate CTEs and join the CTEs.
+- Date arithmetic takes the unit first, unquoted: DATEADD(day, -30, CURRENT_DATE), \
+DATEDIFF(day, start_ts, end_ts). DATE_TRUNC('month', ts) is fine. Use GETDATE() or CURRENT_DATE.
+- Use SUBSTRING(s, start, length), not SUBSTR.
+- A BOOLEAN cannot be cast to VARCHAR or passed to a string function (BTRIM, CONCAT). Use \
+CASE WHEN col THEN 'true' WHEN NOT col THEN 'false' END, which keeps NULL as NULL.
+- No DISTINCT ON and no LATERAL joins. For one row per group use ROW_NUMBER() OVER (PARTITION BY ... \
+ORDER BY ...) in a subquery and keep row 1 (QUALIFY also works).
+- Many correlated subqueries are rejected. Rewrite them as a JOIN to a CTE that aggregates once.
+- FULL JOIN needs a plain equality join condition.
+- Double-quote any identifier (column, table or alias) that is a reserved word, e.g. "table", "end", \
+"user".
+- No GENERATE_SERIES against tables. No REGEXP_MATCHES; use REGEXP_SUBSTR, REGEXP_REPLACE, \
+REGEXP_COUNT or ~.
+"""
+
+_RULES: dict[str, str] = {"Redshift": _REDSHIFT}
+
+
+def dialect_rules_for(storage_type: str | None) -> str | None:
+    """The rules block for one declared engine, or None when it has none (or the engine is unknown)."""
+    return _RULES.get(storage_type) if storage_type else None

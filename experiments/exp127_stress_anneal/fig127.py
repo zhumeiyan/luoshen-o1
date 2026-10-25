@@ -1,1 +1,102 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG9zCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgnQWdnJykKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IGZvbnRfbWFuYWdlcgoKT1VUID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyN19zdHJlc3NfYW5uZWFsIgpmb3IgcCBpbiBbIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMiLAogICAgICAgICAgIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS16ZW5oZWkudHRjIl06CiAgICBpZiBvcy5wYXRoLmV4aXN0cyhwKToKICAgICAgICBmb250X21hbmFnZXIuZm9udE1hbmFnZXIuYWRkZm9udChwKQogICAgICAgIHBsdC5yY1BhcmFtc1snZm9udC5mYW1pbHknXSA9IGZvbnRfbWFuYWdlci5Gb250UHJvcGVydGllcyhmbmFtZT1wKS5nZXRfbmFtZSgpCiAgICAgICAgYnJlYWsKcGx0LnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlCgpCID0ganNvbi5sb2FkKG9wZW4oT1VUICsgIi9yZXN1bHQxMjdCLmpzb24iKSkKQyA9IGpzb24ubG9hZChvcGVuKE9VVCArICIvcmVzdWx0MTI3Qy5qc29uIikpCkQgPSBqc29uLmxvYWQob3BlbihPVVQgKyAiL3Jlc3VsdDEyN0QuanNvbiIpKQoKZmlnLCBheCA9IHBsdC5zdWJwbG90cygyLCAzLCBmaWdzaXplPSgxOCwgMTApKQoKIyAxIOW6lOWKm+aJq+aPjwphID0gYXhbMCwgMF0KZm9yIG5tLCBjb2wsIG1rIGluIFsoJ1MxIOWkseihgCcsICcjYzAzOTJiJywgJ28nKSwgKCdTMiDlj5Hng6cnLCAnIzI5ODBiOScsICdzJyksICgnUzMg6ICB5YyWJywgJyMyN2FlNjAnLCAnXicpXToKICAgIHJvd3MgPSBCW25tXQogICAgeHMgPSBucC5hcmFuZ2UobGVuKHJvd3MpKQogICAgYS5wbG90KHhzLCBbclsnYWxpdmUnXSBmb3IgciBpbiByb3dzXSwgbWsgKyAnLScsIGNvbG9yPWNvbCwgbGFiZWw9bm0sIGx3PTIpCmEuc2V0X3h0aWNrcyhyYW5nZSg4KSkKYS5zZXRfeHRpY2tsYWJlbHMoW2Yie3JbJ2xldmVsJ106LjNnfSIgZm9yIHIgaW4gQlsnUzEg5aSx6KGAJ11dLCBmb250c2l6ZT04KQphLmF4aGxpbmUoMC41LCBscz0nLS0nLCBjPSdncmF5JywgbHc9MSkKYS5zZXRfdGl0bGUoIuKRoCDlupTlipvmiavmj4/vvJrlj6rmnInlj5Hng6fmmK/pmaHls63kuLTnlYwiLCBmb250c2l6ZT0xMikKYS5zZXRfeGxhYmVsKCLmoaPkvY3luo/lj7fvvIjkuInnu7TluqblkIToh6rku47lvLHliLDlvLrvvIkiLCBmb250c2l6ZT05KQphLnNldF95bGFiZWwoIuaSpOmZpOS+m+e7meWQjuWtmOa0u+eOhyIsIGZvbnRzaXplPTEwKQphLmxlZ2VuZChmb250c2l6ZT04KTsgYS5ncmlkKGFscGhhPS4zKQoKIyAyIFAyIOWtpuS5oOW+i+W9kuS4gOWMlgphID0gYXhbMCwgMV0KbnogPSBbZmxvYXQoaykgZm9yIGsgaW4gQlsnUDInXS5rZXlzKCldCm9yaWcgPSBbQlsnUDInXVtrXVswXSBmb3IgayBpbiBCWydQMiddXQpub3JtID0gW0JbJ1AyJ11ba11bMV0gZm9yIGsgaW4gQlsnUDInXV0KYS5zZW1pbG9neChueiwgb3JpZywgJ28tJywgYz0nI2MwMzkyYicsIGxhYmVsPSfljp/niYjvvIjljY/mlrnlt67vvIknLCBsdz0yKQphLnNlbWlsb2d4KG56LCBub3JtLCAncy0nLCBjPScjMjdhZTYwJywgbGFiZWw9J+W9kuS4gOeJiO+8iOebuOWFs+ezu+aVsO+8iScsIGx3PTIpCmEuc2V0X3RpdGxlKCLikaEg5bC65bqm5rOE5ryP77ya5Zmq5aOw6LaK5aSn5a2m5b6X6LaK5aSa5piv5YGH55qEIiwgZm9udHNpemU9MTIpCmEuc2V0X3hsYWJlbCgi5LiW55WM5Zmq5aOwIiwgZm9udHNpemU9MTApOyBhLnNldF95bGFiZWwoIuWtpuWIsOeahCBmZyIsIGZvbnRzaXplPTEwKQphLmxlZ2VuZChmb250c2l6ZT05KTsgYS5ncmlkKGFscGhhPS4zKQphLmFubm90YXRlKCflsLrluqbms4TmvI8nLCB4eT0oMTYsIG9yaWdbLTFdKSwgeHl0ZXh0PSgyLCAwLjYpLCBmb250c2l6ZT05LCBjb2xvcj0nI2MwMzkyYicsCiAgICAgICAgICAgYXJyb3dwcm9wcz1kaWN0KGFycm93c3R5bGU9Jy0+JywgY29sb3I9JyNjMDM5MmInKSkKCiMgMyDpgIDngavvvJpmZwphID0gYXhbMCwgMl0Ka3MgPSBbJ2Nvb2wnLCAnY29uc3RhbnQnLCAnc2xvdycsICdmYXN0JywgJ3F1ZW5jaCddCmxiID0gWyfluLjmuKlcbijml6Dpq5jmuKkpJywgJ+mrmOa4qeaBkua4qScsICfmhaLpgIDngasnLCAn5b+r6YCA54GrJywgJ+a3rOeBqyddCmFuID0gQ1snYW5uZWFsJ10KdiA9IFthbltrXVsnZmcnXSBmb3IgayBpbiBrc10KYmFycyA9IGEuYmFyKGxiLCB2LCBjb2xvcj1bJyM3ZjhjOGQnLCAnI2MwMzkyYicsICcjMjdhZTYwJywgJyNlNjdlMjInLCAnIzhlNDRhZCddKQpmb3IgYl8sIHZ2IGluIHppcChiYXJzLCB2KToKICAgIGEudGV4dChiXy5nZXRfeCgpICsgYl8uZ2V0X3dpZHRoKCkgLyAyLCB2diwgZiJ7dnY6LjRmfSIsIGhhPSdjZW50ZXInLCB2YT0nYm90dG9tJywgZm9udHNpemU9OSkKYS5zZXRfdGl0bGUoIuKRoiDpgIDngavlkI7lrabliLDlpJrlsJHvvJrpq5jmuKnmgZLmuKnmnIDlpKfvvIjkvYbmmK/omZrpq5jvvIkiLCBmb250c2l6ZT0xMikKYS5zZXRfeWxhYmVsKCLlrabliLDnmoQgZmciLCBmb250c2l6ZT0xMCk7IGEuZ3JpZChhbHBoYT0uMywgYXhpcz0neScpCgojIDQg6YCA54Gr77ya5ryC56e777yI56iz5a6a5oCn77yJCmEgPSBheFsxLCAwXQp2ID0gW2FuW2tdWydkcmlmdCddIGZvciBrIGluIGtzXQpiYXJzID0gYS5iYXIobGIsIHYsIGNvbG9yPVsnIzdmOGM4ZCcsICcjYzAzOTJiJywgJyMyN2FlNjAnLCAnI2U2N2UyMicsICcjOGU0NGFkJ10pCmEuc2V0X3lzY2FsZSgnbG9nJykKZm9yIGJfLCB2diBpbiB6aXAoYmFycywgdik6CiAgICBhLnRleHQoYl8uZ2V0X3goKSArIGJfLmdldF93aWR0aCgpIC8gMiwgdnYsIGYie3Z2Oi41Zn0iLCBoYT0nY2VudGVyJywgdmE9J2JvdHRvbScsIGZvbnRzaXplPTgpCmEuc2V0X3RpdGxlKCLikaMg56iz5a6a5oCn77ya6YCA54Gr5ZCO5ryC56e75bCPIDgg5YCN77yI6YCA54Gr55qE5Lu35YC85piv56iz5LiN5piv5aSn77yJIiwgZm9udHNpemU9MTIpCmEuc2V0X3lsYWJlbCgi5pyA5ZCOMzAw5ouNIHzOlGZnfO+8iOWvueaVsOi9tO+8iSIsIGZvbnRzaXplPTEwKTsgYS5ncmlkKGFscGhhPS4zLCBheGlzPSd5JykKCiMgNSDpgIDngavpgJ/njofliYLph48KYSA9IGF4WzEsIDFdCmQgPSBEWydhbm5lYWxfZG9zZSddCnggPSBbclsncmF0aW8nXSBmb3IgciBpbiBkXQphLnNlbWlsb2d4KHgsIFtyWydmZyddIGZvciByIGluIGRdLCAnby0nLCBjPScjMjk4MGI5JywgbGFiZWw9J+WtpuWIsCBmZycsIGx3PTIpCmEyID0gYS50d2lueCgpCmEyLnNlbWlsb2d4KHgsIFtyWydkcmlmdCddIGZvciByIGluIGRdLCAncy0tJywgYz0nI2MwMzkyYicsIGxhYmVsPSfmvILnp7snLCBsdz0yKQphLnNldF90aXRsZSgi4pGkIOmZjea4qeaXtumVv+WJgumHj++8muWNleiwg+adg+ihoe+8jOaXoOacgOS8mOeCuSIsIGZvbnRzaXplPTEyKQphLnNldF94bGFiZWwoIumZjea4qeaXtumXtOW4uOaVsCAvIOiuree7g+aAu+mVvyIsIGZvbnRzaXplPTEwKQphLnNldF95bGFiZWwoIuWtpuWIsCBmZyIsIGZvbnRzaXplPTEwKTsgYTIuc2V0X3lsYWJlbCgi5ryC56e7IiwgZm9udHNpemU9MTApCmEubGVnZW5kKGxvYz0yLCBmb250c2l6ZT05KTsgYTIubGVnZW5kKGxvYz00LCBmb250c2l6ZT05KTsgYS5ncmlkKGFscGhhPS4zKQoKIyA2IOe7reWtpumFjeWvue+8muWlveS4lueVjCB2cyDlnY/kuJbnlYwKYSA9IGF4WzEsIDJdCmNwID0gRFsnY29udGludWVfcGFpciddCmtrID0gWydjb29sJywgJ2NvbnN0YW50JywgJ3Nsb3cnLCAncXVlbmNoJ10KZyA9IFtjcFtrXVsnZGdvb2QnXSBmb3IgayBpbiBra10KYl8gPSBbY3Bba11bJ2RiYWQnXSBmb3IgayBpbiBra10KeCA9IG5wLmFyYW5nZShsZW4oa2spKTsgdyA9IDAuMzYKYS5iYXIoeCAtIHcgLyAyLCBnLCB3LCBsYWJlbD0n5aW95LiW55WM57ut5a2mIM6UZmcnLCBjb2xvcj0nIzI3YWU2MCcpCmEuYmFyKHggKyB3IC8gMiwgYl8sIHcsIGxhYmVsPSflnY/kuJbnlYznu63lraYgzpRmZycsIGNvbG9yPScjYzAzOTJiJykKYS5zZXRfeXNjYWxlKCdzeW1sb2cnLCBsaW50aHJlc2g9MWUtNCkKYS5zZXRfeHRpY2tzKHgpOyBhLnNldF94dGlja2xhYmVscyhraywgZm9udHNpemU9OSkKYS5zZXRfdGl0bGUoIuKRpSDphY3lr7nlr7nnhafvvJrlnY/kuJbnlYzmlZnkuI3kuobkuJzopb/vvIjOlOKJiDDvvIkiLCBmb250c2l6ZT0xMikKYS5sZWdlbmQoZm9udHNpemU9OSk7IGEuZ3JpZChhbHBoYT0uMywgYXhpcz0neScpCgpwbHQudGlnaHRfbGF5b3V0KCkKcGx0LnNhdmVmaWcoT1VUICsgIi9maWcxMjcucG5nIiwgZHBpPTExMCkKcGx0LnNhdmVmaWcoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2ZpZy8xMjdfc3RyZXNzX2FubmVhbC5wbmciLCBkcGk9MTEwKQpwcmludCgic2F2ZWQgZmlnMTI3LnBuZyIpCg==
+# -*- coding: utf-8 -*-
+import json, os
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp127_stress_anneal"
+for p in ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+          "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc"]:
+    if os.path.exists(p):
+        font_manager.fontManager.addfont(p)
+        plt.rcParams['font.family'] = font_manager.FontProperties(fname=p).get_name()
+        break
+plt.rcParams['axes.unicode_minus'] = False
+
+B = json.load(open(OUT + "/result127B.json"))
+C = json.load(open(OUT + "/result127C.json"))
+D = json.load(open(OUT + "/result127D.json"))
+
+fig, ax = plt.subplots(2, 3, figsize=(18, 10))
+
+# 1 应力扫描
+a = ax[0, 0]
+for nm, col, mk in [('S1 失血', '#c0392b', 'o'), ('S2 发烧', '#2980b9', 's'), ('S3 老化', '#27ae60', '^')]:
+    rows = B[nm]
+    xs = np.arange(len(rows))
+    a.plot(xs, [r['alive'] for r in rows], mk + '-', color=col, label=nm, lw=2)
+a.set_xticks(range(8))
+a.set_xticklabels([f"{r['level']:.3g}" for r in B['S1 失血']], fontsize=8)
+a.axhline(0.5, ls='--', c='gray', lw=1)
+a.set_title("① 应力扫描：只有发烧是陡峭临界", fontsize=12)
+a.set_xlabel("档位序号（三维度各自从弱到强）", fontsize=9)
+a.set_ylabel("撤除供给后存活率", fontsize=10)
+a.legend(fontsize=8); a.grid(alpha=.3)
+
+# 2 P2 学习律归一化
+a = ax[0, 1]
+nz = [float(k) for k in B['P2'].keys()]
+orig = [B['P2'][k][0] for k in B['P2']]
+norm = [B['P2'][k][1] for k in B['P2']]
+a.semilogx(nz, orig, 'o-', c='#c0392b', label='原版（协方差）', lw=2)
+a.semilogx(nz, norm, 's-', c='#27ae60', label='归一版（相关系数）', lw=2)
+a.set_title("② 尺度泄漏：噪声越大学得越多是假的", fontsize=12)
+a.set_xlabel("世界噪声", fontsize=10); a.set_ylabel("学到的 fg", fontsize=10)
+a.legend(fontsize=9); a.grid(alpha=.3)
+a.annotate('尺度泄漏', xy=(16, orig[-1]), xytext=(2, 0.6), fontsize=9, color='#c0392b',
+           arrowprops=dict(arrowstyle='->', color='#c0392b'))
+
+# 3 退火：fg
+a = ax[0, 2]
+ks = ['cool', 'constant', 'slow', 'fast', 'quench']
+lb = ['常温\n(无高温)', '高温恒温', '慢退火', '快退火', '淬火']
+an = C['anneal']
+v = [an[k]['fg'] for k in ks]
+bars = a.bar(lb, v, color=['#7f8c8d', '#c0392b', '#27ae60', '#e67e22', '#8e44ad'])
+for b_, vv in zip(bars, v):
+    a.text(b_.get_x() + b_.get_width() / 2, vv, f"{vv:.4f}", ha='center', va='bottom', fontsize=9)
+a.set_title("③ 退火后学到多少：高温恒温最大（但是虚高）", fontsize=12)
+a.set_ylabel("学到的 fg", fontsize=10); a.grid(alpha=.3, axis='y')
+
+# 4 退火：漂移（稳定性）
+a = ax[1, 0]
+v = [an[k]['drift'] for k in ks]
+bars = a.bar(lb, v, color=['#7f8c8d', '#c0392b', '#27ae60', '#e67e22', '#8e44ad'])
+a.set_yscale('log')
+for b_, vv in zip(bars, v):
+    a.text(b_.get_x() + b_.get_width() / 2, vv, f"{vv:.5f}", ha='center', va='bottom', fontsize=8)
+a.set_title("④ 稳定性：退火后漂移小 8 倍（退火的价值是稳不是大）", fontsize=12)
+a.set_ylabel("最后300拍 |Δfg|（对数轴）", fontsize=10); a.grid(alpha=.3, axis='y')
+
+# 5 退火速率剂量
+a = ax[1, 1]
+d = D['anneal_dose']
+x = [r['ratio'] for r in d]
+a.semilogx(x, [r['fg'] for r in d], 'o-', c='#2980b9', label='学到 fg', lw=2)
+a2 = a.twinx()
+a2.semilogx(x, [r['drift'] for r in d], 's--', c='#c0392b', label='漂移', lw=2)
+a.set_title("⑤ 降温时长剂量：单调权衡，无最优点", fontsize=12)
+a.set_xlabel("降温时间常数 / 训练总长", fontsize=10)
+a.set_ylabel("学到 fg", fontsize=10); a2.set_ylabel("漂移", fontsize=10)
+a.legend(loc=2, fontsize=9); a2.legend(loc=4, fontsize=9); a.grid(alpha=.3)
+
+# 6 续学配对：好世界 vs 坏世界
+a = ax[1, 2]
+cp = D['continue_pair']
+kk = ['cool', 'constant', 'slow', 'quench']
+g = [cp[k]['dgood'] for k in kk]
+b_ = [cp[k]['dbad'] for k in kk]
+x = np.arange(len(kk)); w = 0.36
+a.bar(x - w / 2, g, w, label='好世界续学 Δfg', color='#27ae60')
+a.bar(x + w / 2, b_, w, label='坏世界续学 Δfg', color='#c0392b')
+a.set_yscale('symlog', linthresh=1e-4)
+a.set_xticks(x); a.set_xticklabels(kk, fontsize=9)
+a.set_title("⑥ 配对对照：坏世界教不了东西（Δ≈0）", fontsize=12)
+a.legend(fontsize=9); a.grid(alpha=.3, axis='y')
+
+plt.tight_layout()
+plt.savefig(OUT + "/fig127.png", dpi=110)
+plt.savefig("/data/workspace/luoshen-o1/fig/127_stress_anneal.png", dpi=110)
+print("saved fig127.png")

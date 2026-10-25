@@ -1,1 +1,157 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjEwMWMgwrcg5pivIui3s+W+l+WLpCLov5jmmK8i6Lez5a+55Zyw5pa5Iu+8n+KAlOKAlCDkuInnu4TlhrPlrprmgKflr7nnhacKCjEwMWIg5bey5YiG56a777yaUCtBQ1RJVkUgMS4wMDAwID4gTitBQ1RJVkUgMC43NTAwID4gRklYRUQgMC4xMjUwCuS9hiAxMDFiIOaXoOazleWbnuetlO+8muS4u+WKqOe7hOeahOS8mOWKv+adpeiHqiLliqgi5pys6Lqr77yM6L+Y5piv5p2l6IeqIui3s+WvueS6huS9jee9riLvvJ8K77yI5LiOIDA5NyB5b2tlZCDlr7nnhaflkIzmupDvvJrlkIzmoLfnmoTov5Dliqjph4/vvIzkuI3lkIznmoTkv6Hmga/vvIkKCuS4iee7hOWvueeFp++8mgoKIEMxIOWBh+W8leWvvO+8iHlva2VkLXNhbGllbmNl77yJ77ya6Lez6LeD5qyh5pWw5LiO55yf5byV5a+86YCQ5qyh55u45ZCM77yMCiAgICDkvYbmioogc2FsaWVuY2UgbWFwIOepuumXtOaJk+S5seWQjuWGjeWPliBhcmdtYXjjgIIKICAgIOKGkiDliqjlvpfkuIDmoLflpJrvvIzot7PnmoTmmK/plJnlnLDmlrnjgIIKICAgICAg6IulIGFjYyDltKnliLAgTitBQ1RJVkUg5rC05bmzIOKHkiDotbfkvZznlKjnmoTkuI3mmK8i5YqoIu+8jOaYryLkv6Hmga/otKjph48i44CCCgogQzIg5ZGo6L655YiG6L6o546H5YmC6YeP77yaUEVSSVBIIOKIiCB7OCwxNiwzMiw2NH0KICAgIOKGkiDlkajovrnotornspfvvIzlvJXlr7zotorlt67jgILpooTmnJ/ljZXosIPjgIIKCiBDMyDpooTnrpfliYLph4/vvJpUIOKIiCB7MSwyLDMsNCw2LDgsMTJ9CiAgICDihpIg5YiG56a75L2V5pe25Ye6546w44CCCgogQzQg5YGH5byV5a+8wrfliYLph4/vvJrmioogc2FsIOaJk+S5seavlOS+iyBwIOKIiCB7MCwwLjI1LDAuNSwwLjc1LDEuMH3vvIgwPeecn+W8leWvvO+8iQogICAg4oaSIOiLpemajyBwIOWNleiwg+S4i+mZjSDih5Ig5byV5a+85L+h5oGv6LSo6YeP5piv5Zug5p6c5Y+Y6YeP44CCCiIiIgppbXBvcnQgbnVtcHkgYXMgbnAsIGN2MiwganNvbiwgaGFzaGxpYgpmcm9tIGV4cDEwMWIgaW1wb3J0IChiYXNlX3RleHR1cmUsIG1ha2Vfb2JqZWN0LCBwZXJpcGhlcmFsLCBzYWxpZW5jZSwKICAgICAgICAgICAgICAgICAgICAgZm92ZWEsIG1hdGNoX2NvdW50LCBOX09CSiwgUywgRk9WLCBULCBPUkJfS1cpCgpQRVJJUEgwID0gMzIKCgpkZWYgcnVuX29uZShvYmosIGNhbmRfZGVzYywgb3JiLCBiZiwgbW9kZSwgc2VlZCwgVD1ULCBwZXJpcGhfcmVzPVBFUklQSDAsCiAgICAgICAgICAgIHNjcmFtYmxlPTAuMCwgcm5nX3Njcj1Ob25lKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgcGVyID0gcGVyaXBoZXJhbChvYmosIHBlcmlwaF9yZXMpCiAgICBzYWwgPSBzYWxpZW5jZShwZXIpCiAgICBpZiBzY3JhbWJsZSA+IDA6CiAgICAgICAgaWYgcm5nX3NjciBpcyBOb25lOgogICAgICAgICAgICBybmdfc2NyID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQgKyA3KQogICAgICAgICMg5oqK5pi+6JGX5oCn5Zu+55qE56m66Ze057uT5p6E5oyJ5q+U5L6L56C05Z2P77yIMD3ljp/moLfvvIwxPeWujOWFqOmHjeaOku+8iQogICAgICAgIGZsYXQgPSBzYWwuZmxhdHRlbigpLmNvcHkoKQogICAgICAgIHBlcm0gPSBybmdfc2NyLnBlcm11dGF0aW9uKGxlbihmbGF0KSkKICAgICAgICBtYXNrID0gcm5nX3Njci5yYW5kb20obGVuKGZsYXQpKSA8IHNjcmFtYmxlCiAgICAgICAgZmxhdDIgPSBmbGF0LmNvcHkoKQogICAgICAgIGZsYXQyW21hc2tdID0gZmxhdFtwZXJtXVttYXNrXQogICAgICAgIHNhbCA9IGZsYXQyLnJlc2hhcGUoc2FsLnNoYXBlKQogICAgaW5oID0gbnAuemVyb3MoKHBlcmlwaF9yZXMsIHBlcmlwaF9yZXMpKQogICAgcmVzID0gcGVyaXBoX3JlcwoKICAgIGN4LCBjeSA9IFMgLy8gMiwgUyAvLyAyCiAgICBhY2MgPSBOb25lCiAgICB2aXNpdGVkID0gW10KICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgIGlmIG1vZGUgPT0gIkZJWEVEIjoKICAgICAgICAgICAgcGFzcwogICAgICAgIGVsaWYgbW9kZSBpbiAoIkdVSURFRCIsICJTSEFNIik6CiAgICAgICAgICAgIHMgPSBzYWwgLSBpbmggKiAoc2FsLm1heCgpICsgMWUtOSkKICAgICAgICAgICAgaWR4ID0gaW50KG5wLmFyZ21heChzKSkKICAgICAgICAgICAgcHksIHB4ID0gZGl2bW9kKGlkeCwgcmVzKQogICAgICAgICAgICBjeCA9IGludChucC5jbGlwKHB4IC8gcmVzICogUywgRk9WIC8vIDIsIFMgLSBGT1YgLy8gMikpCiAgICAgICAgICAgIGN5ID0gaW50KG5wLmNsaXAocHkgLyByZXMgKiBTLCBGT1YgLy8gMiwgUyAtIEZPViAvLyAyKSkKICAgICAgICBlbGlmIG1vZGUgPT0gIkJMSU5EIjoKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoMzApOgogICAgICAgICAgICAgICAgbnggPSBpbnQocm5nLmludGVnZXJzKEZPViAvLyAyLCBTIC0gRk9WIC8vIDIpKQogICAgICAgICAgICAgICAgbnkgPSBpbnQocm5nLmludGVnZXJzKEZPViAvLyAyLCBTIC0gRk9WIC8vIDIpKQogICAgICAgICAgICAgICAgaWYgYWxsKGFicyhueCAtIHZ4KSA+IEZPViAvLyAyIG9yIGFicyhueSAtIHZ5KSA+IEZPViAvLyAyCiAgICAgICAgICAgICAgICAgICAgICAgZm9yIHZ4LCB2eSBpbiB2aXNpdGVkKToKICAgICAgICAgICAgICAgICAgICBjeCwgY3kgPSBueCwgbnkKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgIHZpc2l0ZWQuYXBwZW5kKChjeCwgY3kpKQogICAgICAgIGQgPSBvcmIuZGV0ZWN0QW5kQ29tcHV0ZShmb3ZlYShvYmosIGN4LCBjeSksIE5vbmUpWzFdCiAgICAgICAgaWYgZCBpcyBub3QgTm9uZToKICAgICAgICAgICAgYWNjID0gZCBpZiBhY2MgaXMgTm9uZSBlbHNlIG5wLnZzdGFjayhbYWNjLCBkXSkKICAgICAgICBweSA9IGludChucC5jbGlwKGN5IC8gUyAqIHJlcywgMCwgcmVzIC0gMSkpCiAgICAgICAgcHggPSBpbnQobnAuY2xpcChjeCAvIFMgKiByZXMsIDAsIHJlcyAtIDEpKQogICAgICAgIGN2Mi5jaXJjbGUoaW5oLCAocHgsIHB5KSwgMywgMS4wLCAtMSkKCiAgICBzYyA9IFttYXRjaF9jb3VudChhY2MsIGNkLCBiZikgZm9yIGNkIGluIGNhbmRfZGVzY10KICAgIGEgPSBucC5hcnJheShzYywgZmxvYXQpCiAgICBtYXJnaW4gPSBmbG9hdChhLm1heCgpIC0gbnAuc29ydChhKVstMl0pIGlmIGxlbihhKSA+IDEgZWxzZSAwLjAKICAgIHJldHVybiBkaWN0KHByZWQ9aW50KG5wLmFyZ21heChzYykpLCBzY29yZXM9c2MsIG1hcmdpbj1tYXJnaW4sCiAgICAgICAgICAgICAgICBuX2twPTAgaWYgYWNjIGlzIE5vbmUgZWxzZSBsZW4oYWNjKSwgdmlzaXRlZD12aXNpdGVkKQoKCmRlZiBzd2VlcChvYmpzLCBjYW5kX2Rlc2MsIG9yYiwgYmYsIGxhYmVsLCBjZmcsIG5fdHJpYWw9MzIpOgogICAgcnMgPSBbXQogICAgZm9yIHRpIGluIHJhbmdlKGxlbihvYmpzKSk6CiAgICAgICAgZm9yIGsgaW4gcmFuZ2UobWF4KDEsIG5fdHJpYWwgLy8gbGVuKG9ianMpKSk6CiAgICAgICAgICAgIHNlZWQgPSA0MTAwMCArIHRpICogMTAwICsgawogICAgICAgICAgICBybmdfc2NyID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQgKyA3KQogICAgICAgICAgICByID0gcnVuX29uZShvYmpzW3RpXSwgY2FuZF9kZXNjLCBvcmIsIGJmLCBjZmdbIm1vZGUiXSwgc2VlZCwgKipjZmdbImt3Il0pCiAgICAgICAgICAgIHJbImNvcnJlY3QiXSA9IGludChyWyJwcmVkIl0gPT0gdGkpCiAgICAgICAgICAgIHJzLmFwcGVuZChyKQogICAgYWNjID0gZmxvYXQobnAubWVhbihbclsiY29ycmVjdCJdIGZvciByIGluIHJzXSkpCiAgICBrcCA9IGZsb2F0KG5wLm1lYW4oW3JbIm5fa3AiXSBmb3IgciBpbiByc10pKQogICAgbWcgPSBmbG9hdChucC5tZWFuKFtyWyJtYXJnaW4iXSBmb3IgciBpbiByc10pKQogICAgcHJpbnQoZiJ7bGFiZWw6MjZzfSBhY2M9e2FjYzouNGZ9ICDnibnlvoE9e2twOjYuMWZ9ICDoo5XluqY9e21nOis3LjJmfSAgbj17bGVuKHJzKX0iKQogICAgcmV0dXJuIGRpY3QoYWNjPWFjYywgbl9rcD1rcCwgbWFyZ2luPW1nLCBuPWxlbihycyksCiAgICAgICAgICAgICAgICBjb3JyZWN0PVtpbnQoclsiY29ycmVjdCJdKSBmb3IgciBpbiByc10pCgoKZGVmIG1haW4oKToKICAgIG9yYiA9IGN2Mi5PUkJfY3JlYXRlKCoqT1JCX0tXKQogICAgYmYgPSBjdjIuQkZNYXRjaGVyKGN2Mi5OT1JNX0hBTU1JTkcpCiAgICBiYXNlID0gYmFzZV90ZXh0dXJlKCkKICAgIG9ianMgPSBbbWFrZV9vYmplY3QoYmFzZSwgaSlbMF0gZm9yIGkgaW4gcmFuZ2UoTl9PQkopXQogICAgY2FuZF9kZXNjID0gW29yYi5kZXRlY3RBbmRDb21wdXRlKG8sIE5vbmUpWzFdIGZvciBvIGluIG9ianNdCiAgICBvdXQgPSB7fQoKICAgIHByaW50KCJcbi0tLSBDMSDlgYflvJXlr7zvvIjlkIzmoLfnmoTot7Pot4PmrKHmlbDvvIzot7PplJnlnLDmlrnvvIktLS0iKQogICAgb3V0WyJDMV9zaGFtIl0gPSB7CiAgICAgICAgIkdVSURFRCDnnJ/lvJXlr7wiOiBzd2VlcChvYmpzLCBjYW5kX2Rlc2MsIG9yYiwgYmYsICJHVUlERUQg55yf5byV5a+8IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpY3QobW9kZT0iR1VJREVEIiwga3c9ZGljdCgpKSksCiAgICAgICAgIlNIQU0g5YGH5byV5a+8KOWujOWFqOmHjeaOkikiOiBzd2VlcChvYmpzLCBjYW5kX2Rlc2MsIG9yYiwgYmYsICJTSEFNIOWBh+W8leWvvCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpY3QobW9kZT0iU0hBTSIsIGt3PWRpY3Qoc2NyYW1ibGU9MS4wKSkpLAogICAgICAgICJCTElORCDnm7LliqgiOiBzd2VlcChvYmpzLCBjYW5kX2Rlc2MsIG9yYiwgYmYsICJCTElORCDnm7LliqgiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGljdChtb2RlPSJCTElORCIsIGt3PWRpY3QoKSkpLAogICAgICAgICJGSVhFRCDkuI3liqgiOiBzd2VlcChvYmpzLCBjYW5kX2Rlc2MsIG9yYiwgYmYsICJGSVhFRCDkuI3liqgiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGljdChtb2RlPSJGSVhFRCIsIGt3PWRpY3QoKSkpLAogICAgfQoKICAgIHByaW50KCJcbi0tLSBDNCDlvJXlr7zotKjph4/liYLph4/vvIhzY3JhbWJsZSDmr5TkvovvvIktLS0iKQogICAgb3V0WyJDNF9zY3JhbWJsZSJdID0ge30KICAgIGZvciBwIGluIFswLjAsIDAuMjUsIDAuNSwgMC43NSwgMS4wXToKICAgICAgICBsYmwgPSBmInNjcmFtYmxlPXtwOi4yZn0iCiAgICAgICAgb3V0WyJDNF9zY3JhbWJsZSJdW2xibF0gPSBzd2VlcChvYmpzLCBjYW5kX2Rlc2MsIG9yYiwgYmYsIGxibCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpY3QobW9kZT0iU0hBTSIsIGt3PWRpY3Qoc2NyYW1ibGU9cCkpKQoKICAgIHByaW50KCJcbi0tLSBDMiDlkajovrnliIbovqjnjofliYLph48gLS0tIikKICAgIG91dFsiQzJfcGVyaXBoIl0gPSB7fQogICAgZm9yIHByIGluIFs4LCAxNiwgMzIsIDY0XToKICAgICAgICBsYmwgPSBmInBlcmlwaD17cHJ9IgogICAgICAgIG91dFsiQzJfcGVyaXBoIl1bbGJsXSA9IHN3ZWVwKG9ianMsIGNhbmRfZGVzYywgb3JiLCBiZiwgbGJsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpY3QobW9kZT0iR1VJREVEIiwga3c9ZGljdChwZXJpcGhfcmVzPXByKSkpCgogICAgcHJpbnQoIlxuLS0tIEMzIOmihOeul+WJgumHj++8iFTvvIktLS0iKQogICAgb3V0WyJDM19idWRnZXQiXSA9IHt9CiAgICBmb3IgdCBpbiBbMSwgMiwgMywgNCwgNiwgOCwgMTJdOgogICAgICAgIGxibCA9IGYiVD17dH0iCiAgICAgICAgb3V0WyJDM19idWRnZXQiXVtsYmxdID0gewogICAgICAgICAgICAiR1VJREVEIjogc3dlZXAob2JqcywgY2FuZF9kZXNjLCBvcmIsIGJmLCBsYmwgKyAiIEdVSURFRCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaWN0KG1vZGU9IkdVSURFRCIsIGt3PWRpY3QoVD10KSkpLAogICAgICAgICAgICAiQkxJTkQiOiBzd2VlcChvYmpzLCBjYW5kX2Rlc2MsIG9yYiwgYmYsIGxibCArICIgQkxJTkQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICBkaWN0KG1vZGU9IkJMSU5EIiwga3c9ZGljdChUPXQpKSksCiAgICAgICAgICAgICJGSVhFRCI6IHN3ZWVwKG9ianMsIGNhbmRfZGVzYywgb3JiLCBiZiwgbGJsICsgIiBGSVhFRCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpY3QobW9kZT0iRklYRUQiLCBrdz1kaWN0KFQ9dCkpKSwKICAgICAgICB9CgogICAgb3V0WyJfbWV0YSJdID0gZGljdChOX09CSj1OX09CSiwgUz1TLCBGT1Y9Rk9WLCBUPVQsIFBFUklQSDA9UEVSSVBIMCwgT1JCPU9SQl9LVykKICAgIG91dFsiX3NoYSJdID0gaGFzaGxpYi5zaGEyNTYoCiAgICAgICAganNvbi5kdW1wcyhvdXQsIHNvcnRfa2V5cz1UcnVlLCBlbnN1cmVfYXNjaWk9RmFsc2UpLmVuY29kZSgpKS5oZXhkaWdlc3QoKVs6MTZdCiAgICBqc29uLmR1bXAob3V0LCBvcGVuKCJyZXN1bHRfMTAxYy5qc29uIiwgInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKICAgIHByaW50KCJcbnNhdmVkIHJlc3VsdF8xMDFjLmpzb24gc2hhIiwgb3V0WyJfc2hhIl0pCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+# -*- coding: utf-8 -*-
+"""
+101c · 是"跳得勤"还是"跳对地方"？—— 三组决定性对照
+
+101b 已分离：P+ACTIVE 1.0000 > N+ACTIVE 0.7500 > FIXED 0.1250
+但 101b 无法回答：主动组的优势来自"动"本身，还是来自"跳对了位置"？
+（与 097 yoked 对照同源：同样的运动量，不同的信息）
+
+三组对照：
+
+ C1 假引导（yoked-salience）：跳跃次数与真引导逐次相同，
+    但把 salience map 空间打乱后再取 argmax。
+    → 动得一样多，跳的是错地方。
+      若 acc 崩到 N+ACTIVE 水平 ⇒ 起作用的不是"动"，是"信息质量"。
+
+ C2 周边分辨率剂量：PERIPH ∈ {8,16,32,64}
+    → 周边越粗，引导越差。预期单调。
+
+ C3 预算剂量：T ∈ {1,2,3,4,6,8,12}
+    → 分离何时出现。
+
+ C4 假引导·剂量：把 sal 打乱比例 p ∈ {0,0.25,0.5,0.75,1.0}（0=真引导）
+    → 若随 p 单调下降 ⇒ 引导信息质量是因果变量。
+"""
+import numpy as np, cv2, json, hashlib
+from exp101b import (base_texture, make_object, peripheral, salience,
+                     fovea, match_count, N_OBJ, S, FOV, T, ORB_KW)
+
+PERIPH0 = 32
+
+
+def run_one(obj, cand_desc, orb, bf, mode, seed, T=T, periph_res=PERIPH0,
+            scramble=0.0, rng_scr=None):
+    rng = np.random.default_rng(seed)
+    per = peripheral(obj, periph_res)
+    sal = salience(per)
+    if scramble > 0:
+        if rng_scr is None:
+            rng_scr = np.random.default_rng(seed + 7)
+        # 把显著性图的空间结构按比例破坏（0=原样，1=完全重排）
+        flat = sal.flatten().copy()
+        perm = rng_scr.permutation(len(flat))
+        mask = rng_scr.random(len(flat)) < scramble
+        flat2 = flat.copy()
+        flat2[mask] = flat[perm][mask]
+        sal = flat2.reshape(sal.shape)
+    inh = np.zeros((periph_res, periph_res))
+    res = periph_res
+
+    cx, cy = S // 2, S // 2
+    acc = None
+    visited = []
+    for t in range(T):
+        if mode == "FIXED":
+            pass
+        elif mode in ("GUIDED", "SHAM"):
+            s = sal - inh * (sal.max() + 1e-9)
+            idx = int(np.argmax(s))
+            py, px = divmod(idx, res)
+            cx = int(np.clip(px / res * S, FOV // 2, S - FOV // 2))
+            cy = int(np.clip(py / res * S, FOV // 2, S - FOV // 2))
+        elif mode == "BLIND":
+            for _ in range(30):
+                nx = int(rng.integers(FOV // 2, S - FOV // 2))
+                ny = int(rng.integers(FOV // 2, S - FOV // 2))
+                if all(abs(nx - vx) > FOV // 2 or abs(ny - vy) > FOV // 2
+                       for vx, vy in visited):
+                    cx, cy = nx, ny
+                    break
+        visited.append((cx, cy))
+        d = orb.detectAndCompute(fovea(obj, cx, cy), None)[1]
+        if d is not None:
+            acc = d if acc is None else np.vstack([acc, d])
+        py = int(np.clip(cy / S * res, 0, res - 1))
+        px = int(np.clip(cx / S * res, 0, res - 1))
+        cv2.circle(inh, (px, py), 3, 1.0, -1)
+
+    sc = [match_count(acc, cd, bf) for cd in cand_desc]
+    a = np.array(sc, float)
+    margin = float(a.max() - np.sort(a)[-2]) if len(a) > 1 else 0.0
+    return dict(pred=int(np.argmax(sc)), scores=sc, margin=margin,
+                n_kp=0 if acc is None else len(acc), visited=visited)
+
+
+def sweep(objs, cand_desc, orb, bf, label, cfg, n_trial=32):
+    rs = []
+    for ti in range(len(objs)):
+        for k in range(max(1, n_trial // len(objs))):
+            seed = 41000 + ti * 100 + k
+            rng_scr = np.random.default_rng(seed + 7)
+            r = run_one(objs[ti], cand_desc, orb, bf, cfg["mode"], seed, **cfg["kw"])
+            r["correct"] = int(r["pred"] == ti)
+            rs.append(r)
+    acc = float(np.mean([r["correct"] for r in rs]))
+    kp = float(np.mean([r["n_kp"] for r in rs]))
+    mg = float(np.mean([r["margin"] for r in rs]))
+    print(f"{label:26s} acc={acc:.4f}  特征={kp:6.1f}  裕度={mg:+7.2f}  n={len(rs)}")
+    return dict(acc=acc, n_kp=kp, margin=mg, n=len(rs),
+                correct=[int(r["correct"]) for r in rs])
+
+
+def main():
+    orb = cv2.ORB_create(**ORB_KW)
+    bf = cv2.BFMatcher(cv2.NORM_HAMMING)
+    base = base_texture()
+    objs = [make_object(base, i)[0] for i in range(N_OBJ)]
+    cand_desc = [orb.detectAndCompute(o, None)[1] for o in objs]
+    out = {}
+
+    print("\n--- C1 假引导（同样的跳跃次数，跳错地方）---")
+    out["C1_sham"] = {
+        "GUIDED 真引导": sweep(objs, cand_desc, orb, bf, "GUIDED 真引导",
+                               dict(mode="GUIDED", kw=dict())),
+        "SHAM 假引导(完全重排)": sweep(objs, cand_desc, orb, bf, "SHAM 假引导",
+                                       dict(mode="SHAM", kw=dict(scramble=1.0))),
+        "BLIND 盲动": sweep(objs, cand_desc, orb, bf, "BLIND 盲动",
+                            dict(mode="BLIND", kw=dict())),
+        "FIXED 不动": sweep(objs, cand_desc, orb, bf, "FIXED 不动",
+                            dict(mode="FIXED", kw=dict())),
+    }
+
+    print("\n--- C4 引导质量剂量（scramble 比例）---")
+    out["C4_scramble"] = {}
+    for p in [0.0, 0.25, 0.5, 0.75, 1.0]:
+        lbl = f"scramble={p:.2f}"
+        out["C4_scramble"][lbl] = sweep(objs, cand_desc, orb, bf, lbl,
+                                        dict(mode="SHAM", kw=dict(scramble=p)))
+
+    print("\n--- C2 周边分辨率剂量 ---")
+    out["C2_periph"] = {}
+    for pr in [8, 16, 32, 64]:
+        lbl = f"periph={pr}"
+        out["C2_periph"][lbl] = sweep(objs, cand_desc, orb, bf, lbl,
+                                      dict(mode="GUIDED", kw=dict(periph_res=pr)))
+
+    print("\n--- C3 预算剂量（T）---")
+    out["C3_budget"] = {}
+    for t in [1, 2, 3, 4, 6, 8, 12]:
+        lbl = f"T={t}"
+        out["C3_budget"][lbl] = {
+            "GUIDED": sweep(objs, cand_desc, orb, bf, lbl + " GUIDED",
+                            dict(mode="GUIDED", kw=dict(T=t))),
+            "BLIND": sweep(objs, cand_desc, orb, bf, lbl + " BLIND",
+                           dict(mode="BLIND", kw=dict(T=t))),
+            "FIXED": sweep(objs, cand_desc, orb, bf, lbl + " FIXED",
+                           dict(mode="FIXED", kw=dict(T=t))),
+        }
+
+    out["_meta"] = dict(N_OBJ=N_OBJ, S=S, FOV=FOV, T=T, PERIPH0=PERIPH0, ORB=ORB_KW)
+    out["_sha"] = hashlib.sha256(
+        json.dumps(out, sort_keys=True, ensure_ascii=False).encode()).hexdigest()[:16]
+    json.dump(out, open("result_101c.json", "w"), ensure_ascii=False, indent=2)
+    print("\nsaved result_101c.json sha", out["_sha"])
+
+
+if __name__ == "__main__":
+    main()

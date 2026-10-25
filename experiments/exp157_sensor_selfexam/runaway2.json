@@ -1,1 +1,70 @@
-ewogIm5vaXNlX21heCI6IDEyMS42LAogIm5vaXNlX3N0ZCI6IDUuNzU2NjE3NTkwNTA2ODg4LAogInJvd3MiOiB7CiAgIjIwMDBfYWN0IjogewogICAidHByIjogMSwKICAgImZwciI6IDAsCiAgICJydW5hd2F5IjogMC4wLAogICAiZmlyc3RfZnAiOiAtMSwKICAgImZpbmFsX25zIjogMjUyMTUuMzU4NSwKICAgImZpbmFsX2x2bCI6IDQKICB9LAogICIyMDAwX2ZyZWV6ZSI6IHsKICAgInRwciI6IDEsCiAgICJmcHIiOiAwLAogICAicnVuYXdheSI6IDAuMCwKICAgImZpcnN0X2ZwIjogLTEsCiAgICJmaW5hbF9ucyI6IDMwMzEuNjc2MTY2NjY2NjY2NiwKICAgImZpbmFsX2x2bCI6IDAKICB9LAogICI1MDBfYWN0IjogewogICAidHByIjogMSwKICAgImZwciI6IDAsCiAgICJydW5hd2F5IjogMC4wLAogICAiZmlyc3RfZnAiOiAtMSwKICAgImZpbmFsX25zIjogMjU3NDguOTA0ODMzMzMzMzM0LAogICAiZmluYWxfbHZsIjogNAogIH0sCiAgIjUwMF9mcmVlemUiOiB7CiAgICJ0cHIiOiAxLAogICAiZnByIjogMCwKICAgInJ1bmF3YXkiOiAwLjAsCiAgICJmaXJzdF9mcCI6IC0xLAogICAiZmluYWxfbnMiOiAzMDYwLjY1NzUsCiAgICJmaW5hbF9sdmwiOiAwCiAgfSwKICAiMTIwX2FjdCI6IHsKICAgInRwciI6IDEsCiAgICJmcHIiOiAwLAogICAicnVuYXdheSI6IDAuMiwKICAgImZpcnN0X2ZwIjogMy41LAogICAiZmluYWxfbnMiOiAyODA4OC44NDM5OTk5OTk5OTcsCiAgICJmaW5hbF9sdmwiOiA0LjQ1CiAgfSwKICAiMTIwX2ZyZWV6ZSI6IHsKICAgInRwciI6IDEsCiAgICJmcHIiOiAwLAogICAicnVuYXdheSI6IDAuMCwKICAgImZpcnN0X2ZwIjogLTEsCiAgICJmaW5hbF9ucyI6IDMwNjIuNzEyNjY2NjY2NjY3LAogICAiZmluYWxfbHZsIjogMAogIH0sCiAgIjk1X2FjdCI6IHsKICAgInRwciI6IDEsCiAgICJmcHIiOiAwLjQsCiAgICJydW5hd2F5IjogMC42LAogICAiZmlyc3RfZnAiOiAxLjMzMzMzMzMzMzMzMzMzMzMsCiAgICJmaW5hbF9ucyI6IDM2Nzk0LjY4OTE2NjY2NjY2LAogICAiZmluYWxfbHZsIjogNgogIH0sCiAgIjk1X2ZyZWV6ZSI6IHsKICAgInRwciI6IDEsCiAgICJmcHIiOiAwLjIsCiAgICJydW5hd2F5IjogMC4wLAogICAiZmlyc3RfZnAiOiAxLjIsCiAgICJmaW5hbF9ucyI6IDMwNjkuNTE5NSwKICAgImZpbmFsX2x2bCI6IDAKICB9CiB9Cn0=
+{
+ "noise_max": 121.6,
+ "noise_std": 5.756617590506888,
+ "rows": {
+  "2000_act": {
+   "tpr": 1,
+   "fpr": 0,
+   "runaway": 0.0,
+   "first_fp": -1,
+   "final_ns": 25215.3585,
+   "final_lvl": 4
+  },
+  "2000_freeze": {
+   "tpr": 1,
+   "fpr": 0,
+   "runaway": 0.0,
+   "first_fp": -1,
+   "final_ns": 3031.6761666666666,
+   "final_lvl": 0
+  },
+  "500_act": {
+   "tpr": 1,
+   "fpr": 0,
+   "runaway": 0.0,
+   "first_fp": -1,
+   "final_ns": 25748.904833333334,
+   "final_lvl": 4
+  },
+  "500_freeze": {
+   "tpr": 1,
+   "fpr": 0,
+   "runaway": 0.0,
+   "first_fp": -1,
+   "final_ns": 3060.6575,
+   "final_lvl": 0
+  },
+  "120_act": {
+   "tpr": 1,
+   "fpr": 0,
+   "runaway": 0.2,
+   "first_fp": 3.5,
+   "final_ns": 28088.843999999997,
+   "final_lvl": 4.45
+  },
+  "120_freeze": {
+   "tpr": 1,
+   "fpr": 0,
+   "runaway": 0.0,
+   "first_fp": -1,
+   "final_ns": 3062.712666666667,
+   "final_lvl": 0
+  },
+  "95_act": {
+   "tpr": 1,
+   "fpr": 0.4,
+   "runaway": 0.6,
+   "first_fp": 1.3333333333333333,
+   "final_ns": 36794.68916666666,
+   "final_lvl": 6
+  },
+  "95_freeze": {
+   "tpr": 1,
+   "fpr": 0.2,
+   "runaway": 0.0,
+   "first_fp": 1.2,
+   "final_ns": 3069.5195,
+   "final_lvl": 0
+  }
+ }
+}

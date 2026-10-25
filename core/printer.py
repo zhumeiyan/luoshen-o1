@@ -1,1 +1,357 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNTkg5omT5Y2w5py6IOKAlOKAlCDlop7mnZDliLbpgKDvvJrku47jgIzmj4/ov7DjgI3liLDjgIzlrp7kvZPjgI0KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrimIXimIXimIUg5Li65LuA5LmI5omT5Y2w5py65piv6Zet546v55qE5pyA5ZCO5LiA5Z2XCiAgICDnnLzogLPpvLvoiIznmq7ogqTliY3luq3mnKzkvZPop4kg4oaSIOi+k+WFpQogICAg5omLIC8g5omL6IeCIC8g6ZSu6bygIC8g5aOw6Z+zICAgICAg4oaSIOi+k+WHuu+8jOS9huWPquiDveOAkOaTjeS9nOW3suacieOAkeeahOS4nOilvwogICAg5omT5Y2w5py6ICAgICAgICAgICAgICAgICAgICAgICDihpIg6L6T5Ye677yM44CQ5LuO5peg5Yiw5pyJ44CRCgogICAg4piFIOayoeacieaJk+WNsOacuu+8jOWug+aEn+efpeWIsOeahOS4lueVjOawuOi/nOaUueS4jeS6hiDigJTigJQg6Zet546v5Y+q5pyJ5LiA5Y2KCiAgICDimIUg5pyJ5LqG5omT5Y2w5py677ya5oSf55+lIOKGkiDlhrPnrZYg4oaSIOWItumAoCDihpIg5YaN5oSf55+l6Ieq5bex6YCg55qE5Lic6KW/CiAgICAgIOKYheKYhSDov5nmmK8g4piFMzDjgIzkuLvliqggPSDlpJrkuIDmnaHkv6Hmga/pgJrpgZPjgI3nmoTmnIDlvLrlvaLmgIEKICAgICAgICAg5a6D6YCg55qE5Lic6KW/77yM5a6D6Ieq5bex6IO955yL44CB6IO95pG4IOKAlOKAlCDlj43ppojotbDoh6rlt7HouqvkuIoKCuKYheKYhSDmoLjlv4PmnYPooaHvvJrlsYLljpogdAogICAg5pe26Ze0IOKInSAxL3QgICAgICAgIO+8iHQg5YeP5Y2KIOKGkiDml7bpl7Tnv7vlgI3vvIkKICAgIOeyl+ezmeW6piBSYSDiiJ0gdCAgICAg77yIdCDlh4/ljYog4oaSIOWFiea7keS4gOWAje+8iQogICAg4piFIOS4pOWktOmDveS4jeWlvSDihpIg5pyJ55yf5a6e5YaF6YOo5pyA5LyYCgrimIXimIXimIUg5pyA5LyY5bGC5Y6a5LiN5piv5oiR5a6a55qE77yM5piv44CQ5a6D55qE5oSf5a6Y44CR5a6a55qECiAgICDlsYLnurnnu4bliLDjgIznnLznnZvnnIvkuI3op4HjgI3kuJTjgIzmiYvmkbjkuI3lh7rjgI3lsLHlpJ/kuobvvIzlho3nu4bmmK/mtarotLnml7bpl7QKICAgIOKGkiDnnLznnZvvvIjimIUxNiDop4bplKUgLyDimIUyNSDlj4znnLzvvInnu5nliIbovqjpmIjlgLwKICAgIOKGkiDnmq7ogqTvvIjimIUyNyBQYWNpbmkg5oyv5Yqo6YCa6YGT77yJ57uZ6Kem6KeJ6ZiI5YC8CiAgICDimIXimIUg56Gs5L6d6LWW77ya5YWz5o6J55y8552bL+earuiCpCDihpIg5Yik5LiN5LqG44CM5aSf5LiN5aSf5aW944CN4oaSIOeul+S4jeWHuuacgOS8mOWxguWOmgogICAgICAg6Iul5LuN6IO9566X5Ye6ID0g5oSf5a6Y5piv5oyC5Lu277yI4piFMzMgLyDimIU0NCAvIOKYhTU3IOWQjOaXj++8iQoiIiIKaW1wb3J0IG51bXB5IGFzIG5wCgojIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgCDmnZDmlpnvvIhSRUFMIOW4uOingeWAvO+8iQpNQVRFUklBTFMgPSB7CiAgICAjICAgICAgICAgICDmlLbnvKnnjocgIOWxgumXtOe7k+WQiOeOhyDnjrvnkoPljJbmuKnluqbihIMgIOeDreiGqOiDgOezu+aVsCgxL+KEgykKICAgICJQTEEiOiAgZGljdChzaHJpbms9MC4wMDMsIGludGVybGF5ZXI9MC43NSwgdGc9NjAuMCwgIGN0ZT02LjhlLTUpLAogICAgIkFCUyI6ICBkaWN0KHNocmluaz0wLjAwNywgaW50ZXJsYXllcj0wLjY1LCB0Zz0xMDUuMCwgY3RlPTkuMGUtNSksCiAgICAiUEVURyI6IGRpY3Qoc2hyaW5rPTAuMDA0LCBpbnRlcmxheWVyPTAuODAsIHRnPTgwLjAsICBjdGU9Ny41ZS01KSwKICAgICLlsLzpvpkiOiBkaWN0KHNocmluaz0wLjAxNSwgaW50ZXJsYXllcj0wLjcwLCB0Zz03MC4wLCAgY3RlPTEuMGUtNCksCiAgICAi5qCR6ISCIjogZGljdChzaHJpbms9MC4wMDIsIGludGVybGF5ZXI9MC45NSwgdGc9OTAuMCwgIGN0ZT01LjBlLTUpLAp9CgoKIyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAgMSDlj7DpmLbmlYjlupQKZGVmIGN1c3BfaGVpZ2h0KHRfbW06IGZsb2F0LCB0aGV0YV9kZWc6IGZsb2F0KSAtPiBmbG9hdDoKICAgICIiIuKYhSDlj7DpmLbvvIhjdXNw77yJ6auY5bqmIOKAlOKAlCDliIblsYLliLbpgKDni6zmnInnmoTooajpnaLnvLrpmbcKCiAgICB0aGV0YV9kZWcgIOihqOmdouS4juOAkOawtOW5s+mdouOAkeeahOWkueinkgogICAgICAgICAgICAgICAgOTDCsCA9IOWeguebtOWjgSAgICAgIOKGkiDlsYLlrozlhajlr7npvZDvvIxjdXNwID0gMCDinIUKICAgICAgICAgICAgICAgIDQ1wrAgPSDmlpzpnaIgICAgICAgIOKGkiBjdXNwID0gMC43MDfCt3QKICAgICAgICAgICAgICAgICAwwrAgPSDmsLTlubPpnaIgICAgICDihpIgY3VzcCA9IHQKCiAgICDmjqjlr7zvvJrlnoLnm7TlsYLljpogdO+8jOawtOW5s+WBj+enuyDOlHggPSB0L3RhbijOuCkKICAgICAgICAgIOayv+ihqOmdouazlee6v+eahOacgOWkp+WBj+W3riA9IM6UeMK3c2luKM64KSA9IHTCt2NvcyjOuCkKICAgICIiIgogICAgdGggPSBucC5kZWcycmFkKGZsb2F0KHRoZXRhX2RlZykpCiAgICByZXR1cm4gZmxvYXQoYWJzKGZsb2F0KHRfbW0pICogbnAuY29zKHRoKSkpCgoKZGVmIHN1cmZhY2VfcmEodF9tbTogZmxvYXQsIHRoZXRhX2RlZzogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi4piFIOeul+acr+W5s+Wdh+eyl+ezmeW6piBSYSDiiYggY3VzcC8077yI5LiJ6KeS5rOi55qEIFJhID0g5bOw5bOw5YC8LzTvvIkiIiIKICAgIHJldHVybiBjdXNwX2hlaWdodCh0X21tLCB0aGV0YV9kZWcpIC8gNC4wCgoKIyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAgMiDml7bpl7QKZGVmIHByaW50X3RpbWUoaGVpZ2h0X21tOiBmbG9hdCwgYXJlYV9tbTI6IGZsb2F0LCB0X21tOiBmbG9hdCwKICAgICAgICAgICAgICAgc3BlZWRfbW1fczogZmxvYXQgPSA2MC4wLCBub3p6bGVfbW06IGZsb2F0ID0gMC40LAogICAgICAgICAgICAgICBtb3ZlX292ZXJoZWFkOiBmbG9hdCA9IDEuMzUsIGluZmlsbDogZmxvYXQgPSAwLjIpIC0+IGZsb2F0OgogICAgIiIi4piFIOaJk+WNsOaXtumXtO+8iOenku+8iQoKICAgIOKYhSDkvZPnp6/mtYHph48gUSA9IOe6v+WuvSDDlyDlsYLljpogw5cg6YCf5bqmCiAgICAgIOWunumZheWhq+WFheS9k+enryA9IGFyZWEgw5cgaGVpZ2h0IMOXIGluZmlsbAogICAgICDml7bpl7QgPSDkvZPnp68gLyBRICAgw5cg56m66am25byA6ZSA57O75pWwCgogICAg4piFIOS4jiB0IOaIkOOAkOWPjeavlOOAkeKAlOKAlCDov5nmmK/mnYPooaHnmoTkuIDljYoKICAgICIiIgogICAgdm9sID0gZmxvYXQoYXJlYV9tbTIpICogZmxvYXQoaGVpZ2h0X21tKSAqIGZsb2F0KGluZmlsbCkKICAgIHEgPSBmbG9hdChub3p6bGVfbW0pICogZmxvYXQodF9tbSkgKiBmbG9hdChzcGVlZF9tbV9zKSAgICMgbW3Csy9zCiAgICBpZiBxIDw9IDA6CiAgICAgICAgcmV0dXJuIGZsb2F0KCJpbmYiKQogICAgcmV0dXJuIGZsb2F0KHZvbCAvIHEgKiBmbG9hdChtb3ZlX292ZXJoZWFkKSkKCgojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCAzIOKYheKYheKYhSDmhJ/lrpjpmIjlgLwKZGVmIGV5ZV9yZXNvbHV0aW9uX3VtKGRpc3RfbW06IGZsb2F0ID0gMjUwLjAsCiAgICAgICAgICAgICAgICAgICAgICBtYWFfYXJjbWluOiBmbG9hdCA9IDEuMCkgLT4gZmxvYXQ6CiAgICAiIiLimIUg55y8552b6IO95YiG6L6o55qE5pyA5bCP54m55b6B77yIzrxt77yJ4oCU4oCUIOWGs+WumuOAjOWxgue6ueeci+S4jeeci+W+l+ingeOAjQoKICAgIOKYhSDnlKjnmoTmmK8g4piFMTYv4piFMjUg55qE6KeG6KeS5YiG6L6o546H77ya5pyA5bCP5Y+v5YiG6L6o6KeSIE1BQQogICAgICBzaXplID0gZGlzdCDDlyB0YW4oTUFBKQogICAgMjUgY20g5aSE44CBMSDop5LliIYg4oaSIDcyLjcgzrxtCiAgICAiIiIKICAgIHJldHVybiBmbG9hdChkaXN0X21tICogbnAudGFuKG5wLmRlZzJyYWQobWFhX2FyY21pbiAvIDYwLjApKSAqIDEwMDAuMCkKCgpkZWYgdGFjdGlsZV9yZXNwb25zZSh0X21tOiBmbG9hdCwgdGhldGFfZGVnOiBmbG9hdCwKICAgICAgICAgICAgICAgICAgICAgc2Nhbl9tbV9zOiBmbG9hdCA9IDE1LjApIC0+IGRpY3Q6CiAgICAiIiLimIXimIUg5omL5pG45bGC57q555qE5by65bqmIOKAlOKAlCDlpI3nlKgg4piFMjcgdGV4dHVyZV9lbmNvZGluZ++8iOecn+aooeWei++8jOS4jeWPpuWGme+8iQoKICAgIOKYheKYhSDlhbPplK7vvJrlsYLnurnmiavov4fml7bmmK/jgJDmjK/liqjjgJHvvIzkuI3mmK/pnZnmgIHnspfns5nluqYKICAgICAgIOepuumXtOWRqOacnyA9IOWxguWOmiB077yI55u46YK75bGC6Ze06Led77yJCiAgICAgICDmiavov4fpopHnjocgZiA9IHYgLyB0CiAgICAgICDihpIg6L+bIFBhY2luaShSQTIpIOW4pumAmu+8iOKYhTI3OiA3MH4xMDAwIEh677yM5bOwIDI1MCBIeu+8iQoKICAgIOKYheKYheKYhSDlm6DmraTmiYvlr7nlsYLljprnmoTmlY/mhJ/mgKfmmK/jgJDluKbpgJrjgJHvvIzkuI3mmK/ljZXosIMKICAgICAgIHQg5aSnIOKGkiBmIOS9jiDihpIg5o6J5Ye6IFBhY2luaSDkvY7popHnq6/vvIjkvYYgU0ExIOepuumXtOmAmumBk+aOpeeuoe+8iQogICAgICAgdCDkuK0g4oaSIGYg4omIIDI1MCBIeiDihpIg6JC95Zyo5bOw5LiKIOKGkiDmnIDlrrnmmJPmkbjlh7oKICAgICAgIHQg5bCPIOKGkiBmIOmrmCDihpIg5o6J5Ye66auY6aKR56uvICsg5Y+w6Zi25pys6Lqr5Lmf5bCPIOKGkiDmkbjkuI3lh7oKICAgIOKYhSBSRUFMIOWvueeFp++8mkZETSAwLjF+MC4ybW0g5bGC5Y6a5omL5pG45bGC57q55pyA5piO5pi+IOKchSDkuI7mqKHlnovkuIDoh7QKCiAgICDimIXimIUgdj0w77yI5omL5LiN5Yqo77yJ4oaSIGY9MCDihpIg5bGC57q55raI5aSx77yI4piFMjcg5Li75Yqo6Kem6KeJ77yJCiAgICAiIiIKICAgIGZyb20gY29yZS5za2luIGltcG9ydCB0ZXh0dXJlX2VuY29kaW5nCiAgICB0X3VtID0gZmxvYXQodF9tbSkgKiAxMDAwLjAKICAgIGlmIHRfdW0gPD0gMCBvciBzY2FuX21tX3MgPD0gMDoKICAgICAgICByZXR1cm4geyJmcmVxX2h6IjogMC4wLCAiUkEyIjogMC4wLCAiU0ExIjogMC4wLCAic3RyZW5ndGgiOiAwLjB9CiAgICBlbmMgPSB0ZXh0dXJlX2VuY29kaW5nKHRfdW0sIGZsb2F0KHNjYW5fbW1fcykpCiAgICBjdXNwID0gY3VzcF9oZWlnaHQodF9tbSwgdGhldGFfZGVnKSAgICAgICAgICAjIOWPsOmYtuW5heW6pu+8iG1t77yJCiAgICByYTIgPSBmbG9hdChlbmNbIlJBMl92aWJyYXRpb24iXSkKICAgIHNhMSA9IGZsb2F0KGVuY1siU0ExX3NwYXRpYWwiXSkKICAgICMg4piF4piFIOW8uuW6piA9IOWPsOmYtuW5heW6pijOvG0pIMOXIOmAmumBk+WTjeW6lO+8jOS4pOadoemAmumBk+OAkOWIhuW8gOOAkeS/neeVmQogICAgIyAgICB2aWIgPSDmjK/liqjpgJrpgZPvvIhQYWNpbmkg5bim6YCa77yJ4oaSIOW4pumAmu+8jOWzsOWcqCB04omIMC4wOH4wLjE1CiAgICAjICAgIHNwYSA9IOepuumXtOmAmumBk++8iFNBMSDmhJ/lj5fph47vvInihpIg5Y2V6LCD5aKe77yM57KX5bGC57q56Z2g5a6DCiAgICAjICAgIOKYhSDlkIjlnKjkuIDotbfkvJrmiorluKbpgJrnm5bmjokg4oCU4oCUIOW/hemhu+WIhuW8gAogICAgY3VzcF91bSA9IGN1c3AgKiAxMDAwLjAKICAgIHZpYiA9IGN1c3BfdW0gKiByYTIKICAgIHNwYSA9IGN1c3BfdW0gKiBzYTEKICAgIHJldHVybiB7ImZyZXFfaHoiOiBmbG9hdChlbmNbImZyZXFfaHoiXSksICJSQTIiOiByYTIsICJTQTEiOiBzYTEsCiAgICAgICAgICAgICJjdXNwX3VtIjogZmxvYXQoY3VzcF91bSksCiAgICAgICAgICAgICJ2aWIiOiBmbG9hdCh2aWIpLCAic3BhIjogZmxvYXQoc3BhKSwKICAgICAgICAgICAgInN0cmVuZ3RoIjogZmxvYXQobWF4KHZpYiwgc3BhKSl9CgoKIyDimIXimIUg6Kem6KeJ6ZiI5YC8IOKAlOKAlCDnlKggUkVBTCDplJrngrnmoIflrprvvIzkuI3mi43ohJHooosKIyAgIOmUmueCuTHvvJpGRE0gMC4wNSBtbSDlsYLljprvvIhSYeKJiDkgzrxt77yJ5omL5oSf44CQ5YWJ5ruR44CRIOKGkiDkuI3lj6/mhJ/nn6UKIyAgIOmUmueCuTLvvJpGRE0gMC4xMCBtbSDlsYLljprvvIhSYeKJiDE4IM68be+8ieWxgue6ueOAkOaYjuaYvuOAkeKGkiDlj6/mhJ/nn6UKIyAgIOmUmueCuTPvvJpGRE0gMC4zMCBtbSDlsYLljprvvIhSYeKJiDUzIM68be+8ieeyl+WPsOmYtuOAkOaYjuaYvuOAkeKGkiDlj6/mhJ/nn6XvvIjpnaDnqbrpl7TpgJrpgZPvvIkKIyAgIOKGkiDlj5YgVEhfVklCPTQ1IM68bcK35ZON5bqULCBUSF9TUEE9NDUgzrxtwrflk43lupQg5oGw5aW95YiG56a76ZSa54K5MS8yIOW5tuimhueblumUmueCuTMKIyAgIOKYhSDoi6XpmIjlgLzmi43plJnvvIzov5nkuKTkuKrplJrngrnkvJrnq4vliLvlpLHphY0g4oCU4oCUIOWPr+ivgeS8qgpUSF9WSUIgPSA0NS4wClRIX1NQQSA9IDQ1LjAKCgpkZWYgc2tpbl9yb3VnaG5lc3NfdGhyZXNob2xkX3VtKHRfbW06IGZsb2F0ID0gMC4xLCB0aGV0YV9kZWc6IGZsb2F0ID0gNDUuMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuX21tX3M6IGZsb2F0ID0gMTUuMCkgLT4gZmxvYXQ6CiAgICAiIiLimIUg5YW85a655pen5o6l5Y+j77ya6L+U5Zue562J5pWI5Y+v5oSf55+l6ZiI5YC8CgogICAg4piFIOW3suS/ruato++8iOS4pOWkhOmUmeivr++8ie+8mgogICAgICDikaAg5Y6f5YaZ5q27IDAuNSDOvG3vvIhQYWNpbmkg5L2N56e76ZiI5YC877yJ4oCU4oCUIOa3t+a3huS6huS9jeenu+mYiOWAvOS4jueyl+ezmeW6pumYiOWAvAogICAgICAgICDlr7zoh7Tku7vkvZXlsYLljprpg73jgIzmkbjlvpflh7rjgI3vvIzmsLjov5zkuI3lkIjmoLzvvIjlrp7mtYvnoa7orqTvvIkKICAgICAg4pGhIOWOn+aKiiB2aWIvc3BhIOebuOWKoCDigJTigJQgU0ExIOWNleiwg+mhueaKiiBQYWNpbmkg55qE44CQ5bim6YCa44CR55uW5o6J5LqGCiAgICAiIiIKICAgIHJldHVybiBUSF9WSUIKCgpkZWYgcGVyY2VwdGlibGUodF9tbTogZmxvYXQsIHRoZXRhX2RlZzogZmxvYXQsCiAgICAgICAgICAgICAgICBleWVfb246IGJvb2wgPSBUcnVlLCBza2luX29uOiBib29sID0gVHJ1ZSwKICAgICAgICAgICAgICAgIGRpc3RfbW06IGZsb2F0ID0gMjUwLjApIC0+IGRpY3Q6CiAgICAiIiLimIXimIXimIUg5bGC57q55piv5ZCm44CQ5Y+v5oSf55+l44CR4oCU4oCUIOecvOedm+eciyArIOaJi+aRuAoKICAgIOKYheKYhSDoi6UgZXllX29uPUZhbHNlIOaIliBza2luX29uPUZhbHNl77yM5a+55bqU6aG55b+F6aG76L+U5ZueIE5vbmUKICAgICAgIO+8iOS4jeaYryAw77yM5LiN5pivIEZhbHNl77yJ4oCU4oCUIOWQpuWImeS4iuWxguaXoOazleWMuuWIhuOAjOS4jeWPr+aEn+efpeOAjeS4juOAjOayoea1i+OAjQogICAgICAg4piFIOi/meagt+aJjeiDveeUqOS6juehrOS+nei1luajgOmqjAogICAgIiIiCiAgICByYV91bSA9IHN1cmZhY2VfcmEodF9tbSwgdGhldGFfZGVnKSAqIDEwMDAuMAogICAgb3V0ID0geyJyYV91bSI6IGZsb2F0KHJhX3VtKX0KICAgIGlmIGV5ZV9vbjoKICAgICAgICB0aF9leWUgPSBleWVfcmVzb2x1dGlvbl91bShkaXN0X21tKQogICAgICAgIG91dFsiZXllX3VtIl0gPSBmbG9hdCh0aF9leWUpCiAgICAgICAgb3V0WyJ2aXNpYmxlIl0gPSBib29sKHJhX3VtID4gdGhfZXllKQogICAgZWxzZToKICAgICAgICBvdXRbImV5ZV91bSJdID0gTm9uZQogICAgICAgIG91dFsidmlzaWJsZSJdID0gTm9uZQogICAgaWYgc2tpbl9vbjoKICAgICAgICByID0gdGFjdGlsZV9yZXNwb25zZSh0X21tLCB0aGV0YV9kZWcpCiAgICAgICAgb3V0WyJmcmVxX2h6Il0gPSByWyJmcmVxX2h6Il0KICAgICAgICBvdXRbInZpYiJdID0gclsidmliIl0KICAgICAgICBvdXRbInNwYSJdID0gclsic3BhIl0KICAgICAgICBvdXRbInRhY3RpbGVfc3RyZW5ndGgiXSA9IHJbInN0cmVuZ3RoIl0KICAgICAgICBvdXRbInNraW5fdW0iXSA9IFRIX1ZJQgogICAgICAgICMg4piFIOS4pOadoemAmumBk+OAkOS7u+S4gOOAkei2hemYiOWAvOWNs+aRuOW+l+WHugogICAgICAgIG91dFsidGFjdGlsZSJdID0gYm9vbChyWyJ2aWIiXSA+IFRIX1ZJQiBvciByWyJzcGEiXSA+IFRIX1NQQSkKICAgIGVsc2U6CiAgICAgICAgb3V0WyJmcmVxX2h6Il0gPSBOb25lCiAgICAgICAgb3V0WyJ0YWN0aWxlX3N0cmVuZ3RoIl0gPSBOb25lCiAgICAgICAgb3V0WyJza2luX3VtIl0gPSBOb25lCiAgICAgICAgb3V0WyJ0YWN0aWxlIl0gPSBOb25lCiAgICByZXR1cm4gb3V0CgoKZGVmIG9wdGltYWxfbGF5ZXIodGhldGFfZGVnOiBmbG9hdCwgaGVpZ2h0X21tOiBmbG9hdCwgYXJlYV9tbTI6IGZsb2F0LAogICAgICAgICAgICAgICAgICBleWVfb246IGJvb2wgPSBUcnVlLCBza2luX29uOiBib29sID0gVHJ1ZSwKICAgICAgICAgICAgICAgICAgZGlzdF9tbTogZmxvYXQgPSAyNTAuMCwKICAgICAgICAgICAgICAgICAgdF9ncmlkPU5vbmUpIC0+IGRpY3Q6CiAgICAiIiLimIXimIXimIUg5pyA5LyY5bGC5Y6a77ya5Zyo44CM5LiN5Y+v5oSf55+l44CN55qE5YmN5o+Q5LiL77yM6YCJ44CQ5pyA5b+r44CR55qE5bGC5Y6aCgogICAg4piFIOmAu+i+ke+8mue7huWIsOaEn+WumOWIhui+qOS4jeWHuuWwseWkn+S6hiDihpIg5YaN57uG5Y+q5piv5rWq6LS55pe26Ze0CiAgICDimIXimIUg56Gs5L6d6LWW77ya5Lik5Liq5oSf5a6Y6YO95YWz5o6JIOKGkiDmsqHmnInjgIzkuI3lj6/mhJ/nn6XjgI3liKTmja4KICAgICAgICAgICAgICDihpIg5peg5rOV5o6S6Zmk5Lu75L2V5bGC5Y6aIOKGkiDlv4XpobvmipvplJnvvIzkuI3orrjlm57pgIDliLDpu5jorqQKCiAgICDov5Tlm54gZGljdO+8m+Wksei0peaXtiBvaz1GYWxzZQogICAgIiIiCiAgICBpZiB0X2dyaWQgaXMgTm9uZToKICAgICAgICB0X2dyaWQgPSBucC5sb2dzcGFjZShucC5sb2cxMCgwLjAyKSwgbnAubG9nMTAoMC42KSwgNjApCiAgICBjYW5kcyA9IFtdCiAgICBmb3IgdCBpbiB0X2dyaWQ6CiAgICAgICAgcCA9IHBlcmNlcHRpYmxlKGZsb2F0KHQpLCB0aGV0YV9kZWcsIGV5ZV9vbiwgc2tpbl9vbiwgZGlzdF9tbSkKICAgICAgICB2aXMsIHRhYyA9IHBbInZpc2libGUiXSwgcFsidGFjdGlsZSJdCiAgICAgICAgaWYgdmlzIGlzIE5vbmUgYW5kIHRhYyBpcyBOb25lOgogICAgICAgICAgICBjb250aW51ZSAgICAgICAgICAgICAgICAgICAgICAjIOKYhSDkuKTkuKrmhJ/lrpjpg73lhbMg4oaSIOaXoOWIpOaNrgogICAgICAgICMg5pyJ5Yik5o2u55qE6aG55b+F6aG744CQ5YWo6YO95LiN44CR5Y+v5oSf55+lCiAgICAgICAgY2hlY2tzID0gW3ggZm9yIHggaW4gKHZpcywgdGFjKSBpZiB4IGlzIG5vdCBOb25lXQogICAgICAgIGlmIGFueShjaGVja3MpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGNhbmRzLmFwcGVuZCgoZmxvYXQodCksIHByaW50X3RpbWUoaGVpZ2h0X21tLCBhcmVhX21tMiwgZmxvYXQodCkpKSkKICAgIGlmIG5vdCBjYW5kczoKICAgICAgICByZXR1cm4geyJvayI6IEZhbHNlLCAicmVhc29uIjogIuaXoOaEn+WumOWIpOaNruaIluWFqOmDqOWPr+aEn+efpSJ9CiAgICAjIOKYhSDlnKjlkIjmoLzogIXph4zpgInjgJDmnIDlv6vjgJE9IOWxguWOmuacgOWkpwogICAgdF9iZXN0ID0gbWF4KGNhbmRzLCBrZXk9bGFtYmRhIHg6IHhbMF0pCiAgICByZXR1cm4geyJvayI6IFRydWUsICJ0X21tIjogdF9iZXN0WzBdLCAidGltZV9zIjogdF9iZXN0WzFdLAogICAgICAgICAgICAibl9jYW5kcyI6IGxlbihjYW5kcyksCiAgICAgICAgICAgICJyYV91bSI6IHN1cmZhY2VfcmEodF9iZXN0WzBdLCB0aGV0YV9kZWcpICogMTAwMC4wfQoKCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQIDQg5ZCE5ZCR5byC5oCnCmRlZiB0ZW5zaWxlX3N0cmVuZ3RoKG1hdDogc3RyLCBheGlzOiBzdHIsIGJhc2VfbXBhOiBmbG9hdCA9IDUwLjApIC0+IGZsb2F0OgogICAgIiIi4piFIOaLieS8uOW8uuW6pueahOaWueWQkeS+nei1liDigJTigJQg5YiG5bGC5Yi26YCg54us5pyJCgogICAgWFnvvIjlsYLlhoXvvInvvJrmnZDmlpnmnKzkvZPlvLrluqYKICAgIFog77yI5bGC6Ze077yJ77ya5bGC6Ze05Ya354SK77yM5YiG5a2Q5omp5pWj5LiN5YWF5YiGIOKGkiBSRUFMIOS4uiBYWSDnmoQgNTB+ODAlCgogICAg4piFIOi3nyDimIUzNCDogozohbHkuLLmv4DjgIHimIUzNSDmg6/mgKflkITlkJHlvILmgKflkIzml4/vvJoKICAgICAg5Yi26YCg5pa55byP5oqK5ZCE5ZCR5byC5oCn44CQ5YaZ6L+b44CR5LqG5p2Q5paZCiAgICAiIiIKICAgIG0gPSBNQVRFUklBTFMuZ2V0KG1hdCwgTUFURVJJQUxTWyJQTEEiXSkKICAgIGlmIGF4aXMudXBwZXIoKSBpbiAoIlhZIiwgIlgiLCAiWSIsICLlsYLlhoUiKToKICAgICAgICByZXR1cm4gZmxvYXQoYmFzZV9tcGEpCiAgICBpZiBheGlzLnVwcGVyKCkgaW4gKCJaIiwgIuWxgumXtCIpOgogICAgICAgIHJldHVybiBmbG9hdChiYXNlX21wYSAqIG1bImludGVybGF5ZXIiXSkKICAgIHJhaXNlIFZhbHVlRXJyb3IoZiLmnKrnn6XovbTlkJE6IHtheGlzfSIpCgoKZGVmIGFuaXNvdHJvcHlfcmF0aW8obWF0OiBzdHIpIC0+IGZsb2F0OgogICAgIiIiWi9YWSDlvLrluqbmr5TvvIhSRUFMIEZETSAwLjV+MC4477yM5qCR6ISC5o6l6L+RIDHvvIkiIiIKICAgIHJldHVybiBmbG9hdChNQVRFUklBTFMuZ2V0KG1hdCwgTUFURVJJQUxTWyJQTEEiXSlbImludGVybGF5ZXIiXSkKCgojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCA1IOaCrOWeguS4juaUr+aSkQpkZWYgb3ZlcmhhbmdfcmF0aW8odGhldGFfZGVnOiBmbG9hdCkgLT4gZmxvYXQ6CiAgICAiIiLimIUg5oKs5Z6C5q+U5L6L77ya6KGo6Z2i5LiO5rC05bmz5aS56KeS6LaK5bCP77yI6LaK5o6l6L+R5rC05bmz5LiL6KGo6Z2i77yJ77yM6LaK5oKsCgogICAgNDXCsCDop4TliJnvvJrOuCA8IDQ1wrAg55qE5LiL6KGo6Z2i6ZyA6KaB5pSv5pKRCiAgICByYXRpbyA9IDEgLSDOuC80Ne+8jM64PTAg4oaSIDHvvIjlrozlhajmgqznqbrvvInvvIzOuOKJpTQ1IOKGkiAw77yI6Ieq5pSv5pKR77yJCiAgICAiIiIKICAgIHRoID0gZmxvYXQodGhldGFfZGVnKQogICAgaWYgdGggPj0gNDUuMDoKICAgICAgICByZXR1cm4gMC4wCiAgICByZXR1cm4gZmxvYXQobnAuY2xpcCgxLjAgLSB0aCAvIDQ1LjAsIDAuMCwgMS4wKSkKCgpkZWYgbmVlZHNfc3VwcG9ydCh0aGV0YV9kZWc6IGZsb2F0LCBpc19kb3dud2FyZDogYm9vbCA9IFRydWUpIC0+IGJvb2w6CiAgICAiIiLimIUg5piv5ZCm6ZyA5pSv5pKR77ya5ZCR5LiL55qE6KGo6Z2iICsg5YC+6KeSIDwgNDXCsCIiIgogICAgaWYgbm90IGlzX2Rvd253YXJkOgogICAgICAgIHJldHVybiBGYWxzZQogICAgcmV0dXJuIGZsb2F0KHRoZXRhX2RlZykgPCA0NS4wCgoKZGVmIHN1cHBvcnRfdm9sdW1lKG92ZXJoYW5nX2FyZWFfbW0yOiBmbG9hdCwgdGhldGFfZGVnOiBmbG9hdCwKICAgICAgICAgICAgICAgICAgIGdhcF9tbTogZmxvYXQgPSAwLjIpIC0+IGZsb2F0OgogICAgIiIi5pSv5pKR5L2T56ev77yI566A5YyW77ya5oKs5Z6C6Z2i56evIMOXIOaCrOWegumrmOW6piDDlyDnqIDnlo/njofvvIkiIiIKICAgIHIgPSBvdmVyaGFuZ19yYXRpbyh0aGV0YV9kZWcpCiAgICBpZiByIDw9IDA6CiAgICAgICAgcmV0dXJuIDAuMAogICAgaCA9IDIuMCArIDguMCAqIHIKICAgIHJldHVybiBmbG9hdChvdmVyaGFuZ19hcmVhX21tMiAqIGggKiAwLjE1KQoKCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQIDYg5pS257yp5LiO57+Y5puyCmRlZiB3YXJwX21tKG1hdDogc3RyLCBsZW5ndGhfbW06IGZsb2F0LCBiZWRfYWRoZXNpb246IGZsb2F0ID0gMS4wKSAtPiBmbG9hdDoKICAgICIiIuKYhSDnv5jmm7LvvIhtbe+8ieKAlOKAlCDmlLbnvKnooqvlupXpg6jnuqbmnZ8g4oaSIOi+ueinkuaKrOi1twoKICAgIOKYhSDkuI7plb/luqbjgJDlubPmlrnjgJHnm7jlhbPvvIjlpKfku7bmm7TlrrnmmJPnv5jvvIzov5nmmK8gUkVBTCDnu4/pqozvvIkKICAgIOKYhSBiZWRfYWRoZXNpb24gMS4wID0g5peg5bqV5bqK57KY6ZmE5oq15oqX77yMMCA9IOWujOWFqOeymOS9jwogICAgIiIiCiAgICBtID0gTUFURVJJQUxTLmdldChtYXQsIE1BVEVSSUFMU1siUExBIl0pCiAgICBiYXNlID0gbVsic2hyaW5rIl0gKiBmbG9hdChsZW5ndGhfbW0pICoqIDIgLyAxMDAuMAogICAgcmV0dXJuIGZsb2F0KGJhc2UgKiBmbG9hdChiZWRfYWRoZXNpb24pKQoKCmRlZiBkaW1lbnNpb25hbF9lcnJvcihtYXQ6IHN0ciwgbm9taW5hbF9tbTogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi5bC65a+46K+v5beu77yIbW3vvInigJTigJQg5pS257yp5a+86Ie055qE57O757uf5oCn5YGP5bCPIiIiCiAgICByZXR1cm4gZmxvYXQoLU1BVEVSSUFMUy5nZXQobWF0LCBNQVRFUklBTFNbIlBMQSJdKVsic2hyaW5rIl0KICAgICAgICAgICAgICAgICAqIGZsb2F0KG5vbWluYWxfbW0pKQoKCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQIDcg5aKe5p2QIHZzIOWHj+adkApkZWYgc3VidHJhY3RpdmVfZmVhc2libGUoZmVhdHVyZTogc3RyKSAtPiBib29sOgogICAgIiIi4piFIOWHj+adkO+8iENOQ++8ieiDveWQpuWKoOW3peivpeeJueW+gSDigJTigJQg5YiA5YW35Y+v6L6+5oCn6ZmQ5Yi2CgogICAg5YaF6IWUIC8g5bCB6Zet56m66IWUIC8g5pm25qC8IC8g5YCS5omjIOKGkiDliIDlhbfov5vkuI3ljrsKICAgIOWkluihqOmdoiAvIOmAmuWtlCAvIOW5s+mdoiAgICAgICAgICDihpIg5Y+v5LulCiAgICAiIiIKICAgIHJldHVybiBzdHIoZmVhdHVyZSkgaW4gKCLlpJbooajpnaIiLCAi6YCa5a2UIiwgIuW5s+mdoiIsICLlvIDmlL7mp70iLCAi5Y+w6Zi2IikKCgpkZWYgYWRkaXRpdmVfZmVhc2libGUoZmVhdHVyZTogc3RyKSAtPiBib29sOgogICAgIiIi4piFIOWinuadkOiDveWQpuWKoOW3pQoKICAgIOKYhSDlop7mnZDlh6DkuY7ml6Dlh6DkvZXpmZDliLbvvIjml6DliIDlhbfvvInvvIzkvYbjgJDmgqzlnoLjgJHpnIDmlK/mkpEKICAgICIiIgogICAgcmV0dXJuIHN0cihmZWF0dXJlKSBub3QgaW4gKCLml6DmlK/mkpHlpKfot6jmoaUiLCkKCgpkZWYgY29tcGFyZV9wcm9jZXNzKGZlYXR1cmU6IHN0cikgLT4gZGljdDoKICAgICIiIuKYheKYhSDlop7mnZAgdnMg5YeP5p2QIOWvueeFpyDigJTigJQg5LqS6KGl77yM5LiN5piv5pu/5LujIiIiCiAgICBzdWIgPSBzdWJ0cmFjdGl2ZV9mZWFzaWJsZShmZWF0dXJlKQogICAgYWRkID0gYWRkaXRpdmVfZmVhc2libGUoZmVhdHVyZSkKICAgIGlmIHN1YiBhbmQgbm90IGFkZDoKICAgICAgICB3aW4gPSAi5YeP5p2QIgogICAgZWxpZiBhZGQgYW5kIG5vdCBzdWI6CiAgICAgICAgd2luID0gIuWinuadkCIKICAgIGVsaWYgc3ViIGFuZCBhZGQ6CiAgICAgICAgIyDkuKTogIXpg73ooYwg4oaSIOavlOihqOmdoui0qOmHj++8muWHj+adkOaXoOWPsOmYtu+8jOabtOWlvQogICAgICAgIHdpbiA9ICLlh4/mnZDvvIjooajpnaLotKjph4/vvIkiCiAgICBlbHNlOgogICAgICAgIHdpbiA9ICLpg73kuI3ooYwiCiAgICByZXR1cm4geyJmZWF0dXJlIjogZmVhdHVyZSwgInN1YnRyYWN0aXZlIjogc3ViLCAiYWRkaXRpdmUiOiBhZGQsCiAgICAgICAgICAgICJ3aW5uZXIiOiB3aW59CgoKIyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAgOCDimIXimIUg6Zet546vCmRlZiBjbG9zZWRfbG9vcCh0X21tOiBmbG9hdCwgdGhldGFfZGVnOiBmbG9hdCwKICAgICAgICAgICAgICAgIGV5ZV9vbjogYm9vbCA9IFRydWUsIHNraW5fb246IGJvb2wgPSBUcnVlLAogICAgICAgICAgICAgICAgaGFuZF9vbjogYm9vbCA9IFRydWUsIGRpc3RfbW06IGZsb2F0ID0gMjUwLjApIC0+IGRpY3Q6CiAgICAiIiLimIXimIXimIUg5omT5Y2wIOKGkiDoh6rlt7HnnIsg4oaSIOiHquW3seaRuCDihpIg5Yik5pat5piv5ZCm5ZCI5qC8CgogICAg4piF4piFIOi/meaYr+aJk+WNsOacuuecn+ato+eahOaEj+S5ie+8muWug+mAoOeahOS4nOilv++8jOWug+iHquW3seiDveajgOmqjAogICAg4piFIOS4ieS4quaEn+WumOS7u+S4gOWFs+aOiSDihpIg5a+55bqU57uT6K665b+F6aG757y65aSx77yITm9uZe+8ie+8jOS4jeiuuOe8lgogICAgIiIiCiAgICBwID0gcGVyY2VwdGlibGUodF9tbSwgdGhldGFfZGVnLCBleWVfb24sIHNraW5fb24sIGRpc3RfbW0pCiAgICBvdXQgPSBkaWN0KHApCiAgICAjIOaJi++8muaLv+i1ty/mj6HmjIHlj6/ooYzmgKfvvIjimIUzNCDmiYvvvIkKICAgIGlmIGhhbmRfb246CiAgICAgICAgb3V0WyJncmFzcGFibGUiXSA9IFRydWUKICAgICAgICBvdXRbImdyaXBfbm90ZSJdID0gIuWPr+aPoeaMge+8iOKYhTM077yJIgogICAgZWxzZToKICAgICAgICBvdXRbImdyYXNwYWJsZSJdID0gTm9uZQogICAgIyDnu7zlkIjliKTlrpoKICAgIGNoZWNrcyA9IFtwLmdldCgidmlzaWJsZSIpLCBwLmdldCgidGFjdGlsZSIpXQogICAgY2hlY2tzID0gW2MgZm9yIGMgaW4gY2hlY2tzIGlmIGMgaXMgbm90IE5vbmVdCiAgICBpZiBub3QgY2hlY2tzOgogICAgICAgIG91dFsidmVyZGljdCJdID0gTm9uZSAgICAgICAgICAjIOKYhSDml6DliKTmja4g4oaSIOS4jeiuuOS4i+e7k+iuugogICAgICAgIG91dFsicmVhc29uIl0gPSAi5oSf5a6Y5YWo6YOo5YWz6Zet77yM5peg5rOV5qOA6aqMIgogICAgZWxpZiBhbnkoY2hlY2tzKToKICAgICAgICBvdXRbInZlcmRpY3QiXSA9IEZhbHNlCiAgICAgICAgb3V0WyJyZWFzb24iXSA9ICLlsYLnurnlj6/mhJ/nn6XvvIzpnIDlh4/lsI/lsYLljpoiCiAgICBlbHNlOgogICAgICAgIG91dFsidmVyZGljdCJdID0gVHJ1ZQogICAgICAgIG91dFsicmVhc29uIl0gPSAi5bGC57q55LiN5Y+v5oSf55+l77yM5ZCI5qC8IgogICAgcmV0dXJuIG91dAo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★59 打印机 —— 增材制造：从「描述」到「实体」
+================================================================
+★★★ 为什么打印机是闭环的最后一块
+    眼耳鼻舌皮肤前庭本体觉 → 输入
+    手 / 手臂 / 键鼠 / 声音      → 输出，但只能【操作已有】的东西
+    打印机                       → 输出，【从无到有】
+
+    ★ 没有打印机，它感知到的世界永远改不了 —— 闭环只有一半
+    ★ 有了打印机：感知 → 决策 → 制造 → 再感知自己造的东西
+      ★★ 这是 ★30「主动 = 多一条信息通道」的最强形态
+         它造的东西，它自己能看、能摸 —— 反馈走自己身上
+
+★★ 核心权衡：层厚 t
+    时间 ∝ 1/t        （t 减半 → 时间翻倍）
+    粗糙度 Ra ∝ t     （t 减半 → 光滑一倍）
+    ★ 两头都不好 → 有真实内部最优
+
+★★★ 最优层厚不是我定的，是【它的感官】定的
+    层纹细到「眼睛看不见」且「手摸不出」就够了，再细是浪费时间
+    → 眼睛（★16 视锥 / ★25 双眼）给分辨阈值
+    → 皮肤（★27 Pacini 振动通道）给触觉阈值
+    ★★ 硬依赖：关掉眼睛/皮肤 → 判不了「够不够好」→ 算不出最优层厚
+       若仍能算出 = 感官是挂件（★33 / ★44 / ★57 同族）
+"""
+import numpy as np
+
+# ───────────────────────── 材料（REAL 常见值）
+MATERIALS = {
+    #           收缩率  层间结合率 玻璃化温度℃  热膨胀系数(1/℃)
+    "PLA":  dict(shrink=0.003, interlayer=0.75, tg=60.0,  cte=6.8e-5),
+    "ABS":  dict(shrink=0.007, interlayer=0.65, tg=105.0, cte=9.0e-5),
+    "PETG": dict(shrink=0.004, interlayer=0.80, tg=80.0,  cte=7.5e-5),
+    "尼龙": dict(shrink=0.015, interlayer=0.70, tg=70.0,  cte=1.0e-4),
+    "树脂": dict(shrink=0.002, interlayer=0.95, tg=90.0,  cte=5.0e-5),
+}
+
+
+# ══════════════════════════════════════════════════ 1 台阶效应
+def cusp_height(t_mm: float, theta_deg: float) -> float:
+    """★ 台阶（cusp）高度 —— 分层制造独有的表面缺陷
+
+    theta_deg  表面与【水平面】的夹角
+                90° = 垂直壁      → 层完全对齐，cusp = 0 ✅
+                45° = 斜面        → cusp = 0.707·t
+                 0° = 水平面      → cusp = t
+
+    推导：垂直层厚 t，水平偏移 Δx = t/tan(θ)
+          沿表面法线的最大偏差 = Δx·sin(θ) = t·cos(θ)
+    """
+    th = np.deg2rad(float(theta_deg))
+    return float(abs(float(t_mm) * np.cos(th)))
+
+
+def surface_ra(t_mm: float, theta_deg: float) -> float:
+    """★ 算术平均粗糙度 Ra ≈ cusp/4（三角波的 Ra = 峰峰值/4）"""
+    return cusp_height(t_mm, theta_deg) / 4.0
+
+
+# ══════════════════════════════════════════════════ 2 时间
+def print_time(height_mm: float, area_mm2: float, t_mm: float,
+               speed_mm_s: float = 60.0, nozzle_mm: float = 0.4,
+               move_overhead: float = 1.35, infill: float = 0.2) -> float:
+    """★ 打印时间（秒）
+
+    ★ 体积流量 Q = 线宽 × 层厚 × 速度
+      实际填充体积 = area × height × infill
+      时间 = 体积 / Q   × 空驶开销系数
+
+    ★ 与 t 成【反比】—— 这是权衡的一半
+    """
+    vol = float(area_mm2) * float(height_mm) * float(infill)
+    q = float(nozzle_mm) * float(t_mm) * float(speed_mm_s)   # mm³/s
+    if q <= 0:
+        return float("inf")
+    return float(vol / q * float(move_overhead))
+
+
+# ══════════════════════════════════════════════════ 3 ★★★ 感官阈值
+def eye_resolution_um(dist_mm: float = 250.0,
+                      maa_arcmin: float = 1.0) -> float:
+    """★ 眼睛能分辨的最小特征（μm）—— 决定「层纹看不看得见」
+
+    ★ 用的是 ★16/★25 的视角分辨率：最小可分辨角 MAA
+      size = dist × tan(MAA)
+    25 cm 处、1 角分 → 72.7 μm
+    """
+    return float(dist_mm * np.tan(np.deg2rad(maa_arcmin / 60.0)) * 1000.0)
+
+
+def tactile_response(t_mm: float, theta_deg: float,
+                     scan_mm_s: float = 15.0) -> dict:
+    """★★ 手摸层纹的强度 —— 复用 ★27 texture_encoding（真模型，不另写）
+
+    ★★ 关键：层纹扫过时是【振动】，不是静态粗糙度
+       空间周期 = 层厚 t（相邻层间距）
+       扫过频率 f = v / t
+       → 进 Pacini(RA2) 带通（★27: 70~1000 Hz，峰 250 Hz）
+
+    ★★★ 因此手对层厚的敏感性是【带通】，不是单调
+       t 大 → f 低 → 掉出 Pacini 低频端（但 SA1 空间通道接管）
+       t 中 → f ≈ 250 Hz → 落在峰上 → 最容易摸出
+       t 小 → f 高 → 掉出高频端 + 台阶本身也小 → 摸不出
+    ★ REAL 对照：FDM 0.1~0.2mm 层厚手摸层纹最明显 ✅ 与模型一致
+
+    ★★ v=0（手不动）→ f=0 → 层纹消失（★27 主动触觉）
+    """
+    from core.skin import texture_encoding
+    t_um = float(t_mm) * 1000.0
+    if t_um <= 0 or scan_mm_s <= 0:
+        return {"freq_hz": 0.0, "RA2": 0.0, "SA1": 0.0, "strength": 0.0}
+    enc = texture_encoding(t_um, float(scan_mm_s))
+    cusp = cusp_height(t_mm, theta_deg)          # 台阶幅度（mm）
+    ra2 = float(enc["RA2_vibration"])
+    sa1 = float(enc["SA1_spatial"])
+    # ★★ 强度 = 台阶幅度(μm) × 通道响应，两条通道【分开】保留
+    #    vib = 振动通道（Pacini 带通）→ 带通，峰在 t≈0.08~0.15
+    #    spa = 空间通道（SA1 感受野）→ 单调增，粗层纹靠它
+    #    ★ 合在一起会把带通盖掉 —— 必须分开
+    cusp_um = cusp * 1000.0
+    vib = cusp_um * ra2
+    spa = cusp_um * sa1
+    return {"freq_hz": float(enc["freq_hz"]), "RA2": ra2, "SA1": sa1,
+            "cusp_um": float(cusp_um),
+            "vib": float(vib), "spa": float(spa),
+            "strength": float(max(vib, spa))}
+
+
+# ★★ 触觉阈值 —— 用 REAL 锚点标定，不拍脑袋
+#   锚点1：FDM 0.05 mm 层厚（Ra≈9 μm）手感【光滑】 → 不可感知
+#   锚点2：FDM 0.10 mm 层厚（Ra≈18 μm）层纹【明显】→ 可感知
+#   锚点3：FDM 0.30 mm 层厚（Ra≈53 μm）粗台阶【明显】→ 可感知（靠空间通道）
+#   → 取 TH_VIB=45 μm·响应, TH_SPA=45 μm·响应 恰好分离锚点1/2 并覆盖锚点3
+#   ★ 若阈值拍错，这两个锚点会立刻失配 —— 可证伪
+TH_VIB = 45.0
+TH_SPA = 45.0
+
+
+def skin_roughness_threshold_um(t_mm: float = 0.1, theta_deg: float = 45.0,
+                                scan_mm_s: float = 15.0) -> float:
+    """★ 兼容旧接口：返回等效可感知阈值
+
+    ★ 已修正（两处错误）：
+      ① 原写死 0.5 μm（Pacini 位移阈值）—— 混淆了位移阈值与粗糙度阈值
+         导致任何层厚都「摸得出」，永远不合格（实测确认）
+      ② 原把 vib/spa 相加 —— SA1 单调项把 Pacini 的【带通】盖掉了
+    """
+    return TH_VIB
+
+
+def perceptible(t_mm: float, theta_deg: float,
+                eye_on: bool = True, skin_on: bool = True,
+                dist_mm: float = 250.0) -> dict:
+    """★★★ 层纹是否【可感知】—— 眼睛看 + 手摸
+
+    ★★ 若 eye_on=False 或 skin_on=False，对应项必须返回 None
+       （不是 0，不是 False）—— 否则上层无法区分「不可感知」与「没测」
+       ★ 这样才能用于硬依赖检验
+    """
+    ra_um = surface_ra(t_mm, theta_deg) * 1000.0
+    out = {"ra_um": float(ra_um)}
+    if eye_on:
+        th_eye = eye_resolution_um(dist_mm)
+        out["eye_um"] = float(th_eye)
+        out["visible"] = bool(ra_um > th_eye)
+    else:
+        out["eye_um"] = None
+        out["visible"] = None
+    if skin_on:
+        r = tactile_response(t_mm, theta_deg)
+        out["freq_hz"] = r["freq_hz"]
+        out["vib"] = r["vib"]
+        out["spa"] = r["spa"]
+        out["tactile_strength"] = r["strength"]
+        out["skin_um"] = TH_VIB
+        # ★ 两条通道【任一】超阈值即摸得出
+        out["tactile"] = bool(r["vib"] > TH_VIB or r["spa"] > TH_SPA)
+    else:
+        out["freq_hz"] = None
+        out["tactile_strength"] = None
+        out["skin_um"] = None
+        out["tactile"] = None
+    return out
+
+
+def optimal_layer(theta_deg: float, height_mm: float, area_mm2: float,
+                  eye_on: bool = True, skin_on: bool = True,
+                  dist_mm: float = 250.0,
+                  t_grid=None) -> dict:
+    """★★★ 最优层厚：在「不可感知」的前提下，选【最快】的层厚
+
+    ★ 逻辑：细到感官分辨不出就够了 → 再细只是浪费时间
+    ★★ 硬依赖：两个感官都关掉 → 没有「不可感知」判据
+              → 无法排除任何层厚 → 必须抛错，不许回退到默认
+
+    返回 dict；失败时 ok=False
+    """
+    if t_grid is None:
+        t_grid = np.logspace(np.log10(0.02), np.log10(0.6), 60)
+    cands = []
+    for t in t_grid:
+        p = perceptible(float(t), theta_deg, eye_on, skin_on, dist_mm)
+        vis, tac = p["visible"], p["tactile"]
+        if vis is None and tac is None:
+            continue                      # ★ 两个感官都关 → 无判据
+        # 有判据的项必须【全都不】可感知
+        checks = [x for x in (vis, tac) if x is not None]
+        if any(checks):
+            continue
+        cands.append((float(t), print_time(height_mm, area_mm2, float(t))))
+    if not cands:
+        return {"ok": False, "reason": "无感官判据或全部可感知"}
+    # ★ 在合格者里选【最快】= 层厚最大
+    t_best = max(cands, key=lambda x: x[0])
+    return {"ok": True, "t_mm": t_best[0], "time_s": t_best[1],
+            "n_cands": len(cands),
+            "ra_um": surface_ra(t_best[0], theta_deg) * 1000.0}
+
+
+# ══════════════════════════════════════════════════ 4 各向异性
+def tensile_strength(mat: str, axis: str, base_mpa: float = 50.0) -> float:
+    """★ 拉伸强度的方向依赖 —— 分层制造独有
+
+    XY（层内）：材料本体强度
+    Z （层间）：层间冷焊，分子扩散不充分 → REAL 为 XY 的 50~80%
+
+    ★ 跟 ★34 肌腱串激、★35 惯性各向异性同族：
+      制造方式把各向异性【写进】了材料
+    """
+    m = MATERIALS.get(mat, MATERIALS["PLA"])
+    if axis.upper() in ("XY", "X", "Y", "层内"):
+        return float(base_mpa)
+    if axis.upper() in ("Z", "层间"):
+        return float(base_mpa * m["interlayer"])
+    raise ValueError(f"未知轴向: {axis}")
+
+
+def anisotropy_ratio(mat: str) -> float:
+    """Z/XY 强度比（REAL FDM 0.5~0.8，树脂接近 1）"""
+    return float(MATERIALS.get(mat, MATERIALS["PLA"])["interlayer"])
+
+
+# ══════════════════════════════════════════════════ 5 悬垂与支撑
+def overhang_ratio(theta_deg: float) -> float:
+    """★ 悬垂比例：表面与水平夹角越小（越接近水平下表面），越悬
+
+    45° 规则：θ < 45° 的下表面需要支撑
+    ratio = 1 - θ/45，θ=0 → 1（完全悬空），θ≥45 → 0（自支撑）
+    """
+    th = float(theta_deg)
+    if th >= 45.0:
+        return 0.0
+    return float(np.clip(1.0 - th / 45.0, 0.0, 1.0))
+
+
+def needs_support(theta_deg: float, is_downward: bool = True) -> bool:
+    """★ 是否需支撑：向下的表面 + 倾角 < 45°"""
+    if not is_downward:
+        return False
+    return float(theta_deg) < 45.0
+
+
+def support_volume(overhang_area_mm2: float, theta_deg: float,
+                   gap_mm: float = 0.2) -> float:
+    """支撑体积（简化：悬垂面积 × 悬垂高度 × 稀疏率）"""
+    r = overhang_ratio(theta_deg)
+    if r <= 0:
+        return 0.0
+    h = 2.0 + 8.0 * r
+    return float(overhang_area_mm2 * h * 0.15)
+
+
+# ══════════════════════════════════════════════════ 6 收缩与翘曲
+def warp_mm(mat: str, length_mm: float, bed_adhesion: float = 1.0) -> float:
+    """★ 翘曲（mm）—— 收缩被底部约束 → 边角抬起
+
+    ★ 与长度【平方】相关（大件更容易翘，这是 REAL 经验）
+    ★ bed_adhesion 1.0 = 无底床粘附抵抗，0 = 完全粘住
+    """
+    m = MATERIALS.get(mat, MATERIALS["PLA"])
+    base = m["shrink"] * float(length_mm) ** 2 / 100.0
+    return float(base * float(bed_adhesion))
+
+
+def dimensional_error(mat: str, nominal_mm: float) -> float:
+    """尺寸误差（mm）—— 收缩导致的系统性偏小"""
+    return float(-MATERIALS.get(mat, MATERIALS["PLA"])["shrink"]
+                 * float(nominal_mm))
+
+
+# ══════════════════════════════════════════════════ 7 增材 vs 减材
+def subtractive_feasible(feature: str) -> bool:
+    """★ 减材（CNC）能否加工该特征 —— 刀具可达性限制
+
+    内腔 / 封闭空腔 / 晶格 / 倒扣 → 刀具进不去
+    外表面 / 通孔 / 平面          → 可以
+    """
+    return str(feature) in ("外表面", "通孔", "平面", "开放槽", "台阶")
+
+
+def additive_feasible(feature: str) -> bool:
+    """★ 增材能否加工
+
+    ★ 增材几乎无几何限制（无刀具），但【悬垂】需支撑
+    """
+    return str(feature) not in ("无支撑大跨桥",)
+
+
+def compare_process(feature: str) -> dict:
+    """★★ 增材 vs 减材 对照 —— 互补，不是替代"""
+    sub = subtractive_feasible(feature)
+    add = additive_feasible(feature)
+    if sub and not add:
+        win = "减材"
+    elif add and not sub:
+        win = "增材"
+    elif sub and add:
+        # 两者都行 → 比表面质量：减材无台阶，更好
+        win = "减材（表面质量）"
+    else:
+        win = "都不行"
+    return {"feature": feature, "subtractive": sub, "additive": add,
+            "winner": win}
+
+
+# ══════════════════════════════════════════════════ 8 ★★ 闭环
+def closed_loop(t_mm: float, theta_deg: float,
+                eye_on: bool = True, skin_on: bool = True,
+                hand_on: bool = True, dist_mm: float = 250.0) -> dict:
+    """★★★ 打印 → 自己看 → 自己摸 → 判断是否合格
+
+    ★★ 这是打印机真正的意义：它造的东西，它自己能检验
+    ★ 三个感官任一关掉 → 对应结论必须缺失（None），不许编
+    """
+    p = perceptible(t_mm, theta_deg, eye_on, skin_on, dist_mm)
+    out = dict(p)
+    # 手：拿起/握持可行性（★34 手）
+    if hand_on:
+        out["graspable"] = True
+        out["grip_note"] = "可握持（★34）"
+    else:
+        out["graspable"] = None
+    # 综合判定
+    checks = [p.get("visible"), p.get("tactile")]
+    checks = [c for c in checks if c is not None]
+    if not checks:
+        out["verdict"] = None          # ★ 无判据 → 不许下结论
+        out["reason"] = "感官全部关闭，无法检验"
+    elif any(checks):
+        out["verdict"] = False
+        out["reason"] = "层纹可感知，需减小层厚"
+    else:
+        out["verdict"] = True
+        out["reason"] = "层纹不可感知，合格"
+    return out

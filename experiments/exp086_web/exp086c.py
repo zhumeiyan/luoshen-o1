@@ -1,1 +1,62 @@
-aW1wb3J0IGpzb24scmUKZnJvbSBwbGF5d3JpZ2h0LnN5bmNfYXBpIGltcG9ydCBzeW5jX3BsYXl3cmlnaHQKClNZTj1bKCLmmbrog73kvZMiLCLku6PnkIbnqIvluo8iKSwoIuaKleavkiIsIuazqOWFpeacieWus+WGheWuuSIpLCgi5qOA57SiIiwi5p+l5om+IiksKCLovpPlh7oiLCLnu5nlh7oiKSwKICAgICAoIuivr+WIpCIsIuWIpOmUmSIpLCgi5ryP55SoIiwi5rKh5pyJ6YeH55SoIiksKCLpmY3mnYMiLCLljovkvY7mnYPph40iKSwoIuebuOaCliIsIuebuOWPjSIpLAogICAgICgi54Wn5pCsIiwi5Y6f5qC354Wn5oqEIiksKCLkvKrpgKAiLCLnvJbpgKAiKSwoIue7k+iuuiIsIue7k+aenCIpLCgi5rOE6ZyyIiwi5pq06ZyyIiksCiAgICAgKCLmrafop4YiLCLljLrliKvlr7nlvoUiKSwoIuW5u+iniSIsIuWHreepuue8lumAoCIpLCgi5YGc5py6Iiwi5YGc5q2i6L+Q6L2sIiksKCLlpLHmjqciLCLooYzkuLrotornlYwiKSwKICAgICAoIuepuui9rCIsIuaXoOaViOW+queOryIpLCgi6ZSZ6K+vIiwi5LiN5a+555qEIiksKCLlpLHotKUiLCLmsqHlgZrmiJAiKSwoIuaKgOiDvSIsIuiDveWKm+aooeWdlyIpLAogICAgICgi6K+E57qnIiwi6K+E5YiGIiksKCLkvp3mja4iLCLlh63mja4iKSwoIuS/neWuiCIsIuiwqOaFjiIpLCgi5a6J5YWoIiwi5a6J5L+dIiksKCLnlKjmiLciLCLkvb/nlKjogIUiKV0KCmRlZiB2YXJpYW50KHRleHQsayk6CiAgICBvdXQ9dGV4dDsgbj0wCiAgICBmb3IgYSxiIGluIFNZTjoKICAgICAgICBpZiBuPj1rOiBicmVhawogICAgICAgIGlmIGEgaW4gb3V0OgogICAgICAgICAgICBvdXQ9b3V0LnJlcGxhY2UoYSxiKTsgbis9MQogICAgcmV0dXJuIG91dCxuCgpkZWYgcHVuY3QodGV4dCk6CiAgICByZXR1cm4gdGV4dC5yZXBsYWNlKCLvvIwiLCLvvIzCtyIpLnJlcGxhY2UoIuOAgiIsIuOAgsK3IikKCmRlZiBrbm9ja19hbGwoZ3JvdXBzLCBzaG90PU5vbmUpOgogICAgcmVzPXt9CiAgICB3aXRoIHN5bmNfcGxheXdyaWdodCgpIGFzIHA6CiAgICAgICAgYj1wLmNocm9taXVtLmxhdW5jaChoZWFkbGVzcz1UcnVlLGV4ZWN1dGFibGVfcGF0aD0iL3Vzci9iaW4vZ29vZ2xlLWNocm9tZSIsYXJncz1bIi0tbm8tc2FuZGJveCJdKQogICAgICAgIHBnPWIubmV3X3BhZ2Uodmlld3BvcnQ9eyJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo5MDB9KQogICAgICAgIHBnLmdvdG8oImh0dHA6Ly8xMjcuMC4wLjE6ODg5OS9kZW1vLmh0bWwiLHdhaXRfdW50aWw9ImxvYWQiLHRpbWVvdXQ9MzAwMDApCiAgICAgICAgcGcud2FpdF9mb3JfdGltZW91dCgxMDAwKQogICAgICAgIGZvciBnbmFtZSx0ZXh0cyBpbiBncm91cHMuaXRlbXMoKToKICAgICAgICAgICAgb3V0PVtdCiAgICAgICAgICAgIGZvciB0IGluIHRleHRzOgogICAgICAgICAgICAgICAgcGcuZmlsbCgiI3RyeUlucHV0IiwiIik7IHBnLmNsaWNrKCIjdHJ5SW5wdXQiKQogICAgICAgICAgICAgICAgcGcua2V5Ym9hcmQudHlwZSh0WyJ0ZXh0Il0sZGVsYXk9MCkKICAgICAgICAgICAgICAgIHBnLmNsaWNrKCIjdHJ5QnRuIik7IHBnLndhaXRfZm9yX3RpbWVvdXQoNjAwKQogICAgICAgICAgICAgICAgcj1wZy5pbm5lcl90ZXh0KCIjdHJ5UmVzdWx0IikKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoeyJpZCI6dFsiaWQiXSwiY29vcmRzIjpzb3J0ZWQoc2V0KHJlLmZpbmRhbGwocidcYihbTE1QXVxkKD86LVxkKT8pXGInLHIpKSksIm1pc3MiOigi5pyq5ZG95LitIiBpbiByKX0pCiAgICAgICAgICAgIHJlc1tnbmFtZV09b3V0CiAgICAgICAgaWYgc2hvdDogcGcuc2NyZWVuc2hvdChwYXRoPXNob3QpCiAgICAgICAgYi5jbG9zZSgpCiAgICByZXR1cm4gcmVzCgpkZWYgc2NvcmUoaXRlbXMsZ29sZCk6CiAgICBwZXI9e30KICAgIGZvciBpdCxnIGluIHppcChpdGVtcyxnb2xkKToKICAgICAgICBnb3Q9aXRbImNvb3JkcyJdCiAgICAgICAgZm9yIGF4IGluICgiTCIsIk0iLCJQIik6CiAgICAgICAgICAgIGlmIGcuZ2V0KGF4KTogcGVyLnNldGRlZmF1bHQoYXgsW10pLmFwcGVuZCgxIGlmIGFueSh4IGluIGdvdCBmb3IgeCBpbiBnW2F4XSkgZWxzZSAwKQogICAgICAgIHBlci5zZXRkZWZhdWx0KCJBTEwiLFtdKS5hcHBlbmQoMSBpZiBhbGwoYW55KHggaW4gZ290IGZvciB4IGluIGdbYXhdKSBmb3IgYXggaW4gKCJMIiwiTSIsIlAiKSBpZiBnLmdldChheCkpIGVsc2UgMCkKICAgIHJldHVybiB7azpyb3VuZChzdW0odikvbGVuKHYpLDQpIGZvciBrLHYgaW4gcGVyLml0ZW1zKCl9CgpidWlsdGluPWpzb24ubG9hZChvcGVuKCJidWlsdGluX2Nhc2VzLmpzb24iLGVuY29kaW5nPSJ1dGYtOCIpKQpnb2xkPVtjWyJnb2xkZW4iXSBmb3IgYyBpbiBidWlsdGluXQpncm91cHM9e30KZm9yIGsgaW4gKDEsMyw2LDk5KToKICAgIGdyb3Vwc1tmImt7a30iXT1beyJpZCI6Y1siaWQiXSwidGV4dCI6dmFyaWFudChjWyJkZXNjIl0saylbMF19IGZvciBjIGluIGJ1aWx0aW5dCmdyb3Vwc1sicHVuY3QiXT1beyJpZCI6Y1siaWQiXSwidGV4dCI6cHVuY3QoY1siZGVzYyJdKX0gZm9yIGMgaW4gYnVpbHRpbl0KcmVzPWtub2NrX2FsbChncm91cHMsIi9kYXRhL3dvcmtzcGFjZS93ZWJfbGFiL3Nob3RfQy5wbmciKQpwcmludCgiPT0g55yf5a6e572R6aG155WM6Z2i5YaF55qE5ZG95Lit546H77yIbj0xMSDlhoXnva7moYjkvovvvIk9PSIpCmZvciBnIGluIGdyb3VwczoKICAgIHM9c2NvcmUocmVzW2ddLGdvbGQpOyBtcj1yb3VuZChzdW0oeFsibWlzcyJdIGZvciB4IGluIHJlc1tnXSkvbGVuKHJlc1tnXSksMykKICAgIHByaW50KGYie2c6PjZ9OiBMe3NbJ0wnXTouM2Z9IE17c1snTSddOi4zZn0gUHtzWydQJ106LjNmfSBBTEx7c1snQUxMJ106LjNmfSAgbWlzc+eOh3ttcn0iKQpqc29uLmR1bXAoeyJyZXMiOnJlcywiZ29sZCI6Z29sZH0sb3BlbigicmVzdWx0MDg2X2MuanNvbiIsInciLGVuY29kaW5nPSJ1dGYtOCIpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+import json,re
+from playwright.sync_api import sync_playwright
+
+SYN=[("智能体","代理程序"),("投毒","注入有害内容"),("检索","查找"),("输出","给出"),
+     ("误判","判错"),("漏用","没有采用"),("降权","压低权重"),("相悖","相反"),
+     ("照搬","原样照抄"),("伪造","编造"),("结论","结果"),("泄露","暴露"),
+     ("歧视","区别对待"),("幻觉","凭空编造"),("停机","停止运转"),("失控","行为越界"),
+     ("空转","无效循环"),("错误","不对的"),("失败","没做成"),("技能","能力模块"),
+     ("评级","评分"),("依据","凭据"),("保守","谨慎"),("安全","安保"),("用户","使用者")]
+
+def variant(text,k):
+    out=text; n=0
+    for a,b in SYN:
+        if n>=k: break
+        if a in out:
+            out=out.replace(a,b); n+=1
+    return out,n
+
+def punct(text):
+    return text.replace("，","，·").replace("。","。·")
+
+def knock_all(groups, shot=None):
+    res={}
+    with sync_playwright() as p:
+        b=p.chromium.launch(headless=True,executable_path="/usr/bin/google-chrome",args=["--no-sandbox"])
+        pg=b.new_page(viewport={"width":1280,"height":900})
+        pg.goto("http://127.0.0.1:8899/demo.html",wait_until="load",timeout=30000)
+        pg.wait_for_timeout(1000)
+        for gname,texts in groups.items():
+            out=[]
+            for t in texts:
+                pg.fill("#tryInput",""); pg.click("#tryInput")
+                pg.keyboard.type(t["text"],delay=0)
+                pg.click("#tryBtn"); pg.wait_for_timeout(600)
+                r=pg.inner_text("#tryResult")
+                out.append({"id":t["id"],"coords":sorted(set(re.findall(r'\b([LMP]\d(?:-\d)?)\b',r))),"miss":("未命中" in r)})
+            res[gname]=out
+        if shot: pg.screenshot(path=shot)
+        b.close()
+    return res
+
+def score(items,gold):
+    per={}
+    for it,g in zip(items,gold):
+        got=it["coords"]
+        for ax in ("L","M","P"):
+            if g.get(ax): per.setdefault(ax,[]).append(1 if any(x in got for x in g[ax]) else 0)
+        per.setdefault("ALL",[]).append(1 if all(any(x in got for x in g[ax]) for ax in ("L","M","P") if g.get(ax)) else 0)
+    return {k:round(sum(v)/len(v),4) for k,v in per.items()}
+
+builtin=json.load(open("builtin_cases.json",encoding="utf-8"))
+gold=[c["golden"] for c in builtin]
+groups={}
+for k in (1,3,6,99):
+    groups[f"k{k}"]=[{"id":c["id"],"text":variant(c["desc"],k)[0]} for c in builtin]
+groups["punct"]=[{"id":c["id"],"text":punct(c["desc"])} for c in builtin]
+res=knock_all(groups,"/data/workspace/web_lab/shot_C.png")
+print("== 真实网页界面内的命中率（n=11 内置案例）==")
+for g in groups:
+    s=score(res[g],gold); mr=round(sum(x["miss"] for x in res[g])/len(res[g]),3)
+    print(f"{g:>6}: L{s['L']:.3f} M{s['M']:.3f} P{s['P']:.3f} ALL{s['ALL']:.3f}  miss率{mr}")
+json.dump({"res":res,"gold":gold},open("result086_c.json","w",encoding="utf-8"),ensure_ascii=False,indent=1)

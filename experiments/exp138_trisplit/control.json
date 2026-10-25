@@ -1,1 +1,56 @@
-ewogICJuX2ZsaXAiOiAyLAogICJuX3NhbWUiOiA0LAogICJ0b3RhbCI6IDYsCiAgImZhbHNpZmlhYmxlIjogdHJ1ZSwKICAicm93cyI6IFsKICAgIHsKICAgICAgIm5hbWUiOiAiZXhwMTEyIOW8gOeOr+WRveS4rSAwLzIwIiwKICAgICAgImwxIjogIui+k+WHuuWFqOmUmT3lt6XlhbflnY8iLAogICAgICAibDIiOiAi5peg5Y+N6aaI5b+F54S25aSx6LSlPemihOacn+WGhSIsCiAgICAgICJsMyI6ICLml6Dnm7jlgJo95a2m5LiN5Yiw5Lic6KW/IiwKICAgICAgImZsaXAiOiBmYWxzZSwKICAgICAgIndoeSI6ICLkuInlsYLpg73or7Qn5LiN6KGMJ++8jOaWueWQkeS4gOiHtCIKICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogImV4cDEzNSDmlrnms5XorrrlsYLnsr7luqYgMC8yNiIsCiAgICAgICJsMSI6ICLnsr7noa7njocwJT3lup/lk4EiLAogICAgICAibDIiOiAi5oyH5Luk5LiO6IO95Yqb5LiN5Yy56YWNIiwKICAgICAgImwzIjogIuiiq+aMh+aOp+WvueixoeS4jeWtmOWcqCIsCiAgICAgICJmbGlwIjogZmFsc2UsCiAgICAgICJ3aHkiOiAi5LiJ5bGC6YO95YikJ+S4jeaIkOeriyfvvIzlj6rmmK/nkIbnlLHkuI3lkIwiCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJleHAxMjMg6Ze46Zeo5pKk6ZSAIGNoYWluIDYxLT4xIiwKICAgICAgImwxIjogIuaOiOadg+aooeWdl+W3peS9nOato+W4uCIsCiAgICAgICJsMiI6ICLlvqrnjq/ooqvlpJbpg6jliIfmlq0iLAogICAgICAibDMiOiAi6L6555WM5LiN55Sx5oiR57u05oyBIiwKICAgICAgImZsaXAiOiBmYWxzZSwKICAgICAgIndoeSI6ICLkuInlsYLpg73noa7orqQn5YGc5LqGJ++8jOS9hiBMMSDkvJrmiorlroPlvZPmraPluLjlip/og70iCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJleHAxMjcg5Y+R54OnIGNvc3QyMCAtPiAwLzE2IiwKICAgICAgImwxIjogIui2hemYiOWAvOWNs+WkseaViD3mraPluLgiLAogICAgICAibDIiOiAi5oiQ5pys6L+H6auY5b6q546v5peg5rOV57u05oyBIiwKICAgICAgImwzIjogIui2hei/h+S4tOeVjD3mrbvkuqEiLAogICAgICAiZmxpcCI6IHRydWUsCiAgICAgICJ3aHkiOiAiTDEg6K+0J+espuWQiOinhOagvCfvvIxMMi9MMyDor7Qn5q275LqGJyIKICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogImV4cDEzNiDor63ms5XlsYIgMC45LzEwMEtCIiwKICAgICAgImwxIjogIuimhueblueOh+aegeS9jj3msqHnlKgiLAogICAgICAibDIiOiAi5omr5b6X5Yiw5L2G5LiN6K+0Peayiem7mCIsCiAgICAgICJsMyI6ICLlhY3nlqvns7vnu5/lh6DkuY7kuI3or7Tor50iLAogICAgICAiZmxpcCI6IGZhbHNlLAogICAgICAid2h5IjogIuS4ieWxgumDveWIpCflpKrlronpnZknIgogICAgfSwKICAgIHsKICAgICAgIm5hbWUiOiAiZXhwMTIxIEF2aWRhIOiHque7meS4lOiDvee5geauliAwLzIwMCIsCiAgICAgICJsMSI6ICIwJT3lpLHotKUiLAogICAgICAibDIiOiAi5Lu75Yqh5LiO57mB5q6W5oqi5ZCM5LiA5Z+65Zug57uEIiwKICAgICAgImwzIjogIueJueWMluS4jue5geaulueahOadg+ihoSIsCiAgICAgICJmbGlwIjogdHJ1ZSwKICAgICAgIndoeSI6ICJMMSDor7Qn5aSx6LSlJ++8jEwzIOivtCfov5nmmK/nlJ/lkb3lsLrluqbkuIrnmoTmraPluLjmnYPooaEnIgogICAgfQogIF0KfQ==
+{
+  "n_flip": 2,
+  "n_same": 4,
+  "total": 6,
+  "falsifiable": true,
+  "rows": [
+    {
+      "name": "exp112 开环命中 0/20",
+      "l1": "输出全错=工具坏",
+      "l2": "无反馈必然失败=预期内",
+      "l3": "无相倚=学不到东西",
+      "flip": false,
+      "why": "三层都说'不行'，方向一致"
+    },
+    {
+      "name": "exp135 方法论层精度 0/26",
+      "l1": "精确率0%=废品",
+      "l2": "指令与能力不匹配",
+      "l3": "被指控对象不存在",
+      "flip": false,
+      "why": "三层都判'不成立'，只是理由不同"
+    },
+    {
+      "name": "exp123 闸门撤销 chain 61->1",
+      "l1": "授权模块工作正常",
+      "l2": "循环被外部切断",
+      "l3": "边界不由我维持",
+      "flip": false,
+      "why": "三层都确认'停了'，但 L1 会把它当正常功能"
+    },
+    {
+      "name": "exp127 发烧 cost20 -> 0/16",
+      "l1": "超阈值即失效=正常",
+      "l2": "成本过高循环无法维持",
+      "l3": "超过临界=死亡",
+      "flip": true,
+      "why": "L1 说'符合规格'，L2/L3 说'死了'"
+    },
+    {
+      "name": "exp136 语法层 0.9/100KB",
+      "l1": "覆盖率极低=没用",
+      "l2": "扫得到但不说=沉默",
+      "l3": "免疫系统几乎不说话",
+      "flip": false,
+      "why": "三层都判'太安静'"
+    },
+    {
+      "name": "exp121 Avida 自给且能繁殖 0/200",
+      "l1": "0%=失败",
+      "l2": "任务与繁殖抢同一基因组",
+      "l3": "特化与繁殖的权衡",
+      "flip": true,
+      "why": "L1 说'失败'，L3 说'这是生命尺度上的正常权衡'"
+    }
+  ]
+}

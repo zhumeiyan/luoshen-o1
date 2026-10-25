@@ -1,1 +1,161 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMjA3OiDnp43lrZDkuYvpl7TmmK/ljq7mnYDov5jmmK/otovlkIzvvJ8K77yI5LyY5YyW54mI77yaYml0cyDlj6rpnIAgUCh0YXJnZXRfY2hhcinvvIxPKDEpL+S9jee9ru+8m+WujOaVtOWIhuW4g+WPquWcqOWwkemHj+mHh+agt+S9jeS4iuaehOmAoO+8iQoiIiIKaW1wb3J0IGpzb24sIG1hdGgsIHJhbmRvbQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdAoKQkFTRSA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMSIKUE9PTCA9IGYie0JBU0V9L2V2aWRlbmNlL+Wksei0peaooeW8j+W6ky/liKTmja7moLgubWQiClRBUkdFVCA9IGYie0JBU0V9L2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0IgpPVVQgPSBmIntCQVNFfS9leHBlcmltZW50cy9leHAyMDdfc2VlZHMiCgpLID0gMgpTTU9PVEggPSAwLjEKTl9TRUVEU19MSVNUID0gWzEsIDIsIDQsIDgsIDE2XQpGUkFDID0gMC4wMgpOX1JFUEVBVCA9IDMKUE9PTF9DQVAgPSAxNTAwMDAgICAgICAjIOaxoOaIquaWrQpWT0NBQl9NSU5fQ05UID0gNSAgICAgICMg5rGg5Lit5Ye6546wPj015qyh5omN6L+bIHZvY2Fi77yI5Y6L57yp6K+N6KGo77yJCgpkZWYgbG9hZChwLCBjYXA9Tm9uZSk6CiAgICB3aXRoIG9wZW4ocCwgZW5jb2Rpbmc9InV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKSBhcyBmOgogICAgICAgIHQgPSBmLnJlYWQoKQogICAgcmV0dXJuIHRbOmNhcF0gaWYgY2FwIGVsc2UgdAoKZGVmIHRyYWluKHRleHQpOgogICAgY3R4ID0gZGVmYXVsdGRpY3QobGFtYmRhOiBkZWZhdWx0ZGljdChmbG9hdCkpCiAgICB0b3QgPSBkZWZhdWx0ZGljdChmbG9hdCkKICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSAtIEspOgogICAgICAgIGMgPSB0ZXh0W2k6aStLXQogICAgICAgIGN0eFtjXVt0ZXh0W2krS11dICs9IDEuMAogICAgICAgIHRvdFtjXSArPSAxLjAKICAgIHJldHVybiBjdHgsIHRvdAoKZGVmIHBfb25lKG1vZGVsLCBjLCBjaCwgVik6CiAgICAiIiLlj6rnrpfkuIDkuKrlrZfnrKbnmoTmpoLnjofvvIxPKDEpIiIiCiAgICBjdHgsIHRvdCA9IG1vZGVsCiAgICBkID0gY3R4LmdldChjKQogICAgbiA9IHRvdC5nZXQoYywgMC4wKSBpZiBkIGVsc2UgMC4wCiAgICBpZiBub3QgZDoKICAgICAgICByZXR1cm4gMS4wIC8gVgogICAgcmV0dXJuIChkLmdldChjaCwgMC4wKSArIFNNT09USCkgLyAobiArIFNNT09USCAqIFYpCgpkZWYgZnVsbF9kaXN0KG1vZGVsLCBjLCB2b2NhYiwgVik6CiAgICBjdHgsIHRvdCA9IG1vZGVsCiAgICBkID0gY3R4LmdldChjKQogICAgaWYgbm90IGQ6CiAgICAgICAgcmV0dXJuIHtjaDogMS4wIC8gViBmb3IgY2ggaW4gdm9jYWJ9CiAgICBuID0gdG90W2NdCiAgICByZXR1cm4ge2NoOiAoZC5nZXQoY2gsIDAuMCkgKyBTTU9PVEgpIC8gKG4gKyBTTU9PVEggKiBWKSBmb3IgY2ggaW4gdm9jYWJ9CgpkZWYgYml0c19vZihtb2RlbCwgdGVzdCwgVik6CiAgICBzLCBuID0gMC4wLCAwCiAgICBmb3IgaSBpbiByYW5nZShsZW4odGVzdCkgLSBLKToKICAgICAgICBwID0gcF9vbmUobW9kZWwsIHRlc3RbaTppK0tdLCB0ZXN0W2krS10sIFYpCiAgICAgICAgcyArPSAtbWF0aC5sb2cyKG1heChwLCAxZS0xMikpOyBuICs9IDEKICAgIHJldHVybiBzIC8gbWF4KG4sIDEpCgpkZWYgZW5zX2JpdHMobW9kZWxzLCB0ZXN0LCBWKToKICAgIHMsIG4gPSAwLjAsIDAKICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXN0KSAtIEspOgogICAgICAgIGMgPSB0ZXN0W2k6aStLXTsgY2ggPSB0ZXN0W2krS10KICAgICAgICBhY2MgPSBzdW0ocF9vbmUobSwgYywgY2gsIFYpIGZvciBtIGluIG1vZGVscykKICAgICAgICBzICs9IC1tYXRoLmxvZzIobWF4KGFjYyAvIGxlbihtb2RlbHMpLCAxZS0xMikpOyBuICs9IDEKICAgIHJldHVybiBzIC8gbWF4KG4sIDEpCgpkZWYganMocCwgcSk6CiAgICBtID0gMC4wCiAgICBmb3IgayBpbiBzZXQocCkgfCBzZXQocSk6CiAgICAgICAgYSwgYiA9IHAuZ2V0KGssIDAuMCksIHEuZ2V0KGssIDAuMCkKICAgICAgICBtdSA9IChhICsgYikgLyAyICsgMWUtMTIKICAgICAgICBtICs9IDAuNSAqIChhICogbWF0aC5sb2cyKChhICsgMWUtMTIpIC8gbXUpICsgYiAqIG1hdGgubG9nMigoYiArIDFlLTEyKSAvIG11KSkKICAgIHJldHVybiBtCgpkZWYgbWFpbigpOgogICAgcG9vbCA9IGxvYWQoUE9PTCwgUE9PTF9DQVApCiAgICB0YXJnZXQgPSBsb2FkKFRBUkdFVCkKICAgIG4gPSBsZW4odGFyZ2V0KQogICAgdmFfcywgdGVfcyA9IGludChuICogMC41KSwgaW50KG4gKiAwLjc1KQogICAgdGd0X3ZhbCwgdGd0X3Rlc3QgPSB0YXJnZXRbdmFfczp0ZV9zXSwgdGFyZ2V0W3RlX3M6XQoKICAgIGNudCA9IGRlZmF1bHRkaWN0KGludCkKICAgIGZvciBjaCBpbiBwb29sOgogICAgICAgIGNudFtjaF0gKz0gMQogICAgdm9jYWIgPSBzb3J0ZWQoe2NoIGZvciBjaCwgdiBpbiBjbnQuaXRlbXMoKSBpZiB2ID49IFZPQ0FCX01JTl9DTlR9IHwgc2V0KHRhcmdldCkpCiAgICBWID0gbGVuKHZvY2FiKQogICAgIyDph4fmoLfkvY3vvIjnlKjkuo7kuIDoh7TnjocgLyBKU++8jOmBv+WFjeWFqOmHj+WxleW8gO+8iQogICAgc3RlcCA9IG1heCgxLCAobGVuKHRndF90ZXN0KSAtIEspIC8vIDE1MCkKICAgIHBvcyA9IGxpc3QocmFuZ2UoMCwgbGVuKHRndF90ZXN0KSAtIEssIHN0ZXApKQoKICAgIHJlcyA9IHsibWV0YSI6IHsiSyI6IEssICJTTU9PVEgiOiBTTU9PVEgsICJGUkFDIjogRlJBQywgIlBPT0xfQ0FQIjogUE9PTF9DQVAsCiAgICAgICAgICAgICAgICAgICAgIlZPQ0FCX01JTl9DTlQiOiBWT0NBQl9NSU5fQ05ULCAicG9vbF9jaGFycyI6IGxlbihwb29sKSwKICAgICAgICAgICAgICAgICAgICAidGFyZ2V0X2NoYXJzIjogbGVuKHRhcmdldCksICJ2YWxfY2hhcnMiOiBsZW4odGd0X3ZhbCksCiAgICAgICAgICAgICAgICAgICAgInRlc3RfY2hhcnMiOiBsZW4odGd0X3Rlc3QpLCAidm9jYWIiOiBWLCAic2FtcGxlX3BvcyI6IGxlbihwb3MpfSwKICAgICAgICAgICAicGVyTiI6IFtdfQoKICAgIGZvciBOIGluIE5fU0VFRFNfTElTVDoKICAgICAgICByb3dzID0gW10KICAgICAgICBmb3IgcmVwIGluIHJhbmdlKE5fUkVQRUFUKToKICAgICAgICAgICAgcm5nID0gcmFuZG9tLlJhbmRvbSgxMDAwICsgcmVwICogOTcpCiAgICAgICAgICAgIEwgPSBpbnQobGVuKHBvb2wpICogRlJBQykKICAgICAgICAgICAgbW9kZWxzID0gW10KICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoTik6CiAgICAgICAgICAgICAgICBzdCA9IHJuZy5yYW5kcmFuZ2UoMCwgbWF4KDEsIGxlbihwb29sKSAtIEwpKQogICAgICAgICAgICAgICAgbW9kZWxzLmFwcGVuZCh0cmFpbihwb29sW3N0OnN0ICsgTF0pKQoKICAgICAgICAgICAgdmIgPSBbYml0c19vZihtLCB0Z3RfdmFsLCBWKSBmb3IgbSBpbiBtb2RlbHNdCiAgICAgICAgICAgIHdpID0gbWluKHJhbmdlKGxlbih2YikpLCBrZXk9bGFtYmRhIGk6IHZiW2ldKQogICAgICAgICAgICBraWxsX2JpdHMgPSBiaXRzX29mKG1vZGVsc1t3aV0sIHRndF90ZXN0LCBWKQogICAgICAgICAgICBlbnNfYml0c192ID0gZW5zX2JpdHMobW9kZWxzLCB0Z3RfdGVzdCwgVikKICAgICAgICAgICAgYXZnX2JpdHMgPSBzdW0oYml0c19vZihtLCB0Z3RfdGVzdCwgVikgZm9yIG0gaW4gbW9kZWxzKSAvIE4KCiAgICAgICAgICAgICMg5LiA6Ie0546HICsgSlPvvIjlj6rlnKjph4fmoLfkvY3kuIrlsZXlvIDlrozmlbTliIbluIPvvIkKICAgICAgICAgICAgdG9wcyA9IFtdCiAgICAgICAgICAgIGZvciBtIGluIG1vZGVsczoKICAgICAgICAgICAgICAgIHRvcHMuYXBwZW5kKFttYXgoZnVsbF9kaXN0KG0sIHRndF90ZXN0W3Q6dCtLXSwgdm9jYWIsIFYpLml0ZW1zKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleT1sYW1iZGEga3Y6IGt2WzFdKVswXSBmb3IgdCBpbiBwb3NdKQogICAgICAgICAgICBhZyA9IFtdCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKE4pOgogICAgICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UoaSArIDEsIE4pOgogICAgICAgICAgICAgICAgICAgIGFnLmFwcGVuZChzdW0oMSBmb3IgYSwgYiBpbiB6aXAodG9wc1tpXSwgdG9wc1tqXSkgaWYgYSA9PSBiKSAvIGxlbihwb3MpKQogICAgICAgICAgICBtZWFuX2FncmVlID0gc3VtKGFnKSAvIGxlbihhZykgaWYgYWcgZWxzZSAxLjAKCiAgICAgICAgICAgIGp2ID0gW10KICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTik6CiAgICAgICAgICAgICAgICBmb3IgaiBpbiByYW5nZShpICsgMSwgTik6CiAgICAgICAgICAgICAgICAgICAgcyA9IDAuMAogICAgICAgICAgICAgICAgICAgIGZvciB0IGluIHBvc1s6NDBdOgogICAgICAgICAgICAgICAgICAgICAgICBjID0gdGd0X3Rlc3RbdDp0K0tdCiAgICAgICAgICAgICAgICAgICAgICAgIHMgKz0ganMoZnVsbF9kaXN0KG1vZGVsc1tpXSwgYywgdm9jYWIsIFYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZ1bGxfZGlzdChtb2RlbHNbal0sIGMsIHZvY2FiLCBWKSkKICAgICAgICAgICAgICAgICAgICBqdi5hcHBlbmQocyAvIG1heCgxLCBsZW4ocG9zWzo0MF0pKSkKICAgICAgICAgICAgbWVhbl9qcyA9IHN1bShqdikgLyBsZW4oanYpIGlmIGp2IGVsc2UgMC4wCgogICAgICAgICAgICByb3dzLmFwcGVuZCh7InJlcCI6IHJlcCwgImtpbGxfYml0cyI6IGtpbGxfYml0cywgImVuc19iaXRzIjogZW5zX2JpdHNfdiwKICAgICAgICAgICAgICAgICAgICAgICAgICJhdmdfYml0cyI6IGF2Z19iaXRzLCAidG9wMV9hZ3JlZSI6IG1lYW5fYWdyZWUsICJtZWFuX2pzIjogbWVhbl9qc30pCiAgICAgICAgICAgIHByaW50KGYiICBOPXtOfSByZXA9e3JlcH0gZG9uZSIsIGZsdXNoPVRydWUpCgogICAgICAgIGFnZyA9IHtrOiBzdW0ocltrXSBmb3IgciBpbiByb3dzKSAvIGxlbihyb3dzKQogICAgICAgICAgICAgICBmb3IgayBpbiAoImtpbGxfYml0cyIsICJlbnNfYml0cyIsICJhdmdfYml0cyIsICJ0b3AxX2FncmVlIiwgIm1lYW5fanMiKX0KICAgICAgICByZXNbInBlck4iXS5hcHBlbmQoeyJOIjogTiwgKiphZ2csICJyYXciOiByb3dzfSkKCiAgICBmdWxsID0gdHJhaW4ocG9vbCkKICAgIHJlc1siZnVsbF9wb29sX2JpdHMiXSA9IGJpdHNfb2YoZnVsbCwgdGd0X3Rlc3QsIFYpCiAgICByZXNbInVuaWZvcm1fYml0cyJdID0gbWF0aC5sb2cyKFYpCiAgICByZXNbInJhbmRvbV90b3AxX2FncmVlIl0gPSAxLjAgLyBWCgogICAgd2l0aCBvcGVuKGYie09VVH0vcmVzdWx0MjA3Lmpzb24iLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKHJlcywgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKCiAgICBwcmludCgiXG4gTiB8IOWOruadgCjmjJHmnIDkvJgpIHwg5Y2P5L2cKOmbhuaIkCkgfCDlubPlnYfljZVzZWVkIHwgdG9wMeS4gOiHtOeOhyB8IOW5s+Wdh0pTIikKICAgIGZvciByIGluIHJlc1sicGVyTiJdOgogICAgICAgIHByaW50KGYie3JbJ04nXTozZH0gfCB7clsna2lsbF9iaXRzJ106MTEuNGZ9IHwge3JbJ2Vuc19iaXRzJ106MTAuNGZ9IHwiCiAgICAgICAgICAgICAgZiIge3JbJ2F2Z19iaXRzJ106MTAuNGZ9IHwge3JbJ3RvcDFfYWdyZWUnXToxMC40Zn0gfCB7clsnbWVhbl9qcyddOjcuNGZ9IikKICAgIHByaW50KGYiXG7lhajmsaDljZXmqKHlnosgYml0cz17cmVzWydmdWxsX3Bvb2xfYml0cyddOi40Zn0gIOWdh+WMgOWfuue6vz17cmVzWyd1bmlmb3JtX2JpdHMnXTouNGZ9ICIKICAgICAgICAgIGYiIOmaj+acuuS4gOiHtOeOhz17cmVzWydyYW5kb21fdG9wMV9hZ3JlZSddOi40Zn0gIFY9e1Z9IikKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp207: 种子之间是厮杀还是趋同？
+（优化版：bits 只需 P(target_char)，O(1)/位置；完整分布只在少量采样位上构造）
+"""
+import json, math, random
+from collections import defaultdict
+
+BASE = "/data/workspace/luoshen-o1"
+POOL = f"{BASE}/evidence/失败模式库/判据核.md"
+TARGET = f"{BASE}/experiments/exp180_record/u_side_full.txt"
+OUT = f"{BASE}/experiments/exp207_seeds"
+
+K = 2
+SMOOTH = 0.1
+N_SEEDS_LIST = [1, 2, 4, 8, 16]
+FRAC = 0.02
+N_REPEAT = 3
+POOL_CAP = 150000      # 池截断
+VOCAB_MIN_CNT = 5      # 池中出现>=5次才进 vocab（压缩词表）
+
+def load(p, cap=None):
+    with open(p, encoding="utf-8", errors="ignore") as f:
+        t = f.read()
+    return t[:cap] if cap else t
+
+def train(text):
+    ctx = defaultdict(lambda: defaultdict(float))
+    tot = defaultdict(float)
+    for i in range(len(text) - K):
+        c = text[i:i+K]
+        ctx[c][text[i+K]] += 1.0
+        tot[c] += 1.0
+    return ctx, tot
+
+def p_one(model, c, ch, V):
+    """只算一个字符的概率，O(1)"""
+    ctx, tot = model
+    d = ctx.get(c)
+    n = tot.get(c, 0.0) if d else 0.0
+    if not d:
+        return 1.0 / V
+    return (d.get(ch, 0.0) + SMOOTH) / (n + SMOOTH * V)
+
+def full_dist(model, c, vocab, V):
+    ctx, tot = model
+    d = ctx.get(c)
+    if not d:
+        return {ch: 1.0 / V for ch in vocab}
+    n = tot[c]
+    return {ch: (d.get(ch, 0.0) + SMOOTH) / (n + SMOOTH * V) for ch in vocab}
+
+def bits_of(model, test, V):
+    s, n = 0.0, 0
+    for i in range(len(test) - K):
+        p = p_one(model, test[i:i+K], test[i+K], V)
+        s += -math.log2(max(p, 1e-12)); n += 1
+    return s / max(n, 1)
+
+def ens_bits(models, test, V):
+    s, n = 0.0, 0
+    for i in range(len(test) - K):
+        c = test[i:i+K]; ch = test[i+K]
+        acc = sum(p_one(m, c, ch, V) for m in models)
+        s += -math.log2(max(acc / len(models), 1e-12)); n += 1
+    return s / max(n, 1)
+
+def js(p, q):
+    m = 0.0
+    for k in set(p) | set(q):
+        a, b = p.get(k, 0.0), q.get(k, 0.0)
+        mu = (a + b) / 2 + 1e-12
+        m += 0.5 * (a * math.log2((a + 1e-12) / mu) + b * math.log2((b + 1e-12) / mu))
+    return m
+
+def main():
+    pool = load(POOL, POOL_CAP)
+    target = load(TARGET)
+    n = len(target)
+    va_s, te_s = int(n * 0.5), int(n * 0.75)
+    tgt_val, tgt_test = target[va_s:te_s], target[te_s:]
+
+    cnt = defaultdict(int)
+    for ch in pool:
+        cnt[ch] += 1
+    vocab = sorted({ch for ch, v in cnt.items() if v >= VOCAB_MIN_CNT} | set(target))
+    V = len(vocab)
+    # 采样位（用于一致率 / JS，避免全量展开）
+    step = max(1, (len(tgt_test) - K) // 150)
+    pos = list(range(0, len(tgt_test) - K, step))
+
+    res = {"meta": {"K": K, "SMOOTH": SMOOTH, "FRAC": FRAC, "POOL_CAP": POOL_CAP,
+                    "VOCAB_MIN_CNT": VOCAB_MIN_CNT, "pool_chars": len(pool),
+                    "target_chars": len(target), "val_chars": len(tgt_val),
+                    "test_chars": len(tgt_test), "vocab": V, "sample_pos": len(pos)},
+           "perN": []}
+
+    for N in N_SEEDS_LIST:
+        rows = []
+        for rep in range(N_REPEAT):
+            rng = random.Random(1000 + rep * 97)
+            L = int(len(pool) * FRAC)
+            models = []
+            for _ in range(N):
+                st = rng.randrange(0, max(1, len(pool) - L))
+                models.append(train(pool[st:st + L]))
+
+            vb = [bits_of(m, tgt_val, V) for m in models]
+            wi = min(range(len(vb)), key=lambda i: vb[i])
+            kill_bits = bits_of(models[wi], tgt_test, V)
+            ens_bits_v = ens_bits(models, tgt_test, V)
+            avg_bits = sum(bits_of(m, tgt_test, V) for m in models) / N
+
+            # 一致率 + JS（只在采样位上展开完整分布）
+            tops = []
+            for m in models:
+                tops.append([max(full_dist(m, tgt_test[t:t+K], vocab, V).items(),
+                                 key=lambda kv: kv[1])[0] for t in pos])
+            ag = []
+            for i in range(N):
+                for j in range(i + 1, N):
+                    ag.append(sum(1 for a, b in zip(tops[i], tops[j]) if a == b) / len(pos))
+            mean_agree = sum(ag) / len(ag) if ag else 1.0
+
+            jv = []
+            for i in range(N):
+                for j in range(i + 1, N):
+                    s = 0.0
+                    for t in pos[:40]:
+                        c = tgt_test[t:t+K]
+                        s += js(full_dist(models[i], c, vocab, V),
+                                full_dist(models[j], c, vocab, V))
+                    jv.append(s / max(1, len(pos[:40])))
+            mean_js = sum(jv) / len(jv) if jv else 0.0
+
+            rows.append({"rep": rep, "kill_bits": kill_bits, "ens_bits": ens_bits_v,
+                         "avg_bits": avg_bits, "top1_agree": mean_agree, "mean_js": mean_js})
+            print(f"  N={N} rep={rep} done", flush=True)
+
+        agg = {k: sum(r[k] for r in rows) / len(rows)
+               for k in ("kill_bits", "ens_bits", "avg_bits", "top1_agree", "mean_js")}
+        res["perN"].append({"N": N, **agg, "raw": rows})
+
+    full = train(pool)
+    res["full_pool_bits"] = bits_of(full, tgt_test, V)
+    res["uniform_bits"] = math.log2(V)
+    res["random_top1_agree"] = 1.0 / V
+
+    with open(f"{OUT}/result207.json", "w", encoding="utf-8") as f:
+        json.dump(res, f, ensure_ascii=False, indent=2)
+
+    print("\n N | 厮杀(挑最优) | 协作(集成) | 平均单seed | top1一致率 | 平均JS")
+    for r in res["perN"]:
+        print(f"{r['N']:3d} | {r['kill_bits']:11.4f} | {r['ens_bits']:10.4f} |"
+              f" {r['avg_bits']:10.4f} | {r['top1_agree']:10.4f} | {r['mean_js']:7.4f}")
+    print(f"\n全池单模型 bits={res['full_pool_bits']:.4f}  均匀基线={res['uniform_bits']:.4f} "
+          f" 随机一致率={res['random_top1_agree']:.4f}  V={V}")
+
+if __name__ == "__main__":
+    main()

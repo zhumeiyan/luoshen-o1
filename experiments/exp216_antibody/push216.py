@@ -1,1 +1,25 @@
-aW1wb3J0IG9zLCBqc29uLCBiYXNlNjQsIHVybGxpYi5yZXF1ZXN0IGFzIFUKVEsgPSBvcGVuKCcvZGF0YS93b3Jrc3BhY2UvZXhwMjE0X3NhbXBsZTNrLy5naF90b2tlbicpLnJlYWQoKS5zdHJpcCgpCmRlZiBwdXQocmVwbywgcGF0aCwgbG9jYWwsIG1zZyk6CiAgICBiID0gb3Blbihsb2NhbCwncmInKS5yZWFkKCkKICAgIHRyeToKICAgICAgICByID0gVS5SZXF1ZXN0KGYiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy97cmVwb30vY29udGVudHMve3BhdGh9IiwKICAgICAgICAgICAgICAgICAgICAgIGRhdGE9anNvbi5kdW1wcyh7J21lc3NhZ2UnOm1zZywnY29udGVudCc6YmFzZTY0LmI2NGVuY29kZShiKS5kZWNvZGUoKX0pLmVuY29kZSgpLAogICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz17J0F1dGhvcml6YXRpb24nOmYndG9rZW4ge1RLfScsJ0NvbnRlbnQtVHlwZSc6J2FwcGxpY2F0aW9uL2pzb24nfSkKICAgICAgICByZXR1cm4ganNvbi5sb2FkKFUudXJsb3BlbihyLCB0aW1lb3V0PTYwKSkuZ2V0KCdjb250ZW50Jyx7fSkuZ2V0KCdzaGEnLCcnKVs6OF0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByID0gVS5SZXF1ZXN0KGYiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy97cmVwb30vY29udGVudHMve3BhdGh9IiwgbWV0aG9kPSdHRVQnLAogICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz17J0F1dGhvcml6YXRpb24nOmYndG9rZW4ge1RLfSd9KQogICAgICAgIHNoYSA9IGpzb24ubG9hZChVLnVybG9wZW4ociwgdGltZW91dD02MCkpWydzaGEnXQogICAgICAgIHIgPSBVLlJlcXVlc3QoZiJodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL3tyZXBvfS9jb250ZW50cy97cGF0aH0iLAogICAgICAgICAgICAgICAgICAgICAgZGF0YT1qc29uLmR1bXBzKHsnbWVzc2FnZSc6bXNnLCdjb250ZW50JzpiYXNlNjQuYjY0ZW5jb2RlKGIpLmRlY29kZSgpLCdzaGEnOnNoYX0pLmVuY29kZSgpLAogICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz17J0F1dGhvcml6YXRpb24nOmYndG9rZW4ge1RLfScsJ0NvbnRlbnQtVHlwZSc6J2FwcGxpY2F0aW9uL2pzb24nfSkKICAgICAgICByZXR1cm4ganNvbi5sb2FkKFUudXJsb3BlbihyLCB0aW1lb3V0PTYwKSkuZ2V0KCdjb250ZW50Jyx7fSkuZ2V0KCdzaGEnLCcnKVs6OF0KCmZvciByZXBvIGluIFsnemh1bWVpeWFuL2VvLWRldm8nLCd6aHVtZWl5YW4vZW8tZGV2by1kZW1vJ106CiAgICBmb3IgcGF0aCwgbG9jYWwgaW4gWwogICAgICAgICgnYXNzZXRzL3JlbmRlcjIxNi5wbmcnLCcvZGF0YS93b3Jrc3BhY2UvZW8tcmVwby9hc3NldHMvcmVuZGVyMjE2LnBuZycpLAogICAgICAgICgnYW50aWJvZHkucHknLCcvZGF0YS93b3Jrc3BhY2UvYW50aWJvZHkucHknKSwKICAgICAgICAoJ2V2aWRlbmNlLzIxNl/mipfkvZNf5a6/5Li75YGa55qE5YWN55arLm1kJywnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5a6e6aqM5oql5ZGKLzIxNl/mipfkvZNf5a6/5Li75YGa55qE5YWN55arLm1kJyksCiAgICBdOgogICAgICAgIHByaW50KHJlcG8sIHBhdGgsIHB1dChyZXBvLCBwYXRoLCBsb2NhbCwgJzIxNiBhbnRpYm9keScpKQo=
+import os, json, base64, urllib.request as U
+TK = open('/data/workspace/exp214_sample3k/.gh_token').read().strip()
+def put(repo, path, local, msg):
+    b = open(local,'rb').read()
+    try:
+        r = U.Request(f"https://api.github.com/repos/{repo}/contents/{path}",
+                      data=json.dumps({'message':msg,'content':base64.b64encode(b).decode()}).encode(),
+                      headers={'Authorization':f'token {TK}','Content-Type':'application/json'})
+        return json.load(U.urlopen(r, timeout=60)).get('content',{}).get('sha','')[:8]
+    except Exception as e:
+        r = U.Request(f"https://api.github.com/repos/{repo}/contents/{path}", method='GET',
+                      headers={'Authorization':f'token {TK}'})
+        sha = json.load(U.urlopen(r, timeout=60))['sha']
+        r = U.Request(f"https://api.github.com/repos/{repo}/contents/{path}",
+                      data=json.dumps({'message':msg,'content':base64.b64encode(b).decode(),'sha':sha}).encode(),
+                      headers={'Authorization':f'token {TK}','Content-Type':'application/json'})
+        return json.load(U.urlopen(r, timeout=60)).get('content',{}).get('sha','')[:8]
+
+for repo in ['zhumeiyan/eo-devo','zhumeiyan/eo-devo-demo']:
+    for path, local in [
+        ('assets/render216.png','/data/workspace/eo-repo/assets/render216.png'),
+        ('antibody.py','/data/workspace/antibody.py'),
+        ('evidence/216_抗体_宿主做的免疫.md','/data/workspace/luoshen-o1/evidence/实验报告/216_抗体_宿主做的免疫.md'),
+    ]:
+        print(repo, path, put(repo, path, local, '216 antibody'))

@@ -1,1 +1,62 @@
-aW1wb3J0IHN1YnByb2Nlc3MsIG9zLCByYW5kb20sIHN0cmluZywgY3YyLCBweXRlc3NlcmFjdCwgbnVtcHkgYXMgbnAsIGpzb24KT1VUPSIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAwOTNfaHVtYW5fZG9vciIKZWc9anNvbi5sb2FkKG9wZW4oT1VUKyIvZW5naW5lMDkzX3Jlc3VsdC5qc29uIikpCmNzPWVnWyJjZWxscyJdOyB0dD1lZ1sidGVzdHMiXQp2YWxzPVsoIlVBYyIsNDAzKSwoIlVBZyIsNDAzKSwoIlVBcCIsNDAzKSwKICAgICAgKCJnYXRlIiw5KSwoImZsaXAiLDEpLAogICAgICAoIm9wZW4iLGNzWyJvcGVuIl1bInNrZXciXSksKCJyYW5kIixjc1sicmFuZF9wNTAiXVsic2tldyJdKSwKICAgICAgKCJwZXJpbzgwIixjc1sicGVyaW9fODAiXVsic2tldyJdKSwoImNsb3NlZCIsY3NbImNsb3NlZCJdWyJza2V3Il0pLAogICAgICAoIkgzIix0dFsiSDMg56iz5a6a5YWzIHZzIOeos+WumuW8gCJdWyJkaWZmIl0pXQp0b2s9Jycuam9pbihyYW5kb20uY2hvaWNlcyhzdHJpbmcuYXNjaWlfdXBwZXJjYXNlK3N0cmluZy5kaWdpdHMsaz02KSkKb3MuZW52aXJvblsiVE9LIl09dG9rCnNjcmlwdCA9IHInJycKaW1wb3J0IG9zLHN1YnByb2Nlc3MKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udApXLEg9MTAyNCw3NjgKaW1nPUltYWdlLm5ldygiUkdCIiwoVyxIKSwoMjU1LDI1NSwyNTUpKTsgZD1JbWFnZURyYXcuRHJhdyhpbWcpCkY9Tm9uZQpmb3IgcCBpbiBbIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMiLCIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTYW5zLnR0ZiJdOgogICAgaWYgb3MucGF0aC5leGlzdHMocCk6CiAgICAgICAgdHJ5OiBGPUltYWdlRm9udC50cnVldHlwZShwLDI2KTsgYnJlYWsKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCmlmIEYgaXMgTm9uZTogRj1JbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKaW1wb3J0IGpzb24KRD0iL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMDkzX2h1bWFuX2Rvb3IvIgplZz1qc29uLmxvYWQob3BlbihEKyIvZW5naW5lMDkzX3Jlc3VsdC5qc29uIikpOyBjcz1lZ1siY2VsbHMiXTsgdHQ9ZWdbInRlc3RzIl0Kcm93cz1bKCJVQSBjdXJsL2Nocm9tZS9pcGhvbmUiLCI0MDMgNDAzIDQwMyIpLAogICAgICAoInN0YWJsZSBnYXRlcyIsIjkgb2YgMTAiKSwKICAgICAgKCJpbnRlcm1pdHRlbnQiLCJhcGkuZ2l0aHViIGZsaXA9MyIpLAogICAgICAoInNrZXcgb3BlbiIsICAiJS40ZiIlY3NbIm9wZW4iXVsic2tldyJdKSwKICAgICAgKCJza2V3IHJhbmQ1MCIsIiUuNGYiJWNzWyJyYW5kX3A1MCJdWyJza2V3Il0pLAogICAgICAoInNrZXcgcGVyaW84MCIsIiUuNGYiJWNzWyJwZXJpb184MCJdWyJza2V3Il0pLAogICAgICAoInNrZXcgY2xvc2VkIiwiJS40ZiIlY3NbImNsb3NlZCJdWyJza2V3Il0pLAogICAgICAoIkgzIGRpZmYiLCAgICAiJSsuNGYiJXR0WyJIMyDnqLPlrprlhbMgdnMg56iz5a6a5byAIl1bImRpZmYiXSksCiAgICAgICgiVE9LRU4iLCAgICAgIG9zLmVudmlyb25bIlRPSyJdKV0KeT00MApmb3Igayx2IGluIHJvd3M6CiAgICBkLnRleHQoKDQwLHkpLGYie2s6MjJzfSB7dn0iLGZpbGw9KDAsMCwwKSxmb250PUYpOyB5Kz01MgpkLnRleHQoKDQwLHkrMjApLCIwOTMgU0VMRi1DSEVDSyIsZmlsbD0oMCwwLDApLGZvbnQ9RikKaW1nLnNhdmUoIi90bXAvc2MwOTMucG5nIikKc3VicHJvY2Vzcy5ydW4oWyJweXRob24zIiwiLWMiLCIiIgpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKaW09SW1hZ2Uub3BlbignL3RtcC9zYzA5My5wbmcnKS5jb252ZXJ0KCdSR0InKQppbS5zYXZlKCcvZGV2L2ZiMCcgaWYgRmFsc2UgZWxzZSAnL3RtcC9zYzA5M2IucG5nJykKaW1wb3J0IHNodXRpbAojIOWGmeWFpeW4p+e8k+WGsgp3aXRoIG9wZW4oJy9kZXYvZmIwJywnd2InKSBhcyBmOgogICAgaW0yPWltLnJlc2l6ZSgoMTAyNCw3NjgpKQogICAgZi53cml0ZShpbTIudG9ieXRlcygpKQoiIiJdLGNoZWNrPVRydWUpCicnJwpvcGVuKCIvdG1wL3JlbmRlcjA5My5weSIsInciKS53cml0ZShzY3JpcHQpCnN1YnByb2Nlc3MucnVuKFsicHl0aG9uMyIsIi90bXAvcmVuZGVyMDkzLnB5Il0sY2hlY2s9VHJ1ZSkKc3VicHJvY2Vzcy5ydW4oWyJmZm1wZWciLCIteSIsIi1mIiwiZmJkZXYiLCItaSIsIi9kZXYvZmIwIiwiLWZyYW1lczp2IiwiMSIsCiAgICAgICAgICAgICAgICBmIntPVVR9L2NhcHR1cmVkMDkzLnBuZyIsIi1sb2dsZXZlbCIsImVycm9yIl0sY2hlY2s9VHJ1ZSkKaW09Y3YyLmltcmVhZChmIntPVVR9L2NhcHR1cmVkMDkzLnBuZyIpCmc9Y3YyLmN2dENvbG9yKGN2Mi5yZXNpemUoaW0sTm9uZSxmeD0yLGZ5PTIsaW50ZXJwb2xhdGlvbj1jdjIuSU5URVJfQ1VCSUMpLGN2Mi5DT0xPUl9CR1IyR1JBWSkKdHh0PXB5dGVzc2VyYWN0LmltYWdlX3RvX3N0cmluZyhnLGNvbmZpZz0iLS1wc20gNiIpCnByaW50KCI9PT0gT0NSIFJFQURCQUNLID09PSIpCnByaW50KHR4dC5zdHJpcCgpWzo3MDBdKQpoaXQgPSB0b2sgaW4gdHh0LnJlcGxhY2UoIiAiLCIiKQpwcmludChmIlxuVE9LRU49e3Rva30gIGZvdW5kX2luX09DUj17aGl0fSIpCnByaW50KCJNQVRDSDoiLGhpdCkK
+import subprocess, os, random, string, cv2, pytesseract, numpy as np, json
+OUT="/data/workspace/luoshen-o1/experiments/exp093_human_door"
+eg=json.load(open(OUT+"/engine093_result.json"))
+cs=eg["cells"]; tt=eg["tests"]
+vals=[("UAc",403),("UAg",403),("UAp",403),
+      ("gate",9),("flip",1),
+      ("open",cs["open"]["skew"]),("rand",cs["rand_p50"]["skew"]),
+      ("perio80",cs["perio_80"]["skew"]),("closed",cs["closed"]["skew"]),
+      ("H3",tt["H3 稳定关 vs 稳定开"]["diff"])]
+tok=''.join(random.choices(string.ascii_uppercase+string.digits,k=6))
+os.environ["TOK"]=tok
+script = r'''
+import os,subprocess
+from PIL import Image, ImageDraw, ImageFont
+W,H=1024,768
+img=Image.new("RGB",(W,H),(255,255,255)); d=ImageDraw.Draw(img)
+F=None
+for p in ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc","/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]:
+    if os.path.exists(p):
+        try: F=ImageFont.truetype(p,26); break
+        except Exception: pass
+if F is None: F=ImageFont.load_default()
+import json
+D="/data/workspace/luoshen-o1/experiments/exp093_human_door/"
+eg=json.load(open(D+"/engine093_result.json")); cs=eg["cells"]; tt=eg["tests"]
+rows=[("UA curl/chrome/iphone","403 403 403"),
+      ("stable gates","9 of 10"),
+      ("intermittent","api.github flip=3"),
+      ("skew open",  "%.4f"%cs["open"]["skew"]),
+      ("skew rand50","%.4f"%cs["rand_p50"]["skew"]),
+      ("skew perio80","%.4f"%cs["perio_80"]["skew"]),
+      ("skew closed","%.4f"%cs["closed"]["skew"]),
+      ("H3 diff",    "%+.4f"%tt["H3 稳定关 vs 稳定开"]["diff"]),
+      ("TOKEN",      os.environ["TOK"])]
+y=40
+for k,v in rows:
+    d.text((40,y),f"{k:22s} {v}",fill=(0,0,0),font=F); y+=52
+d.text((40,y+20),"093 SELF-CHECK",fill=(0,0,0),font=F)
+img.save("/tmp/sc093.png")
+subprocess.run(["python3","-c","""
+from PIL import Image
+im=Image.open('/tmp/sc093.png').convert('RGB')
+im.save('/dev/fb0' if False else '/tmp/sc093b.png')
+import shutil
+# 写入帧缓冲
+with open('/dev/fb0','wb') as f:
+    im2=im.resize((1024,768))
+    f.write(im2.tobytes())
+"""],check=True)
+'''
+open("/tmp/render093.py","w").write(script)
+subprocess.run(["python3","/tmp/render093.py"],check=True)
+subprocess.run(["ffmpeg","-y","-f","fbdev","-i","/dev/fb0","-frames:v","1",
+                f"{OUT}/captured093.png","-loglevel","error"],check=True)
+im=cv2.imread(f"{OUT}/captured093.png")
+g=cv2.cvtColor(cv2.resize(im,None,fx=2,fy=2,interpolation=cv2.INTER_CUBIC),cv2.COLOR_BGR2GRAY)
+txt=pytesseract.image_to_string(g,config="--psm 6")
+print("=== OCR READBACK ===")
+print(txt.strip()[:700])
+hit = tok in txt.replace(" ","")
+print(f"\nTOKEN={tok}  found_in_OCR={hit}")
+print("MATCH:",hit)

@@ -1,1 +1,22 @@
-MTY0IOa1i+mHj+aegemZkDog54G15pWP5bqm55qE57uI54K55piv5b+X57ypCgpB5Y2V5YiG5pSv5LqS5L+h5oGvIEkoQTtYKT0wLjAwMDAwIElCO1gpPTAuMDAwMDEKCkEg5YWz6IGUIEFeQiDmgaLlpI0gWCDlh4bnoa7njocgPSAxLjAwMDAKCkEg6KeC5rWL5omw5YqoIHA6IDAuMDAtPjEuMDAwMCAwLjIwLT4wLjc5OTAgMC4zNS0+MC42NTM3CkEgcD0wLjUwIC0+IDAuNDk5NiDlrozlhajpn6bnvKkgKOWNleWIhuaUr+S6kuS/oeaBr+Wni+e7iOS4ujApCgpBMiDnu4/lhbjlhbPogZTlj6/lpI3liLYgLT4g5aSa5pWw5oqV56Wo57qg6ZSZIChtPTIxLHA9MC4yMCAtPiAwLjk5OTApCkEyIOebuOWPmOeCuSBwPTAuNTA6IG09MS4uMjEg5oGSIDAuNTAg5aSa5aCG5YWz6IGU5peg5pWICgpDMiBDUFXpmY3popE6IOi/nue7rSA1ODQyIG5zIHNsZWVw5ZCO6aaW5qyhIDQwMzg4IG5zIOavlOWAvCA2LjkxMwpDMyDop4LmtYvlvLrluqYgaz00Li4yNTYg5ryC56e75peg5Y2V6LCD6LaL5Yq/ICjnu4/lhbjmibDliqjmmK/mnLrliLbkvp3otZYpCgogCgrph4/lrZA6IFNRTCAxL3NxcnQoTikgLT4gSEwgVC9OICjnuqDnvKAsIOaPkOWNhyBzcXJ0KE4pIOWAjSkK6YeP5a2QOiDnuqDnvKDkuI3lj6/lhYvpmoYgLT4g6LaK5aSn6LaK6Zq+5L+d5oqkIC0+IOingua1i+WNs+aJlOe8qQoKVE9LRU4gVDlLMk1aCgw=
+164 测量极限: 灵敏度的终点是志缩
+
+A单分支互信息 I(A;X)=0.00000 IB;X)=0.00001
+
+A 关联 A^B 恢复 X 准确率 = 1.0000
+
+A 观测扰动 p: 0.00->1.0000 0.20->0.7990 0.35->0.6537
+A p=0.50 -> 0.4996 完全韦缩 (单分支互信息始终为0)
+
+A2 经典关联可复制 -> 多数投票纠错 (m=21,p=0.20 -> 0.9990)
+A2 相变点 p=0.50: m=1..21 恒 0.50 多堆关联无效
+
+C2 CPU降频: 连续 5842 ns sleep后首次 40388 ns 比值 6.913
+C3 观测强度 k=4..256 漂移无单调趋势 (经典扰动是机制依赖)
+
+ 
+
+量子: SQL 1/sqrt(N) -> HL T/N (纠缠, 提升 sqrt(N) 倍)
+量子: 纠缠不可克隆 -> 越大越难保护 -> 观测即扔缩
+
+TOKEN T9K2MZ
+

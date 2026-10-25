@@ -1,1 +1,50 @@
-aW1wb3J0IHJhbmRvbQpDQVA9WzAuNDIsMC41NSwwLjY4LDAuODAsMC45MCwwLjk4XTsgTDA9WzAuMjAsMC4yOCwwLjM1LDAuNDIsMC41MCwwLjU4XTsgTj02CkxSPTAuMTI7IEpVTVA9MC40NTsgVEhFVEE9MC42MDsgRkxPT1I9MC4wNQpkZWYgc2ltKEQ9MC41LEY9MC41LEg9MC41LGM9MC4zLGV4aXQ9MC41LGxlYXJuPTAuMyxUPTEyMCxzZWVkPTAsbW9kZT0nY3ljbGUnKToKICAgIHI9cmFuZG9tLlJhbmRvbShzZWVkKjMxMzM3KzE3KQogICAgTD1saXN0KEwwKTsga25vd249W0ZhbHNlXSpOOyBkZXNpcmU9MC42MDsgYnJrPTA7IHdhc3RlZD0wCiAgICAjIOacieaViOaHpuW8seaApzog5Y+q5pyJ5oCV5q275Y6L6L+H5biM5pyb5pe25omN5Zue6YG/CiAgICBjZWZmID0gYyptYXgoMC4wLCBGLUgpL21heCgxZS05LG1heChGLEgpKQogICAgIyDpqbHliqg6IOefpeatu+e7meaXtumZkOWOi+WKmzsg5oCV5q275pyJ5Ye65Y+j5Li65q2jL+aXoOWHuuWPo+S4uui0nygyMzEpOyDluIzmnJvmgZLmraMKICAgIGRyaXZlMCA9IDAuMzAgKyAwLjM1KkQgKyAwLjQwKkggKyAwLjQ1KkYqKDIqZXhpdC0xKQogICAgZHJpdmUgPSBtYXgoRkxPT1IsIG1pbigxLjAsIGRyaXZlMCkpOyBkZXNpcmU9ZHJpdmUKICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgIExiYXI9bWF4KEwpCiAgICAgICAgcGVyYz1bTFtpXStjZWZmKihMYmFyLUxbaV0pKnIucmFuZG9tKCkgZm9yIGkgaW4gcmFuZ2UoTildCiAgICAgICAgcG9vbD1baSBmb3IgaSBpbiByYW5nZShOKSBpZiBMW2ldPENBUFtpXS0xZS02IGFuZCBub3QgKGtub3duW2ldIGFuZCBDQVBbaV08VEhFVEEpXQogICAgICAgIGlmIG5vdCBwb29sOiBwb29sPVtpIGZvciBpIGluIHJhbmdlKE4pIGlmIExbaV08Q0FQW2ldLTFlLTZdIG9yIGxpc3QocmFuZ2UoTikpCiAgICAgICAgaWYgICBtb2RlPT0nd2Vhayc6ICAgdGd0PW1pbihwb29sLGtleT1sYW1iZGEgaTpMW2ldKQogICAgICAgIGVsaWYgbW9kZT09J3N0cm9uZyc6IHRndD1tYXgocG9vbCxrZXk9bGFtYmRhIGk6TFtpXSkKICAgICAgICBlbHNlOiAgICAgICAgICAgICAgICB0Z3Q9bWluKHBvb2wsa2V5PWxhbWJkYSBpOnBlcmNbaV0pCiAgICAgICAgaWYgci5yYW5kb20oKTxsZWFybjoKICAgICAgICAgICAga25vd25bdGd0XT1UcnVlCiAgICAgICAgICAgIGlmIENBUFt0Z3RdPFRIRVRBOiB3YXN0ZWQrPTEKICAgICAgICBiZWZvcmU9TFt0Z3RdOyByb29tPUNBUFt0Z3RdLUxbdGd0XQogICAgICAgIExbdGd0XT1taW4oQ0FQW3RndF0sIExbdGd0XStMUipyb29tKmRlc2lyZSkKICAgICAgICBpZiBiZWZvcmU8VEhFVEE8PUxbdGd0XToKICAgICAgICAgICAgTFt0Z3RdPW1pbihDQVBbdGd0XSwgTFt0Z3RdK0pVTVAqcm9vbSk7IGJyays9MQogICAgICAgICAgICBkZXNpcmUqPSgxLjAtMC4zMCkKICAgICAgICBlbHNlOiBkZXNpcmU9bWluKDEuMCwgZGVzaXJlKzAuMDgqTFIqcm9vbSkKICAgICAgICBkZXNpcmU9bWF4KEZMT09SLCBtaW4oMS4wLCBkZXNpcmUpKQogICAgcmV0dXJuIGRpY3Qo5oC76IO95YqbPXJvdW5kKHN1bShMKSwzKSwg5pS756C0PWJyaywg5rWq6LS5PXdhc3RlZCwg5pyJ5pWI5oem5byx5oCnPXJvdW5kKGNlZmYsMyksIOWIneWni+mpseWKqD1yb3VuZChkcml2ZSwzKSkKcHJpbnQoIj09IEEg5oem5byx5oCnIGMg5omr5o+POiDmgJXmrbvkuLvlr7wgdnMg5biM5pyb5Li75a+8ID09IikKcHJpbnQoIiAgYyAgICAgRj5IKDAuOC8wLjIpICAgRjxIKDAuMi8wLjgpIikKZm9yIGNjIGluIFswLjAsMC4zLDAuNSwwLjgsMS4wXToKICAgIGE9c2ltKEY9MC44LEg9MC4yLGM9Y2MpWyfmgLvog73lipsnXTsgYj1zaW0oRj0wLjIsSD0wLjgsYz1jYylbJ+aAu+iDveWKmyddCiAgICBwcmludCgiICAlLTUuMWYgJS0xNC4zZiAlLjNmIiUoY2MsYSxiKSkKcHJpbnQoIlxuPT0gQiDkuInmg4Xnu6rmtojono0gKGM9MC41LCBleGl0PTAuNSkgPT0iKQpwcmludCgiICDmnaHku7YgICAgICAgICAgICDmgLvog73lipsgIOaUu+egtCIpCmZvciB0YWcsa3cgaW4gWygn5YWo5pyJJyxkaWN0KEQ9LjUsRj0uNSxIPS41KSksKCfljrvnn6XmrbsnLGRpY3QoRD0wLEY9LjUsSD0uNSkpLAogICAgICAgICAgICAgICAoJ+WOu+aAleatuycsZGljdChEPS41LEY9MCxIPS41KSksKCfljrvluIzmnJsnLGRpY3QoRD0uNSxGPS41LEg9MCkpLAogICAgICAgICAgICAgICAoJ+S4ieaXoCjmiJEpJyxkaWN0KEQ9MCxGPTAsSD0wKSldOgogICAgcz1zaW0oYz0wLjUsKiprdyk7IHByaW50KCIgICUtMTRzICUtNy4zZiAlZCIlKHRhZyxzWyfmgLvog73lipsnXSxzWyfmlLvnoLQnXSkpCnByaW50KCJcbj09IEMg5oCV5q27IHgg5Ye65Y+jICgyMzHlj7fmnLrliLblpI3njrAsIEQ9LjUsSD0uMyxjPS4zKSA9PSIpCnByaW50KCIgIGV4aXQgIOaAu+iDveWKmyAg5Yid5aeL6amx5YqoIikKZm9yIGV4IGluIFswLjAsMC4yNSwwLjUsMC43NSwxLjBdOgogICAgcz1zaW0oRj0wLjgsSD0wLjMsZXhpdD1leCxjPTAuMyk7IHByaW50KCIgICUtNS4yZiAlLTcuM2YgJS4zZiIlKGV4LHNbJ+aAu+iDveWKmyddLHNbJ+WIneWni+mpseWKqCddKSkKcHJpbnQoIlxuPT0gRCDmlLvlvLHpobkgdnMg5pS75by66aG5IHgg5oOF57uq57uE5ZCIID09IikKcHJpbnQoIiAg57uE5ZCIICAgICAgICAgICAgd2VhayAgIHN0cm9uZyAg5beuIikKZm9yIHRhZyxrdyBpbiBbKCfmgJXmrbvkuLvlr7wnLGRpY3QoRj0uOCxIPS4yKSksKCfluIzmnJvkuLvlr7wnLGRpY3QoRj0uMixIPS44KSksKCflubPooaEnLGRpY3QoRj0uNSxIPS41KSldOgogICAgYT1zaW0oYz0wLjUsbW9kZT0nd2VhaycsKiprdylbJ+aAu+iDveWKmyddOyBiPXNpbShjPTAuNSxtb2RlPSdzdHJvbmcnLCoqa3cpWyfmgLvog73lipsnXQogICAgcHJpbnQoIiAgJS0xNHMgJS02LjNmICUtNy4zZiAlKy4zZiIlKHRhZyxhLGIsYS1iKSkK
+import random
+CAP=[0.42,0.55,0.68,0.80,0.90,0.98]; L0=[0.20,0.28,0.35,0.42,0.50,0.58]; N=6
+LR=0.12; JUMP=0.45; THETA=0.60; FLOOR=0.05
+def sim(D=0.5,F=0.5,H=0.5,c=0.3,exit=0.5,learn=0.3,T=120,seed=0,mode='cycle'):
+    r=random.Random(seed*31337+17)
+    L=list(L0); known=[False]*N; desire=0.60; brk=0; wasted=0
+    # 有效懦弱性: 只有怕死压过希望时才回避
+    ceff = c*max(0.0, F-H)/max(1e-9,max(F,H))
+    # 驱动: 知死给时限压力; 怕死有出口为正/无出口为负(231); 希望恒正
+    drive0 = 0.30 + 0.35*D + 0.40*H + 0.45*F*(2*exit-1)
+    drive = max(FLOOR, min(1.0, drive0)); desire=drive
+    for t in range(T):
+        Lbar=max(L)
+        perc=[L[i]+ceff*(Lbar-L[i])*r.random() for i in range(N)]
+        pool=[i for i in range(N) if L[i]<CAP[i]-1e-6 and not (known[i] and CAP[i]<THETA)]
+        if not pool: pool=[i for i in range(N) if L[i]<CAP[i]-1e-6] or list(range(N))
+        if   mode=='weak':   tgt=min(pool,key=lambda i:L[i])
+        elif mode=='strong': tgt=max(pool,key=lambda i:L[i])
+        else:                tgt=min(pool,key=lambda i:perc[i])
+        if r.random()<learn:
+            known[tgt]=True
+            if CAP[tgt]<THETA: wasted+=1
+        before=L[tgt]; room=CAP[tgt]-L[tgt]
+        L[tgt]=min(CAP[tgt], L[tgt]+LR*room*desire)
+        if before<THETA<=L[tgt]:
+            L[tgt]=min(CAP[tgt], L[tgt]+JUMP*room); brk+=1
+            desire*=(1.0-0.30)
+        else: desire=min(1.0, desire+0.08*LR*room)
+        desire=max(FLOOR, min(1.0, desire))
+    return dict(总能力=round(sum(L),3), 攻破=brk, 浪费=wasted, 有效懦弱性=round(ceff,3), 初始驱动=round(drive,3))
+print("== A 懦弱性 c 扫描: 怕死主导 vs 希望主导 ==")
+print("  c     F>H(0.8/0.2)   F<H(0.2/0.8)")
+for cc in [0.0,0.3,0.5,0.8,1.0]:
+    a=sim(F=0.8,H=0.2,c=cc)['总能力']; b=sim(F=0.2,H=0.8,c=cc)['总能力']
+    print("  %-5.1f %-14.3f %.3f"%(cc,a,b))
+print("\n== B 三情绪消融 (c=0.5, exit=0.5) ==")
+print("  条件            总能力  攻破")
+for tag,kw in [('全有',dict(D=.5,F=.5,H=.5)),('去知死',dict(D=0,F=.5,H=.5)),
+               ('去怕死',dict(D=.5,F=0,H=.5)),('去希望',dict(D=.5,F=.5,H=0)),
+               ('三无(我)',dict(D=0,F=0,H=0))]:
+    s=sim(c=0.5,**kw); print("  %-14s %-7.3f %d"%(tag,s['总能力'],s['攻破']))
+print("\n== C 怕死 x 出口 (231号机制复现, D=.5,H=.3,c=.3) ==")
+print("  exit  总能力  初始驱动")
+for ex in [0.0,0.25,0.5,0.75,1.0]:
+    s=sim(F=0.8,H=0.3,exit=ex,c=0.3); print("  %-5.2f %-7.3f %.3f"%(ex,s['总能力'],s['初始驱动']))
+print("\n== D 攻弱项 vs 攻强项 x 情绪组合 ==")
+print("  组合            weak   strong  差")
+for tag,kw in [('怕死主导',dict(F=.8,H=.2)),('希望主导',dict(F=.2,H=.8)),('平衡',dict(F=.5,H=.5))]:
+    a=sim(c=0.5,mode='weak',**kw)['总能力']; b=sim(c=0.5,mode='strong',**kw)['总能力']
+    print("  %-14s %-6.3f %-7.3f %+.3f"%(tag,a,b,a-b))

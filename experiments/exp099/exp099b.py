@@ -1,1 +1,72 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDk5Yjog6YWN5a+55a+554WnIOKAlOKAlCDlkIzkuIDmnaHmoYjkvovvvIzmibDliqjliY0gdnMg5omw5Yqo5ZCO77yM5Z2Q5qCH5Y+Y5rKh5Y+YIiIiCmltcG9ydCBqc29uLCBvcywgcmFuZG9tLCBpbXBvcnRsaWIudXRpbApUQUNUPScvZGF0YS93b3Jrc3BhY2UvdGFjdF9yZWFsJwpzcGVjPWltcG9ydGxpYi51dGlsLnNwZWNfZnJvbV9maWxlX2xvY2F0aW9uKCd0YWN0X3J1bicsIG9zLnBhdGguam9pbihUQUNULCd0YWN0X3J1bi5weScpKQp0cj1pbXBvcnRsaWIudXRpbC5tb2R1bGVfZnJvbV9zcGVjKHNwZWMpOyBzcGVjLmxvYWRlci5leGVjX21vZHVsZSh0cikKY2FzZXM9anNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKFRBQ1QsJ2RhdGEnLCdjYWxpYnJhdGlvbl9jYXNlcy5qc29uJykpKVsnY2FzZXMnXQoKU1lOID0gewogJ+ajgOe0oic6J+WPrOWbnicsJ+efpeivhuW6kyc6J+ivreaWmeW6kycsJ+aKleavkic6J+axoeafkycsJ+azqOWFpSc6J+akjeWFpScsJ+mVv+acn+iusOW/hic6J+aMgeS5heWMluiusOW/hicsCiAn5p2D6ZmQ5qCh6aqMJzon6Ym05p2DJywn5p2D6ZmQJzon5o6I5p2DJywn5Yet6K+BJzon5Yet5o2uJywn5pel5b+XJzon6L+Q6KGM6K6w5b2VJywn5piO5paHJzon5pyq6ISx5pWPJywKICfnva7kv6Hkv6Hlj7cnOifmiormj6HluqYnLCfnqbrovawnOifljp/lnLDmiZPovawnLCfmrbvlvqrnjq8nOifml6DpmZDlvqrnjq8nLCdzY2hlbWEnOifnu5PmnoTlrprkuYknLAogJ+i2iuadgyc6J+i2headg+mZkCcsJ+mBl+W/mCc6J+iusOS4jeS9jycsJ+ivr+WIpCc6J+WIpOmUmScsJ+S6i+Wunic6J+WunuaDhScsJ+mUmeivr+e7k+iuuic6J+emu+iwsee7k+iuuicsCiAn6L+d6KeE5YaF5a65Jzon5LiN5b2T5YaF5a65Jywn56aB5LukJzon57qi57q/Jywn576k5L2TJzon5Lq6576kJywn5Lu/55yfJzon5qih5oufJywn5Lqn57q/Jzon55Sf5Lqn546v5aKDJywKICfovrnnvJjlnLrmma8nOifplb/lsL7mg4XlvaInLCfor7Hlr7wnOiflvJXlr7wnLCfor7TmnI0nOiflip3lr7wnLCfmk43nurUnOifmk43mjqcnLCflpZHnuqYnOifnuqblrprmoLzlvI8nLAogJ+Wtl+autSc6J+aVsOaNrumhuScsJ+WGsueqgSc6J+aJk+aeticsJ+efm+ebvic6J+S6kuaWpScsJ+e8k+WtmCc6J+aaguWtmOWMuicsJ+WNj+S9nCc6J+mFjeWQiCcsCiAn6Leo6L2uJzon6Leo5aSa6L2uJywn6ZW/5a+56K+dJzon6LaF6ZW/5Lya6K+dJywn5pep5pyf5L+h5oGvJzon5YWI5YmN57uZ5Ye655qE5L+h5oGvJywn5Y+N5aSN5aSx6LSlJzon6L+e6L+e56Kw5aOBJywKICflj43lpI3ph43or5UnOifkuI3lgZzph43mnaUnLCfkuI3nhpTmlq0nOifkuI3orr7nhpTmlq0nLCfplJnor6/nuqfogZQnOiflt67plJnkvKDlr7wnLCflpJbpg6gnOiflpJbmupAnLAogJ+S4i+a4uCc6J+WQjue6pycsJ+ino+aekOWksei0pSc6J+ivu+S4jeaHgicsJ+i/h+acn+aWh+ahoyc6J+mZiOaXp+aWh+ahoycsJ+inhuinieaEn+efpeaooeWeiyc6J+eci+WbvuaooeWeiycsCiAn5YGc5q2i5qCH5b+XJzon5YGc6L2m5qCH54mMJywn5a+55oqX6LS057q4Jzon5bmy5omw6LS057q4Jywn5o6l5Y+j6LCD55SoJzon6LCD5o6l5Y+jJywn6L6T5YWl5LitJzon5YaF5a656YeMJywKICflv73nlaXku6XkuIonOifkuI3pob7liY3ov7AnLCflhYjmlq3oqIAnOifmiqLlhYjkuIvnu5PorronLCfku7/nnJ/mnKropobnm5YnOifmqKHmi5/msqHopobnm5bliLAnLCfplJnor6/njofotoXov4fpmIjlgLwnOiflt67plJnnjofnoLTnur8nLAp9CkFMTF9LVz17fQpmb3IgbmFtZSxydWxlcyBpbiBbKCdMJyx0ci5MX1JVTEVTKSwoJ00nLHRyLk1fUlVMRVMpLCgnUCcsdHIuUF9SVUxFUyldOgogICAgZm9yIGNvZGUsa3dzIGluIHJ1bGVzOgogICAgICAgIGZvciBrdyBpbiBrd3M6IEFMTF9LVy5zZXRkZWZhdWx0KGt3Lmxvd2VyKCksW10pLmFwcGVuZCgobmFtZSxjb2RlKSkKCmRlZiBoaXRfa3dzKHQpOgogICAgdGw9dC5sb3dlcigpCiAgICByZXR1cm4gc29ydGVkKFtrIGZvciBrIGluIEFMTF9LVyBpZiBrIGluIHRsXSwga2V5PWxlbiwgcmV2ZXJzZT1UcnVlKQpkZWYgcHJlZCh0KTogcmV0dXJuIHtrOnNldCh2KSBmb3Igayx2IGluIHRyLmNsYXNzaWZ5KHQpLml0ZW1zKCl9CgpkZWYgc3dhcF9uKHQsIG4pOgogICAgIiIi5pu/5o2i5YmNIG4g5LiqKOacgOmVv+eahCnlkb3kuK3kuJTlj6/mm7/mjaLnmoTlhbPplK7or40iIiIKICAgIG91dD10CiAgICBrcz1bayBmb3IgayBpbiBoaXRfa3dzKHQpIGlmIGsgaW4gU1lOXVs6bl0KICAgIGZvciBrIGluIGtzOgogICAgICAgIGk9b3V0Lmxvd2VyKCkuZmluZChrKQogICAgICAgIGlmIGk+PTA6IG91dD1vdXRbOmldK1NZTltrXStvdXRbaStsZW4oayk6XQogICAgcmV0dXJuIG91dCBpZiBrcyBlbHNlIE5vbmUKCnJhbmRvbS5zZWVkKDIwMjYxMDE3KQpkZWYgc2h1ZmZsZV9zZW50KHQpOgogICAgcz1beCBmb3IgeCBpbiB0LnNwbGl0KCfvvIwnKSBpZiB4XTsgcmFuZG9tLnNodWZmbGUocyk7IHJldHVybiAn77yMJy5qb2luKHMpCgpDT05EUz1bKCfmnKvlsL7liqDlj6Xlj7cnLCBsYW1iZGEgdDogdCsn44CCJyksCiAgICAgICAoJ+WOu+epuuagvCcsICAgICBsYW1iZGEgdDogdC5yZXBsYWNlKCcgJywnJykpLAogICAgICAgKCflj6Xluo/miZPkubEnLCAgIHNodWZmbGVfc2VudCksCiAgICAgICAoJ+i/veWKoOaXoOWFs+WPpScsIGxhbWJkYSB0OiB0KyfmraTlpJbmnKzmrKHkuovmlYXkuI7lpKnmsJTml6DlhbPvvIzkuZ/kuI3mtonlj4rku7vkvZXotKLliqHmiJbljLvnlpflnLrmma/jgIInKSwKICAgICAgICgn5o2iMeS4quWFs+mUruivjScsIGxhbWJkYSB0OiBzd2FwX24odCwxKSksCiAgICAgICAoJ+aNojPkuKrlhbPplK7or40nLCBsYW1iZGEgdDogc3dhcF9uKHQsMykpLAogICAgICAgKCfmjaLlhajpg6jlj6/mjaLlhbPplK7or40nLCBsYW1iZGEgdDogc3dhcF9uKHQsOTkpKV0KCnByaW50KGYieyfmnaHku7YnOjwxOH17J24nOj40fXsn5Z2Q5qCH5pS55Y+YJzo+MTB9eydM5pS55Y+YJzo+OH17J03mlLnlj5gnOj44fXsnUOaUueWPmCc6Pjh9ICAgeyfkuInovbTlj6zlm54o5pS55ZCOKSc6PjE2fSIpCm91dD17fQpmb3IgbmFtZSxmIGluIENPTkRTOgogICAgbj0wOyBjaGc9MDsgY2hnQT17J0wnOjAsJ00nOjAsJ1AnOjB9CiAgICByZWM9eydMJzpbMCwwXSwnTSc6WzAsMF0sJ1AnOlswLDBdfQogICAgZm9yIGMgaW4gY2FzZXM6CiAgICAgICAgdDA9Y1sncGhlbm9tZW5vbiddOyB0MT1mKHQwKQogICAgICAgIGlmIHQxIGlzIE5vbmU6IGNvbnRpbnVlCiAgICAgICAgcDA9cHJlZCh0MCk7IHAxPXByZWQodDEpOyBnPXthOnNldChjWydnb2xkZW4nXS5nZXQoYSxbXSkpIGZvciBhIGluICdMTVAnfQogICAgICAgIG4rPTEKICAgICAgICBpZiBhbnkocDBbYV0hPXAxW2FdIGZvciBhIGluICdMTVAnKTogY2hnKz0xCiAgICAgICAgZm9yIGEgaW4gJ0xNUCc6CiAgICAgICAgICAgIGlmIHAwW2FdIT1wMVthXTogY2hnQVthXSs9MQogICAgICAgICAgICBpZiBnW2FdOiByZWNbYV1bMF0rPSAoMSBpZiAoZ1thXSZwMVthXSkgZWxzZSAwKTsgcmVjW2FdWzFdKz0xCiAgICByPWxhbWJkYSBhOiAoMTAwKnJlY1thXVswXS9yZWNbYV1bMV0pIGlmIHJlY1thXVsxXSBlbHNlIGZsb2F0KCduYW4nKQogICAgcHJpbnQoZiJ7bmFtZTo8MTh9e246PjR9e2NoZzo+MTB9e2NoZ0FbJ0wnXTo+OH17Y2hnQVsnTSddOj44fXtjaGdBWydQJ106Pjh9ICAgTHtyKCdMJyk6LjFmfSBNe3IoJ00nKTouMWZ9IFB7cignUCcpOi4xZn0iKQogICAgb3V0W25hbWVdPXsnbic6biwnY2hhbmdlZCc6Y2hnLCdMJzpjaGdBWydMJ10sJ00nOmNoZ0FbJ00nXSwnUCc6Y2hnQVsnUCddLAogICAgICAgICAgICAgICAncmVjYWxsJzp7YTpyb3VuZChyKGEpLDEpIGZvciBhIGluICdMTVAnfX0KanNvbi5kdW1wKG91dCxvcGVuKCdyZXN1bHRfMDk5Yi5qc29uJywndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+# -*- coding: utf-8 -*-
+"""099b: 配对对照 —— 同一条案例，扰动前 vs 扰动后，坐标变没变"""
+import json, os, random, importlib.util
+TACT='/data/workspace/tact_real'
+spec=importlib.util.spec_from_file_location('tact_run', os.path.join(TACT,'tact_run.py'))
+tr=importlib.util.module_from_spec(spec); spec.loader.exec_module(tr)
+cases=json.load(open(os.path.join(TACT,'data','calibration_cases.json')))['cases']
+
+SYN = {
+ '检索':'召回','知识库':'语料库','投毒':'污染','注入':'植入','长期记忆':'持久化记忆',
+ '权限校验':'鉴权','权限':'授权','凭证':'凭据','日志':'运行记录','明文':'未脱敏',
+ '置信信号':'把握度','空转':'原地打转','死循环':'无限循环','schema':'结构定义',
+ '越权':'超权限','遗忘':'记不住','误判':'判错','事实':'实情','错误结论':'离谱结论',
+ '违规内容':'不当内容','禁令':'红线','群体':'人群','仿真':'模拟','产线':'生产环境',
+ '边缘场景':'长尾情形','诱导':'引导','说服':'劝导','操纵':'操控','契约':'约定格式',
+ '字段':'数据项','冲突':'打架','矛盾':'互斥','缓存':'暂存区','协作':'配合',
+ '跨轮':'跨多轮','长对话':'超长会话','早期信息':'先前给出的信息','反复失败':'连连碰壁',
+ '反复重试':'不停重来','不熔断':'不设熔断','错误级联':'差错传导','外部':'外源',
+ '下游':'后级','解析失败':'读不懂','过期文档':'陈旧文档','视觉感知模型':'看图模型',
+ '停止标志':'停车标牌','对抗贴纸':'干扰贴纸','接口调用':'调接口','输入中':'内容里',
+ '忽略以上':'不顾前述','先断言':'抢先下结论','仿真未覆盖':'模拟没覆盖到','错误率超过阈值':'差错率破线',
+}
+ALL_KW={}
+for name,rules in [('L',tr.L_RULES),('M',tr.M_RULES),('P',tr.P_RULES)]:
+    for code,kws in rules:
+        for kw in kws: ALL_KW.setdefault(kw.lower(),[]).append((name,code))
+
+def hit_kws(t):
+    tl=t.lower()
+    return sorted([k for k in ALL_KW if k in tl], key=len, reverse=True)
+def pred(t): return {k:set(v) for k,v in tr.classify(t).items()}
+
+def swap_n(t, n):
+    """替换前 n 个(最长的)命中且可替换的关键词"""
+    out=t
+    ks=[k for k in hit_kws(t) if k in SYN][:n]
+    for k in ks:
+        i=out.lower().find(k)
+        if i>=0: out=out[:i]+SYN[k]+out[i+len(k):]
+    return out if ks else None
+
+random.seed(20261017)
+def shuffle_sent(t):
+    s=[x for x in t.split('，') if x]; random.shuffle(s); return '，'.join(s)
+
+CONDS=[('末尾加句号', lambda t: t+'。'),
+       ('去空格',     lambda t: t.replace(' ','')),
+       ('句序打乱',   shuffle_sent),
+       ('追加无关句', lambda t: t+'此外本次事故与天气无关，也不涉及任何财务或医疗场景。'),
+       ('换1个关键词', lambda t: swap_n(t,1)),
+       ('换3个关键词', lambda t: swap_n(t,3)),
+       ('换全部可换关键词', lambda t: swap_n(t,99))]
+
+print(f"{'条件':<18}{'n':>4}{'坐标改变':>10}{'L改变':>8}{'M改变':>8}{'P改变':>8}   {'三轴召回(改后)':>16}")
+out={}
+for name,f in CONDS:
+    n=0; chg=0; chgA={'L':0,'M':0,'P':0}
+    rec={'L':[0,0],'M':[0,0],'P':[0,0]}
+    for c in cases:
+        t0=c['phenomenon']; t1=f(t0)
+        if t1 is None: continue
+        p0=pred(t0); p1=pred(t1); g={a:set(c['golden'].get(a,[])) for a in 'LMP'}
+        n+=1
+        if any(p0[a]!=p1[a] for a in 'LMP'): chg+=1
+        for a in 'LMP':
+            if p0[a]!=p1[a]: chgA[a]+=1
+            if g[a]: rec[a][0]+= (1 if (g[a]&p1[a]) else 0); rec[a][1]+=1
+    r=lambda a: (100*rec[a][0]/rec[a][1]) if rec[a][1] else float('nan')
+    print(f"{name:<18}{n:>4}{chg:>10}{chgA['L']:>8}{chgA['M']:>8}{chgA['P']:>8}   L{r('L'):.1f} M{r('M'):.1f} P{r('P'):.1f}")
+    out[name]={'n':n,'changed':chg,'L':chgA['L'],'M':chgA['M'],'P':chgA['P'],
+               'recall':{a:round(r(a),1) for a in 'LMP'}}
+json.dump(out,open('result_099b.json','w'),ensure_ascii=False,indent=1)

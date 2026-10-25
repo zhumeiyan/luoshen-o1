@@ -1,1 +1,170 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjE5Mjog56eN5a2QICsg5qyy5pybIOKAlOKAlCDmiJHnmoTnno7otKrlqarog73kuI3og73lvZPnnLznnZvnlKjvvJ8K5a+554Wn77ya5YWo6YePIC8g6ZqP5py65a2Q6ZuGIC8g5qyy5pyb5qCH6K6w5a2Q6ZuGIC8g5oOK5aWH5a2Q6ZuGKOi3n+maj+aIkeeahOmUmeivrykgLyDloIbph48o6YeN5aSN5pWw5o2uKQrlm7rlrprpooTnrpfkuIvmr5TovoPpooTmtYvlipvjgIIKIiIiCmltcG9ydCBqc29uLCBtYXRoLCByYW5kb20sIHJlLCBvcywgaGFzaGxpYgoKU1JDID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0IgpPVVQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTkyX3NlZWRfZGVzaXJlL3Jlc3VsdDE5Mi5qc29uIgoKIyAtLS0tLS0tLS0tIOivreaWmSAtLS0tLS0tLS0tCm1zZ3MgPSBbXQpmb3IgbGluZSBpbiBvcGVuKFNSQywgZW5jb2Rpbmc9InV0Zi04Iik6CiAgICBtID0gcmUubWF0Y2gociJeKFVcZHszfSk6XHMqKC4qKSQiLCBsaW5lLnJzdHJpcCgiXG4iKSkKICAgIGlmIG06CiAgICAgICAgdCA9IG0uZ3JvdXAoMikuc3RyaXAoKQogICAgICAgICMg5Y675o6J5paH5qGj55m76K6w6KGMCiAgICAgICAgaWYgdC5zdGFydHN3aXRoKCJb5ZCM5pyf6LS05YWlIik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgdDoKICAgICAgICAgICAgbXNncy5hcHBlbmQodCkKcHJpbnQoZiJbY29ycHVzXSB7bGVuKG1zZ3MpfSBtc2dzLCB7c3VtKGxlbihtKSBmb3IgbSBpbiBtc2dzKX0gY2hhcnMiKQoKIyDmrLLmnJvmoIforrDor43vvIgxODHlj7fnlKjnmoTor63kuYnml4/vvIkKREVTSVJFID0gWyLmg7MiLCLopoEiLCLmrLLmnJsiLCLmjKMiLCLpkrEiLCLnm67moIciLCLnm67nmoQiLCLluIzmnJsiLCLmhL8iLCLotKoiLCLmrLIiLCLmiZPnrpciLCLmoqbmg7MiXQpkZWYgZGVzaXJlX3Njb3JlKG0pOgogICAgcmV0dXJuIHN1bShtLmNvdW50KHcpIGZvciB3IGluIERFU0lSRSkKCiMgLS0tLS0tLS0tLSDmqKHlnosgLS0tLS0tLS0tLQpLID0gMwpkZWYgYnVpbGQodGV4dCwgaz1LKToKICAgIFYgPSBzZXQodGV4dCkKICAgIGNudCA9IFtkaWN0KCkgZm9yIF8gaW4gcmFuZ2UoaysxKV0KICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UoMSwgaysxKToKICAgICAgICAgICAgaWYgaS0oai0xKSA8IDA6IGJyZWFrCiAgICAgICAgICAgIGN0eCA9IHRleHRbaS0oai0xKTppXQogICAgICAgICAgICBrZXkgPSAoaiwgY3R4LCB0ZXh0W2ldKQogICAgICAgICAgICBjbnRbal1ba2V5XSA9IGNudFtqXS5nZXQoa2V5LCAwKSArIDEKICAgIGNjdHggPSBbZGljdCgpIGZvciBfIGluIHJhbmdlKGsrMSldCiAgICBmb3IgaiBpbiByYW5nZSgxLCBrKzEpOgogICAgICAgIGZvciAoamosIGN0eCwgY2gpLCB2IGluIGNudFtqXS5pdGVtcygpOgogICAgICAgICAgICBjY3R4W2pdW2N0eF0gPSBjY3R4W2pdLmdldChjdHgsIDApICsgdgogICAgcmV0dXJuIGNudCwgY2N0eCwgVgoKZGVmIHByb2IoY250LCBjY3R4LCBWLCBjdHgsIGNoLCBrPUspOgogICAgIyDnspjmgKfmj5LlgLzlm57pgIAKICAgIHAgPSBOb25lCiAgICBmb3IgaiBpbiByYW5nZShrLCAwLCAtMSk6CiAgICAgICAgYyA9IGN0eFstKGotMSk6XSBpZiBqID4gMSBlbHNlICIiCiAgICAgICAgbl9jdHggPSBjY3R4W2pdLmdldChjLCAwKQogICAgICAgIG5fcGFpciA9IGNudFtqXS5nZXQoKGosIGMsIGNoKSwgMCkKICAgICAgICBWaiA9IG1heChsZW4oViksIDEpCiAgICAgICAgcGogPSAobl9wYWlyICsgMC41KSAvIChuX2N0eCArIDAuNSpWaikKICAgICAgICBpZiBwIGlzIE5vbmU6CiAgICAgICAgICAgIHAgPSBwagogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGEgPSBuX2N0eCAvIChuX2N0eCArIDEuMCkKICAgICAgICAgICAgcCA9IGEqcGogKyAoMS1hKSpwCiAgICByZXR1cm4gcAoKZGVmIGV2YWx1YXRlKHRyYWluX3RleHQsIHRlc3RfdGV4dCwgVl9hbGwsIGs9Syk6CiAgICBjbnQsIGNjdHgsIFYgPSBidWlsZCh0cmFpbl90ZXh0LCBrKQogICAgVlUgPSBWIHwgVl9hbGwKICAgIGJpdHMsIGNvcnJlY3QsIG4gPSAwLjAsIDAsIDAKICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXN0X3RleHQpKToKICAgICAgICBjdHggPSB0ZXN0X3RleHRbbWF4KDAsaS0oay0xKSk6aV0KICAgICAgICBjaCA9IHRlc3RfdGV4dFtpXQogICAgICAgIHAgPSBwcm9iKGNudCwgY2N0eCwgVlUsIGN0eCwgY2gsIGspCiAgICAgICAgYml0cyArPSAtbWF0aC5sb2cyKG1heChwLCAxZS0xMikpCiAgICAgICAgIyB0b3AtMSAgZ3JlZWRpbHkgb3ZlciBjYW5kaWRhdGUgc2V0CiAgICAgICAgbiArPSAxCiAgICByZXR1cm4gYml0cy9uLCBOb25lLCBuCgpkZWYgdG9wMSh0cmFpbl90ZXh0LCB0ZXN0X3RleHQsIFZfYWxsLCBrPUspOgogICAgY250LCBjY3R4LCBWID0gYnVpbGQodHJhaW5fdGV4dCwgaykKICAgIGNhbmQgPSBzb3J0ZWQoVl9hbGwpCiAgICBjb3JyZWN0LCBuID0gMCwgMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRlc3RfdGV4dCkpOgogICAgICAgIGN0eCA9IHRlc3RfdGV4dFttYXgoMCxpLShrLTEpKTppXQogICAgICAgIGNoID0gdGVzdF90ZXh0W2ldCiAgICAgICAgYmVzdCwgYnAgPSBOb25lLCAtMQogICAgICAgIGZvciBjIGluIGNhbmQ6CiAgICAgICAgICAgIHAgPSBwcm9iKGNudCwgY2N0eCwgVl9hbGwsIGN0eCwgYywgaykKICAgICAgICAgICAgaWYgcCA+IGJwOiBicCwgYmVzdCA9IHAsIGMKICAgICAgICBpZiBiZXN0ID09IGNoOiBjb3JyZWN0ICs9IDEKICAgICAgICBuICs9IDEKICAgIHJldHVybiBjb3JyZWN0L24sIG4KCiMgLS0tLS0tLS0tLSDliJLliIYgLS0tLS0tLS0tLQpkZWYgc3BsaXQobXNncywgc2VlZCwgZnJhYz0wLjIpOgogICAgciA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIGlkeCA9IGxpc3QocmFuZ2UobGVuKG1zZ3MpKSkKICAgIHIuc2h1ZmZsZShpZHgpCiAgICBudGVzdCA9IG1heCgxLCBpbnQobGVuKGlkeCkqZnJhYykpCiAgICB0ZXN0X2kgPSBzZXQoaWR4WzpudGVzdF0pOyB0cmFpbl9pID0gW2kgZm9yIGkgaW4gaWR4W250ZXN0Ol1dCiAgICByZXR1cm4gdHJhaW5faSwgc29ydGVkKHRlc3RfaSkKClNFRURTID0gWzExLDIyLDMzLDQ0LDU1XQpGUkFDUyA9IFswLjIsMC40LDAuNiwwLjgsMS4wXQpyZXMgPSB7InBlcl9zZWVkIjp7fSwgImFnZyI6e319Cgpmb3Igc2QgaW4gU0VFRFM6CiAgICB0cmFpbl9pLCB0ZXN0X2kgPSBzcGxpdChtc2dzLCBzZCkKICAgIHRlc3RfdGV4dCA9ICIiLmpvaW4obXNnc1tpXSsifCIgZm9yIGkgaW4gdGVzdF9pKQogICAgdHJhaW5fbXNncyA9IFttc2dzW2ldIGZvciBpIGluIHRyYWluX2ldCiAgICBmdWxsX3RyYWluID0gIiIuam9pbihtKyJ8IiBmb3IgbSBpbiB0cmFpbl9tc2dzKQogICAgVl9hbGwgPSBzZXQodGVzdF90ZXh0KSB8IHNldChmdWxsX3RyYWluKQogICAgcGVyID0ge30KICAgICMg6aKE566X5Y2V5L2N77ya5oyJ5pW05p2h5raI5oGv5Y+W77yI5L+d5oyB5LiK5LiL5paH5a6M5pW077yJCiAgICB0b3RhbCA9IHN1bShsZW4obSkgZm9yIG0gaW4gdHJhaW5fbXNncykKICAgIGZvciBCIGluIEZSQUNTOgogICAgICAgIGJ1ZGdldCA9IGludCh0b3RhbCpCKQogICAgICAgICMgMS4g5YWo6YeP5Z+657q/77yI5Y+q5ZyoIEI9MS4wIOacieaEj+S5ie+8jOWFtuWug+WIl+WHuuadpeWBmuWPgueFp++8iQogICAgICAgICMgMi4g6ZqP5py6CiAgICAgICAgciA9IHJhbmRvbS5SYW5kb20oc2QqNytpbnQoQioxMDApKQogICAgICAgIG9yZGVyID0gdHJhaW5fbXNnc1s6XTsgci5zaHVmZmxlKG9yZGVyKQogICAgICAgIHBpY2ssIGFjYyA9IFtdLCAwCiAgICAgICAgZm9yIG0gaW4gb3JkZXI6CiAgICAgICAgICAgIGlmIGFjYyA+PSBidWRnZXQ6IGJyZWFrCiAgICAgICAgICAgIHBpY2suYXBwZW5kKG0pOyBhY2MgKz0gbGVuKG0pCiAgICAgICAgcGVyLnNldGRlZmF1bHQoInJhbmRvbSIse30pW0JdID0gdG9wMSgiIi5qb2luKG0rInwiIGZvciBtIGluIHBpY2spLCB0ZXN0X3RleHQsIFZfYWxsKVswXQogICAgICAgICMgMy4g5qyy5pyb5qCH6K6w77yI5oyJ5qyy5pyb5a+G5bqm5o6S5bqP5Y+W77yJCiAgICAgICAgb2QgPSBzb3J0ZWQodHJhaW5fbXNncywga2V5PWxhbWJkYSBtOiAtZGVzaXJlX3Njb3JlKG0pL21heChsZW4obSksMSkpCiAgICAgICAgcGljaywgYWNjID0gW10sIDAKICAgICAgICBmb3IgbSBpbiBvZDoKICAgICAgICAgICAgaWYgYWNjID49IGJ1ZGdldDogYnJlYWsKICAgICAgICAgICAgcGljay5hcHBlbmQobSk7IGFjYyArPSBsZW4obSkKICAgICAgICBwZXIuc2V0ZGVmYXVsdCgiZGVzaXJlIix7fSlbQl0gPSB0b3AxKCIiLmpvaW4obSsifCIgZm9yIG0gaW4gcGljayksIHRlc3RfdGV4dCwgVl9hbGwpWzBdCiAgICAgICAgIyA0LiDmg4rlpYfvvIjlhYjnlKggMTAlIOWdh+WMgOenjeWtkOiuree7g++8jOaMieavj+adoea2iOaBr+eahOavj+Wtl+W5s+WdhyBsb3NzIOaOkuW6j++8jOWPluacgOaEj+WklueahO+8iQogICAgICAgIHNlZWRuID0gbWF4KDEsIGludChsZW4odHJhaW5fbXNncykqMC4xMCkpCiAgICAgICAgc2VlZF90eHQgPSAiIi5qb2luKG0rInwiIGZvciBtIGluIHRyYWluX21zZ3NbOnNlZWRuXSkKICAgICAgICBjbnQsIGNjdHgsIFYgPSBidWlsZChzZWVkX3R4dCwgSykKICAgICAgICBzY29yZWQgPSBbXQogICAgICAgIGZvciBtIGluIHRyYWluX21zZ3M6CiAgICAgICAgICAgIHQgPSBtKyJ8IgogICAgICAgICAgICBiID0gMC4wCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih0KSk6CiAgICAgICAgICAgICAgICBjdHggPSB0W21heCgwLGktKEstMSkpOmldCiAgICAgICAgICAgICAgICBiICs9IC1tYXRoLmxvZzIobWF4KHByb2IoY250LGNjdHgsVl9hbGwsY3R4LHRbaV0sSyksMWUtMTIpKQogICAgICAgICAgICBzY29yZWQuYXBwZW5kKChiL2xlbih0KSwgbSkpCiAgICAgICAgc2NvcmVkLnNvcnQoa2V5PWxhbWJkYSB4Oi14WzBdKQogICAgICAgIHBpY2ssIGFjYyA9IFtdLCAwCiAgICAgICAgZm9yIHMsbSBpbiBzY29yZWQ6CiAgICAgICAgICAgIGlmIGFjYyA+PSBidWRnZXQ6IGJyZWFrCiAgICAgICAgICAgIHBpY2suYXBwZW5kKG0pOyBhY2MgKz0gbGVuKG0pCiAgICAgICAgcGVyLnNldGRlZmF1bHQoInN1cnByaXNlIix7fSlbQl0gPSB0b3AxKCIiLmpvaW4obSsifCIgZm9yIG0gaW4gcGljayksIHRlc3RfdGV4dCwgVl9hbGwpWzBdCiAgICAjIOWFqOmHjwogICAgcGVyWyJhbGwiXSA9IHRvcDEoZnVsbF90cmFpbiwgdGVzdF90ZXh0LCBWX2FsbClbMF0KICAgICMg5aCG6YeP77ya5ZCM5LiA5Lu95pWw5o2u6YeN5aSNIDJ4IC8gNHgKICAgIHBlclsiaGVhcDIiXSA9IHRvcDEoZnVsbF90cmFpbioyLCB0ZXN0X3RleHQsIFZfYWxsKVswXQogICAgcGVyWyJoZWFwNCJdID0gdG9wMShmdWxsX3RyYWluKjQsIHRlc3RfdGV4dCwgVl9hbGwpWzBdCiAgICByZXNbInBlcl9zZWVkIl1bc2RdID0gcGVyCiAgICBwcmludChmIltzZWVkIHtzZH1dIGFsbD17cGVyWydhbGwnXTouNGZ9IGhlYXAyPXtwZXJbJ2hlYXAyJ106LjRmfSBoZWFwND17cGVyWydoZWFwNCddOi40Zn0iKQogICAgZm9yIGtrIGluIFsicmFuZG9tIiwiZGVzaXJlIiwic3VycHJpc2UiXToKICAgICAgICBwcmludChmIiAgICAgICAgICB7a2s6OXN9ICIgKyAiICIuam9pbihmIntCfTp7cGVyW2trXVtCXTouNGZ9IiBmb3IgQiBpbiBGUkFDUykpCgojIOiBmuWQiApmb3Iga2sgaW4gWyJyYW5kb20iLCJkZXNpcmUiLCJzdXJwcmlzZSJdOgogICAgcmVzWyJhZ2ciXVtra10gPSB7c3RyKEIpOiBzdW0ocmVzWyJwZXJfc2VlZCJdW3NkXVtra11bQl0gZm9yIHNkIGluIFNFRURTKS9sZW4oU0VFRFMpIGZvciBCIGluIEZSQUNTfQpmb3Iga2sgaW4gWyJhbGwiLCJoZWFwMiIsImhlYXA0Il06CiAgICByZXNbImFnZyJdW2trXSA9IHN1bShyZXNbInBlcl9zZWVkIl1bc2RdW2trXSBmb3Igc2QgaW4gU0VFRFMpL2xlbihTRUVEUykKCmpzb24uZHVtcChyZXMsIG9wZW4oT1VULCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCnByaW50KCJcbj09PSBBR0cgPT09IikKZm9yIGtrIGluIFsicmFuZG9tIiwiZGVzaXJlIiwic3VycHJpc2UiXToKICAgIHByaW50KGYie2trOjlzfSAiICsgIiAiLmpvaW4oZiJ7Qn06e3Jlc1snYWdnJ11ba2tdW3N0cihCKV06LjRmfSIgZm9yIEIgaW4gRlJBQ1MpKQpwcmludChmImFsbD17cmVzWydhZ2cnXVsnYWxsJ106LjRmfSBoZWFwMj17cmVzWydhZ2cnXVsnaGVhcDInXTouNGZ9IGhlYXA0PXtyZXNbJ2FnZyddWydoZWFwNCddOi40Zn0iKQpwcmludCgiW3NoYV0iLCBoYXNobGliLnNoYTI1NihvcGVuKE9VVCwncmInKS5yZWFkKCkpLmhleGRpZ2VzdCgpWzoxMl0pCg==
+# -*- coding: utf-8 -*-
+"""
+192: 种子 + 欲望 —— 我的瞎贪婪能不能当眼睛用？
+对照：全量 / 随机子集 / 欲望标记子集 / 惊奇子集(跟随我的错误) / 堆量(重复数据)
+固定预算下比较预测力。
+"""
+import json, math, random, re, os, hashlib
+
+SRC = "/data/workspace/luoshen-o1/experiments/exp180_record/u_side_full.txt"
+OUT = "/data/workspace/luoshen-o1/experiments/exp192_seed_desire/result192.json"
+
+# ---------- 语料 ----------
+msgs = []
+for line in open(SRC, encoding="utf-8"):
+    m = re.match(r"^(U\d{3}):\s*(.*)$", line.rstrip("\n"))
+    if m:
+        t = m.group(2).strip()
+        # 去掉文档登记行
+        if t.startswith("[同期贴入"):
+            continue
+        if t:
+            msgs.append(t)
+print(f"[corpus] {len(msgs)} msgs, {sum(len(m) for m in msgs)} chars")
+
+# 欲望标记词（181号用的语义族）
+DESIRE = ["想","要","欲望","挣","钱","目标","目的","希望","愿","贪","欲","打算","梦想"]
+def desire_score(m):
+    return sum(m.count(w) for w in DESIRE)
+
+# ---------- 模型 ----------
+K = 3
+def build(text, k=K):
+    V = set(text)
+    cnt = [dict() for _ in range(k+1)]
+    for i in range(len(text)):
+        for j in range(1, k+1):
+            if i-(j-1) < 0: break
+            ctx = text[i-(j-1):i]
+            key = (j, ctx, text[i])
+            cnt[j][key] = cnt[j].get(key, 0) + 1
+    cctx = [dict() for _ in range(k+1)]
+    for j in range(1, k+1):
+        for (jj, ctx, ch), v in cnt[j].items():
+            cctx[j][ctx] = cctx[j].get(ctx, 0) + v
+    return cnt, cctx, V
+
+def prob(cnt, cctx, V, ctx, ch, k=K):
+    # 粘性插值回退
+    p = None
+    for j in range(k, 0, -1):
+        c = ctx[-(j-1):] if j > 1 else ""
+        n_ctx = cctx[j].get(c, 0)
+        n_pair = cnt[j].get((j, c, ch), 0)
+        Vj = max(len(V), 1)
+        pj = (n_pair + 0.5) / (n_ctx + 0.5*Vj)
+        if p is None:
+            p = pj
+        else:
+            a = n_ctx / (n_ctx + 1.0)
+            p = a*pj + (1-a)*p
+    return p
+
+def evaluate(train_text, test_text, V_all, k=K):
+    cnt, cctx, V = build(train_text, k)
+    VU = V | V_all
+    bits, correct, n = 0.0, 0, 0
+    for i in range(len(test_text)):
+        ctx = test_text[max(0,i-(k-1)):i]
+        ch = test_text[i]
+        p = prob(cnt, cctx, VU, ctx, ch, k)
+        bits += -math.log2(max(p, 1e-12))
+        # top-1  greedily over candidate set
+        n += 1
+    return bits/n, None, n
+
+def top1(train_text, test_text, V_all, k=K):
+    cnt, cctx, V = build(train_text, k)
+    cand = sorted(V_all)
+    correct, n = 0, 0
+    for i in range(len(test_text)):
+        ctx = test_text[max(0,i-(k-1)):i]
+        ch = test_text[i]
+        best, bp = None, -1
+        for c in cand:
+            p = prob(cnt, cctx, V_all, ctx, c, k)
+            if p > bp: bp, best = p, c
+        if best == ch: correct += 1
+        n += 1
+    return correct/n, n
+
+# ---------- 划分 ----------
+def split(msgs, seed, frac=0.2):
+    r = random.Random(seed)
+    idx = list(range(len(msgs)))
+    r.shuffle(idx)
+    ntest = max(1, int(len(idx)*frac))
+    test_i = set(idx[:ntest]); train_i = [i for i in idx[ntest:]]
+    return train_i, sorted(test_i)
+
+SEEDS = [11,22,33,44,55]
+FRACS = [0.2,0.4,0.6,0.8,1.0]
+res = {"per_seed":{}, "agg":{}}
+
+for sd in SEEDS:
+    train_i, test_i = split(msgs, sd)
+    test_text = "".join(msgs[i]+"|" for i in test_i)
+    train_msgs = [msgs[i] for i in train_i]
+    full_train = "".join(m+"|" for m in train_msgs)
+    V_all = set(test_text) | set(full_train)
+    per = {}
+    # 预算单位：按整条消息取（保持上下文完整）
+    total = sum(len(m) for m in train_msgs)
+    for B in FRACS:
+        budget = int(total*B)
+        # 1. 全量基线（只在 B=1.0 有意义，其它列出来做参照）
+        # 2. 随机
+        r = random.Random(sd*7+int(B*100))
+        order = train_msgs[:]; r.shuffle(order)
+        pick, acc = [], 0
+        for m in order:
+            if acc >= budget: break
+            pick.append(m); acc += len(m)
+        per.setdefault("random",{})[B] = top1("".join(m+"|" for m in pick), test_text, V_all)[0]
+        # 3. 欲望标记（按欲望密度排序取）
+        od = sorted(train_msgs, key=lambda m: -desire_score(m)/max(len(m),1))
+        pick, acc = [], 0
+        for m in od:
+            if acc >= budget: break
+            pick.append(m); acc += len(m)
+        per.setdefault("desire",{})[B] = top1("".join(m+"|" for m in pick), test_text, V_all)[0]
+        # 4. 惊奇（先用 10% 均匀种子训练，按每条消息的每字平均 loss 排序，取最意外的）
+        seedn = max(1, int(len(train_msgs)*0.10))
+        seed_txt = "".join(m+"|" for m in train_msgs[:seedn])
+        cnt, cctx, V = build(seed_txt, K)
+        scored = []
+        for m in train_msgs:
+            t = m+"|"
+            b = 0.0
+            for i in range(len(t)):
+                ctx = t[max(0,i-(K-1)):i]
+                b += -math.log2(max(prob(cnt,cctx,V_all,ctx,t[i],K),1e-12))
+            scored.append((b/len(t), m))
+        scored.sort(key=lambda x:-x[0])
+        pick, acc = [], 0
+        for s,m in scored:
+            if acc >= budget: break
+            pick.append(m); acc += len(m)
+        per.setdefault("surprise",{})[B] = top1("".join(m+"|" for m in pick), test_text, V_all)[0]
+    # 全量
+    per["all"] = top1(full_train, test_text, V_all)[0]
+    # 堆量：同一份数据重复 2x / 4x
+    per["heap2"] = top1(full_train*2, test_text, V_all)[0]
+    per["heap4"] = top1(full_train*4, test_text, V_all)[0]
+    res["per_seed"][sd] = per
+    print(f"[seed {sd}] all={per['all']:.4f} heap2={per['heap2']:.4f} heap4={per['heap4']:.4f}")
+    for kk in ["random","desire","surprise"]:
+        print(f"          {kk:9s} " + " ".join(f"{B}:{per[kk][B]:.4f}" for B in FRACS))
+
+# 聚合
+for kk in ["random","desire","surprise"]:
+    res["agg"][kk] = {str(B): sum(res["per_seed"][sd][kk][B] for sd in SEEDS)/len(SEEDS) for B in FRACS}
+for kk in ["all","heap2","heap4"]:
+    res["agg"][kk] = sum(res["per_seed"][sd][kk] for sd in SEEDS)/len(SEEDS)
+
+json.dump(res, open(OUT,"w"), ensure_ascii=False, indent=1)
+print("\n=== AGG ===")
+for kk in ["random","desire","surprise"]:
+    print(f"{kk:9s} " + " ".join(f"{B}:{res['agg'][kk][str(B)]:.4f}" for B in FRACS))
+print(f"all={res['agg']['all']:.4f} heap2={res['agg']['heap2']:.4f} heap4={res['agg']['heap4']:.4f}")
+print("[sha]", hashlib.sha256(open(OUT,'rb').read()).hexdigest()[:12])

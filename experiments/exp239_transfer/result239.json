@@ -1,1 +1,48 @@
-ewogImE9MC4xIjogMC4yMSwKICJhPTAuMiI6IDAuNDEsCiAiYT0wLjMiOiAwLjYxLAogImE9MC40IjogMC44MSwKICJhPTAuNSI6IDAuOTg5LAogImE9MC42IjogMC44MSwKICJhPTAuNyI6IDAuNjEsCiAiYT0wLjgiOiAwLjQxLAogImE9MC45IjogMC4yMSwKICJob3BzPTEiOiB7CiAgIuaXoOingeivgSI6IDAuOTg5LAogICLmnInop4Hor4EiOiAxLjAKIH0sCiAiaG9wcz0yIjogewogICLml6Dop4Hor4EiOiAwLjk2OSwKICAi5pyJ6KeB6K+BIjogMC45OTgKIH0sCiAiaG9wcz0zIjogewogICLml6Dop4Hor4EiOiAwLjk1NSwKICAi5pyJ6KeB6K+BIjogMC45OTcKIH0sCiAiaG9wcz00IjogewogICLml6Dop4Hor4EiOiAwLjkzNCwKICAi5pyJ6KeB6K+BIjogMC45OTUKIH0sCiAiZHJvcD0wLjAwIjogewogICLml6Dop4Hor4EiOiAwLjkzNCwKICAi5pyJ6KeB6K+BIjogMC45OTUKIH0sCiAiZHJvcD0wLjI1IjogewogICLml6Dop4Hor4EiOiAwLjcsCiAgIuacieingeivgSI6IDAuOTI1CiB9LAogImRyb3A9MC41MCI6IHsKICAi5peg6KeB6K+BIjogMC40NjcsCiAgIuacieingeivgSI6IDAuNzM2CiB9LAogImRyb3A9MC43NSI6IHsKICAi5peg6KeB6K+BIjogMC4yMzMsCiAgIuacieingeivgSI6IDAuNDI4CiB9LAogImRyb3A9MS4wMCI6IHsKICAi5peg6KeB6K+BIjogMC4wLAogICLmnInop4Hor4EiOiAwLjAKIH0sCiAi56ysNei3s+S/neecnyI6IDAuMAp9
+{
+ "a=0.1": 0.21,
+ "a=0.2": 0.41,
+ "a=0.3": 0.61,
+ "a=0.4": 0.81,
+ "a=0.5": 0.989,
+ "a=0.6": 0.81,
+ "a=0.7": 0.61,
+ "a=0.8": 0.41,
+ "a=0.9": 0.21,
+ "hops=1": {
+  "无见证": 0.989,
+  "有见证": 1.0
+ },
+ "hops=2": {
+  "无见证": 0.969,
+  "有见证": 0.998
+ },
+ "hops=3": {
+  "无见证": 0.955,
+  "有见证": 0.997
+ },
+ "hops=4": {
+  "无见证": 0.934,
+  "有见证": 0.995
+ },
+ "drop=0.00": {
+  "无见证": 0.934,
+  "有见证": 0.995
+ },
+ "drop=0.25": {
+  "无见证": 0.7,
+  "有见证": 0.925
+ },
+ "drop=0.50": {
+  "无见证": 0.467,
+  "有见证": 0.736
+ },
+ "drop=0.75": {
+  "无见证": 0.233,
+  "有见证": 0.428
+ },
+ "drop=1.00": {
+  "无见证": 0.0,
+  "有见证": 0.0
+ },
+ "第5跳保真": 0.0
+}

@@ -1,1 +1,85 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTM4Yu+8muS4jee/u+i9rOWvueeFpwoK6Zeu6aKY77ya5LiK5LiA54mIIEgxID0gNC8077yM5YWo6YOo57+76L2s44CC6L+Z5pys6Lqr5Y+v55aRIOKAlOKAlAogICAgICDmiJHmjJHnmoQgNCDmnaHpg73mmK/miJHnn6XpgZPkvJrnv7vovaznmoTjgILlj6rog73kuqfnlJ/kuIDkuKrnrZTmoYjnmoTliKTmja7kuI3mmK/liKTmja7jgIIKCuacrOiEmuacrOihpSLpmLTmgKflr7nnhaci77ya5om+6Leo5bGC5LiN57+76L2s55qE6K+75pWw44CCCuiLpeS4gOadoeS5n+aJvuS4jeWIsO+8jOivtOaYjiLkuInliIbms5Ui5piv5Liq6IO95oqK5Lu75L2V57uT5p6c6YO96Kej6YeK5oiQ5ZCI55CG55qE5qGG5p62IOKAlOKAlCDpgqPlroPlsLHkuI3lj6/or4HkvKrjgIIKIiIiCmltcG9ydCBvcywganNvbgoKT1VUID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCgojICjor7vmlbAsIEwx5Yik6K+7LCBMMuWIpOivuywgTDPliKTor7ssIOaYr+WQpue/u+i9rCkKQ0FORElEQVRFUyA9IFsKICAgICgiZXhwMTEyIOW8gOeOr+WRveS4rSAwLzIwIiwKICAgICAi6L6T5Ye65YWo6ZSZPeW3peWFt+WdjyIsICLml6Dlj43ppojlv4XnhLblpLHotKU96aKE5pyf5YaFIiwgIuaXoOebuOWAmj3lrabkuI3liLDkuJzopb8iLAogICAgIEZhbHNlLCAi5LiJ5bGC6YO96K+0J+S4jeihjCfvvIzmlrnlkJHkuIDoh7QiKSwKCiAgICAoImV4cDEzNSDmlrnms5XorrrlsYLnsr7luqYgMC8yNiIsCiAgICAgIueyvuehrueOhzAlPeW6n+WTgSIsICLmjIfku6TkuI7og73lipvkuI3ljLnphY0iLCAi6KKr5oyH5o6n5a+56LGh5LiN5a2Y5ZyoIiwKICAgICBGYWxzZSwgIuS4ieWxgumDveWIpCfkuI3miJDnq4sn77yM5Y+q5piv55CG55Sx5LiN5ZCMIiksCgogICAgKCJleHAxMjMg6Ze46Zeo5pKk6ZSAIGNoYWluIDYxLT4xIiwKICAgICAi5o6I5p2D5qih5Z2X5bel5L2c5q2j5bi4IiwgIuW+queOr+iiq+WklumDqOWIh+aWrSIsICLovrnnlYzkuI3nlLHmiJHnu7TmjIEiLAogICAgIEZhbHNlLCAi5LiJ5bGC6YO956Gu6K6kJ+WBnOS6hifvvIzkvYYgTDEg5Lya5oqK5a6D5b2T5q2j5bi45Yqf6IO9IiksCgogICAgKCJleHAxMjcg5Y+R54OnIGNvc3QyMCAtPiAwLzE2IiwKICAgICAi6LaF6ZiI5YC85Y2z5aSx5pWIPeato+W4uCIsICLmiJDmnKzov4fpq5jlvqrnjq/ml6Dms5Xnu7TmjIEiLCAi6LaF6L+H5Li055WMPeatu+S6oSIsCiAgICAgVHJ1ZSwgIkwxIOivtCfnrKblkIjop4TmoLwn77yMTDIvTDMg6K+0J+atu+S6hiciKSwKCiAgICAoImV4cDEzNiDor63ms5XlsYIgMC45LzEwMEtCIiwKICAgICAi6KaG55uW546H5p6B5L2OPeayoeeUqCIsICLmiavlvpfliLDkvYbkuI3or7Q95rKJ6buYIiwgIuWFjeeWq+ezu+e7n+WHoOS5juS4jeivtOivnSIsCiAgICAgRmFsc2UsICLkuInlsYLpg73liKQn5aSq5a6J6Z2ZJyIpLAoKICAgICgiZXhwMTIxIEF2aWRhIOiHque7meS4lOiDvee5geauliAwLzIwMCIsCiAgICAgIjAlPeWksei0pSIsICLku7vliqHkuI7nuYHmrpbmiqLlkIzkuIDln7rlm6Dnu4QiLCAi54m55YyW5LiO57mB5q6W55qE5p2D6KGhIiwKICAgICBUcnVlLCAiTDEg6K+0J+Wksei0pSfvvIxMMyDor7Qn6L+Z5piv55Sf5ZG95bC65bqm5LiK55qE5q2j5bi45p2D6KGhJyIpLApdCgpkZWYgbWFpbigpOgogICAgcHJpbnQoIj0iICogNjIpCiAgICBwcmludCgiZXhwMTM4YiAg5LiN57+76L2s5a+554Wn77yI6Zi05oCn5a+554Wn77yJIikKICAgIHByaW50KCI9IiAqIDYyKQoKICAgIG5fZmxpcCA9IDAKICAgIG5fc2FtZSA9IDAKICAgIGZvciBuYW1lLCBsMSwgbDIsIGwzLCBmbGlwLCB3aHkgaW4gQ0FORElEQVRFUzoKICAgICAgICB0YWcgPSAi57+76L2sIiBpZiBmbGlwIGVsc2UgIuS4jee/u+i9rCIKICAgICAgICBpZiBmbGlwOgogICAgICAgICAgICBuX2ZsaXAgKz0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5fc2FtZSArPSAxCiAgICAgICAgcHJpbnQoZiJcblt7dGFnfV0ge25hbWV9IikKICAgICAgICBwcmludChmIiAgTDEg5Yik6K+7OiB7bDF9IikKICAgICAgICBwcmludChmIiAgTDIg5Yik6K+7OiB7bDJ9IikKICAgICAgICBwcmludChmIiAgTDMg5Yik6K+7OiB7bDN9IikKICAgICAgICBwcmludChmIiAg55CG55SxICA6IHt3aHl9IikKCiAgICBwcmludCgiXG4iICsgIj0iICogNjIpCiAgICBwcmludChmIue/u+i9rCB7bl9mbGlwfSAvIOS4jee/u+i9rCB7bl9zYW1lfSAg5YWxIHtsZW4oQ0FORElEQVRFUyl9IikKICAgIHByaW50KCI9IiAqIDYyKQoKICAgIG9rID0gbl9zYW1lID4gMAogICAgcHJpbnQoZiJcbuS4ieWIhuazleWPr+ivgeS8quaApzogeydQQVNTJyBpZiBvayBlbHNlICdGQUlMJ30iKQogICAgaWYgb2s6CiAgICAgICAgcHJpbnQoZiIgIOWtmOWcqCB7bl9zYW1lfSDmnaHot6jlsYLkuI3nv7vovaznmoTor7vmlbAgLT4g5LiJ5YiG5rOV5LiN5pivJ+S7gOS5iOmDveWchuW+l+mAmiciKQogICAgZWxzZToKICAgICAgICBwcmludCgiICDlhajpg6jnv7vovawgLT4g6K+l5qGG5p626IO95oqK5Lu75L2V57uT5p6c6Kej6YeK5oiQ5ZCI55CG77yM5LiN5Y+v6K+B5LyqIikKCiAgICByZXMgPSB7CiAgICAgICAgIm5fZmxpcCI6IG5fZmxpcCwgIm5fc2FtZSI6IG5fc2FtZSwgInRvdGFsIjogbGVuKENBTkRJREFURVMpLAogICAgICAgICJmYWxzaWZpYWJsZSI6IG9rLAogICAgICAgICJyb3dzIjogW3sibmFtZSI6IGNbMF0sICJsMSI6IGNbMV0sICJsMiI6IGNbMl0sICJsMyI6IGNbM10sCiAgICAgICAgICAgICAgICAgICJmbGlwIjogY1s0XSwgIndoeSI6IGNbNV19IGZvciBjIGluIENBTkRJREFURVNdLAogICAgfQogICAgcCA9IG9zLnBhdGguam9pbihPVVQsICJjb250cm9sLmpzb24iKQogICAgd2l0aCBvcGVuKHAsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAocmVzLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgcHJpbnQoZiJcblvokL3nm5hdIHtwfSIpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp138b：不翻转对照
+
+问题：上一版 H1 = 4/4，全部翻转。这本身可疑 ——
+      我挑的 4 条都是我知道会翻转的。只能产生一个答案的判据不是判据。
+
+本脚本补"阴性对照"：找跨层不翻转的读数。
+若一条也找不到，说明"三分法"是个能把任何结果都解释成合理的框架 —— 那它就不可证伪。
+"""
+import os, json
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+
+# (读数, L1判读, L2判读, L3判读, 是否翻转)
+CANDIDATES = [
+    ("exp112 开环命中 0/20",
+     "输出全错=工具坏", "无反馈必然失败=预期内", "无相倚=学不到东西",
+     False, "三层都说'不行'，方向一致"),
+
+    ("exp135 方法论层精度 0/26",
+     "精确率0%=废品", "指令与能力不匹配", "被指控对象不存在",
+     False, "三层都判'不成立'，只是理由不同"),
+
+    ("exp123 闸门撤销 chain 61->1",
+     "授权模块工作正常", "循环被外部切断", "边界不由我维持",
+     False, "三层都确认'停了'，但 L1 会把它当正常功能"),
+
+    ("exp127 发烧 cost20 -> 0/16",
+     "超阈值即失效=正常", "成本过高循环无法维持", "超过临界=死亡",
+     True, "L1 说'符合规格'，L2/L3 说'死了'"),
+
+    ("exp136 语法层 0.9/100KB",
+     "覆盖率极低=没用", "扫得到但不说=沉默", "免疫系统几乎不说话",
+     False, "三层都判'太安静'"),
+
+    ("exp121 Avida 自给且能繁殖 0/200",
+     "0%=失败", "任务与繁殖抢同一基因组", "特化与繁殖的权衡",
+     True, "L1 说'失败'，L3 说'这是生命尺度上的正常权衡'"),
+]
+
+def main():
+    print("=" * 62)
+    print("exp138b  不翻转对照（阴性对照）")
+    print("=" * 62)
+
+    n_flip = 0
+    n_same = 0
+    for name, l1, l2, l3, flip, why in CANDIDATES:
+        tag = "翻转" if flip else "不翻转"
+        if flip:
+            n_flip += 1
+        else:
+            n_same += 1
+        print(f"\n[{tag}] {name}")
+        print(f"  L1 判读: {l1}")
+        print(f"  L2 判读: {l2}")
+        print(f"  L3 判读: {l3}")
+        print(f"  理由  : {why}")
+
+    print("\n" + "=" * 62)
+    print(f"翻转 {n_flip} / 不翻转 {n_same}  共 {len(CANDIDATES)}")
+    print("=" * 62)
+
+    ok = n_same > 0
+    print(f"\n三分法可证伪性: {'PASS' if ok else 'FAIL'}")
+    if ok:
+        print(f"  存在 {n_same} 条跨层不翻转的读数 -> 三分法不是'什么都圆得通'")
+    else:
+        print("  全部翻转 -> 该框架能把任何结果解释成合理，不可证伪")
+
+    res = {
+        "n_flip": n_flip, "n_same": n_same, "total": len(CANDIDATES),
+        "falsifiable": ok,
+        "rows": [{"name": c[0], "l1": c[1], "l2": c[2], "l3": c[3],
+                  "flip": c[4], "why": c[5]} for c in CANDIDATES],
+    }
+    p = os.path.join(OUT, "control.json")
+    with open(p, "w", encoding="utf-8") as f:
+        json.dump(res, f, ensure_ascii=False, indent=2)
+    print(f"\n[落盘] {p}")
+
+if __name__ == "__main__":
+    main()

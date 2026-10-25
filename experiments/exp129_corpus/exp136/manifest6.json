@@ -1,1 +1,107 @@
-WwogewogICJyZXBvIjogImF4aW9tYW50aWMvc3BlbGxib29rIiwKICAic3RhcnMiOiAxMCwKICAicGF0aCI6ICJpbnN0YWxsZXIvcGxhdGZvcm1zL2ZvcmdlY29kZS5weSIsCiAgImZpbGUiOiAiYXhpb21hbnRpY19fc3BlbGxib29rX19pbnN0YWxsZXJfcGxhdGZvcm1zX2ZvcmdlY29kZS5weSIsCiAgImJ5dGVzIjogMTYzOTgKIH0sCiB7CiAgInJlcG8iOiAiYXhpb21hbnRpYy9zcGVsbGJvb2siLAogICJzdGFycyI6IDEwLAogICJwYXRoIjogImluc3RhbGxlci9jb25maWcucHkiLAogICJmaWxlIjogImF4aW9tYW50aWNfX3NwZWxsYm9va19faW5zdGFsbGVyX2NvbmZpZy5weSIsCiAgImJ5dGVzIjogMTExMTQKIH0sCiB7CiAgInJlcG8iOiAiZ2F6dHJhYmlzbWUvbGxtLXNlcnZlciIsCiAgInN0YXJzIjogOSwKICAicGF0aCI6ICJzY3JpcHRzL2NvbXBhcmUtcmVzdWx0cy5weSIsCiAgImZpbGUiOiAiZ2F6dHJhYmlzbWVfX2xsbS1zZXJ2ZXJfX3NjcmlwdHNfY29tcGFyZS1yZXN1bHRzLnB5IiwKICAiYnl0ZXMiOiA0MzI1CiB9LAogewogICJyZXBvIjogImdhenRyYWJpc21lL2xsbS1zZXJ2ZXIiLAogICJzdGFycyI6IDksCiAgInBhdGgiOiAic2NyaXB0cy9tdHAtYmVuY2gucHkiLAogICJmaWxlIjogImdhenRyYWJpc21lX19sbG0tc2VydmVyX19zY3JpcHRzX210cC1iZW5jaC5weSIsCiAgImJ5dGVzIjogNzcwOQogfSwKIHsKICAicmVwbyI6ICJVYjIwNy92YXVsdC1zeW5jIiwKICAic3RhcnMiOiA4LAogICJwYXRoIjogIi5xd2VuL3NraWxscy9icm93c2luZy13aXRoLXBsYXl3cmlnaHQvc2NyaXB0cy9tY3AtY2xpZW50LnB5IiwKICAiZmlsZSI6ICJVYjIwN19fdmF1bHQtc3luY19fLnF3ZW5fc2tpbGxzX2Jyb3dzaW5nLXdpdGgtcGxheXdyaWdodF9zY3JpcHRzX21jcC1jbGllbnQucHkiLAogICJieXRlcyI6IDE2Nzc1CiB9LAogewogICJyZXBvIjogInRhcnMxMjMwL2RvdXlpbi1mYXZvcml0ZXMtdG8ta25vd2xlZGdlIiwKICAic3RhcnMiOiA2NywKICAicGF0aCI6ICJzcmMvZG91eWluX2Zhdm9yaXRlc19rbm93bGVkZ2UvYmFpbGlhbi5weSIsCiAgImZpbGUiOiAidGFyczEyMzBfX2RvdXlpbi1mYXZvcml0ZXMtdG8ta25vd2xlZGdlX19zcmNfZG91eWluX2Zhdm9yaXRlc19rbm93bGVkZ2VfYmFpbGlhbi5weSIsCiAgImJ5dGVzIjogMjUzNAogfSwKIHsKICAicmVwbyI6ICJ0YXJzMTIzMC9kb3V5aW4tZmF2b3JpdGVzLXRvLWtub3dsZWRnZSIsCiAgInN0YXJzIjogNjcsCiAgInBhdGgiOiAic3JjL2RvdXlpbl9mYXZvcml0ZXNfa25vd2xlZGdlL2Nkbl9hdXRoLnB5IiwKICAiZmlsZSI6ICJ0YXJzMTIzMF9fZG91eWluLWZhdm9yaXRlcy10by1rbm93bGVkZ2VfX3NyY19kb3V5aW5fZmF2b3JpdGVzX2tub3dsZWRnZV9jZG5fYXV0aC5weSIsCiAgImJ5dGVzIjogMjE2MQogfSwKIHsKICAicmVwbyI6ICJSb2xsaW5nU3RvbmllL01pZ2h0eU9TIiwKICAic3RhcnMiOiA5LAogICJwYXRoIjogInN5bmMvbGVhZF93YXRjaGVyLnB5IiwKICAiZmlsZSI6ICJSb2xsaW5nU3RvbmllX19NaWdodHlPU19fc3luY19sZWFkX3dhdGNoZXIucHkiLAogICJieXRlcyI6IDc3ODcKIH0sCiB7CiAgInJlcG8iOiAiUm9sbGluZ1N0b25pZS9NaWdodHlPUyIsCiAgInN0YXJzIjogOSwKICAicGF0aCI6ICJzeW5jL2FnZW50X2JvdC5weSIsCiAgImZpbGUiOiAiUm9sbGluZ1N0b25pZV9fTWlnaHR5T1NfX3N5bmNfYWdlbnRfYm90LnB5IiwKICAiYnl0ZXMiOiAzNDk0CiB9LAogewogICJyZXBvIjogInNjb3RjaHVhL2FnZW50LWJyaWRnZSIsCiAgInN0YXJzIjogNiwKICAicGF0aCI6ICJzcmMvYWdlbnRfYnJpZGdlL3BsYXRmb3JtL3Bvc2l4LnB5IiwKICAiZmlsZSI6ICJzY290Y2h1YV9fYWdlbnQtYnJpZGdlX19zcmNfYWdlbnRfYnJpZGdlX3BsYXRmb3JtX3Bvc2l4LnB5IiwKICAiYnl0ZXMiOiAxMjQ3OQogfSwKIHsKICAicmVwbyI6ICJzY290Y2h1YS9hZ2VudC1icmlkZ2UiLAogICJzdGFycyI6IDYsCiAgInBhdGgiOiAic3JjL2FnZW50X2JyaWRnZS9jaGF0L3NlcnZlci5weSIsCiAgImZpbGUiOiAic2NvdGNodWFfX2FnZW50LWJyaWRnZV9fc3JjX2FnZW50X2JyaWRnZV9jaGF0X3NlcnZlci5weSIsCiAgImJ5dGVzIjogMTA2ODgKIH0sCiB7CiAgInJlcG8iOiAicmFtMHZlcmZsb3cvcmFtMHZlcmZsb3ciLAogICJzdGFycyI6IDY3LAogICJwYXRoIjogImhlYXJ0YmVhdC5weSIsCiAgImZpbGUiOiAicmFtMHZlcmZsb3dfX3JhbTB2ZXJmbG93X19oZWFydGJlYXQucHkiLAogICJieXRlcyI6IDc0MDcKIH0sCiB7CiAgInJlcG8iOiAicmFtMHZlcmZsb3cvcmFtMHZlcmZsb3ciLAogICJzdGFycyI6IDY3LAogICJwYXRoIjogInJvbGxvdmVyLnB5IiwKICAiZmlsZSI6ICJyYW0wdmVyZmxvd19fcmFtMHZlcmZsb3dfX3JvbGxvdmVyLnB5IiwKICAiYnl0ZXMiOiAzOTQ3CiB9LAogewogICJyZXBvIjogInN0a29lY24vaW0tbWNwIiwKICAic3RhcnMiOiAyMSwKICAicGF0aCI6ICJzcmMvd2VjaGF0X21jcC9hZGFwdGVycy92My5weSIsCiAgImZpbGUiOiAic3Rrb2Vjbl9faW0tbWNwX19zcmNfd2VjaGF0X21jcF9hZGFwdGVyc192My5weSIsCiAgImJ5dGVzIjogODA1NQogfSwKIHsKICAicmVwbyI6ICJzdGtvZWNuL2ltLW1jcCIsCiAgInN0YXJzIjogMjEsCiAgInBhdGgiOiAic3JjL3dlY2hhdF9tY3AvcGFyc2VyLnB5IiwKICAiZmlsZSI6ICJzdGtvZWNuX19pbS1tY3BfX3NyY193ZWNoYXRfbWNwX3BhcnNlci5weSIsCiAgImJ5dGVzIjogNzE1OAogfQpd
+[
+ {
+  "repo": "axiomantic/spellbook",
+  "stars": 10,
+  "path": "installer/platforms/forgecode.py",
+  "file": "axiomantic__spellbook__installer_platforms_forgecode.py",
+  "bytes": 16398
+ },
+ {
+  "repo": "axiomantic/spellbook",
+  "stars": 10,
+  "path": "installer/config.py",
+  "file": "axiomantic__spellbook__installer_config.py",
+  "bytes": 11114
+ },
+ {
+  "repo": "gaztrabisme/llm-server",
+  "stars": 9,
+  "path": "scripts/compare-results.py",
+  "file": "gaztrabisme__llm-server__scripts_compare-results.py",
+  "bytes": 4325
+ },
+ {
+  "repo": "gaztrabisme/llm-server",
+  "stars": 9,
+  "path": "scripts/mtp-bench.py",
+  "file": "gaztrabisme__llm-server__scripts_mtp-bench.py",
+  "bytes": 7709
+ },
+ {
+  "repo": "Ub207/vault-sync",
+  "stars": 8,
+  "path": ".qwen/skills/browsing-with-playwright/scripts/mcp-client.py",
+  "file": "Ub207__vault-sync__.qwen_skills_browsing-with-playwright_scripts_mcp-client.py",
+  "bytes": 16775
+ },
+ {
+  "repo": "tars1230/douyin-favorites-to-knowledge",
+  "stars": 67,
+  "path": "src/douyin_favorites_knowledge/bailian.py",
+  "file": "tars1230__douyin-favorites-to-knowledge__src_douyin_favorites_knowledge_bailian.py",
+  "bytes": 2534
+ },
+ {
+  "repo": "tars1230/douyin-favorites-to-knowledge",
+  "stars": 67,
+  "path": "src/douyin_favorites_knowledge/cdn_auth.py",
+  "file": "tars1230__douyin-favorites-to-knowledge__src_douyin_favorites_knowledge_cdn_auth.py",
+  "bytes": 2161
+ },
+ {
+  "repo": "RollingStonie/MightyOS",
+  "stars": 9,
+  "path": "sync/lead_watcher.py",
+  "file": "RollingStonie__MightyOS__sync_lead_watcher.py",
+  "bytes": 7787
+ },
+ {
+  "repo": "RollingStonie/MightyOS",
+  "stars": 9,
+  "path": "sync/agent_bot.py",
+  "file": "RollingStonie__MightyOS__sync_agent_bot.py",
+  "bytes": 3494
+ },
+ {
+  "repo": "scotchua/agent-bridge",
+  "stars": 6,
+  "path": "src/agent_bridge/platform/posix.py",
+  "file": "scotchua__agent-bridge__src_agent_bridge_platform_posix.py",
+  "bytes": 12479
+ },
+ {
+  "repo": "scotchua/agent-bridge",
+  "stars": 6,
+  "path": "src/agent_bridge/chat/server.py",
+  "file": "scotchua__agent-bridge__src_agent_bridge_chat_server.py",
+  "bytes": 10688
+ },
+ {
+  "repo": "ram0verflow/ram0verflow",
+  "stars": 67,
+  "path": "heartbeat.py",
+  "file": "ram0verflow__ram0verflow__heartbeat.py",
+  "bytes": 7407
+ },
+ {
+  "repo": "ram0verflow/ram0verflow",
+  "stars": 67,
+  "path": "rollover.py",
+  "file": "ram0verflow__ram0verflow__rollover.py",
+  "bytes": 3947
+ },
+ {
+  "repo": "stkoecn/im-mcp",
+  "stars": 21,
+  "path": "src/wechat_mcp/adapters/v3.py",
+  "file": "stkoecn__im-mcp__src_wechat_mcp_adapters_v3.py",
+  "bytes": 8055
+ },
+ {
+  "repo": "stkoecn/im-mcp",
+  "stars": 21,
+  "path": "src/wechat_mcp/parser.py",
+  "file": "stkoecn__im-mcp__src_wechat_mcp_parser.py",
+  "bytes": 7158
+ }
+]

@@ -1,1 +1,165 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJNZWFzdXJlIHRoZSB0b2tlbiBjb3N0IG9mIHlvdXIgb3duIGFnZW50IHNraWxsIGNhdGFsb2cuCgpUaGlzIGlzIHRoZSByZXByb2R1Y3Rpb24gcGF0aCBiZWhpbmQgdGhlICJCaWxsIDMiIG51bWJlcnMgaW4gUkVBRE1FLm1kLiBJdCB3YWxrcyBhCnNraWxsIHNvdXJjZSBkaXJlY3RvcnkgYW5kIGNvdW50cywgd2l0aCB0aGUgcmVhbCBPcGVuQUkgQlBFIHRva2VuaXplciAoY2wxMDBrX2Jhc2UsCnRoZSBzYW1lIGVuY29kaW5nIHRoZSB0b29sLXNjaGVtYSBiZW5jaG1hcmsgdXNlcyk6CgogICogZXZlcnkgU0tJTEwubWQgaW4gZnVsbCAod2hhdCBhbiBhZ2VudCBwYXlzIGlmIGl0IGxvYWRzIHRoZSBjYXRhbG9nKQogICogb25seSBlYWNoIHNraWxsJ3MgZnJvbnRtYXR0ZXIgYGRlc2NyaXB0aW9uYCAod2hhdCBhIGNhdGFsb2cgbGlzdGluZyBjb3N0cykKICAqIGBtY3B0b29uIHNraWxscyBtYW5pZmVzdGAgKHRoZSBvbmUgbGluZSBtY3B0b29uIGtlZXBzIHJlc2lkZW50KQogICogYG1jcHRvb24gc2tpbGxzIHJlc29sdmUgIjxxdWVyeT4iIC0tayBOYCAod2hhdCBhIHNpbmdsZSBsb29rdXAgY29zdHMpCgp0aWt0b2tlbiBpcyBhIHRoaXJkLXBhcnR5IHBhY2thZ2Ugb24gcHVycG9zZTogdGhpcyBpcyBhIG1lYXN1cmVtZW50IHRvb2wsIG5vdCBwYXJ0Cm9mIHRoZSB6ZXJvLWRlcGVuZGVuY3kgcnVudGltZS4gSW5zdGFsbCBpdCBmaXJzdDoKCiAgICBwaXAgaW5zdGFsbCB0aWt0b2tlbgoKVXNhZ2U6CiAgICBweXRob24gc2NyaXB0cy9iZW5jaF9za2lsbHMucHkKICAgIHB5dGhvbiBzY3JpcHRzL2JlbmNoX3NraWxscy5weSAtLXJvb3RzIH4vc2tpbGxzIC0tayA1CiAgICBweXRob24gc2NyaXB0cy9iZW5jaF9za2lsbHMucHkgLS1qc29uCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmltcG9ydCByZQppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKU0tJUF9ESVJTID0geyJfaW5kZXgiLCAiLmdpdCIsICJfX3B5Y2FjaGVfXyIsICJub2RlX21vZHVsZXMiLCAiLkRTX1N0b3JlIn0KRlJPTlRNQVRURVIgPSByZS5jb21waWxlKHIiXi0tLVxzKlxuKC4qPylcbi0tLVxzKlxuIiwgcmUuUykKCgpkZWYgdG9rZW5pemVyKCk6CiAgICAiIiJSZXR1cm4gKGVuY29kZV9mbiwgbmFtZSkuIEZhbGxzIGJhY2sgbG91ZGx5IHNvIGEgd3JvbmcgbnVtYmVyIGlzIG5ldmVyIHNpbGVudC4iIiIKICAgIHRyeToKICAgICAgICBpbXBvcnQgdGlrdG9rZW4KICAgIGV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgICAgICBwcmludCgiISB0aWt0b2tlbiBpcyBub3QgaW5zdGFsbGVkIC0gZmFsbGluZyBiYWNrIHRvIGNoYXJzLzQuIiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIHByaW50KCIhIFRoZXNlIG51bWJlcnMgYXJlIE5PVCB0aGUgUkVBRE1FIGNhbGliZXIuIFJ1bjogcGlwIGluc3RhbGwgdGlrdG9rZW4iLAogICAgICAgICAgICAgIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICByZXR1cm4gKGxhbWJkYSBzOiBtYXgoMSwgcm91bmQobGVuKHMpIC8gNCkpKSwgImNoYXJzLzQgKGZhbGxiYWNrKSIKCiAgICBlbmMgPSB0aWt0b2tlbi5nZXRfZW5jb2RpbmcoImNsMTAwa19iYXNlIikKICAgIHJldHVybiAobGFtYmRhIHM6IGxlbihlbmMuZW5jb2RlKHMpKSksICJ0aWt0b2tlbiBjbDEwMGtfYmFzZSIKCgpkZWYgY29sbGVjdChyb290OiBQYXRoKToKICAgICIiIlJldHVybiAoZnVsbF90ZXh0LCBkZXNjcmlwdGlvbnMsIHNsdWdzLCBuX3NraWxscykgZm9yIGEgc2tpbGwgc291cmNlIGRpcmVjdG9yeS4KCiAgICBDb3VudHMgZXhhY3RseSB3aGF0IHRoZSBjYXRhbG9nIG1hbmFnZXIgbWFuYWdlczogYHJvb3QvPHNraWxsPi9TS0lMTC5tZGAsIG9uZQogICAgbGV2ZWwgZGVlcC4gQSByZWN1cnNpdmUgd2FsayBmaW5kcyBtb3JlIGZpbGVzIChuZXN0ZWQgYnVuZGxlcyBzaGlwIHN1Yi1za2lsbHMKICAgIHVuZGVyIGBza2lsbHMvYCksIGJ1dCB0aG9zZSBhcmUgbm90IHNlcGFyYXRlbHkgbWFuYWdlZCBza2lsbHMsIGFuZCBxdW90aW5nIGEKICAgIGNvdW50IHRoYXQgZGVwZW5kcyBvbiB0aGUgd2Fsa2VyIHdvdWxkIG1ha2UgdGhlIFJFQURNRSdzIG51bWJlciBhbWJpZ3VvdXMuCiAgICAiIiIKICAgIGZ1bGwsIGRlc2NzLCBzbHVncyA9IFtdLCBbXSwgW10KICAgIGZvciBjaGlsZCBpbiBzb3J0ZWQocm9vdC5pdGVyZGlyKCkpOgogICAgICAgIGlmIG5vdCBjaGlsZC5pc19kaXIoKSBvciBjaGlsZC5uYW1lIGluIFNLSVBfRElSUyBvciBjaGlsZC5uYW1lLnN0YXJ0c3dpdGgoIi4iKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBtZCA9IGNoaWxkIC8gIlNLSUxMLm1kIgogICAgICAgIGlmIG5vdCBtZC5pc19maWxlKCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgc2x1Z3MuYXBwZW5kKGNoaWxkLm5hbWUpCiAgICAgICAgdGV4dCA9IG1kLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKQogICAgICAgIGZ1bGwuYXBwZW5kKHRleHQpCiAgICAgICAgbSA9IEZST05UTUFUVEVSLm1hdGNoKHRleHQpCiAgICAgICAgaWYgbToKICAgICAgICAgICAgZCA9IHJlLnNlYXJjaChyIl5kZXNjcmlwdGlvbjpccyooLis/KSg/PV5cdys6fFxaKSIsIG0uZ3JvdXAoMSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgcmUuUyB8IHJlLk0pCiAgICAgICAgICAgIGlmIGQ6CiAgICAgICAgICAgICAgICBkZXNjcy5hcHBlbmQoIiAiLmpvaW4oZC5ncm91cCgxKS5zcGxpdCgpKSkKICAgIHJldHVybiAiXG4iLmpvaW4oZnVsbCksIGRlc2NzLCBzbHVncywgbGVuKGZ1bGwpCgoKZGVmIHJ1bl9jbGkoYXJnczogbGlzdFtzdHJdKSAtPiBzdHI6CiAgICByID0gc3VicHJvY2Vzcy5ydW4oW3N5cy5leGVjdXRhYmxlLCAiLW0iLCAibWNwdG9vbiIsICphcmdzXSwKICAgICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUsIGVuY29kaW5nPSJ1dGYtOCIpCiAgICByZXR1cm4gci5zdGRvdXQKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXJvb3RzIiwgbmFyZ3M9IisiLAogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ9W3N0cihQYXRoLmhvbWUoKSAvICIuY2xhdWRlIiAvICJza2lsbHMiKV0sCiAgICAgICAgICAgICAgICAgICAgaGVscD0ic2tpbGwgc291cmNlIGRpcmVjdG9yaWVzIChkZWZhdWx0OiB+Ly5jbGF1ZGUvc2tpbGxzKSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tcXVlcnkiLCBkZWZhdWx0PSJtYWtlIGEgUERGIiwgaGVscD0icXVlcnkgZm9yIHRoZSByZXNvbHZlIHByb2JlIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLWsiLCB0eXBlPWludCwgZGVmYXVsdD01LCBoZWxwPSJyZXNvbHZlIHNob3J0bGlzdCBzaXplIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1qc29uIiwgYWN0aW9uPSJzdG9yZV90cnVlIikKICAgIGFyZ3MgPSBhcC5wYXJzZV9hcmdzKCkKCiAgICBlbmNvZGUsIHRva25hbWUgPSB0b2tlbml6ZXIoKQoKICAgIHJvb3RzID0gW1BhdGgocikuZXhwYW5kdXNlcigpIGZvciByIGluIGFyZ3Mucm9vdHNdCiAgICByb290cyA9IFtyIGZvciByIGluIHJvb3RzIGlmIHIuaXNfZGlyKCldCiAgICBpZiBub3Qgcm9vdHM6CiAgICAgICAgcHJpbnQoIk5vIHNraWxsIHNvdXJjZSBkaXJlY3RvcnkgZm91bmQuIFBhc3MgLS1yb290cyA8ZGlyPi4iLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmV0dXJuIDEKCiAgICBmdWxsX3RleHQsIGRlc2NzLCBzbHVncywgbiA9ICIiLCBbXSwgW10sIDAKICAgIGZvciByIGluIHJvb3RzOgogICAgICAgIHQsIGQsIHNsLCBjID0gY29sbGVjdChyKQogICAgICAgIGZ1bGxfdGV4dCArPSAiXG4iICsgdAogICAgICAgIGRlc2NzICs9IGQKICAgICAgICBzbHVncyArPSBzbAogICAgICAgIG4gKz0gYwoKICAgIGZ1bGxfdG9rID0gZW5jb2RlKGZ1bGxfdGV4dCkKICAgIGRlc2NfdG9rID0gc3VtKGVuY29kZShkKSBmb3IgZCBpbiBkZXNjcykgaWYgZGVzY3MgZWxzZSAwCiAgICBuYW1lc190b2sgPSBlbmNvZGUoIiAiLmpvaW4oc2x1Z3MpKQogICAgbWFuaWZlc3RfdG9rID0gZW5jb2RlKHJ1bl9jbGkoWyJza2lsbHMiLCAibWFuaWZlc3QiXSkuc3RyaXAoKSkKICAgIHJlc29sdmVfdG9rID0gZW5jb2RlKHJ1bl9jbGkoWyJza2lsbHMiLCAicmVzb2x2ZSIsIGFyZ3MucXVlcnksICItLWsiLCBzdHIoYXJncy5rKSwgIi0tanNvbiJdKSkKCiAgICBkZWYgcGN0KGEsIGIpOgogICAgICAgICMgVHdvIGRlY2ltYWxzIHdvdWxkIHJvdW5kIDM5Lzk2MSwxNjQgdG8gIjEwMC4wJSIsIHdoaWNoIHJlYWRzIGFzIGEgdHlwby4KICAgICAgICAjIFRocmVlIGRlY2ltYWxzIGtlZXBzIHRoZSBob25lc3QgOTkuOTk2JS4KICAgICAgICByZXR1cm4gcm91bmQoKDEgLSBhIC8gYikgKiAxMDAsIDMpIGlmIGIgZWxzZSBOb25lCgogICAgb3V0ID0gewogICAgICAgICJ0b2tlbml6ZXIiOiB0b2tuYW1lLAogICAgICAgICJyb290cyI6IFtzdHIocikgZm9yIHIgaW4gcm9vdHNdLAogICAgICAgICJza2lsbHMiOiBuLAogICAgICAgICJmdWxsX2JvZHlfdG9rZW5zIjogZnVsbF90b2ssCiAgICAgICAgImRlc2NyaXB0aW9uX29ubHlfdG9rZW5zIjogZGVzY190b2ssCiAgICAgICAgIm5hbWVfaW5kZXhfdG9rZW5zIjogbmFtZXNfdG9rLAogICAgICAgICJtYW5pZmVzdF90b2tlbnMiOiBtYW5pZmVzdF90b2ssCiAgICAgICAgInJlc29sdmVfa190b2tlbnMiOiByZXNvbHZlX3RvaywKICAgICAgICAicmVzb2x2ZV9rIjogYXJncy5rLAogICAgICAgICJtYW5pZmVzdF92c19mdWxsX3BjdCI6IHBjdChtYW5pZmVzdF90b2ssIGZ1bGxfdG9rKSwKICAgICAgICAicmVzb2x2ZV92c19mdWxsX3BjdCI6IHBjdChyZXNvbHZlX3RvaywgZnVsbF90b2spLAogICAgICAgICJkZXNjcmlwdGlvbl9vbmx5X3ZzX2Z1bGxfcGN0IjogcGN0KGRlc2NfdG9rLCBmdWxsX3RvayksCiAgICAgICAgIm5hbWVfaW5kZXhfdnNfZnVsbF9wY3QiOiBwY3QobmFtZXNfdG9rLCBmdWxsX3RvayksCiAgICAgICAgIndpbmRvd3NfMTI4ayI6IHJvdW5kKGZ1bGxfdG9rIC8gMTMxMDcyLCAyKSwKICAgIH0KCiAgICBpZiBhcmdzLmpzb246CiAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhvdXQsIGluZGVudD0yKSkKICAgICAgICByZXR1cm4gMAoKICAgIHByaW50KGYidG9rZW5pemVyOiB7dG9rbmFtZX0iKQogICAgcHJpbnQoZiJyb290cyAgICA6IHsnLCAnLmpvaW4ob3V0Wydyb290cyddKX0iKQogICAgcHJpbnQoZiJTS0lMTC5tZCA6IHtufSBmaWxlcyBpbiB0aGUgc291cmNlIChvbmUgbGV2ZWwgZGVlcDsgYWxpYXMgZGlycyBpbmNsdWRlZCwiKQogICAgcHJpbnQoZiIgICAgICAgICAgIHdoaWNoIGlzIHdoYXQgdGhlIHRva2VuIGNvc3QgaXMgY2hhcmdlZCBhZ2FpbnN0KVxuIikKICAgIHByaW50KCIgIHdoYXQgdGhlIGFnZW50IGxvYWRzICAgICAgICAgICAgICAgICAgICAgICAgdG9rZW5zICAgICB2cyBmdWxsIikKICAgIHByaW50KCIgICIgKyAiLSIgKiA2MikKICAgIHByaW50KGYiICBldmVyeSBTS0lMTC5tZCwgZnVsbCB0ZXh0ICAgICAgICAgICAge2Z1bGxfdG9rOj4xMix9ICAgICAgICAgIC0iKQogICAgcHJpbnQoZiIgIGV2ZXJ5IHNraWxsIGRlc2NyaXB0aW9uIG9ubHkgICAgICAgICB7ZGVzY190b2s6PjEyLH0gICAge291dFsnZGVzY3JpcHRpb25fb25seV92c19mdWxsX3BjdCddfSUiKQogICAgcHJpbnQoZiIgIGV2ZXJ5IHNraWxsIE5BTUUgb25seSAobmFtZSBpbmRleCkgICB7bmFtZXNfdG9rOj4xMix9ICAgIHtvdXRbJ25hbWVfaW5kZXhfdnNfZnVsbF9wY3QnXX0lIikKICAgIHByaW50KGYiICBtY3B0b29uIHNraWxscyBtYW5pZmVzdCAocG9pbnRlcikgICAge21hbmlmZXN0X3Rvazo+MTIsfSAgICB7b3V0WydtYW5pZmVzdF92c19mdWxsX3BjdCddfSUiKQogICAgcHJpbnQoZiIgIG1jcHRvb24gc2tpbGxzIHJlc29sdmUgLWsge2FyZ3Mua30gKG9uZSBsb29rdXApICB7cmVzb2x2ZV90b2s6PjEyLH0gICAge291dFsncmVzb2x2ZV92c19mdWxsX3BjdCddfSUiKQogICAgcHJpbnQoKQogICAgcHJpbnQoZiIgIHRoZSBmdWxsIGNhdGFsb2cgaXMge291dFsnd2luZG93c18xMjhrJ119IHggYSAxMjhLIGNvbnRleHQgd2luZG93IikKICAgIHByaW50KCkKICAgIHByaW50KCIgIE5PVEUgdGhlIHR3byBkaWZmZXJlbnQgam9icywgc28gdGhlIHJhdGlvIGlzIG5vdCBtaXNyZWFkOiIpCiAgICBwcmludChmIiAgICAtIG1hbmlmZXN0ICh7bWFuaWZlc3RfdG9rfSB0b2spIGlzIGEgUE9JTlRFUjogaXQgaG9sZHMgbm8gc2tpbGwgbmFtZXMuIikKICAgIHByaW50KGYiICAgIC0gdGhlIG5hbWUgaW5kZXggKHtuYW1lc190b2s6LH0gdG9rKSBpcyB3aGF0IGEgc2tpbGxzLWFzLXRvb2wgbWFuaWZlc3QiKQogICAgcHJpbnQoZiIgICAgICB3b3VsZCBjb3N0OiBldmVyeSBza2lsbCBuYW1lLCBzdGlsbCB7b3V0WyduYW1lX2luZGV4X3ZzX2Z1bGxfcGN0J119JSBiZWxvdyBmdWxsIHRleHQuIikKICAgIHByaW50KGYiICAgIC0gb25lIHJlc29sdmUgKHtyZXNvbHZlX3Rva30gdG9rKSByZXBsYWNlcyBsb2FkaW5nIHRoZSBjYXRhbG9nIGF0IGFsbC4iKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcmFpc2UgU3lzdGVtRXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+"""Measure the token cost of your own agent skill catalog.
+
+This is the reproduction path behind the "Bill 3" numbers in README.md. It walks a
+skill source directory and counts, with the real OpenAI BPE tokenizer (cl100k_base,
+the same encoding the tool-schema benchmark uses):
+
+  * every SKILL.md in full (what an agent pays if it loads the catalog)
+  * only each skill's frontmatter `description` (what a catalog listing costs)
+  * `mcptoon skills manifest` (the one line mcptoon keeps resident)
+  * `mcptoon skills resolve "<query>" --k N` (what a single lookup costs)
+
+tiktoken is a third-party package on purpose: this is a measurement tool, not part
+of the zero-dependency runtime. Install it first:
+
+    pip install tiktoken
+
+Usage:
+    python scripts/bench_skills.py
+    python scripts/bench_skills.py --roots ~/skills --k 5
+    python scripts/bench_skills.py --json
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import subprocess
+import sys
+from pathlib import Path
+
+SKIP_DIRS = {"_index", ".git", "__pycache__", "node_modules", ".DS_Store"}
+FRONTMATTER = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.S)
+
+
+def tokenizer():
+    """Return (encode_fn, name). Falls back loudly so a wrong number is never silent."""
+    try:
+        import tiktoken
+    except ImportError:
+        print("! tiktoken is not installed - falling back to chars/4.", file=sys.stderr)
+        print("! These numbers are NOT the README caliber. Run: pip install tiktoken",
+              file=sys.stderr)
+        return (lambda s: max(1, round(len(s) / 4))), "chars/4 (fallback)"
+
+    enc = tiktoken.get_encoding("cl100k_base")
+    return (lambda s: len(enc.encode(s))), "tiktoken cl100k_base"
+
+
+def collect(root: Path):
+    """Return (full_text, descriptions, slugs, n_skills) for a skill source directory.
+
+    Counts exactly what the catalog manager manages: `root/<skill>/SKILL.md`, one
+    level deep. A recursive walk finds more files (nested bundles ship sub-skills
+    under `skills/`), but those are not separately managed skills, and quoting a
+    count that depends on the walker would make the README's number ambiguous.
+    """
+    full, descs, slugs = [], [], []
+    for child in sorted(root.iterdir()):
+        if not child.is_dir() or child.name in SKIP_DIRS or child.name.startswith("."):
+            continue
+        md = child / "SKILL.md"
+        if not md.is_file():
+            continue
+        slugs.append(child.name)
+        text = md.read_text(encoding="utf-8", errors="replace")
+        full.append(text)
+        m = FRONTMATTER.match(text)
+        if m:
+            d = re.search(r"^description:\s*(.+?)(?=^\w+:|\Z)", m.group(1),
+                          re.S | re.M)
+            if d:
+                descs.append(" ".join(d.group(1).split()))
+    return "\n".join(full), descs, slugs, len(full)
+
+
+def run_cli(args: list[str]) -> str:
+    r = subprocess.run([sys.executable, "-m", "mcptoon", *args],
+                       capture_output=True, text=True, encoding="utf-8")
+    return r.stdout
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--roots", nargs="+",
+                    default=[str(Path.home() / ".claude" / "skills")],
+                    help="skill source directories (default: ~/.claude/skills)")
+    ap.add_argument("--query", default="make a PDF", help="query for the resolve probe")
+    ap.add_argument("-k", type=int, default=5, help="resolve shortlist size")
+    ap.add_argument("--json", action="store_true")
+    args = ap.parse_args()
+
+    encode, tokname = tokenizer()
+
+    roots = [Path(r).expanduser() for r in args.roots]
+    roots = [r for r in roots if r.is_dir()]
+    if not roots:
+        print("No skill source directory found. Pass --roots <dir>.", file=sys.stderr)
+        return 1
+
+    full_text, descs, slugs, n = "", [], [], 0
+    for r in roots:
+        t, d, sl, c = collect(r)
+        full_text += "\n" + t
+        descs += d
+        slugs += sl
+        n += c
+
+    full_tok = encode(full_text)
+    desc_tok = sum(encode(d) for d in descs) if descs else 0
+    names_tok = encode(" ".join(slugs))
+    manifest_tok = encode(run_cli(["skills", "manifest"]).strip())
+    resolve_tok = encode(run_cli(["skills", "resolve", args.query, "--k", str(args.k), "--json"]))
+
+    def pct(a, b):
+        # Two decimals would round 39/961,164 to "100.0%", which reads as a typo.
+        # Three decimals keeps the honest 99.996%.
+        return round((1 - a / b) * 100, 3) if b else None
+
+    out = {
+        "tokenizer": tokname,
+        "roots": [str(r) for r in roots],
+        "skills": n,
+        "full_body_tokens": full_tok,
+        "description_only_tokens": desc_tok,
+        "name_index_tokens": names_tok,
+        "manifest_tokens": manifest_tok,
+        "resolve_k_tokens": resolve_tok,
+        "resolve_k": args.k,
+        "manifest_vs_full_pct": pct(manifest_tok, full_tok),
+        "resolve_vs_full_pct": pct(resolve_tok, full_tok),
+        "description_only_vs_full_pct": pct(desc_tok, full_tok),
+        "name_index_vs_full_pct": pct(names_tok, full_tok),
+        "windows_128k": round(full_tok / 131072, 2),
+    }
+
+    if args.json:
+        print(json.dumps(out, indent=2))
+        return 0
+
+    print(f"tokenizer: {tokname}")
+    print(f"roots    : {', '.join(out['roots'])}")
+    print(f"SKILL.md : {n} files in the source (one level deep; alias dirs included,")
+    print(f"           which is what the token cost is charged against)\n")
+    print("  what the agent loads                        tokens     vs full")
+    print("  " + "-" * 62)
+    print(f"  every SKILL.md, full text            {full_tok:>12,}          -")
+    print(f"  every skill description only         {desc_tok:>12,}    {out['description_only_vs_full_pct']}%")
+    print(f"  every skill NAME only (name index)   {names_tok:>12,}    {out['name_index_vs_full_pct']}%")
+    print(f"  mcptoon skills manifest (pointer)    {manifest_tok:>12,}    {out['manifest_vs_full_pct']}%")
+    print(f"  mcptoon skills resolve -k {args.k} (one lookup)  {resolve_tok:>12,}    {out['resolve_vs_full_pct']}%")
+    print()
+    print(f"  the full catalog is {out['windows_128k']} x a 128K context window")
+    print()
+    print("  NOTE the two different jobs, so the ratio is not misread:")
+    print(f"    - manifest ({manifest_tok} tok) is a POINTER: it holds no skill names.")
+    print(f"    - the name index ({names_tok:,} tok) is what a skills-as-tool manifest")
+    print(f"      would cost: every skill name, still {out['name_index_vs_full_pct']}% below full text.")
+    print(f"    - one resolve ({resolve_tok} tok) replaces loading the catalog at all.")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

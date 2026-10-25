@@ -1,1 +1,108 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjExM2Mgwrcg5byV5pOO6YCa6Lev5L+u5aSNICsg55yf5a6e6L2o6L+55a+554WnCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KMTEzYiDnmoTlvJXmk47lm5vnu4TpgJDkvY3nm7jlkIwoMC4wMTgwNTc4NTA3MDM0NTM1NzMpIOKAlOKAlCDpnZnpu5jlpLHmlYg6CiAgTGlmZTUg6YeMIGlucHV0X3ZhbCDooqvjgJDor7vjgJHkuoYsIOS9hiBrX3NhbD0wIC8ga19zZWVrPTAgLyBrX3NlZWtfYXJyPTAg5YWo5Li66buY6K6kLAogIOaEn+efpemHj+agueacrOS4jei/m+WFpSB3YW50LCDkuo7mmK8i6K+75LqG5aSa5bCRIuS4jiLplb/miJDku4DkuYjmoLci6Kej6ICm44CCCiAg4oCU4oCUIOi/meaYr+WIpOaNruaguCAjNDQzIOmCo+S4gOexuzog6L+U5Zue5YC855yL552A5q2j5bi4LCDpgJrot6/mmK/mlq3nmoTjgIIKCuS/ruazlTog5omT5byAIGtfc2FsICjoh6rkuIvogIzkuIrms6jmhI8pLCDlubblhYjlgZrpmLPmgKflr7nnhafor4HmmI4gaW5wdXRfdmFsIOecn+eahOi/m+S6huWKqOWKm+WtpuOAggoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHRpbWUKaW1wb3J0IG51bXB5IGFzIG5wCgpzeXMucGF0aC5pbnNlcnQoMCwgIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xIikKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKZnJvbSBydW4xMTMgaW1wb3J0IFJlYWxFeWUsIFJlYWxIYW5kLCBydW5fYWdlbnQsIEdXCmZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKCk9VVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoNDI0MikKS19TQUwgPSAwLjYwICAgICAjIOaJk+W8gOaEn+efpemAmui3rwoKCmRlZiBydW5fc3RyZWFtKHNlcSwgc2VlZHM9MTYsIHN0ZXBzPTI0MCwgcmF0aW89MC42MCwga19zYWw9S19TQUwpOgogICAgeXMsIGFsaXZlID0gW10sIDAKICAgIGZvciBzZCBpbiByYW5nZShzZWVkcyk6CiAgICAgICAgTCA9IExpZmU1KE49OCwgc2VlZD1zZCwgcmF0aW89cmF0aW8sIGtfc2FsPWtfc2FsKQogICAgICAgIHNhbCA9IG5wLm9uZXMoOCkgKiAwLjEKICAgICAgICBMLnNhbCA9IHNhbAogICAgICAgIGZvciB0IGluIHJhbmdlKHN0ZXBzKToKICAgICAgICAgICAgTC5pbnB1dF92YWwgPSBmbG9hdChzZXFbdCAlIGxlbihzZXEpXSkKICAgICAgICAgICAgTC5zdGVwKCkKICAgICAgICAgICAgaWYgbm90IEwuYWxpdmU6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgIGlmIEwuYWxpdmU6CiAgICAgICAgICAgIGFsaXZlICs9IDEKICAgICAgICAgICAgeXMuYXBwZW5kKGZsb2F0KG5wLnN0ZChMLnkpKSkKICAgIHJldHVybiBkaWN0KGFsaXZlPWFsaXZlLCBuPXNlZWRzLCBza2V3PWZsb2F0KG5wLm1lYW4oeXMpKSBpZiB5cyBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICBzZD1mbG9hdChucC5zdGQoeXMpKSBpZiBsZW4oeXMpID4gMSBlbHNlIE5vbmUpCgoKZGVmIG1haW4oKToKICAgIHQwID0gdGltZS50aW1lKCkKICAgICMgLS0tLS0tLS0tLSDpmLPmgKflr7nnhac6IGlucHV0X3ZhbCDnnJ/nmoTov5vliqjlipvlrabkuoblkJcgLS0tLS0tLS0tLQogICAgcG9zID0ge30KICAgIGZvciB0YWcsIHZhbCBpbiBbKCJ6ZXJvIiwgMC4wKSwgKCJjb25zdF9oaSIsIDAuOSksICgiY29uc3RfbG8iLCAwLjEpXToKICAgICAgICBwb3NbdGFnXSA9IHJ1bl9zdHJlYW0obnAuYXJyYXkoW3ZhbF0pKQogICAgc2VucyA9IChwb3NbImNvbnN0X2hpIl1bInNrZXciXSBpcyBub3QgTm9uZSBhbmQgcG9zWyJ6ZXJvIl1bInNrZXciXSBpcyBub3QgTm9uZQogICAgICAgICAgICBhbmQgYWJzKHBvc1siY29uc3RfaGkiXVsic2tldyJdIC0gcG9zWyJ6ZXJvIl1bInNrZXciXSkgPiAxZS02KQogICAgcHJpbnQoZiJbcG9zaXRpdmVdIHplcm89e3Bvc1snemVybyddWydza2V3J119IGhpPXtwb3NbJ2NvbnN0X2hpJ11bJ3NrZXcnXX0gIgogICAgICAgICAgZiJsbz17cG9zWydjb25zdF9sbyddWydza2V3J119ICDpgJrot6/mnInmlYg9e3NlbnN9IikKCiAgICAjIC0tLS0tLS0tLS0g55yf5a6e6L2o6L+5IC0tLS0tLS0tLS0KICAgIGV5ZSA9IFJlYWxFeWUoKTsgaGFuZCA9IFJlYWxIYW5kKGVuYWJsZWQ9VHJ1ZSkKICAgIGFzc2VydCBleWUucHJvdmVuYW5jZSA9PSAiUkVBTCIgYW5kIGhhbmQucHJvdmVuYW5jZSA9PSAiUkVBTCIKICAgIHNhbF9tYXAgPSBucC5hcnJheShbMS4wIGlmIChpICUgR1cpID49IEdXIC8vIDIgZWxzZSAwLjEgZm9yIGkgaW4gcmFuZ2UoR1cgKiA2KV0pCgogICAgZGVmIHJlYWxfdHJhaihraW5kLCBudHJpYWw9NiwgKiprdyk6CiAgICAgICAgc2VxID0gW10KICAgICAgICBvcmlnID0gZXllLmxvb2sKICAgICAgICBkZWYgcmVjKGN4LCBjeSk6CiAgICAgICAgICAgIG0gPSBvcmlnKGN4LCBjeSk7IHNlcS5hcHBlbmQobSk7IHJldHVybiBtCiAgICAgICAgZXllLmxvb2sgPSByZWMKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJ1bl9hZ2VudChraW5kLCAiQSIsIG50cmlhbCwgMTIsIGV5ZSwgaGFuZCwgKiprdykKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBleWUubG9vayA9IG9yaWcKICAgICAgICByZXR1cm4gbnAuYXNhcnJheShzZXEsIGZsb2F0KQoKICAgIFEgPSBucC56ZXJvcygoR1cgKiA2LCBHVyAqIDYpKSArIDAuMDEKICAgIGVwcyA9IDEuMAogICAgZm9yIF8gaW4gcmFuZ2UoODAwKToKICAgICAgICBydW5fYWdlbnQoImxlYXJuZWQiLCAiQSIsIDEsIDEyLCBleWUsIGhhbmQsIFE9USwgZXBzPWVwcywgdHJhaW49VHJ1ZSkKICAgICAgICBlcHMgPSBtYXgoMC4wNSwgZXBzICogMC45OTUpCgogICAgdHJhaiA9IHsibm9uZSI6IG5wLnplcm9zKDcyKSwKICAgICAgICAgICAgInByZXNldCI6IHJlYWxfdHJhaigicHJlc2V0Iiwgc2FsPXNhbF9tYXApLAogICAgICAgICAgICAibGVhcm5lZCI6IHJlYWxfdHJhaigibGVhcm5lZCIsIFE9USwgdHJhaW49RmFsc2UpLAogICAgICAgICAgICAiYmxpbmQiOiByZWFsX3RyYWooImJsaW5kIil9CiAgICBnbWF4ID0gbWF4KGZsb2F0KG5wLm1heCh2KSkgZm9yIHYgaW4gdHJhai52YWx1ZXMoKSkKICAgIHRyYWogPSB7azogdiAvIGdtYXggZm9yIGssIHYgaW4gdHJhai5pdGVtcygpfQogICAgZm9yIGssIHYgaW4gdHJhai5pdGVtcygpOgogICAgICAgIHByaW50KGYiICB0cmFqIHtrOjhzfSBuPXtsZW4odil9IG1lYW49e3YubWVhbigpOi40Zn0gbWF4PXt2Lm1heCgpOi40Zn0gc3RkPXt2LnN0ZCgpOi40Zn0iKQogICAgaGFuZC5kZXN0cm95KCkKCiAgICBlbmcgPSB7azogcnVuX3N0cmVhbSh2KSBmb3IgaywgdiBpbiB0cmFqLml0ZW1zKCl9CgogICAgIyDphY3lr7nlt64gKOWQjOenjeWtkOmFjeWvuSkKICAgIGRlZiBwYWlyZWQoYSwgYik6CiAgICAgICAgZGEsIGRiID0gW10sIFtdCiAgICAgICAgZm9yIHNkIGluIHJhbmdlKDE2KToKICAgICAgICAgICAgdmEgPSBydW5fc3RyZWFtKHRyYWpbYV0sIHNlZWRzPTEsIClbInNrZXciXSAgICAgICMg5Y2V56eN5a2Q5LiN5Y+v6Z2gLCDmlLnnlKjlhajph48KICAgICAgICByZXR1cm4gTm9uZQoKICAgIG91dCA9IGRpY3QocG9zaXRpdmU9cG9zLCBwYXRod2F5X3NlbnNpdGl2ZT1ib29sKHNlbnMpLCBlbmdpbmU9ZW5nLAogICAgICAgICAgICAgICB0cmFqX3N0YXRzPXtrOiBkaWN0KG1lYW49ZmxvYXQodi5tZWFuKCkpLCBzdGQ9ZmxvYXQodi5zdGQoKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4PWZsb2F0KHYubWF4KCkpKSBmb3IgaywgdiBpbiB0cmFqLml0ZW1zKCl9LAogICAgICAgICAgICAgICBzZWNzPWZsb2F0KHRpbWUudGltZSgpIC0gdDApKQogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHQxMTNjLmpzb24iKSwgInciKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChvdXQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBmb3IgaywgdiBpbiBlbmcuaXRlbXMoKToKICAgICAgICBwcmludChmIiAgW2VuZ2luZV0ge2s6OHN9IGFsaXZlPXt2WydhbGl2ZSddfS8xNiBza2V3PXt2Wydza2V3J119IikKICAgIHByaW50KGpzb24uZHVtcHMob3V0LCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKVs6OTAwXSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""
+113c · 引擎通路修复 + 真实轨迹对照
+================================================================
+113b 的引擎四组逐位相同(0.018057850703453573) —— 静默失效:
+  Life5 里 input_val 被【读】了, 但 k_sal=0 / k_seek=0 / k_seek_arr=0 全为默认,
+  感知量根本不进入 want, 于是"读了多少"与"长成什么样"解耦。
+  —— 这是判据核 #443 那一类: 返回值看着正常, 通路是断的。
+
+修法: 打开 k_sal (自下而上注意), 并先做阳性对照证明 input_val 真的进了动力学。
+"""
+import os, sys, json, time
+import numpy as np
+
+sys.path.insert(0, "/data/workspace/luoshen-o1")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from run113 import RealEye, RealHand, run_agent, GW
+from core.life5 import Life5
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+rng = np.random.default_rng(4242)
+K_SAL = 0.60     # 打开感知通路
+
+
+def run_stream(seq, seeds=16, steps=240, ratio=0.60, k_sal=K_SAL):
+    ys, alive = [], 0
+    for sd in range(seeds):
+        L = Life5(N=8, seed=sd, ratio=ratio, k_sal=k_sal)
+        sal = np.ones(8) * 0.1
+        L.sal = sal
+        for t in range(steps):
+            L.input_val = float(seq[t % len(seq)])
+            L.step()
+            if not L.alive:
+                break
+        if L.alive:
+            alive += 1
+            ys.append(float(np.std(L.y)))
+    return dict(alive=alive, n=seeds, skew=float(np.mean(ys)) if ys else None,
+                sd=float(np.std(ys)) if len(ys) > 1 else None)
+
+
+def main():
+    t0 = time.time()
+    # ---------- 阳性对照: input_val 真的进动力学了吗 ----------
+    pos = {}
+    for tag, val in [("zero", 0.0), ("const_hi", 0.9), ("const_lo", 0.1)]:
+        pos[tag] = run_stream(np.array([val]))
+    sens = (pos["const_hi"]["skew"] is not None and pos["zero"]["skew"] is not None
+            and abs(pos["const_hi"]["skew"] - pos["zero"]["skew"]) > 1e-6)
+    print(f"[positive] zero={pos['zero']['skew']} hi={pos['const_hi']['skew']} "
+          f"lo={pos['const_lo']['skew']}  通路有效={sens}")
+
+    # ---------- 真实轨迹 ----------
+    eye = RealEye(); hand = RealHand(enabled=True)
+    assert eye.provenance == "REAL" and hand.provenance == "REAL"
+    sal_map = np.array([1.0 if (i % GW) >= GW // 2 else 0.1 for i in range(GW * 6)])
+
+    def real_traj(kind, ntrial=6, **kw):
+        seq = []
+        orig = eye.look
+        def rec(cx, cy):
+            m = orig(cx, cy); seq.append(m); return m
+        eye.look = rec
+        try:
+            run_agent(kind, "A", ntrial, 12, eye, hand, **kw)
+        finally:
+            eye.look = orig
+        return np.asarray(seq, float)
+
+    Q = np.zeros((GW * 6, GW * 6)) + 0.01
+    eps = 1.0
+    for _ in range(800):
+        run_agent("learned", "A", 1, 12, eye, hand, Q=Q, eps=eps, train=True)
+        eps = max(0.05, eps * 0.995)
+
+    traj = {"none": np.zeros(72),
+            "preset": real_traj("preset", sal=sal_map),
+            "learned": real_traj("learned", Q=Q, train=False),
+            "blind": real_traj("blind")}
+    gmax = max(float(np.max(v)) for v in traj.values())
+    traj = {k: v / gmax for k, v in traj.items()}
+    for k, v in traj.items():
+        print(f"  traj {k:8s} n={len(v)} mean={v.mean():.4f} max={v.max():.4f} std={v.std():.4f}")
+    hand.destroy()
+
+    eng = {k: run_stream(v) for k, v in traj.items()}
+
+    # 配对差 (同种子配对)
+    def paired(a, b):
+        da, db = [], []
+        for sd in range(16):
+            va = run_stream(traj[a], seeds=1, )["skew"]      # 单种子不可靠, 改用全量
+        return None
+
+    out = dict(positive=pos, pathway_sensitive=bool(sens), engine=eng,
+               traj_stats={k: dict(mean=float(v.mean()), std=float(v.std()),
+                                   max=float(v.max())) for k, v in traj.items()},
+               secs=float(time.time() - t0))
+    with open(os.path.join(OUT, "result113c.json"), "w") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    for k, v in eng.items():
+        print(f"  [engine] {k:8s} alive={v['alive']}/16 skew={v['skew']}")
+    print(json.dumps(out, ensure_ascii=False, indent=2)[:900])
+
+
+if __name__ == "__main__":
+    main()

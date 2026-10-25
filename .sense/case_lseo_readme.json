@@ -1,1 +1,25 @@
-ewogICJjYXNlIjogImx1b3NoZW4tZW8gUkVBRE1FIOWjsOensOeahCBtc2UgdnMg5a6e6LeR77yIc2VlZCDlm7rlrpogNDLvvIkiLAogICJjaGFubmVsX2EiOiB7CiAgICAibGFiZWwiOiAiUkVBRE1FIOWjsOensCBlb19ydW5fdjMucHkg55qEIG1zZSIsCiAgICAidmFsdWUiOiA0LjczLAogICAgInVuaXQiOiAibXNlIgogIH0sCiAgImNoYW5uZWxfYiI6IHsKICAgICJsYWJlbCI6ICLmnKzmnLrlrp7ot5EgZW9fcnVuX3YzLnB5IOeahCBtc2XvvIhzZWVkPTQy77yM6LeR5Lik6YGN5LiA6Ie077yJIiwKICAgICJ2YWx1ZSI6IDAuNDI2NCwKICAgICJ1bml0IjogIm1zZSIKICB9LAogICJ0b2xlcmFuY2UiOiAwLjA1LAogICJwYXJhbXMiOiBbCiAgICB7Im5hbWUiOiAicmFuZG9tLnNlZWQoNDIpIOWbuuWumiIsICJzcmMiOiAiZW9fcnVuX3YzLnB5OjEyNiJ9LAogICAgeyJuYW1lIjogIlJFQURNRSDlo7Dnp7AgNC43M+KGkjAuMDA3IiwgInNyYyI6ICJSRUFETUUubWQg5raM546w6aqM6K+B57uT5p6cIOWujOaVtEVP5raM546wIn0sCiAgICB7Im5hbWUiOiAi5a6e6LeRIDAuNDI2NOKGkjAuMjQ5NiIsICJzcmMiOiAi5pys5py65Lik5qyh6L+Q6KGM6L6T5Ye65LiA6Ie0In0KICBdLAogICJhYmxhdGlvbl9pbnNpZGVfbW9kZWxfb25seSI6IGZhbHNlLAogICJyYW5fcmVhbF9zeXN0ZW0iOiB0cnVlLAogICJkZWNsYXJlZF91bmtub3ducyI6IFsKICAgICI0LjczIOaYr+aUuSBzZWVkIOWJjeeahOaXp+aVsOOAgei/mOaYr+aUueS7o+eggeWJjeeahOaXp+aVsO+8jOaIkeS4jeefpemBkyIsCiAgICAi5LuW6ICF55CG6Kej5bqmIDAuNTDihpIwLjk5MzAg5LiOIFJFQURNRSDnmoQgMC41MOKGkjAuOTkg5a+55b6X5LiK77yM6L+Z5p2h5piv55yf55qEIgogIF0KfQo=
+{
+  "case": "luoshen-eo README 声称的 mse vs 实跑（seed 固定 42）",
+  "channel_a": {
+    "label": "README 声称 eo_run_v3.py 的 mse",
+    "value": 4.73,
+    "unit": "mse"
+  },
+  "channel_b": {
+    "label": "本机实跑 eo_run_v3.py 的 mse（seed=42，跑两遍一致）",
+    "value": 0.4264,
+    "unit": "mse"
+  },
+  "tolerance": 0.05,
+  "params": [
+    {"name": "random.seed(42) 固定", "src": "eo_run_v3.py:126"},
+    {"name": "README 声称 4.73→0.007", "src": "README.md 涌现验证结果 完整EO涌现"},
+    {"name": "实跑 0.4264→0.2496", "src": "本机两次运行输出一致"}
+  ],
+  "ablation_inside_model_only": false,
+  "ran_real_system": true,
+  "declared_unknowns": [
+    "4.73 是改 seed 前的旧数、还是改代码前的旧数，我不知道",
+    "他者理解度 0.50→0.9930 与 README 的 0.50→0.99 对得上，这条是真的"
+  ]
+}

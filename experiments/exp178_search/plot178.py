@@ -1,1 +1,80 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQppbXBvcnQganNvbiwgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgnQWdnJykKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IGZvbnRfbWFuYWdlcgoKZm9yIGYgaW4gWydXZW5RdWFuWWkgTWljcm8gSGVpJywgJ05vdG8gU2FucyBDSksgU0MnLCAnU2ltSGVpJ106CiAgICB0cnk6CiAgICAgICAgZm9udF9tYW5hZ2VyLmZpbmRmb250KGYsIGZhbGxiYWNrX3RvX2RlZmF1bHQ9RmFsc2UpCiAgICAgICAgcGx0LnJjUGFyYW1zWydmb250LnNhbnMtc2VyaWYnXSA9IFtmXQogICAgICAgIGJyZWFrCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGNvbnRpbnVlCnBsdC5yY1BhcmFtc1snYXhlcy51bmljb2RlX21pbnVzJ10gPSBGYWxzZQoKQiA9ICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNzhfc2VhcmNoJwpjID0ganNvbi5sb2FkKG9wZW4oQiArICcvcmVzdWx0MTc4Yy5qc29uJywgZW5jb2Rpbmc9J3V0Zi04JykpCmQgPSBqc29uLmxvYWQob3BlbihCICsgJy9yZXN1bHQxNzhkLmpzb24nLCBlbmNvZGluZz0ndXRmLTgnKSkKCgpkZWYgbSh4cyk6CiAgICByZXR1cm4gc3VtKHhzKSAvIGxlbih4cykKCgpmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKDEsIDMsIGZpZ3NpemU9KDE2LjUsIDQuOCkpCgojIOW3pjog6L+36Iyr56iL5bqmIHZzIOWklumDqOebuOWvueS8mOWKvwpiYW5kcyA9IHJhbmdlKDEwKQpzdXJwID0gW20oW3JbJ2JhbmRzJ11bYl1bJ21lYW5fc3VycCddIGZvciByIGluIGNdKSBmb3IgYiBpbiBiYW5kc10KYWR2ID0gW20oW3JbJ2JhbmRzJ11bYl1bJ2Fkdl9leHRfb3Zlcl9pbnQnXSBmb3IgciBpbiBjXSkgZm9yIGIgaW4gYmFuZHNdCmhoID0gW20oW3JbJ2JhbmRzJ11bYl1bJ21lYW5fSCddIGZvciByIGluIGNdKSBmb3IgYiBpbiBiYW5kc10KYXhbMF0ucGxvdChiYW5kcywgYWR2LCAnby0nLCBjb2xvcj0nI2MwMzkyYicsIGx3PTIsIGxhYmVsPSflpJbpg6gt5YaF6YOoIChiaXRzKScpCmF4WzBdLnNldF94bGFiZWwoJ+aMiei/t+iMq+eoi+W6pihIKeWIhuahoyAgMD3mnIDmnInmiormj6Eg4oaSIDk95pyA6L+36IyrJykKYXhbMF0uc2V0X3lsYWJlbCgn5aSW6YOo55u45a+55YaF6YOoIChiaXRzKScsIGNvbG9yPScjYzAzOTJiJykKYXhbMF0uYXhobGluZSgwLCBjb2xvcj0nZ3JheScsIGxzPSc6JywgbHc9MSkKYXhbMF0uc2V0X3RpdGxlKCfmiJHotorov7fojKssIOWklumDqOebuOWvuei2iuS4jeW3rlxuKOS9huWFqOeoi+S4uui0nzog5aSW6YOo5rC46L+c5LiN6IO95pu/5Luj5oiRKScsIGZvbnRzaXplPTExKQphMiA9IGF4WzBdLnR3aW54KCkKYTIucGxvdChiYW5kcywgc3VycCwgJ3MtLScsIGNvbG9yPScjMmMzZTUwJywgbHc9MS41LCBsYWJlbD0n5oiR55qE5oOK6K62JykKYTIuc2V0X3lsYWJlbCgn5oiR55qE5oOK6K62IChiaXRzKScsIGNvbG9yPScjMmMzZTUwJykKYXhbMF0uZ3JpZChhbHBoYT0uMykKCiMg5LitOiDor6Xkv6HlpJbpg6jlpJrlsJEKbGFtcyA9IFsnMC4wNScsICcwLjEwJywgJzAuMjAnLCAnMC4zMCcsICcwLjUwJywgJzAuNzAnLCAnMS4wMCddCnhzID0gW2Zsb2F0KHgpIGZvciB4IGluIGxhbXNdCmZvciBYZiwgY29sIGluIFsoJ1gwLjEwJywgJyM3ZjhjOGQnKSwgKCdYMC4yMCcsICcjMjk4MGI5JyksCiAgICAgICAgICAgICAgICAoJ1gwLjMwJywgJyNjMDM5MmInKSwgKCdYMC41MCcsICcjMjdhZTYwJyldOgogICAgeXMgPSBbbShbclsnbGFtX3N3ZWVwJ11bWGZdW2xdIGZvciByIGluIGNdKSBmb3IgbCBpbiBsYW1zXQogICAgYXhbMV0ucGxvdCh4cywgeXMsICdvLScsIGNvbG9yPWNvbCwgbHc9MiwgbGFiZWw9J+aQnCcgKyBYZlsxOl0gKyAn55qE5L2N572uJykKYXhbMV0uYXhobGluZSgwLCBjb2xvcj0naycsIGx3PS44KQpheFsxXS5zZXRfeHNjYWxlKCdsb2cnKQpheFsxXS5zZXRfeHRpY2tzKHhzKQpheFsxXS5zZXRfeHRpY2tsYWJlbHMobGFtcykKYXhbMV0uc2V0X3hsYWJlbCgn5L+h5Lu75aSW6YOo55qE56iL5bqmIM67JykKYXhbMV0uc2V0X3lsYWJlbCgnYml0cy/lrZfnrKYg5Y+Y5YyWICjotJ895pS55ZaEKScpCmF4WzFdLnNldF90aXRsZSgn5pyA5LyYIM674omIMC4yfjAuMywg5YWo5L+h5aSW6YOoKM67PTEp5piv54G+6Zq+JywgZm9udHNpemU9MTEpCmF4WzFdLmxlZ2VuZChmb250c2l6ZT04KQpheFsxXS5ncmlkKGFscGhhPS4zKQoKIyDlj7M6IOaUtuebiuadpeiHquS/oeaBr+i/mOaYr+W5s+a7kQpuYW1lcyA9IFsncmVhbCcsICdzaHVmZmxlZCcsICdzZWxmJ10KbGFiZWxzID0gWyfnnJ/lpJbpg6gnLCAn5omT5Lmx55qE5aSW6YOoXG4o5Y+q5Ymp5a2X56ym6aKR546HKScsICfoh6rlt7HlvZPlpJbpg6hcbijlr7nnhacpJ10Ka2V5cyA9IFsoJ2J5X2FkdicsICfmjInkvJjlir/pgIknLCAnI2MwMzkyYicpLCAoJ2J5X0gnLCAn5oyJ6L+36Iyr5oSf6YCJJywgJyMyOTgwYjknKSwKICAgICAgICAoJ3JhbmQnLCAn6ZqP5py6JywgJyM3ZjhjOGQnKSwgKCdhbGwnLCAn5YWo55uYJywgJyMyN2FlNjAnKV0KaW1wb3J0IG51bXB5IGFzIG5wCncgPSAwLjIKZm9yIGosIChrLCBsYWIsIGNvbCkgaW4gZW51bWVyYXRlKGtleXMpOgogICAgdmFscyA9IFttKFtyW2tdIGZvciByIGluIGRbbl1dKSBmb3IgbiBpbiBuYW1lc10KICAgIGF4WzJdLmJhcihucC5hcmFuZ2UoMykgKyBqICogdyAtIDAuMywgdmFscywgdywgbGFiZWw9bGFiLCBjb2xvcj1jb2wpCmF4WzJdLnNldF94dGlja3MobnAuYXJhbmdlKDMpKQpheFsyXS5zZXRfeHRpY2tsYWJlbHMobGFiZWxzLCBmb250c2l6ZT05KQpheFsyXS5heGhsaW5lKDAsIGNvbG9yPSdrJywgbHc9LjgpCmF4WzJdLnNldF95bGFiZWwoJ2JpdHMv5a2X56ymIOWPmOWMlicpCmF4WzJdLnNldF90aXRsZSgn5pS255uK5YiG6KejOiDnnJ/kv6Hmga/lj6rljaAgMzUlXG4oLTAuODc4IHZzIOaJk+S5sSAtMC41NjgpJywgZm9udHNpemU9MTEpCmF4WzJdLmxlZ2VuZChmb250c2l6ZT04KQpheFsyXS5ncmlkKGFscGhhPS4zLCBheGlzPSd5JykKCnBsdC50aWdodF9sYXlvdXQoKQpwbHQuc2F2ZWZpZyhCICsgJy9yZW5kZXIxNzgucG5nJywgZHBpPTExMCkKcHJpbnQoJ3NhdmVkJywgQiArICcvcmVuZGVyMTc4LnBuZycpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import json, matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+for f in ['WenQuanYi Micro Hei', 'Noto Sans CJK SC', 'SimHei']:
+    try:
+        font_manager.findfont(f, fallback_to_default=False)
+        plt.rcParams['font.sans-serif'] = [f]
+        break
+    except Exception:
+        continue
+plt.rcParams['axes.unicode_minus'] = False
+
+B = '/data/workspace/luoshen-o1/experiments/exp178_search'
+c = json.load(open(B + '/result178c.json', encoding='utf-8'))
+d = json.load(open(B + '/result178d.json', encoding='utf-8'))
+
+
+def m(xs):
+    return sum(xs) / len(xs)
+
+
+fig, ax = plt.subplots(1, 3, figsize=(16.5, 4.8))
+
+# 左: 迷茫程度 vs 外部相对优势
+bands = range(10)
+surp = [m([r['bands'][b]['mean_surp'] for r in c]) for b in bands]
+adv = [m([r['bands'][b]['adv_ext_over_int'] for r in c]) for b in bands]
+hh = [m([r['bands'][b]['mean_H'] for r in c]) for b in bands]
+ax[0].plot(bands, adv, 'o-', color='#c0392b', lw=2, label='外部-内部 (bits)')
+ax[0].set_xlabel('按迷茫程度(H)分档  0=最有把握 → 9=最迷茫')
+ax[0].set_ylabel('外部相对内部 (bits)', color='#c0392b')
+ax[0].axhline(0, color='gray', ls=':', lw=1)
+ax[0].set_title('我越迷茫, 外部相对越不差\n(但全程为负: 外部永远不能替代我)', fontsize=11)
+a2 = ax[0].twinx()
+a2.plot(bands, surp, 's--', color='#2c3e50', lw=1.5, label='我的惊讶')
+a2.set_ylabel('我的惊讶 (bits)', color='#2c3e50')
+ax[0].grid(alpha=.3)
+
+# 中: 该信外部多少
+lams = ['0.05', '0.10', '0.20', '0.30', '0.50', '0.70', '1.00']
+xs = [float(x) for x in lams]
+for Xf, col in [('X0.10', '#7f8c8d'), ('X0.20', '#2980b9'),
+                ('X0.30', '#c0392b'), ('X0.50', '#27ae60')]:
+    ys = [m([r['lam_sweep'][Xf][l] for r in c]) for l in lams]
+    ax[1].plot(xs, ys, 'o-', color=col, lw=2, label='搜' + Xf[1:] + '的位置')
+ax[1].axhline(0, color='k', lw=.8)
+ax[1].set_xscale('log')
+ax[1].set_xticks(xs)
+ax[1].set_xticklabels(lams)
+ax[1].set_xlabel('信任外部的程度 λ')
+ax[1].set_ylabel('bits/字符 变化 (负=改善)')
+ax[1].set_title('最优 λ≈0.2~0.3, 全信外部(λ=1)是灾难', fontsize=11)
+ax[1].legend(fontsize=8)
+ax[1].grid(alpha=.3)
+
+# 右: 收益来自信息还是平滑
+names = ['real', 'shuffled', 'self']
+labels = ['真外部', '打乱的外部\n(只剩字符频率)', '自己当外部\n(对照)']
+keys = [('by_adv', '按优势选', '#c0392b'), ('by_H', '按迷茫感选', '#2980b9'),
+        ('rand', '随机', '#7f8c8d'), ('all', '全盘', '#27ae60')]
+import numpy as np
+w = 0.2
+for j, (k, lab, col) in enumerate(keys):
+    vals = [m([r[k] for r in d[n]]) for n in names]
+    ax[2].bar(np.arange(3) + j * w - 0.3, vals, w, label=lab, color=col)
+ax[2].set_xticks(np.arange(3))
+ax[2].set_xticklabels(labels, fontsize=9)
+ax[2].axhline(0, color='k', lw=.8)
+ax[2].set_ylabel('bits/字符 变化')
+ax[2].set_title('收益分解: 真信息只占 35%\n(-0.878 vs 打乱 -0.568)', fontsize=11)
+ax[2].legend(fontsize=8)
+ax[2].grid(alpha=.3, axis='y')
+
+plt.tight_layout()
+plt.savefig(B + '/render178.png', dpi=110)
+print('saved', B + '/render178.png')

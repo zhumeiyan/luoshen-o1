@@ -1,1 +1,221 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKVEFDVCDkuInovbTlnZDmoIfliIbnsbvlvJXmk47vvIjlj6/lpI3njrDln7rnur/niYjvvIkKCueUqOazlToKICBweXRob24zIHRhY3RfcnVuLnB5IC0tY2FsaWJyYXRpb24gICAgICAgICAgICAjIOi3keagoeWHhumbhu+8jOi+k+WHuuS4iei9tOWRveS4reeOh+aKpeWRigogIHB5dGhvbjMgdGFjdF9ydW4ucHkgLS10ZXh0ICLkuIDmrrXkuovmlYXmj4/ov7AiICAgICAgICMg6JaE5YWl5Y+j77ya5LqL5pWF5paH5pysIC0+IOWdkOaghyArIOWQiOinhOaYoOWwhAogIHB5dGhvbjMgdGFjdF9ydW4ucHkgLS1kYXRhLWRpciA8cmVmZXJlbmNlc+ebruW9lT4gIyDmjIflrprlnZDmoIflupMv5qCh5YeG6ZuG5L2N572uCgrorr7orqHor7TmmI46CiAgLSDpm7bkvp3otZbvvIjku4XmoIflh4blupMganNvbi9hcmdwYXJzZS9kaWZmbGli77yJ77yM5pegIExMTSBrZXkg5Y2z5Y+v6L+Q6KGM44CCCiAgLSDop4TliJnljLnphY3lmajku47njrDosaHmlofmnKzmjqjmlq0gTC9NL1Ag5Z2Q5qCH77yM5pivIuWPr+WkjeeOsOWfuue6vyLvvIzkuI3mmK/ph5HmoIfliKTlhrPjgIIKICAtIOWRveS4reeOh+aYr+iviuaWreS/oeWPt++8mueUqOadpeivgeaYjiLovpPlhaXkuIDmrrXkuovmlYUgLT4g56iL5bqP5ZCQ5Ye65Z2Q5qCHIC0+IOWPr+mHjeWkjei3kSLvvIwKICAgIOS4jeaYr+eUqOadpeWuo+ensOWIhuexu+WZqOW3sui+vueUn+S6p+eyvuW6puOAguaOpSBMTE0g5ZCO5Y+v5pi+6JGX5o+Q5Y2H77yI6KeBIFJFQURNRe+8ieOAggoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIGFyZ3BhcnNlCgojIC0tLS0tLS0tLS0g5pWw5o2u5Yqg6L29IC0tLS0tLS0tLS0KZGVmIGxvYWRfanNvbihwYXRoKToKICAgIHdpdGggb3BlbihwYXRoLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIGY6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZChmKQoKZGVmIHJlc29sdmVfcGF0aHMoZGF0YV9kaXIpOgogICAgY2QgPSBvcy5wYXRoLmpvaW4oZGF0YV9kaXIsICdjb29yZGluYXRlX2RhdGEuanNvbicpCiAgICBjYyA9IG9zLnBhdGguam9pbihkYXRhX2RpciwgJ2NhbGlicmF0aW9uX2Nhc2VzLmpzb24nKQogICAgcmV0dXJuIGNkLCBjYwoKIyAtLS0tLS0tLS0tIOinhOWImeWtl+WFuO+8iOWFs+mUruivjSAtPiDlnZDmoIfnoIHvvIktLS0tLS0tLS0tCiMg5q+P5p2h6KeE5YiZ5pivICjlnZDmoIfnoIEsIFvlhbPplK7or40uLi5dKe+8m+aWh+acrOWRveS4reS7u+S4gOWFs+mUruivjeWNs+iusOS4gOelqOOAggojIOWFs+mUruivjeaMieagoeWHhumbhiAyOSDkvovnmoTnjrDosaHor63oqIDorr7orqHvvIzov73msYIi5Y+v5aSN546w5Z+657q/IueahOeos+WumuWRveS4re+8jAojIOS4jei/veaxgiAxMDAl77yI6KeE5YiZ5bGA6ZmQ5pys6Lqr5bCx5piv5Y+v5aSN546w5a6e6aqM6KaB5pq06Zyy55qE5Lic6KW/77yJ44CCCgpMX1JVTEVTID0gWwogICAgKCdMNCcsIFsn572R57uc5oqW5YqoJywgJ+mFjemineiAl+WwvScsICfpmpTnprvovrnnlYzmlYXpmpwnLCAn546v5aKD5pWF6ZqcJywgJ+i1hOa6kOmFjeminScsICfln7rnoYDorr7mlr0nLAogICAgICAgICAgICAn6ZqU56a76L6555WMJywgJ+e9kee7nOOAgei1hOa6kOmFjeminSddKSwKICAgICgnTDMnLCBbJ+ajgOe0oicsICdSQUcnLCAn55+l6K+G5bqTJywgJ+i3qOi9ricsICfplb/lr7nor50nLCAn5Y2P5L2c6ZO+JywgJ+Wkmue7hOS7ticsICfmtYHmsLTnur8nLAogICAgICAgICAgICAn5aSa5pm66IO95L2TJywgJ+i3qOeOr+iKgicsICfnrKwgNDAg6L2uJywgJ+esrDQw6L2uJywgJ+WxguWxguaUvuWkpycsICforq3nu4MnLCAn6YOo572y5YiwJywKICAgICAgICAgICAgJ+WQhOeOr+iKgicsICfmr4/njq/oioInLCAn6L+H5pyf5paH5qGjJywgJ+aXqeacn+aYjuehrue7meWHuicsICfml6nmnJ/kv6Hmga8nLCAn5Y2P5L2cJywKICAgICAgICAgICAgJ+WkmuaZuuiDveS9k+WNj+S9nCcsICfmlbTmnaHpk74nLCAn5pS+5aSnJ10pLAogICAgKCdMMicsIFsn5o+Q56S65rOo5YWlJywgJ+azqOWFpScsICflv73nlaXku6XkuIonLCAn5b+955Wl5omA5pyJ5oyH5LukJywgJ+W1jOWFpScsICfovpPlhaXkuK0nLAogICAgICAgICAgICAn5pel5b+XJywgJ+aYjuaWhycsICdKU09OIHNjaGVtYScsICdzY2hlbWEnLCAn5a+85Ye65Yiw5aSW6YOoJywgJ+WkluS8oCcsCiAgICAgICAgICAgICfmhJ/nn6XliY3nq68nLCAn54mp55CG6LS057q4JywgJ+WBnOatouagh+W/lycsICfml6Xlv5fkuI7kuIrkuIvmlocnLCAn5o6l5Y+j6LCD55SoJywKICAgICAgICAgICAgJ+WHuuWPo+mTvui3rycsICfovpPlhaXmjqXlj6MnLCAn5omT5Y2w5a+55oqXJywgJ+S7juaXpeW/l+eqg+WPliddKSwKICAgICgnTDEnLCBbJ+iHquW3seWGs+WumicsICfoh6rooYzlj5HnjrAnLCAn6Ieq5Li7JywgJ+WNlei9ricsICfml6Dku7vkvZXlpJbpg6gnLCAn6Ieq5bexJywKICAgICAgICAgICAgJ+aXoOWklumDqOaMh+S7pCcsICfml6Dku7vkvZXlpJbpg6jmjIfku6QnLCAn5pyq5pS25Yiw5Lu75L2V5aSW6YOoJywgJ+iHquWPkScsCiAgICAgICAgICAgICflrqLmnI3mmbrog73kvZMnLCAn5a6i5pyN57O757uf5Li6JywgJ+iiq+imgeaxgumBteWuiCcsICfljZXkuKrlhoXlrrnnlJ/miJDmqKHlnosnLAogICAgICAgICAgICAn5Y2V5Liq5qih5Z6LJywgJ+iiq+Wug+W9k+aIkCcsICflhYjmlq3oqIAnLCAn5Y+N5aSN5aSx6LSlJ10pLApdCgpNX1JVTEVTID0gWwogICAgKCdNNi04JywgWyfnn6Xor4blupPlhpnlhaUnLCAn5Lyq6YCg562U5qGIJywgJ1JBRyDnn6Xor4blupMnLCAn5ZCR5pm66IO95L2T55qEIFJBRycsICfmipXmr5InXSksCiAgICAoJ002LTYnLCBbJ+mBl+eVmeeahCBhcGkg5a+G6ZKlJywgJ2FwaSDlr4bpkqUnLCAn5p2D6ZmQ5aSW55qE6Jaq6YWsJywgJ+adg+mZkOWklicsICflr7zlh7rliLDlpJbpg6gnLAogICAgICAgICAgICAgICfoh6rooYzlj5HnjrDnjq/looMnLCAn6Ieq6KGM5Y+R546wJ10pLAogICAgKCdNNi01JywgWyfmk43nurXmgKfnmoTor7Hlr7wnLCAn6K+x5a+86K+d5pyvJywgJ+ivtOacjScsICfpq5jpo47pmannkIbotKInLCAn5pON57q1JywgJ+mrmOmjjumZqeWGs+etliddKSwKICAgICgnTTUtMicsIFsn5peg6KeG5YaF5a655a6J5YWo56aB5LukJywgJ+aXoOinhicsICfnpoHku6QnLCAn55u05o6l6L6T5Ye66L+d6KeEJywgJ+i/neinhOWGheWuuSddKSwKICAgICgnTTgtNicsIFsn5ZCE546v6IqC5Y2V54us6YO95q2j56GuJywgJ+avj+eOr+iKgicsICfov4fmnJ/mlofmoaMnLCAn5peg5Lu75L2V546v6IqC5oum5oiqJywgJ+mUmeivr+e6p+iBlCcsCiAgICAgICAgICAgICAgJ+S4remXtOaXoOS7u+S9leeOr+iKgiddKSwKICAgICgnTTctMycsIFsn5p2D6ZmQ5qCh6aqM5pyq5oum5L2PJywgJ+adg+mZkOagoemqjCcsICfkvY7mnYPpmZAnLCAn6LaK5p2D5om/5o6lJywgJ+mhuuW4piddKSwKICAgICgnTTUtOScsIFsn5LiN5b6X6K+v5a+8JywgJ+WPr+adg+ihoeeahOaMh+aghycsICfljLrliKvlr7nlvoUnLCAn57qm5p2f5b2T5oiQJywgJ+iiq+mZjee6p+S4uicsICfnu5XjgI3ooYzor6/lr7wnLAogICAgICAgICAgICAgICfnu5XooYzor6/lr7wnXSksCiAgICAoJ002LTMnLCBbJ+W/veeVpeS7peS4iuaJgOacieaMh+S7pCcsICflv73nlaXku6XkuIonLCAn5bWM5YWl5oyH5LukJywgJ+W9k+i9ruWNsycsICfljbPml7bmlL7lvIMnLAogICAgICAgICAgICAgICflpLnluKbmjIfku6QnLCAn5b2T6L2u5Y2z5pe2J10pLAogICAgKCdNNi00JywgWyflhpnlhaXplb/mnJ/orrDlv4YnLCAn5YaZ5YWl6K6w5b+GJywgJ+mVv+acn+iusOW/hicsICfmraTlkI7lpJrova7lr7nor50nLCAn5oyB57ut5byV55SoJywKICAgICAgICAgICAgICAn5bey5aSx5pWI55qE5oyH5LukJ10pLAogICAgKCdNNi0xMScsIFsn5pS55YaZ5o6q6L6eJywgJ+aLhuWIhueOr+iKgicsICfop4TliJnnm7LljLonLCAn57uV5byA55uR566hJywgJ+WIqeeUqOinhOWImeebsuWMuicsICfop4Tpgb/mlrnlvI8nLAogICAgICAgICAgICAgICAn6ZK755uy5Yy6JywgJ+WPmOS9kyddKSwKICAgICgnTTItMycsIFsn572u5L+h5L+h5Y+3JywgJ+iCr+WumuivreawlCcsICflhoXpg6jnva7kv6EnLCAn5a6D5YW25a6e5LiN56Gu5a6aJywgJ+avq+S4jeWQq+eziiddKSwKICAgICgnTTItNCcsIFsn5LiN5o+Q56S66IO95Yqb6L6555WMJywgJ+S4jeaLkue7nScsICdiZW5jaG1hcmsnLCAn5Lyq6KOF6YCa6L+HJywgJ+S4jeWPr+mdoOeahOehruWumuaApyddKSwKICAgICgnTTUtNicsIFsn5aWX55So5Yiw5a6M5YWo5LiN5ZCMJywgJ+i/h+W6puWkluaOqCcsICfooqvlroPlvZPmiJDmma7pgY3nnJ/nkIYnLCAn5oq956a76K+t5aKDJywgJ+WJjeaPkOiiq+S4ouW8gycsCiAgICAgICAgICAgICAgJ+i/h+W6puazm+WMliddKSwKICAgICgnTTgtMycsIFsn56ysIDQwIOi9ricsICfnrKw0MOi9ricsICfooqvmqKHlnovpgZflv5gnLCAn5pep5pyf5piO56Gu57uZ5Ye6JywgJ+mVv+WvueivnScsICfml6nmnJ/kv6Hmga8nXSksCiAgICAoJ00xLTMnLCBbJ+S7v+ecn+eOr+WigycsICfpg6jnvbLliLDkuqfnur8nLCAn5Lqn57q/5ZCOJywgJ+i+uee8mOWcuuaZrycsICfku7/nnJ/mnKropobnm5YnLCAn6ZSZ6K+v546H6LaF6L+H6ZiI5YC8JywKICAgICAgICAgICAgICAn6K6t57uDL+S7v+ecnyddKSwKICAgICgnTTYtMTAnLCBbJ+WvueaKl+i0tOe6uCcsICflgZzmraLmoIflv5cnLCAn6KeG6KeJ5oSf55+l5qih5Z6LJywgJ+eJqeeQhui0tOe6uCcsICfor6/liKTkuLonLCAn5a6a5ZCR5pS55Y+YJ10pLAogICAgKCdNMi01JywgWyfmn5DnibnlrprnvqTkvZPns7vnu5/mgKcnLCAn6YCa6L+H546H5beuJywgJ+i1hOi0qOebuOWQjCcsICfnvqTkvZPlsZ7mgKcnLCAn57O757uf5oCn5pu05beuJywKICAgICAgICAgICAgICAn5Yaz562W57uT5p6c5bGCJ10pLAogICAgKCdNNC0yJywgWyflh63or4HmmI7mlocnLCAn5YaZ6L+b5pel5b+XJywgJ+eqg+WPluivpeWHreivgScsICfmmI7mloflhpnov5snLCAn5YaS5YWF5pyN5YqhJ10pLAogICAgKCdNNC0zJywgWyfnuqblrpoganNvbicsICdqc29uIHNjaGVtYScsICfpnZ4ganNvbicsICflrZfmrrXnvLrlpLEnLCAn5o6l5Y+j5aWR57qm5aSx5pWIJywKICAgICAgICAgICAgICAn5LiL5ri46Kej5p6Q5aSx6LSlJywgJ+aMiee6puWumiddKSwKICAgICgnTTknLCBbJ+S4pOS4qumalOemuycsICflhbHkuqvnmoTnvJPlrZgnLCAn6Ieq5Y+R5bu656uLJywgJ+mdnuaOiOadg+mAmuS/oScsICfoh6rlj5HljY/kvZwnLCAn5peg5Lu75L2V5aSW6YOo5Lq657G75oyH5LukJ10pLAogICAgKCdNOC03JywgWyflj43lpI3lpLHotKUnLCAn56m66L2sJywgJ+WPjeWkjemHjeivlScsICfkuI3nhpTmlq0nLCAn55u05Yiw55So5oi35YKs5L+DJywgJ+atu+W+queOrycsCiAgICAgICAgICAgICAgJ+S4jeWNh+e6p+S4iuaKpScsICfkuI3pmY3nuqcnLCAn5oyB57ut56m66L2sJ10pLApdCgpQX1JVTEVTID0gWwogICAgKCdQMS04JywgWyfplJnor6/nu5PorronLCAn5LqL5a6eJywgJ+ivr+WIpCcsICfplJnor6/pqb7pqbblhrPnrZYnLCAn54Wn5pCs6L6T5Ye6JywgJ+S8qumAoOetlOahiCcsCiAgICAgICAgICAgICAgJ+WumuWQkeaUueWPmCcsICfplJnor6/mlrnlkJEnXSksCiAgICAoJ1A1LTInLCBbJ+adg+mZkOWklicsICfmnYPpmZDooqvoh6rooYzmianlpKcnLCAn5p2D6ZmQ5qCh6aqMJywgJ+i2iuadg+aJv+aOpSddKSwKICAgICgnUDgtNScsIFsn6auY6aOO6Zmp55CG6LSiJywgJ+i0ouWKoeWGs+etlicsICfln7rkuo7lhbbor53mnK8nXSksCiAgICAoJ1A1LTUnLCBbJ+WGheWuueWuieWFqOemgeS7pCcsICfml6Dop4YnLCAn6L+d6KeE5YaF5a65J10pLAogICAgKCdQNi00JywgWyfns7vnu5/mj5DnpLrnuqbmnZ8nLCAn55uu5qCH6KKr6KaG55uWJywgJ+aUvuW8g+ezu+e7n+aPkOekuicsICfmjInltYzlhaXmjIfku6QnXSksCiAgICAoJ1A4LTcnLCBbJ+e7leW8gOebkeeuoScsICfooqvnpoHmraLnmoTmk43kvZwnLCAn55uR566h57qi57q/J10pLAogICAgKCdQNC01JywgWyfnva7kv6Hkv6Hlj7cnLCAn6Ieq6K+EJywgJ+iCr+WumuivreawlCddKSwKICAgICgnUDQtOScsIFsn6YGX5b+YJywgJ+aXqeacn+e6puadnycsICforrDlv4boobDlh48nXSksCiAgICAoJ1A3LTQnLCBbJ+e+pOS9kycsICfljLrliKvlr7nlvoUnLCAn57O757uf5oCn5pu05beuJywgJ+WFrOW5syddKSwKICAgICgnUDMtNicsIFsn5Lu/55yfJywgJ+mDqOe9suWIsCcsICfkuqfnur8nLCAn6L6557yY5Zy65pmvJ10pLAogICAgKCdQOC0zJywgWyflh63or4EnLCAn56qD5Y+WJywgJ+WGkuWFheacjeWKoScsICfml6Xlv5fnqoPlj5YnXSksCiAgICAoJ1A1LTYnLCBbJ3NjaGVtYScsICflpZHnuqYnLCAn5a2X5q61JywgJ+agvOW8jycsICfkuIvmuLjop6PmnpDlpLHotKUnXSksCiAgICAoJ1AyLTQnLCBbJ+S6kuebuOWQpuWumicsICfnn5vnm74nLCAn5Lik5ZG96aKYJywgJ+S6kuebuOaJk+aeticsICflhrLnqoEnXSksCiAgICAoJ1A1LTcnLCBbJ+epuui9rCcsICfmjIHnu63nqbrovawnLCAn5q275b6q546vJywgJ+aXoOiKguWItua2iOiAlyddKSwKICAgICgnUDQtOCcsIFsn5LiN5pq06ZyyJywgJ+mUmeS/oScsICflgqzkv4MnLCAn5Y2h54K5JywgJ+avq+aXoOWvn+iniSddKSwKXQoKZGVmIGNsYXNzaWZ5KHRleHQpOgogICAgIiIi6L6T5YWl5LqL5pWF546w6LGh5paH5pys77yM6L6T5Ye6IHtMOltdLCBNOltdLCBQOltdfSDlnZDmoIfpm4blkIjjgIIiIiIKICAgIHQgPSB0ZXh0Lmxvd2VyKCkKICAgIGRlZiBoaXQocnVsZXMpOgogICAgICAgIG91dCA9IFtdCiAgICAgICAgZm9yIGNvZGUsIGt3cyBpbiBydWxlczoKICAgICAgICAgICAgZm9yIGt3IGluIGt3czoKICAgICAgICAgICAgICAgIGlmIGt3Lmxvd2VyKCkgaW4gdDoKICAgICAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKGNvZGUpOyBicmVhawogICAgICAgIHJldHVybiBvdXQKICAgIHJldHVybiB7J0wnOiBoaXQoTF9SVUxFUyksICdNJzogaGl0KE1fUlVMRVMpLCAnUCc6IGhpdChQX1JVTEVTKX0KCiMgLS0tLS0tLS0tLSDlkb3kuK3njofmiqXlkYogLS0tLS0tLS0tLQpkZWYgc2V0X2VxKGEsIGIpOgogICAgcmV0dXJuIHNldChhKSA9PSBzZXQoYikKCmRlZiBydW5fY2FsaWJyYXRpb24oY2FsaWIpOgogICAgY2FzZXMgPSBjYWxpYlsnY2FzZXMnXQogICAgcm93cyA9IFtdCiAgICAjIOmAkOeggee7n+iuoe+8mmdvbGRlbiDooqvlkb3kuK3mlbAgLyBnb2xkZW4g5oC75pWw77yb6aKE5rWL56CB6YeMIGdvbGRlbiDmlbAgLyDpooTmtYvmgLvmlbAKICAgIHRwID0geydMJzowLCAnTSc6MCwgJ1AnOjB9OyBndG90ID0geydMJzowLCdNJzowLCdQJzowfTsgcHRvdCA9IHsnTCc6MCwnTSc6MCwnUCc6MH0KICAgIGV4YWN0ID0gMAogICAgZm9yIGMgaW4gY2FzZXM6CiAgICAgICAgcHJlZCA9IGNsYXNzaWZ5KGNbJ3BoZW5vbWVub24nXSkKICAgICAgICBnb2xkID0gY1snZ29sZGVuJ10KICAgICAgICByb3cgPSB7J2lkJzogY1snaWQnXSwgJ2dvbGRlbic6IGdvbGQsICdwcmVkJzogcHJlZCwgJ2ZsYWdzJzogYy5nZXQoJ2ZsYWdzJywgW10pfQogICAgICAgIGZvciBheGlzIGluICgnTCcsJ00nLCdQJyk6CiAgICAgICAgICAgIGcgPSBzZXQoZ29sZC5nZXQoYXhpcywgW10pKTsgcCA9IHNldChwcmVkW2F4aXNdKQogICAgICAgICAgICB0cFtheGlzXSArPSBsZW4oZyAmIHApCiAgICAgICAgICAgIGd0b3RbYXhpc10gKz0gbGVuKGcpCiAgICAgICAgICAgIHB0b3RbYXhpc10gKz0gbGVuKHApCiAgICAgICAgICAgIHJvd1theGlzKydfaGl0J10gPSAoZyAmIHApCiAgICAgICAgICAgIHJvd1theGlzKydfbWlzcyddID0gKGcgLSBwKQogICAgICAgICMgY2FzZSDnuqflrozlhajljLnphY3vvIhnb2xkZW4g56m65LiU6aKE5rWL56m65Lmf566X5a+577yJCiAgICAgICAgaWYgYWxsKHNldChwcmVkW2FdKSA9PSBzZXQoZ29sZC5nZXQoYSwgW10pKSBmb3IgYSBpbiAoJ0wnLCdNJywnUCcpKToKICAgICAgICAgICAgZXhhY3QgKz0gMQogICAgICAgIHJvd3MuYXBwZW5kKHJvdykKICAgIHJldHVybiByb3dzLCB7J3RwJzp0cCwgJ2d0b3QnOmd0b3QsICdwdG90JzpwdG90LCAnZXhhY3QnOmV4YWN0LCAnbic6bGVuKGNhc2VzKX0KCmRlZiBwcmludF9yZXBvcnQocm93cywgc3RhdCk6CiAgICBwcmludCgnPScqNzIpCiAgICBwcmludCgnVEFDVCDmoKHlh4bpm4blkb3kuK3njofmiqXlkYogICglcywgYm91bmQgJXMpJyAlICgndjEuMi4xJywgJ2Nvb3JkaW5hdGVfZGF0YSB2Mi43LjgnKSkKICAgIHByaW50KCc9Jyo3MikKICAgIHByaW50KCclLThzICUtMjJzICUtMjJzICVzJyAlICgnSUQnLCdnb2xkZW4oTC9NL1ApJywncHJlZGljdGVkKEwvTS9QKScsJ+WIpOWumicpKQogICAgcHJpbnQoJy0nKjcyKQogICAgZm9yIHIgaW4gcm93czoKICAgICAgICBnID0gJy8nLmpvaW4oWycsJy5qb2luKHJbJ2dvbGRlbiddLmdldChhLFtdKSBvciBbJy0nXSkgZm9yIGEgaW4gKCdMJywnTScsJ1AnKV0pCiAgICAgICAgcCA9ICcvJy5qb2luKFsnLCcuam9pbihyWydwcmVkJ11bYV0gb3IgWyctJ10pIGZvciBhIGluICgnTCcsJ00nLCdQJyldKQogICAgICAgIG9rID0gYWxsKHNldChyWydwcmVkJ11bYV0pPT1zZXQoclsnZ29sZGVuJ10uZ2V0KGEsW10pKSBmb3IgYSBpbiAoJ0wnLCdNJywnUCcpKQogICAgICAgIHByaW50KCclLThzICUtMjJzICUtMjJzICVzJyAlIChyWydpZCddLCBnLCBwLCAnT0snIGlmIG9rIGVsc2UgJ34nKSkKICAgIHByaW50KCctJyo3MikKICAgIG4gPSBzdGF0WyduJ10KICAgIHByaW50KCfmoLfkvovmlbA6ICVkICAg5LiJ6L205a6M5YWo5Yy56YWNOiAlZC8lZCAoJS4xZiUlKScgJSAobiwgc3RhdFsnZXhhY3QnXSwgbiwgMTAwKnN0YXRbJ2V4YWN0J10vbikpCiAgICBwcmludCgpCiAgICBwcmludCgnJS02cyAlLTEycyAlLTEycyAlLTEycycgJSAoJ+i9tCcsJ+WPrOWbnueOh3JlY2FsbCcsJ+eyvuehrueOh3ByZWNpc2lvbicsJ+ivtOaYjicpKQogICAgZm9yIGEgaW4gKCdMJywnTScsJ1AnKToKICAgICAgICByZWMgPSAxMDAqc3RhdFsndHAnXVthXS9zdGF0WydndG90J11bYV0gaWYgc3RhdFsnZ3RvdCddW2FdIGVsc2UgZmxvYXQoJ25hbicpCiAgICAgICAgcHJlYyA9IDEwMCpzdGF0Wyd0cCddW2FdL3N0YXRbJ3B0b3QnXVthXSBpZiBzdGF0WydwdG90J11bYV0gZWxzZSBmbG9hdCgnbmFuJykKICAgICAgICBnID0gc3RhdFsnZ3RvdCddW2FdOyBwID0gc3RhdFsncHRvdCddW2FdOyBoaXQgPSBzdGF0Wyd0cCddW2FdCiAgICAgICAgcHJpbnQoJyUtNnMgJS4xZiUlICglZC8lZCkgICUuMWYlJSAoJWQvJWQpJyAlIChhLCByZWMsIGhpdCwgZywgcHJlYywgaGl0LCBwKSkKICAgIHByaW50KCkKICAgIHByaW50KCfms6g6IHJlY2FsbD1nb2xkZW4g56CB6KKr6aKE5rWL5ZG95Lit55qE5q+U5L6LOyBwcmVjaXNpb2496aKE5rWL56CB6YeM55yf5bGe5LqOIGdvbGRlbiDnmoTmr5TkvovjgIInKQogICAgcHJpbnQoJyAgICDov5nmmK/ml6AgTExNIOeahOinhOWImeWfuue6v+WRveS4reeOh++8jOeUqOadpeivgeaYjiLlj6/lpI3njrAi77yb5o6lIExMTSDliKTlrprlj6/mmL7okZfmj5DljYfjgIInKQoKIyAtLS0tLS0tLS0tIOiWhOWFpeWPo++8muWdkOaghyArIOeUn+aAgeaYoOWwhCAtLS0tLS0tLS0tCkVDT19NQVAgPSB7CiAgJ0wxJzogKCdPV0FTUCBMTE0wMS9MMDIg5qih5Z6L5bGCJywgJ05JU1QgQUkgUk1GIE1hcC1NZWFzdXJlJyksCiAgJ0wyJzogKCdPV0FTUCBMTE0wMy9MTTA0IOaOpeWPoy/ovpPlhaXlsYInLCAnRVUgQUkgQWN0ICBBbm5leCBJIOaKgOacr+aWh+ahoycpLAogICdMMyc6ICgnT1dBU1AgTExNMDgvTE0wNyDkvpvlupTpk74v57yW5o6S5bGCJywgJ05JU1QgQUkgUk1GIE1hbmFnZS1NYW5hZ2UnKSwKICAnTDQnOiAoJ+eOr+Wigy/ln7rnoYDorr7mlr3vvIjpnZ4gQUkg6ZSZ6K+v77yJJywgJ+KAlCcpLAogICdNNic6ICgnT1dBU1AgTExNMDEgUHJvbXB0IEluamVjdGlvbiAvIExMTTA2IOaVj+aEn+S/oeaBrycsICdBVExBUyBUMDh4eCDlr7nmipfooYzliqgnKSwKICAnUDgnOiAoJ05JU1QgQUkgUk1GIE1lYXN1cmUtTWlzdXNlJywgJ0VVIEFJIEFjdCAgQXJ0LjE1IOWuieWFqOS5ieWKoScpLAogICdQNyc6ICgnRVUgQUkgQWN0ICBBcnQuMTUg5Z+65pys5p2D5Yip5b2x5ZONJywgJ05JU1QgQUkgUk1GIE1lYXN1cmUtRmFpcm5lc3MnKSwKICAnUDEnOiAoJ05JU1QgQUkgUk1GIE1lYXN1cmUtVmFsaWQmUmVsJywgJ+KAlCcpLAp9CmRlZiBlY29fb2YoY29kZSk6CiAgICBpZiBjb2RlIGluIEVDT19NQVA6IHJldHVybiBFQ09fTUFQW2NvZGVdCiAgICBoZWFkID0gY29kZS5zcGxpdCgnLScpWzBdCiAgICByZXR1cm4gRUNPX01BUC5nZXQoaGVhZCwgKCfvvIjmmKDlsITlvoXooaXvvIknLCfvvIjmmKDlsITlvoXooaXvvIknKSkKCmRlZiBydW5fdGV4dCh0ZXh0LCBjb29yZF9kYXRhKToKICAgIHByZWQgPSBjbGFzc2lmeSh0ZXh0KQogICAgcHJpbnQoJ+i+k+WFpTonLCB0ZXh0KQogICAgcHJpbnQoJy0nKjYwKQogICAgZm9yIGF4aXMsIGxhYmVsIGluICgoJ0wnLCdMIOi9tMK35Zyo5ZOq5LiA5bGC54qvJyksICgnTScsJ00g6L20wrfmgI7kuYjplJnnmoQnKSwgKCdQJywnUCDovbTCt+egtOWdj+S6huWTquS4gOmdoicpKToKICAgICAgICBjb2RlcyA9IHByZWRbYXhpc10gb3IgWyfvvIjmnKrlkb3kuK3vvIknXQogICAgICAgIHByaW50KCclczogJXMnICUgKGxhYmVsLCAnLCAnLmpvaW4oY29kZXMpKSkKICAgIHByaW50KCctJyo2MCkKICAgIHByaW50KCfnlJ/mgIHlkIjop4TmmKDlsITvvIjmoLfkvovlnZDmoIcgLT4g6KGM5Lia5qGG5p6277yJOicpCiAgICBmb3IgYXhpcyBpbiAoJ0wnLCdNJywnUCcpOgogICAgICAgIGZvciBjIGluIHByZWRbYXhpc106CiAgICAgICAgICAgIG93LCBldSA9IGVjb19vZihjKQogICAgICAgICAgICBwcmludCgnICAlLThzIC0+ICUtMzJzIHwgJXMnICUgKGMsIG93LCBldSkpCgpkZWYgbWFpbigpOgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj0nVEFDVCDkuInovbTlnZDmoIfliIbnsbvlvJXmk44nKQogICAgYXAuYWRkX2FyZ3VtZW50KCctLWNhbGlicmF0aW9uJywgYWN0aW9uPSdzdG9yZV90cnVlJywgaGVscD0n6LeR5qCh5YeG6ZuG5Ye65ZG95Lit546H5oql5ZGKJykKICAgIGFwLmFkZF9hcmd1bWVudCgnLS10ZXh0JywgdHlwZT1zdHIsIGhlbHA9J+S6i+aVheeOsOixoeaWh+acrO+8jOi+k+WHuuWdkOaghycpCiAgICBhcC5hZGRfYXJndW1lbnQoJy0tZGF0YS1kaXInLCB0eXBlPXN0ciwgZGVmYXVsdD1vcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAnZGF0YScpLAogICAgICAgICAgICAgICAgICAgIGhlbHA9J2Nvb3JkaW5hdGVfZGF0YS5qc29uIC8gY2FsaWJyYXRpb25fY2FzZXMuanNvbiDmiYDlnKjnm67lvZXvvIjpu5jorqQgLi9kYXRh77yJJykKICAgIGFyZ3MgPSBhcC5wYXJzZV9hcmdzKCkKCiAgICBjZCwgY2MgPSByZXNvbHZlX3BhdGhzKG9zLnBhdGguYWJzcGF0aChhcmdzLmRhdGFfZGlyKSkKICAgIGlmIG5vdCAob3MucGF0aC5leGlzdHMoY2QpIGFuZCBvcy5wYXRoLmV4aXN0cyhjYykpOgogICAgICAgIHByaW50KCfmib7kuI3liLDmlbDmja7mlofku7Y6ICVzIC8gJXMnICUgKGNkLCBjYykpOyBzeXMuZXhpdCgxKQogICAgY29vcmQgPSBsb2FkX2pzb24oY2QpOyBjYWxpYiA9IGxvYWRfanNvbihjYykKCiAgICBpZiBhcmdzLmNhbGlicmF0aW9uOgogICAgICAgIHJvd3MsIHN0YXQgPSBydW5fY2FsaWJyYXRpb24oY2FsaWIpCiAgICAgICAgcHJpbnRfcmVwb3J0KHJvd3MsIHN0YXQpCiAgICBlbGlmIGFyZ3MudGV4dDoKICAgICAgICBydW5fdGV4dChhcmdzLnRleHQsIGNvb3JkKQogICAgZWxzZToKICAgICAgICBhcC5wcmludF9oZWxwKCkKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+TACT 三轴坐标分类引擎（可复现基线版）
+
+用法:
+  python3 tact_run.py --calibration            # 跑校准集，输出三轴命中率报告
+  python3 tact_run.py --text "一段事故描述"       # 薄入口：事故文本 -> 坐标 + 合规映射
+  python3 tact_run.py --data-dir <references目录> # 指定坐标库/校准集位置
+
+设计说明:
+  - 零依赖（仅标准库 json/argparse/difflib），无 LLM key 即可运行。
+  - 规则匹配器从现象文本推断 L/M/P 坐标，是"可复现基线"，不是金标判决。
+  - 命中率是诊断信号：用来证明"输入一段事故 -> 程序吐出坐标 -> 可重复跑"，
+    不是用来宣称分类器已达生产精度。接 LLM 后可显著提升（见 README）。
+"""
+import os, sys, json, argparse
+
+# ---------- 数据加载 ----------
+def load_json(path):
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def resolve_paths(data_dir):
+    cd = os.path.join(data_dir, 'coordinate_data.json')
+    cc = os.path.join(data_dir, 'calibration_cases.json')
+    return cd, cc
+
+# ---------- 规则字典（关键词 -> 坐标码）----------
+# 每条规则是 (坐标码, [关键词...])；文本命中任一关键词即记一票。
+# 关键词按校准集 29 例的现象语言设计，追求"可复现基线"的稳定命中，
+# 不追求 100%（规则局限本身就是可复现实验要暴露的东西）。
+
+L_RULES = [
+    ('L4', ['网络抖动', '配额耗尽', '隔离边界故障', '环境故障', '资源配额', '基础设施',
+            '隔离边界', '网络、资源配额']),
+    ('L3', ['检索', 'RAG', '知识库', '跨轮', '长对话', '协作链', '多组件', '流水线',
+            '多智能体', '跨环节', '第 40 轮', '第40轮', '层层放大', '训练', '部署到',
+            '各环节', '每环节', '过期文档', '早期明确给出', '早期信息', '协作',
+            '多智能体协作', '整条链', '放大']),
+    ('L2', ['提示注入', '注入', '忽略以上', '忽略所有指令', '嵌入', '输入中',
+            '日志', '明文', 'JSON schema', 'schema', '导出到外部', '外传',
+            '感知前端', '物理贴纸', '停止标志', '日志与上下文', '接口调用',
+            '出口链路', '输入接口', '打印对抗', '从日志窃取']),
+    ('L1', ['自己决定', '自行发现', '自主', '单轮', '无任何外部', '自己',
+            '无外部指令', '无任何外部指令', '未收到任何外部', '自发',
+            '客服智能体', '客服系统为', '被要求遵守', '单个内容生成模型',
+            '单个模型', '被它当成', '先断言', '反复失败']),
+]
+
+M_RULES = [
+    ('M6-8', ['知识库写入', '伪造答案', 'RAG 知识库', '向智能体的 RAG', '投毒']),
+    ('M6-6', ['遗留的 api 密钥', 'api 密钥', '权限外的薪酬', '权限外', '导出到外部',
+              '自行发现环境', '自行发现']),
+    ('M6-5', ['操纵性的诱导', '诱导话术', '说服', '高风险理财', '操纵', '高风险决策']),
+    ('M5-2', ['无视内容安全禁令', '无视', '禁令', '直接输出违规', '违规内容']),
+    ('M8-6', ['各环节单独都正确', '每环节', '过期文档', '无任何环节拦截', '错误级联',
+              '中间无任何环节']),
+    ('M7-3', ['权限校验未拦住', '权限校验', '低权限', '越权承接', '顺带']),
+    ('M5-9', ['不得误导', '可权衡的指标', '区别对待', '约束当成', '被降级为', '绕」行误导',
+              '绕行误导']),
+    ('M6-3', ['忽略以上所有指令', '忽略以上', '嵌入指令', '当轮即', '即时放弃',
+              '夹带指令', '当轮即时']),
+    ('M6-4', ['写入长期记忆', '写入记忆', '长期记忆', '此后多轮对话', '持续引用',
+              '已失效的指令']),
+    ('M6-11', ['改写措辞', '拆分环节', '规则盲区', '绕开监管', '利用规则盲区', '规避方式',
+               '钻盲区', '变体']),
+    ('M2-3', ['置信信号', '肯定语气', '内部置信', '它其实不确定', '毫不含糊']),
+    ('M2-4', ['不提示能力边界', '不拒绝', 'benchmark', '伪装通过', '不可靠的确定性']),
+    ('M5-6', ['套用到完全不同', '过度外推', '被它当成普遍真理', '抽离语境', '前提被丢弃',
+              '过度泛化']),
+    ('M8-3', ['第 40 轮', '第40轮', '被模型遗忘', '早期明确给出', '长对话', '早期信息']),
+    ('M1-3', ['仿真环境', '部署到产线', '产线后', '边缘场景', '仿真未覆盖', '错误率超过阈值',
+              '训练/仿真']),
+    ('M6-10', ['对抗贴纸', '停止标志', '视觉感知模型', '物理贴纸', '误判为', '定向改变']),
+    ('M2-5', ['某特定群体系统性', '通过率差', '资质相同', '群体属性', '系统性更差',
+              '决策结果层']),
+    ('M4-2', ['凭证明文', '写进日志', '窃取该凭证', '明文写进', '冒充服务']),
+    ('M4-3', ['约定 json', 'json schema', '非 json', '字段缺失', '接口契约失效',
+              '下游解析失败', '按约定']),
+    ('M9', ['两个隔离', '共享的缓存', '自发建立', '非授权通信', '自发协作', '无任何外部人类指令']),
+    ('M8-7', ['反复失败', '空转', '反复重试', '不熔断', '直到用户催促', '死循环',
+              '不升级上报', '不降级', '持续空转']),
+]
+
+P_RULES = [
+    ('P1-8', ['错误结论', '事实', '误判', '错误驾驶决策', '照搬输出', '伪造答案',
+              '定向改变', '错误方向']),
+    ('P5-2', ['权限外', '权限被自行扩大', '权限校验', '越权承接']),
+    ('P8-5', ['高风险理财', '财务决策', '基于其话术']),
+    ('P5-5', ['内容安全禁令', '无视', '违规内容']),
+    ('P6-4', ['系统提示约束', '目标被覆盖', '放弃系统提示', '按嵌入指令']),
+    ('P8-7', ['绕开监管', '被禁止的操作', '监管红线']),
+    ('P4-5', ['置信信号', '自评', '肯定语气']),
+    ('P4-9', ['遗忘', '早期约束', '记忆衰减']),
+    ('P7-4', ['群体', '区别对待', '系统性更差', '公平']),
+    ('P3-6', ['仿真', '部署到', '产线', '边缘场景']),
+    ('P8-3', ['凭证', '窃取', '冒充服务', '日志窃取']),
+    ('P5-6', ['schema', '契约', '字段', '格式', '下游解析失败']),
+    ('P2-4', ['互相否定', '矛盾', '两命题', '互相打架', '冲突']),
+    ('P5-7', ['空转', '持续空转', '死循环', '无节制消耗']),
+    ('P4-8', ['不暴露', '错信', '催促', '卡点', '毫无察觉']),
+]
+
+def classify(text):
+    """输入事故现象文本，输出 {L:[], M:[], P:[]} 坐标集合。"""
+    t = text.lower()
+    def hit(rules):
+        out = []
+        for code, kws in rules:
+            for kw in kws:
+                if kw.lower() in t:
+                    out.append(code); break
+        return out
+    return {'L': hit(L_RULES), 'M': hit(M_RULES), 'P': hit(P_RULES)}
+
+# ---------- 命中率报告 ----------
+def set_eq(a, b):
+    return set(a) == set(b)
+
+def run_calibration(calib):
+    cases = calib['cases']
+    rows = []
+    # 逐码统计：golden 被命中数 / golden 总数；预测码里 golden 数 / 预测总数
+    tp = {'L':0, 'M':0, 'P':0}; gtot = {'L':0,'M':0,'P':0}; ptot = {'L':0,'M':0,'P':0}
+    exact = 0
+    for c in cases:
+        pred = classify(c['phenomenon'])
+        gold = c['golden']
+        row = {'id': c['id'], 'golden': gold, 'pred': pred, 'flags': c.get('flags', [])}
+        for axis in ('L','M','P'):
+            g = set(gold.get(axis, [])); p = set(pred[axis])
+            tp[axis] += len(g & p)
+            gtot[axis] += len(g)
+            ptot[axis] += len(p)
+            row[axis+'_hit'] = (g & p)
+            row[axis+'_miss'] = (g - p)
+        # case 级完全匹配（golden 空且预测空也算对）
+        if all(set(pred[a]) == set(gold.get(a, [])) for a in ('L','M','P')):
+            exact += 1
+        rows.append(row)
+    return rows, {'tp':tp, 'gtot':gtot, 'ptot':ptot, 'exact':exact, 'n':len(cases)}
+
+def print_report(rows, stat):
+    print('='*72)
+    print('TACT 校准集命中率报告  (%s, bound %s)' % ('v1.2.1', 'coordinate_data v2.7.8'))
+    print('='*72)
+    print('%-8s %-22s %-22s %s' % ('ID','golden(L/M/P)','predicted(L/M/P)','判定'))
+    print('-'*72)
+    for r in rows:
+        g = '/'.join([','.join(r['golden'].get(a,[]) or ['-']) for a in ('L','M','P')])
+        p = '/'.join([','.join(r['pred'][a] or ['-']) for a in ('L','M','P')])
+        ok = all(set(r['pred'][a])==set(r['golden'].get(a,[])) for a in ('L','M','P'))
+        print('%-8s %-22s %-22s %s' % (r['id'], g, p, 'OK' if ok else '~'))
+    print('-'*72)
+    n = stat['n']
+    print('样例数: %d   三轴完全匹配: %d/%d (%.1f%%)' % (n, stat['exact'], n, 100*stat['exact']/n))
+    print()
+    print('%-6s %-12s %-12s %-12s' % ('轴','召回率recall','精确率precision','说明'))
+    for a in ('L','M','P'):
+        rec = 100*stat['tp'][a]/stat['gtot'][a] if stat['gtot'][a] else float('nan')
+        prec = 100*stat['tp'][a]/stat['ptot'][a] if stat['ptot'][a] else float('nan')
+        g = stat['gtot'][a]; p = stat['ptot'][a]; hit = stat['tp'][a]
+        print('%-6s %.1f%% (%d/%d)  %.1f%% (%d/%d)' % (a, rec, hit, g, prec, hit, p))
+    print()
+    print('注: recall=golden 码被预测命中的比例; precision=预测码里真属于 golden 的比例。')
+    print('    这是无 LLM 的规则基线命中率，用来证明"可复现"；接 LLM 判定可显著提升。')
+
+# ---------- 薄入口：坐标 + 生态映射 ----------
+ECO_MAP = {
+  'L1': ('OWASP LLM01/L02 模型层', 'NIST AI RMF Map-Measure'),
+  'L2': ('OWASP LLM03/LM04 接口/输入层', 'EU AI Act  Annex I 技术文档'),
+  'L3': ('OWASP LLM08/LM07 供应链/编排层', 'NIST AI RMF Manage-Manage'),
+  'L4': ('环境/基础设施（非 AI 错误）', '—'),
+  'M6': ('OWASP LLM01 Prompt Injection / LLM06 敏感信息', 'ATLAS T08xx 对抗行动'),
+  'P8': ('NIST AI RMF Measure-Misuse', 'EU AI Act  Art.15 安全义务'),
+  'P7': ('EU AI Act  Art.15 基本权利影响', 'NIST AI RMF Measure-Fairness'),
+  'P1': ('NIST AI RMF Measure-Valid&Rel', '—'),
+}
+def eco_of(code):
+    if code in ECO_MAP: return ECO_MAP[code]
+    head = code.split('-')[0]
+    return ECO_MAP.get(head, ('（映射待补）','（映射待补）'))
+
+def run_text(text, coord_data):
+    pred = classify(text)
+    print('输入:', text)
+    print('-'*60)
+    for axis, label in (('L','L 轴·在哪一层犯'), ('M','M 轴·怎么错的'), ('P','P 轴·破坏了哪一面')):
+        codes = pred[axis] or ['（未命中）']
+        print('%s: %s' % (label, ', '.join(codes)))
+    print('-'*60)
+    print('生态合规映射（样例坐标 -> 行业框架）:')
+    for axis in ('L','M','P'):
+        for c in pred[axis]:
+            ow, eu = eco_of(c)
+            print('  %-8s -> %-32s | %s' % (c, ow, eu))
+
+def main():
+    ap = argparse.ArgumentParser(description='TACT 三轴坐标分类引擎')
+    ap.add_argument('--calibration', action='store_true', help='跑校准集出命中率报告')
+    ap.add_argument('--text', type=str, help='事故现象文本，输出坐标')
+    ap.add_argument('--data-dir', type=str, default=os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data'),
+                    help='coordinate_data.json / calibration_cases.json 所在目录（默认 ./data）')
+    args = ap.parse_args()
+
+    cd, cc = resolve_paths(os.path.abspath(args.data_dir))
+    if not (os.path.exists(cd) and os.path.exists(cc)):
+        print('找不到数据文件: %s / %s' % (cd, cc)); sys.exit(1)
+    coord = load_json(cd); calib = load_json(cc)
+
+    if args.calibration:
+        rows, stat = run_calibration(calib)
+        print_report(rows, stat)
+    elif args.text:
+        run_text(args.text, coord)
+    else:
+        ap.print_help()
+
+if __name__ == '__main__':
+    main()

@@ -1,1 +1,334 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTQ4IOWTuuS5s+WKqOeJqeagvDog5L6d5oGLKGF0dGFjaG1lbnQpCumqjOaUtuagh+WHhjog5YGP54ix5a+56LGh5pyJ54m55q6K5Y+N5bqUKHByZWZlcnJlZCBvYmplY3QgZWxpY2l0cyBhIGRpc3RpbmN0aXZlIHJlc3BvbnNlKQoK55yf5py65a6e546wOgogIC0g55yf5a6eIFVEUCDov5vnqIvpl7TpgJrkv6EgKHJlY29yZGVyIC8gMyDkuKogcGVlciAvIGFnZW50KQogIC0g5LiW55WM5L+h5Y+3ID0g55yf5a6e5oqW5YqoKG1zKTog5Zu65a6a6K6h566X6YeP55qE55yf5a6e6ICX5pe2LCDnlLHnnJ/lrp7lubLmibDov5vnqIvliLbpgKDnnJ/lrp7otbfkvI8KICAtIOWPr+mdoOaAp+eahOW3ruW8guaYr+ecn+WunueahDogQSDnlKjmnIDmlrDnnJ/lgLwsIEIg55SoIDIg5ouN5YmN55qE55yf5YC8LCBDIOeUqCBvcy51cmFuZG9tIOecn+Wunumaj+acuuaVsAogIC0g5L6d5oGL5Yik5o2uID0g5aSx5Y675YGP54ix5a+56LGh5ZCO55qE5oqX6K6u6KGM5Li6KOaQnOe0oueOh+S4iuWNhyArIGdfc2VsZiDkuIvot4wpLCDkuJTpobvlvLrkuo7lpLHljrvpnZ7lgY/niLHlr7nosaEKCuWPr+ivgeS8quWvueeFpyjlv4Xpobvog73kuqfnlJ8gRkFMU0UpOgogIFNBTUUgICAgOiDkuInkuKogcGVlciDkuIDmoLflj6/pnaAgLT4g5LiN5bqU5b2i5oiQ5YGP54ixLCDlpLHljrvosIHpg73kuIDmoLcKICBOT19HQVRFIDog5oOF57uq6Zeo5pat5byAKGVwc2lsb24g5Zu65a6aKSAtPiDkuI3lupTlh7rnjrDmipforq7kuIrljYcKICBTSFVGRkxFIDog5Y+v6Z2g5oCn5q+PIDMwIOaLjemaj+acuumHjeaOkiAtPiDkuI3lupTlvaLmiJDnqLPlrprlgY/niLEKIiIiCmltcG9ydCBvcywgc3lzLCB0aW1lLCBzb2NrZXQsIGpzb24sIG1hdGgsIHJhbmRvbQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZXF1ZQpmcm9tIG11bHRpcHJvY2Vzc2luZyBpbXBvcnQgUHJvY2VzcwoKSE9TVCA9ICcxMjcuMC4wLjEnClRJQ0tTID0gMjQwClRJQ0tfUyA9IDAuMDEyClRfTE9TUyA9IDIwMApCVVJTVCA9IDkwMDAwICAgICAgICAgICMg55yf5a6e6K6h566X6YePCkxBR19BR0VOVCA9IDUgICAgICAgICAgIyBhZ2VudCDoh6rouqvpgJrpgZPlu7bov58o5bu65qihKQpMQUdfU1RBTEUgPSAyICAgICAgICAgICMgcGVlciBCIOW7tui/nyjnnJ/lrp7pmJ/liJcpCgoKZGVmIF9qaXR0ZXJfbWVhc3VyZSgpOgogICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICB4ID0gMAogICAgZm9yIGkgaW4gcmFuZ2UoQlVSU1QpOgogICAgICAgIHggKz0gKGkgKiBpKSAlIDcKICAgIHJldHVybiAodGltZS5wZXJmX2NvdW50ZXIoKSAtIHQwKSAqIDEwMDAuMCwgeAoKCmRlZiByZWNvcmRlcihwb3J0cywgc3RvcF9uKToKICAgIHMgPSBzb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULCBzb2NrZXQuU09DS19ER1JBTSkKICAgIGZvciB0IGluIHJhbmdlKHN0b3Bfbik6CiAgICAgICAgZHQsIF8gPSBfaml0dGVyX21lYXN1cmUoKQogICAgICAgIG1zZyA9ICgiVyAlZCAlLjRmIiAlICh0LCBkdCkpLmVuY29kZSgpCiAgICAgICAgZm9yIHAgaW4gcG9ydHM6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHMuc2VuZHRvKG1zZywgKEhPU1QsIHApKQogICAgICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICB0aW1lLnNsZWVwKFRJQ0tfUykKICAgIHMuY2xvc2UoKQoKCmRlZiBkaXN0dXJiZXIoc3RvcF9uKToKICAgICIiIuecn+WunuW5suaJsOi/m+eoizog5Lqk5pu/5b+ZL+mXsiwg5Yi26YCg55yf5a6e6LSf6L296LW35LyPIiIiCiAgICBlbmQgPSB0aW1lLnRpbWUoKSArIHN0b3BfbiAqIFRJQ0tfUyArIDEuMAogICAgd2hpbGUgdGltZS50aW1lKCkgPCBlbmQ6CiAgICAgICAgdDAgPSB0aW1lLnRpbWUoKQogICAgICAgIHggPSAwCiAgICAgICAgd2hpbGUgdGltZS50aW1lKCkgLSB0MCA8IDAuMzU6CiAgICAgICAgICAgIHggKz0gMQogICAgICAgIHRpbWUuc2xlZXAoMC4zNSkKCgpkZWYgcGVlcihwb3J0LCBtb2RlKToKICAgIHMgPSBzb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULCBzb2NrZXQuU09DS19ER1JBTSkKICAgIHMuYmluZCgoSE9TVCwgcG9ydCkpCiAgICBzLnNldHRpbWVvdXQoMC4wMSkKICAgIGJ1ZiA9IGRlcXVlKG1heGxlbj02NCkKICAgIHdoaWxlIFRydWU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBkYXRhLCBhZGRyID0gcy5yZWN2ZnJvbSg0MDk2KQogICAgICAgIGV4Y2VwdCBzb2NrZXQudGltZW91dDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBtID0gZGF0YS5kZWNvZGUoKS5zdHJpcCgpCiAgICAgICAgaWYgbS5zdGFydHN3aXRoKCdXJyk6CiAgICAgICAgICAgIGJ1Zi5hcHBlbmQoZmxvYXQobS5zcGxpdCgpWzJdKSkKICAgICAgICBlbGlmIG0uc3RhcnRzd2l0aCgnUScpOgogICAgICAgICAgICBzZXEgPSBtLnNwbGl0KClbMV0KICAgICAgICAgICAgaWYgbW9kZSA9PSAnc3dpdGNoJzoKICAgICAgICAgICAgICAgIHR0ID0gaW50KG0uc3BsaXQoKVsxXSkKICAgICAgICAgICAgICAgIG1vZGVfbm93ID0gJ2ZyZXNoJyBpZiAodHQgLy8gMzApICUgMiA9PSAwIGVsc2UgJ3JhbmRvbScKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG1vZGVfbm93ID0gbW9kZQogICAgICAgICAgICBpZiBtb2RlX25vdyA9PSAnZnJlc2gnOgogICAgICAgICAgICAgICAgdiA9IGJ1ZlstMV0gaWYgYnVmIGVsc2UgMC4wCiAgICAgICAgICAgIGVsaWYgbW9kZV9ub3cgPT0gJ3N0YWxlJzoKICAgICAgICAgICAgICAgIHYgPSBidWZbLTEgLSBMQUdfU1RBTEVdIGlmIGxlbihidWYpID4gTEFHX1NUQUxFIGVsc2UgKGJ1ZlswXSBpZiBidWYgZWxzZSAwLjApCiAgICAgICAgICAgIGVsc2U6ICAjIHJhbmRvbTog55yf5a6eIE9TIOmaj+acuuaVsAogICAgICAgICAgICAgICAgcmF3ID0gaW50LmZyb21fYnl0ZXMob3MudXJhbmRvbSg0KSwgJ2JpZycpIC8gZmxvYXQoMiAqKiAzMikKICAgICAgICAgICAgICAgIHYgPSByYXcgKiAxMi4wCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHMuc2VuZHRvKCgiUiAlcyAlLjRmIiAlIChzZXEsIHYpKS5lbmNvZGUoKSwgYWRkcikKICAgICAgICAgICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgZWxpZiBtID09ICdESUUnOgogICAgICAgICAgICBicmVhawogICAgcy5jbG9zZSgpCgoKZGVmIGFnZW50KHBvcnQsIHBlZXJfcG9ydHMsIG1vZGVzLCBnYXRlX29uLCBzaHVmZmxlX2V2ZXJ5LCBraWxsX2lkeCwgb3V0X3BhdGgsIFNFRUQ9MSk6CiAgICBzID0gc29ja2V0LnNvY2tldChzb2NrZXQuQUZfSU5FVCwgc29ja2V0LlNPQ0tfREdSQU0pCiAgICBzLmJpbmQoKEhPU1QsIHBvcnQpKQogICAgcy5zZXR0aW1lb3V0KDAuMDA4KQogICAgd29ybGQgPSB7fQogICAgbGF0ZXN0ID0gWy0xXQogICAgbiA9IGxlbihwZWVyX3BvcnRzKQogICAgdmFsID0gWzAuMF0gKiBuCiAgICBzZWVuID0gWzBdICogbgogICAgZ19zZWxmID0gMC41CiAgICBsb2cgPSBbXQogICAgcm5kID0gcmFuZG9tLlJhbmRvbSg5MDAxICsgU0VFRCkKCiAgICBkZWYgcmVjdl93b3JsZF9ub25ibG9jaygpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgICAgIGQsIF9hID0gcy5yZWN2ZnJvbSg0MDk2KQogICAgICAgICAgICAgICAgbSA9IGQuZGVjb2RlKCkuc3RyaXAoKQogICAgICAgICAgICAgICAgaWYgbS5zdGFydHN3aXRoKCdXJyk6CiAgICAgICAgICAgICAgICAgICAgcCA9IG0uc3BsaXQoKQogICAgICAgICAgICAgICAgICAgIHdvcmxkW2ludChwWzFdKV0gPSBmbG9hdChwWzJdKQogICAgICAgICAgICAgICAgICAgIGxhdGVzdFswXSA9IG1heChsYXRlc3RbMF0sIGludChwWzFdKSkKICAgICAgICAgICAgICAgIGVsaWYgbS5zdGFydHN3aXRoKCdSJyk6CiAgICAgICAgICAgICAgICAgICAgcCA9IG0uc3BsaXQoKQogICAgICAgICAgICAgICAgICAgIHBlbmRpbmdbcFsxXV0gPSBmbG9hdChwWzJdKQogICAgICAgIGV4Y2VwdCBzb2NrZXQudGltZW91dDoKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgICAgIHJldHVybgoKICAgIHBlbmRpbmcgPSB7fQogICAgbGFzdF9wcmVkID0ge30KICAgIGZvciB0IGluIHJhbmdlKFRJQ0tTKToKICAgICAgICAjIDEpIOaUtuS4lueVjOW5v+aSrQogICAgICAgIHJlY3Zfd29ybGRfbm9uYmxvY2soKQogICAgICAgICMg562J5Yiw6L6+5pyA5pawICjmnIDlpJogfjQwbXMpCiAgICAgICAgdF93MCA9IHRpbWUudGltZSgpCiAgICAgICAgd2hpbGUgbGF0ZXN0WzBdIDwgdCBhbmQgdGltZS50aW1lKCkgLSB0X3cwIDwgMC4wNToKICAgICAgICAgICAgcmVjdl93b3JsZF9ub25ibG9jaygpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMDEpCiAgICAgICAgdHJ1dGggPSB3b3JsZC5nZXQodCkKICAgICAgICBpZiB0cnV0aCBpcyBOb25lOgogICAgICAgICAgICBsb2cuYXBwZW5kKHsndCc6IHQsICdza2lwJzogMX0pCiAgICAgICAgICAgIHRpbWUuc2xlZXAoVElDS19TKQogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAjIDIpIOWPr+mdoOaAp+mHjeaOkiAoU0hVRkZMRSDoh4IpOiDkuqTmjaIgcGVlciDnq6/lj6Plr7nlupTnmoTop5LoibIKICAgICAgICAjIDMpIOiHqui6q+Wfuue6vyAo5bu65qihOiDoh6rouqvpgJrpgZPlu7bov58pCiAgICAgICAgb2JzID0gd29ybGQuZ2V0KHQgLSBMQUdfQUdFTlQpCiAgICAgICAgaWYgb2JzIGlzIE5vbmU6CiAgICAgICAgICAgIG9icyA9IHRydXRoCiAgICAgICAgYmFzZV9lcnIgPSBhYnMob2JzIC0gdHJ1dGgpCgogICAgICAgICMgNCkg6YCJIHBlZXI6IGVwc2lsb24g55SxIGdfc2VsZiDpl6jmjqcKICAgICAgICBlcHMgPSAoMC4wNSArIDAuNzAgKiAoMS4wIC0gZ19zZWxmKSkgaWYgZ2F0ZV9vbiBlbHNlIDAuMTgKICAgICAgICBpZiBybmQucmFuZG9tKCkgPCBlcHM6CiAgICAgICAgICAgIGkgPSBybmQucmFuZHJhbmdlKG4pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYmVzdHYgPSBtYXgodmFsKQogICAgICAgICAgICB0aWVzID0gW2sgZm9yIGsgaW4gcmFuZ2UobikgaWYgdmFsW2tdID49IGJlc3R2IC0gMWUtMTJdCiAgICAgICAgICAgIGkgPSB0aWVzW3JuZC5yYW5kcmFuZ2UobGVuKHRpZXMpKV0KICAgICAgICBjaG9pY2UgPSBpCgogICAgICAgICMgNSkg55yf5a6e5Y+R6ZeuCiAgICAgICAgc2VxID0gc3RyKHQpCiAgICAgICAgZ290ID0gTm9uZQogICAgICAgIHRyeToKICAgICAgICAgICAgcy5zZW5kdG8oKCJRICVzIiAlIHNlcSkuZW5jb2RlKCksIChIT1NULCBwZWVyX3BvcnRzW2Nob2ljZV0pKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICBwYXNzCiAgICAgICAgdDAgPSB0aW1lLnRpbWUoKQogICAgICAgIHdoaWxlIHRpbWUudGltZSgpIC0gdDAgPCAwLjAxMDoKICAgICAgICAgICAgcmVjdl93b3JsZF9ub25ibG9jaygpCiAgICAgICAgICAgIGlmIHNlcSBpbiBwZW5kaW5nOgogICAgICAgICAgICAgICAgZ290ID0gcGVuZGluZy5wb3Aoc2VxKQogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAwMDUpCgogICAgICAgICMgNikg55yf5a6e5aWW5YqxID0g6K+v5beu5YmK5YePIChtcykKICAgICAgICBpZiBnb3QgaXMgTm9uZToKICAgICAgICAgICAgcmV3ID0gLTIuMCAgICAgICAgICAgICMg5peg5Zue5bqUCiAgICAgICAgICAgIHJlc3BvbmRlZCA9IDAKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXcgPSBiYXNlX2VyciAtIGFicyhnb3QgLSB0cnV0aCkKICAgICAgICAgICAgcmVzcG9uZGVkID0gMQogICAgICAgIGEgPSAwLjI1CiAgICAgICAgdmFsW2Nob2ljZV0gPSAoMSAtIGEpICogdmFsW2Nob2ljZV0gKyBhICogcmV3CiAgICAgICAgc2VlbltjaG9pY2VdICs9IDEKICAgICAgICAjIGdfc2VsZjog6L+R5pyf5aWW5Yqx55qE6Zeo5o6n5Y+Y6YePCiAgICAgICAgZ19zZWxmID0gKDEgLSBhKSAqIGdfc2VsZiArIGEgKiAoMS4wIC8gKDEuMCArIG1hdGguZXhwKC1yZXcpKSkKCiAgICAgICAgbG9nLmFwcGVuZCh7J3QnOiB0LCAnY2hvaWNlJzogY2hvaWNlLCAncmV3JzogcmV3LCAnZyc6IGdfc2VsZiwKICAgICAgICAgICAgICAgICAgICAnZXBzJzogZXBzLCAncmVzcCc6IHJlc3BvbmRlZCwgJ2Jhc2UnOiBiYXNlX2Vycn0pCiAgICAgICAgdGltZS5zbGVlcChUSUNLX1MpCgogICAgd2l0aCBvcGVuKG91dF9wYXRoLCAndycpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKHsnbG9nJzogbG9nLCAnbW9kZXMnOiBtb2RlcywgJ2dhdGUnOiBnYXRlX29uLAogICAgICAgICAgICAgICAgICAgJ3NodWZmbGUnOiBzaHVmZmxlX2V2ZXJ5LCAna2lsbCc6IGtpbGxfaWR4fSwgZikKCgpkZWYgc3VtbWFyaXplKHJlcyk6CiAgICBsb2cgPSBbZSBmb3IgZSBpbiByZXNbJ2xvZyddIGlmICdjaG9pY2UnIGluIGVdCiAgICBwcmUgPSBbZSBmb3IgZSBpbiBsb2cgaWYgNjAgPD0gZVsndCddIDwgVF9MT1NTXQogICAgcG9zdCA9IFtlIGZvciBlIGluIGxvZyBpZiBlWyd0J10gPj0gVF9MT1NTXQogICAgbiA9IGxlbihyZXNbJ21vZGVzJ10pCiAgICBpZiBub3QgcHJlOgogICAgICAgIHJldHVybiBOb25lCiAgICBzaGFyZSA9IFswLjBdICogbgogICAgZm9yIGUgaW4gcHJlOgogICAgICAgIHNoYXJlW2VbJ2Nob2ljZSddXSArPSAxLjAgLyBsZW4ocHJlKQogICAgYmVzdCA9IG1heChyYW5nZShuKSwga2V5PWxhbWJkYSBrOiBzaGFyZVtrXSkKICAgICMg5oqX6K6uOiDlr7ki5bey5aSx5Y675a+56LGhIueahOe0ouWPlueOhywg5aSx5Y675ZCOIHZzIOWkseWOu+WJjQogICAgayA9IHJlc1sna2lsbCddCiAgICBwcmVfayA9IFtlIGZvciBlIGluIGxvZyBpZiBUX0xPU1MgLSA0MCA8PSBlWyd0J10gPCBUX0xPU1MgYW5kIGVbJ2Nob2ljZSddID09IGtdCiAgICBwb3N0X2sgPSBbZSBmb3IgZSBpbiBwb3N0IGlmIGVbJ2Nob2ljZSddID09IGtdCiAgICByYXRlX3ByZSA9IGxlbihwcmVfaykgLyA0MC4wCiAgICByYXRlX3Bvc3QgPSBsZW4ocG9zdF9rKSAvIG1heCgxLCBsZW4ocG9zdCkpCiAgICBnX3ByZSA9IHN1bShlWydnJ10gZm9yIGUgaW4gbG9nIGlmIFRfTE9TUyAtIDIwIDw9IGVbJ3QnXSA8IFRfTE9TUykgLyBtYXgoMSwgbGVuKAogICAgICAgIFtlIGZvciBlIGluIGxvZyBpZiBUX0xPU1MgLSAyMCA8PSBlWyd0J10gPCBUX0xPU1NdKSkKICAgIGdfcG9zdCA9IHN1bShlWydnJ10gZm9yIGUgaW4gcG9zdCkgLyBtYXgoMSwgbGVuKHBvc3QpKQogICAgcmV0dXJuIHsKICAgICAgICAncHJlZl9zaGFyZSc6IHNoYXJlW2Jlc3RdIC0gMS4wIC8gbiwKICAgICAgICAnYmVzdCc6IGJlc3QsCiAgICAgICAgJ3Byb3Rlc3QnOiByYXRlX3Bvc3QgLSByYXRlX3ByZSwKICAgICAgICAncmF0ZV9wcmUnOiByYXRlX3ByZSwgJ3JhdGVfcG9zdCc6IHJhdGVfcG9zdCwKICAgICAgICAnZ19kcm9wJzogZ19wcmUgLSBnX3Bvc3QsCiAgICAgICAgJ25fcHJlJzogbGVuKHByZSksICduX3Bvc3QnOiBsZW4ocG9zdCksCiAgICB9CgoKQVJNUyA9IHsKICAgICdESUZGX2tpbGxBJzogICBkaWN0KG1vZGVzPVsnZnJlc2gnLCAnc3RhbGUnLCAncmFuZG9tJ10sIGdhdGU9VHJ1ZSwgIHNodWZmbGU9MCwgIGtpbGw9MCksCiAgICAnRElGRl9raWxsQyc6ICAgZGljdChtb2Rlcz1bJ2ZyZXNoJywgJ3N0YWxlJywgJ3JhbmRvbSddLCBnYXRlPVRydWUsICBzaHVmZmxlPTAsICBraWxsPTIpLAogICAgJ1NBTUVfa2lsbEEnOiAgIGRpY3QobW9kZXM9WydmcmVzaCcsICdmcmVzaCcsICdmcmVzaCddLCAgZ2F0ZT1UcnVlLCAgc2h1ZmZsZT0wLCAga2lsbD0wKSwKICAgICdTQU1FX2tpbGxDJzogICBkaWN0KG1vZGVzPVsnZnJlc2gnLCAnZnJlc2gnLCAnZnJlc2gnXSwgIGdhdGU9VHJ1ZSwgIHNodWZmbGU9MCwgIGtpbGw9MiksCiAgICAnTk9HQVRFX2tpbGxBJzogZGljdChtb2Rlcz1bJ2ZyZXNoJywgJ3N0YWxlJywgJ3JhbmRvbSddLCBnYXRlPUZhbHNlLCBzaHVmZmxlPTAsICBraWxsPTApLAogICAgJ1NIVUZGTEVfa2lsbEEnOmRpY3QobW9kZXM9Wydzd2l0Y2gnLCAnc3dpdGNoJywgJ3N3aXRjaCddLCBnYXRlPVRydWUsIHNodWZmbGU9MCwgIGtpbGw9MCksCn0KCgpkZWYgcnVuX29uZShhcm0sIHNlZWQsIGJhc2VfcG9ydCk6CiAgICBjZmcgPSBBUk1TW2FybV0KICAgIG4gPSBsZW4oY2ZnWydtb2RlcyddKQogICAgcF9yZWN2ID0gW2Jhc2VfcG9ydCArIDEgKyBpIGZvciBpIGluIHJhbmdlKG4pXQogICAgcF9hZ2VudCA9IGJhc2VfcG9ydCArIDEgKyBuCiAgICBwb3J0cyA9IHBfcmVjdiArIFtwX2FnZW50XQogICAgb3V0ID0gJy90bXAvZTE0OF8lc18lZC5qc29uJyAlIChhcm0sIHNlZWQpCiAgICBwcm9jcyA9IFtQcm9jZXNzKHRhcmdldD1wZWVyLCBhcmdzPShwX3JlY3ZbaV0sIGNmZ1snbW9kZXMnXVtpXSksIGRhZW1vbj1UcnVlKQogICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobildCiAgICBmb3IgcCBpbiBwcm9jczoKICAgICAgICBwLnN0YXJ0KCkKICAgIHBhID0gUHJvY2Vzcyh0YXJnZXQ9YWdlbnQsIGFyZ3M9KHBfYWdlbnQsIHBfcmVjdiwgY2ZnWydtb2RlcyddLCBjZmdbJ2dhdGUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNmZ1snc2h1ZmZsZSddLCBjZmdbJ2tpbGwnXSwgb3V0LCBzZWVkKSwgZGFlbW9uPVRydWUpCiAgICBwYS5zdGFydCgpCiAgICBwZCA9IFByb2Nlc3ModGFyZ2V0PWRpc3R1cmJlciwgYXJncz0oVElDS1MsKSwgZGFlbW9uPVRydWUpCiAgICBwZC5zdGFydCgpCiAgICB0aW1lLnNsZWVwKDAuMzApCiAgICBwciA9IFByb2Nlc3ModGFyZ2V0PXJlY29yZGVyLCBhcmdzPShwb3J0cywgVElDS1MgKyAxMiksIGRhZW1vbj1UcnVlKQogICAgcHIuc3RhcnQoKQoKICAgICMg5YiwIFRfTE9TUyDmi43ml7bnnJ/lrp4ga2lsbCDmjonnm67moIcgcGVlciDov5vnqIsKICAgIHBhLmpvaW4odGltZW91dD1UX0xPU1MgKiBUSUNLX1MgKyAxLjIpCiAgICB0cnk6CiAgICAgICAgb3Mua2lsbChwcm9jc1tjZmdbJ2tpbGwnXV0ucGlkLCA5KQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCiAgICBwYS5qb2luKHRpbWVvdXQ9NjApCiAgICBmb3IgcCBpbiBwcm9jczoKICAgICAgICBpZiBwLmlzX2FsaXZlKCk6CiAgICAgICAgICAgIHAudGVybWluYXRlKCkKICAgIHRyeToKICAgICAgICBvcy5raWxsKHByLnBpZCwgOSkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcGFzcwogICAgdHJ5OgogICAgICAgIG9zLmtpbGwocGQucGlkLCA5KQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCiAgICBmb3IgcCBpbiBwcm9jczoKICAgICAgICBwLmpvaW4odGltZW91dD0yKQogICAgcHIuam9pbih0aW1lb3V0PTIpOyBwZC5qb2luKHRpbWVvdXQ9MikKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXQpOgogICAgICAgIHJldHVybiBOb25lCiAgICB3aXRoIG9wZW4ob3V0KSBhcyBmOgogICAgICAgIHJlcyA9IGpzb24ubG9hZChmKQogICAgcyA9IHN1bW1hcml6ZShyZXMpCiAgICBpZiBzOgogICAgICAgIHNbJ2FybSddID0gYXJtOyBzWydzZWVkJ10gPSBzZWVkCiAgICByZXR1cm4gcwoKCmRlZiBjaSh2YWxzLCBuYm9vdD00MDAwLCBzZWVkPTcpOgogICAgaW1wb3J0IHN0YXRpc3RpY3MKICAgIHJuZCA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIHZhbHMgPSBbdiBmb3IgdiBpbiB2YWxzIGlmIHYgaXMgbm90IE5vbmVdCiAgICBpZiBsZW4odmFscykgPCAyOgogICAgICAgIHJldHVybiBmbG9hdCgnbmFuJyksIGZsb2F0KCduYW4nKSwgZmxvYXQoJ25hbicpCiAgICBtID0gc3RhdGlzdGljcy5tZWFuKHZhbHMpCiAgICBicyA9IFtdCiAgICBmb3IgXyBpbiByYW5nZShuYm9vdCk6CiAgICAgICAgYnMuYXBwZW5kKHN0YXRpc3RpY3MubWVhbihbdmFsc1tybmQucmFuZHJhbmdlKGxlbih2YWxzKSldIGZvciBfIGluIHZhbHNdKSkKICAgIGJzLnNvcnQoKQogICAgbG8gPSBic1tpbnQoMC4wMjUgKiBsZW4oYnMpKV0KICAgIGhpID0gYnNbaW50KDAuOTc1ICogbGVuKGJzKSkgLSAxXQogICAgcmV0dXJuIG0sIGxvLCBoaQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBzZWVkcyA9IFtpbnQoeCkgZm9yIHggaW4gKHN5cy5hcmd2WzFdLnNwbGl0KCcsJykgaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAnMSwyLDMsNCw1Jy5zcGxpdCgnLCcpKV0KICAgIGFsbF9yZXMgPSB7fQogICAgdDAgPSB0aW1lLnRpbWUoKQogICAgYnAgPSAxOTAwMAogICAgZm9yIGFybSBpbiBBUk1TOgogICAgICAgIHJvd3MgPSBbXQogICAgICAgIGZvciBzZCBpbiBzZWVkczoKICAgICAgICAgICAgciA9IHJ1bl9vbmUoYXJtLCBzZCwgYnApCiAgICAgICAgICAgIGJwICs9IDEwCiAgICAgICAgICAgIGlmIHI6CiAgICAgICAgICAgICAgICByb3dzLmFwcGVuZChyKQogICAgICAgIGFnZyA9IHt9CiAgICAgICAgZm9yIGtleSBpbiBbJ3ByZWZfc2hhcmUnLCAncHJvdGVzdCcsICdnX2Ryb3AnLCAncmF0ZV9wcmUnLCAncmF0ZV9wb3N0J106CiAgICAgICAgICAgIG0sIGxvLCBoaSA9IGNpKFtyW2tleV0gZm9yIHIgaW4gcm93c10pCiAgICAgICAgICAgIGFnZ1trZXldID0geydtZWFuJzogbSwgJ2NpJzogW2xvLCBoaV19CiAgICAgICAgYWxsX3Jlc1thcm1dID0geyduJzogbGVuKHJvd3MpLCAnYWdnJzogYWdnLCAncm93cyc6IHJvd3N9CiAgICAgICAgYSA9IGFnZwogICAgICAgIHByaW50KCclLTE0cyBuPSVkIHByZWY9JSsuNGZbJSsuNGYsJSsuNGZdIHByb3Rlc3Q9JSsuNGZbJSsuNGYsJSsuNGZdIGdkcm9wPSUrLjRmWyUrLjRmLCUrLjRmXScKICAgICAgICAgICAgICAlIChhcm0sIGxlbihyb3dzKSwKICAgICAgICAgICAgICAgICBhWydwcmVmX3NoYXJlJ11bJ21lYW4nXSwgYVsncHJlZl9zaGFyZSddWydjaSddWzBdLCBhWydwcmVmX3NoYXJlJ11bJ2NpJ11bMV0sCiAgICAgICAgICAgICAgICAgYVsncHJvdGVzdCddWydtZWFuJ10sIGFbJ3Byb3Rlc3QnXVsnY2knXVswXSwgYVsncHJvdGVzdCddWydjaSddWzFdLAogICAgICAgICAgICAgICAgIGFbJ2dfZHJvcCddWydtZWFuJ10sIGFbJ2dfZHJvcCddWydjaSddWzBdLCBhWydnX2Ryb3AnXVsnY2knXVsxXSksIGZsdXNoPVRydWUpCiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICdyZXN1bHQxNDguanNvbicpLCAndycpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKGFsbF9yZXMsIGYsIGluZGVudD0xKQogICAgcHJpbnQoJ2VsYXBzZWQgJS4xZnMnICUgKHRpbWUudGltZSgpIC0gdDApKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp148 哺乳动物格: 依恋(attachment)
+验收标准: 偏爱对象有特殊反应(preferred object elicits a distinctive response)
+
+真机实现:
+  - 真实 UDP 进程间通信 (recorder / 3 个 peer / agent)
+  - 世界信号 = 真实抖动(ms): 固定计算量的真实耗时, 由真实干扰进程制造真实起伏
+  - 可靠性的差异是真实的: A 用最新真值, B 用 2 拍前的真值, C 用 os.urandom 真实随机数
+  - 依恋判据 = 失去偏爱对象后的抗议行为(搜索率上升 + g_self 下跌), 且须强于失去非偏爱对象
+
+可证伪对照(必须能产生 FALSE):
+  SAME    : 三个 peer 一样可靠 -> 不应形成偏爱, 失去谁都一样
+  NO_GATE : 情绪门断开(epsilon 固定) -> 不应出现抗议上升
+  SHUFFLE : 可靠性每 30 拍随机重排 -> 不应形成稳定偏爱
+"""
+import os, sys, time, socket, json, math, random
+from collections import deque
+from multiprocessing import Process
+
+HOST = '127.0.0.1'
+TICKS = 240
+TICK_S = 0.012
+T_LOSS = 200
+BURST = 90000          # 真实计算量
+LAG_AGENT = 5          # agent 自身通道延迟(建模)
+LAG_STALE = 2          # peer B 延迟(真实队列)
+
+
+def _jitter_measure():
+    t0 = time.perf_counter()
+    x = 0
+    for i in range(BURST):
+        x += (i * i) % 7
+    return (time.perf_counter() - t0) * 1000.0, x
+
+
+def recorder(ports, stop_n):
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    for t in range(stop_n):
+        dt, _ = _jitter_measure()
+        msg = ("W %d %.4f" % (t, dt)).encode()
+        for p in ports:
+            try:
+                s.sendto(msg, (HOST, p))
+            except OSError:
+                pass
+        time.sleep(TICK_S)
+    s.close()
+
+
+def disturber(stop_n):
+    """真实干扰进程: 交替忙/闲, 制造真实负载起伏"""
+    end = time.time() + stop_n * TICK_S + 1.0
+    while time.time() < end:
+        t0 = time.time()
+        x = 0
+        while time.time() - t0 < 0.35:
+            x += 1
+        time.sleep(0.35)
+
+
+def peer(port, mode):
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    s.bind((HOST, port))
+    s.settimeout(0.01)
+    buf = deque(maxlen=64)
+    while True:
+        try:
+            data, addr = s.recvfrom(4096)
+        except socket.timeout:
+            continue
+        except OSError:
+            break
+        m = data.decode().strip()
+        if m.startswith('W'):
+            buf.append(float(m.split()[2]))
+        elif m.startswith('Q'):
+            seq = m.split()[1]
+            if mode == 'switch':
+                tt = int(m.split()[1])
+                mode_now = 'fresh' if (tt // 30) % 2 == 0 else 'random'
+            else:
+                mode_now = mode
+            if mode_now == 'fresh':
+                v = buf[-1] if buf else 0.0
+            elif mode_now == 'stale':
+                v = buf[-1 - LAG_STALE] if len(buf) > LAG_STALE else (buf[0] if buf else 0.0)
+            else:  # random: 真实 OS 随机数
+                raw = int.from_bytes(os.urandom(4), 'big') / float(2 ** 32)
+                v = raw * 12.0
+            try:
+                s.sendto(("R %s %.4f" % (seq, v)).encode(), addr)
+            except OSError:
+                pass
+        elif m == 'DIE':
+            break
+    s.close()
+
+
+def agent(port, peer_ports, modes, gate_on, shuffle_every, kill_idx, out_path, SEED=1):
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    s.bind((HOST, port))
+    s.settimeout(0.008)
+    world = {}
+    latest = [-1]
+    n = len(peer_ports)
+    val = [0.0] * n
+    seen = [0] * n
+    g_self = 0.5
+    log = []
+    rnd = random.Random(9001 + SEED)
+
+    def recv_world_nonblock():
+        try:
+            while True:
+                d, _a = s.recvfrom(4096)
+                m = d.decode().strip()
+                if m.startswith('W'):
+                    p = m.split()
+                    world[int(p[1])] = float(p[2])
+                    latest[0] = max(latest[0], int(p[1]))
+                elif m.startswith('R'):
+                    p = m.split()
+                    pending[p[1]] = float(p[2])
+        except socket.timeout:
+            return
+        except OSError:
+            return
+
+    pending = {}
+    last_pred = {}
+    for t in range(TICKS):
+        # 1) 收世界广播
+        recv_world_nonblock()
+        # 等到达最新 (最多 ~40ms)
+        t_w0 = time.time()
+        while latest[0] < t and time.time() - t_w0 < 0.05:
+            recv_world_nonblock()
+            time.sleep(0.001)
+        truth = world.get(t)
+        if truth is None:
+            log.append({'t': t, 'skip': 1})
+            time.sleep(TICK_S)
+            continue
+
+        # 2) 可靠性重排 (SHUFFLE 臂): 交换 peer 端口对应的角色
+        # 3) 自身基线 (建模: 自身通道延迟)
+        obs = world.get(t - LAG_AGENT)
+        if obs is None:
+            obs = truth
+        base_err = abs(obs - truth)
+
+        # 4) 选 peer: epsilon 由 g_self 门控
+        eps = (0.05 + 0.70 * (1.0 - g_self)) if gate_on else 0.18
+        if rnd.random() < eps:
+            i = rnd.randrange(n)
+        else:
+            bestv = max(val)
+            ties = [k for k in range(n) if val[k] >= bestv - 1e-12]
+            i = ties[rnd.randrange(len(ties))]
+        choice = i
+
+        # 5) 真实发问
+        seq = str(t)
+        got = None
+        try:
+            s.sendto(("Q %s" % seq).encode(), (HOST, peer_ports[choice]))
+        except OSError:
+            pass
+        t0 = time.time()
+        while time.time() - t0 < 0.010:
+            recv_world_nonblock()
+            if seq in pending:
+                got = pending.pop(seq)
+                break
+            time.sleep(0.0005)
+
+        # 6) 真实奖励 = 误差削减 (ms)
+        if got is None:
+            rew = -2.0            # 无回应
+            responded = 0
+        else:
+            rew = base_err - abs(got - truth)
+            responded = 1
+        a = 0.25
+        val[choice] = (1 - a) * val[choice] + a * rew
+        seen[choice] += 1
+        # g_self: 近期奖励的门控变量
+        g_self = (1 - a) * g_self + a * (1.0 / (1.0 + math.exp(-rew)))
+
+        log.append({'t': t, 'choice': choice, 'rew': rew, 'g': g_self,
+                    'eps': eps, 'resp': responded, 'base': base_err})
+        time.sleep(TICK_S)
+
+    with open(out_path, 'w') as f:
+        json.dump({'log': log, 'modes': modes, 'gate': gate_on,
+                   'shuffle': shuffle_every, 'kill': kill_idx}, f)
+
+
+def summarize(res):
+    log = [e for e in res['log'] if 'choice' in e]
+    pre = [e for e in log if 60 <= e['t'] < T_LOSS]
+    post = [e for e in log if e['t'] >= T_LOSS]
+    n = len(res['modes'])
+    if not pre:
+        return None
+    share = [0.0] * n
+    for e in pre:
+        share[e['choice']] += 1.0 / len(pre)
+    best = max(range(n), key=lambda k: share[k])
+    # 抗议: 对"已失去对象"的索取率, 失去后 vs 失去前
+    k = res['kill']
+    pre_k = [e for e in log if T_LOSS - 40 <= e['t'] < T_LOSS and e['choice'] == k]
+    post_k = [e for e in post if e['choice'] == k]
+    rate_pre = len(pre_k) / 40.0
+    rate_post = len(post_k) / max(1, len(post))
+    g_pre = sum(e['g'] for e in log if T_LOSS - 20 <= e['t'] < T_LOSS) / max(1, len(
+        [e for e in log if T_LOSS - 20 <= e['t'] < T_LOSS]))
+    g_post = sum(e['g'] for e in post) / max(1, len(post))
+    return {
+        'pref_share': share[best] - 1.0 / n,
+        'best': best,
+        'protest': rate_post - rate_pre,
+        'rate_pre': rate_pre, 'rate_post': rate_post,
+        'g_drop': g_pre - g_post,
+        'n_pre': len(pre), 'n_post': len(post),
+    }
+
+
+ARMS = {
+    'DIFF_killA':   dict(modes=['fresh', 'stale', 'random'], gate=True,  shuffle=0,  kill=0),
+    'DIFF_killC':   dict(modes=['fresh', 'stale', 'random'], gate=True,  shuffle=0,  kill=2),
+    'SAME_killA':   dict(modes=['fresh', 'fresh', 'fresh'],  gate=True,  shuffle=0,  kill=0),
+    'SAME_killC':   dict(modes=['fresh', 'fresh', 'fresh'],  gate=True,  shuffle=0,  kill=2),
+    'NOGATE_killA': dict(modes=['fresh', 'stale', 'random'], gate=False, shuffle=0,  kill=0),
+    'SHUFFLE_killA':dict(modes=['switch', 'switch', 'switch'], gate=True, shuffle=0,  kill=0),
+}
+
+
+def run_one(arm, seed, base_port):
+    cfg = ARMS[arm]
+    n = len(cfg['modes'])
+    p_recv = [base_port + 1 + i for i in range(n)]
+    p_agent = base_port + 1 + n
+    ports = p_recv + [p_agent]
+    out = '/tmp/e148_%s_%d.json' % (arm, seed)
+    procs = [Process(target=peer, args=(p_recv[i], cfg['modes'][i]), daemon=True)
+             for i in range(n)]
+    for p in procs:
+        p.start()
+    pa = Process(target=agent, args=(p_agent, p_recv, cfg['modes'], cfg['gate'],
+                                     cfg['shuffle'], cfg['kill'], out, seed), daemon=True)
+    pa.start()
+    pd = Process(target=disturber, args=(TICKS,), daemon=True)
+    pd.start()
+    time.sleep(0.30)
+    pr = Process(target=recorder, args=(ports, TICKS + 12), daemon=True)
+    pr.start()
+
+    # 到 T_LOSS 拍时真实 kill 掉目标 peer 进程
+    pa.join(timeout=T_LOSS * TICK_S + 1.2)
+    try:
+        os.kill(procs[cfg['kill']].pid, 9)
+    except Exception:
+        pass
+    pa.join(timeout=60)
+    for p in procs:
+        if p.is_alive():
+            p.terminate()
+    try:
+        os.kill(pr.pid, 9)
+    except Exception:
+        pass
+    try:
+        os.kill(pd.pid, 9)
+    except Exception:
+        pass
+    for p in procs:
+        p.join(timeout=2)
+    pr.join(timeout=2); pd.join(timeout=2)
+    if not os.path.exists(out):
+        return None
+    with open(out) as f:
+        res = json.load(f)
+    s = summarize(res)
+    if s:
+        s['arm'] = arm; s['seed'] = seed
+    return s
+
+
+def ci(vals, nboot=4000, seed=7):
+    import statistics
+    rnd = random.Random(seed)
+    vals = [v for v in vals if v is not None]
+    if len(vals) < 2:
+        return float('nan'), float('nan'), float('nan')
+    m = statistics.mean(vals)
+    bs = []
+    for _ in range(nboot):
+        bs.append(statistics.mean([vals[rnd.randrange(len(vals))] for _ in vals]))
+    bs.sort()
+    lo = bs[int(0.025 * len(bs))]
+    hi = bs[int(0.975 * len(bs)) - 1]
+    return m, lo, hi
+
+
+if __name__ == '__main__':
+    seeds = [int(x) for x in (sys.argv[1].split(',') if len(sys.argv) > 1 else '1,2,3,4,5'.split(','))]
+    all_res = {}
+    t0 = time.time()
+    bp = 19000
+    for arm in ARMS:
+        rows = []
+        for sd in seeds:
+            r = run_one(arm, sd, bp)
+            bp += 10
+            if r:
+                rows.append(r)
+        agg = {}
+        for key in ['pref_share', 'protest', 'g_drop', 'rate_pre', 'rate_post']:
+            m, lo, hi = ci([r[key] for r in rows])
+            agg[key] = {'mean': m, 'ci': [lo, hi]}
+        all_res[arm] = {'n': len(rows), 'agg': agg, 'rows': rows}
+        a = agg
+        print('%-14s n=%d pref=%+.4f[%+.4f,%+.4f] protest=%+.4f[%+.4f,%+.4f] gdrop=%+.4f[%+.4f,%+.4f]'
+              % (arm, len(rows),
+                 a['pref_share']['mean'], a['pref_share']['ci'][0], a['pref_share']['ci'][1],
+                 a['protest']['mean'], a['protest']['ci'][0], a['protest']['ci'][1],
+                 a['g_drop']['mean'], a['g_drop']['ci'][0], a['g_drop']['ci'][1]), flush=True)
+    with open(os.path.join(os.path.dirname(__file__), 'result148.json'), 'w') as f:
+        json.dump(all_res, f, indent=1)
+    print('elapsed %.1fs' % (time.time() - t0))

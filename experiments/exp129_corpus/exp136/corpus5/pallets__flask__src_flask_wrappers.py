@@ -1,1 +1,257 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHR5cGluZyBhcyB0Cgpmcm9tIHdlcmt6ZXVnLmV4Y2VwdGlvbnMgaW1wb3J0IEJhZFJlcXVlc3QKZnJvbSB3ZXJremV1Zy5leGNlcHRpb25zIGltcG9ydCBIVFRQRXhjZXB0aW9uCmZyb20gd2Vya3pldWcud3JhcHBlcnMgaW1wb3J0IFJlcXVlc3QgYXMgUmVxdWVzdEJhc2UKZnJvbSB3ZXJremV1Zy53cmFwcGVycyBpbXBvcnQgUmVzcG9uc2UgYXMgUmVzcG9uc2VCYXNlCgpmcm9tIC4gaW1wb3J0IGpzb24KZnJvbSAuZ2xvYmFscyBpbXBvcnQgY3VycmVudF9hcHAKZnJvbSAuaGVscGVycyBpbXBvcnQgX3NwbGl0X2JsdWVwcmludF9wYXRoCgppZiB0LlRZUEVfQ0hFQ0tJTkc6ICAjIHByYWdtYTogbm8gY292ZXIKICAgIGZyb20gd2Vya3pldWcucm91dGluZyBpbXBvcnQgUnVsZQoKCmNsYXNzIFJlcXVlc3QoUmVxdWVzdEJhc2UpOgogICAgIiIiVGhlIHJlcXVlc3Qgb2JqZWN0IHVzZWQgYnkgZGVmYXVsdCBpbiBGbGFzay4gIFJlbWVtYmVycyB0aGUKICAgIG1hdGNoZWQgZW5kcG9pbnQgYW5kIHZpZXcgYXJndW1lbnRzLgoKICAgIEl0IGlzIHdoYXQgZW5kcyB1cCBhcyA6Y2xhc3M6YH5mbGFzay5yZXF1ZXN0YC4gIElmIHlvdSB3YW50IHRvIHJlcGxhY2UKICAgIHRoZSByZXF1ZXN0IG9iamVjdCB1c2VkIHlvdSBjYW4gc3ViY2xhc3MgdGhpcyBhbmQgc2V0CiAgICA6YXR0cjpgfmZsYXNrLkZsYXNrLnJlcXVlc3RfY2xhc3NgIHRvIHlvdXIgc3ViY2xhc3MuCgogICAgVGhlIHJlcXVlc3Qgb2JqZWN0IGlzIGEgOmNsYXNzOmB+d2Vya3pldWcud3JhcHBlcnMuUmVxdWVzdGAgc3ViY2xhc3MgYW5kCiAgICBwcm92aWRlcyBhbGwgb2YgdGhlIGF0dHJpYnV0ZXMgV2Vya3pldWcgZGVmaW5lcyBwbHVzIGEgZmV3IEZsYXNrCiAgICBzcGVjaWZpYyBvbmVzLgogICAgIiIiCgogICAganNvbl9tb2R1bGU6IHQuQW55ID0ganNvbgoKICAgICM6IFRoZSBpbnRlcm5hbCBVUkwgcnVsZSB0aGF0IG1hdGNoZWQgdGhlIHJlcXVlc3QuICBUaGlzIGNhbiBiZQogICAgIzogdXNlZnVsIHRvIGluc3BlY3Qgd2hpY2ggbWV0aG9kcyBhcmUgYWxsb3dlZCBmb3IgdGhlIFVSTCBmcm9tCiAgICAjOiBhIGJlZm9yZS9hZnRlciBoYW5kbGVyIChgYHJlcXVlc3QudXJsX3J1bGUubWV0aG9kc2BgKSBldGMuCiAgICAjOiBUaG91Z2ggaWYgdGhlIHJlcXVlc3QncyBtZXRob2Qgd2FzIGludmFsaWQgZm9yIHRoZSBVUkwgcnVsZSwKICAgICM6IHRoZSB2YWxpZCBsaXN0IGlzIGF2YWlsYWJsZSBpbiBgYHJvdXRpbmdfZXhjZXB0aW9uLnZhbGlkX21ldGhvZHNgYAogICAgIzogaW5zdGVhZCAoYW4gYXR0cmlidXRlIG9mIHRoZSBXZXJremV1ZyBleGNlcHRpb24KICAgICM6IDpleGM6YH53ZXJremV1Zy5leGNlcHRpb25zLk1ldGhvZE5vdEFsbG93ZWRgKQogICAgIzogYmVjYXVzZSB0aGUgcmVxdWVzdCB3YXMgbmV2ZXIgaW50ZXJuYWxseSBib3VuZC4KICAgICM6CiAgICAjOiAuLiB2ZXJzaW9uYWRkZWQ6OiAwLjYKICAgIHVybF9ydWxlOiBSdWxlIHwgTm9uZSA9IE5vbmUKCiAgICAjOiBBIGRpY3Qgb2YgdmlldyBhcmd1bWVudHMgdGhhdCBtYXRjaGVkIHRoZSByZXF1ZXN0LiAgSWYgYW4gZXhjZXB0aW9uCiAgICAjOiBoYXBwZW5lZCB3aGVuIG1hdGNoaW5nLCB0aGlzIHdpbGwgYmUgYGBOb25lYGAuCiAgICB2aWV3X2FyZ3M6IGRpY3Rbc3RyLCB0LkFueV0gfCBOb25lID0gTm9uZQoKICAgICM6IElmIG1hdGNoaW5nIHRoZSBVUkwgZmFpbGVkLCB0aGlzIGlzIHRoZSBleGNlcHRpb24gdGhhdCB3aWxsIGJlCiAgICAjOiByYWlzZWQgLyB3YXMgcmFpc2VkIGFzIHBhcnQgb2YgdGhlIHJlcXVlc3QgaGFuZGxpbmcuICBUaGlzIGlzCiAgICAjOiB1c3VhbGx5IGEgOmV4Yzpgfndlcmt6ZXVnLmV4Y2VwdGlvbnMuTm90Rm91bmRgIGV4Y2VwdGlvbiBvcgogICAgIzogc29tZXRoaW5nIHNpbWlsYXIuCiAgICByb3V0aW5nX2V4Y2VwdGlvbjogSFRUUEV4Y2VwdGlvbiB8IE5vbmUgPSBOb25lCgogICAgX21heF9jb250ZW50X2xlbmd0aDogaW50IHwgTm9uZSA9IE5vbmUKICAgIF9tYXhfZm9ybV9tZW1vcnlfc2l6ZTogaW50IHwgTm9uZSA9IE5vbmUKICAgIF9tYXhfZm9ybV9wYXJ0czogaW50IHwgTm9uZSA9IE5vbmUKCiAgICBAcHJvcGVydHkKICAgIGRlZiBtYXhfY29udGVudF9sZW5ndGgoc2VsZikgLT4gaW50IHwgTm9uZToKICAgICAgICAiIiJUaGUgbWF4aW11bSBudW1iZXIgb2YgYnl0ZXMgdGhhdCB3aWxsIGJlIHJlYWQgZHVyaW5nIHRoaXMgcmVxdWVzdC4gSWYKICAgICAgICB0aGlzIGxpbWl0IGlzIGV4Y2VlZGVkLCBhIDQxMyA6ZXhjOmB+d2Vya3pldWcuZXhjZXB0aW9ucy5SZXF1ZXN0RW50aXR5VG9vTGFyZ2VgCiAgICAgICAgZXJyb3IgaXMgcmFpc2VkLiBJZiBpdCBpcyBzZXQgdG8gYGBOb25lYGAsIG5vIGxpbWl0IGlzIGVuZm9yY2VkIGF0IHRoZQogICAgICAgIEZsYXNrIGFwcGxpY2F0aW9uIGxldmVsLiBIb3dldmVyLCBpZiBpdCBpcyBgYE5vbmVgYCBhbmQgdGhlIHJlcXVlc3QgaGFzCiAgICAgICAgbm8gYGBDb250ZW50LUxlbmd0aGBgIGhlYWRlciBhbmQgdGhlIFdTR0kgc2VydmVyIGRvZXMgbm90IGluZGljYXRlIHRoYXQKICAgICAgICBpdCB0ZXJtaW5hdGVzIHRoZSBzdHJlYW0sIHRoZW4gbm8gZGF0YSBpcyByZWFkIHRvIGF2b2lkIGFuIGluZmluaXRlCiAgICAgICAgc3RyZWFtLgoKICAgICAgICBFYWNoIHJlcXVlc3QgZGVmYXVsdHMgdG8gdGhlIDpkYXRhOmBNQVhfQ09OVEVOVF9MRU5HVEhgIGNvbmZpZywgd2hpY2gKICAgICAgICBkZWZhdWx0cyB0byBgYE5vbmVgYC4gSXQgY2FuIGJlIHNldCBvbiBhIHNwZWNpZmljIGBgcmVxdWVzdGBgIHRvIGFwcGx5CiAgICAgICAgdGhlIGxpbWl0IHRvIHRoYXQgc3BlY2lmaWMgdmlldy4gVGhpcyBzaG91bGQgYmUgc2V0IGFwcHJvcHJpYXRlbHkgYmFzZWQKICAgICAgICBvbiBhbiBhcHBsaWNhdGlvbidzIG9yIHZpZXcncyBzcGVjaWZpYyBuZWVkcy4KCiAgICAgICAgLi4gdmVyc2lvbmNoYW5nZWQ6OiAzLjEKICAgICAgICAgICAgVGhpcyBjYW4gYmUgc2V0IHBlci1yZXF1ZXN0LgoKICAgICAgICAuLiB2ZXJzaW9uY2hhbmdlZDo6IDAuNgogICAgICAgICAgICBUaGlzIGlzIGNvbmZpZ3VyYWJsZSB0aHJvdWdoIEZsYXNrIGNvbmZpZy4KICAgICAgICAiIiIKICAgICAgICBpZiBzZWxmLl9tYXhfY29udGVudF9sZW5ndGggaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLl9tYXhfY29udGVudF9sZW5ndGgKCiAgICAgICAgaWYgbm90IGN1cnJlbnRfYXBwOgogICAgICAgICAgICByZXR1cm4gc3VwZXIoKS5tYXhfY29udGVudF9sZW5ndGgKCiAgICAgICAgcmV0dXJuIGN1cnJlbnRfYXBwLmNvbmZpZ1siTUFYX0NPTlRFTlRfTEVOR1RIIl0gICMgdHlwZTogaWdub3JlW25vLWFueS1yZXR1cm5dCgogICAgQG1heF9jb250ZW50X2xlbmd0aC5zZXR0ZXIKICAgIGRlZiBtYXhfY29udGVudF9sZW5ndGgoc2VsZiwgdmFsdWU6IGludCB8IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5fbWF4X2NvbnRlbnRfbGVuZ3RoID0gdmFsdWUKCiAgICBAcHJvcGVydHkKICAgIGRlZiBtYXhfZm9ybV9tZW1vcnlfc2l6ZShzZWxmKSAtPiBpbnQgfCBOb25lOgogICAgICAgICIiIlRoZSBtYXhpbXVtIHNpemUgaW4gYnl0ZXMgYW55IG5vbi1maWxlIGZvcm0gZmllbGQgbWF5IGJlIGluIGEKICAgICAgICBgYG11bHRpcGFydC9mb3JtLWRhdGFgYCBib2R5LiBJZiB0aGlzIGxpbWl0IGlzIGV4Y2VlZGVkLCBhIDQxMwogICAgICAgIDpleGM6YH53ZXJremV1Zy5leGNlcHRpb25zLlJlcXVlc3RFbnRpdHlUb29MYXJnZWAgZXJyb3IgaXMgcmFpc2VkLiBJZiBpdAogICAgICAgIGlzIHNldCB0byBgYE5vbmVgYCwgbm8gbGltaXQgaXMgZW5mb3JjZWQgYXQgdGhlIEZsYXNrIGFwcGxpY2F0aW9uIGxldmVsLgoKICAgICAgICBFYWNoIHJlcXVlc3QgZGVmYXVsdHMgdG8gdGhlIDpkYXRhOmBNQVhfRk9STV9NRU1PUllfU0laRWAgY29uZmlnLCB3aGljaAogICAgICAgIGRlZmF1bHRzIHRvIGBgNTAwXzAwMGBgLiBJdCBjYW4gYmUgc2V0IG9uIGEgc3BlY2lmaWMgYGByZXF1ZXN0YGAgdG8KICAgICAgICBhcHBseSB0aGUgbGltaXQgdG8gdGhhdCBzcGVjaWZpYyB2aWV3LiBUaGlzIHNob3VsZCBiZSBzZXQgYXBwcm9wcmlhdGVseQogICAgICAgIGJhc2VkIG9uIGFuIGFwcGxpY2F0aW9uJ3Mgb3IgdmlldydzIHNwZWNpZmljIG5lZWRzLgoKICAgICAgICAuLiB2ZXJzaW9uY2hhbmdlZDo6IDMuMQogICAgICAgICAgICBUaGlzIGlzIGNvbmZpZ3VyYWJsZSB0aHJvdWdoIEZsYXNrIGNvbmZpZy4KICAgICAgICAiIiIKICAgICAgICBpZiBzZWxmLl9tYXhfZm9ybV9tZW1vcnlfc2l6ZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX21heF9mb3JtX21lbW9yeV9zaXplCgogICAgICAgIGlmIG5vdCBjdXJyZW50X2FwcDoKICAgICAgICAgICAgcmV0dXJuIHN1cGVyKCkubWF4X2Zvcm1fbWVtb3J5X3NpemUKCiAgICAgICAgcmV0dXJuIGN1cnJlbnRfYXBwLmNvbmZpZ1siTUFYX0ZPUk1fTUVNT1JZX1NJWkUiXSAgIyB0eXBlOiBpZ25vcmVbbm8tYW55LXJldHVybl0KCiAgICBAbWF4X2Zvcm1fbWVtb3J5X3NpemUuc2V0dGVyCiAgICBkZWYgbWF4X2Zvcm1fbWVtb3J5X3NpemUoc2VsZiwgdmFsdWU6IGludCB8IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5fbWF4X2Zvcm1fbWVtb3J5X3NpemUgPSB2YWx1ZQoKICAgIEBwcm9wZXJ0eSAgIyB0eXBlOiBpZ25vcmVbb3ZlcnJpZGVdCiAgICBkZWYgbWF4X2Zvcm1fcGFydHMoc2VsZikgLT4gaW50IHwgTm9uZToKICAgICAgICAiIiJUaGUgbWF4aW11bSBudW1iZXIgb2YgZmllbGRzIHRoYXQgbWF5IGJlIHByZXNlbnQgaW4gYQogICAgICAgIGBgbXVsdGlwYXJ0L2Zvcm0tZGF0YWBgIGJvZHkuIElmIHRoaXMgbGltaXQgaXMgZXhjZWVkZWQsIGEgNDEzCiAgICAgICAgOmV4Yzpgfndlcmt6ZXVnLmV4Y2VwdGlvbnMuUmVxdWVzdEVudGl0eVRvb0xhcmdlYCBlcnJvciBpcyByYWlzZWQuIElmIGl0CiAgICAgICAgaXMgc2V0IHRvIGBgTm9uZWBgLCBubyBsaW1pdCBpcyBlbmZvcmNlZCBhdCB0aGUgRmxhc2sgYXBwbGljYXRpb24gbGV2ZWwuCgogICAgICAgIEVhY2ggcmVxdWVzdCBkZWZhdWx0cyB0byB0aGUgOmRhdGE6YE1BWF9GT1JNX1BBUlRTYCBjb25maWcsIHdoaWNoCiAgICAgICAgZGVmYXVsdHMgdG8gYGAxXzAwMGBgLiBJdCBjYW4gYmUgc2V0IG9uIGEgc3BlY2lmaWMgYGByZXF1ZXN0YGAgdG8gYXBwbHkKICAgICAgICB0aGUgbGltaXQgdG8gdGhhdCBzcGVjaWZpYyB2aWV3LiBUaGlzIHNob3VsZCBiZSBzZXQgYXBwcm9wcmlhdGVseSBiYXNlZAogICAgICAgIG9uIGFuIGFwcGxpY2F0aW9uJ3Mgb3IgdmlldydzIHNwZWNpZmljIG5lZWRzLgoKICAgICAgICAuLiB2ZXJzaW9uY2hhbmdlZDo6IDMuMQogICAgICAgICAgICBUaGlzIGlzIGNvbmZpZ3VyYWJsZSB0aHJvdWdoIEZsYXNrIGNvbmZpZy4KICAgICAgICAiIiIKICAgICAgICBpZiBzZWxmLl9tYXhfZm9ybV9wYXJ0cyBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX21heF9mb3JtX3BhcnRzCgogICAgICAgIGlmIG5vdCBjdXJyZW50X2FwcDoKICAgICAgICAgICAgcmV0dXJuIHN1cGVyKCkubWF4X2Zvcm1fcGFydHMKCiAgICAgICAgcmV0dXJuIGN1cnJlbnRfYXBwLmNvbmZpZ1siTUFYX0ZPUk1fUEFSVFMiXSAgIyB0eXBlOiBpZ25vcmVbbm8tYW55LXJldHVybl0KCiAgICBAbWF4X2Zvcm1fcGFydHMuc2V0dGVyCiAgICBkZWYgbWF4X2Zvcm1fcGFydHMoc2VsZiwgdmFsdWU6IGludCB8IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5fbWF4X2Zvcm1fcGFydHMgPSB2YWx1ZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGVuZHBvaW50KHNlbGYpIC0+IHN0ciB8IE5vbmU6CiAgICAgICAgIiIiVGhlIGVuZHBvaW50IHRoYXQgbWF0Y2hlZCB0aGUgcmVxdWVzdCBVUkwuCgogICAgICAgIFRoaXMgd2lsbCBiZSBgYE5vbmVgYCBpZiBtYXRjaGluZyBmYWlsZWQgb3IgaGFzIG5vdCBiZWVuCiAgICAgICAgcGVyZm9ybWVkIHlldC4KCiAgICAgICAgVGhpcyBpbiBjb21iaW5hdGlvbiB3aXRoIDphdHRyOmB2aWV3X2FyZ3NgIGNhbiBiZSB1c2VkIHRvCiAgICAgICAgcmVjb25zdHJ1Y3QgdGhlIHNhbWUgVVJMIG9yIGEgbW9kaWZpZWQgVVJMLgogICAgICAgICIiIgogICAgICAgIGlmIHNlbGYudXJsX3J1bGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLnVybF9ydWxlLmVuZHBvaW50ICAjIHR5cGU6IGlnbm9yZVtuby1hbnktcmV0dXJuXQoKICAgICAgICByZXR1cm4gTm9uZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGJsdWVwcmludChzZWxmKSAtPiBzdHIgfCBOb25lOgogICAgICAgICIiIlRoZSByZWdpc3RlcmVkIG5hbWUgb2YgdGhlIGN1cnJlbnQgYmx1ZXByaW50LgoKICAgICAgICBUaGlzIHdpbGwgYmUgYGBOb25lYGAgaWYgdGhlIGVuZHBvaW50IGlzIG5vdCBwYXJ0IG9mIGEKICAgICAgICBibHVlcHJpbnQsIG9yIGlmIFVSTCBtYXRjaGluZyBmYWlsZWQgb3IgaGFzIG5vdCBiZWVuIHBlcmZvcm1lZAogICAgICAgIHlldC4KCiAgICAgICAgVGhpcyBkb2VzIG5vdCBuZWNlc3NhcmlseSBtYXRjaCB0aGUgbmFtZSB0aGUgYmx1ZXByaW50IHdhcwogICAgICAgIGNyZWF0ZWQgd2l0aC4gSXQgbWF5IGhhdmUgYmVlbiBuZXN0ZWQsIG9yIHJlZ2lzdGVyZWQgd2l0aCBhCiAgICAgICAgZGlmZmVyZW50IG5hbWUuCiAgICAgICAgIiIiCiAgICAgICAgZW5kcG9pbnQgPSBzZWxmLmVuZHBvaW50CgogICAgICAgIGlmIGVuZHBvaW50IGlzIG5vdCBOb25lIGFuZCAiLiIgaW4gZW5kcG9pbnQ6CiAgICAgICAgICAgIHJldHVybiBlbmRwb2ludC5ycGFydGl0aW9uKCIuIilbMF0KCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBAcHJvcGVydHkKICAgIGRlZiBibHVlcHJpbnRzKHNlbGYpIC0+IGxpc3Rbc3RyXToKICAgICAgICAiIiJUaGUgcmVnaXN0ZXJlZCBuYW1lcyBvZiB0aGUgY3VycmVudCBibHVlcHJpbnQgdXB3YXJkcyB0aHJvdWdoCiAgICAgICAgcGFyZW50IGJsdWVwcmludHMuCgogICAgICAgIFRoaXMgd2lsbCBiZSBhbiBlbXB0eSBsaXN0IGlmIHRoZXJlIGlzIG5vIGN1cnJlbnQgYmx1ZXByaW50LCBvcgogICAgICAgIGlmIFVSTCBtYXRjaGluZyBmYWlsZWQuCgogICAgICAgIC4uIHZlcnNpb25hZGRlZDo6IDIuMC4xCiAgICAgICAgIiIiCiAgICAgICAgbmFtZSA9IHNlbGYuYmx1ZXByaW50CgogICAgICAgIGlmIG5hbWUgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIFtdCgogICAgICAgIHJldHVybiBfc3BsaXRfYmx1ZXByaW50X3BhdGgobmFtZSkKCiAgICBkZWYgX2xvYWRfZm9ybV9kYXRhKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgc3VwZXIoKS5fbG9hZF9mb3JtX2RhdGEoKQoKICAgICAgICAjIEluIGRlYnVnIG1vZGUgd2UncmUgcmVwbGFjaW5nIHRoZSBmaWxlcyBtdWx0aWRpY3Qgd2l0aCBhbiBhZC1ob2MKICAgICAgICAjIHN1YmNsYXNzIHRoYXQgcmFpc2VzIGEgZGlmZmVyZW50IGVycm9yIGZvciBrZXkgZXJyb3JzLgogICAgICAgIGlmICgKICAgICAgICAgICAgY3VycmVudF9hcHAKICAgICAgICAgICAgYW5kIGN1cnJlbnRfYXBwLmRlYnVnCiAgICAgICAgICAgIGFuZCBzZWxmLm1pbWV0eXBlICE9ICJtdWx0aXBhcnQvZm9ybS1kYXRhIgogICAgICAgICAgICBhbmQgbm90IHNlbGYuZmlsZXMKICAgICAgICApOgogICAgICAgICAgICBmcm9tIC5kZWJ1Z2hlbHBlcnMgaW1wb3J0IGF0dGFjaF9lbmN0eXBlX2Vycm9yX211bHRpZGljdAoKICAgICAgICAgICAgYXR0YWNoX2VuY3R5cGVfZXJyb3JfbXVsdGlkaWN0KHNlbGYpCgogICAgZGVmIG9uX2pzb25fbG9hZGluZ19mYWlsZWQoc2VsZiwgZTogVmFsdWVFcnJvciB8IE5vbmUpIC0+IHQuQW55OgogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIHN1cGVyKCkub25fanNvbl9sb2FkaW5nX2ZhaWxlZChlKQogICAgICAgIGV4Y2VwdCBCYWRSZXF1ZXN0IGFzIGVicjoKICAgICAgICAgICAgaWYgY3VycmVudF9hcHAgYW5kIGN1cnJlbnRfYXBwLmRlYnVnOgogICAgICAgICAgICAgICAgcmFpc2UKCiAgICAgICAgICAgIHJhaXNlIEJhZFJlcXVlc3QoKSBmcm9tIGVicgoKCmNsYXNzIFJlc3BvbnNlKFJlc3BvbnNlQmFzZSk6CiAgICAiIiJUaGUgcmVzcG9uc2Ugb2JqZWN0IHRoYXQgaXMgdXNlZCBieSBkZWZhdWx0IGluIEZsYXNrLiAgV29ya3MgbGlrZSB0aGUKICAgIHJlc3BvbnNlIG9iamVjdCBmcm9tIFdlcmt6ZXVnIGJ1dCBpcyBzZXQgdG8gaGF2ZSBhbiBIVE1MIG1pbWV0eXBlIGJ5CiAgICBkZWZhdWx0LiAgUXVpdGUgb2Z0ZW4geW91IGRvbid0IGhhdmUgdG8gY3JlYXRlIHRoaXMgb2JqZWN0IHlvdXJzZWxmIGJlY2F1c2UKICAgIDptZXRoOmB+Zmxhc2suRmxhc2subWFrZV9yZXNwb25zZWAgd2lsbCB0YWtlIGNhcmUgb2YgdGhhdCBmb3IgeW91LgoKICAgIElmIHlvdSB3YW50IHRvIHJlcGxhY2UgdGhlIHJlc3BvbnNlIG9iamVjdCB1c2VkIHlvdSBjYW4gc3ViY2xhc3MgdGhpcyBhbmQKICAgIHNldCA6YXR0cjpgfmZsYXNrLkZsYXNrLnJlc3BvbnNlX2NsYXNzYCB0byB5b3VyIHN1YmNsYXNzLgoKICAgIC4uIHZlcnNpb25jaGFuZ2VkOjogMS4wCiAgICAgICAgSlNPTiBzdXBwb3J0IGlzIGFkZGVkIHRvIHRoZSByZXNwb25zZSwgbGlrZSB0aGUgcmVxdWVzdC4gVGhpcyBpcyB1c2VmdWwKICAgICAgICB3aGVuIHRlc3RpbmcgdG8gZ2V0IHRoZSB0ZXN0IGNsaWVudCByZXNwb25zZSBkYXRhIGFzIEpTT04uCgogICAgLi4gdmVyc2lvbmNoYW5nZWQ6OiAxLjAKCiAgICAgICAgQWRkZWQgOmF0dHI6YG1heF9jb29raWVfc2l6ZWAuCiAgICAiIiIKCiAgICBkZWZhdWx0X21pbWV0eXBlOiBzdHIgfCBOb25lID0gInRleHQvaHRtbCIKCiAgICBqc29uX21vZHVsZSA9IGpzb24KCiAgICBhdXRvY29ycmVjdF9sb2NhdGlvbl9oZWFkZXIgPSBGYWxzZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG1heF9jb29raWVfc2l6ZShzZWxmKSAtPiBpbnQ6ICAjIHR5cGU6IGlnbm9yZQogICAgICAgICIiIlJlYWQtb25seSB2aWV3IG9mIHRoZSA6ZGF0YTpgTUFYX0NPT0tJRV9TSVpFYCBjb25maWcga2V5LgoKICAgICAgICBTZWUgOmF0dHI6YH53ZXJremV1Zy53cmFwcGVycy5SZXNwb25zZS5tYXhfY29va2llX3NpemVgIGluCiAgICAgICAgV2Vya3pldWcncyBkb2NzLgogICAgICAgICIiIgogICAgICAgIGlmIGN1cnJlbnRfYXBwOgogICAgICAgICAgICByZXR1cm4gY3VycmVudF9hcHAuY29uZmlnWyJNQVhfQ09PS0lFX1NJWkUiXSAgIyB0eXBlOiBpZ25vcmVbbm8tYW55LXJldHVybl0KCiAgICAgICAgIyByZXR1cm4gV2Vya3pldWcncyBkZWZhdWx0IHdoZW4gbm90IGluIGFuIGFwcCBjb250ZXh0CiAgICAgICAgcmV0dXJuIHN1cGVyKCkubWF4X2Nvb2tpZV9zaXplCg==
+from __future__ import annotations
+
+import typing as t
+
+from werkzeug.exceptions import BadRequest
+from werkzeug.exceptions import HTTPException
+from werkzeug.wrappers import Request as RequestBase
+from werkzeug.wrappers import Response as ResponseBase
+
+from . import json
+from .globals import current_app
+from .helpers import _split_blueprint_path
+
+if t.TYPE_CHECKING:  # pragma: no cover
+    from werkzeug.routing import Rule
+
+
+class Request(RequestBase):
+    """The request object used by default in Flask.  Remembers the
+    matched endpoint and view arguments.
+
+    It is what ends up as :class:`~flask.request`.  If you want to replace
+    the request object used you can subclass this and set
+    :attr:`~flask.Flask.request_class` to your subclass.
+
+    The request object is a :class:`~werkzeug.wrappers.Request` subclass and
+    provides all of the attributes Werkzeug defines plus a few Flask
+    specific ones.
+    """
+
+    json_module: t.Any = json
+
+    #: The internal URL rule that matched the request.  This can be
+    #: useful to inspect which methods are allowed for the URL from
+    #: a before/after handler (``request.url_rule.methods``) etc.
+    #: Though if the request's method was invalid for the URL rule,
+    #: the valid list is available in ``routing_exception.valid_methods``
+    #: instead (an attribute of the Werkzeug exception
+    #: :exc:`~werkzeug.exceptions.MethodNotAllowed`)
+    #: because the request was never internally bound.
+    #:
+    #: .. versionadded:: 0.6
+    url_rule: Rule | None = None
+
+    #: A dict of view arguments that matched the request.  If an exception
+    #: happened when matching, this will be ``None``.
+    view_args: dict[str, t.Any] | None = None
+
+    #: If matching the URL failed, this is the exception that will be
+    #: raised / was raised as part of the request handling.  This is
+    #: usually a :exc:`~werkzeug.exceptions.NotFound` exception or
+    #: something similar.
+    routing_exception: HTTPException | None = None
+
+    _max_content_length: int | None = None
+    _max_form_memory_size: int | None = None
+    _max_form_parts: int | None = None
+
+    @property
+    def max_content_length(self) -> int | None:
+        """The maximum number of bytes that will be read during this request. If
+        this limit is exceeded, a 413 :exc:`~werkzeug.exceptions.RequestEntityTooLarge`
+        error is raised. If it is set to ``None``, no limit is enforced at the
+        Flask application level. However, if it is ``None`` and the request has
+        no ``Content-Length`` header and the WSGI server does not indicate that
+        it terminates the stream, then no data is read to avoid an infinite
+        stream.
+
+        Each request defaults to the :data:`MAX_CONTENT_LENGTH` config, which
+        defaults to ``None``. It can be set on a specific ``request`` to apply
+        the limit to that specific view. This should be set appropriately based
+        on an application's or view's specific needs.
+
+        .. versionchanged:: 3.1
+            This can be set per-request.
+
+        .. versionchanged:: 0.6
+            This is configurable through Flask config.
+        """
+        if self._max_content_length is not None:
+            return self._max_content_length
+
+        if not current_app:
+            return super().max_content_length
+
+        return current_app.config["MAX_CONTENT_LENGTH"]  # type: ignore[no-any-return]
+
+    @max_content_length.setter
+    def max_content_length(self, value: int | None) -> None:
+        self._max_content_length = value
+
+    @property
+    def max_form_memory_size(self) -> int | None:
+        """The maximum size in bytes any non-file form field may be in a
+        ``multipart/form-data`` body. If this limit is exceeded, a 413
+        :exc:`~werkzeug.exceptions.RequestEntityTooLarge` error is raised. If it
+        is set to ``None``, no limit is enforced at the Flask application level.
+
+        Each request defaults to the :data:`MAX_FORM_MEMORY_SIZE` config, which
+        defaults to ``500_000``. It can be set on a specific ``request`` to
+        apply the limit to that specific view. This should be set appropriately
+        based on an application's or view's specific needs.
+
+        .. versionchanged:: 3.1
+            This is configurable through Flask config.
+        """
+        if self._max_form_memory_size is not None:
+            return self._max_form_memory_size
+
+        if not current_app:
+            return super().max_form_memory_size
+
+        return current_app.config["MAX_FORM_MEMORY_SIZE"]  # type: ignore[no-any-return]
+
+    @max_form_memory_size.setter
+    def max_form_memory_size(self, value: int | None) -> None:
+        self._max_form_memory_size = value
+
+    @property  # type: ignore[override]
+    def max_form_parts(self) -> int | None:
+        """The maximum number of fields that may be present in a
+        ``multipart/form-data`` body. If this limit is exceeded, a 413
+        :exc:`~werkzeug.exceptions.RequestEntityTooLarge` error is raised. If it
+        is set to ``None``, no limit is enforced at the Flask application level.
+
+        Each request defaults to the :data:`MAX_FORM_PARTS` config, which
+        defaults to ``1_000``. It can be set on a specific ``request`` to apply
+        the limit to that specific view. This should be set appropriately based
+        on an application's or view's specific needs.
+
+        .. versionchanged:: 3.1
+            This is configurable through Flask config.
+        """
+        if self._max_form_parts is not None:
+            return self._max_form_parts
+
+        if not current_app:
+            return super().max_form_parts
+
+        return current_app.config["MAX_FORM_PARTS"]  # type: ignore[no-any-return]
+
+    @max_form_parts.setter
+    def max_form_parts(self, value: int | None) -> None:
+        self._max_form_parts = value
+
+    @property
+    def endpoint(self) -> str | None:
+        """The endpoint that matched the request URL.
+
+        This will be ``None`` if matching failed or has not been
+        performed yet.
+
+        This in combination with :attr:`view_args` can be used to
+        reconstruct the same URL or a modified URL.
+        """
+        if self.url_rule is not None:
+            return self.url_rule.endpoint  # type: ignore[no-any-return]
+
+        return None
+
+    @property
+    def blueprint(self) -> str | None:
+        """The registered name of the current blueprint.
+
+        This will be ``None`` if the endpoint is not part of a
+        blueprint, or if URL matching failed or has not been performed
+        yet.
+
+        This does not necessarily match the name the blueprint was
+        created with. It may have been nested, or registered with a
+        different name.
+        """
+        endpoint = self.endpoint
+
+        if endpoint is not None and "." in endpoint:
+            return endpoint.rpartition(".")[0]
+
+        return None
+
+    @property
+    def blueprints(self) -> list[str]:
+        """The registered names of the current blueprint upwards through
+        parent blueprints.
+
+        This will be an empty list if there is no current blueprint, or
+        if URL matching failed.
+
+        .. versionadded:: 2.0.1
+        """
+        name = self.blueprint
+
+        if name is None:
+            return []
+
+        return _split_blueprint_path(name)
+
+    def _load_form_data(self) -> None:
+        super()._load_form_data()
+
+        # In debug mode we're replacing the files multidict with an ad-hoc
+        # subclass that raises a different error for key errors.
+        if (
+            current_app
+            and current_app.debug
+            and self.mimetype != "multipart/form-data"
+            and not self.files
+        ):
+            from .debughelpers import attach_enctype_error_multidict
+
+            attach_enctype_error_multidict(self)
+
+    def on_json_loading_failed(self, e: ValueError | None) -> t.Any:
+        try:
+            return super().on_json_loading_failed(e)
+        except BadRequest as ebr:
+            if current_app and current_app.debug:
+                raise
+
+            raise BadRequest() from ebr
+
+
+class Response(ResponseBase):
+    """The response object that is used by default in Flask.  Works like the
+    response object from Werkzeug but is set to have an HTML mimetype by
+    default.  Quite often you don't have to create this object yourself because
+    :meth:`~flask.Flask.make_response` will take care of that for you.
+
+    If you want to replace the response object used you can subclass this and
+    set :attr:`~flask.Flask.response_class` to your subclass.
+
+    .. versionchanged:: 1.0
+        JSON support is added to the response, like the request. This is useful
+        when testing to get the test client response data as JSON.
+
+    .. versionchanged:: 1.0
+
+        Added :attr:`max_cookie_size`.
+    """
+
+    default_mimetype: str | None = "text/html"
+
+    json_module = json
+
+    autocorrect_location_header = False
+
+    @property
+    def max_cookie_size(self) -> int:  # type: ignore
+        """Read-only view of the :data:`MAX_COOKIE_SIZE` config key.
+
+        See :attr:`~werkzeug.wrappers.Response.max_cookie_size` in
+        Werkzeug's docs.
+        """
+        if current_app:
+            return current_app.config["MAX_COOKIE_SIZE"]  # type: ignore[no-any-return]
+
+        # return Werkzeug's default when not in an app context
+        return super().max_cookie_size

@@ -1,1 +1,19 @@
-aW1wb3J0IG9zLCBzdHJ1Y3QKTlNMT1Q9OApQQVRIPU5vbmUKZGVmIGluaXQocGF0aCk6CiAgICBnbG9iYWwgUEFUSAogICAgUEFUSD1wYXRoCiAgICB3aXRoIG9wZW4ocGF0aCwnd2InKSBhcyBmOiBmLndyaXRlKHN0cnVjdC5wYWNrKCc8OGknLCpbMF0qTlNMT1QpKQpkZWYgcmVhZCgpOgogICAgd2l0aCBvcGVuKFBBVEgsJ3JiJykgYXMgZjogcmV0dXJuIGxpc3Qoc3RydWN0LnVucGFjaygnPDhpJyxmLnJlYWQoMzIpKSkKZGVmIGJ1bXAoc2xvdCk6CiAgICAiIiLnnJ8gUk1X77yacmVhZC1tb2RpZnktd3JpdGXvvIzkuKTkuKrov5vnqIvlkIzmp73kvJrnnJ/lrp4gcmFjZSIiIgogICAgZmQ9b3Mub3BlbihQQVRILG9zLk9fUkRXUikKICAgIHRyeToKICAgICAgICBvcy5sc2VlayhmZCxzbG90KjQsb3MuU0VFS19TRVQpCiAgICAgICAgdj1zdHJ1Y3QudW5wYWNrKCc8aScsb3MucmVhZChmZCw0KSlbMF0KICAgICAgICBvcy5sc2VlayhmZCxzbG90KjQsb3MuU0VFS19TRVQpCiAgICAgICAgb3Mud3JpdGUoZmQsc3RydWN0LnBhY2soJzxpJyx2KzEpKQogICAgZmluYWxseToKICAgICAgICBvcy5jbG9zZShmZCkK
+import os, struct
+NSLOT=8
+PATH=None
+def init(path):
+    global PATH
+    PATH=path
+    with open(path,'wb') as f: f.write(struct.pack('<8i',*[0]*NSLOT))
+def read():
+    with open(PATH,'rb') as f: return list(struct.unpack('<8i',f.read(32)))
+def bump(slot):
+    """真 RMW：read-modify-write，两个进程同槽会真实 race"""
+    fd=os.open(PATH,os.O_RDWR)
+    try:
+        os.lseek(fd,slot*4,os.SEEK_SET)
+        v=struct.unpack('<i',os.read(fd,4))[0]
+        os.lseek(fd,slot*4,os.SEEK_SET)
+        os.write(fd,struct.pack('<i',v+1))
+    finally:
+        os.close(fd)

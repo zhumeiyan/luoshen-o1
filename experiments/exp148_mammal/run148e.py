@@ -1,1 +1,84 @@
-aW1wb3J0IGpzb24sIG1hdGgsIG9zLCByYW5kb20KaW1wb3J0IG51bXB5IGFzIG5wClJPT1Q9Jy91c3IvbGliL3B5dGhvbjMuMTAnCmRlZiBzY2FuZChwKToKICAgIHRyeToKICAgICAgICBlPWxpc3Qob3Muc2NhbmRpcihwKSk7IHJldHVybiBbeC5wYXRoIGZvciB4IGluIGUgaWYgeC5pc19kaXIoKV0sIHN1bSgxIGZvciB4IGluIGUgaWYgeC5pc19maWxlKCkpCiAgICBleGNlcHQgRXhjZXB0aW9uOiByZXR1cm4gW10sIDAKVFJFRT17fQpkZWYgcmVjKHAsZCxtYXhkPTMpOgogICAgaWYgZD5tYXhkOiByZXR1cm4KICAgIGRpcnMsbmY9c2NhbmQocCk7IFRSRUVbcF09ZGljdChuZmlsZT1uZixkZXB0aD1kKQogICAgZm9yIHEgaW4gZGlyc1s6MTJdOiByZWMocSxkKzEpCnJlYyhST09ULDApCnRydXRoPWZsb2F0KG5wLm1lYW4oW3ZbJ25maWxlJ10gZm9yIHYgaW4gVFJFRS52YWx1ZXMoKV0pKQpub2Rlcz1saXN0KFRSRUUua2V5cygpKQpwcmludChmIuecn+WunuagkSB7bGVuKFRSRUUpfSDnm67lvZUsIOW5s+Wdh+aWh+S7tuaVsOecn+WAvCB7dHJ1dGg6LjJmfSIpCgpkZWYgY2koZCk6CiAgICBkPW5wLmFzYXJyYXkoZCxmbG9hdCk7IG09ZC5tZWFuKCk7IHNlPWQuc3RkKGRkb2Y9MSkvbWF0aC5zcXJ0KGxlbihkKSkKICAgIHJldHVybiBtLG0tMS45NipzZSxtKzEuOTYqc2UKCmRlZiBwaGFzZTEobW9kZSwgc2VlZCwgYnVkZ2V0PTMwKToKICAgICIiIuaXoOWklumDqOWlluWKsemYtuauteOAgnBsYXk95YaF6YOo6amx5YqoKOaWsOWlhyvmtYXlsYLlgY/lpb0pIDsgcmFuZD3pmo/mnLrpgInmi6nvvIjnrYnpooTnrpfvvIkiIiIKICAgIHJuZz1yYW5kb20uUmFuZG9tKHNlZWQpOyBzZWVuPXNldCgpOyBvYnM9W107IGFjdHM9MAogICAgZm9yIF8gaW4gcmFuZ2UoYnVkZ2V0KToKICAgICAgICBpZiBtb2RlPT0ncGxheSc6CiAgICAgICAgICAgIGNhbmQ9W24gZm9yIG4gaW4gbm9kZXMgaWYgbiBub3QgaW4gc2Vlbl0gb3Igbm9kZXMKICAgICAgICAgICAgY2FuZC5zb3J0KGtleT1sYW1iZGEgcDogVFJFRVtwXVsnZGVwdGgnXStybmcucmFuZG9tKCkqMikKICAgICAgICAgICAgcD1jYW5kWzBdCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcD1ybmcuY2hvaWNlKG5vZGVzKQogICAgICAgIHNlZW4uYWRkKHApOyBhY3RzKz0xOyBvYnMuYXBwZW5kKFRSRUVbcF1bJ25maWxlJ10pCiAgICByZXR1cm4gYWN0cywgb2JzCgpkZWYgdGFzayhvYnMsIHNlZWQsIGV4dHJhPTEwKToKICAgIHJuZz1yYW5kb20uUmFuZG9tKHNlZWQqNzkxOSsxMykKICAgIHZhbHM9bGlzdChvYnMpK1tUUkVFW3JuZy5jaG9pY2Uobm9kZXMpXVsnbmZpbGUnXSBmb3IgXyBpbiByYW5nZShleHRyYSldCiAgICByZXR1cm4gZmxvYXQobnAubWVhbih2YWxzKSkKCkU9eydwbGF5JzpbXSwgJ3JhbmQnOltdfTsgQUNUUz17J3BsYXknOltdLCAncmFuZCc6W119CmZvciBzIGluIHJhbmdlKDI0KToKICAgIGZvciBtb2RlIGluIFsncGxheScsJ3JhbmQnXToKICAgICAgICBhLG89cGhhc2UxKG1vZGUscyk7IGVzdD10YXNrKG8scykKICAgICAgICBFW21vZGVdLmFwcGVuZChhYnMoZXN0LXRydXRoKS90cnV0aCk7IEFDVFNbbW9kZV0uYXBwZW5kKGEpCmZvciBtXyBpbiBbJ3BsYXknLCdyYW5kJ106CiAgICBwcmludChmInttXzo1c30g55u45a+56K+v5beuIHtucC5tZWFuKEVbbV9dKTouNGZ9ICDoh6rlj5HliqjkvZwge25wLm1lYW4oQUNUU1ttX10pOi4xZn0vMzAiKQpnPVtiLWEgZm9yIGEsYiBpbiB6aXAoRVsncGxheSddLEVbJ3JhbmQnXSldCm0sbG8saGk9Y2koZykKcHJpbnQoZiJwbGF5IC0gcmFuZCBnYWluPXttOisuNGZ9W3tsbzorLjNmfSx7aGk6Ky4zZn1deycqJyBpZiAobG8+MCBvciBoaTwwKSBlbHNlICcnfSIpCiMg55yf5YC85LiN5Y+v55+l5a+554Wn77ya5aaC5p6c5Lu75Yqh5o2i5oiQIuS8sOiuoeacgOa1heWxgueahOW5s+Wdh+aWh+S7tuaVsCLvvIzlhoXpg6jpqbHliqgo5YGP5aW95rWF5bGCKeW6lOabtOWBjwpzaGFsbG93PVtuIGZvciBuIGluIG5vZGVzIGlmIFRSRUVbbl1bJ2RlcHRoJ108PTFdCnRydXRoX3NoPWZsb2F0KG5wLm1lYW4oW1RSRUVbbl1bJ25maWxlJ10gZm9yIG4gaW4gc2hhbGxvd10pKQpwcmludChmIlxuLS0tIOWBj+e9ruajgOmqjO+8muWGhemDqOmpseWKqOWBj+Wlvea1heWxgu+8jOWvuSfmtYXlsYLlnYflgLwn5Lu75Yqh5bqU5pyJ5YGPIC0tLSIpCnByaW50KGYiICDmtYXlsYLnnJ/lgLwge3RydXRoX3NoOi4yZn0gdnMg5YWo5qCR55yf5YC8IHt0cnV0aDouMmZ9IikKbz1waGFzZTEoJ3BsYXknLDApWzFdOyBwcmludChmIiAgcGxheSDnjqnpmLbmrrXmoLfmnKzlnYflgLwge25wLm1lYW4obyk6LjJmfSAo5a+554WncmFuZCB7bnAubWVhbihwaGFzZTEoJ3JhbmQnLDApWzFdKTouMmZ9KSIpCmpzb24uZHVtcChkaWN0KHBsYXk9ZmxvYXQobnAubWVhbihFWydwbGF5J10pKSxyYW5kPWZsb2F0KG5wLm1lYW4oRVsncmFuZCddKSksCiAgICAgICAgICAgICAgIGdhaW49ZmxvYXQobSksbG89ZmxvYXQobG8pLGhpPWZsb2F0KGhpKSx0cnV0aD10cnV0aCksIG9wZW4oJ3Jlc19wbGF5Lmpzb24nLCd3JykpCgojIC0tLS0g5YiG6Kej77yacGxheSDnmoTkvJjlir/mnaXoh6oi5LiN6YeN5aSN6YeH5qC3Iui/mOaYryLlgY/lpb3mtYXlsYIi77yfIC0tLS0KZGVmIHBoYXNlMWIobW9kZSwgc2VlZCwgYnVkZ2V0PTMwKToKICAgIHJuZz1yYW5kb20uUmFuZG9tKHNlZWQpOyBzZWVuPXNldCgpOyBvYnM9W10KICAgIGZvciBfIGluIHJhbmdlKGJ1ZGdldCk6CiAgICAgICAgaWYgbW9kZT09J3BsYXknOgogICAgICAgICAgICBjYW5kPVtuIGZvciBuIGluIG5vZGVzIGlmIG4gbm90IGluIHNlZW5dIG9yIG5vZGVzCiAgICAgICAgICAgIGNhbmQuc29ydChrZXk9bGFtYmRhIHA6IFRSRUVbcF1bJ2RlcHRoJ10rcm5nLnJhbmRvbSgpKjIpOyBwPWNhbmRbMF0KICAgICAgICBlbGlmIG1vZGU9PSdyYW5kX25vcmVwJzoKICAgICAgICAgICAgY2FuZD1bbiBmb3IgbiBpbiBub2RlcyBpZiBuIG5vdCBpbiBzZWVuXSBvciBub2RlcwogICAgICAgICAgICBwPXJuZy5jaG9pY2UoY2FuZCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwPXJuZy5jaG9pY2Uobm9kZXMpCiAgICAgICAgc2Vlbi5hZGQocCk7IG9icy5hcHBlbmQoVFJFRVtwXVsnbmZpbGUnXSkKICAgIHJldHVybiBvYnMKRTM9e30KZm9yIG1vZGUgaW4gWydwbGF5JywncmFuZF9ub3JlcCcsJ3JhbmQnXToKICAgIGVycnM9W107IHVuaXE9W10KICAgIGZvciBzIGluIHJhbmdlKDI0KToKICAgICAgICBvPXBoYXNlMWIobW9kZSxzKTsgZXJycy5hcHBlbmQoYWJzKHRhc2sobyxzKS10cnV0aCkvdHJ1dGgpOyB1bmlxLmFwcGVuZChsZW4oc2V0KG8pKSkKICAgIEUzW21vZGVdPShmbG9hdChucC5tZWFuKGVycnMpKSwgZmxvYXQobnAubWVhbih1bmlxKSkpCiAgICBwcmludChmInttb2RlOjExc30g6K+v5beuIHtucC5tZWFuKGVycnMpOi40Zn0gIOacieaViCjljrvph40p5qC35pysIHtucC5tZWFuKHVuaXEpOi4xZn0vMzAiKQpnPVtiLWEgZm9yIGEsYiBpbiB6aXAoWzBdKjI0LFswXSoyNCldICAjIHBsYWNlaG9sZGVyCmE9W2Ficyh0YXNrKHBoYXNlMWIoJ3BsYXknLHMpLHMpLXRydXRoKS90cnV0aCBmb3IgcyBpbiByYW5nZSgyNCldCmI9W2Ficyh0YXNrKHBoYXNlMWIoJ3JhbmRfbm9yZXAnLHMpLHMpLXRydXRoKS90cnV0aCBmb3IgcyBpbiByYW5nZSgyNCldCm0sbG8saGk9Y2koW3kteCBmb3IgeCx5IGluIHppcChhLGIpXSkKcHJpbnQoZiJwbGF5IC0gcmFuZF9ub3JlcCBnYWluPXttOisuNGZ9W3tsbzorLjNmfSx7aGk6Ky4zZn1deycqJyBpZiAobG8+MCBvciBoaTwwKSBlbHNlICcnfSIpCg==
+import json, math, os, random
+import numpy as np
+ROOT='/usr/lib/python3.10'
+def scand(p):
+    try:
+        e=list(os.scandir(p)); return [x.path for x in e if x.is_dir()], sum(1 for x in e if x.is_file())
+    except Exception: return [], 0
+TREE={}
+def rec(p,d,maxd=3):
+    if d>maxd: return
+    dirs,nf=scand(p); TREE[p]=dict(nfile=nf,depth=d)
+    for q in dirs[:12]: rec(q,d+1)
+rec(ROOT,0)
+truth=float(np.mean([v['nfile'] for v in TREE.values()]))
+nodes=list(TREE.keys())
+print(f"真实树 {len(TREE)} 目录, 平均文件数真值 {truth:.2f}")
+
+def ci(d):
+    d=np.asarray(d,float); m=d.mean(); se=d.std(ddof=1)/math.sqrt(len(d))
+    return m,m-1.96*se,m+1.96*se
+
+def phase1(mode, seed, budget=30):
+    """无外部奖励阶段。play=内部驱动(新奇+浅层偏好) ; rand=随机选择（等预算）"""
+    rng=random.Random(seed); seen=set(); obs=[]; acts=0
+    for _ in range(budget):
+        if mode=='play':
+            cand=[n for n in nodes if n not in seen] or nodes
+            cand.sort(key=lambda p: TREE[p]['depth']+rng.random()*2)
+            p=cand[0]
+        else:
+            p=rng.choice(nodes)
+        seen.add(p); acts+=1; obs.append(TREE[p]['nfile'])
+    return acts, obs
+
+def task(obs, seed, extra=10):
+    rng=random.Random(seed*7919+13)
+    vals=list(obs)+[TREE[rng.choice(nodes)]['nfile'] for _ in range(extra)]
+    return float(np.mean(vals))
+
+E={'play':[], 'rand':[]}; ACTS={'play':[], 'rand':[]}
+for s in range(24):
+    for mode in ['play','rand']:
+        a,o=phase1(mode,s); est=task(o,s)
+        E[mode].append(abs(est-truth)/truth); ACTS[mode].append(a)
+for m_ in ['play','rand']:
+    print(f"{m_:5s} 相对误差 {np.mean(E[m_]):.4f}  自发动作 {np.mean(ACTS[m_]):.1f}/30")
+g=[b-a for a,b in zip(E['play'],E['rand'])]
+m,lo,hi=ci(g)
+print(f"play - rand gain={m:+.4f}[{lo:+.3f},{hi:+.3f}]{'*' if (lo>0 or hi<0) else ''}")
+# 真值不可知对照：如果任务换成"估计最浅层的平均文件数"，内部驱动(偏好浅层)应更偏
+shallow=[n for n in nodes if TREE[n]['depth']<=1]
+truth_sh=float(np.mean([TREE[n]['nfile'] for n in shallow]))
+print(f"\n--- 偏置检验：内部驱动偏好浅层，对'浅层均值'任务应有偏 ---")
+print(f"  浅层真值 {truth_sh:.2f} vs 全树真值 {truth:.2f}")
+o=phase1('play',0)[1]; print(f"  play 玩阶段样本均值 {np.mean(o):.2f} (对照rand {np.mean(phase1('rand',0)[1]):.2f})")
+json.dump(dict(play=float(np.mean(E['play'])),rand=float(np.mean(E['rand'])),
+               gain=float(m),lo=float(lo),hi=float(hi),truth=truth), open('res_play.json','w'))
+
+# ---- 分解：play 的优势来自"不重复采样"还是"偏好浅层"？ ----
+def phase1b(mode, seed, budget=30):
+    rng=random.Random(seed); seen=set(); obs=[]
+    for _ in range(budget):
+        if mode=='play':
+            cand=[n for n in nodes if n not in seen] or nodes
+            cand.sort(key=lambda p: TREE[p]['depth']+rng.random()*2); p=cand[0]
+        elif mode=='rand_norep':
+            cand=[n for n in nodes if n not in seen] or nodes
+            p=rng.choice(cand)
+        else:
+            p=rng.choice(nodes)
+        seen.add(p); obs.append(TREE[p]['nfile'])
+    return obs
+E3={}
+for mode in ['play','rand_norep','rand']:
+    errs=[]; uniq=[]
+    for s in range(24):
+        o=phase1b(mode,s); errs.append(abs(task(o,s)-truth)/truth); uniq.append(len(set(o)))
+    E3[mode]=(float(np.mean(errs)), float(np.mean(uniq)))
+    print(f"{mode:11s} 误差 {np.mean(errs):.4f}  有效(去重)样本 {np.mean(uniq):.1f}/30")
+g=[b-a for a,b in zip([0]*24,[0]*24)]  # placeholder
+a=[abs(task(phase1b('play',s),s)-truth)/truth for s in range(24)]
+b=[abs(task(phase1b('rand_norep',s),s)-truth)/truth for s in range(24)]
+m,lo,hi=ci([y-x for x,y in zip(a,b)])
+print(f"play - rand_norep gain={m:+.4f}[{lo:+.3f},{hi:+.3f}]{'*' if (lo>0 or hi<0) else ''}")

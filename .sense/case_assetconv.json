@@ -1,1 +1,20 @@
-ewogICJjYXNlIjogInNkay1kZWRvdCBjb21wdXRlT3JpZ2luRmVlIOeahCBBc3NldENvbnZlcnNpb24g5YiG5pSv55So6ZSZ5LqL5Lu25b2i54q277yM5rC45LiN6Kem5Y+RIiwKICAiY2hhbm5lbF9hIjogeyJsYWJlbCI6ICLlkIzkuIDlh73mlbAgWENNIOWIhuaUr+ivu+WPlueahOS6i+S7tuWtl+auteaVsO+8iHBhbGxldC9wYWxsZXRFdmVudCDlvaLnirbvvIzkuI4gRGVkb3RBcGkg5a6e6ZmF5raI6LS55LiA6Ie077yJIiwgInZhbHVlIjogMiwgInVuaXQiOiAi5aSEIn0sCiAgImNoYW5uZWxfYiI6IHsibGFiZWwiOiAiQXNzZXRDb252ZXJzaW9uIOWIhuaUr+ivu+WPlueahOWtl+auteaVsO+8iHR5cGUvdmFsdWUg5b2i54q277yJIiwgInZhbHVlIjogMywgInVuaXQiOiAi5aSEIn0sCiAgInRvbGVyYW5jZSI6IDAsCiAgIm5vdGUiOiAi6YCa6YGTQSDmmK8gZGVkb3Qg55yf5a6e5b2i54q277yIRGVkb3RBcGkudHM6NDEzLTQ1MCDlrp7or4HvvInvvJvpgJrpgZNCIOaYryBQQVBJIOW9oueKtuOAguWQjOS4gOS4qiBmb3Ig5b6q546v6YeM55So5LqG5Lik5aWX5b2i54q277yM5beu5YC85Y2z6ZSZ6YWN5a2X5q615pWw44CCIiwKICAiZXZpZGVuY2UiOiBbCiAgICAiRGVkb3RBcGkudHM6NDEzICBldmVudC5wYWxsZXRFdmVudD8ubmFtZSA9PT0gJ0Rpc3BhdGNoZWRBcyciLAogICAgIkRlZG90QXBpLnRzOjQ1MCAgZXJyb3JlZEV2ZW50LnBhbGxldEV2ZW50LmRhdGEucmVzdWx0IiwKICAgICJjb21wdXRlT3JpZ2luRmVlLnRzOjI2ICBlLnBhbGxldCAgIOKGkCBYQ00g5YiG5pSvIiwKICAgICJjb21wdXRlT3JpZ2luRmVlLnRzOjQ4ICBlLnR5cGUgICAgIOKGkCBBc3NldENvbnZlcnNpb24g5YiG5pSvIiwKICAgICJkZWRvdCDmtYvor5UgZml4dHVyZSDlv4XpobvlkIzml7bloZ4ge3BhbGxldCxwYWxsZXRFdmVudH0g5LiOIHt0eXBlLHZhbHVlfSDkuKTlpZflrZfmrrXmiY3pgJrov4ciCiAgXSwKICAicmFuX3JlYWxfc3lzdGVtIjogZmFsc2UsCiAgImRlY2xhcmVkX3Vua25vd25zIjogWwogICAgIuayoei3kSBkZWRvdCDlrqLmiLfnq6/vvIzmnKrlpI3njrDov5DooYzml7booYzkuLoiLAogICAgIuacqumqjOivgSBBc3NldENvbnZlcnNpb24g5LqL5Lu25ZyoIGRlZG90IOino+eggeWQjuehruWunuaXoCB0eXBlL3ZhbHVlIOWtl+autSIsCiAgICAi5piv5ZCm5Li65q275Luj56CB55Sx57u05oqk6ICF56Gu6K6kIgogIF0KfQo=
+{
+  "case": "sdk-dedot computeOriginFee 的 AssetConversion 分支用错事件形状，永不触发",
+  "channel_a": {"label": "同一函数 XCM 分支读取的事件字段数（pallet/palletEvent 形状，与 DedotApi 实际消费一致）", "value": 2, "unit": "处"},
+  "channel_b": {"label": "AssetConversion 分支读取的字段数（type/value 形状）", "value": 3, "unit": "处"},
+  "tolerance": 0,
+  "note": "通道A 是 dedot 真实形状（DedotApi.ts:413-450 实证）；通道B 是 PAPI 形状。同一个 for 循环里用了两套形状，差值即错配字段数。",
+  "evidence": [
+    "DedotApi.ts:413  event.palletEvent?.name === 'DispatchedAs'",
+    "DedotApi.ts:450  erroredEvent.palletEvent.data.result",
+    "computeOriginFee.ts:26  e.pallet   ← XCM 分支",
+    "computeOriginFee.ts:48  e.type     ← AssetConversion 分支",
+    "dedot 测试 fixture 必须同时塞 {pallet,palletEvent} 与 {type,value} 两套字段才通过"
+  ],
+  "ran_real_system": false,
+  "declared_unknowns": [
+    "没跑 dedot 客户端，未复现运行时行为",
+    "未验证 AssetConversion 事件在 dedot 解码后确实无 type/value 字段",
+    "是否为死代码由维护者确认"
+  ]
+}

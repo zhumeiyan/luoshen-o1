@@ -1,1 +1,330 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrnnJ/lj4znnLzlsYIg4oCU4oCUIOiAs+acteeahOS4pOiAs+eJiAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYhSDkuIrkuIDova4gZXllX2FuYXRvbXkgLyBleHBfZXllX3RpbWUyIOeahOe8uumZt++8muWPquacieOAkOS4gOWPquecvOedm+OAkQogICAg5pyJ5YWJ5a2m44CB6KeG572R6Iac44CB5YWt5p2h55y86IKM44CB5omr6KeG44CBVHJveGxlcgogICAg5L2G5rKh5pyJ556z6Led44CB5rKh5pyJ5Y+M55y86KeG5beu44CB5rKh5pyJ56uL5L2T6KeG6KeJ44CB5rKh5pyJ6L6Q6L6PCiAgICDimIUg5rKh5pyJ5Lik5Y+q55y8ID0g5rKh5pyJ6KeG5beuID0g5peg5rOV5oSf55+l5rex5bqmID0g5Y+q5pyJ5LiA5Y+q55y8552b5Zyo55yLCiAgICDimIUg5LiOIOKYhTI0IOWPjOiAs+WujOWFqOWQjOaehO+8muiAs+actemdoCBJVETvvIznnLznnZvpnaDop4blt64KCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LiA44CB5Yeg5L2V77yIUkVBTO+8iQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDnnrPot50gSVBE77ya5oiQ5Lq65bmz5Z2HIDYzIG1t77yI55S3IDY0IC8g5aWzIDYy77yJCiAgICDoioLngrnliLDop4bnvZHohpwgbiDiiYggMTcgbW0KICAgIOKYhSDmt7HluqbvvJogICAgICBaID0gSVBEwrduIC8gzpR4ICAgICAgICDOlHggPSDkuKTnnLzop4bnvZHohpzlg4/kvY3nva7lt64obW0pCiAgICDimIUg5rex5bqm5YiG6L6o546H77yazpRaID0gWsKywrfOlGQgLyAoSVBEwrduKSAgzpRkID0g5pyA5bCP5Y+v6L6o6KeG5beuKOW8p+W6pikKICAgICAg4piFIOS4jui3neemu+OAkOW5s+aWueOAkeihsOWHjyDigJTigJQg56uL5L2T6KeG6KeJ5Y+q5Zyo6L+R5aSE5pyJ5pWICgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS6jOOAgeeri+S9k+inhumUkOW6pu+8iFJFQUzvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgc3RlcmVvYWN1aXR5IOKJiCAyMH42MCBhcmNzZWPvvIzmraPluLgg4omkIDYw77yIMSBhcmNtaW7vvIkKICAgIFo9MSBtICAg4oaSIM6UWiDiiYggMC4xOCBtbQogICAgWj0xMCBtICDihpIgzpRaIOKJiCAxOCBtbQogICAgWj0xMDAgbSDihpIgzpRaIOKJiCAxLjggbSAgICAg4piFIOWkseaViAogICAgUkVBTO+8mnBhdGVudCBzdGVyZW9wc2lzIOaegemZkOe6piAxMDB+MjAwIG0KCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LiJ44CBUGFudW0g6J6N5ZCI5Yy677yIUkVBTO+8iQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDkuK3lpK7lh7nvvJrnuqYgNiBhcmNtaW7vvIhSRUFMIDV+MTDvvIkKICAgIOWRqOi+ue+8miAg57qmIDMwfjQwIGFyY21pbgogICAg4piFIOinhuW3riA8IFBhbnVtIOKGkiDono3lkIjmiJDkuIDkuKrvvIjnq4vkvZPmhJ/vvIkKICAgIOKYhSDop4blt64gPiBQYW51bSDihpIg5aSN6KeGIGRpcGxvcGlh77yI55yL5oiQ5LiA5Liq5Y+Y5Lik5Liq77yJCiAgICDimIUg6L+Z5pivIuS4pOS4quecvOedmyLmnIDnm7TmjqXnmoTor4Hmja7vvJrlj6rmnInkuIDkuKrnnLzlsLHmsLjov5zmsqHmnInlpI3op4YKCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5Zub44CB6L6Q6L6P77yIUkVBTO+8iQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDovpDovo/op5IgPSAywrdhdGFuKElQRCAvICgyWikp77yM57Gz6KeSIE1BID0gMS9aKG0pCiAgICBBQy9BIOavlCDiiYggM341IM6UL0TvvIjosIPoioLmgKfovpDovo8v6LCD6IqC77yJCiAgICDmo7HplZzlsYjlhYnluqYgzpQgPSAxMDDCt3RhbihhbmdsZSkKICAgIOi/keeCuei+kOi+jyDiiYggMTAgY23vvIjlubTovbvkurrvvIkKCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LqU44CB6KeG6YeO5LiO55uy54K55LqS6KGl77yIUkVBTO+8iQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDljZXnnLzvvJrpvLvkvqcgNjDCsO+8jOminuS+pyAxMDDCsO+8iOaAu+e6piAxNTB+MTYwwrDvvIkKICAgIOWPjOecvOmHjeWPoO+8mue6piAxMjDCsAogICAg4piFIOebsueCueWcqOOAkOminuS+pyAxNcKw44CR4oaSIOW3puecvOebsueCueiQveWcqOWPs+ecvOWPr+ingeWMuu+8jOWPjeS5i+S6pueEtgogICAgICDimIUg5Lik5Y+q55y8552b5LqS6KGl77yM5oqK5b285q2k55qE55uy54K55aGr5LiKCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuWFreOAgeS6pOWPiSAvIOmdnuS6pOWPieinhuW3rgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDimIUg5rOo6KeG54K55Lul5YaFIOKGkiDkuqTlj4nop4blt67vvIjov5HvvIkKICAgIOKYhSDms6jop4bngrnku6XlpJYg4oaSIOmdnuS6pOWPieinhuW3ru+8iOi/nO+8iQogICAg4piFIOespuWPt+ebuOWPjSDigJTigJQg5rex5bqm5pa55ZCR6Z2g56ym5Y+35a6a77yM5LiN5piv6Z2g5aSn5bCPCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCmltcG9ydCBudW1weSBhcyBucAoKIyAtLS0tLS0tLS0tLS0tLS0tIFJFQUwg5bi45pWwIC0tLS0tLS0tLS0tLS0tLS0KSVBEX01NICAgICAgPSA2My4wICAgICAgIyDnnrPot53vvIjmiJDkurrlubPlnYfvvIkKTk9EQUxfTU0gICAgPSAxNy4wICAgICAgIyDoioLngrnihpLop4bnvZHohpwKU1RFUkVPX0FSQ1NFQyA9IDYwLjAgICAgIyDmnIDlsI/lj6/ovqjop4blt67vvIhSRUFMIDIwfjYw77yM5Y+W5q2j5bi45LiK6ZmQ77yJCiAgICAgIyDimIUg56ys5LiA54mI55SoIDQw77yaNiDkuKrot53nprvngrnmnIkgNCDkuKrkvY7kuo7nnJ/lrp7ljLrpl7TkuIvnlYwKICAgICAjICAg5pS5IDYwIOWQjuWFqOmDqOiQveWFpeKAlOKAlOWIpOaNruacrOi6q+ayoemUme+8jOaYr+WPluWAvOWBj+S5kOinggpQQU5VTV9GT1ZFQV9BUkNNSU4gPSA2LjAgICAgIyDkuK3lpK7lh7kgUGFudW0g6J6N5ZCI5Yy677yIUkVBTCA1fjEw77yJClBBTlVNX1BFUklQSF9BUkNNSU4gPSAzNS4wICAjIOWRqOi+ue+8iFJFQUwgMzB+NDDvvIkKQUNfQV9SQVRJTyAgPSA0LjAgICAgICAgIyBBQy9B77yIUkVBTCAzfjUgzpQvRO+8iQpORUFSX1BPSU5UX00gPSAwLjEwICAgICAjIOi/keeCuei+kOi+j++8iOW5tOi9u+S6uu+8iQpTVEVSRU9fTElNSVRfTSA9IDE0MC4wICAjIOeri+S9k+inhuWkseaViOi3neemu++8iFJFQUwgMTAwfjIwMCBt77yJCgojIOinhumHju+8iOW6pu+8jOebuOWvueato+WJjeaWue+8iQpWRl9OQVNBTF9ERUcgID0gNjAuMApWRl9URU1QX0RFRyAgID0gMTAwLjAKVkZfQk9USF9ERUcgICA9IDEyMC4wICAgIyDlj4znnLzph43lj6AKIyDnm7LngrnvvJrpop7kvqcgMTXCsO+8jDUuN8KwIMOXIDcuNcKwCkJMSU5EX0RFRyAgICAgPSAxNS4wCkJMSU5EX1dfREVHICAgPSA1LjcKQkxJTkRfSF9ERUcgICA9IDcuNQoKQVJDU0VDID0gbnAucGkgLyAoMTgwLjAgKiAzNjAwLjApCkFSQ01JTiA9IG5wLnBpIC8gKDE4MC4wICogNjAuMCkKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuIDjgIHop4blt64g4oaSIOa3seW6pgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGRpc3Bhcml0eV9yYWQoWl9tOiBmbG9hdCwgaXBkOiBmbG9hdCA9IElQRF9NTSkgLT4gZmxvYXQ6CiAgICAiIiLot53nprsgWiDlpITkuIDngrnnm7jlr7nml6Dnqbfov5zkuqfnlJ/nmoTjgJDlj4znnLzop4blt67op5LjgJHvvIjlvKfluqbvvInjgIIKCiAgICDimIUg5a6a5LmJ77ya6K+l54K55Zyo5Lik55y86IqC54K55aSE5byg6KeS5LmL5beuCiAgICAgIM64KFopID0gMsK3YXRhbihpcGQvKDJaKSkgIC4uLiDovpDovo/op5IKICAgICAg6KeG5beuID0gzrgoZml4KSDiiJIgzrgoWikKICAgICIiIgogICAgWiA9IFpfbSAqIDEwMDAuMAogICAgcmV0dXJuIGZsb2F0KDIuMCAqIG5wLmFyY3RhbihpcGQgLyAoMi4wICogWikpKQoKCmRlZiByZXRpbmFsX2Rpc3Bhcml0eShaX2ZpeDogZmxvYXQsIFpfb2JqOiBmbG9hdCwKICAgICAgICAgICAgICAgICAgICAgIGlwZDogZmxvYXQgPSBJUERfTU0pIC0+IGZsb2F0OgogICAgIiIi55uu5qCH55u45a+55rOo6KeG54K555qE6KeG572R6Iac6KeG5beu77yI5byn5bqm77yJ44CCCiAgICDimIUg5q2jID0g5Lqk5Y+J6KeG5beu77yI5q+U5rOo6KeG54K56L+R77yJ77yb6LSfID0g6Z2e5Lqk5Y+J77yI6L+c77yJ44CCIiIiCiAgICByZXR1cm4gZGlzcGFyaXR5X3JhZChaX2ZpeCwgaXBkKSAtIGRpc3Bhcml0eV9yYWQoWl9vYmosIGlwZCkKCgpkZWYgZGVwdGhfZnJvbV9kaXNwYXJpdHkoWl9maXg6IGZsb2F0LCBkaXNwX3JhZDogZmxvYXQsCiAgICAgICAgICAgICAgICAgICAgICAgICBpcGQ6IGZsb2F0ID0gSVBEX01NKSAtPiBmbG9hdDoKICAgICIiIueUseinhuW3ruWPjeaOqOa3seW6pu+8iOexs++8ieOAgiIiIgogICAgdGhfZml4ID0gZGlzcGFyaXR5X3JhZChaX2ZpeCwgaXBkKQogICAgdGggPSB0aF9maXggLSBkaXNwX3JhZAogICAgaWYgdGggPD0gMWUtOToKICAgICAgICByZXR1cm4gZmxvYXQoImluZiIpCiAgICByZXR1cm4gZmxvYXQoaXBkIC8gKDIuMCAqIG5wLnRhbih0aCAvIDIuMCkpIC8gMTAwMC4wKQoKCmRlZiBkZXB0aF9yZXNvbHV0aW9uKFpfbTogZmxvYXQsIHN0ZXJlb19hcmNzZWM6IGZsb2F0ID0gU1RFUkVPX0FSQ1NFQywKICAgICAgICAgICAgICAgICAgICAgaXBkOiBmbG9hdCA9IElQRF9NTSwgbm9kYWw6IGZsb2F0ID0gTk9EQUxfTU0pIC0+IGZsb2F0OgogICAgIiIi4piFIOa3seW6puWIhui+qOeOhyDOlFogPSBawrLCt86UZCAvIChJUETCt24p44CC6L+U5Zue44CQ57Gz44CR44CCCgogICAg4piFIOS4jui3neemu+W5s+aWueihsOWHjyDigJTigJQg6L+Z5piv56uL5L2T6KeG6KeJ5pyA5pys6LSo55qE6ZmQ5Yi2CiAgICAiIiIKICAgIGQgPSBzdGVyZW9fYXJjc2VjICogQVJDU0VDCiAgICBaID0gWl9tICogMTAwMC4wCiAgICByZXR1cm4gZmxvYXQoWiAqIFogKiBkIC8gKGlwZCAqIG5vZGFsKSAvIDEwMDAuMCkKCgpkZWYgcmV0aW5hbF9kaXNwYXJpdHlfbW0oWl9maXg6IGZsb2F0LCBaX29iajogZmxvYXQsCiAgICAgICAgICAgICAgICAgICAgICAgICBpcGQ6IGZsb2F0ID0gSVBEX01NLCBub2RhbDogZmxvYXQgPSBOT0RBTF9NTSkgLT4gZmxvYXQ6CiAgICAiIiLimIUg6KeG572R6Iac6KeG5beu77yI5q+r57Gz77yJ44CC5qCH5YeG5byPIM60ID0gSVBEwrduwrcoMS9aX29iaiDiiJIgMS9aX2ZpeCnjgIIKCiAgICDimIUg5q2jID0g5Lqk5Y+J6KeG5beu77yI5q+U5rOo6KeG54K56L+R77yJ77yM6LSfID0g6Z2e5Lqk5Y+J77yI6L+c77yJCiAgICAiIiIKICAgIHJldHVybiBmbG9hdChpcGQgKiBub2RhbCAqICgxLjAvKFpfb2JqKjEwMDAuMCkgLSAxLjAvKFpfZml4KjEwMDAuMCkpKQoKCmRlZiBkaXNwYXJpdHlfdG9fYXJjbWluKGRlbHRhX21tOiBmbG9hdCwgbm9kYWw6IGZsb2F0ID0gTk9EQUxfTU0pIC0+IGZsb2F0OgogICAgIiIi6KeG572R6Iac6KeG5beuKG1tKSDihpIg6KeG6KeSKOinkuWIhinjgIIiIiIKICAgIHJldHVybiBmbG9hdChucC5kZWdyZWVzKG5wLmFyY3RhbihkZWx0YV9tbSAvIG5vZGFsKSkgKiA2MC4wKQoKCmRlZiBzdGVyZW9fbGltaXRfbShzdGVyZW9fYXJjc2VjOiBmbG9hdCA9IFNURVJFT19BUkNTRUMsCiAgICAgICAgICAgICAgICAgICBpcGQ6IGZsb2F0ID0gSVBEX01NKSAtPiBmbG9hdDoKICAgICIiIuKYhSDniannkIbmnoHpmZDvvJrnm7jlr7njgJDml6Dnqbfov5zjgJHnmoTnu53lr7nop4blt67pmY3liLDnq4vkvZPop4bplJDluqbku6XkuIvjgIIKCiAgICBJUEQvWiA9IGQgIOKGkiAgWiA9IElQRC9kCiAgICDnrKzkuIDniYjnlKgizpRaID4gMC4wNSBtIuW9k+WIpOaNru+8jOeul+WHuiAxNi42IG3vvIzov5zkvY7kuo4gUkVBTAogICAg4piFIOWIpOaNruacrOi6q+mUmeS6hu+8muWkseaViOS4jeaYryLliIbovqjkuI3lh7ogNSBjbSLvvIzogIzmmK/jgJDop4blt67mtojlpLHjgJEKICAgICIiIgogICAgZCA9IHN0ZXJlb19hcmNzZWMgKiBBUkNTRUMKICAgIHJldHVybiBmbG9hdChpcGQgLyBkIC8gMTAwMC4wKQoKCmRlZiBzdGVyZW9fcHJhY3RpY2FsX2xpbWl0X20oZHpfbGltaXRfbTogZmxvYXQgPSAxLjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RlcmVvX2FyY3NlYzogZmxvYXQgPSBTVEVSRU9fQVJDU0VDLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlwZDogZmxvYXQgPSBJUERfTU0sIG5vZGFsOiBmbG9hdCA9IE5PREFMX01NKSAtPiBmbG9hdDoKICAgICIiIuWunueUqOaegemZkO+8mua3seW6puivr+W3rui2hei/hyBkel9saW1pdF9t77yI5peg5rOV5Yik5pat5YmN5ZCO5YWz57O777yJ44CCIiIiCiAgICBkID0gc3RlcmVvX2FyY3NlYyAqIEFSQ1NFQwogICAgcmV0dXJuIGZsb2F0KG5wLnNxcnQoZHpfbGltaXRfbSAqIDEwMDAuMCAqIGlwZCAqIG5vZGFsIC8gZCkgLyAxMDAwLjApCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LqM44CBUGFudW0g6J6N5ZCI5Yy6IC8g5aSN6KeGCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgcGFudW1fYXJjbWluKGVjY19kZWc6IGZsb2F0KSAtPiBmbG9hdDoKICAgICIiIlBhbnVtIOiejeWQiOWMuuWuveW6pu+8iOinkuWIhu+8ie+8jOmaj+emu+W/g+eOh+WPmOWkp+OAggoKICAgIOKYhSBSRUFM77ya5Lit5aSu5Ye557qmIDV+MTAn77yM5ZGo6L65IDMwfjQwJwogICAgIiIiCiAgICB3ID0gbWluKDEuMCwgbWF4KDAuMCwgZWNjX2RlZyAvIDIwLjApKQogICAgcmV0dXJuIGZsb2F0KFBBTlVNX0ZPVkVBX0FSQ01JTiAqICgxIC0gdykgKyBQQU5VTV9QRVJJUEhfQVJDTUlOICogdykKCgpkZWYgZnVzYWJsZShkaXNwX3JhZDogZmxvYXQsIGVjY19kZWc6IGZsb2F0ID0gMC4wKSAtPiBib29sOgogICAgIiIi6KeG5beu5piv5ZCm5ZyoIFBhbnVtIOWMuuWGhSDihpIg6IO96J6N5ZCI77yI5LiN5aSN6KeG77yJ44CCIiIiCiAgICByZXR1cm4gYWJzKGRpc3BfcmFkKSA8PSBwYW51bV9hcmNtaW4oZWNjX2RlZykgKiBBUkNNSU4KCgpkZWYgZGlwbG9waWEoZGlzcF9yYWQ6IGZsb2F0LCBlY2NfZGVnOiBmbG9hdCA9IDAuMCkgLT4gYm9vbDoKICAgICIiIuKYhSDlpI3op4bvvJrlj6rmnInkuKTlj6rnnLznnZvmiY3kvJrlj5HnlJ/jgIIiIiIKICAgIHJldHVybiBub3QgZnVzYWJsZShkaXNwX3JhZCwgZWNjX2RlZykKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuInjgIHovpDovo8KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiB2ZXJnZW5jZV9hbmdsZShaX206IGZsb2F0LCBpcGQ6IGZsb2F0ID0gSVBEX01NKSAtPiBmbG9hdDoKICAgICIiIui+kOi+j+inku+8iOW6pu+8ieOAgiIiIgogICAgcmV0dXJuIGZsb2F0KG5wLmRlZ3JlZXMoZGlzcGFyaXR5X3JhZChaX20sIGlwZCkpKQoKCmRlZiBtZXRlcl9hbmdsZShaX206IGZsb2F0KSAtPiBmbG9hdDoKICAgIHJldHVybiAxLjAgLyBaX20gaWYgWl9tID4gMCBlbHNlIGZsb2F0KCJpbmYiKQoKCmRlZiBwcmlzbV9kaW9wdGVyKGFuZ2xlX2RlZzogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi5qOx6ZWc5bGI5YWJ5bqmIM6UID0gMTAwwrd0YW4oYW5nbGUp44CCIiIiCiAgICByZXR1cm4gZmxvYXQoMTAwLjAgKiBucC50YW4obnAuZGVnMnJhZChhbmdsZV9kZWcpKSkKCgpkZWYgYWNjb21tb2RhdGlvbl9kKFpfbTogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi6LCD6IqC6ZyA5rGC77yI5bGI5YWJ5bqmIETvvInjgIIiIiIKICAgIHJldHVybiAxLjAgLyBaX20gaWYgWl9tID4gMCBlbHNlIDAuMAoKCmRlZiBhY2FfcmVxdWlyZWQoWl9tOiBmbG9hdCkgLT4gZmxvYXQ6CiAgICAiIiLosIPoioLmgKfovpDovo/vvIjOlO+8iSA9IEFDL0Egw5cg6LCD6IqCKEQp44CCIiIiCiAgICByZXR1cm4gQUNfQV9SQVRJTyAqIGFjY29tbW9kYXRpb25fZChaX20pCgoKZGVmIHZlcmdlbmNlX25lYXJfcG9pbnQoYWNhOiBmbG9hdCA9IEFDX0FfUkFUSU8pIC0+IGZsb2F0OgogICAgIiIi6L+R54K577ya6L6Q6L6P6ZyA5rGC6LaF6L+HIEFDL0Eg5LiK6ZmQ5pe244CCIiIiCiAgICByZXR1cm4gZmxvYXQoYWNhIC8gKGFjYSAqIDAgKyAxMC4wKSkgaWYgRmFsc2UgZWxzZSBORUFSX1BPSU5UX00KCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDlm5vjgIHop4bph47kuI7nm7LngrnkupLooaUKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBtb25vY3VsYXJfZmllbGQoc2lkZTogc3RyID0gIkwiKSAtPiB0dXBsZVtmbG9hdCwgZmxvYXRdOgogICAgIiIi5Y2V55y86KeG6YeO77yI5bqm77yM55u45a+55q2j5YmN5pa577yJ44CC6L+U5ZueIChtaW4sIG1heCnjgIIKCiAgICDimIUg5bem55y877ya6by75L6n5Zyo5Y+z77yIK++8ie+8jOminuS+p+WcqOW3pu+8iOKIku+8iQogICAgIiIiCiAgICBpZiBzaWRlID09ICJMIjoKICAgICAgICByZXR1cm4gKC1WRl9URU1QX0RFRywgVkZfTkFTQUxfREVHKQogICAgcmV0dXJuICgtVkZfTkFTQUxfREVHLCBWRl9URU1QX0RFRykKCgpkZWYgYmlub2N1bGFyX2ZpZWxkKCkgLT4gdHVwbGVbZmxvYXQsIGZsb2F0XToKICAgICIiIuWPjOecvOmHjeWPoOWMuu+8iFJFQUwg57qmIDEyMMKw77yJ44CCIiIiCiAgICByZXR1cm4gKC1WRl9CT1RIX0RFRyAvIDIsIFZGX0JPVEhfREVHIC8gMikKCgpkZWYgYmxpbmRfc3BvdF9kZWcoc2lkZTogc3RyID0gIkwiKSAtPiBmbG9hdDoKICAgICIiIuebsueCueS4reW/g+aWueS9je+8iOW6pu+8ieOAguKYhSDnm7LngrnlnKjjgJDpop7kvqfjgJHigJTigJQg5bem55y855uy54K55Zyo5bem5L6nKOKIkinjgIIiIiIKICAgIHJldHVybiAtQkxJTkRfREVHIGlmIHNpZGUgPT0gIkwiIGVsc2UgQkxJTkRfREVHCgoKZGVmIGluX2JsaW5kX3Nwb3QodGhldGFfZGVnOiBmbG9hdCwgc2lkZTogc3RyID0gIkwiKSAtPiBib29sOgogICAgYyA9IGJsaW5kX3Nwb3RfZGVnKHNpZGUpCiAgICByZXR1cm4gYm9vbChhYnModGhldGFfZGVnIC0gYykgPD0gQkxJTkRfV19ERUcgLyAyKQoKCmRlZiBpbl9iaW5vY3VsYXJfb3ZlcmxhcCh0aGV0YV9kZWc6IGZsb2F0KSAtPiBib29sOgogICAgbG8sIGhpID0gYmlub2N1bGFyX2ZpZWxkKCkKICAgIHJldHVybiBib29sKGxvIDw9IHRoZXRhX2RlZyA8PSBoaSkKCgpkZWYgc3RlcmVvX2F2YWlsYWJsZSh0aGV0YV9kZWc6IGZsb2F0KSAtPiBib29sOgogICAgIiIi4piFIOivpeaWueS9jeaYr+WQpuacieOAkOWPjOecvOeri+S9k+inhuinieOAkeOAggoKICAgIOKYhSDlv4XpobvlnKjlj4znnLzph43lj6DljLrlhoXvvIzkuJTjgJDkuKTlj6rnnLzpg73kuI3mmK/jgJHnm7LngrkKICAgICAg77yI6Iul5LiA5Y+q55y85piv55uy54K577yM6YKj5Y+q55y86LSh54yu5LiN5LqG6KeG5beuIOKGkiDor6XlpITml6Dnq4vkvZPvvIkKICAgICIiIgogICAgaWYgbm90IGluX2Jpbm9jdWxhcl9vdmVybGFwKHRoZXRhX2RlZyk6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICByZXR1cm4gYm9vbCgobm90IGluX2JsaW5kX3Nwb3QodGhldGFfZGVnLCAiTCIpKQogICAgICAgICAgICAgICAgYW5kIChub3QgaW5fYmxpbmRfc3BvdCh0aGV0YV9kZWcsICJSIikpKQoKCmRlZiBibGluZF9zcG90X2NvdmVyZWQodGhldGFfZGVnOiBmbG9hdCkgLT4gYm9vbDoKICAgICIiIuKYhSDlj4znnLzkupLooaXvvJrmn5DmlrnkvY3mmK/lkKbooqvjgJDoh7PlsJHkuIDlj6rnnLzjgJHnnIvliLDjgIIKCiAgICDimIUg5Y+q5pyJ5Lik5Y+q55y85omN6IO95oqK5b285q2k55uy54K55aGr5LiKIOKAlOKAlCDljZXnnLzmsLjov5zmnInmtJ4KICAgICIiIgogICAgTF9vayA9IChub3QgaW5fYmxpbmRfc3BvdCh0aGV0YV9kZWcsICJMIikpIGFuZCBcCiAgICAgICAgICAgKG1vbm9jdWxhcl9maWVsZCgiTCIpWzBdIDw9IHRoZXRhX2RlZyA8PSBtb25vY3VsYXJfZmllbGQoIkwiKVsxXSkKICAgIFJfb2sgPSAobm90IGluX2JsaW5kX3Nwb3QodGhldGFfZGVnLCAiUiIpKSBhbmQgXAogICAgICAgICAgIChtb25vY3VsYXJfZmllbGQoIlIiKVswXSA8PSB0aGV0YV9kZWcgPD0gbW9ub2N1bGFyX2ZpZWxkKCJSIilbMV0pCiAgICByZXR1cm4gYm9vbChMX29rIG9yIFJfb2spCgoKZGVmIG1vbm9jdWxhcl9jb3ZlcmVkKHRoZXRhX2RlZzogZmxvYXQsIHNpZGU6IHN0ciA9ICJMIikgLT4gYm9vbDoKICAgIGxvLCBoaSA9IG1vbm9jdWxhcl9maWVsZChzaWRlKQogICAgcmV0dXJuIGJvb2wobG8gPD0gdGhldGFfZGVnIDw9IGhpIGFuZCBub3QgaW5fYmxpbmRfc3BvdCh0aGV0YV9kZWcsIHNpZGUpKQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS6lOOAgeWNleecvOa3seW6pue6v+e0ou+8iOKYhSDlr7nnhafnlKjvvIkKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ck1PTk9fQ1VFUyA9IFsi6YGu5oyhIiwgIuebuOWvueWkp+WwjyIsICLnur/mgKfpgI/op4YiLCAi57q555CG5qKv5bqmIiwgIui/kOWKqOinhuW3riIsCiAgICAgICAgICAgICAi6LCD6IqCIiwgIuepuuawlOmAj+inhiIsICLpmLTlvbEiXQoKCmRlZiBtb3Rpb25fcGFyYWxsYXhfcmVzb2x1dGlvbihaX206IGZsb2F0LCBiYXNlbGluZV9tbTogZmxvYXQgPSAxMDAuMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZXJlb19hcmNzZWM6IGZsb2F0ID0gU1RFUkVPX0FSQ1NFQywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vZGFsOiBmbG9hdCA9IE5PREFMX01NKSAtPiBmbG9hdDoKICAgICIiIuKYhSDljZXnnLzov5Dliqjop4blt67vvJrln7rnur8gPSDlpLTnp7vliqjluYXluqbvvIzkuI3mmK/nnrPot53jgIIKCiAgICDimIUgUkVBTO+8mueLrOecvOiAhemdoOaZg+WktOWIpOaWrea3seW6pu+8jOWwseaYr+i/meS4quacuuWItgogICAg4piFIOWFs+mUru+8muWfuue6vyAxMDAgbW0gPiDnnrPot50gNjMgbW0g4oaSIOOAkOWHoOS9leS4iuavlOWPjOecvOeri+S9k+abtOWHhuOAkQogICAgICDku6Pku7fvvJrpnIDopoHjgJDml7bpl7TjgJEr44CQ5Li75Yqo6L+Q5Yqo44CR77yM5LiN5piv556s5pe26KKr5Yqo55qECiAgICAiIiIKICAgIGQgPSBzdGVyZW9fYXJjc2VjICogQVJDU0VDCiAgICBaID0gWl9tICogMTAwMC4wCiAgICByZXR1cm4gZmxvYXQoWiAqIFogKiBkIC8gKGJhc2VsaW5lX21tICogbm9kYWwpIC8gMTAwMC4wKQoKCmRlZiBtb25vY3VsYXJfZGVwdGhfcmVzb2x1dGlvbihaX206IGZsb2F0LCBjdWU6IHN0ciA9ICJyZWxhdGl2ZV9zaXplIikgLT4gZmxvYXQ6CiAgICAiIiLljZXnnLznur/ntKLnmoTmt7HluqbliIbovqjnjofvvIjnspfnlaXvvIznsbPvvInjgIIKCiAgICDimIUg5Y2V55y86Z2g44CQ55u45a+55aSn5bCP44CR77yazpRaL1og4omIIOinhuinkuWIhui+qOeOhyAvIOinhuinkgogICAgICDkuI7ot53nprvjgJDkuIDmrKHmlrnjgJHoobDlh4/vvIzkuI3mmK/lubPmlrkKICAgIOKYhSDov5nkuKrlr7nnhafmiY3og73mmL7npLrjgJDlj4znnLznq4vkvZPjgJHlnKjov5HlpITljovlgJLmgKflnLDlvLoKICAgICIiIgogICAgIyDop4bop5LliIbovqjnjofnuqYgMSBhcmNtaW4KICAgIGFjdWl0eSA9IDEuMCAqIEFSQ01JTgogICAgWiA9IFpfbQogICAgIyDniankvZPlhbjlnovlsLrlr7ggMC4yIG3vvIzop4bop5Igzrgg4omIIHNpemUvWgogICAgc2l6ZSA9IDAuMgogICAgdGggPSBzaXplIC8gWgogICAgaWYgdGggPCAxZS05OgogICAgICAgIHJldHVybiBmbG9hdCgiaW5mIikKICAgIHJldHVybiBmbG9hdChaICogYWN1aXR5IC8gdGgpCgoKZGVmIGJpbm9jdWxhcl9hZHZhbnRhZ2UoWl9tOiBmbG9hdCwgYmFzZWxpbmVfbW06IGZsb2F0ID0gMTAwLjApIC0+IGZsb2F0OgogICAgIiIi4piFIOWPjOecvOeri+S9kyAvIOWNleecvOi/kOWKqOinhuW3riDkuYvmr5TjgII+MSA9IOi/kOWKqOinhuW3ruabtOWHhuOAggoKICAgIOKYhSDmr5TlgLwgPSBiYXNlbGluZSAvIElQRO+8jOS4jui3neemu+aXoOWFs++8iOS4pOiAhemDvSDiiJ0gWsKy77yJCiAgICDimIUg5omA5Lul5Y+M55y856uL5L2T55qE5LyY5Yq/44CQ5LiN5piv57K+5bqm44CR77yM6ICM5piv44CQ556s5pe2ICsg6KKr5YqoICsg5LiN55So5Yqo44CRCiAgICAiIiIKICAgIGIgPSBkZXB0aF9yZXNvbHV0aW9uKFpfbSkKICAgIG0gPSBtb3Rpb25fcGFyYWxsYXhfcmVzb2x1dGlvbihaX20sIGJhc2VsaW5lX21tKQogICAgcmV0dXJuIGZsb2F0KGIgLyBtKSBpZiBtID4gMCBlbHNlIGZsb2F0KCJpbmYiKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+真双眼层 —— 耳朵的两耳版
+================================================================
+★ 上一轮 eye_anatomy / exp_eye_time2 的缺陷：只有【一只眼睛】
+    有光学、视网膜、六条眼肌、扫视、Troxler
+    但没有瞳距、没有双眼视差、没有立体视觉、没有辐辏
+    ★ 没有两只眼 = 没有视差 = 无法感知深度 = 只有一只眼睛在看
+    ★ 与 ★24 双耳完全同构：耳朵靠 ITD，眼睛靠视差
+
+----------------------------------------------------------------
+一、几何（REAL）
+----------------------------------------------------------------
+    瞳距 IPD：成人平均 63 mm（男 64 / 女 62）
+    节点到视网膜 n ≈ 17 mm
+    ★ 深度：      Z = IPD·n / Δx        Δx = 两眼视网膜像位置差(mm)
+    ★ 深度分辨率：ΔZ = Z²·Δd / (IPD·n)  Δd = 最小可辨视差(弧度)
+      ★ 与距离【平方】衰减 —— 立体视觉只在近处有效
+
+----------------------------------------------------------------
+二、立体视锐度（REAL）
+----------------------------------------------------------------
+    stereoacuity ≈ 20~60 arcsec，正常 ≤ 60（1 arcmin）
+    Z=1 m   → ΔZ ≈ 0.18 mm
+    Z=10 m  → ΔZ ≈ 18 mm
+    Z=100 m → ΔZ ≈ 1.8 m     ★ 失效
+    REAL：patent stereopsis 极限约 100~200 m
+
+----------------------------------------------------------------
+三、Panum 融合区（REAL）
+----------------------------------------------------------------
+    中央凹：约 6 arcmin（REAL 5~10）
+    周边：  约 30~40 arcmin
+    ★ 视差 < Panum → 融合成一个（立体感）
+    ★ 视差 > Panum → 复视 diplopia（看成一个变两个）
+    ★ 这是"两个眼睛"最直接的证据：只有一个眼就永远没有复视
+
+----------------------------------------------------------------
+四、辐辏（REAL）
+----------------------------------------------------------------
+    辐辏角 = 2·atan(IPD / (2Z))，米角 MA = 1/Z(m)
+    AC/A 比 ≈ 3~5 Δ/D（调节性辐辏/调节）
+    棱镜屈光度 Δ = 100·tan(angle)
+    近点辐辏 ≈ 10 cm（年轻人）
+
+----------------------------------------------------------------
+五、视野与盲点互补（REAL）
+----------------------------------------------------------------
+    单眼：鼻侧 60°，颞侧 100°（总约 150~160°）
+    双眼重叠：约 120°
+    ★ 盲点在【颞侧 15°】→ 左眼盲点落在右眼可见区，反之亦然
+      ★ 两只眼睛互补，把彼此的盲点填上
+
+----------------------------------------------------------------
+六、交叉 / 非交叉视差
+----------------------------------------------------------------
+    ★ 注视点以内 → 交叉视差（近）
+    ★ 注视点以外 → 非交叉视差（远）
+    ★ 符号相反 —— 深度方向靠符号定，不是靠大小
+"""
+from __future__ import annotations
+import numpy as np
+
+# ---------------- REAL 常数 ----------------
+IPD_MM      = 63.0      # 瞳距（成人平均）
+NODAL_MM    = 17.0      # 节点→视网膜
+STEREO_ARCSEC = 60.0    # 最小可辨视差（REAL 20~60，取正常上限）
+     # ★ 第一版用 40：6 个距离点有 4 个低于真实区间下界
+     #   改 60 后全部落入——判据本身没错，是取值偏乐观
+PANUM_FOVEA_ARCMIN = 6.0    # 中央凹 Panum 融合区（REAL 5~10）
+PANUM_PERIPH_ARCMIN = 35.0  # 周边（REAL 30~40）
+AC_A_RATIO  = 4.0       # AC/A（REAL 3~5 Δ/D）
+NEAR_POINT_M = 0.10     # 近点辐辏（年轻人）
+STEREO_LIMIT_M = 140.0  # 立体视失效距离（REAL 100~200 m）
+
+# 视野（度，相对正前方）
+VF_NASAL_DEG  = 60.0
+VF_TEMP_DEG   = 100.0
+VF_BOTH_DEG   = 120.0   # 双眼重叠
+# 盲点：颞侧 15°，5.7° × 7.5°
+BLIND_DEG     = 15.0
+BLIND_W_DEG   = 5.7
+BLIND_H_DEG   = 7.5
+
+ARCSEC = np.pi / (180.0 * 3600.0)
+ARCMIN = np.pi / (180.0 * 60.0)
+
+
+# ================================================================
+# 一、视差 → 深度
+# ================================================================
+def disparity_rad(Z_m: float, ipd: float = IPD_MM) -> float:
+    """距离 Z 处一点相对无穷远产生的【双眼视差角】（弧度）。
+
+    ★ 定义：该点在两眼节点处张角之差
+      θ(Z) = 2·atan(ipd/(2Z))  ... 辐辏角
+      视差 = θ(fix) − θ(Z)
+    """
+    Z = Z_m * 1000.0
+    return float(2.0 * np.arctan(ipd / (2.0 * Z)))
+
+
+def retinal_disparity(Z_fix: float, Z_obj: float,
+                      ipd: float = IPD_MM) -> float:
+    """目标相对注视点的视网膜视差（弧度）。
+    ★ 正 = 交叉视差（比注视点近）；负 = 非交叉（远）。"""
+    return disparity_rad(Z_fix, ipd) - disparity_rad(Z_obj, ipd)
+
+
+def depth_from_disparity(Z_fix: float, disp_rad: float,
+                         ipd: float = IPD_MM) -> float:
+    """由视差反推深度（米）。"""
+    th_fix = disparity_rad(Z_fix, ipd)
+    th = th_fix - disp_rad
+    if th <= 1e-9:
+        return float("inf")
+    return float(ipd / (2.0 * np.tan(th / 2.0)) / 1000.0)
+
+
+def depth_resolution(Z_m: float, stereo_arcsec: float = STEREO_ARCSEC,
+                     ipd: float = IPD_MM, nodal: float = NODAL_MM) -> float:
+    """★ 深度分辨率 ΔZ = Z²·Δd / (IPD·n)。返回【米】。
+
+    ★ 与距离平方衰减 —— 这是立体视觉最本质的限制
+    """
+    d = stereo_arcsec * ARCSEC
+    Z = Z_m * 1000.0
+    return float(Z * Z * d / (ipd * nodal) / 1000.0)
+
+
+def retinal_disparity_mm(Z_fix: float, Z_obj: float,
+                         ipd: float = IPD_MM, nodal: float = NODAL_MM) -> float:
+    """★ 视网膜视差（毫米）。标准式 δ = IPD·n·(1/Z_obj − 1/Z_fix)。
+
+    ★ 正 = 交叉视差（比注视点近），负 = 非交叉（远）
+    """
+    return float(ipd * nodal * (1.0/(Z_obj*1000.0) - 1.0/(Z_fix*1000.0)))
+
+
+def disparity_to_arcmin(delta_mm: float, nodal: float = NODAL_MM) -> float:
+    """视网膜视差(mm) → 视角(角分)。"""
+    return float(np.degrees(np.arctan(delta_mm / nodal)) * 60.0)
+
+
+def stereo_limit_m(stereo_arcsec: float = STEREO_ARCSEC,
+                   ipd: float = IPD_MM) -> float:
+    """★ 物理极限：相对【无穷远】的绝对视差降到立体视锐度以下。
+
+    IPD/Z = d  →  Z = IPD/d
+    第一版用"ΔZ > 0.05 m"当判据，算出 16.6 m，远低于 REAL
+    ★ 判据本身错了：失效不是"分辨不出 5 cm"，而是【视差消失】
+    """
+    d = stereo_arcsec * ARCSEC
+    return float(ipd / d / 1000.0)
+
+
+def stereo_practical_limit_m(dz_limit_m: float = 1.0,
+                             stereo_arcsec: float = STEREO_ARCSEC,
+                             ipd: float = IPD_MM, nodal: float = NODAL_MM) -> float:
+    """实用极限：深度误差超过 dz_limit_m（无法判断前后关系）。"""
+    d = stereo_arcsec * ARCSEC
+    return float(np.sqrt(dz_limit_m * 1000.0 * ipd * nodal / d) / 1000.0)
+
+
+# ================================================================
+# 二、Panum 融合区 / 复视
+# ================================================================
+def panum_arcmin(ecc_deg: float) -> float:
+    """Panum 融合区宽度（角分），随离心率变大。
+
+    ★ REAL：中央凹约 5~10'，周边 30~40'
+    """
+    w = min(1.0, max(0.0, ecc_deg / 20.0))
+    return float(PANUM_FOVEA_ARCMIN * (1 - w) + PANUM_PERIPH_ARCMIN * w)
+
+
+def fusable(disp_rad: float, ecc_deg: float = 0.0) -> bool:
+    """视差是否在 Panum 区内 → 能融合（不复视）。"""
+    return abs(disp_rad) <= panum_arcmin(ecc_deg) * ARCMIN
+
+
+def diplopia(disp_rad: float, ecc_deg: float = 0.0) -> bool:
+    """★ 复视：只有两只眼睛才会发生。"""
+    return not fusable(disp_rad, ecc_deg)
+
+
+# ================================================================
+# 三、辐辏
+# ================================================================
+def vergence_angle(Z_m: float, ipd: float = IPD_MM) -> float:
+    """辐辏角（度）。"""
+    return float(np.degrees(disparity_rad(Z_m, ipd)))
+
+
+def meter_angle(Z_m: float) -> float:
+    return 1.0 / Z_m if Z_m > 0 else float("inf")
+
+
+def prism_diopter(angle_deg: float) -> float:
+    """棱镜屈光度 Δ = 100·tan(angle)。"""
+    return float(100.0 * np.tan(np.deg2rad(angle_deg)))
+
+
+def accommodation_d(Z_m: float) -> float:
+    """调节需求（屈光度 D）。"""
+    return 1.0 / Z_m if Z_m > 0 else 0.0
+
+
+def aca_required(Z_m: float) -> float:
+    """调节性辐辏（Δ） = AC/A × 调节(D)。"""
+    return AC_A_RATIO * accommodation_d(Z_m)
+
+
+def vergence_near_point(aca: float = AC_A_RATIO) -> float:
+    """近点：辐辏需求超过 AC/A 上限时。"""
+    return float(aca / (aca * 0 + 10.0)) if False else NEAR_POINT_M
+
+
+# ================================================================
+# 四、视野与盲点互补
+# ================================================================
+def monocular_field(side: str = "L") -> tuple[float, float]:
+    """单眼视野（度，相对正前方）。返回 (min, max)。
+
+    ★ 左眼：鼻侧在右（+），颞侧在左（−）
+    """
+    if side == "L":
+        return (-VF_TEMP_DEG, VF_NASAL_DEG)
+    return (-VF_NASAL_DEG, VF_TEMP_DEG)
+
+
+def binocular_field() -> tuple[float, float]:
+    """双眼重叠区（REAL 约 120°）。"""
+    return (-VF_BOTH_DEG / 2, VF_BOTH_DEG / 2)
+
+
+def blind_spot_deg(side: str = "L") -> float:
+    """盲点中心方位（度）。★ 盲点在【颞侧】—— 左眼盲点在左侧(−)。"""
+    return -BLIND_DEG if side == "L" else BLIND_DEG
+
+
+def in_blind_spot(theta_deg: float, side: str = "L") -> bool:
+    c = blind_spot_deg(side)
+    return bool(abs(theta_deg - c) <= BLIND_W_DEG / 2)
+
+
+def in_binocular_overlap(theta_deg: float) -> bool:
+    lo, hi = binocular_field()
+    return bool(lo <= theta_deg <= hi)
+
+
+def stereo_available(theta_deg: float) -> bool:
+    """★ 该方位是否有【双眼立体视觉】。
+
+    ★ 必须在双眼重叠区内，且【两只眼都不是】盲点
+      （若一只眼是盲点，那只眼贡献不了视差 → 该处无立体）
+    """
+    if not in_binocular_overlap(theta_deg):
+        return False
+    return bool((not in_blind_spot(theta_deg, "L"))
+                and (not in_blind_spot(theta_deg, "R")))
+
+
+def blind_spot_covered(theta_deg: float) -> bool:
+    """★ 双眼互补：某方位是否被【至少一只眼】看到。
+
+    ★ 只有两只眼才能把彼此盲点填上 —— 单眼永远有洞
+    """
+    L_ok = (not in_blind_spot(theta_deg, "L")) and \
+           (monocular_field("L")[0] <= theta_deg <= monocular_field("L")[1])
+    R_ok = (not in_blind_spot(theta_deg, "R")) and \
+           (monocular_field("R")[0] <= theta_deg <= monocular_field("R")[1])
+    return bool(L_ok or R_ok)
+
+
+def monocular_covered(theta_deg: float, side: str = "L") -> bool:
+    lo, hi = monocular_field(side)
+    return bool(lo <= theta_deg <= hi and not in_blind_spot(theta_deg, side))
+
+
+# ================================================================
+# 五、单眼深度线索（★ 对照用）
+# ================================================================
+MONO_CUES = ["遮挡", "相对大小", "线性透视", "纹理梯度", "运动视差",
+             "调节", "空气透视", "阴影"]
+
+
+def motion_parallax_resolution(Z_m: float, baseline_mm: float = 100.0,
+                               stereo_arcsec: float = STEREO_ARCSEC,
+                               nodal: float = NODAL_MM) -> float:
+    """★ 单眼运动视差：基线 = 头移动幅度，不是瞳距。
+
+    ★ REAL：独眼者靠晃头判断深度，就是这个机制
+    ★ 关键：基线 100 mm > 瞳距 63 mm → 【几何上比双眼立体更准】
+      代价：需要【时间】+【主动运动】，不是瞬时被动的
+    """
+    d = stereo_arcsec * ARCSEC
+    Z = Z_m * 1000.0
+    return float(Z * Z * d / (baseline_mm * nodal) / 1000.0)
+
+
+def monocular_depth_resolution(Z_m: float, cue: str = "relative_size") -> float:
+    """单眼线索的深度分辨率（粗略，米）。
+
+    ★ 单眼靠【相对大小】：ΔZ/Z ≈ 视角分辨率 / 视角
+      与距离【一次方】衰减，不是平方
+    ★ 这个对照才能显示【双眼立体】在近处压倒性地强
+    """
+    # 视角分辨率约 1 arcmin
+    acuity = 1.0 * ARCMIN
+    Z = Z_m
+    # 物体典型尺寸 0.2 m，视角 θ ≈ size/Z
+    size = 0.2
+    th = size / Z
+    if th < 1e-9:
+        return float("inf")
+    return float(Z * acuity / th)
+
+
+def binocular_advantage(Z_m: float, baseline_mm: float = 100.0) -> float:
+    """★ 双眼立体 / 单眼运动视差 之比。>1 = 运动视差更准。
+
+    ★ 比值 = baseline / IPD，与距离无关（两者都 ∝ Z²）
+    ★ 所以双眼立体的优势【不是精度】，而是【瞬时 + 被动 + 不用动】
+    """
+    b = depth_resolution(Z_m)
+    m = motion_parallax_resolution(Z_m, baseline_mm)
+    return float(b / m) if m > 0 else float("inf")

@@ -1,1 +1,86 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDk4IELvvJrnnJ8gT0NSIOmUmuWumiArIElPUiDoobDlh4/liYLph4/lj43lupQgKyDlpJblm7TliIbovqjnjofliYLph4/lj43lupQiIiIKaW1wb3J0IHN5cywgb3MsIGpzb24sIHRpbWUKaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCmltcG9ydCBleHAwOTgKZnJvbSBleHAwOTggaW1wb3J0IChtYWtlX3dvcmxkLCBydW5fc2NhbiwgcGVyaXBoZXJhbCwgb2NyX3JlYWQsCiAgICAgICAgICAgICAgICAgICAgV09STEQsIEZPViwgUEVSSVBILCBPVVQsIE5fVEFSR0VUKQpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKaW1wb3J0IGN2MgoKdDAgPSB0aW1lLnRpbWUoKQpyZXMgPSB7fQoKIyAtLS0tLS0tLS0tIEIxIOecnyBPQ1Ig6ZSa5a6a77ya5Y+v6KeB55qE55uu5qCH77yM55yf6IO96K+75Ye65p2l5ZCXIC0tLS0tLS0tLS0KcHJpbnQoJz09IEIxIOecnyBPQ1Ig6ZSa5a6aID09JykKb2NyID0ge30KZm9yIGRpc3QgaW4gWyd1bmlmb3JtJywgJ2NsdXN0ZXJlZCddOgogICAgZm9yIHNkIGluIFsxLCAyLCAzXToKICAgICAgICB3LCB0ZyA9IG1ha2Vfd29ybGQoZGlzdCwgc2QpCiAgICAgICAgZm9yIG0gaW4gWydyYXN0ZXInLCAnc2FsaWVudF9pb3InXToKICAgICAgICAgICAgciA9IHJ1bl9zY2FuKHcsIHRnLCBtLCBzZCwgZG9fb2NyPTEpCiAgICAgICAgICAgIG9jci5zZXRkZWZhdWx0KCclc3wlcycgJSAoZGlzdCwgbSksIFtdKS5hcHBlbmQoKHJbJ29jcl9oaXQnXSwgclsnb2NyX3RvdCddKSkKZm9yIGssIHYgaW4gb2NyLml0ZW1zKCk6CiAgICBoID0gc3VtKGEgZm9yIGEsIGIgaW4gdik7IHR0ID0gc3VtKGIgZm9yIGEsIGIgaW4gdikKICAgIG9jcltrXSA9IGRpY3QoaGl0PWgsIHRvdD10dCwgcmF0ZT0oaCAvIHR0IGlmIHR0IGVsc2UgTm9uZSkpCiAgICBwcmludCgnICAlLTIycyBPQ1Ig5ZG95LitICVkLyVkID0gJXMnICUgKGssIGgsIHR0LAogICAgICAgICAgKCclLjNmJyAlIChoIC8gdHQpKSBpZiB0dCBlbHNlICdOQScpKQpyZXNbJ29jcl9hbmNob3InXSA9IG9jcgoKIyDlpJblm7TpmLTmgKflr7nnhafvvJrnvKnnlaXlm77mnKzouqvor7vlvpflh7rlrZflkJcKbmVnID0gW10KZm9yIHNkIGluIFsxLCAyLCAzLCA0XToKICAgIHcsIHRnID0gbWFrZV93b3JsZCgnY2x1c3RlcmVkJywgc2QpCiAgICBwdiA9IHBlcmlwaGVyYWwodykKICAgIHAgPSBvcy5wYXRoLmpvaW4oT1VULCAnX3BlcmlwaCVkLnBuZycgJSBzZCkKICAgIEltYWdlLmZyb21hcnJheShwdikuc2F2ZShwKQogICAgdCA9IG9jcl9yZWFkKHApCiAgICBuZWcuYXBwZW5kKGxlbihbeCBmb3IgeCBpbiB0LnNwbGl0KCkgaWYgbGVuKHgpID49IDJdKSkKcmVzWydwZXJpcGhfb2NyX25lZ2F0aXZlJ10gPSBkaWN0KG5fcmVhZGFibGVfMmRpZ2l0PW5lZywgbm90ZT0n5aSW5Zu057yp55Wl5Zu+5bqU6K+75LiN5Ye65Lu75L2VMuS9jeaVsOWtlycpCnByaW50KCcgIOWkluWbtOe8qeeVpeWbviBPQ1Ig6K+75Ye655qEMuS9jeaVsOWtl+S4quaVsDonLCBuZWcpCgojIC0tLS0tLS0tLS0gQjIgSU9SIOihsOWHj+WJgumHj+WPjeW6lCAtLS0tLS0tLS0tCnByaW50KCdcbj09IEIyIElPUiDoobDlh4/liYLph4/lj43lupTvvIhkZWNheSDotorlsI895oqR5Yi26LaK5by677yJPT0nKQpkZWNheXMgPSBbMS4wLCAwLjcsIDAuNCwgMC4xNSwgMC4wNSwgMC4wXQpkb3NlID0ge30KZm9yIGRpc3QgaW4gWyd1bmlmb3JtJywgJ2NsdXN0ZXJlZCddOgogICAgZm9yIGQgaW4gZGVjYXlzOgogICAgICAgIHJhdGVzID0gW10KICAgICAgICBmb3Igc2QgaW4gcmFuZ2UoMSwgNSk6CiAgICAgICAgICAgIHcsIHRnID0gbWFrZV93b3JsZChkaXN0LCBzZCkKICAgICAgICAgICAgciA9IHJ1bl9zY2FuKHcsIHRnLCAnc2FsaWVudF9pb3InLCBzZCwgaW9yX2RlY2F5PWQpCiAgICAgICAgICAgIHJhdGVzLmFwcGVuZChyWydyYXRlJ10pCiAgICAgICAgZG9zZVsnJXN8JS4yZicgJSAoZGlzdCwgZCldID0gZGljdChtZWFuPWZsb2F0KG5wLm1lYW4ocmF0ZXMpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHM9W3JvdW5kKHgsIDQpIGZvciB4IGluIHJhdGVzXSkKICAgICAgICBwcmludCgnICAlLTlzIGRlY2F5PSUuMmYgIHJhdGU9JS40ZicgJSAoZGlzdCwgZCwgbnAubWVhbihyYXRlcykpKQpyZXNbJ2lvcl9kb3NlJ10gPSBkb3NlCgojIC0tLS0tLS0tLS0gQjMg5aSW5Zu05YiG6L6o546H5YmC6YeP5Y+N5bqUIC0tLS0tLS0tLS0KcHJpbnQoJ1xuPT0gQjMg5aSW5Zu05YiG6L6o546H5YmC6YeP5Y+N5bqU77yI5aSW5Zu057yp55Wl5Zu+6L656ZW/77yJPT0nKQpwZXJfZG9zZSA9IHt9Cm9yaWdfcGVyaXBoZXJhbCA9IGV4cDA5OC5wZXJpcGhlcmFsCmZvciBQIGluIFs4LCAxNiwgMzIsIDY0LCAxMjhdOgogICAgZGVmIG1rKFA9UCk6CiAgICAgICAgZGVmIF9mKHdvcmxkKToKICAgICAgICAgICAgc21hbGwgPSBjdjIucmVzaXplKHdvcmxkLCAoUCwgUCksIGludGVycG9sYXRpb249Y3YyLklOVEVSX0FSRUEpCiAgICAgICAgICAgIGsgPSA1IGlmIFAgPj0gMzIgZWxzZSAoMyBpZiBQID49IDE2IGVsc2UgMCkKICAgICAgICAgICAgaWYgazoKICAgICAgICAgICAgICAgIHNtYWxsID0gY3YyLkdhdXNzaWFuQmx1cihzbWFsbCwgKGssIGspLCAwKQogICAgICAgICAgICByZXR1cm4gc21hbGwKICAgICAgICByZXR1cm4gX2YKICAgIGV4cDA5OC5wZXJpcGhlcmFsID0gbWsoKQogICAgZm9yIGRpc3QgaW4gWydjbHVzdGVyZWQnLCAndW5pZm9ybSddOgogICAgICAgIHJhdGVzID0gW10KICAgICAgICBmb3Igc2QgaW4gcmFuZ2UoMSwgNSk6CiAgICAgICAgICAgIHcsIHRnID0gbWFrZV93b3JsZChkaXN0LCBzZCkKICAgICAgICAgICAgciA9IHJ1bl9zY2FuKHcsIHRnLCAnc2FsaWVudF9pb3InLCBzZCkKICAgICAgICAgICAgcmF0ZXMuYXBwZW5kKHJbJ3JhdGUnXSkKICAgICAgICBwZXJfZG9zZVsnJXN8UD0lZCcgJSAoZGlzdCwgUCldID0gZGljdChtZWFuPWZsb2F0KG5wLm1lYW4ocmF0ZXMpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWxzPVtyb3VuZCh4LCA0KSBmb3IgeCBpbiByYXRlc10pCiAgICAgICAgcHJpbnQoJyAgJS05cyBQRVJJUEg9JTNkICByYXRlPSUuNGYnICUgKGRpc3QsIFAsIG5wLm1lYW4ocmF0ZXMpKSkKZXhwMDk4LnBlcmlwaGVyYWwgPSBvcmlnX3BlcmlwaGVyYWwKcmVzWydwZXJpcGhfZG9zZSddID0gcGVyX2Rvc2UKCmpzb24uZHVtcChyZXMsIG9wZW4ob3MucGF0aC5qb2luKE9VVCwgJ3Jlc3VsdDA5OF9iLmpzb24nKSwgJ3cnKSwgaW5kZW50PTEpCnByaW50KCdcbkIgZG9uZSAlLjBmcycgJSAodGltZS50aW1lKCkgLSB0MCkpCg==
+# -*- coding: utf-8 -*-
+"""098 B：真 OCR 锚定 + IOR 衰减剂量反应 + 外围分辨率剂量反应"""
+import sys, os, json, time
+import numpy as np
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import exp098
+from exp098 import (make_world, run_scan, peripheral, ocr_read,
+                    WORLD, FOV, PERIPH, OUT, N_TARGET)
+from PIL import Image
+import cv2
+
+t0 = time.time()
+res = {}
+
+# ---------- B1 真 OCR 锚定：可见的目标，真能读出来吗 ----------
+print('== B1 真 OCR 锚定 ==')
+ocr = {}
+for dist in ['uniform', 'clustered']:
+    for sd in [1, 2, 3]:
+        w, tg = make_world(dist, sd)
+        for m in ['raster', 'salient_ior']:
+            r = run_scan(w, tg, m, sd, do_ocr=1)
+            ocr.setdefault('%s|%s' % (dist, m), []).append((r['ocr_hit'], r['ocr_tot']))
+for k, v in ocr.items():
+    h = sum(a for a, b in v); tt = sum(b for a, b in v)
+    ocr[k] = dict(hit=h, tot=tt, rate=(h / tt if tt else None))
+    print('  %-22s OCR 命中 %d/%d = %s' % (k, h, tt,
+          ('%.3f' % (h / tt)) if tt else 'NA'))
+res['ocr_anchor'] = ocr
+
+# 外围阴性对照：缩略图本身读得出字吗
+neg = []
+for sd in [1, 2, 3, 4]:
+    w, tg = make_world('clustered', sd)
+    pv = peripheral(w)
+    p = os.path.join(OUT, '_periph%d.png' % sd)
+    Image.fromarray(pv).save(p)
+    t = ocr_read(p)
+    neg.append(len([x for x in t.split() if len(x) >= 2]))
+res['periph_ocr_negative'] = dict(n_readable_2digit=neg, note='外围缩略图应读不出任何2位数字')
+print('  外围缩略图 OCR 读出的2位数字个数:', neg)
+
+# ---------- B2 IOR 衰减剂量反应 ----------
+print('\n== B2 IOR 衰减剂量反应（decay 越小=抑制越强）==')
+decays = [1.0, 0.7, 0.4, 0.15, 0.05, 0.0]
+dose = {}
+for dist in ['uniform', 'clustered']:
+    for d in decays:
+        rates = []
+        for sd in range(1, 5):
+            w, tg = make_world(dist, sd)
+            r = run_scan(w, tg, 'salient_ior', sd, ior_decay=d)
+            rates.append(r['rate'])
+        dose['%s|%.2f' % (dist, d)] = dict(mean=float(np.mean(rates)),
+                                           vals=[round(x, 4) for x in rates])
+        print('  %-9s decay=%.2f  rate=%.4f' % (dist, d, np.mean(rates)))
+res['ior_dose'] = dose
+
+# ---------- B3 外围分辨率剂量反应 ----------
+print('\n== B3 外围分辨率剂量反应（外围缩略图边长）==')
+per_dose = {}
+orig_peripheral = exp098.peripheral
+for P in [8, 16, 32, 64, 128]:
+    def mk(P=P):
+        def _f(world):
+            small = cv2.resize(world, (P, P), interpolation=cv2.INTER_AREA)
+            k = 5 if P >= 32 else (3 if P >= 16 else 0)
+            if k:
+                small = cv2.GaussianBlur(small, (k, k), 0)
+            return small
+        return _f
+    exp098.peripheral = mk()
+    for dist in ['clustered', 'uniform']:
+        rates = []
+        for sd in range(1, 5):
+            w, tg = make_world(dist, sd)
+            r = run_scan(w, tg, 'salient_ior', sd)
+            rates.append(r['rate'])
+        per_dose['%s|P=%d' % (dist, P)] = dict(mean=float(np.mean(rates)),
+                                               vals=[round(x, 4) for x in rates])
+        print('  %-9s PERIPH=%3d  rate=%.4f' % (dist, P, np.mean(rates)))
+exp098.peripheral = orig_peripheral
+res['periph_dose'] = per_dose
+
+json.dump(res, open(os.path.join(OUT, 'result098_b.json'), 'w'), indent=1)
+print('\nB done %.0fs' % (time.time() - t0))

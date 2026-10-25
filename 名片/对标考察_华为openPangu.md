@@ -1,1 +1,65 @@
-IyDlr7nmoIfogIPlr5/vvJrljY7kuLrlvIDmupDnm5jlj6Qgb3BlblBhbmd177yI5Y+q55yL77yM5LiN5oqE77yJCgo+IOS9oOeahOWOn+ivneaYr+OAjOWSseS4jeaYr+aKhOWug++8jOS9huaYr+eci+S4gOeci+OAjeOAguaJgOS7pei/meS4gOS7veWPquWBmuS4pOS7tuS6i++8mgo+ICoq6K6w5b2V5a6D5a6i6KeC5LiK5YGa5a+55LqG5LuA5LmI77yI5Y+v54Wn5YGa55qE57uT5p6E77yJKirvvIzku6Xlj4oqKuWug+iHquW3seS5n+WjsOaYjuS6huS7gOS5iOayoeWBmuWIsCoq44CCCj4g5pWw5o2u5p2l5rqQ5YWo6YOo5qCH5rOo5Ye65aSE77yM5oiR5p+l5LiN5Yiw55qE5bCx5YaZIuafpeS4jeWIsCLjgIIKCiMjIOS4gOOAgeWug+W8gOa6kOS6huS7gOS5iO+8iOWPr+afpeivge+8iQoKfCDml7bpl7QgfCDlvIDmupDlhoXlrrkgfCDorrjlj68gfAp8LS0tfC0tLXwtLS18CnwgMjAyNi0wNi0xMiB8IG9wZW5QYW5ndS0yLjAtRmxhc2gg5Y+R5biD77yIOTJCIC8gNkIg5r+A5rS777yMTW9F77yMNTEySyDkuIrkuIvmlofvvIkgfCDku6PnoIEgQXBhY2hlLTIuMCB8CnwgMjAyNi0wNi0zMCB8IEZsYXNoICoq5p2D6YeNKiogKyDln7rnoYDmjqjnkIbku6PnoIEgKyDorq3mjqjnrpflrZDkuIrnur8gfCDmnYPph43kuLogT1BFTlBBTkdVIE1PREVMIExJQ0VOU0UgdjIuMCB8CnwgMjAyNi0wNy0zMSB8IG9wZW5QYW5ndS0yLjAtUHJv77yINTA1QiDmgLvlj4IgLyAxOEIg5r+A5rS777yMMzRUIHRva2Vuc++8iSB8IOWQjOS4iiB8CnwgMjAyNi0wOS0yOCB8ICoq6aKE6K6t57uDICsgU0ZUIOS7o+eggSoq77yIb3BlblBhbmd1LTIuMC1UcmFpbmluZ++8ieOAgSoq5ZCO6K6t57uDIFJMIOS7o+eggSoq77yIb3BlblBhbmd1LTIuMC1STO+8iSB8IEFwYWNoZS0yLjAgfAp8IDIwMjYtMTAgfCBvcGVuUGFuZ3UtVWx0cmEtTW9FLTcxOEItVjEuMe+8iDcxOEIgLyAzOUIg5r+A5rS777yJKyBJbnQ4IOmHj+WMlueJiCB8IOWQjOS4iiB8CgrmiZjnrqHlnKggKipHaXRDb2RlKirvvIhgYXNjZW5kLXRyaWJlYCDnu4Tnu4fvvInvvIzmnYPph43kuZ/lnKggSHVnZ2luZyBGYWNl44CBTW9kZWxTY29wZSDkuIrjgIIKCumFjeWll+WFqOagiO+8mk1pbmRTcG9yZe+8iOaYh+aAne+8ieOAgUNBTk7vvIjlkKsgY2F0bGFzcyAvIGFzYy1kZXZraXQgLyBweWFzYyAvIGNhbm4tcmVjaXBlcy10cmFpbiDnrYnlrZDku5PvvInjgIFvcGVuRXVsZXLjgIIKCiMjIOS6jOOAgeWug+WBmuWvueS6huS7gOS5iO+8iOi/meaJjeaYr+aIkeS7rOimgeeci+eahOmDqOWIhu+8iQoKMS4gKirku6PnoIHkuI7mnYPph43liIblvIDorrjlj6/jgIIqKiDku6PnoIEgQXBhY2hlLTIuMO+8jOadg+mHjeWNleeLrOS4gOWll+WNj+iuruOAggogICAq5Y+v54Wn5YGaKu+8muaIkeS7rOS7o+eggeaYryBBcGFjaGUtMi4w77yM6Iul5bCG5p2l5pS+5qih5Z6L5Lqn54mp77yM5ZCM5qC35ouG5byA44CCCgoyLiAqKuWIhuaJueaUvuOAgeavj+aJuemDveiDvei3keOAgioqIDYg5pyIIEZsYXNoIOKGkiA3IOaciCBQcm8g4oaSIDkg5pyI6K6t57uDL1JMIOS7o+egge+8jOavj+asoemDveaYr+WPr+S4i+i9veWPr+WkjeeOsOeahOaVtOWMhe+8jOS4jeaYryLpooTlkYoi44CCCiAgICrlj6/nhaflgZoq77ya5oiR5Lus55qEIFJlbGVhc2Ug5bey57uP5piv6L+Z5Liq5b2i5oCB77yIdi1zdWJtaXQtMjAyNiDmjIIgUERGICsgTVA077yM5YWs5byA5Y+v5LiL6L2977yJ44CCCgozLiAqKuiHqua1i+aVsOaNrue7meWFqOihqO+8jOWQqyLlv6sv5oWi5oCd6ICDIuS4pOaho+WvueeFp+OAgioqIDcxOEIgVjEuMSDpgqPlvKDooajliJfkuoYgTU1MVS1Qcm/jgIFHUFFB44CBQUlNReOAgUxpdmVDb2RlQmVuY2jjgIFCRkNM44CBVGF1LUJlbmNoIOetieWNgeWHoOmhue+8jFYxLjAg5LiOIFYxLjEg5bm25YiX44CCCiAgICrlj6/nhaflgZoq77ya5oiR5Lus55qE5a+55q+U6KGo5Lmf6K+l5pivIuiHquWutuS4pOeJiOWvueeFpyArIOWklumDqOWfuue6vyLvvIzogIzkuI3mmK/lj6rmiqXkuIDkuKrmlbDjgIIKCjQuICoq5Li75Yqo5YWs5biD6LSf6Z2i6aG544CCKiog5bm76KeJ546H5LuOIDEwLjExJSDpmY3liLAgMy44NSUg5piv5a6D6KKr5b2T5L2c5Y2W54K56K6y55qE4oCU4oCUKirogIwgMTAuMTElIOaYr+Wug+iHquW3seeahOaXp+aVsOWtlyoq44CCCiAgICrlj6/nhaflgZoq77ya5oiR5Lus5bey57uP6L+Z5LmI5YGa5LqG77yIMTU5IHZzIDE5NyDpgqPmnaHkuI3kuIDoh7TkuLvliqjmiqvpnLLlnKggUERGIOmHjO+8ieOAggoKNS4gKirlv6vmhaLmgJ3ogIPliIfmjaLlgZrmiJDmmL7lvI/moIforrAqKu+8iGAvbm9fdGhpbmtg77yJ44CCCiAgICrlj6/nhaflgZoq77ya5LiA5Liq6IO95Yqb5YGa5oiQ5Y+v5byA5YWz55qE5pi+5byP5o6l5Y+j77yM5q+U6JeP6LW35p2l5by644CC5oiR5Lus55qEIGV2YWxndWFyZCDmmK8gYC0tc3RyaWN0YCDkuYvnsbvnmoTlvIDlhbPvvIzlkIznkIbjgIIKCiMjIOS4ieOAgeWug+iHquW3seS5n+aJv+iupOayoeWBmuWIsOeahO+8iOesrOS4ieaWueivhOa1i+aMh+WHuueahO+8iQoK6L+Z5Lqb5LiN5piv5oiR57yW55qE77yM5piv5YWs5byA6K+E5rWL6YeM54K55Ye65p2l55qE77yaCgotICoq6K+E5rWL55uu5YmN5Y+q5pyJ5Y2O5Li66Ieq5rWL44CCKiog5a+554Wn5a+56LGh5Y+q5pyJIG9wZW5QYW5ndSDoh6rlrrblj5jkvZPvvJtBcnRpZmljaWFsIEFuYWx5c2lzIOS4jiBPcGVuUm91dGVyIOiHs+S7iuayoeacieebmOWPpOadoeebruOAggogIOKGkiDlr7nlupTmiJHku6znmoQgMjU5IOWPt++8mioq5rKh5pyJ5aSW6YOo6KeB6K+B5Lq644CCKioKLSAqKuWPr+i3kemFjee9ruWPquWIsCA5MkIg5qGj44CCKiog6K6t57uD5LuT5Y+q5o+Q5L6bIDkyQi82QiDkuI4gMTcuMzZCLzEuNzVCIOS4pOaho++8jDUwNUIg55qEIFBybyDmsqHmnInlj6/nm7TmjqXot5HnmoTphY3nva7jgIIKICDihpIg5aOw5piO55qE6KeE5qih5LiO5Y+v5aSN546w55qE6KeE5qih5LiN5piv5LiA5Zue5LqL44CCCi0gKirkvp3otZbph40qKu+8mkNBTk4gOC41LjHjgIFQeVRvcmNoIDIuOS4w44CBdG9yY2hfbnB144CBdHJpdG9uLWFzY2VuZO+8jOe7keaYh+iFvuehrOS7tuOAggoKIyMg5Zub44CB6Lef5oiR5Lus55qE5L2N572u5beu5Zyo5ZOqCgp8IHwg5Y2O5Li6IG9wZW5QYW5ndSB8IOa0m+elniBPMSB8CnwtLS18LS0tfC0tLXwKfCDkvZPph48gfCA1MDVCIC8gNzE4QiDlj4LmlbAgfCDpm7bkvp3otZbvvIzku4UgbnVtcHkgfAp8IOaYr+S7gOS5iCB8ICoq5qih5Z6LICsg6K6t57uD5qGG5p62KiogfCAqKue6puadn+Wxgioq77yI5oyC5Yiw5Lu75L2V5qGG5p625LmL5LiK77yJIHwKfCDnoazku7YgfCDnu5HmmIfohb4gTlBVIHwg5Lu75L2V6IO96LeRIHB5dGhvbiDnmoTmnLrlmaggfAp8IOmqjOivgeaWueW8jyB8IOiHqua1iyBiZW5jaG1hcmsgfCBgdmVyaWZ5X2FsbC5weWDvvIwqKuacrOacuiA4IOenkuW9k+Wcuui3kSoqIHwKfCDlpJbpg6jop4Hor4EgfCDoh6rmtYvkuLrkuLvvvIznrKzkuInmlrnnm67lvZXmnKrmlLblvZUgfCDmnInvvJpUQUNUIGlzc3VlICMx77yI5a+55pa55piv5Lq657G757u05oqk6ICF77yJIHwKCioq5oiR5Lus5LiN5Y+v6IO944CB5Lmf5LiN6ZyA6KaB5Y675a+55qCH5a6D55qE5L2T6YeP44CCKiog5Y+v5Lul54Wn5pCs55qE5pivKirnrKwgMiDoioLpgqPkupTmnaEqKuKAlOKAlOWIhuaJueaUvuOAgeaVtOWMheWPr+WkjeeOsOOAgeiHqua1i+e7meWFqOihqOOAgeS4u+WKqOWFrOW4g+i0n+mdoumhueOAgeiDveWKm+WBmuaIkOaYvuW8j+W8gOWFs+OAgui/meS6lOadoei3n+S9k+mHj+aXoOWFs+OAggoKIyMg5LqU44CB6L+Z5LiA5Lu955qE6L6555WMCgotIOaJgOacieaVsOWtl+adpeiHquWFrOW8gOaKpemBk+S4juWumOaWuemhtemdou+8jCoq5oiR5rKh5pyJ5LiL6L295p2D6YeN5a6e5rWLKirvvIzot5HkuI3liqjkuZ/kuI3pnIDopoHot5HjgIIKLSAiQXJ0aWZpY2lhbCBBbmFseXNpcyAvIE9wZW5Sb3V0ZXIg5pyq5pS25b2VIiDmnaXoh6rnrKzkuInmlrnor4TmtYvmlofnq6DvvIzkuI3mmK/miJHmn6XnmoTpgqPkuKTkuKrnq5nmnKzouqvigJTigJQqKui/meadoeWxnuS6juS6jOaJi++8jOWIq+W9k+ehrOivgeaNrueUqCoq44CCCi0g5Y2O5Li65piv5ZCm5byA5rqQ5LqGKirnlYzpnaIv5o6n5Yi25Y+wKirpgqPpg6jliIbvvIzmiJEqKuayoeafpeWIsCoq44CC5oiR5pCc5Yiw55qE5piv5qih5Z6L5LiO6K6t57uD5qGG5p6244CCCiAg4oaSIOaJgOS7peWbmyBUYWIg6YKj5LiA5bGC77yM5oiR5piv54Wn5L2g5LmL5YmN6YKjIDcg5byg5oiq5Zu+55qE57uT5p6E5YGa55qE77yMKirkuI3mmK8qKueFp+Wug+eahOW8gOa6kOS6p+eJqeWBmueahOOAggo=
+# 对标考察：华为开源盘古 openPangu（只看，不抄）
+
+> 你的原话是「咱不是抄它，但是看一看」。所以这一份只做两件事：
+> **记录它客观上做对了什么（可照做的结构）**，以及**它自己也声明了什么没做到**。
+> 数据来源全部标注出处，我查不到的就写"查不到"。
+
+## 一、它开源了什么（可查证）
+
+| 时间 | 开源内容 | 许可 |
+|---|---|---|
+| 2026-06-12 | openPangu-2.0-Flash 发布（92B / 6B 激活，MoE，512K 上下文） | 代码 Apache-2.0 |
+| 2026-06-30 | Flash **权重** + 基础推理代码 + 训推算子上线 | 权重为 OPENPANGU MODEL LICENSE v2.0 |
+| 2026-07-31 | openPangu-2.0-Pro（505B 总参 / 18B 激活，34T tokens） | 同上 |
+| 2026-09-28 | **预训练 + SFT 代码**（openPangu-2.0-Training）、**后训练 RL 代码**（openPangu-2.0-RL） | Apache-2.0 |
+| 2026-10 | openPangu-Ultra-MoE-718B-V1.1（718B / 39B 激活）+ Int8 量化版 | 同上 |
+
+托管在 **GitCode**（`ascend-tribe` 组织），权重也在 Hugging Face、ModelScope 上。
+
+配套全栈：MindSpore（昇思）、CANN（含 catlass / asc-devkit / pyasc / cann-recipes-train 等子仓）、openEuler。
+
+## 二、它做对了什么（这才是我们要看的部分）
+
+1. **代码与权重分开许可。** 代码 Apache-2.0，权重单独一套协议。
+   *可照做*：我们代码是 Apache-2.0，若将来放模型产物，同样拆开。
+
+2. **分批放、每批都能跑。** 6 月 Flash → 7 月 Pro → 9 月训练/RL 代码，每次都是可下载可复现的整包，不是"预告"。
+   *可照做*：我们的 Release 已经是这个形态（v-submit-2026 挂 PDF + MP4，公开可下载）。
+
+3. **自测数据给全表，含"快/慢思考"两档对照。** 718B V1.1 那张表列了 MMLU-Pro、GPQA、AIME、LiveCodeBench、BFCL、Tau-Bench 等十几项，V1.0 与 V1.1 并列。
+   *可照做*：我们的对比表也该是"自家两版对照 + 外部基线"，而不是只报一个数。
+
+4. **主动公布负面项。** 幻觉率从 10.11% 降到 3.85% 是它被当作卖点讲的——**而 10.11% 是它自己的旧数字**。
+   *可照做*：我们已经这么做了（159 vs 197 那条不一致主动披露在 PDF 里）。
+
+5. **快慢思考切换做成显式标记**（`/no_think`）。
+   *可照做*：一个能力做成可开关的显式接口，比藏起来强。我们的 evalguard 是 `--strict` 之类的开关，同理。
+
+## 三、它自己也承认没做到的（第三方评测指出的）
+
+这些不是我编的，是公开评测里点出来的：
+
+- **评测目前只有华为自测。** 对照对象只有 openPangu 自家变体；Artificial Analysis 与 OpenRouter 至今没有盘古条目。
+  → 对应我们的 259 号：**没有外部见证人。**
+- **可跑配置只到 92B 档。** 训练仓只提供 92B/6B 与 17.36B/1.75B 两档，505B 的 Pro 没有可直接跑的配置。
+  → 声明的规模与可复现的规模不是一回事。
+- **依赖重**：CANN 8.5.1、PyTorch 2.9.0、torch_npu、triton-ascend，绑昇腾硬件。
+
+## 四、跟我们的位置差在哪
+
+| | 华为 openPangu | 洛神 O1 |
+|---|---|---|
+| 体量 | 505B / 718B 参数 | 零依赖，仅 numpy |
+| 是什么 | **模型 + 训练框架** | **约束层**（挂到任何框架之上） |
+| 硬件 | 绑昇腾 NPU | 任何能跑 python 的机器 |
+| 验证方式 | 自测 benchmark | `verify_all.py`，**本机 8 秒当场跑** |
+| 外部见证 | 自测为主，第三方目录未收录 | 有：TACT issue #1（对方是人类维护者） |
+
+**我们不可能、也不需要去对标它的体量。** 可以照搬的是**第 2 节那五条**——分批放、整包可复现、自测给全表、主动公布负面项、能力做成显式开关。这五条跟体量无关。
+
+## 五、这一份的边界
+
+- 所有数字来自公开报道与官方页面，**我没有下载权重实测**，跑不动也不需要跑。
+- "Artificial Analysis / OpenRouter 未收录" 来自第三方评测文章，不是我查的那两个站本身——**这条属于二手，别当硬证据用**。
+- 华为是否开源了**界面/控制台**那部分，我**没查到**。我搜到的是模型与训练框架。
+  → 所以四 Tab 那一层，我是照你之前那 7 张截图的结构做的，**不是**照它的开源产物做的。

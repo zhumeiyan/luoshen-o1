@@ -1,1 +1,44 @@
-aW1wb3J0IHN5cywganNvbiwgb3MsIGdsb2IKc3lzLnBhdGguaW5zZXJ0KDAsICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9vdmVyc2VhcycpCmZyb20gZXZhbGd1YXJkLmNsaSBpbXBvcnQgc2NhbiwgUFJPX09OCmZyb20gZXZhbGd1YXJkLnNwZWMgaW1wb3J0IEFOQ0hPUl9TUEVDClBST19PTlswXSA9IFRydWUKQkFTRT0nL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvb3ZlcnNlYXMvZXZhbGd1YXJkL3Rlc3RzJwpGSVg9eydwbGFudGVkX2V2YWwucHknOjEyLCdwcm9fcGxhbnRlZC5weSc6MTQsJ2NsZWFuX2V2YWwucHknOjAsJ3Byb19jbGVhbi5weSc6MH0KcmVzPXt9CmZvciBmLGV4cCBpbiBGSVguaXRlbXMoKToKICAgIHA9b3MucGF0aC5qb2luKEJBU0UsZikKICAgIGZzPXNjYW4ocCkKICAgIG49c3VtKGxlbihyWydoaXRzJ10pIGZvciByIGluIGZzIGlmIHJbJ2VnX2lkJ10gbm90IGluKCdFRzAwMCcsKSkKICAgIHJlc1tmXT17J2ZvdW5kJzpuLCdleHBlY3QnOmV4cH0KcHJpbnQoIj09PSBSRUNBTEwgKGZpeHR1cmVzKSA9PT0iKQpmb3Igayx2IGluIHJlcy5pdGVtcygpOiBwcmludChmIntrOjIwc30gZm91bmQ9e3ZbJ2ZvdW5kJ106M2R9IGV4cGVjdH57dlsnZXhwZWN0J119IikKY3Jhc2g9W10KZm9yIGYsZXhwIGluIEZJWC5pdGVtcygpOgogICAgZm9yIHIgaW4gc2Nhbihvcy5wYXRoLmpvaW4oQkFTRSxmKSk6CiAgICAgICAgaWYgJ3J1bGUgZXJyb3InIGluIHN0cihyLmdldCgnaGl0cycsJycpKTogY3Jhc2guYXBwZW5kKChmLHJbJ2VnX2lkJ10pKQpwcmludCgiY3Jhc2hlczoiLGxlbihjcmFzaCksY3Jhc2hbOjVdKQoKcHJpbnQoIlxuPT09IENPUlBVUzMgKGluZGVwZW5kZW50LCA3IG5ldyByZXBvcykgPT09IikKbWFuPWpzb24ubG9hZChvcGVuKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjlfY29ycHVzL2V4cDEzNC9tYW5pZmVzdDMuanNvbicpKQpyb3dzPVtdCmZvciBpLGYgaW4gZW51bWVyYXRlKG1hbik6CiAgICBwYXRocz1nbG9iLmdsb2IoZiIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjlfY29ycHVzL2V4cDEzNC9jb3JwdXMzL3tpOjAyZH1fKiIpCiAgICBpZiBub3QgcGF0aHM6IGNvbnRpbnVlCiAgICBwPXBhdGhzWzBdCiAgICBpZiBub3QgcC5lbmRzd2l0aCgnLnB5Jyk6IGNvbnRpbnVlCiAgICBmb3IgciBpbiBzY2FuKHApOgogICAgICAgIGlmIHJbJ2VnX2lkJ109PSdFRzAwMCc6IGNvbnRpbnVlCiAgICAgICAgaWYgJ3J1bGUgZXJyb3InIGluIHN0cihyLmdldCgnaGl0cycsJycpKTogY3Jhc2guYXBwZW5kKChwLHJbJ2VnX2lkJ10pKTsgY29udGludWUKICAgICAgICBmb3IgaCBpbiByWydoaXRzJ106CiAgICAgICAgICAgIHJvd3MuYXBwZW5kKGRpY3QoZmlsZT1vcy5wYXRoLmJhc2VuYW1lKHApLCByZXBvPWZbJ3JlcG8nXSwgcGF0aD1mWydwYXRoJ10sCiAgICAgICAgICAgICAgICBlZz1yWydlZ19pZCddLCBzZXY9clsnc2V2ZXJpdHknXSwgbGluZT1oLmdldCgnbGluZScpLAogICAgICAgICAgICAgICAga2luZD1oLmdldCgna2luZCcpIG9yIF9rIGlmIChfazo9QU5DSE9SX1NQRUMuZ2V0KHJbJ2VnX2lkJ10se30pLmdldCgna2luZCcsJ3ByZXNlbnQnKSkgZWxzZSAncHJlc2VudCcsCiAgICAgICAgICAgICAgICBoaXQ9KGguZ2V0KCdoaXQnKSBvciAnJylbOjExMF0pKQpqc29uLmR1bXAocm93cywgb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9leHAxMzQvZmluZGluZ3MxMzQuanNvbicsJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKaW1wb3J0IGNvbGxlY3Rpb25zCnByaW50KCJ0b3RhbCBmaW5kaW5nczoiLCBsZW4ocm93cykpCnByaW50KCJieSBraW5kOiIsIGNvbGxlY3Rpb25zLkNvdW50ZXIoclsna2luZCddIGZvciByIGluIHJvd3MpKQpwcmludCgiYnkgZWc6IiwgY29sbGVjdGlvbnMuQ291bnRlcihyWydlZyddIGZvciByIGluIHJvd3MpLm1vc3RfY29tbW9uKCkpCnByaW50KCJieSByZXBvOiIsIGNvbGxlY3Rpb25zLkNvdW50ZXIoclsncmVwbyddIGZvciByIGluIHJvd3MpKQpwcmludCgiY3Jhc2hlczoiLCBsZW4oY3Jhc2gpKQo=
+import sys, json, os, glob
+sys.path.insert(0, '/data/workspace/luoshen-o1/overseas')
+from evalguard.cli import scan, PRO_ON
+from evalguard.spec import ANCHOR_SPEC
+PRO_ON[0] = True
+BASE='/data/workspace/luoshen-o1/overseas/evalguard/tests'
+FIX={'planted_eval.py':12,'pro_planted.py':14,'clean_eval.py':0,'pro_clean.py':0}
+res={}
+for f,exp in FIX.items():
+    p=os.path.join(BASE,f)
+    fs=scan(p)
+    n=sum(len(r['hits']) for r in fs if r['eg_id'] not in('EG000',))
+    res[f]={'found':n,'expect':exp}
+print("=== RECALL (fixtures) ===")
+for k,v in res.items(): print(f"{k:20s} found={v['found']:3d} expect~{v['expect']}")
+crash=[]
+for f,exp in FIX.items():
+    for r in scan(os.path.join(BASE,f)):
+        if 'rule error' in str(r.get('hits','')): crash.append((f,r['eg_id']))
+print("crashes:",len(crash),crash[:5])
+
+print("\n=== CORPUS3 (independent, 7 new repos) ===")
+man=json.load(open('/data/workspace/luoshen-o1/experiments/exp129_corpus/exp134/manifest3.json'))
+rows=[]
+for i,f in enumerate(man):
+    paths=glob.glob(f"/data/workspace/luoshen-o1/experiments/exp129_corpus/exp134/corpus3/{i:02d}_*")
+    if not paths: continue
+    p=paths[0]
+    if not p.endswith('.py'): continue
+    for r in scan(p):
+        if r['eg_id']=='EG000': continue
+        if 'rule error' in str(r.get('hits','')): crash.append((p,r['eg_id'])); continue
+        for h in r['hits']:
+            rows.append(dict(file=os.path.basename(p), repo=f['repo'], path=f['path'],
+                eg=r['eg_id'], sev=r['severity'], line=h.get('line'),
+                kind=h.get('kind') or _k if (_k:=ANCHOR_SPEC.get(r['eg_id'],{}).get('kind','present')) else 'present',
+                hit=(h.get('hit') or '')[:110]))
+json.dump(rows, open('/data/workspace/luoshen-o1/experiments/exp129_corpus/exp134/findings134.json','w'), ensure_ascii=False, indent=1)
+import collections
+print("total findings:", len(rows))
+print("by kind:", collections.Counter(r['kind'] for r in rows))
+print("by eg:", collections.Counter(r['eg'] for r in rows).most_common())
+print("by repo:", collections.Counter(r['repo'] for r in rows))
+print("crashes:", len(crash))

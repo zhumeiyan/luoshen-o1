@@ -1,1 +1,41 @@
-ewogImFkdWx0IjogewogICJBIOaXoOiHquWQrOaXoOekvuS8mu+8iOiBi+S4lOaXoOS6uu+8iSI6IHsKICAgImFsaWduIjogMC42MjYxOTIzNDYzNjE2OTQxLAogICAiYWxpZ25fc2QiOiAwLjAsCiAgICJoaXRzIjogMC4wLAogICAic2lnIjogMC4zNDk5OTk5OTk5OTk5OTk5CiAgfSwKICAiQiDmnInoh6rlkKzml6DnpL7kvJrvvIjlkKzlvpfop4HmsqHkurror7TvvIkiOiB7CiAgICJhbGlnbiI6IDAuNTY3NDU2NzU3NDIzNzI0MywKICAgImFsaWduX3NkIjogMC4xOTIzMjY3NDI0Mjg4MjA0LAogICAiaGl0cyI6IDI3MC4yNSwKICAgInNpZyI6IDAuMDQKICB9LAogICJDIOacieiHquWQrCvnpL7kvJrvvIjmraPluLjkurrnsbvvvIkiOiB7CiAgICJhbGlnbiI6IDAuMDc1NjgxOTMzNTgyOTIzMTUsCiAgICJhbGlnbl9zZCI6IDAuMDMyODUxNDI3MDQ3NDY2NDE1LAogICAiaGl0cyI6IDI5NS40MTY2NjY2NjY2NjY3LAogICAic2lnIjogMC4wNAogIH0KIH0sCiAiaW5mYW50IjogewogICJBIOaXoOiHquWQrOaXoOekvuS8miI6IHsKICAgImFsaWduIjogNS41NDY4MTQyNDcxNDE2NTgsCiAgICJhbGlnbl9zZCI6IDAuMCwKICAgImhpdHMiOiAwLjAsCiAgICJzaWciOiAwLjM0OTk5OTk5OTk5OTk5OTkKICB9LAogICJDIOacieiHquWQrCvnpL7kvJoiOiB7CiAgICJhbGlnbiI6IDUuNTQ2ODE0MjQ3MTQxNjU4LAogICAiYWxpZ25fc2QiOiAwLjAsCiAgICJoaXRzIjogMC4wLAogICAic2lnIjogMC4zNDk5OTk5OTk5OTk5OTk5CiAgfQogfSwKICJvayI6IHsKICAi4pGgIEMg5pi+6JGX5LyY5LqOIEHvvIjnpL7kvJrkuK3lr7npvZDvvIzor6/lt67mm7TlsI/vvIkiOiB0cnVlLAogICLikaEgQyDkvJjkuo4gQu+8iOWPquiHquWQrOS4jeWkn++8jOimgeacieekvuS8mu+8iSI6IHRydWUsCiAgIuKRoiBCIOavlCBBIOaUtuaVm++8iOiHquWQrOiuqeWug+S4jeWGjeaYr+e6r+maj+acuu+8iSI6IHRydWUKIH0KfQ==
+{
+ "adult": {
+  "A 无自听无社会（聋且无人）": {
+   "align": 0.6261923463616941,
+   "align_sd": 0.0,
+   "hits": 0.0,
+   "sig": 0.3499999999999999
+  },
+  "B 有自听无社会（听得见没人说）": {
+   "align": 0.5674567574237243,
+   "align_sd": 0.1923267424288204,
+   "hits": 270.25,
+   "sig": 0.04
+  },
+  "C 有自听+社会（正常人类）": {
+   "align": 0.07568193358292315,
+   "align_sd": 0.032851427047466415,
+   "hits": 295.4166666666667,
+   "sig": 0.04
+  }
+ },
+ "infant": {
+  "A 无自听无社会": {
+   "align": 5.546814247141658,
+   "align_sd": 0.0,
+   "hits": 0.0,
+   "sig": 0.3499999999999999
+  },
+  "C 有自听+社会": {
+   "align": 5.546814247141658,
+   "align_sd": 0.0,
+   "hits": 0.0,
+   "sig": 0.3499999999999999
+  }
+ },
+ "ok": {
+  "① C 显著优于 A（社会中对齐，误差更小）": true,
+  "② C 优于 B（只自听不够，要有社会）": true,
+  "③ B 比 A 收敛（自听让它不再是纯随机）": true
+ }
+}

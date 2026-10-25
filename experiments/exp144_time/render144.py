@@ -1,1 +1,89 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiLmuLLmn5MgMTQ0IOe7k+aenCAtPiDlhpkgL2Rldi9mYjAgLT4g5Zue6YeH5q+U5a+5IC0+IE9DUiIiIgppbXBvcnQgb3MsIGpzb24sIGhhc2hsaWIsIHJhbmRvbQpPVVQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKVywgSCA9IDEwMjQsIDc2OAoKCmRlZiBsb2FkX2ZvbnQoc3opOgogICAgZnJvbSBQSUwgaW1wb3J0IEltYWdlRm9udAogICAgZm9yIHAgaW4gKCIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIiwKICAgICAgICAgICAgICAiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LXplbmhlaS50dGMiLAogICAgICAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL29wZW50eXBlL25vdG8vTm90b1NhbnNDSkstUmVndWxhci50dGMiLAogICAgICAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTYW5zLnR0ZiIpOgogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICByZXR1cm4gSW1hZ2VGb250LnRydWV0eXBlKHAsIHN6KQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgcGFzcwogICAgcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQoKCmRlZiBtYWluKCk6CiAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdwogICAgZG9zZSA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHRfMTQ0Lmpzb24iKSkpCiAgICBzaGFwZSA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHRfMTQ0X3NoYXBlLmpzb24iKSkpCiAgICByZWFsID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKE9VVCwgInJlc3VsdF8xNDRfcmVhbC5qc29uIikpKQoKICAgIGltZyA9IEltYWdlLm5ldygiUkdCIiwgKFcsIEgpLCAid2hpdGUiKQogICAgZCA9IEltYWdlRHJhdy5EcmF3KGltZykKICAgIGZ0ID0gbG9hZF9mb250KDMwKTsgZnMgPSBsb2FkX2ZvbnQoMjEpOyBmYiA9IGxvYWRfZm9udCgyMykKICAgIHkgPSAyMgoKICAgIGRlZiBsaW5lKHQsIGY9Tm9uZSwgcGFkPTI2KToKICAgICAgICBub25sb2NhbCB5CiAgICAgICAgZC50ZXh0KCgzOCwgeSksIHQsIGZpbGw9ImJsYWNrIiwgZm9udD1mIG9yIGZzKTsgeSArPSBwYWQKCiAgICBkLnRleHQoKDM4LCB5KSwgIjE0NCBUSU1FOiBPUkRFUiBBU1NFVCBPUiBMSUFCSUxJVFkiLCBmaWxsPSJibGFjayIsIGZvbnQ9ZnQpOyB5ICs9IDQ0CiAgICBsaW5lKCJkX29yZGVyID0gc2h1ZmZsZWQgLSBsaXZlZCAgKD4wID0ga2VlcGluZyB0aW1lIG9yZGVyIGlzIGFuIEFTU0VUKSIsIGZzKTsgeSArPSA0CgogICAgbGluZSgiPT0gRE9TRTogZG9lcyBvcmRlciBlZmZlY3QgZ3JvdyB3aXRoIHdvcmxkIGRyaWZ0PyA9PSIsIGZiKTsgeSArPSAyCiAgICBmb3IgciBpbiBkb3NlWyJkb3NlIl06CiAgICAgICAgbSwgbG8sIGhpID0gclsiZF9vcmRlciJdWyJtZWFuIl0sICpyWyJkX29yZGVyIl1bImNpIl0KICAgICAgICBsaW5lKCJkcmlmdCAlLjFmICBkX29yZGVyICUrLjRmICBbJSsuNGYsJSsuNGZdIiAlIChyWyJkcmlmdF9zY2FsZSJdLCBtLCBsbywgaGkpKQogICAgbGluZSgibW9ub3RvbmUgaW4gZHJpZnQ6ICVzIiAlIGRvc2VbInZlcmRpY3QiXVsibW9ub3RvbmUiXSwgZnMpOyB5ICs9IDUKCiAgICBsaW5lKCI9PSBTSEFQRSBPRiBXT1JMRCBUSU1FLVNUUlVDVFVSRSA9PSIsIGZiKTsgeSArPSAyCiAgICBmb3Igc2ggaW4gWyJzdGF0aW9uYXJ5IiwgIm1vbm90b25lIiwgInNpbmUiLCAic3F1YXJlIl06CiAgICAgICAgciA9IHNoYXBlWyJzaGFwZXMiXVtzaF0KICAgICAgICBtLCBsbywgaGkgPSByWyJkX29yZGVyIl1bIm1lYW4iXSwgKnJbImRfb3JkZXIiXVsiY2kiXQogICAgICAgIGxpbmUoIiUtMTBzIGRfb3JkZXIgJSsuNGYgWyUrLjRmLCUrLjRmXSAgJXMiICUgKHNoLCBtLCBsbywgaGksIHJbInNpZ24iXSkpCiAgICBsaW5lKCJzcXVhcmUgd29ybGQ6IG9yZGVyIGlzIGEgTElBQklMSVRZIiwgZnMpOyB5ICs9IDUKCiAgICBsaW5lKCI9PSBSRUFMIEFSTTogcmVhbCBDUFUgbG9hZCBzcXVhcmUtd2F2ZSBqaXR0ZXIgPT0iLCBmYik7IHkgKz0gMgogICAgbGluZSgicmVhbCBkX29yZGVyICUrLjZmICBbJSsuNmYsJSsuNmZdIiAlICgKICAgICAgICByZWFsWyJhcm1zIl1bImRfb3JkZXIiXVsibWVhbiJdLCAqcmVhbFsiYXJtcyJdWyJkX29yZGVyIl1bImNpIl0pKQogICAgbGluZSgic2ltICBzcXVhcmUgICUrLjRmICAtPiByZXByb2R1Y2VkICVzIiAlICgKICAgICAgICBzaGFwZVsic2hhcGVzIl1bInNxdWFyZSJdWyJkX29yZGVyIl1bIm1lYW4iXSwKICAgICAgICBzaGFwZVsicmVhbF9jcm9zc19jaGVjayJdWyJyZXByb2R1Y2VkIl0pLCBmcyk7IHkgKz0gNQoKICAgIGxpbmUoIj09IFZBTFVFIE9GIEZPUkdFVFRJTkcgZGVwZW5kcyBvbiB3b3JsZCBzaGFwZSA9PSIsIGZiKTsgeSArPSAyCiAgICBmb3IgdyBpbiBbInN0YXRpb25hcnkiLCAiZHJpZnQiLCAiY3ljbGljIl06CiAgICAgICAgciA9IGRvc2VbIndvcmxkcyJdW3ddCiAgICAgICAgbGluZSgiJS0xMHMgbGl2ZWQgJS40ZiBiYXRjaCAlLjRmIHJlY2VudCAlLjRmIiAlICgKICAgICAgICAgICAgdywgclsibGl2ZWQiXVsibWVhbiJdLCByWyJmZWRfYmF0Y2giXVsibWVhbiJdLCByWyJmZWRfcmVjZW50Il1bIm1lYW4iXSkpCiAgICBsaW5lKCJzdGF0aW9uYXJ5OiByZW1lbWJlciBBTEwgd2lucyB8IGN5Y2xpYzogZm9yZ2V0dGluZyBIVVJUUyIsIGZzKTsgeSArPSA0CgogICAgdG9rID0gIiIuam9pbihyYW5kb20uY2hvaWNlKCJBQkNERUZHSEpLTE1OUFFSU1RVVldYWVoyMzQ1Njc4OSIpIGZvciBfIGluIHJhbmdlKDYpKQogICAgZC50ZXh0KCgzOCwgeSksICJUT0tFTiAiICsgdG9rLCBmaWxsPSJibGFjayIsIGZvbnQ9ZnQpCgogICAgaW1nLnNhdmUob3MucGF0aC5qb2luKE9VVCwgInJlbmRlcjE0NC5wbmciKSkKICAgIHJhdyA9IGltZy5jb252ZXJ0KCJSR0JBIikudG9ieXRlcygpCiAgICBzaCA9IGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KClbOjEyXQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbigiL2Rldi9mYjAiLCAid2IiKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKHJhdyk7IGYuZmx1c2goKQogICAgICAgIHdpdGggb3BlbigiL2Rldi9mYjAiLCAicmIiKSBhcyBmOgogICAgICAgICAgICBjYXAgPSBmLnJlYWQobGVuKHJhdykpCiAgICAgICAgb2sgPSAoY2FwID09IHJhdykKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXg6CiAgICAgICAgcHJpbnQoIkZCIEVSUiIsIGV4KTsgb2sgPSBGYWxzZTsgY2FwID0gYiIiCiAgICBwcmludCgiV1JJVEUiLCBsZW4ocmF3KSwgIkNBUFRVUkUiLCBsZW4oY2FwKSwgIklERU5USUNBTCIsIG9rKQogICAgcHJpbnQoIlJFTkRFUl9TSEEiLCBzaCk7IHByaW50KCJUT0tFTiIsIHRvaykKICAgIG9wZW4ob3MucGF0aC5qb2luKE9VVCwgImNhcHR1cmVkLnBuZyIpLCAid2IiKS53cml0ZShjYXApCiAgICBqc29uLmR1bXAoZGljdChzaGE9c2gsIHRva2VuPXRvaywgaWRlbnRpY2FsPWJvb2wob2spKSwKICAgICAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihPVVQsICJzY3JlZW4uanNvbiIpLCAidyIpKQoKCm1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""渲染 144 结果 -> 写 /dev/fb0 -> 回采比对 -> OCR"""
+import os, json, hashlib, random
+OUT = os.path.dirname(os.path.abspath(__file__))
+W, H = 1024, 768
+
+
+def load_font(sz):
+    from PIL import ImageFont
+    for p in ("/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+              "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+              "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+              "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"):
+        if os.path.exists(p):
+            try:
+                return ImageFont.truetype(p, sz)
+            except Exception:
+                pass
+    return ImageFont.load_default()
+
+
+def main():
+    from PIL import Image, ImageDraw
+    dose = json.load(open(os.path.join(OUT, "result_144.json")))
+    shape = json.load(open(os.path.join(OUT, "result_144_shape.json")))
+    real = json.load(open(os.path.join(OUT, "result_144_real.json")))
+
+    img = Image.new("RGB", (W, H), "white")
+    d = ImageDraw.Draw(img)
+    ft = load_font(30); fs = load_font(21); fb = load_font(23)
+    y = 22
+
+    def line(t, f=None, pad=26):
+        nonlocal y
+        d.text((38, y), t, fill="black", font=f or fs); y += pad
+
+    d.text((38, y), "144 TIME: ORDER ASSET OR LIABILITY", fill="black", font=ft); y += 44
+    line("d_order = shuffled - lived  (>0 = keeping time order is an ASSET)", fs); y += 4
+
+    line("== DOSE: does order effect grow with world drift? ==", fb); y += 2
+    for r in dose["dose"]:
+        m, lo, hi = r["d_order"]["mean"], *r["d_order"]["ci"]
+        line("drift %.1f  d_order %+.4f  [%+.4f,%+.4f]" % (r["drift_scale"], m, lo, hi))
+    line("monotone in drift: %s" % dose["verdict"]["monotone"], fs); y += 5
+
+    line("== SHAPE OF WORLD TIME-STRUCTURE ==", fb); y += 2
+    for sh in ["stationary", "monotone", "sine", "square"]:
+        r = shape["shapes"][sh]
+        m, lo, hi = r["d_order"]["mean"], *r["d_order"]["ci"]
+        line("%-10s d_order %+.4f [%+.4f,%+.4f]  %s" % (sh, m, lo, hi, r["sign"]))
+    line("square world: order is a LIABILITY", fs); y += 5
+
+    line("== REAL ARM: real CPU load square-wave jitter ==", fb); y += 2
+    line("real d_order %+.6f  [%+.6f,%+.6f]" % (
+        real["arms"]["d_order"]["mean"], *real["arms"]["d_order"]["ci"]))
+    line("sim  square  %+.4f  -> reproduced %s" % (
+        shape["shapes"]["square"]["d_order"]["mean"],
+        shape["real_cross_check"]["reproduced"]), fs); y += 5
+
+    line("== VALUE OF FORGETTING depends on world shape ==", fb); y += 2
+    for w in ["stationary", "drift", "cyclic"]:
+        r = dose["worlds"][w]
+        line("%-10s lived %.4f batch %.4f recent %.4f" % (
+            w, r["lived"]["mean"], r["fed_batch"]["mean"], r["fed_recent"]["mean"]))
+    line("stationary: remember ALL wins | cyclic: forgetting HURTS", fs); y += 4
+
+    tok = "".join(random.choice("ABCDEFGHJKLMNPQRSTUVWXYZ23456789") for _ in range(6))
+    d.text((38, y), "TOKEN " + tok, fill="black", font=ft)
+
+    img.save(os.path.join(OUT, "render144.png"))
+    raw = img.convert("RGBA").tobytes()
+    sh = hashlib.sha256(raw).hexdigest()[:12]
+    try:
+        with open("/dev/fb0", "wb") as f:
+            f.write(raw); f.flush()
+        with open("/dev/fb0", "rb") as f:
+            cap = f.read(len(raw))
+        ok = (cap == raw)
+    except Exception as ex:
+        print("FB ERR", ex); ok = False; cap = b""
+    print("WRITE", len(raw), "CAPTURE", len(cap), "IDENTICAL", ok)
+    print("RENDER_SHA", sh); print("TOKEN", tok)
+    open(os.path.join(OUT, "captured.png"), "wb").write(cap)
+    json.dump(dict(sha=sh, token=tok, identical=bool(ok)),
+              open(os.path.join(OUT, "screen.json"), "w"))
+
+
+main()

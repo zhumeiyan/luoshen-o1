@@ -1,1 +1,62 @@
-aW1wb3J0IGpzb24sIG1hdGgsIHJhbmRvbQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCnJhdz1qc29uLmxvYWQob3BlbigncmF3MTQ5Lmpzb24nKSkKZGVmIGJvb3QodixuPTIwMDAsc2VlZD03KToKICAgIHI9cmFuZG9tLlJhbmRvbShzZWVkKTsgbT1sZW4odikKICAgIGlmIG09PTA6IHJldHVybiAoMCwwLDApCiAgICBzPXNvcnRlZChzdW0oci5jaG9pY2UodikgZm9yIF8gaW4gcmFuZ2UobSkpL20gZm9yIF8gaW4gcmFuZ2UobikpCiAgICByZXR1cm4gKHN1bSh2KS9tLCBzW2ludCgwLjAyNSpuKV0sIHNbaW50KDAuOTc1Km4pXSkKCnByaW50KCc9PT0g5qC46aqM77yadGVsbCDmqKHlvI/kuIsi6KGM5Li65o6o5patIuS4jiLnm7TmjqXlub/mkq0i5piv5ZCm55yf562J5Lu3ID09PScpCkE9cmF3Wyd0ZWxsJ11bJ0EnXTsgQj1yYXdbJ3RlbGwnXVsnQiddCmluZj1bXTsgdGVsPVtdCmZvciB0IGluIHJhbmdlKGxlbihBWydhY3QnXSkpOgogICAgZD1BWydkZWx0YSddW3RdOyBhPUFbJ2FjdCddW3RdCiAgICB3PUJbJ3dvcmxkJ11bdC0xXSBpZiB0PjAgZWxzZSBbMF0qOAogICAgaGk9bWF4KHJhbmdlKDgpLCBrZXk9bGFtYmRhIGk6d1tpXSkKICAgIG90aGVyPVtzIGZvciBzIGluIHJhbmdlKDgpIGlmIGRbc10+MCBhbmQgcyE9YV0KICAgIGlmIGxlbihvdGhlcikhPTE6IGNvbnRpbnVlCiAgICBpZiBBWydwZWVyX2cnXVt0XSBpcyBOb25lOiBjb250aW51ZQogICAgaW5mLmFwcGVuZCgxIGlmIChvdGhlclswXT09aGkpPT0oQlsnZyddW3RdPD0wLjUpIGVsc2UgMCkKICAgIHRlbC5hcHBlbmQoMSBpZiAoQVsncGVlcl9nJ11bdF08PTAuNSk9PShCWydnJ11bdF08PTAuNSkgZWxzZSAwKQpzYW1lPXN1bSgxIGZvciB4LHkgaW4gemlwKGluZix0ZWwpIGlmIHg9PXkpL2xlbihpbmYpCnByaW50KCcg5Lik6ICF6YCQ5L2N5LiA6Ie0546HPSUuNGYgIG49JWQgICjoi6U9MS4wIOWImeS4pOiHguetieS7tyzliKTmja7ml6DljLrliIbluqYpJyUoc2FtZSxsZW4oaW5mKSkpCnByaW50KCcg5bm/5pKt5YC85rue5ZCO5LiA5ouN5a+86Ie055qE5LiN5LiA6Ie05bqUPjDvvJvkuIDoh7TnjofotormjqXov5Ex6LaK5Y+v55aRJykKCnByaW50KCkKcHJpbnQoJz09PSBTMyDkvKDpgJLnhrXvvJrmlrnlkJHmgKfkuI4gc2h1ZmZsZSDlr7nnhacgPT09JykKZGVmIEgoeHMpOgogICAgYz1Db3VudGVyKHhzKTsgbj1sZW4oeHMpCiAgICByZXR1cm4gLXN1bSgodi9uKSptYXRoLmxvZzIodi9uKSBmb3IgdiBpbiBjLnZhbHVlcygpIGlmIHYpCmRlZiB0ZShzcmMsZHN0KToKICAgICMgVEUoc3JjLT5kc3QpID0gSChkc3Rfe3QrMX18ZHN0X3QpIC0gSChkc3Rfe3QrMX18ZHN0X3Qsc3JjX3QpCiAgICBuPW1pbihsZW4oc3JjKSxsZW4oZHN0KSktMQogICAgYT1bKGRzdFt0XSxkc3RbdCsxXSkgZm9yIHQgaW4gcmFuZ2UobildCiAgICBiPVsoZHN0W3RdLHNyY1t0XSxkc3RbdCsxXSkgZm9yIHQgaW4gcmFuZ2UobildCiAgICByZXR1cm4gSChiKS1IKGEpKjAgLSBIKGEpICsgSChbeFswOjJdIGZvciB4IGluIGJdKSAtIDAgICMgcGxhY2Vob2xkZXIKZGVmIHRlX29rKHNyYyxkc3QpOgogICAgbj1taW4obGVuKHNyYyksbGVuKGRzdCkpLTEKICAgIGpvaW50Mj1Db3VudGVyKChkc3RbdF0sZHN0W3QrMV0pIGZvciB0IGluIHJhbmdlKG4pKQogICAgam9pbnQzPUNvdW50ZXIoKGRzdFt0XSxzcmNbdF0sZHN0W3QrMV0pIGZvciB0IGluIHJhbmdlKG4pKQogICAgajI9Q291bnRlcigoZHN0W3RdLCkgZm9yIHQgaW4gcmFuZ2UobikpCiAgICBqMnM9Q291bnRlcigoZHN0W3RdLHNyY1t0XSkgZm9yIHQgaW4gcmFuZ2UobikpCiAgICBOPW4KICAgIGRlZiBlbnQoYyk6IAogICAgICAgIHJldHVybiAtc3VtKCh2L04pKm1hdGgubG9nMih2L04pIGZvciB2IGluIGMudmFsdWVzKCkpCiAgICAjIEgoZCd8ZCkgPSBIKGQsZCcpIC0gSChkKQogICAgaDE9ZW50KGpvaW50MiktZW50KGoyKQogICAgaDI9ZW50KGpvaW50MyktZW50KGoycykKICAgIHJldHVybiBoMS1oMgpmb3IgbW9kZSBpbiBbJ2Jhc2UnLCd0ZWxsJywncmFuZG9tQiddOgogICAgQT1yYXdbbW9kZV1bJ0EnXTsgQj1yYXdbbW9kZV1bJ0InXQogICAgIyBiaW5hcnkg5bqP5YiXOiDor6UgdGljayDmmK/lkKbliqjkuoYi5b2T5pe25pyA6auY5qe9Iijnq57kuonmgKfliqjkvZwpCiAgICBzZXFBPVtdOyBzZXFCPVtdCiAgICBmb3IgdCBpbiByYW5nZShsZW4oQVsnYWN0J10pKToKICAgICAgICB3PUFbJ3dvcmxkJ11bdC0xXSBpZiB0PjAgZWxzZSBbMF0qOAogICAgICAgIGhpPW1heChyYW5nZSg4KSxrZXk9bGFtYmRhIGk6d1tpXSkKICAgICAgICBzZXFBLmFwcGVuZCgxIGlmIEFbJ2FjdCddW3RdPT1oaSBlbHNlIDApCiAgICAgICAgc2VxQi5hcHBlbmQoMSBpZiBCWydhY3QnXVt0XT09aGkgZWxzZSAwKQogICAgZj10ZV9vayhzZXFCLHNlcUEpOyByPXRlX29rKHNlcUEsc2VxQikKICAgIHJuZD1yYW5kb20uUmFuZG9tKDMpOyBzaD1zZXFCWzpdOyBybmQuc2h1ZmZsZShzaCkKICAgIGZzaD10ZV9vayhzaCxzZXFBKQogICAgcHJpbnQoJyAlLThzIFRFKEItPkEpPSUrLjRmICBURShBLT5CKT0lKy40ZiAg5pa55ZCR5beuPSUrLjRmIHwgc2h1ZmZsZeWvueeFpyBURT0lKy40ZiclKG1vZGUsZixyLGYtcixmc2gpKQo=
+import json, math, random
+from collections import Counter
+raw=json.load(open('raw149.json'))
+def boot(v,n=2000,seed=7):
+    r=random.Random(seed); m=len(v)
+    if m==0: return (0,0,0)
+    s=sorted(sum(r.choice(v) for _ in range(m))/m for _ in range(n))
+    return (sum(v)/m, s[int(0.025*n)], s[int(0.975*n)])
+
+print('=== 核验：tell 模式下"行为推断"与"直接广播"是否真等价 ===')
+A=raw['tell']['A']; B=raw['tell']['B']
+inf=[]; tel=[]
+for t in range(len(A['act'])):
+    d=A['delta'][t]; a=A['act'][t]
+    w=B['world'][t-1] if t>0 else [0]*8
+    hi=max(range(8), key=lambda i:w[i])
+    other=[s for s in range(8) if d[s]>0 and s!=a]
+    if len(other)!=1: continue
+    if A['peer_g'][t] is None: continue
+    inf.append(1 if (other[0]==hi)==(B['g'][t]<=0.5) else 0)
+    tel.append(1 if (A['peer_g'][t]<=0.5)==(B['g'][t]<=0.5) else 0)
+same=sum(1 for x,y in zip(inf,tel) if x==y)/len(inf)
+print(' 两者逐位一致率=%.4f  n=%d  (若=1.0 则两臂等价,判据无区分度)'%(same,len(inf)))
+print(' 广播值滞后一拍导致的不一致应>0；一致率越接近1越可疑')
+
+print()
+print('=== S3 传递熵：方向性与 shuffle 对照 ===')
+def H(xs):
+    c=Counter(xs); n=len(xs)
+    return -sum((v/n)*math.log2(v/n) for v in c.values() if v)
+def te(src,dst):
+    # TE(src->dst) = H(dst_{t+1}|dst_t) - H(dst_{t+1}|dst_t,src_t)
+    n=min(len(src),len(dst))-1
+    a=[(dst[t],dst[t+1]) for t in range(n)]
+    b=[(dst[t],src[t],dst[t+1]) for t in range(n)]
+    return H(b)-H(a)*0 - H(a) + H([x[0:2] for x in b]) - 0  # placeholder
+def te_ok(src,dst):
+    n=min(len(src),len(dst))-1
+    joint2=Counter((dst[t],dst[t+1]) for t in range(n))
+    joint3=Counter((dst[t],src[t],dst[t+1]) for t in range(n))
+    j2=Counter((dst[t],) for t in range(n))
+    j2s=Counter((dst[t],src[t]) for t in range(n))
+    N=n
+    def ent(c): 
+        return -sum((v/N)*math.log2(v/N) for v in c.values())
+    # H(d'|d) = H(d,d') - H(d)
+    h1=ent(joint2)-ent(j2)
+    h2=ent(joint3)-ent(j2s)
+    return h1-h2
+for mode in ['base','tell','randomB']:
+    A=raw[mode]['A']; B=raw[mode]['B']
+    # binary 序列: 该 tick 是否动了"当时最高槽"(竞争性动作)
+    seqA=[]; seqB=[]
+    for t in range(len(A['act'])):
+        w=A['world'][t-1] if t>0 else [0]*8
+        hi=max(range(8),key=lambda i:w[i])
+        seqA.append(1 if A['act'][t]==hi else 0)
+        seqB.append(1 if B['act'][t]==hi else 0)
+    f=te_ok(seqB,seqA); r=te_ok(seqA,seqB)
+    rnd=random.Random(3); sh=seqB[:]; rnd.shuffle(sh)
+    fsh=te_ok(sh,seqA)
+    print(' %-8s TE(B->A)=%+.4f  TE(A->B)=%+.4f  方向差=%+.4f | shuffle对照 TE=%+.4f'%(mode,f,r,f-r,fsh))

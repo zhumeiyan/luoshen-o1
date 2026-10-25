@@ -1,1 +1,181 @@
-ZnJvbSB0ZXh0d3JhcCBpbXBvcnQgZGVkZW50CmZyb20gaHR0cGllLmNsaS5hcmdwYXJzZXIgaW1wb3J0IEhUVFBpZU1hbmFnZXJBcmd1bWVudFBhcnNlcgpmcm9tIGh0dHBpZS5jbGkub3B0aW9ucyBpbXBvcnQgUXVhbGlmaWVycywgQVJHUEFSU0VfUVVBTElGSUVSX01BUCwgbWFwX3F1YWxpZmllcnMsIHBhcnNlcl90b19wYXJzZXJfc3BlYwpmcm9tIGh0dHBpZSBpbXBvcnQgX192ZXJzaW9uX18KCkNMSV9TRVNTSU9OX1VQR1JBREVfRkxBR1MgPSBbCiAgICB7CiAgICAgICAgJ2ZsYWdzJzogWyctLWJpbmQtY29va2llcyddLAogICAgICAgICdhY3Rpb24nOiAnc3RvcmVfdHJ1ZScsCiAgICAgICAgJ2RlZmF1bHQnOiBGYWxzZSwKICAgICAgICAnaGVscCc6ICdCaW5kIGRvbWFpbmxlc3MgY29va2llcyB0byB0aGUgaG9zdCB0aGF0IHNlc3Npb24gYmVsb25ncy4nCiAgICB9Cl0KCkNPTU1BTkRTID0gewogICAgJ2NsaSc6IHsKICAgICAgICAnaGVscCc6ICdNYW5hZ2UgSFRUUGllIGZvciBUZXJtaW5hbCcsCiAgICAgICAgJ2V4cG9ydC1hcmdzJzogWwogICAgICAgICAgICAnRXhwb3J0IGF2YWlsYWJsZSBvcHRpb25zIGZvciB0aGUgQ0xJJywKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ2ZsYWdzJzogWyctZicsICctLWZvcm1hdCddLAogICAgICAgICAgICAgICAgJ2Nob2ljZXMnOiBbJ2pzb24nXSwKICAgICAgICAgICAgICAgICdoZWxwJzogJ0Zvcm1hdCB0byBleHBvcnQgaW4uJywKICAgICAgICAgICAgICAgICdkZWZhdWx0JzogJ2pzb24nCiAgICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgICdjaGVjay11cGRhdGVzJzogWwogICAgICAgICAgICAnQ2hlY2sgZm9yIHVwZGF0ZXMnCiAgICAgICAgXSwKICAgICAgICAnc2Vzc2lvbnMnOiB7CiAgICAgICAgICAgICdoZWxwJzogJ01hbmFnZSBIVFRQaWUgc2Vzc2lvbnMnLAogICAgICAgICAgICAndXBncmFkZSc6IFsKICAgICAgICAgICAgICAgICdVcGdyYWRlIHRoZSBnaXZlbiBIVFRQaWUgc2Vzc2lvbiB3aXRoIHRoZSBsYXRlc3QgJwogICAgICAgICAgICAgICAgJ2xheW91dC4gQSBsaXN0IG9mIGNoYW5nZXMgYmV0d2VlbiBkaWZmZXJlbnQgc2Vzc2lvbiB2ZXJzaW9ucyAnCiAgICAgICAgICAgICAgICAnY2FuIGJlIGZvdW5kIGluIHRoZSBvZmZpY2lhbCBkb2N1bWVudGF0aW9uLicsCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJ2Rlc3QnOiAnaG9zdG5hbWUnLAogICAgICAgICAgICAgICAgICAgICdtZXRhdmFyJzogJ0hPU1ROQU1FJywKICAgICAgICAgICAgICAgICAgICAnaGVscCc6ICdUaGUgaG9zdCB0aGlzIHNlc3Npb24gYmVsb25ncy4nCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICdkZXN0JzogJ3Nlc3Npb24nLAogICAgICAgICAgICAgICAgICAgICdtZXRhdmFyJzogJ1NFU1NJT05fTkFNRV9PUl9QQVRIJywKICAgICAgICAgICAgICAgICAgICAnaGVscCc6ICdUaGUgbmFtZSBvciB0aGUgcGF0aCBmb3IgdGhlIHNlc3Npb24gdGhhdCB3aWxsIGJlIHVwZ3JhZGVkLicKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAqQ0xJX1NFU1NJT05fVVBHUkFERV9GTEFHUwogICAgICAgICAgICBdLAogICAgICAgICAgICAndXBncmFkZS1hbGwnOiBbCiAgICAgICAgICAgICAgICAnVXBncmFkZSBhbGwgbmFtZWQgc2Vzc2lvbnMgd2l0aCB0aGUgbGF0ZXN0IGxheW91dC4gQSBsaXN0IG9mICcKICAgICAgICAgICAgICAgICdjaGFuZ2VzIGJldHdlZW4gZGlmZmVyZW50IHNlc3Npb24gdmVyc2lvbnMgY2FuIGJlIGZvdW5kIGluIHRoZSBvZmZpY2lhbCAnCiAgICAgICAgICAgICAgICAnZG9jdW1lbnRhdGlvbi4nLAogICAgICAgICAgICAgICAgKkNMSV9TRVNTSU9OX1VQR1JBREVfRkxBR1MKICAgICAgICAgICAgXSwKICAgICAgICB9CiAgICB9Cn0KCgpDT01NQU5EU1sncGx1Z2lucyddID0gQ09NTUFORFNbJ2NsaSddWydwbHVnaW5zJ10gPSB7CiAgICAnaGVscCc6ICdNYW5hZ2UgSFRUUGllIHBsdWdpbnMuJywKICAgICdpbnN0YWxsJzogWwogICAgICAgICdJbnN0YWxsIHRoZSBnaXZlbiB0YXJnZXRzIGZyb20gUHlQSSAnCiAgICAgICAgJ29yIGZyb20gYSBsb2NhbCBwYXRocy4nLAogICAgICAgIHsKICAgICAgICAgICAgJ2Rlc3QnOiAndGFyZ2V0cycsCiAgICAgICAgICAgICdtZXRhdmFyJzogJ1RBUkdFVCcsCiAgICAgICAgICAgICduYXJncyc6IFF1YWxpZmllcnMuT05FX09SX01PUkUsCiAgICAgICAgICAgICdoZWxwJzogJ3RhcmdldHMgdG8gaW5zdGFsbCcKICAgICAgICB9CiAgICBdLAogICAgJ3VwZ3JhZGUnOiBbCiAgICAgICAgJ1VwZ3JhZGUgdGhlIGdpdmVuIHBsdWdpbnMnLAogICAgICAgIHsKICAgICAgICAgICAgJ2Rlc3QnOiAndGFyZ2V0cycsCiAgICAgICAgICAgICdtZXRhdmFyJzogJ1RBUkdFVCcsCiAgICAgICAgICAgICduYXJncyc6IFF1YWxpZmllcnMuT05FX09SX01PUkUsCiAgICAgICAgICAgICdoZWxwJzogJ3RhcmdldHMgdG8gdXBncmFkZScKICAgICAgICB9CiAgICBdLAogICAgJ3VuaW5zdGFsbCc6IFsKICAgICAgICAnVW5pbnN0YWxsIHRoZSBnaXZlbiBIVFRQaWUgcGx1Z2lucy4nLAogICAgICAgIHsKICAgICAgICAgICAgJ2Rlc3QnOiAndGFyZ2V0cycsCiAgICAgICAgICAgICdtZXRhdmFyJzogJ1RBUkdFVCcsCiAgICAgICAgICAgICduYXJncyc6IFF1YWxpZmllcnMuT05FX09SX01PUkUsCiAgICAgICAgICAgICdoZWxwJzogJ3RhcmdldHMgdG8gaW5zdGFsbCcKICAgICAgICB9CiAgICBdLAogICAgJ2xpc3QnOiBbCiAgICAgICAgJ0xpc3QgYWxsIGluc3RhbGxlZCBIVFRQaWUgcGx1Z2lucy4nCiAgICBdLAp9CgoKZGVmIG1pc3Npbmdfc3ViY29tbWFuZCgqYXJncykgLT4gc3RyOgogICAgYmFzZSA9IENPTU1BTkRTCiAgICBmb3IgYXJnIGluIGFyZ3M6CiAgICAgICAgYmFzZSA9IGJhc2VbYXJnXQoKICAgIGFzc2VydCBpc2luc3RhbmNlKGJhc2UsIGRpY3QpCiAgICBzdWJjb21tYW5kcyA9ICcsICcuam9pbihtYXAocmVwciwgYmFzZS5rZXlzKCkpKQogICAgcmV0dXJuIGYnUGxlYXNlIHNwZWNpZnkgb25lIG9mIHRoZXNlOiB7c3ViY29tbWFuZHN9JwoKCmRlZiBnZW5lcmF0ZV9zdWJwYXJzZXJzKHJvb3QsIHBhcmVudF9wYXJzZXIsIGRlZmluaXRpb25zLCBzcGVjKToKICAgIGFjdGlvbl9kZXN0ID0gJ18nLmpvaW4ocGFyZW50X3BhcnNlci5wcm9nLnNwbGl0KClbMTpdICsgWydhY3Rpb24nXSkKICAgIGFjdGlvbnMgPSBwYXJlbnRfcGFyc2VyLmFkZF9zdWJwYXJzZXJzKAogICAgICAgIGRlc3Q9YWN0aW9uX2Rlc3QKICAgICkKICAgIGZvciBjb21tYW5kLCBwcm9wZXJ0aWVzIGluIGRlZmluaXRpb25zLml0ZW1zKCk6CiAgICAgICAgaXNfc3VicGFyc2VyID0gaXNpbnN0YW5jZShwcm9wZXJ0aWVzLCBkaWN0KQogICAgICAgIHByb3BlcnRpZXMgPSBwcm9wZXJ0aWVzLmNvcHkoKQoKICAgICAgICBkZXNjciA9IHByb3BlcnRpZXMucG9wKCdoZWxwJywgTm9uZSkgaWYgaXNfc3VicGFyc2VyIGVsc2UgcHJvcGVydGllcy5wb3AoMCkKICAgICAgICBjb21tYW5kX3BhcnNlciA9IGFjdGlvbnMuYWRkX3BhcnNlcihjb21tYW5kLCBkZXNjcmlwdGlvbj1kZXNjcikKICAgICAgICBjb21tYW5kX3BhcnNlci5yb290ID0gcm9vdAogICAgICAgIGlmIGlzX3N1YnBhcnNlcjoKICAgICAgICAgICAgZ2VuZXJhdGVfc3VicGFyc2Vycyhyb290LCBjb21tYW5kX3BhcnNlciwgcHJvcGVydGllcywgc3BlYykKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgZ3JvdXAgPSBzcGVjLmFkZF9ncm91cChwYXJlbnRfcGFyc2VyLnByb2cgKyAnICcgKyBjb21tYW5kLCBkZXNjcmlwdGlvbj1kZXNjcikKICAgICAgICBmb3IgYXJndW1lbnQgaW4gcHJvcGVydGllczoKICAgICAgICAgICAgYXJndW1lbnQgPSBhcmd1bWVudC5jb3B5KCkKICAgICAgICAgICAgZmxhZ3MgPSBhcmd1bWVudC5wb3AoJ2ZsYWdzJywgW10pCiAgICAgICAgICAgIGNvbW1hbmRfcGFyc2VyLmFkZF9hcmd1bWVudCgqZmxhZ3MsICoqbWFwX3F1YWxpZmllcnMoYXJndW1lbnQsIEFSR1BBUlNFX1FVQUxJRklFUl9NQVApKQogICAgICAgICAgICBncm91cC5hZGRfYXJndW1lbnQoKmZsYWdzLCAqKmFyZ3VtZW50KQoKCnBhcnNlciA9IEhUVFBpZU1hbmFnZXJBcmd1bWVudFBhcnNlcigKICAgIHByb2c9J2h0dHBpZScsCiAgICBkZXNjcmlwdGlvbj1kZWRlbnQoCiAgICAgICAgJycnCiAgICAgICAgTWFuYWdpbmcgaW50ZXJmYWNlIGZvciB0aGUgSFRUUGllIGl0c2VsZi4gPGh0dHBzOi8vaHR0cGllLmlvL2RvY3MjbWFuYWdlcj4KCiAgICAgICAgQmUgYXdhcmUgdGhhdCB5b3UgbWlnaHQgYmUgbG9va2luZyBmb3IgaHR0cC9odHRwcyBjb21tYW5kcyBmb3Igc2VuZGluZwogICAgICAgIEhUVFAgcmVxdWVzdHMuIFRoaXMgY29tbWFuZCBpcyBvbmx5IGF2YWlsYWJsZSBmb3IgbWFuYWdpbmcgdGhlIEhUVFRQaWUKICAgICAgICBwbHVnaW5zIGFuZCB0aGUgY29uZmlndXJhdGlvbiBhcm91bmQgaXQuCiAgICAgICAgJycnCiAgICApLAopCgpwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgJy0tZGVidWcnLAogICAgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgIGRlZmF1bHQ9RmFsc2UsCiAgICBoZWxwPScnJwogICAgUHJpbnRzIHRoZSBleGNlcHRpb24gdHJhY2ViYWNrIHNob3VsZCBvbmUgb2NjdXIsIGFzIHdlbGwgYXMgb3RoZXIKICAgIGluZm9ybWF0aW9uIHVzZWZ1bCBmb3IgZGVidWdnaW5nIEhUVFBpZSBpdHNlbGYgYW5kIGZvciByZXBvcnRpbmcgYnVncy4KCiAgICAnJycKKQoKcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICctLXRyYWNlYmFjaycsCiAgICBhY3Rpb249J3N0b3JlX3RydWUnLAogICAgZGVmYXVsdD1GYWxzZSwKICAgIGhlbHA9JycnCiAgICBQcmludHMgdGhlIGV4Y2VwdGlvbiB0cmFjZWJhY2sgc2hvdWxkIG9uZSBvY2N1ci4KCiAgICAnJycKKQoKcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICctLXZlcnNpb24nLAogICAgYWN0aW9uPSd2ZXJzaW9uJywKICAgIHZlcnNpb249X192ZXJzaW9uX18sCiAgICBoZWxwPScnJwogICAgU2hvdyB2ZXJzaW9uIGFuZCBleGl0LgoKICAgICcnJwopCgptYW5fcGFnZV9oaW50ID0gJycnCklmIHlvdSBhcmUgbG9va2luZyBmb3IgdGhlIG1hbiBwYWdlcyBvZiBodHRwL2h0dHBzIGNvbW1hbmRzLCB0cnkgb25lIG9mIHRoZSBmb2xsb3dpbmc6CiAgICAkIG1hbiBodHRwCiAgICAkIG1hbiBodHRwcwoKJycnCgpvcHRpb25zID0gcGFyc2VyX3RvX3BhcnNlcl9zcGVjKHBhcnNlciwgbWFuX3BhZ2VfaGludD1tYW5fcGFnZV9oaW50LCBzb3VyY2VfZmlsZT1fX2ZpbGVfXykKZ2VuZXJhdGVfc3VicGFyc2VycyhwYXJzZXIsIHBhcnNlciwgQ09NTUFORFMsIG9wdGlvbnMpCg==
+from textwrap import dedent
+from httpie.cli.argparser import HTTPieManagerArgumentParser
+from httpie.cli.options import Qualifiers, ARGPARSE_QUALIFIER_MAP, map_qualifiers, parser_to_parser_spec
+from httpie import __version__
+
+CLI_SESSION_UPGRADE_FLAGS = [
+    {
+        'flags': ['--bind-cookies'],
+        'action': 'store_true',
+        'default': False,
+        'help': 'Bind domainless cookies to the host that session belongs.'
+    }
+]
+
+COMMANDS = {
+    'cli': {
+        'help': 'Manage HTTPie for Terminal',
+        'export-args': [
+            'Export available options for the CLI',
+            {
+                'flags': ['-f', '--format'],
+                'choices': ['json'],
+                'help': 'Format to export in.',
+                'default': 'json'
+            }
+        ],
+        'check-updates': [
+            'Check for updates'
+        ],
+        'sessions': {
+            'help': 'Manage HTTPie sessions',
+            'upgrade': [
+                'Upgrade the given HTTPie session with the latest '
+                'layout. A list of changes between different session versions '
+                'can be found in the official documentation.',
+                {
+                    'dest': 'hostname',
+                    'metavar': 'HOSTNAME',
+                    'help': 'The host this session belongs.'
+                },
+                {
+                    'dest': 'session',
+                    'metavar': 'SESSION_NAME_OR_PATH',
+                    'help': 'The name or the path for the session that will be upgraded.'
+                },
+                *CLI_SESSION_UPGRADE_FLAGS
+            ],
+            'upgrade-all': [
+                'Upgrade all named sessions with the latest layout. A list of '
+                'changes between different session versions can be found in the official '
+                'documentation.',
+                *CLI_SESSION_UPGRADE_FLAGS
+            ],
+        }
+    }
+}
+
+
+COMMANDS['plugins'] = COMMANDS['cli']['plugins'] = {
+    'help': 'Manage HTTPie plugins.',
+    'install': [
+        'Install the given targets from PyPI '
+        'or from a local paths.',
+        {
+            'dest': 'targets',
+            'metavar': 'TARGET',
+            'nargs': Qualifiers.ONE_OR_MORE,
+            'help': 'targets to install'
+        }
+    ],
+    'upgrade': [
+        'Upgrade the given plugins',
+        {
+            'dest': 'targets',
+            'metavar': 'TARGET',
+            'nargs': Qualifiers.ONE_OR_MORE,
+            'help': 'targets to upgrade'
+        }
+    ],
+    'uninstall': [
+        'Uninstall the given HTTPie plugins.',
+        {
+            'dest': 'targets',
+            'metavar': 'TARGET',
+            'nargs': Qualifiers.ONE_OR_MORE,
+            'help': 'targets to install'
+        }
+    ],
+    'list': [
+        'List all installed HTTPie plugins.'
+    ],
+}
+
+
+def missing_subcommand(*args) -> str:
+    base = COMMANDS
+    for arg in args:
+        base = base[arg]
+
+    assert isinstance(base, dict)
+    subcommands = ', '.join(map(repr, base.keys()))
+    return f'Please specify one of these: {subcommands}'
+
+
+def generate_subparsers(root, parent_parser, definitions, spec):
+    action_dest = '_'.join(parent_parser.prog.split()[1:] + ['action'])
+    actions = parent_parser.add_subparsers(
+        dest=action_dest
+    )
+    for command, properties in definitions.items():
+        is_subparser = isinstance(properties, dict)
+        properties = properties.copy()
+
+        descr = properties.pop('help', None) if is_subparser else properties.pop(0)
+        command_parser = actions.add_parser(command, description=descr)
+        command_parser.root = root
+        if is_subparser:
+            generate_subparsers(root, command_parser, properties, spec)
+            continue
+
+        group = spec.add_group(parent_parser.prog + ' ' + command, description=descr)
+        for argument in properties:
+            argument = argument.copy()
+            flags = argument.pop('flags', [])
+            command_parser.add_argument(*flags, **map_qualifiers(argument, ARGPARSE_QUALIFIER_MAP))
+            group.add_argument(*flags, **argument)
+
+
+parser = HTTPieManagerArgumentParser(
+    prog='httpie',
+    description=dedent(
+        '''
+        Managing interface for the HTTPie itself. <https://httpie.io/docs#manager>
+
+        Be aware that you might be looking for http/https commands for sending
+        HTTP requests. This command is only available for managing the HTTTPie
+        plugins and the configuration around it.
+        '''
+    ),
+)
+
+parser.add_argument(
+    '--debug',
+    action='store_true',
+    default=False,
+    help='''
+    Prints the exception traceback should one occur, as well as other
+    information useful for debugging HTTPie itself and for reporting bugs.
+
+    '''
+)
+
+parser.add_argument(
+    '--traceback',
+    action='store_true',
+    default=False,
+    help='''
+    Prints the exception traceback should one occur.
+
+    '''
+)
+
+parser.add_argument(
+    '--version',
+    action='version',
+    version=__version__,
+    help='''
+    Show version and exit.
+
+    '''
+)
+
+man_page_hint = '''
+If you are looking for the man pages of http/https commands, try one of the following:
+    $ man http
+    $ man https
+
+'''
+
+options = parser_to_parser_spec(parser, man_page_hint=man_page_hint, source_file=__file__)
+generate_subparsers(parser, parser, COMMANDS, options)

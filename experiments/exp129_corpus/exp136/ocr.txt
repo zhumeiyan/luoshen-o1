@@ -1,1 +1,28 @@
-ZXhwMTM2IGlzIHRoZSB0b29sIG11dGUsIG9yIGlzIHRoZSBjb2RlIGNsZWFuPwpUT0tFTiBRM043V1YgKDcgbWF0dXJlIHJlcG9zIHZzIDggbG93LXN0YXIgcmVwb3MpCgpIMSBub24tZXZhbCBmaXJlcyA+PTAuMDUgcGVyIEtCIFJFSkVDVEVEIHdhcyAwLjA1LCBnb3QgMC4wMDkzCkgyIHN0cmljdCBwcmVjaXNpb24gPj0wLjYwIChDMSkgRkFJTCAyIG9mIDMgcG9pbnQsIGxvd2VyIGJvdW5kIDAuMjEKCkgzIHJlY2FsbCBvbiBtaW5lZmllbGQgUEFTUyAzIG9mIDMsIDIwZiAyLDEgb2YgMSwgY2xlYW4gMApjb3JwdXM1IG1hdHVyZSAxNCBmaWxlcyAxMDhLQiB0IGhpdCAwLjAwOTMgcGVyIEtCLCAxMyBvZiAxNCBzaWxlbnQKY29ycHVzNiBsb3dzdGFyIDE1IGZpbGVzIDEyMktCIDIgaGl0cyAwLjAxNjQgcGVyIEtCLCAxMyBvZiAxNSBzaWxlbnQKCmV2YWwgYmFzZWxpbmUgKGV4cDEzNSkgLSAwLjAyNDAgcGVyIEtCCgpsb29zZSB1bi1wcnVuZWQsIGNvcnB1czUgMTAgaGl0cyAwLjA5MjYgcGVyIEtCCgpsb29zZSB1bi1wcnVuZWQsIGNvcnB1czYgMjkgaGl0cyAwLjIzNzYgcGVyIEtCCgpsb29zZSBqdWRnZWQgb24gY29ycHVzNiAxIG9mIDI5IDMuNCBwZXJjZW50IHByZWNpc2lvbgoKdmVyZGljdCBzaWxlbmNlIGlzIG5vdCBkb21haW4sIG5vdCBwcnVuaW5nCgp0aHJlZSBlcnJvcnMgdGhpcyByb3VuZAotIGF1ZGl0IGxlZGdlciBjb3VudGVkIGFzIGZpbmRpbmdzICg1IHBoYW50b20gaGl0cykKLSBwYXRobGliIHNsYXNoIGNvdW50ZWQgYXMgZGl2aXNpb24sIDUzIHRvIDUKLSBoYW5kbGVyIHRoYXQgbG9ncyBjb3VudGVkIGFzIHNpbGVudCwgMjAgdG8gMTEKLSBodHRwaWUgcmVwbyByZW5hbWVkLCAzMDEgb24gb2xkIG5hbWUKCkRPIE5PVCBTSElQIHByZWNpc2lvbiAyIG9mIDMgbiB0b28gc21hbGwsIGNvdmVyYWdlIDAuMDEgcGVyIEtCCgw=
+exp136 is the tool mute, or is the code clean?
+TOKEN Q3N7WV (7 mature repos vs 8 low-star repos)
+
+H1 non-eval fires >=0.05 per KB REJECTED was 0.05, got 0.0093
+H2 strict precision >=0.60 (C1) FAIL 2 of 3 point, lower bound 0.21
+
+H3 recall on minefield PASS 3 of 3, 20f 2,1 of 1, clean 0
+corpus5 mature 14 files 108KB t hit 0.0093 per KB, 13 of 14 silent
+corpus6 lowstar 15 files 122KB 2 hits 0.0164 per KB, 13 of 15 silent
+
+eval baseline (exp135) - 0.0240 per KB
+
+loose un-pruned, corpus5 10 hits 0.0926 per KB
+
+loose un-pruned, corpus6 29 hits 0.2376 per KB
+
+loose judged on corpus6 1 of 29 3.4 percent precision
+
+verdict silence is not domain, not pruning
+
+three errors this round
+- audit ledger counted as findings (5 phantom hits)
+- pathlib slash counted as division, 53 to 5
+- handler that logs counted as silent, 20 to 11
+- httpie repo renamed, 301 on old name
+
+DO NOT SHIP precision 2 of 3 n too small, coverage 0.01 per KB
+

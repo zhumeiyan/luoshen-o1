@@ -1,1 +1,30 @@
-ZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcsIEFueQoKZnJvbSBsYW5nY2hhaW5fY2xhc3NpYy5fYXBpIGltcG9ydCBjcmVhdGVfaW1wb3J0ZXIKCmlmIFRZUEVfQ0hFQ0tJTkc6CiAgICBmcm9tIGxhbmdjaGFpbl9jb21tdW5pdHkudG9vbHMubXVsdGlvbi5jbG9zZV9zZXNzaW9uIGltcG9ydCAoCiAgICAgICAgQ2xvc2VTZXNzaW9uU2NoZW1hLAogICAgICAgIE11bHRpb25DbG9zZVNlc3Npb24sCiAgICApCgojIENyZWF0ZSBhIHdheSB0byBkeW5hbWljYWxseSBsb29rIHVwIGRlcHJlY2F0ZWQgaW1wb3J0cy4KIyBVc2VkIHRvIGNvbnNvbGlkYXRlIGxvZ2ljIGZvciByYWlzaW5nIGRlcHJlY2F0aW9uIHdhcm5pbmdzIGFuZAojIGhhbmRsaW5nIG9wdGlvbmFsIGltcG9ydHMuCkRFUFJFQ0FURURfTE9PS1VQID0gewogICAgIkNsb3NlU2Vzc2lvblNjaGVtYSI6ICJsYW5nY2hhaW5fY29tbXVuaXR5LnRvb2xzLm11bHRpb24uY2xvc2Vfc2Vzc2lvbiIsCiAgICAiTXVsdGlvbkNsb3NlU2Vzc2lvbiI6ICJsYW5nY2hhaW5fY29tbXVuaXR5LnRvb2xzLm11bHRpb24uY2xvc2Vfc2Vzc2lvbiIsCn0KCl9pbXBvcnRfYXR0cmlidXRlID0gY3JlYXRlX2ltcG9ydGVyKF9fcGFja2FnZV9fLCBkZXByZWNhdGVkX2xvb2t1cHM9REVQUkVDQVRFRF9MT09LVVApCgoKZGVmIF9fZ2V0YXR0cl9fKG5hbWU6IHN0cikgLT4gQW55OgogICAgIiIiTG9vayB1cCBhdHRyaWJ1dGVzIGR5bmFtaWNhbGx5LiIiIgogICAgcmV0dXJuIF9pbXBvcnRfYXR0cmlidXRlKG5hbWUpCgoKX19hbGxfXyA9IFsKICAgICJDbG9zZVNlc3Npb25TY2hlbWEiLAogICAgIk11bHRpb25DbG9zZVNlc3Npb24iLApdCg==
+from typing import TYPE_CHECKING, Any
+
+from langchain_classic._api import create_importer
+
+if TYPE_CHECKING:
+    from langchain_community.tools.multion.close_session import (
+        CloseSessionSchema,
+        MultionCloseSession,
+    )
+
+# Create a way to dynamically look up deprecated imports.
+# Used to consolidate logic for raising deprecation warnings and
+# handling optional imports.
+DEPRECATED_LOOKUP = {
+    "CloseSessionSchema": "langchain_community.tools.multion.close_session",
+    "MultionCloseSession": "langchain_community.tools.multion.close_session",
+}
+
+_import_attribute = create_importer(__package__, deprecated_lookups=DEPRECATED_LOOKUP)
+
+
+def __getattr__(name: str) -> Any:
+    """Look up attributes dynamically."""
+    return _import_attribute(name)
+
+
+__all__ = [
+    "CloseSessionSchema",
+    "MultionCloseSession",
+]

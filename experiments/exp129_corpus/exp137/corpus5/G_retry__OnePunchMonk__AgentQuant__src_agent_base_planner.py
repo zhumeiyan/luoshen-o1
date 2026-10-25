@@ -1,1 +1,266 @@
-IiIiCkJhc2UgUGxhbm5lciDigJQgTExNIEFic3RyYWN0aW9uIExheWVyCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KClByb3ZpZGVzIEJhc2VQbGFubmVyIEFCQyB3aXRoIGNvbmNyZXRlIGltcGxlbWVudGF0aW9ucyBmb3IgR2VtaW5pLCBPcGVuQUksIGFuZApmYWxsYmFjayAobm8tTExNKSBwbGFubmVycy4gRmFjdG9yeSBmdW5jdGlvbiByZWFkcyBwcm92aWRlciBmcm9tIGNvbmZpZy4KIiIiCgppbXBvcnQganNvbgppbXBvcnQgbG9nZ2luZwppbXBvcnQgb3MKaW1wb3J0IHRpbWUKZnJvbSBhYmMgaW1wb3J0IEFCQywgYWJzdHJhY3RtZXRob2QKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgQ2FsbGFibGUsIERpY3QsIExpc3QsIE9wdGlvbmFsLCBUeXBlVmFyCgpmcm9tIGRvdGVudiBpbXBvcnQgbG9hZF9kb3RlbnYKCmZyb20gc3JjLnV0aWxzLmNvbmZpZyBpbXBvcnQgY29uZmlnCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCmxvYWRfZG90ZW52KCkKClQgPSBUeXBlVmFyKCJUIikKCl9QTEFDRUhPTERFUl9LRVlTID0geyJ5b3VyX2dlbWluaV9hcGlfa2V5X2hlcmUiLCAieW91IGFwaSBrZXkifQoKCmRlZiBfbG9va3NfbGlrZV92YWxpZF9rZXkoa2V5OiBzdHIpIC0+IGJvb2w6CiAgICAiIiJCYXNpYyBzYW5pdHkgY2hlY2sgdG8gcmVqZWN0IGVtcHR5L3BsYWNlaG9sZGVyL21hbGZvcm1lZCBBUEkga2V5cyBlYXJseS4iIiIKICAgIGtleSA9IGtleS5zdHJpcCgpCiAgICBpZiBub3Qga2V5IG9yIGtleS5sb3dlcigpIGluIF9QTEFDRUhPTERFUl9LRVlTOgogICAgICAgIHJldHVybiBGYWxzZQogICAgcmV0dXJuIGxlbihrZXkpID49IDE2IGFuZCAiICIgbm90IGluIGtleQoKCmRlZiBfY2FsbF93aXRoX3JldHJ5KGZuOiBDYWxsYWJsZVtbXSwgVF0sIG1heF9yZXRyaWVzOiBpbnQsIGJhY2tvZmZfc2Vjb25kczogZmxvYXQgPSAxLjApIC0+IFQ6CiAgICAiIiJDYWxsIGBmbmAsIHJldHJ5aW5nIG9uIGV4Y2VwdGlvbiB1cCB0byBgbWF4X3JldHJpZXNgIHRpbWVzIHdpdGggbGluZWFyIGJhY2tvZmYuIiIiCiAgICBsYXN0X2V4YzogT3B0aW9uYWxbRXhjZXB0aW9uXSA9IE5vbmUKICAgIGZvciBhdHRlbXB0IGluIHJhbmdlKG1heF9yZXRyaWVzICsgMSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gZm4oKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbGFzdF9leGMgPSBlCiAgICAgICAgICAgIGlmIGF0dGVtcHQgPCBtYXhfcmV0cmllczoKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgICAgICJMTE0gY2FsbCBmYWlsZWQgKGF0dGVtcHQgJWQvJWQpOiAlcy4gUmV0cnlpbmcuLi4iLAogICAgICAgICAgICAgICAgICAgIGF0dGVtcHQgKyAxLCBtYXhfcmV0cmllcyArIDEsIGUsCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKGJhY2tvZmZfc2Vjb25kcyAqIChhdHRlbXB0ICsgMSkpCiAgICByYWlzZSBsYXN0X2V4YwoKCmNsYXNzIEJhc2VQbGFubmVyKEFCQyk6CiAgICAiIiJBYnN0cmFjdCBpbnRlcmZhY2UgZm9yIExMTS1iYXNlZCBzdHJhdGVneSBwcm9wb3NhbCBnZW5lcmF0aW9uLiIiIgoKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGdlbmVyYXRlX3Byb3Bvc2FscygKICAgICAgICBzZWxmLAogICAgICAgIHByb21wdDogc3RyLAogICAgICAgIG46IGludCA9IDUsCiAgICApIC0+IExpc3RbRGljdFtzdHIsIEFueV1dOgogICAgICAgICIiIgogICAgICAgIFNlbmQgYSBzdHJ1Y3R1cmVkIHByb21wdCB0byB0aGUgTExNIGFuZCBwYXJzZSBKU09OIHJlc3BvbnNlcy4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgTGlzdCBvZiBkaWN0cywgZWFjaCB3aXRoIGF0IGxlYXN0OiBmYXN0X3dpbmRvdywgc2xvd193aW5kb3csCiAgICAgICAgICAgIHJlYXNvbmluZywgY29uZmlkZW5jZSwgcmVnaW1lX2NoYXJhY3RlcmlzdGljX3VzZWQuCiAgICAgICAgIiIiCiAgICAgICAgLi4uCgogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgaXNfYXZhaWxhYmxlKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgIiIiUmV0dXJuIFRydWUgaWYgdGhpcyBwbGFubmVyIGhhcyB2YWxpZCBjcmVkZW50aWFscy4iIiIKICAgICAgICAuLi4KCgpjbGFzcyBHZW1pbmlQbGFubmVyKEJhc2VQbGFubmVyKToKICAgICIiIkdvb2dsZSBHZW1pbmkgaW1wbGVtZW50YXRpb24gdmlhIGdvb2dsZS1nZW5lcmF0aXZlYWkgU0RLLiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLl9hcGlfa2V5ID0gb3MuZ2V0ZW52KCJHT09HTEVfQVBJX0tFWSIsICIiKQogICAgICAgIHNlbGYuX21vZGVsX25hbWUgPSBjb25maWcubGxtLm1vZGVsCiAgICAgICAgc2VsZi5fdGVtcGVyYXR1cmUgPSBjb25maWcubGxtLnRlbXBlcmF0dXJlCiAgICAgICAgc2VsZi5fbW9kZWwgPSBOb25lCgogICAgZGVmIGlzX2F2YWlsYWJsZShzZWxmKSAtPiBib29sOgogICAgICAgIHJldHVybiBfbG9va3NfbGlrZV92YWxpZF9rZXkoc2VsZi5fYXBpX2tleSkKCiAgICBkZWYgX2dldF9tb2RlbChzZWxmKToKICAgICAgICBpZiBzZWxmLl9tb2RlbCBpcyBOb25lOgogICAgICAgICAgICBpbXBvcnQgZ29vZ2xlLmdlbmVyYXRpdmVhaSBhcyBnZW5haQogICAgICAgICAgICBnZW5haS5jb25maWd1cmUoYXBpX2tleT1zZWxmLl9hcGlfa2V5KQogICAgICAgICAgICBzZWxmLl9tb2RlbCA9IGdlbmFpLkdlbmVyYXRpdmVNb2RlbCgKICAgICAgICAgICAgICAgIG1vZGVsX25hbWU9c2VsZi5fbW9kZWxfbmFtZSwKICAgICAgICAgICAgICAgIGdlbmVyYXRpb25fY29uZmlnPXsidGVtcGVyYXR1cmUiOiBzZWxmLl90ZW1wZXJhdHVyZX0sCiAgICAgICAgICAgICkKICAgICAgICByZXR1cm4gc2VsZi5fbW9kZWwKCiAgICBkZWYgZ2VuZXJhdGVfcHJvcG9zYWxzKHNlbGYsIHByb21wdDogc3RyLCBuOiBpbnQgPSA1KSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICBtb2RlbCA9IHNlbGYuX2dldF9tb2RlbCgpCiAgICAgICAgcmVzcG9uc2UgPSBfY2FsbF93aXRoX3JldHJ5KAogICAgICAgICAgICBsYW1iZGE6IG1vZGVsLmdlbmVyYXRlX2NvbnRlbnQocHJvbXB0KSwgY29uZmlnLmxsbS5tYXhfcmV0cmllcwogICAgICAgICkKCiAgICAgICAgdGV4dCA9IHJlc3BvbnNlLnRleHQuc3RyaXAoKQogICAgICAgIHJldHVybiBzZWxmLl9wYXJzZV9qc29uX3Jlc3BvbnNlKHRleHQsIG4pCgogICAgZGVmIF9wYXJzZV9qc29uX3Jlc3BvbnNlKHNlbGYsIHRleHQ6IHN0ciwgbjogaW50KSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICAiIiJFeHRyYWN0IEpTT04gYXJyYXkgZnJvbSBMTE0gcmVzcG9uc2UgdGV4dC4iIiIKICAgICAgICAjIFRyeSB0byBmaW5kIEpTT04gYXJyYXkgaW4gcmVzcG9uc2UKICAgICAgICBzdGFydCA9IHRleHQuZmluZCgiWyIpCiAgICAgICAgZW5kID0gdGV4dC5yZmluZCgiXSIpCiAgICAgICAgaWYgc3RhcnQgIT0gLTEgYW5kIGVuZCAhPSAtMToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcHJvcG9zYWxzID0ganNvbi5sb2Fkcyh0ZXh0W3N0YXJ0IDogZW5kICsgMV0pCiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKHByb3Bvc2FscywgbGlzdCk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHByb3Bvc2Fsc1s6bl0KICAgICAgICAgICAgZXhjZXB0IGpzb24uSlNPTkRlY29kZUVycm9yOgogICAgICAgICAgICAgICAgcGFzcwoKICAgICAgICAjIFRyeSBzaW5nbGUgSlNPTiBvYmplY3QKICAgICAgICBzdGFydCA9IHRleHQuZmluZCgieyIpCiAgICAgICAgZW5kID0gdGV4dC5yZmluZCgifSIpCiAgICAgICAgaWYgc3RhcnQgIT0gLTEgYW5kIGVuZCAhPSAtMToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgb2JqID0ganNvbi5sb2Fkcyh0ZXh0W3N0YXJ0IDogZW5kICsgMV0pCiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKG9iaiwgZGljdCk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFtvYmpdCiAgICAgICAgICAgIGV4Y2VwdCBqc29uLkpTT05EZWNvZGVFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgbG9nZ2VyLndhcm5pbmcoIkNvdWxkIG5vdCBwYXJzZSBMTE0gcmVzcG9uc2UgYXMgSlNPTjogJXMuLi4iLCB0ZXh0WzoyMDBdKQogICAgICAgIHJldHVybiBbXQoKCmNsYXNzIExhbmdDaGFpblBsYW5uZXIoQmFzZVBsYW5uZXIpOgogICAgIiIiTGFuZ0NoYWluICsgR2VtaW5pIGltcGxlbWVudGF0aW9uIGZvciBzdHJ1Y3R1cmVkIG91dHB1dC4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fYXBpX2tleSA9IG9zLmdldGVudigiR09PR0xFX0FQSV9LRVkiLCAiIikKICAgICAgICBzZWxmLl9tb2RlbF9uYW1lID0gY29uZmlnLmxsbS5tb2RlbAogICAgICAgIHNlbGYuX3RlbXBlcmF0dXJlID0gY29uZmlnLmxsbS50ZW1wZXJhdHVyZQoKICAgIGRlZiBpc19hdmFpbGFibGUoc2VsZikgLT4gYm9vbDoKICAgICAgICBpZiBub3QgX2xvb2tzX2xpa2VfdmFsaWRfa2V5KHNlbGYuX2FwaV9rZXkpOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICB0cnk6CiAgICAgICAgICAgIGZyb20gbGFuZ2NoYWluX2dvb2dsZV9nZW5haSBpbXBvcnQgQ2hhdEdvb2dsZUdlbmVyYXRpdmVBSSAgIyBub3FhOiBGNDAxCiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBkZWYgZ2VuZXJhdGVfcHJvcG9zYWxzKHNlbGYsIHByb21wdDogc3RyLCBuOiBpbnQgPSA1KSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICBmcm9tIGxhbmdjaGFpbl9nb29nbGVfZ2VuYWkgaW1wb3J0IENoYXRHb29nbGVHZW5lcmF0aXZlQUkKCiAgICAgICAgbGxtID0gQ2hhdEdvb2dsZUdlbmVyYXRpdmVBSSgKICAgICAgICAgICAgbW9kZWw9c2VsZi5fbW9kZWxfbmFtZSwKICAgICAgICAgICAgdGVtcGVyYXR1cmU9c2VsZi5fdGVtcGVyYXR1cmUsCiAgICAgICAgICAgIG1heF9yZXRyaWVzPWNvbmZpZy5sbG0ubWF4X3JldHJpZXMsCiAgICAgICAgKQogICAgICAgIHJlc3BvbnNlID0gbGxtLmludm9rZShwcm9tcHQpCiAgICAgICAgdGV4dCA9IHJlc3BvbnNlLmNvbnRlbnQgaWYgaGFzYXR0cihyZXNwb25zZSwgImNvbnRlbnQiKSBlbHNlIHN0cihyZXNwb25zZSkKICAgICAgICByZXR1cm4gR2VtaW5pUGxhbm5lci5fcGFyc2VfanNvbl9yZXNwb25zZShOb25lLCB0ZXh0LCBuKQoKCmNsYXNzIE9wZW5BSVBsYW5uZXIoQmFzZVBsYW5uZXIpOgogICAgIiIiT3BlbkFJIGltcGxlbWVudGF0aW9uIGZvciB1c2VycyB3aXRoIGFuIE9wZW5BSSBrZXkuIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuX2FwaV9rZXkgPSBvcy5nZXRlbnYoIk9QRU5BSV9BUElfS0VZIiwgIiIpCgogICAgZGVmIGlzX2F2YWlsYWJsZShzZWxmKSAtPiBib29sOgogICAgICAgIGlmIG5vdCBfbG9va3NfbGlrZV92YWxpZF9rZXkoc2VsZi5fYXBpX2tleSk6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIHRyeToKICAgICAgICAgICAgaW1wb3J0IG9wZW5haSAgIyBub3FhOiBGNDAxCiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBkZWYgZ2VuZXJhdGVfcHJvcG9zYWxzKHNlbGYsIHByb21wdDogc3RyLCBuOiBpbnQgPSA1KSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICBpbXBvcnQgb3BlbmFpCgogICAgICAgIGNsaWVudCA9IG9wZW5haS5PcGVuQUkoYXBpX2tleT1zZWxmLl9hcGlfa2V5KQogICAgICAgIHJlc3BvbnNlID0gX2NhbGxfd2l0aF9yZXRyeSgKICAgICAgICAgICAgbGFtYmRhOiBjbGllbnQuY2hhdC5jb21wbGV0aW9ucy5jcmVhdGUoCiAgICAgICAgICAgICAgICBtb2RlbD0iZ3B0LTRvLW1pbmkiLAogICAgICAgICAgICAgICAgbWVzc2FnZXM9W3sicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiBwcm9tcHR9XSwKICAgICAgICAgICAgICAgIHRlbXBlcmF0dXJlPWNvbmZpZy5sbG0udGVtcGVyYXR1cmUsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGNvbmZpZy5sbG0ubWF4X3JldHJpZXMsCiAgICAgICAgKQogICAgICAgIHRleHQgPSByZXNwb25zZS5jaG9pY2VzWzBdLm1lc3NhZ2UuY29udGVudCBvciAiIgogICAgICAgIHJldHVybiBHZW1pbmlQbGFubmVyLl9wYXJzZV9qc29uX3Jlc3BvbnNlKE5vbmUsIHRleHQsIG4pCgoKY2xhc3MgQ2xhdWRlUGxhbm5lcihCYXNlUGxhbm5lcik6CiAgICAiIiJBbnRocm9waWMgQ2xhdWRlIGltcGxlbWVudGF0aW9uIGZvciB1c2VycyB3aXRoIGFuIEFudGhyb3BpYyBrZXkuIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuX2FwaV9rZXkgPSBvcy5nZXRlbnYoIkFOVEhST1BJQ19BUElfS0VZIiwgIiIpCiAgICAgICAgc2VsZi5fbW9kZWxfbmFtZSA9IGNvbmZpZy5sbG0ubW9kZWwgaWYgY29uZmlnLmxsbS5wcm92aWRlciA9PSAiY2xhdWRlIiBlbHNlICJjbGF1ZGUtc29ubmV0LTUiCgogICAgZGVmIGlzX2F2YWlsYWJsZShzZWxmKSAtPiBib29sOgogICAgICAgIGlmIG5vdCBfbG9va3NfbGlrZV92YWxpZF9rZXkoc2VsZi5fYXBpX2tleSk6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIHRyeToKICAgICAgICAgICAgaW1wb3J0IGFudGhyb3BpYyAgIyBub3FhOiBGNDAxCiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBkZWYgZ2VuZXJhdGVfcHJvcG9zYWxzKHNlbGYsIHByb21wdDogc3RyLCBuOiBpbnQgPSA1KSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICBpbXBvcnQgYW50aHJvcGljCgogICAgICAgIGNsaWVudCA9IGFudGhyb3BpYy5BbnRocm9waWMoYXBpX2tleT1zZWxmLl9hcGlfa2V5KQogICAgICAgIHJlc3BvbnNlID0gX2NhbGxfd2l0aF9yZXRyeSgKICAgICAgICAgICAgbGFtYmRhOiBjbGllbnQubWVzc2FnZXMuY3JlYXRlKAogICAgICAgICAgICAgICAgbW9kZWw9c2VsZi5fbW9kZWxfbmFtZSwKICAgICAgICAgICAgICAgIG1heF90b2tlbnM9NDA5NiwKICAgICAgICAgICAgICAgIHRlbXBlcmF0dXJlPWNvbmZpZy5sbG0udGVtcGVyYXR1cmUsCiAgICAgICAgICAgICAgICBtZXNzYWdlcz1beyJyb2xlIjogInVzZXIiLCAiY29udGVudCI6IHByb21wdH1dLAogICAgICAgICAgICApLAogICAgICAgICAgICBjb25maWcubGxtLm1heF9yZXRyaWVzLAogICAgICAgICkKICAgICAgICB0ZXh0ID0gIiIuam9pbihibG9jay50ZXh0IGZvciBibG9jayBpbiByZXNwb25zZS5jb250ZW50IGlmIGhhc2F0dHIoYmxvY2ssICJ0ZXh0IikpCiAgICAgICAgcmV0dXJuIEdlbWluaVBsYW5uZXIuX3BhcnNlX2pzb25fcmVzcG9uc2UoTm9uZSwgdGV4dCwgbikKCgpjbGFzcyBGYWxsYmFja1BsYW5uZXIoQmFzZVBsYW5uZXIpOgogICAgIiIiTm8tTExNIGZhbGxiYWNrIOKAlCBhbHdheXMgcmV0dXJucyBlbXB0eSAoY2FsbGVyIHVzZXMgZ3JpZCBzZWFyY2gpLiIiIgoKICAgIGRlZiBpc19hdmFpbGFibGUoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIGRlZiBnZW5lcmF0ZV9wcm9wb3NhbHMoc2VsZiwgcHJvbXB0OiBzdHIsIG46IGludCA9IDUpIC0+IExpc3RbRGljdFtzdHIsIEFueV1dOgogICAgICAgIGxvZ2dlci5pbmZvKCJGYWxsYmFja1BsYW5uZXI6IG5vIExMTSBhdmFpbGFibGUsIHJldHVybmluZyBlbXB0eSBwcm9wb3NhbHMuIikKICAgICAgICByZXR1cm4gW10KCgpkZWYgY3JlYXRlX3BsYW5uZXIocHJvdmlkZXI6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBCYXNlUGxhbm5lcjoKICAgICIiIgogICAgRmFjdG9yeTogY3JlYXRlIHRoZSBhcHByb3ByaWF0ZSBwbGFubmVyIGJhc2VkIG9uIGNvbmZpZyBvciBvdmVycmlkZS4KCiAgICBQcmlvcml0eTogTGFuZ0NoYWluIEdlbWluaSA+IHJhdyBHZW1pbmkgPiBPcGVuQUkgPiBGYWxsYmFjay4KICAgICIiIgogICAgcHJvdmlkZXIgPSBwcm92aWRlciBvciBjb25maWcubGxtLnByb3ZpZGVyCgogICAgcGxhbm5lcnMgPSB7CiAgICAgICAgImdlbWluaSI6IFtMYW5nQ2hhaW5QbGFubmVyLCBHZW1pbmlQbGFubmVyXSwKICAgICAgICAib3BlbmFpIjogW09wZW5BSVBsYW5uZXJdLAogICAgICAgICJjbGF1ZGUiOiBbQ2xhdWRlUGxhbm5lcl0sCiAgICAgICAgIm9sbGFtYSI6IFtGYWxsYmFja1BsYW5uZXJdLCAgIyBwbGFjZWhvbGRlciBmb3IgZnV0dXJlIE9sbGFtYSBzdXBwb3J0CiAgICB9CgogICAgY2FuZGlkYXRlcyA9IHBsYW5uZXJzLmdldChwcm92aWRlciwgW0dlbWluaVBsYW5uZXIsIE9wZW5BSVBsYW5uZXIsIENsYXVkZVBsYW5uZXJdKQoKICAgIGZvciBwbGFubmVyX2NscyBpbiBjYW5kaWRhdGVzOgogICAgICAgIHBsYW5uZXIgPSBwbGFubmVyX2NscygpCiAgICAgICAgaWYgcGxhbm5lci5pc19hdmFpbGFibGUoKToKICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlVzaW5nICVzIGFzIExMTSBwbGFubmVyLiIsIHBsYW5uZXJfY2xzLl9fbmFtZV9fKQogICAgICAgICAgICByZXR1cm4gcGxhbm5lcgoKICAgIGxvZ2dlci53YXJuaW5nKCJObyBMTE0gcGxhbm5lciBhdmFpbGFibGUuIFVzaW5nIEZhbGxiYWNrUGxhbm5lciAoZ3JpZCBzZWFyY2ggb25seSkuIikKICAgIHJldHVybiBGYWxsYmFja1BsYW5uZXIoKQo=
+"""
+Base Planner — LLM Abstraction Layer
+=====================================
+
+Provides BasePlanner ABC with concrete implementations for Gemini, OpenAI, and
+fallback (no-LLM) planners. Factory function reads provider from config.
+"""
+
+import json
+import logging
+import os
+import time
+from abc import ABC, abstractmethod
+from typing import Any, Callable, Dict, List, Optional, TypeVar
+
+from dotenv import load_dotenv
+
+from src.utils.config import config
+
+logger = logging.getLogger(__name__)
+
+load_dotenv()
+
+T = TypeVar("T")
+
+_PLACEHOLDER_KEYS = {"your_gemini_api_key_here", "you api key"}
+
+
+def _looks_like_valid_key(key: str) -> bool:
+    """Basic sanity check to reject empty/placeholder/malformed API keys early."""
+    key = key.strip()
+    if not key or key.lower() in _PLACEHOLDER_KEYS:
+        return False
+    return len(key) >= 16 and " " not in key
+
+
+def _call_with_retry(fn: Callable[[], T], max_retries: int, backoff_seconds: float = 1.0) -> T:
+    """Call `fn`, retrying on exception up to `max_retries` times with linear backoff."""
+    last_exc: Optional[Exception] = None
+    for attempt in range(max_retries + 1):
+        try:
+            return fn()
+        except Exception as e:
+            last_exc = e
+            if attempt < max_retries:
+                logger.warning(
+                    "LLM call failed (attempt %d/%d): %s. Retrying...",
+                    attempt + 1, max_retries + 1, e,
+                )
+                time.sleep(backoff_seconds * (attempt + 1))
+    raise last_exc
+
+
+class BasePlanner(ABC):
+    """Abstract interface for LLM-based strategy proposal generation."""
+
+    @abstractmethod
+    def generate_proposals(
+        self,
+        prompt: str,
+        n: int = 5,
+    ) -> List[Dict[str, Any]]:
+        """
+        Send a structured prompt to the LLM and parse JSON responses.
+
+        Returns:
+            List of dicts, each with at least: fast_window, slow_window,
+            reasoning, confidence, regime_characteristic_used.
+        """
+        ...
+
+    @abstractmethod
+    def is_available(self) -> bool:
+        """Return True if this planner has valid credentials."""
+        ...
+
+
+class GeminiPlanner(BasePlanner):
+    """Google Gemini implementation via google-generativeai SDK."""
+
+    def __init__(self):
+        self._api_key = os.getenv("GOOGLE_API_KEY", "")
+        self._model_name = config.llm.model
+        self._temperature = config.llm.temperature
+        self._model = None
+
+    def is_available(self) -> bool:
+        return _looks_like_valid_key(self._api_key)
+
+    def _get_model(self):
+        if self._model is None:
+            import google.generativeai as genai
+            genai.configure(api_key=self._api_key)
+            self._model = genai.GenerativeModel(
+                model_name=self._model_name,
+                generation_config={"temperature": self._temperature},
+            )
+        return self._model
+
+    def generate_proposals(self, prompt: str, n: int = 5) -> List[Dict[str, Any]]:
+        model = self._get_model()
+        response = _call_with_retry(
+            lambda: model.generate_content(prompt), config.llm.max_retries
+        )
+
+        text = response.text.strip()
+        return self._parse_json_response(text, n)
+
+    def _parse_json_response(self, text: str, n: int) -> List[Dict[str, Any]]:
+        """Extract JSON array from LLM response text."""
+        # Try to find JSON array in response
+        start = text.find("[")
+        end = text.rfind("]")
+        if start != -1 and end != -1:
+            try:
+                proposals = json.loads(text[start : end + 1])
+                if isinstance(proposals, list):
+                    return proposals[:n]
+            except json.JSONDecodeError:
+                pass
+
+        # Try single JSON object
+        start = text.find("{")
+        end = text.rfind("}")
+        if start != -1 and end != -1:
+            try:
+                obj = json.loads(text[start : end + 1])
+                if isinstance(obj, dict):
+                    return [obj]
+            except json.JSONDecodeError:
+                pass
+
+        logger.warning("Could not parse LLM response as JSON: %s...", text[:200])
+        return []
+
+
+class LangChainPlanner(BasePlanner):
+    """LangChain + Gemini implementation for structured output."""
+
+    def __init__(self):
+        self._api_key = os.getenv("GOOGLE_API_KEY", "")
+        self._model_name = config.llm.model
+        self._temperature = config.llm.temperature
+
+    def is_available(self) -> bool:
+        if not _looks_like_valid_key(self._api_key):
+            return False
+        try:
+            from langchain_google_genai import ChatGoogleGenerativeAI  # noqa: F401
+            return True
+        except ImportError:
+            return False
+
+    def generate_proposals(self, prompt: str, n: int = 5) -> List[Dict[str, Any]]:
+        from langchain_google_genai import ChatGoogleGenerativeAI
+
+        llm = ChatGoogleGenerativeAI(
+            model=self._model_name,
+            temperature=self._temperature,
+            max_retries=config.llm.max_retries,
+        )
+        response = llm.invoke(prompt)
+        text = response.content if hasattr(response, "content") else str(response)
+        return GeminiPlanner._parse_json_response(None, text, n)
+
+
+class OpenAIPlanner(BasePlanner):
+    """OpenAI implementation for users with an OpenAI key."""
+
+    def __init__(self):
+        self._api_key = os.getenv("OPENAI_API_KEY", "")
+
+    def is_available(self) -> bool:
+        if not _looks_like_valid_key(self._api_key):
+            return False
+        try:
+            import openai  # noqa: F401
+            return True
+        except ImportError:
+            return False
+
+    def generate_proposals(self, prompt: str, n: int = 5) -> List[Dict[str, Any]]:
+        import openai
+
+        client = openai.OpenAI(api_key=self._api_key)
+        response = _call_with_retry(
+            lambda: client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=config.llm.temperature,
+            ),
+            config.llm.max_retries,
+        )
+        text = response.choices[0].message.content or ""
+        return GeminiPlanner._parse_json_response(None, text, n)
+
+
+class ClaudePlanner(BasePlanner):
+    """Anthropic Claude implementation for users with an Anthropic key."""
+
+    def __init__(self):
+        self._api_key = os.getenv("ANTHROPIC_API_KEY", "")
+        self._model_name = config.llm.model if config.llm.provider == "claude" else "claude-sonnet-5"
+
+    def is_available(self) -> bool:
+        if not _looks_like_valid_key(self._api_key):
+            return False
+        try:
+            import anthropic  # noqa: F401
+            return True
+        except ImportError:
+            return False
+
+    def generate_proposals(self, prompt: str, n: int = 5) -> List[Dict[str, Any]]:
+        import anthropic
+
+        client = anthropic.Anthropic(api_key=self._api_key)
+        response = _call_with_retry(
+            lambda: client.messages.create(
+                model=self._model_name,
+                max_tokens=4096,
+                temperature=config.llm.temperature,
+                messages=[{"role": "user", "content": prompt}],
+            ),
+            config.llm.max_retries,
+        )
+        text = "".join(block.text for block in response.content if hasattr(block, "text"))
+        return GeminiPlanner._parse_json_response(None, text, n)
+
+
+class FallbackPlanner(BasePlanner):
+    """No-LLM fallback — always returns empty (caller uses grid search)."""
+
+    def is_available(self) -> bool:
+        return True
+
+    def generate_proposals(self, prompt: str, n: int = 5) -> List[Dict[str, Any]]:
+        logger.info("FallbackPlanner: no LLM available, returning empty proposals.")
+        return []
+
+
+def create_planner(provider: Optional[str] = None) -> BasePlanner:
+    """
+    Factory: create the appropriate planner based on config or override.
+
+    Priority: LangChain Gemini > raw Gemini > OpenAI > Fallback.
+    """
+    provider = provider or config.llm.provider
+
+    planners = {
+        "gemini": [LangChainPlanner, GeminiPlanner],
+        "openai": [OpenAIPlanner],
+        "claude": [ClaudePlanner],
+        "ollama": [FallbackPlanner],  # placeholder for future Ollama support
+    }
+
+    candidates = planners.get(provider, [GeminiPlanner, OpenAIPlanner, ClaudePlanner])
+
+    for planner_cls in candidates:
+        planner = planner_cls()
+        if planner.is_available():
+            logger.info("Using %s as LLM planner.", planner_cls.__name__)
+            return planner
+
+    logger.warning("No LLM planner available. Using FallbackPlanner (grid search only).")
+    return FallbackPlanner()

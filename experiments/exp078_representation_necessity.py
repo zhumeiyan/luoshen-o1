@@ -1,1 +1,197 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWunumqjCAwNzggwrcg6KGo5b6B5b+F6KaB5oCn5qOA6aqM77ya5oSf55+l5piv5ZCm5YWI5LqO56ym5Y+3Cj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K5Zue5bqU77ya56Kz5Z+655Sf5ZG9IDM4IOS6v+W5tO+8jOaVsOWtpi/ku6PnoIHmmK/mnIDov5EgfjUwMDAtMTAwMDAg5bm05omN5Y+R5piO55qE44CCCiAgICAgIOaEn+efpeWFiOS6juespuWPtyDihpIg56ym5Y+377yI57yW5Y+3L+WdkOaghy/ku6PnoIHvvInmmK/lkI7liqDnmoTjgJDmjqXlj6PlsYLjgJHvvIwKICAgICAg5LiN5piv5oSf55+l55qE5b+F6KaB5p2h5Lu244CCCgrmoLjlv4Ppl67popjvvIjlj6/or4HkvKrkuozliIbvvInvvJoKICAgIOaKiuehheWfuuaNouiDveWZqOeahOi/nue7rei+k+WHuuWBmuOAkOihqOW+geOAke+8iOemu+aVo+WMli/ph4/ljJYv57yW5Y+377yJ5LmL5ZCO77yMCiAgICDlvJXmk47nmoTlhoXlnKjnu5PmnoTvvIjlj5boiI0g4oaSIOWuuemHj+WBj+W6pu+8ieaJjeWHuueOsOWQl++8nwogICAgICAgwrcg6IulIEw9MO+8iOaXoOihqOW+ge+8jOe6r+i/nue7re+8ieS4i+e7k+aehOS7jeWcqCAgIOKGkiDooajlvoHkuI3lv4XopoHvvIjmjqXlj6PvvIkKICAgICAgIMK3IOiLpSBMPTAg5LiL57uT5p6E5raI5aSx44CB6ZqPIEwg5aKe5aSn5omN5Ye6546wICAg4oaSIOihqOW+geW/heimge+8iOacrOi0qO+8iQoK6aKE5rOo5YaM5YGH6K6+77yaCiAgICBIMTogTD0w77yI5peg6KGo5b6B77yJ5LiL5a656YeP5YGP5bqm5pi+6JGXID4g5peg5oSf5a6Y5Z+657q/CiAgICBIMjog5YGP5bqm5a+56KGo5b6B57KS5bqmIEwg5LiN5pWP5oSfIOKAlOKAlCBMPTAvMi81LzIwLzEwMCDlrp7otKjnrYnku7fvvIjlt67lvILlmarlo7DlhoXvvIkKICAgIO+8iOiLpSBIMSDkuJQgSDIg5oiQ56uL77ya6KGo5b6B5piv5o6l5Y+j77yM5LiN5piv5oSf55+l55qE5p2h5Lu277yJCiAgICDvvIjoi6UgTD0wIOWBj+W6piDiiYgg5Z+657q/77ya6KGo5b6B5b+F6KaB77yMSDEg6KKr5o6o57+777yJCgrml7bpl7Tnur/or4Hmja7vvIjoh6rnhLbnp5HlrabvvIzpnZ7mnKzlrp7pqozlvpflh7rvvInvvJoKICAgIOeUn+WRvSB+Mzgg5Lq/5bm077yI5qC86Zm15YWwIEFraWxpYSAvIOWKoOaLv+WkpyBOdXZ2dWFnaXR0dXHvvIwzN+KAkzQzIOS6v+W5tO+8iQogICAg6K6h5pWw56ym5Y+377ya6Zm25625IH7lhazlhYPliY0gODAwMCDlubTvvIhTY2htYW5kdC1CZXNzZXJhdO+8ie+8jAogICAgICAgICAgICAgIOallOW9ouaWh+Wtl+aVsOWtlyB+5YWs5YWD5YmNIDMxMDDigJMzMzAwIOW5tO+8iFVydWsgSVbvvIkKICAgIOKGkiDmhJ/nn6Ut5ZON5bqU5YWI5LqO56ym5Y+3IDMuOGU1IH4gNy42ZTUg5YCNCiAgICDnu4boj4zotovljJbmgKfvvJrml6DnpZ7nu4/ns7vnu5/jgIHml6Dku7vkvZXnrKblj7fvvIzov57nu63ljJblrabmoq/luqYg4oaSIE1DUCDlj5fkvZMKICAgICAgICAgICAgICDihpIgQ2hlQS9DaGVZIOKGkiDpnq3mr5vpqazovr7vvJvnlLLln7rljJbvvIhDaGVSL0NoZULvvInmj5Dkvpvnn63mnJ/orrDlv4YKICAgICAgICAgICAgICDigJTigJQg5a6M5pW055qEIuaEn+efpS3orrDlv4Yt5Yaz562WLeihjOWKqCLlm57ot6/vvIzlhajnqIvml6DooajlvoEKIiIiCmltcG9ydCBqc29uLCBvcywgc3lzLCBudW1weSBhcyBucAoKUk9PVCA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICcuLicpCnN5cy5wYXRoLmluc2VydCgwLCBST09UKQpmcm9tIGNvcmUgaW1wb3J0IExpZmU1CgpPVVQgICA9IG9zLnBhdGguam9pbihST09ULCAnZXZpZGVuY2UnLCAncmF3X2RhdGEnLCAncmVwcmVzZW50YXRpb25fMDc4Lmpzb24nKQpGSUcgICA9IG9zLnBhdGguam9pbihST09ULCAnZmlnJykKQ0FDSEUgPSBvcy5wYXRoLmpvaW4oUk9PVCwgJ2V2aWRlbmNlJywgJ3Jhd19kYXRhJywgJ2JhbmRfYWxpZ25tZW50XzA3Ny5qc29uJykKClNFRURTICA9IGxpc3QocmFuZ2UoMTYpKQpUSUNLUyAgPSA2MDAKTl9DSCAgID0gOCAgICAgICAgICAjIOW8leaTjumAmumBk+aVsAoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyBQYXJ0IDAgwrcg55yf5a6e5o2i6IO95Zmo6K+75pWwIOKGkiDmhJ/nn6XlkJHph4/vvIg4IOmAmumBk++8iQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgbG9hZF9yZWFsX2ZpZWxkKCk6CiAgICAiIiLnnJ/lrp7msJTosaHnq5nor7vmlbDvvIgwNzcg6YeH5qC357yT5a2Y77yJ77yM5Y+W5YmNIDgg5Z+O5rip5bqm5L2c5Li6IDgg6YCa6YGT5oSf55+l5ZCR6YePIiIiCiAgICB3aXRoIG9wZW4oQ0FDSEUpIGFzIGY6CiAgICAgICAgZCA9IGpzb24ubG9hZChmKQogICAgY3MgPSBkWyJjaXRpZXMiXQogICAgdGVtcHMgPSBbZmxvYXQoY1sidGVtcGVyYXR1cmUiXSkgZm9yIGMgaW4gY3NbOk5fQ0hdXQogICAgbmFtZXMgPSBbY1siY2l0eSJdIGZvciBjIGluIGNzWzpOX0NIXV0KICAgIHJldHVybiBucC5hcnJheSh0ZW1wcywgZmxvYXQpLCBuYW1lcwoKZGVmIG5vcm0wMSh4KToKICAgIGxvLCBoaSA9IHgubWluKCksIHgubWF4KCkKICAgIGlmIGhpIC0gbG8gPCAxZS05OgogICAgICAgIHJldHVybiBucC5vbmVzX2xpa2UoeCkgKiAwLjUsIGxvLCBoaQogICAgcmV0dXJuICh4IC0gbG8pIC8gKGhpIC0gbG8pLCBsbywgaGkKCmRlZiBxdWFudGl6ZSh2MDEsIEwpOgogICAgIiIi6KGo5b6B77ya5oqK6L+e57ut5oSf55+l5ZCR6YeP6YeP5YyW5YiwIEwg5Liq56a75pWj5bGC57qn77yI5qG25Lit54K577yM5b2S5LiA5YyW5YiwIFswLDFd77yJCiAgICAgICBMIDw9IDAg4oaSIOS4jeihqOW+ge+8iOe6r+i/nue7re+8ie+8jOWOn+agt+i/lOWbniIiIgogICAgaWYgTCBpcyBOb25lIG9yIEwgPD0gMDoKICAgICAgICByZXR1cm4gdjAxLmNvcHkoKSAgICAgICAgICAgICAgICAgICAgICAjIOKYhSDml6DooajlvoEKICAgIEwgPSBpbnQoTCkKICAgIGlkeCA9IG5wLmNsaXAoKHYwMSAqIEwpLmFzdHlwZShpbnQpLCAwLCBMIC0gMSkKICAgIHJldHVybiAoaWR4ICsgMC41KSAvIEwgICAgICAgICAgICAgICAgICAgICAjIOahtuS4reeCuQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyBQYXJ0IDEgwrcg5byV5pOO5o6l5YWl77yI5ZCr6YCa6Lev5o6l6YCa5qOA6aqM77yM6Ziy56ysIDIzIOadoemdmem7mOWkseaViO+8iQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgcnVuX29uZShzYWxfdmVjLCBzZWVkLCBrX3NhbD0wLjYwLCB0aWNrcz1USUNLUyk6CiAgICBsaWZlID0gTGlmZTUoTj1OX0NILCBzZWVkPXNlZWQsIGtfc2FsPWtfc2FsLCBzYWw9c2FsX3ZlYykKICAgIGxpZmUucnVuKHRpY2tzKQogICAgY2FwID0gbnAuYXNhcnJheShsaWZlLmNhcGFjaXR5LCBmbG9hdCkKICAgIGFsaXZlID0gZ2V0YXR0cihsaWZlLCAnYWxpdmUnLCBUcnVlKQogICAgc2QgPSBmbG9hdChucC5zdGQoY2FwKSAvIChucC5tZWFuKGNhcCkgKyAxZS0xMikpCiAgICByZXR1cm4gZGljdChza2V3PXNkLCBhbGl2ZT1ib29sKGFsaXZlKSwgY2FwPWNhcC50b2xpc3QoKSwKICAgICAgICAgICAgICAgIEU9ZmxvYXQoZ2V0YXR0cihsaWZlLCAnRScsIGZsb2F0KCduYW4nKSkpKQoKZGVmIG1haW4oKToKICAgIG5wLnJhbmRvbS5zZWVkKDApCiAgICB0ZW1wcywgbmFtZXMgPSBsb2FkX3JlYWxfZmllbGQoKQogICAgdjAxLCBsbywgaGkgPSBub3JtMDEodGVtcHMpCgogICAgcHJpbnQoIj09PSBQYXJ0IDAgwrcg55yf5a6e5o2i6IO95Zmo6K+75pWwIOKGkiA4IOmAmumBk+aEn+efpeWQkemHjyA9PT0iKQogICAgcHJpbnQoZiIgIOecn+Wunua4qeW6piA6IHt0ZW1wcy50b2xpc3QoKX0gICh7JywgJy5qb2luKG5hbWVzKX0pIikKICAgIHByaW50KGYiICDlvZLkuIDljJYgICA6IHtucC5yb3VuZCh2MDEsNCkudG9saXN0KCl9IikKICAgIHByaW50KGYiICDml7bpl7Tnur8gICA6IOeUn+WRvSAzOCDkur/lubQgdnMg6K6h5pWw56ym5Y+3IH4xIOS4h+W5tCDihpIg5oSf55+l5YWI5LqO56ym5Y+3IDMuOGU1fjcuNmU1IOWAjSIpCgogICAgIyAtLS0tLS0tLS0tIOmAmui3r+aOpemAmuajgOmqjO+8iOesrCAyMyDmnaHvvJrpnZnpu5jlpLHmlYjvvIktLS0tLS0tLS0tCiAgICBwcmludCgiXG49PT0gUGFydCAxIMK3IOmAmui3r+aOpemAmuajgOmqjO+8iHNhbCDmmK/lkKbnnJ/mjqXov5vkuLvpgJrpgZPvvIk9PT0iKQogICAgcHJvYmUgPSBbXQogICAgZm9yIGtzIGluIFswLjAsIDAuMiwgMC42LCAxLjJdOgogICAgICAgIHIgPSBbcnVuX29uZShxdWFudGl6ZSh2MDEsIDApLCBzLCBrX3NhbD1rcykgZm9yIHMgaW4gU0VFRFNbOjRdXQogICAgICAgIHByb2JlLmFwcGVuZCgoa3MsIG5wLm1lYW4oW3hbJ3NrZXcnXSBmb3IgeCBpbiByXSkpKQogICAgICAgIHByaW50KGYiICBrX3NhbD17a3M6PDR9ICDlgY/luqblnYflgLw9e25wLm1lYW4oW3hbJ3NrZXcnXSBmb3IgeCBpbiByXSk6LjZmfSIpCiAgICBzcHJlYWQgPSBtYXgocFsxXSBmb3IgcCBpbiBwcm9iZSkgLSBtaW4ocFsxXSBmb3IgcCBpbiBwcm9iZSkKICAgIGlmIHNwcmVhZCA8IDFlLTk6CiAgICAgICAgcHJpbnQoIiAgISEg6Z2Z6buY5aSx5pWI77yac2FsIOacquaOpei/m+S4u+mAmumBk++8jOS4reatoiIpCiAgICAgICAgcmV0dXJuCiAgICBwcmludChmIiAg4oaSIOmAmui3r+aOpemAmu+8iOaegeW3riB7c3ByZWFkOi42Zn0gPiAw77yJIikKCiAgICBLX1NBTCA9IDAuNjAKICAgICMgLS0tLS0tLS0tLSDkuLvmiavmj4/vvJrooajlvoHnspLluqYgTCAtLS0tLS0tLS0tCiAgICBwcmludCgiXG49PT0gUGFydCAyIMK3IOihqOW+geeykuW6puWJgumHj+WPjeW6lO+8iDE2IHNlZWRzIMOXIDYwMCDmi43vvIk9PT0iKQogICAgTEVWRUxTID0gWzAsIDIsIDUsIDIwLCAxMDBdICAgICAjIDAgPSDml6DooajlvoHvvIjnuq/ov57nu63vvIkKICAgIHJlcyA9IHt9CiAgICBmb3IgTCBpbiBMRVZFTFM6CiAgICAgICAgc3YgPSBxdWFudGl6ZSh2MDEsIEwpCiAgICAgICAgb3V0ID0gW3J1bl9vbmUoc3YsIHMsIGtfc2FsPUtfU0FMKSBmb3IgcyBpbiBTRUVEU10KICAgICAgICByZXNbTF0gPSBvdXQKICAgICAgICBhbCA9IHN1bSgxIGZvciBvIGluIG91dCBpZiBvWydhbGl2ZSddKQogICAgICAgIHByaW50KGYiICBMPXtMOjw0fSDlrZjmtLsge2FsfS97bGVuKFNFRURTKX0gIOWBj+W6puWdh+WAvD17bnAubWVhbihbb1snc2tldyddIGZvciBvIGluIG91dF0pOi42Zn0iKQoKICAgICMgLS0tLS0tLS0tLSDlr7nnhafvvJrml6DmhJ/lrpggLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuPT09IFBhcnQgMyDCtyDlr7nnhafvvJrml6DmhJ/lrpjvvIhzYWwg5YWo6Zu277yJPT09IikKICAgIHplcm8gPSBucC56ZXJvcyhOX0NIKQogICAgY3RybCA9IFtydW5fb25lKHplcm8sIHMsIGtfc2FsPUtfU0FMKSBmb3IgcyBpbiBTRUVEU10KICAgIGNhID0gc3VtKDEgZm9yIG8gaW4gY3RybCBpZiBvWydhbGl2ZSddKQogICAgcHJpbnQoZiIgIOaXoOaEn+WumCAg5a2Y5rS7IHtjYX0ve2xlbihTRUVEUyl9ICDlgY/luqblnYflgLw9e25wLm1lYW4oW29bJ3NrZXcnXSBmb3IgbyBpbiBjdHJsXSk6LjZmfSIpCgogICAgIyAtLS0tLS0tLS0tIOWFseWQjOWtmOa0u+WtkOmbhu+8iOmYsuatu+S6oeetm+mAie+8jOWOhuWPsuagvei/hyAzIOasoe+8iS0tLS0tLS0tLS0KICAgIGRlZiBhbGl2ZV9pZHgoZ3JvdXApOgogICAgICAgIHJldHVybiB7aSBmb3IgaSwgbyBpbiBlbnVtZXJhdGUoZ3JvdXApIGlmIG9bJ2FsaXZlJ119CiAgICBjb21tb24gPSBzZXQocmFuZ2UobGVuKFNFRURTKSkpCiAgICBmb3IgTCBpbiBMRVZFTFM6IGNvbW1vbiAmPSBhbGl2ZV9pZHgocmVzW0xdKQogICAgY29tbW9uICY9IGFsaXZlX2lkeChjdHJsKQogICAgY29tbW9uID0gc29ydGVkKGNvbW1vbikKICAgIHByaW50KGYiXG49PT0gUGFydCA0IMK3IOWFseWQjOWtmOa0u+WtkOmbhiBuPXtsZW4oY29tbW9uKX3vvIjpmLLmrbvkuqHnrZvpgInvvIk9PT0iKQoKICAgIGRlZiBtKGdyb3VwLCBpZHg9Tm9uZSk6CiAgICAgICAgaWR4ID0gaWR4IGlmIGlkeCBpcyBub3QgTm9uZSBlbHNlIGNvbW1vbgogICAgICAgIHJldHVybiBmbG9hdChucC5tZWFuKFtncm91cFtpXVsnc2tldyddIGZvciBpIGluIGlkeF0pKQoKICAgIGJhc2UgPSBtKGN0cmwpCiAgICByb3dzID0gW10KICAgIGZvciBMIGluIExFVkVMUzoKICAgICAgICB2ID0gbShyZXNbTF0pCiAgICAgICAgcm93cy5hcHBlbmQoZGljdChMPUwsIG1lYW49diwgZGVsdGE9diAtIGJhc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICBuPWxlbihjb21tb24pLAogICAgICAgICAgICAgICAgICAgICAgICAgYWxpdmVfYWxsPXN1bSgxIGZvciBvIGluIHJlc1tMXSBpZiBvWydhbGl2ZSddKSkpCiAgICAgICAgdGFnID0gIuaXoOihqOW+gSjov57nu60pIiBpZiBMID09IDAgZWxzZSBmIntMfSDnuqfnprvmlaMiCiAgICAgICAgcHJpbnQoZiIgIEw9e0w6PDR9KHt0YWc6PDEwfSkg5YGP5bqmPXt2Oi42Zn0gIM6UIHZzIOaXoOaEn+WumD17di1iYXNlOisuNmZ9IikKCiAgICAjIC0tLS0tLS0tLS0gSDEgLyBIMiDliKTlrpogLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuPT09IFBhcnQgNSDCtyDlgYforr7liKTlrpogPT09IikKICAgIEwwID0gW3IgZm9yIHIgaW4gcm93cyBpZiByWydMJ10gPT0gMF1bMF0KICAgICMgSDHvvJrml6DooajlvoEgdnMg5peg5oSf5a6Y77yM6YWN5a+55beuICsgYm9vdHN0cmFwCiAgICBkMCA9IG5wLmFycmF5KFtyZXNbMF1baV1bJ3NrZXcnXSAtIGN0cmxbaV1bJ3NrZXcnXSBmb3IgaSBpbiBjb21tb25dKQogICAgYiAgPSBucC5hcnJheShbbnAubWVhbihucC5yYW5kb20uY2hvaWNlKGQwLCBsZW4oZDApKSkgZm9yIF8gaW4gcmFuZ2UoNDAwMCldKQogICAgY2kgPSAoZmxvYXQobnAucGVyY2VudGlsZShiLCAyLjUpKSwgZmxvYXQobnAucGVyY2VudGlsZShiLCA5Ny41KSkpCiAgICBoMSA9IChjaVswXSA+IDAgb3IgY2lbMV0gPCAwKQogICAgcHJpbnQoZiIgIEgxIOaXoOihqOW+gSB2cyDml6DmhJ/lrpggOiDOlD17ZDAubWVhbigpOisuNmZ9ICA5NSVDST1be2NpWzBdOisuNmZ9LHtjaVsxXTorLjZmfV0iCiAgICAgICAgICBmIiAg4oaSIHsn5oiQ56uL77yI5pi+6JGX77yJJyBpZiBoMSBlbHNlICfkuI3miJDnq4vvvIhDSSDot6ggMO+8iSd9IikKCiAgICAjIEgy77ya5ZCEIEwg5LiOIEw9MCDnmoTphY3lr7nlt64KICAgIHByaW50KCIgIEgyIOihqOW+geeykuW6puaVj+aEn+aAp++8iOWQhCBMIHZzIEw9MCDphY3lr7nlt67vvIxDSSDot6ggMCA9IOWunui0qOetieS7t++8ie+8miIpCiAgICBoMiA9IFRydWUKICAgIGZvciBMIGluIFsyLCA1LCAyMCwgMTAwXToKICAgICAgICBkbCA9IG5wLmFycmF5KFtyZXNbTF1baV1bJ3NrZXcnXSAtIHJlc1swXVtpXVsnc2tldyddIGZvciBpIGluIGNvbW1vbl0pCiAgICAgICAgYmwgPSBucC5hcnJheShbbnAubWVhbihucC5yYW5kb20uY2hvaWNlKGRsLCBsZW4oZGwpKSkgZm9yIF8gaW4gcmFuZ2UoNDAwMCldKQogICAgICAgIGNsID0gKGZsb2F0KG5wLnBlcmNlbnRpbGUoYmwsIDIuNSkpLCBmbG9hdChucC5wZXJjZW50aWxlKGJsLCA5Ny41KSkpCiAgICAgICAgZXEgPSAoY2xbMF0gPD0gMCA8PSBjbFsxXSkKICAgICAgICBpZiBub3QgZXE6IGgyID0gRmFsc2UKICAgICAgICBwcmludChmIiAgICBMPXtMOjw0fSDOlD17ZGwubWVhbigpOisuNmZ9ICA5NSVDST1be2NsWzBdOisuNmZ9LHtjbFsxXTorLjZmfV0iCiAgICAgICAgICAgICAgZiIgIOKGkiB7J+etieS7tycgaWYgZXEgZWxzZSAn4piF5pyJ5beu5byCJ30iKQogICAgcHJpbnQoZiIgIEgyIOKGkiB7J+aIkOeri++8iOihqOW+geS4jeaVj+aEn++8iScgaWYgaDIgZWxzZSAn5LiN5oiQ56uL77yI5a+557KS5bqm5pWP5oSf77yJJ30iKQoKICAgIHZlcmRpY3QgPSAoIuihqOW+geaYr+aOpeWPo+Wxgu+8jOS4jeaYr+aEn+efpeeahOW/heimgeadoeS7tu+8muaXoOihqOW+geS4i+e7k+aehOW3suWcqO+8jOS4lOS4jemaj+eykuW6puWPmOWMliIKICAgICAgICAgICAgICAgaWYgKGgxIGFuZCBoMikgZWxzZQogICAgICAgICAgICAgICAoIuihqOW+geW/heimge+8mue7k+aehOS+nei1luemu+aVo+WMliIgaWYgKG5vdCBoMSkgZWxzZQogICAgICAgICAgICAgICAgIue7k+aehOS4jeS+nei1luacieaXoOihqOW+ge+8jOS9huWvueeykuW6puaVj+aEn++8iOmDqOWIhuaUr+aMge+8iSIpKQogICAgcHJpbnQoZiJcbiAg4piFIOe7k+iuuu+8mnt2ZXJkaWN0fSIpCgogICAgIyAtLS0tLS0tLS0tIOS/neWtmCAtLS0tLS0tLS0tCiAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUoT1VUKSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHBheWxvYWQgPSBkaWN0KAogICAgICAgIHRpbWVzdGFtcD1fX2ltcG9ydF9fKCd0aW1lJykuc3RyZnRpbWUoIiVZLSVtLSVkICVIOiVNOiVTIiksCiAgICAgICAgcmVhbF90ZW1wcz10ZW1wcy50b2xpc3QoKSwgY2l0eV9uYW1lcz1uYW1lcywKICAgICAgICBub3JtX3ZlY3Rvcj12MDEudG9saXN0KCksIHF1YW50X2xldmVscz1MRVZFTFMsCiAgICAgICAga19zYWw9S19TQUwsIHRpY2tzPVRJQ0tTLCBuX3NlZWRzPWxlbihTRUVEUyksCiAgICAgICAgY29tbW9uX2FsaXZlX249bGVuKGNvbW1vbiksCiAgICAgICAgY29udHJvbF9ub19zZW5zZV9tZWFuPWJhc2UsCiAgICAgICAgcm93cz1yb3dzLCBoMT1ib29sKGgxKSwgaDI9Ym9vbChoMiksCiAgICAgICAgaDFfY2k9bGlzdChjaSksIHZlcmRpY3Q9dmVyZGljdCwKICAgICAgICB0aW1lbGluZT1kaWN0KGxpZmVfeWVhcnM9My44ZTksIHN5bWJvbF95ZWFycz0xLjBlNCwKICAgICAgICAgICAgICAgICAgICAgIHJhdGlvX2xvdz0zLjhlNSwgcmF0aW9faGlnaD03LjZlNSksCiAgICApCiAgICB3aXRoIG9wZW4oT1VULCAndycpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKHBheWxvYWQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludChmIlxu5bey5L+d5a2YIOKGkiB7T1VUfSIpCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""
+实验 078 · 表征必要性检验：感知是否先于符号
+================================================================
+回应：碳基生命 38 亿年，数学/代码是最近 ~5000-10000 年才发明的。
+      感知先于符号 → 符号（编号/坐标/代码）是后加的【接口层】，
+      不是感知的必要条件。
+
+核心问题（可证伪二分）：
+    把硅基换能器的连续输出做【表征】（离散化/量化/编号）之后，
+    引擎的内在结构（取舍 → 容量偏度）才出现吗？
+       · 若 L=0（无表征，纯连续）下结构仍在   → 表征不必要（接口）
+       · 若 L=0 下结构消失、随 L 增大才出现   → 表征必要（本质）
+
+预注册假设：
+    H1: L=0（无表征）下容量偏度显著 > 无感官基线
+    H2: 偏度对表征粒度 L 不敏感 —— L=0/2/5/20/100 实质等价（差异噪声内）
+    （若 H1 且 H2 成立：表征是接口，不是感知的条件）
+    （若 L=0 偏度 ≈ 基线：表征必要，H1 被推翻）
+
+时间线证据（自然科学，非本实验得出）：
+    生命 ~38 亿年（格陵兰 Akilia / 加拿大 Nuvvuagittuq，37–43 亿年）
+    计数符号：陶筹 ~公元前 8000 年（Schmandt-Besserat），
+              楔形文字数字 ~公元前 3100–3300 年（Uruk IV）
+    → 感知-响应先于符号 3.8e5 ~ 7.6e5 倍
+    细菌趋化性：无神经系统、无任何符号，连续化学梯度 → MCP 受体
+              → CheA/CheY → 鞭毛马达；甲基化（CheR/CheB）提供短期记忆
+              —— 完整的"感知-记忆-决策-行动"回路，全程无表征
+"""
+import json, os, sys, numpy as np
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+sys.path.insert(0, ROOT)
+from core import Life5
+
+OUT   = os.path.join(ROOT, 'evidence', 'raw_data', 'representation_078.json')
+FIG   = os.path.join(ROOT, 'fig')
+CACHE = os.path.join(ROOT, 'evidence', 'raw_data', 'band_alignment_077.json')
+
+SEEDS  = list(range(16))
+TICKS  = 600
+N_CH   = 8          # 引擎通道数
+
+# ============================================================
+# Part 0 · 真实换能器读数 → 感知向量（8 通道）
+# ============================================================
+def load_real_field():
+    """真实气象站读数（077 采样缓存），取前 8 城温度作为 8 通道感知向量"""
+    with open(CACHE) as f:
+        d = json.load(f)
+    cs = d["cities"]
+    temps = [float(c["temperature"]) for c in cs[:N_CH]]
+    names = [c["city"] for c in cs[:N_CH]]
+    return np.array(temps, float), names
+
+def norm01(x):
+    lo, hi = x.min(), x.max()
+    if hi - lo < 1e-9:
+        return np.ones_like(x) * 0.5, lo, hi
+    return (x - lo) / (hi - lo), lo, hi
+
+def quantize(v01, L):
+    """表征：把连续感知向量量化到 L 个离散层级（桶中点，归一化到 [0,1]）
+       L <= 0 → 不表征（纯连续），原样返回"""
+    if L is None or L <= 0:
+        return v01.copy()                      # ★ 无表征
+    L = int(L)
+    idx = np.clip((v01 * L).astype(int), 0, L - 1)
+    return (idx + 0.5) / L                     # 桶中点
+
+# ============================================================
+# Part 1 · 引擎接入（含通路接通检验，防第 23 条静默失效）
+# ============================================================
+def run_one(sal_vec, seed, k_sal=0.60, ticks=TICKS):
+    life = Life5(N=N_CH, seed=seed, k_sal=k_sal, sal=sal_vec)
+    life.run(ticks)
+    cap = np.asarray(life.capacity, float)
+    alive = getattr(life, 'alive', True)
+    sd = float(np.std(cap) / (np.mean(cap) + 1e-12))
+    return dict(skew=sd, alive=bool(alive), cap=cap.tolist(),
+                E=float(getattr(life, 'E', float('nan'))))
+
+def main():
+    np.random.seed(0)
+    temps, names = load_real_field()
+    v01, lo, hi = norm01(temps)
+
+    print("=== Part 0 · 真实换能器读数 → 8 通道感知向量 ===")
+    print(f"  真实温度 : {temps.tolist()}  ({', '.join(names)})")
+    print(f"  归一化   : {np.round(v01,4).tolist()}")
+    print(f"  时间线   : 生命 38 亿年 vs 计数符号 ~1 万年 → 感知先于符号 3.8e5~7.6e5 倍")
+
+    # ---------- 通路接通检验（第 23 条：静默失效）----------
+    print("\n=== Part 1 · 通路接通检验（sal 是否真接进主通道）===")
+    probe = []
+    for ks in [0.0, 0.2, 0.6, 1.2]:
+        r = [run_one(quantize(v01, 0), s, k_sal=ks) for s in SEEDS[:4]]
+        probe.append((ks, np.mean([x['skew'] for x in r])))
+        print(f"  k_sal={ks:<4}  偏度均值={np.mean([x['skew'] for x in r]):.6f}")
+    spread = max(p[1] for p in probe) - min(p[1] for p in probe)
+    if spread < 1e-9:
+        print("  !! 静默失效：sal 未接进主通道，中止")
+        return
+    print(f"  → 通路接通（极差 {spread:.6f} > 0）")
+
+    K_SAL = 0.60
+    # ---------- 主扫描：表征粒度 L ----------
+    print("\n=== Part 2 · 表征粒度剂量反应（16 seeds × 600 拍）===")
+    LEVELS = [0, 2, 5, 20, 100]     # 0 = 无表征（纯连续）
+    res = {}
+    for L in LEVELS:
+        sv = quantize(v01, L)
+        out = [run_one(sv, s, k_sal=K_SAL) for s in SEEDS]
+        res[L] = out
+        al = sum(1 for o in out if o['alive'])
+        print(f"  L={L:<4} 存活 {al}/{len(SEEDS)}  偏度均值={np.mean([o['skew'] for o in out]):.6f}")
+
+    # ---------- 对照：无感官 ----------
+    print("\n=== Part 3 · 对照：无感官（sal 全零）===")
+    zero = np.zeros(N_CH)
+    ctrl = [run_one(zero, s, k_sal=K_SAL) for s in SEEDS]
+    ca = sum(1 for o in ctrl if o['alive'])
+    print(f"  无感官  存活 {ca}/{len(SEEDS)}  偏度均值={np.mean([o['skew'] for o in ctrl]):.6f}")
+
+    # ---------- 共同存活子集（防死亡筛选，历史栽过 3 次）----------
+    def alive_idx(group):
+        return {i for i, o in enumerate(group) if o['alive']}
+    common = set(range(len(SEEDS)))
+    for L in LEVELS: common &= alive_idx(res[L])
+    common &= alive_idx(ctrl)
+    common = sorted(common)
+    print(f"\n=== Part 4 · 共同存活子集 n={len(common)}（防死亡筛选）===")
+
+    def m(group, idx=None):
+        idx = idx if idx is not None else common
+        return float(np.mean([group[i]['skew'] for i in idx]))
+
+    base = m(ctrl)
+    rows = []
+    for L in LEVELS:
+        v = m(res[L])
+        rows.append(dict(L=L, mean=v, delta=v - base,
+                         n=len(common),
+                         alive_all=sum(1 for o in res[L] if o['alive'])))
+        tag = "无表征(连续)" if L == 0 else f"{L} 级离散"
+        print(f"  L={L:<4}({tag:<10}) 偏度={v:.6f}  Δ vs 无感官={v-base:+.6f}")
+
+    # ---------- H1 / H2 判定 ----------
+    print("\n=== Part 5 · 假设判定 ===")
+    L0 = [r for r in rows if r['L'] == 0][0]
+    # H1：无表征 vs 无感官，配对差 + bootstrap
+    d0 = np.array([res[0][i]['skew'] - ctrl[i]['skew'] for i in common])
+    b  = np.array([np.mean(np.random.choice(d0, len(d0))) for _ in range(4000)])
+    ci = (float(np.percentile(b, 2.5)), float(np.percentile(b, 97.5)))
+    h1 = (ci[0] > 0 or ci[1] < 0)
+    print(f"  H1 无表征 vs 无感官 : Δ={d0.mean():+.6f}  95%CI=[{ci[0]:+.6f},{ci[1]:+.6f}]"
+          f"  → {'成立（显著）' if h1 else '不成立（CI 跨 0）'}")
+
+    # H2：各 L 与 L=0 的配对差
+    print("  H2 表征粒度敏感性（各 L vs L=0 配对差，CI 跨 0 = 实质等价）：")
+    h2 = True
+    for L in [2, 5, 20, 100]:
+        dl = np.array([res[L][i]['skew'] - res[0][i]['skew'] for i in common])
+        bl = np.array([np.mean(np.random.choice(dl, len(dl))) for _ in range(4000)])
+        cl = (float(np.percentile(bl, 2.5)), float(np.percentile(bl, 97.5)))
+        eq = (cl[0] <= 0 <= cl[1])
+        if not eq: h2 = False
+        print(f"    L={L:<4} Δ={dl.mean():+.6f}  95%CI=[{cl[0]:+.6f},{cl[1]:+.6f}]"
+              f"  → {'等价' if eq else '★有差异'}")
+    print(f"  H2 → {'成立（表征不敏感）' if h2 else '不成立（对粒度敏感）'}")
+
+    verdict = ("表征是接口层，不是感知的必要条件：无表征下结构已在，且不随粒度变化"
+               if (h1 and h2) else
+               ("表征必要：结构依赖离散化" if (not h1) else
+                "结构不依赖有无表征，但对粒度敏感（部分支持）"))
+    print(f"\n  ★ 结论：{verdict}")
+
+    # ---------- 保存 ----------
+    os.makedirs(os.path.dirname(OUT), exist_ok=True)
+    payload = dict(
+        timestamp=__import__('time').strftime("%Y-%m-%d %H:%M:%S"),
+        real_temps=temps.tolist(), city_names=names,
+        norm_vector=v01.tolist(), quant_levels=LEVELS,
+        k_sal=K_SAL, ticks=TICKS, n_seeds=len(SEEDS),
+        common_alive_n=len(common),
+        control_no_sense_mean=base,
+        rows=rows, h1=bool(h1), h2=bool(h2),
+        h1_ci=list(ci), verdict=verdict,
+        timeline=dict(life_years=3.8e9, symbol_years=1.0e4,
+                      ratio_low=3.8e5, ratio_high=7.6e5),
+    )
+    with open(OUT, 'w') as f:
+        json.dump(payload, f, ensure_ascii=False, indent=1)
+    print(f"\n已保存 → {OUT}")
+
+if __name__ == '__main__':
+    main()

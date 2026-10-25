@@ -1,1 +1,143 @@
-IyBldmFsZ3VhcmQKCioqU3RhdGljIGxpbnRlciBmb3IgTExNIC8gYWdlbnQgZXZhbHVhdGlvbiBzY3JpcHRzLioqCgpFdmVyeSBydWxlIHRyYWNlcyB0byBhIG51bWJlcmVkIGVudHJ5IGluIGEgKiozNjgtaXRlbSBmYWlsdXJlLW1vZGUgY2Fub24qKiDigJQKZW50cmllcyBtaW5lZCBmcm9tIDEwMCsgcmVhbCBleHBlcmltZW50cywgZWFjaCBvbmUgd3JpdHRlbiBhZnRlciB0aGUgZmFpbHVyZQphY3R1YWxseSBjb3N0IGFuIGV4cGVyaW1lbnQuIE5vdCBzdHlsZSBwcmVmZXJlbmNlLiBOb3Qgb3Bpbmlvbi4KCmBgYAokIGV2YWxndWFyZCBteV9ldmFsLnB5CgpbQkxPQ0tdIEVHMDAyICBjYW5vbiAjMTQwICBBY2N1cmFjeS9yZWNhbGwgcmVwb3J0ZWQgd2l0aCBubyByYW5kb20gYmFzZWxpbmUKW0JMT0NLXSBFRzAxNiAgY2Fub24gIzM3NyAgRXh0ZXJuYWwgY2hhbm5lbCB1c2VkIHdpdGggbm8gcmVhY2hhYmlsaXR5IHJlLXRlc3QKW1dBUk4gXSBFRzAxMSAgY2Fub24gIzQxOSAgQ2FzZXMgY2FuIHNraXAsIGJ1dCByZXN1bHRzIGNvbXBhcmVkIGFzIGdyb3VwIHJhdGVzCltXQVJOIF0gRUcwMTMgIGNhbm9uICM0MCAgIFJhdGlvIHJlcG9ydGVkIHdpdGhvdXQgbnVtZXJhdG9yIGNvdW50ICsgZGVub21pbmF0b3IKCjQgYmxvY2tlciDCtyAxMSB3YXJuIMK3IDEgaW5mbwpgYGAKCkV4aXQgY29kZSBpcyBgMWAgd2hlbiBhbnkgKipibG9ja2VyKiogZmlyZXMg4oCUIGRyb3AgaXQgaW50byBDSS4KCi0tLQoKIyMgV2h5IHRoaXMgZXhpc3RzCgpNb3N0IHB1Ymxpc2hlZCBhZ2VudC1ldmFsIG51bWJlcnMgYXJlIG5vdCB3cm9uZyBiZWNhdXNlIHRoZSBtb2RlbCBpcyBiYWQuClRoZXkgYXJlIHdyb25nIGJlY2F1c2UgdGhlICptZWFzdXJlbWVudCogaXMgYnJva2VuIGluIGEgd2F5IG5vYm9keSBjaGVja3MgZm9yOgoKfCBzeW1wdG9tIHwgd2hhdCBpdCBhY3R1YWxseSB3YXMgfAp8LS0tfC0tLXwKfCByZWNhbGwgMC45NSB8IHJhbmRvbSBndWVzc2luZyBhbHJlYWR5IGdhdmUgMC45MCB8CnwgdGF4b25vbXkgc2NvcmVzIH4xLjAgfCBzY29yZWQgb24gdGhlIGNvcnB1cyBpdCB3YXMgaW5kdWNlZCBmcm9tIHwKfCBldmVyeSBjb25kaXRpb24gY29tcGFyZXMgZXF1YWwgfCB0aGUgbWV0cmljIHdhcyBzdHJ1Y3R1cmFsbHkgemVybyBhbGwgYWxvbmcgfAp8ICJpbnRlcnZlbnRpb24gd29ya3MiIHwgdGhlIGludGVydmVudGlvbiB2YXJpYWJsZSB3YXMgbmV2ZXIgcmVhZCB8CnwgcmVzdWx0cyBhcmNoaXZlZCB8IGEgbG9nIGxpbmUgc2FpZCBzbzsgbm90aGluZyB3YXMgd3JpdHRlbiB8CnwgY2hhbm5lbCB3b3JrcyB8IGl0IHdhcyByZWFjaGFibGUgbGFzdCBtb250aCwgaXQgaXMgNDAzIHRvZGF5IHwKCkVhY2ggcm93IGluIHRoaXMgdGFibGUgY29zdCBhIHJlYWwgZXhwZXJpbWVudC4gRWFjaCBpcyBub3cgYSBydWxlLgoKIyMgSW5zdGFsbAoKWmVybyBkZXBlbmRlbmNpZXMuIFB5dGhvbiAzLjgrLgoKYGBgYmFzaApwaXAgaW5zdGFsbCBldmFsZ3VhcmQKIyBvciwgbm8gaW5zdGFsbCBhdCBhbGw6CmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vemh1bWVpeWFuL2V2YWxndWFyZCAmJiBjZCBldmFsZ3VhcmQKcHl0aG9uMyAtbSBldmFsZ3VhcmQgeW91cl9ldmFsLnB5CmBgYAoKIyMgVXNhZ2UKCmBgYGJhc2gKZXZhbGd1YXJkIHBhdGgvdG8vZXZhbC5weSAgICAgICAgIyBzaW5nbGUgZmlsZQpldmFsZ3VhcmQgc3JjLyAgICAgICAgICAgICAgICAgICAjIGRpcmVjdG9yeSAocmVjdXJzaXZlICoucHkpCmV2YWxndWFyZCBzcmMvIC0tZm9ybWF0IGpzb24gICAgICMgbWFjaGluZS1yZWFkYWJsZSwgZm9yIENJCmV2YWxndWFyZCBzcmMvIC0tc2V2ZXJpdHkgd2FybiAgICMgc3VwcHJlc3MgaW5mby1sZXZlbCBhZHZpY2UKYGBgCgojIyBSdWxlcyAoMTYpCgp8IElEIHwgU2V2IHwgQ2Fub24gfCBDYXRjaGVzIHwKfC0tLS18LS0tLS18LS0tLS0tLXwtLS0tLS0tLS18CnwgRUcwMDIgfCBibG9ja2VyIHwgIzE0MCB8IG1ldHJpYyByZXBvcnRlZCB3aXRoIG5vIGNoYW5jZS1sZXZlbCBiYXNlbGluZSB8CnwgRUcwMDYgfCBibG9ja2VyIHwgIzIzIHwgYmFyZS9zaWxlbnQgYGV4Y2VwdGAg4oCUIGVycm9yIHN3YWxsb3dlZCwgcnVuIGxvb2tzIGNsZWFuIHwKfCBFRzAwOCB8IGJsb2NrZXIgfCAjMTM5IHwgcmVjYWxsIG1lYXN1cmVkIG9uIHRoZSBjb3JwdXMgdGhlIHJ1bGVzIGNhbWUgZnJvbSB8CnwgRUcwMTYgfCBibG9ja2VyIHwgIzM3NywjMzc4IHwgcmVtb3RlIGNhbGwgd2l0aCBubyBzdGF0dXMgcmUtY2hlY2sgb3IgdGltZXN0YW1wIHwKfCBFRzAwMSB8IHdhcm4gfCAjMTQxIHwgYHJhbmRvbS4qYCAvIGBucC5yYW5kb21gIHdpdGggbm8gc2VlZCBhbnl3aGVyZSB8CnwgRUcwMDMgfCB3YXJuIHwgIzE0MiB8IGRlY2lzaW9uIHRocmVzaG9sZCBoYXJkLWNvZGVkLCBubyBzd2VlcCB8CnwgRUcwMDQgfCB3YXJuIHwgIzQzIHwgc2luZ2xlIGhhcmQtY29kZWQgY2x1c3RlciBjdXQtb2ZmLCBubyBzd2VlcCB8CnwgRUcwMDUgfCB3YXJuIHwgIzE0NSwjMzUgfCBkaXZpc2lvbiB3aXRoIGFuIHVuZ3VhcmRlZCBkZW5vbWluYXRvciB8CnwgRUcwMDcgfCB3YXJuIHwgIzUzIHwgInNhdmVkIC8gYXJjaGl2ZWQiIGNsYWltZWQgaW4gYSBsb2cgbGluZSwgbm8gd3JpdGUgY2FsbCB8CnwgRUcwMDkgfCB3YXJuIHwgIzIzIHwgYXNzaWduZWQtbmV2ZXItcmVhZCB2YXJpYWJsZSAoZGVhZCBpbnRlcnZlbnRpb24pIHwKfCBFRzAxMSB8IHdhcm4gfCAjNDE5IHwgY2FzZXMgY2FuIHNraXAsIHJlc3VsdHMgc3RpbGwgY29tcGFyZWQgYXMgZ3JvdXAgcmF0ZXMgfAp8IEVHMDEyIHwgd2FybiB8ICM0MjQgfCBubyBwb3NpdGl2ZSBjb250cm9sIC8gbm8gY2hhbmNlLWxldmVsIGFuY2hvciB8CnwgRUcwMTMgfCB3YXJuIHwgIzQwIHwgcmF0aW8gcmVwb3J0ZWQgd2l0aG91dCBhYnNvbHV0ZSBjb3VudCBhbmQgZGVub21pbmF0b3IgfAp8IEVHMDE0IHwgd2FybiB8ICMxMjUgfCB2YWx1ZSBuYW1lZCBgZml4ZWRgL2Bjb25zdGAgcmVnZW5lcmF0ZWQgaW5zaWRlIHRoZSBsb29wIHwKfCBFRzAxNSB8IHdhcm4gfCAjNDIxIHwgbXVsdGktYXhpcyBzeXN0ZW0gcmVwb3J0ZWQgYXMgb25lIGFnZ3JlZ2F0ZSBzY29yZSB8CnwgRUcwMTAgfCBpbmZvIHwgIzE0NyB8IG9uZSBtZXRyaWMgZmFtaWx5IGNhcnJpZXMgdGhlIHdob2xlIGNvbmNsdXNpb24gfAoKIyMgTWVhc3VyZWQgYmVoYXZpb3VyCgpWYWxpZGF0ZWQgYWdhaW5zdCB0d28gZml4dHVyZXMsIGJvdGggc2hpcHBlZCBpbiBgdGVzdHMvYDoKCnwgZml4dHVyZSB8IGJsb2NrZXJzIHwgd2FybnMgfCB2ZXJkaWN0IHwKfC0tLXwtLS18LS0tfC0tLXwKfCBgcGxhbnRlZF9ldmFsLnB5YCAoMTYgcGxhbnRlZCBkZWZlY3RzKSB8IDQgfCAxMSB8ICoqMTYgLyAxNiBydWxlcyBmaXJlKiogfAp8IGBjbGVhbl9ldmFsLnB5YCAod3JpdHRlbiB0byBzYXRpc2Z5IGV2ZXJ5IHJ1bGUpIHwgKiowKiogfCAqKjAqKiB8IDEgaW5mbyBvbmx5IHwKCioqWmVybyBmYWxzZSBwb3NpdGl2ZXMgb24gY2xlYW4gY29kZS4qKiBBIGxpbnRlciB0aGF0IGZpcmVzIG9uIGV2ZXJ5IGZpbGUgaXMgYQpsaW50ZXIgbm9ib2R5IHJ1bnMuIEJvdGggZml4dHVyZXMgYXJlIGluIHRoZSByZXBvIOKAlCB2ZXJpZnkgaXQgeW91cnNlbGYuCgpgcHl0aG9uMyB0ZXN0cy9ydW5fdGVzdHMucHlgIOKGkiA2LzYgKHplcm8tZGVwZW5kZW5jeSBydW5uZXI7IHB5dGVzdCBub3QgcmVxdWlyZWQpLgoKIyMgSG9uZXN0IG51bWJlcnM6IHJ1biBhZ2FpbnN0IGl0cyBvd24gYXV0aG9yJ3MgY29kZQoKYGBgCmNvcmUvICAgIDMgZmlsZXMgICAwIGJsb2NrZXIgICAzIHdhcm4gICAgKDEuMDAgd2Fybi9maWxlKQp0b29scy8gIDE1IGZpbGVzICAgNyBibG9ja2VyICAgOCB3YXJuICAgICgwLjUzIHdhcm4vZmlsZSkKYGBgCgpUaGUgdG9vbCBpcyBub3QgY2xlYW4gb24gdGhlIHJlcG8gaXQgY2FtZSBmcm9tLiBUaGUgNyBibG9ja2VycyBhcmUgNcOXIEVHMDE2CihyZW1vdGUgY2FsbHMgd2l0aG91dCBhIHN0YXR1cyByZS1jaGVjaykgYW5kIDLDlyBFRzAwNiAoc2lsZW50IGBleGNlcHRgKSDigJQKKipib3RoIHJlYWwgZGVmZWN0cyBpbiBleHBlcmltZW50IHNjcmlwdHMsIG5vdCBsaW50IG5vaXNlLioqIFJlcG9ydGVkIGFzLWlzLgoKIyMgQnVncyB0aGlzIHRvb2wgZm91bmQgaW4gaXRzZWxmICh2MC4yKQoKVGhyZWUgc2lsZW50IGZhaWx1cmVzLCBhbGwgY2F1Z2h0IGJ5IHNjYW5uaW5nIHRoZSBjYW5vbiBhZ2FpbnN0IHRoZSBydWxlczoKCjEuICoqYHJlYCB3YXMgbmV2ZXIgaW1wb3J0ZWQuKiogVGhlIGNvbW1lbnQtc3RyaXBwaW5nIGZhbGxiYWNrIHJhaXNlZAogICBgTmFtZUVycm9yYCBpbnN0ZWFkIG9mIHdvcmtpbmcuIChjYW5vbiAjMjMpCjIuICoqYCIgIi5qb2luKHRva2VucylgIGRlc3Ryb3llZCBldmVyeSBkb3R0ZWQgbmFtZS4qKiBgcmVxdWVzdHMuZ2V0YCBiZWNhbWUKICAgYHJlcXVlc3RzIC4gZ2V0YCwgc28gKipFRzAxNiBjb3VsZCBuZXZlciBmaXJlIG9uIGFueSByZWFsIHJlbW90ZSBjYWxsKiosCiAgIGFuZCBldmVyeSBgbnAubWVhbmAgLyBganNvbi5kdW1wYCBrZXl3b3JkIHdhcyBkZWFkLiBUaGUgcnVsZSBsb29rZWQgZmluZQogICBpbiBjb2RlIHJldmlldyBhbmQgbWF0Y2hlZCBub3RoaW5nIGluIHByb2R1Y3Rpb24uIEZpeGVkIGJ5IHByZXNlcnZpbmcKICAgdG9rZW4gcG9zaXRpb25zIHdpdGggYHRva2VuaXplLnVudG9rZW5pemVgLgozLiAqKkd1YXJkcyB3cml0dGVuIG9uZSBsaW5lIGVhcmxpZXIgd2VyZSBpbnZpc2libGUuKiogYGRlbm9tID0gbWF4KG4sIDEpYAogICB0aGVuIGB0cCAvIGRlbm9tYCB3YXMgZmxhZ2dlZCBhcyB1bmd1YXJkZWQg4oCUIGEgZmFsc2UgcG9zaXRpdmUgb24gY29ycmVjdAogICBjb2RlLiBGaXhlZCBieSByZXNvbHZpbmcgdGhlIGRlbm9taW5hdG9yIGF0IGl0cyBhc3NpZ25tZW50IHNpdGUuCgpCdWcgMiBpcyB0aGUgaW1wb3J0YW50IG9uZTogKiphIHJ1bGUgdGhhdCBuZXZlciBmaXJlcyBpcyBpbmRpc3Rpbmd1aXNoYWJsZQpmcm9tIGEgcnVsZSB0aGF0IG5ldmVyIG5lZWRlZCB0byBmaXJlLioqIEJvdGggbG9vayBsaWtlIGEgY2xlYW4gcnVuLgoKIyMgV2hlcmUgdGhlIGNhbm9uIGNhbWUgZnJvbQoKMzY4IGVudHJpZXMuIEVhY2ggY2FycmllcyB0aGUgZXhwZXJpbWVudCB0aGF0IHByb2R1Y2VkIGl0LCB0aGUgbWVhc3VyZWQKbnVtYmVyLCBhbmQg4oCUIHdoZXJlIG9uZSBleGlzdHMg4oCUIGFuIGFjdGlvbmFibGUgY3JpdGVyaW9uLiAxNDQgYXJlCmRpcmVjdGx5IGFjdGlvbmFibGU7IDE2IG9mIHRob3NlIGFyZSBleGVjdXRhYmxlIGFzIHN0YXRpYyBydWxlcyB0b2RheS4KVGhlIGNhbm9uIHNoaXBzIGZyZWUgdW5kZXIgQ0MgQlkgNC4wIGluIGAuLi9jYW5vbi9gLgoKIyMgTGltaXRhdGlvbnMgKHN0YXRlZCB1cCBmcm9udCkKCi0gKipTdGF0aWMgb25seS4qKiBJdCByZWFkcyBzb3VyY2UsIG5ldmVyIHJ1bnMgaXQuIEl0IGNhbm5vdCBrbm93IHdoZXRoZXIgYQogIG1ldHJpYyBpcyAqbnVtZXJpY2FsbHkqIHplcm8sIG9ubHkgdGhhdCBub3RoaW5nIGNoZWNrcy4KLSAqKkhldXJpc3RpYyBrZXl3b3JkIG1hdGNoaW5nIG9uIHNvbWUgcnVsZXMqKiAoRUcwMDIsIEVHMDA3LCBFRzAxMeKAk0VHMDE2KS4KICBUaGV5IGxvb2sgZm9yIGV2aWRlbmNlIG9mIHRoZSByaWdodCBwcmFjdGljZSwgbm90IHByb29mIG9mIGl0LgotICoqUHl0aG9uIG9ubHkuKiogTm8gSlMgLyBub3RlYm9vayBzdXBwb3J0IHlldC4KLSAqKlByZWNpc2lvbiBvdmVyIHJlY2FsbCBieSBkZXNpZ24uKiogQSBtaXNzZWQgZGVmZWN0IGNvc3RzIHlvdSBhIHJlLXJ1bjsKICBhIGZhbHNlIGFsYXJtIGNvc3RzIHlvdSB0aGUgdG9vbC4KCiMjIExpY2Vuc2UKCk1JVCBmb3IgdGhpcyB0b29sLiBUaGUgZmFpbHVyZS1tb2RlIGNhbm9uIGlzIENDIEJZIDQuMCwgYXR0cmlidXRpb24gS0xhbWVuZy4K
+# evalguard
+
+**Static linter for LLM / agent evaluation scripts.**
+
+Every rule traces to a numbered entry in a **368-item failure-mode canon** —
+entries mined from 100+ real experiments, each one written after the failure
+actually cost an experiment. Not style preference. Not opinion.
+
+```
+$ evalguard my_eval.py
+
+[BLOCK] EG002  canon #140  Accuracy/recall reported with no random baseline
+[BLOCK] EG016  canon #377  External channel used with no reachability re-test
+[WARN ] EG011  canon #419  Cases can skip, but results compared as group rates
+[WARN ] EG013  canon #40   Ratio reported without numerator count + denominator
+
+4 blocker · 11 warn · 1 info
+```
+
+Exit code is `1` when any **blocker** fires — drop it into CI.
+
+---
+
+## Why this exists
+
+Most published agent-eval numbers are not wrong because the model is bad.
+They are wrong because the *measurement* is broken in a way nobody checks for:
+
+| symptom | what it actually was |
+|---|---|
+| recall 0.95 | random guessing already gave 0.90 |
+| taxonomy scores ~1.0 | scored on the corpus it was induced from |
+| every condition compares equal | the metric was structurally zero all along |
+| "intervention works" | the intervention variable was never read |
+| results archived | a log line said so; nothing was written |
+| channel works | it was reachable last month, it is 403 today |
+
+Each row in this table cost a real experiment. Each is now a rule.
+
+## Install
+
+Zero dependencies. Python 3.8+.
+
+```bash
+pip install evalguard
+# or, no install at all:
+git clone https://github.com/zhumeiyan/evalguard && cd evalguard
+python3 -m evalguard your_eval.py
+```
+
+## Usage
+
+```bash
+evalguard path/to/eval.py        # single file
+evalguard src/                   # directory (recursive *.py)
+evalguard src/ --format json     # machine-readable, for CI
+evalguard src/ --severity warn   # suppress info-level advice
+```
+
+## Rules (16)
+
+| ID | Sev | Canon | Catches |
+|----|-----|-------|---------|
+| EG002 | blocker | #140 | metric reported with no chance-level baseline |
+| EG006 | blocker | #23 | bare/silent `except` — error swallowed, run looks clean |
+| EG008 | blocker | #139 | recall measured on the corpus the rules came from |
+| EG016 | blocker | #377,#378 | remote call with no status re-check or timestamp |
+| EG001 | warn | #141 | `random.*` / `np.random` with no seed anywhere |
+| EG003 | warn | #142 | decision threshold hard-coded, no sweep |
+| EG004 | warn | #43 | single hard-coded cluster cut-off, no sweep |
+| EG005 | warn | #145,#35 | division with an unguarded denominator |
+| EG007 | warn | #53 | "saved / archived" claimed in a log line, no write call |
+| EG009 | warn | #23 | assigned-never-read variable (dead intervention) |
+| EG011 | warn | #419 | cases can skip, results still compared as group rates |
+| EG012 | warn | #424 | no positive control / no chance-level anchor |
+| EG013 | warn | #40 | ratio reported without absolute count and denominator |
+| EG014 | warn | #125 | value named `fixed`/`const` regenerated inside the loop |
+| EG015 | warn | #421 | multi-axis system reported as one aggregate score |
+| EG010 | info | #147 | one metric family carries the whole conclusion |
+
+## Measured behaviour
+
+Validated against two fixtures, both shipped in `tests/`:
+
+| fixture | blockers | warns | verdict |
+|---|---|---|---|
+| `planted_eval.py` (16 planted defects) | 4 | 11 | **16 / 16 rules fire** |
+| `clean_eval.py` (written to satisfy every rule) | **0** | **0** | 1 info only |
+
+**Zero false positives on clean code.** A linter that fires on every file is a
+linter nobody runs. Both fixtures are in the repo — verify it yourself.
+
+`python3 tests/run_tests.py` → 6/6 (zero-dependency runner; pytest not required).
+
+## Honest numbers: run against its own author's code
+
+```
+core/    3 files   0 blocker   3 warn    (1.00 warn/file)
+tools/  15 files   7 blocker   8 warn    (0.53 warn/file)
+```
+
+The tool is not clean on the repo it came from. The 7 blockers are 5× EG016
+(remote calls without a status re-check) and 2× EG006 (silent `except`) —
+**both real defects in experiment scripts, not lint noise.** Reported as-is.
+
+## Bugs this tool found in itself (v0.2)
+
+Three silent failures, all caught by scanning the canon against the rules:
+
+1. **`re` was never imported.** The comment-stripping fallback raised
+   `NameError` instead of working. (canon #23)
+2. **`" ".join(tokens)` destroyed every dotted name.** `requests.get` became
+   `requests . get`, so **EG016 could never fire on any real remote call**,
+   and every `np.mean` / `json.dump` keyword was dead. The rule looked fine
+   in code review and matched nothing in production. Fixed by preserving
+   token positions with `tokenize.untokenize`.
+3. **Guards written one line earlier were invisible.** `denom = max(n, 1)`
+   then `tp / denom` was flagged as unguarded — a false positive on correct
+   code. Fixed by resolving the denominator at its assignment site.
+
+Bug 2 is the important one: **a rule that never fires is indistinguishable
+from a rule that never needed to fire.** Both look like a clean run.
+
+## Where the canon came from
+
+368 entries. Each carries the experiment that produced it, the measured
+number, and — where one exists — an actionable criterion. 144 are
+directly actionable; 16 of those are executable as static rules today.
+The canon ships free under CC BY 4.0 in `../canon/`.
+
+## Limitations (stated up front)
+
+- **Static only.** It reads source, never runs it. It cannot know whether a
+  metric is *numerically* zero, only that nothing checks.
+- **Heuristic keyword matching on some rules** (EG002, EG007, EG011–EG016).
+  They look for evidence of the right practice, not proof of it.
+- **Python only.** No JS / notebook support yet.
+- **Precision over recall by design.** A missed defect costs you a re-run;
+  a false alarm costs you the tool.
+
+## License
+
+MIT for this tool. The failure-mode canon is CC BY 4.0, attribution KLameng.

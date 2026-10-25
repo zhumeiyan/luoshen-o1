@@ -1,1 +1,40 @@
-aW1wb3J0IGlvLCBjb250ZXh0bGliLCBzeXMKc3lzLnBhdGguaW5zZXJ0KDAsJy4nKQpmcm9tIGRpZ2VzdF9vcmlnIGltcG9ydCBEaWdlc3RpdmVTeXN0ZW0KCmNsYXNzIEJyYWluOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOiBzZWxmLmVuZXJneV9iPTAuMDsgc2VsZi5jaGFpbj1bXQogICAgZGVmIF93cml0ZV9oYXNoKHNlbGYsdCk6IHNlbGYuY2hhaW4uYXBwZW5kKHQpCgpkZWYgcnVuKGh0bWwsbGFiZWwpOgogICAgYj1CcmFpbigpOyBkPURpZ2VzdGl2ZVN5c3RlbShiKQogICAgYnVmPWlvLlN0cmluZ0lPKCkKICAgIHdpdGggY29udGV4dGxpYi5yZWRpcmVjdF9zdGRvdXQoYnVmKToKICAgICAgICBjPWQubW91dGhfY2hldyhodG1sKQogICAgICAgIHYsdz1kLnN0b21hY2hfZGlnZXN0KGMpCiAgICAgICAgZC5pbnRlc3RpbmVfYWJzb3JiKHYpOyBkLmV4Y3JldGUodykKICAgIHJldHVybiBkaWN0KGxhYmVsPWxhYmVsLCBjaHVua3M9bGVuKGMpLCB2YWxpZD1sZW4odiksIHdhc3RlPWxlbih3KSwKICAgICAgICAgICAgICAgIGVuZXJneT1iLmVuZXJneV9iLCBjaGFpbj1sZW4oYi5jaGFpbikpCgpDQVNFUyA9IHsKICJBIOato+W4uOS4reaWhyI6ICI8cD7mt7HluqblrabkuaDmqKHlnovpnIDopoHln7rnur/jgII8L3A+PHA+5YeG56Gu546H5b+F6aG75a+554Wn6ZqP5py644CCPC9wPiIsCiAiQiDoi7Hmlofml6Dlj6Xlj7fjgIIiOiAiPHA+QWNjdXJhY3kgbmVlZHMgYSBiYXNlbGluZTwvcD48cD5SZWNhbGwgbXVzdCBiZSByZXBvcnRlZDwvcD4iLAogIkMg5YWo5Z6D5Zy+IjogIjxwPuW9qeelqDwvcD48cD7pqpflsYA8L3A+PHA+5Lit5aSn5aWWPC9wPiIsCiAiRCDlhYPlhoXlrrko6K6y5Z6D5Zy+5pys6LqrKSI6ICI8cD7mnKzns7vnu5/nlKjkuo7or4bliKvlvannpajpqpflsYDjgII8L3A+PHA+6K+l5qih5Z2X6L+H5ruk6aqX5bGA57G75YaF5a6544CCPC9wPiIsCiAiRSDnqbrovpPlhaUiOiAiIiwKICJGIOe6r+agh+etviI6ICI8ZGl2PjxzcGFuPjwvc3Bhbj48L2Rpdj4iLAp9CgpwcmludCgiPSIqNzIpCmZvciBrLHYgaW4gQ0FTRVMuaXRlbXMoKToKICAgIHI9cnVuKHYsaykKICAgIHByaW50KGYie2s6MjJzfSBjaHVua3M9e3JbJ2NodW5rcyddOjNkfSB2YWxpZD17clsndmFsaWQnXTozZH0gd2FzdGU9e3JbJ3dhc3RlJ106M2R9IGVuZXJneT17clsnZW5lcmd5J106Ny4xZn0gY2hhaW49e3JbJ2NoYWluJ119IikKcHJpbnQoIj0iKjcyKQoKIyDmsLjliqjmnLrmtYvor5XvvJrlkIzkuIDku70gSFRNTCDlj43lpI3lkoDlmrwKYj1CcmFpbigpOyBkPURpZ2VzdGl2ZVN5c3RlbShiKQpmb3IgaSBpbiByYW5nZSgyMCk6CiAgICB3aXRoIGNvbnRleHRsaWIucmVkaXJlY3Rfc3Rkb3V0KGlvLlN0cmluZ0lPKCkpOgogICAgICAgIGM9ZC5tb3V0aF9jaGV3KENBU0VTWyJBIOato+W4uOS4reaWhyJdKTsgdixfPWQuc3RvbWFjaF9kaWdlc3QoYyk7IGQuaW50ZXN0aW5lX2Fic29yYih2KQpwcmludChmIuawuOWKqOacujog5ZCM5LiA5Lu9SFRNTOWWgjIw5qyhIC0+IGVuZXJneT17Yi5lbmVyZ3lfYjouMWZ9ICAo55yf5Luj6LCi5bqU5ruh6Laz5LiN5LqGKSIpCnByaW50KCI9Iio3MikK
+import io, contextlib, sys
+sys.path.insert(0,'.')
+from digest_orig import DigestiveSystem
+
+class Brain:
+    def __init__(self): self.energy_b=0.0; self.chain=[]
+    def _write_hash(self,t): self.chain.append(t)
+
+def run(html,label):
+    b=Brain(); d=DigestiveSystem(b)
+    buf=io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        c=d.mouth_chew(html)
+        v,w=d.stomach_digest(c)
+        d.intestine_absorb(v); d.excrete(w)
+    return dict(label=label, chunks=len(c), valid=len(v), waste=len(w),
+                energy=b.energy_b, chain=len(b.chain))
+
+CASES = {
+ "A 正常中文": "<p>深度学习模型需要基线。</p><p>准确率必须对照随机。</p>",
+ "B 英文无句号。": "<p>Accuracy needs a baseline</p><p>Recall must be reported</p>",
+ "C 全垃圾": "<p>彩票</p><p>骗局</p><p>中大奖</p>",
+ "D 元内容(讲垃圾本身)": "<p>本系统用于识别彩票骗局。</p><p>该模块过滤骗局类内容。</p>",
+ "E 空输入": "",
+ "F 纯标签": "<div><span></span></div>",
+}
+
+print("="*72)
+for k,v in CASES.items():
+    r=run(v,k)
+    print(f"{k:22s} chunks={r['chunks']:3d} valid={r['valid']:3d} waste={r['waste']:3d} energy={r['energy']:7.1f} chain={r['chain']}")
+print("="*72)
+
+# 永动机测试：同一份 HTML 反复咀嚼
+b=Brain(); d=DigestiveSystem(b)
+for i in range(20):
+    with contextlib.redirect_stdout(io.StringIO()):
+        c=d.mouth_chew(CASES["A 正常中文"]); v,_=d.stomach_digest(c); d.intestine_absorb(v)
+print(f"永动机: 同一份HTML喂20次 -> energy={b.energy_b:.1f}  (真代谢应满足不了)")
+print("="*72)

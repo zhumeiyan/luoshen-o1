@@ -1,1 +1,70 @@
-aW1wb3J0IGNvbGxlY3Rpb25zLCBqc29uLCBnbG9iLCBvcywgcmFuZG9tLCB0aW1lCnJhbmRvbS5zZWVkKDExKQoKCmRlZiBhY2NfZm9yX2sodHJhaW4sIHRlc3QsIGssIG5zYW1wbGU9NDAwMCk6CiAgICBtID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoY29sbGVjdGlvbnMuQ291bnRlcikKICAgIGZvciBpIGluIHJhbmdlKGxlbih0cmFpbikgLSBrKToKICAgICAgICBtW3R1cGxlKHRyYWluW2k6aSArIGtdKV1bdHJhaW5baSArIGtdXSArPSAxCiAgICBiYWNrcyA9IFtdCiAgICBmb3IgaiBpbiByYW5nZShrIC0gMSwgMCwgLTEpOgogICAgICAgIGJqID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoY29sbGVjdGlvbnMuQ291bnRlcikKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4odHJhaW4pIC0gaik6CiAgICAgICAgICAgIGJqW3R1cGxlKHRyYWluW2k6aSArIGpdKV1bdHJhaW5baSArIGpdXSArPSAxCiAgICAgICAgYmFja3MuYXBwZW5kKChqLCBiaikpCiAgICB1bmlnID0gY29sbGVjdGlvbnMuQ291bnRlcih0cmFpbikKICAgIHRvcCA9IHVuaWcubW9zdF9jb21tb24oMSlbMF1bMF0KICAgIGlkeCA9IGxpc3QocmFuZ2UobGVuKHRlc3QpIC0gaykpCiAgICBpZiBsZW4oaWR4KSA+IG5zYW1wbGU6CiAgICAgICAgaWR4ID0gcmFuZG9tLnNhbXBsZShpZHgsIG5zYW1wbGUpCiAgICBoaXQgPSAwCiAgICB0b3QgPSAwCiAgICBmb3IgaSBpbiBpZHg6CiAgICAgICAgY3R4ID0gdHVwbGUodGVzdFtpOmkgKyBrXSkKICAgICAgICB0Z3QgPSB0ZXN0W2kgKyBrXQogICAgICAgIHByZWQgPSBOb25lCiAgICAgICAgaWYgY3R4IGluIG0gYW5kIG1bY3R4XToKICAgICAgICAgICAgcHJlZCA9IG1bY3R4XS5tb3N0X2NvbW1vbigxKVswXVswXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGZvciBqLCBiaiBpbiBiYWNrczoKICAgICAgICAgICAgICAgIGMyID0gY3R4Wy1qOl0KICAgICAgICAgICAgICAgIGlmIGMyIGluIGJqIGFuZCBialtjMl06CiAgICAgICAgICAgICAgICAgICAgcHJlZCA9IGJqW2MyXS5tb3N0X2NvbW1vbigxKVswXVswXQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgaWYgcHJlZCBpcyBOb25lOgogICAgICAgICAgICBwcmVkID0gdG9wCiAgICAgICAgaGl0ICs9IChwcmVkID09IHRndCkKICAgICAgICB0b3QgKz0gMQogICAgcmV0dXJuIGhpdCAvIHRvdAoKCmZpbGVzID0gc29ydGVkKGdsb2IuZ2xvYignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5a6e6aqM5oql5ZGKLyoubWQnKSkKYWxsdCA9IFtdCmZvciBmIGluIGZpbGVzOgogICAgYWxsdCArPSBbYyBmb3IgYyBpbiBvcGVuKGYsIGVuY29kaW5nPSd1dGYtOCcsIGVycm9ycz0naWdub3JlJykucmVhZCgpIGlmIGMuc3RyaXAoKV0KcHJpbnQoJ+WQiOW5tuWunumqjOaKpeWRiiBOID0nLCBsZW4oYWxsdCksIGZsdXNoPVRydWUpCgpyZXMgPSB7fQpmb3IgTiBpbiBbMjAwMDAsIDUwMDAwLCAxMDAwMDBdOgogICAgaWYgTiA+IGxlbihhbGx0KToKICAgICAgICBjb250aW51ZQogICAgc3ViID0gYWxsdFs6Tl0KICAgIHRyID0gaW50KE4gKiAwLjgpCiAgICB0cmFpbiA9IHN1Yls6dHJdCiAgICB0ZXN0ID0gc3ViW3RyOl0KICAgIHQwID0gdGltZS50aW1lKCkKICAgIGFjY3MgPSBbYWNjX2Zvcl9rKHRyYWluLCB0ZXN0LCBrKSBmb3IgayBpbiByYW5nZSgxLCA4KV0KICAgIGJhc2UgPSBhY2NzWzBdCiAgICBwZWFrID0gbWF4KGFjY3MpCiAgICBnYWluID0gcGVhayAtIGJhc2UKICAgIG1hcmcgPSBbKGFjY3NbaV0gLSBhY2NzW2kgLSAxXSkgLyBnYWluIGZvciBpIGluIHJhbmdlKDEsIGxlbihhY2NzKSldCiAgICBEID0gW2xlbih7dHVwbGUoc3ViW2k6aSArIGtdKSBmb3IgaSBpbiByYW5nZShsZW4oc3ViKSAtIGsgKyAxKX0pIGZvciBrIGluIHJhbmdlKDEsIDcpXQogICAgciA9IFtEW2ldIC8gRFtpIC0gMV0gZm9yIGkgaW4gcmFuZ2UoMSwgbGVuKEQpKV0KICAgIHJlc1tOXSA9IHsnYWNjJzogYWNjcywgJ2dhaW4nOiBnYWluLCAnbWFyZyc6IG1hcmcsICdyJzogciwgJ0RzYXQnOiBEWy0xXSAvIE59CiAgICBwcmludChmJ049e046N2R9IGdhaW49e2dhaW46LjVmfSDppbHlkoxENi9OPXtEWy0xXS9OOi4zZn0gKHt0aW1lLnRpbWUoKS10MDouMGZ9cyknLCBmbHVzaD1UcnVlKQogICAgcHJpbnQoJyAgIOi+uemZhShrMS0+Mi4uKTonLCAnICcuam9pbihmJ3ttOi40Zn0nIGZvciBtIGluIG1hcmdbOjVdKSwgZmx1c2g9VHJ1ZSkKICAgIHByaW50KCcgICDliIbmlK9yKGs9Mi4uNik6JywgJyAnLmpvaW4oZid7eDouNGZ9JyBmb3IgeCBpbiByKSwgZmx1c2g9VHJ1ZSkKCmpzb24uZHVtcChyZXMsIG9wZW4oJ3NpemUuanNvbicsICd3JykpCnByaW50KCkKcHJpbnQoJ+eQhuiuuiB0cmlib25hY2NpIOi+uemZhTogMC42MTgwIDAuMjIxMSAwLjA4ODMgMC4wMzgyJywgZmx1c2g9VHJ1ZSkK
+import collections, json, glob, os, random, time
+random.seed(11)
+
+
+def acc_for_k(train, test, k, nsample=4000):
+    m = collections.defaultdict(collections.Counter)
+    for i in range(len(train) - k):
+        m[tuple(train[i:i + k])][train[i + k]] += 1
+    backs = []
+    for j in range(k - 1, 0, -1):
+        bj = collections.defaultdict(collections.Counter)
+        for i in range(len(train) - j):
+            bj[tuple(train[i:i + j])][train[i + j]] += 1
+        backs.append((j, bj))
+    unig = collections.Counter(train)
+    top = unig.most_common(1)[0][0]
+    idx = list(range(len(test) - k))
+    if len(idx) > nsample:
+        idx = random.sample(idx, nsample)
+    hit = 0
+    tot = 0
+    for i in idx:
+        ctx = tuple(test[i:i + k])
+        tgt = test[i + k]
+        pred = None
+        if ctx in m and m[ctx]:
+            pred = m[ctx].most_common(1)[0][0]
+        else:
+            for j, bj in backs:
+                c2 = ctx[-j:]
+                if c2 in bj and bj[c2]:
+                    pred = bj[c2].most_common(1)[0][0]
+                    break
+        if pred is None:
+            pred = top
+        hit += (pred == tgt)
+        tot += 1
+    return hit / tot
+
+
+files = sorted(glob.glob('/data/workspace/luoshen-o1/evidence/实验报告/*.md'))
+allt = []
+for f in files:
+    allt += [c for c in open(f, encoding='utf-8', errors='ignore').read() if c.strip()]
+print('合并实验报告 N =', len(allt), flush=True)
+
+res = {}
+for N in [20000, 50000, 100000]:
+    if N > len(allt):
+        continue
+    sub = allt[:N]
+    tr = int(N * 0.8)
+    train = sub[:tr]
+    test = sub[tr:]
+    t0 = time.time()
+    accs = [acc_for_k(train, test, k) for k in range(1, 8)]
+    base = accs[0]
+    peak = max(accs)
+    gain = peak - base
+    marg = [(accs[i] - accs[i - 1]) / gain for i in range(1, len(accs))]
+    D = [len({tuple(sub[i:i + k]) for i in range(len(sub) - k + 1)}) for k in range(1, 7)]
+    r = [D[i] / D[i - 1] for i in range(1, len(D))]
+    res[N] = {'acc': accs, 'gain': gain, 'marg': marg, 'r': r, 'Dsat': D[-1] / N}
+    print(f'N={N:7d} gain={gain:.5f} 饱和D6/N={D[-1]/N:.3f} ({time.time()-t0:.0f}s)', flush=True)
+    print('   边际(k1->2..):', ' '.join(f'{m:.4f}' for m in marg[:5]), flush=True)
+    print('   分支r(k=2..6):', ' '.join(f'{x:.4f}' for x in r), flush=True)
+
+json.dump(res, open('size.json', 'w'))
+print()
+print('理论 tribonacci 边际: 0.6180 0.2211 0.0883 0.0382', flush=True)

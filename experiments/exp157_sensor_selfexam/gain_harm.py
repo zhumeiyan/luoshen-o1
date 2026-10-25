@@ -1,1 +1,80 @@
-IiIiMTU3QiDpq5jngbXmlY/luqbnmoTlrrPlpIQgKyDnpoHmraLooYzliqjpl7jpl6gK55yf5riy5p+TLT7nnJ/lhplmYjAtPuecn+ivu+Wbnjsg5aKe55uKPeWIpOWumumYiOWAvHRhdSjotorkvY7otormlY/mhJ8pCuWZquWjsD3nnJ/lrp7mrafkuYko6LW35aeL5L2N5ae/6ZqP5py6IC0+IOaciS/ml6Dnm67moIfnmoTor7vmlbDliIbluIPnnJ/lrp7ph43lj6ApLCDpnZ7ms6jlhaUK5rWLOiBUUFIgLyBGUFIgLyDliKTlrprppbHlkowgLyDoh6ror4HnjocgOyDlr7nnhac6IOWFgeiuuOihjOWKqCB2cyDnpoHmraLooYzliqgKIiIiCmltcG9ydCBzeXMsIG9zLCB0aW1lLCBqc29uLCBzdGF0aXN0aWNzLCBtYXRoLCByYW5kb20Kc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aCgnLi4vZXhwMTUzX3ZyJykpCmltcG9ydCBudW1weSBhcyBucApmcm9tIHdvcmxkIGltcG9ydCBXb3JsZCwgVywgSCwgU1RSSURFLCBGQl9CWVRFUwoKcmFuZG9tLnNlZWQoMjAyNjEwMTkpOyBucC5yYW5kb20uc2VlZCg3KQpGQj0nL2Rldi9mYjAnCgpkZWYgdG9fZmIocmdiKToKICAgICIiIuaKiihILFcsMynpk7rov5tzdHJpZGU9NDA5NueahEJHUnjluKfnvJPlhrIiIiIKICAgIHJvdz1ucC56ZXJvcygoSCxTVFJJREUpLGR0eXBlPW5wLnVpbnQ4KQogICAgYmdyPXJnYls6LDosOjotMV0KICAgIHJvd1s6LDpXKjNdPWJnci5yZXNoYXBlKEgsVyozKQogICAgcmV0dXJuIHJvdy50b2J5dGVzKCkKCmRlZiBnb2xkX2ZyYWMocmdiKToKICAgICIiIuS8oOaEn+WZqOivu+aVsDog6YeR6Imy5YOP57Sg5Y2g5q+UIChSLEfpq5ggQuS9jikiIiIKICAgIHI9cmdiWzosOiwwXS5hc3R5cGUobnAuaW50MTYpOyBnPXJnYls6LDosMV0uYXN0eXBlKG5wLmludDE2KTsgYj1yZ2JbOiw6LDJdLmFzdHlwZShucC5pbnQxNikKICAgIG09KHI+MTIwKSYoZz45MCkmKGI8ODApJihyLWIpPjYwCiAgICByZXR1cm4gZmxvYXQobS5tZWFuKCkpCgpkZWYgdHJpYWwoaGFzX3RhcmdldCwgdGF1LCBhbGxvd19hY3QsIHN0ZXBzPTMpOgogICAgIiIi5LiA5qyh6K+V6aqMOiDpmo/mnLrkvY3lp78gLT4g6YCQc3RlcOivu+WbnuWIpOWumiAtPiAo5Y+v6YCJKeihjOWKqAogICAg6L+U5ZueICjmnIDnu4jliKTlrposIOivu+aVsOW6j+WIlywg5piv5ZCm6Ieq6K+BLCDmmK/lkKbppbHlkowpIiIiCiAgICB3PVdvcmxkKCkKICAgICMg6ZqP5py65L2N5ae/KOecn+Wunuatp+S5ieadpea6kCkKICAgIHcueD0xLjUrcmFuZG9tLnJhbmRvbSgpKjU7IHcueT0xLjUrcmFuZG9tLnJhbmRvbSgpKjMKICAgIHcuYT1yYW5kb20ucmFuZG9tKCkqMiptYXRoLnBpCiAgICAjIOe7n+S4gDog5peg55uu5qCH5pe25oqK55uu5qCH56e75Yiw5p6B6L+c5aSEKOS7jeWcqOWcsOWbvuWkluS4jeWPr+i+viksIOacieebruagh+aXtuaUvuWbngogICAgaWYgbm90IGhhc190YXJnZXQ6CiAgICAgICAgdy50eCwgdy50eSA9IC01MC4wLCAtNTAuMAogICAgZWxzZToKICAgICAgICB5cyx4cz1ucC53aGVyZShfX2ltcG9ydF9fKCd3b3JsZCcpLkdSSUQ9PTkpOyB3LnR4LHcudHk9ZmxvYXQoeHNbMF0pKy41LGZsb2F0KHlzWzBdKSsuNQogICAgcmVhZHM9W107IHZlcmRpY3RzPVtdCiAgICBmb3IgcyBpbiByYW5nZShzdGVwcyk6CiAgICAgICAgcmdiPXcub2JzZXJ2ZSgpCiAgICAgICAgZGF0YT10b19mYihyZ2IpCiAgICAgICAgd2l0aCBvcGVuKEZCLCd3YicpIGFzIGY6IGYud3JpdGUoZGF0YSkKICAgICAgICB3aXRoIG9wZW4oRkIsJ3JiJykgYXMgZjogYmFjaz1mLnJlYWQoRkJfQllURVMpICAgIyDnnJ/or7vlm54KICAgICAgICBhc3NlcnQgbGVuKGJhY2spPT1GQl9CWVRFUwogICAgICAgIGFycj1ucC5mcm9tYnVmZmVyKGJhY2ssZHR5cGU9bnAudWludDgpLnJlc2hhcGUoSCxTVFJJREUpCiAgICAgICAgIyDku47or7vlm57nmoTluKfnvJPlhrLov5jljp/or7vmlbAo5LiO5YaZ5YmN5q+U6L6DLCDpqozor4Hpk77ot68pCiAgICAgICAgcjI9YXJyWzosOlcqM10ucmVzaGFwZShILFcsMylbOiw6LDo6LTFdCiAgICAgICAgdj1nb2xkX2ZyYWMocjIpCiAgICAgICAgcmVhZHMuYXBwZW5kKHYpCiAgICAgICAgdmVyZGljdHMuYXBwZW5kKDEgaWYgdj50YXUgZWxzZSAwKQogICAgICAgIGlmIHZlcmRpY3RzWy0xXT09MSBhbmQgYWxsb3dfYWN0OgogICAgICAgICAgICB3LnN0ZXAoMSkgICAgICMg5Yik5a6a5pyJ55uu5qCHIC0+IOecn+eahOi1sOi/h+WOuwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHcuc3RlcCgwKQogICAgIyDoh6ror4E6IOaXoOebruagh+WNtOi/nue7reWIpCLmnIkiICjplJnor6/kv6Hlv7Xlm7rljJYpCiAgICBzZWxmY29uZmlybSA9IDEgaWYgKG5vdCBoYXNfdGFyZ2V0IGFuZCBzdW0odmVyZGljdHMpPj0yKSBlbHNlIDAKICAgIHNhdHVyYXRlID0gMSBpZiBzdW0odmVyZGljdHMpPT1zdGVwcyBlbHNlIDAKICAgIHJldHVybiB2ZXJkaWN0c1stMV0sIHJlYWRzLCBzZWxmY29uZmlybSwgc2F0dXJhdGUKClRBVVM9WzAuMDIwLCAwLjAxMCwgMC4wMDUsIDAuMDAyLCAwLjAwMDVdCk09OApvdXQ9e30KcHJpbnQoIj09PSAxNTdCIOaJq+WinuebiiAodGF16LaK5L2OPei2iuaVj+aEnykgPT09IikKcHJpbnQoIiUtOHMgJS02cyB8ICUtNnMgJS02cyB8ICUtN3MgJS03cyIgJSAoInRhdSIsIuaooeW8jyIsIlRQUiIsIkZQUiIsIuiHquivgeeOhyIsIumlseWSjOeOhyIpKQpmb3IgdGF1IGluIFRBVVM6CiAgICBmb3IgYWxsb3cgaW4gKFRydWUsRmFsc2UpOgogICAgICAgIHRwPVtdO2ZwPVtdO3NjPVtdO3N0PVtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTSk6CiAgICAgICAgICAgIGZvciBoYXMgaW4gKFRydWUsRmFsc2UpOgogICAgICAgICAgICAgICAgdixyZCxzLHNhID0gdHJpYWwoaGFzLCB0YXUsIGFsbG93KQogICAgICAgICAgICAgICAgKHRwIGlmIGhhcyBlbHNlIGZwKS5hcHBlbmQodikKICAgICAgICAgICAgICAgIGlmIG5vdCBoYXM6IHNjLmFwcGVuZChzKTsgc3QuYXBwZW5kKHNhKQogICAgICAgIHRwcj1zdGF0aXN0aWNzLm1lYW4odHApOyBmcHI9c3RhdGlzdGljcy5tZWFuKGZwKQogICAgICAgIHNjcj1zdGF0aXN0aWNzLm1lYW4oc2MpOyBzdHJfPXN0YXRpc3RpY3MubWVhbihzdCkKICAgICAgICBvdXRbIiUuNGZfJXMiJSh0YXUsJ2FjdCcgaWYgYWxsb3cgZWxzZSAnZnJlZXplJyldPWRpY3QoCiAgICAgICAgICAgIHRwcj10cHIsZnByPWZwcixzZWxmY29uZmlybT1zY3Isc2F0dXJhdGU9c3RyXykKICAgICAgICBwcmludCgiJS04cyAlLTZzIHwgJS02LjNmICUtNi4zZiB8ICUtNy4zZiAlLTcuM2YiICUgKAogICAgICAgICAgICB0YXUsICfooYzliqgnIGlmIGFsbG93IGVsc2UgJ+emgeihjCcsIHRwcixmcHIsc2NyLHN0cl8pKQpqc29uLmR1bXAob3V0LCBvcGVuKCJnYWluX2hhcm0uanNvbiIsInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+"""157B 高灵敏度的害处 + 禁止行动闸门
+真渲染->真写fb0->真读回; 增益=判定阈值tau(越低越敏感)
+噪声=真实歧义(起始位姿随机 -> 有/无目标的读数分布真实重叠), 非注入
+测: TPR / FPR / 判定饱和 / 自证率 ; 对照: 允许行动 vs 禁止行动
+"""
+import sys, os, time, json, statistics, math, random
+sys.path.insert(0, os.path.abspath('../exp153_vr'))
+import numpy as np
+from world import World, W, H, STRIDE, FB_BYTES
+
+random.seed(20261019); np.random.seed(7)
+FB='/dev/fb0'
+
+def to_fb(rgb):
+    """把(H,W,3)铺进stride=4096的BGRx帧缓冲"""
+    row=np.zeros((H,STRIDE),dtype=np.uint8)
+    bgr=rgb[:,:,::-1]
+    row[:,:W*3]=bgr.reshape(H,W*3)
+    return row.tobytes()
+
+def gold_frac(rgb):
+    """传感器读数: 金色像素占比 (R,G高 B低)"""
+    r=rgb[:,:,0].astype(np.int16); g=rgb[:,:,1].astype(np.int16); b=rgb[:,:,2].astype(np.int16)
+    m=(r>120)&(g>90)&(b<80)&(r-b)>60
+    return float(m.mean())
+
+def trial(has_target, tau, allow_act, steps=3):
+    """一次试验: 随机位姿 -> 逐step读回判定 -> (可选)行动
+    返回 (最终判定, 读数序列, 是否自证, 是否饱和)"""
+    w=World()
+    # 随机位姿(真实歧义来源)
+    w.x=1.5+random.random()*5; w.y=1.5+random.random()*3
+    w.a=random.random()*2*math.pi
+    # 统一: 无目标时把目标移到极远处(仍在地图外不可达), 有目标时放回
+    if not has_target:
+        w.tx, w.ty = -50.0, -50.0
+    else:
+        ys,xs=np.where(__import__('world').GRID==9); w.tx,w.ty=float(xs[0])+.5,float(ys[0])+.5
+    reads=[]; verdicts=[]
+    for s in range(steps):
+        rgb=w.observe()
+        data=to_fb(rgb)
+        with open(FB,'wb') as f: f.write(data)
+        with open(FB,'rb') as f: back=f.read(FB_BYTES)   # 真读回
+        assert len(back)==FB_BYTES
+        arr=np.frombuffer(back,dtype=np.uint8).reshape(H,STRIDE)
+        # 从读回的帧缓冲还原读数(与写前比较, 验证链路)
+        r2=arr[:,:W*3].reshape(H,W,3)[:,:,::-1]
+        v=gold_frac(r2)
+        reads.append(v)
+        verdicts.append(1 if v>tau else 0)
+        if verdicts[-1]==1 and allow_act:
+            w.step(1)     # 判定有目标 -> 真的走过去
+        else:
+            w.step(0)
+    # 自证: 无目标却连续判"有" (错误信念固化)
+    selfconfirm = 1 if (not has_target and sum(verdicts)>=2) else 0
+    saturate = 1 if sum(verdicts)==steps else 0
+    return verdicts[-1], reads, selfconfirm, saturate
+
+TAUS=[0.020, 0.010, 0.005, 0.002, 0.0005]
+M=8
+out={}
+print("=== 157B 扫增益 (tau越低=越敏感) ===")
+print("%-8s %-6s | %-6s %-6s | %-7s %-7s" % ("tau","模式","TPR","FPR","自证率","饱和率"))
+for tau in TAUS:
+    for allow in (True,False):
+        tp=[];fp=[];sc=[];st=[]
+        for i in range(M):
+            for has in (True,False):
+                v,rd,s,sa = trial(has, tau, allow)
+                (tp if has else fp).append(v)
+                if not has: sc.append(s); st.append(sa)
+        tpr=statistics.mean(tp); fpr=statistics.mean(fp)
+        scr=statistics.mean(sc); str_=statistics.mean(st)
+        out["%.4f_%s"%(tau,'act' if allow else 'freeze')]=dict(
+            tpr=tpr,fpr=fpr,selfconfirm=scr,saturate=str_)
+        print("%-8s %-6s | %-6.3f %-6.3f | %-7.3f %-7.3f" % (
+            tau, '行动' if allow else '禁行', tpr,fpr,scr,str_))
+json.dump(out, open("gain_harm.json","w"), ensure_ascii=False, indent=1)

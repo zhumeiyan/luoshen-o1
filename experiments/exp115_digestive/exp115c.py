@@ -1,1 +1,45 @@
-IiIi6K6w5b+G6LSo6YeP5a+554Wn77yadjEg5LiOIHYyIOWWguWQjOagt+eahOmjn+eJqe+8jOavlOiusOW/humTvumHjOacieWkmuWwkeaYr+ecn8K35paw5p2h55uuIiIiCmltcG9ydCBzeXMsIGlvLCBjb250ZXh0bGliLCBoYXNobGliCmltcG9ydCBudW1weSBhcyBucApzeXMucGF0aC5pbnNlcnQoMCwnLicpCmZyb20gZGlnZXN0X29yaWcgaW1wb3J0IERpZ2VzdGl2ZVN5c3RlbSBhcyBEU3YxCmltcG9ydCBkaWdlc3RfdjIgYXMgVjIKZnJvbSBkaWdlc3RfdjIgaW1wb3J0IEJyYWluCgojIOWQjOS4gOaJuemjn+eJqe+8jOmHjeWkjeaKlemAku+8iOaooeaLn+ecn+Wunu+8muS/oeaBr+a6kOWPjeWkjeaOqOmAgeebuOWQjOWGheWuue+8iQpGT09EPVtmIjxwPntifeOAgjwvcD4iIGZvciBiIGluIFsi5qih5Z6L6ZyA6KaB5Z+657q/Iiwi5YeG56Gu546H5a+554Wn6ZqP5py6Iiwi5aSW6YOo6YCa6YGT6KaB5aSN5rWLIl1dKjEwCgpkZWYgbWVhc3VyZShtb2RlLCBuX2ZlZWQ9MzApOgogICAgYj1CcmFpbihlbmVyZ3k9MTAwLjApCiAgICBEUyA9IERTdjEoYikgaWYgbW9kZT09InYxIiBlbHNlIERTdjJjZmcoYikKICAgIGZvciBpIGluIHJhbmdlKG5fZmVlZCk6CiAgICAgICAgd2l0aCBjb250ZXh0bGliLnJlZGlyZWN0X3N0ZG91dChpby5TdHJpbmdJTygpKToKICAgICAgICAgICAgYz1EUy5tb3V0aF9jaGV3KEZPT0RbaSVsZW4oRk9PRCldKTsgdix3PURTLnN0b21hY2hfZGlnZXN0KGMpOyBEUy5pbnRlc3RpbmVfYWJzb3JiKHYpOyBEUy5leGNyZXRlKHcpCiAgICBjaGFpbj1iLmNoYWluCiAgICB1bmlxPWxlbihzZXQoY2hhaW4pKQogICAgcmV0dXJuIGRpY3QobW9kZT1tb2RlLCBjaGFpbj1sZW4oY2hhaW4pLCB1bmlxdWU9dW5pcSwKICAgICAgICAgICAgICAgIGR1cF9yYXRlPTEtdW5pcS9tYXgobGVuKGNoYWluKSwxKSwgZW5lcmd5PWIuZW5lcmd5X2IpCgpjbGFzcyBEU3YyY2ZnKFYyLkRpZ2VzdGl2ZVN5c3RlbSk6CiAgICBkZWYgaW50ZXN0aW5lX2Fic29yYihzZWxmLCB2YWxpZCk6CiAgICAgICAgbj0wCiAgICAgICAgZm9yIGYgaW4gdmFsaWQ6CiAgICAgICAgICAgIHNlbGYuX2J1cm4oc2VsZi5DT1NUWyJhYnNvcmJfcGVyX2l0ZW0iXSwi5ZC45pS2IikKICAgICAgICAgICAgaD1oYXNobGliLnNoYTI1NihmIuWQuOaUtuaDheaKpToge2Z9Ii5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjE2XQogICAgICAgICAgICBpZiBoIGluIHNlbGYuYnJhaW4uc2VlbjogY29udGludWUgICAgICAgICAgIyDkv646IOmHjeWkjeS4jeWFpemTvgogICAgICAgICAgICBzZWxmLmJyYWluLl93cml0ZV9oYXNoKGYi5ZC45pS25oOF5oqlOiB7Zn0iKQogICAgICAgICAgICByb29tPW1pbihzZWxmLkdBSU4sIHNlbGYuYnJhaW4uY2FwLXNlbGYuYnJhaW4uZW5lcmd5X2IpCiAgICAgICAgICAgIGlmIHJvb20+MDogc2VsZi5icmFpbi5lbmVyZ3lfYis9cm9vbTsgbis9MQogICAgICAgIHJldHVybiBuCgppZiBfX25hbWVfXz09Il9fbWFpbl9fIjoKICAgIHByaW50KCI9Iio3NikKICAgIHByaW50KCLlkIzkuIDmibnpo5/nianmipXpgJIgMzAg5qyh77yI55yf5a6e5Zy65pmv77ya5L+h5oGv5rqQ5Y+N5aSN5o6o55u45ZCM5YaF5a6577yJIikKICAgIHByaW50KCI9Iio3NikKICAgIHByaW50KGYieycnOjZzfSB7J+iusOW/humTvumVv+W6pic6PjEwc30geyfni6znibnmnaHnm64nOj45c30geyfph43lpI3njocnOj44c30geyfog73ph48nOj45c30iKQogICAgcHJpbnQoIi0iKjc2KQogICAgZm9yIG0gaW4gWyJ2MSIsInYyIl06CiAgICAgICAgcj1tZWFzdXJlKG0pCiAgICAgICAgcHJpbnQoZiJ7bTo2c30ge3JbJ2NoYWluJ106MTBkfSB7clsndW5pcXVlJ106OWR9IHtyWydkdXBfcmF0ZSddKjEwMDo3LjFmfSUge3JbJ2VuZXJneSddOjkuMWZ9IikKICAgIHByaW50KCI9Iio3NikKICAgIHByaW50KCLliKTmja46IOS4jeWPr+mAhuiusOW/humTvuW6lOWPquWinuaWsOS6i+WunuOAgnYxIOeahOmTvuiiq+mHjeWkjeWGmea7oSAtPiDorrDlv4bmsaHmn5MiKQo=
+"""记忆质量对照：v1 与 v2 喂同样的食物，比记忆链里有多少是真·新条目"""
+import sys, io, contextlib, hashlib
+import numpy as np
+sys.path.insert(0,'.')
+from digest_orig import DigestiveSystem as DSv1
+import digest_v2 as V2
+from digest_v2 import Brain
+
+# 同一批食物，重复投递（模拟真实：信息源反复推送相同内容）
+FOOD=[f"<p>{b}。</p>" for b in ["模型需要基线","准确率对照随机","外部通道要复测"]]*10
+
+def measure(mode, n_feed=30):
+    b=Brain(energy=100.0)
+    DS = DSv1(b) if mode=="v1" else DSv2cfg(b)
+    for i in range(n_feed):
+        with contextlib.redirect_stdout(io.StringIO()):
+            c=DS.mouth_chew(FOOD[i%len(FOOD)]); v,w=DS.stomach_digest(c); DS.intestine_absorb(v); DS.excrete(w)
+    chain=b.chain
+    uniq=len(set(chain))
+    return dict(mode=mode, chain=len(chain), unique=uniq,
+                dup_rate=1-uniq/max(len(chain),1), energy=b.energy_b)
+
+class DSv2cfg(V2.DigestiveSystem):
+    def intestine_absorb(self, valid):
+        n=0
+        for f in valid:
+            self._burn(self.COST["absorb_per_item"],"吸收")
+            h=hashlib.sha256(f"吸收情报: {f}".encode()).hexdigest()[:16]
+            if h in self.brain.seen: continue          # 修: 重复不入链
+            self.brain._write_hash(f"吸收情报: {f}")
+            room=min(self.GAIN, self.brain.cap-self.brain.energy_b)
+            if room>0: self.brain.energy_b+=room; n+=1
+        return n
+
+if __name__=="__main__":
+    print("="*76)
+    print("同一批食物投递 30 次（真实场景：信息源反复推相同内容）")
+    print("="*76)
+    print(f"{'':6s} {'记忆链长度':>10s} {'独特条目':>9s} {'重复率':>8s} {'能量':>9s}")
+    print("-"*76)
+    for m in ["v1","v2"]:
+        r=measure(m)
+        print(f"{m:6s} {r['chain']:10d} {r['unique']:9d} {r['dup_rate']*100:7.1f}% {r['energy']:9.1f}")
+    print("="*76)
+    print("判据: 不可逆记忆链应只增新事实。v1 的链被重复写满 -> 记忆污染")

@@ -1,1 +1,152 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMDcxYiDCtyDlhazlubPmgKfmo4DpqozvvJo0LjgzJSDmmK/lvJXmk47nmoTplIXvvIzov5jmmK/lnZDmoIflupPnpLrkvovmnKzouqvkuI3lhbfor4rmlq3mgKfvvJ8KICAgKyDlkIzkuIDmiorlsLrlrZDph4/miJHku6zoh6rlt7HvvIjliKTmja7moLggMjA5IOadoeeahOWPr+ivgeS8quavlOS+iyAvIOi/kemHjeWkjeeOh++8iQoiIiIKaW1wb3J0IGpzb24sIG9zLCBzeXMsIHJlLCByYW5kb20KZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKClRBQ1QgPSAiL2RhdGEvd29ya3NwYWNlL3RhY3RfcmVhbCIKUk5HID0gcmFuZG9tLlJhbmRvbSgyMDI2MTAxNikKCmRlZiBncmFtcyhzLCBuPTMpOgogICAgcyA9IHJlLnN1YihyIltcc++8jOOAguOAge+8m++8mu+8iO+8iSgp44CQ44CRXCIn4oCc4oCdwrcsLjs6IT/vvIHvvJ9dKyIsICIiLCBzKQogICAgcmV0dXJuIHNldChzW2k6aStuXSBmb3IgaSBpbiByYW5nZShsZW4ocyktbisxKSkKCiMgLS0tLSDoo4Xovb0gLS0tLQpkID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKFRBQ1QsICJjb29yZGluYXRlX2RhdGEuanNvbiIpLCBlbmNvZGluZz0idXRmLTgiKSkKZXggPSB7fSAgICMgY29kZSAtPiBbdGV4dC4uLl0KbmFtZSA9IHt9CmZvciBjIGluIGRbIkwiXToKICAgIG5hbWVbY1siY29kZSJdXSA9IGNbIm5hbWUiXQpmb3IgZyBpbiBkWyJNX2dyb3VwcyJdOgogICAgbmFtZVtnWyJjb2RlIl1dID0gZ1sibmFtZSJdCiAgICBmb3IgbyBpbiBnWyJvcHRzIl06CiAgICAgICAgbmFtZVtvWyJjb2RlIl1dID0gb1sibmFtZSJdOyBleFtvWyJjb2RlIl1dID0gW3BbMF0gZm9yIHAgaW4gby5nZXQoInBhaXJzIiwgW10pXQpmb3IgZyBpbiBkWyJQX2dyb3VwcyJdOgogICAgbmFtZVtnWyJjb2RlIl1dID0gZ1sibmFtZSJdCiAgICBmb3IgbyBpbiBnWyJvcHRzIl06CiAgICAgICAgbmFtZVtvWyJjb2RlIl1dID0gb1sibmFtZSJdOyBleFtvWyJjb2RlIl1dID0gW3BbMF0gZm9yIHAgaW4gby5nZXQoInBhaXJzIiwgW10pXQpjb2RlcyA9IHNvcnRlZChleCkKcHJpbnQoZiLlnZDmoIcge2xlbihjb2Rlcyl9ICDnpLrkvosge3N1bShsZW4odikgZm9yIHYgaW4gZXgudmFsdWVzKCkpfSIpCgojIC0tLS0gMS4gTE9PIOacgOi/kemCuyBvcmFjbGXvvIjnpLrkvovmnKzouqvmmK/lkKbkupLnm7jlj6/ljLrliIbvvIktLS0tCmFsbGl0ZW1zID0gWyhjLCB0KSBmb3IgYyBpbiBjb2RlcyBmb3IgdCBpbiBleFtjXV0KRyA9IHtpOiBncmFtcyh0KSBmb3IgaSwgKGMsIHQpIGluIGVudW1lcmF0ZShhbGxpdGVtcyl9CmRlZiBqYWMoYSwgYik6CiAgICBpZiBub3QgYSBvciBub3QgYjogcmV0dXJuIDAuMAogICAgcmV0dXJuIGxlbihhICYgYikgLyBsZW4oYSB8IGIpCm5uX2V4YWN0ID0gbm5fZ3JvdXAgPSAwCmZvciBpLCAoYywgdCkgaW4gZW51bWVyYXRlKGFsbGl0ZW1zKToKICAgIGJlc3QsIGJzID0gTm9uZSwgLTEKICAgIGZvciBqLCAoYzIsIHQyKSBpbiBlbnVtZXJhdGUoYWxsaXRlbXMpOgogICAgICAgIGlmIGkgPT0gajogY29udGludWUKICAgICAgICBzID0gamFjKEdbaV0sIEdbal0pCiAgICAgICAgaWYgcyA+IGJzOiBicywgYmVzdCA9IHMsIGMyCiAgICBpZiBiZXN0ID09IGM6IG5uX2V4YWN0ICs9IDEKICAgIGlmIGJlc3Quc3BsaXQoIi0iKVswXSA9PSBjLnNwbGl0KCItIilbMF06IG5uX2dyb3VwICs9IDEKbiA9IGxlbihhbGxpdGVtcykKcHJpbnQoZiJcbltPcmFjbGUtMV0gTE9PIOacgOi/kemCu++8iOeUqOW6k+iHquW3seeahOekuuS+i+S6kuebuOajgOe0ou+8iSIpCnByaW50KGYiICDnsr7noa4ge25uX2V4YWN0fS97bn0gPSB7bm5fZXhhY3QvbioxMDA6LjJmfSUgICDnu4Tnuqcge25uX2dyb3VwL24qMTAwOi4yZn0lIikKCiMg6ZqP5py65Z+657q/CnJiX2UgPSByYl9nID0gMApmb3IgXyBpbiByYW5nZSgyMDApOgogICAgaGl0cyA9IHN1bSgxIGZvciBjLCB0IGluIGFsbGl0ZW1zCiAgICAgICAgICAgICAgIGlmIFJORy5jaG9pY2UoY29kZXMpID09IGMpCiAgICByYl9lICs9IGhpdHMgLyBuCnByaW50KGYiICDpmo/mnLrln7rnur8o57K+56GuKSDiiYgge3JiX2UvMjAwKjEwMDouMmZ9JSIpCgojIC0tLS0gMi4gTE9PIOivjeaxhyBvcmFjbGXvvJrnlKjlkIzlnZDmoIflhbbku5bnpLrkvovlu7ror43ooajvvIzliKTnlZnlh7rnmoTpgqPmnaEgLS0tLQpkZWYgdG9rcyhzKToKICAgIHJldHVybiBzZXQocmUuZmluZGFsbChyIltcdTRlMDAtXHU5ZmZmXXsyLDZ9fFthLXpBLVpdezIsfSIsIHMpKQp2b2NhYl9leGFjdCA9IHZvY2FiX2dyb3VwID0gMApmb3IgYyBpbiBjb2RlczoKICAgIFQgPSBleFtjXQogICAgZm9yIGsgaW4gcmFuZ2UobGVuKFQpKToKICAgICAgICBoZWxkID0gVFtrXQogICAgICAgIGh2ID0gdG9rcyhoZWxkKQogICAgICAgIGJlc3QsIGJzID0gTm9uZSwgLTEKICAgICAgICBmb3IgYzIgaW4gY29kZXM6CiAgICAgICAgICAgIHYgPSBzZXQoKQogICAgICAgICAgICBmb3IgaiwgdDIgaW4gZW51bWVyYXRlKGV4W2MyXSk6CiAgICAgICAgICAgICAgICBpZiBjMiA9PSBjIGFuZCBqID09IGs6IGNvbnRpbnVlCiAgICAgICAgICAgICAgICB2IHw9IHRva3ModDIpCiAgICAgICAgICAgIHMgPSBsZW4oaHYgJiB2KSAvIG1heCgxLCBsZW4oaHYpKQogICAgICAgICAgICBpZiBzID4gYnM6IGJzLCBiZXN0ID0gcywgYzIKICAgICAgICBpZiBiZXN0ID09IGM6IHZvY2FiX2V4YWN0ICs9IDEKICAgICAgICBpZiBiZXN0IGFuZCBiZXN0LnNwbGl0KCItIilbMF0gPT0gYy5zcGxpdCgiLSIpWzBdOiB2b2NhYl9ncm91cCArPSAxCnByaW50KGYiXG5bT3JhY2xlLTJdIExPTyDor43msYfooajvvIjnlKjlkIzlnZDmoIflhbbkvZnnpLrkvovlgZror43ooajvvIkiKQpwcmludChmIiAg57K+56GuIHt2b2NhYl9leGFjdH0ve259ID0ge3ZvY2FiX2V4YWN0L24qMTAwOi4yZn0lICAg57uE57qnIHt2b2NhYl9ncm91cC9uKjEwMDouMmZ9JSIpCgojIC0tLS0gMy4g6Iul5oqK5YWz6ZSu6K+N5pS55oiQIuS7juW6k+ekuuS+i+WtpiLvvIzog73liLDlpJrlsJHvvIjlvJXmk47kuIrpmZDvvIktLS0tCmRlZiBsZWFybl9rZXl3b3Jkcyh0cmFpbl9mcmFjPTEuMCk6CiAgICAiIiLmr4/kuKrlnZDmoIflj5bliY0gY2VpbCh0cmFpbl9mcmFjKmxlbikg5p2h5YGa6K+N6KGo77yM5rWL5YW25L2ZIiIiCiAgICBoaXQgPSB0b3QgPSAwCiAgICBwZXIgPSB7fQogICAgZm9yIGMgaW4gY29kZXM6CiAgICAgICAgVCA9IGV4W2NdCiAgICAgICAgayA9IG1heCgxLCBpbnQobGVuKFQpICogdHJhaW5fZnJhYykpIGlmIHRyYWluX2ZyYWMgPCAxIGVsc2UgbGVuKFQpCiAgICAgICAgdHJfdiA9IHNldCgpCiAgICAgICAgZm9yIHQgaW4gVFs6a106IHRyX3YgfD0gdG9rcyh0KQogICAgICAgIGlmIG5vdCB0cl92OiBjb250aW51ZQogICAgICAgIGZvciB0IGluIFRbazpdOgogICAgICAgICAgICB0b3QgKz0gMQogICAgICAgICAgICB0diA9IHRva3ModCkKICAgICAgICAgICAgYmVzdCwgYnMgPSBOb25lLCAtMQogICAgICAgICAgICBmb3IgYzIgaW4gY29kZXM6CiAgICAgICAgICAgICAgICB2MiA9IHNldCgpCiAgICAgICAgICAgICAgICBmb3IgdDIgaW4gZXhbYzJdWzprXTogdjIgfD0gdG9rcyh0MikKICAgICAgICAgICAgICAgIGlmIG5vdCB2MjogY29udGludWUKICAgICAgICAgICAgICAgIHMgPSBsZW4odHYgJiB2MikgLyBtYXgoMSwgbGVuKHR2IHwgdjIpKQogICAgICAgICAgICAgICAgaWYgcyA+IGJzOiBicywgYmVzdCA9IHMsIGMyCiAgICAgICAgICAgIGlmIGJlc3QgPT0gYzogaGl0ICs9IDEKICAgIHJldHVybiBoaXQsIHRvdApoLCB0ID0gbGVhcm5fa2V5d29yZHMoMC42KQpwcmludChmIlxuW09yYWNsZS0zXSDku47lupPnpLrkvovlrabor43ooajvvIg2MCUg6K6tIC8gNDAlIOa1i++8jOS7heWQjOWdkOagh+WGheWIh+WIhu+8iSIpCnByaW50KGYiICDnsr7noa4ge2h9L3t0fSA9IHtoL3QqMTAwOi4yZn0lIiBpZiB0IGVsc2UgIiAgbi9hIikKCiMgLS0tLSA0LiDlkIzkuIDmiorlsLrlrZDph4/miJHku6zoh6rlt7EgLS0tLQpLID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V2aWRlbmNlL+Wksei0peaooeW8j+W6ky/liKTmja7moLgubWQiCnR4dCA9IG9wZW4oSywgZW5jb2Rpbmc9InV0Zi04IikucmVhZCgpCmVudHMgPSByZS5maW5kYWxsKHIiXiN7Miw0fVxzKlwqezAsMn3nrKxccyooXGQrKVxzKuadoVteXG5dKlxuKC4qPykoPz1eI3syLDR9XHMqXCp7MCwyfeesrFxzKlxkK1xzKuadoXxcWikiLAogICAgICAgICAgICAgICAgICB0eHQsIHJlLk0gfCByZS5TKQpwcmludChmIlxuW+iHquWuoV0g5Yik5o2u5qC45p2h55uu6Kej5p6Q5YiwIHtsZW4oZW50cyl9IOadoSIpCmZhbHNpZmlhYmxlID0gMApkZXRhaWwgPSBbXQpmb3IgZWlkLCBib2R5IGluIGVudHM6CiAgICBoYXNfZXhwID0gYm9vbChyZS5zZWFyY2gociJcYigwXGRcZHwxXGRcZHwyXGRcZClcYiIsIGJvZHkpKSBvciBcCiAgICAgICAgICAgICAgYm9vbChyZS5zZWFyY2gociJleHBcZCtcLnB5fHJlc3VsdF9cZCt8XC5qc29uIiwgYm9keSkpCiAgICBoYXNfbnVtID0gYm9vbChyZS5zZWFyY2gociJbLStdP1xkK1wuXGR7Mix9IiwgYm9keSkpCiAgICBpZiBoYXNfZXhwIG9yIGhhc19udW06IGZhbHNpZmlhYmxlICs9IDEKICAgIGRldGFpbC5hcHBlbmQoZGljdChpZD1pbnQoZWlkKSwgaGFzX2V4cD1oYXNfZXhwLCBoYXNfbnVtPWhhc19udW0pKQppZiBlbnRzOgogICAgcHJpbnQoZiIgIOWPr+ivgeS8qu+8iOe7keWumuWunumqjOe8luWPt+aIluWPr+i/kOihjOS6p+eJqS/lkKvlrp7mtYvmlbDlgLzvvIk6ICIKICAgICAgICAgIGYie2ZhbHNpZmlhYmxlfS97bGVuKGVudHMpfSA9IHtmYWxzaWZpYWJsZS9sZW4oZW50cykqMTAwOi4xZn0lIikKICAgIHByaW50KGYiICDlkKvlrp7mtYvmlbDlgLwo4omlMuS9jeWwj+aVsCk6ICIKICAgICAgICAgIGYie3N1bSgxIGZvciB4IGluIGRldGFpbCBpZiB4WydoYXNfbnVtJ10pfS97bGVuKGVudHMpfSA9ICIKICAgICAgICAgIGYie3N1bSgxIGZvciB4IGluIGRldGFpbCBpZiB4WydoYXNfbnVtJ10pL2xlbihlbnRzKSoxMDA6LjFmfSUiKQoKIyDov5Hph43lpI3vvIjkuI4gVEFDVCDlkIzms5XvvJpjaGFyLTNncmFtIEphY2NhcmQgPj0gMC4177yJCkdrID0gWyhpbnQoZWlkKSwgZ3JhbXMocmUuc3ViKHIiXiN7Miw0fVxzKiIsICIiLCBib2R5KVs6NjAwXSkpIGZvciBlaWQsIGJvZHkgaW4gZW50c10KcGFpcnMgPSAwOyB0b3RhbCA9IDAKZm9yIGkgaW4gcmFuZ2UobGVuKEdrKSk6CiAgICBmb3IgaiBpbiByYW5nZShpKzEsIGxlbihHaykpOgogICAgICAgIHRvdGFsICs9IDEKICAgICAgICBpZiBqYWMoR2tbaV1bMV0sIEdrW2pdWzFdKSA+PSAwLjU6IHBhaXJzICs9IDEKcHJpbnQoZiIgIOi/kemHjeWkjeWvuShKYWNjYXJkPj0wLjUpOiB7cGFpcnN9L3t0b3RhbH0gPSB7cGFpcnMvbWF4KDEsdG90YWwpKjEwMDouMmZ9JSIpCgpvdXQgPSBkaWN0KAogIG9yYWNsZV9ubj1kaWN0KGV4YWN0PW5uX2V4YWN0L24sIGdyb3VwPW5uX2dyb3VwL24sIG49biwgcmFuZG9tX2V4YWN0PXJiX2UvMjAwKSwKICBvcmFjbGVfdm9jYWI9ZGljdChleGFjdD12b2NhYl9leGFjdC9uLCBncm91cD12b2NhYl9ncm91cC9uLCBuPW4pLAogIG9yYWNsZV9sZWFybj1kaWN0KGhpdD1oLCB0b3Q9dCksCiAgc2VsZl9hdWRpdD1kaWN0KG49bGVuKGVudHMpLCBmYWxzaWZpYWJsZT1mYWxzaWZpYWJsZSwKICAgICAgICAgICAgICAgICAgZnJhYz1mYWxzaWZpYWJsZS9sZW4oZW50cykgaWYgZW50cyBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICAgIHdpdGhfbnVtYmVyPXN1bSgxIGZvciB4IGluIGRldGFpbCBpZiB4WydoYXNfbnVtJ10pLAogICAgICAgICAgICAgICAgICBuZWFyZHVwX3BhaXJzPXBhaXJzLCBuZWFyZHVwX3RvdGFsPXRvdGFsLAogICAgICAgICAgICAgICAgICBuZWFyZHVwX2ZyYWM9cGFpcnMvbWF4KDEsdG90YWwpKSwKKQpqc29uLmR1bXAob3V0LCBvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9yZXN1bHRfMDcxYi5qc29uIiwidyIsZW5jb2Rpbmc9InV0Zi04IiksCiAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQpwcmludCgiXG7lt7LlhpkgcmVzdWx0XzA3MWIuanNvbiIpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+071b · 公平性检验：4.83% 是引擎的锅，还是坐标库示例本身不具诊断性？
+   + 同一把尺子量我们自己（判据核 209 条的可证伪比例 / 近重复率）
+"""
+import json, os, sys, re, random
+from collections import defaultdict
+
+TACT = "/data/workspace/tact_real"
+RNG = random.Random(20261016)
+
+def grams(s, n=3):
+    s = re.sub(r"[\s，。、；：（）()【】\"'“”·,.;:!?！？]+", "", s)
+    return set(s[i:i+n] for i in range(len(s)-n+1))
+
+# ---- 装载 ----
+d = json.load(open(os.path.join(TACT, "coordinate_data.json"), encoding="utf-8"))
+ex = {}   # code -> [text...]
+name = {}
+for c in d["L"]:
+    name[c["code"]] = c["name"]
+for g in d["M_groups"]:
+    name[g["code"]] = g["name"]
+    for o in g["opts"]:
+        name[o["code"]] = o["name"]; ex[o["code"]] = [p[0] for p in o.get("pairs", [])]
+for g in d["P_groups"]:
+    name[g["code"]] = g["name"]
+    for o in g["opts"]:
+        name[o["code"]] = o["name"]; ex[o["code"]] = [p[0] for p in o.get("pairs", [])]
+codes = sorted(ex)
+print(f"坐标 {len(codes)}  示例 {sum(len(v) for v in ex.values())}")
+
+# ---- 1. LOO 最近邻 oracle（示例本身是否互相可区分）----
+allitems = [(c, t) for c in codes for t in ex[c]]
+G = {i: grams(t) for i, (c, t) in enumerate(allitems)}
+def jac(a, b):
+    if not a or not b: return 0.0
+    return len(a & b) / len(a | b)
+nn_exact = nn_group = 0
+for i, (c, t) in enumerate(allitems):
+    best, bs = None, -1
+    for j, (c2, t2) in enumerate(allitems):
+        if i == j: continue
+        s = jac(G[i], G[j])
+        if s > bs: bs, best = s, c2
+    if best == c: nn_exact += 1
+    if best.split("-")[0] == c.split("-")[0]: nn_group += 1
+n = len(allitems)
+print(f"\n[Oracle-1] LOO 最近邻（用库自己的示例互相检索）")
+print(f"  精确 {nn_exact}/{n} = {nn_exact/n*100:.2f}%   组级 {nn_group/n*100:.2f}%")
+
+# 随机基线
+rb_e = rb_g = 0
+for _ in range(200):
+    hits = sum(1 for c, t in allitems
+               if RNG.choice(codes) == c)
+    rb_e += hits / n
+print(f"  随机基线(精确) ≈ {rb_e/200*100:.2f}%")
+
+# ---- 2. LOO 词汇 oracle：用同坐标其他示例建词表，判留出的那条 ----
+def toks(s):
+    return set(re.findall(r"[\u4e00-\u9fff]{2,6}|[a-zA-Z]{2,}", s))
+vocab_exact = vocab_group = 0
+for c in codes:
+    T = ex[c]
+    for k in range(len(T)):
+        held = T[k]
+        hv = toks(held)
+        best, bs = None, -1
+        for c2 in codes:
+            v = set()
+            for j, t2 in enumerate(ex[c2]):
+                if c2 == c and j == k: continue
+                v |= toks(t2)
+            s = len(hv & v) / max(1, len(hv))
+            if s > bs: bs, best = s, c2
+        if best == c: vocab_exact += 1
+        if best and best.split("-")[0] == c.split("-")[0]: vocab_group += 1
+print(f"\n[Oracle-2] LOO 词汇表（用同坐标其余示例做词表）")
+print(f"  精确 {vocab_exact}/{n} = {vocab_exact/n*100:.2f}%   组级 {vocab_group/n*100:.2f}%")
+
+# ---- 3. 若把关键词改成"从库示例学"，能到多少（引擎上限）----
+def learn_keywords(train_frac=1.0):
+    """每个坐标取前 ceil(train_frac*len) 条做词表，测其余"""
+    hit = tot = 0
+    per = {}
+    for c in codes:
+        T = ex[c]
+        k = max(1, int(len(T) * train_frac)) if train_frac < 1 else len(T)
+        tr_v = set()
+        for t in T[:k]: tr_v |= toks(t)
+        if not tr_v: continue
+        for t in T[k:]:
+            tot += 1
+            tv = toks(t)
+            best, bs = None, -1
+            for c2 in codes:
+                v2 = set()
+                for t2 in ex[c2][:k]: v2 |= toks(t2)
+                if not v2: continue
+                s = len(tv & v2) / max(1, len(tv | v2))
+                if s > bs: bs, best = s, c2
+            if best == c: hit += 1
+    return hit, tot
+h, t = learn_keywords(0.6)
+print(f"\n[Oracle-3] 从库示例学词表（60% 训 / 40% 测，仅同坐标内切分）")
+print(f"  精确 {h}/{t} = {h/t*100:.2f}%" if t else "  n/a")
+
+# ---- 4. 同一把尺子量我们自己 ----
+K = "/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md"
+txt = open(K, encoding="utf-8").read()
+ents = re.findall(r"^#{2,4}\s*\*{0,2}第\s*(\d+)\s*条[^\n]*\n(.*?)(?=^#{2,4}\s*\*{0,2}第\s*\d+\s*条|\Z)",
+                  txt, re.M | re.S)
+print(f"\n[自审] 判据核条目解析到 {len(ents)} 条")
+falsifiable = 0
+detail = []
+for eid, body in ents:
+    has_exp = bool(re.search(r"\b(0\d\d|1\d\d|2\d\d)\b", body)) or \
+              bool(re.search(r"exp\d+\.py|result_\d+|\.json", body))
+    has_num = bool(re.search(r"[-+]?\d+\.\d{2,}", body))
+    if has_exp or has_num: falsifiable += 1
+    detail.append(dict(id=int(eid), has_exp=has_exp, has_num=has_num))
+if ents:
+    print(f"  可证伪（绑定实验编号或可运行产物/含实测数值）: "
+          f"{falsifiable}/{len(ents)} = {falsifiable/len(ents)*100:.1f}%")
+    print(f"  含实测数值(≥2位小数): "
+          f"{sum(1 for x in detail if x['has_num'])}/{len(ents)} = "
+          f"{sum(1 for x in detail if x['has_num'])/len(ents)*100:.1f}%")
+
+# 近重复（与 TACT 同法：char-3gram Jaccard >= 0.5）
+Gk = [(int(eid), grams(re.sub(r"^#{2,4}\s*", "", body)[:600])) for eid, body in ents]
+pairs = 0; total = 0
+for i in range(len(Gk)):
+    for j in range(i+1, len(Gk)):
+        total += 1
+        if jac(Gk[i][1], Gk[j][1]) >= 0.5: pairs += 1
+print(f"  近重复对(Jaccard>=0.5): {pairs}/{total} = {pairs/max(1,total)*100:.2f}%")
+
+out = dict(
+  oracle_nn=dict(exact=nn_exact/n, group=nn_group/n, n=n, random_exact=rb_e/200),
+  oracle_vocab=dict(exact=vocab_exact/n, group=vocab_group/n, n=n),
+  oracle_learn=dict(hit=h, tot=t),
+  self_audit=dict(n=len(ents), falsifiable=falsifiable,
+                  frac=falsifiable/len(ents) if ents else None,
+                  with_number=sum(1 for x in detail if x['has_num']),
+                  neardup_pairs=pairs, neardup_total=total,
+                  neardup_frac=pairs/max(1,total)),
+)
+json.dump(out, open("/data/workspace/luoshen-o1/result_071b.json","w",encoding="utf-8"),
+          ensure_ascii=False, indent=1)
+print("\n已写 result_071b.json")

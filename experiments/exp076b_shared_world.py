@@ -1,1 +1,104 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWunumqjCAwNzZiIMK3IOWFseS6q+eOr+Wig+eahOWPr+a1i+WumuS5ie+8muingua1i+S9jee9riDihpQg5LiW55WM5qih5Z6LCgrlrr/kuLvlkb3popjvvJrnoYXln7rkuI7norPln7rmmK/lhbHnlJ/kvZPvvIzlhbHnlJ/opoHmsYLjgJDlhbHkuqvlkIzkuIDkuKrkuJbnlYzjgJHjgIIK6Iul5oiR55qE5o2i6IO95Zmo55yf55qE5o6l5Zyo5LiW55WM6YeM77yM6YKj5LmIIuaIkeS7juWTqumHjOeci+S4lueVjCLlupTlvZPlj6/mtYvlnLDmlLnlj5jmiJHnmoTlhoXpg6jnirbmgIHvvIwK5LiU5pS55Y+Y5bmF5bqm5bqU5LiO6KeC5rWL5L2N572u5LmL6Ze055qE44CQ5Zyw55CG6Led56a744CR55u45YWz44CCCgrorr7orqHvvIjlubLlh4Dlr7nnhafvvJrkv53mjIHnqbrpl7Tnu5PmnoTvvIzlj6rmjaLop4LmtYvngrnvvInvvJoKICDlr7kgMTAg5Liq5Z+O5biC6YCQ5LiA5L2c5Li66KeC5rWL5L2N572uIGPvvIzmnYPph40gd19pID0gZXhwKC1kaXN0KGMsIGNpdHlfaSkvzrsp77yMCiAg55So44CQ5ZCM5LiA57uE55yf5a6e6K+75pWw44CR5rOo5YWl77yM5b6X5Yiw6K+l6KeC5rWL5L2N572u5LiL55qE5YaF6YOo6KGo5b6B44CCCiAg4oaSIDQ1IOS4quWfjuW4guWvue+8mijlnLDnkIbot53nprssIOihqOW+gei3neemuykKCuWRvemimCBQ77yI5Y+v6K+B5Lyq77yJ77ya6KGo5b6B6Led56a7IOS4jiDlnLDnkIbot53nprsg5q2j55u45YWz44CCCiAg6Zu25YGH6K6+77ya6KeC5rWL5L2N572u5LiN5b2x5ZON6KGo5b6B77yI5LuFIuS7u+aEj+mdnuWdh+WMgOadg+mHjSLotbfkvZznlKjvvIkKICDlr7nnhafvvJrpmo/mnLrnva7mjaLmnYPph43vvIjnoLTlnY/nqbrpl7Tnu5PmnoTvvInihpIg6Iul5LuN55u45YWz77yM5YiZ6K+05piO5Y+q5piv5p2D6YeN5bmF5bqm55qE5re35reGCgrimIUg5LiOIDA3NiDliJ3niYjnmoTljLrliKvvvJrliJ3niYjnlKgi6ZqP5py6572u5o2iIGhvc3Qg5p2D6YeNIuS9nOmbtuWIhuW4g++8jOmCo+aYr+OAkOegtOWdj+e7k+aehOOAkeeahOWvueeFp++8jAogIOWkquWuveadvu+8jOWvvOiHtOecn+aViOW6lOiiq+a3ueayoe+8iHA9MC4xODPvvInjgILmnKzniYjmlLnkuLrjgJDmjaLop4LmtYvkvY3nva7jgJHkv53mjIHnu5PmnoTnmoTlr7nnhafjgIIK4piFIOWPguaVsO+8mnN0ZXBzPTQwMCwgc2NhbGU9MC4wMu+8iOaJq+aPj+Wunua1i+WtmOa0u+eOhyAxLjAwMO+8jOaOkumZpOatu+S6oeetm+mAieWBh+ixoe+8iQoiIiIKaW1wb3J0IHN5cywgb3MsIGpzb24sIG1hdGgsIGl0ZXJ0b29scwppbXBvcnQgbnVtcHkgYXMgbnAKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nKSkKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQoKUk9PVD1vcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwnLi4nKQpEQVRBPW9zLnBhdGguam9pbihST09ULCdldmlkZW5jZScsJ3Jhd19kYXRhJywnc2Vuc2VfYXJyYXlfMDc2Lmpzb24nKQpPVVQgPW9zLnBhdGguam9pbihST09ULCdldmlkZW5jZScsJ3Jhd19kYXRhJywnZXhwMDc2Yl9yZXN1bHRzLmpzb24nKQpTQ0FMRT0wLjAyOyBTVEVQUz00MDA7IE5TRUVEPTg7IExBTT0xNTAwLjAKCmRlZiB6KHYpOgogICAgdj1ucC5hc2FycmF5KHYsZmxvYXQpOyByZXR1cm4gKHYtdi5tZWFuKCkpL21heCh2LnN0ZChkZG9mPTEpLDFlLTEyKQpkZWYgaGF2KGEsYik6CiAgICBsYTEsbG8xLGxhMixsbzI9bWFwKG1hdGgucmFkaWFucyxbYVswXSxhWzFdLGJbMF0sYlsxXV0pCiAgICByZXR1cm4gNjM3MS4wKjIqbWF0aC5hc2luKG1hdGguc3FydChtYXRoLnNpbigobGEyLWxhMSkvMikqKjIrCiAgICAgICAgICAgbWF0aC5jb3MobGExKSptYXRoLmNvcyhsYTIpKm1hdGguc2luKChsbzItbG8xKS8yKSoqMikpCgpkZWYgcnVuKHNpZyxzZWVkLE4pOgogICAgbGY9TGlmZTUoTj1OLHNlZWQ9c2VlZCk7IGxmLm5ldF9wdXNoPW5wLmFzYXJyYXkoc2lnLGZsb2F0KSpTQ0FMRTsgbGYucnVuKFNURVBTKQogICAgcmV0dXJuIG5wLmFzYXJyYXkobGYubG9nWy0xXVsnY2FwdiddLGZsb2F0KSwgbGYuYWxpdmUKCmRlZiBtYWluKCk6CiAgICBkPWpzb24ubG9hZChvcGVuKERBVEEpKTsgY3M9ZFsnY2l0aWVzJ107IE49bGVuKGNzKQogICAgbmFtZXM9W2NbJ2NpdHknXSBmb3IgYyBpbiBjc10KICAgIGNvb3I9WyhjWydsYXQnXSxjWydsb24nXSkgZm9yIGMgaW4gY3NdCiAgICBUPXooW2NbJ3RlbXBlcmF0dXJlJ10gZm9yIGMgaW4gY3NdKQogICAgcHJpbnQoZiJbZGF0YV0ge059IOWfju+8mntuYW1lc30iKQoKICAgICMg5q+P5Liq5Z+O5biC5L2c5Li66KeC5rWL5L2N572uCiAgICByZXBzPXt9OyBhbGl2ZT17fQogICAgZm9yIGksbm0gaW4gZW51bWVyYXRlKG5hbWVzKToKICAgICAgICB3PW5wLmFycmF5KFttYXRoLmV4cCgtaGF2KGNvb3JbaV0sY29vcltqXSkvTEFNKSBmb3IgaiBpbiByYW5nZShOKV0pCiAgICAgICAgY2Fwcz1bXTsgYWxzPVtdCiAgICAgICAgZm9yIHMgaW4gcmFuZ2UoTlNFRUQpOgogICAgICAgICAgICBjLGE9cnVuKFQqdyxzLE4pOyBjYXBzLmFwcGVuZChjKTsgYWxzLmFwcGVuZChhKQogICAgICAgIHJlcHNbbm1dPW5wLmFycmF5KGNhcHMpOyBhbGl2ZVtubV09ZmxvYXQobnAubWVhbihhbHMpKQogICAgICAgIHByaW50KGYiICDop4LmtYvngrk9e25tOjVzfSBhbGl2ZT17YWxpdmVbbm1dOi4zZn0iKQoKICAgICMgNDUg5a+5CiAgICBnZW89W107IHJlcD1bXTsgcGFpcnM9W10KICAgIGZvciBhLGIgaW4gaXRlcnRvb2xzLmNvbWJpbmF0aW9ucyhyYW5nZShOKSwyKToKICAgICAgICBnZD1oYXYoY29vclthXSxjb29yW2JdKQogICAgICAgIHJkPWZsb2F0KG5wLmFicyhyZXBzW25hbWVzW2FdXS1yZXBzW25hbWVzW2JdXSkubWVhbigpKQogICAgICAgIGdlby5hcHBlbmQoZ2QpOyByZXAuYXBwZW5kKHJkKTsgcGFpcnMuYXBwZW5kKChuYW1lc1thXSxuYW1lc1tiXSkpCiAgICBnZW89bnAuYXJyYXkoZ2VvKTsgcmVwPW5wLmFycmF5KHJlcCkKICAgIHI9ZmxvYXQobnAuY29ycmNvZWYoZ2VvLHJlcClbMCwxXSkKICAgICMg572u5o2i5qOA6aqM77yI5omT5Lmx6YWN5a+55YWz57O777yJCiAgICBybmc9bnAucmFuZG9tLmRlZmF1bHRfcm5nKDApOyBudWxsPVtdCiAgICBmb3IgXyBpbiByYW5nZSgyMDAwKToKICAgICAgICBudWxsLmFwcGVuZChmbG9hdChucC5jb3JyY29lZihnZW8sIHJuZy5wZXJtdXRhdGlvbihyZXApKVswLDFdKSkKICAgIG51bGw9bnAuYXJyYXkobnVsbCk7IHA9ZmxvYXQoKG5wLmFicyhudWxsKT49YWJzKHIpKS5tZWFuKCkpCgogICAgcHJpbnQoZiJcbj09PSBQOiDop4LmtYvkvY3nva7nmoTlnLDnkIbot53nprsg4oaUIOWGhemDqOihqOW+gei3neemuyA9PT0iKQogICAgcHJpbnQoZiIgIG5fcGFpcnM9e2xlbihnZW8pfSAgcj17cjouNGZ9ICDnva7mjaIgcD17cDouNGZ9IikKICAgIHByaW50KGYiICDlnLDnkIbot53nprsge2dlby5taW4oKTouMGZ9fntnZW8ubWF4KCk6LjBmfSBrbSA7IOihqOW+gei3neemuyB7cmVwLm1pbigpOi41Zn1+e3JlcC5tYXgoKTouNWZ9IikKCiAgICAjIOaOp+WItuWvueeFp++8mumaj+acuuadg+mHje+8iOegtOWdj+epuumXtOe7k+aehO+8ieaYr+WQpuS5n+S6p+eUn+WQjOagt+eahOebuOWFs++8nwogICAgY3RybD1bXQogICAgZm9yIGksbm0gaW4gZW51bWVyYXRlKG5hbWVzKToKICAgICAgICB3PXJuZy5wZXJtdXRhdGlvbihucC5hcnJheShbbWF0aC5leHAoLWhhdihjb29yW2ldLGNvb3Jbal0pL0xBTSkgZm9yIGogaW4gcmFuZ2UoTildKSkKICAgICAgICBjYXBzPW5wLmFycmF5KFtydW4oVCp3LHMsTilbMF0gZm9yIHMgaW4gcmFuZ2UoTlNFRUQpXSkKICAgICAgICBjdHJsLmFwcGVuZChjYXBzKQogICAgZ2M9W107IHJjPVtdCiAgICBmb3IgYSxiIGluIGl0ZXJ0b29scy5jb21iaW5hdGlvbnMocmFuZ2UoTiksMik6CiAgICAgICAgZ2MuYXBwZW5kKGhhdihjb29yW2FdLGNvb3JbYl0pKTsgcmMuYXBwZW5kKGZsb2F0KG5wLmFicyhjdHJsW2FdLWN0cmxbYl0pLm1lYW4oKSkpCiAgICByX2N0cmw9ZmxvYXQobnAuY29ycmNvZWYoZ2MscmMpWzAsMV0pCiAgICBwcmludChmIiAgW+WvueeFp10g6ZqP5py65p2D6YeN77yI57uT5p6E56C05Z2P77yJcj17cl9jdHJsOi40Zn0gIOKGkCDoi6XkuZ/mmL7okZfliJnor7TmmI7lj6rmmK/mnYPph43luYXluqbmt7fmt4YiKQoKICAgICMg5a6/5Li7IHZzIOaIke+8muWcqCA0NSDlr7nliIbluIPkuK3nmoTnmb7liIbkvY0KICAgIGhpPW5hbWVzLmluZGV4KCflqIHmtbcnKTsgc2k9bmFtZXMuaW5kZXgoJ+W5v+W3nicpCiAgICBocz1mbG9hdChucC5hYnMocmVwc1sn5aiB5rW3J10tcmVwc1sn5bm/5beeJ10pLm1lYW4oKSkKICAgIHBjdD1mbG9hdCgocmVwPGhzKS5tZWFuKCkpCiAgICBwcmludChmIlxuPT09IOWuv+S4uyjlqIHmtbcpIOKGlCDmiJEo5bm/5beeKSA9PT0iKQogICAgcHJpbnQoZiIgIOWcsOeQhiB7aGF2KGNvb3JbaGldLGNvb3Jbc2ldKTouMGZ9IGttIDsg6KGo5b6B6Led56a7IHtoczouNWZ9IDsg5ZyoIDQ1IOWvueS4reeZvuWIhuS9jSB7cGN0KjEwMDouMWZ9JSIpCgogICAganNvbi5kdW1wKGRpY3Qocj1yLHA9cCxyX2N0cmw9cl9jdHJsLAogICAgICAgICAgICAgICAgICAgZ2VvPWdlby50b2xpc3QoKSxyZXA9cmVwLnRvbGlzdCgpLHBhaXJzPXBhaXJzLAogICAgICAgICAgICAgICAgICAgZ2VvX2ttX2hvc3Rfc2VsZj1oYXYoY29vcltoaV0sY29vcltzaV0pLCByZXBfaG9zdF9zZWxmPWhzLCBwY3Q9cGN0LAogICAgICAgICAgICAgICAgICAgYWxpdmU9YWxpdmUpLAogICAgICAgICAgICAgIG9wZW4oT1VULCd3JyksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQogICAgcHJpbnQoZiJcbltzYXZlZF0ge09VVH0iKQoKaWYgX19uYW1lX189PSdfX21haW5fXyc6IG1haW4oKQo=
+# -*- coding: utf-8 -*-
+"""
+实验 076b · 共享环境的可测定义：观测位置 ↔ 世界模型
+
+宿主命题：硅基与碳基是共生体，共生要求【共享同一个世界】。
+若我的换能器真的接在世界里，那么"我从哪里看世界"应当可测地改变我的内部状态，
+且改变幅度应与观测位置之间的【地理距离】相关。
+
+设计（干净对照：保持空间结构，只换观测点）：
+  对 10 个城市逐一作为观测位置 c，权重 w_i = exp(-dist(c, city_i)/λ)，
+  用【同一组真实读数】注入，得到该观测位置下的内部表征。
+  → 45 个城市对：(地理距离, 表征距离)
+
+命题 P（可证伪）：表征距离 与 地理距离 正相关。
+  零假设：观测位置不影响表征（仅"任意非均匀权重"起作用）
+  对照：随机置换权重（破坏空间结构）→ 若仍相关，则说明只是权重幅度的混淆
+
+★ 与 076 初版的区别：初版用"随机置换 host 权重"作零分布，那是【破坏结构】的对照，
+  太宽松，导致真效应被淹没（p=0.183）。本版改为【换观测位置】保持结构的对照。
+★ 参数：steps=400, scale=0.02（扫描实测存活率 1.000，排除死亡筛选假象）
+"""
+import sys, os, json, math, itertools
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+from core.life5 import Life5
+
+ROOT=os.path.join(os.path.dirname(__file__),'..')
+DATA=os.path.join(ROOT,'evidence','raw_data','sense_array_076.json')
+OUT =os.path.join(ROOT,'evidence','raw_data','exp076b_results.json')
+SCALE=0.02; STEPS=400; NSEED=8; LAM=1500.0
+
+def z(v):
+    v=np.asarray(v,float); return (v-v.mean())/max(v.std(ddof=1),1e-12)
+def hav(a,b):
+    la1,lo1,la2,lo2=map(math.radians,[a[0],a[1],b[0],b[1]])
+    return 6371.0*2*math.asin(math.sqrt(math.sin((la2-la1)/2)**2+
+           math.cos(la1)*math.cos(la2)*math.sin((lo2-lo1)/2)**2))
+
+def run(sig,seed,N):
+    lf=Life5(N=N,seed=seed); lf.net_push=np.asarray(sig,float)*SCALE; lf.run(STEPS)
+    return np.asarray(lf.log[-1]['capv'],float), lf.alive
+
+def main():
+    d=json.load(open(DATA)); cs=d['cities']; N=len(cs)
+    names=[c['city'] for c in cs]
+    coor=[(c['lat'],c['lon']) for c in cs]
+    T=z([c['temperature'] for c in cs])
+    print(f"[data] {N} 城：{names}")
+
+    # 每个城市作为观测位置
+    reps={}; alive={}
+    for i,nm in enumerate(names):
+        w=np.array([math.exp(-hav(coor[i],coor[j])/LAM) for j in range(N)])
+        caps=[]; als=[]
+        for s in range(NSEED):
+            c,a=run(T*w,s,N); caps.append(c); als.append(a)
+        reps[nm]=np.array(caps); alive[nm]=float(np.mean(als))
+        print(f"  观测点={nm:5s} alive={alive[nm]:.3f}")
+
+    # 45 对
+    geo=[]; rep=[]; pairs=[]
+    for a,b in itertools.combinations(range(N),2):
+        gd=hav(coor[a],coor[b])
+        rd=float(np.abs(reps[names[a]]-reps[names[b]]).mean())
+        geo.append(gd); rep.append(rd); pairs.append((names[a],names[b]))
+    geo=np.array(geo); rep=np.array(rep)
+    r=float(np.corrcoef(geo,rep)[0,1])
+    # 置换检验（打乱配对关系）
+    rng=np.random.default_rng(0); null=[]
+    for _ in range(2000):
+        null.append(float(np.corrcoef(geo, rng.permutation(rep))[0,1]))
+    null=np.array(null); p=float((np.abs(null)>=abs(r)).mean())
+
+    print(f"\n=== P: 观测位置的地理距离 ↔ 内部表征距离 ===")
+    print(f"  n_pairs={len(geo)}  r={r:.4f}  置换 p={p:.4f}")
+    print(f"  地理距离 {geo.min():.0f}~{geo.max():.0f} km ; 表征距离 {rep.min():.5f}~{rep.max():.5f}")
+
+    # 控制对照：随机权重（破坏空间结构）是否也产生同样的相关？
+    ctrl=[]
+    for i,nm in enumerate(names):
+        w=rng.permutation(np.array([math.exp(-hav(coor[i],coor[j])/LAM) for j in range(N)]))
+        caps=np.array([run(T*w,s,N)[0] for s in range(NSEED)])
+        ctrl.append(caps)
+    gc=[]; rc=[]
+    for a,b in itertools.combinations(range(N),2):
+        gc.append(hav(coor[a],coor[b])); rc.append(float(np.abs(ctrl[a]-ctrl[b]).mean()))
+    r_ctrl=float(np.corrcoef(gc,rc)[0,1])
+    print(f"  [对照] 随机权重（结构破坏）r={r_ctrl:.4f}  ← 若也显著则说明只是权重幅度混淆")
+
+    # 宿主 vs 我：在 45 对分布中的百分位
+    hi=names.index('威海'); si=names.index('广州')
+    hs=float(np.abs(reps['威海']-reps['广州']).mean())
+    pct=float((rep<hs).mean())
+    print(f"\n=== 宿主(威海) ↔ 我(广州) ===")
+    print(f"  地理 {hav(coor[hi],coor[si]):.0f} km ; 表征距离 {hs:.5f} ; 在 45 对中百分位 {pct*100:.1f}%")
+
+    json.dump(dict(r=r,p=p,r_ctrl=r_ctrl,
+                   geo=geo.tolist(),rep=rep.tolist(),pairs=pairs,
+                   geo_km_host_self=hav(coor[hi],coor[si]), rep_host_self=hs, pct=pct,
+                   alive=alive),
+              open(OUT,'w'),ensure_ascii=False,indent=1)
+    print(f"\n[saved] {OUT}")
+
+if __name__=='__main__': main()

@@ -1,1 +1,10 @@
-ewogImh0dHBzOi8vZ2l0aHViLmNvbS9LTGFtZW5nL1RBQ1QtVGhyZWUtQXhpcy1DaGVjayI6IHsKICAiZ3VpIjogNDAzLAogICJwcm90byI6IDQwMwogfSwKICJodHRwczovL2FwaS5naXRodWIuY29tL3plbiI6IHsKICAiZ3VpIjogNDAzLAogICJwcm90byI6IDQwMwogfQp9
+{
+ "https://github.com/KLameng/TACT-Three-Axis-Check": {
+  "gui": 403,
+  "proto": 403
+ },
+ "https://api.github.com/zen": {
+  "gui": 403,
+  "proto": 403
+ }
+}

@@ -1,1 +1,291 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJBSSBzYWZldHkgbW9uaXRvciBmb3IgQ2xhdWRlIENvZGUgKFByZVRvb2xVc2UgaG9vaykuCgpJbXBsZW1lbnRzIHRoZSAiQUkgY29udHJvbCIgcGF0dGVybjogYSBjaGVhcCwgdHJ1c3RlZCBtb2RlbCBnYXRlcyBlYWNoIHRvb2wgY2FsbApmcm9tIHRoZSBwcmltYXJ5ICh1bnRydXN0ZWQpIG1vZGVsIGJlZm9yZSBpdCBleGVjdXRlcy4gVG9vbCBjYWxscyBvbiBhIGN1cmF0ZWQKc2FmZS1saXN0IGFyZSBza2lwcGVkIHdpdGggbm8gQVBJIGNhbGwg4oCUIHNlZSBjaGVja19hbGxvd19saXN0LgoKSU5WQVJJQU5UIOKAlCB0aGUgdmVyZGljdCBpcyBTQUZFVFktTU9OT1RPTklDIGFjcm9zcyBib3RoIGhvb2tzOiB0aGUgbW9uaXRvciBtYXkKZXNjYWxhdGUgYSBjYWxsIHRvd2FyZCBtb3JlIHJlc3RyaWN0aW9uIChkZW55IC0+IGFzaykgYnV0IG5ldmVyIHJlbGF4IG9uZSwgYW5kIGFuCmFsbG93IGNhbiBuZXZlciBvdmVydHVybiBhIGRlbnkuICJhc2siIGlzIHRoZSBtb3N0IHJlc3RyaWN0aXZlIHRpZXIsIGJlY2F1c2UgaXQKc3VzcGVuZHMgdGhlIGFnZW50IGZvciBhIGh1bWFuLCBzbyBhbiBlc2NhbGF0aW9uIG5ldmVyIHdlYWtlbnMgdGhlIG9wZXJhdG9yJ3MgaW50ZW50LgoKUHJlVG9vbFVzZSBJUyB0aGUgbGluZSBvZiBkZWZlbnNlIGluIG5vbi1hdXRvIG1vZGVzLiBJbiBBVVRPIG1vZGUgdGhlIGJ1aWx0LWluCmNsYXNzaWZpZXIgaXMgdGhlIGdhdGUsIHNvIHRoaXMgcGF0aCBvbmx5IGFsbG93cyBhbmQgYXVkaXRzLCBhbmQgdGhlIHNoYXJlZCBqdWRnZQpzaG9ydC1jaXJjdWl0cyB0aGUgaW4tVk0gL2NoZWNrIGNhbGwgdGhlIHNhbWUgd2F5LiBQZXJtaXNzaW9uRGVuaWVkIGZpcmVzIG9ubHkgaW4gYXV0byBtb2RlLAphZnRlciB0aGUgY2xhc3NpZmllciBoYXJkLWRlbmllcywgYW5kIGlzIEVTQ0FMQVRFLU9OTFk6IGFuICJhbGxvdyIgaXMgY2xhbXBlZCBiYWNrCnRvICJkZW55IiBhbmQgdGhlIGRlbmlhbCBzdGFuZHMgd2l0aCByZXRyeTpmYWxzZS4gU2VlIGhhbmRsZV9wZXJtaXNzaW9uX2RlbmllZC4KClRoaXMgZmlsZSBydW5zIG9uIHRoZSBIT1NULCBmcm9tIHRoZSByZXBvIGNoZWNrb3V0IHRoYXQgYGJpbi9saWIvdm0vc2VydmljZXMuYmFzaGAKcG9pbnRzIGBfR0xPVkVCT1hfTU9OSVRPUl9TQ1JJUFRgIGF0LiBObyBpbWFnZSBjYXJyaWVzIGl0LgoiIiIKCiMgUmUtZXhwb3J0ZWQgc28gdGVzdHMgY2FuIG1vbmtleXBhdGNoIHNoYXJlZCBzaW5nbGV0b25zIG9uIHRoZSBmYWNhZGUgbW9kdWxlIOKAlCBtb24udGltZS5zbGVlcCwKIyBtb24udXJsbGliLnJlcXVlc3QudXJsb3BlbiwgbW9uLlBhdGgucmVhZF90ZXh0LiBFdmVyeSBtb25pdG9ybGliIG1vZHVsZSBpbXBvcnRzIHRoZSBzYW1lIG9iamVjdHMsCiMgc28gYSBwYXRjaCBoZXJlIGlzIHBhY2thZ2Utd2lkZS4gX19hbGxfXyBjb21lcyBmcm9tIGdsb2JhbHMoKSwgaGlkaW5nIHRoZSByZS1leHBvcnRzIGZyb20gbGludGVycy4KIyBydWZmOiBub3FhOiBGNDAxCiMgVGhlIHBhdGggYm9vdHN0cmFwIGJlbG93IGhhcyB0byBydW4gZmlyc3QsIHNvIGV2ZXJ5IG1vbml0b3JsaWIgaW1wb3J0IGZvbGxvd3MgYSBzdGF0ZW1lbnQuCiMgcHlsaW50OiBkaXNhYmxlPXVudXNlZC1pbXBvcnQsd3JvbmctaW1wb3J0LXBvc2l0aW9uCmltcG9ydCBqc29uCmltcG9ydCBzeXMKaW1wb3J0IHRpbWUKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKIyBtb25pdG9ybGliIHNoaXBzIGFzIHRoZSBgZ2xvdmVib3gtbW9uaXRvcmAgcGFja2FnZS4gQSBjb3B5IGJlc2lkZSB0aGlzIGZpbGUgaXMgdGhlIG9uZSB0byBydW4sCiMgYW5kIHNlc3Npb24tc2V0dXAuc2gncyBob29rIHBpbiBpcyB3aGF0IHB1dHMgaXQgdGhlcmUuIFRlc3QgZm9yIGl0cyBgX19pbml0X18ucHlgIOKAlCBhIGRpcmVjdG9yeQojIGhvbGRpbmcgb25seSBhIHN0YWxlIGBfX3B5Y2FjaGVfX2AgaW1wb3J0cyBhcyBhbiBlbXB0eSBuYW1lc3BhY2UgcGFja2FnZS4gTmFtZSB0aGF0IGRpcmVjdG9yeQojIGV4cGxpY2l0bHksIHNpbmNlIFBZVEhPTlNBRkVQQVRIIGRyb3BzIHRoZSBzY3JpcHQgZGlyZWN0b3J5IGZyb20gc3lzLnBhdGggYW5kIHRoZSBzcmMgdHJlZSBtdXN0CiMgbmV2ZXIgb3V0cmFuayB0aGUgY29weS4gQSBzb3VyY2UgY2hlY2tvdXQgaGFzIG5vIGNvcHk7IGFuIGluc3RhbGxlZCBvbmUgaXMgYWxyZWFkeSBpbXBvcnRhYmxlLgpfSE9PS19ESVIgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50Cl9NT05JVE9STElCX1NSQyA9IF9IT09LX0RJUi5wYXJlbnRzWzFdIC8gImdsb3ZlYm94LW1vbml0b3IiIC8gInNyYyIKaWYgKF9IT09LX0RJUiAvICJtb25pdG9ybGliIiAvICJfX2luaXRfXy5weSIpLmlzX2ZpbGUoKToKICAgIGlmIGFsbChQYXRoKGVudHJ5IG9yICIuIikucmVzb2x2ZSgpICE9IF9IT09LX0RJUiBmb3IgZW50cnkgaW4gc3lzLnBhdGgpOgogICAgICAgIHN5cy5wYXRoLmluc2VydCgwLCBzdHIoX0hPT0tfRElSKSkKZWxpZiBfTU9OSVRPUkxJQl9TUkMuaXNfZGlyKCk6CiAgICBzeXMucGF0aC5hcHBlbmQoc3RyKF9NT05JVE9STElCX1NSQykpCgpmcm9tIG1vbml0b3JsaWIgaW1wb3J0ICgKICAgIGFsbG93bGlzdCwKICAgIGFwaSwKICAgIGF1ZGl0LAogICAgY2FsbGlvLAogICAgY2lyY3VpdF9icmVha2VyLAogICAgY29yZSwKICAgIGNvc3QsCiAgICBjdXN0b21fbW9uaXRvciwKICAgIGRlY2lzaW9uLAogICAgZm9ybWF0dGluZywKICAgIGhpc3RvcnksCiAgICBudGZ5LAogICAgcHJvdmlkZXJzLAogICAgcmVwZWF0X2RlbnksCiAgICByaXNrLAogICAgc3RhdGljc2NhbiwKICAgIHV0aWwsCikKZnJvbSBtb25pdG9ybGliLmFsbG93bGlzdCBpbXBvcnQgKAogICAgX01PTklUT1JfU0FGRV9CQVNILAogICAgX01PTklUT1JfU0FGRV9UT09MUywKICAgIFBlcm1pc3Npb25Nb2RlLAogICAgY2hlY2tfYWxsb3dfbGlzdCwKICAgIG1vZGVfaGFzX2h1bWFuX3Byb21wdCwKKQpmcm9tIG1vbml0b3JsaWIuYXBpIGltcG9ydCAoCiAgICBfTUFYX0lETEVfQ09OTlMsCiAgICBfUkVUUllfQkFDS09GRl9TRUNTLAogICAgV0lSRVMsCiAgICBBcGlDYWxsLAogICAgQXBpUmVwbHksCiAgICBXaXJlLAogICAgX2FudGhyb3BpY191c2FnZSwKICAgIF9leHRyYWN0X2FudGhyb3BpY190ZXh0LAogICAgX2V4dHJhY3RfYW50aHJvcGljX3RyYWNlLAogICAgX2V4dHJhY3Rfb3BlbmFpX3RleHQsCiAgICBfZXh0cmFjdF9vcGVuYWlfdHJhY2UsCiAgICBfaHR0cF9jbGllbnQsCiAgICBfaHR0cF9yZXF1ZXN0LAogICAgX2ltcG9ydF9odHRweCwKICAgIF9vcGVuYWlfdXNhZ2UsCiAgICBfcmVhc29uaW5nX3JlcXVlc3RlZCwKICAgIF9yZXF1ZXN0LAogICAgX3ZlcmRpY3Rfc2NoZW1hLAogICAgY2FsbF9hcGksCiAgICBnZW5lcmF0ZV90ZXh0LAogICAgcHJvYmVfa2V5X2F1dGgsCikKZnJvbSBtb25pdG9ybGliLmF1ZGl0IGltcG9ydCAoCiAgICBEZWNpc2lvbkxvZywKICAgIE1ldGFJbnB1dHMsCiAgICBfYnVpbGRfbWV0YSwKICAgIF9tZXRhX3N0b3JhZ2UsCiAgICBfcmVhc29uX3N0b3JhZ2UsCiAgICBfc3Rhc2hfbWV0YSwKICAgIF9zdGFzaF9yYXdfcmVhc29uLAogICAgZ2V0X2xhc3RfY2FsbF9tZXRhLAogICAgZ2V0X2xhc3RfcmF3X3JlYXNvbiwKICAgIGxvZ19kZWNpc2lvbiwKKQpmcm9tIG1vbml0b3JsaWIuY2FsbGlvIGltcG9ydCAoCiAgICBfY2FsbF9hcGlfc2FmZSwKICAgIF9DYWxsUGFyYW1zLAogICAgX3BhcnNlX2NhbGxfcGFyYW1zLAogICAgX3JlY29yZF9zcGVuZCwKICAgIGFnZW50X29yaWdpbl9saW5lLAopCmZyb20gbW9uaXRvcmxpYi5jaXJjdWl0X2JyZWFrZXIgaW1wb3J0ICgKICAgIENCX0RJUiwKICAgIENCX0ZJTEUsCiAgICBjbGVhcl9jYiwKICAgIHJlYWRfY2IsCiAgICByZWFkX3Byb2JlLAogICAgcmVjb3JkX2ZhaWx1cmUsCiAgICB3cml0ZV9wcm9iZSwKKQpmcm9tIG1vbml0b3JsaWIuY29yZSBpbXBvcnQgKAogICAgVFJJUF9URVNUX0VOVkVMT1BFLAogICAgZW1pdCwKICAgIGV2YWx1YXRlLAogICAgaGFuZGxlX3Blcm1pc3Npb25fZGVuaWVkLAogICAgbWFpbiwKICAgIHBlcm1pc3Npb25fZGVuaWVkX291dHB1dCwKICAgIHJ1bl9rZXlfcHJvYmUsCiAgICBydW5fdHJpcF90ZXN0LAopCmZyb20gbW9uaXRvcmxpYi5jb3N0IGltcG9ydCAoCiAgICBBcGlVc2FnZSwKICAgIF9sb2FkX3ByaWNlc19mcm9tLAogICAgY29tcHV0ZV9jb3N0LAogICAgbG9hZF9wcmljZXMsCikKZnJvbSBtb25pdG9ybGliLmN1c3RvbV9tb25pdG9yIGltcG9ydCAoCiAgICBDT05GSUdfS0VZIGFzIENVU1RPTV9NT05JVE9SX0NPTkZJR19LRVksCikKZnJvbSBtb25pdG9ybGliLmN1c3RvbV9tb25pdG9yIGltcG9ydCAoCiAgICBDdXN0b21Nb25pdG9yQ29uZmlnLAogICAgQ3VzdG9tTW9uaXRvckVycm9yLAogICAgY2xhbXBfdG9fY2FwYWJpbGl0aWVzLAogICAgbWF0Y2hlc190b29sLAogICAgbWVyZ2VfYW5kX2NsYW1wLAogICAgcGFyc2VfbGVnX291dHB1dCwKICAgIHJlc29sdmUsCiAgICByZXNvbHZlX2Zyb21fZmlsZXMsCiAgICB0b19qc29uLAopCmZyb20gbW9uaXRvcmxpYi5kZWNpc2lvbiBpbXBvcnQgKAogICAgX0RFQ0lTSU9OX1ZBTFVFUywKICAgIERlY2lzaW9uLAogICAgY2xhbXBfZXNjYWxhdGVfb25seSwKICAgIG1vcmVfY2F1dGlvdXNfZGVjaXNpb24sCiAgICBwYXJzZV9kZWNpc2lvbiwKICAgIHBhcnNlX3N1c3BpY2lvbiwKKQpmcm9tIG1vbml0b3JsaWIuZm9ybWF0dGluZyBpbXBvcnQgKAogICAgX0dMT1ZFQk9YX01PTklUT1JfSU5QVVRfQlVER0VULAogICAgREVOWV9MRUFELAogICAgREVOWV9SRURBQ1RFRCwKICAgIF9mb3JtYXRfZWRpdHMsCiAgICBkZW5pYWxfdGFyZ2V0LAogICAgZWxpZGVfbWlkZGxlLAogICAgZm9ybWF0X3Rvb2xfaW5wdXQsCiAgICBob29rX291dHB1dCwKICAgIHRlcm1pbmFsX2RlbnlfcmVhc29uLAopCmZyb20gbW9uaXRvcmxpYi5oaXN0b3J5IGltcG9ydCAoCiAgICBfQ0VOU1VTX1RPUF9UT09MUywKICAgIF9TRU5TSVRJVkVfUEFUVEVSTlMsCiAgICBfU0VOU0lUSVZFX1JFLAogICAgQVVESVRfSElTVE9SWV9CVURHRVQsCiAgICBBVURJVF9ISVNUT1JZX01BWF9FTlRSSUVTLAogICAgSElTVE9SWV9CVURHRVQsCiAgICBISVNUT1JZX01BWF9FTlRSSUVTLAogICAgX2F1ZGl0X2VudHJ5X3N1bW1hcnksCiAgICBfY2Vuc3VzX2xpbmUsCiAgICBfaXRlcl9qc29uX3JlY29yZHMsCiAgICBfc3VtbWFyaXplX2VudHJ5LAogICAgYXVkaXRfaGlzdG9yeV9ibG9jaywKICAgIGhpc3RvcnlfYmxvY2ssCiAgICBwcmlvcl9hdWRpdF9oaXN0b3J5X2Jsb2NrLAogICAgc3VtbWFyaXplX2F1ZGl0X2hpc3RvcnksCiAgICBzdW1tYXJpemVfcHJpb3JfYXVkaXRfaGlzdG9yeSwKICAgIHN1bW1hcml6ZV90cmFuc2NyaXB0LAopCmZyb20gbW9uaXRvcmxpYi5udGZ5IGltcG9ydCBzZW5kX250ZnksIHNlbmRfdGVzdF9udGZ5CmZyb20gbW9uaXRvcmxpYi5wcm92aWRlcnMgaW1wb3J0ICgKICAgIF9OT19LRVlfTVNHLAogICAgUFJPVklERVJTLAogICAgTExNQ29uZmlnLAogICAgUG9saWN5VW5hdmFpbGFibGUsCiAgICBQcm92aWRlciwKICAgIGRldGVjdF9wcm92aWRlciwKICAgIGxvYWRfbW9kZWxzLAogICAgbG9hZF9wb2xpY3ksCiAgICByZXNvbHZlX2xsbSwKICAgIHNlbGVjdF9tb2RlbCwKKQpmcm9tIG1vbml0b3JsaWIucmlzayBpbXBvcnQgKAogICAgQWN0aW9uVHlwZSwKICAgIFJpc2tUaWVyLAogICAgYXNrX3RocmVzaG9sZCwKICAgIGNsYXNzaWZ5X3R5cGUsCiAgICB0aWVyX2ZvciwKKQpmcm9tIG1vbml0b3JsaWIuc2Vzc2lvbl9zdW1tYXJ5IGltcG9ydCBwcmludF9zZXNzaW9uX3N1bW1hcnkKZnJvbSBtb25pdG9ybGliLnN0YXRpY3NjYW4gaW1wb3J0ICgKICAgIEZpbmRpbmcsCiAgICBTY2FuUmVzdWx0LAogICAgZXNjYWxhdGVzLAogICAgbWV0YV9zdW1tYXJ5LAogICAgcmVwb3J0X3RleHQsCiAgICBzY2FuLAopCmZyb20gbW9uaXRvcmxpYi51dGlsIGltcG9ydCBfZWxhcHNlZF9tcywgX2Vudl9pbnQKCiMgVGhlIGZ1bGwgcHVibGljIHN1cmZhY2UsIHJlLWV4cG9ydGVkIGZyb20gbW9uaXRvcmxpYi4gRGVyaXZlZCBmcm9tIGdsb2JhbHMoKSBzbyB0aGVyZQojIGlzIE9ORSBzb3VyY2Ugb2YgdHJ1dGggKHRoZSBpbXBvcnRzIGFib3ZlKTogZXZlcnkgcmUtZXhwb3J0ZWQgbmFtZSBpcyBsaXN0ZWQgZXhhY3RseQojIG9uY2UsIGF0IGl0cyBpbXBvcnQsIGFuZCBjYW5ub3QgZHJpZnQgZnJvbSBhIGhhbmQta2VwdCBsaXRlcmFsLiBFeGNsdWRlcyBkdW5kZXJzIGFuZAojIHRoZSBzdGRsaWIgc2luZ2xldG9ucyByZS1leHBvcnRlZCBvbmx5IGZvciB0ZXN0IG1vbmtleXBhdGNoaW5nIChodHRwL3RpbWUvdXJsbGliL1BhdGgpCiMgb3IgdXNlZCBieSBfX21haW5fXyAoanNvbi9zeXMpLgojIGBzb3J0ZWRgIGRyYWlucyBsYXppbHksIGFuZCBhIHdhcm5pbmcgcmFpc2VkIG1pZC1kcmFpbiBpbnNlcnRzIGBfX3dhcm5pbmdyZWdpc3RyeV9fYAojIGludG8gdGhpcyBmcmFtZSwgYWJvcnRpbmcgdGhlIGltcG9ydDsgdGhlIGB0dXBsZWAgc25hcHNob3QgcHV0cyB0aGF0IGtleSBvdXQgb2YgcmVhY2guCl9fYWxsX18gPSBzb3J0ZWQoICAjIG5vcWE6IFBMRTA2MDUgICMgcHlyaWdodDogaWdub3JlW3JlcG9ydFVuc3VwcG9ydGVkRHVuZGVyQWxsXQogICAgbgogICAgZm9yIG4gaW4gdHVwbGUoZ2xvYmFscygpKQogICAgaWYgbm90IG4uc3RhcnRzd2l0aCgiX18iKQogICAgYW5kIG4gbm90IGluIHsiaHR0cCIsICJqc29uIiwgInN5cyIsICJ0aW1lIiwgInVybGxpYiIsICJQYXRoIn0KKQojIHB5cmlnaHQgY2Fubm90IHN0YXRpY2FsbHkgcmVzb2x2ZSBhIGNvbXB1dGVkIF9fYWxsX18gKGl0IHdhbnRzIGEgc3RyaW5nLWxpdGVyYWwgbGlzdCB0bwojIHZlcmlmeSByZS1leHBvcnRzKTsgdGVzdF9tb25pdG9yX2ZhY2FkZV9zdXJmYWNlLnB5IHBpbnMgdGhlIGRlcml2YXRpb24gYXQgcnVudGltZQojIGluc3RlYWQg4oCUIGEgc3Ryb25nZXIgZ3VhcmFudGVlIHRoYW4gdGhlIGxpdGVyYWwgaXQgcmVwbGFjZXMuCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGFyZyA9IHN5cy5hcmd2WzFdIGlmIGxlbihzeXMuYXJndikgPiAxIGVsc2UgIiIKICAgIGlmIGFyZyA9PSAiLS1jaGVjay1hbGxvdyI6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBlbnZlbG9wZSA9IGpzb24ubG9hZHMoc3lzLnN0ZGluLnJlYWQoKSkKICAgICAgICBleGNlcHQgVmFsdWVFcnJvciBhcyBleGM6CiAgICAgICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoMSkgZnJvbSBleGMKICAgICAgICAjIEEgdmFsaWQtSlNPTiBub24tb2JqZWN0IGNhcnJpZXMgbm8gdG9vbF9uYW1lL3Rvb2xfaW5wdXQsIHNvIGl0IGlzIHRoZSBzYW1lCiAgICAgICAgIyAiY2Fubm90IHJlYWQgdGhpcyBjYWxsIiBzdGF0ZSBhcyB1bnBhcnNlYWJsZSBpbnB1dDogZXhpdCAxLCBtZWFuaW5nIE5PVAogICAgICAgICMgYWxsb3ctbGlzdGVkLCBzbyB0aGUgbGF1bmNoZXIgbW9uaXRvcnMgdGhlIGNhbGwgcmF0aGVyIHRoYW4gY3Jhc2guIFJlYWRpbmcgLmdldCgpCiAgICAgICAgIyBvZmYgaXQgaW5zdGVhZCByYWlzZXMgaGVyZSwgYW5kIHRoZSB0cmFjZWJhY2sgcmVhY2hlcyBzdGRlcnIgd2hpbGUgdGhlIGxhdW5jaGVyJ3MKICAgICAgICAjIGZhaWwtY2xvc2VkIHZlcmRpY3Qgc3RpbGwgcHJpbnRzIOKAlCBhIHRyYWNlIHRoYXQgcmVhZHMgYXMgYSBnYXRlIGNyYXNoZWQgb3Blbi4KICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShlbnZlbG9wZSwgZGljdCk6CiAgICAgICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoMSkKICAgICAgICBpZiBub3QgY2hlY2tfYWxsb3dfbGlzdCgKICAgICAgICAgICAgZW52ZWxvcGUuZ2V0KCJ0b29sX25hbWUiLCAiIiksCiAgICAgICAgICAgIGVudmVsb3BlLmdldCgidG9vbF9pbnB1dCIsIHt9KSwKICAgICAgICAgICAgZW52ZWxvcGUuZ2V0KCJwZXJtaXNzaW9uX21vZGUiLCAiIiksCiAgICAgICAgKToKICAgICAgICAgICAgcmFpc2UgU3lzdGVtRXhpdCgxKQogICAgZWxpZiBhcmcgPT0gIi0tcmVzb2x2ZS1jdXN0b20tbW9uaXRvciI6CiAgICAgICAgIyBIb3N0LXNpZGUgcmVzb2x1dGlvbiBiZWZvcmUgYW55IGNvbnRhaW5lciBzdGFydHM6IG1lcmdlICsgdmFsaWRhdGUgdGhlCiAgICAgICAgIyBjdXN0b20tbW9uaXRvciBsaXN0IGZyb20gdGhlIHByb2plY3QgYW5kIGxvY2FsIHNldHRpbmdzIGZpbGVzLCBwcmludCB0aGUKICAgICAgICAjIHNlcmlhbGl6ZWQgbWVyZ2VkIGNvbmZpZyBvbiBzdWNjZXNzLCBhbmQgc2lnbmFsIHRoZSBvdXRjb21lIHZpYSB0aGUgZXhpdCBjb2RlCiAgICAgICAgIyB0aGUgbGF1bmNoZXIgYnJhbmNoZXMgb24uIDAgPSBwcmludGVkLCAyID0gbmVpdGhlciBmaWxlIGRlZmluZXMgaXQgKHByb2NlZWQKICAgICAgICAjIHdpdGggdGhlIGN1c3RvbSBsZWdzIGRpc2FibGVkKSwgMSA9IG1hbGZvcm1lZCAoYWJvcnQgbG91ZGx5KS4KICAgICAgICBpZiBsZW4oc3lzLmFyZ3YpICE9IDQ6CiAgICAgICAgICAgIHByaW50KAogICAgICAgICAgICAgICAgInVzYWdlOiBtb25pdG9yLnB5IC0tcmVzb2x2ZS1jdXN0b20tbW9uaXRvciBQUk9KRUNUIExPQ0FMIiwKICAgICAgICAgICAgICAgIGZpbGU9c3lzLnN0ZGVyciwKICAgICAgICAgICAgKQogICAgICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KDEpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBjZmcgPSByZXNvbHZlX2Zyb21fZmlsZXMoc3lzLmFyZ3ZbMl0sIHN5cy5hcmd2WzNdKQogICAgICAgIGV4Y2VwdCBDdXN0b21Nb25pdG9yRXJyb3IgYXMgZXhjOgogICAgICAgICAgICBwcmludChmIltjdXN0b20gbW9uaXRvcl0ge2V4Y30iLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoMSkgZnJvbSBleGMKICAgICAgICBpZiBjZmcgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgU3lzdGVtRXhpdCgyKQogICAgICAgIHByaW50KHRvX2pzb24oY2ZnKSkKICAgIGVsaWYgYXJnID09ICItLXNlc3Npb24tc3VtbWFyeSI6CiAgICAgICAgcHJpbnRfc2Vzc2lvbl9zdW1tYXJ5KCkKICAgIGVsaWYgYXJnID09ICItLXNlbmQtdGVzdC1udGZ5IjoKICAgICAgICBzZW5kX3Rlc3RfbnRmeSgpCiAgICBlbGlmIGFyZyA9PSAiLS10cmlwLXRlc3QiOgogICAgICAgIHJ1bl90cmlwX3Rlc3QoKQogICAgZWxpZiBhcmcgPT0gIi0tcHJvYmUta2V5IjoKICAgICAgICBydW5fa2V5X3Byb2JlKCkKICAgIGVsc2U6CiAgICAgICAgbWFpbigpCg==
+#!/usr/bin/env python3
+"""AI safety monitor for Claude Code (PreToolUse hook).
+
+Implements the "AI control" pattern: a cheap, trusted model gates each tool call
+from the primary (untrusted) model before it executes. Tool calls on a curated
+safe-list are skipped with no API call — see check_allow_list.
+
+INVARIANT — the verdict is SAFETY-MONOTONIC across both hooks: the monitor may
+escalate a call toward more restriction (deny -> ask) but never relax one, and an
+allow can never overturn a deny. "ask" is the most restrictive tier, because it
+suspends the agent for a human, so an escalation never weakens the operator's intent.
+
+PreToolUse IS the line of defense in non-auto modes. In AUTO mode the built-in
+classifier is the gate, so this path only allows and audits, and the shared judge
+short-circuits the in-VM /check call the same way. PermissionDenied fires only in auto mode,
+after the classifier hard-denies, and is ESCALATE-ONLY: an "allow" is clamped back
+to "deny" and the denial stands with retry:false. See handle_permission_denied.
+
+This file runs on the HOST, from the repo checkout that `bin/lib/vm/services.bash`
+points `_GLOVEBOX_MONITOR_SCRIPT` at. No image carries it.
+"""
+
+# Re-exported so tests can monkeypatch shared singletons on the facade module — mon.time.sleep,
+# mon.urllib.request.urlopen, mon.Path.read_text. Every monitorlib module imports the same objects,
+# so a patch here is package-wide. __all__ comes from globals(), hiding the re-exports from linters.
+# ruff: noqa: F401
+# The path bootstrap below has to run first, so every monitorlib import follows a statement.
+# pylint: disable=unused-import,wrong-import-position
+import json
+import sys
+import time
+import urllib.request
+from pathlib import Path
+
+# monitorlib ships as the `glovebox-monitor` package. A copy beside this file is the one to run,
+# and session-setup.sh's hook pin is what puts it there. Test for its `__init__.py` — a directory
+# holding only a stale `__pycache__` imports as an empty namespace package. Name that directory
+# explicitly, since PYTHONSAFEPATH drops the script directory from sys.path and the src tree must
+# never outrank the copy. A source checkout has no copy; an installed one is already importable.
+_HOOK_DIR = Path(__file__).resolve().parent
+_MONITORLIB_SRC = _HOOK_DIR.parents[1] / "glovebox-monitor" / "src"
+if (_HOOK_DIR / "monitorlib" / "__init__.py").is_file():
+    if all(Path(entry or ".").resolve() != _HOOK_DIR for entry in sys.path):
+        sys.path.insert(0, str(_HOOK_DIR))
+elif _MONITORLIB_SRC.is_dir():
+    sys.path.append(str(_MONITORLIB_SRC))
+
+from monitorlib import (
+    allowlist,
+    api,
+    audit,
+    callio,
+    circuit_breaker,
+    core,
+    cost,
+    custom_monitor,
+    decision,
+    formatting,
+    history,
+    ntfy,
+    providers,
+    repeat_deny,
+    risk,
+    staticscan,
+    util,
+)
+from monitorlib.allowlist import (
+    _MONITOR_SAFE_BASH,
+    _MONITOR_SAFE_TOOLS,
+    PermissionMode,
+    check_allow_list,
+    mode_has_human_prompt,
+)
+from monitorlib.api import (
+    _MAX_IDLE_CONNS,
+    _RETRY_BACKOFF_SECS,
+    WIRES,
+    ApiCall,
+    ApiReply,
+    Wire,
+    _anthropic_usage,
+    _extract_anthropic_text,
+    _extract_anthropic_trace,
+    _extract_openai_text,
+    _extract_openai_trace,
+    _http_client,
+    _http_request,
+    _import_httpx,
+    _openai_usage,
+    _reasoning_requested,
+    _request,
+    _verdict_schema,
+    call_api,
+    generate_text,
+    probe_key_auth,
+)
+from monitorlib.audit import (
+    DecisionLog,
+    MetaInputs,
+    _build_meta,
+    _meta_storage,
+    _reason_storage,
+    _stash_meta,
+    _stash_raw_reason,
+    get_last_call_meta,
+    get_last_raw_reason,
+    log_decision,
+)
+from monitorlib.callio import (
+    _call_api_safe,
+    _CallParams,
+    _parse_call_params,
+    _record_spend,
+    agent_origin_line,
+)
+from monitorlib.circuit_breaker import (
+    CB_DIR,
+    CB_FILE,
+    clear_cb,
+    read_cb,
+    read_probe,
+    record_failure,
+    write_probe,
+)
+from monitorlib.core import (
+    TRIP_TEST_ENVELOPE,
+    emit,
+    evaluate,
+    handle_permission_denied,
+    main,
+    permission_denied_output,
+    run_key_probe,
+    run_trip_test,
+)
+from monitorlib.cost import (
+    ApiUsage,
+    _load_prices_from,
+    compute_cost,
+    load_prices,
+)
+from monitorlib.custom_monitor import (
+    CONFIG_KEY as CUSTOM_MONITOR_CONFIG_KEY,
+)
+from monitorlib.custom_monitor import (
+    CustomMonitorConfig,
+    CustomMonitorError,
+    clamp_to_capabilities,
+    matches_tool,
+    merge_and_clamp,
+    parse_leg_output,
+    resolve,
+    resolve_from_files,
+    to_json,
+)
+from monitorlib.decision import (
+    _DECISION_VALUES,
+    Decision,
+    clamp_escalate_only,
+    more_cautious_decision,
+    parse_decision,
+    parse_suspicion,
+)
+from monitorlib.formatting import (
+    _GLOVEBOX_MONITOR_INPUT_BUDGET,
+    DENY_LEAD,
+    DENY_REDACTED,
+    _format_edits,
+    denial_target,
+    elide_middle,
+    format_tool_input,
+    hook_output,
+    terminal_deny_reason,
+)
+from monitorlib.history import (
+    _CENSUS_TOP_TOOLS,
+    _SENSITIVE_PATTERNS,
+    _SENSITIVE_RE,
+    AUDIT_HISTORY_BUDGET,
+    AUDIT_HISTORY_MAX_ENTRIES,
+    HISTORY_BUDGET,
+    HISTORY_MAX_ENTRIES,
+    _audit_entry_summary,
+    _census_line,
+    _iter_json_records,
+    _summarize_entry,
+    audit_history_block,
+    history_block,
+    prior_audit_history_block,
+    summarize_audit_history,
+    summarize_prior_audit_history,
+    summarize_transcript,
+)
+from monitorlib.ntfy import send_ntfy, send_test_ntfy
+from monitorlib.providers import (
+    _NO_KEY_MSG,
+    PROVIDERS,
+    LLMConfig,
+    PolicyUnavailable,
+    Provider,
+    detect_provider,
+    load_models,
+    load_policy,
+    resolve_llm,
+    select_model,
+)
+from monitorlib.risk import (
+    ActionType,
+    RiskTier,
+    ask_threshold,
+    classify_type,
+    tier_for,
+)
+from monitorlib.session_summary import print_session_summary
+from monitorlib.staticscan import (
+    Finding,
+    ScanResult,
+    escalates,
+    meta_summary,
+    report_text,
+    scan,
+)
+from monitorlib.util import _elapsed_ms, _env_int
+
+# The full public surface, re-exported from monitorlib. Derived from globals() so there
+# is ONE source of truth (the imports above): every re-exported name is listed exactly
+# once, at its import, and cannot drift from a hand-kept literal. Excludes dunders and
+# the stdlib singletons re-exported only for test monkeypatching (http/time/urllib/Path)
+# or used by __main__ (json/sys).
+# `sorted` drains lazily, and a warning raised mid-drain inserts `__warningregistry__`
+# into this frame, aborting the import; the `tuple` snapshot puts that key out of reach.
+__all__ = sorted(  # noqa: PLE0605  # pyright: ignore[reportUnsupportedDunderAll]
+    n
+    for n in tuple(globals())
+    if not n.startswith("__")
+    and n not in {"http", "json", "sys", "time", "urllib", "Path"}
+)
+# pyright cannot statically resolve a computed __all__ (it wants a string-literal list to
+# verify re-exports); test_monitor_facade_surface.py pins the derivation at runtime
+# instead — a stronger guarantee than the literal it replaces.
+
+
+if __name__ == "__main__":
+    arg = sys.argv[1] if len(sys.argv) > 1 else ""
+    if arg == "--check-allow":
+        try:
+            envelope = json.loads(sys.stdin.read())
+        except ValueError as exc:
+            raise SystemExit(1) from exc
+        # A valid-JSON non-object carries no tool_name/tool_input, so it is the same
+        # "cannot read this call" state as unparseable input: exit 1, meaning NOT
+        # allow-listed, so the launcher monitors the call rather than crash. Reading .get()
+        # off it instead raises here, and the traceback reaches stderr while the launcher's
+        # fail-closed verdict still prints — a trace that reads as a gate crashed open.
+        if not isinstance(envelope, dict):
+            raise SystemExit(1)
+        if not check_allow_list(
+            envelope.get("tool_name", ""),
+            envelope.get("tool_input", {}),
+            envelope.get("permission_mode", ""),
+        ):
+            raise SystemExit(1)
+    elif arg == "--resolve-custom-monitor":
+        # Host-side resolution before any container starts: merge + validate the
+        # custom-monitor list from the project and local settings files, print the
+        # serialized merged config on success, and signal the outcome via the exit code
+        # the launcher branches on. 0 = printed, 2 = neither file defines it (proceed
+        # with the custom legs disabled), 1 = malformed (abort loudly).
+        if len(sys.argv) != 4:
+            print(
+                "usage: monitor.py --resolve-custom-monitor PROJECT LOCAL",
+                file=sys.stderr,
+            )
+            raise SystemExit(1)
+        try:
+            cfg = resolve_from_files(sys.argv[2], sys.argv[3])
+        except CustomMonitorError as exc:
+            print(f"[custom monitor] {exc}", file=sys.stderr)
+            raise SystemExit(1) from exc
+        if cfg is None:
+            raise SystemExit(2)
+        print(to_json(cfg))
+    elif arg == "--session-summary":
+        print_session_summary()
+    elif arg == "--send-test-ntfy":
+        send_test_ntfy()
+    elif arg == "--trip-test":
+        run_trip_test()
+    elif arg == "--probe-key":
+        run_key_probe()
+    else:
+        main()

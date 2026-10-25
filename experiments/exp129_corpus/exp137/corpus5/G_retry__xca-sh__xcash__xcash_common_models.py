@@ -1,1 +1,36 @@
-ZnJvbSBkamFuZ28uZGIgaW1wb3J0IG1vZGVscwpmcm9tIGRqYW5nby5kYi5tb2RlbHMgaW1wb3J0IFByb3RlY3RlZEVycm9yCgoKY2xhc3MgVW5kZWxldGFibGVRdWVyeVNldChtb2RlbHMuUXVlcnlTZXQpOgogICAgIiIi56aB5q2i5om56YeP5Yig6Zmk55qEIFF1ZXJ5U2V044CCCgogICAgRGphbmdvIOeahCBRdWVyeVNldC5kZWxldGUoKSDml6LkuI3kvJrosIPnlKggTW9kZWwuZGVsZXRlKCnvvIzkuZ/kuI3kvJrlm57osIPmqKHlnovkuIrnmoQKICAgIOS7u+S9leiHquWumuS5ieaWueazle+8m+WboOatpOWPqumHjeWGmSBNb2RlbC5kZWxldGUoKSDml7bvvIxNb2RlbC5vYmplY3RzLmZpbHRlciguLi4pLmRlbGV0ZSgpCiAgICDkvJrnu5Xov4flrp7kvovnuqfkv53miqTnm7TmjqXlj5Hlh7ogU1FM44CC5om56YeP5Yig6Zmk5b+F6aG75ZyoIFF1ZXJ5U2V0IOWxguaLpuaIquaJjeecn+ato+eUn+aViOOAggogICAgIiIiCgogICAgZGVmIGRlbGV0ZShzZWxmKToKICAgICAgICByYWlzZSBQcm90ZWN0ZWRFcnJvcigi56aB5q2i5Yig6ZmkLiIsIHNlbGYpCgoKY2xhc3MgVW5kZWxldGFibGVNb2RlbChtb2RlbHMuTW9kZWwpOgogICAgIiIi56aB5q2i5Yig6Zmk55qE5oq96LGh5Z+657G75qih5Z6L44CCCgogICAg5ZCM5pe25aC15q275Lik5p2hIE9STSDliKDpmaTot6/lvoTvvJoKICAgIC0g5a6e5L6L57qn77yab2JqLmRlbGV0ZSgpCiAgICAtIOaJuemHj+e6p++8mk1vZGVsLm9iamVjdHMuZmlsdGVyKC4uLikuZGVsZXRlKCnjgIHlj43lkJHlhbPns7sgcmVsLmFsbCgpLmRlbGV0ZSgpCgogICAg5oq96LGh5Z+657G75LiK5aOw5piO55qEIG1hbmFnZXIg5Lya6KKr5a2Q57G757un5om/77yM5pWF5a2Q57G75peg6ZyA5ZCE6Ieq6YeN5aSN5oyC6L2944CCCiAgICDms6jmhI/vvJrmlbDmja7lupPnuqfogZTliKDpmaTnlLEgRGphbmdvIOeahCBDb2xsZWN0b3Ig55u05o6l5omn6KGMIFNRTO+8jOaXouS4jei1sAogICAgTW9kZWwuZGVsZXRlKCkg5Lmf5LiN6LWwIFF1ZXJ5U2V0LmRlbGV0ZSgp77yM5peg5rOV55SoIE9STSDpkqnlrZDmi6bmiKrvvJvlpoLpnIDpmLLmraIKICAgIOe6p+iBlOi/nuW4puWIoOmZpO+8jOW6lOWcqOWklumUruS4iuS9v+eUqCBvbl9kZWxldGU9UFJPVEVDVOOAggogICAgIiIiCgogICAgb2JqZWN0cyA9IG1vZGVscy5NYW5hZ2VyLmZyb21fcXVlcnlzZXQoVW5kZWxldGFibGVRdWVyeVNldCkoKQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgYWJzdHJhY3QgPSBUcnVlICAjIOaKveixoeWfuuexu++8jOiHqui6q+S4jeW7uuihqAoKICAgIGRlZiBkZWxldGUoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICByYWlzZSBQcm90ZWN0ZWRFcnJvcigi56aB5q2i5Yig6ZmkLiIsIHtzZWxmfSkK
+from django.db import models
+from django.db.models import ProtectedError
+
+
+class UndeletableQuerySet(models.QuerySet):
+    """禁止批量删除的 QuerySet。
+
+    Django 的 QuerySet.delete() 既不会调用 Model.delete()，也不会回调模型上的
+    任何自定义方法；因此只重写 Model.delete() 时，Model.objects.filter(...).delete()
+    会绕过实例级保护直接发出 SQL。批量删除必须在 QuerySet 层拦截才真正生效。
+    """
+
+    def delete(self):
+        raise ProtectedError("禁止删除.", self)
+
+
+class UndeletableModel(models.Model):
+    """禁止删除的抽象基类模型。
+
+    同时堵死两条 ORM 删除路径：
+    - 实例级：obj.delete()
+    - 批量级：Model.objects.filter(...).delete()、反向关系 rel.all().delete()
+
+    抽象基类上声明的 manager 会被子类继承，故子类无需各自重复挂载。
+    注意：数据库级联删除由 Django 的 Collector 直接执行 SQL，既不走
+    Model.delete() 也不走 QuerySet.delete()，无法用 ORM 钩子拦截；如需防止
+    级联连带删除，应在外键上使用 on_delete=PROTECT。
+    """
+
+    objects = models.Manager.from_queryset(UndeletableQuerySet)()
+
+    class Meta:
+        abstract = True  # 抽象基类，自身不建表
+
+    def delete(self, *args, **kwargs):
+        raise ProtectedError("禁止删除.", {self})

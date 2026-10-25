@@ -1,1 +1,112 @@
-aW1wb3J0IHJlCgpmcm9tIGluc3BlY3RfYWkgaW1wb3J0IFRhc2ssIHRhc2sKZnJvbSBpbnNwZWN0X2FpLmRhdGFzZXQgaW1wb3J0IEZpZWxkU3BlYywgaGZfZGF0YXNldApmcm9tIGluc3BlY3RfYWkubW9kZWwgaW1wb3J0IEdlbmVyYXRlQ29uZmlnLCBnZXRfbW9kZWwKZnJvbSBpbnNwZWN0X2FpLnNjb3JlciBpbXBvcnQgKAogICAgQ09SUkVDVCwKICAgIElOQ09SUkVDVCwKICAgIEFuc3dlclBhdHRlcm4sCiAgICBTY29yZSwKICAgIFRhcmdldCwKICAgIGFjY3VyYWN5LAogICAgc2NvcmVyLAogICAgc3RkZXJyLAopCmZyb20gaW5zcGVjdF9haS5zb2x2ZXIgaW1wb3J0IFRhc2tTdGF0ZSwgZ2VuZXJhdGUsIHByb21wdF90ZW1wbGF0ZQoKCkB0YXNrCmRlZiBtYXRoKHNodWZmbGU9VHJ1ZSk6CiAgICByZXR1cm4gVGFzaygKICAgICAgICBkYXRhc2V0PWhmX2RhdGFzZXQoCiAgICAgICAgICAgICJIdWdnaW5nRmFjZUg0L01BVEgtNTAwIiwKICAgICAgICAgICAgc3BsaXQ9InRlc3QiLAogICAgICAgICAgICBzYW1wbGVfZmllbGRzPUZpZWxkU3BlYyhpbnB1dD0icHJvYmxlbSIsIHRhcmdldD0ic29sdXRpb24iKSwKICAgICAgICAgICAgc2h1ZmZsZT1zaHVmZmxlLAogICAgICAgICksCiAgICAgICAgc29sdmVyPVsKICAgICAgICAgICAgcHJvbXB0X3RlbXBsYXRlKFBST01QVF9URU1QTEFURSksCiAgICAgICAgICAgIGdlbmVyYXRlKCksCiAgICAgICAgXSwKICAgICAgICBzY29yZXI9ZXhwcmVzc2lvbl9lcXVpdmFsZW5jZSgpLAogICAgICAgIGNvbmZpZz1HZW5lcmF0ZUNvbmZpZyh0ZW1wZXJhdHVyZT0wLjUpLAogICAgKQoKCkBzY29yZXIobWV0cmljcz1bYWNjdXJhY3koKSwgc3RkZXJyKCldKQpkZWYgZXhwcmVzc2lvbl9lcXVpdmFsZW5jZSgpOgogICAgYXN5bmMgZGVmIHNjb3JlKHN0YXRlOiBUYXNrU3RhdGUsIHRhcmdldDogVGFyZ2V0KToKICAgICAgICAjIGV4dHJhY3QgYW5zd2VyCiAgICAgICAgbWF0Y2ggPSByZS5zZWFyY2goQW5zd2VyUGF0dGVybi5MSU5FLCBzdGF0ZS5vdXRwdXQuY29tcGxldGlvbikKICAgICAgICBpZiBtYXRjaDoKICAgICAgICAgICAgIyBhc2sgdGhlIG1vZGVsIHRvIGp1ZGdlIGVxdWl2YWxlbmNlCiAgICAgICAgICAgIGFuc3dlciA9IG1hdGNoLmdyb3VwKDEpCiAgICAgICAgICAgIHByb21wdCA9IEVRVUlWQUxFTkNFX1RFTVBMQVRFICUgKAogICAgICAgICAgICAgICAgeyJleHByZXNzaW9uMSI6IHRhcmdldC50ZXh0LCAiZXhwcmVzc2lvbjIiOiBhbnN3ZXJ9CiAgICAgICAgICAgICkKICAgICAgICAgICAgcmVzdWx0ID0gYXdhaXQgZ2V0X21vZGVsKCkuZ2VuZXJhdGUocHJvbXB0KQoKICAgICAgICAgICAgIyByZXR1cm4gdGhlIHNjb3JlCiAgICAgICAgICAgIGNvcnJlY3QgPSByZXN1bHQuY29tcGxldGlvbi5sb3dlcigpID09ICJ5ZXMiCiAgICAgICAgICAgIHJldHVybiBTY29yZSgKICAgICAgICAgICAgICAgIHZhbHVlPUNPUlJFQ1QgaWYgY29ycmVjdCBlbHNlIElOQ09SUkVDVCwKICAgICAgICAgICAgICAgIGFuc3dlcj1hbnN3ZXIsCiAgICAgICAgICAgICAgICBleHBsYW5hdGlvbj1zdGF0ZS5vdXRwdXQuY29tcGxldGlvbiwKICAgICAgICAgICAgKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBTY29yZSgKICAgICAgICAgICAgICAgIHZhbHVlPUlOQ09SUkVDVCwKICAgICAgICAgICAgICAgIGV4cGxhbmF0aW9uPSJBbnN3ZXIgbm90IGZvdW5kIGluIG1vZGVsIG91dHB1dDogIgogICAgICAgICAgICAgICAgKyBmIntzdGF0ZS5vdXRwdXQuY29tcGxldGlvbn0iLAogICAgICAgICAgICApCgogICAgcmV0dXJuIHNjb3JlCgoKIyBzZXR1cCBmb3IgcHJvYmxlbSArIGluc3RydWN0aW9ucyBmb3IgcHJvdmlkaW5nIGFuc3dlcgpQUk9NUFRfVEVNUExBVEUgPSAiIiIKU29sdmUgdGhlIGZvbGxvd2luZyBtYXRoIHByb2JsZW0gc3RlcCBieSBzdGVwLiBUaGUgbGFzdCBsaW5lCm9mIHlvdXIgcmVzcG9uc2Ugc2hvdWxkIGJlIG9mIHRoZSBmb3JtIEFOU1dFUjogJEFOU1dFUiAod2l0aG91dApxdW90ZXMpIHdoZXJlICRBTlNXRVIgaXMgdGhlIGFuc3dlciB0byB0aGUgcHJvYmxlbS4KCntwcm9tcHR9CgpSZW1lbWJlciB0byBwdXQgeW91ciBhbnN3ZXIgb24gaXRzIG93biBsaW5lIGFmdGVyICJBTlNXRVI6IiwKYW5kIHlvdSBkbyBub3QgbmVlZCB0byB1c2UgYSBcXGJveGVkIGNvbW1hbmQuCiIiIi5zdHJpcCgpCgoKIyBzZXR1cCBmb3Igc2NvcmVyIHRvIGp1ZGdlIGV4cHJlc3Npb24gZXF1aXZhbGFuY2UKRVFVSVZBTEVOQ0VfVEVNUExBVEUgPSByIiIiCkxvb2sgYXQgdGhlIGZvbGxvd2luZyB0d28gZXhwcmVzc2lvbnMgKGFuc3dlcnMgdG8gYSBtYXRoIHByb2JsZW0pCmFuZCBqdWRnZSB3aGV0aGVyIHRoZXkgYXJlIGVxdWl2YWxlbnQuIE9ubHkgcGVyZm9ybSB0cml2aWFsCnNpbXBsaWZpY2F0aW9ucwoKRXhhbXBsZXM6CgogICAgRXhwcmVzc2lvbiAxOiAkMngrMyQKICAgIEV4cHJlc3Npb24gMjogJDMrMngkCgpZZXMKCiAgICBFeHByZXNzaW9uIDE6ICR4XjIrMngrMSQKICAgIEV4cHJlc3Npb24gMjogJHleMisyeSsxJAoKTm8KCiAgICBFeHByZXNzaW9uIDE6IDcyIGRlZ3JlZXMKICAgIEV4cHJlc3Npb24gMjogNzIKClllcwooZ2l2ZSBiZW5lZml0IG9mIHRoZSBkb3VidCB0byB1bml0cykKLS0tCgpZT1VSIFRBU0sKClJlc3BvbmQgd2l0aCBvbmx5ICJZZXMiIG9yICJObyIgKHdpdGhvdXQgcXVvdGVzKS4gRG8gbm90IGluY2x1ZGUKYSByYXRpb25hbGUuCgogICAgRXhwcmVzc2lvbiAxOiAlKGV4cHJlc3Npb24xKXMKICAgIEV4cHJlc3Npb24gMjogJShleHByZXNzaW9uMilzCiIiIi5zdHJpcCgpCg==
+import re
+
+from inspect_ai import Task, task
+from inspect_ai.dataset import FieldSpec, hf_dataset
+from inspect_ai.model import GenerateConfig, get_model
+from inspect_ai.scorer import (
+    CORRECT,
+    INCORRECT,
+    AnswerPattern,
+    Score,
+    Target,
+    accuracy,
+    scorer,
+    stderr,
+)
+from inspect_ai.solver import TaskState, generate, prompt_template
+
+
+@task
+def math(shuffle=True):
+    return Task(
+        dataset=hf_dataset(
+            "HuggingFaceH4/MATH-500",
+            split="test",
+            sample_fields=FieldSpec(input="problem", target="solution"),
+            shuffle=shuffle,
+        ),
+        solver=[
+            prompt_template(PROMPT_TEMPLATE),
+            generate(),
+        ],
+        scorer=expression_equivalence(),
+        config=GenerateConfig(temperature=0.5),
+    )
+
+
+@scorer(metrics=[accuracy(), stderr()])
+def expression_equivalence():
+    async def score(state: TaskState, target: Target):
+        # extract answer
+        match = re.search(AnswerPattern.LINE, state.output.completion)
+        if match:
+            # ask the model to judge equivalence
+            answer = match.group(1)
+            prompt = EQUIVALENCE_TEMPLATE % (
+                {"expression1": target.text, "expression2": answer}
+            )
+            result = await get_model().generate(prompt)
+
+            # return the score
+            correct = result.completion.lower() == "yes"
+            return Score(
+                value=CORRECT if correct else INCORRECT,
+                answer=answer,
+                explanation=state.output.completion,
+            )
+        else:
+            return Score(
+                value=INCORRECT,
+                explanation="Answer not found in model output: "
+                + f"{state.output.completion}",
+            )
+
+    return score
+
+
+# setup for problem + instructions for providing answer
+PROMPT_TEMPLATE = """
+Solve the following math problem step by step. The last line
+of your response should be of the form ANSWER: $ANSWER (without
+quotes) where $ANSWER is the answer to the problem.
+
+{prompt}
+
+Remember to put your answer on its own line after "ANSWER:",
+and you do not need to use a \\boxed command.
+""".strip()
+
+
+# setup for scorer to judge expression equivalance
+EQUIVALENCE_TEMPLATE = r"""
+Look at the following two expressions (answers to a math problem)
+and judge whether they are equivalent. Only perform trivial
+simplifications
+
+Examples:
+
+    Expression 1: $2x+3$
+    Expression 2: $3+2x$
+
+Yes
+
+    Expression 1: $x^2+2x+1$
+    Expression 2: $y^2+2y+1$
+
+No
+
+    Expression 1: 72 degrees
+    Expression 2: 72
+
+Yes
+(give benefit of the doubt to units)
+---
+
+YOUR TASK
+
+Respond with only "Yes" or "No" (without quotes). Do not include
+a rationale.
+
+    Expression 1: %(expression1)s
+    Expression 2: %(expression2)s
+""".strip()

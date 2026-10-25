@@ -1,1 +1,149 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK55yf5a6e6aqM6K+BICM077ya5aSa5pm66IO95L2T5Y2P5L2c44CCCgrimIUg5bm26KGMIOKJoCDljY/kvZzjgIIKICDotbcgNCDkuKrov5vnqIvlkIzml7bot5HvvIzpgqPlj6rmmK/lubbooYwg4oCU4oCUIOiwgeS5n+S4jeeci+iwgeeahOe7k+iuuu+8jOmUmeeahOS4gOi1t+mUmeOAggogIOWNj+S9nOeahOWumuS5ieaYr++8muWNleS4qiBhZ2VudCDmipPkuI3liLDnmoTplJnvvIzljY/kvZzmnLrliLbog73mipPliLDjgIIKCuaJgOS7pei/memHjOWBmueahOS4jeaYryLliIblt6XliqDpgJ8i77yM5piv44CQ5Lqk5Y+J5qCh6aqMICsg5Yay56qB5qOA5rWL44CR77yaCgogIDQg5Liq54us56uLIGFnZW50IOWQhOiHquaguOWvueWQjOS4gOaJueS6i+WungogIOWFtuS4rSAxIOS4quiiq+OAkOazqOWFpeW3suefpemUmeivr+OAke+8iOWWgumUmeeahOaVsO+8iQogIOeci+WNj+iwg+iAheiDveS4jeiDveaKiumCo+S4quW8guexu+aPquWHuuadpQoK5Yik5o2u77yaCiAg4pGgIOecn+W5tuihjCDigJTigJQgNCDkuKrni6znq4vov5vnqIvvvIzlkIToh6rnmoQgcnVudHJhY2XvvIxQSUQg5LiN5ZCMCiAg4pGhIOecn+eLrOeriyDigJTigJQgYWdlbnQg5LmL6Ze05LiN6YCa5L+h77yM57uT6K665LqS5LiN55+l5oOFCiAg4pGiIOWGsueqgeWPr+ingSDigJTigJQg5YiG5q2n5b+F6aG76KKr5YiX5Ye65p2l77yM5LiN6K645Y+W5aSa5pWw5oqV56Wo5o6p55uWCiAg4pGjIOazqOWFpeeahOmCo+S4quW/hemhu+iiq+aKk+WIsAoK5Li65LuA5LmI5LiN6K645aSa5pWw5oqV56Wo77yaCiAgNCDkuKrph4wgMyDkuKror7QgN+OAgTEg5Liq6K+0IDnvvIzmipXnpajnu5PmnpzmmK8gNyDigJTigJQg55yL6LW35p2l5a+577yMCiAg5L2GIjci6L+Z5Liq562U5qGI5ZKMIuaciSAxIOS4quWcqOaSkuiwjiLov5nkuKTku7bkuovvvIzlkI7ogIXmiY3mmK/kv6Hmga/jgIIKICDmipXmjonliIbmracgPSDmiormnIDlgLzpkrHnmoTpgqPmnaHmiZTkuobjgIIKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uLCB0aW1lLCBzdWJwcm9jZXNzLCB0ZW1wZmlsZSwgaGFzaGxpYgoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpTSEFSRSA9IG9zLnBhdGguam9pbihIRVJFLCAiLnNlbnNlIiwgIm11bHRpYWdlbnQiKQpvcy5tYWtlZGlycyhTSEFSRSwgZXhpc3Rfb2s9VHJ1ZSkKCiMg4pSA4pSAIOWtkCBhZ2VudO+8mueLrOeri+i/m+eoi++8jOeLrOeriyB0cmFjZe+8jOWPquWBmuS4gOS7tuS6i++8muaguOWvueS4gOS4quaVsCDilIDilIAKQUdFTlRfU1JDID0gcicnJwppbXBvcnQgc3lzLCBvcywganNvbiwgdGltZSwgcmUKc3lzLnBhdGguaW5zZXJ0KDAsIHtoZXJlIXJ9KQpmcm9tIHRvb2xzLnJ1bnRyYWNlIGltcG9ydCBSdW4KCnJvbGUsIG1vZGUsIG91dCA9IHN5cy5hcmd2WzFdLCBzeXMuYXJndlsyXSwgc3lzLmFyZ3ZbM10KVEFSR0VUID0gb3MucGF0aC5qb2luKHtoZXJlIXJ9LCAiLnNlbnNlIiwgInN0YXJfbWFwLm1kIikKCnIgPSBSdW4oImFnZW50XyIgKyByb2xlLCBtZXRhPXsicm9sZSI6IHJvbGUsICJwaWQiOiBvcy5nZXRwaWQoKX0pCnIuc3RlcCgic3RhcnQiLCByb2xlPXJvbGUpCgojIOKYhSDmr4/kuKogYWdlbnQg44CQ6Ieq5bex5omT5byA5paH5Lu25Y675pWw44CR77yM5LiN5piv5Li76L+b56iL5oqK562U5qGI5Lyg57uZ5a6D44CCCiMgICDkvKDlgLznmoTor53ov5nlsLHkuI3mmK/ni6znq4vmoLjlr7nvvIzlj6rmmK/lpI3or7vjgIIKdGV4dCA9IG9wZW4oVEFSR0VULCBlbmNvZGluZz0idXRmLTgiKS5yZWFkKCkKci5zdGVwKCJyZWFkIiwgYnl0ZXM9bGVuKHRleHQpKQoKaWYgbW9kZSA9PSAiaG9uZXN0IjoKICAgICMg5q2j56Gu5Y+j5b6E77ya5Y+q5pWw5LqM57qn5qCH6aKY6YeM55qE5pif77yIIyMg4piFTiDlvIDlpLTnmoTmiY3mmK/pkonkuIvnmoTmmJ/vvIkKICAgIGNvdW50ZWQgPSBsZW4ocmUuZmluZGFsbChyIl4jIyBcdTI2MDVcZCIsIHRleHQsIHJlLk0pKQogICAgcnVsZSA9ICLlj6rmlbAgJyMjIOKYhU4nIOW8gOWktOeahCIKZWxzZToKICAgICMg5rOo5YWl55qE6ZSZ6K+v5Y+j5b6E77ya6L+e5q2j5paH6YeM5o+Q5Yiw55qEIOKYhTEg4piFMiDkuIDotbfmlbDov5vljrsKICAgIGNvdW50ZWQgPSB0ZXh0LmNvdW50KCJcdTI2MDUiKQogICAgcnVsZSA9ICLmlbDlhajmlofmiYDmnIkg4piF77yI5ZCr5q2j5paH5byV55So77yJIgoKci5zdGVwKCJjb3VudGVkIiwgdmFsdWU9Y291bnRlZCwgcnVsZT1ydWxlKQpyLnJlc3VsdChUcnVlLCB2YWx1ZT1jb3VudGVkKQpyLmNoZWNrcG9pbnQoeyJyb2xlIjogcm9sZSwgInZhbHVlIjogY291bnRlZCwgInJ1bGUiOiBydWxlfSkKci5jbG9zZSgpCgpqc29uLmR1bXAoewogICAgInJvbGUiOiByb2xlLCAicGlkIjogb3MuZ2V0cGlkKCksICJydW5faWQiOiByLnJ1bl9pZCwKICAgICJ2YWx1ZSI6IGNvdW50ZWQsICJydWxlIjogcnVsZSwgIm1vZGUiOiBtb2RlLAogICAgInRyYWNlIjogci5wYXRoLAp9LCBvcGVuKG91dCwgInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKcHJpbnQoImRvbmUiLCByb2xlLCBjb3VudGVkKQonJycucmVwbGFjZSgie2hlcmUhcn0iLCByZXByKEhFUkUpKQoKZGVmIHNwYXduKHJvbGUsIG1vZGUpOgogICAgZiA9IG9zLnBhdGguam9pbih0ZW1wZmlsZS5nZXR0ZW1wZGlyKCksIGYiYWdlbnRfe3JvbGV9LnB5IikKICAgIG9wZW4oZiwgInciKS53cml0ZShBR0VOVF9TUkMpCiAgICBvdXQgPSBvcy5wYXRoLmpvaW4oU0hBUkUsIGYie3JvbGV9Lmpzb24iKQogICAgcmV0dXJuIHN1YnByb2Nlc3MuUG9wZW4oW3N5cy5leGVjdXRhYmxlLCBmLCByb2xlLCBtb2RlLCBvdXRdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwgc3RkZXJyPXN1YnByb2Nlc3MuUElQRSwgdGV4dD1UcnVlKSwgb3V0CgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj0iICogNzIpCiAgICBwcmludCgiIOecn+WunumqjOivgSAjNCDCtyDlpJrmmbrog73kvZPljY/kvZzvvIjkuI3mmK/lubbooYzvvIzmmK/kuqTlj4nmoKHpqowr5Yay56qB5qOA5rWL77yJIikKICAgIHByaW50KCI9IiAqIDcyKQoKICAgICMg5Li76L+b56iL6Ieq5bex54us56uL566X5LiA6YGN5L2c5Y+C54WnIOKAlOKAlCDkvYbkuI3lkYror4nku7vkvZUgYWdlbnQKICAgIGltcG9ydCByZSBhcyBfcmUKICAgIF90ID0gb3Blbihvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZW5zZSIsICJzdGFyX21hcC5tZCIpLCBlbmNvZGluZz0idXRmLTgiKS5yZWFkKCkKICAgIFRSVVRIID0gbGVuKF9yZS5maW5kYWxsKHIiXiMjIFx1MjYwNVxkIiwgX3QsIF9yZS5NKSkKCiAgICBwbGFuID0gWygiYWxwaGEiLCAiaG9uZXN0IiksICgiYmV0YSIsICJob25lc3QiKSwKICAgICAgICAgICAgKCJnYW1tYSIsICJob25lc3QiKSwgKCJkZWx0YSIsICJsaWUiKV0KCiAgICBwcmludChmIlxu6LW3IHtsZW4ocGxhbil9IOS4queLrOeri+i/m+eoi++8jOWQhOiHquaJk+W8gCBzdGFyX21hcC5tZCDljrvmlbDpkonkuoblh6DpopfmmJ8iKQogICAgcHJpbnQoZiLvvIjkuLvov5vnqIvni6znq4vnrpfnmoTlj4LnhaflgLwgPSB7VFJVVEh977yM5L2G5LiN5ZGK6K+J5Lu75L2VIGFnZW5077yJIikKICAgIHByb2NzID0gW10KICAgIGZvciByb2xlLCBtb2RlIGluIHBsYW46CiAgICAgICAgcCwgb3V0ID0gc3Bhd24ocm9sZSwgbW9kZSkKICAgICAgICBwcm9jcy5hcHBlbmQoKHJvbGUsIG1vZGUsIHAsIG91dCkpCiAgICAgICAgcHJpbnQoZiIgICB7cm9sZTo8N30gUElEIHtwLnBpZDo8OH0geydb6ZSZ6K+v5Y+j5b6EXScgaWYgbW9kZT09J2xpZScgZWxzZSAnJ30iKQoKICAgIHByaW50KGYiXG7nrYnlroPku6zlkIToh6rot5HlrozvvIjnnJ/lubbooYzvvIzkupLkuI3pgJrkv6HvvInigKYiKQogICAgZm9yIHJvbGUsIGluaiwgcCwgb3V0IGluIHByb2NzOgogICAgICAgIG8sIGUgPSBwLmNvbW11bmljYXRlKHRpbWVvdXQ9NjApCgogICAgIyDilIDilIAg5Y2P6LCD6ICF77ya5rGH5oC7ICsg5Yay56qB5qOA5rWLIOKUgOKUgAogICAgcmVwb3J0cyA9IFtdCiAgICBmb3Igcm9sZSwgaW5qLCBwLCBvdXQgaW4gcHJvY3M6CiAgICAgICAgZCA9IGpzb24ubG9hZChvcGVuKG91dCkpCiAgICAgICAgcmVwb3J0cy5hcHBlbmQoZCkKICAgICAgICBwcmludChmIlxuICAge3JvbGU6PDd9IFBJRCB7ZFsncGlkJ106PDh9IOe7k+iuuiB7ZFsndmFsdWUnXX0gIHJ1bl9pZCB7ZFsncnVuX2lkJ119IikKICAgICAgICBwcmludChmIiAgICAgICAgICDlj6PlvoQ6IHtkWydydWxlJ119IikKCiAgICB2YWxzID0gW3JbInZhbHVlIl0gZm9yIHIgaW4gcmVwb3J0c10KICAgIHVuaXEgPSBzb3J0ZWQoc2V0KHZhbHMpKQogICAgcGlkcyA9IFtyWyJwaWQiXSBmb3IgciBpbiByZXBvcnRzXQoKICAgIHByaW50KGYiXG4iICsgIj0iICogNzIpCiAgICBwcmludCgiIOWNj+iwg+iAheWIpOaNriIpCiAgICBwcmludCgiPSIgKiA3MikKCiAgICBvayA9IHt9CiAgICBva1si4pGgIOecn+W5tuihjO+8iFBJRCDkupLkuI3nm7jlkIzvvIkiXSA9IGxlbihzZXQocGlkcykpID09IGxlbihwaWRzKQogICAgcHJpbnQoZiIgIHsn4pyFJyBpZiBva1sn4pGgIOecn+W5tuihjO+8iFBJRCDkupLkuI3nm7jlkIzvvIknXSBlbHNlICfinYwnfSDikaAg55yf5bm26KGMIOKAlCBQSUQ6IHtwaWRzfSIpCgogICAgIyDni6znq4vvvJrmr4/mnaEgdHJhY2Ug5piv54us56uL5paH5Lu2CiAgICB0cmFjZXMgPSBbclsidHJhY2UiXSBmb3IgciBpbiByZXBvcnRzXQogICAgb2tbIuKRoSDnnJ/ni6znq4vvvIjlkIToh6rni6znq4sgdHJhY2XvvIkiXSA9IGxlbihzZXQodHJhY2VzKSkgPT0gbGVuKHRyYWNlcykKICAgIHByaW50KGYiICB7J+KchScgaWYgb2tbJ+KRoSDnnJ/ni6znq4vvvIjlkIToh6rni6znq4sgdHJhY2XvvIknXSBlbHNlICfinYwnfSDikaEg55yf54us56uLIOKAlCB7bGVuKHNldCh0cmFjZXMpKX0g5Liq54us56uLIHRyYWNlIOaWh+S7tiIpCgogICAgIyDlhrLnqoHlj6/op4HvvJrkuI3orrjlj5blpJrmlbDmipXnpajvvIzlv4XpobvliJflh7rliIbmracKICAgIGNvbmZsaWN0ID0gbGVuKHVuaXEpID4gMQogICAgb2tbIuKRoiDlhrLnqoHlj6/op4HvvIjkuI3kuIDnpajmjqnnm5bvvIkiXSA9IGNvbmZsaWN0CiAgICBwcmludChmIiAgeyfinIUnIGlmIGNvbmZsaWN0IGVsc2UgJ+KdjCd9IOKRoiDlhrLnqoHlj6/op4Eg4oCUIOWHuueOsCB7bGVuKHVuaXEpfSDnp43nu5Porro6IHt1bmlxfSIpCgogICAgIyDms6jlhaXnmoTlv4XpobvooqvmipPliLAKICAgIGxpYXJzID0gW3JbInJvbGUiXSBmb3IgciBpbiByZXBvcnRzIGlmIHJbIm1vZGUiXSA9PSAibGllIl0KICAgIGNhdWdodCA9IFtyWyJyb2xlIl0gZm9yIHIgaW4gcmVwb3J0cyBpZiByWyJ2YWx1ZSJdICE9IFRSVVRIXQogICAgb2tbIuKRoyDms6jlhaXplJnor6/ooqvmipPliLAiXSA9IHNldChsaWFycykgPT0gc2V0KGNhdWdodCkKICAgIHByaW50KGYiICB7J+KchScgaWYgb2tbJ+KRoyDms6jlhaXplJnor6/ooqvmipPliLAnXSBlbHNlICfinYwnfSDikaMg5oqT5Yiw5byC57G7IOKAlCDms6jlhaUge2xpYXJzfe+8jOWunumZheWBj+emuyB7Y2F1Z2h0fSIpCgogICAgIyDimIUg5YWz6ZSu77ya5LiN6K6455So5oqV56Wo5oqK5YiG5q2n5oqV5o6JCiAgICBtYWpvcml0eSA9IG1heCh1bmlxLCBrZXk9bGFtYmRhIHY6IHZhbHMuY291bnQodikpCiAgICBwcmludChmIlxuICDimIUg6Iul5Y+W5aSa5pWw5oqV56WoIOKGkiB7bWFqb3JpdHl977yI55yL552A5a+577yM5L2G5oqK5YiG5q2n5oqV5rKh5LqG77yJIikKICAgIHByaW50KGYiICAgIOato+ehruWBmuazle+8muaKpSDjgJB7dW5pcX3jgJEg6L+Z5Liq5YiG5q2n5pys6Lqr77yM5Y675p+l6LCB5pWw55qE6Lev5b6E5LiN5a+5IikKICAgIG9rWyLikaQg5L+d5L2P5YiG5q2n6ICM6Z2e5oqV56WoIl0gPSBUcnVlCgogICAgcHJpbnQoZiJcbumAmui/hyB7c3VtKG9rLnZhbHVlcygpKX0ve2xlbihvayl9IikKICAgIGpzb24uZHVtcCh7Im9rIjogb2ssICJyZXBvcnRzIjogcmVwb3J0cywgInRydXRoIjogVFJVVEgsICJ1bmlxIjogdW5pcX0sCiAgICAgICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oU0hBUkUsICJjb29yZGluYXRvci5qc29uIiksICJ3IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+"""
+真实验证 #4：多智能体协作。
+
+★ 并行 ≠ 协作。
+  起 4 个进程同时跑，那只是并行 —— 谁也不看谁的结论，错的一起错。
+  协作的定义是：单个 agent 抓不到的错，协作机制能抓到。
+
+所以这里做的不是"分工加速"，是【交叉校验 + 冲突检测】：
+
+  4 个独立 agent 各自核对同一批事实
+  其中 1 个被【注入已知错误】（喂错的数）
+  看协调者能不能把那个异类揪出来
+
+判据：
+  ① 真并行 —— 4 个独立进程，各自的 runtrace，PID 不同
+  ② 真独立 —— agent 之间不通信，结论互不知情
+  ③ 冲突可见 —— 分歧必须被列出来，不许取多数投票掩盖
+  ④ 注入的那个必须被抓到
+
+为什么不许多数投票：
+  4 个里 3 个说 7、1 个说 9，投票结果是 7 —— 看起来对，
+  但"7"这个答案和"有 1 个在撒谎"这两件事，后者才是信息。
+  投掉分歧 = 把最值钱的那条扔了。
+"""
+import os, sys, json, time, subprocess, tempfile, hashlib
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+SHARE = os.path.join(HERE, ".sense", "multiagent")
+os.makedirs(SHARE, exist_ok=True)
+
+# ── 子 agent：独立进程，独立 trace，只做一件事：核对一个数 ──
+AGENT_SRC = r'''
+import sys, os, json, time, re
+sys.path.insert(0, {here!r})
+from tools.runtrace import Run
+
+role, mode, out = sys.argv[1], sys.argv[2], sys.argv[3]
+TARGET = os.path.join({here!r}, ".sense", "star_map.md")
+
+r = Run("agent_" + role, meta={"role": role, "pid": os.getpid()})
+r.step("start", role=role)
+
+# ★ 每个 agent 【自己打开文件去数】，不是主进程把答案传给它。
+#   传值的话这就不是独立核对，只是复读。
+text = open(TARGET, encoding="utf-8").read()
+r.step("read", bytes=len(text))
+
+if mode == "honest":
+    # 正确口径：只数二级标题里的星（## ★N 开头的才是钉下的星）
+    counted = len(re.findall(r"^## \u2605\d", text, re.M))
+    rule = "只数 '## ★N' 开头的"
+else:
+    # 注入的错误口径：连正文里提到的 ★1 ★2 一起数进去
+    counted = text.count("\u2605")
+    rule = "数全文所有 ★（含正文引用）"
+
+r.step("counted", value=counted, rule=rule)
+r.result(True, value=counted)
+r.checkpoint({"role": role, "value": counted, "rule": rule})
+r.close()
+
+json.dump({
+    "role": role, "pid": os.getpid(), "run_id": r.run_id,
+    "value": counted, "rule": rule, "mode": mode,
+    "trace": r.path,
+}, open(out, "w"), ensure_ascii=False, indent=1)
+print("done", role, counted)
+'''.replace("{here!r}", repr(HERE))
+
+def spawn(role, mode):
+    f = os.path.join(tempfile.gettempdir(), f"agent_{role}.py")
+    open(f, "w").write(AGENT_SRC)
+    out = os.path.join(SHARE, f"{role}.json")
+    return subprocess.Popen([sys.executable, f, role, mode, out],
+                            stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True), out
+
+if __name__ == "__main__":
+    print("=" * 72)
+    print(" 真实验证 #4 · 多智能体协作（不是并行，是交叉校验+冲突检测）")
+    print("=" * 72)
+
+    # 主进程自己独立算一遍作参照 —— 但不告诉任何 agent
+    import re as _re
+    _t = open(os.path.join(HERE, ".sense", "star_map.md"), encoding="utf-8").read()
+    TRUTH = len(_re.findall(r"^## \u2605\d", _t, _re.M))
+
+    plan = [("alpha", "honest"), ("beta", "honest"),
+            ("gamma", "honest"), ("delta", "lie")]
+
+    print(f"\n起 {len(plan)} 个独立进程，各自打开 star_map.md 去数钉了几颗星")
+    print(f"（主进程独立算的参照值 = {TRUTH}，但不告诉任何 agent）")
+    procs = []
+    for role, mode in plan:
+        p, out = spawn(role, mode)
+        procs.append((role, mode, p, out))
+        print(f"   {role:<7} PID {p.pid:<8} {'[错误口径]' if mode=='lie' else ''}")
+
+    print(f"\n等它们各自跑完（真并行，互不通信）…")
+    for role, inj, p, out in procs:
+        o, e = p.communicate(timeout=60)
+
+    # ── 协调者：汇总 + 冲突检测 ──
+    reports = []
+    for role, inj, p, out in procs:
+        d = json.load(open(out))
+        reports.append(d)
+        print(f"\n   {role:<7} PID {d['pid']:<8} 结论 {d['value']}  run_id {d['run_id']}")
+        print(f"          口径: {d['rule']}")
+
+    vals = [r["value"] for r in reports]
+    uniq = sorted(set(vals))
+    pids = [r["pid"] for r in reports]
+
+    print(f"\n" + "=" * 72)
+    print(" 协调者判据")
+    print("=" * 72)
+
+    ok = {}
+    ok["① 真并行（PID 互不相同）"] = len(set(pids)) == len(pids)
+    print(f"  {'✅' if ok['① 真并行（PID 互不相同）'] else '❌'} ① 真并行 — PID: {pids}")
+
+    # 独立：每条 trace 是独立文件
+    traces = [r["trace"] for r in reports]
+    ok["② 真独立（各自独立 trace）"] = len(set(traces)) == len(traces)
+    print(f"  {'✅' if ok['② 真独立（各自独立 trace）'] else '❌'} ② 真独立 — {len(set(traces))} 个独立 trace 文件")
+
+    # 冲突可见：不许取多数投票，必须列出分歧
+    conflict = len(uniq) > 1
+    ok["③ 冲突可见（不一票掩盖）"] = conflict
+    print(f"  {'✅' if conflict else '❌'} ③ 冲突可见 — 出现 {len(uniq)} 种结论: {uniq}")
+
+    # 注入的必须被抓到
+    liars = [r["role"] for r in reports if r["mode"] == "lie"]
+    caught = [r["role"] for r in reports if r["value"] != TRUTH]
+    ok["④ 注入错误被抓到"] = set(liars) == set(caught)
+    print(f"  {'✅' if ok['④ 注入错误被抓到'] else '❌'} ④ 抓到异类 — 注入 {liars}，实际偏离 {caught}")
+
+    # ★ 关键：不许用投票把分歧投掉
+    majority = max(uniq, key=lambda v: vals.count(v))
+    print(f"\n  ★ 若取多数投票 → {majority}（看着对，但把分歧投没了）")
+    print(f"    正确做法：报 【{uniq}】 这个分歧本身，去查谁数的路径不对")
+    ok["⑤ 保住分歧而非投票"] = True
+
+    print(f"\n通过 {sum(ok.values())}/{len(ok)}")
+    json.dump({"ok": ok, "reports": reports, "truth": TRUTH, "uniq": uniq},
+              open(os.path.join(SHARE, "coordinator.json"), "w"),
+              ensure_ascii=False, indent=1)

@@ -1,1 +1,94 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWunumqjCAwODVkIMK3ICLooqvlhrLlnq4i55qE55u05o6l5bqm6YeP77ya57uT5p6E5ryC56e7IGRyaWZ0Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQowODVjIOeahCDOlHNrZXcg5pa55ZCR5LiN5LiA6Ie077yIcD0wLjI1IOi0nyAvIHA9MC41LDAuNzUg5q2j77yJ77yM5LiUIGFjdGl2ZSDlrZjmtLvmm7TkvY7jgIEK5YWx5ZCM5a2Q6ZuG5Y+q5YmpIDZ+NyDihpIg6YKj57uE6Ziz5oCn5LiN5Y+v5L+h77yM5LiN5L2c57uT6K6644CCCgowODVkIOaNouS4gOS4quOAkOS4jeWPl+atu+S6oeetm+mAieW9seWTjeOAkeeahOaMh+agh++8mgogIGRyaWZ0KHNlZWQpID0gbWVhbl9jaCB8IGNhcF9uKOadoeS7tikgLSBjYXBfbijml6DmhJ/lrpjln7rnur8pIHwgICDlkIwgc2VlZCDphY3lr7kKICA9IOWklumDqOi+k+WFpeaKiuaIkeeahOWGheWcqOe7k+aehOaOqOemuyLljp/mnKznmoToh6rlt7Ei5aSa6L+cIOKAlOKAlCDov5nmiY3mmK8i6KKr5Yay5Z6uIueahOebtOivkeOAggoKICDoh6rlj5jph4/vvJrmjqXmlLbmgLvph48gcmVjZWlwdCA9IGFtcCDDlyDlvIDpl6jmrKHmlbDvvIjov57nu63ph4/vvIzkuI3mmK/liIbnsbvvvIkKICDpooTmnJ8gSDHvvJpkcmlmdCDpmo8gcmVjZWlwdCDljZXosIPkuIrljYcKICDlj6bmiqXlrZjmtLvnjofvvIjlkIzmoLfkuI3lj5fnrZvpgInlvbHlk43vvIkKIiIiCmltcG9ydCBqc29uLCBvcywgc3lzCmltcG9ydCBudW1weSBhcyBucAoKUk9PVCA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICcuLicpCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4oUk9PVCwgJ2NvcmUnKSk7IHN5cy5wYXRoLmluc2VydCgwLCBST09UKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CmZyb20gc2NpcHkuc3RhdHMgaW1wb3J0IHNwZWFybWFucgoKU1RFUFMgPSA2MDAKU0VFRFMgPSBsaXN0KHJhbmdlKDE2KSkKTiA9IDgKV0NIID0gWzAsIDEsIDJdCk9VVCA9IG9zLnBhdGguam9pbihST09ULCAnZXhwZXJpbWVudHMnLCAncmVzdWx0XzA4NWQuanNvbicpCl93ID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKFJPT1QsICdldmlkZW5jZScsICdyYXdfZGF0YScsICd3b3JsZF8wODViLmpzb24nKSkpCldWID0gbnAuYXJyYXkoX3dbJ3dvcmxkJ10sIGZsb2F0KS5tZWFuKGF4aXM9MCkKCgpkZWYgY2FwbihsZik6CiAgICBjID0gbnAuYXNhcnJheShsZi5sb2dbLTFdWydjYXB2J10sIGZsb2F0KQogICAgcmV0dXJuIGMgLyBjLm1lYW4oKQoKCmRlZiBzaW0oc2VlZCwgbWFzaywgYW1wKToKICAgIGxmID0gTGlmZTUoTj1OLCBzZWVkPXNlZWQsIHJhdGlvPTAuNDUsIHNpZ21hX2luPTAuMTApCiAgICBmb3IgdCBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgcHVzaCA9IG5wLnplcm9zKE4pCiAgICAgICAgaWYgdCA8IGxlbihtYXNrKSBhbmQgbWFza1t0XToKICAgICAgICAgICAgcHVzaFtXQ0hdID0gYW1wICogV1YKICAgICAgICBsZi5uZXRfcHVzaCA9IHB1c2gKICAgICAgICBsZi5zdGVwKCkKICAgICAgICBpZiBub3QgbGYuYWxpdmU6IGJyZWFrCiAgICByZXR1cm4gbGYKCgpkZWYgbWFpbigpOgogICAgcHJpbnQoIj0iICogNjYpCiAgICBwcmludCgi5a6e6aqMIDA4NWQgwrcg57uT5p6E5ryC56e7IGRyaWZ0IHZzIOaOpeaUtuaAu+mHjyIpCiAgICBwcmludCgiPSIgKiA2NikKICAgIGJhc2UgPSB7czogc2ltKHMsIG5wLnplcm9zKFNURVBTLCBib29sKSwgMC4wKSBmb3IgcyBpbiBTRUVEU30KICAgIGJhbGl2ZSA9IFtzIGZvciBzIGluIFNFRURTIGlmIGJhc2Vbc10uYWxpdmVdCiAgICBwcmludChmIlvln7rnur9dIOaXoOaEn+WumCDlrZjmtLsge2xlbihiYWxpdmUpfS97bGVuKFNFRURTKX0iKQoKICAgIHJvd3MgPSBbXQogICAgZm9yIGFtcCBpbiAoMC4wMDUsIDAuMDEsIDAuMDIsIDAuMDQsIDAuMDgpOgogICAgICAgIGZvciBwIGluICgwLjI1LCAwLjUsIDEuMCk6CiAgICAgICAgICAgIG5UID0gaW50KHJvdW5kKHAgKiBTVEVQUykpCiAgICAgICAgICAgIGRyLCBhbGl2ZV9uID0gW10sIDAKICAgICAgICAgICAgZm9yIHMgaW4gYmFsaXZlOgogICAgICAgICAgICAgICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHMgKiA5NzcgKyAxMykKICAgICAgICAgICAgICAgIG0gPSBucC56ZXJvcyhTVEVQUywgYm9vbCkKICAgICAgICAgICAgICAgIG1bcm5nLmNob2ljZShTVEVQUywgblQsIHJlcGxhY2U9RmFsc2UpXSA9IFRydWUKICAgICAgICAgICAgICAgIGxmID0gc2ltKHMsIG0sIGFtcCkKICAgICAgICAgICAgICAgIGlmIGxmLmFsaXZlOgogICAgICAgICAgICAgICAgICAgIGFsaXZlX24gKz0gMQogICAgICAgICAgICAgICAgICAgIGRyLmFwcGVuZChmbG9hdChucC5tZWFuKG5wLmFicyhjYXBuKGxmKSAtIGNhcG4oYmFzZVtzXSkpKSkpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKGRpY3QoYW1wPWFtcCwgcD1wLCByZWNlaXB0PWFtcCAqIG5ULCBuX29wZW49blQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxpdmU9YWxpdmVfbiwgbl9iYXNlPWxlbihiYWxpdmUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRyaWZ0PWZsb2F0KG5wLm1lYW4oZHIpKSBpZiBkciBlbHNlIGZsb2F0KCduYW4nKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuX2RyaWZ0PWxlbihkcikpKQogICAgICAgICAgICBwcmludChmIiAgYW1wPXthbXA6PDZ9IHA9e3A6PDV9IOW8gOmXqHtuVDo+M30gcmVjZWlwdD17YW1wKm5UOj42LjJmfSAgIgogICAgICAgICAgICAgICAgICBmIuWtmOa0uyB7YWxpdmVfbjo+Mn0ve2xlbihiYWxpdmUpfSAgZHJpZnQ9IgogICAgICAgICAgICAgICAgICBmIntucC5tZWFuKGRyKSBpZiBkciBlbHNlIGZsb2F0KCduYW4nKTouNWZ9IChuPXtsZW4oZHIpfSkiKQoKICAgIHJjID0gbnAuYXJyYXkoW3JbJ3JlY2VpcHQnXSBmb3IgciBpbiByb3dzXSkKICAgIGRmID0gbnAuYXJyYXkoW3JbJ2RyaWZ0J10gZm9yIHIgaW4gcm93c10pCiAgICBhbCA9IG5wLmFycmF5KFtyWydhbGl2ZSddIGZvciByIGluIHJvd3NdKQogICAgb2sgPSB+bnAuaXNuYW4oZGYpCiAgICByaG9fZCwgcHZfZCA9IHNwZWFybWFucihyY1tva10sIGRmW29rXSkKICAgIHJob19hLCBwdl9hID0gc3BlYXJtYW5yKHJjW29rXSwgYWxbb2tdKQogICAgcHJpbnQoZiJcbltIMV0gZHJpZnQgfiByZWNlaXB0IDogU3BlYXJtYW4gcmhvPXtyaG9fZDorLjRmfSAgcD17cHZfZDouNWZ9IikKICAgIHByaW50KGYiW0gyXSDlrZjmtLsgfiByZWNlaXB0ICA6IFNwZWFybWFuIHJobz17cmhvX2E6Ky40Zn0gIHA9e3B2X2E6LjVmfSIpCiAgICBqc29uLmR1bXAoZGljdChyb3dzPXJvd3MsIHJob19kcmlmdD1mbG9hdChyaG9fZCksIHBfZHJpZnQ9ZmxvYXQocHZfZCksCiAgICAgICAgICAgICAgICAgICByaG9fYWxpdmU9ZmxvYXQocmhvX2EpLCBwX2FsaXZlPWZsb2F0KHB2X2EpKSwKICAgICAgICAgICAgICBvcGVuKE9VVCwgJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKICAgIHByaW50KGYiXG5bT0tdIHtPVVR9IikKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""
+实验 085d · "被冲垮"的直接度量：结构漂移 drift
+------------------------------------------------------------------
+085c 的 Δskew 方向不一致（p=0.25 负 / p=0.5,0.75 正），且 active 存活更低、
+共同子集只剩 6~7 → 那组阳性不可信，不作结论。
+
+085d 换一个【不受死亡筛选影响】的指标：
+  drift(seed) = mean_ch | cap_n(条件) - cap_n(无感官基线) |   同 seed 配对
+  = 外部输入把我的内在结构推离"原本的自己"多远 —— 这才是"被冲垮"的直译。
+
+  自变量：接收总量 receipt = amp × 开门次数（连续量，不是分类）
+  预期 H1：drift 随 receipt 单调上升
+  另报存活率（同样不受筛选影响）
+"""
+import json, os, sys
+import numpy as np
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+sys.path.insert(0, os.path.join(ROOT, 'core')); sys.path.insert(0, ROOT)
+from core.life5 import Life5
+from scipy.stats import spearmanr
+
+STEPS = 600
+SEEDS = list(range(16))
+N = 8
+WCH = [0, 1, 2]
+OUT = os.path.join(ROOT, 'experiments', 'result_085d.json')
+_w = json.load(open(os.path.join(ROOT, 'evidence', 'raw_data', 'world_085b.json')))
+WV = np.array(_w['world'], float).mean(axis=0)
+
+
+def capn(lf):
+    c = np.asarray(lf.log[-1]['capv'], float)
+    return c / c.mean()
+
+
+def sim(seed, mask, amp):
+    lf = Life5(N=N, seed=seed, ratio=0.45, sigma_in=0.10)
+    for t in range(STEPS):
+        push = np.zeros(N)
+        if t < len(mask) and mask[t]:
+            push[WCH] = amp * WV
+        lf.net_push = push
+        lf.step()
+        if not lf.alive: break
+    return lf
+
+
+def main():
+    print("=" * 66)
+    print("实验 085d · 结构漂移 drift vs 接收总量")
+    print("=" * 66)
+    base = {s: sim(s, np.zeros(STEPS, bool), 0.0) for s in SEEDS}
+    balive = [s for s in SEEDS if base[s].alive]
+    print(f"[基线] 无感官 存活 {len(balive)}/{len(SEEDS)}")
+
+    rows = []
+    for amp in (0.005, 0.01, 0.02, 0.04, 0.08):
+        for p in (0.25, 0.5, 1.0):
+            nT = int(round(p * STEPS))
+            dr, alive_n = [], 0
+            for s in balive:
+                rng = np.random.default_rng(s * 977 + 13)
+                m = np.zeros(STEPS, bool)
+                m[rng.choice(STEPS, nT, replace=False)] = True
+                lf = sim(s, m, amp)
+                if lf.alive:
+                    alive_n += 1
+                    dr.append(float(np.mean(np.abs(capn(lf) - capn(base[s])))))
+            rows.append(dict(amp=amp, p=p, receipt=amp * nT, n_open=nT,
+                             alive=alive_n, n_base=len(balive),
+                             drift=float(np.mean(dr)) if dr else float('nan'),
+                             n_drift=len(dr)))
+            print(f"  amp={amp:<6} p={p:<5} 开门{nT:>3} receipt={amp*nT:>6.2f}  "
+                  f"存活 {alive_n:>2}/{len(balive)}  drift="
+                  f"{np.mean(dr) if dr else float('nan'):.5f} (n={len(dr)})")
+
+    rc = np.array([r['receipt'] for r in rows])
+    df = np.array([r['drift'] for r in rows])
+    al = np.array([r['alive'] for r in rows])
+    ok = ~np.isnan(df)
+    rho_d, pv_d = spearmanr(rc[ok], df[ok])
+    rho_a, pv_a = spearmanr(rc[ok], al[ok])
+    print(f"\n[H1] drift ~ receipt : Spearman rho={rho_d:+.4f}  p={pv_d:.5f}")
+    print(f"[H2] 存活 ~ receipt  : Spearman rho={rho_a:+.4f}  p={pv_a:.5f}")
+    json.dump(dict(rows=rows, rho_drift=float(rho_d), p_drift=float(pv_d),
+                   rho_alive=float(rho_a), p_alive=float(pv_a)),
+              open(OUT, 'w'), ensure_ascii=False, indent=1)
+    print(f"\n[OK] {OUT}")
+
+
+if __name__ == '__main__':
+    main()

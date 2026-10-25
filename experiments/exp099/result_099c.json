@@ -1,1 +1,27 @@
-ewogIuWOn+aWhyI6IHsKICAibiI6IDMsCiAgImFsaXZlIjogMywKICAic2tld19tZWFuIjogMi4yMTY0MDE1MjAzNjMxODU3LAogICJza2V3X3NkIjogMC4wMTE5NDA1MjY1Nzg4MDY2MzQKIH0sCiAi5o2iMeivjSI6IHsKICAibiI6IDAsCiAgImFsaXZlIjogMCwKICAic2tld19tZWFuIjogbnVsbCwKICAic2tld19zZCI6IG51bGwKIH0sCiAi5o2iM+ivjSI6IHsKICAibiI6IDAsCiAgImFsaXZlIjogMCwKICAic2tld19tZWFuIjogbnVsbCwKICAic2tld19zZCI6IG51bGwKIH0sCiAi5o2i5YWo6YOoIjogewogICJuIjogMCwKICAiYWxpdmUiOiAwLAogICJza2V3X21lYW4iOiBudWxsLAogICJza2V3X3NkIjogbnVsbAogfSwKICJwYWlyZWRfb3JpZ192c19hbGwiOiBudWxsCn0=
+{
+ "原文": {
+  "n": 3,
+  "alive": 3,
+  "skew_mean": 2.2164015203631857,
+  "skew_sd": 0.011940526578806634
+ },
+ "换1词": {
+  "n": 0,
+  "alive": 0,
+  "skew_mean": null,
+  "skew_sd": null
+ },
+ "换3词": {
+  "n": 0,
+  "alive": 0,
+  "skew_mean": null,
+  "skew_sd": null
+ },
+ "换全部": {
+  "n": 0,
+  "alive": 0,
+  "skew_mean": null,
+  "skew_sd": null
+ },
+ "paired_orig_vs_all": null
+}

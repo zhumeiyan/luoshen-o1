@@ -1,1 +1,166 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuS4jeaLv+WMheebtOaOpeeulyDigJTigJQg5oyJ5Lq657G755qE5bm/6KeS55S744CCCgptYXRwbG90bGliIOmCo+S4quWMheaKiuaVtOWdl+eUu+W4g+avj+S4quWDj+e0oOmDveeul+S4gOmBje+8jArljIXmi6zkvaDmoLnmnKznnIvkuI3op4HnmoTpgqMgOTkuMiXjgILpgqPlvZPnhLbnrpfkuI3ov4fmnaXjgIIKCuacrOW3peWFt++8muWPquWcqOS9oOiDveeci+a4heeahOWcsOaWuea7oemHh+agt++8jOeci+S4jeingeeahOWcsOaWuei3s+i/h+WOu+OAggrnhLblkI7miorot7Pph4fmoLfngrnnlKjpq5jmlq/moLjjgJDmkpLlm57ljrvjgJHigJTigJQg5pKS5Zue5Y675bCx55So5Yqg6Imy5Y+g5Yqg77yMCui/meWwseaYr+eOu+eSg++8jOS4jeaYr+e6uOOAggoKICAgIHB5dGhvbjMgZm92cGFpbnQucHkg55S7ICAgICAgICAjIOaMieW5v+inkueUu+S4gOW8oAogICAgcHl0aG9uMyBmb3ZwYWludC5weSDmr5QgICAgICAgICMg5YyFIHZzIOW5v+inku+8muaXtumXtOWSjOWDj+e0oOaVsAogICAgcHl0aG9uMyBmb3ZwYWludC5weSDlj6DnlLsgICAgICAjIOS4ieWxguWIhuW3pe+8jOWQhOaMieW5v+inkueUu++8jOWKoOiJsuWPoAoiIiIKaW1wb3J0IG9zLCBzeXMsIHRpbWUsIGhhc2hsaWIKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gUElMIGltcG9ydCBJbWFnZQpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQppbXBvcnQgZXllLCBsYXllcgoKUk9PVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpXID0gSCA9IDUxMgpPUkFOR0UgPSBucC5hcnJheShbMS4wLCAwLjQyLCAwLjBdKQoKIyDnprvlv4Pnjq8gLT4g6YeH5qC35q2l6ZW/44CC5Lit5b+DIDHvvIzovrnnvJjotorot7PotorlpKfjgIIKUklOR1MgPSBbKDAsIDEsIDEpLCAoMSwgMiwgMSksICgyLCA1LCAzKSwgKDUsIDEwLCA3KSwKICAgICAgICAgKDEwLCAyMCwgMTMpLCAoMjAsIDYwLCAyNSldCgoKZGVmIF9maWVsZCgpOgogICAgcHhfcGVyX2RlZyA9IFcgLyBleWUuU0NSRUVOX1dfREVHCiAgICB5eSwgeHggPSBucC5tZ3JpZFswOkgsIDA6V10uYXN0eXBlKGZsb2F0KQogICAgZWNjID0gbnAuc3FydCgoeXkgLSBIIC8gMikgKiogMiArICh4eCAtIFcgLyAyKSAqKiAyKSAvIHB4X3Blcl9kZWcKICAgIHJldHVybiBlY2MsIHB4X3Blcl9kZWcKCgpfRUNDLCBfUFBEID0gX2ZpZWxkKCkKCgpkZWYgc3BsYXQocHRzLCB2YWxzKToKICAgICIiIuaKiui3s+mHh+agt+eCueaSkuWbnuWOuyDigJTigJQg5Yqg6Imy5Y+g5Yqg77yM5LiN5piv6KaG55uW44CCCgogICAg5oyJ546v5YiG57uE77yM5q+P57uE5pKS5Yiw6K+l546v6Ieq5bex55qE5L2O5YiG6L6o546H572R5qC85LiK77yM5YaN5pS+5aSn44CCCiAgICDkuK3lv4Pnjq/nvZHmoLznu4bvvIjplJDvvInvvIzovrnnvJjnjq/nvZHmoLznspfvvIjns4rvvInigJTigJQg6Lef5L2g55y8552b5LiA5qC344CCCiAgICDnlKggbnAuYWRkLmF0IOS4gOasoeaAp+e0r+WKoO+8jOS4jemAkOeCueW+queOr+OAgiIiIgogICAgb3V0ID0gbnAuemVyb3MoKEgsIFcsIDMpKQogICAgdmFscyA9IG5wLmFzYXJyYXkodmFscywgZHR5cGU9ZmxvYXQpCiAgICBpZiB2YWxzLm5kaW0gPT0gMToKICAgICAgICB2YWxzID0gdmFsc1s6LCBOb25lXQogICAgaSA9IDAKICAgIGZvciBsbywgaGksIHN0ZXAgaW4gUklOR1M6CiAgICAgICAgbSA9IChfRUNDID49IGxvKSAmIChfRUNDIDwgaGkpCiAgICAgICAgaWYgbm90IG0uYW55KCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgIyDor6Xnjq/nmoTph4fmoLfngrnlnKggcHRzIOmHjOaYr+i/nue7reeahOS4gOautQogICAgICAgIG4gPSBpbnQobnAuY291bnRfbm9uemVybyhtWzo6c3RlcCwgOjpzdGVwXSkpCiAgICAgICAgaWYgbiA9PSAwOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHNlZ19wdHMsIHNlZ192YWxzID0gcHRzW2k6aSArIG5dLCB2YWxzW2k6aSArIG5dCiAgICAgICAgaSArPSBuCiAgICAgICAgIyDkvY7liIbovqjnjofnvZHmoLwKICAgICAgICBnaCA9IGludChucC5jZWlsKEggLyBzdGVwKSk7IGd3ID0gaW50KG5wLmNlaWwoVyAvIHN0ZXApKQogICAgICAgIGJ1ZiA9IG5wLnplcm9zKChnaCwgZ3csIDMpKQogICAgICAgIG5wLmFkZC5hdChidWYsIChzZWdfcHRzWzosIDBdIC8vIHN0ZXAsIHNlZ19wdHNbOiwgMV0gLy8gc3RlcCksIHNlZ192YWxzKQogICAgICAgICMg5pS+5aSn5Zue5YWo5bC65a+477yI5pyA6L+R6YK7IC0+IOi+uee8mOiHqueEtuaIkOWdl++8jOato+WQiOW5v+inku+8iQogICAgICAgIGJpZyA9IG5wLnJlcGVhdChucC5yZXBlYXQoYnVmLCBzdGVwLCBheGlzPTApLCBzdGVwLCBheGlzPTEpWzpILCA6V10KICAgICAgICBvdXQgKz0gYmlnCiAgICByZXR1cm4gb3V0CgoKZGVmIGZvdl9zYW1wbGVzKGVjYz1Ob25lKToKICAgICIiIuaMieW5v+inkuWPlumHh+agt+eCue+8muS4reW/g+Wvhu+8jOi+uee8mOeogCIiIgogICAgZSA9IF9FQ0MgaWYgZWNjIGlzIE5vbmUgZWxzZSBlY2MKICAgIHB0cywgd3RzID0gW10sIFtdCiAgICBwdHNfYWxsLCB3X2FsbCA9IFtdLCBbXQogICAgZm9yIGxvLCBoaSwgc3RlcCBpbiBSSU5HUzoKICAgICAgICBtID0gKGUgPj0gbG8pICYgKGUgPCBoaSkKICAgICAgICBpZiBub3QgbS5hbnkoKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICB5cywgeHMgPSBucC5ub256ZXJvKG0pCiAgICAgICAgc2VsID0gKHNsaWNlKE5vbmUsIE5vbmUsIHN0ZXApLCkKICAgICAgICB5czIsIHhzMiA9IHlzWzo6c3RlcF0sIHhzWzo6c3RlcF0KICAgICAgICBwdHMuYXBwZW5kKG5wLnN0YWNrKFt5czIsIHhzMl0sIGF4aXM9MSkpCiAgICAgICAgd3RzLmFwcGVuZChucC5mdWxsKGxlbih5czIpLCBzdGVwICoqIDIsIGR0eXBlPWZsb2F0KSkgICMg5q+P5Liq54K55Luj6KGo5aSa5bCR5YOP57SgCiAgICByZXR1cm4gbnAudnN0YWNrKHB0cyksIG5wLmNvbmNhdGVuYXRlKHd0cykKCgpkZWYgcGFpbnQoZmllbGQsIG5hbWU9ImZvdiIpOgogICAgIiIiZmllbGQ6IChILFcsMykg5oiWIChILFcpIOKAlOKAlCDmg7PnlLvku4DkuYjjgILmjInlub/op5Lph4fmoLflho3mkpLlm57ljrvjgIIiIiIKICAgIGlmIGZpZWxkLm5kaW0gPT0gMjoKICAgICAgICBmMyA9IG5wLnJlcGVhdChmaWVsZFsuLi4sIE5vbmVdLCAzLCBheGlzPTIpCiAgICBlbHNlOgogICAgICAgIGYzID0gZmllbGQKICAgIHB0cywgd3RzID0gZm92X3NhbXBsZXMoKQogICAgdmFscyA9IFtdCiAgICBmb3IgeSwgeCBpbiBwdHM6CiAgICAgICAgdmFscy5hcHBlbmQoZjNbeSwgeF0pCiAgICBvdXQgPSBzcGxhdChwdHMsIHZhbHMpCiAgICByZXR1cm4gbnAuY2xpcChvdXQsIDAsIDEpCgoKZGVmIHNoYShhKToKICAgIHJldHVybiBoYXNobGliLnNoYTI1NihucC5yb3VuZChhLCA2KS50b2J5dGVzKCkpLmhleGRpZ2VzdCgpWzoxMl0KCgpkZWYgc2F2ZShhLCBuYW1lKToKICAgIHAgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIuaEn+WumOahpSIsIG5hbWUpCiAgICBJbWFnZS5mcm9tYXJyYXkoKG5wLmNsaXAoYSwgMCwgMSkgKiAyNTUpLmFzdHlwZShucC51aW50OCkpLnNhdmUocCkKICAgIHJldHVybiBwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGNtZCA9IHN5cy5hcmd2WzFdIGlmIGxlbihzeXMuYXJndikgPiAxIGVsc2UgIuavlCIKICAgIGlmIGNtZCA9PSAi5q+UIjoKICAgICAgICB0ID0gdGltZS50aW1lKCkKICAgICAgICBmaWcgPSBfX2ltcG9ydF9fKCJtYXRwbG90bGliIik7IGZpZy51c2UoIkFnZyIpCiAgICAgICAgaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAogICAgICAgIHBsdC5yY1BhcmFtc1siZm9udC5zYW5zLXNlcmlmIl0gPSBbIldlblF1YW5ZaSBNaWNybyBIZWkiXQogICAgICAgIGYgPSBwbHQuZmlndXJlKGZpZ3NpemU9KDUuMTIsIDUuMTIpLCBkcGk9MTAwKQogICAgICAgIGF4ID0gZi5hZGRfYXhlcyhbMCwgMCwgMSwgMV0pOyBheC5zZXRfeGxpbSgwLCAxKTsgYXguc2V0X3lsaW0oMCwgMSk7IGF4LmF4aXMoIm9mZiIpCiAgICAgICAgYXguYWRkX3BhdGNoKHBsdC5DaXJjbGUoKDAuNSwgMC41KSwgMC4zLCBjb2xvcj0iI0ZGNkIxQSIpKQogICAgICAgIGltcG9ydCBpbwogICAgICAgIGIgPSBpby5CeXRlc0lPKCk7IHBsdC5zYXZlZmlnKGIsIGZvcm1hdD0icG5nIiwgZHBpPTEwMCwgZmFjZWNvbG9yPSIjMDAwIik7IHBsdC5jbG9zZSgpCiAgICAgICAgYi5zZWVrKDApCiAgICAgICAgaW1BID0gbnAuYXJyYXkoSW1hZ2Uub3BlbihiKS5jb252ZXJ0KCJSR0IiKS5yZXNpemUoKFcsIEgpKSkuYXN0eXBlKGZsb2F0KSAvIDI1NQogICAgICAgIHRBID0gdGltZS50aW1lKCkgLSB0CgogICAgICAgIHQgPSB0aW1lLnRpbWUoKQogICAgICAgIHl5LCB4eCA9IG5wLm1ncmlkWzA6SCwgMDpXXS5hc3R5cGUoZmxvYXQpCiAgICAgICAgZGlzayA9IChucC5zcXJ0KCh5eSAtIEggLyAyKSAqKiAyICsgKHh4IC0gVyAvIDIpICoqIDIpIDwgMC4zICogVykuYXN0eXBlKGZsb2F0KQogICAgICAgIGltQiA9IHBhaW50KG5wLnN0YWNrKFtkaXNrLCBkaXNrICogMC40MiwgbnAuemVyb3NfbGlrZShkaXNrKV0sIGF4aXM9MikpCiAgICAgICAgdEIgPSB0aW1lLnRpbWUoKSAtIHQKCiAgICAgICAgcHRzLCB3dHMgPSBmb3Zfc2FtcGxlcygpCiAgICAgICAgcHJpbnQoIiAg55S75ZCM5LiA5Liq5ZyG55uY77yaXG4iKQogICAgICAgIHByaW50KCIgICUtMTZzICUtMTBzICUtMTRzIiAlICgi5pa55byPIiwgIuiAl+aXtiIsICLlrp7nrpflg4/ntKAiKSkKICAgICAgICBwcmludCgiICAlLTE2cyAlLTEwcyAlLTE0ZCIgJSAoIm1hdHBsb3RsaWIg5YyFIiwgIiUuM2ZzIiAlIHRBLCBXICogSCkpCiAgICAgICAgcHJpbnQoIiAgJS0xNnMgJS0xMHMgJS0xNGQiICUgKCLmjInlub/op5Lot7Pph4fmoLciLCAiJS4zZnMiICUgdEIsIGxlbihwdHMpKSkKICAgICAgICBwcmludCgiXG4gIOecgSAlLjFmIOWAjSDCtyDlj6rnrpcgJS4xZiUlIOeahOWDj+e0oCIgJSAoVyAqIEggLyBsZW4ocHRzKSwgbGVuKHB0cykgLyAoVyAqIEgpICogMTAwKSkKICAgICAgICBwcmludCgiICDkuKTlvKDlm77lubPlnYflt64gJS40ZiIgJSBucC5hYnMoaW1BIC0gaW1CKS5tZWFuKCkpCiAgICAgICAgc2F2ZShpbUEsICJf5YyFX+WchuebmC5wbmciKTsgc2F2ZShpbUIsICJf5bm/6KeSX+WchuebmC5wbmciKQogICAgICAgIHByaW50KCIgIOW3suWtmCBf5YyFX+WchuebmC5wbmcgLyBf5bm/6KeSX+WchuebmC5wbmciKQogICAgZWxpZiBjbWQgPT0gIuWPoOeUuyI6CiAgICAgICAgdCA9IHRpbWUudGltZSgpCiAgICAgICAgbHMgPSBbbGF5ZXIubGF5ZXJfZ3JvdW5kKCksIGxheWVyLmxheWVyX2JvZHkoKSwgbGF5ZXIubGF5ZXJfcG9pbnQoKV0KICAgICAgICB0X2ZpZWxkID0gdGltZS50aW1lKCkgLSB0CiAgICAgICAgdCA9IHRpbWUudGltZSgpCiAgICAgICAgb3V0cyA9IFtwYWludChMKSBmb3IgTCBpbiBsc10KICAgICAgICB0X3BhaW50ID0gdGltZS50aW1lKCkgLSB0CiAgICAgICAgb3V0ID0gbnAuY2xpcChzdW0ob3V0cyksIDAsIDEpICAgIyDliqDoibLlj6DliqAgPSDnjrvnkoMKICAgICAgICBwID0gc2F2ZShvdXQsICLnrKblj7dfdjEzX+W5v+inkuWPoOWKoC5wbmciKQogICAgICAgIHByaW50KCIgIOS4ieWxguWIhuW3pe+8jOWQhOaMieW5v+inkueUu++8jOWKoOiJsuWPoO+8mlxuIikKICAgICAgICBmb3IgKG4sIF8pLCBMIGluIHppcChsYXllci5MQVlFUlMsIGxzKToKICAgICAgICAgICAgcHJpbnQoIiAgICAlLTE0cyDlk4jluIwgJXMiICUgKG4sIHNoYShMKSkpCiAgICAgICAgcHJpbnQoIlxuICDnrpflnLogJS4zZnMgwrcg5pKS54K5ICUuM2ZzIiAlICh0X2ZpZWxkLCB0X3BhaW50KSkKICAgICAgICBwcmludCgiICDkv53lrZggJXMgIOWQiOaIkOWTiOW4jCAlcyIgJSAocCwgc2hhKG91dCkpKQogICAgICAgIGltcG9ydCBzeW1ib2wKICAgICAgICByID0gc3ltYm9sLmp1ZGdlKHApOyBlID0gZXllLmVjY19vZl9tYWluKHApCiAgICAgICAgcHJpbnQoIiAg5Z2X5pWwICVkIMK3IOWtmOa0uyAlcyDCtyDnprvlv4MgJS4yZsKwIMK3IOS4reWkruWHueWGhSAlcyIKICAgICAgICAgICAgICAlIChyWyLlnZfmlbAiXSwgclsi6ZmN6YeH5qC35a2Y5rS7Il0sIGUsIGUgPD0gZXllLkZPVkVBX0RFRyAvIDIpKQogICAgZWxzZToKICAgICAgICB5eSwgeHggPSBucC5tZ3JpZFswOkgsIDA6V10uYXN0eXBlKGZsb2F0KQogICAgICAgIGQgPSAobnAuc3FydCgoeXkgLSBIIC8gMikgKiogMiArICh4eCAtIFcgLyAyKSAqKiAyKSA8IDAuMjggKiBXKS5hc3R5cGUoZmxvYXQpCiAgICAgICAgb3V0ID0gcGFpbnQobnAuc3RhY2soW2QsIGQgKiAwLjQyLCBucC56ZXJvc19saWtlKGQpXSwgYXhpcz0yKSkKICAgICAgICBwcmludChzYXZlKG91dCwgIuespuWPt192MTNf5bm/6KeS5Y+g5YqgLnBuZyIpKQo=
+# -*- coding: utf-8 -*-
+"""
+不拿包直接算 —— 按人类的广角画。
+
+matplotlib 那个包把整块画布每个像素都算一遍，
+包括你根本看不见的那 99.2%。那当然算不过来。
+
+本工具：只在你能看清的地方满采样，看不见的地方跳过去。
+然后把跳采样点用高斯核【撒回去】—— 撒回去就用加色叠加，
+这就是玻璃，不是纸。
+
+    python3 fovpaint.py 画        # 按广角画一张
+    python3 fovpaint.py 比        # 包 vs 广角：时间和像素数
+    python3 fovpaint.py 叠画      # 三层分工，各按广角画，加色叠
+"""
+import os, sys, time, hashlib
+import numpy as np
+from PIL import Image
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import eye, layer
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+W = H = 512
+ORANGE = np.array([1.0, 0.42, 0.0])
+
+# 离心环 -> 采样步长。中心 1，边缘越跳越大。
+RINGS = [(0, 1, 1), (1, 2, 1), (2, 5, 3), (5, 10, 7),
+         (10, 20, 13), (20, 60, 25)]
+
+
+def _field():
+    px_per_deg = W / eye.SCREEN_W_DEG
+    yy, xx = np.mgrid[0:H, 0:W].astype(float)
+    ecc = np.sqrt((yy - H / 2) ** 2 + (xx - W / 2) ** 2) / px_per_deg
+    return ecc, px_per_deg
+
+
+_ECC, _PPD = _field()
+
+
+def splat(pts, vals):
+    """把跳采样点撒回去 —— 加色叠加，不是覆盖。
+
+    按环分组，每组撒到该环自己的低分辨率网格上，再放大。
+    中心环网格细（锐），边缘环网格粗（糊）—— 跟你眼睛一样。
+    用 np.add.at 一次性累加，不逐点循环。"""
+    out = np.zeros((H, W, 3))
+    vals = np.asarray(vals, dtype=float)
+    if vals.ndim == 1:
+        vals = vals[:, None]
+    i = 0
+    for lo, hi, step in RINGS:
+        m = (_ECC >= lo) & (_ECC < hi)
+        if not m.any():
+            continue
+        # 该环的采样点在 pts 里是连续的一段
+        n = int(np.count_nonzero(m[::step, ::step]))
+        if n == 0:
+            continue
+        seg_pts, seg_vals = pts[i:i + n], vals[i:i + n]
+        i += n
+        # 低分辨率网格
+        gh = int(np.ceil(H / step)); gw = int(np.ceil(W / step))
+        buf = np.zeros((gh, gw, 3))
+        np.add.at(buf, (seg_pts[:, 0] // step, seg_pts[:, 1] // step), seg_vals)
+        # 放大回全尺寸（最近邻 -> 边缘自然成块，正合广角）
+        big = np.repeat(np.repeat(buf, step, axis=0), step, axis=1)[:H, :W]
+        out += big
+    return out
+
+
+def fov_samples(ecc=None):
+    """按广角取采样点：中心密，边缘稀"""
+    e = _ECC if ecc is None else ecc
+    pts, wts = [], []
+    pts_all, w_all = [], []
+    for lo, hi, step in RINGS:
+        m = (e >= lo) & (e < hi)
+        if not m.any():
+            continue
+        ys, xs = np.nonzero(m)
+        sel = (slice(None, None, step),)
+        ys2, xs2 = ys[::step], xs[::step]
+        pts.append(np.stack([ys2, xs2], axis=1))
+        wts.append(np.full(len(ys2), step ** 2, dtype=float))  # 每个点代表多少像素
+    return np.vstack(pts), np.concatenate(wts)
+
+
+def paint(field, name="fov"):
+    """field: (H,W,3) 或 (H,W) —— 想画什么。按广角采样再撒回去。"""
+    if field.ndim == 2:
+        f3 = np.repeat(field[..., None], 3, axis=2)
+    else:
+        f3 = field
+    pts, wts = fov_samples()
+    vals = []
+    for y, x in pts:
+        vals.append(f3[y, x])
+    out = splat(pts, vals)
+    return np.clip(out, 0, 1)
+
+
+def sha(a):
+    return hashlib.sha256(np.round(a, 6).tobytes()).hexdigest()[:12]
+
+
+def save(a, name):
+    p = os.path.join(ROOT, "感官桥", name)
+    Image.fromarray((np.clip(a, 0, 1) * 255).astype(np.uint8)).save(p)
+    return p
+
+
+if __name__ == "__main__":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "比"
+    if cmd == "比":
+        t = time.time()
+        fig = __import__("matplotlib"); fig.use("Agg")
+        import matplotlib.pyplot as plt
+        plt.rcParams["font.sans-serif"] = ["WenQuanYi Micro Hei"]
+        f = plt.figure(figsize=(5.12, 5.12), dpi=100)
+        ax = f.add_axes([0, 0, 1, 1]); ax.set_xlim(0, 1); ax.set_ylim(0, 1); ax.axis("off")
+        ax.add_patch(plt.Circle((0.5, 0.5), 0.3, color="#FF6B1A"))
+        import io
+        b = io.BytesIO(); plt.savefig(b, format="png", dpi=100, facecolor="#000"); plt.close()
+        b.seek(0)
+        imA = np.array(Image.open(b).convert("RGB").resize((W, H))).astype(float) / 255
+        tA = time.time() - t
+
+        t = time.time()
+        yy, xx = np.mgrid[0:H, 0:W].astype(float)
+        disk = (np.sqrt((yy - H / 2) ** 2 + (xx - W / 2) ** 2) < 0.3 * W).astype(float)
+        imB = paint(np.stack([disk, disk * 0.42, np.zeros_like(disk)], axis=2))
+        tB = time.time() - t
+
+        pts, wts = fov_samples()
+        print("  画同一个圆盘：\n")
+        print("  %-16s %-10s %-14s" % ("方式", "耗时", "实算像素"))
+        print("  %-16s %-10s %-14d" % ("matplotlib 包", "%.3fs" % tA, W * H))
+        print("  %-16s %-10s %-14d" % ("按广角跳采样", "%.3fs" % tB, len(pts)))
+        print("\n  省 %.1f 倍 · 只算 %.1f%% 的像素" % (W * H / len(pts), len(pts) / (W * H) * 100))
+        print("  两张图平均差 %.4f" % np.abs(imA - imB).mean())
+        save(imA, "_包_圆盘.png"); save(imB, "_广角_圆盘.png")
+        print("  已存 _包_圆盘.png / _广角_圆盘.png")
+    elif cmd == "叠画":
+        t = time.time()
+        ls = [layer.layer_ground(), layer.layer_body(), layer.layer_point()]
+        t_field = time.time() - t
+        t = time.time()
+        outs = [paint(L) for L in ls]
+        t_paint = time.time() - t
+        out = np.clip(sum(outs), 0, 1)   # 加色叠加 = 玻璃
+        p = save(out, "符号_v13_广角叠加.png")
+        print("  三层分工，各按广角画，加色叠：\n")
+        for (n, _), L in zip(layer.LAYERS, ls):
+            print("    %-14s 哈希 %s" % (n, sha(L)))
+        print("\n  算场 %.3fs · 撒点 %.3fs" % (t_field, t_paint))
+        print("  保存 %s  合成哈希 %s" % (p, sha(out)))
+        import symbol
+        r = symbol.judge(p); e = eye.ecc_of_main(p)
+        print("  块数 %d · 存活 %s · 离心 %.2f° · 中央凹内 %s"
+              % (r["块数"], r["降采样存活"], e, e <= eye.FOVEA_DEG / 2))
+    else:
+        yy, xx = np.mgrid[0:H, 0:W].astype(float)
+        d = (np.sqrt((yy - H / 2) ** 2 + (xx - W / 2) ** 2) < 0.28 * W).astype(float)
+        out = paint(np.stack([d, d * 0.42, np.zeros_like(d)], axis=2))
+        print(save(out, "符号_v13_广角叠加.png"))

@@ -1,1 +1,47 @@
-IyAxNC41IC0gQ2hhbGxlbmdlOiBQZGZGaWxlU3BsaXR0ZXIgQ2xhc3MKIyBTb2x1dGlvbiB0byBjaGFsbGVuZ2UKCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKZnJvbSBQeVBERjIgaW1wb3J0IFBkZkZpbGVSZWFkZXIsIFBkZkZpbGVXcml0ZXIKCgpjbGFzcyBQZGZGaWxlU3BsaXR0ZXI6CiAgICAiIiJDbGFzcyBmb3Igc3BsaXR0aW5nIGEgUERGIGludG8gdHdvIGZpbGVzLiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwZGZfcGF0aCk6CiAgICAgICAgIyBPcGVuIHRoZSBQREYgZmlsZSB3aXRoIGEgbmV3IFBkZkZpbGVSZWFkZXIgaW5zdGFuY2UKICAgICAgICBzZWxmLnBkZl9yZWFkZXIgPSBQZGZGaWxlUmVhZGVyKHBkZl9wYXRoKQogICAgICAgICMgSW5pdGlhbGl6ZSB0aGUgLndyaXRlcjEgYW5kIC53cml0ZXIyIGF0dHJpYnV0ZXMgdG8gTm9uZQogICAgICAgIHNlbGYud3JpdGVyMSA9IE5vbmUKICAgICAgICBzZWxmLndyaXRlcjIgPSBOb25lCgogICAgZGVmIHNwbGl0KHNlbGYsIGJyZWFrcG9pbnQpOgogICAgICAgICIiIlNwbGl0IHRoZSBQREYgaW50byB0d28gUGRmRmlsZVdyaXRlciBpbnN0YW5jZXMiIiIKICAgICAgICAjIFNldCAud3JpdGVyMSBhbmQgLndyaXRlcjIgdG8gbmV3IFBkZkZpbGVXcml0ZXIgaW50YW5jZXMKICAgICAgICBzZWxmLndyaXRlcjEgPSBQZGZGaWxlV3JpdGVyKCkKICAgICAgICBzZWxmLndyaXRlcjIgPSBQZGZGaWxlV3JpdGVyKCkKICAgICAgICAjIEFkZCBhbGwgcGFnZXMgdXAgdG8sIGJ1dCBub3QgaW5jbHVkaW5nLCB0aGUgYnJlYWtwb2ludAogICAgICAgICMgdG8gd3JpdGVyMQogICAgICAgIGZvciBwYWdlIGluIHNlbGYucGRmX3JlYWRlci5wYWdlc1s6YnJlYWtwb2ludF06CiAgICAgICAgICAgIHNlbGYud3JpdGVyMS5hZGRQYWdlKHBhZ2UpCiAgICAgICAgIyBBZGQgYWxsIHRoZSByZW1haW5pbmcgcGFnZXMgdG8gd3JpdGVyMgogICAgICAgIGZvciBwYWdlIGluIHNlbGYucGRmX3JlYWRlci5wYWdlc1ticmVha3BvaW50Ol06CiAgICAgICAgICAgIHNlbGYud3JpdGVyMi5hZGRQYWdlKHBhZ2UpCgogICAgZGVmIHdyaXRlKHNlbGYsIGZpbGVuYW1lKToKICAgICAgICAiIiJXcml0ZSBib3RoIFBkZkZpbGVXcml0ZXIgaW5zdGFuY2VzIHRvIGZpbGVzIiIiCiAgICAgICAgIyBXcml0ZSB0aGUgZmlyc3QgZmlsZSB0byA8ZmlsZW5hbWU+XzEucGRmCiAgICAgICAgd2l0aCBQYXRoKGZpbGVuYW1lICsgIl8xLnBkZiIpLm9wZW4obW9kZT0id2IiKSBhcyBvdXRwdXRfZmlsZToKICAgICAgICAgICAgc2VsZi53cml0ZXIxLndyaXRlKG91dHB1dF9maWxlKQogICAgICAgICMgV3JpdGUgdGhlIHNlY29uZCBmaWxlIHRvIDxmaWxlbmFtZT5fMi5wZGYKICAgICAgICB3aXRoIFBhdGgoZmlsZW5hbWUgKyAiXzIucGRmIikub3Blbihtb2RlPSJ3YiIpIGFzIG91dHB1dF9maWxlOgogICAgICAgICAgICBzZWxmLndyaXRlcjIud3JpdGUob3V0cHV0X2ZpbGUpCgoKIyBTcGxpdCB0aGUgUHJpZGVfYW5kX1ByZWp1ZGljZS5wZGYgZmlsZSBpbnRvIHR3byBQREZzLCB0aGUgZmlyc3QKIyBjb250YWluaW5nIHRoZSBmaXJzdCAxNTAgcGFnZXMsIGFuZCB0aGUgc2Vjb25kIGNvbnRhaW5pbmcgdGhlCiMgcmVtYWluaW5nIHBhZ2VzLgpwZGZfc3BsaXR0ZXIgPSBQZGZGaWxlU3BsaXR0ZXIoImNoMTQtaW50ZXJhY3Qtd2l0aC1wZGYtZmlsZXMvcHJhY3RpY2VfZmlsZXMvUHJpZGVfYW5kX1ByZWp1ZGljZS5wZGYiKQpwZGZfc3BsaXR0ZXIuc3BsaXQoYnJlYWtwb2ludD0xNTApCnBkZl9zcGxpdHRlci53cml0ZSgicHJpZGVfc3BsaXQiKQo=
+# 14.5 - Challenge: PdfFileSplitter Class
+# Solution to challenge
+
+from pathlib import Path
+
+from PyPDF2 import PdfFileReader, PdfFileWriter
+
+
+class PdfFileSplitter:
+    """Class for splitting a PDF into two files."""
+
+    def __init__(self, pdf_path):
+        # Open the PDF file with a new PdfFileReader instance
+        self.pdf_reader = PdfFileReader(pdf_path)
+        # Initialize the .writer1 and .writer2 attributes to None
+        self.writer1 = None
+        self.writer2 = None
+
+    def split(self, breakpoint):
+        """Split the PDF into two PdfFileWriter instances"""
+        # Set .writer1 and .writer2 to new PdfFileWriter intances
+        self.writer1 = PdfFileWriter()
+        self.writer2 = PdfFileWriter()
+        # Add all pages up to, but not including, the breakpoint
+        # to writer1
+        for page in self.pdf_reader.pages[:breakpoint]:
+            self.writer1.addPage(page)
+        # Add all the remaining pages to writer2
+        for page in self.pdf_reader.pages[breakpoint:]:
+            self.writer2.addPage(page)
+
+    def write(self, filename):
+        """Write both PdfFileWriter instances to files"""
+        # Write the first file to <filename>_1.pdf
+        with Path(filename + "_1.pdf").open(mode="wb") as output_file:
+            self.writer1.write(output_file)
+        # Write the second file to <filename>_2.pdf
+        with Path(filename + "_2.pdf").open(mode="wb") as output_file:
+            self.writer2.write(output_file)
+
+
+# Split the Pride_and_Prejudice.pdf file into two PDFs, the first
+# containing the first 150 pages, and the second containing the
+# remaining pages.
+pdf_splitter = PdfFileSplitter("ch14-interact-with-pdf-files/practice_files/Pride_and_Prejudice.pdf")
+pdf_splitter.split(breakpoint=150)
+pdf_splitter.write("pride_split")

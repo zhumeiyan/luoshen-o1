@@ -1,1 +1,22 @@
-aW1wb3J0IGpzb24sbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApwbHQucmNQYXJhbXNbImZvbnQuZmFtaWx5Il09IldlblF1YW5ZaSBNaWNybyBIZWkiCmQ9anNvbi5sb2FkKG9wZW4oInJlc3VsdDE3N2IuanNvbiIpKQpjPWRbImN1cnZlIl07IHI9ZFsicmFuZG9tX2NvbnRyb2wiXQp4cz1bcFsiTiJdIGZvciBwIGluIGNdOyB5cz1bcFsiYml0cyJdIGZvciBwIGluIGNdCmZpZyxheD1wbHQuc3VicGxvdHMoMSwyLGZpZ3NpemU9KDExLDQuMikpCmF4WzBdLmF4aGxpbmUoZFsic3VtbWFyeV9iaXRzIl0sbHM9Ii0tIixjPSJncmF5IixsYWJlbD0i5oC757uTICUuNGYiJWRbInN1bW1hcnlfYml0cyJdKQpheFswXS5heGhsaW5lKGRbInNlbGVjdGl2ZV9mdWxsX2JpdHMiXSxscz0iOiIsYz0iZ3JlZW4iLGxhYmVsPSLlhajlkKblrpoo5pyJ5pa55ZCRKSAlLjRmIiVkWyJzZWxlY3RpdmVfZnVsbF9iaXRzIl0pCmF4WzBdLmF4aGxpbmUoZFsiZnVsbF9hbGxfYml0cyJdLGxzPSItLiIsYz0icmVkIixsYWJlbD0i5YWo55uY5ZCm5a6aKOaXoOaWueWQkSkgJS40ZiIlZFsiZnVsbF9hbGxfYml0cyJdKQpheFswXS5wbG90KHhzLHlzLCJvLSIsYz0iQzAiLGxhYmVsPSLmnInmlrnlkJHlkKblrpoiKQpyaz1zb3J0ZWQoci5pdGVtcygpKTsgYXhbMF0ucGxvdChbayBmb3IgayxfIGluIHJrXSxbdiBmb3IgXyx2IGluIHJrXSwicy0tIixjPSJvcmFuZ2UiLGxhYmVsPSLpmo/mnLrlkKblrpoo5a+554WnKSIpCmF4WzBdLnNldF94c2NhbGUoInN5bWxvZyIpOyBheFswXS5zZXRfeGxhYmVsKCLlkKblrprmnaHmlbAgTiIpOyBheFswXS5zZXRfeWxhYmVsKCLkuqTlj4nnhrUgYml0cy/lrZfnrKYiKQpheFswXS5zZXRfdGl0bGUoIuaAu+e7kyB2cyDlkKblrprvvJrkuqTlj4nnhrXotorkvY496LaK6IO96aKE5rWL5LiL5LiA5ouNIik7IGF4WzBdLmxlZ2VuZChmb250c2l6ZT03KQptYXNzPVtwWyJtYXNzIl0gZm9yIHAgaW4gY107IGdhaW49WyhkWyJzdW1tYXJ5X2JpdHMiXS15KS8oZFsic3VtbWFyeV9iaXRzIl0tZFsic2VsZWN0aXZlX2Z1bGxfYml0cyJdKSBmb3IgeSBpbiB5c10KYXhbMV0ucGxvdChbbSoxMDAgZm9yIG0gaW4gbWFzc10sW2cqMTAwIGZvciBnIGluIGdhaW5dLCJvLSIsYz0iQzAiKQpheFsxXS5wbG90KFswLDEwMF0sWzAsMTAwXSwiLS0iLGM9ImdyYXkiLGxhYmVsPSLnur/mgKfln7rlh4YiKQpheFsxXS5zZXRfeGxhYmVsKCLooqvlkKblrprnmoTmhI/lpJbotKjph4/ljaDmr5QgJSIpOyBheFsxXS5zZXRfeWxhYmVsKCLmib7lm57nmoTpooTmtYvmlLbnm4ogJSIpCmF4WzFdLnNldF90aXRsZSgi5ZCm5a6a55qE5pWI546H77ya5bCR6YeP5oSP5aSW5ou/5Zue5aSn6YOo5YiGIik7IGF4WzFdLmxlZ2VuZChmb250c2l6ZT04KQpwbHQudGlnaHRfbGF5b3V0KCk7IHBsdC5zYXZlZmlnKCJyZW5kZXIxNzcucG5nIixkcGk9MTEwKQpwcmludCgib2siKQo=
+import json,matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+plt.rcParams["font.family"]="WenQuanYi Micro Hei"
+d=json.load(open("result177b.json"))
+c=d["curve"]; r=d["random_control"]
+xs=[p["N"] for p in c]; ys=[p["bits"] for p in c]
+fig,ax=plt.subplots(1,2,figsize=(11,4.2))
+ax[0].axhline(d["summary_bits"],ls="--",c="gray",label="总结 %.4f"%d["summary_bits"])
+ax[0].axhline(d["selective_full_bits"],ls=":",c="green",label="全否定(有方向) %.4f"%d["selective_full_bits"])
+ax[0].axhline(d["full_all_bits"],ls="-.",c="red",label="全盘否定(无方向) %.4f"%d["full_all_bits"])
+ax[0].plot(xs,ys,"o-",c="C0",label="有方向否定")
+rk=sorted(r.items()); ax[0].plot([k for k,_ in rk],[v for _,v in rk],"s--",c="orange",label="随机否定(对照)")
+ax[0].set_xscale("symlog"); ax[0].set_xlabel("否定条数 N"); ax[0].set_ylabel("交叉熵 bits/字符")
+ax[0].set_title("总结 vs 否定：交叉熵越低=越能预测下一拍"); ax[0].legend(fontsize=7)
+mass=[p["mass"] for p in c]; gain=[(d["summary_bits"]-y)/(d["summary_bits"]-d["selective_full_bits"]) for y in ys]
+ax[1].plot([m*100 for m in mass],[g*100 for g in gain],"o-",c="C0")
+ax[1].plot([0,100],[0,100],"--",c="gray",label="线性基准")
+ax[1].set_xlabel("被否定的意外质量占比 %"); ax[1].set_ylabel("找回的预测收益 %")
+ax[1].set_title("否定的效率：少量意外拿回大部分"); ax[1].legend(fontsize=8)
+plt.tight_layout(); plt.savefig("render177.png",dpi=110)
+print("ok")

@@ -1,1 +1,278 @@
-IiIiUGFja2V0MTMyIGlzb2xhdGVkIGF1ZGlvIHBsYWNlbWVudCBhbmQgdW5jYWNoZWQgY3Jvc3MtY2FyZCBxdWFsaWZpY2F0aW9uLgoKSW5lcnQgYXQgaW1wb3J0LiBUaGUgdHJ1c3RlZCBob3N0IHN1cHBsaWVzIHRvcmNoIGFuZCB0aGUgbmF0aXZlIFZBRS4gQSBwcml2YXRlCkNQVSBjb3B5IGV4aXN0cyBvbmx5IGZvciB0aGUgdGhyZWUgZWFnZXItY29udHJvbCByZXF1ZXN0cy4gSXQgdmlzaXRzIHhwdTozIGZvcgpvbmUgZGVjb2RlIGF0IGEgdGltZSBhbmQgcmV0dXJucyB0byBDUFUgYmVmb3JlIHRoZSBuZXh0IHJlcXVlc3QuIEl0IGlzIG5ldmVyIGEKbW9kZWwtbWFuYWdlciBvd25lciwgbmV2ZXIgY2hhbmdlcyB0aGUgYWRtaXR0ZWQgeHB1OjIgVkFFLCBhbmQgY2Fubm90IHN1cnZpdmUgb24KeHB1OjMgaW50byBjb25lIGNhcHR1cmUuIEFsbCBuaW5lIHF1YWxpZmljYXRpb24gY2h1bmtzIHJldGFpbiB0aGUgb3JkaW5hcnkKd2hvbGUtY2hhaW4vZnJvemVuIHJlZmVyZW5jZSBnYXRlcy4gTm8gYWx0ZXJuYXRlIGFyaXRobWV0aWMsIHByZWNpc2lvbiwgb3V0cHV0CmNhY2hlLCBPT00gZmFsbGJhY2sgb3IgcmV0cnkgaXMgYWxsb3dlZC4KIiIiCmltcG9ydCBhc3QKaW1wb3J0IGNvcHkKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IG1hdGgKaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgdGltZQoKRU5WID0gJ0xUWF9BVURJT19SRVNJREVOQ1knCk1PREVTID0gKCdsZWdhY3knLCAneHB1MicpCkdJQiA9IDIqKjMwClNDUkVFTklOR19CWVRFUyA9IDMqR0lCLy80CldPUktTUEFDRV9CWVRFUyA9IDIqR0lCCkhPU1RfU0hBMjU2ID0gJzc2OWMyMTgyOWE3N2EyMTQ3ZjE5ODM4NTE1MDU0Njk4NjhlMDEwYTRiMzIxOGE5NGMwZjkwNGY2ZTUxNDNmMDMnClJFRkVSRU5DRV9BVFRSSUJVVEUgPSAnX2x0eDEzMl9hdWRpb19yZWZlcmVuY2UnCgoKZGVmIHJlcXVpcmUob2ssIHdoeSk6CiAgICBpZiBub3Qgb2s6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCdBdWRpbyByZXNpZGVuY3kxMzI6ICcgKyB3aHkpCgoKZGVmIGxhdW5jaChlbnY9Tm9uZSk6CiAgICB2YWx1ZSA9IChvcy5lbnZpcm9uIGlmIGVudiBpcyBOb25lIGVsc2UgZW52KS5nZXQoRU5WLCAnbGVnYWN5JykKICAgIGlmIHR5cGUodmFsdWUpIGlzIG5vdCBzdHIgb3IgdmFsdWUgbm90IGluIE1PREVTOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0xUWF9BVURJT19SRVNJREVOQ1kgbXVzdCBiZSBsZWdhY3kgb3IgeHB1MicpCiAgICByZXR1cm4gdmFsdWUKCgpkZWYgdmFlX2RldmljZShuYW1lLCBhdXhfbW9kZSwgYXVkaW9fbW9kZSk6CiAgICBpbXBvcnQgcmVzaWRlbmN5MTIzCiAgICBsYXVuY2goe0VOVjogYXVkaW9fbW9kZX0pCiAgICBleHBlY3RlZCA9ICgnbHR4LTIuNS12aWRlby12YWUtYmYxNi5zYWZldGVuc29ycycsICdsdHgtMi41LWF1ZGlvLXZhZS1iZjE2LnNhZmV0ZW5zb3JzJykKICAgIHJlcXVpcmUobmFtZSBpbiBleHBlY3RlZCwgJ3VuZGVjbGFyZWQgVkFFIGNoZWNrcG9pbnQnKQogICAgcmV0dXJuIHJlc2lkZW5jeTEyMy5yb2xlcyhhdXhfbW9kZSwgYXVkaW9fbW9kZSlbJ3ZpZGVvX3ZhZScgaWYgbmFtZSA9PSBleHBlY3RlZFswXSBlbHNlICdhdWRpb192YWUnXQoKCmRlZiB0ZW5zb3JzKG1vZGVsKToKICAgIHJldHVybiBsaXN0KG1vZGVsLm5hbWVkX3BhcmFtZXRlcnMoKSkgKyBsaXN0KG1vZGVsLm5hbWVkX2J1ZmZlcnMoKSkKCgpkZWYgbW9kZWxfaGFzaChtb2RlbCk6CiAgICBoID0gaGFzaGxpYi5zaGEyNTYoKQogICAgZm9yIG5hbWUsIHRlbnNvciBpbiB0ZW5zb3JzKG1vZGVsKToKICAgICAgICBoLnVwZGF0ZShuYW1lLmVuY29kZSgpKQogICAgICAgIGgudXBkYXRlKHN0cih0ZW5zb3IuZHR5cGUpLmVuY29kZSgpKQogICAgICAgIGgudXBkYXRlKHN0cih0dXBsZSh0ZW5zb3Iuc2hhcGUpKS5lbmNvZGUoKSkKICAgICAgICBoLnVwZGF0ZSh0ZW5zb3IuZGV0YWNoKCkudG8oJ2NwdScpLmNvbnRpZ3VvdXMoKS52aWV3KC0xKS52aWV3KF9faW1wb3J0X18oJ3RvcmNoJykudWludDgpLm51bXB5KCkpCiAgICByZXR1cm4gaC5oZXhkaWdlc3QoKQoKCmRlZiBwcmVwYXJlX3JlZmVyZW5jZSh0b3JjaCwgdmFlLCBuYW1lLCBtb2RlKToKICAgIGxhdW5jaCh7RU5WOiBtb2RlfSkKICAgIGlmIG1vZGUgPT0gJ2xlZ2FjeScgb3IgbmFtZSAhPSAnbHR4LTIuNS1hdWRpby12YWUtYmYxNi5zYWZldGVuc29ycyc6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHJlcXVpcmUobm90IGhhc2F0dHIodmFlLCBSRUZFUkVOQ0VfQVRUUklCVVRFKSwgJ3JlZmVyZW5jZSBhbHJlYWR5IGluc3RhbGxlZCcpCiAgICByZXF1aXJlKHN0cih2YWUuZGV2aWNlKSA9PSAneHB1OjInIGFuZCBzdHIodmFlLm91dHB1dF9kZXZpY2UpID09ICdjcHUnIGFuZAogICAgICAgICAgICB2YWUuZGlzYWJsZV9vZmZsb2FkIGlzIFRydWUsICduYXRpdmUgYXVkaW8gcGxhY2VtZW50IG9yIG9mZmxvYWQgcG9saWN5IGRpZmZlcnMnKQogICAgcmVxdWlyZSh2YWUudmFlX2R0eXBlIGlzIHRvcmNoLmJmbG9hdDE2IGFuZCB2YWUudmFlX291dHB1dF9kdHlwZSgpIGlzIHRvcmNoLmZsb2F0MzIsCiAgICAgICAgICAgICduYXRpdmUgLS1iZjE2LXZhZSBtb2RlbCAvIGZsb2F0MzIgb3V0cHV0IHByZWNpc2lvbiBkaWZmZXJzJykKICAgIHNvdXJjZSA9IHZhZS5maXJzdF9zdGFnZV9tb2RlbAogICAgcmVxdWlyZSh0eXBlKHNvdXJjZSkuX19uYW1lX18gPT0gJ0F1ZGlvVkFFJywgJ3VuZXhwZWN0ZWQgbmF0aXZlIGF1ZGlvIG1vZGVsJykKICAgIHJvd3MgPSB0ZW5zb3JzKHNvdXJjZSkKICAgIHJlcXVpcmUocm93cyBhbmQgYWxsKHN0cih0LmRldmljZSkgPT0gJ2NwdScgZm9yIF8sIHQgaW4gcm93cyksICdyZWZlcmVuY2UgbXVzdCBjb3B5IGJlZm9yZSBuYXRpdmUgbG9hZGluZycpCiAgICByZXF1aXJlKG5vdCBnZXRhdHRyKHNvdXJjZSwgJ2NvbWZ5X2hhc19jaHVua2VkX2lvJywgRmFsc2UpLCAndW5zdXBwb3J0ZWQgbmF0aXZlIGNodW5rZWQgYXVkaW8gb3V0cHV0JykKICAgIHdpdGggdG9yY2guaW5mZXJlbmNlX21vZGUoRmFsc2UpLCB0b3JjaC5ub19ncmFkKCk6CiAgICAgICAgbW9kZWwgPSBjb3B5LmRlZXBjb3B5KHNvdXJjZSkKICAgIHJlcXVpcmUoYWxsKGEgaXMgbm90IGIgZm9yIChfLCBhKSwgKF8sIGIpIGluIHppcChyb3dzLCB0ZW5zb3JzKG1vZGVsKSkpLCAncmVmZXJlbmNlIHdlaWdodHMgYWxpYXMgbmF0aXZlIHdlaWdodHMnKQogICAgZGlnZXN0ID0gbW9kZWxfaGFzaChzb3VyY2UpCiAgICByZXF1aXJlKG1vZGVsX2hhc2gobW9kZWwpID09IGRpZ2VzdCwgJ3JlZmVyZW5jZSB3ZWlnaHQgYnl0ZXMgZGlmZmVyJykKICAgIHN0YXRlID0geydtb2RlbCc6IG1vZGVsLCAnd2VpZ2h0X3NoYTI1Nic6IGRpZ2VzdCwKICAgICAgICAgICAgICdyZXNpZGVudF9ieXRlcyc6IHN1bSh0Lm51bWVsKCkqdC5lbGVtZW50X3NpemUoKSBmb3IgXywgdCBpbiByb3dzKSwKICAgICAgICAgICAgICdjYWxscyc6IFtdLCAnYWN0aXZlJzogRmFsc2UsICdmYWlsZWQnOiBOb25lfQogICAgc2V0YXR0cih2YWUsIFJFRkVSRU5DRV9BVFRSSUJVVEUsIHN0YXRlKQogICAgcmV0dXJuIHsncmVzaWRlbnRfYnl0ZXMnOiBzdGF0ZVsncmVzaWRlbnRfYnl0ZXMnXSwgJ3dlaWdodF9zaGEyNTYnOiBkaWdlc3QsICdkZXZpY2UnOiAnY3B1J30KCgpkZWYgY2hlY2tfd29ya3NwYWNlKGZyZWVfYnl0ZXMsIGRldmljZSwgYmVmb3JlLCByZXNpZGVudF9ieXRlcz0wKToKICAgIHJlcXVpcmUodHlwZShmcmVlX2J5dGVzKSBpcyBpbnQgYW5kIGZyZWVfYnl0ZXMgPj0gMCBhbmQgdHlwZShiZWZvcmUpIGlzIGJvb2wsCiAgICAgICAgICAgICdpbnZhbGlkIHBoeXNpY2FsIGZyZWUtbWVtb3J5IHNhbXBsZScpCiAgICByZXF1aXJlKGRldmljZSBpbiAoJ3hwdToyJywgJ3hwdTozJykgYW5kIHR5cGUocmVzaWRlbnRfYnl0ZXMpIGlzIGludCBhbmQgcmVzaWRlbnRfYnl0ZXMgPj0gMCwKICAgICAgICAgICAgJ2ludmFsaWQgd29ya3NwYWNlIG93bmVyJykKICAgIGZsb29yID0gKDIgaWYgZGV2aWNlID09ICd4cHU6MicgZWxzZSA5KSpHSUIKICAgIHJlcXVpcmVkID0gZmxvb3IgKyBTQ1JFRU5JTkdfQllURVMgKyAoV09SS1NQQUNFX0JZVEVTICsgcmVzaWRlbnRfYnl0ZXMgaWYgYmVmb3JlIGVsc2UgMCkKICAgIHJlcXVpcmUoZnJlZV9ieXRlcyA+PSByZXF1aXJlZCwgJyVzIHdvcmtzcGFjZSBhZG1pc3Npb24gZmFpbGVkICglZCA8ICVkKScgJSAoZGV2aWNlLCBmcmVlX2J5dGVzLCByZXF1aXJlZCkpCiAgICByZXR1cm4geydkZXZpY2UnOiBkZXZpY2UsICdmcmVlX2J5dGVzJzogZnJlZV9ieXRlcywgJ3JlcXVpcmVkX2J5dGVzJzogcmVxdWlyZWQsCiAgICAgICAgICAgICdmbG9vcl9ieXRlcyc6IGZsb29yLCAnc2NyZWVuaW5nX21hcmdpbl9ieXRlcyc6IFNDUkVFTklOR19CWVRFUywKICAgICAgICAgICAgJ3dvcmtzcGFjZV9hbGxvd2FuY2VfYnl0ZXMnOiBXT1JLU1BBQ0VfQllURVMgaWYgYmVmb3JlIGVsc2UgMCwKICAgICAgICAgICAgJ25ld19yZXNpZGVudF9ieXRlcyc6IHJlc2lkZW50X2J5dGVzIGlmIGJlZm9yZSBlbHNlIDAsICdiZWZvcmUnOiBiZWZvcmUsICdwYXNzZWQnOiBUcnVlfQoKCmRlZiB3b3Jrc3BhY2UodG9yY2gsIGRldmljZSwgYmVmb3JlLCByZXNpZGVudF9ieXRlcz0wKToKICAgIHRvcmNoLnhwdS5zeW5jaHJvbml6ZShkZXZpY2UpCiAgICByZXR1cm4gY2hlY2tfd29ya3NwYWNlKHRvcmNoLnhwdS5tZW1fZ2V0X2luZm8oZGV2aWNlKVswXSwgZGV2aWNlLCBiZWZvcmUsIHJlc2lkZW50X2J5dGVzKQoKCmRlZiBhc3NlcnRfcmVmZXJlbmNlX3JlbGVhc2VkKHZhZSk6CiAgICBzdGF0ZSA9IGdldGF0dHIodmFlLCBSRUZFUkVOQ0VfQVRUUklCVVRFLCBOb25lKQogICAgcmVxdWlyZSh0eXBlKHN0YXRlKSBpcyBkaWN0IGFuZCBzdGF0ZVsnZmFpbGVkJ10gaXMgTm9uZSBhbmQgbm90IHN0YXRlWydhY3RpdmUnXSwgJ3JlZmVyZW5jZSBtaXNzaW5nLCBhY3RpdmUgb3IgZmFpbGVkJykKICAgIHJlcXVpcmUoYWxsKHN0cih0LmRldmljZSkgPT0gJ2NwdScgZm9yIF8sIHQgaW4gdGVuc29ycyhzdGF0ZVsnbW9kZWwnXSkpLCAncmVmZXJlbmNlIHN0aWxsIHJlc2lkZXMgb24gYSBjYXJkJykKICAgIHJldHVybiB7J2RldmljZSc6ICdjcHUnLCAnYWN0aXZlJzogRmFsc2UsICdjYWxscyc6IGxlbihzdGF0ZVsnY2FsbHMnXSksCiAgICAgICAgICAgICdyZXNpZGVudF9ieXRlc19vbl94cHUzJzogMCwgJ3dlaWdodF9zaGEyNTYnOiBzdGF0ZVsnd2VpZ2h0X3NoYTI1NiddfQoKCmRlZiBfZGlnZXN0KHRvcmNoLCB3YXZlZm9ybSk6CiAgICByZXR1cm4gaGFzaGxpYi5zaGEyNTYod2F2ZWZvcm0uZGV0YWNoKCkudG8oJ2NwdScpLmNvbnRpZ3VvdXMoKS52aWV3KHRvcmNoLnVpbnQ4KS5udW1weSgpKS5oZXhkaWdlc3QoKQoKCmRlZiBjb21wYXJlKHRvcmNoLCBjYW5kaWRhdGUsIHJlZmVyZW5jZSk6CiAgICBhLCBiID0gY2FuZGlkYXRlWyd3YXZlZm9ybSddLCByZWZlcmVuY2VbJ3dhdmVmb3JtJ10KICAgIGFoLCBiaCA9IF9kaWdlc3QodG9yY2gsIGEpLCBfZGlnZXN0KHRvcmNoLCBiKQogICAgZXF1YWwgPSAoY2FuZGlkYXRlWydzYW1wbGVfcmF0ZSddID09IHJlZmVyZW5jZVsnc2FtcGxlX3JhdGUnXSBhbmQgYS5kdHlwZSA9PSBiLmR0eXBlIGFuZAogICAgICAgICAgICAgdHVwbGUoYS5zaGFwZSkgPT0gdHVwbGUoYi5zaGFwZSkgYW5kIGFoID09IGJoKQogICAgcmVxdWlyZShlcXVhbCwgJ2Nyb3NzLWNhcmQgd2F2ZWZvcm0gYnl0ZSBnYXRlIGZhaWxlZCcpCiAgICByZXR1cm4geydlcXVhbCc6IFRydWUsICdkZXZpY2UnOiAneHB1OjInLCAncmVmZXJlbmNlX2RldmljZSc6ICd4cHU6MycsCiAgICAgICAgICAgICdzYW1wbGVfcmF0ZSc6IGNhbmRpZGF0ZVsnc2FtcGxlX3JhdGUnXSwgJ3NoYXBlJzogbGlzdChhLnNoYXBlKSwgJ2R0eXBlJzogc3RyKGEuZHR5cGUpLAogICAgICAgICAgICAnd2F2ZWZvcm1fc2hhMjU2JzogYWgsICdyZWZlcmVuY2Vfd2F2ZWZvcm1fc2hhMjU2JzogYmgsICdtb2RlJzogJ25hdGl2ZS1lYWdlci11bmNhY2hlZCd9CgoKZGVmIHJlZmVyZW5jZV9kZWNvZGUodG9yY2gsIHZhZSwgbGF0ZW50LCBydW5fbmFtZSk6CiAgICBzdGF0ZSA9IGdldGF0dHIodmFlLCBSRUZFUkVOQ0VfQVRUUklCVVRFLCBOb25lKQogICAgYXNzZXJ0X3JlZmVyZW5jZV9yZWxlYXNlZCh2YWUpCiAgICByZXF1aXJlKHR5cGUocnVuX25hbWUpIGlzIHN0ciBhbmQgcnVuX25hbWUgbm90IGluIHN0YXRlWydjYWxscyddIGFuZCBsZW4oc3RhdGVbJ2NhbGxzJ10pIDwgMywKICAgICAgICAgICAgJ3JlZmVyZW5jZSByZXF1ZXN0IGR1cGxpY2F0ZWQgb3IgYmV5b25kIHRoZSB0aHJlZSBlYWdlciBjb250cm9scycpCiAgICByZXF1aXJlKGxhdGVudC5zaGFwZVswXSA9PSAxIGFuZCBzdHIobGF0ZW50LmRldmljZSkgPT0gJ2NwdScsICdyZWZlcmVuY2UgcmVxdWlyZXMgcHJpdmF0ZSBiYXRjaC1vbmUgQ1BVIGxhdGVudCcpCiAgICBtb2RlbCA9IHN0YXRlWydtb2RlbCddCiAgICBiZWZvcmUgPSB3b3Jrc3BhY2UodG9yY2gsICd4cHU6MycsIFRydWUsIHN0YXRlWydyZXNpZGVudF9ieXRlcyddKQogICAgcmVxdWlyZShtb2RlbF9oYXNoKG1vZGVsKSA9PSBzdGF0ZVsnd2VpZ2h0X3NoYTI1NiddLCAnQ1BVIHJlZmVyZW5jZSB3ZWlnaHRzIGNoYW5nZWQnKQogICAgc3RhdGVbJ2FjdGl2ZSddID0gVHJ1ZQogICAgc3RhcnRlZCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgIHRyeToKICAgICAgICB3aXRoIHRvcmNoLmluZmVyZW5jZV9tb2RlKCksIHRvcmNoLnhwdS5kZXZpY2UoJ3hwdTozJyk6CiAgICAgICAgICAgIG1vZGVsLnRvKGRldmljZT0neHB1OjMnKQogICAgICAgICAgICBzYW1wbGVzID0gbGF0ZW50LnRvKGRldmljZT0neHB1OjMnLCBkdHlwZT12YWUudmFlX2R0eXBlKQogICAgICAgICAgICB0b3JjaC54cHUuc3luY2hyb25pemUoJ3hwdTozJykKICAgICAgICAgICAgY29waWVkID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgICAgICAgICBvdXQgPSBtb2RlbC5kZWNvZGUoc2FtcGxlcykKICAgICAgICAgICAgdG9yY2gueHB1LnN5bmNocm9uaXplKCd4cHU6MycpCiAgICAgICAgICAgIGRlY29kZWQgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICAgICAgICAgIG91dCA9IG91dC50byhkZXZpY2U9dmFlLm91dHB1dF9kZXZpY2UsIGR0eXBlPXZhZS52YWVfb3V0cHV0X2R0eXBlKCksIGNvcHk9VHJ1ZSkKICAgICAgICAgICAgcGl4ZWxzID0gdG9yY2guZW1wdHkoKGxhdGVudC5zaGFwZVswXSwpICsgdHVwbGUob3V0LnNoYXBlWzE6XSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldmljZT12YWUub3V0cHV0X2RldmljZSwgZHR5cGU9dmFlLnZhZV9vdXRwdXRfZHR5cGUoKSkKICAgICAgICAgICAgcGl4ZWxzWzA6MV0uY29weV8ob3V0KQogICAgICAgICAgICB2YWUucHJvY2Vzc19vdXRwdXQocGl4ZWxzWzA6MV0pCiAgICAgICAgICAgIHdhdmVmb3JtID0gcGl4ZWxzLnRvKHZhZS5vdXRwdXRfZGV2aWNlKS5tb3ZlZGltKDEsIC0xKS5tb3ZlZGltKC0xLCAxKS50byhsYXRlbnQuZGV2aWNlKQogICAgICAgICAgICBvdXRwdXRfY29waWVkID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgICAgICAgICBkZWwgc2FtcGxlcywgb3V0LCBwaXhlbHMKICAgICAgICAgICAgbW9kZWwudG8oZGV2aWNlPSdjcHUnKQogICAgICAgICAgICB0b3JjaC54cHUuc3luY2hyb25pemUoJ3hwdTozJykKICAgICAgICAgICAgcmVsZWFzZWQgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICAgICAgYWZ0ZXIgPSB3b3Jrc3BhY2UodG9yY2gsICd4cHU6MycsIEZhbHNlKQogICAgICAgIHN0YXRlWydhY3RpdmUnXSA9IEZhbHNlCiAgICAgICAgc3RhdGVbJ2NhbGxzJ10uYXBwZW5kKHJ1bl9uYW1lKQogICAgICAgIHJlbGVhc2VkX3N0YXRlID0gYXNzZXJ0X3JlZmVyZW5jZV9yZWxlYXNlZCh2YWUpCiAgICAgICAgcmV0dXJuIHsnd2F2ZWZvcm0nOiB3YXZlZm9ybSwgJ3NhbXBsZV9yYXRlJzogaW50KG1vZGVsLm91dHB1dF9zYW1wbGVfcmF0ZSl9LCB7CiAgICAgICAgICAgICd3b3Jrc3BhY2UnOiB7J2JlZm9yZSc6IGJlZm9yZSwgJ2FmdGVyJzogYWZ0ZXJ9LCAncmVsZWFzZWQnOiByZWxlYXNlZF9zdGF0ZSwKICAgICAgICAgICAgJ3NlY29uZHMnOiB7J3JlZmVyZW5jZV93ZWlnaHRfYW5kX2xhdGVudF9jb3B5JzogY29waWVkLXN0YXJ0ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICdyZWZlcmVuY2VfZGVjb2RlJzogZGVjb2RlZC1jb3BpZWQsICdyZWZlcmVuY2Vfb3V0cHV0X2NvcHknOiBvdXRwdXRfY29waWVkLWRlY29kZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICdyZWZlcmVuY2VfdW5sb2FkJzogcmVsZWFzZWQtb3V0cHV0X2NvcGllZCwgJ3JlZmVyZW5jZV90b3RhbCc6IHJlbGVhc2VkLXN0YXJ0ZWR9fQogICAgZXhjZXB0IEJhc2VFeGNlcHRpb24gYXMgZXJyb3I6CiAgICAgICAgc3RhdGVbJ2ZhaWxlZCddID0gcmVwcihlcnJvcikKICAgICAgICByYWlzZQoKCmRlZiBkZWNvZGUodG9yY2gsIHZhZSwgbGF0ZW50LCBuYXRpdmVfZGVjb2RlLCBraW5kLCBydW5fbmFtZSk6CiAgICAiIiJDYW5kaWRhdGUgYWx3YXlzIHVzZXMgdGhlIHVuY2hhbmdlZCBub2RlOyBvbmx5IGVhZ2VyIGNvbnRyb2xzIGFkZCByZWZlcmVuY2UuIiIiCiAgICByZXF1aXJlKHN0cih2YWUuZGV2aWNlKSA9PSAneHB1OjInLCAnY2FuZGlkYXRlIGF1ZGlvIG11c3Qgc3RheSBvbiB4cHU6MicpCiAgICBhc3NlcnRfcmVmZXJlbmNlX3JlbGVhc2VkKHZhZSkKICAgIGJlZm9yZSA9IHdvcmtzcGFjZSh0b3JjaCwgJ3hwdToyJywgVHJ1ZSkKICAgIHN0YXJ0ZWQgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICBhdWRpbyA9IG5hdGl2ZV9kZWNvZGUoKQogICAgdG9yY2gueHB1LnN5bmNocm9uaXplKCd4cHU6MicpCiAgICBlbGFwc2VkID0gdGltZS5wZXJmX2NvdW50ZXIoKS1zdGFydGVkCiAgICBhZnRlciA9IHdvcmtzcGFjZSh0b3JjaCwgJ3hwdToyJywgRmFsc2UpCiAgICBldmlkZW5jZSA9IHsnbW9kZSc6ICd4cHUyJywgJ2RldmljZSc6ICd4cHU6MicsICdraW5kJzoga2luZCwgJ3J1bl9uYW1lJzogcnVuX25hbWUsCiAgICAgICAgICAgICAgICAnd29ya3NwYWNlJzogeydiZWZvcmUnOiBiZWZvcmUsICdhZnRlcic6IGFmdGVyfSwKICAgICAgICAgICAgICAgICdjYW5kaWRhdGVfbmF0aXZlX25vZGVfc2Vjb25kcyc6IGVsYXBzZWQsICdjcm9zc19jYXJkJzogTm9uZSwKICAgICAgICAgICAgICAgICdyZWZlcmVuY2UnOiBOb25lLCAncmVmZXJlbmNlX3JlbGVhc2VkJzogYXNzZXJ0X3JlZmVyZW5jZV9yZWxlYXNlZCh2YWUpfQogICAgaWYga2luZCA9PSAncXVhbGlmeS1lYWdlcic6CiAgICAgICAgcmVmZXJlbmNlLCByb3cgPSByZWZlcmVuY2VfZGVjb2RlKHRvcmNoLCB2YWUsIGxhdGVudCwgcnVuX25hbWUpCiAgICAgICAgZXZpZGVuY2VbJ2Nyb3NzX2NhcmQnXSA9IGNvbXBhcmUodG9yY2gsIGF1ZGlvLCByZWZlcmVuY2UpCiAgICAgICAgZXZpZGVuY2VbJ3JlZmVyZW5jZSddID0gcm93CiAgICAgICAgZXZpZGVuY2VbJ3JlZmVyZW5jZV9yZWxlYXNlZCddID0gYXNzZXJ0X3JlZmVyZW5jZV9yZWxlYXNlZCh2YWUpCiAgICBlbHNlOgogICAgICAgIHJlcXVpcmUobGVuKGdldGF0dHIodmFlLCBSRUZFUkVOQ0VfQVRUUklCVVRFKVsnY2FsbHMnXSkgPT0gMywgJ2FsbCB0aHJlZSBjcm9zcy1jYXJkIGVhZ2VyIGNvbnRyb2xzIHJlcXVpcmVkJykKICAgIHJldHVybiBhdWRpbywgZXZpZGVuY2UKCgpkZWYgdmFsaWRhdGVfZXZpZGVuY2UocmVjZWlwdD1Ob25lLCBkZWNvZGU9Tm9uZSk6CiAgICAiIiJSZWFkLW9ubHkgcmVjZWlwdC9jbGllbnQgZ2F0ZS4gTmF0aXZlIHF1YWxpZmljYXRpb24gc3RpbGwgb3ducyBhZG1pc3Npb24uIiIiCiAgICBkZWYgbmVlZChvaywgd2h5KToKICAgICAgICBpZiBub3Qgb2s6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0F1ZGlvIHJlc2lkZW5jeSBldmlkZW5jZTogJyArIHdoeSkKICAgIHNvdXJjZSA9IHJlY2VpcHQgaWYgcmVjZWlwdCBpcyBub3QgTm9uZSBlbHNlIGRlY29kZSBvciB7fQogICAgbW9kZSA9IChzb3VyY2UuZ2V0KCdzZXJ2ZXJfb3B0aW9ucycpIG9yIHt9KS5nZXQoJ2F1ZGlvX3Jlc2lkZW5jeScsICdsZWdhY3knKQogICAgbmVlZChtb2RlIGluIE1PREVTLCAndW5rbm93biBtb2RlJykKICAgIGlmIG1vZGUgPT0gJ2xlZ2FjeSc6CiAgICAgICAgcmV0dXJuIHsnZW5hYmxlZCc6IEZhbHNlfQogICAgaWYgZGVjb2RlIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIHsnZW5hYmxlZCc6IFRydWUsICdkZWNvZGVfcGVuZGluZyc6IFRydWV9CiAgICBuZWVkKGRlY29kZS5nZXQoJ2F1ZGlvX3Jlc2lkZW5jeScpID09IG1vZGUgYW5kIGRlY29kZS5nZXQoJ2F1ZGlvX2RldmljZScpID09ICd4cHU6MicsICdwbGFjZW1lbnQgZGlmZmVycycpCiAgICBpZiByZWNlaXB0IGlzIG5vdCBOb25lOgogICAgICAgIG5lZWQoZGVjb2RlLmdldCgncnVuX25hbWUnKSA9PSByZWNlaXB0LmdldCgncnVuX25hbWUnKSBhbmQKICAgICAgICAgICAgIGRlY29kZS5nZXQoJ3Byb21wdF9pZCcpID09IHJlY2VpcHQuZ2V0KCdwcm9tcHRfaWQnKSwgJ2RlY29kZSBiZWxvbmdzIHRvIGFub3RoZXIgcmVjZWlwdCcpCiAgICByb3cgPSBkZWNvZGUuZ2V0KCdhdWRpb19yZXNpZGVuY3lfZXZpZGVuY2UnKQogICAgbmVlZCh0eXBlKHJvdykgaXMgZGljdCBhbmQgcm93LmdldCgnbW9kZScpID09IG1vZGUgYW5kIHJvdy5nZXQoJ2RldmljZScpID09ICd4cHU6MicgYW5kCiAgICAgICAgIHJvdy5nZXQoJ2tpbmQnKSA9PSBkZWNvZGUuZ2V0KCdraW5kJykgYW5kIHJvdy5nZXQoJ3J1bl9uYW1lJykgPT0gZGVjb2RlLmdldCgncnVuX25hbWUnKSwgJ2lkZW50aXR5IGRpZmZlcnMnKQogICAgZGVmIHRpbWluZyh2YWx1ZSk6CiAgICAgICAgcmV0dXJuIHR5cGUodmFsdWUpIGluIChpbnQsIGZsb2F0KSBhbmQgbWF0aC5pc2Zpbml0ZSh2YWx1ZSkgYW5kIHZhbHVlID49IDAKICAgIG5lZWQodGltaW5nKHJvdy5nZXQoJ2NhbmRpZGF0ZV9uYXRpdmVfbm9kZV9zZWNvbmRzJykpLCAnbmF0aXZlIHRpbWluZyBtaXNzaW5nJykKICAgIGRlZiB3b3Jrc3BhY2Vfcm93KHZhbHVlLCBkZXZpY2UpOgogICAgICAgIG5lZWQodHlwZSh2YWx1ZSkgaXMgZGljdCBhbmQgc2V0KHZhbHVlKSA9PSB7J2JlZm9yZScsICdhZnRlcid9LCAnd29ya3NwYWNlIHNhbXBsZXMgbWlzc2luZycpCiAgICAgICAgZm9yIHBoYXNlLCBiZWZvcmUgaW4gKCgnYmVmb3JlJywgVHJ1ZSksICgnYWZ0ZXInLCBGYWxzZSkpOgogICAgICAgICAgICBzYW1wbGUgPSB2YWx1ZVtwaGFzZV0KICAgICAgICAgICAgbmVlZCh0eXBlKHNhbXBsZSkgaXMgZGljdCwgJ3dvcmtzcGFjZSBzYW1wbGUgbWlzc2luZycpCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGV4cGVjdGVkID0gY2hlY2tfd29ya3NwYWNlKHNhbXBsZS5nZXQoJ2ZyZWVfYnl0ZXMnKSwgZGV2aWNlLCBiZWZvcmUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYW1wbGUuZ2V0KCduZXdfcmVzaWRlbnRfYnl0ZXMnLCAwKSkKICAgICAgICAgICAgZXhjZXB0IFJ1bnRpbWVFcnJvciBhcyBlcnJvcjoKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0F1ZGlvIHJlc2lkZW5jeSBldmlkZW5jZTogJyArIHN0cihlcnJvcikpIGZyb20gZXJyb3IKICAgICAgICAgICAgbmVlZChzYW1wbGUgPT0gZXhwZWN0ZWQgYW5kIHNhbXBsZS5nZXQoJ3Bhc3NlZCcpIGlzIFRydWUgYW5kIHNhbXBsZS5nZXQoJ2JlZm9yZScpIGlzIGJlZm9yZSwKICAgICAgICAgICAgICAgICAnd29ya3NwYWNlIGZpZWxkcyBkaWZmZXInKQogICAgd29ya3NwYWNlX3Jvdyhyb3cuZ2V0KCd3b3Jrc3BhY2UnKSwgJ3hwdToyJykKICAgIGRlZiByZWxlYXNlZCh2YWx1ZSk6CiAgICAgICAgbmVlZCh0eXBlKHZhbHVlKSBpcyBkaWN0IGFuZCBzZXQodmFsdWUpID09IHsnZGV2aWNlJywgJ2FjdGl2ZScsICdjYWxscycsICdyZXNpZGVudF9ieXRlc19vbl94cHUzJywgJ3dlaWdodF9zaGEyNTYnfSwKICAgICAgICAgICAgICdyZWZlcmVuY2UgcmVsZWFzZSBtaXNzaW5nJykKICAgICAgICBuZWVkKHZhbHVlWydkZXZpY2UnXSA9PSAnY3B1JyBhbmQgdmFsdWVbJ2FjdGl2ZSddIGlzIEZhbHNlIGFuZCB0eXBlKHZhbHVlWydyZXNpZGVudF9ieXRlc19vbl94cHUzJ10pIGlzIGludAogICAgICAgICAgICAgYW5kIHZhbHVlWydyZXNpZGVudF9ieXRlc19vbl94cHUzJ10gPT0gMCBhbmQgdHlwZSh2YWx1ZVsnY2FsbHMnXSkgaXMgaW50IGFuZAogICAgICAgICAgICAgcmUuZnVsbG1hdGNoKCdbMC05YS1mXXs2NH0nLCBzdHIodmFsdWVbJ3dlaWdodF9zaGEyNTYnXSkpIGlzIG5vdCBOb25lLCAncmVmZXJlbmNlIHJlbGVhc2UgZGlmZmVycycpCiAgICByZWxlYXNlZChyb3cuZ2V0KCdyZWZlcmVuY2VfcmVsZWFzZWQnKSkKICAgIGVhZ2VyID0gZGVjb2RlLmdldCgna2luZCcpID09ICdxdWFsaWZ5LWVhZ2VyJwogICAgbmVlZCgxIDw9IHJvd1sncmVmZXJlbmNlX3JlbGVhc2VkJ11bJ2NhbGxzJ10gPD0gMyBpZiBlYWdlciBlbHNlIHJvd1sncmVmZXJlbmNlX3JlbGVhc2VkJ11bJ2NhbGxzJ10gPT0gMywKICAgICAgICAgJ3JlZmVyZW5jZSBjYWxsIGNvdW50IGRpZmZlcnMnKQogICAgaWYgZWFnZXI6CiAgICAgICAgcmVmLCBjcm9zcyA9IHJvdy5nZXQoJ3JlZmVyZW5jZScpLCByb3cuZ2V0KCdjcm9zc19jYXJkJykKICAgICAgICBuZWVkKHR5cGUocmVmKSBpcyBkaWN0IGFuZCB0eXBlKGNyb3NzKSBpcyBkaWN0LCAnY3Jvc3MtY2FyZCBlYWdlciBjb250cm9sIG1pc3NpbmcnKQogICAgICAgIHdvcmtzcGFjZV9yb3cocmVmLmdldCgnd29ya3NwYWNlJyksICd4cHU6MycpCiAgICAgICAgcmVsZWFzZWQocmVmLmdldCgncmVsZWFzZWQnKSkKICAgICAgICBuZWVkKHJlZlsncmVsZWFzZWQnXSA9PSByb3dbJ3JlZmVyZW5jZV9yZWxlYXNlZCddLCAncmVsZWFzZSByZWNvcmRzIGRpc2FncmVlJykKICAgICAgICBzZWNvbmRzID0gcmVmLmdldCgnc2Vjb25kcycpCiAgICAgICAgbmVlZCh0eXBlKHNlY29uZHMpIGlzIGRpY3QgYW5kIHNldChzZWNvbmRzKSA9PSB7J3JlZmVyZW5jZV93ZWlnaHRfYW5kX2xhdGVudF9jb3B5JywgJ3JlZmVyZW5jZV9kZWNvZGUnLAogICAgICAgICAgICAgJ3JlZmVyZW5jZV9vdXRwdXRfY29weScsICdyZWZlcmVuY2VfdW5sb2FkJywgJ3JlZmVyZW5jZV90b3RhbCd9IGFuZCBhbGwodGltaW5nKHYpIGZvciB2IGluIHNlY29uZHMudmFsdWVzKCkpLAogICAgICAgICAgICAgJ2lzb2xhdGVkIHJlZmVyZW5jZSB0aW1pbmcgbWlzc2luZycpCiAgICAgICAgd2F2ZSA9IChkZWNvZGUuZ2V0KCd0ZW5zb3JzJykgb3Ige30pLmdldCgnd2F2ZWZvcm0nKSBvciB7fQogICAgICAgIG5lZWQoY3Jvc3MuZ2V0KCdlcXVhbCcpIGlzIFRydWUgYW5kIGNyb3NzLmdldCgnZGV2aWNlJykgPT0gJ3hwdToyJyBhbmQgY3Jvc3MuZ2V0KCdyZWZlcmVuY2VfZGV2aWNlJykgPT0gJ3hwdTozJwogICAgICAgICAgICAgYW5kIGNyb3NzLmdldCgnbW9kZScpID09ICduYXRpdmUtZWFnZXItdW5jYWNoZWQnIGFuZCBjcm9zcy5nZXQoJ3NhbXBsZV9yYXRlJykgPT0gZGVjb2RlLmdldCgnc2FtcGxlX3JhdGUnKQogICAgICAgICAgICAgYW5kIGNyb3NzLmdldCgnd2F2ZWZvcm1fc2hhMjU2JykgPT0gY3Jvc3MuZ2V0KCdyZWZlcmVuY2Vfd2F2ZWZvcm1fc2hhMjU2JykgPT0gd2F2ZS5nZXQoJ3NoYTI1NicpCiAgICAgICAgICAgICBhbmQgY3Jvc3MuZ2V0KCdzaGFwZScpID09IHdhdmUuZ2V0KCdzaGFwZScpIGFuZCBjcm9zcy5nZXQoJ2R0eXBlJykgPT0gd2F2ZS5nZXQoJ2R0eXBlJyksICd3YXZlZm9ybSBieXRlIGdhdGUgZGlmZmVycycpCiAgICBlbHNlOgogICAgICAgIG5lZWQocm93LmdldCgncmVmZXJlbmNlJykgaXMgTm9uZSBhbmQgcm93LmdldCgnY3Jvc3NfY2FyZCcpIGlzIE5vbmUsICd1bmV4cGVjdGVkIHBvc3QtY2FwdHVyZSByZWZlcmVuY2UnKQogICAgcmV0dXJuIHsnZW5hYmxlZCc6IFRydWUsICdjcm9zc19jYXJkJzogZWFnZXIsICdyZWZlcmVuY2VfcmVsZWFzZWQnOiBUcnVlfQoKCmRlZiB0cmFuc2Zvcm1faG9zdChyYXcpOgogICAgcmVxdWlyZSh0eXBlKHJhdykgaXMgYnl0ZXMgYW5kIGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KCkgPT0gSE9TVF9TSEEyNTYsICdob3N0IHBhcmVudCBoYXNoIGRpZmZlcnMnKQogICAgdGV4dCA9IHJhdy5kZWNvZGUoKQogICAgY2hhbmdlcyA9IFsKICAgICAgICAoJ0FVWF9SRVNJREVOQ1kgPSByZXNpZGVuY3kxMjMubGF1bmNoKF9vcy5lbnZpcm9uKVxuJywKICAgICAgICAgJ0FVWF9SRVNJREVOQ1kgPSByZXNpZGVuY3kxMjMubGF1bmNoKF9vcy5lbnZpcm9uKVxuaW1wb3J0IGF1ZGlvX3Jlc2lkZW5jeTEzMlxuQVVESU9fUkVTSURFTkNZID0gYXVkaW9fcmVzaWRlbmN5MTMyLmxhdW5jaChfb3MuZW52aXJvbilcbicpLAogICAgICAgICgnZGV2aWNlPXRvcmNoLmRldmljZShyZXNpZGVuY3kxMjMudmFlX2RldmljZShuYW1lLCBBVVhfUkVTSURFTkNZKSkpJywKICAgICAgICAgJ2RldmljZT10b3JjaC5kZXZpY2UoYXVkaW9fcmVzaWRlbmN5MTMyLnZhZV9kZXZpY2UobmFtZSwgQVVYX1JFU0lERU5DWSwgQVVESU9fUkVTSURFTkNZKSkpJyksCiAgICAgICAgKCcgICAgICAgICAgICAgICAgICAgIHZhZS50aHJvd19leGNlcHRpb25faWZfaW52YWxpZCgpXG4nLAogICAgICAgICAnICAgICAgICAgICAgICAgICAgICB2YWUudGhyb3dfZXhjZXB0aW9uX2lmX2ludmFsaWQoKVxuICAgICAgICAgICAgICAgICAgICBhdWRpb19yZXNpZGVuY3kxMzIucHJlcGFyZV9yZWZlcmVuY2UodG9yY2gsIHZhZSwgbmFtZSwgQVVESU9fUkVTSURFTkNZKVxuJyldCiAgICBmb3Igb2xkLCBuZXcgaW4gY2hhbmdlczoKICAgICAgICByZXF1aXJlKHRleHQuY291bnQob2xkKSA9PSAxLCAnaG9zdCBpbnNlcnRpb24gaXMgbm90IHVuaXF1ZScpCiAgICAgICAgdGV4dCA9IHRleHQucmVwbGFjZShvbGQsIG5ldywgMSkKICAgIGFzdC5wYXJzZSh0ZXh0KQogICAgcmV0dXJuIHRleHQuZW5jb2RlKCkK
+"""Packet132 isolated audio placement and uncached cross-card qualification.
+
+Inert at import. The trusted host supplies torch and the native VAE. A private
+CPU copy exists only for the three eager-control requests. It visits xpu:3 for
+one decode at a time and returns to CPU before the next request. It is never a
+model-manager owner, never changes the admitted xpu:2 VAE, and cannot survive on
+xpu:3 into cone capture. All nine qualification chunks retain the ordinary
+whole-chain/frozen reference gates. No alternate arithmetic, precision, output
+cache, OOM fallback or retry is allowed.
+"""
+import ast
+import copy
+import hashlib
+import math
+import os
+import re
+import time
+
+ENV = 'LTX_AUDIO_RESIDENCY'
+MODES = ('legacy', 'xpu2')
+GIB = 2**30
+SCREENING_BYTES = 3*GIB//4
+WORKSPACE_BYTES = 2*GIB
+HOST_SHA256 = '769c21829a77a2147f1983851505469868e010a4b3218a94c0f904f6e5143f03'
+REFERENCE_ATTRIBUTE = '_ltx132_audio_reference'
+
+
+def require(ok, why):
+    if not ok:
+        raise RuntimeError('Audio residency132: ' + why)
+
+
+def launch(env=None):
+    value = (os.environ if env is None else env).get(ENV, 'legacy')
+    if type(value) is not str or value not in MODES:
+        raise ValueError('LTX_AUDIO_RESIDENCY must be legacy or xpu2')
+    return value
+
+
+def vae_device(name, aux_mode, audio_mode):
+    import residency123
+    launch({ENV: audio_mode})
+    expected = ('ltx-2.5-video-vae-bf16.safetensors', 'ltx-2.5-audio-vae-bf16.safetensors')
+    require(name in expected, 'undeclared VAE checkpoint')
+    return residency123.roles(aux_mode, audio_mode)['video_vae' if name == expected[0] else 'audio_vae']
+
+
+def tensors(model):
+    return list(model.named_parameters()) + list(model.named_buffers())
+
+
+def model_hash(model):
+    h = hashlib.sha256()
+    for name, tensor in tensors(model):
+        h.update(name.encode())
+        h.update(str(tensor.dtype).encode())
+        h.update(str(tuple(tensor.shape)).encode())
+        h.update(tensor.detach().to('cpu').contiguous().view(-1).view(__import__('torch').uint8).numpy())
+    return h.hexdigest()
+
+
+def prepare_reference(torch, vae, name, mode):
+    launch({ENV: mode})
+    if mode == 'legacy' or name != 'ltx-2.5-audio-vae-bf16.safetensors':
+        return None
+    require(not hasattr(vae, REFERENCE_ATTRIBUTE), 'reference already installed')
+    require(str(vae.device) == 'xpu:2' and str(vae.output_device) == 'cpu' and
+            vae.disable_offload is True, 'native audio placement or offload policy differs')
+    require(vae.vae_dtype is torch.bfloat16 and vae.vae_output_dtype() is torch.float32,
+            'native --bf16-vae model / float32 output precision differs')
+    source = vae.first_stage_model
+    require(type(source).__name__ == 'AudioVAE', 'unexpected native audio model')
+    rows = tensors(source)
+    require(rows and all(str(t.device) == 'cpu' for _, t in rows), 'reference must copy before native loading')
+    require(not getattr(source, 'comfy_has_chunked_io', False), 'unsupported native chunked audio output')
+    with torch.inference_mode(False), torch.no_grad():
+        model = copy.deepcopy(source)
+    require(all(a is not b for (_, a), (_, b) in zip(rows, tensors(model))), 'reference weights alias native weights')
+    digest = model_hash(source)
+    require(model_hash(model) == digest, 'reference weight bytes differ')
+    state = {'model': model, 'weight_sha256': digest,
+             'resident_bytes': sum(t.numel()*t.element_size() for _, t in rows),
+             'calls': [], 'active': False, 'failed': None}
+    setattr(vae, REFERENCE_ATTRIBUTE, state)
+    return {'resident_bytes': state['resident_bytes'], 'weight_sha256': digest, 'device': 'cpu'}
+
+
+def check_workspace(free_bytes, device, before, resident_bytes=0):
+    require(type(free_bytes) is int and free_bytes >= 0 and type(before) is bool,
+            'invalid physical free-memory sample')
+    require(device in ('xpu:2', 'xpu:3') and type(resident_bytes) is int and resident_bytes >= 0,
+            'invalid workspace owner')
+    floor = (2 if device == 'xpu:2' else 9)*GIB
+    required = floor + SCREENING_BYTES + (WORKSPACE_BYTES + resident_bytes if before else 0)
+    require(free_bytes >= required, '%s workspace admission failed (%d < %d)' % (device, free_bytes, required))
+    return {'device': device, 'free_bytes': free_bytes, 'required_bytes': required,
+            'floor_bytes': floor, 'screening_margin_bytes': SCREENING_BYTES,
+            'workspace_allowance_bytes': WORKSPACE_BYTES if before else 0,
+            'new_resident_bytes': resident_bytes if before else 0, 'before': before, 'passed': True}
+
+
+def workspace(torch, device, before, resident_bytes=0):
+    torch.xpu.synchronize(device)
+    return check_workspace(torch.xpu.mem_get_info(device)[0], device, before, resident_bytes)
+
+
+def assert_reference_released(vae):
+    state = getattr(vae, REFERENCE_ATTRIBUTE, None)
+    require(type(state) is dict and state['failed'] is None and not state['active'], 'reference missing, active or failed')
+    require(all(str(t.device) == 'cpu' for _, t in tensors(state['model'])), 'reference still resides on a card')
+    return {'device': 'cpu', 'active': False, 'calls': len(state['calls']),
+            'resident_bytes_on_xpu3': 0, 'weight_sha256': state['weight_sha256']}
+
+
+def _digest(torch, waveform):
+    return hashlib.sha256(waveform.detach().to('cpu').contiguous().view(torch.uint8).numpy()).hexdigest()
+
+
+def compare(torch, candidate, reference):
+    a, b = candidate['waveform'], reference['waveform']
+    ah, bh = _digest(torch, a), _digest(torch, b)
+    equal = (candidate['sample_rate'] == reference['sample_rate'] and a.dtype == b.dtype and
+             tuple(a.shape) == tuple(b.shape) and ah == bh)
+    require(equal, 'cross-card waveform byte gate failed')
+    return {'equal': True, 'device': 'xpu:2', 'reference_device': 'xpu:3',
+            'sample_rate': candidate['sample_rate'], 'shape': list(a.shape), 'dtype': str(a.dtype),
+            'waveform_sha256': ah, 'reference_waveform_sha256': bh, 'mode': 'native-eager-uncached'}
+
+
+def reference_decode(torch, vae, latent, run_name):
+    state = getattr(vae, REFERENCE_ATTRIBUTE, None)
+    assert_reference_released(vae)
+    require(type(run_name) is str and run_name not in state['calls'] and len(state['calls']) < 3,
+            'reference request duplicated or beyond the three eager controls')
+    require(latent.shape[0] == 1 and str(latent.device) == 'cpu', 'reference requires private batch-one CPU latent')
+    model = state['model']
+    before = workspace(torch, 'xpu:3', True, state['resident_bytes'])
+    require(model_hash(model) == state['weight_sha256'], 'CPU reference weights changed')
+    state['active'] = True
+    started = time.perf_counter()
+    try:
+        with torch.inference_mode(), torch.xpu.device('xpu:3'):
+            model.to(device='xpu:3')
+            samples = latent.to(device='xpu:3', dtype=vae.vae_dtype)
+            torch.xpu.synchronize('xpu:3')
+            copied = time.perf_counter()
+            out = model.decode(samples)
+            torch.xpu.synchronize('xpu:3')
+            decoded = time.perf_counter()
+            out = out.to(device=vae.output_device, dtype=vae.vae_output_dtype(), copy=True)
+            pixels = torch.empty((latent.shape[0],) + tuple(out.shape[1:]),
+                                 device=vae.output_device, dtype=vae.vae_output_dtype())
+            pixels[0:1].copy_(out)
+            vae.process_output(pixels[0:1])
+            waveform = pixels.to(vae.output_device).movedim(1, -1).movedim(-1, 1).to(latent.device)
+            output_copied = time.perf_counter()
+            del samples, out, pixels
+            model.to(device='cpu')
+            torch.xpu.synchronize('xpu:3')
+            released = time.perf_counter()
+        after = workspace(torch, 'xpu:3', False)
+        state['active'] = False
+        state['calls'].append(run_name)
+        released_state = assert_reference_released(vae)
+        return {'waveform': waveform, 'sample_rate': int(model.output_sample_rate)}, {
+            'workspace': {'before': before, 'after': after}, 'released': released_state,
+            'seconds': {'reference_weight_and_latent_copy': copied-started,
+                        'reference_decode': decoded-copied, 'reference_output_copy': output_copied-decoded,
+                        'reference_unload': released-output_copied, 'reference_total': released-started}}
+    except BaseException as error:
+        state['failed'] = repr(error)
+        raise
+
+
+def decode(torch, vae, latent, native_decode, kind, run_name):
+    """Candidate always uses the unchanged node; only eager controls add reference."""
+    require(str(vae.device) == 'xpu:2', 'candidate audio must stay on xpu:2')
+    assert_reference_released(vae)
+    before = workspace(torch, 'xpu:2', True)
+    started = time.perf_counter()
+    audio = native_decode()
+    torch.xpu.synchronize('xpu:2')
+    elapsed = time.perf_counter()-started
+    after = workspace(torch, 'xpu:2', False)
+    evidence = {'mode': 'xpu2', 'device': 'xpu:2', 'kind': kind, 'run_name': run_name,
+                'workspace': {'before': before, 'after': after},
+                'candidate_native_node_seconds': elapsed, 'cross_card': None,
+                'reference': None, 'reference_released': assert_reference_released(vae)}
+    if kind == 'qualify-eager':
+        reference, row = reference_decode(torch, vae, latent, run_name)
+        evidence['cross_card'] = compare(torch, audio, reference)
+        evidence['reference'] = row
+        evidence['reference_released'] = assert_reference_released(vae)
+    else:
+        require(len(getattr(vae, REFERENCE_ATTRIBUTE)['calls']) == 3, 'all three cross-card eager controls required')
+    return audio, evidence
+
+
+def validate_evidence(receipt=None, decode=None):
+    """Read-only receipt/client gate. Native qualification still owns admission."""
+    def need(ok, why):
+        if not ok:
+            raise ValueError('Audio residency evidence: ' + why)
+    source = receipt if receipt is not None else decode or {}
+    mode = (source.get('server_options') or {}).get('audio_residency', 'legacy')
+    need(mode in MODES, 'unknown mode')
+    if mode == 'legacy':
+        return {'enabled': False}
+    if decode is None:
+        return {'enabled': True, 'decode_pending': True}
+    need(decode.get('audio_residency') == mode and decode.get('audio_device') == 'xpu:2', 'placement differs')
+    if receipt is not None:
+        need(decode.get('run_name') == receipt.get('run_name') and
+             decode.get('prompt_id') == receipt.get('prompt_id'), 'decode belongs to another receipt')
+    row = decode.get('audio_residency_evidence')
+    need(type(row) is dict and row.get('mode') == mode and row.get('device') == 'xpu:2' and
+         row.get('kind') == decode.get('kind') and row.get('run_name') == decode.get('run_name'), 'identity differs')
+    def timing(value):
+        return type(value) in (int, float) and math.isfinite(value) and value >= 0
+    need(timing(row.get('candidate_native_node_seconds')), 'native timing missing')
+    def workspace_row(value, device):
+        need(type(value) is dict and set(value) == {'before', 'after'}, 'workspace samples missing')
+        for phase, before in (('before', True), ('after', False)):
+            sample = value[phase]
+            need(type(sample) is dict, 'workspace sample missing')
+            try:
+                expected = check_workspace(sample.get('free_bytes'), device, before,
+                                           sample.get('new_resident_bytes', 0))
+            except RuntimeError as error:
+                raise ValueError('Audio residency evidence: ' + str(error)) from error
+            need(sample == expected and sample.get('passed') is True and sample.get('before') is before,
+                 'workspace fields differ')
+    workspace_row(row.get('workspace'), 'xpu:2')
+    def released(value):
+        need(type(value) is dict and set(value) == {'device', 'active', 'calls', 'resident_bytes_on_xpu3', 'weight_sha256'},
+             'reference release missing')
+        need(value['device'] == 'cpu' and value['active'] is False and type(value['resident_bytes_on_xpu3']) is int
+             and value['resident_bytes_on_xpu3'] == 0 and type(value['calls']) is int and
+             re.fullmatch('[0-9a-f]{64}', str(value['weight_sha256'])) is not None, 'reference release differs')
+    released(row.get('reference_released'))
+    eager = decode.get('kind') == 'qualify-eager'
+    need(1 <= row['reference_released']['calls'] <= 3 if eager else row['reference_released']['calls'] == 3,
+         'reference call count differs')
+    if eager:
+        ref, cross = row.get('reference'), row.get('cross_card')
+        need(type(ref) is dict and type(cross) is dict, 'cross-card eager control missing')
+        workspace_row(ref.get('workspace'), 'xpu:3')
+        released(ref.get('released'))
+        need(ref['released'] == row['reference_released'], 'release records disagree')
+        seconds = ref.get('seconds')
+        need(type(seconds) is dict and set(seconds) == {'reference_weight_and_latent_copy', 'reference_decode',
+             'reference_output_copy', 'reference_unload', 'reference_total'} and all(timing(v) for v in seconds.values()),
+             'isolated reference timing missing')
+        wave = (decode.get('tensors') or {}).get('waveform') or {}
+        need(cross.get('equal') is True and cross.get('device') == 'xpu:2' and cross.get('reference_device') == 'xpu:3'
+             and cross.get('mode') == 'native-eager-uncached' and cross.get('sample_rate') == decode.get('sample_rate')
+             and cross.get('waveform_sha256') == cross.get('reference_waveform_sha256') == wave.get('sha256')
+             and cross.get('shape') == wave.get('shape') and cross.get('dtype') == wave.get('dtype'), 'waveform byte gate differs')
+    else:
+        need(row.get('reference') is None and row.get('cross_card') is None, 'unexpected post-capture reference')
+    return {'enabled': True, 'cross_card': eager, 'reference_released': True}
+
+
+def transform_host(raw):
+    require(type(raw) is bytes and hashlib.sha256(raw).hexdigest() == HOST_SHA256, 'host parent hash differs')
+    text = raw.decode()
+    changes = [
+        ('AUX_RESIDENCY = residency123.launch(_os.environ)\n',
+         'AUX_RESIDENCY = residency123.launch(_os.environ)\nimport audio_residency132\nAUDIO_RESIDENCY = audio_residency132.launch(_os.environ)\n'),
+        ('device=torch.device(residency123.vae_device(name, AUX_RESIDENCY)))',
+         'device=torch.device(audio_residency132.vae_device(name, AUX_RESIDENCY, AUDIO_RESIDENCY)))'),
+        ('                    vae.throw_exception_if_invalid()\n',
+         '                    vae.throw_exception_if_invalid()\n                    audio_residency132.prepare_reference(torch, vae, name, AUDIO_RESIDENCY)\n')]
+    for old, new in changes:
+        require(text.count(old) == 1, 'host insertion is not unique')
+        text = text.replace(old, new, 1)
+    ast.parse(text)
+    return text.encode()

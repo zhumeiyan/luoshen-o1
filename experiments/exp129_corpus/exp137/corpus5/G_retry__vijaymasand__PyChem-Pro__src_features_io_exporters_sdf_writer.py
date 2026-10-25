@@ -1,1 +1,182 @@
-IiIiCk1ETCBNT0wgLyBTREYgV3JpdGVyIOKAlCBXcml0ZSBtb2xlY3VsZXMgaW4gVjIwMDAgTU9MIGFuZCBTREYgZm9ybWF0cy4KCkltcGxlbWVudHMgdGhlIE1ETCBDVCBmaWxlIGZvcm1hdCBzcGVjaWZpY2F0aW9uIGZvciBWMjAwMCBjb25uZWN0aW9uIHRhYmxlcy4KU3VwcG9ydHM6Ci0gQXRvbSBibG9jayB3aXRoIDNEIGNvb3JkaW5hdGVzCi0gQm9uZCBibG9jayB3aXRoIGJvbmQgb3JkZXJzIGFuZCBzdGVyZW8KLSBQcm9wZXJ0aWVzIGJsb2NrIChjaGFyZ2VzLCBpc290b3BlcykKLSBTREYgZGF0YSBpdGVtcwoiIiIKCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCgoKZGVmIHdyaXRlX21vbChtb2xlY3VsZSwgZmlsZXBhdGg9Tm9uZSk6CiAgICAiIiIKICAgIFdyaXRlIGEgbW9sZWN1bGUgaW4gTURMIE1PTCBWMjAwMCBmb3JtYXQuCgogICAgQXJnczoKICAgICAgICBtb2xlY3VsZTogTW9sZWN1bGUgd2l0aCAzRCBjb29yZGluYXRlcwogICAgICAgIGZpbGVwYXRoOiBQYXRoIHRvIHdyaXRlIGZpbGUgKGlmIE5vbmUsIHJldHVybnMgc3RyaW5nKQoKICAgIFJldHVybnM6CiAgICAgICAgTU9MIGZpbGUgY29udGVudCBhcyBzdHJpbmcgKGFsc28gd3JpdGVzIHRvIGZpbGUgaWYgcGF0aCBnaXZlbikKICAgICIiIgogICAgbGluZXMgPSBbXQoKICAgICMg4pSA4pSAIEhlYWRlciBCbG9jayDilIDilIAKICAgICMgTGluZSAxOiBNb2xlY3VsZSBuYW1lCiAgICBsaW5lcy5hcHBlbmQobW9sZWN1bGUubmFtZSBvciAiVW50aXRsZWQiKQogICAgIyBMaW5lIDI6IFByb2dyYW0vdGltZXN0YW1wL2RpbWVuc2lvbnMKICAgIHRpbWVzdGFtcCA9IGRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCIlbSVkJXklSCVNIikKICAgIGxpbmVzLmFwcGVuZChmIiAgU01JTEVTM0Qge3RpbWVzdGFtcH0zRCIpCiAgICAjIExpbmUgMzogQ29tbWVudAogICAgbGluZXMuYXBwZW5kKGYiICBHZW5lcmF0ZWQgYnkgUHlDaGVtIG1vbGVjdWxhciB2aWV3ZXIiKQoKICAgICMg4pSA4pSAIENvdW50cyBMaW5lIOKUgOKUgAogICAgbnVtX2F0b21zID0gbGVuKG1vbGVjdWxlLmF0b21zKQogICAgbnVtX2JvbmRzID0gbGVuKG1vbGVjdWxlLmJvbmRzKQoKICAgICMgQ291bnQgYXRvbXMgd2l0aCBjaGFyZ2VzIGFuZCBpc290b3BlcyBmb3IgcHJvcGVydGllcyBibG9jawogICAgY2hhcmdlZF9hdG9tcyA9IFsoaSwgYS5mb3JtYWxfY2hhcmdlKSBmb3IgaSwgYSBpbiBlbnVtZXJhdGUobW9sZWN1bGUuYXRvbXMpIAogICAgICAgICAgICAgICAgICAgICBpZiBhLmZvcm1hbF9jaGFyZ2UgaXMgbm90IE5vbmUgYW5kIGEuZm9ybWFsX2NoYXJnZSAhPSAwXQogICAgaXNvdG9wZV9hdG9tcyA9IFsoaSwgYS5pc290b3BlKSBmb3IgaSwgYSBpbiBlbnVtZXJhdGUobW9sZWN1bGUuYXRvbXMpIAogICAgICAgICAgICAgICAgICAgICBpZiBhLmlzb3RvcGUgaXMgbm90IE5vbmUgYW5kIGEuaXNvdG9wZSA+IDBdCgogICAgIyBDb3VudHMgbGluZSBmb3JtYXQ6IGFhYWJiYmxsbGZmZmNjY3Nzc3h4eHJycnBwcGlpaW1tbXZ2dnZ2dgogICAgY291bnRzID0gZiJ7bnVtX2F0b21zOjNkfXtudW1fYm9uZHM6M2R9ICAwICAwICAwICAwICAwICAwICAwICAwOTk5IFYyMDAwIgogICAgbGluZXMuYXBwZW5kKGNvdW50cykKCiAgICAjIOKUgOKUgCBBdG9tIEJsb2NrIOKUgOKUgAogICAgZm9yIGF0b20gaW4gbW9sZWN1bGUuYXRvbXM6CiAgICAgICAgeCA9IGF0b20ueCBpZiBhdG9tLnggaXMgbm90IE5vbmUgZWxzZSAwLjAKICAgICAgICB5ID0gYXRvbS55IGlmIGF0b20ueSBpcyBub3QgTm9uZSBlbHNlIDAuMAogICAgICAgIHogPSBhdG9tLnogaWYgYXRvbS56IGlzIG5vdCBOb25lIGVsc2UgMC4wCgogICAgICAgICMgTURMIGNoYXJnZSBjb2RlIG1hcHBpbmcKICAgICAgICBjaGFyZ2VfY29kZSA9IF9tZGxfY2hhcmdlX2NvZGUoYXRvbS5mb3JtYWxfY2hhcmdlKQoKICAgICAgICAjIFN5bWJvbCBwYWRkZWQgdG8gMyBjaGFycwogICAgICAgIHN5bWJvbCA9IGYie2F0b20uc3ltYm9sOjwzc30iCgogICAgICAgICMgRm9ybWF0OiB4eHh4eC54eHh4eXl5eXkueXl5eXp6enp6Lnp6enogYWFhZGRjY2Nzc3NoaGhiYmJ2dnZISEhycnJpaWltbW1ubm5lZWUKICAgICAgICBhdG9tX2xpbmUgPSAoCiAgICAgICAgICAgIGYie3g6MTAuNGZ9e3k6MTAuNGZ9e3o6MTAuNGZ9ICIKICAgICAgICAgICAgZiJ7c3ltYm9sfSAwe2NoYXJnZV9jb2RlOjNkfSAgMCAgMCAgMCAgMCAgMCAgMCAgMCAgMCAgMCAgMCIKICAgICAgICApCiAgICAgICAgbGluZXMuYXBwZW5kKGF0b21fbGluZSkKCiAgICAjIOKUgOKUgCBCb25kIEJsb2NrIOKUgOKUgAogICAgZm9yIGJvbmQgaW4gbW9sZWN1bGUuYm9uZHM6CiAgICAgICAgYTEgPSBib25kLmJlZ2luX2F0b21faWR4ICsgMSAgIyAxLWluZGV4ZWQKICAgICAgICBhMiA9IGJvbmQuZW5kX2F0b21faWR4ICsgMQoKICAgICAgICAjIEJvbmQgdHlwZQogICAgICAgIGJvbmRfdHlwZSA9IGludChib25kLm9yZGVyKQogICAgICAgIGlmIGJvbmQuaXNfYXJvbWF0aWM6CiAgICAgICAgICAgIGJvbmRfdHlwZSA9IDQgICMgQXJvbWF0aWMgaW4gTU9MIGZpbGUKCiAgICAgICAgIyBTdGVyZW8KICAgICAgICBzdGVyZW8gPSAwCiAgICAgICAgaWYgYm9uZC5zdGVyZW8gPT0gMTogICAjIFVwCiAgICAgICAgICAgIHN0ZXJlbyA9IDEKICAgICAgICBlbGlmIGJvbmQuc3RlcmVvID09IDI6ICAjIERvd24KICAgICAgICAgICAgc3RlcmVvID0gNgoKICAgICAgICBib25kX2xpbmUgPSBmInthMTozZH17YTI6M2R9e2JvbmRfdHlwZTozZH17c3RlcmVvOjNkfSAgMCAgMCAgMCIKICAgICAgICBsaW5lcy5hcHBlbmQoYm9uZF9saW5lKQoKICAgICMg4pSA4pSAIFByb3BlcnRpZXMgQmxvY2sg4pSA4pSACiAgICAjIENoYXJnZSBwcm9wZXJ0eSBsaW5lcwogICAgaWYgY2hhcmdlZF9hdG9tczoKICAgICAgICAjIE0gIENIRyAgbiAgYWFhIHZ2diBhYWEgdnZ2IC4uLgogICAgICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihjaGFyZ2VkX2F0b21zKSwgOCk6ICAjIE1heCA4IHBlciBsaW5lCiAgICAgICAgICAgIGJhdGNoID0gY2hhcmdlZF9hdG9tc1tpOmkgKyA4XQogICAgICAgICAgICBwYXJ0cyA9IFtdCiAgICAgICAgICAgIGZvciBhdG9tX2lkeCwgY2hhcmdlIGluIGJhdGNoOgogICAgICAgICAgICAgICAgcGFydHMuYXBwZW5kKGYie2F0b21faWR4ICsgMTo0ZH17Y2hhcmdlOjRkfSIpCiAgICAgICAgICAgIGxpbmUgPSBmIk0gIENIR3tsZW4oYmF0Y2gpOjNkfSIgKyAiIi5qb2luKHBhcnRzKQogICAgICAgICAgICBsaW5lcy5hcHBlbmQobGluZSkKCiAgICAjIElzb3RvcGUgcHJvcGVydHkgbGluZXMKICAgIGlmIGlzb3RvcGVfYXRvbXM6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKGlzb3RvcGVfYXRvbXMpLCA4KToKICAgICAgICAgICAgYmF0Y2ggPSBpc290b3BlX2F0b21zW2k6aSArIDhdCiAgICAgICAgICAgIHBhcnRzID0gW10KICAgICAgICAgICAgZm9yIGF0b21faWR4LCBpc290b3BlIGluIGJhdGNoOgogICAgICAgICAgICAgICAgcGFydHMuYXBwZW5kKGYie2F0b21faWR4ICsgMTo0ZH17aXNvdG9wZTo0ZH0iKQogICAgICAgICAgICBsaW5lID0gZiJNICBJU097bGVuKGJhdGNoKTozZH0iICsgIiIuam9pbihwYXJ0cykKICAgICAgICAgICAgbGluZXMuYXBwZW5kKGxpbmUpCgogICAgbGluZXMuYXBwZW5kKCJNICBFTkQiKQoKICAgIGNvbnRlbnQgPSAiXG4iLmpvaW4obGluZXMpCgogICAgaWYgZmlsZXBhdGg6CiAgICAgICAgd2l0aCBvcGVuKGZpbGVwYXRoLCAndycsIG5ld2xpbmU9J1xuJykgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShjb250ZW50KQoKICAgIHJldHVybiBjb250ZW50CgoKZGVmIHdyaXRlX3NkZihtb2xlY3VsZSwgZmlsZXBhdGg9Tm9uZSwgZGF0YV9maWVsZHM9Tm9uZSk6CiAgICAiIiIKICAgIFdyaXRlIGEgbW9sZWN1bGUgaW4gU0RGIGZvcm1hdCAoTU9MICsgZGF0YSBpdGVtcyArICQkJCQpLgoKICAgIEFyZ3M6CiAgICAgICAgbW9sZWN1bGU6IE1vbGVjdWxlIHdpdGggM0QgY29vcmRpbmF0ZXMKICAgICAgICBmaWxlcGF0aDogUGF0aCB0byB3cml0ZSBmaWxlCiAgICAgICAgZGF0YV9maWVsZHM6IE9wdGlvbmFsIGRpY3Qgb2YgZGF0YSBmaWVsZHMgdG8gaW5jbHVkZQoKICAgIFJldHVybnM6CiAgICAgICAgU0RGIGZpbGUgY29udGVudCBhcyBzdHJpbmcKICAgICIiIgogICAgbGluZXMgPSBbd3JpdGVfbW9sKG1vbGVjdWxlKV0KCiAgICAjIEFkZCBkYXRhIGZpZWxkcwogICAgaWYgZGF0YV9maWVsZHM6CiAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gZGF0YV9maWVsZHMuaXRlbXMoKToKICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYiPiA8e2tleX0+IikKICAgICAgICAgICAgbGluZXMuYXBwZW5kKHN0cih2YWx1ZSkpCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgiIikKCiAgICAjIEFkZCBzdGFuZGFyZCBkYXRhIGZpZWxkcwogICAgbGluZXMuYXBwZW5kKCI+IDxNT0xFQ1VMQVJfRk9STVVMQT4iKQogICAgbGluZXMuYXBwZW5kKG1vbGVjdWxlLm1vbGVjdWxhcl9mb3JtdWxhKCkpCiAgICBsaW5lcy5hcHBlbmQoIiIpCgogICAgbGluZXMuYXBwZW5kKCI+IDxNT0xFQ1VMQVJfV0VJR0hUPiIpCiAgICBsaW5lcy5hcHBlbmQoZiJ7bW9sZWN1bGUubW9sZWN1bGFyX3dlaWdodCgpOi40Zn0iKQogICAgbGluZXMuYXBwZW5kKCIiKQoKICAgICMgQWRkIHBhcnRpYWwgY2hhcmdlcyBpZiBjb21wdXRlZAogICAgY2hhcmdlcyA9IFtmInsoYS5wYXJ0aWFsX2NoYXJnZSBvciAwLjApOi40Zn0iIGZvciBhIGluIG1vbGVjdWxlLmF0b21zXQogICAgaWYgYW55KGZsb2F0KGMpICE9IDAuMCBmb3IgYyBpbiBjaGFyZ2VzKToKICAgICAgICBsaW5lcy5hcHBlbmQoIj4gPFBBUlRJQUxfQ0hBUkdFUz4iKQogICAgICAgIGxpbmVzLmFwcGVuZCgiICIuam9pbihjaGFyZ2VzKSkKICAgICAgICBsaW5lcy5hcHBlbmQoIiIpCgogICAgbGluZXMuYXBwZW5kKCIkJCQkIikKCiAgICBjb250ZW50ID0gIlxuIi5qb2luKGxpbmVzKQoKICAgIGlmIGZpbGVwYXRoOgogICAgICAgIHdpdGggb3BlbihmaWxlcGF0aCwgJ3cnLCBuZXdsaW5lPSdcbicpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUoY29udGVudCkKCiAgICByZXR1cm4gY29udGVudAoKCmRlZiBfbWRsX2NoYXJnZV9jb2RlKGZvcm1hbF9jaGFyZ2UpOgogICAgIiIiQ29udmVydCBmb3JtYWwgY2hhcmdlIHRvIE1ETCBWMjAwMCBjaGFyZ2UgY29kZS4iIiIKICAgIGNoYXJnZV9tYXAgPSB7CiAgICAgICAgMzogMSwKICAgICAgICAyOiAyLAogICAgICAgIDE6IDMsCiAgICAgICAgMDogMCwKICAgICAgICAtMTogNSwKICAgICAgICAtMjogNiwKICAgICAgICAtMzogNywKICAgIH0KICAgIHJldHVybiBjaGFyZ2VfbWFwLmdldChmb3JtYWxfY2hhcmdlLCAwKQo=
+"""
+MDL MOL / SDF Writer — Write molecules in V2000 MOL and SDF formats.
+
+Implements the MDL CT file format specification for V2000 connection tables.
+Supports:
+- Atom block with 3D coordinates
+- Bond block with bond orders and stereo
+- Properties block (charges, isotopes)
+- SDF data items
+"""
+
+from datetime import datetime
+
+
+def write_mol(molecule, filepath=None):
+    """
+    Write a molecule in MDL MOL V2000 format.
+
+    Args:
+        molecule: Molecule with 3D coordinates
+        filepath: Path to write file (if None, returns string)
+
+    Returns:
+        MOL file content as string (also writes to file if path given)
+    """
+    lines = []
+
+    # ── Header Block ──
+    # Line 1: Molecule name
+    lines.append(molecule.name or "Untitled")
+    # Line 2: Program/timestamp/dimensions
+    timestamp = datetime.now().strftime("%m%d%y%H%M")
+    lines.append(f"  SMILES3D {timestamp}3D")
+    # Line 3: Comment
+    lines.append(f"  Generated by PyChem molecular viewer")
+
+    # ── Counts Line ──
+    num_atoms = len(molecule.atoms)
+    num_bonds = len(molecule.bonds)
+
+    # Count atoms with charges and isotopes for properties block
+    charged_atoms = [(i, a.formal_charge) for i, a in enumerate(molecule.atoms) 
+                     if a.formal_charge is not None and a.formal_charge != 0]
+    isotope_atoms = [(i, a.isotope) for i, a in enumerate(molecule.atoms) 
+                     if a.isotope is not None and a.isotope > 0]
+
+    # Counts line format: aaabbblllfffcccsssxxxrrrpppiiimmmvvvvvv
+    counts = f"{num_atoms:3d}{num_bonds:3d}  0  0  0  0  0  0  0  0999 V2000"
+    lines.append(counts)
+
+    # ── Atom Block ──
+    for atom in molecule.atoms:
+        x = atom.x if atom.x is not None else 0.0
+        y = atom.y if atom.y is not None else 0.0
+        z = atom.z if atom.z is not None else 0.0
+
+        # MDL charge code mapping
+        charge_code = _mdl_charge_code(atom.formal_charge)
+
+        # Symbol padded to 3 chars
+        symbol = f"{atom.symbol:<3s}"
+
+        # Format: xxxxx.xxxxyyyyy.yyyyzzzzz.zzzz aaaddcccssshhhbbbvvvHHHrrriiimmmnnneee
+        atom_line = (
+            f"{x:10.4f}{y:10.4f}{z:10.4f} "
+            f"{symbol} 0{charge_code:3d}  0  0  0  0  0  0  0  0  0  0"
+        )
+        lines.append(atom_line)
+
+    # ── Bond Block ──
+    for bond in molecule.bonds:
+        a1 = bond.begin_atom_idx + 1  # 1-indexed
+        a2 = bond.end_atom_idx + 1
+
+        # Bond type
+        bond_type = int(bond.order)
+        if bond.is_aromatic:
+            bond_type = 4  # Aromatic in MOL file
+
+        # Stereo
+        stereo = 0
+        if bond.stereo == 1:   # Up
+            stereo = 1
+        elif bond.stereo == 2:  # Down
+            stereo = 6
+
+        bond_line = f"{a1:3d}{a2:3d}{bond_type:3d}{stereo:3d}  0  0  0"
+        lines.append(bond_line)
+
+    # ── Properties Block ──
+    # Charge property lines
+    if charged_atoms:
+        # M  CHG  n  aaa vvv aaa vvv ...
+        for i in range(0, len(charged_atoms), 8):  # Max 8 per line
+            batch = charged_atoms[i:i + 8]
+            parts = []
+            for atom_idx, charge in batch:
+                parts.append(f"{atom_idx + 1:4d}{charge:4d}")
+            line = f"M  CHG{len(batch):3d}" + "".join(parts)
+            lines.append(line)
+
+    # Isotope property lines
+    if isotope_atoms:
+        for i in range(0, len(isotope_atoms), 8):
+            batch = isotope_atoms[i:i + 8]
+            parts = []
+            for atom_idx, isotope in batch:
+                parts.append(f"{atom_idx + 1:4d}{isotope:4d}")
+            line = f"M  ISO{len(batch):3d}" + "".join(parts)
+            lines.append(line)
+
+    lines.append("M  END")
+
+    content = "\n".join(lines)
+
+    if filepath:
+        with open(filepath, 'w', newline='\n') as f:
+            f.write(content)
+
+    return content
+
+
+def write_sdf(molecule, filepath=None, data_fields=None):
+    """
+    Write a molecule in SDF format (MOL + data items + $$$$).
+
+    Args:
+        molecule: Molecule with 3D coordinates
+        filepath: Path to write file
+        data_fields: Optional dict of data fields to include
+
+    Returns:
+        SDF file content as string
+    """
+    lines = [write_mol(molecule)]
+
+    # Add data fields
+    if data_fields:
+        for key, value in data_fields.items():
+            lines.append(f"> <{key}>")
+            lines.append(str(value))
+            lines.append("")
+
+    # Add standard data fields
+    lines.append("> <MOLECULAR_FORMULA>")
+    lines.append(molecule.molecular_formula())
+    lines.append("")
+
+    lines.append("> <MOLECULAR_WEIGHT>")
+    lines.append(f"{molecule.molecular_weight():.4f}")
+    lines.append("")
+
+    # Add partial charges if computed
+    charges = [f"{(a.partial_charge or 0.0):.4f}" for a in molecule.atoms]
+    if any(float(c) != 0.0 for c in charges):
+        lines.append("> <PARTIAL_CHARGES>")
+        lines.append(" ".join(charges))
+        lines.append("")
+
+    lines.append("$$$$")
+
+    content = "\n".join(lines)
+
+    if filepath:
+        with open(filepath, 'w', newline='\n') as f:
+            f.write(content)
+
+    return content
+
+
+def _mdl_charge_code(formal_charge):
+    """Convert formal charge to MDL V2000 charge code."""
+    charge_map = {
+        3: 1,
+        2: 2,
+        1: 3,
+        0: 0,
+        -1: 5,
+        -2: 6,
+        -3: 7,
+    }
+    return charge_map.get(formal_charge, 0)

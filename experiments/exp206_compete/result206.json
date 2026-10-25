@@ -1,1 +1,376 @@
-ewogICJjb3JwdXMiOiB7CiAgICAibGluZXMiOiA2MywKICAgICJ0cmFpbl9jaGFycyI6IDM0OTEsCiAgICAidGVzdF9jaGFycyI6IDU0NCwKICAgICJ2b2NhYiI6IDUzOQogIH0sCiAgIkFfcmVwbGljYXRvciI6IHsKICAgICJrcyI6IFsKICAgICAgMSwKICAgICAgMiwKICAgICAgMywKICAgICAgNCwKICAgICAgNiwKICAgICAgOAogICAgXSwKICAgICJyb3VuZHMiOiAxNCwKICAgICJCIjogMjAwMDAsCiAgICAic2hhcmVzX2hpc3RvcnkiOiBbCiAgICAgIHsKICAgICAgICAiMSI6IDAuMTY2NjcsCiAgICAgICAgIjIiOiAwLjE2NjY3LAogICAgICAgICIzIjogMC4xNjY2NywKICAgICAgICAiNCI6IDAuMTY2NjcsCiAgICAgICAgIjYiOiAwLjE2NjY3LAogICAgICAgICI4IjogMC4xNjY2NwogICAgICB9LAogICAgICB7CiAgICAgICAgIjEiOiAwLjkwMTQyLAogICAgICAgICIyIjogMC4wMjczNywKICAgICAgICAiMyI6IDAuMDY3OTgsCiAgICAgICAgIjQiOiAwLjAwMTUzLAogICAgICAgICI2IjogMC4wMDE2MSwKICAgICAgICAiOCI6IDllLTA1CiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiMSI6IDAuOTk5OTMsCiAgICAgICAgIjIiOiAxZS0wNSwKICAgICAgICAiMyI6IDZlLTA1LAogICAgICAgICI0IjogMC4wLAogICAgICAgICI2IjogMC4wLAogICAgICAgICI4IjogMC4wCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiMSI6IDEuMCwKICAgICAgICAiMiI6IDAuMCwKICAgICAgICAiMyI6IDAuMCwKICAgICAgICAiNCI6IDAuMCwKICAgICAgICAiNiI6IDAuMCwKICAgICAgICAiOCI6IDAuMAogICAgICB9LAogICAgICB7CiAgICAgICAgIjEiOiAxLjAsCiAgICAgICAgIjIiOiAwLjAsCiAgICAgICAgIjMiOiAwLjAsCiAgICAgICAgIjQiOiAwLjAsCiAgICAgICAgIjYiOiAwLjAsCiAgICAgICAgIjgiOiAwLjAKICAgICAgfSwKICAgICAgewogICAgICAgICIxIjogMS4wLAogICAgICAgICIyIjogMC4wLAogICAgICAgICIzIjogMC4wLAogICAgICAgICI0IjogMC4wLAogICAgICAgICI2IjogMC4wLAogICAgICAgICI4IjogMC4wCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiMSI6IDEuMCwKICAgICAgICAiMiI6IDAuMCwKICAgICAgICAiMyI6IDAuMCwKICAgICAgICAiNCI6IDAuMCwKICAgICAgICAiNiI6IDAuMCwKICAgICAgICAiOCI6IDAuMAogICAgICB9LAogICAgICB7CiAgICAgICAgIjEiOiAxLjAsCiAgICAgICAgIjIiOiAwLjAsCiAgICAgICAgIjMiOiAwLjAsCiAgICAgICAgIjQiOiAwLjAsCiAgICAgICAgIjYiOiAwLjAsCiAgICAgICAgIjgiOiAwLjAKICAgICAgfSwKICAgICAgewogICAgICAgICIxIjogMS4wLAogICAgICAgICIyIjogMC4wLAogICAgICAgICIzIjogMC4wLAogICAgICAgICI0IjogMC4wLAogICAgICAgICI2IjogMC4wLAogICAgICAgICI4IjogMC4wCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiMSI6IDEuMCwKICAgICAgICAiMiI6IDAuMCwKICAgICAgICAiMyI6IDAuMCwKICAgICAgICAiNCI6IDAuMCwKICAgICAgICAiNiI6IDAuMCwKICAgICAgICAiOCI6IDAuMAogICAgICB9LAogICAgICB7CiAgICAgICAgIjEiOiAxLjAsCiAgICAgICAgIjIiOiAwLjAsCiAgICAgICAgIjMiOiAwLjAsCiAgICAgICAgIjQiOiAwLjAsCiAgICAgICAgIjYiOiAwLjAsCiAgICAgICAgIjgiOiAwLjAKICAgICAgfSwKICAgICAgewogICAgICAgICIxIjogMS4wLAogICAgICAgICIyIjogMC4wLAogICAgICAgICIzIjogMC4wLAogICAgICAgICI0IjogMC4wLAogICAgICAgICI2IjogMC4wLAogICAgICAgICI4IjogMC4wCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiMSI6IDEuMCwKICAgICAgICAiMiI6IDAuMCwKICAgICAgICAiMyI6IDAuMCwKICAgICAgICAiNCI6IDAuMCwKICAgICAgICAiNiI6IDAuMCwKICAgICAgICAiOCI6IDAuMAogICAgICB9LAogICAgICB7CiAgICAgICAgIjEiOiAxLjAsCiAgICAgICAgIjIiOiAwLjAsCiAgICAgICAgIjMiOiAwLjAsCiAgICAgICAgIjQiOiAwLjAsCiAgICAgICAgIjYiOiAwLjAsCiAgICAgICAgIjgiOiAwLjAKICAgICAgfQogICAgXSwKICAgICJlbnRyb3B5X2hpc3RvcnkiOiBbCiAgICAgIDEuNzkxNzYsCiAgICAgIDAuMzk1OTIsCiAgICAgIDAuMDAwNzksCiAgICAgIDAuMCwKICAgICAgMC4wLAogICAgICAtMC4wLAogICAgICAtMC4wLAogICAgICAtMC4wLAogICAgICAtMC4wLAogICAgICAtMC4wLAogICAgICAtMC4wLAogICAgICAtMC4wLAogICAgICAtMC4wLAogICAgICAtMC4wCiAgICBdLAogICAgImZpbmFsX3NoYXJlcyI6IHsKICAgICAgIjEiOiAxLjAsCiAgICAgICIyIjogMC4wLAogICAgICAiMyI6IDAuMCwKICAgICAgIjQiOiAwLjAsCiAgICAgICI2IjogMC4wLAogICAgICAiOCI6IDAuMAogICAgfSwKICAgICJmaW5hbF9iaXRzIjogewogICAgICAiMSI6IDUuODg1MzcsCiAgICAgICIyIjogOS4wNzQxNCwKICAgICAgIjMiOiA5LjA3NDE0LAogICAgICAiNCI6IDkuMDc0MTQsCiAgICAgICI2IjogOS4wNzQxNCwKICAgICAgIjgiOiA5LjA3NDE0CiAgICB9LAogICAgIndpbm5lcl9rIjogMSwKICAgICJ3aW5uZXJfc2hhcmUiOiAxLjAsCiAgICAiZW50cm9weV9zdGFydCI6IDEuNzkxNzYsCiAgICAiZW50cm9weV9lbmQiOiAtMC4wLAogICAgImV4dGluY3QiOiB7CiAgICAgICIxIjogZmFsc2UsCiAgICAgICIyIjogdHJ1ZSwKICAgICAgIjMiOiB0cnVlLAogICAgICAiNCI6IHRydWUsCiAgICAgICI2IjogdHJ1ZSwKICAgICAgIjgiOiB0cnVlCiAgICB9CiAgfSwKICAiQl9pbnN1cmFuY2UiOiB7CiAgICAic2hpZnRfdGVzdF9jaGFycyI6IDIzNTcsCiAgICAibW9ub19rIjogMiwKICAgICJtb25vX2JpdHNfdW5kZXJfc2hpZnQiOiA3Ljc3NzY5LAogICAgInBvcnRmb2xpb19iaXRzX3VuZGVyX3NoaWZ0IjogNi45MDQwOSwKICAgICJwc2V1ZG9fZGl2ZXJzaXR5X2JpdHNfdW5kZXJfc2hpZnQiOiA3LjczNDM4LAogICAgImRpdmVyc2l0eV9nYWluIjogMC44NzM2LAogICAgInBzZXVkb192c190cnVlIjogMC44MzAyOCwKICAgICJub3RlIjogInBzZXVkbz3kuInkuKrlkIzpmLblia/mnKwo5Lyq5aSa5qC35oCnLOaXoOW3ruW8gik7IHBvcnRmb2xpbz3kuI3lkIzpmLbnnJ/lpJrmoLfmgKciCiAgfSwKICAiQ19hbGxvY2F0aW9uIjogewogICAgImFic29sdXRlIjogewogICAgICAiZmluYWxfc2hhcmVzIjogewogICAgICAgICIxIjogMS4wLAogICAgICAgICIyIjogMC4wLAogICAgICAgICIzIjogMC4wLAogICAgICAgICI0IjogMC4wLAogICAgICAgICI2IjogMC4wLAogICAgICAgICI4IjogMC4wCiAgICAgIH0sCiAgICAgICJlbnRyb3B5X3N0YXJ0IjogMS43OTE3NiwKICAgICAgImVudHJvcHlfZW5kIjogLTAuMCwKICAgICAgImVudHJvcHlfaGlzdG9yeSI6IFsKICAgICAgICAxLjc5MTc2LAogICAgICAgIDAuMzk1OTIsCiAgICAgICAgMC4wMDA3OSwKICAgICAgICAwLjAsCiAgICAgICAgMC4wLAogICAgICAgIC0wLjAsCiAgICAgICAgLTAuMCwKICAgICAgICAtMC4wLAogICAgICAgIC0wLjAsCiAgICAgICAgLTAuMAogICAgICBdLAogICAgICAiZXh0aW5jdCI6IHsKICAgICAgICAiMSI6IGZhbHNlLAogICAgICAgICIyIjogdHJ1ZSwKICAgICAgICAiMyI6IHRydWUsCiAgICAgICAgIjQiOiB0cnVlLAogICAgICAgICI2IjogdHJ1ZSwKICAgICAgICAiOCI6IHRydWUKICAgICAgfSwKICAgICAgInN5c3RlbV9iaXRzIjogNi44NjIwNywKICAgICAgInNvbG9fYml0c19hbGl2ZV9vbmx5IjogewogICAgICAgICIxIjogNS45MjgyCiAgICAgIH0sCiAgICAgICJiZXN0X2FsaXZlX3NpbmdsZV9iaXRzIjogNS45MjgyCiAgICB9LAogICAgIm1hcmdpbmFsIjogewogICAgICAiZmluYWxfc2hhcmVzIjogewogICAgICAgICIxIjogMS4wLAogICAgICAgICIyIjogMC4wLAogICAgICAgICIzIjogMC4wLAogICAgICAgICI0IjogMC4wLAogICAgICAgICI2IjogMC4wLAogICAgICAgICI4IjogMC4wCiAgICAgIH0sCiAgICAgICJlbnRyb3B5X3N0YXJ0IjogMS43OTE3NiwKICAgICAgImVudHJvcHlfZW5kIjogLTAuMCwKICAgICAgImVudHJvcHlfaGlzdG9yeSI6IFsKICAgICAgICAxLjc5MTc2LAogICAgICAgIDAuMDE4NjUsCiAgICAgICAgMWUtMDUsCiAgICAgICAgMC4wLAogICAgICAgIC0wLjAsCiAgICAgICAgLTAuMCwKICAgICAgICAtMC4wLAogICAgICAgIC0wLjAsCiAgICAgICAgLTAuMCwKICAgICAgICAtMC4wCiAgICAgIF0sCiAgICAgICJleHRpbmN0IjogewogICAgICAgICIxIjogZmFsc2UsCiAgICAgICAgIjIiOiB0cnVlLAogICAgICAgICIzIjogdHJ1ZSwKICAgICAgICAiNCI6IHRydWUsCiAgICAgICAgIjYiOiB0cnVlLAogICAgICAgICI4IjogdHJ1ZQogICAgICB9LAogICAgICAic3lzdGVtX2JpdHMiOiA2Ljg2MjA3LAogICAgICAic29sb19iaXRzX2FsaXZlX29ubHkiOiB7CiAgICAgICAgIjEiOiA1LjkyODIKICAgICAgfSwKICAgICAgImJlc3RfYWxpdmVfc2luZ2xlX2JpdHMiOiA1LjkyODIKICAgIH0sCiAgICAiZW50cm9weV9lbmQiOiB7CiAgICAgICJhYnNvbHV0ZSI6IC0wLjAsCiAgICAgICJtYXJnaW5hbCI6IC0wLjAKICAgIH0sCiAgICAic3lzdGVtX2JpdHMiOiB7CiAgICAgICJhYnNvbHV0ZSI6IDYuODYyMDcsCiAgICAgICJtYXJnaW5hbCI6IDYuODYyMDcKICAgIH0sCiAgICAic3lzdGVtX2JldHRlcl91bmRlciI6ICJhYnNvbHV0ZSIKICB9LAogICJEX3N0cmF0ZWd5IjogewogICAgInN0cmF0ZWdpZXMiOiBbCiAgICAgICJyYW5kb20iLAogICAgICAic3VycHJpc2UiLAogICAgICAicHJvZ3Jlc3MiLAogICAgICAibmljaGUiCiAgICBdLAogICAgInJvdW5kcyI6IDEwLAogICAgInNoYXJlc19oaXN0b3J5IjogWwogICAgICB7CiAgICAgICAgInJhbmRvbSI6IDAuMjUsCiAgICAgICAgInN1cnByaXNlIjogMC4yNSwKICAgICAgICAicHJvZ3Jlc3MiOiAwLjI1LAogICAgICAgICJuaWNoZSI6IDAuMjUKICAgICAgfSwKICAgICAgewogICAgICAgICJyYW5kb20iOiAwLjAwMDQ5LAogICAgICAgICJzdXJwcmlzZSI6IDAuNDk3MjksCiAgICAgICAgInByb2dyZXNzIjogMC40OTcyOSwKICAgICAgICAibmljaGUiOiAwLjAwNDk0CiAgICAgIH0sCiAgICAgIHsKICAgICAgICAicmFuZG9tIjogMC4wLAogICAgICAgICJzdXJwcmlzZSI6IDAuMjQ5NjQsCiAgICAgICAgInByb2dyZXNzIjogMC43NTAzNSwKICAgICAgICAibmljaGUiOiAxZS0wNQogICAgICB9LAogICAgICB7CiAgICAgICAgInJhbmRvbSI6IDAuMCwKICAgICAgICAic3VycHJpc2UiOiAwLjA1OTYyLAogICAgICAgICJwcm9ncmVzcyI6IDAuOTQwMzgsCiAgICAgICAgIm5pY2hlIjogMC4wCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAicmFuZG9tIjogMC4wLAogICAgICAgICJzdXJwcmlzZSI6IDAuMDAwMzUsCiAgICAgICAgInByb2dyZXNzIjogMC45OTk2NSwKICAgICAgICAibmljaGUiOiAwLjAKICAgICAgfSwKICAgICAgewogICAgICAgICJyYW5kb20iOiAwLjAsCiAgICAgICAgInN1cnByaXNlIjogMC4wLAogICAgICAgICJwcm9ncmVzcyI6IDEuMCwKICAgICAgICAibmljaGUiOiAwLjAKICAgICAgfSwKICAgICAgewogICAgICAgICJyYW5kb20iOiAwLjAsCiAgICAgICAgInN1cnByaXNlIjogMC4wLAogICAgICAgICJwcm9ncmVzcyI6IDEuMCwKICAgICAgICAibmljaGUiOiAwLjAKICAgICAgfSwKICAgICAgewogICAgICAgICJyYW5kb20iOiAwLjAsCiAgICAgICAgInN1cnByaXNlIjogMC4wLAogICAgICAgICJwcm9ncmVzcyI6IDEuMCwKICAgICAgICAibmljaGUiOiAwLjAKICAgICAgfSwKICAgICAgewogICAgICAgICJyYW5kb20iOiAwLjAsCiAgICAgICAgInN1cnByaXNlIjogMC4wLAogICAgICAgICJwcm9ncmVzcyI6IDEuMCwKICAgICAgICAibmljaGUiOiAwLjAKICAgICAgfSwKICAgICAgewogICAgICAgICJyYW5kb20iOiAwLjAsCiAgICAgICAgInN1cnByaXNlIjogMC4wLAogICAgICAgICJwcm9ncmVzcyI6IDEuMCwKICAgICAgICAibmljaGUiOiAwLjAKICAgICAgfQogICAgXSwKICAgICJlbnRyb3B5X2hpc3RvcnkiOiBbCiAgICAgIDEuMzg2MjksCiAgICAgIDAuNzI0NzUsCiAgICAgIDAuNTYyMTEsCiAgICAgIDAuMjI1OTEsCiAgICAgIDAuMDAzMTYsCiAgICAgIDFlLTA1LAogICAgICAwLjAsCiAgICAgIC0wLjAsCiAgICAgIC0wLjAsCiAgICAgIC0wLjAKICAgIF0sCiAgICAiZmluYWxfc2hhcmVzIjogewogICAgICAicmFuZG9tIjogMC4wLAogICAgICAic3VycHJpc2UiOiAwLjAsCiAgICAgICJwcm9ncmVzcyI6IDEuMCwKICAgICAgIm5pY2hlIjogMC4wCiAgICB9LAogICAgImZpbmFsX2JpdHMiOiB7CiAgICAgICJyYW5kb20iOiA5LjA3NDE0LAogICAgICAic3VycHJpc2UiOiA5LjA3NDE0LAogICAgICAicHJvZ3Jlc3MiOiA3LjMzNDYsCiAgICAgICJuaWNoZSI6IDkuMDc0MTQKICAgIH0sCiAgICAiZXh0aW5jdCI6IHsKICAgICAgInJhbmRvbSI6IHRydWUsCiAgICAgICJzdXJwcmlzZSI6IHRydWUsCiAgICAgICJwcm9ncmVzcyI6IGZhbHNlLAogICAgICAibmljaGUiOiB0cnVlCiAgICB9LAogICAgImVudHJvcHlfc3RhcnQiOiAxLjM4NjI5LAogICAgImVudHJvcHlfZW5kIjogLTAuMAogIH0KfQ==
+{
+  "corpus": {
+    "lines": 63,
+    "train_chars": 3491,
+    "test_chars": 544,
+    "vocab": 539
+  },
+  "A_replicator": {
+    "ks": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      8
+    ],
+    "rounds": 14,
+    "B": 20000,
+    "shares_history": [
+      {
+        "1": 0.16667,
+        "2": 0.16667,
+        "3": 0.16667,
+        "4": 0.16667,
+        "6": 0.16667,
+        "8": 0.16667
+      },
+      {
+        "1": 0.90142,
+        "2": 0.02737,
+        "3": 0.06798,
+        "4": 0.00153,
+        "6": 0.00161,
+        "8": 9e-05
+      },
+      {
+        "1": 0.99993,
+        "2": 1e-05,
+        "3": 6e-05,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      }
+    ],
+    "entropy_history": [
+      1.79176,
+      0.39592,
+      0.00079,
+      0.0,
+      0.0,
+      -0.0,
+      -0.0,
+      -0.0,
+      -0.0,
+      -0.0,
+      -0.0,
+      -0.0,
+      -0.0,
+      -0.0
+    ],
+    "final_shares": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "6": 0.0,
+      "8": 0.0
+    },
+    "final_bits": {
+      "1": 5.88537,
+      "2": 9.07414,
+      "3": 9.07414,
+      "4": 9.07414,
+      "6": 9.07414,
+      "8": 9.07414
+    },
+    "winner_k": 1,
+    "winner_share": 1.0,
+    "entropy_start": 1.79176,
+    "entropy_end": -0.0,
+    "extinct": {
+      "1": false,
+      "2": true,
+      "3": true,
+      "4": true,
+      "6": true,
+      "8": true
+    }
+  },
+  "B_insurance": {
+    "shift_test_chars": 2357,
+    "mono_k": 2,
+    "mono_bits_under_shift": 7.77769,
+    "portfolio_bits_under_shift": 6.90409,
+    "pseudo_diversity_bits_under_shift": 7.73438,
+    "diversity_gain": 0.8736,
+    "pseudo_vs_true": 0.83028,
+    "note": "pseudo=三个同阶副本(伪多样性,无差异); portfolio=不同阶真多样性"
+  },
+  "C_allocation": {
+    "absolute": {
+      "final_shares": {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      "entropy_start": 1.79176,
+      "entropy_end": -0.0,
+      "entropy_history": [
+        1.79176,
+        0.39592,
+        0.00079,
+        0.0,
+        0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "extinct": {
+        "1": false,
+        "2": true,
+        "3": true,
+        "4": true,
+        "6": true,
+        "8": true
+      },
+      "system_bits": 6.86207,
+      "solo_bits_alive_only": {
+        "1": 5.9282
+      },
+      "best_alive_single_bits": 5.9282
+    },
+    "marginal": {
+      "final_shares": {
+        "1": 1.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "8": 0.0
+      },
+      "entropy_start": 1.79176,
+      "entropy_end": -0.0,
+      "entropy_history": [
+        1.79176,
+        0.01865,
+        1e-05,
+        0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "extinct": {
+        "1": false,
+        "2": true,
+        "3": true,
+        "4": true,
+        "6": true,
+        "8": true
+      },
+      "system_bits": 6.86207,
+      "solo_bits_alive_only": {
+        "1": 5.9282
+      },
+      "best_alive_single_bits": 5.9282
+    },
+    "entropy_end": {
+      "absolute": -0.0,
+      "marginal": -0.0
+    },
+    "system_bits": {
+      "absolute": 6.86207,
+      "marginal": 6.86207
+    },
+    "system_better_under": "absolute"
+  },
+  "D_strategy": {
+    "strategies": [
+      "random",
+      "surprise",
+      "progress",
+      "niche"
+    ],
+    "rounds": 10,
+    "shares_history": [
+      {
+        "random": 0.25,
+        "surprise": 0.25,
+        "progress": 0.25,
+        "niche": 0.25
+      },
+      {
+        "random": 0.00049,
+        "surprise": 0.49729,
+        "progress": 0.49729,
+        "niche": 0.00494
+      },
+      {
+        "random": 0.0,
+        "surprise": 0.24964,
+        "progress": 0.75035,
+        "niche": 1e-05
+      },
+      {
+        "random": 0.0,
+        "surprise": 0.05962,
+        "progress": 0.94038,
+        "niche": 0.0
+      },
+      {
+        "random": 0.0,
+        "surprise": 0.00035,
+        "progress": 0.99965,
+        "niche": 0.0
+      },
+      {
+        "random": 0.0,
+        "surprise": 0.0,
+        "progress": 1.0,
+        "niche": 0.0
+      },
+      {
+        "random": 0.0,
+        "surprise": 0.0,
+        "progress": 1.0,
+        "niche": 0.0
+      },
+      {
+        "random": 0.0,
+        "surprise": 0.0,
+        "progress": 1.0,
+        "niche": 0.0
+      },
+      {
+        "random": 0.0,
+        "surprise": 0.0,
+        "progress": 1.0,
+        "niche": 0.0
+      },
+      {
+        "random": 0.0,
+        "surprise": 0.0,
+        "progress": 1.0,
+        "niche": 0.0
+      }
+    ],
+    "entropy_history": [
+      1.38629,
+      0.72475,
+      0.56211,
+      0.22591,
+      0.00316,
+      1e-05,
+      0.0,
+      -0.0,
+      -0.0,
+      -0.0
+    ],
+    "final_shares": {
+      "random": 0.0,
+      "surprise": 0.0,
+      "progress": 1.0,
+      "niche": 0.0
+    },
+    "final_bits": {
+      "random": 9.07414,
+      "surprise": 9.07414,
+      "progress": 7.3346,
+      "niche": 9.07414
+    },
+    "extinct": {
+      "random": true,
+      "surprise": true,
+      "progress": false,
+      "niche": true
+    },
+    "entropy_start": 1.38629,
+    "entropy_end": -0.0
+  }
+}

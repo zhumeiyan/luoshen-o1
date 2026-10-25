@@ -1,1 +1,101 @@
-IiIiS2FUZVgtYmFzZWQgbWF0aC9jaGVtaXN0cnkgZm9ybXVsYSByZW5kZXJpbmcgY29tcG9uZW50LiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IEFueQoKZnJvbSBmYXN0aHRtbC5jb21tb24gaW1wb3J0IERpdiwgTm90U3RyLCBTcGFuCgpmcm9tIC4uLmNvcmUuX3N0YWJpbGl0eSBpbXBvcnQgYmV0YQpmcm9tIC4uLmNvcmUuYmFzZSBpbXBvcnQgbWVyZ2VfY2xhc3Nlcwpmcm9tIC4uLmNvcmUucmVnaXN0cnkgaW1wb3J0IHJlZ2lzdGVyCmZyb20gLi4uY29yZS50aGVtZSBpbXBvcnQgVU5TRVQsIHJlc29sdmVfZGVmYXVsdHMKZnJvbSAuLi51dGlscy5hdHRycyBpbXBvcnQgY29udmVydF9hdHRycwoKCmRlZiBfbm9ybWFsaXplX2RlbGltaXRlcnMobGF0ZXg6IHN0ciwgZGlzcGxheV9tb2RlOiBib29sKSAtPiBzdHI6CiAgICBpZiBkaXNwbGF5X21vZGU6CiAgICAgICAgcmV0dXJuIGYiJCR7bGF0ZXh9JCQiCiAgICByZXR1cm4gZiJcXCh7bGF0ZXh9XFwpIgoKCkByZWdpc3RlcihjYXRlZ29yeT0iZGlzcGxheSIsIHJlcXVpcmVzX2pzPVRydWUpCkBiZXRhCmRlZiBNYXRoKAogICAgbGF0ZXg6IHN0ciwKICAgICosCiAgICBkaXNwbGF5X21vZGU6IGJvb2wgfCBOb25lID0gVU5TRVQsCiAgICB0aHJvd19vbl9lcnJvcjogYm9vbCB8IE5vbmUgPSBVTlNFVCwKICAgIHJlbmRlcmVyOiBzdHIgPSAia2F0ZXgiLAogICAgKiprd2FyZ3M6IEFueSwKKSAtPiBEaXYgfCBTcGFuOgogICAgIiIiUmVuZGVyIExhVGVYIG1hdGggdXNpbmcgS2FUZVguCgogICAgU3VwcG9ydHMgY2hlbWlzdHJ5IG5vdGF0aW9uIHZpYSB0aGUgbWhjaGVtIGV4dGVuc2lvbgogICAgKGBgXFxjZXt9YGAsIGBgXFxjZWV7fWBgLCByZWFjdGlvbiBhcnJvd3MsIGV0Yy4pLgoKICAgIFJlcXVpcmVzIEthVGVYIHRvIGJlIGxvYWRlZCBpbiB0aGUgcGFnZS4gRmFzdHN0cmFwIGRvZXMgbm90CiAgICBpbmplY3QgS2FUZVggYXV0b21hdGljYWxseTsgaW5jbHVkZSBpdCBpbiB5b3VyIGFwcCBhc3NldHMgb3IKICAgIHVzZSBhIENETi4KCiAgICBBcmdzOgogICAgICAgIGxhdGV4OiBMYVRlWCBtYXRoIHNvdXJjZS4KICAgICAgICBkaXNwbGF5X21vZGU6IFJlbmRlciBhcyBibG9jay1sZXZlbCBkaXNwbGF5IG1hdGggd2hlbiBUcnVlLgogICAgICAgIHRocm93X29uX2Vycm9yOiBSYWlzZSBvbiB1bnN1cHBvcnRlZCBMYVRlWCBpbnN0ZWFkIG9mIHJlbmRlcmluZwogICAgICAgICAgICB0aGUgc291cmNlIGFzIGZhbGxiYWNrIHRleHQuCiAgICAgICAgcmVuZGVyZXI6IFJlbmRlcmluZyBiYWNrZW5kLiBPbmx5IGBgImthdGV4ImBgIGlzIHN1cHBvcnRlZAogICAgICAgICAgICBjdXJyZW50bHk7IGBgIm1hdGhqYXgiYGAgaXMgcmVzZXJ2ZWQgZm9yIGZ1dHVyZSB1c2UuCiAgICAgICAgKiprd2FyZ3M6IEFkZGl0aW9uYWwgSFRNTCBhdHRyaWJ1dGVzIGZvciB0aGUgd3JhcHBlciBlbGVtZW50LgoKICAgIFJldHVybnM6CiAgICAgICAgRmFzdEhUTUwgYGBTcGFuYGAgZm9yIGlubGluZSBtYXRoIG9yIGBgRGl2YGAgZm9yIGRpc3BsYXkgbWF0aCwKICAgICAgICBjb250YWluaW5nIGRlbGltaXRlZCBMYVRlWCBmb3IgS2FUZVggYXV0by1yZW5kZXJpbmcuCgogICAgRXhhbXBsZXM6CiAgICAgICAgQmFzaWMgbWF0aDoKCiAgICAgICAgPj4+IE1hdGgociJcZnJhY3thfXtifSIpCgogICAgICAgIERpc3BsYXkgbW9kZToKCiAgICAgICAgPj4+IE1hdGgociJcXGludF97LVxcaW5mdHl9XntcXGluZnR5fSBlXnsteF4yfSBkeCIsIGRpc3BsYXlfbW9kZT1UcnVlKQoKICAgICAgICBDaGVtaXN0cnk6CgogICAgICAgID4+PiBNYXRoKHIiXFxjZXsySDIgKyBPMiAtPiAySDJPfSIpCgogICAgICAgIFBoeXNpY3M6CgogICAgICAgID4+PiBNYXRoKHIiRiA9IEcgXGZyYWN7bV8xIG1fMn17cl4yfSIpCiAgICAiIiIKICAgIGNmZyA9IHJlc29sdmVfZGVmYXVsdHMoCiAgICAgICAgIk1hdGgiLAogICAgICAgIGRpc3BsYXlfbW9kZT1kaXNwbGF5X21vZGUsCiAgICAgICAgdGhyb3dfb25fZXJyb3I9dGhyb3dfb25fZXJyb3IsCiAgICAgICAgcmVuZGVyZXI9cmVuZGVyZXIsCiAgICApCiAgICBjX2Rpc3BsYXlfbW9kZSA9IGNmZy5nZXQoImRpc3BsYXlfbW9kZSIsIEZhbHNlKQogICAgY190aHJvd19vbl9lcnJvciA9IGNmZy5nZXQoInRocm93X29uX2Vycm9yIiwgRmFsc2UpCiAgICBjX3JlbmRlcmVyID0gY2ZnLmdldCgicmVuZGVyZXIiLCByZW5kZXJlcikKCiAgICBpZiBjX3JlbmRlcmVyICE9ICJrYXRleCI6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgZiJVbnN1cHBvcnRlZCBtYXRoIHJlbmRlcmVyOiB7Y19yZW5kZXJlciFyfS4gIiAiQ3VycmVudGx5IG9ubHkgJ2thdGV4JyBpcyBzdXBwb3J0ZWQuIgogICAgICAgICkKCiAgICB3cmFwcGVkID0gX25vcm1hbGl6ZV9kZWxpbWl0ZXJzKGxhdGV4LCBjX2Rpc3BsYXlfbW9kZSkKICAgIHVzZXJfY2xzID0ga3dhcmdzLnBvcCgiY2xzIiwgIiIpCiAgICBiYXNlX2NscyA9ICJtYXRoIGZhc3RzdHJhcC1tYXRoIgogICAgaWYgY19kaXNwbGF5X21vZGU6CiAgICAgICAgYmFzZV9jbHMgKz0gIiBmYXN0c3RyYXAtbWF0aC1kaXNwbGF5IgoKICAgIGF0dHJzOiBkaWN0W3N0ciwgQW55XSA9IHsKICAgICAgICAiY2xzIjogbWVyZ2VfY2xhc3NlcyhiYXNlX2NscywgdXNlcl9jbHMpLAogICAgICAgICJkYXRhX2ZzX21hdGhfZGlzcGxheSI6ICJ0cnVlIiBpZiBjX2Rpc3BsYXlfbW9kZSBlbHNlICJmYWxzZSIsCiAgICAgICAgImRhdGFfZnNfbWF0aF90aHJvd19vbl9lcnJvciI6ICJ0cnVlIiBpZiBjX3Rocm93X29uX2Vycm9yIGVsc2UgImZhbHNlIiwKICAgIH0KICAgIGF0dHJzLnVwZGF0ZShjb252ZXJ0X2F0dHJzKGt3YXJncykpCgogICAgaWYgY19kaXNwbGF5X21vZGU6CiAgICAgICAgcmV0dXJuIERpdihOb3RTdHIod3JhcHBlZCksICoqYXR0cnMpCiAgICByZXR1cm4gU3BhbihOb3RTdHIod3JhcHBlZCksICoqYXR0cnMpCg==
+"""KaTeX-based math/chemistry formula rendering component."""
+
+from __future__ import annotations
+
+from typing import Any
+
+from fasthtml.common import Div, NotStr, Span
+
+from ...core._stability import beta
+from ...core.base import merge_classes
+from ...core.registry import register
+from ...core.theme import UNSET, resolve_defaults
+from ...utils.attrs import convert_attrs
+
+
+def _normalize_delimiters(latex: str, display_mode: bool) -> str:
+    if display_mode:
+        return f"$${latex}$$"
+    return f"\\({latex}\\)"
+
+
+@register(category="display", requires_js=True)
+@beta
+def Math(
+    latex: str,
+    *,
+    display_mode: bool | None = UNSET,
+    throw_on_error: bool | None = UNSET,
+    renderer: str = "katex",
+    **kwargs: Any,
+) -> Div | Span:
+    """Render LaTeX math using KaTeX.
+
+    Supports chemistry notation via the mhchem extension
+    (``\\ce{}``, ``\\cee{}``, reaction arrows, etc.).
+
+    Requires KaTeX to be loaded in the page. Faststrap does not
+    inject KaTeX automatically; include it in your app assets or
+    use a CDN.
+
+    Args:
+        latex: LaTeX math source.
+        display_mode: Render as block-level display math when True.
+        throw_on_error: Raise on unsupported LaTeX instead of rendering
+            the source as fallback text.
+        renderer: Rendering backend. Only ``"katex"`` is supported
+            currently; ``"mathjax"`` is reserved for future use.
+        **kwargs: Additional HTML attributes for the wrapper element.
+
+    Returns:
+        FastHTML ``Span`` for inline math or ``Div`` for display math,
+        containing delimited LaTeX for KaTeX auto-rendering.
+
+    Examples:
+        Basic math:
+
+        >>> Math(r"\frac{a}{b}")
+
+        Display mode:
+
+        >>> Math(r"\\int_{-\\infty}^{\\infty} e^{-x^2} dx", display_mode=True)
+
+        Chemistry:
+
+        >>> Math(r"\\ce{2H2 + O2 -> 2H2O}")
+
+        Physics:
+
+        >>> Math(r"F = G \frac{m_1 m_2}{r^2}")
+    """
+    cfg = resolve_defaults(
+        "Math",
+        display_mode=display_mode,
+        throw_on_error=throw_on_error,
+        renderer=renderer,
+    )
+    c_display_mode = cfg.get("display_mode", False)
+    c_throw_on_error = cfg.get("throw_on_error", False)
+    c_renderer = cfg.get("renderer", renderer)
+
+    if c_renderer != "katex":
+        raise ValueError(
+            f"Unsupported math renderer: {c_renderer!r}. " "Currently only 'katex' is supported."
+        )
+
+    wrapped = _normalize_delimiters(latex, c_display_mode)
+    user_cls = kwargs.pop("cls", "")
+    base_cls = "math faststrap-math"
+    if c_display_mode:
+        base_cls += " faststrap-math-display"
+
+    attrs: dict[str, Any] = {
+        "cls": merge_classes(base_cls, user_cls),
+        "data_fs_math_display": "true" if c_display_mode else "false",
+        "data_fs_math_throw_on_error": "true" if c_throw_on_error else "false",
+    }
+    attrs.update(convert_attrs(kwargs))
+
+    if c_display_mode:
+        return Div(NotStr(wrapped), **attrs)
+    return Span(NotStr(wrapped), **attrs)

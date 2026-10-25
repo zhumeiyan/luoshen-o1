@@ -1,1 +1,44 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMjIwYzog6Lez6L+HIHY0IOeBsOW6piDnm7TmjqXkuIogdjUg5YWs5byP77yM5Zyo5YWo54Gw5bqm5LiW55WMKGc9MSnkuIvkvJrmgI7moLciIiIKaW1wb3J0IG51bXB5IGFzIG5wLCBqc29uCk49NjAwMApkZWYgdHJpYWwoZ3JheV9vdXQsIGhhc190cmFjZSwgaGFzX2Zvcm11bGEsIHRocmVhdCwgZywgc2VlZCk6CiAgICBSPW5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgaXNnPVIucmFuZG9tKE4pPGcKICAgIHk9bnAud2hlcmUoaXNnLG5wLmNsaXAoUi5ub3JtYWwoMC41LDAuMjIsTiksMCwxKSwoUi5yYW5kb20oTik8MC41KS5hc3R5cGUoZmxvYXQpKQogICAgeD15LmNvcHkoKQogICAgaWYgdGhyZWF0PT0nVDHlmarlo7AnOiB4PXkrUi5ub3JtYWwoMCwwLjM1LE4pCiAgICByPW5wLmNsaXAoeCwwLDEpIGlmIGdyYXlfb3V0IGVsc2UgKHg+MC41KS5hc3R5cGUoZmxvYXQpCiAgICBpZiB0aHJlYXQ9PSdUMue/u+mdoic6CiAgICAgICAgZmxpcD1SLnJhbmRvbShOKTwwLjMwCiAgICAgICAgaWYgaGFzX3RyYWNlOiBmbGlwPW5wLnplcm9zKE4sYm9vbCkKICAgICAgICByPW5wLndoZXJlKGZsaXAsMS1yLHIpCiAgICBpZiB0aHJlYXQ9PSdUNOWkluaOqCc6CiAgICAgICAgb29kPVIucmFuZG9tKE4pPDAuNQogICAgICAgIGlmIG5vdCBoYXNfZm9ybXVsYTogcj1ucC53aGVyZShvb2QsMC41Km5wLm9uZXMoTikscikKICAgIHJldHVybiBmbG9hdChucC5hYnMoci15KS5tZWFuKCkpCgpUSD1bJ1Qx5Zmq5aOwJywnVDLnv7vpnaInLCdUM+eBsOW6picsJ1Q05aSW5o6oJ10KZGVmIHByb2YobmFtZSxncmF5LHRyYWNlLGZvcm11bGEsZz0xLjApOgogICAgdj17dDpyb3VuZCh0cmlhbChncmF5LHRyYWNlLGZvcm11bGEsdCxnLHNlZWQ9YWJzKGhhc2goKG5hbWUsdCkpKSU5OTk5KSw0KSBmb3IgdCBpbiBUSH0KICAgIHZbJ21lYW4nXT1yb3VuZChmbG9hdChucC5tZWFuKGxpc3Qodi52YWx1ZXMoKSkpKSw0KTsgcmV0dXJuIG5hbWUsdgoKb3V0PXt9CmZvciBuYW1lLGdyYXksdHJhY2UsZm9ybXVsYSBpbiBbCiAgKCd2M1/pmLTpmLPmiaMo5LqM5YC8K3RyYWNlKScsICAgICAgICAgIEZhbHNlLFRydWUsRmFsc2UpLAogICgnc2tpcFY0OiB2MyvlhazlvI8o5peg54Gw5bqmKScsICAgICAgICBGYWxzZSxUcnVlLFRydWUpLAogICgndjRf54Gw5bqm56m66Ze0KOeBsOW6pit0cmFjZSknLCAgICAgICAgVHJ1ZSwgVHJ1ZSxGYWxzZSksCiAgKCd2NV/lhazlvI/ljYfnuqco54Gw5bqmK3RyYWNlK+WFrOW8jyknLCAgIFRydWUsIFRydWUsVHJ1ZSksCl06CiAgICBuLHY9cHJvZihuYW1lLGdyYXksdHJhY2UsZm9ybXVsYSk7IG91dFtuXT12CgojIOS6jOWAvOS4lueVjOWvueeFpyAoZz0wKQpvdXQyPXt9CmZvciBuYW1lLGdyYXksdHJhY2UsZm9ybXVsYSBpbiBbCiAgKCd2MS92MyDkuozlgLzliKTmja4gQGc9MCcsICAgICAgICAgICAgRmFsc2UsVHJ1ZSxGYWxzZSksCiAgKCd2NCDngbDluqbliKTmja4gQGc9MCcsICAgICAgICAgICAgICAgVHJ1ZSwgVHJ1ZSxGYWxzZSksCl06CiAgICBuLHY9cHJvZihuYW1lLGdyYXksdHJhY2UsZm9ybXVsYSxnPTAuMCk7IG91dDJbbl09dgoKcHJpbnQoanNvbi5kdW1wcyhkaWN0KGcxPW91dCxnMD1vdXQyKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpKQpqc29uLmR1bXAoZGljdChnMT1vdXQsZzA9b3V0Miksb3BlbigncmVzdWx0MjIwYy5qc29uJywndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+# -*- coding: utf-8 -*-
+"""220c: 跳过 v4 灰度 直接上 v5 公式，在全灰度世界(g=1)下会怎样"""
+import numpy as np, json
+N=6000
+def trial(gray_out, has_trace, has_formula, threat, g, seed):
+    R=np.random.default_rng(seed)
+    isg=R.random(N)<g
+    y=np.where(isg,np.clip(R.normal(0.5,0.22,N),0,1),(R.random(N)<0.5).astype(float))
+    x=y.copy()
+    if threat=='T1噪声': x=y+R.normal(0,0.35,N)
+    r=np.clip(x,0,1) if gray_out else (x>0.5).astype(float)
+    if threat=='T2翻面':
+        flip=R.random(N)<0.30
+        if has_trace: flip=np.zeros(N,bool)
+        r=np.where(flip,1-r,r)
+    if threat=='T4外推':
+        ood=R.random(N)<0.5
+        if not has_formula: r=np.where(ood,0.5*np.ones(N),r)
+    return float(np.abs(r-y).mean())
+
+TH=['T1噪声','T2翻面','T3灰度','T4外推']
+def prof(name,gray,trace,formula,g=1.0):
+    v={t:round(trial(gray,trace,formula,t,g,seed=abs(hash((name,t)))%9999),4) for t in TH}
+    v['mean']=round(float(np.mean(list(v.values()))),4); return name,v
+
+out={}
+for name,gray,trace,formula in [
+  ('v3_阴阳扣(二值+trace)',          False,True,False),
+  ('skipV4: v3+公式(无灰度)',        False,True,True),
+  ('v4_灰度空间(灰度+trace)',        True, True,False),
+  ('v5_公式升级(灰度+trace+公式)',   True, True,True),
+]:
+    n,v=prof(name,gray,trace,formula); out[n]=v
+
+# 二值世界对照 (g=0)
+out2={}
+for name,gray,trace,formula in [
+  ('v1/v3 二值判据 @g=0',            False,True,False),
+  ('v4 灰度判据 @g=0',               True, True,False),
+]:
+    n,v=prof(name,gray,trace,formula,g=0.0); out2[n]=v
+
+print(json.dumps(dict(g1=out,g0=out2),ensure_ascii=False,indent=1))
+json.dump(dict(g1=out,g0=out2),open('result220c.json','w'),ensure_ascii=False,indent=1)

@@ -1,1 +1,84 @@
-IiIiMTE5LUQg5bqU5r+A5a6e6aqM77yI6YeN5YGaIDExOCDmrKDotKbvvIkKSG9tZW9zdGFzaXMo5Y+N5bqU5oCnKSB2cyBBbGxvc3Rhc2lzKOmihOa1i+aApykgdnMgTm9uZSjml6DosIPoioIpCumFjeWvueiuvuiuoe+8muS4ieenjeetlueVpeWQg+WQjOS4gOadoemihOW9leecn+WunuW6j+WIl++8jOS7heetlueVpeS4jeWQjOOAggrlhoXnjq/looPlj6rmlLYi5pyJ6YeP56iL5LiU5Y+v6YCGIueahOmAmumBk++8muaOkumZpCBucnVubmluZyjph4/nqIswKSDkuI4gdXB0aW1lL2Nsb2NrKOmSn+ihqCzkuI3lj6/pgIYp44CCCiIiIgppbXBvcnQganNvbiwgbWF0aCwgc3RhdGlzdGljcwoKcmVjID0ganNvbi5sb2FkKG9wZW4oJ3RyYWNlX3JlYWwuanNvbicpKQpWQVJTID0gWydsb2FkMScsICdtZW1hdmFpbCcsICdtZW1mcmVlJywgJ3J0dCddICAgIyDmnInph4/nqIvkuJTpnZ7pkp/ooagKQ1VUX1JBVElPID0gMC41Ck4gPSBsZW4ocmVjKQoKZGVmIG5vcm1fc2NhbGUoKToKICAgICIiIuavj+mAmumBk+aMieiHqui6q+mHj+eoi+W9kuS4gOWMlu+8jOWQpuWImSBydHQoMjltcykg5LiOIG1lbWF2YWlsKDJlNikg6YeP57qn5beuIDFlNSDlgI3jgIIiIiIKICAgIGJhc2UgPSB7fQogICAgZm9yIGsgaW4gVkFSUzoKICAgICAgICB2ID0gW3Jba10gZm9yIHIgaW4gcmVjIGlmIHJba10gaXMgbm90IE5vbmVdCiAgICAgICAgbXUgPSBzdGF0aXN0aWNzLmZtZWFuKHYpCiAgICAgICAgc2QgPSBzdGF0aXN0aWNzLnBzdGRldih2KSBvciAxZS0xMgogICAgICAgIGJhc2Vba10gPSAobXUsIHNkKQogICAgcmV0dXJuIGJhc2UKClNDQUxFID0gbm9ybV9zY2FsZSgpCgpkZWYgeihrLCB2YWwpOgogICAgbXUsIHNkID0gU0NBTEVba10KICAgIHJldHVybiAodmFsIC0gbXUpIC8gc2QgaWYgdmFsIGlzIG5vdCBOb25lIGVsc2UgTm9uZQoKZGVmIHJ1bihzdHJhdGVneSwgY3V0PU5vbmUsIGdhaW49MC42LCBzZWVkPTApOgogICAgY3V0ID0gaW50KE4gKiBDVVRfUkFUSU8pIGlmIGN1dCBpcyBOb25lIGVsc2UgY3V0CiAgICBiYXNlID0ge2s6IHN0YXRpc3RpY3MuZm1lYW4oW3Jba10gZm9yIHIgaW4gcmVjWzo4XSBpZiByW2tdIGlzIG5vdCBOb25lXSkgZm9yIGsgaW4gVkFSU30KICAgIHggPSB7azogKHJlY1swXVtrXSBpZiByZWNbMF1ba10gaXMgbm90IE5vbmUgZWxzZSBiYXNlW2tdKSBmb3IgayBpbiBWQVJTfQogICAgaGlzdCA9IHtrOiBbXSBmb3IgayBpbiBWQVJTfQogICAgZGV2X3ByZSwgZGV2X3Bvc3QgPSBbXSwgW10KICAgIGZvciB0IGluIHJhbmdlKE4pOgogICAgICAgIHN1cHBsaWVkID0gKHQgPCBjdXQpCiAgICAgICAgZm9yIGsgaW4gVkFSUzoKICAgICAgICAgICAgb2JzID0gcmVjW3RdW2tdIGlmIHN1cHBsaWVkIGVsc2UgTm9uZQogICAgICAgICAgICBpZiBvYnMgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICB4W2tdID0gb2JzICAgICAgICAgICAgICAgICAgICAgICMg55yf5a6e6K+75pWw6KaG55uWCiAgICAgICAgICAgICAgICBoaXN0W2tdLmFwcGVuZCgodCwgb2JzKSkKICAgICAgICAgICAgIyAtLS0tIOiwg+iKgiAtLS0tCiAgICAgICAgICAgIGlmIHN0cmF0ZWd5ID09ICdub25lJzoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZWxpZiBzdHJhdGVneSA9PSAncmVhY3RpdmUnOgogICAgICAgICAgICAgICAgaWYgb2JzIGlzIG5vdCBOb25lOiAgICAgICAgICAgICAjIOaWreS+m+WQjuaXoOivu+aVsCAtPiDml6DooaXnu5kKICAgICAgICAgICAgICAgICAgICB4W2tdICs9IGdhaW4gKiAoYmFzZVtrXSAtIHhba10pCiAgICAgICAgICAgIGVsaWYgc3RyYXRlZ3kgPT0gJ3ByZWRpY3RpdmUnOgogICAgICAgICAgICAgICAgaWYgb2JzIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgIHhba10gKz0gZ2FpbiAqIChiYXNlW2tdIC0geFtrXSkKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgIyDlj6rnlKjjgJDmlq3kvpvliY3jgJHnmoTljoblj7LlgZrnur/mgKflpJbmjqjvvIznpoHmraLlgbfnnIvmlq3kvpvlkI7nnJ/lgLwKICAgICAgICAgICAgICAgICAgICBwcmUgPSBbKHR0LCB2dikgZm9yIHR0LCB2diBpbiBoaXN0W2tdIGlmIHR0IDwgY3V0XQogICAgICAgICAgICAgICAgICAgIGlmIGxlbihwcmUpID49IDI6CiAgICAgICAgICAgICAgICAgICAgICAgIG4gPSBsZW4ocHJlKQogICAgICAgICAgICAgICAgICAgICAgICBzeCA9IHN1bShwWzBdIGZvciBwIGluIHByZSk7IHN5ID0gc3VtKHBbMV0gZm9yIHAgaW4gcHJlKQogICAgICAgICAgICAgICAgICAgICAgICBzeHggPSBzdW0ocFswXSoqMiBmb3IgcCBpbiBwcmUpOyBzeHkgPSBzdW0ocFswXSpwWzFdIGZvciBwIGluIHByZSkKICAgICAgICAgICAgICAgICAgICAgICAgZGVuID0gbipzeHggLSBzeCpzeAogICAgICAgICAgICAgICAgICAgICAgICBzbG9wZSA9IChuKnN4eSAtIHN4KnN5KS9kZW4gaWYgZGVuIGVsc2UgMC4wCiAgICAgICAgICAgICAgICAgICAgICAgIGludGVyY2VwdCA9IChzeSAtIHNsb3BlKnN4KS9uCiAgICAgICAgICAgICAgICAgICAgICAgIHByZWQgPSBzbG9wZSp0ICsgaW50ZXJjZXB0CiAgICAgICAgICAgICAgICAgICAgICAgIHhba10gKz0gZ2FpbiAqIChwcmVkIC0geFtrXSkKICAgICAgICBkID0gbWF0aC5zcXJ0KHN1bSgoKHhba10tYmFzZVtrXSkvKFNDQUxFW2tdWzFdIG9yIDFlLTEyKSkqKjIgZm9yIGsgaW4gVkFSUykpCiAgICAgICAgKGRldl9wcmUgaWYgdCA8IGN1dCBlbHNlIGRldl9wb3N0KS5hcHBlbmQoZCkKICAgIHJldHVybiB7CiAgICAgICAgJ3N0cmF0ZWd5Jzogc3RyYXRlZ3ksICdjdXQnOiBjdXQsCiAgICAgICAgJ2Rldl9wcmUnOiBzdGF0aXN0aWNzLmZtZWFuKGRldl9wcmUpIGlmIGRldl9wcmUgZWxzZSBOb25lLAogICAgICAgICdkZXZfcG9zdCc6IHN0YXRpc3RpY3MuZm1lYW4oZGV2X3Bvc3QpIGlmIGRldl9wb3N0IGVsc2UgTm9uZSwKICAgICAgICAnZGV2X2VuZCc6IGRldl9wb3N0Wy0xXSBpZiBkZXZfcG9zdCBlbHNlIE5vbmUsCiAgICAgICAgJ2FsaXZlJzogYWxsKG5vdCBtYXRoLmlzbmFuKHhba10pIGFuZCBhYnMoeFtrXSkgPCAxZTE4IGZvciBrIGluIFZBUlMpLAogICAgfQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHByaW50KCc9PT0gMTE5LUQg5bqU5r+A5a6e6aqM77yI6YeN5YGaIDExOO+8iT09PScpCiAgICBwcmludChmJ+mihOW9lSB7Tn0g5ouN55yf5a6e5pys5L2T6KeJ77yM5pat5L6b54K5IHQ9e2ludChOKkNVVF9SQVRJTyl9JykKICAgIHByaW50KCflhoXnjq/looPlj5jph4/vvIjlt7LmjpLpmaQgbnJ1bm5pbmcg6YeP56iLMCAvIHVwdGltZStjbG9jayDpkp/ooajvvIk6JywgVkFSUykKICAgIHByaW50KCkKICAgIHByaW50KGYneyLnrZbnlaUiOjwxMnN9eyLmlq3kvpvliY3lgY/nprsiOj4xMnN9eyLmlq3kvpvlkI7lgY/nprsiOj4xMnN9eyLmnKvmgIHlgY/nprsiOj4xMnN9eyLlrZjmtLsiOj44c30nKQogICAgcmVzID0ge30KICAgIGZvciBzIGluIFsnbm9uZScsICdyZWFjdGl2ZScsICdwcmVkaWN0aXZlJ106CiAgICAgICAgciA9IHJ1bihzKTsgcmVzW3NdID0gcgogICAgICAgIHByaW50KGYne3M6PDEyc317clsiZGV2X3ByZSJdOj4xMi40Zn17clsiZGV2X3Bvc3QiXTo+MTIuNGZ9JwogICAgICAgICAgICAgIGYne3JbImRldl9lbmQiXTo+MTIuNGZ9eyJZRVMiIGlmIHJbImFsaXZlIl0gZWxzZSAiTk8iOj44c30nKQogICAganNvbi5kdW1wKHJlcywgb3Blbignc3RyZXNzX3Jlc3VsdC5qc29uJywndycpLCBpbmRlbnQ9MSkK
+"""119-D 应激实验（重做 118 欠账）
+Homeostasis(反应性) vs Allostasis(预测性) vs None(无调节)
+配对设计：三种策略吃同一条预录真实序列，仅策略不同。
+内环境只收"有量程且可逆"的通道：排除 nrunning(量程0) 与 uptime/clock(钟表,不可逆)。
+"""
+import json, math, statistics
+
+rec = json.load(open('trace_real.json'))
+VARS = ['load1', 'memavail', 'memfree', 'rtt']   # 有量程且非钟表
+CUT_RATIO = 0.5
+N = len(rec)
+
+def norm_scale():
+    """每通道按自身量程归一化，否则 rtt(29ms) 与 memavail(2e6) 量级差 1e5 倍。"""
+    base = {}
+    for k in VARS:
+        v = [r[k] for r in rec if r[k] is not None]
+        mu = statistics.fmean(v)
+        sd = statistics.pstdev(v) or 1e-12
+        base[k] = (mu, sd)
+    return base
+
+SCALE = norm_scale()
+
+def z(k, val):
+    mu, sd = SCALE[k]
+    return (val - mu) / sd if val is not None else None
+
+def run(strategy, cut=None, gain=0.6, seed=0):
+    cut = int(N * CUT_RATIO) if cut is None else cut
+    base = {k: statistics.fmean([r[k] for r in rec[:8] if r[k] is not None]) for k in VARS}
+    x = {k: (rec[0][k] if rec[0][k] is not None else base[k]) for k in VARS}
+    hist = {k: [] for k in VARS}
+    dev_pre, dev_post = [], []
+    for t in range(N):
+        supplied = (t < cut)
+        for k in VARS:
+            obs = rec[t][k] if supplied else None
+            if obs is not None:
+                x[k] = obs                      # 真实读数覆盖
+                hist[k].append((t, obs))
+            # ---- 调节 ----
+            if strategy == 'none':
+                pass
+            elif strategy == 'reactive':
+                if obs is not None:             # 断供后无读数 -> 无补给
+                    x[k] += gain * (base[k] - x[k])
+            elif strategy == 'predictive':
+                if obs is not None:
+                    x[k] += gain * (base[k] - x[k])
+                else:
+                    # 只用【断供前】的历史做线性外推，禁止偷看断供后真值
+                    pre = [(tt, vv) for tt, vv in hist[k] if tt < cut]
+                    if len(pre) >= 2:
+                        n = len(pre)
+                        sx = sum(p[0] for p in pre); sy = sum(p[1] for p in pre)
+                        sxx = sum(p[0]**2 for p in pre); sxy = sum(p[0]*p[1] for p in pre)
+                        den = n*sxx - sx*sx
+                        slope = (n*sxy - sx*sy)/den if den else 0.0
+                        intercept = (sy - slope*sx)/n
+                        pred = slope*t + intercept
+                        x[k] += gain * (pred - x[k])
+        d = math.sqrt(sum(((x[k]-base[k])/(SCALE[k][1] or 1e-12))**2 for k in VARS))
+        (dev_pre if t < cut else dev_post).append(d)
+    return {
+        'strategy': strategy, 'cut': cut,
+        'dev_pre': statistics.fmean(dev_pre) if dev_pre else None,
+        'dev_post': statistics.fmean(dev_post) if dev_post else None,
+        'dev_end': dev_post[-1] if dev_post else None,
+        'alive': all(not math.isnan(x[k]) and abs(x[k]) < 1e18 for k in VARS),
+    }
+
+if __name__ == '__main__':
+    print('=== 119-D 应激实验（重做 118）===')
+    print(f'预录 {N} 拍真实本体觉，断供点 t={int(N*CUT_RATIO)}')
+    print('内环境变量（已排除 nrunning 量程0 / uptime+clock 钟表）:', VARS)
+    print()
+    print(f'{"策略":<12s}{"断供前偏离":>12s}{"断供后偏离":>12s}{"末态偏离":>12s}{"存活":>8s}')
+    res = {}
+    for s in ['none', 'reactive', 'predictive']:
+        r = run(s); res[s] = r
+        print(f'{s:<12s}{r["dev_pre"]:>12.4f}{r["dev_post"]:>12.4f}'
+              f'{r["dev_end"]:>12.4f}{"YES" if r["alive"] else "NO":>8s}')
+    json.dump(res, open('stress_result.json','w'), indent=1)

@@ -1,1 +1,70 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliIGltcG9ydCBmb250X21hbmFnZXIKZm9yIGYgaW4gWyJXZW5RdWFuWWkgTWljcm8gSGVpIiwiTm90byBTYW5zIENKSyBTQyIsIlNpbUhlaSJdOgogICAgdHJ5OgogICAgICAgIGZvbnRfbWFuYWdlci5maW5kZm9udChmLCBmYWxsYmFja190b19kZWZhdWx0PUZhbHNlKTsgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXT1bZl07IGJyZWFrCiAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl09RmFsc2UKCnI9anNvbi5sb2FkKG9wZW4oInJlc3VsdDE4Ny5qc29uIixlbmNvZGluZz0idXRmLTgiKSkKcmI9anNvbi5sb2FkKG9wZW4oInJvYnVzdDE4Ny5qc29uIixlbmNvZGluZz0idXRmLTgiKSkKTD1yWyJsYXllcnMiXTsgTT1yWyJtYXRjaGVkX2NvbnRyb2wiXTsgRD1yWyJjdW1fdnNfbWF0Y2hlZCJdCmxhYj1bYVsibGFiZWwiXS5zcGxpdCgiICIpWzBdIGZvciBhIGluIExdCng9cmFuZ2UobGVuKEwpKQoKZmlnLGF4PXBsdC5zdWJwbG90cygyLDIsZmlnc2l6ZT0oMTMsOSkpCgojIEEg6aKE5rWLICYg57qg6ZSZCmE9YXhbMCwwXQphLnBsb3QoeCxbZVsiQzJf6aKE5rWLKOacquingei/hykiXSBmb3IgZSBpbiBMXSwiby0iLGNvbG9yPSIjYzAzOTJiIixsdz0yLGxhYmVsPSJDMiDpooTmtYvvvIjmnKrop4Hov4fvvIkiKQphLnBsb3QoeCxbZVsiQzNf57qg6ZSZQVVDIl0gZm9yIGUgaW4gTF0sInMtIixjb2xvcj0iIzI5ODBiOSIsbHc9MixsYWJlbD0iQzMg57qg6ZSZIEFVQyIpCmEuYXhobGluZSgwLjUsbHM9Ii0tIixjPSJncmF5Iixsdz0xKQphLnRleHQoMC4xLDAuNTIsIumaj+acuuWfuue6vyAwLjUgPSDlgZrkuI3liLAiLGZvbnRzaXplPTgsY29sb3I9ImdyYXkiKQphLmF4dnNwYW4oMC42LDEuNixjb2xvcj0iI2YxYzQwZiIsYWxwaGE9MC4yNSkKYS50ZXh0KDEuMSwwLjk1LCLmtoznjrDngrkiLGZvbnRzaXplPTksY29sb3I9IiNiOTc3MGUiLGhhPSJjZW50ZXIiKQphLnNldF94dGlja3MobGlzdCh4KSk7IGEuc2V0X3h0aWNrbGFiZWxzKGxhYixmb250c2l6ZT05KQphLnNldF90aXRsZSgiQSDog73lipvlnKjlj6DliLAgTDIg5pe26LeD5Ye6Iixmb250c2l6ZT0xMSk7IGEubGVnZW5kKGZvbnRzaXplPTgpOyBhLmdyaWQoYWxwaGE9LjMpCgojIEIg5Y6L57ypICYg5aSN546wCmI9YXhbMCwxXQpiLnBsb3QoeCxbZVsiQzRf5Y6L57ypYml0cyJdIGZvciBlIGluIExdLCJvLSIsY29sb3I9IiM4ZTQ0YWQiLGx3PTIsbGFiZWw9IkM0IOWOi+e8qSBiaXRz77yI6LaK5L2O6LaK5by677yJIikKYi5heGhsaW5lKHJbImJhc2VsaW5lIl1bInVuaWZvcm1fYml0cyJdLGxzPSItLSIsYz0iZ3JheSIsbHc9MSkKYi50ZXh0KDAuMSxyWyJiYXNlbGluZSJdWyJ1bmlmb3JtX2JpdHMiXSswLjYsIuWdh+WMgOWfuue6vyA3LjU0Iixmb250c2l6ZT04LGNvbG9yPSJncmF5IikKYi5zZXRfeWxhYmVsKCJiaXRzL+Wtl+espiIsZm9udHNpemU9OSkKYjI9Yi50d2lueCgpCmIyLnBsb3QoeCxbZVsiQzFf5aSN546wKOiHqui6qykiXSBmb3IgZSBpbiBMXSwiXi0tIixjb2xvcj0iIzE2YTA4NSIsbHc9MS42LGxhYmVsPSJDMSDlpI3njrDoh6rouqsiKQpiMi5zZXRfeWxhYmVsKCLlpI3njrDnjociLGZvbnRzaXplPTkpOyBiMi5zZXRfeWxpbSgwLjYsMS4wKQpiLnNldF94dGlja3MobGlzdCh4KSk7IGIuc2V0X3h0aWNrbGFiZWxzKGxhYixmb250c2l6ZT05KQpiLnNldF90aXRsZSgiQiDljovnvKnovazmraMgdnMg6K6w5b+G5LiL6ZmN77yI5p2D6KGh77yJIixmb250c2l6ZT0xMSkKYi5ncmlkKGFscGhhPS4zKQpoMSxsMT1iLmdldF9sZWdlbmRfaGFuZGxlc19sYWJlbHMoKTsgaDIsbDI9YjIuZ2V0X2xlZ2VuZF9oYW5kbGVzX2xhYmVscygpCmIubGVnZW5kKGgxK2gyLGwxK2wyLGZvbnRzaXplPTgsbG9jPSJjZW50ZXIgcmlnaHQiKQoKIyBDIOe0r+enryB2cyDlkIzph4/pmo/mnLoKYz1heFsxLDBdCmFjYz1bZVsiQzJf6aKE5rWLKOacquingei/hykiXSBmb3IgZSBpbiBMXTsgbWFjYz1bZVsiQzJf6aKE5rWLKOacquingei/hykiXSBmb3IgZSBpbiBNXQp3PTAuMzgKYy5iYXIoW2ktdy8yIGZvciBpIGluIHhdLGFjYyx3LGxhYmVsPSLntK/np6/lj6DliqAiLGNvbG9yPSIjYzAzOTJiIikKYy5iYXIoW2krdy8yIGZvciBpIGluIHhdLG1hY2MsdyxsYWJlbD0i5ZCM6YeP6ZqP5py65a+554WnIixjb2xvcj0iIzk1YTVhNiIpCmZvciBpIGluIHJhbmdlKGxlbih4KSk6CiAgICBkPWFjY1tpXS1tYWNjW2ldCiAgICBpZiBhYnMoZCk+MC4wMTogYy50ZXh0KGksbWF4KGFjY1tpXSxtYWNjW2ldKSswLjAyLGYizpR7ZDorLjNmfSIsaGE9ImNlbnRlciIsZm9udHNpemU9Ny41KQpjLnNldF94dGlja3MobGlzdCh4KSk7IGMuc2V0X3h0aWNrbGFiZWxzKGxhYixmb250c2l6ZT05KQpjLnNldF90aXRsZSgiQyDkuI3og73ooqsn5pWw5o2u5Y+Y5aSaJ+ino+mHiueahOmDqOWIhiIsZm9udHNpemU9MTEpOyBjLmxlZ2VuZChmb250c2l6ZT04KTsgYy5ncmlkKGFscGhhPS4zLGF4aXM9InkiKQoKIyBEIOeos+WBpeaApwpkPWF4WzEsMV0KZm9yIHJvdyBpbiByYjoKICAgIGtzPVtyb3dba11bImFjYyJdIGZvciBrIGluIFsiTDAiLCJMMSIsIkwyIiwiTDMiXV0KICAgIGQucGxvdChbIkwwIiwiTDEiLCJMMiIsIkwzIl0sa3MsIm8tIixhbHBoYT0uNDUsbHc9MS4yLAogICAgICAgICAgIGxhYmVsPWYiaz17cm93WydrbWF4J119IHM9e3Jvd1snc2VlZCddfSIgaWYgcm93WyJrbWF4Il09PTMgYW5kIHJvd1sic2VlZCJdPT00MiBlbHNlIE5vbmUpCmQuc2V0X3RpdGxlKGYiRCDnqLPlgaXmgKfvvJp7bGVuKHJiKX0ve2xlbihyYil9IOe7hOWkjeeOsCBMMeKGkkwyIOmYtui3gyIsZm9udHNpemU9MTEpCmQuc2V0X3lsYWJlbCgiQzIg6aKE5rWL5YeG56Gu546HIixmb250c2l6ZT05KTsgZC5ncmlkKGFscGhhPS4zKTsgZC5sZWdlbmQoZm9udHNpemU9OCkKCnBsdC5zdXB0aXRsZSgiMTg3IOWPoOWKoOeKtuaAgeaXtumVv+WHuuiDveWKm++8mua2jOeOsOeCuSBMMeKGkkwy77yM6aWx5ZKM54K5IEw0IOS5i+WQjiIsZm9udHNpemU9MTMpCnBsdC50aWdodF9sYXlvdXQocmVjdD1bMCwwLDEsMC45Nl0pCnBsdC5zYXZlZmlnKCJyZW5kZXIxODcucG5nIixkcGk9MTMwKQpwcmludCgib2siKQo=
+# -*- coding: utf-8 -*-
+import json, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+for f in ["WenQuanYi Micro Hei","Noto Sans CJK SC","SimHei"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False); plt.rcParams["font.sans-serif"]=[f]; break
+    except Exception: pass
+plt.rcParams["axes.unicode_minus"]=False
+
+r=json.load(open("result187.json",encoding="utf-8"))
+rb=json.load(open("robust187.json",encoding="utf-8"))
+L=r["layers"]; M=r["matched_control"]; D=r["cum_vs_matched"]
+lab=[a["label"].split(" ")[0] for a in L]
+x=range(len(L))
+
+fig,ax=plt.subplots(2,2,figsize=(13,9))
+
+# A 预测 & 纠错
+a=ax[0,0]
+a.plot(x,[e["C2_预测(未见过)"] for e in L],"o-",color="#c0392b",lw=2,label="C2 预测（未见过）")
+a.plot(x,[e["C3_纠错AUC"] for e in L],"s-",color="#2980b9",lw=2,label="C3 纠错 AUC")
+a.axhline(0.5,ls="--",c="gray",lw=1)
+a.text(0.1,0.52,"随机基线 0.5 = 做不到",fontsize=8,color="gray")
+a.axvspan(0.6,1.6,color="#f1c40f",alpha=0.25)
+a.text(1.1,0.95,"涌现点",fontsize=9,color="#b9770e",ha="center")
+a.set_xticks(list(x)); a.set_xticklabels(lab,fontsize=9)
+a.set_title("A 能力在叠到 L2 时跃出",fontsize=11); a.legend(fontsize=8); a.grid(alpha=.3)
+
+# B 压缩 & 复现
+b=ax[0,1]
+b.plot(x,[e["C4_压缩bits"] for e in L],"o-",color="#8e44ad",lw=2,label="C4 压缩 bits（越低越强）")
+b.axhline(r["baseline"]["uniform_bits"],ls="--",c="gray",lw=1)
+b.text(0.1,r["baseline"]["uniform_bits"]+0.6,"均匀基线 7.54",fontsize=8,color="gray")
+b.set_ylabel("bits/字符",fontsize=9)
+b2=b.twinx()
+b2.plot(x,[e["C1_复现(自身)"] for e in L],"^--",color="#16a085",lw=1.6,label="C1 复现自身")
+b2.set_ylabel("复现率",fontsize=9); b2.set_ylim(0.6,1.0)
+b.set_xticks(list(x)); b.set_xticklabels(lab,fontsize=9)
+b.set_title("B 压缩转正 vs 记忆下降（权衡）",fontsize=11)
+b.grid(alpha=.3)
+h1,l1=b.get_legend_handles_labels(); h2,l2=b2.get_legend_handles_labels()
+b.legend(h1+h2,l1+l2,fontsize=8,loc="center right")
+
+# C 累积 vs 同量随机
+c=ax[1,0]
+acc=[e["C2_预测(未见过)"] for e in L]; macc=[e["C2_预测(未见过)"] for e in M]
+w=0.38
+c.bar([i-w/2 for i in x],acc,w,label="累积叠加",color="#c0392b")
+c.bar([i+w/2 for i in x],macc,w,label="同量随机对照",color="#95a5a6")
+for i in range(len(x)):
+    d=acc[i]-macc[i]
+    if abs(d)>0.01: c.text(i,max(acc[i],macc[i])+0.02,f"Δ{d:+.3f}",ha="center",fontsize=7.5)
+c.set_xticks(list(x)); c.set_xticklabels(lab,fontsize=9)
+c.set_title("C 不能被'数据变多'解释的部分",fontsize=11); c.legend(fontsize=8); c.grid(alpha=.3,axis="y")
+
+# D 稳健性
+d=ax[1,1]
+for row in rb:
+    ks=[row[k]["acc"] for k in ["L0","L1","L2","L3"]]
+    d.plot(["L0","L1","L2","L3"],ks,"o-",alpha=.45,lw=1.2,
+           label=f"k={row['kmax']} s={row['seed']}" if row["kmax"]==3 and row["seed"]==42 else None)
+d.set_title(f"D 稳健性：{len(rb)}/{len(rb)} 组复现 L1→L2 阶跃",fontsize=11)
+d.set_ylabel("C2 预测准确率",fontsize=9); d.grid(alpha=.3); d.legend(fontsize=8)
+
+plt.suptitle("187 叠加状态时长出能力：涌现点 L1→L2，饱和点 L4 之后",fontsize=13)
+plt.tight_layout(rect=[0,0,1,0.96])
+plt.savefig("render187.png",dpi=130)
+print("ok")

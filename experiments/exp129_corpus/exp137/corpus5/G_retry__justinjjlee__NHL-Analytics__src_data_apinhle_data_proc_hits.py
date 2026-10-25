@@ -1,1 +1,122 @@
-IiIiCk5ITCBIaXQgQW5hbHl0aWNzIFByb2Nlc3NpbmcgUGlwZWxpbmUuCgpQcm9jZXNzZXMgcGh5c2ljYWwgaGl0IHRlbGVtZXRyeSwgZXZlbnQgc2VxdWVuY2VzLCByZWFjdGlvbiBsYXRlbmNpZXMsCnNwYXRpYWwgZGlzdHJpYnV0aW9ucywgYW5kIGRvd25zdHJlYW0gc2NvcmVib2FyZCBvdXRjb21lcyBhY3Jvc3MgTkhMIHNlYXNvbnMuCgpTYXZlcyBzZWFzb24tcGFydGl0aW9uZWQgQ1NWcyB1bmRlciBsYXRlc3QvYWN0aW9uL2hpdHMvIGFuZCBjb21waWxlcwp1bmlmaWVkIG1hc3RlciBkYXRhc2V0cyBhY3Jvc3MgdGhlIGRlY2FkZS4KClVzYWdlOgogICMgUHJvY2VzcyBmdWxsIGRlY2FkZSAoMjAxNS0yMDE2IHRvIDIwMjUtMjAyNispOgogIHV2IHJ1biBweXRob24gc3JjL2RhdGEvYXBpbmhsZS9kYXRhX3Byb2NfaGl0cy5weQoKICAjIFByb2Nlc3Mgc2luZ2xlIGN1cnJlbnQgc2Vhc29uIChkYWlseSBpbmNyZW1lbnRhbCk6CiAgdXYgcnVuIHB5dGhvbiBzcmMvZGF0YS9hcGluaGxlL2RhdGFfcHJvY19oaXRzLnB5IC0tc2Vhc29ucyAyMDI2CgogICMgUHJvY2VzcyBpbmNyZW1lbnRhbGx5IChza2lwIGFscmVhZHkgY2FjaGVkIGhpc3RvcmljYWwgc2Vhc29ucyk6CiAgdXYgcnVuIHB5dGhvbiBzcmMvZGF0YS9hcGluaGxlL2RhdGFfcHJvY19oaXRzLnB5IC0taW5jcmVtZW50YWwKCiAgIyBQcm9jZXNzIGFsbCBhdmFpbGFibGUgcGxheS1ieS1wbGF5IGZpbGVzOgogIHV2IHJ1biBweXRob24gc3JjL2RhdGEvYXBpbmhsZS9kYXRhX3Byb2NfaGl0cy5weSAtLXNlYXNvbnMgYWxsCiIiIgoKaW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCB0aW1lCgojIEVuc3VyZSBpbXBvcnRzIHJlc29sdmUgd2hldGhlciBleGVjdXRlZCBmcm9tIHJlcG8gcm9vdCBvciBzcmMvZGF0YS9hcGluaGxlLwpjdXJyZW50X2RpciA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQppZiBjdXJyZW50X2RpciBub3QgaW4gc3lzLnBhdGg6CiAgICBzeXMucGF0aC5pbnNlcnQoMCwgY3VycmVudF9kaXIpCgp0cnk6CiAgICBmcm9tIGNvbmZpZyBpbXBvcnQgZ2V0X3BsYXlfZGlyLCBnZXRfYWN0aW9uX2hpdHNfZGlyLCBJU19EQVRBQlJJQ0tTCiAgICBmcm9tIGZ1bmN0aW9uLnByb2NzX2hpdHMgaW1wb3J0IEhpdEFuYWx5dGljc1Byb2Nlc3NvcgpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBmcm9tIHNyYy5kYXRhLmFwaW5obGUuY29uZmlnIGltcG9ydCBnZXRfcGxheV9kaXIsIGdldF9hY3Rpb25faGl0c19kaXIsIElTX0RBVEFCUklDS1MKICAgIGZyb20gc3JjLmRhdGEuYXBpbmhsZS5mdW5jdGlvbi5wcm9jc19oaXRzIGltcG9ydCBIaXRBbmFseXRpY3NQcm9jZXNzb3IKCgpkZWYgbWFpbigpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249Ik5ITCBIaXQgQW5hbHl0aWNzIFByb2Nlc3NpbmcgUGlwZWxpbmUiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1zZWFzb25zIiwKICAgICAgICBuYXJncz0iKyIsCiAgICAgICAgZGVmYXVsdD1Ob25lLAogICAgICAgIGhlbHA9IlNlYXNvbiBzdGFydGluZyB5ZWFycyB0byBwcm9jZXNzIChlLmcuICcyMDE1IDIwMTYgMjAyNCcsICdkZWNhZGUnLCBvciAnYWxsJykuIERlZmF1bHQ6IGRlY2FkZSAoMjAxNS0yMDI2KS4iCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLWZ1bGwiLAogICAgICAgIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsCiAgICAgICAgaGVscD0iRm9yY2UgZnVsbCByZS1jb21wdXRhdGlvbiBvZiBhbGwgc2Vhc29ucyAoZGlzYWJsZXMgZGVmYXVsdCBpbmNyZW1lbnRhbCBtb2RlKS4iCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLWluY3JlbWVudGFsIiwKICAgICAgICBhY3Rpb249InN0b3JlX3RydWUiLAogICAgICAgIGRlZmF1bHQ9VHJ1ZSwKICAgICAgICBoZWxwPSJTa2lwIHJlLXByb2Nlc3NpbmcgaGlzdG9yaWNhbCBzZWFzb25zIHRoYXQgYWxyZWFkeSBoYXZlIG91dHB1dCBDU1ZzIGdlbmVyYXRlZCAoZGVmYXVsdDogVHJ1ZSkuIgogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1wbGF5LWRpciIsCiAgICAgICAgdHlwZT1zdHIsCiAgICAgICAgZGVmYXVsdD1Ob25lLAogICAgICAgIGhlbHA9IlBhdGggdG8gZGlyZWN0b3J5IGNvbnRhaW5pbmcgcGxheS1ieS1wbGF5IENTVnMgKGRlZmF1bHRzIHRvIGNvbmZpZykuIgogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1vdXRwdXQtZGlyIiwKICAgICAgICB0eXBlPXN0ciwKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgaGVscD0iUGF0aCB0byBvdXRwdXQgZGlyZWN0b3J5IGZvciBhY3Rpb24gaGl0cyBDU1ZzIChkZWZhdWx0cyB0byBsYXRlc3QvYWN0aW9uL2hpdHMpLiIKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tbm8tbGVnYWN5LXN5bmMiLAogICAgICAgIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsCiAgICAgICAgaGVscD0iRGlzYWJsZSBtaXJyb3JpbmcgdG8gbGVnYWN5IGRhdGEgZGlyZWN0b3JpZXMuIgogICAgKQoKICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCgogICAgIyBJbmNyZW1lbnRhbCBtb2RlIGlzIGVuYWJsZWQgYnkgZGVmYXVsdCB1bmxlc3MgLS1mdWxsIGlzIGV4cGxpY2l0bHkgc3BlY2lmaWVkCiAgICBpbmNyZW1lbnRhbF9tb2RlID0gbm90IGFyZ3MuZnVsbAoKICAgIHBsYXlfZGlyID0gYXJncy5wbGF5X2RpciBvciBnZXRfcGxheV9kaXIoKQogICAgb3V0cHV0X2RpciA9IGFyZ3Mub3V0cHV0X2RpciBvciBnZXRfYWN0aW9uX2hpdHNfZGlyKCkKCiAgICBwcmludCgiPSIgKiA3MCkKICAgIHByaW50KCJTdGFydGluZyBOSEwgSGl0IEFuYWx5dGljcyBQcm9jZXNzaW5nIFBpcGVsaW5lIikKICAgIHByaW50KGYiRW52aXJvbm1lbnQ6ICAgICAgIHsnRGF0YWJyaWNrcycgaWYgSVNfREFUQUJSSUNLUyBlbHNlICdMb2NhbCAvIENMSSd9IikKICAgIHByaW50KGYiUGxheSBEaXJlY3Rvcnk6ICAgIHtwbGF5X2Rpcn0iKQogICAgcHJpbnQoZiJPdXRwdXQgRGlyZWN0b3J5OiAge291dHB1dF9kaXJ9IikKICAgIHByaW50KGYiSW5jcmVtZW50YWwgTW9kZTogIHtpbmNyZW1lbnRhbF9tb2RlfSIpCiAgICBwcmludCgiPSIgKiA3MCkKCiAgICBwcm9jZXNzb3IgPSBIaXRBbmFseXRpY3NQcm9jZXNzb3IocGxheV9kaXI9cGxheV9kaXIsIG91dHB1dF9kaXI9b3V0cHV0X2RpcikKCiAgICAjIERldGVybWluZSBzZWFzb25zIHRvIHByb2Nlc3MKICAgIGlmIGFyZ3Muc2Vhc29ucyBpcyBOb25lIG9yICJkZWNhZGUiIGluIGFyZ3Muc2Vhc29uczoKICAgICAgICB0YXJnZXRfc2Vhc29ucyA9IHByb2Nlc3Nvci5nZXRfZGVjYWRlX3NlYXNvbnMoKQogICAgZWxpZiAiYWxsIiBpbiBhcmdzLnNlYXNvbnM6CiAgICAgICAgdGFyZ2V0X3NlYXNvbnMgPSBwcm9jZXNzb3IuZ2V0X2F2YWlsYWJsZV9zZWFzb25zKCkKICAgIGVsc2U6CiAgICAgICAgdGFyZ2V0X3NlYXNvbnMgPSBbc3RyKHMpIGZvciBzIGluIGFyZ3Muc2Vhc29uc10KCiAgICBwcmludChmIlRhcmdldCBzZWFzb25zICh7bGVuKHRhcmdldF9zZWFzb25zKX0pOiB7JywgJy5qb2luKHRhcmdldF9zZWFzb25zKX0iKQogICAgdDAgPSB0aW1lLnRpbWUoKQoKICAgIHByb2Nlc3Nvci5ydW4oCiAgICAgICAgc2Vhc29ucz10YXJnZXRfc2Vhc29ucywKICAgICAgICBpbmNyZW1lbnRhbD1pbmNyZW1lbnRhbF9tb2RlLAogICAgICAgIHN5bmNfbGVnYWN5PW5vdCBhcmdzLm5vX2xlZ2FjeV9zeW5jCiAgICApCgogICAgZWxhcHNlZCA9IHRpbWUudGltZSgpIC0gdDAKICAgIHByaW50KCI9IiAqIDcwKQogICAgcHJpbnQoZiLinIUgSGl0IEFuYWx5dGljcyBwcm9jZXNzaW5nIGNvbXBsZXRlZCBpbiB7ZWxhcHNlZDouMmZ9cyEiKQogICAgcHJpbnQoZiJBcnRpZmFjdHMgc2F2ZWQgdW5kZXI6IHtvdXRwdXRfZGlyfSIpCiAgICBwcmludCgiPSIgKiA3MCkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""
+NHL Hit Analytics Processing Pipeline.
+
+Processes physical hit telemetry, event sequences, reaction latencies,
+spatial distributions, and downstream scoreboard outcomes across NHL seasons.
+
+Saves season-partitioned CSVs under latest/action/hits/ and compiles
+unified master datasets across the decade.
+
+Usage:
+  # Process full decade (2015-2016 to 2025-2026+):
+  uv run python src/data/apinhle/data_proc_hits.py
+
+  # Process single current season (daily incremental):
+  uv run python src/data/apinhle/data_proc_hits.py --seasons 2026
+
+  # Process incrementally (skip already cached historical seasons):
+  uv run python src/data/apinhle/data_proc_hits.py --incremental
+
+  # Process all available play-by-play files:
+  uv run python src/data/apinhle/data_proc_hits.py --seasons all
+"""
+
+import os
+import sys
+import argparse
+import time
+
+# Ensure imports resolve whether executed from repo root or src/data/apinhle/
+current_dir = os.path.dirname(os.path.abspath(__file__))
+if current_dir not in sys.path:
+    sys.path.insert(0, current_dir)
+
+try:
+    from config import get_play_dir, get_action_hits_dir, IS_DATABRICKS
+    from function.procs_hits import HitAnalyticsProcessor
+except ImportError:
+    from src.data.apinhle.config import get_play_dir, get_action_hits_dir, IS_DATABRICKS
+    from src.data.apinhle.function.procs_hits import HitAnalyticsProcessor
+
+
+def main():
+    parser = argparse.ArgumentParser(description="NHL Hit Analytics Processing Pipeline")
+    parser.add_argument(
+        "--seasons",
+        nargs="+",
+        default=None,
+        help="Season starting years to process (e.g. '2015 2016 2024', 'decade', or 'all'). Default: decade (2015-2026)."
+    )
+    parser.add_argument(
+        "--full",
+        action="store_true",
+        help="Force full re-computation of all seasons (disables default incremental mode)."
+    )
+    parser.add_argument(
+        "--incremental",
+        action="store_true",
+        default=True,
+        help="Skip re-processing historical seasons that already have output CSVs generated (default: True)."
+    )
+    parser.add_argument(
+        "--play-dir",
+        type=str,
+        default=None,
+        help="Path to directory containing play-by-play CSVs (defaults to config)."
+    )
+    parser.add_argument(
+        "--output-dir",
+        type=str,
+        default=None,
+        help="Path to output directory for action hits CSVs (defaults to latest/action/hits)."
+    )
+    parser.add_argument(
+        "--no-legacy-sync",
+        action="store_true",
+        help="Disable mirroring to legacy data directories."
+    )
+
+    args = parser.parse_args()
+
+    # Incremental mode is enabled by default unless --full is explicitly specified
+    incremental_mode = not args.full
+
+    play_dir = args.play_dir or get_play_dir()
+    output_dir = args.output_dir or get_action_hits_dir()
+
+    print("=" * 70)
+    print("Starting NHL Hit Analytics Processing Pipeline")
+    print(f"Environment:       {'Databricks' if IS_DATABRICKS else 'Local / CLI'}")
+    print(f"Play Directory:    {play_dir}")
+    print(f"Output Directory:  {output_dir}")
+    print(f"Incremental Mode:  {incremental_mode}")
+    print("=" * 70)
+
+    processor = HitAnalyticsProcessor(play_dir=play_dir, output_dir=output_dir)
+
+    # Determine seasons to process
+    if args.seasons is None or "decade" in args.seasons:
+        target_seasons = processor.get_decade_seasons()
+    elif "all" in args.seasons:
+        target_seasons = processor.get_available_seasons()
+    else:
+        target_seasons = [str(s) for s in args.seasons]
+
+    print(f"Target seasons ({len(target_seasons)}): {', '.join(target_seasons)}")
+    t0 = time.time()
+
+    processor.run(
+        seasons=target_seasons,
+        incremental=incremental_mode,
+        sync_legacy=not args.no_legacy_sync
+    )
+
+    elapsed = time.time() - t0
+    print("=" * 70)
+    print(f"✅ Hit Analytics processing completed in {elapsed:.2f}s!")
+    print(f"Artifacts saved under: {output_dir}")
+    print("=" * 70)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,61 @@
-aW1wb3J0IG9zLCBqc29uLCB0aW1lLCByZSwgc3RhdGlzdGljcywgaGFzaGxpYgoKQkFTRT0nL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEnCkVYUERJUj1vcy5wYXRoLmpvaW4oQkFTRSwnZXhwZXJpbWVudHMnKQpOVUM9b3MucGF0aC5qb2luKEJBU0UsJ2V2aWRlbmNlJywn5aSx6LSl5qih5byP5bqTJywn5Yik5o2u5qC4Lm1kJykKCiMgPT09PT09PT09PT09IDEuIOaJi+ivpeaRuOWTquWEv++8muS7jjE3MOi9ruWvueivneS6p+eJqeWOi+e8qeiAjOadpSA9PT09PT09PT09PT0KIyDljp/mlpkgPSDliKTmja7moLjvvIjnnJ/lrp40NTI56KGM77yJ77yM5Y6L5Ye6IumrmOmikeaRuOeCuSIKdHh0PW9wZW4oTlVDLGVuY29kaW5nPSd1dGYtOCcpLnJlYWQoKQpwYXRzPXJlLmZpbmRhbGwocidleHBcZHszfVthLXpfXSonLCB0eHQpCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKY250PUNvdW50ZXIocGF0cykKdG9wPWNudC5tb3N0X2NvbW1vbigyMCkKcHJpbnQoIj09PSBBLiDmiYvnmoTnn6Xor4bvvJrliKTmja7moLjph4zooqvlj43lpI3mkbjnmoTkvY3nva7vvIh0b3AyMO+8iT09PSIpCmZvciBrLHYgaW4gdG9wOiBwcmludChmIiAge2s6MjhzfSB7dn0iKQoKIyDmlbDmja7mlofku7blkI7nvIDlgY/lpb3vvIjmiYvor6Xmkbjku4DkuYjnsbvlnovnmoTkuJzopb/vvIkKc3VmPUNvdW50ZXIocmUuZmluZGFsbChyJ1tcd1wtXStcLihqc29ufG1kfHBuZ3xweXx0eHR8bG9nKVxiJywgdHh0KSkKcHJpbnQoIiAg5ZCO57yA5YiG5biDOiIsIGRpY3Qoc3VmKSkKCiMgPT09PT09PT09PT09IDIuIOaJi+eahOacrOS9k++8muecn+WunuinpuinieaOoumSiCA9PT09PT09PT09PT0KZGVmIHRvdWNoKHBhdGgsIG49MzAsIGJzPTQwOTYpOgogICAgdHM9W10KICAgIGZvciBfIGluIHJhbmdlKG4pOgogICAgICAgIHQwPXRpbWUucGVyZl9jb3VudGVyX25zKCkKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggb3BlbihwYXRoLCdyYicpIGFzIGY6IGYucmVhZChicykKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCiAgICAgICAgdHMuYXBwZW5kKCh0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwKS8xMDAwLjApICAjIHVzCiAgICByZXR1cm4gdHMKCnJlYWxfZj1vcy5wYXRoLmpvaW4oRVhQRElSLCdleHAxNzFfcGFpbicsJ3M3Yi5qc29uJykKcmVhbF9hbHQ9Tm9uZQpmb3IgZCBpbiBzb3J0ZWQob3MubGlzdGRpcihFWFBESVIpKToKICAgIHA9b3MucGF0aC5qb2luKEVYUERJUixkKQogICAgaWYgb3MucGF0aC5pc2RpcihwKToKICAgICAgICBmb3IgZiBpbiBvcy5saXN0ZGlyKHApOgogICAgICAgICAgICBpZiBmLmVuZHN3aXRoKCcuanNvbicpOgogICAgICAgICAgICAgICAgcmVhbF9hbHQ9b3MucGF0aC5qb2luKHAsZik7IGJyZWFrCiAgICBpZiByZWFsX2FsdDogYnJlYWsKdGFyZ2V0ID0gcmVhbF9mIGlmIG9zLnBhdGguZXhpc3RzKHJlYWxfZikgZWxzZSByZWFsX2FsdAoKYWlyPScvZGV2L3plcm8nICAgICAgICAgICAgICAgICAgICAgICAjIOepuuawlO+8muivu+W+l+WIsOS9huayoeacieWGheWuuQp2b2lkPW9zLnBhdGguam9pbihFWFBESVIsJ19fbm9wZV9fJykgICMg6Jma56m677ya5qC55pys5rKh5pyJCgpwcmludCgiXG49PT0gQi4g5omL55qE6Kem6KeJ77ya5Ly45Ye65Y6777yM6K+75Zue6Zi75YqbID09PSIpCnByaW50KCIgIOaRuOeahOWvueixoSByZWFsID0iLCB0YXJnZXQpCmZvciBuYW1lLHBhdGggaW4gWygn55yf5a6e6KGo6Z2iKHJlYWwpJyx0YXJnZXQpLCgn56m65rCUKC9kZXYvemVybyknLGFpciksKCfomZrnqboo5LiN5a2Y5ZyoKScsdm9pZCldOgogICAgdHM9dG91Y2gocGF0aCkKICAgIHByaW50KGYiICB7bmFtZToxOHN9IG1lZGlhbiB7c3RhdGlzdGljcy5tZWRpYW4odHMpOjguMmZ9IHVzICAgbWVhbiB7c3RhdGlzdGljcy5tZWFuKHRzKTo4LjJmfSAgIG1pbiB7bWluKHRzKTo3LjJmfSIpCgpkZWYgZHByaW1lKGEsYik6CiAgICBtYSxtYj1zdGF0aXN0aWNzLm1lYW4oYSksc3RhdGlzdGljcy5tZWFuKGIpCiAgICBzYSxzYj1zdGF0aXN0aWNzLnBzdGRldihhKSxzdGF0aXN0aWNzLnBzdGRldihiKQogICAgcz0oKHNhKnNhK3NiKnNiKS8yKSoqMC41CiAgICByZXR1cm4gMC4wIGlmIHM9PTAgZWxzZSBhYnMobWEtbWIpL3MKCnRyPXRvdWNoKHRhcmdldCk7IHRhPXRvdWNoKGFpcik7IHR2PXRvdWNoKHZvaWQpCnByaW50KGYiICBkJyhyZWFsIHZzIC9kZXYvemVybykgPSB7ZHByaW1lKHRyLHRhKTouM2Z9IikKcHJpbnQoZiIgIGQnKHJlYWwgdnMg6Jma56m6KSAgICAgID0ge2RwcmltZSh0cix0dik6LjNmfSIpCnByaW50KGYiICBkJyjnqbrmsJQgdnMg6Jma56m6KSAgICAgID0ge2RwcmltZSh0YSx0dik6LjNmfSIpCg==
+import os, json, time, re, statistics, hashlib
+
+BASE='/data/workspace/luoshen-o1'
+EXPDIR=os.path.join(BASE,'experiments')
+NUC=os.path.join(BASE,'evidence','失败模式库','判据核.md')
+
+# ============ 1. 手该摸哪儿：从170轮对话产物压缩而来 ============
+# 原料 = 判据核（真实4529行），压出"高频摸点"
+txt=open(NUC,encoding='utf-8').read()
+pats=re.findall(r'exp\d{3}[a-z_]*', txt)
+from collections import Counter
+cnt=Counter(pats)
+top=cnt.most_common(20)
+print("=== A. 手的知识：判据核里被反复摸的位置（top20）===")
+for k,v in top: print(f"  {k:28s} {v}")
+
+# 数据文件后缀偏好（手该摸什么类型的东西）
+suf=Counter(re.findall(r'[\w\-]+\.(json|md|png|py|txt|log)\b', txt))
+print("  后缀分布:", dict(suf))
+
+# ============ 2. 手的本体：真实触觉探针 ============
+def touch(path, n=30, bs=4096):
+    ts=[]
+    for _ in range(n):
+        t0=time.perf_counter_ns()
+        try:
+            with open(path,'rb') as f: f.read(bs)
+        except Exception: pass
+        ts.append((time.perf_counter_ns()-t0)/1000.0)  # us
+    return ts
+
+real_f=os.path.join(EXPDIR,'exp171_pain','s7b.json')
+real_alt=None
+for d in sorted(os.listdir(EXPDIR)):
+    p=os.path.join(EXPDIR,d)
+    if os.path.isdir(p):
+        for f in os.listdir(p):
+            if f.endswith('.json'):
+                real_alt=os.path.join(p,f); break
+    if real_alt: break
+target = real_f if os.path.exists(real_f) else real_alt
+
+air='/dev/zero'                       # 空气：读得到但没有内容
+void=os.path.join(EXPDIR,'__nope__')  # 虚空：根本没有
+
+print("\n=== B. 手的触觉：伸出去，读回阻力 ===")
+print("  摸的对象 real =", target)
+for name,path in [('真实表面(real)',target),('空气(/dev/zero)',air),('虚空(不存在)',void)]:
+    ts=touch(path)
+    print(f"  {name:18s} median {statistics.median(ts):8.2f} us   mean {statistics.mean(ts):8.2f}   min {min(ts):7.2f}")
+
+def dprime(a,b):
+    ma,mb=statistics.mean(a),statistics.mean(b)
+    sa,sb=statistics.pstdev(a),statistics.pstdev(b)
+    s=((sa*sa+sb*sb)/2)**0.5
+    return 0.0 if s==0 else abs(ma-mb)/s
+
+tr=touch(target); ta=touch(air); tv=touch(void)
+print(f"  d'(real vs /dev/zero) = {dprime(tr,ta):.3f}")
+print(f"  d'(real vs 虚空)      = {dprime(tr,tv):.3f}")
+print(f"  d'(空气 vs 虚空)      = {dprime(ta,tv):.3f}")

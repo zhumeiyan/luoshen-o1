@@ -1,1 +1,85 @@
-IiIiRGFzaGJvYXJkR3JpZCBsYXlvdXQgY29tcG9uZW50LiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IEFueQoKZnJvbSBmYXN0aHRtbC5jb21tb24gaW1wb3J0IERpdgoKZnJvbSAuLi5jb3JlLl9zdGFiaWxpdHkgaW1wb3J0IGJldGEKZnJvbSAuLi5jb3JlLmJhc2UgaW1wb3J0IG1lcmdlX2NsYXNzZXMKZnJvbSAuLi5jb3JlLnJlZ2lzdHJ5IGltcG9ydCByZWdpc3Rlcgpmcm9tIC4uLmNvcmUudGhlbWUgaW1wb3J0IFVOU0VULCByZXNvbHZlX2RlZmF1bHRzCmZyb20gLi4udXRpbHMuYXR0cnMgaW1wb3J0IGNvbnZlcnRfYXR0cnMKCgpkZWYgX25vcm1hbGl6ZV9zaXplKHZhbHVlOiBzdHIgfCBpbnQgfCBmbG9hdCkgLT4gc3RyOgogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgKGludCwgZmxvYXQpKToKICAgICAgICByZXR1cm4gZiJ7dmFsdWV9cmVtIgogICAgcmV0dXJuIHZhbHVlCgoKZGVmIF9ub3JtYWxpemVfcHgodmFsdWU6IHN0ciB8IGludCB8IGZsb2F0KSAtPiBzdHI6CiAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCAoaW50LCBmbG9hdCkpOgogICAgICAgIHJldHVybiBmInt2YWx1ZX1weCIKICAgIHJldHVybiB2YWx1ZQoKCkByZWdpc3RlcihjYXRlZ29yeT0ibGF5b3V0IikKQGJldGEKZGVmIERhc2hib2FyZEdyaWQoCiAgICAqY2hpbGRyZW46IEFueSwKICAgIGNvbHM6IGludCB8IE5vbmUgPSBVTlNFVCwKICAgIGdhcDogc3RyIHwgaW50IHwgZmxvYXQgPSAxLjUsCiAgICBtaW5fY2FyZF93aWR0aDogc3RyIHwgaW50IHwgZmxvYXQgPSAyNDAsCiAgICBkZW5zZTogYm9vbCA9IEZhbHNlLAogICAgKiprd2FyZ3M6IEFueSwKKSAtPiBEaXY6CiAgICAiIiJSZXNwb25zaXZlIGRhc2hib2FyZCBncmlkIHVzaW5nIENTUyBncmlkLiIiIgogICAgY2ZnID0gcmVzb2x2ZV9kZWZhdWx0cygKICAgICAgICAiRGFzaGJvYXJkR3JpZCIsCiAgICAgICAgY29scz1jb2xzLAogICAgICAgIGdhcD1nYXAsCiAgICAgICAgbWluX2NhcmRfd2lkdGg9bWluX2NhcmRfd2lkdGgsCiAgICAgICAgZGVuc2U9ZGVuc2UsCiAgICApCiAgICBjX2NvbHMgPSBjZmcuZ2V0KCJjb2xzIiwgY29scykKICAgIGNfZ2FwID0gY2ZnLmdldCgiZ2FwIiwgZ2FwKQogICAgY19taW5fY2FyZF93aWR0aCA9IGNmZy5nZXQoIm1pbl9jYXJkX3dpZHRoIiwgbWluX2NhcmRfd2lkdGgpCiAgICBjX2RlbnNlID0gY2ZnLmdldCgiZGVuc2UiLCBkZW5zZSkKCiAgICBpZiBjX2NvbHMgaXMgbm90IE5vbmUgYW5kIGNfY29scyA8IDE6CiAgICAgICAgbXNnID0gZiJjb2xzIG11c3QgYmUgPj0gMSwgZ290IHtjX2NvbHN9IgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IobXNnKQoKICAgIHN0eWxlOiBkaWN0W3N0ciwgQW55XSA9IHsKICAgICAgICAiZGlzcGxheSI6ICJncmlkIiwKICAgICAgICAiZ2FwIjogX25vcm1hbGl6ZV9zaXplKGNfZ2FwKSwKICAgIH0KCiAgICBpZiBjX2NvbHM6CiAgICAgICAgc3R5bGVbImdyaWRfdGVtcGxhdGVfY29sdW1ucyJdID0gZiJyZXBlYXQoe2NfY29sc30sIG1pbm1heCgwLCAxZnIpKSIKICAgIGVsc2U6CiAgICAgICAgc3R5bGVbImdyaWRfdGVtcGxhdGVfY29sdW1ucyJdID0gKAogICAgICAgICAgICBmInJlcGVhdChhdXRvLWZpdCwgbWlubWF4KHtfbm9ybWFsaXplX3B4KGNfbWluX2NhcmRfd2lkdGgpfSwgMWZyKSkiCiAgICAgICAgKQoKICAgIGlmIGNfZGVuc2U6CiAgICAgICAgc3R5bGVbImdyaWRfYXV0b19mbG93Il0gPSAiZGVuc2UiCgogICAgdXNlcl9zdHlsZSA9IGt3YXJncy5wb3AoInN0eWxlIiwgTm9uZSkKICAgIGlmIGlzaW5zdGFuY2UodXNlcl9zdHlsZSwgZGljdCk6CiAgICAgICAgc3R5bGUudXBkYXRlKHVzZXJfc3R5bGUpCgogICAgdXNlcl9jbHMgPSBrd2FyZ3MucG9wKCJjbHMiLCAiIikKICAgIHdyYXBwZXJfY2xzID0gbWVyZ2VfY2xhc3NlcygiZmFzdHN0cmFwLWRhc2hib2FyZC1ncmlkIiwgdXNlcl9jbHMpCgogICAga3dhcmdzWyJzdHlsZSJdID0gc3R5bGUKCiAgICBhdHRyczogZGljdFtzdHIsIEFueV0gPSB7ImNscyI6IHdyYXBwZXJfY2xzfQogICAgYXR0cnMudXBkYXRlKGNvbnZlcnRfYXR0cnMoa3dhcmdzKSkKCiAgICBpZiBpc2luc3RhbmNlKHVzZXJfc3R5bGUsIHN0cikgYW5kIHVzZXJfc3R5bGU6CiAgICAgICAgYXR0cnNbInN0eWxlIl0gPSBmInthdHRycy5nZXQoJ3N0eWxlJywgJycpfTsge3VzZXJfc3R5bGV9Ii5zdHJpcCgiOyAiKQoKICAgIHJldHVybiBEaXYoKmNoaWxkcmVuLCAqKmF0dHJzKQo=
+"""DashboardGrid layout component."""
+
+from __future__ import annotations
+
+from typing import Any
+
+from fasthtml.common import Div
+
+from ...core._stability import beta
+from ...core.base import merge_classes
+from ...core.registry import register
+from ...core.theme import UNSET, resolve_defaults
+from ...utils.attrs import convert_attrs
+
+
+def _normalize_size(value: str | int | float) -> str:
+    if isinstance(value, (int, float)):
+        return f"{value}rem"
+    return value
+
+
+def _normalize_px(value: str | int | float) -> str:
+    if isinstance(value, (int, float)):
+        return f"{value}px"
+    return value
+
+
+@register(category="layout")
+@beta
+def DashboardGrid(
+    *children: Any,
+    cols: int | None = UNSET,
+    gap: str | int | float = 1.5,
+    min_card_width: str | int | float = 240,
+    dense: bool = False,
+    **kwargs: Any,
+) -> Div:
+    """Responsive dashboard grid using CSS grid."""
+    cfg = resolve_defaults(
+        "DashboardGrid",
+        cols=cols,
+        gap=gap,
+        min_card_width=min_card_width,
+        dense=dense,
+    )
+    c_cols = cfg.get("cols", cols)
+    c_gap = cfg.get("gap", gap)
+    c_min_card_width = cfg.get("min_card_width", min_card_width)
+    c_dense = cfg.get("dense", dense)
+
+    if c_cols is not None and c_cols < 1:
+        msg = f"cols must be >= 1, got {c_cols}"
+        raise ValueError(msg)
+
+    style: dict[str, Any] = {
+        "display": "grid",
+        "gap": _normalize_size(c_gap),
+    }
+
+    if c_cols:
+        style["grid_template_columns"] = f"repeat({c_cols}, minmax(0, 1fr))"
+    else:
+        style["grid_template_columns"] = (
+            f"repeat(auto-fit, minmax({_normalize_px(c_min_card_width)}, 1fr))"
+        )
+
+    if c_dense:
+        style["grid_auto_flow"] = "dense"
+
+    user_style = kwargs.pop("style", None)
+    if isinstance(user_style, dict):
+        style.update(user_style)
+
+    user_cls = kwargs.pop("cls", "")
+    wrapper_cls = merge_classes("faststrap-dashboard-grid", user_cls)
+
+    kwargs["style"] = style
+
+    attrs: dict[str, Any] = {"cls": wrapper_cls}
+    attrs.update(convert_attrs(kwargs))
+
+    if isinstance(user_style, str) and user_style:
+        attrs["style"] = f"{attrs.get('style', '')}; {user_style}".strip("; ")
+
+    return Div(*children, **attrs)

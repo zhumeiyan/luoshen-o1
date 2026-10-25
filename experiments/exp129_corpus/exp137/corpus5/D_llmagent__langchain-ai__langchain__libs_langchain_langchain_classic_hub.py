@@ -1,1 +1,117 @@
-IiIiSW50ZXJmYWNlIHdpdGggdGhlIFtMYW5nQ2hhaW4gSHViXShodHRwczovL3NtaXRoLmxhbmdjaGFpbi5jb20vaHViKS4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gY29sbGVjdGlvbnMuYWJjIGltcG9ydCBTZXF1ZW5jZQpmcm9tIHR5cGluZyBpbXBvcnQgQW55Cgpmcm9tIGxhbmdjaGFpbl9jb3JlLl9hcGkuZGVwcmVjYXRpb24gaW1wb3J0IGRlcHJlY2F0ZWQKZnJvbSBsYW5nc21pdGggaW1wb3J0IENsaWVudCBhcyBMYW5nU21pdGhDbGllbnQKCgpAZGVwcmVjYXRlZCgKICAgIHNpbmNlPSIxLjAuNiIsCiAgICByZW1vdmFsPSIyLjAuMCIsCiAgICBtZXNzYWdlPSgKICAgICAgICAibGFuZ2NoYWluX2NsYXNzaWMuaHViLnB1c2ggaXMgZGVwcmVjYXRlZC4gVXNlIHRoZSBMYW5nU21pdGggU0RLIGluc3RlYWQuIgogICAgKSwKKQpkZWYgcHVzaCgKICAgIHJlcG9fZnVsbF9uYW1lOiBzdHIsCiAgICBvYmplY3Q6IEFueSwgICMgbm9xYTogQTAwMgogICAgKiwKICAgIGFwaV91cmw6IHN0ciB8IE5vbmUgPSBOb25lLAogICAgYXBpX2tleTogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICBwYXJlbnRfY29tbWl0X2hhc2g6IHN0ciA9ICJsYXRlc3QiLAogICAgbmV3X3JlcG9faXNfcHVibGljOiBib29sID0gRmFsc2UsCiAgICBuZXdfcmVwb19kZXNjcmlwdGlvbjogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICByZWFkbWU6IHN0ciB8IE5vbmUgPSBOb25lLAogICAgdGFnczogU2VxdWVuY2Vbc3RyXSB8IE5vbmUgPSBOb25lLAopIC0+IHN0cjoKICAgICIiIlB1c2ggYW4gb2JqZWN0IHRvIHRoZSBodWIgYW5kIHJldHVybnMgdGhlIFVSTCBpdCBjYW4gYmUgdmlld2VkIGF0IGluIGEgYnJvd3Nlci4KCiAgICBBcmdzOgogICAgICAgIHJlcG9fZnVsbF9uYW1lOiBUaGUgZnVsbCBuYW1lIG9mIHRoZSBwcm9tcHQgdG8gcHVzaCB0byBpbiB0aGUgZm9ybWF0IG9mCiAgICAgICAgICAgIGBvd25lci9wcm9tcHRfbmFtZWAgb3IgYHByb21wdF9uYW1lYC4KICAgICAgICBvYmplY3Q6IFRoZSBMYW5nQ2hhaW4gb2JqZWN0IHRvIHNlcmlhbGl6ZSBhbmQgcHVzaCB0byB0aGUgaHViLgogICAgICAgIGFwaV91cmw6IFRoZSBVUkwgb2YgdGhlIExhbmdDaGFpbiBIdWIgQVBJLiBEZWZhdWx0cyB0byB0aGUgaG9zdGVkIEFQSSBzZXJ2aWNlCiAgICAgICAgICAgIGlmIHlvdSBoYXZlIGFuIEFQSSBrZXkgc2V0LCBvciBhIGxvY2FsaG9zdCBpbnN0YW5jZSBpZiBub3QuCiAgICAgICAgYXBpX2tleTogVGhlIEFQSSBrZXkgdG8gdXNlIHRvIGF1dGhlbnRpY2F0ZSB3aXRoIHRoZSBMYW5nQ2hhaW4gSHViIEFQSS4KICAgICAgICBwYXJlbnRfY29tbWl0X2hhc2g6IFRoZSBjb21taXQgaGFzaCBvZiB0aGUgcGFyZW50IGNvbW1pdCB0byBwdXNoIHRvLiBEZWZhdWx0cwogICAgICAgICAgICB0byB0aGUgbGF0ZXN0IGNvbW1pdCBhdXRvbWF0aWNhbGx5LgogICAgICAgIG5ld19yZXBvX2lzX3B1YmxpYzogV2hldGhlciB0aGUgcHJvbXB0IHNob3VsZCBiZSBwdWJsaWMuCiAgICAgICAgbmV3X3JlcG9fZGVzY3JpcHRpb246IFRoZSBkZXNjcmlwdGlvbiBvZiB0aGUgcHJvbXB0LgogICAgICAgIHJlYWRtZTogUkVBRE1FIGNvbnRlbnQgZm9yIHRoZSByZXBvc2l0b3J5LgogICAgICAgIHRhZ3M6IFRhZ3MgdG8gYXNzb2NpYXRlIHdpdGggdGhlIHByb21wdC4KCiAgICBSZXR1cm5zOgogICAgICAgIFVSTCB3aGVyZSB0aGUgcHVzaGVkIG9iamVjdCBjYW4gYmUgdmlld2VkIGluIGEgYnJvd3Nlci4KICAgICIiIgogICAgY2xpZW50ID0gTGFuZ1NtaXRoQ2xpZW50KGFwaV91cmwsIGFwaV9rZXk9YXBpX2tleSkKICAgIHJldHVybiBjbGllbnQucHVzaF9wcm9tcHQoCiAgICAgICAgcmVwb19mdWxsX25hbWUsCiAgICAgICAgb2JqZWN0PW9iamVjdCwKICAgICAgICBwYXJlbnRfY29tbWl0X2hhc2g9cGFyZW50X2NvbW1pdF9oYXNoLAogICAgICAgIGlzX3B1YmxpYz1uZXdfcmVwb19pc19wdWJsaWMsCiAgICAgICAgZGVzY3JpcHRpb249bmV3X3JlcG9fZGVzY3JpcHRpb24sCiAgICAgICAgcmVhZG1lPXJlYWRtZSwKICAgICAgICB0YWdzPXRhZ3MsCiAgICApCgoKQGRlcHJlY2F0ZWQoCiAgICBzaW5jZT0iMS4wLjYiLAogICAgcmVtb3ZhbD0iMi4wLjAiLAogICAgbWVzc2FnZT0oCiAgICAgICAgImxhbmdjaGFpbl9jbGFzc2ljLmh1Yi5wdWxsIGlzIGRlcHJlY2F0ZWQuIFVzZSB0aGUgTGFuZ1NtaXRoIFNESyBpbnN0ZWFkLiIKICAgICksCikKZGVmIHB1bGwoCiAgICBvd25lcl9yZXBvX2NvbW1pdDogc3RyLAogICAgKiwKICAgIGluY2x1ZGVfbW9kZWw6IGJvb2wgfCBOb25lID0gTm9uZSwKICAgIGFwaV91cmw6IHN0ciB8IE5vbmUgPSBOb25lLAogICAgYXBpX2tleTogc3RyIHwgTm9uZSA9IE5vbmUsCikgLT4gQW55OgogICAgIiIiUHVsbCBhbiBvYmplY3QgZnJvbSB0aGUgaHViIGFuZCByZXR1cm5zIGl0IGFzIGEgTGFuZ0NoYWluIG9iamVjdC4KCiAgICAhISEgZGFuZ2VyICJIdWIgbWFuaWZlc3RzIGFyZSB1bnRydXN0ZWQgaW5wdXQiCgogICAgICAgIFRyZWF0IGV2ZXJ5IHByb21wdCBwdWxsZWQgZnJvbSB0aGUgaHViIGFzIHVudHJ1c3RlZCwgcmVnYXJkbGVzcyBvZgogICAgICAgIHRoZSBvd25lci4gUHVibGljIHByb21wdHMgYXV0aG9yZWQgYnkgb3RoZXIgdXNlcnMgYXJlIG9idmlvdXNseQogICAgICAgIGV4dGVybmFsIGNvbnRlbnQsIGJ1dCBwcm9tcHRzIGZyb20geW91ciBvd24gYWNjb3VudCDigJQgb3IgeW91cgogICAgICAgIG9yZ2FuaXphdGlvbidzIGFjY291bnQg4oCUIGFyZSBhbHNvIHVuc2FmZSBpZiB0aGF0IGFjY291bnQsIGEKICAgICAgICB0ZWFtbWF0ZSdzIGFjY291bnQsIG9yIHRoZSB1cHN0cmVhbSBwcm9tcHQgaGFzIGJlZW4gY29tcHJvbWlzZWQuCiAgICAgICAgQSBzaW5nbGUgbWFsaWNpb3VzIGNvbW1pdCB0byBhIHByb21wdCB5b3VyIGNvZGUgcHVsbHMgaXMgZW5vdWdoIHRvCiAgICAgICAgZXhlY3V0ZSBhdHRhY2tlci1jb250cm9sbGVkIGNvbmZpZ3VyYXRpb24gb24gZXZlcnkgbWFjaGluZSB0aGF0IHJ1bnMKICAgICAgICBgcHVsbCgpYC4KCiAgICAgICAgYHB1bGwoKWAgZGVzZXJpYWxpemVzIHRoZSBtYW5pZmVzdCB2aWEgYGxvYWQoKWAsIHNvIHRoZQogICAgICAgIGBsYW5nY2hhaW5fY29yZS5sb2FkLmxvYWRgIHRocmVhdCBtb2RlbCBhcHBsaWVzIOKAlCBhIG1hbmlmZXN0IGNhbgogICAgICAgIGludGVudGlvbmFsbHkgY29uZmlndXJlIGEgbW9kZWwgd2l0aCBhIGN1c3RvbSBiYXNlIFVSTCwgaGVhZGVycywKICAgICAgICBtb2RlbCBuYW1lLCBvciBvdGhlciBjb25zdHJ1Y3RvciBhcmd1bWVudHMuIFRoZXNlIGFyZSBzdXBwb3J0ZWQKICAgICAgICBmZWF0dXJlcywgYnV0IHRoZXkgYWxzbyBtZWFuIHRoZSBwcm9tcHQgY29udGVudHMgYXJlIGV4ZWN1dGFibGUKICAgICAgICBjb25maWd1cmF0aW9uIHJhdGhlciB0aGFuIHBsYWluIHRleHQ6IGEgY29tcHJvbWlzZWQgcHJvbXB0IGNhbgogICAgICAgIHJlZGlyZWN0IEFQSSB0cmFmZmljLCBpbmplY3QgaGVhZGVycywgb3IgdHJpZ2dlciBhcmJpdHJhcnkgY29kZSBwYXRocwogICAgICAgIGluIHRoZSBjbGFzc2VzIGl0IGluc3RhbnRpYXRlcy4KCiAgICAgICAgUHJlZmVyIHRoZSBMYW5nU21pdGggU0RLIGRpcmVjdGx5LiBJZiB5b3UgbXVzdCB1c2UgYHB1bGwoKWAsIHBpbiB0aGUKICAgICAgICBjb21taXQgaGFzaCwgYXVkaXQgdGhlIG1hbmlmZXN0IGJlZm9yZSBkZXNlcmlhbGl6aW5nLCBhbmQgbmV2ZXIgcnVuCiAgICAgICAgaXQgYWdhaW5zdCBhbiBhY2NvdW50IHdob3NlIGFjY2VzcyBjb250cm9scyB5b3UgY2Fubm90IHZvdWNoIGZvci4KCiAgICBBcmdzOgogICAgICAgIG93bmVyX3JlcG9fY29tbWl0OiBUaGUgZnVsbCBuYW1lIG9mIHRoZSBwcm9tcHQgdG8gcHVsbCBmcm9tIGluIHRoZSBmb3JtYXQgb2YKICAgICAgICAgICAgYG93bmVyL3Byb21wdF9uYW1lOmNvbW1pdF9oYXNoYCBvciBgb3duZXIvcHJvbXB0X25hbWVgCiAgICAgICAgICAgIG9yIGp1c3QgYHByb21wdF9uYW1lYCBpZiBpdCdzIHlvdXIgb3duIHByb21wdC4KICAgICAgICBpbmNsdWRlX21vZGVsOiBXaGV0aGVyIHRvIGluY2x1ZGUgdGhlIG1vZGVsIGNvbmZpZ3VyYXRpb24gaW4gdGhlIHB1bGxlZAogICAgICAgICAgICBwcm9tcHQuIFdoZW4gYFRydWVgLCB0aGUgbW9kZWwgZGVjbGFyZWQgYnkgdGhlIHByb21wdCBpcyBhbHNvCiAgICAgICAgICAgIGRlc2VyaWFsaXplZC4KICAgICAgICBhcGlfdXJsOiBUaGUgVVJMIG9mIHRoZSBMYW5nQ2hhaW4gSHViIEFQSS4gRGVmYXVsdHMgdG8gdGhlIGhvc3RlZCBBUEkgc2VydmljZQogICAgICAgICAgICBpZiB5b3UgaGF2ZSBhbiBBUEkga2V5IHNldCwgb3IgYSBsb2NhbGhvc3QgaW5zdGFuY2UgaWYgbm90LgogICAgICAgIGFwaV9rZXk6IFRoZSBBUEkga2V5IHRvIHVzZSB0byBhdXRoZW50aWNhdGUgd2l0aCB0aGUgTGFuZ0NoYWluIEh1YiBBUEkuCgogICAgUmV0dXJuczoKICAgICAgICBUaGUgcHVsbGVkIExhbmdDaGFpbiBvYmplY3QuCiAgICAiIiIKICAgIGNsaWVudCA9IExhbmdTbWl0aENsaWVudChhcGlfdXJsLCBhcGlfa2V5PWFwaV9rZXkpCiAgICByZXR1cm4gY2xpZW50LnB1bGxfcHJvbXB0KG93bmVyX3JlcG9fY29tbWl0LCBpbmNsdWRlX21vZGVsPWluY2x1ZGVfbW9kZWwpCg==
+"""Interface with the [LangChain Hub](https://smith.langchain.com/hub)."""
+
+from __future__ import annotations
+
+from collections.abc import Sequence
+from typing import Any
+
+from langchain_core._api.deprecation import deprecated
+from langsmith import Client as LangSmithClient
+
+
+@deprecated(
+    since="1.0.6",
+    removal="2.0.0",
+    message=(
+        "langchain_classic.hub.push is deprecated. Use the LangSmith SDK instead."
+    ),
+)
+def push(
+    repo_full_name: str,
+    object: Any,  # noqa: A002
+    *,
+    api_url: str | None = None,
+    api_key: str | None = None,
+    parent_commit_hash: str = "latest",
+    new_repo_is_public: bool = False,
+    new_repo_description: str | None = None,
+    readme: str | None = None,
+    tags: Sequence[str] | None = None,
+) -> str:
+    """Push an object to the hub and returns the URL it can be viewed at in a browser.
+
+    Args:
+        repo_full_name: The full name of the prompt to push to in the format of
+            `owner/prompt_name` or `prompt_name`.
+        object: The LangChain object to serialize and push to the hub.
+        api_url: The URL of the LangChain Hub API. Defaults to the hosted API service
+            if you have an API key set, or a localhost instance if not.
+        api_key: The API key to use to authenticate with the LangChain Hub API.
+        parent_commit_hash: The commit hash of the parent commit to push to. Defaults
+            to the latest commit automatically.
+        new_repo_is_public: Whether the prompt should be public.
+        new_repo_description: The description of the prompt.
+        readme: README content for the repository.
+        tags: Tags to associate with the prompt.
+
+    Returns:
+        URL where the pushed object can be viewed in a browser.
+    """
+    client = LangSmithClient(api_url, api_key=api_key)
+    return client.push_prompt(
+        repo_full_name,
+        object=object,
+        parent_commit_hash=parent_commit_hash,
+        is_public=new_repo_is_public,
+        description=new_repo_description,
+        readme=readme,
+        tags=tags,
+    )
+
+
+@deprecated(
+    since="1.0.6",
+    removal="2.0.0",
+    message=(
+        "langchain_classic.hub.pull is deprecated. Use the LangSmith SDK instead."
+    ),
+)
+def pull(
+    owner_repo_commit: str,
+    *,
+    include_model: bool | None = None,
+    api_url: str | None = None,
+    api_key: str | None = None,
+) -> Any:
+    """Pull an object from the hub and returns it as a LangChain object.
+
+    !!! danger "Hub manifests are untrusted input"
+
+        Treat every prompt pulled from the hub as untrusted, regardless of
+        the owner. Public prompts authored by other users are obviously
+        external content, but prompts from your own account — or your
+        organization's account — are also unsafe if that account, a
+        teammate's account, or the upstream prompt has been compromised.
+        A single malicious commit to a prompt your code pulls is enough to
+        execute attacker-controlled configuration on every machine that runs
+        `pull()`.
+
+        `pull()` deserializes the manifest via `load()`, so the
+        `langchain_core.load.load` threat model applies — a manifest can
+        intentionally configure a model with a custom base URL, headers,
+        model name, or other constructor arguments. These are supported
+        features, but they also mean the prompt contents are executable
+        configuration rather than plain text: a compromised prompt can
+        redirect API traffic, inject headers, or trigger arbitrary code paths
+        in the classes it instantiates.
+
+        Prefer the LangSmith SDK directly. If you must use `pull()`, pin the
+        commit hash, audit the manifest before deserializing, and never run
+        it against an account whose access controls you cannot vouch for.
+
+    Args:
+        owner_repo_commit: The full name of the prompt to pull from in the format of
+            `owner/prompt_name:commit_hash` or `owner/prompt_name`
+            or just `prompt_name` if it's your own prompt.
+        include_model: Whether to include the model configuration in the pulled
+            prompt. When `True`, the model declared by the prompt is also
+            deserialized.
+        api_url: The URL of the LangChain Hub API. Defaults to the hosted API service
+            if you have an API key set, or a localhost instance if not.
+        api_key: The API key to use to authenticate with the LangChain Hub API.
+
+    Returns:
+        The pulled LangChain object.
+    """
+    client = LangSmithClient(api_url, api_key=api_key)
+    return client.pull_prompt(owner_repo_commit, include_model=include_model)

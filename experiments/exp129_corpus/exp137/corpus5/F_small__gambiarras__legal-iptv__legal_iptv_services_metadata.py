@@ -1,1 +1,46 @@
-ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWV6b25lCgpmcm9tIGxlZ2FsX2lwdHYubW9kZWxzIGltcG9ydCBDaGFubmVsLCBSdW5NZXRhZGF0YQoKCmRlZiBfY291bnRfYnlfc291cmNlKGNoYW5uZWxzOiBsaXN0W0NoYW5uZWxdKSAtPiBkaWN0W3N0ciwgaW50XToKICAgIGNvdW50czogZGljdFtzdHIsIGludF0gPSB7fQoKICAgIGZvciBjaGFubmVsIGluIGNoYW5uZWxzOgogICAgICAgIGNvdW50c1tjaGFubmVsLnNvdXJjZV0gPSBjb3VudHMuZ2V0KGNoYW5uZWwuc291cmNlLCAwKSArIDEKCiAgICByZXR1cm4gY291bnRzCgoKZGVmIGJ1aWxkX3J1bl9tZXRhZGF0YSgKICAgIGFsbF9jaGFubmVsczogbGlzdFtDaGFubmVsXSwKICAgIHNlbGVjdGVkOiBsaXN0W0NoYW5uZWxdLAogICAgKiwKICAgIHNvdXJjZV9lcnJvcnM6IGRpY3Rbc3RyLCBzdHJdIHwgTm9uZSA9IE5vbmUsCiAgICBzZWxlY3RlZF9iZWZvcmVfc3RyZWFtX2ZpbHRlcjogaW50IHwgTm9uZSA9IE5vbmUsCiAgICB0aW1pbmdzX3NlY29uZHM6IGRpY3Rbc3RyLCBmbG9hdF0gfCBOb25lID0gTm9uZSwKICAgIGVwZ19hbGlhc2VzX2NvdW50OiBpbnQgPSAwLAopIC0+IFJ1bk1ldGFkYXRhOgogICAgc2VsZWN0ZWRfYmVmb3JlX2ZpbHRlciA9ICgKICAgICAgICBsZW4oc2VsZWN0ZWQpCiAgICAgICAgaWYgc2VsZWN0ZWRfYmVmb3JlX3N0cmVhbV9maWx0ZXIgaXMgTm9uZQogICAgICAgIGVsc2Ugc2VsZWN0ZWRfYmVmb3JlX3N0cmVhbV9maWx0ZXIKICAgICkKCiAgICBpbnB1dF9ieV9zb3VyY2UgPSBfY291bnRfYnlfc291cmNlKGFsbF9jaGFubmVscykKCiAgICByZXR1cm4gUnVuTWV0YWRhdGEoCiAgICAgICAgZ2VuZXJhdGVkX2F0PWRhdGV0aW1lLm5vdyh0aW1lem9uZS51dGMpLmlzb2Zvcm1hdCgpLAogICAgICAgIHRvdGFsX2lucHV0X2NoYW5uZWxzPWxlbihhbGxfY2hhbm5lbHMpLAogICAgICAgIHNlbGVjdGVkX2NoYW5uZWxzPWxlbihzZWxlY3RlZCksCiAgICAgICAgZXh0cmFfY2hhbm5lbHM9aW5wdXRfYnlfc291cmNlLmdldCgiZXh0cmEiLCAwKSwKICAgICAgICBpcHR2X29yZ19jaGFubmVscz1pbnB1dF9ieV9zb3VyY2UuZ2V0KCJpcHR2X29yZyIsIDApLAogICAgICAgIGxpdmVfc3RyZWFtX2NhdGFsb2dfY2hhbm5lbHM9aW5wdXRfYnlfc291cmNlLmdldCgibGl2ZV9zdHJlYW1fY2F0YWxvZyIsIDApLAogICAgICAgIHNvdXJjZV9lcnJvcnM9c291cmNlX2Vycm9ycyBvciB7fSwKICAgICAgICBzZWxlY3RlZF9iZWZvcmVfc3RyZWFtX2ZpbHRlcj1zZWxlY3RlZF9iZWZvcmVfZmlsdGVyLAogICAgICAgIHN0cmVhbV9maWx0ZXJlZF9jaGFubmVscz1tYXgoMCwgc2VsZWN0ZWRfYmVmb3JlX2ZpbHRlciAtIGxlbihzZWxlY3RlZCkpLAogICAgICAgIGRlZHVwbGljYXRlZF9jaGFubmVscz1tYXgoMCwgbGVuKGFsbF9jaGFubmVscykgLSBzZWxlY3RlZF9iZWZvcmVfZmlsdGVyKSwKICAgICAgICBzZWxlY3RlZF9ieV9zb3VyY2U9X2NvdW50X2J5X3NvdXJjZShzZWxlY3RlZCksCiAgICAgICAgdGltaW5nc19zZWNvbmRzPXRpbWluZ3Nfc2Vjb25kcyBvciB7fSwKICAgICAgICBlcGdfYWxpYXNlc19jb3VudD1lcGdfYWxpYXNlc19jb3VudCwKICAgICkK
+from datetime import datetime, timezone
+
+from legal_iptv.models import Channel, RunMetadata
+
+
+def _count_by_source(channels: list[Channel]) -> dict[str, int]:
+    counts: dict[str, int] = {}
+
+    for channel in channels:
+        counts[channel.source] = counts.get(channel.source, 0) + 1
+
+    return counts
+
+
+def build_run_metadata(
+    all_channels: list[Channel],
+    selected: list[Channel],
+    *,
+    source_errors: dict[str, str] | None = None,
+    selected_before_stream_filter: int | None = None,
+    timings_seconds: dict[str, float] | None = None,
+    epg_aliases_count: int = 0,
+) -> RunMetadata:
+    selected_before_filter = (
+        len(selected)
+        if selected_before_stream_filter is None
+        else selected_before_stream_filter
+    )
+
+    input_by_source = _count_by_source(all_channels)
+
+    return RunMetadata(
+        generated_at=datetime.now(timezone.utc).isoformat(),
+        total_input_channels=len(all_channels),
+        selected_channels=len(selected),
+        extra_channels=input_by_source.get("extra", 0),
+        iptv_org_channels=input_by_source.get("iptv_org", 0),
+        live_stream_catalog_channels=input_by_source.get("live_stream_catalog", 0),
+        source_errors=source_errors or {},
+        selected_before_stream_filter=selected_before_filter,
+        stream_filtered_channels=max(0, selected_before_filter - len(selected)),
+        deduplicated_channels=max(0, len(all_channels) - selected_before_filter),
+        selected_by_source=_count_by_source(selected),
+        timings_seconds=timings_seconds or {},
+        epg_aliases_count=epg_aliases_count,
+    )

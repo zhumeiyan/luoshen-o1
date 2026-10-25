@@ -1,1 +1,26 @@
-ewogICJjYXNlIjogIuaKiiB6aHVtZWl5YW4g55qE5LuT5bqT44CM57uf5LiA5a+55qCHIG9yY2hpZHPjgI3igJTigJQgb3JjaGlkcyDov5nkuKrmoIflsLrov5jmiJDnq4vlkJciLAogICJjaGFubmVsX2EiOiB7CiAgICAibGFiZWwiOiAib3JjaGlkcy5hcHAg5b2T5YmN5Y+v5pyN5Yqh54q25oCB77yIbGl2ZW5lc3PvvIkiLAogICAgInZhbHVlIjogMCwKICAgICJ1bml0IjogIuWIhi8xMDAiCiAgfSwKICAiY2hhbm5lbF9iIjogewogICAgImxhYmVsIjogIuaIkeWOn+WFiOWBh+iuvuOAjG9yY2hpZHMg5piv5LiA5Liq5Y+v5a+55qCH55qE5rS75Lqn5ZOB44CNIiwKICAgICJ2YWx1ZSI6IDEwMCwKICAgICJ1bml0IjogIuWIhi8xMDAiCiAgfSwKICAidG9sZXJhbmNlIjogMCwKICAicGFyYW1zIjogWwogICAgeyJuYW1lIjogIk9yY2hpZHMg5Zui6ZifIDIwMjYtMDctMDcg5Yqg5YWlIEZpZ21hIiwgInNyYyI6ICJyaWdodGFpY2hvaWNlLmNvbS90b29scy9vcmNoaWRzIn0sCiAgICB7Im5hbWUiOiAib3JjaGlkcy5hcHAgMjAyNi0wNy0xOCDlgZzmnI3vvIznjrDkuLrov4Hnp7vpl6jmiLciLCAic3JjIjogInJpZ2h0YWljaG9pY2UuY29tL3Rvb2xzL29yY2hpZHMifSwKICAgIHsibmFtZSI6ICJvcmNoaWRzLmFwcCDpppbpobXku43oh6rnp7AgIzEgb24gQXBwIEJlbmNoIDc2JSIsICJzcmMiOiAid3d3Lm9yY2hpZHMuYXBwIn0sCiAgICB7Im5hbWUiOiAiQG9yY2hpZHMgR2l0SHViIOi0puWPt+aYryAyMDE2IOW5tOWBnOabtOeahOWtpuS5oOS7kyIsICJzcmMiOiAiYXBpLmdpdGh1Yi5jb20vdXNlcnMvb3JjaGlkcy9yZXBvcyJ9CiAgXSwKICAiYWJsYXRpb25faW5zaWRlX21vZGVsX29ubHkiOiBmYWxzZSwKICAicmFuX3JlYWxfc3lzdGVtIjogdHJ1ZSwKICAiZGVjbGFyZWRfdW5rbm93bnMiOiBbCiAgICAib3JjaGlkcy5hcHAg6aaW6aG155qEIEFwcCBCZW5jaCA3NiUg5piv5YGc5pyN5YmN55qE5pen5qac77yM6L+Y5piv5LuN5Zyo5pu05paw77yM5oiR5LiN55+l6YGTIiwKICAgICLnlKjmiLfor7TnmoQgb3JjaGlkcyDmmK/lkKblsLHmmK8gb3JjaGlkcy5hcHDvvIzmiJHmmK/ku47kuIrkuIvmlofmjqjmlq3nmoTvvIzmsqHmnInnoa7orqTov4ciCiAgXQp9Cg==
+{
+  "case": "把 zhumeiyan 的仓库「统一对标 orchids」—— orchids 这个标尺还成立吗",
+  "channel_a": {
+    "label": "orchids.app 当前可服务状态（liveness）",
+    "value": 0,
+    "unit": "分/100"
+  },
+  "channel_b": {
+    "label": "我原先假设「orchids 是一个可对标的活产品」",
+    "value": 100,
+    "unit": "分/100"
+  },
+  "tolerance": 0,
+  "params": [
+    {"name": "Orchids 团队 2026-07-07 加入 Figma", "src": "rightaichoice.com/tools/orchids"},
+    {"name": "orchids.app 2026-07-18 停服，现为迁移门户", "src": "rightaichoice.com/tools/orchids"},
+    {"name": "orchids.app 首页仍自称 #1 on App Bench 76%", "src": "www.orchids.app"},
+    {"name": "@orchids GitHub 账号是 2016 年停更的学习仓", "src": "api.github.com/users/orchids/repos"}
+  ],
+  "ablation_inside_model_only": false,
+  "ran_real_system": true,
+  "declared_unknowns": [
+    "orchids.app 首页的 App Bench 76% 是停服前的旧榜，还是仍在更新，我不知道",
+    "用户说的 orchids 是否就是 orchids.app，我是从上下文推断的，没有确认过"
+  ]
+}

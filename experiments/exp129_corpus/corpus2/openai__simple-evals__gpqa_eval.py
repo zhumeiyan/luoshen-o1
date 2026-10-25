@@ -1,1 +1,75 @@
-IiIiCkdQUUE6IEEgR3JhZHVhdGUtTGV2ZWwgR29vZ2xlLVByb29mIFEmQSBCZW5jaG1hcmsKRGF2aWQgUmVpbiwgQmV0dHkgTGkgSG91LCBBc2EgQ29vcGVyIFN0aWNrbGFuZCwgSmFja3NvbiBQZXR0eSwgUmljaGFyZCBZdWFuemhlIFBhbmcsIEp1bGllbiBEaXJhbmksIEp1bGlhbiBNaWNoYWVsLCBTYW11ZWwgUi4gQm93bWFuCmh0dHBzOi8vYXJ4aXYub3JnL2Ficy8yMzExLjEyMDIyCiIiIgoKaW1wb3J0IHJhbmRvbQppbXBvcnQgcmUKCmltcG9ydCBwYW5kYXMKCmZyb20gLiBpbXBvcnQgY29tbW9uCmZyb20gLmNvbW1vbiBpbXBvcnQgQU5TV0VSX1BBVFRFUk5fTVVMVElDSE9JQ0UsIEhUTUxfSklOSkEsIGZvcm1hdF9tdWx0aWNob2ljZV9xdWVzdGlvbgpmcm9tIC50eXBlcyBpbXBvcnQgRXZhbCwgRXZhbFJlc3VsdCwgTWVzc2FnZUxpc3QsIFNhbXBsZXJCYXNlLCBTaW5nbGVFdmFsUmVzdWx0CgoKY2xhc3MgR1BRQUV2YWwoRXZhbCk6CiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwKICAgICAgICBuX3JlcGVhdHM6IGludCA9IDQsCiAgICAgICAgdmFyaWFudDogc3RyID0gImRpYW1vbmQiLAogICAgICAgIG51bV9leGFtcGxlczogaW50IHwgTm9uZSA9IE5vbmUsICAjIHJlc3RyaWN0IHRvIGEgc3Vic2V0IG9mIHRoZSBkYXRhIGZvciBkZWJ1Z2dpbmcKICAgICk6CiAgICAgICAgZGYgPSBwYW5kYXMucmVhZF9jc3YoCiAgICAgICAgICAgIGYiaHR0cHM6Ly9vcGVuYWlwdWJsaWMuYmxvYi5jb3JlLndpbmRvd3MubmV0L3NpbXBsZS1ldmFscy9ncHFhX3t2YXJpYW50fS5jc3YiCiAgICAgICAgKQogICAgICAgIGV4YW1wbGVzID0gW3Jvdy50b19kaWN0KCkgZm9yIF8sIHJvdyBpbiBkZi5pdGVycm93cygpXQogICAgICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oMCkKICAgICAgICBpZiBudW1fZXhhbXBsZXM6CiAgICAgICAgICAgIGFzc2VydCBuX3JlcGVhdHMgPT0gMSwgIm5fcmVwZWF0cyBvbmx5IHN1cHBvcnRlZCBmb3IgbnVtX2V4YW1wbGVzID0gTm9uZSIKICAgICAgICAgICAgZXhhbXBsZXMgPSBybmcuc2FtcGxlKGV4YW1wbGVzLCBudW1fZXhhbXBsZXMpCiAgICAgICAgZXhhbXBsZXMgPSBleGFtcGxlcyAqIG5fcmVwZWF0cwogICAgICAgIGV4YW1wbGVzID0gW2V4YW1wbGUgfCB7InBlcm11dGF0aW9uIjogcm5nLnNhbXBsZShyYW5nZSg0KSwgNCl9IGZvciBleGFtcGxlIGluIGV4YW1wbGVzXQogICAgICAgIHNlbGYuZXhhbXBsZXMgPSBleGFtcGxlcwogICAgICAgIHNlbGYubl9yZXBlYXRzID0gbl9yZXBlYXRzCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIHNhbXBsZXI6IFNhbXBsZXJCYXNlKSAtPiBFdmFsUmVzdWx0OgogICAgICAgIGRlZiBmbihyb3c6IGRpY3QpOgogICAgICAgICAgICBjaG9pY2VzID0gWwogICAgICAgICAgICAgICAgcm93WyJDb3JyZWN0IEFuc3dlciJdLAogICAgICAgICAgICAgICAgcm93WyJJbmNvcnJlY3QgQW5zd2VyIDEiXSwKICAgICAgICAgICAgICAgIHJvd1siSW5jb3JyZWN0IEFuc3dlciAyIl0sCiAgICAgICAgICAgICAgICByb3dbIkluY29ycmVjdCBBbnN3ZXIgMyJdLAogICAgICAgICAgICBdCiAgICAgICAgICAgIGNob2ljZXMgPSBbY2hvaWNlc1tpXSBmb3IgaSBpbiByb3dbInBlcm11dGF0aW9uIl1dCiAgICAgICAgICAgIGNvcnJlY3RfaW5kZXggPSBjaG9pY2VzLmluZGV4KHJvd1siQ29ycmVjdCBBbnN3ZXIiXSkKICAgICAgICAgICAgY29ycmVjdF9hbnN3ZXIgPSAiQUJDRCJbY29ycmVjdF9pbmRleF0KICAgICAgICAgICAgY2hvaWNlc19kaWN0ID0gZGljdCgKICAgICAgICAgICAgICAgIEE9Y2hvaWNlc1swXSwgQj1jaG9pY2VzWzFdLCBDPWNob2ljZXNbMl0sIEQ9Y2hvaWNlc1szXSwgUXVlc3Rpb249cm93WyJRdWVzdGlvbiJdCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJvbXB0X21lc3NhZ2VzID0gWwogICAgICAgICAgICAgICAgc2FtcGxlci5fcGFja19tZXNzYWdlKAogICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ9Zm9ybWF0X211bHRpY2hvaWNlX3F1ZXN0aW9uKGNob2ljZXNfZGljdCksIHJvbGU9InVzZXIiCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIF0KICAgICAgICAgICAgc2FtcGxlcl9yZXNwb25zZSA9IHNhbXBsZXIocHJvbXB0X21lc3NhZ2VzKQogICAgICAgICAgICByZXNwb25zZV90ZXh0ID0gc2FtcGxlcl9yZXNwb25zZS5yZXNwb25zZV90ZXh0CiAgICAgICAgICAgIGFjdHVhbF9xdWVyaWVkX3Byb21wdF9tZXNzYWdlcyA9IHNhbXBsZXJfcmVzcG9uc2UuYWN0dWFsX3F1ZXJpZWRfbWVzc2FnZV9saXN0CiAgICAgICAgICAgIG1hdGNoID0gcmUuc2VhcmNoKEFOU1dFUl9QQVRURVJOX01VTFRJQ0hPSUNFLCByZXNwb25zZV90ZXh0KQogICAgICAgICAgICBleHRyYWN0ZWRfYW5zd2VyID0gbWF0Y2guZ3JvdXAoMSkgaWYgbWF0Y2ggZWxzZSBOb25lCiAgICAgICAgICAgIHNjb3JlID0gMS4wIGlmIGV4dHJhY3RlZF9hbnN3ZXIgPT0gY29ycmVjdF9hbnN3ZXIgZWxzZSAwLjAKICAgICAgICAgICAgaHRtbCA9IGNvbW1vbi5qaW5qYV9lbnYuZnJvbV9zdHJpbmcoSFRNTF9KSU5KQSkucmVuZGVyKAogICAgICAgICAgICAgICAgcHJvbXB0X21lc3NhZ2VzPWFjdHVhbF9xdWVyaWVkX3Byb21wdF9tZXNzYWdlcywKICAgICAgICAgICAgICAgIG5leHRfbWVzc2FnZT1kaWN0KGNvbnRlbnQ9cmVzcG9uc2VfdGV4dCwgcm9sZT0iYXNzaXN0YW50IiksCiAgICAgICAgICAgICAgICBzY29yZT1zY29yZSwKICAgICAgICAgICAgICAgIGNvcnJlY3RfYW5zd2VyPWNvcnJlY3RfYW5zd2VyLAogICAgICAgICAgICAgICAgZXh0cmFjdGVkX2Fuc3dlcj1leHRyYWN0ZWRfYW5zd2VyLAogICAgICAgICAgICApCiAgICAgICAgICAgIGNvbnZvID0gYWN0dWFsX3F1ZXJpZWRfcHJvbXB0X21lc3NhZ2VzICsgW2RpY3QoY29udGVudD1yZXNwb25zZV90ZXh0LCByb2xlPSJhc3Npc3RhbnQiKV0KICAgICAgICAgICAgcmV0dXJuIFNpbmdsZUV2YWxSZXN1bHQoCiAgICAgICAgICAgICAgICBodG1sPWh0bWwsIHNjb3JlPXNjb3JlLCBjb252bz1jb252bywgbWV0cmljcz17ImNoYXJzIjogbGVuKHJlc3BvbnNlX3RleHQpfQogICAgICAgICAgICApCgogICAgICAgIHJlc3VsdHMgPSBjb21tb24ubWFwX3dpdGhfcHJvZ3Jlc3MoZm4sIHNlbGYuZXhhbXBsZXMpCiAgICAgICAgcmV0dXJuIGNvbW1vbi5hZ2dyZWdhdGVfcmVzdWx0cyhyZXN1bHRzKQo=
+"""
+GPQA: A Graduate-Level Google-Proof Q&A Benchmark
+David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian Michael, Samuel R. Bowman
+https://arxiv.org/abs/2311.12022
+"""
+
+import random
+import re
+
+import pandas
+
+from . import common
+from .common import ANSWER_PATTERN_MULTICHOICE, HTML_JINJA, format_multichoice_question
+from .types import Eval, EvalResult, MessageList, SamplerBase, SingleEvalResult
+
+
+class GPQAEval(Eval):
+    def __init__(
+        self,
+        n_repeats: int = 4,
+        variant: str = "diamond",
+        num_examples: int | None = None,  # restrict to a subset of the data for debugging
+    ):
+        df = pandas.read_csv(
+            f"https://openaipublic.blob.core.windows.net/simple-evals/gpqa_{variant}.csv"
+        )
+        examples = [row.to_dict() for _, row in df.iterrows()]
+        rng = random.Random(0)
+        if num_examples:
+            assert n_repeats == 1, "n_repeats only supported for num_examples = None"
+            examples = rng.sample(examples, num_examples)
+        examples = examples * n_repeats
+        examples = [example | {"permutation": rng.sample(range(4), 4)} for example in examples]
+        self.examples = examples
+        self.n_repeats = n_repeats
+
+    def __call__(self, sampler: SamplerBase) -> EvalResult:
+        def fn(row: dict):
+            choices = [
+                row["Correct Answer"],
+                row["Incorrect Answer 1"],
+                row["Incorrect Answer 2"],
+                row["Incorrect Answer 3"],
+            ]
+            choices = [choices[i] for i in row["permutation"]]
+            correct_index = choices.index(row["Correct Answer"])
+            correct_answer = "ABCD"[correct_index]
+            choices_dict = dict(
+                A=choices[0], B=choices[1], C=choices[2], D=choices[3], Question=row["Question"]
+            )
+            prompt_messages = [
+                sampler._pack_message(
+                    content=format_multichoice_question(choices_dict), role="user"
+                )
+            ]
+            sampler_response = sampler(prompt_messages)
+            response_text = sampler_response.response_text
+            actual_queried_prompt_messages = sampler_response.actual_queried_message_list
+            match = re.search(ANSWER_PATTERN_MULTICHOICE, response_text)
+            extracted_answer = match.group(1) if match else None
+            score = 1.0 if extracted_answer == correct_answer else 0.0
+            html = common.jinja_env.from_string(HTML_JINJA).render(
+                prompt_messages=actual_queried_prompt_messages,
+                next_message=dict(content=response_text, role="assistant"),
+                score=score,
+                correct_answer=correct_answer,
+                extracted_answer=extracted_answer,
+            )
+            convo = actual_queried_prompt_messages + [dict(content=response_text, role="assistant")]
+            return SingleEvalResult(
+                html=html, score=score, convo=convo, metrics={"chars": len(response_text)}
+            )
+
+        results = common.map_with_progress(fn, self.examples)
+        return common.aggregate_results(results)

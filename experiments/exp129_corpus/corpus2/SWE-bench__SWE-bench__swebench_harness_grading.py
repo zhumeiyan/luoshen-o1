@@ -1,1 +1,393 @@
-aW1wb3J0IHJlCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmZyb20gc3dlYmVuY2guaGFybmVzcy5jb25zdGFudHMgaW1wb3J0ICgKICAgIEFQUExZX1BBVENIX0ZBSUwsCiAgICBFTkRfVEVTVF9PVVRQVVQsCiAgICBGQUlMX1RPX0ZBSUwsCiAgICBGQUlMX1RPX1BBU1MsCiAgICBQQVNTX1RPX0ZBSUwsCiAgICBQQVNTX1RPX1BBU1MsCiAgICBSRVNFVF9GQUlMRUQsCiAgICBTVEFSVF9URVNUX09VVFBVVCwKICAgIFRFU1RTX0VSUk9SLAogICAgVEVTVFNfVElNRU9VVCwKICAgIFRFU1RfRVhJVF9DT0RFLAogICAgRXZhbFR5cGUsCiAgICBSZXNvbHZlZFN0YXR1cywKICAgIFRlc3RTdGF0dXMsCikKZnJvbSBzd2ViZW5jaC5oYXJuZXNzLmluZnJhX2ZhaWx1cmUgaW1wb3J0IFRJRVJfRU5WSVJPTk1FTlQsIGNsYXNzaWZ5X2xvZ3MKZnJvbSBzd2ViZW5jaC50eXBlcyBpbXBvcnQgVGVzdFNwZWMKZnJvbSBzd2ViZW5jaC5oYXJuZXNzLmxvZ19wYXJzZXJzIGltcG9ydCBQQVJTRVJfUkVHSVNUUlkKCgojIEV2aWRlbmNlIHRoYXQgYSB0ZXN0IHJ1bm5lciBhY3R1YWxseSBleGVjdXRlZCwgdXNlZCB0byB0ZWxsICJyYW4gd2l0aCBubyBmYWlsdXJlcyIKIyBhcGFydCBmcm9tICJuZXZlciByYW4iIHdoZW4gdGhlIHBhcnNlZCBzdGF0dXMgbWFwIGlzIGVtcHR5CiMgRXZlcnkgY291bnQgaGVyZSBtdXN0IGJlIG5vbi16ZXJvLiBBIHJ1bm5lciB0aGF0IHN0YXJ0cyBhbmQgaW1tZWRpYXRlbHkgbG9zZXMgdGhlCiMgYnJvd3NlciBzdGlsbCBwcmludHMgaXRzIHN1bW1hcnkgLS0ga2FybWEgbG9ncyAiRXhlY3V0ZWQgMCBvZiAwIiAtLSBhbmQgdW5kZXIKIyBFdmFsVHlwZS5GQUlMX09OTFkgYW4gZW1wdHkgc3RhdHVzIG1hcCBzY29yZXMgZXZlcnkgRjJQIHRlc3QgYXMgcGFzc2luZywgc28gYSB6ZXJvCiMgY291bnQgcmVhZCBhcyBldmlkZW5jZSB0dXJucyBhIHN1aXRlIHRoYXQgbmV2ZXIgcmFuIGludG8gYSByZXNvbHZlZCBpbnN0YW5jZS4KU1VJVEVfUkFOID0gcmUuY29tcGlsZSgKICAgIHIiRXhlY3V0ZWQgWzEtOV1cZCogb2YgXGQrIgogICAgciJ8VE9UQUw6IFsxLTldXGQqICg/OlNVQ0NFU1N8RkFJTEVEKSIKICAgIHIifFsxLTldXGQqIHBhc3NpbmciCiAgICByInxUZXN0czpccytbMS05XVxkKiIKICAgIHIifFRlc3QgU3VpdGVzOlxzKyg/OlxkKyBcdyssICkqWzEtOV1cZCogdG90YWwiCiAgICByInxeIyB0ZXN0cyBbMS05XVxkKiIKICAgICMgamFzbWluZSAobWFya2VkKSBwcmludHMgb25seSB0aGlzIGxpbmUgb24gYSBjbGVhbiBydW47IGl0cyBwYXJzZXIgcmVjb3JkcwogICAgIyBmYWlsdXJlcyBvbmx5LCBzbyB3aXRob3V0IGl0IGFuIGFsbC1wYXNzaW5nIHN1aXRlIGxvb2tzIGxpa2UgaXQgbmV2ZXIgcmFuCiAgICByInxbMS05XVxkKiBzcGVjcz8sIFxkKyBmYWlsdXJlcz8iCiAgICAjIG9wZW5sYXllcnMnIHJlbmRlcmluZyBoYXJuZXNzIGxvZ3MgIjxjYXNlPic6IG9rIiBwZXIgcGFzc2luZyBjYXNlIGF0CiAgICAjIC0tbG9nLWxldmVsIGluZm87IGl0IHJlY29yZHMgbm8gZmFpbHVyZXMgb3RoZXJ3aXNlLCBzbyB0aGlzIGlzIHRoZSBvbmx5CiAgICAjIHBvc2l0aXZlIGV2aWRlbmNlIGEgc2lsZW50IChhbGwtcGFzc2luZykgcnVuIGFjdHVhbGx5IGV4ZWN1dGVkCiAgICByInwnOiBvayQiLAogICAgcmUuTSwKKQoKCiMgVGhlIGV2YWwgc2NyaXB0IHJlY29yZHMgdGhlIHRlc3QgY29tbWFuZCdzIG93biBleGl0IHN0YXR1cyB1bmRlciB0aGlzIG1hcmtlciwKIyB3cml0dGVuIGFmdGVyIHRoZSBlbmQtb2Ytb3V0cHV0IG1hcmtlciBzbyBpdCBzdGF5cyBvdXRzaWRlIHRoZSBwYXJzZWQgcmVnaW9uClRFU1RfRVhJVF9DT0RFX1JFID0gcmUuY29tcGlsZShyZiJ7cmUuZXNjYXBlKFRFU1RfRVhJVF9DT0RFKX06XHMqKC0/XGQrKSIpCgoKIyBNQVJLOiBVdGlsaXR5IGZ1bmN0aW9ucwpkZWYgcGFyc2VfdGVzdF9leGl0X2NvZGUoY29udGVudDogc3RyKSAtPiBpbnQgfCBOb25lOgogICAgIiIiUmV0dXJuIHRoZSByZWNvcmRlZCB0ZXN0IGNvbW1hbmQgZXhpdCBzdGF0dXMsIG9yIE5vbmUgaWYgYWJzZW50LiIiIgogICAgbWF0Y2ggPSBURVNUX0VYSVRfQ09ERV9SRS5zZWFyY2goY29udGVudCkKICAgIHJldHVybiBpbnQobWF0Y2guZ3JvdXAoMSkpIGlmIG1hdGNoIGVsc2UgTm9uZQoKCmRlZiBfcmVzb2x2ZV9jYXNlKGNhc2U6IHN0ciwgc206IGRpY3Rbc3RyLCBzdHJdKSAtPiBzdHIgfCBOb25lOgogICAgIiIiUmV0dXJuIHRoZSBzdGF0dXMtbWFwIGtleSBmb3IgYGBjYXNlYGAsIHRvbGVyYXRpbmcgdHJ1bmNhdGVkIHBhcmFtZXRyaXplZCBpZHMuCgogICAgNjc2IGV4cGVjdGVkIGlkcyBpbiBTV0UtYmVuY2hfVmVyaWZpZWQgYXJlIHRydW5jYXRlZCBtaWQtcGFyYW1ldGVyIChpc3N1ZSAjMjkwKSwKICAgIGUuZy4gYGB0ZXN0X29naXBfZ3JhbW1hcl9mYWlsW2xvZyhwaG90b25gYC4gRm9yIHRob3NlIG9ubHksIHByZWZpeC1tYXRjaCB3aGVuIHRoZQogICAgY2FuZGlkYXRlcyBhZ3JlZSBvbiBwYXNzLXZzLWZhaWw7IGV4YWN0IGlkcyBrZWVwIGV4YWN0LW1hdGNoIHNlbWFudGljcy4gUmVxdWlyZXMKICAgIGBgW2BgIHRvIG91dG51bWJlciBgYF1gYCBzbyBmcmVlLWZvcm0gbm9uLXB5dGVzdCBuYW1lcyBuZXZlciByZWFjaCB0aGUgZmFsbGJhY2suCgogICAgVE9ETyhqb2huLWIteWFuZyk6IHdyb25nIHBsYWNlbWVudCDigJQgYSBweXRlc3QvVmVyaWZpZWQtc3BlY2lmaWMgZGF0YSBkZWZlY3QKICAgIGVuY29kZWQgaW4gZ3JhZGluZywgd2hpY2ggaXMgbWVhbnQgdG8gYmUgYmVuY2htYXJrLWFnbm9zdGljLgogICAgVE9ETyhqb2huLWIteWFuZyk6IHJlbG9jYXRlIGJ5IHJlcGFpcmluZyB0aGUgNjc2IHRydW5jYXRlZCBpZHMgaW4gYSBWZXJpZmllZAogICAgcmV2aXNpb24gKDQ3IGFyZSBhbWJpZ3VvdXMsIG5lZWRpbmcgbWFudWFsIHJlc29sdXRpb24pLCB0aGVuIGRlbGV0ZSB0aGlzLgogICAgIiIiCiAgICBpZiBjYXNlIGluIHNtOgogICAgICAgIHJldHVybiBjYXNlCiAgICBpZiBjYXNlLmNvdW50KCJbIikgPiBjYXNlLmNvdW50KCJdIik6CiAgICAgICAgbWF0Y2hlcyA9IFtrIGZvciBrIGluIHNtIGlmIGsuc3RhcnRzd2l0aChjYXNlKV0KICAgICAgICAjIFBBU1NFRCBhbmQgWEZBSUwgZ3JhZGUgaWRlbnRpY2FsbHksIHNvIGNvbXBhcmUgb3V0Y29tZSBub3QgcmF3IHN0YXR1cwogICAgICAgIHBhc3NpbmcgPSB7VGVzdFN0YXR1cy5QQVNTRUQudmFsdWUsIFRlc3RTdGF0dXMuWEZBSUwudmFsdWV9CiAgICAgICAgaWYgbWF0Y2hlcyBhbmQgbGVuKHtzbVtrXSBpbiBwYXNzaW5nIGZvciBrIGluIG1hdGNoZXN9KSA9PSAxOgogICAgICAgICAgICByZXR1cm4gbWF0Y2hlc1swXQogICAgcmV0dXJuIE5vbmUKCgpkZWYgdGVzdF9wYXNzZWQoY2FzZTogc3RyLCBzbTogZGljdFtzdHIsIHN0cl0pIC0+IGJvb2w6CiAgICBrZXkgPSBfcmVzb2x2ZV9jYXNlKGNhc2UsIHNtKQogICAgcmV0dXJuIGtleSBpcyBub3QgTm9uZSBhbmQgc21ba2V5XSBpbiBbCiAgICAgICAgVGVzdFN0YXR1cy5QQVNTRUQudmFsdWUsCiAgICAgICAgVGVzdFN0YXR1cy5YRkFJTC52YWx1ZSwKICAgIF0KCgpkZWYgdGVzdF9tYWludGFpbmVkKGNhc2U6IHN0ciwgc206IGRpY3Rbc3RyLCBzdHJdKSAtPiBib29sOgogICAgIiIiUDJQIHNlbWFudGljczogYSBza2lwcGVkIHRlc3QgaXMgbm90IGEgcmVncmVzc2lvbiwgdW5saWtlIGZvciBGMlAuIiIiCiAgICBrZXkgPSBfcmVzb2x2ZV9jYXNlKGNhc2UsIHNtKQogICAgcmV0dXJuIHRlc3RfcGFzc2VkKGNhc2UsIHNtKSBvciAoCiAgICAgICAga2V5IGlzIG5vdCBOb25lIGFuZCBzbVtrZXldID09IFRlc3RTdGF0dXMuU0tJUFBFRC52YWx1ZQogICAgKQoKCmRlZiB0ZXN0X2ZhaWxlZChjYXNlOiBzdHIsIHNtOiBkaWN0W3N0ciwgc3RyXSkgLT4gYm9vbDoKICAgIGtleSA9IF9yZXNvbHZlX2Nhc2UoY2FzZSwgc20pCiAgICByZXR1cm4ga2V5IGlzIE5vbmUgb3Igc21ba2V5XSBpbiBbCiAgICAgICAgVGVzdFN0YXR1cy5GQUlMRUQudmFsdWUsCiAgICAgICAgVGVzdFN0YXR1cy5FUlJPUi52YWx1ZSwKICAgICAgICAjIGEgc2tpcHBlZCBGMlAgdGVzdCBpcyBub3QgYSByZXNvbHV0aW9uOyB3aXRob3V0IHRoaXMsIGEgcGF0Y2ggdGhhdCBtYWtlcwogICAgICAgICMgZXZlcnkgRjJQIHRlc3Qgc2tpcCBsYW5kcyBpbiBuZWl0aGVyIGxpc3QgYW5kIHNjb3JlcyBSRVNPTFZFRF9GVUxMCiAgICAgICAgVGVzdFN0YXR1cy5TS0lQUEVELnZhbHVlLAogICAgXQoKCiMgTUFSSzogRXZhbHVhdGlvbiByZXBvcnQgZnVuY3Rpb25zCmRlZiBnZXRfbG9nc19ldmFsKHRlc3Rfc3BlYzogVGVzdFNwZWMsIGxvZ19mcDogc3RyKSAtPiB0dXBsZVtkaWN0W3N0ciwgc3RyXSwgYm9vbF06CiAgICAiIiIKICAgIFJldHJpZXZlIGV2YWx1YXRpb24gcmVzdWx0cyBmb3IgYSB0YXNrIGluc3RhbmNlIGZyb20gaXRzIGNvcnJlc3BvbmRpbmcgbG9nIGZpbGUKCiAgICBBcmdzOgogICAgICAgIGxvZ19mcCAoc3RyKTogcGF0aCB0byBsb2cgZmlsZQogICAgUmV0dXJuczoKICAgICAgICBib29sOiB3aGV0aGVyIHRoZSBwYXRjaCBhcHBsaWVkIHN1Y2Nlc3NmdWxseQogICAgICAgIGRpY3Q6IHN0YXR1cyBtYXAKCiAgICBUT0RPKGpvaG4tYi15YW5nKTogQ2hlY2sgdGhpcyBpcyB3b3JraW5nIHByb3Blcmx5Li4uCiAgICAiIiIKICAgIGxvZ19wYXJzZXIgPSBQQVJTRVJfUkVHSVNUUllbdGVzdF9zcGVjLmxvZ19wYXJzZXJdCgogICAgd2l0aCBvcGVuKGxvZ19mcCkgYXMgZjoKICAgICAgICBjb250ZW50ID0gZi5yZWFkKCkKICAgICAgICAjIFRPRE8gZml4IGNvbnN0YW50IGhlcmUKICAgICAgICBiYWRfY29kZXMgPSBsaXN0KAogICAgICAgICAgICBmaWx0ZXIoCiAgICAgICAgICAgICAgICBsYW1iZGEgeDogeCBpbiBjb250ZW50LAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgIEFQUExZX1BBVENIX0ZBSUwsCiAgICAgICAgICAgICAgICAgICAgUkVTRVRfRkFJTEVELAogICAgICAgICAgICAgICAgICAgIFRFU1RTX0VSUk9SLAogICAgICAgICAgICAgICAgICAgIFRFU1RTX1RJTUVPVVQsCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICApCiAgICAgICAgKQogICAgICAgIGlmIGJhZF9jb2RlczoKICAgICAgICAgICAgcmV0dXJuIHt9LCBGYWxzZQogICAgICAgIGVsaWYgbm90IChTVEFSVF9URVNUX09VVFBVVCBpbiBjb250ZW50IGFuZCBFTkRfVEVTVF9PVVRQVVQgaW4gY29udGVudCk6CiAgICAgICAgICAgICMgVGVzdCBwYXRjaCBkaWQgbm90IGFwcGx5IChzaG91bGQgbm90IGhhcHBlbiBhdCBhbGwpCiAgICAgICAgICAgIHJldHVybiB7fSwgRmFsc2UKCiAgICAgICAgIyBHZXQgc3RhdHVzIG1hcCBvZiBldmFsdWF0aW9uIHJlc3VsdHMKICAgICAgICBzbGljZWQgPSBjb250ZW50LnNwbGl0KFNUQVJUX1RFU1RfT1VUUFVUKVsxXS5zcGxpdChFTkRfVEVTVF9PVVRQVVQpWzBdCiAgICAgICAgc3RhdHVzX21hcCA9IGxvZ19wYXJzZXIoc2xpY2VkLCB0ZXN0X3NwZWMpCiAgICAgICAgaWYgbm90IHN0YXR1c19tYXA6CiAgICAgICAgICAgICMgU29tZSBydW5uZXJzIGVtaXQgcmVzdWx0cyBvdXRzaWRlIHRoZSBtYXJrZXJzIChzdGRvdXQvc3RkZXJyIG9yZGVyaW5nCiAgICAgICAgICAgICMgZGlmZmVycywgZS5nLiBvbiBNb2RhbCksIHNvIGZhbGwgYmFjayB0byB0aGUgd2hvbGUgbG9nIHJhdGhlciB0aGFuCiAgICAgICAgICAgICMgcmVwb3J0aW5nIGEgcnVuIHdpdGggbm8gcmVzdWx0cyBhdCBhbGwuCiAgICAgICAgICAgIHN0YXR1c19tYXAgPSBsb2dfcGFyc2VyKGNvbnRlbnQsIHRlc3Rfc3BlYykKICAgICAgICBpZiBub3Qgc3RhdHVzX21hcCBhbmQgbm90IFNVSVRFX1JBTi5zZWFyY2goY29udGVudCk6CiAgICAgICAgICAgICMgTm8gcGFyc2VkIHJlc3VsdHMgKmFuZCogbm8gc2lnbiB0aGUgc3VpdGUgcmFuOiB0aGUgcnVuIGlzIGludmFsaWQsIG5vdAogICAgICAgICAgICAjIGEgcGFzcy4gVW5kZXIgRXZhbFR5cGUuRkFJTF9PTkxZIGFuIGFic2VudCB0ZXN0IGNvdW50cyBhcyBzdWNjZXNzLCBzbwogICAgICAgICAgICAjIHdpdGhvdXQgdGhpcyBhIHN1aXRlIHRoYXQgbmV2ZXIgc3RhcnRlZCAoZS5nLiBhIGJyb3dzZXIgdGhhdCBmYWlscyB0bwogICAgICAgICAgICAjIGxhdW5jaCkgc2NvcmVzIGV2ZXJ5IEYyUCB0ZXN0IGFzIHJlc29sdmVkLgogICAgICAgICAgICByZXR1cm4ge30sIEZhbHNlCgogICAgICAgICMgQSBwYXRjaCBjYW4gcHJpbnQgaXRzIG93biAiUEFTU0VEIiBsaW5lcyAoZS5nLiBmcm9tIGEgY29uZnRlc3QucHkgaG9vayksCiAgICAgICAgIyBzbyBjcm9zcy1jaGVjayB0aGUgbG9nIGFnYWluc3QgdGhlIHRlc3QgY29tbWFuZCdzIGV4aXQgc3RhdHVzLCByZWNvcmRlZAogICAgICAgICMgYnkgdGhlIGV2YWwgc2NyaXB0LiBFeGl0aW5nIG5vbi16ZXJvIHdoaWxlIHJlcG9ydGluZyBubyBmYWlsdXJlIGF0IGFsbAogICAgICAgICMgbWVhbnMgdGhlIGxvZyBpcyBub3QgZGVzY3JpYmluZyB0aGUgcnVuIHRoYXQgYWN0dWFsbHkgaGFwcGVuZWQuCiAgICAgICAgZXhpdF9jb2RlID0gcGFyc2VfdGVzdF9leGl0X2NvZGUoY29udGVudCkKICAgICAgICBpZiAoCiAgICAgICAgICAgIGV4aXRfY29kZSBub3QgaW4gKE5vbmUsIDApCiAgICAgICAgICAgIGFuZCBzdGF0dXNfbWFwCiAgICAgICAgICAgIGFuZCBub3QgYW55KAogICAgICAgICAgICAgICAgc3RhdHVzIGluIChUZXN0U3RhdHVzLkZBSUxFRC52YWx1ZSwgVGVzdFN0YXR1cy5FUlJPUi52YWx1ZSkKICAgICAgICAgICAgICAgIGZvciBzdGF0dXMgaW4gc3RhdHVzX21hcC52YWx1ZXMoKQogICAgICAgICAgICApCiAgICAgICAgKToKICAgICAgICAgICAgcmV0dXJuIHt9LCBGYWxzZQogICAgICAgIHJldHVybiBzdGF0dXNfbWFwLCBUcnVlCgoKZGVmIGdldF9ldmFsX3Rlc3RzX3JlcG9ydCgKICAgIGV2YWxfc3RhdHVzX21hcDogZGljdFtzdHIsIHN0cl0sCiAgICBnb2xkX3Jlc3VsdHM6IGRpY3Rbc3RyLCBzdHJdLAogICAgY2FsY3VsYXRlX3RvX2ZhaWw6IGJvb2wgPSBGYWxzZSwKICAgIGV2YWxfdHlwZTogRXZhbFR5cGUgPSBFdmFsVHlwZS5QQVNTX0FORF9GQUlMLAopIC0+IGRpY3Rbc3RyLCBkaWN0W3N0ciwgbGlzdFtzdHJdXV06CiAgICAiIiIKICAgIENyZWF0ZSBhIHJlcG9ydCBiYXNlZCBvbiBmYWlsdXJlL3Bhc3MgY2hhbmdlIGZyb20gZ29sZCByZXN1bHRzIHRvIGV2YWwgcmVzdWx0cy4KCiAgICBBcmdzOgogICAgICAgIGV2YWxfc20gKGRpY3QpOiBldmFsdWF0aW9uIHN0YXR1cyBtYXAKICAgICAgICBnb2xkX3Jlc3VsdHMgKGRpY3QpOiBnb2xkIHJlc3VsdHMKICAgICAgICBjYWxjdWxhdGVfdG9fZmFpbCAoYm9vbCk6IHdoZXRoZXIgdG8gY2FsY3VsYXRlIG1ldHJpY3MgZm9yICJ4IHRvIGZhaWwiIHRlc3RzCiAgICBSZXR1cm5zOgogICAgICAgIHJlcG9ydCAoZGljdCk6IHJlcG9ydCBvZiBtZXRyaWNzCgogICAgTWV0cmljIERlZmluaXRpb25zIChHb2xkIFJlc3VsdCBQYWlyICsgRXZhbCBSZXN1bHQpOgogICAgLSBGYWlsLVBhc3MgKEYyUCkgKyBQOiBTdWNjZXNzIChSZXNvbHV0aW9uKQogICAgLSBQYXNzLVBhc3MgKFAyUCkgKyBQOiBTdWNjZXNzIChNYWludGVuYW5jZSkKICAgIC0gRmFpbC1QYXNzIChGMlApICsgRjogRmFpbHVyZQogICAgLSBQYXNzLVBhc3MgKFAyUCkgKyBGOiBGYWlsdXJlCgogICAgTWlzY2VsbGFuZW91cyBEZWZpbml0aW9ucwogICAgLSBGYWlsLUZhaWwgKEYyRikgKyBGOiBGYWlsdXJlIE1haW50ZW5hbmNlCiAgICAtIFBhc3MtRmFpbCAoUDJGKSArIEY6IE5vdCBjb25zaWRlcmVkCiAgICAtIEZhaWwtRmFpbCAoRjJGKSArIFA6IFN1Y2Nlc3MgKEV4dHJhIENyZWRpdCkKICAgIC0gUGFzcy1GYWlsIChQMkYpICsgUDogTm90IGNvbnNpZGVyZWQKICAgICIiIgoKICAgIGRlZiBjaGVja19wYXNzX2FuZF9mYWlsKHRlc3RfY2FzZSwgZXZhbF9zdGF0dXNfbWFwLCBzdWNjZXNzLCBmYWlsZWQpOgogICAgICAgIGlmIHRlc3RfcGFzc2VkKHRlc3RfY2FzZSwgZXZhbF9zdGF0dXNfbWFwKToKICAgICAgICAgICAgIyBBc3N1bWUgc2lsZW50IHN1Y2Nlc3MgZm9yIG5vdyAodGVzdCBjYXNlIG5vdCBpbiBldmFsX3NtKQogICAgICAgICAgICBzdWNjZXNzLmFwcGVuZCh0ZXN0X2Nhc2UpCiAgICAgICAgZWxpZiB0ZXN0X2ZhaWxlZCh0ZXN0X2Nhc2UsIGV2YWxfc3RhdHVzX21hcCk6CiAgICAgICAgICAgIGZhaWxlZC5hcHBlbmQodGVzdF9jYXNlKQoKICAgIGRlZiBjaGVja19tYWludGFpbmVkKHRlc3RfY2FzZSwgZXZhbF9zdGF0dXNfbWFwLCBzdWNjZXNzLCBmYWlsZWQpOgogICAgICAgIGlmIHRlc3RfbWFpbnRhaW5lZCh0ZXN0X2Nhc2UsIGV2YWxfc3RhdHVzX21hcCk6CiAgICAgICAgICAgIHN1Y2Nlc3MuYXBwZW5kKHRlc3RfY2FzZSkKICAgICAgICBlbGlmIHRlc3RfZmFpbGVkKHRlc3RfY2FzZSwgZXZhbF9zdGF0dXNfbWFwKToKICAgICAgICAgICAgZmFpbGVkLmFwcGVuZCh0ZXN0X2Nhc2UpCgogICAgZGVmIGNoZWNrX2ZhaWxfb25seSh0ZXN0X2Nhc2UsIGV2YWxfc3RhdHVzX21hcCwgc3VjY2VzcywgZmFpbGVkKToKICAgICAgICBpZiAoCiAgICAgICAgICAgIHRlc3RfY2FzZSBpbiBldmFsX3N0YXR1c19tYXAKICAgICAgICAgICAgYW5kIGV2YWxfc3RhdHVzX21hcFt0ZXN0X2Nhc2VdID09IFRlc3RTdGF0dXMuRkFJTEVELnZhbHVlCiAgICAgICAgKToKICAgICAgICAgICAgZmFpbGVkLmFwcGVuZCh0ZXN0X2Nhc2UpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc3VjY2Vzcy5hcHBlbmQodGVzdF9jYXNlKQoKICAgIGNoZWNrX3Rlc3RfY2FzZSA9ICgKICAgICAgICBjaGVja19wYXNzX2FuZF9mYWlsIGlmIGV2YWxfdHlwZSA9PSBFdmFsVHlwZS5QQVNTX0FORF9GQUlMIGVsc2UgY2hlY2tfZmFpbF9vbmx5CiAgICApCgogICAgIyBDYWxjdWxhdGUgcmVzb2x1dGlvbiBtZXRyaWNzCiAgICBmMnBfc3VjY2VzcyA9IFtdCiAgICBmMnBfZmFpbHVyZSA9IFtdCiAgICBmb3IgdGVzdF9jYXNlIGluIGdvbGRfcmVzdWx0c1tGQUlMX1RPX1BBU1NdOgogICAgICAgIGNoZWNrX3Rlc3RfY2FzZSh0ZXN0X2Nhc2UsIGV2YWxfc3RhdHVzX21hcCwgZjJwX3N1Y2Nlc3MsIGYycF9mYWlsdXJlKQoKICAgICMgQ2FsY3VsYXRlIG1haW50ZW5hbmNlIG1ldHJpY3MKICAgIGNoZWNrX3AycCA9ICgKICAgICAgICBjaGVja19tYWludGFpbmVkIGlmIGV2YWxfdHlwZSA9PSBFdmFsVHlwZS5QQVNTX0FORF9GQUlMIGVsc2UgY2hlY2tfZmFpbF9vbmx5CiAgICApCiAgICBwMnBfc3VjY2VzcyA9IFtdCiAgICBwMnBfZmFpbHVyZSA9IFtdCiAgICBmb3IgdGVzdF9jYXNlIGluIGdvbGRfcmVzdWx0c1tQQVNTX1RPX1BBU1NdOgogICAgICAgIGNoZWNrX3AycCh0ZXN0X2Nhc2UsIGV2YWxfc3RhdHVzX21hcCwgcDJwX3N1Y2Nlc3MsIHAycF9mYWlsdXJlKQoKICAgIHJlc3VsdHMgPSB7CiAgICAgICAgRkFJTF9UT19QQVNTOiB7CiAgICAgICAgICAgICJzdWNjZXNzIjogZjJwX3N1Y2Nlc3MsCiAgICAgICAgICAgICJmYWlsdXJlIjogZjJwX2ZhaWx1cmUsCiAgICAgICAgfSwKICAgICAgICBQQVNTX1RPX1BBU1M6IHsKICAgICAgICAgICAgInN1Y2Nlc3MiOiBwMnBfc3VjY2VzcywKICAgICAgICAgICAgImZhaWx1cmUiOiBwMnBfZmFpbHVyZSwKICAgICAgICB9LAogICAgfQoKICAgIGYyZl9zdWNjZXNzID0gW10KICAgIGYyZl9mYWlsdXJlID0gW10KICAgIHAyZl9zdWNjZXNzID0gW10KICAgIHAyZl9mYWlsdXJlID0gW10KICAgIGlmIGNhbGN1bGF0ZV90b19mYWlsOgogICAgICAgICMgQ2FsY3VsYXRlICJleHRyYSBjcmVkaXQiIG1ldHJpY3MKICAgICAgICBmb3IgdGVzdF9jYXNlIGluIGdvbGRfcmVzdWx0c1tGQUlMX1RPX0ZBSUxdOgogICAgICAgICAgICBjaGVja190ZXN0X2Nhc2UodGVzdF9jYXNlLCBldmFsX3N0YXR1c19tYXAsIGYyZl9zdWNjZXNzLCBmMmZfZmFpbHVyZSkKCiAgICAgICAgIyBDYWxjdWxhdGUgbm90IGNvbnNpZGVyZWQgbWV0cmljcwogICAgICAgIGZvciB0ZXN0X2Nhc2UgaW4gZ29sZF9yZXN1bHRzW1BBU1NfVE9fRkFJTF06CiAgICAgICAgICAgIGNoZWNrX3Rlc3RfY2FzZSh0ZXN0X2Nhc2UsIGV2YWxfc3RhdHVzX21hcCwgcDJmX3N1Y2Nlc3MsIHAyZl9mYWlsdXJlKQoKICAgIHJlc3VsdHMudXBkYXRlKAogICAgICAgIHsKICAgICAgICAgICAgRkFJTF9UT19GQUlMOiB7CiAgICAgICAgICAgICAgICAic3VjY2VzcyI6IGYyZl9zdWNjZXNzLAogICAgICAgICAgICAgICAgImZhaWx1cmUiOiBmMmZfZmFpbHVyZSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgUEFTU19UT19GQUlMOiB7CiAgICAgICAgICAgICAgICAic3VjY2VzcyI6IHAyZl9zdWNjZXNzLAogICAgICAgICAgICAgICAgImZhaWx1cmUiOiBwMmZfZmFpbHVyZSwKICAgICAgICAgICAgfSwKICAgICAgICB9CiAgICApCiAgICByZXR1cm4gcmVzdWx0cwoKCmRlZiBjb21wdXRlX2ZhaWxfdG9fcGFzcyhyZXBvcnQ6IGRpY3Rbc3RyLCBkaWN0W3N0ciwgQW55XV0pIC0+IGZsb2F0OgogICAgIiIiCiAgICBDb21wdXRlIGZhaWwtdG8tcGFzcyBtZXRyaWMuIEFjY2VwdHMgc2luZ2xlIHJlcG9ydCBhcyBhcmd1bWVudC4KICAgICIiIgogICAgdG90YWwgPSBsZW4ocmVwb3J0W0ZBSUxfVE9fUEFTU11bInN1Y2Nlc3MiXSkgKyBsZW4ocmVwb3J0W0ZBSUxfVE9fUEFTU11bImZhaWx1cmUiXSkKICAgIGlmIHRvdGFsID09IDA6CiAgICAgICAgcmV0dXJuIDEKICAgIHJldHVybiBsZW4ocmVwb3J0W0ZBSUxfVE9fUEFTU11bInN1Y2Nlc3MiXSkgLyB0b3RhbAoKCmRlZiBjb21wdXRlX3Bhc3NfdG9fcGFzcyhyZXBvcnQ6IGRpY3Rbc3RyLCBkaWN0W3N0ciwgQW55XV0pIC0+IGZsb2F0OgogICAgIiIiCiAgICBDb21wdXRlIHBhc3MtdG8tcGFzcyBtZXRyaWMuIEFjY2VwdHMgc2luZ2xlIHJlcG9ydCBhcyBhcmd1bWVudC4KICAgICIiIgogICAgdG90YWwgPSBsZW4ocmVwb3J0W1BBU1NfVE9fUEFTU11bInN1Y2Nlc3MiXSkgKyBsZW4ocmVwb3J0W1BBU1NfVE9fUEFTU11bImZhaWx1cmUiXSkKICAgIGlmIHRvdGFsID09IDA6CiAgICAgICAgIyBUT0RPOiBEb24ndCBmYWN0b3IgaW4gcDJwIG1ldHJpY3MKICAgICAgICByZXR1cm4gMQogICAgcmV0dXJuIGxlbihyZXBvcnRbUEFTU19UT19QQVNTXVsic3VjY2VzcyJdKSAvIHRvdGFsCgoKZGVmIGdldF9yZXNvbHV0aW9uX3N0YXR1cyhyZXBvcnQ6IGRpY3Rbc3RyLCBkaWN0W3N0ciwgQW55XV0pIC0+IHN0cjoKICAgICIiIgogICAgRGV0ZXJtaW5lIHJlc29sdmVkIHN0YXR1cyBvZiBhbiBldmFsdWF0aW9uIGluc3RhbmNlCgogICAgQ3JpdGVyaWE6CiAgICAgICAgLSBJZiBmYWlsLXRvLXBhc3MgKFJlc29sdXRpb24pID0gMSBhbmQgcGFzcy10by1wYXNzIChNYWludGVuYW5jZSkgPSAxIC0+IEZVTEwKICAgICAgICAtIElmIChmYWlsLXRvLXBhc3MgKFJlc29sdXRpb24pIDwgMSBhbmQgPiAwKSBhbmQgcGFzcy10by1wYXNzIChNYWludGVuYW5jZSkgPSAxIC0+IFBBUlRJQUwKICAgICAgICAtIE90aGVyd2lzZSAtPiBOTwogICAgIiIiCiAgICBmMnAgPSBjb21wdXRlX2ZhaWxfdG9fcGFzcyhyZXBvcnQpCiAgICBwMnAgPSBjb21wdXRlX3Bhc3NfdG9fcGFzcyhyZXBvcnQpCgogICAgaWYgZjJwID09IDEgYW5kIHAycCA9PSAxOgogICAgICAgIHJldHVybiBSZXNvbHZlZFN0YXR1cy5GVUxMLnZhbHVlCiAgICBlbGlmIGYycCA8IDEgYW5kIGYycCA+IDAgYW5kIHAycCA9PSAxOgogICAgICAgIHJldHVybiBSZXNvbHZlZFN0YXR1cy5QQVJUSUFMLnZhbHVlCiAgICBlbHNlOgogICAgICAgIHJldHVybiBSZXNvbHZlZFN0YXR1cy5OTy52YWx1ZQoKCmRlZiBnZXRfZXZhbF9yZXBvcnQoCiAgICB0ZXN0X3NwZWM6IFRlc3RTcGVjLAogICAgcHJlZGljdGlvbjogZGljdFtzdHIsIHN0cl0sCiAgICB0ZXN0X2xvZ19wYXRoOiBzdHIsCiAgICBpbmNsdWRlX3Rlc3RzX3N0YXR1czogYm9vbCwKKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICIiIgogICAgR2VuZXJhdGUgYSByZXBvcnQgb2YgbW9kZWwgZXZhbHVhdGlvbiByZXN1bHRzIGZyb20gYSBwcmVkaWN0aW9uLCB0YXNrIGluc3RhbmNlLAogICAgYW5kIGV2YWx1YXRpb24gbG9nLgoKICAgIEFyZ3M6CiAgICAgICAgdGVzdF9zcGVjIChkaWN0KTogdGVzdCBzcGVjIGNvbnRhaW5pbmcga2V5cyAiaW5zdGFuY2VfaWQiLCAiRkFJTF9UT19QQVNTIiwgYW5kICJQQVNTX1RPX1BBU1MiCiAgICAgICAgcHJlZGljdGlvbiAoZGljdCk6IHByZWRpY3Rpb24gY29udGFpbmluZyBrZXlzICJpbnN0YW5jZV9pZCIsICJtb2RlbF9uYW1lX29yX3BhdGgiLCBhbmQgIm1vZGVsX3BhdGNoIgogICAgICAgIGxvZ19wYXRoIChzdHIpOiBwYXRoIHRvIGV2YWx1YXRpb24gbG9nCiAgICAgICAgaW5jbHVkZV90ZXN0c19zdGF0dXMgKGJvb2wpOiB3aGV0aGVyIHRvIGluY2x1ZGUgdGhlIHN0YXR1cyBvZiBlYWNoIHRlc3QgaW4gdGhlIHJldHVybmVkIHJlcG9ydAogICAgUmV0dXJuczoKICAgICAgICByZXBvcnQgKGRpY3QpOiByZXBvcnQgb2YgbWV0cmljcwogICAgIiIiCiAgICByZXBvcnRfbWFwID0ge30KCiAgICBpbnN0YW5jZV9pZCA9IHByZWRpY3Rpb25bImluc3RhbmNlX2lkIl0KICAgIHJlcG9ydF9tYXBbaW5zdGFuY2VfaWRdID0gewogICAgICAgICJwYXRjaF9pc19Ob25lIjogRmFsc2UsCiAgICAgICAgInBhdGNoX2V4aXN0cyI6IEZhbHNlLAogICAgICAgICJwYXRjaF9zdWNjZXNzZnVsbHlfYXBwbGllZCI6IEZhbHNlLAogICAgICAgICJyZXNvbHZlZCI6IEZhbHNlLAogICAgICAgICJpbmZyYV9mYWlsdXJlIjogRmFsc2UsCiAgICB9CgogICAgIyBDaGVjayBpZiB0aGUgbW9kZWwgcGF0Y2ggZXhpc3RzCiAgICBpZiBwcmVkaWN0aW9uWyJtb2RlbF9wYXRjaCJdIGlzIE5vbmU6CiAgICAgICAgcmVwb3J0X21hcFtpbnN0YW5jZV9pZF1bInBhdGNoX2lzX05vbmUiXSA9IFRydWUKICAgICAgICByZXR1cm4gcmVwb3J0X21hcAogICAgcmVwb3J0X21hcFtpbnN0YW5jZV9pZF1bInBhdGNoX2V4aXN0cyJdID0gVHJ1ZQoKICAgICMgR2V0IGV2YWx1YXRpb24gbG9ncwogICAgZXZhbF9zdGF0dXNfbWFwLCBmb3VuZCA9IGdldF9sb2dzX2V2YWwodGVzdF9zcGVjLCB0ZXN0X2xvZ19wYXRoKQoKICAgIGlmIG5vdCBmb3VuZDoKICAgICAgICAjIE5vIHBhcnNlYWJsZSB0ZXN0IG91dHB1dDogZmxhZyBhIGxpa2VseSBlbnZpcm9ubWVudCBmYXVsdCBmb3IgdHJpYWdlLgogICAgICAgICMgQWR2aXNvcnkgb25seSAtLSBgcmVzb2x2ZWRgIHN0YXlzIEZhbHNlIGVpdGhlciB3YXkgKCM1ODYpLgogICAgICAgIGNsYXNzaWZpY2F0aW9uID0gY2xhc3NpZnlfbG9ncyh0ZXN0X2xvZ19wYXRoKQogICAgICAgIGlmIGNsYXNzaWZpY2F0aW9uOgogICAgICAgICAgICByZWFzb24sIHRpZXIgPSBjbGFzc2lmaWNhdGlvbgogICAgICAgICAgICByZXBvcnRfbWFwW2luc3RhbmNlX2lkXVsiaW5mcmFfZmFpbHVyZSJdID0gdGllciA9PSBUSUVSX0VOVklST05NRU5UCiAgICAgICAgICAgIHJlcG9ydF9tYXBbaW5zdGFuY2VfaWRdWyJpbmZyYV9mYWlsdXJlX3JlYXNvbiJdID0gcmVhc29uCiAgICAgICAgcmV0dXJuIHJlcG9ydF9tYXAKICAgIHJlcG9ydF9tYXBbaW5zdGFuY2VfaWRdWyJwYXRjaF9zdWNjZXNzZnVsbHlfYXBwbGllZCJdID0gVHJ1ZQoKICAgIGV2YWxfcmVmID0gewogICAgICAgICJpbnN0YW5jZV9pZCI6IHRlc3Rfc3BlYy5pbnN0YW5jZV9pZCwKICAgICAgICBGQUlMX1RPX1BBU1M6IHRlc3Rfc3BlYy5GQUlMX1RPX1BBU1MsCiAgICAgICAgUEFTU19UT19QQVNTOiB0ZXN0X3NwZWMuUEFTU19UT19QQVNTLAogICAgfQoKICAgIGV2YWxfdHlwZSA9IEV2YWxUeXBlKHRlc3Rfc3BlYy5ldmFsX3R5cGUpCgogICAgcmVwb3J0ID0gZ2V0X2V2YWxfdGVzdHNfcmVwb3J0KGV2YWxfc3RhdHVzX21hcCwgZXZhbF9yZWYsIGV2YWxfdHlwZT1ldmFsX3R5cGUpCiAgICBpZiBnZXRfcmVzb2x1dGlvbl9zdGF0dXMocmVwb3J0KSA9PSBSZXNvbHZlZFN0YXR1cy5GVUxMLnZhbHVlOgogICAgICAgIHJlcG9ydF9tYXBbaW5zdGFuY2VfaWRdWyJyZXNvbHZlZCJdID0gVHJ1ZQoKICAgIGlmIGluY2x1ZGVfdGVzdHNfc3RhdHVzOgogICAgICAgIHJlcG9ydF9tYXBbaW5zdGFuY2VfaWRdWyJ0ZXN0c19zdGF0dXMiXSA9IHJlcG9ydCAgIyB0eXBlOiBpZ25vcmUKCiAgICByZXR1cm4gcmVwb3J0X21hcAo=
+import re
+from typing import Any
+
+from swebench.harness.constants import (
+    APPLY_PATCH_FAIL,
+    END_TEST_OUTPUT,
+    FAIL_TO_FAIL,
+    FAIL_TO_PASS,
+    PASS_TO_FAIL,
+    PASS_TO_PASS,
+    RESET_FAILED,
+    START_TEST_OUTPUT,
+    TESTS_ERROR,
+    TESTS_TIMEOUT,
+    TEST_EXIT_CODE,
+    EvalType,
+    ResolvedStatus,
+    TestStatus,
+)
+from swebench.harness.infra_failure import TIER_ENVIRONMENT, classify_logs
+from swebench.types import TestSpec
+from swebench.harness.log_parsers import PARSER_REGISTRY
+
+
+# Evidence that a test runner actually executed, used to tell "ran with no failures"
+# apart from "never ran" when the parsed status map is empty
+# Every count here must be non-zero. A runner that starts and immediately loses the
+# browser still prints its summary -- karma logs "Executed 0 of 0" -- and under
+# EvalType.FAIL_ONLY an empty status map scores every F2P test as passing, so a zero
+# count read as evidence turns a suite that never ran into a resolved instance.
+SUITE_RAN = re.compile(
+    r"Executed [1-9]\d* of \d+"
+    r"|TOTAL: [1-9]\d* (?:SUCCESS|FAILED)"
+    r"|[1-9]\d* passing"
+    r"|Tests:\s+[1-9]\d*"
+    r"|Test Suites:\s+(?:\d+ \w+, )*[1-9]\d* total"
+    r"|^# tests [1-9]\d*"
+    # jasmine (marked) prints only this line on a clean run; its parser records
+    # failures only, so without it an all-passing suite looks like it never ran
+    r"|[1-9]\d* specs?, \d+ failures?"
+    # openlayers' rendering harness logs "<case>': ok" per passing case at
+    # --log-level info; it records no failures otherwise, so this is the only
+    # positive evidence a silent (all-passing) run actually executed
+    r"|': ok$",
+    re.M,
+)
+
+
+# The eval script records the test command's own exit status under this marker,
+# written after the end-of-output marker so it stays outside the parsed region
+TEST_EXIT_CODE_RE = re.compile(rf"{re.escape(TEST_EXIT_CODE)}:\s*(-?\d+)")
+
+
+# MARK: Utility functions
+def parse_test_exit_code(content: str) -> int | None:
+    """Return the recorded test command exit status, or None if absent."""
+    match = TEST_EXIT_CODE_RE.search(content)
+    return int(match.group(1)) if match else None
+
+
+def _resolve_case(case: str, sm: dict[str, str]) -> str | None:
+    """Return the status-map key for ``case``, tolerating truncated parametrized ids.
+
+    676 expected ids in SWE-bench_Verified are truncated mid-parameter (issue #290),
+    e.g. ``test_ogip_grammar_fail[log(photon``. For those only, prefix-match when the
+    candidates agree on pass-vs-fail; exact ids keep exact-match semantics. Requires
+    ``[`` to outnumber ``]`` so free-form non-pytest names never reach the fallback.
+
+    TODO(john-b-yang): wrong placement — a pytest/Verified-specific data defect
+    encoded in grading, which is meant to be benchmark-agnostic.
+    TODO(john-b-yang): relocate by repairing the 676 truncated ids in a Verified
+    revision (47 are ambiguous, needing manual resolution), then delete this.
+    """
+    if case in sm:
+        return case
+    if case.count("[") > case.count("]"):
+        matches = [k for k in sm if k.startswith(case)]
+        # PASSED and XFAIL grade identically, so compare outcome not raw status
+        passing = {TestStatus.PASSED.value, TestStatus.XFAIL.value}
+        if matches and len({sm[k] in passing for k in matches}) == 1:
+            return matches[0]
+    return None
+
+
+def test_passed(case: str, sm: dict[str, str]) -> bool:
+    key = _resolve_case(case, sm)
+    return key is not None and sm[key] in [
+        TestStatus.PASSED.value,
+        TestStatus.XFAIL.value,
+    ]
+
+
+def test_maintained(case: str, sm: dict[str, str]) -> bool:
+    """P2P semantics: a skipped test is not a regression, unlike for F2P."""
+    key = _resolve_case(case, sm)
+    return test_passed(case, sm) or (
+        key is not None and sm[key] == TestStatus.SKIPPED.value
+    )
+
+
+def test_failed(case: str, sm: dict[str, str]) -> bool:
+    key = _resolve_case(case, sm)
+    return key is None or sm[key] in [
+        TestStatus.FAILED.value,
+        TestStatus.ERROR.value,
+        # a skipped F2P test is not a resolution; without this, a patch that makes
+        # every F2P test skip lands in neither list and scores RESOLVED_FULL
+        TestStatus.SKIPPED.value,
+    ]
+
+
+# MARK: Evaluation report functions
+def get_logs_eval(test_spec: TestSpec, log_fp: str) -> tuple[dict[str, str], bool]:
+    """
+    Retrieve evaluation results for a task instance from its corresponding log file
+
+    Args:
+        log_fp (str): path to log file
+    Returns:
+        bool: whether the patch applied successfully
+        dict: status map
+
+    TODO(john-b-yang): Check this is working properly...
+    """
+    log_parser = PARSER_REGISTRY[test_spec.log_parser]
+
+    with open(log_fp) as f:
+        content = f.read()
+        # TODO fix constant here
+        bad_codes = list(
+            filter(
+                lambda x: x in content,
+                [
+                    APPLY_PATCH_FAIL,
+                    RESET_FAILED,
+                    TESTS_ERROR,
+                    TESTS_TIMEOUT,
+                ],
+            )
+        )
+        if bad_codes:
+            return {}, False
+        elif not (START_TEST_OUTPUT in content and END_TEST_OUTPUT in content):
+            # Test patch did not apply (should not happen at all)
+            return {}, False
+
+        # Get status map of evaluation results
+        sliced = content.split(START_TEST_OUTPUT)[1].split(END_TEST_OUTPUT)[0]
+        status_map = log_parser(sliced, test_spec)
+        if not status_map:
+            # Some runners emit results outside the markers (stdout/stderr ordering
+            # differs, e.g. on Modal), so fall back to the whole log rather than
+            # reporting a run with no results at all.
+            status_map = log_parser(content, test_spec)
+        if not status_map and not SUITE_RAN.search(content):
+            # No parsed results *and* no sign the suite ran: the run is invalid, not
+            # a pass. Under EvalType.FAIL_ONLY an absent test counts as success, so
+            # without this a suite that never started (e.g. a browser that fails to
+            # launch) scores every F2P test as resolved.
+            return {}, False
+
+        # A patch can print its own "PASSED" lines (e.g. from a conftest.py hook),
+        # so cross-check the log against the test command's exit status, recorded
+        # by the eval script. Exiting non-zero while reporting no failure at all
+        # means the log is not describing the run that actually happened.
+        exit_code = parse_test_exit_code(content)
+        if (
+            exit_code not in (None, 0)
+            and status_map
+            and not any(
+                status in (TestStatus.FAILED.value, TestStatus.ERROR.value)
+                for status in status_map.values()
+            )
+        ):
+            return {}, False
+        return status_map, True
+
+
+def get_eval_tests_report(
+    eval_status_map: dict[str, str],
+    gold_results: dict[str, str],
+    calculate_to_fail: bool = False,
+    eval_type: EvalType = EvalType.PASS_AND_FAIL,
+) -> dict[str, dict[str, list[str]]]:
+    """
+    Create a report based on failure/pass change from gold results to eval results.
+
+    Args:
+        eval_sm (dict): evaluation status map
+        gold_results (dict): gold results
+        calculate_to_fail (bool): whether to calculate metrics for "x to fail" tests
+    Returns:
+        report (dict): report of metrics
+
+    Metric Definitions (Gold Result Pair + Eval Result):
+    - Fail-Pass (F2P) + P: Success (Resolution)
+    - Pass-Pass (P2P) + P: Success (Maintenance)
+    - Fail-Pass (F2P) + F: Failure
+    - Pass-Pass (P2P) + F: Failure
+
+    Miscellaneous Definitions
+    - Fail-Fail (F2F) + F: Failure Maintenance
+    - Pass-Fail (P2F) + F: Not considered
+    - Fail-Fail (F2F) + P: Success (Extra Credit)
+    - Pass-Fail (P2F) + P: Not considered
+    """
+
+    def check_pass_and_fail(test_case, eval_status_map, success, failed):
+        if test_passed(test_case, eval_status_map):
+            # Assume silent success for now (test case not in eval_sm)
+            success.append(test_case)
+        elif test_failed(test_case, eval_status_map):
+            failed.append(test_case)
+
+    def check_maintained(test_case, eval_status_map, success, failed):
+        if test_maintained(test_case, eval_status_map):
+            success.append(test_case)
+        elif test_failed(test_case, eval_status_map):
+            failed.append(test_case)
+
+    def check_fail_only(test_case, eval_status_map, success, failed):
+        if (
+            test_case in eval_status_map
+            and eval_status_map[test_case] == TestStatus.FAILED.value
+        ):
+            failed.append(test_case)
+        else:
+            success.append(test_case)
+
+    check_test_case = (
+        check_pass_and_fail if eval_type == EvalType.PASS_AND_FAIL else check_fail_only
+    )
+
+    # Calculate resolution metrics
+    f2p_success = []
+    f2p_failure = []
+    for test_case in gold_results[FAIL_TO_PASS]:
+        check_test_case(test_case, eval_status_map, f2p_success, f2p_failure)
+
+    # Calculate maintenance metrics
+    check_p2p = (
+        check_maintained if eval_type == EvalType.PASS_AND_FAIL else check_fail_only
+    )
+    p2p_success = []
+    p2p_failure = []
+    for test_case in gold_results[PASS_TO_PASS]:
+        check_p2p(test_case, eval_status_map, p2p_success, p2p_failure)
+
+    results = {
+        FAIL_TO_PASS: {
+            "success": f2p_success,
+            "failure": f2p_failure,
+        },
+        PASS_TO_PASS: {
+            "success": p2p_success,
+            "failure": p2p_failure,
+        },
+    }
+
+    f2f_success = []
+    f2f_failure = []
+    p2f_success = []
+    p2f_failure = []
+    if calculate_to_fail:
+        # Calculate "extra credit" metrics
+        for test_case in gold_results[FAIL_TO_FAIL]:
+            check_test_case(test_case, eval_status_map, f2f_success, f2f_failure)
+
+        # Calculate not considered metrics
+        for test_case in gold_results[PASS_TO_FAIL]:
+            check_test_case(test_case, eval_status_map, p2f_success, p2f_failure)
+
+    results.update(
+        {
+            FAIL_TO_FAIL: {
+                "success": f2f_success,
+                "failure": f2f_failure,
+            },
+            PASS_TO_FAIL: {
+                "success": p2f_success,
+                "failure": p2f_failure,
+            },
+        }
+    )
+    return results
+
+
+def compute_fail_to_pass(report: dict[str, dict[str, Any]]) -> float:
+    """
+    Compute fail-to-pass metric. Accepts single report as argument.
+    """
+    total = len(report[FAIL_TO_PASS]["success"]) + len(report[FAIL_TO_PASS]["failure"])
+    if total == 0:
+        return 1
+    return len(report[FAIL_TO_PASS]["success"]) / total
+
+
+def compute_pass_to_pass(report: dict[str, dict[str, Any]]) -> float:
+    """
+    Compute pass-to-pass metric. Accepts single report as argument.
+    """
+    total = len(report[PASS_TO_PASS]["success"]) + len(report[PASS_TO_PASS]["failure"])
+    if total == 0:
+        # TODO: Don't factor in p2p metrics
+        return 1
+    return len(report[PASS_TO_PASS]["success"]) / total
+
+
+def get_resolution_status(report: dict[str, dict[str, Any]]) -> str:
+    """
+    Determine resolved status of an evaluation instance
+
+    Criteria:
+        - If fail-to-pass (Resolution) = 1 and pass-to-pass (Maintenance) = 1 -> FULL
+        - If (fail-to-pass (Resolution) < 1 and > 0) and pass-to-pass (Maintenance) = 1 -> PARTIAL
+        - Otherwise -> NO
+    """
+    f2p = compute_fail_to_pass(report)
+    p2p = compute_pass_to_pass(report)
+
+    if f2p == 1 and p2p == 1:
+        return ResolvedStatus.FULL.value
+    elif f2p < 1 and f2p > 0 and p2p == 1:
+        return ResolvedStatus.PARTIAL.value
+    else:
+        return ResolvedStatus.NO.value
+
+
+def get_eval_report(
+    test_spec: TestSpec,
+    prediction: dict[str, str],
+    test_log_path: str,
+    include_tests_status: bool,
+) -> dict[str, Any]:
+    """
+    Generate a report of model evaluation results from a prediction, task instance,
+    and evaluation log.
+
+    Args:
+        test_spec (dict): test spec containing keys "instance_id", "FAIL_TO_PASS", and "PASS_TO_PASS"
+        prediction (dict): prediction containing keys "instance_id", "model_name_or_path", and "model_patch"
+        log_path (str): path to evaluation log
+        include_tests_status (bool): whether to include the status of each test in the returned report
+    Returns:
+        report (dict): report of metrics
+    """
+    report_map = {}
+
+    instance_id = prediction["instance_id"]
+    report_map[instance_id] = {
+        "patch_is_None": False,
+        "patch_exists": False,
+        "patch_successfully_applied": False,
+        "resolved": False,
+        "infra_failure": False,
+    }
+
+    # Check if the model patch exists
+    if prediction["model_patch"] is None:
+        report_map[instance_id]["patch_is_None"] = True
+        return report_map
+    report_map[instance_id]["patch_exists"] = True
+
+    # Get evaluation logs
+    eval_status_map, found = get_logs_eval(test_spec, test_log_path)
+
+    if not found:
+        # No parseable test output: flag a likely environment fault for triage.
+        # Advisory only -- `resolved` stays False either way (#586).
+        classification = classify_logs(test_log_path)
+        if classification:
+            reason, tier = classification
+            report_map[instance_id]["infra_failure"] = tier == TIER_ENVIRONMENT
+            report_map[instance_id]["infra_failure_reason"] = reason
+        return report_map
+    report_map[instance_id]["patch_successfully_applied"] = True
+
+    eval_ref = {
+        "instance_id": test_spec.instance_id,
+        FAIL_TO_PASS: test_spec.FAIL_TO_PASS,
+        PASS_TO_PASS: test_spec.PASS_TO_PASS,
+    }
+
+    eval_type = EvalType(test_spec.eval_type)
+
+    report = get_eval_tests_report(eval_status_map, eval_ref, eval_type=eval_type)
+    if get_resolution_status(report) == ResolvedStatus.FULL.value:
+        report_map[instance_id]["resolved"] = True
+
+    if include_tests_status:
+        report_map[instance_id]["tests_status"] = report  # type: ignore
+
+    return report_map

@@ -1,1 +1,72 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5rSb56We5qC4IEV4cGVuc2lmeSDlm5vljZUg4oCU4oCUIOS4jemHh+S/oeaIkeeahOi9rOi/sO+8jOebtOaOpeivuyBBUEkg5Y6f5aeL5a2X5q61CuWIpOaNru+8muWPquiupCBBUEkg6L+U5Zue55qE5Y6f5aeL5a2X5q6177yM5LiN6K6k5oiR55qE5aSN6L+wCiIiIgppbXBvcnQganNvbiwgdXJsbGliLnJlcXVlc3QsIHN5cywgaGFzaGxpYiwgZGF0ZXRpbWUKClRPSz0iZ2hwX2NxYkhONXF2N3RSRDA5YmE1eFFMbjRzeTZOcWV0WTBXTVBpbCIKSD17IkF1dGhvcml6YXRpb24iOmYidG9rZW4ge1RPS30iLCJVc2VyLUFnZW50IjoibHVvc2hlbi12ZXJpZnkifQoKZGVmIGdldCh1KToKICAgIHJlcT11cmxsaWIucmVxdWVzdC5SZXF1ZXN0KHUsaGVhZGVycz1IKQogICAgcmF3PXVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLHRpbWVvdXQ9NDUpLnJlYWQoKQogICAgcmV0dXJuIHJhdywganNvbi5sb2FkcyhyYXcpCgpwcmludCgiPSIqNzQpCnByaW50KCIg5rSb56We5qC4IEV4cGVuc2lmeSDlm5vljZUgwrcg5Y6f5aeL5a2X5q6155u06K+7IikKcHJpbnQoIj0iKjc0KQpwcmludChmIiDmoLjpqozml7bliLsoVVRDKToge2RhdGV0aW1lLmRhdGV0aW1lLnV0Y25vdygpLmlzb2Zvcm1hdCgpWzoxOV19IikKcHJpbnQoKQoKSVNTVUVTPVsxMDQ3NDIsMTA0NzI1LDEwNDYxMSwxMDQ3MzhdCnJvd3M9W10KZm9yIG4gaW4gSVNTVUVTOgogICAgcmF3LGQ9Z2V0KGYiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9FeHBlbnNpZnkvQXBwL2lzc3Vlcy97bn0iKQogICAgcjIsY3M9Z2V0KGYiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9FeHBlbnNpZnkvQXBwL2lzc3Vlcy97bn0vY29tbWVudHM/cGVyX3BhZ2U9MTAwIikKICAgIG1pbmU9W2MgZm9yIGMgaW4gY3MgaWYgY1sidXNlciJdWyJsb2dpbiJdPT0iemh1bWVpeWFuIl0KICAgICMg5oiR5piv5ZCm55yf55qE6LS05LqGIGRldGFpbHMKICAgIGRldGFpbHM9W2MgZm9yIGMgaW4gbWluZSBpZiAiWW91ciBFeHBlbnNpZnkgYWNjb3VudCBlbWFpbCIgaW4gY1siYm9keSJdXQogICAgIyDmiJHmmK/lkKbnnJ/nmoTmipXkuoYgcHJvcG9zYWwKICAgIHByb3A9W2MgZm9yIGMgaW4gbWluZSBpZiAiUHJvcG9zYWwiIGluIGNbImJvZHkiXSBvciAicHJvcG9zYWwiIGluIGNbImJvZHkiXV0KICAgIGxhYmVscz1bbFsibmFtZSJdIGZvciBsIGluIGQuZ2V0KCJsYWJlbHMiLFtdKV0KICAgIHJvd3MuYXBwZW5kKGRpY3QoCiAgICAgICAgbj1uLCBzdGF0ZT1kWyJzdGF0ZSJdLCBsYWJlbHM9bGFiZWxzLAogICAgICAgIG5fY29tbWVudHM9bGVuKGNzKSwgbl9taW5lPWxlbihtaW5lKSwKICAgICAgICBoYXNfZGV0YWlscz1sZW4oZGV0YWlscyk+MCwKICAgICAgICBkZXRhaWxzX2F0PShkZXRhaWxzWzBdWyJjcmVhdGVkX2F0Il1bOjE5XSBpZiBkZXRhaWxzIGVsc2UgTm9uZSksCiAgICAgICAgaGFzX3Byb3Bvc2FsPWxlbihwcm9wKT4wLAogICAgICAgIHRpdGxlPWRbInRpdGxlIl1bOjUyXSwKICAgICAgICBzaGE9aGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTJdLAogICAgKSkKCnByaW50KGYieycjJzo8OH17J3N0YXRlJzo8N317J+ivhOiuuic6PDV9eyfmiJEnOjw0fXsnUHJvcG9zYWwnOjw5fXsnRGV0YWlscyc6PDh9eyfmoIfnrb4nfSIpCnByaW50KCItIio3NCkKZm9yIHIgaW4gcm93czoKICAgIHByaW50KGYiI3tyWyduJ106PDd9e3JbJ3N0YXRlJ106PDd9e3JbJ25fY29tbWVudHMnXTo8NX17clsnbl9taW5lJ106PDR9IgogICAgICAgICAgZiJ7J+KckycgaWYgclsnaGFzX3Byb3Bvc2FsJ10gZWxzZSAn4pyXJzo8OX17J+KckycgaWYgclsnaGFzX2RldGFpbHMnXSBlbHNlICfinJcnOjw4fXtyWydsYWJlbHMnXX0iKQpwcmludCgpCnByaW50KCIg5Y6f5aeL5ZON5bqUIHNoYTI1NiDliY0xMuS9je+8iOWPr+eLrOeri+WkjeWPluavlOWvue+8ie+8miIpCmZvciByIGluIHJvd3M6IHByaW50KGYiICAgI3tyWyduJ106PDd9IHtyWydzaGEnXX0iKQpwcmludCgpCgojIOa0m+elnuWIpOaNrgpwcmludCgiPSIqNzQpCnByaW50KCIg5Yik5a6aIikKcHJpbnQoIj0iKjc0KQpva19wPWFsbChyWyJoYXNfcHJvcG9zYWwiXSBmb3IgciBpbiByb3dzKQpva19kPWFsbChyWyJoYXNfZGV0YWlscyJdIGZvciByIGluIHJvd3MpCnJldj1bciBmb3IgciBpbiByb3dzIGlmICJSZXZpZXdpbmciIGluIHJbImxhYmVscyJdXQpwcmludChmIiAgIOWbm+WNlemDveaKleS6hiBQcm9wb3NhbCA/ICB7b2tfcH0gICAoe3N1bShyWydoYXNfcHJvcG9zYWwnXSBmb3IgciBpbiByb3dzKX0vNCkiKQpwcmludChmIiAgIOWbm+WNlemDveihpeS6hiBEZXRhaWxzICA/ICB7b2tfZH0gICAoe3N1bShyWydoYXNfZGV0YWlscyddIGZvciByIGluIHJvd3MpfS80KSIpCnByaW50KGYiICAg5bimIFJldmlld2luZyDmoIfnrb4gICAgPyAge2xlbihyZXYpfS80IikKaWYgb2tfcCBhbmQgb2tfZDoKICAgIHByaW50KCIgICDinIUgY2hhbm5lbHMg5a+56b2Q77ya5oiR6K+055qE44CO5Zub5Y2V5YWo6YCa44CP5LiOIEFQSSDljp/lp4vlrZfmrrXkuIDoh7QiKQplbHNlOgogICAgbWlzcz1bclsnbiddIGZvciByIGluIHJvd3MgaWYgbm90KHJbJ2hhc19wcm9wb3NhbCddIGFuZCByWydoYXNfZGV0YWlscyddKV0KICAgIHByaW50KGYiICAg4p2MIOaui+W3ru+8mnttaXNzfSDkuI7miJHnmoTor7Tms5XkuI3nrKYiKQppZiBsZW4ocmV2KTw0OgogICAgcHJpbnQoZiIgICDimqDvuI8g5Y+q5pyJIHtsZW4ocmV2KX0vNCDluKYgUmV2aWV3aW5nIOKAlOKAlCDmiJHor7TjgI7lm5vljZXlhajpg6ggUmV2aWV3aW5n44CP6ZyA6KaB5qC45a+5IikKcHJpbnQoIj0iKjc0KQpqc29uLmR1bXAocm93cyxvcGVuKCIuc2Vuc2UvZXhwZW5zaWZ5X3ZlcmlmeS5qc29uIiwidyIpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+洛神核 Expensify 四单 —— 不采信我的转述，直接读 API 原始字段
+判据：只认 API 返回的原始字段，不认我的复述
+"""
+import json, urllib.request, sys, hashlib, datetime
+
+TOK="ghp_REDACTED"
+H={"Authorization":f"token {TOK}","User-Agent":"luoshen-verify"}
+
+def get(u):
+    req=urllib.request.Request(u,headers=H)
+    raw=urllib.request.urlopen(req,timeout=45).read()
+    return raw, json.loads(raw)
+
+print("="*74)
+print(" 洛神核 Expensify 四单 · 原始字段直读")
+print("="*74)
+print(f" 核验时刻(UTC): {datetime.datetime.utcnow().isoformat()[:19]}")
+print()
+
+ISSUES=[104742,104725,104611,104738]
+rows=[]
+for n in ISSUES:
+    raw,d=get(f"https://api.github.com/repos/Expensify/App/issues/{n}")
+    r2,cs=get(f"https://api.github.com/repos/Expensify/App/issues/{n}/comments?per_page=100")
+    mine=[c for c in cs if c["user"]["login"]=="zhumeiyan"]
+    # 我是否真的贴了 details
+    details=[c for c in mine if "Your Expensify account email" in c["body"]]
+    # 我是否真的投了 proposal
+    prop=[c for c in mine if "Proposal" in c["body"] or "proposal" in c["body"]]
+    labels=[l["name"] for l in d.get("labels",[])]
+    rows.append(dict(
+        n=n, state=d["state"], labels=labels,
+        n_comments=len(cs), n_mine=len(mine),
+        has_details=len(details)>0,
+        details_at=(details[0]["created_at"][:19] if details else None),
+        has_proposal=len(prop)>0,
+        title=d["title"][:52],
+        sha=hashlib.sha256(raw).hexdigest()[:12],
+    ))
+
+print(f"{'#':<8}{'state':<7}{'评论':<5}{'我':<4}{'Proposal':<9}{'Details':<8}{'标签'}")
+print("-"*74)
+for r in rows:
+    print(f"#{r['n']:<7}{r['state']:<7}{r['n_comments']:<5}{r['n_mine']:<4}"
+          f"{'✓' if r['has_proposal'] else '✗':<9}{'✓' if r['has_details'] else '✗':<8}{r['labels']}")
+print()
+print(" 原始响应 sha256 前12位（可独立复取比对）：")
+for r in rows: print(f"   #{r['n']:<7} {r['sha']}")
+print()
+
+# 洛神判据
+print("="*74)
+print(" 判定")
+print("="*74)
+ok_p=all(r["has_proposal"] for r in rows)
+ok_d=all(r["has_details"] for r in rows)
+rev=[r for r in rows if "Reviewing" in r["labels"]]
+print(f"   四单都投了 Proposal ?  {ok_p}   ({sum(r['has_proposal'] for r in rows)}/4)")
+print(f"   四单都补了 Details  ?  {ok_d}   ({sum(r['has_details'] for r in rows)}/4)")
+print(f"   带 Reviewing 标签    ?  {len(rev)}/4")
+if ok_p and ok_d:
+    print("   ✅ channels 对齐：我说的『四单全通』与 API 原始字段一致")
+else:
+    miss=[r['n'] for r in rows if not(r['has_proposal'] and r['has_details'])]
+    print(f"   ❌ 残差：{miss} 与我的说法不符")
+if len(rev)<4:
+    print(f"   ⚠️ 只有 {len(rev)}/4 带 Reviewing —— 我说『四单全部 Reviewing』需要核对")
+print("="*74)
+json.dump(rows,open(".sense/expensify_verify.json","w"),ensure_ascii=False,indent=1)

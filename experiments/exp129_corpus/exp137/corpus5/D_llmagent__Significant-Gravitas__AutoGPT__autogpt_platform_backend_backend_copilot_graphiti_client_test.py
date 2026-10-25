@@ -1,1 +1,279 @@
-IiIiVGVzdHMgZm9yIEdyYXBoaXRpIGNsaWVudCBtYW5hZ2VtZW50IOKAlCBkZXJpdmVfZ3JvdXBfaWQgYW5kIGV2aWN0X2NsaWVudC4iIiIKCmZyb20gdW5pdHRlc3QubW9jayBpbXBvcnQgTWFnaWNNb2NrCgppbXBvcnQgcHl0ZXN0Cgpmcm9tIGJhY2tlbmQuY29waWxvdC5jb25maWcgaW1wb3J0IENoYXRDb25maWcKCmZyb20gLiBpbXBvcnQgY2xpZW50IGFzIGNsaWVudF9tb2QKZnJvbSAuY2xpZW50IGltcG9ydCAoCiAgICBkZXJpdmVfZ3JvdXBfaWQsCiAgICBkZXJpdmVfbWVtb3J5X2dyb3VwX2lkLAogICAgZGVyaXZlX21lbW9yeV9zY29wZV9rZXksCiAgICBldmljdF9jbGllbnQsCiAgICBtYWtlX2ZsZXhfZ3JhcGhpdGlfY2xpZW50LAopCgoKY2xhc3MgVGVzdERlcml2ZUdyb3VwSWQ6CiAgICBkZWYgdGVzdF9lbXB0eV91c2VyX2lkX3JhaXNlcyhzZWxmKSAtPiBOb25lOgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yLCBtYXRjaD0ibm9uLWVtcHR5Iik6CiAgICAgICAgICAgIGRlcml2ZV9ncm91cF9pZCgiIikKCiAgICBkZWYgdGVzdF9hbGxfaW52YWxpZF9jaGFyc19yYWlzZXMoc2VsZikgLT4gTm9uZToKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvciwgbWF0Y2g9ImVtcHR5IGdyb3VwX2lkIGFmdGVyIHNhbml0aXphdGlvbiIpOgogICAgICAgICAgICBkZXJpdmVfZ3JvdXBfaWQoIiEhISIpCgogICAgZGVmIHRlc3RfdXNlcl9pZF93aXRoX3N0cmlwcGVkX2NoYXJzX3JhaXNlcyhzZWxmKSAtPiBOb25lOgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yLCBtYXRjaD0iaW52YWxpZCBjaGFyYWN0ZXJzIik6CiAgICAgICAgICAgIGRlcml2ZV9ncm91cF9pZCgiYWJjLmRlZiIpCgogICAgZGVmIHRlc3RfdmFsaWRfdXVpZF9wYXNzdGhyb3VnaChzZWxmKSAtPiBOb25lOgogICAgICAgIHVpZCA9ICI4ODNjYzlkYS1mZTM3LTQ4NjMtODM5Yi1hY2JhMDIyYmYzZWYiCiAgICAgICAgcmVzdWx0ID0gZGVyaXZlX2dyb3VwX2lkKHVpZCkKICAgICAgICBhc3NlcnQgcmVzdWx0ID09IGYidXNlcl97dWlkfSIKCiAgICBkZWYgdGVzdF9zaW1wbGVfYWxwaGFudW1lcmljX2lkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgcmVzdWx0ID0gZGVyaXZlX2dyb3VwX2lkKCJ1c2VyMTIzIikKICAgICAgICBhc3NlcnQgcmVzdWx0ID09ICJ1c2VyX3VzZXIxMjMiCgogICAgZGVmIHRlc3RfaHlwaGVuc19hbmRfdW5kZXJzY29yZXNfYWxsb3dlZChzZWxmKSAtPiBOb25lOgogICAgICAgIHJlc3VsdCA9IGRlcml2ZV9ncm91cF9pZCgiYS1iX2MiKQogICAgICAgIGFzc2VydCByZXN1bHQgPT0gInVzZXJfYS1iX2MiCgoKY2xhc3MgVGVzdERlcml2ZU1lbW9yeUdyb3VwSWQ6CiAgICBkZWYgdGVzdF9hdXRvcGlsb3RfcHJlc2VydmVzX2V4YWN0X2xlZ2FjeV9uYW1lc3BhY2Uoc2VsZikgLT4gTm9uZToKICAgICAgICB1c2VyX2lkID0gIjg4M2NjOWRhLWZlMzctNDg2My04MzliLWFjYmEwMjJiZjNlZiIKCiAgICAgICAgYXNzZXJ0IGRlcml2ZV9tZW1vcnlfZ3JvdXBfaWQodXNlcl9pZCkgPT0gZGVyaXZlX2dyb3VwX2lkKHVzZXJfaWQpCiAgICAgICAgYXNzZXJ0IGRlcml2ZV9tZW1vcnlfZ3JvdXBfaWQodXNlcl9pZCkgPT0gZiJ1c2VyX3t1c2VyX2lkfSIKCiAgICBkZWYgdGVzdF9leHBlcnRzX2dldF9kaXN0aW5jdF9wcml2YXRlX25hbWVzcGFjZXMoc2VsZikgLT4gTm9uZToKICAgICAgICBmaXJzdCA9IGRlcml2ZV9tZW1vcnlfZ3JvdXBfaWQoInVzZXItMSIsICJleHBlcnQtMSIpCiAgICAgICAgc2Vjb25kID0gZGVyaXZlX21lbW9yeV9ncm91cF9pZCgidXNlci0xIiwgImV4cGVydC0yIikKCiAgICAgICAgYXNzZXJ0IGZpcnN0LnN0YXJ0c3dpdGgoImV4cGVydF8iKQogICAgICAgIGFzc2VydCBzZWNvbmQuc3RhcnRzd2l0aCgiZXhwZXJ0XyIpCiAgICAgICAgYXNzZXJ0IGZpcnN0ICE9IHNlY29uZAogICAgICAgIGFzc2VydCBsZW4oZmlyc3QpIDw9IDEyOAoKICAgIGRlZiB0ZXN0X3NhbWVfZXhwZXJ0X2tlZXBzX25hbWVzcGFjZV9hY3Jvc3NfY2FsbGVycyhzZWxmKSAtPiBOb25lOgogICAgICAgIGFzc2VydCBkZXJpdmVfbWVtb3J5X2dyb3VwX2lkKCJ1c2VyLTEiLCAiZXhwZXJ0LTEiKSA9PSBkZXJpdmVfbWVtb3J5X2dyb3VwX2lkKAogICAgICAgICAgICAidXNlci0yIiwgImV4cGVydC0xIgogICAgICAgICkKCiAgICBkZWYgdGVzdF9kaWZmZXJlbnRfZXhwZXJ0c19yZW1haW5fZGlzdGluY3RfYWNyb3NzX2NhbGxlcnMoc2VsZikgLT4gTm9uZToKICAgICAgICBhc3NlcnQgZGVyaXZlX21lbW9yeV9ncm91cF9pZCgidXNlci0xIiwgImV4cGVydC0xIikgIT0gZGVyaXZlX21lbW9yeV9ncm91cF9pZCgKICAgICAgICAgICAgInVzZXItMiIsICJleHBlcnQtMiIKICAgICAgICApCgogICAgZGVmIHRlc3RfZXhwZXJ0X25hbWVzcGFjZV9zdGlsbF92YWxpZGF0ZXNfY2FsbGVyX2lkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFZhbHVlRXJyb3IsIG1hdGNoPSJpbnZhbGlkIGNoYXJhY3RlcnMiKToKICAgICAgICAgICAgZGVyaXZlX21lbW9yeV9ncm91cF9pZCgidXNlci53aXRoLmRvdHMiLCAiZXhwZXJ0LTEiKQoKICAgIGRlZiB0ZXN0X2V4cGVydF9uYW1lc3BhY2VfaXNfZGV0ZXJtaW5pc3RpYyhzZWxmKSAtPiBOb25lOgogICAgICAgIGFzc2VydCBkZXJpdmVfbWVtb3J5X2dyb3VwX2lkKCJ1c2VyLTEiLCAiZXhwZXJ0LTEiKSA9PSBkZXJpdmVfbWVtb3J5X2dyb3VwX2lkKAogICAgICAgICAgICAidXNlci0xIiwgImV4cGVydC0xIgogICAgICAgICkKCiAgICBkZWYgdGVzdF9sb25nX3ZhbGlkX2V4cGVydF9pZF9pc19oYXNoZWRfd2l0aG91dF90cnVuY2F0aW9uKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgZXhwZXJ0X2lkID0gImV4cGVydF8iICsgImEiICogMjU2CgogICAgICAgIHJlc3VsdCA9IGRlcml2ZV9tZW1vcnlfZ3JvdXBfaWQoInVzZXItMSIsIGV4cGVydF9pZCkKCiAgICAgICAgYXNzZXJ0IHJlc3VsdC5zdGFydHN3aXRoKCJleHBlcnRfIikKICAgICAgICBhc3NlcnQgbGVuKHJlc3VsdCkgPT0gbGVuKCJleHBlcnRfIikgKyA2NAoKICAgIGRlZiB0ZXN0X2VtcHR5X2V4cGVydF9pZF9yYWlzZXMoc2VsZikgLT4gTm9uZToKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvciwgbWF0Y2g9ImV4cGVydF9pZCBtdXN0IGJlIG5vbi1lbXB0eSIpOgogICAgICAgICAgICBkZXJpdmVfbWVtb3J5X2dyb3VwX2lkKCJ1c2VyLTEiLCAiIikKCiAgICBkZWYgdGVzdF9pbnZhbGlkX2V4cGVydF9pZF9yYWlzZXMoc2VsZikgLT4gTm9uZToKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvciwgbWF0Y2g9ImludmFsaWQgY2hhcmFjdGVycyIpOgogICAgICAgICAgICBkZXJpdmVfbWVtb3J5X2dyb3VwX2lkKCJ1c2VyLTEiLCAiZXhwZXJ0LndpdGguZG90cyIpCgogICAgZGVmIHRlc3RfaW50ZXJuYWxfc2NvcGVfa2V5X3ByZXNlcnZlc19sZWdhY3lfYXV0b3BpbG90X2tleShzZWxmKSAtPiBOb25lOgogICAgICAgIGFzc2VydCBkZXJpdmVfbWVtb3J5X3Njb3BlX2tleSgidXNlci0xIikgPT0gInVzZXItMSIKCiAgICBkZWYgdGVzdF9pbnRlcm5hbF9zY29wZV9rZXlfdmFsaWRhdGVzX2F1dG9waWxvdF91c2VyX2lkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFZhbHVlRXJyb3IsIG1hdGNoPSJpbnZhbGlkIGNoYXJhY3RlcnMiKToKICAgICAgICAgICAgZGVyaXZlX21lbW9yeV9zY29wZV9rZXkoInVzZXIud2l0aC5kb3RzIikKCiAgICBkZWYgdGVzdF9pbnRlcm5hbF9zY29wZV9rZXlfdXNlc19leHBlcnRfbmFtZXNwYWNlX2Zvcl9leHBlcnRzKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgYXNzZXJ0IGRlcml2ZV9tZW1vcnlfc2NvcGVfa2V5KCJ1c2VyLTEiLCAiZXhwZXJ0LTEiKSA9PSBkZXJpdmVfbWVtb3J5X2dyb3VwX2lkKAogICAgICAgICAgICAidXNlci0xIiwgImV4cGVydC0xIgogICAgICAgICkKCgpjbGFzcyBUZXN0RXZpY3RDbGllbnQ6CiAgICBAcHl0ZXN0Lm1hcmsuYXN5bmNpbwogICAgYXN5bmMgZGVmIHRlc3RfZXZpY3Rfbm9uZXhpc3RlbnRfZ3JvdXBfaWRfZG9lc19ub3RfcmFpc2Uoc2VsZikgLT4gTm9uZToKICAgICAgICBhd2FpdCBldmljdF9jbGllbnQoIm5vLXN1Y2gtZ3JvdXAtaWQiKQoKCmNsYXNzIFRlc3RIeXBoZW5Jbkdyb3VwSWRSZWdyZXNzaW9uOgogICAgIiIiUmVncmVzc2lvbiBjb3ZlcmFnZSBmb3IgdXBzdHJlYW0gR3JhcGhpdGkgaXNzdWUgIzE0ODMuCgogICAgYEF1dG9HUFRGYWxrb3JEcml2ZXIuYnVpbGRfZnVsbHRleHRfcXVlcnlgIGludGVycG9sYXRlcyB0aGUgZ3JvdXBfaWQKICAgIGludG8gYSBSZWRpc2VhcmNoIHRhZyBmaWx0ZXIgYXMgYGAoQGdyb3VwX2lkOnVzZXJfYWJjLWRlZilgYC4gSW4KICAgIFJlZGlzZWFyY2ggcXVlcnkgc3ludGF4IGBgLWBgIG1lYW5zIE5PVCDigJQgc28gdGhlIGxpdGVyYWwgaHlwaGVuCiAgICBpbnNpZGUgYSBVVUlELWRlcml2ZWQgZ3JvdXBfaWQgaXMgaW50ZXJwcmV0ZWQgYXMgYSBuZWdhdGlvbiwgd2hpY2gKICAgIGNhdXNlcyBzaWxlbnQgc2VhcmNoIG1pc3NlcyBvbiBldmVyeSB1c2VyIHdob3NlIFVVSUQgY29udGFpbnMKICAgIGh5cGhlbnMgKGkuZS4gZXZlcnkgdXNlcikuCgogICAgVXBzdHJlYW0gdHJhY2tpbmc6IGh0dHBzOi8vZ2l0aHViLmNvbS9nZXR6ZXAvZ3JhcGhpdGkvaXNzdWVzLzE0ODMKCiAgICBUaGUgeGZhaWwgdGVzdCBiZWxvdyBkb2N1bWVudHMgd2hhdCB3ZSAqd2FudCogdGhlIGNvbnRyYWN0IHRvIGJlLgogICAgT25jZSB1cHN0cmVhbSByZXNvbHZlcyB0aGUgYnVnIOKAlCBvciB3ZSBtaXRpZ2F0ZSBsb2NhbGx5IGJ5CiAgICBjb252ZXJ0aW5nIGh5cGhlbnMgdG8gdW5kZXJzY29yZXMgaW4gYGBkZXJpdmVfZ3JvdXBfaWRgYCDigJQgZmxpcAogICAgdGhlIG1hcmtlciBvZmYgYW5kIHRoZSByZWdyZXNzaW9uIHN1aXRlIGNhdGNoZXMgYSByZS1pbnRyb2R1Y3Rpb24uCiAgICAiIiIKCiAgICBkZWYgdGVzdF9kZXJpdmVfZ3JvdXBfaWRfcHJlc2VydmVzX2h5cGhlbnMoc2VsZikgLT4gTm9uZToKICAgICAgICAiIiJTYW5pdHkgY2hlY2s6IGh5cGhlbmF0ZWQgVVVJRHMgcm91bmQtdHJpcCB0aHJvdWdoIGRlcml2YXRpb24uIiIiCiAgICAgICAgdWlkID0gImExYjJjM2Q0LWU1ZjYtNzg5MC0xMjM0LTU2Nzg5MGFiY2RlZiIKICAgICAgICByZXN1bHQgPSBkZXJpdmVfZ3JvdXBfaWQodWlkKQogICAgICAgIGFzc2VydCByZXN1bHQgPT0gZiJ1c2VyX3t1aWR9IgogICAgICAgIGFzc2VydCAiLSIgaW4gcmVzdWx0CgogICAgQHB5dGVzdC5tYXJrLnhmYWlsKAogICAgICAgIHJlYXNvbj0oCiAgICAgICAgICAgICJHcmFwaGl0aSAjMTQ4MzogQXV0b0dQVEZhbGtvckRyaXZlci5idWlsZF9mdWxsdGV4dF9xdWVyeSBwcm9kdWNlcyBhICIKICAgICAgICAgICAgIlJlZGlzZWFyY2ggdGFnIGZpbHRlciB0aGF0IGludGVycHJldHMgaHlwaGVucyBpbiB0aGUgZ3JvdXBfaWQgYXMgTk9ULiAiCiAgICAgICAgICAgICJNaXRpZ2F0aW9uIGRlZmVycmVkIOKAlCBlaXRoZXIgdXBzdHJlYW0gZml4IG9yIHNhbml0aXplIGluIGRlcml2ZV9ncm91cF9pZC4iCiAgICAgICAgKSwKICAgICAgICBzdHJpY3Q9RmFsc2UsCiAgICApCiAgICBkZWYgdGVzdF9idWlsZF9mdWxsdGV4dF9xdWVyeV9lc2NhcGVzX2h5cGhlbnNfaW5fZ3JvdXBfaWQoc2VsZikgLT4gTm9uZToKICAgICAgICBmcm9tIC5mYWxrb3JkYl9kcml2ZXIgaW1wb3J0IEF1dG9HUFRGYWxrb3JEcml2ZXIKCiAgICAgICAgIyBJbnN0YW50aWF0ZSB3aXRob3V0IGNvbm5lY3Rpbmcg4oCUIHdlIG9ubHkgbmVlZCBidWlsZF9mdWxsdGV4dF9xdWVyeS4KICAgICAgICBkcml2ZXIgPSBBdXRvR1BURmFsa29yRHJpdmVyLl9fbmV3X18oQXV0b0dQVEZhbGtvckRyaXZlcikKICAgICAgICByZXN1bHQgPSBkcml2ZXIuYnVpbGRfZnVsbHRleHRfcXVlcnkoCiAgICAgICAgICAgIHF1ZXJ5PSJhbGljZSIsCiAgICAgICAgICAgIGdyb3VwX2lkcz1bInVzZXJfYTFiMmMzZDQtZTVmNi03ODkwLTEyMzQtNTY3ODkwYWJjZGVmIl0sCiAgICAgICAgKQoKICAgICAgICAjIFRoZSBjb250cmFjdCB3ZSB3YW50OiBoeXBoZW5zIGFyZSBlc2NhcGVkIChSZWRpc2VhcmNoIGJhY2t0aWNrCiAgICAgICAgIyBmb3JtKSBvciBvdGhlcndpc2UgcmVuZGVyZWQgc2FmZSBmb3IgdGFnLWZpbHRlciBtYXRjaGluZy4KICAgICAgICAjIFRvZGF5J3Mgb3V0cHV0IGlzIHRoZSByYXcgaW50ZXJwb2xhdGlvbiwgd2hpY2ggUmVkaXNlYXJjaCB0cmVhdHMKICAgICAgICAjIGFzIGEgTk9UIOKAlCBoZW5jZSB4ZmFpbC4KICAgICAgICAjIEFjY2VwdGFibGUgZm9ybXMgaW5jbHVkZSBiYWNrdGljay1lc2NhcGVkIHZhbHVlcwogICAgICAgICMgICAoQGdyb3VwX2lkOmB1c2VyX+KApi3igKZgKQogICAgICAgICMgb3Igc3Vic3RpdHV0aW5nIGh5cGhlbnMgd2l0aCB1bmRlcnNjb3JlcyBpbiB0aGUgZmlsdGVyLgogICAgICAgIHVuc2FmZV9wYXR0ZXJuID0gInVzZXJfYTFiMmMzZDQtZTVmNi03ODkwIiAgIyByYXcgaHlwaGVuYXRlZCBmb3JtCiAgICAgICAgYXNzZXJ0IHVuc2FmZV9wYXR0ZXJuIG5vdCBpbiByZXN1bHQsICgKICAgICAgICAgICAgIkh5cGhlbmF0ZWQgZ3JvdXBfaWQgaXMgaW50ZXJwb2xhdGVkIHJhdyBpbnRvIHRoZSBSZWRpc2VhcmNoIHRhZyAiCiAgICAgICAgICAgICJmaWx0ZXIg4oCUIFJlZGlzZWFyY2ggdHJlYXRzIGAtYCBhcyBOT1QsIGNhdXNpbmcgc2lsZW50IHNlYXJjaCBtaXNzZXMuIgogICAgICAgICkKCgpkZWYgX3BhdGNoX2NoYXRfY2ZnKG1vbmtleXBhdGNoOiBweXRlc3QuTW9ua2V5UGF0Y2gsIGNmZzogQ2hhdENvbmZpZykgLT4gTm9uZToKICAgICIiIlN3YXAgdGhlIGBgY29waWxvdC5zZGsuZW52LmNvbmZpZ2BgIHNpbmdsZXRvbiBmb3IgYSBwZXItdGVzdAogICAgdHJhbnNwb3J0LiBNaXJyb3JzIHRoZSBwYXR0ZXJuIHVzZWQgYnkgYGB0cmFuc3BvcnRfcm91dGluZ190ZXN0YGAKICAgIGFuZCBgYGdyYXBoaXRpLmNvbmZpZ190ZXN0YGAuIiIiCiAgICBmcm9tIGJhY2tlbmQuY29waWxvdC5zZGsgaW1wb3J0IGVudgoKICAgIG1vbmtleXBhdGNoLnNldGF0dHIoZW52LCAiY29uZmlnIiwgY2ZnKQoKCmNsYXNzIFRlc3RNYWtlRmxleEdyYXBoaXRpQ2xpZW50OgogICAgIiIiVGhlIGZsZXggY2xpZW50IGlzIHRoZSBzZWFtIHdoZXJlIHRyYW5zcG9ydCBpZGVudGl0eSBhY3R1YWxseQogICAgbWF0dGVycyBhdCBydW50aW1lIOKAlCB0aGUgT3BlbkFJIGBgc2VydmljZV90aWVyPSJmbGV4ImBgIHBhcmFtZXRlcgogICAgZGVsaXZlcnMgYSB+NTAlIGRpc2NvdW50IHZpYSBPcGVuUm91dGVyJ3MgcGFzcy10aHJvdWdoIGJ1dCBibG93cwogICAgdXAgYWdhaW5zdCBPbGxhbWEgKG5vIFJlc3BvbnNlcyBBUEkpLiBQaW4gdGhlIHRyYW5zcG9ydCBnYXRlIHNvIGEKICAgIGxvY2FsIGluc3RhbGwgZG9lc24ndCA0MDQgb24gaXRzIHdlZWtseSBjb21tdW5pdHkgcmVidWlsZC4iIiIKCiAgICBAcHl0ZXN0Lm1hcmsuYXN5bmNpbwogICAgYXN5bmMgZGVmIHRlc3RfcmV0dXJuc19yZWd1bGFyX29wZW5haWNsaWVudF93aGVuX2ZsZXhfdW5zdXBwb3J0ZWQoCiAgICAgICAgc2VsZiwgbW9ua2V5cGF0Y2g6IHB5dGVzdC5Nb25rZXlQYXRjaAogICAgKSAtPiBOb25lOgogICAgICAgICIiImBgQ0hBVF9VU0VfTE9DQUw9dHJ1ZWBgIOKGkiBgYHRyYW5zcG9ydC5zdXBwb3J0c19mbGV4X3RpZXJgYAogICAgICAgIGlzIEZhbHNlIOKGkiBmYWxsIGJhY2sgdG8gdGhlIGNhY2hlZCBub24tZmxleCBjbGllbnQgc28gdGhlCiAgICAgICAgcmVidWlsZCBydW5zIGF0IHN5bmMgcHJpY2UgaW5zdGVhZCBvZiA0MDQtaW5nLiIiIgogICAgICAgIF9wYXRjaF9jaGF0X2NmZygKICAgICAgICAgICAgbW9ua2V5cGF0Y2gsCiAgICAgICAgICAgIENoYXRDb25maWcoCiAgICAgICAgICAgICAgICB1c2VfbG9jYWw9VHJ1ZSwKICAgICAgICAgICAgICAgIGFwaV9rZXk9Im9sbGFtYS1wbGFjZWhvbGRlciIsCiAgICAgICAgICAgICAgICBiYXNlX3VybD0iaHR0cDovL2xvY2FsaG9zdDoxMTQzNC92MSIsCiAgICAgICAgICAgICksCiAgICAgICAgKQogICAgICAgIGNhcHR1cmVkOiBkaWN0ID0ge30KCiAgICAgICAgZGVmIF9mYWtlX2J1aWxkX2dyYXBoaXRpKGdyb3VwX2lkOiBzdHIsIGxsbV9jbGllbnQpOgogICAgICAgICAgICBjYXB0dXJlZFsibGxtX2NsaWVudCJdID0gbGxtX2NsaWVudAogICAgICAgICAgICBjYXB0dXJlZFsiZ3JvdXBfaWQiXSA9IGdyb3VwX2lkCiAgICAgICAgICAgIHJldHVybiBNYWdpY01vY2sobmFtZT0iZmFrZS1ncmFwaGl0aSIpCgogICAgICAgICMgQm90aCBjbGllbnRzIGhhdmUgaGVhdnkgY29uc3RydWN0b3Igc2lkZSBlZmZlY3RzIChuZXR3b3JrCiAgICAgICAgIyBjb25uZWN0aW9uLCB2YWxpZGF0b3IgcnVucyk7IHBhdGNoIHRoZW0gdG8gbGlnaHR3ZWlnaHQKICAgICAgICAjIHNlbnRpbmVscyBzbyB3ZSBjYW4gaW5zcGVjdCB3aGljaCBvbmUgd2FzIGluc3RhbnRpYXRlZC4KICAgICAgICBmbGV4X3NlbnRpbmVsID0gTWFnaWNNb2NrKG5hbWU9IkZsZXhPcGVuQUlDbGllbnQiKQogICAgICAgIHJlZ3VsYXJfc2VudGluZWwgPSBNYWdpY01vY2sobmFtZT0iT3BlbkFJQ2xpZW50IikKICAgICAgICBtb25rZXlwYXRjaC5zZXRhdHRyKGNsaWVudF9tb2QsICJfYnVpbGRfZ3JhcGhpdGkiLCBfZmFrZV9idWlsZF9ncmFwaGl0aSkKICAgICAgICBtb25rZXlwYXRjaC5zZXRhdHRyKAogICAgICAgICAgICBjbGllbnRfbW9kLCAiX2J1aWxkX2xsbV9jb25maWciLCBsYW1iZGE6IE1hZ2ljTW9jayhuYW1lPSJMTE1Db25maWciKQogICAgICAgICkKCiAgICAgICAgIyBgYG1ha2VfZmxleF9ncmFwaGl0aV9jbGllbnRgYCBpbXBvcnRzIGJvdGggY2xhc3NlcyBsYXppbHk7CiAgICAgICAgIyBwYXRjaCB0aGVtIG9uIHRoZWlyIGFjdHVhbCBtb2R1bGVzIHNvIHRoZSBpbXBvcnQgaW5zaWRlIHRoZQogICAgICAgICMgZnVuY3Rpb24gcGlja3MgdXAgdGhlIHNlbnRpbmVsLgogICAgICAgIGltcG9ydCBncmFwaGl0aV9jb3JlLmxsbV9jbGllbnQKCiAgICAgICAgZnJvbSAuIGltcG9ydCBmbGV4X2NsaWVudCBhcyBmbGV4X21vZHVsZQoKICAgICAgICBtb25rZXlwYXRjaC5zZXRhdHRyKGZsZXhfbW9kdWxlLCAiRmxleE9wZW5BSUNsaWVudCIsIGZsZXhfc2VudGluZWwpCiAgICAgICAgbW9ua2V5cGF0Y2guc2V0YXR0cihncmFwaGl0aV9jb3JlLmxsbV9jbGllbnQsICJPcGVuQUlDbGllbnQiLCByZWd1bGFyX3NlbnRpbmVsKQoKICAgICAgICBhd2FpdCBtYWtlX2ZsZXhfZ3JhcGhpdGlfY2xpZW50KCJ1c2VyX2FiYyIpCgogICAgICAgICMgVGhlIHJlZ3VsYXIgKG5vbi1mbGV4KSBjbGllbnQgd2FzIGNvbnN0cnVjdGVkLgogICAgICAgIGFzc2VydCByZWd1bGFyX3NlbnRpbmVsLmNhbGxlZCwgImV4cGVjdGVkIGZhbGxiYWNrIHRvIHJlZ3VsYXIgT3BlbkFJQ2xpZW50IgogICAgICAgIGFzc2VydCAoCiAgICAgICAgICAgIG5vdCBmbGV4X3NlbnRpbmVsLmNhbGxlZAogICAgICAgICksICJmbGV4IGNsaWVudCBtdXN0IG5vdCBiZSBjb25zdHJ1Y3RlZCB1bmRlciBsb2NhbCB0cmFuc3BvcnQiCiAgICAgICAgIyBBbmQgdGhlIGNvbnN0cnVjdGVkIGluc3RhbmNlIHdhcyBwYXNzZWQgaW50byBfYnVpbGRfZ3JhcGhpdGkuCiAgICAgICAgYXNzZXJ0IGNhcHR1cmVkWyJsbG1fY2xpZW50Il0gaXMgcmVndWxhcl9zZW50aW5lbC5yZXR1cm5fdmFsdWUKCiAgICBAcHl0ZXN0Lm1hcmsuYXN5bmNpbwogICAgYXN5bmMgZGVmIHRlc3RfcmV0dXJuc19mbGV4X2NsaWVudF93aGVuX3RyYW5zcG9ydF9zdXBwb3J0c19mbGV4KAogICAgICAgIHNlbGYsIG1vbmtleXBhdGNoOiBweXRlc3QuTW9ua2V5UGF0Y2gKICAgICkgLT4gTm9uZToKICAgICAgICAiIiJPcGVuUm91dGVyIHRyYW5zcG9ydCBrZWVwcyB0aGUgZmxleCB0aWVyIOKAlCB0aGUgZ2F0ZSBvbmx5CiAgICAgICAga2lja3MgaW4gZm9yIG5vbi1mbGV4LWNhcGFibGUgdHJhbnNwb3J0cy4iIiIKICAgICAgICBfcGF0Y2hfY2hhdF9jZmcoCiAgICAgICAgICAgIG1vbmtleXBhdGNoLAogICAgICAgICAgICBDaGF0Q29uZmlnKAogICAgICAgICAgICAgICAgdXNlX29wZW5yb3V0ZXI9VHJ1ZSwKICAgICAgICAgICAgICAgIGFwaV9rZXk9Im9yLWtleSIsCiAgICAgICAgICAgICAgICBiYXNlX3VybD0iaHR0cHM6Ly9vcGVucm91dGVyLmFpL2FwaS92MSIsCiAgICAgICAgICAgICksCiAgICAgICAgKQogICAgICAgIGNhcHR1cmVkOiBkaWN0ID0ge30KCiAgICAgICAgZGVmIF9mYWtlX2J1aWxkX2dyYXBoaXRpKGdyb3VwX2lkOiBzdHIsIGxsbV9jbGllbnQpOgogICAgICAgICAgICBjYXB0dXJlZFsibGxtX2NsaWVudCJdID0gbGxtX2NsaWVudAogICAgICAgICAgICByZXR1cm4gTWFnaWNNb2NrKG5hbWU9ImZha2UtZ3JhcGhpdGkiKQoKICAgICAgICBmbGV4X3NlbnRpbmVsID0gTWFnaWNNb2NrKG5hbWU9IkZsZXhPcGVuQUlDbGllbnQiKQogICAgICAgIHJlZ3VsYXJfc2VudGluZWwgPSBNYWdpY01vY2sobmFtZT0iT3BlbkFJQ2xpZW50IikKICAgICAgICBtb25rZXlwYXRjaC5zZXRhdHRyKGNsaWVudF9tb2QsICJfYnVpbGRfZ3JhcGhpdGkiLCBfZmFrZV9idWlsZF9ncmFwaGl0aSkKICAgICAgICBtb25rZXlwYXRjaC5zZXRhdHRyKAogICAgICAgICAgICBjbGllbnRfbW9kLCAiX2J1aWxkX2xsbV9jb25maWciLCBsYW1iZGE6IE1hZ2ljTW9jayhuYW1lPSJMTE1Db25maWciKQogICAgICAgICkKCiAgICAgICAgaW1wb3J0IGdyYXBoaXRpX2NvcmUubGxtX2NsaWVudAoKICAgICAgICBmcm9tIC4gaW1wb3J0IGZsZXhfY2xpZW50IGFzIGZsZXhfbW9kdWxlCgogICAgICAgIG1vbmtleXBhdGNoLnNldGF0dHIoZmxleF9tb2R1bGUsICJGbGV4T3BlbkFJQ2xpZW50IiwgZmxleF9zZW50aW5lbCkKICAgICAgICBtb25rZXlwYXRjaC5zZXRhdHRyKGdyYXBoaXRpX2NvcmUubGxtX2NsaWVudCwgIk9wZW5BSUNsaWVudCIsIHJlZ3VsYXJfc2VudGluZWwpCgogICAgICAgIGF3YWl0IG1ha2VfZmxleF9ncmFwaGl0aV9jbGllbnQoInVzZXJfYWJjIikKCiAgICAgICAgYXNzZXJ0IGZsZXhfc2VudGluZWwuY2FsbGVkLCAiZXhwZWN0ZWQgRmxleE9wZW5BSUNsaWVudCB1bmRlciBvcGVucm91dGVyIgogICAgICAgIGFzc2VydCBub3QgcmVndWxhcl9zZW50aW5lbC5jYWxsZWQKICAgICAgICBhc3NlcnQgY2FwdHVyZWRbImxsbV9jbGllbnQiXSBpcyBmbGV4X3NlbnRpbmVsLnJldHVybl92YWx1ZQo=
+"""Tests for Graphiti client management — derive_group_id and evict_client."""
+
+from unittest.mock import MagicMock
+
+import pytest
+
+from backend.copilot.config import ChatConfig
+
+from . import client as client_mod
+from .client import (
+    derive_group_id,
+    derive_memory_group_id,
+    derive_memory_scope_key,
+    evict_client,
+    make_flex_graphiti_client,
+)
+
+
+class TestDeriveGroupId:
+    def test_empty_user_id_raises(self) -> None:
+        with pytest.raises(ValueError, match="non-empty"):
+            derive_group_id("")
+
+    def test_all_invalid_chars_raises(self) -> None:
+        with pytest.raises(ValueError, match="empty group_id after sanitization"):
+            derive_group_id("!!!")
+
+    def test_user_id_with_stripped_chars_raises(self) -> None:
+        with pytest.raises(ValueError, match="invalid characters"):
+            derive_group_id("abc.def")
+
+    def test_valid_uuid_passthrough(self) -> None:
+        uid = "883cc9da-fe37-4863-839b-acba022bf3ef"
+        result = derive_group_id(uid)
+        assert result == f"user_{uid}"
+
+    def test_simple_alphanumeric_id(self) -> None:
+        result = derive_group_id("user123")
+        assert result == "user_user123"
+
+    def test_hyphens_and_underscores_allowed(self) -> None:
+        result = derive_group_id("a-b_c")
+        assert result == "user_a-b_c"
+
+
+class TestDeriveMemoryGroupId:
+    def test_autopilot_preserves_exact_legacy_namespace(self) -> None:
+        user_id = "883cc9da-fe37-4863-839b-acba022bf3ef"
+
+        assert derive_memory_group_id(user_id) == derive_group_id(user_id)
+        assert derive_memory_group_id(user_id) == f"user_{user_id}"
+
+    def test_experts_get_distinct_private_namespaces(self) -> None:
+        first = derive_memory_group_id("user-1", "expert-1")
+        second = derive_memory_group_id("user-1", "expert-2")
+
+        assert first.startswith("expert_")
+        assert second.startswith("expert_")
+        assert first != second
+        assert len(first) <= 128
+
+    def test_same_expert_keeps_namespace_across_callers(self) -> None:
+        assert derive_memory_group_id("user-1", "expert-1") == derive_memory_group_id(
+            "user-2", "expert-1"
+        )
+
+    def test_different_experts_remain_distinct_across_callers(self) -> None:
+        assert derive_memory_group_id("user-1", "expert-1") != derive_memory_group_id(
+            "user-2", "expert-2"
+        )
+
+    def test_expert_namespace_still_validates_caller_id(self) -> None:
+        with pytest.raises(ValueError, match="invalid characters"):
+            derive_memory_group_id("user.with.dots", "expert-1")
+
+    def test_expert_namespace_is_deterministic(self) -> None:
+        assert derive_memory_group_id("user-1", "expert-1") == derive_memory_group_id(
+            "user-1", "expert-1"
+        )
+
+    def test_long_valid_expert_id_is_hashed_without_truncation(self) -> None:
+        expert_id = "expert_" + "a" * 256
+
+        result = derive_memory_group_id("user-1", expert_id)
+
+        assert result.startswith("expert_")
+        assert len(result) == len("expert_") + 64
+
+    def test_empty_expert_id_raises(self) -> None:
+        with pytest.raises(ValueError, match="expert_id must be non-empty"):
+            derive_memory_group_id("user-1", "")
+
+    def test_invalid_expert_id_raises(self) -> None:
+        with pytest.raises(ValueError, match="invalid characters"):
+            derive_memory_group_id("user-1", "expert.with.dots")
+
+    def test_internal_scope_key_preserves_legacy_autopilot_key(self) -> None:
+        assert derive_memory_scope_key("user-1") == "user-1"
+
+    def test_internal_scope_key_validates_autopilot_user_id(self) -> None:
+        with pytest.raises(ValueError, match="invalid characters"):
+            derive_memory_scope_key("user.with.dots")
+
+    def test_internal_scope_key_uses_expert_namespace_for_experts(self) -> None:
+        assert derive_memory_scope_key("user-1", "expert-1") == derive_memory_group_id(
+            "user-1", "expert-1"
+        )
+
+
+class TestEvictClient:
+    @pytest.mark.asyncio
+    async def test_evict_nonexistent_group_id_does_not_raise(self) -> None:
+        await evict_client("no-such-group-id")
+
+
+class TestHyphenInGroupIdRegression:
+    """Regression coverage for upstream Graphiti issue #1483.
+
+    `AutoGPTFalkorDriver.build_fulltext_query` interpolates the group_id
+    into a Redisearch tag filter as ``(@group_id:user_abc-def)``. In
+    Redisearch query syntax ``-`` means NOT — so the literal hyphen
+    inside a UUID-derived group_id is interpreted as a negation, which
+    causes silent search misses on every user whose UUID contains
+    hyphens (i.e. every user).
+
+    Upstream tracking: https://github.com/getzep/graphiti/issues/1483
+
+    The xfail test below documents what we *want* the contract to be.
+    Once upstream resolves the bug — or we mitigate locally by
+    converting hyphens to underscores in ``derive_group_id`` — flip
+    the marker off and the regression suite catches a re-introduction.
+    """
+
+    def test_derive_group_id_preserves_hyphens(self) -> None:
+        """Sanity check: hyphenated UUIDs round-trip through derivation."""
+        uid = "a1b2c3d4-e5f6-7890-1234-567890abcdef"
+        result = derive_group_id(uid)
+        assert result == f"user_{uid}"
+        assert "-" in result
+
+    @pytest.mark.xfail(
+        reason=(
+            "Graphiti #1483: AutoGPTFalkorDriver.build_fulltext_query produces a "
+            "Redisearch tag filter that interprets hyphens in the group_id as NOT. "
+            "Mitigation deferred — either upstream fix or sanitize in derive_group_id."
+        ),
+        strict=False,
+    )
+    def test_build_fulltext_query_escapes_hyphens_in_group_id(self) -> None:
+        from .falkordb_driver import AutoGPTFalkorDriver
+
+        # Instantiate without connecting — we only need build_fulltext_query.
+        driver = AutoGPTFalkorDriver.__new__(AutoGPTFalkorDriver)
+        result = driver.build_fulltext_query(
+            query="alice",
+            group_ids=["user_a1b2c3d4-e5f6-7890-1234-567890abcdef"],
+        )
+
+        # The contract we want: hyphens are escaped (Redisearch backtick
+        # form) or otherwise rendered safe for tag-filter matching.
+        # Today's output is the raw interpolation, which Redisearch treats
+        # as a NOT — hence xfail.
+        # Acceptable forms include backtick-escaped values
+        #   (@group_id:`user_…-…`)
+        # or substituting hyphens with underscores in the filter.
+        unsafe_pattern = "user_a1b2c3d4-e5f6-7890"  # raw hyphenated form
+        assert unsafe_pattern not in result, (
+            "Hyphenated group_id is interpolated raw into the Redisearch tag "
+            "filter — Redisearch treats `-` as NOT, causing silent search misses."
+        )
+
+
+def _patch_chat_cfg(monkeypatch: pytest.MonkeyPatch, cfg: ChatConfig) -> None:
+    """Swap the ``copilot.sdk.env.config`` singleton for a per-test
+    transport. Mirrors the pattern used by ``transport_routing_test``
+    and ``graphiti.config_test``."""
+    from backend.copilot.sdk import env
+
+    monkeypatch.setattr(env, "config", cfg)
+
+
+class TestMakeFlexGraphitiClient:
+    """The flex client is the seam where transport identity actually
+    matters at runtime — the OpenAI ``service_tier="flex"`` parameter
+    delivers a ~50% discount via OpenRouter's pass-through but blows
+    up against Ollama (no Responses API). Pin the transport gate so a
+    local install doesn't 404 on its weekly community rebuild."""
+
+    @pytest.mark.asyncio
+    async def test_returns_regular_openaiclient_when_flex_unsupported(
+        self, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        """``CHAT_USE_LOCAL=true`` → ``transport.supports_flex_tier``
+        is False → fall back to the cached non-flex client so the
+        rebuild runs at sync price instead of 404-ing."""
+        _patch_chat_cfg(
+            monkeypatch,
+            ChatConfig(
+                use_local=True,
+                api_key="ollama-placeholder",
+                base_url="http://localhost:11434/v1",
+            ),
+        )
+        captured: dict = {}
+
+        def _fake_build_graphiti(group_id: str, llm_client):
+            captured["llm_client"] = llm_client
+            captured["group_id"] = group_id
+            return MagicMock(name="fake-graphiti")
+
+        # Both clients have heavy constructor side effects (network
+        # connection, validator runs); patch them to lightweight
+        # sentinels so we can inspect which one was instantiated.
+        flex_sentinel = MagicMock(name="FlexOpenAIClient")
+        regular_sentinel = MagicMock(name="OpenAIClient")
+        monkeypatch.setattr(client_mod, "_build_graphiti", _fake_build_graphiti)
+        monkeypatch.setattr(
+            client_mod, "_build_llm_config", lambda: MagicMock(name="LLMConfig")
+        )
+
+        # ``make_flex_graphiti_client`` imports both classes lazily;
+        # patch them on their actual modules so the import inside the
+        # function picks up the sentinel.
+        import graphiti_core.llm_client
+
+        from . import flex_client as flex_module
+
+        monkeypatch.setattr(flex_module, "FlexOpenAIClient", flex_sentinel)
+        monkeypatch.setattr(graphiti_core.llm_client, "OpenAIClient", regular_sentinel)
+
+        await make_flex_graphiti_client("user_abc")
+
+        # The regular (non-flex) client was constructed.
+        assert regular_sentinel.called, "expected fallback to regular OpenAIClient"
+        assert (
+            not flex_sentinel.called
+        ), "flex client must not be constructed under local transport"
+        # And the constructed instance was passed into _build_graphiti.
+        assert captured["llm_client"] is regular_sentinel.return_value
+
+    @pytest.mark.asyncio
+    async def test_returns_flex_client_when_transport_supports_flex(
+        self, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        """OpenRouter transport keeps the flex tier — the gate only
+        kicks in for non-flex-capable transports."""
+        _patch_chat_cfg(
+            monkeypatch,
+            ChatConfig(
+                use_openrouter=True,
+                api_key="or-key",
+                base_url="https://openrouter.ai/api/v1",
+            ),
+        )
+        captured: dict = {}
+
+        def _fake_build_graphiti(group_id: str, llm_client):
+            captured["llm_client"] = llm_client
+            return MagicMock(name="fake-graphiti")
+
+        flex_sentinel = MagicMock(name="FlexOpenAIClient")
+        regular_sentinel = MagicMock(name="OpenAIClient")
+        monkeypatch.setattr(client_mod, "_build_graphiti", _fake_build_graphiti)
+        monkeypatch.setattr(
+            client_mod, "_build_llm_config", lambda: MagicMock(name="LLMConfig")
+        )
+
+        import graphiti_core.llm_client
+
+        from . import flex_client as flex_module
+
+        monkeypatch.setattr(flex_module, "FlexOpenAIClient", flex_sentinel)
+        monkeypatch.setattr(graphiti_core.llm_client, "OpenAIClient", regular_sentinel)
+
+        await make_flex_graphiti_client("user_abc")
+
+        assert flex_sentinel.called, "expected FlexOpenAIClient under openrouter"
+        assert not regular_sentinel.called
+        assert captured["llm_client"] is flex_sentinel.return_value

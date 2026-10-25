@@ -1,1 +1,65 @@
-IyBDb25maWd1cmF0aW9uIGZpbGUgZm9yIHRoZSBTcGhpbnggZG9jdW1lbnRhdGlvbiBidWlsZGVyLgojCiMgRm9yIHRoZSBmdWxsIGxpc3Qgb2YgYnVpbHQtaW4gY29uZmlndXJhdGlvbiB2YWx1ZXMsIHNlZSB0aGUgZG9jdW1lbnRhdGlvbjoKIyBodHRwczovL3d3dy5zcGhpbngtZG9jLm9yZy9lbi9tYXN0ZXIvdXNhZ2UvY29uZmlndXJhdGlvbi5odG1sCmltcG9ydCBpbXBvcnRsaWIubWV0YWRhdGEKCiMgLS0gUHJvamVjdCBpbmZvcm1hdGlvbiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIGh0dHBzOi8vd3d3LnNwaGlueC1kb2Mub3JnL2VuL21hc3Rlci91c2FnZS9jb25maWd1cmF0aW9uLmh0bWwjcHJvamVjdC1pbmZvcm1hdGlvbgoKcHJvamVjdCA9ICJjb2lsbXEiCmNvcHlyaWdodCA9ICIyMDA5IC0gMjAyNiwgSGFucyBMZWxsZWxpZCIKYXV0aG9yID0gIkhhbnMgTGVsbGVsaWQiCgp2ZXJzaW9uID0gcmVsZWFzZSA9IGltcG9ydGxpYi5tZXRhZGF0YS52ZXJzaW9uKCJjb2lsbXEiKQoKIyAtLSBHZW5lcmFsIGNvbmZpZ3VyYXRpb24gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgaHR0cHM6Ly93d3cuc3BoaW54LWRvYy5vcmcvZW4vbWFzdGVyL3VzYWdlL2NvbmZpZ3VyYXRpb24uaHRtbCNnZW5lcmFsLWNvbmZpZ3VyYXRpb24KCmV4dGVuc2lvbnMgPSBbCiAgICAic3BoaW54LmV4dC5hdXRvZG9jIiwKICAgICJzcGhpbnguZXh0LmF1dG9zZWN0aW9ubGFiZWwiLAogICAgInNwaGlueC5leHQuYXV0b3N1bW1hcnkiLAogICAgInNwaGlueC5leHQuaW50ZXJzcGhpbngiLAogICAgInNwaGlueC5leHQudmlld2NvZGUiLAogICAgInNwaGlueF9hdXRvZG9jX3R5cGVoaW50cyIsCiAgICAic3BoaW54X2lzc3VlcyIsCiAgICAic3BoaW54X3BhcmFtbGlua3MiLApdCgpwcmltYXJ5X2RvbWFpbiA9ICJweSIKZGVmYXVsdF9yb2xlID0gInB5Om9iaiIKCmV4Y2x1ZGVfcGF0dGVybnMgPSBbCiAgICAiLkRTX1N0b3JlIiwKICAgICIuZ2l0aWdub3JlVGh1bWJzLmRiIiwKICAgICJfYnVpbGQiLApdCgojIC0tIE9wdGlvbnMgZm9yIEhUTUwgb3V0cHV0IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBodHRwczovL3d3dy5zcGhpbngtZG9jLm9yZy9lbi9tYXN0ZXIvdXNhZ2UvY29uZmlndXJhdGlvbi5odG1sI29wdGlvbnMtZm9yLWh0bWwtb3V0cHV0CgpodG1sX3RoZW1lID0gImZ1cm8iCgojIC0tIE9wdGlvbnMgZm9yIGludGVyc3BoaW54IGV4dGVuc2lvbiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBodHRwczovL3d3dy5zcGhpbngtZG9jLm9yZy9lbi9tYXN0ZXIvdXNhZ2UvZXh0ZW5zaW9ucy9pbnRlcnNwaGlueC5odG1sI2NvbmZpZ3VyYXRpb24KCmludGVyc3BoaW54X21hcHBpbmcgPSB7CiAgICAicHl0aG9uIjogKCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8zIiwgTm9uZSksCiAgICAic3FsYWxjaGVteSI6ICgiaHR0cHM6Ly9kb2NzLnNxbGFsY2hlbXkub3JnL2VuLzE0LyIsIE5vbmUpLAp9CgojIC0tIE9wdGlvbnMgZm9yIGF1dG9zZWN0aW9ubGFiZWwgZXh0ZW5zaW9uIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBodHRwczovL3d3dy5zcGhpbngtZG9jLm9yZy9lbi9tYXN0ZXIvdXNhZ2UvZXh0ZW5zaW9ucy9hdXRvc2VjdGlvbmxhYmVsLmh0bWwjY29uZmlndXJhdGlvbgoKYXV0b3NlY3Rpb25sYWJlbF9wcmVmaXhfZG9jdW1lbnQgPSBUcnVlCgojIC0tIE9wdGlvbnMgZm9yIHNwaGlueC1wYXJhbWxpbmtzIGV4dGVuc2lvbiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBodHRwczovL3B5cGkub3JnL3Byb2plY3Qvc3BoaW54LXBhcmFtbGlua3MvI2NvbmZpZ3VyYXRpb24KCnBhcmFtbGlua3NfaHlwZXJsaW5rX3BhcmFtID0gIm5hbWUiCgojIC0tIE9wdGlvbnMgZm9yIHNwaGlueC1pc3N1ZXMgZXh0ZW5zaW9uIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBodHRwczovL2dpdGh1Yi5jb20vc2xvcmlhL3NwaGlueC1pc3N1ZXMKCmlzc3Vlc19naXRodWJfcGF0aCA9ICJob3puL2NvaWxtcSIK
+# Configuration file for the Sphinx documentation builder.
+#
+# For the full list of built-in configuration values, see the documentation:
+# https://www.sphinx-doc.org/en/master/usage/configuration.html
+import importlib.metadata
+
+# -- Project information -----------------------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+
+project = "coilmq"
+copyright = "2009 - 2026, Hans Lellelid"
+author = "Hans Lellelid"
+
+version = release = importlib.metadata.version("coilmq")
+
+# -- General configuration ---------------------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
+
+extensions = [
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosectionlabel",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.viewcode",
+    "sphinx_autodoc_typehints",
+    "sphinx_issues",
+    "sphinx_paramlinks",
+]
+
+primary_domain = "py"
+default_role = "py:obj"
+
+exclude_patterns = [
+    ".DS_Store",
+    ".gitignoreThumbs.db",
+    "_build",
+]
+
+# -- Options for HTML output -------------------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
+
+html_theme = "furo"
+
+# -- Options for intersphinx extension ---------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html#configuration
+
+intersphinx_mapping = {
+    "python": ("https://docs.python.org/3", None),
+    "sqlalchemy": ("https://docs.sqlalchemy.org/en/14/", None),
+}
+
+# -- Options for autosectionlabel extension ----------------------------------
+# https://www.sphinx-doc.org/en/master/usage/extensions/autosectionlabel.html#configuration
+
+autosectionlabel_prefix_document = True
+
+# -- Options for sphinx-paramlinks extension ---------------------------------
+# https://pypi.org/project/sphinx-paramlinks/#configuration
+
+paramlinks_hyperlink_param = "name"
+
+# -- Options for sphinx-issues extension -------------------------------------
+# https://github.com/sloria/sphinx-issues
+
+issues_github_path = "hozn/coilmq"

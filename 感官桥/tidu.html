@@ -1,1 +1,21 @@
-PCFkb2N0eXBlIGh0bWw+PG1ldGEgY2hhcnNldD0idXRmLTgiPjxzdHlsZT5odG1sLGJvZHl7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6IzAwMH0KY2FudmFze2Rpc3BsYXk6YmxvY2t9PC9zdHlsZT4KPGNhbnZhcyBpZD1jIHdpZHRoPTY0MCBoZWlnaHQ9MzYwPjwvY2FudmFzPgo8c2NyaXB0Pgpjb25zdCBjPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjJyksIGc9Yy5nZXRDb250ZXh0KCcyZCcpOwpjb25zdCBUSUxFPTM2MCwgTlc9OCwgWkhPVT01OTQ7CmxldCBvZmY9MDsgbGV0IGltPW5ldyBJbWFnZSgpOwppbS5zcmM9IueJh1/lupUucG5nIjsKaW0ub25sb2FkPSgpPT57IGRyYXcoKTsgd2luZG93Ll9fcmVhZHk9MTsgfTsKZnVuY3Rpb24gZHJhdygpewogIGcuZmlsbFN0eWxlPSIjMGEwYTBhIjsgZy5maWxsUmVjdCgwLDAsNjQwLDM0MCk7CiAgLy8g5YaF5a6577ya5bmz6ZO655qE5Zu+77yM5oyJ57Sv6K6h5L2N56e75bmz56e7CiAgY29uc3QgeDA9LSgoKG9mZiVUSUxFKStUSUxFKSVUSUxFKTsKICBmb3IobGV0IGk9MDtpPE5XO2krKykgZy5kcmF3SW1hZ2UoaW0sIHgwK2kqVElMRSwgMCwgVElMRSwgMzQwKTsKICAvLyDlupXpg6jvvJrnnJ/lgLzlsLHnlLvlnKjov5nlhL/vvIzot5/lhoXlrrnlkIzkuIDmrKHmuLLmn5PkuqfnlJ8KICBnLmZpbGxTdHlsZT0iIzAwMCI7IGcuZmlsbFJlY3QoMCwzNDAsNjQwLDIwKTsKICBnLmZpbGxTdHlsZT0iI2ZmZiI7IGcuZmlsbFJlY3Qob2ZmJVpIT1UsIDM0NCwgNSwgMTQpOwp9CndpbmRvdy5fX2dvPShweCk9Pnsgb2ZmKz1weDsgZHJhdygpOyByZXR1cm4gb2ZmOyB9Owp3aW5kb3cuX19vZmY9KCk9Pm9mZjsKPC9zY3JpcHQ+Cg==
+<!doctype html><meta charset="utf-8"><style>html,body{margin:0;padding:0;background:#000}
+canvas{display:block}</style>
+<canvas id=c width=640 height=360></canvas>
+<script>
+const c=document.getElementById('c'), g=c.getContext('2d');
+const TILE=360, NW=8, ZHOU=594;
+let off=0; let im=new Image();
+im.src="片_底.png";
+im.onload=()=>{ draw(); window.__ready=1; };
+function draw(){
+  g.fillStyle="#0a0a0a"; g.fillRect(0,0,640,340);
+  // 内容：平铺的图，按累计位移平移
+  const x0=-(((off%TILE)+TILE)%TILE);
+  for(let i=0;i<NW;i++) g.drawImage(im, x0+i*TILE, 0, TILE, 340);
+  // 底部：真值就画在这儿，跟内容同一次渲染产生
+  g.fillStyle="#000"; g.fillRect(0,340,640,20);
+  g.fillStyle="#fff"; g.fillRect(off%ZHOU, 344, 5, 14);
+}
+window.__go=(px)=>{ off+=px; draw(); return off; };
+window.__off=()=>off;
+</script>

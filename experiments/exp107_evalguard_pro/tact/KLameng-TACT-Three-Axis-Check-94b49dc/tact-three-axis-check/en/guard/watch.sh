@@ -1,1 +1,19 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIFRBQ1QgdG9vbGtpdCBkaXJlY3Rvcnkgd3JpdGUgbW9uaXRvciAoZm9yIGF0dHJpYnV0aW9uL3RyYWNpbmcpCiMgUHVycG9zZTogY2F0Y2ggaW4gcmVhbCB0aW1lIHdobyBpcyB3cml0aW5nIGNvbnRyb2xsZWQgZmlsZXM7IHBpbiBkb3duIHRoZSBzb3VyY2Ugb2YgYSByb2xsYmFjay4KIyBVc2FnZTogZ3VhcmQvd2F0Y2guc2ggW3NlY29uZHNdICAgKGRlZmF1bHQgMTIwcywgZW5kIHdpdGggQ3RybC1DKQojIERlcGVuZGVuY3k6IGlub3RpZnl3YWl0IChpZiBub3QgaW5zdGFsbGVkLCB0cmFjZSBtYW51YWxseSB3aXRoIGxzb2YvcHM7IHNlZSBndWFyZC9SRUFETUUubWQpCnNldCAtZQpESVI9IiQoY2QgIiQoZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iKS8uLiIgJiYgcHdkKSIKRFVSPSIkezE6LTEyMH0iCmlmICEgY29tbWFuZCAtdiBpbm90aWZ5d2FpdCA+L2Rldi9udWxsIDI+JjE7IHRoZW4KICBlY2hvICJbIV0gaW5vdGlmeXdhaXQgbm90IGluc3RhbGxlZC4gQWx0ZXJuYXRpdmVzOiIKICBlY2hvICIgICAgd2F0Y2ggLW4xICdsc29mICtEICRESVInIgogIGVjaG8gIiAgICBwcyBhdXggfCBncmVwIC1pRSAndGFjdHxyZXN0b3JlfGJhY2t1cCciCiAgZXhpdCAxCmZpCmVjaG8gIk1vbml0b3Jpbmcgd3JpdGVzIHRvIGNvbnRyb2xsZWQgZmlsZXMgdW5kZXIgJERJUiBmb3IgJHtEVVJ9cyAoZWFjaCB3cml0ZSBwcmludHMgdGltZSAmIFBJRDsgQ3RybC1DIHRvIHN0b3AgZWFybHkpLi4uIgppbm90aWZ5d2FpdCAtbSAtciAtLXRpbWVmbXQgJyVIOiVNOiVTJyAtLWZvcm1hdCAnWyVUXSAldyVmICVlIChwaWQ9JXAgY21kPSVjKScgXAogIC1lIG1vZGlmeSxjbG9zZV93cml0ZSxjcmVhdGUsbW92ZSxkZWxldGUgIiRESVIiIC0tdGltZW91dCAiJERVUiIgMj4vZGV2L251bGwgXAogIHwgZ3JlcCAtdkUgJ1wuZ2l0LycgXAogIHx8IGVjaG8gIihObyB3cml0ZXMgdG8gY29udHJvbGxlZCBmaWxlcyB3aXRoaW4gJHtEVVJ9cykiCg==
+#!/usr/bin/env bash
+# TACT toolkit directory write monitor (for attribution/tracing)
+# Purpose: catch in real time who is writing controlled files; pin down the source of a rollback.
+# Usage: guard/watch.sh [seconds]   (default 120s, end with Ctrl-C)
+# Dependency: inotifywait (if not installed, trace manually with lsof/ps; see guard/README.md)
+set -e
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+DUR="${1:-120}"
+if ! command -v inotifywait >/dev/null 2>&1; then
+  echo "[!] inotifywait not installed. Alternatives:"
+  echo "    watch -n1 'lsof +D $DIR'"
+  echo "    ps aux | grep -iE 'tact|restore|backup'"
+  exit 1
+fi
+echo "Monitoring writes to controlled files under $DIR for ${DUR}s (each write prints time & PID; Ctrl-C to stop early)..."
+inotifywait -m -r --timefmt '%H:%M:%S' --format '[%T] %w%f %e (pid=%p cmd=%c)' \
+  -e modify,close_write,create,move,delete "$DIR" --timeout "$DUR" 2>/dev/null \
+  | grep -vE '\.git/' \
+  || echo "(No writes to controlled files within ${DUR}s)"

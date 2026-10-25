@@ -1,1 +1,125 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5rSb56We5Yik6L+Z5Liq6KGl5LiB5YC85LiN5YC8Cj09PT09PT09PT09PT09PT09PT09CuihpeS4geaKiiA0IOasoSByZWxvYWQg55qE5oiQ5pys77yM5LuO44CQ5oyJ6ZSu6YKj5LiA5Yi744CR5pCs5Yiw44CQ5byA5py66YKj5LiA5Yi744CR44CCCumXrumimO+8mui/meS4quaQrOi/kOacrOi6q+WAvOS4jeWAvO+8nwoK5rSb56We5Yik5o2u77ya5Lyk5p2l6Ieq5Y2V5qyh5bOw5YC877yM5LiN5piv57Sv6K6h5pe26ZW/77yI5LiK5LiA5qyh562J5oC76YeP5a+554Wn5bey6K+B77yMQ0kg5LiN6LeoIDDvvInjgIIK5omA5Lul5ZCM5LiA5Liq5oiQ5pys77yM5pS+5Zyo5byA5py6IHZzIOaUvuWcqOaMiemUru+8jOaNn+S8pOaYr+S4jeS4gOagt+eahOOAggoK5LiJ57uE77yaCiAgUzAgIOeOsOeKtiAgICAgIOKAlOKAlCDmr4/mrKHmjInplK7pg73ku5ggMjYg5ouN77yI6aaW5qyh5pu06LS177yM5YWI5oyJIHVuaWZvcm0g566X77yJCiAgUzEgICMxNjM5NyAgICDigJTigJQg6aaW5qyh5LuYIDI2IOaLje+8jOS5i+WQjuavj+asoSA4IOaLjQogIFMyICAr5pys6KGl5LiBICAgIOKAlOKAlCDlvIDmnLrku5ggMjYg5ouN77yM5LmL5ZCO5q+P5qyhIDgg5ouN77yI5oyJ6ZSu6Lev5b6E5YaN5peg5bOw5YC877yJCgpTMSDkuI4gUzIg5oC75Yml5aS66YeP44CQ5a6M5YWo55u45ZCM44CR77yM5ZSv5LiA5beu5Yir5piv6YKjIDI2IOaLjeiQveWcqOW8gOacuui/mOaYr+mmluasoeaMiemUruOAggroi6UgUzIg5piO5pi+5LyY5LqOIFMx77yM5bCx6K+B5piOIuaKiuWzsOWAvOaMquWHuuS6pOS6kui3r+W+hCLmnKzouqvmnInku7flgLzvvIwK6ICM5LiN6ZyA6KaB5YGH6K6+5byA5py66YKj5qyh5piv5YWN6LS555qE44CCCiIiIgppbXBvcnQgc3lzLCBvcywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nLCAnY29yZScpKQpmcm9tIGxpZmU1IGltcG9ydCBMaWZlNQoKU1RFUFM9NjAwOyBQUkVTU19FVkVSWT02MDsgU0VFRFM9cmFuZ2UoMTYpOyBDSD0wCgpkZWYgbWFrZShjaF9zY2hlZHVsZSk6CiAgICAiIiJjaF9zY2hlZHVsZTogZGljdCDmi43mlbAgLT4g5Yml5aS66ZW/5bqm77yb5LiN5Zyo6KGo6YeM55qE5ouN5q2j5bi45YiG6YWNIiIiCiAgICBkZWYgYWxsb2Mod2FudCwgQiwgcyk6CiAgICAgICAgc3QgPSBjaF9zY2hlZHVsZS5nZXQocy50LCAwKQogICAgICAgIG8gPSBucC5hcmdzb3J0KC13YW50KTsgYSA9IG5wLnplcm9zKHMuTik7IGxlZnQ9QgogICAgICAgIGlmIHN0ID4gMDoKICAgICAgICAgICAgbyA9IFtpIGZvciBpIGluIG8gaWYgaSAhPSBjaF9zY2hlZHVsZS5nZXQoJ19fY2gnLDApXSArIFtjaF9zY2hlZHVsZS5nZXQoJ19fY2gnLDApXQogICAgICAgICAgICBmb3IgaSBpbiBvOgogICAgICAgICAgICAgICAgaWYgaSA9PSBjaF9zY2hlZHVsZS5nZXQoJ19fY2gnLDApIGFuZCBzLnQgaW4gY2hfc2NoZWR1bGU6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIHRrPW1pbih3YW50W2ldLGxlZnQpOyBhW2ldPXRrOyBsZWZ0LT10awogICAgICAgICAgICAgICAgaWYgbGVmdDw9MWUtMTI6IGJyZWFrCiAgICAgICAgICAgIHJldHVybiBhCiAgICAgICAgZm9yIGkgaW4gbzoKICAgICAgICAgICAgdGs9bWluKHdhbnRbaV0sbGVmdCk7IGFbaV09dGs7IGxlZnQtPXRrCiAgICAgICAgICAgIGlmIGxlZnQ8PTFlLTEyOiBicmVhawogICAgICAgIHJldHVybiBhCiAgICByZXR1cm4gYWxsb2MKCmRlZiBzdGFydmVfYXQodGlja3Nfc2V0LCBsZW5ndGgpOgogICAgIiIi5Zyo5oyH5a6a5ouN6ZuG5ZCI5LiK5Yml5aS6IGxlbmd0aCDmi43vvIjku47or6Xmi43otbfov57nu60gbGVuZ3Ro77yJIiIiCiAgICBzY2hlZD17fQogICAgZm9yIHQgaW4gdGlja3Nfc2V0OgogICAgICAgIGZvciBrIGluIHJhbmdlKGxlbmd0aCk6CiAgICAgICAgICAgIHNjaGVkW3Qra109VHJ1ZQogICAgcmV0dXJuIHNjaGVkCgpkZWYgcnVuKHNjaGVkLCBzZWVkcz1TRUVEUyk6CiAgICByb3dzPVtdCiAgICBmb3Igc2QgaW4gc2VlZHM6CiAgICAgICAgZGVmIGFsbG9jKHdhbnQsQixzKToKICAgICAgICAgICAgbz1ucC5hcmdzb3J0KC13YW50KTsgYT1ucC56ZXJvcyhzLk4pOyBsZWZ0PUIKICAgICAgICAgICAgaWYgc2NoZWQuZ2V0KHMudCxGYWxzZSk6CiAgICAgICAgICAgICAgICBvPVtpIGZvciBpIGluIG8gaWYgaSE9Q0hdK1tDSF0KICAgICAgICAgICAgICAgIGZvciBpIGluIG86CiAgICAgICAgICAgICAgICAgICAgaWYgaT09Q0g6IGNvbnRpbnVlCiAgICAgICAgICAgICAgICAgICAgdGs9bWluKHdhbnRbaV0sbGVmdCk7IGFbaV09dGs7IGxlZnQtPXRrCiAgICAgICAgICAgICAgICAgICAgaWYgbGVmdDw9MWUtMTI6IGJyZWFrCiAgICAgICAgICAgICAgICByZXR1cm4gYQogICAgICAgICAgICBmb3IgaSBpbiBvOgogICAgICAgICAgICAgICAgdGs9bWluKHdhbnRbaV0sbGVmdCk7IGFbaV09dGs7IGxlZnQtPXRrCiAgICAgICAgICAgICAgICBpZiBsZWZ0PD0xZS0xMjogYnJlYWsKICAgICAgICAgICAgcmV0dXJuIGEKICAgICAgICBsZj1MaWZlNShOPTgsc2VlZD1zZCxhbGxvY19mbj1hbGxvYyk7IGxmLnJ1bihTVEVQUykKICAgICAgICByZWNzPVtyIGZvciByIGluIGxmLmxvZyBpZiByWyd0J10+MzAwXQogICAgICAgIHJvd3MuYXBwZW5kKGRpY3Qoc2VlZD1pbnQoc2QpLGFsaXZlPWJvb2wobGYuYWxpdmUpLAogICAgICAgICAgICAgICAgICAgICAgICAgY2FwMD1mbG9hdChucC5hc2FycmF5KGxmLmNhcGFjaXR5KVswXSksCiAgICAgICAgICAgICAgICAgICAgICAgICBzaGFyZTA9ZmxvYXQobnAubWVhbihbclsnc2hhcmUwJ10gZm9yIHIgaW4gcmVjc10pKSBpZiByZWNzIGVsc2UgZmxvYXQoJ25hbicpKSkKICAgIHJldHVybiByb3dzCgpkZWYgcHJlc3NlZF90aWNrcygpOgogICAgcmV0dXJuIFs2MCppIGZvciBpIGluIHJhbmdlKDEsMTApXQoKZGVmIGJvb3RfY2koeCx5LG49NTAwMCxzZWVkPTApOgogICAgcm5nPW5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKTsgZD1ucC5hc2FycmF5KHgpLW5wLmFzYXJyYXkoeSkKICAgIGJzPVtucC5tZWFuKHJuZy5jaG9pY2UoZCxzaXplPWxlbihkKSxyZXBsYWNlPVRydWUpKSBmb3IgXyBpbiByYW5nZShuKV0KICAgIHJldHVybiBmbG9hdChucC5wZXJjZW50aWxlKGJzLDIuNSkpLGZsb2F0KG5wLnBlcmNlbnRpbGUoYnMsOTcuNSkpCgpkZWYgbWFpbigpOgogICAgcHQ9cHJlc3NlZF90aWNrcygpCiAgICAjIFMwIOavj+asoeaMiemUrumDveS7mCAyNgogICAgczA9c3RhcnZlX2F0KHB0LDI2KQogICAgIyBTMSDpppbmrKHmjInplK7ku5ggMjbvvIzlhbbkvZnmr4/mrKEgOAogICAgczE9c3RhcnZlX2F0KFtwdFswXV0sMjYpCiAgICBmb3IgdCBpbiBwdFsxOl06IHMxLnVwZGF0ZShzdGFydmVfYXQoW3RdLDgpKQogICAgIyBTMiDlvIDmnLrvvIjmi40w77yJ5LuYIDI277yM5LmL5ZCO5q+P5qyh5oyJ6ZSuIDgg4oCU4oCUIOaAu+mHj+S4jiBTMSDlrozlhajnm7jlkIwKICAgIHMyPXN0YXJ2ZV9hdChbMF0sMjYpCiAgICBmb3IgdCBpbiBwdDogczIudXBkYXRlKHN0YXJ2ZV9hdChbdF0sOCkpCgogICAgUj17bjpydW4ocykgZm9yIG4scyBpbiAoKCJTMCDnjrDnirYiLHMwKSwoIlMxICMxNjM5NyIsczEpLCgiUzIgK+acrOihpeS4gSIsczIpKX0KICAgIHByaW50KCI9Iio3Mik7IHByaW50KCIg5rSb56We5Yik77ya5oqKIDI2IOaLjeWzsOWAvOS7juaMiemUruaMquWIsOW8gOacuu+8jOWAvOS4jeWAvCIpOyBwcmludCgiPSIqNzIpCiAgICBwcmludChmIiB7J+e7hCc6PDE2fXsn5a2Y5rS7Jzo+N317J2NhcDAnOj4xMH17J+WQjuauteS7veminSc6PjEwfSIpCiAgICBmb3Igbixyb3dzIGluIFIuaXRlbXMoKToKICAgICAgICBwcmludChmIiB7bjo8MTZ9e3N1bShyWydhbGl2ZSddIGZvciByIGluIHJvd3MpfS97bGVuKHJvd3MpOjw1fSIKICAgICAgICAgICAgICBmIntucC5tZWFuKFtyWydjYXAwJ10gZm9yIHIgaW4gcm93c10pOj4xMC40Zn0iCiAgICAgICAgICAgICAgZiJ7bnAubWVhbihbclsnc2hhcmUwJ10gZm9yIHIgaW4gcm93c10pOj4xMC40Zn0iKQogICAgcHJpbnQoKQogICAgcHJpbnQoIiDimIUgUzEg5LiOIFMyIOaAu+WJpeWkuumHj+OAkOWujOWFqOebuOWQjOOAke+8iOmDveaYryAyNiArIDnDlzggPSA5OCDmi43vvIkiKQogICAgcHJpbnQoIiAgIOWUr+S4gOW3ruWIq++8mumCoyAyNiDmi43okL3lnKjjgJDpppbmrKHmjInplK7jgJHov5jmmK/jgJDlvIDmnLrjgJEiKQogICAgcHJpbnQoKQogICAgYT1bclsnY2FwMCddIGZvciByIGluIFJbIlMxICMxNjM5NyJdXTsgYj1bclsnY2FwMCddIGZvciByIGluIFJbIlMyICvmnKzooaXkuIEiXV0KICAgIGxvLGhpPWJvb3RfY2koYixhKQogICAgcHJpbnQoZiIgICBjYXAwIOW3riBTMuKIklMxID0ge25wLm1lYW4oYiktbnAubWVhbihhKTorLjRmfSAgYm9vdHN0cmFwIDk1JSBDSSBbe2xvOisuNGZ9LCB7aGk6Ky40Zn1dIikKICAgIGlmIGxvPjA6CiAgICAgICAgdj0oIuKchSBDSSDkuI3ot6ggMCDkuJTkuLrmraMg4oCU4oCUIOaAu+mHj+S4gOagt++8jOaMquWHuuWOu+WwseabtOWlveOAgiIKICAgICAgICAgICAiXG4gICDihpIg5bOw5YC86JC95Zyo5Lqk5LqS6Lev5b6E5LiK77yM5q+U6JC95Zyo5byA5py65pu05Lyk44CCIgogICAgICAgICAgICJcbiAgIOKGkiDooaXkuIHnmoTku7flgLzkuI3kvp3otZYn5byA5py66YKj5qyh5YWN6LS5J++8jOWPquS+nei1lifliKvlnKjmjInplK7kuIrngrgn44CCIikKICAgIGVsaWYgaGk8MDoKICAgICAgICB2PSLimqDvuI8g5Y+N5LqG77ya5pS+5Zyo5byA5py65Y+N6ICM5pu05beu44CC6KGl5LiB5LiN6K+l6L+Z5LmI5pS544CCIgogICAgZWxzZToKICAgICAgICB2PSLirJwgQ0kg6LeoIDAg4oCU4oCUIOWcqOi/meS4quWwuuW6puS4iu+8jOaMquS9jee9ruayoeacieWPr+a1i+W3ruWIq+OAgiIKICAgIHByaW50KGYiICAge3Z9IikKICAgIGpzb24uZHVtcCh7IlMwIjpSWyJTMCDnjrDnirYiXSwiUzEiOlJbIlMxICMxNjM5NyJdLCJTMiI6UlsiUzIgK+acrOihpeS4gSJdLAogICAgICAgICAgICAgICAiZGVsdGFfUzJfUzEiOmZsb2F0KG5wLm1lYW4oYiktbnAubWVhbihhKSksImNpOTUiOltsbyxoaV0sInZlcmRpY3QiOnZ9LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksJy4uJywnZGF0YScsJ2ZpcnN0X3ByZXNzX3RyYWRlLmpzb24nKSwndycpLAogICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkKICAgIHJldHVybiAwCmlmIF9fbmFtZV9fPT0iX19tYWluX18iOiBzeXMuZXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+洛神判这个补丁值不值
+====================
+补丁把 4 次 reload 的成本，从【按键那一刻】搬到【开机那一刻】。
+问题：这个搬运本身值不值？
+
+洛神判据：伤来自单次峰值，不是累计时长（上一次等总量对照已证，CI 不跨 0）。
+所以同一个成本，放在开机 vs 放在按键，损伤是不一样的。
+
+三组：
+  S0  现状      —— 每次按键都付 26 拍（首次更贵，先按 uniform 算）
+  S1  #16397    —— 首次付 26 拍，之后每次 8 拍
+  S2  +本补丁    —— 开机付 26 拍，之后每次 8 拍（按键路径再无峰值）
+
+S1 与 S2 总剥夺量【完全相同】，唯一差别是那 26 拍落在开机还是首次按键。
+若 S2 明显优于 S1，就证明"把峰值挪出交互路径"本身有价值，
+而不需要假设开机那次是免费的。
+"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
+from life5 import Life5
+
+STEPS=600; PRESS_EVERY=60; SEEDS=range(16); CH=0
+
+def make(ch_schedule):
+    """ch_schedule: dict 拍数 -> 剥夺长度；不在表里的拍正常分配"""
+    def alloc(want, B, s):
+        st = ch_schedule.get(s.t, 0)
+        o = np.argsort(-want); a = np.zeros(s.N); left=B
+        if st > 0:
+            o = [i for i in o if i != ch_schedule.get('__ch',0)] + [ch_schedule.get('__ch',0)]
+            for i in o:
+                if i == ch_schedule.get('__ch',0) and s.t in ch_schedule:
+                    continue
+                tk=min(want[i],left); a[i]=tk; left-=tk
+                if left<=1e-12: break
+            return a
+        for i in o:
+            tk=min(want[i],left); a[i]=tk; left-=tk
+            if left<=1e-12: break
+        return a
+    return alloc
+
+def starve_at(ticks_set, length):
+    """在指定拍集合上剥夺 length 拍（从该拍起连续 length）"""
+    sched={}
+    for t in ticks_set:
+        for k in range(length):
+            sched[t+k]=True
+    return sched
+
+def run(sched, seeds=SEEDS):
+    rows=[]
+    for sd in seeds:
+        def alloc(want,B,s):
+            o=np.argsort(-want); a=np.zeros(s.N); left=B
+            if sched.get(s.t,False):
+                o=[i for i in o if i!=CH]+[CH]
+                for i in o:
+                    if i==CH: continue
+                    tk=min(want[i],left); a[i]=tk; left-=tk
+                    if left<=1e-12: break
+                return a
+            for i in o:
+                tk=min(want[i],left); a[i]=tk; left-=tk
+                if left<=1e-12: break
+            return a
+        lf=Life5(N=8,seed=sd,alloc_fn=alloc); lf.run(STEPS)
+        recs=[r for r in lf.log if r['t']>300]
+        rows.append(dict(seed=int(sd),alive=bool(lf.alive),
+                         cap0=float(np.asarray(lf.capacity)[0]),
+                         share0=float(np.mean([r['share0'] for r in recs])) if recs else float('nan')))
+    return rows
+
+def pressed_ticks():
+    return [60*i for i in range(1,10)]
+
+def boot_ci(x,y,n=5000,seed=0):
+    rng=np.random.default_rng(seed); d=np.asarray(x)-np.asarray(y)
+    bs=[np.mean(rng.choice(d,size=len(d),replace=True)) for _ in range(n)]
+    return float(np.percentile(bs,2.5)),float(np.percentile(bs,97.5))
+
+def main():
+    pt=pressed_ticks()
+    # S0 每次按键都付 26
+    s0=starve_at(pt,26)
+    # S1 首次按键付 26，其余每次 8
+    s1=starve_at([pt[0]],26)
+    for t in pt[1:]: s1.update(starve_at([t],8))
+    # S2 开机（拍0）付 26，之后每次按键 8 —— 总量与 S1 完全相同
+    s2=starve_at([0],26)
+    for t in pt: s2.update(starve_at([t],8))
+
+    R={n:run(s) for n,s in (("S0 现状",s0),("S1 #16397",s1),("S2 +本补丁",s2))}
+    print("="*72); print(" 洛神判：把 26 拍峰值从按键挪到开机，值不值"); print("="*72)
+    print(f" {'组':<16}{'存活':>7}{'cap0':>10}{'后段份额':>10}")
+    for n,rows in R.items():
+        print(f" {n:<16}{sum(r['alive'] for r in rows)}/{len(rows):<5}"
+              f"{np.mean([r['cap0'] for r in rows]):>10.4f}"
+              f"{np.mean([r['share0'] for r in rows]):>10.4f}")
+    print()
+    print(" ★ S1 与 S2 总剥夺量【完全相同】（都是 26 + 9×8 = 98 拍）")
+    print("   唯一差别：那 26 拍落在【首次按键】还是【开机】")
+    print()
+    a=[r['cap0'] for r in R["S1 #16397"]]; b=[r['cap0'] for r in R["S2 +本补丁"]]
+    lo,hi=boot_ci(b,a)
+    print(f"   cap0 差 S2−S1 = {np.mean(b)-np.mean(a):+.4f}  bootstrap 95% CI [{lo:+.4f}, {hi:+.4f}]")
+    if lo>0:
+        v=("✅ CI 不跨 0 且为正 —— 总量一样，挪出去就更好。"
+           "\n   → 峰值落在交互路径上，比落在开机更伤。"
+           "\n   → 补丁的价值不依赖'开机那次免费'，只依赖'别在按键上炸'。")
+    elif hi<0:
+        v="⚠️ 反了：放在开机反而更差。补丁不该这么改。"
+    else:
+        v="⬜ CI 跨 0 —— 在这个尺度上，挪位置没有可测差别。"
+    print(f"   {v}")
+    json.dump({"S0":R["S0 现状"],"S1":R["S1 #16397"],"S2":R["S2 +本补丁"],
+               "delta_S2_S1":float(np.mean(b)-np.mean(a)),"ci95":[lo,hi],"verdict":v},
+              open(os.path.join(os.path.dirname(__file__),'..','data','first_press_trade.json'),'w'),
+              ensure_ascii=False,indent=1)
+    return 0
+if __name__=="__main__": sys.exit(main())

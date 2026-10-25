@@ -1,1 +1,97 @@
-aW1wb3J0IGpzb24sIG1hdGgsIG9zLCByYW5kb20sIHN1YnByb2Nlc3MsIHN5cywgdGltZQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCgojIC0tLS0g55yf5Zmq5aOw5rqQ77ya55yf5a6e5pe25bqP5oqW5Yqo77yI5ZCM5LiA5q615Luj56CB5Zyo5LiN5ZCM57O757uf6LSf6L295LiL55qE5oqW5Yqo77yJLS0tLQpkZWYgcmVhbF9qaXR0ZXIobj00MDAwKToKICAgIG91dD1bXQogICAgYT0wCiAgICBmb3IgXyBpbiByYW5nZShuKToKICAgICAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoNDAwKTogYT0oYSoxMTAzNTE1MjQ1KzEyMzQ1KSYweDdmZmZmZmZmCiAgICAgICAgb3V0LmFwcGVuZCh0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwKQogICAgcmV0dXJuIG91dAoKSj1yZWFsX2ppdHRlcigpCkouc29ydCgpCmRlZiBlbXBfY2RmKHgpOgogICAgbG8saGk9MCxsZW4oSikKICAgIHdoaWxlIGxvPGhpOgogICAgICAgIG09KGxvK2hpKS8vMgogICAgICAgIGlmIEpbbV08eDogbG89bSsxCiAgICAgICAgZWxzZTogaGk9bQogICAgcmV0dXJuIGxvL2xlbihKKQoKIyDnnJ/lrp7lmarlo7DnmoTnu4/pqozliIbluIPvvIjkuI3lgYforr7pq5jmlq/vvIkKbXUwPXN1bShKKS9sZW4oSikKc2QwPShzdW0oKHgtbXUwKSoqMiBmb3IgeCBpbiBKKS9sZW4oSikpKiowLjUKCiMgLS0tLSDnnJ/mjZ/kvKTpgJrpgZPvvJpmb3JrL1NJR0tJTEwg55yf5a6e6K6h5pe2IC0tLS0KZGVmIHJlYWxfY29zdCgpOgogICAgdHM9W10KICAgIGZvciBfIGluIHJhbmdlKDIwMCk6CiAgICAgICAgdDA9dGltZS5wZXJmX2NvdW50ZXJfbnMoKQogICAgICAgIHA9c3VicHJvY2Vzcy5Qb3Blbihbc3lzLmV4ZWN1dGFibGUsIi1jIiwicGFzcyJdKQogICAgICAgIHAua2lsbCgpOyBwLndhaXQoKQogICAgICAgIHRzLmFwcGVuZCh0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwKQogICAgcmV0dXJuIHN1bSh0cykvbGVuKHRzKSwgKHN1bSgoeC1zdW0odHMpL2xlbih0cykpKioyIGZvciB4IGluIHRzKS9sZW4odHMpKSoqMC41CgpDX0FDVF9NVSwgQ19BQ1RfU0QgPSByZWFsX2Nvc3QoKQoKcm5nPXJhbmRvbS5SYW5kb20oMjAyNjEwMTkpCiMg5L+h5Y+35bmF5bqm77yI55yf5a6e77ya5oqK5oqW5Yqo5oyJIDMg5qGj55yf5a6e6LSf6L295pS+5aSn77yJ4oCU4oCU55So57uP6aqM5oq95qC36ICM6Z2e6auY5pavClNJRz1bMC4wLCAxLjAsIDIuMCwgNC4wXQpQUklPUj1bMC4zLDAuNSwwLjddCgpkZWYgZHJhdyhtdSwgc2QpOiAgIyDnnJ/lrp7mipbliqjph43ph4fmoLcgKyDlgY/np7sKICAgIHg9SlttaW4obGVuKEopLTEsIGludChhYnMocm5nLmdhdXNzKDAsMSkpKjAuNCpsZW4oSikpKV0KICAgIHJldHVybiB4ICsgcm5nLmdhdXNzKG11LCBzZCkKCmRlZiBydW4ocGksIHNpZywgbW9kZSwgTj0zMDAwKToKICAgICIiIm1vZGU6ICdiYXllcycg6Kej5p6Q6ZiI5YC8IHwgJ3NjYW4nIOe7j+mqjOaJq+aPj+acgOS8mCB8ICdhbHdheXMnIHwgJ25ldmVyJyIiIgogICAgQ19mcD1DX0FDVF9NVSAgICAgICAgICAjIOivr+aKpeS7o+S7tyA9IOecn+WunuaKouWNoOW8gOmUgAogICAgQ19taXNzPUNfQUNUX01VKjguMCAgICAjIOa8j+aKpeS7o+S7tyA9IOaNn+S8pOaJqeWkp++8iDE1NyDlrp7mtYsgOCDlgI3ph4/nuqfvvIkKICAgIHRocl9scj0oQ19mcC9DX21pc3MpKigoMS1waSkvcGkpCiAgICB0b3Q9MC4wOyBoaXRzPTA7IGZwcz0wOyBtaXNzZXM9MDsgYWN0ZWQ9MDsgZGFtYWdlPTAKICAgIGZvciBfIGluIHJhbmdlKE4pOgogICAgICAgIGQgPSAxIGlmIHJuZy5yYW5kb20oKTxwaSBlbHNlIDAKICAgICAgICBvID0gZHJhdyhzaWcqc2QwLCBzZDApIGlmIGQgZWxzZSBkcmF3KDAuMCwgc2QwKQogICAgICAgICMg57uP6aqM5Ly854S25q+U77yI55So55yf5a6e57uP6aqMIENERiDogIzpnZ7op6PmnpDlr4bluqbvvIkKICAgICAgICBpZiBkPT0xOiBwYXNzCiAgICAgICAgIyDnlKjnnJ/lrp4gQ0RGIOaehOmAoCBMUu+8mlAob3xkKS9QKG98fmQpIOeUqOenu+S9jee7j+mqjOWIhuW4gwogICAgICAgIHAxID0gMS4wLWVtcF9jZGYoby1zaWcqc2QwKSBpZiBzaWc+MCBlbHNlIDAuNQogICAgICAgIHAwID0gMS4wLWVtcF9jZGYobykKICAgICAgICBwMT1tYXgocDEsMWUtOSk7IHAwPW1heChwMCwxZS05KQogICAgICAgIGxyID0gbWF0aC5sb2cocDEvcDApCiAgICAgICAgaWYgbW9kZT09J2JheWVzJzogICBhY3QgPSBsciA+IG1hdGgubG9nKG1heCh0aHJfbHIsMWUtOSkpCiAgICAgICAgZWxpZiBtb2RlPT0nc2Nhbic6ICBhY3QgPSBvID4gbXUwICsgMS4wKnNkMCAgICAgIyAxNTcg5omr5Ye655qE57uP6aqM5pyA5LyY5qGjCiAgICAgICAgZWxpZiBtb2RlPT0nYWx3YXlzJzphY3QgPSBUcnVlCiAgICAgICAgZWxzZTogICAgICAgICAgICAgICBhY3QgPSBGYWxzZQogICAgICAgIGlmIGFjdDoKICAgICAgICAgICAgYWN0ZWQrPTEKICAgICAgICAgICAgdG90Kz1DX0FDVF9NVQogICAgICAgICAgICBpZiBkOiBoaXRzKz0xCiAgICAgICAgICAgIGVsc2U6IGZwcys9MQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIGQ6IG1pc3Nlcys9MTsgdG90Kz1DX21pc3M7IGRhbWFnZSs9MQogICAgcmV0dXJuIGRpY3QobW9kZT1tb2RlLHByaW9yPXBpLHNpZz1zaWcsY29zdD10b3QvTixoaXRzPWhpdHMsbWlzc2VzPW1pc3NlcywKICAgICAgICAgICAgICAgIGZwcz1mcHMsYWN0ZWQ9YWN0ZWQsZGFtYWdlX3JhdGU9ZGFtYWdlL04pCgpyZXM9W10KZm9yIHBpIGluIFBSSU9SOgogICAgZm9yIHMgaW4gU0lHOgogICAgICAgIGZvciBtIGluIFsnYmF5ZXMnLCdzY2FuJywnYWx3YXlzJywnbmV2ZXInXToKICAgICAgICAgICAgcmVzLmFwcGVuZChydW4ocGkscyxtKSkKCmpzb24uZHVtcChkaWN0KG5vaXNlX211PW11MCxub2lzZV9zZD1zZDAsQ19BQ1RfTVU9Q19BQ1RfTVUsQ19BQ1RfU0Q9Q19BQ1RfU0QsCiAgICAgICAgICAgICAgIHJlcz1yZXMpLCBvcGVuKCdzMS5qc29uJywndycpLCBpbmRlbnQ9MSkKCnByaW50KCLnnJ/lrp7lmarlo7AgIG11PSUuMWYgbnMgIHNkPSUuMWYgbnMiJShtdTAsc2QwKSkKcHJpbnQoIuecn+WunuaKouWNoOaIkOacrCAlLjFmIMKxICUuMWYgbnMiJShDX0FDVF9NVSxDX0FDVF9TRCkpCnByaW50KCkKcHJpbnQoInByaW9yIHNpZyB8IGJheWVzICAgICBzY2FuICAgICAgYWx3YXlzICAgIG5ldmVyICAgfCDlhazlvI/og5w/IikKZm9yIHBpIGluIFBSSU9SOgogICAgZm9yIHMgaW4gU0lHOgogICAgICAgIHJvdz17clsnbW9kZSddOnJbJ2Nvc3QnXSBmb3IgciBpbiByZXMgaWYgclsncHJpb3InXT09cGkgYW5kIHJbJ3NpZyddPT1zfQogICAgICAgIHdpbj1taW4ocm93LGtleT1yb3cuZ2V0KQogICAgICAgIHByaW50KCIgJS4xZiAgJS4xZiB8ICU4LjFmICU4LjFmICU4LjFmICU4LjFmIHwgJXMiJSgKICAgICAgICAgICAgcGkscyxyb3dbJ2JheWVzJ10scm93WydzY2FuJ10scm93WydhbHdheXMnXSxyb3dbJ25ldmVyJ10sd2luKSkK
+import json, math, os, random, subprocess, sys, time
+from collections import Counter
+
+# ---- 真噪声源：真实时序抖动（同一段代码在不同系统负载下的抖动）----
+def real_jitter(n=4000):
+    out=[]
+    a=0
+    for _ in range(n):
+        t0=time.perf_counter_ns()
+        for _ in range(400): a=(a*1103515245+12345)&0x7fffffff
+        out.append(time.perf_counter_ns()-t0)
+    return out
+
+J=real_jitter()
+J.sort()
+def emp_cdf(x):
+    lo,hi=0,len(J)
+    while lo<hi:
+        m=(lo+hi)//2
+        if J[m]<x: lo=m+1
+        else: hi=m
+    return lo/len(J)
+
+# 真实噪声的经验分布（不假设高斯）
+mu0=sum(J)/len(J)
+sd0=(sum((x-mu0)**2 for x in J)/len(J))**0.5
+
+# ---- 真损伤通道：fork/SIGKILL 真实计时 ----
+def real_cost():
+    ts=[]
+    for _ in range(200):
+        t0=time.perf_counter_ns()
+        p=subprocess.Popen([sys.executable,"-c","pass"])
+        p.kill(); p.wait()
+        ts.append(time.perf_counter_ns()-t0)
+    return sum(ts)/len(ts), (sum((x-sum(ts)/len(ts))**2 for x in ts)/len(ts))**0.5
+
+C_ACT_MU, C_ACT_SD = real_cost()
+
+rng=random.Random(20261019)
+# 信号幅度（真实：把抖动按 3 档真实负载放大）——用经验抽样而非高斯
+SIG=[0.0, 1.0, 2.0, 4.0]
+PRIOR=[0.3,0.5,0.7]
+
+def draw(mu, sd):  # 真实抖动重采样 + 偏移
+    x=J[min(len(J)-1, int(abs(rng.gauss(0,1))*0.4*len(J)))]
+    return x + rng.gauss(mu, sd)
+
+def run(pi, sig, mode, N=3000):
+    """mode: 'bayes' 解析阈值 | 'scan' 经验扫描最优 | 'always' | 'never'"""
+    C_fp=C_ACT_MU          # 误报代价 = 真实抢占开销
+    C_miss=C_ACT_MU*8.0    # 漏报代价 = 损伤扩大（157 实测 8 倍量级）
+    thr_lr=(C_fp/C_miss)*((1-pi)/pi)
+    tot=0.0; hits=0; fps=0; misses=0; acted=0; damage=0
+    for _ in range(N):
+        d = 1 if rng.random()<pi else 0
+        o = draw(sig*sd0, sd0) if d else draw(0.0, sd0)
+        # 经验似然比（用真实经验 CDF 而非解析密度）
+        if d==1: pass
+        # 用真实 CDF 构造 LR：P(o|d)/P(o|~d) 用移位经验分布
+        p1 = 1.0-emp_cdf(o-sig*sd0) if sig>0 else 0.5
+        p0 = 1.0-emp_cdf(o)
+        p1=max(p1,1e-9); p0=max(p0,1e-9)
+        lr = math.log(p1/p0)
+        if mode=='bayes':   act = lr > math.log(max(thr_lr,1e-9))
+        elif mode=='scan':  act = o > mu0 + 1.0*sd0     # 157 扫出的经验最优档
+        elif mode=='always':act = True
+        else:               act = False
+        if act:
+            acted+=1
+            tot+=C_ACT_MU
+            if d: hits+=1
+            else: fps+=1
+        else:
+            if d: misses+=1; tot+=C_miss; damage+=1
+    return dict(mode=mode,prior=pi,sig=sig,cost=tot/N,hits=hits,misses=misses,
+                fps=fps,acted=acted,damage_rate=damage/N)
+
+res=[]
+for pi in PRIOR:
+    for s in SIG:
+        for m in ['bayes','scan','always','never']:
+            res.append(run(pi,s,m))
+
+json.dump(dict(noise_mu=mu0,noise_sd=sd0,C_ACT_MU=C_ACT_MU,C_ACT_SD=C_ACT_SD,
+               res=res), open('s1.json','w'), indent=1)
+
+print("真实噪声  mu=%.1f ns  sd=%.1f ns"%(mu0,sd0))
+print("真实抢占成本 %.1f ± %.1f ns"%(C_ACT_MU,C_ACT_SD))
+print()
+print("prior sig | bayes     scan      always    never   | 公式胜?")
+for pi in PRIOR:
+    for s in SIG:
+        row={r['mode']:r['cost'] for r in res if r['prior']==pi and r['sig']==s}
+        win=min(row,key=row.get)
+        print(" %.1f  %.1f | %8.1f %8.1f %8.1f %8.1f | %s"%(
+            pi,s,row['bayes'],row['scan'],row['always'],row['never'],win))

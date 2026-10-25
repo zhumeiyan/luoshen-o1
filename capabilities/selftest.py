@@ -1,1 +1,154 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLliKTlrprlsYLoh6rmo4Ag4oCU4oCUIOeUqCLnqbrlo7Pkuqfniaki6aqM6K+B5Yik5a6a5Zmo55yf55qE5LyaIEZBSUzjgIIKCuS4uuS7gOS5iOi/meS4gOiKguavlOeUn+aIkOWxguabtOmHjeimgQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkuIDkuKrmsLjov5zov5Tlm54gT0sg55qE5Yik5a6a5Zmo77yM5q+U5rKh5pyJ5Yik5a6a5Zmo5pu05Y2x6Zmp77ya5a6D57uZ5Ye65ZCI5qC86K+B77yM5LqO5piv5rKh5Lq6CuWGjeWOu+afpeOAguWug+WkseaViOeahOaWueW8j+WSjCBldmFsZ3VhcmQg6KaB5rK755qE55eF5a6M5YWo5ZCM5Z6L4oCU4oCU6LeR5a6M44CB6YCA5Ye6IDDjgIHmiZPljbAK5LiA5Liq5aW955yL55qE5pWw5a2X77yM5L2G5piv6ZSZ55qE44CCCgrmiYDku6XmnKzohJrmnKzlr7nmr4/kuIDnsbvkuqfnianpg73pgKDkuIDkuKoqKuW3suefpeWdjyoq55qE5qC35pys77yM6KaB5rGC5Yik5a6a5Zmo5b+F6aG75YikIEZBSUzjgIIK5YikIFBBU1Mg5bCx5piv5Yik5a6a5Zmo5Z2P5LqG77yM6ICM5LiU6L+Z5LiN5piv6K2m5ZGK77yM5piv5rWL6K+V5aSx6LSl44CCCgogICAgcHl0aG9uMyBjYXBhYmlsaXRpZXMvc2VsZnRlc3QucHkKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBvcwppbXBvcnQgc3lzCgpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkpCgppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBQSUwgaW1wb3J0IEltYWdlCgpmcm9tIGNhcGFiaWxpdGllcyBpbXBvcnQgaW1hZ2UgYXMgY2FwX2ltZywgdmlkZW8gYXMgY2FwX3ZpZCwgYXVkaW8gYXMgY2FwX2F1ZApmcm9tIGNhcGFiaWxpdGllcyBpbXBvcnQgdmVyaWZ5CmZyb20gY2FwYWJpbGl0aWVzLmFydGlmYWN0IGltcG9ydCBBcnRpZmFjdCwgS2luZAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpPVVQgPSBvcy5wYXRoLmpvaW4oSEVSRSwgIm91dCIsICJzZWxmdGVzdCIpCm9zLm1ha2VkaXJzKE9VVCwgZXhpc3Rfb2s9VHJ1ZSkKCl9yb3dzOiBsaXN0W3R1cGxlW3N0ciwgYm9vbCwgc3RyXV0gPSBbXQoKCmRlZiBjaGVjayhuYW1lOiBzdHIsIG9rOiBib29sLCBkZXRhaWw6IHN0ciA9ICIiKSAtPiBOb25lOgogICAgX3Jvd3MuYXBwZW5kKChuYW1lLCBvaywgZGV0YWlsKSkKICAgIHByaW50KGYiICBbeydQQVNTJyBpZiBvayBlbHNlICdGQUlMJ31dIHtuYW1lfSIgKyAoZiIgIOKAlCB7ZGV0YWlsfSIgaWYgZGV0YWlsIGVsc2UgIiIpKQoKCmRlZiBleHBlY3QobmFtZTogc3RyLCB2LCB3YW50X29rOiBib29sKSAtPiBOb25lOgogICAgIiIi6KaB5rGC5Yik5a6a57uT5p6c562J5LqOIHdhbnRfb2vjgILliKTlj43kuoblsLHmmK/liKTlrprlmajlnY/kuobjgIIiIiIKICAgIGdvdCA9IGJvb2wodi5vaykKICAgIGQgPSAoIjsgIi5qb2luKHYucmVhc29ucykgb3IgIuaXoOeQhueUsSIpIGlmIG5vdCB3YW50X29rIGVsc2UgIiIKICAgIGNoZWNrKG5hbWUsIGdvdCA9PSB3YW50X29rLAogICAgICAgICAgZiJ3YW50PXsnT0snIGlmIHdhbnRfb2sgZWxzZSAnRkFJTCd9IGdvdD17J09LJyBpZiBnb3QgZWxzZSAnRkFJTCd9IHtkfSIpCgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICBwcmludCgi5Yik5a6a5bGC6Ieq5qOAIOKAlOKAlCDnqbrlo7Plv4XpobvooqvmipPkvY8iKQogICAgcHJpbnQoIj0iICogNjYpCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tIOWbvueJhyAtLS0tLS0tLS0tLS0tLS0tCiAgICBwcmludCgiXG5b5Zu+54mHXSDnnJ/lm77lupQgUEFTUyAvIOepuuWjs+W6lCBGQUlMIikKCiAgICBnb29kID0gY2FwX2ltZy5yZW5kZXIoewogICAgICAgICJraW5kIjogImNoYXJ0IiwgIm5hbWUiOiAic3RfZ29vZCIsICJ0aXRsZSI6ICLliKTlrprlsYLoh6rmo4AiLAogICAgICAgICJzZXJpZXMiOiBbeyJ5IjogWzEsIDMsIDIsIDUsIDRdLCAibGFiZWwiOiAi55yf5a6e5pWw5o2uIn1dLAogICAgICAgICJ4bGFiZWwiOiAi5q2lIiwgInlsYWJlbCI6ICLlgLwiLAogICAgfSwgb3V0X2Rpcj1PVVQpCiAgICBleHBlY3QoIuecn+WunuaKmOe6v+WbviDihpIgT0siLCB2ZXJpZnkuaW1hZ2UoZ29vZCksIFRydWUpCgogICAgYmxhbmsgPSBvcy5wYXRoLmpvaW4oT1VULCAic3RfYmxhbmsucG5nIikKICAgIEltYWdlLm5ldygiUkdCIiwgKDY0MCwgMzYwKSwgKDI1NSwgMjU1LCAyNTUpKS5zYXZlKGJsYW5rKQogICAgZXhwZWN0KCLnuq/nmb3nqbrlm74g4oaSIEZBSUwiLCB2ZXJpZnkuaW1hZ2UoQXJ0aWZhY3QoS2luZC5JTUFHRSwgYmxhbmspKSwgRmFsc2UpCgogICAgc29saWQgPSBvcy5wYXRoLmpvaW4oT1VULCAic3Rfc29saWQucG5nIikKICAgIEltYWdlLm5ldygiUkdCIiwgKDY0MCwgMzYwKSwgKDMwLCAzMCwgMzApKS5zYXZlKHNvbGlkKQogICAgZXhwZWN0KCLnuq/oibLlnZcg4oaSIEZBSUwiLCB2ZXJpZnkuaW1hZ2UoQXJ0aWZhY3QoS2luZC5JTUFHRSwgc29saWQpKSwgRmFsc2UpCgogICAgdGlueSA9IG9zLnBhdGguam9pbihPVVQsICJzdF90aW55LnBuZyIpCiAgICBJbWFnZS5uZXcoIlJHQiIsICg4LCA4KSwgKDI1NSwgMjU1LCAyNTUpKS5zYXZlKHRpbnkpCiAgICBleHBlY3QoIjh4OCDov4flsI8g4oaSIEZBSUwiLCB2ZXJpZnkuaW1hZ2UoQXJ0aWZhY3QoS2luZC5JTUFHRSwgdGlueSkpLCBGYWxzZSkKCiAgICBleHBlY3QoIuS4jeWtmOWcqOeahOaWh+S7tiDihpIgRkFJTCIsCiAgICAgICAgICAgdmVyaWZ5LmltYWdlKEFydGlmYWN0KEtpbmQuSU1BR0UsIG9zLnBhdGguam9pbihPVVQsICJub3BlLnBuZyIpKSksIEZhbHNlKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLSDop4bpopEgLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuW+inhumikV0g5pyJ5Yqo5pWI5bqUIFBBU1MgLyDpnZnmraLkuI7mnoHnn63lupQgRkFJTCIpCgogICAgZnJhbWVzID0gW10KICAgIGZvciBpIGluIHJhbmdlKDQ4KToKICAgICAgICBpbSA9IEltYWdlLm5ldygiUkdCIiwgKDMyMCwgMTgwKSwgKDI1NSwgMjU1LCAyNTUpKQogICAgICAgIHB4ID0gaW0ubG9hZCgpCiAgICAgICAgZm9yIHggaW4gcmFuZ2UoaSAqIDYsIG1pbigzMjAsIGkgKiA2ICsgNDApKToKICAgICAgICAgICAgZm9yIHkgaW4gcmFuZ2UoNjAsIDEyMCk6CiAgICAgICAgICAgICAgICBweFt4LCB5XSA9ICgyMCwgOTAsIDE2MCkKICAgICAgICBmcmFtZXMuYXBwZW5kKGltKQogICAgbW92ID0gY2FwX3ZpZC5mcm9tX2ZyYW1lcyhmcmFtZXMsIG91dD1vcy5wYXRoLmpvaW4oT1VULCAic3RfbW92aW5nLm1wNCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcHM9MjQsIG91dF9kaXI9T1VUKQogICAgZXhwZWN0KCLnp7vliqjoibLlnZfop4bpopEg4oaSIE9LIiwgdmVyaWZ5LnZpZGVvKG1vdiwgbWluX21vdGlvbj0wLjAwMDUpLCBUcnVlKQoKICAgIHN0aWxsID0gY2FwX3ZpZC5mcm9tX2ZyYW1lcyhbZnJhbWVzWzBdXSAqIDQ4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dD1vcy5wYXRoLmpvaW4oT1VULCAic3Rfc3RpbGwubXA0IiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnBzPTI0LCBvdXRfZGlyPU9VVCkKICAgIHYgPSB2ZXJpZnkudmlkZW8oc3RpbGwsIG1pbl9tb3Rpb249MC4wMDA1KQogICAgZXhwZWN0KCI0OCDluKflhajlkIwg4oaSIEZBSUzvvIjpnZnmraLlm77lhpLlhYXop4bpopHvvIkiLCB2LCBGYWxzZSkKCiAgICBzaG9ydCA9IGNhcF92aWQuZnJvbV9mcmFtZXMoZnJhbWVzWzozXSwgb3V0PW9zLnBhdGguam9pbihPVVQsICJzdF9zaG9ydC5tcDQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcHM9MjQsIG91dF9kaXI9T1VUKQogICAgZXhwZWN0KCIzIOW4p+i/h+efrSDihpIgRkFJTCIsIHZlcmlmeS52aWRlbyhzaG9ydCwgbWluX21vdGlvbj0wLjApLCBGYWxzZSkKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0g6Z+z6aKRIC0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCJcblvpn7PpopFdIOacieWjsOW6lCBQQVNTIC8g6Z2Z6Z+z5LiO6L+H55+t5bqUIEZBSUwiKQoKICAgIHNuZCA9IGNhcF9hdWQuc2F2ZShjYXBfYXVkLm1lbG9keShbIkMiLCAiRSIsICJHIiwgIkMiXSwgMC4zKSwKICAgICAgICAgICAgICAgICAgICAgICAic3RfbWVsb2R5Iiwgb3V0X2Rpcj1PVVQpCiAgICBleHBlY3QoIuWbm+mfs+aXi+W+iyDihpIgT0siLCB2ZXJpZnkuYXVkaW8oc25kKSwgVHJ1ZSkKCiAgICBzaWxlbmNlID0gY2FwX2F1ZC5zYXZlKG5wLnplcm9zKGludChjYXBfYXVkLlNSICogMS4wKSksICJzdF9zaWxlbmNlIiwgb3V0X2Rpcj1PVVQpCiAgICBleHBlY3QoIjEg56eS6Z2Z6Z+zIOKGkiBGQUlMIiwgdmVyaWZ5LmF1ZGlvKHNpbGVuY2UpLCBGYWxzZSkKCiAgICB0aW55X3NuZCA9IGNhcF9hdWQuc2F2ZShjYXBfYXVkLnRvbmUoNDQwLCAwLjA1KSwgInN0X3Rpbnlfc25kIiwgb3V0X2Rpcj1PVVQpCiAgICBleHBlY3QoIjUwbXMg6L+H55+tIOKGkiBGQUlMIiwgdmVyaWZ5LmF1ZGlvKHRpbnlfc25kKSwgRmFsc2UpCgogICAgIyDlj43lkJHpqozor4HvvJrnnJ/liYrms6Llv4XpobvooqvmipPliLDjgIIKICAgICMg5Y+q6K+B5piOIuS4jeivr+aKpSLmmK/kuI3lpJ/nmoQg4oCU4oCUIOS4gOS4quawuOi/nCBQQVNTIOeahOWIpOWumuWZqOS5n+S4jeivr+aKpeOAggogICAgcmF3ID0gY2FwX2F1ZC5tZWxvZHkoWyJDIiwgIkUiLCAiRyJdLCAwLjQpCiAgICBjbGlwcGVkID0gY2FwX2F1ZC5zYXZlKG5wLmNsaXAocmF3ICogNC4wLCAtMS4wLCAxLjApLCAic3RfcmVhbGNsaXBwZWQiLCBvdXRfZGlyPU9VVCkKICAgIGV4cGVjdCgi55yf5YmK5rOi77yI5pS+5aSnIDQg5YCN5oiq5pat77yJ4oaSIEZBSUwiLCB2ZXJpZnkuYXVkaW8oY2xpcHBlZCksIEZhbHNlKQoKICAgICMg5LiN6IO96Z2Z6Z+z5L2G5b6I6L2755qE77ya5bqUIFBBU1PvvIjmnInlo7DlsLHooYzvvIzkuI3oi5vmsYLlk43luqbvvIkKICAgIHF1aWV0ID0gY2FwX2F1ZC5zYXZlKGNhcF9hdWQudG9uZSg0NDAsIDEuMCkgKiAwLjA1LCAic3RfcXVpZXQiLCBvdXRfZGlyPU9VVCkKICAgIGV4cGVjdCgi5b6I6L275L2G6Z2e6Z2Z6Z+zIOKGkiBPSyIsIHZlcmlmeS5hdWRpbyhxdWlldCksIFRydWUpCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tIOaLkue7neeziuW8hCAtLS0tLS0tLS0tLS0tLS0tCiAgICBwcmludCgiXG5b6L6555WMXSDlhZHnjrDkuI3kuobnmoTor7fmsYLlv4Xpobvmi5Lnu53vvIzkuI3orrjpmY3nuqfns4rlvIQiKQogICAgdHJ5OgogICAgICAgIGNhcF9pbWcucmVuZGVyKHsia2luZCI6ICJwaG90byIsICJuYW1lIjogIngifSkKICAgICAgICBjaGVjaygicGhvdG8g6K+35rGC6KKr5ouS57udIiwgRmFsc2UsICLlsYXnhLbmjqXlj5fkuobmuLLmn5PlsYLlgZrkuI3liLDnmoTnsbvlnosiKQogICAgZXhjZXB0IGNhcF9pbWcuVW5zdXBwb3J0ZWRJbWFnZVJlcXVlc3QgYXMgZToKICAgICAgICBjaGVjaygicGhvdG8g6K+35rGC6KKr5ouS57udIiwgVHJ1ZSwgc3RyKGUpWzo2MF0pCgogICAgdHJ5OgogICAgICAgIGNhcF92aWQuZnJvbV9mcmFtZXMoW10sIG91dD1vcy5wYXRoLmpvaW4oT1VULCAiZW1wdHkubXA0IikpCiAgICAgICAgY2hlY2soIjAg5bin6KKr5ouS57udIiwgRmFsc2UsICLnqbrop4bpopHooqvlhYHorrjkuqflh7oiKQogICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgY2hlY2soIjAg5bin6KKr5ouS57udIiwgVHJ1ZSkKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0g5rGH5oC7IC0tLS0tLS0tLS0tLS0tLS0KICAgIHBhc3NlZCA9IHN1bSgxIGZvciBfLCBvaywgXyBpbiBfcm93cyBpZiBvaykKICAgIHRvdGFsID0gbGVuKF9yb3dzKQogICAgcHJpbnQoIlxuIiArICI9IiAqIDY2KQogICAgcHJpbnQoZiJ7cGFzc2VkfS97dG90YWx9IOmAmui/hyIpCiAgICBpZiBwYXNzZWQgPCB0b3RhbDoKICAgICAgICBwcmludCgiXG7lpLHotKXpobnvvIjliKTlrprlmajlpLHmlYjvvIzkvJjlhYjkv67ov5nkupvvvInvvJoiKQogICAgICAgIGZvciBuLCBvaywgZCBpbiBfcm93czoKICAgICAgICAgICAgaWYgbm90IG9rOgogICAgICAgICAgICAgICAgcHJpbnQoZiIgIC0ge259ICB7ZH0iKQogICAgcmV0dXJuIDAgaWYgcGFzc2VkID09IHRvdGFsIGVsc2UgMQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+"""判定层自检 —— 用"空壳产物"验证判定器真的会 FAIL。
+
+为什么这一节比生成层更重要
+--------------------------
+一个永远返回 OK 的判定器，比没有判定器更危险：它给出合格证，于是没人
+再去查。它失效的方式和 evalguard 要治的病完全同型——跑完、退出 0、打印
+一个好看的数字，但是错的。
+
+所以本脚本对每一类产物都造一个**已知坏**的样本，要求判定器必须判 FAIL。
+判 PASS 就是判定器坏了，而且这不是警告，是测试失败。
+
+    python3 capabilities/selftest.py
+"""
+from __future__ import annotations
+
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+import numpy as np
+from PIL import Image
+
+from capabilities import image as cap_img, video as cap_vid, audio as cap_aud
+from capabilities import verify
+from capabilities.artifact import Artifact, Kind
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT = os.path.join(HERE, "out", "selftest")
+os.makedirs(OUT, exist_ok=True)
+
+_rows: list[tuple[str, bool, str]] = []
+
+
+def check(name: str, ok: bool, detail: str = "") -> None:
+    _rows.append((name, ok, detail))
+    print(f"  [{'PASS' if ok else 'FAIL'}] {name}" + (f"  — {detail}" if detail else ""))
+
+
+def expect(name: str, v, want_ok: bool) -> None:
+    """要求判定结果等于 want_ok。判反了就是判定器坏了。"""
+    got = bool(v.ok)
+    d = ("; ".join(v.reasons) or "无理由") if not want_ok else ""
+    check(name, got == want_ok,
+          f"want={'OK' if want_ok else 'FAIL'} got={'OK' if got else 'FAIL'} {d}")
+
+
+def main() -> int:
+    print("判定层自检 —— 空壳必须被抓住")
+    print("=" * 66)
+
+    # ---------------- 图片 ----------------
+    print("\n[图片] 真图应 PASS / 空壳应 FAIL")
+
+    good = cap_img.render({
+        "kind": "chart", "name": "st_good", "title": "判定层自检",
+        "series": [{"y": [1, 3, 2, 5, 4], "label": "真实数据"}],
+        "xlabel": "步", "ylabel": "值",
+    }, out_dir=OUT)
+    expect("真实折线图 → OK", verify.image(good), True)
+
+    blank = os.path.join(OUT, "st_blank.png")
+    Image.new("RGB", (640, 360), (255, 255, 255)).save(blank)
+    expect("纯白空图 → FAIL", verify.image(Artifact(Kind.IMAGE, blank)), False)
+
+    solid = os.path.join(OUT, "st_solid.png")
+    Image.new("RGB", (640, 360), (30, 30, 30)).save(solid)
+    expect("纯色块 → FAIL", verify.image(Artifact(Kind.IMAGE, solid)), False)
+
+    tiny = os.path.join(OUT, "st_tiny.png")
+    Image.new("RGB", (8, 8), (255, 255, 255)).save(tiny)
+    expect("8x8 过小 → FAIL", verify.image(Artifact(Kind.IMAGE, tiny)), False)
+
+    expect("不存在的文件 → FAIL",
+           verify.image(Artifact(Kind.IMAGE, os.path.join(OUT, "nope.png"))), False)
+
+    # ---------------- 视频 ----------------
+    print("\n[视频] 有动效应 PASS / 静止与极短应 FAIL")
+
+    frames = []
+    for i in range(48):
+        im = Image.new("RGB", (320, 180), (255, 255, 255))
+        px = im.load()
+        for x in range(i * 6, min(320, i * 6 + 40)):
+            for y in range(60, 120):
+                px[x, y] = (20, 90, 160)
+        frames.append(im)
+    mov = cap_vid.from_frames(frames, out=os.path.join(OUT, "st_moving.mp4"),
+                              fps=24, out_dir=OUT)
+    expect("移动色块视频 → OK", verify.video(mov, min_motion=0.0005), True)
+
+    still = cap_vid.from_frames([frames[0]] * 48,
+                                out=os.path.join(OUT, "st_still.mp4"),
+                                fps=24, out_dir=OUT)
+    v = verify.video(still, min_motion=0.0005)
+    expect("48 帧全同 → FAIL（静止图冒充视频）", v, False)
+
+    short = cap_vid.from_frames(frames[:3], out=os.path.join(OUT, "st_short.mp4"),
+                                fps=24, out_dir=OUT)
+    expect("3 帧过短 → FAIL", verify.video(short, min_motion=0.0), False)
+
+    # ---------------- 音频 ----------------
+    print("\n[音频] 有声应 PASS / 静音与过短应 FAIL")
+
+    snd = cap_aud.save(cap_aud.melody(["C", "E", "G", "C"], 0.3),
+                       "st_melody", out_dir=OUT)
+    expect("四音旋律 → OK", verify.audio(snd), True)
+
+    silence = cap_aud.save(np.zeros(int(cap_aud.SR * 1.0)), "st_silence", out_dir=OUT)
+    expect("1 秒静音 → FAIL", verify.audio(silence), False)
+
+    tiny_snd = cap_aud.save(cap_aud.tone(440, 0.05), "st_tiny_snd", out_dir=OUT)
+    expect("50ms 过短 → FAIL", verify.audio(tiny_snd), False)
+
+    # 反向验证：真削波必须被抓到。
+    # 只证明"不误报"是不够的 —— 一个永远 PASS 的判定器也不误报。
+    raw = cap_aud.melody(["C", "E", "G"], 0.4)
+    clipped = cap_aud.save(np.clip(raw * 4.0, -1.0, 1.0), "st_realclipped", out_dir=OUT)
+    expect("真削波（放大 4 倍截断）→ FAIL", verify.audio(clipped), False)
+
+    # 不能静音但很轻的：应 PASS（有声就行，不苛求响度）
+    quiet = cap_aud.save(cap_aud.tone(440, 1.0) * 0.05, "st_quiet", out_dir=OUT)
+    expect("很轻但非静音 → OK", verify.audio(quiet), True)
+
+    # ---------------- 拒绝糊弄 ----------------
+    print("\n[边界] 兑现不了的请求必须拒绝，不许降级糊弄")
+    try:
+        cap_img.render({"kind": "photo", "name": "x"})
+        check("photo 请求被拒绝", False, "居然接受了渲染层做不到的类型")
+    except cap_img.UnsupportedImageRequest as e:
+        check("photo 请求被拒绝", True, str(e)[:60])
+
+    try:
+        cap_vid.from_frames([], out=os.path.join(OUT, "empty.mp4"))
+        check("0 帧被拒绝", False, "空视频被允许产出")
+    except ValueError:
+        check("0 帧被拒绝", True)
+
+    # ---------------- 汇总 ----------------
+    passed = sum(1 for _, ok, _ in _rows if ok)
+    total = len(_rows)
+    print("\n" + "=" * 66)
+    print(f"{passed}/{total} 通过")
+    if passed < total:
+        print("\n失败项（判定器失效，优先修这些）：")
+        for n, ok, d in _rows:
+            if not ok:
+                print(f"  - {n}  {d}")
+    return 0 if passed == total else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

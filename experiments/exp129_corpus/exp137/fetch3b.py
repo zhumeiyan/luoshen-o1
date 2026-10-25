@@ -1,1 +1,68 @@
-aW1wb3J0IGpzb24sIHN1YnByb2Nlc3MsIHBhdGhsaWIsIGJhc2U2NCwgdXJsbGliLnBhcnNlClRPSyA9IHBhdGhsaWIuUGF0aCgiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvLmF1dGgvZ2hfdG9rZW4iKS5yZWFkX3RleHQoKS5zdHJpcCgpCk9VVCA9IHBhdGhsaWIuUGF0aCgiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9leHAxMzcvY29ycHVzNSIpCk9VVC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCkJBRD0oIi90ZXN0cy8iLCIvdGVzdCIsIi90ZXN0XyIsInRlc3RfIiwiL2V4YW1wbGVzLyIsIi9kb2NzLyIsImNvbmZ0ZXN0IiwiL3ZlbmRvciIsIi90aGlyZF9wYXJ0eSIsCiAgICAgIl9faW5pdF9fIiwidmVyc2lvbiIsIl92ZXJzaW9uIiwic2V0dXAucHkiLCIvbWlncmF0aW9ucy8iLCIvZml4dHVyZXMvIiwiL3Rlc3RkYXRhLyIpCgpkZWYgZ2gocCk6CiAgICByPXN1YnByb2Nlc3MucnVuKFsiY3VybCIsIi1zIiwiLUgiLGYiQXV0aG9yaXphdGlvbjogQmVhcmVyIHtUT0t9IiwKICAgICAgICAiLUgiLCJBY2NlcHQ6IGFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiIsIGYiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbXtwfSJdLAogICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsdGV4dD1UcnVlLHRpbWVvdXQ9NjApCiAgICB0cnk6IHJldHVybiBqc29uLmxvYWRzKHIuc3Rkb3V0KQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIE5vbmUKCiMgMSkgRl9zbWFsbDog5pCc57Si5L2O5pif5LuT5bqT77yIVVJMIOe8lueggSA+77yJCnEgPSB1cmxsaWIucGFyc2UucXVvdGUoImxhbmd1YWdlOnB5dGhvbiBzdGFyczoyMC4uNDAwIHB1c2hlZDo+MjAyNS0wNi0wMSIsIHNhZmU9IjorIikKZCA9IGdoKGYiL3NlYXJjaC9yZXBvc2l0b3JpZXM/cT17cX0mc29ydD11cGRhdGVkJnBlcl9wYWdlPTEwMCIpCnJlcG9zPVtdCmlmIGlzaW5zdGFuY2UoZCxkaWN0KToKICAgIGZvciByIGluIGQuZ2V0KCJpdGVtcyIsW10pOgogICAgICAgIGlmIHIuZ2V0KCJmb3JrIik6IGNvbnRpbnVlCiAgICAgICAgcmVwb3MuYXBwZW5kKChyWyJvd25lciJdWyJsb2dpbiJdLCByWyJuYW1lIl0sIHIuZ2V0KCJkZWZhdWx0X2JyYW5jaCIsIm1haW4iKSkpCnByaW50KCJzZWFyY2ggdG90YWw6IiwgZC5nZXQoInRvdGFsX2NvdW50IikgaWYgaXNpbnN0YW5jZShkLGRpY3QpIGVsc2UgIkZBSUwiLCAiZ290IiwgbGVuKHJlcG9zKSwgZmx1c2g9VHJ1ZSkKCiMgMikg5LmL5YmNIHRyZWUg5aSx6LSl55qE5LuT5bqT77yM6K+V5aSa5Liq5YiG5pSvClJFVFJZID0gWygicnEiLCJycWFscGhhIiksKCJiYWNrdHJhZGVyIiwiYmFja3RyYWRlciIpLCgiZ2Vla2FuIiwiTWV0YUdQVCIpLAogICAgICAgICAoIm1vZGVsc2NvcGUiLCJhZ2VudHNjb3BlIiksKCJweXNwaWRlciIsInB5c3BpZGVyIildCmZvciBvLHIgaW4gUkVUUlk6CiAgICBmb3IgYiBpbiAoIm1hc3RlciIsIm1haW4iLCJkZXZlbG9wIiwiZGV2Iik6CiAgICAgICAgZGQ9Z2goZiIvcmVwb3Mve299L3tyfSIpCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoZGQsZGljdCk6IGNvbnRpbnVlCiAgICAgICAgYiA9IGRkLmdldCgiZGVmYXVsdF9icmFuY2giKSBvciBiCiAgICAgICAgdD1naChmIi9yZXBvcy97b30ve3J9L2dpdC90cmVlcy97Yn0/cmVjdXJzaXZlPTEiKQogICAgICAgIGlmIGlzaW5zdGFuY2UodCxkaWN0KSBhbmQgInRyZWUiIGluIHQ6CiAgICAgICAgICAgIHJlcG9zLmFwcGVuZCgobyxyLGIpKTsgcHJpbnQoInJldHJ5IG9rIiwgbyxyLGIsIGZsdXNoPVRydWUpOyBicmVhawoKcGlja2VkPVtdCmRlZiBncmFiKGRvbSxvLHIsYixsaW1pdD00KToKICAgIGdvdD0wCiAgICB0PWdoKGYiL3JlcG9zL3tvfS97cn0vZ2l0L3RyZWVzL3tifT9yZWN1cnNpdmU9MSIpCiAgICBpZiBub3QgaXNpbnN0YW5jZSh0LGRpY3QpIG9yICJ0cmVlIiBub3QgaW4gdDogcmV0dXJuIDAKICAgIGM9W3hbInBhdGgiXSBmb3IgeCBpbiB0WyJ0cmVlIl0gaWYgeFsidHlwZSJdPT0iYmxvYiIgYW5kIHhbInBhdGgiXS5lbmRzd2l0aCgiLnB5IikKICAgICAgIGFuZCBub3QgYW55KGsgaW4geFsicGF0aCJdIGZvciBrIGluIEJBRCldCiAgICBpZiBub3QgYzogcmV0dXJuIDAKICAgIGMuc29ydCgpOyBzdGVwPW1heCgxLGxlbihjKS8vbGltaXQpOyBzZWw9Y1s6OnN0ZXBdWzpsaW1pdF0KICAgIGZvciBwIGluIHNlbDoKICAgICAgICBmPWdoKGYiL3JlcG9zL3tvfS97cn0vY29udGVudHMve3B9P3JlZj17Yn0iKQogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGYsZGljdCkgb3IgImNvbnRlbnQiIG5vdCBpbiBmOiBjb250aW51ZQogICAgICAgIHR4dD1iYXNlNjQuYjY0ZGVjb2RlKGZbImNvbnRlbnQiXSkuZGVjb2RlKCJ1dGYtOCIsInJlcGxhY2UiKQogICAgICAgIGlmIGxlbih0eHQpPDUwMCBvciBsZW4odHh0KT40MDAwMDA6IGNvbnRpbnVlCiAgICAgICAgbmFtZT1mIntkb219X197b31fX3tyfV9fe3AucmVwbGFjZSgnLycsJ18nKX0iCiAgICAgICAgKE9VVC9uYW1lKS53cml0ZV90ZXh0KHR4dCkKICAgICAgICBwaWNrZWQuYXBwZW5kKGRpY3QoZG9tYWluPWRvbSxyZXBvPWYie299L3tyfSIscGF0aD1wLGZpbGU9bmFtZSxieXRlcz1sZW4odHh0KSkpCiAgICAgICAgZ290Kz0xCiAgICBwcmludChmIlt7ZG9tfV0ge299L3tyfSAre2dvdH0iLCBmbHVzaD1UcnVlKQogICAgcmV0dXJuIGdvdAoKbj0wCmZvciBvLHIsYiBpbiByZXBvc1s6MTRdOgogICAgbis9Z3JhYigiRl9zbWFsbCIsbyxyLGIpCnByaW50KCJGX3NtYWxsIHRvdGFsIiwgbiwgZmx1c2g9VHJ1ZSkKCmZvciBvLHIsYiBpbiByZXBvc1sxNDpdOgogICAgZ3JhYigiR19yZXRyeSIsbyxyLGIpCgpwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyOV9jb3JwdXMvZXhwMTM3L21hbmlmZXN0NWIuanNvbiIpLndyaXRlX3RleHQoCiAgICBqc29uLmR1bXBzKHBpY2tlZCxpbmRlbnQ9MSkpCnByaW50KCJUT1RBTCIsbGVuKHBpY2tlZCksIkJZVEVTIixzdW0ocFsiYnl0ZXMiXSBmb3IgcCBpbiBwaWNrZWQpLCBmbHVzaD1UcnVlKQo=
+import json, subprocess, pathlib, base64, urllib.parse
+TOK = pathlib.Path("/data/workspace/luoshen-o1/.auth/gh_token").read_text().strip()
+OUT = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137/corpus5")
+OUT.mkdir(parents=True, exist_ok=True)
+BAD=("/tests/","/test","/test_","test_","/examples/","/docs/","conftest","/vendor","/third_party",
+     "__init__","version","_version","setup.py","/migrations/","/fixtures/","/testdata/")
+
+def gh(p):
+    r=subprocess.run(["curl","-s","-H",f"Authorization: Bearer {TOK}",
+        "-H","Accept: application/vnd.github+json", f"https://api.github.com{p}"],
+        capture_output=True,text=True,timeout=60)
+    try: return json.loads(r.stdout)
+    except Exception: return None
+
+# 1) F_small: 搜索低星仓库（URL 编码 >）
+q = urllib.parse.quote("language:python stars:20..400 pushed:>2025-06-01", safe=":+")
+d = gh(f"/search/repositories?q={q}&sort=updated&per_page=100")
+repos=[]
+if isinstance(d,dict):
+    for r in d.get("items",[]):
+        if r.get("fork"): continue
+        repos.append((r["owner"]["login"], r["name"], r.get("default_branch","main")))
+print("search total:", d.get("total_count") if isinstance(d,dict) else "FAIL", "got", len(repos), flush=True)
+
+# 2) 之前 tree 失败的仓库，试多个分支
+RETRY = [("rq","rqalpha"),("backtrader","backtrader"),("geekan","MetaGPT"),
+         ("modelscope","agentscope"),("pyspider","pyspider")]
+for o,r in RETRY:
+    for b in ("master","main","develop","dev"):
+        dd=gh(f"/repos/{o}/{r}")
+        if not isinstance(dd,dict): continue
+        b = dd.get("default_branch") or b
+        t=gh(f"/repos/{o}/{r}/git/trees/{b}?recursive=1")
+        if isinstance(t,dict) and "tree" in t:
+            repos.append((o,r,b)); print("retry ok", o,r,b, flush=True); break
+
+picked=[]
+def grab(dom,o,r,b,limit=4):
+    got=0
+    t=gh(f"/repos/{o}/{r}/git/trees/{b}?recursive=1")
+    if not isinstance(t,dict) or "tree" not in t: return 0
+    c=[x["path"] for x in t["tree"] if x["type"]=="blob" and x["path"].endswith(".py")
+       and not any(k in x["path"] for k in BAD)]
+    if not c: return 0
+    c.sort(); step=max(1,len(c)//limit); sel=c[::step][:limit]
+    for p in sel:
+        f=gh(f"/repos/{o}/{r}/contents/{p}?ref={b}")
+        if not isinstance(f,dict) or "content" not in f: continue
+        txt=base64.b64decode(f["content"]).decode("utf-8","replace")
+        if len(txt)<500 or len(txt)>400000: continue
+        name=f"{dom}__{o}__{r}__{p.replace('/','_')}"
+        (OUT/name).write_text(txt)
+        picked.append(dict(domain=dom,repo=f"{o}/{r}",path=p,file=name,bytes=len(txt)))
+        got+=1
+    print(f"[{dom}] {o}/{r} +{got}", flush=True)
+    return got
+
+n=0
+for o,r,b in repos[:14]:
+    n+=grab("F_small",o,r,b)
+print("F_small total", n, flush=True)
+
+for o,r,b in repos[14:]:
+    grab("G_retry",o,r,b)
+
+pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137/manifest5b.json").write_text(
+    json.dumps(picked,indent=1))
+print("TOTAL",len(picked),"BYTES",sum(p["bytes"] for p in picked), flush=True)

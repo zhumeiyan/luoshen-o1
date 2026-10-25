@@ -1,1 +1,3 @@
-MCAxMTggL3Vzci9zaGFyZS9pY29ucy9BZHdhaXRhLzUxMng1MTIvbGVnYWN5L2lucHV0LWRpYWxwYWQucG5nCjEgNjUgL3Vzci9zaGFyZS9pY29ucy9oaWNvbG9yLzUxMng1MTIvbWltZXR5cGVzL2xpYnJlb2ZmaWNlLW9hc2lzLWVtcHR5LnBuZwoyIDEwNCAvdXNyL3NoYXJlL2ljb25zL0Fkd2FpdGEvNTEyeDUxMi9sZWdhY3kvaW5wdXQtZGlhbHBhZC5wbmc=
+0 118 /usr/share/icons/Adwaita/512x512/legacy/input-dialpad.png
+1 65 /usr/share/icons/hicolor/512x512/mimetypes/libreoffice-oasis-empty.png
+2 104 /usr/share/icons/Adwaita/512x512/legacy/input-dialpad.png

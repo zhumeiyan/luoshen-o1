@@ -1,1 +1,88 @@
-IiIiSXNvbGF0ZWQgd29ya2luZyBkYXRhIGZvciByZWFsIGk2ODYgV2luZG93cyBnYW1lIGV4ZWN1dGlvbi4iIiIKaW1wb3J0IGNzdgppbXBvcnQgaGFzaGxpYgppbXBvcnQgb3MKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmltcG9ydCBzaHV0aWwKaW1wb3J0IHN1YnByb2Nlc3MKCmZyb20gbGVnYWN5X3Rvb2xjaGFpbiBpbXBvcnQgUk9PVCwgVG9vbGNoYWluCgpQUk9GSUxFUyA9ICgndmM0MCcsICd3aW5kb3dzLWk2ODYnLCAndmM0MC1yZXN0b3JlZC1jcnQnKQoKCmRlZiBkaWdlc3QocGF0aCk6CiAgICByZXR1cm4gaGFzaGxpYi5zaGEyNTYoUGF0aChwYXRoKS5yZWFkX2J5dGVzKCkpLmhleGRpZ2VzdCgpCgoKZGVmIHZlcmlmaWVkX29yaWdpbmFscygpOgogICAgd2l0aCAoUk9PVCAvICdjb25maWcvYXNzZXRzLmNzdicpLm9wZW4oKSBhcyBzdHJlYW06CiAgICAgICAgZW50cmllcyA9IGxpc3QoY3N2LkRpY3RSZWFkZXIoc3RyZWFtKSkKICAgIHJlc3VsdCA9IHt9CiAgICBmb3IgZW50cnkgaW4gZW50cmllczoKICAgICAgICBuYW1lID0gZW50cnlbJ2ZpbGVuYW1lJ10KICAgICAgICBpZiBQYXRoKG5hbWUpLm5hbWUgIT0gbmFtZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignQXNzZXQgbmFtZSBtdXN0IGJlIGEgYmFzZW5hbWU6ICcgKyBuYW1lKQogICAgICAgIHBhdGggPSBST09UIC8gJ29yaWdpbmFsJyAvIG5hbWUKICAgICAgICBpZiBwYXRoLnN0YXQoKS5zdF9zaXplICE9IGludChlbnRyeVsnc2l6ZSddKSBvciBkaWdlc3QocGF0aCkgIT0gZW50cnlbJ3NoYTI1NiddOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdPcmlnaW5hbCBhc3NldCBpZGVudGl0eSBtaXNtYXRjaDogJyArIG5hbWUpCiAgICAgICAgcmVzdWx0W25hbWVdID0gZW50cnlbJ3NoYTI1NiddCiAgICByZXR1cm4gcmVzdWx0CgoKZGVmIGNvcHlfZmlsZShzb3VyY2UsIGRlc3RpbmF0aW9uKToKICAgIGlmIGRlc3RpbmF0aW9uLmlzX3N5bWxpbmsoKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdSZWZ1c2luZyBhIHJ1bnRpbWUgc3ltbGluazogJyArIHN0cihkZXN0aW5hdGlvbikpCiAgICBzaHV0aWwuY29weWZpbGUoc291cmNlLCBkZXN0aW5hdGlvbikKCgpkZWYgcHJlcGFyZShwcm9maWxlLCBwcm9iZT1GYWxzZSk6CiAgICBpZiBwcm9maWxlIG5vdCBpbiBQUk9GSUxFUyBhbmQgbm90IChwcm9iZSBhbmQgcHJvZmlsZSA9PSAnb3JpZ2luYWwnKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdVbmtub3duIFdpbmRvd3MgZ2FtZSBwcm9maWxlOiAnICsgcHJvZmlsZSkKICAgIG9yaWdpbmFscyA9IHZlcmlmaWVkX29yaWdpbmFscygpCiAgICBkaXJlY3RvcnkgPSBST09UIC8gJ2J1aWxkL3J1bnRpbWUnIC8gKCgncHJvYmUtJyBpZiBwcm9iZSBlbHNlICcnKSArIHByb2ZpbGUpCiAgICBkaXJlY3RvcnkubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgaWYgZGlyZWN0b3J5LmlzX3N5bWxpbmsoKSBvciBkaXJlY3RvcnkucmVzb2x2ZSgpLnBhcmVudCAhPSAoUk9PVCAvICdidWlsZC9ydW50aW1lJykucmVzb2x2ZSgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1J1bnRpbWUgZGlyZWN0b3J5IG11c3QgYmUgYW4gaXNvbGF0ZWQgY2hpbGQgb2YgYnVpbGQvcnVudGltZScpCiAgICBmb3IgbmFtZSBpbiBvcmlnaW5hbHM6CiAgICAgICAgaWYgUGF0aChuYW1lKS5zdWZmaXgubG93ZXIoKSA9PSAnLmV4ZSc6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZGVzdGluYXRpb24gPSBkaXJlY3RvcnkgLyBuYW1lCiAgICAgICAgIyBNYW51YWwgcnVucyBwcmVzZXJ2ZSBzY29yZS9lZGl0b3Igc2F2ZXM7IHByb2JlcyByZXNldCBvbmx5IHRoZWlyIG93biBmaXh0dXJlcy4KICAgICAgICBhbGlhc2VzID0gW3BhdGggZm9yIHBhdGggaW4gZGlyZWN0b3J5Lml0ZXJkaXIoKSBpZiBwYXRoLm5hbWUuY2FzZWZvbGQoKSA9PSBuYW1lLmNhc2Vmb2xkKCldCiAgICAgICAgaWYgYW55KHBhdGguaXNfc3ltbGluaygpIGZvciBwYXRoIGluIGFsaWFzZXMpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdSZWZ1c2luZyBhIHJ1bnRpbWUgYXNzZXQgc3ltbGluazogJyArIG5hbWUpCiAgICAgICAgaWYgcHJvYmU6CiAgICAgICAgICAgIGZvciBwYXRoIGluIGFsaWFzZXM6CiAgICAgICAgICAgICAgICBpZiBwYXRoICE9IGRlc3RpbmF0aW9uOgogICAgICAgICAgICAgICAgICAgIHBhdGgudW5saW5rKCkKICAgICAgICBlbGlmIGxlbihhbGlhc2VzKSA+IDE6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0FtYmlndW91cyBXaW5kb3dzIGZpbGVuYW1lIGFsaWFzZXM6ICcgKyBuYW1lKQogICAgICAgIGlmIHByb2JlIG9yIG5vdCBhbGlhc2VzOgogICAgICAgICAgICBjb3B5X2ZpbGUoUk9PVCAvICdvcmlnaW5hbCcgLyBuYW1lLCBkZXN0aW5hdGlvbikKICAgIHNvdXJjZSA9IFJPT1QgLyAoJ29yaWdpbmFsL0RYQkFMTC5FWEUnIGlmIHByb2ZpbGUgPT0gJ29yaWdpbmFsJwogICAgICAgICAgICAgICAgICAgICBlbHNlICdidWlsZC8nICsgcHJvZmlsZSArICcvZHhiYWxsLmV4ZScpCiAgICBjb3B5X2ZpbGUoc291cmNlLCBkaXJlY3RvcnkgLyAnZHhiYWxsLmV4ZScpCiAgICBpZiBwcm9maWxlID09ICd3aW5kb3dzLWk2ODYnOgogICAgICAgIGNvcHlfZmlsZShST09UIC8gJ2J1aWxkL3dpbmRvd3MtaTY4Ni9saWJkeGJhbGxfY29yZS5kbGwnLCBkaXJlY3RvcnkgLyAnbGliZHhiYWxsX2NvcmUuZGxsJykKICAgIHJldHVybiBkaXJlY3RvcnksIG9yaWdpbmFscwoKCmRlZiBlbnZpcm9ubWVudCgpOgogICAgcmV0dXJuIFRvb2xjaGFpbigpLmVudgoKCmRlZiBsYXVuY2goZGlyZWN0b3J5LCBlbnYsIGxvZyk6CiAgICByZXR1cm4gc3VicHJvY2Vzcy5Qb3BlbihbJ3dpbmUnLCBzdHIoZGlyZWN0b3J5IC8gJ2R4YmFsbC5leGUnKV0sIGN3ZD1kaXJlY3RvcnksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnY9ZW52LCBzdGRvdXQ9bG9nLCBzdGRlcnI9bG9nLCBzdGFydF9uZXdfc2Vzc2lvbj1UcnVlKQoKCmRlZiBzdG9wKHByb2Nlc3MpOgogICAgaWYgcHJvY2Vzcy5wb2xsKCkgaXMgTm9uZToKICAgICAgICBpbXBvcnQgc2lnbmFsCiAgICAgICAgb3Mua2lsbHBnKHByb2Nlc3MucGlkLCBzaWduYWwuU0lHVEVSTSkKICAgICAgICB0cnk6CiAgICAgICAgICAgIHByb2Nlc3Mud2FpdCh0aW1lb3V0PTEwKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLlRpbWVvdXRFeHBpcmVkOgogICAgICAgICAgICBvcy5raWxscGcocHJvY2Vzcy5waWQsIHNpZ25hbC5TSUdLSUxMKQogICAgICAgICAgICBwcm9jZXNzLndhaXQodGltZW91dD0xMCkK
+"""Isolated working data for real i686 Windows game execution."""
+import csv
+import hashlib
+import os
+from pathlib import Path
+import shutil
+import subprocess
+
+from legacy_toolchain import ROOT, Toolchain
+
+PROFILES = ('vc40', 'windows-i686', 'vc40-restored-crt')
+
+
+def digest(path):
+    return hashlib.sha256(Path(path).read_bytes()).hexdigest()
+
+
+def verified_originals():
+    with (ROOT / 'config/assets.csv').open() as stream:
+        entries = list(csv.DictReader(stream))
+    result = {}
+    for entry in entries:
+        name = entry['filename']
+        if Path(name).name != name:
+            raise ValueError('Asset name must be a basename: ' + name)
+        path = ROOT / 'original' / name
+        if path.stat().st_size != int(entry['size']) or digest(path) != entry['sha256']:
+            raise ValueError('Original asset identity mismatch: ' + name)
+        result[name] = entry['sha256']
+    return result
+
+
+def copy_file(source, destination):
+    if destination.is_symlink():
+        raise ValueError('Refusing a runtime symlink: ' + str(destination))
+    shutil.copyfile(source, destination)
+
+
+def prepare(profile, probe=False):
+    if profile not in PROFILES and not (probe and profile == 'original'):
+        raise ValueError('Unknown Windows game profile: ' + profile)
+    originals = verified_originals()
+    directory = ROOT / 'build/runtime' / (('probe-' if probe else '') + profile)
+    directory.mkdir(parents=True, exist_ok=True)
+    if directory.is_symlink() or directory.resolve().parent != (ROOT / 'build/runtime').resolve():
+        raise ValueError('Runtime directory must be an isolated child of build/runtime')
+    for name in originals:
+        if Path(name).suffix.lower() == '.exe':
+            continue
+        destination = directory / name
+        # Manual runs preserve score/editor saves; probes reset only their own fixtures.
+        aliases = [path for path in directory.iterdir() if path.name.casefold() == name.casefold()]
+        if any(path.is_symlink() for path in aliases):
+            raise ValueError('Refusing a runtime asset symlink: ' + name)
+        if probe:
+            for path in aliases:
+                if path != destination:
+                    path.unlink()
+        elif len(aliases) > 1:
+            raise ValueError('Ambiguous Windows filename aliases: ' + name)
+        if probe or not aliases:
+            copy_file(ROOT / 'original' / name, destination)
+    source = ROOT / ('original/DXBALL.EXE' if profile == 'original'
+                     else 'build/' + profile + '/dxball.exe')
+    copy_file(source, directory / 'dxball.exe')
+    if profile == 'windows-i686':
+        copy_file(ROOT / 'build/windows-i686/libdxball_core.dll', directory / 'libdxball_core.dll')
+    return directory, originals
+
+
+def environment():
+    return Toolchain().env
+
+
+def launch(directory, env, log):
+    return subprocess.Popen(['wine', str(directory / 'dxball.exe')], cwd=directory,
+                            env=env, stdout=log, stderr=log, start_new_session=True)
+
+
+def stop(process):
+    if process.poll() is None:
+        import signal
+        os.killpg(process.pid, signal.SIGTERM)
+        try:
+            process.wait(timeout=10)
+        except subprocess.TimeoutExpired:
+            os.killpg(process.pid, signal.SIGKILL)
+            process.wait(timeout=10)

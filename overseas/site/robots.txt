@@ -1,1 +1,3 @@
-VXNlci1hZ2VudDogKgpBbGxvdzogLwpTaXRlbWFwOiBodHRwczovL3podW1laXlhbi5naXRodWIuaW8vZXZhbGd1YXJkL3NpdGVtYXAueG1sCg==
+User-agent: *
+Allow: /
+Sitemap: https://zhumeiyan.github.io/evalguard/sitemap.xml

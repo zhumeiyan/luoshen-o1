@@ -1,1 +1,261 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5a6e6aqMIDA4NUHvvJroh6rmo4Dpl63njq8g4oCU4oCUIOaIkeeci+aIkeiHquW3seWBmueahOS4nOilv++8jOiDveWKm+i+ueeVjOWcqOWTqgoK55So5oi355qE5ZG96aKY77yI5a2X6Z2i77yJ77yaCiAgIuS9oOWBmuWHuuadpeS4nOilv+S9oOW+l+iHquW3seeciyIKICAi5LiA56eN5piv55yL5pi+56S65bGP77yM5LiA56eN5piv55yL55yf5a6e5LiW55WMIgogICLkvaDlj6rmmK/ljZXni6znmoTljrvnnIvnnIvlroPogIzlt7LvvIzogIzkuI3mmK/mjqXmlLblroMiCgrmnKzlrp7pqozlj6rmtYvnrKzkuIDku7bkuovnmoTjgJDlj6/mtYvovrnnlYzjgJHvvJoKICAgIOaIkea4suafkyDihpIg5YaZ6L+b5bGP5bmVIOKGkiDph4fpm4blm57mnaUg4oaSIOivuyDihpIg5LiO5oiR6Ieq5bex55qE5Lqn54mp5q+U5a+5CiAgICDihpIg5YWz6ZSu5LiN5pivIuivu+WvueS6hiLvvIzogIzmmK/jgJDog73kuI3og73lj5HnjrDmiJHoh6rlt7HnmoTplJnjgJEKCuS4peiwqOiuvuiuoe+8iOS4ieadoeehrOe6puadn++8ie+8mgogICgxKSDnm7Lms6jvvJrplJnor6/nlLHni6znq4sgcm5nIOazqOWFpe+8jOaIkeS6i+WFiOS4jeefpemBk+azqOWFpeS6huS7gOS5iO+8iOiEmuacrOWGhemalOemu++8iQogICgyKSDlgYfpmLPmgKfln7rnur/vvJprPTAg5pe25ZCM5qC36LeR5LiA6YGN77yMT0NSIOWZquWjsOacrOi6q+S8mumAoOaIkCLlgYfmo4Dlh7oiCiAgICAgIOKGkiDlh4Dmo4Dlh7rnjocgPSDmo4Dlh7rnjocgLSDlgYfpmLPmgKfnjofvvIzlj6rmiqXlh4Dmo4Dlh7rnjocKICAoMykg5YmC6YeP5Y+N5bqU77yaayA9IDEsMiwzLDUg4oCU4oCUIOiLpeajgOWHuueOh+majyBrIOS4i+mZje+8jOivtOaYjuWtmOWcqOa8j+ajgOe0r+enrwogICAgICDvvIjljbMi5oiR55yL5b6X6LaK5aSa6LaK55yL5LiN5YWoIu+8iQoKUGFydCBBICDpl63njq/miJDnq4vmgKfvvJrnnJ/lrp7kuqfnianmlofmnKzvvIjkuK3mlofliKTmja7mnaHnm64gKyDlhbPplK7mlbDlrZfvvInotbDlrozmlbTpl63njq8KUGFydCBCICDnm7Lms6jplJnor6/mo4Dlh7rvvJrkuInmoaPmmL7okZfluqYgw5cgayDlpITms6jlhaUg4oaSIOWHgOajgOWHuueOhwpQYXJ0IEMgIOWJgumHj+WPjeW6lO+8mmsg5aKe5Yqg77yM5qOA5Ye6546H5piv5ZCm6KGw5YePClBhcnQgRCAg5a2X5Y+36L6555WM77ya55yf5a6e5Lit5paH77yM5a2X5Y+3IHZzIOWHgOajgOWHuueOh++8iOS4iuasoeeUqOiLseaWh+a1i+i/hyA4cHgvMTBweO+8iQpQYXJ0IEUgIOmYtOaAp+WvueeFp++8muS4jee7j+i/h+mHh+mbhu+8iOebtOaOpSBPQ1Ig5riy5p+T5Y6f5Zu+77yJ4oaSIOivgeaYjiLnnIsi6L+Z5LiA5q2l5pyJ55yf5a6e5o2f6ICXCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgc3VicHJvY2VzcywgaGFzaGxpYiwgcmFuZG9tCmltcG9ydCBudW1weSBhcyBucAoKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKSkKUk9PVCA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iKQpPVVQgPSBvcy5wYXRoLmpvaW4oUk9PVCwgInZpc2lvbl9zZWxmY2hlY2siKQpvcy5tYWtlZGlycyhPVVQsIGV4aXN0X29rPVRydWUpCgpGT05UID0gIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS16ZW5oZWkudHRjIgpXLCBIID0gMTAyNCwgNzY4CgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOmXreeOrwpkZWYgcmVuZGVyKGxpbmVzLCBwYXRoLCBmb250c2l6ZT0zNCwgYmc9KDgsIDEyLCAyMCksIGZnPSgyNTUsIDI1NSwgMjU1KSk6CiAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CiAgICBpbWcgPSBJbWFnZS5uZXcoIlJHQiIsIChXLCBIKSwgYmcpCiAgICBkciA9IEltYWdlRHJhdy5EcmF3KGltZykKICAgIGYgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwgZm9udHNpemUpCiAgICB5ID0gNDAKICAgIGZvciBsbiBpbiBsaW5lczoKICAgICAgICBkci50ZXh0KCg0MCwgeSksIGxuLCBmaWxsPWZnLCBmb250PWYpCiAgICAgICAgeSArPSBpbnQoZm9udHNpemUgKiAxLjQ1KQogICAgICAgIGlmIHkgPiBIIC0gNjA6CiAgICAgICAgICAgIGJyZWFrCiAgICBpbWcuc2F2ZShwYXRoKQogICAgcmV0dXJuIGltZwoKCmRlZiB0b19zY3JlZW4oaW1nKToKICAgIHdpdGggb3BlbigiL2Rldi9mYjAiLCAid2IiKSBhcyBmYjoKICAgICAgICBmYi53cml0ZShpbWcuY29udmVydCgiUkdCQSIpLnRvYnl0ZXMoKSkKCgpkZWYgY2FwdHVyZShwYXRoKToKICAgIHN1YnByb2Nlc3MucnVuKFsiZmZtcGVnIiwgIi15IiwgIi1mIiwgImZiZGV2IiwgIi1mcmFtZXJhdGUiLCAiMSIsCiAgICAgICAgICAgICAgICAgICAgIi1pIiwgIi9kZXYvZmIwIiwgIi1mcmFtZXM6diIsICIxIiwgcGF0aF0sCiAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlKQoKCmRlZiBvY3IocGF0aCwgaW52ZXJ0PVRydWUpOgogICAgIiIiaW52ZXJ0PVRydWUg5piv6KeG572R6Iac55qE5pqX6YCC5bqUL+mihOWkhOeQhu+8mua3seW6leeZveWtlyDihpIg55m95bqV6buR5a2X44CCCiAgICAgICDlrp7mtYvvvJrkuI3lj43oibIgMzRweCDlj6rorqTlh7ogNC8277yM5Y+N6Imy5ZCOIDYvNuOAgui/meaYryLnnIsi55qE5LiA6YOo5YiG77yM5LiN5piv5L2c5byK44CCIiIiCiAgICBzcmMgPSBwYXRoCiAgICBpZiBpbnZlcnQ6CiAgICAgICAgZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZU9wcwogICAgICAgIGlwID0gcGF0aC5yZXBsYWNlKCIucG5nIiwgIl9pbnYucG5nIikKICAgICAgICBJbWFnZU9wcy5pbnZlcnQoSW1hZ2Uub3BlbihwYXRoKS5jb252ZXJ0KCJMIikpLnNhdmUoaXApCiAgICAgICAgc3JjID0gaXAKICAgIHIgPSBzdWJwcm9jZXNzLnJ1bihbInRlc3NlcmFjdCIsIHNyYywgInN0ZG91dCIsICItbCIsICJjaGlfc2ltK2VuZyJdLAogICAgICAgICAgICAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkKICAgIHJldHVybiByLnN0ZG91dAoKCmRlZiBjbG9zZWRfbG9vcChsaW5lcywgdGFnLCBmb250c2l6ZT0zNCwgaW52ZXJ0PVRydWUpOgogICAgIiIi5a6M5pW06Zet546v77ya5riy5p+TIOKGkiDlsY/luZUg4oaSIOmHh+mbhiDihpIg6K+744CC6L+U5ZueIE9DUiDmlofmnKwiIiIKICAgIHJwID0gb3MucGF0aC5qb2luKE9VVCwgZiJ7dGFnfV9yZW5kZXIucG5nIikKICAgIGNwID0gb3MucGF0aC5qb2luKE9VVCwgZiJ7dGFnfV9jYXB0dXJlLnBuZyIpCiAgICBpbWcgPSByZW5kZXIobGluZXMsIHJwLCBmb250c2l6ZSkKICAgIHRvX3NjcmVlbihpbWcpCiAgICBjYXB0dXJlKGNwKQogICAgdHh0ID0gb2NyKGNwLCBpbnZlcnQ9aW52ZXJ0KQogICAgb3Blbihvcy5wYXRoLmpvaW4oT1VULCBmInt0YWd9X29jci50eHQiKSwgInciKS53cml0ZSh0eHQpCiAgICByZXR1cm4gdHh0CgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOecn+WunuS6p+eJqQpkZWYgcmVhbF9wcm9kdWN0X2xpbmVzKCk6CiAgICAiIiLku47liKTmja7moLjlj5bnnJ/lrp7mnaHnm64g4oCU4oCUIOi/meaYr+aIkeiHquW3seS6p+WHuueahOS4nOilv++8jOS4jeaYr+e8lueahOa1i+ivleaVsOaNriIiIgogICAgcCA9IG9zLnBhdGguam9pbihST09ULCAiZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCIpCiAgICBsaW5lcyA9IFtdCiAgICBpZiBvcy5wYXRoLmV4aXN0cyhwKToKICAgICAgICB3aXRoIG9wZW4ocCwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZmg6CiAgICAgICAgICAgIGZvciBsbiBpbiBmaDoKICAgICAgICAgICAgICAgIGlmIGxuLnN0cmlwKCkuc3RhcnRzd2l0aCgi56ysIDMiKSBhbmQgIuadoSIgaW4gbG46CiAgICAgICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKGxuLnN0cmlwKClbOjQ2XSkKICAgICMg5YWc5bqV77ya5Y+W5LiN5Yiw5bCx55SoIDA4NCDnmoTlhbPplK7mlbDlrZfvvIjlkIzmoLfmmK/nnJ/lrp7kuqfnianvvIkKICAgIGlmIGxlbihsaW5lcykgPCA2OgogICAgICAgIGxpbmVzID0gWyLnrKwgMzQ5IOadoSDnoIHmnKzlpLHphY3kuI3og73nlKjnva7mjaLmlbDnu4Tlu7rmqKEiLAogICAgICAgICAgICAgICAgICLnrKwgMzUwIOadoSDnlLXmiqXnmoTmipflmarkvJjlir/mnaXoh6ror6/lt67mnInnlYwiLAogICAgICAgICAgICAgICAgICLnrKwgMzUxIOadoSDnoazliKTlhrPlj6rog73mi7/liLDkuInliIbkuYvkuIDnmoTmlLbnm4oiLAogICAgICAgICAgICAgICAgICLnrKwgMzUyIOadoSDns7vnu5/kuI3orqTovpPlhaXnmoTml7bpl7Tnu5PmnoQiLAogICAgICAgICAgICAgICAgICLnrKwgMzUzIOadoSDova/liKTlhrPlnKggcj0xIOaXtuS4juehrOWIpOWGs+aBkuetiSJdCiAgICByZXR1cm4gbGluZXNbOjZdCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOaVsOWtlyB0b2tlbgpkZWYgbnVtX3Rva2VucyhzKToKICAgICIiIuaKveaVsOWtlyB0b2tlbu+8iOWQq+Wwj+aVsO+8ieKAlOKAlCDkuK3mlocgT0NSIOWZquWjsOWkp++8jOaVsOWtl+aYr+acgOWPr+mdoOeahOavlOWvueWNleS9jSIiIgogICAgaW1wb3J0IHJlCiAgICByZXR1cm4gcmUuZmluZGFsbChyIlxkK1wuP1xkKiIsIHMpCgoKZGVmIGluamVjdChsaW5lcywgaywgbGV2ZWwsIHJuZyk6CiAgICAiIiLnm7Lms6ggayDlpITplJnor6/jgIJsZXZlbDogTDEg5pi+6JGXIC8gTDIg57uG5b6uIC8gTDMg6Z2e5pWw5a2XIiIiCiAgICBvdXQgPSBbbGlzdChsbikgZm9yIGxuIGluIGxpbmVzXQogICAgaWR4cyA9IGxpc3QocmFuZ2UobGVuKGxpbmVzKSkpCiAgICBybmcuc2h1ZmZsZShpZHhzKQogICAgZG9uZSwgbG9nID0gMCwgW10KICAgIGZvciBpIGluIGlkeHM6CiAgICAgICAgaWYgZG9uZSA+PSBrOgogICAgICAgICAgICBicmVhawogICAgICAgIGltcG9ydCByZQogICAgICAgIGxuID0gbGluZXNbaV0KICAgICAgICBpZiBsZXZlbCBpbiAoIkwxIiwgIkwyIik6CiAgICAgICAgICAgIG1zID0gbGlzdChyZS5maW5kaXRlcihyIlxkK1wuP1xkKiIsIGxuKSkKICAgICAgICAgICAgaWYgbm90IG1zOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgbSA9IG1zW3JuZy5pbnRlZ2VycygwLCBsZW4obXMpKV0KICAgICAgICAgICAgb2xkID0gbS5ncm91cCgpCiAgICAgICAgICAgIGlmICIuIiBpbiBvbGQ6CiAgICAgICAgICAgICAgICBpZiBsZXZlbCA9PSAiTDEiOgogICAgICAgICAgICAgICAgICAgIG5ldyA9IGYie3JuZy51bmlmb3JtKDUsIDkpOi40Zn0iCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGRpZ2l0cyA9IGxpc3Qob2xkKQogICAgICAgICAgICAgICAgICAgIHBvcyA9IHJuZy5pbnRlZ2VycygwLCBsZW4oZGlnaXRzKSkKICAgICAgICAgICAgICAgICAgICB3aGlsZSBkaWdpdHNbcG9zXSA9PSAiLiI6CiAgICAgICAgICAgICAgICAgICAgICAgIHBvcyA9IHJuZy5pbnRlZ2VycygwLCBsZW4oZGlnaXRzKSkKICAgICAgICAgICAgICAgICAgICBkaWdpdHNbcG9zXSA9IHN0cigoaW50KGRpZ2l0c1twb3NdKSArIDEpICUgMTApCiAgICAgICAgICAgICAgICAgICAgbmV3ID0gIiIuam9pbihkaWdpdHMpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBsZXZlbCA9PSAiTDEiOgogICAgICAgICAgICAgICAgICAgIG5ldyA9IHN0cihpbnQob2xkKSArIHJuZy5pbnRlZ2VycygxMDAsIDkwMCkpCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGRpZ2l0cyA9IGxpc3Qob2xkKQogICAgICAgICAgICAgICAgICAgIHBvcyA9IHJuZy5pbnRlZ2VycygwLCBsZW4oZGlnaXRzKSkKICAgICAgICAgICAgICAgICAgICBkaWdpdHNbcG9zXSA9IHN0cigoaW50KGRpZ2l0c1twb3NdKSArIDEpICUgMTApCiAgICAgICAgICAgICAgICAgICAgbmV3ID0gIiIuam9pbihkaWdpdHMpCiAgICAgICAgICAgIGxpbmVzW2ldID0gbG5bOm0uc3RhcnQoKV0gKyBuZXcgKyBsblttLmVuZCgpOl0KICAgICAgICAgICAgbG9nLmFwcGVuZCgoaSwgb2xkLCBuZXcpKQogICAgICAgICAgICBkb25lICs9IDEKICAgICAgICBlbHNlOiAgIyBMM++8mumdnuaVsOWtlyDigJTigJQg5Yig5LiA5Liq6Z2e5pWw5a2X6Z2e56m65qC85a2X56ymCiAgICAgICAgICAgIGNhbmQgPSBbaiBmb3IgaiwgYyBpbiBlbnVtZXJhdGUobG4pCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IGMuaXNkaWdpdCgpIGFuZCBub3QgYy5pc3NwYWNlKCldCiAgICAgICAgICAgIGlmIG5vdCBjYW5kOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaiA9IGNhbmRbcm5nLmludGVnZXJzKDAsIGxlbihjYW5kKSldCiAgICAgICAgICAgIGxpbmVzW2ldID0gbG5bOmpdICsgbG5baiArIDE6XQogICAgICAgICAgICBsb2cuYXBwZW5kKChpLCBsbltqXSwgIjzliKDpmaQ+IikpCiAgICAgICAgICAgIGRvbmUgKz0gMQogICAgcmV0dXJuIGxpbmVzLCBsb2cKCgpkZWYgbWFpbigpOgogICAgcmVzID0ge30KICAgIGJhc2VfbGluZXMgPSByZWFsX3Byb2R1Y3RfbGluZXMoKQogICAgcmVzWyJwcm9kdWN0X2xpbmVzIl0gPSBiYXNlX2xpbmVzCgogICAgIyAtLS0tIFBhcnQgQSDpl63njq/miJDnq4vmgKcgLS0tLQogICAgb2NyX3R4dCA9IGNsb3NlZF9sb29wKGJhc2VfbGluZXMsICJBIiwgZm9udHNpemU9MzQpCiAgICBndF9udW1zID0gW10KICAgIGZvciBsbiBpbiBiYXNlX2xpbmVzOgogICAgICAgIGd0X251bXMgKz0gbnVtX3Rva2VucyhsbikKICAgIGdvdF9udW1zID0gbnVtX3Rva2VucyhvY3JfdHh0KQogICAgaGl0ID0gc3VtKDEgZm9yIG4gaW4gZ3RfbnVtcyBpZiBuIGluIGdvdF9udW1zKQogICAgcmVzWyJBIl0gPSBkaWN0KGd0X251bXM9Z3RfbnVtcywgb2NyX251bXM9Z290X251bXMsCiAgICAgICAgICAgICAgICAgICAgcmVjYWxsPShoaXQgLyBsZW4oZ3RfbnVtcykpIGlmIGd0X251bXMgZWxzZSBOb25lLAogICAgICAgICAgICAgICAgICAgIG9jcl9jaGFycz1sZW4ob2NyX3R4dC5zdHJpcCgpKSkKCiAgICAjIC0tLS0g6YCa55So5qOA5Ye65bqm6YePIC0tLS0KICAgIGRlZiBkZXRlY3RfcmF0ZShrLCBsZXZlbCwgc2VlZHM9NiwgZm9udHNpemU9MzQpOgogICAgICAgICIiIuWHgOajgOWHuueOh++8muazqOWFpSBrIOWkhO+8jOeci+mAmui/h+mXreeOr+iDveWQpuWPkeeOsO+8m+aJo+mZpCBrPTAg5YGH6Ziz5oCnIiIiCiAgICAgICAgdHAsIHRyaWFscywgZnAsIGZwX3RyaWFscyA9IDAsIDAsIDAsIDAKICAgICAgICBmb3Igc2QgaW4gcmFuZ2Uoc2VlZHMpOgogICAgICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMTAwMCArIHNkKQogICAgICAgICAgICBsaW5lcyA9IGxpc3QoYmFzZV9saW5lcykKICAgICAgICAgICAgIyAoYSkg5YGH6Ziz5oCn5Z+657q/77ya5LiN5rOo5YWl77yM5Lmf6LWw6Zet546v77yM55yL5Lya5LiN5Lya6K+v5oqlCiAgICAgICAgICAgIHR4dDAgPSBjbG9zZWRfbG9vcChsaXN0KGxpbmVzKSwgZiJGUF97bGV2ZWx9X3trfV97c2R9IiwgZm9udHNpemUpCiAgICAgICAgICAgIG4wID0gbnVtX3Rva2Vucyh0eHQwKQogICAgICAgICAgICBtaXNzMCA9IHN1bSgxIGZvciBuIGluIGd0X251bXMgaWYgbiBub3QgaW4gbjApCiAgICAgICAgICAgIGZwICs9IDEgaWYgbWlzczAgPiAwIGVsc2UgMAogICAgICAgICAgICBmcF90cmlhbHMgKz0gMQogICAgICAgICAgICBpZiBrID09IDA6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAjIChiKSDms6jlhaXlkI7otbDpl63njq8KICAgICAgICAgICAgaW5qLCBsb2cgPSBpbmplY3QobGlzdChsaW5lcyksIGssIGxldmVsLCBybmcpCiAgICAgICAgICAgIHR4dCA9IGNsb3NlZF9sb29wKGluaiwgZiJJTkpfe2xldmVsfV97a31fe3NkfSIsIGZvbnRzaXplKQogICAgICAgICAgICBnb3QgPSBudW1fdG9rZW5zKHR4dCkKICAgICAgICAgICAgZm9yIChpLCBvbGQsIG5ldykgaW4gbG9nOgogICAgICAgICAgICAgICAgdHJpYWxzICs9IDEKICAgICAgICAgICAgICAgICMg5qOA5Ye65Yik5o2u77ya5Y6f5paH55qE5pWw5a2XIG9sZCDkuI3lnKggT0NSIOe7k+aenOmHjO+8iOivtOaYjuiiq+aIkSLnnIsi5Ye65LiN5LiA5qC377yJCiAgICAgICAgICAgICAgICBpZiBvbGQgbm90IGluIGdvdDoKICAgICAgICAgICAgICAgICAgICB0cCArPSAxCiAgICAgICAgcmV0dXJuIGRpY3Qoaz1rLCBsZXZlbD1sZXZlbCwKICAgICAgICAgICAgICAgICAgICBkZXRlY3Q9KHRwIC8gdHJpYWxzKSBpZiB0cmlhbHMgZWxzZSBOb25lLAogICAgICAgICAgICAgICAgICAgIGZwcj0oZnAgLyBmcF90cmlhbHMpIGlmIGZwX3RyaWFscyBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICAgICAgbmV0PSgodHAgLyB0cmlhbHMpIC0gKGZwIC8gZnBfdHJpYWxzKSkgaWYgdHJpYWxzIGVsc2UgTm9uZSwKICAgICAgICAgICAgICAgICAgICB0cmlhbHM9dHJpYWxzKQoKICAgICMgLS0tLSBQYXJ0IEIg5LiJ5qGj5pi+6JGX5bqm77yIaz0y77yJIC0tLS0KICAgIHJlc1siQiJdID0gW2RldGVjdF9yYXRlKDIsIGx2LCBzZWVkcz02KSBmb3IgbHYgaW4gKCJMMSIsICJMMiIsICJMMyIpXQoKICAgICMgLS0tLSBQYXJ0IEMg5YmC6YeP5Y+N5bqU77yITDEg5qGj77yMaz0xLDIsMyw177yJIC0tLS0KICAgIHJlc1siQyJdID0gW2RldGVjdF9yYXRlKGssICJMMSIsIHNlZWRzPTYpIGZvciBrIGluICgxLCAyLCAzLCA1KV0KCiAgICAjIC0tLS0gUGFydCBEIOWtl+WPt+i+ueeVjO+8iEwxIOahoyBrPTLvvIkgLS0tLQogICAgcmVzWyJEIl0gPSBbZGljdChmb250c2l6ZT1mcywgKipkZXRlY3RfcmF0ZSgyLCAiTDEiLCBzZWVkcz00LCBmb250c2l6ZT1mcykpCiAgICAgICAgICAgICAgICBmb3IgZnMgaW4gKDE0LCAyMCwgMjgsIDM0LCA0NCldCgogICAgIyAtLS0tIFBhcnQgRSDpmLTmgKflr7nnhafvvJrkuI3otbDph4fpm4bvvIznm7TmjqXor7vmuLLmn5Pljp/lm74gLS0tLQogICAgcnAgPSBvcy5wYXRoLmpvaW4oT1VULCAiRV9yZW5kZXIucG5nIikKICAgIGltZyA9IHJlbmRlcihiYXNlX2xpbmVzLCBycCwgMzQpCiAgICBkaXJlY3QgPSBvY3IocnAsIGludmVydD1UcnVlKQogICAgZG4gPSBudW1fdG9rZW5zKGRpcmVjdCkKICAgIGRoID0gc3VtKDEgZm9yIG4gaW4gZ3RfbnVtcyBpZiBuIGluIGRuKQogICAgZGlyZWN0X3JlY2FsbCA9IChkaCAvIGxlbihndF9udW1zKSkgaWYgZ3RfbnVtcyBlbHNlIDAuMAogICAgcmVzWyJFIl0gPSBkaWN0KGRpcmVjdF9yZWNhbGw9ZGlyZWN0X3JlY2FsbCwKICAgICAgICAgICAgICAgICAgICBsb29wX3JlY2FsbD1yZXNbIkEiXVsicmVjYWxsIl0sCiAgICAgICAgICAgICAgICAgICAgZ2FwPWZsb2F0KChyZXNbIkEiXVsicmVjYWxsIl0gb3IgMCkgLSBkaXJlY3RfcmVjYWxsKSkKCiAgICAjIC0tLS0gUGFydCBGIOWvueavlOaVj+aEn+W6pu+8muiDjOaZr+S6ruW6piB2cyDmlbDlrZflj6zlm57vvIjlr7nmoIfkurrnsbsgQ1NG77yJIC0tLS0KICAgIGRlZiBjb250cmFzdF9ydW4oYmdfbCwgZm9udHNpemU9MzQpOgogICAgICAgIGcgPSBpbnQoYmdfbCkKICAgICAgICBycDIgPSBvcy5wYXRoLmpvaW4oT1VULCBmIkZfYmd7Z31fcmVuZGVyLnBuZyIpCiAgICAgICAgY3AyID0gb3MucGF0aC5qb2luKE9VVCwgZiJGX2Jne2d9X2NhcHR1cmUucG5nIikKICAgICAgICBpbTIgPSByZW5kZXIoYmFzZV9saW5lcywgcnAyLCBmb250c2l6ZSwgYmc9KGcsIGcsIGcpLCBmZz0oMjU1LCAyNTUsIDI1NSkpCiAgICAgICAgdG9fc2NyZWVuKGltMikKICAgICAgICBjYXB0dXJlKGNwMikKICAgICAgICB0MiA9IG9jcihjcDIsIGludmVydD1UcnVlKQogICAgICAgIGdvdDIgPSBudW1fdG9rZW5zKHQyKQogICAgICAgIHJlYyA9IHN1bSgxIGZvciBuIGluIGd0X251bXMgaWYgbiBpbiBnb3QyKSAvIGxlbihndF9udW1zKQogICAgICAgICMgTWljaGVsc29uIOWvueavlOW6pgogICAgICAgIEMgPSAoMjU1IC0gZykgLyAoMjU1ICsgZykgaWYgKDI1NSArIGcpID4gMCBlbHNlIDAuMAogICAgICAgIHJldHVybiBkaWN0KGJnPWcsIG1pY2hlbHNvbj1yb3VuZChDLCA0KSwgcmVjYWxsPXJvdW5kKGZsb2F0KHJlYyksIDQpKQogICAgcmVzWyJGIl0gPSBbY29udHJhc3RfcnVuKGcpIGZvciBnIGluICgwLCA0MCwgOTAsIDE0MCwgMTkwLCAyMjUsIDI0NSwgMjU1KV0KCiAgICBqc29uLmR1bXAocmVzLCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHRfMDg1QS5qc29uIiksICJ3IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKICAgIHByaW50KGpzb24uZHVtcHMoe2s6IHYgZm9yIGssIHYgaW4gcmVzLml0ZW1zKCkgaWYgayAhPSAicHJvZHVjdF9saW5lcyJ9LAogICAgICAgICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKVs6MzAwMF0pCiAgICBwcmludCgiXG7kuqfnianvvJoiLCBPVVQpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+实验 085A：自检闭环 —— 我看我自己做的东西，能力边界在哪
+
+用户的命题（字面）：
+  "你做出来东西你得自己看"
+  "一种是看显示屏，一种是看真实世界"
+  "你只是单独的去看看它而已，而不是接收它"
+
+本实验只测第一件事的【可测边界】：
+    我渲染 → 写进屏幕 → 采集回来 → 读 → 与我自己的产物比对
+    → 关键不是"读对了"，而是【能不能发现我自己的错】
+
+严谨设计（三条硬约束）：
+  (1) 盲注：错误由独立 rng 注入，我事先不知道注入了什么（脚本内隔离）
+  (2) 假阳性基线：k=0 时同样跑一遍，OCR 噪声本身会造成"假检出"
+      → 净检出率 = 检出率 - 假阳性率，只报净检出率
+  (3) 剂量反应：k = 1,2,3,5 —— 若检出率随 k 下降，说明存在漏检累积
+      （即"我看得越多越看不全"）
+
+Part A  闭环成立性：真实产物文本（中文判据条目 + 关键数字）走完整闭环
+Part B  盲注错误检出：三档显著度 × k 处注入 → 净检出率
+Part C  剂量反应：k 增加，检出率是否衰减
+Part D  字号边界：真实中文，字号 vs 净检出率（上次用英文测过 8px/10px）
+Part E  阴性对照：不经过采集（直接 OCR 渲染原图）→ 证明"看"这一步有真实损耗
+"""
+import os, sys, json, subprocess, hashlib, random
+import numpy as np
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+ROOT = os.path.join(os.path.dirname(__file__), "..")
+OUT = os.path.join(ROOT, "vision_selfcheck")
+os.makedirs(OUT, exist_ok=True)
+
+FONT = "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc"
+W, H = 1024, 768
+
+
+# ---------------------------------------------------------------- 闭环
+def render(lines, path, fontsize=34, bg=(8, 12, 20), fg=(255, 255, 255)):
+    from PIL import Image, ImageDraw, ImageFont
+    img = Image.new("RGB", (W, H), bg)
+    dr = ImageDraw.Draw(img)
+    f = ImageFont.truetype(FONT, fontsize)
+    y = 40
+    for ln in lines:
+        dr.text((40, y), ln, fill=fg, font=f)
+        y += int(fontsize * 1.45)
+        if y > H - 60:
+            break
+    img.save(path)
+    return img
+
+
+def to_screen(img):
+    with open("/dev/fb0", "wb") as fb:
+        fb.write(img.convert("RGBA").tobytes())
+
+
+def capture(path):
+    subprocess.run(["ffmpeg", "-y", "-f", "fbdev", "-framerate", "1",
+                    "-i", "/dev/fb0", "-frames:v", "1", path],
+                   capture_output=True)
+
+
+def ocr(path, invert=True):
+    """invert=True 是视网膜的暗适应/预处理：深底白字 → 白底黑字。
+       实测：不反色 34px 只认出 4/6，反色后 6/6。这是"看"的一部分，不是作弊。"""
+    src = path
+    if invert:
+        from PIL import Image, ImageOps
+        ip = path.replace(".png", "_inv.png")
+        ImageOps.invert(Image.open(path).convert("L")).save(ip)
+        src = ip
+    r = subprocess.run(["tesseract", src, "stdout", "-l", "chi_sim+eng"],
+                       capture_output=True, text=True)
+    return r.stdout
+
+
+def closed_loop(lines, tag, fontsize=34, invert=True):
+    """完整闭环：渲染 → 屏幕 → 采集 → 读。返回 OCR 文本"""
+    rp = os.path.join(OUT, f"{tag}_render.png")
+    cp = os.path.join(OUT, f"{tag}_capture.png")
+    img = render(lines, rp, fontsize)
+    to_screen(img)
+    capture(cp)
+    txt = ocr(cp, invert=invert)
+    open(os.path.join(OUT, f"{tag}_ocr.txt"), "w").write(txt)
+    return txt
+
+
+# ---------------------------------------------------------------- 真实产物
+def real_product_lines():
+    """从判据核取真实条目 —— 这是我自己产出的东西，不是编的测试数据"""
+    p = os.path.join(ROOT, "evidence/失败模式库/判据核.md")
+    lines = []
+    if os.path.exists(p):
+        with open(p, encoding="utf-8") as fh:
+            for ln in fh:
+                if ln.strip().startswith("第 3") and "条" in ln:
+                    lines.append(ln.strip()[:46])
+    # 兜底：取不到就用 084 的关键数字（同样是真实产物）
+    if len(lines) < 6:
+        lines = ["第 349 条 码本失配不能用置换数组建模",
+                 "第 350 条 电报的抗噪优势来自误差有界",
+                 "第 351 条 硬判决只能拿到三分之一的收益",
+                 "第 352 条 系统不认输入的时间结构",
+                 "第 353 条 软判决在 r=1 时与硬判决恒等"]
+    return lines[:6]
+
+
+# ---------------------------------------------------------------- 数字 token
+def num_tokens(s):
+    """抽数字 token（含小数）—— 中文 OCR 噪声大，数字是最可靠的比对单位"""
+    import re
+    return re.findall(r"\d+\.?\d*", s)
+
+
+def inject(lines, k, level, rng):
+    """盲注 k 处错误。level: L1 显著 / L2 细微 / L3 非数字"""
+    out = [list(ln) for ln in lines]
+    idxs = list(range(len(lines)))
+    rng.shuffle(idxs)
+    done, log = 0, []
+    for i in idxs:
+        if done >= k:
+            break
+        import re
+        ln = lines[i]
+        if level in ("L1", "L2"):
+            ms = list(re.finditer(r"\d+\.?\d*", ln))
+            if not ms:
+                continue
+            m = ms[rng.integers(0, len(ms))]
+            old = m.group()
+            if "." in old:
+                if level == "L1":
+                    new = f"{rng.uniform(5, 9):.4f}"
+                else:
+                    digits = list(old)
+                    pos = rng.integers(0, len(digits))
+                    while digits[pos] == ".":
+                        pos = rng.integers(0, len(digits))
+                    digits[pos] = str((int(digits[pos]) + 1) % 10)
+                    new = "".join(digits)
+            else:
+                if level == "L1":
+                    new = str(int(old) + rng.integers(100, 900))
+                else:
+                    digits = list(old)
+                    pos = rng.integers(0, len(digits))
+                    digits[pos] = str((int(digits[pos]) + 1) % 10)
+                    new = "".join(digits)
+            lines[i] = ln[:m.start()] + new + ln[m.end():]
+            log.append((i, old, new))
+            done += 1
+        else:  # L3：非数字 —— 删一个非数字非空格字符
+            cand = [j for j, c in enumerate(ln)
+                    if not c.isdigit() and not c.isspace()]
+            if not cand:
+                continue
+            j = cand[rng.integers(0, len(cand))]
+            lines[i] = ln[:j] + ln[j + 1:]
+            log.append((i, ln[j], "<删除>"))
+            done += 1
+    return lines, log
+
+
+def main():
+    res = {}
+    base_lines = real_product_lines()
+    res["product_lines"] = base_lines
+
+    # ---- Part A 闭环成立性 ----
+    ocr_txt = closed_loop(base_lines, "A", fontsize=34)
+    gt_nums = []
+    for ln in base_lines:
+        gt_nums += num_tokens(ln)
+    got_nums = num_tokens(ocr_txt)
+    hit = sum(1 for n in gt_nums if n in got_nums)
+    res["A"] = dict(gt_nums=gt_nums, ocr_nums=got_nums,
+                    recall=(hit / len(gt_nums)) if gt_nums else None,
+                    ocr_chars=len(ocr_txt.strip()))
+
+    # ---- 通用检出度量 ----
+    def detect_rate(k, level, seeds=6, fontsize=34):
+        """净检出率：注入 k 处，看通过闭环能否发现；扣除 k=0 假阳性"""
+        tp, trials, fp, fp_trials = 0, 0, 0, 0
+        for sd in range(seeds):
+            rng = np.random.default_rng(1000 + sd)
+            lines = list(base_lines)
+            # (a) 假阳性基线：不注入，也走闭环，看会不会误报
+            txt0 = closed_loop(list(lines), f"FP_{level}_{k}_{sd}", fontsize)
+            n0 = num_tokens(txt0)
+            miss0 = sum(1 for n in gt_nums if n not in n0)
+            fp += 1 if miss0 > 0 else 0
+            fp_trials += 1
+            if k == 0:
+                continue
+            # (b) 注入后走闭环
+            inj, log = inject(list(lines), k, level, rng)
+            txt = closed_loop(inj, f"INJ_{level}_{k}_{sd}", fontsize)
+            got = num_tokens(txt)
+            for (i, old, new) in log:
+                trials += 1
+                # 检出判据：原文的数字 old 不在 OCR 结果里（说明被我"看"出不一样）
+                if old not in got:
+                    tp += 1
+        return dict(k=k, level=level,
+                    detect=(tp / trials) if trials else None,
+                    fpr=(fp / fp_trials) if fp_trials else None,
+                    net=((tp / trials) - (fp / fp_trials)) if trials else None,
+                    trials=trials)
+
+    # ---- Part B 三档显著度（k=2） ----
+    res["B"] = [detect_rate(2, lv, seeds=6) for lv in ("L1", "L2", "L3")]
+
+    # ---- Part C 剂量反应（L1 档，k=1,2,3,5） ----
+    res["C"] = [detect_rate(k, "L1", seeds=6) for k in (1, 2, 3, 5)]
+
+    # ---- Part D 字号边界（L1 档 k=2） ----
+    res["D"] = [dict(fontsize=fs, **detect_rate(2, "L1", seeds=4, fontsize=fs))
+                for fs in (14, 20, 28, 34, 44)]
+
+    # ---- Part E 阴性对照：不走采集，直接读渲染原图 ----
+    rp = os.path.join(OUT, "E_render.png")
+    img = render(base_lines, rp, 34)
+    direct = ocr(rp, invert=True)
+    dn = num_tokens(direct)
+    dh = sum(1 for n in gt_nums if n in dn)
+    direct_recall = (dh / len(gt_nums)) if gt_nums else 0.0
+    res["E"] = dict(direct_recall=direct_recall,
+                    loop_recall=res["A"]["recall"],
+                    gap=float((res["A"]["recall"] or 0) - direct_recall))
+
+    # ---- Part F 对比敏感度：背景亮度 vs 数字召回（对标人类 CSF） ----
+    def contrast_run(bg_l, fontsize=34):
+        g = int(bg_l)
+        rp2 = os.path.join(OUT, f"F_bg{g}_render.png")
+        cp2 = os.path.join(OUT, f"F_bg{g}_capture.png")
+        im2 = render(base_lines, rp2, fontsize, bg=(g, g, g), fg=(255, 255, 255))
+        to_screen(im2)
+        capture(cp2)
+        t2 = ocr(cp2, invert=True)
+        got2 = num_tokens(t2)
+        rec = sum(1 for n in gt_nums if n in got2) / len(gt_nums)
+        # Michelson 对比度
+        C = (255 - g) / (255 + g) if (255 + g) > 0 else 0.0
+        return dict(bg=g, michelson=round(C, 4), recall=round(float(rec), 4))
+    res["F"] = [contrast_run(g) for g in (0, 40, 90, 140, 190, 225, 245, 255)]
+
+    json.dump(res, open(os.path.join(OUT, "result_085A.json"), "w"),
+              ensure_ascii=False, indent=2)
+    print(json.dumps({k: v for k, v in res.items() if k != "product_lines"},
+                     ensure_ascii=False, indent=2)[:3000])
+    print("\n产物：", OUT)
+
+
+if __name__ == "__main__":
+    main()

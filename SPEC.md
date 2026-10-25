@@ -1,1 +1,14 @@
-IyDmhJ/lrpjop4TmoLwKCiMjIOW9kuWxnu+8mui/meS6m+S4jeaYr+eUqOaIt+imgeaxgu+8jOaYr+i9r+S7tuWFrOWPuOWumueahAoKfCDmnLrmnoQgfCDlrprnmoTkuJzopb8gfAp8LS0tfC0tLXwKfCBBcHBsZSBISUcgfCDop6bmjqcg4omlNDTDlzQ0cHTvvJvmlofmnKwg4omlMTFweCB8CnwgR29vZ2xlIE1hdGVyaWFsIDMgfCDop6bmjqcgNDjDlzQ4ZHDvvJvpl7Tot50g4omlOHB477yb5q2j5paHIDE2c3AgfAp8IFczQyBXQ0FHIDIuMiB8IOinpuaOpyAyNChBQSkvNDQoQUFBKe+8m+WvueavlOW6piA0LjU6Me+8m+ihjOWuvSA4MC80MCDlrZfnrKYgfAp8IE5pZWxzZW4gTm9ybWFuIHwgMWNtw5cxY23vvIh+MzhweO+8iSB8CnwgTWljcm9zb2Z0IEZsdWVudCB8IOinpuaOpyA0MOKAkzQ0cHjvvJtQUFQg4omlMThwdCB8CnwgQnJpbmdodXJzdCB8IOihjOWuveeQhuaDsyA2NiDlrZfnrKYgfAoKKirlpJbpg6jplJrngrkg4oCU4oCUIOeUqOaIt+WSjOaIkemDveWcqOWug+S5i+S4i+OAgioqCg==
+# 感官规格
+
+## 归属：这些不是用户要求，是软件公司定的
+
+| 机构 | 定的东西 |
+|---|---|
+| Apple HIG | 触控 ≥44×44pt；文本 ≥11px |
+| Google Material 3 | 触控 48×48dp；间距 ≥8px；正文 16sp |
+| W3C WCAG 2.2 | 触控 24(AA)/44(AAA)；对比度 4.5:1；行宽 80/40 字符 |
+| Nielsen Norman | 1cm×1cm（~38px） |
+| Microsoft Fluent | 触控 40–44px；PPT ≥18pt |
+| Bringhurst | 行宽理想 66 字符 |
+
+**外部锚点 —— 用户和我都在它之下。**

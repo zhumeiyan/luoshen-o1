@@ -1,1 +1,48 @@
-IyDku5PlupPnu5PmnoQKCioq5LiA5Liq5LuT5bqT6KOF5YWo6YOo44CCKiog5Y6f5YWI5YiG5pWj55qEIGx1b3NoZW4tbzEg5LiOIGx1b3NoZW4tZW8g5bey5ZCI5bm25LqO5q2k44CCCgrlhaXlupPmlofku7bmgLvmlbDvvJoqKjM5ODEqKgoKfCDnm67lvZUgfCDmlofku7bmlbAgfCDlhoXlrrkgfAp8LS0tfC0tLTp8LS0tfAp8IGBleHBlcmltZW50c2AgfCAxOTY4IHwg5a6e6aqM5LiO5Yik5o2u77yI5q+P5bGC5LiA5aWX77yJIHwKfCBg5oSf5a6Y5qGlYCB8IDczNSB8IOaEn+WumOe0oOadkOWbviB8CnwgYGV2aWRlbmNlYCB8IDIyNyB8IOivgeaNrueVmeeXlSB8CnwgYGRhdGFgIHwgMjEzIHwg6K+t5paZ44CB57Sg5p2Q44CB55yf6K665paHIFBERiB8CnwgYC5zZW5zZWAgfCAyMDkgfCDov5DooYznl5Xov7kgfAp8IGAo5qC555uu5b2VKWAgfCAxMDggfCDmoLjlv4PmqKHlnZfkuI7mlofmoaMgfAp8IGBvdmVyc2Vhc2AgfCA4MCB8IOa1t+WkluadkOaWmSB8CnwgYGx1b3NoZW4tZW9gIHwgNzMgfCDimIUg5bm25YWl55qEIGx1b3NoZW4tZW8g5YWo6YeP77yIZW9fY29yZS9lb19icmFpbiArIGFyY2hpdmUg54q25oCB5Y6G5Y+y77yJIHwKfCBgY29yZWAgfCA0NiB8IOaguOW/g+acuuWItuWxgu+8iOWQhOaEn+WumC/ouqvkvZMv5pys6IO977yJIHwKfCBgZmlnYCB8IDQ1IHwg5Zu+IHwKfCBgZG9jc2AgfCAzNCB8IOaWh+ahoyB8CnwgYGNhcGFiaWxpdGllc2AgfCAzMyB8IOiDveWKm+a4heWNlSB8CnwgYOWPguaVsOW6k2AgfCAyNSB8IOWPguaVsOW6kyB8CnwgYGFzc2V0c2AgfCAyNCB8IOi1hOa6kCB8CnwgYHRvb2xzYCB8IDIzIHwg5bel5YW3IHwKfCBg5Y2P6K6uYCB8IDIyIHwg5Y2P6K6uIHwKfCBg5ZCN54mHYCB8IDIwIHwg5ZCN54mHIHwKfCBgYXJjaGl2ZWAgfCAxNyB8ICB8CnwgYOaOpeaUtmAgfCAxMiB8ICB8CnwgYFRBQ1Tmj5DkuqRgIHwgOSB8ICB8CnwgYHBhcGVyYCB8IDggfCAgfAp8IGBkZWxpdmVyYCB8IDcgfCAgfAoKIyMg5ZCI5bm26K+05piOCgotIGBsdW9zaGVuLWVvL2Ag5Li65Y6fIGx1b3NoZW4tZW8g5LuT5bqT5YWo6YeP5bm25YWl77yINzMg6aG577yM5ZCrIGVvX2NvcmUvZW9fYnJhaW4vZW9fc3ltYmlvc2lzIOetieaooeWdl+S4jiBhcmNoaXZlIOeKtuaAgeWOhuWPsu+8iQotIOS/neaMgeWOn+ebruW9lee7k+aehOaVtOS9k+aQrOi/ge+8jOacquWBmuetm+mAieOAgeacquWBmuaUueWGmeKAlOKAlOeVmeW+heWQjue7reiHquihjOWkhOeQhgoKIyMg5a6J5YWo5LiO5o6S6Zmk77yILmdpdGlnbm9yZe+8iQoKLSDlh63or4HvvJpgLmF1dGgvYOOAgWAqdG9rZW4qYOOAgWAqY29va2llKmAg4oCU4oCUIOe7neS4jeWFpeS7kwotIOesrOS4ieaWuea6kOeggeWJr+acrO+8mmDmiZIvYO+8iOWQqyBjbGF1ZGUtY29kZS1tYWluIOetie+8jDYxTe+8iSDigJTigJQg54mI5p2D77yM5LiN5YWl5LuTCi0g5a6e6aqM6L+H56iL5oiq5Zu+77yaYF9jYXAvYOOAgWBzaG90cy9g44CBYGZvdl9zKi5wbmdg44CBYHM/Pz8/Py5wbmdgIOKAlOKAlCDkuK3pl7TkuqfniakKLSDlpKfkvZPnp6/kuozov5vliLbvvJpgKi5iaW5gIGAqLnJhd2AgYCoubnB5YCBgKi56aXBgIGAqLmJ1bmRsZWAgYCoubXA0YAoKIyMg5bey55+l6ZmQ5Yi2CgotIOW3peS9nOWMuuS4uiB2aXJ0aW9mcyDmjILovb3kuJTphY3pop0gNTAwTe+8jOWwj+aWh+S7tuaJuemHjyBJTyDmnoHmhaLvvIxgZ2l0IGFkZGAg6ZyA5YiG5om577yI5q+P5om5IOKJpDM1MCDpobnvvIkKLSBnaXQg5Y2P6K6u77yIZ2l0aHViLmNvbSDln5/lkI0gLyBTU0jvvInlnKjlh7rlj6Pooqvmi6bmiKrvvIzmjqjpgIHnu5/kuIDotbAgUkVTVCBBUEnvvIhgYXBpX3N5bmNfZmlsZS5weWDvvIkKLSDmoLnnm67lvZXmlaPokL0gMTA4IOS4quaooeWdl+acquW9kuW5tu+8jOS/neeVmeWOn+S9jeS7peWFjeegtOWdjyBpbXBvcnQK
+# 仓库结构
+
+**一个仓库装全部。** 原先分散的 luoshen-o1 与 luoshen-eo 已合并于此。
+
+入库文件总数：**3981**
+
+| 目录 | 文件数 | 内容 |
+|---|---:|---|
+| `experiments` | 1968 | 实验与判据（每层一套） |
+| `感官桥` | 735 | 感官素材图 |
+| `evidence` | 227 | 证据留痕 |
+| `data` | 213 | 语料、素材、真论文 PDF |
+| `.sense` | 209 | 运行痕迹 |
+| `(根目录)` | 108 | 核心模块与文档 |
+| `overseas` | 80 | 海外材料 |
+| `luoshen-eo` | 73 | ★ 并入的 luoshen-eo 全量（eo_core/eo_brain + archive 状态历史） |
+| `core` | 46 | 核心机制层（各感官/身体/本能） |
+| `fig` | 45 | 图 |
+| `docs` | 34 | 文档 |
+| `capabilities` | 33 | 能力清单 |
+| `参数库` | 25 | 参数库 |
+| `assets` | 24 | 资源 |
+| `tools` | 23 | 工具 |
+| `协议` | 22 | 协议 |
+| `名片` | 20 | 名片 |
+| `archive` | 17 |  |
+| `接收` | 12 |  |
+| `TACT提交` | 9 |  |
+| `paper` | 8 |  |
+| `deliver` | 7 |  |
+
+## 合并说明
+
+- `luoshen-eo/` 为原 luoshen-eo 仓库全量并入（73 项，含 eo_core/eo_brain/eo_symbiosis 等模块与 archive 状态历史）
+- 保持原目录结构整体搬迁，未做筛选、未做改写——留待后续自行处理
+
+## 安全与排除（.gitignore）
+
+- 凭证：`.auth/`、`*token*`、`*cookie*` —— 绝不入仓
+- 第三方源码副本：`扒/`（含 claude-code-main 等，61M） —— 版权，不入仓
+- 实验过程截图：`_cap/`、`shots/`、`fov_s*.png`、`s?????.png` —— 中间产物
+- 大体积二进制：`*.bin` `*.raw` `*.npy` `*.zip` `*.bundle` `*.mp4`
+
+## 已知限制
+
+- 工作区为 virtiofs 挂载且配额 500M，小文件批量 IO 极慢，`git add` 需分批（每批 ≤350 项）
+- git 协议（github.com 域名 / SSH）在出口被拦截，推送统一走 REST API（`api_sync_file.py`）
+- 根目录散落 108 个模块未归并，保留原位以免破坏 import

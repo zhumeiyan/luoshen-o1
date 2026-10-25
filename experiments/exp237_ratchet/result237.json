@@ -1,1 +1,94 @@
-ewogImJpbmQ9MC4wMCI6IHsKICAiUSI6IDAuMDQ5LAogICJxIjogMC4wOCwKICAiQSI6IDAuNjY3CiB9LAogImJpbmQ9MC4yNSI6IHsKICAiUSI6IDAuMzA5LAogICJxIjogMC4zMjMsCiAgIkEiOiAwLjU0MgogfSwKICJiaW5kPTAuNTAiOiB7CiAgIlEiOiAwLjQ2MywKICAicSI6IDAuNDcyLAogICJBIjogMC40MTcKIH0sCiAiYmluZD0xLjAwIjogewogICJRIjogMC42MzcsCiAgInEiOiAwLjY1OSwKICAiQSI6IDAuMTY3CiB9LAogImJpbmQ9MS41MCI6IHsKICAiUSI6IDEuMCwKICAicSI6IDAuOTYzLAogICJBIjogMC4wCiB9LAogImJpbmQ9Mi4wMCI6IHsKICAiUSI6IDEuMCwKICAicSI6IDEuMCwKICAiQSI6IDAuMAogfSwKICJiaW5kPTMuMDAiOiB7CiAgIlEiOiAxLjAsCiAgInEiOiAxLjAsCiAgIkEiOiAwLjAKIH0sCiAib2ZmPTAiOiB7CiAgIlEiOiAwLjYzNywKICAicSI6IDAuNjU5LAogICJnYXAiOiAwLjAKIH0sCiAib2ZmPTEwIjogewogICJRIjogMC42MzUsCiAgInEiOiAwLjY1LAogICJnYXAiOiAwLjAwOQogfSwKICJvZmY9MjUiOiB7CiAgIlEiOiAwLjYzMywKICAicSI6IDAuNjQxLAogICJnYXAiOiAwLjAxOAogfSwKICJvZmY9NTAiOiB7CiAgIlEiOiAwLjYzMiwKICAicSI6IDAuNjM1LAogICJnYXAiOiAwLjAyNAogfSwKICJvZmY9MTAwIjogewogICJRIjogMC42MzEsCiAgInEiOiAwLjYzMSwKICAiZ2FwIjogMC4wMjgKIH0sCiAib2ZmPTIwMCI6IHsKICAiUSI6IDAuNTY3LAogICJxIjogMC4zNzgsCiAgImdhcCI6IDAuMjgxCiB9LAogIm9mZj0zMDAiOiB7CiAgIlEiOiAwLjA3MSwKICAicSI6IDAuMTE2LAogICJnYXAiOiAwLjU0MwogfSwKICLmjIHnu60xLjAiOiAwLjY1OSwKICLmjIHnu60wLjUiOiAwLjQ3MiwKICLlkajmnJ9QPTIiOiB7CiAgIlEiOiAwLjc3NSwKICAicSI6IDAuNzk5CiB9LAogIuWRqOacn1A9MTAiOiB7CiAgIlEiOiAwLjc1MiwKICAicSI6IDAuODAxCiB9LAogIuWRqOacn1A9MjAiOiB7CiAgIlEiOiAwLjcyMSwKICAicSI6IDAuODAyCiB9LAogIuWRqOacn1A9NjAiOiB7CiAgIlEiOiAwLjYsCiAgInEiOiAwLjgxNAogfSwKICLlkajmnJ9QPTE1MCI6IHsKICAiUSI6IDAuNDcsCiAgInEiOiAwLjczMQogfQp9
+{
+ "bind=0.00": {
+  "Q": 0.049,
+  "q": 0.08,
+  "A": 0.667
+ },
+ "bind=0.25": {
+  "Q": 0.309,
+  "q": 0.323,
+  "A": 0.542
+ },
+ "bind=0.50": {
+  "Q": 0.463,
+  "q": 0.472,
+  "A": 0.417
+ },
+ "bind=1.00": {
+  "Q": 0.637,
+  "q": 0.659,
+  "A": 0.167
+ },
+ "bind=1.50": {
+  "Q": 1.0,
+  "q": 0.963,
+  "A": 0.0
+ },
+ "bind=2.00": {
+  "Q": 1.0,
+  "q": 1.0,
+  "A": 0.0
+ },
+ "bind=3.00": {
+  "Q": 1.0,
+  "q": 1.0,
+  "A": 0.0
+ },
+ "off=0": {
+  "Q": 0.637,
+  "q": 0.659,
+  "gap": 0.0
+ },
+ "off=10": {
+  "Q": 0.635,
+  "q": 0.65,
+  "gap": 0.009
+ },
+ "off=25": {
+  "Q": 0.633,
+  "q": 0.641,
+  "gap": 0.018
+ },
+ "off=50": {
+  "Q": 0.632,
+  "q": 0.635,
+  "gap": 0.024
+ },
+ "off=100": {
+  "Q": 0.631,
+  "q": 0.631,
+  "gap": 0.028
+ },
+ "off=200": {
+  "Q": 0.567,
+  "q": 0.378,
+  "gap": 0.281
+ },
+ "off=300": {
+  "Q": 0.071,
+  "q": 0.116,
+  "gap": 0.543
+ },
+ "持续1.0": 0.659,
+ "持续0.5": 0.472,
+ "周期P=2": {
+  "Q": 0.775,
+  "q": 0.799
+ },
+ "周期P=10": {
+  "Q": 0.752,
+  "q": 0.801
+ },
+ "周期P=20": {
+  "Q": 0.721,
+  "q": 0.802
+ },
+ "周期P=60": {
+  "Q": 0.6,
+  "q": 0.814
+ },
+ "周期P=150": {
+  "Q": 0.47,
+  "q": 0.731
+ }
+}

@@ -1,1 +1,129 @@
-aW1wb3J0IHN1YnByb2Nlc3MKCmltcG9ydCB5YW1sCmZyb20gYWRhcHRlcnMuY29uZmlnLmNvbmZpZyBpbXBvcnQgY2ZnCmZyb20gYWRhcHRlcnMucmVzcG9uc2UgaW1wb3J0IEFkYXB0ZXJSZXNwb25zZQoKQ0lMSVVNX09DSV9DSEFSVCA9ICJvY2k6Ly9xdWF5LmlvL2NpbGl1bS9jaGFydHMvY2lsaXVtIgoKCmNsYXNzIF9MaXRlcmFsRHVtcGVyKHlhbWwuRHVtcGVyKToKICAgIHBhc3MKCgpkZWYgX2xpdGVyYWxfcmVwcmVzZW50ZXIoZHVtcGVyLCBkYXRhKToKICAgIGlmICJcbiIgaW4gZGF0YToKICAgICAgICByZXR1cm4gZHVtcGVyLnJlcHJlc2VudF9zY2FsYXIoInRhZzp5YW1sLm9yZywyMDAyOnN0ciIsIGRhdGEsIHN0eWxlPSJ8IikKICAgIHJldHVybiBkdW1wZXIucmVwcmVzZW50X3NjYWxhcigidGFnOnlhbWwub3JnLDIwMDI6c3RyIiwgZGF0YSkKCgpfTGl0ZXJhbER1bXBlci5hZGRfcmVwcmVzZW50ZXIoc3RyLCBfbGl0ZXJhbF9yZXByZXNlbnRlcikKCgpjbGFzcyBDaWxpdW1BZGFwdGVyOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MKCiAgICBkZWYgd2FpdF9mb3JfaW5zdGFsbChzZWxmKToKICAgICAgICBjbWQgPSBbCiAgICAgICAgICAgICJrdWJlY3RsIiwKICAgICAgICAgICAgInJvbGxvdXQiLAogICAgICAgICAgICAic3RhdHVzIiwKICAgICAgICAgICAgImRhZW1vbnNldC9jaWxpdW0iLAogICAgICAgICAgICAiLW4iLAogICAgICAgICAgICAia3ViZS1zeXN0ZW0iLAogICAgICAgICAgICAiLS10aW1lb3V0PTE1bSIsCiAgICAgICAgXQoKICAgICAgICByZXN1bHRzID0gc3VicHJvY2Vzcy5ydW4oY21kLCBjYXB0dXJlX291dHB1dD1UcnVlKQoKICAgICAgICBpZiByZXN1bHRzLnJldHVybmNvZGUgPT0gMDoKICAgICAgICAgICAgcmV0dXJuIEFkYXB0ZXJSZXNwb25zZSgpCiAgICAgICAgcmV0dXJuIEFkYXB0ZXJSZXNwb25zZSgKICAgICAgICAgICAgY29kZT1yZXN1bHRzLnJldHVybmNvZGUsIG1lc3NhZ2U9cmVzdWx0cy5zdGRlcnIuZGVjb2RlKCksCiAgICAgICAgKQoKICAgIGRlZiByZW5kZXJfbWFuaWZlc3RzKHNlbGYsIHZlcnNpb24pOgogICAgICAgIGNtZCA9IFsKICAgICAgICAgICAgImhlbG0iLAogICAgICAgICAgICAidGVtcGxhdGUiLAogICAgICAgICAgICAiY2lsaXVtIiwKICAgICAgICAgICAgQ0lMSVVNX09DSV9DSEFSVCwKICAgICAgICAgICAgIi0tdmVyc2lvbiIsCiAgICAgICAgICAgIHZlcnNpb24sCiAgICAgICAgICAgICItLW5hbWVzcGFjZSIsCiAgICAgICAgICAgICJrdWJlLXN5c3RlbSIsCiAgICAgICAgICAgICItZiIsCiAgICAgICAgICAgIHN0cihjZmcuY2lsaXVtLnBhdGhfdmFsdWVzKSwKICAgICAgICBdCgogICAgICAgIHJlc3VsdHMgPSBzdWJwcm9jZXNzLnJ1bihjbWQsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkKCiAgICAgICAgaWYgcmVzdWx0cy5yZXR1cm5jb2RlICE9IDA6CiAgICAgICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoY29kZT1yZXN1bHRzLnJldHVybmNvZGUsIG1lc3NhZ2U9cmVzdWx0cy5zdGRlcnIpCgogICAgICAgIG91dHB1dCA9IHJlc3VsdHMuc3Rkb3V0CiAgICAgICAgZmlyc3RfZG9jID0gb3V0cHV0LmZpbmQoIi0tLSIpCiAgICAgICAgaWYgZmlyc3RfZG9jID4gMDoKICAgICAgICAgICAgb3V0cHV0ID0gb3V0cHV0W2ZpcnN0X2RvYzpdCgogICAgICAgIGxpbmVzID0gW2xpbmUucnN0cmlwKCkgZm9yIGxpbmUgaW4gb3V0cHV0LnNwbGl0bGluZXMoKV0KICAgICAgICBzZWxmLl9tYW5pZmVzdHMgPSAiXG4iLmpvaW4obGluZXMpICsgIlxuIgogICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoKQoKICAgIGRlZiBlbWJlZF9pbl90YWxvc19wYXRjaChzZWxmLCB2ZXJzaW9uKToKICAgICAgICBwYXRjaF9wYXRoID0gY2ZnLnRhbG9zLnBhdGhfcGF0Y2hfY29udHJvbHBsYW5lCgogICAgICAgIHdpdGggb3BlbihwYXRjaF9wYXRoKSBhcyBmOgogICAgICAgICAgICBwYXRjaCA9IHlhbWwuc2FmZV9sb2FkKGYpCgogICAgICAgIHBhdGNoLnNldGRlZmF1bHQoImNsdXN0ZXIiLCB7fSlbImlubGluZU1hbmlmZXN0cyJdID0gWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAibmFtZSI6ICJjaWxpdW0iLAogICAgICAgICAgICAgICAgImNvbnRlbnRzIjogc2VsZi5fbWFuaWZlc3RzLAogICAgICAgICAgICB9LAogICAgICAgIF0KCiAgICAgICAgd2l0aCBvcGVuKHBhdGNoX3BhdGgsICJ3IikgYXMgZjoKICAgICAgICAgICAgeWFtbC5kdW1wKAogICAgICAgICAgICAgICAgcGF0Y2gsCiAgICAgICAgICAgICAgICBmLAogICAgICAgICAgICAgICAgRHVtcGVyPV9MaXRlcmFsRHVtcGVyLAogICAgICAgICAgICAgICAgZGVmYXVsdF9mbG93X3N0eWxlPUZhbHNlLAogICAgICAgICAgICAgICAgc29ydF9rZXlzPUZhbHNlLAogICAgICAgICAgICAgICAgd2lkdGg9MTAwMDAsCiAgICAgICAgICAgICkKCiAgICAgICAgc2VsZi5fdXBkYXRlX3VwZ3JhZGVfY29tcGF0aWJpbGl0eSh2ZXJzaW9uKQogICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoKQoKICAgIGRlZiBhcHBseV9tYW5pZmVzdHMoc2VsZik6CiAgICAgICAgY21kID0gWwogICAgICAgICAgICAia3ViZWN0bCIsCiAgICAgICAgICAgICJhcHBseSIsCiAgICAgICAgICAgICItLXNlcnZlci1zaWRlIiwKICAgICAgICAgICAgIi0tZm9yY2UtY29uZmxpY3RzIiwKICAgICAgICAgICAgIi1mIiwKICAgICAgICAgICAgIi0iLAogICAgICAgIF0KCiAgICAgICAgcmVzdWx0cyA9IHN1YnByb2Nlc3MucnVuKAogICAgICAgICAgICBjbWQsIGlucHV0PXNlbGYuX21hbmlmZXN0cywgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLAogICAgICAgICkKCiAgICAgICAgaWYgcmVzdWx0cy5yZXR1cm5jb2RlICE9IDA6CiAgICAgICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoY29kZT1yZXN1bHRzLnJldHVybmNvZGUsIG1lc3NhZ2U9cmVzdWx0cy5zdGRlcnIpCgogICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoKQoKICAgIGRlZiBfdXBkYXRlX3VwZ3JhZGVfY29tcGF0aWJpbGl0eShzZWxmLCB2ZXJzaW9uKToKICAgICAgICBtYWpvcl9taW5vciA9ICIuIi5qb2luKHZlcnNpb24uc3BsaXQoIi4iKVs6Ml0pCiAgICAgICAgdmFsdWVzX3BhdGggPSBjZmcuY2lsaXVtLnBhdGhfdmFsdWVzCgogICAgICAgIHdpdGggb3Blbih2YWx1ZXNfcGF0aCkgYXMgZjoKICAgICAgICAgICAgdmFsdWVzID0geWFtbC5zYWZlX2xvYWQoZikKCiAgICAgICAgdmFsdWVzWyJ1cGdyYWRlQ29tcGF0aWJpbGl0eSJdID0gbWFqb3JfbWlub3IKCiAgICAgICAgd2l0aCBvcGVuKHZhbHVlc19wYXRoLCAidyIpIGFzIGY6CiAgICAgICAgICAgIHlhbWwuZHVtcCh2YWx1ZXMsIGYsIGRlZmF1bHRfZmxvd19zdHlsZT1GYWxzZSwgc29ydF9rZXlzPUZhbHNlKQo=
+import subprocess
+
+import yaml
+from adapters.config.config import cfg
+from adapters.response import AdapterResponse
+
+CILIUM_OCI_CHART = "oci://quay.io/cilium/charts/cilium"
+
+
+class _LiteralDumper(yaml.Dumper):
+    pass
+
+
+def _literal_representer(dumper, data):
+    if "\n" in data:
+        return dumper.represent_scalar("tag:yaml.org,2002:str", data, style="|")
+    return dumper.represent_scalar("tag:yaml.org,2002:str", data)
+
+
+_LiteralDumper.add_representer(str, _literal_representer)
+
+
+class CiliumAdapter:
+    def __init__(self):
+        pass
+
+    def wait_for_install(self):
+        cmd = [
+            "kubectl",
+            "rollout",
+            "status",
+            "daemonset/cilium",
+            "-n",
+            "kube-system",
+            "--timeout=15m",
+        ]
+
+        results = subprocess.run(cmd, capture_output=True)
+
+        if results.returncode == 0:
+            return AdapterResponse()
+        return AdapterResponse(
+            code=results.returncode, message=results.stderr.decode(),
+        )
+
+    def render_manifests(self, version):
+        cmd = [
+            "helm",
+            "template",
+            "cilium",
+            CILIUM_OCI_CHART,
+            "--version",
+            version,
+            "--namespace",
+            "kube-system",
+            "-f",
+            str(cfg.cilium.path_values),
+        ]
+
+        results = subprocess.run(cmd, capture_output=True, text=True)
+
+        if results.returncode != 0:
+            return AdapterResponse(code=results.returncode, message=results.stderr)
+
+        output = results.stdout
+        first_doc = output.find("---")
+        if first_doc > 0:
+            output = output[first_doc:]
+
+        lines = [line.rstrip() for line in output.splitlines()]
+        self._manifests = "\n".join(lines) + "\n"
+        return AdapterResponse()
+
+    def embed_in_talos_patch(self, version):
+        patch_path = cfg.talos.path_patch_controlplane
+
+        with open(patch_path) as f:
+            patch = yaml.safe_load(f)
+
+        patch.setdefault("cluster", {})["inlineManifests"] = [
+            {
+                "name": "cilium",
+                "contents": self._manifests,
+            },
+        ]
+
+        with open(patch_path, "w") as f:
+            yaml.dump(
+                patch,
+                f,
+                Dumper=_LiteralDumper,
+                default_flow_style=False,
+                sort_keys=False,
+                width=10000,
+            )
+
+        self._update_upgrade_compatibility(version)
+        return AdapterResponse()
+
+    def apply_manifests(self):
+        cmd = [
+            "kubectl",
+            "apply",
+            "--server-side",
+            "--force-conflicts",
+            "-f",
+            "-",
+        ]
+
+        results = subprocess.run(
+            cmd, input=self._manifests, capture_output=True, text=True,
+        )
+
+        if results.returncode != 0:
+            return AdapterResponse(code=results.returncode, message=results.stderr)
+
+        return AdapterResponse()
+
+    def _update_upgrade_compatibility(self, version):
+        major_minor = ".".join(version.split(".")[:2])
+        values_path = cfg.cilium.path_values
+
+        with open(values_path) as f:
+            values = yaml.safe_load(f)
+
+        values["upgradeCompatibility"] = major_minor
+
+        with open(values_path, "w") as f:
+            yaml.dump(values, f, default_flow_style=False, sort_keys=False)

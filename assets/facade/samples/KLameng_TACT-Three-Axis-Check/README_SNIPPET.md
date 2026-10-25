@@ -1,1 +1,32 @@
-IyBUQUNULVRocmVlLUF4aXMtQ2hlY2sKClRBQ1Qg5LiJ6L205Z2Q5qCH5YiG57G75rOVIC8gVEFDVCBUaHJlZS1BeGlzIENvb3JkaW5hdGUgQ2hlY2s6IEwo5Zyo5ZOq5LiA5bGC54qvKS1NKOaAjuS5iOmUmeeahCktUCjnoLTlnY/kuoblk6rkuIDpnaLigKYKCmDimIUgMmAgwrcgYFB5dGhvbmAKCj4g6KeG6KeJ5q+N6aKY77yaUGVyY29sYXRpb24gLyDmuJfmtYHpmIjlgLwgwrcgRE5BIGA4ZjUxZTNkY2MzODVgCj4g5b2i6LGh55Sx5LuT5bqT5qCH6K+G5ZOI5biM56Gu5a6a5oCn5rS+55Sf77yM5ZCM5LiA5LuT5bqT5rC46L+c5ZCM5LiA5byg6IS444CCCgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iYXNzZXRzL2lkZW50aXR5LnN2ZyIgd2lkdGg9IjYwMCIgYWx0PSJpZGVudGl0eSI+CjwvcD4KCiMjIOeKtuaAgQoKfCDnirbmgIEgfCDoioLlpY8gfCDlkKvkuYkgfAp8LS0tfC0tLXwtLS18Cnwg6Z2Z572uIMK3IGBpZGxlYCB8IDRzIOaFouWRvOWQuCB8IOWGt+iJsuS9juS6ruW6piB8Cnwg5o6o5ryUIMK3IGB0aGlua2luZ2AgfCAwLjhzIOW/q+iEieWGsiB8IOeQpeePgOWBj+enuyB8Cnwg5omn6KGMIMK3IGBidXN5YCB8IOaMgee7reaXi+i9rCB8IOS6ruW6puaLiemrmCB8Cnwg5Y+X6Zi7IMK3IGBibG9ja2VkYCB8IOiEieWGsuWGu+e7kyB8IOS9jumlseWSjOe6oiB8Cnwg5aSx6LSlIMK3IGBlcnJvcmAgfCDnuqLoibIgfCDkuIDmrKHmir3liqjlkI7pnZnmraIgfAp8IOi+vuaIkCDCtyBgc3VjY2Vzc2AgfCDnn63mmoLmmpbohInlhrIg4oaSIOWbnuiQvSBpZGxlIHwg55+t5pqC5pqW6ISJ5YayIOKGkiDlm57okL0gaWRsZSB8CgojIyDmioDmnK/nuqbmnZ8KCi0g5LiN6LeRIEphdmFTY3JpcHTvvIzliqjnlLvlj6rnlKggU1ZHIOWGheW1jCBDU1MgYEBrZXlmcmFtZXNgCi0g5LiN5L6d6LWW5aSW6YOo5bqT5LiO6L+Q6KGM5pe25o6l5Y+jCi0gU1ZHIOWPr+eJiOacrOWMluOAgeWPr+Wbnua7mgotIOaXoOmdou+8muayoeacieS6uuiEuCAvIOaLn+S6uuWKqOeJqSAvIOihqOaDheWMhQoK5LuT5bqT77yaaHR0cHM6Ly9naXRodWIuY29tL0tMYW1lbmcvVEFDVC1UaHJlZS1BeGlzLUNoZWNrCg==
+# TACT-Three-Axis-Check
+
+TACT 三轴坐标分类法 / TACT Three-Axis Coordinate Check: L(在哪一层犯)-M(怎么错的)-P(破坏了哪一面…
+
+`★ 2` · `Python`
+
+> 视觉母题：Percolation / 渗流阈值 · DNA `8f51e3dcc385`
+> 形象由仓库标识哈希确定性派生，同一仓库永远同一张脸。
+
+<p align="center">
+  <img src="assets/identity.svg" width="600" alt="identity">
+</p>
+
+## 状态
+
+| 状态 | 节奏 | 含义 |
+|---|---|---|
+| 静置 · `idle` | 4s 慢呼吸 | 冷色低亮度 |
+| 推演 · `thinking` | 0.8s 快脉冲 | 琥珀偏移 |
+| 执行 · `busy` | 持续旋转 | 亮度拉高 |
+| 受阻 · `blocked` | 脉冲冻结 | 低饱和红 |
+| 失败 · `error` | 红色 | 一次抽动后静止 |
+| 达成 · `success` | 短暂暖脉冲 → 回落 idle | 短暂暖脉冲 → 回落 idle |
+
+## 技术约束
+
+- 不跑 JavaScript，动画只用 SVG 内嵌 CSS `@keyframes`
+- 不依赖外部库与运行时接口
+- SVG 可版本化、可回滚
+- 无面：没有人脸 / 拟人动物 / 表情包
+
+仓库：https://github.com/KLameng/TACT-Three-Axis-Check

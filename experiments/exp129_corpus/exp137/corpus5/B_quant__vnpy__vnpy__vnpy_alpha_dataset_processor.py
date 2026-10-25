@@ -1,1 +1,211 @@
-IiIiClByZXByb2Nlc3NvcnMgdGhhdCBkcm9wLCBmaWxsLCBub3JtYWxpemUsIGFuZCByYW5rIGFscGhhIGZlYXR1cmUgY29sdW1ucy4KIiIiCgpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQoKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBwb2xhcnMgYXMgcGwKCmZyb20gLnV0aWxpdHkgaW1wb3J0IHRvX2RhdGV0aW1lCgoKZGVmIHByb2Nlc3NfZHJvcF9uYShkZjogcGwuRGF0YUZyYW1lLCBuYW1lczogbGlzdFtzdHJdIHwgTm9uZSA9IE5vbmUpIC0+IHBsLkRhdGFGcmFtZToKICAgICIiIlJlbW92ZSByb3dzIHdpdGggbWlzc2luZyB2YWx1ZXMiIiIKICAgIGlmIG5hbWVzIGlzIE5vbmU6CiAgICAgICAgbmFtZXMgPSBkZi5jb2x1bW5zWzI6LTFdCgogICAgbmFtZTogc3RyCiAgICBmb3IgbmFtZSBpbiBuYW1lczoKICAgICAgICBkZiA9IGRmLndpdGhfY29sdW1ucygKICAgICAgICAgICAgcGwuY29sKG5hbWUpLmZpbGxfbmFuKE5vbmUpCiAgICAgICAgKQogICAgZGYgPSBkZi5kcm9wX251bGxzKHN1YnNldD1uYW1lcykKICAgIHJldHVybiBkZgoKCmRlZiBwcm9jZXNzX2ZpbGxfbmEoZGY6IHBsLkRhdGFGcmFtZSwgZmlsbF92YWx1ZTogZmxvYXQsIGZpbGxfbGFiZWw6IGJvb2wgPSBUcnVlKSAtPiBwbC5EYXRhRnJhbWU6CiAgICAiIiJGaWxsIG1pc3NpbmcgdmFsdWVzIiIiCiAgICBpZiBmaWxsX2xhYmVsOgogICAgICAgIGRmID0gZGYuZmlsbF9udWxsKGZpbGxfdmFsdWUpCiAgICAgICAgZGYgPSBkZi5maWxsX25hbihmaWxsX3ZhbHVlKQogICAgZWxzZToKICAgICAgICBkZiA9IGRmLndpdGhfY29sdW1ucygKICAgICAgICAgICAgW3BsLmNvbChjb2wpLmZpbGxfbnVsbChmaWxsX3ZhbHVlKS5maWxsX25hbihmaWxsX3ZhbHVlKSBmb3IgY29sIGluIGRmLmNvbHVtbnNbMjotMV1dCiAgICAgICAgKQogICAgcmV0dXJuIGRmCgoKZGVmIHByb2Nlc3NfY3Nfbm9ybSgKICAgIGRmOiBwbC5EYXRhRnJhbWUsCiAgICBtZXRob2Q6IHN0ciwgICAgICAgICAjIHJvYnVzdC96c2NvcmUKICAgIG5hbWVzOiBsaXN0W3N0cl0gfCBOb25lID0gTm9uZQopIC0+IHBsLkRhdGFGcmFtZToKICAgICIiIkNyb3NzLXNlY3Rpb25hbCBub3JtYWxpemF0aW9uIiIiCiAgICBpZiBuYW1lcyBpcyBOb25lOgogICAgICAgIG5hbWVzID0gZGYuY29sdW1uc1syOi0xXQoKICAgIF9kZjogcGwuRGF0YUZyYW1lID0gZGYuZmlsbF9uYW4oTm9uZSkKCiAgICAjIE1lZGlhbiBtZXRob2QKICAgIGlmIG1ldGhvZCA9PSAicm9idXN0IjoKICAgICAgICBjb2w6IHN0cgogICAgICAgIGZvciBjb2wgaW4gbmFtZXM6CiAgICAgICAgICAgIGRmID0gZGYud2l0aF9jb2x1bW5zKAogICAgICAgICAgICAgICAgX2RmLnNlbGVjdCgKICAgICAgICAgICAgICAgICAgICAocGwuY29sKGNvbCkgLSBwbC5jb2woY29sKS5tZWRpYW4oKSkub3ZlcigiZGF0ZXRpbWUiKS5hbGlhcyhjb2wpLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCgogICAgICAgICAgICBkZiA9IGRmLndpdGhfY29sdW1ucygKICAgICAgICAgICAgICAgIGRmLnNlbGVjdCgKICAgICAgICAgICAgICAgICAgICBwbC5jb2woY29sKS5hYnMoKS5tZWRpYW4oKS5vdmVyKCJkYXRldGltZSIpLmFsaWFzKCJtYWQiKSwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQoKICAgICAgICAgICAgZGYgPSBkZi53aXRoX2NvbHVtbnMoCiAgICAgICAgICAgICAgICAocGwuY29sKGNvbCkgLyBwbC5jb2woIm1hZCIpIC8gMS40ODI2KS5jbGlwKC0zLCAzKS5hbGlhcyhjb2wpCiAgICAgICAgICAgICkuZHJvcChbIm1hZCJdKQogICAgIyBaLVNjb3JlIG1ldGhvZAogICAgZWxzZToKICAgICAgICBmb3IgY29sIGluIG5hbWVzOgogICAgICAgICAgICBkZiA9IGRmLndpdGhfY29sdW1ucygKICAgICAgICAgICAgICAgIF9kZi5zZWxlY3QoCiAgICAgICAgICAgICAgICAgICAgcGwuY29sKGNvbCkubWVhbigpLm92ZXIoImRhdGV0aW1lIikuYWxpYXMoIm1lYW4iKSwKICAgICAgICAgICAgICAgICAgICBwbC5jb2woY29sKS5zdGQoKS5vdmVyKCJkYXRldGltZSIpLmFsaWFzKCJzdGQiKSwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQoKICAgICAgICAgICAgZGYgPSBkZi53aXRoX2NvbHVtbnMoCiAgICAgICAgICAgICAgICAoKHBsLmNvbChjb2wpIC0gcGwuY29sKCJtZWFuIikpIC8gcGwuY29sKCJzdGQiKSkuYWxpYXMoY29sKQogICAgICAgICAgICApLmRyb3AoWyJtZWFuIiwgInN0ZCJdKQoKICAgIHJldHVybiBkZgoKCmRlZiBwcm9jZXNzX3JlcGxhY2VfaW5mKGRmOiBwbC5EYXRhRnJhbWUpIC0+IHBsLkRhdGFGcmFtZToKICAgICIiIlJlcGxhY2UgaW5maW5pdGUgdmFsdWVzIHdpdGggcGVyLXN5bWJvbCBtZWFucyIiIgogICAgX2RmOiBwbC5EYXRhRnJhbWUgPSBkZi5maWxsX25hbihOb25lKQoKICAgIG5hbWU6IHN0cgogICAgZm9yIG5hbWUgaW4gZGYuY29sdW1uc1syOl06CiAgICAgICAgbWVhbl92YWx1ZXM6IHBsLkRhdGFGcmFtZSA9ICgKICAgICAgICAgICAgX2RmLmZpbHRlcih+cGwuY29sKG5hbWUpLmlzX2luZmluaXRlKCkpLmdyb3VwX2J5KCJ2dF9zeW1ib2wiKS5hZ2coCiAgICAgICAgICAgICAgICBbcGwuY29sKG5hbWUpLm1lYW4oKS5hbGlhcygibWVhbiIpXQogICAgICAgICAgICApCiAgICAgICAgKQoKICAgICAgICBkZl93aXRoX21lYW46IHBsLkRhdGFGcmFtZSA9IGRmLmpvaW4obWVhbl92YWx1ZXMsIG9uPSJ2dF9zeW1ib2wiLCBob3c9ImxlZnQiKQogICAgICAgIGRmID0gZGZfd2l0aF9tZWFuLndpdGhfY29sdW1ucygKICAgICAgICAgICAgcGwud2hlbihwbC5jb2wobmFtZSkuaXNfaW5maW5pdGUoKSkKICAgICAgICAgICAgLnRoZW4ocGwuY29sKCJtZWFuIikpCiAgICAgICAgICAgIC5vdGhlcndpc2UocGwuY29sKG5hbWUpKQogICAgICAgICAgICAuYWxpYXMobmFtZSkKICAgICAgICApLmRyb3AoIm1lYW4iKQoKICAgIHJldHVybiBkZgoKCmRlZiBwcm9jZXNzX3RzX25vcm0oCiAgICBkZjogcGwuRGF0YUZyYW1lLAogICAgZml0X3N0YXJ0X3RpbWU6IGRhdGV0aW1lIHwgc3RyIHwgTm9uZSA9IE5vbmUsCiAgICBmaXRfZW5kX3RpbWU6IGRhdGV0aW1lIHwgc3RyIHwgTm9uZSA9IE5vbmUKKSAtPiBwbC5EYXRhRnJhbWU6CiAgICAiIiJUaW1lLXNlcmllcyBub3JtYWxpemF0aW9uIiIiCiAgICBfZGY6IHBsLkRhdGFGcmFtZSA9IGRmLmZpbGxfbmFuKE5vbmUpCgogICAgaWYgZml0X3N0YXJ0X3RpbWUgYW5kIGZpdF9lbmRfdGltZToKICAgICAgICBmaXRfc3RhcnRfdGltZSA9IHRvX2RhdGV0aW1lKGZpdF9zdGFydF90aW1lKQogICAgICAgIGZpdF9lbmRfdGltZSA9IHRvX2RhdGV0aW1lKGZpdF9lbmRfdGltZSkKICAgICAgICBfZGYgPSBfZGYuZmlsdGVyKChwbC5jb2woImRhdGV0aW1lIikgPj0gZml0X3N0YXJ0X3RpbWUpICYgKHBsLmNvbCgiZGF0ZXRpbWUiKSA8PSBmaXRfZW5kX3RpbWUpKQoKICAgIG5hbWU6IHN0cgogICAgZm9yIG5hbWUgaW4gZGYuY29sdW1uc1syOl06CiAgICAgICAgZGYgPSBkZi53aXRoX2NvbHVtbnMoCiAgICAgICAgICAgIHBsLmxpdChucC5uYW5tZWFuKF9kZltuYW1lXSkpLmFsaWFzKCJtZWFuIiksCiAgICAgICAgICAgIHBsLmxpdChucC5uYW5zdGQoX2RmW25hbWVdKSkuYWxpYXMoInN0ZCIpLAogICAgICAgICkKCiAgICAgICAgZGYgPSBkZi53aXRoX2NvbHVtbnMoCiAgICAgICAgICAgIHBsLndoZW4ocGwuY29sKCJzdGQiKSA9PSAwKQogICAgICAgICAgICAudGhlbihwbC5jb2wobmFtZSkpCiAgICAgICAgICAgIC5vdGhlcndpc2UoKChwbC5jb2wobmFtZSkgLSBwbC5jb2woIm1lYW4iKSkgLyBwbC5jb2woInN0ZCIpKS5jYXN0KHBsLkZsb2F0NjQpKQogICAgICAgICAgICAuYWxpYXMobmFtZSkKICAgICAgICApLmRyb3AoWyJtZWFuIiwgInN0ZCJdKQoKICAgIHJldHVybiBkZgoKCmRlZiBwcm9jZXNzX2Ryb3BfZmVhdHVyZShkZjogcGwuRGF0YUZyYW1lLCBuYW1lczogbGlzdFtzdHJdKSAtPiBwbC5EYXRhRnJhbWU6CiAgICAiIiJEcm9wIGZlYXR1cmUgY29sdW1ucyIiIgogICAgcmV0dXJuIGRmLmRyb3AobmFtZXMpCgoKZGVmIHByb2Nlc3NfY3NfZmlsbF9uYShkZjogcGwuRGF0YUZyYW1lLCBuYW1lczogbGlzdFtzdHJdIHwgTm9uZSA9IE5vbmUpIC0+IHBsLkRhdGFGcmFtZToKICAgICIiIkZpbGwgbWlzc2luZyB2YWx1ZXMgd2l0aCBjcm9zcy1zZWN0aW9uYWwgbWVhbnMiIiIKICAgIF9kZjogcGwuRGF0YUZyYW1lID0gZGYuZmlsbF9uYW4oTm9uZSkKCiAgICBpZiBuYW1lcyBpcyBOb25lOgogICAgICAgIG5hbWVzID0gX2RmLmNvbHVtbnNbMjotMV0KCiAgICBjb2w6IHN0cgogICAgZm9yIGNvbCBpbiBuYW1lczoKICAgICAgICBkZiA9IGRmLndpdGhfY29sdW1ucygKICAgICAgICAgICAgX2RmLnNlbGVjdCgKICAgICAgICAgICAgICAgIHBsLmNvbChjb2wpLmZpbGxfbnVsbChwbC5jb2woY29sKS5tZWFuKCkub3ZlcigiZGF0ZXRpbWUiKSkuYWxpYXMoY29sKQogICAgICAgICAgICApCiAgICAgICAgKQoKICAgIHJldHVybiBkZgoKCmRlZiBwcm9jZXNzX3JvYnVzdF96c2NvcmVfbm9ybSgKICAgIGRmOiBwbC5EYXRhRnJhbWUsCiAgICBmaXRfc3RhcnRfdGltZTogZGF0ZXRpbWUgfCBzdHIgfCBOb25lID0gTm9uZSwKICAgIGZpdF9lbmRfdGltZTogZGF0ZXRpbWUgfCBzdHIgfCBOb25lID0gTm9uZSwKICAgIGNsaXBfb3V0bGllcjogYm9vbCA9IFRydWUKKSAtPiBwbC5EYXRhRnJhbWU6CiAgICAiIiJSb2J1c3QgWi1TY29yZSBub3JtYWxpemF0aW9uIiIiCiAgICBfZGY6IHBsLkRhdGFGcmFtZSA9IGRmLmZpbGxfbmFuKE5vbmUpCgogICAgaWYgZml0X3N0YXJ0X3RpbWUgYW5kIGZpdF9lbmRfdGltZToKICAgICAgICBmaXRfc3RhcnRfdGltZSA9IHRvX2RhdGV0aW1lKGZpdF9zdGFydF90aW1lKQogICAgICAgIGZpdF9lbmRfdGltZSA9IHRvX2RhdGV0aW1lKGZpdF9lbmRfdGltZSkKICAgICAgICBfZGYgPSBfZGYuZmlsdGVyKChwbC5jb2woImRhdGV0aW1lIikgPj0gZml0X3N0YXJ0X3RpbWUpICYgKHBsLmNvbCgiZGF0ZXRpbWUiKSA8PSBmaXRfZW5kX3RpbWUpKQoKICAgIGNvbHM6IGxpc3Rbc3RyXSA9IGRmLmNvbHVtbnNbMjotMV0KICAgIFg6IG5wLm5kYXJyYXkgPSBfZGYuc2VsZWN0KGNvbHMpLnRvX251bXB5KCkKCiAgICBtZWFuX3RyYWluOiBucC5uZGFycmF5ID0gbnAubmFubWVkaWFuKFgsIGF4aXM9MCkKICAgIHN0ZF90cmFpbjogbnAubmRhcnJheSA9IG5wLm5hbm1lZGlhbihucC5hYnMoWCAtIG1lYW5fdHJhaW4pLCBheGlzPTApCiAgICBzdGRfdHJhaW4gKz0gMWUtMTIKICAgIHN0ZF90cmFpbiAqPSAxLjQ4MjYKCiAgICBuYW1lOiBzdHIKICAgIGZvciBuYW1lIGluIGNvbHM6CiAgICAgICAgbm9ybWFsaXplZF9jb2w6IHBsLkV4cHIgPSAoCiAgICAgICAgICAgIChwbC5jb2wobmFtZSkgLSBtZWFuX3RyYWluW2NvbHMuaW5kZXgobmFtZSldKSAvIHN0ZF90cmFpbltjb2xzLmluZGV4KG5hbWUpXQogICAgICAgICkuY2FzdChwbC5GbG9hdDY0KQoKICAgICAgICBpZiBjbGlwX291dGxpZXI6CiAgICAgICAgICAgIG5vcm1hbGl6ZWRfY29sID0gbm9ybWFsaXplZF9jb2wuY2xpcCgtMywgMykKCiAgICAgICAgZGYgPSBkZi53aXRoX2NvbHVtbnMobm9ybWFsaXplZF9jb2wuYWxpYXMobmFtZSkpCgogICAgcmV0dXJuIGRmCgoKZGVmIHByb2Nlc3NfY3NfcmFua19ub3JtKGRmOiBwbC5EYXRhRnJhbWUsIG5hbWVzOiBsaXN0W3N0cl0pIC0+IHBsLkRhdGFGcmFtZToKICAgICIiIkNyb3NzLXNlY3Rpb25hbCByYW5rIG5vcm1hbGl6YXRpb24iIiIKICAgIF9kZjogcGwuRGF0YUZyYW1lID0gZGYuZmlsbF9uYW4oTm9uZSkKCiAgICBfZGYgPSBfZGYud2l0aF9jb2x1bW5zKFsKICAgICAgICAoKHBsLmNvbChjb2wpLnJhbmsoImF2ZXJhZ2UiKS5vdmVyKCJkYXRldGltZSIpIC8gcGwuY29sKCJkYXRldGltZSIpLmNvdW50KCkub3ZlcigiZGF0ZXRpbWUiKSkgLSAwLjUpICogMy40NgogICAgICAgIGZvciBjb2wgaW4gbmFtZXMKICAgIF0pCgogICAgZGYgPSBkZi53aXRoX2NvbHVtbnMoWwogICAgICAgIF9kZltjb2xdLmFsaWFzKGNvbCkgZm9yIGNvbCBpbiBuYW1lcwogICAgXSkKCiAgICByZXR1cm4gZGYK
+"""
+Preprocessors that drop, fill, normalize, and rank alpha feature columns.
+"""
+
+from datetime import datetime
+
+import numpy as np
+import polars as pl
+
+from .utility import to_datetime
+
+
+def process_drop_na(df: pl.DataFrame, names: list[str] | None = None) -> pl.DataFrame:
+    """Remove rows with missing values"""
+    if names is None:
+        names = df.columns[2:-1]
+
+    name: str
+    for name in names:
+        df = df.with_columns(
+            pl.col(name).fill_nan(None)
+        )
+    df = df.drop_nulls(subset=names)
+    return df
+
+
+def process_fill_na(df: pl.DataFrame, fill_value: float, fill_label: bool = True) -> pl.DataFrame:
+    """Fill missing values"""
+    if fill_label:
+        df = df.fill_null(fill_value)
+        df = df.fill_nan(fill_value)
+    else:
+        df = df.with_columns(
+            [pl.col(col).fill_null(fill_value).fill_nan(fill_value) for col in df.columns[2:-1]]
+        )
+    return df
+
+
+def process_cs_norm(
+    df: pl.DataFrame,
+    method: str,         # robust/zscore
+    names: list[str] | None = None
+) -> pl.DataFrame:
+    """Cross-sectional normalization"""
+    if names is None:
+        names = df.columns[2:-1]
+
+    _df: pl.DataFrame = df.fill_nan(None)
+
+    # Median method
+    if method == "robust":
+        col: str
+        for col in names:
+            df = df.with_columns(
+                _df.select(
+                    (pl.col(col) - pl.col(col).median()).over("datetime").alias(col),
+                )
+            )
+
+            df = df.with_columns(
+                df.select(
+                    pl.col(col).abs().median().over("datetime").alias("mad"),
+                )
+            )
+
+            df = df.with_columns(
+                (pl.col(col) / pl.col("mad") / 1.4826).clip(-3, 3).alias(col)
+            ).drop(["mad"])
+    # Z-Score method
+    else:
+        for col in names:
+            df = df.with_columns(
+                _df.select(
+                    pl.col(col).mean().over("datetime").alias("mean"),
+                    pl.col(col).std().over("datetime").alias("std"),
+                )
+            )
+
+            df = df.with_columns(
+                ((pl.col(col) - pl.col("mean")) / pl.col("std")).alias(col)
+            ).drop(["mean", "std"])
+
+    return df
+
+
+def process_replace_inf(df: pl.DataFrame) -> pl.DataFrame:
+    """Replace infinite values with per-symbol means"""
+    _df: pl.DataFrame = df.fill_nan(None)
+
+    name: str
+    for name in df.columns[2:]:
+        mean_values: pl.DataFrame = (
+            _df.filter(~pl.col(name).is_infinite()).group_by("vt_symbol").agg(
+                [pl.col(name).mean().alias("mean")]
+            )
+        )
+
+        df_with_mean: pl.DataFrame = df.join(mean_values, on="vt_symbol", how="left")
+        df = df_with_mean.with_columns(
+            pl.when(pl.col(name).is_infinite())
+            .then(pl.col("mean"))
+            .otherwise(pl.col(name))
+            .alias(name)
+        ).drop("mean")
+
+    return df
+
+
+def process_ts_norm(
+    df: pl.DataFrame,
+    fit_start_time: datetime | str | None = None,
+    fit_end_time: datetime | str | None = None
+) -> pl.DataFrame:
+    """Time-series normalization"""
+    _df: pl.DataFrame = df.fill_nan(None)
+
+    if fit_start_time and fit_end_time:
+        fit_start_time = to_datetime(fit_start_time)
+        fit_end_time = to_datetime(fit_end_time)
+        _df = _df.filter((pl.col("datetime") >= fit_start_time) & (pl.col("datetime") <= fit_end_time))
+
+    name: str
+    for name in df.columns[2:]:
+        df = df.with_columns(
+            pl.lit(np.nanmean(_df[name])).alias("mean"),
+            pl.lit(np.nanstd(_df[name])).alias("std"),
+        )
+
+        df = df.with_columns(
+            pl.when(pl.col("std") == 0)
+            .then(pl.col(name))
+            .otherwise(((pl.col(name) - pl.col("mean")) / pl.col("std")).cast(pl.Float64))
+            .alias(name)
+        ).drop(["mean", "std"])
+
+    return df
+
+
+def process_drop_feature(df: pl.DataFrame, names: list[str]) -> pl.DataFrame:
+    """Drop feature columns"""
+    return df.drop(names)
+
+
+def process_cs_fill_na(df: pl.DataFrame, names: list[str] | None = None) -> pl.DataFrame:
+    """Fill missing values with cross-sectional means"""
+    _df: pl.DataFrame = df.fill_nan(None)
+
+    if names is None:
+        names = _df.columns[2:-1]
+
+    col: str
+    for col in names:
+        df = df.with_columns(
+            _df.select(
+                pl.col(col).fill_null(pl.col(col).mean().over("datetime")).alias(col)
+            )
+        )
+
+    return df
+
+
+def process_robust_zscore_norm(
+    df: pl.DataFrame,
+    fit_start_time: datetime | str | None = None,
+    fit_end_time: datetime | str | None = None,
+    clip_outlier: bool = True
+) -> pl.DataFrame:
+    """Robust Z-Score normalization"""
+    _df: pl.DataFrame = df.fill_nan(None)
+
+    if fit_start_time and fit_end_time:
+        fit_start_time = to_datetime(fit_start_time)
+        fit_end_time = to_datetime(fit_end_time)
+        _df = _df.filter((pl.col("datetime") >= fit_start_time) & (pl.col("datetime") <= fit_end_time))
+
+    cols: list[str] = df.columns[2:-1]
+    X: np.ndarray = _df.select(cols).to_numpy()
+
+    mean_train: np.ndarray = np.nanmedian(X, axis=0)
+    std_train: np.ndarray = np.nanmedian(np.abs(X - mean_train), axis=0)
+    std_train += 1e-12
+    std_train *= 1.4826
+
+    name: str
+    for name in cols:
+        normalized_col: pl.Expr = (
+            (pl.col(name) - mean_train[cols.index(name)]) / std_train[cols.index(name)]
+        ).cast(pl.Float64)
+
+        if clip_outlier:
+            normalized_col = normalized_col.clip(-3, 3)
+
+        df = df.with_columns(normalized_col.alias(name))
+
+    return df
+
+
+def process_cs_rank_norm(df: pl.DataFrame, names: list[str]) -> pl.DataFrame:
+    """Cross-sectional rank normalization"""
+    _df: pl.DataFrame = df.fill_nan(None)
+
+    _df = _df.with_columns([
+        ((pl.col(col).rank("average").over("datetime") / pl.col("datetime").count().over("datetime")) - 0.5) * 3.46
+        for col in names
+    ])
+
+    df = df.with_columns([
+        _df[col].alias(col) for col in names
+    ])
+
+    return df

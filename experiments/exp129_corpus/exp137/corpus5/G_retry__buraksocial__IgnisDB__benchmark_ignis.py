@@ -1,1 +1,115 @@
-aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBhc3luY2lvCmltcG9ydCB0aW1lCmltcG9ydCBqc29uCmltcG9ydCBzdGF0aXN0aWNzCgphc3luYyBkZWYgYmVuY2htYXJrKHNraXBfaW1wb3J0PUZhbHNlKToKICAgIGhvc3QgPSAnMTI3LjAuMC4xJwogICAgcG9ydCA9IDYzODEKICAgICMgVXBkYXRlZCBwYXRoIHRvIG1hdGNoIHRoZSByZW5hbWVkIGZpbGUKICAgIHNuYXBzaG90X2ZpbGUgPSByImM6XFVzZXJzXGJ1cjRrXERvd25sb2Fkc1xJZ25pc0RCLW1haW5caWduaXNfc25hcHNob3QuaWduaXMiCiAgICAKICAgIHByaW50KGYiQ29ubmVjdGluZyB0byBJZ25pc0RCIGF0IHtob3N0fTp7cG9ydH0uLi4iKQogICAgdHJ5OgogICAgICAgIHJlYWRlciwgd3JpdGVyID0gYXdhaXQgYXN5bmNpby5vcGVuX2Nvbm5lY3Rpb24oaG9zdCwgcG9ydCkKICAgIGV4Y2VwdCBDb25uZWN0aW9uUmVmdXNlZEVycm9yOgogICAgICAgIHByaW50KCJFcnJvcjogSWduaXNEQiBzZXJ2ZXIgaXMgbm90IHJ1bm5pbmchIikKICAgICAgICByZXR1cm4KCiAgICAjIDEuIEltcG9ydCBEYXRhIChPcHRpb25hbCkKICAgIGlmIG5vdCBza2lwX2ltcG9ydDoKICAgICAgICBwcmludChmIkltcG9ydGluZyBzbmFwc2hvdDoge3NuYXBzaG90X2ZpbGV9Li4uIikKICAgICAgICBzdGFydF9pbXBvcnQgPSB0aW1lLnRpbWUoKQogICAgICAgIHdyaXRlci53cml0ZShmIklNUE9SVCB7c25hcHNob3RfZmlsZX1cclxuIi5lbmNvZGUoKSkKICAgICAgICBhd2FpdCB3cml0ZXIuZHJhaW4oKQogICAgICAgIAogICAgICAgICMgV2FpdCBmb3IgcmVzcG9uc2UgKG1pZ2h0IHRha2UgYSBiaXQgZm9yIDQwME1CKQogICAgICAgICMgSW1wb3J0IGNvbW1hbmQgcmV0dXJucyBhIHNpbXBsZSBzdHJpbmcsIG5vdCBSRVNQIGZvcm1hdHRlZCB1c3VhbGx5IGluIHRoaXMgY3VzdG9tIHNlcnZlciwgCiAgICAgICAgIyBidXQgdGhlIHNlcnZlciBjb2RlIHJldHVybnMgIkltcG9ydGVkIFgga2V5cy4uLiIKICAgICAgICAjIExldCdzIHJlYWQgYSBiaWcgY2h1bmsKICAgICAgICByZXNwID0gYXdhaXQgcmVhZGVyLnJlYWQoNDA5NikKICAgICAgICBwcmludChmIkltcG9ydCBSZXNwb25zZToge3Jlc3AuZGVjb2RlKGVycm9ycz0ncmVwbGFjZScpLnN0cmlwKCl9IikKICAgICAgICBwcmludChmIkltcG9ydCBUaW1lOiB7dGltZS50aW1lKCkgLSBzdGFydF9pbXBvcnQ6LjJmfXMiKQogICAgZWxzZToKICAgICAgICBwcmludCgiU2tpcHBpbmcgaW1wb3J0IHN0ZXAgKHByZXN1bWluZyBkYXRhIGlzIGxvYWRlZCB2aWEgQU9GL1NuYXBzaG90KS4uLiIpCgogICAgIyAyLiBCZW5jaG1hcmsgUXVlcnkKICAgIGtleSA9ICJkYXRhX3VzZXJzOjEiCiAgICBpdGVyYXRpb25zID0gMTAwMDAKICAgIGxhdGVuY2llcyA9IFtdCgogICAgcHJpbnQoZiJcbkJlbmNobWFya2luZyBHRVQge2tleX0gKHtpdGVyYXRpb25zfSBpdGVyYXRpb25zKS4uLiIpCiAgICAKICAgICMgV2FybXVwCiAgICBmb3IgXyBpbiByYW5nZSgxMDApOgogICAgICAgIHdyaXRlci53cml0ZShmIkdFVCB7a2V5fVxyXG4iLmVuY29kZSgpKQogICAgICAgIGF3YWl0IHdyaXRlci5kcmFpbigpCiAgICAgICAgYXdhaXQgcmVhZGVyLnJlYWQoNjU1MzYpCgogICAgIyBNZWFzdXJlbWVudAogICAgc3RhcnRfdG90YWwgPSB0aW1lLnRpbWUoKQogICAgZm9yIF8gaW4gcmFuZ2UoaXRlcmF0aW9ucyk6CiAgICAgICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICAgICAgd3JpdGVyLndyaXRlKGYiR0VUIHtrZXl9XHJcbiIuZW5jb2RlKCkpCiAgICAgICAgYXdhaXQgd3JpdGVyLmRyYWluKCkKICAgICAgICBkYXRhID0gYXdhaXQgcmVhZGVyLnJlYWQoNjU1MzYpCiAgICAgICAgdDEgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICAgICAgbGF0ZW5jaWVzLmFwcGVuZCgodDEgLSB0MCkgKiAxMDAwKSAjIG1zCgogICAgICAgIGlmIF8gPT0gMDoKICAgICAgICAgICAgcHJpbnQoZiJGaXJzdCBSZXNwb25zZSBTYW1wbGU6IHtkYXRhLmRlY29kZShlcnJvcnM9J3JlcGxhY2UnKVs6MjAwXX0uLi4iKQoKICAgIHRvdGFsX3RpbWUgPSB0aW1lLnRpbWUoKSAtIHN0YXJ0X3RvdGFsCiAgICBhdmdfbGF0ZW5jeSA9IHN0YXRpc3RpY3MubWVhbihsYXRlbmNpZXMpCiAgICBwOTVfbGF0ZW5jeSA9IHN0YXRpc3RpY3MucXVhbnRpbGVzKGxhdGVuY2llcywgbj0yMClbMThdICMgOTV0aCBwZXJjZW50aWxlCiAgICBwOTlfbGF0ZW5jeSA9IHN0YXRpc3RpY3MucXVhbnRpbGVzKGxhdGVuY2llcywgbj0xMDApWzk4XSAjIDk5dGggcGVyY2VudGlsZQogICAgcnBzID0gaXRlcmF0aW9ucyAvIHRvdGFsX3RpbWUKCiAgICBwcmludChmIlxuUmVzdWx0czoiKQogICAgcHJpbnQoZiIgIFRvdGFsIFRpbWU6IHt0b3RhbF90aW1lOi40Zn1zIikKICAgIHByaW50KGYiICBUaHJvdWdocHV0OiB7cnBzOiwuMGZ9IHJlcS9zIikKICAgIHByaW50KGYiICBBdmcgTGF0ZW5jeToge2F2Z19sYXRlbmN5Oi40Zn0gbXMiKQogICAgcHJpbnQoZiIgIHA5NSBMYXRlbmN5OiB7cDk1X2xhdGVuY3k6LjRmfSBtcyIpCiAgICBwcmludChmIiAgcDk5IExhdGVuY3k6IHtwOTlfbGF0ZW5jeTouNGZ9IG1zIikKCiAgICBwcmludChmIiAgcDk5IExhdGVuY3k6IHtwOTlfbGF0ZW5jeTouNGZ9IG1zIikKCiAgICAjIDMuIEJlbmNobWFyayBOb24tRXhpc3RlbnQgS2V5CiAgICBrZXlfbmUgPSAiZGF0YV91c2Vyczo5OTk5OTk5IgogICAgcHJpbnQoZiJcbkJlbmNobWFya2luZyBHRVQge2tleV9uZX0gKE5vdCBGb3VuZCkgKHtpdGVyYXRpb25zfSBpdGVyYXRpb25zKS4uLiIpCiAgICBsYXRlbmNpZXNfbmUgPSBbXQogICAgCiAgICBzdGFydF90b3RhbF9uZSA9IHRpbWUudGltZSgpCiAgICBmb3IgXyBpbiByYW5nZShpdGVyYXRpb25zKToKICAgICAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICB3cml0ZXIud3JpdGUoZiJHRVQge2tleV9uZX1cclxuIi5lbmNvZGUoKSkKICAgICAgICBhd2FpdCB3cml0ZXIuZHJhaW4oKQogICAgICAgIGRhdGEgPSBhd2FpdCByZWFkZXIucmVhZCg2NTUzNikKICAgICAgICB0MSA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICBsYXRlbmNpZXNfbmUuYXBwZW5kKCh0MSAtIHQwKSAqIDEwMDApCgogICAgICAgIGlmIF8gPT0gMDoKICAgICAgICAgICAgcHJpbnQoZiJGaXJzdCBSZXNwb25zZSBTYW1wbGUgKFNob3VsZCBiZSBuaWwpOiB7ZGF0YS5kZWNvZGUoZXJyb3JzPSdyZXBsYWNlJykuc3RyaXAoKX0iKQoKICAgIHRvdGFsX3RpbWVfbmUgPSB0aW1lLnRpbWUoKSAtIHN0YXJ0X3RvdGFsX25lCiAgICBhdmdfbGF0ZW5jeV9uZSA9IHN0YXRpc3RpY3MubWVhbihsYXRlbmNpZXNfbmUpCiAgICBycHNfbmUgPSBpdGVyYXRpb25zIC8gdG90YWxfdGltZV9uZQogICAgCiAgICBwcmludChmIlxuUmVzdWx0cyAoTm90IEZvdW5kKToiKQogICAgcHJpbnQoZiIgIFRvdGFsIFRpbWU6IHt0b3RhbF90aW1lX25lOi40Zn1zIikKICAgIHByaW50KGYiICBUaHJvdWdocHV0OiB7cnBzX25lOiwuMGZ9IHJlcS9zIikKICAgIHByaW50KGYiICBBdmcgTGF0ZW5jeToge2F2Z19sYXRlbmN5X25lOi40Zn0gbXMiKQoKICAgIHdyaXRlci5jbG9zZSgpCiAgICBhd2FpdCB3cml0ZXIud2FpdF9jbG9zZWQoKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tc2tpcC1pbXBvcnQnLCBhY3Rpb249J3N0b3JlX3RydWUnLCBoZWxwPSdTa2lwIHRoZSBJTVBPUlQgY29tbWFuZCBzdGVwJykKICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCiAgICAKICAgIHRyeToKICAgICAgICBhc3luY2lvLnJ1bihiZW5jaG1hcmsoc2tpcF9pbXBvcnQ9YXJncy5za2lwX2ltcG9ydCkpCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgcGFzcwo=
+import argparse
+import asyncio
+import time
+import json
+import statistics
+
+async def benchmark(skip_import=False):
+    host = '127.0.0.1'
+    port = 6381
+    # Updated path to match the renamed file
+    snapshot_file = r"c:\Users\bur4k\Downloads\IgnisDB-main\ignis_snapshot.ignis"
+    
+    print(f"Connecting to IgnisDB at {host}:{port}...")
+    try:
+        reader, writer = await asyncio.open_connection(host, port)
+    except ConnectionRefusedError:
+        print("Error: IgnisDB server is not running!")
+        return
+
+    # 1. Import Data (Optional)
+    if not skip_import:
+        print(f"Importing snapshot: {snapshot_file}...")
+        start_import = time.time()
+        writer.write(f"IMPORT {snapshot_file}\r\n".encode())
+        await writer.drain()
+        
+        # Wait for response (might take a bit for 400MB)
+        # Import command returns a simple string, not RESP formatted usually in this custom server, 
+        # but the server code returns "Imported X keys..."
+        # Let's read a big chunk
+        resp = await reader.read(4096)
+        print(f"Import Response: {resp.decode(errors='replace').strip()}")
+        print(f"Import Time: {time.time() - start_import:.2f}s")
+    else:
+        print("Skipping import step (presuming data is loaded via AOF/Snapshot)...")
+
+    # 2. Benchmark Query
+    key = "data_users:1"
+    iterations = 10000
+    latencies = []
+
+    print(f"\nBenchmarking GET {key} ({iterations} iterations)...")
+    
+    # Warmup
+    for _ in range(100):
+        writer.write(f"GET {key}\r\n".encode())
+        await writer.drain()
+        await reader.read(65536)
+
+    # Measurement
+    start_total = time.time()
+    for _ in range(iterations):
+        t0 = time.perf_counter()
+        writer.write(f"GET {key}\r\n".encode())
+        await writer.drain()
+        data = await reader.read(65536)
+        t1 = time.perf_counter()
+        latencies.append((t1 - t0) * 1000) # ms
+
+        if _ == 0:
+            print(f"First Response Sample: {data.decode(errors='replace')[:200]}...")
+
+    total_time = time.time() - start_total
+    avg_latency = statistics.mean(latencies)
+    p95_latency = statistics.quantiles(latencies, n=20)[18] # 95th percentile
+    p99_latency = statistics.quantiles(latencies, n=100)[98] # 99th percentile
+    rps = iterations / total_time
+
+    print(f"\nResults:")
+    print(f"  Total Time: {total_time:.4f}s")
+    print(f"  Throughput: {rps:,.0f} req/s")
+    print(f"  Avg Latency: {avg_latency:.4f} ms")
+    print(f"  p95 Latency: {p95_latency:.4f} ms")
+    print(f"  p99 Latency: {p99_latency:.4f} ms")
+
+    print(f"  p99 Latency: {p99_latency:.4f} ms")
+
+    # 3. Benchmark Non-Existent Key
+    key_ne = "data_users:9999999"
+    print(f"\nBenchmarking GET {key_ne} (Not Found) ({iterations} iterations)...")
+    latencies_ne = []
+    
+    start_total_ne = time.time()
+    for _ in range(iterations):
+        t0 = time.perf_counter()
+        writer.write(f"GET {key_ne}\r\n".encode())
+        await writer.drain()
+        data = await reader.read(65536)
+        t1 = time.perf_counter()
+        latencies_ne.append((t1 - t0) * 1000)
+
+        if _ == 0:
+            print(f"First Response Sample (Should be nil): {data.decode(errors='replace').strip()}")
+
+    total_time_ne = time.time() - start_total_ne
+    avg_latency_ne = statistics.mean(latencies_ne)
+    rps_ne = iterations / total_time_ne
+    
+    print(f"\nResults (Not Found):")
+    print(f"  Total Time: {total_time_ne:.4f}s")
+    print(f"  Throughput: {rps_ne:,.0f} req/s")
+    print(f"  Avg Latency: {avg_latency_ne:.4f} ms")
+
+    writer.close()
+    await writer.wait_closed()
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--skip-import', action='store_true', help='Skip the IMPORT command step')
+    args = parser.parse_args()
+    
+    try:
+        asyncio.run(benchmark(skip_import=args.skip_import))
+    except KeyboardInterrupt:
+        pass

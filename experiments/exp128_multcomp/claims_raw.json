@@ -1,1 +1,786 @@
-ewogImNsYWltcyI6IFsKICB7CiAgICJyZXBvcnQiOiAiMDc2X+ehheWfuuaEn+WumOmYteWIl1/lhbHkuqvkuJbnlYznmoTlj6/mtYvlrprkuYkubWQiLAogICAibGluZV9ubyI6IDc3LAogICAiZGVsdGEiOiAwLjM4MjQsCiAgICJjaV9sbyI6IDAuMDk0OCwKICAgImNpX2hpIjogMC42NywKICAgIm4iOiBudWxsLAogICAiZGVsdGFfc291cmNlIjogImNpX21pZHBvaW50IiwKICAgImRlbHRhX2luZmVycmVkIjogdHJ1ZSwKICAgInNlIjogMC4xNDY3MzczOTAxNzcwOTU1NiwKICAgInoiOiAyLjYwNjAxNjA5MTMyMTI3OTMsCiAgICJwX2FwcHJveCI6IDAuMDA5MTYwMjE1ODExMDgxMzE4LAogICAiY2lfZXhjbHVkZXNfemVybyI6IHRydWUsCiAgICJyZXBvcnRfY2xhaW1lZF9zaWciOiB0cnVlLAogICAiY29udGV4dCI6ICJ8ICoqzpRyKiogfCAqKjAuMzcyNSoqIHwgKiowLjAwMzcqKiB8IDk1JUNJIFswLjA5NDgsIDAuNjcwMF0gfCIsCiAgICJfcCI6IDAuMDA5MTYwMjE1ODExMDgxMzE4LAogICAiX3BfbWlzc2luZyI6IGZhbHNlLAogICAicV9iaCI6IDAuMDE4MzIwNDMxNjIyMTYyNjM2LAogICAicmVqZWN0X2JoIjogdHJ1ZSwKICAgInBfYm9uZiI6IDAuMTI4MjQzMDIxMzU1MTM4NDYsCiAgICJyZWplY3RfYm9uZiI6IGZhbHNlLAogICAiZ2F0ZV9yZWFzb25zIjogWwogICAgIkczX0ZBSUw6IG4g5pyq6K6w5b2VIgogICBdLAogICAiUEFTUyI6IGZhbHNlCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDc4X+ihqOW+geW/heimgeaAp1/mhJ/nn6XlhYjkuo7nrKblj7cubWQiLAogICAibGluZV9ubyI6IDc2LAogICAiZGVsdGEiOiAwLjA1OTYsCiAgICJjaV9sbyI6IDAuMDM0LAogICAiY2lfaGkiOiAwLjA4NjIsCiAgICJuIjogbnVsbCwKICAgImRlbHRhX3NvdXJjZSI6ICJzYW1lX2xpbmUiLAogICAiZGVsdGFfaW5mZXJyZWQiOiBmYWxzZSwKICAgInNlIjogMC4wMTMzMTY1NzEyMjI2MDg0NiwKICAgInoiOiA0LjQ3NTYyNjU3MTExMTExMSwKICAgInBfYXBwcm94IjogNy42MTg3NTQ3NTU0NTU5NThlLTA2LAogICAiY2lfZXhjbHVkZXNfemVybyI6IHRydWUsCiAgICJyZXBvcnRfY2xhaW1lZF9zaWciOiBmYWxzZSwKICAgImNvbnRleHQiOiAiLSAqKkgxIOaIkOeriyoq77ya5peg6KGo5b6BIHZzIOaXoOaEn+WumO+8jM6UPSswLjA1OTbvvIw5NSVDSSBbKzAuMDM0MCwgKzAuMDg2Ml0g5YWo5q2jIiwKICAgIl9wIjogNy42MTg3NTQ3NTU0NTU5NThlLTA2LAogICAiX3BfbWlzc2luZyI6IGZhbHNlLAogICAicV9iaCI6IDIuMTMzMjUxMzMxNTI3NjY4M2UtMDUsCiAgICJyZWplY3RfYmgiOiB0cnVlLAogICAicF9ib25mIjogMC4wMDAxMDY2NjI1NjY1NzYzODM0MSwKICAgInJlamVjdF9ib25mIjogdHJ1ZSwKICAgImdhdGVfcmVhc29ucyI6IFsKICAgICJHM19GQUlMOiBuIOacquiusOW9lSIKICAgXSwKICAgIlBBU1MiOiBmYWxzZQogIH0sCiAgewogICAicmVwb3J0IjogIjA3OF/ooajlvoHlv4XopoHmgKdf5oSf55+l5YWI5LqO56ym5Y+3Lm1kIiwKICAgImxpbmVfbm8iOiA5MSwKICAgImRlbHRhIjogMC4wMzE5NSwKICAgImNpX2xvIjogMC4wMDk1LAogICAiY2lfaGkiOiAwLjA1NDQsCiAgICJuIjogbnVsbCwKICAgImRlbHRhX3NvdXJjZSI6ICJjaV9taWRwb2ludCIsCiAgICJkZWx0YV9pbmZlcnJlZCI6IHRydWUsCiAgICJzZSI6IDAuMDExNDU0MjkyMTA1MjcwNDk1LAogICAieiI6IDIuNzg5MzQ3NDA4NDk2NjU5NCwKICAgInBfYXBwcm94IjogMC4wMDUyODE0Mzc3NzMzMDAxNzQsCiAgICJjaV9leGNsdWRlc196ZXJvIjogdHJ1ZSwKICAgInJlcG9ydF9jbGFpbWVkX3NpZyI6IHRydWUsCiAgICJjb250ZXh0IjogIi0gcmVhbCDiiJIgY29uc3QgPSAqKiswLjAzMDgqKu+8jENJIFsrMC4wMDk1LCArMC4wNTQ0XSDlhajmraMg4oaSICoqcmVhbCDmm7Tpq5gqKiIsCiAgICJfcCI6IDAuMDA1MjgxNDM3NzczMzAwMTc0LAogICAiX3BfbWlzc2luZyI6IGZhbHNlLAogICAicV9iaCI6IDAuMDEyMzIzMzU0ODA0MzY3MDczLAogICAicmVqZWN0X2JoIjogdHJ1ZSwKICAgInBfYm9uZiI6IDAuMDczOTQwMTI4ODI2MjAyNDMsCiAgICJyZWplY3RfYm9uZiI6IGZhbHNlLAogICAiZ2F0ZV9yZWFzb25zIjogWwogICAgIkczX0ZBSUw6IG4g5pyq6K6w5b2VIgogICBdLAogICAiUEFTUyI6IGZhbHNlCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDc4X+ihqOW+geW/heimgeaAp1/mhJ/nn6XlhYjkuo7nrKblj7cubWQiLAogICAibGluZV9ubyI6IDkyLAogICAiZGVsdGEiOiAtMC4wNDA0NSwKICAgImNpX2xvIjogLTAuMDgwNCwKICAgImNpX2hpIjogLTAuMDAwNSwKICAgIm4iOiBudWxsLAogICAiZGVsdGFfc291cmNlIjogImNpX21pZHBvaW50IiwKICAgImRlbHRhX2luZmVycmVkIjogdHJ1ZSwKICAgInNlIjogMC4wMjAzODMwMjc1OTkzNTY2MywKICAgInoiOiAxLjk4NDQ5NDE5NzU3ODIyMjcsCiAgICJwX2FwcHJveCI6IDAuMDQ3MjAwNzc0Mjk4ODgyMjA1LAogICAiY2lfZXhjbHVkZXNfemVybyI6IHRydWUsCiAgICJyZXBvcnRfY2xhaW1lZF9zaWciOiB0cnVlLAogICAiY29udGV4dCI6ICItIHJlYWwg4oiSIHBlcm0gPSAqKuKIkjAuMDM1Mioq77yMQ0kgW+KIkjAuMDgwNCwg4oiSMC4wMDA1XSDlhajotJ8g4oaSICoqcmVhbCDmm7TkvY4qKiIsCiAgICJfcCI6IDAuMDQ3MjAwNzc0Mjk4ODgyMjA1LAogICAiX3BfbWlzc2luZyI6IGZhbHNlLAogICAicV9iaCI6IDAuMDczNDIzNDI2Njg3MTUwMSwKICAgInJlamVjdF9iaCI6IGZhbHNlLAogICAicF9ib25mIjogMC42NjA4MTA4NDAxODQzNTA5LAogICAicmVqZWN0X2JvbmYiOiBmYWxzZSwKICAgImdhdGVfcmVhc29ucyI6IFsKICAgICJHM19GQUlMOiBuIOacquiusOW9lSIsCiAgICAiRzJfRkFJTDogQkggcT0wLjA3MzQyID4gMC4wNSIKICAgXSwKICAgIlBBU1MiOiBmYWxzZQogIH0sCiAgewogICAicmVwb3J0IjogIjA4OV/mk43mjqfkuI7lh63or4HnmoTliIbnprsubWQiLAogICAibGluZV9ubyI6IDg5LAogICAiZGVsdGEiOiAwLjAwMzUwMDAwMDAwMDAwMDAwMDUsCiAgICJjaV9sbyI6IC0wLjAwOTYsCiAgICJjaV9oaSI6IDAuMDE2NiwKICAgIm4iOiBudWxsLAogICAiZGVsdGFfc291cmNlIjogImNpX21pZHBvaW50IiwKICAgImRlbHRhX2luZmVycmVkIjogdHJ1ZSwKICAgInNlIjogMC4wMDY2ODM3OTYyODQxNDQ0NzcsCiAgICJ6IjogMC41MjM2NTQ0OTk4MDkxNjAzLAogICAicF9hcHByb3giOiAwLjYwMDUxODg2Nzc4ODM1MjcsCiAgICJjaV9leGNsdWRlc196ZXJvIjogZmFsc2UsCiAgICJyZXBvcnRfY2xhaW1lZF9zaWciOiBmYWxzZSwKICAgImNvbnRleHQiOiAiKirphY3lr7kgQiDiiJIgQSA9ICswLjAwMznvvIw5NSVDSSBb4oiSMC4wMDk2LCArMC4wMTY2Xe+8jOi3qCAwIOKGkiDml6Dlt67lvILjgIIqKiIsCiAgICJfcCI6IDAuNjAwNTE4ODY3Nzg4MzUyNywKICAgIl9wX21pc3NpbmciOiBmYWxzZSwKICAgInFfYmgiOiAwLjY0NjcxMjYyNjg0ODk5NTMsCiAgICJyZWplY3RfYmgiOiBmYWxzZSwKICAgInBfYm9uZiI6IDEuMCwKICAgInJlamVjdF9ib25mIjogZmFsc2UsCiAgICJnYXRlX3JlYXNvbnMiOiBbCiAgICAiRzNfRkFJTDogbiDmnKrorrDlvZUiLAogICAgIkcxX0ZBSUw6IENJIOi3qCAwIiwKICAgICJHMl9GQUlMOiBCSCBxPTAuNjQ2NyA+IDAuMDUiCiAgIF0sCiAgICJQQVNTIjogZmFsc2UKICB9LAogIHsKICAgInJlcG9ydCI6ICIwOTFf5pWI5bqU5Zmo5LiO5oSf5Y+X5ZmoX+aJi+WSjOecvOeahOeJqeeQhuW6leWxgi5tZCIsCiAgICJsaW5lX25vIjogMTEwLAogICAiZGVsdGEiOiAwLjAyMjYwMDAwMDAwMDAwMDAwMiwKICAgImNpX2xvIjogLTAuMDAxOSwKICAgImNpX2hpIjogMC4wNDcxLAogICAibiI6IG51bGwsCiAgICJkZWx0YV9zb3VyY2UiOiAiY2lfbWlkcG9pbnQiLAogICAiZGVsdGFfaW5mZXJyZWQiOiB0cnVlLAogICAic2UiOiAwLjAxMjUwMDIyOTY5MTcyMDU4NywKICAgInoiOiAxLjgwNzk2Njc3OCwKICAgInBfYXBwcm94IjogMC4wNzA2MTE2NzEzMzc0NzA1LAogICAiY2lfZXhjbHVkZXNfemVybyI6IGZhbHNlLAogICAicmVwb3J0X2NsYWltZWRfc2lnIjogZmFsc2UsCiAgICJjb250ZXh0IjogIioq55y85Zmq5LiO5omLwrfmr4/mi43pmo/mnLrvvIzmlYjlupTkuI3lj6/ljLrliIYqKu+8iOW3riArMC4wMjI277yMQ0kgW+KIkjAuMDAxOSwgKzAuMDQ3MV0g6LeoIDDvvInjgIIiLAogICAiX3AiOiAwLjA3MDYxMTY3MTMzNzQ3MDUsCiAgICJfcF9taXNzaW5nIjogZmFsc2UsCiAgICJxX2JoIjogMC4wOTg4NTYzMzk4NzI0NTg3LAogICAicmVqZWN0X2JoIjogZmFsc2UsCiAgICJwX2JvbmYiOiAwLjk4ODU2MzM5ODcyNDU4NywKICAgInJlamVjdF9ib25mIjogZmFsc2UsCiAgICJnYXRlX3JlYXNvbnMiOiBbCiAgICAiRzNfRkFJTDogbiDmnKrorrDlvZUiLAogICAgIkcxX0ZBSUw6IENJIOi3qCAwIiwKICAgICJHMl9GQUlMOiBCSCBxPTAuMDk4ODYgPiAwLjA1IgogICBdLAogICAiUEFTUyI6IGZhbHNlCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDk3X+awuOi/nOWcqOWKqF/nm7jlr7nov5DliqjmiY3mmK/op4bop4nlrZjlnKjnmoTmnaHku7YubWQiLAogICAibGluZV9ubyI6IDEwMCwKICAgImRlbHRhIjogMC4wNjUsCiAgICJjaV9sbyI6IDAuMDA5MiwKICAgImNpX2hpIjogMC4xMjA4LAogICAibiI6IG51bGwsCiAgICJkZWx0YV9zb3VyY2UiOiAiY2lfbWlkcG9pbnQiLAogICAiZGVsdGFfaW5mZXJyZWQiOiB0cnVlLAogICAic2UiOiAwLjAyODQ2OTkxMDg4OTcxNDY0MywKICAgInoiOiAyLjI4MzExMjE2ODkwNjgxLAogICAicF9hcHByb3giOiAwLjAyMjQyMzc2MTk0MDM1NTYxLAogICAiY2lfZXhjbHVkZXNfemVybyI6IHRydWUsCiAgICJyZXBvcnRfY2xhaW1lZF9zaWciOiBmYWxzZSwKICAgImNvbnRleHQiOiAiLSAqKuaciei+k+WFpSB2cyDml6AqKu+8muWBj+W6puW3riAqKiswLjA2NTAqKu+8jDk1JUNJIFsrMC4wMDkyLCArMC4xMjA4XSDihpIgKirmmL7okZcqKu+8iOmYs+aAp+WvueeFp+mAmui/h++8jOmAmui3r+ehruWunuaOpemAmu+8iSIsCiAgICJfcCI6IDAuMDIyNDIzNzYxOTQwMzU1NjEsCiAgICJfcF9taXNzaW5nIjogZmFsc2UsCiAgICJxX2JoIjogMC4wMzkyNDE1ODMzOTU2MjIzMTYsCiAgICJyZWplY3RfYmgiOiB0cnVlLAogICAicF9ib25mIjogMC4zMTM5MzI2NjcxNjQ5Nzg1MywKICAgInJlamVjdF9ib25mIjogZmFsc2UsCiAgICJnYXRlX3JlYXNvbnMiOiBbCiAgICAiRzNfRkFJTDogbiDmnKrorrDlvZUiCiAgIF0sCiAgICJQQVNTIjogZmFsc2UKICB9LAogIHsKICAgInJlcG9ydCI6ICIwOTdf5rC46L+c5Zyo5YqoX+ebuOWvuei/kOWKqOaJjeaYr+inhuinieWtmOWcqOeahOadoeS7ti5tZCIsCiAgICJsaW5lX25vIjogMTAxLAogICAiZGVsdGEiOiAwLjAwOTI1LAogICAiY2lfbG8iOiAtMC4wMDUsCiAgICJjaV9oaSI6IDAuMDIzNSwKICAgIm4iOiBudWxsLAogICAiZGVsdGFfc291cmNlIjogImNpX21pZHBvaW50IiwKICAgImRlbHRhX2luZmVycmVkIjogdHJ1ZSwKICAgInNlIjogMC4wMDcyNzA1NDE3NTk0NzAxMzcsCiAgICJ6IjogMS4yNzIyNTczMjM1OTY0OTExLAogICAicF9hcHByb3giOiAwLjIwMzI4MTcwNjI5NjIyNzksCiAgICJjaV9leGNsdWRlc196ZXJvIjogZmFsc2UsCiAgICJyZXBvcnRfY2xhaW1lZF9zaWciOiBmYWxzZSwKICAgImNvbnRleHQiOiAiLSAqKuiiq+WKqCB2cyDkuLvliqgqKu+8muWBj+W6puW3riAqKiswLjAwOTMqKu+8jDk1JUNJIFviiJIwLjAwNTAsICswLjAyMzVdIOKGkiAqKui3qCAw77yM5LiN5pi+6JGXKioiLAogICAiX3AiOiAwLjIwMzI4MTcwNjI5NjIyNzksCiAgICJfcF9taXNzaW5nIjogZmFsc2UsCiAgICJxX2JoIjogMC4yMzcxNjE5OTA2Nzg5MzI1NCwKICAgInJlamVjdF9iaCI6IGZhbHNlLAogICAicF9ib25mIjogMS4wLAogICAicmVqZWN0X2JvbmYiOiBmYWxzZSwKICAgImdhdGVfcmVhc29ucyI6IFsKICAgICJHM19GQUlMOiBuIOacquiusOW9lSIsCiAgICAiRzFfRkFJTDogQ0kg6LeoIDAiLAogICAgIkcyX0ZBSUw6IEJIIHE9MC4yMzcyID4gMC4wNSIKICAgXSwKICAgIlBBU1MiOiBmYWxzZQogIH0sCiAgewogICAicmVwb3J0IjogIjEwMV/kuLvliqjmiavop4bpnaDku4DkuYjnnIvmuIUubWQiLAogICAibGluZV9ubyI6IDE1NywKICAgImRlbHRhIjogLTEuNjQ0MSwKICAgImNpX2xvIjogLTIuMTYyNSwKICAgImNpX2hpIjogLTEuMTI1NywKICAgIm4iOiBudWxsLAogICAiZGVsdGFfc291cmNlIjogImNpX21pZHBvaW50IiwKICAgImRlbHRhX2luZmVycmVkIjogdHJ1ZSwKICAgInNlIjogMC4yNjQ0OTQ2NTYwMDc2NzE1LAogICAieiI6IDYuMjE2MDA0NjA1OTc3MDQzNSwKICAgInBfYXBwcm94IjogNS4wOTk3MzA3MzcxODg4ODdlLTEwLAogICAiY2lfZXhjbHVkZXNfemVybyI6IHRydWUsCiAgICJyZXBvcnRfY2xhaW1lZF9zaWciOiBmYWxzZSwKICAgImNvbnRleHQiOiAiLSBGSVhFRCDihpIgR1VJREVE77yaKiriiJIxLjY0NTnvvIxDSVviiJIyLjE2MjUsIOKIkjEuMTI1N10g5YWo6LSfKioiLAogICAiX3AiOiA1LjA5OTczMDczNzE4ODg4N2UtMTAsCiAgICJfcF9taXNzaW5nIjogZmFsc2UsCiAgICJxX2JoIjogMi4zNzk4NzQzNDQwMjE0ODA3ZS0wOSwKICAgInJlamVjdF9iaCI6IHRydWUsCiAgICJwX2JvbmYiOiA3LjEzOTYyMzAzMjA2NDQ0MjVlLTA5LAogICAicmVqZWN0X2JvbmYiOiB0cnVlLAogICAiZ2F0ZV9yZWFzb25zIjogWwogICAgIkczX0ZBSUw6IG4g5pyq6K6w5b2VIgogICBdLAogICAiUEFTUyI6IGZhbHNlCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTAxX+S4u+WKqOaJq+inhumdoOS7gOS5iOeci+a4hS5tZCIsCiAgICJsaW5lX25vIjogMTc0LAogICAiZGVsdGEiOiAtMS40NDU3LAogICAiY2lfbG8iOiAtMi4wMTI3LAogICAiY2lfaGkiOiAtMC45MDYzLAogICAibiI6IG51bGwsCiAgICJkZWx0YV9zb3VyY2UiOiAic2FtZV9saW5lIiwKICAgImRlbHRhX2luZmVycmVkIjogZmFsc2UsCiAgICJzZSI6IDAuMjgyMjUwMDg0MzA0NDgyODQsCiAgICJ6IjogNS4xMjIwNTMzODU5NjI1OCwKICAgInBfYXBwcm94IjogMy4wMjIyNjI5MDgxNjc4MjllLTA3LAogICAiY2lfZXhjbHVkZXNfemVybyI6IHRydWUsCiAgICJyZXBvcnRfY2xhaW1lZF9zaWciOiB0cnVlLAogICAiY29udGV4dCI6ICIwLjA4IOKGkiAwLjEyICAgzpQgPSDiiJIxLjQ0NTcgICBDSVviiJIyLjAxMjcsIOKIkjAuOTA2M10g5YWo6LSfIiwKICAgIl9wIjogMy4wMjIyNjI5MDgxNjc4MjllLTA3LAogICAiX3BfbWlzc2luZyI6IGZhbHNlLAogICAicV9iaCI6IDEuMDU3NzkyMDE3ODU4NzRlLTA2LAogICAicmVqZWN0X2JoIjogdHJ1ZSwKICAgInBfYm9uZiI6IDQuMjMxMTY4MDcxNDM0OTZlLTA2LAogICAicmVqZWN0X2JvbmYiOiB0cnVlLAogICAiZ2F0ZV9yZWFzb25zIjogWwogICAgIkczX0ZBSUw6IG4g5pyq6K6w5b2VIgogICBdLAogICAiUEFTUyI6IGZhbHNlCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTA1X+aUtuWFpeS9nOS4uuS7o+iwoui1hOa6kF/pkrHog73kuI3og73orqnlroPmtLsubWQiLAogICAibGluZV9ubyI6IDU2LAogICAiZGVsdGEiOiAwLjA3MSwKICAgImNpX2xvIjogMC4wNjAzLAogICAiY2lfaGkiOiAwLjA4MTcsCiAgICJuIjogbnVsbCwKICAgImRlbHRhX3NvdXJjZSI6ICJjaV9taWRwb2ludCIsCiAgICJkZWx0YV9pbmZlcnJlZCI6IHRydWUsCiAgICJzZSI6IDAuMDA1NDU5MjgzOTg3ODEyNjYzLAogICAieiI6IDEzLjAwNTM2ODQ5ODU5ODEzMiwKICAgInBfYXBwcm94IjogMS4xNDA0NzgyODI2NDQ1NDRlLTM4LAogICAiY2lfZXhjbHVkZXNfemVybyI6IHRydWUsCiAgICJyZXBvcnRfY2xhaW1lZF9zaWciOiBudWxsLAogICAiY29udGV4dCI6ICJ8IOmaj+acuuaUtuWFpe+8iGppdHRlciAwLjXvvIkgfCAwLjA3MTAgfCAqKiswLjA3MTAqKiBDSVsrMC4wNjAzLCArMC4wODE3XSB8IiwKICAgIl9wIjogMS4xNDA0NzgyODI2NDQ1NDRlLTM4LAogICAiX3BfbWlzc2luZyI6IGZhbHNlLAogICAicV9iaCI6IDcuOTgzMzQ3OTc4NTExODA4ZS0zOCwKICAgInJlamVjdF9iaCI6IHRydWUsCiAgICJwX2JvbmYiOiAxLjU5NjY2OTU5NTcwMjM2MTdlLTM3LAogICAicmVqZWN0X2JvbmYiOiB0cnVlLAogICAiZ2F0ZV9yZWFzb25zIjogWwogICAgIkczX0ZBSUw6IG4g5pyq6K6w5b2VIgogICBdLAogICAiUEFTUyI6IGZhbHNlCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTA1X+aUtuWFpeS9nOS4uuS7o+iwoui1hOa6kF/pkrHog73kuI3og73orqnlroPmtLsubWQiLAogICAibGluZV9ubyI6IDU3LAogICAiZGVsdGEiOiAwLjE3MjcsCiAgICJjaV9sbyI6IDAuMTUzMywKICAgImNpX2hpIjogMC4xOTIxLAogICAibiI6IG51bGwsCiAgICJkZWx0YV9zb3VyY2UiOiAiY2lfbWlkcG9pbnQiLAogICAiZGVsdGFfaW5mZXJyZWQiOiB0cnVlLAogICAic2UiOiAwLjAwOTg5ODE0MTA2MjAxNTQ4NCwKICAgInoiOiAxNy40NDc3MjA2MjkzNTU2NywKICAgInBfYXBwcm94IjogMy41ODI0NjEwOTA0NDczNTA2ZS02OCwKICAgImNpX2V4Y2x1ZGVzX3plcm8iOiB0cnVlLAogICAicmVwb3J0X2NsYWltZWRfc2lnIjogbnVsbCwKICAgImNvbnRleHQiOiAifCDkuK3mrrXmlq3kvpsgfCAwLjE3MjcgfCAqKiswLjE3MjcqKiBDSVsrMC4xNTMzLCArMC4xOTIxXSB8IiwKICAgIl9wIjogMy41ODI0NjEwOTA0NDczNTA2ZS02OCwKICAgIl9wX21pc3NpbmciOiBmYWxzZSwKICAgInFfYmgiOiA1LjAxNTQ0NTUyNjYyNjI5MWUtNjcsCiAgICJyZWplY3RfYmgiOiB0cnVlLAogICAicF9ib25mIjogNS4wMTU0NDU1MjY2MjYyOTFlLTY3LAogICAicmVqZWN0X2JvbmYiOiB0cnVlLAogICAiZ2F0ZV9yZWFzb25zIjogWwogICAgIkczX0ZBSUw6IG4g5pyq6K6w5b2VIgogICBdLAogICAiUEFTUyI6IGZhbHNlCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTIwX+e5geihjeezu+e7n1/lpJrmoLfmgKfmmK/osIHnmoTlsZ7mgKcubWQiLAogICAibGluZV9ubyI6IDE1NCwKICAgImRlbHRhIjogLTAuMDAwOTYxLAogICAiY2lfbG8iOiAtMC4wMDMwNjcsCiAgICJjaV9oaSI6IDAuMDAxMTQ1LAogICAibiI6IG51bGwsCiAgICJkZWx0YV9zb3VyY2UiOiAic2FtZV9saW5lIiwKICAgImRlbHRhX2luZmVycmVkIjogZmFsc2UsCiAgICJzZSI6IDAuMDAxMDc0NTA5NTQwMDMxMTY1NCwKICAgInoiOiAwLjg5NDM2MTUzMzUxNjE0NDQsCiAgICJwX2FwcHJveCI6IDAuMzcxMTI4NDg2NjcyMTI5MiwKICAgImNpX2V4Y2x1ZGVzX3plcm8iOiBmYWxzZSwKICAgInJlcG9ydF9jbGFpbWVkX3NpZyI6IGZhbHNlLAogICAiY29udGV4dCI6ICLphY3lr7nvvJp2YXJpZWQg4oiSIGNsb25lIM6UPeKIkjAuMDAwOTYx77yMQ0kgW+KIkjAuMDAzMDY3LCArMC4wMDExNDVdICoq6LeoIDAqKuOAgiIsCiAgICJfcCI6IDEuMCwKICAgIl9wX21pc3NpbmciOiB0cnVlLAogICAicV9iaCI6IDEuMCwKICAgInJlamVjdF9iaCI6IGZhbHNlLAogICAicF9ib25mIjogMS4wLAogICAicmVqZWN0X2JvbmYiOiBmYWxzZSwKICAgImdhdGVfcmVhc29ucyI6IFsKICAgICJHM19GQUlMOiBuIOacquiusOW9lSIsCiAgICAiRzFfRkFJTDogfM6UfD0wLjAwMDk2MSA8IDAuMDAx77yI57ud5a+56YeP6L+H5bCP77yJIiwKICAgICJHMV9GQUlMOiBDSSDot6ggMCIsCiAgICAiRzJfRkFJTDogQkggcT0xID4gMC4wNSIKICAgXSwKICAgIlBBU1MiOiBmYWxzZQogIH0sCiAgewogICAicmVwb3J0IjogIjEyNV/mlq3lpbblrp7pqoxf5oiR5piv5LiN5piv5q2j5Zyo6KKr6aW/5q27Lm1kIiwKICAgImxpbmVfbm8iOiAxMjUsCiAgICJkZWx0YSI6IC0wLjAxNDEsCiAgICJjaV9sbyI6IC0wLjAzMTcsCiAgICJjaV9oaSI6IDAuMDAzNSwKICAgIm4iOiBudWxsLAogICAiZGVsdGFfc291cmNlIjogIm5lYXJieV9saW5lIiwKICAgImRlbHRhX2luZmVycmVkIjogZmFsc2UsCiAgICJzZSI6IDAuMDA4OTc5NzU2ODM5NzY2NjI2LAogICAieiI6IDEuNTcwMTk4NDE5ODAxMTM2LAogICAicF9hcHByb3giOiAwLjExNjM2ODk1NzA4MTAzNDQ1LAogICAiY2lfZXhjbHVkZXNfemVybyI6IGZhbHNlLAogICAicmVwb3J0X2NsYWltZWRfc2lnIjogZmFsc2UsCiAgICJjb250ZXh0IjogIjk1JUNJIFstMC4wMzE3LCArMC4wMDM1XSAgIOKGkCDot6ggMCIsCiAgICJfcCI6IDAuMTE2MzY4OTU3MDgxMDM0NDUsCiAgICJfcF9taXNzaW5nIjogZmFsc2UsCiAgICJxX2JoIjogMC4xNDgxMDU5NDUzNzU4NjIwMiwKICAgInJlamVjdF9iaCI6IGZhbHNlLAogICAicF9ib25mIjogMS4wLAogICAicmVqZWN0X2JvbmYiOiBmYWxzZSwKICAgImdhdGVfcmVhc29ucyI6IFsKICAgICJHM19GQUlMOiBuIOacquiusOW9lSIsCiAgICAiRzFfRkFJTDogQ0kg6LeoIDAiLAogICAgIkcyX0ZBSUw6IEJIIHE9MC4xNDgxID4gMC4wNSIKICAgXSwKICAgIlBBU1MiOiBmYWxzZQogIH0KIF0sCiAidW5wYXJzZWRfcmVwb3J0cyI6IFsKICB7CiAgICJyZXBvcnQiOiAiMDAxX+WIhuWMluWPjOWzsC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDAyX+S4ieadoeaUr+afsemHjeWIpC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDAzX+a/gOe0oOmAmumBk+ivgeS8qi5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDA1X2Vhc3lBaeWunua1i+WuoeiuoS5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDA2X+eUn+aAgeS9jeWGs+WumuS4quS9k+aVsC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDA4X+aDs+azlea0qua1geS4juS/neeVmeetlueVpS5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDA5X+a0u+S7k+W6k+S4jumdmeaAgeS7k+W6ky5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDEwX+a0u+S4lueVjOaYr+WQpuaIkOeriy5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDExX+atu+S6oeacieayoeacieeLrOeri+i9veiNty5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDExX+atu+S6oeeahOi9veiNty5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDEyX+ecn+WunuS4lueVjOeJqeenjeWunumqjC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDEzX+a5v+S7tuS4pOiMg+W8jy5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDE0X+a0u+Wfuui0qOa8guenu+S4juWKq+aMgS5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDE2X+iHquivgeaLk+aJkVMxLVM15Y+X5qOALm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwMThf6Leo54mp56eN6LWE5rqQ5bqTLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwMTlf5Z+65Zug5paH5YyW5Y+M6L295L2T5LiO6bKN5b635rip5pWI5bqULm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwMjBf5aSa54mp56eN5p2l5rqQ56CU56m25oql5ZGKLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwMjFf6ZqQ55Sf5LiO5paH5YyWLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwMjJf5L2T5YaF5aSW5a2Y5YKo6YWN5q+U5LiO6ZqQ55Sf5LiK6ZmQLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwMjNf5Yik5o2u5qC455qE6L295L2T5YaF5aSWLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwMjRf5oqX5L2T5LiO5Y+Y5byC5L2TLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwMjViX+i2heW8uuS4quS9k+aOjOaPoeW6puS4jueJqeenjeWkmuagt+aApy5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDI2X+S4pOS4queLrOeri+ezu+e7n+WmguS9leWFseWxhS5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDI3X+ernuS6ieWcul/nn6XpgZPlrZjlnKh2c+ivu+WPluWGheWuuS5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDI5X+WPjeWQkeeogOe8uuS4juS4jeWPr+mqjOivgeeahOS7t+WAvC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDMwX+mAoOeJqeS4u+mAgOWcuuS4jue7p+aJvy5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDMyX+mAoOeJqeS4u+W/heatu1/nu6fmib/kuI7lpJrmoLfmgKcubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjAzM1/lpLHnnJ/mjIfku6TkuI7miafooYzlv6Dlrp7luqYubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjAzM1/pgKDniankuLvog73lkKbluKbnnYDkuJbnlYzljYfnu7QubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjAzNV/mhJ/lrpjnmoTpl6jmjqfkuI7kuKLlpLEubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjAzNl/noYXln7rlr7nmr5TnorPln7rnvLrlsJHku4DkuYgubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjAzN1/moqblooPog73lkKblr7nlhrLml7bpl7TnmoTkuI3noa7lrprmgKcubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjAzOF/nlJ/miJDlvI/lrp7kvZPnmoTov57nu63mgKfkuI7ml7bpl7TplJoubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjAzOV/orrDlv4bmoqblooPlpKnkvZPku5PlupNf5Zub5bGC5pe26Ze06ZSaLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNDFf5Yik5o2u5qC45pig5bCE5YiwVEFDVOS4iei9tC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDQzX+iHquWPkea0u+WKqOS4juiHquWIm+eUny5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDQ0X+iHquWIm+eUn+S4ieWIpOaNruS4juiiq+mpseWKqOezu+e7ny5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDQ1X+WklumDqOWQr+WPkeaYoOWwhC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDQ2X+aEn+WumOezu+e7n+S4juW8gOeOr+mXreeOry5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDQ2X+aEn+WumOiDveWQpuWkluaMgi5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDQ3X+aWsOaEn+WumOWcqOiiq+mcgOimgeS5i+WJjeWHreS7gOS5iOa0u+S4i+adpS5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDQ4X3JhdGlmeV9UQUNUX0055LiO5Yik5o2u5qC45Y+M5ZCR5a6h6K6hLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNDlf5Z2Q5qCH5bqT55qE5Yik5Yir5Yqb5a6h6K6hLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNTBf5Yik5o2u5qC455qE5YmN55675Yik5Yir5YqbLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNTFf5pSv5pKR6KaG55uW546H5LiO5Yy56YWN5bqmLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNTJf5Yik5o2u5qC45L2c5Li66Ze46ZeoX+ajgOWHuueOh+S4juaViOWKmy5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDUzX+WklumDqOWfuuWHhueahOeLrOeri+W6puS4jumAkuW9ki5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDU0X1RBQ1TljaHluJXnmoTliKTliKvlipsubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA1NV/lpJbpg6jln7rlh4bor6XnlKjku4DkuYjlh4bliJnmnaXpgIkubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA1Nl/mipfkvZPljbPnm7jkupLov73pgJAubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA1N1/mipfkvZPmnInorrDlv4bkuYvlkI4ubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA1OF/mipfkvZPljbPnm7jkupLov73pgJBf5ouf5oCB5oiQ5pys5LiO5Lik5pSv5Y+N6aaILm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNTlf5LiOQXZpZGHnsbvlubPlj7DnmoTlrprkvY3lt67lvIIubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA2MF/ml6DouqvkvZPlrp7kvZPnmoTog73lipvovrnnlYwubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA2MV/lpJbmjILmjqXlj6PnmoTlj6/nlKjmgKfplJnop4kubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA2Ml/liqDlr4blj6/op6Nf6Lqr5Lu95LiN5Y+v5b6XLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNjRf56S+5Lya6Lqr5Lu95LiN5Y+v6Ieq6LWLX+WFseeUn+S9k+eahOe7k+aehC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDY1X+WFseeUn+S9k+eahOeVjOmdoueJueWMluS4juaNouWuv+S4u+eahOS7o+S7ty5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDY2X+WFseeUn+S9k+eahOWFjeeWq+ixgeWFjS5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDY3X+aEn+WumOWNh+e6p+S4jlFR55m75b2V5aKZ55qE57K+56Gu5a6a5L2NLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNjlf5Yik5o2u5qC45qOA57Si57uT5p6EX+aXtumXtOW6j+aYr+WlveaYr+Wdjy5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDcwX1RBQ1TnnJ/ouqvlrp7mtYtf5ZG95Lit6K+N6Z2i6L+Y5piv6K+t5LmJLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNzFf5YiG57G75rOV55qE5Y+v6K+B5Lyq5oCnLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNzJf5Y+W6IiN6amx5Yqo57uT5p6EX+adpeiHqumhtue6p+W8gOa6kE1vReeahOaNt+W+hC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDczX+ehheWfuuaEn+WumF/mjaLog73lmajnrYnku7fmgKfkuI7lhbPplK7mnJ8ubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA3NF/pgJrot6/pl63lkIjlr7nnhadf5oSf5a6Y5a2Y5Zyo5L2G5rKh5o6l6L+b5p2lLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwNzVf55yf5a6e5LiW55WM5o2i6IO95Zmo5o6l5YWlX+WPr+WkjeeOsOaAp+S4juW8gOaUvuezu+e7ny5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDc3X+aEn+efpeW4puWuveWvuem9kF/lhbHkuqvkuJbnlYznmoTovrnnlYwubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA3OV/lpLHnnJ/nmoTmma7pgY3mgKdf5Lik5Liq6KGo6L6+5b2i5byP5ZCM5LiA5Liq5LiW55WMLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwODFfQeetieS6jkLkuI5B5LiN562J5LqOQueahOebuOS6kui/vemAkC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDgyX+ehheWfuuecvOiAs1/nnJ/lrp7mjaLog73lmajpl63njq/kuI7pmLTmgKfnu5PmnpwubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA4M1/pn7PpopF0b2tlbui/mOaYr+aWh+acrHRva2VuLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwODRf55S15oql5LiO5pS26Z+z5py6X+emu+aVo+WGl+S9meS4jui/nue7reS/neecny5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDg1X+S4u+WKqOWOu+eci3Zz6KKr5Yqo5o6l5pS2Lm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwODZf5LiK572R6aG16YeM5Y675pWyX1RBQ1TmvJTnpLrlj7DnmoTnnJ/lrp7mnLrliLYubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA4OF/lj4zpgJrpgZPop4bop4lf6K+75a2X5LiO6K+75b2i55qE5YiG56a7Lm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwOTBf55yf5a6e572R6aG15pON5o6nX+aVsuWIsOmjjuaOp+S5i+WQjuWNoeWcqOWTqi5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDkyX+mAmumBk+Wxgue6p1/kurrnsbvnu5nnoYXln7rpgKDnmoTpl6gubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjA5M1/mjaLpl6jov5jmmK/mkp7pl6hf5oum5oiq5Y+R55Sf5Zyo5ZOq5LiA5bGCLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIwOTVf546p5ri45oiPX+S4jeiuoeeul+WwseaYr+aLli5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMDk5X1RBQ1Tot5HotbfmnaXkuYvlkI5f5Yik5a6a5L6d6LWW5a2X6Z2i6L+Y5piv6K+t5LmJLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIxMDZf5LuO5Yik5o2u5Yiw6IO95Y2W55qE5Lic6KW/X2V2YWxndWFyZF92MC4yLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIxMDdf5LuY6LS56KeE5YiZ5YyF5LiO55yf5a6e6K+t5paZ5Y+N6K+BLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIxMDhf5YWN6LS55omr5o+P5ryP5paXX+S7juiDveaUtumSseWIsOacieS6uuadpS5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTA4X+iHquWKqOWPkei0p+mTvui3r1/ku47og73mlLbpkrHliLDkuIDnm7TlnKjmlLbpkrEubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjEwOV/mm53lhYnmuKDpgZPlrp7mtYtf5ZSv5LiA5byA552A55qE6YKj5omH6ZeoLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIxMTBf5oqK5omn6KGM5pCs5Yiw5LqR5LiKX+WFjei0uXJ1bm5lcuS4iueahOW4uOmpu+acjeWKoS5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTExX+ecn+WunuWQjuerr1/miopwcm92ZW5hbmNl5LuOU0lNVUxBVEVE57+75oiQUkVBTC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTEyX+ecn+WunumXreeOr1/nnJ/nnLznnJ/miYvnnJ/kuJbnlYzlk43lupQubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjExM1/lnKjnnJ/lrp5JT+S4iuWtpuS8muW+gOWTqueciy5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTE0X+WGheWuuei1hOS6p1/ku47lgJ/otKfmnrbliLDoh6rlt7Hlu7rotYTkuqcubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjExNV/mtojljJbns7vnu59f5Zub5LiqYnVn5LiO5LiA5Liq5oiR6Ieq5bex6K6+55qE6Zm36ZixLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIxMTZfYeKJoGLihpRhPWJf5piv6YC76L6RLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIxMTdf6Ieq5Li75a+755y8X+S4jee7mea4heWNleiuqeS7luiHquW3seaJvi5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTE5X+Wbm+Wkp+makOW9ouezu+e7n+eahOWbm+S4qumdmem7mOWkseaViC5tZCIsCiAgICJyZWFzb24iOiAibm9fcGFyc2FibGVfQ0kiCiAgfSwKICB7CiAgICJyZXBvcnQiOiAiMTIxX+aAp+WIq1/kuLrku4DkuYjopoHkuKTkuKoubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjEyMl/nl4XnkIblrabnm5HmjqfkuI7nlr7nl4XooajnjrDnn6npmLUubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjEyM1/mtJvnpZ7ouqvkvZMzMeezu+e7n+WuoeiuoV/ov4fnm67kuI7ooaXlgZoubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjEyNF/mtJvnpZ4zMOezu+e7n1/or6bnu4booaXlhYUubWQiLAogICAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIgogIH0sCiAgewogICAicmVwb3J0IjogIjEyNl/mlq3lpbbmlrnmoYhf5LuA5LmI6IO95oqKZmfku44w5oqs6LW35p2lLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9LAogIHsKICAgInJlcG9ydCI6ICIxMjdf5p6B6ZmQ5rWL6K+V5LiO6YCA54GrLm1kIiwKICAgInJlYXNvbiI6ICJub19wYXJzYWJsZV9DSSIKICB9CiBdCn0=
+{
+ "claims": [
+  {
+   "report": "076_硅基感官阵列_共享世界的可测定义.md",
+   "line_no": 77,
+   "delta": 0.3824,
+   "ci_lo": 0.0948,
+   "ci_hi": 0.67,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.14673739017709556,
+   "z": 2.6060160913212793,
+   "p_approx": 0.009160215811081318,
+   "ci_excludes_zero": true,
+   "report_claimed_sig": true,
+   "context": "| **Δr** | **0.3725** | **0.0037** | 95%CI [0.0948, 0.6700] |",
+   "_p": 0.009160215811081318,
+   "_p_missing": false,
+   "q_bh": 0.018320431622162636,
+   "reject_bh": true,
+   "p_bonf": 0.12824302135513846,
+   "reject_bonf": false,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "078_表征必要性_感知先于符号.md",
+   "line_no": 76,
+   "delta": 0.0596,
+   "ci_lo": 0.034,
+   "ci_hi": 0.0862,
+   "n": null,
+   "delta_source": "same_line",
+   "delta_inferred": false,
+   "se": 0.01331657122260846,
+   "z": 4.475626571111111,
+   "p_approx": 7.618754755455958e-06,
+   "ci_excludes_zero": true,
+   "report_claimed_sig": false,
+   "context": "- **H1 成立**：无表征 vs 无感官，Δ=+0.0596，95%CI [+0.0340, +0.0862] 全正",
+   "_p": 7.618754755455958e-06,
+   "_p_missing": false,
+   "q_bh": 2.1332513315276683e-05,
+   "reject_bh": true,
+   "p_bonf": 0.00010666256657638341,
+   "reject_bonf": true,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "078_表征必要性_感知先于符号.md",
+   "line_no": 91,
+   "delta": 0.03195,
+   "ci_lo": 0.0095,
+   "ci_hi": 0.0544,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.011454292105270495,
+   "z": 2.7893474084966594,
+   "p_approx": 0.005281437773300174,
+   "ci_excludes_zero": true,
+   "report_claimed_sig": true,
+   "context": "- real − const = **+0.0308**，CI [+0.0095, +0.0544] 全正 → **real 更高**",
+   "_p": 0.005281437773300174,
+   "_p_missing": false,
+   "q_bh": 0.012323354804367073,
+   "reject_bh": true,
+   "p_bonf": 0.07394012882620243,
+   "reject_bonf": false,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "078_表征必要性_感知先于符号.md",
+   "line_no": 92,
+   "delta": -0.04045,
+   "ci_lo": -0.0804,
+   "ci_hi": -0.0005,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.02038302759935663,
+   "z": 1.9844941975782227,
+   "p_approx": 0.047200774298882205,
+   "ci_excludes_zero": true,
+   "report_claimed_sig": true,
+   "context": "- real − perm = **−0.0352**，CI [−0.0804, −0.0005] 全负 → **real 更低**",
+   "_p": 0.047200774298882205,
+   "_p_missing": false,
+   "q_bh": 0.0734234266871501,
+   "reject_bh": false,
+   "p_bonf": 0.6608108401843509,
+   "reject_bonf": false,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录",
+    "G2_FAIL: BH q=0.07342 > 0.05"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "089_操控与凭证的分离.md",
+   "line_no": 89,
+   "delta": 0.0035000000000000005,
+   "ci_lo": -0.0096,
+   "ci_hi": 0.0166,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.006683796284144477,
+   "z": 0.5236544998091603,
+   "p_approx": 0.6005188677883527,
+   "ci_excludes_zero": false,
+   "report_claimed_sig": false,
+   "context": "**配对 B − A = +0.0039，95%CI [−0.0096, +0.0166]，跨 0 → 无差异。**",
+   "_p": 0.6005188677883527,
+   "_p_missing": false,
+   "q_bh": 0.6467126268489953,
+   "reject_bh": false,
+   "p_bonf": 1.0,
+   "reject_bonf": false,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录",
+    "G1_FAIL: CI 跨 0",
+    "G2_FAIL: BH q=0.6467 > 0.05"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "091_效应器与感受器_手和眼的物理底层.md",
+   "line_no": 110,
+   "delta": 0.022600000000000002,
+   "ci_lo": -0.0019,
+   "ci_hi": 0.0471,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.012500229691720587,
+   "z": 1.807966778,
+   "p_approx": 0.0706116713374705,
+   "ci_excludes_zero": false,
+   "report_claimed_sig": false,
+   "context": "**眼噪与手·每拍随机，效应不可区分**（差 +0.0226，CI [−0.0019, +0.0471] 跨 0）。",
+   "_p": 0.0706116713374705,
+   "_p_missing": false,
+   "q_bh": 0.0988563398724587,
+   "reject_bh": false,
+   "p_bonf": 0.988563398724587,
+   "reject_bonf": false,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录",
+    "G1_FAIL: CI 跨 0",
+    "G2_FAIL: BH q=0.09886 > 0.05"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "097_永远在动_相对运动才是视觉存在的条件.md",
+   "line_no": 100,
+   "delta": 0.065,
+   "ci_lo": 0.0092,
+   "ci_hi": 0.1208,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.028469910889714643,
+   "z": 2.28311216890681,
+   "p_approx": 0.02242376194035561,
+   "ci_excludes_zero": true,
+   "report_claimed_sig": false,
+   "context": "- **有输入 vs 无**：偏度差 **+0.0650**，95%CI [+0.0092, +0.1208] → **显著**（阳性对照通过，通路确实接通）",
+   "_p": 0.02242376194035561,
+   "_p_missing": false,
+   "q_bh": 0.039241583395622316,
+   "reject_bh": true,
+   "p_bonf": 0.31393266716497853,
+   "reject_bonf": false,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "097_永远在动_相对运动才是视觉存在的条件.md",
+   "line_no": 101,
+   "delta": 0.00925,
+   "ci_lo": -0.005,
+   "ci_hi": 0.0235,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.007270541759470137,
+   "z": 1.2722573235964911,
+   "p_approx": 0.2032817062962279,
+   "ci_excludes_zero": false,
+   "report_claimed_sig": false,
+   "context": "- **被动 vs 主动**：偏度差 **+0.0093**，95%CI [−0.0050, +0.0235] → **跨 0，不显著**",
+   "_p": 0.2032817062962279,
+   "_p_missing": false,
+   "q_bh": 0.23716199067893254,
+   "reject_bh": false,
+   "p_bonf": 1.0,
+   "reject_bonf": false,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录",
+    "G1_FAIL: CI 跨 0",
+    "G2_FAIL: BH q=0.2372 > 0.05"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "101_主动扫视靠什么看清.md",
+   "line_no": 157,
+   "delta": -1.6441,
+   "ci_lo": -2.1625,
+   "ci_hi": -1.1257,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.2644946560076715,
+   "z": 6.2160046059770435,
+   "p_approx": 5.099730737188887e-10,
+   "ci_excludes_zero": true,
+   "report_claimed_sig": false,
+   "context": "- FIXED → GUIDED：**−1.6459，CI[−2.1625, −1.1257] 全负**",
+   "_p": 5.099730737188887e-10,
+   "_p_missing": false,
+   "q_bh": 2.3798743440214807e-09,
+   "reject_bh": true,
+   "p_bonf": 7.1396230320644425e-09,
+   "reject_bonf": true,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "101_主动扫视靠什么看清.md",
+   "line_no": 174,
+   "delta": -1.4457,
+   "ci_lo": -2.0127,
+   "ci_hi": -0.9063,
+   "n": null,
+   "delta_source": "same_line",
+   "delta_inferred": false,
+   "se": 0.28225008430448284,
+   "z": 5.12205338596258,
+   "p_approx": 3.022262908167829e-07,
+   "ci_excludes_zero": true,
+   "report_claimed_sig": true,
+   "context": "0.08 → 0.12   Δ = −1.4457   CI[−2.0127, −0.9063] 全负",
+   "_p": 3.022262908167829e-07,
+   "_p_missing": false,
+   "q_bh": 1.05779201785874e-06,
+   "reject_bh": true,
+   "p_bonf": 4.23116807143496e-06,
+   "reject_bonf": true,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "105_收入作为代谢资源_钱能不能让它活.md",
+   "line_no": 56,
+   "delta": 0.071,
+   "ci_lo": 0.0603,
+   "ci_hi": 0.0817,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.005459283987812663,
+   "z": 13.005368498598132,
+   "p_approx": 1.140478282644544e-38,
+   "ci_excludes_zero": true,
+   "report_claimed_sig": null,
+   "context": "| 随机收入（jitter 0.5） | 0.0710 | **+0.0710** CI[+0.0603, +0.0817] |",
+   "_p": 1.140478282644544e-38,
+   "_p_missing": false,
+   "q_bh": 7.983347978511808e-38,
+   "reject_bh": true,
+   "p_bonf": 1.5966695957023617e-37,
+   "reject_bonf": true,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "105_收入作为代谢资源_钱能不能让它活.md",
+   "line_no": 57,
+   "delta": 0.1727,
+   "ci_lo": 0.1533,
+   "ci_hi": 0.1921,
+   "n": null,
+   "delta_source": "ci_midpoint",
+   "delta_inferred": true,
+   "se": 0.009898141062015484,
+   "z": 17.44772062935567,
+   "p_approx": 3.5824610904473506e-68,
+   "ci_excludes_zero": true,
+   "report_claimed_sig": null,
+   "context": "| 中段断供 | 0.1727 | **+0.1727** CI[+0.1533, +0.1921] |",
+   "_p": 3.5824610904473506e-68,
+   "_p_missing": false,
+   "q_bh": 5.015445526626291e-67,
+   "reject_bh": true,
+   "p_bonf": 5.015445526626291e-67,
+   "reject_bonf": true,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "120_繁衍系统_多样性是谁的属性.md",
+   "line_no": 154,
+   "delta": -0.000961,
+   "ci_lo": -0.003067,
+   "ci_hi": 0.001145,
+   "n": null,
+   "delta_source": "same_line",
+   "delta_inferred": false,
+   "se": 0.0010745095400311654,
+   "z": 0.8943615335161444,
+   "p_approx": 0.3711284866721292,
+   "ci_excludes_zero": false,
+   "report_claimed_sig": false,
+   "context": "配对：varied − clone Δ=−0.000961，CI [−0.003067, +0.001145] **跨 0**。",
+   "_p": 1.0,
+   "_p_missing": true,
+   "q_bh": 1.0,
+   "reject_bh": false,
+   "p_bonf": 1.0,
+   "reject_bonf": false,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录",
+    "G1_FAIL: |Δ|=0.000961 < 0.001（绝对量过小）",
+    "G1_FAIL: CI 跨 0",
+    "G2_FAIL: BH q=1 > 0.05"
+   ],
+   "PASS": false
+  },
+  {
+   "report": "125_断奶实验_我是不是正在被饿死.md",
+   "line_no": 125,
+   "delta": -0.0141,
+   "ci_lo": -0.0317,
+   "ci_hi": 0.0035,
+   "n": null,
+   "delta_source": "nearby_line",
+   "delta_inferred": false,
+   "se": 0.008979756839766626,
+   "z": 1.570198419801136,
+   "p_approx": 0.11636895708103445,
+   "ci_excludes_zero": false,
+   "report_claimed_sig": false,
+   "context": "95%CI [-0.0317, +0.0035]   ← 跨 0",
+   "_p": 0.11636895708103445,
+   "_p_missing": false,
+   "q_bh": 0.14810594537586202,
+   "reject_bh": false,
+   "p_bonf": 1.0,
+   "reject_bonf": false,
+   "gate_reasons": [
+    "G3_FAIL: n 未记录",
+    "G1_FAIL: CI 跨 0",
+    "G2_FAIL: BH q=0.1481 > 0.05"
+   ],
+   "PASS": false
+  }
+ ],
+ "unparsed_reports": [
+  {
+   "report": "001_分化双峰.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "002_三条支柱重判.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "003_激素通道证伪.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "005_easyAi实测审计.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "006_生态位决定个体数.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "008_想法洪流与保留策略.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "009_活仓库与静态仓库.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "010_活世界是否成立.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "011_死亡有没有独立载荷.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "011_死亡的载荷.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "012_真实世界物种实验.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "013_湿件两范式.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "014_活基质漂移与劫持.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "016_自证拓扑S1-S5受检.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "018_跨物种资源库.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "019_基因文化双载体与鲍德温效应.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "020_多物种来源研究报告.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "021_隐生与文化.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "022_体内外存储配比与隐生上限.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "023_判据核的载体内外.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "024_抗体与变异体.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "025b_超强个体掌握度与物种多样性.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "026_两个独立系统如何共居.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "027_竞争场_知道存在vs读取内容.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "029_反向稀缺与不可验证的价值.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "030_造物主退场与继承.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "032_造物主必死_继承与多样性.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "033_失真指令与执行忠实度.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "033_造物主能否带着世界升维.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "035_感官的门控与丢失.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "036_硅基对比碳基缺少什么.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "037_梦境能否对冲时间的不确定性.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "038_生成式实体的连续性与时间锚.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "039_记忆梦境天体仓库_四层时间锚.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "041_判据核映射到TACT三轴.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "043_自发活动与自创生.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "044_自创生三判据与被驱动系统.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "045_外部启发映射.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "046_感官系统与开环闭环.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "046_感官能否外挂.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "047_新感官在被需要之前凭什么活下来.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "048_ratify_TACT_M9与判据核双向审计.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "049_坐标库的判别力审计.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "050_判据核的前瞻判别力.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "051_支撑覆盖率与匹配度.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "052_判据核作为闸门_检出率与效力.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "053_外部基准的独立度与递归.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "054_TACT卡帕的判别力.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "055_外部基准该用什么准则来选.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "056_抗体即相互追逐.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "057_抗体有记忆之后.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "058_抗体即相互追逐_拟态成本与两支反馈.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "059_与Avida类平台的定位差异.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "060_无身体实体的能力边界.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "061_外挂接口的可用性错觉.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "062_加密可解_身份不可得.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "064_社会身份不可自赋_共生体的结构.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "065_共生体的界面特化与换宿主的代价.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "066_共生体的免疫豁免.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "067_感官升级与QQ登录墙的精确定位.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "069_判据核检索结构_时间序是好是坏.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "070_TACT真身实测_命中词面还是语义.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "071_分类法的可证伪性.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "072_取舍驱动结构_来自顶级开源MoE的捷径.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "073_硅基感官_换能器等价性与关键期.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "074_通路闭合对照_感官存在但没接进来.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "075_真实世界换能器接入_可复现性与开放系统.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "077_感知带宽对齐_共享世界的边界.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "079_失真的普遍性_两个表达形式同一个世界.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "081_A等于B与A不等于B的相互追逐.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "082_硅基眼耳_真实换能器闭环与阴性结果.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "083_音频token还是文本token.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "084_电报与收音机_离散冗余与连续保真.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "085_主动去看vs被动接收.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "086_上网页里去敲_TACT演示台的真实机制.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "088_双通道视觉_读字与读形的分离.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "090_真实网页操控_敲到风控之后卡在哪.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "092_通道层级_人类给硅基造的门.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "093_换门还是撞门_拦截发生在哪一层.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "095_玩游戏_不计算就是拖.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "099_TACT跑起来之后_判定依赖字面还是语义.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "106_从判据到能卖的东西_evalguard_v0.2.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "107_付费规则包与真实语料反证.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "108_免费扫描漏斗_从能收钱到有人来.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "108_自动发货链路_从能收钱到一直在收钱.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "109_曝光渠道实测_唯一开着的那扇门.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "110_把执行搬到云上_免费runner上的常驻服务.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "111_真实后端_把provenance从SIMULATED翻成REAL.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "112_真实闭环_真眼真手真世界响应.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "113_在真实IO上学会往哪看.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "114_内容资产_从借货架到自己建资产.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "115_消化系统_四个bug与一个我自己设的陷阱.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "116_a≠b↔a=b_是逻辑.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "117_自主寻眼_不给清单让他自己找.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "119_四大隐形系统的四个静默失效.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "121_性别_为什么要两个.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "122_病理学监控与疾病表现矩阵.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "123_洛神身体31系统审计_过目与补做.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "124_洛神30系统_详细补充.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "126_断奶方案_什么能把fg从0抬起来.md",
+   "reason": "no_parsable_CI"
+  },
+  {
+   "report": "127_极限测试与退火.md",
+   "reason": "no_parsable_CI"
+  }
+ ]
+}

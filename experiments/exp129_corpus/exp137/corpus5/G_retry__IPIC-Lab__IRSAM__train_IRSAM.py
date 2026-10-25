@@ -1,1 +1,388 @@
-IyBDb3B5cmlnaHQgYnkgSFEtU0FNIHRlYW0KIyBBbGwgcmlnaHRzIHJlc2VydmVkLgoKIyBUaGlzIHNvdXJjZSBjb2RlIGlzIGxpY2Vuc2VkIHVuZGVyIHRoZSBsaWNlbnNlIGZvdW5kIGluIHRoZQojIExJQ0VOU0UgZmlsZSBpbiB0aGUgcm9vdCBkaXJlY3Rvcnkgb2YgdGhpcyBzb3VyY2UgdHJlZS4KCmltcG9ydCBvcwppbXBvcnQgb3MucGF0aCBhcyBvcHMKZnJvbSB0cWRtIGltcG9ydCB0cWRtCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgbG9nZ2luZwppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IHRvcmNoCmltcG9ydCB0b3JjaC5vcHRpbSBhcyBvcHRpbQppbXBvcnQgdG9yY2gubm4gYXMgbm4KaW1wb3J0IHRvcmNoLmRpc3RyaWJ1dGVkIGFzIGRpc3QKaW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgppbXBvcnQgdG9yY2h2aXNpb24udHJhbnNmb3JtcyAgYXMgVApmcm9tIHRvcmNoLmF1dG9ncmFkIGltcG9ydCBWYXJpYWJsZQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBjdjIKaW1wb3J0IHJhbmRvbQpmcm9tIHR5cGluZyBpbXBvcnQgRGljdCwgTGlzdCwgVHVwbGUKCmZyb20gdGhvcCBpbXBvcnQgcHJvZmlsZQoKZnJvbSBzZWdtZW50X2FueXRoaW5nX3RyYWluaW5nLmJ1aWxkX0lSU0FNIGltcG9ydCBidWlsZF9zYW1fSVJTQU0KCmZyb20gdXRpbHMuZGF0YWxvYWRlciBpbXBvcnQgZ2V0X2ltX2d0X25hbWVfZGljdCwgY3JlYXRlX2RhdGFsb2FkZXJzLCBSYW5kb21IRmxpcCwgUmVzaXplLCBMYXJnZVNjYWxlSml0dGVyCmZyb20gdXRpbHMubWV0cmljcyBpbXBvcnQgU2lnbW9pZE1ldHJpYywgU2FtcGxld2lzZVNpZ21vaWRNZXRyaWMKZnJvbSB1dGlscy5tZXRyaWMgaW1wb3J0IFBEX0ZBLCBST0NNZXRyaWMKZnJvbSB1dGlscy5sb3NzX21hc2sgaW1wb3J0IERJQ0VfbG9zcwpmcm9tIHV0aWxzLmxvZyBpbXBvcnQgaW5pdGlhbGl6ZV9sb2dnZXIKaW1wb3J0IHV0aWxzLm1pc2MgYXMgbWlzYwoKb3MuZW52aXJvblsnQ1VEQV9WSVNJQkxFX0RFVklDRVMnXSA9ICcxJwoKCmNsYXNzIEdldF9ncmFkKG5uLk1vZHVsZSk6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc3VwZXIoR2V0X2dyYWQsIHNlbGYpLl9faW5pdF9fKCkKICAgICAgICBrZXJuZWxfdiA9IFtbMCwgLTEsIDBdLAogICAgICAgICAgICAgICAgICAgIFswLCAwLCAwXSwKICAgICAgICAgICAgICAgICAgICBbMCwgMSwgMF1dCiAgICAgICAga2VybmVsX2ggPSBbWzAsIDAsIDBdLAogICAgICAgICAgICAgICAgICAgIFstMSwgMCwgMV0sCiAgICAgICAgICAgICAgICAgICAgWzAsIDAsIDBdXQogICAgICAgIGtlcm5lbF9oID0gdG9yY2guRmxvYXRUZW5zb3Ioa2VybmVsX2gpLnVuc3F1ZWV6ZSgwKS51bnNxdWVlemUoMCkKICAgICAgICBrZXJuZWxfdiA9IHRvcmNoLkZsb2F0VGVuc29yKGtlcm5lbF92KS51bnNxdWVlemUoMCkudW5zcXVlZXplKDApCiAgICAgICAgc2VsZi53ZWlnaHRfaCA9IG5uLlBhcmFtZXRlcihkYXRhPWtlcm5lbF9oLCByZXF1aXJlc19ncmFkPUZhbHNlKS5jdWRhKCkKICAgICAgICBzZWxmLndlaWdodF92ID0gbm4uUGFyYW1ldGVyKGRhdGE9a2VybmVsX3YsIHJlcXVpcmVzX2dyYWQ9RmFsc2UpLmN1ZGEoKQoKICAgICAgICBzZWxmLnBhZCA9IG5uLlJlcGxpY2F0aW9uUGFkMmQoMSkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCB4KToKICAgICAgICB4MCA9IHhbOiwgMF0KICAgICAgICB4MF92ID0gRi5jb252MmQoeDAudW5zcXVlZXplKDEpLCBzZWxmLndlaWdodF92LCBwYWRkaW5nPTEpCiAgICAgICAgeDBfaCA9IEYuY29udjJkKHgwLnVuc3F1ZWV6ZSgxKSwgc2VsZi53ZWlnaHRfaCwgcGFkZGluZz0xKQoKICAgICAgICB4MCA9IHRvcmNoLnNxcnQodG9yY2gucG93KHgwX3YsIDIpICsgdG9yY2gucG93KHgwX2gsIDIpICsgMWUtNikKCiAgICAgICAgcmV0dXJuIHgwCgoKZGVmIGdldF9hcmdzX3BhcnNlcigpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoJ0hRLVNBTScsIGFkZF9oZWxwPUZhbHNlKQoKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tb3V0cHV0IiwgdHlwZT1zdHIsIHJlcXVpcmVkPVRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IlBhdGggdG8gdGhlIGRpcmVjdG9yeSB3aGVyZSBtYXNrcyBhbmQgY2hlY2twb2ludHMgd2lsbCBiZSBvdXRwdXQiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1tb2RlbF90eXBlIiwgdHlwZT1zdHIsIGRlZmF1bHQ9InZpdF9sIiwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iVGhlIHR5cGUgb2YgbW9kZWwgdG8gbG9hZCwgaW4gWyd2aXRfaCcsICd2aXRfbCcsICd2aXRfYiddIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tY2hlY2twb2ludCIsIHR5cGU9c3RyLCByZXF1aXJlZD1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSJUaGUgcGF0aCB0byB0aGUgU0FNIGNoZWNrcG9pbnQgdG8gdXNlIGZvciBtYXNrIGdlbmVyYXRpb24uIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tbm9fcHJvbXB0X2NoZWNrcG9pbnQiLCB0eXBlPXN0ciwgZGVmYXVsdD1Ob25lLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSJUaGUgcGF0aCB0byB0aGUgU0FNIGNoZWNrcG9pbnQgdHJhaW5lZCB3aXRoIG5vIHByb21wdCIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWRldmljZSIsIHR5cGU9c3RyLCBkZWZhdWx0PSJjdWRhIiwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iVGhlIGRldmljZSB0byBydW4gZ2VuZXJhdGlvbiBvbi4iKQoKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbGVhcm5pbmdfcmF0ZScsIGRlZmF1bHQ9MWUtNCwgdHlwZT1mbG9hdCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tc3RhcnRfZXBvY2gnLCBkZWZhdWx0PTAsIHR5cGU9aW50KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1scl9kcm9wX2Vwb2NoJywgZGVmYXVsdD0xMCwgdHlwZT1pbnQpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLW1heF9lcG9jaF9udW0nLCBkZWZhdWx0PTEwMDEsIHR5cGU9aW50KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1kYXRhbG9hZGVyX3NpemUnLCBkZWZhdWx0PVs1MTIsIDUxMl0sIHR5cGU9bGlzdCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tYmF0Y2hfc2l6ZV90cmFpbicsIGRlZmF1bHQ9NCwgdHlwZT1pbnQpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWJhdGNoX3NpemVfdmFsaWQnLCBkZWZhdWx0PTEsIHR5cGU9aW50KQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1tb2RlbF9zYXZlX2ZyZScsIGRlZmF1bHQ9MTAsIHR5cGU9aW50KQoKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZXZhbCcsIGFjdGlvbj0nc3RvcmVfdHJ1ZScpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLXZpc3VhbGl6ZScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXJlc3RvcmUtbW9kZWwiLCB0eXBlPXN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iVGhlIHBhdGggdG8gdGhlIGhxX2RlY29kZXIgdHJhaW5pbmcgY2hlY2twb2ludCBmb3IgZXZhbHVhdGlvbiIpCgogICAgcmV0dXJuIHBhcnNlci5wYXJzZV9hcmdzKCkKCgpkZWYgbWFpbih0cmFpbl9kYXRhc2V0cywgdmFsaWRfZGF0YXNldHMsIGFyZ3MpOgogICAgIyAtLS0gU3RlcCAxOiBUcmFpbiBvciBWYWxpZCBkYXRhc2V0IC0tLQogICAgaWYgbm90IGFyZ3MuZXZhbDoKICAgICAgICBwcmludCgiLS0tIGNyZWF0ZSB0cmFpbmluZyBkYXRhbG9hZGVyIC0tLSIpCiAgICAgICAgdHJhaW5faW1fZ3RfbGlzdCA9IGdldF9pbV9ndF9uYW1lX2RpY3QodHJhaW5fZGF0YXNldHMsIGZsYWc9InRyYWluIikKICAgICAgICB0cmFpbl9kYXRhbG9hZGVycywgdHJhaW5fZGF0YXNldHM9IGNyZWF0ZV9kYXRhbG9hZGVycyh0cmFpbl9pbV9ndF9saXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBteV90cmFuc2Zvcm1zPVsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJhbmRvbUhGbGlwKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMYXJnZVNjYWxlSml0dGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2hfc2l6ZT1hcmdzLmJhdGNoX3NpemVfdHJhaW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWluaW5nPVRydWUpCiAgICAgICAgcHJpbnQobGVuKHRyYWluX2RhdGFsb2FkZXJzKSwgIiB0cmFpbiBkYXRhbG9hZGVycyBjcmVhdGVkIikKCiAgICBwcmludCgiLS0tIGNyZWF0ZSB2YWxpZCBkYXRhbG9hZGVyIC0tLSIpCiAgICB2YWxpZF9pbV9ndF9saXN0ID0gZ2V0X2ltX2d0X25hbWVfZGljdCh2YWxpZF9kYXRhc2V0cywgZmxhZz0idmFsaWQiKQogICAgdmFsaWRfZGF0YWxvYWRlcnMsIHZhbGlkX2RhdGFzZXRzID0gY3JlYXRlX2RhdGFsb2FkZXJzKHZhbGlkX2ltX2d0X2xpc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbXlfdHJhbnNmb3Jtcz1bCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc2l6ZShhcmdzLmRhdGFsb2FkZXJfc2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhdGNoX3NpemU9YXJncy5iYXRjaF9zaXplX3ZhbGlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWluaW5nPUZhbHNlKQogICAgcHJpbnQobGVuKHZhbGlkX2RhdGFsb2FkZXJzKSwgIiB2YWxpZCBkYXRhbG9hZGVycyBjcmVhdGVkIikKCiAgICAjIC0tLSBTdGVwIDI6IExvYWQgcHJldHJhaW5lZCBOZXR3b3JrLS0tCiAgICBuZXQgPSBidWlsZF9zYW1fSVJTQU0oY2hlY2twb2ludD1hcmdzLmNoZWNrcG9pbnQpCiAgICBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpOgogICAgICAgIG5ldC5jdWRhKCkKCiAgICAjIC0tLSBTdGVwIDM6IFRyYWluIG9yIEV2YWx1YXRlIC0tLQogICAgaWYgbm90IGFyZ3MuZXZhbDoKICAgICAgICBwcmludCgiLS0tIGRlZmluZSBvcHRpbWl6ZXIgLS0tIikKICAgICAgICBvcHRpbWl6ZXIgPSBvcHRpbS5BZGFtVyhuZXQucGFyYW1ldGVycygpLCBscj1hcmdzLmxlYXJuaW5nX3JhdGUsIGJldGFzPSgwLjksIDAuOTk5KSwgZXBzPTFlLTA4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2VpZ2h0X2RlY2F5PTApCiAgICAgICAgIyBscl9zY2hlZHVsZXIgPSB0b3JjaC5vcHRpbS5scl9zY2hlZHVsZXIuU3RlcExSKG9wdGltaXplcj1vcHRpbWl6ZXIsIHN0ZXBfc2l6ZT1hcmdzLmxyX2Ryb3BfZXBvY2gsIGdhbW1hPTAuOSkKICAgICAgICBscl9zY2hlZHVsZXIgPSB0b3JjaC5vcHRpbS5scl9zY2hlZHVsZXIuQ29zaW5lQW5uZWFsaW5nTFIob3B0aW1pemVyPW9wdGltaXplciwgVF9tYXg9NTApCiAgICAgICAgbHJfc2NoZWR1bGVyLmxhc3RfZXBvY2ggPSBhcmdzLnN0YXJ0X2Vwb2NoCgogICAgICAgIHRyYWluKGFyZ3MsIG5ldCwgb3B0aW1pemVyLCB0cmFpbl9kYXRhbG9hZGVycywgdmFsaWRfZGF0YWxvYWRlcnMsIGxyX3NjaGVkdWxlcikKICAgIGVsc2U6CiAgICAgICAgaWYgYXJncy5yZXN0b3JlX21vZGVsOgogICAgICAgICAgICBwcmludCgicmVzdG9yZSBtb2RlbCBmcm9tOiIsIGFyZ3MucmVzdG9yZV9tb2RlbCkKICAgICAgICAgICAgaWYgdG9yY2guY3VkYS5pc19hdmFpbGFibGUoKToKICAgICAgICAgICAgICAgIG5ldC5sb2FkX3N0YXRlX2RpY3QodG9yY2gubG9hZChhcmdzLnJlc3RvcmVfbW9kZWwpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbmV0LmxvYWRfc3RhdGVfZGljdCh0b3JjaC5sb2FkKGFyZ3MucmVzdG9yZV9tb2RlbCwgbWFwX2xvY2F0aW9uPSJjcHUiKSkKCiAgICAgICAgZXZhbHVhdGUobmV0LCB2YWxpZF9kYXRhbG9hZGVycykKCgpkZWYgdHJhaW4oYXJncywgbmV0LCBvcHRpbWl6ZXIsIHRyYWluX2RhdGFsb2FkZXJzLCB2YWxpZF9kYXRhbG9hZGVycywgbHJfc2NoZWR1bGVyKToKICAgIG9zLm1ha2VkaXJzKGFyZ3Mub3V0cHV0LCBleGlzdF9vaz1UcnVlKQoKICAgIGJlc3RfaW91ID0gMAogICAgYmVzdF9uSW9VID0gMAogICAgYmVzdF9GQSA9IDEwMDAwMDAwMDAwMDAwMDAKICAgIGJlc3RfUEQgPSAwCgogICAgZXBvY2hfc3RhcnQgPSBhcmdzLnN0YXJ0X2Vwb2NoCiAgICBlcG9jaF9udW0gPSBhcmdzLm1heF9lcG9jaF9udW0KCiAgICBCQ0Vsb3NzID0gbm4uQkNFTG9zcygpCiAgICBEaWNlbG9zcyA9IERJQ0VfbG9zcwoKICAgIG5ldC50cmFpbigpCiAgICBfID0gbmV0LnRvKGRldmljZT1hcmdzLmRldmljZSkKCiAgICBmb3IgZXBvY2ggaW4gcmFuZ2UoZXBvY2hfc3RhcnQsIGVwb2NoX251bSk6CiAgICAgICAgbmV0LnRyYWluKCkKICAgICAgICBsb3NzZXNfYmNlID0gW10KICAgICAgICBsb3NzZXNfZGljZSA9IFtdCiAgICAgICAgbG9zc2VzX2lvdSA9IFtdCgogICAgICAgIHRiYXIgPSB0cWRtKHRyYWluX2RhdGFsb2FkZXJzKQogICAgICAgIGZvciBkYXRhIGluIHRiYXI6CiAgICAgICAgICAgIGlucHV0cywgbGFiZWxzLCBlZGdlc19ndCA9IGRhdGFbJ2ltYWdlJ10sIGRhdGFbJ2xhYmVsJ10sIGRhdGFbJ2VkZ2UnXQogICAgICAgICAgICBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpOgogICAgICAgICAgICAgICAgaW5wdXRzID0gaW5wdXRzLmN1ZGEoKQogICAgICAgICAgICAgICAgbGFiZWxzID0gbGFiZWxzLmN1ZGEoKQoKICAgICAgICAgICAgaW1ncyA9IGlucHV0cy5wZXJtdXRlKDAsIDIsIDMsIDEpLmNwdSgpLm51bXB5KCkKCiAgICAgICAgICAgIGJhdGNoZWRfaW5wdXQgPSBbXQogICAgICAgICAgICBmb3IgYl9pIGluIHJhbmdlKGxlbihpbWdzKSk6CiAgICAgICAgICAgICAgICBkaWN0X2lucHV0ID0gZGljdCgpCiAgICAgICAgICAgICAgICBpbnB1dF9pbWFnZSA9ICh0b3JjaC5hc190ZW5zb3IoaW1nc1tiX2ldLmFzdHlwZShkdHlwZT1ucC51aW50OCksIGRldmljZT1uZXQuZGV2aWNlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnBlcm11dGUoMiwgMCwgMSkuY29udGlndW91cygpKQogICAgICAgICAgICAgICAgZGljdF9pbnB1dFsnaW1hZ2UnXSA9IGlucHV0X2ltYWdlCiAgICAgICAgICAgICAgICBkaWN0X2lucHV0WydvcmlnaW5hbF9zaXplJ10gPSBpbWdzW2JfaV0uc2hhcGVbOjJdCiAgICAgICAgICAgICAgICBiYXRjaGVkX2lucHV0LmFwcGVuZChkaWN0X2lucHV0KQoKICAgICAgICAgICAgbWFza3MsIGVkZ2VzID0gbmV0KGJhdGNoZWRfaW5wdXQpCgogICAgICAgICAgICBtYXNrcyA9IG1hc2tzLmNwdSgpCiAgICAgICAgICAgIGVkZ2VzID0gZWRnZXMuY3B1KCkKICAgICAgICAgICAgbGFiZWxzID0gbGFiZWxzLmNwdSgpCiAgICAgICAgICAgICMKICAgICAgICAgICAgIyBwcmludCh0b3JjaC5tYXgobWFza3MpLCB0b3JjaC5taW4obWFza3MpLCB0b3JjaC5tYXgobGFiZWxzKSwgdG9yY2gubWluKGxhYmVscykpCgogICAgICAgICAgICBsb3NzX2JjZSA9IEJDRWxvc3MoZWRnZXMsIGVkZ2VzX2d0LzI1NS4pCiAgICAgICAgICAgIGxvc3NfZGljZSwgbG9zc19pb3UgPSBEaWNlbG9zcyhtYXNrcywgbGFiZWxzIC8gMjU1LikKICAgICAgICAgICAgbG9zcyA9IDEwICogbG9zc19iY2UgKyBsb3NzX2RpY2UgKyBsb3NzX2lvdQoKICAgICAgICAgICAgb3B0aW1pemVyLnplcm9fZ3JhZCgpCiAgICAgICAgICAgIGxvc3MuYmFja3dhcmQoKQogICAgICAgICAgICBvcHRpbWl6ZXIuc3RlcCgpCgogICAgICAgICAgICBsb3NzZXNfYmNlLmFwcGVuZChsb3NzX2JjZS5kZXRhY2goKSkKICAgICAgICAgICAgbG9zc2VzX2RpY2UuYXBwZW5kKGxvc3NfZGljZS5kZXRhY2goKSkKICAgICAgICAgICAgbG9zc2VzX2lvdS5hcHBlbmQobG9zc19pb3UuZGV0YWNoKCkpCiAgICAgICAgICAgIHRiYXIuc2V0X2Rlc2NyaXB0aW9uKCdFcG9jaDolM2QsIGxyOiVmLCB0cmFpbiBsb3NzOiVmLCBiY2VfbG9zczolZiwgZGljZV9sb3NzOiVmLCBpb3VfbG9zczolZicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJSAoZXBvY2gsIG9wdGltaXplci5wYXJhbV9ncm91cHNbMF1bJ2xyJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEwICogbnAubWVhbihsb3NzZXNfYmNlKSArIG5wLm1lYW4obG9zc2VzX2RpY2UpICsgbnAubWVhbihsb3NzZXNfaW91KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAubWVhbihsb3NzZXNfYmNlKSwgbnAubWVhbihsb3NzZXNfZGljZSksIG5wLm1lYW4obG9zc2VzX2lvdSkpKQogICAgICAgIGxyX3NjaGVkdWxlci5zdGVwKGVwb2NoKQogICAgICAgIG1ldHJpYyA9IGV2YWx1YXRlKG5ldCwgdmFsaWRfZGF0YWxvYWRlcnMpCgogICAgICAgIGlmIG1ldHJpY1snaW91J10gPiBiZXN0X2lvdToKICAgICAgICAgICAgaWYgb3MucGF0aC5leGlzdHMob3BzLmpvaW4oYXJncy5vdXRwdXQsICJCZXN0X0lvVS0lLjRmLnB0aCIgJSBiZXN0X2lvdSkpOgogICAgICAgICAgICAgICAgb3MucmVtb3ZlKG9wcy5qb2luKGFyZ3Mub3V0cHV0LCAiQmVzdF9Jb1UtJS40Zi5wdGgiICUgYmVzdF9pb3UpKQogICAgICAgICAgICBiZXN0X2lvdSA9IG1ldHJpY1snaW91J10KICAgICAgICAgICAgdG9yY2guc2F2ZShuZXQuc3RhdGVfZGljdCgpLCBvcHMuam9pbihhcmdzLm91dHB1dCwgIkJlc3RfSW9VLSUuNGYucHRoIiAlIGJlc3RfaW91KSkKICAgICAgICBpZiBtZXRyaWNbJ25pb3UnXSA+IGJlc3RfbklvVToKICAgICAgICAgICAgaWYgb3MucGF0aC5leGlzdHMob3BzLmpvaW4oYXJncy5vdXRwdXQsICJCZXN0X25Jb1UtJS40Zi5wdGgiICUgYmVzdF9uSW9VKSk6CiAgICAgICAgICAgICAgICBvcy5yZW1vdmUob3BzLmpvaW4oYXJncy5vdXRwdXQsICJCZXN0X25Jb1UtJS40Zi5wdGgiICUgYmVzdF9uSW9VKSkKICAgICAgICAgICAgYmVzdF9uSW9VID0gbWV0cmljWyduaW91J10KICAgICAgICAgICAgdG9yY2guc2F2ZShuZXQuc3RhdGVfZGljdCgpLCBvcHMuam9pbihhcmdzLm91dHB1dCwgIkJlc3RfbklvVS0lLjRmLnB0aCIgJSBiZXN0X25Jb1UpKQogICAgICAgIGlmIG1ldHJpY1snZmEnXSAqIDEwMDAwMDAgPCBiZXN0X0ZBOgogICAgICAgICAgICBiZXN0X0ZBID0gbWV0cmljWydmYSddICogMTAwMDAwMAogICAgICAgIGlmIG1ldHJpY1sncGQnXSA+IGJlc3RfUEQ6CiAgICAgICAgICAgIGJlc3RfUEQgPSBtZXRyaWNbJ3BkJ10KCiAgICAgICAgaWYgZXBvY2ggJSBhcmdzLm1vZGVsX3NhdmVfZnJlID09IDA6CiAgICAgICAgICAgICAgICBtb2RlbF9uYW1lID0gIi9lcG9jaF8iICsgc3RyKGVwb2NoKSsiSW9VLSUuNGYucHRoIiAlIG1ldHJpY1snaW91J10KICAgICAgICAgICAgICAgIG1pc2Muc2F2ZV9vbl9tYXN0ZXIobmV0LnN0YXRlX2RpY3QoKSwgYXJncy5vdXRwdXQgKyBtb2RlbF9uYW1lKQoKICAgICMgRmluaXNoIHRyYWluaW5nCiAgICBwcmludCgnQmVzdCBJb1U6JWYsIEJlc3QgbklvVTolZiwgQmVzdCBQRDolLjhsZiwgQmVzdCBGQTolLjhsZicgJSAoYmVzdF9pb3UsIGJlc3RfbklvVSwgYmVzdF9QRCwgYmVzdF9GQSkpCiAgICBwcmludCgiVHJhaW5pbmcgUmVhY2hlcyBUaGUgTWF4aW11bSBFcG9jaCBOdW1iZXIiKQoKCmRlZiBldmFsdWF0ZShuZXQsIHZhbGlkX2RhdGFsb2FkZXJzKToKICAgIG5ldC5ldmFsKCkKICAgIG1ldHJpYyA9IGRpY3QoKQoKICAgIElvVV9tZXRyaWMgPSBTaWdtb2lkTWV0cmljKCkKICAgIG5Jb1VfbWV0cmljID0gU2FtcGxld2lzZVNpZ21vaWRNZXRyaWMoMSwgc2NvcmVfdGhyZXNoPTAuNSkKCiAgICBST0MgPSBST0NNZXRyaWMoMSwgMTApCiAgICBQZF9GYSA9IFBEX0ZBKDEsIDEwKQoKICAgIElvVV9tZXRyaWMucmVzZXQoKQogICAgbklvVV9tZXRyaWMucmVzZXQoKQogICAgUGRfRmEucmVzZXQoKQogICAgZm9yIGsgaW4gcmFuZ2UobGVuKHZhbGlkX2RhdGFsb2FkZXJzKSk6CiAgICAgICAgdmFsaWRfZGF0YWxvYWRlciA9IHZhbGlkX2RhdGFsb2FkZXJzW2tdCgogICAgICAgIHRiYXIgPSB0cWRtKHZhbGlkX2RhdGFsb2FkZXIpCiAgICAgICAgZm9yIGRhdGFfdmFsIGluIHRiYXI6CiAgICAgICAgICAgIGltaWR4X3ZhbCwgaW5wdXRzX3ZhbCwgbGFiZWxzX3ZhbCwgc2hhcGVzX3ZhbCwgbGFiZWxzX29yaSA9IGRhdGFfdmFsWydpbWlkeCddLCBkYXRhX3ZhbFsnaW1hZ2UnXSwgZGF0YV92YWxbCiAgICAgICAgICAgICAgICAnbGFiZWwnXSwgZGF0YV92YWxbJ3NoYXBlJ10sIGRhdGFfdmFsWydvcmlfbGFiZWwnXQogICAgICAgICAgICAjIHBsdC5zdWJwbG90KDIsIDMsIDEpCiAgICAgICAgICAgICMgcGx0Lmltc2hvdyhpbnB1dHNfdmFsWzBdLnBlcm11dGUoMSwgMiwgMCkuY3B1KCkubnVtcHkoKS8yNTUuKQogICAgICAgICAgICAjIHBsdC5zdWJwbG90KDIsIDMsIDIpCiAgICAgICAgICAgICMgcGx0Lmltc2hvdyhsYWJlbHNfdmFsWzBdLnBlcm11dGUoMSwgMiwgMCkuY3B1KCkubnVtcHkoKSAvIDI1NS4pCgogICAgICAgICAgICBpZiB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpOgogICAgICAgICAgICAgICAgaW5wdXRzX3ZhbCA9IGlucHV0c192YWwuY3VkYSgpCiAgICAgICAgICAgICAgICBsYWJlbHNfb3JpID0gbGFiZWxzX29yaS5jdWRhKCkKCiAgICAgICAgICAgIGltZ3MgPSBpbnB1dHNfdmFsLnBlcm11dGUoMCwgMiwgMywgMSkuY3B1KCkubnVtcHkoKQoKICAgICAgICAgICAgIyBwbHQuc3VicGxvdCgyLCAzLCAzKQogICAgICAgICAgICAjIHBsdC5pbXNob3coKHByb21wdF9tYXNrc1swXSA+IDApLnBlcm11dGUoMSwgMiwgMCkuY3B1KCkubnVtcHkoKSAvIDI1NS4pCgogICAgICAgICAgICBiYXRjaGVkX2lucHV0ID0gW10KICAgICAgICAgICAgZm9yIGJfaSBpbiByYW5nZShsZW4oaW1ncykpOgogICAgICAgICAgICAgICAgZGljdF9pbnB1dCA9IGRpY3QoKQogICAgICAgICAgICAgICAgaW5wdXRfaW1hZ2UgPSAodG9yY2guYXNfdGVuc29yKChpbWdzW2JfaV0pLmFzdHlwZShkdHlwZT1ucC51aW50OCksIGRldmljZT1uZXQuZGV2aWNlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnBlcm11dGUoMiwgMCwgMSkuY29udGlndW91cygpKQogICAgICAgICAgICAgICAgZGljdF9pbnB1dFsnaW1hZ2UnXSA9IGlucHV0X2ltYWdlCiAgICAgICAgICAgICAgICBkaWN0X2lucHV0WydvcmlnaW5hbF9zaXplJ10gPSBpbWdzW2JfaV0uc2hhcGVbOjJdCiAgICAgICAgICAgICAgICBiYXRjaGVkX2lucHV0LmFwcGVuZChkaWN0X2lucHV0KQoKICAgICAgICAgICAgIyBzdGFydGVyLnJlY29yZCgpCiAgICAgICAgICAgIG1hc2tzLCBlZGdlcyA9IG5ldChiYXRjaGVkX2lucHV0KQogICAgICAgICAgICAjIGZsb3BzLCBwYXJhbXMgPSBwcm9maWxlKG5ldCwgaW5wdXRzPShiYXRjaGVkX2lucHV0LCkpCiAgICAgICAgICAgICMgcHJpbnQoZmxvcHMsIHBhcmFtcykKICAgICAgICAgICAgIyBlbmRlci5yZWNvcmQoKQoKICAgICAgICAgICAgdG9yY2guY3VkYS5zeW5jaHJvbml6ZSgpCgogICAgICAgICAgICAjIGN1cnJfdGltZSA9IHN0YXJ0ZXIuZWxhcHNlZF90aW1lKGVuZGVyKQogICAgICAgICAgICAjIHRpbWluZ3NbaV0gPSBjdXJyX3RpbWUKICAgICAgICAgICAgIyBpICs9IDEKCgogICAgICAgICAgICAjIHBsdC5zdWJwbG90KDIsIDMsIDQpCiAgICAgICAgICAgICMgcGx0Lmltc2hvdygobWFza3NbMF0+MCkucGVybXV0ZSgxLCAyLCAwKS5jcHUoKS5udW1weSgpIC8gMjU1LikKICAgICAgICAgICAgIyBwbHQuc3VicGxvdCgyLCAzLCA1KQogICAgICAgICAgICAjIHBsdC5pbXNob3coKG1hc2tzX2hxWzBdPjApLnBlcm11dGUoMSwgMiwgMCkuY3B1KCkubnVtcHkoKSAvIDI1NS4pCiAgICAgICAgICAgICMKICAgICAgICAgICAgIyBwbHQuc2hvdygpCgogICAgICAgICAgICBJb1VfbWV0cmljLnVwZGF0ZShtYXNrcy5jcHUoKSwgKGxhYmVsc19vcmkgLyAyNTUuKS5jcHUoKS5kZXRhY2goKSkKICAgICAgICAgICAgbklvVV9tZXRyaWMudXBkYXRlKG1hc2tzLmNwdSgpLCAobGFiZWxzX29yaSAvIDI1NS4pLmNwdSgpLmRldGFjaCgpKQogICAgICAgICAgICAjIFJPQy51cGRhdGUoSW9VX2ltZ1swXS5jcHUoKSwgbGFiZWxzX29yaVswXS5jcHUoKSkKICAgICAgICAgICAgUGRfRmEudXBkYXRlKG1hc2tzLmNwdSgpLCAobGFiZWxzX29yaSAvIDI1NS4pLmNwdSgpLmRldGFjaCgpKQoKICAgICAgICAgICAgRkEsIFBEID0gUGRfRmEuZ2V0KGxlbih2YWxpZF9kYXRhbG9hZGVyKSkKICAgICAgICAgICAgXywgSW9VID0gSW9VX21ldHJpYy5nZXQoKQogICAgICAgICAgICBfLCBuSW9VID0gbklvVV9tZXRyaWMuZ2V0KCkKCiAgICAgICAgICAgIHRiYXIuc2V0X2Rlc2NyaXB0aW9uKCdJb1U6JWYsIG5Jb1U6JWYsIFBEOiUuOGxmLCBGQTolLjhsZicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJSAoSW9VLCBuSW9VLCBQRFswXSwgRkFbMF0pKQoKICAgICAgICAjIGF2ZyA9IHRpbWluZ3Muc3VtKCkgLyA4NgogICAgICAgICMKICAgICAgICAjIHByaW50KHRpbWluZ3MpCiAgICAgICAgIyBwcmludCgnXG5hdmc9e31cbicuZm9ybWF0KGF2ZykpCgogICAgICAgIG1ldHJpY1snaW91J10gPSBJb1UKICAgICAgICBtZXRyaWNbJ25pb3UnXSA9IG5Jb1UKICAgICAgICBtZXRyaWNbJ3BkJ10gPSBQRFswXQogICAgICAgIG1ldHJpY1snZmEnXSA9IEZBWzBdCiAgICByZXR1cm4gbWV0cmljCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgICMgLS0tLS0tLS0tLS0tLS0tIENvbmZpZ3VyaW5nIHRoZSBUcmFpbiBhbmQgVmFsaWQgZGF0YXNldHMgLS0tLS0tLS0tLS0tLS0tCiAgICAjIGRhdGFzZXRfdHJhaW4gPSB7Im5hbWUiOiAiSVJCZW5jaDUxMiIsCiAgICAjICAgICAgICAgICAgICAgICAgImltX2RpciI6ICIvaG9tZS96bWovd3ljL2RhdGFzZXRzL0lSQmVuY2g1MTIvdHJhaW5faW1hZ2VzIiwKICAgICMgICAgICAgICAgICAgICAgICAiZ3RfZGlyIjogIi9ob21lL3ptai93eWMvZGF0YXNldHMvSVJCZW5jaDUxMi90cmFpbl9tYXNrcyIsCiAgICAjICAgICAgICAgICAgICAgICAgImltX2V4dCI6ICIucG5nIiwKICAgICMgICAgICAgICAgICAgICAgICAiZ3RfZXh0IjogIi5wbmcifQogICAgIwogICAgIyBkYXRhc2V0X3ZhbCA9IHsibmFtZSI6ICJJUkJlbmNoNTEyIiwKICAgICMgICAgICAgICAgICAgICAgImltX2RpciI6ICIvaG9tZS96bWovd3ljL2RhdGFzZXRzL0lSQmVuY2g1MTIvdGVzdF9pbWFnZXMiLAogICAgIyAgICAgICAgICAgICAgICAiZ3RfZGlyIjogIi9ob21lL3ptai93eWMvZGF0YXNldHMvSVJCZW5jaDUxMi90ZXN0X21hc2tzIiwKICAgICMgICAgICAgICAgICAgICAgImltX2V4dCI6ICIucG5nIiwKICAgICMgICAgICAgICAgICAgICAgImd0X2V4dCI6ICIucG5nIn0KCiAgICBkYXRhc2V0X3RyYWluX251YWEgPSB7Im5hbWUiOiAiU2lyc3R2Ml81MTIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICJpbV9kaXIiOiAiL21lZGlhL3ptai81RTU4OTE0NDA4QTQzQ0ZGL3d5Yy8yL3d5Yy9kYXRhc2V0cy9TaXJzdHYyXzUxMi90cmFpbl9pbWFnZXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICJndF9kaXIiOiAiL21lZGlhL3ptai81RTU4OTE0NDA4QTQzQ0ZGL3d5Yy8yL3d5Yy9kYXRhc2V0cy9TaXJzdHYyXzUxMi90cmFpbl9tYXNrcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgImltX2V4dCI6ICIucG5nIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAiZ3RfZXh0IjogIi5wbmcifQoKICAgIGRhdGFzZXRfdmFsX251YWEgPSB7Im5hbWUiOiAiU2lyc3R2Ml81MTIiLAogICAgICAgICAgICAgICAgICAgICAgICAiaW1fZGlyIjogIi9tZWRpYS96bWovNUU1ODkxNDQwOEE0M0NGRi93eWMvMi93eWMvZGF0YXNldHMvU2lyc3R2Ml81MTIvdGVzdF9pbWFnZXMiLAogICAgICAgICAgICAgICAgICAgICAgICAiZ3RfZGlyIjogIi9tZWRpYS96bWovNUU1ODkxNDQwOEE0M0NGRi93eWMvMi93eWMvZGF0YXNldHMvU2lyc3R2Ml81MTIvdGVzdF9tYXNrcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICJpbV9leHQiOiAiLnBuZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICJndF9leHQiOiAiLnBuZyJ9CgogICAgIyBkYXRhc2V0X3RyYWluX05VRFQgPSB7Im5hbWUiOiAiTlVEVCIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAiaW1fZGlyIjogIi9ob21lL3ptai93eWMvZGF0YXNldHMvTlVEVC1TSVJTVDAwL3RyYWluX2ltYWdlcyIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAiZ3RfZGlyIjogIi9ob21lL3ptai93eWMvZGF0YXNldHMvTlVEVC1TSVJTVDAwL3RyYWluX21hc2tzIiwKICAgICMgICAgICAgICAgICAgICAgICAgICAgICJpbV9leHQiOiAiLnBuZyIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAiZ3RfZXh0IjogIi5wbmcifQogICAgIwogICAgIyBkYXRhc2V0X3ZhbF9OVURUID0geyJuYW1lIjogIk5VRFQiLAogICAgIyAgICAgICAgICAgICAgICAgICAgICJpbV9kaXIiOiAiL2hvbWUvem1qL3d5Yy9kYXRhc2V0cy9OVURULVNJUlNUMDAvdGVzdF9pbWFnZXMiLAogICAgIyAgICAgICAgICAgICAgICAgICAgICJndF9kaXIiOiAiL2hvbWUvem1qL3d5Yy9kYXRhc2V0cy9OVURULVNJUlNUMDAvdGVzdF9tYXNrcyIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgImltX2V4dCI6ICIucG5nIiwKICAgICMgICAgICAgICAgICAgICAgICAgICAiZ3RfZXh0IjogIi5wbmcifQoKICAgICMgZGF0YXNldF90cmFpbl9JUlNURCA9IHsibmFtZSI6ICJJUlNURCIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgImltX2RpciI6ICIvbWVkaWEvem1qLzVFNTg5MTQ0MDhBNDNDRkYvd3ljLzIvd3ljL2RhdGFzZXRzL3RyYWluX2ltYWdlcyIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgImd0X2RpciI6ICIvbWVkaWEvem1qLzVFNTg5MTQ0MDhBNDNDRkYvd3ljLzIvd3ljL2RhdGFzZXRzL3RyYWluX21hc2tzIiwKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAiaW1fZXh0IjogIi5wbmciLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICJndF9leHQiOiAiLnBuZyJ9CiAgICAjCiAgICAjIGRhdGFzZXRfdmFsX0lSU1REID0geyJuYW1lIjogIklSU1REIiwKICAgICMgICAgICAgICAgICAgICAgICAgICAgImltX2RpciI6ICIvbWVkaWEvem1qLzVFNTg5MTQ0MDhBNDNDRkYvd3ljLzIvd3ljL2RhdGFzZXRzL0lSU1RELTFrL3Rlc3RfaW1hZ2VzIiwKICAgICMgICAgICAgICAgICAgICAgICAgICAgImd0X2RpciI6ICIvbWVkaWEvem1qLzVFNTg5MTQ0MDhBNDNDRkYvd3ljLzIvd3ljL2RhdGFzZXRzL0lSU1RELTFrL3Rlc3RfbWFza3MiLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAiaW1fZXh0IjogIi5wbmciLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAiZ3RfZXh0IjogIi5wbmcifQoKICAgIHRyYWluX2RhdGFzZXRzID0gW2RhdGFzZXRfdHJhaW5fbnVhYV0KICAgIHZhbGlkX2RhdGFzZXRzID0gW2RhdGFzZXRfdmFsX251YWFdCgogICAgIyBkYXRhc2V0X3NhbXBsZV9udWFhID0geyJuYW1lIjogIlNpcnN0djJfNTEyIiwKICAgICMgICAgICAgICAgICAgICAgICAgICAiaW1fZGlyIjogIi9ob21lL3ptai93eWMvZGF0YXNldHMvU2lyc3R2Ml81MTIvc2FtcGxlX2ltYWdlcyIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgImd0X2RpciI6ICIvaG9tZS96bWovd3ljL2RhdGFzZXRzL1NpcnN0djJfNTEyL3NhbXBsZV9tYXNrcyIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgImltX2V4dCI6ICIucG5nIiwKICAgICMgICAgICAgICAgICAgICAgICAgICAiZ3RfZXh0IjogIi5wbmcifQogICAgIwogICAgIyB0cmFpbl9kYXRhc2V0cyA9IFtkYXRhc2V0X3NhbXBsZV9udWFhXQogICAgIyB2YWxpZF9kYXRhc2V0cyA9IFtkYXRhc2V0X3NhbXBsZV9udWFhXQoKICAgIGFyZ3MgPSBnZXRfYXJnc19wYXJzZXIoKQoKICAgIG1haW4odHJhaW5fZGF0YXNldHMsIHZhbGlkX2RhdGFzZXRzLCBhcmdzKQo=
+# Copyright by HQ-SAM team
+# All rights reserved.
+
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+
+import os
+import os.path as ops
+from tqdm import tqdm
+import argparse
+import logging
+import numpy as np
+import torch
+import torch.optim as optim
+import torch.nn as nn
+import torch.distributed as dist
+import torch.nn.functional as F
+import torchvision.transforms  as T
+from torch.autograd import Variable
+import matplotlib.pyplot as plt
+import cv2
+import random
+from typing import Dict, List, Tuple
+
+from thop import profile
+
+from segment_anything_training.build_IRSAM import build_sam_IRSAM
+
+from utils.dataloader import get_im_gt_name_dict, create_dataloaders, RandomHFlip, Resize, LargeScaleJitter
+from utils.metrics import SigmoidMetric, SamplewiseSigmoidMetric
+from utils.metric import PD_FA, ROCMetric
+from utils.loss_mask import DICE_loss
+from utils.log import initialize_logger
+import utils.misc as misc
+
+os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+
+
+class Get_grad(nn.Module):
+    def __init__(self):
+        super(Get_grad, self).__init__()
+        kernel_v = [[0, -1, 0],
+                    [0, 0, 0],
+                    [0, 1, 0]]
+        kernel_h = [[0, 0, 0],
+                    [-1, 0, 1],
+                    [0, 0, 0]]
+        kernel_h = torch.FloatTensor(kernel_h).unsqueeze(0).unsqueeze(0)
+        kernel_v = torch.FloatTensor(kernel_v).unsqueeze(0).unsqueeze(0)
+        self.weight_h = nn.Parameter(data=kernel_h, requires_grad=False).cuda()
+        self.weight_v = nn.Parameter(data=kernel_v, requires_grad=False).cuda()
+
+        self.pad = nn.ReplicationPad2d(1)
+
+    def forward(self, x):
+        x0 = x[:, 0]
+        x0_v = F.conv2d(x0.unsqueeze(1), self.weight_v, padding=1)
+        x0_h = F.conv2d(x0.unsqueeze(1), self.weight_h, padding=1)
+
+        x0 = torch.sqrt(torch.pow(x0_v, 2) + torch.pow(x0_h, 2) + 1e-6)
+
+        return x0
+
+
+def get_args_parser():
+    parser = argparse.ArgumentParser('HQ-SAM', add_help=False)
+
+    parser.add_argument("--output", type=str, required=True,
+                        help="Path to the directory where masks and checkpoints will be output")
+    parser.add_argument("--model_type", type=str, default="vit_l",
+                        help="The type of model to load, in ['vit_h', 'vit_l', 'vit_b']")
+    parser.add_argument("--checkpoint", type=str, required=True,
+                        help="The path to the SAM checkpoint to use for mask generation.")
+    parser.add_argument("--no_prompt_checkpoint", type=str, default=None,
+                        help="The path to the SAM checkpoint trained with no prompt")
+    parser.add_argument("--device", type=str, default="cuda",
+                        help="The device to run generation on.")
+
+    parser.add_argument('--learning_rate', default=1e-4, type=float)
+    parser.add_argument('--start_epoch', default=0, type=int)
+    parser.add_argument('--lr_drop_epoch', default=10, type=int)
+    parser.add_argument('--max_epoch_num', default=1001, type=int)
+    parser.add_argument('--dataloader_size', default=[512, 512], type=list)
+    parser.add_argument('--batch_size_train', default=4, type=int)
+    parser.add_argument('--batch_size_valid', default=1, type=int)
+    parser.add_argument('--model_save_fre', default=10, type=int)
+
+    parser.add_argument('--eval', action='store_true')
+    parser.add_argument('--visualize', action='store_true')
+    parser.add_argument("--restore-model", type=str,
+                        help="The path to the hq_decoder training checkpoint for evaluation")
+
+    return parser.parse_args()
+
+
+def main(train_datasets, valid_datasets, args):
+    # --- Step 1: Train or Valid dataset ---
+    if not args.eval:
+        print("--- create training dataloader ---")
+        train_im_gt_list = get_im_gt_name_dict(train_datasets, flag="train")
+        train_dataloaders, train_datasets= create_dataloaders(train_im_gt_list,
+                                                               my_transforms=[
+                                                                   RandomHFlip(),
+                                                                   LargeScaleJitter()
+                                                               ],
+                                                               batch_size=args.batch_size_train,
+                                                               training=True)
+        print(len(train_dataloaders), " train dataloaders created")
+
+    print("--- create valid dataloader ---")
+    valid_im_gt_list = get_im_gt_name_dict(valid_datasets, flag="valid")
+    valid_dataloaders, valid_datasets = create_dataloaders(valid_im_gt_list,
+                                                           my_transforms=[
+                                                               Resize(args.dataloader_size)
+                                                           ],
+                                                           batch_size=args.batch_size_valid,
+                                                           training=False)
+    print(len(valid_dataloaders), " valid dataloaders created")
+
+    # --- Step 2: Load pretrained Network---
+    net = build_sam_IRSAM(checkpoint=args.checkpoint)
+    if torch.cuda.is_available():
+        net.cuda()
+
+    # --- Step 3: Train or Evaluate ---
+    if not args.eval:
+        print("--- define optimizer ---")
+        optimizer = optim.AdamW(net.parameters(), lr=args.learning_rate, betas=(0.9, 0.999), eps=1e-08,
+                               weight_decay=0)
+        # lr_scheduler = torch.optim.lr_scheduler.StepLR(optimizer=optimizer, step_size=args.lr_drop_epoch, gamma=0.9)
+        lr_scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer=optimizer, T_max=50)
+        lr_scheduler.last_epoch = args.start_epoch
+
+        train(args, net, optimizer, train_dataloaders, valid_dataloaders, lr_scheduler)
+    else:
+        if args.restore_model:
+            print("restore model from:", args.restore_model)
+            if torch.cuda.is_available():
+                net.load_state_dict(torch.load(args.restore_model))
+            else:
+                net.load_state_dict(torch.load(args.restore_model, map_location="cpu"))
+
+        evaluate(net, valid_dataloaders)
+
+
+def train(args, net, optimizer, train_dataloaders, valid_dataloaders, lr_scheduler):
+    os.makedirs(args.output, exist_ok=True)
+
+    best_iou = 0
+    best_nIoU = 0
+    best_FA = 1000000000000000
+    best_PD = 0
+
+    epoch_start = args.start_epoch
+    epoch_num = args.max_epoch_num
+
+    BCEloss = nn.BCELoss()
+    Diceloss = DICE_loss
+
+    net.train()
+    _ = net.to(device=args.device)
+
+    for epoch in range(epoch_start, epoch_num):
+        net.train()
+        losses_bce = []
+        losses_dice = []
+        losses_iou = []
+
+        tbar = tqdm(train_dataloaders)
+        for data in tbar:
+            inputs, labels, edges_gt = data['image'], data['label'], data['edge']
+            if torch.cuda.is_available():
+                inputs = inputs.cuda()
+                labels = labels.cuda()
+
+            imgs = inputs.permute(0, 2, 3, 1).cpu().numpy()
+
+            batched_input = []
+            for b_i in range(len(imgs)):
+                dict_input = dict()
+                input_image = (torch.as_tensor(imgs[b_i].astype(dtype=np.uint8), device=net.device)
+                               .permute(2, 0, 1).contiguous())
+                dict_input['image'] = input_image
+                dict_input['original_size'] = imgs[b_i].shape[:2]
+                batched_input.append(dict_input)
+
+            masks, edges = net(batched_input)
+
+            masks = masks.cpu()
+            edges = edges.cpu()
+            labels = labels.cpu()
+            #
+            # print(torch.max(masks), torch.min(masks), torch.max(labels), torch.min(labels))
+
+            loss_bce = BCEloss(edges, edges_gt/255.)
+            loss_dice, loss_iou = Diceloss(masks, labels / 255.)
+            loss = 10 * loss_bce + loss_dice + loss_iou
+
+            optimizer.zero_grad()
+            loss.backward()
+            optimizer.step()
+
+            losses_bce.append(loss_bce.detach())
+            losses_dice.append(loss_dice.detach())
+            losses_iou.append(loss_iou.detach())
+            tbar.set_description('Epoch:%3d, lr:%f, train loss:%f, bce_loss:%f, dice_loss:%f, iou_loss:%f'
+                                 % (epoch, optimizer.param_groups[0]['lr'],
+                                    10 * np.mean(losses_bce) + np.mean(losses_dice) + np.mean(losses_iou),
+                                    np.mean(losses_bce), np.mean(losses_dice), np.mean(losses_iou)))
+        lr_scheduler.step(epoch)
+        metric = evaluate(net, valid_dataloaders)
+
+        if metric['iou'] > best_iou:
+            if os.path.exists(ops.join(args.output, "Best_IoU-%.4f.pth" % best_iou)):
+                os.remove(ops.join(args.output, "Best_IoU-%.4f.pth" % best_iou))
+            best_iou = metric['iou']
+            torch.save(net.state_dict(), ops.join(args.output, "Best_IoU-%.4f.pth" % best_iou))
+        if metric['niou'] > best_nIoU:
+            if os.path.exists(ops.join(args.output, "Best_nIoU-%.4f.pth" % best_nIoU)):
+                os.remove(ops.join(args.output, "Best_nIoU-%.4f.pth" % best_nIoU))
+            best_nIoU = metric['niou']
+            torch.save(net.state_dict(), ops.join(args.output, "Best_nIoU-%.4f.pth" % best_nIoU))
+        if metric['fa'] * 1000000 < best_FA:
+            best_FA = metric['fa'] * 1000000
+        if metric['pd'] > best_PD:
+            best_PD = metric['pd']
+
+        if epoch % args.model_save_fre == 0:
+                model_name = "/epoch_" + str(epoch)+"IoU-%.4f.pth" % metric['iou']
+                misc.save_on_master(net.state_dict(), args.output + model_name)
+
+    # Finish training
+    print('Best IoU:%f, Best nIoU:%f, Best PD:%.8lf, Best FA:%.8lf' % (best_iou, best_nIoU, best_PD, best_FA))
+    print("Training Reaches The Maximum Epoch Number")
+
+
+def evaluate(net, valid_dataloaders):
+    net.eval()
+    metric = dict()
+
+    IoU_metric = SigmoidMetric()
+    nIoU_metric = SamplewiseSigmoidMetric(1, score_thresh=0.5)
+
+    ROC = ROCMetric(1, 10)
+    Pd_Fa = PD_FA(1, 10)
+
+    IoU_metric.reset()
+    nIoU_metric.reset()
+    Pd_Fa.reset()
+    for k in range(len(valid_dataloaders)):
+        valid_dataloader = valid_dataloaders[k]
+
+        tbar = tqdm(valid_dataloader)
+        for data_val in tbar:
+            imidx_val, inputs_val, labels_val, shapes_val, labels_ori = data_val['imidx'], data_val['image'], data_val[
+                'label'], data_val['shape'], data_val['ori_label']
+            # plt.subplot(2, 3, 1)
+            # plt.imshow(inputs_val[0].permute(1, 2, 0).cpu().numpy()/255.)
+            # plt.subplot(2, 3, 2)
+            # plt.imshow(labels_val[0].permute(1, 2, 0).cpu().numpy() / 255.)
+
+            if torch.cuda.is_available():
+                inputs_val = inputs_val.cuda()
+                labels_ori = labels_ori.cuda()
+
+            imgs = inputs_val.permute(0, 2, 3, 1).cpu().numpy()
+
+            # plt.subplot(2, 3, 3)
+            # plt.imshow((prompt_masks[0] > 0).permute(1, 2, 0).cpu().numpy() / 255.)
+
+            batched_input = []
+            for b_i in range(len(imgs)):
+                dict_input = dict()
+                input_image = (torch.as_tensor((imgs[b_i]).astype(dtype=np.uint8), device=net.device)
+                               .permute(2, 0, 1).contiguous())
+                dict_input['image'] = input_image
+                dict_input['original_size'] = imgs[b_i].shape[:2]
+                batched_input.append(dict_input)
+
+            # starter.record()
+            masks, edges = net(batched_input)
+            # flops, params = profile(net, inputs=(batched_input,))
+            # print(flops, params)
+            # ender.record()
+
+            torch.cuda.synchronize()
+
+            # curr_time = starter.elapsed_time(ender)
+            # timings[i] = curr_time
+            # i += 1
+
+
+            # plt.subplot(2, 3, 4)
+            # plt.imshow((masks[0]>0).permute(1, 2, 0).cpu().numpy() / 255.)
+            # plt.subplot(2, 3, 5)
+            # plt.imshow((masks_hq[0]>0).permute(1, 2, 0).cpu().numpy() / 255.)
+            #
+            # plt.show()
+
+            IoU_metric.update(masks.cpu(), (labels_ori / 255.).cpu().detach())
+            nIoU_metric.update(masks.cpu(), (labels_ori / 255.).cpu().detach())
+            # ROC.update(IoU_img[0].cpu(), labels_ori[0].cpu())
+            Pd_Fa.update(masks.cpu(), (labels_ori / 255.).cpu().detach())
+
+            FA, PD = Pd_Fa.get(len(valid_dataloader))
+            _, IoU = IoU_metric.get()
+            _, nIoU = nIoU_metric.get()
+
+            tbar.set_description('IoU:%f, nIoU:%f, PD:%.8lf, FA:%.8lf'
+                                 % (IoU, nIoU, PD[0], FA[0]))
+
+        # avg = timings.sum() / 86
+        #
+        # print(timings)
+        # print('\navg={}\n'.format(avg))
+
+        metric['iou'] = IoU
+        metric['niou'] = nIoU
+        metric['pd'] = PD[0]
+        metric['fa'] = FA[0]
+    return metric
+
+
+if __name__ == "__main__":
+    # --------------- Configuring the Train and Valid datasets ---------------
+    # dataset_train = {"name": "IRBench512",
+    #                  "im_dir": "/home/zmj/wyc/datasets/IRBench512/train_images",
+    #                  "gt_dir": "/home/zmj/wyc/datasets/IRBench512/train_masks",
+    #                  "im_ext": ".png",
+    #                  "gt_ext": ".png"}
+    #
+    # dataset_val = {"name": "IRBench512",
+    #                "im_dir": "/home/zmj/wyc/datasets/IRBench512/test_images",
+    #                "gt_dir": "/home/zmj/wyc/datasets/IRBench512/test_masks",
+    #                "im_ext": ".png",
+    #                "gt_ext": ".png"}
+
+    dataset_train_nuaa = {"name": "Sirstv2_512",
+                          "im_dir": "/media/zmj/5E58914408A43CFF/wyc/2/wyc/datasets/Sirstv2_512/train_images",
+                          "gt_dir": "/media/zmj/5E58914408A43CFF/wyc/2/wyc/datasets/Sirstv2_512/train_masks",
+                          "im_ext": ".png",
+                          "gt_ext": ".png"}
+
+    dataset_val_nuaa = {"name": "Sirstv2_512",
+                        "im_dir": "/media/zmj/5E58914408A43CFF/wyc/2/wyc/datasets/Sirstv2_512/test_images",
+                        "gt_dir": "/media/zmj/5E58914408A43CFF/wyc/2/wyc/datasets/Sirstv2_512/test_masks",
+                        "im_ext": ".png",
+                        "gt_ext": ".png"}
+
+    # dataset_train_NUDT = {"name": "NUDT",
+    #                       "im_dir": "/home/zmj/wyc/datasets/NUDT-SIRST00/train_images",
+    #                       "gt_dir": "/home/zmj/wyc/datasets/NUDT-SIRST00/train_masks",
+    #                       "im_ext": ".png",
+    #                       "gt_ext": ".png"}
+    #
+    # dataset_val_NUDT = {"name": "NUDT",
+    #                     "im_dir": "/home/zmj/wyc/datasets/NUDT-SIRST00/test_images",
+    #                     "gt_dir": "/home/zmj/wyc/datasets/NUDT-SIRST00/test_masks",
+    #                     "im_ext": ".png",
+    #                     "gt_ext": ".png"}
+
+    # dataset_train_IRSTD = {"name": "IRSTD",
+    #                        "im_dir": "/media/zmj/5E58914408A43CFF/wyc/2/wyc/datasets/train_images",
+    #                        "gt_dir": "/media/zmj/5E58914408A43CFF/wyc/2/wyc/datasets/train_masks",
+    #                        "im_ext": ".png",
+    #                        "gt_ext": ".png"}
+    #
+    # dataset_val_IRSTD = {"name": "IRSTD",
+    #                      "im_dir": "/media/zmj/5E58914408A43CFF/wyc/2/wyc/datasets/IRSTD-1k/test_images",
+    #                      "gt_dir": "/media/zmj/5E58914408A43CFF/wyc/2/wyc/datasets/IRSTD-1k/test_masks",
+    #                      "im_ext": ".png",
+    #                      "gt_ext": ".png"}
+
+    train_datasets = [dataset_train_nuaa]
+    valid_datasets = [dataset_val_nuaa]
+
+    # dataset_sample_nuaa = {"name": "Sirstv2_512",
+    #                     "im_dir": "/home/zmj/wyc/datasets/Sirstv2_512/sample_images",
+    #                     "gt_dir": "/home/zmj/wyc/datasets/Sirstv2_512/sample_masks",
+    #                     "im_ext": ".png",
+    #                     "gt_ext": ".png"}
+    #
+    # train_datasets = [dataset_sample_nuaa]
+    # valid_datasets = [dataset_sample_nuaa]
+
+    args = get_args_parser()
+
+    main(train_datasets, valid_datasets, args)

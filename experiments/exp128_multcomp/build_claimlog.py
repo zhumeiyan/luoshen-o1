@@ -1,1 +1,94 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTI4IMK3IOW7uueriyLmnLrlmajlj6/or7vmlq3oqIDml6Xlv5ci5bm255So55yf5a6e6YWN5a+55pWw5o2u6LeR5LiA6YGNCgrmnaXmupDvvJpleHAxMjbvvIg2IOiHgiDDlyAxNiBzZWVk77yM5ZCr5q+PIHNlZWQg55qEIGZnIOWOn+Wni+WAvO+8ieOAgWV4cDEyN0TvvIjnu63lrabphY3lr7nvvIkK5YGa5rOV77ya5ZCMIHNlZWQg6YWN5a+55YGa5beuIOKGkiBkZWx0YSAvIFNFIC8gOTUlQ0kgLyBuIOKGkiDlhajmibkgQkgtRkRSICsgQm9uZmVycm9uaSDihpIg5LiJ6Ze4Cgrnm67nmoTkuI3mmK8i6YeN5paw5b6X5Ye65pu05aW955qE57uT6K66Iu+8jOiAjOaYr+WbnuetlOS4gOS4qumXrumimO+8mgogIOS4gOasoeWunumqjOmHjOmhuuaJi+WBmueahCAxNSDnu4TkuKTkuKTmr5TovoPvvIzmoKHmraPlkI7ov5jlianlh6DmnaHnq5nlvpfkvY/vvJ8KIiIiCmltcG9ydCBqc29uLCBtYXRoLCBpdGVydG9vbHMsIG9zCgpaID0gMS45NTk5NjM5ODUKCgpkZWYgcGFpcmVkKGEsIGIpOgogICAgIiIi5ZCMIHNlZWQg6YWN5a+577ya6L+U5ZueIGRlbHRhLCBzZSwgbG8sIGhpLCBuIiIiCiAgICBuID0gbWluKGxlbihhKSwgbGVuKGIpKQogICAgZCA9IFtiW2ldIC0gYVtpXSBmb3IgaSBpbiByYW5nZShuKV0KICAgIG0gPSBzdW0oZCkgLyBuCiAgICBpZiBuID4gMToKICAgICAgICB2YXIgPSBzdW0oKHggLSBtKSAqKiAyIGZvciB4IGluIGQpIC8gKG4gLSAxKQogICAgICAgIHNlID0gbWF0aC5zcXJ0KHZhciAvIG4pCiAgICBlbHNlOgogICAgICAgIHNlID0gZmxvYXQoIm5hbiIpCiAgICByZXR1cm4gbSwgc2UsIG0gLSBaICogc2UsIG0gKyBaICogc2UsIG4sIGQKCgpkZWYgbm9ybV9wKG0sIHNlKToKICAgIGlmIHNlID09IDAgb3IgbWF0aC5pc25hbihzZSk6CiAgICAgICAgcmV0dXJuIDAuMAogICAgcmV0dXJuIG1hdGguZXJmYyhhYnMobSAvIHNlKSAvIG1hdGguc3FydCgyLjApKQoKCmRlZiBtYWluKCk6CiAgICBzcmMgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI2X3dlYW4yL3Jlc3VsdDEyNi5qc29uIgogICAgZCA9IGpzb24ubG9hZChvcGVuKHNyYywgZW5jb2Rpbmc9InV0Zi04IikpWyJyZXN1bHQiXQogICAgYXJtcyA9IHtrOiBbclsiZmciXSBmb3IgciBpbiB2WyJyYXciXV0gZm9yIGssIHYgaW4gZC5pdGVtcygpIGlmIHYuZ2V0KCJyYXciKX0KICAgIHByaW50KCLoh4LmlbA6IiwgbGVuKGFybXMpLCAi5q+P6IeCIHNlZWQ6Iiwge2s6IGxlbih2KSBmb3IgaywgdiBpbiBhcm1zLml0ZW1zKCl9KQoKICAgIGNsYWltcyA9IFtdCiAgICBmb3IgYSwgYiBpbiBpdGVydG9vbHMuY29tYmluYXRpb25zKHNvcnRlZChhcm1zKSwgMik6CiAgICAgICAgbSwgc2UsIGxvLCBoaSwgbiwgXyA9IHBhaXJlZChhcm1zW2FdLCBhcm1zW2JdKQogICAgICAgIGNsYWltcy5hcHBlbmQoewogICAgICAgICAgICAiY2xhaW1faWQiOiAiMTI2OiVzX3ZzXyVzIiAlIChiLCBhKSwKICAgICAgICAgICAgImZhbWlseSI6ICJleHAxMjZfd2VhbjIvZmciLAogICAgICAgICAgICAibWV0cmljIjogImZnKOWtpuWIsOeahOinhemjn+aViOeOhykiLAogICAgICAgICAgICAibiI6IG4sICJkZWx0YSI6IG0sICJzZSI6IHNlLCAiY2lfbG8iOiBsbywgImNpX2hpIjogaGksCiAgICAgICAgICAgICJwX2FwcHJveCI6IG5vcm1fcChtLCBzZSksCiAgICAgICAgICAgICJkaXJlY3Rpb24iOiAicG9zaXRpdmUiIGlmIG0gPiAwIGVsc2UgIm5lZ2F0aXZlIiwKICAgICAgICB9KQoKICAgICMg6L+95YqgIDEyN0Qg57ut5a2m6YWN5a+577yI5bey5a2YIGRlbHRhL3NlL2xvL2hp77yJCiAgICBwMTI3ID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyN19zdHJlc3NfYW5uZWFsL3Jlc3VsdDEyN0QuanNvbiIKICAgIGlmIG9zLnBhdGguZXhpc3RzKHAxMjcpOgogICAgICAgIGUgPSBqc29uLmxvYWQob3BlbihwMTI3LCBlbmNvZGluZz0idXRmLTgiKSkKICAgICAgICBjcCA9IGUuZ2V0KCJjb250aW51ZV9wYWlyIiwge30pCiAgICAgICAgZm9yIGFybSwgdiBpbiBjcC5pdGVtcygpOgogICAgICAgICAgICBpZiBhbGwoayBpbiB2IGZvciBrIGluICgiZGVsdGEiLCAic2UiLCAibG8iLCAiaGkiKSk6CiAgICAgICAgICAgICAgICBjbGFpbXMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICAgICAiY2xhaW1faWQiOiAiMTI3RDpjb250aW51ZV8lcyIgJSBhcm0sCiAgICAgICAgICAgICAgICAgICAgImZhbWlseSI6ICJleHAxMjcvY29udGludWVfbGVhcm5pbmciLAogICAgICAgICAgICAgICAgICAgICJtZXRyaWMiOiAizpRmZ19nb29kIOKIkiDOlGZnX2JhZCIsCiAgICAgICAgICAgICAgICAgICAgIm4iOiAyNCwgImRlbHRhIjogdlsiZGVsdGEiXSwgInNlIjogdlsic2UiXSwKICAgICAgICAgICAgICAgICAgICAiY2lfbG8iOiB2WyJsbyJdLCAiY2lfaGkiOiB2WyJoaSJdLAogICAgICAgICAgICAgICAgICAgICJwX2FwcHJveCI6IG5vcm1fcCh2WyJkZWx0YSJdLCB2WyJzZSJdKSwKICAgICAgICAgICAgICAgICAgICAiZGlyZWN0aW9uIjogInBvc2l0aXZlIiBpZiB2WyJkZWx0YSJdID4gMCBlbHNlICJuZWdhdGl2ZSIsCiAgICAgICAgICAgICAgICB9KQoKICAgICMg6L+95YqgIDEyN0Mg6YCA54Gr5a+55q+U77yI55SoIGZnIOWAvO+8jG49MTYg5L2G5pyq5a2YIHJhdyDihpIg5qCHIG49Tm9uZSDotbAgRzPvvIkKICAgIHAxMjdjID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyN19zdHJlc3NfYW5uZWFsL3Jlc3VsdDEyN0MuanNvbiIKICAgIGlmIG9zLnBhdGguZXhpc3RzKHAxMjdjKToKICAgICAgICBjID0ganNvbi5sb2FkKG9wZW4ocDEyN2MsIGVuY29kaW5nPSJ1dGYtOCIpKS5nZXQoImFubmVhbCIsIHt9KQogICAgICAgIGJhc2UgPSBjLmdldCgic2xvdyIsIHt9KS5nZXQoImZnIikKICAgICAgICBmb3IgYXJtIGluICgiY29uc3RhbnQiLCAiZmFzdCIsICJjb29sIik6CiAgICAgICAgICAgIGlmIGFybSBpbiBjIGFuZCBiYXNlIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgY2xhaW1zLmFwcGVuZCh7CiAgICAgICAgICAgICAgICAgICAgImNsYWltX2lkIjogIjEyN0M6YW5uZWFsXyVzX3ZzX3Nsb3ciICUgYXJtLAogICAgICAgICAgICAgICAgICAgICJmYW1pbHkiOiAiZXhwMTI3L2FubmVhbCIsCiAgICAgICAgICAgICAgICAgICAgIm1ldHJpYyI6ICJmZyIsCiAgICAgICAgICAgICAgICAgICAgIm4iOiBOb25lLCAiZGVsdGEiOiBjW2FybV1bImZnIl0gLSBiYXNlLAogICAgICAgICAgICAgICAgICAgICJzZSI6IE5vbmUsICJjaV9sbyI6IE5vbmUsICJjaV9oaSI6IE5vbmUsCiAgICAgICAgICAgICAgICAgICAgInBfYXBwcm94IjogTm9uZSwgImRpcmVjdGlvbiI6ICJwb3NpdGl2ZSIsCiAgICAgICAgICAgICAgICB9KQoKICAgIHByaW50KCLmlq3oqIDmgLvmlbA6IiwgbGVuKGNsYWltcykpCiAgICBqc29uLmR1bXAoY2xhaW1zLCBvcGVuKCJjbGFpbV9sb2cuanNvbiIsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKICAgIHJldHVybiBjbGFpbXMKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp128 · 建立"机器可读断言日志"并用真实配对数据跑一遍
+
+来源：exp126（6 臂 × 16 seed，含每 seed 的 fg 原始值）、exp127D（续学配对）
+做法：同 seed 配对做差 → delta / SE / 95%CI / n → 全批 BH-FDR + Bonferroni → 三闸
+
+目的不是"重新得出更好的结论"，而是回答一个问题：
+  一次实验里顺手做的 15 组两两比较，校正后还剩几条站得住？
+"""
+import json, math, itertools, os
+
+Z = 1.959963985
+
+
+def paired(a, b):
+    """同 seed 配对：返回 delta, se, lo, hi, n"""
+    n = min(len(a), len(b))
+    d = [b[i] - a[i] for i in range(n)]
+    m = sum(d) / n
+    if n > 1:
+        var = sum((x - m) ** 2 for x in d) / (n - 1)
+        se = math.sqrt(var / n)
+    else:
+        se = float("nan")
+    return m, se, m - Z * se, m + Z * se, n, d
+
+
+def norm_p(m, se):
+    if se == 0 or math.isnan(se):
+        return 0.0
+    return math.erfc(abs(m / se) / math.sqrt(2.0))
+
+
+def main():
+    src = "/data/workspace/luoshen-o1/experiments/exp126_wean2/result126.json"
+    d = json.load(open(src, encoding="utf-8"))["result"]
+    arms = {k: [r["fg"] for r in v["raw"]] for k, v in d.items() if v.get("raw")}
+    print("臂数:", len(arms), "每臂 seed:", {k: len(v) for k, v in arms.items()})
+
+    claims = []
+    for a, b in itertools.combinations(sorted(arms), 2):
+        m, se, lo, hi, n, _ = paired(arms[a], arms[b])
+        claims.append({
+            "claim_id": "126:%s_vs_%s" % (b, a),
+            "family": "exp126_wean2/fg",
+            "metric": "fg(学到的觅食效率)",
+            "n": n, "delta": m, "se": se, "ci_lo": lo, "ci_hi": hi,
+            "p_approx": norm_p(m, se),
+            "direction": "positive" if m > 0 else "negative",
+        })
+
+    # 追加 127D 续学配对（已存 delta/se/lo/hi）
+    p127 = "/data/workspace/luoshen-o1/experiments/exp127_stress_anneal/result127D.json"
+    if os.path.exists(p127):
+        e = json.load(open(p127, encoding="utf-8"))
+        cp = e.get("continue_pair", {})
+        for arm, v in cp.items():
+            if all(k in v for k in ("delta", "se", "lo", "hi")):
+                claims.append({
+                    "claim_id": "127D:continue_%s" % arm,
+                    "family": "exp127/continue_learning",
+                    "metric": "Δfg_good − Δfg_bad",
+                    "n": 24, "delta": v["delta"], "se": v["se"],
+                    "ci_lo": v["lo"], "ci_hi": v["hi"],
+                    "p_approx": norm_p(v["delta"], v["se"]),
+                    "direction": "positive" if v["delta"] > 0 else "negative",
+                })
+
+    # 追加 127C 退火对比（用 fg 值，n=16 但未存 raw → 标 n=None 走 G3）
+    p127c = "/data/workspace/luoshen-o1/experiments/exp127_stress_anneal/result127C.json"
+    if os.path.exists(p127c):
+        c = json.load(open(p127c, encoding="utf-8")).get("anneal", {})
+        base = c.get("slow", {}).get("fg")
+        for arm in ("constant", "fast", "cool"):
+            if arm in c and base is not None:
+                claims.append({
+                    "claim_id": "127C:anneal_%s_vs_slow" % arm,
+                    "family": "exp127/anneal",
+                    "metric": "fg",
+                    "n": None, "delta": c[arm]["fg"] - base,
+                    "se": None, "ci_lo": None, "ci_hi": None,
+                    "p_approx": None, "direction": "positive",
+                })
+
+    print("断言总数:", len(claims))
+    json.dump(claims, open("claim_log.json", "w", encoding="utf-8"),
+              ensure_ascii=False, indent=1)
+    return claims
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,269 @@
-aW1wb3J0IHN5cwppbXBvcnQgb3MKaW1wb3J0IHpsaWIKaW1wb3J0IGZ1bmN0b29scwppbXBvcnQgdGhyZWFkaW5nCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIENhbGxhYmxlLCBJTywgSXRlcmFibGUsIE9wdGlvbmFsLCBUdXBsZSwgVW5pb24sIFRZUEVfQ0hFQ0tJTkcKZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybGVuY29kZQoKaW1wb3J0IHJlcXVlc3RzCmZyb20gcmVxdWVzdHMudXRpbHMgaW1wb3J0IHN1cGVyX2xlbgoKaWYgVFlQRV9DSEVDS0lORzoKICAgIGZyb20gcmVxdWVzdHNfdG9vbGJlbHQgaW1wb3J0IE11bHRpcGFydEVuY29kZXIKCmZyb20gLmNvbnRleHQgaW1wb3J0IEVudmlyb25tZW50CmZyb20gLmNsaS5kaWN0cyBpbXBvcnQgTXVsdGlwYXJ0UmVxdWVzdERhdGFEaWN0LCBSZXF1ZXN0RGF0YURpY3QKZnJvbSAuY29tcGF0IGltcG9ydCBpc193aW5kb3dzCgoKY2xhc3MgQ2h1bmtlZFN0cmVhbToKICAgIGRlZiBfX2l0ZXJfXyhzZWxmKSAtPiBJdGVyYWJsZVtVbmlvbltzdHIsIGJ5dGVzXV06CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoKCmNsYXNzIENodW5rZWRVcGxvYWRTdHJlYW0oQ2h1bmtlZFN0cmVhbSk6CiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwKICAgICAgICBzdHJlYW06IEl0ZXJhYmxlLAogICAgICAgIGNhbGxiYWNrOiBDYWxsYWJsZSwKICAgICAgICBldmVudDogT3B0aW9uYWxbdGhyZWFkaW5nLkV2ZW50XSA9IE5vbmUKICAgICkgLT4gTm9uZToKICAgICAgICBzZWxmLmNhbGxiYWNrID0gY2FsbGJhY2sKICAgICAgICBzZWxmLnN0cmVhbSA9IHN0cmVhbQogICAgICAgIHNlbGYuZXZlbnQgPSBldmVudAoKICAgIGRlZiBfX2l0ZXJfXyhzZWxmKSAtPiBJdGVyYWJsZVtVbmlvbltzdHIsIGJ5dGVzXV06CiAgICAgICAgZm9yIGNodW5rIGluIHNlbGYuc3RyZWFtOgogICAgICAgICAgICBpZiBzZWxmLmV2ZW50OgogICAgICAgICAgICAgICAgc2VsZi5ldmVudC5zZXQoKQogICAgICAgICAgICBzZWxmLmNhbGxiYWNrKGNodW5rKQogICAgICAgICAgICB5aWVsZCBjaHVuawoKCmNsYXNzIENodW5rZWRNdWx0aXBhcnRVcGxvYWRTdHJlYW0oQ2h1bmtlZFN0cmVhbSk6CiAgICBjaHVua19zaXplID0gMTAwICogMTAyNAoKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIGVuY29kZXI6ICdNdWx0aXBhcnRFbmNvZGVyJywKICAgICAgICBldmVudDogT3B0aW9uYWxbdGhyZWFkaW5nLkV2ZW50XSA9IE5vbmUKICAgICkgLT4gTm9uZToKICAgICAgICBzZWxmLmVuY29kZXIgPSBlbmNvZGVyCiAgICAgICAgc2VsZi5ldmVudCA9IGV2ZW50CgogICAgZGVmIF9faXRlcl9fKHNlbGYpIC0+IEl0ZXJhYmxlW1VuaW9uW3N0ciwgYnl0ZXNdXToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBjaHVuayA9IHNlbGYuZW5jb2Rlci5yZWFkKHNlbGYuY2h1bmtfc2l6ZSkKICAgICAgICAgICAgaWYgc2VsZi5ldmVudDoKICAgICAgICAgICAgICAgIHNlbGYuZXZlbnQuc2V0KCkKICAgICAgICAgICAgaWYgbm90IGNodW5rOgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgeWllbGQgY2h1bmsKCgpkZWYgYXNfYnl0ZXMoZGF0YTogVW5pb25bc3RyLCBieXRlc10pIC0+IGJ5dGVzOgogICAgaWYgaXNpbnN0YW5jZShkYXRhLCBzdHIpOgogICAgICAgIHJldHVybiBkYXRhLmVuY29kZSgpCiAgICBlbHNlOgogICAgICAgIHJldHVybiBkYXRhCgoKQ2FsbGJhY2tUID0gQ2FsbGFibGVbW2J5dGVzXSwgYnl0ZXNdCgoKZGVmIF93cmFwX2Z1bmN0aW9uX3dpdGhfY2FsbGJhY2soCiAgICBmdW5jOiBDYWxsYWJsZVsuLi4sIEFueV0sCiAgICBjYWxsYmFjazogQ2FsbGJhY2tUCikgLT4gQ2FsbGFibGVbLi4uLCBBbnldOgogICAgQGZ1bmN0b29scy53cmFwcyhmdW5jKQogICAgZGVmIHdyYXBwZWQoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBjaHVuayA9IGZ1bmMoKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIGNhbGxiYWNrKGNodW5rKQogICAgICAgIHJldHVybiBjaHVuawogICAgcmV0dXJuIHdyYXBwZWQKCgpkZWYgaXNfc3RkaW4oZmlsZTogSU8pIC0+IGJvb2w6CiAgICB0cnk6CiAgICAgICAgZmlsZV9ubyA9IGZpbGUuZmlsZW5vKCkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBlbHNlOgogICAgICAgIHJldHVybiBmaWxlX25vID09IHN5cy5zdGRpbi5maWxlbm8oKQoKClJFQURfVEhSRVNIT0xEID0gZmxvYXQob3MuZ2V0ZW52KCdIVFRQSUVfU1RESU5fUkVBRF9XQVJOX1RIUkVTSE9MRCcsIDEwLjApKQoKCmRlZiBvYnNlcnZlX3N0ZGluX2Zvcl9kYXRhX3RocmVhZChlbnY6IEVudmlyb25tZW50LCBmaWxlOiBJTywgcmVhZF9ldmVudDogdGhyZWFkaW5nLkV2ZW50KSAtPiBOb25lOgogICAgIyBXaW5kb3dzIHVuZm9ydHVuYXRlbHkgZG9lcyBub3Qgc3VwcG9ydCBzZWxlY3QoKSBvcGVyYXRpb24KICAgICMgb24gcmVndWxhciBmaWxlcywgbGlrZSBzdGRpbiBpbiBvdXIgdXNlIGNhc2UuCiAgICAjIGh0dHBzOi8vZG9jcy5weXRob24ub3JnLzMvbGlicmFyeS9zZWxlY3QuaHRtbCNzZWxlY3Quc2VsZWN0CiAgICBpZiBpc193aW5kb3dzOgogICAgICAgIHJldHVybiBOb25lCgogICAgIyBJZiB0aGUgdXNlciBjb25maWd1cmVzIFJFQURfVEhSRVNIT0xEIHRvIGJlIDAsIHRoZW4KICAgICMgZGlzYWJsZSB0aGlzIHdhcm5pbmcuCiAgICBpZiBSRUFEX1RIUkVTSE9MRCA9PSAwOgogICAgICAgIHJldHVybiBOb25lCgogICAgZGVmIHdvcmtlcihldmVudDogdGhyZWFkaW5nLkV2ZW50KSAtPiBOb25lOgogICAgICAgIGlmIG5vdCBldmVudC53YWl0KHRpbWVvdXQ9UkVBRF9USFJFU0hPTEQpOgogICAgICAgICAgICBlbnYuc3RkZXJyLndyaXRlKAogICAgICAgICAgICAgICAgZic+IHdhcm5pbmc6IG5vIHN0ZGluIGRhdGEgcmVhZCBpbiB7UkVBRF9USFJFU0hPTER9cyAnCiAgICAgICAgICAgICAgICBmJyhwZXJoYXBzIHlvdSB3YW50IHRvIC0taWdub3JlLXN0ZGluKVxuJwogICAgICAgICAgICAgICAgZic+IFNlZTogaHR0cHM6Ly9odHRwaWUuaW8vZG9jcy9jbGkvYmVzdC1wcmFjdGljZXNcbicKICAgICAgICAgICAgKQoKICAgICMgTWFraW5nIGl0IGEgZGFlbW9uIGVuc3VyZXMgdGhhdCBpZiB0aGUgdXNlciBleGl0cyBmcm9tIHRoZSBtYWluIHByb2dyYW0KICAgICMgKGUuZy4gZWl0aGVyIHJlZ3VsYXJseSBvciB3aXRoIEN0cmwtQyksIHRoZSB0aHJlYWQgd2lsbCBub3QKICAgICMgYmxvY2sgdGhlbS4KICAgIHRocmVhZCA9IHRocmVhZGluZy5UaHJlYWQoCiAgICAgICAgdGFyZ2V0PXdvcmtlciwKICAgICAgICBhcmdzPShyZWFkX2V2ZW50LCksCiAgICAgICAgZGFlbW9uPVRydWUKICAgICkKICAgIHRocmVhZC5zdGFydCgpCgoKZGVmIF9yZWFkX2ZpbGVfd2l0aF9zZWxlY3RvcnMoZmlsZTogSU8sIHJlYWRfZXZlbnQ6IHRocmVhZGluZy5FdmVudCkgLT4gYnl0ZXM6CiAgICBpZiBpc193aW5kb3dzIG9yIG5vdCBpc19zdGRpbihmaWxlKToKICAgICAgICByZXR1cm4gYXNfYnl0ZXMoZmlsZS5yZWFkKCkpCgogICAgaW1wb3J0IHNlbGVjdAoKICAgICMgVHJ5IGNoZWNraW5nIHdoZXRoZXIgdGhlcmUgaXMgYW55IGluY29taW5nIGRhdGEgZm9yIFJFQURfVEhSRVNIT0xECiAgICAjIHNlY29uZHMuIElmIHRoZXJlIGlzbid0IGFueXRoaW5nIGluIHRoZSBnaXZlbiBwZXJpb2QsIGlzc3VlCiAgICAjIGEgd2FybmluZyBhYm91dCBhIG1pc3VzYWdlLgogICAgcmVhZF9zZWxlY3RvcnMsIF8sIF8gPSBzZWxlY3Quc2VsZWN0KFtmaWxlXSwgW10sIFtdLCBSRUFEX1RIUkVTSE9MRCkKICAgIGlmIHJlYWRfc2VsZWN0b3JzOgogICAgICAgIHJlYWRfZXZlbnQuc2V0KCkKCiAgICByZXR1cm4gYXNfYnl0ZXMoZmlsZS5yZWFkKCkpCgoKZGVmIF9wcmVwYXJlX2ZpbGVfZm9yX3VwbG9hZCgKICAgIGVudjogRW52aXJvbm1lbnQsCiAgICBmaWxlOiBVbmlvbltJTywgJ011bHRpcGFydEVuY29kZXInXSwKICAgIGNhbGxiYWNrOiBDYWxsYmFja1QsCiAgICBjaHVua2VkOiBib29sID0gRmFsc2UsCiAgICBjb250ZW50X2xlbmd0aF9oZWFkZXJfdmFsdWU6IE9wdGlvbmFsW2ludF0gPSBOb25lLAopIC0+IFVuaW9uW2J5dGVzLCBJTywgQ2h1bmtlZFN0cmVhbV06CiAgICByZWFkX2V2ZW50ID0gdGhyZWFkaW5nLkV2ZW50KCkKICAgIGlmIG5vdCBzdXBlcl9sZW4oZmlsZSk6CiAgICAgICAgaWYgaXNfc3RkaW4oZmlsZSk6CiAgICAgICAgICAgIG9ic2VydmVfc3RkaW5fZm9yX2RhdGFfdGhyZWFkKGVudiwgZmlsZSwgcmVhZF9ldmVudCkKCiAgICAgICAgIyBaZXJvLWxlbmd0aCAtPiBhc3N1bWUgc3RkaW4uCiAgICAgICAgaWYgY29udGVudF9sZW5ndGhfaGVhZGVyX3ZhbHVlIGlzIE5vbmUgYW5kIG5vdCBjaHVua2VkOgogICAgICAgICAgICAjIFJlYWQgdGhlIHdob2xlIHN0ZGluIHRvIGRldGVybWluZSBgQ29udGVudC1MZW5ndGhgLgogICAgICAgICAgICAjCiAgICAgICAgICAgICMgVE9ETzogSW5zdGVhZCBvZiBvcHQtaW4gLS1jaHVua2VkLCBjb25zaWRlciBtYWtpbmcKICAgICAgICAgICAgIyAgIGBUcmFuc2Zlci1FbmNvZGluZzogY2h1bmtlZGAgZm9yIFNURElOIG9wdC1vdXQgdmlhCiAgICAgICAgICAgICMgICBzb21ldGhpbmcgbGlrZSAtLW5vLWNodW5rZWQuCiAgICAgICAgICAgICMgICBUaGlzIHdvdWxkIGJlIGJhY2t3YXJkcy1pbmNvbXBhdGlibGUgc28gd2FpdCB1bnRpbCB2My4wLjAuCiAgICAgICAgICAgICMKICAgICAgICAgICAgZmlsZSA9IF9yZWFkX2ZpbGVfd2l0aF9zZWxlY3RvcnMoZmlsZSwgcmVhZF9ldmVudCkKICAgIGVsc2U6CiAgICAgICAgZmlsZS5yZWFkID0gX3dyYXBfZnVuY3Rpb25fd2l0aF9jYWxsYmFjaygKICAgICAgICAgICAgZmlsZS5yZWFkLAogICAgICAgICAgICBjYWxsYmFjawogICAgICAgICkKCiAgICBpZiBjaHVua2VkOgogICAgICAgIGZyb20gcmVxdWVzdHNfdG9vbGJlbHQgaW1wb3J0IE11bHRpcGFydEVuY29kZXIKICAgICAgICBpZiBpc2luc3RhbmNlKGZpbGUsIE11bHRpcGFydEVuY29kZXIpOgogICAgICAgICAgICByZXR1cm4gQ2h1bmtlZE11bHRpcGFydFVwbG9hZFN0cmVhbSgKICAgICAgICAgICAgICAgIGVuY29kZXI9ZmlsZSwKICAgICAgICAgICAgICAgIGV2ZW50PXJlYWRfZXZlbnQsCiAgICAgICAgICAgICkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gQ2h1bmtlZFVwbG9hZFN0cmVhbSgKICAgICAgICAgICAgICAgIHN0cmVhbT1maWxlLAogICAgICAgICAgICAgICAgY2FsbGJhY2s9Y2FsbGJhY2ssCiAgICAgICAgICAgICAgICBldmVudD1yZWFkX2V2ZW50CiAgICAgICAgICAgICkKICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIGZpbGUKCgpkZWYgcHJlcGFyZV9yZXF1ZXN0X2JvZHkoCiAgICBlbnY6IEVudmlyb25tZW50LAogICAgcmF3X2JvZHk6IFVuaW9uW3N0ciwgYnl0ZXMsIElPLCAnTXVsdGlwYXJ0RW5jb2RlcicsIFJlcXVlc3REYXRhRGljdF0sCiAgICBib2R5X3JlYWRfY2FsbGJhY2s6IENhbGxiYWNrVCwKICAgIG9mZmxpbmU6IGJvb2wgPSBGYWxzZSwKICAgIGNodW5rZWQ6IGJvb2wgPSBGYWxzZSwKICAgIGNvbnRlbnRfbGVuZ3RoX2hlYWRlcl92YWx1ZTogT3B0aW9uYWxbaW50XSA9IE5vbmUsCikgLT4gVW5pb25bYnl0ZXMsIElPLCAnTXVsdGlwYXJ0RW5jb2RlcicsIENodW5rZWRTdHJlYW1dOgogICAgaXNfZmlsZV9saWtlID0gaGFzYXR0cihyYXdfYm9keSwgJ3JlYWQnKQogICAgaWYgaXNpbnN0YW5jZShyYXdfYm9keSwgKGJ5dGVzLCBzdHIpKToKICAgICAgICBib2R5ID0gYXNfYnl0ZXMocmF3X2JvZHkpCiAgICBlbGlmIGlzaW5zdGFuY2UocmF3X2JvZHksIFJlcXVlc3REYXRhRGljdCk6CiAgICAgICAgYm9keSA9IGFzX2J5dGVzKHVybGVuY29kZShyYXdfYm9keSwgZG9zZXE9VHJ1ZSkpCiAgICBlbHNlOgogICAgICAgIGJvZHkgPSByYXdfYm9keQoKICAgIGlmIG9mZmxpbmU6CiAgICAgICAgaWYgaXNfZmlsZV9saWtlOgogICAgICAgICAgICByZXR1cm4gYXNfYnl0ZXMocmF3X2JvZHkucmVhZCgpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBib2R5CgogICAgaWYgaXNfZmlsZV9saWtlOgogICAgICAgIHJldHVybiBfcHJlcGFyZV9maWxlX2Zvcl91cGxvYWQoCiAgICAgICAgICAgIGVudiwKICAgICAgICAgICAgYm9keSwKICAgICAgICAgICAgY2h1bmtlZD1jaHVua2VkLAogICAgICAgICAgICBjYWxsYmFjaz1ib2R5X3JlYWRfY2FsbGJhY2ssCiAgICAgICAgICAgIGNvbnRlbnRfbGVuZ3RoX2hlYWRlcl92YWx1ZT1jb250ZW50X2xlbmd0aF9oZWFkZXJfdmFsdWUKICAgICAgICApCiAgICBlbGlmIGNodW5rZWQ6CiAgICAgICAgcmV0dXJuIENodW5rZWRVcGxvYWRTdHJlYW0oCiAgICAgICAgICAgIHN0cmVhbT1pdGVyKFtib2R5XSksCiAgICAgICAgICAgIGNhbGxiYWNrPWJvZHlfcmVhZF9jYWxsYmFjawogICAgICAgICkKICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIGJvZHkKCgpkZWYgZ2V0X211bHRpcGFydF9kYXRhX2FuZF9jb250ZW50X3R5cGUoCiAgICBkYXRhOiBNdWx0aXBhcnRSZXF1ZXN0RGF0YURpY3QsCiAgICBib3VuZGFyeTogc3RyID0gTm9uZSwKICAgIGNvbnRlbnRfdHlwZTogc3RyID0gTm9uZSwKKSAtPiBUdXBsZVsnTXVsdGlwYXJ0RW5jb2RlcicsIHN0cl06CiAgICBmcm9tIHJlcXVlc3RzX3Rvb2xiZWx0IGltcG9ydCBNdWx0aXBhcnRFbmNvZGVyCgogICAgZW5jb2RlciA9IE11bHRpcGFydEVuY29kZXIoCiAgICAgICAgZmllbGRzPWRhdGEuaXRlbXMoKSwKICAgICAgICBib3VuZGFyeT1ib3VuZGFyeSwKICAgICkKICAgIGlmIGNvbnRlbnRfdHlwZToKICAgICAgICBjb250ZW50X3R5cGUgPSBjb250ZW50X3R5cGUuc3RyaXAoKQogICAgICAgIGlmICdib3VuZGFyeT0nIG5vdCBpbiBjb250ZW50X3R5cGU6CiAgICAgICAgICAgIGNvbnRlbnRfdHlwZSA9IGYne2NvbnRlbnRfdHlwZX07IGJvdW5kYXJ5PXtlbmNvZGVyLmJvdW5kYXJ5X3ZhbHVlfScKICAgIGVsc2U6CiAgICAgICAgY29udGVudF90eXBlID0gZW5jb2Rlci5jb250ZW50X3R5cGUKCiAgICBkYXRhID0gZW5jb2RlcgogICAgcmV0dXJuIGRhdGEsIGNvbnRlbnRfdHlwZQoKCmRlZiBjb21wcmVzc19yZXF1ZXN0KAogICAgcmVxdWVzdDogcmVxdWVzdHMuUHJlcGFyZWRSZXF1ZXN0LAogICAgYWx3YXlzOiBib29sLAopOgogICAgZGVmbGF0ZXIgPSB6bGliLmNvbXByZXNzb2JqKCkKICAgIGlmIGlzaW5zdGFuY2UocmVxdWVzdC5ib2R5LCBzdHIpOgogICAgICAgIGJvZHlfYnl0ZXMgPSByZXF1ZXN0LmJvZHkuZW5jb2RlKCkKICAgIGVsaWYgaGFzYXR0cihyZXF1ZXN0LmJvZHksICdyZWFkJyk6CiAgICAgICAgYm9keV9ieXRlcyA9IHJlcXVlc3QuYm9keS5yZWFkKCkKICAgIGVsc2U6CiAgICAgICAgYm9keV9ieXRlcyA9IHJlcXVlc3QuYm9keQogICAgZGVmbGF0ZWRfZGF0YSA9IGRlZmxhdGVyLmNvbXByZXNzKGJvZHlfYnl0ZXMpCiAgICBkZWZsYXRlZF9kYXRhICs9IGRlZmxhdGVyLmZsdXNoKCkKICAgIGlzX2Vjb25vbWljYWwgPSBsZW4oZGVmbGF0ZWRfZGF0YSkgPCBsZW4oYm9keV9ieXRlcykKICAgIGlmIGlzX2Vjb25vbWljYWwgb3IgYWx3YXlzOgogICAgICAgIHJlcXVlc3QuYm9keSA9IGRlZmxhdGVkX2RhdGEKICAgICAgICByZXF1ZXN0LmhlYWRlcnNbJ0NvbnRlbnQtRW5jb2RpbmcnXSA9ICdkZWZsYXRlJwogICAgICAgIHJlcXVlc3QuaGVhZGVyc1snQ29udGVudC1MZW5ndGgnXSA9IHN0cihsZW4oZGVmbGF0ZWRfZGF0YSkpCg==
+import sys
+import os
+import zlib
+import functools
+import threading
+from typing import Any, Callable, IO, Iterable, Optional, Tuple, Union, TYPE_CHECKING
+from urllib.parse import urlencode
+
+import requests
+from requests.utils import super_len
+
+if TYPE_CHECKING:
+    from requests_toolbelt import MultipartEncoder
+
+from .context import Environment
+from .cli.dicts import MultipartRequestDataDict, RequestDataDict
+from .compat import is_windows
+
+
+class ChunkedStream:
+    def __iter__(self) -> Iterable[Union[str, bytes]]:
+        raise NotImplementedError
+
+
+class ChunkedUploadStream(ChunkedStream):
+    def __init__(
+        self,
+        stream: Iterable,
+        callback: Callable,
+        event: Optional[threading.Event] = None
+    ) -> None:
+        self.callback = callback
+        self.stream = stream
+        self.event = event
+
+    def __iter__(self) -> Iterable[Union[str, bytes]]:
+        for chunk in self.stream:
+            if self.event:
+                self.event.set()
+            self.callback(chunk)
+            yield chunk
+
+
+class ChunkedMultipartUploadStream(ChunkedStream):
+    chunk_size = 100 * 1024
+
+    def __init__(
+        self,
+        encoder: 'MultipartEncoder',
+        event: Optional[threading.Event] = None
+    ) -> None:
+        self.encoder = encoder
+        self.event = event
+
+    def __iter__(self) -> Iterable[Union[str, bytes]]:
+        while True:
+            chunk = self.encoder.read(self.chunk_size)
+            if self.event:
+                self.event.set()
+            if not chunk:
+                break
+            yield chunk
+
+
+def as_bytes(data: Union[str, bytes]) -> bytes:
+    if isinstance(data, str):
+        return data.encode()
+    else:
+        return data
+
+
+CallbackT = Callable[[bytes], bytes]
+
+
+def _wrap_function_with_callback(
+    func: Callable[..., Any],
+    callback: CallbackT
+) -> Callable[..., Any]:
+    @functools.wraps(func)
+    def wrapped(*args, **kwargs):
+        chunk = func(*args, **kwargs)
+        callback(chunk)
+        return chunk
+    return wrapped
+
+
+def is_stdin(file: IO) -> bool:
+    try:
+        file_no = file.fileno()
+    except Exception:
+        return False
+    else:
+        return file_no == sys.stdin.fileno()
+
+
+READ_THRESHOLD = float(os.getenv('HTTPIE_STDIN_READ_WARN_THRESHOLD', 10.0))
+
+
+def observe_stdin_for_data_thread(env: Environment, file: IO, read_event: threading.Event) -> None:
+    # Windows unfortunately does not support select() operation
+    # on regular files, like stdin in our use case.
+    # https://docs.python.org/3/library/select.html#select.select
+    if is_windows:
+        return None
+
+    # If the user configures READ_THRESHOLD to be 0, then
+    # disable this warning.
+    if READ_THRESHOLD == 0:
+        return None
+
+    def worker(event: threading.Event) -> None:
+        if not event.wait(timeout=READ_THRESHOLD):
+            env.stderr.write(
+                f'> warning: no stdin data read in {READ_THRESHOLD}s '
+                f'(perhaps you want to --ignore-stdin)\n'
+                f'> See: https://httpie.io/docs/cli/best-practices\n'
+            )
+
+    # Making it a daemon ensures that if the user exits from the main program
+    # (e.g. either regularly or with Ctrl-C), the thread will not
+    # block them.
+    thread = threading.Thread(
+        target=worker,
+        args=(read_event,),
+        daemon=True
+    )
+    thread.start()
+
+
+def _read_file_with_selectors(file: IO, read_event: threading.Event) -> bytes:
+    if is_windows or not is_stdin(file):
+        return as_bytes(file.read())
+
+    import select
+
+    # Try checking whether there is any incoming data for READ_THRESHOLD
+    # seconds. If there isn't anything in the given period, issue
+    # a warning about a misusage.
+    read_selectors, _, _ = select.select([file], [], [], READ_THRESHOLD)
+    if read_selectors:
+        read_event.set()
+
+    return as_bytes(file.read())
+
+
+def _prepare_file_for_upload(
+    env: Environment,
+    file: Union[IO, 'MultipartEncoder'],
+    callback: CallbackT,
+    chunked: bool = False,
+    content_length_header_value: Optional[int] = None,
+) -> Union[bytes, IO, ChunkedStream]:
+    read_event = threading.Event()
+    if not super_len(file):
+        if is_stdin(file):
+            observe_stdin_for_data_thread(env, file, read_event)
+
+        # Zero-length -> assume stdin.
+        if content_length_header_value is None and not chunked:
+            # Read the whole stdin to determine `Content-Length`.
+            #
+            # TODO: Instead of opt-in --chunked, consider making
+            #   `Transfer-Encoding: chunked` for STDIN opt-out via
+            #   something like --no-chunked.
+            #   This would be backwards-incompatible so wait until v3.0.0.
+            #
+            file = _read_file_with_selectors(file, read_event)
+    else:
+        file.read = _wrap_function_with_callback(
+            file.read,
+            callback
+        )
+
+    if chunked:
+        from requests_toolbelt import MultipartEncoder
+        if isinstance(file, MultipartEncoder):
+            return ChunkedMultipartUploadStream(
+                encoder=file,
+                event=read_event,
+            )
+        else:
+            return ChunkedUploadStream(
+                stream=file,
+                callback=callback,
+                event=read_event
+            )
+    else:
+        return file
+
+
+def prepare_request_body(
+    env: Environment,
+    raw_body: Union[str, bytes, IO, 'MultipartEncoder', RequestDataDict],
+    body_read_callback: CallbackT,
+    offline: bool = False,
+    chunked: bool = False,
+    content_length_header_value: Optional[int] = None,
+) -> Union[bytes, IO, 'MultipartEncoder', ChunkedStream]:
+    is_file_like = hasattr(raw_body, 'read')
+    if isinstance(raw_body, (bytes, str)):
+        body = as_bytes(raw_body)
+    elif isinstance(raw_body, RequestDataDict):
+        body = as_bytes(urlencode(raw_body, doseq=True))
+    else:
+        body = raw_body
+
+    if offline:
+        if is_file_like:
+            return as_bytes(raw_body.read())
+        else:
+            return body
+
+    if is_file_like:
+        return _prepare_file_for_upload(
+            env,
+            body,
+            chunked=chunked,
+            callback=body_read_callback,
+            content_length_header_value=content_length_header_value
+        )
+    elif chunked:
+        return ChunkedUploadStream(
+            stream=iter([body]),
+            callback=body_read_callback
+        )
+    else:
+        return body
+
+
+def get_multipart_data_and_content_type(
+    data: MultipartRequestDataDict,
+    boundary: str = None,
+    content_type: str = None,
+) -> Tuple['MultipartEncoder', str]:
+    from requests_toolbelt import MultipartEncoder
+
+    encoder = MultipartEncoder(
+        fields=data.items(),
+        boundary=boundary,
+    )
+    if content_type:
+        content_type = content_type.strip()
+        if 'boundary=' not in content_type:
+            content_type = f'{content_type}; boundary={encoder.boundary_value}'
+    else:
+        content_type = encoder.content_type
+
+    data = encoder
+    return data, content_type
+
+
+def compress_request(
+    request: requests.PreparedRequest,
+    always: bool,
+):
+    deflater = zlib.compressobj()
+    if isinstance(request.body, str):
+        body_bytes = request.body.encode()
+    elif hasattr(request.body, 'read'):
+        body_bytes = request.body.read()
+    else:
+        body_bytes = request.body
+    deflated_data = deflater.compress(body_bytes)
+    deflated_data += deflater.flush()
+    is_economical = len(deflated_data) < len(body_bytes)
+    if is_economical or always:
+        request.body = deflated_data
+        request.headers['Content-Encoding'] = 'deflate'
+        request.headers['Content-Length'] = str(len(deflated_data))

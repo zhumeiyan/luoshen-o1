@@ -1,1 +1,262 @@
-ewogICJjcHVfZG9tYWluIjogWwogICAgewogICAgICAicGF0aCI6ICIvcHJvYy9zY2hlZHN0YXQiLAogICAgICAiZG9tYWluIjogImNwdSIsCiAgICAgICJuZmVhdCI6IDk4LAogICAgICAiYW1wX3VwIjogMTcwMTE0ODAuMCwKICAgICAgImFtcF9kbiI6IDM2MDQwNzEzLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL3Ztc3RhdCIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogMTc2LAogICAgICAiYW1wX3VwIjogMTQyMC4wLAogICAgICAiYW1wX2RuIjogMjg2Ni4wCiAgICB9LAogICAgewogICAgICAicGF0aCI6ICIvcHJvYy96b25laW5mbyIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogMTc1LAogICAgICAiYW1wX3VwIjogNjU2LjAsCiAgICAgICJhbXBfZG4iOiAxMzEyLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL21lbWluZm8iLAogICAgICAiZG9tYWluIjogImNwdSIsCiAgICAgICJuZmVhdCI6IDU1LAogICAgICAiYW1wX3VwIjogNTg0LjAsCiAgICAgICJhbXBfZG4iOiA1OTIuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvcGFnZXR5cGVpbmZvIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiAxNTEsCiAgICAgICJhbXBfdXAiOiAxNS4wLAogICAgICAiYW1wX2RuIjogMzAuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvYnVkZHlpbmZvIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiAyNSwKICAgICAgImFtcF91cCI6IDguMCwKICAgICAgImFtcF9kbiI6IDguMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvaW50ZXJydXB0cyIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogMzMzLAogICAgICAiYW1wX3VwIjogOC4wLAogICAgICAiYW1wX2RuIjogMTguMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2Mvc3RhdCIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogNDAwLAogICAgICAiYW1wX3VwIjogNi4wLAogICAgICAiYW1wX2RuIjogMTYuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2Mvc29mdGlycXMiLAogICAgICAiZG9tYWluIjogImNwdSIsCiAgICAgICJuZmVhdCI6IDIyLAogICAgICAiYW1wX3VwIjogMy4wLAogICAgICAiYW1wX2RuIjogNi4wCiAgICB9LAogICAgewogICAgICAicGF0aCI6ICIvcHJvYy9jZ3JvdXBzIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiAzOSwKICAgICAgImFtcF91cCI6IDAuMCwKICAgICAgImFtcF9kbiI6IDAuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvY21kbGluZSIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogNywKICAgICAgImFtcF91cCI6IDAuMCwKICAgICAgImFtcF9kbiI6IDAuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvY29uZmlnLmd6IiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiAxNzgsCiAgICAgICJhbXBfdXAiOiAwLjAsCiAgICAgICJhbXBfZG4iOiAwLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL2NvbnNvbGVzIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiAzLAogICAgICAiYW1wX3VwIjogMC4wLAogICAgICAiYW1wX2RuIjogMC4wCiAgICB9LAogICAgewogICAgICAicGF0aCI6ICIvcHJvYy9jcHVpbmZvIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiAxMzAsCiAgICAgICJhbXBfdXAiOiAwLjAsCiAgICAgICJhbXBfZG4iOiAwLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL2NyeXB0byIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogMTAyLAogICAgICAiYW1wX3VwIjogMC4wLAogICAgICAiYW1wX2RuIjogMC4wCiAgICB9LAogICAgewogICAgICAicGF0aCI6ICIvcHJvYy9kZXZpY2VzIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiA0NywKICAgICAgImFtcF91cCI6IDAuMCwKICAgICAgImFtcF9kbiI6IDAuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvZGlza3N0YXRzIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiAzMTcsCiAgICAgICJhbXBfdXAiOiAwLjAsCiAgICAgICJhbXBfZG4iOiAwLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL2RtYSIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogMSwKICAgICAgImFtcF91cCI6IDAuMCwKICAgICAgImFtcF9kbiI6IDAuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvZXhlY2RvbWFpbnMiLAogICAgICAiZG9tYWluIjogImNwdSIsCiAgICAgICJuZmVhdCI6IDIsCiAgICAgICJhbXBfdXAiOiAwLjAsCiAgICAgICJhbXBfZG4iOiAwLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL2ZiIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiAxLAogICAgICAiYW1wX3VwIjogMC4wLAogICAgICAiYW1wX2RuIjogMC4wCiAgICB9LAogICAgewogICAgICAicGF0aCI6ICIvcHJvYy9maWxlc3lzdGVtcyIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogNSwKICAgICAgImFtcF91cCI6IDAuMCwKICAgICAgImFtcF9kbiI6IDAuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvaW9tZW0iLAogICAgICAiZG9tYWluIjogImNwdSIsCiAgICAgICJuZmVhdCI6IDI2OCwKICAgICAgImFtcF91cCI6IE5hTiwKICAgICAgImFtcF9kbiI6IE5hTgogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvaW9wb3J0cyIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogNDgsCiAgICAgICJhbXBfdXAiOiAwLjAsCiAgICAgICJhbXBfZG4iOiAwLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL2tleS11c2VycyIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogOCwKICAgICAgImFtcF91cCI6IDAuMCwKICAgICAgImFtcF9kbiI6IDAuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2Mva2V5cyIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogOTIsCiAgICAgICJhbXBfdXAiOiBOYU4sCiAgICAgICJhbXBfZG4iOiBOYU4KICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL2xhdGVuY3lfc3RhdHMiLAogICAgICAiZG9tYWluIjogImNwdSIsCiAgICAgICJuZmVhdCI6IDEsCiAgICAgICJhbXBfdXAiOiAwLjAsCiAgICAgICJhbXBfZG4iOiAwLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL2xvYWRhdmciLAogICAgICAiZG9tYWluIjogImNwdSIsCiAgICAgICJuZmVhdCI6IDYsCiAgICAgICJhbXBfdXAiOiAwLjAsCiAgICAgICJhbXBfZG4iOiAwLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL21pc2MiLAogICAgICAiZG9tYWluIjogImNwdSIsCiAgICAgICJuZmVhdCI6IDE5LAogICAgICAiYW1wX3VwIjogMC4wLAogICAgICAiYW1wX2RuIjogMC4wCiAgICB9LAogICAgewogICAgICAicGF0aCI6ICIvcHJvYy9tb3VudHMiLAogICAgICAiZG9tYWluIjogImNwdSIsCiAgICAgICJuZmVhdCI6IDkzLAogICAgICAiYW1wX3VwIjogMC4wLAogICAgICAiYW1wX2RuIjogMC4wCiAgICB9LAogICAgewogICAgICAicGF0aCI6ICIvcHJvYy9wYXJ0aXRpb25zIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiAyOSwKICAgICAgImFtcF91cCI6IDAuMCwKICAgICAgImFtcF9kbiI6IDAuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvdGltZXJfbGlzdCIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogMTM0LAogICAgICAiYW1wX3VwIjogTmFOLAogICAgICAiYW1wX2RuIjogSW5maW5pdHkKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL3VwdGltZSIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogMiwKICAgICAgImFtcF91cCI6IDAuMCwKICAgICAgImFtcF9kbiI6IDAuMAogICAgfSwKICAgIHsKICAgICAgInBhdGgiOiAiL3Byb2MvdmVyc2lvbiIsCiAgICAgICJkb21haW4iOiAiY3B1IiwKICAgICAgIm5mZWF0IjogMjMsCiAgICAgICJhbXBfdXAiOiAwLjAsCiAgICAgICJhbXBfZG4iOiAwLjAKICAgIH0sCiAgICB7CiAgICAgICJwYXRoIjogIi9wcm9jL3ZtYWxsb2NpbmZvIiwKICAgICAgImRvbWFpbiI6ICJjcHUiLAogICAgICAibmZlYXQiOiA0MDAsCiAgICAgICJhbXBfdXAiOiBOYU4sCiAgICAgICJhbXBfZG4iOiBOYU4KICAgIH0KICBdLAogICJmYiI6IHsKICAgICJlZGdlX3JhbmdlIjogMzEuMzI5NjI3MDM3MDQ4MzQsCiAgICAiZWRnZV9zZXEiOiBbCiAgICAgIDAuMCwKICAgICAgMTUuNzAzODEyNTk5MTgyMTI5LAogICAgICAzMS4zMjk2MjcwMzcwNDgzNCwKICAgICAgMTUuNzAzODEyNTk5MTgyMTI5LAogICAgICAwLjAKICAgIF0sCiAgICAiZW50X3NlcSI6IFsKICAgICAgLTEuNDQyODIzMjk3MzE3NTE3NWUtMTIsCiAgICAgIDAuOTk5OTk5OTk5OTk3MTE0NiwKICAgICAgMC45OTk5OTk5OTk5OTcxMTQ2LAogICAgICAwLjk5OTk5OTk5OTk5NzExNDYsCiAgICAgIC0xLjQ0MjgyMzI5NzMxNzUxNzVlLTEyCiAgICBdCiAgfSwKICAiZXZkZXYiOiBbCiAgICAwLjAKICBdCn0=
+{
+  "cpu_domain": [
+    {
+      "path": "/proc/schedstat",
+      "domain": "cpu",
+      "nfeat": 98,
+      "amp_up": 17011480.0,
+      "amp_dn": 36040713.0
+    },
+    {
+      "path": "/proc/vmstat",
+      "domain": "cpu",
+      "nfeat": 176,
+      "amp_up": 1420.0,
+      "amp_dn": 2866.0
+    },
+    {
+      "path": "/proc/zoneinfo",
+      "domain": "cpu",
+      "nfeat": 175,
+      "amp_up": 656.0,
+      "amp_dn": 1312.0
+    },
+    {
+      "path": "/proc/meminfo",
+      "domain": "cpu",
+      "nfeat": 55,
+      "amp_up": 584.0,
+      "amp_dn": 592.0
+    },
+    {
+      "path": "/proc/pagetypeinfo",
+      "domain": "cpu",
+      "nfeat": 151,
+      "amp_up": 15.0,
+      "amp_dn": 30.0
+    },
+    {
+      "path": "/proc/buddyinfo",
+      "domain": "cpu",
+      "nfeat": 25,
+      "amp_up": 8.0,
+      "amp_dn": 8.0
+    },
+    {
+      "path": "/proc/interrupts",
+      "domain": "cpu",
+      "nfeat": 333,
+      "amp_up": 8.0,
+      "amp_dn": 18.0
+    },
+    {
+      "path": "/proc/stat",
+      "domain": "cpu",
+      "nfeat": 400,
+      "amp_up": 6.0,
+      "amp_dn": 16.0
+    },
+    {
+      "path": "/proc/softirqs",
+      "domain": "cpu",
+      "nfeat": 22,
+      "amp_up": 3.0,
+      "amp_dn": 6.0
+    },
+    {
+      "path": "/proc/cgroups",
+      "domain": "cpu",
+      "nfeat": 39,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/cmdline",
+      "domain": "cpu",
+      "nfeat": 7,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/config.gz",
+      "domain": "cpu",
+      "nfeat": 178,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/consoles",
+      "domain": "cpu",
+      "nfeat": 3,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/cpuinfo",
+      "domain": "cpu",
+      "nfeat": 130,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/crypto",
+      "domain": "cpu",
+      "nfeat": 102,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/devices",
+      "domain": "cpu",
+      "nfeat": 47,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/diskstats",
+      "domain": "cpu",
+      "nfeat": 317,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/dma",
+      "domain": "cpu",
+      "nfeat": 1,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/execdomains",
+      "domain": "cpu",
+      "nfeat": 2,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/fb",
+      "domain": "cpu",
+      "nfeat": 1,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/filesystems",
+      "domain": "cpu",
+      "nfeat": 5,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/iomem",
+      "domain": "cpu",
+      "nfeat": 268,
+      "amp_up": NaN,
+      "amp_dn": NaN
+    },
+    {
+      "path": "/proc/ioports",
+      "domain": "cpu",
+      "nfeat": 48,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/key-users",
+      "domain": "cpu",
+      "nfeat": 8,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/keys",
+      "domain": "cpu",
+      "nfeat": 92,
+      "amp_up": NaN,
+      "amp_dn": NaN
+    },
+    {
+      "path": "/proc/latency_stats",
+      "domain": "cpu",
+      "nfeat": 1,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/loadavg",
+      "domain": "cpu",
+      "nfeat": 6,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/misc",
+      "domain": "cpu",
+      "nfeat": 19,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/mounts",
+      "domain": "cpu",
+      "nfeat": 93,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/partitions",
+      "domain": "cpu",
+      "nfeat": 29,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/timer_list",
+      "domain": "cpu",
+      "nfeat": 134,
+      "amp_up": NaN,
+      "amp_dn": Infinity
+    },
+    {
+      "path": "/proc/uptime",
+      "domain": "cpu",
+      "nfeat": 2,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/version",
+      "domain": "cpu",
+      "nfeat": 23,
+      "amp_up": 0.0,
+      "amp_dn": 0.0
+    },
+    {
+      "path": "/proc/vmallocinfo",
+      "domain": "cpu",
+      "nfeat": 400,
+      "amp_up": NaN,
+      "amp_dn": NaN
+    }
+  ],
+  "fb": {
+    "edge_range": 31.32962703704834,
+    "edge_seq": [
+      0.0,
+      15.703812599182129,
+      31.32962703704834,
+      15.703812599182129,
+      0.0
+    ],
+    "ent_seq": [
+      -1.4428232973175175e-12,
+      0.9999999999971146,
+      0.9999999999971146,
+      0.9999999999971146,
+      -1.4428232973175175e-12
+    ]
+  },
+  "evdev": [
+    0.0
+  ]
+}

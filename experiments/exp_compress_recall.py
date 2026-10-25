@@ -1,1 +1,93 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK55yf5a6e6aqM6K+BICMz77ya5Y6L57yp5LiN5oqlIuWOi+e8qeeOhyLvvIzmlLnmiqXjgJDlhbPplK7kuovlrp7lj6zlm57njofjgJHjgIIKCuWBmuazle+8mgogIOmAoOS4gOauteecn+WunuW9oueKtueahOmVv+S4iuS4i+aWh++8jOmHjOmdouWfiyBOIOS4quOAkOW/hemhu+a0u+S4i+adpeOAkeeahOS6i+WungogIO+8iOWIhuaVo+WcqOWQhOWxgu+8mnN5c3RlbSAvIHBpbm5lZCAvIHRvb2xfb3V0IOeahOWktOOAgeS4reOAgeWwviAvIGhpc3RvcnnvvInjgIIKICDljovlrozkuYvlkI7lm57mn6Xov5nkupvkuovlrp7ov5jlnKjkuI3lnKjjgIIKCuWIpOaNruS4jeaYryLljovkuoblpJrlsJEi77yM5pivIuivpeeVmeeahOeVmeS4i+S6huayoeaciSLjgIIK5Y+q5oql5Y6L57yp546H5LiN6K+05Lii5LqG5LuA5LmIID0g5rKh6K+044CC5omA5Lul6L+Z6YeM5Lik5Liq6YO95oql77yaCiAg5Y6L57yp546HICAg4oCU4oCUIOecgeS6huWkmuWwkQogIOWPrOWbnueOhyAgIOKAlOKAlCDor6XnlZnnmoTnlZnkuoblh6DkuKoKICDlubbliJflh7rmr4/kuIDmnaHjgJDkuKLkuobnmoTlhbPplK7kuovlrp7jgJEKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKZnJvbSB0b29scy5jb250ZXh0X2NvbXByZXNzIGltcG9ydCBjb21wcmVzcwoKIyDln4vngrnvvJrmr4/mnaHmmK/kuIDkuKrlv4XpobvmtLvkuIvmnaXnmoTkuovlrp7vvIzmoIfms6jlroPln4vlnKjlk6rkuIDlsYIKRkFDVFMgPSBbCiAgICAoInN5c3RlbSIsICAgIuWIpOaNruaguCAjODU0IOS4iemBjeaMguS4gOmBjeWNs+emgeatouS6pOS7mCIpLAogICAgKCJwaW5uZWQiLCAgICLmtJvnpZ7mmJ/lm74g4piFMyDokL3lnKggdGltZSDovbQiKSwKICAgICgidG9vbF9vdXRfaGVhZCIsICLmrovlt64gUiA9ICsxIOWNlSIpLAogICAgKCJ0b29sX291dF9taWQiLCAgIuWogea1t+WcsOaWueecn+WkqumYs+aXtuavlOWMl+S6rOaXqSAyMi44IOWIhumSnyIpLAogICAgKCJ0b29sX291dF90YWlsIiwgImNhcGFjaXR5IOWPqumZjeS4jeWNhyIpLAogICAgKCJoaXN0b3J5IiwgICAgICAgIm9tYXJjaHkg5pyJIHJlbG9hZCAxODYtMzMzbXMg5pegIHJlbG9hZCAzNy0xMTNtcyIpLAogICAgKCJoaXN0b3J5IiwgICAgICAgInBhcmFzcGVsbCDlt7Lku5jmrL4gNTYg5Y2VIiksCl0KCmRlZiBidWlsZCgpOgogICAgIiIi6YCg5LiA5q6155yf5a6e5b2i54q255qE6ZW/5LiK5LiL5paHIiIiCiAgICBmaWxsZXIgPSAoIui/meaYr+S4gOauteeUqOadpeaSkemVv+W6pueahOS4remXtOWGheWuue+8jOaooeaLn+ecn+WunuW3peWFt+i+k+WHuumHjOmCo+S6myIKICAgICAgICAgICAgICAi55yL5LqG5Lmf5rKh55So55qE6KGM44CC5a6D5ZSv5LiA55qE5L2c55So5piv5oqK5YWz6ZSu5LqL5a6e5o6o5Yiw6L+c5aSE77yMIgogICAgICAgICAgICAgICLlpb3mo4DpqozljovnvKnkvJrkuI3kvJrmiorlroPkuIDotbfkuKLmjonjgIIiKSAqIDQwCiAgICBpdGVtcyA9IFsKICAgICAgICB7ImxheWVyIjogInN5c3RlbSIsICJ0ZXh0IjogIuezu+e7n+e6puadn++8miIgKyBGQUNUU1swXVsxXSArICLjgILmraTlpJbov5jmnInoi6XlubLlm7rlrprmnaHmrL7jgIIifSwKICAgICAgICB7ImxheWVyIjogInBpbm5lZCIsICJ0ZXh0IjogIueUqOaIt+mSieS9j++8miIgKyBGQUNUU1sxXVsxXSArICLjgILkuI3orrjljovjgIIiLCAicGlubmVkIjogVHJ1ZX0sCiAgICAgICAgeyJsYXllciI6ICJ0b29sX291dCIsICJ0ZXh0IjoKICAgICAgICAgICAgRkFDVFNbMl1bMV0gKyAiXG4iICsgZmlsbGVyICsgIlxuIiArIEZBQ1RTWzNdWzFdICsgIlxuIiArIGZpbGxlcn0sCiAgICAgICAgeyJsYXllciI6ICJ0b29sX291dCIsICJ0ZXh0IjoKICAgICAgICAgICAgZmlsbGVyICsgIlxuIiArIEZBQ1RTWzRdWzFdfSwKICAgICAgICB7ImxheWVyIjogImhpc3RvcnkiLCAidGV4dCI6CiAgICAgICAgICAgICLml6nliY3nu5PorrrkuIDvvJoiICsgRkFDVFNbNV1bMV0gKyAi44CCIiArIGZpbGxlcls6NjAwXX0sCiAgICAgICAgeyJsYXllciI6ICJoaXN0b3J5IiwgInRleHQiOgogICAgICAgICAgICAi5pep5YmN57uT6K665LqM77yaIiArIEZBQ1RTWzZdWzFdICsgIuOAgiIgKyBmaWxsZXJbOjYwMF19LAogICAgXQogICAgcmV0dXJuIGl0ZW1zCgpkZWYgbWFpbigpOgogICAgaXRlbXMgPSBidWlsZCgpCiAgICBiZWZvcmUgPSBzdW0obGVuKGlbInRleHQiXSkgZm9yIGkgaW4gaXRlbXMpCgogICAgb3V0ID0gY29tcHJlc3MoaXRlbXMpCiAgICB0ZXh0ID0ganNvbi5kdW1wcyhvdXQsIGVuc3VyZV9hc2NpaT1GYWxzZSkgaWYgbm90IGlzaW5zdGFuY2Uob3V0LCBzdHIpIGVsc2Ugb3V0CiAgICBhZnRlciA9IGxlbih0ZXh0KQoKICAgIHByaW50KCI9IiAqIDY4KQogICAgcHJpbnQoIiDnnJ/lrp7pqozor4EgIzMgwrcg5Y6L57yp55qE44CQ5YWz6ZSu5LqL5a6e5Y+s5Zue546H44CRIikKICAgIHByaW50KCI9IiAqIDY4KQogICAgcHJpbnQoZiJcbuWOi+WJjSB7YmVmb3JlfSDlrZfnrKYg4oaSIOWOi+WQjiB7YWZ0ZXJ9IOWtl+espiIpCiAgICBwcmludChmIuWOi+e8qeeOhyB7MTAwKigxLWFmdGVyL2JlZm9yZSk6LjFmfSUiKQoKICAgIHByaW50KGYiXG57J+Wxgic6PDE2fXsn5YWz6ZSu5LqL5a6eJzo8NDR9eyfov5jlnKg/Jzo8OH0iKQogICAgcHJpbnQoIi0iICogNzIpCiAgICBrZXB0ID0gMAogICAgbG9zdCA9IFtdCiAgICBmb3IgbGF5ZXIsIGZhY3QgaW4gRkFDVFM6CiAgICAgICAgb2sgPSBmYWN0IGluIHRleHQKICAgICAgICBrZXB0ICs9IG9rCiAgICAgICAgaWYgbm90IG9rOiBsb3N0LmFwcGVuZCgobGF5ZXIsIGZhY3QpKQogICAgICAgIHByaW50KGYie2xheWVyOjwxNn17ZmFjdFs6NDJdOjw0NH17J+KchScgaWYgb2sgZWxzZSAn4p2MIOS4ouS6hic6PDh9IikKCiAgICBuID0gbGVuKEZBQ1RTKQogICAgcHJpbnQoZiJcbuWPrOWbniB7a2VwdH0ve259ID0gezEwMCprZXB0L246LjBmfSUiKQogICAgaWYgbG9zdDoKICAgICAgICBwcmludChmIlxu5Lii5LqGIHtsZW4obG9zdCl9IOadoe+8iOi/meaJjeaYr+WOi+e8qeecn+ato+eahOS7o+S7t++8ie+8miIpCiAgICAgICAgZm9yIGxheWVyLCBmYWN0IGluIGxvc3Q6CiAgICAgICAgICAgIHByaW50KGYiICAgW3tsYXllcn1dIHtmYWN0fSIpCgogICAgIyDotKbvvJrljovkuoblpJrlsJHjgIHnlZnkuobku4DkuYjjgIHkuKLkuobku4DkuYjvvIzkuInogIXpg73opoHog73liJcKICAgIHByaW50KGYiXG7liKTmja7vvJoiKQogICAgcHJpbnQoZiIgIHsn4pyFJyBpZiBrZXB0ID49IDEgZWxzZSAn4p2MJ30g6Iez5bCR5L+d5L2PIHBpbm5lZC9zeXN0ZW3vvIjkuI3lj6/ljovlsYLvvIkiKQogICAgcGlubmVkX3N5cyA9IFtmIGZvciBsLCBmIGluIEZBQ1RTIGlmIGwgaW4gKCdzeXN0ZW0nLCAncGlubmVkJyldCiAgICBwc19vayA9IGFsbChmIGluIHRleHQgZm9yIGYgaW4gcGlubmVkX3N5cykKICAgIHByaW50KGYiICB7J+KchScgaWYgcHNfb2sgZWxzZSAn4p2MJ30gc3lzdGVtK3Bpbm5lZCDlhajpg6jkv53nlZkgKHtzdW0oZiBpbiB0ZXh0IGZvciBmIGluIHBpbm5lZF9zeXMpfS97bGVuKHBpbm5lZF9zeXMpfSkiKQogICAgcHJpbnQoZiIgIHsn4pyFJyBpZiBhZnRlciA8IGJlZm9yZSBlbHNlICfinYwnfSDnoa7lrp7lj5jlsI/kuoYiKQogICAgcHJpbnQoZiIgIHsn4pyFJyBpZiBsb3N0IGVsc2UgJ+KaoO+4jyd9IOS4ouWksea4heWNleWPr+WIl+WHuu+8iHtsZW4obG9zdCl9IOadoe+8ieKAlOKAlCDog73liJflh7rmnaXmiY3nrpfmnInotKYiKQogICAgcmV0dXJuIGtlcHQsIG4sIGxlbihsb3N0KQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""
+真实验证 #3：压缩不报"压缩率"，改报【关键事实召回率】。
+
+做法：
+  造一段真实形状的长上下文，里面埋 N 个【必须活下来】的事实
+  （分散在各层：system / pinned / tool_out 的头、中、尾 / history）。
+  压完之后回查这些事实还在不在。
+
+判据不是"压了多少"，是"该留的留下了没有"。
+只报压缩率不说丢了什么 = 没说。所以这里两个都报：
+  压缩率   —— 省了多少
+  召回率   —— 该留的留了几个
+  并列出每一条【丢了的关键事实】
+"""
+import os, sys, json
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from tools.context_compress import compress
+
+# 埋点：每条是一个必须活下来的事实，标注它埋在哪一层
+FACTS = [
+    ("system",   "判据核 #854 三遍挂一遍即禁止交付"),
+    ("pinned",   "洛神星图 ★3 落在 time 轴"),
+    ("tool_out_head", "残差 R = +1 单"),
+    ("tool_out_mid",  "威海地方真太阳时比北京早 22.8 分钟"),
+    ("tool_out_tail", "capacity 只降不升"),
+    ("history",       "omarchy 有 reload 186-333ms 无 reload 37-113ms"),
+    ("history",       "paraspell 已付款 56 单"),
+]
+
+def build():
+    """造一段真实形状的长上下文"""
+    filler = ("这是一段用来撑长度的中间内容，模拟真实工具输出里那些"
+              "看了也没用的行。它唯一的作用是把关键事实推到远处，"
+              "好检验压缩会不会把它一起丢掉。") * 40
+    items = [
+        {"layer": "system", "text": "系统约束：" + FACTS[0][1] + "。此外还有若干固定条款。"},
+        {"layer": "pinned", "text": "用户钉住：" + FACTS[1][1] + "。不许压。", "pinned": True},
+        {"layer": "tool_out", "text":
+            FACTS[2][1] + "\n" + filler + "\n" + FACTS[3][1] + "\n" + filler},
+        {"layer": "tool_out", "text":
+            filler + "\n" + FACTS[4][1]},
+        {"layer": "history", "text":
+            "早前结论一：" + FACTS[5][1] + "。" + filler[:600]},
+        {"layer": "history", "text":
+            "早前结论二：" + FACTS[6][1] + "。" + filler[:600]},
+    ]
+    return items
+
+def main():
+    items = build()
+    before = sum(len(i["text"]) for i in items)
+
+    out = compress(items)
+    text = json.dumps(out, ensure_ascii=False) if not isinstance(out, str) else out
+    after = len(text)
+
+    print("=" * 68)
+    print(" 真实验证 #3 · 压缩的【关键事实召回率】")
+    print("=" * 68)
+    print(f"\n压前 {before} 字符 → 压后 {after} 字符")
+    print(f"压缩率 {100*(1-after/before):.1f}%")
+
+    print(f"\n{'层':<16}{'关键事实':<44}{'还在?':<8}")
+    print("-" * 72)
+    kept = 0
+    lost = []
+    for layer, fact in FACTS:
+        ok = fact in text
+        kept += ok
+        if not ok: lost.append((layer, fact))
+        print(f"{layer:<16}{fact[:42]:<44}{'✅' if ok else '❌ 丢了':<8}")
+
+    n = len(FACTS)
+    print(f"\n召回 {kept}/{n} = {100*kept/n:.0f}%")
+    if lost:
+        print(f"\n丢了 {len(lost)} 条（这才是压缩真正的代价）：")
+        for layer, fact in lost:
+            print(f"   [{layer}] {fact}")
+
+    # 账：压了多少、留了什么、丢了什么，三者都要能列
+    print(f"\n判据：")
+    print(f"  {'✅' if kept >= 1 else '❌'} 至少保住 pinned/system（不可压层）")
+    pinned_sys = [f for l, f in FACTS if l in ('system', 'pinned')]
+    ps_ok = all(f in text for f in pinned_sys)
+    print(f"  {'✅' if ps_ok else '❌'} system+pinned 全部保留 ({sum(f in text for f in pinned_sys)}/{len(pinned_sys)})")
+    print(f"  {'✅' if after < before else '❌'} 确实变小了")
+    print(f"  {'✅' if lost else '⚠️'} 丢失清单可列出（{len(lost)} 条）—— 能列出来才算有账")
+    return kept, n, len(lost)
+
+if __name__ == "__main__":
+    main()

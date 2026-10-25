@@ -1,1 +1,113 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNjEg6YeH6ZuG55yf55S76Z2iIOKAlOKAlCDnlKjlroPnmoTmiYvvvIhDaHJvbWXvvInnqb/ov4cgQ0ROIOWimQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYheKYhSDkuLrku4DkuYjlv4Xpobvph43mipMKICAgIOKYhTU4IOinhuinieWtpuS5oOeUqOeahOaYryAuZnJhbWVz77yaNDc2IOW8oOaal+WcuuaZr+WKqOeUu+W4p++8iOS6ruW6pjAuMDkyIOWvueavlDAuMTE577yJCiAgICBkYXRhL2NhcnRvb25z77yaOSDlvKDlh6DkuY7lhajnmb3nmoTpobXpnaLpqqjmnrbvvIjlr7nmr5QwLjA1Oe+8iQogICAg4piFIOe0oOadkOi0qOmHj+W3riDihpIg5a2m55qE57uT6K665LiN5Y+v5L+h77yI4piFNTgg55qEIueZveWMluWPjei9rCLlvojlj6/og73lj6rmmK/lmarlo7DmsaHmn5PnmoTnu5PmnpzvvIkKCuKYheKYheKYhSDkuI4g4piFNDMg55qE5YWz57O7CiAgICDimIU0MyDor4HmmI7vvJpDRE4g5oyh44CQ6KO46K+35rGC44CR77yINDAz77yJ77yM5oyh5LiN5L2P44CQ5rWP6KeI5Zmo44CRCiAgICDmnKzlsYLlpI3nlKjov5nmnaHvvJrnlKjlroPnmoTmiYvvvIjimIUzNyDomZrmi5/plK7pvKAgKyBDaHJvbWXvvInmiZPlvIDlm77niYcgVVJMIOKGkiDmi7/liLDnnJ8gSlBFRwoK4piF4piF4piFIOWFs+mUruiuvuiuoe+8muaKk+OAkOe6r+WbvueJh+OAke+8jOS4jeaKk+mhtemdoumqqOaetgogICAg6aG16Z2i6aqo5p6277ya5aSn6YeP55m95bqVIOKGkiDlr7nmr5TluqYgfjAuMDXvvIjimIU0MSDnmoTmlZnorq3vvIkKICAgIOebtOaOpeW8gOWbvueJhyBVUkzvvJrmlbTlsY/lsLHmmK/lm74g4oaSIOWvueavlOW6puecn+WungoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHRpbWUsIGhhc2hsaWIKaW1wb3J0IG51bXB5IGFzIG5wCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKc3lzLnBhdGguaW5zZXJ0KDAsIEhFUkUpCk9VVCA9IG9zLnBhdGguam9pbihIRVJFLCAiZGF0YSIsICJnb29kX2ZyYW1lcyIpCm9zLm1ha2VkaXJzKE9VVCwgZXhpc3Rfb2s9VHJ1ZSkKVUEgPSAoIk1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2ICIKICAgICAgIihLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1My4wLjAuMCBTYWZhcmkvNTM3LjM2IikKCgpkZWYgaGFydmVzdCh1cmxzLCB0YWcsIHdhaXRfbXM9MjYwMCwgdnc9MTI4MCwgdmg9ODAwKToKICAgICIiIuKYheKYhSDnlKjmtY/op4jlmajmiZPlvIDmr4/kuKrlm77niYcgVVJMIOW5tuaVtOWxj+aIquWbviDihpIg5b6X5Yiw55yf55S76Z2iCgogICAg4piFIOaVtOWxj+aIquWbviA9IOeUu+mdouacrOi6q++8iOa1j+iniOWZqOWxheS4reaYvuekuuWbvueJh++8jGxldHRlcmJveCDkuLrpu5Ev55m96L6577yJCiAgICDimIUg6L+U5ZueICjmiJDlip/mlbAsIOWFg+aVsOaNruWIl+ihqCkKICAgICIiIgogICAgdHJ5OgogICAgICAgIGZyb20gcGxheXdyaWdodC5zeW5jX2FwaSBpbXBvcnQgc3luY19wbGF5d3JpZ2h0CiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZiIgIOKdjCBwbGF5d3JpZ2h0IOS4jeWPr+eUqDoge2V9IikKICAgICAgICByZXR1cm4gMCwgW10KICAgIG91dCA9IFtdCiAgICB3aXRoIHN5bmNfcGxheXdyaWdodCgpIGFzIHA6CiAgICAgICAgYiA9IHAuY2hyb21pdW0ubGF1bmNoKGV4ZWN1dGFibGVfcGF0aD0iL3Vzci9iaW4vZ29vZ2xlLWNocm9tZS1zdGFibGUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmdzPVsiLS1uby1zYW5kYm94IiwgIi0tZGlzYWJsZS1kZXYtc2htLXVzYWdlIl0pCiAgICAgICAgY3R4ID0gYi5uZXdfY29udGV4dCh1c2VyX2FnZW50PVVBLCB2aWV3cG9ydD17IndpZHRoIjogdncsICJoZWlnaHQiOiB2aH0pCiAgICAgICAgcGcgPSBjdHgubmV3X3BhZ2UoKQogICAgICAgIGZvciBpLCB1IGluIGVudW1lcmF0ZSh1cmxzKToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgciA9IHBnLmdvdG8odSwgdGltZW91dD0zMDAwMCwgd2FpdF91bnRpbD0ibG9hZCIpCiAgICAgICAgICAgICAgICBzdCA9IHIuc3RhdHVzIGlmIHIgaXMgbm90IE5vbmUgZWxzZSBOb25lCiAgICAgICAgICAgICAgICBwZy53YWl0X2Zvcl90aW1lb3V0KHdhaXRfbXMpCiAgICAgICAgICAgICAgICBmcCA9IG9zLnBhdGguam9pbihPVVQsIGYie3RhZ31fe2k6MDNkfS5wbmciKQogICAgICAgICAgICAgICAgcGcuc2NyZWVuc2hvdChwYXRoPWZwKQogICAgICAgICAgICAgICAgb3V0LmFwcGVuZCh7InRhZyI6IHRhZywgInVybCI6IHUsICJzdGF0dXMiOiBzdCwgInBhdGgiOiBmcH0pCiAgICAgICAgICAgICAgICBwcmludChmIiAgICBbe3RhZ31dIHtpOj4zfSBzdGF0dXM9e3N0fSAge29zLnBhdGguYmFzZW5hbWUoZnApfSIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHByaW50KGYiICAgIFt7dGFnfV0ge2k6PjN9IOKdjCB7dHlwZShlKS5fX25hbWVfX306IHtzdHIoZSlbOjQ0XX0iKQogICAgICAgIGIuY2xvc2UoKQogICAgcmV0dXJuIGxlbihvdXQpLCBvdXQKCgpkZWYgZXh0cmFjdF9pbWdfdXJscyhwYWdlX3VybCwgbGltaXQ9NDAsIG1pbl93PTIwMCk6CiAgICAiIiLimIXimIUg55So5rWP6KeI5Zmo5omT5byA6aG16Z2i77yM5oq95Ye66aG16Z2i6YeM5omA5pyJIDxpbWc+IOeahOecn+WuniBzcmMKCiAgICDimIXimIUg6L+Z5LiA5q2l5Lmf5pivIuWug+iHquW3seWcqOeciyLvvJrkuI3mmK/miJHnoaznvJbnoIEgVVJM77yM5piv5LuO5a6D5omT5byA55qE6aG16Z2i6YeM6ZW/5Ye65p2l55qECiAgICAiIiIKICAgIHRyeToKICAgICAgICBmcm9tIHBsYXl3cmlnaHQuc3luY19hcGkgaW1wb3J0IHN5bmNfcGxheXdyaWdodAogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gW10sIE5vbmUKICAgIHVybHMsIHRpdGxlID0gW10sIE5vbmUKICAgIHdpdGggc3luY19wbGF5d3JpZ2h0KCkgYXMgcDoKICAgICAgICBiID0gcC5jaHJvbWl1bS5sYXVuY2goZXhlY3V0YWJsZV9wYXRoPSIvdXNyL2Jpbi9nb29nbGUtY2hyb21lLXN0YWJsZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZ3M9WyItLW5vLXNhbmRib3giLCAiLS1kaXNhYmxlLWRldi1zaG0tdXNhZ2UiXSkKICAgICAgICBjdHggPSBiLm5ld19jb250ZXh0KHVzZXJfYWdlbnQ9VUEsIHZpZXdwb3J0PXsid2lkdGgiOiAxNDQwLCAiaGVpZ2h0IjogOTAwfSkKICAgICAgICBwZyA9IGN0eC5uZXdfcGFnZSgpCiAgICAgICAgdHJ5OgogICAgICAgICAgICByID0gcGcuZ290byhwYWdlX3VybCwgdGltZW91dD0zNTAwMCwgd2FpdF91bnRpbD0iZG9tY29udGVudGxvYWRlZCIpCiAgICAgICAgICAgIHN0ID0gci5zdGF0dXMgaWYgciBpcyBub3QgTm9uZSBlbHNlIE5vbmUKICAgICAgICAgICAgcGcud2FpdF9mb3JfdGltZW91dCgzMDAwKQogICAgICAgICAgICAjIOa7muWKqOinpuWPkeaHkuWKoOi9vQogICAgICAgICAgICBmb3IgXyBpbiByYW5nZSgzKToKICAgICAgICAgICAgICAgIHBnLm1vdXNlLndoZWVsKDAsIDIyMDApCiAgICAgICAgICAgICAgICBwZy53YWl0X2Zvcl90aW1lb3V0KDkwMCkKICAgICAgICAgICAgdGl0bGUgPSBwZy50aXRsZSgpCiAgICAgICAgICAgIHByaW50KGYiICDpobXpnaIge3BhZ2VfdXJsWzo1OF19IikKICAgICAgICAgICAgcHJpbnQoZiIgICAgc3RhdHVzPXtzdH0gIHRpdGxlPXt0aXRsZVs6NDhdfSIpCiAgICAgICAgICAgIGpzID0gIiIiKCkgPT4gQXJyYXkuZnJvbShkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbWcnKSkKICAgICAgICAgICAgICAgICAgICAgLm1hcChpID0+ICh7c3JjOiBpLmN1cnJlbnRTcmMgfHwgaS5zcmMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHc6IGkubmF0dXJhbFdpZHRoLCBoOiBpLm5hdHVyYWxIZWlnaHR9KSkKICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihvID0+IG8uc3JjICYmIG8uc3JjLnN0YXJ0c1dpdGgoJ2h0dHAnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgby53ID49ICVkICYmIG8uaCA+PSAlZCkKICAgICAgICAgICAgICAgICAgICAgLm1hcChvID0+IG8uc3JjKSIiIiAlIChtaW5fdywgbWluX3cpCiAgICAgICAgICAgIHVybHMgPSBwZy5ldmFsdWF0ZShqcykKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KGYiICAgIOKdjCB7dHlwZShlKS5fX25hbWVfX306IHtzdHIoZSlbOjUwXX0iKQogICAgICAgIGIuY2xvc2UoKQogICAgIyDljrvph43kv53luo8KICAgIHNlZW4sIHVuaXEgPSBzZXQoKSwgW10KICAgIGZvciB1IGluIHVybHM6CiAgICAgICAgaWYgdSBub3QgaW4gc2VlbjoKICAgICAgICAgICAgc2Vlbi5hZGQodSkKICAgICAgICAgICAgdW5pcS5hcHBlbmQodSkKICAgIHJldHVybiB1bmlxWzpsaW1pdF0sIHRpdGxlCgoKZGVmIGZyYW1lX3F1YWxpdHkocGF0aCk6CiAgICAiIiLimIUg55S76Z2i6LSo6YeP77ya5Lqu5bqmIC8g5a+55q+UIC8g6LCx5pac546HIC8g5piv5ZCm6YCA5YyWIiIiCiAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKICAgIGltcG9ydCBjb3JlLnZpc3VhbF9sZWFybiBhcyB2bAogICAgYSA9IG5wLmFzYXJyYXkoSW1hZ2Uub3BlbihwYXRoKS5jb252ZXJ0KCJMIiksIGR0eXBlPW5wLmZsb2F0NjQpIC8gMjU1LjAKICAgIHJldHVybiB7ImJyaWdodCI6IGZsb2F0KGEubWVhbigpKSwgImNvbnRyYXN0IjogZmxvYXQoYS5zdGQoKSksCiAgICAgICAgICAgICJhbHBoYSI6IGZsb2F0KHZsLnJhZGlhbF9wc2Rfc2xvcGUoYSkpfQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★61 采集真画面 —— 用它的手（Chrome）穿过 CDN 墙
+================================================================
+★★ 为什么必须重抓
+    ★58 视觉学习用的是 .frames：476 张暗场景动画帧（亮度0.092 对比0.119）
+    data/cartoons：9 张几乎全白的页面骨架（对比0.059）
+    ★ 素材质量差 → 学的结论不可信（★58 的"白化反转"很可能只是噪声污染的结果）
+
+★★★ 与 ★43 的关系
+    ★43 证明：CDN 挡【裸请求】（403），挡不住【浏览器】
+    本层复用这条：用它的手（★37 虚拟键鼠 + Chrome）打开图片 URL → 拿到真 JPEG
+
+★★★ 关键设计：抓【纯图片】，不抓页面骨架
+    页面骨架：大量白底 → 对比度 ~0.05（★41 的教训）
+    直接开图片 URL：整屏就是图 → 对比度真实
+"""
+import os, sys, json, time, hashlib
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+OUT = os.path.join(HERE, "data", "good_frames")
+os.makedirs(OUT, exist_ok=True)
+UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36")
+
+
+def harvest(urls, tag, wait_ms=2600, vw=1280, vh=800):
+    """★★ 用浏览器打开每个图片 URL 并整屏截图 → 得到真画面
+
+    ★ 整屏截图 = 画面本身（浏览器居中显示图片，letterbox 为黑/白边）
+    ★ 返回 (成功数, 元数据列表)
+    """
+    try:
+        from playwright.sync_api import sync_playwright
+    except Exception as e:
+        print(f"  ❌ playwright 不可用: {e}")
+        return 0, []
+    out = []
+    with sync_playwright() as p:
+        b = p.chromium.launch(executable_path="/usr/bin/google-chrome-stable",
+                              args=["--no-sandbox", "--disable-dev-shm-usage"])
+        ctx = b.new_context(user_agent=UA, viewport={"width": vw, "height": vh})
+        pg = ctx.new_page()
+        for i, u in enumerate(urls):
+            try:
+                r = pg.goto(u, timeout=30000, wait_until="load")
+                st = r.status if r is not None else None
+                pg.wait_for_timeout(wait_ms)
+                fp = os.path.join(OUT, f"{tag}_{i:03d}.png")
+                pg.screenshot(path=fp)
+                out.append({"tag": tag, "url": u, "status": st, "path": fp})
+                print(f"    [{tag}] {i:>3} status={st}  {os.path.basename(fp)}")
+            except Exception as e:
+                print(f"    [{tag}] {i:>3} ❌ {type(e).__name__}: {str(e)[:44]}")
+        b.close()
+    return len(out), out
+
+
+def extract_img_urls(page_url, limit=40, min_w=200):
+    """★★ 用浏览器打开页面，抽出页面里所有 <img> 的真实 src
+
+    ★★ 这一步也是"它自己在看"：不是我硬编码 URL，是从它打开的页面里长出来的
+    """
+    try:
+        from playwright.sync_api import sync_playwright
+    except Exception:
+        return [], None
+    urls, title = [], None
+    with sync_playwright() as p:
+        b = p.chromium.launch(executable_path="/usr/bin/google-chrome-stable",
+                              args=["--no-sandbox", "--disable-dev-shm-usage"])
+        ctx = b.new_context(user_agent=UA, viewport={"width": 1440, "height": 900})
+        pg = ctx.new_page()
+        try:
+            r = pg.goto(page_url, timeout=35000, wait_until="domcontentloaded")
+            st = r.status if r is not None else None
+            pg.wait_for_timeout(3000)
+            # 滚动触发懒加载
+            for _ in range(3):
+                pg.mouse.wheel(0, 2200)
+                pg.wait_for_timeout(900)
+            title = pg.title()
+            print(f"  页面 {page_url[:58]}")
+            print(f"    status={st}  title={title[:48]}")
+            js = """() => Array.from(document.querySelectorAll('img'))
+                     .map(i => ({src: i.currentSrc || i.src,
+                                 w: i.naturalWidth, h: i.naturalHeight}))
+                     .filter(o => o.src && o.src.startsWith('http')
+                                  && o.w >= %d && o.h >= %d)
+                     .map(o => o.src)""" % (min_w, min_w)
+            urls = pg.evaluate(js)
+        except Exception as e:
+            print(f"    ❌ {type(e).__name__}: {str(e)[:50]}")
+        b.close()
+    # 去重保序
+    seen, uniq = set(), []
+    for u in urls:
+        if u not in seen:
+            seen.add(u)
+            uniq.append(u)
+    return uniq[:limit], title
+
+
+def frame_quality(path):
+    """★ 画面质量：亮度 / 对比 / 谱斜率 / 是否退化"""
+    from PIL import Image
+    import core.visual_learn as vl
+    a = np.asarray(Image.open(path).convert("L"), dtype=np.float64) / 255.0
+    return {"bright": float(a.mean()), "contrast": float(a.std()),
+            "alpha": float(vl.radial_psd_slope(a))}

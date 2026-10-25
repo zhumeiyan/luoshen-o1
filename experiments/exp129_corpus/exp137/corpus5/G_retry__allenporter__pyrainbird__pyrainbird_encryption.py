@@ -1,1 +1,145 @@
-IiIiTGlicmFyaWVzIHJlbGF0ZWQgdG8gZW5jb2RpbmcgYW5kIGRlY29kaW5nIHJlcXVlc3RzLiIiIgoKaW1wb3J0IGVudW0KaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IHN5cwppbXBvcnQgdGltZQpmcm9tIHR5cGluZyBpbXBvcnQgQW55Cgpmcm9tIENyeXB0byBpbXBvcnQgUmFuZG9tCmZyb20gQ3J5cHRvLkNpcGhlciBpbXBvcnQgQUVTCmZyb20gQ3J5cHRvLkhhc2ggaW1wb3J0IFNIQTI1NgoKZnJvbSAuZXhjZXB0aW9ucyBpbXBvcnQgKAogICAgUmFpbmJpcmRBcGlFeGNlcHRpb24sCiAgICBSYWluYmlyZEF1dGhFeGNlcHRpb24sCiAgICBSYWluYmlyZERldmljZUJ1c3lFeGNlcHRpb24sCikKCkJMT0NLX1NJWkUgPSAxNgpJTlRFUlJVUFQgPSAiXHgwMCIKUEFEID0gIlx4MDAiCgoKY2xhc3MgRXJyb3JDb2RlKGVudW0uSW50RW51bSk6CiAgICAiIiJFcnJvciBjb2RlcyBmcm9tIHRoZSBkZXZpY2UuIiIiCgogICAgQ09NTUFORF9OT1RfU1VQUE9SVEVEID0gMAogICAgQkFEX0xFTkdUSCA9IDEKICAgIElOQ09NUEFUSUJMRV9EQVRBID0gMgogICAgQ0hFQ0tTVU1fRVJST1IgPSAzCiAgICBVTktOT1dOID0gNAogICAgTUVUT0RfTk9UX1NVUFBPUlRFRCA9IC0zMjYwMQogICAgTE9DS09VVF9BQ1RJVkUgPSAtMzIwMDEKICAgIENPTlRST0xMRVJfQlVTWSA9IC0zMjAwMgoKCmRlZiBfYWRkX3BhZGRpbmcoZGF0YTogc3RyKSAtPiBzdHI6CiAgICBwYWRfbGVuID0gKEJMT0NLX1NJWkUgLSBsZW4oZGF0YSkgJSBCTE9DS19TSVpFKSAlIEJMT0NLX1NJWkUKICAgIHJldHVybiBkYXRhICsgKFBBRCAqIHBhZF9sZW4pCgoKZGVmIGRlY3J5cHQoZW5jcnlwdGVkX2RhdGEsIGRlY3J5cHRfa2V5KToKICAgIGl2ID0gYnl0ZXMoZW5jcnlwdGVkX2RhdGFbMzI6NDhdKQogICAgZW5jcnlwdGVkX2RhdGEgPSBieXRlcyhlbmNyeXB0ZWRfZGF0YVs0OCA6IGxlbihlbmNyeXB0ZWRfZGF0YSldKQoKICAgIG0gPSBTSEEyNTYubmV3KCkKICAgIG0udXBkYXRlKHRvX2J5dGVzKGRlY3J5cHRfa2V5KSkKCiAgICBzeW1tZXRyaWNfa2V5ID0gbS5kaWdlc3QoKQogICAgc3ltbWV0cmljX2tleSA9IHN5bW1ldHJpY19rZXlbOjMyXQoKICAgIGFlc19kZWNyeXB0b3IgPSBBRVMubmV3KHN5bW1ldHJpY19rZXksIEFFUy5NT0RFX0NCQywgaXYpCiAgICByZXR1cm4gYWVzX2RlY3J5cHRvci5kZWNyeXB0KGVuY3J5cHRlZF9kYXRhKQoKCmRlZiBlbmNyeXB0KGRhdGEsIGVuY3J5cHRrZXkpOgogICAgbSA9IFNIQTI1Ni5uZXcoKQogICAgbS51cGRhdGUodG9fYnl0ZXMoZW5jcnlwdGtleSkpCiAgICBiID0gbS5kaWdlc3QoKQogICAgaXYgPSBSYW5kb20ubmV3KCkucmVhZCgxNikKICAgIGMgPSB0b19ieXRlcyhfYWRkX3BhZGRpbmcoZGF0YSkpCiAgICBtID0gU0hBMjU2Lm5ldygpCiAgICBtLnVwZGF0ZSh0b19ieXRlcyhkYXRhKSkKICAgIGIyID0gbS5kaWdlc3QoKQoKICAgIGVhc19lbmNyeXB0b3IgPSBBRVMubmV3KGIsIEFFUy5NT0RFX0NCQywgaXYpCiAgICBlbmNyeXB0ZWRkYXRhID0gZWFzX2VuY3J5cHRvci5lbmNyeXB0KGMpCiAgICByZXR1cm4gYjIgKyBpdiArIGVuY3J5cHRlZGRhdGEKCgpkZWYgdG9fYnl0ZXMoc3RyaW5nKToKICAgIHJldHVybiB0b19ieXRlc19vbGQoc3RyaW5nKSBpZiBzeXMudmVyc2lvbl9pbmZvIDwgKDMsIDApIGVsc2UgYnl0ZXMoc3RyaW5nLCAiVVRGLTgiKQoKCmRlZiB0b19ieXRlc19vbGQoc3RyaW5nKToKICAgIHJldHVybiBieXRlcyhzdHJpbmcuZW5jb2RlKCJVVEYtOCIpKQoKCmRlZiBfcmVxdWVzdF9pZCgpIC0+IGZsb2F0OgogICAgIiIiUmV0dXJuIGEgdW5pcXVlIHJlcXVlc3QgSUQgYmFzZWQgb24gdGhlIGN1cnJlbnQgdGltZS4iIiIKICAgIHJldHVybiB0aW1lLnRpbWUoKQoKCmNsYXNzIFBheWxvYWRDb2RlcjoKICAgICIiIlBheWxvYWRDb2RlciBob2xkcyBlbmNvZGluZy9kZWNvZGluZyBpbmZvcm1hdGlvbiBmb3IgdGhlIGNsaWVudC4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgcGFzc3dvcmQ6IHN0ciB8IE5vbmUsIGxvZ2dlcjogbG9nZ2luZy5Mb2dnZXIpOgogICAgICAgICIiIkluaXRpYWxpemUgUmFpbmJpcmRTZXNzaW9uLiIiIgogICAgICAgIHNlbGYuX3Bhc3N3b3JkID0gcGFzc3dvcmQKICAgICAgICBzZWxmLl9sb2dnZXIgPSBsb2dnZXIKCiAgICBkZWYgZW5jb2RlX2NvbW1hbmQoc2VsZiwgbWV0aG9kOiBzdHIsIHBhcmFtczogZGljdFtzdHIsIEFueV0pIC0+IHN0cjoKICAgICAgICAiIiJFbmNvZGUgYSByZXF1ZXN0IHBheWxvYWQuIiIiCiAgICAgICAgcmVxdWVzdF9pZCA9IF9yZXF1ZXN0X2lkKCkKICAgICAgICBkYXRhID0gewogICAgICAgICAgICAiaWQiOiByZXF1ZXN0X2lkLAogICAgICAgICAgICAianNvbnJwYyI6ICIyLjAiLAogICAgICAgICAgICAibWV0aG9kIjogbWV0aG9kLAogICAgICAgICAgICAicGFyYW1zIjogcGFyYW1zLAogICAgICAgIH0KICAgICAgICBzZW5kX2RhdGEgPSBqc29uLmR1bXBzKGRhdGEpCiAgICAgICAgc2VsZi5fbG9nZ2VyLmRlYnVnKCJSZXF1ZXN0OiAlcyIsIHNlbmRfZGF0YSkKICAgICAgICBpZiBzZWxmLl9wYXNzd29yZCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gc2VuZF9kYXRhCiAgICAgICAgcmV0dXJuIGVuY3J5cHQoc2VuZF9kYXRhLCBzZWxmLl9wYXNzd29yZCkKCiAgICBkZWYgZGVjb2RlX2NvbW1hbmQoc2VsZiwgY29udGVudDogYnl0ZXMpIC0+IHN0ciB8IGRpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIkRlY29kZSBhIHJlc3BvbnNlIHBheWxvYWQuIiIiCiAgICAgICAgaWYgc2VsZi5fcGFzc3dvcmQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGRlY3J5cHRlZF9kYXRhID0gKAogICAgICAgICAgICAgICAgZGVjcnlwdChjb250ZW50LCBzZWxmLl9wYXNzd29yZCkKICAgICAgICAgICAgICAgIC5kZWNvZGUoIlVURi04IikKICAgICAgICAgICAgICAgIC5yc3RyaXAoIlx4MTAiKQogICAgICAgICAgICAgICAgLnJzdHJpcCgiXHgwYSIpCiAgICAgICAgICAgICAgICAucnN0cmlwKCJceDAwIikKICAgICAgICAgICAgICAgIC5yc3RyaXAoKQogICAgICAgICAgICApCiAgICAgICAgICAgIGNvbnRlbnQgPSBkZWNyeXB0ZWRfZGF0YQogICAgICAgIHNlbGYuX2xvZ2dlci5kZWJ1ZyhmIlJlc3BvbnNlOiB7Y29udGVudCFyfSIpCiAgICAgICAgcmVzcG9uc2UgPSBqc29uLmxvYWRzKGNvbnRlbnQpCiAgICAgICAgaWYgZXJyb3IgOj0gcmVzcG9uc2UuZ2V0KCJlcnJvciIpOgogICAgICAgICAgICBtc2cgPSBbIkVycm9yIGZyb20gY29udHJvbGxlciJdCiAgICAgICAgICAgIGNvZGUgPSBlcnJvci5nZXQoImNvZGUiKQogICAgICAgICAgICBtZXNzYWdlID0gZXJyb3IuZ2V0KCJtZXNzYWdlIiwgIiIpCiAgICAgICAgICAgIGlmIGNvZGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBFcnJvckNvZGUoY29kZSkKICAgICAgICAgICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICAgICAgICAgIHZhbHVlID0gRXJyb3JDb2RlLlVOS05PV04KICAgICAgICAgICAgICAgIG1zZy5hcHBlbmQoZiJDb2RlOiB7dmFsdWUhc30oe2NvZGV9KSIpCiAgICAgICAgICAgIGlmIG1lc3NhZ2U6CiAgICAgICAgICAgICAgICBtc2cuYXBwZW5kKGYiTWVzc2FnZToge21lc3NhZ2V9IikKICAgICAgICAgICAgIiwgIi5qb2luKG1zZykKICAgICAgICAgICAgc2VsZi5fbG9nZ2VyLmRlYnVnKCJFcnJvciBmcm9tIGNvbnRyb2xsZXI6ICVzIiwgbXNnKQogICAgICAgICAgICBpZiBjb2RlID09IEVycm9yQ29kZS5DT05UUk9MTEVSX0JVU1k6CiAgICAgICAgICAgICAgICByYWlzZSBSYWluYmlyZERldmljZUJ1c3lFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgZiJSYWluIEJpcmQgcmVzcG9uZGVkIHdpdGggYW4gZXJyb3I6IHttZXNzYWdlfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgaWYgY29kZSA9PSBFcnJvckNvZGUuTE9DS09VVF9BQ1RJVkU6CiAgICAgICAgICAgICAgICByYWlzZSBSYWluYmlyZEF1dGhFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgZiJSYWluIEJpcmQgcmVzcG9uZGVkIHdpdGggYW4gZXJyb3I6IHttZXNzYWdlfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgcmFpc2UgUmFpbmJpcmRBcGlFeGNlcHRpb24oZiJSYWluIEJpcmQgcmVzcG9uZGVkIHdpdGggYW4gZXJyb3I6IHttZXNzYWdlfSIpCiAgICAgICAgcmV0dXJuIHJlc3BvbnNlWyJyZXN1bHQiXQo=
+"""Libraries related to encoding and decoding requests."""
+
+import enum
+import json
+import logging
+import sys
+import time
+from typing import Any
+
+from Crypto import Random
+from Crypto.Cipher import AES
+from Crypto.Hash import SHA256
+
+from .exceptions import (
+    RainbirdApiException,
+    RainbirdAuthException,
+    RainbirdDeviceBusyException,
+)
+
+BLOCK_SIZE = 16
+INTERRUPT = "\x00"
+PAD = "\x00"
+
+
+class ErrorCode(enum.IntEnum):
+    """Error codes from the device."""
+
+    COMMAND_NOT_SUPPORTED = 0
+    BAD_LENGTH = 1
+    INCOMPATIBLE_DATA = 2
+    CHECKSUM_ERROR = 3
+    UNKNOWN = 4
+    METOD_NOT_SUPPORTED = -32601
+    LOCKOUT_ACTIVE = -32001
+    CONTROLLER_BUSY = -32002
+
+
+def _add_padding(data: str) -> str:
+    pad_len = (BLOCK_SIZE - len(data) % BLOCK_SIZE) % BLOCK_SIZE
+    return data + (PAD * pad_len)
+
+
+def decrypt(encrypted_data, decrypt_key):
+    iv = bytes(encrypted_data[32:48])
+    encrypted_data = bytes(encrypted_data[48 : len(encrypted_data)])
+
+    m = SHA256.new()
+    m.update(to_bytes(decrypt_key))
+
+    symmetric_key = m.digest()
+    symmetric_key = symmetric_key[:32]
+
+    aes_decryptor = AES.new(symmetric_key, AES.MODE_CBC, iv)
+    return aes_decryptor.decrypt(encrypted_data)
+
+
+def encrypt(data, encryptkey):
+    m = SHA256.new()
+    m.update(to_bytes(encryptkey))
+    b = m.digest()
+    iv = Random.new().read(16)
+    c = to_bytes(_add_padding(data))
+    m = SHA256.new()
+    m.update(to_bytes(data))
+    b2 = m.digest()
+
+    eas_encryptor = AES.new(b, AES.MODE_CBC, iv)
+    encrypteddata = eas_encryptor.encrypt(c)
+    return b2 + iv + encrypteddata
+
+
+def to_bytes(string):
+    return to_bytes_old(string) if sys.version_info < (3, 0) else bytes(string, "UTF-8")
+
+
+def to_bytes_old(string):
+    return bytes(string.encode("UTF-8"))
+
+
+def _request_id() -> float:
+    """Return a unique request ID based on the current time."""
+    return time.time()
+
+
+class PayloadCoder:
+    """PayloadCoder holds encoding/decoding information for the client."""
+
+    def __init__(self, password: str | None, logger: logging.Logger):
+        """Initialize RainbirdSession."""
+        self._password = password
+        self._logger = logger
+
+    def encode_command(self, method: str, params: dict[str, Any]) -> str:
+        """Encode a request payload."""
+        request_id = _request_id()
+        data = {
+            "id": request_id,
+            "jsonrpc": "2.0",
+            "method": method,
+            "params": params,
+        }
+        send_data = json.dumps(data)
+        self._logger.debug("Request: %s", send_data)
+        if self._password is None:
+            return send_data
+        return encrypt(send_data, self._password)
+
+    def decode_command(self, content: bytes) -> str | dict[str, Any]:
+        """Decode a response payload."""
+        if self._password is not None:
+            decrypted_data = (
+                decrypt(content, self._password)
+                .decode("UTF-8")
+                .rstrip("\x10")
+                .rstrip("\x0a")
+                .rstrip("\x00")
+                .rstrip()
+            )
+            content = decrypted_data
+        self._logger.debug(f"Response: {content!r}")
+        response = json.loads(content)
+        if error := response.get("error"):
+            msg = ["Error from controller"]
+            code = error.get("code")
+            message = error.get("message", "")
+            if code is not None:
+                try:
+                    value = ErrorCode(code)
+                except ValueError:
+                    value = ErrorCode.UNKNOWN
+                msg.append(f"Code: {value!s}({code})")
+            if message:
+                msg.append(f"Message: {message}")
+            ", ".join(msg)
+            self._logger.debug("Error from controller: %s", msg)
+            if code == ErrorCode.CONTROLLER_BUSY:
+                raise RainbirdDeviceBusyException(
+                    f"Rain Bird responded with an error: {message}"
+                )
+            if code == ErrorCode.LOCKOUT_ACTIVE:
+                raise RainbirdAuthException(
+                    f"Rain Bird responded with an error: {message}"
+                )
+            raise RainbirdApiException(f"Rain Bird responded with an error: {message}")
+        return response["result"]

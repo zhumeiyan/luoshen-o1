@@ -1,1 +1,64 @@
-aW1wb3J0IG9zLCBzaWduYWwsIHRpbWUsIHJhbmRvbQoKY2xhc3MgQm9keToKICAgICIiIuecn+Wunue7huiDnui6q+S9k++8muavj+S4que7huiDnuaYr+S4gOS4quecn+WunuWtkOi/m+eoi+OAgiIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG4pOgogICAgICAgIHNlbGYuY2VsbHMgPSB7fQogICAgICAgIGZvciBpIGluIHJhbmdlKG4pOgogICAgICAgICAgICBzZWxmLmNlbGxzW2ldID0gc2VsZi5fc3Bhd24oKQogICAgICAgIHNlbGYubmV4dF9pZCA9IG4KICAgICAgICBzZWxmLmRlYWRfaWRzID0gW10KICAgICAgICBzZWxmLmJpcnRocyA9IDAKICAgICAgICBzZWxmLmRlYXRocyA9IDAKCiAgICBkZWYgX3NwYXduKHNlbGYpOgogICAgICAgIHBpZCA9IG9zLmZvcmsoKQogICAgICAgIGlmIHBpZCA9PSAwOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDYwKQogICAgICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICAgICAgb3MuX2V4aXQoMCkKICAgICAgICBzZWxmLmJpcnRocyA9IGdldGF0dHIoc2VsZiwgJ2JpcnRocycsIDApICsgMQogICAgICAgIHJldHVybiBwaWQKCiAgICBkZWYga2lsbChzZWxmLCBjaWQpOgogICAgICAgICIiIuecn+WunuaNn+S8pO+8mlNJR0tJTEzjgILov5Tlm57mmK/lkKbnnJ/nmoTmrbvkuobjgIIiIiIKICAgICAgICBwaWQgPSBzZWxmLmNlbGxzLmdldChjaWQpCiAgICAgICAgaWYgcGlkIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIHRyeToKICAgICAgICAgICAgb3Mua2lsbChwaWQsIHNpZ25hbC5TSUdLSUxMKQogICAgICAgIGV4Y2VwdCBQcm9jZXNzTG9va3VwRXJyb3I6CiAgICAgICAgICAgIHBhc3MKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBpZDIsIHN0ID0gb3Mud2FpdHBpZChwaWQsIDApCiAgICAgICAgICAgIHNpZyA9IG9zLldURVJNU0lHKHN0KSBpZiBvcy5XSUZTSUdOQUxFRChzdCkgZWxzZSBOb25lCiAgICAgICAgZXhjZXB0IENoaWxkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICBzaWcgPSA5CiAgICAgICAgZGVsIHNlbGYuY2VsbHNbY2lkXQogICAgICAgIHNlbGYuZGVhdGhzICs9IDEKICAgICAgICBzZWxmLmRlYWRfaWRzLmFwcGVuZChjaWQpCiAgICAgICAgcmV0dXJuIHNpZyA9PSA5CgogICAgZGVmIGhlYWwoc2VsZiwgY2lkKToKICAgICAgICAiIiLnnJ/lrp7kv67lpI3vvJpmb3JrIOS4gOS4quaWsOe7huiDnuOAgiIiIgogICAgICAgIGlmIGNpZCBpbiBzZWxmLmNlbGxzOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBzZWxmLmNlbGxzW2NpZF0gPSBzZWxmLl9zcGF3bigpCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgYWxpdmUoc2VsZik6CiAgICAgICAgcmV0dXJuIGxlbihzZWxmLmNlbGxzKQoKICAgIGRlZiByZWFwKHNlbGYpOgogICAgICAgICIiIuWbnuaUtuWFqOmDqO+8jOS4jeeVmeWDteWwuOOAgiIiIgogICAgICAgIGZvciBjaWQsIHBpZCBpbiBsaXN0KHNlbGYuY2VsbHMuaXRlbXMoKSk6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIG9zLmtpbGwocGlkLCBzaWduYWwuU0lHS0lMTCkKICAgICAgICAgICAgZXhjZXB0IFByb2Nlc3NMb29rdXBFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgb3Mud2FpdHBpZChwaWQsIDApCiAgICAgICAgICAgIGV4Y2VwdCBDaGlsZFByb2Nlc3NFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICBzZWxmLmNlbGxzLmNsZWFyKCkK
+import os, signal, time, random
+
+class Body:
+    """真实细胞身体：每个细胞是一个真实子进程。"""
+    def __init__(self, n):
+        self.cells = {}
+        for i in range(n):
+            self.cells[i] = self._spawn()
+        self.next_id = n
+        self.dead_ids = []
+        self.births = 0
+        self.deaths = 0
+
+    def _spawn(self):
+        pid = os.fork()
+        if pid == 0:
+            try:
+                time.sleep(60)
+            finally:
+                os._exit(0)
+        self.births = getattr(self, 'births', 0) + 1
+        return pid
+
+    def kill(self, cid):
+        """真实损伤：SIGKILL。返回是否真的死了。"""
+        pid = self.cells.get(cid)
+        if pid is None:
+            return False
+        try:
+            os.kill(pid, signal.SIGKILL)
+        except ProcessLookupError:
+            pass
+        try:
+            pid2, st = os.waitpid(pid, 0)
+            sig = os.WTERMSIG(st) if os.WIFSIGNALED(st) else None
+        except ChildProcessError:
+            sig = 9
+        del self.cells[cid]
+        self.deaths += 1
+        self.dead_ids.append(cid)
+        return sig == 9
+
+    def heal(self, cid):
+        """真实修复：fork 一个新细胞。"""
+        if cid in self.cells:
+            return False
+        self.cells[cid] = self._spawn()
+        return True
+
+    def alive(self):
+        return len(self.cells)
+
+    def reap(self):
+        """回收全部，不留僵尸。"""
+        for cid, pid in list(self.cells.items()):
+            try:
+                os.kill(pid, signal.SIGKILL)
+            except ProcessLookupError:
+                pass
+            try:
+                os.waitpid(pid, 0)
+            except ChildProcessError:
+                pass
+        self.cells.clear()

@@ -1,1 +1,263 @@
-IiIi5LiA6L2u5a6M5pW05beh5qOA77ya6K+75pen5b+r54WnIC0+IOaKk+aWsCAtPiDmoKHpqowgLT4gZGlmZiAtPiDokL3nm5jjgIJDSSDmr48gMiDliIbpkp/osIPnlKjkuIDmrKHjgIIKCuS6p+eJqe+8iOWdh+WcqCBkYXRhL++8ie+8mgotIHF1b3RhLmpzb24gICAgICDmnIDmlrDlv6vnhafvvIjnnIvmnb/mlbDmja7mupDvvIzlhoXlrrnnoa7lrprmgKfvvIzkuI3lkKvmipPlj5bml7bpl7TmiLPvvIkKLSBxdW90YV9wcmV2Lmpzb24g5LiK5LiA6L2u5b+r54Wn77yIZGlmZiDln7rlh4bvvIkKLSBldmVudHMuanNvbiAgICAg5pys6L2u5Y+Y5YyW5LqL5Lu277yI6YCa55+l5qih5Z2X55qE6L6T5YWl77yJCi0gbWV0YS5qc29uICAgICAgIOaKk+WPluaXtumXtC/mlrDpspzluqblhYPkv6Hmga/vvIjnnIvmnb/mmL7npLrnlKjvvIkKCkNJIOmbhuaIkO+8mgotIOmikeeOh+aKpOagj++8mkdJVEhVQl9BQ1RJT05TIOS4i+i3neS4iui9ruajgOafpSA8IDAuNzUg5YiG6ZKf55u05o6l6Lez6L+HCiAg77yIMSDliIbpkp8gY3JvbiDkuI4gc2NoZWR1bGUg5YWc5bqV56Kw5pKe5pe25YWc5bqV77ybMC43NSDogIzpnZ4gMS4wIOaYr+S4uuWQuOaUtuiwg+W6puaKluWKqO+8iQotIOaPkOS6pOWGs+etlu+8muWGheWuueacieWPmCAvIOmmlui9riAvIOW/g+i3s+i2heaXtigyMG1pbikg5omN6K6pIENJIOaPkOS6pO+8jAogIOe7k+aenOWGmSBHSVRIVUJfT1VUUFVUIOeahCBjb21taXQg5Y+Y6YeP77yM6YG/5YWN57qv5pe26Ze05oiz5o+Q5Lqk54GM54iG5LuT5bqTCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCBzaHV0aWwKaW1wb3J0IHN5cwpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZSwgdGltZXpvbmUsIHRpbWVkZWx0YQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmZyb20gLiBpbXBvcnQgZmV0Y2ggYXMgZmV0Y2hfbW9kCmZyb20gLmRpZmYgaW1wb3J0IGRpZmZfc25hcHNob3RzCgpIS1QgPSB0aW1lem9uZSh0aW1lZGVsdGEoaG91cnM9OCkpCkRBVEEgPSBQYXRoKCJkYXRhIikKTUlOX0lOVEVSVkFMX01JTiA9IDAuNzUgICMg6aKR546H5oqk5qCP77ya5aSW6YOo6Kem5Y+R5Zmo5oqW5YqoL+mHjeWPoOaXtueahOS4i+mZkO+8iOaUr+aMgSAxIOWIhumSnyBjcm9u77yJCkhFQVJUQkVBVF9NSU4gPSAyMApTVEFMRV9BQ0NFUFRfTUlOID0gMzAgICAgIyDmlbDmja7lhrvnu5PotoXov4fmraTliIbpkp/mlbDliJnmlL7lvIPljZXosIPnuqbmnZ/vvIzpgb/lhY3msLjkuYXlgZzmkYYKCgpkZWYgX3JlYWRfanNvbihwYXRoOiBQYXRoKSAtPiBkaWN0IHwgTm9uZToKICAgICIiIuivu+S4jeWHuuadpeS4gOW+i+W9k+S9nOOAjOayoeacieS4iuS4gOi9ruOAjeOAgui/meS6m+aWh+S7tuS8muiiq+W5tuWPkei9ruasoeaPkOS6pOOAgeS5n+WPr+iDveiiqwogICAg5Lq65bel57yW6L6R77yb6Iul5Zyo5q2k5oqb5byC5bi477yM5bSp5rqD54K55Zyo5YaZ5pawIG1ldGEuanNvbiDkuYvliY3vvIzmlofku7blj4jooqvmj5DkuqTlm57ku5PlupPvvIwKICAgIOS8muW9ouaIkOavj+i9ruW/heW0qeeahOiHquaIkeW7tue7reS4reavkuaAge+8iOWPquiDveS6uuW3peS/ruS7k+W6k++8ieOAgiIiIgogICAgdHJ5OgogICAgICAgIGRhdGEgPSBqc29uLmxvYWRzKHBhdGgucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgICAgIHJldHVybiBkYXRhIGlmIGlzaW5zdGFuY2UoZGF0YSwgZGljdCkgZWxzZSBOb25lCiAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZTogICMgbm9xYTogQkxFMDAxCiAgICAgICAgcHJpbnQoZiJXQVJOIHtwYXRofSDor7vlj5blpLHotKUoe2V9Ke+8jOaMieaXoOWOhuWPsuWkhOeQhiIpCiAgICAgICAgcmV0dXJuIE5vbmUKCgpISVNUT1JZX0NPT0xET1dOX0ggPSA2CgoKZGVmIGhpc3RvcnlfZnJlc2goZXZlbnRzOiBsaXN0W2RpY3RdLCBleGlzdGluZ19saW5lczogbGlzdFtzdHJdLAogICAgICAgICAgICAgICAgICBub3c6IGRhdGV0aW1lKSAtPiBsaXN0W2RpY3RdOgogICAgIiIi5pS+5Y+36KeE5b6L57uf6K6h55qE5pWw5o2u56ev57Sv77ya5Y+q5rKJ5reA5pS+5Y+35LqL5Lu277yIcXVvdGFfb3Blbi9uZXdfZGF0Ze+8ie+8jAogICAg5LiU5ZCM5LiA5qC85a2QIDYg5bCP5pe25YaF5Y+q6K6w5LiA5qyh4oCU4oCU5a6Y5pa55o6l5Y+j6LSf6L295Z2H6KGh5oqW5Yqo5Lya6K6p5ZCM5LiA5qC8CiAgICDlj43lpI0g5ruh4oaU5pyJIOaoqui3s++8jOijuOiusOW9leS4gOWkqeiDveeBjOS4iuS4h+ihjOWZquWjsOOAgiIiIgogICAgIyDlj6rlm57nnIvlhrfljbTnqpflj6PlhoXnmoTooYzvvJrljp/mnaXmjInlm7rlrprooYzmlbDmiKrmlq3vvIzpmpDlvI/ogKblkIjjgIzlip7kuovlpITDl+aXpeacn+OAjeaAu+aVsO+8jAogICAgIyDnqpflj6PkuIDlj5jlpKflhrfljbTliKTlrprlsLHkvJrpnZnpu5jlpLHmlYjlubblj43ov4fmnaXliqDpgJ/mlofku7bohqjog4AKICAgIGN1dG9mZiA9IChub3cgLSB0aW1lZGVsdGEoaG91cnM9SElTVE9SWV9DT09MRE9XTl9IICogMikpLmlzb2Zvcm1hdCgpCiAgICByZWNlbnQ6IGRpY3Rbc3RyLCBzdHJdID0ge30KICAgIGZvciBsbiBpbiBleGlzdGluZ19saW5lc1stMjAwMDA6XToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHIgPSBqc29uLmxvYWRzKGxuKQogICAgICAgICAgICBpZiBzdHIoclsiZGV0ZWN0ZWRfYXQiXSkgPj0gY3V0b2ZmOgogICAgICAgICAgICAgICAgcmVjZW50W2Yne3JbIm9mZmljZSJdfXx7clsiZGF0ZSJdfXx7clsic2Vzc2lvbiJdfSddID0gclsiZGV0ZWN0ZWRfYXQiXQogICAgICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgS2V5RXJyb3IsIFR5cGVFcnJvcik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICBvdXQgPSBbXQogICAgZm9yIGUgaW4gZXZlbnRzOgogICAgICAgIGlmIGVbInR5cGUiXSBub3QgaW4gKCJxdW90YV9vcGVuIiwgIm5ld19kYXRlIik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbGFzdCA9IHJlY2VudC5nZXQoZid7ZVsib2ZmaWNlIl19fHtlWyJkYXRlIl19fHtlWyJzZXNzaW9uIl19JykKICAgICAgICBpZiBsYXN0OgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBpZiAobm93IC0gZGF0ZXRpbWUuZnJvbWlzb2Zvcm1hdChsYXN0KSkudG90YWxfc2Vjb25kcygpIFwKICAgICAgICAgICAgICAgICAgICAgICAgPCBISVNUT1JZX0NPT0xET1dOX0ggKiAzNjAwOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yKToKICAgICAgICAgICAgICAgIHBhc3MgICMg5Z2P5pe26Ze05oiz5b2T5L2c5peg5Ya35Y2077yb57ud5LiN6IO96K6p5LiA6KGM6ISP5Y6G5Y+y5q+P6L2u54K45o6J55uR5o6nCiAgICAgICAgb3V0LmFwcGVuZChlKQogICAgcmV0dXJuIG91dAoKCmRlZiBfYXBwZW5kX2hpc3RvcnkoZXZlbnRzOiBsaXN0W2RpY3RdLCBub3c6IGRhdGV0aW1lLAogICAgICAgICAgICAgICAgICAgIHNyYzogc3RyIHwgTm9uZSA9IE5vbmUpIC0+IE5vbmU6CiAgICBocCA9IERBVEEgLyAiaGlzdG9yeS5qc29ubCIKICAgIGV4aXN0aW5nID0gaHAucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpLnNwbGl0bGluZXMoKSBpZiBocC5leGlzdHMoKSBlbHNlIFtdCiAgICBmcmVzaCA9IGhpc3RvcnlfZnJlc2goZXZlbnRzLCBleGlzdGluZywgbm93KQogICAgaWYgZnJlc2g6CiAgICAgICAgd2l0aCBvcGVuKGhwLCAiYSIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgIGZvciBlIGluIGZyZXNoOgogICAgICAgICAgICAgICAgIyBzcmM95a6Y5pa5IGxhc3RVcGRhdGVUaW1l77yaZGV0ZWN0ZWRfYXQg5piv5oiR5Lus55qE6L2u6K+i5pe25Yi777yMOTYlIOiQveWcqAogICAgICAgICAgICAgICAgIyDlgbbmlbDliIbpkp/vvIgybWluIOe9keagvOmHj+WMlu+8ie+8jOWBmuWIhumSn+e6p+aUvuWPt+inhOW+i+WIhuaekOW/hemhu+eUqOWumOaWueiHquW3seeahOaXtumXtAogICAgICAgICAgICAgICAgZi53cml0ZShqc29uLmR1bXBzKGRpY3QoZSwgc3JjPXNyYykgaWYgc3JjIGVsc2UgZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UpICsgIlxuIikKICAgICAgICBwcmludChmImhpc3RvcnkgK3tsZW4oZnJlc2gpfSBvcGVuIGV2ZW50cyIpCgoKZGVmIF93cml0ZV9tZXRhKG5vdzogZGF0ZXRpbWUsIHNuYXA6IGRpY3QsIHN0YWxlOiBib29sID0gRmFsc2UsCiAgICAgICAgICAgICAgICBldmVudHM6IGludCA9IDAsIG5vdGlmeV93b3J0aHk6IGludCA9IDApIC0+IE5vbmU6CiAgICAiIiLlhpnmlrDpspzluqblhYPkv6Hmga/jgIJzdGFsZT1UcnVlIOihqOekuuacrOi9ruaKk+WIsOaXp+iKgueCueOAgeaVsOaNruacquaOqOi/m++8jOS9huajgOafpQogICAg56Gu5a6e5Y+R55Sf5LqG77yb6K+l6L2u5piv5ZCm55yf55qE6JC95bqT55Sx5b+D6Lez5Yaz5a6a77yI6KeBIG1haW4g6YeM55qEIGhlYXJ0YmVhdF9kdWXvvInvvIwKICAgIOi/meagt+OAjOacrOermeajgOafpeOAjeS4jeS8muWBnOWcqOS4iuasoeaVsOaNruaOqOi/m+eahOaXtuWIu+iAjOivr+aKpea7nuWQjuOAgiIiIgogICAgIyDnlKggLmdldCDogIzpnZ7noazkuIvmoIfvvJpza2lwIOWIhuaUr+S8oOi/m+adpeeahOaYr+acque7jyB2YWxpZGF0ZV9zbmFwc2hvdCDnmoTml6flv6vnhacKICAgIG9wZW5fY2VsbHMgPSBzdW0oMSBmb3Igb2ZmIGluIHNuYXAuZ2V0KCJxdW90YSIsIHt9KS52YWx1ZXMoKQogICAgICAgICAgICAgICAgICAgICBmb3IgZCBpbiBvZmYudmFsdWVzKCkKICAgICAgICAgICAgICAgICAgICAgaWYgZC5nZXQoIlIiKSBpbiAoImciLCAieSIpIG9yIGQuZ2V0KCJLIikgaW4gKCJnIiwgInkiKSkKICAgIChEQVRBIC8gIm1ldGEuanNvbiIpLndyaXRlX3RleHQoanNvbi5kdW1wcyh7CiAgICAgICAgImxhc3RfY2hlY2siOiBub3cuaXNvZm9ybWF0KHRpbWVzcGVjPSJzZWNvbmRzIiksCiAgICAgICAgInNvdXJjZV91cGRhdGVfdGltZSI6IHNuYXAuZ2V0KCJzb3VyY2VfdXBkYXRlX3RpbWUiKSwKICAgICAgICAib3Blbl9jZWxscyI6IG9wZW5fY2VsbHMsCiAgICAgICAgImV2ZW50c190aGlzX3J1biI6IGV2ZW50cywKICAgICAgICAibm90aWZ5X3dvcnRoeSI6IG5vdGlmeV93b3J0aHksCiAgICAgICAgInN0YWxlX25vZGVfc2tpcHBlZCI6IHN0YWxlLAogICAgfSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSksIGVuY29kaW5nPSJ1dGYtOCIpCgoKQ09NTUlUX1NQQUNJTkdfTUlOID0gMy4wCgoKTUFTU19FVkVOVFMgPSA1CgoKZGVmIHNob3VsZF9jb21taXQoY29udGVudF9jaGFuZ2VkOiBib29sLCBub3RpZnlfd29ydGh5OiBpbnQsCiAgICAgICAgICAgICAgICAgIHNpbmNlX2NvbW1pdF9taW46IGZsb2F0LCBoZWFydGJlYXRfZHVlOiBib29sLAogICAgICAgICAgICAgICAgICBmaXJzdF9ydW46IGJvb2wsIGV2ZW50c19uOiBpbnQgPSAwKSAtPiBib29sOgogICAgIiIi5pys6L2u6KaB5LiN6KaB6K6pIENJIOaPkOS6pOaVsOaNruOAgjEg5YiG6ZKfIGNyb24g5ZCO5LiN6IO95q+P6L2u6YO95o+Q5Lqk77yaCiAgICDmr4/ova7mj5DkuqQgPSDmr4/lpKkgMTQ0MCBjb21taXQgKyDmr4/liIbpkp/kuIDmrKEgUGFnZXMg5p6E5bu677yI5a6Y5pa56L2v6ZmQIDEwIOasoS/lsI/ml7bvvInvvIwKICAgIOi/mOS8muS7peavj+WIhumSn+S4gOasoeeahOmikeeOh+inpuWPkSBqc0RlbGl2ciDnvJPlrZjmuIXnkIbjgIIKCiAgICDmma7pgJrlhoXlrrnlj5jljJbmjIkgQ09NTUlUX1NQQUNJTkdfTUlOIOmXtOmalOaUkuaJueaPkOS6pO+8iOeci+adv+aYvuekuuacgOWkmuaZmiAzIOWIhumSn++8ieOAggogICAg5L2G5pyJ5pS+5Y+35LqL5Lu277yIbm90aWZ5X3dvcnRoeT4w77yJ5b+F6aG756uL5Y2z5o+Q5Lqk4oCU4oCU6YCa55+l5LiA5pem5Y+R5Ye677yM5Ya35Y2054q25oCBCiAgICBub3RpZnlfc3RhdGUuanNvbiDlv4Xpobvpmo/kuYvokL3lupPvvIzlkKbliJnkuIvkuIDova7ph43mlrAgZGlmZiDlh7rlkIzkuIDmibnkuovku7bjgIEKICAgIOWGt+WNtOWPiOS4jeWcqO+8jOS8muWvueiuoumYheiAhemHjeWkjei9sOeCuOOAgiIiIgogICAgaWYgZmlyc3RfcnVuIG9yIGhlYXJ0YmVhdF9kdWU6CiAgICAgICAgcmV0dXJuIFRydWUKICAgIGlmIG5vdCBjb250ZW50X2NoYW5nZWQ6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAjIOWkp+aJuemHj+WPmOWKqO+8iOWQqyBxdW90YV9nb25l77yJ5Lmf56uL5Y2z5o+Q5Lqk77ya5oqi5Y+36auY5bOw44CM5Y+35rKh5LqG44CN5ZKM44CM5pS+5Y+344CNCiAgICAjIOWvueeci+adv+eUqOaIt+WQjOagt+mHjeimge+8jOaUkuaJuSAzIOWIhumSn+S8muiuqeS6uuebr+edgOaXqeiiq+aKouWujOeahOWPt+eZvemrmOWFtAogICAgcmV0dXJuIChub3RpZnlfd29ydGh5ID4gMCBvciBldmVudHNfbiA+PSBNQVNTX0VWRU5UUwogICAgICAgICAgICBvciBzaW5jZV9jb21taXRfbWluID49IENPTU1JVF9TUEFDSU5HX01JTikKCgpkZWYgc2hvdWxkX2FjY2VwdChwcmV2X3RzOiBmbG9hdCwgbmV3X3RzOiBmbG9hdCwKICAgICAgICAgICAgICAgICAgZnJvemVuX21pbjogZmxvYXQpIC0+IHR1cGxlW2Jvb2wsIHN0cl06CiAgICAiIiLmnKzova7mipPliLDnmoTlv6vnhafopoHkuI3opoHmjqXlj5fvvJ/ov5Tlm54gKOaYr+WQpuaOpeWPlywg5Y6f5Zug56CBKeOAggoKICAgIOaKveaIkOeLrOeri+WHveaVsOaYr+S4uuS6huiDveiiq+a1i+ivleebtOaOpeiwg+eUqOKAlOKAlOWIpOWumumAu+i+keWGheiBlOWcqCBtYWluIOmHjOaXtu+8jAogICAg5rWL6K+V5Y+q6IO95oqE5LiA6YGN5p2h5Lu277yM6YKj56eN5b2x5a2Q5a6e546w5pS55Z2P5LqG5Lmf5LiN5Lya57qi44CCCiAgICDljp/lm6DnoIHvvJphZHZhbmNlZD3mlbDmja7mjqjov5sgLyBzdGFsZS12YWx2ZT3lhrvnu5PlpKrkuYXmlL7ooYzlr7npvZAgLwogICAgbm8tYmFzZWxpbmU95peg5Z+657q/IC8gb2xkZXI95pen6IqC54K5IC8gc2FtZT3mlbDmja7mnKrmjqjov5sKICAgICIiIgogICAgaWYgbm90IHByZXZfdHMgb3Igbm90IG5ld190czoKICAgICAgICByZXR1cm4gVHJ1ZSwgIm5vLWJhc2VsaW5lIgogICAgaWYgbmV3X3RzID4gcHJldl90czoKICAgICAgICByZXR1cm4gVHJ1ZSwgImFkdmFuY2VkIgogICAgaWYgZnJvemVuX21pbiA+PSBTVEFMRV9BQ0NFUFRfTUlOOgogICAgICAgIHJldHVybiBUcnVlLCAic3RhbGUtdmFsdmUiCiAgICByZXR1cm4gRmFsc2UsICJzYW1lIiBpZiBuZXdfdHMgPT0gcHJldl90cyBlbHNlICJvbGRlciIKCgpkZWYgX3NldF9vdXRwdXQoY29tbWl0OiBib29sKSAtPiBOb25lOgogICAgb3V0ID0gb3MuZW52aXJvbi5nZXQoIkdJVEhVQl9PVVRQVVQiKQogICAgaWYgb3V0OgogICAgICAgIHdpdGggb3BlbihvdXQsICJhIiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShmImNvbW1pdD17J3RydWUnIGlmIGNvbW1pdCBlbHNlICdmYWxzZSd9XG4iKQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGlmIGhhc2F0dHIoc3lzLnN0ZG91dCwgInJlY29uZmlndXJlIik6CiAgICAgICAgc3lzLnN0ZG91dC5yZWNvbmZpZ3VyZShlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKQogICAgREFUQS5ta2RpcihleGlzdF9vaz1UcnVlKQogICAgbm93ID0gZGF0ZXRpbWUubm93KEhLVCkKCiAgICBwcmV2X21ldGEgPSBfcmVhZF9qc29uKERBVEEgLyAibWV0YS5qc29uIikgb3Ige30KICAgIGlmIG9zLmVudmlyb24uZ2V0KCJHSVRIVUJfQUNUSU9OUyIpIGFuZCBwcmV2X21ldGEuZ2V0KCJsYXN0X2NoZWNrIik6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBlbGFwc2VkID0gKG5vdyAtIGRhdGV0aW1lLmZyb21pc29mb3JtYXQoCiAgICAgICAgICAgICAgICBwcmV2X21ldGFbImxhc3RfY2hlY2siXSkpLnRvdGFsX3NlY29uZHMoKSAvIDYwCiAgICAgICAgZXhjZXB0IChUeXBlRXJyb3IsIFZhbHVlRXJyb3IpOgogICAgICAgICAgICBlbGFwc2VkID0gZmxvYXQoImluZiIpCiAgICAgICAgaWYgMCA8PSBlbGFwc2VkIDwgTUlOX0lOVEVSVkFMX01JTjoKICAgICAgICAgICAgcHJpbnQoZiJza2lwOiBsYXN0IGNoZWNrIHtlbGFwc2VkOi4xZn1taW4gYWdvICg8IHtNSU5fSU5URVJWQUxfTUlOfW1pbikiKSAgIyBub3FhOiBFNTAxCiAgICAgICAgICAgIF9zZXRfb3V0cHV0KEZhbHNlKQogICAgICAgICAgICByZXR1cm4KCiAgICBxdW90YV9wYXRoID0gREFUQSAvICJxdW90YS5qc29uIgogICAgb2xkID0gX3JlYWRfanNvbihxdW90YV9wYXRoKQogICAgcHJldl90cyA9IGZldGNoX21vZC5zb3VyY2VfdHMob2xkKSBpZiBvbGQgZWxzZSAwLjAKCiAgICBuZXcgPSBmZXRjaF9tb2Qubm9ybWFsaXplKGZldGNoX21vZC5mZXRjaF9yYXcobmV3ZXJfdGhhbj1wcmV2X3RzKSkKICAgIGZldGNoX21vZC52YWxpZGF0ZV9zbmFwc2hvdChuZXcpICAjIOaui+e8uuaVsOaNruWcqOatpOaKm+W8guW4uO+8jOe7neS4jeiQveebmOavkuWMluW/q+eFp+mTvgoKICAgICMg5pWw5o2u5Y+q6L+b5LiN6YCA77ya5a6Y5pa55aSa6IqC54K557yT5a2Y6L+b5bqm5LiN5ZCM77yI5a6e5rWL5Lik6IqC54K555u45L2N5beuIDYvOSDliIbpkp/kuqTmm7/vvInvvIwKICAgICMg5omT5Yiw5pen6IqC54K55pe26Iul54Wn5Y2V5YWo5pS277yM55yL5p2/5Lya5Zyo5Lik5Liq5pe26Ze054K555qE54q25oCB6Ze05Y+N5aSN5qiq6Lez77yM6L+Y5Lya5Lqn5Ye6CiAgICAjIOOAjOaXtuWFieWAkua1geOAjeeahOiZmuWBh+aUvuWPty/lhbPpl63kuovku7bjgILkuI3mr5TnjrDmnInmm7TmlrDnmoTkuIDlvovkuKLlvIPjgIIKICAgIG5ld190cyA9IGZldGNoX21vZC5zb3VyY2VfdHMobmV3KQogICAgbm93X3NyYyA9IGZldGNoX21vZC50c19vZihub3cuc3RyZnRpbWUoIiVtLyVkLyVZICVIOiVNOiVTIikpCiAgICBmcm96ZW5fbWluID0gKG5vd19zcmMgLSBwcmV2X3RzKSAvIDYwIGlmIHByZXZfdHMgYW5kIG5vd19zcmMgZWxzZSAwLjAKICAgIGFjY2VwdCwgd2h5ID0gc2hvdWxkX2FjY2VwdChwcmV2X3RzLCBuZXdfdHMsIGZyb3plbl9taW4pCgogICAgIyBDSSDph4wgcHJldl9tZXRhIOadpeiHquS4iuasoeaPkOS6pOeahCBjaGVja291dO+8jOaVhSBsYXN0X2NoZWNrIOi3neS7iiDiiYgg6Led5LiK5qyh5o+Q5LqkCiAgICBzaW5jZV9jb21taXQgPSBmbG9hdCgiaW5mIikKICAgIGlmIHByZXZfbWV0YS5nZXQoImxhc3RfY2hlY2siKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNpbmNlX2NvbW1pdCA9IChub3cgLSBkYXRldGltZS5mcm9taXNvZm9ybWF0KHByZXZfbWV0YVsibGFzdF9jaGVjayJdKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKS50b3RhbF9zZWNvbmRzKCkgLyA2MAogICAgICAgIGV4Y2VwdCAoVHlwZUVycm9yLCBWYWx1ZUVycm9yKToKICAgICAgICAgICAgcGFzcwogICAgIyDlv4Pot7PlkIzmoLfpgILnlKjkuo7jgIzmnKzova7kuI3mm7TmlrDjgI3vvJrlkKbliJnnnIvmnb/nmoTjgIzmnKznq5nmo4Dmn6XjgI3kvJrlgZzlnKjkuIrmrKHmlbDmja7mjqjov5sKICAgICMg55qE5pe25Yi777yM5a6Y5pa55Ya757uT5pe25Lya5oyC5Ye644CM5qOA5p+l5rue5ZCO44CN55qE5YGH6K2m5oql77yI5YW25a6e5q+P5YiG6ZKf6YO95Zyo5qOA5p+l77yJCiAgICBoZWFydGJlYXRfZHVlID0gc2luY2VfY29tbWl0ID49IEhFQVJUQkVBVF9NSU4KCiAgICBpZiBub3QgYWNjZXB0OgogICAgICAgIGxhYmVsID0gIuaVsOaNruacquaOqOi/myIgaWYgd2h5ID09ICJzYW1lIiBlbHNlICLmipPliLDovoPml6foioLngrkiCiAgICAgICAgcHJpbnQoZiJza2lwOiB7bGFiZWx977yIe25ldy5nZXQoJ3NvdXJjZV91cGRhdGVfdGltZScpfSAiCiAgICAgICAgICAgICAgZiI8PSDnjrDmnIkge29sZC5nZXQoJ3NvdXJjZV91cGRhdGVfdGltZScpfe+8ie+8jOacrOi9ruS4jeabtOaWsCIpCiAgICAgICAgX3dyaXRlX21ldGEobm93LCBvbGQsIHN0YWxlPVRydWUpCiAgICAgICAgX3NldF9vdXRwdXQoaGVhcnRiZWF0X2R1ZSkKICAgICAgICByZXR1cm4KCiAgICAjIOWuieWFqOmYgOaUvuihjOeahOaYr+OAjOavlOeOsOacieabtOaXp+OAjeeahOaVsOaNru+8jOWPqueUqOS6jumHjeaWsOWvuem9kOiKgueCue+8jAogICAgIyDnu53kuI3og73mi7/ljrsgZGlmZuKAlOKAlOmCo+ato+aYr+acrOimgea2iOeBreeahOWBh+aUvuWPt+S6i+S7tu+8jOi/mOS8muecn+WPkemAmuefpeOAgeaxoeafk+WOhuWPsue7n+iuoQogICAgcmVhbGlnbl9vbmx5ID0gd2h5ID09ICJzdGFsZS12YWx2ZSIKICAgIGlmIHJlYWxpZ25fb25seToKICAgICAgICBwcmludChmIldBUk4g546w5pyJ5pWw5o2u5bey5Ya757uTIHtmcm96ZW5fbWluOi4wZn0g5YiG6ZKf77yM5pS+6KGM5pys5qyh5oqT5Y+W5Lul6YeN5paw5a+56b2Q6IqC54K5IgogICAgICAgICAgICAgIGYi77yI5pys6L2u5LiN5Lqn5Ye65LqL5Lu244CB5LiN6YCa55+l77yJIikKICAgIGV2ZW50cyA9IFtdIGlmIHJlYWxpZ25fb25seSBlbHNlIGRpZmZfc25hcHNob3RzKG9sZCwgbmV3KQoKICAgIGNvbnRlbnRfY2hhbmdlZCA9IG9sZCBpcyBOb25lIG9yICgKICAgICAgICBvbGQuZ2V0KCJxdW90YSIpICE9IG5ld1sicXVvdGEiXSBvciBvbGQuZ2V0KCJkYXRlcyIpICE9IG5ld1siZGF0ZXMiXSkKICAgIGlmIGNvbnRlbnRfY2hhbmdlZDoKICAgICAgICBpZiBvbGQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNodXRpbC5jb3B5ZmlsZShxdW90YV9wYXRoLCBEQVRBIC8gInF1b3RhX3ByZXYuanNvbiIpCiAgICAgICAgcXVvdGFfcGF0aC53cml0ZV90ZXh0KAogICAgICAgICAgICBqc29uLmR1bXBzKG5ldywgZW5zdXJlX2FzY2lpPUZhbHNlLCBzZXBhcmF0b3JzPSgiLCIsICI6IikpLAogICAgICAgICAgICBlbmNvZGluZz0idXRmLTgiKQoKICAgIF9hcHBlbmRfaGlzdG9yeShldmVudHMsIG5vdywgbmV3LmdldCgic291cmNlX3VwZGF0ZV90aW1lIikpCgogICAgbm93X2lzbyA9IG5vdy5pc29mb3JtYXQodGltZXNwZWM9InNlY29uZHMiKQogICAgKERBVEEgLyAiZXZlbnRzLmpzb24iKS53cml0ZV90ZXh0KAogICAgICAgIGpzb24uZHVtcHMoeyJnZW5lcmF0ZWRfYXQiOiBub3dfaXNvLCAiZXZlbnRzIjogZXZlbnRzfSwKICAgICAgICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpLAogICAgICAgIGVuY29kaW5nPSJ1dGYtOCIpCgogICAgb3Blbl9jZWxscyA9IHN1bSgxIGZvciBvZmYgaW4gbmV3WyJxdW90YSJdLnZhbHVlcygpCiAgICAgICAgICAgICAgICAgICAgIGZvciBkIGluIG9mZi52YWx1ZXMoKSBpZiBkWyJSIl0gaW4gImd5IiBvciBkWyJLIl0gaW4gImd5IikKICAgIG5vdGlmeV93b3J0aHkgPSBzdW0oMSBmb3IgZSBpbiBldmVudHMgaWYgZVsidHlwZSJdIGluICgicXVvdGFfb3BlbiIsICJuZXdfZGF0ZSIpKQogICAgX3dyaXRlX21ldGEobm93LCBuZXcsIHN0YWxlPUZhbHNlLCBldmVudHM9bGVuKGV2ZW50cyksCiAgICAgICAgICAgICAgICBub3RpZnlfd29ydGh5PW5vdGlmeV93b3J0aHkpCgogICAgY29tbWl0ID0gc2hvdWxkX2NvbW1pdChjb250ZW50X2NoYW5nZWQsIG5vdGlmeV93b3J0aHksIHNpbmNlX2NvbW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhcnRiZWF0X2R1ZSwgZmlyc3RfcnVuPW9sZCBpcyBOb25lLAogICAgICAgICAgICAgICAgICAgICAgICAgICBldmVudHNfbj1sZW4oZXZlbnRzKSkKICAgIF9zZXRfb3V0cHV0KGNvbW1pdCkKICAgIHByaW50KGYiT0sgb3Blbl9jZWxscz17b3Blbl9jZWxsc30gZXZlbnRzPXtsZW4oZXZlbnRzKX0gIgogICAgICAgICAgZiJub3RpZnlfd29ydGh5PXtub3RpZnlfd29ydGh5fSBjaGFuZ2VkPXtjb250ZW50X2NoYW5nZWR9IGNvbW1pdD17Y29tbWl0fSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""一轮完整巡检：读旧快照 -> 抓新 -> 校验 -> diff -> 落盘。CI 每 2 分钟调用一次。
+
+产物（均在 data/）：
+- quota.json      最新快照（看板数据源，内容确定性，不含抓取时间戳）
+- quota_prev.json 上一轮快照（diff 基准）
+- events.json     本轮变化事件（通知模块的输入）
+- meta.json       抓取时间/新鲜度元信息（看板显示用）
+
+CI 集成：
+- 频率护栏：GITHUB_ACTIONS 下距上轮检查 < 0.75 分钟直接跳过
+  （1 分钟 cron 与 schedule 兜底碰撞时兜底；0.75 而非 1.0 是为吸收调度抖动）
+- 提交决策：内容有变 / 首轮 / 心跳超时(20min) 才让 CI 提交，
+  结果写 GITHUB_OUTPUT 的 commit 变量，避免纯时间戳提交灌爆仓库
+"""
+
+from __future__ import annotations
+
+import json
+import os
+import shutil
+import sys
+from datetime import datetime, timezone, timedelta
+from pathlib import Path
+
+from . import fetch as fetch_mod
+from .diff import diff_snapshots
+
+HKT = timezone(timedelta(hours=8))
+DATA = Path("data")
+MIN_INTERVAL_MIN = 0.75  # 频率护栏：外部触发器抖动/重叠时的下限（支持 1 分钟 cron）
+HEARTBEAT_MIN = 20
+STALE_ACCEPT_MIN = 30    # 数据冻结超过此分钟数则放弃单调约束，避免永久停摆
+
+
+def _read_json(path: Path) -> dict | None:
+    """读不出来一律当作「没有上一轮」。这些文件会被并发轮次提交、也可能被
+    人工编辑；若在此抛异常，崩溃点在写新 meta.json 之前，文件又被提交回仓库，
+    会形成每轮必崩的自我延续中毒态（只能人工修仓库）。"""
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else None
+    except FileNotFoundError:
+        return None
+    except Exception as e:  # noqa: BLE001
+        print(f"WARN {path} 读取失败({e})，按无历史处理")
+        return None
+
+
+HISTORY_COOLDOWN_H = 6
+
+
+def history_fresh(events: list[dict], existing_lines: list[str],
+                  now: datetime) -> list[dict]:
+    """放号规律统计的数据积累：只沉淀放号事件（quota_open/new_date），
+    且同一格子 6 小时内只记一次——官方接口负载均衡抖动会让同一格
+    反复 满↔有 横跳，裸记录一天能灌上万行噪声。"""
+    # 只回看冷却窗口内的行：原来按固定行数截断，隐式耦合「办事处×日期」总数，
+    # 窗口一变大冷却判定就会静默失效并反过来加速文件膨胀
+    cutoff = (now - timedelta(hours=HISTORY_COOLDOWN_H * 2)).isoformat()
+    recent: dict[str, str] = {}
+    for ln in existing_lines[-20000:]:
+        try:
+            r = json.loads(ln)
+            if str(r["detected_at"]) >= cutoff:
+                recent[f'{r["office"]}|{r["date"]}|{r["session"]}'] = r["detected_at"]
+        except (ValueError, KeyError, TypeError):
+            continue
+    out = []
+    for e in events:
+        if e["type"] not in ("quota_open", "new_date"):
+            continue
+        last = recent.get(f'{e["office"]}|{e["date"]}|{e["session"]}')
+        if last:
+            try:
+                if (now - datetime.fromisoformat(last)).total_seconds() \
+                        < HISTORY_COOLDOWN_H * 3600:
+                    continue
+            except (ValueError, TypeError):
+                pass  # 坏时间戳当作无冷却；绝不能让一行脏历史每轮炸掉监控
+        out.append(e)
+    return out
+
+
+def _append_history(events: list[dict], now: datetime,
+                    src: str | None = None) -> None:
+    hp = DATA / "history.jsonl"
+    existing = hp.read_text(encoding="utf-8").splitlines() if hp.exists() else []
+    fresh = history_fresh(events, existing, now)
+    if fresh:
+        with open(hp, "a", encoding="utf-8") as f:
+            for e in fresh:
+                # src=官方 lastUpdateTime：detected_at 是我们的轮询时刻，96% 落在
+                # 偶数分钟（2min 网格量化），做分钟级放号规律分析必须用官方自己的时间
+                f.write(json.dumps(dict(e, src=src) if src else e,
+                                   ensure_ascii=False) + "\n")
+        print(f"history +{len(fresh)} open events")
+
+
+def _write_meta(now: datetime, snap: dict, stale: bool = False,
+                events: int = 0, notify_worthy: int = 0) -> None:
+    """写新鲜度元信息。stale=True 表示本轮抓到旧节点、数据未推进，但检查
+    确实发生了；该轮是否真的落库由心跳决定（见 main 里的 heartbeat_due），
+    这样「本站检查」不会停在上次数据推进的时刻而误报滞后。"""
+    # 用 .get 而非硬下标：skip 分支传进来的是未经 validate_snapshot 的旧快照
+    open_cells = sum(1 for off in snap.get("quota", {}).values()
+                     for d in off.values()
+                     if d.get("R") in ("g", "y") or d.get("K") in ("g", "y"))
+    (DATA / "meta.json").write_text(json.dumps({
+        "last_check": now.isoformat(timespec="seconds"),
+        "source_update_time": snap.get("source_update_time"),
+        "open_cells": open_cells,
+        "events_this_run": events,
+        "notify_worthy": notify_worthy,
+        "stale_node_skipped": stale,
+    }, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+COMMIT_SPACING_MIN = 3.0
+
+
+MASS_EVENTS = 5
+
+
+def should_commit(content_changed: bool, notify_worthy: int,
+                  since_commit_min: float, heartbeat_due: bool,
+                  first_run: bool, events_n: int = 0) -> bool:
+    """本轮要不要让 CI 提交数据。1 分钟 cron 后不能每轮都提交：
+    每轮提交 = 每天 1440 commit + 每分钟一次 Pages 构建（官方软限 10 次/小时），
+    还会以每分钟一次的频率触发 jsDelivr 缓存清理。
+
+    普通内容变化按 COMMIT_SPACING_MIN 间隔攒批提交（看板显示最多晚 3 分钟）。
+    但有放号事件（notify_worthy>0）必须立即提交——通知一旦发出，冷却状态
+    notify_state.json 必须随之落库，否则下一轮重新 diff 出同一批事件、
+    冷却又不在，会对订阅者重复轰炸。"""
+    if first_run or heartbeat_due:
+        return True
+    if not content_changed:
+        return False
+    # 大批量变动（含 quota_gone）也立即提交：抢号高峰「号没了」和「放号」
+    # 对看板用户同样重要，攒批 3 分钟会让人盯着早被抢完的号白高兴
+    return (notify_worthy > 0 or events_n >= MASS_EVENTS
+            or since_commit_min >= COMMIT_SPACING_MIN)
+
+
+def should_accept(prev_ts: float, new_ts: float,
+                  frozen_min: float) -> tuple[bool, str]:
+    """本轮抓到的快照要不要接受？返回 (是否接受, 原因码)。
+
+    抽成独立函数是为了能被测试直接调用——判定逻辑内联在 main 里时，
+    测试只能抄一遍条件，那种影子实现改坏了也不会红。
+    原因码：advanced=数据推进 / stale-valve=冻结太久放行对齐 /
+    no-baseline=无基线 / older=旧节点 / same=数据未推进
+    """
+    if not prev_ts or not new_ts:
+        return True, "no-baseline"
+    if new_ts > prev_ts:
+        return True, "advanced"
+    if frozen_min >= STALE_ACCEPT_MIN:
+        return True, "stale-valve"
+    return False, "same" if new_ts == prev_ts else "older"
+
+
+def _set_output(commit: bool) -> None:
+    out = os.environ.get("GITHUB_OUTPUT")
+    if out:
+        with open(out, "a", encoding="utf-8") as f:
+            f.write(f"commit={'true' if commit else 'false'}\n")
+
+
+def main() -> None:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    DATA.mkdir(exist_ok=True)
+    now = datetime.now(HKT)
+
+    prev_meta = _read_json(DATA / "meta.json") or {}
+    if os.environ.get("GITHUB_ACTIONS") and prev_meta.get("last_check"):
+        try:
+            elapsed = (now - datetime.fromisoformat(
+                prev_meta["last_check"])).total_seconds() / 60
+        except (TypeError, ValueError):
+            elapsed = float("inf")
+        if 0 <= elapsed < MIN_INTERVAL_MIN:
+            print(f"skip: last check {elapsed:.1f}min ago (< {MIN_INTERVAL_MIN}min)")  # noqa: E501
+            _set_output(False)
+            return
+
+    quota_path = DATA / "quota.json"
+    old = _read_json(quota_path)
+    prev_ts = fetch_mod.source_ts(old) if old else 0.0
+
+    new = fetch_mod.normalize(fetch_mod.fetch_raw(newer_than=prev_ts))
+    fetch_mod.validate_snapshot(new)  # 残缺数据在此抛异常，绝不落盘毒化快照链
+
+    # 数据只进不退：官方多节点缓存进度不同（实测两节点相位差 6/9 分钟交替），
+    # 打到旧节点时若照单全收，看板会在两个时间点的状态间反复横跳，还会产出
+    # 「时光倒流」的虚假放号/关闭事件。不比现有更新的一律丢弃。
+    new_ts = fetch_mod.source_ts(new)
+    now_src = fetch_mod.ts_of(now.strftime("%m/%d/%Y %H:%M:%S"))
+    frozen_min = (now_src - prev_ts) / 60 if prev_ts and now_src else 0.0
+    accept, why = should_accept(prev_ts, new_ts, frozen_min)
+
+    # CI 里 prev_meta 来自上次提交的 checkout，故 last_check 距今 ≈ 距上次提交
+    since_commit = float("inf")
+    if prev_meta.get("last_check"):
+        try:
+            since_commit = (now - datetime.fromisoformat(prev_meta["last_check"])
+                            ).total_seconds() / 60
+        except (TypeError, ValueError):
+            pass
+    # 心跳同样适用于「本轮不更新」：否则看板的「本站检查」会停在上次数据推进
+    # 的时刻，官方冻结时会挂出「检查滞后」的假警报（其实每分钟都在检查）
+    heartbeat_due = since_commit >= HEARTBEAT_MIN
+
+    if not accept:
+        label = "数据未推进" if why == "same" else "抓到较旧节点"
+        print(f"skip: {label}（{new.get('source_update_time')} "
+              f"<= 现有 {old.get('source_update_time')}），本轮不更新")
+        _write_meta(now, old, stale=True)
+        _set_output(heartbeat_due)
+        return
+
+    # 安全阀放行的是「比现有更旧」的数据，只用于重新对齐节点，
+    # 绝不能拿去 diff——那正是本要消灭的假放号事件，还会真发通知、污染历史统计
+    realign_only = why == "stale-valve"
+    if realign_only:
+        print(f"WARN 现有数据已冻结 {frozen_min:.0f} 分钟，放行本次抓取以重新对齐节点"
+              f"（本轮不产出事件、不通知）")
+    events = [] if realign_only else diff_snapshots(old, new)
+
+    content_changed = old is None or (
+        old.get("quota") != new["quota"] or old.get("dates") != new["dates"])
+    if content_changed:
+        if old is not None:
+            shutil.copyfile(quota_path, DATA / "quota_prev.json")
+        quota_path.write_text(
+            json.dumps(new, ensure_ascii=False, separators=(",", ":")),
+            encoding="utf-8")
+
+    _append_history(events, now, new.get("source_update_time"))
+
+    now_iso = now.isoformat(timespec="seconds")
+    (DATA / "events.json").write_text(
+        json.dumps({"generated_at": now_iso, "events": events},
+                   ensure_ascii=False, indent=1),
+        encoding="utf-8")
+
+    open_cells = sum(1 for off in new["quota"].values()
+                     for d in off.values() if d["R"] in "gy" or d["K"] in "gy")
+    notify_worthy = sum(1 for e in events if e["type"] in ("quota_open", "new_date"))
+    _write_meta(now, new, stale=False, events=len(events),
+                notify_worthy=notify_worthy)
+
+    commit = should_commit(content_changed, notify_worthy, since_commit,
+                           heartbeat_due, first_run=old is None,
+                           events_n=len(events))
+    _set_output(commit)
+    print(f"OK open_cells={open_cells} events={len(events)} "
+          f"notify_worthy={notify_worthy} changed={content_changed} commit={commit}")
+
+
+if __name__ == "__main__":
+    main()

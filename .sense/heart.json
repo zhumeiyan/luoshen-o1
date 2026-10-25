@@ -1,1 +1,119 @@
-ewogIm9rIjogewogICLpnZnmga/lv4Pnjocg6JC9IFJFQUwg5Yy66Ze0IjogdHJ1ZSwKICAi6Z2Z5oGvIFNWIOiQvSBSRUFMIOWMuumXtCI6IHRydWUsCiAgIumdmeaBryBFRiDokL0gUkVBTCDljLrpl7QiOiB0cnVlLAogICLpnZnmga8gQ08g6JC9IFJFQUwg5Yy66Ze0IjogdHJ1ZSwKICAi5pyA5aSnIENPIOiQvSBSRUFMIOWMuumXtCI6IHRydWUsCiAgIlZPMm1heCDokL0gUkVBTCDljLrpl7QiOiB0cnVlLAogICLorq3nu4PlkI7pnZnmga9IUiDokL0gUkVBTCDljLrpl7QiOiB0cnVlLAogICLorq3nu4PlkI7pnZnmga9TViDokL0gUkVBTCDljLrpl7QiOiB0cnVlLAogICLorq3nu4PlkI7mnIDlpKdDTyDokL0gUkVBTCDljLrpl7QiOiB0cnVlLAogICLorq3nu4PlkI5WTzJtYXgg6JC9IFJFQUwg5Yy66Ze0IjogdHJ1ZSwKICAi4pGgIOKYheKYhSDlv4Pnjofov4flv6vml7YgQ08g5Y+N6ICM5LiL6ZmN77yI5a2Y5Zyo5pyA5LyY5b+D546H77yJIjogdHJ1ZSwKICAi4pGhIOKYhSDoiJLlvKDmnJ/ooqvljovnvKnmmK/kuLvlm6DvvIjlhYXnm4jlrozmiJDluqbkuIvpmY0+MjAl77yJIjogdHJ1ZSwKICAi4pGiIOKYhSDorq3nu4PlkI7mnIDkvJjlv4Pnjofmm7Tpq5giOiB0cnVlLAogICLikaMg4piFIOmdmeaBr+S+m+mcgOavlCDiiYggMe+8iOS4jeivpee8uuihgO+8iSI6IHRydWUsCiAgIuKRpCDimIXimIUg6auY5b+D546H5L6b6ZyA5q+UIDwgMe+8iOe8uuihgO+8iSI6IHRydWUsCiAgIuKRpSDimIUg5L6b6ZyA5q+U6ZqP5b+D546H5Y2V6LCD5oG25YyW77yIMTkwIOS5i+WQju+8iSI6IHRydWUsCiAgIuKRpiDimIXimIXimIUg57uD5a6M56uL5Yi76KGo546w5LiL6ZmN77yI5LiN5piv5LiK5Y2H77yJIjogdHJ1ZSwKICAi4pGnIOKYheKYheKYhSDlrZjlnKjlu7bov5/nmoTotoXph4/mgaLlpI3ls7DlgLzvvIg+M+WkqeS4lD4w77yJIjogdHJ1ZSwKICAi4pGoIOKYhSDorq3nu4Pnoa7lrp7mj5Dpq5ggVk8ybWF477yI5oGS5a6a5LitID4g5LiN57uD77yJIjogdHJ1ZSwKICAi4pGpIOKYheKYhSDov4fluqborq3nu4PkuI3lpoLpgILluqbvvIjmgZLlrpoyLjAgPCDmgZLlrpoxLjDvvIkiOiB0cnVlLAogICLikaog4piF4piFIOWmguWunuiusOW9le+8muiHquS4u+WbuuWummJhc2Ug5LiN5aaC5oGS5a6aMS4w77yI6L+H5bqm5L+d5a6I77yJIjogdHJ1ZSwKICAi4pGrIOKYheKYhSDlpoLlrp7orrDlvZXvvJroh6rmkJwo5Y2V54K56LSq5b+DKeS5n+ayoei1ou+8iOi/h+aXqemAgOWHuu+8iSI6IHRydWUsCiAgIuKRq2Ig4piF4piFIOWmguWunuiusOW9le+8mui2i+WKv+aQnOe0ouS5n+ayoei1oiI6IHRydWUsCiAgIuKRq2Mg4piF4piF4piFIOagueWboO+8muS4ieenjeiHquS4u+etlueVpeWFqOmDqOi+k+e7meaBkuWumjEuMO+8iOeWsuWKs+i0n+WPjemmiOi/h+W6puS/neWuiO+8iSI6IHRydWUsCiAgIuKRrCDimIXimIUg6L+H5bqm6K6t57uD5pe255ay5Yqz6YC86L+R5Li055WM44CB6YCC5bqU6KKr5oqR5Yi2IjogdHJ1ZSwKICAi4pGtIOKYhSDoh6rkuLvnrZbnlaXoh6rlj5HlvaLmiJDotbfkvI/vvIhzdGQgPiAwLjA177yJIjogdHJ1ZSwKICAi4pGuIOKYheKYhSDlgZzorq0gOTAg5aSpIFZPMm1heCDkuIvpmY3okL0gUkVBTCDljLrpl7QgNX4yNSUiOiB0cnVlLAogICLika5iIOKYhSDnu5PmnoTmgKfpgILlupTmtojpgIDov5zmhaLkuo4gZml0bmVzc++8iOmdnue6v+aAp++8iSI6IHRydWUsCiAgIuKRryDimIXimIUg5ZCM6YCC5bqU5bqm5LiL77yM5pyJ5rCn77yI5omp6IWU77yJ55qEIENPbWF4IOmrmOS6juWKm+mHj++8iOS4jeaJqeiFlO+8iSI6IHRydWUKIH0sCiAic2VkZW50YXJ5IjogewogICJocl9yZXN0IjogNzIuMCwKICAic3ZfcmVzdCI6IDY4LjgwNDg1NDcxODg5NjY2LAogICJjb19yZXN0IjogNC45NTM5NDk1Mzk3NjA1NTk1LAogICJjb19tYXgiOiAyMS4zMjIyNTUyNzkxNDkzNzQsCiAgInZvMm1heCI6IDQ0LjE2NzUyODc5MjUyMzcwNCwKICAib3B0aW1hbF9ociI6IDE5MC40ODA5NjE5MjM4NDc3CiB9LAogInRyYWluZWQiOiB7CiAgImhyX3Jlc3QiOiA0OS4yNzY2NTU2OTE2ODk1NiwKICAic3ZfcmVzdCI6IDExNi45ODAxMTEzNjA3OTA4NiwKICAiY29fbWF4IjogMzIuOTg1NjgyNTEwNTU3OTksCiAgInZvMm1heCI6IDc2LjA1MDEyNTYzODkwNzg2LAogICJvcHRpbWFsX2hyIjogMjExLjYwMzIwNjQxMjgyNTY0CiB9LAogInN0cmF0ZWdpZXMiOiB7CiAgIuKRoCDkuI3nu4PvvIjkuYXlnZDvvIkiOiB7CiAgICJsb2FkIjogMC4wLAogICAiZml0bmVzcyI6IDAuMCwKICAgImZhdGlndWUiOiAwLjAsCiAgICJwZXJmIjogMC4wLAogICAidm8ybWF4IjogNDQuMTY3NTI4NzkyNTIzNzA0LAogICAiZGVsdGEiOiAwLjAKICB9LAogICLikaEg5oGS5a6a5L2OIDAuNSI6IHsKICAgImxvYWQiOiAwLjUsCiAgICJmaXRuZXNzIjogMC4xMjc2NDcyMDAwOTI3MTE4MywKICAgImZhdGlndWUiOiAwLjA4OTk5OTk5OTk5OTk5OTg2LAogICAicGVyZiI6IDAuMDM3NjQ3MjAwMDkyNzExOTcsCiAgICJ2bzJtYXgiOiA0OC4wMDcxMTkzOTc2NDgwMjYsCiAgICJkZWx0YSI6IDMuODM5NTkwNjA1MTI0MzIxNgogIH0sCiAgIuKRoiDmgZLlrprkuK0gMS4wIjogewogICAibG9hZCI6IDEuMCwKICAgImZpdG5lc3MiOiAwLjE5OTcyMDgwMDEzOTA2NzczLAogICAiZmF0aWd1ZSI6IDAuMTc5OTk5OTk5OTk5OTk5NzIsCiAgICJwZXJmIjogMC4wMTk3MjA4MDAxMzkwNjgwMTgsCiAgICJ2bzJtYXgiOiA1MC4xODU1Mzk1OTQ4ODQ0NCwKICAgImRlbHRhIjogNi4wMTgwMTA4MDIzNjA3MzUKICB9LAogICLikaMg5oGS5a6a6auYIDIuMO+8iOi/h+W6pu+8iSI6IHsKICAgImxvYWQiOiAyLjAsCiAgICJmaXRuZXNzIjogMC4xNzcxNDcyMDAwOTI3MTE3LAogICAiZmF0aWd1ZSI6IDAuMzU5OTk5OTk5OTk5OTk5NDMsCiAgICJwZXJmIjogLTAuMTgyODUyNzk5OTA3Mjg3NzMsCiAgICJ2bzJtYXgiOiA0OS41MDQ2NzcyMDIwNTcyOCwKICAgImRlbHRhIjogNS4zMzcxNDg0MDk1MzM1NzYKICB9LAogICLikaQg5oGS5a6aIDEuMznvvIjop6PmnpDmnIDkvJjvvIkiOiB7CiAgICJsb2FkIjogMS4zOSwKICAgImZpdG5lc3MiOiAwLjIxNzM1OTAxNTAyMzA0NTEsCiAgICJmYXRpZ3VlIjogMC4yNTAxOTk5OTk5OTk5OTk1MywKICAgInBlcmYiOiAtMC4wMzI4NDA5ODQ5NzY5NTQ0MjQsCiAgICJ2bzJtYXgiOiA1MC43MTU5Mjc0MTYyOTA5OSwKICAgImRlbHRhIjogNi41NDgzOTg2MjM3NjcyODQKICB9LAogICLikaUg6Ieq5Li75Zu65a6aYmFzZTEuMiI6IHsKICAgImxvYWQiOiAxLjIsCiAgICJmaXRuZXNzIjogMC4xNzUzMjMxNjQxODY1NTEwOCwKICAgImZhdGlndWUiOiAwLjE0MDU4MTkzNjg0ODIyNDU2LAogICAicGVyZiI6IDAuMDM0NzQxMjI3MzM4MzI2NTIsCiAgICJ2bzJtYXgiOiA0OS40NDk1ODAzMjIwODgsCiAgICJkZWx0YSI6IDUuMjgyMDUxNTI5NTY0Mjk5CiAgfSwKICAi4pGmIOiHquS4uyvoh6rmkJzlvLrluqYiOiB7CiAgICJsb2FkIjogMS4wOTk5OTk5OTk5OTk5OTk5LAogICAiZml0bmVzcyI6IDAuMTU5NTIwOTE4NDA2MDMxNjQsCiAgICJmYXRpZ3VlIjogMC4xMzI2OTY5NzczODAxOTA2LAogICAicGVyZiI6IDAuMDI2ODIzOTQxMDI1ODQxMDQsCiAgICJ2bzJtYXgiOiA0OC45NzE4Nzg2MzU4MDE2LAogICAiZGVsdGEiOiA0LjgwNDM0OTg0MzI3Nzg5NzUKICB9LAogICLikacg6Ieq5Li7K+i2i+WKv+aQnOe0oiI6IHsKICAgImxvYWQiOiAwLjk0OTk5OTk5OTk5OTk5OTgsCiAgICJmaXRuZXNzIjogMC4xNDcxMjMzOTg2MzI1OTQzMywKICAgImZhdGlndWUiOiAwLjExOTk2MDA0MjkyMjMxNDM4LAogICAicGVyZiI6IDAuMDI3MTYzMzU1NzEwMjc5OTQ2LAogICAidm8ybWF4IjogNDguNTk2NzQ0NzYxOTg4NjQ2LAogICAiZGVsdGEiOiA0LjQyOTIxNTk2OTQ2NDk0MQogIH0KIH0sCiAic3VwZXJjb21wZW5zYXRpb24iOiB7CiAgImltbWVkaWF0ZSI6IC0wLjA0OSwKICAicGVha19kYXkiOiAxMSwKICAicGVhayI6IDAuMDA2ODgyMjg0NjIzNjYwODA4NgogfQp9
+{
+ "ok": {
+  "静息心率 落 REAL 区间": true,
+  "静息 SV 落 REAL 区间": true,
+  "静息 EF 落 REAL 区间": true,
+  "静息 CO 落 REAL 区间": true,
+  "最大 CO 落 REAL 区间": true,
+  "VO2max 落 REAL 区间": true,
+  "训练后静息HR 落 REAL 区间": true,
+  "训练后静息SV 落 REAL 区间": true,
+  "训练后最大CO 落 REAL 区间": true,
+  "训练后VO2max 落 REAL 区间": true,
+  "① ★★ 心率过快时 CO 反而下降（存在最优心率）": true,
+  "② ★ 舒张期被压缩是主因（充盈完成度下降>20%）": true,
+  "③ ★ 训练后最优心率更高": true,
+  "④ ★ 静息供需比 ≈ 1（不该缺血）": true,
+  "⑤ ★★ 高心率供需比 < 1（缺血）": true,
+  "⑥ ★ 供需比随心率单调恶化（190 之后）": true,
+  "⑦ ★★★ 练完立刻表现下降（不是上升）": true,
+  "⑧ ★★★ 存在延迟的超量恢复峰值（>3天且>0）": true,
+  "⑨ ★ 训练确实提高 VO2max（恒定中 > 不练）": true,
+  "⑩ ★★ 过度训练不如适度（恒定2.0 < 恒定1.0）": true,
+  "⑪ ★★ 如实记录：自主固定base 不如恒定1.0（过度保守）": true,
+  "⑫ ★★ 如实记录：自搜(单点贪心)也没赢（过早退出）": true,
+  "⑫b ★★ 如实记录：趋势搜索也没赢": true,
+  "⑫c ★★★ 根因：三种自主策略全部输给恒定1.0（疲劳负反馈过度保守）": true,
+  "⑬ ★★ 过度训练时疲劳逼近临界、适应被抑制": true,
+  "⑭ ★ 自主策略自发形成起伏（std > 0.05）": true,
+  "⑮ ★★ 停训 90 天 VO2max 下降落 REAL 区间 5~25%": true,
+  "⑮b ★ 结构性适应消退远慢于 fitness（非线性）": true,
+  "⑯ ★★ 同适应度下，有氧（扩腔）的 COmax 高于力量（不扩腔）": true
+ },
+ "sedentary": {
+  "hr_rest": 72.0,
+  "sv_rest": 68.80485471889666,
+  "co_rest": 4.9539495397605595,
+  "co_max": 21.322255279149374,
+  "vo2max": 44.167528792523704,
+  "optimal_hr": 190.4809619238477
+ },
+ "trained": {
+  "hr_rest": 49.27665569168956,
+  "sv_rest": 116.98011136079086,
+  "co_max": 32.98568251055799,
+  "vo2max": 76.05012563890786,
+  "optimal_hr": 211.60320641282564
+ },
+ "strategies": {
+  "① 不练（久坐）": {
+   "load": 0.0,
+   "fitness": 0.0,
+   "fatigue": 0.0,
+   "perf": 0.0,
+   "vo2max": 44.167528792523704,
+   "delta": 0.0
+  },
+  "② 恒定低 0.5": {
+   "load": 0.5,
+   "fitness": 0.12764720009271183,
+   "fatigue": 0.08999999999999986,
+   "perf": 0.03764720009271197,
+   "vo2max": 48.007119397648026,
+   "delta": 3.8395906051243216
+  },
+  "③ 恒定中 1.0": {
+   "load": 1.0,
+   "fitness": 0.19972080013906773,
+   "fatigue": 0.17999999999999972,
+   "perf": 0.019720800139068018,
+   "vo2max": 50.18553959488444,
+   "delta": 6.018010802360735
+  },
+  "④ 恒定高 2.0（过度）": {
+   "load": 2.0,
+   "fitness": 0.1771472000927117,
+   "fatigue": 0.35999999999999943,
+   "perf": -0.18285279990728773,
+   "vo2max": 49.50467720205728,
+   "delta": 5.337148409533576
+  },
+  "⑤ 恒定 1.39（解析最优）": {
+   "load": 1.39,
+   "fitness": 0.2173590150230451,
+   "fatigue": 0.25019999999999953,
+   "perf": -0.032840984976954424,
+   "vo2max": 50.71592741629099,
+   "delta": 6.548398623767284
+  },
+  "⑥ 自主固定base1.2": {
+   "load": 1.2,
+   "fitness": 0.17532316418655108,
+   "fatigue": 0.14058193684822456,
+   "perf": 0.03474122733832652,
+   "vo2max": 49.449580322088,
+   "delta": 5.282051529564299
+  },
+  "⑦ 自主+自搜强度": {
+   "load": 1.0999999999999999,
+   "fitness": 0.15952091840603164,
+   "fatigue": 0.1326969773801906,
+   "perf": 0.02682394102584104,
+   "vo2max": 48.9718786358016,
+   "delta": 4.8043498432778975
+  },
+  "⑧ 自主+趋势搜索": {
+   "load": 0.9499999999999998,
+   "fitness": 0.14712339863259433,
+   "fatigue": 0.11996004292231438,
+   "perf": 0.027163355710279946,
+   "vo2max": 48.596744761988646,
+   "delta": 4.429215969464941
+  }
+ },
+ "supercompensation": {
+  "immediate": -0.049,
+  "peak_day": 11,
+  "peak": 0.0068822846236608086
+ }
+}

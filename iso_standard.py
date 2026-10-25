@@ -1,1 +1,77 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi55yfwrflm73pmYXmoIflh4bvvJpJU08gOTI0MS0zMDAg57O75YiXIC8gSVNPIDE1MDA4IC8gSVNPLUNJRSAxMTY2NCAvIElUVS1SIEJUCuWFs+mUruWPkeeOsO+8muWbvemZheagh+WHhumHjOacieS4gOexu+OAkOeUqOinkuW6puWumuS5ieOAke+8jOS4jeaYr+eUqOWDj+e0oOOAggoiIiIKaW1wb3J0IG1hdGgsIGpzb24KCiMgLS0tLS0tLS0tLSDmoIflh4blupPvvJrosIHlrprnmoTjgIHlrprnmoTmmK/ku4DkuYjljZXkvY0gLS0tLS0tLS0tLQpTVEQgPSBbCiAjICjmoIflh4blj7csIOWFqOensCwg5a+56LGhLCDlrprkuYnnmoTph48sIOWNleS9jeexu+Weiywg5aeU5ZGY5LyaLCDniYjmnKwsIOadg+WogeaApykKICgiSVNPIDkyNDEtMzAyIiwgIueUteWtkOinhuinieaYvuekuuWZqCDmnK/or60iLCAi5YWo6YOo5pi+56S6IiwgIuacr+ivre+8iOWFieW6pi/oibLluqYv5Yeg5L2VL+inhuinie+8iSIsICLlrprkuYkiLCAiSVNPL1RDIDE1OS9TQyA0IiwgIjIwMDgiLCAi5p6B6auYIiksCiAoIklTTyA5MjQxLTMwMyIsICLnlLXlrZDop4bop4nmmL7npLrlmagg6KaB5rGCIiwgIuWFqOmDqOaYvuekuiIsICLlm77lg4/otKjph4/vvJrkuq7luqYv5a+55q+U5bqmL+WPjeWwhC/oibLluqYv5Yeg5L2VIiwgIuaAp+iDveinhOiMgyjmioDmnK/ml6DlhbMpIiwgIklTTy9UQyAxNTkvU0MgNCIsICIyMDExKDIwMjLnoa7orqQpIiwgIuaegemrmCIpLAogKCJJU08gOTI0MS0zMDQiLCAi55So5oi35oCn6IO95rWL6K+V5pa55rOVIiwgIuWFqOmDqOaYvuekuiIsICLlpoLkvZXnlKjkurrlgZrmtYvor5UiLCAi5pa55rOVIiwgIklTTy9UQyAxNTkvU0MgNCIsICIyMDA4KDIwMjTnoa7orqQpIiwgIuaegemrmCIpLAogKCJJU08gOTI0MS0zMDUiLCAi5YWJ5a2m5a6e6aqM5a6k5rWL6K+V5pa55rOVIiwgIuWFqOmDqOaYvuekuiIsICLmgI7kuYjmtYvvvIgxODPpobXvvIkiLCAi5pa55rOVIiwgIklTTy9UQyAxNTkvU0MgNCIsICIyMDA4KDIwMjTnoa7orqQpIiwgIuaegemrmCIpLAogKCJJU08gOTI0MS0zMDciLCAi5YiG5p6Q5LiO56ym5ZCI5oCn5rWL6K+V5pa55rOVIiwgIuWFqOmDqOaYvuekuiIsICLliKTlrprnrKblkIjkuI7lkKYiLCAi5pa55rOVIiwgIklTTy9UQyAxNTkvU0MgNCIsICIyMDA4IiwgIuaegemrmCIpLAogKCJJU08gOTI0MS0xNzEiLCAi6L2v5Lu25peg6Zqc56KNIiwgIui9r+S7tiIsICLmnIDlub/ms5vouqvkvZMv5oSf5a6YL+iupOefpeiDveWKm+iAhSIsICLopoHmsYIr5oyH5Y2XIiwgIklTTy9UQyAxNTkvU0MgNCIsICIyMDI1KOesrDLniYgpIiwgIuaegemrmCIpLAogKCJJU08gMTUwMDgiLCAi6L2m6L296KeG6KeJ5ZGI546wIOinhOiMg+S4jua1i+ivlSIsICLovablhoXliqjmgIHkv6Hmga8iLCAi5a2X56ym6auY5bqmIDIwJyjmjqjojZApLzEyJyjmnIDkvY4pIiwgIuOAkOinkuW6puOAkSIsICJJU08vVEMgMjIvU0MgMzkiLCAiMjAxNygyMDI156Gu6K6kKSIsICLmnoHpq5giKSwKICgiSVNPIDE1MDA4IiwgIui9pui9veinhuinieWRiOeOsCDop4TojIPkuI7mtYvor5UiLCAi6L2m5YaF5Yqo5oCB5L+h5oGvIiwgIuWvueavlOW6piDml6UzOjEg5aScNToxIOebtOWwhOmYs+WFiTI6MSIsICLmr5TlgLwiLCAiSVNPL1RDIDIyL1NDIDM5IiwgIjIwMTciLCAi5p6B6auYIiksCiAoIklTTy9DSUUgMTE2NjQtNSIsICLoibLluqblraYgQ0lFIDE5NzYgTCp1KnYqIC8gdSd2JyIsICLoh6rlj5HlhYnmmL7npLrnrYkiLCAi6Imy5beu6K6h566X5pa55byPIiwgIuaVsOWtpuWumuS5iSIsICJDSUUiLCAiMjAyNCIsICLmnoHpq5giKSwKICgiSVRVLVIgQlQuMjAyMCIsICLotoXpq5jmuIXnlLXop4Yg5Y+C5pWw5YC8IiwgIlVIRCDoioLnm67kuqTmjaIiLCAi5LiJ5Y6f6ImyIHh5OiBSLjcwOC8uMjkyIEcuMTcwLy43OTcgQi4xMzEvLjA0NiIsICLoibLluqblnZDmoIciLCAiSVRVLVIiLCAiMjAxNSIsICLmnoHpq5giKSwKICgiSVRVLVIgQlQuMjEwMCIsICJIRFIg55S16KeGIOWbvuWDj+WPguaVsCIsICJIRFIg6IqC55uu5Lqk5o2iIiwgIlBRL0hMR++8jOWzsOWAvOKJpTEwMDAgY2QvbcKy77yM6buR4omkMC4wMDUiLCAi5Lyg6YCS5Ye95pWwK+S6ruW6piIsICJJVFUtUiIsICIyMDE2IiwgIuaegemrmCIpLApdCiMg5a+554Wn77ya5Y6C5ZWG6KeE6IyD55So55qE5piv5LuA5LmI5Y2V5L2NClZFTkRPUiA9IFsKICgiQXBwbGUgSElHIiwgICI0NCBwdCIsICAi6K6+5aSH5Y2V5L2NKDFwdD0xLzE2MyBpbmNoKSIsICLmnoHpq5giKSwKICgiTWF0ZXJpYWwgMyIsICI0OCBkcCIsICAi6K6+5aSH5Y2V5L2NKDFkcD0xLzE2MCBpbmNoKSIsICLmnoHpq5giKSwKICgiV0NBRyAyLjIiLCAgICIyNC80NCBDU1MgcHgiLCAi6K6+5aSH5Y2V5L2NKDFweD0xLzk2IGluY2gpIiwgIuaegemrmCIpLAogKCJNaWNyb3NvZnQiLCAgIjd+OSBtbSIsICLniannkIbljZXkvY0iLCAi5p6B6auYIiksCl0KCk1NX1BFUl9ERUdfUkVUSU5BID0gMC4yODgKCmRlZiBhcmNtaW5fdG9fcHgoYXJjbWluLCBwcGQpOgogICAgcmV0dXJuIGFyY21pbi82MC4wICogcHBkCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj09PSDkuIDjgIHnnJ/lm73pmYXmoIflh4bvvIhJU08vSUVDL0NJRS9JVFXvvIzpnZ7ljoLllYbvvIk9PT0iKQogICAgZm9yIHMgaW4gU1REOgogICAgICAgIHByaW50KGYiICB7c1swXTo8MTZ9IHtzWzJdOjw4fSB7c1szXTo8Mzh9IFt7c1s0XX1dIHtzWzZdfSIpCgogICAgcHJpbnQoIlxuPT09IOS6jOOAgeWFs+mUru+8muWbvemZheagh+WHhumHjOacieS4gOexu+OAkOeUqOinkuW6puWumuS5ieOAkT09PSIpCiAgICBwcmludCgiICBJU08gMTUwMDg6MjAxNyAg5a2X56ym6auY5bqmICDmjqjojZAgMjAnICDmnIDkvY4gMTInICAg4oaQIOW8p+WIhu+8jOS4juiuvuWkh+aXoOWFsyIpCiAgICBwcmludCgiICDlr7nmr5TljoLllYbop4TojIPvvJo0NHB0IC8gNDhkcCAvIDI0cHggICAgICAgICAgICAgICAgIOKGkCDorr7lpIfljZXkvY3vvIzkuI7nnLznnZvml6DlhbMiKQoKICAgIHByaW50KCJcbj09PSDkuInjgIFJU08gMTUwMDgg55qEIDEyJyDlnKjlkITorr7lpIfkuIrnrYnkuo7lpJrlsJHlg4/ntKAgPT09IikKICAgIHJvd3MgPSBqc29uLmxvYWQob3Blbigi5Y+C5pWw5bqTL+iuvuWkh+iwseezuy5qc29uIikpCiAgICBzZWVuPXNldCgpOyBvdXQ9W10KICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgaWYgclsi5ZCN56ewIl0gaW4gc2VlbjogY29udGludWUKICAgICAgICBzZWVuLmFkZChyWyLlkI3np7AiXSkKICAgICAgICBweCA9IGFyY21pbl90b19weCgxMiwgclsi5YOP57Sg5q+P5bqmIl0pCiAgICAgICAgb3V0LmFwcGVuZCgoclsi5ZCN56ewIl0sIHJbIuWDj+e0oOavj+W6piJdLCBweCwgcHgvMykpICAjIOS4reaWh+aMiSAzcHgg5LiA6KGs57q/5Lyw566XCiAgICBmb3IgbixwcGQscHgsY2prIGluIHNvcnRlZChvdXQsa2V5PWxhbWJkYSB4Oi14WzFdKToKICAgICAgICBmbGFnID0gIuKchSIgaWYgcHg+PTEyIGVsc2UgKCLimqAiIGlmIHB4Pj05IGVsc2UgIuKdjCIpCiAgICAgICAgcHJpbnQoZiIgIHtuOjwyMn0ge3BwZDo+NC4wZn1weC/luqYgIDEyJz17cHg6NS4xZn1weCAge2ZsYWd9IikKCiAgICBwcmludCgiXG49PT0g5Zub44CBSVNPIDkyNDEtMzAzIOiHquW3seaJv+iupOeahOmAgueUqOiMg+WbtCA9PT0iKQogICAgcHJpbnQoIiAg5Y6f5paHOuOAji4uLnVzZXJzIHdpdGggbm9ybWFsIG9yIGFkanVzdGVkLXRvLW5vcm1hbCBleWVzaWdodOOAjyIpCiAgICBwcmludCgiICDljp/mloc644CO5pys5qCH5YeG5bm25pyq5raJ5Y+K5q6L6Zqc5Lq65aOr55qE5peg6Zqc56KN6Zeu6aKY44CPIikKICAgIHByaW50KCIgIOKGkiDlm73pmYXmoIflh4boh6rlt7Hlo7DmmI7vvJrlroPmnI3liqHnmoTmmK/jgJDop4blipvmraPluLjmiJbnn6vmraPliLDmraPluLjjgJHpgqPnvqTkuroiKQogICAgcHJpbnQoIiAg4oaSIOi/meato+aYr+S9oOivtOeahOOAjuWFrOe6puaVsOOAj++8jOiAjOS4lOWGmeWcqOagh+WHhuato+aWh+mHjCIpCgogICAgcHJpbnQoIlxuPT09IOS6lOOAgeiJsuWfn+imhueblu+8iElUVS1SIOS4ieWOn+iJsiB2cyDoh6rnhLbvvIk9PT0iKQogICAgIyDkuIrkuIDova7nrpfov4fvvJroh6rnhLbpqazouYTlvaIgMC4zMTU177yMc1JHQiAwLjExMjEgPSAzNS41JQogICAgZGVmIHRyaV9hcmVhKHApOgogICAgICAgICh4MSx5MSksKHgyLHkyKSwoeDMseTMpPXAKICAgICAgICByZXR1cm4gMC41KmFicyh4MSooeTIteTMpK3gyKih5My15MSkreDMqKHkxLXkyKSkKICAgIHNyZ2I9WygwLjY0LDAuMzMpLCgwLjMwLDAuNjApLCgwLjE1LDAuMDYpXQogICAgYnQyMDIwPVsoMC43MDgsMC4yOTIpLCgwLjE3MCwwLjc5NyksKDAuMTMxLDAuMDQ2KV0KICAgIE5BVD0wLjMxNTUKICAgIHByaW50KGYiICBzUkdCICAgIHt0cmlfYXJlYShzcmdiKTouNGZ9ICDopobnm5boh6rnhLYge3RyaV9hcmVhKHNyZ2IpL05BVCoxMDA6LjFmfSUiKQogICAgcHJpbnQoZiIgIEJULjIwMjAge3RyaV9hcmVhKGJ0MjAyMCk6LjRmfSAg6KaG55uW6Ieq54S2IHt0cmlfYXJlYShidDIwMjApL05BVCoxMDA6LjFmfSUiKQogICAgcHJpbnQoZiIgIEJULjIwMjAg5pivIHNSR0Ig55qEIHt0cmlfYXJlYShidDIwMjApL3RyaV9hcmVhKHNyZ2IpOi4yZn0g5YCNIikKCiAgICBqc29uLmR1bXAoZGljdCjmoIflh4Y9U1RELCDljoLllYY9VkVORE9SLAogICAgICAgICAgICAgICAgICAgaXNvMTUwMDhfcHg9e246cm91bmQocCwyKSBmb3IgbixfLHAsXyBpbiBvdXR9KSwKICAgICAgICAgICAgICBvcGVuKCLlj4LmlbDlupMv5Zu96ZmF5qCH5YeGLmpzb24iLCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludCgiXG7lt7LlrZgg5Y+C5pWw5bqTL+WbvemZheagh+WHhi5qc29uIikK
+# -*- coding: utf-8 -*-
+"""真·国际标准：ISO 9241-300 系列 / ISO 15008 / ISO-CIE 11664 / ITU-R BT
+关键发现：国际标准里有一类【用角度定义】，不是用像素。
+"""
+import math, json
+
+# ---------- 标准库：谁定的、定的是什么单位 ----------
+STD = [
+ # (标准号, 全称, 对象, 定义的量, 单位类型, 委员会, 版本, 权威性)
+ ("ISO 9241-302", "电子视觉显示器 术语", "全部显示", "术语（光度/色度/几何/视觉）", "定义", "ISO/TC 159/SC 4", "2008", "极高"),
+ ("ISO 9241-303", "电子视觉显示器 要求", "全部显示", "图像质量：亮度/对比度/反射/色度/几何", "性能规范(技术无关)", "ISO/TC 159/SC 4", "2011(2022确认)", "极高"),
+ ("ISO 9241-304", "用户性能测试方法", "全部显示", "如何用人做测试", "方法", "ISO/TC 159/SC 4", "2008(2024确认)", "极高"),
+ ("ISO 9241-305", "光学实验室测试方法", "全部显示", "怎么测（183页）", "方法", "ISO/TC 159/SC 4", "2008(2024确认)", "极高"),
+ ("ISO 9241-307", "分析与符合性测试方法", "全部显示", "判定符合与否", "方法", "ISO/TC 159/SC 4", "2008", "极高"),
+ ("ISO 9241-171", "软件无障碍", "软件", "最广泛身体/感官/认知能力者", "要求+指南", "ISO/TC 159/SC 4", "2025(第2版)", "极高"),
+ ("ISO 15008", "车载视觉呈现 规范与测试", "车内动态信息", "字符高度 20'(推荐)/12'(最低)", "【角度】", "ISO/TC 22/SC 39", "2017(2025确认)", "极高"),
+ ("ISO 15008", "车载视觉呈现 规范与测试", "车内动态信息", "对比度 日3:1 夜5:1 直射阳光2:1", "比值", "ISO/TC 22/SC 39", "2017", "极高"),
+ ("ISO/CIE 11664-5", "色度学 CIE 1976 L*u*v* / u'v'", "自发光显示等", "色差计算方式", "数学定义", "CIE", "2024", "极高"),
+ ("ITU-R BT.2020", "超高清电视 参数值", "UHD 节目交换", "三原色 xy: R.708/.292 G.170/.797 B.131/.046", "色度坐标", "ITU-R", "2015", "极高"),
+ ("ITU-R BT.2100", "HDR 电视 图像参数", "HDR 节目交换", "PQ/HLG，峰值≥1000 cd/m²，黑≤0.005", "传递函数+亮度", "ITU-R", "2016", "极高"),
+]
+# 对照：厂商规范用的是什么单位
+VENDOR = [
+ ("Apple HIG",  "44 pt",  "设备单位(1pt=1/163 inch)", "极高"),
+ ("Material 3", "48 dp",  "设备单位(1dp=1/160 inch)", "极高"),
+ ("WCAG 2.2",   "24/44 CSS px", "设备单位(1px=1/96 inch)", "极高"),
+ ("Microsoft",  "7~9 mm", "物理单位", "极高"),
+]
+
+MM_PER_DEG_RETINA = 0.288
+
+def arcmin_to_px(arcmin, ppd):
+    return arcmin/60.0 * ppd
+
+if __name__ == "__main__":
+    print("=== 一、真国际标准（ISO/IEC/CIE/ITU，非厂商）===")
+    for s in STD:
+        print(f"  {s[0]:<16} {s[2]:<8} {s[3]:<38} [{s[4]}] {s[6]}")
+
+    print("\n=== 二、关键：国际标准里有一类【用角度定义】===")
+    print("  ISO 15008:2017  字符高度  推荐 20'  最低 12'   ← 弧分，与设备无关")
+    print("  对比厂商规范：44pt / 48dp / 24px                 ← 设备单位，与眼睛无关")
+
+    print("\n=== 三、ISO 15008 的 12' 在各设备上等于多少像素 ===")
+    rows = json.load(open("参数库/设备谱系.json"))
+    seen=set(); out=[]
+    for r in rows:
+        if r["名称"] in seen: continue
+        seen.add(r["名称"])
+        px = arcmin_to_px(12, r["像素每度"])
+        out.append((r["名称"], r["像素每度"], px, px/3))  # 中文按 3px 一衬线估算
+    for n,ppd,px,cjk in sorted(out,key=lambda x:-x[1]):
+        flag = "✅" if px>=12 else ("⚠" if px>=9 else "❌")
+        print(f"  {n:<22} {ppd:>4.0f}px/度  12'={px:5.1f}px  {flag}")
+
+    print("\n=== 四、ISO 9241-303 自己承认的适用范围 ===")
+    print("  原文:『...users with normal or adjusted-to-normal eyesight』")
+    print("  原文:『本标准并未涉及残障人士的无障碍问题』")
+    print("  → 国际标准自己声明：它服务的是【视力正常或矫正到正常】那群人")
+    print("  → 这正是你说的『公约数』，而且写在标准正文里")
+
+    print("\n=== 五、色域覆盖（ITU-R 三原色 vs 自然）===")
+    # 上一轮算过：自然马蹄形 0.3155，sRGB 0.1121 = 35.5%
+    def tri_area(p):
+        (x1,y1),(x2,y2),(x3,y3)=p
+        return 0.5*abs(x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2))
+    srgb=[(0.64,0.33),(0.30,0.60),(0.15,0.06)]
+    bt2020=[(0.708,0.292),(0.170,0.797),(0.131,0.046)]
+    NAT=0.3155
+    print(f"  sRGB    {tri_area(srgb):.4f}  覆盖自然 {tri_area(srgb)/NAT*100:.1f}%")
+    print(f"  BT.2020 {tri_area(bt2020):.4f}  覆盖自然 {tri_area(bt2020)/NAT*100:.1f}%")
+    print(f"  BT.2020 是 sRGB 的 {tri_area(bt2020)/tri_area(srgb):.2f} 倍")
+
+    json.dump(dict(标准=STD, 厂商=VENDOR,
+                   iso15008_px={n:round(p,2) for n,_,p,_ in out}),
+              open("参数库/国际标准.json","w"), ensure_ascii=False, indent=1)
+    print("\n已存 参数库/国际标准.json")

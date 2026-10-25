@@ -1,1 +1,69 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMjIwYjog57uf5LiA6K+E5YiGKOi/nue7reivr+W3rikgKyDmiavmj4/kuJbnlYzngbDluqbluqYgZ++8jOeci+S6lOeJiOWQhOiHqueahOmAgueUqOWfnyIiIgppbXBvcnQgbnVtcHkgYXMgbnAsIGpzb24KTj02MDAwClRIUkVBVFM9WydUMeWZquWjsCcsJ1Qy57+76Z2iJywnVDPngbDluqYnLCdUNOWkluaOqCddClZFUlM9Wyd2MV/kuovlrp7kuI7moIflh4YnLCd2Ml9BSeWMu+mZoicsJ3YzX+mYtOmYs+aJoycsJ3Y0X+eBsOW6puepuumXtCcsJ3Y1X+WFrOW8j+WNh+e6pyddCgpkZWYgcnVuKHZlciwgdGhyZWF0LCBnLCBub2lzZT0wLjM1LCBwX2ZsaXA9MC4zMCwgc2VlZD0wKToKICAgIFI9bnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICAjIC0tLSDnnJ/lgLzvvJrku6XmpoLnjocgZyDov57nu60o54Gw5bqmKe+8jOWQpuWImeS6jOWAvCAtLS0KICAgIGlzX2dyYXkgPSBSLnJhbmRvbShOKSA8IGcKICAgIHkgPSBucC53aGVyZShpc19ncmF5LCBucC5jbGlwKFIubm9ybWFsKDAuNSwwLjIyLE4pLDAsMSksIChSLnJhbmRvbShOKTwwLjUpLmFzdHlwZShmbG9hdCkpCiAgICAjIC0tLSDop4LmtYsgLS0tCiAgICB4ID0geS5jb3B5KCkKICAgIGlmIHRocmVhdD09J1Qx5Zmq5aOwJzogeCA9IHkgKyBSLm5vcm1hbCgwLG5vaXNlLE4pCiAgICAjIC0tLSDor7vmlbAgLS0tCiAgICBncmF5X291dCAgID0gdmVyIGluICgndjRf54Gw5bqm56m66Ze0JywndjVf5YWs5byP5Y2H57qnJykKICAgIGhhc190cmFjZSAgPSB2ZXIgaW4gKCd2M1/pmLTpmLPmiaMnLCd2NF/ngbDluqbnqbrpl7QnLCd2NV/lhazlvI/ljYfnuqcnKQogICAgaGFzX3RheG8gICA9IHZlciBub3QgaW4gKCd2MV/kuovlrp7kuI7moIflh4YnLCkKICAgIGhhc19mb3JtdWxhPSB2ZXI9PSd2NV/lhazlvI/ljYfnuqcnCiAgICByID0gbnAuY2xpcCh4LDAsMSkgaWYgZ3JheV9vdXQgZWxzZSAoeD4wLjUpLmFzdHlwZShmbG9hdCkKICAgICMgLS0tIOe/u+mdoiAtLS0KICAgIGlmIHRocmVhdD09J1Qy57+76Z2iJzoKICAgICAgICBmbGlwID0gUi5yYW5kb20oTikgPCBwX2ZsaXAKICAgICAgICBpZiBoYXNfdHJhY2U6IGZsaXAgPSBucC56ZXJvcyhOLGJvb2wpCiAgICAgICAgciA9IG5wLndoZXJlKGZsaXAsIDEtciwgcikKICAgICMgLS0tIOWkluaOqCAtLS0KICAgIGlmIHRocmVhdD09J1Q05aSW5o6oJzoKICAgICAgICBvb2QgPSBSLnJhbmRvbShOKTwwLjUKICAgICAgICBpZiBub3QgaGFzX2Zvcm11bGE6CiAgICAgICAgICAgIHIgPSBucC53aGVyZShvb2QsIDAuNSpucC5vbmVzKE4pLCByKSAgICAgICMg5peg5YWs5byPOumAgOWbnuS4reeriwogICAgICAgICMg5pyJ5YWs5byPOuebtOaOpeeUqCB477yM5bey5ZCr5L+h5oGvCiAgICBlcnIgPSBucC5hYnMoci15KQogICAgaWYgaGFzX3RheG8gYW5kIG5vdCBncmF5X291dDoKICAgICAgICBlcnIgPSBlcnIqMC45MCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5YiG57G75bim5p2l55qE5Y+v5aSN5qC45oqY5omjCiAgICByZXR1cm4gZmxvYXQoZXJyLm1lYW4oKSkKCmdzPVswLjAsMC4yNSwwLjUsMC43NSwxLjBdCnJlcz17fQpmb3IgdCBpbiBUSFJFQVRTOgogICAgcmVzW3RdPXt9CiAgICBmb3IgdiBpbiBWRVJTOgogICAgICAgIHJlc1t0XVt2XT1bcm91bmQocnVuKHYsdCxnLHNlZWQ9aGFzaCgodix0KSklOTk5OSksNCkgZm9yIGcgaW4gZ3NdCgojIOe7vOWQiCjlm5vlqIHog4HlnYflgLwpCm1lYW49e3Y6W3JvdW5kKGZsb2F0KG5wLm1lYW4oW3Jlc1t0XVt2XVtpXSBmb3IgdCBpbiBUSFJFQVRTXSkpLDQpIGZvciBpIGluIHJhbmdlKGxlbihncykpXSBmb3IgdiBpbiBWRVJTfQojIOavj+eJiOacgOS8mOWfnwpiZXN0PXt9CmZvciBpLGcgaW4gZW51bWVyYXRlKGdzKToKICAgIGJlc3RbJ2c9JS4yZiclZ109bWluKFZFUlMsa2V5PWxhbWJkYSB2OiBtZWFuW3ZdW2ldKQoKIyDot7PniYg6IHYxIOebtOaOpeaLv+WFrOW8jyvngbDluqYsIOS9huayoeaciSB0cmFjZSDkuI4gdGF4b25vbXkKZGVmIHNraXAodGhyZWF0LGcsc2VlZD03KToKICAgIFI9bnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBpc2c9Ui5yYW5kb20oTik8ZwogICAgeT1ucC53aGVyZShpc2csbnAuY2xpcChSLm5vcm1hbCgwLjUsMC4yMixOKSwwLDEpLChSLnJhbmRvbShOKTwwLjUpLmFzdHlwZShmbG9hdCkpCiAgICB4PXkuY29weSgpCiAgICBpZiB0aHJlYXQ9PSdUMeWZquWjsCc6IHg9eStSLm5vcm1hbCgwLDAuMzUsTikKICAgIHI9bnAuY2xpcCh4LDAsMSkKICAgIGlmIHRocmVhdD09J1Qy57+76Z2iJzoKICAgICAgICBmbGlwPVIucmFuZG9tKE4pPDAuMzA7IHI9bnAud2hlcmUoZmxpcCwxLXIscikgICAgICMg5pegIHRyYWNlCiAgICBpZiB0aHJlYXQ9PSdUNOWkluaOqCc6CiAgICAgICAgb29kPVIucmFuZG9tKE4pPDAuNTsgcj1ucC53aGVyZShvb2QsbnAuY2xpcCh4LDAsMSkscikKICAgIHJldHVybiBmbG9hdChucC5hYnMoci15KS5tZWFuKCkpCnNraXBtPVtyb3VuZChmbG9hdChucC5tZWFuKFtza2lwKHQsZykgZm9yIHQgaW4gVEhSRUFUU10pKSw0KSBmb3IgZyBpbiBnc10KCm91dD1kaWN0KGdzPWdzLCBwZXJfdGhyZWF0PXJlcywgbWVhbj1tZWFuLCBiZXN0X2RvbWFpbj1iZXN0LCBza2lwX3YxX3RvX3Y1PXNraXBtKQpwcmludChqc29uLmR1bXBzKG91dCxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpKQpqc29uLmR1bXAob3V0LG9wZW4oJ3Jlc3VsdDIyMGIuanNvbicsJ3cnKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCg==
+# -*- coding: utf-8 -*-
+"""220b: 统一评分(连续误差) + 扫描世界灰度度 g，看五版各自的适用域"""
+import numpy as np, json
+N=6000
+THREATS=['T1噪声','T2翻面','T3灰度','T4外推']
+VERS=['v1_事实与标准','v2_AI医院','v3_阴阳扣','v4_灰度空间','v5_公式升级']
+
+def run(ver, threat, g, noise=0.35, p_flip=0.30, seed=0):
+    R=np.random.default_rng(seed)
+    # --- 真值：以概率 g 连续(灰度)，否则二值 ---
+    is_gray = R.random(N) < g
+    y = np.where(is_gray, np.clip(R.normal(0.5,0.22,N),0,1), (R.random(N)<0.5).astype(float))
+    # --- 观测 ---
+    x = y.copy()
+    if threat=='T1噪声': x = y + R.normal(0,noise,N)
+    # --- 读数 ---
+    gray_out   = ver in ('v4_灰度空间','v5_公式升级')
+    has_trace  = ver in ('v3_阴阳扣','v4_灰度空间','v5_公式升级')
+    has_taxo   = ver not in ('v1_事实与标准',)
+    has_formula= ver=='v5_公式升级'
+    r = np.clip(x,0,1) if gray_out else (x>0.5).astype(float)
+    # --- 翻面 ---
+    if threat=='T2翻面':
+        flip = R.random(N) < p_flip
+        if has_trace: flip = np.zeros(N,bool)
+        r = np.where(flip, 1-r, r)
+    # --- 外推 ---
+    if threat=='T4外推':
+        ood = R.random(N)<0.5
+        if not has_formula:
+            r = np.where(ood, 0.5*np.ones(N), r)      # 无公式:退回中立
+        # 有公式:直接用 x，已含信息
+    err = np.abs(r-y)
+    if has_taxo and not gray_out:
+        err = err*0.90                                 # 分类带来的可复核折扣
+    return float(err.mean())
+
+gs=[0.0,0.25,0.5,0.75,1.0]
+res={}
+for t in THREATS:
+    res[t]={}
+    for v in VERS:
+        res[t][v]=[round(run(v,t,g,seed=hash((v,t))%9999),4) for g in gs]
+
+# 综合(四威胁均值)
+mean={v:[round(float(np.mean([res[t][v][i] for t in THREATS])),4) for i in range(len(gs))] for v in VERS}
+# 每版最优域
+best={}
+for i,g in enumerate(gs):
+    best['g=%.2f'%g]=min(VERS,key=lambda v: mean[v][i])
+
+# 跳版: v1 直接拿公式+灰度, 但没有 trace 与 taxonomy
+def skip(threat,g,seed=7):
+    R=np.random.default_rng(seed)
+    isg=R.random(N)<g
+    y=np.where(isg,np.clip(R.normal(0.5,0.22,N),0,1),(R.random(N)<0.5).astype(float))
+    x=y.copy()
+    if threat=='T1噪声': x=y+R.normal(0,0.35,N)
+    r=np.clip(x,0,1)
+    if threat=='T2翻面':
+        flip=R.random(N)<0.30; r=np.where(flip,1-r,r)     # 无 trace
+    if threat=='T4外推':
+        ood=R.random(N)<0.5; r=np.where(ood,np.clip(x,0,1),r)
+    return float(np.abs(r-y).mean())
+skipm=[round(float(np.mean([skip(t,g) for t in THREATS])),4) for g in gs]
+
+out=dict(gs=gs, per_threat=res, mean=mean, best_domain=best, skip_v1_to_v5=skipm)
+print(json.dumps(out,ensure_ascii=False,indent=1))
+json.dump(out,open('result220b.json','w'),ensure_ascii=False,indent=1)

@@ -1,1 +1,125 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiTXVsbGVyJ3MgcmF0Y2hldO+8muaXoOaAp+enjee+pOS4jeWPr+mAhuWcsOenr+e0r+acieWus+eqgeWPmO+8m+acieaAp+iDvemAmui/h+mHjee7hOmAhui9rArnprvmlaPkvY3ngrnmqKHlnovvvJrkvY3ngrkgMD3lpb0gMT3lnY8o5pyJ5a6zKQrotJ/ovb0gbG9hZCA9IOWdj+S9jeeCueS4quaVsO+8m2Jlc3RfbG9hZCA9IOenjee+pOS4reacgOW5suWHgOS4quS9k+eahOi0n+i9vQrmo5jova7lkpTlk5IgPSBiZXN0X2xvYWQg5LiK5Y2H5LiU5YaN5Lmf5Zue5LiN5Y67CumihOazqOWGjCBIMzog5peg5oCn5qOY6L2u5ZKU5ZOS5qyh5pWwID4g5pyJ5oCn77yb5peg5oCnIGJlc3RfbG9hZCDljZXosIPkuI3pmY0KIiIiCmltcG9ydCBqc29uLCByYW5kb20sIHN0YXRpc3RpY3MsIHN5cwoKTCA9IDIwICAgICAgICAgICAgIyDkvY3ngrnmlbAKTVVfRCA9IDAuMDIgICAgICAgIyDlpb0tPuWdjwpNVV9CID0gMC4wMDEgICAgICAjIOWdjy0+5aW977yI5Zue56qB5Y+Y77yM572V6KeB77yJClMgPSAwLjA1ICAgICAgICAgICMg5q+P5Liq5Z2P5L2N54K555qE6YCJ5oup57O75pWwCk4gPSAxMDAgICAgICAgICAgICMg56eN576k5aSn5bCPCkdFTlMgPSAyMDAKCgpkZWYgZml0bmVzcyhsb2FkKToKICAgIHJldHVybiAoMS4wIC0gUykgKiogbG9hZAoKCmNsYXNzIFA6CiAgICBfX3Nsb3RzX18gPSAoImciLCAic2V4IikKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBnLCBzZXgpOgogICAgICAgIHNlbGYuZyA9IGxpc3QoZykKICAgICAgICBzZWxmLnNleCA9IHNleAogICAgQHByb3BlcnR5CiAgICBkZWYgbG9hZChzZWxmKToKICAgICAgICByZXR1cm4gc3VtKHNlbGYuZykKCgpkZWYgbXV0YXRlX2JpdHMoZywgcm5nKToKICAgIHJldHVybiBbMCBpZiAoYiA9PSAxIGFuZCBybmcucmFuZG9tKCkgPCBNVV9CKSBlbHNlICgxIGlmIChiID09IDAgYW5kIHJuZy5yYW5kb20oKSA8IE1VX0QpIGVsc2UgYikKICAgICAgICAgICAgZm9yIGIgaW4gZ10KCgpkZWYgcnVuKG1vZGUsIHNlZWQpOgogICAgcm5nID0gcmFuZG9tLlJhbmRvbShzZWVkKQogICAgcG9wID0gW1AoWzBdICogTCwgcm5nLmNob2ljZShbIk0iLCAiRiJdKSBpZiBtb2RlICE9ICJhc2V4dWFsIiBlbHNlICJOIikgZm9yIF8gaW4gcmFuZ2UoTildCgogICAgYmVzdF90cmFqLCBtZWFuX3RyYWogPSBbXSwgW10KICAgIGNsaWNrcyA9IDAKICAgIHByZXZfYmVzdCA9IDAKICAgIGV2ZXJfcmV2ZXJzZWQgPSAwICAgICAgICAjIGJlc3RfbG9hZCDkuIvpmY3nmoTmrKHmlbAKCiAgICBmb3IgdCBpbiByYW5nZShHRU5TKToKICAgICAgICB3ID0gW2ZpdG5lc3MocC5sb2FkKSBmb3IgcCBpbiBwb3BdCiAgICAgICAgdG90ID0gc3VtKHcpCiAgICAgICAgaWYgdG90IDw9IDA6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgIyDmjInpgILlupTluqbliqDmnYPmir3kurLmnKwKICAgICAgICBkZWYgcGljaygpOgogICAgICAgICAgICByID0gcm5nLnJhbmRvbSgpICogdG90CiAgICAgICAgICAgIGFjYyA9IDAuMAogICAgICAgICAgICBmb3IgaSwgeCBpbiBlbnVtZXJhdGUodyk6CiAgICAgICAgICAgICAgICBhY2MgKz0geAogICAgICAgICAgICAgICAgaWYgciA8PSBhY2M6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBvcFtpXQogICAgICAgICAgICByZXR1cm4gcG9wWy0xXQoKICAgICAgICBuZXdwb3AgPSBbXQogICAgICAgIGlmIG1vZGUgPT0gImFzZXh1YWwiOgogICAgICAgICAgICB3aGlsZSBsZW4obmV3cG9wKSA8IE46CiAgICAgICAgICAgICAgICBwYXIgPSBwaWNrKCkKICAgICAgICAgICAgICAgIG5ld3BvcC5hcHBlbmQoUChtdXRhdGVfYml0cyhwYXIuZywgcm5nKSwgIk4iKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICB3aGlsZSBsZW4obmV3cG9wKSA8IE46CiAgICAgICAgICAgICAgICBwMSA9IHBpY2soKQogICAgICAgICAgICAgICAgcDIgPSBwaWNrKCkKICAgICAgICAgICAgICAgIGlmIG1vZGUgPT0gInNleHVhbF9jb3N0IjoKICAgICAgICAgICAgICAgICAgICAjIOmcgOimgeW8guaAp+WIq+mFjeWvueaJjeaIkOWKn++8m+WQjOaAp+mFjeWvueWksei0pSAtPiDph43or5XvvIjmnInpmZDmrKHvvIkKICAgICAgICAgICAgICAgICAgICB0cmllcyA9IDAKICAgICAgICAgICAgICAgICAgICB3aGlsZSBwMS5zZXggPT0gcDIuc2V4IGFuZCB0cmllcyA8IDIwOgogICAgICAgICAgICAgICAgICAgICAgICBwMiA9IHBpY2soKTsgdHJpZXMgKz0gMQogICAgICAgICAgICAgICAgICAgIGlmIHAxLnNleCA9PSBwMi5zZXg6CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBnID0gW2EgaWYgcm5nLnJhbmRvbSgpIDwgMC41IGVsc2UgYiBmb3IgYSwgYiBpbiB6aXAocDEuZywgcDIuZyldCiAgICAgICAgICAgICAgICBuZXdwb3AuYXBwZW5kKFAobXV0YXRlX2JpdHMoZywgcm5nKSwgcm5nLmNob2ljZShbIk0iLCAiRiJdKSkpCiAgICAgICAgcG9wID0gbmV3cG9wCgogICAgICAgIGJsID0gbWluKHAubG9hZCBmb3IgcCBpbiBwb3ApCiAgICAgICAgbWwgPSBzdGF0aXN0aWNzLm1lYW4ocC5sb2FkIGZvciBwIGluIHBvcCkKICAgICAgICBiZXN0X3RyYWouYXBwZW5kKGJsKQogICAgICAgIG1lYW5fdHJhai5hcHBlbmQobWwpCiAgICAgICAgaWYgYmwgPiBwcmV2X2Jlc3Q6CiAgICAgICAgICAgIGNsaWNrcyArPSAxCiAgICAgICAgaWYgYmwgPCBwcmV2X2Jlc3Q6CiAgICAgICAgICAgIGV2ZXJfcmV2ZXJzZWQgKz0gMQogICAgICAgIHByZXZfYmVzdCA9IGJsCgogICAgcmV0dXJuIGRpY3QoZmluYWxfYmVzdF9sb2FkPWJlc3RfdHJhalstMV0sIGZpbmFsX21lYW5fbG9hZD1yb3VuZChtZWFuX3RyYWpbLTFdLCAzKSwKICAgICAgICAgICAgICAgIGNsaWNrcz1jbGlja3MsIHJldmVyc2Fscz1ldmVyX3JldmVyc2VkLAogICAgICAgICAgICAgICAgYmVzdF90cmFqPWJlc3RfdHJhaiwgbWVhbl90cmFqPVtyb3VuZCh4LCAzKSBmb3IgeCBpbiBtZWFuX3RyYWpdLAogICAgICAgICAgICAgICAgZmluYWxfZml0PXJvdW5kKGZpdG5lc3MoYmVzdF90cmFqWy0xXSksIDQpKQoKClNFRURTID0gbGlzdChyYW5nZSgxMCkpCnJlcyA9IHt9CnByaW50KGYieydtb2RlJzo8MTR9eydmaW5hbF9iZXN0X2xvYWQnOj4xN317J21lYW5fbG9hZCc6PjExfXsnY2xpY2tzJzo+OH17J3JldmVyc2Fscyc6PjExfXsnZml0Jzo+OH0iKQpmb3IgbW9kZSBpbiBbImFzZXh1YWwiLCAic2V4dWFsX2ZyZWUiLCAic2V4dWFsX2Nvc3QiXToKICAgIHJzID0gW3J1bihtb2RlLCBzKSBmb3IgcyBpbiBTRUVEU10KICAgIGFnZyA9IHtrOiByb3VuZChzdGF0aXN0aWNzLm1lYW4ocltrXSBmb3IgciBpbiBycyksIDMpCiAgICAgICAgICAgZm9yIGsgaW4gWyJmaW5hbF9iZXN0X2xvYWQiLCAiZmluYWxfbWVhbl9sb2FkIiwgImNsaWNrcyIsICJyZXZlcnNhbHMiLCAiZmluYWxfZml0Il19CiAgICByZXNbbW9kZV0gPSBkaWN0KGFnZz1hZ2csIHJhdz1be2s6IHJba10gZm9yIGsgaW4KICAgICAgICAgICAgICAgICAgICBbImZpbmFsX2Jlc3RfbG9hZCIsImZpbmFsX21lYW5fbG9hZCIsImNsaWNrcyIsInJldmVyc2FscyIsImZpbmFsX2ZpdCJdfSBmb3IgciBpbiByc10pCiAgICBwcmludChmInttb2RlOjwxNH17YWdnWydmaW5hbF9iZXN0X2xvYWQnXTo+MTd9e2FnZ1snZmluYWxfbWVhbl9sb2FkJ106PjExfSIKICAgICAgICAgIGYie2FnZ1snY2xpY2tzJ106Pjh9e2FnZ1sncmV2ZXJzYWxzJ106PjExfXthZ2dbJ2ZpbmFsX2ZpdCddOj44fSIpCgpqc29uLmR1bXAocmVzLCBvcGVuKCJyYXRjaGV0X3Jlc3VsdHMuanNvbiIsICJ3IiksIGluZGVudD0xKQoKcHJpbnQoKQpwcmludCgiPT09IOWNleenjeWtkCBiZXN0X2xvYWQg6L2o6L+577yI55yL5qOY6L2u5piv5LiN5piv55yf55qE5ZKU5ZOS77yJID09PSIpCmZvciBtb2RlIGluIFsiYXNleHVhbCIsICJzZXh1YWxfZnJlZSJdOgogICAgciA9IHJ1bihtb2RlLCAzKQogICAgdCA9IHJbImJlc3RfdHJhaiJdCiAgICBwcmludChmInttb2RlOjwxM30gYmVzdF9sb2FkOiB0MD17dFswXX0gdDI1PXt0WzI1XX0gdDUwPXt0WzUwXX0gdDEwMD17dFsxMDBdfSB0MTk5PXt0WzE5OV19IikKICAgIHByaW50KGYieycnOjwxM30gbWVhbl9sb2FkOiB0MD17clsnbWVhbl90cmFqJ11bMF19IHQ1MD17clsnbWVhbl90cmFqJ11bNTBdfSB0MTk5PXtyWydtZWFuX3RyYWonXVsxOTldfSIpCgpwcmludCgpCnByaW50KCI9PT0gSDMg5qOA6aqMID09PSIpCmEsIHNmID0gcmVzWyJhc2V4dWFsIl1bImFnZyJdLCByZXNbInNleHVhbF9mcmVlIl1bImFnZyJdCnByaW50KGYiICDml6DmgKcgY2xpY2tzIHthWydjbGlja3MnXX0gIHZzIOacieaApyjml6Dku6Pku7cpIGNsaWNrcyB7c2ZbJ2NsaWNrcyddfSAgLT4gIgogICAgICBmInsnUEFTUycgaWYgYVsnY2xpY2tzJ10gPiBzZlsnY2xpY2tzJ10gZWxzZSAnRkFJTCd9IikKcHJpbnQoZiIgIOaXoOaApyByZXZlcnNhbHMge2FbJ3JldmVyc2FscyddfSB2cyDmnInmgKcgcmV2ZXJzYWxzIHtzZlsncmV2ZXJzYWxzJ119IikKcHJpbnQoZiIgIOe7iOaAgSBiZXN0X2xvYWQgICDml6DmgKcge2FbJ2ZpbmFsX2Jlc3RfbG9hZCddfSB2cyDmnInmgKcge3NmWydmaW5hbF9iZXN0X2xvYWQnXX0iKQo=
+# -*- coding: utf-8 -*-
+"""Muller's ratchet：无性种群不可逆地积累有害突变；有性能通过重组逆转
+离散位点模型：位点 0=好 1=坏(有害)
+负载 load = 坏位点个数；best_load = 种群中最干净个体的负载
+棘轮咔哒 = best_load 上升且再也回不去
+预注册 H3: 无性棘轮咔哒次数 > 有性；无性 best_load 单调不降
+"""
+import json, random, statistics, sys
+
+L = 20            # 位点数
+MU_D = 0.02       # 好->坏
+MU_B = 0.001      # 坏->好（回突变，罕见）
+S = 0.05          # 每个坏位点的选择系数
+N = 100           # 种群大小
+GENS = 200
+
+
+def fitness(load):
+    return (1.0 - S) ** load
+
+
+class P:
+    __slots__ = ("g", "sex")
+    def __init__(self, g, sex):
+        self.g = list(g)
+        self.sex = sex
+    @property
+    def load(self):
+        return sum(self.g)
+
+
+def mutate_bits(g, rng):
+    return [0 if (b == 1 and rng.random() < MU_B) else (1 if (b == 0 and rng.random() < MU_D) else b)
+            for b in g]
+
+
+def run(mode, seed):
+    rng = random.Random(seed)
+    pop = [P([0] * L, rng.choice(["M", "F"]) if mode != "asexual" else "N") for _ in range(N)]
+
+    best_traj, mean_traj = [], []
+    clicks = 0
+    prev_best = 0
+    ever_reversed = 0        # best_load 下降的次数
+
+    for t in range(GENS):
+        w = [fitness(p.load) for p in pop]
+        tot = sum(w)
+        if tot <= 0:
+            break
+        # 按适应度加权抽亲本
+        def pick():
+            r = rng.random() * tot
+            acc = 0.0
+            for i, x in enumerate(w):
+                acc += x
+                if r <= acc:
+                    return pop[i]
+            return pop[-1]
+
+        newpop = []
+        if mode == "asexual":
+            while len(newpop) < N:
+                par = pick()
+                newpop.append(P(mutate_bits(par.g, rng), "N"))
+        else:
+            while len(newpop) < N:
+                p1 = pick()
+                p2 = pick()
+                if mode == "sexual_cost":
+                    # 需要异性别配对才成功；同性配对失败 -> 重试（有限次）
+                    tries = 0
+                    while p1.sex == p2.sex and tries < 20:
+                        p2 = pick(); tries += 1
+                    if p1.sex == p2.sex:
+                        continue
+                g = [a if rng.random() < 0.5 else b for a, b in zip(p1.g, p2.g)]
+                newpop.append(P(mutate_bits(g, rng), rng.choice(["M", "F"])))
+        pop = newpop
+
+        bl = min(p.load for p in pop)
+        ml = statistics.mean(p.load for p in pop)
+        best_traj.append(bl)
+        mean_traj.append(ml)
+        if bl > prev_best:
+            clicks += 1
+        if bl < prev_best:
+            ever_reversed += 1
+        prev_best = bl
+
+    return dict(final_best_load=best_traj[-1], final_mean_load=round(mean_traj[-1], 3),
+                clicks=clicks, reversals=ever_reversed,
+                best_traj=best_traj, mean_traj=[round(x, 3) for x in mean_traj],
+                final_fit=round(fitness(best_traj[-1]), 4))
+
+
+SEEDS = list(range(10))
+res = {}
+print(f"{'mode':<14}{'final_best_load':>17}{'mean_load':>11}{'clicks':>8}{'reversals':>11}{'fit':>8}")
+for mode in ["asexual", "sexual_free", "sexual_cost"]:
+    rs = [run(mode, s) for s in SEEDS]
+    agg = {k: round(statistics.mean(r[k] for r in rs), 3)
+           for k in ["final_best_load", "final_mean_load", "clicks", "reversals", "final_fit"]}
+    res[mode] = dict(agg=agg, raw=[{k: r[k] for k in
+                    ["final_best_load","final_mean_load","clicks","reversals","final_fit"]} for r in rs])
+    print(f"{mode:<14}{agg['final_best_load']:>17}{agg['final_mean_load']:>11}"
+          f"{agg['clicks']:>8}{agg['reversals']:>11}{agg['final_fit']:>8}")
+
+json.dump(res, open("ratchet_results.json", "w"), indent=1)
+
+print()
+print("=== 单种子 best_load 轨迹（看棘轮是不是真的咔哒） ===")
+for mode in ["asexual", "sexual_free"]:
+    r = run(mode, 3)
+    t = r["best_traj"]
+    print(f"{mode:<13} best_load: t0={t[0]} t25={t[25]} t50={t[50]} t100={t[100]} t199={t[199]}")
+    print(f"{'':<13} mean_load: t0={r['mean_traj'][0]} t50={r['mean_traj'][50]} t199={r['mean_traj'][199]}")
+
+print()
+print("=== H3 检验 ===")
+a, sf = res["asexual"]["agg"], res["sexual_free"]["agg"]
+print(f"  无性 clicks {a['clicks']}  vs 有性(无代价) clicks {sf['clicks']}  -> "
+      f"{'PASS' if a['clicks'] > sf['clicks'] else 'FAIL'}")
+print(f"  无性 reversals {a['reversals']} vs 有性 reversals {sf['reversals']}")
+print(f"  终态 best_load   无性 {a['final_best_load']} vs 有性 {sf['final_best_load']}")

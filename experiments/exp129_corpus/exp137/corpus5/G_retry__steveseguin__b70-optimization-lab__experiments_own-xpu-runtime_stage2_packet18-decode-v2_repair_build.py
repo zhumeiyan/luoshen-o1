@@ -1,1 +1,147 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJMaWZldGltZSByZXBhaXI6IGNoZWFwIENQVSBnYXRlcyBvbmx5LCBjb21waWxlLW9ubHkgZGV2aWNlLCBubyBldmlkZW5jZSBjbGVhbnVwLiIiIgppbXBvcnQgaGFzaGxpYiwganNvbiwgb3MsIHN1YnByb2Nlc3MsIHRpbWUKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gYnVpbGQgaW1wb3J0IHNvdXJjZV9oYXNoZXMsIENPTVBJTEVSLCBQWQpIRVJFPVBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQKUk9PVD1IRVJFLnBhcmVudHNbM10KQlVJTEQ9SEVSRS8nYnVpbGQnCkJFRk9SRT1IRVJFLydldmlkZW5jZS8yMDI2MTAxMS1saWZldGltZS1iZWZvcmUnCmRlZiBzaGEocCk6IHJldHVybiBoYXNobGliLnNoYTI1NihwLnJlYWRfYnl0ZXMoKSkuaGV4ZGlnZXN0KCkKZGVmIGRpZ2VzdChiKTogcmV0dXJuIGhhc2hsaWIuc2hhMjU2KGIpLmhleGRpZ2VzdCgpCmRlZiByZWFkKHApOiByZXR1cm4ganNvbi5sb2FkcyhwLnJlYWRfdGV4dCgpKQpkZWYgc2F2ZShwLHIpOiBwLndyaXRlX3RleHQoanNvbi5kdW1wcyhyLGluZGVudD0yKSsnXG4nKQpkZWYgcmV1c2VfcHJvb2YoKToKICAgIHByZXZpb3VzPXJlYWQoQkVGT1JFLydidWlsZC1yZWNlaXB0Lmpzb24nKTsgYXVkaXQ9cmVhZChIRVJFLydkZWFkbGluZS1yZXVzZS5qc29uJykKICAgIGFzc2VydCBwcmV2aW91c1sncGFzc2VkJ10gYW5kIHByZXZpb3VzWydkZWFkbGluZV9vbmx5X2dhdGVfcmV1c2UnXVsnYXVkaXRfc2hhMjU2J109PXNoYShIRVJFLydkZWFkbGluZS1yZXVzZS5qc29uJykKICAgIG5ldXRyYWw9e30KICAgIHRleHQ9KEhFUkUvJ21haW4uY3BwJykucmVhZF90ZXh0KCkKICAgIGZvciBhZnRlcixiZWZvcmUgaW4gWygnI2luY2x1ZGUgImxpZmV0aW1lX21vY2suaHBwIicsJyNpbmNsdWRlICJtb2NrX2RldmljZS5ocHAiJyksCiAgICAgICAgICAgICAgICAgICAgICAgICgnY2xhc3MgSG9zdCBmaW5hbCA6IHB1YmxpYyBwYWNrZXQxODo6TGlmZXRpbWVNb2NrIHsnLCdjbGFzcyBIb3N0IGZpbmFsIDogcHVibGljIG93bnJ0OjpNb2NrRGV2aWNlIHsnKSwKICAgICAgICAgICAgICAgICAgICAgICAgKCdhdXRvIGUgPSBMaWZldGltZU1vY2s6OmNvcHkoYSwgYiwgbiwgZCk7JywnYXV0byBlID0gTW9ja0RldmljZTo6Y29weShhLCBiLCBuLCBkKTsnKV06CiAgICAgICAgYXNzZXJ0IHRleHQuY291bnQoYWZ0ZXIpPT0xCiAgICAgICAgdGV4dD10ZXh0LnJlcGxhY2UoYWZ0ZXIsYmVmb3JlLDEpCiAgICBhc3NlcnQgZGlnZXN0KHRleHQuZW5jb2RlKCkpPT1zaGEoQkVGT1JFLydtYWluLmNwcCcpCiAgICBuZXV0cmFsW3N0cigoSEVSRS8nbWFpbi5jcHAnKS5yZWxhdGl2ZV90byhST09UKSldPXRleHQKICAgIGV4dHJhPSdcbmlmKE9XTl9SVF9IT1NUX09OTFkpXG4gYWRkX2V4ZWN1dGFibGUobGlmZXRpbWUtdGVzdHMgbGlmZXRpbWVfdGVzdC5jcHAgb3duZXIuY3BwKVxuIHRhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKGxpZmV0aW1lLXRlc3RzIFBSSVZBVEUgJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9ICR7T1dORVJ9KVxuZW5kaWYoKVxuJwogICAgY21ha2U9KEhFUkUvJ0NNYWtlTGlzdHMudHh0JykucmVhZF90ZXh0KCk7YXNzZXJ0IGNtYWtlLmVuZHN3aXRoKGV4dHJhKQogICAgbmV1dHJhbFtzdHIoKEhFUkUvJ0NNYWtlTGlzdHMudHh0JykucmVsYXRpdmVfdG8oUk9PVCkpXT1jbWFrZVs6LWxlbihleHRyYSldCiAgICBmb3IgcmVsLHRleHQgaW4gbmV1dHJhbC5pdGVtcygpOmFzc2VydCBkaWdlc3QodGV4dC5lbmNvZGUoKSk9PXByZXZpb3VzWydzb3VyY2VzJ11bcmVsXQogICAgdmVyaWZpZWQ9e30KICAgIGZvciByZWwsZXhwZWN0ZWQgaW4gYXVkaXRbJ29yaWdpbmFsX3NvdXJjZXMnXS5pdGVtcygpOgogICAgICAgIGlmIHJlbC5lbmRzd2l0aCgnLnB5Jyk6Y29udGludWUgIyBSZWJ1aWx0L3JlcnVuIGhvc3QgdG9vbGluZywgbm8gbW9kZWwgb3BlcmF0aW9ucy4KICAgICAgICBwYXRoPVJPT1QvcmVsCiAgICAgICAgdGV4dD1uZXV0cmFsLmdldChyZWwpCiAgICAgICAgaWYgcmVsPT1hdWRpdFsnaXNvbGF0ZWRfY2FuYXJ5J11bJ3BhdGgnXToKICAgICAgICAgICAgYXNzZXJ0IHNoYShCRUZPUkUvJ2NhbmFyeS5ocHAnKT09YXVkaXRbJ2lzb2xhdGVkX2NhbmFyeSddWydhZnRlcl9zaGEyNTYnXQogICAgICAgICAgICBhc3NlcnQgZXhwZWN0ZWQ9PWF1ZGl0Wydpc29sYXRlZF9jYW5hcnknXVsnYmVmb3JlX3NoYTI1NiddCiAgICAgICAgICAgIHZlcmlmaWVkW3JlbF09ZGljdChvcmlnaW5hbD1leHBlY3RlZCxjdXJyZW50PXNoYShwYXRoKSxkaXNwb3NpdGlvbj0naXNvbGF0ZWQgY2FuYXJ5OyBub3QgYSBkZWNvZGUgc291cmNlJyk7Y29udGludWUKICAgICAgICBpZiByZWwgaW4gYXVkaXRbJ2FwcHJvdmVkX21vZGVsX25ldXRyYWxfZWRpdHMnXToKICAgICAgICAgICAgY2hhbmdlPWF1ZGl0WydhcHByb3ZlZF9tb2RlbF9uZXV0cmFsX2VkaXRzJ11bcmVsXQogICAgICAgICAgICB0ZXh0PXRleHQgaWYgdGV4dCBpcyBub3QgTm9uZSBlbHNlIHBhdGgucmVhZF90ZXh0KCkKICAgICAgICAgICAgYXNzZXJ0IGRpZ2VzdCh0ZXh0LmVuY29kZSgpKT09Y2hhbmdlWydhZnRlcl9zaGEyNTYnXQogICAgICAgICAgICBmb3IgZWRpdCBpbiBjaGFuZ2VbJ2VkaXRzJ106CiAgICAgICAgICAgICAgICBhc3NlcnQgdGV4dC5jb3VudChlZGl0WydhZnRlciddKT09MQogICAgICAgICAgICAgICAgdGV4dD10ZXh0LnJlcGxhY2UoZWRpdFsnYWZ0ZXInXSxlZGl0WydiZWZvcmUnXSwxKQogICAgICAgIGFjdHVhbD1kaWdlc3QodGV4dC5lbmNvZGUoKSkgaWYgdGV4dCBpcyBub3QgTm9uZSBlbHNlIHNoYShwYXRoKQogICAgICAgIGFzc2VydCBhY3R1YWw9PWV4cGVjdGVkLHJlbAogICAgICAgIHZlcmlmaWVkW3JlbF09ZGljdChvcmlnaW5hbD1leHBlY3RlZCxjdXJyZW50PXNoYShwYXRoKSxyZWNvbnN0cnVjdGVkX29yaWdpbmFsPWFjdHVhbCkKICAgIGFzc2VydCAnaWYoYS5jYW5hcnkpcmV0dXJuIHJ1bl9jYW5hcnkoYSk7JyBpbiAoSEVSRS8nbWFpbi5jcHAnKS5yZWFkX3RleHQoKQogICAgcmVjZWlwdHM9e30KICAgIGZvciBuYW1lLGV4cGVjdGVkIGluIGF1ZGl0WydyZXRhaW5lZF9yZWNlaXB0cyddLml0ZW1zKCk6CiAgICAgICAgcGF0aD1CRUZPUkUvbmFtZSBpZiBuYW1lIGluICgnc2FuaXRpemVyLW1pbmkuanNvbicsJ3Nhbml0aXplci1pbnRlZ3JhdGlvbi5qc29uJykgZWxzZSBIRVJFL25hbWUKICAgICAgICBhc3NlcnQgc2hhKHBhdGgpPT1leHBlY3RlZCxuYW1lCiAgICAgICAgcmVjZWlwdHNbc3RyKHBhdGgucmVsYXRpdmVfdG8oSEVSRSkpXT1leHBlY3RlZAogICAgZm9yIHBhdGggaW4gSEVSRS5nbG9iKCdzYW5pdGl6ZXItcmVhbC0qLmpzb24nKTpyZWNlaXB0c1twYXRoLm5hbWVdPXNoYShwYXRoKQogICAgb2xkX3Nhbj1yZWFkKEJFRk9SRS8nc2FuaXRpemVyLWJ1aWxkLXJlY2VpcHQuanNvbicpCiAgICBhc3NlcnQgb2xkX3Nhbj09cmVhZChCVUlMRC8nc2FuaXRpemVkL2J1aWxkLmpzb24nKQogICAgYXNzZXJ0IHNoYShQYXRoKG9sZF9zYW5bJ2JpbmFyeSddKSk9PW9sZF9zYW5bJ3NoYTI1NiddCiAgICBmb3IgbmFtZSxleHBlY3RlZCBpbiBvbGRfc2FuWydzb3VyY2VzJ10uaXRlbXMoKToKICAgICAgICBwYXRoPVBhdGgobmFtZSkKICAgICAgICBpZiBwYXRoLnN1ZmZpeD09Jy5weSc6Y29udGludWUKICAgICAgICByZWw9c3RyKHBhdGgucmVsYXRpdmVfdG8oUk9PVCkpCiAgICAgICAgaWYgcmVsIGluIHZlcmlmaWVkIG9yIHBhdGgubmFtZT09J2NhbmFyeS5ocHAnIGFuZCBwYXRoLnBhcmVudD09SEVSRTpjb250aW51ZQogICAgICAgIGFzc2VydCBzaGEocGF0aCk9PWV4cGVjdGVkLG5hbWUKICAgIHJlc3VsdD1kaWN0KHBhc3NlZD1UcnVlLGRldmljZV9leGVjdXRlZD1GYWxzZSxwcmV2aW91c19idWlsZF9zaGEyNTY9c2hhKEJFRk9SRS8nYnVpbGQtcmVjZWlwdC5qc29uJyksCiAgICAgICAgICAgICAgICBwcmV2aW91c193YXRjaGRvZ19yZXVzZV9zaGEyNTY9c2hhKEhFUkUvJ2RlYWRsaW5lLXJldXNlLmpzb24nKSwKICAgICAgICAgICAgICAgIG9yaWdpbmFsX2hvc3Rfc2hhMjU2PWF1ZGl0WydvcmlnaW5hbF9ob3N0X3NoYTI1NiddLG9yaWdpbmFsX3Nhbml0aXplcl9zaGEyNTY9b2xkX3Nhblsnc2hhMjU2J10sCiAgICAgICAgICAgICAgICByZXRhaW5lZF9yZWNlaXB0cz1yZWNlaXB0cyxtb2RlbF9pbnB1dHM9dmVyaWZpZWQsCiAgICAgICAgICAgICAgICBzdGF0ZW1lbnQ9J09ubHkgY2FuYXJ5IHNjb3BlLCB3cmFwcGVyIGFuZCBDUFUgaW5zdHJ1bWVudGF0aW9uL3Rlc3QtdGFyZ2V0IGNoYW5nZXMuIEVuZ2luZSwgYWRhcHRlciwgbmF0aXZlIG93bmVyLCBwZWVyIGJhY2tlbmQsIGFyaXRobWV0aWMgYW5kIGxhdW5jaCBvcmRlciB1bmNoYW5nZWQuIExvbmcgZ2F0ZXMgTk9UIHJlcnVuOyBvcmlnaW5hbCBiaW5hcnkgaWRlbnRpdGllcyByZXRhaW5lZC4gRnJlc2ggZGV2aWNlIFcxIGlzIHJlcXVpcmVkLicpCiAgICBzYXZlKEhFUkUvJ2xpZmV0aW1lLXJldXNlLmpzb24nLHJlc3VsdCk7cmV0dXJuIHJlc3VsdAoKZGVmIG1haW4oKToKICAgIGFzc2VydCBvcy5nZXRwcmlvcml0eShvcy5QUklPX1BST0NFU1MsMCk9PTE5IGFuZCBvcy5lbnZpcm9uLmdldCgnT01QX05VTV9USFJFQURTJyk9PScyJwogICAgYXNzZXJ0ICdpZGxlJyBpbiBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChbJ2lvbmljZScsJy1wJyxzdHIob3MuZ2V0cGlkKCkpXSx0ZXh0PVRydWUpCiAgICAoQlVJTEQvJ3RtcCcpLm1rZGlyKGV4aXN0X29rPVRydWUpO29zLmVudmlyb25bJ1RNUERJUiddPXN0cihCVUlMRC8ndG1wJykKICAgIHI9ZGljdChzY2hlbWE9J293bi1ydW50aW1lLmlxMy5wYWNrZXQxOC5idWlsZC52MScscGFzc2VkPUZhbHNlLGRldmljZV9leGVjdXRlZD1GYWxzZSxtYXhfY29tcGlsZV9qb2JzPTIsbnVtZXJpY190aHJlYWRzPTIsY29tbWFuZHM9W10pCiAgICBkZWYgcnVuKGNtZCx0aW1lb3V0PTYwMCk6CiAgICAgICAgY21kPWxpc3QobWFwKHN0cixjbWQpKTt2PXN1YnByb2Nlc3MucnVuKGNtZCxjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSxjd2Q9Uk9PVCx0aW1lb3V0PXRpbWVvdXQpCiAgICAgICAgclsnY29tbWFuZHMnXS5hcHBlbmQoZGljdChhcmd2PWNtZCxyZXR1cm5jb2RlPXYucmV0dXJuY29kZSxzdGRvdXQ9di5zdGRvdXQsc3RkZXJyPXYuc3RkZXJyKSkKICAgICAgICBwcmludCgnUEFTUycgaWYgbm90IHYucmV0dXJuY29kZSBlbHNlICdGQUlMJywnICcuam9pbihjbWQpLGZsdXNoPVRydWUpCiAgICAgICAgYXNzZXJ0IG5vdCB2LnJldHVybmNvZGUsKHYuc3Rkb3V0LHYuc3RkZXJyKQogICAgICAgIHJldHVybiB2CiAgICBwcm9vZj1yZXVzZV9wcm9vZigpO3JbJ2xpZmV0aW1lX2dhdGVfcmV1c2UnXT1kaWN0KHNoYTI1Nj1zaGEoSEVSRS8nbGlmZXRpbWUtcmV1c2UuanNvbicpLCoqcHJvb2YpCiAgICBwcm90ZWN0ZWQ9e3N0cihmLnJlbGF0aXZlX3RvKEhFUkUpKTpzaGEoZikgZm9yIGQgaW4gKCd3MS1jYXJkMy1hJywndzAtY2FyZHMyMy1hJykgZm9yIGYgaW4gKEJVSUxEL2QpLnJnbG9iKCcqJykgaWYgZi5pc19maWxlKCl9CiAgICBsYXRjaD1CVUlMRC8nRkFVTFQuanNvbicKICAgIGlmIGxhdGNoLmV4aXN0cygpOnByb3RlY3RlZFtzdHIobGF0Y2gucmVsYXRpdmVfdG8oSEVSRSkpXT1zaGEobGF0Y2gpCiAgICB0cnk6CiAgICAgICAgZm9yIG1vZGUsY29tcGlsZXIsaG9zdCBpbiBbKCdob3N0JywnL3Vzci9iaW4vZysrJywnT04nKSwoJ2RldmljZScsQ09NUElMRVIsJ09GRicpXToKICAgICAgICAgICAgcnVuKFsnY21ha2UnLCctUycsSEVSRSwnLUInLEJVSUxEL21vZGUsZictRENNQUtFX0NYWF9DT01QSUxFUj17Y29tcGlsZXJ9JyxmJy1ET1dOX1JUX0hPU1RfT05MWT17aG9zdH0nXSkKICAgICAgICAgICAgcnVuKFsnY21ha2UnLCctLWJ1aWxkJyxCVUlMRC9tb2RlLCctajInXSkKICAgICAgICBmbGFncz1bJy1mbm8tZmFzdC1tYXRoJywnLWZmcC1jb250cmFjdD1vZmYnLCctZmRlbm9ybWFsLWZwLW1hdGg9aWVlZScsJy1mb2ZmbG9hZC1mcDMyLXByZWMtZGl2JywnLWZvZmZsb2FkLWZwMzItcHJlYy1zcXJ0J10KICAgICAgICBsaW5rcz1saXN0KChCVUlMRC8nZGV2aWNlJykucmdsb2IoJ2xpbmsudHh0JykpO2Fzc2VydCBsaW5rcwogICAgICAgIHJbJ2RldmljZV9saW5rX2NvbW1hbmRzJ109e3N0cihwLnJlbGF0aXZlX3RvKEJVSUxEKSk6cC5yZWFkX3RleHQoKSBmb3IgcCBpbiBsaW5rc30KICAgICAgICBhc3NlcnQgYWxsKGFsbChmIGluIHMuc3BsaXQoKSBmb3IgZiBpbiBmbGFncykgZm9yIHMgaW4gclsnZGV2aWNlX2xpbmtfY29tbWFuZHMnXS52YWx1ZXMoKSkKICAgICAgICBjbWRzPXJlYWQoQlVJTEQvJ2RldmljZS9jb21waWxlX2NvbW1hbmRzLmpzb24nKQogICAgICAgIGFzc2VydCBhbGwoYWxsKGYgaW4gcm93Wydjb21tYW5kJ10uc3BsaXQoKSBmb3IgZiBpbiBmbGFncykgZm9yIHJvdyBpbiBjbWRzKQogICAgICAgIHJbJ3ByZWNpc2lvbl9jb21waWxlX2FuZF9saW5rX2Fzc2VydGVkJ109ZmxhZ3MKICAgICAgICByWydkZXZpY2VfbGRkJ109cnVuKFsnbGRkJyxCVUlMRC8nZGV2aWNlL293bi1ydC1pcTMnXSkuc3Rkb3V0O2Fzc2VydCAnbm90IGZvdW5kJyBub3QgaW4gclsnZGV2aWNlX2xkZCddCiAgICAgICAgZHluYW1pYz1ydW4oWydyZWFkZWxmJywnLWQnLEJVSUxELydob3N0L293bi1ydC1pcTMnXSkuc3Rkb3V0CiAgICAgICAgYXNzZXJ0IG5vdCBhbnkocyBpbiBkeW5hbWljLmxvd2VyKCkgZm9yIHMgaW4gKCdsaWJzeWNsJywnbGliemVfbG9hZGVyJywnbGlidXJfbG9hZGVyJywnbGlib3BlbmNsJykpCiAgICAgICAgdW5pdHM9e246cnVuKFtCVUlMRC8naG9zdCcvbl0pLnN0ZG91dCBmb3IgbiBpbiAoJ2F1dGhvcml0eS10ZXN0cycsJ293bmVyLXJldGlyZW1lbnQtdGVzdHMnLCdjaGFpbi10ZXN0cycsJ3F1ZXVlLXRlc3RzJywnbGlmZXRpbWUtdGVzdHMnKX0KICAgICAgICBmb3IgbW9kZSBpbiAoJ2NvcmUnLCdwYXJhbGxlbCcpOgogICAgICAgICAgICBydW4oW1BZLCctQicsSEVSRS8ndGVzdC5weScsJy0tYmluYXJ5JyxCVUlMRC8naG9zdC9vd24tcnQtaXEzJywnLS1zY3JhdGNoJyxCVUlMRC9mJ2xpZmV0aW1lLWludGVncmF0aW9uLXttb2RlfS17dGltZS50aW1lX25zKCl9JywKICAgICAgICAgICAgICAgICAnLS1pbnB1dCcsQlVJTEQvJ2lucHV0JywnLS1yZWNlaXB0JyxIRVJFL2YnY3B1LW1pbmkte21vZGV9Lmpzb24nLCctLW5vbmdlbXYnLG1vZGVdKQogICAgICAgIGNsaT1bXQogICAgICAgIGZvciBzZWNvbmRzIGluIChOb25lLDMwMCwxODAwLDAsMzAsMjk5LDE4MDEpOgogICAgICAgICAgICBvdXQ9QlVJTEQvZidsaWZldGltZS1jbGkte3RpbWUudGltZV9ucygpfScKICAgICAgICAgICAgY21kPVtzdHIoQlVJTEQvJ2hvc3Qvb3duLXJ0LWlxMycpLCctLWNhbmFyeScsJy0tY2FyZHMnLCcyJywnLS1jYXJkJywnMCcsJy0tbWVtb3J5JywncmVzaWRlbnQnLCctLW91dHB1dCcsc3RyKG91dCldCiAgICAgICAgICAgIGlmIHNlY29uZHMgaXMgbm90IE5vbmU6Y21kKz1bJy0tc2Vjb25kcycsc3RyKHNlY29uZHMpXQogICAgICAgICAgICB2PXN1YnByb2Nlc3MucnVuKGNtZCxjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSx0aW1lb3V0PTMwKQogICAgICAgICAgICBhc3NlcnQgKHYucmV0dXJuY29kZT09MCk9PShzZWNvbmRzIGluIChOb25lLDMwMCwxODAwKSkKICAgICAgICAgICAgcm93PWRpY3Qoc2Vjb25kcz1zZWNvbmRzLGFyZ3Y9Y21kLHJldHVybmNvZGU9di5yZXR1cm5jb2RlLHN0ZGVycj12LnN0ZGVycikKICAgICAgICAgICAgaWYgbm90IHYucmV0dXJuY29kZToKICAgICAgICAgICAgICAgIGFzc2VydCAnY29udGV4dCBsaWZldGltZSBQQVNTOicgaW4gdi5zdGRlcnIKICAgICAgICAgICAgICAgIHJvd1sncmVjZWlwdCddPXJlYWQob3V0LydyZWNlaXB0Lmpzb24nKTthc3NlcnQgcm93WydyZWNlaXB0J11bJ3Bhc3NlZCddCiAgICAgICAgICAgIGNsaS5hcHBlbmQocm93KQogICAgICAgIHNhdmUoSEVSRS8nZGVhZGxpbmUtbmF0aXZlLWNsaS10ZXN0cy5qc29uJyxkaWN0KHBhc3NlZD1UcnVlLGRldmljZV9leGVjdXRlZD1GYWxzZSx0ZXN0cz1jbGksYmluYXJ5X3NoYTI1Nj1zaGEoQlVJTEQvJ2hvc3Qvb3duLXJ0LWlxMycpKSkKICAgICAgICByWydjYW5hcnlfY3B1X21vY2snXT1jbGlbMF1bJ3JlY2VpcHQnXTtyWydjb250ZXh0X2xpZmV0aW1lX3RyYWNlJ109Y2xpWzBdWydzdGRlcnInXQogICAgICAgIGZvciBuYW1lIGluICgndGVzdF93aW5kb3cucHknLCd0ZXN0X21pc21hdGNoLnB5JywnY2Vuc3VzLnB5Jyk6cnVuKFtQWSwnLUInLEhFUkUvbmFtZV0pCiAgICAgICAgcnVuKFtQWSwnLUInLEhFUkUvJ2RlcGNoZWNrX2J1aWxkLnB5JywnLS1zb3VyY2UnLEhFUkUsJy0tdGFnJywnbGlmZXRpbWUtc2FuaXRpemVkJ10pCiAgICAgICAgZm9yIGdhdGUgaW4gKCdtaW5pJywnaW50ZWdyYXRpb24nKTpydW4oW1BZLCctQicsSEVSRS8nc2FuaXRpemVyX2dhdGUucHknLGdhdGUsJy0tdGFnJywnbGlmZXRpbWUtc2FuaXRpemVkJ10pCiAgICAgICAgclsnc2FuaXRpemVyJ109ZGljdChmcmVzaF9nYXRlcz1bJ21pbmknLCdpbnRlZ3JhdGlvbiddLGJ1aWxkPXJlYWQoQlVJTEQvJ2xpZmV0aW1lLXNhbml0aXplZC9idWlsZC5qc29uJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlaXB0cz17bjpzaGEoSEVSRS9uKSBmb3IgbiBpbiAoJ3Nhbml0aXplci1taW5pLmpzb24nLCdzYW5pdGl6ZXItaW50ZWdyYXRpb24uanNvbicpfSxyZWFsX2dhdGVzPSdyZXVzZWQ7IHNlZSBsaWZldGltZV9nYXRlX3JldXNlJykKICAgICAgICBwcmV2aW91c19jcHU9cmVhZChCRUZPUkUvJ2NwdS10ZXN0cy5qc29uJykKICAgICAgICBjcHU9ZGljdChwcmV2aW91c19jcHUsYmluYXJ5X3NoYTI1Nj1zaGEoQlVJTEQvJ2hvc3Qvb3duLXJ0LWlxMycpLHVuaXRzPXVuaXRzLHdpbmRvd19wcm90b2NvbF90ZXN0cz00MCwKICAgICAgICAgICAgICAgICBpbnRlZ3JhdGlvbj17bTpyZWFkKEhFUkUvZidjcHUtbWluaS17bX0uanNvbicpIGZvciBtIGluICgnY29yZScsJ3BhcmFsbGVsJyl9LAogICAgICAgICAgICAgICAgIGxpZmV0aW1lX2dhdGVfcmV1c2U9clsnbGlmZXRpbWVfZ2F0ZV9yZXVzZSddKQogICAgICAgIGNwdS5wb3AoJ2RlYWRsaW5lX29ubHlfZ2F0ZV9yZXVzZScsTm9uZSkKICAgICAgICBzYXZlKEhFUkUvJ2NwdS10ZXN0cy5qc29uJyxjcHUpCiAgICAgICAgZnJvbSBtYXRoX2dhdGUgaW1wb3J0IGNoZWNrCiAgICAgICAgZnJvbSBxdWV1ZV9nYXRlIGltcG9ydCBjaGVjayBhcyBxdWV1ZV9jaGVjawogICAgICAgIHJbJ3BsYXRmb3JtX21hdGhfZ2F0ZSddPWNoZWNrKCk7clsncXVldWVfaXNvbGF0aW9uX2dhdGUnXT1xdWV1ZV9jaGVjaygpCiAgICAgICAgYXNzZXJ0IGFsbChQYXRoKHJvd1snZmlsZSddKS5yZXNvbHZlKCkgaW4ge1JPT1QvbiBmb3IgbiBpbiByWydwbGF0Zm9ybV9tYXRoX2dhdGUnXVsnZmlsZXMnXX0gZm9yIHJvdyBpbiBjbWRzKQogICAgICAgIGZvciByZWwsaCBpbiBwcm90ZWN0ZWQuaXRlbXMoKTphc3NlcnQgc2hhKEhFUkUvcmVsKT09aCxyZWwKICAgICAgICBhc3NlcnQgcmV1c2VfcHJvb2YoKT09cHJvb2YKICAgICAgICByLnVwZGF0ZShwYXNzZWQ9VHJ1ZSxyZWFsX21vZGVsX3F1YWxpZmllZD1GYWxzZSxhcml0aG1ldGljPSdpcTMtcDE3LWRldG1hdGgtdjInLAogICAgICAgICAgICAgICAgIGFydGlmYWN0c19zaGEyNTY9e2Yne219L293bi1ydC1pcTMnOnNoYShCVUlMRC9tLydvd24tcnQtaXEzJykgZm9yIG0gaW4gKCdob3N0JywnZGV2aWNlJyl9LAogICAgICAgICAgICAgICAgIGNwdV90ZXN0c19zaGEyNTY9c2hhKEhFUkUvJ2NwdS10ZXN0cy5qc29uJyksY2Vuc3VzX3NoYTI1Nj1zaGEoSEVSRS8nY2Vuc3VzLmpzb24nKSxpbnB1dF9zaGEyNTY9c2hhKEJVSUxELydpbnB1dC9pbnB1dC5qc29uJyksCiAgICAgICAgICAgICAgICAgcHJvdGVjdGVkX2V2aWRlbmNlX3NoYTI1Nj1wcm90ZWN0ZWQsYnVpbGRfZGlyZWN0b3J5X3JlbW92ZWQ9RmFsc2UpCiAgICBmaW5hbGx5OgogICAgICAgIHJbJ3NvdXJjZXMnXT1zb3VyY2VfaGFzaGVzKCkKICAgICAgICBmb3IgbmFtZSBpbiAoJ0xJRkVUSU1FLm1kJywnbGlmZXRpbWUtcmV1c2UuanNvbicpOgogICAgICAgICAgICByWydzb3VyY2VzJ11bc3RyKChIRVJFL25hbWUpLnJlbGF0aXZlX3RvKFJPT1QpKV09c2hhKEhFUkUvbmFtZSkKICAgICAgICByWydhcml0aG1ldGljX3NvdXJjZXMnXT17bjpoIGZvciBuLGggaW4gclsnc291cmNlcyddLml0ZW1zKCkgaWYgbi5lbmRzd2l0aCgoJy5jcHAnLCcuaHBwJykpfQogICAgICAgIHNhdmUoSEVSRS8nYnVpbGQtcmVjZWlwdC5qc29uJyxyKQogICAgcHJpbnQoanNvbi5kdW1wcyhyWydhcnRpZmFjdHNfc2hhMjU2J10saW5kZW50PTIpKQppZiBfX25hbWVfXz09J19fbWFpbl9fJzptYWluKCkK
+#!/usr/bin/env python3
+"""Lifetime repair: cheap CPU gates only, compile-only device, no evidence cleanup."""
+import hashlib, json, os, subprocess, time
+from pathlib import Path
+from build import source_hashes, COMPILER, PY
+HERE=Path(__file__).resolve().parent
+ROOT=HERE.parents[3]
+BUILD=HERE/'build'
+BEFORE=HERE/'evidence/20261011-lifetime-before'
+def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
+def digest(b): return hashlib.sha256(b).hexdigest()
+def read(p): return json.loads(p.read_text())
+def save(p,r): p.write_text(json.dumps(r,indent=2)+'\n')
+def reuse_proof():
+    previous=read(BEFORE/'build-receipt.json'); audit=read(HERE/'deadline-reuse.json')
+    assert previous['passed'] and previous['deadline_only_gate_reuse']['audit_sha256']==sha(HERE/'deadline-reuse.json')
+    neutral={}
+    text=(HERE/'main.cpp').read_text()
+    for after,before in [('#include "lifetime_mock.hpp"','#include "mock_device.hpp"'),
+                        ('class Host final : public packet18::LifetimeMock {','class Host final : public ownrt::MockDevice {'),
+                        ('auto e = LifetimeMock::copy(a, b, n, d);','auto e = MockDevice::copy(a, b, n, d);')]:
+        assert text.count(after)==1
+        text=text.replace(after,before,1)
+    assert digest(text.encode())==sha(BEFORE/'main.cpp')
+    neutral[str((HERE/'main.cpp').relative_to(ROOT))]=text
+    extra='\nif(OWN_RT_HOST_ONLY)\n add_executable(lifetime-tests lifetime_test.cpp owner.cpp)\n target_include_directories(lifetime-tests PRIVATE ${CMAKE_CURRENT_SOURCE_DIR} ${OWNER})\nendif()\n'
+    cmake=(HERE/'CMakeLists.txt').read_text();assert cmake.endswith(extra)
+    neutral[str((HERE/'CMakeLists.txt').relative_to(ROOT))]=cmake[:-len(extra)]
+    for rel,text in neutral.items():assert digest(text.encode())==previous['sources'][rel]
+    verified={}
+    for rel,expected in audit['original_sources'].items():
+        if rel.endswith('.py'):continue # Rebuilt/rerun host tooling, no model operations.
+        path=ROOT/rel
+        text=neutral.get(rel)
+        if rel==audit['isolated_canary']['path']:
+            assert sha(BEFORE/'canary.hpp')==audit['isolated_canary']['after_sha256']
+            assert expected==audit['isolated_canary']['before_sha256']
+            verified[rel]=dict(original=expected,current=sha(path),disposition='isolated canary; not a decode source');continue
+        if rel in audit['approved_model_neutral_edits']:
+            change=audit['approved_model_neutral_edits'][rel]
+            text=text if text is not None else path.read_text()
+            assert digest(text.encode())==change['after_sha256']
+            for edit in change['edits']:
+                assert text.count(edit['after'])==1
+                text=text.replace(edit['after'],edit['before'],1)
+        actual=digest(text.encode()) if text is not None else sha(path)
+        assert actual==expected,rel
+        verified[rel]=dict(original=expected,current=sha(path),reconstructed_original=actual)
+    assert 'if(a.canary)return run_canary(a);' in (HERE/'main.cpp').read_text()
+    receipts={}
+    for name,expected in audit['retained_receipts'].items():
+        path=BEFORE/name if name in ('sanitizer-mini.json','sanitizer-integration.json') else HERE/name
+        assert sha(path)==expected,name
+        receipts[str(path.relative_to(HERE))]=expected
+    for path in HERE.glob('sanitizer-real-*.json'):receipts[path.name]=sha(path)
+    old_san=read(BEFORE/'sanitizer-build-receipt.json')
+    assert old_san==read(BUILD/'sanitized/build.json')
+    assert sha(Path(old_san['binary']))==old_san['sha256']
+    for name,expected in old_san['sources'].items():
+        path=Path(name)
+        if path.suffix=='.py':continue
+        rel=str(path.relative_to(ROOT))
+        if rel in verified or path.name=='canary.hpp' and path.parent==HERE:continue
+        assert sha(path)==expected,name
+    result=dict(passed=True,device_executed=False,previous_build_sha256=sha(BEFORE/'build-receipt.json'),
+                previous_watchdog_reuse_sha256=sha(HERE/'deadline-reuse.json'),
+                original_host_sha256=audit['original_host_sha256'],original_sanitizer_sha256=old_san['sha256'],
+                retained_receipts=receipts,model_inputs=verified,
+                statement='Only canary scope, wrapper and CPU instrumentation/test-target changes. Engine, adapter, native owner, peer backend, arithmetic and launch order unchanged. Long gates NOT rerun; original binary identities retained. Fresh device W1 is required.')
+    save(HERE/'lifetime-reuse.json',result);return result
+
+def main():
+    assert os.getpriority(os.PRIO_PROCESS,0)==19 and os.environ.get('OMP_NUM_THREADS')=='2'
+    assert 'idle' in subprocess.check_output(['ionice','-p',str(os.getpid())],text=True)
+    (BUILD/'tmp').mkdir(exist_ok=True);os.environ['TMPDIR']=str(BUILD/'tmp')
+    r=dict(schema='own-runtime.iq3.packet18.build.v1',passed=False,device_executed=False,max_compile_jobs=2,numeric_threads=2,commands=[])
+    def run(cmd,timeout=600):
+        cmd=list(map(str,cmd));v=subprocess.run(cmd,capture_output=True,text=True,cwd=ROOT,timeout=timeout)
+        r['commands'].append(dict(argv=cmd,returncode=v.returncode,stdout=v.stdout,stderr=v.stderr))
+        print('PASS' if not v.returncode else 'FAIL',' '.join(cmd),flush=True)
+        assert not v.returncode,(v.stdout,v.stderr)
+        return v
+    proof=reuse_proof();r['lifetime_gate_reuse']=dict(sha256=sha(HERE/'lifetime-reuse.json'),**proof)
+    protected={str(f.relative_to(HERE)):sha(f) for d in ('w1-card3-a','w0-cards23-a') for f in (BUILD/d).rglob('*') if f.is_file()}
+    latch=BUILD/'FAULT.json'
+    if latch.exists():protected[str(latch.relative_to(HERE))]=sha(latch)
+    try:
+        for mode,compiler,host in [('host','/usr/bin/g++','ON'),('device',COMPILER,'OFF')]:
+            run(['cmake','-S',HERE,'-B',BUILD/mode,f'-DCMAKE_CXX_COMPILER={compiler}',f'-DOWN_RT_HOST_ONLY={host}'])
+            run(['cmake','--build',BUILD/mode,'-j2'])
+        flags=['-fno-fast-math','-ffp-contract=off','-fdenormal-fp-math=ieee','-foffload-fp32-prec-div','-foffload-fp32-prec-sqrt']
+        links=list((BUILD/'device').rglob('link.txt'));assert links
+        r['device_link_commands']={str(p.relative_to(BUILD)):p.read_text() for p in links}
+        assert all(all(f in s.split() for f in flags) for s in r['device_link_commands'].values())
+        cmds=read(BUILD/'device/compile_commands.json')
+        assert all(all(f in row['command'].split() for f in flags) for row in cmds)
+        r['precision_compile_and_link_asserted']=flags
+        r['device_ldd']=run(['ldd',BUILD/'device/own-rt-iq3']).stdout;assert 'not found' not in r['device_ldd']
+        dynamic=run(['readelf','-d',BUILD/'host/own-rt-iq3']).stdout
+        assert not any(s in dynamic.lower() for s in ('libsycl','libze_loader','libur_loader','libopencl'))
+        units={n:run([BUILD/'host'/n]).stdout for n in ('authority-tests','owner-retirement-tests','chain-tests','queue-tests','lifetime-tests')}
+        for mode in ('core','parallel'):
+            run([PY,'-B',HERE/'test.py','--binary',BUILD/'host/own-rt-iq3','--scratch',BUILD/f'lifetime-integration-{mode}-{time.time_ns()}',
+                 '--input',BUILD/'input','--receipt',HERE/f'cpu-mini-{mode}.json','--nongemv',mode])
+        cli=[]
+        for seconds in (None,300,1800,0,30,299,1801):
+            out=BUILD/f'lifetime-cli-{time.time_ns()}'
+            cmd=[str(BUILD/'host/own-rt-iq3'),'--canary','--cards','2','--card','0','--memory','resident','--output',str(out)]
+            if seconds is not None:cmd+=['--seconds',str(seconds)]
+            v=subprocess.run(cmd,capture_output=True,text=True,timeout=30)
+            assert (v.returncode==0)==(seconds in (None,300,1800))
+            row=dict(seconds=seconds,argv=cmd,returncode=v.returncode,stderr=v.stderr)
+            if not v.returncode:
+                assert 'context lifetime PASS:' in v.stderr
+                row['receipt']=read(out/'receipt.json');assert row['receipt']['passed']
+            cli.append(row)
+        save(HERE/'deadline-native-cli-tests.json',dict(passed=True,device_executed=False,tests=cli,binary_sha256=sha(BUILD/'host/own-rt-iq3')))
+        r['canary_cpu_mock']=cli[0]['receipt'];r['context_lifetime_trace']=cli[0]['stderr']
+        for name in ('test_window.py','test_mismatch.py','census.py'):run([PY,'-B',HERE/name])
+        run([PY,'-B',HERE/'depcheck_build.py','--source',HERE,'--tag','lifetime-sanitized'])
+        for gate in ('mini','integration'):run([PY,'-B',HERE/'sanitizer_gate.py',gate,'--tag','lifetime-sanitized'])
+        r['sanitizer']=dict(fresh_gates=['mini','integration'],build=read(BUILD/'lifetime-sanitized/build.json'),
+                            receipts={n:sha(HERE/n) for n in ('sanitizer-mini.json','sanitizer-integration.json')},real_gates='reused; see lifetime_gate_reuse')
+        previous_cpu=read(BEFORE/'cpu-tests.json')
+        cpu=dict(previous_cpu,binary_sha256=sha(BUILD/'host/own-rt-iq3'),units=units,window_protocol_tests=40,
+                 integration={m:read(HERE/f'cpu-mini-{m}.json') for m in ('core','parallel')},
+                 lifetime_gate_reuse=r['lifetime_gate_reuse'])
+        cpu.pop('deadline_only_gate_reuse',None)
+        save(HERE/'cpu-tests.json',cpu)
+        from math_gate import check
+        from queue_gate import check as queue_check
+        r['platform_math_gate']=check();r['queue_isolation_gate']=queue_check()
+        assert all(Path(row['file']).resolve() in {ROOT/n for n in r['platform_math_gate']['files']} for row in cmds)
+        for rel,h in protected.items():assert sha(HERE/rel)==h,rel
+        assert reuse_proof()==proof
+        r.update(passed=True,real_model_qualified=False,arithmetic='iq3-p17-detmath-v2',
+                 artifacts_sha256={f'{m}/own-rt-iq3':sha(BUILD/m/'own-rt-iq3') for m in ('host','device')},
+                 cpu_tests_sha256=sha(HERE/'cpu-tests.json'),census_sha256=sha(HERE/'census.json'),input_sha256=sha(BUILD/'input/input.json'),
+                 protected_evidence_sha256=protected,build_directory_removed=False)
+    finally:
+        r['sources']=source_hashes()
+        for name in ('LIFETIME.md','lifetime-reuse.json'):
+            r['sources'][str((HERE/name).relative_to(ROOT))]=sha(HERE/name)
+        r['arithmetic_sources']={n:h for n,h in r['sources'].items() if n.endswith(('.cpp','.hpp'))}
+        save(HERE/'build-receipt.json',r)
+    print(json.dumps(r['artifacts_sha256'],indent=2))
+if __name__=='__main__':main()

@@ -1,1 +1,109 @@
-IiIiU2VydmljZSBsaWZlc3BhbiArIGRlcGVuZGVuY3kgaW5qZWN0aW9uIGZvciBNYXJrZG93biBWYXVsdCBNQ1AuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgbG9nZ2luZwppbXBvcnQgd2Vha3JlZgpmcm9tIGNvbGxlY3Rpb25zLmFiYyBpbXBvcnQgQXN5bmNJdGVyYXRvcgpmcm9tIGNvbnRleHRsaWIgaW1wb3J0IGFzeW5jY29udGV4dG1hbmFnZXIKZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcsIEFueSwgVHlwZWREaWN0Cgpmcm9tIGZhc3RtY3AuZGVwZW5kZW5jaWVzIGltcG9ydCBDdXJyZW50Q29udGV4dApmcm9tIGZhc3RtY3Auc2VydmVyLmNvbnRleHQgaW1wb3J0IENvbnRleHQKCmZyb20gbWFya2Rvd25fdmF1bHRfbWNwLmRvbWFpbiBpbXBvcnQgU2VydmljZQoKaWYgVFlQRV9DSEVDS0lORzoKICAgIGZyb20gZmFzdG1jcCBpbXBvcnQgRmFzdE1DUAoKICAgIGZyb20gbWFya2Rvd25fdmF1bHRfbWNwLmNvbmZpZyBpbXBvcnQgUHJvamVjdENvbmZpZwoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgojIFRoZSBgYFByb2plY3RDb25maWdgYCBlYWNoIHNlcnZlciB3YXMgYnVpbHQgZnJvbSwga2V5ZWQgYnkgdGhlIHNlcnZlciBzbwojIHR3byBzZXJ2ZXJzIGluIG9uZSBwcm9jZXNzIChhIHRlc3Qgc3VpdGUgYnVpbGRzIHNldmVyYWwpIG5ldmVyIHNoYXJlIG9yCiMgb3ZlcndyaXRlIHN0YXRlLiAgYGBtYWtlX3NlcnZlcmBgIGJpbmRzIGl0IGJlZm9yZSBhbnkgYGByZWdpc3Rlcl8qYGAgcnVucy4KX0NPTkZJR1M6IHdlYWtyZWYuV2Vha0tleURpY3Rpb25hcnlbRmFzdE1DUCwgUHJvamVjdENvbmZpZ10gPSAoCiAgICB3ZWFrcmVmLldlYWtLZXlEaWN0aW9uYXJ5KCkKKQoKCmRlZiBiaW5kX2NvbmZpZyhtY3A6IEZhc3RNQ1AsIGNvbmZpZzogUHJvamVjdENvbmZpZykgLT4gTm9uZToKICAgICIiIlJlY29yZCAqY29uZmlnKiBhcyB0aGUgY29uZmlndXJhdGlvbiAqbWNwKiB3YXMgYnVpbHQgZnJvbS4KCiAgICBgYG1ha2Vfc2VydmVyYGAgY2FsbHMgdGhpcyBvbmNlLCByaWdodCBhZnRlciBjb25zdHJ1Y3RpbmcgdGhlIHNlcnZlciBhbmQKICAgIGJlZm9yZSBgYHJlZ2lzdGVyX3Rvb2xzYGAgLyBgYHJlZ2lzdGVyX3Jlc291cmNlc2BgIC8gYGByZWdpc3Rlcl9wcm9tcHRzYGAKICAgIC8gYGByZWdpc3Rlcl9hcHBzYGAgcnVuLCBzbyBldmVyeSByZWdpc3RyYXIgcmVhY2hlcyB0aGUgc2FtZSByZXNvbHZlZAogICAgY29uZmlndXJhdGlvbiB0aHJvdWdoIDpmdW5jOmBjb25maWdfZm9yYCDigJQgYSBjYWxsZXItc3VwcGxpZWQgYGBjb25maWdgYAogICAgaW5jbHVkZWQsIG5vdCBvbmx5IHRoZSBlbnZpcm9ubWVudCAoIzUzNCkuCiAgICAiIiIKICAgIF9DT05GSUdTW21jcF0gPSBjb25maWcKCgpkZWYgY29uZmlnX2ZvcihtY3A6IEZhc3RNQ1ApIC0+IFByb2plY3RDb25maWc6CiAgICAiIiJUaGUgY29uZmlndXJhdGlvbiAqbWNwKiB3YXMgYnVpbHQgZnJvbSwgZm9yIHJlZ2lzdHJhdGlvbi10aW1lIHdpcmluZy4KCiAgICBVc2UgaW5zaWRlIGEgYGByZWdpc3Rlcl8qYGAgZnVuY3Rpb24gd2hlbiBhIHN1YnN5c3RlbSBtdXN0IGV4aXN0IHdoaWxlCiAgICB0aGUgdG9vbHMgYXJlIHJlZ2lzdGVyZWQg4oCUIGEgam9icyBiYWNrZW5kLCBhbiB1cHN0cmVhbSBjbGllbnQsIGEKICAgIHBhcmFtZXRlciBkZWZhdWx0IGJha2VkIGZyb20gY29uZmlndXJhdGlvbi4gIFJlYWRpbmcgdGhlIGVudmlyb25tZW50CiAgICB0aGVyZSBpbnN0ZWFkIHNpbGVudGx5IGRpc2FncmVlcyB3aXRoIGEgYGBjb25maWdgYCBwYXNzZWQgdG8KICAgIGBgbWFrZV9zZXJ2ZXJgYC4KCiAgICBSYWlzZXM6CiAgICAgICAgUnVudGltZUVycm9yOiBJZiAqbWNwKiB3YXMgbm90IGJ1aWx0IHRocm91Z2ggYGBtYWtlX3NlcnZlcmBgIGFuZAogICAgICAgICAgICA6ZnVuYzpgYmluZF9jb25maWdgIHdhcyBuZXZlciBjYWxsZWQg4oCUIGEgYmFyZSBgYEZhc3RNQ1AoKWBgIGluIGEKICAgICAgICAgICAgdGVzdCwgZm9yIGluc3RhbmNlLiAgRmFsbGluZyBiYWNrIHRvIHRoZSBlbnZpcm9ubWVudCBoZXJlIHdvdWxkCiAgICAgICAgICAgIHJlY3JlYXRlIHRoZSBkaXZlcmdlbmNlIHRoaXMgYWNjZXNzb3IgZXhpc3RzIHRvIGNsb3NlLgogICAgIiIiCiAgICBjb25maWcgPSBfQ09ORklHUy5nZXQobWNwKQogICAgaWYgY29uZmlnIGlzIE5vbmU6CiAgICAgICAgbXNnID0gKAogICAgICAgICAgICAiTm8gUHJvamVjdENvbmZpZyBpcyBib3VuZCB0byB0aGlzIHNlcnZlciDigJQgYnVpbGQgaXQgd2l0aCAiCiAgICAgICAgICAgICJtYWtlX3NlcnZlcigpLCBvciBjYWxsIGJpbmRfY29uZmlnKG1jcCwgY29uZmlnKSBiZWZvcmUgcmVnaXN0ZXJpbmciCiAgICAgICAgKQogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihtc2cpCiAgICByZXR1cm4gY29uZmlnCgoKZGVmIGdldF9jb25maWcoY3R4OiBDb250ZXh0ID0gQ3VycmVudENvbnRleHQoKSkgLT4gUHJvamVjdENvbmZpZzoKICAgICIiIlJlc29sdmUgdGhlIHNlcnZlcidzIGNvbmZpZ3VyYXRpb24gZnJvbSB0aGUgcmVxdWVzdCBjb250ZXh0LgoKICAgIFVzZSBhcyBhIGBgRGVwZW5kc2BgIGRlZmF1bHQgaW4gdG9vbC9yZXNvdXJjZS9wcm9tcHQgaGFuZGxlcnMsIG5leHQgdG8KICAgIDpmdW5jOmBnZXRfc2VydmljZWA7IGl0IHJldHVybnMgdGhlIHNhbWUgb2JqZWN0IDpmdW5jOmBjb25maWdfZm9yYAogICAgcmV0dXJucyBhdCByZWdpc3RyYXRpb24gdGltZS4KICAgICIiIgogICAgcmV0dXJuIGNvbmZpZ19mb3IoY3R4LmZhc3RtY3ApCgoKY2xhc3MgTGlmZXNwYW5TdGF0ZShUeXBlZERpY3QpOgogICAgIiIiU2hhcGUgb2YgdGhlIGxpZmVzcGFuIGNvbnRleHQgeWllbGRlZCB0byByZXF1ZXN0IGhhbmRsZXJzLiIiIgoKICAgIHNlcnZpY2U6IFNlcnZpY2UKCgpAYXN5bmNjb250ZXh0bWFuYWdlcgphc3luYyBkZWYgc2VydmVyX2xpZmVzcGFuKF9tY3A6IG9iamVjdCkgLT4gQXN5bmNJdGVyYXRvcltkaWN0W3N0ciwgQW55XV06CiAgICAiIiJTdGFydCB0aGUgc2VydmljZSBvbiBzdGFydHVwOyBzdG9wIGl0IG9uIHNodXRkb3duLiIiIgogICAgc2VydmljZSA9IFNlcnZpY2UoKQogICAgYXdhaXQgc2VydmljZS5zdGFydCgpCiAgICBsb2dnZXIuaW5mbygic2VydmljZV9zdGFydGVkIikKICAgIHRyeToKICAgICAgICB5aWVsZCB7InNlcnZpY2UiOiBzZXJ2aWNlfQogICAgZmluYWxseToKICAgICAgICBhd2FpdCBzZXJ2aWNlLnN0b3AoKQogICAgICAgIGxvZ2dlci5pbmZvKCJzZXJ2aWNlX3N0b3BwZWQiKQoKCmRlZiBnZXRfc2VydmljZShjdHg6IENvbnRleHQgPSBDdXJyZW50Q29udGV4dCgpKSAtPiBTZXJ2aWNlOgogICAgIiIiUmVzb2x2ZSB0aGUgcnVubmluZyA6Y2xhc3M6YFNlcnZpY2VgIGZyb20gdGhlIHJlcXVlc3QgY29udGV4dC4KCiAgICBVc2UgYXMgYSBgYERlcGVuZHNgYCBkZWZhdWx0IGluIHRvb2wvcmVzb3VyY2UvcHJvbXB0IGhhbmRsZXJzLgoKICAgIFJhaXNlczoKICAgICAgICBSdW50aW1lRXJyb3I6IElmIHRoZSBzZXJ2ZXIgbGlmZXNwYW4gaGFzIG5vdCBydW4uCiAgICAiIiIKICAgIHNlcnZpY2U6IFNlcnZpY2UgfCBOb25lID0gY3R4LmxpZmVzcGFuX2NvbnRleHQuZ2V0KCJzZXJ2aWNlIikKICAgIGlmIHNlcnZpY2UgaXMgTm9uZToKICAgICAgICBtc2cgPSAiU2VydmljZSBub3QgaW5pdGlhbGlzZWQg4oCUIHNlcnZlciBsaWZlc3BhbiBoYXMgbm90IHJ1biIKICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IobXNnKQogICAgcmV0dXJuIHNlcnZpY2UK
+"""Service lifespan + dependency injection for Markdown Vault MCP."""
+
+from __future__ import annotations
+
+import logging
+import weakref
+from collections.abc import AsyncIterator
+from contextlib import asynccontextmanager
+from typing import TYPE_CHECKING, Any, TypedDict
+
+from fastmcp.dependencies import CurrentContext
+from fastmcp.server.context import Context
+
+from markdown_vault_mcp.domain import Service
+
+if TYPE_CHECKING:
+    from fastmcp import FastMCP
+
+    from markdown_vault_mcp.config import ProjectConfig
+
+logger = logging.getLogger(__name__)
+
+# The ``ProjectConfig`` each server was built from, keyed by the server so
+# two servers in one process (a test suite builds several) never share or
+# overwrite state.  ``make_server`` binds it before any ``register_*`` runs.
+_CONFIGS: weakref.WeakKeyDictionary[FastMCP, ProjectConfig] = (
+    weakref.WeakKeyDictionary()
+)
+
+
+def bind_config(mcp: FastMCP, config: ProjectConfig) -> None:
+    """Record *config* as the configuration *mcp* was built from.
+
+    ``make_server`` calls this once, right after constructing the server and
+    before ``register_tools`` / ``register_resources`` / ``register_prompts``
+    / ``register_apps`` run, so every registrar reaches the same resolved
+    configuration through :func:`config_for` — a caller-supplied ``config``
+    included, not only the environment (#534).
+    """
+    _CONFIGS[mcp] = config
+
+
+def config_for(mcp: FastMCP) -> ProjectConfig:
+    """The configuration *mcp* was built from, for registration-time wiring.
+
+    Use inside a ``register_*`` function when a subsystem must exist while
+    the tools are registered — a jobs backend, an upstream client, a
+    parameter default baked from configuration.  Reading the environment
+    there instead silently disagrees with a ``config`` passed to
+    ``make_server``.
+
+    Raises:
+        RuntimeError: If *mcp* was not built through ``make_server`` and
+            :func:`bind_config` was never called — a bare ``FastMCP()`` in a
+            test, for instance.  Falling back to the environment here would
+            recreate the divergence this accessor exists to close.
+    """
+    config = _CONFIGS.get(mcp)
+    if config is None:
+        msg = (
+            "No ProjectConfig is bound to this server — build it with "
+            "make_server(), or call bind_config(mcp, config) before registering"
+        )
+        raise RuntimeError(msg)
+    return config
+
+
+def get_config(ctx: Context = CurrentContext()) -> ProjectConfig:
+    """Resolve the server's configuration from the request context.
+
+    Use as a ``Depends`` default in tool/resource/prompt handlers, next to
+    :func:`get_service`; it returns the same object :func:`config_for`
+    returns at registration time.
+    """
+    return config_for(ctx.fastmcp)
+
+
+class LifespanState(TypedDict):
+    """Shape of the lifespan context yielded to request handlers."""
+
+    service: Service
+
+
+@asynccontextmanager
+async def server_lifespan(_mcp: object) -> AsyncIterator[dict[str, Any]]:
+    """Start the service on startup; stop it on shutdown."""
+    service = Service()
+    await service.start()
+    logger.info("service_started")
+    try:
+        yield {"service": service}
+    finally:
+        await service.stop()
+        logger.info("service_stopped")
+
+
+def get_service(ctx: Context = CurrentContext()) -> Service:
+    """Resolve the running :class:`Service` from the request context.
+
+    Use as a ``Depends`` default in tool/resource/prompt handlers.
+
+    Raises:
+        RuntimeError: If the server lifespan has not run.
+    """
+    service: Service | None = ctx.lifespan_context.get("service")
+    if service is None:
+        msg = "Service not initialised — server lifespan has not run"
+        raise RuntimeError(msg)
+    return service

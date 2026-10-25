@@ -1,1 +1,50 @@
-ewogICJUMSI6IHsKICAgICJoaXRfd2hlbl9wcmVzZW50IjogOCwKICAgICJoaXRfd2hlbl9hYnNlbnQiOiAwLAogICAgIm1pc3NfcHJlc2VudCI6IDAsCiAgICAibWlzc19hYnNlbnQiOiA4CiAgfSwKICAiVDFfb2siOiB0cnVlLAogICJUMiI6IHsKICAgICJmYl9lZGdlIjogWwogICAgICAwLjAsCiAgICAgIDE1LjcwMzgxMjU5OTE4MjEyOSwKICAgICAgMzEuMzI5NjI3OTkwNzIyNjU2LAogICAgICAxNS43MDM4MTI1OTkxODIxMjksCiAgICAgIDAuMAogICAgXSwKICAgICJwcm9jX3N0YXQiOiBbCiAgICAgIDcyMzY4LjAsCiAgICAgIDcyMzc1LjAsCiAgICAgIDcyMzc5LjAsCiAgICAgIDcyMzk0LjAsCiAgICAgIDcyMzk4LjAKICAgIF0sCiAgICAicHJvY191cHRpbWUiOiBbCiAgICAgIDM3MC4xMywKICAgICAgMzcwLjE1LAogICAgICAzNzAuMTgsCiAgICAgIDM3MC4yNSwKICAgICAgMzcwLjI3CiAgICBdLAogICAgImZiX3JldiI6IDEuMCwKICAgICJmYl9yZXNpZCI6IDAuMCwKICAgICJzdGF0X3Jlc2lkIjogMS4wLAogICAgInVwdGltZV9yZXNpZCI6IDEuMCwKICAgICJzdGF0X3JldiI6IDAuMCwKICAgICJ1cHRpbWVfcmV2IjogMC4wCiAgfSwKICAiVDMiOiB7CiAgICAiY2xvc2VkX2V5ZSI6IDIwLAogICAgImJsaW5kZWQiOiAwLAogICAgIm4iOiAyMAogIH0sCiAgIlQzX2Ryb3AiOiAxLjAsCiAgImV2ZGV2IjogewogICAgImJhc2UiOiAwLjAsCiAgICAiYWZ0ZXIiOiAxMC4wLAogICAgImVtaXR0ZWQiOiAzCiAgfSwKICAidmVyZGljdF9mYl9pc19leWUiOiB0cnVlCn0=
+{
+  "T1": {
+    "hit_when_present": 8,
+    "hit_when_absent": 0,
+    "miss_present": 0,
+    "miss_absent": 8
+  },
+  "T1_ok": true,
+  "T2": {
+    "fb_edge": [
+      0.0,
+      15.703812599182129,
+      31.329627990722656,
+      15.703812599182129,
+      0.0
+    ],
+    "proc_stat": [
+      72368.0,
+      72375.0,
+      72379.0,
+      72394.0,
+      72398.0
+    ],
+    "proc_uptime": [
+      370.13,
+      370.15,
+      370.18,
+      370.25,
+      370.27
+    ],
+    "fb_rev": 1.0,
+    "fb_resid": 0.0,
+    "stat_resid": 1.0,
+    "uptime_resid": 1.0,
+    "stat_rev": 0.0,
+    "uptime_rev": 0.0
+  },
+  "T3": {
+    "closed_eye": 20,
+    "blinded": 0,
+    "n": 20
+  },
+  "T3_drop": 1.0,
+  "evdev": {
+    "base": 0.0,
+    "after": 10.0,
+    "emitted": 3
+  },
+  "verdict_fb_is_eye": true
+}

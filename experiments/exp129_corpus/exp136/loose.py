@@ -1,1 +1,61 @@
-IiIiTG9vc2UgYmFzZWxpbmUgKGV4cDEzNikuCgpUaGUgc2hpcHBlZCBydWxlcyBhcmUgbmFycm93IGJlY2F1c2UgZXhwMTI5LTEzNSB0cmFkZWQgY292ZXJhZ2UgZm9yCnByZWNpc2lvbiwgc2l4IHJvdW5kcyBpbiBhIHJvdy4gVGhhdCByYWlzZXMgYSBxdWVzdGlvbiBwcmVjaXNpb24gY2Fubm90CmFuc3dlcjogaXMgdGhlIHRvb2wgbXV0ZSBiZWNhdXNlIHJlYWwgY29kZSBpcyBjbGVhbiwgb3IgYmVjYXVzZSB3ZSBtYWRlCnRoZSBydWxlcyBuYXJyb3c/CgpUaGlzIG1lYXN1cmVzIHRoZSAqdW4tcHJ1bmVkKiBkZW5zaXR5IG9mIHRoZSBzYW1lIHRocmVlIGRlZmVjdCBjbGFzc2VzLAp3aXRoIG5vIGd1YXJkIGRldGVjdGlvbiBhdCBhbGwsIG9uIHRoZSBzYW1lIGNvcnB1cy4gVHdvIHBvaW50cyBvbiB0aGUKcHJlY2lzaW9uL2NvdmVyYWdlIGN1cnZlLCBtZWFzdXJlZCwgbm90IGFyZ3VlZC4KIiIiCmltcG9ydCBhc3QsIGpzb24sIHBhdGhsaWIKCkJBU0UgPSBwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyOV9jb3JwdXMvZXhwMTM2IikKRCA9IEJBU0UvImNvcnB1czUiCgpkZWYgZ3VhcmRlZChub2RlLCBzcmNfbGluZXMsIHRyZWUpOgogICAgIiIiY2hlYXA6IGlzIGFueSBlbmNsb3NpbmcgSWYgdGVzdGluZyB0aGUgZGVub21pbmF0b3Igb3IgYSB0cnV0aGluZXNzPyIiIgogICAgcmV0dXJuIEZhbHNlICAjIGxvb3NlIGJhc2VsaW5lOiBuZXZlciBjbGFpbSBhIGd1YXJkCgpkZWYgc2NhbihwYXRoKToKICAgIHNyYyA9IHBhdGhsaWIuUGF0aChwYXRoKS5yZWFkX3RleHQoKQogICAgdHJ5OiB0cmVlID0gYXN0LnBhcnNlKHNyYykKICAgIGV4Y2VwdCBFeGNlcHRpb246IHJldHVybiBbXQogICAgb3V0ID0gW10KICAgIGZvciBuIGluIGFzdC53YWxrKHRyZWUpOgogICAgICAgICMgTE9PU0UgRUcwMDU6IGV2ZXJ5IGRpdmlzaW9uLCBndWFyZCBvciBub3QKICAgICAgICBpZiBpc2luc3RhbmNlKG4sIGFzdC5CaW5PcCkgYW5kIGlzaW5zdGFuY2Uobi5vcCwgKGFzdC5EaXYsIGFzdC5GbG9vckRpdikpOgogICAgICAgICAgICBvdXQuYXBwZW5kKHsiZWciOiJFRzAwNSIsImxpbmUiOm4ubGluZW5vLAogICAgICAgICAgICAgICAgICAgICAgICAiaGl0Ijphc3QudW5wYXJzZShuKVs6NjBdfSkKICAgICAgICAjIExPT1NFIEVHMDA2OiBiYXJlIGV4Y2VwdCBPUiBleGNlcHQgRXhjZXB0aW9uIC8gZXhjZXB0IEJhc2VFeGNlcHRpb24KICAgICAgICBpZiBpc2luc3RhbmNlKG4sIGFzdC5FeGNlcHRIYW5kbGVyKToKICAgICAgICAgICAgaWYgbi50eXBlIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKHsiZWciOiJFRzAwNiIsImxpbmUiOm4ubGluZW5vLCJoaXQiOiJiYXJlIGV4Y2VwdCJ9KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdCA9IGFzdC51bnBhcnNlKG4udHlwZSkKICAgICAgICAgICAgICAgIGlmIHQgaW4gKCJFeGNlcHRpb24iLCJCYXNlRXhjZXB0aW9uIik6CiAgICAgICAgICAgICAgICAgICAgb3V0LmFwcGVuZCh7ImVnIjoiRUcwMDYiLCJsaW5lIjpuLmxpbmVubywiaGl0IjpmImV4Y2VwdCB7dH0ifSkKICAgICAgICAjIExPT1NFIEVHUDAxOiBhbnkgdHJ5L2V4Y2VwdCBpbnNpZGUgYSBsb29wIHdoZXJlIGhhbmRsZXIgYm9keSBpcwogICAgICAgICMgcGFzcy9jb250aW51ZS9icmVhayBvciBvbmx5IGxvZ2dpbmcKICAgICAgICBpZiBpc2luc3RhbmNlKG4sKGFzdC5Gb3IsYXN0LldoaWxlKSk6CiAgICAgICAgICAgIGZvciBzdWIgaW4gYXN0LndhbGsobik6CiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKHN1YiwgYXN0LkV4Y2VwdEhhbmRsZXIpOgogICAgICAgICAgICAgICAgICAgIGJvZHk9W2IgZm9yIGIgaW4gc3ViLmJvZHkgaWYgbm90IGlzaW5zdGFuY2UoYixhc3QuRXhwcildCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IGJvZHkgb3IgYWxsKGlzaW5zdGFuY2UoYiwoYXN0LlBhc3MsYXN0LkNvbnRpbnVlLGFzdC5CcmVhaykpIGZvciBiIGluIGJvZHkpOgogICAgICAgICAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKHsiZWciOiJFR1AwMSIsImxpbmUiOnN1Yi5saW5lbm8sImhpdCI6InNpbGVudCBoYW5kbGVyIGluIGxvb3AifSkKICAgIHJldHVybiBvdXQKCnRvdF9iPTA7IGFsbGhpdHM9W107IHBlcj17fQpmb3IgZiBpbiBzb3J0ZWQoRC5nbG9iKCIqLnB5IikpOgogICAgdG90X2IgKz0gZi5zdGF0KCkuc3Rfc2l6ZQogICAgaCA9IHNjYW4oZikKICAgIHBlcltmLm5hbWVdPWxlbihoKQogICAgZm9yIHggaW4gaDogeFsiZmlsZSJdPWYubmFtZTsgYWxsaGl0cy5hcHBlbmQoeCkKcHJpbnQoImZpbGVzIixsZW4ocGVyKSwiYnl0ZXMiLHRvdF9iKQpwcmludCgiTE9PU0UgZmluZGluZ3MiLGxlbihhbGxoaXRzKSwicGVyX2tiICUuNGYiJShsZW4oYWxsaGl0cykvdG90X2IqMTAwMCkpCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKcHJpbnQoQ291bnRlcih4WyJlZyJdIGZvciB4IGluIGFsbGhpdHMpKQpwcmludCgic2lsZW50IixzdW0oMSBmb3IgdiBpbiBwZXIudmFsdWVzKCkgaWYgdj09MCksIi8iLGxlbihwZXIpKQpwcmludCgicGVyLWZpbGUiLGpzb24uZHVtcHMocGVyKSkKKEJBU0UvImxvb3NlNS5qc29uIikud3JpdGVfdGV4dChqc29uLmR1bXBzKGFsbGhpdHMsaW5kZW50PTEpKQo=
+"""Loose baseline (exp136).
+
+The shipped rules are narrow because exp129-135 traded coverage for
+precision, six rounds in a row. That raises a question precision cannot
+answer: is the tool mute because real code is clean, or because we made
+the rules narrow?
+
+This measures the *un-pruned* density of the same three defect classes,
+with no guard detection at all, on the same corpus. Two points on the
+precision/coverage curve, measured, not argued.
+"""
+import ast, json, pathlib
+
+BASE = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp136")
+D = BASE/"corpus5"
+
+def guarded(node, src_lines, tree):
+    """cheap: is any enclosing If testing the denominator or a truthiness?"""
+    return False  # loose baseline: never claim a guard
+
+def scan(path):
+    src = pathlib.Path(path).read_text()
+    try: tree = ast.parse(src)
+    except Exception: return []
+    out = []
+    for n in ast.walk(tree):
+        # LOOSE EG005: every division, guard or not
+        if isinstance(n, ast.BinOp) and isinstance(n.op, (ast.Div, ast.FloorDiv)):
+            out.append({"eg":"EG005","line":n.lineno,
+                        "hit":ast.unparse(n)[:60]})
+        # LOOSE EG006: bare except OR except Exception / except BaseException
+        if isinstance(n, ast.ExceptHandler):
+            if n.type is None:
+                out.append({"eg":"EG006","line":n.lineno,"hit":"bare except"})
+            else:
+                t = ast.unparse(n.type)
+                if t in ("Exception","BaseException"):
+                    out.append({"eg":"EG006","line":n.lineno,"hit":f"except {t}"})
+        # LOOSE EGP01: any try/except inside a loop where handler body is
+        # pass/continue/break or only logging
+        if isinstance(n,(ast.For,ast.While)):
+            for sub in ast.walk(n):
+                if isinstance(sub, ast.ExceptHandler):
+                    body=[b for b in sub.body if not isinstance(b,ast.Expr)]
+                    if not body or all(isinstance(b,(ast.Pass,ast.Continue,ast.Break)) for b in body):
+                        out.append({"eg":"EGP01","line":sub.lineno,"hit":"silent handler in loop"})
+    return out
+
+tot_b=0; allhits=[]; per={}
+for f in sorted(D.glob("*.py")):
+    tot_b += f.stat().st_size
+    h = scan(f)
+    per[f.name]=len(h)
+    for x in h: x["file"]=f.name; allhits.append(x)
+print("files",len(per),"bytes",tot_b)
+print("LOOSE findings",len(allhits),"per_kb %.4f"%(len(allhits)/tot_b*1000))
+from collections import Counter
+print(Counter(x["eg"] for x in allhits))
+print("silent",sum(1 for v in per.values() if v==0),"/",len(per))
+print("per-file",json.dumps(per))
+(BASE/"loose5.json").write_text(json.dumps(allhits,indent=1))

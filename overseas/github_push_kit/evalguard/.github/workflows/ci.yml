@@ -1,1 +1,20 @@
-bmFtZTogZXZhbGd1YXJkCm9uOiBbcHVzaCwgcHVsbF9yZXF1ZXN0XQpqb2JzOgogIHRlc3Q6CiAgICBydW5zLW9uOiB1YnVudHUtbGF0ZXN0CiAgICBzdHJhdGVneToKICAgICAgbWF0cml4OiB7IHB5dGhvbjogWyIzLjkiLCAiMy4xMCIsICIzLjExIiwgIjMuMTIiXSB9CiAgICBzdGVwczoKICAgICAgLSB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHY0CiAgICAgIC0gdXNlczogYWN0aW9ucy9zZXR1cC1weXRob25AdjUKICAgICAgICB3aXRoOiB7IHB5dGhvbi12ZXJzaW9uOiAiJHt7IG1hdHJpeC5weXRob24gfX0iIH0KICAgICAgLSBuYW1lOiBzZWxmLXRlc3QgKHplcm8gZGVwZW5kZW5jeTsgcHl0ZXN0IG5vdCByZXF1aXJlZCkKICAgICAgICBydW46IHB5dGhvbjMgdGVzdHMvcnVuX3Rlc3RzLnB5CiAgICAgIC0gbmFtZTogbGludCBvd24gc291cmNlIC0tIG11c3Qgc3RheSBjbGVhbgogICAgICAgIHJ1bjogfAogICAgICAgICAgcHl0aG9uMyAtbSBldmFsZ3VhcmQgcnVsZXMucHkgY2xpLnB5IC0tc2V2ZXJpdHkgd2FybgogICAgICAtIG5hbWU6IGZpeHR1cmUgc21va2UKICAgICAgICBydW46IHwKICAgICAgICAgIHB5dGhvbjMgLW0gZXZhbGd1YXJkIHRlc3RzL3BsYW50ZWRfZXZhbC5weSB8fCB0cnVlCiAgICAgICAgICBweXRob24zIC1tIGV2YWxndWFyZCB0ZXN0cy9jbGVhbl9ldmFsLnB5Cg==
+name: evalguard
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: { python: ["3.9", "3.10", "3.11", "3.12"] }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "${{ matrix.python }}" }
+      - name: self-test (zero dependency; pytest not required)
+        run: python3 tests/run_tests.py
+      - name: lint own source -- must stay clean
+        run: |
+          python3 -m evalguard rules.py cli.py --severity warn
+      - name: fixture smoke
+        run: |
+          python3 -m evalguard tests/planted_eval.py || true
+          python3 -m evalguard tests/clean_eval.py

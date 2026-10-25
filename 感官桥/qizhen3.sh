@@ -1,1 +1,9 @@
-IyEvYmluL2Jhc2gKZXhwb3J0IERJU1BMQVk9Ojk5CkNIPS9uaXgvc3RvcmUvamFmOWduYmxuMGNiczJ2c3BmZGJsYzRmZjZ2djFrazUtY2hyb21pdW0tMTQyLjAuNzQ0NC4xNzUvYmluL2Nocm9taXVtCmV4ZWMgJENIIC0tbm8tc2FuZGJveCAtLWRpc2FibGUtZGV2LXNobS11c2FnZSAtLXJlbW90ZS1kZWJ1Z2dpbmctcG9ydD05MzMzIFwKICAtLXJlbW90ZS1hbGxvdy1vcmlnaW5zPSogXAogIC0td2luZG93LXNpemU9ODAwLDUwMCAtLXdpbmRvdy1wb3NpdGlvbj0wLDAgXAogIC0tdXNlLWdsPWFuZ2xlIC0tdXNlLWFuZ2xlPXN3aWZ0c2hhZGVyIC0tZW5hYmxlLXVuc2FmZS1zd2lmdHNoYWRlciBcCiAgLS1hdXRvcGxheS1wb2xpY3k9bm8tdXNlci1nZXN0dXJlLXJlcXVpcmVkIC0tc3RhcnQtZnVsbHNjcmVlbiBcCiAgImZpbGU6Ly8vZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS/mhJ/lrpjmoaUv54mHLmh0bWwiCg==
+#!/bin/bash
+export DISPLAY=:99
+CH=/nix/store/jaf9gnbln0cbs2vspfdblc4ff6vv1kk5-chromium-142.0.7444.175/bin/chromium
+exec $CH --no-sandbox --disable-dev-shm-usage --remote-debugging-port=9333 \
+  --remote-allow-origins=* \
+  --window-size=800,500 --window-position=0,0 \
+  --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader \
+  --autoplay-policy=no-user-gesture-required --start-fullscreen \
+  "file:///data/workspace/luoshen-o1/感官桥/片.html"

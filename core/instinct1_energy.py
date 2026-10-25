@@ -1,1 +1,155 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrmnKzog73lsYIg56ysMeatpe+8muiDvemHjyAvIOi/m+mjn+acrOiDvQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYhSDlj6rlgZrmnKzog73lsYLvvIzkuI3lvoDkuIrliqDnpL7kvJrjgIHms5XlvovjgIHmlofljJbjgIHpgZPlvrfjgIHoh6rmiJHlrp7njrDjgIIKICDmnKzmlofku7blj6rmnInlm5vku7bkuovvvIzlpJrkuIDku7bpg73kuI3lgZrvvJoKCiAgICDikaAg6IO96YeP6aKE566XICAgYnVkZ2V0ICAgIOKAlOKAlCDkuIDkuKrlkajmnJ/lhYHorrjmlK/lh7rlpJrlsJHvvIjlrZjph48g4omgIOmihOeul++8iQogICAg4pGhIOS9jueUtemHj+mZjee6pyBkb3duZ3JhZGUg4oCU4oCUIOi2iumlv+i2iuecge+8iOS4u+WKqOmZjeWfuuehgOS7o+iwoiArIOmZjeWQnuWQkO+8iQogICAg4pGiIOi2heaUr+WBnOacuiAgIHNodXRkb3duICDigJTigJQg6Iqx6LaF5LqG5Li75Yqo5YGc77yI5L+d5oqk77yM5LiN5piv562J5q2777yJCiAgICDikaMg6IO96YeP6K6w5b2VICAgbGVkZ2VyICAgIOKAlOKAlCDmlLbmlK/otKbmnKwKCuKYhSDkuLrku4DkuYjpnIDopoHlroPvvIjlhYjmn6Xov4flt7LmnInnmoTvvIzkuI3mmK/miJHku6XkuLrnvLrvvInvvJoKICAgIGxpZmU1LnB5IOW3suaciSBFIC8gRW1heCAvIGJhc2FsIC8gYzEgLyBmZyAvIGRlYXRoX3BhdGllbmNlCiAgICDmiYDku6Ui6IO96YePIuS4jeaYr+ayoeacieOAguS9humAkOmhueWvuei/h+S7peWQju+8mgoKICAgICAg6aKE566XICAgICDinYwg5Y+q5pyJ5a2Y6YePIEXvvIzmsqHmnIki6L+Z5Liq5ZGo5pyf5YWB6K646Iqx5aSa5bCRIueahOamguW/tQogICAgICDpmY3nuqcgICAgIOKaoO+4jyDlj6rmnIkgY2FwPWNhcF9tYXgqZSDov5nkuIDkuKrjgJDooqvliqjjgJHnvKnvvIjniannkIbnuqbmnZ/nmoTlia/kuqflk4HvvIkKICAgICAgICAgICAgICAg5LiUIGJhc2FsIOaYr+W4uOaVsO+8jOmlv+WIsOatu+S5n+S4jemZjeWfuuehgOS7o+iwoiDigJTigJQg55yf55Sf54mp5Lya6ZmNCiAgICAgIOWBnOacuiAgICAg4p2MIOWPquaciSBFPD0wIOeGrOi/hyA2MCDmi43miY3mrbvvvIzpgqPmmK/jgJDppb/mrbvjgJHkuI3mmK/jgJDotoXmlK/kv53miqTjgJEKICAgICAg6K6w5b2VICAgICDimqDvuI8gbG9nIOmHjOacieeerOaXtiBF77yM5rKh5pyJ5pS25pSv6LSm5pys77yM5rKh5pyJ6LaF5pSv5LqL5Lu2CgogICAg55yf55Sf54mp5L2O6IO96YeP5pe277ya6ZmN5Luj6LCi44CB5YeP5rS75Yqo44CB6L+b5YWl6IqC6IO944CCCiAgICDljp/niYjmtJvnpZ7kvY7og73ph4/ml7bvvJrlj6rmmK/ooqsgY2FwX21heCplIOiiq+WKqOWOi+edgO+8jOWfuuehgOS7o+iwouS4gOWIhuS4jeecgeOAggoK4piFIOiuvuiuoe+8muS4jeaUuSBsaWZlNS5weSDkuIDkuKrlrZfvvIznlKjljIXoo4XlmajmjqXov5vljrvjgIIKICAgIO+8iOKYhTEyIOeahOaVmeiure+8muaWh+S7tuWcqOebmOS4iiDiiaAg5o6l6L+b5Y675LqG44CC6L+Z5qyh6LCD55So6ZO+5b+F6aG755yf55qE57uP6L+H5a6D44CC77yJCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgoKY2xhc3MgRW5lcmd5SW5zdGluY3Q6CiAgICAiIiLnrKwx5q2l77ya6IO96YePL+i/m+mjn+acrOiDveOAguWMheijhSBMaWZlNe+8jOiwg+eUqOmTvuW8uuWItue7j+i/h+acrOexu+OAgiIiIgoKICAgICMg5qGj5L2N77ya6LaK6aW/6LaK55yB77yI5pys6IO95bGC77yM5LiN5piv5Yaz562W5bGC77yJCiAgICBUSUVSUyA9IFsKICAgICAgICAjICjmoaPkvY3lkI0sICAgReS4i+eVjCwgYmFzYWzlgI3njocsIGNhcOWAjeeOhykKICAgICAgICAoIuWFhei2syIsIDAuNjAsIDEuMDAsIDEuMDApLAogICAgICAgICgi5YGP5L2OIiwgMC4zMCwgMC44MCwgMC44MCksCiAgICAgICAgKCLppaXppb8iLCAwLjE1LCAwLjYwLCAwLjU1KSwKICAgICAgICAoIuWNseaApSIsIDAuMDAsIDAuNDAsIDAuMzApLAogICAgXQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsaWZlLAogICAgICAgICAgICAgICAgIGN5Y2xlPTEwMCwgICAgICAgICAgIyDpooTnrpflkajmnJ/vvIjmi43vvIkKICAgICAgICAgICAgICAgICBidWRnZXQ9MS4wMCwgICAgICAgICMg5q+P5ZGo5pyf5YWB6K645pSv5Ye6CiAgICAgICAgICAgICAgICAgZW5hYmxlX2Rvd25ncmFkZT1UcnVlLAogICAgICAgICAgICAgICAgIGVuYWJsZV9zaHV0ZG93bj1UcnVlLAogICAgICAgICAgICAgICAgIGJhc2FsMD1Ob25lLCBjYXAwPU5vbmUpOgogICAgICAgIHNlbGYuTCA9IGxpZmUKICAgICAgICBzZWxmLmN5Y2xlID0gaW50KGN5Y2xlKQogICAgICAgIHNlbGYuYnVkZ2V0ID0gZmxvYXQoYnVkZ2V0KQogICAgICAgIHNlbGYuZW5hYmxlX2Rvd25ncmFkZSA9IGJvb2woZW5hYmxlX2Rvd25ncmFkZSkKICAgICAgICBzZWxmLmVuYWJsZV9zaHV0ZG93biA9IGJvb2woZW5hYmxlX3NodXRkb3duKQoKICAgICAgICAjIOiusOS9j+WOn+WAvO+8jOWAjeeOh+S9nOeUqOWcqOWug+S4iumdou+8iOS4jeaYr+WPoOWKoOa8guenu++8iQogICAgICAgIHNlbGYuYmFzYWwwID0gZmxvYXQoYmFzYWwwIGlmIGJhc2FsMCBpcyBub3QgTm9uZSBlbHNlIGxpZmUuYmFzYWwpCiAgICAgICAgc2VsZi5jYXAwID0gZmxvYXQoY2FwMCBpZiBjYXAwIGlzIG5vdCBOb25lIGVsc2UgbGlmZS5jYXBfbWF4KQoKICAgICAgICBzZWxmLnQgPSAwCiAgICAgICAgc2VsZi50aWVyID0gIuWFhei2syIKICAgICAgICBzZWxmLmN5Y2xlX3NwZW5kID0gMC4wCiAgICAgICAgc2VsZi5jeWNsZV9pbmNvbWUgPSAwLjAKICAgICAgICBzZWxmLmxlZGdlciA9IFtdICAgICAgICAgICMg4pGjIOi0puacrAogICAgICAgIHNlbGYub3ZlcnJ1bnMgPSBbXSAgICAgICAgIyDikaIg6LaF5pSv5LqL5Lu2CiAgICAgICAgc2VsZi5zaHV0ZG93bl9hdCA9IE5vbmUKICAgICAgICBzZWxmLnRpZXJfaGlzdCA9IFtdCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGRlZiB0aWVyX29mKHNlbGYsIGUpOgogICAgICAgIGZvciBuYW1lLCBsbywgYnMsIGNzIGluIHNlbGYuVElFUlM6CiAgICAgICAgICAgIGlmIGUgPj0gbG86CiAgICAgICAgICAgICAgICByZXR1cm4gbmFtZSwgYnMsIGNzCiAgICAgICAgcmV0dXJuIHNlbGYuVElFUlNbLTFdWzBdLCBzZWxmLlRJRVJTWy0xXVsyXSwgc2VsZi5USUVSU1stMV1bM10KCiAgICBkZWYgX2Rvd25ncmFkZShzZWxmKToKICAgICAgICAiIiLikaEg5L2O55S16YeP6ZmN57qn77ya5oyJ5qGj5L2N5Li75Yqo6ZmN5Z+656GA5Luj6LCi5LiO5ZCe5ZCQ5LiK6ZmQ44CCIiIiCiAgICAgICAgZSA9IG1heChzZWxmLkwuRSAvIHNlbGYuTC5FbWF4LCAwLjApCiAgICAgICAgbmFtZSwgYnMsIGNzID0gc2VsZi50aWVyX29mKGUpCiAgICAgICAgc2VsZi50aWVyID0gbmFtZQogICAgICAgIHNlbGYudGllcl9oaXN0LmFwcGVuZChuYW1lKQogICAgICAgIGlmIHNlbGYuZW5hYmxlX2Rvd25ncmFkZToKICAgICAgICAgICAgc2VsZi5MLmJhc2FsID0gc2VsZi5iYXNhbDAgKiBicwogICAgICAgICAgICBzZWxmLkwuY2FwX21heCA9IHNlbGYuY2FwMCAqIGNzCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5MLmJhc2FsID0gc2VsZi5iYXNhbDAKICAgICAgICAgICAgc2VsZi5MLmNhcF9tYXggPSBzZWxmLmNhcDAKCiAgICBkZWYgX2J1ZGdldF9jaGVjayhzZWxmKToKICAgICAgICAiIiLikaIg6LaF5pSv5YGc5py677ya5ZGo5pyf5YaF5pSv5Ye66LaF6aKE566XIOKGkiDkuLvliqjlgZzvvIjkv53miqTvvIzkuI3mmK/ogJfliLDmrbvvvInjgIIiIiIKICAgICAgICBpZiBub3Qgc2VsZi5lbmFibGVfc2h1dGRvd246CiAgICAgICAgICAgIHJldHVybgogICAgICAgIGlmIHNlbGYuY3ljbGVfc3BlbmQgPiBzZWxmLmJ1ZGdldDoKICAgICAgICAgICAgc2VsZi5vdmVycnVucy5hcHBlbmQoZGljdChjeWNsZT1zZWxmLnQgLy8gc2VsZi5jeWNsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcGVuZD1yb3VuZChzZWxmLmN5Y2xlX3NwZW5kLCA2KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidWRnZXQ9c2VsZi5idWRnZXQpKQogICAgICAgICAgICBpZiBzZWxmLkwuYWxpdmU6CiAgICAgICAgICAgICAgICBzZWxmLkwuYWxpdmUgPSBGYWxzZQogICAgICAgICAgICAgICAgc2VsZi5zaHV0ZG93bl9hdCA9IHNlbGYudAogICAgICAgICAgICAgICAgc2VsZi5zaHV0ZG93bl9yZWFzb24gPSAiYnVkZ2V0X292ZXJydW4iCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGRlZiBzdGVwKHNlbGYpOgogICAgICAgICIiIuKYhSDosIPnlKjpk77lvLrliLbnu4/ov4fov5nph4wg4oCU4oCUIOS4jeaYr+WPr+mAieaPkuS7tuOAgiIiIgogICAgICAgIGlmIG5vdCBzZWxmLkwuYWxpdmU6CiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgICMg5ZGo5pyf5rua5YqoCiAgICAgICAgaWYgc2VsZi50ID4gMCBhbmQgc2VsZi50ICUgc2VsZi5jeWNsZSA9PSAwOgogICAgICAgICAgICBzZWxmLmN5Y2xlX3NwZW5kID0gMC4wCiAgICAgICAgICAgIHNlbGYuY3ljbGVfaW5jb21lID0gMC4wCgogICAgICAgICMg4pGhIOmZjee6p++8iOWcqCBzdGVwIOWJjeeUn+aViO+8jOacrOaLjeWwseaMiemZjeaho+WQjueahOS7o+iwoui3ke+8iQogICAgICAgIHNlbGYuX2Rvd25ncmFkZSgpCgogICAgICAgIEVfYmVmb3JlID0gc2VsZi5MLkUKICAgICAgICByID0gc2VsZi5MLnN0ZXAoKSAgICAgICAgICAjIOWOn+aguOW/gwogICAgICAgIGlmIHIgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICBFX2FmdGVyID0gc2VsZi5MLkUKCiAgICAgICAgIyDikaMg6K6w6LSmCiAgICAgICAgZGVsdGEgPSBFX2FmdGVyIC0gRV9iZWZvcmUKICAgICAgICBpbmNvbWUgPSBtYXgoZGVsdGEsIDAuMCkKICAgICAgICBzcGVuZCA9IG1heCgtZGVsdGEsIDAuMCkKICAgICAgICBzZWxmLmN5Y2xlX3NwZW5kICs9IHNwZW5kCiAgICAgICAgc2VsZi5jeWNsZV9pbmNvbWUgKz0gaW5jb21lCiAgICAgICAgc2VsZi5sZWRnZXIuYXBwZW5kKGRpY3QodD1zZWxmLnQsIHRpZXI9c2VsZi50aWVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEU9cm91bmQoRV9hZnRlciwgOCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5jb21lPXJvdW5kKGluY29tZSwgOCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3BlbmQ9cm91bmQoc3BlbmQsIDgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN5Y19zcGVuZD1yb3VuZChzZWxmLmN5Y2xlX3NwZW5kLCA4KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGl2ZT1zZWxmLkwuYWxpdmUpKQogICAgICAgIHNlbGYudCArPSAxCgogICAgICAgICMg4pGiIOi2heaUr+ajgOafpe+8iOWBnOacuuS8mOWFiOS6jue7p+e7rei3ke+8iQogICAgICAgIHNlbGYuX2J1ZGdldF9jaGVjaygpCiAgICAgICAgcmV0dXJuIHIKCiAgICBkZWYgcnVuKHNlbGYsIHN0ZXBzKToKICAgICAgICBmb3IgXyBpbiByYW5nZShzdGVwcyk6CiAgICAgICAgICAgIGlmIG5vdCBzZWxmLkwuYWxpdmU6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBzZWxmLnN0ZXAoKQogICAgICAgIHJldHVybiBzZWxmCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGRlZiBzdW1tYXJ5KHNlbGYpOgogICAgICAgIHJldHVybiBkaWN0KHQ9c2VsZi50LCBhbGl2ZT1zZWxmLkwuYWxpdmUsIHRpZXI9c2VsZi50aWVyLAogICAgICAgICAgICAgICAgICAgIEU9cm91bmQoc2VsZi5MLkUsIDgpLAogICAgICAgICAgICAgICAgICAgIHNodXRkb3duX2F0PXNlbGYuc2h1dGRvd25fYXQsCiAgICAgICAgICAgICAgICAgICAgb3ZlcnJ1bnM9bGVuKHNlbGYub3ZlcnJ1bnMpLAogICAgICAgICAgICAgICAgICAgIGxlZGdlcl9yb3dzPWxlbihzZWxmLmxlZGdlcikpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+本能层 第1步：能量 / 进食本能
+================================================================
+★ 只做本能层，不往上加社会、法律、文化、道德、自我实现。
+  本文件只有四件事，多一件都不做：
+
+    ① 能量预算   budget    —— 一个周期允许支出多少（存量 ≠ 预算）
+    ② 低电量降级 downgrade —— 越饿越省（主动降基础代谢 + 降吞吐）
+    ③ 超支停机   shutdown  —— 花超了主动停（保护，不是等死）
+    ④ 能量记录   ledger    —— 收支账本
+
+★ 为什么需要它（先查过已有的，不是我以为缺）：
+    life5.py 已有 E / Emax / basal / c1 / fg / death_patience
+    所以"能量"不是没有。但逐项对过以后：
+
+      预算     ❌ 只有存量 E，没有"这个周期允许花多少"的概念
+      降级     ⚠️ 只有 cap=cap_max*e 这一个【被动】缩（物理约束的副产品）
+               且 basal 是常数，饿到死也不降基础代谢 —— 真生物会降
+      停机     ❌ 只有 E<=0 熬过 60 拍才死，那是【饿死】不是【超支保护】
+      记录     ⚠️ log 里有瞬时 E，没有收支账本，没有超支事件
+
+    真生物低能量时：降代谢、减活动、进入节能。
+    原版洛神低能量时：只是被 cap_max*e 被动压着，基础代谢一分不省。
+
+★ 设计：不改 life5.py 一个字，用包装器接进去。
+    （★12 的教训：文件在盘上 ≠ 接进去了。这次调用链必须真的经过它。）
+"""
+from __future__ import annotations
+
+
+class EnergyInstinct:
+    """第1步：能量/进食本能。包装 Life5，调用链强制经过本类。"""
+
+    # 档位：越饿越省（本能层，不是决策层）
+    TIERS = [
+        # (档位名,   E下界, basal倍率, cap倍率)
+        ("充足", 0.60, 1.00, 1.00),
+        ("偏低", 0.30, 0.80, 0.80),
+        ("饥饿", 0.15, 0.60, 0.55),
+        ("危急", 0.00, 0.40, 0.30),
+    ]
+
+    def __init__(self, life,
+                 cycle=100,          # 预算周期（拍）
+                 budget=1.00,        # 每周期允许支出
+                 enable_downgrade=True,
+                 enable_shutdown=True,
+                 basal0=None, cap0=None):
+        self.L = life
+        self.cycle = int(cycle)
+        self.budget = float(budget)
+        self.enable_downgrade = bool(enable_downgrade)
+        self.enable_shutdown = bool(enable_shutdown)
+
+        # 记住原值，倍率作用在它上面（不是叠加漂移）
+        self.basal0 = float(basal0 if basal0 is not None else life.basal)
+        self.cap0 = float(cap0 if cap0 is not None else life.cap_max)
+
+        self.t = 0
+        self.tier = "充足"
+        self.cycle_spend = 0.0
+        self.cycle_income = 0.0
+        self.ledger = []          # ④ 账本
+        self.overruns = []        # ③ 超支事件
+        self.shutdown_at = None
+        self.tier_hist = []
+
+    # ------------------------------------------------------------------
+    def tier_of(self, e):
+        for name, lo, bs, cs in self.TIERS:
+            if e >= lo:
+                return name, bs, cs
+        return self.TIERS[-1][0], self.TIERS[-1][2], self.TIERS[-1][3]
+
+    def _downgrade(self):
+        """② 低电量降级：按档位主动降基础代谢与吞吐上限。"""
+        e = max(self.L.E / self.L.Emax, 0.0)
+        name, bs, cs = self.tier_of(e)
+        self.tier = name
+        self.tier_hist.append(name)
+        if self.enable_downgrade:
+            self.L.basal = self.basal0 * bs
+            self.L.cap_max = self.cap0 * cs
+        else:
+            self.L.basal = self.basal0
+            self.L.cap_max = self.cap0
+
+    def _budget_check(self):
+        """③ 超支停机：周期内支出超预算 → 主动停（保护，不是耗到死）。"""
+        if not self.enable_shutdown:
+            return
+        if self.cycle_spend > self.budget:
+            self.overruns.append(dict(cycle=self.t // self.cycle,
+                                      spend=round(self.cycle_spend, 6),
+                                      budget=self.budget))
+            if self.L.alive:
+                self.L.alive = False
+                self.shutdown_at = self.t
+                self.shutdown_reason = "budget_overrun"
+
+    # ------------------------------------------------------------------
+    def step(self):
+        """★ 调用链强制经过这里 —— 不是可选插件。"""
+        if not self.L.alive:
+            return None
+
+        # 周期滚动
+        if self.t > 0 and self.t % self.cycle == 0:
+            self.cycle_spend = 0.0
+            self.cycle_income = 0.0
+
+        # ② 降级（在 step 前生效，本拍就按降档后的代谢跑）
+        self._downgrade()
+
+        E_before = self.L.E
+        r = self.L.step()          # 原核心
+        if r is None:
+            return None
+        E_after = self.L.E
+
+        # ④ 记账
+        delta = E_after - E_before
+        income = max(delta, 0.0)
+        spend = max(-delta, 0.0)
+        self.cycle_spend += spend
+        self.cycle_income += income
+        self.ledger.append(dict(t=self.t, tier=self.tier,
+                                E=round(E_after, 8),
+                                income=round(income, 8),
+                                spend=round(spend, 8),
+                                cyc_spend=round(self.cycle_spend, 8),
+                                alive=self.L.alive))
+        self.t += 1
+
+        # ③ 超支检查（停机优先于继续跑）
+        self._budget_check()
+        return r
+
+    def run(self, steps):
+        for _ in range(steps):
+            if not self.L.alive:
+                break
+            self.step()
+        return self
+
+    # ------------------------------------------------------------------
+    def summary(self):
+        return dict(t=self.t, alive=self.L.alive, tier=self.tier,
+                    E=round(self.L.E, 8),
+                    shutdown_at=self.shutdown_at,
+                    overruns=len(self.overruns),
+                    ledger_rows=len(self.ledger))

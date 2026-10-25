@@ -1,1 +1,48 @@
-aW1wb3J0IHNvY2tldCwgb3MsIHN0cnVjdCwgdGltZSwgc3lzCgojIDEpIOecn+WuniBVRFAg6auY6aKR5b6A6L+U5Lii5YyF546HCmRlZiB1ZHBfcHJvYmUobj00MDApOgogICAgYT1zb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULHNvY2tldC5TT0NLX0RHUkFNKTsgYS5iaW5kKCgnMTI3LjAuMC4xJywwKSkKICAgIGI9c29ja2V0LnNvY2tldChzb2NrZXQuQUZfSU5FVCxzb2NrZXQuU09DS19ER1JBTSk7IGIuYmluZCgoJzEyNy4wLjAuMScsMCkpCiAgICBwYT1hLmdldHNvY2tuYW1lKCk7IHBiPWIuZ2V0c29ja25hbWUoKQogICAgYS5zZXR0aW1lb3V0KDAuMDUpOyBiLnNldHRpbWVvdXQoMC4wNSkKICAgIHNlbnQ9MDsgcmVjdmI9MAogICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgYS5zZW5kdG8oc3RydWN0LnBhY2soJzxRcScsaSx0aW1lLnRpbWVfbnMoKSkscGIpCiAgICAgICAgc2VudCs9MQogICAgICAgIHRyeToKICAgICAgICAgICAgYi5yZWN2ZnJvbSg2NCk7IHJlY3ZiKz0xCiAgICAgICAgZXhjZXB0IHNvY2tldC50aW1lb3V0OgogICAgICAgICAgICBwYXNzCiAgICBwcmludCgnVURQIG49JWQgcmVjdj0lZCBsb3NzPSUuNGYnJShzZW50LHJlY3ZiLDEtcmVjdmIvc2VudCkpCiAgICBhLmNsb3NlKCk7IGIuY2xvc2UoKQogICAgcmV0dXJuIDEtcmVjdmIvc2VudAoKIyAyKSDnnJ/lrp7mlofku7blkIzmp73nq57kuonvvJrkuKTov5vnqIsgcmVhZC1tb2RpZnktd3JpdGUg5ZCM5LiA5YGP56e777yM55yL5Lii5aSx546HCmRlZiByYWNlX3Byb2JlKG49MzAwKToKICAgIHBhdGg9J3JhY2VfcHJvYmUuYmluJwogICAgd2l0aCBvcGVuKHBhdGgsJ3diJykgYXMgZjogZi53cml0ZShzdHJ1Y3QucGFjaygnPHEnLDApKQogICAgcGlkPW9zLmZvcmsoKQogICAgaWYgcGlkPT0wOgogICAgICAgIGY9b3Mub3BlbihwYXRoLG9zLk9fUkRXUikKICAgICAgICBmb3IgaSBpbiByYW5nZShuKToKICAgICAgICAgICAgb3MubHNlZWsoZiwwLG9zLlNFRUtfU0VUKQogICAgICAgICAgICB2PXN0cnVjdC51bnBhY2soJzxxJyxvcy5yZWFkKGYsOCkpWzBdCiAgICAgICAgICAgIG9zLmxzZWVrKGYsMCxvcy5TRUVLX1NFVCk7IG9zLndyaXRlKGYsc3RydWN0LnBhY2soJzxxJyx2KzEpKQogICAgICAgIG9zLmNsb3NlKGYpOyBvcy5fZXhpdCgwKQogICAgZWxzZToKICAgICAgICBmPW9zLm9wZW4ocGF0aCxvcy5PX1JEV1IpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgICAgIG9zLmxzZWVrKGYsMCxvcy5TRUVLX1NFVCkKICAgICAgICAgICAgdj1zdHJ1Y3QudW5wYWNrKCc8cScsb3MucmVhZChmLDgpKVswXQogICAgICAgICAgICBvcy5sc2VlayhmLDAsb3MuU0VFS19TRVQpOyBvcy53cml0ZShmLHN0cnVjdC5wYWNrKCc8cScsdisxKSkKICAgICAgICBvcy5jbG9zZShmKQogICAgICAgIG9zLndhaXRwaWQocGlkLDApCiAgICAgICAgd2l0aCBvcGVuKHBhdGgsJ3JiJykgYXMgZzogdG90PXN0cnVjdC51bnBhY2soJzxxJyxnLnJlYWQoOCkpWzBdCiAgICAgICAgcHJpbnQoJ1JBQ0UgZXhwZWN0PSVkIGdvdD0lZCBsb3N0PSVkIHJhdGU9JS40ZiclKDIqbix0b3QsMipuLXRvdCwoMipuLXRvdCkvKDIqbikpKQogICAgICAgIHJldHVybiAoMipuLXRvdCkvKDIqbikKCmlmIF9fbmFtZV9fPT0nX19tYWluX18nOgogICAgbD11ZHBfcHJvYmUoKQogICAgcj1yYWNlX3Byb2JlKCkKICAgIHByaW50KCdQUk9CRSBsb3NzPSUuNWYgcmFjZT0lLjVmJyUobCxyKSkK
+import socket, os, struct, time, sys
+
+# 1) 真实 UDP 高频往返丢包率
+def udp_probe(n=400):
+    a=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); a.bind(('127.0.0.1',0))
+    b=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); b.bind(('127.0.0.1',0))
+    pa=a.getsockname(); pb=b.getsockname()
+    a.settimeout(0.05); b.settimeout(0.05)
+    sent=0; recvb=0
+    for i in range(n):
+        a.sendto(struct.pack('<Qq',i,time.time_ns()),pb)
+        sent+=1
+        try:
+            b.recvfrom(64); recvb+=1
+        except socket.timeout:
+            pass
+    print('UDP n=%d recv=%d loss=%.4f'%(sent,recvb,1-recvb/sent))
+    a.close(); b.close()
+    return 1-recvb/sent
+
+# 2) 真实文件同槽竞争：两进程 read-modify-write 同一偏移，看丢失率
+def race_probe(n=300):
+    path='race_probe.bin'
+    with open(path,'wb') as f: f.write(struct.pack('<q',0))
+    pid=os.fork()
+    if pid==0:
+        f=os.open(path,os.O_RDWR)
+        for i in range(n):
+            os.lseek(f,0,os.SEEK_SET)
+            v=struct.unpack('<q',os.read(f,8))[0]
+            os.lseek(f,0,os.SEEK_SET); os.write(f,struct.pack('<q',v+1))
+        os.close(f); os._exit(0)
+    else:
+        f=os.open(path,os.O_RDWR)
+        for i in range(n):
+            os.lseek(f,0,os.SEEK_SET)
+            v=struct.unpack('<q',os.read(f,8))[0]
+            os.lseek(f,0,os.SEEK_SET); os.write(f,struct.pack('<q',v+1))
+        os.close(f)
+        os.waitpid(pid,0)
+        with open(path,'rb') as g: tot=struct.unpack('<q',g.read(8))[0]
+        print('RACE expect=%d got=%d lost=%d rate=%.4f'%(2*n,tot,2*n-tot,(2*n-tot)/(2*n)))
+        return (2*n-tot)/(2*n)
+
+if __name__=='__main__':
+    l=udp_probe()
+    r=race_probe()
+    print('PROBE loss=%.5f race=%.5f'%(l,r))

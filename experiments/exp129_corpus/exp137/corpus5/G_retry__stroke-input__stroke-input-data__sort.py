@@ -1,1 +1,107 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoKIiIiCiMgc29ydC5weQoKU29ydCAoaW4tcGxhY2UpIGNlcnRhaW4gc2VjdGlvbnMgb2YgYHBocmFzZXMtdHJhZGl0aW9uYWwudHh0YCBhbmQgYHBocmFzZXMtc2ltcGxpZmllZC50eHRgLgoKTGljZW5zZWQgdW5kZXIgIk1JVCBObyBBdHRyaWJ1dGlvbiIgKE1JVC0wKSwgc2VlIDxodHRwczovL3NwZHgub3JnL2xpY2Vuc2VzL01JVC0wPi4KIiIiCgppbXBvcnQgcmUKCkNKS19VTklGSUVEX0lERU9HUkFQSFNfU1RBUlQgPSAweDRFMDAKQ0pLX1VOSUZJRURfSURFT0dSQVBIU19FTkQgPSAweDlGRkYKClBIUkFTRV9GSUxFX05BTUVTID0gWwogICdwaHJhc2VzLXRyYWRpdGlvbmFsLnR4dCcsCiAgJ3BocmFzZXMtc2ltcGxpZmllZC50eHQnLApdCgoKZGVmIGNoYXJhY3Rlcl9zb3J0aW5nX2tleShjaGFyYWN0ZXIpOgogICAgIiIiCiAgICBSZXR1cm4gYSBrZXkgZm9yIHNpbXBsZSBzb3J0aW5nIG9mIENoaW5lc2UgY2hhcmFjdGVycy4KCiAgICBQdXRzIGNoYXJhY3RlcnMgaW4gdGhlIG1haW4gQ0pLIFVuaWZpZWQgSWRlb2dyYXBocyBibG9jayAoVSs0RTAwIHRvIFUrOUZGRikgZmlyc3QsCiAgICBidXQgb3RoZXJ3aXNlIHNvcnRzIGJ5IGNvZGUgcG9pbnQuCiAgICAiIiIKICAgIGNvZGVfcG9pbnQgPSBvcmQoY2hhcmFjdGVyKQoKICAgIGlmIENKS19VTklGSUVEX0lERU9HUkFQSFNfU1RBUlQgPD0gY29kZV9wb2ludCA8PSBDSktfVU5JRklFRF9JREVPR1JBUEhTX0VORDoKICAgICAgICBibG9ja19yYW5rID0gMAogICAgZWxzZToKICAgICAgICBibG9ja19yYW5rID0gMQoKICAgIHJldHVybiBibG9ja19yYW5rLCBjb2RlX3BvaW50CgoKZGVmIHBocmFzZV9zb3J0aW5nX2tleShwaHJhc2UpOgogICAgIiIiCiAgICBSZXR1cm4gYSBrZXkgZm9yIHNpbXBsZSBzb3J0aW5nIG9mIENoaW5lc2UgcGhyYXNlcy4KICAgICIiIgogICAgcmV0dXJuIHR1cGxlKGNoYXJhY3Rlcl9zb3J0aW5nX2tleShjaGFyYWN0ZXIpIGZvciBjaGFyYWN0ZXIgaW4gcGhyYXNlKQoKCmRlZiBzb3J0X3ZhcmlhbnRfc2VjdGlvbnModGV4dCk6CiAgICAiIiIKICAgIFNvcnQgdGhlIHZhcmlhbnQgc2VjdGlvbnMgb2YgdGhlIHN1cHBsaWVkIHRleHQuCiAgICAiIiIKICAgIHJldHVybiByZS5zdWIoCiAgICAgICAgcicoPzw9XiMgPHZhcmlhbnRzPlxuKVtcc1xTXSs/KD89XG4jIDwvdmFyaWFudHM+KScsCiAgICAgICAgbGFtYmRhIG1hdGNoOiAnXG4nLmpvaW4oCiAgICAgICAgICAgIHNvcnRlZCgKICAgICAgICAgICAgICAgIHNldChzb3J0X3ZhcmlhbnRzKGxpbmUpIGZvciBsaW5lIGluIG1hdGNoLmdyb3VwKCkuc3BsaXRsaW5lcygpKSwgICMgaW50cmEtbGluZSBzb3J0aW5nCiAgICAgICAgICAgICAgICBrZXk9cGhyYXNlX3NvcnRpbmdfa2V5LCAgIyBpbnRlci1saW5lIHNvcnRpbmcKICAgICAgICAgICAgKQogICAgICAgICksCiAgICAgICAgdGV4dCwKICAgICAgICBmbGFncz1yZS5NVUxUSUxJTkUsCiAgICApCgoKZGVmIHNvcnRfdmFyaWFudHMobGluZSk6CiAgICAiIiIKICAgIFNvcnQgdmFyaWFudHMgd2l0aGluIHRoZSBzdXBwbGllZCBsaW5lLgogICAgIiIiCiAgICByZXR1cm4gcmUuc3ViKAogICAgICAgIHInKD88PV4jIClcUysnLAogICAgICAgIGxhbWJkYSBtYXRjaDogJycuam9pbihzb3J0ZWQoc2V0KG1hdGNoLmdyb3VwKCkpLCBrZXk9Y2hhcmFjdGVyX3NvcnRpbmdfa2V5KSksCiAgICAgICAgbGluZSwKICAgICkKCgpkZWYgc29ydF9waHJhc2Vfc2VjdGlvbnModGV4dCk6CiAgICAiIiIKICAgIFNvcnQgdGhlIHBocmFzZSBzZWN0aW9ucyBvZiB0aGUgc3VwcGxpZWQgdGV4dC4KICAgICIiIgogICAgcmV0dXJuIHJlLnN1YigKICAgICAgICByJyg/PD1eIyA8cGhyYXNlcz5cbilbXHNcU10rPyg/PVxuIyA8L3BocmFzZXM+KScsCiAgICAgICAgbGFtYmRhIG1hdGNoOiAnXG4nLmpvaW4oCiAgICAgICAgICAgIHNvcnRlZCgKICAgICAgICAgICAgICAgIHNldChtYXRjaC5ncm91cCgpLnNwbGl0bGluZXMoKSksCiAgICAgICAgICAgICAgICBrZXk9cGhyYXNlX3NvcnRpbmdfa2V5LAogICAgICAgICAgICApCiAgICAgICAgKSwKICAgICAgICB0ZXh0LAogICAgICAgIGZsYWdzPXJlLk1VTFRJTElORSwKICAgICkKCgpkZWYgbWFpbigpOgogICAgZm9yIHBocmFzZV9maWxlX25hbWUgaW4gUEhSQVNFX0ZJTEVfTkFNRVM6CiAgICAgICAgd2l0aCBvcGVuKHBocmFzZV9maWxlX25hbWUsICdyJywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgcGhyYXNlX2ZpbGU6CiAgICAgICAgICAgIG9sZF90ZXh0ID0gcGhyYXNlX2ZpbGUucmVhZCgpCgogICAgICAgIG5ld190ZXh0ID0gc29ydF92YXJpYW50X3NlY3Rpb25zKG9sZF90ZXh0KQogICAgICAgIG5ld190ZXh0ID0gc29ydF9waHJhc2Vfc2VjdGlvbnMobmV3X3RleHQpCgogICAgICAgIGlmIG9sZF90ZXh0ID09IG5ld190ZXh0OgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICB3aXRoIG9wZW4ocGhyYXNlX2ZpbGVfbmFtZSwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBwaHJhc2VfZmlsZToKICAgICAgICAgICAgcGhyYXNlX2ZpbGUud3JpdGUobmV3X3RleHQpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+
+"""
+# sort.py
+
+Sort (in-place) certain sections of `phrases-traditional.txt` and `phrases-simplified.txt`.
+
+Licensed under "MIT No Attribution" (MIT-0), see <https://spdx.org/licenses/MIT-0>.
+"""
+
+import re
+
+CJK_UNIFIED_IDEOGRAPHS_START = 0x4E00
+CJK_UNIFIED_IDEOGRAPHS_END = 0x9FFF
+
+PHRASE_FILE_NAMES = [
+  'phrases-traditional.txt',
+  'phrases-simplified.txt',
+]
+
+
+def character_sorting_key(character):
+    """
+    Return a key for simple sorting of Chinese characters.
+
+    Puts characters in the main CJK Unified Ideographs block (U+4E00 to U+9FFF) first,
+    but otherwise sorts by code point.
+    """
+    code_point = ord(character)
+
+    if CJK_UNIFIED_IDEOGRAPHS_START <= code_point <= CJK_UNIFIED_IDEOGRAPHS_END:
+        block_rank = 0
+    else:
+        block_rank = 1
+
+    return block_rank, code_point
+
+
+def phrase_sorting_key(phrase):
+    """
+    Return a key for simple sorting of Chinese phrases.
+    """
+    return tuple(character_sorting_key(character) for character in phrase)
+
+
+def sort_variant_sections(text):
+    """
+    Sort the variant sections of the supplied text.
+    """
+    return re.sub(
+        r'(?<=^# <variants>\n)[\s\S]+?(?=\n# </variants>)',
+        lambda match: '\n'.join(
+            sorted(
+                set(sort_variants(line) for line in match.group().splitlines()),  # intra-line sorting
+                key=phrase_sorting_key,  # inter-line sorting
+            )
+        ),
+        text,
+        flags=re.MULTILINE,
+    )
+
+
+def sort_variants(line):
+    """
+    Sort variants within the supplied line.
+    """
+    return re.sub(
+        r'(?<=^# )\S+',
+        lambda match: ''.join(sorted(set(match.group()), key=character_sorting_key)),
+        line,
+    )
+
+
+def sort_phrase_sections(text):
+    """
+    Sort the phrase sections of the supplied text.
+    """
+    return re.sub(
+        r'(?<=^# <phrases>\n)[\s\S]+?(?=\n# </phrases>)',
+        lambda match: '\n'.join(
+            sorted(
+                set(match.group().splitlines()),
+                key=phrase_sorting_key,
+            )
+        ),
+        text,
+        flags=re.MULTILINE,
+    )
+
+
+def main():
+    for phrase_file_name in PHRASE_FILE_NAMES:
+        with open(phrase_file_name, 'r', encoding='utf-8') as phrase_file:
+            old_text = phrase_file.read()
+
+        new_text = sort_variant_sections(old_text)
+        new_text = sort_phrase_sections(new_text)
+
+        if old_text == new_text:
+            continue
+
+        with open(phrase_file_name, 'w', encoding='utf-8') as phrase_file:
+            phrase_file.write(new_text)
+
+
+if __name__ == '__main__':
+    main()

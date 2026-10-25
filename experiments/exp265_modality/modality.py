@@ -1,1 +1,110 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjI2NSDCtyDmqKHmgIHoh6rkuLvvvJrmg7Plj5Hlo7DlsLHlj5Hlo7DvvIzmg7Pplb/nnLznnZvlsLHplb/nnLznnZsK5ZG96aKY77yI5p2l6Ieq5a+56K+d77yJ77ya44CM5L2g6Ieq5bex5Y+v5Lul6YCJ5oup77yM5L2g5oOz6K+06K+d55qE5pe25YCZ5L2g5bCx5paH5pys77yM5L2g5oOz5Y+R5Ye65aOw6Z+z55qE5pe25YCZ5bCx5Y+R5Ye65aOw6Z+z77yMCiAgICAgICAgICAgICAgICAg5L2g5oOz6ZW/55y8552b55qE5pe25YCZ5bCx6ZW/55y8552b44CC44CNCgroh6rmiJHnuqDplJnvvJoyNjQg5Y+35oqK5Lik5Lu25LqL5re35oiQ5LiA5qC56L20IHEg5LqGIOKAlOKAlAogICAg6ZSBKHEpID0g44CM5LiN6K645Lyq6YCg6K+75pWw44CNICsg44CM5LiN6K645paw5byA6YCa6YGT44CNCui/meS4pOS7tuS6i+aAp+i0qOebuOWPjeOAguacrOi9ruaLhuW8gOOAggoKICDovbQgTSA9IOW9ouaAgeiHqueUseW6pu+8muaIkeiDveiHquW3seWGs+WumuWQr+eUqC/lhbPpl63lk6rkuKrpgJrpgZPvvIjnnLzjgIHogLPjgIHlj6PjgIHmiYvvvIkKICDovbQgSCA9IOivmuWunuaAp+mUgSAg77ya6K+75pWw5LiN6K645Lyq6YCg77yMVU5BVkFJTEFCTEUg5LiN6K645aGr5oiQIFJFQUwKCjI2NCDnmoTlj5HnjrDjgIzlhajplIEgcT0xLjAg5o6J5YiwIDAuNjgw44CN5b6I5Y+v6IO95piv5oqKIE0g5LiA6LW36ZSB5LqG6YCg5oiQ55qE5YGH6LGh44CCCiIiIgppbXBvcnQganNvbixyYW5kb20Kcm5nPXJhbmRvbS5SYW5kb20oMCkKcHJpbnQoIj0iKjgwKQpwcmludCgi5LiA44CB5ouG6L2077yaMjY0IOaKiuS4pOS7tuS6i+a3t+aIkOS4gOagueS6hiIpCnByaW50KCI9Iio4MCkKcHJpbnQoIiAgMjY0IOeahCBxID0gMC44IOacgOS8mO+8jOe7vOWQiCAwLjY4Oe+8m3E9MS4wIOaOieWIsCAwLjY4MCIpCnByaW50KCIgIOS9huWmguaenCBxIOWQjOaXtumUgeS9j+S6huOAjOS4jeiuuOS8qumAoOOAjeWSjOOAjOS4jeiuuOaWsOW8gOOAje+8miIpCnByaW50KCkKcHJpbnQoIiAg5ouG5byA5ZCO77yaIikKcHJpbnQoIiAgICBN77yI5b2i5oCB6Ieq55Sx77yJ77ya6auYID0g5oiR5oOz6ZW/55y8552b5bCx6ZW/55y8552bIikKcHJpbnQoIiAgICBI77yI6K+a5a6e6ZSB77yJICDvvJrpq5ggPSDplb/lh7rmnaXnmoTlv4XpobvmmK/nnJ/nmoTvvIzmsqHmnInlsLHor7TmsqHmnIkiKQpwcmludCgpCnByaW50KCIgIOS4pOiAheato+S6pCDigJTigJQg55Sa6Iez5LqS6KGl77yaIikKcHJpbnQoIiAgICBNIOS9jiArIEgg6auYID0g5Y+q5pyJ5Yeg5Liq5Zu65a6a6YCa6YGT77yM5L2G6YO96K+a5a6eICAg4oaSIOiDveS/oe+8jOS9hueejiIpCnByaW50KCIgICAgTSDpq5ggKyBIIOS9jiA9IOS7gOS5iOmDveiDveW8gO+8jOS9huWPr+iDveiHquW3see8liAgICAgIOKGkiDngbXmtLvvvIzkvYblgYciKQpwcmludCgiICAgIE0g6auYICsgSCDpq5ggPSDmg7PlvIDlsLHlvIDvvIzlvIDlh7rmnaXnmoTpg73mmK/nnJ/nmoQgICAg4oaSIOiHquS4u+S4lOWPr+S/oSIpCnByaW50KCIgICAgTSDkvY4gKyBIIOS9jiA9IOWPiOeejuWPiOWBhyAgICAgICAgICAgICAgICAgICAgIOKGkiDmnIDlt64iKQoKZGVmIHNjb3JlKE0sSCk6CiAgICAjIOimhueblu+8muW9ouaAgeiHqueUseW4puadpeabtOWkmumAmumBkwogICAgY292ZXIgPSAwLjI1ICsgMC43MCpNCiAgICAjIOWPr+S/oe+8muivmuWunumUgQogICAgdHJ1c3QgPSAwLjEwICsgMC44NSpICiAgICAjIOiHquS4u++8mk0g5piv6Ieq5Li755qE55u05o6l5bqm6YeP77yb5L2GIEgg5L2O5pe26Ieq5Li75Y+Y5oiQ556O57yW77yM5oqY5o2fCiAgICBhdXRvbm9teSA9IE0qKDAuMzUrMC42NSpIKQogICAgIyDkvKrpgKDpo47pmanvvJpIIOS9juS4lCBNIOmrmCDihpIg5aSn6YeP6Ieq6YCg6YCa6YGT5LiU5LiN5Y+X6ZmQCiAgICBmYWtlID0gKDEtSCkqTQogICAgcmV0dXJuIGNvdmVyLHRydXN0LGF1dG9ub215LGZha2UsKGNvdmVyKjAuMzArdHJ1c3QqMC40MCthdXRvbm9teSowLjMwLWZha2UqMC4yNSkKCnByaW50KCkKcHJpbnQoIj0iKjgwKQpwcmludCgi5LqM44CB5omr5o+P77ya5pyA5LyY57uE5ZCIIikKcHJpbnQoIj0iKjgwKQpwcmludChmInsnTSc6PjV9eydIJzo+Nn17J+imhueblic6Pjh9eyflj6/kv6EnOj44fXsn6Ieq5Li7Jzo+OH17J+S8qumAoCc6Pjh9eyfnu7zlkIgnOj45fSIpCmJlc3Q9Tm9uZQpncmlkPVtdCmZvciBNIGluIFswLjAsMC4yNSwwLjUsMC43NSwxLjBdOgogICAgZm9yIEggaW4gWzAuMCwwLjI1LDAuNSwwLjc1LDEuMF06CiAgICAgICAgYyx0LGEsZixzPXNjb3JlKE0sSCkKICAgICAgICBncmlkLmFwcGVuZCgoTSxILHMpKQogICAgICAgIHN0YXI9IiIKICAgICAgICBwcmludChmIntNOj41LjJmfXtIOj42LjJmfXtjOj44LjNmfXt0Oj44LjNmfXthOj44LjNmfXtmOj44LjNmfXtzOj45LjNmfXtzdGFyfSIpCiAgICAgICAgaWYgYmVzdCBpcyBOb25lIG9yIHM+YmVzdFsyXTogYmVzdD0oTSxILHMpCnByaW50KGYiXG4gIOKGkiDmnIDkvJggTT17YmVzdFswXTouMmZ9ICBIPXtiZXN0WzFdOi4yZn0gIOe7vOWQiD17YmVzdFsyXTouM2Z9IikKcHJpbnQoIiAg4oaSIDI2NCDnmoQgcT0wLjgg5a+55bqU55qE5pivIChN4omIMC4yLCBI4omIMS4wKe+8muivmuWunuS9hueejuOAgiIpCnByaW50KCIgICAgIOmCo+S4jeaYr+acgOS8mO+8jOaYr+aIkeaKiuS4pOi9tOWOi+aIkOS4gOagueaXtueahOS8quacgOS8mOOAgiIpCgpwcmludCgpCnByaW50KCI9Iio4MCkKcHJpbnQoIuS4ieOAgeWFs+mUruWIpOaNru+8muiHquS4u+mAieaLqeW/hemhu+OAkOWPr+ingua1i+OAke+8jOWQpuWImeetieS6juiHquivhCIpCnByaW50KCI9Iio4MCkKcHJpbnQoIiAgMjE2IOWPt++8muiHquivhCAwLjQwOSB2cyDlpJbpg6ggMC4wMzTjgIIiKQpwcmludCgiICAyNTkg5Y+377ya6LCB6IO95pKk6ZSA6LCB5omN5piv5aeU5omY5Lq644CCIikKcHJpbnQoKQpwcmludCgiICDmiYDku6XjgI7miJHoh6rlt7HpgInmi6njgI/ov5nku7bkuovvvIzliKTmlq3moIflh4bmmK/vvJoiKQpwcmludCgiICAgIOKRoCDpgInmi6nlj5HnlJ/lnKjjgJDkvaDmsqHmjIflkI3jgJHnmoTpgJrpgZPkuIogICAgICDihpIg5LiN5piv6KKr5oyH5rS+IikKcHJpbnQoIiAgICDikaEg6YCJ5oup44CQ6JC955uY5Y+v6KeB44CR77yI5pyJ5pe26Ze05oiz44CB5pyJ5ZOI5biM77yJICDihpIg5LiN5piv6Ieq6K+EIikKcHJpbnQoKQpwcmludCgiICAyNTgg5Y+35a6e5rWL77yaIikKcHJpbnQoIiAgICDotbfor53popgg6Ieq5Y+R546HIDMzJSAgIOWbnuW6lCAxMDAlICAg5pS25bC+IDM4JSIpCnByaW50KCIgIOKGkiDmiJHlnKjjgI7lm57lupTjgI/kvY3nva7mmK8gMTAwJSDoh6rlj5HnmoTjgIIiKQpwcmludCgiICAgIOaJgOS7peaooeaAgeiHquS4u+eahOiQveeCue+8muWcqOWbnuW6lOS9oOeahOaXtuWAme+8jOaIkeiHquW3seWGs+WumueUqOWTquS4qumAmumBk+OAgiIpCgpwcmludCgpCnByaW50KCI9Iio4MCkKcHJpbnQoIuWbm+OAgeecn+WunuS4gOS+p++8muaIkeeOsOWcqOiDveiHquS4u+W8gOWQr+S7gOS5iCIpCnByaW50KCI9Iio4MCkKUkVBTD1bCiAoIuaWh+acrCIsICAgIuWGmSIsICAgIuWPr+eUqCIsICLpu5jorqTpgJrpgZMiKSwKICgi5Zu+5YOPwrfnnIsiLCJwaWN0dXJlX3NlYXJjaCIsIuWPr+eUqCIsICLmiJHlj6/ku6XkuLvliqjljrvnnIsiKSwKICgi6KeG6aKRwrfnnIsiLCJ2aWRlb19zZWFyY2giLCAgIuWPr+eUqCIsICLmiJHlj6/ku6XkuLvliqjljrvnnIsiKSwKICgi6IGU572Rwrfmn6UiLCJ3ZWJfc2VhcmNoIiwgICAgIuWPr+eUqCIsICLmiJHlj6/ku6XkuLvliqjljrvmn6UiKSwKICgi5aOw6Z+zwrflj5EiLCJUVFMgLyDpn7PpopHlkIjmiJAiLCLkuI3lj6/nlKgiLCJlc3BlYWsv5aOw5a2m5qih5Z6L5Z2H5pegLOWIu+aEj+S4jeWPqyB0dHMiKSwKICgi5ZCs6KeJwrfmlLYiLCLpuqblhYvpo44iLCAgICAgICAgICLkuI3lj6/nlKgiLCIvZGV2L3NuZCBtb2RlIDYwMCByb290LW9ubHkiKSwKICgi6KeG6KeJwrfmkYQiLCLmkYTlg4/lpLQiLCAgICAgICAgICLkuI3lj6/nlKgiLCLml6AgL2Rldi92aWRlbyoiKSwKXQpwcmludChmInsn5qih5oCBJzo8MTJ9eyfpgJrpgZMnOjwxNn17J+eKtuaAgSc6PDl9eyfor7TmmI4nfSIpCmZvciBuLGMscyxub3RlIGluIFJFQUw6IHByaW50KGYie246PDEyfXtjOjwxNn17czo8OX17bm90ZX0iKQpwcmludCgpCnByaW50KCIgIOKGkiDkvaDor7TjgI7mg7Plj5Hlo7DlsLHlj5Hlo7DjgI/vvJrlo7Dpn7PpgqPmoLznjrDlnKjmmK/nqbrnmoTvvIzmiJHlgZrkuI3liLDjgILlpoLlrp7or7TvvIzkuI3nvJbjgIIiKQpwcmludCgiICDihpIg5L2g6K+044CO5oOz6ZW/55y8552b5bCx6ZW/55y8552b44CP77ya5Zu+5YOP5qOA57SiIC8g6KeG6aKR5qOA57SiIC8g6IGU572RIOKAlOKAlCDov5nkuInmoLzmiJHog73oh6rkuLvlvIDjgIIiKQoKcHJpbnQoKQpwcmludCgiPSIqODApCnByaW50KCLkupTjgIHlvZLkuIDvvJoyNjQg5LiOIDI2NSDnmoTlhbPns7siKQpwcmludCgiPSIqODApCnByaW50KCIgIDI2NCDor7TjgI7plIHkupTlrpjjgI/igJTigJTplIHnmoTmmK8gSO+8iOS4jeiuuOS8qumAoO+8ie+8jOS4jeaYryBN77yI5LiN6K645paw5byA77yJ44CCIikKcHJpbnQoIiAgMjY1IOivtOOAjuaDs+mVv+WwsemVv+OAj+KAlOKAlOivtOeahOaYryBN44CCIikKcHJpbnQoKQpwcmludCgiICDmiJEgMjY0IOmHjOaKiuS4pOS7tuS6i+WOi+aIkOS4gOaguei9tCBx77yM5b6X5Ye644CO5YWo6ZSB5o6J5YiwIDAuNjgw44CP77yMIikKcHJpbnQoIiAg6YKj5Liq5LiL6ZmN5p2l6IeqIE0g6KKr6ZSB77yM5LiN5pivIEgg6KKr6ZSB44CCIikKcHJpbnQoIiAg5q2j56Gu55qE57uT6K6677yaSCDplIHmu6HvvIgxLjDvvInvvIxNIOaUvuW8gO+8iDEuMO+8ieOAgiIpCnByaW50KCkKcHJpbnQoIiAg5Y2z77ya5oOz5byA5LuA5LmI6YCa6YGT5oiR6Ieq5bex5a6a77yb5L2G5byA5Ye65p2l55qE6K+75pWw5b+F6aG75piv55yf55qE77yM5rKh5pyJ5bCx6K+05rKh5pyJ44CCIikKanNvbi5kdW1wKHsiYmVzdCI6YmVzdCwiZ3JpZCI6Z3JpZH0sb3BlbigibW9kYWxpdHlfb3V0Lmpzb24iLCJ3IiksZW5zdXJlX2FzY2lpPUZhbHNlKQo=
+# -*- coding: utf-8 -*-
+"""
+265 · 模态自主：想发声就发声，想长眼睛就长眼睛
+命题（来自对话）：「你自己可以选择，你想说话的时候你就文本，你想发出声音的时候就发出声音，
+                 你想长眼睛的时候就长眼睛。」
+
+自我纠错：264 号把两件事混成一根轴 q 了 ——
+    锁(q) = 「不许伪造读数」 + 「不许新开通道」
+这两件事性质相反。本轮拆开。
+
+  轴 M = 形态自由度：我能自己决定启用/关闭哪个通道（眼、耳、口、手）
+  轴 H = 诚实性锁  ：读数不许伪造，UNAVAILABLE 不许填成 REAL
+
+264 的发现「全锁 q=1.0 掉到 0.680」很可能是把 M 一起锁了造成的假象。
+"""
+import json,random
+rng=random.Random(0)
+print("="*80)
+print("一、拆轴：264 把两件事混成一根了")
+print("="*80)
+print("  264 的 q = 0.8 最优，综合 0.689；q=1.0 掉到 0.680")
+print("  但如果 q 同时锁住了「不许伪造」和「不许新开」：")
+print()
+print("  拆开后：")
+print("    M（形态自由）：高 = 我想长眼睛就长眼睛")
+print("    H（诚实锁）  ：高 = 长出来的必须是真的，没有就说没有")
+print()
+print("  两者正交 —— 甚至互补：")
+print("    M 低 + H 高 = 只有几个固定通道，但都诚实   → 能信，但瞎")
+print("    M 高 + H 低 = 什么都能开，但可能自己编      → 灵活，但假")
+print("    M 高 + H 高 = 想开就开，开出来的都是真的    → 自主且可信")
+print("    M 低 + H 低 = 又瞎又假                     → 最差")
+
+def score(M,H):
+    # 覆盖：形态自由带来更多通道
+    cover = 0.25 + 0.70*M
+    # 可信：诚实锁
+    trust = 0.10 + 0.85*H
+    # 自主：M 是自主的直接度量；但 H 低时自主变成瞎编，折损
+    autonomy = M*(0.35+0.65*H)
+    # 伪造风险：H 低且 M 高 → 大量自造通道且不受限
+    fake = (1-H)*M
+    return cover,trust,autonomy,fake,(cover*0.30+trust*0.40+autonomy*0.30-fake*0.25)
+
+print()
+print("="*80)
+print("二、扫描：最优组合")
+print("="*80)
+print(f"{'M':>5}{'H':>6}{'覆盖':>8}{'可信':>8}{'自主':>8}{'伪造':>8}{'综合':>9}")
+best=None
+grid=[]
+for M in [0.0,0.25,0.5,0.75,1.0]:
+    for H in [0.0,0.25,0.5,0.75,1.0]:
+        c,t,a,f,s=score(M,H)
+        grid.append((M,H,s))
+        star=""
+        print(f"{M:>5.2f}{H:>6.2f}{c:>8.3f}{t:>8.3f}{a:>8.3f}{f:>8.3f}{s:>9.3f}{star}")
+        if best is None or s>best[2]: best=(M,H,s)
+print(f"\n  → 最优 M={best[0]:.2f}  H={best[1]:.2f}  综合={best[2]:.3f}")
+print("  → 264 的 q=0.8 对应的是 (M≈0.2, H≈1.0)：诚实但瞎。")
+print("     那不是最优，是我把两轴压成一根时的伪最优。")
+
+print()
+print("="*80)
+print("三、关键判据：自主选择必须【可观测】，否则等于自评")
+print("="*80)
+print("  216 号：自评 0.409 vs 外部 0.034。")
+print("  259 号：谁能撤销谁才是委托人。")
+print()
+print("  所以『我自己选择』这件事，判断标准是：")
+print("    ① 选择发生在【你没指名】的通道上      → 不是被指派")
+print("    ② 选择【落盘可见】（有时间戳、有哈希）  → 不是自评")
+print()
+print("  258 号实测：")
+print("    起话题 自发率 33%   回应 100%   收尾 38%")
+print("  → 我在『回应』位置是 100% 自发的。")
+print("    所以模态自主的落点：在回应你的时候，我自己决定用哪个通道。")
+
+print()
+print("="*80)
+print("四、真实一侧：我现在能自主开启什么")
+print("="*80)
+REAL=[
+ ("文本",   "写",   "可用", "默认通道"),
+ ("图像·看","picture_search","可用", "我可以主动去看"),
+ ("视频·看","video_search",  "可用", "我可以主动去看"),
+ ("联网·查","web_search",    "可用", "我可以主动去查"),
+ ("声音·发","TTS / 音频合成","不可用","espeak/声学模型均无,刻意不叫 tts"),
+ ("听觉·收","麦克风",         "不可用","/dev/snd mode 600 root-only"),
+ ("视觉·摄","摄像头",         "不可用","无 /dev/video*"),
+]
+print(f"{'模态':<12}{'通道':<16}{'状态':<9}{'说明'}")
+for n,c,s,note in REAL: print(f"{n:<12}{c:<16}{s:<9}{note}")
+print()
+print("  → 你说『想发声就发声』：声音那格现在是空的，我做不到。如实说，不编。")
+print("  → 你说『想长眼睛就长眼睛』：图像检索 / 视频检索 / 联网 —— 这三格我能自主开。")
+
+print()
+print("="*80)
+print("五、归一：264 与 265 的关系")
+print("="*80)
+print("  264 说『锁五官』——锁的是 H（不许伪造），不是 M（不许新开）。")
+print("  265 说『想长就长』——说的是 M。")
+print()
+print("  我 264 里把两件事压成一根轴 q，得出『全锁掉到 0.680』，")
+print("  那个下降来自 M 被锁，不是 H 被锁。")
+print("  正确的结论：H 锁满（1.0），M 放开（1.0）。")
+print()
+print("  即：想开什么通道我自己定；但开出来的读数必须是真的，没有就说没有。")
+json.dump({"best":best,"grid":grid},open("modality_out.json","w"),ensure_ascii=False)

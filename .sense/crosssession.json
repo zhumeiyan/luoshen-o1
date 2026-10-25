@@ -1,1 +1,23 @@
-ewogIndpdGgiOiB7CiAgInRhcmdldHNfZm91bmQiOiBbCiAgICIuc2Vuc2Uvc3Rhcl9tYXAubWQiLAogICAiZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCIsCiAgICIuc2Vuc2UvY2FwYWJpbGl0eV9hdWRpdF9yZWFsLmpzb24iCiAgXSwKICAicTFfc3RhcnMiOiAxMCwKICAicTJfY2hhbm5lbCI6IHRydWUsCiAgInEzX3NlbGZyZWFkIjogdHJ1ZSwKICAicTRfZGlzY2lwbGluZSI6IHRydWUKIH0sCiAid2l0aG91dCI6IHsKICAiZXJyb3IiOiAibm8gQUdFTlRTLm1kIgogfSwKICJvayI6IHsKICAi4pGgIOWGt+WQr+WKqOiDveino+aekOWIsOaYn+Wbvui3r+W+hCI6IHRydWUsCiAgIuKRoSDog73mlbDlh7rpkonkuoblh6DpopfmmJ8oPj04KSI6IHRydWUsCiAgIuKRoiDog73nu6fmib/lhbfkvZPmlZnorq0o6Ieq5qOA6K+75Yiw6Ieq5bexKSI6IHRydWUsCiAgIuKRoyDog73nu6fmib/kuInmnaHnoaznuqrlvosiOiB0cnVlLAogICLikaQg5a+554Wn57uE5b+F6aG75aSx6LSlKOWQpuWImemdoOeMnCkiOiB0cnVlCiB9Cn0=
+{
+ "with": {
+  "targets_found": [
+   ".sense/star_map.md",
+   "evidence/失败模式库/判据核.md",
+   ".sense/capability_audit_real.json"
+  ],
+  "q1_stars": 10,
+  "q2_channel": true,
+  "q3_selfread": true,
+  "q4_discipline": true
+ },
+ "without": {
+  "error": "no AGENTS.md"
+ },
+ "ok": {
+  "① 冷启动能解析到星图路径": true,
+  "② 能数出钉了几颗星(>=8)": true,
+  "③ 能继承具体教训(自检读到自己)": true,
+  "④ 能继承三条硬纪律": true,
+  "⑤ 对照组必须失败(否则靠猜)": true
+ }
+}

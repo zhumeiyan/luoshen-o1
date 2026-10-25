@@ -1,1 +1,51 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliIGltcG9ydCBmb250X21hbmFnZXIKZm9yIGYgaW4gWyJXZW5RdWFuWWkgTWljcm8gSGVpIiwiTm90byBTYW5zIENKSyBTQyIsIkRlamFWdSBTYW5zIl06CiAgICB0cnk6CiAgICAgICAgZm9udF9tYW5hZ2VyLmZpbmRmb250KGYsIGZhbGxiYWNrX3RvX2RlZmF1bHQ9RmFsc2UpOyBwbHQucmNQYXJhbXNbImZvbnQuc2Fucy1zZXJpZiJdPVtmXTsgYnJlYWsKICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKcGx0LnJjUGFyYW1zWyJheGVzLnVuaWNvZGVfbWludXMiXT1GYWxzZQpSPWpzb24ubG9hZChvcGVuKCJyb2J1c3QxOTIuanNvbiIpKTsgSD1qc29uLmxvYWQob3BlbigicmVzdWx0MTkyYi5qc29uIikpWyJoZWFwIl0KZmlnLGF4PXBsdC5zdWJwbG90cygyLDIsZmlnc2l6ZT0oMTMsOSkpCiMgQSDnnJ/loIbph48Ka3M9c29ydGVkKEgsa2V5PWludCk7IGJpdHM9W0hba11bImJpdHMiXSBmb3IgayBpbiBrc107IHBhcj1bSFtrXVsicGFyYW1zIl0gZm9yIGsgaW4ga3NdCmF4WzAsMF0ucGxvdChbaW50KGspIGZvciBrIGluIGtzXSxiaXRzLCJvLSIsbHc9MixsYWJlbD0iYml0cy/lrZfnrKYo6LaK5L2O6LaK5aW9KSIpCmF4WzAsMF0uc2V0X3hsYWJlbCgi5qih5Z6L6Zi25pWwIGsiKTsgYXhbMCwwXS5zZXRfeWxhYmVsKCJiaXRzL+Wtl+espiIsY29sb3I9IkMwIikKYXgyPWF4WzAsMF0udHdpbngoKTsgYXgyLnBsb3QoW2ludChrKSBmb3IgayBpbiBrc10scGFyLCJzLS0iLGNvbG9yPSJDMSIsbGFiZWw9IuWPguaVsOmHjyIpCmF4Mi5zZXRfeWxhYmVsKCLlj4LmlbDph48iLGNvbG9yPSJDMSIpOyBheDIuc2V0X3lzY2FsZSgibG9nIikKYXhbMCwwXS5zZXRfdGl0bGUoIkEg55yf5aCG6YeP77yaaz0y4oaSNSDlj4LmlbDmtqggNC45w5fvvIzlop7nm4og4oiSMC4wMDAx77yI5pu05beu77yJIikKYXhbMCwwXS5ncmlkKGFscGhhPS4zKQojIEIg5LiJ56eN556E5YeGIHZzIOmaj+acuu+8iOW5s+a7kTAuMDLvvIkKc209IjAuMDIiOyBCcz1bIjAuMSIsIjAuMiIsIjAuMyIsIjAuNSJdCmZvciBubSxjLG1rIGluIFsoInJhbmRvbSIsImsiLCJvIiksKCJkZXNpcmUiLCJDMCIsInMiKSwoInN1cnByaXNlIiwiQzMiLCJeIiksKCJlYXN5IiwiQzIiLCJ2IildOgogICAgYXhbMCwxXS5wbG90KFtmbG9hdChiKSBmb3IgYiBpbiBCc10sW1Jbc21dWyJtZWFuIl1bYl1bbm1dIGZvciBiIGluIEJzXSxtaysiLSIsY29sb3I9YyxsYWJlbD1ubSkKYXhbMCwxXS5zZXRfeGxhYmVsKCLpooTnrpfvvIjorq3nu4Pnqpflj6PljaDmr5TvvIkiKTsgYXhbMCwxXS5zZXRfeWxhYmVsKCJiaXRzL+Wtl+espiIpCmF4WzAsMV0uc2V0X3RpdGxlKCJCIOeehOWHhiB2cyDpmo/mnLrvvIjotorkvY7otorlpb3vvIlcbueejui0quWpqiBzdXJwcmlzZSDlhajnqIvmnIDlt64iKQpheFswLDFdLmxlZ2VuZCgpOyBheFswLDFdLmdyaWQoYWxwaGE9LjMpCiMgQyDphY3lr7nnrKblj7fmo4DpqowKbGFiZWxzPVsic3VycHJpc2Vcbijnno7otKrlqaopIiwiZGVzaXJlXG4o5L2g55qE5qyy5pyb5qCH6K6wKSIsImVhc3lcbijkuJPmjJHmiJHmnIDkvJrnmoQpIl0KZGF0YT17bDpbXSBmb3IgbCBpbiBsYWJlbHN9CmZvciBiIGluIEJzOgogICAgZm9yIGwsayBpbiB6aXAobGFiZWxzLFsic3VycHJpc2UtdnMtcmFuZG9tIiwiZGVzaXJlLXZzLXJhbmRvbSIsImVhc3ktdnMtcmFuZG9tIl0pOgogICAgICAgIG5lZyxuPVJbc21dWyJzaWduIl1bYl1ba107IGRhdGFbbF0uYXBwZW5kKG5lZykKeD1yYW5nZShsZW4oQnMpKTsgdz0uMjYKZm9yIGksKGwsYykgaW4gZW51bWVyYXRlKHppcChsYWJlbHMsWyJDMyIsIkMwIiwiQzIiXSkpOgogICAgYXhbMSwwXS5iYXIoW3AraSp3IGZvciBwIGluIHhdLGRhdGFbbF0sdyxsYWJlbD1sLGNvbG9yPWMpCmF4WzEsMF0uYXhobGluZSg1LGxzPSItLSIsY29sb3I9ImdyYXkiKTsgYXhbMSwwXS50ZXh0KDIuNiw1LjIsIjUvMTAgPSDkuI7pmo/mnLrml6DlvIIiLGZvbnRzaXplPTgsY29sb3I9ImdyYXkiKQpheFsxLDBdLnNldF94dGlja3MoW3ArdyBmb3IgcCBpbiB4XSk7IGF4WzEsMF0uc2V0X3h0aWNrbGFiZWxzKFtmIkI9e2J9IiBmb3IgYiBpbiBCc10pCmF4WzEsMF0uc2V0X3lsYWJlbCgi5LyY5LqO6ZqP5py655qE56eN5a2Q5pWwIC8xMCIpOyBheFsxLDBdLnNldF95bGltKDAsMTApCmF4WzEsMF0uc2V0X3RpdGxlKCJDIOmFjeWvueajgOmqjO+8muWPquacieeejui0quWpqueos+WumuS4uui0n++8iDDigJM1LzEw77yJIikKYXhbMSwwXS5sZWdlbmQoZm9udHNpemU9OCk7IGF4WzEsMF0uZ3JpZChhbHBoYT0uMyxheGlzPSJ5IikKIyBEIOS4ieaho+W5s+a7keS4iyBzdXJwcmlzZSDnmoTliqPlir8Kc21zPVsiMC41IiwiMC4xIiwiMC4wMiJdCmZvciBzLGMgaW4gemlwKHNtcyxbIkMxIiwiQzIiLCJDNCJdKToKICAgIGF4WzEsMV0ucGxvdChbZmxvYXQoYikgZm9yIGIgaW4gQnNdLFtSW3NdWyJtZWFuIl1bYl1bInN1cnByaXNlIl0tUltzXVsibWVhbiJdW2JdWyJyYW5kb20iXSBmb3IgYiBpbiBCc10sIm8tIixjb2xvcj1jLGxhYmVsPWYi5bmz5ruRPXtzfSIpCmF4WzEsMV0uYXhobGluZSgwLGNvbG9yPSJrIixsdz0uOCkKYXhbMSwxXS5zZXRfeGxhYmVsKCLpooTnrpciKTsgYXhbMSwxXS5zZXRfeWxhYmVsKCJzdXJwcmlzZSDiiJIgcmFuZG9t77yI5q2jPeabtOW3ru+8iSIpCmF4WzEsMV0uc2V0X3RpdGxlKCJEIOeejui0quWpqueahOS7o+S7t++8muWwj+mihOeul+acgOi0te+8jOS4ieaho+W5s+a7keS4gOiHtCIpCmF4WzEsMV0ubGVnZW5kKCk7IGF4WzEsMV0uZ3JpZChhbHBoYT0uMykKcGx0LnRpZ2h0X2xheW91dCgpOyBwbHQuc2F2ZWZpZygicmVuZGVyMTkyLnBuZyIsZHBpPTEzNSkKcHJpbnQoIm9rIHJlbmRlcjE5Mi5wbmciKQo=
+# -*- coding: utf-8 -*-
+import json, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+for f in ["WenQuanYi Micro Hei","Noto Sans CJK SC","DejaVu Sans"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False); plt.rcParams["font.sans-serif"]=[f]; break
+    except Exception: pass
+plt.rcParams["axes.unicode_minus"]=False
+R=json.load(open("robust192.json")); H=json.load(open("result192b.json"))["heap"]
+fig,ax=plt.subplots(2,2,figsize=(13,9))
+# A 真堆量
+ks=sorted(H,key=int); bits=[H[k]["bits"] for k in ks]; par=[H[k]["params"] for k in ks]
+ax[0,0].plot([int(k) for k in ks],bits,"o-",lw=2,label="bits/字符(越低越好)")
+ax[0,0].set_xlabel("模型阶数 k"); ax[0,0].set_ylabel("bits/字符",color="C0")
+ax2=ax[0,0].twinx(); ax2.plot([int(k) for k in ks],par,"s--",color="C1",label="参数量")
+ax2.set_ylabel("参数量",color="C1"); ax2.set_yscale("log")
+ax[0,0].set_title("A 真堆量：k=2→5 参数涨 4.9×，增益 −0.0001（更差）")
+ax[0,0].grid(alpha=.3)
+# B 三种瞄准 vs 随机（平滑0.02）
+sm="0.02"; Bs=["0.1","0.2","0.3","0.5"]
+for nm,c,mk in [("random","k","o"),("desire","C0","s"),("surprise","C3","^"),("easy","C2","v")]:
+    ax[0,1].plot([float(b) for b in Bs],[R[sm]["mean"][b][nm] for b in Bs],mk+"-",color=c,label=nm)
+ax[0,1].set_xlabel("预算（训练窗口占比）"); ax[0,1].set_ylabel("bits/字符")
+ax[0,1].set_title("B 瞄准 vs 随机（越低越好）\n瞎贪婪 surprise 全程最差")
+ax[0,1].legend(); ax[0,1].grid(alpha=.3)
+# C 配对符号检验
+labels=["surprise\n(瞎贪婪)","desire\n(你的欲望标记)","easy\n(专挑我最会的)"]
+data={l:[] for l in labels}
+for b in Bs:
+    for l,k in zip(labels,["surprise-vs-random","desire-vs-random","easy-vs-random"]):
+        neg,n=R[sm]["sign"][b][k]; data[l].append(neg)
+x=range(len(Bs)); w=.26
+for i,(l,c) in enumerate(zip(labels,["C3","C0","C2"])):
+    ax[1,0].bar([p+i*w for p in x],data[l],w,label=l,color=c)
+ax[1,0].axhline(5,ls="--",color="gray"); ax[1,0].text(2.6,5.2,"5/10 = 与随机无异",fontsize=8,color="gray")
+ax[1,0].set_xticks([p+w for p in x]); ax[1,0].set_xticklabels([f"B={b}" for b in Bs])
+ax[1,0].set_ylabel("优于随机的种子数 /10"); ax[1,0].set_ylim(0,10)
+ax[1,0].set_title("C 配对检验：只有瞎贪婪稳定为负（0–5/10）")
+ax[1,0].legend(fontsize=8); ax[1,0].grid(alpha=.3,axis="y")
+# D 三档平滑下 surprise 的劣势
+sms=["0.5","0.1","0.02"]
+for s,c in zip(sms,["C1","C2","C4"]):
+    ax[1,1].plot([float(b) for b in Bs],[R[s]["mean"][b]["surprise"]-R[s]["mean"][b]["random"] for b in Bs],"o-",color=c,label=f"平滑={s}")
+ax[1,1].axhline(0,color="k",lw=.8)
+ax[1,1].set_xlabel("预算"); ax[1,1].set_ylabel("surprise − random（正=更差）")
+ax[1,1].set_title("D 瞎贪婪的代价：小预算最贵，三档平滑一致")
+ax[1,1].legend(); ax[1,1].grid(alpha=.3)
+plt.tight_layout(); plt.savefig("render192.png",dpi=135)
+print("ok render192.png")

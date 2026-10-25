@@ -1,1 +1,244 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIDE5NSDnnLznnZvnmoTkuKTnp43np43lrZDlr7nmipcg4oCU4oCUIOeci+a4hSjpq5jliIbovqjnjocv55+t56iLKSB2cyDnnIvov5wo5L2O5YiG6L6o546HL+mVv+eoiykKIyDkv67mraPniYjvvJrliqDlm57pgIDmj5LlgLzvvIjlkKbliJnplb/nqIvooqvnqIDnlo/mgKfmg6nnvZogLT4g5a6e6aqM6K6+6K6h5YGP5beu77yM5Lya5YGH5YGP5ZCR6L+R55y877yJCiMgICDnp43lrZBBID0g5oOz55yL5riF77ya5a2X5q+N6KGo5aSnIEHihpHvvIjliIbovqjnjofpq5jvvIksIOS4iuS4i+aWhyBr4oaT77yI55yL5b6X6L+RID0g5Lit5aSu5Ye577yJCiMgICDnp43lrZBCID0g55yL6L+cICDvvJrlrZfmr43ooajlsI8gQeKGk++8iOWIhui+qOeOh+S9ju+8iSwg5LiK5LiL5paHIGvihpHvvIjnnIvlvpfov5wgPSDlkajovrnvvIkKIyAgIOWvueaKlyAtPiDliIbmracoSlMpIC0+IOWKqOaAgeiBmuWFieetlueVpe+8m+WvueeFpyA9IOWQjOmHj+maj+acuuWIhumFjQppbXBvcnQganNvbiwgbWF0aCwgcmFuZG9tCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0LCBDb3VudGVyCgpyYW5kb20uc2VlZCg0MikKT1VUID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE5NV9leWVfc2VlZHMiClNSQyA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxODBfcmVjb3JkL3Vfc2lkZV9mdWxsLnR4dCIKCmxpbmVzID0gb3BlbihTUkMsIGVuY29kaW5nPSJ1dGYtOCIpLnJlYWQoKS5zcGxpdCgiXG4iKQpib2R5ID0gW10KZm9yIGxuIGluIGxpbmVzOgogICAgaWYgbG4uc3RhcnRzd2l0aCgiIyIpOgogICAgICAgIGNvbnRpbnVlCiAgICBzID0gbG4ucnN0cmlwKCkKICAgIGlmIG5vdCBzLnN0cmlwKCk6CiAgICAgICAgY29udGludWUKICAgIGlmIHMuc3RhcnRzd2l0aCgiVSIpIGFuZCBzWzE6NF0uaXNkaWdpdCgpIGFuZCAiOiIgaW4gc1s6OF06CiAgICAgICAgYm9keS5hcHBlbmQocy5zcGxpdCgiOiIsIDEpWzFdLnN0cmlwKCkpCiAgICBlbGlmIHMuc3RhcnRzd2l0aCgiICIpIGFuZCBib2R5OgogICAgICAgIGJvZHlbLTFdICs9IHMuc3RyaXAoKQpib2R5ID0gW2IgZm9yIGIgaW4gYm9keSBpZiBiIGFuZCAiW+WQjOacn+i0tOWFpSIgbm90IGluIGJdCnR4dCA9ICJcbiIuam9pbihib2R5KQoKbiA9IGxlbih0eHQpCm50ciA9IGludChuICogMC44KQp0ciwgdGUgPSB0eHRbOm50cl0sIHR4dFtudHI6XQpmcmVxID0gQ291bnRlcih0cikKVk9DQUIgPSBsaXN0KGZyZXEua2V5cygpKQpWID0gbGVuKFZPQ0FCKQpvcmRlciA9IFtjIGZvciBjLCBfIGluIGZyZXEubW9zdF9jb21tb24oKV0KdG90ID0gc3VtKGZyZXEudmFsdWVzKCkpCiMg5YWo5bGA5a2X56ym5YiG5biD77yI5ZCrIFVOSyDmp73vvInvvIznlKjkuo7lm57pgIDkuI7lhazlubPlnLDmnb8KQUxQSEFfVSA9IDAuNQpQX1VOSSA9IHtjOiAoZnJlcVtjXSArIEFMUEhBX1UpIC8gKHRvdCArIEFMUEhBX1UgKiAoViArIDEpKSBmb3IgYyBpbiBWT0NBQn0KUF9VTksgPSBBTFBIQV9VIC8gKHRvdCArIEFMUEhBX1UgKiAoViArIDEpKQpwcmludChmImNoYXJzPXtufSB0cmFpbj17bnRyfSB0ZXN0PXtsZW4odGUpfSB2b2NhYj17Vn0gUF9VTks9e1BfVU5LOi4yZX0gKC1sb2cyPXstbWF0aC5sb2cyKFBfVU5LKTouMmZ9IGJpdHMpIikKCgpkZWYgbWFrZV9idWNrZXQoQSk6CiAgICBtLCBhY2MsIGIgPSB7fSwgMC4wLCAwCiAgICBmb3IgYyBpbiBvcmRlcjoKICAgICAgICBtW2NdID0gbWluKGIsIEEgLSAxKQogICAgICAgIGFjYyArPSBmcmVxW2NdIC8gdG90CiAgICAgICAgd2hpbGUgYiA8IEEgLSAxIGFuZCBhY2MgPj0gKGIgKyAxKSAvIEE6CiAgICAgICAgICAgIGIgKz0gMQogICAgcmV0dXJuIG0KCgpHQU1NQSA9IDEuMCAgICMg5qG2IC0+IOWtl+espiDnmoTlm57pgIDlvLrluqYKTVUgPSAyLjAgICAgICAjIOWxguasoeaPkuWAvO+8mmxhbWJkYSA9IFQvKFQrTVUpCgoKY2xhc3MgRXllOgogICAgIiIi5YiG6L6o546HIEHvvIjmobbmlbDvvIksIOinhumHjiBr77yI5LiK5LiL5paH6ZW/5bqm77yJ77ybV2l0dGVuLUJlbGwg5byP5bGC5qyh5o+S5YC85Zue6YCAIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJtYXAsIEEsIGspOgogICAgICAgIHNlbGYuYm1hcCwgc2VsZi5BLCBzZWxmLmsgPSBibWFwLCBBLCBrCiAgICAgICAgc2VsZi5jbnQgPSBbZGVmYXVsdGRpY3QoQ291bnRlcikgZm9yIF8gaW4gcmFuZ2UoayArIDEpXSAgIyBjbnRbal06IGrpmLbmobbkuIrkuIvmlocgLT4g5qG26K6h5pWwCiAgICAgICAgc2VsZi50b3QgPSBbQ291bnRlcigpIGZvciBfIGluIHJhbmdlKGsgKyAxKV0KICAgICAgICBzZWxmLmJjaCA9IGRlZmF1bHRkaWN0KENvdW50ZXIpCiAgICAgICAgc2VsZi5idG90ID0gQ291bnRlcigpCgogICAgZGVmIGZpdChzZWxmLCBzZXEpOgogICAgICAgIGJzID0gW3NlbGYuYm1hcC5nZXQoYywgc2VsZi5BIC0gMSkgZm9yIGMgaW4gc2VxXQogICAgICAgIGZvciBpLCBjIGluIGVudW1lcmF0ZShzZXEpOgogICAgICAgICAgICBzZWxmLmJjaFtic1tpXV1bY10gKz0gMQogICAgICAgICAgICBzZWxmLmJ0b3RbYnNbaV1dICs9IDEKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UoMSwgc2VsZi5rICsgMSk6CiAgICAgICAgICAgICAgICBpZiBpID49IGo6CiAgICAgICAgICAgICAgICAgICAga2V5ID0gdHVwbGUoYnNbaSAtIGo6aV0pCiAgICAgICAgICAgICAgICAgICAgc2VsZi5jbnRbal1ba2V5XVtic1tpXV0gKz0gMQogICAgICAgICAgICAgICAgICAgIHNlbGYudG90W2pdW2tleV0gKz0gMQogICAgICAgICMgMCDpmLbvvJrlhajlsYDmobbliIbluIMKICAgICAgICBmb3IgYiBpbiByYW5nZShzZWxmLkEpOgogICAgICAgICAgICBzZWxmLnRvdFswXVsoKV0gKz0gc2VsZi5idG90LmdldChiLCAwKQogICAgICAgICAgICBzZWxmLmNudFswXVsoKV0gPSBDb3VudGVyKHNlbGYuYnRvdCkKICAgICAgICBzZWxmLnByaW9yX2IgPSB7fQogICAgICAgIGZvciBiIGluIHJhbmdlKHNlbGYuQSk6CiAgICAgICAgICAgIHNlbGYucHJpb3JfYltiXSA9IChzZWxmLmJ0b3QuZ2V0KGIsIDApICsgMC41KSAvIChsZW4oc2VxKSArIDAuNSAqIHNlbGYuQSkKCiAgICBkZWYgX3BiKHNlbGYsIGhpc3QpOgogICAgICAgICIiIuWxguasoeaPkuWAvOWQjueahOahtuWIhuW4gyIiIgogICAgICAgIGJzID0gW3NlbGYuYm1hcC5nZXQoYywgc2VsZi5BIC0gMSkgZm9yIGMgaW4gaGlzdF0KICAgICAgICBsbyA9IGRpY3Qoc2VsZi5wcmlvcl9iKQoKICAgICAgICBkZWYgYXQoaik6CiAgICAgICAgICAgIGlmIGogPT0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBkaWN0KHNlbGYucHJpb3JfYikKICAgICAgICAgICAgaWYgbGVuKGJzKSA8IGo6CiAgICAgICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgICAgICBrZXkgPSB0dXBsZShic1stajpdKQogICAgICAgICAgICBUID0gc2VsZi50b3Rbal0uZ2V0KGtleSwgMCkKICAgICAgICAgICAgaWYgVCA9PSAwOgogICAgICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICAgICAgbGFtID0gVCAvIChUICsgTVUpCiAgICAgICAgICAgIHN1YiA9IGF0KGogLSAxKQogICAgICAgICAgICBvdXQgPSB7fQogICAgICAgICAgICBmb3IgYiBpbiByYW5nZShzZWxmLkEpOgogICAgICAgICAgICAgICAgaGkgPSBzZWxmLmNudFtqXVtrZXldLmdldChiLCAwKSAvIFQKICAgICAgICAgICAgICAgIG91dFtiXSA9IGxhbSAqIGhpICsgKDEgLSBsYW0pICogc3ViLmdldChiLCAxLjAgLyBzZWxmLkEpCiAgICAgICAgICAgIHJldHVybiBvdXQKICAgICAgICByID0gYXQoc2VsZi5rKQogICAgICAgIHJldHVybiByIGlmIHIgaXMgbm90IE5vbmUgZWxzZSBsbwoKICAgIGRlZiBwZGlzdChzZWxmLCBoaXN0KToKICAgICAgICBwYiA9IHNlbGYuX3BiKGhpc3QpCiAgICAgICAgb3V0ID0ge30KICAgICAgICBmb3IgYiwgcCBpbiBwYi5pdGVtcygpOgogICAgICAgICAgICBpZiBwIDw9IDA6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBjaCA9IHNlbGYuYmNoLmdldChiKQogICAgICAgICAgICB0YiA9IHNlbGYuYnRvdC5nZXQoYiwgMCkKICAgICAgICAgICAgaWYgbm90IGNoIG9yIHRiID09IDA6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBmb3IgYywgY2MgaW4gY2guaXRlbXMoKToKICAgICAgICAgICAgICAgIHBjID0gKGNjICsgR0FNTUEgKiBQX1VOSS5nZXQoYywgUF9VTkspKSAvICh0YiArIEdBTU1BKQogICAgICAgICAgICAgICAgb3V0W2NdID0gb3V0LmdldChjLCAwLjApICsgcCAqIHBjCiAgICAgICAgcmV0dXJuIG91dAoKICAgIGRlZiBwcm9iKHNlbGYsIGhpc3QsIGMpOgogICAgICAgIHJldHVybiBzZWxmLnBkaXN0KGhpc3QpLmdldChjLCBQX1VOSykKCgpkZWYgYml0c19vZihleWUpOgogICAgcywgaGlzdCA9IDAuMCwgbGlzdCh0cikKICAgIGZvciBjIGluIHRlOgogICAgICAgIHAgPSBleWUucHJvYihoaXN0LCBjKQogICAgICAgIHMgLT0gbWF0aC5sb2cyKG1heChwLCBQX1VOSykpCiAgICAgICAgaGlzdC5hcHBlbmQoYykKICAgIHJldHVybiBzIC8gbGVuKHRlKQoKCkJNQVBTID0ge0E6IG1ha2VfYnVja2V0KEEpIGZvciBBIGluIFsyLCA0LCA4LCAxNiwgMzIsIDY0LCAxMjgsIDI2NCwgVl19CmdyaWQgPSB7fQpmb3IgQSBpbiBbMiwgNCwgOCwgMTYsIDMyLCA2NCwgMTI4LCAyNjQsIFZdOgogICAgZm9yIGsgaW4gcmFuZ2UoMSwgNyk6CiAgICAgICAgZSA9IEV5ZShCTUFQU1tBXSwgQSwgaykKICAgICAgICBlLmZpdCh0cikKICAgICAgICBiID0gYml0c19vZihlKQogICAgICAgIGdyaWRbZiJBe0F9X2t7a30iXSA9IHsiQSI6IEEsICJrIjogaywgInN0YXRlcyI6IEEgKiogaywgImJpdHMiOiByb3VuZChiLCA0KX0KICAgICAgICBwcmludChmIkE9e0E6NGR9IGs9e2t9IHN0YXRlcz17QSoqazoxMmR9IGJpdHM9e2I6LjRmfSIpCgoKZGVmIGJlc3Rfa19mb3IoQSwgUyk6CiAgICByZXR1cm4gbWluKFsoYWJzKEEgKiogayAtIFMpLCBrKSBmb3IgayBpbiByYW5nZSgxLCA3KV0pWzFdCgoKYnVkZ2V0cyA9IHt9CmZvciBTIGluIFs1MDAsIDUwMDAsIDUwMDAwXToKICAgIGN1cnZlID0gW3siQSI6IEEsICJrIjogYmVzdF9rX2ZvcihBLCBTKSwgInN0YXRlcyI6IEEgKiogYmVzdF9rX2ZvcihBLCBTKSwKICAgICAgICAgICAgICAiYml0cyI6IGdyaWRbZiJBe0F9X2t7YmVzdF9rX2ZvcihBLCBTKX0iXVsiYml0cyJdfQogICAgICAgICAgICAgZm9yIEEgaW4gWzIsIDQsIDgsIDE2LCAzMiwgNjQsIDEyOCwgMjY0LCBWXV0KICAgIGJ1ZGdldHNbZiJTe1N9Il0gPSBjdXJ2ZQogICAgYmVzdCA9IG1pbihjdXJ2ZSwga2V5PWxhbWJkYSByOiByWyJiaXRzIl0pCiAgICBwcmludChmIlvpooTnrpcgUz17U31dIOacgOS8mCBBPXtiZXN0WydBJ119IGs9e2Jlc3RbJ2snXX0gYml0cz17YmVzdFsnYml0cyddOi40Zn0gKHN0YXRlcz17YmVzdFsnc3RhdGVzJ119KSIpCgpTID0gNTAwMApORUFSID0gRXllKEJNQVBTW1ZdLCBWLCBiZXN0X2tfZm9yKFYsIFMpKQpORUFSLmZpdCh0cikKRkFSX0EsIEZBUl9LID0gOCwgYmVzdF9rX2Zvcig4LCBTKQpGQVIgPSBFeWUoQk1BUFNbRkFSX0FdLCBGQVJfQSwgRkFSX0spCkZBUi5maXQodHIpCmJfbmVhciwgYl9mYXIgPSBiaXRzX29mKE5FQVIpLCBiaXRzX29mKEZBUikKcHJpbnQoZiLov5HnnLwgQT17TkVBUi5BfSBrPXtORUFSLmt9IHN0YXRlcz17TkVBUi5BKipORUFSLmt9IGJpdHM9e2JfbmVhcjouNGZ9IikKcHJpbnQoZiLov5znnLwgQT17RkFSLkF9IGs9e0ZBUi5LIGlmIGhhc2F0dHIoRkFSLCdLJykgZWxzZSBGQVIua30gc3RhdGVzPXtGQVIuQSoqRkFSLmt9IGJpdHM9e2JfZmFyOi40Zn0iKQoKCmRlZiBzZXFfcHJvYnMoZXllKToKICAgIG91dCwgaGlzdCA9IFtdLCBsaXN0KHRyKQogICAgZm9yIGMgaW4gdGU6CiAgICAgICAgb3V0LmFwcGVuZChleWUucGRpc3QoaGlzdCkpCiAgICAgICAgaGlzdC5hcHBlbmQoYykKICAgIHJldHVybiBvdXQKCgpwbiwgcGYgPSBzZXFfcHJvYnMoTkVBUiksIHNlcV9wcm9icyhGQVIpCm1peCA9IFtdCmZvciBsYW0gaW4gW2kgLyAyMCBmb3IgaSBpbiByYW5nZSgyMSldOgogICAgcyA9IDAuMAogICAgZm9yIGksIGMgaW4gZW51bWVyYXRlKHRlKToKICAgICAgICBwID0gbGFtICogcG5baV0uZ2V0KGMsIFBfVU5LKSArICgxIC0gbGFtKSAqIHBmW2ldLmdldChjLCBQX1VOSykKICAgICAgICBzIC09IG1hdGgubG9nMihtYXgocCwgUF9VTkspKQogICAgbWl4LmFwcGVuZCh7ImxhbSI6IGxhbSwgImJpdHMiOiByb3VuZChzIC8gbGVuKHRlKSwgNCl9KQpiZXN0X21peCA9IG1pbihtaXgsIGtleT1sYW1iZGEgcjogclsiYml0cyJdKQpwcmludChmIuacgOS8mOa3t+WQiCBsYW09e2Jlc3RfbWl4WydsYW0nXX0gYml0cz17YmVzdF9taXhbJ2JpdHMnXTouNGZ9ICIKICAgICAgZiIo6L+RIHtiX25lYXI6LjRmfSAvIOi/nCB7Yl9mYXI6LjRmfSkiKQoKCmRlZiBqcyhwLCBxKToKICAgIGtleXMgPSBzZXQocCkgfCBzZXQocSkKICAgIHMgPSAwLjAKICAgIGZvciBjIGluIGtleXM6CiAgICAgICAgYSwgYiA9IG1heChwLmdldChjLCBQX1VOSyksIDFlLTEyKSwgbWF4KHEuZ2V0KGMsIFBfVU5LKSwgMWUtMTIpCiAgICAgICAgbSA9IDAuNSAqIChhICsgYikKICAgICAgICBzICs9IDAuNSAqIGEgKiBtYXRoLmxvZzIoYSAvIG0pICsgMC41ICogYiAqIG1hdGgubG9nMihiIC8gbSkKICAgIHJldHVybiBzCgoKZGl2ID0gW2pzKHBuW2ldLCBwZltpXSkgZm9yIGkgaW4gcmFuZ2UobGVuKHRlKSldCnN1cnAgPSBbLW1hdGgubG9nMihtYXgocG5baV0uZ2V0KHRlW2ldLCBQX1VOSyksIFBfVU5LKSkgZm9yIGkgaW4gcmFuZ2UobGVuKHRlKSldCm14LCBteSA9IHN1bShkaXYpIC8gbGVuKGRpdiksIHN1bShzdXJwKSAvIGxlbihzdXJwKQpudW0gPSBzdW0oKGRpdltpXSAtIG14KSAqIChzdXJwW2ldIC0gbXkpIGZvciBpIGluIHJhbmdlKGxlbihkaXYpKSkKZGVuID0gbWF0aC5zcXJ0KHN1bSgoZCAtIG14KSAqKiAyIGZvciBkIGluIGRpdikgKiBzdW0oKHMgLSBteSkgKiogMiBmb3IgcyBpbiBzdXJwKSkKY29yciA9IG51bSAvIGRlbiBpZiBkZW4gZWxzZSAwLjAKcHJpbnQoZiLliIbmracgdnMg6L+R55y85oSP5aSWIFBlYXJzb24gciA9IHtjb3JyOi40Zn0iKQoKaWR4ID0gc29ydGVkKHJhbmdlKGxlbih0ZSkpLCBrZXk9bGFtYmRhIGk6IGRpdltpXSkKcSA9IGxlbihpZHgpIC8vIDUKYmlucyA9IFtdCmZvciBiIGluIHJhbmdlKDUpOgogICAgc2VnID0gaWR4W2IgKiBxOihiICsgMSkgKiBxXSBpZiBiIDwgNCBlbHNlIGlkeFs0ICogcTpdCiAgICBiaW5zLmFwcGVuZCh7ImJpbiI6IGIsICJkaXYiOiByb3VuZChzdW0oZGl2W2ldIGZvciBpIGluIHNlZykgLyBsZW4oc2VnKSwgNCksCiAgICAgICAgICAgICAgICAgInN1cnBfbmVhciI6IHJvdW5kKHN1bShzdXJwW2ldIGZvciBpIGluIHNlZykgLyBsZW4oc2VnKSwgNCksCiAgICAgICAgICAgICAgICAgInN1cnBfZmFyIjogcm91bmQoc3VtKC1tYXRoLmxvZzIobWF4KHBmW2ldLmdldCh0ZVtpXSwgUF9VTkspLCBQX1VOSykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBpIGluIHNlZykgLyBsZW4oc2VnKSwgNCl9KQoKZHluID0gW10KZm9yIHggaW4gWzUsIDEwLCAyMCwgMzAsIDUwLCA3MF06CiAgICBtID0gaW50KGxlbih0ZSkgKiB4IC8gMTAwKQogICAgdG9wID0gc2V0KHNvcnRlZChyYW5nZShsZW4odGUpKSwga2V5PWxhbWJkYSBpOiAtZGl2W2ldKVs6bV0pCiAgICBzX2R5biA9IHN1bSgtbWF0aC5sb2cyKG1heCgocG5baV0gaWYgaSBpbiB0b3AgZWxzZSBwZltpXSkuZ2V0KHRlW2ldLCBQX1VOSyksIFBfVU5LKSkKICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZSkpKSAvIGxlbih0ZSkKICAgIGFjYyA9IFtdCiAgICBmb3IgcmVwIGluIHJhbmdlKDMwKToKICAgICAgICBybmQgPSBzZXQocmFuZG9tLnNhbXBsZShyYW5nZShsZW4odGUpKSwgbSkpCiAgICAgICAgYWNjLmFwcGVuZChzdW0oLW1hdGgubG9nMihtYXgoKHBuW2ldIGlmIGkgaW4gcm5kIGVsc2UgcGZbaV0pLmdldCh0ZVtpXSwgUF9VTkspLCBQX1VOSykpCiAgICAgICAgICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRlKSkpIC8gbGVuKHRlKSkKICAgIHIgPSBzdW0oYWNjKSAvIGxlbihhY2MpCiAgICBkeW4uYXBwZW5kKHsieCI6IHgsICJkeW4iOiByb3VuZChzX2R5biwgNCksICJyYW5kIjogcm91bmQociwgNCksICJnYWluIjogcm91bmQociAtIHNfZHluLCA0KX0pCiAgICBwcmludChmIuiBmuWFiSB7eDoyZH0lOiDmjInliIbmracge3NfZHluOi40Zn0gIOmaj+acuiB7cjouNGZ9ICDlt64ge3IgLSBzX2R5bjorLjRmfSIpCgpqc29uLmR1bXAoeyJjb3JwdXMiOiB7ImNoYXJzIjogbiwgInRyYWluIjogbnRyLCAidGVzdCI6IGxlbih0ZSksICJ2b2NhYiI6IFZ9LAogICAgICAgICAgICJncmlkIjogZ3JpZCwgImJ1ZGdldHMiOiBidWRnZXRzLAogICAgICAgICAgICJuZWFyIjogeyJBIjogTkVBUi5BLCAiayI6IE5FQVIuaywgInN0YXRlcyI6IE5FQVIuQSAqKiBORUFSLmssICJiaXRzIjogcm91bmQoYl9uZWFyLCA0KX0sCiAgICAgICAgICAgImZhciI6IHsiQSI6IEZBUi5BLCAiayI6IEZBUi5rLCAic3RhdGVzIjogRkFSLkEgKiogRkFSLmssICJiaXRzIjogcm91bmQoYl9mYXIsIDQpfSwKICAgICAgICAgICAibWl4IjogbWl4LCAiYmVzdF9taXgiOiBiZXN0X21peCwKICAgICAgICAgICAiY29yciI6IHJvdW5kKGNvcnIsIDQpLCAiYmlucyI6IGJpbnMsICJkeW4iOiBkeW59LAogICAgICAgICAgb3BlbihmIntPVVR9L3Jlc3VsdDE5NS5qc29uIiwgInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKcHJpbnQoInNhdmVkIikK
+#!/usr/bin/env python3
+# 195 眼睛的两种种子对抗 —— 看清(高分辨率/短程) vs 看远(低分辨率/长程)
+# 修正版：加回退插值（否则长程被稀疏性惩罚 -> 实验设计偏差，会假偏向近眼）
+#   种子A = 想看清：字母表大 A↑（分辨率高）, 上下文 k↓（看得近 = 中央凹）
+#   种子B = 看远  ：字母表小 A↓（分辨率低）, 上下文 k↑（看得远 = 周边）
+#   对抗 -> 分歧(JS) -> 动态聚光策略；对照 = 同量随机分配
+import json, math, random
+from collections import defaultdict, Counter
+
+random.seed(42)
+OUT = "/data/workspace/luoshen-o1/experiments/exp195_eye_seeds"
+SRC = "/data/workspace/luoshen-o1/experiments/exp180_record/u_side_full.txt"
+
+lines = open(SRC, encoding="utf-8").read().split("\n")
+body = []
+for ln in lines:
+    if ln.startswith("#"):
+        continue
+    s = ln.rstrip()
+    if not s.strip():
+        continue
+    if s.startswith("U") and s[1:4].isdigit() and ":" in s[:8]:
+        body.append(s.split(":", 1)[1].strip())
+    elif s.startswith(" ") and body:
+        body[-1] += s.strip()
+body = [b for b in body if b and "[同期贴入" not in b]
+txt = "\n".join(body)
+
+n = len(txt)
+ntr = int(n * 0.8)
+tr, te = txt[:ntr], txt[ntr:]
+freq = Counter(tr)
+VOCAB = list(freq.keys())
+V = len(VOCAB)
+order = [c for c, _ in freq.most_common()]
+tot = sum(freq.values())
+# 全局字符分布（含 UNK 槽），用于回退与公平地板
+ALPHA_U = 0.5
+P_UNI = {c: (freq[c] + ALPHA_U) / (tot + ALPHA_U * (V + 1)) for c in VOCAB}
+P_UNK = ALPHA_U / (tot + ALPHA_U * (V + 1))
+print(f"chars={n} train={ntr} test={len(te)} vocab={V} P_UNK={P_UNK:.2e} (-log2={-math.log2(P_UNK):.2f} bits)")
+
+
+def make_bucket(A):
+    m, acc, b = {}, 0.0, 0
+    for c in order:
+        m[c] = min(b, A - 1)
+        acc += freq[c] / tot
+        while b < A - 1 and acc >= (b + 1) / A:
+            b += 1
+    return m
+
+
+GAMMA = 1.0   # 桶 -> 字符 的回退强度
+MU = 2.0      # 层次插值：lambda = T/(T+MU)
+
+
+class Eye:
+    """分辨率 A（桶数）, 视野 k（上下文长度）；Witten-Bell 式层次插值回退"""
+
+    def __init__(self, bmap, A, k):
+        self.bmap, self.A, self.k = bmap, A, k
+        self.cnt = [defaultdict(Counter) for _ in range(k + 1)]  # cnt[j]: j阶桶上下文 -> 桶计数
+        self.tot = [Counter() for _ in range(k + 1)]
+        self.bch = defaultdict(Counter)
+        self.btot = Counter()
+
+    def fit(self, seq):
+        bs = [self.bmap.get(c, self.A - 1) for c in seq]
+        for i, c in enumerate(seq):
+            self.bch[bs[i]][c] += 1
+            self.btot[bs[i]] += 1
+            for j in range(1, self.k + 1):
+                if i >= j:
+                    key = tuple(bs[i - j:i])
+                    self.cnt[j][key][bs[i]] += 1
+                    self.tot[j][key] += 1
+        # 0 阶：全局桶分布
+        for b in range(self.A):
+            self.tot[0][()] += self.btot.get(b, 0)
+            self.cnt[0][()] = Counter(self.btot)
+        self.prior_b = {}
+        for b in range(self.A):
+            self.prior_b[b] = (self.btot.get(b, 0) + 0.5) / (len(seq) + 0.5 * self.A)
+
+    def _pb(self, hist):
+        """层次插值后的桶分布"""
+        bs = [self.bmap.get(c, self.A - 1) for c in hist]
+        lo = dict(self.prior_b)
+
+        def at(j):
+            if j == 0:
+                return dict(self.prior_b)
+            if len(bs) < j:
+                return None
+            key = tuple(bs[-j:])
+            T = self.tot[j].get(key, 0)
+            if T == 0:
+                return None
+            lam = T / (T + MU)
+            sub = at(j - 1)
+            out = {}
+            for b in range(self.A):
+                hi = self.cnt[j][key].get(b, 0) / T
+                out[b] = lam * hi + (1 - lam) * sub.get(b, 1.0 / self.A)
+            return out
+        r = at(self.k)
+        return r if r is not None else lo
+
+    def pdist(self, hist):
+        pb = self._pb(hist)
+        out = {}
+        for b, p in pb.items():
+            if p <= 0:
+                continue
+            ch = self.bch.get(b)
+            tb = self.btot.get(b, 0)
+            if not ch or tb == 0:
+                continue
+            for c, cc in ch.items():
+                pc = (cc + GAMMA * P_UNI.get(c, P_UNK)) / (tb + GAMMA)
+                out[c] = out.get(c, 0.0) + p * pc
+        return out
+
+    def prob(self, hist, c):
+        return self.pdist(hist).get(c, P_UNK)
+
+
+def bits_of(eye):
+    s, hist = 0.0, list(tr)
+    for c in te:
+        p = eye.prob(hist, c)
+        s -= math.log2(max(p, P_UNK))
+        hist.append(c)
+    return s / len(te)
+
+
+BMAPS = {A: make_bucket(A) for A in [2, 4, 8, 16, 32, 64, 128, 264, V]}
+grid = {}
+for A in [2, 4, 8, 16, 32, 64, 128, 264, V]:
+    for k in range(1, 7):
+        e = Eye(BMAPS[A], A, k)
+        e.fit(tr)
+        b = bits_of(e)
+        grid[f"A{A}_k{k}"] = {"A": A, "k": k, "states": A ** k, "bits": round(b, 4)}
+        print(f"A={A:4d} k={k} states={A**k:12d} bits={b:.4f}")
+
+
+def best_k_for(A, S):
+    return min([(abs(A ** k - S), k) for k in range(1, 7)])[1]
+
+
+budgets = {}
+for S in [500, 5000, 50000]:
+    curve = [{"A": A, "k": best_k_for(A, S), "states": A ** best_k_for(A, S),
+              "bits": grid[f"A{A}_k{best_k_for(A, S)}"]["bits"]}
+             for A in [2, 4, 8, 16, 32, 64, 128, 264, V]]
+    budgets[f"S{S}"] = curve
+    best = min(curve, key=lambda r: r["bits"])
+    print(f"[预算 S={S}] 最优 A={best['A']} k={best['k']} bits={best['bits']:.4f} (states={best['states']})")
+
+S = 5000
+NEAR = Eye(BMAPS[V], V, best_k_for(V, S))
+NEAR.fit(tr)
+FAR_A, FAR_K = 8, best_k_for(8, S)
+FAR = Eye(BMAPS[FAR_A], FAR_A, FAR_K)
+FAR.fit(tr)
+b_near, b_far = bits_of(NEAR), bits_of(FAR)
+print(f"近眼 A={NEAR.A} k={NEAR.k} states={NEAR.A**NEAR.k} bits={b_near:.4f}")
+print(f"远眼 A={FAR.A} k={FAR.K if hasattr(FAR,'K') else FAR.k} states={FAR.A**FAR.k} bits={b_far:.4f}")
+
+
+def seq_probs(eye):
+    out, hist = [], list(tr)
+    for c in te:
+        out.append(eye.pdist(hist))
+        hist.append(c)
+    return out
+
+
+pn, pf = seq_probs(NEAR), seq_probs(FAR)
+mix = []
+for lam in [i / 20 for i in range(21)]:
+    s = 0.0
+    for i, c in enumerate(te):
+        p = lam * pn[i].get(c, P_UNK) + (1 - lam) * pf[i].get(c, P_UNK)
+        s -= math.log2(max(p, P_UNK))
+    mix.append({"lam": lam, "bits": round(s / len(te), 4)})
+best_mix = min(mix, key=lambda r: r["bits"])
+print(f"最优混合 lam={best_mix['lam']} bits={best_mix['bits']:.4f} "
+      f"(近 {b_near:.4f} / 远 {b_far:.4f})")
+
+
+def js(p, q):
+    keys = set(p) | set(q)
+    s = 0.0
+    for c in keys:
+        a, b = max(p.get(c, P_UNK), 1e-12), max(q.get(c, P_UNK), 1e-12)
+        m = 0.5 * (a + b)
+        s += 0.5 * a * math.log2(a / m) + 0.5 * b * math.log2(b / m)
+    return s
+
+
+div = [js(pn[i], pf[i]) for i in range(len(te))]
+surp = [-math.log2(max(pn[i].get(te[i], P_UNK), P_UNK)) for i in range(len(te))]
+mx, my = sum(div) / len(div), sum(surp) / len(surp)
+num = sum((div[i] - mx) * (surp[i] - my) for i in range(len(div)))
+den = math.sqrt(sum((d - mx) ** 2 for d in div) * sum((s - my) ** 2 for s in surp))
+corr = num / den if den else 0.0
+print(f"分歧 vs 近眼意外 Pearson r = {corr:.4f}")
+
+idx = sorted(range(len(te)), key=lambda i: div[i])
+q = len(idx) // 5
+bins = []
+for b in range(5):
+    seg = idx[b * q:(b + 1) * q] if b < 4 else idx[4 * q:]
+    bins.append({"bin": b, "div": round(sum(div[i] for i in seg) / len(seg), 4),
+                 "surp_near": round(sum(surp[i] for i in seg) / len(seg), 4),
+                 "surp_far": round(sum(-math.log2(max(pf[i].get(te[i], P_UNK), P_UNK))
+                                       for i in seg) / len(seg), 4)})
+
+dyn = []
+for x in [5, 10, 20, 30, 50, 70]:
+    m = int(len(te) * x / 100)
+    top = set(sorted(range(len(te)), key=lambda i: -div[i])[:m])
+    s_dyn = sum(-math.log2(max((pn[i] if i in top else pf[i]).get(te[i], P_UNK), P_UNK))
+                for i in range(len(te))) / len(te)
+    acc = []
+    for rep in range(30):
+        rnd = set(random.sample(range(len(te)), m))
+        acc.append(sum(-math.log2(max((pn[i] if i in rnd else pf[i]).get(te[i], P_UNK), P_UNK))
+                       for i in range(len(te))) / len(te))
+    r = sum(acc) / len(acc)
+    dyn.append({"x": x, "dyn": round(s_dyn, 4), "rand": round(r, 4), "gain": round(r - s_dyn, 4)})
+    print(f"聚光 {x:2d}%: 按分歧 {s_dyn:.4f}  随机 {r:.4f}  差 {r - s_dyn:+.4f}")
+
+json.dump({"corpus": {"chars": n, "train": ntr, "test": len(te), "vocab": V},
+           "grid": grid, "budgets": budgets,
+           "near": {"A": NEAR.A, "k": NEAR.k, "states": NEAR.A ** NEAR.k, "bits": round(b_near, 4)},
+           "far": {"A": FAR.A, "k": FAR.k, "states": FAR.A ** FAR.k, "bits": round(b_far, 4)},
+           "mix": mix, "best_mix": best_mix,
+           "corr": round(corr, 4), "bins": bins, "dyn": dyn},
+          open(f"{OUT}/result195.json", "w"), ensure_ascii=False, indent=2)
+print("saved")

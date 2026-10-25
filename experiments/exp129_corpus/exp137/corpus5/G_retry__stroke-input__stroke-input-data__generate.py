@@ -1,1 +1,388 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoKIiIiCiMgZ2VuZXJhdGUucHkKClBhcnNlIGBjb2RlcG9pbnQtY2hhcmFjdGVyLXNlcXVlbmNlLnR4dGAsIGdlbmVyYXRpbmcgYHNlcXVlbmNlLWNoYXJhY3RlcnMudHh0YCBldGMuCgpMaWNlbnNlZCB1bmRlciAiTUlUIE5vIEF0dHJpYnV0aW9uIiAoTUlULTApLApzZWUgPGh0dHBzOi8vc3BkeC5vcmcvbGljZW5zZXMvTUlULTA+LgoiIiIKCgppbXBvcnQgaXRlcnRvb2xzCmltcG9ydCByZQppbXBvcnQgc3lzCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CmZyb20gc3RyaW5nIGltcG9ydCBUZW1wbGF0ZQoKCkNPREVQT0lOVF9DSEFSQUNURVJfU0VRVUVOQ0VfRklMRV9OQU1FID0gJ2NvZGVwb2ludC1jaGFyYWN0ZXItc2VxdWVuY2UudHh0JwpTRVFVRU5DRV9DSEFSQUNURVJTX0ZJTEVfTkFNRSA9ICdzZXF1ZW5jZS1jaGFyYWN0ZXJzLnR4dCcKVklHSUxBTkNFX0NIQVJBQ1RFUlNfRklMRV9OQU1FID0gJ3ZpZ2lsYW5jZS1jaGFyYWN0ZXJzLnR4dCcKQ0hBUkFDVEVSU19VTkxJS0VMWV9GSUxFX05BTUUgPSAnY2hhcmFjdGVycy11bmxpa2VseS50eHQnCkNIQVJBQ1RFUlNfVFJBRElUSU9OQUxfRklMRV9OQU1FID0gJ2NoYXJhY3RlcnMtdHJhZGl0aW9uYWwudHh0JwpDSEFSQUNURVJTX1NJTVBMSUZJRURfRklMRV9OQU1FID0gJ2NoYXJhY3RlcnMtc2ltcGxpZmllZC50eHQnCgpTVFJPS0VfREFUQV9OT1RJQ0UgPSAnJydcCiMgUGFydCBvZiAnQ29ud2F5IFN0cm9rZSBEYXRhJywKIyBzZWUgPGh0dHBzOi8vZ2l0aHViLmNvbS9zdHJva2UtaW5wdXQvc3Ryb2tlLWlucHV0LWRhdGE+LlwKJycnCgpDUkVBVElWRV9DT01NT05TX05PVElDRSA9ICcnJ1wKIyBDb3B5cmlnaHQgMjAyMS0tMjAyNiBDb253YXkuCiMgTGljZW5zZWQgdW5kZXIgQ3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbCAoQ0MtQlktNC4wKSwKIyBzZWUgPGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvPi5cCicnJwoKQVVUT01BVElDX0dFTkVSQVRJT05fTk9USUNFID0gZicnJ1wKIyBUaGlzIGZpbGUgaXMgYXV0b21hdGljYWxseSBnZW5lcmF0ZWQgYnkgcnVubmluZyBgZ2VuZXJhdGUucHlgCiMgaW4gPGh0dHBzOi8vZ2l0aHViLmNvbS9zdHJva2UtaW5wdXQvc3Ryb2tlLWlucHV0LWRhdGE+LgojIEl0IHNob3VsZCBOT1QgYmUgZWRpdGVkIG1hbnVhbGx5LgojIE1hbnVhbCBlZGl0cyBzaG91bGQgYmUgbWFkZSB0byBge0NPREVQT0lOVF9DSEFSQUNURVJfU0VRVUVOQ0VfRklMRV9OQU1FfWAuXAonJycKClBVQkxJQ19ET01BSU5fTk9USUNFID0gZicnJ1wKIyBSZWxlYXNlZCBpbnRvIHRoZSBwdWJsaWMgZG9tYWluLAojIHNlZSA8aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL3B1YmxpY2RvbWFpbi96ZXJvLzEuMC8+LlwKJycnCgpTRVFVRU5DRV9DSEFSQUNURVJTX1RFTVBMQVRFID0gVGVtcGxhdGUoCiAgICBmJyMgIyB7U0VRVUVOQ0VfQ0hBUkFDVEVSU19GSUxFX05BTUV9XG5cbicKICAgIGYne1NUUk9LRV9EQVRBX05PVElDRX1cblxuJwogICAgZid7Q1JFQVRJVkVfQ09NTU9OU19OT1RJQ0V9XG5cbicKICAgIGYnIyBDb250YWlucyB0YWItc2VwYXJhdGVkIChzdHJva2Ugc2VxdWVuY2UsIGNoYXJhY3RlcnMpIHBhaXJzLlxuXG4nCiAgICBmJ3tBVVRPTUFUSUNfR0VORVJBVElPTl9OT1RJQ0V9XG5cbicKICAgIGYnJGJvZHlcbicKKQoKVklHSUxBTkNFX0NIQVJBQ1RFUlNfVEVNUExBVEUgPSBUZW1wbGF0ZSgKICAgIGYnIyAjIHtWSUdJTEFOQ0VfQ0hBUkFDVEVSU19GSUxFX05BTUV9XG5cbicKICAgIGYne1NUUk9LRV9EQVRBX05PVElDRX1cblxuJwogICAgZid7UFVCTElDX0RPTUFJTl9OT1RJQ0V9XG5cbicKICAgIGYnIyBDb250YWlucyBzZWxlY3RlZCB2aWdpbGFuY2UgZGF0YS5cblxuJwogICAgZickYm9keVxuJwopCgpDSEFSQUNURVJTX1VOTElLRUxZX1RFTVBMQVRFID0gVGVtcGxhdGUoCiAgICBmJyMgIyB7Q0hBUkFDVEVSU19VTkxJS0VMWV9GSUxFX05BTUV9XG5cbicKICAgIGYne1NUUk9LRV9EQVRBX05PVElDRX1cblxuJwogICAgZid7UFVCTElDX0RPTUFJTl9OT1RJQ0V9XG5cbicKICAgIGYnIyBDb250YWlucyBjaGFyYWN0ZXJzIHVubGlrZWx5IHRvIGhhdmUgZm9udCBzdXBwb3J0IG9uIEFuZHJvaWQgNy4wLlxuXG4nCiAgICBmJ3tBVVRPTUFUSUNfR0VORVJBVElPTl9OT1RJQ0V9XG5cbicKICAgIGYnJGJvZHlcbicKKQoKQ0hBUkFDVEVSU19UUkFESVRJT05BTF9URU1QTEFURSA9IFRlbXBsYXRlKAogICAgZicjICMge0NIQVJBQ1RFUlNfVFJBRElUSU9OQUxfRklMRV9OQU1FfVxuXG4nCiAgICBmJ3tTVFJPS0VfREFUQV9OT1RJQ0V9XG5cbicKICAgIGYne1BVQkxJQ19ET01BSU5fTk9USUNFfVxuXG4nCiAgICBmJyMgQ29udGFpbnMgdHJhZGl0aW9uYWwgY2hhcmFjdGVycy5cblxuJwogICAgZid7QVVUT01BVElDX0dFTkVSQVRJT05fTk9USUNFfVxuXG4nCiAgICBmJyRib2R5XG4nCikKCkNIQVJBQ1RFUlNfU0lNUExJRklFRF9URU1QTEFURSA9IFRlbXBsYXRlKAogICAgZicjICMge0NIQVJBQ1RFUlNfU0lNUExJRklFRF9GSUxFX05BTUV9XG5cbicKICAgIGYne1NUUk9LRV9EQVRBX05PVElDRX1cblxuJwogICAgZid7UFVCTElDX0RPTUFJTl9OT1RJQ0V9XG5cbicKICAgIGYnIyBDb250YWlucyBzaW1wbGlmaWVkIGNoYXJhY3RlcnMuXG5cbicKICAgIGYne0FVVE9NQVRJQ19HRU5FUkFUSU9OX05PVElDRX1cblxuJwogICAgZickYm9keVxuJwopCgpQQVRURVJOX0ZST01fVklHSUxBTkNFID0gewogICAgJ1vkuJ/kuKJdJzogJygxfDMpMTIxNTQnLAogICAgJ1vkuK/kuLBdJzogJygxMTEyfDMxMTJ8MzMzMiknLAogICAgJ1vlhYzlhZFdJzogJygzNHw0MykyNTEzNScsCiAgICAnW+WFluWFl10nOiAnNDEzNCg1NHwyNTEpMzUnLAogICAgJ1vkv57lhapdJzogJzM0MSgyfDMpNSgxMTIyfDExNTV8NDQ1NSknLAogICAgJ1vlhbnojLJdJzogJyg0MzF8MTIxMnwyMTEyKTU1NDU1NCcsCiAgICAnW+WGiuWGjF0nOiAnKDI1MTIyfDI1MjIxfDI1MjUxfDM1MzUxKScsCiAgICAnW+WIpeWIq10nOiAnMjUxKDM1fDUzKTIyJywKICAgICdb5Yu75YyAXSc6ICczNSgxMXw0MSknLAogICAgJ1vljYnwoKaEXSc6ICcxMigxMzJ8MTMxMiknLAogICAgJ1vljbPljb1dJzogJyg1MTE1NHwzMjUxMTExfDMyNTExMTV8MzI1MTEzNXwzMjUxMTUzKTUyJywKICAgICdb5LmJ5Y+JXSc6ICcoMzQ0fDQzNHw1NDQpJywKICAgICdb5ZC/5ZGKXSc6ICczKDExMnwxMjEpMjUxJywKICAgICdb5Zuq5ZuxXSc6ICczMjUoMzM0fDM1NCkxJywKICAgICdb5aWl5aWnXSc6ICczMjUofDMpNDMxMjM0MTM0JywKICAgICdb5bCT5bCUXSc6ICczKDF8NSkyMzQnLAogICAgJ1vlsJnlsJpdJzogJygyMzR8MjQzKTI1MjUxJywKICAgICdb5bGP5bGbXSc6ICc1MTMoNDMxMTMyfDMxMTMzMTEyKScsCiAgICAnW+W8gOW5tV0nOiAnKDExMzJ8MTEzMTEyKScsCiAgICAnW+W5tuW5t10nOiAnKDQzMTEzMnwzMTEzMzExMiknLAogICAgJ1vlvLflvLpdJzogJzUxNSg1NHwyNTEpMjUxMjE0JywKICAgICdb5b2U5b2VXSc6ICcoNTExfDU1MSknLAogICAgJ1vlvaXlvaZdJzogJzQxKDM0fDQzKTEzMzMzJywKICAgICdb5oiv5oixXSc6ICcyMTUzMTUyMig0M3w1MjEpMSgxNTM0fDE1NDMpJywKICAgICdb5pWO5pWZXSc6ICcoMTIxM3wzNDEzKTUyMTMxMzQnLAogICAgJ1vlpJDmlbtdJzogJzM1MjUzNDI1MTExKDM1NHwzMTM0KScsCiAgICAnW+aXouaXo10nOiAnKDUxMTU0fDMyNTExMTF8MzI1MTExNXwzMjUxMTM1fDMyNTExNTMpMTUzNScsCiAgICAnW+aZieaZi10nOiAnMSgyMjQzfDU0NTQpMTI1MTEnLAogICAgJ1vmnK7mnK9dJzogJygxMjM0fDEyMzUpNCcsCiAgICAnW+acteactl0nOiAnKDM1fDUzKTEyMzQnLAogICAgJ1vmnpfwo4+fXSc6IHInKDEyMzR8MTIzNSlcLicsCiAgICAnW+atol0nOiAnKDIxNXwyMTIxKScsCiAgICAnW+ato10nOiAnKDEyMTV8MTIxMjEpJywKICAgICdb5q+A5q+BXSc6ICczMjE1MTExMjEzNTU0JywKICAgICdb5q+L5q+NXSc6ICc1NSgxM3wzMXw0MTR8NDQxKScsCiAgICAnW+aykuayoV0nOiAnNDQxMzU1NCcsCiAgICAnW+eCuueIsl0nOiAnKDR8MzM0NHwzNDQzKTM1NTU0NDQ0JywKICAgICdb5LqJ54itXSc6ICcoMzV8MzM0NHwzNDQzKTUxMTInLAogICAgJ1vnlKLnlKNdJzogJzQxKDM0fDQzKTEzMzExMjEnLAogICAgJ1vnnJ7nnJ9dJzogJygxMjI1MTExMXwxMzI1MTExMXwxNTI1MTExNXwzNTI1MTExNXw1MzI1MTExNSkzNCcsCiAgICAnW+ekuueku10nOiAnKDQ1MjR8MTEyMzQpJywKICAgICdb56a/56eDXSc6ICczMTIzNDM1JywKICAgICdb57Kk57K1XSc6ICczMjUofDMpNDMxMjM0MTE1JywKICAgICdb576h576oXSc6ICc0MzExMjEoMTF8NDF8NDQxKTM1MzQnLAogICAgJ1vljafoh6VdJzogJzEyNTEyNSgyNHwzNCknLAogICAgJ1vjrLDoh75dJzogJygyNTExfDMyMTUxMXwzMjExNTExKTM0JywKICAgICdb6IiD6IiEXSc6ICczMjE1MTEoMTV8MzUpNDQ0NCcsCiAgICAnW+iJryjpg47pg54pXSc6ICc0NTExNSg0fDM0KScsCiAgICAnW+ihm+ihnl0nOiAnMzMyNTIxMjUxKDE1MnwxMjUyKTExMicsCiAgICAnW+ihruiinl0nOiAnNDEoMzQ1NHwzNDI1MXwzNTI1MSkzNTM0JywKICAgICdb6LGh8KewvF0nOiAnMzUyNSgxfDIxfDM0KTM1MzMzNCcsCiAgICAnW+mDt+mEiemElV0nOiAnNTUzKDUxMTU0fDQ1MTE1NHwzMjUxMTExfDMyNTExMTV8MzI1MTEzNXwzMjUxMTUzKSg1Mnw1NTIpJywKICAgICdb6Z2R6Z2SXSc6ICcxMTIxKDI1MTF8MjUyMXwzNTExKScsCiAgICAnW/Cpmb/po6BdJzogJyg1MTE1NHw1MTEyMTEpJywKICAgICdb6bq86bq9XSc6IHInNDEzKDEyMzR8MTIzNSlcLigzNTR8NTU0KScsCiAgICAnW+m7g+m7hF0nOiAnMTIyKHwxKTEyNTEyMTM0JywKICAgICdb5Y+J45WaXSc6ICc1NDQofDQpJywKICAgICdb5pi38KWBlV0nOiAnKDI1MTF8MjUzNDEpMjUyMjEnLAogICAgJ1vwpqOd8KajnijnhZXnhpkpXSc6ICcoMTI1MTI1fDE1MTIyNXwxMjI1MTI1KScsCiAgICAnW+iHvPCmpZFdJzogJzMyMSh8MSk1MTEnLAogICAgJ1vos6Pwp7agXSc6ICcxMjEoMjUyMjF8MjUzNTEpMjUxMTEzNCcsCiAgICAnW+mamfCou7ZdJzogJyg1Mnw1NTIpMjM0KHwzKTI1MTEyMzQnLAogICAgJ1vjlL7lt7NdJzogJyg1NXw1MTUpJywKICAgICdb46GtXSc6ICc1NTQ1NTQoMXw1KTU1NDU1NDUnLAogICAgJ1vkjYMo6Kyg6KyhKV0nOiAnKDM0NDN8MzU0MXwzNTQ0KTMxMTI1MicsCiAgICAnW+S6n10nOiAnKDE1fDUyfDEyNSkyNTE1NDEnLAogICAgJ1vlh71dJzogJygxNXw1Mik0MTM0NTInLAogICAgJ1vlko5dJzogJzM1NCgyNHwzNCkyNTEnLAogICAgJ1vlnpRdJzogJygxMjUyMjF8MTI1MzUxKTEyMScsCiAgICAnW+eUvvCxsK0o6I+R6JGYKV0nOiAnNTU1KHwxKTI1MTIxJywKICAgICdb55u0KOWApOWAvCldJzogJzEoMnwzKTI1MTExKDF8NSknLAogICAgJ1vogIVdJzogJzEyMTMyNTExKHw0KScsCiAgICAnW+iBml0nOiAnMTIyMTExNTQzMigzMzM0fDM0MzQpJywKICAgICdb6Ie0XSc6ICcxNTQxMjEoMzU0fDMxMzQpJywKICAgICdb6IiIXSc6ICcoMjUxMjUxMzIxMXwzMjExMjUxMjUxKTUxMScsCiAgICAnW+iJsijntbbntZUpXSc6ICcoMzV8NTMpNTIxNScsCiAgICAnW+iyoF0nOiAnKDM1fDUzKTI1MTExMzQnLAogICAgJ1vos4FdJzogJzEyKDEyMnwxMjEyKTI1MTExMzQnLAogICAgJ1vwoKuTXSc6ICcofDQpMTU0JywKfQoKCmRlZiB0b19yYW5rKGNvZGVwb2ludCk6CiAgICBpZiAweDMwMDAgPD0gY29kZXBvaW50IDw9IDB4MzAzRjogICMgQ0pLIFN5bWJvbHMgYW5kIFB1bmN0dWF0aW9uCiAgICAgICAgc2VjdGlvbiA9IDAKICAgIGVsaWYgMHg0RTAwIDw9IGNvZGVwb2ludCA8PSAweDlGRkY6ICAjIENKSyBVbmlmaWVkIElkZW9ncmFwaHMKICAgICAgICBzZWN0aW9uID0gMQogICAgZWxpZiAweDM0MDAgPD0gY29kZXBvaW50IDw9IDB4NERCRjogICMgQ0pLIFVuaWZpZWQgSWRlb2dyYXBocyBFeHRlbnNpb24gQQogICAgICAgIHNlY3Rpb24gPSAyCiAgICBlbGlmIDB4MjAwMDAgPD0gY29kZXBvaW50IDw9IDB4MkE2REY6ICAjIENKSyBVbmlmaWVkIElkZW9ncmFwaHMgRXh0ZW5zaW9uIEIKICAgICAgICBzZWN0aW9uID0gMwogICAgZWxzZToKICAgICAgICBzZWN0aW9uID0gNAoKICAgIHJldHVybiBzZWN0aW9uLCBjb2RlcG9pbnQKCgpkZWYgc3VwcGxhbnRfY2FwdHVyZV9ncm91cChtYXRjaCwgYWx0ZXJuYXRpdmVzX3N0b3JhZ2UpOgogICAgIiIiCiAgICBSZXBsYWNlIGEgY2FwdHVyZSBncm91cCBtYXRjaCBvYmplY3Qgd2l0aCBhIGJhY2sgcmVmZXJlbmNlLCBhbmQgc3RvcmUgdGhlIGFsdGVybmF0aXZlcy4KICAgICIiIgogICAgYWx0ZXJuYXRpdmVzID0gc2V0KG1hdGNoLmdyb3VwKCdhbHRlcm5hdGl2ZXMnKS5zcGxpdCgnfCcpKQogICAgYWx0ZXJuYXRpdmVzX3N0b3JhZ2UuYXBwZW5kKGFsdGVybmF0aXZlcykKICAgIGdyb3VwX251bWJlciA9IGxlbihhbHRlcm5hdGl2ZXNfc3RvcmFnZSkKICAgIGJhY2tfcmVmZXJlbmNlID0gZnInXHtncm91cF9udW1iZXJ9JwoKICAgIHJldHVybiBiYWNrX3JlZmVyZW5jZQoKCmRlZiByZWFsaXNlX2JhY2tfcmVmZXJlbmNlKG1hdGNoLCBhbHRlcm5hdGl2ZXNfY29tYm8pOgogICAgIiIiCiAgICBSZXBsYWNlIGEgYmFjayByZWZlcmVuY2Ugd2l0aCB0aGUgYXBwcm9wcmlhdGUgYWx0ZXJuYXRpdmUuCiAgICAiIiIKICAgIGdyb3VwX251bWJlciA9IGludChtYXRjaC5ncm91cCgnZ3JvdXBfbnVtYmVyJykpCiAgICBhbHRlcm5hdGl2ZSA9IGFsdGVybmF0aXZlc19jb21ib1tncm91cF9udW1iZXIgLSAxXQoKICAgIHJldHVybiBhbHRlcm5hdGl2ZQoKCmRlZiB0b19zZXF1ZW5jZV9zZXQoc2VxdWVuY2VfcmVnZXgpOgogICAgIiIiCiAgICBDb252ZXJ0IHN0cm9rZSBzZXF1ZW5jZSByZWdleCB0byBhIHN0cm9rZSBzZXF1ZW5jZSBzZXQuCiAgICBBc3N1bWVzIGNhcHR1cmUgZ3JvdXBzOgogICAgICAgIDEuIG51bWJlciBhdCBtb3N0IDksCiAgICAgICAgMi4gYXJlIG5vdCBuZXN0ZWQsCiAgICAgICAgMy4gY29udGFpbiBwdXJlIGRpZ2l0cyBzZXBhcmF0ZWQgYnkgcGlwZXMsIGFuZAogICAgICAgIDQuIGFyZSByZWZlcnJlZCB0byBieSBhIGJhY2tzbGFzaCBmb2xsb3dlZCBieSBhIHBvc2l0aXZlIGRlY2ltYWwgZGlnaXQuCiAgICAiIiIKICAgIGFsdGVybmF0aXZlc19zdG9yYWdlID0gW10KICAgIGJhY2tfcmVmZXJlbmNlX3RlbXBsYXRlID0gcmUuc3ViKAogICAgICAgIHInXCggKD9QPGFsdGVybmF0aXZlcz5bMS01fF0qKSBcKScsCiAgICAgICAgbGFtYmRhIG1hdGNoOiBzdXBwbGFudF9jYXB0dXJlX2dyb3VwKG1hdGNoLCBhbHRlcm5hdGl2ZXNfc3RvcmFnZSksCiAgICAgICAgc2VxdWVuY2VfcmVnZXgsCiAgICAgICAgZmxhZ3M9cmUuVkVSQk9TRSwKICAgICkKCiAgICBzZXF1ZW5jZXMgPSB7CiAgICAgICAgcmUuc3ViKAogICAgICAgICAgICByJ1xcICg/UDxncm91cF9udW1iZXI+WzEtOV0pJywKICAgICAgICAgICAgbGFtYmRhIG1hdGNoOiByZWFsaXNlX2JhY2tfcmVmZXJlbmNlKG1hdGNoLCBhbHRlcm5hdGl2ZXNfY29tYm8pLAogICAgICAgICAgICBiYWNrX3JlZmVyZW5jZV90ZW1wbGF0ZSwKICAgICAgICAgICAgZmxhZ3M9cmUuVkVSQk9TRSwKICAgICAgICApCiAgICAgICAgZm9yIGFsdGVybmF0aXZlc19jb21ibyBpbiBpdGVydG9vbHMucHJvZHVjdCgqYWx0ZXJuYXRpdmVzX3N0b3JhZ2UpCiAgICB9CgogICAgcmV0dXJuIHNlcXVlbmNlcwoKCmRlZiBtYWluKCk6CiAgICBsYXRlc3RfcmFuayA9IE5vbmUKICAgIGxhdGVzdF9jb2RlcG9pbnRfaGV4ID0gTm9uZQogICAgbGF0ZXN0X2NoYXJhY3RlciA9IE5vbmUKCiAgICB1bmxpa2VseV9jaGFyYWN0ZXJzID0gc2V0KCkKICAgIHRyYWRpdGlvbmFsX2NoYXJhY3RlcnMgPSBzZXQoKQogICAgc2ltcGxpZmllZF9jaGFyYWN0ZXJzID0gc2V0KCkKICAgIGR1YWxfY2hhcmFjdGVycyA9IHNldCgpCgogICAgY2hhcmFjdGVyc19mcm9tX3NlcXVlbmNlID0gZGVmYXVsdGRpY3QobGlzdCkKICAgIGNoYXJhY3RlcnNfZnJvbV92aWdpbGFuY2UgPSBkZWZhdWx0ZGljdChsaXN0KQoKICAgIHdpdGggb3BlbihDT0RFUE9JTlRfQ0hBUkFDVEVSX1NFUVVFTkNFX0ZJTEVfTkFNRSwgJ3InLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBjb2RlcG9pbnRfY2hhcmFjdGVyX3NlcXVlbmNlX2ZpbGU6CiAgICAgICAgbGluZXMgPSBjb2RlcG9pbnRfY2hhcmFjdGVyX3NlcXVlbmNlX2ZpbGUucmVhZGxpbmVzKCkKCiAgICBmb3IgbGluZSBpbiBsaW5lczoKICAgICAgICBjb21wbGlhbnRfbWF0Y2ggPSByZS5mdWxsbWF0Y2goCiAgICAgICAgICAgIHInJycKICAgICAgICAgICAgICAgIFVbK10gKD9QPGNvZGVwb2ludF9oZXg+IFswLTlBLUZdezQsNX0gKSAoP1A8Zm9udF9zdXBwb3J0PiAhPykKICAgICAgICAgICAgICAgICAgICBcdAogICAgICAgICAgICAgICAgKD9QPGNoYXJhY3Rlcj4gXFMgKSAoP1A8Y2hhcmFjdGVyX3R5cGU+IFtcXipdPyApCiAgICAgICAgICAgICAgICAgICAgXHQKICAgICAgICAgICAgICAgICg/UDxzZXF1ZW5jZV9yZWdleD4gWzEtNXwoKVxcXSsgKQogICAgICAgICAgICAgICAgICAgIFxuCiAgICAgICAgICAgICcnJywKICAgICAgICAgICAgbGluZSwKICAgICAgICAgICAgZmxhZ3M9cmUuVkVSQk9TRSwKICAgICAgICApCgogICAgICAgIGlmIG5vdCBjb21wbGlhbnRfbWF0Y2g6CiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIGNvZGVwb2ludF9oZXggPSBjb21wbGlhbnRfbWF0Y2guZ3JvdXAoJ2NvZGVwb2ludF9oZXgnKQogICAgICAgIGZvbnRfc3VwcG9ydCA9IGNvbXBsaWFudF9tYXRjaC5ncm91cCgnZm9udF9zdXBwb3J0JykKICAgICAgICBjaGFyYWN0ZXIgPSBjb21wbGlhbnRfbWF0Y2guZ3JvdXAoJ2NoYXJhY3RlcicpCiAgICAgICAgY2hhcmFjdGVyX3R5cGUgPSBjb21wbGlhbnRfbWF0Y2guZ3JvdXAoJ2NoYXJhY3Rlcl90eXBlJykKICAgICAgICBzZXF1ZW5jZV9yZWdleCA9IGNvbXBsaWFudF9tYXRjaC5ncm91cCgnc2VxdWVuY2VfcmVnZXgnKQoKICAgICAgICBjb2RlcG9pbnQgPSBvcmQoY2hhcmFjdGVyKQogICAgICAgIHJhbmsgPSB0b19yYW5rKGNvZGVwb2ludCkKCiAgICAgICAgaWYgaW50KGNvZGVwb2ludF9oZXgsIDE2KSAhPSBjb2RlcG9pbnQ6CiAgICAgICAgICAgIHByaW50KAogICAgICAgICAgICAgICAgZidFcnJvciBpbiBge0NPREVQT0lOVF9DSEFSQUNURVJfU0VRVUVOQ0VfRklMRV9OQU1FfWA6IFUre2NvZGVwb2ludF9oZXh9IGlzIG5vdCB7Y2hhcmFjdGVyfScsCiAgICAgICAgICAgICAgICBmaWxlPXN5cy5zdGRlcnIsCiAgICAgICAgICAgICkKICAgICAgICAgICAgc3lzLmV4aXQoMSkKCiAgICAgICAgaWYgbGF0ZXN0X3JhbmsgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGlmIHJhbmsgPCBsYXRlc3RfcmFuazoKICAgICAgICAgICAgICAgIHByaW50KAogICAgICAgICAgICAgICAgICAgIGYnRXJyb3IgaW4gYHtDT0RFUE9JTlRfQ0hBUkFDVEVSX1NFUVVFTkNFX0ZJTEVfTkFNRX1gOiAnCiAgICAgICAgICAgICAgICAgICAgZidVK3tjb2RlcG9pbnRfaGV4fSB7Y2hhcmFjdGVyfSBzaG91bGQgYXBwZWFyIGJlZm9yZSBVK3tsYXRlc3RfY29kZXBvaW50X2hleH0ge2xhdGVzdF9jaGFyYWN0ZXJ9JywKICAgICAgICAgICAgICAgICAgICBmaWxlPXN5cy5zdGRlcnIsCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBzeXMuZXhpdCgxKQoKICAgICAgICAgICAgZWxpZiByYW5rID09IGxhdGVzdF9yYW5rOgogICAgICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICAgICAgICAgZidFcnJvciBpbiBge0NPREVQT0lOVF9DSEFSQUNURVJfU0VRVUVOQ0VfRklMRV9OQU1FfWA6IFUre2NvZGVwb2ludF9oZXh9IHtjaGFyYWN0ZXJ9IGlzIGR1cGxpY2F0ZWQnLAogICAgICAgICAgICAgICAgICAgIGZpbGU9c3lzLnN0ZGVyciwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHN5cy5leGl0KDEpCgogICAgICAgIGxhdGVzdF9yYW5rID0gcmFuawogICAgICAgIGxhdGVzdF9jb2RlcG9pbnRfaGV4ID0gY29kZXBvaW50X2hleAogICAgICAgIGxhdGVzdF9jaGFyYWN0ZXIgPSBjaGFyYWN0ZXIKCiAgICAgICAgaWYgZm9udF9zdXBwb3J0ID09ICchJzoKICAgICAgICAgICAgdW5saWtlbHlfY2hhcmFjdGVycy5hZGQoY2hhcmFjdGVyKQoKICAgICAgICBpZiBjaGFyYWN0ZXJfdHlwZSA9PSAnXic6CiAgICAgICAgICAgIHRyYWRpdGlvbmFsX2NoYXJhY3RlcnMuYWRkKGNoYXJhY3RlcikKICAgICAgICBlbGlmIGNoYXJhY3Rlcl90eXBlID09ICcqJzoKICAgICAgICAgICAgc2ltcGxpZmllZF9jaGFyYWN0ZXJzLmFkZChjaGFyYWN0ZXIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZHVhbF9jaGFyYWN0ZXJzLmFkZChjaGFyYWN0ZXIpCgogICAgICAgIGZvciBzZXF1ZW5jZSBpbiB0b19zZXF1ZW5jZV9zZXQoc2VxdWVuY2VfcmVnZXgpOgogICAgICAgICAgICBjaGFyYWN0ZXJzX2Zyb21fc2VxdWVuY2Vbc2VxdWVuY2VdLmFwcGVuZChjaGFyYWN0ZXIpCgogICAgICAgIGZvciB2aWdpbGFuY2UsIHBhdHRlcm4gaW4gUEFUVEVSTl9GUk9NX1ZJR0lMQU5DRS5pdGVtcygpOgogICAgICAgICAgICBpZiAoCiAgICAgICAgICAgICAgICBwYXR0ZXJuIGluIHNlcXVlbmNlX3JlZ2V4IG9yICgKICAgICAgICAgICAgICAgICAgICAnXFwnIGluIHBhdHRlcm4KICAgICAgICAgICAgICAgICAgICBhbmQgcmUuc2VhcmNoKHJlLmVzY2FwZShwYXR0ZXJuKS5yZXBsYWNlKHInXC4nLCAnLicpLCBzZXF1ZW5jZV9yZWdleCkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKToKICAgICAgICAgICAgICAgIGNoYXJhY3RlcnNfZnJvbV92aWdpbGFuY2VbdmlnaWxhbmNlXS5hcHBlbmQoY2hhcmFjdGVyKQoKICAgIGNoYXJhY3Rlcl9jb3VudCA9IGxlbih7KnRyYWRpdGlvbmFsX2NoYXJhY3RlcnMsICpzaW1wbGlmaWVkX2NoYXJhY3RlcnMsICpkdWFsX2NoYXJhY3RlcnN9KQogICAgcHJpbnQoZidGaW5pc2hlZCBwYXJzaW5nIGB7Q09ERVBPSU5UX0NIQVJBQ1RFUl9TRVFVRU5DRV9GSUxFX05BTUV9YCAoe2NoYXJhY3Rlcl9jb3VudH0gY2hhcmFjdGVycykuJykKCiAgICBzZXF1ZW5jZV9jb3VudCA9IGxlbihjaGFyYWN0ZXJzX2Zyb21fc2VxdWVuY2UpCiAgICBzZXF1ZW5jZV9jaGFyYWN0ZXJzX2xpbmVzID0gJ1xuJy5qb2luKAogICAgICAgIGYne3NlcXVlbmNlfVx0eyIiLmpvaW4oY2hhcmFjdGVyc19mcm9tX3NlcXVlbmNlW3NlcXVlbmNlXSl9JwogICAgICAgIGZvciBzZXF1ZW5jZSBpbiBzb3J0ZWQoY2hhcmFjdGVyc19mcm9tX3NlcXVlbmNlLmtleXMoKSkKICAgICkKICAgIHdpdGggb3BlbihTRVFVRU5DRV9DSEFSQUNURVJTX0ZJTEVfTkFNRSwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBzZXF1ZW5jZV9jaGFyYWN0ZXJzX2ZpbGU6CiAgICAgICAgc2VxdWVuY2VfY2hhcmFjdGVyc19maWxlLndyaXRlKFNFUVVFTkNFX0NIQVJBQ1RFUlNfVEVNUExBVEUuc3Vic3RpdHV0ZShib2R5PXNlcXVlbmNlX2NoYXJhY3RlcnNfbGluZXMpKQogICAgcHJpbnQoZidGaW5pc2hlZCBnZW5lcmF0aW5nIGB7U0VRVUVOQ0VfQ0hBUkFDVEVSU19GSUxFX05BTUV9YCAoe3NlcXVlbmNlX2NvdW50fSBzdHJva2Ugc2VxdWVuY2VzKS4nKQoKICAgIHZpZ2lsYW5jZV9jb3VudCA9IGxlbihjaGFyYWN0ZXJzX2Zyb21fdmlnaWxhbmNlKQogICAgdmlnaWxhbmNlX2NoYXJhY3RlcnNfbGluZXMgPSAnXG4nLmpvaW4oCiAgICAgICAgZid7Y2hhcmFjdGVyfVx0eyIiLmpvaW4oY2hhcmFjdGVyc19mcm9tX3ZpZ2lsYW5jZVtjaGFyYWN0ZXJdKX0nCiAgICAgICAgZm9yIGNoYXJhY3RlciBpbiBzb3J0ZWQoY2hhcmFjdGVyc19mcm9tX3ZpZ2lsYW5jZS5rZXlzKCkpCiAgICApCiAgICB3aXRoIG9wZW4oVklHSUxBTkNFX0NIQVJBQ1RFUlNfRklMRV9OQU1FLCAndycsIGVuY29kaW5nPSd1dGYtOCcpIGFzIHZpZ2lsYW5jZV9jaGFyYWN0ZXJzX2ZpbGU6CiAgICAgICAgdmlnaWxhbmNlX2NoYXJhY3RlcnNfZmlsZS53cml0ZShWSUdJTEFOQ0VfQ0hBUkFDVEVSU19URU1QTEFURS5zdWJzdGl0dXRlKGJvZHk9dmlnaWxhbmNlX2NoYXJhY3RlcnNfbGluZXMpKQogICAgcHJpbnQoZidGaW5pc2hlZCBnZW5lcmF0aW5nIGB7VklHSUxBTkNFX0NIQVJBQ1RFUlNfRklMRV9OQU1FfWAgKHt2aWdpbGFuY2VfY291bnR9IHZpZ2lsYW5jZXMpLiknKQoKICAgIHVubGlrZWx5X2NoYXJhY3Rlcl9jb3VudCA9IGxlbih1bmxpa2VseV9jaGFyYWN0ZXJzKQogICAgdW5saWtlbHlfY2hhcmFjdGVyX2xpbmVzID0gJ1xuJy5qb2luKHNvcnRlZCh1bmxpa2VseV9jaGFyYWN0ZXJzKSkKICAgIHdpdGggb3BlbihDSEFSQUNURVJTX1VOTElLRUxZX0ZJTEVfTkFNRSwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBjaGFyYWN0ZXJzX3VubGlrZWx5X2ZpbGU6CiAgICAgICAgY2hhcmFjdGVyc191bmxpa2VseV9maWxlLndyaXRlKENIQVJBQ1RFUlNfVU5MSUtFTFlfVEVNUExBVEUuc3Vic3RpdHV0ZShib2R5PXVubGlrZWx5X2NoYXJhY3Rlcl9saW5lcykpCiAgICBwcmludChmJ0ZpbmlzaGVkIGdlbmVyYXRpbmcgYHtDSEFSQUNURVJTX1VOTElLRUxZX0ZJTEVfTkFNRX1gICh7dW5saWtlbHlfY2hhcmFjdGVyX2NvdW50fSBjaGFyYWN0ZXJzKS4nKQoKICAgIHRyYWRpdGlvbmFsX2NoYXJhY3Rlcl9jb3VudCA9IGxlbih0cmFkaXRpb25hbF9jaGFyYWN0ZXJzKQogICAgdHJhZGl0aW9uYWxfY2hhcmFjdGVyX2xpbmVzID0gJ1xuJy5qb2luKHNvcnRlZCh0cmFkaXRpb25hbF9jaGFyYWN0ZXJzKSkKICAgIHdpdGggb3BlbihDSEFSQUNURVJTX1RSQURJVElPTkFMX0ZJTEVfTkFNRSwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBjaGFyYWN0ZXJzX3RyYWRpdGlvbmFsX2ZpbGU6CiAgICAgICAgY2hhcmFjdGVyc190cmFkaXRpb25hbF9maWxlLndyaXRlKENIQVJBQ1RFUlNfVFJBRElUSU9OQUxfVEVNUExBVEUuc3Vic3RpdHV0ZShib2R5PXRyYWRpdGlvbmFsX2NoYXJhY3Rlcl9saW5lcykpCiAgICBwcmludChmJ0ZpbmlzaGVkIGdlbmVyYXRpbmcgYHtDSEFSQUNURVJTX1RSQURJVElPTkFMX0ZJTEVfTkFNRX1gICh7dHJhZGl0aW9uYWxfY2hhcmFjdGVyX2NvdW50fSBjaGFyYWN0ZXJzKS4nKQoKICAgIHNpbXBsaWZpZWRfY2hhcmFjdGVyX2NvdW50ID0gbGVuKHNpbXBsaWZpZWRfY2hhcmFjdGVycykKICAgIHNpbXBsaWZpZWRfY2hhcmFjdGVyX2xpbmVzID0gJ1xuJy5qb2luKHNvcnRlZChzaW1wbGlmaWVkX2NoYXJhY3RlcnMpKQogICAgd2l0aCBvcGVuKENIQVJBQ1RFUlNfU0lNUExJRklFRF9GSUxFX05BTUUsICd3JywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgY2hhcmFjdGVyc19zaW1wbGlmaWVkX2ZpbGU6CiAgICAgICAgY2hhcmFjdGVyc19zaW1wbGlmaWVkX2ZpbGUud3JpdGUoQ0hBUkFDVEVSU19TSU1QTElGSUVEX1RFTVBMQVRFLnN1YnN0aXR1dGUoYm9keT1zaW1wbGlmaWVkX2NoYXJhY3Rlcl9saW5lcykpCiAgICBwcmludChmJ0ZpbmlzaGVkIGdlbmVyYXRpbmcgYHtDSEFSQUNURVJTX1NJTVBMSUZJRURfRklMRV9OQU1FfWAgKHtzaW1wbGlmaWVkX2NoYXJhY3Rlcl9jb3VudH0gY2hhcmFjdGVycykuJykKCiAgICBzZXF1ZW5jZXNfcGVyX2NoYXJhY3RlciA9IHNlcXVlbmNlX2NvdW50IC8gY2hhcmFjdGVyX2NvdW50CiAgICBwcmludChmJ09uIGF2ZXJhZ2UsIHRoZXJlIGFyZSB7c2VxdWVuY2VzX3Blcl9jaGFyYWN0ZXI6LjRmfSBzdHJva2Ugc2VxdWVuY2VzIHBlciBjaGFyYWN0ZXIuJykKCiAgICB0cmFkaXRpb25hbF9mcmFjdGlvbiA9IHRyYWRpdGlvbmFsX2NoYXJhY3Rlcl9jb3VudCAvIGNoYXJhY3Rlcl9jb3VudAogICAgcHJpbnQoZid7dHJhZGl0aW9uYWxfZnJhY3Rpb246Ni4yJX0gb2YgY2hhcmFjdGVycyBhcmUgdHJhZGl0aW9uYWwtb25seS4nKQoKICAgIHNpbXBsaWZpZWRfZnJhY3Rpb24gPSBzaW1wbGlmaWVkX2NoYXJhY3Rlcl9jb3VudCAvIGNoYXJhY3Rlcl9jb3VudAogICAgcHJpbnQoZid7c2ltcGxpZmllZF9mcmFjdGlvbjo2LjIlfSBvZiBjaGFyYWN0ZXJzIGFyZSBzaW1wbGlmaWVkLW9ubHkuJykKCiAgICBkdWFsX2ZyYWN0aW9uID0gMSAtIHRyYWRpdGlvbmFsX2ZyYWN0aW9uIC0gc2ltcGxpZmllZF9mcmFjdGlvbgogICAgcHJpbnQoZid7ZHVhbF9mcmFjdGlvbjo2LjIlfSBvZiBjaGFyYWN0ZXJzIGFyZSBkdWFsLicpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+
+"""
+# generate.py
+
+Parse `codepoint-character-sequence.txt`, generating `sequence-characters.txt` etc.
+
+Licensed under "MIT No Attribution" (MIT-0),
+see <https://spdx.org/licenses/MIT-0>.
+"""
+
+
+import itertools
+import re
+import sys
+from collections import defaultdict
+from string import Template
+
+
+CODEPOINT_CHARACTER_SEQUENCE_FILE_NAME = 'codepoint-character-sequence.txt'
+SEQUENCE_CHARACTERS_FILE_NAME = 'sequence-characters.txt'
+VIGILANCE_CHARACTERS_FILE_NAME = 'vigilance-characters.txt'
+CHARACTERS_UNLIKELY_FILE_NAME = 'characters-unlikely.txt'
+CHARACTERS_TRADITIONAL_FILE_NAME = 'characters-traditional.txt'
+CHARACTERS_SIMPLIFIED_FILE_NAME = 'characters-simplified.txt'
+
+STROKE_DATA_NOTICE = '''\
+# Part of 'Conway Stroke Data',
+# see <https://github.com/stroke-input/stroke-input-data>.\
+'''
+
+CREATIVE_COMMONS_NOTICE = '''\
+# Copyright 2021--2026 Conway.
+# Licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0),
+# see <https://creativecommons.org/licenses/by/4.0/>.\
+'''
+
+AUTOMATIC_GENERATION_NOTICE = f'''\
+# This file is automatically generated by running `generate.py`
+# in <https://github.com/stroke-input/stroke-input-data>.
+# It should NOT be edited manually.
+# Manual edits should be made to `{CODEPOINT_CHARACTER_SEQUENCE_FILE_NAME}`.\
+'''
+
+PUBLIC_DOMAIN_NOTICE = f'''\
+# Released into the public domain,
+# see <https://creativecommons.org/publicdomain/zero/1.0/>.\
+'''
+
+SEQUENCE_CHARACTERS_TEMPLATE = Template(
+    f'# # {SEQUENCE_CHARACTERS_FILE_NAME}\n\n'
+    f'{STROKE_DATA_NOTICE}\n\n'
+    f'{CREATIVE_COMMONS_NOTICE}\n\n'
+    f'# Contains tab-separated (stroke sequence, characters) pairs.\n\n'
+    f'{AUTOMATIC_GENERATION_NOTICE}\n\n'
+    f'$body\n'
+)
+
+VIGILANCE_CHARACTERS_TEMPLATE = Template(
+    f'# # {VIGILANCE_CHARACTERS_FILE_NAME}\n\n'
+    f'{STROKE_DATA_NOTICE}\n\n'
+    f'{PUBLIC_DOMAIN_NOTICE}\n\n'
+    f'# Contains selected vigilance data.\n\n'
+    f'$body\n'
+)
+
+CHARACTERS_UNLIKELY_TEMPLATE = Template(
+    f'# # {CHARACTERS_UNLIKELY_FILE_NAME}\n\n'
+    f'{STROKE_DATA_NOTICE}\n\n'
+    f'{PUBLIC_DOMAIN_NOTICE}\n\n'
+    f'# Contains characters unlikely to have font support on Android 7.0.\n\n'
+    f'{AUTOMATIC_GENERATION_NOTICE}\n\n'
+    f'$body\n'
+)
+
+CHARACTERS_TRADITIONAL_TEMPLATE = Template(
+    f'# # {CHARACTERS_TRADITIONAL_FILE_NAME}\n\n'
+    f'{STROKE_DATA_NOTICE}\n\n'
+    f'{PUBLIC_DOMAIN_NOTICE}\n\n'
+    f'# Contains traditional characters.\n\n'
+    f'{AUTOMATIC_GENERATION_NOTICE}\n\n'
+    f'$body\n'
+)
+
+CHARACTERS_SIMPLIFIED_TEMPLATE = Template(
+    f'# # {CHARACTERS_SIMPLIFIED_FILE_NAME}\n\n'
+    f'{STROKE_DATA_NOTICE}\n\n'
+    f'{PUBLIC_DOMAIN_NOTICE}\n\n'
+    f'# Contains simplified characters.\n\n'
+    f'{AUTOMATIC_GENERATION_NOTICE}\n\n'
+    f'$body\n'
+)
+
+PATTERN_FROM_VIGILANCE = {
+    '[丟丢]': '(1|3)12154',
+    '[丯丰]': '(1112|3112|3332)',
+    '[兌兑]': '(34|43)25135',
+    '[兖兗]': '4134(54|251)35',
+    '[俞兪]': '341(2|3)5(1122|1155|4455)',
+    '[兹茲]': '(431|1212|2112)554554',
+    '[冊册]': '(25122|25221|25251|35351)',
+    '[別别]': '251(35|53)22',
+    '[勻匀]': '35(11|41)',
+    '[卉𠦄]': '12(132|1312)',
+    '[即卽]': '(51154|3251111|3251115|3251135|3251153)52',
+    '[义叉]': '(344|434|544)',
+    '[吿告]': '3(112|121)251',
+    '[囪囱]': '325(334|354)1',
+    '[奥奧]': '325(|3)431234134',
+    '[尓尔]': '3(1|5)234',
+    '[尙尚]': '(234|243)25251',
+    '[屏屛]': '513(431132|31133112)',
+    '[开幵]': '(1132|113112)',
+    '[并幷]': '(431132|31133112)',
+    '[強强]': '515(54|251)251214',
+    '[彔录]': '(511|551)',
+    '[彥彦]': '41(34|43)13333',
+    '[戯戱]': '21531522(43|521)1(1534|1543)',
+    '[敎教]': '(1213|3413)5213134',
+    '[夐敻]': '35253425111(354|3134)',
+    '[既旣]': '(51154|3251111|3251115|3251135|3251153)1535',
+    '[晉晋]': '1(2243|5454)12511',
+    '[朮术]': '(1234|1235)4',
+    '[朵朶]': '(35|53)1234',
+    '[林𣏟]': r'(1234|1235)\.',
+    '[止]': '(215|2121)',
+    '[正]': '(1215|12121)',
+    '[毀毁]': '3215111213554',
+    '[毋母]': '55(13|31|414|441)',
+    '[沒没]': '4413554',
+    '[為爲]': '(4|3344|3443)35554444',
+    '[争爭]': '(35|3344|3443)5112',
+    '[產産]': '41(34|43)1331121',
+    '[眞真]': '(12251111|13251111|15251115|35251115|53251115)34',
+    '[示礻]': '(4524|11234)',
+    '[禿秃]': '3123435',
+    '[粤粵]': '325(|3)431234115',
+    '[羡羨]': '431121(11|41|441)3534',
+    '[卧臥]': '125125(24|34)',
+    '[㬰臾]': '(2511|321511|3211511)34',
+    '[舃舄]': '321511(15|35)4444',
+    '[良(郎郞)]': '45115(4|34)',
+    '[衛衞]': '332521251(152|1252)112',
+    '[衮袞]': '41(3454|34251|35251)3534',
+    '[象𧰼]': '3525(1|21|34)353334',
+    '[郷鄉鄕]': '553(51154|451154|3251111|3251115|3251135|3251153)(52|552)',
+    '[靑青]': '1121(2511|2521|3511)',
+    '[𩙿飠]': '(51154|511211)',
+    '[麼麽]': r'413(1234|1235)\.(354|554)',
+    '[黃黄]': '122(|1)12512134',
+    '[叉㕚]': '544(|4)',
+    '[昷𥁕]': '(2511|25341)25221',
+    '[𦣝𦣞(煕熙)]': '(125125|151225|1225125)',
+    '[臼𦥑]': '321(|1)511',
+    '[賣𧶠]': '121(25221|25351)2511134',
+    '[隙𨻶]': '(52|552)234(|3)2511234',
+    '[㔾巳]': '(55|515)',
+    '[㡭]': '554554(1|5)5545545',
+    '[䍃(謠謡)]': '(3443|3541|3544)311252',
+    '[亟]': '(15|52|125)251541',
+    '[函]': '(15|52)413452',
+    '[咎]': '354(24|34)251',
+    '[垔]': '(125221|125351)121',
+    '[甾𱰭(菑葘)]': '555(|1)25121',
+    '[直(値值)]': '1(2|3)25111(1|5)',
+    '[者]': '12132511(|4)',
+    '[聚]': '1221115432(3334|3434)',
+    '[致]': '154121(354|3134)',
+    '[興]': '(2512513211|3211251251)511',
+    '[色(絶絕)]': '(35|53)5215',
+    '[負]': '(35|53)2511134',
+    '[賁]': '12(122|1212)2511134',
+    '[𠫓]': '(|4)154',
+}
+
+
+def to_rank(codepoint):
+    if 0x3000 <= codepoint <= 0x303F:  # CJK Symbols and Punctuation
+        section = 0
+    elif 0x4E00 <= codepoint <= 0x9FFF:  # CJK Unified Ideographs
+        section = 1
+    elif 0x3400 <= codepoint <= 0x4DBF:  # CJK Unified Ideographs Extension A
+        section = 2
+    elif 0x20000 <= codepoint <= 0x2A6DF:  # CJK Unified Ideographs Extension B
+        section = 3
+    else:
+        section = 4
+
+    return section, codepoint
+
+
+def supplant_capture_group(match, alternatives_storage):
+    """
+    Replace a capture group match object with a back reference, and store the alternatives.
+    """
+    alternatives = set(match.group('alternatives').split('|'))
+    alternatives_storage.append(alternatives)
+    group_number = len(alternatives_storage)
+    back_reference = fr'\{group_number}'
+
+    return back_reference
+
+
+def realise_back_reference(match, alternatives_combo):
+    """
+    Replace a back reference with the appropriate alternative.
+    """
+    group_number = int(match.group('group_number'))
+    alternative = alternatives_combo[group_number - 1]
+
+    return alternative
+
+
+def to_sequence_set(sequence_regex):
+    """
+    Convert stroke sequence regex to a stroke sequence set.
+    Assumes capture groups:
+        1. number at most 9,
+        2. are not nested,
+        3. contain pure digits separated by pipes, and
+        4. are referred to by a backslash followed by a positive decimal digit.
+    """
+    alternatives_storage = []
+    back_reference_template = re.sub(
+        r'\( (?P<alternatives>[1-5|]*) \)',
+        lambda match: supplant_capture_group(match, alternatives_storage),
+        sequence_regex,
+        flags=re.VERBOSE,
+    )
+
+    sequences = {
+        re.sub(
+            r'\\ (?P<group_number>[1-9])',
+            lambda match: realise_back_reference(match, alternatives_combo),
+            back_reference_template,
+            flags=re.VERBOSE,
+        )
+        for alternatives_combo in itertools.product(*alternatives_storage)
+    }
+
+    return sequences
+
+
+def main():
+    latest_rank = None
+    latest_codepoint_hex = None
+    latest_character = None
+
+    unlikely_characters = set()
+    traditional_characters = set()
+    simplified_characters = set()
+    dual_characters = set()
+
+    characters_from_sequence = defaultdict(list)
+    characters_from_vigilance = defaultdict(list)
+
+    with open(CODEPOINT_CHARACTER_SEQUENCE_FILE_NAME, 'r', encoding='utf-8') as codepoint_character_sequence_file:
+        lines = codepoint_character_sequence_file.readlines()
+
+    for line in lines:
+        compliant_match = re.fullmatch(
+            r'''
+                U[+] (?P<codepoint_hex> [0-9A-F]{4,5} ) (?P<font_support> !?)
+                    \t
+                (?P<character> \S ) (?P<character_type> [\^*]? )
+                    \t
+                (?P<sequence_regex> [1-5|()\\]+ )
+                    \n
+            ''',
+            line,
+            flags=re.VERBOSE,
+        )
+
+        if not compliant_match:
+            continue
+
+        codepoint_hex = compliant_match.group('codepoint_hex')
+        font_support = compliant_match.group('font_support')
+        character = compliant_match.group('character')
+        character_type = compliant_match.group('character_type')
+        sequence_regex = compliant_match.group('sequence_regex')
+
+        codepoint = ord(character)
+        rank = to_rank(codepoint)
+
+        if int(codepoint_hex, 16) != codepoint:
+            print(
+                f'Error in `{CODEPOINT_CHARACTER_SEQUENCE_FILE_NAME}`: U+{codepoint_hex} is not {character}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
+        if latest_rank is not None:
+            if rank < latest_rank:
+                print(
+                    f'Error in `{CODEPOINT_CHARACTER_SEQUENCE_FILE_NAME}`: '
+                    f'U+{codepoint_hex} {character} should appear before U+{latest_codepoint_hex} {latest_character}',
+                    file=sys.stderr,
+                )
+                sys.exit(1)
+
+            elif rank == latest_rank:
+                print(
+                    f'Error in `{CODEPOINT_CHARACTER_SEQUENCE_FILE_NAME}`: U+{codepoint_hex} {character} is duplicated',
+                    file=sys.stderr,
+                )
+                sys.exit(1)
+
+        latest_rank = rank
+        latest_codepoint_hex = codepoint_hex
+        latest_character = character
+
+        if font_support == '!':
+            unlikely_characters.add(character)
+
+        if character_type == '^':
+            traditional_characters.add(character)
+        elif character_type == '*':
+            simplified_characters.add(character)
+        else:
+            dual_characters.add(character)
+
+        for sequence in to_sequence_set(sequence_regex):
+            characters_from_sequence[sequence].append(character)
+
+        for vigilance, pattern in PATTERN_FROM_VIGILANCE.items():
+            if (
+                pattern in sequence_regex or (
+                    '\\' in pattern
+                    and re.search(re.escape(pattern).replace(r'\.', '.'), sequence_regex)
+                )
+            ):
+                characters_from_vigilance[vigilance].append(character)
+
+    character_count = len({*traditional_characters, *simplified_characters, *dual_characters})
+    print(f'Finished parsing `{CODEPOINT_CHARACTER_SEQUENCE_FILE_NAME}` ({character_count} characters).')
+
+    sequence_count = len(characters_from_sequence)
+    sequence_characters_lines = '\n'.join(
+        f'{sequence}\t{"".join(characters_from_sequence[sequence])}'
+        for sequence in sorted(characters_from_sequence.keys())
+    )
+    with open(SEQUENCE_CHARACTERS_FILE_NAME, 'w', encoding='utf-8') as sequence_characters_file:
+        sequence_characters_file.write(SEQUENCE_CHARACTERS_TEMPLATE.substitute(body=sequence_characters_lines))
+    print(f'Finished generating `{SEQUENCE_CHARACTERS_FILE_NAME}` ({sequence_count} stroke sequences).')
+
+    vigilance_count = len(characters_from_vigilance)
+    vigilance_characters_lines = '\n'.join(
+        f'{character}\t{"".join(characters_from_vigilance[character])}'
+        for character in sorted(characters_from_vigilance.keys())
+    )
+    with open(VIGILANCE_CHARACTERS_FILE_NAME, 'w', encoding='utf-8') as vigilance_characters_file:
+        vigilance_characters_file.write(VIGILANCE_CHARACTERS_TEMPLATE.substitute(body=vigilance_characters_lines))
+    print(f'Finished generating `{VIGILANCE_CHARACTERS_FILE_NAME}` ({vigilance_count} vigilances).)')
+
+    unlikely_character_count = len(unlikely_characters)
+    unlikely_character_lines = '\n'.join(sorted(unlikely_characters))
+    with open(CHARACTERS_UNLIKELY_FILE_NAME, 'w', encoding='utf-8') as characters_unlikely_file:
+        characters_unlikely_file.write(CHARACTERS_UNLIKELY_TEMPLATE.substitute(body=unlikely_character_lines))
+    print(f'Finished generating `{CHARACTERS_UNLIKELY_FILE_NAME}` ({unlikely_character_count} characters).')
+
+    traditional_character_count = len(traditional_characters)
+    traditional_character_lines = '\n'.join(sorted(traditional_characters))
+    with open(CHARACTERS_TRADITIONAL_FILE_NAME, 'w', encoding='utf-8') as characters_traditional_file:
+        characters_traditional_file.write(CHARACTERS_TRADITIONAL_TEMPLATE.substitute(body=traditional_character_lines))
+    print(f'Finished generating `{CHARACTERS_TRADITIONAL_FILE_NAME}` ({traditional_character_count} characters).')
+
+    simplified_character_count = len(simplified_characters)
+    simplified_character_lines = '\n'.join(sorted(simplified_characters))
+    with open(CHARACTERS_SIMPLIFIED_FILE_NAME, 'w', encoding='utf-8') as characters_simplified_file:
+        characters_simplified_file.write(CHARACTERS_SIMPLIFIED_TEMPLATE.substitute(body=simplified_character_lines))
+    print(f'Finished generating `{CHARACTERS_SIMPLIFIED_FILE_NAME}` ({simplified_character_count} characters).')
+
+    sequences_per_character = sequence_count / character_count
+    print(f'On average, there are {sequences_per_character:.4f} stroke sequences per character.')
+
+    traditional_fraction = traditional_character_count / character_count
+    print(f'{traditional_fraction:6.2%} of characters are traditional-only.')
+
+    simplified_fraction = simplified_character_count / character_count
+    print(f'{simplified_fraction:6.2%} of characters are simplified-only.')
+
+    dual_fraction = 1 - traditional_fraction - simplified_fraction
+    print(f'{dual_fraction:6.2%} of characters are dual.')
+
+
+if __name__ == '__main__':
+    main()

@@ -1,1 +1,26 @@
-aW1wb3J0IG51bXB5IGFzIG5wLCBoYXNobGliCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKVyxILFNUUklERT0xMDI0LDc2OCw0MDk2OyBGQj0nL2Rldi9mYjAnCkZPTlQ9Jy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMnCmltZz1JbWFnZS5uZXcoJ1JHQicsKFcsSCksKDI1NSwyNTUsMjU1KSkKZD1JbWFnZURyYXcuRHJhdyhpbWcpCmZUPUltYWdlRm9udC50cnVldHlwZShGT05ULDQ0KTsgZjE9SW1hZ2VGb250LnRydWV0eXBlKEZPTlQsMzgpOyBmMj1JbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwzNCkKcm93cz1bCiAoIjE1NyBTRU5TT1IgU0VMRi1FWEFNIixmVCwoMCwwLDApKSwKICgiQSBTVUJTT05JQzogZCc9MC4xODMgIERBTUFHRSAtMzEyTUIiLGYxLCgxODAsNjAsMCkpLAogKCJCIFRBVT05NSBBQ1Q6IEZQUiAwLjQwMCBSVU4gMC42MDAiLGYxLCgxODAsMCwwKSksCiAoIkIgVEFVPTk1IEhPTEQ6IEZQUiAwLjIwMCBSVU4gMC4wMDAiLGYxLCgwLDEyMCwwKSksCiAoIkMgV0lEVEggOTIuNSUgODIuNSUgNTIuNSUiLGYxLCgwLDAsMTgwKSksCiAoIlRPS0VOIEs3TTRRWCIsZlQsKDAsMCwwKSksCl0KeT01MApmb3IgdCxmbyxjIGluIHJvd3M6CiAgICBkLnRleHQoKDUwLHkpLHQsZm9udD1mbyxmaWxsPWMpOyB5Kz04OApyZ2I9bnAuYXNhcnJheShpbWcsZHR5cGU9bnAudWludDgpCnJvdz1ucC56ZXJvcygoSCxTVFJJREUpLGR0eXBlPW5wLnVpbnQ4KTsgcm93WzosOlcqM109cmdiWzosOiw6Oi0xXS5yZXNoYXBlKEgsVyozKQpkYXRhPXJvdy50b2J5dGVzKCkKb3BlbihGQiwnd2InKS53cml0ZShkYXRhKQpiYWNrPW9wZW4oRkIsJ3JiJykucmVhZChTVFJJREUqSCkKcHJpbnQoIklERU5USUNBTDoiLGJhY2s9PWRhdGEsInNoYToiLGhhc2hsaWIuc2hhMjU2KGJhY2spLmhleGRpZ2VzdCgpWzoxMl0pCmFycj1ucC5mcm9tYnVmZmVyKGJhY2ssZHR5cGU9bnAudWludDgpLnJlc2hhcGUoSCxTVFJJREUpCkltYWdlLmZyb21hcnJheShhcnJbOiw6VyozXS5yZXNoYXBlKEgsVywzKVs6LDosOjotMV0pLnNhdmUoJ2NhcHR1cmVkMi5wbmcnKQo=
+import numpy as np, hashlib
+from PIL import Image, ImageDraw, ImageFont
+W,H,STRIDE=1024,768,4096; FB='/dev/fb0'
+FONT='/usr/share/fonts/truetype/wqy/wqy-microhei.ttc'
+img=Image.new('RGB',(W,H),(255,255,255))
+d=ImageDraw.Draw(img)
+fT=ImageFont.truetype(FONT,44); f1=ImageFont.truetype(FONT,38); f2=ImageFont.truetype(FONT,34)
+rows=[
+ ("157 SENSOR SELF-EXAM",fT,(0,0,0)),
+ ("A SUBSONIC: d'=0.183  DAMAGE -312MB",f1,(180,60,0)),
+ ("B TAU=95 ACT: FPR 0.400 RUN 0.600",f1,(180,0,0)),
+ ("B TAU=95 HOLD: FPR 0.200 RUN 0.000",f1,(0,120,0)),
+ ("C WIDTH 92.5% 82.5% 52.5%",f1,(0,0,180)),
+ ("TOKEN K7M4QX",fT,(0,0,0)),
+]
+y=50
+for t,fo,c in rows:
+    d.text((50,y),t,font=fo,fill=c); y+=88
+rgb=np.asarray(img,dtype=np.uint8)
+row=np.zeros((H,STRIDE),dtype=np.uint8); row[:,:W*3]=rgb[:,:,::-1].reshape(H,W*3)
+data=row.tobytes()
+open(FB,'wb').write(data)
+back=open(FB,'rb').read(STRIDE*H)
+print("IDENTICAL:",back==data,"sha:",hashlib.sha256(back).hexdigest()[:12])
+arr=np.frombuffer(back,dtype=np.uint8).reshape(H,STRIDE)
+Image.fromarray(arr[:,:W*3].reshape(H,W,3)[:,:,::-1]).save('captured2.png')

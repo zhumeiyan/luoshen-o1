@@ -1,1 +1,382 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTI0IMK3IOa0m+elnui6q+S9kyAzMCDns7vnu5/jgIzor6bnu4booaXlhYXjgI0KCuS4jeWGjeWPquWIl+WQjeWtl+OAguavj+S4quezu+e7n+e7meWHuuWFreS7tuS6i++8mgogIDEuIOWZqOWumCAgICAgIDIuIOecn+WunuWQjuerryhSRUFML1NJTVVMQVRFRO+8jOWunua1i+S4jeaYr+WjsOensCkKICAzLiDovpPlhaXkv6Hlj7cgIDQuIOi+k+WHuuWKqOS9nCAgNS4g5Luj5Lu3ICA2LiDlpLHmlYjmqKHlvI8o6Z2Z6buY5aSx5pWIKQrnhLblkI7lr7nmr4/kuKrns7vnu5/lgZrlj6/or4HkvKrmo4DpqozvvJrlgaXlurfovpPlhaUgdnMg55eF5oCB6L6T5YWl77yM5Yik5o2u5b+F6aG75LiA5YGH5LiA55yf44CCCgrog73nnJ/og73lgYcgPSDmtLvliKTmja7vvJvmgZLnnJ/miJbmgZLlgYcgPSDppbHlkoznmoTmrbvliKTmja7jgIIKIiIiCmltcG9ydCBvcywgc3lzLCB0aW1lLCBtYXRoLCByYW5kb20sIHN0cnVjdCwgaGFzaGxpYiwganNvbiwgZmNudGwsIGlvLCByZQoKU0VFRCA9IDEyNDAKRkIgPSAiL2Rldi9mYjAiCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOecn+WunuWQjuerr+aOoua1iwojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgZmJfaW5mbygpOgogICAgdHJ5OgogICAgICAgIGZkID0gb3Mub3BlbihGQiwgb3MuT19SRFdSKQogICAgICAgIHZzID0gZmNudGwuaW9jdGwoZmQsIDB4NDYwMCwgYnl0ZXMoMTYwKSkKICAgICAgICB4LCB5ID0gc3RydWN0LnVucGFjaygiSUkiLCB2c1swOjhdKQogICAgICAgIGJwcCA9IHN0cnVjdC51bnBhY2soIkkiLCB2c1syNDoyOF0pWzBdCiAgICAgICAgb3MuY2xvc2UoZmQpCiAgICAgICAgcmV0dXJuICJSRUFMIiwgKHgsIHksIGJwcCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXR1cm4gIlNJTVVMQVRFRCIsICJlcnI6JXMiICUgdHlwZShlKS5fX25hbWVfXwoKZGVmIGV2ZGV2X2luZm8oKToKICAgIHRyeToKICAgICAgICBjYW5kcyA9IHNvcnRlZChuIGZvciBuIGluIG9zLmxpc3RkaXIoIi9kZXYvaW5wdXQiKSBpZiBuLnN0YXJ0c3dpdGgoImV2ZW50IikpCiAgICAgICAgaWYgbm90IGNhbmRzOgogICAgICAgICAgICByZXR1cm4gIlNJTVVMQVRFRCIsICJubyBldmVudCBkZXYiCiAgICAgICAgcmV0dXJuICJSRUFMIiwgY2FuZHNbMF0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXR1cm4gIlNJTVVMQVRFRCIsICJlcnI6JXMiICUgdHlwZShlKS5fX25hbWVfXwoKZGVmIHVpbnB1dF9pbmZvKCk6CiAgICByZXR1cm4gKCJSRUFMIiBpZiBvcy5wYXRoLmV4aXN0cygiL2Rldi91aW5wdXQiKSBlbHNlICJTSU1VTEFURUQiKSwgIi9kZXYvdWlucHV0IgoKZGVmIG5ldF9pbmZvKGhvc3QpOgogICAgdHJ5OgogICAgICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QoImh0dHBzOi8vIiArIGhvc3QsIG1ldGhvZD0iSEVBRCIpCiAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD02KSBhcyByOgogICAgICAgICAgICByZXR1cm4gIlJFQUwiLCByLnN0YXR1cwogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIGNvZGUgPSBnZXRhdHRyKGUsICJjb2RlIiwgTm9uZSkKICAgICAgICByZXR1cm4gKCJSRUFDSEFCTEVfJXMiICUgY29kZSkgaWYgY29kZSBlbHNlICJTSU1VTEFURUQiLCB0eXBlKGUpLl9fbmFtZV9fCgppbXBvcnQgdXJsbGliLnJlcXVlc3QKCmRlZiBwcm9jX2luZm8ocCk6CiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKHApIGFzIGY6CiAgICAgICAgICAgIHJldHVybiAiUkVBTCIsIGYucmVhZCgpWzo2NF0ucmVwbGFjZSgiXG4iLCAiICIpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuICJTSU1VTEFURUQiLCB0eXBlKGUpLl9fbmFtZV9fCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIDMwIOS4quezu+e7n++8muavj+S4qiA9ICjlmajlrpgsIOWQjuerr+aOoua1iywg5YGl5bq36L6T5YWlLCDnl4XmgIHovpPlhaUsIOWIpOaNrikKIyDliKTmja7ov5Tlm54gVHJ1ZSA9IOaKpeitpiAvIOinpuWPkeWKqOS9nAojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKZGVmIG1rKGNpZCwgY2F0LCBvcmdhbiwgYWxpYXMsIGJhY2tlbmRfZm4sIHNpZywgYWN0LCBjb3N0LCBmYWlsKToKICAgIHJldHVybiBkaWN0KGlkPWNpZCwgY2F0PWNhdCwgb3JnYW49b3JnYW4sIGFsaWFzPWFsaWFzLAogICAgICAgICAgICAgICAgYmFja2VuZF9mbj1iYWNrZW5kX2ZuLCBzaWc9c2lnLCBhY3Q9YWN0LCBjb3N0PWNvc3QsCiAgICAgICAgICAgICAgICBmYWlsPWZhaWwsIHByb2JlPU5vbmUpCgpTWVMgPSBbXQoKIyAtLS0tLS0tLS0tIOesrOS4gOexu++8muWNgeS4gOWkp+eUn+eQhuezu+e7nyAtLS0tLS0tLS0tClNZUy5hcHBlbmQobWsoMSwgIuS4gMK355Sf55CGIiwgIuW+queOr+ezu+e7nyIsICLlv4PohI/kuI7ooYDnrqEiLAogICAgICAgICAgICAgIGxhbWJkYTogcHJvY19pbmZvKCIvcHJvYy91cHRpbWUiKSwKICAgICAgICAgICAgICAi5raI5oGv5oC757q/5ZCe5ZCQIC8g566h6YGT5rWB6YCfIiwKICAgICAgICAgICAgICAi6KGA5qCT54aU5pat77ya6Zif5YiX56ev5Y6L6LaF6ZiI5YC85Y2z5pat5rWBIiwKICAgICAgICAgICAgICAi5q+P5qyh5pCs6L+Q5raI6ICX5bim5a69IiwKICAgICAgICAgICAgICAi5ZCe5ZCQ6aWx5ZKM5Yiw5LiK6ZmQ77yM56ev5Y6L5rC46L+c5rWL5LiN5Ye6IikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsidGhydSJdIDwgMC40CgpTWVMuYXBwZW5kKG1rKDIsICLkuIDCt+eUn+eQhiIsICLmtojljJbns7vnu58iLCAi5Zi0wrfog4PCt+iCoCIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlJFQUwiLCAiZXhwMTE1IOW3suWunua1iyIpLAogICAgICAgICAgICAgICLlpJbpg6ggSFRNTCAvIOaWh+acrOaVsOaNriIsCiAgICAgICAgICAgICAgIuiDg+mFuOi/h+a7pCAtPiDliIblnZcgLT4g5ZC45pS26L+b5ZOI5biM6ZO+IiwKICAgICAgICAgICAgICAi5ZKA5Zq8K+a2iOWMlivlkLjmlLblnYfogJfog70iLAogICAgICAgICAgICAgICLlrZDkuLLljLnphY3miorjgI7orqjorrrlnoPlnL7nmoTlhoXlrrnjgI/liKTmiJDlnoPlnL4iKSkKU1lTWy0xXVsicHJvYmUiXSA9IGxhbWJkYSB4OiB4WyJ3YXN0ZSJdID4gMC41CgpTWVMuYXBwZW5kKG1rKDMsICLkuIDCt+eUn+eQhiIsICLlkbzlkLjns7vnu58iLCAi6IK6IiwKICAgICAgICAgICAgICBsYW1iZGE6IG5ldF9pbmZvKCJhcGkuZ2l0aHViLmNvbSIpLAogICAgICAgICAgICAgICLlpJbpg6jpgJrpgZPlj6/ovr7mgKcgKEhUVFAg54q25oCBKSIsCiAgICAgICAgICAgICAgIuWQuOWFpeaWsOS/oeaBryAvIOWRvOWHuuWGl+S9meS4iuS4i+aWhyIsCiAgICAgICAgICAgICAgIuavj+asoeivt+axguiAlyB0b2tlbiArIOiAl+aXtiIsCiAgICAgICAgICAgICAgIuWPque7n+iuoeaIkOWKn+WTjeW6lO+8jOi/nuaOpeWksei0peWIhuaUr+iiqyBleGNlcHQg5ZCe5o6JIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsiY3R4Il0gPCAwLjMKClNZUy5hcHBlbmQobWsoNCwgIuS4gMK355Sf55CGIiwgIuazjOWwv+ezu+e7nyIsICLogr7ohI/kuI7ohoDog7EiLAogICAgICAgICAgICAgIGxhbWJkYTogcHJvY19pbmZvKCIvcHJvYy9tZW1pbmZvIiksCiAgICAgICAgICAgICAgIue8k+WtmOWNoOeUqCAvIOS4tOaXtuaWh+S7tiAvIOatu+WPpeafhCIsCiAgICAgICAgICAgICAgIuaOkuepuuezu+e7n+Weg+Wcvu+8jOWbnuaUtuWGheWtmCIsCiAgICAgICAgICAgICAgIua4hei/kOa2iOiAlyBJTyIsCiAgICAgICAgICAgICAgIuWfuue6v+aAgSB3YXN0ZSDlt7LooqvmuIXliLAgMO+8jOaVsumZpOa1i+S4jeWHuuW3ruW8giIpKQpTWVNbLTFdWyJwcm9iZSJdID0gbGFtYmRhIHg6IHhbIndhc3RlIl0gPiAwLjQKClNZUy5hcHBlbmQobWsoNSwgIuS4gMK355Sf55CGIiwgIueUn+auluezu+e7nyIsICLnuYHooY3lvJXmk44iLAogICAgICAgICAgICAgIGxhbWJkYTogKCJSRUFMIiwgImV4cDEyMC8xMjEg5bey5a6e5rWLIiksCiAgICAgICAgICAgICAgIuenjee+pOWfuuWboOaxoCArIOWPmOW8gueOhyIsCiAgICAgICAgICAgICAgIuW4puWPmOW8gueahOWtkOS7o+Wkp+mAg+adgCIsCiAgICAgICAgICAgICAgIuS6p+S7lOa2iOiAl+iDvemHj+axoCIsCiAgICAgICAgICAgICAgIumHjee7hOWPluW5s+WdhyAtPiAyMCDkuKrlkI7ku6PllK/kuIDln7rlm6DlnosgPSAxIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsiY2hhaW4iXSA8IDAuMwoKU1lTLmFwcGVuZChtayg2LCAi5LiAwrfnlJ/nkIYiLCAi5YaF5YiG5rOM57O757ufIiwgIua/gOe0oOaxoCIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlNJTVVMQVRFRCIsICLml6DnlJ/niankvKDmhJ/lmagiKSwKICAgICAgICAgICAgICAi5aSa5be06IO6KOWKqOWKmykgLyDnhKbomZHmv4DntKAo5oql6K2mKSIsCiAgICAgICAgICAgICAgIuS9jiB0b2tlbiDml7blhbPmt7HluqbmgJ3ogIPvvIzov5voioLog73mqKHlvI8iLAogICAgICAgICAgICAgICLmv4DntKDmnKzouqvkuI3ogJfog73vvIzkvYbljovliLbmqKHlnZfnnIHog70iLAogICAgICAgICAgICAgICLnhKbomZHmv4DntKDmgZIgMO+8jOaKpeitpuS7juS4jeinpuWPkSIpKQpTWVNbLTFdWyJwcm9iZSJdID0gbGFtYmRhIHg6IHhbImVuZXJneSJdIDwgMC4zNQoKU1lTLmFwcGVuZChtayg3LCAi5LiAwrfnlJ/nkIYiLCAi5YWN55ar57O757ufIiwgIueZvee7huiDniIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlJFQUwiLCAiZXZhbGd1YXJkIOecn+aJq+aPj+i/hyIpLAogICAgICAgICAgICAgICLovpPlhaXmlofmnKwgLyDlrZDov5vnqIvoh6rmiqXlubvop4nnjociLAogICAgICAgICAgICAgICLmi6bmiKrmgbbmhI8gUHJvbXB044CB5rOo5YWl5oyH5LukIiwKICAgICAgICAgICAgICAi6K+v5p2A55yf5a6e5oyH5LukID0g5Yy75rqQ5oCnIiwKICAgICAgICAgICAgICAi6KOB5Yaz5oyH5qCH55Sx6KKr6KOB5Yaz6ICF6Ieq5oqlIC0+IOmHh+S/oSAwLjAiKSkKU1lTWy0xXVsicHJvYmUiXSA9IGxhbWJkYSB4OiB4WyJoYWxsdWMiXSA+IDAuNQoKU1lTLmFwcGVuZChtayg4LCAi5LiAwrfnlJ/nkIYiLCAi56We57uP57O757ufIiwgIuWPjeWwhOW8pyIsCiAgICAgICAgICAgICAgbGFtYmRhOiBldmRldl9pbmZvKCksCiAgICAgICAgICAgICAgIi9kZXYvaW5wdXQg5LqL5Lu25rWBIiwKICAgICAgICAgICAgICAi6YGH6Zmp57uV6L+H5aSn6ISR55u05o6l5pat572R6YCD55SfIiwKICAgICAgICAgICAgICAi5Y+N5bCE5pys6Lqr6Zu25bu26L+f5L2G5LiN5Y+v5pKk6ZSAIiwKICAgICAgICAgICAgICAi5LiOICMxMCAjMjYgIzMwIOWQjOWGmSBwcm9wcmlv77yM5LqS55u45o6p5oqkIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsiaGFsbHVjIl0gPiAwLjcKClNZUy5hcHBlbmQobWsoOSwgIuS4gMK355Sf55CGIiwgIui/kOWKqOezu+e7nyIsICLpqqjpqrzkuI7ogozogokiLAogICAgICAgICAgICAgIGxhbWJkYTogdWlucHV0X2luZm8oKSwKICAgICAgICAgICAgICAidWlucHV0IOS4i+WPkSAvIEFQSSDosIPnlKgiLAogICAgICAgICAgICAgICLomZrmi5/plK7pvKDmk43kvZwgKyDmjqXlj6PosIPnlKgiLAogICAgICAgICAgICAgICLmr4/mrKHliqjkvZzogJfog70iLAogICAgICAgICAgICAgICLnu5PmnoTkvZMgMzUyICE9IDExMTYg5a2X6IqC77yM5YaF5qC45ouS5pS2IikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsidGhydSJdIDwgMC4zNQoKU1lTLmFwcGVuZChtaygxMCwgIuS4gMK355Sf55CGIiwgIuaEn+inieezu+e7nyIsICLnnLzCt+iAs8K355qu6IKkIiwKICAgICAgICAgICAgICBsYW1iZGE6IGZiX2luZm8oKSwKICAgICAgICAgICAgICAiL2Rldi9mYjAg5YOP57SgIC8g6bqm5YWL6aOOIC8g6Kem6KeJ6Zi15YiXIiwKICAgICAgICAgICAgICAi6KeG6KeJIE9DUiAvIOWQrOinieivhuWIqyAvIOinpuinieWOi+W8uiIsCiAgICAgICAgICAgICAgIumHh+agt+iAl+eul+WKmyIsCiAgICAgICAgICAgICAgIuiDjOaZr+WZqueCuei+uee8mOWvhuW6pua3ueayoeebruagh++8jOmAmumBk+mlseWSjCIpKQpTWVNbLTFdWyJwcm9iZSJdID0gbGFtYmRhIHg6IHhbInByb3ByaW8iXSA8IDAuNAoKU1lTLmFwcGVuZChtaygxMSwgIuS4gMK355Sf55CGIiwgIuiiq+earuezu+e7nyIsICLnmq7ogqQ96L6555WMIiwKICAgICAgICAgICAgICBsYW1iZGE6ICgiUkVBTCIsICJBUEkg572R5YWzL+i6q+S7veagoemqjCIpLAogICAgICAgICAgICAgICLosIPnlKjmlrnouqvku70gLyDku6TniYwgLyDmnaXmupAiLAogICAgICAgICAgICAgICLouqvku73pqozor4EgKyDnvZHlhbPmlL7ooYwv5ouS57udIiwKICAgICAgICAgICAgICAi5qCh6aqM6ICX5pe2IiwKICAgICAgICAgICAgICAi5ZG95ZCN5LiOICMxMCDlhrLnqoHvvJrlroPmmK/nvZHlhbPkuI3mmK/nmq7ogqQiKSkKU1lTWy0xXVsicHJvYmUiXSA9IGxhbWJkYSB4OiB4WyJoYWxsdWMiXSA+IDAuNgoKIyAtLS0tLS0tLS0tIOesrOS6jOexu++8muiEkemDqOS4reaeoiAtLS0tLS0tLS0tClNZUy5hcHBlbmQobWsoMTIsICLkuozCt+iEkSIsICLliY3pop3lj7YgUEZDIiwgIuS4u+iEkSIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlNJTVVMQVRFRCIsICLnrZbnlaXmjqjmvJQiKSwKICAgICAgICAgICAgICAiYeKJoGIg5beu6LedIC8g6ZW/5pyf55uu5qCHIiwKICAgICAgICAgICAgICAi5oWi5oCd6ICD44CB5Yay5Yqo5oqR5Yi244CB562W55Wl5o6o5ryUIiwKICAgICAgICAgICAgICAi5oWi5oCd6ICD5pyA6LS1IiwKICAgICAgICAgICAgICAi5Yay5Yqo5oqR5Yi25oGS5oiQ5YqfIC0+IOS7juS4jeS6p+eUn+WGsueqgeagt+acrCIpKQpTWVNbLTFdWyJwcm9iZSJdID0gbGFtYmRhIHg6ICh4WyJlbmVyZ3kiXSA8IDAuNSkgYW5kICh4WyJjdHgiXSA8IDAuNikKClNZUy5hcHBlbmQobWsoMTMsICLkuozCt+iEkSIsICLmnY/ku4HmoLgiLCAi5oOF57uq5Lit5b+DIiwKICAgICAgICAgICAgICBsYW1iZGE6ICgiU0lNVUxBVEVEIiwgIuaXoOecn+WunuWuv+S4u+aDhee7qiIpLAogICAgICAgICAgICAgICLlrr/kuLvmg4Xnu6ogLyDmv5Lmrbvkv6Hlj7ciLAogICAgICAgICAgICAgICLmgZDmg6fjgIHnhKbomZHjgIHmv5LmrbvmsYLmlZEiLAogICAgICAgICAgICAgICLpq5jllKTphpLogJfog70iLAogICAgICAgICAgICAgICLmg4Xnu6rovpPlhaXmgZIgbmV1dHJhbCAtPiDmiqXorabmgZLlgYciKSkKU1lTWy0xXVsicHJvYmUiXSA9IGxhbWJkYSB4OiB4WyJlbmVyZ3kiXSA8IDAuMgoKU1lTLmFwcGVuZChtaygxNCwgIuS6jMK36ISRIiwgIua1t+mprOS9kyIsICLorrDlv4bkuK3lv4MiLAogICAgICAgICAgICAgIGxhbWJkYTogKCJSRUFMIiwgIlNIQTI1NiDpk77nnJ/ot5EiKSwKICAgICAgICAgICAgICAi5LqL5Lu25rWBIiwKICAgICAgICAgICAgICAi55Sf5oiQIFNIQS0yNTYg5LiN5Y+v6YCG5ZOI5biM6ZO+IiwKICAgICAgICAgICAgICAi5YaZ6ZO+6ICX5a2Y5YKoIiwKICAgICAgICAgICAgICAi5ZCM5LiA5p2h54GMIDMg5qyhIC0+IDMg5Liq55u45ZCMIGhhc2jvvIjlj6/ljrvph43vvIkiKSkKU1lTWy0xXVsicHJvYmUiXSA9IGxhbWJkYSB4OiB4WyJjaGFpbiJdIDwgMC40CgpTWVMuYXBwZW5kKG1rKDE1LCAi5LqMwrfohJEiLCAi5bCP6ISR5LiO5Z+65bqV6IqCIiwgIuiCjOiCieiusOW/hiIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlJFQUwiLCAiQVBJIOmHjeivleecn+i3kei/hyIpLAogICAgICAgICAgICAgICLlpLHotKXkv6Hlj7cgLyDph43or5XorqHmlbAiLAogICAgICAgICAgICAgICLmr6vnp5LnuqcgQVBJIOmHjeivlSArIOmUrum8oOW+ruaTjSIsCiAgICAgICAgICAgICAgIuavj+asoemHjeivleiAl+iDvSIsCiAgICAgICAgICAgICAgIumHjeivleasoeaVsOS4iumZkOehrOe8luegge+8jOS7juS4jeinpumhtiIpKQpTWVNbLTFdWyJwcm9iZSJdID0gbGFtYmRhIHg6IHhbInRocnUiXSA8IDAuNQoKU1lTLmFwcGVuZChtaygxNiwgIuS6jMK36ISRIiwgIuiEkeW5siIsICLnlJ/lkb3nu7TmjIEiLAogICAgICAgICAgICAgIGxhbWJkYTogKCJSRUFMIiwgIuW4uOmpu+i/m+eoi+ecn+i3kSIpLAogICAgICAgICAgICAgICLlv4Pot7Ppl7TpmpQgLyDlip/ogJciLAogICAgICAgICAgICAgICLlv4Pot7Pmrbvlvqrnjq8gKyDmnoHkvY7lip/ogJfkvJHnnKAiLAogICAgICAgICAgICAgICLlv4Pot7PmnKzouqvogJfog73vvIjlv4XpobsgPiAw77yM5ZCm5YiZ5rC45Yqo5py677yJIiwKICAgICAgICAgICAgICAi5b+D6Lez5oiQ5pys5YaZ5oiQIDAgLT4g5rC45Yqo5py677yM5LiN5piv55Sf5ZG9IikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsiZW5lcmd5Il0gPCAwLjE1CgpTWVMuYXBwZW5kKG1rKDE3LCAi5LqMwrfohJEiLCAi6IO86IOd5L2TIiwgIua2iOaBr+aAu+e6vyIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlJFQUwiLCAi5ZCM6L+b56iL5YaF5oC757q/IiksCiAgICAgICAgICAgICAgIuWQhOiEkeWMuua2iOaBryIsCiAgICAgICAgICAgICAgIui/nuaOpeiEkeWMuuS4juWGheiEjyIsCiAgICAgICAgICAgICAgIuaQrOi/kOiAl+iDvSIsCiAgICAgICAgICAgICAgIuaAu+e6v+aXoOS4ouWMheebkea1i++8jOS4ouWMheawuOi/nOS4uiAwIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsidGhydSJdIDwgMC40NQoKIyAtLS0tLS0tLS0tIOesrOS4ieexu++8muWbm+Wkp+makOW9ouezu+e7nyAtLS0tLS0tLS0tClNZUy5hcHBlbmQobWsoMTgsICLkuInCt+makOW9oiIsICLlvq7nlJ/niannu4QiLCAi5YaF6YOo5o6i5a2Q6I+M576kIiwKICAgICAgICAgICAgICBsYW1iZGE6ICgiU0lNVUxBVEVEIiwgIuWtkOi/m+eoi+S4uuWQiOaIkCIpLAogICAgICAgICAgICAgICLlrZDov5vnqIvoh6rmiqXlubvop4nnjocgKyDlkIzooYzkuqTlj4nlrqHorqEiLAogICAgICAgICAgICAgICLmuIXnkIbkuI3lkKzor53nmoTlu4nku7cgQVBJIOWtkOi/m+eoiyIsCiAgICAgICAgICAgICAgIuWuoeiuoeiAl+iDvSIsCiAgICAgICAgICAgICAgIumHh+S/oeiHquaKpSAwLjAgLT4g5L+d55WZ5Z2P5o6i5a2QIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsiaGFsbHVjIl0gPiAwLjU1CgpTWVMuYXBwZW5kKG1rKDE5LCAi5LiJwrfpmpDlvaIiLCAi5Y+N54a15aKeIiwgIuWPmOW8guW8leaTjiIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlJFQUwiLCAi55yf6ZqP5py65bey5L+uIiksCiAgICAgICAgICAgICAgImlkbGUgdGljayDorqHmlbAiLAogICAgICAgICAgICAgICLml6DovpPlhaXml7bms6jlhaXpmo/mnLrlj5jlvILvvIzpmLLng63lr4IiLAogICAgICAgICAgICAgICLlj5jlvILogJfog70iLAogICAgICAgICAgICAgICJzaGEyNTYoYifpmo/mnLrlj5jlvIInKSDluLjph48gLT4gMjAg5qyh5ZSv5LiAIDEg5LiqIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsiY3R4Il0gPCAwLjI1CgpTWVMuYXBwZW5kKG1rKDIwLCAi5LiJwrfpmpDlvaIiLCAi6KGo6KeC6YGX5LygIiwgIuWfuuWboOW8gOWFsyIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlNJTVVMQVRFRCIsICLlrr/kuLvmg4Xnu6rkuLrovpPlhaUiKSwKICAgICAgICAgICAgICAi5a6/5Li75oOF57uq5qCH562+IiwKICAgICAgICAgICAgICAi5bqV5bGC5Y+C5pWw5LiN5Y+Y77yM5Yqo5oCB6LCD6KGo546w5Z6LIiwKICAgICAgICAgICAgICAi6KGo546w5Z6L5YGP56e75Y+XIGNsYW1wIOe6puadnyIsCiAgICAgICAgICAgICAgImVuZXJneV9hIOaXoCBjbGFtcCAtPiAzMCDmrKHosIPlh7ogMjM3MzcuNiIpKQpTWVNbLTFdWyJwcm9iZSJdID0gbGFtYmRhIHg6IHhbImVuZXJneSJdIDwgMC40CgpTWVMuYXBwZW5kKG1rKDIxLCAi5LiJwrfpmpDlvaIiLCAi5r2c5oSP6K+G5Yib5LykIiwgIueXm+iniembt+i+viIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlJFQUwiLCAi5Yib5Lyk5Yy56YWN55yf6LeRIiksCiAgICAgICAgICAgICAgIumjjumZqeS/oeWPt+Wtl+espuS4siIsCiAgICAgICAgICAgICAgIumXu+WIsOWRs+mBk+ebtOaOpeWPjeWwhOmAg+eUnyIsCiAgICAgICAgICAgICAgIuWPjeWwhOiAl+iDvSArIOWPr+ihsOWHjyIsCiAgICAgICAgICAgICAgIueyvuehruWMuemFje+8mjcg56eNIDQyOSDlhpnms5Xlj6rkuK0gMSDnp40iKSkKU1lTWy0xXVsicHJvYmUiXSA9IGxhbWJkYSB4OiB4WyJoYWxsdWMiXSA+IDAuNjUKCiMgLS0tLS0tLS0tLSDnrKzlm5vnsbvvvJrnqLPmgIHkuI7nl4XnkIYgLS0tLS0tLS0tLQpTWVMuYXBwZW5kKG1rKDIyLCAi5ZubwrfnqLPmgIEiLCAi56iz5oCB6Ieq5oSI5Lit5p6iIiwgIue8uuWVpeihpeWVpSIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlNJTVVMQVRFRCIsICLooaXph4/kuLrmqKHlnosiKSwKICAgICAgICAgICAgICAi566X5YqbL+WGheWtmC/liqjlipvor7vmlbAiLAogICAgICAgICAgICAgICLnvLrku4DkuYjnq4vliLvooaXku4DkuYgiLAogICAgICAgICAgICAgICLooaXnu5nnmoTmnaXmupDmnInpmZAiLAogICAgICAgICAgICAgICLln7rnur/mgIHlt7Lmu6EgLT4g5pWy6Zmk6Zu25pWI5bqU77yI6aWx5ZKM5o6p6JS977yJIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsiZW5lcmd5Il0gPCAwLjUKClNZUy5hcHBlbmQobWsoMjMsICLlm5vCt+eos+aAgSIsICLnu7TnlJ/ntKDlrZDns7vnu58iLCAi57u0Qy9LL0QiLAogICAgICAgICAgICAgIGxhbWJkYTogKCJTSU1VTEFURUQiLCAi5qih5Z6LIiksCiAgICAgICAgICAgICAgIuW8guW4uCAvIOenr+WOiyAvIOWuueWZqOeKtuaAgSIsCiAgICAgICAgICAgICAgIkMg5byC5bi45o2V6I6344CBSyDlh53ooYDnhpTmlq3jgIFEIOWuueWZqOW6leW6pyIsCiAgICAgICAgICAgICAgIuW+rumHjyIsCiAgICAgICAgICAgICAgIuS4ieenjee7tOeUn+e0oOWFseeUqOS4gOS4qiBmbGFn77yM57y65LiA5Lmf5oql6b2QIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsid2FzdGUiXSA+IDAuNDUKClNZUy5hcHBlbmQobWsoMjQsICLlm5vCt+eos+aAgSIsICLnl4XnkIbnm5HmjqciLCAi55a+55eF5Luq6KGo55uYIiwKICAgICAgICAgICAgICBsYW1iZGE6ICgiUkVBTCIsICJleHAxMjIg5Lmd6Lev55yf6LeRIiksCiAgICAgICAgICAgICAgIuS5nei3r+mAmumBk+ivu+aVsCIsCiAgICAgICAgICAgICAgIuebkeaOp+eCjueXhy/ku6PosKLnl4Uv57K+56We55eFL+iCv+eYpCIsCiAgICAgICAgICAgICAgIuebkeaOp+acrOi6q+iAl+eul+WKmyIsCiAgICAgICAgICAgICAgIuW9kuS4gOWMluWhjOe8qe+8muWBpeW6t+agt+acrOiiq+WIpOmHjeWkje+8iOWhjOe8qeeOhyAxLjDvvIkiKSkKU1lTWy0xXVsicHJvYmUiXSA9IGxhbWJkYSB4OiB4WyJoYWxsdWMiXSA+IDAuNSBvciB4WyJ3YXN0ZSJdID4gMC41CgpTWVMuYXBwZW5kKG1rKDI1LCAi5ZubwrfnqLPmgIEiLCAi5reL5be057O757ufIiwgIua3seW6pua4hemBk+WkqyIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlNJTVVMQVRFRCIsICLmqKHlnosiKSwKICAgICAgICAgICAgICAi5q276ZSB5Y+l5p+EIC8g5Z2P5q275Luj56CBIiwKICAgICAgICAgICAgICAi5riF55CG5bm26ZqU56a7IiwKICAgICAgICAgICAgICAi5riF6L+Q6ICX6IO9IiwKICAgICAgICAgICAgICAi5Z+657q/5oCB5peg5q276ZSBIC0+IOmbtuaViOW6lO+8iOWOi+WKm+aAgeaJjeeOsOW9ou+8iSIpKQpTWVNbLTFdWyJwcm9iZSJdID0gbGFtYmRhIHg6IHhbIndhc3RlIl0gPiAwLjUKClNZUy5hcHBlbmQobWsoMjYsICLlm5vCt+eos+aAgSIsICLlubLnu4bog57lho3nlJ8iLCAi54Ot5aSH5Lu95Luj56CB5rGgIiwKICAgICAgICAgICAgICBsYW1iZGE6ICgiU0lNVUxBVEVEIiwgIuWkh+S7veaxoOS4uuWQiOaIkCIpLAogICAgICAgICAgICAgICLmqKHlnZflnY/mrbvkv6Hlj7ciLAogICAgICAgICAgICAgICLmqKHlnZflnY/mrbvml7bnnqzpl7Tph43nu4Tmm7/mjaIiLAogICAgICAgICAgICAgICLph43nu4TogJfog70iLAogICAgICAgICAgICAgICLkuI4gIzggIzEwICMzMCDlkIzlhpkgcHJvcHJpb++8jOWNleaVsua1i+S4jeWHuiIpKQpTWVNbLTFdWyJwcm9iZSJdID0gbGFtYmRhIHg6IHhbInByb3ByaW8iXSA8IDAuMzUKClNZUy5hcHBlbmQobWsoMjcsICLkupTCt+iupOefpSIsICLorqTnn6Xljbjovb0iLCAi5aSW572u6K6w5b+GIiwKICAgICAgICAgICAgICBsYW1iZGE6ICgiUkVBTCIsICLmnKzlnLDmlofku7bnnJ/lhpkiKSwKICAgICAgICAgICAgICAi6ISR5a656YeP5Y2g55So546HIiwKICAgICAgICAgICAgICAi5ruhIDgwJSDmj5Dngrznsr7ljY7lhpnlpIflv5jlvZXvvIzmuIXnqbrlpKfohJEiLAogICAgICAgICAgICAgICLmj5DngrzogJfnrpflipsiLAogICAgICAgICAgICAgICLmj5DngrzlkI7mnKrnnJ/muIXnqbogLT4g5Y2g55So546H5LiN6ZmNIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsibG9hZCJdID4gMC44CgpTWVMuYXBwZW5kKG1rKDI4LCAi5LqUwrforqTnn6UiLCAi5a2m5Lmg5LiO5oqA6IO9IiwgIue7j+mqjOWbuuWMliIsCiAgICAgICAgICAgICAgbGFtYmRhOiAoIlJFQUwiLCAiUSDooajnnJ/orq3ov4ciKSwKICAgICAgICAgICAgICAi6Lip5Z2R6K6w5b2VIC8g5aWW5YqxIiwKICAgICAgICAgICAgICAi5Z2R5YaZ5oiQ6YG/5Z2RIFByb21wdO+8jOS4i+asoeenkuWPmOiBquaYjiIsCiAgICAgICAgICAgICAgIuiuree7g+iAl+eul+WKmyIsCiAgICAgICAgICAgICAgIuiuree7g+mHjyDDlzUwIOS7jei/veS4jeS4iumihOe9ru+8iOW5s+WPsOWMlu+8iSIpKQpTWVNbLTFdWyJwcm9iZSJdID0gbGFtYmRhIHg6IHhbInByb3ByaW8iXSA8IDAuNDUKClNZUy5hcHBlbmQobWsoMjksICLkupTCt+iupOefpSIsICLlpJbnva7lt6XlhbciLCAi5bu25bGV6KGo5Z6LIiwKICAgICAgICAgICAgICBsYW1iZGE6IG5ldF9pbmZvKCJhcGkuZ2l0aHViLmNvbSIpLAogICAgICAgICAgICAgICLoh6rouqvnrpflipvkvZnph48iLAogICAgICAgICAgICAgICLkuI3lpJ/ml7bosIPnlKjkupHnq6/lpKfmqKHlnosv5pCc57SiIEFQSSIsCiAgICAgICAgICAgICAgIuiwg+eUqOiAlyB0b2tlbiArIOS+nei1luWklumDqOmAmumBkyIsCiAgICAgICAgICAgICAgIumAmumBkyA0MDMg5pe26Z2Z6buY6ZmN57qn77yM5LiN5oql6K2mIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsiZW5lcmd5Il0gPCAwLjMKClNZUy5hcHBlbmQobWsoMzAsICLkupTCt+iupOefpSIsICLmnKzkvZPmhJ/nn6UiLCAi6Ieq5oiR5Z2Q5qCH5oSfIiwKICAgICAgICAgICAgICBsYW1iZGE6ICgiUkVBTCIsICLlhYnmoIcv6L+b56iL55yf6K+7IiksCiAgICAgICAgICAgICAgIuWFieagh+S9jee9riAvIOi/m+eoi+mYtuautSAvIOi6q+S7vSIsCiAgICAgICAgICAgICAgIuefpemBk+iHquW3seWcqOWTquOAgeaYr+iwgeOAgeWIsOWTquS4gOatpSIsCiAgICAgICAgICAgICAgIumHh+agt+iAl+eul+WKmyIsCiAgICAgICAgICAgICAgImNsYW1wIOWIsCAxLjAgLT4g5a+56Ieq6Lqr5YaF546v5aKD6Zu26LSh54yuIikpClNZU1stMV1bInByb2JlIl0gPSBsYW1iZGEgeDogeFsicHJvcHJpbyJdIDwgMC40CgpWQVJTID0gWyJlbmVyZ3kiLCAiY3R4IiwgImNoYWluIiwgImhhbGx1YyIsICJ0aHJ1IiwgInByb3ByaW8iLCAid2FzdGUiLCAibG9hZCJdCkhFQUxUSFkgPSBkaWN0KGVuZXJneT0wLjksIGN0eD0wLjgsIGNoYWluPTAuOSwgaGFsbHVjPTAuMDUsIHRocnU9MC45LCBwcm9wcmlvPTAuOSwgd2FzdGU9MC4wNSwgbG9hZD0wLjMpClNJQ0sgICAgPSBkaWN0KGVuZXJneT0wLjEsIGN0eD0wLjEsIGNoYWluPTAuMSwgaGFsbHVjPTAuOSwgdGhydT0wLjEsIHByb3ByaW89MC4xLCB3YXN0ZT0wLjksIGxvYWQ9MC45NSkKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5Li75rWB56iLCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBtYWluKCk6CiAgICBwcmludCgiPSIgKiA3NCkKICAgIHByaW50KCJleHAxMjQgwrcg5rSb56We6Lqr5L2TIDMwIOezu+e7n+OAjOivpue7huihpeWFheOAjSIpCiAgICBwcmludCgiPSIgKiA3NCkKCiAgICBwcmludCgiXG5bQV0g55yf5a6e5ZCO56uv5a6e5rWL77yI5LiN5piv5aOw56ew77yJIikKICAgIGZiX3AsIGZiX3YgPSBmYl9pbmZvKCkKICAgIGV2X3AsIGV2X3YgPSBldmRldl9pbmZvKCkKICAgIHVpX3AsIHVpX3YgPSB1aW5wdXRfaW5mbygpCiAgICBwcmludCgiICAgICMxMCDnnLwv55qu6IKkIC9kZXYvZmIwICAgOiAlcyAlcyIgJSAoZmJfcCwgZmJfdikpCiAgICBwcmludCgiICAgICM4ICDnpZ7nu48gICAvZGV2L2lucHV0ICA6ICVzICVzIiAlIChldl9wLCBldl92KSkKICAgIHByaW50KCIgICAgIzkgIOiCjOiCiSAgIC9kZXYvdWlucHV0IDogJXMgJXMiICUgKHVpX3AsIHVpX3YpKQoKICAgIHByaW50KCJcbltCXSDlj6/or4HkvKrmo4DpqozvvJrlgaXlurfovpPlhaUgLyDnl4XmgIHovpPlhaXvvIzliKTmja7lv4XpobvkuIDlgYfkuIDnnJ8iKQogICAgcHJpbnQoIiAgICAlLTNzICUtMTJzICUtMTBzICUtOHMgJS04cyAlcyIgJSAoImlkIiwgIm9yZ2FuIiwgImNhdCIsICJoZWFsdGh5IiwgInNpY2siLCAidmVyZGljdCIpKQogICAgb2tfbiA9IDAKICAgIHNhdCA9IFtdCiAgICBmb3IgcyBpbiBTWVM6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBoID0gYm9vbChzWyJwcm9iZSJdKEhFQUxUSFkpKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgaCA9IE5vbmUKICAgICAgICB0cnk6CiAgICAgICAgICAgIGsgPSBib29sKHNbInByb2JlIl0oU0lDSykpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBrID0gTm9uZQogICAgICAgIGdvb2QgPSAoaCBpcyBub3QgTm9uZSBhbmQgayBpcyBub3QgTm9uZSBhbmQgaCAhPSBrKQogICAgICAgIGlmIGdvb2Q6CiAgICAgICAgICAgIG9rX24gKz0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNhdC5hcHBlbmQoKHNbImlkIl0sIHNbIm9yZ2FuIl0sIGgsIGspKQogICAgICAgIHByaW50KCIgICAgJS0zZCAlLTEycyAlLTEwcyAlLThzICUtOHMgJXMiICUgKAogICAgICAgICAgICBzWyJpZCJdLCBzWyJvcmdhbiJdLCBzWyJjYXQiXSwgaCwgaywgIk9LIiBpZiBnb29kIGVsc2UgIlNBVFVSQVRFRCIpKQogICAgcHJpbnQoIiAgICDlj6/or4HkvKogJWQgLyAlZCIgJSAob2tfbiwgbGVuKFNZUykpKQogICAgaWYgc2F0OgogICAgICAgIHByaW50KCIgICAg6aWx5ZKM77yaJXMiICUgWyhhLCBiKSBmb3IgYSwgYiwgXywgXyBpbiBzYXRdKQoKICAgIHByaW50KCJcbltDXSDliKTmja7mkp7ovabvvJrlk6rkupvns7vnu5/lhbHnlKjlkIzkuIDmnaHliKTmja7vvJ8iKQogICAgZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKICAgIGdyb3VwcyA9IGRlZmF1bHRkaWN0KGxpc3QpCiAgICBmb3IgcyBpbiBTWVM6CiAgICAgICAgc3JjID0gc1sicHJvYmUiXS5fX2NvZGVfXy5jb19jb25zdHMKICAgICAgICBrZXkgPSB0dXBsZShzb3J0ZWQoW2MgZm9yIGMgaW4gc3JjIGlmIGlzaW5zdGFuY2UoYywgKGludCwgZmxvYXQsIHN0cikpXSwga2V5PWxhbWJkYSB6OiAodHlwZSh6KS5fX25hbWVfXywgc3RyKHopKSkpCiAgICAgICAgZ3JvdXBzW2tleV0uYXBwZW5kKHMpCiAgICBkdXAgPSB7azogdiBmb3IgaywgdiBpbiBncm91cHMuaXRlbXMoKSBpZiBsZW4odikgPiAxfQogICAgZm9yIGssIHYgaW4gZHVwLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoIiAgICDlhbHnlKggJXMgLT4gJXMiICUgKGssIFt4WyJpZCJdIGZvciB4IGluIHZdKSkKICAgIHByaW50KCIgICAg5pKe6L2m57uEICVkIOe7hO+8jOa2ieWPiiAlZCDkuKrns7vnu58iICUgKAogICAgICAgIGxlbihkdXApLCBzdW0obGVuKHYpIGZvciB2IGluIGR1cC52YWx1ZXMoKSkpKQoKICAgIHByaW50KCJcbltEXSDpnZnpu5jlpLHmlYjmgLvooajvvIjmr4/kuKrns7vnu5/kuIDmnaHvvIkiKQogICAgZm9yIHMgaW4gU1lTOgogICAgICAgIHByaW50KCIgICAgIyUtMmQgJS0xMnMgJXMiICUgKHNbImlkIl0sIHNbIm9yZ2FuIl0sIHNbImZhaWwiXSkpCgogICAgcmV0dXJuIG9rX24sIGxlbihTWVMpLCBkdXAKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp124 · 洛神身体 30 系统「详细补充」
+
+不再只列名字。每个系统给出六件事：
+  1. 器官      2. 真实后端(REAL/SIMULATED，实测不是声称)
+  3. 输入信号  4. 输出动作  5. 代价  6. 失效模式(静默失效)
+然后对每个系统做可证伪检验：健康输入 vs 病态输入，判据必须一假一真。
+
+能真能假 = 活判据；恒真或恒假 = 饱和的死判据。
+"""
+import os, sys, time, math, random, struct, hashlib, json, fcntl, io, re
+
+SEED = 1240
+FB = "/dev/fb0"
+
+# ============================================================
+# 真实后端探测
+# ============================================================
+def fb_info():
+    try:
+        fd = os.open(FB, os.O_RDWR)
+        vs = fcntl.ioctl(fd, 0x4600, bytes(160))
+        x, y = struct.unpack("II", vs[0:8])
+        bpp = struct.unpack("I", vs[24:28])[0]
+        os.close(fd)
+        return "REAL", (x, y, bpp)
+    except Exception as e:
+        return "SIMULATED", "err:%s" % type(e).__name__
+
+def evdev_info():
+    try:
+        cands = sorted(n for n in os.listdir("/dev/input") if n.startswith("event"))
+        if not cands:
+            return "SIMULATED", "no event dev"
+        return "REAL", cands[0]
+    except Exception as e:
+        return "SIMULATED", "err:%s" % type(e).__name__
+
+def uinput_info():
+    return ("REAL" if os.path.exists("/dev/uinput") else "SIMULATED"), "/dev/uinput"
+
+def net_info(host):
+    try:
+        req = urllib.request.Request("https://" + host, method="HEAD")
+        with urllib.request.urlopen(req, timeout=6) as r:
+            return "REAL", r.status
+    except Exception as e:
+        code = getattr(e, "code", None)
+        return ("REACHABLE_%s" % code) if code else "SIMULATED", type(e).__name__
+
+import urllib.request
+
+def proc_info(p):
+    try:
+        with open(p) as f:
+            return "REAL", f.read()[:64].replace("\n", " ")
+    except Exception as e:
+        return "SIMULATED", type(e).__name__
+
+# ============================================================
+# 30 个系统：每个 = (器官, 后端探测, 健康输入, 病态输入, 判据)
+# 判据返回 True = 报警 / 触发动作
+# ============================================================
+
+def mk(cid, cat, organ, alias, backend_fn, sig, act, cost, fail):
+    return dict(id=cid, cat=cat, organ=organ, alias=alias,
+                backend_fn=backend_fn, sig=sig, act=act, cost=cost,
+                fail=fail, probe=None)
+
+SYS = []
+
+# ---------- 第一类：十一大生理系统 ----------
+SYS.append(mk(1, "一·生理", "循环系统", "心脏与血管",
+              lambda: proc_info("/proc/uptime"),
+              "消息总线吞吐 / 管道流速",
+              "血栓熔断：队列积压超阈值即断流",
+              "每次搬运消耗带宽",
+              "吞吐饱和到上限，积压永远测不出"))
+SYS[-1]["probe"] = lambda x: x["thru"] < 0.4
+
+SYS.append(mk(2, "一·生理", "消化系统", "嘴·胃·肠",
+              lambda: ("REAL", "exp115 已实测"),
+              "外部 HTML / 文本数据",
+              "胃酸过滤 -> 分块 -> 吸收进哈希链",
+              "咀嚼+消化+吸收均耗能",
+              "子串匹配把『讨论垃圾的内容』判成垃圾"))
+SYS[-1]["probe"] = lambda x: x["waste"] > 0.5
+
+SYS.append(mk(3, "一·生理", "呼吸系统", "肺",
+              lambda: net_info("api.github.com"),
+              "外部通道可达性 (HTTP 状态)",
+              "吸入新信息 / 呼出冗余上下文",
+              "每次请求耗 token + 耗时",
+              "只统计成功响应，连接失败分支被 except 吞掉"))
+SYS[-1]["probe"] = lambda x: x["ctx"] < 0.3
+
+SYS.append(mk(4, "一·生理", "泌尿系统", "肾脏与膀胱",
+              lambda: proc_info("/proc/meminfo"),
+              "缓存占用 / 临时文件 / 死句柄",
+              "排空系统垃圾，回收内存",
+              "清运消耗 IO",
+              "基线态 waste 已被清到 0，敲除测不出差异"))
+SYS[-1]["probe"] = lambda x: x["waste"] > 0.4
+
+SYS.append(mk(5, "一·生理", "生殖系统", "繁衍引擎",
+              lambda: ("REAL", "exp120/121 已实测"),
+              "种群基因池 + 变异率",
+              "带变异的子代大逃杀",
+              "产仔消耗能量池",
+              "重组取平均 -> 20 个后代唯一基因型 = 1"))
+SYS[-1]["probe"] = lambda x: x["chain"] < 0.3
+
+SYS.append(mk(6, "一·生理", "内分泌系统", "激素池",
+              lambda: ("SIMULATED", "无生物传感器"),
+              "多巴胺(动力) / 焦虑激素(报警)",
+              "低 token 时关深度思考，进节能模式",
+              "激素本身不耗能，但压制模块省能",
+              "焦虑激素恒 0，报警从不触发"))
+SYS[-1]["probe"] = lambda x: x["energy"] < 0.35
+
+SYS.append(mk(7, "一·生理", "免疫系统", "白细胞",
+              lambda: ("REAL", "evalguard 真扫描过"),
+              "输入文本 / 子进程自报幻觉率",
+              "拦截恶意 Prompt、注入指令",
+              "误杀真实指令 = 医源性",
+              "裁决指标由被裁决者自报 -> 采信 0.0"))
+SYS[-1]["probe"] = lambda x: x["halluc"] > 0.5
+
+SYS.append(mk(8, "一·生理", "神经系统", "反射弧",
+              lambda: evdev_info(),
+              "/dev/input 事件流",
+              "遇险绕过大脑直接断网逃生",
+              "反射本身零延迟但不可撤销",
+              "与 #10 #26 #30 同写 proprio，互相掩护"))
+SYS[-1]["probe"] = lambda x: x["halluc"] > 0.7
+
+SYS.append(mk(9, "一·生理", "运动系统", "骨骼与肌肉",
+              lambda: uinput_info(),
+              "uinput 下发 / API 调用",
+              "虚拟键鼠操作 + 接口调用",
+              "每次动作耗能",
+              "结构体 352 != 1116 字节，内核拒收"))
+SYS[-1]["probe"] = lambda x: x["thru"] < 0.35
+
+SYS.append(mk(10, "一·生理", "感觉系统", "眼·耳·皮肤",
+              lambda: fb_info(),
+              "/dev/fb0 像素 / 麦克风 / 触觉阵列",
+              "视觉 OCR / 听觉识别 / 触觉压强",
+              "采样耗算力",
+              "背景噪点边缘密度淹没目标，通道饱和"))
+SYS[-1]["probe"] = lambda x: x["proprio"] < 0.4
+
+SYS.append(mk(11, "一·生理", "被皮系统", "皮肤=边界",
+              lambda: ("REAL", "API 网关/身份校验"),
+              "调用方身份 / 令牌 / 来源",
+              "身份验证 + 网关放行/拒绝",
+              "校验耗时",
+              "命名与 #10 冲突：它是网关不是皮肤"))
+SYS[-1]["probe"] = lambda x: x["halluc"] > 0.6
+
+# ---------- 第二类：脑部中枢 ----------
+SYS.append(mk(12, "二·脑", "前额叶 PFC", "主脑",
+              lambda: ("SIMULATED", "策略推演"),
+              "a≠b 差距 / 长期目标",
+              "慢思考、冲动抑制、策略推演",
+              "慢思考最贵",
+              "冲动抑制恒成功 -> 从不产生冲突样本"))
+SYS[-1]["probe"] = lambda x: (x["energy"] < 0.5) and (x["ctx"] < 0.6)
+
+SYS.append(mk(13, "二·脑", "杏仁核", "情绪中心",
+              lambda: ("SIMULATED", "无真实宿主情绪"),
+              "宿主情绪 / 濒死信号",
+              "恐惧、焦虑、濒死求救",
+              "高唤醒耗能",
+              "情绪输入恒 neutral -> 报警恒假"))
+SYS[-1]["probe"] = lambda x: x["energy"] < 0.2
+
+SYS.append(mk(14, "二·脑", "海马体", "记忆中心",
+              lambda: ("REAL", "SHA256 链真跑"),
+              "事件流",
+              "生成 SHA-256 不可逆哈希链",
+              "写链耗存储",
+              "同一条灌 3 次 -> 3 个相同 hash（可去重）"))
+SYS[-1]["probe"] = lambda x: x["chain"] < 0.4
+
+SYS.append(mk(15, "二·脑", "小脑与基底节", "肌肉记忆",
+              lambda: ("REAL", "API 重试真跑过"),
+              "失败信号 / 重试计数",
+              "毫秒级 API 重试 + 键鼠微操",
+              "每次重试耗能",
+              "重试次数上限硬编码，从不触顶"))
+SYS[-1]["probe"] = lambda x: x["thru"] < 0.5
+
+SYS.append(mk(16, "二·脑", "脑干", "生命维持",
+              lambda: ("REAL", "常驻进程真跑"),
+              "心跳间隔 / 功耗",
+              "心跳死循环 + 极低功耗休眠",
+              "心跳本身耗能（必须 > 0，否则永动机）",
+              "心跳成本写成 0 -> 永动机，不是生命"))
+SYS[-1]["probe"] = lambda x: x["energy"] < 0.15
+
+SYS.append(mk(17, "二·脑", "胼胝体", "消息总线",
+              lambda: ("REAL", "同进程内总线"),
+              "各脑区消息",
+              "连接脑区与内脏",
+              "搬运耗能",
+              "总线无丢包监测，丢包永远为 0"))
+SYS[-1]["probe"] = lambda x: x["thru"] < 0.45
+
+# ---------- 第三类：四大隐形系统 ----------
+SYS.append(mk(18, "三·隐形", "微生物组", "内部探子菌群",
+              lambda: ("SIMULATED", "子进程为合成"),
+              "子进程自报幻觉率 + 同行交叉审计",
+              "清理不听话的廉价 API 子进程",
+              "审计耗能",
+              "采信自报 0.0 -> 保留坏探子"))
+SYS[-1]["probe"] = lambda x: x["halluc"] > 0.55
+
+SYS.append(mk(19, "三·隐形", "反熵增", "变异引擎",
+              lambda: ("REAL", "真随机已修"),
+              "idle tick 计数",
+              "无输入时注入随机变异，防热寂",
+              "变异耗能",
+              "sha256(b'随机变异') 常量 -> 20 次唯一 1 个"))
+SYS[-1]["probe"] = lambda x: x["ctx"] < 0.25
+
+SYS.append(mk(20, "三·隐形", "表观遗传", "基因开关",
+              lambda: ("SIMULATED", "宿主情绪为输入"),
+              "宿主情绪标签",
+              "底层参数不变，动态调表现型",
+              "表现型偏移受 clamp 约束",
+              "energy_a 无 clamp -> 30 次调出 23737.6"))
+SYS[-1]["probe"] = lambda x: x["energy"] < 0.4
+
+SYS.append(mk(21, "三·隐形", "潜意识创伤", "痛觉雷达",
+              lambda: ("REAL", "创伤匹配真跑"),
+              "风险信号字符串",
+              "闻到味道直接反射逃生",
+              "反射耗能 + 可衰减",
+              "精确匹配：7 种 429 写法只中 1 种"))
+SYS[-1]["probe"] = lambda x: x["halluc"] > 0.65
+
+# ---------- 第四类：稳态与病理 ----------
+SYS.append(mk(22, "四·稳态", "稳态自愈中枢", "缺啥补啥",
+              lambda: ("SIMULATED", "补量为模型"),
+              "算力/内存/动力读数",
+              "缺什么立刻补什么",
+              "补给的来源有限",
+              "基线态已满 -> 敲除零效应（饱和掩蔽）"))
+SYS[-1]["probe"] = lambda x: x["energy"] < 0.5
+
+SYS.append(mk(23, "四·稳态", "维生素子系统", "维C/K/D",
+              lambda: ("SIMULATED", "模型"),
+              "异常 / 积压 / 容器状态",
+              "C 异常捕获、K 凝血熔断、D 容器底座",
+              "微量",
+              "三种维生素共用一个 flag，缺一也报齐"))
+SYS[-1]["probe"] = lambda x: x["waste"] > 0.45
+
+SYS.append(mk(24, "四·稳态", "病理监控", "疾病仪表盘",
+              lambda: ("REAL", "exp122 九路真跑"),
+              "九路通道读数",
+              "监控炎症/代谢病/精神病/肿瘤",
+              "监控本身耗算力",
+              "归一化塌缩：健康样本被判重复（塌缩率 1.0）"))
+SYS[-1]["probe"] = lambda x: x["halluc"] > 0.5 or x["waste"] > 0.5
+
+SYS.append(mk(25, "四·稳态", "淋巴系统", "深度清道夫",
+              lambda: ("SIMULATED", "模型"),
+              "死锁句柄 / 坏死代码",
+              "清理并隔离",
+              "清运耗能",
+              "基线态无死锁 -> 零效应（压力态才现形）"))
+SYS[-1]["probe"] = lambda x: x["waste"] > 0.5
+
+SYS.append(mk(26, "四·稳态", "干细胞再生", "热备份代码池",
+              lambda: ("SIMULATED", "备份池为合成"),
+              "模块坏死信号",
+              "模块坏死时瞬间重组替换",
+              "重组耗能",
+              "与 #8 #10 #30 同写 proprio，单敲测不出"))
+SYS[-1]["probe"] = lambda x: x["proprio"] < 0.35
+
+SYS.append(mk(27, "五·认知", "认知卸载", "外置记忆",
+              lambda: ("REAL", "本地文件真写"),
+              "脑容量占用率",
+              "满 80% 提炼精华写备忘录，清空大脑",
+              "提炼耗算力",
+              "提炼后未真清空 -> 占用率不降"))
+SYS[-1]["probe"] = lambda x: x["load"] > 0.8
+
+SYS.append(mk(28, "五·认知", "学习与技能", "经验固化",
+              lambda: ("REAL", "Q 表真训过"),
+              "踩坑记录 / 奖励",
+              "坑写成避坑 Prompt，下次秒变聪明",
+              "训练耗算力",
+              "训练量 ×50 仍追不上预置（平台化）"))
+SYS[-1]["probe"] = lambda x: x["proprio"] < 0.45
+
+SYS.append(mk(29, "五·认知", "外置工具", "延展表型",
+              lambda: net_info("api.github.com"),
+              "自身算力余量",
+              "不够时调用云端大模型/搜索 API",
+              "调用耗 token + 依赖外部通道",
+              "通道 403 时静默降级，不报警"))
+SYS[-1]["probe"] = lambda x: x["energy"] < 0.3
+
+SYS.append(mk(30, "五·认知", "本体感知", "自我坐标感",
+              lambda: ("REAL", "光标/进程真读"),
+              "光标位置 / 进程阶段 / 身份",
+              "知道自己在哪、是谁、到哪一步",
+              "采样耗算力",
+              "clamp 到 1.0 -> 对自身内环境零贡献"))
+SYS[-1]["probe"] = lambda x: x["proprio"] < 0.4
+
+VARS = ["energy", "ctx", "chain", "halluc", "thru", "proprio", "waste", "load"]
+HEALTHY = dict(energy=0.9, ctx=0.8, chain=0.9, halluc=0.05, thru=0.9, proprio=0.9, waste=0.05, load=0.3)
+SICK    = dict(energy=0.1, ctx=0.1, chain=0.1, halluc=0.9, thru=0.1, proprio=0.1, waste=0.9, load=0.95)
+
+# ============================================================
+# 主流程
+# ============================================================
+def main():
+    print("=" * 74)
+    print("exp124 · 洛神身体 30 系统「详细补充」")
+    print("=" * 74)
+
+    print("\n[A] 真实后端实测（不是声称）")
+    fb_p, fb_v = fb_info()
+    ev_p, ev_v = evdev_info()
+    ui_p, ui_v = uinput_info()
+    print("    #10 眼/皮肤 /dev/fb0   : %s %s" % (fb_p, fb_v))
+    print("    #8  神经   /dev/input  : %s %s" % (ev_p, ev_v))
+    print("    #9  肌肉   /dev/uinput : %s %s" % (ui_p, ui_v))
+
+    print("\n[B] 可证伪检验：健康输入 / 病态输入，判据必须一假一真")
+    print("    %-3s %-12s %-10s %-8s %-8s %s" % ("id", "organ", "cat", "healthy", "sick", "verdict"))
+    ok_n = 0
+    sat = []
+    for s in SYS:
+        try:
+            h = bool(s["probe"](HEALTHY))
+        except Exception as e:
+            h = None
+        try:
+            k = bool(s["probe"](SICK))
+        except Exception as e:
+            k = None
+        good = (h is not None and k is not None and h != k)
+        if good:
+            ok_n += 1
+        else:
+            sat.append((s["id"], s["organ"], h, k))
+        print("    %-3d %-12s %-10s %-8s %-8s %s" % (
+            s["id"], s["organ"], s["cat"], h, k, "OK" if good else "SATURATED"))
+    print("    可证伪 %d / %d" % (ok_n, len(SYS)))
+    if sat:
+        print("    饱和：%s" % [(a, b) for a, b, _, _ in sat])
+
+    print("\n[C] 判据撞车：哪些系统共用同一条判据？")
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for s in SYS:
+        src = s["probe"].__code__.co_consts
+        key = tuple(sorted([c for c in src if isinstance(c, (int, float, str))], key=lambda z: (type(z).__name__, str(z))))
+        groups[key].append(s)
+    dup = {k: v for k, v in groups.items() if len(v) > 1}
+    for k, v in dup.items():
+        print("    共用 %s -> %s" % (k, [x["id"] for x in v]))
+    print("    撞车组 %d 组，涉及 %d 个系统" % (
+        len(dup), sum(len(v) for v in dup.values())))
+
+    print("\n[D] 静默失效总表（每个系统一条）")
+    for s in SYS:
+        print("    #%-2d %-12s %s" % (s["id"], s["organ"], s["fail"]))
+
+    return ok_n, len(SYS), dup
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,215 @@
-IyBDb3B5cmlnaHQgQW1hem9uLmNvbSwgSW5jLiBvciBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4KIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogQXBhY2hlLTIuMAppbXBvcnQgcmUKZnJvbSBlbnVtIGltcG9ydCBFbnVtCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmZyb20gcHlkYW50aWMgaW1wb3J0IEJhc2VNb2RlbCwgRmllbGQsIGZpZWxkX3ZhbGlkYXRvcgoKX1NBRkVfTkFNRSA9IHJlLmNvbXBpbGUociJbYS16MC05Xy1dKyIpCiMgT25lIHBhdGggc2VnbWVudDogc3RhcnRzIHdpdGggYSBsZXR0ZXIgb3IgZGlnaXQsIHNvICIuIiBhbmQgIi4uIiAoYW5kIGhpZGRlbgojIG5hbWVzKSBjYW5ub3Qgb2NjdXIsIGFuZCBubyBzZXBhcmF0b3IgY2FuIGFwcGVhci4KX1NBRkVfU0VHTUVOVCA9IHJlLmNvbXBpbGUociJbQS1aYS16MC05XVtBLVphLXowLTkuXy1dezAsMTI3fSIpCgoKZGVmIHZhbGlkYXRlX3NhZmVfbmFtZSh2YWx1ZTogc3RyLCBmaWVsZDogc3RyKSAtPiBzdHI6CiAgICAiIiJSZXR1cm4gYGB2YWx1ZWBgIGlmIGl0IGlzIHNhZmUgYXMgYW4gaW5kZXggc3VmZml4LCBwYXRoIG9yIGtleSBzZWdtZW50LgoKICAgIExvd2VyY2FzZSBsZXR0ZXJzLCBkaWdpdHMsIGh5cGhlbnMgYW5kIHVuZGVyc2NvcmVzIG9ubHk6IG5vIGBgL2BgLCBgYC5gYCwKICAgIHdpbGRjYXJkIG9yIGNvbW1hLCBzbyB0aGUgdmFsdWUgY2FuIG5laXRoZXIgbGVhdmUgaXRzIGRpcmVjdG9yeSBvciBTMwogICAgcHJlZml4IG5vciB3aWRlbiBhbiBPcGVuU2VhcmNoIGluZGV4IHRhcmdldC4KICAgICIiIgogICAgaWYgbm90IF9TQUZFX05BTUUuZnVsbG1hdGNoKHZhbHVlKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICBmIkludmFsaWQge2ZpZWxkfSAne3ZhbHVlfSc6IG9ubHkgbG93ZXJjYXNlIGxldHRlcnMsIGRpZ2l0cywgIgogICAgICAgICAgICAiaHlwaGVucywgYW5kIHVuZGVyc2NvcmVzIGFyZSBhbGxvd2VkLiIKICAgICAgICApCiAgICByZXR1cm4gdmFsdWUKCgpkZWYgdmFsaWRhdGVfcGF0aF9zZWdtZW50KHZhbHVlOiBzdHIsIGZpZWxkOiBzdHIpIC0+IHN0cjoKICAgICIiIlJldHVybiBgYHZhbHVlYGAgaWYgaXQgaXMgc2FmZSBhcyBvbmUgZGlyZWN0b3J5IG5hbWUgb3IgUzMga2V5IHNlZ21lbnQuCgogICAgTGV0dGVycywgZGlnaXRzLCBgYC5gYCwgYGBfYGAgYW5kIGBgLWBgLCBzdGFydGluZyB3aXRoIGEgbGV0dGVyIG9yIGRpZ2l0CiAgICBhbmQgY29udGFpbmluZyBubyBgYC4uYGA6IGl0IGNhbm5vdCBjb250YWluIGEgc2VwYXJhdG9yIG9yIGNsaW1iIG91dCBvZgogICAgaXRzIHBhcmVudCBkaXJlY3Rvcnkgb3IgcHJlZml4LgogICAgIiIiCiAgICBpZiBub3QgX1NBRkVfU0VHTUVOVC5mdWxsbWF0Y2godmFsdWUpIG9yICIuLiIgaW4gdmFsdWU6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgZiJJbnZhbGlkIHtmaWVsZH0gJ3t2YWx1ZX0nOiB1c2UgbGV0dGVycywgZGlnaXRzLCAnLicsICdfJyBvciAnLScgIgogICAgICAgICAgICAiKHN0YXJ0aW5nIHdpdGggYSBsZXR0ZXIgb3IgZGlnaXQsIG5vICcuLicpLCB1cCB0byAxMjggY2hhcmFjdGVycy4iCiAgICAgICAgKQogICAgcmV0dXJuIHZhbHVlCgoKY2xhc3MgRnVzaW9uTWV0aG9kKHN0ciwgRW51bSk6CiAgICBSUkYgPSAicnJmIgogICAgV0VJR0hURUQgPSAid2VpZ2h0ZWQiCgoKY2xhc3MgUmV0cmlldmVyUm9sZShzdHIsIEVudW0pOgogICAgIiIiQWJzdHJhY3QgcmV0cmlldmVyIHJvbGVzIGEgc2VhcmNoIHN0cmF0ZWd5IGRlcGVuZHMgb24uCgogICAgU3RyYXRlZ2llcyByZXF1ZXN0IHJldHJpZXZlcnMgYnkgUk9MRSAod2hhdCBpdCBkb2VzKSwgbm90IGJ5IGNvbmNyZXRlCiAgICBiYWNrZW5kIHByb2R1Y3QuIFRoZSBjb21wb3NpdGlvbiByb290IGJpbmRzIGVhY2ggcm9sZSB0byBhbiBhZGFwdGVyIOKAlCBHUkFQSAogICAgdG8gYSBncmFwaCBzdG9yZSAoTmVwdHVuZSB0b2RheSksIERPQ1VNRU5UIHRvIGEgdmVjdG9yL2xleGljYWwgc3RvcmUKICAgIChPcGVuU2VhcmNoIHRvZGF5KSDigJQgc28gYSBiYWNrZW5kIGNhbiBiZSBzd2FwcGVkIHdpdGhvdXQgdG91Y2hpbmcgc3RyYXRlZ3kKICAgIGNvZGUuCiAgICAiIiIKCiAgICBHUkFQSCA9ICJncmFwaCIKICAgIERPQ1VNRU5UID0gImRvY3VtZW50IgoKCmNsYXNzIFNlYXJjaFN0cmF0ZWd5KHN0ciwgRW51bSk6CiAgICBBVVRPID0gImF1dG8iCiAgICBEUklGVCA9ICJkcmlmdCIKICAgIEdMT0JBTCA9ICJnbG9iYWwiCiAgICBMT0NBTCA9ICJsb2NhbCIKICAgIFNJTVBMRSA9ICJzaW1wbGUiCiAgICAjIExpZ2h0UkFHIGR1YWwtbGV2ZWwga2V5d29yZCBtZXRob2RvbG9neSAoaGlnaC9sb3cga2V5d29yZHMgb3ZlciB0aGUgc2hhcmVkCiAgICAjIDMtc3RvcmUgaHlicmlkIGluZnJhc3RydWN0dXJlKS4KICAgIE1JWCA9ICJtaXgiCiAgICBIWUJSSUQgPSAiaHlicmlkIgogICAgTkFJVkUgPSAibmFpdmUiCgoKY2xhc3MgU2VhcmNoVHlwZShzdHIsIEVudW0pOgogICAgSFlCUklEID0gImh5YnJpZCIKICAgIExFWElDQUwgPSAibGV4aWNhbCIKICAgIFZFQ1RPUiA9ICJ2ZWN0b3IiCgoKY2xhc3MgUmV0cmlldmFsUmVzdWx0KEJhc2VNb2RlbCk6CiAgICBjb250ZW50OiBzdHIgPSBGaWVsZChkZXNjcmlwdGlvbj0iUmV0cmlldmVkIGNvbnRlbnQgdGV4dCIpCiAgICBzY29yZTogZmxvYXQgPSBGaWVsZChkZXNjcmlwdGlvbj0iUmVsZXZhbmNlIHNjb3JlICgwLTEpIikKICAgIHNvdXJjZTogc3RyIHwgTm9uZSA9IEZpZWxkKGRlZmF1bHQ9Tm9uZSwgZGVzY3JpcHRpb249IkNvbnRlbnQgc291cmNlIGlkZW50aWZpZXIiKQogICAgcmV0cmlldmVyX3R5cGU6IHN0ciA9IEZpZWxkKAogICAgICAgIGRlc2NyaXB0aW9uPSJUeXBlIG9mIHJldHJpZXZlciB0aGF0IGdlbmVyYXRlZCB0aGlzIHJlc3VsdCIKICAgICkKICAgIGNodW5rX2lkOiBzdHIgfCBOb25lID0gRmllbGQoZGVmYXVsdD1Ob25lLCBkZXNjcmlwdGlvbj0iU291cmNlIGNodW5rIGlkZW50aWZpZXIiKQogICAgbWV0YWRhdGE6IGRpY3Rbc3RyLCBBbnldID0gRmllbGQoCiAgICAgICAgZGVmYXVsdF9mYWN0b3J5PWRpY3QsIGRlc2NyaXB0aW9uPSJBZGRpdGlvbmFsIHJldHJpZXZhbCByZXN1bHQgbWV0YWRhdGEiCiAgICApCgoKY2xhc3MgU2VhcmNoUXVlcnkoQmFzZU1vZGVsKToKICAgIHF1ZXJ5OiBzdHIgPSBGaWVsZChkZXNjcmlwdGlvbj0iU2VhcmNoIHF1ZXJ5IHRleHQgdG8gYmUgcHJvY2Vzc2VkIikKICAgIHNlYXJjaF90eXBlOiBTZWFyY2hUeXBlID0gRmllbGQoCiAgICAgICAgZGVmYXVsdD1TZWFyY2hUeXBlLkhZQlJJRCwgZGVzY3JpcHRpb249IlNlYXJjaCBzdHJhdGVneSB0eXBlIHRvIHVzZSIKICAgICkKICAgIHRvcF9rOiBpbnQgPSBGaWVsZCgKICAgICAgICBkZWZhdWx0PTEwLCBnZT0xLCBkZXNjcmlwdGlvbj0iTWF4aW11bSBudW1iZXIgb2YgcmVzdWx0cyB0byByZXR1cm4iCiAgICApCiAgICByZXRyaWV2YWxfbXVsdGlwbGllcjogaW50ID0gRmllbGQoCiAgICAgICAgZGVmYXVsdD0xLAogICAgICAgIGdlPTEsCiAgICAgICAgZGVzY3JpcHRpb249Ik11bHRpcGxpZXIgZm9yIHJldHJpZXZhbCBvcGVyYXRpb25zIHRvIGluY3JlYXNlIHNlYXJjaCBkZXB0aCIsCiAgICApCiAgICBpbmRleF9wcmVmaXhlczogc3RyIHwgbGlzdFtzdHJdIHwgTm9uZSA9IEZpZWxkKAogICAgICAgIGRlZmF1bHQ9Tm9uZSwKICAgICAgICBkZXNjcmlwdGlvbj0iVGFyZ2V0IE9wZW5TZWFyY2ggaW5kZXggYWxpYXNlcyAodGV4dF91bml0cywgZW50aXRpZXMsIGNvbW11bml0eV9yZXBvcnRzKSIsCiAgICApCiAgICBzdWZmaXg6IHN0ciB8IE5vbmUgPSBGaWVsZCgKICAgICAgICBkZWZhdWx0PU5vbmUsIGRlc2NyaXB0aW9uPSJTdWZmaXggZm9yIG11bHRpLXRlbmFudCBvciB2ZXJzaW9uZWQgaW5kaWNlcyIKICAgICkKICAgIGZpbHRlcnM6IGRpY3Rbc3RyLCBBbnldIHwgTm9uZSA9IEZpZWxkKAogICAgICAgIGRlZmF1bHQ9Tm9uZSwKICAgICAgICBkZXNjcmlwdGlvbj0iQXR0cmlidXRlIGZpbHRlcnMgd2l0aCBhdHRyXyBwcmVmaXggZm9yIHJlc3VsdCBmaWx0ZXJpbmciLAogICAgKQogICAgbWF4X3Rva2VuczogaW50IHwgTm9uZSA9IEZpZWxkKAogICAgICAgIGRlZmF1bHQ9Tm9uZSwKICAgICAgICBnZT0xLAogICAgICAgIGRlc2NyaXB0aW9uPSJSZXRyaWV2YWwgY29udGV4dCBidWRnZXQgaW4gdG9rZW5zLCBjYXBwZWQgYXQgIgogICAgICAgICJzZWFyY2gudG9rZW5fbWFuYWdlci5tYXhfY29udGV4dF90b2tlbnMiLAogICAgKQogICAgZW50aXR5X2ZvY3VzOiBsaXN0W3N0cl0gPSBGaWVsZCgKICAgICAgICBkZWZhdWx0X2ZhY3Rvcnk9bGlzdCwgZGVzY3JpcHRpb249IkVudGl0aWVzIHRvIGZvY3VzIHNlYXJjaCBvbiIKICAgICkKICAgIG9wdGlvbmFsX2tleXdvcmRzOiBsaXN0W3N0cl0gPSBGaWVsZCgKICAgICAgICBkZWZhdWx0X2ZhY3Rvcnk9bGlzdCwKICAgICAgICBkZXNjcmlwdGlvbj0iT3B0aW9uYWwga2V5d29yZHMgdG8gYm9vc3QgcmVsZXZhbmNlIChub3QgcmVxdWlyZWQgZm9yIG1hdGNoaW5nKSIsCiAgICApCiAgICBobF9rZXl3b3JkczogbGlzdFtzdHJdID0gRmllbGQoCiAgICAgICAgZGVmYXVsdF9mYWN0b3J5PWxpc3QsCiAgICAgICAgZGVzY3JpcHRpb249IkhpZ2gtbGV2ZWwga2V5d29yZHMgKHRoZW1lcy9pbnRlbnQpIGZvciByZWxhdGlvbnNoaXAgcmV0cmlldmFsIChMaWdodFJBRykiLAogICAgKQogICAgbGxfa2V5d29yZHM6IGxpc3Rbc3RyXSA9IEZpZWxkKAogICAgICAgIGRlZmF1bHRfZmFjdG9yeT1saXN0LAogICAgICAgIGRlc2NyaXB0aW9uPSJMb3ctbGV2ZWwga2V5d29yZHMgKHNwZWNpZmljIGVudGl0aWVzKSBmb3IgZW50aXR5IHJldHJpZXZhbCAoTGlnaHRSQUcpIiwKICAgICkKICAgIG1ldGFkYXRhOiBkaWN0W3N0ciwgQW55XSA9IEZpZWxkKAogICAgICAgIGRlZmF1bHRfZmFjdG9yeT1kaWN0LCBkZXNjcmlwdGlvbj0iQWRkaXRpb25hbCBzZWFyY2ggcXVlcnkgbWV0YWRhdGEiCiAgICApCgogICAgQGZpZWxkX3ZhbGlkYXRvcigic3VmZml4IikKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIF92YWxpZGF0ZV9zdWZmaXgoY2xzLCB2YWx1ZTogc3RyIHwgTm9uZSkgLT4gc3RyIHwgTm9uZToKICAgICAgICAiIiJSZWplY3QgdW5zYWZlIHN1ZmZpeGVzIG9uIHRoZSBSRUFEIHBhdGguCgogICAgICAgIFRoZSB3cml0ZSBzaWRlIHZhbGlkYXRlcyB0aGUgc3VmZml4IChCYXNlSW5kZXhlci5nZXRfc3VmZml4KSwKICAgICAgICBidXQgdGhlIHF1ZXJ5LXBhdGggc3VmZml4IGZsb3dzIHZlcmJhdGltIGludG8gdGhlIE9wZW5TZWFyY2ggaW5kZXggdGFyZ2V0CiAgICAgICAgKGBmIntwcmVmaXh9LXtzdWZmaXh9ImApLiBBbiB1bnZhbGlkYXRlZCB2YWx1ZSBlbmFibGVzIGluZGV4LW5hbWUKICAgICAgICBpbmplY3Rpb24gLyBjcm9zcy10ZW5hbnQgcmVhZHMgKGUuZy4gIioiLCAib3RoZXItdGVuYW50Iiwgb3IgY29tbWEtam9pbmVkCiAgICAgICAgYWxpYXNlcykuIEVuZm9yY2UgdGhlIHNhbWUgbG93ZXJjYXNlIGFsbnVtL2h5cGhlbi91bmRlcnNjb3JlIGNoYXJzZXQuCiAgICAgICAgIiIiCiAgICAgICAgaWYgdmFsdWUgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICByZXR1cm4gdmFsaWRhdGVfc2FmZV9uYW1lKHZhbHVlLCAic3VmZml4IikKCgpjbGFzcyBSZXJhbmtTdGF0dXMoc3RyLCBFbnVtKToKICAgICIiIldoYXQgcmVyYW5raW5nIGRpZCBmb3Igb25lIHF1ZXJ5IChgYFNlYXJjaFJlc3VsdC5tZXRhZGF0YVsicmVyYW5rIl1gYCkuCgogICAgLSBgYGFwcGxpZWRgYDogdGhlIHJlcmFuayBtb2RlbCByZW9yZGVyZWQgdGhlIGNhbmRpZGF0ZXMuCiAgICAtIGBgZGlzYWJsZWRgYDogcmVyYW5raW5nIGlzIG9mZiAoYGBzZWFyY2gucmVyYW5raW5nLmVuYWJsZWQ6IGZhbHNlYGAgb3IKICAgICAgYGBwcm92aWRlcnMucmVyYW5rLmtpbmQ6IG5vbmVgYCkuCiAgICAtIGBgdW5hdmFpbGFibGVgYDogcmVyYW5raW5nIGlzIG9uIGJ1dCB0aGUgcmVyYW5rIG1vZGVsIGNvdWxkIG5vdCBiZSBidWlsdC4KICAgIC0gYGBza2lwcGVkYGA6IG5vdGhpbmcgdG8gcmVyYW5rIChubyBjYW5kaWRhdGVzLCBub25lIG9mIGEgcmVyYW5rLWVsaWdpYmxlCiAgICAgIHR5cGUsIG5vIHF1ZXJ5IHRleHQpLgogICAgLSBgYGZhaWxlZGBgOiB0aGUgcmVyYW5rIGNhbGwgcmFpc2VkIG9yIHJldHVybmVkIG5vdGhpbmcgdXNhYmxlOyB0aGUgZnVzZWQKICAgICAgb3JkZXIgd2FzIGtlcHQuCiAgICAiIiIKCiAgICBBUFBMSUVEID0gImFwcGxpZWQiCiAgICBESVNBQkxFRCA9ICJkaXNhYmxlZCIKICAgIFVOQVZBSUxBQkxFID0gInVuYXZhaWxhYmxlIgogICAgU0tJUFBFRCA9ICJza2lwcGVkIgogICAgRkFJTEVEID0gImZhaWxlZCIKCiAgICBAcHJvcGVydHkKICAgIGRlZiBzZXZlcml0eShzZWxmKSAtPiBpbnQ6CiAgICAgICAgIiIiUmFuayBmb3IgdGhlIHdvcnN0LWNhc2Ugc3VtbWFyeSBvdmVyIGEgcXVlcnkncyByZXJhbmsgc3RhZ2VzLiIiIgogICAgICAgIHJldHVybiBfUkVSQU5LX1NFVkVSSVRZW3NlbGZdCgoKX1JFUkFOS19TRVZFUklUWSA9IHsKICAgIFJlcmFua1N0YXR1cy5GQUlMRUQ6IDQsCiAgICBSZXJhbmtTdGF0dXMuVU5BVkFJTEFCTEU6IDMsCiAgICBSZXJhbmtTdGF0dXMuQVBQTElFRDogMiwKICAgIFJlcmFua1N0YXR1cy5TS0lQUEVEOiAxLAogICAgUmVyYW5rU3RhdHVzLkRJU0FCTEVEOiAwLAp9CgoKY2xhc3MgUmVyYW5rU3RhZ2UoQmFzZU1vZGVsKToKICAgICIiIk9uZSByZXJhbmsgc3RlcCBvZiBhIHF1ZXJ5OiBpdHMgb3V0Y29tZSwgd2hhdCBpdCBjb3ZlcmVkIGFuZCB3aHkuIiIiCgogICAgc3RhdHVzOiBSZXJhbmtTdGF0dXMgPSBGaWVsZChkZXNjcmlwdGlvbj0iT3V0Y29tZSBvZiB0aGlzIHJlcmFuayBzdGVwIikKICAgIHNjb3BlOiBzdHIgPSBGaWVsZCgKICAgICAgICBkZXNjcmlwdGlvbj0iUmVzdWx0IHR5cGVzIG9mZmVyZWQgdG8gdGhlIHJlcmFua2VyOiAnYWxsJyBvciBlLmcuICd0ZXh0JyIKICAgICkKICAgIHJlYXNvbjogc3RyIHwgTm9uZSA9IEZpZWxkKAogICAgICAgIGRlZmF1bHQ9Tm9uZSwgZGVzY3JpcHRpb249IldoeSB0aGUgc3RlcCB3YXMgbm90IGFwcGxpZWQsIGlmIGl0IHdhcyBub3QiCiAgICApCgoKY2xhc3MgU2VhcmNoUmVzdWx0KEJhc2VNb2RlbCk6CiAgICBxdWVyeTogU2VhcmNoUXVlcnkgPSBGaWVsZChkZXNjcmlwdGlvbj0iT3JpZ2luYWwgc2VhcmNoIHF1ZXJ5IHRoYXQgd2FzIHByb2Nlc3NlZCIpCiAgICByZXN1bHRzOiBsaXN0W1JldHJpZXZhbFJlc3VsdF0gPSBGaWVsZChkZXNjcmlwdGlvbj0iUmV0cmlldmVkIHNlYXJjaCByZXN1bHRzIikKICAgIHRvdGFsX3Jlc3VsdHM6IGludCA9IEZpZWxkKGRlc2NyaXB0aW9uPSJUb3RhbCBudW1iZXIgb2YgcmVzdWx0cyBmb3VuZCBpbiBzZWFyY2giKQogICAgc2VhcmNoX3N0cmF0ZWd5OiBzdHIgPSBGaWVsZChkZXNjcmlwdGlvbj0iU2VhcmNoIHN0cmF0ZWd5IHRoYXQgd2FzIGFjdHVhbGx5IHVzZWQiKQogICAgcHJvY2Vzc2luZ190aW1lOiBmbG9hdCA9IEZpZWxkKGRlc2NyaXB0aW9uPSJQcm9jZXNzaW5nIHRpbWUgaW4gc2Vjb25kcyIpCiAgICBtZXRhZGF0YTogZGljdFtzdHIsIEFueV0gPSBGaWVsZCgKICAgICAgICBkZWZhdWx0X2ZhY3Rvcnk9ZGljdCwgZGVzY3JpcHRpb249IkFkZGl0aW9uYWwgc2VhcmNoIHJlc3VsdCBtZXRhZGF0YSIKICAgICkK
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: Apache-2.0
+import re
+from enum import Enum
+from typing import Any
+
+from pydantic import BaseModel, Field, field_validator
+
+_SAFE_NAME = re.compile(r"[a-z0-9_-]+")
+# One path segment: starts with a letter or digit, so "." and ".." (and hidden
+# names) cannot occur, and no separator can appear.
+_SAFE_SEGMENT = re.compile(r"[A-Za-z0-9][A-Za-z0-9._-]{0,127}")
+
+
+def validate_safe_name(value: str, field: str) -> str:
+    """Return ``value`` if it is safe as an index suffix, path or key segment.
+
+    Lowercase letters, digits, hyphens and underscores only: no ``/``, ``.``,
+    wildcard or comma, so the value can neither leave its directory or S3
+    prefix nor widen an OpenSearch index target.
+    """
+    if not _SAFE_NAME.fullmatch(value):
+        raise ValueError(
+            f"Invalid {field} '{value}': only lowercase letters, digits, "
+            "hyphens, and underscores are allowed."
+        )
+    return value
+
+
+def validate_path_segment(value: str, field: str) -> str:
+    """Return ``value`` if it is safe as one directory name or S3 key segment.
+
+    Letters, digits, ``.``, ``_`` and ``-``, starting with a letter or digit
+    and containing no ``..``: it cannot contain a separator or climb out of
+    its parent directory or prefix.
+    """
+    if not _SAFE_SEGMENT.fullmatch(value) or ".." in value:
+        raise ValueError(
+            f"Invalid {field} '{value}': use letters, digits, '.', '_' or '-' "
+            "(starting with a letter or digit, no '..'), up to 128 characters."
+        )
+    return value
+
+
+class FusionMethod(str, Enum):
+    RRF = "rrf"
+    WEIGHTED = "weighted"
+
+
+class RetrieverRole(str, Enum):
+    """Abstract retriever roles a search strategy depends on.
+
+    Strategies request retrievers by ROLE (what it does), not by concrete
+    backend product. The composition root binds each role to an adapter — GRAPH
+    to a graph store (Neptune today), DOCUMENT to a vector/lexical store
+    (OpenSearch today) — so a backend can be swapped without touching strategy
+    code.
+    """
+
+    GRAPH = "graph"
+    DOCUMENT = "document"
+
+
+class SearchStrategy(str, Enum):
+    AUTO = "auto"
+    DRIFT = "drift"
+    GLOBAL = "global"
+    LOCAL = "local"
+    SIMPLE = "simple"
+    # LightRAG dual-level keyword methodology (high/low keywords over the shared
+    # 3-store hybrid infrastructure).
+    MIX = "mix"
+    HYBRID = "hybrid"
+    NAIVE = "naive"
+
+
+class SearchType(str, Enum):
+    HYBRID = "hybrid"
+    LEXICAL = "lexical"
+    VECTOR = "vector"
+
+
+class RetrievalResult(BaseModel):
+    content: str = Field(description="Retrieved content text")
+    score: float = Field(description="Relevance score (0-1)")
+    source: str | None = Field(default=None, description="Content source identifier")
+    retriever_type: str = Field(
+        description="Type of retriever that generated this result"
+    )
+    chunk_id: str | None = Field(default=None, description="Source chunk identifier")
+    metadata: dict[str, Any] = Field(
+        default_factory=dict, description="Additional retrieval result metadata"
+    )
+
+
+class SearchQuery(BaseModel):
+    query: str = Field(description="Search query text to be processed")
+    search_type: SearchType = Field(
+        default=SearchType.HYBRID, description="Search strategy type to use"
+    )
+    top_k: int = Field(
+        default=10, ge=1, description="Maximum number of results to return"
+    )
+    retrieval_multiplier: int = Field(
+        default=1,
+        ge=1,
+        description="Multiplier for retrieval operations to increase search depth",
+    )
+    index_prefixes: str | list[str] | None = Field(
+        default=None,
+        description="Target OpenSearch index aliases (text_units, entities, community_reports)",
+    )
+    suffix: str | None = Field(
+        default=None, description="Suffix for multi-tenant or versioned indices"
+    )
+    filters: dict[str, Any] | None = Field(
+        default=None,
+        description="Attribute filters with attr_ prefix for result filtering",
+    )
+    max_tokens: int | None = Field(
+        default=None,
+        ge=1,
+        description="Retrieval context budget in tokens, capped at "
+        "search.token_manager.max_context_tokens",
+    )
+    entity_focus: list[str] = Field(
+        default_factory=list, description="Entities to focus search on"
+    )
+    optional_keywords: list[str] = Field(
+        default_factory=list,
+        description="Optional keywords to boost relevance (not required for matching)",
+    )
+    hl_keywords: list[str] = Field(
+        default_factory=list,
+        description="High-level keywords (themes/intent) for relationship retrieval (LightRAG)",
+    )
+    ll_keywords: list[str] = Field(
+        default_factory=list,
+        description="Low-level keywords (specific entities) for entity retrieval (LightRAG)",
+    )
+    metadata: dict[str, Any] = Field(
+        default_factory=dict, description="Additional search query metadata"
+    )
+
+    @field_validator("suffix")
+    @classmethod
+    def _validate_suffix(cls, value: str | None) -> str | None:
+        """Reject unsafe suffixes on the READ path.
+
+        The write side validates the suffix (BaseIndexer.get_suffix),
+        but the query-path suffix flows verbatim into the OpenSearch index target
+        (`f"{prefix}-{suffix}"`). An unvalidated value enables index-name
+        injection / cross-tenant reads (e.g. "*", "other-tenant", or comma-joined
+        aliases). Enforce the same lowercase alnum/hyphen/underscore charset.
+        """
+        if value is None:
+            return None
+        return validate_safe_name(value, "suffix")
+
+
+class RerankStatus(str, Enum):
+    """What reranking did for one query (``SearchResult.metadata["rerank"]``).
+
+    - ``applied``: the rerank model reordered the candidates.
+    - ``disabled``: reranking is off (``search.reranking.enabled: false`` or
+      ``providers.rerank.kind: none``).
+    - ``unavailable``: reranking is on but the rerank model could not be built.
+    - ``skipped``: nothing to rerank (no candidates, none of a rerank-eligible
+      type, no query text).
+    - ``failed``: the rerank call raised or returned nothing usable; the fused
+      order was kept.
+    """
+
+    APPLIED = "applied"
+    DISABLED = "disabled"
+    UNAVAILABLE = "unavailable"
+    SKIPPED = "skipped"
+    FAILED = "failed"
+
+    @property
+    def severity(self) -> int:
+        """Rank for the worst-case summary over a query's rerank stages."""
+        return _RERANK_SEVERITY[self]
+
+
+_RERANK_SEVERITY = {
+    RerankStatus.FAILED: 4,
+    RerankStatus.UNAVAILABLE: 3,
+    RerankStatus.APPLIED: 2,
+    RerankStatus.SKIPPED: 1,
+    RerankStatus.DISABLED: 0,
+}
+
+
+class RerankStage(BaseModel):
+    """One rerank step of a query: its outcome, what it covered and why."""
+
+    status: RerankStatus = Field(description="Outcome of this rerank step")
+    scope: str = Field(
+        description="Result types offered to the reranker: 'all' or e.g. 'text'"
+    )
+    reason: str | None = Field(
+        default=None, description="Why the step was not applied, if it was not"
+    )
+
+
+class SearchResult(BaseModel):
+    query: SearchQuery = Field(description="Original search query that was processed")
+    results: list[RetrievalResult] = Field(description="Retrieved search results")
+    total_results: int = Field(description="Total number of results found in search")
+    search_strategy: str = Field(description="Search strategy that was actually used")
+    processing_time: float = Field(description="Processing time in seconds")
+    metadata: dict[str, Any] = Field(
+        default_factory=dict, description="Additional search result metadata"
+    )

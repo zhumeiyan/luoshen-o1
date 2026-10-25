@@ -1,1 +1,86 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQppbXBvcnQganNvbiwgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IGZvbnRfbWFuYWdlcgoKZm9yIGYgaW4gWyJXZW5RdWFuWWkgTWljcm8gSGVpIiwgIk5vdG8gU2FucyBDSksgU0MiLCAiU2ltSGVpIl06CiAgICB0cnk6CiAgICAgICAgZm9udF9tYW5hZ2VyLmZpbmRmb250KGYsIGZhbGxiYWNrX3RvX2RlZmF1bHQ9RmFsc2UpCiAgICAgICAgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXSA9IFtmXQogICAgICAgIGJyZWFrCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGNvbnRpbnVlCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl0gPSBGYWxzZQoKQkFTRSA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAyMDZfY29tcGV0ZSIKZCA9IGpzb24ubG9hZChvcGVuKGYie0JBU0V9L3Jlc3VsdDIwNi5qc29uIiwgZW5jb2Rpbmc9InV0Zi04IikpCmIgPSBqc29uLmxvYWQob3BlbihmIntCQVNFfS9yZXN1bHQyMDZiLmpzb24iLCBlbmNvZGluZz0idXRmLTgiKSkKYyA9IGpzb24ubG9hZChvcGVuKGYie0JBU0V9L3Jlc3VsdDIwNmMuanNvbiIsIGVuY29kaW5nPSJ1dGYtOCIpKQoKZmlnLCBheCA9IHBsdC5zdWJwbG90cygyLCAzLCBmaWdzaXplPSgxNiwgOS41KSkKCiMgMTog5aSN5Yi25a2Q5Yqo5Yqb5a2m5bSp5rqDCmEgPSBkWyJBX3JlcGxpY2F0b3IiXQpheFswLCAwXS5wbG90KGFbImVudHJvcHlfaGlzdG9yeSJdLCAiby0iLCBjb2xvcj0iI2MwMzkyYiIsIGx3PTIpCmF4WzAsIDBdLmF4aGxpbmUoMCwgbHM9Ii0tIiwgYz0iZ3JheSIsIGx3PTEpCmF4WzAsIDBdLnNldF90aXRsZSgiQSDnq57kuonmjpLmlqXvvJrlpJrmoLfmgKflv4XnhLbltKnmuoNcbijkvaDnmoTor50sIGtzPTEuLjgpIiwgZm9udHNpemU9MTEpCmF4WzAsIDBdLnNldF94bGFiZWwoIui9ruasoSIpOyBheFswLCAwXS5zZXRfeWxhYmVsKCLnp43nvqTnhrUiKQpheFswLCAwXS50ZXh0KDAuNSwgMC41LCBmIjEuNzkg4oaSIHthWydlbnRyb3B5X2VuZCddfSIsIHRyYW5zZm9ybT1heFswLCAwXS50cmFuc0F4ZXMsIGZvbnRzaXplPTEwLCBjb2xvcj0iI2MwMzkyYiIpCgojIDI6IOinhOaooeair+W6pgpuYW1lcyA9IFsic21hbGwiLCAibWlkIiwgImxhcmdlIl0KbnYgPSBbYlsic2NhbGVfc2NhbiJdW25dWyJOX292ZXJfViJdIGZvciBuIGluIG5hbWVzXQplZSA9IFtiWyJzY2FsZV9zY2FuIl1bbl1bImVudHJvcHlfZW5kIl0gZm9yIG4gaW4gbmFtZXNdCndrID0gW2JbInNjYWxlX3NjYW4iXVtuXVsid2lubmVyX2siXSBmb3IgbiBpbiBuYW1lc10KeCA9IHJhbmdlKDMpCmF4WzAsIDFdLmJhcihbaSAtIDAuMiBmb3IgaSBpbiB4XSwgZWUsIHdpZHRoPTAuNCwgY29sb3I9IiNjMDM5MmIiLCBsYWJlbD0i5pyA57uI56eN576k54a1IikKYXhbMCwgMV0uYmFyKFtpICsgMC4yIGZvciBpIGluIHhdLCBbMS4zODZdICogMywgd2lkdGg9MC40LCBjb2xvcj0iIzk1YTVhNiIsIGxhYmVsPSLliJ3lp4vnhrUiKQpmb3IgaSwgKG4sIGspIGluIGVudW1lcmF0ZSh6aXAobmFtZXMsIHdrKSk6CiAgICBheFswLCAxXS50ZXh0KGksIDEuNDUsIGYiTi9WPXtudltpXX1cbui1ouWutms9e2t9IiwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTkpCmF4WzAsIDFdLnNldF94dGlja3MobGlzdCh4KSk7IGF4WzAsIDFdLnNldF94dGlja2xhYmVscyhuYW1lcykKYXhbMCwgMV0uc2V0X3RpdGxlKCJCIOS4ieaho+i1hOa6kOinhOaooe+8muWFqOmDveW0qeWIsCAwIiwgZm9udHNpemU9MTEpCmF4WzAsIDFdLmxlZ2VuZChmb250c2l6ZT04KTsgYXhbMCwgMV0uc2V0X3lsYWJlbCgi54a1IikKCiMgMzog5L+d6Zmp5YGH6K+0CmJpID0gZFsiQl9pbnN1cmFuY2UiXQpsYmwgPSBbIuWNleS4gOacgOS8mFxuKGs9MikiLCAi55yf5aSa5qC35oCnXG4o5LiN5ZCM6Zi2KSIsICLkvKrlpJrmoLfmgKdcbijlkIzpmLbDlzMpIl0KdmFsID0gW2JpWyJtb25vX2JpdHNfdW5kZXJfc2hpZnQiXSwgYmlbInBvcnRmb2xpb19iaXRzX3VuZGVyX3NoaWZ0Il0sIGJpWyJwc2V1ZG9fZGl2ZXJzaXR5X2JpdHNfdW5kZXJfc2hpZnQiXV0KY29sID0gWyIjN2Y4YzhkIiwgIiMyN2FlNjAiLCAiI2U2N2UyMiJdCmJhcnMgPSBheFswLCAyXS5iYXIobGJsLCB2YWwsIGNvbG9yPWNvbCkKZm9yIGJiLCB2IGluIHppcChiYXJzLCB2YWwpOgogICAgYXhbMCwgMl0udGV4dChiYi5nZXRfeCgpICsgYmIuZ2V0X3dpZHRoKCkgLyAyLCB2ICsgMC4wOCwgZiJ7djouMmZ9IiwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTEwKQpheFswLCAyXS5zZXRfdGl0bGUoZiJDIOeOr+Wig+a8guenu+S4i++8muWkmuagt+aAp+aYr+S/nemZqVxu55yf5aSa5qC35oCn5q+U5pyA5LyY5Y2V5L2T55yBIHtiaVsnZGl2ZXJzaXR5X2dhaW4nXTouM2Z9IGJpdHMiLCBmb250c2l6ZT0xMSkKYXhbMCwgMl0uc2V0X3lsYWJlbCgiYml0cy/lrZfnrKYgKOi2iuS9jui2iuWlvSkiKQoKIyA0OiDnrZbnlaXnq57kuokKZHMgPSBkWyJEX3N0cmF0ZWd5Il0KZm9yIHMsIHN0eSBpbiB6aXAoZHNbInN0cmF0ZWdpZXMiXSwgWyItIiwgIi0iLCAiLSIsICItIl0pOgogICAgYXhbMSwgMF0ucGxvdChbaFtzXSBmb3IgaCBpbiBkc1sic2hhcmVzX2hpc3RvcnkiXV0sIHN0eSwgbHc9MiwgbGFiZWw9cywgbWFya2VyPSJvIiwgbXM9MykKYXhbMSwgMF0uc2V0X3RpdGxlKCJEIOetlueVpeWOruadgO+8muaIkeeahCfov73mnIDmhI/lpJYn56ysNei9ruW9kumbtlxucHJvZ3Jlc3Mg5Z6E5patIiwgZm9udHNpemU9MTEpCmF4WzEsIDBdLnNldF94bGFiZWwoIui9ruasoSIpOyBheFsxLCAwXS5zZXRfeWxhYmVsKCLotYTmupDku73pop0iKQpheFsxLCAwXS5sZWdlbmQoZm9udHNpemU9OCkKCiMgNTog55Sf5oCB5L2N5YiG5YyWCmRzcyA9IFswLjAsIDAuMjUsIDAuNSwgMC43NSwgMS4wXQplbnQgPSBbY1sic2NhbiJdW2YiZD17eH0iXVsiZW50cm9weV9lbmRfbWVhbiJdIGZvciB4IGluIGRzc10Kc2IgPSBbY1sic2NhbiJdW2YiZD17eH0iXVsic3lzdGVtX2JpdHNfbWVhbiJdIGZvciB4IGluIGRzc10KYXhbMSwgMV0ucGxvdChkc3MsIGVudCwgIm8tIiwgY29sb3I9IiNjMDM5MmIiLCBsdz0yLCBsYWJlbD0i5pyA57uI56eN576k54a1IikKYXhbMSwgMV0uc2V0X3lsaW0oLTAuMDUsIDEuNSkKYXhbMSwgMV0uc2V0X3hsYWJlbCgi55Sf5oCB5L2N5YiG5YyW5bqmIGQiKTsgYXhbMSwgMV0uc2V0X3lsYWJlbCgi54a1IiwgY29sb3I9IiNjMDM5MmIiKQpheDIgPSBheFsxLCAxXS50d2lueCgpCmF4Mi5wbG90KGRzcywgc2IsICJzLS0iLCBjb2xvcj0iIzI5ODBiOSIsIGx3PTEuNSwgbGFiZWw9Iuezu+e7nyBiaXRzIikKYXgyLnNldF95bGFiZWwoImJpdHMv5a2X56ymIiwgY29sb3I9IiMyOTgwYjkiKQpheFsxLCAxXS5zZXRfdGl0bGUoIkUg55Sf5oCB5L2N5YiG5YyW5Lmf5pWR5LiN5LqGXG4o5Y2V5LiA6K+E5Lu35qCH5YeGIOKGkiDlv4XnhLbmjpLmlqUpIiwgZm9udHNpemU9MTEpCgojIDY6IOWIhumFjeinhOWImQpmb3IgciwgY29sciBpbiB6aXAoWyJhYnNvbHV0ZSIsICJtYXJnaW5hbCJdLCBbIiM4ZTQ0YWQiLCAiIzE2YTA4NSJdKToKICAgIGF4WzEsIDJdLnBsb3QoYlsibGFyZ2VfYWxsb2NhdGlvbiJdW3JdWyJlbnRyb3B5X2hpc3RvcnkiXSwgIm8tIiwgY29sb3I9Y29sciwgbHc9MiwgbGFiZWw9cikKYXhbMSwgMl0uc2V0X3RpdGxlKCJGIOaNouWIhumFjeinhOWImeS5n+aVkeS4jeS6hlxuKOe7neWvueihqOeOsCB2cyDovrnpmYXotKHnjK7vvIznu5Pmnpznm7jlkIwpIiwgZm9udHNpemU9MTEpCmF4WzEsIDJdLnNldF94bGFiZWwoIui9ruasoSIpOyBheFsxLCAyXS5zZXRfeWxhYmVsKCLnhrUiKTsgYXhbMSwgMl0ubGVnZW5kKGZvbnRzaXplPTgpCgpwbHQuc3VwdGl0bGUoIjIwNiDnq57kuonjgIHniannp43lpJrmoLfmgKfkuI7ljq7mnYAg4oCU4oCUIOernuS6ieadgOatu+Wkmuagt+aAp++8jOiAjOWkmuagt+aAp+aYr+ezu+e7n+eahOS/nemZqSIsIGZvbnRzaXplPTEzKQpwbHQudGlnaHRfbGF5b3V0KHJlY3Q9WzAsIDAsIDEsIDAuOTZdKQpwbHQuc2F2ZWZpZyhmIntCQVNFfS9yZW5kZXIyMDYucG5nIiwgZHBpPTEzMCkKcHJpbnQoIltzYXZlZF0iLCBmIntCQVNFfS9yZW5kZXIyMDYucG5nIikK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import json, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+for f in ["WenQuanYi Micro Hei", "Noto Sans CJK SC", "SimHei"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False)
+        plt.rcParams["font.sans-serif"] = [f]
+        break
+    except Exception:
+        continue
+plt.rcParams["axes.unicode_minus"] = False
+
+BASE = "/data/workspace/luoshen-o1/experiments/exp206_compete"
+d = json.load(open(f"{BASE}/result206.json", encoding="utf-8"))
+b = json.load(open(f"{BASE}/result206b.json", encoding="utf-8"))
+c = json.load(open(f"{BASE}/result206c.json", encoding="utf-8"))
+
+fig, ax = plt.subplots(2, 3, figsize=(16, 9.5))
+
+# 1: 复制子动力学崩溃
+a = d["A_replicator"]
+ax[0, 0].plot(a["entropy_history"], "o-", color="#c0392b", lw=2)
+ax[0, 0].axhline(0, ls="--", c="gray", lw=1)
+ax[0, 0].set_title("A 竞争排斥：多样性必然崩溃\n(你的话, ks=1..8)", fontsize=11)
+ax[0, 0].set_xlabel("轮次"); ax[0, 0].set_ylabel("种群熵")
+ax[0, 0].text(0.5, 0.5, f"1.79 → {a['entropy_end']}", transform=ax[0, 0].transAxes, fontsize=10, color="#c0392b")
+
+# 2: 规模梯度
+names = ["small", "mid", "large"]
+nv = [b["scale_scan"][n]["N_over_V"] for n in names]
+ee = [b["scale_scan"][n]["entropy_end"] for n in names]
+wk = [b["scale_scan"][n]["winner_k"] for n in names]
+x = range(3)
+ax[0, 1].bar([i - 0.2 for i in x], ee, width=0.4, color="#c0392b", label="最终种群熵")
+ax[0, 1].bar([i + 0.2 for i in x], [1.386] * 3, width=0.4, color="#95a5a6", label="初始熵")
+for i, (n, k) in enumerate(zip(names, wk)):
+    ax[0, 1].text(i, 1.45, f"N/V={nv[i]}\n赢家k={k}", ha="center", fontsize=9)
+ax[0, 1].set_xticks(list(x)); ax[0, 1].set_xticklabels(names)
+ax[0, 1].set_title("B 三档资源规模：全都崩到 0", fontsize=11)
+ax[0, 1].legend(fontsize=8); ax[0, 1].set_ylabel("熵")
+
+# 3: 保险假说
+bi = d["B_insurance"]
+lbl = ["单一最优\n(k=2)", "真多样性\n(不同阶)", "伪多样性\n(同阶×3)"]
+val = [bi["mono_bits_under_shift"], bi["portfolio_bits_under_shift"], bi["pseudo_diversity_bits_under_shift"]]
+col = ["#7f8c8d", "#27ae60", "#e67e22"]
+bars = ax[0, 2].bar(lbl, val, color=col)
+for bb, v in zip(bars, val):
+    ax[0, 2].text(bb.get_x() + bb.get_width() / 2, v + 0.08, f"{v:.2f}", ha="center", fontsize=10)
+ax[0, 2].set_title(f"C 环境漂移下：多样性是保险\n真多样性比最优单体省 {bi['diversity_gain']:.3f} bits", fontsize=11)
+ax[0, 2].set_ylabel("bits/字符 (越低越好)")
+
+# 4: 策略竞争
+ds = d["D_strategy"]
+for s, sty in zip(ds["strategies"], ["-", "-", "-", "-"]):
+    ax[1, 0].plot([h[s] for h in ds["shares_history"]], sty, lw=2, label=s, marker="o", ms=3)
+ax[1, 0].set_title("D 策略厮杀：我的'追最意外'第5轮归零\nprogress 垄断", fontsize=11)
+ax[1, 0].set_xlabel("轮次"); ax[1, 0].set_ylabel("资源份额")
+ax[1, 0].legend(fontsize=8)
+
+# 5: 生态位分化
+dss = [0.0, 0.25, 0.5, 0.75, 1.0]
+ent = [c["scan"][f"d={x}"]["entropy_end_mean"] for x in dss]
+sb = [c["scan"][f"d={x}"]["system_bits_mean"] for x in dss]
+ax[1, 1].plot(dss, ent, "o-", color="#c0392b", lw=2, label="最终种群熵")
+ax[1, 1].set_ylim(-0.05, 1.5)
+ax[1, 1].set_xlabel("生态位分化度 d"); ax[1, 1].set_ylabel("熵", color="#c0392b")
+ax2 = ax[1, 1].twinx()
+ax2.plot(dss, sb, "s--", color="#2980b9", lw=1.5, label="系统 bits")
+ax2.set_ylabel("bits/字符", color="#2980b9")
+ax[1, 1].set_title("E 生态位分化也救不了\n(单一评价标准 → 必然排斥)", fontsize=11)
+
+# 6: 分配规则
+for r, colr in zip(["absolute", "marginal"], ["#8e44ad", "#16a085"]):
+    ax[1, 2].plot(b["large_allocation"][r]["entropy_history"], "o-", color=colr, lw=2, label=r)
+ax[1, 2].set_title("F 换分配规则也救不了\n(绝对表现 vs 边际贡献，结果相同)", fontsize=11)
+ax[1, 2].set_xlabel("轮次"); ax[1, 2].set_ylabel("熵"); ax[1, 2].legend(fontsize=8)
+
+plt.suptitle("206 竞争、物种多样性与厮杀 —— 竞争杀死多样性，而多样性是系统的保险", fontsize=13)
+plt.tight_layout(rect=[0, 0, 1, 0.96])
+plt.savefig(f"{BASE}/render206.png", dpi=130)
+print("[saved]", f"{BASE}/render206.png")

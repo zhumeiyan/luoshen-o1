@@ -1,1 +1,310 @@
-ZnJvbSBxbGliLmRhdGEuZGF0YXNldC5sb2FkZXIgaW1wb3J0IFFsaWJEYXRhTG9hZGVyCgoKY2xhc3MgQWxwaGEzNjBETChRbGliRGF0YUxvYWRlcik6CiAgICAiIiJEYXRhbG9hZGVyIHRvIGdldCBBbHBoYTM2MCIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBjb25maWc9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgIF9jb25maWcgPSB7CiAgICAgICAgICAgICJmZWF0dXJlIjogc2VsZi5nZXRfZmVhdHVyZV9jb25maWcoKSwKICAgICAgICB9CiAgICAgICAgaWYgY29uZmlnIGlzIG5vdCBOb25lOgogICAgICAgICAgICBfY29uZmlnLnVwZGF0ZShjb25maWcpCiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhjb25maWc9X2NvbmZpZywgKiprd2FyZ3MpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGdldF9mZWF0dXJlX2NvbmZpZygpOgogICAgICAgICMgTk9URToKICAgICAgICAjIEFscGhhMzYwIHRyaWVzIHRvIHByb3ZpZGUgYSBkYXRhc2V0IHdpdGggb3JpZ2luYWwgcHJpY2UgZGF0YQogICAgICAgICMgdGhlIG9yaWdpbmFsIHByaWNlIGRhdGEgaW5jbHVkZXMgdGhlIHByaWNlcyBhbmQgdm9sdW1lIGluIHRoZSBsYXN0IDYwIGRheXMuCiAgICAgICAgIyBUbyBtYWtlIGl0IGVhc2llciB0byBsZWFybiBtb2RlbHMgZnJvbSB0aGlzIGRhdGFzZXQsIGFsbCB0aGUgcHJpY2VzIGFuZCB2b2x1bWUKICAgICAgICAjIGFyZSBub3JtYWxpemVkIGJ5IHRoZSBsYXRlc3QgcHJpY2UgYW5kIHZvbHVtZSBkYXRhICggZGl2aWRpbmcgYnkgJGNsb3NlLCAkdm9sdW1lKQogICAgICAgICMgU28gdGhlIGxhdGVzdCBub3JtYWxpemVkICRjbG9zZSB3aWxsIGJlIDEgKHdpdGggbmFtZSBDTE9TRTApLCB0aGUgbGF0ZXN0IG5vcm1hbGl6ZWQgJHZvbHVtZSB3aWxsIGJlIDEgKHdpdGggbmFtZSBWT0xVTUUwKQogICAgICAgICMgSWYgZnVydGhlciBub3JtYWxpemF0aW9uIGFyZSBleGVjdXRlZCAoZS5nLiBjZW50cmFsaXphdGlvbiksICBDTE9TRTAgYW5kIFZPTFVNRTAgd2lsbCBiZSAwLgogICAgICAgIGZpZWxkcyA9IFtdCiAgICAgICAgbmFtZXMgPSBbXQoKICAgICAgICBmb3IgaSBpbiByYW5nZSg1OSwgMCwgLTEpOgogICAgICAgICAgICBmaWVsZHMgKz0gWyJSZWYoJGNsb3NlLCAlZCkvJGNsb3NlIiAlIGldCiAgICAgICAgICAgIG5hbWVzICs9IFsiQ0xPU0UlZCIgJSBpXQogICAgICAgIGZpZWxkcyArPSBbIiRjbG9zZS8kY2xvc2UiXQogICAgICAgIG5hbWVzICs9IFsiQ0xPU0UwIl0KICAgICAgICBmb3IgaSBpbiByYW5nZSg1OSwgMCwgLTEpOgogICAgICAgICAgICBmaWVsZHMgKz0gWyJSZWYoJG9wZW4sICVkKS8kY2xvc2UiICUgaV0KICAgICAgICAgICAgbmFtZXMgKz0gWyJPUEVOJWQiICUgaV0KICAgICAgICBmaWVsZHMgKz0gWyIkb3Blbi8kY2xvc2UiXQogICAgICAgIG5hbWVzICs9IFsiT1BFTjAiXQogICAgICAgIGZvciBpIGluIHJhbmdlKDU5LCAwLCAtMSk6CiAgICAgICAgICAgIGZpZWxkcyArPSBbIlJlZigkaGlnaCwgJWQpLyRjbG9zZSIgJSBpXQogICAgICAgICAgICBuYW1lcyArPSBbIkhJR0glZCIgJSBpXQogICAgICAgIGZpZWxkcyArPSBbIiRoaWdoLyRjbG9zZSJdCiAgICAgICAgbmFtZXMgKz0gWyJISUdIMCJdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoNTksIDAsIC0xKToKICAgICAgICAgICAgZmllbGRzICs9IFsiUmVmKCRsb3csICVkKS8kY2xvc2UiICUgaV0KICAgICAgICAgICAgbmFtZXMgKz0gWyJMT1clZCIgJSBpXQogICAgICAgIGZpZWxkcyArPSBbIiRsb3cvJGNsb3NlIl0KICAgICAgICBuYW1lcyArPSBbIkxPVzAiXQogICAgICAgIGZvciBpIGluIHJhbmdlKDU5LCAwLCAtMSk6CiAgICAgICAgICAgIGZpZWxkcyArPSBbIlJlZigkdndhcCwgJWQpLyRjbG9zZSIgJSBpXQogICAgICAgICAgICBuYW1lcyArPSBbIlZXQVAlZCIgJSBpXQogICAgICAgIGZpZWxkcyArPSBbIiR2d2FwLyRjbG9zZSJdCiAgICAgICAgbmFtZXMgKz0gWyJWV0FQMCJdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoNTksIDAsIC0xKToKICAgICAgICAgICAgZmllbGRzICs9IFsiUmVmKCR2b2x1bWUsICVkKS8oJHZvbHVtZSsxZS0xMikiICUgaV0KICAgICAgICAgICAgbmFtZXMgKz0gWyJWT0xVTUUlZCIgJSBpXQogICAgICAgIGZpZWxkcyArPSBbIiR2b2x1bWUvKCR2b2x1bWUrMWUtMTIpIl0KICAgICAgICBuYW1lcyArPSBbIlZPTFVNRTAiXQoKICAgICAgICByZXR1cm4gZmllbGRzLCBuYW1lcwoKCmNsYXNzIEFscGhhMTU4REwoUWxpYkRhdGFMb2FkZXIpOgogICAgIiIiRGF0YWxvYWRlciB0byBnZXQgQWxwaGExNTgiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgY29uZmlnPU5vbmUsICoqa3dhcmdzKToKICAgICAgICBfY29uZmlnID0gewogICAgICAgICAgICAiZmVhdHVyZSI6IHNlbGYuZ2V0X2ZlYXR1cmVfY29uZmlnKCksCiAgICAgICAgfQogICAgICAgIGlmIGNvbmZpZyBpcyBub3QgTm9uZToKICAgICAgICAgICAgX2NvbmZpZy51cGRhdGUoY29uZmlnKQogICAgICAgIHN1cGVyKCkuX19pbml0X18oY29uZmlnPV9jb25maWcsICoqa3dhcmdzKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRfZmVhdHVyZV9jb25maWcoCiAgICAgICAgY29uZmlnPXsKICAgICAgICAgICAgImtiYXIiOiB7fSwKICAgICAgICAgICAgInByaWNlIjogewogICAgICAgICAgICAgICAgIndpbmRvd3MiOiBbMF0sCiAgICAgICAgICAgICAgICAiZmVhdHVyZSI6IFsiT1BFTiIsICJISUdIIiwgIkxPVyIsICJWV0FQIl0sCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJyb2xsaW5nIjoge30sCiAgICAgICAgfQogICAgKToKICAgICAgICAiIiJjcmVhdGUgZmFjdG9ycyBmcm9tIGNvbmZpZwoKICAgICAgICBjb25maWcgPSB7CiAgICAgICAgICAgICdrYmFyJzoge30sICMgd2hldGhlciB0byB1c2Ugc29tZSBoYXJkLWNvZGUga2JhciBmZWF0dXJlcwogICAgICAgICAgICAncHJpY2UnOiB7ICMgd2hldGhlciB0byB1c2UgcmF3IHByaWNlIGZlYXR1cmVzCiAgICAgICAgICAgICAgICAnd2luZG93cyc6IFswLCAxLCAyLCAzLCA0XSwgIyB1c2UgcHJpY2UgYXQgbiBkYXlzIGFnbwogICAgICAgICAgICAgICAgJ2ZlYXR1cmUnOiBbJ09QRU4nLCAnSElHSCcsICdMT1cnXSAjIHdoaWNoIHByaWNlIGZpZWxkIHRvIHVzZQogICAgICAgICAgICB9LAogICAgICAgICAgICAndm9sdW1lJzogeyAjIHdoZXRoZXIgdG8gdXNlIHJhdyB2b2x1bWUgZmVhdHVyZXMKICAgICAgICAgICAgICAgICd3aW5kb3dzJzogWzAsIDEsIDIsIDMsIDRdLCAjIHVzZSB2b2x1bWUgYXQgbiBkYXlzIGFnbwogICAgICAgICAgICB9LAogICAgICAgICAgICAncm9sbGluZyc6IHsgIyB3aGV0aGVyIHRvIHVzZSByb2xsaW5nIG9wZXJhdG9yIGJhc2VkIGZlYXR1cmVzCiAgICAgICAgICAgICAgICAnd2luZG93cyc6IFs1LCAxMCwgMjAsIDMwLCA2MF0sICMgcm9sbGluZyB3aW5kb3dzIHNpemUKICAgICAgICAgICAgICAgICdpbmNsdWRlJzogWydST0MnLCAnTUEnLCAnU1REJ10sICMgcm9sbGluZyBvcGVyYXRvciB0byB1c2UKICAgICAgICAgICAgICAgICNpZiBpbmNsdWRlIGlzIE5vbmUgd2Ugd2lsbCB1c2UgZGVmYXVsdCBvcGVyYXRvcnMKICAgICAgICAgICAgICAgICdleGNsdWRlJzogWydSQU5LJ10sICMgcm9sbGluZyBvcGVyYXRvciBub3QgdG8gdXNlCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgIiIiCiAgICAgICAgZmllbGRzID0gW10KICAgICAgICBuYW1lcyA9IFtdCiAgICAgICAgaWYgImtiYXIiIGluIGNvbmZpZzoKICAgICAgICAgICAgZmllbGRzICs9IFsKICAgICAgICAgICAgICAgICIoJGNsb3NlLSRvcGVuKS8kb3BlbiIsCiAgICAgICAgICAgICAgICAiKCRoaWdoLSRsb3cpLyRvcGVuIiwKICAgICAgICAgICAgICAgICIoJGNsb3NlLSRvcGVuKS8oJGhpZ2gtJGxvdysxZS0xMikiLAogICAgICAgICAgICAgICAgIigkaGlnaC1HcmVhdGVyKCRvcGVuLCAkY2xvc2UpKS8kb3BlbiIsCiAgICAgICAgICAgICAgICAiKCRoaWdoLUdyZWF0ZXIoJG9wZW4sICRjbG9zZSkpLygkaGlnaC0kbG93KzFlLTEyKSIsCiAgICAgICAgICAgICAgICAiKExlc3MoJG9wZW4sICRjbG9zZSktJGxvdykvJG9wZW4iLAogICAgICAgICAgICAgICAgIihMZXNzKCRvcGVuLCAkY2xvc2UpLSRsb3cpLygkaGlnaC0kbG93KzFlLTEyKSIsCiAgICAgICAgICAgICAgICAiKDIqJGNsb3NlLSRoaWdoLSRsb3cpLyRvcGVuIiwKICAgICAgICAgICAgICAgICIoMiokY2xvc2UtJGhpZ2gtJGxvdykvKCRoaWdoLSRsb3crMWUtMTIpIiwKICAgICAgICAgICAgXQogICAgICAgICAgICBuYW1lcyArPSBbCiAgICAgICAgICAgICAgICAiS01JRCIsCiAgICAgICAgICAgICAgICAiS0xFTiIsCiAgICAgICAgICAgICAgICAiS01JRDIiLAogICAgICAgICAgICAgICAgIktVUCIsCiAgICAgICAgICAgICAgICAiS1VQMiIsCiAgICAgICAgICAgICAgICAiS0xPVyIsCiAgICAgICAgICAgICAgICAiS0xPVzIiLAogICAgICAgICAgICAgICAgIktTRlQiLAogICAgICAgICAgICAgICAgIktTRlQyIiwKICAgICAgICAgICAgXQogICAgICAgIGlmICJwcmljZSIgaW4gY29uZmlnOgogICAgICAgICAgICB3aW5kb3dzID0gY29uZmlnWyJwcmljZSJdLmdldCgid2luZG93cyIsIHJhbmdlKDUpKQogICAgICAgICAgICBmZWF0dXJlID0gY29uZmlnWyJwcmljZSJdLmdldCgiZmVhdHVyZSIsIFsiT1BFTiIsICJISUdIIiwgIkxPVyIsICJDTE9TRSIsICJWV0FQIl0pCiAgICAgICAgICAgIGZvciBmaWVsZCBpbiBmZWF0dXJlOgogICAgICAgICAgICAgICAgZmllbGQgPSBmaWVsZC5sb3dlcigpCiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWyJSZWYoJCVzLCAlZCkvJGNsb3NlIiAlIChmaWVsZCwgZCkgaWYgZCAhPSAwIGVsc2UgIiQlcy8kY2xvc2UiICUgZmllbGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFtmaWVsZC51cHBlcigpICsgc3RyKGQpIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgaWYgInZvbHVtZSIgaW4gY29uZmlnOgogICAgICAgICAgICB3aW5kb3dzID0gY29uZmlnWyJ2b2x1bWUiXS5nZXQoIndpbmRvd3MiLCByYW5nZSg1KSkKICAgICAgICAgICAgZmllbGRzICs9IFsiUmVmKCR2b2x1bWUsICVkKS8oJHZvbHVtZSsxZS0xMikiICUgZCBpZiBkICE9IDAgZWxzZSAiJHZvbHVtZS8oJHZvbHVtZSsxZS0xMikiIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgIG5hbWVzICs9IFsiVk9MVU1FIiArIHN0cihkKSBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgIGlmICJyb2xsaW5nIiBpbiBjb25maWc6CiAgICAgICAgICAgIHdpbmRvd3MgPSBjb25maWdbInJvbGxpbmciXS5nZXQoIndpbmRvd3MiLCBbNSwgMTAsIDIwLCAzMCwgNjBdKQogICAgICAgICAgICBpbmNsdWRlID0gY29uZmlnWyJyb2xsaW5nIl0uZ2V0KCJpbmNsdWRlIiwgTm9uZSkKICAgICAgICAgICAgZXhjbHVkZSA9IGNvbmZpZ1sicm9sbGluZyJdLmdldCgiZXhjbHVkZSIsIFtdKQogICAgICAgICAgICAjIGBleGNsdWRlYCBpbiBkYXRhc2V0IGNvbmZpZyB1bm5lY2Vzc2FyeSBmaWxlZAogICAgICAgICAgICAjIGBpbmNsdWRlYCBpbiBkYXRhc2V0IGNvbmZpZyBuZWNlc3NhcnkgZmllbGQKCiAgICAgICAgICAgIGRlZiB1c2UoeCk6CiAgICAgICAgICAgICAgICByZXR1cm4geCBub3QgaW4gZXhjbHVkZSBhbmQgKGluY2x1ZGUgaXMgTm9uZSBvciB4IGluIGluY2x1ZGUpCgogICAgICAgICAgICAjIFNvbWUgZmFjdG9yIHJlZjogaHR0cHM6Ly9ndW9ybi5jb20vc3RhdGljL3VwbG9hZC9maWxlLzMvMTM0MDY1NDU0NTc1NjA1LnBkZgogICAgICAgICAgICBpZiB1c2UoIlJPQyIpOgogICAgICAgICAgICAgICAgIyBodHRwczovL3d3dy5pbnZlc3RvcGVkaWEuY29tL3Rlcm1zL3IvcmF0ZW9mY2hhbmdlLmFzcAogICAgICAgICAgICAgICAgIyBSYXRlIG9mIGNoYW5nZSwgdGhlIHByaWNlIGNoYW5nZSBpbiB0aGUgcGFzdCBkIGRheXMsIGRpdmlkZWQgYnkgbGF0ZXN0IGNsb3NlIHByaWNlIHRvIHJlbW92ZSB1bml0CiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWyJSZWYoJGNsb3NlLCAlZCkvJGNsb3NlIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiUk9DJWQiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICBpZiB1c2UoIk1BIik6CiAgICAgICAgICAgICAgICAjIGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vYXNrL2Fuc3dlcnMvMDcxNDE0L3doYXRzLWRpZmZlcmVuY2UtYmV0d2Vlbi1tb3ZpbmctYXZlcmFnZS1hbmQtd2VpZ2h0ZWQtbW92aW5nLWF2ZXJhZ2UuYXNwCiAgICAgICAgICAgICAgICAjIFNpbXBsZSBNb3ZpbmcgQXZlcmFnZSwgdGhlIHNpbXBsZSBtb3ZpbmcgYXZlcmFnZSBpbiB0aGUgcGFzdCBkIGRheXMsIGRpdmlkZWQgYnkgbGF0ZXN0IGNsb3NlIHByaWNlIHRvIHJlbW92ZSB1bml0CiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWyJNZWFuKCRjbG9zZSwgJWQpLyRjbG9zZSIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgICAgICBuYW1lcyArPSBbIk1BJWQiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICBpZiB1c2UoIlNURCIpOgogICAgICAgICAgICAgICAgIyBUaGUgc3RhbmRhcmQgZGl2aWF0aW9uIG9mIGNsb3NlIHByaWNlIGZvciB0aGUgcGFzdCBkIGRheXMsIGRpdmlkZWQgYnkgbGF0ZXN0IGNsb3NlIHByaWNlIHRvIHJlbW92ZSB1bml0CiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWyJTdGQoJGNsb3NlLCAlZCkvJGNsb3NlIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiU1REJWQiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICBpZiB1c2UoIkJFVEEiKToKICAgICAgICAgICAgICAgICMgVGhlIHJhdGUgb2YgY2xvc2UgcHJpY2UgY2hhbmdlIGluIHRoZSBwYXN0IGQgZGF5cywgZGl2aWRlZCBieSBsYXRlc3QgY2xvc2UgcHJpY2UgdG8gcmVtb3ZlIHVuaXQKICAgICAgICAgICAgICAgICMgRm9yIGV4YW1wbGUsIHByaWNlIGluY3JlYXNlIDEwIGRvbGxhciBwZXIgZGF5IGluIHRoZSBwYXN0IGQgZGF5cywgdGhlbiBTbG9wZSB3aWxsIGJlIDEwLgogICAgICAgICAgICAgICAgZmllbGRzICs9IFsiU2xvcGUoJGNsb3NlLCAlZCkvJGNsb3NlIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiQkVUQSVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJSU1FSIik6CiAgICAgICAgICAgICAgICAjIFRoZSBSLXNxYXVyZSB2YWx1ZSBvZiBsaW5lYXIgcmVncmVzc2lvbiBmb3IgdGhlIHBhc3QgZCBkYXlzLCByZXByZXNlbnQgdGhlIHRyZW5kIGxpbmVhcgogICAgICAgICAgICAgICAgZmllbGRzICs9IFsiUnNxdWFyZSgkY2xvc2UsICVkKSIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgICAgICBuYW1lcyArPSBbIlJTUVIlZCIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgIGlmIHVzZSgiUkVTSSIpOgogICAgICAgICAgICAgICAgIyBUaGUgcmVkaXNkdWFsIGZvciBsaW5lYXIgcmVncmVzc2lvbiBmb3IgdGhlIHBhc3QgZCBkYXlzLCByZXByZXNlbnQgdGhlIHRyZW5kIGxpbmVhcml0eSBmb3IgcGFzdCBkIGRheXMuCiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWyJSZXNpKCRjbG9zZSwgJWQpLyRjbG9zZSIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgICAgICBuYW1lcyArPSBbIlJFU0klZCIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgIGlmIHVzZSgiTUFYIik6CiAgICAgICAgICAgICAgICAjIFRoZSBtYXggcHJpY2UgZm9yIHBhc3QgZCBkYXlzLCBkaXZpZGVkIGJ5IGxhdGVzdCBjbG9zZSBwcmljZSB0byByZW1vdmUgdW5pdAogICAgICAgICAgICAgICAgZmllbGRzICs9IFsiTWF4KCRoaWdoLCAlZCkvJGNsb3NlIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiTUFYJWQiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICBpZiB1c2UoIkxPVyIpOgogICAgICAgICAgICAgICAgIyBUaGUgbG93IHByaWNlIGZvciBwYXN0IGQgZGF5cywgZGl2aWRlZCBieSBsYXRlc3QgY2xvc2UgcHJpY2UgdG8gcmVtb3ZlIHVuaXQKICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbIk1pbigkbG93LCAlZCkvJGNsb3NlIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiTUlOJWQiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICBpZiB1c2UoIlFUTFUiKToKICAgICAgICAgICAgICAgICMgVGhlIDgwJSBxdWFudGlsZSBvZiBwYXN0IGQgZGF5J3MgY2xvc2UgcHJpY2UsIGRpdmlkZWQgYnkgbGF0ZXN0IGNsb3NlIHByaWNlIHRvIHJlbW92ZSB1bml0CiAgICAgICAgICAgICAgICAjIFVzZWQgd2l0aCBNSU4gYW5kIE1BWAogICAgICAgICAgICAgICAgZmllbGRzICs9IFsiUXVhbnRpbGUoJGNsb3NlLCAlZCwgMC44KS8kY2xvc2UiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICAgICAgbmFtZXMgKz0gWyJRVExVJWQiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICBpZiB1c2UoIlFUTEQiKToKICAgICAgICAgICAgICAgICMgVGhlIDIwJSBxdWFudGlsZSBvZiBwYXN0IGQgZGF5J3MgY2xvc2UgcHJpY2UsIGRpdmlkZWQgYnkgbGF0ZXN0IGNsb3NlIHByaWNlIHRvIHJlbW92ZSB1bml0CiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWyJRdWFudGlsZSgkY2xvc2UsICVkLCAwLjIpLyRjbG9zZSIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgICAgICBuYW1lcyArPSBbIlFUTEQlZCIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgIGlmIHVzZSgiUkFOSyIpOgogICAgICAgICAgICAgICAgIyBHZXQgdGhlIHBlcmNlbnRpbGUgb2YgY3VycmVudCBjbG9zZSBwcmljZSBpbiBwYXN0IGQgZGF5J3MgY2xvc2UgcHJpY2UuCiAgICAgICAgICAgICAgICAjIFJlcHJlc2VudCB0aGUgY3VycmVudCBwcmljZSBsZXZlbCBjb21wYXJpbmcgdG8gcGFzdCBOIGRheXMsIGFkZCBhZGRpdGlvbmFsIGluZm9ybWF0aW9uIHRvIG1vdmluZyBhdmVyYWdlLgogICAgICAgICAgICAgICAgZmllbGRzICs9IFsiUmFuaygkY2xvc2UsICVkKSIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgICAgICBuYW1lcyArPSBbIlJBTkslZCIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgIGlmIHVzZSgiUlNWIik6CiAgICAgICAgICAgICAgICAjIFJlcHJlc2VudCB0aGUgcHJpY2UgcG9zaXRpb24gYmV0d2VlbiB1cHBlciBhbmQgbG93ZXIgcmVzaXN0ZW50IHByaWNlIGZvciBwYXN0IGQgZGF5cy4KICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbIigkY2xvc2UtTWluKCRsb3csICVkKSkvKE1heCgkaGlnaCwgJWQpLU1pbigkbG93LCAlZCkrMWUtMTIpIiAlIChkLCBkLCBkKSBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICAgICAgbmFtZXMgKz0gWyJSU1YlZCIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgIGlmIHVzZSgiSU1BWCIpOgogICAgICAgICAgICAgICAgIyBUaGUgbnVtYmVyIG9mIGRheXMgYmV0d2VlbiBjdXJyZW50IGRhdGUgYW5kIHByZXZpb3VzIGhpZ2hlc3QgcHJpY2UgZGF0ZS4KICAgICAgICAgICAgICAgICMgUGFydCBvZiBBcm9vbiBJbmRpY2F0b3IgaHR0cHM6Ly93d3cuaW52ZXN0b3BlZGlhLmNvbS90ZXJtcy9hL2Fyb29uLmFzcAogICAgICAgICAgICAgICAgIyBUaGUgaW5kaWNhdG9yIG1lYXN1cmVzIHRoZSB0aW1lIGJldHdlZW4gaGlnaHMgYW5kIHRoZSB0aW1lIGJldHdlZW4gbG93cyBvdmVyIGEgdGltZSBwZXJpb2QuCiAgICAgICAgICAgICAgICAjIFRoZSBpZGVhIGlzIHRoYXQgc3Ryb25nIHVwdHJlbmRzIHdpbGwgcmVndWxhcmx5IHNlZSBuZXcgaGlnaHMsIGFuZCBzdHJvbmcgZG93bnRyZW5kcyB3aWxsIHJlZ3VsYXJseSBzZWUgbmV3IGxvd3MuCiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWyJJZHhNYXgoJGhpZ2gsICVkKS8lZCIgJSAoZCwgZCkgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiSU1BWCVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJJTUlOIik6CiAgICAgICAgICAgICAgICAjIFRoZSBudW1iZXIgb2YgZGF5cyBiZXR3ZWVuIGN1cnJlbnQgZGF0ZSBhbmQgcHJldmlvdXMgbG93ZXN0IHByaWNlIGRhdGUuCiAgICAgICAgICAgICAgICAjIFBhcnQgb2YgQXJvb24gSW5kaWNhdG9yIGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdGVybXMvYS9hcm9vbi5hc3AKICAgICAgICAgICAgICAgICMgVGhlIGluZGljYXRvciBtZWFzdXJlcyB0aGUgdGltZSBiZXR3ZWVuIGhpZ2hzIGFuZCB0aGUgdGltZSBiZXR3ZWVuIGxvd3Mgb3ZlciBhIHRpbWUgcGVyaW9kLgogICAgICAgICAgICAgICAgIyBUaGUgaWRlYSBpcyB0aGF0IHN0cm9uZyB1cHRyZW5kcyB3aWxsIHJlZ3VsYXJseSBzZWUgbmV3IGhpZ2hzLCBhbmQgc3Ryb25nIGRvd250cmVuZHMgd2lsbCByZWd1bGFybHkgc2VlIG5ldyBsb3dzLgogICAgICAgICAgICAgICAgZmllbGRzICs9IFsiSWR4TWluKCRsb3csICVkKS8lZCIgJSAoZCwgZCkgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiSU1JTiVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJJTVhEIik6CiAgICAgICAgICAgICAgICAjIFRoZSB0aW1lIHBlcmlvZCBiZXR3ZWVuIHByZXZpb3VzIGxvd2VzdC1wcmljZSBkYXRlIG9jY3VyIGFmdGVyIGhpZ2hlc3QgcHJpY2UgZGF0ZS4KICAgICAgICAgICAgICAgICMgTGFyZ2UgdmFsdWUgc3VnZ2VzdCBkb3dud2FyZCBtb21lbXR1bS4KICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbIihJZHhNYXgoJGhpZ2gsICVkKS1JZHhNaW4oJGxvdywgJWQpKS8lZCIgJSAoZCwgZCwgZCkgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiSU1YRCVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJDT1JSIik6CiAgICAgICAgICAgICAgICAjIFRoZSBjb3JyZWxhdGlvbiBiZXR3ZWVuIGFic29sdXRlIGNsb3NlIHByaWNlIGFuZCBsb2cgc2NhbGVkIHRyYWRpbmcgdm9sdW1lCiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWyJDb3JyKCRjbG9zZSwgTG9nKCR2b2x1bWUrMSksICVkKSIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgICAgICBuYW1lcyArPSBbIkNPUlIlZCIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgIGlmIHVzZSgiQ09SRCIpOgogICAgICAgICAgICAgICAgIyBUaGUgY29ycmVsYXRpb24gYmV0d2VlbiBwcmljZSBjaGFuZ2UgcmF0aW8gYW5kIHZvbHVtZSBjaGFuZ2UgcmF0aW8KICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbIkNvcnIoJGNsb3NlL1JlZigkY2xvc2UsMSksIExvZygkdm9sdW1lL1JlZigkdm9sdW1lLCAxKSsxKSwgJWQpIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiQ09SRCVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJDTlRQIik6CiAgICAgICAgICAgICAgICAjIFRoZSBwZXJjZW50YWdlIG9mIGRheXMgaW4gcGFzdCBkIGRheXMgdGhhdCBwcmljZSBnbyB1cC4KICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbIk1lYW4oJGNsb3NlPlJlZigkY2xvc2UsIDEpLCAlZCkiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICAgICAgbmFtZXMgKz0gWyJDTlRQJWQiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICBpZiB1c2UoIkNOVE4iKToKICAgICAgICAgICAgICAgICMgVGhlIHBlcmNlbnRhZ2Ugb2YgZGF5cyBpbiBwYXN0IGQgZGF5cyB0aGF0IHByaWNlIGdvIGRvd24uCiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWyJNZWFuKCRjbG9zZTxSZWYoJGNsb3NlLCAxKSwgJWQpIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiQ05UTiVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJDTlREIik6CiAgICAgICAgICAgICAgICAjIFRoZSBkaWZmIGJldHdlZW4gcGFzdCB1cCBkYXkgYW5kIHBhc3QgZG93biBkYXkKICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbIk1lYW4oJGNsb3NlPlJlZigkY2xvc2UsIDEpLCAlZCktTWVhbigkY2xvc2U8UmVmKCRjbG9zZSwgMSksICVkKSIgJSAoZCwgZCkgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiQ05URCVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJTVU1QIik6CiAgICAgICAgICAgICAgICAjIFRoZSB0b3RhbCBnYWluIC8gdGhlIGFic29sdXRlIHRvdGFsIHByaWNlIGNoYW5nZWQKICAgICAgICAgICAgICAgICMgU2ltaWxhciB0byBSU0kgaW5kaWNhdG9yLiBodHRwczovL3d3dy5pbnZlc3RvcGVkaWEuY29tL3Rlcm1zL3IvcnNpLmFzcAogICAgICAgICAgICAgICAgZmllbGRzICs9IFsKICAgICAgICAgICAgICAgICAgICAiU3VtKEdyZWF0ZXIoJGNsb3NlLVJlZigkY2xvc2UsIDEpLCAwKSwgJWQpLyhTdW0oQWJzKCRjbG9zZS1SZWYoJGNsb3NlLCAxKSksICVkKSsxZS0xMikiICUgKGQsIGQpCiAgICAgICAgICAgICAgICAgICAgZm9yIGQgaW4gd2luZG93cwogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgbmFtZXMgKz0gWyJTVU1QJWQiICUgZCBmb3IgZCBpbiB3aW5kb3dzXQogICAgICAgICAgICBpZiB1c2UoIlNVTU4iKToKICAgICAgICAgICAgICAgICMgVGhlIHRvdGFsIGxvc2UgLyB0aGUgYWJzb2x1dGUgdG90YWwgcHJpY2UgY2hhbmdlZAogICAgICAgICAgICAgICAgIyBDYW4gYmUgZGVyaXZlZCBmcm9tIFNVTVAgYnkgU1VNTiA9IDEgLSBTVU1QCiAgICAgICAgICAgICAgICAjIFNpbWlsYXIgdG8gUlNJIGluZGljYXRvci4gaHR0cHM6Ly93d3cuaW52ZXN0b3BlZGlhLmNvbS90ZXJtcy9yL3JzaS5hc3AKICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbCiAgICAgICAgICAgICAgICAgICAgIlN1bShHcmVhdGVyKFJlZigkY2xvc2UsIDEpLSRjbG9zZSwgMCksICVkKS8oU3VtKEFicygkY2xvc2UtUmVmKCRjbG9zZSwgMSkpLCAlZCkrMWUtMTIpIiAlIChkLCBkKQogICAgICAgICAgICAgICAgICAgIGZvciBkIGluIHdpbmRvd3MKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiU1VNTiVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJTVU1EIik6CiAgICAgICAgICAgICAgICAjIFRoZSBkaWZmIHJhdGlvIGJldHdlZW4gdG90YWwgZ2FpbiBhbmQgdG90YWwgbG9zZQogICAgICAgICAgICAgICAgIyBTaW1pbGFyIHRvIFJTSSBpbmRpY2F0b3IuIGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdGVybXMvci9yc2kuYXNwCiAgICAgICAgICAgICAgICBmaWVsZHMgKz0gWwogICAgICAgICAgICAgICAgICAgICIoU3VtKEdyZWF0ZXIoJGNsb3NlLVJlZigkY2xvc2UsIDEpLCAwKSwgJWQpLVN1bShHcmVhdGVyKFJlZigkY2xvc2UsIDEpLSRjbG9zZSwgMCksICVkKSkiCiAgICAgICAgICAgICAgICAgICAgIi8oU3VtKEFicygkY2xvc2UtUmVmKCRjbG9zZSwgMSkpLCAlZCkrMWUtMTIpIiAlIChkLCBkLCBkKQogICAgICAgICAgICAgICAgICAgIGZvciBkIGluIHdpbmRvd3MKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiU1VNRCVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJWTUEiKToKICAgICAgICAgICAgICAgICMgU2ltcGxlIFZvbHVtZSBNb3ZpbmcgYXZlcmFnZTogaHR0cHM6Ly93d3cuYmFyY2hhcnQuY29tL2VkdWNhdGlvbi90ZWNobmljYWwtaW5kaWNhdG9ycy92b2x1bWVfbW92aW5nX2F2ZXJhZ2UKICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbIk1lYW4oJHZvbHVtZSwgJWQpLygkdm9sdW1lKzFlLTEyKSIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgICAgICBuYW1lcyArPSBbIlZNQSVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJWU1REIik6CiAgICAgICAgICAgICAgICAjIFRoZSBzdGFuZGFyZCBkZXZpYXRpb24gZm9yIHZvbHVtZSBpbiBwYXN0IGQgZGF5cy4KICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbIlN0ZCgkdm9sdW1lLCAlZCkvKCR2b2x1bWUrMWUtMTIpIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiVlNURCVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJXVk1BIik6CiAgICAgICAgICAgICAgICAjIFRoZSB2b2x1bWUgd2VpZ2h0ZWQgcHJpY2UgY2hhbmdlIHZvbGF0aWxpdHkKICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbCiAgICAgICAgICAgICAgICAgICAgIlN0ZChBYnMoJGNsb3NlL1JlZigkY2xvc2UsIDEpLTEpKiR2b2x1bWUsICVkKS8oTWVhbihBYnMoJGNsb3NlL1JlZigkY2xvc2UsIDEpLTEpKiR2b2x1bWUsICVkKSsxZS0xMikiCiAgICAgICAgICAgICAgICAgICAgJSAoZCwgZCkKICAgICAgICAgICAgICAgICAgICBmb3IgZCBpbiB3aW5kb3dzCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICBuYW1lcyArPSBbIldWTUElZCIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgIGlmIHVzZSgiVlNVTVAiKToKICAgICAgICAgICAgICAgICMgVGhlIHRvdGFsIHZvbHVtZSBpbmNyZWFzZSAvIHRoZSBhYnNvbHV0ZSB0b3RhbCB2b2x1bWUgY2hhbmdlZAogICAgICAgICAgICAgICAgZmllbGRzICs9IFsKICAgICAgICAgICAgICAgICAgICAiU3VtKEdyZWF0ZXIoJHZvbHVtZS1SZWYoJHZvbHVtZSwgMSksIDApLCAlZCkvKFN1bShBYnMoJHZvbHVtZS1SZWYoJHZvbHVtZSwgMSkpLCAlZCkrMWUtMTIpIgogICAgICAgICAgICAgICAgICAgICUgKGQsIGQpCiAgICAgICAgICAgICAgICAgICAgZm9yIGQgaW4gd2luZG93cwogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgbmFtZXMgKz0gWyJWU1VNUCVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KICAgICAgICAgICAgaWYgdXNlKCJWU1VNTiIpOgogICAgICAgICAgICAgICAgIyBUaGUgdG90YWwgdm9sdW1lIGluY3JlYXNlIC8gdGhlIGFic29sdXRlIHRvdGFsIHZvbHVtZSBjaGFuZ2VkCiAgICAgICAgICAgICAgICAjIENhbiBiZSBkZXJpdmVkIGZyb20gVlNVTVAgYnkgVlNVTU4gPSAxIC0gVlNVTVAKICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbCiAgICAgICAgICAgICAgICAgICAgIlN1bShHcmVhdGVyKFJlZigkdm9sdW1lLCAxKS0kdm9sdW1lLCAwKSwgJWQpLyhTdW0oQWJzKCR2b2x1bWUtUmVmKCR2b2x1bWUsIDEpKSwgJWQpKzFlLTEyKSIKICAgICAgICAgICAgICAgICAgICAlIChkLCBkKQogICAgICAgICAgICAgICAgICAgIGZvciBkIGluIHdpbmRvd3MKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIG5hbWVzICs9IFsiVlNVTU4lZCIgJSBkIGZvciBkIGluIHdpbmRvd3NdCiAgICAgICAgICAgIGlmIHVzZSgiVlNVTUQiKToKICAgICAgICAgICAgICAgICMgVGhlIGRpZmYgcmF0aW8gYmV0d2VlbiB0b3RhbCB2b2x1bWUgaW5jcmVhc2UgYW5kIHRvdGFsIHZvbHVtZSBkZWNyZWFzZQogICAgICAgICAgICAgICAgIyBSU0kgaW5kaWNhdG9yIGZvciB2b2x1bWUKICAgICAgICAgICAgICAgIGZpZWxkcyArPSBbCiAgICAgICAgICAgICAgICAgICAgIihTdW0oR3JlYXRlcigkdm9sdW1lLVJlZigkdm9sdW1lLCAxKSwgMCksICVkKS1TdW0oR3JlYXRlcihSZWYoJHZvbHVtZSwgMSktJHZvbHVtZSwgMCksICVkKSkiCiAgICAgICAgICAgICAgICAgICAgIi8oU3VtKEFicygkdm9sdW1lLVJlZigkdm9sdW1lLCAxKSksICVkKSsxZS0xMikiICUgKGQsIGQsIGQpCiAgICAgICAgICAgICAgICAgICAgZm9yIGQgaW4gd2luZG93cwogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgbmFtZXMgKz0gWyJWU1VNRCVkIiAlIGQgZm9yIGQgaW4gd2luZG93c10KCiAgICAgICAgcmV0dXJuIGZpZWxkcywgbmFtZXMK
+from qlib.data.dataset.loader import QlibDataLoader
+
+
+class Alpha360DL(QlibDataLoader):
+    """Dataloader to get Alpha360"""
+
+    def __init__(self, config=None, **kwargs):
+        _config = {
+            "feature": self.get_feature_config(),
+        }
+        if config is not None:
+            _config.update(config)
+        super().__init__(config=_config, **kwargs)
+
+    @staticmethod
+    def get_feature_config():
+        # NOTE:
+        # Alpha360 tries to provide a dataset with original price data
+        # the original price data includes the prices and volume in the last 60 days.
+        # To make it easier to learn models from this dataset, all the prices and volume
+        # are normalized by the latest price and volume data ( dividing by $close, $volume)
+        # So the latest normalized $close will be 1 (with name CLOSE0), the latest normalized $volume will be 1 (with name VOLUME0)
+        # If further normalization are executed (e.g. centralization),  CLOSE0 and VOLUME0 will be 0.
+        fields = []
+        names = []
+
+        for i in range(59, 0, -1):
+            fields += ["Ref($close, %d)/$close" % i]
+            names += ["CLOSE%d" % i]
+        fields += ["$close/$close"]
+        names += ["CLOSE0"]
+        for i in range(59, 0, -1):
+            fields += ["Ref($open, %d)/$close" % i]
+            names += ["OPEN%d" % i]
+        fields += ["$open/$close"]
+        names += ["OPEN0"]
+        for i in range(59, 0, -1):
+            fields += ["Ref($high, %d)/$close" % i]
+            names += ["HIGH%d" % i]
+        fields += ["$high/$close"]
+        names += ["HIGH0"]
+        for i in range(59, 0, -1):
+            fields += ["Ref($low, %d)/$close" % i]
+            names += ["LOW%d" % i]
+        fields += ["$low/$close"]
+        names += ["LOW0"]
+        for i in range(59, 0, -1):
+            fields += ["Ref($vwap, %d)/$close" % i]
+            names += ["VWAP%d" % i]
+        fields += ["$vwap/$close"]
+        names += ["VWAP0"]
+        for i in range(59, 0, -1):
+            fields += ["Ref($volume, %d)/($volume+1e-12)" % i]
+            names += ["VOLUME%d" % i]
+        fields += ["$volume/($volume+1e-12)"]
+        names += ["VOLUME0"]
+
+        return fields, names
+
+
+class Alpha158DL(QlibDataLoader):
+    """Dataloader to get Alpha158"""
+
+    def __init__(self, config=None, **kwargs):
+        _config = {
+            "feature": self.get_feature_config(),
+        }
+        if config is not None:
+            _config.update(config)
+        super().__init__(config=_config, **kwargs)
+
+    @staticmethod
+    def get_feature_config(
+        config={
+            "kbar": {},
+            "price": {
+                "windows": [0],
+                "feature": ["OPEN", "HIGH", "LOW", "VWAP"],
+            },
+            "rolling": {},
+        }
+    ):
+        """create factors from config
+
+        config = {
+            'kbar': {}, # whether to use some hard-code kbar features
+            'price': { # whether to use raw price features
+                'windows': [0, 1, 2, 3, 4], # use price at n days ago
+                'feature': ['OPEN', 'HIGH', 'LOW'] # which price field to use
+            },
+            'volume': { # whether to use raw volume features
+                'windows': [0, 1, 2, 3, 4], # use volume at n days ago
+            },
+            'rolling': { # whether to use rolling operator based features
+                'windows': [5, 10, 20, 30, 60], # rolling windows size
+                'include': ['ROC', 'MA', 'STD'], # rolling operator to use
+                #if include is None we will use default operators
+                'exclude': ['RANK'], # rolling operator not to use
+            }
+        }
+        """
+        fields = []
+        names = []
+        if "kbar" in config:
+            fields += [
+                "($close-$open)/$open",
+                "($high-$low)/$open",
+                "($close-$open)/($high-$low+1e-12)",
+                "($high-Greater($open, $close))/$open",
+                "($high-Greater($open, $close))/($high-$low+1e-12)",
+                "(Less($open, $close)-$low)/$open",
+                "(Less($open, $close)-$low)/($high-$low+1e-12)",
+                "(2*$close-$high-$low)/$open",
+                "(2*$close-$high-$low)/($high-$low+1e-12)",
+            ]
+            names += [
+                "KMID",
+                "KLEN",
+                "KMID2",
+                "KUP",
+                "KUP2",
+                "KLOW",
+                "KLOW2",
+                "KSFT",
+                "KSFT2",
+            ]
+        if "price" in config:
+            windows = config["price"].get("windows", range(5))
+            feature = config["price"].get("feature", ["OPEN", "HIGH", "LOW", "CLOSE", "VWAP"])
+            for field in feature:
+                field = field.lower()
+                fields += ["Ref($%s, %d)/$close" % (field, d) if d != 0 else "$%s/$close" % field for d in windows]
+                names += [field.upper() + str(d) for d in windows]
+        if "volume" in config:
+            windows = config["volume"].get("windows", range(5))
+            fields += ["Ref($volume, %d)/($volume+1e-12)" % d if d != 0 else "$volume/($volume+1e-12)" for d in windows]
+            names += ["VOLUME" + str(d) for d in windows]
+        if "rolling" in config:
+            windows = config["rolling"].get("windows", [5, 10, 20, 30, 60])
+            include = config["rolling"].get("include", None)
+            exclude = config["rolling"].get("exclude", [])
+            # `exclude` in dataset config unnecessary filed
+            # `include` in dataset config necessary field
+
+            def use(x):
+                return x not in exclude and (include is None or x in include)
+
+            # Some factor ref: https://guorn.com/static/upload/file/3/134065454575605.pdf
+            if use("ROC"):
+                # https://www.investopedia.com/terms/r/rateofchange.asp
+                # Rate of change, the price change in the past d days, divided by latest close price to remove unit
+                fields += ["Ref($close, %d)/$close" % d for d in windows]
+                names += ["ROC%d" % d for d in windows]
+            if use("MA"):
+                # https://www.investopedia.com/ask/answers/071414/whats-difference-between-moving-average-and-weighted-moving-average.asp
+                # Simple Moving Average, the simple moving average in the past d days, divided by latest close price to remove unit
+                fields += ["Mean($close, %d)/$close" % d for d in windows]
+                names += ["MA%d" % d for d in windows]
+            if use("STD"):
+                # The standard diviation of close price for the past d days, divided by latest close price to remove unit
+                fields += ["Std($close, %d)/$close" % d for d in windows]
+                names += ["STD%d" % d for d in windows]
+            if use("BETA"):
+                # The rate of close price change in the past d days, divided by latest close price to remove unit
+                # For example, price increase 10 dollar per day in the past d days, then Slope will be 10.
+                fields += ["Slope($close, %d)/$close" % d for d in windows]
+                names += ["BETA%d" % d for d in windows]
+            if use("RSQR"):
+                # The R-sqaure value of linear regression for the past d days, represent the trend linear
+                fields += ["Rsquare($close, %d)" % d for d in windows]
+                names += ["RSQR%d" % d for d in windows]
+            if use("RESI"):
+                # The redisdual for linear regression for the past d days, represent the trend linearity for past d days.
+                fields += ["Resi($close, %d)/$close" % d for d in windows]
+                names += ["RESI%d" % d for d in windows]
+            if use("MAX"):
+                # The max price for past d days, divided by latest close price to remove unit
+                fields += ["Max($high, %d)/$close" % d for d in windows]
+                names += ["MAX%d" % d for d in windows]
+            if use("LOW"):
+                # The low price for past d days, divided by latest close price to remove unit
+                fields += ["Min($low, %d)/$close" % d for d in windows]
+                names += ["MIN%d" % d for d in windows]
+            if use("QTLU"):
+                # The 80% quantile of past d day's close price, divided by latest close price to remove unit
+                # Used with MIN and MAX
+                fields += ["Quantile($close, %d, 0.8)/$close" % d for d in windows]
+                names += ["QTLU%d" % d for d in windows]
+            if use("QTLD"):
+                # The 20% quantile of past d day's close price, divided by latest close price to remove unit
+                fields += ["Quantile($close, %d, 0.2)/$close" % d for d in windows]
+                names += ["QTLD%d" % d for d in windows]
+            if use("RANK"):
+                # Get the percentile of current close price in past d day's close price.
+                # Represent the current price level comparing to past N days, add additional information to moving average.
+                fields += ["Rank($close, %d)" % d for d in windows]
+                names += ["RANK%d" % d for d in windows]
+            if use("RSV"):
+                # Represent the price position between upper and lower resistent price for past d days.
+                fields += ["($close-Min($low, %d))/(Max($high, %d)-Min($low, %d)+1e-12)" % (d, d, d) for d in windows]
+                names += ["RSV%d" % d for d in windows]
+            if use("IMAX"):
+                # The number of days between current date and previous highest price date.
+                # Part of Aroon Indicator https://www.investopedia.com/terms/a/aroon.asp
+                # The indicator measures the time between highs and the time between lows over a time period.
+                # The idea is that strong uptrends will regularly see new highs, and strong downtrends will regularly see new lows.
+                fields += ["IdxMax($high, %d)/%d" % (d, d) for d in windows]
+                names += ["IMAX%d" % d for d in windows]
+            if use("IMIN"):
+                # The number of days between current date and previous lowest price date.
+                # Part of Aroon Indicator https://www.investopedia.com/terms/a/aroon.asp
+                # The indicator measures the time between highs and the time between lows over a time period.
+                # The idea is that strong uptrends will regularly see new highs, and strong downtrends will regularly see new lows.
+                fields += ["IdxMin($low, %d)/%d" % (d, d) for d in windows]
+                names += ["IMIN%d" % d for d in windows]
+            if use("IMXD"):
+                # The time period between previous lowest-price date occur after highest price date.
+                # Large value suggest downward momemtum.
+                fields += ["(IdxMax($high, %d)-IdxMin($low, %d))/%d" % (d, d, d) for d in windows]
+                names += ["IMXD%d" % d for d in windows]
+            if use("CORR"):
+                # The correlation between absolute close price and log scaled trading volume
+                fields += ["Corr($close, Log($volume+1), %d)" % d for d in windows]
+                names += ["CORR%d" % d for d in windows]
+            if use("CORD"):
+                # The correlation between price change ratio and volume change ratio
+                fields += ["Corr($close/Ref($close,1), Log($volume/Ref($volume, 1)+1), %d)" % d for d in windows]
+                names += ["CORD%d" % d for d in windows]
+            if use("CNTP"):
+                # The percentage of days in past d days that price go up.
+                fields += ["Mean($close>Ref($close, 1), %d)" % d for d in windows]
+                names += ["CNTP%d" % d for d in windows]
+            if use("CNTN"):
+                # The percentage of days in past d days that price go down.
+                fields += ["Mean($close<Ref($close, 1), %d)" % d for d in windows]
+                names += ["CNTN%d" % d for d in windows]
+            if use("CNTD"):
+                # The diff between past up day and past down day
+                fields += ["Mean($close>Ref($close, 1), %d)-Mean($close<Ref($close, 1), %d)" % (d, d) for d in windows]
+                names += ["CNTD%d" % d for d in windows]
+            if use("SUMP"):
+                # The total gain / the absolute total price changed
+                # Similar to RSI indicator. https://www.investopedia.com/terms/r/rsi.asp
+                fields += [
+                    "Sum(Greater($close-Ref($close, 1), 0), %d)/(Sum(Abs($close-Ref($close, 1)), %d)+1e-12)" % (d, d)
+                    for d in windows
+                ]
+                names += ["SUMP%d" % d for d in windows]
+            if use("SUMN"):
+                # The total lose / the absolute total price changed
+                # Can be derived from SUMP by SUMN = 1 - SUMP
+                # Similar to RSI indicator. https://www.investopedia.com/terms/r/rsi.asp
+                fields += [
+                    "Sum(Greater(Ref($close, 1)-$close, 0), %d)/(Sum(Abs($close-Ref($close, 1)), %d)+1e-12)" % (d, d)
+                    for d in windows
+                ]
+                names += ["SUMN%d" % d for d in windows]
+            if use("SUMD"):
+                # The diff ratio between total gain and total lose
+                # Similar to RSI indicator. https://www.investopedia.com/terms/r/rsi.asp
+                fields += [
+                    "(Sum(Greater($close-Ref($close, 1), 0), %d)-Sum(Greater(Ref($close, 1)-$close, 0), %d))"
+                    "/(Sum(Abs($close-Ref($close, 1)), %d)+1e-12)" % (d, d, d)
+                    for d in windows
+                ]
+                names += ["SUMD%d" % d for d in windows]
+            if use("VMA"):
+                # Simple Volume Moving average: https://www.barchart.com/education/technical-indicators/volume_moving_average
+                fields += ["Mean($volume, %d)/($volume+1e-12)" % d for d in windows]
+                names += ["VMA%d" % d for d in windows]
+            if use("VSTD"):
+                # The standard deviation for volume in past d days.
+                fields += ["Std($volume, %d)/($volume+1e-12)" % d for d in windows]
+                names += ["VSTD%d" % d for d in windows]
+            if use("WVMA"):
+                # The volume weighted price change volatility
+                fields += [
+                    "Std(Abs($close/Ref($close, 1)-1)*$volume, %d)/(Mean(Abs($close/Ref($close, 1)-1)*$volume, %d)+1e-12)"
+                    % (d, d)
+                    for d in windows
+                ]
+                names += ["WVMA%d" % d for d in windows]
+            if use("VSUMP"):
+                # The total volume increase / the absolute total volume changed
+                fields += [
+                    "Sum(Greater($volume-Ref($volume, 1), 0), %d)/(Sum(Abs($volume-Ref($volume, 1)), %d)+1e-12)"
+                    % (d, d)
+                    for d in windows
+                ]
+                names += ["VSUMP%d" % d for d in windows]
+            if use("VSUMN"):
+                # The total volume increase / the absolute total volume changed
+                # Can be derived from VSUMP by VSUMN = 1 - VSUMP
+                fields += [
+                    "Sum(Greater(Ref($volume, 1)-$volume, 0), %d)/(Sum(Abs($volume-Ref($volume, 1)), %d)+1e-12)"
+                    % (d, d)
+                    for d in windows
+                ]
+                names += ["VSUMN%d" % d for d in windows]
+            if use("VSUMD"):
+                # The diff ratio between total volume increase and total volume decrease
+                # RSI indicator for volume
+                fields += [
+                    "(Sum(Greater($volume-Ref($volume, 1), 0), %d)-Sum(Greater(Ref($volume, 1)-$volume, 0), %d))"
+                    "/(Sum(Abs($volume-Ref($volume, 1)), %d)+1e-12)" % (d, d, d)
+                    for d in windows
+                ]
+                names += ["VSUMD%d" % d for d in windows]
+
+        return fields, names

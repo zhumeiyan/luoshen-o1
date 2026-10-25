@@ -1,1 +1,123 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCueZveaooemihOa8lOWxgiDigJTigJQg5a+55qCHIFRhcE5vdyAzRCDniYflnLrjgIzlhYjmjpLkuIDpgY3miI/jgI3jgIIKCuWcqOaYgui0teWKqOS9nO+8iOaOqCBHaXRIdWIgLyDnlJ/miJDmiJDlk4HvvInkuYvliY3vvIzlhYjnlKjpm7bmiJDmnKzmiorplJnor6/mjpLlh7rmnaXjgIIK55CG55Sx77ya55m95qih6YeM5pS55LiA5Liq5py65L2N55qE5oiQ5pys77yM5ZKM5oiQ54mH5riy5p+T5a6M5YaN5pS577yM5LiN5piv5LiA5Liq6YeP57qn44CCCgogICAgcHl0aG9uMyBwcmVmbGlnaHQucHkg5paH5Lu2MSDmlofku7YyIC4uLiAgICAgIyDpooTmvJTvvIzkuI3mjqjpgIEKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uLCBiYXNlNjQsIHVybGxpYi5yZXF1ZXN0LCB1cmxsaWIuZXJyb3IsIHVybGxpYi5wYXJzZSwgcmUKClJFUE8gPSAiemh1bWVpeWFuL2x1b3NoZW4tbzEiClRPSyA9IG9zLmVudmlyb24uZ2V0KCJHSF9UT0tFTiIsICIiKQpDSEVDS1MgPSBbXQoKZGVmIGNrKG5hbWUpOgogICAgZGVmIGRlY28oZik6CiAgICAgICAgQ0hFQ0tTLmFwcGVuZCgobmFtZSwgZikpOyByZXR1cm4gZgogICAgcmV0dXJuIGRlY28KCkBjaygi5paH5Lu25a2Y5ZyoIikKZGVmIF9jMShwYXRoKToKICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShwYXRoKTogcmV0dXJuIEZhbHNlLCAi5LiN5a2Y5ZyoIgogICAgcmV0dXJuIFRydWUsICIlZCBCIiAlIG9zLnBhdGguZ2V0c2l6ZShwYXRoKQoKQGNrKCLot6/lvoTlj6/nvJbnoIEiKQpkZWYgX2MyKHBhdGgpOgogICAgcmVtID0gb3MucGF0aC5yZWxwYXRoKHBhdGgsIG9zLmdldGN3ZCgpKQogICAgdHJ5OgogICAgICAgIHVybGxpYi5wYXJzZS5xdW90ZShyZW0sIHNhZmU9Ii8iKTsgcmV0dXJuIFRydWUsIHJlbQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiBGYWxzZSwgcmVwcihlKVs6NjBdCgpAY2soIuWGheWuueWPryBiYXNlNjQiKQpkZWYgX2MzKHBhdGgpOgogICAgdHJ5OgogICAgICAgIGJhc2U2NC5iNjRlbmNvZGUob3BlbihwYXRoLCAicmIiKS5yZWFkKCkpOyByZXR1cm4gVHJ1ZSwgIm9rIgogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiBGYWxzZSwgcmVwcihlKVs6NjBdCgpAY2soIuivreazleWPr+ino+aekCIpCmRlZiBfYzQocGF0aCk6CiAgICBpZiBub3QgcGF0aC5lbmRzd2l0aCgiLnB5Iik6IHJldHVybiBOb25lLCAi6Z2eIHB577yM6Lez6L+HIgogICAgdHJ5OgogICAgICAgIGltcG9ydCBhc3Q7IGFzdC5wYXJzZShvcGVuKHBhdGgsIGVuY29kaW5nPSJ1dGYtOCIpLnJlYWQoKSk7IHJldHVybiBUcnVlLCAiYXN0IG9rIgogICAgZXhjZXB0IFN5bnRheEVycm9yIGFzIGU6CiAgICAgICAgcmV0dXJuIEZhbHNlLCAi6KGMJWQ6ICVzIiAlIChlLmxpbmVubyBvciAwLCAoZS5tc2cgb3IgIiIpWzo1MF0pCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIEZhbHNlLCByZXByKGUpWzo1MF0KCkBjaygiSFRNTCDlhoXogZQgc3R5bGUiKQpkZWYgX2M1KHBhdGgpOgogICAgaWYgbm90IHBhdGguZW5kc3dpdGgoIi5odG1sIik6IHJldHVybiBOb25lLCAi6Z2eIGh0bWzvvIzot7Pov4ciCiAgICBzID0gb3BlbihwYXRoLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpLnJlYWQoKQogICAgbiA9IGxlbihyZS5maW5kYWxsKHIiPHN0eWxlIiwgcywgcmUuSSkpCiAgICBpZiBuID09IDA6IHJldHVybiBUcnVlLCAi5peg5YaF6IGU77yI5LiN5Lya6KKr55uW77yJIgogICAgcmV0dXJuIEZhbHNlLCAiJWQg5aSE5YaF6IGUIDxzdHlsZT7vvIzkvJrnm5bmjokgdGhlbWUuY3NzIiAlIG4KCkBjaygi5Yet5o2u5pyJ5pWIIikKZGVmIF9jNihwYXRoKToKICAgIGlmIG5vdCBUT0s6IHJldHVybiBGYWxzZSwgIkdIX1RPS0VOIOacqumAj+S8oO+8iOS4jeaYr+ayoeacie+8jOaYr+ayoeS8oOi/m+adpe+8iSIKICAgIHRyeToKICAgICAgICByID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCgiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS91c2VyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXsiVXNlci1BZ2VudCI6ICJ4IiwgIkF1dGhvcml6YXRpb24iOiAidG9rZW4gIiArIFRPS30pCiAgICAgICAgd2hvID0ganNvbi5sb2Fkcyh1cmxsaWIucmVxdWVzdC51cmxvcGVuKHIsIHRpbWVvdXQ9NDUpLnJlYWQoKSkuZ2V0KCJsb2dpbiIsICI/IikKICAgICAgICByZXR1cm4gVHJ1ZSwgIui6q+S7vT0iICsgd2hvCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIEZhbHNlLCByZXByKGUpWzo2MF0KCkBjaygi6L+c56uvIHNoYSDlj6/lj5YiKQpkZWYgX2M3KHBhdGgpOgogICAgcmVtID0gb3MucGF0aC5yZWxwYXRoKHBhdGgsIG9zLmdldGN3ZCgpKQogICAgaWYgbm90IFRPSzogcmV0dXJuIE5vbmUsICLml6Dlh63mja7vvIzot7Pov4ciCiAgICB0cnk6CiAgICAgICAgdSA9ICJodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zLyVzL2NvbnRlbnRzLyVzIiAlIChSRVBPLCB1cmxsaWIucGFyc2UucXVvdGUocmVtLCBzYWZlPSIvIikpCiAgICAgICAgciA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodSwgaGVhZGVycz17IlVzZXItQWdlbnQiOiAieCIsICJBdXRob3JpemF0aW9uIjogInRva2VuICIgKyBUT0t9KQogICAgICAgIHggPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHIsIHRpbWVvdXQ9NDUpCiAgICAgICAgc2hhID0ganNvbi5sb2Fkcyh4LnJlYWQoKSkuZ2V0KCJzaGEiLCAiIikKICAgICAgICByZXR1cm4gVHJ1ZSwgIuW3suWtmOWcqO+8jHNoYT0iICsgc2hhWzoxMl0gKyAi77yI5bimIHNoYSDmiY3kuI3kvJogNDA577yJIgogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToKICAgICAgICBpZiBlLmNvZGUgPT0gNDA0OiByZXR1cm4gVHJ1ZSwgIui/nOerr+S4jeWtmOWcqCDihpIg5paw5bu677yI5LiN5Lya5Yay56qB77yJIgogICAgICAgIHJldHVybiBGYWxzZSwgInJjPSVkIiAlIGUuY29kZQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiBGYWxzZSwgcmVwcihlKVs6NjBdCgpAY2soIuWGheWuueacieWPmOWMliIpCmRlZiBfYzgocGF0aCk6CiAgICByZW0gPSBvcy5wYXRoLnJlbHBhdGgocGF0aCwgb3MuZ2V0Y3dkKCkpCiAgICBpZiBub3QgVE9LOiByZXR1cm4gTm9uZSwgIuaXoOWHreaNru+8jOi3s+i/hyIKICAgIHRyeToKICAgICAgICB1ID0gImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvJXMvY29udGVudHMvJXMiICUgKFJFUE8sIHVybGxpYi5wYXJzZS5xdW90ZShyZW0sIHNhZmU9Ii8iKSkKICAgICAgICByID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1LCBoZWFkZXJzPXsiVXNlci1BZ2VudCI6ICJ4IiwgIkF1dGhvcml6YXRpb24iOiAidG9rZW4gIiArIFRPS30pCiAgICAgICAgZCA9IGpzb24ubG9hZHModXJsbGliLnJlcXVlc3QudXJsb3BlbihyLCB0aW1lb3V0PTQ1KS5yZWFkKCkpCiAgICAgICAgaWYgImNvbnRlbnQiIG5vdCBpbiBkOiByZXR1cm4gTm9uZSwgIuaXoCBjb250ZW50IgogICAgICAgIG9sZCA9IGJhc2U2NC5iNjRkZWNvZGUoZFsiY29udGVudCJdKQogICAgICAgIG5ldyA9IG9wZW4ocGF0aCwgInJiIikucmVhZCgpCiAgICAgICAgcmV0dXJuIChUcnVlLCAi5LiA6Ie077yM5peg6ZyA5o6oIikgaWYgb2xkID09IG5ldyBlbHNlIChUcnVlLCAi5pyJ5Y+Y5YyWICVkQuKGkiVkQiIgJSAobGVuKG9sZCksIGxlbihuZXcpKSkKICAgIGV4Y2VwdCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yIGFzIGU6CiAgICAgICAgaWYgZS5jb2RlID09IDQwNDogcmV0dXJuIFRydWUsICLmlrDmlofku7YiCiAgICAgICAgcmV0dXJuIE5vbmUsICJyYz0lZO+8jOi3s+i/hyIgJSBlLmNvZGUKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXR1cm4gTm9uZSwgcmVwcihlKVs6NTBdCgpkZWYgcnVuKHBhdGhzKToKICAgIHByaW50KCI9PT0g55m95qih6aKE5ryU77yI5LiN5o6o6YCB77yM5Y+q5o6S6ZSZ77yJPT09IikKICAgIGJhZCA9IFtdCiAgICBmb3IgcCBpbiBwYXRoczoKICAgICAgICBwcmludCgiXG7ilIDilIAgJXMiICUgb3MucGF0aC5yZWxwYXRoKHAsIG9zLmdldGN3ZCgpKSkKICAgICAgICBmb3IgbmFtZSwgZiBpbiBDSEVDS1M6CiAgICAgICAgICAgIHRyeTogb2ssIG1zZyA9IGYocCkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiBvaywgbXNnID0gRmFsc2UsIHJlcHIoZSlbOjYwXQogICAgICAgICAgICBpZiBvayBpcyBOb25lOiBtYXJrID0gIiAgwrciCiAgICAgICAgICAgIGVsaWYgb2s6IG1hcmsgPSAiICDinJMiCiAgICAgICAgICAgIGVsc2U6IG1hcmsgPSAiICDinJciOyBiYWQuYXBwZW5kKChwLCBuYW1lLCBtc2cpKQogICAgICAgICAgICBwcmludCgiJXMgJS0xNHMgJXMiICUgKG1hcmssIG5hbWUsIG1zZykpCiAgICBwcmludCgiXG49PT0g6aKE5ryU57uT6K66ID09PSIpCiAgICBpZiBiYWQ6CiAgICAgICAgZm9yIHAsIG4sIG0gaW4gYmFkOiBwcmludCgiICDinJcgJXMgOjogJXMg4oaSICVzIiAlIChvcy5wYXRoLnJlbHBhdGgocCwgb3MuZ2V0Y3dkKCkpLCBuLCBtKSkKICAgICAgICBwcmludCgiICDlhbEgJWQg5aSE5Lya56m/5biu77yM5YWI5pS55YaN5o6oIiAlIGxlbihiYWQpKTsgcmV0dXJuIDEKICAgIHByaW50KCIgIDAg5aSE56m/5biu77yM5Y+v5Lul5o6oIik7IHJldHVybiAwCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQocnVuKHN5cy5hcmd2WzE6XSkpCg==
+# -*- coding: utf-8 -*-
+"""
+白模预演层 —— 对标 TapNow 3D 片场「先排一遍戏」。
+
+在昂贵动作（推 GitHub / 生成成品）之前，先用零成本把错误排出来。
+理由：白模里改一个机位的成本，和成片渲染完再改，不是一个量级。
+
+    python3 preflight.py 文件1 文件2 ...     # 预演，不推送
+"""
+import os, sys, json, base64, urllib.request, urllib.error, urllib.parse, re
+
+REPO = "zhumeiyan/luoshen-o1"
+TOK = os.environ.get("GH_TOKEN", "")
+CHECKS = []
+
+def ck(name):
+    def deco(f):
+        CHECKS.append((name, f)); return f
+    return deco
+
+@ck("文件存在")
+def _c1(path):
+    if not os.path.isfile(path): return False, "不存在"
+    return True, "%d B" % os.path.getsize(path)
+
+@ck("路径可编码")
+def _c2(path):
+    rem = os.path.relpath(path, os.getcwd())
+    try:
+        urllib.parse.quote(rem, safe="/"); return True, rem
+    except Exception as e:
+        return False, repr(e)[:60]
+
+@ck("内容可 base64")
+def _c3(path):
+    try:
+        base64.b64encode(open(path, "rb").read()); return True, "ok"
+    except Exception as e:
+        return False, repr(e)[:60]
+
+@ck("语法可解析")
+def _c4(path):
+    if not path.endswith(".py"): return None, "非 py，跳过"
+    try:
+        import ast; ast.parse(open(path, encoding="utf-8").read()); return True, "ast ok"
+    except SyntaxError as e:
+        return False, "行%d: %s" % (e.lineno or 0, (e.msg or "")[:50])
+    except Exception as e:
+        return False, repr(e)[:50]
+
+@ck("HTML 内联 style")
+def _c5(path):
+    if not path.endswith(".html"): return None, "非 html，跳过"
+    s = open(path, encoding="utf-8", errors="ignore").read()
+    n = len(re.findall(r"<style", s, re.I))
+    if n == 0: return True, "无内联（不会被盖）"
+    return False, "%d 处内联 <style>，会盖掉 theme.css" % n
+
+@ck("凭据有效")
+def _c6(path):
+    if not TOK: return False, "GH_TOKEN 未透传（不是没有，是没传进来）"
+    try:
+        r = urllib.request.Request("https://api.github.com/user",
+                                   headers={"User-Agent": "x", "Authorization": "token " + TOK})
+        who = json.loads(urllib.request.urlopen(r, timeout=45).read()).get("login", "?")
+        return True, "身份=" + who
+    except Exception as e:
+        return False, repr(e)[:60]
+
+@ck("远端 sha 可取")
+def _c7(path):
+    rem = os.path.relpath(path, os.getcwd())
+    if not TOK: return None, "无凭据，跳过"
+    try:
+        u = "https://api.github.com/repos/%s/contents/%s" % (REPO, urllib.parse.quote(rem, safe="/"))
+        r = urllib.request.Request(u, headers={"User-Agent": "x", "Authorization": "token " + TOK})
+        x = urllib.request.urlopen(r, timeout=45)
+        sha = json.loads(x.read()).get("sha", "")
+        return True, "已存在，sha=" + sha[:12] + "（带 sha 才不会 409）"
+    except urllib.error.HTTPError as e:
+        if e.code == 404: return True, "远端不存在 → 新建（不会冲突）"
+        return False, "rc=%d" % e.code
+    except Exception as e:
+        return False, repr(e)[:60]
+
+@ck("内容有变化")
+def _c8(path):
+    rem = os.path.relpath(path, os.getcwd())
+    if not TOK: return None, "无凭据，跳过"
+    try:
+        u = "https://api.github.com/repos/%s/contents/%s" % (REPO, urllib.parse.quote(rem, safe="/"))
+        r = urllib.request.Request(u, headers={"User-Agent": "x", "Authorization": "token " + TOK})
+        d = json.loads(urllib.request.urlopen(r, timeout=45).read())
+        if "content" not in d: return None, "无 content"
+        old = base64.b64decode(d["content"])
+        new = open(path, "rb").read()
+        return (True, "一致，无需推") if old == new else (True, "有变化 %dB→%dB" % (len(old), len(new)))
+    except urllib.error.HTTPError as e:
+        if e.code == 404: return True, "新文件"
+        return None, "rc=%d，跳过" % e.code
+    except Exception as e:
+        return None, repr(e)[:50]
+
+def run(paths):
+    print("=== 白模预演（不推送，只排错）===")
+    bad = []
+    for p in paths:
+        print("\n── %s" % os.path.relpath(p, os.getcwd()))
+        for name, f in CHECKS:
+            try: ok, msg = f(p)
+            except Exception as e: ok, msg = False, repr(e)[:60]
+            if ok is None: mark = "  ·"
+            elif ok: mark = "  ✓"
+            else: mark = "  ✗"; bad.append((p, name, msg))
+            print("%s %-14s %s" % (mark, name, msg))
+    print("\n=== 预演结论 ===")
+    if bad:
+        for p, n, m in bad: print("  ✗ %s :: %s → %s" % (os.path.relpath(p, os.getcwd()), n, m))
+        print("  共 %d 处会穿帮，先改再推" % len(bad)); return 1
+    print("  0 处穿帮，可以推"); return 0
+
+if __name__ == "__main__":
+    sys.exit(run(sys.argv[1:]))

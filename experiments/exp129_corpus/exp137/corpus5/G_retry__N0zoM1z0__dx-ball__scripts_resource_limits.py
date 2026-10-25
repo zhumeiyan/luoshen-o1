@@ -1,1 +1,21 @@
-IiIiU21hbGwgcmVzb3VyY2UgYnVkZ2V0cyBmb3IgcHJvamVjdCBidWlsZHMgYW5kIFJFQSdzIG5hdGl2ZSBwcm92aWRlci4iIiIKaW1wb3J0IG9zCgpCVUlMRF9KT0JTID0gMQpHSElEUkFfSEVBUF9NSUIgPSA1MTIKCgpkZWYgbGltaXRfY3B1KCk6CiAgICAiIiJLZWVwIHRoaXMgcHJvY2VzcyBhbmQgZnV0dXJlIGNoaWxkcmVuIG9uIG9uZSBhbHJlYWR5LWFsbG93ZWQgTGludXggQ1BVLiIiIgogICAgaWYgaGFzYXR0cihvcywgInNjaGVkX2dldGFmZmluaXR5Iik6CiAgICAgICAgYWxsb3dlZCA9IG9zLnNjaGVkX2dldGFmZmluaXR5KDApCiAgICAgICAgb3Muc2NoZWRfc2V0YWZmaW5pdHkoMCwge21pbihhbGxvd2VkKX0pCgoKZGVmIGdoaWRyYV9lbnZpcm9ubWVudChlbnYpOgogICAgIiIiVXNlIHN1cHBvcnRlZCBsYXVuY2hlciB2YXJpYWJsZXM7IGRvIG5vdCBtb2RpZnkgcGlubmVkIHByb3ZpZGVyIGZpbGVzLiIiIgogICAgZW52ID0gZW52LmNvcHkoKQogICAgZW52WyJHSElEUkFfSEVBRExFU1NfTUFYTUVNIl0gPSBmIntHSElEUkFfSEVBUF9NSUJ9TSIKICAgICMgUkVBIHNhbml0aXplcyBleHRlcm5hbCBKVk0gb3B0aW9uIHN0cmluZ3MuIEl0cyBzdXBwb3J0ZWQgaGVhcCB2YXJpYWJsZQogICAgIyBzdXJ2aXZlcywgYW5kIGluaGVyaXRlZCBhZmZpbml0eSBsaW1pdHMgYWxsIHByb3ZpZGVyL2RlY29tcGlsZXIgdGhyZWFkcy4KICAgIHJldHVybiBlbnYK
+"""Small resource budgets for project builds and REA's native provider."""
+import os
+
+BUILD_JOBS = 1
+GHIDRA_HEAP_MIB = 512
+
+
+def limit_cpu():
+    """Keep this process and future children on one already-allowed Linux CPU."""
+    if hasattr(os, "sched_getaffinity"):
+        allowed = os.sched_getaffinity(0)
+        os.sched_setaffinity(0, {min(allowed)})
+
+
+def ghidra_environment(env):
+    """Use supported launcher variables; do not modify pinned provider files."""
+    env = env.copy()
+    env["GHIDRA_HEADLESS_MAXMEM"] = f"{GHIDRA_HEAP_MIB}M"
+    # REA sanitizes external JVM option strings. Its supported heap variable
+    # survives, and inherited affinity limits all provider/decompiler threads.
+    return env

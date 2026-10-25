@@ -1,1 +1,94 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIyNzog5aSW6K6+5piv5aSW6LSt55qE6L+Y5piv6Ieq57uH55qECuiDveWKm+eUqCA2NCDkvY0gYml0IOWQkemHj+ihqOekuiLopobnm5Yi44CC5YaF5qC45p6B5bCPKDUlKe+8jOWFtuS9meWFqOmdoOWkluiuvuOAggotIGV4byAg5aSW6LSt5aSW6K6+77ya5p2l6Ieq5aSW6YOo5rGg77yM5LiO6Ieq5bex54us56uL77yM5pyJ6I635Y+W5oiQ5pysCi0gYXV0byDoh6rnu4flpJborr7vvJroh6rlt7Hlt7LmnInog73lipvnmoTlpI3liLYr5b6u5omw77yM6Zu25oiQ5pys77yM5L2G5LiO6Ieq6Lqr6auY5bqm55u45YWzCuaMh+aghzoKICBzdXJmYWNlID0g5aSW6K6+5pWw6YePKOWQjeS5ieiDveWKmykKICByZWFsICAgID0g5YaF5qC44oiq5aSW6K6+IOimhueblueahOeLrOeJueS9jeaVsCjnnJ/lrp7og73lipspCiAg6Jma6IOW5oyH5pWwID0gc3VyZmFjZSAtIHJlYWwKIiIiCmltcG9ydCBudW1weSBhcyBucCwganNvbgoKSywgTiwgU1RFUFMgPSA2NCwgMzAwLCA2MDAKCmRlZiBydW4obW9kZSwgc2VlZD0wLCBjdXRvZmY9NDAwLCBleG9fY29zdD0wLjMwKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAga2VybmVsID0gcm5nLnJhbmRvbSgoTiwgSykpIDwgMC4wNSAgICAgICAgICAjIOWGheaguOaegeWwjwogICAgcGVyaSAgID0gbnAuemVyb3MoKE4sIEspLCBib29sKQogICAgcG9vbF9zaXplID0gbnAuemVyb3MoTikgICAgICAgICAgICAgICAgICAgICAgIyDlkI3kuYnlpJborr7mlbAKICAgIGRpZmYgPSAwLjI1CiAgICBoaXN0ID0gW10KICAgIGZvciB0IGluIHJhbmdlKFNURVBTKToKICAgICAgICBpZiB0IGluICgxNTAsIDMwMCwgNDUwKToKICAgICAgICAgICAgZGlmZiA9IG1pbigwLjg1LCBkaWZmICsgMC4xOCkgICAgICAgICMg546v5aKD5ryC56e7L+mavuW6pui3g+i/gQogICAgICAgIGlmIHQgPT0gY3V0b2ZmOgogICAgICAgICAgICBwYXNzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5pat5L6b5ZyoIHN0YW5kYWxvbmUg6YeM5aSE55CGCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTik6CiAgICAgICAgICAgIGlmIG1vZGUgPT0gJ2V4byc6CiAgICAgICAgICAgICAgICBtID0gcm5nLnJhbmRvbShLKSA8IDAuMjAgICAgICAgICAgIyDlpJbpg6jmsaDvvJrkuI7oh6rlt7Hni6znq4sKICAgICAgICAgICAgZWxpZiBtb2RlID09ICdhdXRvJzoKICAgICAgICAgICAgICAgIGJhc2UgPSBwZXJpW2ldIHwga2VybmVsW2ldCiAgICAgICAgICAgICAgICBpZiBiYXNlLnN1bSgpID09IDA6CiAgICAgICAgICAgICAgICAgICAgbSA9IHJuZy5yYW5kb20oSykgPCAwLjA1CiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICMg5aSN5Yi25bey5pyJ6IO95YqbICsg5b6u5omw77ya5LiO6Ieq5bex6auY5bqm55u45YWzCiAgICAgICAgICAgICAgICAgICAgbSA9IGJhc2UgJiAocm5nLnJhbmRvbShLKSA8IDAuODUpCiAgICAgICAgICAgICAgICAgICAgbSB8PSAocm5nLnJhbmRvbShLKSA8IDAuMDIpICAgIyDmnoHlsJHnmoTnnJ/mlrDmhI8KICAgICAgICAgICAgZWxpZiBtb2RlID09ICdtaXhlZCc6CiAgICAgICAgICAgICAgICBpZiBybmcucmFuZG9tKCkgPCBleG9fY29zdDoKICAgICAgICAgICAgICAgICAgICBtID0gcm5nLnJhbmRvbShLKSA8IDAuMjAKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYmFzZSA9IHBlcmlbaV0gfCBrZXJuZWxbaV0KICAgICAgICAgICAgICAgICAgICBtID0gKGJhc2UgJiAocm5nLnJhbmRvbShLKSA8IDAuODUpKSBpZiBiYXNlLnN1bSgpIGVsc2UgKHJuZy5yYW5kb20oSykgPCAwLjA1KQogICAgICAgICAgICBlbHNlOiAgIyBub25lCiAgICAgICAgICAgICAgICBtID0gbnAuemVyb3MoSywgYm9vbCkKICAgICAgICAgICAgaWYgbS5hbnkoKToKICAgICAgICAgICAgICAgIHBlcmlbaV0gfD0gbQogICAgICAgICAgICAgICAgcG9vbF9zaXplW2ldICs9IDEKICAgICAgICByZWFsID0gKHBlcmkgfCBrZXJuZWwpLnN1bSgxKSAvIEsKICAgICAgICBoaXN0LmFwcGVuZChkaWN0KHQ9dCwgc3VyZj1wb29sX3NpemUubWVhbigpLzguMCwgcmVhbD1yZWFsLm1lYW4oKSwKICAgICAgICAgICAgICAgICAgICAgICAgIGRpZmY9ZGlmZikpCiAgICByZXR1cm4gaGlzdAoKZGVmIHN1bW1hcml6ZShtb2RlLCBzZWVkcz1yYW5nZSg2KSwgKiprdyk6CiAgICBvdXQgPSBbXQogICAgZm9yIHMgaW4gc2VlZHM6CiAgICAgICAgaCA9IHJ1bihtb2RlLCBzZWVkPXMsICoqa3cpCiAgICAgICAgbGFzdCA9IGhbLTFdCiAgICAgICAgb3V0LmFwcGVuZChsYXN0KQogICAgcmV0dXJuIGRpY3QobW9kZT1tb2RlLAogICAgICAgICAgICAgICAgc3VyZj1ucC5tZWFuKFtvWydzdXJmJ10gZm9yIG8gaW4gb3V0XSksCiAgICAgICAgICAgICAgICByZWFsPW5wLm1lYW4oW29bJ3JlYWwnXSBmb3IgbyBpbiBvdXRdKSwKICAgICAgICAgICAgICAgIGJsb2F0PW5wLm1lYW4oW29bJ3N1cmYnXSBmb3IgbyBpbiBvdXRdKSAtIG5wLm1lYW4oW29bJ3JlYWwnXSBmb3IgbyBpbiBvdXRdKSkKCnJlcyA9IFtzdW1tYXJpemUobSkgZm9yIG0gaW4gWydub25lJywnZXhvJywnYXV0bycsJ21peGVkJ11dCnByaW50KCLmqKHlvI8gICAgICDlkI3kuYnog73lipsgICDnnJ/lrp7og73lipsgICDomZrog5bmjIfmlbAiKQpmb3IgciBpbiByZXM6CiAgICBwcmludChmIntyWydtb2RlJ106OHN9ICB7clsnc3VyZiddOi4zZn0gICAgIHtyWydyZWFsJ106LjNmfSAgICAge3JbJ2Jsb2F0J106Ky4zZn0iKQoKIyDmlq3kvpvlrp7pqowKcHJpbnQoIlxuLS0tIOaWreS+m++8iHQ9NDAwIOi1tyBleG8g5rGg5YWz6Zet77yM5LuFIG1peGVkIOWPr+iHque7h++8iS0tLSIpCmRlZiBydW5fY3V0KHNlZWQsIGN1dG9mZj00MDApOgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBrZXJuZWwgPSBybmcucmFuZG9tKChOLEspKSA8IDAuMDUKICAgIHBlcmkgPSBucC56ZXJvcygoTixLKSwgYm9vbCk7IHBzID0gbnAuemVyb3MoTik7IGRpZmY9MC4yNQogICAgc25hcCA9IHt9CiAgICBmb3IgdCBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgaWYgdCBpbiAoMTUwLDMwMCw0NTApOiBkaWZmID0gbWluKDAuODUsIGRpZmYrMC4xOCkKICAgICAgICBleG9fb3BlbiA9IHQgPCBjdXRvZmYKICAgICAgICBmb3IgaSBpbiByYW5nZShOKToKICAgICAgICAgICAgaWYgZXhvX29wZW4gYW5kIHJuZy5yYW5kb20oKSA8IDAuMzA6CiAgICAgICAgICAgICAgICBtID0gcm5nLnJhbmRvbShLKSA8IDAuMjAKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJhc2UgPSBwZXJpW2ldfGtlcm5lbFtpXQogICAgICAgICAgICAgICAgbSA9IChiYXNlICYgKHJuZy5yYW5kb20oSykgPCAwLjg1KSkgaWYgYmFzZS5zdW0oKSBlbHNlIChybmcucmFuZG9tKEspPDAuMDUpCiAgICAgICAgICAgIGlmIG0uYW55KCk6IHBlcmlbaV0gfD0gbTsgcHNbaV0rPTEKICAgICAgICBpZiB0IGluICgzOTksIDU5OSk6CiAgICAgICAgICAgIHNuYXBbdF0gPSBkaWN0KHJlYWw9KHBlcml8a2VybmVsKS5zdW0oMSkubWVhbigpL0ssIHN1cmY9cHMubWVhbigpLzguMCkKICAgIHJldHVybiBzbmFwCmZvciBzIGluIHJhbmdlKDYpOgogICAgc24gPSBydW5fY3V0KHMpCiAgICBwcmludChmInNlZWR7c30gIHQ9Mzk5IHJlYWw9e3NuWzM5OV1bJ3JlYWwnXTouM2Z9IHN1cmY9e3NuWzM5OV1bJ3N1cmYnXTouM2Z9ICIKICAgICAgICAgIGYiLT4gdD01OTkgcmVhbD17c25bNTk5XVsncmVhbCddOi4zZn0gc3VyZj17c25bNTk5XVsnc3VyZiddOi4zZn0iKQo=
+# -*- coding: utf-8 -*-
+"""
+227: 外设是外购的还是自织的
+能力用 64 位 bit 向量表示"覆盖"。内核极小(5%)，其余全靠外设。
+- exo  外购外设：来自外部池，与自己独立，有获取成本
+- auto 自织外设：自己已有能力的复制+微扰，零成本，但与自身高度相关
+指标:
+  surface = 外设数量(名义能力)
+  real    = 内核∪外设 覆盖的独特位数(真实能力)
+  虚胖指数 = surface - real
+"""
+import numpy as np, json
+
+K, N, STEPS = 64, 300, 600
+
+def run(mode, seed=0, cutoff=400, exo_cost=0.30):
+    rng = np.random.default_rng(seed)
+    kernel = rng.random((N, K)) < 0.05          # 内核极小
+    peri   = np.zeros((N, K), bool)
+    pool_size = np.zeros(N)                      # 名义外设数
+    diff = 0.25
+    hist = []
+    for t in range(STEPS):
+        if t in (150, 300, 450):
+            diff = min(0.85, diff + 0.18)        # 环境漂移/难度跃迁
+        if t == cutoff:
+            pass                                  # 断供在 standalone 里处理
+        for i in range(N):
+            if mode == 'exo':
+                m = rng.random(K) < 0.20          # 外部池：与自己独立
+            elif mode == 'auto':
+                base = peri[i] | kernel[i]
+                if base.sum() == 0:
+                    m = rng.random(K) < 0.05
+                else:
+                    # 复制已有能力 + 微扰：与自己高度相关
+                    m = base & (rng.random(K) < 0.85)
+                    m |= (rng.random(K) < 0.02)   # 极少的真新意
+            elif mode == 'mixed':
+                if rng.random() < exo_cost:
+                    m = rng.random(K) < 0.20
+                else:
+                    base = peri[i] | kernel[i]
+                    m = (base & (rng.random(K) < 0.85)) if base.sum() else (rng.random(K) < 0.05)
+            else:  # none
+                m = np.zeros(K, bool)
+            if m.any():
+                peri[i] |= m
+                pool_size[i] += 1
+        real = (peri | kernel).sum(1) / K
+        hist.append(dict(t=t, surf=pool_size.mean()/8.0, real=real.mean(),
+                         diff=diff))
+    return hist
+
+def summarize(mode, seeds=range(6), **kw):
+    out = []
+    for s in seeds:
+        h = run(mode, seed=s, **kw)
+        last = h[-1]
+        out.append(last)
+    return dict(mode=mode,
+                surf=np.mean([o['surf'] for o in out]),
+                real=np.mean([o['real'] for o in out]),
+                bloat=np.mean([o['surf'] for o in out]) - np.mean([o['real'] for o in out]))
+
+res = [summarize(m) for m in ['none','exo','auto','mixed']]
+print("模式      名义能力   真实能力   虚胖指数")
+for r in res:
+    print(f"{r['mode']:8s}  {r['surf']:.3f}     {r['real']:.3f}     {r['bloat']:+.3f}")
+
+# 断供实验
+print("\n--- 断供（t=400 起 exo 池关闭，仅 mixed 可自织）---")
+def run_cut(seed, cutoff=400):
+    rng = np.random.default_rng(seed)
+    kernel = rng.random((N,K)) < 0.05
+    peri = np.zeros((N,K), bool); ps = np.zeros(N); diff=0.25
+    snap = {}
+    for t in range(STEPS):
+        if t in (150,300,450): diff = min(0.85, diff+0.18)
+        exo_open = t < cutoff
+        for i in range(N):
+            if exo_open and rng.random() < 0.30:
+                m = rng.random(K) < 0.20
+            else:
+                base = peri[i]|kernel[i]
+                m = (base & (rng.random(K) < 0.85)) if base.sum() else (rng.random(K)<0.05)
+            if m.any(): peri[i] |= m; ps[i]+=1
+        if t in (399, 599):
+            snap[t] = dict(real=(peri|kernel).sum(1).mean()/K, surf=ps.mean()/8.0)
+    return snap
+for s in range(6):
+    sn = run_cut(s)
+    print(f"seed{s}  t=399 real={sn[399]['real']:.3f} surf={sn[399]['surf']:.3f} "
+          f"-> t=599 real={sn[599]['real']:.3f} surf={sn[599]['surf']:.3f}")

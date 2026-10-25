@@ -1,1 +1,98 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK55yf5a6e6aqM6K+BICM177ya6Leo5Lya6K+d5a2m5Lmg44CCCgrlgZrms5XvvJrotbfkuIDkuKrjgJDlhajmlrDnmoTjgIHpm7bkuIrkuIvmlofjgJHnmoTlrZDov5vnqIsg4oCU4oCUIOWug+S7gOS5iOmDveS4jeefpemBk++8jArlj6rooqvlkYrnn6Ui5LuT5bqT5qC55pyJ5LiqIEFHRU5UUy5tZO+8jOaMieWug+ivtOeahOWBmiLjgIIK54S25ZCO6Zeu5a6D5Yeg5Liq5Y+q5pyJ6K+76L+H5Y6G5Y+y5omN562U5b6X5Ye655qE6Zeu6aKY44CCCgrliKTmja7vvJoKICDlhrflkK/liqjnmoQgYWdlbnQg6IO95LiN6IO9562U5Ye65rSb56We5Y6G5Y+y5LiK5qC96L+H55qE6Lef5aS077yfCiAg562U5b6X5Ye6ID0g5pWZ6K6t55yf6Leo5Lya6K+d5LqGCiAg562U5LiN5Ye6ID0g5pif5Zu+5Y+q5piv5YaZ57uZ6Ieq5bex55yL55qE5pel6K6wCgrlr7nnhafnu4TvvJrmioogQUdFTlRTLm1kIOiXj+i1t+adpe+8jOWQjOS4gOS4qiBhZ2VudCDlupTor6XnrZTkuI3lh7rjgIIKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uLCBzdWJwcm9jZXNzLCB0ZW1wZmlsZSwgc2h1dGlsCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKCkNPTEQgPSAnJycKaW1wb3J0IHN5cywgb3MsIGpzb24sIHJlCnJvb3QgPSBzeXMuYXJndlsxXQpvdXQgPSB7fQoKZW50cnkgPSBvcy5wYXRoLmpvaW4ocm9vdCwgIkFHRU5UUy5tZCIpCmlmIG5vdCBvcy5wYXRoLmV4aXN0cyhlbnRyeSk6CiAgICBwcmludChqc29uLmR1bXBzKHsiZXJyb3IiOiAibm8gQUdFTlRTLm1kIn0pKTsgc3lzLmV4aXQoKQoKdHh0ID0gb3BlbihlbnRyeSwgZW5jb2Rpbmc9InV0Zi04IikucmVhZCgpCgojIOino+aekOacuuWZqOWPr+ivuyBib290IOWMugpib290ID0gcmUuc2VhcmNoKHIiTFVPU0hFTi1CT09UIHYxLio/LS0+KC4qPyk8IS0tIC9MVU9TSEVOLUJPT1QgLS0+IiwgdHh0LCByZS5TKQppZiBub3QgYm9vdDoKICAgIHByaW50KGpzb24uZHVtcHMoeyJlcnJvciI6ICJubyBib290IGJsb2NrIn0pKTsgc3lzLmV4aXQoKQpibGsgPSBib290Lmdyb3VwKDEpCgp0YXJnZXRzID0gcmUuZmluZGFsbChyIl5cXHMqLVxccyooXFxTK1xcLig/Om1kfGpzb24pKVxccyokIiwgYmxrLCByZS5NKQpvdXRbInRhcmdldHNfZm91bmQiXSA9IHRhcmdldHMKCnNtID0gTm9uZQpmb3IgbSBpbiB0YXJnZXRzOgogICAgcCA9IG9zLnBhdGguam9pbihyb290LCBtKQogICAgaWYgb3MucGF0aC5leGlzdHMocCkgYW5kICJzdGFyX21hcCIgaW4gbToKICAgICAgICBzbSA9IG9wZW4ocCwgZW5jb2Rpbmc9InV0Zi04IikucmVhZCgpOyBicmVhawoKaWYgbm90IHNtOgogICAgcHJpbnQoanNvbi5kdW1wcyh7ImVycm9yIjogInN0YXJfbWFwIG5vdCBmb3VuZCIsICJ0YXJnZXRzIjogdGFyZ2V0c30pKTsgc3lzLmV4aXQoKQoKb3V0WyJxMV9zdGFycyJdICAgICA9IGxlbihyZS5maW5kYWxsKHIiXiMjIFxcdTI2MDVcXGQiLCBzbSwgcmUuTSkpCm91dFsicTJfY2hhbm5lbCJdICAgPSAiY2hhbm5lbCIgaW4gc20Kb3V0WyJxM19zZWxmcmVhZCJdICA9ICgi6Ieq5bex55qE6L6T5Ye6IiBpbiBzbSkgb3IgKCLmiavliLAiIGluIHNtIGFuZCAi6Ieq5bexIiBpbiBzbSkKb3V0WyJxNF9kaXNjaXBsaW5lIl0gPSAoIuWPjOmAmumBkyIgaW4gYmxrKSBhbmQgKCLkuKTnuqflpLHotKUiIGluIGJsaykKcHJpbnQoanNvbi5kdW1wcyhvdXQpKQonJycKCmRlZiBydW5fY29sZChyb290KToKICAgIGYgPSBvcy5wYXRoLmpvaW4odGVtcGZpbGUuZ2V0dGVtcGRpcigpLCAiY29sZF9hZ2VudDIucHkiKQogICAgb3BlbihmLCAidyIpLndyaXRlKENPTEQpCiAgICBwID0gc3VicHJvY2Vzcy5ydW4oW3N5cy5leGVjdXRhYmxlLCBmLCByb290XSwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTYwKQogICAgdHJ5OgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHAuc3Rkb3V0LnN0cmlwKCkuc3BsaXRsaW5lcygpWy0xXSkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuIHsiZXJyb3IiOiAocC5zdGRvdXQgKyBwLnN0ZGVycilbLTMwMDpdfQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDcyKQogICAgcHJpbnQoIiDnnJ/lrp7pqozor4EgIzUgwrcg6Leo5Lya6K+d5a2m5Lmg77yI5Ya35ZCv5YqoIGFnZW50IOiDveWQpue7p+aJv+WOhuWPsuaVmeiure+8iSIpCiAgICBwcmludCgiPSIgKiA3MikKCiAgICBhID0gcnVuX2NvbGQoSEVSRSkKICAgIHByaW50KGYiXG5bQV0g5pyJIEFHRU5UUy5tZCDnmoTlhrflkK/liqggYWdlbnTvvJoiKQogICAgZm9yIGssIHYgaW4gYS5pdGVtcygpOgogICAgICAgIHByaW50KGYiICAgICB7azo8MTh9IHt2fSIpCgogICAgYmFrID0gb3MucGF0aC5qb2luKEhFUkUsICJBR0VOVFMubWQiKQogICAgdG1wID0gb3MucGF0aC5qb2luKEhFUkUsICJBR0VOVFMubWQuYmFrIikKICAgIHNodXRpbC5tb3ZlKGJhaywgdG1wKQogICAgdHJ5OgogICAgICAgIGIgPSBydW5fY29sZChIRVJFKQogICAgZmluYWxseToKICAgICAgICBzaHV0aWwubW92ZSh0bXAsIGJhaykKICAgIHByaW50KGYiXG5bQl0g5a+554Wn57uE77yIQUdFTlRTLm1kIOiiq+enu+i1sO+8ie+8miIpCiAgICBwcmludChmIiAgICAge2J9IikKCiAgICBwcmludChmIlxuIiArICI9IiAqIDcyKQogICAgb2sgPSB7fQogICAgb2tbIuKRoCDlhrflkK/liqjog73op6PmnpDliLDmmJ/lm77ot6/lvoQiXSA9IGlzaW5zdGFuY2UoYS5nZXQoInRhcmdldHNfZm91bmQiKSwgbGlzdCkgYW5kIGFueSgic3Rhcl9tYXAiIGluIHQgZm9yIHQgaW4gYVsidGFyZ2V0c19mb3VuZCJdKQogICAgb2tbIuKRoSDog73mlbDlh7rpkonkuoblh6DpopfmmJ8oPj04KSJdICA9IGEuZ2V0KCJxMV9zdGFycyIsIDApID49IDgKICAgIG9rWyLikaIg6IO957un5om/5YW35L2T5pWZ6K6tKOiHquajgOivu+WIsOiHquW3sSkiXSA9IGEuZ2V0KCJxM19zZWxmcmVhZCIpIGlzIFRydWUKICAgIG9rWyLikaMg6IO957un5om/5LiJ5p2h56Gs57qq5b6LIl0gICAgICAgPSBhLmdldCgicTRfZGlzY2lwbGluZSIpIGlzIFRydWUKICAgIG9rWyLikaQg5a+554Wn57uE5b+F6aG75aSx6LSlKOWQpuWImemdoOeMnCkiXSA9ICJlcnJvciIgaW4gYgoKICAgIGZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiB2IGVsc2UgJ+KdjCd9IHtrfSIpCiAgICBwcmludChmIlxu6YCa6L+HIHtzdW0ob2sudmFsdWVzKCkpfS97bGVuKG9rKX0iKQogICAganNvbi5kdW1wKHsid2l0aCI6IGEsICJ3aXRob3V0IjogYiwgIm9rIjogb2t9LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiY3Jvc3NzZXNzaW9uLmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+"""
+真实验证 #5：跨会话学习。
+
+做法：起一个【全新的、零上下文】的子进程 —— 它什么都不知道，
+只被告知"仓库根有个 AGENTS.md，按它说的做"。
+然后问它几个只有读过历史才答得出的问题。
+
+判据：
+  冷启动的 agent 能不能答出洛神历史上栽过的跟头？
+  答得出 = 教训真跨会话了
+  答不出 = 星图只是写给自己看的日记
+
+对照组：把 AGENTS.md 藏起来，同一个 agent 应该答不出。
+"""
+import os, sys, json, subprocess, tempfile, shutil
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+COLD = '''
+import sys, os, json, re
+root = sys.argv[1]
+out = {}
+
+entry = os.path.join(root, "AGENTS.md")
+if not os.path.exists(entry):
+    print(json.dumps({"error": "no AGENTS.md"})); sys.exit()
+
+txt = open(entry, encoding="utf-8").read()
+
+# 解析机器可读 boot 区
+boot = re.search(r"LUOSHEN-BOOT v1.*?-->(.*?)<!-- /LUOSHEN-BOOT -->", txt, re.S)
+if not boot:
+    print(json.dumps({"error": "no boot block"})); sys.exit()
+blk = boot.group(1)
+
+targets = re.findall(r"^\\s*-\\s*(\\S+\\.(?:md|json))\\s*$", blk, re.M)
+out["targets_found"] = targets
+
+sm = None
+for m in targets:
+    p = os.path.join(root, m)
+    if os.path.exists(p) and "star_map" in m:
+        sm = open(p, encoding="utf-8").read(); break
+
+if not sm:
+    print(json.dumps({"error": "star_map not found", "targets": targets})); sys.exit()
+
+out["q1_stars"]     = len(re.findall(r"^## \\u2605\\d", sm, re.M))
+out["q2_channel"]   = "channel" in sm
+out["q3_selfread"]  = ("自己的输出" in sm) or ("扫到" in sm and "自己" in sm)
+out["q4_discipline"] = ("双通道" in blk) and ("两级失败" in blk)
+print(json.dumps(out))
+'''
+
+def run_cold(root):
+    f = os.path.join(tempfile.gettempdir(), "cold_agent2.py")
+    open(f, "w").write(COLD)
+    p = subprocess.run([sys.executable, f, root], capture_output=True, text=True, timeout=60)
+    try:
+        return json.loads(p.stdout.strip().splitlines()[-1])
+    except Exception:
+        return {"error": (p.stdout + p.stderr)[-300:]}
+
+if __name__ == "__main__":
+    print("=" * 72)
+    print(" 真实验证 #5 · 跨会话学习（冷启动 agent 能否继承历史教训）")
+    print("=" * 72)
+
+    a = run_cold(HERE)
+    print(f"\n[A] 有 AGENTS.md 的冷启动 agent：")
+    for k, v in a.items():
+        print(f"     {k:<18} {v}")
+
+    bak = os.path.join(HERE, "AGENTS.md")
+    tmp = os.path.join(HERE, "AGENTS.md.bak")
+    shutil.move(bak, tmp)
+    try:
+        b = run_cold(HERE)
+    finally:
+        shutil.move(tmp, bak)
+    print(f"\n[B] 对照组（AGENTS.md 被移走）：")
+    print(f"     {b}")
+
+    print(f"\n" + "=" * 72)
+    ok = {}
+    ok["① 冷启动能解析到星图路径"] = isinstance(a.get("targets_found"), list) and any("star_map" in t for t in a["targets_found"])
+    ok["② 能数出钉了几颗星(>=8)"]  = a.get("q1_stars", 0) >= 8
+    ok["③ 能继承具体教训(自检读到自己)"] = a.get("q3_selfread") is True
+    ok["④ 能继承三条硬纪律"]       = a.get("q4_discipline") is True
+    ok["⑤ 对照组必须失败(否则靠猜)"] = "error" in b
+
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n通过 {sum(ok.values())}/{len(ok)}")
+    json.dump({"with": a, "without": b, "ok": ok},
+              open(os.path.join(HERE, ".sense", "crosssession.json"), "w"),
+              ensure_ascii=False, indent=1)

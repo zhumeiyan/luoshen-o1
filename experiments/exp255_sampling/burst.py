@@ -1,1 +1,85 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjI1NSB2MiDCtyDkuLvku5PlupPmo4DmtYvnjofkuLrku4DkuYjov5nkuYjkvY7vvJ/igJTigJQg5LiN5piv6aKR546H6Zeu6aKY77yM5piv5YiG5biD5b2i5oCB6Zeu6aKYCuecn+WunuaVsOaNru+8mjkxMiDmnaEgY29tbWl0IOaXtumXtOaIswoiIiIKaW1wb3J0IGpzb24sIGRhdGV0aW1lIGFzIGR0LCBtYXRoCmltcG9ydCBudW1weSBhcyBucApDPWpzb24ubG9hZChvcGVuKCJjb21taXRzLmpzb24iKSkKZGVmIHBhcnNlKHgpOiByZXR1cm4gZHQuZGF0ZXRpbWUuc3RycHRpbWUoeCwiJVktJW0tJWRUJUg6JU06JVNaIikKZGVmIGhvdXJzKHRzKToKICAgIHQ9W3BhcnNlKHgpIGZvciB4IGluIHRzXTsgcmV0dXJuIHNvcnRlZCgoeC1taW4odCkpLnRvdGFsX3NlY29uZHMoKS8zNjAwLjAgZm9yIHggaW4gdCkKCmRlZiBidXJzdF9zdGF0cyhoKToKICAgICIiImJ1cnN0IOaAp++8muebuOmCu+mXtOmalOeahOWPmOW8guezu+aVsCBDVu+8jOS7peWPiiBUb3AtMSDnqpflj6PljaDmr5QiIiIKICAgIGlmIGxlbihoKTwzOiByZXR1cm4gTm9uZQogICAgZD1ucC5kaWZmKGgpCiAgICBkPWRbZD49MF0KICAgIGlmIGxlbihkKT09MCBvciBucC5tZWFuKGQpPT0wOiByZXR1cm4gZGljdChjdj1mbG9hdCgnbmFuJyksdG9wMT1mbG9hdCgnbmFuJyksemVybz1mbG9hdCgnbmFuJykpCiAgICBjdj1mbG9hdChucC5zdGQoZCkvbnAubWVhbihkKSkKICAgICMg5ZCM5LiA56eS5YaF77yI6Ze06ZqUIDDvvInnmoTmr5TkvosgPSBidXJzdCDnmoTnm7TmjqXor4Hmja4KICAgIHplcm89ZmxvYXQobnAubWVhbihkPT0wKSkKICAgICMg5pyA6ZW/6Z2Z6buY5Y2g5q+UCiAgICB0b3AxPWZsb2F0KG1heChkKS9tYXgoc3VtKGQpLDFlLTkpKQogICAgcmV0dXJuIGRpY3QoY3Y9Y3YsemVybz16ZXJvLHRvcDE9dG9wMSkKCnByaW50KCI9Iio4MikKcHJpbnQoIuWunumqjOS6lCDCtyDnnJ/lrp4gY29tbWl0IOa1geaYr+S4jeaYr+OAjOWdh+WMgOOAjeeahO+8n++8iOWGs+WumumHh+agt+iDveS4jeiDvemHh+WIsO+8iSIpCnByaW50KCI9Iio4MikKcHJpbnQoZiJ7J+S7k+W6kyc6PDI0fSB7J24nOj41fSB7J+mXtOmalENWJzo+OX0geyfpm7bpl7TpmpTljaDmr5QnOj4xMX0geyfmnIDplb/pnZnpu5jljaDmr5QnOj4xM30geyflvaLmgIEnOj4xMH0iKQpyb3dzPVtdCmZvciBuLHRzIGluIHNvcnRlZChDLml0ZW1zKCksa2V5PWxhbWJkYSB4Oi1sZW4oeFsxXSkpOgogICAgaWYgbGVuKHRzKTwzOiAKICAgICAgICBwcmludChmIntuOjwyNH0ge2xlbih0cyk6PjV9IHsnKOagt+acrOS4jei2syknOj45fSIpOyBjb250aW51ZQogICAgaD1ob3Vycyh0cyk7IHM9YnVyc3Rfc3RhdHMoaCkKICAgIGlmIHMgaXMgTm9uZTogY29udGludWUKICAgIHNoYXBlID0gIuaegeW6pmJ1cnN0IiBpZiBzWyJ6ZXJvIl0+MC41IGVsc2UgKCJidXJzdCIgaWYgc1siY3YiXT4yIGVsc2UgIuaOpei/keWdh+WMgCIpCiAgICByb3dzLmFwcGVuZCgobixsZW4odHMpLHMpKQogICAgcHJpbnQoZiJ7bjo8MjR9IHtsZW4odHMpOj41fSB7c1snY3YnXTo+OS4yZn0ge3NbJ3plcm8nXTo+MTEuMmZ9IHtzWyd0b3AxJ106PjEzLjJmfSB7c2hhcGU6PjEwfSIpCgpwcmludCgpCnByaW50KCI9Iio4MikKcHJpbnQoIuWunumqjOWFrSDCtyDlr7nnhafvvJrmiorlkIzkuIDmibnkuovku7bph43mjpLmiJDlnYfljIDliIbluIPvvIzmo4DmtYvnjofkvJrmgI7kuYjlj5giKQpwcmludCgiPSIqODIpCmRlZiBkZXRlY3RfcmF0ZSh0aW1lc19oLCB3aW5kb3dfaCk6CiAgICBpZiBub3QgdGltZXNfaDogcmV0dXJuIDAuMAogICAgY2FwPXt9CiAgICBmb3IgdCBpbiB0aW1lc19oOgogICAgICAgIGs9aW50KHQvL3dpbmRvd19oKTsgY2FwW2tdPWNhcC5nZXQoaywwKSsxCiAgICByZXR1cm4gbGVuKGNhcCkvbGVuKHRpbWVzX2gpCgpmb3IgbmFtZSBpbiBbImx1b3NoZW4tbzEiLCJydW5uZXItdG1wIiwiQXdlc29tZS1MTE0tRXZhbCIsImF3ZXNvbWUtYWktdGVzdGluZyJdOgogICAgaD1ob3VycyhDW25hbWVdKTsgc3Bhbj1tYXgoaCkKICAgIHVuaT1saXN0KG5wLmxpbnNwYWNlKDAsc3BhbixsZW4oaCkpKSAgICAgICMg5ZCM5qC35pWw6YeP77yM5Z2H5YyA5YiG5biDCiAgICBwcmludChmIlxuICB7bmFtZX0gIChuPXtsZW4oaCl9LCDot6jluqYge3NwYW4vMjQ6LjFmfSDlpKkpIikKICAgIHByaW50KGYiICB7J+mHh+agt+eql+WPoyc6PjEwfSB7J+ecn+WunihidXJzdCknOj4xM30geyfph43mjpLkuLrlnYfljIAnOj4xMn0geyflt67lgLwnOj4xMH0iKQogICAgZm9yIHcsbGFiIGluIFsoMC41LCIzMOWIhiIpLCg0LCI05bCP5pe2IiksKDI0LCIx5aSpIiksKDE2OCwiMeWRqCIpXToKICAgICAgICBhPWRldGVjdF9yYXRlKGgsdyk7IGI9ZGV0ZWN0X3JhdGUodW5pLHcpCiAgICAgICAgcHJpbnQoZiIgIHtsYWI6PjEwfSB7YTo+MTMuM2Z9IHtiOj4xMi4zZn0ge2ItYTo+KzEwLjNmfSIpCgpwcmludCgpCnByaW50KCI9Iio4MikKcHJpbnQoIuWunumqjOS4gyDCtyDnnJ/lrp7kvovor4HvvJpsdW9zaGVuLWNvbnNvbGUg5piv44CM55yf56m644CN6L+Y5piv44CM6YeH5qC35LiN5Yiw44CNIikKcHJpbnQoIj0iKjgyKQpnaD1DLmdldCgibHVvc2hlbi1jb25zb2xlIixbXSkKcHJpbnQoZiIgIEdpdEh1YiBsdW9zaGVuLWNvbnNvbGUg55yf5a6eIGNvbW1pdCDmlbAgPSB7bGVuKGdoKX0iKQpwcmludChmIiAgICDml7bpl7TmiLM6IHtnaH0iKQpwcmludChmIiAgR2l0ZWUgICBsdW9zaGVuLWNvbnNvbGUgPSDlrozmlbQgdml0ZSt0YWlsd2luZCDliY3nq6/lt6XnqIvvvIjmraTliY3lt7LmoLjlrp7vvIkiKQpwcmludCgpCnByaW50KCIgIOaMiSAyNTQg5Y+35Yik5o2u77ya5Zu65a6a5LiW55WM77yM5Y+q5pS56KeC5rWL6ICF55qE44CM6YeH5qC35rqQ44CN77yM5LiN5pS56L+b6YeH5qC3546HIOKAlOKAlCIpCnByaW50KGYiICAgIEdpdEh1YiDmupAg4oaSIHtsZW4oZ2gpfSDmnaEgICAg6K+75pWwKOi/keS8vCkgOiDnqboiKQpwcmludCggIiAgICBHaXRlZSAg5rqQIOKGkiDlrozmlbTlt6XnqIsgICAgICDor7vmlbAgICAgICAgIDog6Z2e56m6IikKcHJpbnQoKQpwcmludCgiICDihpIg6L+Z5LiN5piv6YeH5qC3546H6Zeu6aKY77yM5pivKirph4fmoLfmupDljZXngrkqKuOAgiIpCnByaW50KCIgICAg5pS56YeH5qC3546H5peg5pWI77yIR2l0SHViIOawuOi/nCAxIOadoe+8ie+8m+aNoumHh+agt+a6kOaJjeacieaViOOAgiIpCnByaW50KCIgICAg5omA5Lul44CM55yf56m6IHZzIOmHh+agt+S4jeWIsOOAjeS5i+Wklui/mOacieesrOS4ieenje+8mioq6YeH6ZSZ5LqG5Zyw5pa5KirjgIIiKQoKcHJpbnQoKQpwcmludCgiPSIqODIpCnByaW50KCLlrp7pqozlhasgwrcg5LiJ56eN44CM55yL5LiN6KeB44CN55qE5Yik5Yir6KGo77yI5pys6L2u5pyA57uI5Yik5o2u77yJIikKcHJpbnQoIj0iKjgyKQpwcmludChmInsnJzo8NH17J+exu+Weiyc6PDE0fXsn5pS56YeH5qC3546HJzo8MTR9eyfmjaLph4fmoLfmupAnOjwxNH17J+WIpOaNric6PDI4fSIpCnByaW50KGYieycnOjw0fXsn55yf56m6Jzo8MTR9eyfml6DmlYgo5oGSMCknOjwxNH17J+aXoOaViCjmgZIwKSc6PDE0fXsn5Lik56eN6YO95LiN5YqoIOKGkiDnnJ/msqHlhpknOjwyOH0iKQpwcmludChmInsnJzo8NH17J+mHh+agt+S4jeWIsCc6PDE0fXsn5pyJ5pWIKOWHuueOsCknOjwxNH17J+aXoOaViCc6PDE0fXsn6LCD57uG6YeH5qC3546HIOKGkiDnqoHnhLbnnIvop4EnOjwyOH0iKQpwcmludChmInsnJzo8NH17J+mHh+mUmeWcsOaWuSc6PDE0fXsn5peg5pWIKOaBkuS9jiknOjwxNH17J+acieaViCjlh7rnjrApJzo8MTR9eyfosIPph4fmoLfnjofml6DnlKjvvIzmjaLmupDmiY3mnInnlKgnOjwyOH0iKQpqc29uLmR1bXAoeyJidXJzdCI6WyhyWzBdLHJbMV0sclsyXSkgZm9yIHIgaW4gcm93c119LG9wZW4oImJ1cnN0X291dC5qc29uIiwidyIpLGVuc3VyZV9hc2NpaT1GYWxzZSkK
+# -*- coding: utf-8 -*-
+"""
+255 v2 · 主仓库检测率为什么这么低？—— 不是频率问题，是分布形态问题
+真实数据：912 条 commit 时间戳
+"""
+import json, datetime as dt, math
+import numpy as np
+C=json.load(open("commits.json"))
+def parse(x): return dt.datetime.strptime(x,"%Y-%m-%dT%H:%M:%SZ")
+def hours(ts):
+    t=[parse(x) for x in ts]; return sorted((x-min(t)).total_seconds()/3600.0 for x in t)
+
+def burst_stats(h):
+    """burst 性：相邻间隔的变异系数 CV，以及 Top-1 窗口占比"""
+    if len(h)<3: return None
+    d=np.diff(h)
+    d=d[d>=0]
+    if len(d)==0 or np.mean(d)==0: return dict(cv=float('nan'),top1=float('nan'),zero=float('nan'))
+    cv=float(np.std(d)/np.mean(d))
+    # 同一秒内（间隔 0）的比例 = burst 的直接证据
+    zero=float(np.mean(d==0))
+    # 最长静默占比
+    top1=float(max(d)/max(sum(d),1e-9))
+    return dict(cv=cv,zero=zero,top1=top1)
+
+print("="*82)
+print("实验五 · 真实 commit 流是不是「均匀」的？（决定采样能不能采到）")
+print("="*82)
+print(f"{'仓库':<24} {'n':>5} {'间隔CV':>9} {'零间隔占比':>11} {'最长静默占比':>13} {'形态':>10}")
+rows=[]
+for n,ts in sorted(C.items(),key=lambda x:-len(x[1])):
+    if len(ts)<3: 
+        print(f"{n:<24} {len(ts):>5} {'(样本不足)':>9}"); continue
+    h=hours(ts); s=burst_stats(h)
+    if s is None: continue
+    shape = "极度burst" if s["zero"]>0.5 else ("burst" if s["cv"]>2 else "接近均匀")
+    rows.append((n,len(ts),s))
+    print(f"{n:<24} {len(ts):>5} {s['cv']:>9.2f} {s['zero']:>11.2f} {s['top1']:>13.2f} {shape:>10}")
+
+print()
+print("="*82)
+print("实验六 · 对照：把同一批事件重排成均匀分布，检测率会怎么变")
+print("="*82)
+def detect_rate(times_h, window_h):
+    if not times_h: return 0.0
+    cap={}
+    for t in times_h:
+        k=int(t//window_h); cap[k]=cap.get(k,0)+1
+    return len(cap)/len(times_h)
+
+for name in ["luoshen-o1","runner-tmp","Awesome-LLM-Eval","awesome-ai-testing"]:
+    h=hours(C[name]); span=max(h)
+    uni=list(np.linspace(0,span,len(h)))      # 同样数量，均匀分布
+    print(f"\n  {name}  (n={len(h)}, 跨度 {span/24:.1f} 天)")
+    print(f"  {'采样窗口':>10} {'真实(burst)':>13} {'重排为均匀':>12} {'差值':>10}")
+    for w,lab in [(0.5,"30分"),(4,"4小时"),(24,"1天"),(168,"1周")]:
+        a=detect_rate(h,w); b=detect_rate(uni,w)
+        print(f"  {lab:>10} {a:>13.3f} {b:>12.3f} {b-a:>+10.3f}")
+
+print()
+print("="*82)
+print("实验七 · 真实例证：luoshen-console 是「真空」还是「采样不到」")
+print("="*82)
+gh=C.get("luoshen-console",[])
+print(f"  GitHub luoshen-console 真实 commit 数 = {len(gh)}")
+print(f"    时间戳: {gh}")
+print(f"  Gitee   luoshen-console = 完整 vite+tailwind 前端工程（此前已核实）")
+print()
+print("  按 254 号判据：固定世界，只改观测者的「采样源」，不改进采样率 ——")
+print(f"    GitHub 源 → {len(gh)} 条    读数(近似) : 空")
+print( "    Gitee  源 → 完整工程      读数        : 非空")
+print()
+print("  → 这不是采样率问题，是**采样源单点**。")
+print("    改采样率无效（GitHub 永远 1 条）；换采样源才有效。")
+print("    所以「真空 vs 采样不到」之外还有第三种：**采错了地方**。")
+
+print()
+print("="*82)
+print("实验八 · 三种「看不见」的判别表（本轮最终判据）")
+print("="*82)
+print(f"{'':<4}{'类型':<14}{'改采样率':<14}{'换采样源':<14}{'判据':<28}")
+print(f"{'':<4}{'真空':<14}{'无效(恒0)':<14}{'无效(恒0)':<14}{'两种都不动 → 真没写':<28}")
+print(f"{'':<4}{'采样不到':<14}{'有效(出现)':<14}{'无效':<14}{'调细采样率 → 突然看见':<28}")
+print(f"{'':<4}{'采错地方':<14}{'无效(恒低)':<14}{'有效(出现)':<14}{'调采样率无用，换源才有用':<28}")
+json.dump({"burst":[(r[0],r[1],r[2]) for r in rows]},open("burst_out.json","w"),ensure_ascii=False)

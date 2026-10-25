@@ -1,1 +1,61 @@
-ewogICJzd2VlcCI6IHsKICAgICIxMDAiOiB7CiAgICAgICJhY2MiOiAwLjMyNSwKICAgICAgIm1pbmQiOiAxNDkuNzY3ODMzNjQ1MjQ2NSwKICAgICAgIm5fdHJhaW4iOiAxMDAKICAgIH0sCiAgICAiMzAwIjogewogICAgICAiYWNjIjogMC4yODc1LAogICAgICAibWluZCI6IDEwNy40MjU0NTI4NzM0OTYxNywKICAgICAgIm5fdHJhaW4iOiAzMDAKICAgIH0sCiAgICAiODAwIjogewogICAgICAiYWNjIjogMC4zMTI1LAogICAgICAibWluZCI6IDEwMC4zNDM4MDk4MDU1NzMyLAogICAgICAibl90cmFpbiI6IDgwMAogICAgfSwKICAgICIyMDAwIjogewogICAgICAiYWNjIjogMC4yMjUsCiAgICAgICJtaW5kIjogMTI1LjQ5MTQwNzgxMzM0MjQ5LAogICAgICAibl90cmFpbiI6IDIwMDAKICAgIH0sCiAgICAiNTAwMCI6IHsKICAgICAgImFjYyI6IDAuMzEyNSwKICAgICAgIm1pbmQiOiAxMTguNzc1NTgyMDUxNDI0NDQsCiAgICAgICJuX3RyYWluIjogNTAwMAogICAgfQogIH0sCiAgInJlZiI6IHsKICAgICJwcmVzZXQiOiAwLjQyNSwKICAgICJibGluZCI6IDAuMjEyNSwKICAgICJzdGF0aWMiOiAwLjAxMjUKICB9LAogICJlbmdpbmUiOiB7CiAgICAibm9uZSI6IHsKICAgICAgImFsaXZlIjogMTYsCiAgICAgICJuIjogMTYsCiAgICAgICJza2V3IjogMC4wMTgwNTc4NTA3MDM0NTM1NzMsCiAgICAgICJzZCI6IDAuMDE0Mzg3NTg3NjEzMTU1MjYKICAgIH0sCiAgICAicHJlc2V0IjogewogICAgICAiYWxpdmUiOiAxNiwKICAgICAgIm4iOiAxNiwKICAgICAgInNrZXciOiAwLjAxODA1Nzg1MDcwMzQ1MzU3MywKICAgICAgInNkIjogMC4wMTQzODc1ODc2MTMxNTUyNgogICAgfSwKICAgICJsZWFybmVkIjogewogICAgICAiYWxpdmUiOiAxNiwKICAgICAgIm4iOiAxNiwKICAgICAgInNrZXciOiAwLjAxODA1Nzg1MDcwMzQ1MzU3MywKICAgICAgInNkIjogMC4wMTQzODc1ODc2MTMxNTUyNgogICAgfSwKICAgICJibGluZCI6IHsKICAgICAgImFsaXZlIjogMTYsCiAgICAgICJuIjogMTYsCiAgICAgICJza2V3IjogMC4wMTgwNTc4NTA3MDM0NTM1NzMsCiAgICAgICJzZCI6IDAuMDE0Mzg3NTg3NjEzMTU1MjYKICAgIH0KICB9LAogICJzZWNzIjogNTguODI3NjgyOTcxOTU0MzQ2Cn0=
+{
+  "sweep": {
+    "100": {
+      "acc": 0.325,
+      "mind": 149.7678336452465,
+      "n_train": 100
+    },
+    "300": {
+      "acc": 0.2875,
+      "mind": 107.42545287349617,
+      "n_train": 300
+    },
+    "800": {
+      "acc": 0.3125,
+      "mind": 100.3438098055732,
+      "n_train": 800
+    },
+    "2000": {
+      "acc": 0.225,
+      "mind": 125.49140781334249,
+      "n_train": 2000
+    },
+    "5000": {
+      "acc": 0.3125,
+      "mind": 118.77558205142444,
+      "n_train": 5000
+    }
+  },
+  "ref": {
+    "preset": 0.425,
+    "blind": 0.2125,
+    "static": 0.0125
+  },
+  "engine": {
+    "none": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.018057850703453573,
+      "sd": 0.01438758761315526
+    },
+    "preset": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.018057850703453573,
+      "sd": 0.01438758761315526
+    },
+    "learned": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.018057850703453573,
+      "sd": 0.01438758761315526
+    },
+    "blind": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.018057850703453573,
+      "sd": 0.01438758761315526
+    }
+  },
+  "secs": 58.827682971954346
+}

@@ -1,1 +1,87 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiZXhwMTQwIOecn+WunuaJi+ecvOWNj+iwg++8muaJiygvZGV2L3VpbnB1dCnmlLnkuJbnlYwgLT4g55y8KC9kZXYvZmIwKeeLrOeri+ivu+WbniAtPiDmr5Tlr7kK5YWz6ZSu57qm5p2fOiBkZWNvZGUoKSDlj6rmjqXmlLblg4/ntKBidWZmZXIsIOS4jeaOpeaUtiBr44CC55y85b+F6aG76Ieq5bex6K+75Ye6LCDkuI3og73ooqvnqIvluo/lkYrnn6XjgIIKIiIiCmltcG9ydCBvcywgZmNudGwsIHN0cnVjdCwgdGltZSwganNvbiwgbnVtcHkgYXMgbnAKClVJX1NFVF9FVkJJVCwgVUlfU0VUX0tFWUJJVCwgVUlfREVWX0NSRUFURSwgVUlfREVWX0RFU1RST1kgPSAweDQwMDQ1NTY0LCAweDQwMDQ1NTY1LCAweDU1MDEsIDB4NTUwMgpFVl9LRVksIEVWX1NZTiwgU1lOX1JFUE9SVCA9IDEsIDAsIDAKVywgSCwgQlBQID0gMTAyNCwgNzY4LCA0CkZTWiA9IFcqSCpCUFAKTkJBTkQsIEJXID0gOCwgVy8vOAoKZGVmIG1rX2hhbmQobmFtZT1iImx1b3NoZW5faGFuZCIpOgogICAgZmQgPSBvcy5vcGVuKCIvZGV2L3VpbnB1dCIsIG9zLk9fV1JPTkxZIHwgb3MuT19OT05CTE9DSykKICAgIGZjbnRsLmlvY3RsKGZkLCBVSV9TRVRfRVZCSVQsIEVWX0tFWSkKICAgIGZvciBrYyBpbiByYW5nZSgyLCAxMCk6ICAgICAgICAgICMgS0VZXzEuLktFWV84CiAgICAgICAgZmNudGwuaW9jdGwoZmQsIFVJX1NFVF9LRVlCSVQsIGtjKQogICAgZGV2ID0gc3RydWN0LnBhY2soJzgwc0hISEhJJywgbmFtZSwgMHgwNiwgMHgxMjM0LCAweDU2NzgsIDEsIDApCiAgICBkZXYgKz0gc3RydWN0LnBhY2soJzY0aScsICooWzBdKjY0KSkgKiA0CiAgICBhc3NlcnQgbGVuKGRldikgPT0gMTExNiwgZiJ1aW5wdXRfdXNlcl9kZXYge2xlbihkZXYpfSAhPSAxMTE2IgogICAgb3Mud3JpdGUoZmQsIGRldikKICAgIGZjbnRsLmlvY3RsKGZkLCBVSV9ERVZfQ1JFQVRFLCAwKQogICAgdGltZS5zbGVlcCgwLjE1KQogICAgcmV0dXJuIGZkCgpkZWYgaGFuZF9wcmVzcyhmZCwga2MpOgogICAgZXYgPSBzdHJ1Y3QucGFjaygnbGxISEknLCBpbnQodGltZS50aW1lKCkpLCBpbnQoKHRpbWUudGltZSgpJTEpKjFlNiksIEVWX0tFWSwga2MsIDEpCiAgICBvcy53cml0ZShmZCwgZXYpCiAgICBvcy53cml0ZShmZCwgc3RydWN0LnBhY2soJ2xsSEhJJywgMCwgMCwgRVZfU1lOLCBTWU5fUkVQT1JULCAwKSkKICAgIG9zLndyaXRlKGZkLCBzdHJ1Y3QucGFjaygnbGxISEknLCBpbnQodGltZS50aW1lKCkpLCAwLCBFVl9LRVksIGtjLCAwKSkKICAgIG9zLndyaXRlKGZkLCBzdHJ1Y3QucGFjaygnbGxISEknLCAwLCAwLCBFVl9TWU4sIFNZTl9SRVBPUlQsIDApKQoKRkIgPSBvcy5vcGVuKCIvZGV2L2ZiMCIsIG9zLk9fUkRXUikKCmRlZiBleWVfd3JpdGUoayk6CiAgICAiIiLkuJbnlYzkvqc6IOWPquacieesrCBrIOadoeW4puS6ruOAgms8MCA9PiDlhajmmpco6buY6K6kKSIiIgogICAgaW1nID0gbnAuemVyb3MoKEgsIFcsIEJQUCksIG5wLnVpbnQ4KTsgaW1nWzosIDosIDNdID0gMjU1CiAgICBpZiBrID49IDA6CiAgICAgICAgaW1nWzosIGsqQlc6KGsrMSkqQlcsIDozXSA9IDI1NQogICAgb3MubHNlZWsoRkIsIDAsIDApOyBvcy53cml0ZShGQiwgaW1nLnRvYnl0ZXMoKSkKICAgIHRpbWUuc2xlZXAoMC4wNSkKCmRlZiBleWVfcmVhZCgpOgogICAgb3MubHNlZWsoRkIsIDAsIDApOyBidWYgPSBvcy5yZWFkKEZCLCBGU1opCiAgICBhID0gbnAuZnJvbWJ1ZmZlcihidWYsIG5wLnVpbnQ4KS5yZXNoYXBlKEgsIFcsIEJQUCkKICAgIHJldHVybiBhCgpkZWYgZGVjb2RlKGJ1Zik6CiAgICAiIiLnnLw6IOWPquS7juWDj+e0oOivu+WHuuadoeW4pue8luWPt+OAguS4jeefpemBkyBr44CCIiIiCiAgICBsdW0gPSBucC5hcnJheShbZmxvYXQoYnVmWzosIGIqQlc6KGIrMSkqQlcsIDBdLm1lYW4oKSkgZm9yIGIgaW4gcmFuZ2UoTkJBTkQpXSkKICAgIHJldHVybiBpbnQobnAuYXJnbWF4KGx1bSkpLCBsdW0KCmRlZiBydW4obj04LCBzZWVkPTcpOgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBrcyA9IFtpbnQocm5nLmludGVnZXJzKDAsIE5CQU5EKSkgZm9yIF8gaW4gcmFuZ2UobildCiAgICBmZCA9IG1rX2hhbmQoKQogICAgcmVzID0ge30KICAgICMgLS0tIGFybSAxOiBoYW5kZXllIOWujOaVtOmXreeOrwogICAgbSA9IDAKICAgIGZvciBrIGluIGtzOgogICAgICAgIGhhbmRfcHJlc3MoZmQsIDIraykgICAgICAgICAgIyDmiYvlgZoKICAgICAgICBleWVfd3JpdGUoaykgICAgICAgICAgICAgICAgICAjIOS4lueVjOWboOaJi+iAjOWPmAogICAgICAgIGtrLCBfID0gZGVjb2RlKGV5ZV9yZWFkKCkpICAgICMg55y854us56uL6K+7CiAgICAgICAgbSArPSAoa2sgPT0gaykKICAgIHJlc1snaGFuZGV5ZSddID0gZGljdChtYXRjaD1tLCBuPW4sIHJhdGU9bS9uKQogICAgIyAtLS0gYXJtIDI6IGJsaW5kIOmBruaWreecvCjor7vml6fluKcsIOS4lueVjOW3suWPmOS9huecvOayoeeciykKICAgIGV5ZV93cml0ZSgtMSk7IHN0YWxlID0gZXllX3JlYWQoKS5jb3B5KCkKICAgIG0gPSAwCiAgICBmb3IgayBpbiBrczoKICAgICAgICBoYW5kX3ByZXNzKGZkLCAyK2spOyBleWVfd3JpdGUoaykKICAgICAgICBraywgXyA9IGRlY29kZShzdGFsZSkgICAgICAgICAjIOecvOayoeabtOaWsAogICAgICAgIG0gKz0gKGtrID09IGspCiAgICByZXNbJ2JsaW5kJ10gPSBkaWN0KG1hdGNoPW0sIG49biwgcmF0ZT1tL24pCiAgICAjIC0tLSBhcm0gMzogbm9oYW5kIOaJi+S4jeWKqCwg5LiW55WM5L+d5oyB6buY6K6kCiAgICBleWVfd3JpdGUoLTEpCiAgICBtID0gMAogICAgZm9yIGsgaW4ga3M6CiAgICAgICAga2ssIF8gPSBkZWNvZGUoZXllX3JlYWQoKSkKICAgICAgICBtICs9IChrayA9PSBrKSAgICAgICAgICAgICAgICAjIOacn+acm+ivu+WHuum7mOiupCwg5LiN562J5LqO6ZqP5py6awogICAgcmVzWydub2hhbmQnXSA9IGRpY3QobWF0Y2g9bSwgbj1uLCByYXRlPW0vbikKICAgIG9zLmNsb3NlKGZkKQogICAgcmV0dXJuIHJlcywga3MKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICByLCBrcyA9IHJ1bigpCiAgICBwcmludChqc29uLmR1bXBzKHIsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpKQogICAganNvbi5kdW1wKGRpY3Qoa3M9a3MsICoqciksIG9wZW4oJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE0MF9yZWFsX2hhbmRleWUvcmVzdWx0Lmpzb24nLCd3JyksIGluZGVudD0xKQo=
+# -*- coding: utf-8 -*-
+"""exp140 真实手眼协调：手(/dev/uinput)改世界 -> 眼(/dev/fb0)独立读回 -> 比对
+关键约束: decode() 只接收像素buffer, 不接收 k。眼必须自己读出, 不能被程序告知。
+"""
+import os, fcntl, struct, time, json, numpy as np
+
+UI_SET_EVBIT, UI_SET_KEYBIT, UI_DEV_CREATE, UI_DEV_DESTROY = 0x40045564, 0x40045565, 0x5501, 0x5502
+EV_KEY, EV_SYN, SYN_REPORT = 1, 0, 0
+W, H, BPP = 1024, 768, 4
+FSZ = W*H*BPP
+NBAND, BW = 8, W//8
+
+def mk_hand(name=b"luoshen_hand"):
+    fd = os.open("/dev/uinput", os.O_WRONLY | os.O_NONBLOCK)
+    fcntl.ioctl(fd, UI_SET_EVBIT, EV_KEY)
+    for kc in range(2, 10):          # KEY_1..KEY_8
+        fcntl.ioctl(fd, UI_SET_KEYBIT, kc)
+    dev = struct.pack('80sHHHHI', name, 0x06, 0x1234, 0x5678, 1, 0)
+    dev += struct.pack('64i', *([0]*64)) * 4
+    assert len(dev) == 1116, f"uinput_user_dev {len(dev)} != 1116"
+    os.write(fd, dev)
+    fcntl.ioctl(fd, UI_DEV_CREATE, 0)
+    time.sleep(0.15)
+    return fd
+
+def hand_press(fd, kc):
+    ev = struct.pack('llHHI', int(time.time()), int((time.time()%1)*1e6), EV_KEY, kc, 1)
+    os.write(fd, ev)
+    os.write(fd, struct.pack('llHHI', 0, 0, EV_SYN, SYN_REPORT, 0))
+    os.write(fd, struct.pack('llHHI', int(time.time()), 0, EV_KEY, kc, 0))
+    os.write(fd, struct.pack('llHHI', 0, 0, EV_SYN, SYN_REPORT, 0))
+
+FB = os.open("/dev/fb0", os.O_RDWR)
+
+def eye_write(k):
+    """世界侧: 只有第 k 条带亮。k<0 => 全暗(默认)"""
+    img = np.zeros((H, W, BPP), np.uint8); img[:, :, 3] = 255
+    if k >= 0:
+        img[:, k*BW:(k+1)*BW, :3] = 255
+    os.lseek(FB, 0, 0); os.write(FB, img.tobytes())
+    time.sleep(0.05)
+
+def eye_read():
+    os.lseek(FB, 0, 0); buf = os.read(FB, FSZ)
+    a = np.frombuffer(buf, np.uint8).reshape(H, W, BPP)
+    return a
+
+def decode(buf):
+    """眼: 只从像素读出条带编号。不知道 k。"""
+    lum = np.array([float(buf[:, b*BW:(b+1)*BW, 0].mean()) for b in range(NBAND)])
+    return int(np.argmax(lum)), lum
+
+def run(n=8, seed=7):
+    rng = np.random.default_rng(seed)
+    ks = [int(rng.integers(0, NBAND)) for _ in range(n)]
+    fd = mk_hand()
+    res = {}
+    # --- arm 1: handeye 完整闭环
+    m = 0
+    for k in ks:
+        hand_press(fd, 2+k)          # 手做
+        eye_write(k)                  # 世界因手而变
+        kk, _ = decode(eye_read())    # 眼独立读
+        m += (kk == k)
+    res['handeye'] = dict(match=m, n=n, rate=m/n)
+    # --- arm 2: blind 遮断眼(读旧帧, 世界已变但眼没看)
+    eye_write(-1); stale = eye_read().copy()
+    m = 0
+    for k in ks:
+        hand_press(fd, 2+k); eye_write(k)
+        kk, _ = decode(stale)         # 眼没更新
+        m += (kk == k)
+    res['blind'] = dict(match=m, n=n, rate=m/n)
+    # --- arm 3: nohand 手不动, 世界保持默认
+    eye_write(-1)
+    m = 0
+    for k in ks:
+        kk, _ = decode(eye_read())
+        m += (kk == k)                # 期望读出默认, 不等于随机k
+    res['nohand'] = dict(match=m, n=n, rate=m/n)
+    os.close(fd)
+    return res, ks
+
+if __name__ == '__main__':
+    r, ks = run()
+    print(json.dumps(r, ensure_ascii=False, indent=1))
+    json.dump(dict(ks=ks, **r), open('/data/workspace/luoshen-o1/experiments/exp140_real_handeye/result.json','w'), indent=1)

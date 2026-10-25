@@ -1,1 +1,157 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJGb3J3YXJkIHRlc3Qgb2YgdGhlIGduaGYgcG9saWN5OiBmaXJlIG9uY2UgdGhlcmUgaXMgZW5vdWdoIG5ldyBkYXRhLgoKVGhlIGduaGYgcnVuIG9mIDIwMjYtMDktMDIgY2hvc2Ugc3RyYXRlZ3kvcG9saWN5LnB5IHYzIGJ5IHJlYWRpbmcgYWxsIDQyMApzZXR0bGVkIGZvcmVjYXN0cywgc28gaXRzIHJlcGxheSBzY29yZSBpcyBpbi1zYW1wbGUuIFRoZSBmb3J3YXJkIHRlc3QKc2NvcmVzIHRoZSBzYW1lIHBvbGljeSBvbiBldmVyeSBmb3JlY2FzdCB3aG9zZSBvdXRjb21lIHdhcyBzdGlsbCB1bmtub3duCndoZW4gdGhhdCBydW4gZW5kZWQgKHNldHRsZWRfdHMgPiBDVVRPRkYpLCBpbmNsdWRpbmcgdGhlIGZpdmUgYmV0cyB0aGUKcG9saWN5IHByZS1yZWdpc3RlcmVkIG9uIHRoZSB0aGVuLW9wZW4gcm93cy4KClRoaXMgc2NyaXB0IGlzIHRoZSB0cmlnZ2VyLiBJdCBwcmludHMgTk9UX1lFVCB1bnRpbCBNSU5fU0VUVExFRCByb3dzIGhhdmUKc2V0dGxlZCBhZnRlciB0aGUgY3V0b2ZmLCB0aGVuIHdyaXRlcyBhIEdpdEh1YiBpc3N1ZSBib2R5IHdpdGggdGhlIGZvcndhcmQKbnVtYmVycywgdGhlIHByZS1yZWdpc3RlcmVkIGJldHMsIGFuZCB0aGUgcGFzcyBjcml0ZXJpYSBqdWRnZWQKbWVjaGFuaWNhbGx5LiBUaGUgd29ya2Zsb3cgb3BlbnMgdGhlIGlzc3VlIG9uY2UuCgpVc2FnZTogcHl0aG9uMyAuZ2l0aHViL3NjcmlwdHMvZm9yd2FyZF90ZXN0LnB5IFstLW91dCBQQVRIXSBbLS1mb3JjZV0KIiIiCmltcG9ydCBhcmdwYXJzZQppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHBhdGhsaWIKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHN5cwoKUk9PVCA9IHBhdGhsaWIuUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMl0KRk9SRUNBU1RTID0gUk9PVCAvICJqb3VybmFsIiAvICJmb3JlY2FzdHMuanNvbmwiCgpDVVRPRkYgPSAiMjAyNi0wOS0wMlQwMDoxNDozNloiICAjIGduaGYgcnVuIDEgZW5kZWQgKG9yY2hlc3RyYXRvcjplbmQpCk1JTl9TRVRUTEVEID0gMTAwICAgICAgICAgICAgICAgICMgcm93cyBzZXR0bGVkIGFmdGVyIHRoZSBjdXRvZmYgYmVmb3JlIHdlIGp1ZGdlCk1BWF9TRVRUTEVEID0gMzAwICAgICAgICAgICAgICAgICMganVkZ2UgcmVnYXJkbGVzcyBvZiBiZXQgY291bnQgb25jZSB0aGlzIG1hbnkgc2V0dGxlZApQUkVSRUdJU1RFUkVEID0geyAgICAgICAgICAgICAgICAjIHYzJ3MgZGVjaXNpb25zIG9uIHRoZSByb3dzIG9wZW4gYXQgdGhlIGN1dG9mZgogICAgImEzYWI4OTUzNDRjZiI6ICJubyIsCiAgICAiZDQ4ODM0ZWQ4ZjQxIjogIm5vIiwKICAgICJlOWY5MjIxYTNhZmIiOiAieWVzIiwKICAgICI2NTBhMWJjZWY4ZTciOiAibm8iLAogICAgIjBiMDNhOTM3YTQ4ZCI6ICJ5ZXMiLAp9CiMgUGFzcyBjcml0ZXJpYSwgZml4ZWQgYmVmb3JlIGFueSBmb3J3YXJkIHJvdyBzZXR0bGVkOgpNSU5fQkVUUyA9IDE1ICAgICAgICAgICAgIyBmZXdlciBiZXRzIHRoYW4gdGhpcyBpcyAibm90IGVub3VnaCBldmlkZW5jZSIsIG5vdCBhIGZhaWwKTUFYX1NJTkdMRV9CRVRfU0hBUkUgPSAwLjUgICMgbm8gb25lIGJldCBtYXkgY2FycnkgbW9yZSB0aGFuIGhhbGYgb2YgYSBwb3NpdGl2ZSBwbmwKCgpkZWYgc2V0dGxlZF9hZnRlcl9jdXRvZmYoKToKICAgIG4gPSAwCiAgICBmb3IgbGluZSBpbiBGT1JFQ0FTVFMucmVhZF90ZXh0KCkuc3BsaXRsaW5lcygpOgogICAgICAgIGlmIG5vdCBsaW5lLnN0cmlwKCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgciA9IGpzb24ubG9hZHMobGluZSkKICAgICAgICBpZiByLmdldCgic3RhdHVzIikgaW4gKCJ3b24iLCAibG9zdCIpIGFuZCAoci5nZXQoInNldHRsZWRfdHMiKSBvciAiIikgPiBDVVRPRkY6CiAgICAgICAgICAgIG4gKz0gMQogICAgcmV0dXJuIG4KCgpkZWYgZm9yd2FyZF9yZXBvcnQoKToKICAgIG91dCA9IHN1YnByb2Nlc3MucnVuKAogICAgICAgIFtzeXMuZXhlY3V0YWJsZSwgc3RyKFJPT1QgLyAiY29yZSIgLyAicmVwbGF5LnB5IiksICItLWFmdGVyIiwgQ1VUT0ZGLCAiLS1qc29uIl0sCiAgICAgICAgY2hlY2s9VHJ1ZSwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlKQogICAgcmV0dXJuIGpzb24ubG9hZHMob3V0LnN0ZG91dCkKCgpkZWYganVkZ2UoaCwgYmV0cyk6CiAgICBpZiBoWyJuX2JldHMiXSA8IE1JTl9CRVRTOgogICAgICAgIHJldHVybiAiTk9UIEVOT1VHSCBCRVRTIiwgZiJ7aFsnbl9iZXRzJ119IGJldHMsIGNyaXRlcmlhIG5lZWQgYXQgbGVhc3Qge01JTl9CRVRTfSIKICAgIGlmIGhbImN3X3JldHVybiJdIDw9IDA6CiAgICAgICAgcmV0dXJuICJGQUlMIiwgZiJmb3J3YXJkIGN3X3JldHVybiB7aFsnY3dfcmV0dXJuJ106Ky40Zn0gaXMgbm90IGFib3ZlIHplcm8iCiAgICBpZiBoWyJwbmwiXSA+IDA6CiAgICAgICAgdG9wID0gbWF4KGJbInBubCJdIGZvciBiIGluIGJldHMpCiAgICAgICAgaWYgdG9wIC8gaFsicG5sIl0gPiBNQVhfU0lOR0xFX0JFVF9TSEFSRToKICAgICAgICAgICAgcmV0dXJuICJGQUlMIiwgKGYib25lIGJldCBjYXJyaWVzIHt0b3AgLyBoWydwbmwnXTouMCV9IG9mIHRoZSBwbmwsICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYibGltaXQge01BWF9TSU5HTEVfQkVUX1NIQVJFOi4wJX0iKQogICAgcmV0dXJuICJQQVNTIiwgZiJjd19yZXR1cm4ge2hbJ2N3X3JldHVybiddOisuNGZ9IG9uIHtoWyduX2JldHMnXX0gYmV0cywgbm8gc2luZ2xlIGJldCBkb21pbmF0ZXMiCgoKZGVmIGJvZHkobl9zZXR0bGVkLCByZXBvcnQpOgogICAgaCwgYmV0cyA9IHJlcG9ydFsiaGVsZF9vdXQiXSwgcmVwb3J0WyJiZXRzIl0KICAgIHZlcmRpY3QsIHdoeSA9IGp1ZGdlKGgsIGJldHMpCiAgICBieV9pZCA9IHtiWyJpZCJdOiBiIGZvciBiIGluIGJldHN9CiAgICByb3dzID0gW10KICAgIGZvciBsaW5lIGluIEZPUkVDQVNUUy5yZWFkX3RleHQoKS5zcGxpdGxpbmVzKCk6CiAgICAgICAgaWYgbGluZS5zdHJpcCgpOgogICAgICAgICAgICByID0ganNvbi5sb2FkcyhsaW5lKQogICAgICAgICAgICBpZiByWyJpZCJdIGluIFBSRVJFR0lTVEVSRUQ6CiAgICAgICAgICAgICAgICByb3dzLmFwcGVuZChyKQogICAgcHJlcmVnID0gW10KICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgYiA9IGJ5X2lkLmdldChyWyJpZCJdKQogICAgICAgIHBubCA9IGYie2JbJ3BubCddOisuMmZ9IiBpZiBiIGVsc2UgIm5vIGZpbGwiCiAgICAgICAgcHJlcmVnLmFwcGVuZChmInwge3JbJ2lkJ119IHwge1BSRVJFR0lTVEVSRURbclsnaWQnXV19IHwge3JbJ3N0YXR1cyddfSB8IHtwbmx9IHwge3JbJ3F1ZXN0aW9uJ11bOjYwXX0gfCIpCiAgICBiZCA9ICItIiBpZiBoWyJicmllcl9kZWx0YSJdIGlzIE5vbmUgZWxzZSBmIntoWydicmllcl9kZWx0YSddOisuNGZ9IgogICAgcmV0dXJuIGYiIiIjIyBGb3J3YXJkIHRlc3Qgb2Ygc3RyYXRlZ3kvcG9saWN5LnB5IHYzIGlzIHJlYWR5CgoqKlZlcmRpY3Q6IHt2ZXJkaWN0fSoqICh7d2h5fSkKCntuX3NldHRsZWR9IGZvcmVjYXN0cyBoYXZlIHNldHRsZWQgc2luY2UgdGhlIGduaGYgcnVuIGVuZGVkIGF0IHtDVVRPRkZ9Cih0aHJlc2hvbGQge01JTl9TRVRUTEVEfSkuIFRoZSBwb2xpY3kgd2FzIHNjb3JlZCBvbiBhbGwgb2YgdGhlbSB3aXRoCmBweXRob24zIGNvcmUvcmVwbGF5LnB5IC0tYWZ0ZXIge0NVVE9GRn1gLiBOb2JvZHkgdHVuZWQgb24gdGhlc2Ugb3V0Y29tZXMuCgp8IE1ldHJpYyB8IEZvcndhcmQgfCBJbi1zYW1wbGUgKDUgZm9sZHMsIGZvciByZWZlcmVuY2UpIHwKfC0tLXwtLS18LS0tfAp8IGN3X3JldHVybiB8IHtoWydjd19yZXR1cm4nXTorLjRmfSB8ICswLjc0MyB8CnwgcG5sIHwge2hbJ3BubCddOisuMmZ9IHwgKzEyMS42OCB8CnwgYmV0cyB8IHtoWyduX2JldHMnXX0gLyB7aFsnbl9yb3dzJ119IHJvd3MgfCAxOSAvIDMzNiB8Cnwgd2luIHJhdGUgfCB7aFsnd2luX3JhdGUnXX0gfCAwLjg5NSB8CnwgYnJpZXJfZGVsdGEgdnMgbWFya2V0IHwge2JkfSB8IC0wLjAyNDggfAoKIyMjIFByZS1yZWdpc3RlcmVkIGJldHMgKG9wZW4gYXQgdGhlIGN1dG9mZikKCnwgaWQgfCBzaWRlIHwgc3RhdHVzIHwgcG5sIHwgcXVlc3Rpb24gfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwKe2NocigxMCkuam9pbihwcmVyZWcpfQoKIyMjIENyaXRlcmlhIChmaXhlZCAyMDI2LTA5LTAyLCBiZWZvcmUgYW55IGZvcndhcmQgcm93IHNldHRsZWQpCgotIEF0IGxlYXN0IHtNSU5fQkVUU30gZm9yd2FyZCBiZXRzLCBlbHNlIHRoZSB0ZXN0IGlzIGluY29uY2x1c2l2ZSBhbmQgd2FpdHMuCi0gRm9yd2FyZCBjd19yZXR1cm4gYWJvdmUgemVyby4KLSBObyBzaW5nbGUgYmV0IGNhcnJpZXMgbW9yZSB0aGFuIHtNQVhfU0lOR0xFX0JFVF9TSEFSRTouMCV9IG9mIGEgcG9zaXRpdmUgcG5sLgoKIyMjIE5leHQgYWN0aW9ucwoKMS4gV3JpdGUgdGhlIHZlcmRpY3QgYW5kIHRoZSB0YWJsZSBhYm92ZSBpbnRvIGBqb3VybmFsL29wZXJhdG9yLW5vdGVzLm1kYC4KMi4gSWYgUEFTUzogYXNrIHRoZSBkZWVwIHJldHJvIHRvIGNvbnNpZGVyIGFkb3B0aW5nIHRoZSAwLjIwLTAuNDUgcHJpY2UgZGVhZCB6b25lIGludG8gYHJpc2suanNvbmAuIFRoZSBib3RoLXNpZGVzIHNtYWxsLWVkZ2UgcnVsZSBhZGRzIGJldHMgYW5kIG5lZWRzIGEgc2Vjb25kIGZvcndhcmQgd2luZG93IGZpcnN0LgozLiBJZiBGQUlMOiB0aGUgYnJhbmNoIGhpc3RvcnkgaXMgdGhlIHdyaXRldXAuIENoYW5nZSBub3RoaW5nIGluIGBzdHJhdGVneS9gLgo0LiBFaXRoZXIgd2F5LCB0aGUgbmV4dCBnbmhmIHJ1biB1c2VzIGEgc2VhbGVkIGN1dG9mZiBzbyB0aGUgYWdlbnQgZXZhbHVhdGVzIG9ubHkgb24gcm93cyBzZXR0bGVkIGJlZm9yZSBpdC4KCkZ1bGwgYmV0IGxpc3Q6IGBweXRob24zIGNvcmUvcmVwbGF5LnB5IC0tYWZ0ZXIge0NVVE9GRn0gLS1iZXRzYAoiIiIKCgpkZWYgbWFpbigpOgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tb3V0IiwgZGVmYXVsdD1Ob25lLCBoZWxwPSJ3cml0ZSB0aGUgaXNzdWUgYm9keSBoZXJlIHdoZW4gcmVhZHkiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWZvcmNlIiwgYWN0aW9uPSJzdG9yZV90cnVlIiwgaGVscD0id3JpdGUgdGhlIHJlcG9ydCBldmVuIGJlbG93IHRoZSB0aHJlc2hvbGQiKQogICAgYSA9IGFwLnBhcnNlX2FyZ3MoKQogICAgbiA9IHNldHRsZWRfYWZ0ZXJfY3V0b2ZmKCkKICAgIHJlcG9ydCA9IGZvcndhcmRfcmVwb3J0KCkgaWYgKG4gPj0gTUlOX1NFVFRMRUQgb3IgYS5mb3JjZSkgZWxzZSBOb25lCiAgICBuX2JldHMgPSByZXBvcnRbImhlbGRfb3V0Il1bIm5fYmV0cyJdIGlmIHJlcG9ydCBlbHNlIDAKICAgICMgRmlyZSBvbmNlIHRoZXJlIGlzIGVub3VnaCBkYXRhIEFORCBlbm91Z2ggYmV0cyB0byBqdWRnZTsgaWYgdGhlIHBvbGljeQogICAgIyBiZXRzIHNvIHJhcmVseSB0aGF0IE1JTl9CRVRTIG5ldmVyIGFycml2ZXMsIGZpcmUgYW55d2F5IGF0IE1BWF9TRVRUTEVELAogICAgIyBiZWNhdXNlICJ0b28gZmV3IGJldHMgdG8gdGVzdCIgaXMgaXRzZWxmIHRoZSBmaW5kaW5nLgogICAgcmVhZHkgPSBhLmZvcmNlIG9yIChuID49IE1JTl9TRVRUTEVEIGFuZCAobl9iZXRzID49IE1JTl9CRVRTIG9yIG4gPj0gTUFYX1NFVFRMRUQpKQogICAgZ2hfb3V0ID0gb3MuZW52aXJvbi5nZXQoIkdJVEhVQl9PVVRQVVQiKQogICAgaWYgZ2hfb3V0OgogICAgICAgIHdpdGggb3BlbihnaF9vdXQsICJhIikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShmInJlYWR5PXsndHJ1ZScgaWYgcmVhZHkgZWxzZSAnZmFsc2UnfVxuc2V0dGxlZD17bn1cbmJldHM9e25fYmV0c31cbiIpCiAgICBpZiBub3QgcmVhZHk6CiAgICAgICAgc3RhZ2UgPSAic2V0dGxlZCIgaWYgbiA8IE1JTl9TRVRUTEVEIGVsc2UgZiJiZXRzIHtuX2JldHN9L3tNSU5fQkVUU30sIHNldHRsZWQiCiAgICAgICAgcHJpbnQoZiJOT1RfWUVUIHtzdGFnZX0gYWZ0ZXIgY3V0b2ZmOiB7bn0ve01JTl9TRVRUTEVEfSAoanVkZ2UgcmVnYXJkbGVzcyBhdCB7TUFYX1NFVFRMRUR9KSIpCiAgICAgICAgcmV0dXJuCiAgICB0ZXh0ID0gYm9keShuLCByZXBvcnQpCiAgICBpZiBhLm91dDoKICAgICAgICBwYXRobGliLlBhdGgoYS5vdXQpLndyaXRlX3RleHQodGV4dCkKICAgICAgICBwcmludChmIlJFQURZIHNldHRsZWQgYWZ0ZXIgY3V0b2ZmOiB7bn0ve01JTl9TRVRUTEVEfTsgYm9keSB3cml0dGVuIHRvIHthLm91dH0iKQogICAgZWxzZToKICAgICAgICBwcmludCh0ZXh0KQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""Forward test of the gnhf policy: fire once there is enough new data.
+
+The gnhf run of 2026-09-02 chose strategy/policy.py v3 by reading all 420
+settled forecasts, so its replay score is in-sample. The forward test
+scores the same policy on every forecast whose outcome was still unknown
+when that run ended (settled_ts > CUTOFF), including the five bets the
+policy pre-registered on the then-open rows.
+
+This script is the trigger. It prints NOT_YET until MIN_SETTLED rows have
+settled after the cutoff, then writes a GitHub issue body with the forward
+numbers, the pre-registered bets, and the pass criteria judged
+mechanically. The workflow opens the issue once.
+
+Usage: python3 .github/scripts/forward_test.py [--out PATH] [--force]
+"""
+import argparse
+import json
+import os
+import pathlib
+import subprocess
+import sys
+
+ROOT = pathlib.Path(__file__).resolve().parents[2]
+FORECASTS = ROOT / "journal" / "forecasts.jsonl"
+
+CUTOFF = "2026-09-02T00:14:36Z"  # gnhf run 1 ended (orchestrator:end)
+MIN_SETTLED = 100                # rows settled after the cutoff before we judge
+MAX_SETTLED = 300                # judge regardless of bet count once this many settled
+PREREGISTERED = {                # v3's decisions on the rows open at the cutoff
+    "a3ab895344cf": "no",
+    "d48834ed8f41": "no",
+    "e9f9221a3afb": "yes",
+    "650a1bcef8e7": "no",
+    "0b03a937a48d": "yes",
+}
+# Pass criteria, fixed before any forward row settled:
+MIN_BETS = 15            # fewer bets than this is "not enough evidence", not a fail
+MAX_SINGLE_BET_SHARE = 0.5  # no one bet may carry more than half of a positive pnl
+
+
+def settled_after_cutoff():
+    n = 0
+    for line in FORECASTS.read_text().splitlines():
+        if not line.strip():
+            continue
+        r = json.loads(line)
+        if r.get("status") in ("won", "lost") and (r.get("settled_ts") or "") > CUTOFF:
+            n += 1
+    return n
+
+
+def forward_report():
+    out = subprocess.run(
+        [sys.executable, str(ROOT / "core" / "replay.py"), "--after", CUTOFF, "--json"],
+        check=True, capture_output=True, text=True)
+    return json.loads(out.stdout)
+
+
+def judge(h, bets):
+    if h["n_bets"] < MIN_BETS:
+        return "NOT ENOUGH BETS", f"{h['n_bets']} bets, criteria need at least {MIN_BETS}"
+    if h["cw_return"] <= 0:
+        return "FAIL", f"forward cw_return {h['cw_return']:+.4f} is not above zero"
+    if h["pnl"] > 0:
+        top = max(b["pnl"] for b in bets)
+        if top / h["pnl"] > MAX_SINGLE_BET_SHARE:
+            return "FAIL", (f"one bet carries {top / h['pnl']:.0%} of the pnl, "
+                            f"limit {MAX_SINGLE_BET_SHARE:.0%}")
+    return "PASS", f"cw_return {h['cw_return']:+.4f} on {h['n_bets']} bets, no single bet dominates"
+
+
+def body(n_settled, report):
+    h, bets = report["held_out"], report["bets"]
+    verdict, why = judge(h, bets)
+    by_id = {b["id"]: b for b in bets}
+    rows = []
+    for line in FORECASTS.read_text().splitlines():
+        if line.strip():
+            r = json.loads(line)
+            if r["id"] in PREREGISTERED:
+                rows.append(r)
+    prereg = []
+    for r in rows:
+        b = by_id.get(r["id"])
+        pnl = f"{b['pnl']:+.2f}" if b else "no fill"
+        prereg.append(f"| {r['id']} | {PREREGISTERED[r['id']]} | {r['status']} | {pnl} | {r['question'][:60]} |")
+    bd = "-" if h["brier_delta"] is None else f"{h['brier_delta']:+.4f}"
+    return f"""## Forward test of strategy/policy.py v3 is ready
+
+**Verdict: {verdict}** ({why})
+
+{n_settled} forecasts have settled since the gnhf run ended at {CUTOFF}
+(threshold {MIN_SETTLED}). The policy was scored on all of them with
+`python3 core/replay.py --after {CUTOFF}`. Nobody tuned on these outcomes.
+
+| Metric | Forward | In-sample (5 folds, for reference) |
+|---|---|---|
+| cw_return | {h['cw_return']:+.4f} | +0.743 |
+| pnl | {h['pnl']:+.2f} | +121.68 |
+| bets | {h['n_bets']} / {h['n_rows']} rows | 19 / 336 |
+| win rate | {h['win_rate']} | 0.895 |
+| brier_delta vs market | {bd} | -0.0248 |
+
+### Pre-registered bets (open at the cutoff)
+
+| id | side | status | pnl | question |
+|---|---|---|---|---|
+{chr(10).join(prereg)}
+
+### Criteria (fixed 2026-09-02, before any forward row settled)
+
+- At least {MIN_BETS} forward bets, else the test is inconclusive and waits.
+- Forward cw_return above zero.
+- No single bet carries more than {MAX_SINGLE_BET_SHARE:.0%} of a positive pnl.
+
+### Next actions
+
+1. Write the verdict and the table above into `journal/operator-notes.md`.
+2. If PASS: ask the deep retro to consider adopting the 0.20-0.45 price dead zone into `risk.json`. The both-sides small-edge rule adds bets and needs a second forward window first.
+3. If FAIL: the branch history is the writeup. Change nothing in `strategy/`.
+4. Either way, the next gnhf run uses a sealed cutoff so the agent evaluates only on rows settled before it.
+
+Full bet list: `python3 core/replay.py --after {CUTOFF} --bets`
+"""
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--out", default=None, help="write the issue body here when ready")
+    ap.add_argument("--force", action="store_true", help="write the report even below the threshold")
+    a = ap.parse_args()
+    n = settled_after_cutoff()
+    report = forward_report() if (n >= MIN_SETTLED or a.force) else None
+    n_bets = report["held_out"]["n_bets"] if report else 0
+    # Fire once there is enough data AND enough bets to judge; if the policy
+    # bets so rarely that MIN_BETS never arrives, fire anyway at MAX_SETTLED,
+    # because "too few bets to test" is itself the finding.
+    ready = a.force or (n >= MIN_SETTLED and (n_bets >= MIN_BETS or n >= MAX_SETTLED))
+    gh_out = os.environ.get("GITHUB_OUTPUT")
+    if gh_out:
+        with open(gh_out, "a") as f:
+            f.write(f"ready={'true' if ready else 'false'}\nsettled={n}\nbets={n_bets}\n")
+    if not ready:
+        stage = "settled" if n < MIN_SETTLED else f"bets {n_bets}/{MIN_BETS}, settled"
+        print(f"NOT_YET {stage} after cutoff: {n}/{MIN_SETTLED} (judge regardless at {MAX_SETTLED})")
+        return
+    text = body(n, report)
+    if a.out:
+        pathlib.Path(a.out).write_text(text)
+        print(f"READY settled after cutoff: {n}/{MIN_SETTLED}; body written to {a.out}")
+    else:
+        print(text)
+
+
+if __name__ == "__main__":
+    main()

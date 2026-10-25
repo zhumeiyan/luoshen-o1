@@ -1,1 +1,212 @@
-IyBDb25maWd1cmF0aW9uIGZpbGUgZm9yIHRoZSBTcGhpbnggZG9jdW1lbnRhdGlvbiBidWlsZGVyLgojCiMgVGhpcyBmaWxlIGRvZXMgb25seSBjb250YWluIGEgc2VsZWN0aW9uIG9mIHRoZSBtb3N0IGNvbW1vbiBvcHRpb25zLiBGb3IgYQojIGZ1bGwgbGlzdCBzZWUgdGhlIGRvY3VtZW50YXRpb246CiMgaHR0cDovL3d3dy5zcGhpbngtZG9jLm9yZy9lbi9tYXN0ZXIvY29uZmlnCgojIC0tIFBhdGggc2V0dXAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiMgSWYgZXh0ZW5zaW9ucyAob3IgbW9kdWxlcyB0byBkb2N1bWVudCB3aXRoIGF1dG9kb2MpIGFyZSBpbiBhbm90aGVyIGRpcmVjdG9yeSwKIyBhZGQgdGhlc2UgZGlyZWN0b3JpZXMgdG8gc3lzLnBhdGggaGVyZS4gSWYgdGhlIGRpcmVjdG9yeSBpcyByZWxhdGl2ZSB0byB0aGUKIyBkb2N1bWVudGF0aW9uIHJvb3QsIHVzZSBvcy5wYXRoLmFic3BhdGggdG8gbWFrZSBpdCBhYnNvbHV0ZSwgbGlrZSBzaG93biBoZXJlLgojCiMgaW1wb3J0IG9zCiMgaW1wb3J0IHN5cwojIHN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgoJy4nKSkKCgojIC0tIFByb2plY3QgaW5mb3JtYXRpb24gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCnByb2plY3QgPSAnVmVpZ2hOYScKY29weXJpZ2h0ID0gJzIwMTUgLSAyMDI0LCDkuIrmtbfpn6bnurPova/ku7bnp5HmioDmnInpmZDlhazlj7gnCmF1dGhvciA9ICfkuIrmtbfpn6bnurPova/ku7bnp5HmioDmnInpmZDlhazlj7gnCgojIFRoZSBzaG9ydCBYLlkgdmVyc2lvbgp2ZXJzaW9uID0gJzIwMjQuNy4xOCcKIyBUaGUgZnVsbCB2ZXJzaW9uLCBpbmNsdWRpbmcgYWxwaGEvYmV0YS9yYyB0YWdzCnJlbGVhc2UgPSAnMjAyNC43LjE4JwoKIyAtLSBHZW5lcmFsIGNvbmZpZ3VyYXRpb24gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgojIElmIHlvdXIgZG9jdW1lbnRhdGlvbiBuZWVkcyBhIG1pbmltYWwgU3BoaW54IHZlcnNpb24sIHN0YXRlIGl0IGhlcmUuCiMKIyBuZWVkc19zcGhpbnggPSAnMS4wJwoKIyBBZGQgYW55IFNwaGlueCBleHRlbnNpb24gbW9kdWxlIG5hbWVzIGhlcmUsIGFzIHN0cmluZ3MuIFRoZXkgY2FuIGJlCiMgZXh0ZW5zaW9ucyBjb21pbmcgd2l0aCBTcGhpbnggKG5hbWVkICdzcGhpbnguZXh0LionKSBvciB5b3VyIGN1c3RvbQojIG9uZXMuCmV4dGVuc2lvbnMgPSBbCiAgICAnc3BoaW54LmV4dC5hdXRvZG9jJywKICAgICdzcGhpbnguZXh0LmludGVyc3BoaW54JywKICAgICdyZWNvbW1vbm1hcmsnLApdCgojIEFkZCBhbnkgcGF0aHMgdGhhdCBjb250YWluIHRlbXBsYXRlcyBoZXJlLCByZWxhdGl2ZSB0byB0aGlzIGRpcmVjdG9yeS4KdGVtcGxhdGVzX3BhdGggPSBbJ190ZW1wbGF0ZXMnXQoKIyBUaGUgc3VmZml4KGVzKSBvZiBzb3VyY2UgZmlsZW5hbWVzLgojIFlvdSBjYW4gc3BlY2lmeSBtdWx0aXBsZSBzdWZmaXggYXMgYSBsaXN0IG9mIHN0cmluZzoKIwojIHNvdXJjZV9zdWZmaXggPSBbJy5yc3QnLCAnLm1kJ10KIyBzb3VyY2Vfc3VmZml4ID0gJy5yc3QnCnNvdXJjZV9zdWZmaXggPSB7CiAgICAnLnJzdCc6ICdyZXN0cnVjdHVyZWR0ZXh0JywKICAgICcudHh0JzogJ21hcmtkb3duJywKICAgICcubWQnOiAnbWFya2Rvd24nLAp9CgojIFRoZSBtYXN0ZXIgdG9jdHJlZSBkb2N1bWVudC4KbWFzdGVyX2RvYyA9ICdpbmRleCcKCiMgVGhlIGxhbmd1YWdlIGZvciBjb250ZW50IGF1dG9nZW5lcmF0ZWQgYnkgU3BoaW54LiBSZWZlciB0byBkb2N1bWVudGF0aW9uCiMgZm9yIGEgbGlzdCBvZiBzdXBwb3J0ZWQgbGFuZ3VhZ2VzLgojCiMgVGhpcyBpcyBhbHNvIHVzZWQgaWYgeW91IGRvIGNvbnRlbnQgdHJhbnNsYXRpb24gdmlhIGdldHRleHQgY2F0YWxvZ3MuCiMgVXN1YWxseSB5b3Ugc2V0ICJsYW5ndWFnZSIgZnJvbSB0aGUgY29tbWFuZCBsaW5lIGZvciB0aGVzZSBjYXNlcy4KbGFuZ3VhZ2UgPSBOb25lCmxvY2FsZV9kaXJzID0gWyJsb2NhbGUvIl0KCiMgTGlzdCBvZiBwYXR0ZXJucywgcmVsYXRpdmUgdG8gc291cmNlIGRpcmVjdG9yeSwgdGhhdCBtYXRjaCBmaWxlcyBhbmQKIyBkaXJlY3RvcmllcyB0byBpZ25vcmUgd2hlbiBsb29raW5nIGZvciBzb3VyY2UgZmlsZXMuCiMgVGhpcyBwYXR0ZXJuIGFsc28gYWZmZWN0cyBodG1sX3N0YXRpY19wYXRoIGFuZCBodG1sX2V4dHJhX3BhdGguCmV4Y2x1ZGVfcGF0dGVybnMgPSBbJ19idWlsZCcsICdUaHVtYnMuZGInLCAnLkRTX1N0b3JlJ10KCiMgVGhlIG5hbWUgb2YgdGhlIFB5Z21lbnRzIChzeW50YXggaGlnaGxpZ2h0aW5nKSBzdHlsZSB0byB1c2UuCnB5Z21lbnRzX3N0eWxlID0gJ3NwaGlueCcKCiMgLS0gT3B0aW9ucyBmb3IgSFRNTCBvdXRwdXQgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKIyBUaGUgdGhlbWUgdG8gdXNlIGZvciBIVE1MIGFuZCBIVE1MIEhlbHAgcGFnZXMuICBTZWUgdGhlIGRvY3VtZW50YXRpb24gZm9yCiMgYSBsaXN0IG9mIGJ1aWx0aW4gdGhlbWVzLgojCmh0bWxfdGhlbWUgPSAnYWxhYmFzdGVyJwojIFRoZW1lIG9wdGlvbnMgYXJlIHRoZW1lLXNwZWNpZmljIGFuZCBjdXN0b21pemUgdGhlIGxvb2sgYW5kIGZlZWwgb2YgYSB0aGVtZQojIGZ1cnRoZXIuICBGb3IgYSBsaXN0IG9mIG9wdGlvbnMgYXZhaWxhYmxlIGZvciBlYWNoIHRoZW1lLCBzZWUgdGhlCiMgZG9jdW1lbnRhdGlvbi4KIwpodG1sX3RoZW1lX29wdGlvbnMgPSB7CiAgICAnbG9nbyc6ICd2bnB5LmljbycsCiAgICAiYmFzZV9iZyI6ICJpbmhlcml0IiwKICAgICJuYXJyb3dfc2lkZWJhcl9iZyI6ICJpbmhlcml0IiwKICAgICdnaXRodWJfYmFubmVyJzogVHJ1ZSwKICAgICdnaXRodWJfdXNlcic6ICd2bnB5JywKICAgICdnaXRodWJfcmVwbyc6ICd2bnB5JywKICAgICdnaXRodWJfdHlwZSc6ICdzdGFyJywKICAgICdkZXNjcmlwdGlvbic6IChyIjxkaXYgY2xhc3M9J2NvbC1tZC0xMic+IgogICAgICAgICAgICAgICAgICAgIHIiPHN0cm9uZz5WZWlnaE5hPC9zdHJvbmc+IgogICAgICAgICAgICAgICAgICAgIHIiPC9kaXY+IgogICAgICAgICAgICAgICAgICAgIHIiPGJyLz4iCiAgICAgICAgICAgICAgICAgICAgciJCeSBUcmFkZXJzLCBGb3IgVHJhZGVycyIpLAogICAgJ2ZpeGVkX3NpZGViYXInOiBUcnVlLAogICAgJ3Nob3dfcmVsYXRlZCc6IFRydWUKfQoKIyBBZGQgYW55IHBhdGhzIHRoYXQgY29udGFpbiBjdXN0b20gc3RhdGljIGZpbGVzIChzdWNoIGFzIHN0eWxlIHNoZWV0cykgaGVyZSwKIyByZWxhdGl2ZSB0byB0aGlzIGRpcmVjdG9yeS4gVGhleSBhcmUgY29waWVkIGFmdGVyIHRoZSBidWlsdGluIHN0YXRpYyBmaWxlcywKIyBzbyBhIGZpbGUgbmFtZWQgImRlZmF1bHQuY3NzIiB3aWxsIG92ZXJ3cml0ZSB0aGUgYnVpbHRpbiAiZGVmYXVsdC5jc3MiLgpodG1sX3N0YXRpY19wYXRoID0gWydfc3RhdGljJ10KCiMgQ3VzdG9tIHNpZGViYXIgdGVtcGxhdGVzLCBtdXN0IGJlIGEgZGljdGlvbmFyeSB0aGF0IG1hcHMgZG9jdW1lbnQgbmFtZXMKIyB0byB0ZW1wbGF0ZSBuYW1lcy4KIwojIFRoZSBkZWZhdWx0IHNpZGViYXJzIChmb3IgZG9jdW1lbnRzIHRoYXQgZG9uJ3QgbWF0Y2ggYW55IHBhdHRlcm4pIGFyZQojIGRlZmluZWQgYnkgdGhlbWUgaXRzZWxmLiAgQnVpbHRpbiB0aGVtZXMgYXJlIHVzaW5nIHRoZXNlIHRlbXBsYXRlcyBieQojIGRlZmF1bHQ6IGBgWydsb2NhbHRvYy5odG1sJywgJ3JlbGF0aW9ucy5odG1sJywgJ3NvdXJjZWxpbmsuaHRtbCcsCiMgJ3NlYXJjaGJveC5odG1sJ11gYC4KIwpodG1sX3NpZGViYXJzID0gewogICAgJ2luZGV4JzogWwogICAgICAgICdhYm91dC5odG1sJywKICAgICAgICAnc2lkZWJhcmludHJvLmh0bWwnLAogICAgICAgICdzb3VyY2VsaW5rLmh0bWwnLAogICAgICAgICdzZWFyY2hib3guaHRtbCcKICAgIF0sCiAgICAnKionOiBbCiAgICAgICAgJ2Fib3V0Lmh0bWwnLAogICAgICAgICdsb2NhbHRvYy5odG1sJywKICAgICAgICAncmVsYXRpb25zLmh0bWwnLAogICAgICAgICdzb3VyY2VsaW5rLmh0bWwnLAogICAgICAgICdzZWFyY2hib3guaHRtbCcKICAgIF0KfQoKCiMgLS0gT3B0aW9ucyBmb3IgSFRNTEhlbHAgb3V0cHV0IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKIyBPdXRwdXQgZmlsZSBiYXNlIG5hbWUgZm9yIEhUTUwgaGVscCBidWlsZGVyLgpodG1saGVscF9iYXNlbmFtZSA9ICd2bnB5ZG9jJwoKIyAtLSBPcHRpb25zIGZvciBMYVRlWCBvdXRwdXQgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpsYXRleF9lbGVtZW50cyA9IHsKICAgICMgVGhlIHBhcGVyIHNpemUgKCdsZXR0ZXJwYXBlcicgb3IgJ2E0cGFwZXInKS4KICAgICMKICAgICMgJ3BhcGVyc2l6ZSc6ICdsZXR0ZXJwYXBlcicsCgogICAgIyBUaGUgZm9udCBzaXplICgnMTBwdCcsICcxMXB0JyBvciAnMTJwdCcpLgogICAgIwogICAgIyAncG9pbnRzaXplJzogJzEwcHQnLAoKICAgICMgQWRkaXRpb25hbCBzdHVmZiBmb3IgdGhlIExhVGVYIHByZWFtYmxlLgogICAgIwogICAgIyAncHJlYW1ibGUnOiAnJywKCiAgICAjIExhdGV4IGZpZ3VyZSAoZmxvYXQpIGFsaWdubWVudAogICAgIwogICAgIyAnZmlndXJlX2FsaWduJzogJ2h0YnAnLAp9CgojIEdyb3VwaW5nIHRoZSBkb2N1bWVudCB0cmVlIGludG8gTGFUZVggZmlsZXMuIExpc3Qgb2YgdHVwbGVzCiMgKHNvdXJjZSBzdGFydCBmaWxlLCB0YXJnZXQgbmFtZSwgdGl0bGUsCiMgIGF1dGhvciwgZG9jdW1lbnRjbGFzcyBbaG93dG8sIG1hbnVhbCwgb3Igb3duIGNsYXNzXSkuCmxhdGV4X2RvY3VtZW50cyA9IFsKICAgIChtYXN0ZXJfZG9jLCAndm5weS50ZXgnLCAndm5weSBEb2N1bWVudGF0aW9uJywKICAgICAnVmVpZ2hOYSBUZWFtJywgJ21hbnVhbCcpLApdCgojIC0tIE9wdGlvbnMgZm9yIG1hbnVhbCBwYWdlIG91dHB1dCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiMgT25lIGVudHJ5IHBlciBtYW51YWwgcGFnZS4gTGlzdCBvZiB0dXBsZXMKIyAoc291cmNlIHN0YXJ0IGZpbGUsIG5hbWUsIGRlc2NyaXB0aW9uLCBhdXRob3JzLCBtYW51YWwgc2VjdGlvbikuCm1hbl9wYWdlcyA9IFsKICAgIChtYXN0ZXJfZG9jLCAndm5weScsICd2bnB5IERvY3VtZW50YXRpb24nLAogICAgIFthdXRob3JdLCAxKQpdCgojIC0tIE9wdGlvbnMgZm9yIFRleGluZm8gb3V0cHV0IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiMgR3JvdXBpbmcgdGhlIGRvY3VtZW50IHRyZWUgaW50byBUZXhpbmZvIGZpbGVzLiBMaXN0IG9mIHR1cGxlcwojIChzb3VyY2Ugc3RhcnQgZmlsZSwgdGFyZ2V0IG5hbWUsIHRpdGxlLCBhdXRob3IsCiMgIGRpciBtZW51IGVudHJ5LCBkZXNjcmlwdGlvbiwgY2F0ZWdvcnkpCnRleGluZm9fZG9jdW1lbnRzID0gWwogICAgKG1hc3Rlcl9kb2MsICd2bnB5JywgJ3ZucHkgRG9jdW1lbnRhdGlvbicsCiAgICAgYXV0aG9yLCAndm5weScsICdPbmUgbGluZSBkZXNjcmlwdGlvbiBvZiBwcm9qZWN0LicsCiAgICAgJ01pc2NlbGxhbmVvdXMnKSwKXQoKIyAtLSBPcHRpb25zIGZvciBpbnRlcnNwaGlueCBvdXRwdXQgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQppbnRlcnNwaGlueF9tYXBwaW5nID0gewogICAgIyAncHl0aG9uJzogKCdodHRwczovL2RvY3MucHl0aG9uLm9yZy8zLycsIE5vbmUpLAp9CgojIC0tIE9wdGlvbnMgZm9yIEVwdWIgb3V0cHV0IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiMgQmlibGlvZ3JhcGhpYyBEdWJsaW4gQ29yZSBpbmZvLgplcHViX3RpdGxlID0gcHJvamVjdAoKIyBUaGUgdW5pcXVlIGlkZW50aWZpZXIgb2YgdGhlIHRleHQuIFRoaXMgY2FuIGJlIGEgSVNCTiBudW1iZXIKIyBvciB0aGUgcHJvamVjdCBob21lcGFnZS4KIwojIGVwdWJfaWRlbnRpZmllciA9ICcnCgojIEEgdW5pcXVlIGlkZW50aWZpY2F0aW9uIGZvciB0aGUgdGV4dC4KIwojIGVwdWJfdWlkID0gJycKIyBBIGxpc3Qgb2YgZmlsZXMgdGhhdCBzaG91bGQgbm90IGJlIHBhY2tlZCBpbnRvIHRoZSBlcHViIGZpbGUuCmVwdWJfZXhjbHVkZV9maWxlcyA9IFsnc2VhcmNoLmh0bWwnXQoKIyAtLSBPcHRpb25zIGZvciBBdXRvZG9jIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KYXV0b2RvY19kZWZhdWx0X29wdGlvbnMgPSB7CiAgICAnbWVtYmVyLW9yZGVyJzogJ2J5c291cmNlJywKICAgICd1bmRvYy1tZW1iZXJzJzogVHJ1ZSwKfQo=
+# Configuration file for the Sphinx documentation builder.
+#
+# This file does only contain a selection of the most common options. For a
+# full list see the documentation:
+# http://www.sphinx-doc.org/en/master/config
+
+# -- Path setup --------------------------------------------------------------
+
+# If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+#
+# import os
+# import sys
+# sys.path.insert(0, os.path.abspath('.'))
+
+
+# -- Project information -----------------------------------------------------
+
+project = 'VeighNa'
+copyright = '2015 - 2024, 上海韦纳软件科技有限公司'
+author = '上海韦纳软件科技有限公司'
+
+# The short X.Y version
+version = '2024.7.18'
+# The full version, including alpha/beta/rc tags
+release = '2024.7.18'
+
+# -- General configuration ---------------------------------------------------
+
+# If your documentation needs a minimal Sphinx version, state it here.
+#
+# needs_sphinx = '1.0'
+
+# Add any Sphinx extension module names here, as strings. They can be
+# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
+# ones.
+extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx.ext.intersphinx',
+    'recommonmark',
+]
+
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ['_templates']
+
+# The suffix(es) of source filenames.
+# You can specify multiple suffix as a list of string:
+#
+# source_suffix = ['.rst', '.md']
+# source_suffix = '.rst'
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
+
+# The master toctree document.
+master_doc = 'index'
+
+# The language for content autogenerated by Sphinx. Refer to documentation
+# for a list of supported languages.
+#
+# This is also used if you do content translation via gettext catalogs.
+# Usually you set "language" from the command line for these cases.
+language = None
+locale_dirs = ["locale/"]
+
+# List of patterns, relative to source directory, that match files and
+# directories to ignore when looking for source files.
+# This pattern also affects html_static_path and html_extra_path.
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
+
+# -- Options for HTML output -------------------------------------------------
+
+# The theme to use for HTML and HTML Help pages.  See the documentation for
+# a list of builtin themes.
+#
+html_theme = 'alabaster'
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+#
+html_theme_options = {
+    'logo': 'vnpy.ico',
+    "base_bg": "inherit",
+    "narrow_sidebar_bg": "inherit",
+    'github_banner': True,
+    'github_user': 'vnpy',
+    'github_repo': 'vnpy',
+    'github_type': 'star',
+    'description': (r"<div class='col-md-12'>"
+                    r"<strong>VeighNa</strong>"
+                    r"</div>"
+                    r"<br/>"
+                    r"By Traders, For Traders"),
+    'fixed_sidebar': True,
+    'show_related': True
+}
+
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = ['_static']
+
+# Custom sidebar templates, must be a dictionary that maps document names
+# to template names.
+#
+# The default sidebars (for documents that don't match any pattern) are
+# defined by theme itself.  Builtin themes are using these templates by
+# default: ``['localtoc.html', 'relations.html', 'sourcelink.html',
+# 'searchbox.html']``.
+#
+html_sidebars = {
+    'index': [
+        'about.html',
+        'sidebarintro.html',
+        'sourcelink.html',
+        'searchbox.html'
+    ],
+    '**': [
+        'about.html',
+        'localtoc.html',
+        'relations.html',
+        'sourcelink.html',
+        'searchbox.html'
+    ]
+}
+
+
+# -- Options for HTMLHelp output ---------------------------------------------
+
+# Output file base name for HTML help builder.
+htmlhelp_basename = 'vnpydoc'
+
+# -- Options for LaTeX output ------------------------------------------------
+
+latex_elements = {
+    # The paper size ('letterpaper' or 'a4paper').
+    #
+    # 'papersize': 'letterpaper',
+
+    # The font size ('10pt', '11pt' or '12pt').
+    #
+    # 'pointsize': '10pt',
+
+    # Additional stuff for the LaTeX preamble.
+    #
+    # 'preamble': '',
+
+    # Latex figure (float) alignment
+    #
+    # 'figure_align': 'htbp',
+}
+
+# Grouping the document tree into LaTeX files. List of tuples
+# (source start file, target name, title,
+#  author, documentclass [howto, manual, or own class]).
+latex_documents = [
+    (master_doc, 'vnpy.tex', 'vnpy Documentation',
+     'VeighNa Team', 'manual'),
+]
+
+# -- Options for manual page output ------------------------------------------
+
+# One entry per manual page. List of tuples
+# (source start file, name, description, authors, manual section).
+man_pages = [
+    (master_doc, 'vnpy', 'vnpy Documentation',
+     [author], 1)
+]
+
+# -- Options for Texinfo output ----------------------------------------------
+
+# Grouping the document tree into Texinfo files. List of tuples
+# (source start file, target name, title, author,
+#  dir menu entry, description, category)
+texinfo_documents = [
+    (master_doc, 'vnpy', 'vnpy Documentation',
+     author, 'vnpy', 'One line description of project.',
+     'Miscellaneous'),
+]
+
+# -- Options for intersphinx output ----------------------------------------------
+intersphinx_mapping = {
+    # 'python': ('https://docs.python.org/3/', None),
+}
+
+# -- Options for Epub output -------------------------------------------------
+
+# Bibliographic Dublin Core info.
+epub_title = project
+
+# The unique identifier of the text. This can be a ISBN number
+# or the project homepage.
+#
+# epub_identifier = ''
+
+# A unique identification for the text.
+#
+# epub_uid = ''
+# A list of files that should not be packed into the epub file.
+epub_exclude_files = ['search.html']
+
+# -- Options for Autodoc -------------------------------------------------
+autodoc_default_options = {
+    'member-order': 'bysource',
+    'undoc-members': True,
+}

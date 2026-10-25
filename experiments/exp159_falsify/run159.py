@@ -1,1 +1,227 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIGV4cDE1OSDigJQg5LiJ5p2h6KeE5b6L55qE5Y+v6K+B5Lyq5oCn5qOA6aqMCiMg5a+55pa55Yik6K+N77ya5LiJ5p2h6YO95pivIuaKiuWumuS5ieW9k+WPkeeOsOOAgeaKiuivr+eUqOW9k+inhOW+iyLvvIzkuI3lj6/or4HkvKrjgIIKIyDmnKzova7kuI3ovqnvvIznm7TmjqXmnoTpgKDog73nv7vmjonlroPku6znmoTlrp7pqozjgIIKIwojIFQxIOWtmOWcqOWFqOWfn+WNoOS8mOetlueVpeWQl++8nyAgIOKAlOKAlCDoi6XmnInvvIwi5rKh5pyJ5pu05aW9562W55WlIuiiq+ivgeS8qgojIFQyIOWRqOacn+S4lueVjOmHjOe7meato+ehruS4lueVjOaooeWei++8jOaXtumXtOmhuuW6j+aYr+WQpueUsei0n+WAuui9rOi1hOS6p++8nyDigJTigJQg6Iul5piv77yM5Yik6K+N5oiQ56uLCiMgVDMg5peg57uT5p6E5Zyw5b2i5LiK77yM5aW95aWH5b+D5Zyo5aSn6aKE566X5LiL5piv5ZCm5Y+N6LaF77yfIOKAlOKAlCDoi6XmmK/vvIwi5aW95aWH5pyJ5a6zIuaYr+mihOeul+WBh+ixoQoKaW1wb3J0IG51bXB5IGFzIG5wLCBqc29uLCBvcywgaXRlcnRvb2xzCgpPVVQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTU5X2ZhbHNpZnkiCm9zLm1ha2VkaXJzKE9VVCwgZXhpc3Rfb2s9VHJ1ZSkKUiA9IHt9CgojID09PT09PT09PT09PT09PT09IOS4lueVjOeUn+aIkOWZqCA9PT09PT09PT09PT09PT09PQpkZWYgZ2VuX3dvcmxkKGtpbmQsIFQsIHJuZyk6CiAgICB0ID0gbnAuYXJhbmdlKFQpCiAgICBpZiBraW5kID09ICJtb25vdG9uZSI6CiAgICAgICAgcmV0dXJuIDAuMDIgKiB0ICsgcm5nLm5vcm1hbCgwLCAwLjMsIFQpCiAgICBpZiBraW5kID09ICJzdGF0aW9uYXJ5IjoKICAgICAgICByZXR1cm4gcm5nLm5vcm1hbCgwLCAxLjAsIFQpCiAgICBpZiBraW5kID09ICJzaW5lIjoKICAgICAgICByZXR1cm4gMyAqIG5wLnNpbigyICogbnAucGkgKiB0IC8gNDApICsgcm5nLm5vcm1hbCgwLCAwLjIsIFQpCiAgICBpZiBraW5kID09ICJzcXVhcmUiOgogICAgICAgIHJldHVybiAzICogbnAuc2lnbihucC5zaW4oMiAqIG5wLnBpICogdCAvIDQwKSkgKyBybmcubm9ybWFsKDAsIDAuMiwgVCkKICAgIGlmIGtpbmQgPT0gImJ1cnN0IjoKICAgICAgICB4ID0gcm5nLm5vcm1hbCgwLCAwLjMsIFQpCiAgICAgICAgZm9yIHMgaW4gcmFuZ2UoMCwgVCwgNTApOgogICAgICAgICAgICB4W3M6cyArIDEwXSArPSBybmcubm9ybWFsKDMsIDAuNSkKICAgICAgICByZXR1cm4geAogICAgaWYga2luZCA9PSAicnciOgogICAgICAgIHJldHVybiBucC5jdW1zdW0ocm5nLm5vcm1hbCgwLCAwLjMsIFQpKQogICAgaWYga2luZCA9PSAiY2hhb3RpYyI6CiAgICAgICAgeCA9IG5wLnplcm9zKFQpOyB4WzBdID0gMC40CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMSwgVCk6CiAgICAgICAgICAgIHhbaV0gPSAzLjkgKiB4W2kgLSAxXSAqICgxIC0geFtpIC0gMV0pCiAgICAgICAgcmV0dXJuIHggKyBybmcubm9ybWFsKDAsIDAuMDUsIFQpCiAgICByYWlzZSBWYWx1ZUVycm9yKGtpbmQpCgpXT1JMRFMgPSBbIm1vbm90b25lIiwgInN0YXRpb25hcnkiLCAic2luZSIsICJzcXVhcmUiLCAiYnVyc3QiLCAicnciLCAiY2hhb3RpYyJdCgojID09PT09PT09PT09PT09PT09IOetlueVpe+8iOWFqOmDqOWcqOe6v+OAgeWboOaenO+8jOWPqueUqOi/h+WOu++8iSA9PT09PT09PT09PT09PT09PQpkZWYgc3RyYXRfY29uc3RfemVybyhoKTogIHJldHVybiAwLjAKZGVmIHN0cmF0X2xhc3QoaCk6ICAgICAgICByZXR1cm4gaFstMV0gaWYgbGVuKGgpIGVsc2UgMC4wCmRlZiBzdHJhdF9tZWFuX2FsbChoKTogICAgcmV0dXJuIGZsb2F0KG5wLm1lYW4oaCkpIGlmIGxlbihoKSBlbHNlIDAuMApkZWYgc3RyYXRfbWVhbl9yZWNlbnQoaCwgaz04KToKICAgIHJldHVybiBmbG9hdChucC5tZWFuKGhbLWs6XSkpIGlmIGxlbihoKSBlbHNlIDAuMApkZWYgc3RyYXRfdHJlbmQoaCwgaz04KToKICAgICMg57q/5oCn5aSW5o6o77ya55So5pyA6L+RIGsg54K555qE6aG65bqP5L+h5oGvCiAgICBpZiBsZW4oaCkgPCAzOiByZXR1cm4gZmxvYXQoaFstMV0pIGlmIGxlbihoKSBlbHNlIDAuMAogICAgeSA9IG5wLmFzYXJyYXkoaFstazpdKTsgeCA9IG5wLmFyYW5nZShsZW4oeSkpCiAgICBBID0gbnAudnN0YWNrKFt4LCBucC5vbmVzKGxlbih4KSldKS5UCiAgICBhLCBiID0gbnAubGluYWxnLmxzdHNxKEEsIHksIHJjb25kPU5vbmUpWzBdCiAgICByZXR1cm4gZmxvYXQoYSAqIGxlbih5KSArIGIpCmRlZiBzdHJhdF9zZ2QoaCwgaz04LCBldGE9MC4wNSk6CiAgICAjIOWcqOe6vyBTR0TvvIzpobrluo/mlY/mhJ/vvIjpgJDngrnmm7TmlrDvvIkKICAgIHcsIGIgPSAwLjAsIDAuMAogICAgZm9yIGkgaW4gcmFuZ2UoMSwgbGVuKGgpKToKICAgICAgICBwID0gdyAqIGhbaSAtIDFdICsgYgogICAgICAgIGUgPSBoW2ldIC0gcAogICAgICAgIHcgKz0gZXRhICogZSAqIGhbaSAtIDFdCiAgICAgICAgYiArPSBldGEgKiBlCiAgICByZXR1cm4gZmxvYXQodyAqIGhbLTFdICsgYikgaWYgbGVuKGgpIGVsc2UgMC4wCmRlZiBzdHJhdF9waGFzZShoLCBQPTQwLCByZWNlbmN5PU5vbmUpOgogICAgIyDnm7jkvY3mnaHku7blnYflgLzvvJrpnIDopoEi5LiW55WM5qih5Z6LIu+8iOefpemBk+WRqOacnyBQ77yJCiAgICBpZiBsZW4oaCkgPCAyOiByZXR1cm4gZmxvYXQoaFstMV0pIGlmIGxlbihoKSBlbHNlIDAuMAogICAgaWR4ID0gbnAuYXJhbmdlKGxlbihoKSkKICAgIHBoID0gKGlkeCAlIFApCiAgICBjdXIgPSAobGVuKGgpKSAlIFAKICAgIG0gPSAocGggPT0gY3VyKQogICAgaWYgcmVjZW5jeSBpcyBub3QgTm9uZToKICAgICAgICBtID0gbSAmIChpZHggPj0gbGVuKGgpIC0gcmVjZW5jeSAqIFApCiAgICByZXR1cm4gZmxvYXQobnAubWVhbihucC5hc2FycmF5KGgpW21dKSkgaWYgbS5hbnkoKSBlbHNlIGZsb2F0KG5wLm1lYW4oaCkpCgpTVFJBVFMgPSB7CiAgICAiY29uc3RfemVybyI6IHN0cmF0X2NvbnN0X3plcm8sCiAgICAibGFzdCI6ICAgICAgIHN0cmF0X2xhc3QsCiAgICAibWVhbl9hbGwiOiAgIHN0cmF0X21lYW5fYWxsLAogICAgIm1lYW5fcmVjZW50OCI6IHN0cmF0X21lYW5fcmVjZW50LAogICAgInRyZW5kIjogICAgICBzdHJhdF90cmVuZCwKICAgICJzZ2QiOiAgICAgICAgc3RyYXRfc2dkLAogICAgInBoYXNlX3VuaWZvcm0iOiBsYW1iZGEgaDogc3RyYXRfcGhhc2UoaCwgcmVjZW5jeT1Ob25lKSwKICAgICJwaGFzZV9yZWNlbnQyIjogbGFtYmRhIGg6IHN0cmF0X3BoYXNlKGgsIHJlY2VuY3k9MiksCn0KCiMgPT09PT09PT09PT09PT09PT0gVDHvvJrlhajln5/ljaDkvJjmo4DpqowgPT09PT09PT09PT09PT09PT0KZGVmIHJ1bl90MShUPTYwMCwgbnNlZWRzPTgpOgogICAgcmVzID0ge3c6IHtzOiBbXSBmb3IgcyBpbiBTVFJBVFN9IGZvciB3IGluIFdPUkxEU30KICAgIGZvciBzZWVkIGluIHJhbmdlKG5zZWVkcyk6CiAgICAgICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDEwMDAgKyBzZWVkKQogICAgICAgIGZvciB3IGluIFdPUkxEUzoKICAgICAgICAgICAgeCA9IGdlbl93b3JsZCh3LCBULCBybmcpCiAgICAgICAgICAgIGJ1cm4gPSBpbnQoVCAqIDAuNCkKICAgICAgICAgICAgZm9yIG5hbWUsIGYgaW4gU1RSQVRTLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBlcnJzID0gW10KICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKGJ1cm4sIFQpOgogICAgICAgICAgICAgICAgICAgIGggPSB4WzppXQogICAgICAgICAgICAgICAgICAgIHAgPSBmKGgpCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IG5wLmlzZmluaXRlKHApOiBwID0gMC4wCiAgICAgICAgICAgICAgICAgICAgZXJycy5hcHBlbmQoYWJzKHhbaV0gLSBwKSkKICAgICAgICAgICAgICAgIHJlc1t3XVtuYW1lXS5hcHBlbmQoZmxvYXQobnAubWVhbihlcnJzKSkpCiAgICBvdXQgPSB7dzoge3M6IHsibWVhbiI6IGZsb2F0KG5wLm1lYW4odikpLAogICAgICAgICAgICAgICAgICAgImxvIjogZmxvYXQobnAucGVyY2VudGlsZSh2LCAyLjUpKSwKICAgICAgICAgICAgICAgICAgICJoaSI6IGZsb2F0KG5wLnBlcmNlbnRpbGUodiwgOTcuNSkpfQogICAgICAgICAgICAgICBmb3IgcywgdiBpbiBkLml0ZW1zKCl9IGZvciB3LCBkIGluIHJlcy5pdGVtcygpfQogICAgIyDljaDkvJjliKTlrpoKICAgIGJlc3RfcGVyX3dvcmxkID0ge30KICAgIGZvciB3IGluIFdPUkxEUzoKICAgICAgICBtID0gbWluKG91dFt3XVtzXVsibWVhbiJdIGZvciBzIGluIFNUUkFUUykKICAgICAgICBiZXN0X3Blcl93b3JsZFt3XSA9IHNvcnRlZChbcyBmb3IgcyBpbiBTVFJBVFMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgb3V0W3ddW3NdWyJtZWFuIl0gPD0gbSAqIDEuMDJdKQogICAgIyDmnInmsqHmnInkuIDkuKrnrZbnlaXlnKjmiYDmnInkuJbnlYzph4zpg73ov5sgYmVzdAogICAgZXZlcl9iZXN0ID0ge3M6IHN1bSgxIGZvciB3IGluIFdPUkxEUyBpZiBzIGluIGJlc3RfcGVyX3dvcmxkW3ddKSBmb3IgcyBpbiBTVFJBVFN9CiAgICBkb21pbmF0b3IgPSBbcyBmb3IgcyBpbiBTVFJBVFMgaWYgZXZlcl9iZXN0W3NdID09IGxlbihXT1JMRFMpXQogICAgIyBORkwg5qOA6aqM77ya6Leo5LiW55WM5bmz5Z2H5ZCO77yM562W55Wl6Ze05beu5byC5aSn5bCPCiAgICBhdmcgPSB7czogZmxvYXQobnAubWVhbihbb3V0W3ddW3NdWyJtZWFuIl0gZm9yIHcgaW4gV09STERTXSkpIGZvciBzIGluIFNUUkFUU30KICAgIHJldHVybiB7InBlcl93b3JsZCI6IG91dCwgImJlc3RfcGVyX3dvcmxkIjogYmVzdF9wZXJfd29ybGQsCiAgICAgICAgICAgICJldmVyX2Jlc3QiOiBldmVyX2Jlc3QsICJkb21pbmF0b3IiOiBkb21pbmF0b3IsCiAgICAgICAgICAgICJhdmdfb3Zlcl93b3JsZHMiOiBhdmd9CgojID09PT09PT09PT09PT09PT09IFQy77ya5ZGo5pyf5LiW55WM6YeMIuaXtumXtOmhuuW6jyLnmoTnrKblj7fog73lkKbooqvkuJbnlYzmqKHlnovnv7vovawgPT09PT09PT09PT09PT09PT0KZGVmIHJ1bl90MihUPTEyMDAsIG5zZWVkcz04LCBQPTQwKToKICAgICMg5ZGo5pyfICsg57yT5oWi5ryC56e755qE5oyv5bmF77yM5L2/IuebuOS9jSArIOi/keacnyLlj6/og73kvJjkuo4i55u45L2NICsg5YWo6YOoIgogICAgZGVmIGdlbihybmcpOgogICAgICAgIHQgPSBucC5hcmFuZ2UoVCkKICAgICAgICBhbXAgPSAzLjAgKyAwLjUgKiBucC5zaW4oMiAqIG5wLnBpICogdCAvIChUIC8gMS41KSkgICMg5oWi5Y+Y5oyv5bmFCiAgICAgICAgcmV0dXJuIGFtcCAqIG5wLnNpbigyICogbnAucGkgKiB0IC8gUCkgKyBybmcubm9ybWFsKDAsIDAuMiwgVCkKICAgIGFybXMgPSB7CiAgICAgICAgIm5vX21vZGVsX3JlY2VudCI6IGxhbWJkYSBoOiBzdHJhdF9tZWFuX3JlY2VudChoLCA4KSwgICAgICAjIOeUqOmhuuW6j++8jOaXoOS4lueVjOaooeWeiwogICAgICAgICJub19tb2RlbF9hbGwiOiAgICBzdHJhdF9tZWFuX2FsbCwgICAgICAgICAgICAgICAgICAgICAgICAgICMg5LiN55So6aG65bqP77yM5peg5LiW55WM5qih5Z6LCiAgICAgICAgIm1vZGVsX3VuaWZvcm0iOiAgIGxhbWJkYSBoOiBzdHJhdF9waGFzZShoLCBQPVAsIHJlY2VuY3k9Tm9uZSksICAjIOacieaooeWei++8jOS4jeeUqOi/keacnwogICAgICAgICJtb2RlbF9yZWNlbnQiOiAgICBsYW1iZGEgaDogc3RyYXRfcGhhc2UoaCwgUD1QLCByZWNlbmN5PTIpLCAgICAgIyDmnInmqKHlnosgKyDov5HmnJ8KICAgIH0KICAgIGFjYyA9IHtrOiBbXSBmb3IgayBpbiBhcm1zfQogICAgZm9yIHNlZWQgaW4gcmFuZ2UobnNlZWRzKToKICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMjAwMCArIHNlZWQpCiAgICAgICAgeCA9IGdlbihybmcpCiAgICAgICAgYnVybiA9IGludChUICogMC41KQogICAgICAgIGZvciBuYW1lLCBmIGluIGFybXMuaXRlbXMoKToKICAgICAgICAgICAgZXJycyA9IFthYnMoeFtpXSAtIGYoeFs6aV0pKSBmb3IgaSBpbiByYW5nZShidXJuLCBUKV0KICAgICAgICAgICAgYWNjW25hbWVdLmFwcGVuZChmbG9hdChucC5tZWFuKGVycnMpKSkKICAgIHN1bW0gPSB7azogeyJtZWFuIjogZmxvYXQobnAubWVhbih2KSksCiAgICAgICAgICAgICAgICAibG8iOiBmbG9hdChucC5wZXJjZW50aWxlKHYsIDIuNSkpLAogICAgICAgICAgICAgICAgImhpIjogZmxvYXQobnAucGVyY2VudGlsZSh2LCA5Ny41KSl9IGZvciBrLCB2IGluIGFjYy5pdGVtcygpfQogICAgIyDlhbPplK7lr7nmr5TvvJrml6DmqKHlnovml7Yg6aG65bqPLeaXoOmhuuW6j++8iOatoz3pobrluo/mmK/otJ/lgLrvvIkKICAgIGRfbm9tb2RlbCA9IG5wLmFycmF5KGFjY1sibm9fbW9kZWxfcmVjZW50Il0pIC0gbnAuYXJyYXkoYWNjWyJub19tb2RlbF9hbGwiXSkKICAgICMg5pyJ5qih5Z6L5pe2IOmhuuW6jy3ml6Dpobrluo8KICAgIGRfbW9kZWwgPSBucC5hcnJheShhY2NbIm1vZGVsX3JlY2VudCJdKSAtIG5wLmFycmF5KGFjY1sibW9kZWxfdW5pZm9ybSJdKQogICAgIyDmnInmqKHlnosgdnMg5peg5qih5Z6L5pyA5aW96ICFCiAgICBiZXN0X25vbW9kZWwgPSBucC5taW5pbXVtKG5wLmFycmF5KGFjY1sibm9fbW9kZWxfcmVjZW50Il0pLCBucC5hcnJheShhY2NbIm5vX21vZGVsX2FsbCJdKSkKICAgIGRfbW9kZWxnYWluID0gYmVzdF9ub21vZGVsIC0gbnAuYXJyYXkoYWNjWyJtb2RlbF9yZWNlbnQiXSkKICAgIGRlZiBjaShhKToKICAgICAgICByZXR1cm4gW2Zsb2F0KG5wLnBlcmNlbnRpbGUoYSwgMi41KSksIGZsb2F0KG5wLnBlcmNlbnRpbGUoYSwgOTcuNSkpXQogICAgcmV0dXJuIHsiYXJtcyI6IHN1bW0sCiAgICAgICAgICAgICJub19tb2RlbF9vcmRlcl9taW51c19ub29yZGVyIjogeyJtZWFuIjogZmxvYXQoZF9ub21vZGVsLm1lYW4oKSksICJjaSI6IGNpKGRfbm9tb2RlbCl9LAogICAgICAgICAgICAibW9kZWxfb3JkZXJfbWludXNfbm9vcmRlciI6ICAgIHsibWVhbiI6IGZsb2F0KGRfbW9kZWwubWVhbigpKSwgImNpIjogY2koZF9tb2RlbCl9LAogICAgICAgICAgICAiYmVzdF9ub21vZGVsX21pbnVzX21vZGVsX3JlY2VudCI6IHsibWVhbiI6IGZsb2F0KGRfbW9kZWxnYWluLm1lYW4oKSksICJjaSI6IGNpKGRfbW9kZWxnYWluKX19CgojID09PT09PT09PT09PT09PT09IFQz77ya5aW95aWH5b+D5Zyo5peg57uT5p6E5Zyw5b2i5LiK77yM5pivIuacieWusyLov5jmmK8i6aKE566X5LiN6LazIiA9PT09PT09PT09PT09PT09PQpkZWYgcnVuX3QzKGJ1ZGdldHM9KDUwLCAyMDAsIDgwMCwgMzIwMCksIG5zZWVkcz0xMCwgbl9ub2Rlcz02MCwgbl9mZWF0PTYpOgogICAgb3V0ID0ge30KICAgIGZvciBCIGluIGJ1ZGdldHM6CiAgICAgICAgcm93cyA9IHt9CiAgICAgICAgZm9yIGFybSBpbiBbImN1cmlvc2l0eSIsICJyYW5kb20iLCAidW5pZm9ybV9ub3JlcGVhdCJdOgogICAgICAgICAgICBlcnJzID0gW10KICAgICAgICAgICAgZm9yIHNlZWQgaW4gcmFuZ2UobnNlZWRzKToKICAgICAgICAgICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygzMDAwICsgc2VlZCkKICAgICAgICAgICAgICAgIFggPSBybmcubm9ybWFsKDAsIDEsIChuX25vZGVzLCBuX2ZlYXQpKSAgICAgICAjIOaXoOe7k+aehO+8muebruagh+S4jueJueW+geaXoOWFswogICAgICAgICAgICAgICAgeSA9IHJuZy5ub3JtYWwoMCwgMSwgbl9ub2RlcykKICAgICAgICAgICAgICAgIHZpc2l0ZWQgPSBucC56ZXJvcyhuX25vZGVzLCBkdHlwZT1pbnQpCiAgICAgICAgICAgICAgICB3ID0gbnAuemVyb3Mobl9mZWF0KQogICAgICAgICAgICAgICAgZXRhID0gMC4wNQogICAgICAgICAgICAgICAgZm9yIHN0ZXAgaW4gcmFuZ2UoQik6CiAgICAgICAgICAgICAgICAgICAgaWYgYXJtID09ICJjdXJpb3NpdHkiOgogICAgICAgICAgICAgICAgICAgICAgICAjIOWBj+WlvSLmnIDov5wv5pyA5bCR6K6/6ZeuIu+8muS7peiuv+mXruasoeaVsOWAkuaOkiArIOeJueW+geaWsOWlh+W6pgogICAgICAgICAgICAgICAgICAgICAgICBub3YgPSAxLjAgLyAoMS4wICsgdmlzaXRlZCkKICAgICAgICAgICAgICAgICAgICAgICAgZGlzdCA9IG5wLmFicyhYIC0gdykuc3VtKDEpCiAgICAgICAgICAgICAgICAgICAgICAgIHNjb3JlID0gbm92ICsgMC4zICogZGlzdCAvIChkaXN0Lm1heCgpICsgMWUtOSkKICAgICAgICAgICAgICAgICAgICAgICAgaSA9IGludChucC5hcmdtYXgoc2NvcmUpKQogICAgICAgICAgICAgICAgICAgIGVsaWYgYXJtID09ICJyYW5kb20iOgogICAgICAgICAgICAgICAgICAgICAgICBpID0gaW50KHJuZy5pbnRlZ2VycygwLCBuX25vZGVzKSkKICAgICAgICAgICAgICAgICAgICBlbHNlOiAgIyB1bmlmb3JtX25vcmVwZWF077ya6ZqP5py65L2G5LiN6YeN5aSNCiAgICAgICAgICAgICAgICAgICAgICAgIGNhbmQgPSBucC53aGVyZSh2aXNpdGVkID09IDApWzBdCiAgICAgICAgICAgICAgICAgICAgICAgIGkgPSBpbnQocm5nLmNob2ljZShjYW5kKSkgaWYgbGVuKGNhbmQpIGVsc2UgaW50KHJuZy5pbnRlZ2VycygwLCBuX25vZGVzKSkKICAgICAgICAgICAgICAgICAgICB2aXNpdGVkW2ldICs9IDEKICAgICAgICAgICAgICAgICAgICBwID0gZmxvYXQodyBAIFhbaV0pCiAgICAgICAgICAgICAgICAgICAgdyArPSBldGEgKiAoeVtpXSAtIHApICogWFtpXQogICAgICAgICAgICAgICAgZXJycy5hcHBlbmQoZmxvYXQobnAubWVhbigoWCBAIHcgLSB5KSAqKiAyKSkpCiAgICAgICAgICAgIHJvd3NbYXJtXSA9IHsibWVhbiI6IGZsb2F0KG5wLm1lYW4oZXJycykpLAogICAgICAgICAgICAgICAgICAgICAgICAgImxvIjogZmxvYXQobnAucGVyY2VudGlsZShlcnJzLCAyLjUpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICJoaSI6IGZsb2F0KG5wLnBlcmNlbnRpbGUoZXJycywgOTcuNSkpfQogICAgICAgIGQgPSBucC5hcnJheShbMF0pICAjIHBsYWNlaG9sZGVyCiAgICAgICAgb3V0W3N0cihCKV0gPSByb3dzCiAgICByZXR1cm4gb3V0CgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgUlsiVDEiXSA9IHJ1bl90MSgpCiAgICBSWyJUMiJdID0gcnVuX3QyKCkKICAgIFJbIlQzIl0gPSBydW5fdDMoKQogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHQxNTkuanNvbiIpLCAidyIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKFIsIGYsIGluZGVudD0yLCBlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICBwcmludCgiPT09IFQxIOWFqOWfn+WNoOS8mOajgOmqjCA9PT0iKQogICAgcHJpbnQoIuavj+S4quS4lueVjOeahOacgOS8mOetlueVpe+8miIpCiAgICBmb3IgdyBpbiBXT1JMRFM6CiAgICAgICAgYiA9IFJbIlQxIl1bImJlc3RfcGVyX3dvcmxkIl1bd10KICAgICAgICBtID0gbWluKFJbIlQxIl1bInBlcl93b3JsZCJdW3ddW3NdWyJtZWFuIl0gZm9yIHMgaW4gU1RSQVRTKQogICAgICAgIHByaW50KGYiICB7dzoxMXN9IGJlc3Q9e2J9ICBtaW5NQUU9e206LjRmfSIpCiAgICBwcmludCgi5ZCE562W55Wl6L+b5pyA5LyY55qE5qyh5pWwIC83OiIsIFJbIlQxIl1bImV2ZXJfYmVzdCJdKQogICAgcHJpbnQoIuWFqOWfn+WNoOS8mOetlueVpToiLCBSWyJUMSJdWyJkb21pbmF0b3IiXSBvciAi5pegIikKICAgIHByaW50KCLot6jkuJbnlYzlubPlnYcgTUFFOiIsIHtrOiByb3VuZCh2LCA0KSBmb3IgaywgdiBpbiBSWyJUMSJdWyJhdmdfb3Zlcl93b3JsZHMiXS5pdGVtcygpfSkKICAgIHByaW50KCkKICAgIHByaW50KCI9PT0gVDIg5ZGo5pyf5LiW55WM77ya5LiW55WM5qih5Z6L6IO95ZCm57+76L2s5pe26Ze06aG65bqP55qE56ym5Y+3ID09PSIpCiAgICBmb3IgaywgdiBpbiBSWyJUMiJdWyJhcm1zIl0uaXRlbXMoKToKICAgICAgICBwcmludChmIiAge2s6MThzfSB7dlsnbWVhbiddOi40Zn0gIENJW3t2WydsbyddOi40Zn0se3ZbJ2hpJ106LjRmfV0iKQogICAgcHJpbnQoIiAg5peg5qih5Z6LOiDpobrluo8t5peg6aG65bqPID0iLCByb3VuZChSWyJUMiJdWyJub19tb2RlbF9vcmRlcl9taW51c19ub29yZGVyIl1bIm1lYW4iXSwgNCksCiAgICAgICAgICBSWyJUMiJdWyJub19tb2RlbF9vcmRlcl9taW51c19ub29yZGVyIl1bImNpIl0pCiAgICBwcmludCgiICDmnInmqKHlnos6IOmhuuW6jy3ml6Dpobrluo8gPSIsIHJvdW5kKFJbIlQyIl1bIm1vZGVsX29yZGVyX21pbnVzX25vb3JkZXIiXVsibWVhbiJdLCA0KSwKICAgICAgICAgIFJbIlQyIl1bIm1vZGVsX29yZGVyX21pbnVzX25vb3JkZXIiXVsiY2kiXSkKICAgIHByaW50KCIgIOaXoOaooeWei+acgOS8mCAtIOacieaooeWeiyvov5HmnJ8gPSIsIHJvdW5kKFJbIlQyIl1bImJlc3Rfbm9tb2RlbF9taW51c19tb2RlbF9yZWNlbnQiXVsibWVhbiJdLCA0KSwKICAgICAgICAgIFJbIlQyIl1bImJlc3Rfbm9tb2RlbF9taW51c19tb2RlbF9yZWNlbnQiXVsiY2kiXSkKICAgIHByaW50KCkKICAgIHByaW50KCI9PT0gVDMg5peg57uT5p6E5Zyw5b2i77ya5aW95aWH5b+DIHZzIOmihOeulyA9PT0iKQogICAgZm9yIEIsIHJvd3MgaW4gUlsiVDMiXS5pdGVtcygpOgogICAgICAgIHByaW50KGYiICBidWRnZXQ9e0J9IikKICAgICAgICBmb3IgYSwgdiBpbiByb3dzLml0ZW1zKCk6CiAgICAgICAgICAgIHByaW50KGYiICAgIHthOjE4c30ge3ZbJ21lYW4nXTouNGZ9ICBDSVt7dlsnbG8nXTouNGZ9LHt2WydoaSddOi40Zn1dIikK
+#!/usr/bin/env python3
+# exp159 — 三条规律的可证伪性检验
+# 对方判词：三条都是"把定义当发现、把误用当规律"，不可证伪。
+# 本轮不辩，直接构造能翻掉它们的实验。
+#
+# T1 存在全域占优策略吗？   —— 若有，"没有更好策略"被证伪
+# T2 周期世界里给正确世界模型，时间顺序是否由负债转资产？ —— 若是，判词成立
+# T3 无结构地形上，好奇心在大预算下是否反超？ —— 若是，"好奇有害"是预算假象
+
+import numpy as np, json, os, itertools
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp159_falsify"
+os.makedirs(OUT, exist_ok=True)
+R = {}
+
+# ================= 世界生成器 =================
+def gen_world(kind, T, rng):
+    t = np.arange(T)
+    if kind == "monotone":
+        return 0.02 * t + rng.normal(0, 0.3, T)
+    if kind == "stationary":
+        return rng.normal(0, 1.0, T)
+    if kind == "sine":
+        return 3 * np.sin(2 * np.pi * t / 40) + rng.normal(0, 0.2, T)
+    if kind == "square":
+        return 3 * np.sign(np.sin(2 * np.pi * t / 40)) + rng.normal(0, 0.2, T)
+    if kind == "burst":
+        x = rng.normal(0, 0.3, T)
+        for s in range(0, T, 50):
+            x[s:s + 10] += rng.normal(3, 0.5)
+        return x
+    if kind == "rw":
+        return np.cumsum(rng.normal(0, 0.3, T))
+    if kind == "chaotic":
+        x = np.zeros(T); x[0] = 0.4
+        for i in range(1, T):
+            x[i] = 3.9 * x[i - 1] * (1 - x[i - 1])
+        return x + rng.normal(0, 0.05, T)
+    raise ValueError(kind)
+
+WORLDS = ["monotone", "stationary", "sine", "square", "burst", "rw", "chaotic"]
+
+# ================= 策略（全部在线、因果，只用过去） =================
+def strat_const_zero(h):  return 0.0
+def strat_last(h):        return h[-1] if len(h) else 0.0
+def strat_mean_all(h):    return float(np.mean(h)) if len(h) else 0.0
+def strat_mean_recent(h, k=8):
+    return float(np.mean(h[-k:])) if len(h) else 0.0
+def strat_trend(h, k=8):
+    # 线性外推：用最近 k 点的顺序信息
+    if len(h) < 3: return float(h[-1]) if len(h) else 0.0
+    y = np.asarray(h[-k:]); x = np.arange(len(y))
+    A = np.vstack([x, np.ones(len(x))]).T
+    a, b = np.linalg.lstsq(A, y, rcond=None)[0]
+    return float(a * len(y) + b)
+def strat_sgd(h, k=8, eta=0.05):
+    # 在线 SGD，顺序敏感（逐点更新）
+    w, b = 0.0, 0.0
+    for i in range(1, len(h)):
+        p = w * h[i - 1] + b
+        e = h[i] - p
+        w += eta * e * h[i - 1]
+        b += eta * e
+    return float(w * h[-1] + b) if len(h) else 0.0
+def strat_phase(h, P=40, recency=None):
+    # 相位条件均值：需要"世界模型"（知道周期 P）
+    if len(h) < 2: return float(h[-1]) if len(h) else 0.0
+    idx = np.arange(len(h))
+    ph = (idx % P)
+    cur = (len(h)) % P
+    m = (ph == cur)
+    if recency is not None:
+        m = m & (idx >= len(h) - recency * P)
+    return float(np.mean(np.asarray(h)[m])) if m.any() else float(np.mean(h))
+
+STRATS = {
+    "const_zero": strat_const_zero,
+    "last":       strat_last,
+    "mean_all":   strat_mean_all,
+    "mean_recent8": strat_mean_recent,
+    "trend":      strat_trend,
+    "sgd":        strat_sgd,
+    "phase_uniform": lambda h: strat_phase(h, recency=None),
+    "phase_recent2": lambda h: strat_phase(h, recency=2),
+}
+
+# ================= T1：全域占优检验 =================
+def run_t1(T=600, nseeds=8):
+    res = {w: {s: [] for s in STRATS} for w in WORLDS}
+    for seed in range(nseeds):
+        rng = np.random.default_rng(1000 + seed)
+        for w in WORLDS:
+            x = gen_world(w, T, rng)
+            burn = int(T * 0.4)
+            for name, f in STRATS.items():
+                errs = []
+                for i in range(burn, T):
+                    h = x[:i]
+                    p = f(h)
+                    if not np.isfinite(p): p = 0.0
+                    errs.append(abs(x[i] - p))
+                res[w][name].append(float(np.mean(errs)))
+    out = {w: {s: {"mean": float(np.mean(v)),
+                   "lo": float(np.percentile(v, 2.5)),
+                   "hi": float(np.percentile(v, 97.5))}
+               for s, v in d.items()} for w, d in res.items()}
+    # 占优判定
+    best_per_world = {}
+    for w in WORLDS:
+        m = min(out[w][s]["mean"] for s in STRATS)
+        best_per_world[w] = sorted([s for s in STRATS
+                                    if out[w][s]["mean"] <= m * 1.02])
+    # 有没有一个策略在所有世界里都进 best
+    ever_best = {s: sum(1 for w in WORLDS if s in best_per_world[w]) for s in STRATS}
+    dominator = [s for s in STRATS if ever_best[s] == len(WORLDS)]
+    # NFL 检验：跨世界平均后，策略间差异大小
+    avg = {s: float(np.mean([out[w][s]["mean"] for w in WORLDS])) for s in STRATS}
+    return {"per_world": out, "best_per_world": best_per_world,
+            "ever_best": ever_best, "dominator": dominator,
+            "avg_over_worlds": avg}
+
+# ================= T2：周期世界里"时间顺序"的符号能否被世界模型翻转 =================
+def run_t2(T=1200, nseeds=8, P=40):
+    # 周期 + 缓慢漂移的振幅，使"相位 + 近期"可能优于"相位 + 全部"
+    def gen(rng):
+        t = np.arange(T)
+        amp = 3.0 + 0.5 * np.sin(2 * np.pi * t / (T / 1.5))  # 慢变振幅
+        return amp * np.sin(2 * np.pi * t / P) + rng.normal(0, 0.2, T)
+    arms = {
+        "no_model_recent": lambda h: strat_mean_recent(h, 8),      # 用顺序，无世界模型
+        "no_model_all":    strat_mean_all,                          # 不用顺序，无世界模型
+        "model_uniform":   lambda h: strat_phase(h, P=P, recency=None),  # 有模型，不用近期
+        "model_recent":    lambda h: strat_phase(h, P=P, recency=2),     # 有模型 + 近期
+    }
+    acc = {k: [] for k in arms}
+    for seed in range(nseeds):
+        rng = np.random.default_rng(2000 + seed)
+        x = gen(rng)
+        burn = int(T * 0.5)
+        for name, f in arms.items():
+            errs = [abs(x[i] - f(x[:i])) for i in range(burn, T)]
+            acc[name].append(float(np.mean(errs)))
+    summ = {k: {"mean": float(np.mean(v)),
+                "lo": float(np.percentile(v, 2.5)),
+                "hi": float(np.percentile(v, 97.5))} for k, v in acc.items()}
+    # 关键对比：无模型时 顺序-无顺序（正=顺序是负债）
+    d_nomodel = np.array(acc["no_model_recent"]) - np.array(acc["no_model_all"])
+    # 有模型时 顺序-无顺序
+    d_model = np.array(acc["model_recent"]) - np.array(acc["model_uniform"])
+    # 有模型 vs 无模型最好者
+    best_nomodel = np.minimum(np.array(acc["no_model_recent"]), np.array(acc["no_model_all"]))
+    d_modelgain = best_nomodel - np.array(acc["model_recent"])
+    def ci(a):
+        return [float(np.percentile(a, 2.5)), float(np.percentile(a, 97.5))]
+    return {"arms": summ,
+            "no_model_order_minus_noorder": {"mean": float(d_nomodel.mean()), "ci": ci(d_nomodel)},
+            "model_order_minus_noorder":    {"mean": float(d_model.mean()), "ci": ci(d_model)},
+            "best_nomodel_minus_model_recent": {"mean": float(d_modelgain.mean()), "ci": ci(d_modelgain)}}
+
+# ================= T3：好奇心在无结构地形上，是"有害"还是"预算不足" =================
+def run_t3(budgets=(50, 200, 800, 3200), nseeds=10, n_nodes=60, n_feat=6):
+    out = {}
+    for B in budgets:
+        rows = {}
+        for arm in ["curiosity", "random", "uniform_norepeat"]:
+            errs = []
+            for seed in range(nseeds):
+                rng = np.random.default_rng(3000 + seed)
+                X = rng.normal(0, 1, (n_nodes, n_feat))       # 无结构：目标与特征无关
+                y = rng.normal(0, 1, n_nodes)
+                visited = np.zeros(n_nodes, dtype=int)
+                w = np.zeros(n_feat)
+                eta = 0.05
+                for step in range(B):
+                    if arm == "curiosity":
+                        # 偏好"最远/最少访问"：以访问次数倒排 + 特征新奇度
+                        nov = 1.0 / (1.0 + visited)
+                        dist = np.abs(X - w).sum(1)
+                        score = nov + 0.3 * dist / (dist.max() + 1e-9)
+                        i = int(np.argmax(score))
+                    elif arm == "random":
+                        i = int(rng.integers(0, n_nodes))
+                    else:  # uniform_norepeat：随机但不重复
+                        cand = np.where(visited == 0)[0]
+                        i = int(rng.choice(cand)) if len(cand) else int(rng.integers(0, n_nodes))
+                    visited[i] += 1
+                    p = float(w @ X[i])
+                    w += eta * (y[i] - p) * X[i]
+                errs.append(float(np.mean((X @ w - y) ** 2)))
+            rows[arm] = {"mean": float(np.mean(errs)),
+                         "lo": float(np.percentile(errs, 2.5)),
+                         "hi": float(np.percentile(errs, 97.5))}
+        d = np.array([0])  # placeholder
+        out[str(B)] = rows
+    return out
+
+if __name__ == "__main__":
+    R["T1"] = run_t1()
+    R["T2"] = run_t2()
+    R["T3"] = run_t3()
+    with open(os.path.join(OUT, "result159.json"), "w") as f:
+        json.dump(R, f, indent=2, ensure_ascii=False)
+    print("=== T1 全域占优检验 ===")
+    print("每个世界的最优策略：")
+    for w in WORLDS:
+        b = R["T1"]["best_per_world"][w]
+        m = min(R["T1"]["per_world"][w][s]["mean"] for s in STRATS)
+        print(f"  {w:11s} best={b}  minMAE={m:.4f}")
+    print("各策略进最优的次数 /7:", R["T1"]["ever_best"])
+    print("全域占优策略:", R["T1"]["dominator"] or "无")
+    print("跨世界平均 MAE:", {k: round(v, 4) for k, v in R["T1"]["avg_over_worlds"].items()})
+    print()
+    print("=== T2 周期世界：世界模型能否翻转时间顺序的符号 ===")
+    for k, v in R["T2"]["arms"].items():
+        print(f"  {k:18s} {v['mean']:.4f}  CI[{v['lo']:.4f},{v['hi']:.4f}]")
+    print("  无模型: 顺序-无顺序 =", round(R["T2"]["no_model_order_minus_noorder"]["mean"], 4),
+          R["T2"]["no_model_order_minus_noorder"]["ci"])
+    print("  有模型: 顺序-无顺序 =", round(R["T2"]["model_order_minus_noorder"]["mean"], 4),
+          R["T2"]["model_order_minus_noorder"]["ci"])
+    print("  无模型最优 - 有模型+近期 =", round(R["T2"]["best_nomodel_minus_model_recent"]["mean"], 4),
+          R["T2"]["best_nomodel_minus_model_recent"]["ci"])
+    print()
+    print("=== T3 无结构地形：好奇心 vs 预算 ===")
+    for B, rows in R["T3"].items():
+        print(f"  budget={B}")
+        for a, v in rows.items():
+            print(f"    {a:18s} {v['mean']:.4f}  CI[{v['lo']:.4f},{v['hi']:.4f}]")

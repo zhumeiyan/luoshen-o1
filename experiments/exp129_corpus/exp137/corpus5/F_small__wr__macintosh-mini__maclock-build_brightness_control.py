@@ -1,1 +1,499 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIFNQRFgtRmlsZUNvcHlyaWdodFRleHQ6IDIwMjYgV2VsbHMgUmlsZXkKIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogR1BMLTMuMC1vci1sYXRlcgoKIyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyBicmlnaHRuZXNzX2NvbnRyb2wucHkKIwojIFJvdGFyeSBlbmNvZGVyIGJyaWdodG5lc3MgY29udHJvbCBmb3IgV2F2ZXNoYXJlIDIuOCIgRFBJIExDRC4KIyBFbmNvZGVyIENMSyBvbiBHUElPIDExLCBEVCBvbiBHUElPIDEwLgojIENvbnRyb2xzIGJhY2tsaWdodCB2aWEgdGhlIGtlcm5lbCBwd20tZ3BpbyBkcml2ZXIgb24gR1BJTyAxOC4KIwojIE1hcmNoIDI2LCAyMDI2IC0gaHR0cHM6Ly9naXRodWIuY29tL3dyL21hY2ludG9zaC1taW5pL2Jsb2IvbWFpbi9CVUlMRC5tZAojICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKaW1wb3J0IG1hdGgKaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgc2lnbmFsCmltcG9ydCBzeXMKaW1wb3J0IHRpbWUKaW1wb3J0IHRyYWNlYmFjawpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBuYW1lZHR1cGxlCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lIGFzIGR0aW1lLCB0aW1lZGVsdGEsIHRpbWV6b25lCgp0cnk6CiAgICBpbXBvcnQgbGdwaW8KZXhjZXB0IEltcG9ydEVycm9yOgogICAgcHJpbnQoImxncGlvIG5vdCBmb3VuZC4gSW5zdGFsbDogc3VkbyBhcHQtZ2V0IGluc3RhbGwgcHl0aG9uMy1sZ3BpbyIpCiAgICBzeXMuZXhpdCgxKQoKIyAtLS0gQ29uZmlnIC0tLQpDTEtfUElOID0gMTEKRFRfUElOID0gMTAKUFdNX1BFUklPRF9OUyA9IDFfMDAwXzAwMCAgIyAxIGtIegoKIyBHYW1tYSBjb21wcmVzc2VzIHRoZSBkYXJrIGVuZCBoYXJkOiBhIHBsYWluIG1hcHBpbmcgYXNrcyBmb3IgYSAzOSBucyBwdWxzZQojIGF0IGxldmVsIDEuIFRoZSBkcml2ZXIgYWNjZXB0cyB0aGF0LCBidXQgbm90aGluZyBjYW4gaG9sZCBhIHB1bHNlIHNvIHNob3J0CiMgcmVwZWF0YWJseSwgc28gdGhlIGJvdHRvbSBvZiB0aGUgZGlhbCBpcyBmbG9vcmVkIHRvIHNvbWV0aGluZyBhIHRpbWVyIGNhbgojIGFjdHVhbGx5IHByb2R1Y2UuIExldmVsIDAgc3RpbGwgZ29lcyBmdWxseSBkYXJrLgpNSU5fUFVMU0VfTlMgPSAyMF8wMDAKCiMgU2FtcGxpbmcgdGhlIHBpbnMgYmVhdHMgcmVhY3RpbmcgdG8gZXZlcnkgZWRnZS4gVGhlIGVuY29kZXIgYm91bmNlcyBoYXJkIOKAlAojIG9uZSB0dXJuIHRocm93cyBodW5kcmVkcyBvZiB0cmFuc2l0aW9ucyDigJQgYW5kIGEgMSBtcyBzYW1wbGUgc3RlcHMgb3ZlciB0aGUKIyBjaGF0dGVyLiBEZWNvZGluZyBldmVyeSBlZGdlIGluc3RlYWQsIGFzIHRoZSBrZXJuZWwgcm90YXJ5LWVuY29kZXIgZHJpdmVyCiMgZG9lcywgZ2V0cyB0aGUgZGlyZWN0aW9uIHdyb25nIG9uIGFib3V0IG9uZSB0dXJuIGluIGZpdmUuClBPTExfUyA9IDAuMDAxCgojIFRoZSBkaWFsIGdldHMgZmxpY2tlZCB0aHJvdWdoIGFuIGFyYyByYXRoZXIgdGhhbiBjbGlja2VkIGRldGVudCBieSBkZXRlbnQsCiMgc28gYnJpZ2h0bmVzcyBmb2xsb3dzIGhvdyBmYXIgaXQgdHVybmVkLiBERUFEQkFORCBkcm9wcyB0aGUgb2RkIHN0cmF5IGNvdW50OwojIHJldmVyc2luZyBuZWVkcyBhIGxvbmdlciBydW4gdGhhbiBjb250aW51aW5nLCBzbyBhIGZsaWNrIGhvbGRzIHRoZSBkaXJlY3Rpb24KIyBpdCBzdGFydGVkIGluLgpMRVZFTF9QRVJfQ09VTlQgPSA0CkRJQUxfRElSRUNUSU9OID0gLTEgICAgIyBjbG9ja3dpc2UgYnJpZ2h0ZW5zLCBhcyBvbiBhIGNvbXBhY3QgTWFjCkRFQURCQU5EID0gMQpSRVZFUlNFX0RFQURCQU5EID0gNApJRExFX1JFU0VUX1MgPSAwLjQKCiMgRWFzZSBpbnRvIGEgbmV3IGxldmVsIG92ZXIgYSBmZXcgbWlsbGlzZWNvbmRzLiBBIGZsaWNrIG9ubHkgbGFuZHMgOCB0byAxMAojIGNvdW50cywgc28gd2l0aG91dCB0aGlzIHRoZSBiYWNrbGlnaHQgYXJyaXZlcyBpbiB2aXNpYmxlIHN0ZXBzLgpSQU1QX1BFUl9USUNLID0gMS4wCgojIFBlcmNlaXZlZCBicmlnaHRuZXNzIGlzIHJvdWdobHkgdGhlIHNxdWFyZSBvZiB0aGUgZHV0eSBjeWNsZSwgc28gbWFwIHRoZQojIGRpYWwgdGhyb3VnaCBhIGN1cnZlLiBXaXRob3V0IGl0IG1vc3Qgb2YgdGhlIGFyYyBpcyBzcGVudCB1cCBhdCB0aGUgYnJpZ2h0CiMgZW5kLCB3aGVyZSB0aGUgZXllIGNhbiBiYXJlbHkgdGVsbCB0aGUgZGlmZmVyZW5jZS4KR0FNTUEgPSAyLjIKClBXTV9TWVNGUyA9ICIvc3lzL2NsYXNzL3B3bSIKUFdNX0RFVklDRSA9ICJwd21fZ3Bpb0AxMiIgICMgZHRvdmVybGF5PXB3bS1ncGlvLGdwaW89MTgg4oCUIDB4MTIgaXMgR1BJTyAxOAoKIyBHcmF5IGNvZGUgdHJhbnNpdGlvbnMsIGluZGV4ZWQgYnkgdGhlIHByZXZpb3VzIHN0YXRlIGFuZCB0aGUgY3VycmVudCBvbmUKVFJBTlNJVElPTiA9IFsKICAgICAwLCAtMSwgIDEsICAwLAogICAgIDEsICAwLCAgMCwgLTEsCiAgICAtMSwgIDAsICAwLCAgMSwKICAgICAwLCAgMSwgLTEsICAwLApdCgpsZXZlbCA9IDEwMCAgICAjIGRpYWwgcG9zaXRpb24sIDAtMTAwCmggPSBOb25lCnB3bV9kaXIgPSBOb25lCmZhaWxlZCA9IEZhbHNlCmNsZWFuaW5nID0gRmFsc2UKCgojIC0tLSBOaWdodCBkaW1taW5nIC0tLQojIE9mZiB1bmxlc3MgL2V0Yy9kZWZhdWx0L2JyaWdodG5lc3MtY29udHJvbCB0dXJucyBpdCBvbjsgdGhlIHN5c3RlbWQgdW5pdAojIGhhbmRzIHRoYXQgZmlsZSBvdmVyIGFzIGVudmlyb25tZW50IHZhcmlhYmxlczoKIyAgIE5JR0hUX0RJTT0xICAgICAgICAgICAgIGVuYWJsZQojICAgTEFUPTQwLjcxIExPTj0tNzQuMDEgICAgb3B0aW9uYWwuIExlZnQgYmxhbmssIHRoZSBsb2NhdGlvbiBpcyB0aGUgc3lzdGVtCiMgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lem9uZSdzIHJlZmVyZW5jZSBjaXR5IGZyb20gdHpkYXRhLCB3aGljaCBwdXRzCiMgICAgICAgICAgICAgICAgICAgICAgICAgICBzdW5yaXNlIHdpdGhpbiBhIGZldyBtaW51dGVzIGZvciBtb3N0IHBlb3BsZQojICAgTklHSFRfRkFDVE9SPTAuNSAgICAgICAgc3Vuc2V0IHRvIHN1bnJpc2UsIHRoZSBkaWFsIGxldmVsIGlzIHNjYWxlZCBieSB0aGlzCiMgICBOSUdIVF9PRkZfQVQ9MjI6MDAgICAgICBmcm9tIGhlcmUgdGhlIGJhY2tsaWdodCBnb2VzIGZ1bGx5IGRhcmssIHVudGlsIGFuCiMgICAgICAgICAgICAgICAgICAgICAgICAgICBob3VyIGJlZm9yZSBzdW5yaXNlLiBMZWF2ZSBibGFuayB0byBvbmx5IGV2ZXIgZGltLgojIFR1cm5pbmcgdGhlIGRpYWwgYXQgbmlnaHQgd2FrZXMgdGhlIHNjcmVlbiB1bnRpbCB0aGUgbmV4dCBzdW5zZXQuCk5JR0hUX0ZBREVfUyA9IDMwICAgICAgIyBzY2hlZHVsZWQgY2hhbmdlcyBlYXNlIGluIG92ZXIgdGhpcyBsb25nCldBS0VfQkVGT1JFX1NVTlJJU0UgPSB0aW1lZGVsdGEoaG91cnM9MSkgICAjIGRhcmsgZW5kcyB0aGlzIGxvbmcgYmVmb3JlIGRhd24KTklHSFRfQ0hFQ0tfUyA9IDEuMCAgICAjIGhvdyBvZnRlbiB0aGUgc2NoZWR1bGUgaXMgY29uc3VsdGVkCkJPT1RfR1JBQ0VfUyA9IDYwMCAgICAgIyBhZnRlciBhIChyZSlib290IHBhc3QgdGhlIGN1dG9mZiwgZGltIGluc3RlYWQgb2YgZGFyawoKIyBUaGUgWmVybyBoYXMgbm8gY2xvY2sgYmF0dGVyeSwgc28gdW50aWwgTlRQIGFuc3dlcnMgdGhlIHRpbWUgaXMgd2hhdGV2ZXIKIyBmYWtlLWh3Y2xvY2sgc2F2ZWQgYXQgdGhlIGxhc3Qgc2h1dGRvd24uIERpbW1pbmcgb24gdGhhdCB3b3VsZCBiZSBhIGd1ZXNzLAojIHNvIHRoZSBzY2hlZHVsZSB3YWl0cyBmb3IgdGltZXN5bmNkIHRvIHJhaXNlIHRoaXMgZmxhZy4KQ0xPQ0tfU1lOQ0VEX0ZMQUcgPSAiL3J1bi9zeXN0ZW1kL3RpbWVzeW5jL3N5bmNocm9uaXplZCIKCkoyMDAwID0gZGF0ZXRpbWUoMjAwMCwgMSwgMSwgMTIsIHR6aW5mbz10aW1lem9uZS51dGMpCgpaT05FX1RBQlMgPSAoIi91c3Ivc2hhcmUvem9uZWluZm8vem9uZTE5NzAudGFiIiwgIi91c3Ivc2hhcmUvem9uZWluZm8vem9uZS50YWIiKQoKTmlnaHRDb25maWcgPSBuYW1lZHR1cGxlKCJOaWdodENvbmZpZyIsICJsYXQgbG9uIGZhY3RvciBvZmZfYXQiKQoKCmRlZiB3cml0ZShwYXRoLCB2YWx1ZSk6CiAgICB3aXRoIG9wZW4ocGF0aCwgInciKSBhcyBmOgogICAgICAgIGYud3JpdGUoc3RyKHZhbHVlKSkKCgpkZWYgcmVhZF96b25lX3RhYihwYXRocz1aT05FX1RBQlMpOgogICAgIiIiRXZlcnkgem9uZSB0YWJsZSB0emRhdGEgc2hpcHMsIGpvaW5lZC4gem9uZTE5NzAudGFiIGFsb25lIGlzIG5vdAogICAgZW5vdWdoOiBzaW5jZSAyMDIyIGl0IGZvbGRzIE9zbG8sIFN0b2NraG9sbSwgQW1zdGVyZGFtIGFuZCBhIGh1bmRyZWQKICAgIG90aGVycyBpbnRvIG9uZSByZXByZXNlbnRhdGl2ZSB6b25lLCBhbmQgb25seSB6b25lLnRhYiBzdGlsbCBsaXN0cwogICAgdGhlbS4iIiIKICAgIHRhYnMgPSBbXQogICAgZm9yIHBhdGggaW4gcGF0aHM6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB3aXRoIG9wZW4ocGF0aCkgYXMgZjoKICAgICAgICAgICAgICAgIHRhYnMuYXBwZW5kKGYucmVhZCgpKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICBjb250aW51ZQogICAgcmV0dXJuICJcbiIuam9pbih0YWJzKSBpZiB0YWJzIGVsc2UgTm9uZQoKCmRlZiB6b25lX2Nvb3Jkcyh6b25lLCB0YWIpOgogICAgIiIiTGF0aXR1ZGUgYW5kIGxvbmdpdHVkZSBvZiBhIHRpbWV6b25lJ3MgcmVmZXJlbmNlIGNpdHksIGZyb20gdHpkYXRhJ3MKICAgIHpvbmUxOTcwLnRhYiwgb3IgTm9uZSBpZiB0aGUgem9uZSBpcyBub3QgbGlzdGVkIChFdGMvVVRDLCBmb3Igb25lKS4iIiIKICAgIGlmIG5vdCB6b25lIG9yIG5vdCB0YWI6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGZvciBsaW5lIGluIHRhYi5zcGxpdGxpbmVzKCk6CiAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCIjIik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgY29scyA9IGxpbmUuc3BsaXQoIlx0IikKICAgICAgICBpZiBsZW4oY29scykgPj0gMyBhbmQgY29sc1syXSA9PSB6b25lOgogICAgICAgICAgICByZXR1cm4gX2lzbzY3MDkoY29sc1sxXSkKICAgIHJldHVybiBOb25lCgoKZGVmIF9pc282NzA5KHRleHQpOgogICAgIiIiRGVjb2RlICtERE1NK0RERE1NIG9yICtERE1NU1MrRERETU1TUyBpbnRvIGRlY2ltYWwgZGVncmVlcy4iIiIKICAgIG0gPSByZS5mdWxsbWF0Y2gociIoWystXSkoXGR7Mn0pKFxkezJ9KShcZHsyfSk/KFsrLV0pKFxkezN9KShcZHsyfSkoXGR7Mn0pPyIsIHRleHQpCiAgICBpZiBub3QgbToKICAgICAgICByZXR1cm4gTm9uZQoKICAgIGRlZiBkZWNvZGUoc2lnbiwgZCwgbWksIHNlYyk6CiAgICAgICAgdmFsdWUgPSBpbnQoZCkgKyBpbnQobWkpIC8gNjAgKyAoaW50KHNlYykgaWYgc2VjIGVsc2UgMCkgLyAzNjAwCiAgICAgICAgcmV0dXJuIC12YWx1ZSBpZiBzaWduID09ICItIiBlbHNlIHZhbHVlCgogICAgcmV0dXJuIChkZWNvZGUobVsxXSwgbVsyXSwgbVszXSwgbVs0XSksIGRlY29kZShtWzVdLCBtWzZdLCBtWzddLCBtWzhdKSkKCgpkZWYgc3lzdGVtX3RpbWV6b25lKCk6CiAgICAjIFRoZSBzeW1saW5rIGlzIHdoYXQgbGliYyBhbmQgdGltZWRhdGVjdGwgYWdyZWUgb247IC9ldGMvdGltZXpvbmUgaXMgYQogICAgIyBEZWJpYW4gZXh0cmEgdGhhdCBjYW4gbGFnIGJlaGluZCBpdC4KICAgIHRhcmdldCA9IG9zLnBhdGgucmVhbHBhdGgoIi9ldGMvbG9jYWx0aW1lIikKICAgIGlmICIvem9uZWluZm8vIiBpbiB0YXJnZXQ6CiAgICAgICAgcmV0dXJuIHRhcmdldC5zcGxpdCgiL3pvbmVpbmZvLyIsIDEpWzFdCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKCIvZXRjL3RpbWV6b25lIikgYXMgZjoKICAgICAgICAgICAgcmV0dXJuIGYucmVhZCgpLnN0cmlwKCkgb3IgTm9uZQogICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgcmV0dXJuIE5vbmUKCgpkZWYgbG9hZF9uaWdodF9jb25maWcoZW52LCB6b25lPU5vbmUsIHpvbmVfdGFiPU5vbmUpOgogICAgIiIiUmVhZCB0aGUgbmlnaHQgc2NoZWR1bGUgZnJvbSB0aGUgZW52aXJvbm1lbnQsIG9yIE5vbmUgd2hlbiBpdCBpcyBvZmYuIiIiCiAgICBpZiBlbnYuZ2V0KCJOSUdIVF9ESU0iLCAiMCIpLnN0cmlwKCkubG93ZXIoKSBub3QgaW4gKCIxIiwgInRydWUiLCAieWVzIik6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHRyeToKICAgICAgICByZXR1cm4gX3BhcnNlX25pZ2h0X2NvbmZpZyhlbnYsIHpvbmUsIHpvbmVfdGFiKQogICAgZXhjZXB0IFZhbHVlRXJyb3IgYXMgZToKICAgICAgICAjIEEgdHlwbyBoZXJlIG11c3Qgbm90IHRha2UgdGhlIGRpYWwgZG93biBpbiBhIHJlc3RhcnQgbG9vcAogICAgICAgIHByaW50KGYiQmFkIHZhbHVlIGluIG5pZ2h0IGNvbmZpZyAoe2V9KTsgbmlnaHQgZGltbWluZyBvZmYiLCBmbHVzaD1UcnVlKQogICAgICAgIHJldHVybiBOb25lCgoKZGVmIF9wYXJzZV9uaWdodF9jb25maWcoZW52LCB6b25lLCB6b25lX3RhYik6CiAgICBpZiBlbnYuZ2V0KCJMQVQiLCAiIikuc3RyaXAoKSBhbmQgZW52LmdldCgiTE9OIiwgIiIpLnN0cmlwKCk6CiAgICAgICAgbGF0LCBsb24gPSBmbG9hdChlbnZbIkxBVCJdKSwgZmxvYXQoZW52WyJMT04iXSkKICAgIGVsc2U6CiAgICAgICAgem9uZSA9IHpvbmUgb3Igc3lzdGVtX3RpbWV6b25lKCkKICAgICAgICBjb29yZHMgPSB6b25lX2Nvb3Jkcyh6b25lLCB6b25lX3RhYiBpZiB6b25lX3RhYiBpcyBub3QgTm9uZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgcmVhZF96b25lX3RhYigpKQogICAgICAgIGlmIGNvb3JkcyBpcyBOb25lOgogICAgICAgICAgICBwcmludChmIk5vIGxvY2F0aW9uIGZvciB0aW1lem9uZSB7em9uZSFyfSBhbmQgTEFUL0xPTiB1bnNldDsgIgogICAgICAgICAgICAgICAgICAibmlnaHQgZGltbWluZyBvZmYuIFNldCB0aGUgdGltZXpvbmU6ICIKICAgICAgICAgICAgICAgICAgInN1ZG8gdGltZWRhdGVjdGwgc2V0LXRpbWV6b25lIDxBcmVhL0NpdHk+IiwgZmx1c2g9VHJ1ZSkKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICBsYXQsIGxvbiA9IGNvb3JkcwogICAgZmFjdG9yID0gZmxvYXQoZW52LmdldCgiTklHSFRfRkFDVE9SIiwgIjAuNSIpKQogICAgb2ZmID0gZW52LmdldCgiTklHSFRfT0ZGX0FUIiwgIjIyOjAwIikuc3RyaXAoKQogICAgb2ZmX2F0ID0gZHRpbWUuZnJvbWlzb2Zvcm1hdChvZmYpIGlmIG9mZiBlbHNlIE5vbmUKICAgIHJldHVybiBOaWdodENvbmZpZyhsYXQsIGxvbiwgZmFjdG9yLCBvZmZfYXQpCgoKZGVmIF9zdW5fZ2VvbWV0cnkobGF0LCBsb24sIGRheSk6CiAgICAiIiJTb2xhciB0cmFuc2l0IG9uIGBkYXlgIGluIGRheXMgc2luY2UgSjIwMDAsIGFuZCB0aGUgY29zaW5lIG9mIHRoZQogICAgc3VucmlzZSBob3VyIGFuZ2xlOiBvdXRzaWRlIFstMSwgMV0gdGhlIHN1biBuZXZlciBjcm9zc2VzIHRoZSBob3Jpem9uLgoKICAgIFRoaXMgaXMgdGhlIHN1bnJpc2UgZXF1YXRpb24gd2l0aCBOT0FBJ3MgY29ycmVjdGlvbnM6IGdvb2QgdG8gYSBjb3VwbGUKICAgIG9mIG1pbnV0ZXMsIHdoaWNoIGlzIHBsZW50eSBmb3IgYSBiYWNrbGlnaHQuCiAgICAiIiIKICAgIHNpbiwgY29zLCByYWQgPSBtYXRoLnNpbiwgbWF0aC5jb3MsIG1hdGgucmFkaWFucwogICAgIyBEYXlzIHNpbmNlIEoyMDAwLCBzaGlmdGVkIHNvIHRoZSBudW1iZXJzIGJlbG93IHJlZmVyIHRvIGxvY2FsIHNvbGFyIG5vb24KICAgIG4gPSAoZGF5IC0gSjIwMDAuZGF0ZSgpKS5kYXlzIC0gbG9uIC8gMzYwCiAgICBtZWFuX2Fub21hbHkgPSAoMzU3LjUyOTEgKyAwLjk4NTYwMDI4ICogbikgJSAzNjAKICAgIGNlbnRyZSA9ICgxLjkxNDggKiBzaW4ocmFkKG1lYW5fYW5vbWFseSkpCiAgICAgICAgICAgICAgKyAwLjAyMDAgKiBzaW4ocmFkKDIgKiBtZWFuX2Fub21hbHkpKQogICAgICAgICAgICAgICsgMC4wMDAzICogc2luKHJhZCgzICogbWVhbl9hbm9tYWx5KSkpCiAgICBlY2xpcHRpY19sb24gPSAobWVhbl9hbm9tYWx5ICsgY2VudHJlICsgMTgwICsgMTAyLjkzNzIpICUgMzYwCiAgICB0cmFuc2l0ID0gKG4gKyAwLjAwNTMgKiBzaW4ocmFkKG1lYW5fYW5vbWFseSkpCiAgICAgICAgICAgICAgIC0gMC4wMDY5ICogc2luKHJhZCgyICogZWNsaXB0aWNfbG9uKSkpCiAgICBkZWNsaW5hdGlvbiA9IG1hdGguYXNpbihzaW4ocmFkKGVjbGlwdGljX2xvbikpICogc2luKHJhZCgyMy40Mzk3KSkpCiAgICAjIC0wLjgzMyBkZWdyZWVzOiB0aGUgc3VuJ3MgdXBwZXIgbGltYiBhdCB0aGUgaG9yaXpvbiwgdGhyb3VnaCByZWZyYWN0aW9uCiAgICBjb3NfaG91ciA9ICgoc2luKHJhZCgtMC44MzMpKSAtIHNpbihyYWQobGF0KSkgKiBzaW4oZGVjbGluYXRpb24pKQogICAgICAgICAgICAgICAgLyAoY29zKHJhZChsYXQpKSAqIGNvcyhkZWNsaW5hdGlvbikpKQogICAgcmV0dXJuIHRyYW5zaXQsIGNvc19ob3VyCgoKZGVmIHN1bl90aW1lcyhsYXQsIGxvbiwgZGF5KToKICAgICIiIlN1bnJpc2UgYW5kIHN1bnNldCBvbiBgZGF5YCBhcyBhd2FyZSBVVEMgZGF0ZXRpbWVzLCBvciBOb25lIHdoZXJlCiAgICB0aGUgc3VuIG5ldmVyIHJpc2VzIG9yIG5ldmVyIHNldHMgdGhhdCBkYXkuIiIiCiAgICB0cmFuc2l0LCBjb3NfaG91ciA9IF9zdW5fZ2VvbWV0cnkobGF0LCBsb24sIGRheSkKICAgIGlmIG5vdCAtMSA8PSBjb3NfaG91ciA8PSAxOgogICAgICAgIHJldHVybiBOb25lCiAgICBoYWxmX2RheSA9IG1hdGguZGVncmVlcyhtYXRoLmFjb3MoY29zX2hvdXIpKSAvIDM2MAogICAgcmV0dXJuIChKMjAwMCArIHRpbWVkZWx0YShkYXlzPXRyYW5zaXQgLSBoYWxmX2RheSksCiAgICAgICAgICAgIEoyMDAwICsgdGltZWRlbHRhKGRheXM9dHJhbnNpdCArIGhhbGZfZGF5KSkKCgpkZWYgbWlkbmlnaHRfc3VuKGxhdCwgbG9uLCBkYXkpOgogICAgIiIiVHJ1ZSB3aGVuIHRoZSBzdW4gc3RheXMgYWJvdmUgdGhlIGhvcml6b24gYWxsIG9mIGBkYXlgLiIiIgogICAgcmV0dXJuIF9zdW5fZ2VvbWV0cnkobGF0LCBsb24sIGRheSlbMV0gPCAtMQoKCmRlZiBuaWdodF9mYWN0b3Iobm93LCBjZmcsIHN1bl90aW1lcz1zdW5fdGltZXMpOgogICAgIiIiU2NhbGUgZm9yIHRoZSBkaWFsIGxldmVsIGF0IGBub3dgIChhbiBhd2FyZSBsb2NhbCBkYXRldGltZSkuCgogICAgMS4wIGJ5IGRheSwgY2ZnLmZhY3RvciBhZnRlciBzdW5zZXQsIDAuMCBmcm9tIGNmZy5vZmZfYXQgdW50aWwgYW4gaG91cgogICAgYmVmb3JlIHN1bnJpc2UsIHRoZW4gY2ZnLmZhY3RvciBhZ2FpbiB1bnRpbCB0aGUgc3VuIGlzIHVwLgogICAgIiIiCiAgICAjIFdvcmsgZnJvbSB0aGUgbW9zdCByZWNlbnQgc3VucmlzZSBhbmQgc3Vuc2V0IGluc3RhbnRzIHJhdGhlciB0aGFuCiAgICAjICJ0b2RheSdzIjogd2hlcmUgdGhlIGNsb2NrIHJ1bnMgZmFyIGZyb20gc29sYXIgdGltZSAoQWxhc2thLCBVVEMrMTQpCiAgICAjIHRoZSBzdW4gY2FuIHNldCBhZnRlciBsb2NhbCBtaWRuaWdodCwgb24gdGhlIG5leHQgY2FsZW5kYXIgZGF0ZS4KICAgIHJpc2VzLCBzZXRzID0gW10sIFtdCiAgICBmb3IgZGF5cyBpbiAoLTEsIDAsIDEpOgogICAgICAgIHRpbWVzID0gc3VuX3RpbWVzKGNmZy5sYXQsIGNmZy5sb24sIG5vdy5kYXRlKCkgKyB0aW1lZGVsdGEoZGF5cz1kYXlzKSkKICAgICAgICBpZiB0aW1lcyBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmlzZXMuYXBwZW5kKHRpbWVzWzBdKQogICAgICAgICAgICBzZXRzLmFwcGVuZCh0aW1lc1sxXSkKICAgIGxhc3RfcmlzZSA9IG1heCgodCBmb3IgdCBpbiByaXNlcyBpZiB0IDw9IG5vdyksIGRlZmF1bHQ9Tm9uZSkKICAgIGxhc3Rfc2V0ID0gbWF4KCh0IGZvciB0IGluIHNldHMgaWYgdCA8PSBub3cpLCBkZWZhdWx0PU5vbmUpCiAgICBpZiBsYXN0X3Jpc2UgaXMgTm9uZSBhbmQgbGFzdF9zZXQgaXMgTm9uZToKICAgICAgICAjIFBvbGFyOiBub3RoaW5nIGNyb3NzZWQgdGhlIGhvcml6b24gZm9yIGRheXMKICAgICAgICByZXR1cm4gMS4wIGlmIG1pZG5pZ2h0X3N1bihjZmcubGF0LCBjZmcubG9uLCBub3cuZGF0ZSgpKSBlbHNlIGNmZy5mYWN0b3IKICAgIGlmIGxhc3Rfc2V0IGlzIE5vbmUgb3IgKGxhc3RfcmlzZSBpcyBub3QgTm9uZSBhbmQgbGFzdF9yaXNlID4gbGFzdF9zZXQpOgogICAgICAgIHJldHVybiAxLjAKCiAgICBuZXh0X3Jpc2UgPSBtaW4oKHQgZm9yIHQgaW4gcmlzZXMgaWYgdCA+IG5vdyksIGRlZmF1bHQ9Tm9uZSkKICAgIGlmIG5leHRfcmlzZSBpcyBOb25lOgogICAgICAgICMgVGhlIHN1biBoYXMganVzdCBzdG9wcGVkIHJpc2luZyBvciBzZXR0aW5nOiB0aGUgZmlyc3QgZGF5IG9mIGEKICAgICAgICAjIHBvbGFyIHN0cmV0Y2gsIHdpdGggdGhlIGxhc3Qgc3Vuc2V0IHN0aWxsIGluc2lkZSB0aGUgd2luZG93CiAgICAgICAgcmV0dXJuIDEuMCBpZiBtaWRuaWdodF9zdW4oY2ZnLmxhdCwgY2ZnLmxvbiwgbm93LmRhdGUoKSkgZWxzZSBjZmcuZmFjdG9yCiAgICBpZiBjZmcub2ZmX2F0IGlzIE5vbmUgb3Igbm93ID49IG5leHRfcmlzZSAtIFdBS0VfQkVGT1JFX1NVTlJJU0U6CiAgICAgICAgcmV0dXJuIGNmZy5mYWN0b3IKICAgICMgVGhlIGN1dG9mZiBiZWxvbmdzIHRvIHRoZSBuaWdodCB0aGF0IGJlZ2FuIGF0IGxhc3Rfc2V0OiB0aGUgZmlyc3QKICAgICMgb2NjdXJyZW5jZSBvZiB0aGF0IGNsb2NrIHRpbWUgZnJvbSBhIGZldyBob3VycyBiZWZvcmUgc3Vuc2V0IG9uLCBzbyBhCiAgICAjIHRpbWUgYWZ0ZXIgbWlkbmlnaHQgbGFuZHMgaW4gdGhpcyBuaWdodCBhbmQgb25lIGJlZm9yZSBzdW5zZXQgKGEgMjI6MDAKICAgICMgY3V0b2ZmIHVuZGVyIGEgMjI6MDggbWlkc3VtbWVyIHN1bnNldCkgbWVhbnMgZGFyayBmcm9tIHN1bnNldC4gVGhlIGRheQogICAgIyBiZWZvcmUgaXMgYSBjYW5kaWRhdGUgdG9vLCBmb3IgYSBzdW5zZXQgdGhhdCBpdHNlbGYgZmFsbHMgYWZ0ZXIKICAgICMgbWlkbmlnaHQgKE5vbWUsIFJleWtqYXZpayBpbiBKdW5lKS4KICAgIHN1bnNldCA9IGxhc3Rfc2V0LmFzdGltZXpvbmUobm93LnR6aW5mbykKICAgIG9mZiA9IG1pbih0IGZvciB0IGluIChkYXRldGltZS5jb21iaW5lKHN1bnNldC5kYXRlKCkgKyB0aW1lZGVsdGEoZGF5cz1kYXlzKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNmZy5vZmZfYXQsIG5vdy50emluZm8pCiAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGRheXMgaW4gKC0xLCAwLCAxKSkKICAgICAgICAgICAgICBpZiB0ID4gc3Vuc2V0IC0gdGltZWRlbHRhKGhvdXJzPTYpKQogICAgcmV0dXJuIDAuMCBpZiBub3cgPj0gbWF4KG9mZiwgc3Vuc2V0KSBlbHNlIGNmZy5mYWN0b3IKCgpkZWYgY2xvY2tfc3luY2VkKCk6CiAgICByZXR1cm4gb3MucGF0aC5leGlzdHMoQ0xPQ0tfU1lOQ0VEX0ZMQUcpCgoKY2xhc3MgTmlnaHRTdGF0ZToKICAgICIiIkFwcGxpZXMgdGhlIHNjaGVkdWxlLCBidXQgbGV0cyB0aGUgZGlhbCB3aW46IGEgdHVybiBhdCBuaWdodCB3YWtlcyB0aGUKICAgIHNjcmVlbiwgYW5kIGl0IHN0YXlzIGF3YWtlIHVudGlsIHRoZSBuZXh0IHN1bnNldC4KCiAgICBBIGJvb3QgaW5zaWRlIHRoZSBkYXJrIHdpbmRvdyBpcyB0cmVhdGVkIGFzIHNvbWVvbmUgd2FudGluZyB0aGUgTWFjOgogICAgZm9yIEJPT1RfR1JBQ0VfUyBhZnRlciBzdGFydCB0aGUgc2NoZWR1bGUncyAib2ZmIiBpcyBzb2Z0ZW5lZCB0byB0aGUKICAgIGRpbW1lZCBsZXZlbCwgc28gdGhlIGNoaW1lIGlzIG5vdCBmb2xsb3dlZCBieSBhIGJsYWNrIHNjcmVlbi4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgZGltPTAuNSwgc3RhcnRlZD1Ob25lKToKICAgICAgICBzZWxmLnNjaGVkdWxlZCA9IDEuMAogICAgICAgIHNlbGYuYXdha2UgPSBGYWxzZQogICAgICAgIHNlbGYuZGltID0gZGltCiAgICAgICAgc2VsZi5zdGFydGVkID0gdGltZS5tb25vdG9uaWMoKSBpZiBzdGFydGVkIGlzIE5vbmUgZWxzZSBzdGFydGVkCgogICAgZGVmIGRpYWxfbW92ZWQoc2VsZik6CiAgICAgICAgaWYgc2VsZi5zY2hlZHVsZWQgPCAxLjA6CiAgICAgICAgICAgIHNlbGYuYXdha2UgPSBUcnVlCgogICAgZGVmIHVwZGF0ZShzZWxmLCBzY2hlZHVsZWQsIG5vdz1Ob25lKToKICAgICAgICBpZiBzY2hlZHVsZWQgPT0gMS4wOgogICAgICAgICAgICBzZWxmLmF3YWtlID0gRmFsc2UKICAgICAgICBpZiBzY2hlZHVsZWQgPT0gMC4wOgogICAgICAgICAgICBub3cgPSB0aW1lLm1vbm90b25pYygpIGlmIG5vdyBpcyBOb25lIGVsc2Ugbm93CiAgICAgICAgICAgIGlmIG5vdyAtIHNlbGYuc3RhcnRlZCA8IEJPT1RfR1JBQ0VfUzoKICAgICAgICAgICAgICAgIHNjaGVkdWxlZCA9IHNlbGYuZGltCiAgICAgICAgc2VsZi5zY2hlZHVsZWQgPSBzY2hlZHVsZWQKICAgICAgICByZXR1cm4gMS4wIGlmIHNlbGYuYXdha2UgZWxzZSBzY2hlZHVsZWQKCgpkZWYgZmluZF9wd21jaGlwKHRpbWVvdXQ9MzApOgogICAgIiIiTG9jYXRlIHRoZSBwd21jaGlwIGJhY2tlZCBieSB0aGUgcHdtLWdwaW8gZHJpdmVyLCBub3QgdGhlIFBXTSBwZXJpcGhlcmFsLgoKICAgIFRoZSBwZXJpcGhlcmFsICgzZjIwYzAwMC5wd20pIGlzIG93bmVkIGJ5IHRoZSBhbmFsb2d1ZSBhdWRpbyBmaXJtd2FyZSwgc28KICAgIHRoZSBiYWNrbGlnaHQgbXVzdCB1c2UgdGhlIHNvZnR3YXJlIGNoaXAuIENoaXAgbnVtYmVyaW5nIGlzIG5vdCBzdGFibGUsIHNvCiAgICBtYXRjaCBvbiB0aGUgYmFja2luZyBkZXZpY2UgaW5zdGVhZCBvZiBhc3N1bWluZyBwd21jaGlwMC4KCiAgICBUaGlzIHNlcnZpY2Ugc3RhcnRzIGJlZm9yZSB0aGUgZHJpdmVyIHByb2Jlcywgc28gd2FpdCBmb3IgaXQgdG8gYXBwZWFyLgogICAgIiIiCiAgICBkZWFkbGluZSA9IHRpbWUubW9ub3RvbmljKCkgKyB0aW1lb3V0CiAgICB3aGlsZSBUcnVlOgogICAgICAgIGZvciBjaGlwIGluIHNvcnRlZChvcy5saXN0ZGlyKFBXTV9TWVNGUykpOgogICAgICAgICAgICBkZXZpY2UgPSBvcy5wYXRoLnJlYWxwYXRoKG9zLnBhdGguam9pbihQV01fU1lTRlMsIGNoaXAsICJkZXZpY2UiKSkKICAgICAgICAgICAgaWYgb3MucGF0aC5iYXNlbmFtZShkZXZpY2UpID09IFBXTV9ERVZJQ0U6CiAgICAgICAgICAgICAgICByZXR1cm4gb3MucGF0aC5qb2luKFBXTV9TWVNGUywgY2hpcCkKICAgICAgICBpZiB0aW1lLm1vbm90b25pYygpID4gZGVhZGxpbmU6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgdGltZS5zbGVlcCgwLjIpCgoKZGVmIG9wZW5fYmFja2xpZ2h0KCk6CiAgICAiIiJFeHBvcnQgUFdNIGNoYW5uZWwgMCBhbmQgcmV0dXJuIGl0cyBzeXNmcyBkaXJlY3RvcnkuIiIiCiAgICBjaGlwID0gZmluZF9wd21jaGlwKCkKICAgIGlmIGNoaXAgaXMgTm9uZToKICAgICAgICBwcmludChmIk5vIHtQV01fREVWSUNFfSBwd21jaGlwIGZvdW5kLiBJcyBkdG92ZXJsYXk9cHdtLWdwaW8sZ3Bpbz0xOCAiCiAgICAgICAgICAgICAgImluIC9ib290L2Zpcm13YXJlL2NvbmZpZy50eHQ/IiwgZmx1c2g9VHJ1ZSkKICAgICAgICBzeXMuZXhpdCgxKQoKICAgIGNoYW5uZWwgPSBvcy5wYXRoLmpvaW4oY2hpcCwgInB3bTAiKQogICAgaWYgbm90IG9zLnBhdGguaXNkaXIoY2hhbm5lbCk6CiAgICAgICAgd3JpdGUob3MucGF0aC5qb2luKGNoaXAsICJleHBvcnQiKSwgMCkKCiAgICAjIHVkZXYgY3JlYXRlcyB0aGUgYXR0cmlidXRlcyBhIG1vbWVudCBhZnRlciBleHBvcnQKICAgIGZvciBfIGluIHJhbmdlKDUwKToKICAgICAgICBpZiBvcy5hY2Nlc3Mob3MucGF0aC5qb2luKGNoYW5uZWwsICJkdXR5X2N5Y2xlIiksIG9zLldfT0spOgogICAgICAgICAgICBicmVhawogICAgICAgIHRpbWUuc2xlZXAoMC4xKQogICAgZWxzZToKICAgICAgICBwcmludChmIlRpbWVkIG91dCB3YWl0aW5nIGZvciB7Y2hhbm5lbH0iLCBmbHVzaD1UcnVlKQogICAgICAgIHN5cy5leGl0KDEpCgogICAgIyBEdXR5IG11c3QgbmV2ZXIgZXhjZWVkIHBlcmlvZCwgc28gemVybyBpdCBiZWZvcmUgY2hhbmdpbmcgdGhlIHBlcmlvZAogICAgd3JpdGUob3MucGF0aC5qb2luKGNoYW5uZWwsICJkdXR5X2N5Y2xlIiksIDApCiAgICB3cml0ZShvcy5wYXRoLmpvaW4oY2hhbm5lbCwgInBlcmlvZCIpLCBQV01fUEVSSU9EX05TKQogICAgd3JpdGUob3MucGF0aC5qb2luKGNoYW5uZWwsICJlbmFibGUiKSwgMSkKICAgIHJldHVybiBjaGFubmVsCgoKZGVmIGR1dHlfZm9yKGRpYWwpOgogICAgIiIiTWFwIGEgZGlhbCBwb3NpdGlvbiB0byBhIGR1dHkgY3ljbGUgaW4gbmFub3NlY29uZHMuIiIiCiAgICBpZiBkaWFsIDw9IDA6CiAgICAgICAgcmV0dXJuIDAKICAgIHNwYW4gPSBQV01fUEVSSU9EX05TIC0gTUlOX1BVTFNFX05TCiAgICByZXR1cm4gaW50KE1JTl9QVUxTRV9OUyArIHNwYW4gKiAoZGlhbCAvIDEwMC4wKSAqKiBHQU1NQSkKCgpkZWYgc2V0X2JhY2tsaWdodChkaWFsKToKICAgIHdyaXRlKG9zLnBhdGguam9pbihwd21fZGlyLCAiZHV0eV9jeWNsZSIpLCBkdXR5X2ZvcihkaWFsKSkKCgpkZWYgY2xlYW51cCgqXyk6CiAgICAjIFJlYWNoYWJsZSB0d2ljZSBvbiBTSUdURVJNOiBvbmNlIGZyb20gdGhlIGhhbmRsZXIsIHRoZW4gYWdhaW4gZnJvbSB0aGUKICAgICMgZmluYWxseSBibG9jayBhcyBTeXN0ZW1FeGl0IHVud2luZHMuIE9ubHkgdGhlIGZpcnN0IHBhc3Mgc2hvdWxkIHJ1bi4KICAgIGdsb2JhbCBjbGVhbmluZwogICAgaWYgY2xlYW5pbmc6CiAgICAgICAgcmV0dXJuCiAgICBjbGVhbmluZyA9IFRydWUKCiAgICAjIFN0b3BwaW5nIGF0IGEgbG93IGxldmVsIHdvdWxkIGhhbmQgYmFjayBhIGRhcmsgc2NyZWVuLCBzbyBsZWF2ZSBpdCBsaXQuCiAgICBpZiBwd21fZGlyIGlzIG5vdCBOb25lOgogICAgICAgIHNldF9iYWNrbGlnaHQoMTAwKQogICAgaWYgaCBpcyBub3QgTm9uZToKICAgICAgICBsZ3Bpby5ncGlvY2hpcF9jbG9zZShoKQogICAgc3lzLmV4aXQoMSBpZiBmYWlsZWQgZWxzZSAwKQoKCmRlZiBtYWluKCk6CiAgICBnbG9iYWwgbGV2ZWwsIGgsIHB3bV9kaXIsIGZhaWxlZAoKICAgIHB3bV9kaXIgPSBvcGVuX2JhY2tsaWdodCgpCiAgICBzZXRfYmFja2xpZ2h0KGxldmVsKQoKICAgIGggPSBsZ3Bpby5ncGlvY2hpcF9vcGVuKDApCiAgICBsZ3Bpby5ncGlvX2NsYWltX2lucHV0KGgsIENMS19QSU4sIGxncGlvLlNFVF9QVUxMX1VQKQogICAgbGdwaW8uZ3Bpb19jbGFpbV9pbnB1dChoLCBEVF9QSU4sIGxncGlvLlNFVF9QVUxMX1VQKQoKICAgIG5pZ2h0ID0gbG9hZF9uaWdodF9jb25maWcob3MuZW52aXJvbikKICAgIHN0YXRlID0gTmlnaHRTdGF0ZShkaW09bmlnaHQuZmFjdG9yIGlmIG5pZ2h0IGVsc2UgMC41KQogICAgcHJpbnQoZiJCcmlnaHRuZXNzIGNvbnRyb2wgcnVubmluZy4gbGV2ZWw9e2xldmVsfSAiCiAgICAgICAgICBmIm5pZ2h0PXsnb24nIGlmIG5pZ2h0IGVsc2UgJ29mZid9IiwgZmx1c2g9VHJ1ZSkKCiAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdURVJNLCBjbGVhbnVwKQogICAgc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHSU5ULCBjbGVhbnVwKQoKICAgIGVuY29kZWQgPSAobGdwaW8uZ3Bpb19yZWFkKGgsIENMS19QSU4pIDw8IDEpIHwgbGdwaW8uZ3Bpb19yZWFkKGgsIERUX1BJTikKICAgIGFjY3VtID0gMAogICAgbGFzdF9kaXIgPSAwCiAgICBsYXN0X21vdmUgPSB0aW1lLm1vbm90b25pYygpCiAgICBzaG93biA9IGZsb2F0KGxldmVsKSAgICAgICMgd2hlcmUgdGhlIGJhY2tsaWdodCBpcywgY2hhc2luZyBsZXZlbAogICAgZmFjdG9yID0gMS4wICAgICAgICAgICAgICAjIHdoYXQgdGhlIHNjaGVkdWxlIHdhbnRzIHRoZSBsZXZlbCBzY2FsZWQgYnkKICAgIGVhc2VkID0gMS4wICAgICAgICAgICAgICAgIyB3aGVyZSB0aGUgc2NhbGluZyBpcywgY2hhc2luZyBmYWN0b3IKICAgIG5leHRfY2hlY2sgPSAwLjAKICAgIGxhc3RfdGljayA9IHRpbWUubW9ub3RvbmljKCkKICAgIGxhc3RfZHV0eSA9IGR1dHlfZm9yKGxldmVsKQoKICAgIHRyeToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBzYW1wbGUgPSAoKGxncGlvLmdwaW9fcmVhZChoLCBDTEtfUElOKSA8PCAxKQogICAgICAgICAgICAgICAgICAgICAgfCBsZ3Bpby5ncGlvX3JlYWQoaCwgRFRfUElOKSkKICAgICAgICAgICAgaWYgc2FtcGxlICE9IGVuY29kZWQ6CiAgICAgICAgICAgICAgICBhY2N1bSArPSBESUFMX0RJUkVDVElPTiAqIFRSQU5TSVRJT05bKGVuY29kZWQgPDwgMikgfCBzYW1wbGVdCiAgICAgICAgICAgICAgICBlbmNvZGVkID0gc2FtcGxlCiAgICAgICAgICAgICAgICBsYXN0X21vdmUgPSB0aW1lLm1vbm90b25pYygpCgogICAgICAgICAgICAgICAgcmV2ZXJzaW5nID0gbGFzdF9kaXIgYW5kIGFjY3VtICogbGFzdF9kaXIgPCAwCiAgICAgICAgICAgICAgICB0aHJlc2hvbGQgPSBSRVZFUlNFX0RFQURCQU5EIGlmIHJldmVyc2luZyBlbHNlIERFQURCQU5ECiAgICAgICAgICAgICAgICBpZiBhYnMoYWNjdW0pID49IHRocmVzaG9sZDoKICAgICAgICAgICAgICAgICAgICBsYXN0X2RpciA9IDEgaWYgYWNjdW0gPiAwIGVsc2UgLTEKICAgICAgICAgICAgICAgICAgICB0YXJnZXQgPSBtYXgoMCwgbWluKDEwMCwgbGV2ZWwgKyBhY2N1bSAqIExFVkVMX1BFUl9DT1VOVCkpCiAgICAgICAgICAgICAgICAgICAgYWNjdW0gPSAwCiAgICAgICAgICAgICAgICAgICAgIyBBbnkgdHVybiB3YWtlcyB0aGUgc2NyZWVuIGF0IG5pZ2h0LCBldmVuIG9uZSBwaW5uZWQgYXQKICAgICAgICAgICAgICAgICAgICAjIHRoZSBlbmQgb2YgdGhlIGRpYWwgdGhhdCBsZWF2ZXMgdGhlIGxldmVsIHdoZXJlIGl0IHdhcy4KICAgICAgICAgICAgICAgICAgICBzdGF0ZS5kaWFsX21vdmVkKCkKICAgICAgICAgICAgICAgICAgICBuZXh0X2NoZWNrID0gMC4wCiAgICAgICAgICAgICAgICAgICAgaWYgdGFyZ2V0ICE9IGxldmVsOiAgICMgdW5jaGFuZ2VkIHdoZW4gcGlubmVkIGF0IDAgb3IgMTAwCiAgICAgICAgICAgICAgICAgICAgICAgIGxldmVsID0gdGFyZ2V0CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KGYiTGV2ZWw6IHtsZXZlbH0iLCBmbHVzaD1UcnVlKQoKICAgICAgICAgICAgZWxpZiBhY2N1bSBhbmQgdGltZS5tb25vdG9uaWMoKSAtIGxhc3RfbW92ZSA+IElETEVfUkVTRVRfUzoKICAgICAgICAgICAgICAgICMgVGhlIGRpYWwgc2V0dGxlZCBtaWQtY291bnQuIERyb3AgaXQgcmF0aGVyIHRoYW4gbGV0IHN0cmF5CiAgICAgICAgICAgICAgICAjIGNvdW50cyBhZGQgdXAgaW50byBhIHN0ZXAgbGF0ZXIuCiAgICAgICAgICAgICAgICBhY2N1bSA9IDAKICAgICAgICAgICAgICAgIGxhc3RfZGlyID0gMAoKICAgICAgICAgICAgaWYgbmlnaHQgYW5kIHRpbWUubW9ub3RvbmljKCkgPj0gbmV4dF9jaGVjazoKICAgICAgICAgICAgICAgIG5leHRfY2hlY2sgPSB0aW1lLm1vbm90b25pYygpICsgTklHSFRfQ0hFQ0tfUwogICAgICAgICAgICAgICAgc2NoZWR1bGVkID0gMS4wCiAgICAgICAgICAgICAgICBpZiBjbG9ja19zeW5jZWQoKToKICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZWQgPSBuaWdodF9mYWN0b3IoZGF0ZXRpbWUubm93KCkuYXN0aW1lem9uZSgpLCBuaWdodCkKICAgICAgICAgICAgICAgIHdhbnRlZCA9IHN0YXRlLnVwZGF0ZShzY2hlZHVsZWQpCiAgICAgICAgICAgICAgICBpZiB3YW50ZWQgIT0gZmFjdG9yOgogICAgICAgICAgICAgICAgICAgIGZhY3RvciA9IHdhbnRlZAogICAgICAgICAgICAgICAgICAgIHByaW50KGYiTmlnaHQ6IHh7ZmFjdG9yOmd9IiwgZmx1c2g9VHJ1ZSkKICAgICAgICAgICAgICAgIGlmIHN0YXRlLmF3YWtlIGFuZCBlYXNlZCAhPSBmYWN0b3I6CiAgICAgICAgICAgICAgICAgICAgIyBUaGUgZGlhbCB3YXMgdG91Y2hlZDogc2tpcCB0aGUgc2xvdyBmYWRlIGFuZCBsZXQgdGhlCiAgICAgICAgICAgICAgICAgICAgIyBkaWFsJ3Mgb3duIHF1aWNrIHJhbXAgYnJpbmcgdGhlIGJhY2tsaWdodCB1cAogICAgICAgICAgICAgICAgICAgIHNob3duICo9IGVhc2VkCiAgICAgICAgICAgICAgICAgICAgZWFzZWQgPSBmYWN0b3IKCiAgICAgICAgICAgIG5vdyA9IHRpbWUubW9ub3RvbmljKCkKICAgICAgICAgICAgaWYgZWFzZWQgIT0gZmFjdG9yOgogICAgICAgICAgICAgICAgc3RlcCA9IChub3cgLSBsYXN0X3RpY2spIC8gTklHSFRfRkFERV9TCiAgICAgICAgICAgICAgICBpZiBhYnMoZmFjdG9yIC0gZWFzZWQpIDw9IHN0ZXA6CiAgICAgICAgICAgICAgICAgICAgZWFzZWQgPSBmYWN0b3IKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZWFzZWQgKz0gc3RlcCBpZiBmYWN0b3IgPiBlYXNlZCBlbHNlIC1zdGVwCiAgICAgICAgICAgIGxhc3RfdGljayA9IG5vdwoKICAgICAgICAgICAgaWYgc2hvd24gIT0gbGV2ZWw6CiAgICAgICAgICAgICAgICBpZiBhYnMobGV2ZWwgLSBzaG93bikgPD0gUkFNUF9QRVJfVElDSzoKICAgICAgICAgICAgICAgICAgICBzaG93biA9IGZsb2F0KGxldmVsKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzaG93biArPSBSQU1QX1BFUl9USUNLIGlmIGxldmVsID4gc2hvd24gZWxzZSAtUkFNUF9QRVJfVElDSwoKICAgICAgICAgICAgZHV0eSA9IGR1dHlfZm9yKHNob3duICogZWFzZWQpCiAgICAgICAgICAgIGlmIGR1dHkgIT0gbGFzdF9kdXR5OgogICAgICAgICAgICAgICAgc2V0X2JhY2tsaWdodChzaG93biAqIGVhc2VkKQogICAgICAgICAgICAgICAgbGFzdF9kdXR5ID0gZHV0eQoKICAgICAgICAgICAgdGltZS5zbGVlcChQT0xMX1MpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGZhaWxlZCA9IFRydWUKICAgICAgICBwcmludCh0cmFjZWJhY2suZm9ybWF0X2V4YygpLCBmbHVzaD1UcnVlKQogICAgZmluYWxseToKICAgICAgICBjbGVhbnVwKCkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 Wells Riley
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# ####################################
+# brightness_control.py
+#
+# Rotary encoder brightness control for Waveshare 2.8" DPI LCD.
+# Encoder CLK on GPIO 11, DT on GPIO 10.
+# Controls backlight via the kernel pwm-gpio driver on GPIO 18.
+#
+# March 26, 2026 - https://github.com/wr/macintosh-mini/blob/main/BUILD.md
+# ####################################
+
+import math
+import os
+import re
+import signal
+import sys
+import time
+import traceback
+from collections import namedtuple
+from datetime import datetime, time as dtime, timedelta, timezone
+
+try:
+    import lgpio
+except ImportError:
+    print("lgpio not found. Install: sudo apt-get install python3-lgpio")
+    sys.exit(1)
+
+# --- Config ---
+CLK_PIN = 11
+DT_PIN = 10
+PWM_PERIOD_NS = 1_000_000  # 1 kHz
+
+# Gamma compresses the dark end hard: a plain mapping asks for a 39 ns pulse
+# at level 1. The driver accepts that, but nothing can hold a pulse so short
+# repeatably, so the bottom of the dial is floored to something a timer can
+# actually produce. Level 0 still goes fully dark.
+MIN_PULSE_NS = 20_000
+
+# Sampling the pins beats reacting to every edge. The encoder bounces hard —
+# one turn throws hundreds of transitions — and a 1 ms sample steps over the
+# chatter. Decoding every edge instead, as the kernel rotary-encoder driver
+# does, gets the direction wrong on about one turn in five.
+POLL_S = 0.001
+
+# The dial gets flicked through an arc rather than clicked detent by detent,
+# so brightness follows how far it turned. DEADBAND drops the odd stray count;
+# reversing needs a longer run than continuing, so a flick holds the direction
+# it started in.
+LEVEL_PER_COUNT = 4
+DIAL_DIRECTION = -1    # clockwise brightens, as on a compact Mac
+DEADBAND = 1
+REVERSE_DEADBAND = 4
+IDLE_RESET_S = 0.4
+
+# Ease into a new level over a few milliseconds. A flick only lands 8 to 10
+# counts, so without this the backlight arrives in visible steps.
+RAMP_PER_TICK = 1.0
+
+# Perceived brightness is roughly the square of the duty cycle, so map the
+# dial through a curve. Without it most of the arc is spent up at the bright
+# end, where the eye can barely tell the difference.
+GAMMA = 2.2
+
+PWM_SYSFS = "/sys/class/pwm"
+PWM_DEVICE = "pwm_gpio@12"  # dtoverlay=pwm-gpio,gpio=18 — 0x12 is GPIO 18
+
+# Gray code transitions, indexed by the previous state and the current one
+TRANSITION = [
+     0, -1,  1,  0,
+     1,  0,  0, -1,
+    -1,  0,  0,  1,
+     0,  1, -1,  0,
+]
+
+level = 100    # dial position, 0-100
+h = None
+pwm_dir = None
+failed = False
+cleaning = False
+
+
+# --- Night dimming ---
+# Off unless /etc/default/brightness-control turns it on; the systemd unit
+# hands that file over as environment variables:
+#   NIGHT_DIM=1             enable
+#   LAT=40.71 LON=-74.01    optional. Left blank, the location is the system
+#                           timezone's reference city from tzdata, which puts
+#                           sunrise within a few minutes for most people
+#   NIGHT_FACTOR=0.5        sunset to sunrise, the dial level is scaled by this
+#   NIGHT_OFF_AT=22:00      from here the backlight goes fully dark, until an
+#                           hour before sunrise. Leave blank to only ever dim.
+# Turning the dial at night wakes the screen until the next sunset.
+NIGHT_FADE_S = 30      # scheduled changes ease in over this long
+WAKE_BEFORE_SUNRISE = timedelta(hours=1)   # dark ends this long before dawn
+NIGHT_CHECK_S = 1.0    # how often the schedule is consulted
+BOOT_GRACE_S = 600     # after a (re)boot past the cutoff, dim instead of dark
+
+# The Zero has no clock battery, so until NTP answers the time is whatever
+# fake-hwclock saved at the last shutdown. Dimming on that would be a guess,
+# so the schedule waits for timesyncd to raise this flag.
+CLOCK_SYNCED_FLAG = "/run/systemd/timesync/synchronized"
+
+J2000 = datetime(2000, 1, 1, 12, tzinfo=timezone.utc)
+
+ZONE_TABS = ("/usr/share/zoneinfo/zone1970.tab", "/usr/share/zoneinfo/zone.tab")
+
+NightConfig = namedtuple("NightConfig", "lat lon factor off_at")
+
+
+def write(path, value):
+    with open(path, "w") as f:
+        f.write(str(value))
+
+
+def read_zone_tab(paths=ZONE_TABS):
+    """Every zone table tzdata ships, joined. zone1970.tab alone is not
+    enough: since 2022 it folds Oslo, Stockholm, Amsterdam and a hundred
+    others into one representative zone, and only zone.tab still lists
+    them."""
+    tabs = []
+    for path in paths:
+        try:
+            with open(path) as f:
+                tabs.append(f.read())
+        except OSError:
+            continue
+    return "\n".join(tabs) if tabs else None
+
+
+def zone_coords(zone, tab):
+    """Latitude and longitude of a timezone's reference city, from tzdata's
+    zone1970.tab, or None if the zone is not listed (Etc/UTC, for one)."""
+    if not zone or not tab:
+        return None
+    for line in tab.splitlines():
+        if line.startswith("#"):
+            continue
+        cols = line.split("\t")
+        if len(cols) >= 3 and cols[2] == zone:
+            return _iso6709(cols[1])
+    return None
+
+
+def _iso6709(text):
+    """Decode +DDMM+DDDMM or +DDMMSS+DDDMMSS into decimal degrees."""
+    m = re.fullmatch(r"([+-])(\d{2})(\d{2})(\d{2})?([+-])(\d{3})(\d{2})(\d{2})?", text)
+    if not m:
+        return None
+
+    def decode(sign, d, mi, sec):
+        value = int(d) + int(mi) / 60 + (int(sec) if sec else 0) / 3600
+        return -value if sign == "-" else value
+
+    return (decode(m[1], m[2], m[3], m[4]), decode(m[5], m[6], m[7], m[8]))
+
+
+def system_timezone():
+    # The symlink is what libc and timedatectl agree on; /etc/timezone is a
+    # Debian extra that can lag behind it.
+    target = os.path.realpath("/etc/localtime")
+    if "/zoneinfo/" in target:
+        return target.split("/zoneinfo/", 1)[1]
+    try:
+        with open("/etc/timezone") as f:
+            return f.read().strip() or None
+    except OSError:
+        return None
+
+
+def load_night_config(env, zone=None, zone_tab=None):
+    """Read the night schedule from the environment, or None when it is off."""
+    if env.get("NIGHT_DIM", "0").strip().lower() not in ("1", "true", "yes"):
+        return None
+    try:
+        return _parse_night_config(env, zone, zone_tab)
+    except ValueError as e:
+        # A typo here must not take the dial down in a restart loop
+        print(f"Bad value in night config ({e}); night dimming off", flush=True)
+        return None
+
+
+def _parse_night_config(env, zone, zone_tab):
+    if env.get("LAT", "").strip() and env.get("LON", "").strip():
+        lat, lon = float(env["LAT"]), float(env["LON"])
+    else:
+        zone = zone or system_timezone()
+        coords = zone_coords(zone, zone_tab if zone_tab is not None
+                             else read_zone_tab())
+        if coords is None:
+            print(f"No location for timezone {zone!r} and LAT/LON unset; "
+                  "night dimming off. Set the timezone: "
+                  "sudo timedatectl set-timezone <Area/City>", flush=True)
+            return None
+        lat, lon = coords
+    factor = float(env.get("NIGHT_FACTOR", "0.5"))
+    off = env.get("NIGHT_OFF_AT", "22:00").strip()
+    off_at = dtime.fromisoformat(off) if off else None
+    return NightConfig(lat, lon, factor, off_at)
+
+
+def _sun_geometry(lat, lon, day):
+    """Solar transit on `day` in days since J2000, and the cosine of the
+    sunrise hour angle: outside [-1, 1] the sun never crosses the horizon.
+
+    This is the sunrise equation with NOAA's corrections: good to a couple
+    of minutes, which is plenty for a backlight.
+    """
+    sin, cos, rad = math.sin, math.cos, math.radians
+    # Days since J2000, shifted so the numbers below refer to local solar noon
+    n = (day - J2000.date()).days - lon / 360
+    mean_anomaly = (357.5291 + 0.98560028 * n) % 360
+    centre = (1.9148 * sin(rad(mean_anomaly))
+              + 0.0200 * sin(rad(2 * mean_anomaly))
+              + 0.0003 * sin(rad(3 * mean_anomaly)))
+    ecliptic_lon = (mean_anomaly + centre + 180 + 102.9372) % 360
+    transit = (n + 0.0053 * sin(rad(mean_anomaly))
+               - 0.0069 * sin(rad(2 * ecliptic_lon)))
+    declination = math.asin(sin(rad(ecliptic_lon)) * sin(rad(23.4397)))
+    # -0.833 degrees: the sun's upper limb at the horizon, through refraction
+    cos_hour = ((sin(rad(-0.833)) - sin(rad(lat)) * sin(declination))
+                / (cos(rad(lat)) * cos(declination)))
+    return transit, cos_hour
+
+
+def sun_times(lat, lon, day):
+    """Sunrise and sunset on `day` as aware UTC datetimes, or None where
+    the sun never rises or never sets that day."""
+    transit, cos_hour = _sun_geometry(lat, lon, day)
+    if not -1 <= cos_hour <= 1:
+        return None
+    half_day = math.degrees(math.acos(cos_hour)) / 360
+    return (J2000 + timedelta(days=transit - half_day),
+            J2000 + timedelta(days=transit + half_day))
+
+
+def midnight_sun(lat, lon, day):
+    """True when the sun stays above the horizon all of `day`."""
+    return _sun_geometry(lat, lon, day)[1] < -1
+
+
+def night_factor(now, cfg, sun_times=sun_times):
+    """Scale for the dial level at `now` (an aware local datetime).
+
+    1.0 by day, cfg.factor after sunset, 0.0 from cfg.off_at until an hour
+    before sunrise, then cfg.factor again until the sun is up.
+    """
+    # Work from the most recent sunrise and sunset instants rather than
+    # "today's": where the clock runs far from solar time (Alaska, UTC+14)
+    # the sun can set after local midnight, on the next calendar date.
+    rises, sets = [], []
+    for days in (-1, 0, 1):
+        times = sun_times(cfg.lat, cfg.lon, now.date() + timedelta(days=days))
+        if times is not None:
+            rises.append(times[0])
+            sets.append(times[1])
+    last_rise = max((t for t in rises if t <= now), default=None)
+    last_set = max((t for t in sets if t <= now), default=None)
+    if last_rise is None and last_set is None:
+        # Polar: nothing crossed the horizon for days
+        return 1.0 if midnight_sun(cfg.lat, cfg.lon, now.date()) else cfg.factor
+    if last_set is None or (last_rise is not None and last_rise > last_set):
+        return 1.0
+
+    next_rise = min((t for t in rises if t > now), default=None)
+    if next_rise is None:
+        # The sun has just stopped rising or setting: the first day of a
+        # polar stretch, with the last sunset still inside the window
+        return 1.0 if midnight_sun(cfg.lat, cfg.lon, now.date()) else cfg.factor
+    if cfg.off_at is None or now >= next_rise - WAKE_BEFORE_SUNRISE:
+        return cfg.factor
+    # The cutoff belongs to the night that began at last_set: the first
+    # occurrence of that clock time from a few hours before sunset on, so a
+    # time after midnight lands in this night and one before sunset (a 22:00
+    # cutoff under a 22:08 midsummer sunset) means dark from sunset. The day
+    # before is a candidate too, for a sunset that itself falls after
+    # midnight (Nome, Reykjavik in June).
+    sunset = last_set.astimezone(now.tzinfo)
+    off = min(t for t in (datetime.combine(sunset.date() + timedelta(days=days),
+                                           cfg.off_at, now.tzinfo)
+                          for days in (-1, 0, 1))
+              if t > sunset - timedelta(hours=6))
+    return 0.0 if now >= max(off, sunset) else cfg.factor
+
+
+def clock_synced():
+    return os.path.exists(CLOCK_SYNCED_FLAG)
+
+
+class NightState:
+    """Applies the schedule, but lets the dial win: a turn at night wakes the
+    screen, and it stays awake until the next sunset.
+
+    A boot inside the dark window is treated as someone wanting the Mac:
+    for BOOT_GRACE_S after start the schedule's "off" is softened to the
+    dimmed level, so the chime is not followed by a black screen."""
+
+    def __init__(self, dim=0.5, started=None):
+        self.scheduled = 1.0
+        self.awake = False
+        self.dim = dim
+        self.started = time.monotonic() if started is None else started
+
+    def dial_moved(self):
+        if self.scheduled < 1.0:
+            self.awake = True
+
+    def update(self, scheduled, now=None):
+        if scheduled == 1.0:
+            self.awake = False
+        if scheduled == 0.0:
+            now = time.monotonic() if now is None else now
+            if now - self.started < BOOT_GRACE_S:
+                scheduled = self.dim
+        self.scheduled = scheduled
+        return 1.0 if self.awake else scheduled
+
+
+def find_pwmchip(timeout=30):
+    """Locate the pwmchip backed by the pwm-gpio driver, not the PWM peripheral.
+
+    The peripheral (3f20c000.pwm) is owned by the analogue audio firmware, so
+    the backlight must use the software chip. Chip numbering is not stable, so
+    match on the backing device instead of assuming pwmchip0.
+
+    This service starts before the driver probes, so wait for it to appear.
+    """
+    deadline = time.monotonic() + timeout
+    while True:
+        for chip in sorted(os.listdir(PWM_SYSFS)):
+            device = os.path.realpath(os.path.join(PWM_SYSFS, chip, "device"))
+            if os.path.basename(device) == PWM_DEVICE:
+                return os.path.join(PWM_SYSFS, chip)
+        if time.monotonic() > deadline:
+            return None
+        time.sleep(0.2)
+
+
+def open_backlight():
+    """Export PWM channel 0 and return its sysfs directory."""
+    chip = find_pwmchip()
+    if chip is None:
+        print(f"No {PWM_DEVICE} pwmchip found. Is dtoverlay=pwm-gpio,gpio=18 "
+              "in /boot/firmware/config.txt?", flush=True)
+        sys.exit(1)
+
+    channel = os.path.join(chip, "pwm0")
+    if not os.path.isdir(channel):
+        write(os.path.join(chip, "export"), 0)
+
+    # udev creates the attributes a moment after export
+    for _ in range(50):
+        if os.access(os.path.join(channel, "duty_cycle"), os.W_OK):
+            break
+        time.sleep(0.1)
+    else:
+        print(f"Timed out waiting for {channel}", flush=True)
+        sys.exit(1)
+
+    # Duty must never exceed period, so zero it before changing the period
+    write(os.path.join(channel, "duty_cycle"), 0)
+    write(os.path.join(channel, "period"), PWM_PERIOD_NS)
+    write(os.path.join(channel, "enable"), 1)
+    return channel
+
+
+def duty_for(dial):
+    """Map a dial position to a duty cycle in nanoseconds."""
+    if dial <= 0:
+        return 0
+    span = PWM_PERIOD_NS - MIN_PULSE_NS
+    return int(MIN_PULSE_NS + span * (dial / 100.0) ** GAMMA)
+
+
+def set_backlight(dial):
+    write(os.path.join(pwm_dir, "duty_cycle"), duty_for(dial))
+
+
+def cleanup(*_):
+    # Reachable twice on SIGTERM: once from the handler, then again from the
+    # finally block as SystemExit unwinds. Only the first pass should run.
+    global cleaning
+    if cleaning:
+        return
+    cleaning = True
+
+    # Stopping at a low level would hand back a dark screen, so leave it lit.
+    if pwm_dir is not None:
+        set_backlight(100)
+    if h is not None:
+        lgpio.gpiochip_close(h)
+    sys.exit(1 if failed else 0)
+
+
+def main():
+    global level, h, pwm_dir, failed
+
+    pwm_dir = open_backlight()
+    set_backlight(level)
+
+    h = lgpio.gpiochip_open(0)
+    lgpio.gpio_claim_input(h, CLK_PIN, lgpio.SET_PULL_UP)
+    lgpio.gpio_claim_input(h, DT_PIN, lgpio.SET_PULL_UP)
+
+    night = load_night_config(os.environ)
+    state = NightState(dim=night.factor if night else 0.5)
+    print(f"Brightness control running. level={level} "
+          f"night={'on' if night else 'off'}", flush=True)
+
+    signal.signal(signal.SIGTERM, cleanup)
+    signal.signal(signal.SIGINT, cleanup)
+
+    encoded = (lgpio.gpio_read(h, CLK_PIN) << 1) | lgpio.gpio_read(h, DT_PIN)
+    accum = 0
+    last_dir = 0
+    last_move = time.monotonic()
+    shown = float(level)      # where the backlight is, chasing level
+    factor = 1.0              # what the schedule wants the level scaled by
+    eased = 1.0               # where the scaling is, chasing factor
+    next_check = 0.0
+    last_tick = time.monotonic()
+    last_duty = duty_for(level)
+
+    try:
+        while True:
+            sample = ((lgpio.gpio_read(h, CLK_PIN) << 1)
+                      | lgpio.gpio_read(h, DT_PIN))
+            if sample != encoded:
+                accum += DIAL_DIRECTION * TRANSITION[(encoded << 2) | sample]
+                encoded = sample
+                last_move = time.monotonic()
+
+                reversing = last_dir and accum * last_dir < 0
+                threshold = REVERSE_DEADBAND if reversing else DEADBAND
+                if abs(accum) >= threshold:
+                    last_dir = 1 if accum > 0 else -1
+                    target = max(0, min(100, level + accum * LEVEL_PER_COUNT))
+                    accum = 0
+                    # Any turn wakes the screen at night, even one pinned at
+                    # the end of the dial that leaves the level where it was.
+                    state.dial_moved()
+                    next_check = 0.0
+                    if target != level:   # unchanged when pinned at 0 or 100
+                        level = target
+                        print(f"Level: {level}", flush=True)
+
+            elif accum and time.monotonic() - last_move > IDLE_RESET_S:
+                # The dial settled mid-count. Drop it rather than let stray
+                # counts add up into a step later.
+                accum = 0
+                last_dir = 0
+
+            if night and time.monotonic() >= next_check:
+                next_check = time.monotonic() + NIGHT_CHECK_S
+                scheduled = 1.0
+                if clock_synced():
+                    scheduled = night_factor(datetime.now().astimezone(), night)
+                wanted = state.update(scheduled)
+                if wanted != factor:
+                    factor = wanted
+                    print(f"Night: x{factor:g}", flush=True)
+                if state.awake and eased != factor:
+                    # The dial was touched: skip the slow fade and let the
+                    # dial's own quick ramp bring the backlight up
+                    shown *= eased
+                    eased = factor
+
+            now = time.monotonic()
+            if eased != factor:
+                step = (now - last_tick) / NIGHT_FADE_S
+                if abs(factor - eased) <= step:
+                    eased = factor
+                else:
+                    eased += step if factor > eased else -step
+            last_tick = now
+
+            if shown != level:
+                if abs(level - shown) <= RAMP_PER_TICK:
+                    shown = float(level)
+                else:
+                    shown += RAMP_PER_TICK if level > shown else -RAMP_PER_TICK
+
+            duty = duty_for(shown * eased)
+            if duty != last_duty:
+                set_backlight(shown * eased)
+                last_duty = duty
+
+            time.sleep(POLL_S)
+    except Exception:
+        failed = True
+        print(traceback.format_exc(), flush=True)
+    finally:
+        cleanup()
+
+
+if __name__ == "__main__":
+    main()

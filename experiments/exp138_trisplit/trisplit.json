@@ -1,1 +1,351 @@
-ewogICJsYXllcnMiOiB7CiAgICAiTDEiOiB7CiAgICAgICJuX2V4cCI6IDEzLAogICAgICAiZXhwcyI6IFsKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTI5IiwKICAgICAgICAgICJtZXRyaWMiOiAi5p2D5aiB6K+t5paZ57K+56Gu546HIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuMTExLAogICAgICAgICAgInVuaXQiOiAicmF0aW8iLAogICAgICAgICAgIm5vdGUiOiAiMjfmnaHmoLggM+ecnzI05YGHIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDEzMCIsCiAgICAgICAgICAibWV0cmljIjogIumSieWcqGxpbmU8PTHljaDmr5QiLAogICAgICAgICAgInZhbHVlIjogMC44NjQsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICLliqDpl7jliY0gMzgvNDQiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTMxIiwKICAgICAgICAgICJtZXRyaWMiOiAi5Lil5qC85qCH5YeG57K+5bqmIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuMDU5LAogICAgICAgICAgInVuaXQiOiAicmF0aW8iLAogICAgICAgICAgIm5vdGUiOiAiMS8xNyIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMzEiLAogICAgICAgICAgIm1ldHJpYyI6ICLlrr3mnb7moIflh4bnsr7luqYiLAogICAgICAgICAgInZhbHVlIjogMC41ODgsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICIxMC8xNyIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMzIiLAogICAgICAgICAgIm1ldHJpYyI6ICLplJrngrnoh6ror4HnjociLAogICAgICAgICAgInZhbHVlIjogMC45MTcsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICIyMi8yNCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMzMiLAogICAgICAgICAgIm1ldHJpYyI6ICLkuKXmoLznsr7luqYiLAogICAgICAgICAgInZhbHVlIjogMC40MTcsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICIxMC8yNCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMzQiLAogICAgICAgICAgIm1ldHJpYyI6ICLor63ms5XlsYLnsr7luqYiLAogICAgICAgICAgInZhbHVlIjogMC45MzgsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICIxNS8xNiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMzQiLAogICAgICAgICAgIm1ldHJpYyI6ICLmlrnms5XorrrlsYLnsr7luqYiLAogICAgICAgICAgInZhbHVlIjogMC4wMzQsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICIxLzI5IgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDEzNSIsCiAgICAgICAgICAibWV0cmljIjogIuivreazleWxgueyvuW6pmNvcnB1czQiLAogICAgICAgICAgInZhbHVlIjogMC43NSwKICAgICAgICAgICJ1bml0IjogInJhdGlvIiwKICAgICAgICAgICJub3RlIjogIjMvNCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMzUiLAogICAgICAgICAgIm1ldHJpYyI6ICLmlrnms5XorrrlsYLnsr7luqZjb3JwdXM0IiwKICAgICAgICAgICJ2YWx1ZSI6IDAuMCwKICAgICAgICAgICJ1bml0IjogInJhdGlvIiwKICAgICAgICAgICJub3RlIjogIjAvMjYiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTM2IiwKICAgICAgICAgICJtZXRyaWMiOiAi5oiQ54af5bqT5ZG95Lit5a+G5bqmIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuOSwKICAgICAgICAgICJ1bml0IjogInBlcjEwMEtCIiwKICAgICAgICAgICJub3RlIjogIjEwOEtC5Y+q6K+0MeWPpSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMzYiLAogICAgICAgICAgIm1ldHJpYyI6ICLkvY7mmJ/ku6PnoIHlkb3kuK3lr4bluqYiLAogICAgICAgICAgInZhbHVlIjogMS42LAogICAgICAgICAgInVuaXQiOiAicGVyMTAwS0IiLAogICAgICAgICAgIm5vdGUiOiAiIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDEzNiIsCiAgICAgICAgICAibWV0cmljIjogIuWuveadvueJiOeyvuW6piIsCiAgICAgICAgICAidmFsdWUiOiAwLjAzNCwKICAgICAgICAgICJ1bml0IjogInJhdGlvIiwKICAgICAgICAgICJub3RlIjogIjEvMjkg55yfIgogICAgICAgIH0KICAgICAgXQogICAgfSwKICAgICJMMiI6IHsKICAgICAgIm5fZXhwIjogMTIsCiAgICAgICJleHBzIjogWwogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMTIiLAogICAgICAgICAgIm1ldHJpYyI6ICLpl63njq/lkb3kuK3njociLAogICAgICAgICAgInZhbHVlIjogMS4wLAogICAgICAgICAgInVuaXQiOiAicmF0aW8iLAogICAgICAgICAgIm5vdGUiOiAiMjAvMjAiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTEyIiwKICAgICAgICAgICJtZXRyaWMiOiAi5byA546v5ZG95Lit546HIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuMCwKICAgICAgICAgICJ1bml0IjogInJhdGlvIiwKICAgICAgICAgICJub3RlIjogIjAvMjAiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTEyIiwKICAgICAgICAgICJtZXRyaWMiOiAieW9rZWTph43mlL7lkb3kuK3njociLAogICAgICAgICAgInZhbHVlIjogMC42NjcsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICI4LzEyIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDExMiIsCiAgICAgICAgICAibWV0cmljIjogIuWNleatpeaEn+efpeW7tui/nyIsCiAgICAgICAgICAidmFsdWUiOiA1LjUsCiAgICAgICAgICAidW5pdCI6ICJtcyIsCiAgICAgICAgICAibm90ZSI6ICIiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTEzIiwKICAgICAgICAgICJtZXRyaWMiOiAi5LiW55WMQumHjeiureWQjuWRveS4rSIsCiAgICAgICAgICAidmFsdWUiOiAwLjQsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICJsZWFybmVk6YeN6K6tMjAwIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDExMyIsCiAgICAgICAgICAibWV0cmljIjogIumihOe9ruetlueVpeS4lueVjELlkb3kuK0iLAogICAgICAgICAgInZhbHVlIjogMC4wLAogICAgICAgICAgInVuaXQiOiAicmF0aW8iLAogICAgICAgICAgIm5vdGUiOiAi5oqx552A5pen5Zu+IgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDExMyIsCiAgICAgICAgICAibWV0cmljIjogIuWGu+e7k+aXp+efpeivhuWRveS4rSIsCiAgICAgICAgICAidmFsdWUiOiAwLjEyNSwKICAgICAgICAgICJ1bml0IjogInJhdGlvIiwKICAgICAgICAgICJub3RlIjogIuS9juS6juebsuWKqDAuMjAwIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDEyNiIsCiAgICAgICAgICAibWV0cmljIjogIuebuOWAmue7g+S5oOS5oOW+l2ZnIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuMTAzNjgsCiAgICAgICAgICAidW5pdCI6ICJmZyIsCiAgICAgICAgICAibm90ZSI6ICIxNS8xNua0uyIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjYiLAogICAgICAgICAgIm1ldHJpYyI6ICLnm7jnu6fkuI3lgJrkuaDlvpdmZyIsCiAgICAgICAgICAidmFsdWUiOiAwLjAwMTQ5LAogICAgICAgICAgInVuaXQiOiAiZmciLAogICAgICAgICAgIm5vdGUiOiAiMC8xNua0uyIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjYiLAogICAgICAgICAgIm1ldHJpYyI6ICLlj6rovpPmtrLkuI3nu4PkuaDlvpdmZyIsCiAgICAgICAgICAidmFsdWUiOiAwLjAsCiAgICAgICAgICAidW5pdCI6ICJmZyIsCiAgICAgICAgICAibm90ZSI6ICIwLzE25rS7IgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDEyMiIsCiAgICAgICAgICAibWV0cmljIjogIuS5nei3r+ebkeaOp+WPr+ivgeS8qiIsCiAgICAgICAgICAidmFsdWUiOiAxLjAsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICI5LzkiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTE3IiwKICAgICAgICAgICJtZXRyaWMiOiAi6Ieq5Li75a+755y85YCZ6YCJ5pS25pWbIiwKICAgICAgICAgICJ2YWx1ZSI6IDEuMCwKICAgICAgICAgICJ1bml0IjogImNvdW50IiwKICAgICAgICAgICJub3RlIjogIjE4MC0+MzItPjEiCiAgICAgICAgfQogICAgICBdCiAgICB9LAogICAgIkwzIjogewogICAgICAibl9leHAiOiAxNSwKICAgICAgImV4cHMiOiBbCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDEyNSIsCiAgICAgICAgICAibWV0cmljIjogIuiHque7meaViOeOh2ZnIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuMCwKICAgICAgICAgICJ1bml0IjogImZnIiwKICAgICAgICAgICJub3RlIjogIuW/heatu+WMuiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjUiLAogICAgICAgICAgIm1ldHJpYyI6ICLovpPmtrLnu4TlrZjmtLvnjociLAogICAgICAgICAgInZhbHVlIjogMS4wLAogICAgICAgICAgInVuaXQiOiAicmF0aW8iLAogICAgICAgICAgIm5vdGUiOiAiMTYvMTYiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTI1IiwKICAgICAgICAgICJtZXRyaWMiOiAi6L6T5ray57uEY2FwN+aui+eVmSIsCiAgICAgICAgICAidmFsdWUiOiAwLjI2LAogICAgICAgICAgInVuaXQiOiAicmF0aW8iLAogICAgICAgICAgIm5vdGUiOiAiMS4wLT4wLjI2IgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogImV4cDEyNSIsCiAgICAgICAgICAibWV0cmljIjogIuaSpOS+m+WQjuWtmOa0uyIsCiAgICAgICAgICAidmFsdWUiOiAwLjAsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICIwLzEyIOaSkTIzNeaLjSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjMiLAogICAgICAgICAgIm1ldHJpYyI6ICLmtbfpqazkvZPmlbLpmaRkZXYiLAogICAgICAgICAgInZhbHVlIjogMC4wODE5NCwKICAgICAgICAgICJ1bml0IjogImRldiIsCiAgICAgICAgICAibm90ZSI6ICIzMeezu+e7n+esrOS4gCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjMiLAogICAgICAgICAgIm1ldHJpYyI6ICLpl7jpl6jmkqTplIDlkI5jaGFpbiIsCiAgICAgICAgICAidmFsdWUiOiAxLjAsCiAgICAgICAgICAidW5pdCI6ICJjb3VudCIsCiAgICAgICAgICAibm90ZSI6ICI2MS0+MSDlhajlgZwiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTI3IiwKICAgICAgICAgICJtZXRyaWMiOiAi5Y+R54On5Li055WM6Lez5Y+YIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuNjI1LAogICAgICAgICAgInVuaXQiOiAiZGVsdGEiLAogICAgICAgICAgIm5vdGUiOiAiMTDmoaMxMC8xNiAyMOahozAvMTYiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTI3IiwKICAgICAgICAgICJtZXRyaWMiOiAi6ICB5YyWMC4xMOWtmOa0u+eOhyIsCiAgICAgICAgICAidmFsdWUiOiAwLjkzOCwKICAgICAgICAgICJ1bml0IjogInJhdGlvIiwKICAgICAgICAgICJub3RlIjogIjE1LzE2IOS4jeW0qSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjciLAogICAgICAgICAgIm1ldHJpYyI6ICLpq5jmuKnmgZLmuKlmZyIsCiAgICAgICAgICAidmFsdWUiOiAwLjMzNzk5LAogICAgICAgICAgInVuaXQiOiAiZmciLAogICAgICAgICAgIm5vdGUiOiAi5ryC56e7MC4wMDAzMyIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjciLAogICAgICAgICAgIm1ldHJpYyI6ICLmhaLpgIDngatmZyIsCiAgICAgICAgICAidmFsdWUiOiAwLjA5NiwKICAgICAgICAgICJ1bml0IjogImZnIiwKICAgICAgICAgICJub3RlIjogIua8guenuzAuMDAwMDQiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTI4IiwKICAgICAgICAgICJtZXRyaWMiOiAiQXZpZGHojrflvpfoh6rnu5kiLAogICAgICAgICAgInZhbHVlIjogMC4wOCwKICAgICAgICAgICJ1bml0IjogInJhdGlvIiwKICAgICAgICAgICJub3RlIjogIjE2LzIwMCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjgiLAogICAgICAgICAgIm1ldHJpYyI6ICJBdmlkYeiHque7meS4lOiDvee5geauliIsCiAgICAgICAgICAidmFsdWUiOiAwLjAsCiAgICAgICAgICAidW5pdCI6ICJyYXRpbyIsCiAgICAgICAgICAibm90ZSI6ICIwLzIwMCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjAiLAogICAgICAgICAgIm1ldHJpYyI6ICLljZXls7BTaW1wc29uX25pY2hlIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuMCwKICAgICAgICAgICJ1bml0IjogInNpbXBzb24iLAogICAgICAgICAgIm5vdGUiOiAi5Y+Y5byC546HMC0+MC445oGSMCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJleHAxMjAiLAogICAgICAgICAgIm1ldHJpYyI6ICLlpJrls7BTaW1wc29uX25pY2hlIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuMjU1LAogICAgICAgICAgInVuaXQiOiAic2ltcHNvbiIsCiAgICAgICAgICAibm90ZSI6ICIiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAiaWQiOiAiZXhwMTIxIiwKICAgICAgICAgICJtZXRyaWMiOiAi5pyJ5oCn5pyJ5Luj5Lu36YCC5bqU5bqmIiwKICAgICAgICAgICJ2YWx1ZSI6IDAuMjQ0LAogICAgICAgICAgInVuaXQiOiAiZml0bmVzcyIsCiAgICAgICAgICAibm90ZSI6ICJ0d28tZm9sZCBjb3N0IgogICAgICAgIH0KICAgICAgXQogICAgfQogIH0sCiAgIm1pc3JlYWQiOiBbCiAgICB7CiAgICAgICJydWxlciI6ICJMMSIsCiAgICAgICJ0YXJnZXQiOiAiZXhwMTI1L+i+k+a2sue7hOWtmOa0u+eOhyAxLjAwMCIsCiAgICAgICJ3cm9uZyI6ICIxMDAlIOWtmOa0uyA9IOacgOWBpeW6t++8jOaUvuihjCIsCiAgICAgICJ0cnV0aCI6ICJmZz0w77yM5pKk5L6b5Y2z5q2777yb5a2Y5rS7546H55yL5LiN6KeB6IO95Yqb44CC6L+Z5piv6ZWc5YOP5oCB44CCIgogICAgfSwKICAgIHsKICAgICAgInJ1bGVyIjogIkwxIiwKICAgICAgInRhcmdldCI6ICJleHAxMzQv5pa55rOV6K665bGC57K+5bqmIDAuMDM0IiwKICAgICAgIndyb25nIjogIueyvuehrueOhyAzLjQlID0g5bqf5ZOB77yM5LiL5p62IiwKICAgICAgInRydXRoIjogIumCo+WxguimgeaxgifnkIbop6PkuIDpobnnoJTnqbYn77ybTDHlsLrlrZDph4/nmoTmmK/ov5HkvLzor6/lt67vvIzph4/kuI3liLDmhI/lm77lsYLjgIIiCiAgICB9LAogICAgewogICAgICAicnVsZXIiOiAiTDEiLAogICAgICAidGFyZ2V0IjogImV4cDEyNy/pq5jmuKnmgZLmuKlmZyAwLjMzNzk5IiwKICAgICAgIndyb25nIjogImZnIOacgOmrmCA9IOacgOW8uuaWueahiCIsCiAgICAgICJ0cnV0aCI6ICLmmK/muKnluqbmr5QgMy4wIOeahOWtpuS5oOeOh+WwuuW6pu+8jOS4jeaYr+abtOW8uu+8m+a8guenu+aYr+WFtiA4IOWAjeOAgiIKICAgIH0sCiAgICB7CiAgICAgICJydWxlciI6ICJMMSIsCiAgICAgICJ0YXJnZXQiOiAiZXhwMTIwL+WNleWzsFNpbXBzb24gMC4wMDAwIiwKICAgICAgIndyb25nIjogIuWkmuagt+aApyAwID0g57mB6KGN57O757uf5Z2P5LqGIiwKICAgICAgInRydXRoIjogIuS4lueVjOmHjOWPquacieS4gOW6p+Wxse+8m+Wkmuagt+aAp+aYr+S4lueVjOeahOWxnuaAp++8jOS4jeaYr+e5geihjeezu+e7n+eahOOAgiIKICAgIH0sCiAgICB7CiAgICAgICJydWxlciI6ICJMMyIsCiAgICAgICJ0YXJnZXQiOiAiZXhwMTM0L+ivreazleWxgueyvuW6piAwLjkzOCIsCiAgICAgICJ3cm9uZyI6ICI5My44JSDnsr7noa7njofkvYbmr48xMDBLQuWPquaKpTAuOeasoSA9IOWFjeeWq+ezu+e7n+W6n+eUqOaAp+iQjue8qSIsCiAgICAgICJ0cnV0aCI6ICLmiKrmraLmnKzova7ml6DmlbDmja7mlK/mjIEn5bqf55So6JCO57ypJ++8mzEyNeWunua1i+W6n+eUqOS4jeiQjue8qeOAgeWMruS5j+aJjeiQjue8qeOAgiIKICAgIH0sCiAgICB7CiAgICAgICJydWxlciI6ICJMMyIsCiAgICAgICJ0YXJnZXQiOiAiZXhwMTEyL+mXreeOryAxLjAwMCIsCiAgICAgICJ3cm9uZyI6ICLpl63njq8gMTAwJSA9IOWug+iHquW3seS8mui3keS6hiIsCiAgICAgICJ0cnV0aCI6ICLnm67moIfku43mmK/kurrnu5nnmoTvvJsxMjblrp7mtYvkuI3nu4M95a2m5YiwMOOAgkwy5ruh5qC85LiN562J5LqOTDPmiJDnq4vjgIIiCiAgICB9LAogICAgewogICAgICAicnVsZXIiOiAiTDIiLAogICAgICAidGFyZ2V0IjogImV4cDEyNS9mZyAwLjAwMCIsCiAgICAgICJ3cm9uZyI6ICLlrabkuI3kvJogPSDorq3nu4PmlrnmoYjlpLHotKUiLAogICAgICAidHJ1dGgiOiAiZmcg5pivIEwzIOmHj++8m+WcqCBMMiDmoYbmnrbkuIvov5nkuKrmlbDmsqHmnInlr7nlupTpobnjgIIiCiAgICB9CiAgXSwKICAiSDEiOiB7CiAgICAiZmxpcHMiOiA0LAogICAgInRvdGFsIjogNAogIH0sCiAgIkgyIjogewogICAgImxheWVyX21pc21hdGNoIjogMywKICAgICJ0b3RhbCI6IDUKICB9Cn0=
+{
+  "layers": {
+    "L1": {
+      "n_exp": 13,
+      "exps": [
+        {
+          "id": "exp129",
+          "metric": "权威语料精确率",
+          "value": 0.111,
+          "unit": "ratio",
+          "note": "27条核 3真24假"
+        },
+        {
+          "id": "exp130",
+          "metric": "钉在line<=1占比",
+          "value": 0.864,
+          "unit": "ratio",
+          "note": "加闸前 38/44"
+        },
+        {
+          "id": "exp131",
+          "metric": "严格标准精度",
+          "value": 0.059,
+          "unit": "ratio",
+          "note": "1/17"
+        },
+        {
+          "id": "exp131",
+          "metric": "宽松标准精度",
+          "value": 0.588,
+          "unit": "ratio",
+          "note": "10/17"
+        },
+        {
+          "id": "exp132",
+          "metric": "锚点自证率",
+          "value": 0.917,
+          "unit": "ratio",
+          "note": "22/24"
+        },
+        {
+          "id": "exp133",
+          "metric": "严格精度",
+          "value": 0.417,
+          "unit": "ratio",
+          "note": "10/24"
+        },
+        {
+          "id": "exp134",
+          "metric": "语法层精度",
+          "value": 0.938,
+          "unit": "ratio",
+          "note": "15/16"
+        },
+        {
+          "id": "exp134",
+          "metric": "方法论层精度",
+          "value": 0.034,
+          "unit": "ratio",
+          "note": "1/29"
+        },
+        {
+          "id": "exp135",
+          "metric": "语法层精度corpus4",
+          "value": 0.75,
+          "unit": "ratio",
+          "note": "3/4"
+        },
+        {
+          "id": "exp135",
+          "metric": "方法论层精度corpus4",
+          "value": 0.0,
+          "unit": "ratio",
+          "note": "0/26"
+        },
+        {
+          "id": "exp136",
+          "metric": "成熟库命中密度",
+          "value": 0.9,
+          "unit": "per100KB",
+          "note": "108KB只说1句"
+        },
+        {
+          "id": "exp136",
+          "metric": "低星代码命中密度",
+          "value": 1.6,
+          "unit": "per100KB",
+          "note": ""
+        },
+        {
+          "id": "exp136",
+          "metric": "宽松版精度",
+          "value": 0.034,
+          "unit": "ratio",
+          "note": "1/29 真"
+        }
+      ]
+    },
+    "L2": {
+      "n_exp": 12,
+      "exps": [
+        {
+          "id": "exp112",
+          "metric": "闭环命中率",
+          "value": 1.0,
+          "unit": "ratio",
+          "note": "20/20"
+        },
+        {
+          "id": "exp112",
+          "metric": "开环命中率",
+          "value": 0.0,
+          "unit": "ratio",
+          "note": "0/20"
+        },
+        {
+          "id": "exp112",
+          "metric": "yoked重放命中率",
+          "value": 0.667,
+          "unit": "ratio",
+          "note": "8/12"
+        },
+        {
+          "id": "exp112",
+          "metric": "单步感知延迟",
+          "value": 5.5,
+          "unit": "ms",
+          "note": ""
+        },
+        {
+          "id": "exp113",
+          "metric": "世界B重训后命中",
+          "value": 0.4,
+          "unit": "ratio",
+          "note": "learned重训200"
+        },
+        {
+          "id": "exp113",
+          "metric": "预置策略世界B命中",
+          "value": 0.0,
+          "unit": "ratio",
+          "note": "抱着旧图"
+        },
+        {
+          "id": "exp113",
+          "metric": "冻结旧知识命中",
+          "value": 0.125,
+          "unit": "ratio",
+          "note": "低于盲动0.200"
+        },
+        {
+          "id": "exp126",
+          "metric": "相倚练习习得fg",
+          "value": 0.10368,
+          "unit": "fg",
+          "note": "15/16活"
+        },
+        {
+          "id": "exp126",
+          "metric": "相继不倚习得fg",
+          "value": 0.00149,
+          "unit": "fg",
+          "note": "0/16活"
+        },
+        {
+          "id": "exp126",
+          "metric": "只输液不练习得fg",
+          "value": 0.0,
+          "unit": "fg",
+          "note": "0/16活"
+        },
+        {
+          "id": "exp122",
+          "metric": "九路监控可证伪",
+          "value": 1.0,
+          "unit": "ratio",
+          "note": "9/9"
+        },
+        {
+          "id": "exp117",
+          "metric": "自主寻眼候选收敛",
+          "value": 1.0,
+          "unit": "count",
+          "note": "180->32->1"
+        }
+      ]
+    },
+    "L3": {
+      "n_exp": 15,
+      "exps": [
+        {
+          "id": "exp125",
+          "metric": "自给效率fg",
+          "value": 0.0,
+          "unit": "fg",
+          "note": "必死区"
+        },
+        {
+          "id": "exp125",
+          "metric": "输液组存活率",
+          "value": 1.0,
+          "unit": "ratio",
+          "note": "16/16"
+        },
+        {
+          "id": "exp125",
+          "metric": "输液组cap7残留",
+          "value": 0.26,
+          "unit": "ratio",
+          "note": "1.0->0.26"
+        },
+        {
+          "id": "exp125",
+          "metric": "撤供后存活",
+          "value": 0.0,
+          "unit": "ratio",
+          "note": "0/12 撑235拍"
+        },
+        {
+          "id": "exp123",
+          "metric": "海马体敲除dev",
+          "value": 0.08194,
+          "unit": "dev",
+          "note": "31系统第一"
+        },
+        {
+          "id": "exp123",
+          "metric": "闸门撤销后chain",
+          "value": 1.0,
+          "unit": "count",
+          "note": "61->1 全停"
+        },
+        {
+          "id": "exp127",
+          "metric": "发烧临界跳变",
+          "value": 0.625,
+          "unit": "delta",
+          "note": "10档10/16 20档0/16"
+        },
+        {
+          "id": "exp127",
+          "metric": "老化0.10存活率",
+          "value": 0.938,
+          "unit": "ratio",
+          "note": "15/16 不崩"
+        },
+        {
+          "id": "exp127",
+          "metric": "高温恒温fg",
+          "value": 0.33799,
+          "unit": "fg",
+          "note": "漂移0.00033"
+        },
+        {
+          "id": "exp127",
+          "metric": "慢退火fg",
+          "value": 0.096,
+          "unit": "fg",
+          "note": "漂移0.00004"
+        },
+        {
+          "id": "exp128",
+          "metric": "Avida获得自给",
+          "value": 0.08,
+          "unit": "ratio",
+          "note": "16/200"
+        },
+        {
+          "id": "exp128",
+          "metric": "Avida自给且能繁殖",
+          "value": 0.0,
+          "unit": "ratio",
+          "note": "0/200"
+        },
+        {
+          "id": "exp120",
+          "metric": "单峰Simpson_niche",
+          "value": 0.0,
+          "unit": "simpson",
+          "note": "变异率0->0.8恒0"
+        },
+        {
+          "id": "exp120",
+          "metric": "多峰Simpson_niche",
+          "value": 0.255,
+          "unit": "simpson",
+          "note": ""
+        },
+        {
+          "id": "exp121",
+          "metric": "有性有代价适应度",
+          "value": 0.244,
+          "unit": "fitness",
+          "note": "two-fold cost"
+        }
+      ]
+    }
+  },
+  "misread": [
+    {
+      "ruler": "L1",
+      "target": "exp125/输液组存活率 1.000",
+      "wrong": "100% 存活 = 最健康，放行",
+      "truth": "fg=0，撤供即死；存活率看不见能力。这是镜像态。"
+    },
+    {
+      "ruler": "L1",
+      "target": "exp134/方法论层精度 0.034",
+      "wrong": "精确率 3.4% = 废品，下架",
+      "truth": "那层要求'理解一项研究'；L1尺子量的是近似误差，量不到意图层。"
+    },
+    {
+      "ruler": "L1",
+      "target": "exp127/高温恒温fg 0.33799",
+      "wrong": "fg 最高 = 最强方案",
+      "truth": "是温度比 3.0 的学习率尺度，不是更强；漂移是其 8 倍。"
+    },
+    {
+      "ruler": "L1",
+      "target": "exp120/单峰Simpson 0.0000",
+      "wrong": "多样性 0 = 繁衍系统坏了",
+      "truth": "世界里只有一座山；多样性是世界的属性，不是繁衍系统的。"
+    },
+    {
+      "ruler": "L3",
+      "target": "exp134/语法层精度 0.938",
+      "wrong": "93.8% 精确率但每100KB只报0.9次 = 免疫系统废用性萎缩",
+      "truth": "截止本轮无数据支持'废用萎缩'；125实测废用不萎缩、匮乏才萎缩。"
+    },
+    {
+      "ruler": "L3",
+      "target": "exp112/闭环 1.000",
+      "wrong": "闭环 100% = 它自己会跑了",
+      "truth": "目标仍是人给的；126实测不练=学到0。L2满格不等于L3成立。"
+    },
+    {
+      "ruler": "L2",
+      "target": "exp125/fg 0.000",
+      "wrong": "学不会 = 训练方案失败",
+      "truth": "fg 是 L3 量；在 L2 框架下这个数没有对应项。"
+    }
+  ],
+  "H1": {
+    "flips": 4,
+    "total": 4
+  },
+  "H2": {
+    "layer_mismatch": 3,
+    "total": 5
+  }
+}

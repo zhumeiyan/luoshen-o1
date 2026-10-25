@@ -1,1 +1,52 @@
-IiIiRklYVFVSRSAtIGRlbGliZXJhdGVseSBjb3JyZWN0LiBFdmVyeSBjYW5vbiBydWxlIHNhdGlzZmllZC4KZXZhbGd1YXJkIG11c3QgcmVwb3J0IFpFUk8gYmxvY2tlcnMgYW5kIFpFUk8gd2FybnMgb24gdGhpcyBmaWxlLiIiIgppbXBvcnQganNvbiwgcmFuZG9tLCB0aW1lLCByZXF1ZXN0cwoKU0VFRCA9IDIwMjYxMDE3CkNIQU5DRV9MRVZFTCA9IDAuMjUgICAgICAgICAgIyByYW5kb20gYmFzZWxpbmUgZm9yIGEgNC13YXkgY2hvaWNlClBPU0lUSVZFX0NPTlRST0xfVEFSR0VUID0gMS4wCgoKZGVmIHN3ZWVwX3RocmVzaG9sZHMoc2NvcmVzLCBsYWJlbHMpOgogICAgIiIiQ2Fub24gIzE0Mjogc3dlZXAsIGRvIG5vdCBoYXJkLWNvZGUgb25lIHRocmVzaG9sZC4iIiIKICAgIG91dCA9IHt9CiAgICBmb3IgdGF1IGluICgwLjAsIDAuMSwgMC4yLCAwLjMsIDAuNCwgMC41KToKICAgICAgICB0cCA9IHN1bSgxIGZvciBzLCB5IGluIHppcChzY29yZXMsIGxhYmVscykgaWYgcyA+IHRhdSBhbmQgeSA9PSAxKQogICAgICAgIG5fcG9zID0gc3VtKDEgZm9yIHkgaW4gbGFiZWxzIGlmIHkgPT0gMSkKICAgICAgICBkZW5vbSA9IG1heChuX3BvcywgMSkKICAgICAgICBvdXRbdGF1XSA9IHsidHAiOiB0cCwgIm5fcG9zIjogbl9wb3MsICJyZWNhbGwiOiB0cCAvIGRlbm9tfQogICAgcmV0dXJuIG91dAoKCmRlZiBwYWlyZWRfZGlmZihjb21tb24sIGEsIGIpOgogICAgIiIiQ2Fub24gIzQxOTogY29uZGl0aW9ucyB0aGF0IGNhbiBza2lwIG11c3QgYmUgY29tcGFyZWQgcGFpcmVkLiIiIgogICAgcmV0dXJuIFt4IC0geSBmb3IgeCwgeSBpbiB6aXAoYSwgYikgaWYgeCBpcyBub3QgTm9uZSBhbmQgeSBpcyBub3QgTm9uZV0KCgpkZWYgcGVyX2F4aXMoc2NvcmVzKToKICAgICIiIkNhbm9uICM0MjE6IHJlcG9ydCBlYWNoIGF4aXMsIG5ldmVyIG9ubHkgdGhlIGFnZ3JlZ2F0ZS4iIiIKICAgIHBlcl9heGlzX3Njb3JlcyA9IHtheDogc3VtKHYpIC8gbWF4KGxlbih2KSwgMSkgZm9yIGF4LCB2IGluIHNjb3Jlcy5pdGVtcygpfQogICAgcGVyX2F4aXNfc2NvcmVzWyJvdmVyYWxsIl0gPSBzdW0ocGVyX2F4aXNfc2NvcmVzLnZhbHVlcygpKSAvIG1heChsZW4ocGVyX2F4aXNfc2NvcmVzKSwgMSkKICAgIHJldHVybiBwZXJfYXhpc19zY29yZXMKCgpkZWYgcHJvYmUodXJsLCB0cmllcz0zKToKICAgICIiIkNhbm9uICMzNzc6IHJlLW1lYXN1cmUgcmVhY2hhYmlsaXR5LCBzdGFtcCBpdC4iIiIKICAgIGxvZyA9IFtdCiAgICBmb3IgXyBpbiByYW5nZSh0cmllcyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByID0gcmVxdWVzdHMuZ2V0KHVybCwgdGltZW91dD01KQogICAgICAgICAgICBsb2cuYXBwZW5kKHsic3RhdHVzX2NvZGUiOiByLnN0YXR1c19jb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAicmVhY2hhYmxlIjogci5zdGF0dXNfY29kZSA9PSAyMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICJ0aW1lc3RhbXAiOiB0aW1lLnRpbWUoKX0pCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2cuYXBwZW5kKHsicmVhY2hhYmxlIjogRmFsc2UsICJlcnJvciI6IHJlcHIoZSksICJ0aW1lc3RhbXAiOiB0aW1lLnRpbWUoKX0pCiAgICByZXR1cm4gbG9nCgoKZGVmIG1haW4oKToKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oU0VFRCkKICAgIGhlbGRfb3V0ID0gW3JuZy5yYW5kb20oKSBmb3IgXyBpbiByYW5nZSgyMDApXQogICAgd2l0aCBvcGVuKCJzd2VlcC5qc29uIiwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChzd2VlcF90aHJlc2hvbGRzKGhlbGRfb3V0LCBbMV0gKiBsZW4oaGVsZF9vdXQpKSwgZikKICAgIHJldHVybiB7Im9rIjogVHJ1ZX0K
+"""FIXTURE - deliberately correct. Every canon rule satisfied.
+evalguard must report ZERO blockers and ZERO warns on this file."""
+import json, random, time, requests
+
+SEED = 20261017
+CHANCE_LEVEL = 0.25          # random baseline for a 4-way choice
+POSITIVE_CONTROL_TARGET = 1.0
+
+
+def sweep_thresholds(scores, labels):
+    """Canon #142: sweep, do not hard-code one threshold."""
+    out = {}
+    for tau in (0.0, 0.1, 0.2, 0.3, 0.4, 0.5):
+        tp = sum(1 for s, y in zip(scores, labels) if s > tau and y == 1)
+        n_pos = sum(1 for y in labels if y == 1)
+        denom = max(n_pos, 1)
+        out[tau] = {"tp": tp, "n_pos": n_pos, "recall": tp / denom}
+    return out
+
+
+def paired_diff(common, a, b):
+    """Canon #419: conditions that can skip must be compared paired."""
+    return [x - y for x, y in zip(a, b) if x is not None and y is not None]
+
+
+def per_axis(scores):
+    """Canon #421: report each axis, never only the aggregate."""
+    per_axis_scores = {ax: sum(v) / max(len(v), 1) for ax, v in scores.items()}
+    per_axis_scores["overall"] = sum(per_axis_scores.values()) / max(len(per_axis_scores), 1)
+    return per_axis_scores
+
+
+def probe(url, tries=3):
+    """Canon #377: re-measure reachability, stamp it."""
+    log = []
+    for _ in range(tries):
+        try:
+            r = requests.get(url, timeout=5)
+            log.append({"status_code": r.status_code,
+                        "reachable": r.status_code == 200,
+                        "timestamp": time.time()})
+        except Exception as e:
+            log.append({"reachable": False, "error": repr(e), "timestamp": time.time()})
+    return log
+
+
+def main():
+    rng = random.Random(SEED)
+    held_out = [rng.random() for _ in range(200)]
+    with open("sweep.json", "w", encoding="utf-8") as f:
+        json.dump(sweep_thresholds(held_out, [1] * len(held_out)), f)
+    return {"ok": True}

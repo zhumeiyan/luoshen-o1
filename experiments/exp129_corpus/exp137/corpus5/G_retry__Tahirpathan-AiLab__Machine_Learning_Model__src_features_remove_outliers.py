@@ -1,1 +1,278 @@
-aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgbnVtcHkgYXMgbnAgIAppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBtYXRoCmltcG9ydCBzY2lweQpmcm9tIHNrbGVhcm4ubmVpZ2hib3JzIGltcG9ydCBMb2NhbE91dGxpZXJGYWN0b3IgICMgcGlwIGluc3RhbGwgc2Npa2l0LWxlYXJuCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgTG9hZCBkYXRhCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZGYgPSBwZC5yZWFkX3BpY2tsZSgiZGF0YS9pbnRlcmltL2RhdGFfcHJvY2Vzc2VkLnBrbCIpCgpvdXRsaWVyX2NvbHVtbnMgPSBsaXN0KGRmLmNvbHVtbnNbOjZdKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIFBsb3R0aW5nIG91dGxpZXJzCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KcGx0LnN0eWxlLnVzZSgiZml2ZXRoaXJ0eWVpZ2h0IikKcGx0LnJjUGFyYW1zWyJmaWd1cmUuZmlnc2l6ZSJdID0gKDIwLCA1KQpwbHQucmNQYXJhbXNbImZpZ3VyZS5kcGkiXSA9IDEwMAoKZGZbb3V0bGllcl9jb2x1bW5zWzozXSArIFsibGFibGUiXV0uYm94cGxvdChieT0ibGFibGUiLCBmaWdzaXplPSgyMCwgNSksIGxheW91dD0oMSwgMykpCmRmW291dGxpZXJfY29sdW1uc1szOl0gKyBbImxhYmxlIl1dLmJveHBsb3QoYnk9ImxhYmxlIiwgZmlnc2l6ZT0oMjAsIDUpLCBsYXlvdXQ9KDEsIDMpKQoKCmRlZiBwbG90X2JpbmFyeV9vdXRsaWVycyhkYXRhc2V0LCBjb2wsIG91dGxpZXJfY29sLCByZXNldF9pbmRleCk6CiAgICAiIiJQbG90IG91dGxpZXJzIGluIGNhc2Ugb2YgYSBiaW5hcnkgb3V0bGllciBzY29yZS4gSGVyZSwgdGhlIGNvbCBzcGVjaWZpZXMgdGhlIHJlYWwgZGF0YQogICAgY29sdW1uIGFuZCBvdXRsaWVyX2NvbCB0aGUgY29sdW1ucyB3aXRoIGEgYmluYXJ5IHZhbHVlIChvdXRsaWVyIG9yIG5vdCkuCgogICAgQXJnczoKICAgICAgICBkYXRhc2V0IChwZC5EYXRhRnJhbWUpOiBUaGUgZGF0YXNldAogICAgICAgIGNvbCAoc3RyaW5nKTogQ29sdW1uIHRoYXQgeW91IHdhbnQgdG8gcGxvdAogICAgICAgIG91dGxpZXJfY29sIChzdHJpbmcpOiBPdXRsaWVyIGNvbHVtbiBtYXJrZWQgd2l0aCB0cnVlL2ZhbHNlCiAgICAgICAgcmVzZXRfaW5kZXggKGJvb2wpOiB3aGV0aGVyIHRvIHJlc2V0IHRoZSBpbmRleCBmb3IgcGxvdHRpbmcKICAgICIiIgoKICAgICMgVGFrZW4gZnJvbTogaHR0cHM6Ly9naXRodWIuY29tL21ob29nZW4vTUw0UVMvYmxvYi9tYXN0ZXIvUHl0aG9uM0NvZGUvdXRpbC9WaXN1YWxpemVEYXRhc2V0LnB5CgogICAgZGF0YXNldCA9IGRhdGFzZXQuZHJvcG5hKGF4aXM9MCwgc3Vic2V0PVtjb2wsIG91dGxpZXJfY29sXSkKICAgIGRhdGFzZXRbb3V0bGllcl9jb2xdID0gZGF0YXNldFtvdXRsaWVyX2NvbF0uYXN0eXBlKCJib29sIikKCiAgICBpZiByZXNldF9pbmRleDoKICAgICAgICBkYXRhc2V0ID0gZGF0YXNldC5yZXNldF9pbmRleCgpCgogICAgZmlnLCBheCA9IHBsdC5zdWJwbG90cygpCgogICAgcGx0LnhsYWJlbCgic2FtcGxlcyIpCiAgICBwbHQueWxhYmVsKCJ2YWx1ZSIpCgogICAgIyBQbG90IG5vbiBvdXRsaWVycyBpbiBkZWZhdWx0IGNvbG9yCiAgICBheC5wbG90KAogICAgICAgIGRhdGFzZXQuaW5kZXhbfmRhdGFzZXRbb3V0bGllcl9jb2xdXSwKICAgICAgICBkYXRhc2V0W2NvbF1bfmRhdGFzZXRbb3V0bGllcl9jb2xdXSwKICAgICAgICAiKyIsCiAgICApCiAgICAjIFBsb3QgZGF0YSBwb2ludHMgdGhhdCBhcmUgb3V0bGllcnMgaW4gcmVkCiAgICBheC5wbG90KAogICAgICAgIGRhdGFzZXQuaW5kZXhbZGF0YXNldFtvdXRsaWVyX2NvbF1dLAogICAgICAgIGRhdGFzZXRbY29sXVtkYXRhc2V0W291dGxpZXJfY29sXV0sCiAgICAgICAgInIrIiwKICAgICkKCiAgICBwbHQubGVnZW5kKAogICAgICAgIFsib3V0bGllciAiICsgY29sLCAibm8gb3V0bGllciAiICsgY29sXSwKICAgICAgICBsb2M9InVwcGVyIGNlbnRlciIsCiAgICAgICAgbmNvbD0yLAogICAgICAgIGZhbmN5Ym94PVRydWUsCiAgICAgICAgc2hhZG93PVRydWUsCiAgICApCiAgICBwbHQuc2hvdygpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIEludGVycXVhcnRpbGUgcmFuZ2UgKGRpc3RyaWJ1dGlvbiBiYXNlZCkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKCiMgSW5zZXJ0IElRUiBmdW5jdGlvbgpkZWYgbWFya19vdXRsaWVyc19pcXIoZGF0YXNldCwgY29sKToKICAgICIiIkZ1bmN0aW9uIHRvIG1hcmsgdmFsdWVzIGFzIG91dGxpZXJzIHVzaW5nIHRoZSBJUVIgbWV0aG9kLgoKICAgIEFyZ3M6CiAgICAgICAgZGF0YXNldCAocGQuRGF0YUZyYW1lKTogVGhlIGRhdGFzZXQKICAgICAgICBjb2wgKHN0cmluZyk6IFRoZSBjb2x1bW4geW91IHdhbnQgYXBwbHkgb3V0bGllciBkZXRlY3Rpb24gdG8KCiAgICBSZXR1cm5zOgogICAgICAgIHBkLkRhdGFGcmFtZTogVGhlIG9yaWdpbmFsIGRhdGFmcmFtZSB3aXRoIGFuIGV4dHJhIGJvb2xlYW4gY29sdW1uCiAgICAgICAgaW5kaWNhdGluZyB3aGV0aGVyIHRoZSB2YWx1ZSBpcyBhbiBvdXRsaWVyIG9yIG5vdC4KICAgICIiIgoKICAgIGRhdGFzZXQgPSBkYXRhc2V0LmNvcHkoKQoKICAgIFExID0gZGF0YXNldFtjb2xdLnF1YW50aWxlKDAuMjUpCiAgICBRMyA9IGRhdGFzZXRbY29sXS5xdWFudGlsZSgwLjc1KQogICAgSVFSID0gUTMgLSBRMQoKICAgIGxvd2VyX2JvdW5kID0gUTEgLSAxLjUgKiBJUVIKICAgIHVwcGVyX2JvdW5kID0gUTMgKyAxLjUgKiBJUVIKCiAgICBkYXRhc2V0W2NvbCArICJfb3V0bGllciJdID0gKGRhdGFzZXRbY29sXSA8IGxvd2VyX2JvdW5kKSB8ICgKICAgICAgICBkYXRhc2V0W2NvbF0gPiB1cHBlcl9ib3VuZAogICAgKQoKICAgIHJldHVybiBkYXRhc2V0CgoKIyBQbG90IGEgc2luZ2xlIGNvbHVtbgpjb2wgPSAiYWNjX3giCmRhdGFzZXQgPSBtYXJrX291dGxpZXJzX2lxcihkZiwgY29sKQpwbG90X2JpbmFyeV9vdXRsaWVycygKICAgIGRhdGFzZXQ9ZGF0YXNldCwgY29sPWNvbCwgb3V0bGllcl9jb2w9Y29sICsgIl9vdXRsaWVyIiwgcmVzZXRfaW5kZXg9IlRydWUiCikKCiMgTG9vcCBvdmVyIGFsbCBjb2x1bW5zCmZvciBjb2wgaW4gb3V0bGllcl9jb2x1bW5zOgogICAgZGF0YXNldCA9IG1hcmtfb3V0bGllcnNfaXFyKGRmLCBjb2wpCiAgICBwbG90X2JpbmFyeV9vdXRsaWVycygKICAgICAgICBkYXRhc2V0PWRhdGFzZXQsIGNvbD1jb2wsIG91dGxpZXJfY29sPWNvbCArICJfb3V0bGllciIsIHJlc2V0X2luZGV4PSJUcnVlIgogICAgKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIENoYXV2ZW5ldHMgY3JpdGVyb24gKGRpc3RyaWJ1dGlvbiBiYXNlZCkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKIyBDaGVjayBmb3Igbm9ybWFsIGRpc3RyaWJ1dGlvbgpkZltvdXRsaWVyX2NvbHVtbnNbOjNdICsgWyJsYWJsZSJdXS5wbG90Lmhpc3QoCiAgICBieT0ibGFibGUiLCBmaWdzaXplPSgyMCwgMjApLCBsYXlvdXQ9KDMsIDMpCikKZGZbb3V0bGllcl9jb2x1bW5zWzM6XSArIFsibGFibGUiXV0ucGxvdC5oaXN0KAogICAgYnk9ImxhYmxlIiwgZmlnc2l6ZT0oMjAsIDIwKSwgbGF5b3V0PSgzLCAzKQopCnBsdC5zaG93KCkKCgojIEluc2VydCBDaGF1dmVuZXQncyBmdW5jdGlvbgpkZWYgbWFya19vdXRsaWVyc19jaGF1dmVuZXQoZGF0YXNldCwgY29sLCBDPTIpOgogICAgIiIiRmluZHMgb3V0bGllcnMgaW4gdGhlIHNwZWNpZmllZCBjb2x1bW4gb2YgZGF0YXRhYmxlIGFuZCBhZGRzIGEgYmluYXJ5IGNvbHVtbiB3aXRoCiAgICB0aGUgc2FtZSBuYW1lIGV4dGVuZGVkIHdpdGggJ19vdXRsaWVyJyB0aGF0IGV4cHJlc3NlcyB0aGUgcmVzdWx0IHBlciBkYXRhIHBvaW50LgoKICAgIFRha2VuIGZyb206IGh0dHBzOi8vZ2l0aHViLmNvbS9taG9vZ2VuL01MNFFTL2Jsb2IvbWFzdGVyL1B5dGhvbjNDb2RlL0NoYXB0ZXIzL091dGxpZXJEZXRlY3Rpb24ucHkKCiAgICBBcmdzOgogICAgICAgIGRhdGFzZXQgKHBkLkRhdGFGcmFtZSk6IFRoZSBkYXRhc2V0CiAgICAgICAgY29sIChzdHJpbmcpOiBUaGUgY29sdW1uIHlvdSB3YW50IGFwcGx5IG91dGxpZXIgZGV0ZWN0aW9uIHRvCiAgICAgICAgQyAoaW50LCBvcHRpb25hbCk6IERlZ3JlZSBvZiBjZXJ0YWludHkgZm9yIHRoZSBpZGVudGlmaWNhdGlvbiBvZiBvdXRsaWVycyBnaXZlbiB0aGUgYXNzdW1wdGlvbiBvZiBhIG5vcm1hbCBkaXN0cmlidXRpb24sIHR5cGljYWx5IGJldHdlZW4gMSAtIDEwLiBEZWZhdWx0cyB0byAyLgoKICAgIFJldHVybnM6CiAgICAgICAgcGQuRGF0YUZyYW1lOiBUaGUgb3JpZ2luYWwgZGF0YWZyYW1lIHdpdGggYW4gZXh0cmEgYm9vbGVhbiBjb2x1bW4KICAgICAgICBpbmRpY2F0aW5nIHdoZXRoZXIgdGhlIHZhbHVlIGlzIGFuIG91dGxpZXIgb3Igbm90LgogICAgIiIiCgogICAgZGF0YXNldCA9IGRhdGFzZXQuY29weSgpCiAgICAjIENvbXB1dGUgdGhlIG1lYW4gYW5kIHN0YW5kYXJkIGRldmlhdGlvbi4KICAgIG1lYW4gPSBkYXRhc2V0W2NvbF0ubWVhbigpCiAgICBzdGQgPSBkYXRhc2V0W2NvbF0uc3RkKCkKICAgIE4gPSBsZW4oZGF0YXNldC5pbmRleCkKICAgIGNyaXRlcmlvbiA9IDEuMCAvIChDICogTikKCiAgICAjIENvbnNpZGVyIHRoZSBkZXZpYXRpb24gZm9yIHRoZSBkYXRhIHBvaW50cy4KICAgIGRldmlhdGlvbiA9IGFicyhkYXRhc2V0W2NvbF0gLSBtZWFuKSAvIHN0ZAoKICAgICMgRXhwcmVzcyB0aGUgdXBwZXIgYW5kIGxvd2VyIGJvdW5kcy4KICAgIGxvdyA9IC1kZXZpYXRpb24gLyBtYXRoLnNxcnQoQykKICAgIGhpZ2ggPSBkZXZpYXRpb24gLyBtYXRoLnNxcnQoQykKICAgIHByb2IgPSBbXQogICAgbWFzayA9IFtdCgogICAgIyBQYXNzIGFsbCByb3dzIGluIHRoZSBkYXRhc2V0LgogICAgZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKGRhdGFzZXQuaW5kZXgpKToKICAgICAgICAjIERldGVybWluZSB0aGUgcHJvYmFiaWxpdHkgb2Ygb2JzZXJ2aW5nIHRoZSBwb2ludAogICAgICAgIHByb2IuYXBwZW5kKAogICAgICAgICAgICAxLjAKICAgICAgICAgICAgLSAwLjUgKiAoc2NpcHkuc3BlY2lhbC5lcmYoaGlnaC5pbG9jW2ldKSAtIHNjaXB5LnNwZWNpYWwuZXJmKGxvdy5pbG9jW2ldKSkKICAgICAgICApCiAgICAgICAgIyBBbmQgbWFyayBhcyBhbiBvdXRsaWVyIHdoZW4gdGhlIHByb2JhYmlsaXR5IGlzIGJlbG93IG91ciBjcml0ZXJpb24uCiAgICAgICAgbWFzay5hcHBlbmQocHJvYltpXSA8IGNyaXRlcmlvbikKICAgIGRhdGFzZXRbY29sICsgIl9vdXRsaWVyIl0gPSBtYXNrCiAgICByZXR1cm4gZGF0YXNldAoKCiMgTG9vcCBvdmVyIGFsbCBjb2x1bW5zCgpmb3IgY29sIGluIG91dGxpZXJfY29sdW1uczoKICAgIGRhdGFzZXQgPSBtYXJrX291dGxpZXJzX2NoYXV2ZW5ldChkZiwgY29sKQogICAgcGxvdF9iaW5hcnlfb3V0bGllcnMoCiAgICAgICAgZGF0YXNldD1kYXRhc2V0LCBjb2w9Y29sLCBvdXRsaWVyX2NvbD1jb2wgKyAiX291dGxpZXIiLCByZXNldF9pbmRleD0iVHJ1ZSIKICAgICkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIExvY2FsIG91dGxpZXIgZmFjdG9yIChkaXN0YW5jZSBiYXNlZCkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKCiMgSW5zZXJ0IExPRiBmdW5jdGlvbgpkZWYgbWFya19vdXRsaWVyc19sb2YoZGF0YXNldCwgY29sdW1ucywgbj0yMCk6CiAgICAiIiJNYXJrIHZhbHVlcyBhcyBvdXRsaWVycyB1c2luZyBMT0YKCiAgICBBcmdzOgogICAgICAgIGRhdGFzZXQgKHBkLkRhdGFGcmFtZSk6IFRoZSBkYXRhc2V0CiAgICAgICAgY29sIChzdHJpbmcpOiBUaGUgY29sdW1uIHlvdSB3YW50IGFwcGx5IG91dGxpZXIgZGV0ZWN0aW9uIHRvCiAgICAgICAgbiAoaW50LCBvcHRpb25hbCk6IG5fbmVpZ2hib3JzLiBEZWZhdWx0cyB0byAyMC4KCiAgICBSZXR1cm5zOgogICAgICAgIHBkLkRhdGFGcmFtZTogVGhlIG9yaWdpbmFsIGRhdGFmcmFtZSB3aXRoIGFuIGV4dHJhIGJvb2xlYW4gY29sdW1uCiAgICAgICAgaW5kaWNhdGluZyB3aGV0aGVyIHRoZSB2YWx1ZSBpcyBhbiBvdXRsaWVyIG9yIG5vdC4KICAgICIiIgoKICAgIGRhdGFzZXQgPSBkYXRhc2V0LmNvcHkoKQoKICAgIGxvZiA9IExvY2FsT3V0bGllckZhY3RvcihuX25laWdoYm9ycz1uKQogICAgZGF0YSA9IGRhdGFzZXRbY29sdW1uc10KICAgIG91dGxpZXJzID0gbG9mLmZpdF9wcmVkaWN0KGRhdGEpCiAgICBYX3Njb3JlcyA9IGxvZi5uZWdhdGl2ZV9vdXRsaWVyX2ZhY3Rvcl8KCiAgICBkYXRhc2V0WyJvdXRsaWVyX2xvZiJdID0gb3V0bGllcnMgPT0gLTEKICAgIHJldHVybiBkYXRhc2V0LCBvdXRsaWVycywgWF9zY29yZXMKCgojIExvb3Agb3ZlciBhbGwgY29sdW1ucwoKZGF0YXNldCwgb3V0bGllcnMsIFhfc2NvcmVzID0gbWFya19vdXRsaWVyc19sb2YoZGYsIGNvbCkKZm9yIGNvbCBpbiBvdXRsaWVyX2NvbHVtbnM6CiAgICBwbG90X2JpbmFyeV9vdXRsaWVycygKICAgICAgICBkYXRhc2V0PWRhdGFzZXQsIGNvbD1jb2wsIG91dGxpZXJfY29sPSJneXJfel9vdXRsaWVyIiwgcmVzZXRfaW5kZXg9IlRydWUiCiAgICApCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgQ2hlY2sgb3V0bGllcnMgZ3JvdXBlZCBieSBsYWJlbAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmxhYmVsID0gImJlbmNoIgoKZm9yIGNvbCBpbiBvdXRsaWVyX2NvbHVtbnM6CiAgICBkYXRhc2V0ID0gbWFya19vdXRsaWVyc19pcXIoZGZbZGZbImxhYmxlIl0gPT0gbGFiZWxdLCBjb2wpCiAgICBwbG90X2JpbmFyeV9vdXRsaWVycyhkYXRhc2V0LCBjb2wsIGNvbCArICJfb3V0bGllciIsIHJlc2V0X2luZGV4PSJUcnVlIikKCmZvciBjb2wgaW4gb3V0bGllcl9jb2x1bW5zOgogICAgZGF0YXNldCA9IG1hcmtfb3V0bGllcnNfY2hhdXZlbmV0KGRmW2RmWyJsYWJsZSJdID09IGxhYmVsXSwgY29sKQogICAgcGxvdF9iaW5hcnlfb3V0bGllcnMoZGF0YXNldCwgY29sLCBjb2wgKyAiX291dGxpZXIiLCByZXNldF9pbmRleD0iVHJ1ZSIpCgpkYXRhc2V0LCBvdXRsaWVycywgWF9zY29yZXMgPSBtYXJrX291dGxpZXJzX2xvZihkZiwgY29sKQpmb3IgY29sIGluIG91dGxpZXJfY29sdW1uczoKICAgIHBsb3RfYmluYXJ5X291dGxpZXJzKAogICAgICAgIGRhdGFzZXQ9ZGF0YXNldCwgY29sPWNvbCwgb3V0bGllcl9jb2w9Imd5cl96X291dGxpZXIiLCByZXNldF9pbmRleD0iVHJ1ZSIKICAgICkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIENob29zZSBtZXRob2QgYW5kIGRlYWwgd2l0aCBvdXRsaWVycwojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgojIFRlc3Qgb24gc2luZ2xlIGNvbHVtbgpjb2wgPSAiZ3lyX3oiCmRhdGFzZXQgPSBtYXJrX291dGxpZXJzX2NoYXV2ZW5ldChkZiwgY29sKQpkYXRhc2V0LmxvY1tkYXRhc2V0WyJneXJfel9vdXRsaWVyIl0sIGNvbF0gPSBucC5uYW4KCgojIENyZWF0ZSBhIGxvb3AKb3V0bGllcl9yZW1vdmVkX2RmID0gcGQuRGF0YUZyYW1lKCkKb3V0bGllcl9yZW1vdmVkX2RmID0gZGYuY29weSgpCgpmb3IgY29sIGluIG91dGxpZXJfY29sdW1uczoKICAgIGZvciBsYWJsZSBpbiBkZlsibGFibGUiXS51bmlxdWUoKToKICAgICAgICBkYXRhc2V0ID0gbWFya19vdXRsaWVyc19jaGF1dmVuZXQoZGZbZGZbImxhYmxlIl0gPT0gbGFiZWxdLCBjb2wpCgogICAgICAgICMgcmVwbGFjZSB2YWx1ZXMgbWFya3MgYXMgb3V0bGllcnMgd2l0aCBuYW4KICAgICAgICBkYXRhc2V0LmxvY1tkYXRhc2V0W2NvbCArICJfb3V0bGllciJdLCBjb2xdID0gbnAubmFuCgogICAgICAgICMgdXBkYXRlIHRoZSBjb2x1bW4gaW4gb3JpZ2luYWwgZGF0YSBzZXQKICAgICAgICBvdXRsaWVyX3JlbW92ZWRfZGYubG9jWyhvdXRsaWVyX3JlbW92ZWRfZGZbImxhYmxlIl0gPT0gbGFibGUpLCBjb2xdID0gZGF0YXNldFsKICAgICAgICAgICAgY29sCiAgICAgICAgXQoKICAgICAgICBuX291dGxpZXJzID0gbGVuKGRhdGFzZXQpIC0gbGVuKG91dGxpZXJfcmVtb3ZlZF9kZltjb2xdLmRyb3BuYSgpKQogICAgICAgIHByaW50KGYicmVtb3ZlZCB7bl9vdXRsaWVyc30gZm9yIHtjb2x9IGluIHtsYWJlbH0iKQoKb3V0bGllcl9yZW1vdmVkX2RmLmluZm8oKQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgRXhwb3J0IG5ldyBkYXRhZnJhbWUKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKb3V0bGllcl9yZW1vdmVkX2RmLnRvX3BpY2tsZSgiZGF0YS9pbnRlcmltL291dGxpZXJzX3JlbW92ZWRfY2hhdXZlbmV0LnBrbCIpCg==
+import pandas as pd
+import numpy as np  
+import matplotlib.pyplot as plt
+import math
+import scipy
+from sklearn.neighbors import LocalOutlierFactor  # pip install scikit-learn
+
+# --------------------------------------------------------------
+# Load data
+# --------------------------------------------------------------
+df = pd.read_pickle("data/interim/data_processed.pkl")
+
+outlier_columns = list(df.columns[:6])
+
+# --------------------------------------------------------------
+# Plotting outliers
+# --------------------------------------------------------------
+plt.style.use("fivethirtyeight")
+plt.rcParams["figure.figsize"] = (20, 5)
+plt.rcParams["figure.dpi"] = 100
+
+df[outlier_columns[:3] + ["lable"]].boxplot(by="lable", figsize=(20, 5), layout=(1, 3))
+df[outlier_columns[3:] + ["lable"]].boxplot(by="lable", figsize=(20, 5), layout=(1, 3))
+
+
+def plot_binary_outliers(dataset, col, outlier_col, reset_index):
+    """Plot outliers in case of a binary outlier score. Here, the col specifies the real data
+    column and outlier_col the columns with a binary value (outlier or not).
+
+    Args:
+        dataset (pd.DataFrame): The dataset
+        col (string): Column that you want to plot
+        outlier_col (string): Outlier column marked with true/false
+        reset_index (bool): whether to reset the index for plotting
+    """
+
+    # Taken from: https://github.com/mhoogen/ML4QS/blob/master/Python3Code/util/VisualizeDataset.py
+
+    dataset = dataset.dropna(axis=0, subset=[col, outlier_col])
+    dataset[outlier_col] = dataset[outlier_col].astype("bool")
+
+    if reset_index:
+        dataset = dataset.reset_index()
+
+    fig, ax = plt.subplots()
+
+    plt.xlabel("samples")
+    plt.ylabel("value")
+
+    # Plot non outliers in default color
+    ax.plot(
+        dataset.index[~dataset[outlier_col]],
+        dataset[col][~dataset[outlier_col]],
+        "+",
+    )
+    # Plot data points that are outliers in red
+    ax.plot(
+        dataset.index[dataset[outlier_col]],
+        dataset[col][dataset[outlier_col]],
+        "r+",
+    )
+
+    plt.legend(
+        ["outlier " + col, "no outlier " + col],
+        loc="upper center",
+        ncol=2,
+        fancybox=True,
+        shadow=True,
+    )
+    plt.show()
+
+
+# --------------------------------------------------------------
+# Interquartile range (distribution based)
+# --------------------------------------------------------------
+
+
+# Insert IQR function
+def mark_outliers_iqr(dataset, col):
+    """Function to mark values as outliers using the IQR method.
+
+    Args:
+        dataset (pd.DataFrame): The dataset
+        col (string): The column you want apply outlier detection to
+
+    Returns:
+        pd.DataFrame: The original dataframe with an extra boolean column
+        indicating whether the value is an outlier or not.
+    """
+
+    dataset = dataset.copy()
+
+    Q1 = dataset[col].quantile(0.25)
+    Q3 = dataset[col].quantile(0.75)
+    IQR = Q3 - Q1
+
+    lower_bound = Q1 - 1.5 * IQR
+    upper_bound = Q3 + 1.5 * IQR
+
+    dataset[col + "_outlier"] = (dataset[col] < lower_bound) | (
+        dataset[col] > upper_bound
+    )
+
+    return dataset
+
+
+# Plot a single column
+col = "acc_x"
+dataset = mark_outliers_iqr(df, col)
+plot_binary_outliers(
+    dataset=dataset, col=col, outlier_col=col + "_outlier", reset_index="True"
+)
+
+# Loop over all columns
+for col in outlier_columns:
+    dataset = mark_outliers_iqr(df, col)
+    plot_binary_outliers(
+        dataset=dataset, col=col, outlier_col=col + "_outlier", reset_index="True"
+    )
+
+# --------------------------------------------------------------
+# Chauvenets criteron (distribution based)
+# --------------------------------------------------------------
+
+# Check for normal distribution
+df[outlier_columns[:3] + ["lable"]].plot.hist(
+    by="lable", figsize=(20, 20), layout=(3, 3)
+)
+df[outlier_columns[3:] + ["lable"]].plot.hist(
+    by="lable", figsize=(20, 20), layout=(3, 3)
+)
+plt.show()
+
+
+# Insert Chauvenet's function
+def mark_outliers_chauvenet(dataset, col, C=2):
+    """Finds outliers in the specified column of datatable and adds a binary column with
+    the same name extended with '_outlier' that expresses the result per data point.
+
+    Taken from: https://github.com/mhoogen/ML4QS/blob/master/Python3Code/Chapter3/OutlierDetection.py
+
+    Args:
+        dataset (pd.DataFrame): The dataset
+        col (string): The column you want apply outlier detection to
+        C (int, optional): Degree of certainty for the identification of outliers given the assumption of a normal distribution, typicaly between 1 - 10. Defaults to 2.
+
+    Returns:
+        pd.DataFrame: The original dataframe with an extra boolean column
+        indicating whether the value is an outlier or not.
+    """
+
+    dataset = dataset.copy()
+    # Compute the mean and standard deviation.
+    mean = dataset[col].mean()
+    std = dataset[col].std()
+    N = len(dataset.index)
+    criterion = 1.0 / (C * N)
+
+    # Consider the deviation for the data points.
+    deviation = abs(dataset[col] - mean) / std
+
+    # Express the upper and lower bounds.
+    low = -deviation / math.sqrt(C)
+    high = deviation / math.sqrt(C)
+    prob = []
+    mask = []
+
+    # Pass all rows in the dataset.
+    for i in range(0, len(dataset.index)):
+        # Determine the probability of observing the point
+        prob.append(
+            1.0
+            - 0.5 * (scipy.special.erf(high.iloc[i]) - scipy.special.erf(low.iloc[i]))
+        )
+        # And mark as an outlier when the probability is below our criterion.
+        mask.append(prob[i] < criterion)
+    dataset[col + "_outlier"] = mask
+    return dataset
+
+
+# Loop over all columns
+
+for col in outlier_columns:
+    dataset = mark_outliers_chauvenet(df, col)
+    plot_binary_outliers(
+        dataset=dataset, col=col, outlier_col=col + "_outlier", reset_index="True"
+    )
+# --------------------------------------------------------------
+# Local outlier factor (distance based)
+# --------------------------------------------------------------
+
+
+# Insert LOF function
+def mark_outliers_lof(dataset, columns, n=20):
+    """Mark values as outliers using LOF
+
+    Args:
+        dataset (pd.DataFrame): The dataset
+        col (string): The column you want apply outlier detection to
+        n (int, optional): n_neighbors. Defaults to 20.
+
+    Returns:
+        pd.DataFrame: The original dataframe with an extra boolean column
+        indicating whether the value is an outlier or not.
+    """
+
+    dataset = dataset.copy()
+
+    lof = LocalOutlierFactor(n_neighbors=n)
+    data = dataset[columns]
+    outliers = lof.fit_predict(data)
+    X_scores = lof.negative_outlier_factor_
+
+    dataset["outlier_lof"] = outliers == -1
+    return dataset, outliers, X_scores
+
+
+# Loop over all columns
+
+dataset, outliers, X_scores = mark_outliers_lof(df, col)
+for col in outlier_columns:
+    plot_binary_outliers(
+        dataset=dataset, col=col, outlier_col="gyr_z_outlier", reset_index="True"
+    )
+
+# --------------------------------------------------------------
+# Check outliers grouped by label
+# --------------------------------------------------------------
+label = "bench"
+
+for col in outlier_columns:
+    dataset = mark_outliers_iqr(df[df["lable"] == label], col)
+    plot_binary_outliers(dataset, col, col + "_outlier", reset_index="True")
+
+for col in outlier_columns:
+    dataset = mark_outliers_chauvenet(df[df["lable"] == label], col)
+    plot_binary_outliers(dataset, col, col + "_outlier", reset_index="True")
+
+dataset, outliers, X_scores = mark_outliers_lof(df, col)
+for col in outlier_columns:
+    plot_binary_outliers(
+        dataset=dataset, col=col, outlier_col="gyr_z_outlier", reset_index="True"
+    )
+# --------------------------------------------------------------
+# Choose method and deal with outliers
+# --------------------------------------------------------------
+
+# Test on single column
+col = "gyr_z"
+dataset = mark_outliers_chauvenet(df, col)
+dataset.loc[dataset["gyr_z_outlier"], col] = np.nan
+
+
+# Create a loop
+outlier_removed_df = pd.DataFrame()
+outlier_removed_df = df.copy()
+
+for col in outlier_columns:
+    for lable in df["lable"].unique():
+        dataset = mark_outliers_chauvenet(df[df["lable"] == label], col)
+
+        # replace values marks as outliers with nan
+        dataset.loc[dataset[col + "_outlier"], col] = np.nan
+
+        # update the column in original data set
+        outlier_removed_df.loc[(outlier_removed_df["lable"] == lable), col] = dataset[
+            col
+        ]
+
+        n_outliers = len(dataset) - len(outlier_removed_df[col].dropna())
+        print(f"removed {n_outliers} for {col} in {label}")
+
+outlier_removed_df.info()
+# --------------------------------------------------------------
+# Export new dataframe
+# --------------------------------------------------------------
+
+outlier_removed_df.to_pickle("data/interim/outliers_removed_chauvenet.pkl")

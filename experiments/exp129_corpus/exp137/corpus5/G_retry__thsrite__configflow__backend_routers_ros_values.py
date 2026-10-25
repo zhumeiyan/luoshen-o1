@@ -1,1 +1,27 @@
-IiIiRXF1aXZhbGVudCBSb3V0ZXJPUyB3aXJlIHJlcHJlc2VudGF0aW9ucywgc2NvcGVkIHRvIGtub3duIHJlc291cmNlIGZpZWxkcy4KClVua25vd24gZmllbGRzLCBtaXNzaW5nIHZhbHVlcywgaW50ZXJmYWNlLXF1YWxpZmllZCBnYXRld2F5cyBhbmQgbm9uLW1haW4KbG9va3VwIHRhYmxlcyByZW1haW4gdW5jaGFuZ2VkLiBPd25lcnNoaXAgYmFzZWxpbmVzIGtlZXAgdGhlIG9yaWdpbmFsIHJvd3MuCiIiIgppbXBvcnQgaXBhZGRyZXNzCgoKZGVmIGNvbXBhcmFibGVfdmFsdWVzKHBhdGgsIHJvdyk6CiAgICByZXN1bHQgPSBkaWN0KHJvdykKICAgIGZpZWxkID0geycvcm91dGluZy90YWJsZSc6ICdmaWInLCAnL2lwL2ZpcmV3YWxsL21hbmdsZSc6ICdwYXNzdGhyb3VnaCd9LmdldChwYXRoKQogICAgaWYgZmllbGQgaW4gcmVzdWx0OgogICAgICAgIHZhbHVlID0gcmVzdWx0W2ZpZWxkXQogICAgICAgICMgZmliIGlzIGEgcHJlc2VuY2UgZmxhZywgdW5saWtlIG9yZGluYXJ5IHllcy9ubyBib29sZWFuIHByb3BlcnRpZXMuCiAgICAgICAgaWYgdmFsdWUgaXMgVHJ1ZSBvciB2YWx1ZSBpbiAoJ3RydWUnLCAneWVzJykgb3IgKGZpZWxkID09ICdmaWInIGFuZCB2YWx1ZSA9PSAnJyk6CiAgICAgICAgICAgIHJlc3VsdFtmaWVsZF0gPSAndHJ1ZScKICAgICAgICBlbGlmIHZhbHVlIGlzIEZhbHNlIG9yIHZhbHVlIGluICgnZmFsc2UnLCAnbm8nKToKICAgICAgICAgICAgcmVzdWx0W2ZpZWxkXSA9ICdmYWxzZScKICAgIGlmIHBhdGggPT0gJy9pcC9yb3V0ZScgYW5kIGlzaW5zdGFuY2UocmVzdWx0LmdldCgnZ2F0ZXdheScpLCBzdHIpOgogICAgICAgIGdhdGV3YXkgPSByZXN1bHRbJ2dhdGV3YXknXS5yZW1vdmVzdWZmaXgoJ0BtYWluJykKICAgICAgICB0cnk6CiAgICAgICAgICAgICMgQW4gb21pdHRlZCBsb29rdXAgdGFibGUgbWVhbnMgbWFpbi4gUmVzdHJpY3QgdGhpcyBlcXVpdmFsZW5jZSB0bwogICAgICAgICAgICAjIG9uZSBJUHY0IG5leHQgaG9wOyBuZXZlciBlcmFzZSBhbiBpbnRlcmZhY2Ugb3IgYW5vdGhlciB0YWJsZS4KICAgICAgICAgICAgcmVzdWx0WydnYXRld2F5J10gPSBzdHIoaXBhZGRyZXNzLklQdjRBZGRyZXNzKGdhdGV3YXkpKQogICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICBwYXNzCiAgICByZXR1cm4gcmVzdWx0Cg==
+"""Equivalent RouterOS wire representations, scoped to known resource fields.
+
+Unknown fields, missing values, interface-qualified gateways and non-main
+lookup tables remain unchanged. Ownership baselines keep the original rows.
+"""
+import ipaddress
+
+
+def comparable_values(path, row):
+    result = dict(row)
+    field = {'/routing/table': 'fib', '/ip/firewall/mangle': 'passthrough'}.get(path)
+    if field in result:
+        value = result[field]
+        # fib is a presence flag, unlike ordinary yes/no boolean properties.
+        if value is True or value in ('true', 'yes') or (field == 'fib' and value == ''):
+            result[field] = 'true'
+        elif value is False or value in ('false', 'no'):
+            result[field] = 'false'
+    if path == '/ip/route' and isinstance(result.get('gateway'), str):
+        gateway = result['gateway'].removesuffix('@main')
+        try:
+            # An omitted lookup table means main. Restrict this equivalence to
+            # one IPv4 next hop; never erase an interface or another table.
+            result['gateway'] = str(ipaddress.IPv4Address(gateway))
+        except ValueError:
+            pass
+    return result

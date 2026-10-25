@@ -1,1 +1,181 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIExpY2Vuc2VkIHRvIHRoZSBBcGFjaGUgU29mdHdhcmUgRm91bmRhdGlvbiAoQVNGKSB1bmRlciBvbmUKIyBvciBtb3JlIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUKIyBkaXN0cmlidXRlZCB3aXRoIHRoaXMgd29yayBmb3IgYWRkaXRpb25hbCBpbmZvcm1hdGlvbgojIHJlZ2FyZGluZyBjb3B5cmlnaHQgb3duZXJzaGlwLiAgVGhlIEFTRiBsaWNlbnNlcyB0aGlzIGZpbGUKIyB0byB5b3UgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlCiMgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZQojIHdpdGggdGhlIExpY2Vuc2UuICBZb3UgbWF5IG9idGFpbiBhIGNvcHkgb2YgdGhlIExpY2Vuc2UgYXQKIwojICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiMKIyBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsCiMgc29mdHdhcmUgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4KIyAiQVMgSVMiIEJBU0lTLCBXSVRIT1VUIFdBUlJBTlRJRVMgT1IgQ09ORElUSU9OUyBPRiBBTlkKIyBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLiAgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUKIyBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kIGxpbWl0YXRpb25zCiMgdW5kZXIgdGhlIExpY2Vuc2UuCiIiIkRlcml2ZSByZWdpc3RyeSB0cmlnZ2VyIGlucHV0cyBmb3IgcHVibGlzaC1kb2NzLXRvLXMzLnltbC4KCkltcGxlbWVudHMgdGhlIGdhdGluZyBsb2dpYyBmb3IgYXN0cm9ub21lci9pc3N1ZXMtYWlyZmxvdyMxMzA1LgoKV2F2ZSBkaXNwYXRjaGVzIHNlbmQgSU5DTFVERV9ET0NTPSJhbGwtcHJvdmlkZXJzIGFwYWNoZS1haXJmbG93LXByb3ZpZGVycyIKKHNlZSBkZXYvYnJlZXplL3NyYy9haXJmbG93X2JyZWV6ZS9jb21tYW5kcy93b3JrZmxvd19jb21tYW5kcy5weToxODgtMTk1CmFuZCBkZXYvUkVBRE1FX1JFTEVBU0VfUFJPVklERVJTLm1kKS4gV2hlbiBhIG1ldGEtdG9rZW4gaXMgcHJlc2VudCBhbmQgdGhlCnJlZiBpcyBhIHdhdmUgdGFnIChwcm92aWRlcnMvWVlZWS1NTS1ERCksIHRoaXMgc2NyaXB0IGRlcml2ZXMgdGhlIHdhdmUncwphY3R1YWwgcHJvdmlkZXIgbGlzdCBmcm9tIHBlci1wcm92aWRlciB0YWdzIHJlYWNoYWJsZSBmcm9tIHRoZSB3YXZlIHJlZgpidXQgbm90IGZyb20gdGhlIHByZXZpb3VzIHdhdmUgdGFnLCBzbyByZWdpc3RyeS1idWlsZCBydW5zIGluY3JlbWVudGFsbHkKb24ganVzdCB0aG9zZSBwcm92aWRlcnMuIEZhbGxzIGJhY2sgdG8gYSBmdWxsIHJlYnVpbGQgZm9yIG5vbi13YXZlIHJlZnMKb3Igd2hlbiB0aGUgZGVyaXZhdGlvbiBwcm9kdWNlcyBhbiBlbXB0eSBsaXN0LgoKVGFnLXB1c2ggb3JkZXJpbmc6IFJFQURNRV9SRUxFQVNFX1BST1ZJREVSUy5tZCBmbG93cyB0aGUgd2F2ZS10YWcgcHVzaApCRUZPUkUgcHJvdmlkZXIgUkMgdGFncy4gVG9kYXkgcHVibGlzaC1kb2NzLXRvLXMzIGlzIGRpc3BhdGNoZWQgbWFudWFsbHkKQUZURVIgYWxsIHByb3ZpZGVyIHRhZ3MgZXhpc3QsIHNvIHRoZSBkZXJpdmF0aW9uIGFsd2F5cyBoYXMgaXRzIGlucHV0cy4KQW55IGZ1dHVyZSBhdXRvLXRyaWdnZXIgb24gd2F2ZS10YWcgcHVzaCBtdXN0IGFkZHJlc3MgdGhpcyByYWNlLgoKSW5wdXRzIChlbnYpOiBJTkNMVURFX0RPQ1MsIFJFRiwgR0lUSFVCX09VVFBVVC4KT3V0cHV0cyAod3JpdHRlbiB0byBHSVRIVUJfT1VUUFVUKToKICByZWdpc3RyeS1wcm92aWRlcnMgICBzcGFjZS1zZXBhcmF0ZWQgcHJvdmlkZXIgSURzLCBvciAiIiBmb3IgZnVsbCBidWlsZAogIHJlZ2lzdHJ5LWZ1bGwtYnVpbGQgICJ0cnVlIiBmb3IgZnVsbCByZWJ1aWxkLCAiZmFsc2UiIG90aGVyd2lzZQoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBvcwppbXBvcnQgcmUKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHN5cwoKV0FWRV9UQUdfUkUgPSByZS5jb21waWxlKHIiXnByb3ZpZGVycy9bMC05XXs0fS1bMC05XXsyfS1bMC05XXsyfSQiKQpXQVZFX1RBR19HTE9CID0gInByb3ZpZGVycy9bMC05XSotKi0qIgpQUk9WSURFUl9UQUdfR0xPQiA9ICJwcm92aWRlcnMtKi8qIgpQUk9WSURFUl9UQUdfUkUgPSByZS5jb21waWxlKHIiXnByb3ZpZGVycy0oP1A8aWQ+Lis/KS8oP1A8dmVyPi4rKSQiKQpSQ19TVUZGSVhfUkUgPSByZS5jb21waWxlKHIicmNbMC05XSskIikKCk1FVEFfVE9LRU5TID0gZnJvemVuc2V0KHsiYWxsIiwgImFsbC1wcm92aWRlcnMiLCAiYXBhY2hlLWFpcmZsb3ctcHJvdmlkZXJzIn0pCiMgRXZlcnkgZG9jIGRpc3RyaWJ1dGlvbiB0aGF0IGlzIG5vdCBhIHByb3ZpZGVyLiBNdXN0IHN0YXkgZXF1YWwgdG8KIyBSRUdVTEFSX0RPQ19QQUNLQUdFUyBpbiBkZXYvYnJlZXplL3NyYy9haXJmbG93X2JyZWV6ZS9nbG9iYWxfY29uc3RhbnRzLnB5IG1pbnVzCiMgTUVUQV9UT0tFTlMgLS0gdGhhdCBjb25zdGFudCBpcyB0aGUgc291cmNlIG9mIHRydXRoIGZvciB3aGF0IGBpbmNsdWRlLWRvY3NgCiMgYWNjZXB0cywgYW5kIGEgdG9rZW4gbWlzc2luZyBoZXJlIGlzIHRyZWF0ZWQgYXMgYSBwcm92aWRlciBJRCwgd2hpY2ggZmFpbHMgdGhlCiMgcmVnaXN0cnkgZXh0cmFjdGlvbi4gdGVzdHMvdGVzdF9kZXJpdmVfd2F2ZV9wcm92aWRlcnMucHkgcGlucyB0aGUgdHdvIHRvZ2V0aGVyLgpOT05fUFJPVklERVJfVE9LRU5TID0gZnJvemVuc2V0KAogICAgewogICAgICAgICJhcGFjaGUtYWlyZmxvdyIsCiAgICAgICAgImhlbG0tY2hhcnQiLAogICAgICAgICJkb2NrZXItc3RhY2siLAogICAgICAgICJhcGFjaGUtYWlyZmxvdy1jdGwiLAogICAgICAgICJhcGFjaGUtYWlyZmxvdy1teXB5IiwKICAgICAgICAidGFzay1zZGsiLAogICAgICAgICJqYXZhLXNkayIsCiAgICAgICAgInRzLXNkayIsCiAgICB9CikKUFJPVklERVJfUFJFRklYID0gImFwYWNoZS1haXJmbG93LXByb3ZpZGVycy0iCgoKZGVmIF9naXQoKmFyZ3M6IHN0cikgLT4gbGlzdFtzdHJdOgogICAgcmVzdWx0ID0gc3VicHJvY2Vzcy5ydW4oWyJnaXQiLCAqYXJnc10sIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgY2hlY2s9VHJ1ZSkKICAgIHJldHVybiBbbGluZSBmb3IgbGluZSBpbiByZXN1bHQuc3Rkb3V0LnNwbGl0bGluZXMoKSBpZiBsaW5lXQoKCmRlZiBwcmV2aW91c193YXZlX3RhZyhyZWY6IHN0ciwgd2F2ZV90YWdzOiBsaXN0W3N0cl0pIC0+IHN0ciB8IE5vbmU6CiAgICAiIiJSZXR1cm4gdGhlIHdhdmUgdGFnIGltbWVkaWF0ZWx5IHByZWNlZGluZyByZWYsIG9yIE5vbmUuCgogICAgRmlsdGVycyBpbnB1dCB0aHJvdWdoIFdBVkVfVEFHX1JFIGJlY2F1c2UgdGhlIGdpdCBnbG9iIGBwcm92aWRlcnMvWzAtOV0qLSotKmAKICAgIGlzIGJyb2FkZXIgdGhhbiB0aGUgc3RyaWN0IGBwcm92aWRlcnMvWVlZWS1NTS1ERGAgc2hhcGUgYW5kIG1hdGNoZXMKICAgIHVucmVsYXRlZCB0YWdzIChlLmcuIGBwcm92aWRlcnMvMi4xMS8yMDI2LTAyLTE2YCBmb3IgYW4gQWlyZmxvdyAyLjExCiAgICByZWxlYXNlIHdpdGggYSBkYXRlIHN1ZmZpeCkuCiAgICAiIiIKICAgIHZhbGlkID0gW3QgZm9yIHQgaW4gd2F2ZV90YWdzIGlmIFdBVkVfVEFHX1JFLm1hdGNoKHQpXQogICAgdHJ5OgogICAgICAgIGlkeCA9IHZhbGlkLmluZGV4KHJlZikKICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgIHJldHVybiBOb25lCiAgICByZXR1cm4gdmFsaWRbaWR4ICsgMV0gaWYgaWR4ICsgMSA8IGxlbih2YWxpZCkgZWxzZSBOb25lCgoKZGVmIHdhdmVfcHJvdmlkZXJfaWRzKHRhZ3M6IGxpc3Rbc3RyXSkgLT4gbGlzdFtzdHJdOgogICAgIiIiUHJvdmlkZXIgSURzIGZyb20gcGVyLXByb3ZpZGVyIHRhZ3MsIGRyb3BwaW5nIHJjIHRhZ3MuIFNvcnRlZC4iIiIKICAgIGlkczogc2V0W3N0cl0gPSBzZXQoKQogICAgZm9yIHRhZyBpbiB0YWdzOgogICAgICAgIGlmIFJDX1NVRkZJWF9SRS5zZWFyY2godGFnKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBtYXRjaCA9IFBST1ZJREVSX1RBR19SRS5tYXRjaCh0YWcpCiAgICAgICAgaWYgbWF0Y2g6CiAgICAgICAgICAgIGlkcy5hZGQobWF0Y2guZ3JvdXAoImlkIikpCiAgICByZXR1cm4gc29ydGVkKGlkcykKCgpkZWYgcGFyc2VfZXhwbGljaXRfcGFja2FnZXMoaW5jbHVkZV9kb2NzOiBzdHIpIC0+IGxpc3Rbc3RyXToKICAgICIiIlBlci1wYWNrYWdlIGluY3JlbWVudGFsIHBhdGggLS0gSU5DTFVERV9ET0NTIHdpdGhvdXQgbWV0YS10b2tlbnMuIiIiCiAgICBwcm92aWRlcnM6IGxpc3Rbc3RyXSA9IFtdCiAgICBzZWVuOiBzZXRbc3RyXSA9IHNldCgpCiAgICBmb3IgdG9rZW4gaW4gaW5jbHVkZV9kb2NzLnNwbGl0KCk6CiAgICAgICAgaWYgdG9rZW4gaW4gTk9OX1BST1ZJREVSX1RPS0VOUyBvciB0b2tlbiBpbiBNRVRBX1RPS0VOUzoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiB0b2tlbi5zdGFydHN3aXRoKFBST1ZJREVSX1BSRUZJWCk6CiAgICAgICAgICAgIHByb3ZpZGVyX2lkID0gdG9rZW5bbGVuKFBST1ZJREVSX1BSRUZJWCkgOl0KICAgICAgICBlbHNlOgogICAgICAgICAgICBwcm92aWRlcl9pZCA9IHRva2VuLnJlcGxhY2UoIi4iLCAiLSIpCiAgICAgICAgaWYgcHJvdmlkZXJfaWQgYW5kIHByb3ZpZGVyX2lkIG5vdCBpbiBzZWVuOgogICAgICAgICAgICBzZWVuLmFkZChwcm92aWRlcl9pZCkKICAgICAgICAgICAgcHJvdmlkZXJzLmFwcGVuZChwcm92aWRlcl9pZCkKICAgIHJldHVybiBwcm92aWRlcnMKCgpkZWYgZGVyaXZlKGluY2x1ZGVfZG9jczogc3RyLCByZWY6IHN0ciwgKiwgZ2l0X3J1bm5lcj1fZ2l0KSAtPiB0dXBsZVtzdHIsIGJvb2wsIHN0cl06CiAgICAiIiJSZXR1cm4gKHJlZ2lzdHJ5X3Byb3ZpZGVycywgZnVsbF9idWlsZCwgbG9nX21lc3NhZ2UpLgoKICAgIFB1cmUgZnVuY3Rpb24gLS0gcGFzcyBnaXRfcnVubmVyPWZha2UgZm9yIHRlc3RzLgogICAgIiIiCiAgICB0b2tlbnMgPSBpbmNsdWRlX2RvY3Muc3BsaXQoKQogICAgaGFzX21ldGEgPSBhbnkodCBpbiBNRVRBX1RPS0VOUyBmb3IgdCBpbiB0b2tlbnMpCgogICAgaWYgbm90IGhhc19tZXRhOgogICAgICAgIHByb3ZpZGVycyA9IHBhcnNlX2V4cGxpY2l0X3BhY2thZ2VzKGluY2x1ZGVfZG9jcykKICAgICAgICByZXR1cm4gIiAiLmpvaW4ocHJvdmlkZXJzKSwgRmFsc2UsICIiCgogICAgaWYgbm90IFdBVkVfVEFHX1JFLm1hdGNoKHJlZik6CiAgICAgICAgcmV0dXJuICIiLCBUcnVlLCBmIlJFRj17cmVmfSBpcyBub3QgYSB3YXZlLXRhZyBwYXR0ZXJuOyB1c2luZyBmdWxsIHJlYnVpbGQgZm9yIG1ldGEtdG9rZW4gZGlzcGF0Y2guIgoKICAgIHdhdmVfdGFncyA9IGdpdF9ydW5uZXIoInRhZyIsICItLWxpc3QiLCBXQVZFX1RBR19HTE9CLCAiLS1zb3J0PS1jcmVhdG9yZGF0ZSIpCiAgICBwcmV2ID0gcHJldmlvdXNfd2F2ZV90YWcocmVmLCB3YXZlX3RhZ3MpCiAgICBpZiBub3QgcHJldjoKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAiIiwKICAgICAgICAgICAgVHJ1ZSwKICAgICAgICAgICAgZiI6Ondhcm5pbmc6Ok5vIHByZWRlY2Vzc29yIHdhdmUgdGFnIGZvdW5kIGJlZm9yZSB7cmVmfTsgZmFsbGluZyBiYWNrIHRvIGZ1bGwgcmVidWlsZC4iLAogICAgICAgICkKCiAgICByYXdfdGFncyA9IGdpdF9ydW5uZXIoInRhZyIsICItLW1lcmdlZCIsIHJlZiwgIi0tbm8tbWVyZ2VkIiwgcHJldiwgIi0tbGlzdCIsIFBST1ZJREVSX1RBR19HTE9CKQogICAgcHJvdmlkZXJzID0gd2F2ZV9wcm92aWRlcl9pZHMocmF3X3RhZ3MpCiAgICBpZiBub3QgcHJvdmlkZXJzOgogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICIiLAogICAgICAgICAgICBUcnVlLAogICAgICAgICAgICBmIjo6d2FybmluZzo6V2F2ZSByZWYge3JlZn0gaGFzIG5vIG5ldyBwZXItcHJvdmlkZXIgdGFncyBzaW5jZSB7cHJldn07IGZhbGxpbmcgYmFjayB0byBmdWxsIHJlYnVpbGQuIiwKICAgICAgICApCgogICAgam9pbmVkID0gIiAiLmpvaW4ocHJvdmlkZXJzKQogICAgcmV0dXJuIGpvaW5lZCwgRmFsc2UsIGYiRGVyaXZlZCB3YXZlIHByb3ZpZGVycyAoe3ByZXZ9IC0+IHtyZWZ9KToge2pvaW5lZH0iCgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICBpbmNsdWRlX2RvY3MgPSBvcy5lbnZpcm9uLmdldCgiSU5DTFVERV9ET0NTIiwgIiIpCiAgICByZWYgPSBvcy5lbnZpcm9uLmdldCgiUkVGIiwgIiIpCiAgICBvdXRwdXRfcGF0aCA9IG9zLmVudmlyb24uZ2V0KCJHSVRIVUJfT1VUUFVUIikKICAgIGlmIG5vdCBvdXRwdXRfcGF0aDoKICAgICAgICBwcmludCgiR0lUSFVCX09VVFBVVCBub3Qgc2V0IiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIHJldHVybiAxCgogICAgcmVnaXN0cnlfcHJvdmlkZXJzLCBmdWxsX2J1aWxkLCBsb2cgPSBkZXJpdmUoaW5jbHVkZV9kb2NzLCByZWYpCiAgICBpZiBsb2c6CiAgICAgICAgcHJpbnQobG9nKQogICAgd2l0aCBvcGVuKG91dHB1dF9wYXRoLCAiYSIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGZoOgogICAgICAgIGZoLndyaXRlKGYicmVnaXN0cnktcHJvdmlkZXJzPXtyZWdpc3RyeV9wcm92aWRlcnN9XG4iKQogICAgICAgIGZoLndyaXRlKGYicmVnaXN0cnktZnVsbC1idWlsZD17J3RydWUnIGlmIGZ1bGxfYnVpbGQgZWxzZSAnZmFsc2UnfVxuIikKICAgIHJldHVybiAwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN5cy5leGl0KG1haW4oKSkK
+#!/usr/bin/env python3
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#   http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+"""Derive registry trigger inputs for publish-docs-to-s3.yml.
+
+Implements the gating logic for astronomer/issues-airflow#1305.
+
+Wave dispatches send INCLUDE_DOCS="all-providers apache-airflow-providers"
+(see dev/breeze/src/airflow_breeze/commands/workflow_commands.py:188-195
+and dev/README_RELEASE_PROVIDERS.md). When a meta-token is present and the
+ref is a wave tag (providers/YYYY-MM-DD), this script derives the wave's
+actual provider list from per-provider tags reachable from the wave ref
+but not from the previous wave tag, so registry-build runs incrementally
+on just those providers. Falls back to a full rebuild for non-wave refs
+or when the derivation produces an empty list.
+
+Tag-push ordering: README_RELEASE_PROVIDERS.md flows the wave-tag push
+BEFORE provider RC tags. Today publish-docs-to-s3 is dispatched manually
+AFTER all provider tags exist, so the derivation always has its inputs.
+Any future auto-trigger on wave-tag push must address this race.
+
+Inputs (env): INCLUDE_DOCS, REF, GITHUB_OUTPUT.
+Outputs (written to GITHUB_OUTPUT):
+  registry-providers   space-separated provider IDs, or "" for full build
+  registry-full-build  "true" for full rebuild, "false" otherwise
+"""
+
+from __future__ import annotations
+
+import os
+import re
+import subprocess
+import sys
+
+WAVE_TAG_RE = re.compile(r"^providers/[0-9]{4}-[0-9]{2}-[0-9]{2}$")
+WAVE_TAG_GLOB = "providers/[0-9]*-*-*"
+PROVIDER_TAG_GLOB = "providers-*/*"
+PROVIDER_TAG_RE = re.compile(r"^providers-(?P<id>.+?)/(?P<ver>.+)$")
+RC_SUFFIX_RE = re.compile(r"rc[0-9]+$")
+
+META_TOKENS = frozenset({"all", "all-providers", "apache-airflow-providers"})
+# Every doc distribution that is not a provider. Must stay equal to
+# REGULAR_DOC_PACKAGES in dev/breeze/src/airflow_breeze/global_constants.py minus
+# META_TOKENS -- that constant is the source of truth for what `include-docs`
+# accepts, and a token missing here is treated as a provider ID, which fails the
+# registry extraction. tests/test_derive_wave_providers.py pins the two together.
+NON_PROVIDER_TOKENS = frozenset(
+    {
+        "apache-airflow",
+        "helm-chart",
+        "docker-stack",
+        "apache-airflow-ctl",
+        "apache-airflow-mypy",
+        "task-sdk",
+        "java-sdk",
+        "ts-sdk",
+    }
+)
+PROVIDER_PREFIX = "apache-airflow-providers-"
+
+
+def _git(*args: str) -> list[str]:
+    result = subprocess.run(["git", *args], capture_output=True, text=True, check=True)
+    return [line for line in result.stdout.splitlines() if line]
+
+
+def previous_wave_tag(ref: str, wave_tags: list[str]) -> str | None:
+    """Return the wave tag immediately preceding ref, or None.
+
+    Filters input through WAVE_TAG_RE because the git glob `providers/[0-9]*-*-*`
+    is broader than the strict `providers/YYYY-MM-DD` shape and matches
+    unrelated tags (e.g. `providers/2.11/2026-02-16` for an Airflow 2.11
+    release with a date suffix).
+    """
+    valid = [t for t in wave_tags if WAVE_TAG_RE.match(t)]
+    try:
+        idx = valid.index(ref)
+    except ValueError:
+        return None
+    return valid[idx + 1] if idx + 1 < len(valid) else None
+
+
+def wave_provider_ids(tags: list[str]) -> list[str]:
+    """Provider IDs from per-provider tags, dropping rc tags. Sorted."""
+    ids: set[str] = set()
+    for tag in tags:
+        if RC_SUFFIX_RE.search(tag):
+            continue
+        match = PROVIDER_TAG_RE.match(tag)
+        if match:
+            ids.add(match.group("id"))
+    return sorted(ids)
+
+
+def parse_explicit_packages(include_docs: str) -> list[str]:
+    """Per-package incremental path -- INCLUDE_DOCS without meta-tokens."""
+    providers: list[str] = []
+    seen: set[str] = set()
+    for token in include_docs.split():
+        if token in NON_PROVIDER_TOKENS or token in META_TOKENS:
+            continue
+        if token.startswith(PROVIDER_PREFIX):
+            provider_id = token[len(PROVIDER_PREFIX) :]
+        else:
+            provider_id = token.replace(".", "-")
+        if provider_id and provider_id not in seen:
+            seen.add(provider_id)
+            providers.append(provider_id)
+    return providers
+
+
+def derive(include_docs: str, ref: str, *, git_runner=_git) -> tuple[str, bool, str]:
+    """Return (registry_providers, full_build, log_message).
+
+    Pure function -- pass git_runner=fake for tests.
+    """
+    tokens = include_docs.split()
+    has_meta = any(t in META_TOKENS for t in tokens)
+
+    if not has_meta:
+        providers = parse_explicit_packages(include_docs)
+        return " ".join(providers), False, ""
+
+    if not WAVE_TAG_RE.match(ref):
+        return "", True, f"REF={ref} is not a wave-tag pattern; using full rebuild for meta-token dispatch."
+
+    wave_tags = git_runner("tag", "--list", WAVE_TAG_GLOB, "--sort=-creatordate")
+    prev = previous_wave_tag(ref, wave_tags)
+    if not prev:
+        return (
+            "",
+            True,
+            f"::warning::No predecessor wave tag found before {ref}; falling back to full rebuild.",
+        )
+
+    raw_tags = git_runner("tag", "--merged", ref, "--no-merged", prev, "--list", PROVIDER_TAG_GLOB)
+    providers = wave_provider_ids(raw_tags)
+    if not providers:
+        return (
+            "",
+            True,
+            f"::warning::Wave ref {ref} has no new per-provider tags since {prev}; falling back to full rebuild.",
+        )
+
+    joined = " ".join(providers)
+    return joined, False, f"Derived wave providers ({prev} -> {ref}): {joined}"
+
+
+def main() -> int:
+    include_docs = os.environ.get("INCLUDE_DOCS", "")
+    ref = os.environ.get("REF", "")
+    output_path = os.environ.get("GITHUB_OUTPUT")
+    if not output_path:
+        print("GITHUB_OUTPUT not set", file=sys.stderr)
+        return 1
+
+    registry_providers, full_build, log = derive(include_docs, ref)
+    if log:
+        print(log)
+    with open(output_path, "a", encoding="utf-8") as fh:
+        fh.write(f"registry-providers={registry_providers}\n")
+        fh.write(f"registry-full-build={'true' if full_build else 'false'}\n")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

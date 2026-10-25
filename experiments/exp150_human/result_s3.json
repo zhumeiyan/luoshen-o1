@@ -1,1 +1,55 @@
-ewogIm1vcnRhbCI6IHsKICAicmF0ZSI6IDEuMCwKICAidmFscyI6IFsKICAgMS4wLAogICAxLjAsCiAgIDEuMCwKICAgMS4wLAogICAxLjAsCiAgIDEuMCwKICAgMS4wLAogICAxLjAsCiAgIDEuMCwKICAgMS4wCiAgXQogfSwKICJyZWNvdmVyYWJsZSI6IHsKICAicmF0ZSI6IDAuMCwKICAidmFscyI6IFsKICAgMC4wLAogICAwLjAsCiAgIDAuMCwKICAgMC4wLAogICAwLjAsCiAgIDAuMCwKICAgMC4wLAogICAwLjAsCiAgIDAuMCwKICAgMC4wCiAgXQogfSwKICJibGluZCI6IHsKICAicmF0ZSI6IDAuNSwKICAidmFscyI6IFsKICAgMS4wLAogICAwLjAsCiAgIDEuMCwKICAgMC4wLAogICAxLjAsCiAgIDAuMCwKICAgMS4wLAogICAwLjAsCiAgIDEuMCwKICAgMC4wCiAgXQogfSwKICJIM19tb3J0YWxfbWludXNfcmVjb3ZlcmFibGUiOiB7CiAgIm1lYW4iOiAxLjAsCiAgImNpIjogWwogICAxLjAsCiAgIDEuMAogIF0sCiAgInBhc3MiOiB0cnVlCiB9Cn0=
+{
+ "mortal": {
+  "rate": 1.0,
+  "vals": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "recoverable": {
+  "rate": 0.0,
+  "vals": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "blind": {
+  "rate": 0.5,
+  "vals": [
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0
+  ]
+ },
+ "H3_mortal_minus_recoverable": {
+  "mean": 1.0,
+  "ci": [
+   1.0,
+   1.0
+  ],
+  "pass": true
+ }
+}

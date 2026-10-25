@@ -1,1 +1,69 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIyN2Ig5L+u5q2j54mI77ya6YG/5YWN6aWx5ZKMCi0gSz0yNTYg5a656YePLCBTVEVQUz0zMDDvvIjkuI3otrPloavmu6HvvIkKLSDpmr7luqbnur/mgKfkuIrljYfvvIxyZWFsIOawuOi/nOi/veS4jeS4iu+8jOW9ouaIkOair+W6pgotIGV4byAgOiDmr4/mraXluKbmnaXni6znq4vmlrDkvY3vvIjlpJbotK3vvIzkuI7oh6rlt7Hml6DlhbPvvIkKLSBhdXRvIDog5Li76KaB5aSN5Yi25bey5pyJ5L2N77yI5YaX5L2Z77yJ77yM5Y+q5pyJ5p6B5bCR5paw5oSPCi0gbWl4ZWQ6IOaMieavlOS+i+a3t+WQiArmjIfmoIc6IHJlYWw954us54m56KaG55uWL0ssIHN1cmZhY2U95aSW6K6+5pWwL+S4iumZkCwg6Jma6IOWPXN1cmZhY2UtcmVhbCwg57y65Y+jPemavuW6pi1yZWFsCiIiIgppbXBvcnQgbnVtcHkgYXMgbnAKCkssIE4sIFNURVBTID0gMjU2LCAyMDAsIDMwMApDQVAgPSA0MC4wICAjIHN1cmZhY2Ug5b2S5LiA5YyW5LiK6ZmQCgpkZWYgcnVuKG1vZGUsIHNlZWQ9MCwgZXhvX3JhdGU9MC4zMCwgY3V0b2ZmPU5vbmUpOgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBrZXJuZWwgPSBybmcucmFuZG9tKChOLCBLKSkgPCAwLjA1CiAgICBwZXJpICAgPSBucC56ZXJvcygoTiwgSyksIGJvb2wpCiAgICBwcyA9IG5wLnplcm9zKE4pCiAgICBmb3IgdCBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgZGlmZiA9IDAuMDUgKyAwLjg1ICogdCAvIFNURVBTCiAgICAgICAgZXhvX29wZW4gPSAoY3V0b2ZmIGlzIE5vbmUpIG9yICh0IDwgY3V0b2ZmKQogICAgICAgIGZvciBpIGluIHJhbmdlKE4pOgogICAgICAgICAgICBpZiBtb2RlID09ICdleG8nOgogICAgICAgICAgICAgICAgbSA9IHJuZy5yYW5kb20oSykgPCAwLjA2CiAgICAgICAgICAgIGVsaWYgbW9kZSA9PSAnYXV0byc6CiAgICAgICAgICAgICAgICBiYXNlID0gcGVyaVtpXSB8IGtlcm5lbFtpXQogICAgICAgICAgICAgICAgaWYgYmFzZS5zdW0oKSBhbmQgcm5nLnJhbmRvbSgpIDwgMC41OgogICAgICAgICAgICAgICAgICAgIG0gPSBiYXNlICYgKHJuZy5yYW5kb20oSykgPCAwLjkwKSAgICAgICMg57qv5YaX5L2ZCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIG0gPSBybmcucmFuZG9tKEspIDwgMC4wMDQgICAgICAgICAgICAgICAjIOaegeWwkeaWsOaEjwogICAgICAgICAgICBlbGlmIG1vZGUgPT0gJ21peGVkJzoKICAgICAgICAgICAgICAgIGlmIGV4b19vcGVuIGFuZCBybmcucmFuZG9tKCkgPCBleG9fcmF0ZToKICAgICAgICAgICAgICAgICAgICBtID0gcm5nLnJhbmRvbShLKSA8IDAuMDYKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYmFzZSA9IHBlcmlbaV0gfCBrZXJuZWxbaV0KICAgICAgICAgICAgICAgICAgICBtID0gKGJhc2UgJiAocm5nLnJhbmRvbShLKSA8IDAuOTApKSBpZiAoYmFzZS5zdW0oKSBhbmQgcm5nLnJhbmRvbSgpPDAuNSkgXAogICAgICAgICAgICAgICAgICAgICAgICBlbHNlIChybmcucmFuZG9tKEspIDwgMC4wMDQpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBtID0gbnAuemVyb3MoSywgYm9vbCkKICAgICAgICAgICAgaWYgbS5hbnkoKToKICAgICAgICAgICAgICAgIHBlcmlbaV0gfD0gbTsgcHNbaV0gKz0gMQogICAgZGlmZiA9IDAuMDUgKyAwLjg1KihTVEVQUy0xKS9TVEVQUwogICAgcmVhbCA9IChwZXJpIHwga2VybmVsKS5zdW0oMSkubWVhbigpL0sKICAgIHN1cmYgPSBtaW4oMS4wLCBwcy5tZWFuKCkvQ0FQKQogICAgcmV0dXJuIGRpY3QocmVhbD1yZWFsLCBzdXJmPXN1cmYsIGJsb2F0PXN1cmYtcmVhbCwgZ2FwPWRpZmYtcmVhbCkKCnByaW50KCLmqKHlvI8gICAgICDnnJ/lrp7og73lipsgICDlkI3kuYnog73lipsgICDomZrog5bmjIfmlbAgICDog73lipvnvLrlj6Mo6LaK5L2O6LaK5aW9KSIpCmZvciBtIGluIFsnbm9uZScsJ2V4bycsJ2F1dG8nLCdtaXhlZCddOgogICAgcnMgPSBbcnVuKG0sIHNlZWQ9cykgZm9yIHMgaW4gcmFuZ2UoNildCiAgICBwcmludChmInttOjhzfSAge25wLm1lYW4oW3JbJ3JlYWwnXSBmb3IgciBpbiByc10pOi4zZn0gICAgICIKICAgICAgICAgIGYie25wLm1lYW4oW3JbJ3N1cmYnXSBmb3IgciBpbiByc10pOi4zZn0gICAgICIKICAgICAgICAgIGYie25wLm1lYW4oW3JbJ2Jsb2F0J10gZm9yIHIgaW4gcnNdKTorLjNmfSAgICAgIgogICAgICAgICAgZiJ7bnAubWVhbihbclsnZ2FwJ10gZm9yIHIgaW4gcnNdKTouM2Z9IikKCnByaW50KCJcbi0tLSBleG8g5Y2g5q+U5omr5o+P77yIbWl4ZWTvvIktLS0iKQpwcmludCgi5aSW6LSt546HICAg55yf5a6e6IO95YqbICAg6Jma6IOW5oyH5pWwICAg6IO95Yqb57y65Y+jIikKZm9yIHEgaW4gWzAuMCwwLjEsMC4yLDAuMywwLjUsMC43LDEuMF06CiAgICBycyA9IFtydW4oJ21peGVkJywgc2VlZD1zLCBleG9fcmF0ZT1xKSBmb3IgcyBpbiByYW5nZSg2KV0KICAgIHByaW50KGYie3E6NS4yZn0gICAge25wLm1lYW4oW3JbJ3JlYWwnXSBmb3IgciBpbiByc10pOi4zZn0gICAgICIKICAgICAgICAgIGYie25wLm1lYW4oW3JbJ2Jsb2F0J10gZm9yIHIgaW4gcnNdKTorLjNmfSAgICAge25wLm1lYW4oW3JbJ2dhcCddIGZvciByIGluIHJzXSk6LjNmfSIpCgpwcmludCgiXG4tLS0g5pat5L6b77yIdD0xNTAg5YWz6Zet5aSW6LSt5rGg77yJLS0tIikKZm9yIHMgaW4gcmFuZ2UoNik6CiAgICBhID0gcnVuKCdtaXhlZCcsIHNlZWQ9cywgY3V0b2ZmPTE1MCkKICAgIGIgPSBydW4oJ21peGVkJywgc2VlZD1zLCBjdXRvZmY9Tm9uZSkKICAgIHByaW50KGYic2VlZHtzfSAg5pat5L6bIHJlYWw9e2FbJ3JlYWwnXTouM2Z9IHN1cmY9e2FbJ3N1cmYnXTouM2Z9IHwgIgogICAgICAgICAgZiLkuI3mlq3kvpsgcmVhbD17YlsncmVhbCddOi4zZn0gc3VyZj17Ylsnc3VyZiddOi4zZn0iKQo=
+# -*- coding: utf-8 -*-
+"""
+227b 修正版：避免饱和
+- K=256 容量, STEPS=300（不足填满）
+- 难度线性上升，real 永远追不上，形成梯度
+- exo  : 每步带来独立新位（外购，与自己无关）
+- auto : 主要复制已有位（冗余），只有极少新意
+- mixed: 按比例混合
+指标: real=独特覆盖/K, surface=外设数/上限, 虚胖=surface-real, 缺口=难度-real
+"""
+import numpy as np
+
+K, N, STEPS = 256, 200, 300
+CAP = 40.0  # surface 归一化上限
+
+def run(mode, seed=0, exo_rate=0.30, cutoff=None):
+    rng = np.random.default_rng(seed)
+    kernel = rng.random((N, K)) < 0.05
+    peri   = np.zeros((N, K), bool)
+    ps = np.zeros(N)
+    for t in range(STEPS):
+        diff = 0.05 + 0.85 * t / STEPS
+        exo_open = (cutoff is None) or (t < cutoff)
+        for i in range(N):
+            if mode == 'exo':
+                m = rng.random(K) < 0.06
+            elif mode == 'auto':
+                base = peri[i] | kernel[i]
+                if base.sum() and rng.random() < 0.5:
+                    m = base & (rng.random(K) < 0.90)      # 纯冗余
+                else:
+                    m = rng.random(K) < 0.004               # 极少新意
+            elif mode == 'mixed':
+                if exo_open and rng.random() < exo_rate:
+                    m = rng.random(K) < 0.06
+                else:
+                    base = peri[i] | kernel[i]
+                    m = (base & (rng.random(K) < 0.90)) if (base.sum() and rng.random()<0.5) \
+                        else (rng.random(K) < 0.004)
+            else:
+                m = np.zeros(K, bool)
+            if m.any():
+                peri[i] |= m; ps[i] += 1
+    diff = 0.05 + 0.85*(STEPS-1)/STEPS
+    real = (peri | kernel).sum(1).mean()/K
+    surf = min(1.0, ps.mean()/CAP)
+    return dict(real=real, surf=surf, bloat=surf-real, gap=diff-real)
+
+print("模式      真实能力   名义能力   虚胖指数   能力缺口(越低越好)")
+for m in ['none','exo','auto','mixed']:
+    rs = [run(m, seed=s) for s in range(6)]
+    print(f"{m:8s}  {np.mean([r['real'] for r in rs]):.3f}     "
+          f"{np.mean([r['surf'] for r in rs]):.3f}     "
+          f"{np.mean([r['bloat'] for r in rs]):+.3f}     "
+          f"{np.mean([r['gap'] for r in rs]):.3f}")
+
+print("\n--- exo 占比扫描（mixed）---")
+print("外购率   真实能力   虚胖指数   能力缺口")
+for q in [0.0,0.1,0.2,0.3,0.5,0.7,1.0]:
+    rs = [run('mixed', seed=s, exo_rate=q) for s in range(6)]
+    print(f"{q:5.2f}    {np.mean([r['real'] for r in rs]):.3f}     "
+          f"{np.mean([r['bloat'] for r in rs]):+.3f}     {np.mean([r['gap'] for r in rs]):.3f}")
+
+print("\n--- 断供（t=150 关闭外购池）---")
+for s in range(6):
+    a = run('mixed', seed=s, cutoff=150)
+    b = run('mixed', seed=s, cutoff=None)
+    print(f"seed{s}  断供 real={a['real']:.3f} surf={a['surf']:.3f} | "
+          f"不断供 real={b['real']:.3f} surf={b['surf']:.3f}")

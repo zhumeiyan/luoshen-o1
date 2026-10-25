@@ -1,1 +1,64 @@
-IiIiNyBEQy1hcmVhIFVTR1MgZ2F1Z2VzIHdpdGhpbiB+MjAga20gb2YgZG93bnRvd24uCgpNaXggb2YgdXJiYW4gKEFuYWNvc3RpYSwgUm9jayBDcmVlaywgV2F0dHMgQnJhbmNoKSwgc3VidXJiYW4gKERpZmZpY3VsdCBSdW4sCk5XIEFuYWNvc3RpYSksIGFuZCB0aGUgUG90b21hYyBtYWluc3RlbSBhdCBMaXR0bGUgRmFsbHMuIERyYWluYWdlIGFyZWFzIHNwYW4KMy42IG1pwrIgKFdhdHRzIEJyYW5jaCkgdG8gMTEsNTYwIG1pwrIgKFBvdG9tYWMgYXQgTGl0dGxlIEZhbGxzKSDigJQgdGhlIENOTiBnZXRzCmEgYnJvYWQgcmFuZ2Ugb2YgYmFzaW4gYmVoYXZpb3JzIHRvIGxlYXJuIGZyb20gYXQgdGhpcyBob3VybHkgY2FkZW5jZS4KCkRyb3BwZWQgZnJvbSBlYXJsaWVyIHNldDogUG90b21hYyBhdCBQb2ludCBvZiBSb2NrcywgR29vc2UgQ3JlZWssIENhdG9jdGluCkNyZWVrIOKAlCBhbGwgPjQwIGttIG91dCBvZiB0aGUgREMgY29yZS4KIiIiCgpTSVRFUyA9IFsKICAgIHsKICAgICAgICAnaWQnOiAnMDE2NDY1MDAnLCAnbmFtZSc6ICdQb3RvbWFjIGF0IExpdHRsZSBGYWxscycsICdzaG9ydCc6ICdQb3RvbWFjIERDJywKICAgICAgICAnbGF0JzogMzguOTQ5OCwgJ2xvbic6IC03Ny4xMjc2LAogICAgICAgICdkcmFpbmFnZV9zcW1pJzogMTE1NjAsCiAgICAgICAgJ2tpbmQnOiAnbWFpbnN0ZW0nLAogICAgICAgICdub3Rlcyc6ICdUaGUgaGVhZGxpbmUgREMtcmVnaW9uIGdhdWdlLiBEcmFpbnMgMTEsNTAwIHNxIG1pLicsCiAgICB9LAogICAgewogICAgICAgICdpZCc6ICcwMTY0ODAwMCcsICduYW1lJzogJ1JvY2sgQ3JlZWsgYXQgU2hlcnJpbGwgRHInLCAnc2hvcnQnOiAnUm9jayBDcmVlaycsCiAgICAgICAgJ2xhdCc6IDM4Ljk3MjUsICdsb24nOiAtNzcuMDQsCiAgICAgICAgJ2RyYWluYWdlX3NxbWknOiA2Mi4yLAogICAgICAgICdraW5kJzogJ3VyYmFuJywKICAgICAgICAnbm90ZXMnOiAnUm9jayBDcmVlayB0aHJvdWdoIE5XIERDIOKAlCBmbGFzaHkgdXJiYW4gd2F0ZXJzaGVkLicsCiAgICB9LAogICAgewogICAgICAgICdpZCc6ICcwMTY1MTc2MCcsICduYW1lJzogJ0FuYWNvc3RpYSBhdCBLZW5pbHdvcnRoJywgJ3Nob3J0JzogJ0FuYWNvc3RpYScsCiAgICAgICAgJ2xhdCc6IDM4LjkwOTIsICdsb24nOiAtNzYuOTU1MywKICAgICAgICAnZHJhaW5hZ2Vfc3FtaSc6IDEzNCwKICAgICAgICAna2luZCc6ICd1cmJhbicsCiAgICAgICAgJ25vdGVzJzogJ0FuYWNvc3RpYSBtYWluc3RlbSBhdCBORSBEQy4nLAogICAgfSwKICAgIHsKICAgICAgICAnaWQnOiAnMDE2NDk1MDAnLCAnbmFtZSc6ICdORSBCcmFuY2ggQW5hY29zdGlhIGF0IFJpdmVyZGFsZScsICdzaG9ydCc6ICdORSBBbmFjb3N0aWEnLAogICAgICAgICdsYXQnOiAzOC45NjAzLCAnbG9uJzogLTc2LjkyNiwKICAgICAgICAnZHJhaW5hZ2Vfc3FtaSc6IDcyLjgsCiAgICAgICAgJ2tpbmQnOiAndXJiYW4nLAogICAgICAgICdub3Rlcyc6ICdNYWpvciBBbmFjb3N0aWEgdHJpYnV0YXJ5LCBzdWJ1cmJhbiBQRyBDb3VudHkuJywKICAgIH0sCiAgICB7CiAgICAgICAgJ2lkJzogJzAxNjUwNTAwJywgJ25hbWUnOiAnTlcgQnJhbmNoIEFuYWNvc3RpYSBuciBDb2xlc3ZpbGxlJywgJ3Nob3J0JzogJ05XIEFuYWNvc3RpYScsCiAgICAgICAgJ2xhdCc6IDM5LjA2NTUsICdsb24nOiAtNzcuMDI5NCwKICAgICAgICAnZHJhaW5hZ2Vfc3FtaSc6IDIxLjEsCiAgICAgICAgJ2tpbmQnOiAndXJiYW4nLAogICAgICAgICdub3Rlcyc6ICdOVyBCcmFuY2ggQW5hY29zdGlhIGluIE1vQ28uJywKICAgIH0sCiAgICB7CiAgICAgICAgJ2lkJzogJzAxNjUxODAwJywgJ25hbWUnOiAnV2F0dHMgQnJhbmNoIGF0IERDJywgJ3Nob3J0JzogJ1dhdHRzIEJyYW5jaCcsCiAgICAgICAgJ2xhdCc6IDM4LjkwMTMsICdsb24nOiAtNzYuOTQzMywKICAgICAgICAnZHJhaW5hZ2Vfc3FtaSc6IDMuNTksCiAgICAgICAgJ2tpbmQnOiAndXJiYW4nLAogICAgICAgICdub3Rlcyc6ICdTbWFsbCB1cmJhbiB0cmlidXRhcnkgaW4gU0UgREMg4oCUIGZsYXNoIGZsb29kIHByb25lLicsCiAgICB9LAogICAgewogICAgICAgICdpZCc6ICcwMTY0NjAwMCcsICduYW1lJzogJ0RpZmZpY3VsdCBSdW4gbnIgR3JlYXQgRmFsbHMnLCAnc2hvcnQnOiAnRGlmZmljdWx0IFJ1bicsCiAgICAgICAgJ2xhdCc6IDM4Ljk3NTksICdsb24nOiAtNzcuMjQ1OCwKICAgICAgICAnZHJhaW5hZ2Vfc3FtaSc6IDU3LjksCiAgICAgICAgJ2tpbmQnOiAnc3VidXJiYW4nLAogICAgICAgICdub3Rlcyc6ICdOb1ZhIHN1YnVyYmFuIHdhdGVyc2hlZCwgZmxhc2h5IG9uIHN0b3Jtcy4nLAogICAgfSwKXQoKQllfSUQgPSB7c1snaWQnXTogcyBmb3IgcyBpbiBTSVRFU30K
+"""7 DC-area USGS gauges within ~20 km of downtown.
+
+Mix of urban (Anacostia, Rock Creek, Watts Branch), suburban (Difficult Run,
+NW Anacostia), and the Potomac mainstem at Little Falls. Drainage areas span
+3.6 mi² (Watts Branch) to 11,560 mi² (Potomac at Little Falls) — the CNN gets
+a broad range of basin behaviors to learn from at this hourly cadence.
+
+Dropped from earlier set: Potomac at Point of Rocks, Goose Creek, Catoctin
+Creek — all >40 km out of the DC core.
+"""
+
+SITES = [
+    {
+        'id': '01646500', 'name': 'Potomac at Little Falls', 'short': 'Potomac DC',
+        'lat': 38.9498, 'lon': -77.1276,
+        'drainage_sqmi': 11560,
+        'kind': 'mainstem',
+        'notes': 'The headline DC-region gauge. Drains 11,500 sq mi.',
+    },
+    {
+        'id': '01648000', 'name': 'Rock Creek at Sherrill Dr', 'short': 'Rock Creek',
+        'lat': 38.9725, 'lon': -77.04,
+        'drainage_sqmi': 62.2,
+        'kind': 'urban',
+        'notes': 'Rock Creek through NW DC — flashy urban watershed.',
+    },
+    {
+        'id': '01651760', 'name': 'Anacostia at Kenilworth', 'short': 'Anacostia',
+        'lat': 38.9092, 'lon': -76.9553,
+        'drainage_sqmi': 134,
+        'kind': 'urban',
+        'notes': 'Anacostia mainstem at NE DC.',
+    },
+    {
+        'id': '01649500', 'name': 'NE Branch Anacostia at Riverdale', 'short': 'NE Anacostia',
+        'lat': 38.9603, 'lon': -76.926,
+        'drainage_sqmi': 72.8,
+        'kind': 'urban',
+        'notes': 'Major Anacostia tributary, suburban PG County.',
+    },
+    {
+        'id': '01650500', 'name': 'NW Branch Anacostia nr Colesville', 'short': 'NW Anacostia',
+        'lat': 39.0655, 'lon': -77.0294,
+        'drainage_sqmi': 21.1,
+        'kind': 'urban',
+        'notes': 'NW Branch Anacostia in MoCo.',
+    },
+    {
+        'id': '01651800', 'name': 'Watts Branch at DC', 'short': 'Watts Branch',
+        'lat': 38.9013, 'lon': -76.9433,
+        'drainage_sqmi': 3.59,
+        'kind': 'urban',
+        'notes': 'Small urban tributary in SE DC — flash flood prone.',
+    },
+    {
+        'id': '01646000', 'name': 'Difficult Run nr Great Falls', 'short': 'Difficult Run',
+        'lat': 38.9759, 'lon': -77.2458,
+        'drainage_sqmi': 57.9,
+        'kind': 'suburban',
+        'notes': 'NoVa suburban watershed, flashy on storms.',
+    },
+]
+
+BY_ID = {s['id']: s for s in SITES}

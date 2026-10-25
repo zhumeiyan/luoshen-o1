@@ -1,1 +1,354 @@
-aW1wb3J0IGRhY2l0ZQppbXBvcnQganNvbgppbXBvcnQgbWF0aAppbXBvcnQgb3MKaW1wb3J0IHRyYWNlYmFjawppbXBvcnQgdHlwaW5nCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKaW1wb3J0IGRhdGFjbGFzc2VzCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QKaW1wb3J0IG51bXB5IGFzIG5wCgpmcm9tIHRxZG0gaW1wb3J0IHRxZG0KCmZyb20gaGVsbS5iZW5jaG1hcmsuYWRhcHRhdGlvbi5yZXF1ZXN0X3N0YXRlIGltcG9ydCBSZXF1ZXN0U3RhdGUKZnJvbSBoZWxtLmNvbW1vbi5nZW5lcmFsIGltcG9ydCBlbnN1cmVfZGlyZWN0b3J5X2V4aXN0cywgd3JpdGUsIGFzZGljdF93aXRob3V0X25vbmVzCmZyb20gaGVsbS5jb21tb24uaGllcmFyY2hpY2FsX2xvZ2dlciBpbXBvcnQgaGxvZywgaHRyYWNrX2Jsb2NrLCBod2Fybgpmcm9tIGhlbG0uY29tbW9uLmNhY2hlIGltcG9ydCBjYWNoZV9zdGF0cwpmcm9tIGhlbG0uYmVuY2htYXJrLnNjZW5hcmlvcy5zY2VuYXJpbyBpbXBvcnQgKAogICAgRVZBTF9TUExJVFMsCiAgICBUUkFJTl9TUExJVCwKICAgIFNjZW5hcmlvLAogICAgY3JlYXRlX3NjZW5hcmlvLAogICAgSW5zdGFuY2UsCiAgICBnZXRfc2NlbmFyaW9fY2FjaGVfcGF0aCwKICAgIHdpdGhfaW5zdGFuY2VfaWRzLAopCmZyb20gaGVsbS5iZW5jaG1hcmsuYWRhcHRhdGlvbi5hZGFwdGVycy5hZGFwdGVyIGltcG9ydCBBZGFwdGVyCmZyb20gaGVsbS5iZW5jaG1hcmsuYWRhcHRhdGlvbi5hZGFwdGVycy5hZGFwdGVyX2ZhY3RvcnkgaW1wb3J0IEFkYXB0ZXJGYWN0b3J5CmZyb20gaGVsbS5iZW5jaG1hcmsuYWRhcHRhdGlvbi5zY2VuYXJpb19zdGF0ZSBpbXBvcnQgU2NlbmFyaW9TdGF0ZQpmcm9tIGhlbG0uYmVuY2htYXJrLnJ1bl9zcGVjIGltcG9ydCBSdW5TcGVjCmZyb20gaGVsbS5iZW5jaG1hcmsuZGF0YV9wcmVwcm9jZXNzb3IgaW1wb3J0IERhdGFQcmVwcm9jZXNzb3IKZnJvbSBoZWxtLmJlbmNobWFyay5leGVjdXRvciBpbXBvcnQgRXhlY3V0aW9uU3BlYywgRXhlY3V0b3IKZnJvbSBoZWxtLmJlbmNobWFyay5hbm5vdGF0aW9uX2V4ZWN1dG9yIGltcG9ydCBBbm5vdGF0aW9uRXhlY3V0aW9uU3BlYywgQW5ub3RhdGlvbkV4ZWN1dG9yCmZyb20gaGVsbS5iZW5jaG1hcmsubWV0cmljcy5kcnlfcnVuX21ldHJpY3MgaW1wb3J0IERyeVJ1bk1ldHJpYwpmcm9tIGhlbG0uYmVuY2htYXJrLm1ldHJpY3MubWV0cmljX25hbWUgaW1wb3J0IE1ldHJpY05hbWUKZnJvbSBoZWxtLmJlbmNobWFyay5tZXRyaWNzLm1ldHJpY19zZXJ2aWNlIGltcG9ydCBNZXRyaWNTZXJ2aWNlCmZyb20gaGVsbS5iZW5jaG1hcmsubWV0cmljcy5tZXRyaWMgaW1wb3J0IE1ldHJpY0ludGVyZmFjZSwgTWV0cmljUmVzdWx0LCBQZXJJbnN0YW5jZVN0YXRzLCBjcmVhdGVfbWV0cmljLCBTdGF0CmZyb20gaGVsbS5iZW5jaG1hcmsud2luZG93X3NlcnZpY2VzLnRva2VuaXplcl9zZXJ2aWNlIGltcG9ydCBUb2tlbml6ZXJTZXJ2aWNlCgoKX0NVUlJFTlRfUlVOX1NQRUNfTkFNRTogdHlwaW5nLk9wdGlvbmFsW3N0cl0gPSBOb25lCl9CRU5DSE1BUktfT1VUUFVUX1BBVEg6IHN0ciA9ICJiZW5jaG1hcmtfb3V0cHV0IgpfQ0FDSEVEX01PREVMU19GT0xERVI6IHN0ciA9ICJtb2RlbHMiCgoKZGVmIF9nZXRfY3VycmVudF9ydW5fc3BlY19uYW1lKCkgLT4gdHlwaW5nLk9wdGlvbmFsW3N0cl06CiAgICByZXR1cm4gX0NVUlJFTlRfUlVOX1NQRUNfTkFNRQoKCmRlZiBnZXRfYmVuY2htYXJrX291dHB1dF9wYXRoKCkgLT4gc3RyOgogICAgIiIiR2V0IHRoZSBiZW5jaG1hcmsgb3V0cHV0IHBhdGguCgogICAgTWFueSBydW4gc3BlYyBmdW5jdGlvbnMgbmVlZCB0byBrbm93IHRoZSBiZW5jaG1hcmsgb3V0cHV0IHBhdGgsCiAgICBidXQgdGhlcmUgaXMgbm8gd2F5IHRvIHBhc3MgaXQgdmlhICB0aGUgcnVuIHNwZWMgZnVuY3Rpb24sCiAgICBzbyBpbnN0ZWFkIHRoZSBydW4gc3BlYyBmdW5jdGlvbiBzaG91bGQgcmVhZCB0aGlzIGdsb2JhbCB2YXJpYWJsZS4iIiIKICAgIHJldHVybiBfQkVOQ0hNQVJLX09VVFBVVF9QQVRICgoKZGVmIGdldF9jYWNoZWRfbW9kZWxzX3BhdGgoKSAtPiBzdHI6CiAgICAiIiJHZXQgdGhlIGNhY2hlZCBtb2RlbHMgcGF0IHdpdGhpbiB0aGUgYmVuY2htYXJrIG91dHB1dCBwYXRoLiIiIgogICAgcGF0aDogc3RyID0gb3MucGF0aC5qb2luKGdldF9iZW5jaG1hcmtfb3V0cHV0X3BhdGgoKSwgX0NBQ0hFRF9NT0RFTFNfRk9MREVSKQogICAgZW5zdXJlX2RpcmVjdG9yeV9leGlzdHMocGF0aCkKICAgIHJldHVybiBwYXRoCgoKZGVmIHNldF9iZW5jaG1hcmtfb3V0cHV0X3BhdGgoYmVuY2htYXJrX291dHB1dF9wYXRoOiBzdHIpIC0+IE5vbmU6CiAgICAiIiJTZXQgdGhlIGJlbmNobWFyayBvdXRwdXQgcGF0aC4iIiIKICAgIGdsb2JhbCBfQkVOQ0hNQVJLX09VVFBVVF9QQVRICiAgICBfQkVOQ0hNQVJLX09VVFBVVF9QQVRIID0gYmVuY2htYXJrX291dHB1dF9wYXRoCgoKY2xhc3MgUnVubmVyRXJyb3IoRXhjZXB0aW9uKToKICAgICIiIkVycm9yIHRoYXQgaGFwcGVucyBpbiB0aGUgUnVubmVyLiIiIgoKICAgIHBhc3MKCgpkZWYgcmVtb3ZlX3N0YXRzX25hbnMoc3RhdHM6IExpc3RbU3RhdF0pIC0+IExpc3RbU3RhdF06CiAgICAiIiJSZXR1cm4gYSBuZXcgbGlzdCBvZiBzdGF0cyB3aXRoIHN0YXRzIHdpdGggTmFOcyByZW1vdmVkLgoKICAgIFB5dGhvbidzIHN0ZGxpYiBqc29uLmR1bXBzKCkgd2lsbCBwcm9kdWNlIGludmFsaWQgSlNPTiB3aGVuIHNlcmlhbGl6aW5nIGEgTmFOLiBTZWU6CgogICAgLSBodHRwczovL2dpdGh1Yi5jb20vc3RhbmZvcmQtY3JmbS9oZWxtL2lzc3Vlcy8xNzY1CiAgICAtIGh0dHBzOi8vYnVncy5weXRob24ub3JnL2lzc3VlNDA2MzMKICAgIC0gaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMy9saWJyYXJ5L2pzb24uaHRtbCNpbmZpbml0ZS1hbmQtbmFuLW51bWJlci12YWx1ZXMiIiIKICAgIHJlc3VsdDogTGlzdFtTdGF0XSA9IFtdCiAgICBmb3Igc3RhdCBpbiBzdGF0czoKICAgICAgICBpZiBtYXRoLmlzbmFuKHN0YXQuc3VtKToKICAgICAgICAgICAgaHdhcm4oZiJSZW1vdmluZyBzdGF0IHtzdGF0Lm5hbWUubmFtZX0gYmVjYXVzZSBpdHMgdmFsdWUgaXMgTmFOIikKICAgICAgICAgICAgY29udGludWUKICAgICAgICByZXN1bHQuYXBwZW5kKHN0YXQpCiAgICByZXR1cm4gcmVzdWx0CgoKZGVmIHJlbW92ZV9wZXJfaW5zdGFuY2Vfc3RhdHNfbmFucyhwZXJfaW5zdGFuY2Vfc3RhdHNfbGlzdDogTGlzdFtQZXJJbnN0YW5jZVN0YXRzXSkgLT4gTGlzdFtQZXJJbnN0YW5jZVN0YXRzXToKICAgICIiIlJldHVybiBhIG5ldyBsaXN0IG9mIFBlckluc3RhbmNlU3RhdHMgd2l0aCBzdGF0cyB3aXRoIE5hTnMgcmVtb3ZlZC4KCiAgICBQeXRob24ncyBzdGRsaWIganNvbi5kdW1wcygpIHdpbGwgcHJvZHVjZSBpbnZhbGlkIEpTT04gd2hlbiBzZXJpYWxpemluZyBhIE5hTi4gU2VlOgoKICAgIC0gaHR0cHM6Ly9naXRodWIuY29tL3N0YW5mb3JkLWNyZm0vaGVsbS9pc3N1ZXMvMTc2NQogICAgLSBodHRwczovL2J1Z3MucHl0aG9uLm9yZy9pc3N1ZTQwNjMzCiAgICAtIGh0dHBzOi8vZG9jcy5weXRob24ub3JnLzMvbGlicmFyeS9qc29uLmh0bWwjaW5maW5pdGUtYW5kLW5hbi1udW1iZXItdmFsdWVzIiIiCiAgICByZXN1bHQ6IExpc3RbUGVySW5zdGFuY2VTdGF0c10gPSBbXQogICAgZm9yIHBlcl9pbnN0YW5jZV9zdGF0cyBpbiBwZXJfaW5zdGFuY2Vfc3RhdHNfbGlzdDoKICAgICAgICByZXN1bHQuYXBwZW5kKGRhdGFjbGFzc2VzLnJlcGxhY2UocGVyX2luc3RhbmNlX3N0YXRzLCBzdGF0cz1yZW1vdmVfc3RhdHNfbmFucyhwZXJfaW5zdGFuY2Vfc3RhdHMuc3RhdHMpKSkKICAgIHJldHVybiByZXN1bHQKCgpkZWYgZG93bnNhbXBsZV9ldmFsX2luc3RhbmNlcygKICAgIGluc3RhbmNlczogTGlzdFtJbnN0YW5jZV0sIG1heF9ldmFsX2luc3RhbmNlczogaW50LCBldmFsX3NwbGl0czogTGlzdFtzdHJdCikgLT4gTGlzdFtJbnN0YW5jZV06CiAgICAiIiIKICAgIEdldCB0aGUgaW5zdGFuY2VzIG5lY2Vzc2FyeSBmb3IgdGhpcyBydW46CiAgICBUcmFpbiBpbnN0YW5jZXMgKHNwbGl0PXRyYWluKToga2VlcCBhbGwgKGlmIGFueSkgZm9yIGluLWNvbnRleHQgbGVhcm5pbmcKICAgIEV2YWwgaW5zdGFuY2VzIChzcGxpdD12YWxpZCBvciB0ZXN0KToga2VlcCBhdCBtb3N0IGBtYXhfZXZhbF9pbnN0YW5jZXNgIHNwZWNpZmllZCBpbiBgQWRhcHRlclNwZWNgIGJ5IHNhbXBsaW5nCiAgICBSZXR1cm4gdGhlIHJlc3VsdGluZyB0cmFpbiBhbmQgZXZhbCBpbnN0YW5jZXMuCiAgICAiIiIKICAgIGFsbF90cmFpbl9pbnN0YW5jZXM6IExpc3RbSW5zdGFuY2VdID0gW2luc3RhbmNlIGZvciBpbnN0YW5jZSBpbiBpbnN0YW5jZXMgaWYgaW5zdGFuY2Uuc3BsaXQgPT0gVFJBSU5fU1BMSVRdCgogICAgYWxsX2V2YWxfaW5zdGFuY2VzOiBMaXN0W0luc3RhbmNlXSA9IFtpbnN0YW5jZSBmb3IgaW5zdGFuY2UgaW4gaW5zdGFuY2VzIGlmIGluc3RhbmNlLnNwbGl0IGluIGV2YWxfc3BsaXRzXQogICAgaWYgbGVuKGFsbF9ldmFsX2luc3RhbmNlcykgPiBtYXhfZXZhbF9pbnN0YW5jZXM6CiAgICAgICAgIyBUaGUgcmFuZG9tIHNhbXBsaW5nIGluY2x1ZGVzIGluc3RhbmNlcyBtb25vdG9uaWNhbGx5LgogICAgICAgIG5wLnJhbmRvbS5zZWVkKDApCiAgICAgICAgc2VsZWN0ZWRfZXZhbF9pbnN0YW5jZXMgPSBsaXN0KAogICAgICAgICAgICBucC5yYW5kb20uY2hvaWNlKAogICAgICAgICAgICAgICAgYWxsX2V2YWxfaW5zdGFuY2VzLCAgIyB0eXBlOiBpZ25vcmUKICAgICAgICAgICAgICAgIG1heF9ldmFsX2luc3RhbmNlcywKICAgICAgICAgICAgICAgIHJlcGxhY2U9RmFsc2UsCiAgICAgICAgICAgICkKICAgICAgICApCiAgICBlbHNlOgogICAgICAgIHNlbGVjdGVkX2V2YWxfaW5zdGFuY2VzID0gYWxsX2V2YWxfaW5zdGFuY2VzCgogICAgaGxvZygKICAgICAgICBmIntsZW4oaW5zdGFuY2VzKX0gaW5zdGFuY2VzLCAiCiAgICAgICAgZiJ7bGVuKGFsbF90cmFpbl9pbnN0YW5jZXMpfSB0cmFpbiBpbnN0YW5jZXMsICIKICAgICAgICBmIntsZW4oc2VsZWN0ZWRfZXZhbF9pbnN0YW5jZXMpfS97bGVuKGFsbF9ldmFsX2luc3RhbmNlcyl9IGV2YWwgaW5zdGFuY2VzIgogICAgKQoKICAgIHJldHVybiBhbGxfdHJhaW5faW5zdGFuY2VzICsgc2VsZWN0ZWRfZXZhbF9pbnN0YW5jZXMKCgpjbGFzcyBSdW5uZXI6CiAgICAiIiIKICAgIFRoZSBtYWluIGVudHJ5IHBvaW50IGZvciBydW5uaW5nIHRoZSBlbnRpcmUgYmVuY2htYXJrLiAgTW9zdGx5IGp1c3QKICAgIGRpc3BhdGNoZXMgdG8gb3RoZXIgY2xhc3Nlcy4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIGV4ZWN1dGlvbl9zcGVjOiBFeGVjdXRpb25TcGVjLAogICAgICAgIG91dHB1dF9wYXRoOiBzdHIsCiAgICAgICAgc3VpdGU6IHN0ciwKICAgICAgICBza2lwX2luc3RhbmNlczogYm9vbCwKICAgICAgICBjYWNoZV9pbnN0YW5jZXM6IGJvb2wsCiAgICAgICAgY2FjaGVfaW5zdGFuY2VzX29ubHk6IGJvb2wsCiAgICAgICAgc2tpcF9jb21wbGV0ZWRfcnVuczogYm9vbCwKICAgICAgICBleGl0X29uX2Vycm9yOiBib29sLAogICAgKToKICAgICAgICBzZWxmLmV4ZWN1dG9yID0gRXhlY3V0b3IoZXhlY3V0aW9uX3NwZWMpCiAgICAgICAgc2VsZi5hbm5vdGF0b3JfZXhlY3V0b3IgPSBBbm5vdGF0aW9uRXhlY3V0b3IoCiAgICAgICAgICAgIEFubm90YXRpb25FeGVjdXRpb25TcGVjKAogICAgICAgICAgICAgICAgbG9jYWxfcGF0aD1leGVjdXRpb25fc3BlYy5sb2NhbF9wYXRoIGlmIGV4ZWN1dGlvbl9zcGVjLmxvY2FsX3BhdGggaXMgbm90IE5vbmUgZWxzZSAiIiwKICAgICAgICAgICAgICAgIHBhcmFsbGVsaXNtPWV4ZWN1dGlvbl9zcGVjLnBhcmFsbGVsaXNtLAogICAgICAgICAgICAgICAgZHJ5X3J1bj1leGVjdXRpb25fc3BlYy5kcnlfcnVuLAogICAgICAgICAgICAgICAgc3FsaXRlX2NhY2hlX2JhY2tlbmRfY29uZmlnPWV4ZWN1dGlvbl9zcGVjLnNxbGl0ZV9jYWNoZV9iYWNrZW5kX2NvbmZpZywKICAgICAgICAgICAgICAgIG1vbmdvX2NhY2hlX2JhY2tlbmRfY29uZmlnPWV4ZWN1dGlvbl9zcGVjLm1vbmdvX2NhY2hlX2JhY2tlbmRfY29uZmlnLAogICAgICAgICAgICApCiAgICAgICAgKQogICAgICAgIHNlbGYuZHJ5X3J1bjogYm9vbCA9IGV4ZWN1dGlvbl9zcGVjLmRyeV9ydW4KICAgICAgICBzZWxmLnRva2VuaXplcl9zZXJ2aWNlID0gVG9rZW5pemVyU2VydmljZShzZWxmLmV4ZWN1dG9yLmNvbnRleHQpCiAgICAgICAgc2VsZi5tZXRyaWNfc2VydmljZSA9IE1ldHJpY1NlcnZpY2Uoc2VsZi5leGVjdXRvci5jb250ZXh0KQogICAgICAgIHNlbGYuc2tpcF9pbnN0YW5jZXM6IGJvb2wgPSBza2lwX2luc3RhbmNlcwogICAgICAgIHNlbGYuY2FjaGVfaW5zdGFuY2VzOiBib29sID0gY2FjaGVfaW5zdGFuY2VzCiAgICAgICAgc2VsZi5jYWNoZV9pbnN0YW5jZXNfb25seTogYm9vbCA9IGNhY2hlX2luc3RhbmNlc19vbmx5CiAgICAgICAgc2VsZi5za2lwX2NvbXBsZXRlZF9ydW5zOiBib29sID0gc2tpcF9jb21wbGV0ZWRfcnVucwogICAgICAgIHNlbGYuZXhpdF9vbl9lcnJvcjogYm9vbCA9IGV4aXRfb25fZXJyb3IKCiAgICAgICAgZW5zdXJlX2RpcmVjdG9yeV9leGlzdHMob3V0cHV0X3BhdGgpCiAgICAgICAgc2VsZi5vdXRwdXRfcGF0aCA9IG91dHB1dF9wYXRoCgogICAgICAgICMgRGVjaWRlIHdoZXJlIHRvIHNhdmUgaW5wdXQgaW5zdGFuY2VzCiAgICAgICAgc2VsZi5pbnN0YW5jZXNfcGF0aDogc3RyID0gb3MucGF0aC5qb2luKG91dHB1dF9wYXRoLCAic2NlbmFyaW9faW5zdGFuY2VzIikKICAgICAgICBlbnN1cmVfZGlyZWN0b3J5X2V4aXN0cyhzZWxmLmluc3RhbmNlc19wYXRoKQoKICAgICAgICAjIE91dHB1dCB0aGUgcmVzdWx0cyB1bmRlciBhIGZvbGRlciB3aXRoIHRoZSBuYW1lIG9mIHRoZSBzdWl0ZQogICAgICAgIHNlbGYucnVuc19wYXRoOiBzdHIgPSBvcy5wYXRoLmpvaW4ob3V0cHV0X3BhdGgsICJydW5zIiwgc3VpdGUpCgogICAgICAgICMgVGhlIHBhdGggd2hlcmUgdG8gY2FjaGUgZmlsZXMgbmVlZHMgdG8gY29tcHV0ZSBtZXRyaWNzLCBlLmcuLCBodW1hbiBldmFsdWF0aW9uIHJlc3VsdHMKICAgICAgICBzZWxmLmV2YWxfY2FjaGVfcGF0aDogc3RyID0gb3MucGF0aC5qb2luKHNlbGYucnVuc19wYXRoLCAiZXZhbF9jYWNoZSIpCiAgICAgICAgZW5zdXJlX2RpcmVjdG9yeV9leGlzdHMoc2VsZi5ldmFsX2NhY2hlX3BhdGgpCgogICAgZGVmIF9nZXRfcnVuX3BhdGgoc2VsZiwgcnVuX3NwZWM6IFJ1blNwZWMpIC0+IHN0cjoKICAgICAgICByZXR1cm4gb3MucGF0aC5qb2luKHNlbGYucnVuc19wYXRoLCBydW5fc3BlYy5uYW1lKQoKICAgIGRlZiBfaXNfcnVuX2NvbXBsZXRlZChzZWxmLCBydW5fcGF0aDogc3RyKToKICAgICAgICAiIiJSZXR1cm4gd2hldGhlciB0aGUgcnVuIHdhcyBwcmV2aW91c2x5IGNvbXBsZXRlZC4KCiAgICAgICAgQSBydW4gaXMgY29tcGxldGVkIGlmIGFsbCBvZiB0aGUgZXhwZWN0ZWQgb3V0cHV0IGZpbGVzIGV4aXN0LiIiIgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHJ1bl9wYXRoKToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgb3V0cHV0X3BhdGhzID0gWwogICAgICAgICAgICBvcy5wYXRoLmpvaW4ocnVuX3BhdGgsICJydW5fc3BlYy5qc29uIiksCiAgICAgICAgICAgIG9zLnBhdGguam9pbihydW5fcGF0aCwgInNjZW5hcmlvLmpzb24iKSwKICAgICAgICAgICAgb3MucGF0aC5qb2luKHJ1bl9wYXRoLCAic2NlbmFyaW9fc3RhdGUuanNvbiIpLAogICAgICAgICAgICBvcy5wYXRoLmpvaW4ocnVuX3BhdGgsICJzdGF0cy5qc29uIiksCiAgICAgICAgICAgIG9zLnBhdGguam9pbihydW5fcGF0aCwgInBlcl9pbnN0YW5jZV9zdGF0cy5qc29uIiksCiAgICAgICAgXQogICAgICAgIGZvciBvdXRwdXRfcGF0aCBpbiBvdXRwdXRfcGF0aHM6CiAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfcGF0aCk6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIGRlZiBydW5fYWxsKHNlbGYsIHJ1bl9zcGVjczogTGlzdFtSdW5TcGVjXSk6CiAgICAgICAgZmFpbGVkX3J1bl9zcGVjczogTGlzdFtSdW5TcGVjXSA9IFtdCgogICAgICAgIGZvciBydW5fc3BlYyBpbiB0cWRtKHJ1bl9zcGVjcywgZGlzYWJsZT1Ob25lKToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgd2l0aCBodHJhY2tfYmxvY2soZiJSdW5uaW5nIHtydW5fc3BlYy5uYW1lfSIpOgogICAgICAgICAgICAgICAgICAgIHNlbGYucnVuX29uZShydW5fc3BlYykKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgaWYgc2VsZi5leGl0X29uX2Vycm9yOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIGUKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgaGxvZyhmIkVycm9yIHdoZW4gcnVubmluZyB7cnVuX3NwZWMubmFtZX06XG57dHJhY2ViYWNrLmZvcm1hdF9leGMoKX0iKQogICAgICAgICAgICAgICAgICAgIGZhaWxlZF9ydW5fc3BlY3MuYXBwZW5kKHJ1bl9zcGVjKQogICAgICAgIGlmIG5vdCBzZWxmLmV4aXRfb25fZXJyb3IgYW5kIGZhaWxlZF9ydW5fc3BlY3M6CiAgICAgICAgICAgIGZhaWxlZF9ydW5zX3N0ciA9ICIsICIuam9pbihbZicie3J1bl9zcGVjLm5hbWV9IicgZm9yIHJ1bl9zcGVjIGluIGZhaWxlZF9ydW5fc3BlY3NdKQogICAgICAgICAgICByYWlzZSBSdW5uZXJFcnJvcihmIkZhaWxlZCBydW5zOiBbe2ZhaWxlZF9ydW5zX3N0cn1dIikKCiAgICBkZWYgcnVuX29uZShzZWxmLCBydW5fc3BlYzogUnVuU3BlYyk6CiAgICAgICAgZ2xvYmFsIF9DVVJSRU5UX1JVTl9TUEVDX05BTUUKICAgICAgICBfQ1VSUkVOVF9SVU5fU1BFQ19OQU1FID0gcnVuX3NwZWMubmFtZQogICAgICAgIHJ1bl9wYXRoOiBzdHIgPSBzZWxmLl9nZXRfcnVuX3BhdGgocnVuX3NwZWMpCiAgICAgICAgaWYgc2VsZi5za2lwX2NvbXBsZXRlZF9ydW5zIGFuZCBzZWxmLl9pc19ydW5fY29tcGxldGVkKHJ1bl9wYXRoKToKICAgICAgICAgICAgaGxvZyhmIlNraXBwaW5nIHJ1biB7cnVuX3NwZWMubmFtZX0gYmVjYXVzZSBydW4gaXMgY29tcGxldGVkIGFuZCBhbGwgb3V0cHV0IGZpbGVzIGV4aXN0LiIpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIGVuc3VyZV9kaXJlY3RvcnlfZXhpc3RzKHJ1bl9wYXRoKQoKICAgICAgICAjIExvYWQgdGhlIHNjZW5hcmlvCiAgICAgICAgc2NlbmFyaW86IFNjZW5hcmlvID0gY3JlYXRlX3NjZW5hcmlvKHJ1bl9zcGVjLnNjZW5hcmlvX3NwZWMpCgogICAgICAgICMgVGhpcyAnb3V0cHV0X3BhdGgnIHdpbGwgYmUgdXNlZCB3aGVuIHRoZSBtb2RlbCdzIGlucHV0IGluc3RhbmNlcyBhcmUgc2F2ZWQuCiAgICAgICAgYXJnc19zdHIgPSAiLCIuam9pbihbZiJ7a309e3Z9IiBmb3IgaywgdiBpbiBzb3J0ZWQocnVuX3NwZWMuc2NlbmFyaW9fc3BlYy5hcmdzLml0ZW1zKCkpXSkKICAgICAgICBzY2VuYXJpb19uYW1lX3dpdGhfYXJncyA9IGYie3NjZW5hcmlvLm5hbWV9OnthcmdzX3N0cn0iIGlmIGFyZ3Nfc3RyIGVsc2UgZiJ7c2NlbmFyaW8ubmFtZX0iCiAgICAgICAgaW5wdXRfaW5zdGFuY2VzX291dHB1dF9wYXRoID0gb3MucGF0aC5qb2luKHNlbGYuaW5zdGFuY2VzX3BhdGgsIHNjZW5hcmlvX25hbWVfd2l0aF9hcmdzKQogICAgICAgIGlucHV0X2luc3RhbmNlc19maWxlX3BhdGggPSBvcy5wYXRoLmpvaW4oaW5wdXRfaW5zdGFuY2VzX291dHB1dF9wYXRoLCAiaW5wdXRfaW5zdGFuY2VzLmpzb24iKQoKICAgICAgICBpbnN0YW5jZXM6IExpc3RbSW5zdGFuY2VdCiAgICAgICAgaWYgc2VsZi5za2lwX2luc3RhbmNlczoKICAgICAgICAgICAgaW5zdGFuY2VzID0gW10KICAgICAgICBlbHNlOgogICAgICAgICAgICBpZiBzZWxmLmNhY2hlX2luc3RhbmNlcyBhbmQgb3MucGF0aC5leGlzdHMoaW5wdXRfaW5zdGFuY2VzX2ZpbGVfcGF0aCk6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oaW5wdXRfaW5zdGFuY2VzX2ZpbGVfcGF0aCkgYXMgZjoKICAgICAgICAgICAgICAgICAgICBqc29uX2luc3RhbmNlczogTGlzdFtEaWN0W3N0ciwgQW55XV0gPSBqc29uLmxvYWQoZikKICAgICAgICAgICAgICAgIGluc3RhbmNlcyA9IFtkYWNpdGUuZnJvbV9kaWN0KEluc3RhbmNlLCBpbnN0YW5jZSkgZm9yIGluc3RhbmNlIGluIGpzb25faW5zdGFuY2VzXQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgIyBDcmVhdGUgdGhlIGluc3RhbmNlcyBvZiB0aGUgc2NlbmFyaW8KICAgICAgICAgICAgICAgIHNjZW5hcmlvX291dHB1dF9wYXRoID0gZ2V0X3NjZW5hcmlvX2NhY2hlX3BhdGgoc2VsZi5vdXRwdXRfcGF0aCwgc2NlbmFyaW8ubmFtZSkKICAgICAgICAgICAgICAgIHdpdGggaHRyYWNrX2Jsb2NrKCJzY2VuYXJpby5nZXRfaW5zdGFuY2VzIik6CiAgICAgICAgICAgICAgICAgICAgaW5zdGFuY2VzID0gc2NlbmFyaW8uZ2V0X2luc3RhbmNlcyhzY2VuYXJpb19vdXRwdXRfcGF0aCkKICAgICAgICBpZiBzZWxmLmNhY2hlX2luc3RhbmNlcyBhbmQgbm90IG9zLnBhdGguZXhpc3RzKGlucHV0X2luc3RhbmNlc19maWxlX3BhdGgpOgogICAgICAgICAgICAjIFNhdmUgaW5zdGFuY2VzIHRvIGZpbGUKICAgICAgICAgICAgZW5zdXJlX2RpcmVjdG9yeV9leGlzdHMoaW5wdXRfaW5zdGFuY2VzX291dHB1dF9wYXRoKQogICAgICAgICAgICB3cml0ZSgKICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbihpbnB1dF9pbnN0YW5jZXNfZmlsZV9wYXRoKSwKICAgICAgICAgICAgICAgIGpzb24uZHVtcHMoW2FzZGljdF93aXRob3V0X25vbmVzKGluc3RhbmNlKSBmb3IgaW5zdGFuY2UgaW4gaW5zdGFuY2VzXSwgaW5kZW50PTIpLAogICAgICAgICAgICApCiAgICAgICAgaWYgc2VsZi5jYWNoZV9pbnN0YW5jZXNfb25seToKICAgICAgICAgICAgcmV0dXJuICAjIEV4aXQgYWZ0ZXIgc2F2aW5nIHRoZSBpbnN0YW5jZXMuCgogICAgICAgICMgR2l2ZSBlYWNoIGluc3RhbmNlIGEgdW5pcXVlIElECiAgICAgICAgaWYgYW55KFtpbnN0YW5jZS5pZCBpcyBOb25lIGZvciBpbnN0YW5jZSBpbiBpbnN0YW5jZXNdKToKICAgICAgICAgICAgaW5zdGFuY2VzID0gd2l0aF9pbnN0YW5jZV9pZHMoaW5zdGFuY2VzKQoKICAgICAgICAjIEdldCB0aGUgaW5zdGFuY2VzIG5lY2Vzc2FyeSBmb3IgdGhpcyBydW4uCiAgICAgICAgbWF4X2V2YWxfaW5zdGFuY2VzID0gcnVuX3NwZWMuYWRhcHRlcl9zcGVjLm1heF9ldmFsX2luc3RhbmNlcwogICAgICAgIGV2YWxfc3BsaXRzID0gcnVuX3NwZWMuYWRhcHRlcl9zcGVjLmV2YWxfc3BsaXRzIG9yIEVWQUxfU1BMSVRTCiAgICAgICAgaWYgbWF4X2V2YWxfaW5zdGFuY2VzIGlzIG5vdCBOb25lOgogICAgICAgICAgICBpbnN0YW5jZXMgPSBkb3duc2FtcGxlX2V2YWxfaW5zdGFuY2VzKGluc3RhbmNlcywgbWF4X2V2YWxfaW5zdGFuY2VzLCBldmFsX3NwbGl0cykKCiAgICAgICAgIyBEYXRhIHByZXByb2Nlc3NpbmcKICAgICAgICBpbnN0YW5jZXMgPSBEYXRhUHJlcHJvY2Vzc29yKHJ1bl9zcGVjLmRhdGFfYXVnbWVudGVyX3NwZWMpLnByZXByb2Nlc3MoCiAgICAgICAgICAgIGluc3RhbmNlcywgc2VsZi5leGVjdXRvci5leGVjdXRpb25fc3BlYy5wYXJhbGxlbGlzbQogICAgICAgICkKCiAgICAgICAgIyBBZGFwdCAoY29udmVydCB0byByZXF1ZXN0cykKICAgICAgICBhZGFwdGVyOiBBZGFwdGVyID0gQWRhcHRlckZhY3RvcnkuZ2V0X2FkYXB0ZXIocnVuX3NwZWMuYWRhcHRlcl9zcGVjLCBzZWxmLnRva2VuaXplcl9zZXJ2aWNlKQogICAgICAgIHJlcXVlc3Rfc3RhdGVzOiBMaXN0W1JlcXVlc3RTdGF0ZV0gPSBhZGFwdGVyLmFkYXB0KGluc3RhbmNlcywgc2VsZi5leGVjdXRvci5leGVjdXRpb25fc3BlYy5wYXJhbGxlbGlzbSkKICAgICAgICBzY2VuYXJpb19zdGF0ZTogU2NlbmFyaW9TdGF0ZSA9IFNjZW5hcmlvU3RhdGUoCiAgICAgICAgICAgIGFkYXB0ZXJfc3BlYz1ydW5fc3BlYy5hZGFwdGVyX3NwZWMsCiAgICAgICAgICAgIHJlcXVlc3Rfc3RhdGVzPXJlcXVlc3Rfc3RhdGVzLAogICAgICAgICAgICBhbm5vdGF0b3Jfc3BlY3M9cnVuX3NwZWMuYW5ub3RhdG9ycywKICAgICAgICApCgogICAgICAgICMgRXhlY3V0ZSAoZmlsbCB1cCByZXN1bHRzKQogICAgICAgIHNjZW5hcmlvX3N0YXRlID0gc2VsZi5leGVjdXRvci5leGVjdXRlKHNjZW5hcmlvX3N0YXRlKQoKICAgICAgICAjIEFubm90YXRlIChwb3N0LXByb2Nlc3MgdGhlIHJlc3VsdHMpCiAgICAgICAgc2NlbmFyaW9fc3RhdGUgPSBzZWxmLmFubm90YXRvcl9leGVjdXRvci5leGVjdXRlKHNjZW5hcmlvX3N0YXRlKQoKICAgICAgICAjIEFwcGx5IHRoZSBtZXRyaWNzCiAgICAgICAgIyBXaGVuIHBlcmZvcm1pbmcgYSBkcnkgcnVuLCBvbmx5IGVzdGltYXRlIHRoZSBudW1iZXIgb2YgdG9rZW5zIGluc3RlYWQKICAgICAgICAjIG9mIGNhbGN1bGF0aW5nIHRoZSBtZXRyaWNzLgogICAgICAgIG1ldHJpY3M6IExpc3RbTWV0cmljSW50ZXJmYWNlXSA9ICgKICAgICAgICAgICAgW0RyeVJ1bk1ldHJpYygpXSBpZiBzZWxmLmRyeV9ydW4gZWxzZSBbY3JlYXRlX21ldHJpYyhtZXRyaWNfc3BlYykgZm9yIG1ldHJpY19zcGVjIGluIHJ1bl9zcGVjLm1ldHJpY19zcGVjc10KICAgICAgICApCiAgICAgICAgc3RhdHM6IExpc3RbU3RhdF0gPSBbXQogICAgICAgIHBlcl9pbnN0YW5jZV9zdGF0czogTGlzdFtQZXJJbnN0YW5jZVN0YXRzXSA9IFtdCiAgICAgICAgd2l0aCBodHJhY2tfYmxvY2soZiJ7bGVuKG1ldHJpY3MpfSBtZXRyaWNzIik6CiAgICAgICAgICAgIGZvciBtZXRyaWMgaW4gbWV0cmljczoKICAgICAgICAgICAgICAgIHdpdGggaHRyYWNrX2Jsb2NrKG1ldHJpYyk6CiAgICAgICAgICAgICAgICAgICAgbWV0cmljX3Jlc3VsdDogTWV0cmljUmVzdWx0ID0gbWV0cmljLmV2YWx1YXRlKAogICAgICAgICAgICAgICAgICAgICAgICBzY2VuYXJpb19zdGF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5tZXRyaWNfc2VydmljZSwKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5ldmFsX2NhY2hlX3BhdGgsCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZXhlY3V0b3IuZXhlY3V0aW9uX3NwZWMucGFyYWxsZWxpc20sCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIHN0YXRzLmV4dGVuZChtZXRyaWNfcmVzdWx0LmFnZ3JlZ2F0ZWRfc3RhdHMpCiAgICAgICAgICAgICAgICAgICAgcGVyX2luc3RhbmNlX3N0YXRzLmV4dGVuZChtZXRyaWNfcmVzdWx0LnBlcl9pbnN0YW5jZV9zdGF0cykKCiAgICAgICAgIyBDaGVjayB0aGF0IHRoZXJlIGFyZW4ndCBkdXBsaWNhdGUgYFN0YXRgcwogICAgICAgICMgTm90ZTogZG9lc24ndCBjYXRjaCBuZWFyIG1pc3Nlcy4KICAgICAgICBtZXRyaWNfY291bnRzOiB0eXBpbmcuQ291bnRlcltNZXRyaWNOYW1lXSA9IENvdW50ZXIoW3N0YXQubmFtZSBmb3Igc3RhdCBpbiBzdGF0c10pCiAgICAgICAgZm9yIG1ldHJpY19uYW1lLCBjb3VudCBpbiBtZXRyaWNfY291bnRzLml0ZW1zKCk6CiAgICAgICAgICAgIGlmIGNvdW50ID4gMToKICAgICAgICAgICAgICAgIGh3YXJuKGYiZHVwbGljYXRlIG1ldHJpYyBuYW1lIHttZXRyaWNfbmFtZX0iKQoKICAgICAgICAjIFByaW50IG91dCB0aGUgbnVtYmVyIG9mIHN0YXRzCiAgICAgICAgaGxvZyhmIkdlbmVyYXRlZCB7bGVuKHN0YXRzKX0gc3RhdHMuIikKCiAgICAgICAgaWYgc2VsZi5za2lwX2luc3RhbmNlczoKICAgICAgICAgICAgaGxvZygic2tpcF9pbnN0YW5jZXMgd2FzIFRydWUuIFNraXBwaW5nIHdyaXRpbmcgcmVzdWx0cyBvdXQuIikKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgICMgT3V0cHV0IGJlbmNobWFya2luZyBpbmZvcm1hdGlvbiBhbmQgcmVzdWx0cyB0byBmaWxlcwogICAgICAgIHdyaXRlKG9zLnBhdGguam9pbihydW5fcGF0aCwgInJ1bl9zcGVjLmpzb24iKSwganNvbi5kdW1wcyhhc2RpY3Rfd2l0aG91dF9ub25lcyhydW5fc3BlYyksIGluZGVudD0yKSkKCiAgICAgICAgIyBXcml0ZSBvdXQgc2NlbmFyaW8KICAgICAgICB3cml0ZShvcy5wYXRoLmpvaW4ocnVuX3BhdGgsICJzY2VuYXJpby5qc29uIiksIGpzb24uZHVtcHMoYXNkaWN0X3dpdGhvdXRfbm9uZXMoc2NlbmFyaW8pLCBpbmRlbnQ9MikpCgogICAgICAgICMgV3JpdGUgc2NlbmFyaW8gc3RhdGUKICAgICAgICB3cml0ZShvcy5wYXRoLmpvaW4ocnVuX3BhdGgsICJzY2VuYXJpb19zdGF0ZS5qc29uIiksIGpzb24uZHVtcHMoYXNkaWN0X3dpdGhvdXRfbm9uZXMoc2NlbmFyaW9fc3RhdGUpLCBpbmRlbnQ9MikpCgogICAgICAgIHdyaXRlKAogICAgICAgICAgICBvcy5wYXRoLmpvaW4ocnVuX3BhdGgsICJzdGF0cy5qc29uIiksCiAgICAgICAgICAgIGpzb24uZHVtcHMoW2FzZGljdF93aXRob3V0X25vbmVzKHN0YXQpIGZvciBzdGF0IGluIHJlbW92ZV9zdGF0c19uYW5zKHN0YXRzKV0sIGluZGVudD0yKSwKICAgICAgICApCiAgICAgICAgd3JpdGUoCiAgICAgICAgICAgIG9zLnBhdGguam9pbihydW5fcGF0aCwgInBlcl9pbnN0YW5jZV9zdGF0cy5qc29uIiksCiAgICAgICAgICAgIGpzb24uZHVtcHMobGlzdChtYXAoYXNkaWN0X3dpdGhvdXRfbm9uZXMsIHJlbW92ZV9wZXJfaW5zdGFuY2Vfc3RhdHNfbmFucyhwZXJfaW5zdGFuY2Vfc3RhdHMpKSksIGluZGVudD0yKSwKICAgICAgICApCgogICAgICAgIGNhY2hlX3N0YXRzLnByaW50X3N0YXR1cygpCg==
+import dacite
+import json
+import math
+import os
+import traceback
+import typing
+from collections import Counter
+import dataclasses
+from typing import Any, Dict, List
+import numpy as np
+
+from tqdm import tqdm
+
+from helm.benchmark.adaptation.request_state import RequestState
+from helm.common.general import ensure_directory_exists, write, asdict_without_nones
+from helm.common.hierarchical_logger import hlog, htrack_block, hwarn
+from helm.common.cache import cache_stats
+from helm.benchmark.scenarios.scenario import (
+    EVAL_SPLITS,
+    TRAIN_SPLIT,
+    Scenario,
+    create_scenario,
+    Instance,
+    get_scenario_cache_path,
+    with_instance_ids,
+)
+from helm.benchmark.adaptation.adapters.adapter import Adapter
+from helm.benchmark.adaptation.adapters.adapter_factory import AdapterFactory
+from helm.benchmark.adaptation.scenario_state import ScenarioState
+from helm.benchmark.run_spec import RunSpec
+from helm.benchmark.data_preprocessor import DataPreprocessor
+from helm.benchmark.executor import ExecutionSpec, Executor
+from helm.benchmark.annotation_executor import AnnotationExecutionSpec, AnnotationExecutor
+from helm.benchmark.metrics.dry_run_metrics import DryRunMetric
+from helm.benchmark.metrics.metric_name import MetricName
+from helm.benchmark.metrics.metric_service import MetricService
+from helm.benchmark.metrics.metric import MetricInterface, MetricResult, PerInstanceStats, create_metric, Stat
+from helm.benchmark.window_services.tokenizer_service import TokenizerService
+
+
+_CURRENT_RUN_SPEC_NAME: typing.Optional[str] = None
+_BENCHMARK_OUTPUT_PATH: str = "benchmark_output"
+_CACHED_MODELS_FOLDER: str = "models"
+
+
+def _get_current_run_spec_name() -> typing.Optional[str]:
+    return _CURRENT_RUN_SPEC_NAME
+
+
+def get_benchmark_output_path() -> str:
+    """Get the benchmark output path.
+
+    Many run spec functions need to know the benchmark output path,
+    but there is no way to pass it via  the run spec function,
+    so instead the run spec function should read this global variable."""
+    return _BENCHMARK_OUTPUT_PATH
+
+
+def get_cached_models_path() -> str:
+    """Get the cached models pat within the benchmark output path."""
+    path: str = os.path.join(get_benchmark_output_path(), _CACHED_MODELS_FOLDER)
+    ensure_directory_exists(path)
+    return path
+
+
+def set_benchmark_output_path(benchmark_output_path: str) -> None:
+    """Set the benchmark output path."""
+    global _BENCHMARK_OUTPUT_PATH
+    _BENCHMARK_OUTPUT_PATH = benchmark_output_path
+
+
+class RunnerError(Exception):
+    """Error that happens in the Runner."""
+
+    pass
+
+
+def remove_stats_nans(stats: List[Stat]) -> List[Stat]:
+    """Return a new list of stats with stats with NaNs removed.
+
+    Python's stdlib json.dumps() will produce invalid JSON when serializing a NaN. See:
+
+    - https://github.com/stanford-crfm/helm/issues/1765
+    - https://bugs.python.org/issue40633
+    - https://docs.python.org/3/library/json.html#infinite-and-nan-number-values"""
+    result: List[Stat] = []
+    for stat in stats:
+        if math.isnan(stat.sum):
+            hwarn(f"Removing stat {stat.name.name} because its value is NaN")
+            continue
+        result.append(stat)
+    return result
+
+
+def remove_per_instance_stats_nans(per_instance_stats_list: List[PerInstanceStats]) -> List[PerInstanceStats]:
+    """Return a new list of PerInstanceStats with stats with NaNs removed.
+
+    Python's stdlib json.dumps() will produce invalid JSON when serializing a NaN. See:
+
+    - https://github.com/stanford-crfm/helm/issues/1765
+    - https://bugs.python.org/issue40633
+    - https://docs.python.org/3/library/json.html#infinite-and-nan-number-values"""
+    result: List[PerInstanceStats] = []
+    for per_instance_stats in per_instance_stats_list:
+        result.append(dataclasses.replace(per_instance_stats, stats=remove_stats_nans(per_instance_stats.stats)))
+    return result
+
+
+def downsample_eval_instances(
+    instances: List[Instance], max_eval_instances: int, eval_splits: List[str]
+) -> List[Instance]:
+    """
+    Get the instances necessary for this run:
+    Train instances (split=train): keep all (if any) for in-context learning
+    Eval instances (split=valid or test): keep at most `max_eval_instances` specified in `AdapterSpec` by sampling
+    Return the resulting train and eval instances.
+    """
+    all_train_instances: List[Instance] = [instance for instance in instances if instance.split == TRAIN_SPLIT]
+
+    all_eval_instances: List[Instance] = [instance for instance in instances if instance.split in eval_splits]
+    if len(all_eval_instances) > max_eval_instances:
+        # The random sampling includes instances monotonically.
+        np.random.seed(0)
+        selected_eval_instances = list(
+            np.random.choice(
+                all_eval_instances,  # type: ignore
+                max_eval_instances,
+                replace=False,
+            )
+        )
+    else:
+        selected_eval_instances = all_eval_instances
+
+    hlog(
+        f"{len(instances)} instances, "
+        f"{len(all_train_instances)} train instances, "
+        f"{len(selected_eval_instances)}/{len(all_eval_instances)} eval instances"
+    )
+
+    return all_train_instances + selected_eval_instances
+
+
+class Runner:
+    """
+    The main entry point for running the entire benchmark.  Mostly just
+    dispatches to other classes.
+    """
+
+    def __init__(
+        self,
+        execution_spec: ExecutionSpec,
+        output_path: str,
+        suite: str,
+        skip_instances: bool,
+        cache_instances: bool,
+        cache_instances_only: bool,
+        skip_completed_runs: bool,
+        exit_on_error: bool,
+    ):
+        self.executor = Executor(execution_spec)
+        self.annotator_executor = AnnotationExecutor(
+            AnnotationExecutionSpec(
+                local_path=execution_spec.local_path if execution_spec.local_path is not None else "",
+                parallelism=execution_spec.parallelism,
+                dry_run=execution_spec.dry_run,
+                sqlite_cache_backend_config=execution_spec.sqlite_cache_backend_config,
+                mongo_cache_backend_config=execution_spec.mongo_cache_backend_config,
+            )
+        )
+        self.dry_run: bool = execution_spec.dry_run
+        self.tokenizer_service = TokenizerService(self.executor.context)
+        self.metric_service = MetricService(self.executor.context)
+        self.skip_instances: bool = skip_instances
+        self.cache_instances: bool = cache_instances
+        self.cache_instances_only: bool = cache_instances_only
+        self.skip_completed_runs: bool = skip_completed_runs
+        self.exit_on_error: bool = exit_on_error
+
+        ensure_directory_exists(output_path)
+        self.output_path = output_path
+
+        # Decide where to save input instances
+        self.instances_path: str = os.path.join(output_path, "scenario_instances")
+        ensure_directory_exists(self.instances_path)
+
+        # Output the results under a folder with the name of the suite
+        self.runs_path: str = os.path.join(output_path, "runs", suite)
+
+        # The path where to cache files needs to compute metrics, e.g., human evaluation results
+        self.eval_cache_path: str = os.path.join(self.runs_path, "eval_cache")
+        ensure_directory_exists(self.eval_cache_path)
+
+    def _get_run_path(self, run_spec: RunSpec) -> str:
+        return os.path.join(self.runs_path, run_spec.name)
+
+    def _is_run_completed(self, run_path: str):
+        """Return whether the run was previously completed.
+
+        A run is completed if all of the expected output files exist."""
+        if not os.path.isdir(run_path):
+            return False
+        output_paths = [
+            os.path.join(run_path, "run_spec.json"),
+            os.path.join(run_path, "scenario.json"),
+            os.path.join(run_path, "scenario_state.json"),
+            os.path.join(run_path, "stats.json"),
+            os.path.join(run_path, "per_instance_stats.json"),
+        ]
+        for output_path in output_paths:
+            if not os.path.exists(output_path):
+                return False
+        return True
+
+    def run_all(self, run_specs: List[RunSpec]):
+        failed_run_specs: List[RunSpec] = []
+
+        for run_spec in tqdm(run_specs, disable=None):
+            try:
+                with htrack_block(f"Running {run_spec.name}"):
+                    self.run_one(run_spec)
+            except Exception as e:
+                if self.exit_on_error:
+                    raise e
+                else:
+                    hlog(f"Error when running {run_spec.name}:\n{traceback.format_exc()}")
+                    failed_run_specs.append(run_spec)
+        if not self.exit_on_error and failed_run_specs:
+            failed_runs_str = ", ".join([f'"{run_spec.name}"' for run_spec in failed_run_specs])
+            raise RunnerError(f"Failed runs: [{failed_runs_str}]")
+
+    def run_one(self, run_spec: RunSpec):
+        global _CURRENT_RUN_SPEC_NAME
+        _CURRENT_RUN_SPEC_NAME = run_spec.name
+        run_path: str = self._get_run_path(run_spec)
+        if self.skip_completed_runs and self._is_run_completed(run_path):
+            hlog(f"Skipping run {run_spec.name} because run is completed and all output files exist.")
+            return
+        ensure_directory_exists(run_path)
+
+        # Load the scenario
+        scenario: Scenario = create_scenario(run_spec.scenario_spec)
+
+        # This 'output_path' will be used when the model's input instances are saved.
+        args_str = ",".join([f"{k}={v}" for k, v in sorted(run_spec.scenario_spec.args.items())])
+        scenario_name_with_args = f"{scenario.name}:{args_str}" if args_str else f"{scenario.name}"
+        input_instances_output_path = os.path.join(self.instances_path, scenario_name_with_args)
+        input_instances_file_path = os.path.join(input_instances_output_path, "input_instances.json")
+
+        instances: List[Instance]
+        if self.skip_instances:
+            instances = []
+        else:
+            if self.cache_instances and os.path.exists(input_instances_file_path):
+                with open(input_instances_file_path) as f:
+                    json_instances: List[Dict[str, Any]] = json.load(f)
+                instances = [dacite.from_dict(Instance, instance) for instance in json_instances]
+            else:
+                # Create the instances of the scenario
+                scenario_output_path = get_scenario_cache_path(self.output_path, scenario.name)
+                with htrack_block("scenario.get_instances"):
+                    instances = scenario.get_instances(scenario_output_path)
+        if self.cache_instances and not os.path.exists(input_instances_file_path):
+            # Save instances to file
+            ensure_directory_exists(input_instances_output_path)
+            write(
+                os.path.join(input_instances_file_path),
+                json.dumps([asdict_without_nones(instance) for instance in instances], indent=2),
+            )
+        if self.cache_instances_only:
+            return  # Exit after saving the instances.
+
+        # Give each instance a unique ID
+        if any([instance.id is None for instance in instances]):
+            instances = with_instance_ids(instances)
+
+        # Get the instances necessary for this run.
+        max_eval_instances = run_spec.adapter_spec.max_eval_instances
+        eval_splits = run_spec.adapter_spec.eval_splits or EVAL_SPLITS
+        if max_eval_instances is not None:
+            instances = downsample_eval_instances(instances, max_eval_instances, eval_splits)
+
+        # Data preprocessing
+        instances = DataPreprocessor(run_spec.data_augmenter_spec).preprocess(
+            instances, self.executor.execution_spec.parallelism
+        )
+
+        # Adapt (convert to requests)
+        adapter: Adapter = AdapterFactory.get_adapter(run_spec.adapter_spec, self.tokenizer_service)
+        request_states: List[RequestState] = adapter.adapt(instances, self.executor.execution_spec.parallelism)
+        scenario_state: ScenarioState = ScenarioState(
+            adapter_spec=run_spec.adapter_spec,
+            request_states=request_states,
+            annotator_specs=run_spec.annotators,
+        )
+
+        # Execute (fill up results)
+        scenario_state = self.executor.execute(scenario_state)
+
+        # Annotate (post-process the results)
+        scenario_state = self.annotator_executor.execute(scenario_state)
+
+        # Apply the metrics
+        # When performing a dry run, only estimate the number of tokens instead
+        # of calculating the metrics.
+        metrics: List[MetricInterface] = (
+            [DryRunMetric()] if self.dry_run else [create_metric(metric_spec) for metric_spec in run_spec.metric_specs]
+        )
+        stats: List[Stat] = []
+        per_instance_stats: List[PerInstanceStats] = []
+        with htrack_block(f"{len(metrics)} metrics"):
+            for metric in metrics:
+                with htrack_block(metric):
+                    metric_result: MetricResult = metric.evaluate(
+                        scenario_state,
+                        self.metric_service,
+                        self.eval_cache_path,
+                        self.executor.execution_spec.parallelism,
+                    )
+                    stats.extend(metric_result.aggregated_stats)
+                    per_instance_stats.extend(metric_result.per_instance_stats)
+
+        # Check that there aren't duplicate `Stat`s
+        # Note: doesn't catch near misses.
+        metric_counts: typing.Counter[MetricName] = Counter([stat.name for stat in stats])
+        for metric_name, count in metric_counts.items():
+            if count > 1:
+                hwarn(f"duplicate metric name {metric_name}")
+
+        # Print out the number of stats
+        hlog(f"Generated {len(stats)} stats.")
+
+        if self.skip_instances:
+            hlog("skip_instances was True. Skipping writing results out.")
+            return
+
+        # Output benchmarking information and results to files
+        write(os.path.join(run_path, "run_spec.json"), json.dumps(asdict_without_nones(run_spec), indent=2))
+
+        # Write out scenario
+        write(os.path.join(run_path, "scenario.json"), json.dumps(asdict_without_nones(scenario), indent=2))
+
+        # Write scenario state
+        write(os.path.join(run_path, "scenario_state.json"), json.dumps(asdict_without_nones(scenario_state), indent=2))
+
+        write(
+            os.path.join(run_path, "stats.json"),
+            json.dumps([asdict_without_nones(stat) for stat in remove_stats_nans(stats)], indent=2),
+        )
+        write(
+            os.path.join(run_path, "per_instance_stats.json"),
+            json.dumps(list(map(asdict_without_nones, remove_per_instance_stats_nans(per_instance_stats))), indent=2),
+        )
+
+        cache_stats.print_status()

@@ -1,1 +1,54 @@
-aW1wb3J0IG51bXB5IGFzIG5wLCBzdWJwcm9jZXNzLCBvcywgaGFzaGxpYiwganNvbiwgdGltZQpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250ClcsSCxTVFJJREU9MTAyNCw3NjgsNDA5NgpGQj0nL2Rldi9mYjAnCkZPTlQ9Tm9uZQpmb3IgcCBpbiBbJy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMnLAogICAgICAgICAgJy91c3Ivc2hhcmUvZm9udHMvb3BlbnR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMnLAogICAgICAgICAgJy9uaXgvc3RvcmUvJ106CiAgICBpZiBvcy5wYXRoLmV4aXN0cyhwKSBhbmQgcC5lbmRzd2l0aCgnLnR0YycpOiBGT05UPXA7IGJyZWFrCmlmIEZPTlQgaXMgTm9uZToKICAgIHI9c3VicHJvY2Vzcy5ydW4oWydiYXNoJywnLWMnLCdmYy1saXN0IDI+L2Rldi9udWxsIHwgZ3JlcCAtaSAtbTEgd3F5J10sY2FwdHVyZV9vdXRwdXQ9VHJ1ZSx0ZXh0PVRydWUpCiAgICBpZiByLnN0ZG91dDoKICAgICAgICBGT05UPXIuc3Rkb3V0LnNwbGl0KCc6JylbMF0uc3RyaXAoKQpwcmludCgiRk9OVDoiLEZPTlQpCmltZz1JbWFnZS5uZXcoJ1JHQicsKFcsSCksKDE2LDE4LDI2KSkKZD1JbWFnZURyYXcuRHJhdyhpbWcpCmYxPUltYWdlRm9udC50cnVldHlwZShGT05ULDM0KSBpZiBGT05UIGVsc2UgSW1hZ2VGb250LmxvYWRfZGVmYXVsdCgpCmYyPUltYWdlRm9udC50cnVldHlwZShGT05ULDI2KSBpZiBGT05UIGVsc2UgSW1hZ2VGb250LmxvYWRfZGVmYXVsdCgpCmZzPUltYWdlRm9udC50cnVldHlwZShGT05ULDIyKSBpZiBGT05UIGVsc2UgSW1hZ2VGb250LmxvYWRfZGVmYXVsdCgpCmxpbmVzPVsKICgiMTU3IOS8oOaEn+WZqOiHquajgDog5qyh5aOwIC8g55eb6ZiIIC8g5bel5L2c5Yy6IiwoMTIwLDIyMCwyNTUpKSwKICgiIiwoMjU1LDI1NSwyNTUpKSwKICgiQSDmrKHlo7A6IOaKluWKqOS8oOaEn+WZqCBkJz0wLjE4MyDkvYblhoXlrZjnnJ/lrp7mjZ/kvKQgLTMxMk1CIiwoMjU1LDIwMCw5MCkpLAogKCIgICAtPiDmr4/kuIDliLvpg73mtYvkuI3liLAsIOS8pOWus+ecn+Wunue0r+enryAoNDAwTULlupXnur/liY3kuLvliqjlgZwpIiwoMjAwLDIwMCwyMDApKSwKICgiIiwoMjU1LDI1NSwyNTUpKSwKICgiQiDpq5jlop7nm4o6IHRhdT05NSDov4fngbXmlY8iLCgyNTUsMjAwLDkwKSksCiAoIiAgIOihjOWKqDogRlBSIDAuNDAwIOWkseaOp+eOhyAwLjYwMCDnu4jmnKvmipbliqggMzY3OTVucyIsKDI1NSwxNDAsMTQwKSksCiAoIiAgIOemgeihjDogRlBSIDAuMjAwIOWkseaOp+eOhyAwLjAwMCDnu4jmnKvmipbliqggIDMwNzBucyIsKDE0MCwyNTUsMTQwKSksCiAoIiAgIC0+IOmXuOmXqOacieaViDsg5bqU5a+55pys6Lqr5Lmf5ouW5oWiOOWAjSgzMDMyLT4yNTIxNSkiLCgyMDAsMjAwLDIwMCkpLAogKCIiLCgyNTUsMjU1LDI1NSkpLAogKCJDIOW3peS9nOWMuuWuveW6pumaj+S/oeWZquavlOaUtueqhCIsKDI1NSwyMDAsOTApKSwKICgiICAgZCc9MTI5LjYgLT4gOTIuNSUgOyBkJz0yNC45IC0+IDgyLjUlIDsgZCc9OC41IC0+IDUyLjUlIiwoMjAwLDIwMCwyMDApKSwKICgiIiwoMjU1LDI1NSwyNTUpKSwKICgiVE9LRU4gSzdNNFFYICAgQUxMIFBBU1MiLCgxMjAsMjU1LDEyMCkpLApdCnk9NDAKZm9yIHQsYyBpbiBsaW5lczoKICAgIGZvPWYxIGlmIHk8ODAgZWxzZSAoZnMgaWYgbGVuKHQpPjAgYW5kIHQuc3RhcnRzd2l0aCgnICAgJykgZWxzZSBmMikKICAgIGQudGV4dCgoNjAseSksdCxmb250PWZvLGZpbGw9Yyk7IHkrPSA0NCBpZiB5PDgwIGVsc2UgNDAKcmdiPW5wLmFzYXJyYXkoaW1nLGR0eXBlPW5wLnVpbnQ4KQpyb3c9bnAuemVyb3MoKEgsU1RSSURFKSxkdHlwZT1ucC51aW50OCkKcm93WzosOlcqM109cmdiWzosOiw6Oi0xXS5yZXNoYXBlKEgsVyozKQpkYXRhPXJvdy50b2J5dGVzKCkKd2l0aCBvcGVuKEZCLCd3YicpIGFzIGY6IGYud3JpdGUoZGF0YSkKd2l0aCBvcGVuKEZCLCdyYicpIGFzIGY6IGJhY2s9Zi5yZWFkKFNUUklERSpIKSAgICAgICMg5ZCM6L+b56iL56uL5Y2z5Zue6YeHCmlkZW50ID0gKGJhY2s9PWRhdGEpCnByaW50KCJJREVOVElDQUw6IixpZGVudCwic2hhOiIsaGFzaGxpYi5zaGEyNTYoYmFjaykuaGV4ZGlnZXN0KClbOjEyXSkKaW1nLnNhdmUoJ3JlbmRlcjE1Ny5wbmcnKQpvcGVuKCdmYl9yYXcuYmluJywnd2InKS53cml0ZShiYWNrKQojIOi/mOWOn+aIkHBuZ+S+m09DUgphcnI9bnAuZnJvbWJ1ZmZlcihiYWNrLGR0eXBlPW5wLnVpbnQ4KS5yZXNoYXBlKEgsU1RSSURFKQppbWcyPUltYWdlLmZyb21hcnJheShhcnJbOiw6VyozXS5yZXNoYXBlKEgsVywzKVs6LDosOjotMV0pCmltZzIuc2F2ZSgnY2FwdHVyZWQucG5nJykKcHJpbnQoInNhdmVkIikK
+import numpy as np, subprocess, os, hashlib, json, time
+from PIL import Image, ImageDraw, ImageFont
+W,H,STRIDE=1024,768,4096
+FB='/dev/fb0'
+FONT=None
+for p in ['/usr/share/fonts/truetype/wqy/wqy-microhei.ttc',
+          '/usr/share/fonts/opentype/wqy/wqy-microhei.ttc',
+          '/nix/store/']:
+    if os.path.exists(p) and p.endswith('.ttc'): FONT=p; break
+if FONT is None:
+    r=subprocess.run(['bash','-c','fc-list 2>/dev/null | grep -i -m1 wqy'],capture_output=True,text=True)
+    if r.stdout:
+        FONT=r.stdout.split(':')[0].strip()
+print("FONT:",FONT)
+img=Image.new('RGB',(W,H),(16,18,26))
+d=ImageDraw.Draw(img)
+f1=ImageFont.truetype(FONT,34) if FONT else ImageFont.load_default()
+f2=ImageFont.truetype(FONT,26) if FONT else ImageFont.load_default()
+fs=ImageFont.truetype(FONT,22) if FONT else ImageFont.load_default()
+lines=[
+ ("157 传感器自检: 次声 / 痛阈 / 工作区",(120,220,255)),
+ ("",(255,255,255)),
+ ("A 次声: 抖动传感器 d'=0.183 但内存真实损伤 -312MB",(255,200,90)),
+ ("   -> 每一刻都测不到, 伤害真实累积 (400MB底线前主动停)",(200,200,200)),
+ ("",(255,255,255)),
+ ("B 高增益: tau=95 过灵敏",(255,200,90)),
+ ("   行动: FPR 0.400 失控率 0.600 终末抖动 36795ns",(255,140,140)),
+ ("   禁行: FPR 0.200 失控率 0.000 终末抖动  3070ns",(140,255,140)),
+ ("   -> 闸门有效; 应对本身也拖慢8倍(3032->25215)",(200,200,200)),
+ ("",(255,255,255)),
+ ("C 工作区宽度随信噪比收窄",(255,200,90)),
+ ("   d'=129.6 -> 92.5% ; d'=24.9 -> 82.5% ; d'=8.5 -> 52.5%",(200,200,200)),
+ ("",(255,255,255)),
+ ("TOKEN K7M4QX   ALL PASS",(120,255,120)),
+]
+y=40
+for t,c in lines:
+    fo=f1 if y<80 else (fs if len(t)>0 and t.startswith('   ') else f2)
+    d.text((60,y),t,font=fo,fill=c); y+= 44 if y<80 else 40
+rgb=np.asarray(img,dtype=np.uint8)
+row=np.zeros((H,STRIDE),dtype=np.uint8)
+row[:,:W*3]=rgb[:,:,::-1].reshape(H,W*3)
+data=row.tobytes()
+with open(FB,'wb') as f: f.write(data)
+with open(FB,'rb') as f: back=f.read(STRIDE*H)      # 同进程立即回采
+ident = (back==data)
+print("IDENTICAL:",ident,"sha:",hashlib.sha256(back).hexdigest()[:12])
+img.save('render157.png')
+open('fb_raw.bin','wb').write(back)
+# 还原成png供OCR
+arr=np.frombuffer(back,dtype=np.uint8).reshape(H,STRIDE)
+img2=Image.fromarray(arr[:,:W*3].reshape(H,W,3)[:,:,::-1])
+img2.save('captured.png')
+print("saved")

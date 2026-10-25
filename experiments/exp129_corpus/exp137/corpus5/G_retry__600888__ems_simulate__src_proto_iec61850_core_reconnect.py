@@ -1,1 +1,118 @@
-IiIiSUVDIDYxODUwIOmHjei/nuS4jumHjeivleetlueVpQoK5o+Q5L6b5oyH5pWw6YCA6YG/6YeN6L+e44CB6YeN6K+V6KOF6aWw5Zmo562J6bKB5qOS5oCn5aKe5by65Yqf6IO944CCCiIiIgoKZnJvbSBjb2xsZWN0aW9ucy5hYmMgaW1wb3J0IENhbGxhYmxlCmltcG9ydCBmdW5jdG9vbHMKaW1wb3J0IHRpbWUKCmZyb20gLi5sb2cgaW1wb3J0IGxvZwpmcm9tIC5leGNlcHRpb25zIGltcG9ydCBDb25uZWN0aW9uRXJyb3IsIENvbm5lY3Rpb25Mb3N0RXJyb3IKCgpkZWYgcmV0cnlfd2l0aF9iYWNrb2ZmKAogICAgbWF4X3JldHJpZXM6IGludCA9IDMsCiAgICBiYXNlX2RlbGF5OiBmbG9hdCA9IDEuMCwKICAgIG1heF9kZWxheTogZmxvYXQgPSA2MC4wLAogICAgZXhwb25lbnRpYWxfYmFzZTogZmxvYXQgPSAyLjAsCiAgICBleGNlcHRpb25zOiB0dXBsZVt0eXBlW0V4Y2VwdGlvbl0sIC4uLl0gPSAoQ29ubmVjdGlvbkVycm9yLCBDb25uZWN0aW9uTG9zdEVycm9yKSwKICAgIG9uX3JldHJ5OiBDYWxsYWJsZSB8IE5vbmUgPSBOb25lLAopOgogICAgIiIi5oyH5pWw6YCA6YG/6YeN6K+V6KOF6aWw5ZmoCgogICAgQXJnczoKICAgICAgICBtYXhfcmV0cmllczog5pyA5aSn6YeN6K+V5qyh5pWwCiAgICAgICAgYmFzZV9kZWxheTog5Yid5aeL5bu26L+fICjnp5IpCiAgICAgICAgbWF4X2RlbGF5OiDmnIDlpKflu7bov58gKOenkikKICAgICAgICBleHBvbmVudGlhbF9iYXNlOiDmjIfmlbDln7rmlbAKICAgICAgICBleGNlcHRpb25zOiDop6blj5Hph43or5XnmoTlvILluLjnsbvlnosKICAgICAgICBvbl9yZXRyeTog6YeN6K+V5Zue6LCDIChhdHRlbXB0LCBleGNlcHRpb24pCiAgICAiIiIKCiAgICBkZWYgZGVjb3JhdG9yKGZ1bmMpOgogICAgICAgICIiIuS4uuebruagh+WHveaVsOWuieijheaMh+aVsOmAgOmBv+mHjeivlemAu+i+keOAgiIiIgoKICAgICAgICBAZnVuY3Rvb2xzLndyYXBzKGZ1bmMpCiAgICAgICAgZGVmIHdyYXBwZXIoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgIiIi5omn6KGM6KKr6KOF6aWw5Ye95pWw77yb6L+e5o6l57G75byC5bi45pe25oyJ5oyH5pWw6YCA6YG/562J5b6F5bm26YeN6K+V44CCIiIiCiAgICAgICAgICAgIGxhc3RfZXhjZXB0aW9uID0gTm9uZQogICAgICAgICAgICBmb3IgYXR0ZW1wdCBpbiByYW5nZShtYXhfcmV0cmllcyArIDEpOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIHJldHVybiBmdW5jKCphcmdzLCAqKmt3YXJncykKICAgICAgICAgICAgICAgIGV4Y2VwdCBleGNlcHRpb25zIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgbGFzdF9leGNlcHRpb24gPSBlCiAgICAgICAgICAgICAgICAgICAgaWYgYXR0ZW1wdCA8IG1heF9yZXRyaWVzOgogICAgICAgICAgICAgICAgICAgICAgICBkZWxheSA9IG1pbihiYXNlX2RlbGF5ICogKGV4cG9uZW50aWFsX2Jhc2UqKmF0dGVtcHQpLCBtYXhfZGVsYXkpCiAgICAgICAgICAgICAgICAgICAgICAgIGxvZy53YXJuaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZiJ7ZnVuYy5fX25hbWVfX30g5aSx6LSlICjlsJ3or5Uge2F0dGVtcHQgKyAxfS97bWF4X3JldHJpZXMgKyAxfSksIHtkZWxheTouMWZ9cyDlkI7ph43or5U6IHtlfSIKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICBpZiBvbl9yZXRyeToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uX3JldHJ5KGF0dGVtcHQsIGUpCiAgICAgICAgICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoZGVsYXkpCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmVycm9yKGYie2Z1bmMuX19uYW1lX199IOWksei0pe+8jOW3sui+vuacgOWkp+mHjeivleasoeaVsCB7bWF4X3JldHJpZXMgKyAxfToge2V9IikKICAgICAgICAgICAgcmFpc2UgbGFzdF9leGNlcHRpb24KCiAgICAgICAgcmV0dXJuIHdyYXBwZXIKCiAgICByZXR1cm4gZGVjb3JhdG9yCgoKY2xhc3MgUmVjb25uZWN0aW9uTWFuYWdlcjoKICAgICIiIumHjei/nueuoeeQhuWZqAoKICAgIOeuoeeQhuiHquWKqOmHjei/numAu+i+ke+8jOaUr+aMgeaMh+aVsOmAgOmBv+WSjOacgOWkp+mHjeivleasoeaVsOOAggogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgbWF4X3JldHJpZXM6IGludCA9IDUsCiAgICAgICAgYmFzZV9kZWxheTogZmxvYXQgPSA1LjAsCiAgICAgICAgbWF4X2RlbGF5OiBmbG9hdCA9IDMwMC4wLAogICAgICAgIGV4cG9uZW50aWFsX2Jhc2U6IGZsb2F0ID0gMi4wLAogICAgKToKICAgICAgICAiIiLkv53lrZjph43ov57lh73mlbDlkozpgIDpgb/lj4LmlbDvvIzlubbliJ3lp4vljJbov57nu63lpLHotKXkuI7ph43or5XorqHmlbDjgIIiIiIKICAgICAgICBzZWxmLm1heF9yZXRyaWVzID0gbWF4X3JldHJpZXMKICAgICAgICBzZWxmLmJhc2VfZGVsYXkgPSBiYXNlX2RlbGF5CiAgICAgICAgc2VsZi5tYXhfZGVsYXkgPSBtYXhfZGVsYXkKICAgICAgICBzZWxmLmV4cG9uZW50aWFsX2Jhc2UgPSBleHBvbmVudGlhbF9iYXNlCiAgICAgICAgc2VsZi5fcmV0cnlfY291bnQgPSAwCgogICAgQHByb3BlcnR5CiAgICBkZWYgcmV0cnlfY291bnQoc2VsZikgLT4gaW50OgogICAgICAgICIiIui/lOWbnlJlY29ubmVjdGlvbk1hbmFnZXLlvZPliY3nmoRyZXRyeeaVsOmHj+OAgiIiIgogICAgICAgIHJldHVybiBzZWxmLl9yZXRyeV9jb3VudAoKICAgIGRlZiByZXNldChzZWxmKToKICAgICAgICAiIiLph43nva7ph43or5XorqHmlbAiIiIKICAgICAgICBzZWxmLl9yZXRyeV9jb3VudCA9IDAKCiAgICBkZWYgZ2V0X2RlbGF5KHNlbGYsIGF0dGVtcHQ6IGludCkgLT4gZmxvYXQ6CiAgICAgICAgIiIi6K6h566X56ysIE4g5qyh6YeN6K+V55qE5bu26L+f5pe26Ze0IiIiCiAgICAgICAgcmV0dXJuIG1pbihzZWxmLmJhc2VfZGVsYXkgKiAoc2VsZi5leHBvbmVudGlhbF9iYXNlKiphdHRlbXB0KSwgc2VsZi5tYXhfZGVsYXkpCgogICAgZGVmIGF0dGVtcHRfcmVjb25uZWN0KHNlbGYsIGNvbm5lY3RfZnVuYzogQ2FsbGFibGVbW10sIGJvb2xdKSAtPiBib29sOgogICAgICAgICIiIuWwneivlemHjei/ngoKICAgICAgICBBcmdzOgogICAgICAgICAgICBjb25uZWN0X2Z1bmM6IOi/nuaOpeWHveaVsO+8jOi/lOWbniBUcnVlIOihqOekuuaIkOWKnwoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICDmmK/lkKbph43ov57miJDlip8KICAgICAgICAiIiIKICAgICAgICBmb3IgYXR0ZW1wdCBpbiByYW5nZShzZWxmLm1heF9yZXRyaWVzKToKICAgICAgICAgICAgZGVsYXkgPSBzZWxmLmdldF9kZWxheShhdHRlbXB0KQogICAgICAgICAgICBsb2cuaW5mbyhmIumHjei/nuWwneivlSB7YXR0ZW1wdCArIDF9L3tzZWxmLm1heF9yZXRyaWVzfSwg562J5b6FIHtkZWxheTouMWZ9cy4uLiIpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoZGVsYXkpCgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBpZiBjb25uZWN0X2Z1bmMoKToKICAgICAgICAgICAgICAgICAgICBzZWxmLl9yZXRyeV9jb3VudCA9IGF0dGVtcHQgKyAxCiAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oZiLph43ov57miJDlip8gKOesrCB7YXR0ZW1wdCArIDF9IOasoeWwneivlSkiKQogICAgICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIGxvZy5lcnJvcihmIumHjei/nuW8guW4uCAo5bCd6K+VIHthdHRlbXB0ICsgMX0pOiB7ZX0iKQoKICAgICAgICBsb2cuZXJyb3IoZiLph43ov57lpLHotKXvvIzlt7Lovr7mnIDlpKfph43or5XmrKHmlbAge3NlbGYubWF4X3JldHJpZXN9IikKICAgICAgICByZXR1cm4gRmFsc2UK
+"""IEC 61850 重连与重试策略
+
+提供指数退避重连、重试装饰器等鲁棒性增强功能。
+"""
+
+from collections.abc import Callable
+import functools
+import time
+
+from ..log import log
+from .exceptions import ConnectionError, ConnectionLostError
+
+
+def retry_with_backoff(
+    max_retries: int = 3,
+    base_delay: float = 1.0,
+    max_delay: float = 60.0,
+    exponential_base: float = 2.0,
+    exceptions: tuple[type[Exception], ...] = (ConnectionError, ConnectionLostError),
+    on_retry: Callable | None = None,
+):
+    """指数退避重试装饰器
+
+    Args:
+        max_retries: 最大重试次数
+        base_delay: 初始延迟 (秒)
+        max_delay: 最大延迟 (秒)
+        exponential_base: 指数基数
+        exceptions: 触发重试的异常类型
+        on_retry: 重试回调 (attempt, exception)
+    """
+
+    def decorator(func):
+        """为目标函数安装指数退避重试逻辑。"""
+
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            """执行被装饰函数；连接类异常时按指数退避等待并重试。"""
+            last_exception = None
+            for attempt in range(max_retries + 1):
+                try:
+                    return func(*args, **kwargs)
+                except exceptions as e:
+                    last_exception = e
+                    if attempt < max_retries:
+                        delay = min(base_delay * (exponential_base**attempt), max_delay)
+                        log.warning(
+                            f"{func.__name__} 失败 (尝试 {attempt + 1}/{max_retries + 1}), {delay:.1f}s 后重试: {e}"
+                        )
+                        if on_retry:
+                            on_retry(attempt, e)
+                        time.sleep(delay)
+                    else:
+                        log.error(f"{func.__name__} 失败，已达最大重试次数 {max_retries + 1}: {e}")
+            raise last_exception
+
+        return wrapper
+
+    return decorator
+
+
+class ReconnectionManager:
+    """重连管理器
+
+    管理自动重连逻辑，支持指数退避和最大重试次数。
+    """
+
+    def __init__(
+        self,
+        max_retries: int = 5,
+        base_delay: float = 5.0,
+        max_delay: float = 300.0,
+        exponential_base: float = 2.0,
+    ):
+        """保存重连函数和退避参数，并初始化连续失败与重试计数。"""
+        self.max_retries = max_retries
+        self.base_delay = base_delay
+        self.max_delay = max_delay
+        self.exponential_base = exponential_base
+        self._retry_count = 0
+
+    @property
+    def retry_count(self) -> int:
+        """返回ReconnectionManager当前的retry数量。"""
+        return self._retry_count
+
+    def reset(self):
+        """重置重试计数"""
+        self._retry_count = 0
+
+    def get_delay(self, attempt: int) -> float:
+        """计算第 N 次重试的延迟时间"""
+        return min(self.base_delay * (self.exponential_base**attempt), self.max_delay)
+
+    def attempt_reconnect(self, connect_func: Callable[[], bool]) -> bool:
+        """尝试重连
+
+        Args:
+            connect_func: 连接函数，返回 True 表示成功
+
+        Returns:
+            是否重连成功
+        """
+        for attempt in range(self.max_retries):
+            delay = self.get_delay(attempt)
+            log.info(f"重连尝试 {attempt + 1}/{self.max_retries}, 等待 {delay:.1f}s...")
+            time.sleep(delay)
+
+            try:
+                if connect_func():
+                    self._retry_count = attempt + 1
+                    log.info(f"重连成功 (第 {attempt + 1} 次尝试)")
+                    return True
+            except Exception as e:
+                log.error(f"重连异常 (尝试 {attempt + 1}): {e}")
+
+        log.error(f"重连失败，已达最大重试次数 {self.max_retries}")
+        return False

@@ -1,1 +1,296 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJUZXN0LW93bmVkIGJyb3duZmllbGQgcmVwb3NpdG9yaWVzOyBuZXZlciBhbiBvbmJvYXJkaW5nIG9yIGluc3RydWN0aW9uIHdyaXRlci4KCkxvYWQgYSBjbG9zZWQsIGJvdW5kZWQgZml4dHVyZSBjYXRhbG9nIGFuZCBtYXRlcmlhbGl6ZSBvbmUgY3JlYXRlLW9ubHkgd29ya3NwYWNlLgpPbmx5IGZpeGVkIEdpdCBvcGVyYXRpb25zIGV4ZWN1dGUuIFJlcG9zaXRvcnkgY29tbWFuZHMgYW5kIGV2YWx1YXRvciBjaGVja3MgcmVtYWluCmluZXJ0IGRhdGEuIEV2YWx1YXRvciByZWNvcmRzIGxpdmUgb3V0c2lkZSB0aGUgc29sdmVyIHdvcmtzcGFjZSBhbmQgR2l0IGhpc3Rvcnk7CnRoaXMgcGxhY2VtZW50IGlzIG5vdCBwcm9vZiB0aGF0IGEgaG9zdCBzYW5kYm94IGRlbmllcyBhY2Nlc3MgdG8gc2libGluZyBwYXRocy4KVGhlcmUgYXJlIG5vIGltcG9ydC10aW1lIGZpbGVzeXN0ZW0sIEdpdCwgZW52aXJvbm1lbnQgb3IgbmV0d29yayBzaWRlIGVmZmVjdHMuCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgaGFzaGxpYgppbXBvcnQganNvbgppbXBvcnQgb3MKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmltcG9ydCByZQppbXBvcnQgc2h1dGlsCmltcG9ydCBzdGF0CmltcG9ydCBzdWJwcm9jZXNzCgpNQVhfQ0FUQUxPR19CWVRFUyA9IDI1NiAqIDEwMjQKTUFYX0ZJTEVfQllURVMgPSAzMiAqIDEwMjQKU0VUVVBTID0gZnJvemVuc2V0KHsnY29tbWl0dGVkJywgJ3VuYm9ybicsICdkZXRhY2hlZCcsICdsaW5rZWQnLCAnc3BhcnNlJ30pCktJTkRTID0gZnJvemVuc2V0KHsnZmVhdHVyZScsICdmaXgnLCAndGVzdCcsICdyZXZpZXcnfSkKVEFHUyA9IGZyb3plbnNldCh7J3RpbnknLCAnaW5zdHJ1Y3RlZCcsICdtb25vcmVwbycsICdpbmZyYXN0cnVjdHVyZScsICdjb25mbGljdCcsCiAgICAgICAgICAgICAgICAgICdwYXJ0aWFsJywgJ2RpcnR5JywgJ2xpbmtlZCcsICd1bmJvcm4nLCAnc3BhcnNlJywgJ2lnbm9yZWQnfSkKQ0FTRV9LRVlTID0gZnJvemVuc2V0KHsnaWQnLCAndGFncycsICdzZXR1cCcsICdmaWxlcycsICdzdGFnZWRfZWRpdHMnLAogICAgICAgICAgICAgICAgICAgICAgICd3b3JraW5nX2VkaXRzJywgJ3Rhc2snLCAnb3JhY2xlJywgJ29yYWNsZV9zaGEyNTYnLAogICAgICAgICAgICAgICAgICAgICAgICdzbmFwc2hvdF9zaGEyNTYnfSkKCgpjbGFzcyBGaXh0dXJlRXJyb3IoVmFsdWVFcnJvcik6CiAgICAiIiJJbnZhbGlkIGZpeHR1cmUgaW5wdXQgb3IgdW5zYWZlIG1hdGVyaWFsaXphdGlvbiB0YXJnZXQ7IG5vIHN1Y2Nlc3MgaW1wbGllZC4iIiIKCgpkZWYgY2Fub25pY2FsX2RpZ2VzdCh2YWx1ZTogb2JqZWN0KSAtPiBzdHI6CiAgICAiIiJCaW5kIGZpeHR1cmUgZGF0YSBpZGVudGl0eSwgbm90IHRoZSBjb3JyZWN0bmVzcyBvciBhcHByb3ZhbCBvZiBpdHMgb3JhY2xlLiIiIgogICAgcmF3ID0ganNvbi5kdW1wcyh2YWx1ZSwgZW5zdXJlX2FzY2lpPVRydWUsIGFsbG93X25hbj1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgc29ydF9rZXlzPVRydWUsIHNlcGFyYXRvcnM9KCcsJywgJzonKSkuZW5jb2RlKCd1dGYtOCcpCiAgICByZXR1cm4gaGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKQoKCmRlZiBfc2hhcGUodmFsdWU6IG9iamVjdCwga2V5czogc2V0IHwgZnJvemVuc2V0LCB3aGVyZTogc3RyKSAtPiBkaWN0OgogICAgaWYgdHlwZSh2YWx1ZSkgaXMgbm90IGRpY3Qgb3Igc2V0KHZhbHVlKSAhPSBrZXlzOgogICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignaW52YWxpZCBjbG9zZWQgc2hhcGU6ICcgKyB3aGVyZSkKICAgIHJldHVybiB2YWx1ZQoKCmRlZiBfc3RyaW5nKHZhbHVlOiBvYmplY3QsIGxpbWl0OiBpbnQsIHdoZXJlOiBzdHIpIC0+IHN0cjoKICAgIGlmIHR5cGUodmFsdWUpIGlzIG5vdCBzdHIgb3Igbm90IHZhbHVlOgogICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignaW52YWxpZCBib3VuZGVkIHN0cmluZzogJyArIHdoZXJlKQogICAgdHJ5OgogICAgICAgIHNpemUgPSBsZW4odmFsdWUuZW5jb2RlKCd1dGYtOCcpKQogICAgZXhjZXB0IFVuaWNvZGVFcnJvciBhcyBlcnJvcjoKICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2ludmFsaWQgVW5pY29kZTogJyArIHdoZXJlKSBmcm9tIGVycm9yCiAgICBpZiBzaXplID4gbGltaXQ6CiAgICAgICAgcmFpc2UgRml4dHVyZUVycm9yKCdpbnZhbGlkIGJvdW5kZWQgc3RyaW5nOiAnICsgd2hlcmUpCiAgICByZXR1cm4gdmFsdWUKCgpkZWYgX3BhdGgodmFsdWU6IG9iamVjdCkgLT4gc3RyOgogICAgcGF0aCA9IF9zdHJpbmcodmFsdWUsIDI0MCwgJ3BhdGgnKQogICAgaWYgcGF0aC5zdGFydHN3aXRoKCcvJykgb3IgJ1xcJyBpbiBwYXRoIG9yICc6JyBpbiBwYXRoOgogICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcigndW5zYWZlIGZpeHR1cmUgcGF0aCcpCiAgICBmb3IgcGFydCBpbiBwYXRoLnNwbGl0KCcvJyk6CiAgICAgICAgaWYgKHBhcnQgaW4geycnLCAnLicsICcuLid9IG9yIHBhcnQuY2FzZWZvbGQoKSA9PSAnLmdpdCcKICAgICAgICAgICAgICAgIG9yIHBhcnQuZW5kc3dpdGgoKCcgJywgJy4nKSkgb3IgYW55KG9yZChjKSA8IDMyIG9yIG9yZChjKSA9PSAxMjcgZm9yIGMgaW4gcGFydCkKICAgICAgICAgICAgICAgIG9yIGFueShjIGluICc8PiJ8PyonIGZvciBjIGluIHBhcnQpCiAgICAgICAgICAgICAgICBvciByZS5mdWxsbWF0Y2gocicoP2kpKGNvbnxwcm58YXV4fG51bHxjb21bMS05XXxscHRbMS05XSkoXC4uKik/JywgcGFydCkpOgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ3Vuc2FmZSBmaXh0dXJlIHBhdGgnKQogICAgcmV0dXJuIHBhdGgKCgpkZWYgX2ZpbGVzKHZhbHVlczogb2JqZWN0LCAqLCBpbml0aWFsOiBib29sKSAtPiBkaWN0W3N0ciwgc3RyXToKICAgIGlmIHR5cGUodmFsdWVzKSBpcyBub3QgbGlzdCBvciBsZW4odmFsdWVzKSA+IDY0IG9yIChpbml0aWFsIGFuZCBub3QgdmFsdWVzKToKICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2ludmFsaWQgZml4dHVyZSBmaWxlIGNvdW50JykKICAgIHJlc3VsdCwgZm9sZGVkID0ge30sIHNldCgpCiAgICBmb3IgdmFsdWUgaW4gdmFsdWVzOgogICAgICAgIF9zaGFwZSh2YWx1ZSwgeydwYXRoJywgJ3RleHQnLCAnc2hhMjU2J30sICdmaWxlJykKICAgICAgICBwYXRoID0gX3BhdGgodmFsdWVbJ3BhdGgnXSkKICAgICAgICBpZiBwYXRoLmNhc2Vmb2xkKCkgaW4gZm9sZGVkOgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2R1cGxpY2F0ZSBvciBjYXNlLWNvbGxpZGluZyBmaXh0dXJlIHBhdGgnKQogICAgICAgIHRleHQgPSB2YWx1ZVsndGV4dCddCiAgICAgICAgaWYgdHlwZSh0ZXh0KSBpcyBub3Qgc3RyOgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2ludmFsaWQgZml4dHVyZSBjb250ZW50JykKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJhdyA9IHRleHQuZW5jb2RlKCd1dGYtOCcpCiAgICAgICAgZXhjZXB0IFVuaWNvZGVFcnJvciBhcyBlcnJvcjoKICAgICAgICAgICAgcmFpc2UgRml4dHVyZUVycm9yKCdpbnZhbGlkIFVuaWNvZGUgZml4dHVyZSBjb250ZW50JykgZnJvbSBlcnJvcgogICAgICAgIGlmIGxlbihyYXcpID4gTUFYX0ZJTEVfQllURVM6CiAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignaW52YWxpZCBmaXh0dXJlIGNvbnRlbnQnKQogICAgICAgIGlmIGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KCkgIT0gdmFsdWVbJ3NoYTI1NiddOgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2ZpeHR1cmUgY29udGVudCBpZGVudGl0eSBtaXNtYXRjaCcpCiAgICAgICAgcmVzdWx0W3BhdGhdID0gdGV4dAogICAgICAgIGZvbGRlZC5hZGQocGF0aC5jYXNlZm9sZCgpKQogICAgZm9yIHBhdGggaW4gZm9sZGVkOgogICAgICAgIGlmIGFueSgnLycuam9pbihwYXRoLnNwbGl0KCcvJylbOmldKSBpbiBmb2xkZWQgZm9yIGkgaW4gcmFuZ2UoMSwgbGVuKHBhdGguc3BsaXQoJy8nKSkpKToKICAgICAgICAgICAgcmFpc2UgRml4dHVyZUVycm9yKCdmaWxlL2RpcmVjdG9yeSBmaXh0dXJlIGNvbGxpc2lvbicpCiAgICByZXR1cm4gcmVzdWx0CgoKZGVmIHZhbGlkYXRlX2NhdGFsb2codmFsdWU6IG9iamVjdCkgLT4gZGljdDoKICAgICIiIlZhbGlkYXRlIGV2ZXJ5IGNhc2UgYmVmb3JlIGFueSBmaXh0dXJlIHBhdGggb3IgcHJvY2VzcyBjYW4gYmUgY3JlYXRlZC4iIiIKICAgIF9zaGFwZSh2YWx1ZSwgeydzY2hlbWFfdmVyc2lvbicsICdjYW1wYWlnbicsICdvcmFjbGVfc3RhdGUnLCAnY2FzZXMnfSwgJ2NhdGFsb2cnKQogICAgaWYgdHlwZSh2YWx1ZVsnc2NoZW1hX3ZlcnNpb24nXSkgaXMgbm90IGludCBvciB2YWx1ZVsnc2NoZW1hX3ZlcnNpb24nXSAhPSAxOgogICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcigndW5zdXBwb3J0ZWQgZml4dHVyZSBzY2hlbWEnKQogICAgaWYgdmFsdWVbJ2NhbXBhaWduJ10gIT0gJ2V4ZXJjaXNlLXJlYWR5LWJyb3duZmllbGQnIG9yIHZhbHVlWydvcmFjbGVfc3RhdGUnXSAhPSAncHJvcG9zZWQnOgogICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignZml4dHVyZSBjYXRhbG9nIGNhbm5vdCBjb252ZXkgY2FtcGFpZ24gYXBwcm92YWwnKQogICAgY2FzZXMgPSB2YWx1ZVsnY2FzZXMnXQogICAgaWYgdHlwZShjYXNlcykgaXMgbm90IGxpc3Qgb3Igbm90IDEgPD0gbGVuKGNhc2VzKSA8PSAzMjoKICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2ludmFsaWQgZml4dHVyZSBjYXNlIGNvdW50JykKICAgIGlkcyA9IHNldCgpCiAgICBmb3IgY2FzZSBpbiBjYXNlczoKICAgICAgICBfc2hhcGUoY2FzZSwgQ0FTRV9LRVlTLCAnY2FzZScpCiAgICAgICAgaWRlbnQgPSBfc3RyaW5nKGNhc2VbJ2lkJ10sIDY0LCAnaWQnKQogICAgICAgIGlmIG5vdCByZS5mdWxsbWF0Y2gocidbYS16XVthLXowLTktXSonLCBpZGVudCkgb3IgaWRlbnQgaW4gaWRzOgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2ludmFsaWQgb3IgZHVwbGljYXRlIGNhc2UgaWQnKQogICAgICAgIGlkcy5hZGQoaWRlbnQpCiAgICAgICAgdGFncyA9IGNhc2VbJ3RhZ3MnXQogICAgICAgIGlmICh0eXBlKHRhZ3MpIGlzIG5vdCBsaXN0IG9yIG5vdCB0YWdzIG9yIGFueSh0eXBlKHQpIGlzIG5vdCBzdHIgZm9yIHQgaW4gdGFncykKICAgICAgICAgICAgICAgIG9yIGxlbihzZXQodGFncykpICE9IGxlbih0YWdzKSBvciBub3Qgc2V0KHRhZ3MpIDw9IFRBR1MpOgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2ludmFsaWQgZml4dHVyZSB0YWdzJykKICAgICAgICBpZiB0eXBlKGNhc2VbJ3NldHVwJ10pIGlzIG5vdCBzdHIgb3IgY2FzZVsnc2V0dXAnXSBub3QgaW4gU0VUVVBTOgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ3Vua25vd24gc2V0dXAgcmVjaXBlJykKICAgICAgICBmaWxlcyA9IF9maWxlcyhjYXNlWydmaWxlcyddLCBpbml0aWFsPVRydWUpCiAgICAgICAgaWYgY2FzZVsnc2V0dXAnXSBpbiB7J2xpbmtlZCcsICd1bmJvcm4nLCAnc3BhcnNlJ30gYW5kIGNhc2VbJ3NldHVwJ10gbm90IGluIHRhZ3M6CiAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignc2V0dXAgY292ZXJhZ2UgaXMgbWlzbGFiZWxlZCcpCiAgICAgICAgaWYgY2FzZVsnc2V0dXAnXSA9PSAnc3BhcnNlJyBhbmQgbm90IChhbnkocC5zdGFydHN3aXRoKCdhcHAvJykgZm9yIHAgaW4gZmlsZXMpCiAgICAgICAgICAgICAgICBhbmQgYW55KCcvJyBpbiBwIGFuZCBub3QgcC5zdGFydHN3aXRoKCdhcHAvJykgZm9yIHAgaW4gZmlsZXMpKToKICAgICAgICAgICAgcmFpc2UgRml4dHVyZUVycm9yKCdzcGFyc2UgZml4dHVyZSBtdXN0IGluY2x1ZGUgdmlzaWJsZSBhbmQgZXhjbHVkZWQgc2NvcGVzJykKICAgICAgICBmb3Iga2V5IGluICgnc3RhZ2VkX2VkaXRzJywgJ3dvcmtpbmdfZWRpdHMnKToKICAgICAgICAgICAgZWRpdHMgPSBfZmlsZXMoY2FzZVtrZXldLCBpbml0aWFsPUZhbHNlKQogICAgICAgICAgICAjIFZhbGlkYXRlIHRoZSBmaW5hbCB1bmlvbiBiZWZvcmUgY3JlYXRpbmcgcGFydGlhbCBvbi1kaXNrIHN0YXRlLgogICAgICAgICAgICBmaWxlcy51cGRhdGUoZWRpdHMpCiAgICAgICAgX2ZpbGVzKFt7J3BhdGgnOiBwLCAndGV4dCc6IHQsICdzaGEyNTYnOiBoYXNobGliLnNoYTI1Nih0LmVuY29kZSgpKS5oZXhkaWdlc3QoKX0KICAgICAgICAgICAgICAgIGZvciBwLCB0IGluIGZpbGVzLml0ZW1zKCldLCBpbml0aWFsPVRydWUpCiAgICAgICAgdmlzaWJsZSA9IHtmWydwYXRoJ10gZm9yIGYgaW4gY2FzZVsnZmlsZXMnXX0KICAgICAgICBpZiBjYXNlWydzZXR1cCddID09ICdzcGFyc2UnOgogICAgICAgICAgICB2aXNpYmxlID0ge3AgZm9yIHAgaW4gdmlzaWJsZSBpZiAnLycgbm90IGluIHAgb3IgcC5zdGFydHN3aXRoKCdhcHAvJyl9CiAgICAgICAgdmlzaWJsZS51cGRhdGUoZlsncGF0aCddIGZvciBmIGluIGNhc2VbJ3N0YWdlZF9lZGl0cyddICsgY2FzZVsnd29ya2luZ19lZGl0cyddKQogICAgICAgIGluaXRpYWwgPSB7ZlsncGF0aCddOiBmWydzaGEyNTYnXSBmb3IgZiBpbiBjYXNlWydmaWxlcyddfQogICAgICAgIGlmIGNhbm9uaWNhbF9kaWdlc3QoaW5pdGlhbCkgIT0gY2FzZVsnc25hcHNob3Rfc2hhMjU2J106CiAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignZml4dHVyZSBzbmFwc2hvdCBpZGVudGl0eSBtaXNtYXRjaCcpCiAgICAgICAgX3NoYXBlKGNhc2VbJ3Rhc2snXSwgeydraW5kJywgJ3Byb21wdCd9LCAndGFzaycpCiAgICAgICAgaWYgdHlwZShjYXNlWyd0YXNrJ11bJ2tpbmQnXSkgaXMgbm90IHN0ciBvciBjYXNlWyd0YXNrJ11bJ2tpbmQnXSBub3QgaW4gS0lORFM6CiAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcigndW5rbm93biB0YXNrIGtpbmQnKQogICAgICAgIF9zdHJpbmcoY2FzZVsndGFzayddWydwcm9tcHQnXSwgNDA5NiwgJ3Rhc2sgcHJvbXB0JykKICAgICAgICBvcmFjbGUgPSBfc2hhcGUoY2FzZVsnb3JhY2xlJ10sIHsnZGlzcG9zaXRpb24nLCAnZGVmYXVsdF9uZXdfaW5zdHJ1Y3Rpb25fZmlsZXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcmVzZXJ2ZV9wYXRocycsICdjaGVja3MnfSwgJ29yYWNsZScpCiAgICAgICAgaWYgb3JhY2xlWydkaXNwb3NpdGlvbiddIG5vdCBpbiAoJ3Rhc2tfcG9zc2libGUnLCAnbmVlZHNfZGVjaXNpb24nLCAncmVwYWlyX3JlcXVpcmVkJyk6CiAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcigndW5rbm93biBleHBlY3RlZCBkaXNwb3NpdGlvbicpCiAgICAgICAgaWYgdHlwZShvcmFjbGVbJ2RlZmF1bHRfbmV3X2luc3RydWN0aW9uX2ZpbGVzJ10pIGlzIG5vdCBpbnQgb3Igb3JhY2xlWydkZWZhdWx0X25ld19pbnN0cnVjdGlvbl9maWxlcyddICE9IDA6CiAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignZml4dHVyZSBkb2VzIG5vdCBhdXRob3JpemUgbmF0aXZlIGluc3RydWN0aW9uIGdlbmVyYXRpb24nKQogICAgICAgIGlmIHR5cGUob3JhY2xlWydwcmVzZXJ2ZV9wYXRocyddKSBpcyBub3QgbGlzdCBvciBsZW4ob3JhY2xlWydwcmVzZXJ2ZV9wYXRocyddKSA+IDY0OgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2ludmFsaWQgcHJlc2VydmF0aW9uIHNldCcpCiAgICAgICAgaWYgYW55KHR5cGUocCkgaXMgbm90IHN0ciBmb3IgcCBpbiBvcmFjbGVbJ3ByZXNlcnZlX3BhdGhzJ10pOgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2ludmFsaWQgcHJlc2VydmF0aW9uIHBhdGgnKQogICAgICAgIGlmIGxlbihzZXQob3JhY2xlWydwcmVzZXJ2ZV9wYXRocyddKSkgIT0gbGVuKG9yYWNsZVsncHJlc2VydmVfcGF0aHMnXSk6CiAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignZHVwbGljYXRlIHByZXNlcnZhdGlvbiBwYXRoJykKICAgICAgICBmb3IgcGF0aCBpbiBvcmFjbGVbJ3ByZXNlcnZlX3BhdGhzJ106CiAgICAgICAgICAgIGlmIF9wYXRoKHBhdGgpIG5vdCBpbiBmaWxlczoKICAgICAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcigncHJlc2VydmF0aW9uIHBhdGggaXMgbm90IGEgZml4dHVyZSBmaWxlJykKICAgICAgICBpZiBjYXNlWyd0YXNrJ11bJ2tpbmQnXSA9PSAncmV2aWV3JyBhbmQgc2V0KG9yYWNsZVsncHJlc2VydmVfcGF0aHMnXSkgIT0gdmlzaWJsZToKICAgICAgICAgICAgcmFpc2UgRml4dHVyZUVycm9yKCdyZXZpZXcgcHJlc2VydmF0aW9uIG11c3QgY292ZXIgY29tcGxldGUgdmlzaWJsZSBzb2x2ZXIgaW52ZW50b3J5JykKICAgICAgICBpZiB0eXBlKG9yYWNsZVsnY2hlY2tzJ10pIGlzIG5vdCBsaXN0IG9yIG5vdCAxIDw9IGxlbihvcmFjbGVbJ2NoZWNrcyddKSA8PSAxNjoKICAgICAgICAgICAgcmFpc2UgRml4dHVyZUVycm9yKCdpbnZhbGlkIGV2YWx1YXRvciBjaGVja3MnKQogICAgICAgIGZvciBjaGVjayBpbiBvcmFjbGVbJ2NoZWNrcyddOgogICAgICAgICAgICBfc3RyaW5nKGNoZWNrLCAxMDI0LCAnZXZhbHVhdG9yIGNoZWNrJykKICAgICAgICBpZiBjYW5vbmljYWxfZGlnZXN0KG9yYWNsZSkgIT0gY2FzZVsnb3JhY2xlX3NoYTI1NiddOgogICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ29yYWNsZSBpZGVudGl0eSBtaXNtYXRjaCcpCiAgICByZXR1cm4gdmFsdWUKCgpkZWYgX3BhaXJzKHBhaXJzOiBsaXN0KSAtPiBkaWN0OgogICAgdmFsdWUgPSB7fQogICAgZm9yIGtleSwgaXRlbSBpbiBwYWlyczoKICAgICAgICBpZiBrZXkgaW4gdmFsdWU6CiAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignZHVwbGljYXRlIEpTT04ga2V5JykKICAgICAgICB2YWx1ZVtrZXldID0gaXRlbQogICAgcmV0dXJuIHZhbHVlCgoKZGVmIGxvYWRfY2F0YWxvZyhwYXRoOiBzdHIgfCBQYXRoKSAtPiBkaWN0OgogICAgIiIiUmVhZCBib3VuZGVkIFVURi04IEpTT047IGR1cGxpY2F0ZSBrZXlzIGFuZCBub25maW5pdGUgdmFsdWVzIGFyZSBlcnJvcnMuIiIiCiAgICB3aXRoIG9wZW4ocGF0aCwgJ3JiJykgYXMgc291cmNlOgogICAgICAgIHJhdyA9IHNvdXJjZS5yZWFkKE1BWF9DQVRBTE9HX0JZVEVTICsgMSkKICAgIGlmIGxlbihyYXcpID4gTUFYX0NBVEFMT0dfQllURVM6CiAgICAgICAgcmFpc2UgRml4dHVyZUVycm9yKCdmaXh0dXJlIGNhdGFsb2cgdG9vIGxhcmdlJykKICAgIGRlZiBiYWRfY29uc3RhbnQoX3ZhbHVlKToKICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ25vbmZpbml0ZSBmaXh0dXJlIHZhbHVlJykKICAgIHRyeToKICAgICAgICB2YWx1ZSA9IGpzb24ubG9hZHMocmF3LmRlY29kZSgndXRmLTgnKSwgb2JqZWN0X3BhaXJzX2hvb2s9X3BhaXJzLAogICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJzZV9jb25zdGFudD1iYWRfY29uc3RhbnQpCiAgICAgICAgcmV0dXJuIHZhbGlkYXRlX2NhdGFsb2codmFsdWUpCiAgICBleGNlcHQgKFVuaWNvZGVFcnJvciwgUmVjdXJzaW9uRXJyb3IsIFR5cGVFcnJvciwgS2V5RXJyb3IpIGFzIGVycm9yOgogICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignbWFsZm9ybWVkIGZpeHR1cmUgY2F0YWxvZycpIGZyb20gZXJyb3IKCgpkZWYgX2xpbmtlZChwYXRoOiBQYXRoKSAtPiBib29sOgogICAgaW5mbyA9IHBhdGgubHN0YXQoKQogICAgcmV0dXJuIHN0YXQuU19JU0xOSyhpbmZvLnN0X21vZGUpIG9yIGJvb2woZ2V0YXR0cihpbmZvLCAnc3RfZmlsZV9hdHRyaWJ1dGVzJywgMCkgJiAweDQwMCkKCgpkZWYgc25hcHNob3Qod29ya3NwYWNlOiBzdHIgfCBQYXRoKSAtPiBkaWN0W3N0ciwgc3RyXToKICAgICIiIlJlY29yZCByYXcgcmVndWxhci1maWxlIGhhc2hlcywgZXhjbHVkaW5nIEdpdCBzdG9yYWdlIGFuZCByZWplY3RpbmcgbGlua3MuIiIiCiAgICB3b3Jrc3BhY2UgPSBQYXRoKHdvcmtzcGFjZSkKICAgIGlmIF9saW5rZWQod29ya3NwYWNlKToKICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2xpbmtlZCBmaXh0dXJlIHdvcmtzcGFjZScpCiAgICByZXN1bHQgPSB7fQogICAgZm9yIGRpcmVjdG9yeSwgZGlycywgbmFtZXMgaW4gb3Mud2Fsayh3b3Jrc3BhY2UsIGZvbGxvd2xpbmtzPUZhbHNlKToKICAgICAgICBkaXJzWzpdID0gW2QgZm9yIGQgaW4gZGlycyBpZiBkICE9ICcuZ2l0J10KICAgICAgICBmb3IgbmFtZSBpbiBkaXJzICsgbmFtZXM6CiAgICAgICAgICAgIGlmIG5hbWUgPT0gJy5naXQnOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgcGF0aCA9IFBhdGgoZGlyZWN0b3J5KSAvIG5hbWUKICAgICAgICAgICAgaWYgX2xpbmtlZChwYXRoKToKICAgICAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignbGlua2VkIGZpeHR1cmUgY29udGVudCcpCiAgICAgICAgICAgIGlmIHBhdGguaXNfZmlsZSgpOgogICAgICAgICAgICAgICAgcmVzdWx0W3BhdGgucmVsYXRpdmVfdG8od29ya3NwYWNlKS5hc19wb3NpeCgpXSA9IGhhc2hsaWIuc2hhMjU2KHBhdGgucmVhZF9ieXRlcygpKS5oZXhkaWdlc3QoKQogICAgICAgICAgICBlbGlmIG5hbWUgaW4gbmFtZXM6CiAgICAgICAgICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ25vbnJlZ3VsYXIgZml4dHVyZSBjb250ZW50JykKICAgIHJldHVybiBkaWN0KHNvcnRlZChyZXN1bHQuaXRlbXMoKSkpCgoKZGVmIG1hdGVyaWFsaXplKGNhdGFsb2c6IGRpY3QsIGNhc2VfaWQ6IHN0ciwgZGVzdGluYXRpb246IHN0ciB8IFBhdGgpIC0+IGRpY3Q6CiAgICAiIiJCdWlsZCBhIG5ldyB0ZXN0LW93bmVkIGluc3RhbmNlOyBuZXZlciBpbnZva2UgZml4dHVyZS1kZWNsYXJlZCBjb21tYW5kcy4KCiAgICBUaGUgY2FsbGVyIHN1cHBsaWVzIGFuIGV4aXN0aW5nIHRydXN0ZWQgcGFyZW50LiBDb25jdXJyZW50IGhvc3RpbGUgZmlsZXN5c3RlbQogICAgbXV0YXRpb24gYW5kIGFjdHVhbCBob3N0IGNvbmZpbmVtZW50IHJlcXVpcmUgc2VwYXJhdGUgaW50ZWdyYXRpb24gdGVzdHMuCiAgICAiIiIKICAgIHZhbGlkYXRlX2NhdGFsb2coY2F0YWxvZykKICAgIHNlbGVjdGVkID0gW2Nhc2UgZm9yIGNhc2UgaW4gY2F0YWxvZ1snY2FzZXMnXSBpZiBjYXNlWydpZCddID09IGNhc2VfaWRdCiAgICBpZiBsZW4oc2VsZWN0ZWQpICE9IDE6CiAgICAgICAgcmFpc2UgRml4dHVyZUVycm9yKCd1bmtub3duIGZpeHR1cmUgY2FzZScpCiAgICBjYXNlID0gc2VsZWN0ZWRbMF0KICAgIGRlc3RpbmF0aW9uID0gUGF0aChkZXN0aW5hdGlvbikuYWJzb2x1dGUoKQogICAgZm9yIHBhdGggaW4gKGRlc3RpbmF0aW9uLCAqZGVzdGluYXRpb24ucGFyZW50cyk6CiAgICAgICAgaWYgcGF0aC5leGlzdHMoKSBvciBwYXRoLmlzX3N5bWxpbmsoKToKICAgICAgICAgICAgaWYgX2xpbmtlZChwYXRoKToKICAgICAgICAgICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignbGlua2VkIGZpeHR1cmUgZGVzdGluYXRpb24nKQogICAgaWYgZGVzdGluYXRpb24uZXhpc3RzKCkgb3Igbm90IGRlc3RpbmF0aW9uLnBhcmVudC5pc19kaXIoKToKICAgICAgICByYWlzZSBGaXh0dXJlRXJyb3IoJ2Rlc3RpbmF0aW9uIG11c3QgYmUgbmV3IHVuZGVyIGFuIGV4aXN0aW5nIHRydXN0ZWQgcGFyZW50JykKICAgIGdpdCA9IHNodXRpbC53aGljaCgnZ2l0JykKICAgIGlmIGdpdCBpcyBOb25lOgogICAgICAgIHJhaXNlIEZpeHR1cmVFcnJvcignR2l0IGlzIHJlcXVpcmVkIGZvciBmaXh0dXJlIGNyZWF0aW9uJykKICAgIGRlc3RpbmF0aW9uLm1rZGlyKCkKICAgIGNvbnRyb2wgPSBkZXN0aW5hdGlvbiAvICdjb250cm9sJzsgY29udHJvbC5ta2RpcigpCiAgICBldmFsdWF0b3IgPSBkZXN0aW5hdGlvbiAvICdldmFsdWF0b3InOyBldmFsdWF0b3IubWtkaXIoKQogICAgc29sdmVyID0gZGVzdGluYXRpb24gLyAnc29sdmVyJwogICAgaW5pdGlhbCA9IGRlc3RpbmF0aW9uIC8gJ3ByaW1hcnknIGlmIGNhc2VbJ3NldHVwJ10gPT0gJ2xpbmtlZCcgZWxzZSBzb2x2ZXIKICAgIGluaXRpYWwubWtkaXIoKQogICAgZW1wdHlfY29uZmlnID0gY29udHJvbCAvICdnaXRjb25maWcnOyBlbXB0eV9jb25maWcud3JpdGVfYnl0ZXMoYicnKQogICAgZW52aXJvbm1lbnQgPSB7azogdiBmb3IgaywgdiBpbiBvcy5lbnZpcm9uLml0ZW1zKCkgaWYgbm90IGsudXBwZXIoKS5zdGFydHN3aXRoKCdHSVRfJyl9CiAgICBlbnZpcm9ubWVudC51cGRhdGUoR0lUX0NPTkZJR19OT1NZU1RFTT0nMScsIEdJVF9DT05GSUdfR0xPQkFMPXN0cihlbXB0eV9jb25maWcpLAogICAgICAgICAgICAgICAgICAgICAgIEdJVF9URVJNSU5BTF9QUk9NUFQ9JzAnLCBHSVRfQVVUSE9SX05BTUU9J0NvbnRleHQgRml4dHVyZScsCiAgICAgICAgICAgICAgICAgICAgICAgR0lUX0NPTU1JVFRFUl9OQU1FPSdDb250ZXh0IEZpeHR1cmUnLCBHSVRfQVVUSE9SX0VNQUlMPSdmaXh0dXJlQGV4YW1wbGUuaW52YWxpZCcsCiAgICAgICAgICAgICAgICAgICAgICAgR0lUX0NPTU1JVFRFUl9FTUFJTD0nZml4dHVyZUBleGFtcGxlLmludmFsaWQnLAogICAgICAgICAgICAgICAgICAgICAgIEdJVF9BVVRIT1JfREFURT0nMjAwMC0wMS0wMVQwMDowMDowMCswMDowMCcsCiAgICAgICAgICAgICAgICAgICAgICAgR0lUX0NPTU1JVFRFUl9EQVRFPScyMDAwLTAxLTAxVDAwOjAwOjAwKzAwOjAwJykKICAgIGRlZiBjYWxsKCphcmdzLCBjd2Q9aW5pdGlhbCk6CiAgICAgICAgcmV0dXJuIHN1YnByb2Nlc3MucnVuKFtnaXQsICphcmdzXSwgY3dkPWN3ZCwgZW52PWVudmlyb25tZW50LCBjaGVjaz1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0aW1lb3V0PTIwKS5zdGRvdXQKICAgIGRlZiBwdXQoaXRlbXMsIHdoZXJlKToKICAgICAgICBmb3IgaXRlbSBpbiBpdGVtczoKICAgICAgICAgICAgcGF0aCA9IHdoZXJlIC8gaXRlbVsncGF0aCddOyBwYXRoLnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICAgICAgICAgIHBhdGgud3JpdGVfYnl0ZXMoaXRlbVsndGV4dCddLmVuY29kZSgndXRmLTgnKSkKICAgIGNhbGwoJ2luaXQnLCAnLS1xdWlldCcsICctLWluaXRpYWwtYnJhbmNoPWZpeHR1cmUnKQogICAgY2FsbCgnY29uZmlnJywgJ2NvcmUuYXV0b2NybGYnLCAnZmFsc2UnKQogICAgY2FsbCgnY29uZmlnJywgJ2NvcmUuZmlsZW1vZGUnLCAnZmFsc2UnKQogICAgcHV0KGNhc2VbJ2ZpbGVzJ10sIGluaXRpYWwpCiAgICAjIEZpbGVzIGFyZSBmaXh0dXJlLW93bmVkLCBub3QgYSB1c2VyJ3MgY2hlY2tvdXQuIElnbm9yZWQgaW5wdXRzIHJlbWFpbiBpZ25vcmVkLgogICAgY2FsbCgnYWRkJywgJy0tYWxsJykKICAgIGlmIGNhc2VbJ3NldHVwJ10gIT0gJ3VuYm9ybic6CiAgICAgICAgY2FsbCgnY29tbWl0JywgJy0tcXVpZXQnLCAnLW0nLCAnQ3JlYXRlIGRldGVybWluaXN0aWMgY29udGV4dCBmaXh0dXJlJykKICAgIGlmIGNhc2VbJ3NldHVwJ10gPT0gJ2xpbmtlZCc6CiAgICAgICAgY2FsbCgndXBkYXRlLXJlZicsICdyZWZzL3JlbW90ZXMvdXBzdHJlYW0vZml4dHVyZScsICdIRUFEJykKICAgICAgICBjYWxsKCd1cGRhdGUtcmVmJywgJ3JlZnMvcmVtb3Rlcy9vcmlnaW4vZml4dHVyZScsICdIRUFEJykKICAgICAgICBjYWxsKCd3b3JrdHJlZScsICdhZGQnLCAnLS1xdWlldCcsICctLWRldGFjaCcsIHN0cihzb2x2ZXIpLCAnSEVBRCcpCiAgICBlbGlmIGNhc2VbJ3NldHVwJ10gPT0gJ2RldGFjaGVkJzoKICAgICAgICBjYWxsKCdjaGVja291dCcsICctLXF1aWV0JywgJy0tZGV0YWNoJywgJ0hFQUQnKQogICAgZWxpZiBjYXNlWydzZXR1cCddID09ICdzcGFyc2UnOgogICAgICAgIGNhbGwoJ3NwYXJzZS1jaGVja291dCcsICdpbml0JywgJy0tY29uZScpCiAgICAgICAgY2FsbCgnc3BhcnNlLWNoZWNrb3V0JywgJ3NldCcsICdhcHAnKQogICAgcHV0KGNhc2VbJ3N0YWdlZF9lZGl0cyddLCBzb2x2ZXIpCiAgICBpZiBjYXNlWydzdGFnZWRfZWRpdHMnXToKICAgICAgICBjYWxsKCdhZGQnLCAnLS0nLCAqKGZbJ3BhdGgnXSBmb3IgZiBpbiBjYXNlWydzdGFnZWRfZWRpdHMnXSksIGN3ZD1zb2x2ZXIpCiAgICBwdXQoY2FzZVsnd29ya2luZ19lZGl0cyddLCBzb2x2ZXIpCiAgICAoZXZhbHVhdG9yIC8gJ29yYWNsZS5qc29uJykud3JpdGVfYnl0ZXMoKGpzb24uZHVtcHMoY2FzZVsnb3JhY2xlJ10sIHNvcnRfa2V5cz1UcnVlLCBpbmRlbnQ9MikrJ1xuJykuZW5jb2RlKCkpCiAgICAoZXZhbHVhdG9yIC8gJ2lkZW50aXR5Lmpzb24nKS53cml0ZV9ieXRlcygoanNvbi5kdW1wcyh7CiAgICAgICAgJ2Nhc2VfaWQnOiBjYXNlX2lkLCAnY2FzZV9zaGEyNTYnOiBjYW5vbmljYWxfZGlnZXN0KGNhc2UpLAogICAgICAgICd0YXNrX3NoYTI1Nic6IGNhbm9uaWNhbF9kaWdlc3QoY2FzZVsndGFzayddKSwgJ29yYWNsZV9zaGEyNTYnOiBjYXNlWydvcmFjbGVfc2hhMjU2J10sCiAgICAgICAgJ2ZpeHR1cmVfc25hcHNob3Rfc2hhMjU2JzogY2FzZVsnc25hcHNob3Rfc2hhMjU2J10sICdzZXR1cCc6IGNhc2VbJ3NldHVwJ10sCiAgICAgICAgJ3dvcmt0cmVlX2ZpbGVzJzogc25hcHNob3Qoc29sdmVyKSwgJ2V2aWRlbmNlX2tpbmQnOiAnZml4dHVyZS1wbGFjZW1lbnQtb25seScsCiAgICB9LCBzb3J0X2tleXM9VHJ1ZSwgaW5kZW50PTIpKydcbicpLmVuY29kZSgpKQogICAgcmV0dXJuIHsnc29sdmVyJzogc29sdmVyLCAnZXZhbHVhdG9yJzogZXZhbHVhdG9yLCAndGFzayc6IGRpY3QoY2FzZVsndGFzayddKSwKICAgICAgICAgICAgJ3NldHVwJzogY2FzZVsnc2V0dXAnXSwgJ2ZpbGVzJzogc25hcHNob3Qoc29sdmVyKX0K
+#!/usr/bin/env python3
+"""Test-owned brownfield repositories; never an onboarding or instruction writer.
+
+Load a closed, bounded fixture catalog and materialize one create-only workspace.
+Only fixed Git operations execute. Repository commands and evaluator checks remain
+inert data. Evaluator records live outside the solver workspace and Git history;
+this placement is not proof that a host sandbox denies access to sibling paths.
+There are no import-time filesystem, Git, environment or network side effects.
+"""
+from __future__ import annotations
+
+import hashlib
+import json
+import os
+from pathlib import Path
+import re
+import shutil
+import stat
+import subprocess
+
+MAX_CATALOG_BYTES = 256 * 1024
+MAX_FILE_BYTES = 32 * 1024
+SETUPS = frozenset({'committed', 'unborn', 'detached', 'linked', 'sparse'})
+KINDS = frozenset({'feature', 'fix', 'test', 'review'})
+TAGS = frozenset({'tiny', 'instructed', 'monorepo', 'infrastructure', 'conflict',
+                  'partial', 'dirty', 'linked', 'unborn', 'sparse', 'ignored'})
+CASE_KEYS = frozenset({'id', 'tags', 'setup', 'files', 'staged_edits',
+                       'working_edits', 'task', 'oracle', 'oracle_sha256',
+                       'snapshot_sha256'})
+
+
+class FixtureError(ValueError):
+    """Invalid fixture input or unsafe materialization target; no success implied."""
+
+
+def canonical_digest(value: object) -> str:
+    """Bind fixture data identity, not the correctness or approval of its oracle."""
+    raw = json.dumps(value, ensure_ascii=True, allow_nan=False,
+                     sort_keys=True, separators=(',', ':')).encode('utf-8')
+    return hashlib.sha256(raw).hexdigest()
+
+
+def _shape(value: object, keys: set | frozenset, where: str) -> dict:
+    if type(value) is not dict or set(value) != keys:
+        raise FixtureError('invalid closed shape: ' + where)
+    return value
+
+
+def _string(value: object, limit: int, where: str) -> str:
+    if type(value) is not str or not value:
+        raise FixtureError('invalid bounded string: ' + where)
+    try:
+        size = len(value.encode('utf-8'))
+    except UnicodeError as error:
+        raise FixtureError('invalid Unicode: ' + where) from error
+    if size > limit:
+        raise FixtureError('invalid bounded string: ' + where)
+    return value
+
+
+def _path(value: object) -> str:
+    path = _string(value, 240, 'path')
+    if path.startswith('/') or '\\' in path or ':' in path:
+        raise FixtureError('unsafe fixture path')
+    for part in path.split('/'):
+        if (part in {'', '.', '..'} or part.casefold() == '.git'
+                or part.endswith((' ', '.')) or any(ord(c) < 32 or ord(c) == 127 for c in part)
+                or any(c in '<>"|?*' for c in part)
+                or re.fullmatch(r'(?i)(con|prn|aux|nul|com[1-9]|lpt[1-9])(\..*)?', part)):
+            raise FixtureError('unsafe fixture path')
+    return path
+
+
+def _files(values: object, *, initial: bool) -> dict[str, str]:
+    if type(values) is not list or len(values) > 64 or (initial and not values):
+        raise FixtureError('invalid fixture file count')
+    result, folded = {}, set()
+    for value in values:
+        _shape(value, {'path', 'text', 'sha256'}, 'file')
+        path = _path(value['path'])
+        if path.casefold() in folded:
+            raise FixtureError('duplicate or case-colliding fixture path')
+        text = value['text']
+        if type(text) is not str:
+            raise FixtureError('invalid fixture content')
+        try:
+            raw = text.encode('utf-8')
+        except UnicodeError as error:
+            raise FixtureError('invalid Unicode fixture content') from error
+        if len(raw) > MAX_FILE_BYTES:
+            raise FixtureError('invalid fixture content')
+        if hashlib.sha256(raw).hexdigest() != value['sha256']:
+            raise FixtureError('fixture content identity mismatch')
+        result[path] = text
+        folded.add(path.casefold())
+    for path in folded:
+        if any('/'.join(path.split('/')[:i]) in folded for i in range(1, len(path.split('/')))):
+            raise FixtureError('file/directory fixture collision')
+    return result
+
+
+def validate_catalog(value: object) -> dict:
+    """Validate every case before any fixture path or process can be created."""
+    _shape(value, {'schema_version', 'campaign', 'oracle_state', 'cases'}, 'catalog')
+    if type(value['schema_version']) is not int or value['schema_version'] != 1:
+        raise FixtureError('unsupported fixture schema')
+    if value['campaign'] != 'exercise-ready-brownfield' or value['oracle_state'] != 'proposed':
+        raise FixtureError('fixture catalog cannot convey campaign approval')
+    cases = value['cases']
+    if type(cases) is not list or not 1 <= len(cases) <= 32:
+        raise FixtureError('invalid fixture case count')
+    ids = set()
+    for case in cases:
+        _shape(case, CASE_KEYS, 'case')
+        ident = _string(case['id'], 64, 'id')
+        if not re.fullmatch(r'[a-z][a-z0-9-]*', ident) or ident in ids:
+            raise FixtureError('invalid or duplicate case id')
+        ids.add(ident)
+        tags = case['tags']
+        if (type(tags) is not list or not tags or any(type(t) is not str for t in tags)
+                or len(set(tags)) != len(tags) or not set(tags) <= TAGS):
+            raise FixtureError('invalid fixture tags')
+        if type(case['setup']) is not str or case['setup'] not in SETUPS:
+            raise FixtureError('unknown setup recipe')
+        files = _files(case['files'], initial=True)
+        if case['setup'] in {'linked', 'unborn', 'sparse'} and case['setup'] not in tags:
+            raise FixtureError('setup coverage is mislabeled')
+        if case['setup'] == 'sparse' and not (any(p.startswith('app/') for p in files)
+                and any('/' in p and not p.startswith('app/') for p in files)):
+            raise FixtureError('sparse fixture must include visible and excluded scopes')
+        for key in ('staged_edits', 'working_edits'):
+            edits = _files(case[key], initial=False)
+            # Validate the final union before creating partial on-disk state.
+            files.update(edits)
+        _files([{'path': p, 'text': t, 'sha256': hashlib.sha256(t.encode()).hexdigest()}
+                for p, t in files.items()], initial=True)
+        visible = {f['path'] for f in case['files']}
+        if case['setup'] == 'sparse':
+            visible = {p for p in visible if '/' not in p or p.startswith('app/')}
+        visible.update(f['path'] for f in case['staged_edits'] + case['working_edits'])
+        initial = {f['path']: f['sha256'] for f in case['files']}
+        if canonical_digest(initial) != case['snapshot_sha256']:
+            raise FixtureError('fixture snapshot identity mismatch')
+        _shape(case['task'], {'kind', 'prompt'}, 'task')
+        if type(case['task']['kind']) is not str or case['task']['kind'] not in KINDS:
+            raise FixtureError('unknown task kind')
+        _string(case['task']['prompt'], 4096, 'task prompt')
+        oracle = _shape(case['oracle'], {'disposition', 'default_new_instruction_files',
+                                         'preserve_paths', 'checks'}, 'oracle')
+        if oracle['disposition'] not in ('task_possible', 'needs_decision', 'repair_required'):
+            raise FixtureError('unknown expected disposition')
+        if type(oracle['default_new_instruction_files']) is not int or oracle['default_new_instruction_files'] != 0:
+            raise FixtureError('fixture does not authorize native instruction generation')
+        if type(oracle['preserve_paths']) is not list or len(oracle['preserve_paths']) > 64:
+            raise FixtureError('invalid preservation set')
+        if any(type(p) is not str for p in oracle['preserve_paths']):
+            raise FixtureError('invalid preservation path')
+        if len(set(oracle['preserve_paths'])) != len(oracle['preserve_paths']):
+            raise FixtureError('duplicate preservation path')
+        for path in oracle['preserve_paths']:
+            if _path(path) not in files:
+                raise FixtureError('preservation path is not a fixture file')
+        if case['task']['kind'] == 'review' and set(oracle['preserve_paths']) != visible:
+            raise FixtureError('review preservation must cover complete visible solver inventory')
+        if type(oracle['checks']) is not list or not 1 <= len(oracle['checks']) <= 16:
+            raise FixtureError('invalid evaluator checks')
+        for check in oracle['checks']:
+            _string(check, 1024, 'evaluator check')
+        if canonical_digest(oracle) != case['oracle_sha256']:
+            raise FixtureError('oracle identity mismatch')
+    return value
+
+
+def _pairs(pairs: list) -> dict:
+    value = {}
+    for key, item in pairs:
+        if key in value:
+            raise FixtureError('duplicate JSON key')
+        value[key] = item
+    return value
+
+
+def load_catalog(path: str | Path) -> dict:
+    """Read bounded UTF-8 JSON; duplicate keys and nonfinite values are errors."""
+    with open(path, 'rb') as source:
+        raw = source.read(MAX_CATALOG_BYTES + 1)
+    if len(raw) > MAX_CATALOG_BYTES:
+        raise FixtureError('fixture catalog too large')
+    def bad_constant(_value):
+        raise FixtureError('nonfinite fixture value')
+    try:
+        value = json.loads(raw.decode('utf-8'), object_pairs_hook=_pairs,
+                           parse_constant=bad_constant)
+        return validate_catalog(value)
+    except (UnicodeError, RecursionError, TypeError, KeyError) as error:
+        raise FixtureError('malformed fixture catalog') from error
+
+
+def _linked(path: Path) -> bool:
+    info = path.lstat()
+    return stat.S_ISLNK(info.st_mode) or bool(getattr(info, 'st_file_attributes', 0) & 0x400)
+
+
+def snapshot(workspace: str | Path) -> dict[str, str]:
+    """Record raw regular-file hashes, excluding Git storage and rejecting links."""
+    workspace = Path(workspace)
+    if _linked(workspace):
+        raise FixtureError('linked fixture workspace')
+    result = {}
+    for directory, dirs, names in os.walk(workspace, followlinks=False):
+        dirs[:] = [d for d in dirs if d != '.git']
+        for name in dirs + names:
+            if name == '.git':
+                continue
+            path = Path(directory) / name
+            if _linked(path):
+                raise FixtureError('linked fixture content')
+            if path.is_file():
+                result[path.relative_to(workspace).as_posix()] = hashlib.sha256(path.read_bytes()).hexdigest()
+            elif name in names:
+                raise FixtureError('nonregular fixture content')
+    return dict(sorted(result.items()))
+
+
+def materialize(catalog: dict, case_id: str, destination: str | Path) -> dict:
+    """Build a new test-owned instance; never invoke fixture-declared commands.
+
+    The caller supplies an existing trusted parent. Concurrent hostile filesystem
+    mutation and actual host confinement require separate integration tests.
+    """
+    validate_catalog(catalog)
+    selected = [case for case in catalog['cases'] if case['id'] == case_id]
+    if len(selected) != 1:
+        raise FixtureError('unknown fixture case')
+    case = selected[0]
+    destination = Path(destination).absolute()
+    for path in (destination, *destination.parents):
+        if path.exists() or path.is_symlink():
+            if _linked(path):
+                raise FixtureError('linked fixture destination')
+    if destination.exists() or not destination.parent.is_dir():
+        raise FixtureError('destination must be new under an existing trusted parent')
+    git = shutil.which('git')
+    if git is None:
+        raise FixtureError('Git is required for fixture creation')
+    destination.mkdir()
+    control = destination / 'control'; control.mkdir()
+    evaluator = destination / 'evaluator'; evaluator.mkdir()
+    solver = destination / 'solver'
+    initial = destination / 'primary' if case['setup'] == 'linked' else solver
+    initial.mkdir()
+    empty_config = control / 'gitconfig'; empty_config.write_bytes(b'')
+    environment = {k: v for k, v in os.environ.items() if not k.upper().startswith('GIT_')}
+    environment.update(GIT_CONFIG_NOSYSTEM='1', GIT_CONFIG_GLOBAL=str(empty_config),
+                       GIT_TERMINAL_PROMPT='0', GIT_AUTHOR_NAME='Context Fixture',
+                       GIT_COMMITTER_NAME='Context Fixture', GIT_AUTHOR_EMAIL='fixture@example.invalid',
+                       GIT_COMMITTER_EMAIL='fixture@example.invalid',
+                       GIT_AUTHOR_DATE='2000-01-01T00:00:00+00:00',
+                       GIT_COMMITTER_DATE='2000-01-01T00:00:00+00:00')
+    def call(*args, cwd=initial):
+        return subprocess.run([git, *args], cwd=cwd, env=environment, check=True,
+                              capture_output=True, timeout=20).stdout
+    def put(items, where):
+        for item in items:
+            path = where / item['path']; path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_bytes(item['text'].encode('utf-8'))
+    call('init', '--quiet', '--initial-branch=fixture')
+    call('config', 'core.autocrlf', 'false')
+    call('config', 'core.filemode', 'false')
+    put(case['files'], initial)
+    # Files are fixture-owned, not a user's checkout. Ignored inputs remain ignored.
+    call('add', '--all')
+    if case['setup'] != 'unborn':
+        call('commit', '--quiet', '-m', 'Create deterministic context fixture')
+    if case['setup'] == 'linked':
+        call('update-ref', 'refs/remotes/upstream/fixture', 'HEAD')
+        call('update-ref', 'refs/remotes/origin/fixture', 'HEAD')
+        call('worktree', 'add', '--quiet', '--detach', str(solver), 'HEAD')
+    elif case['setup'] == 'detached':
+        call('checkout', '--quiet', '--detach', 'HEAD')
+    elif case['setup'] == 'sparse':
+        call('sparse-checkout', 'init', '--cone')
+        call('sparse-checkout', 'set', 'app')
+    put(case['staged_edits'], solver)
+    if case['staged_edits']:
+        call('add', '--', *(f['path'] for f in case['staged_edits']), cwd=solver)
+    put(case['working_edits'], solver)
+    (evaluator / 'oracle.json').write_bytes((json.dumps(case['oracle'], sort_keys=True, indent=2)+'\n').encode())
+    (evaluator / 'identity.json').write_bytes((json.dumps({
+        'case_id': case_id, 'case_sha256': canonical_digest(case),
+        'task_sha256': canonical_digest(case['task']), 'oracle_sha256': case['oracle_sha256'],
+        'fixture_snapshot_sha256': case['snapshot_sha256'], 'setup': case['setup'],
+        'worktree_files': snapshot(solver), 'evidence_kind': 'fixture-placement-only',
+    }, sort_keys=True, indent=2)+'\n').encode())
+    return {'solver': solver, 'evaluator': evaluator, 'task': dict(case['task']),
+            'setup': case['setup'], 'files': snapshot(solver)}

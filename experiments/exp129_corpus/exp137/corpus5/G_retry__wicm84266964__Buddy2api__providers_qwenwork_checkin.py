@@ -1,1 +1,191 @@
-IiIiUXdlbldvcmsgZGFpbHkgY3JlZGl0IG5vdGljZS4gVGhlIDEuMy4xIGNsaWVudCBjbGFpbXMgaXQgd2l0aCBvbmUgUE9TVC4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBodHRweAoKaW1wb3J0IGRhdGFiYXNlIGFzIGRiCmZyb20gcHJvdmlkZXJzLnF3ZW53b3JrLmNvbnN0YW50cyBpbXBvcnQgKAogICAgQ0hBTk5FTF9JRCwKICAgIENMQUlNX0FQUF9NT0RFLAogICAgQ0xBSU1fQlVJTEQsCiAgICBDTEFJTV9JREVfVkVSU0lPTiwKICAgIENMQUlNX1JFTEVBU0VfVkVSU0lPTiwKICAgIENMQUlNX1VTRVJfQUdFTlQsCiAgICBEQUlMWV9DUkVESVRfTk9USUNFX0NMQUlNX1BBVEgsCiAgICBHQVRFV0FZLAopCmZyb20gcHJvdmlkZXJzLnF3ZW53b3JrLnRva2VuIGltcG9ydCBRd2VuV29ya0F1dGhFcnJvciwgaXNfdG9rZW5fZXhwaXJlZCwgcmVmcmVzaF9hY2NvdW50CgoKZGVmIHBhcnNlX2RhaWx5X2NyZWRpdF9ub3RpY2UocGF5bG9hZCkgLT4gZGljdDoKICAgICIiIk1hdGNoIHRoZSBkZXNrdG9wIHBhcnNlcjogdW53cmFwIGFkYXB0ZXIgZGF0YSwga2VlcCBhIHBvc2l0aXZlIGludGVnZXIgY3JlZGl0LiIiIgogICAgZGF0YSA9IHBheWxvYWQgaWYgaXNpbnN0YW5jZShwYXlsb2FkLCBkaWN0KSBlbHNlIHt9CiAgICBuZXN0ZWQgPSBkYXRhLmdldCgiZGF0YSIpCiAgICBpZiBpc2luc3RhbmNlKG5lc3RlZCwgZGljdCk6CiAgICAgICAgZGF0YSA9IG5lc3RlZAogICAgICAgIGlubmVyID0gZGF0YS5nZXQoImRhdGEiKQogICAgICAgIGlmIGlzaW5zdGFuY2UoaW5uZXIsIGRpY3QpOgogICAgICAgICAgICBkYXRhID0gaW5uZXIKICAgIGNyZWRpdHMgPSBkYXRhLmdldCgiY3JlZGl0cyIpIGlmIGlzaW5zdGFuY2UoZGF0YSwgZGljdCkgZWxzZSBOb25lCiAgICBhbW91bnQgPSAwLjAKICAgIGlmIGlzaW5zdGFuY2UoY3JlZGl0cywgaW50KSBhbmQgbm90IGlzaW5zdGFuY2UoY3JlZGl0cywgYm9vbCkgYW5kIGNyZWRpdHMgPiAwOgogICAgICAgIGFtb3VudCA9IGZsb2F0KGNyZWRpdHMpCiAgICBzaG91bGRfc2hvdyA9IGlzaW5zdGFuY2UoZGF0YSwgZGljdCkgYW5kIGRhdGEuZ2V0KCJzaG91bGRfc2hvdyIpIGlzIFRydWUgYW5kIGFtb3VudCA+IDAKICAgIHJldHVybiB7InNob3VsZF9zaG93Ijogc2hvdWxkX3Nob3csICJjcmVkaXRzIjogYW1vdW50fQoKCmRlZiBfcm93KAogICAgYWNjb3VudDogZGljdCwKICAgICosCiAgICBvazogYm9vbCwKICAgIHN0YXR1c19jb2RlOiBpbnQgPSAwLAogICAgbWVzc2FnZTogc3RyID0gIiIsCiAgICBjbGFpbWVkOiBib29sID0gRmFsc2UsCiAgICBhbHJlYWR5X2NsYWltZWQ6IGJvb2wgPSBGYWxzZSwKICAgIGNyZWRpdDogZmxvYXQgPSAwLAopIC0+IGRpY3Q6CiAgICByZXR1cm4gewogICAgICAgICJhY2NvdW50X2lkIjogYWNjb3VudC5nZXQoImlkIiksCiAgICAgICAgImFjY291bnRfbmFtZSI6IGFjY291bnQuZ2V0KCJuaWNrbmFtZSIpIG9yIGFjY291bnQuZ2V0KCJuYW1lIikgb3Igc3RyKGFjY291bnQuZ2V0KCJpZCIpKSwKICAgICAgICAib2siOiBvaywKICAgICAgICAiY2xhaW1lZCI6IGNsYWltZWQsCiAgICAgICAgImFscmVhZHlfY2xhaW1lZCI6IGFscmVhZHlfY2xhaW1lZCwKICAgICAgICAic3RhdHVzX2NvZGUiOiBzdGF0dXNfY29kZSwKICAgICAgICAibWVzc2FnZSI6IG1lc3NhZ2UsCiAgICAgICAgImNyZWRpdCI6IGNyZWRpdCwKICAgICAgICAiYWN0aXZlIjogVHJ1ZSwKICAgICAgICAidG9kYXlfY2hlY2tlZF9pbiI6IGFscmVhZHlfY2xhaW1lZCBvciBjbGFpbWVkLAogICAgICAgICJ0b2RheV9jcmVkaXQiOiBjcmVkaXQsCiAgICAgICAgImNoYW5uZWwiOiBDSEFOTkVMX0lELAogICAgfQoKCmRlZiBfcmVtZW1iZXIoYWNjb3VudDogZGljdCwgcmVzdWx0OiBkaWN0KSAtPiBkaWN0OgogICAgYWNjb3VudF9pZCA9IGFjY291bnQuZ2V0KCJpZCIpCiAgICBpZiBhY2NvdW50X2lkIGFuZCByZXN1bHQuZ2V0KCJvayIpIGFuZCAocmVzdWx0LmdldCgiY2xhaW1lZCIpIG9yIHJlc3VsdC5nZXQoImFscmVhZHlfY2xhaW1lZCIpKToKICAgICAgICBkYi51cHNlcnRfYWNjb3VudF9jaGVja2luX2NhY2hlKGludChhY2NvdW50X2lkKSwgcmVzdWx0KQogICAgcmV0dXJuIHJlc3VsdAoKCmRlZiBfY2FjaGVkX3RvZGF5KGFjY291bnQ6IGRpY3QpIC0+IGRpY3QgfCBOb25lOgogICAgYWNjb3VudF9pZCA9IGFjY291bnQuZ2V0KCJpZCIpCiAgICBpZiBub3QgYWNjb3VudF9pZDoKICAgICAgICByZXR1cm4gTm9uZQogICAgY2FjaGVkID0gZGIuZ2V0X2FjY291bnRfY2hlY2tpbl9jYWNoZShpbnQoYWNjb3VudF9pZCkpCiAgICBpZiBub3QgaXNpbnN0YW5jZShjYWNoZWQsIGRpY3QpIG9yIG5vdCBjYWNoZWQuZ2V0KCJvayIpOgogICAgICAgIHJldHVybiBOb25lCiAgICBpZiBub3QgKGNhY2hlZC5nZXQoImNsYWltZWQiKSBvciBjYWNoZWQuZ2V0KCJhbHJlYWR5X2NsYWltZWQiKSBvciBjYWNoZWQuZ2V0KCJ0b2RheV9jaGVja2VkX2luIikpOgogICAgICAgIHJldHVybiBOb25lCiAgICBjYWNoZWRbImNsYWltZWQiXSA9IEZhbHNlCiAgICBjYWNoZWRbImFscmVhZHlfY2xhaW1lZCJdID0gVHJ1ZQogICAgY2FjaGVkWyJ0b2RheV9jaGVja2VkX2luIl0gPSBUcnVlCiAgICBjYWNoZWRbInN0YWxlIl0gPSBGYWxzZQogICAgY2FjaGVkWyJjaGFubmVsIl0gPSBDSEFOTkVMX0lECiAgICByZXR1cm4gY2FjaGVkCgoKZGVmIF9jbGFpbV9oZWFkZXJzKGFjY2Vzczogc3RyKSAtPiBkaWN0W3N0ciwgc3RyXToKICAgICMgT2ZmaWNpYWwgMS4zLjEgY2xhaW0gaXMgYSBib2R5LWxlc3MgUE9TVC4gQ29udGVudC1UeXBlIHBsdXMge30gaXMgYSA0MDAuCiAgICBoZWFkZXJzID0gewogICAgICAgICJBY2NlcHQiOiAiYXBwbGljYXRpb24vanNvbiIsCiAgICAgICAgIlVzZXItQWdlbnQiOiBDTEFJTV9VU0VSX0FHRU5ULAogICAgICAgICJYLVF3ZW5Xb3JrLVZlcnNpb24iOiBDTEFJTV9JREVfVkVSU0lPTiwKICAgICAgICAiWC1Rd2VuV29yay1SZWxlYXNlLVZlcnNpb24iOiBDTEFJTV9SRUxFQVNFX1ZFUlNJT04sCiAgICAgICAgIlgtUXdlbldvcmstQnVpbGQiOiBDTEFJTV9CVUlMRCwKICAgICAgICAiWC1Rd2VuV29yay1QbGF0Zm9ybSI6ICJ3aW4zMiIsCiAgICAgICAgIlgtUXdlbldvcmstQXJjaCI6ICJ4NjQiLAogICAgICAgICJYLVF3ZW5Xb3JrLUNoYW5uZWwiOiAic3RhYmxlIiwKICAgICAgICAiWC1Rd2VuV29yay1BcHAtTW9kZSI6IENMQUlNX0FQUF9NT0RFLAogICAgfQogICAgaWYgYWNjZXNzOgogICAgICAgIGhlYWRlcnNbIkF1dGhvcml6YXRpb24iXSA9IGYiQmVhcmVyIHthY2Nlc3N9IgogICAgcmV0dXJuIGhlYWRlcnMKCgpkZWYgX2Vycm9yX2RldGFpbChwYXlsb2FkOiBkaWN0LCBzdGF0dXM6IGludCkgLT4gc3RyOgogICAgZGV0YWlsID0gIiIKICAgIGlmIGlzaW5zdGFuY2UocGF5bG9hZCwgZGljdCk6CiAgICAgICAgbmVzdGVkID0gcGF5bG9hZC5nZXQoImVycm9yIikKICAgICAgICBpZiBpc2luc3RhbmNlKG5lc3RlZCwgZGljdCk6CiAgICAgICAgICAgIGRldGFpbCA9IHN0cihuZXN0ZWQuZ2V0KCJtZXNzYWdlIikgb3IgbmVzdGVkLmdldCgiY29kZSIpIG9yICIiKQogICAgICAgIGRldGFpbCA9IGRldGFpbCBvciBzdHIoCiAgICAgICAgICAgIHBheWxvYWQuZ2V0KCJlcnJvck1lc3NhZ2UiKSBvciBwYXlsb2FkLmdldCgiZXJyb3JDb2RlIikgb3IgcGF5bG9hZC5nZXQoIm1lc3NhZ2UiKSBvciAiIgogICAgICAgICkKICAgIHRleHQgPSBmIlF3ZW5Xb3JrIOi1oOWIhiBIVFRQIHtzdGF0dXN9IgogICAgaWYgZGV0YWlsIGFuZCBkZXRhaWwgIT0gIk5vbmUiOgogICAgICAgIHRleHQgKz0gZiIge2RldGFpbH0iCiAgICByZXR1cm4gdGV4dFs6MjQwXQoKCmFzeW5jIGRlZiBfcG9zdF9jbGFpbShhY2NvdW50OiBkaWN0KSAtPiB0dXBsZVtpbnQsIGRpY3QsIHN0cl06CiAgICBoZWFkZXJzID0gX2NsYWltX2hlYWRlcnMoc3RyKGFjY291bnQuZ2V0KCJhY2Nlc3NfdG9rZW4iKSBvciAiIikpCiAgICB1cmwgPSBmIntHQVRFV0FZfXtEQUlMWV9DUkVESVRfTk9USUNFX0NMQUlNX1BBVEh9IgogICAgdHJ5OgogICAgICAgIGFzeW5jIHdpdGggaHR0cHguQXN5bmNDbGllbnQodGltZW91dD0yMC4wKSBhcyBjbGllbnQ6CiAgICAgICAgICAgIHJlc3BvbnNlID0gYXdhaXQgY2xpZW50LnBvc3QodXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICBleGNlcHQgaHR0cHguSFRUUEVycm9yIGFzIGV4YzoKICAgICAgICByZXR1cm4gMCwge30sIHN0cihleGMpWzoyNDBdCiAgICB0cnk6CiAgICAgICAgcGF5bG9hZCA9IHJlc3BvbnNlLmpzb24oKQogICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgcGF5bG9hZCA9IHt9CiAgICByZXR1cm4gcmVzcG9uc2Uuc3RhdHVzX2NvZGUsIHBheWxvYWQgaWYgaXNpbnN0YW5jZShwYXlsb2FkLCBkaWN0KSBlbHNlIHt9LCAiIgoKCmRlZiBfZnJvbV9ub3RpY2UoYWNjb3VudDogZGljdCwgc3RhdHVzOiBpbnQsIHBheWxvYWQ6IGRpY3QpIC0+IGRpY3Q6CiAgICBwYXJzZWQgPSBwYXJzZV9kYWlseV9jcmVkaXRfbm90aWNlKHBheWxvYWQpCiAgICBpZiBwYXJzZWRbInNob3VsZF9zaG93Il06CiAgICAgICAgcmV0dXJuIF9yb3coCiAgICAgICAgICAgIGFjY291bnQsCiAgICAgICAgICAgIG9rPVRydWUsCiAgICAgICAgICAgIHN0YXR1c19jb2RlPXN0YXR1cywKICAgICAgICAgICAgY2xhaW1lZD1UcnVlLAogICAgICAgICAgICBjcmVkaXQ9cGFyc2VkWyJjcmVkaXRzIl0sCiAgICAgICAgICAgIG1lc3NhZ2U9IumihuWPluaIkOWKnyIsCiAgICAgICAgKQogICAgaWYgcGFyc2VkWyJjcmVkaXRzIl0gPiAwOgogICAgICAgIHJldHVybiBfcm93KAogICAgICAgICAgICBhY2NvdW50LAogICAgICAgICAgICBvaz1UcnVlLAogICAgICAgICAgICBzdGF0dXNfY29kZT1zdGF0dXMsCiAgICAgICAgICAgIGFscmVhZHlfY2xhaW1lZD1UcnVlLAogICAgICAgICAgICBjcmVkaXQ9cGFyc2VkWyJjcmVkaXRzIl0sCiAgICAgICAgICAgIG1lc3NhZ2U9IuS7iuaXpeW3sumihiIsCiAgICAgICAgKQogICAgcmV0dXJuIF9yb3coCiAgICAgICAgYWNjb3VudCwKICAgICAgICBvaz1UcnVlLAogICAgICAgIHN0YXR1c19jb2RlPXN0YXR1cywKICAgICAgICBhbHJlYWR5X2NsYWltZWQ9VHJ1ZSwKICAgICAgICBtZXNzYWdlPSLku4rml6XmsqHmnInmlrDnmoTotaDliIYiLAogICAgKQoKCmFzeW5jIGRlZiBmZXRjaF9jaGVja2luKGFjY291bnQ6IGRpY3QsIGZvcmNlOiBib29sID0gRmFsc2UpIC0+IGRpY3Q6CiAgICBkZWwgZm9yY2UKICAgIGNhY2hlZCA9IF9jYWNoZWRfdG9kYXkoYWNjb3VudCkKICAgIGlmIGNhY2hlZDoKICAgICAgICByZXR1cm4gY2FjaGVkCiAgICByZXR1cm4gX3JvdyhhY2NvdW50LCBvaz1UcnVlLCBtZXNzYWdlPSLlsJrmnKrpooblj5YiKQoKCmFzeW5jIGRlZiBjbGFpbV9jaGVja2luKGFjY291bnQ6IGRpY3QpIC0+IGRpY3Q6CiAgICBjdXJyZW50ID0gYWNjb3VudAogICAgaWYgaXNfdG9rZW5fZXhwaXJlZChjdXJyZW50KSBvciBub3Qgc3RyKGN1cnJlbnQuZ2V0KCJhY2Nlc3NfdG9rZW4iKSBvciAiIik6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBjdXJyZW50ID0gYXdhaXQgcmVmcmVzaF9hY2NvdW50KGN1cnJlbnQpCiAgICAgICAgZXhjZXB0IFF3ZW5Xb3JrQXV0aEVycm9yIGFzIGV4YzoKICAgICAgICAgICAgcmV0dXJuIF9yb3coYWNjb3VudCwgb2s9RmFsc2UsIG1lc3NhZ2U9c3RyKGV4YylbOjI0MF0pCiAgICBzdGF0dXMsIHBheWxvYWQsIGVycm9yID0gYXdhaXQgX3Bvc3RfY2xhaW0oY3VycmVudCkKICAgIGlmIGVycm9yIG9yIHN0YXR1cyBpbiB7NDAxLCA0MDN9OgogICAgICAgIHRyeToKICAgICAgICAgICAgY3VycmVudCA9IGF3YWl0IHJlZnJlc2hfYWNjb3VudChjdXJyZW50KQogICAgICAgICAgICBzdGF0dXMsIHBheWxvYWQsIGVycm9yID0gYXdhaXQgX3Bvc3RfY2xhaW0oY3VycmVudCkKICAgICAgICBleGNlcHQgUXdlbldvcmtBdXRoRXJyb3IgYXMgZXhjOgogICAgICAgICAgICByZXR1cm4gX3JvdyhhY2NvdW50LCBvaz1GYWxzZSwgc3RhdHVzX2NvZGU9c3RhdHVzLCBtZXNzYWdlPShlcnJvciBvciBzdHIoZXhjKSlbOjI0MF0pCiAgICBpZiBlcnJvcjoKICAgICAgICByZXR1cm4gX3JvdyhhY2NvdW50LCBvaz1GYWxzZSwgbWVzc2FnZT1lcnJvcikKICAgIGlmIHN0YXR1cyA+PSA0MDA6CiAgICAgICAgcmV0dXJuIF9yb3coYWNjb3VudCwgb2s9RmFsc2UsIHN0YXR1c19jb2RlPXN0YXR1cywgbWVzc2FnZT1fZXJyb3JfZGV0YWlsKHBheWxvYWQsIHN0YXR1cykpCiAgICByZXR1cm4gX3JlbWVtYmVyKGN1cnJlbnQsIF9mcm9tX25vdGljZShjdXJyZW50LCBzdGF0dXMsIHBheWxvYWQpKQo=
+"""QwenWork daily credit notice. The 1.3.1 client claims it with one POST."""
+
+from __future__ import annotations
+
+import httpx
+
+import database as db
+from providers.qwenwork.constants import (
+    CHANNEL_ID,
+    CLAIM_APP_MODE,
+    CLAIM_BUILD,
+    CLAIM_IDE_VERSION,
+    CLAIM_RELEASE_VERSION,
+    CLAIM_USER_AGENT,
+    DAILY_CREDIT_NOTICE_CLAIM_PATH,
+    GATEWAY,
+)
+from providers.qwenwork.token import QwenWorkAuthError, is_token_expired, refresh_account
+
+
+def parse_daily_credit_notice(payload) -> dict:
+    """Match the desktop parser: unwrap adapter data, keep a positive integer credit."""
+    data = payload if isinstance(payload, dict) else {}
+    nested = data.get("data")
+    if isinstance(nested, dict):
+        data = nested
+        inner = data.get("data")
+        if isinstance(inner, dict):
+            data = inner
+    credits = data.get("credits") if isinstance(data, dict) else None
+    amount = 0.0
+    if isinstance(credits, int) and not isinstance(credits, bool) and credits > 0:
+        amount = float(credits)
+    should_show = isinstance(data, dict) and data.get("should_show") is True and amount > 0
+    return {"should_show": should_show, "credits": amount}
+
+
+def _row(
+    account: dict,
+    *,
+    ok: bool,
+    status_code: int = 0,
+    message: str = "",
+    claimed: bool = False,
+    already_claimed: bool = False,
+    credit: float = 0,
+) -> dict:
+    return {
+        "account_id": account.get("id"),
+        "account_name": account.get("nickname") or account.get("name") or str(account.get("id")),
+        "ok": ok,
+        "claimed": claimed,
+        "already_claimed": already_claimed,
+        "status_code": status_code,
+        "message": message,
+        "credit": credit,
+        "active": True,
+        "today_checked_in": already_claimed or claimed,
+        "today_credit": credit,
+        "channel": CHANNEL_ID,
+    }
+
+
+def _remember(account: dict, result: dict) -> dict:
+    account_id = account.get("id")
+    if account_id and result.get("ok") and (result.get("claimed") or result.get("already_claimed")):
+        db.upsert_account_checkin_cache(int(account_id), result)
+    return result
+
+
+def _cached_today(account: dict) -> dict | None:
+    account_id = account.get("id")
+    if not account_id:
+        return None
+    cached = db.get_account_checkin_cache(int(account_id))
+    if not isinstance(cached, dict) or not cached.get("ok"):
+        return None
+    if not (cached.get("claimed") or cached.get("already_claimed") or cached.get("today_checked_in")):
+        return None
+    cached["claimed"] = False
+    cached["already_claimed"] = True
+    cached["today_checked_in"] = True
+    cached["stale"] = False
+    cached["channel"] = CHANNEL_ID
+    return cached
+
+
+def _claim_headers(access: str) -> dict[str, str]:
+    # Official 1.3.1 claim is a body-less POST. Content-Type plus {} is a 400.
+    headers = {
+        "Accept": "application/json",
+        "User-Agent": CLAIM_USER_AGENT,
+        "X-QwenWork-Version": CLAIM_IDE_VERSION,
+        "X-QwenWork-Release-Version": CLAIM_RELEASE_VERSION,
+        "X-QwenWork-Build": CLAIM_BUILD,
+        "X-QwenWork-Platform": "win32",
+        "X-QwenWork-Arch": "x64",
+        "X-QwenWork-Channel": "stable",
+        "X-QwenWork-App-Mode": CLAIM_APP_MODE,
+    }
+    if access:
+        headers["Authorization"] = f"Bearer {access}"
+    return headers
+
+
+def _error_detail(payload: dict, status: int) -> str:
+    detail = ""
+    if isinstance(payload, dict):
+        nested = payload.get("error")
+        if isinstance(nested, dict):
+            detail = str(nested.get("message") or nested.get("code") or "")
+        detail = detail or str(
+            payload.get("errorMessage") or payload.get("errorCode") or payload.get("message") or ""
+        )
+    text = f"QwenWork 赠分 HTTP {status}"
+    if detail and detail != "None":
+        text += f" {detail}"
+    return text[:240]
+
+
+async def _post_claim(account: dict) -> tuple[int, dict, str]:
+    headers = _claim_headers(str(account.get("access_token") or ""))
+    url = f"{GATEWAY}{DAILY_CREDIT_NOTICE_CLAIM_PATH}"
+    try:
+        async with httpx.AsyncClient(timeout=20.0) as client:
+            response = await client.post(url, headers=headers)
+    except httpx.HTTPError as exc:
+        return 0, {}, str(exc)[:240]
+    try:
+        payload = response.json()
+    except ValueError:
+        payload = {}
+    return response.status_code, payload if isinstance(payload, dict) else {}, ""
+
+
+def _from_notice(account: dict, status: int, payload: dict) -> dict:
+    parsed = parse_daily_credit_notice(payload)
+    if parsed["should_show"]:
+        return _row(
+            account,
+            ok=True,
+            status_code=status,
+            claimed=True,
+            credit=parsed["credits"],
+            message="领取成功",
+        )
+    if parsed["credits"] > 0:
+        return _row(
+            account,
+            ok=True,
+            status_code=status,
+            already_claimed=True,
+            credit=parsed["credits"],
+            message="今日已领",
+        )
+    return _row(
+        account,
+        ok=True,
+        status_code=status,
+        already_claimed=True,
+        message="今日没有新的赠分",
+    )
+
+
+async def fetch_checkin(account: dict, force: bool = False) -> dict:
+    del force
+    cached = _cached_today(account)
+    if cached:
+        return cached
+    return _row(account, ok=True, message="尚未领取")
+
+
+async def claim_checkin(account: dict) -> dict:
+    current = account
+    if is_token_expired(current) or not str(current.get("access_token") or ""):
+        try:
+            current = await refresh_account(current)
+        except QwenWorkAuthError as exc:
+            return _row(account, ok=False, message=str(exc)[:240])
+    status, payload, error = await _post_claim(current)
+    if error or status in {401, 403}:
+        try:
+            current = await refresh_account(current)
+            status, payload, error = await _post_claim(current)
+        except QwenWorkAuthError as exc:
+            return _row(account, ok=False, status_code=status, message=(error or str(exc))[:240])
+    if error:
+        return _row(account, ok=False, message=error)
+    if status >= 400:
+        return _row(account, ok=False, status_code=status, message=_error_detail(payload, status))
+    return _remember(current, _from_notice(current, status, payload))

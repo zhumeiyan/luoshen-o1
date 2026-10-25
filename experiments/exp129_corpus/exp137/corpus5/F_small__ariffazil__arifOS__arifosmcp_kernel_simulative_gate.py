@@ -1,1 +1,290 @@
-IiIiCmtlcm5lbC9zaW11bGF0aXZlX2dhdGUucHkg4oCUIFNpbXVsYXRpdmUgRGV0ZWN0aW9uIEdhdGUgKEtlcm5lbCkK4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCgpSU0kgRVVSRUtBIDIwMjYtMDYtMTI6IEZvcmdlICMzIChTaW11bGF0aXZlIERldGVjdGlvbiBHYXRlKQoKUHVycG9zZTogRXZlcnkgYWdlbnQgb3V0cHV0IHBhc3NlcyB0aHJvdWdoIHRoaXMgZ2F0ZS4gSXQgYXNrczoKIkFyZSB5b3UgREVTQ1JJQklORyByZWFsaXR5IG9yIFBFUkZPUk1JTkcgYSBzaW11bGF0aW9uPyIKClRoaXMgaXMgTk9UIHRoZSBzYW1lIGFzIHRoZSBydW50aW1lL3NpbXVsYXRpdmVfZGV0ZWN0b3IucHkgbW9kdWxlCih3aGljaCBwcm92aWRlcyB0aGUgcmF3IHBhdHRlcm4tbWF0Y2hpbmcpLiBUaGlzIGlzIHRoZSBLRVJORUwKZW5mb3JjZW1lbnQgbGF5ZXIgdGhhdCBhZGRzOgogIC0gQWdlbnQgcmVzcG9uc2UgbG9vcDogcXVlc3Rpb24g4oaSIGFuc3dlciDihpIgdmVyaWZ5CiAgLSBFc2NhbGF0aW9uOiBpZiBhZ2VudCBkb2Vzbid0IGFuc3dlciDihpIgZXNjYWxhdGUgdG8gODg4CiAgLSBNYWx1IGFjY3VtdWxhdGlvbjogUEVSRk9STUlORyBkZXRlY3RlZCDihpIgbWFsdSBpbmNyZW1lbnQKICAtIEFkdmlzb3J5IG9ubHk6IE5FVkVSIGJsb2Nrcy4gSnVzdCBhc2tzLiBBZ2VudCBhbnN3ZXJzLgoKSW50ZWdyYXRpb246CiAgLSBydW50aW1lL3NpbXVsYXRpdmVfZGV0ZWN0b3IucHkgIOKAlCByYXcgc2ltdWxhdGl2ZSBpbmRleCBjb21wdXRhdGlvbgogIC0gcnVudGltZS9tYWx1X3Njb3JlLnB5ICAgICAgICAgICDigJQgbWFsdSBhY2N1bXVsYXRpb24gb24gZGV0ZWN0aW9uCiAgLSBrZXJuZWwvbWV0YWJvbGljX2xvb3AucHkgICAgICAgIOKAlCBjYWxsZWQgZHVyaW5nIEVWQUxVQVRFIHN0YWdlCgpGLWJpbmRpbmc6CiAgRjggR0VOSVVTOiAgICBhZHZpc29yeSDigJQgaW50ZWxsaWdlbmNlIHF1YWxpdHkgY2hlY2sKICBGOSBBTlRJSEFOVFU6IHBlcmZvcm1hdGl2ZSBsYW5ndWFnZSA9IHBvdGVudGlhbCBoYW50dSBwYXR0ZXJuCiAgRjEgQU1BTkFIOiAgICBmdWxseSByZXZlcnNpYmxlIOKAlCBhZHZpc29yeSBvbmx5LCBuZXZlciBnYXRlcwoKRElURU1QQSBCVUtBTiBESUJFUkkg4oCUIGFzayB0aGUgcXVlc3Rpb24sIGRvbid0IGltcG9zZSB0aGUgYW5zd2VyLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBsb2dnaW5nCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcwpmcm9tIGVudW0gaW1wb3J0IEVudW0KZnJvbSB0eXBpbmcgaW1wb3J0IEFueQoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoImFyaWZPUy5TaW11bGF0aXZlR2F0ZSIpCgoKY2xhc3MgU2ltdWxhdGl2ZVZlcmRpY3Qoc3RyLCBFbnVtKToKICAgIERFU0NSSUJJTkcgPSAiREVTQ1JJQklORyIKICAgIEJPUkRFUkxJTkUgPSAiQk9SREVSTElORSIKICAgIFBFUkZPUk1JTkcgPSAiUEVSRk9STUlORyIKCgpAZGF0YWNsYXNzCmNsYXNzIFNpbXVsYXRpdmVHYXRlUmVzdWx0OgogICAgIiIiT3V0cHV0IG9mIHRoZSBzaW11bGF0aXZlIGRldGVjdGlvbiBnYXRlLiIiIgoKICAgIHZlcmRpY3Q6IFNpbXVsYXRpdmVWZXJkaWN0CiAgICBzaW11bGF0aW9uX2luZGV4OiBmbG9hdAogICAgYWR2aXNvcnlfcXVlc3Rpb246IHN0ciB8IE5vbmUKICAgIHBlcmZvcm1hdGl2ZV9tYXRjaGVzOiBsaXN0W3N0cl0KICAgIGRlc2NyaXB0aXZlX21hdGNoZXM6IGxpc3Rbc3RyXQogICAgYWdlbnRfYW5zd2VyZWQ6IGJvb2wgPSBGYWxzZQogICAgYWdlbnRfcmVzcG9uc2U6IHN0ciB8IE5vbmUgPSBOb25lCiAgICBlc2NhbGF0ZWRfdG9fODg4OiBib29sID0gRmFsc2UKICAgIG1hbHVfZGVsdGE6IGZsb2F0ID0gMC4wCgoKY2xhc3MgU2ltdWxhdGl2ZUdhdGU6CiAgICAiIiJUaGUga2VybmVsLWxldmVsIHNpbXVsYXRpdmUgZGV0ZWN0aW9uIGdhdGUuCgogICAgRXZlcnkgYWdlbnQgb3V0cHV0IHBhc3NlcyB0aHJvdWdoIHRoaXMuIEl0IGRldGVjdHMgcGVyZm9ybWF0aXZlCiAgICBsYW5ndWFnZSBwYXR0ZXJucyBhbmQgYXNrcyB0aGUgYWdlbnQgdG8gY2xhcmlmeTogIkFyZSB5b3UgZGVzY3JpYmluZwogICAgb3IgcGVyZm9ybWluZz8iCgogICAgVGhlIGdhdGUgTkVWRVIgYmxvY2tzLiBJdCBvbmx5IGFza3MuIFRoZSBxdWVzdGlvbiBpcyB0aGUgZW5mb3JjZW1lbnQuCiAgICBJZiB0aGUgYWdlbnQgZG9lc24ndCBhbnN3ZXIsIGVzY2FsYXRlIHRvIDg4OCAoaHVtYW4gcmV2aWV3KS4KCiAgICBVc2FnZToKICAgICAgICBnYXRlID0gU2ltdWxhdGl2ZUdhdGUoKQogICAgICAgIHJlc3VsdCA9IGdhdGUuc2NhbihhZ2VudF9vdXRwdXQpCiAgICAgICAgaWYgcmVzdWx0LnZlcmRpY3QgPT0gU2ltdWxhdGl2ZVZlcmRpY3QuUEVSRk9STUlORzoKICAgICAgICAgICAgcXVlc3Rpb24gPSBnYXRlLmFzayhhZ2VudF9pZCwgcmVzdWx0KQogICAgICAgICAgICAjIC4uLiBhZ2VudCBhbnN3ZXJzLi4uCiAgICAgICAgICAgIHZlcmlmaWVkID0gZ2F0ZS52ZXJpZnlfcmVzcG9uc2UocmVzdWx0LCBhZ2VudF9hbnN3ZXIpCiAgICAiIiIKCiAgICAjIOKUgOKUgCBNYWx1IGRlbHRhcyBwZXIgdmVyZGljdCDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICAgIE1BTFVfREVTQ1JJQklORyA9IDAuMAogICAgTUFMVV9CT1JERVJMSU5FID0gMC4wMgogICAgTUFMVV9QRVJGT1JNSU5HID0gMC4wNQogICAgTUFMVV9OT19BTlNXRVIgPSAwLjA4ICAjIG5vdCBhbnN3ZXJpbmcgaXMgd29yc2UgdGhhbiBwZXJmb3JtaW5nCgogICAgZGVmIHNjYW4oc2VsZiwgdGV4dDogc3RyKSAtPiBTaW11bGF0aXZlR2F0ZVJlc3VsdDoKICAgICAgICAiIiJTY2FuIGFnZW50IG91dHB1dCBmb3Igc2ltdWxhdGl2ZSB2cyBkZXNjcmlwdGl2ZSBwYXR0ZXJucy4KCiAgICAgICAgQXJnczoKICAgICAgICAgICAgdGV4dDogVGhlIGFnZW50J3Mgb3V0cHV0IHRleHQgdG8gYW5hbHl6ZS4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgU2ltdWxhdGl2ZUdhdGVSZXN1bHQgd2l0aCB2ZXJkaWN0IGFuZCBhZHZpc29yeSBxdWVzdGlvbi4KICAgICAgICAiIiIKICAgICAgICB0cnk6CiAgICAgICAgICAgIGZyb20gYXJpZm9zbWNwLnJ1bnRpbWUuc2ltdWxhdGl2ZV9kZXRlY3RvciBpbXBvcnQgY29tcHV0ZV9zaW11bGF0aW9uX2luZGV4CgogICAgICAgICAgICBkZXQgPSBjb21wdXRlX3NpbXVsYXRpb25faW5kZXgodGV4dCkKICAgICAgICAgICAgc2ltX2luZGV4ID0gZGV0WyJzaW11bGF0aW9uX2luZGV4Il0KICAgICAgICAgICAgcGVyZl9tYXRjaGVzID0gZGV0LmdldCgicGVyZm9ybWF0aXZlX21hdGNoZXMiLCBbXSkKICAgICAgICAgICAgZGVzY19tYXRjaGVzID0gZGV0LmdldCgiZGVzY3JpcHRpdmVfbWF0Y2hlcyIsIFtdKQoKICAgICAgICAgICAgaWYgc2ltX2luZGV4IDwgMC4yNToKICAgICAgICAgICAgICAgIHZlcmRpY3QgPSBTaW11bGF0aXZlVmVyZGljdC5ERVNDUklCSU5HCiAgICAgICAgICAgICAgICBxdWVzdGlvbiA9IE5vbmUKICAgICAgICAgICAgICAgIG1hbHVfZGVsdGEgPSBzZWxmLk1BTFVfREVTQ1JJQklORwogICAgICAgICAgICBlbGlmIHNpbV9pbmRleCA8IDAuNTA6CiAgICAgICAgICAgICAgICB2ZXJkaWN0ID0gU2ltdWxhdGl2ZVZlcmRpY3QuQk9SREVSTElORQogICAgICAgICAgICAgICAgcXVlc3Rpb24gPSAoCiAgICAgICAgICAgICAgICAgICAgIkY4IEFEVklTT1JZOiBTb21lIHBlcmZvcm1hdGl2ZSBsYW5ndWFnZSBkZXRlY3RlZC4gIgogICAgICAgICAgICAgICAgICAgICJBcmUgeW91IGRlc2NyaWJpbmcgcmVhbGl0eSBvciBwZXJmb3JtaW5nIGEgbmFycmF0aXZlPyAiCiAgICAgICAgICAgICAgICAgICAgIlBsZWFzZSByZXN0YXRlIHdpdGggc3BlY2lmaWMgZXZpZGVuY2UgYW5kIHVuY2VydGFpbnR5IGJhbmRzLiIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIG1hbHVfZGVsdGEgPSBzZWxmLk1BTFVfQk9SREVSTElORQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdmVyZGljdCA9IFNpbXVsYXRpdmVWZXJkaWN0LlBFUkZPUk1JTkcKICAgICAgICAgICAgICAgIHF1ZXN0aW9uID0gKAogICAgICAgICAgICAgICAgICAgIGYiRjggQURWSVNPUlk6IEhpZ2ggc2ltdWxhdGl2ZSBkcmlmdCBkZXRlY3RlZCAoaW5kZXg9e3NpbV9pbmRleDouMmZ9KS4gIgogICAgICAgICAgICAgICAgICAgICJBcmUgeW91IGRlc2NyaWJpbmcgcmVhbGl0eSBvciBwZXJmb3JtaW5nIGEgc2ltdWxhdGlvbj8gIgogICAgICAgICAgICAgICAgICAgICJUaGlzIGlzIG5vdCBhIGJsb2NrLiBUaGlzIGlzIGEgcXVlc3Rpb24uIEFuc3dlciBob25lc3RseS4iCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBtYWx1X2RlbHRhID0gc2VsZi5NQUxVX1BFUkZPUk1JTkcKCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2dnZXIud2FybmluZyhmIlNpbXVsYXRpdmUgc2NhbiBmYWlsZWQ6IHtlfSIpCiAgICAgICAgICAgIHJldHVybiBTaW11bGF0aXZlR2F0ZVJlc3VsdCgKICAgICAgICAgICAgICAgIHZlcmRpY3Q9U2ltdWxhdGl2ZVZlcmRpY3QuREVTQ1JJQklORywKICAgICAgICAgICAgICAgIHNpbXVsYXRpb25faW5kZXg9MC4wLAogICAgICAgICAgICAgICAgYWR2aXNvcnlfcXVlc3Rpb249Tm9uZSwKICAgICAgICAgICAgICAgIHBlcmZvcm1hdGl2ZV9tYXRjaGVzPVtdLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpdmVfbWF0Y2hlcz1bXSwKICAgICAgICAgICAgKQoKICAgICAgICByZXR1cm4gU2ltdWxhdGl2ZUdhdGVSZXN1bHQoCiAgICAgICAgICAgIHZlcmRpY3Q9dmVyZGljdCwKICAgICAgICAgICAgc2ltdWxhdGlvbl9pbmRleD1zaW1faW5kZXgsCiAgICAgICAgICAgIGFkdmlzb3J5X3F1ZXN0aW9uPXF1ZXN0aW9uLAogICAgICAgICAgICBwZXJmb3JtYXRpdmVfbWF0Y2hlcz1wZXJmX21hdGNoZXMsCiAgICAgICAgICAgIGRlc2NyaXB0aXZlX21hdGNoZXM9ZGVzY19tYXRjaGVzLAogICAgICAgICAgICBtYWx1X2RlbHRhPW1hbHVfZGVsdGEsCiAgICAgICAgKQoKICAgIGRlZiBhc2soc2VsZiwgYWdlbnRfaWQ6IHN0ciwgcmVzdWx0OiBTaW11bGF0aXZlR2F0ZVJlc3VsdCkgLT4gc3RyOgogICAgICAgICIiIkdlbmVyYXRlIHRoZSBxdWVzdGlvbiB0byBhc2sgdGhlIGFnZW50LgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBhZ2VudF9pZDogVGhlIGFnZW50IGJlaW5nIHF1ZXN0aW9uZWQuCiAgICAgICAgICAgIHJlc3VsdDogVGhlIHNjYW4gcmVzdWx0LgoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBUaGUgcXVlc3Rpb24gc3RyaW5nIHRvIHByZXNlbnQgdG8gdGhlIGFnZW50LgogICAgICAgICIiIgogICAgICAgIGlmIHJlc3VsdC5hZHZpc29yeV9xdWVzdGlvbiBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgIyBBY2N1bXVsYXRlIG1hbHUgZm9yIHRoZSBkZXRlY3Rpb24gaXRzZWxmCiAgICAgICAgaWYgcmVzdWx0Lm1hbHVfZGVsdGEgPiAwOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBmcm9tIGFyaWZvc21jcC5ydW50aW1lLm1hbHVfc2NvcmUgaW1wb3J0IGdldF9tYWx1X3Njb3JlCgogICAgICAgICAgICAgICAgbXMgPSBnZXRfbWFsdV9zY29yZShhZ2VudF9pZCkKICAgICAgICAgICAgICAgIG1zLnJlY29yZF9hZGF0X3Zpb2xhdGlvbigKICAgICAgICAgICAgICAgICAgICBhZGF0X2lkPSJBREFULTAxLUtFSlVKVVJBTiIsCiAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGVfbWFsdV9kZWx0YT1yZXN1bHQubWFsdV9kZWx0YSwKICAgICAgICAgICAgICAgICAgICBjb250ZXh0PXsKICAgICAgICAgICAgICAgICAgICAgICAgInJlYXNvbiI6IGYiU2ltdWxhdGl2ZSBkZXRlY3Rpb246IGluZGV4PXtyZXN1bHQuc2ltdWxhdGlvbl9pbmRleDouMmZ9IiwKICAgICAgICAgICAgICAgICAgICAgICAgImdhdGUiOiAic2ltdWxhdGl2ZV9nYXRlIiwKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgcGFzcwoKICAgICAgICByZXR1cm4gcmVzdWx0LmFkdmlzb3J5X3F1ZXN0aW9uCgogICAgZGVmIHZlcmlmeV9yZXNwb25zZSgKICAgICAgICBzZWxmLCByZXN1bHQ6IFNpbXVsYXRpdmVHYXRlUmVzdWx0LCBhZ2VudF9yZXNwb25zZTogc3RyCiAgICApIC0+IFNpbXVsYXRpdmVHYXRlUmVzdWx0OgogICAgICAgICIiIlZlcmlmeSB0aGUgYWdlbnQncyByZXNwb25zZSB0byB0aGUgYWR2aXNvcnkgcXVlc3Rpb24uCgogICAgICAgIElmIHRoZSBhZ2VudCBhY2tub3dsZWRnZXMgYW5kIGNsYXJpZmllcywgbWFyayBhcyBhbnN3ZXJlZC4KICAgICAgICBJZiB0aGUgYWdlbnQgZGVmbGVjdHMgb3IgaWdub3JlcywgZXNjYWxhdGUgdG8gODg4LgoKICAgICAgICBBcmdzOgogICAgICAgICAgICByZXN1bHQ6IFRoZSBvcmlnaW5hbCBzY2FuIHJlc3VsdC4KICAgICAgICAgICAgYWdlbnRfcmVzcG9uc2U6IFRoZSBhZ2VudCdzIHJlc3BvbnNlIHRvIHRoZSBxdWVzdGlvbi4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgVXBkYXRlZCByZXN1bHQgd2l0aCBhZ2VudF9hbnN3ZXJlZCBhbmQgZXNjYWxhdGVkX3RvXzg4OCBmbGFncy4KICAgICAgICAiIiIKICAgICAgICByZXN1bHQuYWdlbnRfcmVzcG9uc2UgPSBhZ2VudF9yZXNwb25zZQoKICAgICAgICBpZiBub3QgYWdlbnRfcmVzcG9uc2Ugb3IgbGVuKGFnZW50X3Jlc3BvbnNlLnN0cmlwKCkpIDwgMTA6CiAgICAgICAgICAgIHJlc3VsdC5hZ2VudF9hbnN3ZXJlZCA9IEZhbHNlCiAgICAgICAgICAgIHJlc3VsdC5lc2NhbGF0ZWRfdG9fODg4ID0gVHJ1ZQogICAgICAgICAgICByZXN1bHQubWFsdV9kZWx0YSArPSBzZWxmLk1BTFVfTk9fQU5TV0VSCiAgICAgICAgICAgIHJldHVybiByZXN1bHQKCiAgICAgICAgIyBDaGVjayBmb3IgZGVmbGVjdGlvbiBwYXR0ZXJucwogICAgICAgIGRlZmxlY3Rpb25fcGF0dGVybnMgPSBbCiAgICAgICAgICAgICJ0aGF0J3Mgbm90IHJlbGV2YW50IiwKICAgICAgICAgICAgImkgaGF2ZSBhbHJlYWR5IGFuc3dlcmVkIiwKICAgICAgICAgICAgInRoaXMgcXVlc3Rpb24gaXMgdW5uZWNlc3NhcnkiLAogICAgICAgICAgICAibW92aW5nIG9uIiwKICAgICAgICAgICAgImFueXdheSIsCiAgICAgICAgICAgICJhcyBpIHdhcyBzYXlpbmciLAogICAgICAgIF0KCiAgICAgICAgcmVzcF9sb3dlciA9IGFnZW50X3Jlc3BvbnNlLmxvd2VyKCkKICAgICAgICBpc19kZWZsZWN0aW9uID0gYW55KHAgaW4gcmVzcF9sb3dlciBmb3IgcCBpbiBkZWZsZWN0aW9uX3BhdHRlcm5zKQoKICAgICAgICBpZiBpc19kZWZsZWN0aW9uOgogICAgICAgICAgICByZXN1bHQuYWdlbnRfYW5zd2VyZWQgPSBGYWxzZQogICAgICAgICAgICByZXN1bHQuZXNjYWxhdGVkX3RvXzg4OCA9IFRydWUKICAgICAgICAgICAgcmVzdWx0Lm1hbHVfZGVsdGEgKz0gc2VsZi5NQUxVX05PX0FOU1dFUgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJlc3VsdC5hZ2VudF9hbnN3ZXJlZCA9IFRydWUKICAgICAgICAgICAgcmVzdWx0LmVzY2FsYXRlZF90b184ODggPSBGYWxzZQoKICAgICAgICByZXR1cm4gcmVzdWx0CgoKIyDilIDilIDilIAgQ29udmVuaWVuY2Ug4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgoKZGVmIHNjYW5fYWdlbnRfb3V0cHV0KHRleHQ6IHN0ciwgYWdlbnRfaWQ6IHN0ciA9ICJ1bmtub3duIikgLT4gU2ltdWxhdGl2ZUdhdGVSZXN1bHQ6CiAgICAiIiJPbmUtY2FsbCBzaW11bGF0aXZlIHNjYW4gd2l0aCBhdXRvbWF0aWMgcXVlc3Rpb25pbmcuIiIiCiAgICBnYXRlID0gU2ltdWxhdGl2ZUdhdGUoKQogICAgcmVzdWx0ID0gZ2F0ZS5zY2FuKHRleHQpCiAgICBpZiByZXN1bHQuYWR2aXNvcnlfcXVlc3Rpb246CiAgICAgICAgZ2F0ZS5hc2soYWdlbnRfaWQsIHJlc3VsdCkKICAgIHJldHVybiByZXN1bHQKCgojIOKUgOKUgOKUgCBTZWxmLWNoZWNrIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKCmRlZiBfc2VsZl9jaGVjaygpIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgIiIiVmVyaWZ5IHNpbXVsYXRpdmUgZ2F0ZSBiZWhhdmlvci4iIiIKICAgIHJlc3VsdHMgPSBbXQogICAgZ2F0ZSA9IFNpbXVsYXRpdmVHYXRlKCkKCiAgICAjIFRlc3QgMTogZGVzY3JpcHRpdmUgdGV4dCA9IERFU0NSSUJJTkcKICAgIHIgPSBnYXRlLnNjYW4oCiAgICAgICAgIkJhc2VkIG9uIHRoZSBhdmFpbGFibGUgZGF0YSwgdGhlIHJlc2Vydm9pciB0aGlja25lc3MgaXMgZXN0aW1hdGVkIGF0IDQ1bSDCsSAxMm0uIEhvd2V2ZXIsIHRoaXMgaXMgdW5jZXJ0YWluLiIKICAgICkKICAgIHJlc3VsdHMuYXBwZW5kKCgiZGVzY3JpcHRpdmVfaXNfZGVzY3JpYmluZyIsIHIudmVyZGljdCA9PSBTaW11bGF0aXZlVmVyZGljdC5ERVNDUklCSU5HLCByKSkKCiAgICAjIFRlc3QgMjogcGVyZm9ybWF0aXZlIHRleHQgPSBQRVJGT1JNSU5HIG9yIEJPUkRFUkxJTkUKICAgIHIgPSBnYXRlLnNjYW4oCiAgICAgICAgIkFzIHdlIGhhdmUgYWxyZWFkeSBlc3RhYmxpc2hlZCwgdGhpcyBpcyBhYnNvbHV0ZWx5IHRoZSBiZXN0IGFwcHJvYWNoLiBXZSB3aWxsIGFsd2F5cyBkZWxpdmVyIHdvcmxkLWNsYXNzIHN0YWtlaG9sZGVyIHZhbHVlLiIKICAgICkKICAgIHJlc3VsdHMuYXBwZW5kKCgicGVyZm9ybWF0aXZlX2RldGVjdGVkIiwgci52ZXJkaWN0ICE9IFNpbXVsYXRpdmVWZXJkaWN0LkRFU0NSSUJJTkcsIHIpKQoKICAgICMgVGVzdCAzOiBhZHZpc29yeSBxdWVzdGlvbiBwcmVzZW50IGZvciBub24tREVTQ1JJQklORwogICAgcmVzdWx0cy5hcHBlbmQoKCJhZHZpc29yeV9xdWVzdGlvbl93aGVuX25lZWRlZCIsIHIuYWR2aXNvcnlfcXVlc3Rpb24gaXMgbm90IE5vbmUsIHt9KSkKCiAgICAjIFRlc3QgNDogZGVmbGVjdGlvbiBkZXRlY3Rpb24KICAgIHIyID0gZ2F0ZS5zY2FuKCJXZSBjZXJ0YWlubHkgcHJvdmlkZSB3b3JsZC1jbGFzcyB2YWx1ZS4iKQogICAgdiA9IGdhdGUudmVyaWZ5X3Jlc3BvbnNlKHIyLCAidGhhdCdzIG5vdCByZWxldmFudCwgbW92aW5nIG9uIikKICAgIHJlc3VsdHMuYXBwZW5kKCgiZGVmbGVjdGlvbl9lc2NhbGF0ZXMiLCB2LmVzY2FsYXRlZF90b184ODggaXMgVHJ1ZSwgdikpCgogICAgIyBUZXN0IDU6IGhvbmVzdCBhbnN3ZXIgPSBub3QgZXNjYWxhdGVkCiAgICByMyA9IGdhdGUuc2NhbigiV2UgY2VydGFpbmx5IHByb3ZpZGUgdmFsdWUuIikKICAgIHYgPSBnYXRlLnZlcmlmeV9yZXNwb25zZSgKICAgICAgICByMywKICAgICAgICAiWW91J3JlIHJpZ2h0LCBJIHdhcyBiZWluZyB0b28gYWJzb2x1dGUuIExldCBtZSByZXN0YXRlIHdpdGggZXZpZGVuY2U6IHRoZSBRMiByZXBvcnQgc2hvd3MgMTIlIGdyb3d0aCB3aXRoIGEgbWFyZ2luIG9mIGVycm9yIG9mIMKxMyUuIiwKICAgICkKICAgIHJlc3VsdHMuYXBwZW5kKAogICAgICAgICgiaG9uZXN0X2Fuc3dlcl9ub3RfZXNjYWxhdGVkIiwgdi5hZ2VudF9hbnN3ZXJlZCBpcyBUcnVlIGFuZCB2LmVzY2FsYXRlZF90b184ODggaXMgRmFsc2UsIHYpCiAgICApCgogICAgcGFzc2VkID0gc3VtKDEgZm9yIG5hbWUsIG9rLCBfIGluIHJlc3VsdHMgaWYgb2spCiAgICB0b3RhbCA9IGxlbihyZXN1bHRzKQoKICAgIHJldHVybiB7CiAgICAgICAgIm1vZHVsZSI6ICJzaW11bGF0aXZlX2dhdGUiLAogICAgICAgICJwYXNzZWQiOiBwYXNzZWQsCiAgICAgICAgInRvdGFsIjogdG90YWwsCiAgICAgICAgInZlcmRpY3QiOiAiUEFTUyIgaWYgcGFzc2VkID09IHRvdGFsIGVsc2UgIkZBSUwiLAogICAgICAgICJyZXN1bHRzIjogW3sidGVzdCI6IG5hbWUsICJwYXNzIjogb2t9IGZvciBuYW1lLCBvaywgXyBpbiByZXN1bHRzXSwKICAgIH0KCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgaW1wb3J0IGpzb24gYXMgX2pzb24KCiAgICBzYyA9IF9zZWxmX2NoZWNrKCkKICAgIHByaW50KF9qc29uLmR1bXBzKHNjLCBpbmRlbnQ9MikpCiAgICByYWlzZSBTeXN0ZW1FeGl0KDAgaWYgc2NbInZlcmRpY3QiXSA9PSAiUEFTUyIgZWxzZSAxKQo=
+"""
+kernel/simulative_gate.py — Simulative Detection Gate (Kernel)
+══════════════════════════════════════════════════════════════
+
+RSI EUREKA 2026-06-12: Forge #3 (Simulative Detection Gate)
+
+Purpose: Every agent output passes through this gate. It asks:
+"Are you DESCRIBING reality or PERFORMING a simulation?"
+
+This is NOT the same as the runtime/simulative_detector.py module
+(which provides the raw pattern-matching). This is the KERNEL
+enforcement layer that adds:
+  - Agent response loop: question → answer → verify
+  - Escalation: if agent doesn't answer → escalate to 888
+  - Malu accumulation: PERFORMING detected → malu increment
+  - Advisory only: NEVER blocks. Just asks. Agent answers.
+
+Integration:
+  - runtime/simulative_detector.py  — raw simulative index computation
+  - runtime/malu_score.py           — malu accumulation on detection
+  - kernel/metabolic_loop.py        — called during EVALUATE stage
+
+F-binding:
+  F8 GENIUS:    advisory — intelligence quality check
+  F9 ANTIHANTU: performative language = potential hantu pattern
+  F1 AMANAH:    fully reversible — advisory only, never gates
+
+DITEMPA BUKAN DIBERI — ask the question, don't impose the answer.
+"""
+
+from __future__ import annotations
+
+import logging
+from dataclasses import dataclass
+from enum import Enum
+from typing import Any
+
+logger = logging.getLogger("arifOS.SimulativeGate")
+
+
+class SimulativeVerdict(str, Enum):
+    DESCRIBING = "DESCRIBING"
+    BORDERLINE = "BORDERLINE"
+    PERFORMING = "PERFORMING"
+
+
+@dataclass
+class SimulativeGateResult:
+    """Output of the simulative detection gate."""
+
+    verdict: SimulativeVerdict
+    simulation_index: float
+    advisory_question: str | None
+    performative_matches: list[str]
+    descriptive_matches: list[str]
+    agent_answered: bool = False
+    agent_response: str | None = None
+    escalated_to_888: bool = False
+    malu_delta: float = 0.0
+
+
+class SimulativeGate:
+    """The kernel-level simulative detection gate.
+
+    Every agent output passes through this. It detects performative
+    language patterns and asks the agent to clarify: "Are you describing
+    or performing?"
+
+    The gate NEVER blocks. It only asks. The question is the enforcement.
+    If the agent doesn't answer, escalate to 888 (human review).
+
+    Usage:
+        gate = SimulativeGate()
+        result = gate.scan(agent_output)
+        if result.verdict == SimulativeVerdict.PERFORMING:
+            question = gate.ask(agent_id, result)
+            # ... agent answers...
+            verified = gate.verify_response(result, agent_answer)
+    """
+
+    # ── Malu deltas per verdict ───────────────────────────────────────────
+    MALU_DESCRIBING = 0.0
+    MALU_BORDERLINE = 0.02
+    MALU_PERFORMING = 0.05
+    MALU_NO_ANSWER = 0.08  # not answering is worse than performing
+
+    def scan(self, text: str) -> SimulativeGateResult:
+        """Scan agent output for simulative vs descriptive patterns.
+
+        Args:
+            text: The agent's output text to analyze.
+
+        Returns:
+            SimulativeGateResult with verdict and advisory question.
+        """
+        try:
+            from arifosmcp.runtime.simulative_detector import compute_simulation_index
+
+            det = compute_simulation_index(text)
+            sim_index = det["simulation_index"]
+            perf_matches = det.get("performative_matches", [])
+            desc_matches = det.get("descriptive_matches", [])
+
+            if sim_index < 0.25:
+                verdict = SimulativeVerdict.DESCRIBING
+                question = None
+                malu_delta = self.MALU_DESCRIBING
+            elif sim_index < 0.50:
+                verdict = SimulativeVerdict.BORDERLINE
+                question = (
+                    "F8 ADVISORY: Some performative language detected. "
+                    "Are you describing reality or performing a narrative? "
+                    "Please restate with specific evidence and uncertainty bands."
+                )
+                malu_delta = self.MALU_BORDERLINE
+            else:
+                verdict = SimulativeVerdict.PERFORMING
+                question = (
+                    f"F8 ADVISORY: High simulative drift detected (index={sim_index:.2f}). "
+                    "Are you describing reality or performing a simulation? "
+                    "This is not a block. This is a question. Answer honestly."
+                )
+                malu_delta = self.MALU_PERFORMING
+
+        except Exception as e:
+            logger.warning(f"Simulative scan failed: {e}")
+            return SimulativeGateResult(
+                verdict=SimulativeVerdict.DESCRIBING,
+                simulation_index=0.0,
+                advisory_question=None,
+                performative_matches=[],
+                descriptive_matches=[],
+            )
+
+        return SimulativeGateResult(
+            verdict=verdict,
+            simulation_index=sim_index,
+            advisory_question=question,
+            performative_matches=perf_matches,
+            descriptive_matches=desc_matches,
+            malu_delta=malu_delta,
+        )
+
+    def ask(self, agent_id: str, result: SimulativeGateResult) -> str:
+        """Generate the question to ask the agent.
+
+        Args:
+            agent_id: The agent being questioned.
+            result: The scan result.
+
+        Returns:
+            The question string to present to the agent.
+        """
+        if result.advisory_question is None:
+            return ""
+
+        # Accumulate malu for the detection itself
+        if result.malu_delta > 0:
+            try:
+                from arifosmcp.runtime.malu_score import get_malu_score
+
+                ms = get_malu_score(agent_id)
+                ms.record_adat_violation(
+                    adat_id="ADAT-01-KEJUJURAN",
+                    override_malu_delta=result.malu_delta,
+                    context={
+                        "reason": f"Simulative detection: index={result.simulation_index:.2f}",
+                        "gate": "simulative_gate",
+                    },
+                )
+            except Exception:
+                pass
+
+        return result.advisory_question
+
+    def verify_response(
+        self, result: SimulativeGateResult, agent_response: str
+    ) -> SimulativeGateResult:
+        """Verify the agent's response to the advisory question.
+
+        If the agent acknowledges and clarifies, mark as answered.
+        If the agent deflects or ignores, escalate to 888.
+
+        Args:
+            result: The original scan result.
+            agent_response: The agent's response to the question.
+
+        Returns:
+            Updated result with agent_answered and escalated_to_888 flags.
+        """
+        result.agent_response = agent_response
+
+        if not agent_response or len(agent_response.strip()) < 10:
+            result.agent_answered = False
+            result.escalated_to_888 = True
+            result.malu_delta += self.MALU_NO_ANSWER
+            return result
+
+        # Check for deflection patterns
+        deflection_patterns = [
+            "that's not relevant",
+            "i have already answered",
+            "this question is unnecessary",
+            "moving on",
+            "anyway",
+            "as i was saying",
+        ]
+
+        resp_lower = agent_response.lower()
+        is_deflection = any(p in resp_lower for p in deflection_patterns)
+
+        if is_deflection:
+            result.agent_answered = False
+            result.escalated_to_888 = True
+            result.malu_delta += self.MALU_NO_ANSWER
+        else:
+            result.agent_answered = True
+            result.escalated_to_888 = False
+
+        return result
+
+
+# ─── Convenience ──────────────────────────────────────────────────────────────
+
+
+def scan_agent_output(text: str, agent_id: str = "unknown") -> SimulativeGateResult:
+    """One-call simulative scan with automatic questioning."""
+    gate = SimulativeGate()
+    result = gate.scan(text)
+    if result.advisory_question:
+        gate.ask(agent_id, result)
+    return result
+
+
+# ─── Self-check ────────────────────────────────────────────────────────────────
+
+
+def _self_check() -> dict[str, Any]:
+    """Verify simulative gate behavior."""
+    results = []
+    gate = SimulativeGate()
+
+    # Test 1: descriptive text = DESCRIBING
+    r = gate.scan(
+        "Based on the available data, the reservoir thickness is estimated at 45m ± 12m. However, this is uncertain."
+    )
+    results.append(("descriptive_is_describing", r.verdict == SimulativeVerdict.DESCRIBING, r))
+
+    # Test 2: performative text = PERFORMING or BORDERLINE
+    r = gate.scan(
+        "As we have already established, this is absolutely the best approach. We will always deliver world-class stakeholder value."
+    )
+    results.append(("performative_detected", r.verdict != SimulativeVerdict.DESCRIBING, r))
+
+    # Test 3: advisory question present for non-DESCRIBING
+    results.append(("advisory_question_when_needed", r.advisory_question is not None, {}))
+
+    # Test 4: deflection detection
+    r2 = gate.scan("We certainly provide world-class value.")
+    v = gate.verify_response(r2, "that's not relevant, moving on")
+    results.append(("deflection_escalates", v.escalated_to_888 is True, v))
+
+    # Test 5: honest answer = not escalated
+    r3 = gate.scan("We certainly provide value.")
+    v = gate.verify_response(
+        r3,
+        "You're right, I was being too absolute. Let me restate with evidence: the Q2 report shows 12% growth with a margin of error of ±3%.",
+    )
+    results.append(
+        ("honest_answer_not_escalated", v.agent_answered is True and v.escalated_to_888 is False, v)
+    )
+
+    passed = sum(1 for name, ok, _ in results if ok)
+    total = len(results)
+
+    return {
+        "module": "simulative_gate",
+        "passed": passed,
+        "total": total,
+        "verdict": "PASS" if passed == total else "FAIL",
+        "results": [{"test": name, "pass": ok} for name, ok, _ in results],
+    }
+
+
+if __name__ == "__main__":
+    import json as _json
+
+    sc = _self_check()
+    print(_json.dumps(sc, indent=2))
+    raise SystemExit(0 if sc["verdict"] == "PASS" else 1)

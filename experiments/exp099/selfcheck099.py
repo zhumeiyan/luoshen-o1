@@ -1,1 +1,49 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24KIiIi5YGa5a6M6Ieq5bex55yL77ya5oqKIDA5OSDnmoTlhbPplK7mlbDlrZfmuLLmn5PkuIrlsY8gLT4g5LuO5bin57yT5Yay55yf5a6e6YeH6ZuGIC0+IE9DUiDor7vlm54iIiIKaW1wb3J0IG9zLCBzdWJwcm9jZXNzLCByYW5kb20sIGhhc2hsaWIsIHRpbWUKaW1wb3J0IG51bXB5IGFzIG5wLCBjdjIKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udApPVVQ9b3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCkZCPScvZGV2L2ZiMCc7IFcsSD0xMDI0LDc2OApGT05UPScvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjJwppZiBub3Qgb3MucGF0aC5leGlzdHMoRk9OVCk6IEZPTlQ9Jy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvZGVqYXZ1L0RlamFWdVNhbnMtQm9sZC50dGYnCgpyb3dzPVsoIlRBQ1Qg5Y6f5paHIOS4iei9tOWPrOWbniIsIkwgNzcuOCAgTSA5NS41ICBQIDg1LjciKSwKICAgICAgKCLooajpnaLmibDliqgg5Z2Q5qCH5pS55Y+YIiwiMCAvIDI5ICDpgJDkvY3kuI3lj5giKSwKICAgICAgKCLmjaIx6K+NIOWdkOagh+aUueWPmCIsIjYgLyAyMCAgPSAzMCUiKSwKICAgICAgKCLmjaIz6K+NIOWdkOagh+aUueWPmCIsIjEwIC8gMjAgPSA1MCUiKSwKICAgICAgKCLmjaLlhajpg6gg5Z2Q5qCH5pS55Y+YIiwiMTEgLyAyMCA9IDU1JSIpLAogICAgICAoIkzovbQgNzcuOC0+NTAuMCIsIi0yNy44IHB0ICDmnIDohIblvLEiKSwKICAgICAgKCJN6L20IDk1LjUtPjg4LjIiLCItNy4zIHB0ICDmnIDnqLMiKSwKICAgICAgKCLlj6/or7vmgKcgMC44Ni0+MC42OCIsIs6UPS0wLjAwNTYgQ0not6gwIOaXoOaViOW6lCIpLAogICAgICAoIuaXoOaEn+WumC0+5pyJ5oSf5a6YIiwizpQ9KzIuNTY1IENJWzIuMTgsMi45Nl0iKV0KY29kZT0nJy5qb2luKHJhbmRvbS5jaG9pY2UoJzAxMjM0NTY3ODlBQkNERUYnKSBmb3IgXyBpbiByYW5nZSg2KSkKdHJ1dGg9eydjb2RlJzpjb2RlfQppbWc9SW1hZ2UubmV3KCdSR0InLChXLEgpLCgyNTUsMjU1LDI1NSkpOyBkPUltYWdlRHJhdy5EcmF3KGltZykKZjE9SW1hZ2VGb250LnRydWV0eXBlKEZPTlQsMzApOyBmMj1JbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwyNikKZC50ZXh0KCg0MCwyNSksIjA5OSBUQUNUIOi3kei1t+adpeS5i+WQjiAtLSDliKTlrprkvp3otZblrZfpnaLov5jmmK/or63kuYkiLGZvbnQ9ZjEsZmlsbD0oMCwwLDApKQp5PTkwCmZvciBhLGIgaW4gcm93czoKICAgIGQudGV4dCgoNTAseSksYSxmb250PWYyLGZpbGw9KDIwLDIwLDEyMCkpOyBkLnRleHQoKDU0MCx5KSxiLGZvbnQ9ZjIsZmlsbD0oMTYwLDIwLDIwKSk7IHkrPTUyCmQudGV4dCgoNTAseSsxNSksZiJSQU5ET00gQ0hFQ0sgPSB7Y29kZX0iLGZvbnQ9SW1hZ2VGb250LnRydWV0eXBlKEZPTlQsMzQpLGZpbGw9KDAsMTEwLDApKQppbWcuc2F2ZShvcy5wYXRoLmpvaW4oT1VULCdyZW5kZXJlZDA5OS5wbmcnKSkKCiMg5YaZ5bin57yT5Yay77yIMzJicHAgQkdSQe+8iQphcnI9bnAuYXJyYXkoaW1nLmNvbnZlcnQoJ1JHQicpKQpjYW52YXM9bnAuemVyb3MoKEgsVyw0KSxucC51aW50OCkKY2FudmFzWzpILDpXLDBdPWFycls6LDosMl07IGNhbnZhc1s6SCw6VywxXT1hcnJbOiw6LDFdOyBjYW52YXNbOkgsOlcsMl09YXJyWzosOiwwXTsgY2FudmFzWzpILDpXLDNdPTI1NQp3aXRoIG9wZW4oRkIsJ3diJykgYXMgZjogZi53cml0ZShjYW52YXMudG9ieXRlcygpKQp0aW1lLnNsZWVwKDAuNCkKIyDnnJ/lrp7ph4fpm4YKd2l0aCBvcGVuKEZCLCdyYicpIGFzIGY6IHJhdz1mLnJlYWQoVypIKjQpCmNhcD1ucC5mcm9tYnVmZmVyKHJhdyxucC51aW50OCkucmVzaGFwZShILFcsNClbOiw6LFsyLDEsMF1dCkltYWdlLmZyb21hcnJheShjYXApLnNhdmUob3MucGF0aC5qb2luKE9VVCwnY2FwdHVyZWQwOTkucG5nJykpCnR4dD1zdWJwcm9jZXNzLnJ1bihbJ3Rlc3NlcmFjdCcsb3MucGF0aC5qb2luKE9VVCwnY2FwdHVyZWQwOTkucG5nJyksJ3N0ZG91dCcsJy0tcHNtJywnNicsJy1sJywnZW5nJ10sCiAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSkuc3Rkb3V0CmhpdCA9IGNvZGUgaW4gdHh0LnJlcGxhY2UoJyAnLCcnKQpudW1zPVt0IGZvciB0IGluIFsnNzcuOCcsJzk1LjUnLCc4NS43JywnMzAlJywnNTAlJywnNTUlJywnMi41NjUnXSBpZiB0IGluIHR4dC5yZXBsYWNlKCcgJywnJyldCnByaW50KCLmoKHpqoznoIE6Iixjb2RlLCJ8IOmHh+mbhuWbnuivu+WRveS4rToiLGhpdCkKcHJpbnQoIuaVsOWtl+WRveS4rToiLG51bXMsZiIoe2xlbihudW1zKX0vNykiKQpwcmludCgiLS0tT0NS6IqC6YCJLS0tIik7IHByaW50KCdcbicuam9pbihbbCBmb3IgbCBpbiB0eHQuc3BsaXRsaW5lcygpIGlmIGwuc3RyaXAoKV1bOjEyXSkpCmpzb24uZHVtcCh7J2NvZGUnOmNvZGUsJ2NvZGVfaGl0Jzpib29sKGhpdCksJ251bXMnOm51bXN9LG9wZW4ob3MucGF0aC5qb2luKE9VVCwnc2VsZmNoZWNrMDk5Lmpzb24nKSwndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+# -*- coding: utf-8 -*-
+import json
+"""做完自己看：把 099 的关键数字渲染上屏 -> 从帧缓冲真实采集 -> OCR 读回"""
+import os, subprocess, random, hashlib, time
+import numpy as np, cv2
+from PIL import Image, ImageDraw, ImageFont
+OUT=os.path.dirname(os.path.abspath(__file__))
+FB='/dev/fb0'; W,H=1024,768
+FONT='/usr/share/fonts/truetype/wqy/wqy-microhei.ttc'
+if not os.path.exists(FONT): FONT='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+
+rows=[("TACT 原文 三轴召回","L 77.8  M 95.5  P 85.7"),
+      ("表面扰动 坐标改变","0 / 29  逐位不变"),
+      ("换1词 坐标改变","6 / 20  = 30%"),
+      ("换3词 坐标改变","10 / 20 = 50%"),
+      ("换全部 坐标改变","11 / 20 = 55%"),
+      ("L轴 77.8->50.0","-27.8 pt  最脆弱"),
+      ("M轴 95.5->88.2","-7.3 pt  最稳"),
+      ("可读性 0.86->0.68","Δ=-0.0056 CI跨0 无效应"),
+      ("无感官->有感官","Δ=+2.565 CI[2.18,2.96]")]
+code=''.join(random.choice('0123456789ABCDEF') for _ in range(6))
+truth={'code':code}
+img=Image.new('RGB',(W,H),(255,255,255)); d=ImageDraw.Draw(img)
+f1=ImageFont.truetype(FONT,30); f2=ImageFont.truetype(FONT,26)
+d.text((40,25),"099 TACT 跑起来之后 -- 判定依赖字面还是语义",font=f1,fill=(0,0,0))
+y=90
+for a,b in rows:
+    d.text((50,y),a,font=f2,fill=(20,20,120)); d.text((540,y),b,font=f2,fill=(160,20,20)); y+=52
+d.text((50,y+15),f"RANDOM CHECK = {code}",font=ImageFont.truetype(FONT,34),fill=(0,110,0))
+img.save(os.path.join(OUT,'rendered099.png'))
+
+# 写帧缓冲（32bpp BGRA）
+arr=np.array(img.convert('RGB'))
+canvas=np.zeros((H,W,4),np.uint8)
+canvas[:H,:W,0]=arr[:,:,2]; canvas[:H,:W,1]=arr[:,:,1]; canvas[:H,:W,2]=arr[:,:,0]; canvas[:H,:W,3]=255
+with open(FB,'wb') as f: f.write(canvas.tobytes())
+time.sleep(0.4)
+# 真实采集
+with open(FB,'rb') as f: raw=f.read(W*H*4)
+cap=np.frombuffer(raw,np.uint8).reshape(H,W,4)[:,:,[2,1,0]]
+Image.fromarray(cap).save(os.path.join(OUT,'captured099.png'))
+txt=subprocess.run(['tesseract',os.path.join(OUT,'captured099.png'),'stdout','--psm','6','-l','eng'],
+                   capture_output=True,text=True).stdout
+hit = code in txt.replace(' ','')
+nums=[t for t in ['77.8','95.5','85.7','30%','50%','55%','2.565'] if t in txt.replace(' ','')]
+print("校验码:",code,"| 采集回读命中:",hit)
+print("数字命中:",nums,f"({len(nums)}/7)")
+print("---OCR节选---"); print('\n'.join([l for l in txt.splitlines() if l.strip()][:12]))
+json.dump({'code':code,'code_hit':bool(hit),'nums':nums},open(os.path.join(OUT,'selfcheck099.json'),'w'),ensure_ascii=False,indent=1)

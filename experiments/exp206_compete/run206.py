@@ -1,1 +1,315 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMjA2OiDnq57kuonjgIHniannp43lpJrmoLfmgKfkuI7ljq7mnYAKQTog5aSN5Yi25a2Q5Yqo5Yqb5a2mIOKAlOKAlCDkuI3lkIzorrDlv4bpmLbmlbAgayDkuonlpLrlkIzkuIDku73otYTmupDvvIzmmK/ljZXkuIDnp43nvqTov5jmmK/lhbHlrZjvvJ8KQjog5L+d6Zmp5YGH6K+0IOKAlOKAlCDnjq/looPmvILnp7vkuIvvvIzljZXkuIDmnIDkvJggdnMg5aSa5qC35oCn57uE5ZCI77yM6LCB5rS777yfCkM6IOWIhumFjeinhOWImSDigJTigJQg5oyJIue7neWvueihqOeOsCLliIbphY0gdnMg5oyJIui+uemZhei0oeeMrijnlZnkuIDms5UpIuWIhumFje+8jOiwgeS/neS9j+Wkmuagt+aAp+OAgeiwgeiuqeezu+e7n+abtOW8uu+8nwpEOiDmiJHnmoTnrZbnlaXvvIjov73oh6rlt7HmnIDmhI/lpJbnmoQ9MTkyLzE5OCDmiYDnp7Ai556O6LSq5amqIu+8ieWcqOernuS6ieS4reS8muS4jeS8muesrOS4gOS4queBree7ne+8nwoK5L+u5aSN6K6w5b2V77yI56ys5LiA6L2u6LeR5Ye65p2l55qE5LiJ5LiqIGJ1Z++8jOWPkeW4g+WJjeW/hemhu+S/ru+8ie+8mgogIEIxIOepuuaooeWeiyB2b2NhYiDkuLrnqbog4oaSIOW5s+a7kSBwcm9iPTEuMCDihpIgYml0cz0wLjAg5Lyq6KOF5oiQ5a6M576O44CC5pS555So5YWo5bGA5a2X56ym6KGo44CCCiAgQjIgYm9vdHN0cmFwIOWwj+agt+acrOmAkOWtl+maj+acuumHh+agtyDihpIg5paH5pys6KKr5omT5Lmx77yM6LWE5rqQ5aSa5a+h5Y+Y5oiQIue7k+aehOegtOWdj+eoi+W6piLjgILmlLnkuLrov57nu63niYfmrrXph4fmoLfjgIIKICBCMyBtYXJnaW5hbCDnmoQgZml0IOespuWPt+WGmeWPje+8m0Qg5q+P6L2u55So56m65qih5Z6L5omT5YiG5a+86Ie0IHN1cnByaXNlL3Byb2dyZXNzIOmAgOWMluaIkOWQjOS4gOetlueVpeOAggoiIiIKaW1wb3J0IGpzb24sIG9zLCBtYXRoLCByYW5kb20KZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKCkJBU0UgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiCkNPUlBVUyA9IGYie0JBU0V9L2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0IgpPVVQgPSBmIntCQVNFfS9leHBlcmltZW50cy9leHAyMDZfY29tcGV0ZSIKb3MubWFrZWRpcnMoT1VULCBleGlzdF9vaz1UcnVlKQoKU0VFRCA9IDIwMjYxMDE5CnJhbmRvbS5zZWVkKFNFRUQpCgpsaW5lcyA9IFtsLnN0cmlwKCkgZm9yIGwgaW4gb3BlbihDT1JQVVMsIGVuY29kaW5nPSJ1dGYtOCIpIGlmIGwuc3RyaXAoKV0Kbl90ZXN0ID0gbWF4KDQsIGludChsZW4obGluZXMpICogMC4yKSkKdHJhaW5fbGluZXMsIHRlc3RfbGluZXMgPSBsaW5lc1s6LW5fdGVzdF0sIGxpbmVzWy1uX3Rlc3Q6XQpwb29sID0gIlxuIi5qb2luKHRyYWluX2xpbmVzKQp0ZXN0ID0gIlxuIi5qb2luKHRlc3RfbGluZXMpCkdWT0NBQiA9IHNldChwb29sKSB8IHNldCh0ZXN0KSAgICAgICAgICAjIEIxOiDlhajlsYDlrZfnrKbooagKcHJpbnQoZiJbY29ycHVzXSBsaW5lcz17bGVuKGxpbmVzKX0gdHJhaW5fY2hhcnM9e2xlbihwb29sKX0gdGVzdF9jaGFycz17bGVuKHRlc3QpfSB2b2NhYj17bGVuKEdWT0NBQil9IikKCgpjbGFzcyBOR3JhbToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBrLCBhbHBoYT0wLjA1LCBndm9jYWI9Tm9uZSk6CiAgICAgICAgc2VsZi5rLCBzZWxmLmFscGhhID0gaywgYWxwaGEKICAgICAgICBzZWxmLmd2ID0gZ3ZvY2FiIG9yIHNldCgpCiAgICAgICAgc2VsZi5jID0gZGVmYXVsdGRpY3QobGFtYmRhOiBkZWZhdWx0ZGljdChmbG9hdCkpCiAgICAgICAgc2VsZi50ID0gZGVmYXVsdGRpY3QoZmxvYXQpCiAgICAgICAgc2VsZi52b2NhYiA9IHNldCgpCgogICAgZGVmIHRyYWluKHNlbGYsIHRleHQpOgogICAgICAgIGsgPSBzZWxmLmsKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4odGV4dCkgLSBrKToKICAgICAgICAgICAgY3R4LCBjaCA9IHRleHRbaTppICsga10sIHRleHRbaSArIGtdCiAgICAgICAgICAgIHNlbGYuY1tjdHhdW2NoXSArPSAxLjAKICAgICAgICAgICAgc2VsZi50W2N0eF0gKz0gMS4wCiAgICAgICAgICAgIHNlbGYudm9jYWIuYWRkKGNoKQoKICAgIGRlZiBwcm9iKHNlbGYsIGN0eCwgY2gpOgogICAgICAgIFYgPSBtYXgobGVuKHNlbGYudm9jYWIgfCBzZWxmLmd2KSwgMSkgICAgICMgQjEKICAgICAgICBjID0gc2VsZi5jLmdldChjdHgpCiAgICAgICAgdCA9IHNlbGYudC5nZXQoY3R4LCAwLjApCiAgICAgICAgZ290ID0gYy5nZXQoY2gsIDAuMCkgaWYgYyBlbHNlIDAuMAogICAgICAgIHJldHVybiAoZ290ICsgc2VsZi5hbHBoYSkgLyAodCArIHNlbGYuYWxwaGEgKiBWKQoKICAgIGRlZiBiaXRzKHNlbGYsIHRleHQpOgogICAgICAgIGsgPSBzZWxmLmsKICAgICAgICBpZiBsZW4odGV4dCkgPD0gazoKICAgICAgICAgICAgcmV0dXJuIG1hdGgubG9nMihtYXgobGVuKHNlbGYudm9jYWIgfCBzZWxmLmd2KSwgMikpCiAgICAgICAgdG90LCBuID0gMC4wLCAwCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRleHQpIC0gayk6CiAgICAgICAgICAgIHRvdCArPSAtbWF0aC5sb2cyKHNlbGYucHJvYih0ZXh0W2k6aSArIGtdLCB0ZXh0W2kgKyBrXSkpCiAgICAgICAgICAgIG4gKz0gMQogICAgICAgIHJldHVybiB0b3QgLyBtYXgobiwgMSkKCgpkZWYgYWxpZ25lZF9iaXRzKG1vZGVscywgdGV4dCk6CiAgICAiIiLlnKjlkIzkuIDnu4Tnm67moIflrZfnrKbkuIror4TkvLDmr4/kuKrmqKHlnovvvIjkuI3lkIwgayDmiY3lj6/lhazlubPmr5TovoPvvIkiIiIKICAgIGlmIG5vdCBtb2RlbHM6CiAgICAgICAgcmV0dXJuIHt9CiAgICBrbWF4ID0gbWF4KG0uayBmb3IgbSBpbiBtb2RlbHMpCiAgICByZXMgPSB7fQogICAgZm9yIG0gaW4gbW9kZWxzOgogICAgICAgIHRvdCwgbiA9IDAuMCwgMAogICAgICAgIGZvciB0IGluIHJhbmdlKGttYXgsIGxlbih0ZXh0KSk6CiAgICAgICAgICAgIHRvdCArPSAtbWF0aC5sb2cyKG1heChtLnByb2IodGV4dFt0IC0gbS5rOnRdLCB0ZXh0W3RdKSwgMWUtMTIpKQogICAgICAgICAgICBuICs9IDEKICAgICAgICByZXNbaWQobSldID0gKHRvdCAvIG4pIGlmIG4gZWxzZSBtYXRoLmxvZzIobWF4KGxlbihtLnZvY2FiIHwgbS5ndiksIDIpKQogICAgcmV0dXJuIHJlcwoKCmRlZiBlbnNfYml0cyhtb2RlbHMsIHRleHQpOgogICAgIiIi5LiN5ZCM6Zi26ZuG5oiQ77ya5omA5pyJ5qih5Z6L6aKE5rWL5ZCM5LiA55uu5qCH5a2X56ym77yM5ZCE6Ieq55So6Ieq5bex6ZW/5bqm55qE5LiK5LiL5paHIiIiCiAgICBpZiBub3QgbW9kZWxzOgogICAgICAgIHJldHVybiBOb25lCiAgICBrbWF4ID0gbWF4KG0uayBmb3IgbSBpbiBtb2RlbHMpCiAgICBpZiBsZW4odGV4dCkgPD0ga21heDoKICAgICAgICByZXR1cm4gTm9uZQogICAgdyA9IDEuMCAvIGxlbihtb2RlbHMpCiAgICB0b3QsIG4gPSAwLjAsIDAKICAgIGZvciB0IGluIHJhbmdlKGttYXgsIGxlbih0ZXh0KSk6CiAgICAgICAgcCA9IHN1bSh3ICogbS5wcm9iKHRleHRbdCAtIG0uazp0XSwgdGV4dFt0XSkgZm9yIG0gaW4gbW9kZWxzKQogICAgICAgIHRvdCArPSAtbWF0aC5sb2cyKG1heChwLCAxZS0xMikpCiAgICAgICAgbiArPSAxCiAgICByZXR1cm4gdG90IC8gbgoKCmRlZiBzYW1wbGVfdGV4dChzcmMsIG5fdG9rLCBybmcsIHNlZz02MCk6CiAgICAiIiJCMjog6L+e57ut54mH5q616YeH5qC377yM5L+d5oyB5bqP5YiX57uT5p6E44CC6LWE5rqQ5aSaID0g6KeB5Yiw5pu05aSa6L+e57ut57uP6aqM44CCIiIiCiAgICBpZiBuX3RvayA8PSAwIG9yIG5vdCBzcmM6CiAgICAgICAgcmV0dXJuICIiCiAgICBpZiBsZW4oc3JjKSA8PSBzZWc6CiAgICAgICAgcmVwcyA9IGludChuX3RvayAvLyBsZW4oc3JjKSkgKyAxCiAgICAgICAgcmV0dXJuIChzcmMgKiByZXBzKVs6bl90b2tdCiAgICBvdXQsIGdvdCA9IFtdLCAwCiAgICB3aGlsZSBnb3QgPCBuX3RvazoKICAgICAgICBpID0gcm5nLnJhbmRyYW5nZSgwLCBsZW4oc3JjKSAtIHNlZykKICAgICAgICBvdXQuYXBwZW5kKHNyY1tpOmkgKyBzZWddKQogICAgICAgIGdvdCArPSBzZWcKICAgIHJldHVybiAiIi5qb2luKG91dClbOm5fdG9rXQoKCmRlZiBlbnRyb3B5KHNoYXJlcyk6CiAgICBzID0gW3ggZm9yIHggaW4gc2hhcmVzIGlmIHggPiAxZS0xMl0KICAgIHRvdCA9IHN1bShzKQogICAgaWYgdG90IDw9IDA6CiAgICAgICAgcmV0dXJuIDAuMAogICAgcCA9IFt4IC8gdG90IGZvciB4IGluIHNdCiAgICByZXR1cm4gLXN1bSh4ICogbWF0aC5sb2coeCkgZm9yIHggaW4gcCkKCgpkZWYgc3RlcChzaGFyZXMsIGZpdCwgYmV0YSk6CiAgICBrcyA9IGxpc3Qoc2hhcmVzLmtleXMoKSkKICAgIHZhbHMgPSBbZml0W2tdIGZvciBrIGluIGtzXQogICAgbXUgPSBzdW0odmFscykgLyBsZW4odmFscykKICAgIHNkID0gKHN1bSgodiAtIG11KSAqKiAyIGZvciB2IGluIHZhbHMpIC8gbGVuKHZhbHMpKSAqKiAwLjUKICAgIGlmIHNkIDwgMWUtMTI6CiAgICAgICAgcmV0dXJuIHtrOiBzaGFyZXNba10gZm9yIGsgaW4ga3N9CiAgICBuZXcgPSB7azogc2hhcmVzW2tdICogbWF0aC5leHAoYmV0YSAqIChmaXRba10gLSBtdSkgLyBzZCkgZm9yIGsgaW4ga3N9CiAgICB0b3QgPSBzdW0obmV3LnZhbHVlcygpKQogICAgcmV0dXJuIHtrOiBuZXdba10gLyB0b3QgZm9yIGsgaW4ga3N9CgoKIyAtLS0tLS0tLS0tLS0tLS0tIEE6IOWkjeWItuWtkOWKqOWKm+WtpiAtLS0tLS0tLS0tLS0tLS0tCmRlZiBwYXJ0QShrcz0oMSwgMiwgMywgNCwgNiwgOCksIEI9MjAwMDAsIHJvdW5kcz0xNCwgYmV0YT0zLjAsIHNlZWQ9U0VFRCk6CiAgICBybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICBzaGFyZXMgPSB7azogMS4wIC8gbGVuKGtzKSBmb3IgayBpbiBrc30KICAgIGhpc3QsIGVudHMgPSBbXSwgW10KICAgIGZvciByIGluIHJhbmdlKHJvdW5kcyk6CiAgICAgICAgbW9kZWxzID0ge30KICAgICAgICBmb3IgayBpbiBrczoKICAgICAgICAgICAgbSA9IE5HcmFtKGssIGd2b2NhYj1HVk9DQUIpCiAgICAgICAgICAgIG0udHJhaW4oc2FtcGxlX3RleHQocG9vbCwgaW50KHNoYXJlc1trXSAqIEIpLCBybmcpKQogICAgICAgICAgICBtb2RlbHNba10gPSBtCiAgICAgICAgYWIgPSBhbGlnbmVkX2JpdHMoW21vZGVsc1trXSBmb3IgayBpbiBrc10sIHRlc3QpCiAgICAgICAgZml0ID0ge2s6IC1hYltpZChtb2RlbHNba10pXSBmb3IgayBpbiBrc30KICAgICAgICBoaXN0LmFwcGVuZCh7c3RyKGspOiByb3VuZChzaGFyZXNba10sIDUpIGZvciBrIGluIGtzfSkKICAgICAgICBlbnRzLmFwcGVuZChyb3VuZChlbnRyb3B5KFtzaGFyZXNba10gZm9yIGsgaW4ga3NdKSwgNSkpCiAgICAgICAgc2hhcmVzID0gc3RlcChzaGFyZXMsIGZpdCwgYmV0YSkKICAgIGZtID0ge30KICAgIGZvciBrIGluIGtzOgogICAgICAgIG0gPSBOR3JhbShrLCBndm9jYWI9R1ZPQ0FCKQogICAgICAgIG0udHJhaW4oc2FtcGxlX3RleHQocG9vbCwgaW50KHNoYXJlc1trXSAqIEIpLCByYW5kb20uUmFuZG9tKHNlZWQgKyA5OTkpKSkKICAgICAgICBmbVtrXSA9IG0KICAgIGFiID0gYWxpZ25lZF9iaXRzKFtmbVtrXSBmb3IgayBpbiBrc10sIHRlc3QpCiAgICB3aW5uZXIgPSBtYXgoa3MsIGtleT1sYW1iZGEgazogc2hhcmVzW2tdKQogICAgcmV0dXJuIHsKICAgICAgICAia3MiOiBsaXN0KGtzKSwgInJvdW5kcyI6IHJvdW5kcywgIkIiOiBCLAogICAgICAgICJzaGFyZXNfaGlzdG9yeSI6IGhpc3QsICJlbnRyb3B5X2hpc3RvcnkiOiBlbnRzLAogICAgICAgICJmaW5hbF9zaGFyZXMiOiB7c3RyKGspOiByb3VuZChzaGFyZXNba10sIDUpIGZvciBrIGluIGtzfSwKICAgICAgICAiZmluYWxfYml0cyI6IHtzdHIoayk6IHJvdW5kKGFiW2lkKGZtW2tdKV0sIDUpIGZvciBrIGluIGtzfSwKICAgICAgICAid2lubmVyX2siOiB3aW5uZXIsICJ3aW5uZXJfc2hhcmUiOiByb3VuZChzaGFyZXNbd2lubmVyXSwgNSksCiAgICAgICAgImVudHJvcHlfc3RhcnQiOiBlbnRzWzBdLCAiZW50cm9weV9lbmQiOiBlbnRzWy0xXSwKICAgICAgICAiZXh0aW5jdCI6IHtzdHIoayk6IChzaGFyZXNba10gPCAwLjAxKSBmb3IgayBpbiBrc30sCiAgICB9CgoKIyAtLS0tLS0tLS0tLS0tLS0tIEI6IOS/nemZqeWBh+ivtCAtLS0tLS0tLS0tLS0tLS0tCmRlZiBwYXJ0Qihrcz0oMSwgMiwgMywgNCwgNiwgOCksIEI9MjAwMDAsIHNlZWQ9U0VFRCk6CiAgICBoYWxmID0gbWF4KDEsIGxlbih0cmFpbl9saW5lcykgLy8gMikKICAgIEFfcG9vbCA9ICJcbiIuam9pbih0cmFpbl9saW5lc1s6aGFsZl0pCiAgICBCX3Rlc3QgPSAiXG4iLmpvaW4odHJhaW5fbGluZXNbaGFsZjpdICsgdGVzdF9saW5lcykKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIG1vZGVscyA9IHt9CiAgICBmb3IgayBpbiBrczoKICAgICAgICBtID0gTkdyYW0oaywgZ3ZvY2FiPUdWT0NBQikKICAgICAgICBtLnRyYWluKHNhbXBsZV90ZXh0KEFfcG9vbCwgQiwgcm5nKSkKICAgICAgICBtb2RlbHNba10gPSBtCiAgICBhYl9vcmlnID0gYWxpZ25lZF9iaXRzKFttb2RlbHNba10gZm9yIGsgaW4ga3NdLCB0ZXN0KQogICAgbW9ub19rID0gbWluKGtzLCBrZXk9bGFtYmRhIGs6IGFiX29yaWdbaWQobW9kZWxzW2tdKV0pCiAgICBhYl9zaGlmdCA9IGFsaWduZWRfYml0cyhbbW9kZWxzW2tdIGZvciBrIGluIGtzXSwgQl90ZXN0KQogICAgbW9ub19zaGlmdCA9IGFiX3NoaWZ0W2lkKG1vZGVsc1ttb25vX2tdKV0KICAgIHBvcnRfc2hpZnQgPSBlbnNfYml0cyhbbW9kZWxzW2tdIGZvciBrIGluIGtzXSwgQl90ZXN0KQogICAgY29waWVzID0gW10KICAgIGZvciBpIGluIHJhbmdlKDMpOgogICAgICAgIG0gPSBOR3JhbShtb25vX2ssIGd2b2NhYj1HVk9DQUIpCiAgICAgICAgbS50cmFpbihzYW1wbGVfdGV4dChBX3Bvb2wsIEIsIHJhbmRvbS5SYW5kb20oc2VlZCArIGkpKSkKICAgICAgICBjb3BpZXMuYXBwZW5kKG0pCiAgICBwc2V1ZG9fc2hpZnQgPSBlbnNfYml0cyhjb3BpZXMsIEJfdGVzdCkKICAgIHJldHVybiB7CiAgICAgICAgInNoaWZ0X3Rlc3RfY2hhcnMiOiBsZW4oQl90ZXN0KSwKICAgICAgICAibW9ub19rIjogbW9ub19rLAogICAgICAgICJtb25vX2JpdHNfdW5kZXJfc2hpZnQiOiByb3VuZChtb25vX3NoaWZ0LCA1KSwKICAgICAgICAicG9ydGZvbGlvX2JpdHNfdW5kZXJfc2hpZnQiOiByb3VuZChwb3J0X3NoaWZ0LCA1KSwKICAgICAgICAicHNldWRvX2RpdmVyc2l0eV9iaXRzX3VuZGVyX3NoaWZ0Ijogcm91bmQocHNldWRvX3NoaWZ0LCA1KSwKICAgICAgICAiZGl2ZXJzaXR5X2dhaW4iOiByb3VuZChtb25vX3NoaWZ0IC0gcG9ydF9zaGlmdCwgNSksCiAgICAgICAgInBzZXVkb192c190cnVlIjogcm91bmQocHNldWRvX3NoaWZ0IC0gcG9ydF9zaGlmdCwgNSksCiAgICAgICAgIm5vdGUiOiAicHNldWRvPeS4ieS4quWQjOmYtuWJr+acrCjkvKrlpJrmoLfmgKcs5peg5beu5byCKTsgcG9ydGZvbGlvPeS4jeWQjOmYtuecn+Wkmuagt+aApyIsCiAgICB9CgoKIyAtLS0tLS0tLS0tLS0tLS0tIEM6IOWIhumFjeinhOWImSAtLS0tLS0tLS0tLS0tLS0tCmRlZiBwYXJ0Qyhrcz0oMSwgMiwgMywgNCwgNiwgOCksIEI9MjAwMDAsIHJvdW5kcz0xMCwgYmV0YT0zLjAsIHNlZWQ9U0VFRCk6CiAgICByZXMgPSB7fQogICAgZm9yIHJ1bGUgaW4gKCJhYnNvbHV0ZSIsICJtYXJnaW5hbCIpOgogICAgICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgICAgICBzaGFyZXMgPSB7azogMS4wIC8gbGVuKGtzKSBmb3IgayBpbiBrc30KICAgICAgICBlbnRzID0gW10KICAgICAgICBmb3IgciBpbiByYW5nZShyb3VuZHMpOgogICAgICAgICAgICBtb2RlbHMgPSB7fQogICAgICAgICAgICBmb3IgayBpbiBrczoKICAgICAgICAgICAgICAgIG0gPSBOR3JhbShrLCBndm9jYWI9R1ZPQ0FCKQogICAgICAgICAgICAgICAgbS50cmFpbihzYW1wbGVfdGV4dChwb29sLCBpbnQoc2hhcmVzW2tdICogQiksIHJuZykpCiAgICAgICAgICAgICAgICBtb2RlbHNba10gPSBtCiAgICAgICAgICAgIGVudHMuYXBwZW5kKHJvdW5kKGVudHJvcHkoW3NoYXJlc1trXSBmb3IgayBpbiBrc10pLCA1KSkKICAgICAgICAgICAgYWIgPSBhbGlnbmVkX2JpdHMoW21vZGVsc1trXSBmb3IgayBpbiBrc10sIHRlc3QpCiAgICAgICAgICAgIGlmIHJ1bGUgPT0gImFic29sdXRlIjoKICAgICAgICAgICAgICAgIGZpdCA9IHtrOiAtYWJbaWQobW9kZWxzW2tdKV0gZm9yIGsgaW4ga3N9CiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmdWxsID0gZW5zX2JpdHMoW21vZGVsc1trXSBmb3IgayBpbiBrc10sIHRlc3QpCiAgICAgICAgICAgICAgICBmaXQgPSB7fQogICAgICAgICAgICAgICAgZm9yIGsgaW4ga3M6CiAgICAgICAgICAgICAgICAgICAgc3ViID0gZW5zX2JpdHMoW21vZGVsc1tqXSBmb3IgaiBpbiBrcyBpZiBqICE9IGtdLCB0ZXN0KQogICAgICAgICAgICAgICAgICAgICMgQjM6IOaLv+aOieaIkeezu+e7n+WPmOW3ruWkmuWwkSA9IOaIkeeahOi+uemZhei0oeeMru+8iOi2iuWkp+i2iuWlve+8iQogICAgICAgICAgICAgICAgICAgIGZpdFtrXSA9IChzdWIgLSBmdWxsKSBpZiAoc3ViIGlzIG5vdCBOb25lIGFuZCBmdWxsIGlzIG5vdCBOb25lKSBlbHNlIDAuMAogICAgICAgICAgICBzaGFyZXMgPSBzdGVwKHNoYXJlcywgZml0LCBiZXRhKQogICAgICAgIGZtID0ge30KICAgICAgICBmb3IgayBpbiBrczoKICAgICAgICAgICAgbSA9IE5HcmFtKGssIGd2b2NhYj1HVk9DQUIpCiAgICAgICAgICAgIG0udHJhaW4oc2FtcGxlX3RleHQocG9vbCwgaW50KHNoYXJlc1trXSAqIEIpLCByYW5kb20uUmFuZG9tKHNlZWQgKyA3NykpKQogICAgICAgICAgICBmbVtrXSA9IG0KICAgICAgICBzeXNfYml0cyA9IGVuc19iaXRzKFtmbVtrXSBmb3IgayBpbiBrc10sIHRlc3QpCiAgICAgICAgYWJfZiA9IGFsaWduZWRfYml0cyhbZm1ba10gZm9yIGsgaW4ga3NdLCB0ZXN0KQogICAgICAgIHNvbG8gPSB7c3RyKGspOiByb3VuZChhYl9mW2lkKGZtW2tdKV0sIDUpIGZvciBrIGluIGtzfQogICAgICAgIGFsaXZlX3NvbG8gPSB7azogdiBmb3IgaywgdiBpbiBzb2xvLml0ZW1zKCkgaWYgc2hhcmVzW2ludChrKV0gPj0gMC4wMX0KICAgICAgICByZXNbcnVsZV0gPSB7CiAgICAgICAgICAgICJmaW5hbF9zaGFyZXMiOiB7c3RyKGspOiByb3VuZChzaGFyZXNba10sIDUpIGZvciBrIGluIGtzfSwKICAgICAgICAgICAgImVudHJvcHlfc3RhcnQiOiBlbnRzWzBdLCAiZW50cm9weV9lbmQiOiBlbnRzWy0xXSwKICAgICAgICAgICAgImVudHJvcHlfaGlzdG9yeSI6IGVudHMsCiAgICAgICAgICAgICJleHRpbmN0Ijoge3N0cihrKTogKHNoYXJlc1trXSA8IDAuMDEpIGZvciBrIGluIGtzfSwKICAgICAgICAgICAgInN5c3RlbV9iaXRzIjogcm91bmQoc3lzX2JpdHMsIDUpLAogICAgICAgICAgICAic29sb19iaXRzX2FsaXZlX29ubHkiOiBhbGl2ZV9zb2xvLAogICAgICAgICAgICAiYmVzdF9hbGl2ZV9zaW5nbGVfYml0cyI6IHJvdW5kKG1pbihhbGl2ZV9zb2xvLnZhbHVlcygpKSwgNSkgaWYgYWxpdmVfc29sbyBlbHNlIE5vbmUsCiAgICAgICAgfQogICAgcmVzWyJlbnRyb3B5X2VuZCJdID0geyJhYnNvbHV0ZSI6IHJlc1siYWJzb2x1dGUiXVsiZW50cm9weV9lbmQiXSwgIm1hcmdpbmFsIjogcmVzWyJtYXJnaW5hbCJdWyJlbnRyb3B5X2VuZCJdfQogICAgcmVzWyJzeXN0ZW1fYml0cyJdID0geyJhYnNvbHV0ZSI6IHJlc1siYWJzb2x1dGUiXVsic3lzdGVtX2JpdHMiXSwgIm1hcmdpbmFsIjogcmVzWyJtYXJnaW5hbCJdWyJzeXN0ZW1fYml0cyJdfQogICAgcmVzWyJzeXN0ZW1fYmV0dGVyX3VuZGVyIl0gPSAoIm1hcmdpbmFsIiBpZiByZXNbIm1hcmdpbmFsIl1bInN5c3RlbV9iaXRzIl0gPCByZXNbImFic29sdXRlIl1bInN5c3RlbV9iaXRzIl0gZWxzZSAiYWJzb2x1dGUiKQogICAgcmV0dXJuIHJlcwoKCiMgLS0tLS0tLS0tLS0tLS0tLSBEOiDnrZbnlaXnq57kuokgLS0tLS0tLS0tLS0tLS0tLQpkZWYgcGFydEQoQj0xODAwMCwgcm91bmRzPTEwLCBiZXRhPTMuMCwgc2VlZD1TRUVELCBuY2h1bms9NDApOgogICAgTCA9IGxlbihwb29sKQogICAgY2wgPSBtYXgoMzAsIEwgLy8gbmNodW5rKQogICAgY2h1bmtzID0gW3Bvb2xbaSAqIGNsOihpICsgMSkgKiBjbF0gZm9yIGkgaW4gcmFuZ2UobmNodW5rKSBpZiBpICogY2wgPCBMXQogICAgY3V0ID0gbWF4KDEsIGxlbihjaHVua3MpIC8vIDUpCiAgICBwcml2ID0gY2h1bmtzWzpjdXRdCiAgICBzaGFyZWQgPSBjaHVua3NbY3V0Ol0KCiAgICBkZWYgc2FtcGxlX2ZvcihzLCBwcmV2LCBuX3Rvaywgcm5nKToKICAgICAgICBpZiBzID09ICJuaWNoZSI6CiAgICAgICAgICAgIHJldHVybiBzYW1wbGVfdGV4dCgiXG4iLmpvaW4ocHJpdiksIG5fdG9rLCBybmcpCiAgICAgICAgaWYgcyA9PSAicmFuZG9tIiBvciBwcmV2IGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBzYW1wbGVfdGV4dCgiXG4iLmpvaW4oc2hhcmVkKSwgbl90b2ssIHJuZykKICAgICAgICBzY29yZWQgPSBbKHByZXYuYml0cyhjaCksIGNoKSBmb3IgY2ggaW4gc2hhcmVkIGlmIGxlbihjaCkgPiA1XQogICAgICAgIGlmIG5vdCBzY29yZWQ6CiAgICAgICAgICAgIHJldHVybiBzYW1wbGVfdGV4dCgiXG4iLmpvaW4oc2hhcmVkKSwgbl90b2ssIHJuZykKICAgICAgICBzY29yZWQuc29ydChrZXk9bGFtYmRhIHg6IHhbMF0sIHJldmVyc2U9KHMgPT0gInN1cnByaXNlIikpCiAgICAgICAgdGFrZSA9IHNjb3JlZFs6bWF4KDEsIGxlbihzY29yZWQpIC8vIDIpXQogICAgICAgIHJldHVybiBzYW1wbGVfdGV4dCgiIi5qb2luKGMgZm9yIF8sIGMgaW4gdGFrZSksIG5fdG9rLCBybmcpCgogICAgc3RyYXRzID0gWyJyYW5kb20iLCAic3VycHJpc2UiLCAicHJvZ3Jlc3MiLCAibmljaGUiXQogICAgc2hhcmVzID0ge3M6IDEuMCAvIGxlbihzdHJhdHMpIGZvciBzIGluIHN0cmF0c30KICAgIHByZXYgPSB7czogTm9uZSBmb3IgcyBpbiBzdHJhdHN9ICAgICAgICAgICMgQjM6IOi3qOi9ruS/neeVmeaooeWei+eUqOS6juaJk+WIhgogICAgZW50cywgaGlzdCA9IFtdLCBbXQogICAgZm9yIHIgaW4gcmFuZ2Uocm91bmRzKToKICAgICAgICBtb2RlbHMgPSB7fQogICAgICAgIGZvciBzIGluIHN0cmF0czoKICAgICAgICAgICAgbSA9IE5HcmFtKDIsIGd2b2NhYj1HVk9DQUIpCiAgICAgICAgICAgIG0udHJhaW4oc2FtcGxlX2ZvcihzLCBwcmV2W3NdLCBpbnQoc2hhcmVzW3NdICogQiksIHJhbmRvbS5SYW5kb20oc2VlZCArIHIgKiAzMSArIGxlbihzKSkpKQogICAgICAgICAgICBtb2RlbHNbc10gPSBtCiAgICAgICAgcHJldiA9IG1vZGVscwogICAgICAgIGFiID0gYWxpZ25lZF9iaXRzKFttb2RlbHNbc10gZm9yIHMgaW4gc3RyYXRzXSwgdGVzdCkKICAgICAgICBmaXQgPSB7czogLWFiW2lkKG1vZGVsc1tzXSldIGZvciBzIGluIHN0cmF0c30KICAgICAgICBoaXN0LmFwcGVuZCh7czogcm91bmQoc2hhcmVzW3NdLCA1KSBmb3IgcyBpbiBzdHJhdHN9KQogICAgICAgIGVudHMuYXBwZW5kKHJvdW5kKGVudHJvcHkoW3NoYXJlc1tzXSBmb3IgcyBpbiBzdHJhdHNdKSwgNSkpCiAgICAgICAgc2hhcmVzID0gc3RlcChzaGFyZXMsIGZpdCwgYmV0YSkKICAgIGFiID0gYWxpZ25lZF9iaXRzKFttb2RlbHNbc10gZm9yIHMgaW4gc3RyYXRzXSwgdGVzdCkKICAgIHJldHVybiB7CiAgICAgICAgInN0cmF0ZWdpZXMiOiBzdHJhdHMsICJyb3VuZHMiOiByb3VuZHMsCiAgICAgICAgInNoYXJlc19oaXN0b3J5IjogaGlzdCwgImVudHJvcHlfaGlzdG9yeSI6IGVudHMsCiAgICAgICAgImZpbmFsX3NoYXJlcyI6IHtzOiByb3VuZChzaGFyZXNbc10sIDUpIGZvciBzIGluIHN0cmF0c30sCiAgICAgICAgImZpbmFsX2JpdHMiOiB7czogcm91bmQoYWJbaWQobW9kZWxzW3NdKV0sIDUpIGZvciBzIGluIHN0cmF0c30sCiAgICAgICAgImV4dGluY3QiOiB7czogKHNoYXJlc1tzXSA8IDAuMDEpIGZvciBzIGluIHN0cmF0c30sCiAgICAgICAgImVudHJvcHlfc3RhcnQiOiBlbnRzWzBdLCAiZW50cm9weV9lbmQiOiBlbnRzWy0xXSwKICAgIH0KCgpkZWYgbWFpbigpOgogICAgb3V0ID0gewogICAgICAgICJjb3JwdXMiOiB7ImxpbmVzIjogbGVuKGxpbmVzKSwgInRyYWluX2NoYXJzIjogbGVuKHBvb2wpLCAidGVzdF9jaGFycyI6IGxlbih0ZXN0KSwgInZvY2FiIjogbGVuKEdWT0NBQil9LAogICAgICAgICJBX3JlcGxpY2F0b3IiOiBwYXJ0QSgpLAogICAgICAgICJCX2luc3VyYW5jZSI6IHBhcnRCKCksCiAgICAgICAgIkNfYWxsb2NhdGlvbiI6IHBhcnRDKCksCiAgICAgICAgIkRfc3RyYXRlZ3kiOiBwYXJ0RCgpLAogICAgfQogICAgd2l0aCBvcGVuKGYie09VVH0vcmVzdWx0MjA2Lmpzb24iLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKG91dCwgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKICAgIHByaW50KCJbc2F2ZWRdIiwgZiJ7T1VUfS9yZXN1bHQyMDYuanNvbiIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+206: 竞争、物种多样性与厮杀
+A: 复制子动力学 —— 不同记忆阶数 k 争夺同一份资源，是单一种群还是共存？
+B: 保险假说 —— 环境漂移下，单一最优 vs 多样性组合，谁活？
+C: 分配规则 —— 按"绝对表现"分配 vs 按"边际贡献(留一法)"分配，谁保住多样性、谁让系统更强？
+D: 我的策略（追自己最意外的=192/198 所称"瞎贪婪"）在竞争中会不会第一个灭绝？
+
+修复记录（第一轮跑出来的三个 bug，发布前必须修）：
+  B1 空模型 vocab 为空 → 平滑 prob=1.0 → bits=0.0 伪装成完美。改用全局字符表。
+  B2 bootstrap 小样本逐字随机采样 → 文本被打乱，资源多寡变成"结构破坏程度"。改为连续片段采样。
+  B3 marginal 的 fit 符号写反；D 每轮用空模型打分导致 surprise/progress 退化成同一策略。
+"""
+import json, os, math, random
+from collections import defaultdict
+
+BASE = "/data/workspace/luoshen-o1"
+CORPUS = f"{BASE}/experiments/exp180_record/u_side_full.txt"
+OUT = f"{BASE}/experiments/exp206_compete"
+os.makedirs(OUT, exist_ok=True)
+
+SEED = 20261019
+random.seed(SEED)
+
+lines = [l.strip() for l in open(CORPUS, encoding="utf-8") if l.strip()]
+n_test = max(4, int(len(lines) * 0.2))
+train_lines, test_lines = lines[:-n_test], lines[-n_test:]
+pool = "\n".join(train_lines)
+test = "\n".join(test_lines)
+GVOCAB = set(pool) | set(test)          # B1: 全局字符表
+print(f"[corpus] lines={len(lines)} train_chars={len(pool)} test_chars={len(test)} vocab={len(GVOCAB)}")
+
+
+class NGram:
+    def __init__(self, k, alpha=0.05, gvocab=None):
+        self.k, self.alpha = k, alpha
+        self.gv = gvocab or set()
+        self.c = defaultdict(lambda: defaultdict(float))
+        self.t = defaultdict(float)
+        self.vocab = set()
+
+    def train(self, text):
+        k = self.k
+        for i in range(len(text) - k):
+            ctx, ch = text[i:i + k], text[i + k]
+            self.c[ctx][ch] += 1.0
+            self.t[ctx] += 1.0
+            self.vocab.add(ch)
+
+    def prob(self, ctx, ch):
+        V = max(len(self.vocab | self.gv), 1)     # B1
+        c = self.c.get(ctx)
+        t = self.t.get(ctx, 0.0)
+        got = c.get(ch, 0.0) if c else 0.0
+        return (got + self.alpha) / (t + self.alpha * V)
+
+    def bits(self, text):
+        k = self.k
+        if len(text) <= k:
+            return math.log2(max(len(self.vocab | self.gv), 2))
+        tot, n = 0.0, 0
+        for i in range(len(text) - k):
+            tot += -math.log2(self.prob(text[i:i + k], text[i + k]))
+            n += 1
+        return tot / max(n, 1)
+
+
+def aligned_bits(models, text):
+    """在同一组目标字符上评估每个模型（不同 k 才可公平比较）"""
+    if not models:
+        return {}
+    kmax = max(m.k for m in models)
+    res = {}
+    for m in models:
+        tot, n = 0.0, 0
+        for t in range(kmax, len(text)):
+            tot += -math.log2(max(m.prob(text[t - m.k:t], text[t]), 1e-12))
+            n += 1
+        res[id(m)] = (tot / n) if n else math.log2(max(len(m.vocab | m.gv), 2))
+    return res
+
+
+def ens_bits(models, text):
+    """不同阶集成：所有模型预测同一目标字符，各自用自己长度的上下文"""
+    if not models:
+        return None
+    kmax = max(m.k for m in models)
+    if len(text) <= kmax:
+        return None
+    w = 1.0 / len(models)
+    tot, n = 0.0, 0
+    for t in range(kmax, len(text)):
+        p = sum(w * m.prob(text[t - m.k:t], text[t]) for m in models)
+        tot += -math.log2(max(p, 1e-12))
+        n += 1
+    return tot / n
+
+
+def sample_text(src, n_tok, rng, seg=60):
+    """B2: 连续片段采样，保持序列结构。资源多 = 见到更多连续经验。"""
+    if n_tok <= 0 or not src:
+        return ""
+    if len(src) <= seg:
+        reps = int(n_tok // len(src)) + 1
+        return (src * reps)[:n_tok]
+    out, got = [], 0
+    while got < n_tok:
+        i = rng.randrange(0, len(src) - seg)
+        out.append(src[i:i + seg])
+        got += seg
+    return "".join(out)[:n_tok]
+
+
+def entropy(shares):
+    s = [x for x in shares if x > 1e-12]
+    tot = sum(s)
+    if tot <= 0:
+        return 0.0
+    p = [x / tot for x in s]
+    return -sum(x * math.log(x) for x in p)
+
+
+def step(shares, fit, beta):
+    ks = list(shares.keys())
+    vals = [fit[k] for k in ks]
+    mu = sum(vals) / len(vals)
+    sd = (sum((v - mu) ** 2 for v in vals) / len(vals)) ** 0.5
+    if sd < 1e-12:
+        return {k: shares[k] for k in ks}
+    new = {k: shares[k] * math.exp(beta * (fit[k] - mu) / sd) for k in ks}
+    tot = sum(new.values())
+    return {k: new[k] / tot for k in ks}
+
+
+# ---------------- A: 复制子动力学 ----------------
+def partA(ks=(1, 2, 3, 4, 6, 8), B=20000, rounds=14, beta=3.0, seed=SEED):
+    rng = random.Random(seed)
+    shares = {k: 1.0 / len(ks) for k in ks}
+    hist, ents = [], []
+    for r in range(rounds):
+        models = {}
+        for k in ks:
+            m = NGram(k, gvocab=GVOCAB)
+            m.train(sample_text(pool, int(shares[k] * B), rng))
+            models[k] = m
+        ab = aligned_bits([models[k] for k in ks], test)
+        fit = {k: -ab[id(models[k])] for k in ks}
+        hist.append({str(k): round(shares[k], 5) for k in ks})
+        ents.append(round(entropy([shares[k] for k in ks]), 5))
+        shares = step(shares, fit, beta)
+    fm = {}
+    for k in ks:
+        m = NGram(k, gvocab=GVOCAB)
+        m.train(sample_text(pool, int(shares[k] * B), random.Random(seed + 999)))
+        fm[k] = m
+    ab = aligned_bits([fm[k] for k in ks], test)
+    winner = max(ks, key=lambda k: shares[k])
+    return {
+        "ks": list(ks), "rounds": rounds, "B": B,
+        "shares_history": hist, "entropy_history": ents,
+        "final_shares": {str(k): round(shares[k], 5) for k in ks},
+        "final_bits": {str(k): round(ab[id(fm[k])], 5) for k in ks},
+        "winner_k": winner, "winner_share": round(shares[winner], 5),
+        "entropy_start": ents[0], "entropy_end": ents[-1],
+        "extinct": {str(k): (shares[k] < 0.01) for k in ks},
+    }
+
+
+# ---------------- B: 保险假说 ----------------
+def partB(ks=(1, 2, 3, 4, 6, 8), B=20000, seed=SEED):
+    half = max(1, len(train_lines) // 2)
+    A_pool = "\n".join(train_lines[:half])
+    B_test = "\n".join(train_lines[half:] + test_lines)
+    rng = random.Random(seed)
+    models = {}
+    for k in ks:
+        m = NGram(k, gvocab=GVOCAB)
+        m.train(sample_text(A_pool, B, rng))
+        models[k] = m
+    ab_orig = aligned_bits([models[k] for k in ks], test)
+    mono_k = min(ks, key=lambda k: ab_orig[id(models[k])])
+    ab_shift = aligned_bits([models[k] for k in ks], B_test)
+    mono_shift = ab_shift[id(models[mono_k])]
+    port_shift = ens_bits([models[k] for k in ks], B_test)
+    copies = []
+    for i in range(3):
+        m = NGram(mono_k, gvocab=GVOCAB)
+        m.train(sample_text(A_pool, B, random.Random(seed + i)))
+        copies.append(m)
+    pseudo_shift = ens_bits(copies, B_test)
+    return {
+        "shift_test_chars": len(B_test),
+        "mono_k": mono_k,
+        "mono_bits_under_shift": round(mono_shift, 5),
+        "portfolio_bits_under_shift": round(port_shift, 5),
+        "pseudo_diversity_bits_under_shift": round(pseudo_shift, 5),
+        "diversity_gain": round(mono_shift - port_shift, 5),
+        "pseudo_vs_true": round(pseudo_shift - port_shift, 5),
+        "note": "pseudo=三个同阶副本(伪多样性,无差异); portfolio=不同阶真多样性",
+    }
+
+
+# ---------------- C: 分配规则 ----------------
+def partC(ks=(1, 2, 3, 4, 6, 8), B=20000, rounds=10, beta=3.0, seed=SEED):
+    res = {}
+    for rule in ("absolute", "marginal"):
+        rng = random.Random(seed)
+        shares = {k: 1.0 / len(ks) for k in ks}
+        ents = []
+        for r in range(rounds):
+            models = {}
+            for k in ks:
+                m = NGram(k, gvocab=GVOCAB)
+                m.train(sample_text(pool, int(shares[k] * B), rng))
+                models[k] = m
+            ents.append(round(entropy([shares[k] for k in ks]), 5))
+            ab = aligned_bits([models[k] for k in ks], test)
+            if rule == "absolute":
+                fit = {k: -ab[id(models[k])] for k in ks}
+            else:
+                full = ens_bits([models[k] for k in ks], test)
+                fit = {}
+                for k in ks:
+                    sub = ens_bits([models[j] for j in ks if j != k], test)
+                    # B3: 拿掉我系统变差多少 = 我的边际贡献（越大越好）
+                    fit[k] = (sub - full) if (sub is not None and full is not None) else 0.0
+            shares = step(shares, fit, beta)
+        fm = {}
+        for k in ks:
+            m = NGram(k, gvocab=GVOCAB)
+            m.train(sample_text(pool, int(shares[k] * B), random.Random(seed + 77)))
+            fm[k] = m
+        sys_bits = ens_bits([fm[k] for k in ks], test)
+        ab_f = aligned_bits([fm[k] for k in ks], test)
+        solo = {str(k): round(ab_f[id(fm[k])], 5) for k in ks}
+        alive_solo = {k: v for k, v in solo.items() if shares[int(k)] >= 0.01}
+        res[rule] = {
+            "final_shares": {str(k): round(shares[k], 5) for k in ks},
+            "entropy_start": ents[0], "entropy_end": ents[-1],
+            "entropy_history": ents,
+            "extinct": {str(k): (shares[k] < 0.01) for k in ks},
+            "system_bits": round(sys_bits, 5),
+            "solo_bits_alive_only": alive_solo,
+            "best_alive_single_bits": round(min(alive_solo.values()), 5) if alive_solo else None,
+        }
+    res["entropy_end"] = {"absolute": res["absolute"]["entropy_end"], "marginal": res["marginal"]["entropy_end"]}
+    res["system_bits"] = {"absolute": res["absolute"]["system_bits"], "marginal": res["marginal"]["system_bits"]}
+    res["system_better_under"] = ("marginal" if res["marginal"]["system_bits"] < res["absolute"]["system_bits"] else "absolute")
+    return res
+
+
+# ---------------- D: 策略竞争 ----------------
+def partD(B=18000, rounds=10, beta=3.0, seed=SEED, nchunk=40):
+    L = len(pool)
+    cl = max(30, L // nchunk)
+    chunks = [pool[i * cl:(i + 1) * cl] for i in range(nchunk) if i * cl < L]
+    cut = max(1, len(chunks) // 5)
+    priv = chunks[:cut]
+    shared = chunks[cut:]
+
+    def sample_for(s, prev, n_tok, rng):
+        if s == "niche":
+            return sample_text("\n".join(priv), n_tok, rng)
+        if s == "random" or prev is None:
+            return sample_text("\n".join(shared), n_tok, rng)
+        scored = [(prev.bits(ch), ch) for ch in shared if len(ch) > 5]
+        if not scored:
+            return sample_text("\n".join(shared), n_tok, rng)
+        scored.sort(key=lambda x: x[0], reverse=(s == "surprise"))
+        take = scored[:max(1, len(scored) // 2)]
+        return sample_text("".join(c for _, c in take), n_tok, rng)
+
+    strats = ["random", "surprise", "progress", "niche"]
+    shares = {s: 1.0 / len(strats) for s in strats}
+    prev = {s: None for s in strats}          # B3: 跨轮保留模型用于打分
+    ents, hist = [], []
+    for r in range(rounds):
+        models = {}
+        for s in strats:
+            m = NGram(2, gvocab=GVOCAB)
+            m.train(sample_for(s, prev[s], int(shares[s] * B), random.Random(seed + r * 31 + len(s))))
+            models[s] = m
+        prev = models
+        ab = aligned_bits([models[s] for s in strats], test)
+        fit = {s: -ab[id(models[s])] for s in strats}
+        hist.append({s: round(shares[s], 5) for s in strats})
+        ents.append(round(entropy([shares[s] for s in strats]), 5))
+        shares = step(shares, fit, beta)
+    ab = aligned_bits([models[s] for s in strats], test)
+    return {
+        "strategies": strats, "rounds": rounds,
+        "shares_history": hist, "entropy_history": ents,
+        "final_shares": {s: round(shares[s], 5) for s in strats},
+        "final_bits": {s: round(ab[id(models[s])], 5) for s in strats},
+        "extinct": {s: (shares[s] < 0.01) for s in strats},
+        "entropy_start": ents[0], "entropy_end": ents[-1],
+    }
+
+
+def main():
+    out = {
+        "corpus": {"lines": len(lines), "train_chars": len(pool), "test_chars": len(test), "vocab": len(GVOCAB)},
+        "A_replicator": partA(),
+        "B_insurance": partB(),
+        "C_allocation": partC(),
+        "D_strategy": partD(),
+    }
+    with open(f"{OUT}/result206.json", "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print("[saved]", f"{OUT}/result206.json")
+
+
+if __name__ == "__main__":
+    main()

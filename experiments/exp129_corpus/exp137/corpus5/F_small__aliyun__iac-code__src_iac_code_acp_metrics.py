@@ -1,1 +1,71 @@
-IiIiQUNQIFNlcnZlciBiYXNpYyBydW50aW1lIG1ldHJpY3MuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgdGltZQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MsIGZpZWxkCgoKQGRhdGFjbGFzcwpjbGFzcyBBQ1BNZXRyaWNzOgogICAgIiIiQUNQIFNlcnZlciBiYXNpYyBydW50aW1lIG1ldHJpY3MuCgogICAgVGhyZWFkLXNhZmV0eSBub3RlOiB0aGlzIGNsYXNzIGlzIGRlc2lnbmVkIGZvciBzaW5nbGUtdGhyZWFkZWQgYXN5bmMgdXNlCiAgICB3aXRoaW4gb25lIGV2ZW50IGxvb3AuICBBbGwgbXV0YXRpb25zIGhhcHBlbiBmcm9tIGNvcm91dGluZSBjb2RlIG9uIHRoZQogICAgc2FtZSBsb29wLCBzbyBubyBsb2NraW5nIGlzIHJlcXVpcmVkLgogICAgIiIiCgogICAgc3RhcnRfdGltZTogZmxvYXQgPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9dGltZS5tb25vdG9uaWMpCiAgICB0b3RhbF9zZXNzaW9uczogaW50ID0gMAogICAgYWN0aXZlX3Nlc3Npb25zOiBpbnQgPSAwCiAgICB0b3RhbF9wcm9tcHRzOiBpbnQgPSAwCiAgICB0b3RhbF9lcnJvcnM6IGludCA9IDAKICAgIF9wcm9tcHRfZHVyYXRpb25zOiBsaXN0W2Zsb2F0XSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQoKICAgICMgLS0gbXV0YXRvcnMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgogICAgZGVmIHJlY29yZF9zZXNzaW9uX2NyZWF0ZWQoc2VsZikgLT4gTm9uZToKICAgICAgICAiIiJSZWNvcmQgdGhhdCBhIG5ldyBzZXNzaW9uIHdhcyBjcmVhdGVkLiIiIgogICAgICAgIHNlbGYudG90YWxfc2Vzc2lvbnMgKz0gMQogICAgICAgIHNlbGYuYWN0aXZlX3Nlc3Npb25zICs9IDEKCiAgICBkZWYgcmVjb3JkX3Nlc3Npb25fY2xvc2VkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgIiIiUmVjb3JkIHRoYXQgYSBzZXNzaW9uIHdhcyBjbG9zZWQuIiIiCiAgICAgICAgaWYgc2VsZi5hY3RpdmVfc2Vzc2lvbnMgPiAwOgogICAgICAgICAgICBzZWxmLmFjdGl2ZV9zZXNzaW9ucyAtPSAxCgogICAgZGVmIHJlY29yZF9wcm9tcHQoc2VsZiwgZHVyYXRpb25fbXM6IGZsb2F0KSAtPiBOb25lOgogICAgICAgICIiIlJlY29yZCBhIGNvbXBsZXRlZCBwcm9tcHQgd2l0aCBpdHMgZHVyYXRpb24gaW4gbWlsbGlzZWNvbmRzLiIiIgogICAgICAgIHNlbGYudG90YWxfcHJvbXB0cyArPSAxCiAgICAgICAgc2VsZi5fcHJvbXB0X2R1cmF0aW9ucy5hcHBlbmQoZHVyYXRpb25fbXMpCgogICAgZGVmIHJlY29yZF9lcnJvcihzZWxmKSAtPiBOb25lOgogICAgICAgICIiIlJlY29yZCBhbiBlcnJvciBvY2N1cnJlbmNlLiIiIgogICAgICAgIHNlbGYudG90YWxfZXJyb3JzICs9IDEKCiAgICAjIC0tIGNvbXB1dGVkIHByb3BlcnRpZXMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGF2Z19wcm9tcHRfZHVyYXRpb25fbXMoc2VsZikgLT4gZmxvYXQ6CiAgICAgICAgIiIiQXZlcmFnZSBwcm9tcHQgZHVyYXRpb24gaW4gbWlsbGlzZWNvbmRzLCBvciAwLjAgaWYgbm8gcHJvbXB0cy4iIiIKICAgICAgICBpZiBub3Qgc2VsZi5fcHJvbXB0X2R1cmF0aW9uczoKICAgICAgICAgICAgcmV0dXJuIDAuMAogICAgICAgIHJldHVybiBzdW0oc2VsZi5fcHJvbXB0X2R1cmF0aW9ucykgLyBsZW4oc2VsZi5fcHJvbXB0X2R1cmF0aW9ucykKCiAgICBAcHJvcGVydHkKICAgIGRlZiB1cHRpbWVfc2Vjb25kcyhzZWxmKSAtPiBmbG9hdDoKICAgICAgICAiIiJTZWNvbmRzIHNpbmNlIHRoZSBtZXRyaWNzIHRyYWNrZXIgd2FzIGNyZWF0ZWQuIiIiCiAgICAgICAgcmV0dXJuIHRpbWUubW9ub3RvbmljKCkgLSBzZWxmLnN0YXJ0X3RpbWUKCiAgICAjIC0tIHNuYXBzaG90IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKICAgIGRlZiBzbmFwc2hvdChzZWxmKSAtPiBkaWN0OgogICAgICAgICIiIlJldHVybiBhIEpTT04tc2VyaWFsaXNhYmxlIHNuYXBzaG90IG9mIGFsbCBtZXRyaWNzLiIiIgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJ1cHRpbWVfc2Vjb25kcyI6IHJvdW5kKHNlbGYudXB0aW1lX3NlY29uZHMsIDIpLAogICAgICAgICAgICAidG90YWxfc2Vzc2lvbnMiOiBzZWxmLnRvdGFsX3Nlc3Npb25zLAogICAgICAgICAgICAiYWN0aXZlX3Nlc3Npb25zIjogc2VsZi5hY3RpdmVfc2Vzc2lvbnMsCiAgICAgICAgICAgICJ0b3RhbF9wcm9tcHRzIjogc2VsZi50b3RhbF9wcm9tcHRzLAogICAgICAgICAgICAidG90YWxfZXJyb3JzIjogc2VsZi50b3RhbF9lcnJvcnMsCiAgICAgICAgICAgICJhdmdfcHJvbXB0X2R1cmF0aW9uX21zIjogcm91bmQoc2VsZi5hdmdfcHJvbXB0X2R1cmF0aW9uX21zLCAyKSwKICAgICAgICB9Cg==
+"""ACP Server basic runtime metrics."""
+
+from __future__ import annotations
+
+import time
+from dataclasses import dataclass, field
+
+
+@dataclass
+class ACPMetrics:
+    """ACP Server basic runtime metrics.
+
+    Thread-safety note: this class is designed for single-threaded async use
+    within one event loop.  All mutations happen from coroutine code on the
+    same loop, so no locking is required.
+    """
+
+    start_time: float = field(default_factory=time.monotonic)
+    total_sessions: int = 0
+    active_sessions: int = 0
+    total_prompts: int = 0
+    total_errors: int = 0
+    _prompt_durations: list[float] = field(default_factory=list)
+
+    # -- mutators ------------------------------------------------------------
+
+    def record_session_created(self) -> None:
+        """Record that a new session was created."""
+        self.total_sessions += 1
+        self.active_sessions += 1
+
+    def record_session_closed(self) -> None:
+        """Record that a session was closed."""
+        if self.active_sessions > 0:
+            self.active_sessions -= 1
+
+    def record_prompt(self, duration_ms: float) -> None:
+        """Record a completed prompt with its duration in milliseconds."""
+        self.total_prompts += 1
+        self._prompt_durations.append(duration_ms)
+
+    def record_error(self) -> None:
+        """Record an error occurrence."""
+        self.total_errors += 1
+
+    # -- computed properties -------------------------------------------------
+
+    @property
+    def avg_prompt_duration_ms(self) -> float:
+        """Average prompt duration in milliseconds, or 0.0 if no prompts."""
+        if not self._prompt_durations:
+            return 0.0
+        return sum(self._prompt_durations) / len(self._prompt_durations)
+
+    @property
+    def uptime_seconds(self) -> float:
+        """Seconds since the metrics tracker was created."""
+        return time.monotonic() - self.start_time
+
+    # -- snapshot ------------------------------------------------------------
+
+    def snapshot(self) -> dict:
+        """Return a JSON-serialisable snapshot of all metrics."""
+        return {
+            "uptime_seconds": round(self.uptime_seconds, 2),
+            "total_sessions": self.total_sessions,
+            "active_sessions": self.active_sessions,
+            "total_prompts": self.total_prompts,
+            "total_errors": self.total_errors,
+            "avg_prompt_duration_ms": round(self.avg_prompt_duration_ms, 2),
+        }

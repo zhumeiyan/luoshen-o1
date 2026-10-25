@@ -1,1 +1,141 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJQYXJzZSBhbmQgY29tcGFyZSBiZW5jaG1hcmsgcmVzdWx0cyBmcm9tIGJlbmNobWFya3MvIGRpcmVjdG9yeS4KClVzYWdlOgogICAgcHl0aG9uMyBzY3JpcHRzL2NvbXBhcmUtcmVzdWx0cy5weSBbYmVuY2htYXJrc19kaXJdCgpSZWFkcyBhbGwgSlNPTiBmaWxlcyBmcm9tIHRoZSBiZW5jaG1hcmtzIGRpcmVjdG9yeSBhbmQgcHJvZHVjZXMgYSBjb21wYXJpc29uCnRhYmxlIHNob3dpbmc6IGVuZ2luZSB4IGNvbmZpZyB4IHdvcmtsb2FkIOKGkiB0b2svcywgVlJBTSB1c2FnZS4KIiIiCgppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHN5cwpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCgpkZWYgbG9hZF9yZXN1bHRzKGJlbmNobWFya3NfZGlyOiBzdHIpIC0+IGxpc3RbZGljdF06CiAgICAiIiJMb2FkIGFsbCBKU09OIHJlc3VsdCBmaWxlcyBmcm9tIHRoZSBiZW5jaG1hcmtzIGRpcmVjdG9yeS4iIiIKICAgIHJlc3VsdHMgPSBbXQogICAgYmRpciA9IFBhdGgoYmVuY2htYXJrc19kaXIpCiAgICBmb3IgZiBpbiBzb3J0ZWQoYmRpci5nbG9iKCIqLmpzb24iKSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB3aXRoIG9wZW4oZikgYXMgZmg6CiAgICAgICAgICAgICAgICBkYXRhID0ganNvbi5sb2FkKGZoKQogICAgICAgICAgICAgICAgZGF0YVsiX2ZpbGUiXSA9IGYubmFtZQogICAgICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoZGF0YSkKICAgICAgICBleGNlcHQgKGpzb24uSlNPTkRlY29kZUVycm9yLCBJT0Vycm9yKSBhcyBlOgogICAgICAgICAgICBwcmludChmIldhcm5pbmc6IHNraXBwaW5nIHtmLm5hbWV9OiB7ZX0iLCBmaWxlPXN5cy5zdGRlcnIpCiAgICByZXR1cm4gcmVzdWx0cwoKCmRlZiBmb3JtYXRfdGFibGUocmVzdWx0czogbGlzdFtkaWN0XSkgLT4gc3RyOgogICAgIiIiRm9ybWF0IHJlc3VsdHMgaW50byBhIGNvbXBhcmlzb24gdGFibGUuIiIiCiAgICBpZiBub3QgcmVzdWx0czoKICAgICAgICByZXR1cm4gIk5vIGJlbmNobWFyayByZXN1bHRzIGZvdW5kLiIKCiAgICAjIENvbGxlY3QgYWxsIHdvcmtsb2FkIG5hbWVzCiAgICB3b3JrbG9hZHMgPSBzZXQoKQogICAgZm9yIHIgaW4gcmVzdWx0czoKICAgICAgICB3b3JrbG9hZHMudXBkYXRlKHIuZ2V0KCJ3b3JrbG9hZHMiLCB7fSkua2V5cygpKQogICAgd29ya2xvYWRzID0gc29ydGVkKHdvcmtsb2FkcykKCiAgICAjIEhlYWRlcgogICAgbGluZXMgPSBbXQogICAgbGluZXMuYXBwZW5kKCI9IiAqIDEwMCkKICAgIGxpbmVzLmFwcGVuZCgiQkVOQ0hNQVJLIENPTVBBUklTT04iKQogICAgbGluZXMuYXBwZW5kKCI9IiAqIDEwMCkKICAgIGxpbmVzLmFwcGVuZCgiIikKCiAgICAjIFN1bW1hcnkgdGFibGUKICAgIGhlYWRlciA9IGYieydFbmdpbmUnOjwxNX0geydDb25maWcnOjwxMn0geydUaHJlYWRzJzo8OH0iCiAgICBmb3IgdyBpbiB3b3JrbG9hZHM6CiAgICAgICAgaGVhZGVyICs9IGYiIHt3OjwyMH0iCiAgICBoZWFkZXIgKz0gZiIgeydWUkFNIChNQiknOjwxMn0iCiAgICBsaW5lcy5hcHBlbmQoaGVhZGVyKQogICAgbGluZXMuYXBwZW5kKCItIiAqIGxlbihoZWFkZXIpKQoKICAgIGJlc3RfcGVyX3dvcmtsb2FkOiBkaWN0W3N0ciwgdHVwbGVbZmxvYXQsIHN0cl1dID0ge30KCiAgICBmb3IgciBpbiByZXN1bHRzOgogICAgICAgIGVuZ2luZSA9IHIuZ2V0KCJlbmdpbmUiLCAiPyIpCiAgICAgICAgY29uZmlnID0gci5nZXQoImNvbmZpZyIsICI/IikKICAgICAgICB0aHJlYWRzID0gci5nZXQoInRocmVhZF9jb3VudCIsICI/IikKICAgICAgICB2cmFtID0gci5nZXQoImdwdV9zdGF0cyIsIHt9KS5nZXQoInZyYW1faW5mbyIsICJOL0EiKQoKICAgICAgICByb3cgPSBmIntlbmdpbmU6PDE1fSB7Y29uZmlnOjwxMn0ge3N0cih0aHJlYWRzKTo8OH0iCgogICAgICAgIGZvciB3IGluIHdvcmtsb2FkczoKICAgICAgICAgICAgd2RhdGEgPSByLmdldCgid29ya2xvYWRzIiwge30pLmdldCh3LCB7fSkKICAgICAgICAgICAgbWVhbiA9IHdkYXRhLmdldCgibWVhbl90cHMiLCAwKQogICAgICAgICAgICBzdGQgPSB3ZGF0YS5nZXQoInN0ZGRldl90cHMiLCAwKQogICAgICAgICAgICBpZiBtZWFuID4gMDoKICAgICAgICAgICAgICAgIGNlbGwgPSBmInttZWFuOi4xZn0gwrEge3N0ZDouMWZ9IgogICAgICAgICAgICAgICAga2V5ID0gdwogICAgICAgICAgICAgICAgaWYga2V5IG5vdCBpbiBiZXN0X3Blcl93b3JrbG9hZCBvciBtZWFuID4gYmVzdF9wZXJfd29ya2xvYWRba2V5XVswXToKICAgICAgICAgICAgICAgICAgICBiZXN0X3Blcl93b3JrbG9hZFtrZXldID0gKG1lYW4sIGYie2VuZ2luZX0ve2NvbmZpZ30iKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgY2VsbCA9ICJOL0EiCiAgICAgICAgICAgIHJvdyArPSBmIiB7Y2VsbDo8MjB9IgoKICAgICAgICAjIFBhcnNlIFZSQU0gZnJvbSBDU1YgZm9ybWF0ICJ1c2VkLCB0b3RhbCwgdXRpbCUiCiAgICAgICAgdnJhbV9zdHIgPSB2cmFtLnNwbGl0KCIsIilbMF0uc3RyaXAoKSBpZiB2cmFtICE9ICJOL0EiIGVsc2UgIk4vQSIKICAgICAgICByb3cgKz0gZiIge3ZyYW1fc3RyOjwxMn0iCgogICAgICAgIGxpbmVzLmFwcGVuZChyb3cpCgogICAgbGluZXMuYXBwZW5kKCIiKQogICAgbGluZXMuYXBwZW5kKCI9IiAqIDEwMCkKICAgIGxpbmVzLmFwcGVuZCgiV0lOTkVSUyAoYnkgbWVhbiB0b2svcywgZXhjbHVkaW5nIHdhcm11cCBydW4pIikKICAgIGxpbmVzLmFwcGVuZCgiPSIgKiAxMDApCgogICAgZm9yIHcgaW4gd29ya2xvYWRzOgogICAgICAgIGlmIHcgaW4gYmVzdF9wZXJfd29ya2xvYWQ6CiAgICAgICAgICAgIHRwcywgbGFiZWwgPSBiZXN0X3Blcl93b3JrbG9hZFt3XQogICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiIgIHt3OjwyMH0g4oaSIHtsYWJlbH0gKHt0cHM6LjFmfSB0b2svcykiKQoKICAgIGxpbmVzLmFwcGVuZCgiIikKCiAgICAjIERldGFpbGVkIHBlci1ydW4gZGF0YQogICAgbGluZXMuYXBwZW5kKCI9IiAqIDEwMCkKICAgIGxpbmVzLmFwcGVuZCgiREVUQUlMRUQgUkVTVUxUUyIpCiAgICBsaW5lcy5hcHBlbmQoIj0iICogMTAwKQoKICAgIGZvciByIGluIHJlc3VsdHM6CiAgICAgICAgZW5naW5lID0gci5nZXQoImVuZ2luZSIsICI/IikKICAgICAgICBjb25maWcgPSByLmdldCgiY29uZmlnIiwgIj8iKQogICAgICAgIGxpbmVzLmFwcGVuZChmIlxuLS0tIHtlbmdpbmV9IC8ge2NvbmZpZ30gKHRocmVhZHM9e3IuZ2V0KCd0aHJlYWRfY291bnQnLCAnPycpfSkgLS0tIikKICAgICAgICBsaW5lcy5hcHBlbmQoZiIgICAgRmlsZToge3IuZ2V0KCdfZmlsZScsICc/Jyl9IikKICAgICAgICBsaW5lcy5hcHBlbmQoZiIgICAgR1BVOiB7ci5nZXQoJ2dwdV9zdGF0cycsIHt9KS5nZXQoJ3ZyYW1faW5mbycsICdOL0EnKX0iKQoKICAgICAgICBmb3IgdyBpbiB3b3JrbG9hZHM6CiAgICAgICAgICAgIHdkYXRhID0gci5nZXQoIndvcmtsb2FkcyIsIHt9KS5nZXQodywge30pCiAgICAgICAgICAgIHJ1bnMgPSB3ZGF0YS5nZXQoInJ1bnMiLCBbXSkKICAgICAgICAgICAgaWYgbm90IHJ1bnM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiIgICAge3d9OiIpCiAgICAgICAgICAgIGZvciBydW4gaW4gcnVuczoKICAgICAgICAgICAgICAgIG1hcmtlciA9ICIgKHdhcm11cCkiIGlmIHJ1bi5nZXQoInJ1biIpID09IDEgZWxzZSAiIgogICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgIGYiICAgICAgUnVuIHtydW4uZ2V0KCdydW4nLCAnPycpfTogIgogICAgICAgICAgICAgICAgICAgIGYie3J1bi5nZXQoJ3Rva2Vuc19wZXJfc2VjJywgMCk6LjFmfSB0b2svcywgIgogICAgICAgICAgICAgICAgICAgIGYie3J1bi5nZXQoJ3dhbGxfbXMnLCAwKX1tcyIKICAgICAgICAgICAgICAgICAgICBmInttYXJrZXJ9IgogICAgICAgICAgICAgICAgKQoKICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCgoKZGVmIG1haW4oKToKICAgIGJlbmNobWFya3NfZGlyID0gc3lzLmFyZ3ZbMV0gaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAiYmVuY2htYXJrcyIKCiAgICBpZiBub3Qgb3MucGF0aC5pc2RpcihiZW5jaG1hcmtzX2Rpcik6CiAgICAgICAgcHJpbnQoZiJEaXJlY3Rvcnkgbm90IGZvdW5kOiB7YmVuY2htYXJrc19kaXJ9IikKICAgICAgICBzeXMuZXhpdCgxKQoKICAgIHJlc3VsdHMgPSBsb2FkX3Jlc3VsdHMoYmVuY2htYXJrc19kaXIpCiAgICBwcmludChmb3JtYXRfdGFibGUocmVzdWx0cykpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""Parse and compare benchmark results from benchmarks/ directory.
+
+Usage:
+    python3 scripts/compare-results.py [benchmarks_dir]
+
+Reads all JSON files from the benchmarks directory and produces a comparison
+table showing: engine x config x workload → tok/s, VRAM usage.
+"""
+
+import json
+import os
+import sys
+from pathlib import Path
+
+
+def load_results(benchmarks_dir: str) -> list[dict]:
+    """Load all JSON result files from the benchmarks directory."""
+    results = []
+    bdir = Path(benchmarks_dir)
+    for f in sorted(bdir.glob("*.json")):
+        try:
+            with open(f) as fh:
+                data = json.load(fh)
+                data["_file"] = f.name
+                results.append(data)
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"Warning: skipping {f.name}: {e}", file=sys.stderr)
+    return results
+
+
+def format_table(results: list[dict]) -> str:
+    """Format results into a comparison table."""
+    if not results:
+        return "No benchmark results found."
+
+    # Collect all workload names
+    workloads = set()
+    for r in results:
+        workloads.update(r.get("workloads", {}).keys())
+    workloads = sorted(workloads)
+
+    # Header
+    lines = []
+    lines.append("=" * 100)
+    lines.append("BENCHMARK COMPARISON")
+    lines.append("=" * 100)
+    lines.append("")
+
+    # Summary table
+    header = f"{'Engine':<15} {'Config':<12} {'Threads':<8}"
+    for w in workloads:
+        header += f" {w:<20}"
+    header += f" {'VRAM (MB)':<12}"
+    lines.append(header)
+    lines.append("-" * len(header))
+
+    best_per_workload: dict[str, tuple[float, str]] = {}
+
+    for r in results:
+        engine = r.get("engine", "?")
+        config = r.get("config", "?")
+        threads = r.get("thread_count", "?")
+        vram = r.get("gpu_stats", {}).get("vram_info", "N/A")
+
+        row = f"{engine:<15} {config:<12} {str(threads):<8}"
+
+        for w in workloads:
+            wdata = r.get("workloads", {}).get(w, {})
+            mean = wdata.get("mean_tps", 0)
+            std = wdata.get("stddev_tps", 0)
+            if mean > 0:
+                cell = f"{mean:.1f} ± {std:.1f}"
+                key = w
+                if key not in best_per_workload or mean > best_per_workload[key][0]:
+                    best_per_workload[key] = (mean, f"{engine}/{config}")
+            else:
+                cell = "N/A"
+            row += f" {cell:<20}"
+
+        # Parse VRAM from CSV format "used, total, util%"
+        vram_str = vram.split(",")[0].strip() if vram != "N/A" else "N/A"
+        row += f" {vram_str:<12}"
+
+        lines.append(row)
+
+    lines.append("")
+    lines.append("=" * 100)
+    lines.append("WINNERS (by mean tok/s, excluding warmup run)")
+    lines.append("=" * 100)
+
+    for w in workloads:
+        if w in best_per_workload:
+            tps, label = best_per_workload[w]
+            lines.append(f"  {w:<20} → {label} ({tps:.1f} tok/s)")
+
+    lines.append("")
+
+    # Detailed per-run data
+    lines.append("=" * 100)
+    lines.append("DETAILED RESULTS")
+    lines.append("=" * 100)
+
+    for r in results:
+        engine = r.get("engine", "?")
+        config = r.get("config", "?")
+        lines.append(f"\n--- {engine} / {config} (threads={r.get('thread_count', '?')}) ---")
+        lines.append(f"    File: {r.get('_file', '?')}")
+        lines.append(f"    GPU: {r.get('gpu_stats', {}).get('vram_info', 'N/A')}")
+
+        for w in workloads:
+            wdata = r.get("workloads", {}).get(w, {})
+            runs = wdata.get("runs", [])
+            if not runs:
+                continue
+            lines.append(f"    {w}:")
+            for run in runs:
+                marker = " (warmup)" if run.get("run") == 1 else ""
+                lines.append(
+                    f"      Run {run.get('run', '?')}: "
+                    f"{run.get('tokens_per_sec', 0):.1f} tok/s, "
+                    f"{run.get('wall_ms', 0)}ms"
+                    f"{marker}"
+                )
+
+    return "\n".join(lines)
+
+
+def main():
+    benchmarks_dir = sys.argv[1] if len(sys.argv) > 1 else "benchmarks"
+
+    if not os.path.isdir(benchmarks_dir):
+        print(f"Directory not found: {benchmarks_dir}")
+        sys.exit(1)
+
+    results = load_results(benchmarks_dir)
+    print(format_table(results))
+
+
+if __name__ == "__main__":
+    main()

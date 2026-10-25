@@ -1,1 +1,40 @@
-aW1wb3J0IHRpbWUsc3RhdGlzdGljcyBhcyBzdCxqc29uLG1hdGgKZGVmIGFjcXVpcmUobix3b3JrPTMwMCk6CiAgICB4cz1bXQogICAgZm9yIF8gaW4gcmFuZ2Uobik6CiAgICAgICAgdDA9dGltZS5wZXJmX2NvdW50ZXJfbnMoKTsgcz0wCiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uod29yayk6IHMrPWkqaQogICAgICAgIHhzLmFwcGVuZCh0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwKQogICAgcmV0dXJuIHhzCmRlZiBhbGxhbih4cyx0YXVzKToKICAgIG91dD17fQogICAgZm9yIG0gaW4gdGF1czoKICAgICAgICBpZiBtKjI+bGVuKHhzKTogY29udGludWUKICAgICAgICAjIOi/nue7reeql+WPo+W5s+Wdh+eahOebuOmCu+W3rgogICAgICAgIG1lYW5zPVtzdC5tZWFuKHhzW2kqbTooaSsxKSptXSkgZm9yIGkgaW4gcmFuZ2UobGVuKHhzKS8vbSldCiAgICAgICAgZGlmZnM9W21lYW5zW2krMV0tbWVhbnNbaV0gZm9yIGkgaW4gcmFuZ2UobGVuKG1lYW5zKS0xKV0KICAgICAgICBvdXRbbV09bWF0aC5zcXJ0KHN0Lm1lYW4oW2QqZCBmb3IgZCBpbiBkaWZmc10pLzIuMCkKICAgIHJldHVybiBvdXQKcHJpbnQoJ+mHh+mbhuecn+WunkNQVeaXtuW6j+aKluWKqCAyMDAwMCDmrKEuLi4nKQp4cz1hY3F1aXJlKDIwMDAwKQpwcmludCgnbj0lZCBtZWFuPSUuMWZucyBzZD0lLjFmbnMgY3Y9JS40ZiclKGxlbih4cyksc3QubWVhbih4cyksc3QucHN0ZGV2KHhzKSxzdC5wc3RkZXYoeHMpL3N0Lm1lYW4oeHMpKSkKdGF1cz1bMSwyLDQsOCwxNiwzMiw2NCwxMjgsMjU2LDUxMiwxMDI0XQpBPWFsbGFuKHhzLHRhdXMpCnByaW50KCdcbkFsbGFuIGRldmlhdGlvbiAo56qX5Y+jbSAtPiBzaWdtYV9BKTonKQpwcmludCgnJThzICUxMnMgJTEycyAlMTBzJyUoJ+eql+WPo20nLCdzaWdtYV9BKG5zKScsJ+eQhuiuuueZveWZqicsJ+aViOeOhycpKQpzMT1BWzFdCnNsb3Blcz17fQpwcmV2PU5vbmUKZm9yIG0gaW4gc29ydGVkKEEpOgogICAgd2hpdGU9czEvbWF0aC5zcXJ0KG0pCiAgICBlZmY9d2hpdGUvQVttXSBpZiBBW21dPjAgZWxzZSAwCiAgICBwcmludCgnJThkICUxMi4xZiAlMTIuMWYgJTEwLjNmJyUobSxBW21dLHdoaXRlLGVmZikpCiMg5bGA6YOo5pac546HIGQgbG9nIHNpZ21hIC8gZCBsb2cgbQprcz1zb3J0ZWQoQSkKcHJpbnQoJ1xu5bGA6YOo5pac546HICjnmb3lmao9LTAuNSwg6Zeq54OBPTAsIOmaj+acuua4uOi1sD0rMC41KTonKQpmb3IgaSBpbiByYW5nZShsZW4oa3MpLTEpOgogICAgbTEsbTI9a3NbaV0sa3NbaSsxXQogICAgc2w9KG1hdGgubG9nKEFbbTJdKS1tYXRoLmxvZyhBW20xXSkpLyhtYXRoLmxvZyhtMiktbWF0aC5sb2cobTEpKQogICAgcHJpbnQoJyAgbSAlNGQtPiU0ZCAg5pac546HPSUrLjNmJyUobTEsbTIsc2wpKQogICAgc2xvcGVzWyclZF8lZCclKG0xLG0yKV09c2wKanNvbi5kdW1wKHsnYWxsYW4nOntzdHIoayk6diBmb3Igayx2IGluIEEuaXRlbXMoKX0sJ3Nsb3Blcyc6c2xvcGVzLCdzZDEnOnN0LnBzdGRldih4cyksJ21lYW4nOnN0Lm1lYW4oeHMpfSxvcGVuKCdhbGxhbi5qc29uJywndycpLGluZGVudD0xKQo=
+import time,statistics as st,json,math
+def acquire(n,work=300):
+    xs=[]
+    for _ in range(n):
+        t0=time.perf_counter_ns(); s=0
+        for i in range(work): s+=i*i
+        xs.append(time.perf_counter_ns()-t0)
+    return xs
+def allan(xs,taus):
+    out={}
+    for m in taus:
+        if m*2>len(xs): continue
+        # 连续窗口平均的相邻差
+        means=[st.mean(xs[i*m:(i+1)*m]) for i in range(len(xs)//m)]
+        diffs=[means[i+1]-means[i] for i in range(len(means)-1)]
+        out[m]=math.sqrt(st.mean([d*d for d in diffs])/2.0)
+    return out
+print('采集真实CPU时序抖动 20000 次...')
+xs=acquire(20000)
+print('n=%d mean=%.1fns sd=%.1fns cv=%.4f'%(len(xs),st.mean(xs),st.pstdev(xs),st.pstdev(xs)/st.mean(xs)))
+taus=[1,2,4,8,16,32,64,128,256,512,1024]
+A=allan(xs,taus)
+print('\nAllan deviation (窗口m -> sigma_A):')
+print('%8s %12s %12s %10s'%('窗口m','sigma_A(ns)','理论白噪','效率'))
+s1=A[1]
+slopes={}
+prev=None
+for m in sorted(A):
+    white=s1/math.sqrt(m)
+    eff=white/A[m] if A[m]>0 else 0
+    print('%8d %12.1f %12.1f %10.3f'%(m,A[m],white,eff))
+# 局部斜率 d log sigma / d log m
+ks=sorted(A)
+print('\n局部斜率 (白噪=-0.5, 闪烁=0, 随机游走=+0.5):')
+for i in range(len(ks)-1):
+    m1,m2=ks[i],ks[i+1]
+    sl=(math.log(A[m2])-math.log(A[m1]))/(math.log(m2)-math.log(m1))
+    print('  m %4d->%4d  斜率=%+.3f'%(m1,m2,sl))
+    slopes['%d_%d'%(m1,m2)]=sl
+json.dump({'allan':{str(k):v for k,v in A.items()},'slopes':slopes,'sd1':st.pstdev(xs),'mean':st.mean(xs)},open('allan.json','w'),indent=1)

@@ -1,1 +1,10 @@
-ewogInJ1bl9pZCI6ICIwOTVmM2M0ZmU3ODI0OGQwIiwKICJzZXEiOiA1LAogInRzIjogIjIwMjYtMTAtMjRUMDk6NTM6MjAiLAogInN0YXRlIjogewogICJyb2xlIjogImRlbHRhIiwKICAidmFsdWUiOiAxMCwKICAicnVsZSI6ICLmlbDlhajmlofmiYDmnIkg4piF77yI5ZCr5q2j5paH5byV55So77yJIgogfQp9
+{
+ "run_id": "095f3c4fe78248d0",
+ "seq": 5,
+ "ts": "2026-10-24T09:53:20",
+ "state": {
+  "role": "delta",
+  "value": 10,
+  "rule": "数全文所有 ★（含正文引用）"
+ }
+}

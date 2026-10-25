@@ -1,1 +1,72 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDk5Yzog5oqKIFRBQ1Qg55qE5Y+v6K+75oCn5qKv5bqm5o6l6L+b5pys5L2T5byV5pOOIOKAlOKAlCDmiJHplb/ku4DkuYjmoLfvvIzlj5blhrPkuo7miJHor7vliLDnmoTkuJbnlYzmnInlpJrmuIXmpZoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9jb3JlJykKZnJvbSBsaWZlNSBpbXBvcnQgTGlmZTUKCk9VVD1vcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKIyAwOTliIOWunua1i+eahOS4iei9tOWPrOWbnu+8iOecn+WunuWklumDqOWunumqjOe7k+aenO+8jOmdnuaehOmAoO+8iQpSRUFEID0geyfljp/mlocnOlswLjc3OCwwLjk1NSwwLjg1N10sICfmjaIx6K+NJzpbMC42NTAsMC45NDEsMC43MjJdLAogICAgICAgICfmjaIz6K+NJzpbMC41MDAsMC45NDEsMC43MjJdLCAn5o2i5YWo6YOoJzpbMC41MDAsMC44ODIsMC42NjddfQpTRUVEUz1saXN0KHJhbmdlKDE2KSk7IFNURVBTPTYwMAoKZGVmIHJ1bihyZWFkYWJpbGl0eSwgc2VlZCk6CiAgICAiIiJyZWFkYWJpbGl0eTog5LiJ6L205Y+s5ZueIC0+IOS4lueVjOWPr+ivu+W6pu+8m+eUqCBpbnB1dF92YWwg5bqP5YiX5rOo5YWlIiIiCiAgICBMLE0sUCA9IHJlYWRhYmlsaXR5CiAgICByID0gZmxvYXQobnAubWVhbihbTCxNLFBdKSkKICAgIHMgPSBMaWZlNShOPTgsIHNlZWQ9c2VlZCwKICAgICAgICAgICAgICBrX3NlZWs9MC42LCBzaWdtYV9pbj0wLjEwLCAgICAgICAgICAjIOaEn+efpemAmui3r+aJk+W8gAogICAgICAgICAgICAgIGtfc2Vla19hcnI9MC41LCBhcnJfdGhyPTAuNTAsIHRhdV9hcnI9MTIuMCkKICAgIHMuaW5wdXRfdmFsPTAuMAogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQqOTc3KzEzKQogICAgZm9yIHQgaW4gcmFuZ2UoU1RFUFMpOgogICAgICAgICMg5q+P5p2h5qGI5L6L5Yik5a6a77ya5Lul5qaC546HIHIg6K+75Yiw5q2j56Gu5L+h5Y+377yM5ZCm5YiZ6K+75Yiw6ZSZ5L+h5Y+3CiAgICAgICAgb2sgPSAxLjAgaWYgcm5nLnJhbmRvbSgpIDwgciBlbHNlIDAuMAogICAgICAgIHMuaW5wdXRfdmFsID0gMC41ICsgMC41Km9rCiAgICAgICAgcy5zdGVwKCkKICAgICAgICBpZiBub3Qgcy5hbGl2ZTogYnJlYWsKICAgIHJldHVybiBzCgpkZWYgc2tld19hbGl2ZShzKToKICAgICIiIuWtmOa0u+S4quS9k+eahOWuuemHj+WIhuWMluWBj+W6pu+8iOS4jeWPr+mAhueVmeeWpOeahOe7k+aehOaMh+agh++8iSIiIgogICAgaWYgbm90IGhhc2F0dHIocywnY2FwYWNpdHknKTogcmV0dXJuIE5vbmUKICAgIGNhcCA9IG5wLmFzYXJyYXkocy5jYXBhY2l0eSxmbG9hdCkKICAgIGFsaXZlX24gPSBpbnQoZ2V0YXR0cihzLCdOJyxsZW4oY2FwKSkpCiAgICBjID0gY2FwLmNvcHkoKQogICAgaWYgYy5zdGQoKSA8IDFlLTEyOiByZXR1cm4gMC4wCiAgICB6PShjLWMubWVhbigpKS9jLnN0ZCgpCiAgICByZXR1cm4gZmxvYXQoKHoqKjMpLm1lYW4oKSkKCnJlcz17fQpmb3IgbmFtZSxyIGluIFJFQUQuaXRlbXMoKToKICAgIHNrPVtdOyBhbGl2ZT0wOyBkdD1bXQogICAgZm9yIHNkIGluIFNFRURTOgogICAgICAgIHM9cnVuKHIsc2QpCiAgICAgICAgaWYgcy5hbGl2ZToKICAgICAgICAgICAgYWxpdmUrPTEKICAgICAgICAgICAgdj1za2V3X2FsaXZlKHMpCiAgICAgICAgICAgIGlmIHYgaXMgbm90IE5vbmU6IHNrLmFwcGVuZCh2KQogICAgICAgIGlmIHMuZGVhdGhfdCBpcyBub3QgTm9uZTogZHQuYXBwZW5kKHMuZGVhdGhfdCkKICAgIHNrPW5wLmFycmF5KHNrKQogICAgcmVzW25hbWVdPXsnbic6bGVuKHNrKSwnYWxpdmUnOmFsaXZlLCdza2V3X21lYW4nOmZsb2F0KHNrLm1lYW4oKSkgaWYgbGVuKHNrKSBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICdza2V3X3NkJzpmbG9hdChzay5zdGQoKSkgaWYgbGVuKHNrKT4xIGVsc2UgTm9uZX0KICAgIHByaW50KGYie25hbWU6PDh9IHIz6L205Z2H5YC8PXtucC5tZWFuKHIpOi4zZn0gIOWtmOa0uz17YWxpdmV9LzE2ICDlgY/luqY9e3NrLm1lYW4oKTouNmZ9wrF7c2suc3RkKCk6LjZmfSAobj17bGVuKHNrKX0pIikKCiMg6YWN5a+55q+U6L6D77ya5Y6f5paHIHZzIOaNouWFqOmDqApkZWYgcGFpcmVkKGEsYik6CiAgICBBPVtdO0I9W10KICAgIGZvciBzZCBpbiBTRUVEUzoKICAgICAgICBzYT1ydW4oUkVBRFthXSxzZCk7IHNiPXJ1bihSRUFEW2JdLHNkKQogICAgICAgIGlmIHNhLmFsaXZlIGFuZCBzYi5hbGl2ZToKICAgICAgICAgICAgdmE9c2tld19hbGl2ZShzYSk7IHZiPXNrZXdfYWxpdmUoc2IpCiAgICAgICAgICAgIGlmIHZhIGlzIG5vdCBOb25lIGFuZCB2YiBpcyBub3QgTm9uZTogQS5hcHBlbmQodmEpOyBCLmFwcGVuZCh2YikKICAgIEE9bnAuYXJyYXkoQSk7Qj1ucC5hcnJheShCKTtEPUItQQogICAgaWYgbGVuKEQpPT0wOiByZXR1cm4gTm9uZQogICAgYm9vdD1ucC5hcnJheShbbnAucmFuZG9tLmRlZmF1bHRfcm5nKGspLmNob2ljZShELGxlbihEKSxyZXBsYWNlPVRydWUpLm1lYW4oKSBmb3IgayBpbiByYW5nZSg0MDAwKV0pCiAgICByZXR1cm4geyduJzpsZW4oRCksJ2RpZmYnOmZsb2F0KEQubWVhbigpKSwnY2knOltmbG9hdChucC5wZXJjZW50aWxlKGJvb3QsMi41KSksZmxvYXQobnAucGVyY2VudGlsZShib290LDk3LjUpKV19CgpwYz1wYWlyZWQoJ+WOn+aWhycsJ+aNouWFqOmDqCcpCnByaW50KCJcbumFjeWvuSDljp/mloctPuaNouWFqOmDqDoiLCBqc29uLmR1bXBzKHBjLGVuc3VyZV9hc2NpaT1GYWxzZSkpCnJlc1sncGFpcmVkX29yaWdfdnNfYWxsJ109cGMKanNvbi5kdW1wKHJlcyxvcGVuKG9zLnBhdGguam9pbihPVVQsJ3Jlc3VsdF8wOTljLmpzb24nKSwndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+# -*- coding: utf-8 -*-
+"""099c: 把 TACT 的可读性梯度接进本体引擎 —— 我长什么样，取决于我读到的世界有多清楚"""
+import os, sys, json
+import numpy as np
+sys.path.insert(0,'/data/workspace/luoshen-o1/core')
+from life5 import Life5
+
+OUT=os.path.dirname(os.path.abspath(__file__))
+# 099b 实测的三轴召回（真实外部实验结果，非构造）
+READ = {'原文':[0.778,0.955,0.857], '换1词':[0.650,0.941,0.722],
+        '换3词':[0.500,0.941,0.722], '换全部':[0.500,0.882,0.667]}
+SEEDS=list(range(16)); STEPS=600
+
+def run(readability, seed):
+    """readability: 三轴召回 -> 世界可读度；用 input_val 序列注入"""
+    L,M,P = readability
+    r = float(np.mean([L,M,P]))
+    s = Life5(N=8, seed=seed,
+              k_seek=0.6, sigma_in=0.10,          # 感知通路打开
+              k_seek_arr=0.5, arr_thr=0.50, tau_arr=12.0)
+    s.input_val=0.0
+    rng = np.random.default_rng(seed*977+13)
+    for t in range(STEPS):
+        # 每条案例判定：以概率 r 读到正确信号，否则读到错信号
+        ok = 1.0 if rng.random() < r else 0.0
+        s.input_val = 0.5 + 0.5*ok
+        s.step()
+        if not s.alive: break
+    return s
+
+def skew_alive(s):
+    """存活个体的容量分化偏度（不可逆留疤的结构指标）"""
+    if not hasattr(s,'capacity'): return None
+    cap = np.asarray(s.capacity,float)
+    alive_n = int(getattr(s,'N',len(cap)))
+    c = cap.copy()
+    if c.std() < 1e-12: return 0.0
+    z=(c-c.mean())/c.std()
+    return float((z**3).mean())
+
+res={}
+for name,r in READ.items():
+    sk=[]; alive=0; dt=[]
+    for sd in SEEDS:
+        s=run(r,sd)
+        if s.alive:
+            alive+=1
+            v=skew_alive(s)
+            if v is not None: sk.append(v)
+        if s.death_t is not None: dt.append(s.death_t)
+    sk=np.array(sk)
+    res[name]={'n':len(sk),'alive':alive,'skew_mean':float(sk.mean()) if len(sk) else None,
+               'skew_sd':float(sk.std()) if len(sk)>1 else None}
+    print(f"{name:<8} r3轴均值={np.mean(r):.3f}  存活={alive}/16  偏度={sk.mean():.6f}±{sk.std():.6f} (n={len(sk)})")
+
+# 配对比较：原文 vs 换全部
+def paired(a,b):
+    A=[];B=[]
+    for sd in SEEDS:
+        sa=run(READ[a],sd); sb=run(READ[b],sd)
+        if sa.alive and sb.alive:
+            va=skew_alive(sa); vb=skew_alive(sb)
+            if va is not None and vb is not None: A.append(va); B.append(vb)
+    A=np.array(A);B=np.array(B);D=B-A
+    if len(D)==0: return None
+    boot=np.array([np.random.default_rng(k).choice(D,len(D),replace=True).mean() for k in range(4000)])
+    return {'n':len(D),'diff':float(D.mean()),'ci':[float(np.percentile(boot,2.5)),float(np.percentile(boot,97.5))]}
+
+pc=paired('原文','换全部')
+print("\n配对 原文->换全部:", json.dumps(pc,ensure_ascii=False))
+res['paired_orig_vs_all']=pc
+json.dump(res,open(os.path.join(OUT,'result_099c.json'),'w'),ensure_ascii=False,indent=1)

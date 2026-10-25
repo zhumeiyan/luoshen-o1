@@ -1,1 +1,409 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNDkg5b6q546v5bGCIOKAlOKAlCDooYDnrqHjgIHooYDmtYHjgIHmsKfnuqfogZQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrimIUg5om/5o6lIOKYhTQ477ya5b+D6ISP5oqK6KGA44CQ5rO144CR5Ye65p2l77yM5b6q546v5oqK6KGA44CQ6YCB44CR5Yiw57uG6IOeCiAgICDimIXimIUg5rKh5pyJ5b6q546v77yM5b+D6ISP55qEIFZPMm1heCDlj6rmmK/kuKrmlbDlrZfvvIzliLDkuI3kuobnur/nspLkvZMKCuKYheKYheKYhSDmnKzova7opoHpkonnmoTmoLjlv4PmgpborroKICAgIOKYhSDms4rogoPlj7bvvJpRIOKInSBy4oG0ICDigJTigJQg5Y2K5b6E5piv5p6B5by655qE5p2g5p2G77yIKzEwJSDljYrlvoQg4oaSICs0NiUg6KGA5rWB77yJCiAgICDimIXimIUg5L2G6KGA566h44CQ5LiN6IO95YWo6Lqr5omp5byg44CR77yaCiAgICAgICAg5bGA6YOo77yI6L+Q5Yqo6IKM6IKJ77yJ5omp5bygIOKGkiDor6XlpITooYDmtYHihpHihpHvvIzmgLvlpJblkajpmLvlipvlj6rnlaXpmY3vvIzpnaAgQ08g5Luj5YG/CiAgICAgICAg5YWo6Lqr5omp5bygIOKGkiBUUFIg5bSp5aGMIOKGkiBNQVAg5o6JIOKGkiDngYzms6jljovkuI3lpJ8g4oaSIOWPjeiAjOe8uuihgAogICAgICAgIOKYhSBSRUFMIOWvueW6lO+8muiEk+avkuaAp+S8keWFiyAvIOi/h+aVj+aAp+S8keWFiyA9IOWFqOi6q+ihgOeuoeaJqeW8oCDihpIg6KGA5Y6L5bSp5aGMCiAgICDimIXimIXimIUg5omA5LulIuaJqeW8oOihgOeuoeWlvSLov5nkuKrnm7Top4nlj6rlnKjjgJDlsYDpg6jjgJHmiJDnq4sKCuKYheKYhSDnnJ/lj4LmlbDvvIhSRUFM77yJCiAgICDooYDlrrnph48gNSBMICAgICAgICDnuqLnu4bog57ljovnp68gSGN0IDAuNDUKICAgIOihgOWOiyAxMjAvODAgbW1IZyAgTUFQIOKJiCA5M++8iD0gREJQICsg6ISJ5Y6LLzPvvIkKICAgIE1BUCA9IENPIMOXIFRQUu+8iOasp+WnhuWumuW+i+exu+avlO+8iQogICAg5Li75Yqo6ISJIGQgMi41IGNt77yM5bmz5Z2H5rWB6YCfIH4xNyBjbS9z77yM5bOw5YC8IDQwfjUwCiAgICDmr5vnu4booYDnrqEgZCA3fjEwIM68be+8jOa1gemAnyAwLjV+MSBtbS9z77yI4piFIOaAu+aoquaIqumdouenr+acgOWkpyDihpIg5pyA5oWi77yJCiAgICDnuqLnu4bog57ov4fmr5vnu4booYDnrqEgMC41fjIgcwogICAg5YWo6KGA57KY5bqmIDN+NCBjUO+8jOihgOa1hiAxLjIgY1AKICAgIOKYhSDlsI/liqjohIkv5b6u5Yqo6ISJ5piv5Li76KaB6Zi75Yqb6YOo5L2N77yI5Y2g5oC76Zi75YqbIDYwfjcwJe+8iQogICAg5Ymq5YiH5bqU5YqbIDEwfjIwIGR5bi9jbcKy77yIMX4yIFBh77yJ4oaSIOinpuWPkSBlTk9TIOmHiuaUviBOTwogICAgUFdW77yI6ISJ5pCP5rOi6YCf5bqm77yJ77ya6Z2S5bm0IDV+OCBtL3PvvIzogIHlubQgMTB+MTXvvIhNb2Vucy1Lb3J0ZXdlZ++8iQogICAg6Ieq5Yqo6LCD6IqC77ya6ISRL+iCvuihgOa1geWcqCBNQVAgNjB+MTUwIOS5i+mXtOWfuuacrOaBkuWumgoK4piF4piF4piFIOawp+e6p+iBlO+8iG94eWdlbiBjYXNjYWRl77yJ4oCU4oCUIFBPMiDkuIDot6/kuIvpmY0KICAgIOW5sueHpeepuuawlCAxNjAg4oaSIOa5v+WMluawlOmBkyAxNTAg4oaSIOiCuuazoSB+MTAwIOKGkiDliqjohIkgOTUKICAgIOKGkiDnu4Tnu4fmr5vnu4booYDnrqEgfjQwIOKGkiDnur/nspLkvZMgMX4xMCBtbUhnCiAgICDimIUg5q+P5LiA57qn6YO95piv55yf5a6e55qE5Y6L6ZmN77yM5LiN5piv5bi45pWwCgrimIUg5rCn6Kej56a75puy57q/77yISGlsbCDmlrnnqIvvvIkKICAgIFNPMiA9IFBPMl5uIC8gKFA1MF5uICsgUE8yXm4p77yMbuKJiDIuN++8jFA1MOKJiDI2LjggbW1IZwogICAgQ2FPMiA9IDEuMzQgw5cgSGIgw5cgU08yICsgMC4wMDMgw5cgUE8yICAgICBIYj0xNSBnL2RMCiAgICDihpIg5Yqo6ISJIFNPMiAwLjk3NSDihpIgQ2FPMiDiiYggMTk2IG1ML0wgIOKYhSDkuI4g4piFNDgg55qEIENBTzI9MjAwIOWvueS4igogICAg4piFIEJvaHIg5pWI5bqU77yacEjihpMgLyBDTzLihpEg4oaSIOabsue6v+WPs+enuyDihpIg57uE57uH5pu05a655piT5ou/5Yiw5rCnCiAgICAgIM6UbG9nMTAoUDUwKS/OlHBIIOKJiCDiiJIwLjQ4CgrimIXimIXimIUg5pyJ5rCnIHZzIOaXoOawp++8iOacrOi9ruaOpeWbniDimIXnrKwx5q2lIOiDvemHj+acrOiDve+8iQogICAg6JGh6JCE57OW5a6M5YWo5rCn5YyWIOWHgCB+MzB+MzIgQVRQ77yM6ICXIDYgTzIgIOKGkiDnuqYgNSBBVFAgLyBPMgogICAg5peg5rCn57OW6YW16KejICAgICDlh4AgMiBBVFDvvIjkuI3ogJfmsKfvvIkKICAgIOKYhSDmlYjnjoflt67nuqYgMTUg5YCNCiAgICDimIXimIUg5omA5LulIuawp+i+k+mAgemAn+eOhyLlsLHmmK/jgJDmnInmsKflip/njofkuIrpmZDjgJE9IOiDvemHj+mihOeul+eahOeJqeeQhuWkqeiKseadvwogICAgICAg6LaF5Ye66YOo5YiG5Y+q6IO96LWw5peg5rCnIOKGkiDkvY7mlYggKyDkubPphbjvvIjmsKflgLrvvIzkuovlkI7opoHov5jvvIkKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IG51bXB5IGFzIG5wCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4gOOAgeecn+WPguaVsO+8iFJFQUzvvIkKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpCTE9PRF9WT0xVTUUgPSA1LjAgICAgICAgICAgICAjIEwKSENUID0gMC40NSAgICAgICAgICAgICAgICAgICAgIyDnuqLnu4bog57ljovnp6/vvIhSRUFMIDAuNDB+MC41MO+8iQpIQiA9IDE1LjAgICAgICAgICAgICAgICAgICAgICAjIGcvZEwg6KGA57qi6JuL55m977yIUkVBTCAxM34xN++8iQpIVUZORVIgPSAxLjM0ICAgICAgICAgICAgICAgICAjIG1MIE8yIC8gZyBIYgpTT0xfTzIgPSAwLjAwMyAgICAgICAgICAgICAgICAjIG1MIE8yIC8gZEwgLyBtbUhn77yI5rq26Kej5rCn77yJClA1MCA9IDI2LjggICAgICAgICAgICAgICAgICAgICMgbW1IZwpISUxMX04gPSAyLjcKQk9IUiA9IC0wLjQ4ICAgICAgICAgICAgICAgICAgIyDOlGxvZzEwKFA1MCkvzpRwSAoKRVRBX1BMQVNNQSA9IDEuMmUtMyAgICAgICAgICAgIyBQYcK3cwpFVEFfQkxPT0QgPSAzLjVlLTMgICAgICAgICAgICAjIFBhwrdz77yIUkVBTCAzfjQgY1DvvIkKUkhPX0JMT09EID0gMTA2MC4wICAgICAgICAgICAgIyBrZy9twrMKCk1BUF9SRVNUID0gOTMuMCAgICAgICAgICAgICAgICMgbW1IZ++8iFJFQUwgfjkz77yJCkNPX1JFU1QgPSA1LjAgICAgICAgICAgICAgICAgICMgTC9taW4KVFBSX1JFU1QgPSBNQVBfUkVTVCAvIENPX1JFU1QgICMgbW1IZ8K3bWluL0wKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LqM44CB6KGA566h5qCR77ya5q+P57qn55u05b6E44CB5pWw6YeP44CB5oC75qiq5oiq6Z2i56ev44CB5rWB6YCfCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KY2xhc3MgVmVzc2VsTGV2ZWw6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbmFtZSwgZF9jbSwgbiwgdG90YWxfYXJlYV9jbTIsIGlzX3Jlc2lzdGFuY2U9RmFsc2UpOgogICAgICAgIHNlbGYubmFtZSA9IG5hbWUKICAgICAgICBzZWxmLmRfY20gPSBkX2NtCiAgICAgICAgc2VsZi5uID0gbgogICAgICAgIHNlbGYuYXJlYSA9IHRvdGFsX2FyZWFfY20yICAgICAgICAjIGNtwrIg5oC75qiq5oiq6Z2i56evCiAgICAgICAgc2VsZi5pc19yZXNpc3RhbmNlID0gaXNfcmVzaXN0YW5jZQoKCmRlZiB2ZXNzZWxfdHJlZSgpOgogICAgIiIiCiAgICDimIUg6KGA566h5qCR77ya5LuO5Li75Yqo6ISJ5Yiw6IWU6Z2Z6ISJCiAgICAgIOKYheKYhSDlhbPplK7vvJrmgLvmqKrmiKrpnaLnp6/lnKjjgJDmr5vnu4booYDnrqHjgJHlpITmnIDlpKcg4oaSIOa1gemAn+acgOaFogogICAgICDimIUg6L+Z5LiN5piv5ben5ZCI77ya5oWiID0g5Lqk5o2i5pyJ6Laz5aSf5pe26Ze0CiAgICAiIiIKICAgIHJldHVybiBbCiAgICAgICAgVmVzc2VsTGV2ZWwoIuS4u+WKqOiEiSIsICAgMi41LCAgICAgICAgMSwgICAgNC45KSwKICAgICAgICBWZXNzZWxMZXZlbCgi5aSn5Yqo6ISJIiwgICAwLjUsICAgICAgIDQwLCAgIDIwLjApLAogICAgICAgIFZlc3NlbExldmVsKCLlsI/liqjohIkiLCAgIDAuMDA1LCAgMS4wZTYsICAxMjUuMCwgaXNfcmVzaXN0YW5jZT1UcnVlKSwKICAgICAgICBWZXNzZWxMZXZlbCgi5b6u5Yqo6ISJIiwgICAwLjAwMjUsIDQuMGU3LCAgNTAwLjAsIGlzX3Jlc2lzdGFuY2U9VHJ1ZSksCiAgICAgICAgVmVzc2VsTGV2ZWwoIuavm+e7huihgOeuoSIsIDAuMDAwOCwgMS4wZTEwLCAxMDAwLjApLAogICAgICAgIFZlc3NlbExldmVsKCLlsI/pnZnohIkiLCAgIDAuMDAzLCAgMi4wZTcsICA1NzAuMCksCiAgICAgICAgVmVzc2VsTGV2ZWwoIuiFlOmdmeiEiSIsICAgMy4wLCAgICAgICAgMSwgICAgNy4xKSwKICAgIF0KCgpkZWYgdmVsb2NpdHlfY21fcyhjb19MX21pbjogZmxvYXQsIGxldmVsOiBWZXNzZWxMZXZlbCkgLT4gZmxvYXQ6CiAgICAiIiLmtYHpgJ8gPSDmtYHph48gLyDmgLvmqKrmiKrpnaLnp68iIiIKICAgIHFfY20zX3MgPSBjb19MX21pbiAqIDEwMDAuMCAvIDYwLjAgICAgICAjIGNtwrMvcwogICAgcmV0dXJuIHFfY20zX3MgLyBsZXZlbC5hcmVhCgoKZGVmIHJleW5vbGRzKHZfY21fczogZmxvYXQsIGRfY206IGZsb2F0LAogICAgICAgICAgICAgZXRhOiBmbG9hdCA9IEVUQV9CTE9PRCwgcmhvOiBmbG9hdCA9IFJIT19CTE9PRCkgLT4gZmxvYXQ6CiAgICAiIiJSZSA9IM+BdmQvzrcgICDigJTigJQgPDIwMDAg5bGC5rWB77yb5Li75Yqo6ISJ5bOw5YC85Y+v5YiwIDE1MDB+NDAwMCIiIgogICAgcmV0dXJuIHJobyAqICh2X2NtX3MgLyAxMDAuMCkgKiAoZF9jbSAvIDEwMC4wKSAvIGV0YQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuInjgIHimIUg5rOK6IKD5Y+2IHLigbQg4oCU4oCUIOihgOeuoeiwg+iKgueahOaguOW/g+adoOadhgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBwb2lzZXVpbGxlX2Zsb3coZHA6IGZsb2F0LCByOiBmbG9hdCwgTDogZmxvYXQsCiAgICAgICAgICAgICAgICAgICAgZXRhOiBmbG9hdCA9IEVUQV9CTE9PRCkgLT4gZmxvYXQ6CiAgICAiIiJRID0gz4DCt86UUMK3cuKBtCAvKDjOt0wpICAg77yIU0nvvJptwrMvc++8iSIiIgogICAgcmV0dXJuIG5wLnBpICogZHAgKiByICoqIDQgLyAoOC4wICogZXRhICogTCkKCgpkZWYgcmVzaXN0YW5jZShyOiBmbG9hdCwgTDogZmxvYXQsIGV0YTogZmxvYXQgPSBFVEFfQkxPT0QpIC0+IGZsb2F0OgogICAgIiIiUiA9IDjOt0wvKM+AcuKBtCkgICDimIXimIUgciDnmoTlm5vmrKHmlrnlnKjliIbmr43kuIoiIiIKICAgIHJldHVybiA4LjAgKiBldGEgKiBMIC8gKG5wLnBpICogciAqKiA0KQoKCmRlZiBmbG93X2dhaW4ocl9yYXRpbzogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi4piF4piFIOWNiuW+hOaUvuWkpyByX3JhdGlvIOWAjSDihpIg6KGA5rWB5pS+5aSnIHJfcmF0aW/igbQg5YCN77yIzpRQIOS4jeWPmOaXtu+8iSIiIgogICAgcmV0dXJuIHJfcmF0aW8gKiogNAoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDlm5vjgIHimIXimIUg5bGA6YOoIHZzIOWFqOi6q+aJqeW8oCDigJTigJQg5pys6L2u5qC45b+D5oKW6K66CiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIHRwcl9vZl9iZWRzKGJlZHM6IGRpY3QpIC0+IGZsb2F0OgogICAgIiIiCiAgICDimIUg5bm26IGU6KGA566h5bqK77yaMS9SX3RvdGFsID0gzqMgMS9SX2kKICAgICAgYmVkczoge+WQjeWtlzogKOmYu+WKm1JfaSwg5p2D6YeNKOmdmeaBr+ihgOa1geWNoOavlCkpfQogICAgIiIiCiAgICBpbnYgPSBzdW0oMS4wIC8gciBmb3IgciwgXyBpbiBiZWRzLnZhbHVlcygpKQogICAgcmV0dXJuIDEuMCAvIGludgoKCmRlZiBkaWxhdGVfbG9jYWwoYmVkczogZGljdCwgdGFyZ2V0OiBzdHIsIHJhdGlvOiBmbG9hdCkgLT4gZGljdDoKICAgICIiIuKYhSDlj6rmianlvKDkuIDkuKrluorvvIjku6PosKLmgKcv5bGA6YOo77yJIiIiCiAgICBvdXQgPSB7azogKHZbMF0sIHZbMV0pIGZvciBrLCB2IGluIGJlZHMuaXRlbXMoKX0KICAgIGlmIHRhcmdldCBpbiBvdXQ6CiAgICAgICAgciwgdyA9IG91dFt0YXJnZXRdCiAgICAgICAgb3V0W3RhcmdldF0gPSAociAvIChyYXRpbyAqKiA0KSwgdykgICAgICMg4piFIHLihpEg4oaSIFIgPSBSL3JhdGlv4oG0CiAgICByZXR1cm4gb3V0CgoKZGVmIGRpbGF0ZV9hbGwoYmVkczogZGljdCwgcmF0aW86IGZsb2F0KSAtPiBkaWN0OgogICAgIiIi4piFIOWFqOmDqOW6iuS4gOi1t+aJqeW8oO+8iOWFqOi6q+aAp++8muiEk+avki/ov4fmlY8v6I2v54mp77yJIiIiCiAgICByZXR1cm4ge2s6ICh2WzBdIC8gKHJhdGlvICoqIDQpLCB2WzFdKSBmb3IgaywgdiBpbiBiZWRzLml0ZW1zKCl9CgoKZGVmIG1hcF9mcm9tKGNvOiBmbG9hdCwgdHByOiBmbG9hdCkgLT4gZmxvYXQ6CiAgICAiIiLimIUgTUFQID0gQ08gw5cgVFBS77yI5qyn5aeG5a6a5b6L57G75q+U77yJIiIiCiAgICByZXR1cm4gY28gKiB0cHIKCgpkZWYgcGVyZnVzaW9uX29mX2JlZChtYXBfOiBmbG9hdCwgcl9pOiBmbG9hdCkgLT4gZmxvYXQ6CiAgICAiIiLimIUg5Y2V5Liq5bqK55qE6KGA5rWBID0gTUFQIC8gUl9p77yI54GM5rOo5Y6L6amx5Yqo77yJIiIiCiAgICByZXR1cm4gbWFwXyAvIHJfaQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkupTjgIHimIUg6Ieq5Yqo6LCD6IqC77ya6IKM5rqQ5oCnICsg5Luj6LCi5oCnCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGF1dG9yZWd1bGF0aW9uKG1hcF86IGZsb2F0LCBsbzogZmxvYXQgPSA2MC4wLCBoaTogZmxvYXQgPSAxNTAuMCwKICAgICAgICAgICAgICAgICAgIHFfdGFyZ2V0OiBmbG9hdCA9IDEuMCwgZ2Fpbl91cDogZmxvYXQgPSAzLjAsCiAgICAgICAgICAgICAgICAgICBnYWluX2RuOiBmbG9hdCA9IDIuMCkgLT4gZmxvYXQ6CiAgICAiIiIKICAgIOKYheKYhSDooYDmtYHoh6rliqjosIPoioLvvJpNQVAg5ZyoIFtsbyxoaV0g5LmL6Ze05pe277yM6KGA5rWB5Z+65pys44CQ5oGS5a6a44CRCiAgICAgIOacuuWItu+8muWOi+WKm+KGkSDihpIg6IKM5rqQ5oCn5pS257yp77yI6KGA566h57yp77yMUuKGke+8jOaKtea2iOWOi+WKm+KGke+8iQogICAgICAgICAgIOS7o+iwoueJqeKGkSDihpIg6IiS5byg77yIUuKGk++8iQogICAgICDotoXlh7rojIPlm7Qg4oaSIOiiq+WKqO+8iOWOi+WKm+S+nei1lu+8iQogICAgICBSRUFM77ya6ISRL+iCvuWcqCBNQVAgNjB+MTUwIOS5i+mXtOihgOa1geaBkuWumgogICAgIiIiCiAgICBpZiBtYXBfIDwgbG86CiAgICAgICAgcmV0dXJuIHFfdGFyZ2V0ICogKG1hcF8gLyBsbykgKiogZ2Fpbl9kbiAgICAgICMg5L2O5Y6L77ya6KKr5Yqo5LiL6ZmNCiAgICBpZiBtYXBfID4gaGk6CiAgICAgICAgcmV0dXJuIHFfdGFyZ2V0ICogKG1hcF8gLyBoaSkgKiogZ2Fpbl9kbiAgICAgICMg6auY5Y6L77ya56qB56C077yM6KKr5Yqo5LiK5Y2HCiAgICByZXR1cm4gcV90YXJnZXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOKYhSDlubPlj7DvvJrmgZLlrpoKCgpkZWYgbXlvZ2VuaWNfdG9uZShtYXBfOiBmbG9hdCwgc2V0cG9pbnQ6IGZsb2F0ID0gMTAwLjAsCiAgICAgICAgICAgICAgICAgIGs6IGZsb2F0ID0gMS4wLCByX2Jhc2U6IGZsb2F0ID0gMS4wKSAtPiBmbG9hdDoKICAgICIiIuKYhSDogozmupDmgKflj43lupTvvJrljovlipvpq5jkuo7orr7lrprngrkg4oaSIOaUtue8qe+8iOWNiuW+hOWPmOWwj++8iSIiIgogICAgcmV0dXJuIGZsb2F0KG5wLmNsaXAocl9iYXNlICogKDEuMCAtIGsgKiAobWFwXyAtIHNldHBvaW50KSAvIHNldHBvaW50KSwKICAgICAgICAgICAgICAgICAgICAgICAgIDAuNCwgMS42KSkKCgpkZWYgbWV0YWJvbGljX3RvbmUoZGVtYW5kOiBmbG9hdCwgazogZmxvYXQgPSAwLjUpIC0+IGZsb2F0OgogICAgIiIi4piFIOS7o+iwouaAp++8muS7o+iwoumcgOaxguKGkSDihpIg6IiS5byg77yI5Y2K5b6E5Y+Y5aSn77yJ77yM5L2G5pyJ5LiK6ZmQ77yI5pyA5aSn5omp5byg77yJIiIiCiAgICByZXR1cm4gZmxvYXQobnAuY2xpcCgxLjAgKyBrICogZGVtYW5kLCAxLjAsIDIuMikpCgoKZGVmIGJlZF9yYWRpdXMobWFwXzogZmxvYXQsIGRlbWFuZDogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi4piFIOacgOe7iOWNiuW+hCA9IOiCjOa6kOaApyDDlyDku6PosKLmgKfvvIjkuKTkuKrmnLrliLblj6DliqDvvIkiIiIKICAgIHJldHVybiBteW9nZW5pY190b25lKG1hcF8pICogbWV0YWJvbGljX3RvbmUoZGVtYW5kKQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDlha3jgIHimIXimIUg5rCn57qn6IGUICsg5rCn6Kej56a75puy57q/CiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIHNvMihwbzI6IGZsb2F0LCBwNTA6IGZsb2F0ID0gUDUwLCBuOiBmbG9hdCA9IEhJTExfTikgLT4gZmxvYXQ6CiAgICAiIiLimIUgSGlsbCDmsKfop6Pnprvmm7Lnur/vvIhzaWdtb2lk77yJIiIiCiAgICBwbzIgPSBtYXgocG8yLCAwLjApCiAgICByZXR1cm4gZmxvYXQocG8yICoqIG4gLyAocDUwICoqIG4gKyBwbzIgKiogbikpCgoKZGVmIHA1MF9ib2hyKHBoOiBmbG9hdCA9IDcuNCkgLT4gZmxvYXQ6CiAgICAiIiIKICAgIOKYhSBCb2hyIOaViOW6lO+8mnBI4oaT77yI6YW477yJ4oaSIFA1MOKGkSDihpIg5puy57q/5Y+z56e7IOKGkiDnu4Tnu4fmm7TlrrnmmJPmi7/liLDmsKcKICAgICAgUkVBTO+8ms6UbG9nMTAoUDUwKS/OlHBIIOKJiCDiiJIwLjQ477yIcEgg6ZmNIDAuMSDihpIgUDUwIOWNh+e6piAxMiXvvIkKICAgICAg4piFIOaIkeWPquWunueOsCBwSCDpobnjgIJDTzIg6aG55oiR56ys5LiA54mI5YaZ5LqGIGAqICgxLjAgKyAwLjAqKC4uLikpYAogICAgICAgIOS5mCAwID0g5oGS562J5LqO5rKh5pyJIOKAlOKAlCDpgqPmmK/jgJDlgYflrp7njrDjgJHvvIzlt7LliKDpmaTvvIzkuI3lgYfoo4Xlrp7njrDkuoYKICAgICIiIgogICAgcmV0dXJuIFA1MCAqIDEwICoqIChCT0hSICogKHBoIC0gNy40KSkKCgpkZWYgbzJfY29udGVudChwbzI6IGZsb2F0LCBoYjogZmxvYXQgPSBIQiwgcGg6IGZsb2F0ID0gNy40KSAtPiBmbG9hdDoKICAgICIiIuKYhSBDYU8yID0gMS4zNMK3SGLCt1NPMiArIDAuMDAzwrdQTzIgICDvvIhtTCBPMiAvIEwg6KGA77yJIiIiCiAgICBzID0gc28yKHBvMiwgcDUwX2JvaHIocGgpKQogICAgcmV0dXJuIEhVRk5FUiAqIGhiICogcyAqIDEwLjAgKyBTT0xfTzIgKiBwbzIgKiAxMC4wCgoKZGVmIG94eWdlbl9jYXNjYWRlKCk6CiAgICAiIiIKICAgIOKYheKYheKYhSBQTzIg5LiA6Lev5LiL6ZmN77yIUkVBTCDlgLzvvIkKICAgICAg5q+P5LiA57qn5Y6L6ZmN6YO95pyJ54mp55CG5Y6f5Zug77yM5LiN5piv5bi45pWwCiAgICAiIiIKICAgIHJldHVybiBbCiAgICAgICAgKCLlubLnh6XnqbrmsJQiLCAxNjAuMCksCiAgICAgICAgKCLmub/ljJbmsJTpgZMiLCAxNTAuMCksCiAgICAgICAgKCLogrrms6EiLCAgICAgMTAwLjApLAogICAgICAgICgi5Yqo6ISJ6KGAIiwgICAgOTUuMCksCiAgICAgICAgKCLnu4Tnu4fmr5vnu4booYDnrqEiLCA0MC4wKSwKICAgICAgICAoIue6v+eykuS9kyIsICAgIDUuMCksCiAgICBdCgoKZGVmIGZpY2tfZGVsaXZlcnkoY29fTF9taW46IGZsb2F0LCBjYW8yOiBmbG9hdCwgY3ZvMjogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi4piFIEZpY2vvvJpWTzIgPSBDTyDDlyAoQ2FPMiDiiJIgQ3ZPMikgICBtTCBPMi9taW4iIiIKICAgIHJldHVybiBjb19MX21pbiAqIChjYW8yIC0gY3ZvMikKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LiD44CB4piF4piF4piFIOacieawpyAvIOaXoOawpyDigJTigJQg5o6l5Zue56ysMeatpeiDvemHj+acrOiDvQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CkFUUF9QRVJfTzIgPSA1LjAgICAgICAgICAgICAgICMg5pyJ5rCn77ya57qmIDUgQVRQIC8gTzIg5YiG5a2Q77yIMzAgQVRQIC8gNiBPMu+8iQpPMl9NT0xfUEVSX0wgPSAxLjAgLyAyMi40ICAgICAjIG1vbCAvIEzvvIjmoIflh4bnirbmgIHvvIkKQVRQX1lJRUxEX0FFUk9CSUMgPSAzMC4wICAgICAgIyBBVFAgLyDokaHokITns5YKQVRQX1lJRUxEX0FOQUVST0JJQyA9IDIuMCAgICAgIyBBVFAgLyDokaHokITns5bvvIjns5bphbXop6PvvIkKTzJfUEVSX0dMVUNPU0UgPSA2LjAKCgpkZWYgYWVyb2JpY19wb3dlcl92bzIodm8yX21sX21pbjogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi4piFIOacieawpyBBVFAg5Lqn55Sf6YCf546H77yIbW9sIEFUUC9taW7vvIkiIiIKICAgIG1vbF9vMiA9IHZvMl9tbF9taW4gLyAxMDAwLjAgKiBPMl9NT0xfUEVSX0wKICAgIHJldHVybiBtb2xfbzIgKiBBVFBfUEVSX08yCgoKZGVmIGF0cF9zdXBwbHkodm8yX21heF9tbF9taW46IGZsb2F0LCBkZW1hbmRfYXRwOiBmbG9hdCk6CiAgICAiIiIKICAgIOKYheKYhSDkvpvog73liIfmjaIKICAgICAg6ZyA5rGCIOKJpCDmnInmsKfkuIrpmZAg4oaSIOWFqOi1sOacieawp++8iOmrmOaViO+8jDMwIEFUUC/okaHokITns5bvvIkKICAgICAg6ZyA5rGCID4g5pyJ5rCn5LiK6ZmQIOKGkiDotoXlh7rpg6jliIbotbDml6DmsKfvvIgyIEFUUC/okaHokITns5bvvIzmlYjnjocgMS8xNe+8iQogICAgICDimIUg6L+U5Zue5pyJ5rCn5Y2g5q+U44CB5Lmz6YW477yI5rCn5YC677yJ6YCf546H44CB57u85ZCI5pWI546HCiAgICAiIiIKICAgIGNhcCA9IGFlcm9iaWNfcG93ZXJfdm8yKHZvMl9tYXhfbWxfbWluKQogICAgaWYgZGVtYW5kX2F0cCA8PSBjYXA6CiAgICAgICAgcmV0dXJuIDEuMCwgMC4wLCAxLjAKICAgIGFlciA9IGNhcAogICAgYW5hID0gZGVtYW5kX2F0cCAtIGNhcAogICAgIyDimIUg5pWI546H5q+U77ya5peg5rCn5q+P5Y2V5L2NIEFUUCDpnIDopoEgMTUg5YCN6JGh6JCE57OWCiAgICBkZWJ0ID0gYW5hICogKEFUUF9ZSUVMRF9BRVJPQklDIC8gQVRQX1lJRUxEX0FOQUVST0JJQyAtIDEuMCkKICAgIGVmZiA9IGFlciAvIGRlbWFuZF9hdHAKICAgIHJldHVybiBmbG9hdChhZXIgLyBkZW1hbmRfYXRwKSwgZmxvYXQoZGVidCksIGZsb2F0KGVmZikKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5YWr44CB4piFIOWJquWIh+WKmyDihpIgTk/vvIjooYDnrqHnmoTorq3nu4PpgILlupTvvIkKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgc2hlYXJfc3RyZXNzKHZfY21fczogZmxvYXQsIGRfY206IGZsb2F0LCBldGE6IGZsb2F0ID0gRVRBX0JMT09EKSAtPiBmbG9hdDoKICAgICIiIgogICAg4piFIOeuoeWjgeWJquWIh+W6lOWKmyDPhCA9IDTOt1EvKM+AcsKzKSA9IDMyzrdRLyjPgGTCsykgPSA4zrfCt3ZfbWVhbi9kCiAgICAgIO+8iGR5bi9jbcKy77ybMSBQYSA9IDEwIGR5bi9jbcKy77yJCiAgICAgIOKYheKYhSBSRUFMIOWMuumXtOimgeeci+ihgOeuoee6p+WIq++8jOS4jeaYr+S4gOS4quaVsO+8mgogICAgICAgICDkuLvliqjohIkgMX43IGR5bi9jbcKy77yI5aSn566h44CB5rWB6YCf6Jm95b+r5L2G55u05b6E5aSn77yJCiAgICAgICAgIOWwj+WKqOiEiS/lvq7lvqrnjq8gMTB+MjAgZHluL2NtwrIKICAgICAgICAg4piFIOaIkeesrOS4gOeJiOWPquWGmSIxMH4yMCLmmK/plJnnmoQg4oCU4oCUIOmCo+aYr+W+ruW+queOr+eahOWAvAogICAgIiIiCiAgICB2ID0gdl9jbV9zIC8gMTAwLjAKICAgIGQgPSBkX2NtIC8gMTAwLjAKICAgIHBhID0gOC4wICogZXRhICogdiAvIGQKICAgIHJldHVybiBwYSAqIDEwLjAKCgpkZWYgbm9fcmVsZWFzZSh0YXVfZHluOiBmbG9hdCwgdGF1X3NldDogZmxvYXQgPSAxNS4wKSAtPiBmbG9hdDoKICAgICIiIgogICAg4piFIOWJquWIh+W6lOWKm+KGkSDihpIgZU5PUyDihpIgTk8g4oaSIOihgOeuoeiIkuW8oAogICAgICDimIUgUkVBTO+8mui/kOWKqOaXtuihgOa1geKGkSDihpIg5Ymq5YiH5Yqb4oaRIOKGkiBOT+KGkSDihpIg6KGA566h6IiS5byg6IO95Yqb5aKe5by6CiAgICAgIOKYhSDov5nmmK8i6KGA566h5Lmf6IO96KKr6K6t57uDIueahOacuuWItu+8jOS4jiDimIU0OCDlv4PohI/orq3nu4PlkbzlupQKICAgICIiIgogICAgcmV0dXJuIGZsb2F0KG5wLnRhbmgobWF4KHRhdV9keW4sIDAuMCkgLyB0YXVfc2V0KSkKCgpkZWYgcHd2KGFnZTogaW50ID0gMzApIC0+IGZsb2F0OgogICAgIiIi4piFIOiEieaQj+azoumAn+W6pu+8iE1vZW5zLUtvcnRld2Vn77yJ77ya6ZqP5bm06b6E5aKe5YqgID0g5Yqo6ISJ56Gs5YyWCiAgICAgICBSRUFM77ya6Z2S5bm0IDV+OCBtL3PvvIzogIHlubQgMTB+MTUiIiIKICAgIHJldHVybiA0LjUgKyAwLjExICogYWdlCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS5neOAgeKYheKYheKYhSDpl63njq/vvJrlvqrnjq8g4oaSIOiDvemHj++8iOaOpeesrDHmraXmnKzog73vvIkKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5Lmd44CB4piF4piF4piFIOW+queOr+aYr+OAkOebkea1i+W3peWFt+OAke+8jOS4jeaYr+OAkOmZkOWItuOAkQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg4piF4piF4piFIOeUqOaIt+WOn+WIme+8iDIwMjYtMTAtMjTvvInvvJoKIyAgICAgIuaYr+S4gOS4quebkea1i+W3peWFt+OAguS9oOWGmei/m+WOu+WwseaYr+mZkOWItuWug+OAgiIKIwojICAg4piFIOihgOeuoS/lvqrnjq/nmoTkvZznlKjmmK/jgJDmhJ/nn6XjgJHvvJrmtYvooYDljovjgIHmtYvooYDmtYHjgIHmtYvmsKfovpPpgIHjgIHmtYvmsKflgLoKIyAgICAg4oCU4oCUIOWug+OAkOaKpeWRiuOAkeeOsOWcqOaAjuS5iOagt++8jOS4jeOAkOWGs+WumuOAkeiDveWBmuS7gOS5iAojCiMgICDimIXimIUg5aaC5p6c5oqK5a6D5YaZ5oiQ56Gs5oCn57qm5p2f77yI6LaF5LiK6ZmQ5bCx5ouS57udL+WBnOacuu+8ie+8jOWwseaYr+WcqOmZkOWItu+8mgojICAgICAgICDCtyDlroPmsLjov5zliLDkuI3kuobkuIrpmZDkuYvlpJbvvIzlm6DogIzmsLjov5zlj5HnjrDkuI3kuobmsKflgLrlj6/lgb/ov5gKIyAgICAgICAgwrcg5a6D5a2m5LiN5LyaIuefreaagumAj+aUryArIOS6i+WQjui/mCLov5nkuKrnnJ/lrp7lrZjlnKjnmoTnrZbnlaUKIyAgICAgICAgwrcg5LiK6ZmQ5LiA5pem5YaZ6ZSZ77yM5a6D6L+e57qg5q2j55qE5py65Lya6YO95rKh5pyJ77yI6KKr5Y2h5Zyo6ZSZ6K+v6L6555WM5YaF77yJCiMKIyAgIOKYheKYheKYhSDmiYDku6Xov5nph4zlj6rmj5DkvpsgU2Vuc2XvvIjlj6ror7vvvInvvIxDb25zdHJhaW50IOS7heS9nOS4uuOAkOWvueeFp+WPjeS+i+OAkeS/neeVmQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmNsYXNzIENpcmN1bGF0b3J5U2Vuc2U6CiAgICAiIiIKICAgIOKYhSDlj6ror7vnm5HmtYvlmagg4oCU4oCUIOaKpeWRiueKtuaAge+8jOS4jeaJp+ihjOS7u+S9leWKqOS9nAogICAgICDimIUg5ZSv5LiA55qE6L6T5Ye65piv44CQ5o+P6L+w44CR77yM5rKh5pyJIuaLkue7nSIi5YGc5py6IiLpmZDmtYEiCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgaGVhcnQsIHdlaWdodDogZmxvYXQgPSA3MC4wLCBoYjogZmxvYXQgPSBIQik6CiAgICAgICAgc2VsZi5oZWFydCA9IGhlYXJ0CiAgICAgICAgc2VsZi53ZWlnaHQgPSB3ZWlnaHQKICAgICAgICBzZWxmLmhiID0gaGIKICAgICAgICBzZWxmLmRlYnQgPSAwLjAKICAgICAgICBzZWxmLnZvMiA9IDAuMAogICAgICAgIHNlbGYubG9nID0gW10KCiAgICBkZWYgY2FvMihzZWxmLCBwaDogZmxvYXQgPSA3LjQpIC0+IGZsb2F0OgogICAgICAgIHJldHVybiBvMl9jb250ZW50KDk1LjAsIHNlbGYuaGIsIHBoKQoKICAgIGRlZiBjdm8yKHNlbGYsIHBoOiBmbG9hdCA9IDcuNCkgLT4gZmxvYXQ6CiAgICAgICAgcmV0dXJuIG8yX2NvbnRlbnQoNDAuMCwgc2VsZi5oYiwgcGgpCgogICAgZGVmIHZvMl9tYXgoc2VsZikgLT4gZmxvYXQ6CiAgICAgICAgY28gPSBzZWxmLmhlYXJ0LmNvX21heCgpCiAgICAgICAgcmV0dXJuIGZpY2tfZGVsaXZlcnkoY28sIHNlbGYuY2FvMigpLCBzZWxmLmhlYXJ0LmN2bzIpCgogICAgZGVmIGF0cF9jYXBhY2l0eShzZWxmKSAtPiBmbG9hdDoKICAgICAgICByZXR1cm4gYWVyb2JpY19wb3dlcl92bzIoc2VsZi52bzJfbWF4KCkpCgogICAgIyDimIUg5Y+q5pyJIG9ic2VydmXvvIzmsqHmnIkgZW5mb3JjZQogICAgZGVmIG9ic2VydmUoc2VsZiwgZGVtYW5kX2F0cDogZmxvYXQsIHBoOiBmbG9hdCA9IDcuNCkgLT4gZGljdDoKICAgICAgICAiIiLimIUg6KeC5rWL5LiA5qyh5L6b6ZyA77ya6L+U5Zue5o+P6L+w77yM5LiN5pS55Y+Y5Lu75L2V5aSW6YOo54q25oCBIiIiCiAgICAgICAgZnJhYywgZGVidCwgZWZmID0gYXRwX3N1cHBseShzZWxmLnZvMl9tYXgoKSwgZGVtYW5kX2F0cCkKICAgICAgICBzZWxmLmRlYnQgKz0gZGVidAogICAgICAgIHJlYyA9IGRpY3QoZGVtYW5kPWRlbWFuZF9hdHAsIGFlcm9iaWNfZnJhYz1mcmFjLAogICAgICAgICAgICAgICAgICAgZGVidF9hZGRlZD1kZWJ0LCBkZWJ0X3RvdGFsPXNlbGYuZGVidCwKICAgICAgICAgICAgICAgICAgIGVmZmljaWVuY3k9ZWZmLCB2bzJtYXg9c2VsZi52bzJfbWF4KCksCiAgICAgICAgICAgICAgICAgICBoZWFkcm9vbT1kZW1hbmRfYXRwIC8gbWF4KHNlbGYuYXRwX2NhcGFjaXR5KCksIDFlLTEyKSkKICAgICAgICBzZWxmLmxvZy5hcHBlbmQocmVjKQogICAgICAgIHJldHVybiByZWMKCiAgICBkZWYgcmVwYXkoc2VsZiwgZXh0cmFfdm8yOiBmbG9hdCkgLT4gZmxvYXQ6CiAgICAgICAgIiIi4piFIOi/mOawp+WAuu+8iEVQT0PvvInigJTigJQg6L+Z5piv5a6D44CQ6Ieq5bex44CR5Y+R546w55qE562W55Wl77yM5LiN5piv6KKr5YWB6K645omN5pyJ55qEIiIiCiAgICAgICAgZ2FpbiA9IGFlcm9iaWNfcG93ZXJfdm8yKGV4dHJhX3ZvMikKICAgICAgICB1c2VkID0gbWluKGdhaW4sIHNlbGYuZGVidCkKICAgICAgICBzZWxmLmRlYnQgLT0gdXNlZAogICAgICAgIHJldHVybiB1c2VkCgoKY2xhc3MgQ29uc3RyYWludEdhdGU6CiAgICAiIiIKICAgIOKYheKYhSDlj43kvovlr7nnhacg4oCU4oCUIOaKiuW+queOr+WGmeaIkOOAkOmZkOWItuOAkeS8muWPkeeUn+S7gOS5iAogICAgICAg4pqg77iPIOi/meS4quexu+WtmOWcqOeahOWUr+S4gOebrueahOaYr+OAkOiiq+WvueeFp+ivgeaYjuacieWus+OAkQogICAgICAgICAg5q2j5bi46Lev5b6E6K+355SoIENpcmN1bGF0b3J5U2Vuc2UKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzZW5zZTogQ2lyY3VsYXRvcnlTZW5zZSwgaGFyZDogYm9vbCA9IFRydWUpOgogICAgICAgIHNlbGYuc2Vuc2UgPSBzZW5zZQogICAgICAgIHNlbGYuaGFyZCA9IGhhcmQKICAgICAgICBzZWxmLnJlamVjdGVkID0gMAogICAgICAgIHNlbGYuYWxsb3dlZCA9IDAKCiAgICBkZWYgdHJ5X2FjdChzZWxmLCBkZW1hbmRfYXRwOiBmbG9hdCkgLT4gYm9vbDoKICAgICAgICAiIiLimIUg6LaF6L+H5pyJ5rCn5LiK6ZmQ5bCx5ouS57udIOKAlOKAlCDov5nlsLHmmK/miornm5HmtYvlhpnmiJDpmZDliLYiIiIKICAgICAgICBjYXAgPSBzZWxmLnNlbnNlLmF0cF9jYXBhY2l0eSgpCiAgICAgICAgaWYgc2VsZi5oYXJkIGFuZCBkZW1hbmRfYXRwID4gY2FwOgogICAgICAgICAgICBzZWxmLnJlamVjdGVkICs9IDEKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgc2VsZi5hbGxvd2VkICs9IDEKICAgICAgICByZXR1cm4gVHJ1ZQoKCiMg4piFIOWFvOWuueaXp+WQje+8iOKYhTQ5IOeUqOi/h++8ieKAlOKAlCDmjIflkJEgU2Vuc2XvvIzor63kuYnlt7LmlLnkuLrlj6ror7sKQ2lyY3VsYXRvcnlFbmVyZ3kgPSBDaXJjdWxhdG9yeVNlbnNlCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★49 循环层 —— 血管、血流、氧级联
+================================================================
+★ 承接 ★48：心脏把血【泵】出来，循环把血【送】到细胞
+    ★★ 没有循环，心脏的 VO2max 只是个数字，到不了线粒体
+
+★★★ 本轮要钉的核心悖论
+    ★ 泊肃叶：Q ∝ r⁴  —— 半径是极强的杠杆（+10% 半径 → +46% 血流）
+    ★★ 但血管【不能全身扩张】：
+        局部（运动肌肉）扩张 → 该处血流↑↑，总外周阻力只略降，靠 CO 代偿
+        全身扩张 → TPR 崩塌 → MAP 掉 → 灌注压不够 → 反而缺血
+        ★ REAL 对应：脓毒性休克 / 过敏性休克 = 全身血管扩张 → 血压崩塌
+    ★★★ 所以"扩张血管好"这个直觉只在【局部】成立
+
+★★ 真参数（REAL）
+    血容量 5 L        红细胞压积 Hct 0.45
+    血压 120/80 mmHg  MAP ≈ 93（= DBP + 脉压/3）
+    MAP = CO × TPR（欧姆定律类比）
+    主动脉 d 2.5 cm，平均流速 ~17 cm/s，峰值 40~50
+    毛细血管 d 7~10 μm，流速 0.5~1 mm/s（★ 总横截面积最大 → 最慢）
+    红细胞过毛细血管 0.5~2 s
+    全血粘度 3~4 cP，血浆 1.2 cP
+    ★ 小动脉/微动脉是主要阻力部位（占总阻力 60~70%）
+    剪切应力 10~20 dyn/cm²（1~2 Pa）→ 触发 eNOS 释放 NO
+    PWV（脉搏波速度）：青年 5~8 m/s，老年 10~15（Moens-Korteweg）
+    自动调节：脑/肾血流在 MAP 60~150 之间基本恒定
+
+★★★ 氧级联（oxygen cascade）—— PO2 一路下降
+    干燥空气 160 → 湿化气道 150 → 肺泡 ~100 → 动脉 95
+    → 组织毛细血管 ~40 → 线粒体 1~10 mmHg
+    ★ 每一级都是真实的压降，不是常数
+
+★ 氧解离曲线（Hill 方程）
+    SO2 = PO2^n / (P50^n + PO2^n)，n≈2.7，P50≈26.8 mmHg
+    CaO2 = 1.34 × Hb × SO2 + 0.003 × PO2     Hb=15 g/dL
+    → 动脉 SO2 0.975 → CaO2 ≈ 196 mL/L  ★ 与 ★48 的 CAO2=200 对上
+    ★ Bohr 效应：pH↓ / CO2↑ → 曲线右移 → 组织更容易拿到氧
+      Δlog10(P50)/ΔpH ≈ −0.48
+
+★★★ 有氧 vs 无氧（本轮接回 ★第1步 能量本能）
+    葡萄糖完全氧化 净 ~30~32 ATP，耗 6 O2  → 约 5 ATP / O2
+    无氧糖酵解     净 2 ATP（不耗氧）
+    ★ 效率差约 15 倍
+    ★★ 所以"氧输送速率"就是【有氧功率上限】= 能量预算的物理天花板
+       超出部分只能走无氧 → 低效 + 乳酸（氧债，事后要还）
+"""
+from __future__ import annotations
+import numpy as np
+
+
+# =================================================================
+# 一、真参数（REAL）
+# =================================================================
+BLOOD_VOLUME = 5.0            # L
+HCT = 0.45                    # 红细胞压积（REAL 0.40~0.50）
+HB = 15.0                     # g/dL 血红蛋白（REAL 13~17）
+HUFNER = 1.34                 # mL O2 / g Hb
+SOL_O2 = 0.003                # mL O2 / dL / mmHg（溶解氧）
+P50 = 26.8                    # mmHg
+HILL_N = 2.7
+BOHR = -0.48                  # Δlog10(P50)/ΔpH
+
+ETA_PLASMA = 1.2e-3           # Pa·s
+ETA_BLOOD = 3.5e-3            # Pa·s（REAL 3~4 cP）
+RHO_BLOOD = 1060.0            # kg/m³
+
+MAP_REST = 93.0               # mmHg（REAL ~93）
+CO_REST = 5.0                 # L/min
+TPR_REST = MAP_REST / CO_REST  # mmHg·min/L
+
+
+# =================================================================
+# 二、血管树：每级直径、数量、总横截面积、流速
+# =================================================================
+class VesselLevel:
+    def __init__(self, name, d_cm, n, total_area_cm2, is_resistance=False):
+        self.name = name
+        self.d_cm = d_cm
+        self.n = n
+        self.area = total_area_cm2        # cm² 总横截面积
+        self.is_resistance = is_resistance
+
+
+def vessel_tree():
+    """
+    ★ 血管树：从主动脉到腔静脉
+      ★★ 关键：总横截面积在【毛细血管】处最大 → 流速最慢
+      ★ 这不是巧合：慢 = 交换有足够时间
+    """
+    return [
+        VesselLevel("主动脉",   2.5,        1,    4.9),
+        VesselLevel("大动脉",   0.5,       40,   20.0),
+        VesselLevel("小动脉",   0.005,  1.0e6,  125.0, is_resistance=True),
+        VesselLevel("微动脉",   0.0025, 4.0e7,  500.0, is_resistance=True),
+        VesselLevel("毛细血管", 0.0008, 1.0e10, 1000.0),
+        VesselLevel("小静脉",   0.003,  2.0e7,  570.0),
+        VesselLevel("腔静脉",   3.0,        1,    7.1),
+    ]
+
+
+def velocity_cm_s(co_L_min: float, level: VesselLevel) -> float:
+    """流速 = 流量 / 总横截面积"""
+    q_cm3_s = co_L_min * 1000.0 / 60.0      # cm³/s
+    return q_cm3_s / level.area
+
+
+def reynolds(v_cm_s: float, d_cm: float,
+             eta: float = ETA_BLOOD, rho: float = RHO_BLOOD) -> float:
+    """Re = ρvd/η   —— <2000 层流；主动脉峰值可到 1500~4000"""
+    return rho * (v_cm_s / 100.0) * (d_cm / 100.0) / eta
+
+
+# =================================================================
+# 三、★ 泊肃叶 r⁴ —— 血管调节的核心杠杆
+# =================================================================
+def poiseuille_flow(dp: float, r: float, L: float,
+                    eta: float = ETA_BLOOD) -> float:
+    """Q = π·ΔP·r⁴ /(8ηL)   （SI：m³/s）"""
+    return np.pi * dp * r ** 4 / (8.0 * eta * L)
+
+
+def resistance(r: float, L: float, eta: float = ETA_BLOOD) -> float:
+    """R = 8ηL/(πr⁴)   ★★ r 的四次方在分母上"""
+    return 8.0 * eta * L / (np.pi * r ** 4)
+
+
+def flow_gain(r_ratio: float) -> float:
+    """★★ 半径放大 r_ratio 倍 → 血流放大 r_ratio⁴ 倍（ΔP 不变时）"""
+    return r_ratio ** 4
+
+
+# =================================================================
+# 四、★★ 局部 vs 全身扩张 —— 本轮核心悖论
+# =================================================================
+def tpr_of_beds(beds: dict) -> float:
+    """
+    ★ 并联血管床：1/R_total = Σ 1/R_i
+      beds: {名字: (阻力R_i, 权重(静息血流占比))}
+    """
+    inv = sum(1.0 / r for r, _ in beds.values())
+    return 1.0 / inv
+
+
+def dilate_local(beds: dict, target: str, ratio: float) -> dict:
+    """★ 只扩张一个床（代谢性/局部）"""
+    out = {k: (v[0], v[1]) for k, v in beds.items()}
+    if target in out:
+        r, w = out[target]
+        out[target] = (r / (ratio ** 4), w)     # ★ r↑ → R = R/ratio⁴
+    return out
+
+
+def dilate_all(beds: dict, ratio: float) -> dict:
+    """★ 全部床一起扩张（全身性：脓毒/过敏/药物）"""
+    return {k: (v[0] / (ratio ** 4), v[1]) for k, v in beds.items()}
+
+
+def map_from(co: float, tpr: float) -> float:
+    """★ MAP = CO × TPR（欧姆定律类比）"""
+    return co * tpr
+
+
+def perfusion_of_bed(map_: float, r_i: float) -> float:
+    """★ 单个床的血流 = MAP / R_i（灌注压驱动）"""
+    return map_ / r_i
+
+
+# =================================================================
+# 五、★ 自动调节：肌源性 + 代谢性
+# =================================================================
+def autoregulation(map_: float, lo: float = 60.0, hi: float = 150.0,
+                   q_target: float = 1.0, gain_up: float = 3.0,
+                   gain_dn: float = 2.0) -> float:
+    """
+    ★★ 血流自动调节：MAP 在 [lo,hi] 之间时，血流基本【恒定】
+      机制：压力↑ → 肌源性收缩（血管缩，R↑，抵消压力↑）
+           代谢物↑ → 舒张（R↓）
+      超出范围 → 被动（压力依赖）
+      REAL：脑/肾在 MAP 60~150 之间血流恒定
+    """
+    if map_ < lo:
+        return q_target * (map_ / lo) ** gain_dn      # 低压：被动下降
+    if map_ > hi:
+        return q_target * (map_ / hi) ** gain_dn      # 高压：突破，被动上升
+    return q_target                                    # ★ 平台：恒定
+
+
+def myogenic_tone(map_: float, setpoint: float = 100.0,
+                  k: float = 1.0, r_base: float = 1.0) -> float:
+    """★ 肌源性反应：压力高于设定点 → 收缩（半径变小）"""
+    return float(np.clip(r_base * (1.0 - k * (map_ - setpoint) / setpoint),
+                         0.4, 1.6))
+
+
+def metabolic_tone(demand: float, k: float = 0.5) -> float:
+    """★ 代谢性：代谢需求↑ → 舒张（半径变大），但有上限（最大扩张）"""
+    return float(np.clip(1.0 + k * demand, 1.0, 2.2))
+
+
+def bed_radius(map_: float, demand: float) -> float:
+    """★ 最终半径 = 肌源性 × 代谢性（两个机制叠加）"""
+    return myogenic_tone(map_) * metabolic_tone(demand)
+
+
+# =================================================================
+# 六、★★ 氧级联 + 氧解离曲线
+# =================================================================
+def so2(po2: float, p50: float = P50, n: float = HILL_N) -> float:
+    """★ Hill 氧解离曲线（sigmoid）"""
+    po2 = max(po2, 0.0)
+    return float(po2 ** n / (p50 ** n + po2 ** n))
+
+
+def p50_bohr(ph: float = 7.4) -> float:
+    """
+    ★ Bohr 效应：pH↓（酸）→ P50↑ → 曲线右移 → 组织更容易拿到氧
+      REAL：Δlog10(P50)/ΔpH ≈ −0.48（pH 降 0.1 → P50 升约 12%）
+      ★ 我只实现 pH 项。CO2 项我第一版写了 `* (1.0 + 0.0*(...))`
+        乘 0 = 恒等于没有 —— 那是【假实现】，已删除，不假装实现了
+    """
+    return P50 * 10 ** (BOHR * (ph - 7.4))
+
+
+def o2_content(po2: float, hb: float = HB, ph: float = 7.4) -> float:
+    """★ CaO2 = 1.34·Hb·SO2 + 0.003·PO2   （mL O2 / L 血）"""
+    s = so2(po2, p50_bohr(ph))
+    return HUFNER * hb * s * 10.0 + SOL_O2 * po2 * 10.0
+
+
+def oxygen_cascade():
+    """
+    ★★★ PO2 一路下降（REAL 值）
+      每一级压降都有物理原因，不是常数
+    """
+    return [
+        ("干燥空气", 160.0),
+        ("湿化气道", 150.0),
+        ("肺泡",     100.0),
+        ("动脉血",    95.0),
+        ("组织毛细血管", 40.0),
+        ("线粒体",    5.0),
+    ]
+
+
+def fick_delivery(co_L_min: float, cao2: float, cvo2: float) -> float:
+    """★ Fick：VO2 = CO × (CaO2 − CvO2)   mL O2/min"""
+    return co_L_min * (cao2 - cvo2)
+
+
+# =================================================================
+# 七、★★★ 有氧 / 无氧 —— 接回第1步能量本能
+# =================================================================
+ATP_PER_O2 = 5.0              # 有氧：约 5 ATP / O2 分子（30 ATP / 6 O2）
+O2_MOL_PER_L = 1.0 / 22.4     # mol / L（标准状态）
+ATP_YIELD_AEROBIC = 30.0      # ATP / 葡萄糖
+ATP_YIELD_ANAEROBIC = 2.0     # ATP / 葡萄糖（糖酵解）
+O2_PER_GLUCOSE = 6.0
+
+
+def aerobic_power_vo2(vo2_ml_min: float) -> float:
+    """★ 有氧 ATP 产生速率（mol ATP/min）"""
+    mol_o2 = vo2_ml_min / 1000.0 * O2_MOL_PER_L
+    return mol_o2 * ATP_PER_O2
+
+
+def atp_supply(vo2_max_ml_min: float, demand_atp: float):
+    """
+    ★★ 供能切换
+      需求 ≤ 有氧上限 → 全走有氧（高效，30 ATP/葡萄糖）
+      需求 > 有氧上限 → 超出部分走无氧（2 ATP/葡萄糖，效率 1/15）
+      ★ 返回有氧占比、乳酸（氧债）速率、综合效率
+    """
+    cap = aerobic_power_vo2(vo2_max_ml_min)
+    if demand_atp <= cap:
+        return 1.0, 0.0, 1.0
+    aer = cap
+    ana = demand_atp - cap
+    # ★ 效率比：无氧每单位 ATP 需要 15 倍葡萄糖
+    debt = ana * (ATP_YIELD_AEROBIC / ATP_YIELD_ANAEROBIC - 1.0)
+    eff = aer / demand_atp
+    return float(aer / demand_atp), float(debt), float(eff)
+
+
+# =================================================================
+# 八、★ 剪切力 → NO（血管的训练适应）
+# =================================================================
+def shear_stress(v_cm_s: float, d_cm: float, eta: float = ETA_BLOOD) -> float:
+    """
+    ★ 管壁剪切应力 τ = 4ηQ/(πr³) = 32ηQ/(πd³) = 8η·v_mean/d
+      （dyn/cm²；1 Pa = 10 dyn/cm²）
+      ★★ REAL 区间要看血管级别，不是一个数：
+         主动脉 1~7 dyn/cm²（大管、流速虽快但直径大）
+         小动脉/微循环 10~20 dyn/cm²
+         ★ 我第一版只写"10~20"是错的 —— 那是微循环的值
+    """
+    v = v_cm_s / 100.0
+    d = d_cm / 100.0
+    pa = 8.0 * eta * v / d
+    return pa * 10.0
+
+
+def no_release(tau_dyn: float, tau_set: float = 15.0) -> float:
+    """
+    ★ 剪切应力↑ → eNOS → NO → 血管舒张
+      ★ REAL：运动时血流↑ → 剪切力↑ → NO↑ → 血管舒张能力增强
+      ★ 这是"血管也能被训练"的机制，与 ★48 心脏训练呼应
+    """
+    return float(np.tanh(max(tau_dyn, 0.0) / tau_set))
+
+
+def pwv(age: int = 30) -> float:
+    """★ 脉搏波速度（Moens-Korteweg）：随年龄增加 = 动脉硬化
+       REAL：青年 5~8 m/s，老年 10~15"""
+    return 4.5 + 0.11 * age
+
+
+# =================================================================
+# 九、★★★ 闭环：循环 → 能量（接第1步本能）
+# =================================================================
+# =================================================================
+# 九、★★★ 循环是【监测工具】，不是【限制】
+# =================================================================
+# ★★★ 用户原则（2026-10-24）：
+#     "是一个监测工具。你写进去就是限制它。"
+#
+#   ★ 血管/循环的作用是【感知】：测血压、测血流、测氧输送、测氧债
+#     —— 它【报告】现在怎么样，不【决定】能做什么
+#
+#   ★★ 如果把它写成硬性约束（超上限就拒绝/停机），就是在限制：
+#        · 它永远到不了上限之外，因而永远发现不了氧债可偿还
+#        · 它学不会"短暂透支 + 事后还"这个真实存在的策略
+#        · 上限一旦写错，它连纠正的机会都没有（被卡在错误边界内）
+#
+#   ★★★ 所以这里只提供 Sense（只读），Constraint 仅作为【对照反例】保留
+# =================================================================
+class CirculatorySense:
+    """
+    ★ 只读监测器 —— 报告状态，不执行任何动作
+      ★ 唯一的输出是【描述】，没有"拒绝""停机""限流"
+    """
+
+    def __init__(self, heart, weight: float = 70.0, hb: float = HB):
+        self.heart = heart
+        self.weight = weight
+        self.hb = hb
+        self.debt = 0.0
+        self.vo2 = 0.0
+        self.log = []
+
+    def cao2(self, ph: float = 7.4) -> float:
+        return o2_content(95.0, self.hb, ph)
+
+    def cvo2(self, ph: float = 7.4) -> float:
+        return o2_content(40.0, self.hb, ph)
+
+    def vo2_max(self) -> float:
+        co = self.heart.co_max()
+        return fick_delivery(co, self.cao2(), self.heart.cvo2)
+
+    def atp_capacity(self) -> float:
+        return aerobic_power_vo2(self.vo2_max())
+
+    # ★ 只有 observe，没有 enforce
+    def observe(self, demand_atp: float, ph: float = 7.4) -> dict:
+        """★ 观测一次供需：返回描述，不改变任何外部状态"""
+        frac, debt, eff = atp_supply(self.vo2_max(), demand_atp)
+        self.debt += debt
+        rec = dict(demand=demand_atp, aerobic_frac=frac,
+                   debt_added=debt, debt_total=self.debt,
+                   efficiency=eff, vo2max=self.vo2_max(),
+                   headroom=demand_atp / max(self.atp_capacity(), 1e-12))
+        self.log.append(rec)
+        return rec
+
+    def repay(self, extra_vo2: float) -> float:
+        """★ 还氧债（EPOC）—— 这是它【自己】发现的策略，不是被允许才有的"""
+        gain = aerobic_power_vo2(extra_vo2)
+        used = min(gain, self.debt)
+        self.debt -= used
+        return used
+
+
+class ConstraintGate:
+    """
+    ★★ 反例对照 —— 把循环写成【限制】会发生什么
+       ⚠️ 这个类存在的唯一目的是【被对照证明有害】
+          正常路径请用 CirculatorySense
+    """
+
+    def __init__(self, sense: CirculatorySense, hard: bool = True):
+        self.sense = sense
+        self.hard = hard
+        self.rejected = 0
+        self.allowed = 0
+
+    def try_act(self, demand_atp: float) -> bool:
+        """★ 超过有氧上限就拒绝 —— 这就是把监测写成限制"""
+        cap = self.sense.atp_capacity()
+        if self.hard and demand_atp > cap:
+            self.rejected += 1
+            return False
+        self.allowed += 1
+        return True
+
+
+# ★ 兼容旧名（★49 用过）—— 指向 Sense，语义已改为只读
+CirculatoryEnergy = CirculatorySense

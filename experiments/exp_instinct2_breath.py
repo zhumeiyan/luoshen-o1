@@ -1,1 +1,125 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5pys6IO95bGCIOesrDLmraUgwrcg5ZG85ZC4L+awp+awlCDigJTigJQg5a+554Wn5a6e6aqMCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuS6uuexu++8mue8uuawp+WHoOWIhumSn+Wwseatu++8iOW/q++8ie+8m+mlv+atu+imgeWHoOWkqe+8iOaFou+8ieOAggrmiYDku6XnrKwy5q2l5b+F6aG76aqM55qE44CQ56Gs54m55oCn44CR5piv77yaCiAgICDnqpLmga/mrbvlv4Xpobvmr5Tppb/mrbvlv6sg4oCU4oCUIOWQpuWImeWug+WwseS4jeaYr+WRvOWQuOacrOiDve+8jOWPquaYr+WPiOS4gOenjemlv+OAggoK6aqM5Zub5Lu25LqL77yaCiAgICDikaAg5pat5L6b55yf6IO96Kem5Y+R56qS5oGv5q27CiAgICDikaEg56qS5oGv5q+U6aW/5q275b+r77yI6L+Z5piv5ZG85ZC455qE5a6a5LmJ5oCn54m55b6B77yJCiAgICDikaIg5q275Zug5Y+v5Yy65YiG77yI56qS5oGvIC8g6aW/5q27IC8g6LaF5pSv77yM5LiJ56eN5LiN6IO95re377yJCiAgICDikaMg56ysMeatpSvnrKwy5q2l6IO95Liy6IGU77yI5pys6IO95piv5Y+g5Yqg55qE77yM5LiN5piv5LqS5pal55qE77yJCiIiIgppbXBvcnQgb3MsIHN5cywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQpmcm9tIGNvcmUuaW5zdGluY3QxX2VuZXJneSBpbXBvcnQgRW5lcmd5SW5zdGluY3QKZnJvbSBjb3JlLmluc3RpbmN0Ml9icmVhdGggaW1wb3J0IEJyZWF0aEluc3RpbmN0CgpERUFEX0hPU1QgPSAiaHR0cHM6Ly8xMjcuMC4wLjE6OSIgICAgICAgICMg5b+F54S25LiN5Y+v6L6+IOKGkiDmqKHmi5/mlq3kvpsKU1RFUFMgPSAzMDAKCmRlZiBjYXVzZShMLCBCPU5vbmUsIEk9Tm9uZSk6CiAgICBpZiBCIGlzIG5vdCBOb25lIGFuZCBCLmRlYXRoX2NhdXNlOiByZXR1cm4gQi5kZWF0aF9jYXVzZQogICAgaWYgSSBpcyBub3QgTm9uZSBhbmQgZ2V0YXR0cihJLCAic2h1dGRvd25fYXQiLCBOb25lKSBpcyBub3QgTm9uZTogcmV0dXJuICJidWRnZXRfb3ZlcnJ1biIKICAgIGlmIG5vdCBMLmFsaXZlOiByZXR1cm4gInN0YXJ2ZSIKICAgIHJldHVybiBOb25lCgojIOKRoCDmlq3kvpsgdnMg5q2j5bi45L6b5rCnCmRlZiBydW5fc3VwcGx5KHNlZWQsIGhvc3QsIGFwbmVhX2xpbWl0PTEyLCBzdGVwcz1TVEVQUyk6CiAgICBMID0gTGlmZTUoTj04LCBzZWVkPXNlZWQpCiAgICBCID0gQnJlYXRoSW5zdGluY3QoTCwgbmV0X2hvc3Q9aG9zdCwgbmV0X2V2ZXJ5PTUsIGFwbmVhX2xpbWl0PWFwbmVhX2xpbWl0LCBjb25maXJtX2s9MykKICAgIEIucnVuKHN0ZXBzKQogICAgcmV0dXJuIGRpY3QoYWxpdmU9TC5hbGl2ZSwgdD1CLnQsIGNhdXNlPWNhdXNlKEwsIEI9QiksCiAgICAgICAgICAgICAgICBhcG5lYT1tYXgoQi5hcG5lYV9oaXN0KSBpZiBCLmFwbmVhX2hpc3QgZWxzZSAwLAogICAgICAgICAgICAgICAgZXZlbnRzPWxlbihCLmV2ZW50cykpCgojIOKRoSDnqpLmga8gdnMg6aW/5q2777yM6LCB5b+r77yI6YO955So5pyA5b+r5qGj77yJCmRlZiBydW5fc3BlZWQoa2luZCwgc2VlZCwgc3RlcHM9U1RFUFMpOgogICAgTCA9IExpZmU1KE49OCwgc2VlZD1zZWVkKQogICAgaWYga2luZCA9PSAi56qS5oGvIjoKICAgICAgICBCID0gQnJlYXRoSW5zdGluY3QoTCwgbmV0X2hvc3Q9REVBRF9IT1NULCBuZXRfZXZlcnk9MiwgYXBuZWFfbGltaXQ9MywgY29uZmlybV9rPTIpCiAgICAgICAgQi5ydW4oc3RlcHMpOyByZXR1cm4gQi50LCBjYXVzZShMLCBCPUIpCiAgICBpZiBraW5kID09ICLppb/mrbsiOgogICAgICAgIGZvciBpIGluIHJhbmdlKHN0ZXBzKToKICAgICAgICAgICAgaWYgbm90IEwuYWxpdmU6IGJyZWFrCiAgICAgICAgICAgIEwuc3RlcCgpCiAgICAgICAgcmV0dXJuIGxlbihMLmxvZyksIGNhdXNlKEwsIEI9Tm9uZSkKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiPSIgKiA4MCkKICAgIHByaW50KCIg5pys6IO95bGCIOesrDLmraUgwrcg5ZG85ZC4L+awp+awlCDigJTigJQg5a+554WnIikKICAgIHByaW50KCI9IiAqIDgwKQoKICAgIHByaW50KGYiXG5b4pGgXSDmlq3kvpvog73lkKbop6blj5HnqpLmga/mrbvvvIjlkIQgMTYgc2VlZHPvvIkiKQogICAgcHJpbnQoZiJcbnsn5L6b5rCnJzo8MTZ9eyflrZjmtLsnOj45fXsn5Z2H5q2l5pWwJzo+OX17J+atu+WboOWIhuW4gyd9IikKICAgIHByaW50KCItIiAqIDgwKQogICAgcmVzID0ge30KICAgIGZvciBsYmwsIGhvc3QgaW4gWygi5q2j5bi45L6b5rCnIiwgImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20iKSwgKCLmlq3kvpsiLCBERUFEX0hPU1QpXToKICAgICAgICBycyA9IFtydW5fc3VwcGx5KHMsIGhvc3QpIGZvciBzIGluIHJhbmdlKDE2KV0KICAgICAgICBhbCA9IHN1bSgxIGZvciByIGluIHJzIGlmIHJbImFsaXZlIl0pCiAgICAgICAgdHMgPSBbclsidCJdIGZvciByIGluIHJzIGlmIG5vdCByWyJhbGl2ZSJdXQogICAgICAgIGNzID0ge30KICAgICAgICBmb3IgciBpbiByczoKICAgICAgICAgICAgYyA9IHJbImNhdXNlIl0gb3IgIuWtmOa0uyIKICAgICAgICAgICAgY3NbY10gPSBjcy5nZXQoYywgMCkgKyAxCiAgICAgICAgcmVzW2xibF0gPSBkaWN0KGFsaXZlPWFsLCBuPTE2LCBtZWFuX3Q9ZmxvYXQobnAubWVhbih0cykpIGlmIHRzIGVsc2UgTm9uZSwgY2F1c2VzPWNzKQogICAgICAgIG10ID0gZiJ7bnAubWVhbih0cyk6LjBmfSIgaWYgdHMgZWxzZSAi4oCUIgogICAgICAgIHByaW50KGYie2xibDo8MTZ9e2FsOj41fS8xNnttdDo+OX0gICAge2NzfSIpCgogICAgcHJpbnQoIlxuIiArICI9IiAqIDgwKQogICAgcHJpbnQoIiBb4pGhXSDnqpLmga/lv4Xpobvmr5Tppb/mrbvlv6vvvIjlkbzlkLjnmoTlrprkuYnmgKfnibnlvoHvvIkiKQogICAgcHJpbnQoIj0iICogODApCiAgICBzcCA9IHt9CiAgICBmb3Iga2luZCBpbiBbIueqkuaBryIsICLppb/mrbsiXToKICAgICAgICBycyA9IFtydW5fc3BlZWQoa2luZCwgcykgZm9yIHMgaW4gcmFuZ2UoMTYpXQogICAgICAgIGRlYWQgPSBbdCBmb3IgdCwgYyBpbiBycyBpZiBjIGlzIG5vdCBOb25lXQogICAgICAgIHNwW2tpbmRdID0gZGljdChuX2RlYWQ9bGVuKGRlYWQpLCBtZWFuPWZsb2F0KG5wLm1lYW4oZGVhZCkpIGlmIGRlYWQgZWxzZSBOb25lKQogICAgICAgIG0gPSBmIntucC5tZWFuKGRlYWQpOi4xZn0iIGlmIGRlYWQgZWxzZSAi4oCUKOayoeatuykiCiAgICAgICAgcHJpbnQoZiIgICAge2tpbmR9OiDmrbsge2xlbihkZWFkKX0vMTbvvIzlubPlnYfmrbvlnKjnrKwge219IOaLjSIpCgogICAgb2sgPSB7fQogICAgZGEgPSByZXNbIuaWreS+myJdOyBkbiA9IHJlc1si5q2j5bi45L6b5rCnIl0KICAgIG9rWyLikaAg5pat5L6b6Kem5Y+R56qS5oGv5q27Il0gPSBkYVsiYWxpdmUiXSA8IGRuWyJhbGl2ZSJdIG9yICJhcG5lYSIgaW4gZGFbImNhdXNlcyJdCiAgICBva1si4pGhIOeqkuaBr+avlOmlv+atu+W/qyJdID0gKHNwWyLnqpLmga8iXVsibWVhbiJdIGlzIG5vdCBOb25lIGFuZAogICAgICAgICAgICAgICAgICAgICAgICAgIHNwWyLppb/mrbsiXVsibWVhbiJdIGlzIG5vdCBOb25lIGFuZAogICAgICAgICAgICAgICAgICAgICAgICAgIHNwWyLnqpLmga8iXVsibWVhbiJdIDwgc3BbIumlv+atuyJdWyJtZWFuIl0pCiAgICBva1si4pGiIOato+W4uOS+m+awp+S4jeS8muivr+adgCJdID0gZG5bImFsaXZlIl0gPj0gMTQKCiAgICBwcmludCgiXG4iICsgIj0iICogODApCiAgICBwcmludCgiIOWIpOaNriIpCiAgICBwcmludCgiPSIgKiA4MCkKICAgIGZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiB2IGVsc2UgJ+KdjCd9IHtrfSIpCgogICAgIyDikaMg56ysMeatpSArIOesrDLmraXkuLLogZQKICAgIHByaW50KCJcbiIgKyAiPSIgKiA4MCkKICAgIHByaW50KCIgW+KRo10g56ysMeatpSjog73ph48pICsg56ysMuatpSjlkbzlkLgpIOiDveWQpuS4suiBlCIpCiAgICBwcmludCgiPSIgKiA4MCkKICAgIEwgPSBMaWZlNShOPTgsIHNlZWQ9MykKICAgIEkgPSBFbmVyZ3lJbnN0aW5jdChMLCBidWRnZXQ9MC4wNSkgICAgICAgICAjIOesrDHmraXvvJrpooTnrpfmnoHntKcKICAgIEIgPSBCcmVhdGhJbnN0aW5jdChJLCBuZXRfaG9zdD1ERUFEX0hPU1QsIG5ldF9ldmVyeT0yLCBhcG5lYV9saW1pdD0zLCBjb25maXJtX2s9MikgICMg56ysMuatpe+8muaWreS+mwogICAgQi5ydW4oU1RFUFMpCiAgICBwcmludChmIlxuICAgIOmTvjogTGlmZTUg4oaSIEVuZXJneSjnrKwx5q2lKSDihpIgQnJlYXRoKOesrDLmraUpIikKICAgIHByaW50KGYiICAgIOi3keWujCB0PXtCLnR9ICBhbGl2ZT17TC5hbGl2ZX0iKQogICAgcHJpbnQoZiIgICAg56ysMeatpei2heaUr+S6i+S7tjoge2xlbihJLm92ZXJydW5zKX0gICDnrKwy5q2l5pat5L6b5LqL5Lu2OiB7bGVuKEIuZXZlbnRzKX0iKQogICAgcHJpbnQoZiIgICAg56ysMuatpeatu+WboDoge0IuZGVhdGhfY2F1c2V9ICAg56ysMeatpeWBnOacujoge2dldGF0dHIoSSwnc2h1dGRvd25fYXQnLE5vbmUpfSIpCiAgICBjaGFpbmVkID0gKGxlbihJLm92ZXJydW5zKSA+IDApIG9yIChCLmRlYXRoX2NhdXNlIGlzIG5vdCBOb25lKQogICAgcHJpbnQoZiIgICAg5Lik5bGC6YO955yf5o6l6L+b5Y675LqGOiB7J+KchScgaWYgY2hhaW5lZCBlbHNlICfinYwnfSIpCiAgICBva1si4pGjIOesrDHmraUr56ysMuatpeWPr+S4suiBlCJdID0gY2hhaW5lZAoKICAgICMg4piFIOatu+WboOWPr+WMuuWIhgogICAgcHJpbnQoZiJcbuKYhSDmrbvlm6Dlj6/ljLrliIY6IOeqkuaBryhhcG5lYSkgLyDppb/mrbsoc3RhcnZlKSAvIOi2heaUryhidWRnZXRfb3ZlcnJ1bikiKQogICAgcHJpbnQoZiIgICAg5a6e5rWL5Ye6546w6L+H55qE5q275ZugOiAiCiAgICAgICAgICBmIntzb3J0ZWQoc2V0KGxpc3QoZGFbJ2NhdXNlcyddLmtleXMoKSkrbGlzdChkblsnY2F1c2VzJ10ua2V5cygpKSkpfSIpCgogICAganNvbi5kdW1wKHsic3VwcGx5IjogcmVzLCAic3BlZWQiOiBzcCwKICAgICAgICAgICAgICAgIm9rIjoge2s6IGJvb2wodikgZm9yIGssIHYgaW4gb2suaXRlbXMoKX19LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiaW5zdGluY3QyX2JyZWF0aC5qc29uIiksICJ3IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+本能层 第2步 · 呼吸/氧气 —— 对照实验
+======================================
+人类：缺氧几分钟就死（快）；饿死要几天（慢）。
+所以第2步必须验的【硬特性】是：
+    窒息死必须比饿死快 —— 否则它就不是呼吸本能，只是又一种饿。
+
+验四件事：
+    ① 断供真能触发窒息死
+    ② 窒息比饿死快（这是呼吸的定义性特征）
+    ③ 死因可区分（窒息 / 饿死 / 超支，三种不能混）
+    ④ 第1步+第2步能串联（本能是叠加的，不是互斥的）
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.life5 import Life5
+from core.instinct1_energy import EnergyInstinct
+from core.instinct2_breath import BreathInstinct
+
+DEAD_HOST = "https://127.0.0.1:9"        # 必然不可达 → 模拟断供
+STEPS = 300
+
+def cause(L, B=None, I=None):
+    if B is not None and B.death_cause: return B.death_cause
+    if I is not None and getattr(I, "shutdown_at", None) is not None: return "budget_overrun"
+    if not L.alive: return "starve"
+    return None
+
+# ① 断供 vs 正常供氧
+def run_supply(seed, host, apnea_limit=12, steps=STEPS):
+    L = Life5(N=8, seed=seed)
+    B = BreathInstinct(L, net_host=host, net_every=5, apnea_limit=apnea_limit, confirm_k=3)
+    B.run(steps)
+    return dict(alive=L.alive, t=B.t, cause=cause(L, B=B),
+                apnea=max(B.apnea_hist) if B.apnea_hist else 0,
+                events=len(B.events))
+
+# ② 窒息 vs 饿死，谁快（都用最快档）
+def run_speed(kind, seed, steps=STEPS):
+    L = Life5(N=8, seed=seed)
+    if kind == "窒息":
+        B = BreathInstinct(L, net_host=DEAD_HOST, net_every=2, apnea_limit=3, confirm_k=2)
+        B.run(steps); return B.t, cause(L, B=B)
+    if kind == "饿死":
+        for i in range(steps):
+            if not L.alive: break
+            L.step()
+        return len(L.log), cause(L, B=None)
+
+if __name__ == "__main__":
+    print("=" * 80)
+    print(" 本能层 第2步 · 呼吸/氧气 —— 对照")
+    print("=" * 80)
+
+    print(f"\n[①] 断供能否触发窒息死（各 16 seeds）")
+    print(f"\n{'供氧':<16}{'存活':>9}{'均步数':>9}{'死因分布'}")
+    print("-" * 80)
+    res = {}
+    for lbl, host in [("正常供氧", "https://api.github.com"), ("断供", DEAD_HOST)]:
+        rs = [run_supply(s, host) for s in range(16)]
+        al = sum(1 for r in rs if r["alive"])
+        ts = [r["t"] for r in rs if not r["alive"]]
+        cs = {}
+        for r in rs:
+            c = r["cause"] or "存活"
+            cs[c] = cs.get(c, 0) + 1
+        res[lbl] = dict(alive=al, n=16, mean_t=float(np.mean(ts)) if ts else None, causes=cs)
+        mt = f"{np.mean(ts):.0f}" if ts else "—"
+        print(f"{lbl:<16}{al:>5}/16{mt:>9}    {cs}")
+
+    print("\n" + "=" * 80)
+    print(" [②] 窒息必须比饿死快（呼吸的定义性特征）")
+    print("=" * 80)
+    sp = {}
+    for kind in ["窒息", "饿死"]:
+        rs = [run_speed(kind, s) for s in range(16)]
+        dead = [t for t, c in rs if c is not None]
+        sp[kind] = dict(n_dead=len(dead), mean=float(np.mean(dead)) if dead else None)
+        m = f"{np.mean(dead):.1f}" if dead else "—(没死)"
+        print(f"    {kind}: 死 {len(dead)}/16，平均死在第 {m} 拍")
+
+    ok = {}
+    da = res["断供"]; dn = res["正常供氧"]
+    ok["① 断供触发窒息死"] = da["alive"] < dn["alive"] or "apnea" in da["causes"]
+    ok["② 窒息比饿死快"] = (sp["窒息"]["mean"] is not None and
+                          sp["饿死"]["mean"] is not None and
+                          sp["窒息"]["mean"] < sp["饿死"]["mean"])
+    ok["③ 正常供氧不会误杀"] = dn["alive"] >= 14
+
+    print("\n" + "=" * 80)
+    print(" 判据")
+    print("=" * 80)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+
+    # ④ 第1步 + 第2步串联
+    print("\n" + "=" * 80)
+    print(" [④] 第1步(能量) + 第2步(呼吸) 能否串联")
+    print("=" * 80)
+    L = Life5(N=8, seed=3)
+    I = EnergyInstinct(L, budget=0.05)         # 第1步：预算极紧
+    B = BreathInstinct(I, net_host=DEAD_HOST, net_every=2, apnea_limit=3, confirm_k=2)  # 第2步：断供
+    B.run(STEPS)
+    print(f"\n    链: Life5 → Energy(第1步) → Breath(第2步)")
+    print(f"    跑完 t={B.t}  alive={L.alive}")
+    print(f"    第1步超支事件: {len(I.overruns)}   第2步断供事件: {len(B.events)}")
+    print(f"    第2步死因: {B.death_cause}   第1步停机: {getattr(I,'shutdown_at',None)}")
+    chained = (len(I.overruns) > 0) or (B.death_cause is not None)
+    print(f"    两层都真接进去了: {'✅' if chained else '❌'}")
+    ok["④ 第1步+第2步可串联"] = chained
+
+    # ★ 死因可区分
+    print(f"\n★ 死因可区分: 窒息(apnea) / 饿死(starve) / 超支(budget_overrun)")
+    print(f"    实测出现过的死因: "
+          f"{sorted(set(list(da['causes'].keys())+list(dn['causes'].keys())))}")
+
+    json.dump({"supply": res, "speed": sp,
+               "ok": {k: bool(v) for k, v in ok.items()}},
+              open(os.path.join(HERE, ".sense", "instinct2_breath.json"), "w"),
+              ensure_ascii=False, indent=1)

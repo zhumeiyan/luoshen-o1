@@ -1,1 +1,137 @@
-ewogIlA9MSI6IHsKICAic3VydiI6IDAuMTI1LAogICJjb21wIjogMC4wNSwKICAiam9pbnQiOiAwLjA1CiB9LAogIlA9MyI6IHsKICAic3VydiI6IDAuNSwKICAiY29tcCI6IDAuMzk1LAogICJqb2ludCI6IDAuMzk1CiB9LAogIlA9NSI6IHsKICAic3VydiI6IDAuNiwKICAiY29tcCI6IDAuNDQxLAogICJqb2ludCI6IDAuNDQxCiB9LAogIlA9MTAiOiB7CiAgInN1cnYiOiAwLjc3NSwKICAiY29tcCI6IDAuNTQ4LAogICJqb2ludCI6IDAuNTQ4CiB9LAogIlA9MjAiOiB7CiAgInN1cnYiOiAwLjcsCiAgImNvbXAiOiAwLjQ3NCwKICAiam9pbnQiOiAwLjQ3NAogfSwKICJQPTUwIjogewogICJzdXJ2IjogMC43MjUsCiAgImNvbXAiOiAwLjQwNCwKICAiam9pbnQiOiAwLjQwNAogfSwKICJQPTEwMCI6IHsKICAic3VydiI6IDAuNzI1LAogICJjb21wIjogMC4yNjIsCiAgImpvaW50IjogMC4yNjIKIH0sCiAiUD00MDAiOiB7CiAgInN1cnYiOiAwLjM1LAogICJjb21wIjogMC4wODYsCiAgImpvaW50IjogMC4wODYKIH0sCiAiZD0wLjA1IjogewogICJzdXJ2IjogMC44MjUsCiAgImNvbXAiOiAwLjU3NSwKICAiam9pbnQiOiAwLjU3NQogfSwKICJkPTAuMTAiOiB7CiAgInN1cnYiOiAwLjcyNSwKICAiY29tcCI6IDAuNDYzLAogICJqb2ludCI6IDAuNDYzCiB9LAogImQ9MC4yMCI6IHsKICAic3VydiI6IDAuNywKICAiY29tcCI6IDAuNDc0LAogICJqb2ludCI6IDAuNDc0CiB9LAogImQ9MC4zNSI6IHsKICAic3VydiI6IDAuNjUsCiAgImNvbXAiOiAwLjQ0MSwKICAiam9pbnQiOiAwLjQ0MQogfSwKICJkPTAuNTAiOiB7CiAgInN1cnYiOiAwLjQ3NSwKICAiY29tcCI6IDAuMjY0LAogICJqb2ludCI6IDAuMjY0CiB9LAogImQ9MC44MCI6IHsKICAic3VydiI6IDAuMiwKICAiY29tcCI6IDAuMDk3LAogICJqb2ludCI6IDAuMDk3CiB9LAogInBoYXNlPWFsaWduIjogewogICJzdXJ2IjogMC42NzUsCiAgImNvbXAiOiAwLjQ5NiwKICAiam9pbnQiOiAwLjQ5NgogfSwKICJwaGFzZT1zdGFnZ2VyIjogewogICJzdXJ2IjogMC43LAogICJjb21wIjogMC40NzQsCiAgImpvaW50IjogMC40NzQKIH0sCiAiSz0xIjogewogICJzdXJ2IjogMC4zNSwKICAiY29tcCI6IDAuMTY1LAogICJqb2ludCI6IDAuMTY1CiB9LAogIks9MiI6IHsKICAic3VydiI6IDAuNTI1LAogICJjb21wIjogMC4zMjYsCiAgImpvaW50IjogMC4zMjYKIH0sCiAiSz0zIjogewogICJzdXJ2IjogMC43LAogICJjb21wIjogMC40NzQsCiAgImpvaW50IjogMC40NzQKIH0sCiAiSz01IjogewogICJzdXJ2IjogMC43LAogICJjb21wIjogMC41NTIsCiAgImpvaW50IjogMC41NTIKIH0sCiAiSz04IjogewogICJzdXJ2IjogMC45LAogICJjb21wIjogMC43NTgsCiAgImpvaW50IjogMC43NTgKIH0sCiAiSz0xMiI6IHsKICAic3VydiI6IDAuOTUsCiAgImNvbXAiOiAwLjkxOSwKICAiam9pbnQiOiAwLjkxOQogfSwKICJncmFuPTIiOiB7CiAgInN1cnYiOiAwLjcsCiAgImNvbXAiOiAwLjQ2OCwKICAiam9pbnQiOiAwLjQ2OAogfSwKICJncmFuPTMiOiB7CiAgInN1cnYiOiAwLjcsCiAgImNvbXAiOiAwLjQ2OCwKICAiam9pbnQiOiAwLjQ2OAogfSwKICJncmFuPTUiOiB7CiAgInN1cnYiOiAwLjcsCiAgImNvbXAiOiAwLjQ4LAogICJqb2ludCI6IDAuNDgKIH0sCiAiZ3Jhbj0xMCI6IHsKICAic3VydiI6IDAuNywKICAiY29tcCI6IDAuNDc0LAogICJqb2ludCI6IDAuNDc0CiB9LAogImdyYW49NTAiOiB7CiAgInN1cnYiOiAwLjcsCiAgImNvbXAiOiAwLjQ3NCwKICAiam9pbnQiOiAwLjQ3NAogfQp9
+{
+ "P=1": {
+  "surv": 0.125,
+  "comp": 0.05,
+  "joint": 0.05
+ },
+ "P=3": {
+  "surv": 0.5,
+  "comp": 0.395,
+  "joint": 0.395
+ },
+ "P=5": {
+  "surv": 0.6,
+  "comp": 0.441,
+  "joint": 0.441
+ },
+ "P=10": {
+  "surv": 0.775,
+  "comp": 0.548,
+  "joint": 0.548
+ },
+ "P=20": {
+  "surv": 0.7,
+  "comp": 0.474,
+  "joint": 0.474
+ },
+ "P=50": {
+  "surv": 0.725,
+  "comp": 0.404,
+  "joint": 0.404
+ },
+ "P=100": {
+  "surv": 0.725,
+  "comp": 0.262,
+  "joint": 0.262
+ },
+ "P=400": {
+  "surv": 0.35,
+  "comp": 0.086,
+  "joint": 0.086
+ },
+ "d=0.05": {
+  "surv": 0.825,
+  "comp": 0.575,
+  "joint": 0.575
+ },
+ "d=0.10": {
+  "surv": 0.725,
+  "comp": 0.463,
+  "joint": 0.463
+ },
+ "d=0.20": {
+  "surv": 0.7,
+  "comp": 0.474,
+  "joint": 0.474
+ },
+ "d=0.35": {
+  "surv": 0.65,
+  "comp": 0.441,
+  "joint": 0.441
+ },
+ "d=0.50": {
+  "surv": 0.475,
+  "comp": 0.264,
+  "joint": 0.264
+ },
+ "d=0.80": {
+  "surv": 0.2,
+  "comp": 0.097,
+  "joint": 0.097
+ },
+ "phase=align": {
+  "surv": 0.675,
+  "comp": 0.496,
+  "joint": 0.496
+ },
+ "phase=stagger": {
+  "surv": 0.7,
+  "comp": 0.474,
+  "joint": 0.474
+ },
+ "K=1": {
+  "surv": 0.35,
+  "comp": 0.165,
+  "joint": 0.165
+ },
+ "K=2": {
+  "surv": 0.525,
+  "comp": 0.326,
+  "joint": 0.326
+ },
+ "K=3": {
+  "surv": 0.7,
+  "comp": 0.474,
+  "joint": 0.474
+ },
+ "K=5": {
+  "surv": 0.7,
+  "comp": 0.552,
+  "joint": 0.552
+ },
+ "K=8": {
+  "surv": 0.9,
+  "comp": 0.758,
+  "joint": 0.758
+ },
+ "K=12": {
+  "surv": 0.95,
+  "comp": 0.919,
+  "joint": 0.919
+ },
+ "gran=2": {
+  "surv": 0.7,
+  "comp": 0.468,
+  "joint": 0.468
+ },
+ "gran=3": {
+  "surv": 0.7,
+  "comp": 0.468,
+  "joint": 0.468
+ },
+ "gran=5": {
+  "surv": 0.7,
+  "comp": 0.48,
+  "joint": 0.48
+ },
+ "gran=10": {
+  "surv": 0.7,
+  "comp": 0.474,
+  "joint": 0.474
+ },
+ "gran=50": {
+  "surv": 0.7,
+  "comp": 0.474,
+  "joint": 0.474
+ }
+}

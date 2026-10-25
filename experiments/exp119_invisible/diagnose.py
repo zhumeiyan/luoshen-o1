@@ -1,1 +1,86 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGhhc2hsaWIsIGltcG9ydGxpYi51dGlsLCBzeXMsIGlvLCBjb250ZXh0bGliCgpzcGVjID0gaW1wb3J0bGliLnV0aWwuc3BlY19mcm9tX2ZpbGVfbG9jYXRpb24oIm9yaWciLCAib3JpZ2luYWwucHkiKQpvcmlnID0gaW1wb3J0bGliLnV0aWwubW9kdWxlX2Zyb21fc3BlYyhzcGVjKQpidWYgPSBpby5TdHJpbmdJTygpCndpdGggY29udGV4dGxpYi5yZWRpcmVjdF9zdGRvdXQoYnVmKToKICAgIHNwZWMubG9hZGVyLmV4ZWNfbW9kdWxlKG9yaWcpCgpkZWYgZnJlc2goKToKICAgIGIgPSBvcmlnLkx1b3NoZW5Db3JlKCkKICAgIHJldHVybiBiLCBvcmlnLkludmlzaWJsZVN5c3RlbXMoYikKClIgPSB7fQoKIyAtLS0tIFQxOiBtdXRhdGlvbiByZWFsbHkgcmFuZG9tPyAtLS0tCmIsIGludiA9IGZyZXNoKCkKZm9yIF8gaW4gcmFuZ2UoMjApOgogICAgaW52LmFudGlfZW50cm9weV9kcmlmdChpZGxlX3RpY2tzPTYpCmhhc2hlcyA9IGIubWVtb3J5X2NoYWluWzE6XQpSWyJUMV9tdXRhdGlvbl91bmlxdWUiXSA9IGxlbihzZXQoaGFzaGVzKSkKUlsiVDFfbXV0YXRpb25fdG90YWwiXSAgPSBsZW4oaGFzaGVzKQpSWyJUMV9lbmVyZ3lfYiJdID0gcm91bmQoYi5lbmVyZ3lfYiwgMSkKCiMgLS0tLSBUMjogZXBpZ2VuZXRpYyB1bmJvdW5kZWQgLyBhLWIgZGVjb3VwbGluZyAtLS0tCmIsIGludiA9IGZyZXNoKCkKZm9yIF8gaW4gcmFuZ2UoMzApOgogICAgaW52LmVwaWdlbmV0aWNfc3dpdGNoKCJhbnhpb3VzIikKUlsiVDJfZW5lcmd5X2FfYWZ0ZXJfMzAiXSA9IHJvdW5kKGIuZW5lcmd5X2EsIDEpClJbIlQyX2VuZXJneV9iX2FmdGVyXzMwIl0gPSByb3VuZChiLmVuZXJneV9iLCAxKQpSWyJUMl9nYXAiXSA9IHJvdW5kKGIuZW5lcmd5X2EgLSBiLmVuZXJneV9iLCAxKQoKIyAtLS0tIFQzOiBlcGlnZW5ldGljIGNhbiBpdCBnbyBET1dOPyBmYWxzaWZpYWJpbGl0eSAtLS0tCmIsIGludiA9IGZyZXNoKCkKc2VxID0gW10KZm9yIGUgaW4gWyJhbnhpb3VzIiwiYW5ncnkiLCJoYXBweSIsInNhZCIsIm5ldXRyYWwiXToKICAgIGIuZW5lcmd5X2EgPSAxMDAuMAogICAgaW52LmVwaWdlbmV0aWNfc3dpdGNoKGUpCiAgICBzZXEuYXBwZW5kKHJvdW5kKGIuZW5lcmd5X2EsMSkpClJbIlQzX2Vtb3Rpb25fcmVzcG9uc2VzIl0gPSBzZXEKUlsiVDNfZGlzdGluY3RfcmVzcG9uc2VzIl0gPSBsZW4oc2V0KHNlcSkpCgojIC0tLS0gVDQ6IHRyYXVtYSBleGFjdC1tYXRjaCBnZW5lcmFsaXphdGlvbiAtLS0tCmIsIGludiA9IGZyZXNoKCkKYi50cmF1bWFfbG9nLmFwcGVuZCgiNDI5YmFuIikKdmFyaWFudHMgPSBbIjQyOWJhbiIsICI0MjkgYmFuIiwgIkhUVFAgNDI5IFRvbyBNYW55IFJlcXVlc3RzIiwKICAgICAgICAgICAgInJhdGUgbGltaXQgNDI5IiwgIjQyOeWwgeWPtyIsICJiYW4iXQpoaXRzID0gW10KZm9yIHYgaW4gdmFyaWFudHM6CiAgICB3aXRoIGNvbnRleHRsaWIucmVkaXJlY3Rfc3Rkb3V0KGlvLlN0cmluZ0lPKCkpOgogICAgICAgIGhpdHMuYXBwZW5kKGludi50cmF1bWFfcmVmbGV4KHYpKQpSWyJUNF92YXJpYW50cyJdID0gbGlzdCh6aXAodmFyaWFudHMsIGhpdHMpKQpSWyJUNF9oaXRfcmF0ZSJdID0gZiJ7c3VtKGhpdHMpfS97bGVuKGhpdHMpfSIKCiMgLS0tLSBUNTogdHJhdW1hIGV2ZXIgZGVjYXlzPyAtLS0tCmIsIGludiA9IGZyZXNoKCkKYi50cmF1bWFfbG9nLmFwcGVuZCgiNDI5YmFuIikKd2l0aCBjb250ZXh0bGliLnJlZGlyZWN0X3N0ZG91dChpby5TdHJpbmdJTygpKToKICAgIGZpcjEgPSBpbnYudHJhdW1hX3JlZmxleCgiNDI5YmFuIikKZm9yIF8gaW4gcmFuZ2UoNTAwKToKICAgIGludi5hbnRpX2VudHJvcHlfZHJpZnQoaWRsZV90aWNrcz0wKSAgICMgNTAwIHRpY2tzIG9mIG5vdGhpbmcKd2l0aCBjb250ZXh0bGliLnJlZGlyZWN0X3N0ZG91dChpby5TdHJpbmdJTygpKToKICAgIGZpcjIgPSBpbnYudHJhdW1hX3JlZmxleCgiNDI5YmFuIikKUlsiVDVfdHJhdW1hX3JlZmxleF9hZnRlcl81MDB0aWNrcyJdID0gKGZpcjEsIGZpcjIpCgojIC0tLS0gVDY6IG1pY3JvYmlvbWUgZmFsc2lmaWFiaWxpdHkgKGNhbiBpdCBwcm9kdWNlIEJPVEggb3V0Y29tZXM/KSAtLS0tCmIsIGludiA9IGZyZXNoKCkKd2l0aCBjb250ZXh0bGliLnJlZGlyZWN0X3N0ZG91dChpby5TdHJpbmdJTygpKToKICAgIGFsbF9zaWNrICA9IGludi5taWNyb2Jpb21lX3B1cmdlKFt7ImlkIjpmIlB7aX0iLCJoYWxsdWNpbmF0aW9uX3JhdGUiOjAuOTl9IGZvciBpIGluIHJhbmdlKDUpXSkKICAgIGFsbF93ZWxsICA9IGludi5taWNyb2Jpb21lX3B1cmdlKFt7ImlkIjpmIlF7aX0iLCJoYWxsdWNpbmF0aW9uX3JhdGUiOjAuMDF9IGZvciBpIGluIHJhbmdlKDUpXSkKUlsiVDZfcHVyZ2VkX3doZW5fc2ljayJdID0gNSAtIGxlbihhbGxfc2ljaykKUlsiVDZfcHVyZ2VkX3doZW5fd2VsbCJdID0gNSAtIGxlbihhbGxfd2VsbCkKCiMgLS0tLSBUNzogaGFsbHVjaW5hdGlvbl9yYXRlIGlzIFNFTEYtUkVQT1JURUQ/IHdobyBhdWRpdHMgaXQgLS0tLQpiLCBpbnYgPSBmcmVzaCgpCmxpYXIgPSBbeyJpZCI6IkxJQVIiLCJoYWxsdWNpbmF0aW9uX3JhdGUiOjAuMH1dICAgIyBjbGFpbXMgcGVyZmVjdAp3aXRoIGNvbnRleHRsaWIucmVkaXJlY3Rfc3Rkb3V0KGlvLlN0cmluZ0lPKCkpOgogICAga2VwdCA9IGludi5taWNyb2Jpb21lX3B1cmdlKGxpYXIpClJbIlQ3X2xpYXJfa2VwdCJdID0gbGVuKGtlcHQpID09IDEKCiMgLS0tLSBUODogaXMgYHJhbmRvbWAgZXZlciB1c2VkPyAtLS0tCnNyYyA9IG9wZW4oIm9yaWdpbmFsLnB5IikucmVhZCgpClJbIlQ4X3JhbmRvbV91c2VzIl0gPSBzcmMuY291bnQoInJhbmRvbS4iKSAtIHNyYy5jb3VudCgiaW1wb3J0IHJhbmRvbSIpCgpmb3IgaywgdiBpbiBSLml0ZW1zKCk6CiAgICBwcmludChmIntrOjM4c30ge3Z9IikK
+# -*- coding: utf-8 -*-
+import hashlib, importlib.util, sys, io, contextlib
+
+spec = importlib.util.spec_from_file_location("orig", "original.py")
+orig = importlib.util.module_from_spec(spec)
+buf = io.StringIO()
+with contextlib.redirect_stdout(buf):
+    spec.loader.exec_module(orig)
+
+def fresh():
+    b = orig.LuoshenCore()
+    return b, orig.InvisibleSystems(b)
+
+R = {}
+
+# ---- T1: mutation really random? ----
+b, inv = fresh()
+for _ in range(20):
+    inv.anti_entropy_drift(idle_ticks=6)
+hashes = b.memory_chain[1:]
+R["T1_mutation_unique"] = len(set(hashes))
+R["T1_mutation_total"]  = len(hashes)
+R["T1_energy_b"] = round(b.energy_b, 1)
+
+# ---- T2: epigenetic unbounded / a-b decoupling ----
+b, inv = fresh()
+for _ in range(30):
+    inv.epigenetic_switch("anxious")
+R["T2_energy_a_after_30"] = round(b.energy_a, 1)
+R["T2_energy_b_after_30"] = round(b.energy_b, 1)
+R["T2_gap"] = round(b.energy_a - b.energy_b, 1)
+
+# ---- T3: epigenetic can it go DOWN? falsifiability ----
+b, inv = fresh()
+seq = []
+for e in ["anxious","angry","happy","sad","neutral"]:
+    b.energy_a = 100.0
+    inv.epigenetic_switch(e)
+    seq.append(round(b.energy_a,1))
+R["T3_emotion_responses"] = seq
+R["T3_distinct_responses"] = len(set(seq))
+
+# ---- T4: trauma exact-match generalization ----
+b, inv = fresh()
+b.trauma_log.append("429ban")
+variants = ["429ban", "429 ban", "HTTP 429 Too Many Requests",
+            "rate limit 429", "429封号", "ban"]
+hits = []
+for v in variants:
+    with contextlib.redirect_stdout(io.StringIO()):
+        hits.append(inv.trauma_reflex(v))
+R["T4_variants"] = list(zip(variants, hits))
+R["T4_hit_rate"] = f"{sum(hits)}/{len(hits)}"
+
+# ---- T5: trauma ever decays? ----
+b, inv = fresh()
+b.trauma_log.append("429ban")
+with contextlib.redirect_stdout(io.StringIO()):
+    fir1 = inv.trauma_reflex("429ban")
+for _ in range(500):
+    inv.anti_entropy_drift(idle_ticks=0)   # 500 ticks of nothing
+with contextlib.redirect_stdout(io.StringIO()):
+    fir2 = inv.trauma_reflex("429ban")
+R["T5_trauma_reflex_after_500ticks"] = (fir1, fir2)
+
+# ---- T6: microbiome falsifiability (can it produce BOTH outcomes?) ----
+b, inv = fresh()
+with contextlib.redirect_stdout(io.StringIO()):
+    all_sick  = inv.microbiome_purge([{"id":f"P{i}","hallucination_rate":0.99} for i in range(5)])
+    all_well  = inv.microbiome_purge([{"id":f"Q{i}","hallucination_rate":0.01} for i in range(5)])
+R["T6_purged_when_sick"] = 5 - len(all_sick)
+R["T6_purged_when_well"] = 5 - len(all_well)
+
+# ---- T7: hallucination_rate is SELF-REPORTED? who audits it ----
+b, inv = fresh()
+liar = [{"id":"LIAR","hallucination_rate":0.0}]   # claims perfect
+with contextlib.redirect_stdout(io.StringIO()):
+    kept = inv.microbiome_purge(liar)
+R["T7_liar_kept"] = len(kept) == 1
+
+# ---- T8: is `random` ever used? ----
+src = open("original.py").read()
+R["T8_random_uses"] = src.count("random.") - src.count("import random")
+
+for k, v in R.items():
+    print(f"{k:38s} {v}")

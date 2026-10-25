@@ -1,1 +1,1 @@
-eyJzdGVwcyI6IDI5LCAiZmlyc3RfZXJyIjogNjIwLjAsICJmaW5hbF9lcnIiOiAxLjAsICJoaXQiOiB0cnVlLCAidHJhaiI6IFs2MjAuMCwgNjIwLjAsIDU5Ni4wLCA1NzIuNSwgNTcyLjUsIDUyNS4wLCA1MDEuMCwgNDc3LjBdLCAic2NlbmUiOiAi5aSx6YWNIiwgIuetlueVpSI6ICLkurrnsbvmtL4o6L6555yL6L655YqoKSJ9
+{"steps": 29, "first_err": 620.0, "final_err": 1.0, "hit": true, "traj": [620.0, 620.0, 596.0, 572.5, 572.5, 525.0, 501.0, 477.0], "scene": "失配", "策略": "人类派(边看边动)"}

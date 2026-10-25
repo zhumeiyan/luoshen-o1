@@ -1,1 +1,9 @@
-ewogInJ1bl9pZCI6ICI3N2RhNzhjNTFmNWU0Y2Y5IiwKICJzZXEiOiA0LAogInRzIjogIjIwMjYtMTAtMjRUMDk6NTI6NTEiLAogInN0YXRlIjogewogICJyb2xlIjogImdhbW1hIiwKICAidmFsdWUiOiA3CiB9Cn0=
+{
+ "run_id": "77da78c51f5e4cf9",
+ "seq": 4,
+ "ts": "2026-10-24T09:52:51",
+ "state": {
+  "role": "gamma",
+  "value": 7
+ }
+}

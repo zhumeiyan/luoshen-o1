@@ -1,1 +1,2 @@
-MTQwCi91c3Ivc2hhcmUvaWNvbnMvQWR3YWl0YS81MTJ4NTEyL21pbWV0eXBlcy90ZXh0LXgtcHJldmlldy5wbmcK
+140
+/usr/share/icons/Adwaita/512x512/mimetypes/text-x-preview.png

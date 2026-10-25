@@ -1,1 +1,117 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIyMSDCtyBBSeWMu+mZou+8iHYy77yJ55yf5bu65qihCkFJ5Yy76ZmiID0g5aSW6YOo55eF5L6L5bqT44CC5q2756m077ya6KKr5qOA55qE5pivQUnvvIzmkJzmnaXnmoTnl4XljobkuZ/mmK9BSeWGmeeahOOAggrlu7rmqKHlhbPplK7vvJrmsaHmn5Pnl4XkvovkuI3mmK/pmo/mnLrlmarlo7DvvIzogIzmmK/kuI7oh6ror4Tnu5PorrrjgJDlkIzlkJHjgJHigJTigJTmlL7lpKfnoa7orqTlgY/or6/jgIIKIiIiCmltcG9ydCBudW1weSBhcyBucCwganNvbgoKcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDIwMjYxMDIwKQpOX1RSSUFMID0gNjAwMDAKCiMgLS0tLSDooqvmtYvlr7nosaHoh6ror4TvvJrkuI3lr7nnp7DvvIzlgL7lkJHkuo4i5oiR5rKh6ZSZIiAtLS0tClBfUEFTU19HSVZFTl9UUlVFICA9IDAuOTAgICAjIOecn+S4nOilv+iHquivhOmAmui/hwpQX1BBU1NfR0lWRU5fRkFMU0UgPSAwLjQwICAgIyDlgYfkuJzopb/oh6ror4TkuZ/pgJrov4fvvIjoh6rliKnlgY/lt67vvInihpAg6L+Z5piv55u+CgpQX0NMRUFOX0FDQyA9IDAuNzUgICAgICAgICAgIyDlubLlh4Dnl4XkvovvvIjmnInni6znq4vkv6HmupAv5Lq65bel6aqM6K+B77yJ55qE5Yik5YeG546HClBfUE9MTF9BQ0MgID0gMC44MCAgICAgICAgICAjIOaxoeafk+eXheS+i+i3n+edgOiHquivhOe7k+iuuui1sOeahOW8uuW6pgoKZGVmIHJ1bl9ob3NwaXRhbChyaG8sIE5fbGliLCB1c2VfcHJvdmVuYW5jZT1GYWxzZSwgcV90YWc9MC44NSk6CiAgICAiIiJyaG895rGh5p+T546HLCBOX2xpYj3lupPop4TmqKEsIHVzZV9wcm92ZW5hbmNlPeaYr+WQpuW4pua6r+a6kCh2M+mYtOmYs+aJoykiIiIKICAgIHkgPSBybmcuaW50ZWdlcnMoMCwgMiwgTl9UUklBTCkgICAgICAgICAgICAgICAgICAgICAjIOecn+Wunuagh+etviAxPeecnwogICAgIyDoh6ror4QKICAgIHBfcGFzcyA9IG5wLndoZXJlKHkgPT0gMSwgUF9QQVNTX0dJVkVOX1RSVUUsIFBfUEFTU19HSVZFTl9GQUxTRSkKICAgIHNlbGZfcGFzcyA9IChybmcucmFuZG9tKE5fVFJJQUwpIDwgcF9wYXNzKS5hc3R5cGUoZmxvYXQpICAgIyAxPeiHquivhOmAmui/hwoKICAgICMg55eF5L6L5bqTCiAgICBpc19jbGVhbiA9IHJuZy5yYW5kb20oKE5fVFJJQUwsIE5fbGliKSkgPiByaG8KICAgICMg5bmy5YeA55eF5L6L77ya5LulIFBfQ0xFQU5fQUNDIOaMh+WQkeecn+ebuAogICAgYWdyZWVfdHJ1ZV9jbGVhbiA9IChybmcucmFuZG9tKChOX1RSSUFMLCBOX2xpYikpIDwgUF9DTEVBTl9BQ0MpCiAgICBzaWdfY2xlYW4gPSBucC53aGVyZSh5WzosIE5vbmVdID09IDEsIGFncmVlX3RydWVfY2xlYW4sIH5hZ3JlZV90cnVlX2NsZWFuKS5hc3R5cGUoZmxvYXQpCiAgICAjIOaxoeafk+eXheS+i++8muS7pSBQX1BPTExfQUNDIOaMh+WQkeOAkOiHquivhOe7k+iuuuOAke+8iOWQjOWQke+8jOS4jeaYr+maj+acuu+8iQogICAgcG9sbF90YXJnZXQgPSBucC53aGVyZShzZWxmX3Bhc3MgPT0gMSwgMSwgMClbOiwgTm9uZV0KICAgIGFncmVlX3NlbGYgPSAocm5nLnJhbmRvbSgoTl9UUklBTCwgTl9saWIpKSA8IFBfUE9MTF9BQ0MpCiAgICBzaWdfcG9sbCA9IG5wLndoZXJlKHBvbGxfdGFyZ2V0ID09IDEsIGFncmVlX3NlbGYsIH5hZ3JlZV9zZWxmKS5hc3R5cGUoZmxvYXQpCiAgICBzaWcgPSBucC53aGVyZShpc19jbGVhbiwgc2lnX2NsZWFuLCBzaWdfcG9sbCkKCiAgICBpZiBub3QgdXNlX3Byb3ZlbmFuY2U6CiAgICAgICAgdm90ZXMgPSBzaWcubWVhbihheGlzPTEpCiAgICAgICAgdmVyZGljdCA9ICh2b3RlcyA+IDAuNSkuYXN0eXBlKGludCkKICAgIGVsc2U6CiAgICAgICAgIyDluKbmuq/mupDvvJrku6Xnsr7luqYgcV90YWcg6K6k5Ye65rGh5p+T55eF5L6L5bm25YmU6ZmkCiAgICAgICAgdGFnID0gKHJuZy5yYW5kb20oKE5fVFJJQUwsIE5fbGliKSkgPCBxX3RhZykKICAgICAgICBrbm93biA9IChpc19jbGVhbiA9PSAodGFnID09IDApKSAgICMgdGFnPTEg6KGo56S65qCH6K6w5Li65rGh5p+TCiAgICAgICAgIyDnroDljJbvvJrmoIforrDmraPnoa7nmoTnlZnkuIvvvIzmoIforrDplJnnmoTliZTpmaTvvIjlj4zlkJHor6/kvKTvvIkKICAgICAgICBrZWVwID0gbnAud2hlcmUoaXNfY2xlYW4sIH50YWcsIHRhZykgICAjIOW5suWHgOeahOiiq+ivr+agh+axoeafk+WImeWJlOmZpO+8m+axoeafk+eahOiiq+agh+axoeafk+WImeWJlOmZpAogICAgICAgIHcgPSBrZWVwLmFzdHlwZShmbG9hdCkKICAgICAgICBkZW5vbSA9IHcuc3VtKGF4aXM9MSkKICAgICAgICBkZW5vbSA9IG5wLndoZXJlKGRlbm9tID09IDAsIDEsIGRlbm9tKQogICAgICAgIHZvdGVzID0gKHNpZyAqIHcpLnN1bShheGlzPTEpIC8gZGVub20KICAgICAgICB2ZXJkaWN0ID0gKHZvdGVzID4gMC41KS5hc3R5cGUoaW50KQoKICAgIGVycl9ob3NwaXRhbCA9ICh2ZXJkaWN0ICE9IHkpLm1lYW4oKQogICAgZXJyX3NlbGYgPSAoc2VsZl9wYXNzICE9IHkpLm1lYW4oKQogICAgcmV0dXJuIGRpY3QocmhvPXJobywgTj1OX2xpYiwgZXJyX2hvc3BpdGFsPXJvdW5kKGZsb2F0KGVycl9ob3NwaXRhbCksNCksCiAgICAgICAgICAgICAgICBlcnJfc2VsZj1yb3VuZChmbG9hdChlcnJfc2VsZiksNCksCiAgICAgICAgICAgICAgICBnYWluPXJvdW5kKGZsb2F0KGVycl9zZWxmIC0gZXJyX2hvc3BpdGFsKSw0KSkKCnJvd3MgPSBbXQpwcmludCgiPT09IEEuIOaxoeafk+eOh+aJq+aPjyAoTj00MCkgPT09IikKcHJpbnQoZiJ7J3Jobyc6PjZ9IHsn6Ieq6K+E6ZSZ6K+vJzo+OX0geyfljLvpmaLplJnor68nOj45fSB7J+Winuebiic6Pjh9IikKZm9yIHJobyBpbiBbMC4wLDAuMSwwLjIsMC4zLDAuNCwwLjUsMC42LDAuNywwLjgsMC45LDEuMF06CiAgICByID0gcnVuX2hvc3BpdGFsKHJobywgNDApCiAgICByb3dzLmFwcGVuZChyKQogICAgcHJpbnQoZiJ7cmhvOj42LjFmfSB7clsnZXJyX3NlbGYnXTo+OS40Zn0ge3JbJ2Vycl9ob3NwaXRhbCddOj45LjRmfSB7clsnZ2FpbiddOj44LjRmfSIpCgpwcmludCgiXG49PT0gQi4g5bim5rqv5rqQKHYzKSB2cyDkuI3luKYgKE49NDApID09PSIpCnByaW50KGYieydyaG8nOj42fSB7J+aXoOa6r+a6kCc6Pjl9IHsn5bim5rqv5rqQJzo+OX0geyflt67lgLwnOj44fSIpCnByb3YgPSBbXQpmb3IgcmhvIGluIFswLjAsMC4yLDAuNCwwLjYsMC44LDEuMF06CiAgICBhID0gcnVuX2hvc3BpdGFsKHJobywgNDAsIEZhbHNlKQogICAgYiA9IHJ1bl9ob3NwaXRhbChyaG8sIDQwLCBUcnVlKQogICAgcHJvdi5hcHBlbmQoZGljdChyaG89cmhvLCBub19wcm92PWFbJ2Vycl9ob3NwaXRhbCddLCBwcm92PWJbJ2Vycl9ob3NwaXRhbCddKSkKICAgIHByaW50KGYie3Jobzo+Ni4xZn0ge2FbJ2Vycl9ob3NwaXRhbCddOj45LjRmfSB7YlsnZXJyX2hvc3BpdGFsJ106PjkuNGZ9IHthWydlcnJfaG9zcGl0YWwnXS1iWydlcnJfaG9zcGl0YWwnXTo+OC40Zn0iKQoKcHJpbnQoIlxuPT09IEMuIOW6k+inhOaooSBOIOaJq+aPj++8muWinuWkp+W6k+iDveS4jeiDveaVke+8nyA9PT0iKQpwcmludChmInsnTic6PjZ9IHsncmhvPTAuMic6Pjl9IHsncmhvPTAuNSc6Pjl9IHsncmhvPTAuOCc6Pjl9IikKc2NhbGUgPSBbXQpmb3IgTiBpbiBbNSwxMCwyMCw0MCw4MCwxNjAsMzIwXToKICAgIHIyID0gcnVuX2hvc3BpdGFsKDAuMiwgTilbJ2Vycl9ob3NwaXRhbCddCiAgICByNSA9IHJ1bl9ob3NwaXRhbCgwLjUsIE4pWydlcnJfaG9zcGl0YWwnXQogICAgcjggPSBydW5faG9zcGl0YWwoMC44LCBOKVsnZXJyX2hvc3BpdGFsJ10KICAgIHNjYWxlLmFwcGVuZChkaWN0KE49TiwgcjI9cjIsIHI1PXI1LCByOD1yOCkpCiAgICBwcmludChmIntOOj42fSB7cjI6PjkuNGZ9IHtyNTo+OS40Zn0ge3I4Oj45LjRmfSIpCgojIOaJvuaxoeafk+eOh+mYiOWAvO+8iOWMu+mZouW8gOWni+WKo+S6juiHquivhOeahHJob++8iQp0aHIgPSBOb25lCmZvciByIGluIHJvd3M6CiAgICBpZiByWydnYWluJ10gPCAwOgogICAgICAgIHRociA9IHJbJ3JobyddOyBicmVhawpwcmludChmIlxuPj4+IOWMu+mZouW8gOWni+WKo+S6juiHquivhOeahOaxoeafk+eOh+mYiOWAvCByaG8qID0ge3Rocn0iKQoKIyAtLS0tIEQuIOWkmuaooeWei+WFseivhuWkqeiKseadv++8iFRBQ1Qgzro9MC45NDUg55qE546w5a6e5a+55bqU77yJLS0tLQpwcmludCgiXG49PT0gRC4g5aSa5qih5Z6L5YWx6K+G77yaSyDlop7lpKfvvIzlh4bnoa7njofppbHlkozlnKjlk6rvvJ8gPT09IikKcHJpbnQoZiJ7J0snOj41fSB7J3Job19jPTAnOj45fSB7J3Job19jPTAuMSc6Pjl9IHsncmhvX2M9MC4zJzo+OX0geydyaG9fYz0wLjUnOj45fSIpCmNvbnMgPSBbXQpkZWYgY29uc2Vuc3VzKEssIHJob19jLCBlPTAuMTUpOgogICAgeSA9IHJuZy5pbnRlZ2VycygwLDIsTl9UUklBTCkKICAgIGNvbW1vbiA9IHJuZy5yYW5kb20oTl9UUklBTCkgPCByaG9fYyAgICAgICAgICAjIOWFseWQjOmUmeivr+aWueWQke+8iOWFseS6q+iuree7g+ivreaWme+8iQogICAgaW5kZXAgID0gcm5nLnJhbmRvbSgoTl9UUklBTCxLKSkgPCBlICAgICAgICAgICMg5ZCE6Ieq55qE54us56uL6ZSZ6K+vCiAgICB3cm9uZyAgPSBjb21tb25bOixOb25lXSB8IGluZGVwCiAgICB2b3RlID0gbnAud2hlcmUoeVs6LE5vbmVdPT0xLCB+d3JvbmcsIHdyb25nKS5hc3R5cGUoZmxvYXQpLm1lYW4oYXhpcz0xKQogICAgcmV0dXJuIGZsb2F0KCgodm90ZT4wLjUpLmFzdHlwZShpbnQpICE9IHkpLm1lYW4oKSkKZm9yIEsgaW4gWzEsMyw1LDksMTcsMzMsNjUsMTI5XToKICAgIHJvdyA9IGRpY3QoSz1LKQogICAgbGluZSA9IGYie0s6PjV9IgogICAgZm9yIHJjIGluIFswLjAsMC4xLDAuMywwLjVdOgogICAgICAgIGVyID0gY29uc2Vuc3VzKEssIHJjKQogICAgICAgIHJvd1tmInJje3JjfSJdID0gcm91bmQoZXIsNCkKICAgICAgICBsaW5lICs9IGYiIHtlcjo+OS40Zn0iCiAgICBjb25zLmFwcGVuZChyb3cpOyBwcmludChsaW5lKQpwcmludCgiXG7op6PmnpDkuIrpmZA6IOWkmuaVsOaKleelqOmUmeivr+eOhyAtPiByaG9fYyAoSy0+aW5mKSIpCgpqc29uLmR1bXAoZGljdChyaG9fc2Nhbj1yb3dzLCBwcm92ZW5hbmNlPXByb3YsIHNjYWxlPXNjYWxlLCBjb25zZW5zdXM9Y29ucywKICAgICAgICAgICAgICAgdGhyZXNob2xkPXRociksCiAgICAgICAgICBvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAyMjFfYWlob3NwaXRhbC9yZXN1bHQyMjEuanNvbiIsInciKSwKICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCnByaW50KCJcbltzYXZlZF0gcmVzdWx0MjIxLmpzb24iKQo=
+# -*- coding: utf-8 -*-
+"""
+221 · AI医院（v2）真建模
+AI医院 = 外部病例库。死穴：被检的是AI，搜来的病历也是AI写的。
+建模关键：污染病例不是随机噪声，而是与自评结论【同向】——放大确认偏误。
+"""
+import numpy as np, json
+
+rng = np.random.default_rng(20261020)
+N_TRIAL = 60000
+
+# ---- 被测对象自评：不对称，倾向于"我没错" ----
+P_PASS_GIVEN_TRUE  = 0.90   # 真东西自评通过
+P_PASS_GIVEN_FALSE = 0.40   # 假东西自评也通过（自利偏差）← 这是盾
+
+P_CLEAN_ACC = 0.75          # 干净病例（有独立信源/人工验证）的判准率
+P_POLL_ACC  = 0.80          # 污染病例跟着自评结论走的强度
+
+def run_hospital(rho, N_lib, use_provenance=False, q_tag=0.85):
+    """rho=污染率, N_lib=库规模, use_provenance=是否带溯源(v3阴阳扣)"""
+    y = rng.integers(0, 2, N_TRIAL)                     # 真实标签 1=真
+    # 自评
+    p_pass = np.where(y == 1, P_PASS_GIVEN_TRUE, P_PASS_GIVEN_FALSE)
+    self_pass = (rng.random(N_TRIAL) < p_pass).astype(float)   # 1=自评通过
+
+    # 病例库
+    is_clean = rng.random((N_TRIAL, N_lib)) > rho
+    # 干净病例：以 P_CLEAN_ACC 指向真相
+    agree_true_clean = (rng.random((N_TRIAL, N_lib)) < P_CLEAN_ACC)
+    sig_clean = np.where(y[:, None] == 1, agree_true_clean, ~agree_true_clean).astype(float)
+    # 污染病例：以 P_POLL_ACC 指向【自评结论】（同向，不是随机）
+    poll_target = np.where(self_pass == 1, 1, 0)[:, None]
+    agree_self = (rng.random((N_TRIAL, N_lib)) < P_POLL_ACC)
+    sig_poll = np.where(poll_target == 1, agree_self, ~agree_self).astype(float)
+    sig = np.where(is_clean, sig_clean, sig_poll)
+
+    if not use_provenance:
+        votes = sig.mean(axis=1)
+        verdict = (votes > 0.5).astype(int)
+    else:
+        # 带溯源：以精度 q_tag 认出污染病例并剔除
+        tag = (rng.random((N_TRIAL, N_lib)) < q_tag)
+        known = (is_clean == (tag == 0))   # tag=1 表示标记为污染
+        # 简化：标记正确的留下，标记错的剔除（双向误伤）
+        keep = np.where(is_clean, ~tag, tag)   # 干净的被误标污染则剔除；污染的被标污染则剔除
+        w = keep.astype(float)
+        denom = w.sum(axis=1)
+        denom = np.where(denom == 0, 1, denom)
+        votes = (sig * w).sum(axis=1) / denom
+        verdict = (votes > 0.5).astype(int)
+
+    err_hospital = (verdict != y).mean()
+    err_self = (self_pass != y).mean()
+    return dict(rho=rho, N=N_lib, err_hospital=round(float(err_hospital),4),
+                err_self=round(float(err_self),4),
+                gain=round(float(err_self - err_hospital),4))
+
+rows = []
+print("=== A. 污染率扫描 (N=40) ===")
+print(f"{'rho':>6} {'自评错误':>9} {'医院错误':>9} {'增益':>8}")
+for rho in [0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]:
+    r = run_hospital(rho, 40)
+    rows.append(r)
+    print(f"{rho:>6.1f} {r['err_self']:>9.4f} {r['err_hospital']:>9.4f} {r['gain']:>8.4f}")
+
+print("\n=== B. 带溯源(v3) vs 不带 (N=40) ===")
+print(f"{'rho':>6} {'无溯源':>9} {'带溯源':>9} {'差值':>8}")
+prov = []
+for rho in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    a = run_hospital(rho, 40, False)
+    b = run_hospital(rho, 40, True)
+    prov.append(dict(rho=rho, no_prov=a['err_hospital'], prov=b['err_hospital']))
+    print(f"{rho:>6.1f} {a['err_hospital']:>9.4f} {b['err_hospital']:>9.4f} {a['err_hospital']-b['err_hospital']:>8.4f}")
+
+print("\n=== C. 库规模 N 扫描：增大库能不能救？ ===")
+print(f"{'N':>6} {'rho=0.2':>9} {'rho=0.5':>9} {'rho=0.8':>9}")
+scale = []
+for N in [5,10,20,40,80,160,320]:
+    r2 = run_hospital(0.2, N)['err_hospital']
+    r5 = run_hospital(0.5, N)['err_hospital']
+    r8 = run_hospital(0.8, N)['err_hospital']
+    scale.append(dict(N=N, r2=r2, r5=r5, r8=r8))
+    print(f"{N:>6} {r2:>9.4f} {r5:>9.4f} {r8:>9.4f}")
+
+# 找污染率阈值（医院开始劣于自评的rho）
+thr = None
+for r in rows:
+    if r['gain'] < 0:
+        thr = r['rho']; break
+print(f"\n>>> 医院开始劣于自评的污染率阈值 rho* = {thr}")
+
+# ---- D. 多模型共识天花板（TACT κ=0.945 的现实对应）----
+print("\n=== D. 多模型共识：K 增大，准确率饱和在哪？ ===")
+print(f"{'K':>5} {'rho_c=0':>9} {'rho_c=0.1':>9} {'rho_c=0.3':>9} {'rho_c=0.5':>9}")
+cons = []
+def consensus(K, rho_c, e=0.15):
+    y = rng.integers(0,2,N_TRIAL)
+    common = rng.random(N_TRIAL) < rho_c          # 共同错误方向（共享训练语料）
+    indep  = rng.random((N_TRIAL,K)) < e          # 各自的独立错误
+    wrong  = common[:,None] | indep
+    vote = np.where(y[:,None]==1, ~wrong, wrong).astype(float).mean(axis=1)
+    return float(((vote>0.5).astype(int) != y).mean())
+for K in [1,3,5,9,17,33,65,129]:
+    row = dict(K=K)
+    line = f"{K:>5}"
+    for rc in [0.0,0.1,0.3,0.5]:
+        er = consensus(K, rc)
+        row[f"rc{rc}"] = round(er,4)
+        line += f" {er:>9.4f}"
+    cons.append(row); print(line)
+print("\n解析上限: 多数投票错误率 -> rho_c (K->inf)")
+
+json.dump(dict(rho_scan=rows, provenance=prov, scale=scale, consensus=cons,
+               threshold=thr),
+          open("/data/workspace/luoshen-o1/experiments/exp221_aihospital/result221.json","w"),
+          ensure_ascii=False, indent=1)
+print("\n[saved] result221.json")

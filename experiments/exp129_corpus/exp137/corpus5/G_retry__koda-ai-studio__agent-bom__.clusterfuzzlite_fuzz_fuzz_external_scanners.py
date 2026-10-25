@@ -1,1 +1,57 @@
-IiIiQXRoZXJpcyBmdXp6IHRhcmdldCBmb3IgZXh0ZXJuYWwgc2Nhbm5lciBKU09OIGluZ2VzdGlvbi4KCkZ1enplcyB0aGUgYXV0by1kZXRlY3QgYW5kIHBlci1mb3JtYXQgZXh0ZXJuYWwgc2Nhbm5lciBKU09OIHBhcnNlcnMKdGhhdCBhY2NlcHQgY3VzdG9tZXItc3VwcGxpZWQgc2NhbiBleHBvcnRzLiBUaGVzZSBwYXJzZXJzIG11c3QgcmVqZWN0Cm1hbGZvcm1lZCBpbnB1dCBzYWZlbHkgd2l0aG91dCBjcmFzaGVzLCBydW5hd2F5IHJlY3Vyc2lvbiwgb3IgdW5zYWZlCmFzc3VtcHRpb25zIGFib3V0IHNoYXBlLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCBzeXMKCmltcG9ydCBhdGhlcmlzCgp3aXRoIGF0aGVyaXMuaW5zdHJ1bWVudF9pbXBvcnRzKCk6CiAgICBmcm9tIGFnZW50X2JvbS5wYXJzZXJzLmV4dGVybmFsX3NjYW5uZXJzIGltcG9ydCAoCiAgICAgICAgZGV0ZWN0X2FuZF9wYXJzZSwKICAgICAgICBwYXJzZV9ncnlwZV9qc29uLAogICAgICAgIHBhcnNlX3N5ZnRfanNvbiwKICAgICAgICBwYXJzZV90cml2eV9qc29uLAogICAgKQoKCmRlZiBUZXN0T25lSW5wdXQoZGF0YTogYnl0ZXMpIC0+IE5vbmU6CiAgICBmZHAgPSBhdGhlcmlzLkZ1enplZERhdGFQcm92aWRlcihkYXRhKQogICAgY2hvaWNlID0gZmRwLkNvbnN1bWVJbnRJblJhbmdlKDAsIDMpCiAgICByYXcgPSBmZHAuQ29uc3VtZVVuaWNvZGVOb1N1cnJvZ2F0ZXMoNDA5NikKCiAgICB0cnk6CiAgICAgICAgb2JqID0ganNvbi5sb2FkcyhyYXcpCiAgICBleGNlcHQgKGpzb24uSlNPTkRlY29kZUVycm9yLCBVbmljb2RlRGVjb2RlRXJyb3IsIFZhbHVlRXJyb3IpOgogICAgICAgIHJldHVybgoKICAgIGlmIG5vdCBpc2luc3RhbmNlKG9iaiwgZGljdCk6CiAgICAgICAgcmV0dXJuCgogICAgdHJ5OgogICAgICAgIGlmIGNob2ljZSA9PSAwOgogICAgICAgICAgICBkZXRlY3RfYW5kX3BhcnNlKG9iaikKICAgICAgICBlbGlmIGNob2ljZSA9PSAxOgogICAgICAgICAgICBwYXJzZV90cml2eV9qc29uKG9iaikKICAgICAgICBlbGlmIGNob2ljZSA9PSAyOgogICAgICAgICAgICBwYXJzZV9ncnlwZV9qc29uKG9iaikKICAgICAgICBlbHNlOgogICAgICAgICAgICBwYXJzZV9zeWZ0X2pzb24ob2JqKQogICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IsIEtleUVycm9yLCBBdHRyaWJ1dGVFcnJvciwgSW5kZXhFcnJvcik6CiAgICAgICAgcGFzcwoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGF0aGVyaXMuU2V0dXAoc3lzLmFyZ3YsIFRlc3RPbmVJbnB1dCkKICAgIGF0aGVyaXMuRnV6eigpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""Atheris fuzz target for external scanner JSON ingestion.
+
+Fuzzes the auto-detect and per-format external scanner JSON parsers
+that accept customer-supplied scan exports. These parsers must reject
+malformed input safely without crashes, runaway recursion, or unsafe
+assumptions about shape.
+"""
+
+from __future__ import annotations
+
+import json
+import sys
+
+import atheris
+
+with atheris.instrument_imports():
+    from agent_bom.parsers.external_scanners import (
+        detect_and_parse,
+        parse_grype_json,
+        parse_syft_json,
+        parse_trivy_json,
+    )
+
+
+def TestOneInput(data: bytes) -> None:
+    fdp = atheris.FuzzedDataProvider(data)
+    choice = fdp.ConsumeIntInRange(0, 3)
+    raw = fdp.ConsumeUnicodeNoSurrogates(4096)
+
+    try:
+        obj = json.loads(raw)
+    except (json.JSONDecodeError, UnicodeDecodeError, ValueError):
+        return
+
+    if not isinstance(obj, dict):
+        return
+
+    try:
+        if choice == 0:
+            detect_and_parse(obj)
+        elif choice == 1:
+            parse_trivy_json(obj)
+        elif choice == 2:
+            parse_grype_json(obj)
+        else:
+            parse_syft_json(obj)
+    except (ValueError, TypeError, KeyError, AttributeError, IndexError):
+        pass
+
+
+def main() -> None:
+    atheris.Setup(sys.argv, TestOneInput)
+    atheris.Fuzz()
+
+
+if __name__ == "__main__":
+    main()

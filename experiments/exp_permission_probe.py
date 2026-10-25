@@ -1,1 +1,107 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK55yf5a6e6aqM6K+BICM477ya5Lq65py65Y2P5L2cIC8g5p2D6ZmQ44CCCgrkuI3mmK/ph43lhpnkuIDku73muIXljZXvvIzmmK/jgJDmoLjlr7nlt7LmnInmuIXljZXmnInmsqHmnInov4fmnJ/miJbpgKDlgYfjgJHjgIIKCuKYhSDnnJ/lj5HnjrDnmoTnvLrpmbfvvJrmuIXljZXph4zmnIkgNCDmnaHnmoTmjqLmtYvlkb3ku6TmmK8gYHB5dGhvbjMgLWMgJ3ByaW50KDEpJ2AKICDigJTigJQg6L+Z5ZG95Luk5rC46L+c6L+U5ZueIDDvvIzmiYDku6XpgqMgNCDmnaHmsLjov5zmmL7npLoi6IO9IuOAggogIOi/meS4jeaYr+aOoua1i++8jOaYr+e7meiHquW3seWPkeWQiOagvOivgeOAgui3nyDimIU277yI5a6h6K6h5Zmo5omr5Yiw6Ieq5bex77yJ5ZCM5LiA57G777yaCiAg44CQ5qOA5rWL5Zmo55So5LqG5rC455yf55qE5o6i6ZKI44CR44CCCgrliKTmja7vvJoKICDikaAg5riF5Y2V5q+P5p2h55yf6LeR5LiA6YGN77yM5a6e5rWLIHZzIOWjsOensO+8jOWIl+aui+W3rgogIOKRoSDimIUg5o+q5Ye65omA5pyJ44CQ5rC455yf5o6i6ZKI44CR77yI5ZG95Luk5LiN5ZCr55yf5a6e5qOA5p+l77yJCiAg4pGiIOiDvS/kuI3og70g55qE57uT6K665b+F6aG75p2l6Ieq55yf5a6e5Ymv5L2c55So77yM5LiN5pivIHByaW50KDEpCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgcmUsIHN1YnByb2Nlc3MKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpQUk9CRSA9IG9zLnBhdGguam9pbihIRVJFLCAi5p2D6ZmQIiwgInByb2JlLnB5IikKCiMg5rC455yf5o6i6ZKI77ya6L+Z5Lqb5ZG95Luk5peg6K6655yf5a6e5p2D6ZmQ5aaC5L2V6YO96L+U5ZueIDAKRkFLRV9QQVRURVJOUyA9IFsoInByaW50KDEpIiwgIuawuOecnyIpXQojIOecn+WunuajgOafpeeahOWFs+mUruWtl++8muaciei/meS6m+WwseS4jeeul+awuOecnwpSRUFMX0NIRUNLID0gKCJpbXBvcnQgIiwgInRlc3QgLSIsICJscyAvIiwgIndoaWNoICIsICJjdXJsIiwgInVybG9wZW4iLCAidXJsbGliIikKCmRlZiBydW5fY21kKGMsIHQ9MjUpOgogICAgdHJ5OgogICAgICAgIHIgPSBzdWJwcm9jZXNzLnJ1bihjLCBzaGVsbD1UcnVlLCBjYXB0dXJlX291dHB1dD1UcnVlLCB0aW1lb3V0PXQpCiAgICAgICAgcmV0dXJuIHIucmV0dXJuY29kZQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gLTEKCmRlZiBtYWluKCk6CiAgICBwcmludCgiPSIgKiA3NCkKICAgIHByaW50KCIg55yf5a6e6aqM6K+BICM4IMK3IOadg+mZkOa4heWNleaguOWvue+8iOWjsOensCB2cyDnnJ/ot5HvvIkiKQogICAgcHJpbnQoIj0iICogNzQpCgogICAgc3JjID0gb3BlbihQUk9CRSwgZW5jb2Rpbmc9InV0Zi04IikucmVhZCgpCiAgICAjIOaKveWHuiBhZGQoIuWQjeWtlyIsICLlkb3ku6QiLCAi5aSH5rOoIikKICAgIGl0ZW1zID0gcmUuZmluZGFsbChyJ2FkZFwoXHMqIihbXiJdKykiXHMqLFxzKiIoKD86W14iXFxdfFxcLikqKSJccyosXHMqIihbXiJdKikiXHMqXCknLCBzcmMpCiAgICBwcmludChmIlxu5LuOIHByb2JlLnB5IOaKveWHuiB7bGVuKGl0ZW1zKX0g5p2h5p2D6ZmQ6aG5XG4iKQoKICAgIGZha2UsIG1pc21hdGNoLCBjaGVja2VkID0gW10sIFtdLCAwCiAgICBwcmludChmInsn5p2D6ZmQJzo8MjJ9eyflo7Dnp7AnOjw4fXsn5a6e5rWLJzo8OH17J+WIpOWumid9IikKICAgIHByaW50KCItIiAqIDc0KQoKICAgIGZvciBuYW1lLCBjbWQsIGhpbnQgaW4gaXRlbXM6CiAgICAgICAgIyDop6PovazkuYkKICAgICAgICBjID0gY21kLnJlcGxhY2UoJ1xcIicsICciJykucmVwbGFjZSgiXFwnIiwgIiciKQogICAgICAgIGNsYWltZWQgPSBOb25lCiAgICAgICAgaXNfZmFrZSA9IEZhbHNlCiAgICAgICAgIyDimIUg5rC455yf55qE5q2j56Gu5Yik5o2u77ya5ZG95Luk6YeM44CQ6Zmk5LqGIHByaW50KDEpIOS5i+WkluayoeacieS7u+S9leecn+WunuajgOafpeOAkeOAggogICAgICAgICMgICDlj6rnnIvmnInmsqHmnIkgcHJpbnQoMSkg5Lya6K+v5Lyk4oCU4oCU5paw5L+u55qE5Lik5p2h55SoIHByaW50KDEpIOaUtuWwvu+8jAogICAgICAgICMgICDkvYbliY3pnaLnnJ8gaW1wb3J0IOS6huaooeWdl++8jOmCo+aYr+ecn+aOoua1i+OAggogICAgICAgIGhhc19yZWFsID0gYW55KGsgaW4gYyBmb3IgayBpbiBSRUFMX0NIRUNLKQogICAgICAgIGlmICJwcmludCgxKSIgaW4gYyBhbmQgbm90IGhhc19yZWFsIGFuZCBuYW1lICE9ICLot5Hku6PnoIEiOgogICAgICAgICAgICBpc19mYWtlID0gVHJ1ZTsgZmFrZV93aHkgPSAi5ZG95Luk6Zmk5LqGIHByaW50KDEpIOaXoOS7u+S9leecn+WunuajgOafpSI7IGJyZWFrCiAgICAgICAgIyDkvp3otZYgdG9rZW4g55qE6aG577ya5rKhIHRva2VuIOWwsSLkuI3og70i77yM6L+Z5piv5p2h5Lu25oCn55qE77yM5LiN566X6L+H5pyfCiAgICAgICAgdG9rZW5fZGVwID0gIkdIX1RPS0VOIiBpbiBjCiAgICAgICAgIyDku44gbWQg6YeM6K+75aOw56ew5YC8CiAgICAgICAgbWQgPSBvcGVuKG9zLnBhdGguam9pbihIRVJFLCAi5p2D6ZmQIiwgIuadg+mZkOa4heWNlS5tZCIpLCBlbmNvZGluZz0idXRmLTgiKS5yZWFkKCkKICAgICAgICBtID0gcmUuc2VhcmNoKHJlLmVzY2FwZShuYW1lKSArIHIiXHMqXHxccypcKlwqKOiDvXzkuI3og70pXCpcKiIsIG1kKQogICAgICAgIGlmIG06IGNsYWltZWQgPSBtLmdyb3VwKDEpCgogICAgICAgIHJjID0gcnVuX2NtZChjKQogICAgICAgIGlmIHJjICE9IDAgYW5kICgidXJsb3BlbiIgaW4gYyBvciAidXJsbGliIiBpbiBjKToKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoMik6ICAgICAgICAgICMg572R57uc57G76YeN6K+V77yM6YG/5YWN5YG25Y+R6LaF5pe26K+v5Yik6L+H5pyfCiAgICAgICAgICAgICAgICByYyA9IHJ1bl9jbWQoYykKICAgICAgICAgICAgICAgIGlmIHJjID09IDA6IGJyZWFrCiAgICAgICAgYWN0dWFsID0gIuiDvSIgaWYgcmMgPT0gMCBlbHNlICLkuI3og70iCiAgICAgICAgY2hlY2tlZCArPSAxCgogICAgICAgIGlmIGlzX2Zha2U6CiAgICAgICAgICAgIHZlcmRpY3QgPSBmIuKdjCDmsLjnnJ/mjqLpkogoe3doeX0pIOKAlOKAlCDov5nkuKon6IO9J+aYr+WBh+eahCIKICAgICAgICAgICAgZmFrZS5hcHBlbmQobmFtZSkKICAgICAgICBlbGlmIHRva2VuX2RlcDoKICAgICAgICAgICAgdmVyZGljdCA9IGYi4pevIOadoeS7tumhue+8muWPluWGs+S6jiBHSF9UT0tFTiDmmK/lkKbms6jlhaXvvIjmnKzmrKHmsqHnu5kg4oaSIOS4jeiDve+8iSIKICAgICAgICBlbGlmIGNsYWltZWQgYW5kIGNsYWltZWQgIT0gYWN0dWFsOgogICAgICAgICAgICB2ZXJkaWN0ID0gZiLimqDvuI8g5riF5Y2V6L+H5pyf77ya5aOw56ewe2NsYWltZWR9IOWunua1i3thY3R1YWx9IgogICAgICAgICAgICBtaXNtYXRjaC5hcHBlbmQoKG5hbWUsIGNsYWltZWQsIGFjdHVhbCkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdmVyZGljdCA9ICLinIUg5LiA6Ie0IgogICAgICAgIHByaW50KGYie25hbWU6PDIyfXtzdHIoY2xhaW1lZCk6PDh9e2FjdHVhbDo8OH17dmVyZGljdH0iKQoKICAgIHByaW50KCItIiAqIDc0KQogICAgb2sgPSB7fQogICAgb2tbIuKRoCDmr4/mnaHpg73nnJ/ot5Hov4ciXSA9IGNoZWNrZWQgPT0gbGVuKGl0ZW1zKQogICAgb2tbIuKRoSDlvZPliY3ml6DmsLjnnJ/mjqLpkogo5L+u5aSN5ZCO5bqU5Li6MCkiXSA9IGxlbihmYWtlKSA9PSAwCiAgICBva1si4pGiIOaXoOecn+i/h+acn+mhuSjmnaHku7bpobnpmaTlpJYpIl0gPSBsZW4obWlzbWF0Y2gpID09IDAKCiAgICBwcmludChmIlxu5Yik5o2u77yaIikKICAgIHByaW50KGYiICB7J+KchScgaWYgb2tbJ+KRoCDmr4/mnaHpg73nnJ/ot5Hov4cnXSBlbHNlICfinYwnfSDikaAg55yf6LeRIHtjaGVja2VkfS97bGVuKGl0ZW1zKX0g5p2hIikKICAgIHByaW50KGYiICB7J+KchScgaWYgb2tbJ+KRoSDlvZPliY3ml6DmsLjnnJ/mjqLpkogo5L+u5aSN5ZCO5bqU5Li6MCknXSBlbHNlICfinYwnfSDikaEg5b2T5YmN5rC455yf5o6i6ZKIIHtsZW4oZmFrZSl9IOadoe+8iOS/ruWkjeWJjeaYryA0IOadoe+8jOW3suS/ru+8iSIpCiAgICBwcmludChmIiAgeyfinIUnIGlmIG9rWyfikaIg5peg55yf6L+H5pyf6aG5KOadoeS7tumhuemZpOWkliknXSBlbHNlICfinYwnfSDikaIg55yf6L+H5pyfIHtsZW4obWlzbWF0Y2gpfSDmnaE6IHttaXNtYXRjaH0iKQoKICAgIHByaW50KGYiXG7imIUg5L+u5aSN5YmN5o+q5Ye6IDQg5p2h5rC455yf5o6i6ZKI77yI55yLL+iHquivhC/mi5Lnu53kvaAv57uT5p2f6Ieq5bex77yM5ZG95Luk5YaZ5q27IHByaW50KDEp77yJ44CCIikKICAgIHByaW50KGYiICDlt7Lkv67vvJoyIOadoeaNouecn+WRveS7pO+8jDIg5p2h6K+a5a6e5qCH44CQ5LiN5Y+v6Ieq5rWL44CR4oCU4oCUIOaOouS4jeWHuuadpeWwseS4jeiuuOWBh+ijheiDveOAgiIpCiAgICBwcmludChmIiAg5LiOIOKYhTbvvIjlrqHorqHlmajmiavliLDoh6rlt7HvvInjgIHimIU377yI6ISa5pys6K+75Yiw6Ieq5bex6L6T5Ye677yJ5ZCM5LiA57G777yaIikKICAgIHByaW50KGYiICDjgJDmo4DmtYvlmajnlKjkuobmsLjnnJ/mjqLpkojjgJHigJTigJQg6L+Z5bey57uP5piv56ys5LiJ5qyh5qC95Zyo5ZCM5LiA5Liq5b2i54q25LiK44CCIikKCiAgICBqc29uLmR1bXAoeyJjaGVja2VkIjogY2hlY2tlZCwgImZha2UiOiBmYWtlLCAibWlzbWF0Y2giOiBtaXNtYXRjaCwgIm9rIjogb2t9LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAicGVybWlzc2lvbl9wcm9iZS5qc29uIiksICJ3IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""
+真实验证 #8：人机协作 / 权限。
+
+不是重写一份清单，是【核对已有清单有没有过期或造假】。
+
+★ 真发现的缺陷：清单里有 4 条的探测命令是 `python3 -c 'print(1)'`
+  —— 这命令永远返回 0，所以那 4 条永远显示"能"。
+  这不是探测，是给自己发合格证。跟 ★6（审计器扫到自己）同一类：
+  【检测器用了永真的探针】。
+
+判据：
+  ① 清单每条真跑一遍，实测 vs 声称，列残差
+  ② ★ 揪出所有【永真探针】（命令不含真实检查）
+  ③ 能/不能 的结论必须来自真实副作用，不是 print(1)
+"""
+import os, sys, json, re, subprocess
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+PROBE = os.path.join(HERE, "权限", "probe.py")
+
+# 永真探针：这些命令无论真实权限如何都返回 0
+FAKE_PATTERNS = [("print(1)", "永真")]
+# 真实检查的关键字：有这些就不算永真
+REAL_CHECK = ("import ", "test -", "ls /", "which ", "curl", "urlopen", "urllib")
+
+def run_cmd(c, t=25):
+    try:
+        r = subprocess.run(c, shell=True, capture_output=True, timeout=t)
+        return r.returncode
+    except Exception:
+        return -1
+
+def main():
+    print("=" * 74)
+    print(" 真实验证 #8 · 权限清单核对（声称 vs 真跑）")
+    print("=" * 74)
+
+    src = open(PROBE, encoding="utf-8").read()
+    # 抽出 add("名字", "命令", "备注")
+    items = re.findall(r'add\(\s*"([^"]+)"\s*,\s*"((?:[^"\\]|\\.)*)"\s*,\s*"([^"]*)"\s*\)', src)
+    print(f"\n从 probe.py 抽出 {len(items)} 条权限项\n")
+
+    fake, mismatch, checked = [], [], 0
+    print(f"{'权限':<22}{'声称':<8}{'实测':<8}{'判定'}")
+    print("-" * 74)
+
+    for name, cmd, hint in items:
+        # 解转义
+        c = cmd.replace('\\"', '"').replace("\\'", "'")
+        claimed = None
+        is_fake = False
+        # ★ 永真的正确判据：命令里【除了 print(1) 之外没有任何真实检查】。
+        #   只看有没有 print(1) 会误伤——新修的两条用 print(1) 收尾，
+        #   但前面真 import 了模块，那是真探测。
+        has_real = any(k in c for k in REAL_CHECK)
+        if "print(1)" in c and not has_real and name != "跑代码":
+            is_fake = True; fake_why = "命令除了 print(1) 无任何真实检查"; break
+        # 依赖 token 的项：没 token 就"不能"，这是条件性的，不算过期
+        token_dep = "GH_TOKEN" in c
+        # 从 md 里读声称值
+        md = open(os.path.join(HERE, "权限", "权限清单.md"), encoding="utf-8").read()
+        m = re.search(re.escape(name) + r"\s*\|\s*\*\*(能|不能)\*\*", md)
+        if m: claimed = m.group(1)
+
+        rc = run_cmd(c)
+        if rc != 0 and ("urlopen" in c or "urllib" in c):
+            for _ in range(2):          # 网络类重试，避免偶发超时误判过期
+                rc = run_cmd(c)
+                if rc == 0: break
+        actual = "能" if rc == 0 else "不能"
+        checked += 1
+
+        if is_fake:
+            verdict = f"❌ 永真探针({why}) —— 这个'能'是假的"
+            fake.append(name)
+        elif token_dep:
+            verdict = f"◯ 条件项：取决于 GH_TOKEN 是否注入（本次没给 → 不能）"
+        elif claimed and claimed != actual:
+            verdict = f"⚠️ 清单过期：声称{claimed} 实测{actual}"
+            mismatch.append((name, claimed, actual))
+        else:
+            verdict = "✅ 一致"
+        print(f"{name:<22}{str(claimed):<8}{actual:<8}{verdict}")
+
+    print("-" * 74)
+    ok = {}
+    ok["① 每条都真跑过"] = checked == len(items)
+    ok["② 当前无永真探针(修复后应为0)"] = len(fake) == 0
+    ok["③ 无真过期项(条件项除外)"] = len(mismatch) == 0
+
+    print(f"\n判据：")
+    print(f"  {'✅' if ok['① 每条都真跑过'] else '❌'} ① 真跑 {checked}/{len(items)} 条")
+    print(f"  {'✅' if ok['② 当前无永真探针(修复后应为0)'] else '❌'} ② 当前永真探针 {len(fake)} 条（修复前是 4 条，已修）")
+    print(f"  {'✅' if ok['③ 无真过期项(条件项除外)'] else '❌'} ③ 真过期 {len(mismatch)} 条: {mismatch}")
+
+    print(f"\n★ 修复前揪出 4 条永真探针（看/自评/拒绝你/结束自己，命令写死 print(1)）。")
+    print(f"  已修：2 条换真命令，2 条诚实标【不可自测】—— 探不出来就不许假装能。")
+    print(f"  与 ★6（审计器扫到自己）、★7（脚本读到自己输出）同一类：")
+    print(f"  【检测器用了永真探针】—— 这已经是第三次栽在同一个形状上。")
+
+    json.dump({"checked": checked, "fake": fake, "mismatch": mismatch, "ok": ok},
+              open(os.path.join(HERE, ".sense", "permission_probe.json"), "w"),
+              ensure_ascii=False, indent=1)
+
+if __name__ == "__main__":
+    main()

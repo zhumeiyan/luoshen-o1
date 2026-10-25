@@ -1,1 +1,72 @@
-ewogICJwb3NpdGl2ZSI6IHsKICAgICJ6ZXJvIjogewogICAgICAiYWxpdmUiOiAxNiwKICAgICAgIm4iOiAxNiwKICAgICAgInNrZXciOiAwLjAxODIwOTMwNDQ5NTAyMjY3OCwKICAgICAgInNkIjogMC4wMTQzNjE4OTgzMjAyNDM5MTMKICAgIH0sCiAgICAiY29uc3RfaGkiOiB7CiAgICAgICJhbGl2ZSI6IDE2LAogICAgICAibiI6IDE2LAogICAgICAic2tldyI6IDAuMDE4MjI0MjUwNzAxMzg5ODY3LAogICAgICAic2QiOiAwLjAxNDM2MjMyOTczODI2NDc3OAogICAgfSwKICAgICJjb25zdF9sbyI6IHsKICAgICAgImFsaXZlIjogMTYsCiAgICAgICJuIjogMTYsCiAgICAgICJza2V3IjogMC4wMTgyMjI5MTk4NTM1MzIzODgsCiAgICAgICJzZCI6IDAuMDE0MzY3Mjk4NDM1NjkxNzM1CiAgICB9CiAgfSwKICAicGF0aHdheV9zZW5zaXRpdmUiOiB0cnVlLAogICJlbmdpbmUiOiB7CiAgICAibm9uZSI6IHsKICAgICAgImFsaXZlIjogMTYsCiAgICAgICJuIjogMTYsCiAgICAgICJza2V3IjogMC4wMTgyMDkzMDQ0OTUwMjI2NzgsCiAgICAgICJzZCI6IDAuMDE0MzYxODk4MzIwMjQzOTEzCiAgICB9LAogICAgInByZXNldCI6IHsKICAgICAgImFsaXZlIjogMTYsCiAgICAgICJuIjogMTYsCiAgICAgICJza2V3IjogMC4wMTcxOTQ4NzcxMDUxNjE0MzYsCiAgICAgICJzZCI6IDAuMDE0MjAzNzkyMjcwMzg1NjQzCiAgICB9LAogICAgImxlYXJuZWQiOiB7CiAgICAgICJhbGl2ZSI6IDE2LAogICAgICAibiI6IDE2LAogICAgICAic2tldyI6IDAuMDE4MjIwOTU3NzA4MDY4OTA1LAogICAgICAic2QiOiAwLjAxNDM1Nzc0ODYxNjYyMzE2MgogICAgfSwKICAgICJibGluZCI6IHsKICAgICAgImFsaXZlIjogMTYsCiAgICAgICJuIjogMTYsCiAgICAgICJza2V3IjogMC4wMTcxNTIxOTA1MDgwNzYzNzQsCiAgICAgICJzZCI6IDAuMDE0MjIyNTUyNTU0NDgwMjY4CiAgICB9CiAgfSwKICAidHJhal9zdGF0cyI6IHsKICAgICJub25lIjogewogICAgICAibWVhbiI6IDAuMCwKICAgICAgInN0ZCI6IDAuMCwKICAgICAgIm1heCI6IDAuMAogICAgfSwKICAgICJwcmVzZXQiOiB7CiAgICAgICJtZWFuIjogMC4xMDQ2NjY2OTk1MzEyODA4LAogICAgICAic3RkIjogMC4yMzM4NjYzMTc2MzQ5NjQxMywKICAgICAgIm1heCI6IDEuMAogICAgfSwKICAgICJsZWFybmVkIjogewogICAgICAibWVhbiI6IDAuMDcxMzgxNDQ1NzM1MDkxNDUsCiAgICAgICJzdGQiOiAwLjE3MjkzNjgzNDA0MzMyNjI0LAogICAgICAibWF4IjogMC45NTQ4MTE1OTc2NzYzMTQxCiAgICB9LAogICAgImJsaW5kIjogewogICAgICAibWVhbiI6IDAuMDgxNTA1OTIzNzc1OTkwNzUsCiAgICAgICJzdGQiOiAwLjE5OTU3NTgwMzk3NDk3NzY4LAogICAgICAibWF4IjogMC45MTQ2MTY4NDQ5MjY0MzYxCiAgICB9CiAgfSwKICAic2VjcyI6IDUuNTQ3MzU5NzA0OTcxMzEzNQp9
+{
+  "positive": {
+    "zero": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.018209304495022678,
+      "sd": 0.014361898320243913
+    },
+    "const_hi": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.018224250701389867,
+      "sd": 0.014362329738264778
+    },
+    "const_lo": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.018222919853532388,
+      "sd": 0.014367298435691735
+    }
+  },
+  "pathway_sensitive": true,
+  "engine": {
+    "none": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.018209304495022678,
+      "sd": 0.014361898320243913
+    },
+    "preset": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.017194877105161436,
+      "sd": 0.014203792270385643
+    },
+    "learned": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.018220957708068905,
+      "sd": 0.014357748616623162
+    },
+    "blind": {
+      "alive": 16,
+      "n": 16,
+      "skew": 0.017152190508076374,
+      "sd": 0.014222552554480268
+    }
+  },
+  "traj_stats": {
+    "none": {
+      "mean": 0.0,
+      "std": 0.0,
+      "max": 0.0
+    },
+    "preset": {
+      "mean": 0.1046666995312808,
+      "std": 0.23386631763496413,
+      "max": 1.0
+    },
+    "learned": {
+      "mean": 0.07138144573509145,
+      "std": 0.17293683404332624,
+      "max": 0.9548115976763141
+    },
+    "blind": {
+      "mean": 0.08150592377599075,
+      "std": 0.19957580397497768,
+      "max": 0.9146168449264361
+    }
+  },
+  "secs": 5.5473597049713135
+}

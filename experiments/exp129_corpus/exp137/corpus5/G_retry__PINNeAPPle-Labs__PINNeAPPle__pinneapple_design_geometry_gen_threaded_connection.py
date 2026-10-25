@@ -1,1 +1,441 @@
-IiIiVGhyZWFkZWQgY29ubmVjdGlvbiBnZW9tZXRyeSBmb3Igcm90YXJ5IGNvdXBsaW5nIFBJTk4gc2ltdWxhdGlvbnMuCgpHZW5lcmF0ZXMgMkQgYXhpc3ltbWV0cmljIChyLCB6KSBtZXNoZXMgb2Ygcm90YXJ5IHRocmVhZGVkIGNvbm5lY3Rpb25zCnVzaW5nIGdtc2guIFRoZSBtZXNoIGlzIGNvbXBhdGlibGUgd2l0aCBGRW5pQ1MvZG9sZmlueCBhbmQgdGhlClNvbGlkTWVjaGFuaWNzUGlwZWxpbmUuCgpTdXBwb3J0ZWQgY29ubmVjdGlvbnMKLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgVEM1MCAg4oCUIGxhcmdlLWRpYW1ldGVyIGNvdXBsaW5nLCA0IFRQSSwgdGFwZXIgMToxNgogIFRDNDYgIOKAlCBtZWRpdW0tZGlhbWV0ZXIgY291cGxpbmcsIDQgVFBJLCB0YXBlciAxOjE2CiAgVEMzOCAg4oCUIHN0YW5kYXJkIGNvdXBsaW5nLCA0IFRQSSwgdGFwZXIgMToxNgogIEN1c3RvbSDigJQgYW55IFYtdGhyZWFkIHZpYSBUaHJlYWRQcm9maWxlCgpUaHJlYWQgcHJvZmlsZSAoQVBJIFYtMC4wMzhSKQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICBQaXRjaCAgICAgcCA9IDI1LjQgLyBUUEkgICBtbQogIFRhcGVyICAgICBUID0gMToxNiAg4oaSICDOlHIvzpR6ID0gMS8zMiBwZXIgc2lkZQogIEhlaWdodCAgICBoX3RvdGFsID0gMC44NjYwIMK3IHAKICBDbGVhcmFuY2UgYyA9IDAuMDM4IMK3IHAgICAgIChyb290IGZsYXQpCiAgQ3Jlc3QgY3V0ID0gMC4wMzggwrcgcAoKSW4gdGhlIDJEIChyLCB6KSBjcm9zcy1zZWN0aW9uIHRoZSB0aHJlYWQgYXBwZWFycyBhcyBhIHNhd3Rvb3RoIG9uIHRoZQppbm5lci9vdXRlciBjeWxpbmRyaWNhbCBzdXJmYWNlcyBvZiB0aGUgY29ubmVjdGlvbi4KClVzYWdlCi0tLS0tCiAgICBmcm9tIHBpbm5lYXBwbGVfZGVzaWduLmdlb21ldHJ5Lmdlbi50aHJlYWRlZF9jb25uZWN0aW9uIGltcG9ydCBUQzUwR2VvbWV0cnkKCiAgICBnZW9tID0gVEM1MEdlb21ldHJ5KGJvZHk9IkJPWCIpCiAgICBtZXNoX3BhdGggPSBnZW9tLmdlbmVyYXRlX21lc2gob3V0cHV0PSJtZXNoX3RjNTBfYm94Lm1zaCIsIGxjPTAuNSkKICAgICMg4oaSIE1lc2gyRCAvIC5tc2ggZmlsZSByZWFkeSBmb3IgRkVuaUNTIG9yIHBvaW50IHNhbXBsaW5nCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgbWF0aAppbXBvcnQgd2FybmluZ3MKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QsIExpc3QsIE9wdGlvbmFsLCBUdXBsZQoKaW1wb3J0IG51bXB5IGFzIG5wCgoKIyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKIyBUaHJlYWQgcHJvZmlsZSBkYXRhCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCgpAZGF0YWNsYXNzCmNsYXNzIFRocmVhZFByb2ZpbGU6CiAgICAiIiJHZW9tZXRyaWMgcGFyYW1ldGVycyBmb3IgYSBzaW5nbGUgQVBJIHJvdGFyeSBzaG91bGRlcmVkIHRocmVhZCBmb3JtLiIiIgogICAgbmFtZTogc3RyCiAgICB0cGk6IGZsb2F0ICAgICAgICAgICMgdGhyZWFkcyBwZXIgaW5jaAogICAgdGFwZXI6IGZsb2F0ICAgICAgICAjIHJhZGlhbCBjaGFuZ2UgcGVyIHVuaXQgYXhpYWwgbGVuZ3RoICg9IDEvMzIgZm9yIDE6MTYgdGFwZXIpCiAgICBoX2ZhY3RvcjogZmxvYXQgPSAwLjg2NjAgICAjIGhfdG90YWwgPSBoX2ZhY3RvciAqIHBpdGNoICAoNjDCsCBWIHRocmVhZCkKICAgIGNsZWFyYW5jZV9mYWN0b3I6IGZsb2F0ID0gMC4wMzggICMgYyA9IGZhY3RvciAqIHBpdGNoIChyb290L2NyZXN0IGZsYXQgd2lkdGgpCgogICAgQHByb3BlcnR5CiAgICBkZWYgcGl0Y2hfbW0oc2VsZikgLT4gZmxvYXQ6CiAgICAgICAgcmV0dXJuIDI1LjQgLyBzZWxmLnRwaQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHRocmVhZF9oZWlnaHRfbW0oc2VsZikgLT4gZmxvYXQ6CiAgICAgICAgcmV0dXJuIHNlbGYuaF9mYWN0b3IgKiBzZWxmLnBpdGNoX21tCgogICAgQHByb3BlcnR5CiAgICBkZWYgY2xlYXJhbmNlX21tKHNlbGYpIC0+IGZsb2F0OgogICAgICAgIHJldHVybiBzZWxmLmNsZWFyYW5jZV9mYWN0b3IgKiBzZWxmLnBpdGNoX21tCgoKIyBTdGFuZGFyZCBBUEkgVi0wLjAzOFIgcHJvZmlsZXMKQVBJX1YwMzhSID0gVGhyZWFkUHJvZmlsZSgiQVBJIFYtMC4wMzhSIiwgdHBpPTQuMCwgdGFwZXI9MS4wIC8gMzIuMCkKCgpAZGF0YWNsYXNzCmNsYXNzIENvbm5lY3Rpb25TcGVjOgogICAgIiIiRnVsbCBnZW9tZXRyeSBzcGVjaWZpY2F0aW9uIGZvciBvbmUgYm9keSAoQk9YIG9yIFBJTikgb2YgYW4gTkMgY29ubmVjdGlvbi4iIiIKICAgIG5hbWU6IHN0ciAgICAgICAgICAgICAgICAgICAgIyBlLmcuICJUQzUwX0JPWCIKICAgIHJfYm9yZTogZmxvYXQgICAgICAgICAgICAgICAgIyBtbSDigJQgYm9yZSByYWRpdXMgKGlubmVyIHN1cmZhY2UpCiAgICByX291dGVyOiBmbG9hdCAgICAgICAgICAgICAgICMgbW0g4oCUIG91dGVyIHJhZGl1cwogICAgel90aHJlYWRfc3RhcnQ6IGZsb2F0ICAgICAgICAjIG1tIOKAlCB6IHdoZXJlIHRocmVhZCBiZWdpbnMKICAgIHpfdGhyZWFkX2VuZDogZmxvYXQgICAgICAgICAgIyBtbSDigJQgeiB3aGVyZSB0aHJlYWQgZW5kcwogICAgel9zaG91bGRlcl90b3A6IGZsb2F0ICAgICAgICAjIG1tIOKAlCB0b3RhbCBsZW5ndGggKHNob3VsZGVyIGF0IHRvcCkKICAgIHRocmVhZDogVGhyZWFkUHJvZmlsZQogICAgYm9keTogc3RyID0gIkJPWCIgICAgICAgICAgICAjICJCT1giIG9yICJQSU4iCiAgICBuX3RocmVhZHM6IE9wdGlvbmFsW2ludF0gPSBOb25lICAjIGlmIE5vbmUsIGNvbXB1dGVkIGZyb20gZ2VvbWV0cnkKCiAgICBAcHJvcGVydHkKICAgIGRlZiB6X3RvdGFsKHNlbGYpIC0+IGZsb2F0OgogICAgICAgIHJldHVybiBzZWxmLnpfc2hvdWxkZXJfdG9wCgogICAgQHByb3BlcnR5CiAgICBkZWYgbl90aHJlYWRfdHVybnMoc2VsZikgLT4gaW50OgogICAgICAgIGlmIHNlbGYubl90aHJlYWRzIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gc2VsZi5uX3RocmVhZHMKICAgICAgICB0aHJlYWRfbGVuZ3RoID0gc2VsZi56X3RocmVhZF9lbmQgLSBzZWxmLnpfdGhyZWFkX3N0YXJ0CiAgICAgICAgcmV0dXJuIG1heCgxLCBpbnQodGhyZWFkX2xlbmd0aCAvIHNlbGYudGhyZWFkLnBpdGNoX21tKSkKCgojIFN0YW5kYXJkIE5DIGNvbm5lY3Rpb25zCl9UQ19TUEVDUzogRGljdFtzdHIsIERpY3Rbc3RyLCBDb25uZWN0aW9uU3BlY11dID0gewogICAgIlRDNTAiOiB7CiAgICAgICAgIkJPWCI6IENvbm5lY3Rpb25TcGVjKAogICAgICAgICAgICBuYW1lPSJUQzUwX0JPWCIsCiAgICAgICAgICAgIHJfYm9yZT01MC4wLCByX291dGVyPTg0LjE1LAogICAgICAgICAgICB6X3RocmVhZF9zdGFydD0xMC4wLCB6X3RocmVhZF9lbmQ9MTE1LjAsCiAgICAgICAgICAgIHpfc2hvdWxkZXJfdG9wPTE0MC4wLAogICAgICAgICAgICB0aHJlYWQ9QVBJX1YwMzhSLCBib2R5PSJCT1giLAogICAgICAgICksCiAgICAgICAgIlBJTiI6IENvbm5lY3Rpb25TcGVjKAogICAgICAgICAgICBuYW1lPSJUQzUwX1BJTiIsCiAgICAgICAgICAgIHJfYm9yZT00OC4wLCByX291dGVyPTYyLjAsCiAgICAgICAgICAgIHpfdGhyZWFkX3N0YXJ0PTEwLjAsIHpfdGhyZWFkX2VuZD0xMTUuMCwKICAgICAgICAgICAgel9zaG91bGRlcl90b3A9MTQwLjAsCiAgICAgICAgICAgIHRocmVhZD1BUElfVjAzOFIsIGJvZHk9IlBJTiIsCiAgICAgICAgKSwKICAgIH0sCiAgICAiVEM0NiI6IHsKICAgICAgICAiQk9YIjogQ29ubmVjdGlvblNwZWMoCiAgICAgICAgICAgIG5hbWU9IlRDNDZfQk9YIiwKICAgICAgICAgICAgcl9ib3JlPTQ0LjAsIHJfb3V0ZXI9NzYuMiwKICAgICAgICAgICAgel90aHJlYWRfc3RhcnQ9OC4wLCB6X3RocmVhZF9lbmQ9MTAwLjAsCiAgICAgICAgICAgIHpfc2hvdWxkZXJfdG9wPTEyNS4wLAogICAgICAgICAgICB0aHJlYWQ9QVBJX1YwMzhSLCBib2R5PSJCT1giLAogICAgICAgICksCiAgICAgICAgIlBJTiI6IENvbm5lY3Rpb25TcGVjKAogICAgICAgICAgICBuYW1lPSJUQzQ2X1BJTiIsCiAgICAgICAgICAgIHJfYm9yZT00Mi4wLCByX291dGVyPTU1LjAsCiAgICAgICAgICAgIHpfdGhyZWFkX3N0YXJ0PTguMCwgel90aHJlYWRfZW5kPTEwMC4wLAogICAgICAgICAgICB6X3Nob3VsZGVyX3RvcD0xMjUuMCwKICAgICAgICAgICAgdGhyZWFkPUFQSV9WMDM4UiwgYm9keT0iUElOIiwKICAgICAgICApLAogICAgfSwKICAgICJUQzM4IjogewogICAgICAgICJCT1giOiBDb25uZWN0aW9uU3BlYygKICAgICAgICAgICAgbmFtZT0iVEMzOF9CT1giLAogICAgICAgICAgICByX2JvcmU9MzYuMCwgcl9vdXRlcj02My41LAogICAgICAgICAgICB6X3RocmVhZF9zdGFydD02LjAsIHpfdGhyZWFkX2VuZD04NS4wLAogICAgICAgICAgICB6X3Nob3VsZGVyX3RvcD0xMDUuMCwKICAgICAgICAgICAgdGhyZWFkPUFQSV9WMDM4UiwgYm9keT0iQk9YIiwKICAgICAgICApLAogICAgICAgICJQSU4iOiBDb25uZWN0aW9uU3BlYygKICAgICAgICAgICAgbmFtZT0iVEMzOF9QSU4iLAogICAgICAgICAgICByX2JvcmU9MzQuMCwgcl9vdXRlcj00Ni4wLAogICAgICAgICAgICB6X3RocmVhZF9zdGFydD02LjAsIHpfdGhyZWFkX2VuZD04NS4wLAogICAgICAgICAgICB6X3Nob3VsZGVyX3RvcD0xMDUuMCwKICAgICAgICAgICAgdGhyZWFkPUFQSV9WMDM4UiwgYm9keT0iUElOIiwKICAgICAgICApLAogICAgfSwKfQoKCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCiMgVGhyZWFkIHByb2ZpbGUgcG9seWdvbiBidWlsZGVyCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQCgpkZWYgYnVpbGRfdGhyZWFkX3BvbHlnb24oCiAgICBzcGVjOiBDb25uZWN0aW9uU3BlYywKICAgIG5fdGhyZWFkczogT3B0aW9uYWxbaW50XSA9IE5vbmUsCikgLT4gTGlzdFtUdXBsZVtmbG9hdCwgZmxvYXRdXToKICAgICIiIgogICAgQnVpbGRzIHRoZSAociwgeikgcG9seWdvbiB0aGF0IGRlc2NyaWJlcyB0aGUgdGhyZWFkZWQgc3VyZmFjZSBwcm9maWxlLgoKICAgIFRoZSByZXN1bHQgaXMgYSBsaXN0IG9mIChyLCB6KSBwb2ludHMgZm9ybWluZyB0aGUgc2F3dG9vdGggdGhyZWFkIHByb2ZpbGUKICAgIG9uIHRoZSByZWxldmFudCBjeWxpbmRyaWNhbCBzdXJmYWNlOgogICAgICBCT1g6IGlubmVyIHN1cmZhY2UgKHIgPSByX2JvcmUgc2lkZSkg4oaSIHRocmVhZHMgY3V0IElOVE8gdGhlIGJveCBib3JlCiAgICAgIFBJTjogb3V0ZXIgc3VyZmFjZSAociA9IHJfb3V0ZXIgc2lkZSkg4oaSIHRocmVhZHMgb24gcGluIG91dGVyIGRpYW1ldGVyCgogICAgVGhlIHRhcGVyIGlzIGFwcGxpZWQ6IHRoZSB0aHJlYWQgcmVmZXJlbmNlIGRpYW1ldGVyIGluY3JlYXNlcyBmcm9tCiAgICB6X3RocmVhZF9zdGFydCB0b3dhcmQgel90aHJlYWRfZW5kIGF0IHJhdGUgYHRhcGVyYCAocmFkaWFsL2F4aWFsKS4KCiAgICBSZXR1cm5zIG9yZGVyZWQgKHIsIHopIHZlcnRpY2VzIGZvciB0aGUgdGhyZWFkZWQgcHJvZmlsZSBzZWdtZW50LgogICAgVGhlIGZ1bGwgYm91bmRhcnkgcG9seWdvbiBpcyBhc3NlbWJsZWQgYnkgdGhlIG1lc2ggYnVpbGRlci4KICAgICIiIgogICAgdGggID0gc3BlYy50aHJlYWQKICAgIHAgICA9IHRoLnBpdGNoX21tCiAgICBoICAgPSB0aC50aHJlYWRfaGVpZ2h0X21tCiAgICBjICAgPSB0aC5jbGVhcmFuY2VfbW0KICAgIHRhcCA9IHRoLnRhcGVyICAgICAjIM6UciBwZXIgzpR6CgogICAgbiA9IG5fdGhyZWFkcyBvciBzcGVjLm5fdGhyZWFkX3R1cm5zCiAgICB6MCA9IHNwZWMuel90aHJlYWRfc3RhcnQKCiAgICAjIEZvciBCT1g6IHRocmVhZHMgYXJlIG9uIHRoZSBib3JlIChyLXNpZGUpLCBub21pbmFsIHN1cmZhY2UgYXQgcl9ib3JlCiAgICAjIEZvciBQSU46IHRocmVhZHMgYXJlIG9uIHRoZSBvdXRlciBzdXJmYWNlLCBub21pbmFsIGF0IHJfb3V0ZXIKICAgIGlmIHNwZWMuYm9keSA9PSAiQk9YIjoKICAgICAgICByX25vbWluYWxfYXRfc3RhcnQgPSBzcGVjLnJfYm9yZQogICAgZWxzZToKICAgICAgICByX25vbWluYWxfYXRfc3RhcnQgPSBzcGVjLnJfb3V0ZXIKCiAgICBwdHMgPSBbXQogICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgel9iYXNlID0gejAgKyBpICogcAogICAgICAgIHJfYmFzZSA9IHJfbm9taW5hbF9hdF9zdGFydCArIHRhcCAqICh6X2Jhc2UgLSB6MCkKCiAgICAgICAgIyBFYWNoIHRocmVhZCB0b290aDogZmxhdCByb290ICh3aWR0aCBjKSDihpIgZmxhbmtzIOKGkiBmbGF0IGNyZXN0ICh3aWR0aCBjKQogICAgICAgICMgU2ltcGxpZmllZCBzYXd0b290aCBpbiAoeiwgcikgZ29pbmcgZnJvbSByb290IHRvIGNyZXN0OgogICAgICAgICMgcG9pbnRzOiAoel9iYXNlLCByX2Jhc2UpIOKGkiAoel9iYXNlK2MsIHJfYmFzZSkg4oaSCiAgICAgICAgIyAgICAgICAgICh6X2Jhc2UrcC8yLCByX2Jhc2XCsWgpIOKGkiAoel9iYXNlK3AtYywgcl9iYXNlKyhwLWMpKnRhcMKxaCkg4oaSCiAgICAgICAgIyAgICAgICAgICh6X2Jhc2UrcCwgcl9iYXNlK3AqdGFwKQogICAgICAgIHoxID0gel9iYXNlCiAgICAgICAgejIgPSB6X2Jhc2UgKyBjCiAgICAgICAgejMgPSB6X2Jhc2UgKyBwIC8gMi4wCiAgICAgICAgejQgPSB6X2Jhc2UgKyBwIC0gYwogICAgICAgIHo1ID0gel9iYXNlICsgcAoKICAgICAgICByMSA9IHJfYmFzZQogICAgICAgIHIyID0gcl9iYXNlICsgdGFwICogYwogICAgICAgIHIzID0gcl9iYXNlICsgdGFwICogcCAvIDIuMAogICAgICAgIHI0ID0gcl9iYXNlICsgdGFwICogKHAgLSBjKQogICAgICAgIHI1ID0gcl9iYXNlICsgdGFwICogcAoKICAgICAgICAjIFRocmVhZCBkaXJlY3Rpb246IEJPWCB0aHJlYWRzIGdvIGlud2FyZCAoK3IpLCBQSU4gdGhyZWFkcyBnbyBvdXR3YXJkICgrcikKICAgICAgICBzaWduID0gKzEuMCAgIyBib3RoIEJPWCBib3JlIGFuZCBQSU4gb3V0ZXIgZ28gdG93YXJkIGxhcmdlciByIHdpdGggdGFwZXIKCiAgICAgICAgaWYgc3BlYy5ib2R5ID09ICJCT1giOgogICAgICAgICAgICAjIFRocmVhZCBoZWlnaHQgZ29lcyBJTlRPIGJvcmUgKGluY3JlYXNpbmcgcikKICAgICAgICAgICAgcHRzICs9IFsocjEsIHoxKSwgKHIyLCB6MiksIChyMyArIGgsIHozKSwgKHI0LCB6NCldCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBUaHJlYWQgaGVpZ2h0IHByb3RydWRlcyBvdXR3YXJkIChpbmNyZWFzaW5nIHIpCiAgICAgICAgICAgIHB0cyArPSBbKHIxLCB6MSksIChyMiwgejIpLCAocjMgKyBoLCB6MyksIChyNCwgejQpXQoKICAgICMgQ2xvc2UgdG8gZW5kIG9mIHRocmVhZCB6b25lCiAgICB6X2VuZCA9IHowICsgbiAqIHAKICAgIHJfZW5kID0gcl9ub21pbmFsX2F0X3N0YXJ0ICsgdGFwICogKHpfZW5kIC0gejApCiAgICBwdHMuYXBwZW5kKChyX2VuZCwgel9lbmQpKQoKICAgIHJldHVybiBwdHMKCgojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkAojIEdtc2gtYmFzZWQgbWVzaCBnZW5lcmF0b3IKIyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKCmNsYXNzIFRocmVhZGVkQ29ubmVjdGlvbk1lc2hlcjoKICAgICIiIgogICAgR2VuZXJhdGVzIGEgMkQgYXhpc3ltbWV0cmljIG1lc2ggb2YgYW4gQVBJIHRocmVhZGVkIGNvbm5lY3Rpb24gdXNpbmcgZ21zaC4KCiAgICBUaGUgbWVzaCByZXByZXNlbnRzIHRoZSAociwgeikgY3Jvc3Mtc2VjdGlvbi4gQm91bmRhcnkgcmVnaW9ucyBhcmUgdGFnZ2VkOgogICAgICAtICJib3JlIiAgICAgICAgIDogaW5uZXIgY3lsaW5kcmljYWwgc3VyZmFjZSAociA9IHJfYm9yZSkKICAgICAgLSAib3V0ZXIiICAgICAgICA6IG91dGVyIGN5bGluZHJpY2FsIHN1cmZhY2UgKHIgPSByX291dGVyKQogICAgICAtICJub3NlIiAgICAgICAgIDogeiA9IHpfbWluIGZhY2UgKHRocmVhZCBzdGFydCwgZml4ZWQgbm9zZSkKICAgICAgLSAic2hvdWxkZXJfdG9wIiA6IHogPSB6X21heCBmYWNlIChtYWtlLXVwIHNob3VsZGVyIC8gdG9wKQogICAgICAtICJ0aHJlYWRfZmxhbmsiIDogdGhyZWFkZWQgc3VyZmFjZSAoc2F3dG9vdGggcHJvZmlsZSkKCiAgICBQYXJhbWV0ZXJzCiAgICAtLS0tLS0tLS0tCiAgICBzcGVjIDogQ29ubmVjdGlvblNwZWMKICAgICAgICBHZW9tZXRyeSBwYXJhbWV0ZXJzIGZvciB0aGUgY29ubmVjdGlvbiBib2R5LgogICAgbGMgOiBmbG9hdAogICAgICAgIENoYXJhY3RlcmlzdGljIG1lc2ggc2l6ZSAobW0pLiBTbWFsbGVyID0gZmluZXIuCiAgICBsY190aHJlYWQgOiBmbG9hdAogICAgICAgIEZpbmVyIG1lc2ggc2l6ZSBhdCB0aHJlYWQgcm9vdC9jcmVzdCAoZGVmYXVsdCA9IGxjIC8gMykuCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwKICAgICAgICBzcGVjOiBDb25uZWN0aW9uU3BlYywKICAgICAgICBsYzogZmxvYXQgPSAxLjAsCiAgICAgICAgbGNfdGhyZWFkOiBPcHRpb25hbFtmbG9hdF0gPSBOb25lLAogICAgKToKICAgICAgICBzZWxmLnNwZWMgPSBzcGVjCiAgICAgICAgc2VsZi5sYyA9IGxjCiAgICAgICAgc2VsZi5sY190aHJlYWQgPSBsY190aHJlYWQgb3IgbGMgLyAzLjAKCiAgICBkZWYgZ2VuZXJhdGUoc2VsZiwgb3V0cHV0X3BhdGg6IHN0ciB8IFBhdGggPSAibWVzaC5tc2giKSAtPiBQYXRoOgogICAgICAgICIiIgogICAgICAgIEJ1aWxkIHRoZSBtZXNoIGFuZCB3cml0ZSBpdCB0byBhIC5tc2ggZmlsZS4KCiAgICAgICAgUmVxdWlyZXM6IHBpcCBpbnN0YWxsICJQSU5OZUFQUGxlW2dlb21dIiAgKGluc3RhbGxzIGdtc2gpCgogICAgICAgIFJldHVybnMgdGhlIHBhdGggdG8gdGhlIGdlbmVyYXRlZCAubXNoIGZpbGUuCiAgICAgICAgIiIiCiAgICAgICAgdHJ5OgogICAgICAgICAgICBpbXBvcnQgZ21zaCAgIyB0eXBlOiBpZ25vcmVbaW1wb3J0XQogICAgICAgIGV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgICAgICAgICAgcmFpc2UgSW1wb3J0RXJyb3IoCiAgICAgICAgICAgICAgICAiZ21zaCBpcyByZXF1aXJlZCBmb3IgbWVzaCBnZW5lcmF0aW9uLlxuIgogICAgICAgICAgICAgICAgIkluc3RhbGwgd2l0aDogcGlwIGluc3RhbGwgJ1BJTk5lQVBQbGVbZ2VvbV0nICBvciAgcGlwIGluc3RhbGwgZ21zaCIKICAgICAgICAgICAgKQoKICAgICAgICBvdXRwdXRfcGF0aCA9IFBhdGgob3V0cHV0X3BhdGgpCiAgICAgICAgc3BlYyA9IHNlbGYuc3BlYwogICAgICAgIGxjICAgPSBzZWxmLmxjCiAgICAgICAgbGNfdCA9IHNlbGYubGNfdGhyZWFkCgogICAgICAgIGdtc2guaW5pdGlhbGl6ZSgpCiAgICAgICAgZ21zaC5tb2RlbC5hZGQoc3BlYy5uYW1lKQogICAgICAgIGdtc2gub3B0aW9uLnNldE51bWJlcigiR2VuZXJhbC5UZXJtaW5hbCIsIDApICAgIyBzaWxlbnQKICAgICAgICBnbXNoLm9wdGlvbi5zZXROdW1iZXIoIk1lc2guQWxnb3JpdGhtIiwgNikgICAgICMgRnJvbnRhbC1EZWxhdW5heSAyRAoKICAgICAgICAjIOKUgOKUgCBCdWlsZCBib3VuZGFyeSBwb2x5Z29uIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAogICAgICAgICMgVGhlIDJEIGNyb3NzIHNlY3Rpb24gaW4gKHIsIHopIGlzIGJvdW5kZWQgYnk6CiAgICAgICAgIyAgIGJvdHRvbSAoej0wLCBub3NlKSAgOiAgciDiiIggW3JfYm9yZSwgcl9vdXRlcl0KICAgICAgICAjICAgb3V0ZXIgcmlnaHQgKHI9cl9vdXRlcik6IHog4oiIIFswLCB6X3RvdGFsXQogICAgICAgICMgICB0b3AgKHo9el90b3RhbCwgc2hvdWxkZXIpOiByIOKIiCBbcl9ib3JlLCByX291dGVyXQogICAgICAgICMgICBsZWZ0IHNpZGUgKHI9cl9ib3JlKTogeiDiiIggWzAsIHpfdG90YWxdICDigJQgd2l0aCB0aHJlYWQgc2F3dG9vdGgKICAgICAgICAjICAgICAoc2ltcGxpZmllZDogc3RyYWlnaHQgYm9yZSArIHRocmVhZCBub3RjaCBhcHByb3hpbWF0aW9uKQoKICAgICAgICBzID0gc3BlYwogICAgICAgIHIwLCByMSA9IHMucl9ib3JlLCBzLnJfb3V0ZXIKICAgICAgICB6MCwgejEgPSAwLjAsIHMuel90b3RhbAoKICAgICAgICAjIENvcm5lciBwb2ludHMgKGFsbCBhdCBub21pbmFsIGJvcmUvb3V0ZXIg4oCUIG5vIHRocmVhZCBkZXRhaWwgaW4gc2ltcGxlIG1vZGUpCiAgICAgICAgcF9ib3JlX2JvdCAgID0gZ21zaC5tb2RlbC5nZW8uYWRkUG9pbnQocjAsIHowLCAwLCBsYykKICAgICAgICBwX291dGVyX2JvdCAgPSBnbXNoLm1vZGVsLmdlby5hZGRQb2ludChyMSwgejAsIDAsIGxjKQogICAgICAgIHBfb3V0ZXJfdG9wICA9IGdtc2gubW9kZWwuZ2VvLmFkZFBvaW50KHIxLCB6MSwgMCwgbGMpCiAgICAgICAgcF9ib3JlX3RvcCAgID0gZ21zaC5tb2RlbC5nZW8uYWRkUG9pbnQocjAsIHoxLCAwLCBsYykKCiAgICAgICAgIyBUaHJlYWQgem9uZSDigJQgYWRkIGludGVybWVkaWF0ZSBwb2ludHMgd2l0aCBzYXd0b290aCBwcm9maWxlCiAgICAgICAgenRfc3RhcnQgPSBzLnpfdGhyZWFkX3N0YXJ0CiAgICAgICAgenRfZW5kICAgPSBzLnpfdGhyZWFkX2VuZAogICAgICAgIHRoX3B0c19pbm5lciA9IFtdICAjIHBvaW50cyBvbiBib3JlIHNpZGUgKHIgPSByMCkgd2l0aCB0aHJlYWQgbm90Y2hlcwoKICAgICAgICBwX2JvcmVfcHJlX3RocmVhZCAgPSBnbXNoLm1vZGVsLmdlby5hZGRQb2ludChyMCwgenRfc3RhcnQsIDAsIGxjKQogICAgICAgIHBfYm9yZV9wb3N0X3RocmVhZCA9IGdtc2gubW9kZWwuZ2VvLmFkZFBvaW50KHIwLCB6dF9lbmQsICAgMCwgbGMpCgogICAgICAgICMgQWRkIHRocmVhZCB0b290aCBwb2ludHMgb24gYm9yZSBzdXJmYWNlCiAgICAgICAgdGhyZWFkX3BvbHkgPSBidWlsZF90aHJlYWRfcG9seWdvbihzcGVjKQogICAgICAgIGZvciByX3QsIHpfdCBpbiB0aHJlYWRfcG9seToKICAgICAgICAgICAgdGhfcHRzX2lubmVyLmFwcGVuZCgKICAgICAgICAgICAgICAgIGdtc2gubW9kZWwuZ2VvLmFkZFBvaW50KHJfdCwgel90LCAwLCBsY190KQogICAgICAgICAgICApCgogICAgICAgICMg4pSA4pSAIExpbmVzIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKICAgICAgICAjIEJvdHRvbSBmYWNlIChub3NlKQogICAgICAgIGxfYm90ID0gZ21zaC5tb2RlbC5nZW8uYWRkTGluZShwX2JvcmVfYm90LCBwX291dGVyX2JvdCkKCiAgICAgICAgIyBPdXRlciBmYWNlIChyID0gcl9vdXRlciwgbm8gdGhyZWFkcyBvbiBvdXRlciBpbiB0aGlzIHNpbXBsaWZpZWQgbW9kZWwpCiAgICAgICAgbF9vdXRlciA9IGdtc2gubW9kZWwuZ2VvLmFkZExpbmUocF9vdXRlcl9ib3QsIHBfb3V0ZXJfdG9wKQoKICAgICAgICAjIFRvcCBmYWNlIChzaG91bGRlcikKICAgICAgICBsX3RvcCA9IGdtc2gubW9kZWwuZ2VvLmFkZExpbmUocF9vdXRlcl90b3AsIHBfYm9yZV90b3ApCgogICAgICAgICMgQm9yZSBmYWNlIOKAlCBidWlsdCBpbiBzZWdtZW50czogYm9yZSDihpIgcHJlX3RocmVhZCDihpIgdGhyZWFkIOKGkiBwb3N0X3RocmVhZCDihpIgYm9yZV90b3AKICAgICAgICBsX2JvcmVfYm90X3NlZyAgID0gZ21zaC5tb2RlbC5nZW8uYWRkTGluZShwX2JvcmVfdG9wLCBwX2JvcmVfcG9zdF90aHJlYWQpCiAgICAgICAgbF9ib3JlX3RvcF9zZWcgICA9IGdtc2gubW9kZWwuZ2VvLmFkZExpbmUocF9ib3JlX3ByZV90aHJlYWQsIHBfYm9yZV9ib3QpCgogICAgICAgICMgVGhyZWFkIHNhd3Rvb3RoOiBjaGFpbiB0aHJvdWdoIGFsbCB0aHJlYWQgcG9pbnRzCiAgICAgICAgbF90aHJlYWRfbGluZXMgPSBbXQogICAgICAgIGFsbF90aHJlYWRfcHRzID0gW3BfYm9yZV9wb3N0X3RocmVhZF0gKyB0aF9wdHNfaW5uZXJbOjotMV0gKyBbcF9ib3JlX3ByZV90aHJlYWRdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFsbF90aHJlYWRfcHRzKSAtIDEpOgogICAgICAgICAgICBsX3RocmVhZF9saW5lcy5hcHBlbmQoCiAgICAgICAgICAgICAgICBnbXNoLm1vZGVsLmdlby5hZGRMaW5lKGFsbF90aHJlYWRfcHRzW2ldLCBhbGxfdGhyZWFkX3B0c1tpICsgMV0pCiAgICAgICAgICAgICkKCiAgICAgICAgIyDilIDilIAgQ3VydmUgbG9vcCArIHN1cmZhY2Ug4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgICAgICAgYm9yZV9jaGFpbiA9IFtsX2JvcmVfYm90X3NlZ10gKyBsX3RocmVhZF9saW5lcyArIFtsX2JvcmVfdG9wX3NlZ10KICAgICAgICBsb29wX3RhZ3MgID0gW2xfYm90LCBsX291dGVyLCBsX3RvcF0gKyBib3JlX2NoYWluCiAgICAgICAgY2wgID0gZ21zaC5tb2RlbC5nZW8uYWRkQ3VydmVMb29wKGxvb3BfdGFncykKICAgICAgICBzdXJmID0gZ21zaC5tb2RlbC5nZW8uYWRkUGxhbmVTdXJmYWNlKFtjbF0pCgogICAgICAgIGdtc2gubW9kZWwuZ2VvLnN5bmNocm9uaXplKCkKCiAgICAgICAgIyDilIDilIAgUGh5c2ljYWwgZ3JvdXBzIChib3VuZGFyeSB0YWdzIGZvciBGRW5pQ1MpIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAogICAgICAgIGdtc2gubW9kZWwuYWRkUGh5c2ljYWxHcm91cCgxLCBbbF9ib3RdLCAgICAgICAgICAgICAgdGFnPTEsIG5hbWU9Im5vc2UiKQogICAgICAgIGdtc2gubW9kZWwuYWRkUGh5c2ljYWxHcm91cCgxLCBbbF9vdXRlcl0sICAgICAgICAgICAgdGFnPTIsIG5hbWU9Im91dGVyIikKICAgICAgICBnbXNoLm1vZGVsLmFkZFBoeXNpY2FsR3JvdXAoMSwgW2xfdG9wXSwgICAgICAgICAgICAgIHRhZz0zLCBuYW1lPSJzaG91bGRlcl90b3AiKQogICAgICAgIGdtc2gubW9kZWwuYWRkUGh5c2ljYWxHcm91cCgxLCBsX3RocmVhZF9saW5lcywgICAgICAgdGFnPTQsIG5hbWU9InRocmVhZF9mbGFuayIpCiAgICAgICAgZ21zaC5tb2RlbC5hZGRQaHlzaWNhbEdyb3VwKDEsIFtsX2JvcmVfYm90X3NlZywgbF9ib3JlX3RvcF9zZWddLCB0YWc9NSwgbmFtZT0iYm9yZSIpCiAgICAgICAgZ21zaC5tb2RlbC5hZGRQaHlzaWNhbEdyb3VwKDIsIFtzdXJmXSwgICAgICAgICAgICAgICB0YWc9MTAsIG5hbWU9ImRvbWFpbiIpCgogICAgICAgICMg4pSA4pSAIE1lc2gg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgICAgICAgZ21zaC5tb2RlbC5tZXNoLmdlbmVyYXRlKDIpCiAgICAgICAgZ21zaC5tb2RlbC5tZXNoLm9wdGltaXplKCJOZXRnZW4iKQogICAgICAgIGdtc2gud3JpdGUoc3RyKG91dHB1dF9wYXRoKSkKICAgICAgICBnbXNoLmZpbmFsaXplKCkKCiAgICAgICAgcHJpbnQoZiIgIFtnbXNoXSBNZXNoIGdlcmFkbzoge291dHB1dF9wYXRofSIpCiAgICAgICAgcHJpbnQoZiIgICAgQ29uZXjDo28gOiB7c3BlYy5uYW1lfSAgKHtzcGVjLmJvZHl9KSIpCiAgICAgICAgcHJpbnQoZiIgICAgciDiiIggW3tyMDouMWZ9LCB7cjE6LjFmfV0gbW0gICB6IOKIiCBbe3owOi4xZn0sIHt6MTouMWZ9XSBtbSIpCiAgICAgICAgcHJpbnQoZiIgICAgUm9zY2FzICA6IHtzcGVjLm5fdGhyZWFkX3R1cm5zfSAgfCAgcGl0Y2ggPSB7c3BlYy50aHJlYWQucGl0Y2hfbW06LjJmfSBtbSIpCiAgICAgICAgcmV0dXJuIG91dHB1dF9wYXRoCgogICAgZGVmIHNhbXBsZV9wb2ludHMoc2VsZiwgbjogaW50ID0gNTAwMCwgc2VlZDogaW50ID0gNDIpIC0+IG5wLm5kYXJyYXk6CiAgICAgICAgIiIiCiAgICAgICAgQW1vc3RyYSBwb250b3MgZGVudHJvIGRvIGRvbcOtbmlvIChzZW0gZ21zaCkgcGFyYSB1c28gY29tbwogICAgICAgIHBvbnRvcyBkZSBjb2xsb2Nhw6fDo28gbm8gUElOTi4KCiAgICAgICAgTyBkb23DrW5pbyDDqSB0cmF0YWRvIGNvbW8gcmV0YW5ndWxhciAoYm91bmRpbmcgYm94KS4gUGFyYSBnZW9tZXRyaWFzCiAgICAgICAgY29tIHBlcmZpbCByb3NjYWRvIHJlYWwgdXNlIG8gbWVzaCBnZXJhZG8gZSBhbW9zdHJlIGRvcyBjZW50cm9pZGVzCiAgICAgICAgZG9zIHRyacOibmd1bG9zLgogICAgICAgICIiIgogICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgICAgIHIgPSBybmcudW5pZm9ybShzZWxmLnNwZWMucl9ib3JlLCAgIHNlbGYuc3BlYy5yX291dGVyLCAgbikKICAgICAgICB6ID0gcm5nLnVuaWZvcm0oMC4wLCAgICAgICAgICAgICAgICBzZWxmLnNwZWMuel90b3RhbCwgICBuKQogICAgICAgIHJldHVybiBucC5jb2x1bW5fc3RhY2soW3IsIHpdKS5hc3R5cGUobnAuZmxvYXQzMikKCgojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkAojIENvbnZlbmllbmNlIGNsYXNzZXMgcGVyIGNvbm5lY3Rpb24gdHlwZQojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkAoKY2xhc3MgVEM1MEdlb21ldHJ5KFRocmVhZGVkQ29ubmVjdGlvbk1lc2hlcik6CiAgICAiIiJUQzUwIHRocmVhZGVkIGNvdXBsaW5nIGdlb21ldHJ5IChsYXJnZS1kaWFtZXRlcikuIiIiCiAgICBkZWYgX19pbml0X18oc2VsZiwgYm9keTogc3RyID0gIkJPWCIsIGxjOiBmbG9hdCA9IDAuOCwgbGNfdGhyZWFkOiBPcHRpb25hbFtmbG9hdF0gPSBOb25lKToKICAgICAgICBib2R5ID0gYm9keS51cHBlcigpCiAgICAgICAgaWYgYm9keSBub3QgaW4gKCJCT1giLCAiUElOIik6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImJvZHkgZGV2ZSBzZXIgJ0JPWCcgb3UgJ1BJTiciKQogICAgICAgIHN1cGVyKCkuX19pbml0X18oX1RDX1NQRUNTWyJUQzUwIl1bYm9keV0sIGxjPWxjLCBsY190aHJlYWQ9bGNfdGhyZWFkKQoKCmNsYXNzIFRDNDZHZW9tZXRyeShUaHJlYWRlZENvbm5lY3Rpb25NZXNoZXIpOgogICAgIiIiVEM0NiB0aHJlYWRlZCBjb3VwbGluZyBnZW9tZXRyeSAobWVkaXVtLWRpYW1ldGVyKS4iIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBib2R5OiBzdHIgPSAiQk9YIiwgbGM6IGZsb2F0ID0gMC44LCBsY190aHJlYWQ6IE9wdGlvbmFsW2Zsb2F0XSA9IE5vbmUpOgogICAgICAgIGJvZHkgPSBib2R5LnVwcGVyKCkKICAgICAgICBzdXBlcigpLl9faW5pdF9fKF9UQ19TUEVDU1siVEM0NiJdW2JvZHldLCBsYz1sYywgbGNfdGhyZWFkPWxjX3RocmVhZCkKCgpjbGFzcyBUQzM4R2VvbWV0cnkoVGhyZWFkZWRDb25uZWN0aW9uTWVzaGVyKToKICAgICIiIlRDMzggdGhyZWFkZWQgY291cGxpbmcgZ2VvbWV0cnkgKHN0YW5kYXJkKS4iIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBib2R5OiBzdHIgPSAiQk9YIiwgbGM6IGZsb2F0ID0gMC44LCBsY190aHJlYWQ6IE9wdGlvbmFsW2Zsb2F0XSA9IE5vbmUpOgogICAgICAgIGJvZHkgPSBib2R5LnVwcGVyKCkKICAgICAgICBzdXBlcigpLl9faW5pdF9fKF9UQ19TUEVDU1siVEMzOCJdW2JvZHldLCBsYz1sYywgbGNfdGhyZWFkPWxjX3RocmVhZCkKCgpkZWYgZ2V0X2Nvbm5lY3Rpb25fZ2VvbWV0cnkoCiAgICBjb25uZWN0aW9uOiBzdHIsCiAgICBib2R5OiBzdHIgPSAiQk9YIiwKICAgIGxjOiBmbG9hdCA9IDAuOCwKKSAtPiBUaHJlYWRlZENvbm5lY3Rpb25NZXNoZXI6CiAgICAiIiIKICAgIEZhY3Rvcnk6IHJldG9ybmEgbyBtZXNoZXIgcGFyYSB1bWEgY29uZXjDo28gcGVsbyBub21lLgoKICAgIFBhcmFtZXRlcnMKICAgIC0tLS0tLS0tLS0KICAgIGNvbm5lY3Rpb24gOiAiVEM1MCIsICJUQzQ2IiwgIlRDMzgiCiAgICBib2R5IDogIkJPWCIgb3UgIlBJTiIKICAgIGxjIDogY2hhcmFjdGVyaXN0aWMgbWVzaCBzaXplIGluIG1tCgogICAgRXhhbXBsZQogICAgLS0tLS0tLQogICAgZ2VvbSA9IGdldF9jb25uZWN0aW9uX2dlb21ldHJ5KCJUQzUwIiwgIkJPWCIpCiAgICBtZXNoX3BhdGggPSBnZW9tLmdlbmVyYXRlKCJtZXNoX3RjNTBfYm94Lm1zaCIpCiAgICBwdHMgPSBnZW9tLnNhbXBsZV9wb2ludHMobj0xMDAwMCkKICAgICIiIgogICAgY29ubmVjdGlvbiA9IGNvbm5lY3Rpb24udXBwZXIoKQogICAgYm9keSAgICAgICA9IGJvZHkudXBwZXIoKQogICAgaWYgY29ubmVjdGlvbiBub3QgaW4gX1RDX1NQRUNTOgogICAgICAgIHJhaXNlIEtleUVycm9yKGYiQ29uZXjDo28gJ3tjb25uZWN0aW9ufScgbsOjbyBzdXBvcnRhZGEuIERpc3BvbsOtdmVpczoge2xpc3QoX1RDX1NQRUNTKX0iKQogICAgcmV0dXJuIFRocmVhZGVkQ29ubmVjdGlvbk1lc2hlcihfVENfU1BFQ1NbY29ubmVjdGlvbl1bYm9keV0sIGxjPWxjKQo=
+"""Threaded connection geometry for rotary coupling PINN simulations.
+
+Generates 2D axisymmetric (r, z) meshes of rotary threaded connections
+using gmsh. The mesh is compatible with FEniCS/dolfinx and the
+SolidMechanicsPipeline.
+
+Supported connections
+---------------------
+  TC50  — large-diameter coupling, 4 TPI, taper 1:16
+  TC46  — medium-diameter coupling, 4 TPI, taper 1:16
+  TC38  — standard coupling, 4 TPI, taper 1:16
+  Custom — any V-thread via ThreadProfile
+
+Thread profile (API V-0.038R)
+------------------------------
+  Pitch     p = 25.4 / TPI   mm
+  Taper     T = 1:16  →  Δr/Δz = 1/32 per side
+  Height    h_total = 0.8660 · p
+  Clearance c = 0.038 · p     (root flat)
+  Crest cut = 0.038 · p
+
+In the 2D (r, z) cross-section the thread appears as a sawtooth on the
+inner/outer cylindrical surfaces of the connection.
+
+Usage
+-----
+    from pinneapple_design.geometry.gen.threaded_connection import TC50Geometry
+
+    geom = TC50Geometry(body="BOX")
+    mesh_path = geom.generate_mesh(output="mesh_tc50_box.msh", lc=0.5)
+    # → Mesh2D / .msh file ready for FEniCS or point sampling
+"""
+from __future__ import annotations
+
+import math
+import warnings
+from dataclasses import dataclass, field
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
+
+import numpy as np
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Thread profile data
+# ══════════════════════════════════════════════════════════════════════════════
+
+@dataclass
+class ThreadProfile:
+    """Geometric parameters for a single API rotary shouldered thread form."""
+    name: str
+    tpi: float          # threads per inch
+    taper: float        # radial change per unit axial length (= 1/32 for 1:16 taper)
+    h_factor: float = 0.8660   # h_total = h_factor * pitch  (60° V thread)
+    clearance_factor: float = 0.038  # c = factor * pitch (root/crest flat width)
+
+    @property
+    def pitch_mm(self) -> float:
+        return 25.4 / self.tpi
+
+    @property
+    def thread_height_mm(self) -> float:
+        return self.h_factor * self.pitch_mm
+
+    @property
+    def clearance_mm(self) -> float:
+        return self.clearance_factor * self.pitch_mm
+
+
+# Standard API V-0.038R profiles
+API_V038R = ThreadProfile("API V-0.038R", tpi=4.0, taper=1.0 / 32.0)
+
+
+@dataclass
+class ConnectionSpec:
+    """Full geometry specification for one body (BOX or PIN) of an NC connection."""
+    name: str                    # e.g. "TC50_BOX"
+    r_bore: float                # mm — bore radius (inner surface)
+    r_outer: float               # mm — outer radius
+    z_thread_start: float        # mm — z where thread begins
+    z_thread_end: float          # mm — z where thread ends
+    z_shoulder_top: float        # mm — total length (shoulder at top)
+    thread: ThreadProfile
+    body: str = "BOX"            # "BOX" or "PIN"
+    n_threads: Optional[int] = None  # if None, computed from geometry
+
+    @property
+    def z_total(self) -> float:
+        return self.z_shoulder_top
+
+    @property
+    def n_thread_turns(self) -> int:
+        if self.n_threads is not None:
+            return self.n_threads
+        thread_length = self.z_thread_end - self.z_thread_start
+        return max(1, int(thread_length / self.thread.pitch_mm))
+
+
+# Standard NC connections
+_TC_SPECS: Dict[str, Dict[str, ConnectionSpec]] = {
+    "TC50": {
+        "BOX": ConnectionSpec(
+            name="TC50_BOX",
+            r_bore=50.0, r_outer=84.15,
+            z_thread_start=10.0, z_thread_end=115.0,
+            z_shoulder_top=140.0,
+            thread=API_V038R, body="BOX",
+        ),
+        "PIN": ConnectionSpec(
+            name="TC50_PIN",
+            r_bore=48.0, r_outer=62.0,
+            z_thread_start=10.0, z_thread_end=115.0,
+            z_shoulder_top=140.0,
+            thread=API_V038R, body="PIN",
+        ),
+    },
+    "TC46": {
+        "BOX": ConnectionSpec(
+            name="TC46_BOX",
+            r_bore=44.0, r_outer=76.2,
+            z_thread_start=8.0, z_thread_end=100.0,
+            z_shoulder_top=125.0,
+            thread=API_V038R, body="BOX",
+        ),
+        "PIN": ConnectionSpec(
+            name="TC46_PIN",
+            r_bore=42.0, r_outer=55.0,
+            z_thread_start=8.0, z_thread_end=100.0,
+            z_shoulder_top=125.0,
+            thread=API_V038R, body="PIN",
+        ),
+    },
+    "TC38": {
+        "BOX": ConnectionSpec(
+            name="TC38_BOX",
+            r_bore=36.0, r_outer=63.5,
+            z_thread_start=6.0, z_thread_end=85.0,
+            z_shoulder_top=105.0,
+            thread=API_V038R, body="BOX",
+        ),
+        "PIN": ConnectionSpec(
+            name="TC38_PIN",
+            r_bore=34.0, r_outer=46.0,
+            z_thread_start=6.0, z_thread_end=85.0,
+            z_shoulder_top=105.0,
+            thread=API_V038R, body="PIN",
+        ),
+    },
+}
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Thread profile polygon builder
+# ══════════════════════════════════════════════════════════════════════════════
+
+def build_thread_polygon(
+    spec: ConnectionSpec,
+    n_threads: Optional[int] = None,
+) -> List[Tuple[float, float]]:
+    """
+    Builds the (r, z) polygon that describes the threaded surface profile.
+
+    The result is a list of (r, z) points forming the sawtooth thread profile
+    on the relevant cylindrical surface:
+      BOX: inner surface (r = r_bore side) → threads cut INTO the box bore
+      PIN: outer surface (r = r_outer side) → threads on pin outer diameter
+
+    The taper is applied: the thread reference diameter increases from
+    z_thread_start toward z_thread_end at rate `taper` (radial/axial).
+
+    Returns ordered (r, z) vertices for the threaded profile segment.
+    The full boundary polygon is assembled by the mesh builder.
+    """
+    th  = spec.thread
+    p   = th.pitch_mm
+    h   = th.thread_height_mm
+    c   = th.clearance_mm
+    tap = th.taper     # Δr per Δz
+
+    n = n_threads or spec.n_thread_turns
+    z0 = spec.z_thread_start
+
+    # For BOX: threads are on the bore (r-side), nominal surface at r_bore
+    # For PIN: threads are on the outer surface, nominal at r_outer
+    if spec.body == "BOX":
+        r_nominal_at_start = spec.r_bore
+    else:
+        r_nominal_at_start = spec.r_outer
+
+    pts = []
+    for i in range(n):
+        z_base = z0 + i * p
+        r_base = r_nominal_at_start + tap * (z_base - z0)
+
+        # Each thread tooth: flat root (width c) → flanks → flat crest (width c)
+        # Simplified sawtooth in (z, r) going from root to crest:
+        # points: (z_base, r_base) → (z_base+c, r_base) →
+        #         (z_base+p/2, r_base±h) → (z_base+p-c, r_base+(p-c)*tap±h) →
+        #         (z_base+p, r_base+p*tap)
+        z1 = z_base
+        z2 = z_base + c
+        z3 = z_base + p / 2.0
+        z4 = z_base + p - c
+        z5 = z_base + p
+
+        r1 = r_base
+        r2 = r_base + tap * c
+        r3 = r_base + tap * p / 2.0
+        r4 = r_base + tap * (p - c)
+        r5 = r_base + tap * p
+
+        # Thread direction: BOX threads go inward (+r), PIN threads go outward (+r)
+        sign = +1.0  # both BOX bore and PIN outer go toward larger r with taper
+
+        if spec.body == "BOX":
+            # Thread height goes INTO bore (increasing r)
+            pts += [(r1, z1), (r2, z2), (r3 + h, z3), (r4, z4)]
+        else:
+            # Thread height protrudes outward (increasing r)
+            pts += [(r1, z1), (r2, z2), (r3 + h, z3), (r4, z4)]
+
+    # Close to end of thread zone
+    z_end = z0 + n * p
+    r_end = r_nominal_at_start + tap * (z_end - z0)
+    pts.append((r_end, z_end))
+
+    return pts
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Gmsh-based mesh generator
+# ══════════════════════════════════════════════════════════════════════════════
+
+class ThreadedConnectionMesher:
+    """
+    Generates a 2D axisymmetric mesh of an API threaded connection using gmsh.
+
+    The mesh represents the (r, z) cross-section. Boundary regions are tagged:
+      - "bore"         : inner cylindrical surface (r = r_bore)
+      - "outer"        : outer cylindrical surface (r = r_outer)
+      - "nose"         : z = z_min face (thread start, fixed nose)
+      - "shoulder_top" : z = z_max face (make-up shoulder / top)
+      - "thread_flank" : threaded surface (sawtooth profile)
+
+    Parameters
+    ----------
+    spec : ConnectionSpec
+        Geometry parameters for the connection body.
+    lc : float
+        Characteristic mesh size (mm). Smaller = finer.
+    lc_thread : float
+        Finer mesh size at thread root/crest (default = lc / 3).
+    """
+
+    def __init__(
+        self,
+        spec: ConnectionSpec,
+        lc: float = 1.0,
+        lc_thread: Optional[float] = None,
+    ):
+        self.spec = spec
+        self.lc = lc
+        self.lc_thread = lc_thread or lc / 3.0
+
+    def generate(self, output_path: str | Path = "mesh.msh") -> Path:
+        """
+        Build the mesh and write it to a .msh file.
+
+        Requires: pip install "PINNeAPPle[geom]"  (installs gmsh)
+
+        Returns the path to the generated .msh file.
+        """
+        try:
+            import gmsh  # type: ignore[import]
+        except ImportError:
+            raise ImportError(
+                "gmsh is required for mesh generation.\n"
+                "Install with: pip install 'PINNeAPPle[geom]'  or  pip install gmsh"
+            )
+
+        output_path = Path(output_path)
+        spec = self.spec
+        lc   = self.lc
+        lc_t = self.lc_thread
+
+        gmsh.initialize()
+        gmsh.model.add(spec.name)
+        gmsh.option.setNumber("General.Terminal", 0)   # silent
+        gmsh.option.setNumber("Mesh.Algorithm", 6)     # Frontal-Delaunay 2D
+
+        # ── Build boundary polygon ──────────────────────────────────────────
+        # The 2D cross section in (r, z) is bounded by:
+        #   bottom (z=0, nose)  :  r ∈ [r_bore, r_outer]
+        #   outer right (r=r_outer): z ∈ [0, z_total]
+        #   top (z=z_total, shoulder): r ∈ [r_bore, r_outer]
+        #   left side (r=r_bore): z ∈ [0, z_total]  — with thread sawtooth
+        #     (simplified: straight bore + thread notch approximation)
+
+        s = spec
+        r0, r1 = s.r_bore, s.r_outer
+        z0, z1 = 0.0, s.z_total
+
+        # Corner points (all at nominal bore/outer — no thread detail in simple mode)
+        p_bore_bot   = gmsh.model.geo.addPoint(r0, z0, 0, lc)
+        p_outer_bot  = gmsh.model.geo.addPoint(r1, z0, 0, lc)
+        p_outer_top  = gmsh.model.geo.addPoint(r1, z1, 0, lc)
+        p_bore_top   = gmsh.model.geo.addPoint(r0, z1, 0, lc)
+
+        # Thread zone — add intermediate points with sawtooth profile
+        zt_start = s.z_thread_start
+        zt_end   = s.z_thread_end
+        th_pts_inner = []  # points on bore side (r = r0) with thread notches
+
+        p_bore_pre_thread  = gmsh.model.geo.addPoint(r0, zt_start, 0, lc)
+        p_bore_post_thread = gmsh.model.geo.addPoint(r0, zt_end,   0, lc)
+
+        # Add thread tooth points on bore surface
+        thread_poly = build_thread_polygon(spec)
+        for r_t, z_t in thread_poly:
+            th_pts_inner.append(
+                gmsh.model.geo.addPoint(r_t, z_t, 0, lc_t)
+            )
+
+        # ── Lines ────────────────────────────────────────────────────────────
+
+        # Bottom face (nose)
+        l_bot = gmsh.model.geo.addLine(p_bore_bot, p_outer_bot)
+
+        # Outer face (r = r_outer, no threads on outer in this simplified model)
+        l_outer = gmsh.model.geo.addLine(p_outer_bot, p_outer_top)
+
+        # Top face (shoulder)
+        l_top = gmsh.model.geo.addLine(p_outer_top, p_bore_top)
+
+        # Bore face — built in segments: bore → pre_thread → thread → post_thread → bore_top
+        l_bore_bot_seg   = gmsh.model.geo.addLine(p_bore_top, p_bore_post_thread)
+        l_bore_top_seg   = gmsh.model.geo.addLine(p_bore_pre_thread, p_bore_bot)
+
+        # Thread sawtooth: chain through all thread points
+        l_thread_lines = []
+        all_thread_pts = [p_bore_post_thread] + th_pts_inner[::-1] + [p_bore_pre_thread]
+        for i in range(len(all_thread_pts) - 1):
+            l_thread_lines.append(
+                gmsh.model.geo.addLine(all_thread_pts[i], all_thread_pts[i + 1])
+            )
+
+        # ── Curve loop + surface ─────────────────────────────────────────────
+        bore_chain = [l_bore_bot_seg] + l_thread_lines + [l_bore_top_seg]
+        loop_tags  = [l_bot, l_outer, l_top] + bore_chain
+        cl  = gmsh.model.geo.addCurveLoop(loop_tags)
+        surf = gmsh.model.geo.addPlaneSurface([cl])
+
+        gmsh.model.geo.synchronize()
+
+        # ── Physical groups (boundary tags for FEniCS) ────────────────────────
+        gmsh.model.addPhysicalGroup(1, [l_bot],              tag=1, name="nose")
+        gmsh.model.addPhysicalGroup(1, [l_outer],            tag=2, name="outer")
+        gmsh.model.addPhysicalGroup(1, [l_top],              tag=3, name="shoulder_top")
+        gmsh.model.addPhysicalGroup(1, l_thread_lines,       tag=4, name="thread_flank")
+        gmsh.model.addPhysicalGroup(1, [l_bore_bot_seg, l_bore_top_seg], tag=5, name="bore")
+        gmsh.model.addPhysicalGroup(2, [surf],               tag=10, name="domain")
+
+        # ── Mesh ──────────────────────────────────────────────────────────────
+        gmsh.model.mesh.generate(2)
+        gmsh.model.mesh.optimize("Netgen")
+        gmsh.write(str(output_path))
+        gmsh.finalize()
+
+        print(f"  [gmsh] Mesh gerado: {output_path}")
+        print(f"    Conexão : {spec.name}  ({spec.body})")
+        print(f"    r ∈ [{r0:.1f}, {r1:.1f}] mm   z ∈ [{z0:.1f}, {z1:.1f}] mm")
+        print(f"    Roscas  : {spec.n_thread_turns}  |  pitch = {spec.thread.pitch_mm:.2f} mm")
+        return output_path
+
+    def sample_points(self, n: int = 5000, seed: int = 42) -> np.ndarray:
+        """
+        Amostra pontos dentro do domínio (sem gmsh) para uso como
+        pontos de collocação no PINN.
+
+        O domínio é tratado como retangular (bounding box). Para geometrias
+        com perfil roscado real use o mesh gerado e amostre dos centroides
+        dos triângulos.
+        """
+        rng = np.random.default_rng(seed)
+        r = rng.uniform(self.spec.r_bore,   self.spec.r_outer,  n)
+        z = rng.uniform(0.0,                self.spec.z_total,   n)
+        return np.column_stack([r, z]).astype(np.float32)
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Convenience classes per connection type
+# ══════════════════════════════════════════════════════════════════════════════
+
+class TC50Geometry(ThreadedConnectionMesher):
+    """TC50 threaded coupling geometry (large-diameter)."""
+    def __init__(self, body: str = "BOX", lc: float = 0.8, lc_thread: Optional[float] = None):
+        body = body.upper()
+        if body not in ("BOX", "PIN"):
+            raise ValueError("body deve ser 'BOX' ou 'PIN'")
+        super().__init__(_TC_SPECS["TC50"][body], lc=lc, lc_thread=lc_thread)
+
+
+class TC46Geometry(ThreadedConnectionMesher):
+    """TC46 threaded coupling geometry (medium-diameter)."""
+    def __init__(self, body: str = "BOX", lc: float = 0.8, lc_thread: Optional[float] = None):
+        body = body.upper()
+        super().__init__(_TC_SPECS["TC46"][body], lc=lc, lc_thread=lc_thread)
+
+
+class TC38Geometry(ThreadedConnectionMesher):
+    """TC38 threaded coupling geometry (standard)."""
+    def __init__(self, body: str = "BOX", lc: float = 0.8, lc_thread: Optional[float] = None):
+        body = body.upper()
+        super().__init__(_TC_SPECS["TC38"][body], lc=lc, lc_thread=lc_thread)
+
+
+def get_connection_geometry(
+    connection: str,
+    body: str = "BOX",
+    lc: float = 0.8,
+) -> ThreadedConnectionMesher:
+    """
+    Factory: retorna o mesher para uma conexão pelo nome.
+
+    Parameters
+    ----------
+    connection : "TC50", "TC46", "TC38"
+    body : "BOX" ou "PIN"
+    lc : characteristic mesh size in mm
+
+    Example
+    -------
+    geom = get_connection_geometry("TC50", "BOX")
+    mesh_path = geom.generate("mesh_tc50_box.msh")
+    pts = geom.sample_points(n=10000)
+    """
+    connection = connection.upper()
+    body       = body.upper()
+    if connection not in _TC_SPECS:
+        raise KeyError(f"Conexão '{connection}' não suportada. Disponíveis: {list(_TC_SPECS)}")
+    return ThreadedConnectionMesher(_TC_SPECS[connection][body], lc=lc)

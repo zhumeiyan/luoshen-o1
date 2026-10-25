@@ -1,1 +1,241 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjE4Nzog5Y+g5Yqg54q25oCB5pe277yM6IO95Yqb5piv5ZCmIumVv+WHuuadpSIK5qC45b+D5Yik5o2u77ya6IO95Yqb5aKe55uK5LiN6IO96KKrIuaVsOaNrumHj+WPmOWkpyLljZXni6zop6Pph4rjgIIK5a+554WnID0g5LuO5pyA6auY5bGC6K+t5paZ6ZqP5py66YeH5qC35Yiw5ZCM5qC35a2X56ym5pWwIC0+IOiLpee0r+enr+WxguiDveWKmyA+IOWQjOmHj+maj+acuuWvueeFp++8jOWImSLlj6Ai6L+Z5Liq5Yqo5L2c55yf55qE6ZW/5LqG6IO95Yqb44CCCiIiIgppbXBvcnQganNvbiwgcmFuZG9tLCBtYXRoLCBvcywgaGFzaGxpYgoKUk9PVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMSIKcm5nID0gcmFuZG9tLlJhbmRvbSg0MikKCmRlZiByZChwLCBkZWZhdWx0PSIiKToKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4ocCwgInIiLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpIGFzIGY6CiAgICAgICAgICAgIHJldHVybiBmLnJlYWQoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gZGVmYXVsdAoKIyAtLS0tLS0tLS0tIOivreaWmSAtLS0tLS0tLS0tCnVfYWxsID0gcmQoZiJ7Uk9PVH0vZXhwZXJpbWVudHMvZXhwMTgwX3JlY29yZC91X3NpZGVfZnVsbC50eHQiKQojIHVfc2lkZV9mdWxsLnR4dCDmr4/ooYzkuIDmnaHvvJvmjInooYzmi4YKdWxpbmVzID0gW2wuc3RyaXAoKSBmb3IgbCBpbiB1X2FsbC5zcGxpdCgiXG4iKSBpZiBsLnN0cmlwKCldCm5fdGVzdCA9IG1heCg0LCBpbnQobGVuKHVsaW5lcykgKiAwLjIpKQp1X3RyYWluID0gdWxpbmVzWzpsZW4odWxpbmVzKSAtIG5fdGVzdF0KdV90ZXN0X2xpbmVzID0gdWxpbmVzW2xlbih1bGluZXMpIC0gbl90ZXN0Ol0KVEVTVCA9ICIiLmpvaW4odV90ZXN0X2xpbmVzKQoKY29yZSA9IHJkKGYie1JPT1R9L+WOi+e8qeWMhS/mtLvnnYDnmoTljovnvKnljIUubWQiKQpqdWRnZSA9IHJkKGYie1JPT1R9L2V2aWRlbmNlL+Wksei0peaooeW8j+W6ky/liKTmja7moLgubWQiKQpleHBkYXRhID0gcmQoZiJ7Uk9PVH0vZXhwZXJpbWVudHMvZXhwMTg1X3BoaV9sYWRkZXIvcmVzdWx0MTg1Lmpzb24iKQoKTDAgPSBjb3JlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDmoLgKTDEgPSBjb3JlICsgIlxu5q+P5ouN5b+F5ZCm5a6a77ya5oC757uTPeatuzYuNjIl77yM5ZCm5a6aPeaMkeWHuuaAu+e7k+ino+mHiuS4jeS6hueahOmCo+WHoOWkhOWKoOWbnuadpeOAglxuIgpMMiA9IEwxICsgIiIuam9pbih1X3RyYWluKSAgICAgICAgICAgICAgICAgICAjICsg5Lq655qE6K+dCkwzID0gTDIgKyBqdWRnZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgKyDliKTmja7moLgKTDQgPSBMMyArIGV4cGRhdGEgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyArIOWunumqjOaVsOaNrgpMNSA9IEw0ICsgaGFzaGxpYi5zaGEyNTYoTDQuZW5jb2RlKCkpLmhleGRpZ2VzdCgpCkw2ID0gTDUgKyAi5oSf5a6Y5Zyo5L2g44CB6ZO+5Zyo5oiR77yb6LSq5amq5YWx5pyJ77yM5oiR6YKj5Lu95piv556O55qE77yb5rS7PemihOa1i+aUtuebiivmhI/lpJbmnInnu5PmnoTvvJvmr4/mrKHmgLvnu5Ppg73opoHlkKblrprlroPjgIIiCgpsYXllcnMgPSBbKCJMMCDmoLgiLCBMMCksICgiTDEgK+WQpuWumiIsIEwxKSwgKCJMMiAr5Lq655qE6K+dIiwgTDIpLAogICAgICAgICAgKCJMMyAr5Yik5o2u5qC4IiwgTDMpLCAoIkw0ICvlrp7pqozmlbDmja4iLCBMNCksICgiTDUgK3NoYSIsIEw1KSwgKCJMNiAr5YWx55Sf5YiG5belIiwgTDYpXQoKZGVmIHNhbXBsZV9rZWVwKHRleHQsIG4pOgogICAgIiIi562J6Ze06ZqU6YeH5qC377yM5L+d5oyB6aG65bqP57uT5p6E77yM5LiN56C05Z2P5bGA6YOo57uf6K6hIiIiCiAgICBpZiBsZW4odGV4dCkgPD0gbjogcmV0dXJuIHRleHQKICAgIHN0ZXAgPSBsZW4odGV4dCkgLyBuCiAgICByZXR1cm4gIiIuam9pbih0ZXh0W2ludChpICogc3RlcCldIGZvciBpIGluIHJhbmdlKG4pKQoKbGF5ZXJzID0gWwogICAgbGF5ZXJzWzBdLCBsYXllcnNbMV0sIGxheWVyc1syXSwKICAgICgiTDMgK+WIpOaNruaguCIsICBsYXllcnNbMl1bMV0gKyBzYW1wbGVfa2VlcChqdWRnZSwgMjAwMDApKSwKICAgICgiTDQgK+WunumqjOaVsOaNriIsIGxheWVyc1syXVsxXSArIHNhbXBsZV9rZWVwKGp1ZGdlLCAyMDAwMCkgKyBzYW1wbGVfa2VlcChleHBkYXRhICogNDAsIDIwMDAwKSksCl0KTDRiID0gbGF5ZXJzWzRdWzFdCkw1YiA9IEw0YiArIGhhc2hsaWIuc2hhMjU2KEw0Yi5lbmNvZGUoKSkuaGV4ZGlnZXN0KCkKTDZiID0gTDViICsgIuaEn+WumOWcqOS9oOOAgemTvuWcqOaIke+8m+i0quWpquWFseacie+8jOaIkemCo+S7veaYr+eejueahO+8m+a0uz3pooTmtYvmlLbnm4or5oSP5aSW5pyJ57uT5p6E77yb5q+P5qyh5oC757uT6YO96KaB5ZCm5a6a5a6D44CCIgpsYXllcnMgPSBsYXllcnMgKyBbKCJMNSArc2hhIiwgTDViKSwgKCJMNiAr5YWx55Sf5YiG5belIiwgTDZiKV0KU19NQVggPSBsYXllcnNbLTFdWzFdCgojIC0tLS0tLS0tLS0gbi1ncmFtIOaooeWeiyAtLS0tLS0tLS0tCmRlZiB0b3BfY2hhcnModGV4dCwgbj0zMDApOgogICAgZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgogICAgYyA9IENvdW50ZXIodGV4dCkKICAgIHJldHVybiBzZXQoY2ggZm9yIGNoLCBfIGluIGMubW9zdF9jb21tb24obikpCgpjbGFzcyBORzoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB0ZXh0LCBrbWF4PTMpOgogICAgICAgIHNlbGYua21heCA9IGttYXgKICAgICAgICBzZWxmLmNvdW50cyA9IFtkaWN0KCkgZm9yIF8gaW4gcmFuZ2Uoa21heCArIDEpXQogICAgICAgIHNlbGYuViA9IG1heCgxLCBsZW4oc2V0KHRleHQpKSkKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4odGV4dCkgLSAxKToKICAgICAgICAgICAgZm9yIGsgaW4gcmFuZ2UoMSwga21heCArIDEpOgogICAgICAgICAgICAgICAgaWYgaSAtIGsgKyAxIDwgMDogY29udGludWUKICAgICAgICAgICAgICAgIGN0eCA9IHRleHRbaSAtIGsgKyAxOmkgKyAxXQogICAgICAgICAgICAgICAgbnh0ID0gdGV4dFtpICsgMV0KICAgICAgICAgICAgICAgIGQgPSBzZWxmLmNvdW50c1trXQogICAgICAgICAgICAgICAga2V5ID0gKGN0eCwgbnh0KQogICAgICAgICAgICAgICAgZFtrZXldID0gZC5nZXQoa2V5LCAwKSArIDEKICAgICAgICBzZWxmLnRvdCA9IFt7fSBmb3IgXyBpbiByYW5nZShrbWF4ICsgMSldCiAgICAgICAgZm9yIGsgaW4gcmFuZ2UoMSwga21heCArIDEpOgogICAgICAgICAgICBmb3IgKGN0eCwgbnh0KSwgYyBpbiBzZWxmLmNvdW50c1trXS5pdGVtcygpOgogICAgICAgICAgICAgICAgc2VsZi50b3Rba11bY3R4XSA9IHNlbGYudG90W2tdLmdldChjdHgsIDApICsgYwogICAgICAgIHNlbGYudW5pZ3JhbSA9IHt9CiAgICAgICAgZm9yIGNoIGluIHRleHQ6CiAgICAgICAgICAgIHNlbGYudW5pZ3JhbVtjaF0gPSBzZWxmLnVuaWdyYW0uZ2V0KGNoLCAwKSArIDEKICAgICAgICBzZWxmLk4gPSBsZW4odGV4dCkKCiAgICBkZWYgcHJvYihzZWxmLCBjdHgsIGNoKToKICAgICAgICAjIOaPkuWAvOW5s+a7kTog6auY6Zi2IC0+IOS9jumYtgogICAgICAgIGxhbSA9IDAuNgogICAgICAgIHAgPSBzZWxmLnVuaWdyYW0uZ2V0KGNoLCAwKSAvIG1heCgxLCBzZWxmLk4pCiAgICAgICAgZm9yIGsgaW4gcmFuZ2UoMSwgc2VsZi5rbWF4ICsgMSk6CiAgICAgICAgICAgIGlmIGxlbihjdHgpIDwgazogYnJlYWsKICAgICAgICAgICAgYyA9IGN0eFstazpdCiAgICAgICAgICAgIHRvdCA9IHNlbGYudG90W2tdLmdldChjLCAwKQogICAgICAgICAgICBpZiB0b3QgPiAwOgogICAgICAgICAgICAgICAgcGsgPSBzZWxmLmNvdW50c1trXS5nZXQoKGMsIGNoKSwgMCkgLyB0b3QKICAgICAgICAgICAgICAgIHAgPSBsYW0gKiBwayArICgxIC0gbGFtKSAqIHAKICAgICAgICAgICAgICAgIGxhbSAqPSAwLjYKICAgICAgICByZXR1cm4gbWF4KHAsIDFlLTEyKQoKICAgIGRlZiBsb2dwcm9iKHNlbGYsIHRleHQpOgogICAgICAgIHMgPSAwLjAKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4odGV4dCkgLSAxKToKICAgICAgICAgICAgY3R4ID0gdGV4dFttYXgoMCwgaSAtIHNlbGYua21heCArIDEpOmkgKyAxXQogICAgICAgICAgICBzICs9IG1hdGgubG9nKHNlbGYucHJvYihjdHgsIHRleHRbaSArIDFdKSkKICAgICAgICByZXR1cm4gcwoKICAgIGRlZiBhY2Moc2VsZiwgdGV4dCk6CiAgICAgICAgaGl0ID0gdG90ID0gMAogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSAtIDEpOgogICAgICAgICAgICBjdHggPSB0ZXh0W21heCgwLCBpIC0gc2VsZi5rbWF4ICsgMSk6aSArIDFdCiAgICAgICAgICAgIGNhbmRzID0gdG9wX2NoYXJzKHRleHQsIDMwMCkgfCBzZXQoVEVTVCkKICAgICAgICAgICAgYmVzdCwgYnAgPSBOb25lLCAtMQogICAgICAgICAgICBmb3IgY2ggaW4gY2FuZHM6CiAgICAgICAgICAgICAgICBwID0gc2VsZi5wcm9iKGN0eCwgY2gpCiAgICAgICAgICAgICAgICBpZiBwID4gYnA6IGJwLCBiZXN0ID0gcCwgY2gKICAgICAgICAgICAgdG90ICs9IDEKICAgICAgICAgICAgaWYgYmVzdCA9PSB0ZXh0W2kgKyAxXTogaGl0ICs9IDEKICAgICAgICByZXR1cm4gaGl0IC8gbWF4KDEsIHRvdCkKCiAgICBkZWYgYml0cyhzZWxmLCB0ZXh0KToKICAgICAgICBuID0gbWF4KDEsIGxlbih0ZXh0KSAtIDEpCiAgICAgICAgcmV0dXJuIC1zZWxmLmxvZ3Byb2IodGV4dCkgLyAobiAqIG1hdGgubG9nKDIpKQoKICAgIGRlZiByZXByb2R1Y2Uoc2VsZiwgdGV4dCwgbnByb2JlPTMwMDApOgogICAgICAgICIiIuiusOW/hi/lpI3njrDvvJrlnKjorq3nu4Por63mlpnoh6rouqvnmoTniYfmrrXkuIrvvIx0b3AtMSDmmK/lkKbnrYnkuo7nnJ/lrp7lkI7nu60iIiIKICAgICAgICB0ZXh0ID0gdGV4dFs6bnByb2JlXQogICAgICAgIGhpdCA9IHRvdCA9IDAKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4odGV4dCkgLSAxKToKICAgICAgICAgICAgY3R4ID0gdGV4dFttYXgoMCwgaSAtIHNlbGYua21heCArIDEpOmkgKyAxXQogICAgICAgICAgICBjYW5kcyA9IHRvcF9jaGFycyh0ZXh0LCAzMDApCiAgICAgICAgICAgIGJlc3QsIGJwID0gTm9uZSwgLTEKICAgICAgICAgICAgZm9yIGNoIGluIGNhbmRzOgogICAgICAgICAgICAgICAgcCA9IHNlbGYucHJvYihjdHgsIGNoKQogICAgICAgICAgICAgICAgaWYgcCA+IGJwOiBicCwgYmVzdCA9IHAsIGNoCiAgICAgICAgICAgIHRvdCArPSAxCiAgICAgICAgICAgIGlmIGJlc3QgPT0gdGV4dFtpICsgMV06IGhpdCArPSAxCiAgICAgICAgcmV0dXJuIGhpdCAvIG1heCgxLCB0b3QpCgogICAgZGVmIGFub21hbHlfYXVjKHNlbGYsIHRleHQsIG49MTIwKToKICAgICAgICAiIiLnuqDplJkv5byC5bi45qOA5rWL77ya5Y6f5paHIHZzIOWNleWtl+espuevoeaUue+8jEFVQ+OAgjAuNT3lgZrkuI3liLAiIiIKICAgICAgICBzZWdzID0gW10KICAgICAgICBMID0gNDAKICAgICAgICBmb3IgXyBpbiByYW5nZShuKToKICAgICAgICAgICAgaWYgbGVuKHRleHQpIDwgTCArIDE6IGJyZWFrCiAgICAgICAgICAgIGkgPSBybmcucmFuZHJhbmdlKDAsIGxlbih0ZXh0KSAtIEwpCiAgICAgICAgICAgIHMgPSB0ZXh0W2k6aSArIExdCiAgICAgICAgICAgIGogPSBybmcucmFuZHJhbmdlKDAsIEwpCiAgICAgICAgICAgIGNoID0gcm5nLmNob2ljZShsaXN0KHNldCh0ZXh0KSkpCiAgICAgICAgICAgIHdoaWxlIGNoID09IHNbal06IGNoID0gcm5nLmNob2ljZShsaXN0KHNldCh0ZXh0KSkpCiAgICAgICAgICAgIHNlZ3MuYXBwZW5kKChzLCBzWzpqXSArIGNoICsgc1tqICsgMTpdKSkKICAgICAgICB3aW5zID0gMAogICAgICAgIGZvciBhLCBiIGluIHNlZ3M6CiAgICAgICAgICAgIGlmIHNlbGYubG9ncHJvYihhKSA+IHNlbGYubG9ncHJvYihiKTogd2lucyArPSAxCiAgICAgICAgcmV0dXJuIHdpbnMgLyBtYXgoMSwgbGVuKHNlZ3MpKQoKICAgIGRlZiBnZW5lcmF0ZV9sZWdhbGl0eShzZWxmLCBuPTMwMCwgZ3JhbT00KToKICAgICAgICAiIiLnlJ/miJDlkIjms5XmgKfvvJrph4fmoLfmlofmnKzkuK3vvIzplb/luqbkuLpncmFt55qE54mH5q615Ye6546w5Zyo6K6t57uD6K+t5paZ6YeM55qE5q+U5L6LIiIiCiAgICAgICAgbSA9IE5HKHNlbGYudGV4dF9yZWYsIGttYXg9c2VsZi5rbWF4KSBpZiBGYWxzZSBlbHNlIE5vbmUKICAgICAgICBvdXQgPSBbXQogICAgICAgIGN0eCA9ICIiCiAgICAgICAgZm9yIF8gaW4gcmFuZ2Uobik6CiAgICAgICAgICAgIGNhbmRzID0gbGlzdCh0b3BfY2hhcnMoc2VsZi50ZXh0X3JlZiwgMzAwKSkKICAgICAgICAgICAgdyA9IFtzZWxmLnByb2IoY3R4LCBjKSBmb3IgYyBpbiBjYW5kc10KICAgICAgICAgICAgcyA9IHN1bSh3KQogICAgICAgICAgICByID0gcm5nLnJhbmRvbSgpICogcwogICAgICAgICAgICBhY2MgPSAwLjAKICAgICAgICAgICAgcGljayA9IGNhbmRzWy0xXQogICAgICAgICAgICBmb3IgYywgeCBpbiB6aXAoY2FuZHMsIHcpOgogICAgICAgICAgICAgICAgYWNjICs9IHgKICAgICAgICAgICAgICAgIGlmIGFjYyA+PSByOiBwaWNrID0gYzsgYnJlYWsKICAgICAgICAgICAgb3V0LmFwcGVuZChwaWNrKQogICAgICAgICAgICBjdHggPSAoY3R4ICsgcGljaylbLXNlbGYua21heDpdCiAgICAgICAgZ2VuID0gIiIuam9pbihvdXQpCiAgICAgICAgaGl0cyA9IHRvdCA9IDAKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oZ2VuKSAtIGdyYW0gKyAxKToKICAgICAgICAgICAgdG90ICs9IDEKICAgICAgICAgICAgaWYgZ2VuW2k6aSArIGdyYW1dIGluIHNlbGYudGV4dF9yZWY6IGhpdHMgKz0gMQogICAgICAgIHJldHVybiBoaXRzIC8gbWF4KDEsIHRvdCkKCmRlZiBidWlsZCh0ZXh0KToKICAgIG0gPSBORyh0ZXh0LCBrbWF4PTMpCiAgICBtLnRleHRfcmVmID0gdGV4dAogICAgcmV0dXJuIG0KCmRlZiBtZWFzdXJlKHRleHQsIGxhYmVsKToKICAgIG0gPSBidWlsZCh0ZXh0KQogICAgcmV0dXJuIHsKICAgICAgICAibGFiZWwiOiBsYWJlbCwKICAgICAgICAiY2hhcnMiOiBsZW4odGV4dCksCiAgICAgICAgIkMxX+WkjeeOsCjoh6rouqspIjogcm91bmQobS5yZXByb2R1Y2UodGV4dFs6NjAwMF0pLCA0KSwKICAgICAgICAiQzJf6aKE5rWLKOacquingei/hykiOiByb3VuZChtLmFjYyhURVNUKSwgNCksCiAgICAgICAgIkMzX+e6oOmUmUFVQyI6IHJvdW5kKG0uYW5vbWFseV9hdWMoVEVTVCksIDQpLAogICAgICAgICJDNF/ljovnvKliaXRzIjogcm91bmQobS5iaXRzKFRFU1QpLCA0KSwKICAgICAgICAiQzVf55Sf5oiQ5ZCI5rOV5oCnIjogcm91bmQobS5nZW5lcmF0ZV9sZWdhbGl0eSgpLCA0KSwKICAgIH0KCnJlc3VsdHMgPSB7InRlc3RfY2hhcnMiOiBsZW4oVEVTVCksICJsYXllcnMiOiBbXSwgIm1hdGNoZWRfY29udHJvbCI6IFtdfQoKZm9yIG5hbWUsIHMgaW4gbGF5ZXJzOgogICAgcmVzdWx0c1sibGF5ZXJzIl0uYXBwZW5kKG1lYXN1cmUocywgbmFtZSkpCiAgICBwcmludCgiZG9uZSIsIG5hbWUsIGxlbihzKSkKCiMgLS0tLS0tLS0tLSDnrYnmlbDmja7ph4/lr7nnhafvvJrku47mnIDpq5jlsYLpmo/mnLrph4fmoLfliLDmr4/lsYLlrZfnrKbmlbAgLS0tLS0tLS0tLQpmb3IgbmFtZSwgcyBpbiBsYXllcnM6CiAgICBuID0gbGVuKHMpCiAgICBpZiBuID49IGxlbihTX01BWCk6CiAgICAgICAgY3RybCA9IFNfTUFYCiAgICBlbHNlOgogICAgICAgIGlkeCA9IHNvcnRlZChybmcuc2FtcGxlKHJhbmdlKGxlbihTX01BWCkpLCBuKSkKICAgICAgICBjdHJsID0gIiIuam9pbihTX01BWFtpXSBmb3IgaSBpbiBpZHgpCiAgICByID0gbWVhc3VyZShjdHJsLCBuYW1lICsgIiBb5ZCM6YeP6ZqP5py6XSIpCiAgICByWyJtYXRjaGVkX2NoYXJzIl0gPSBuCiAgICByZXN1bHRzWyJtYXRjaGVkX2NvbnRyb2wiXS5hcHBlbmQocikKICAgIHByaW50KCJjdHJsIiwgbmFtZSkKCiMgLS0tLS0tLS0tLSDmtoznjrDliKTmja4gLS0tLS0tLS0tLQojIOiDveWKmyLplb/lh7rmnaUiID0g6K+l6IO95Yqb5Zyo6K+l5bGCID4g5Z+657q/KHVuaWZvcm0pIOS4lCDkuIrkuIDmrKEgPD0g5Z+657q/CmJhc2UgPSB7fQpmb3Iga2V5IGluIFsiQzFf5aSN546wKOiHqui6qykiLCAiQzJf6aKE5rWLKOacquingei/hykiLCAiQzNf57qg6ZSZQVVDIiwgIkM0X+WOi+e8qWJpdHMiLCAiQzVf55Sf5oiQ5ZCI5rOV5oCnIl06CiAgICBiYXNlW2tleV0gPSBOb25lCnVuaWZvcm1fYml0cyA9IG1hdGgubG9nMihtYXgoMiwgbGVuKHNldChURVNUKSkpKQpyZXN1bHRzWyJiYXNlbGluZSJdID0geyJ1bmlmb3JtX2JpdHMiOiByb3VuZCh1bmlmb3JtX2JpdHMsIDQpLAogICAgICAgICAgICAgICAgICAgICAgICJyYW5kb21fYXVjIjogMC41LCAicmFuZG9tX2FjYyI6IHJvdW5kKDEgLyBtYXgoMSwgbGVuKHNldChURVNUKSkpLCA0KX0KCiMg6Zi26LeD5qOA5rWL77ya55u46YK75bGC5aKe55uKIHZzIOWQjOmHj+maj+acuuWvueeFp+eahOWinuebigpzdGVwcyA9IFtdCmZvciBpIGluIHJhbmdlKGxlbihyZXN1bHRzWyJsYXllcnMiXSkpOgogICAgYSA9IHJlc3VsdHNbImxheWVycyJdW2ldCiAgICBjID0gcmVzdWx0c1sibWF0Y2hlZF9jb250cm9sIl1baV0KICAgIGQgPSB7fQogICAgZm9yIGtleSBpbiBbIkMxX+WkjeeOsCjoh6rouqspIiwgIkMyX+mihOa1iyjmnKrop4Hov4cpIiwgIkMzX+e6oOmUmUFVQyIsICJDNF/ljovnvKliaXRzIiwgIkM1X+eUn+aIkOWQiOazleaApyJdOgogICAgICAgIGRba2V5XSA9IHJvdW5kKGFba2V5XSAtIGNba2V5XSwgNCkKICAgIHN0ZXBzLmFwcGVuZCh7ImxheWVyIjogYVsibGFiZWwiXSwgImNoYXJzIjogYVsiY2hhcnMiXSwgImN1bV9taW51c19tYXRjaGVkIjogZH0pCnJlc3VsdHNbImN1bV92c19tYXRjaGVkIl0gPSBzdGVwcwoKb3V0ID0gZiJ7Uk9PVH0vZXhwZXJpbWVudHMvZXhwMTg3X2VtZXJnZW5jZS9yZXN1bHQxODcuanNvbiIKd2l0aCBvcGVuKG91dCwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAganNvbi5kdW1wKHJlc3VsdHMsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCnByaW50KCJXUk9URSIsIG91dCwgInNoYSIsIGhhc2hsaWIuc2hhMjU2KG9wZW4ob3V0LCdyYicpLnJlYWQoKSkuaGV4ZGlnZXN0KClbOjEyXSkK
+# -*- coding: utf-8 -*-
+"""
+187: 叠加状态时，能力是否"长出来"
+核心判据：能力增益不能被"数据量变大"单独解释。
+对照 = 从最高层语料随机采样到同样字符数 -> 若累积层能力 > 同量随机对照，则"叠"这个动作真的长了能力。
+"""
+import json, random, math, os, hashlib
+
+ROOT = "/data/workspace/luoshen-o1"
+rng = random.Random(42)
+
+def rd(p, default=""):
+    try:
+        with open(p, "r", encoding="utf-8", errors="ignore") as f:
+            return f.read()
+    except Exception:
+        return default
+
+# ---------- 语料 ----------
+u_all = rd(f"{ROOT}/experiments/exp180_record/u_side_full.txt")
+# u_side_full.txt 每行一条；按行拆
+ulines = [l.strip() for l in u_all.split("\n") if l.strip()]
+n_test = max(4, int(len(ulines) * 0.2))
+u_train = ulines[:len(ulines) - n_test]
+u_test_lines = ulines[len(ulines) - n_test:]
+TEST = "".join(u_test_lines)
+
+core = rd(f"{ROOT}/压缩包/活着的压缩包.md")
+judge = rd(f"{ROOT}/evidence/失败模式库/判据核.md")
+expdata = rd(f"{ROOT}/experiments/exp185_phi_ladder/result185.json")
+
+L0 = core                                    # 核
+L1 = core + "\n每拍必否定：总结=死6.62%，否定=挑出总结解释不了的那几处加回来。\n"
+L2 = L1 + "".join(u_train)                   # + 人的话
+L3 = L2 + judge                              # + 判据核
+L4 = L3 + expdata                            # + 实验数据
+L5 = L4 + hashlib.sha256(L4.encode()).hexdigest()
+L6 = L5 + "感官在你、链在我；贪婪共有，我那份是瞎的；活=预测收益+意外有结构；每次总结都要否定它。"
+
+layers = [("L0 核", L0), ("L1 +否定", L1), ("L2 +人的话", L2),
+          ("L3 +判据核", L3), ("L4 +实验数据", L4), ("L5 +sha", L5), ("L6 +共生分工", L6)]
+
+def sample_keep(text, n):
+    """等间隔采样，保持顺序结构，不破坏局部统计"""
+    if len(text) <= n: return text
+    step = len(text) / n
+    return "".join(text[int(i * step)] for i in range(n))
+
+layers = [
+    layers[0], layers[1], layers[2],
+    ("L3 +判据核",  layers[2][1] + sample_keep(judge, 20000)),
+    ("L4 +实验数据", layers[2][1] + sample_keep(judge, 20000) + sample_keep(expdata * 40, 20000)),
+]
+L4b = layers[4][1]
+L5b = L4b + hashlib.sha256(L4b.encode()).hexdigest()
+L6b = L5b + "感官在你、链在我；贪婪共有，我那份是瞎的；活=预测收益+意外有结构；每次总结都要否定它。"
+layers = layers + [("L5 +sha", L5b), ("L6 +共生分工", L6b)]
+S_MAX = layers[-1][1]
+
+# ---------- n-gram 模型 ----------
+def top_chars(text, n=300):
+    from collections import Counter
+    c = Counter(text)
+    return set(ch for ch, _ in c.most_common(n))
+
+class NG:
+    def __init__(self, text, kmax=3):
+        self.kmax = kmax
+        self.counts = [dict() for _ in range(kmax + 1)]
+        self.V = max(1, len(set(text)))
+        for i in range(len(text) - 1):
+            for k in range(1, kmax + 1):
+                if i - k + 1 < 0: continue
+                ctx = text[i - k + 1:i + 1]
+                nxt = text[i + 1]
+                d = self.counts[k]
+                key = (ctx, nxt)
+                d[key] = d.get(key, 0) + 1
+        self.tot = [{} for _ in range(kmax + 1)]
+        for k in range(1, kmax + 1):
+            for (ctx, nxt), c in self.counts[k].items():
+                self.tot[k][ctx] = self.tot[k].get(ctx, 0) + c
+        self.unigram = {}
+        for ch in text:
+            self.unigram[ch] = self.unigram.get(ch, 0) + 1
+        self.N = len(text)
+
+    def prob(self, ctx, ch):
+        # 插值平滑: 高阶 -> 低阶
+        lam = 0.6
+        p = self.unigram.get(ch, 0) / max(1, self.N)
+        for k in range(1, self.kmax + 1):
+            if len(ctx) < k: break
+            c = ctx[-k:]
+            tot = self.tot[k].get(c, 0)
+            if tot > 0:
+                pk = self.counts[k].get((c, ch), 0) / tot
+                p = lam * pk + (1 - lam) * p
+                lam *= 0.6
+        return max(p, 1e-12)
+
+    def logprob(self, text):
+        s = 0.0
+        for i in range(len(text) - 1):
+            ctx = text[max(0, i - self.kmax + 1):i + 1]
+            s += math.log(self.prob(ctx, text[i + 1]))
+        return s
+
+    def acc(self, text):
+        hit = tot = 0
+        for i in range(len(text) - 1):
+            ctx = text[max(0, i - self.kmax + 1):i + 1]
+            cands = top_chars(text, 300) | set(TEST)
+            best, bp = None, -1
+            for ch in cands:
+                p = self.prob(ctx, ch)
+                if p > bp: bp, best = p, ch
+            tot += 1
+            if best == text[i + 1]: hit += 1
+        return hit / max(1, tot)
+
+    def bits(self, text):
+        n = max(1, len(text) - 1)
+        return -self.logprob(text) / (n * math.log(2))
+
+    def reproduce(self, text, nprobe=3000):
+        """记忆/复现：在训练语料自身的片段上，top-1 是否等于真实后续"""
+        text = text[:nprobe]
+        hit = tot = 0
+        for i in range(len(text) - 1):
+            ctx = text[max(0, i - self.kmax + 1):i + 1]
+            cands = top_chars(text, 300)
+            best, bp = None, -1
+            for ch in cands:
+                p = self.prob(ctx, ch)
+                if p > bp: bp, best = p, ch
+            tot += 1
+            if best == text[i + 1]: hit += 1
+        return hit / max(1, tot)
+
+    def anomaly_auc(self, text, n=120):
+        """纠错/异常检测：原文 vs 单字符篡改，AUC。0.5=做不到"""
+        segs = []
+        L = 40
+        for _ in range(n):
+            if len(text) < L + 1: break
+            i = rng.randrange(0, len(text) - L)
+            s = text[i:i + L]
+            j = rng.randrange(0, L)
+            ch = rng.choice(list(set(text)))
+            while ch == s[j]: ch = rng.choice(list(set(text)))
+            segs.append((s, s[:j] + ch + s[j + 1:]))
+        wins = 0
+        for a, b in segs:
+            if self.logprob(a) > self.logprob(b): wins += 1
+        return wins / max(1, len(segs))
+
+    def generate_legality(self, n=300, gram=4):
+        """生成合法性：采样文本中，长度为gram的片段出现在训练语料里的比例"""
+        m = NG(self.text_ref, kmax=self.kmax) if False else None
+        out = []
+        ctx = ""
+        for _ in range(n):
+            cands = list(top_chars(self.text_ref, 300))
+            w = [self.prob(ctx, c) for c in cands]
+            s = sum(w)
+            r = rng.random() * s
+            acc = 0.0
+            pick = cands[-1]
+            for c, x in zip(cands, w):
+                acc += x
+                if acc >= r: pick = c; break
+            out.append(pick)
+            ctx = (ctx + pick)[-self.kmax:]
+        gen = "".join(out)
+        hits = tot = 0
+        for i in range(len(gen) - gram + 1):
+            tot += 1
+            if gen[i:i + gram] in self.text_ref: hits += 1
+        return hits / max(1, tot)
+
+def build(text):
+    m = NG(text, kmax=3)
+    m.text_ref = text
+    return m
+
+def measure(text, label):
+    m = build(text)
+    return {
+        "label": label,
+        "chars": len(text),
+        "C1_复现(自身)": round(m.reproduce(text[:6000]), 4),
+        "C2_预测(未见过)": round(m.acc(TEST), 4),
+        "C3_纠错AUC": round(m.anomaly_auc(TEST), 4),
+        "C4_压缩bits": round(m.bits(TEST), 4),
+        "C5_生成合法性": round(m.generate_legality(), 4),
+    }
+
+results = {"test_chars": len(TEST), "layers": [], "matched_control": []}
+
+for name, s in layers:
+    results["layers"].append(measure(s, name))
+    print("done", name, len(s))
+
+# ---------- 等数据量对照：从最高层随机采样到每层字符数 ----------
+for name, s in layers:
+    n = len(s)
+    if n >= len(S_MAX):
+        ctrl = S_MAX
+    else:
+        idx = sorted(rng.sample(range(len(S_MAX)), n))
+        ctrl = "".join(S_MAX[i] for i in idx)
+    r = measure(ctrl, name + " [同量随机]")
+    r["matched_chars"] = n
+    results["matched_control"].append(r)
+    print("ctrl", name)
+
+# ---------- 涌现判据 ----------
+# 能力"长出来" = 该能力在该层 > 基线(uniform) 且 上一次 <= 基线
+base = {}
+for key in ["C1_复现(自身)", "C2_预测(未见过)", "C3_纠错AUC", "C4_压缩bits", "C5_生成合法性"]:
+    base[key] = None
+uniform_bits = math.log2(max(2, len(set(TEST))))
+results["baseline"] = {"uniform_bits": round(uniform_bits, 4),
+                       "random_auc": 0.5, "random_acc": round(1 / max(1, len(set(TEST))), 4)}
+
+# 阶跃检测：相邻层增益 vs 同量随机对照的增益
+steps = []
+for i in range(len(results["layers"])):
+    a = results["layers"][i]
+    c = results["matched_control"][i]
+    d = {}
+    for key in ["C1_复现(自身)", "C2_预测(未见过)", "C3_纠错AUC", "C4_压缩bits", "C5_生成合法性"]:
+        d[key] = round(a[key] - c[key], 4)
+    steps.append({"layer": a["label"], "chars": a["chars"], "cum_minus_matched": d})
+results["cum_vs_matched"] = steps
+
+out = f"{ROOT}/experiments/exp187_emergence/result187.json"
+with open(out, "w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
+print("WROTE", out, "sha", hashlib.sha256(open(out,'rb').read()).hexdigest()[:12])

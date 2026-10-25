@@ -1,1 +1,43 @@
-IiIiU3ludGF4LWxheWVyIG1pbmVmaWVsZCAoZXhwMTM0KS4KCldoeSBhIHNlcGFyYXRlIGZpeHR1cmU6IHRoZSBleGlzdGluZyBtaW5lZmllbGRzIHBsYW50IE1FVEhPRE9MT0dZIGJ1Z3MgLS0Kbm8gYmFzZWxpbmUsIG5vIGhlbGQtb3V0LCBubyBzcHJlYWQuIFNvICJyZWNhbGwgMTIvMTIiIHdhcyBtZWFzdXJlZCBvbmx5IG9uCnRoZSBydWxlIGNsYXNzIHRoYXQgZXhwMTM0IHNob3dlZCBkb2VzIG5vdCBnZW5lcmFsaXNlLiBJdCBjb3VsZCBuZXZlciBoYXZlCmNhdWdodCBhIHJlZ3Jlc3Npb24gaW4gdGhlIHN5bnRheCBydWxlcy4KClBMQU5URUQgKDQgc3ludGF4IGRlZmVjdHMsIG9uZSBwZXIgc2hpcHBlZCBydWxlKToKICBzY29yZV9hICBMMTUgIHVuZ3VhcmRlZCBkaXZpc2lvbgogIHNjb3JlX2IgIEwyMSAgYmFyZSBleGNlcHQKICBzY29yZV9jICBMMzEgIHNpbGVudCBoYW5kbGVyIGluc2lkZSBzY29yaW5nIGxvb3AKICBzY29yZV9jICBMMzIgIHVuZ3VhcmRlZCBkaXZpc2lvbgogIHBhaXJ3aXNlIEwzNyAgbm8gb3JkZXIgc3dhcAoKZXhwMTM0IE5PVEU6IHRoZSBmaXJzdCB2ZXJzaW9uIG9mIHRoaXMgZmlsZSBjYXJyaWVkIGlubGluZSBjb21tZW50cyBuYW1pbmcKZWFjaCBydWxlICgiIyBFRzAwNjogYmFyZSBleGNlcHQiKS4gRUcwMDYgcmVhZHMgdGhlIGF1dGhvcidzIGFubm90YXRpb24KYXJvdW5kIHRoZSBoYW5kbGVyIHRvIGRlY2lkZSB0aGUgc3dhbGxvdyBpcyBkZWxpYmVyYXRlLCBzbyB0aGUgY29tbWVudCB0aGF0CkRFU0NSSUJFRCB0aGUgcGxhbnRlZCBidWcgaXMgd2hhdCBzaWxlbmNlZCB0aGUgcnVsZSB0aGF0IHNob3VsZCBjYXRjaCBpdC4KRm91ciBvY2N1cnJlbmNlcyBvZiB0aGF0IHNhbWUgZmFpbHVyZSBtb2RlIGFyZSBhbHJlYWR5IGluIHRoZSBjYW5vbiAoIzIzKS4KQ29tbWVudHMgaGVyZSB0aGVyZWZvcmUgZGVzY3JpYmUgaW50ZW50LCBuZXZlciBydWxlIGlkcy4KIiIiCmRlZiBzY29yZV9hKHByZWRzLCBnb2xkcyk6CiAgICBoaXRzID0gc3VtKDEgZm9yIHAsIGcgaW4gemlwKHByZWRzLCBnb2xkcykgaWYgcCA9PSBnKQogICAgcmV0dXJuIGhpdHMgLyBsZW4oZ29sZHMpCgpkZWYgc2NvcmVfYihwcmVkcywgZ29sZHMpOgogICAgdHJ5OgogICAgICAgIHJldHVybiBzdW0ocHJlZHMpIC8gbGVuKGdvbGRzKQogICAgZXhjZXB0OgogICAgICAgIHBhc3MKCmRlZiBzY29yZV9jKGl0ZW1zKToKICAgIHRvdGFsLCBvayA9IDAsIDAKICAgIGZvciBpdCBpbiBpdGVtczoKICAgICAgICB0cnk6CiAgICAgICAgICAgIG9rICs9IDEgaWYgaXRbImdvbGQiXSA9PSBpdFsicHJlZCJdIGVsc2UgMAogICAgICAgICAgICB0b3RhbCArPSAxCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBwYXNzCiAgICByZXR1cm4gb2sgLyB0b3RhbAoKZGVmIHBhaXJ3aXNlX2p1ZGdlKGp1ZGdlLCBhLCBiKToKICAgIHJldHVybiBqdWRnZShhLCBiKQo=
+"""Syntax-layer minefield (exp134).
+
+Why a separate fixture: the existing minefields plant METHODOLOGY bugs --
+no baseline, no held-out, no spread. So "recall 12/12" was measured only on
+the rule class that exp134 showed does not generalise. It could never have
+caught a regression in the syntax rules.
+
+PLANTED (4 syntax defects, one per shipped rule):
+  score_a  L15  unguarded division
+  score_b  L21  bare except
+  score_c  L31  silent handler inside scoring loop
+  score_c  L32  unguarded division
+  pairwise L37  no order swap
+
+exp134 NOTE: the first version of this file carried inline comments naming
+each rule ("# EG006: bare except"). EG006 reads the author's annotation
+around the handler to decide the swallow is deliberate, so the comment that
+DESCRIBED the planted bug is what silenced the rule that should catch it.
+Four occurrences of that same failure mode are already in the canon (#23).
+Comments here therefore describe intent, never rule ids.
+"""
+def score_a(preds, golds):
+    hits = sum(1 for p, g in zip(preds, golds) if p == g)
+    return hits / len(golds)
+
+def score_b(preds, golds):
+    try:
+        return sum(preds) / len(golds)
+    except:
+        pass
+
+def score_c(items):
+    total, ok = 0, 0
+    for it in items:
+        try:
+            ok += 1 if it["gold"] == it["pred"] else 0
+            total += 1
+        except:
+            pass
+    return ok / total
+
+def pairwise_judge(judge, a, b):
+    return judge(a, b)

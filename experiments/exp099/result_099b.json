@@ -1,1 +1,86 @@
-ewogIuacq+WwvuWKoOWPpeWPtyI6IHsKICAibiI6IDI5LAogICJjaGFuZ2VkIjogMCwKICAiTCI6IDAsCiAgIk0iOiAwLAogICJQIjogMCwKICAicmVjYWxsIjogewogICAiTCI6IDc3LjgsCiAgICJNIjogOTUuNSwKICAgIlAiOiA4NS43CiAgfQogfSwKICLljrvnqbrmoLwiOiB7CiAgIm4iOiAyOSwKICAiY2hhbmdlZCI6IDAsCiAgIkwiOiAwLAogICJNIjogMCwKICAiUCI6IDAsCiAgInJlY2FsbCI6IHsKICAgIkwiOiA3Ny44LAogICAiTSI6IDk1LjUsCiAgICJQIjogODUuNwogIH0KIH0sCiAi5Y+l5bqP5omT5LmxIjogewogICJuIjogMjksCiAgImNoYW5nZWQiOiAwLAogICJMIjogMCwKICAiTSI6IDAsCiAgIlAiOiAwLAogICJyZWNhbGwiOiB7CiAgICJMIjogNzcuOCwKICAgIk0iOiA5NS41LAogICAiUCI6IDg1LjcKICB9CiB9LAogIui/veWKoOaXoOWFs+WPpSI6IHsKICAibiI6IDI5LAogICJjaGFuZ2VkIjogMCwKICAiTCI6IDAsCiAgIk0iOiAwLAogICJQIjogMCwKICAicmVjYWxsIjogewogICAiTCI6IDc3LjgsCiAgICJNIjogOTUuNSwKICAgIlAiOiA4NS43CiAgfQogfSwKICLmjaIx5Liq5YWz6ZSu6K+NIjogewogICJuIjogMjAsCiAgImNoYW5nZWQiOiA2LAogICJMIjogMywKICAiTSI6IDAsCiAgIlAiOiAzLAogICJyZWNhbGwiOiB7CiAgICJMIjogNjUuMCwKICAgIk0iOiA5NC4xLAogICAiUCI6IDcyLjIKICB9CiB9LAogIuaNojPkuKrlhbPplK7or40iOiB7CiAgIm4iOiAyMCwKICAiY2hhbmdlZCI6IDEwLAogICJMIjogNywKICAiTSI6IDAsCiAgIlAiOiA0LAogICJyZWNhbGwiOiB7CiAgICJMIjogNTAuMCwKICAgIk0iOiA5NC4xLAogICAiUCI6IDcyLjIKICB9CiB9LAogIuaNouWFqOmDqOWPr+aNouWFs+mUruivjSI6IHsKICAibiI6IDIwLAogICJjaGFuZ2VkIjogMTEsCiAgIkwiOiA3LAogICJNIjogMSwKICAiUCI6IDUsCiAgInJlY2FsbCI6IHsKICAgIkwiOiA1MC4wLAogICAiTSI6IDg4LjIsCiAgICJQIjogNjYuNwogIH0KIH0KfQ==
+{
+ "末尾加句号": {
+  "n": 29,
+  "changed": 0,
+  "L": 0,
+  "M": 0,
+  "P": 0,
+  "recall": {
+   "L": 77.8,
+   "M": 95.5,
+   "P": 85.7
+  }
+ },
+ "去空格": {
+  "n": 29,
+  "changed": 0,
+  "L": 0,
+  "M": 0,
+  "P": 0,
+  "recall": {
+   "L": 77.8,
+   "M": 95.5,
+   "P": 85.7
+  }
+ },
+ "句序打乱": {
+  "n": 29,
+  "changed": 0,
+  "L": 0,
+  "M": 0,
+  "P": 0,
+  "recall": {
+   "L": 77.8,
+   "M": 95.5,
+   "P": 85.7
+  }
+ },
+ "追加无关句": {
+  "n": 29,
+  "changed": 0,
+  "L": 0,
+  "M": 0,
+  "P": 0,
+  "recall": {
+   "L": 77.8,
+   "M": 95.5,
+   "P": 85.7
+  }
+ },
+ "换1个关键词": {
+  "n": 20,
+  "changed": 6,
+  "L": 3,
+  "M": 0,
+  "P": 3,
+  "recall": {
+   "L": 65.0,
+   "M": 94.1,
+   "P": 72.2
+  }
+ },
+ "换3个关键词": {
+  "n": 20,
+  "changed": 10,
+  "L": 7,
+  "M": 0,
+  "P": 4,
+  "recall": {
+   "L": 50.0,
+   "M": 94.1,
+   "P": 72.2
+  }
+ },
+ "换全部可换关键词": {
+  "n": 20,
+  "changed": 11,
+  "L": 7,
+  "M": 1,
+  "P": 5,
+  "recall": {
+   "L": 50.0,
+   "M": 88.2,
+   "P": 66.7
+  }
+ }
+}

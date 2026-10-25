@@ -1,1 +1,29 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwppbXBvcnQgb3MsIHRpbWUsIGpzb24sIHN1YnByb2Nlc3MsIHRlbXBmaWxlLCBzaHV0aWwKb3MuY2hkaXIob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpSPXt9CnRtcCA9IHRlbXBmaWxlLm1rZHRlbXAoZGlyPSIuIikKdD10aW1lLnRpbWUoKQpmb3IgaSBpbiByYW5nZSgyMCk6CiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKHRtcCxmImF7aX0udHh0IiksInciKSBhcyBmOiBmLndyaXRlKCJ4IikKUlsib3Blbl9tcyJdID0gcm91bmQoKHRpbWUudGltZSgpLXQpLzIwKjEwMDAsNCkKdD10aW1lLnRpbWUoKQpmb3IgaSBpbiByYW5nZSgyMCk6IG9zLmxpc3RkaXIodG1wKQpSWyJsaXN0ZGlyX21zIl0gPSByb3VuZCgodGltZS50aW1lKCktdCkvMjAqMTAwMCw0KQp0PXRpbWUudGltZSgpCmZvciBpIGluIHJhbmdlKDIwKToKICAgIHRyeTogb3MucmVtb3ZlKG9zLnBhdGguam9pbih0bXAsZiJhe2l9LnR4dCIpKQogICAgZXhjZXB0OiBwYXNzClJbInJlbW92ZV9tcyJdID0gcm91bmQoKHRpbWUudGltZSgpLXQpLzIwKjEwMDAsNCkKdD10aW1lLnRpbWUoKQpmb3IgaSBpbiByYW5nZSgzKToKICAgIHN1YnByb2Nlc3MucnVuKFsicHl0aG9uMyIsIi1jIiwicHJpbnQoMSkiXSxjYXB0dXJlX291dHB1dD1UcnVlKQpSWyJzcGF3bl9tcyJdID0gcm91bmQoKHRpbWUudGltZSgpLXQpLzMqMTAwMCwxKQpSWyJta2Rpcl9tcyJdID0gTm9uZQp0PXRpbWUudGltZSgpCmZvciBpIGluIHJhbmdlKDEwKToKICAgIGQ9b3MucGF0aC5qb2luKHRtcCxmImR7aX0iKTsgb3MubWtkaXIoZCk7IHNodXRpbC5ybXRyZWUoZCxpZ25vcmVfZXJyb3JzPVRydWUpClJbIm1rZGlyX3JtdHJlZV9tcyJdID0gcm91bmQoKHRpbWUudGltZSgpLXQpLzEwKjEwMDAsNCkKc2h1dGlsLnJtdHJlZSh0bXAsIGlnbm9yZV9lcnJvcnM9VHJ1ZSkKcHJpbnQoanNvbi5kdW1wcyhSLCBpbmRlbnQ9MSwgZW5zdXJlX2FzY2lpPUZhbHNlKSkKanNvbi5kdW1wKFIsIG9wZW4oInJlc3VsdF9lbnYuanNvbiIsInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+import os, time, json, subprocess, tempfile, shutil
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+R={}
+tmp = tempfile.mkdtemp(dir=".")
+t=time.time()
+for i in range(20):
+    with open(os.path.join(tmp,f"a{i}.txt"),"w") as f: f.write("x")
+R["open_ms"] = round((time.time()-t)/20*1000,4)
+t=time.time()
+for i in range(20): os.listdir(tmp)
+R["listdir_ms"] = round((time.time()-t)/20*1000,4)
+t=time.time()
+for i in range(20):
+    try: os.remove(os.path.join(tmp,f"a{i}.txt"))
+    except: pass
+R["remove_ms"] = round((time.time()-t)/20*1000,4)
+t=time.time()
+for i in range(3):
+    subprocess.run(["python3","-c","print(1)"],capture_output=True)
+R["spawn_ms"] = round((time.time()-t)/3*1000,1)
+R["mkdir_ms"] = None
+t=time.time()
+for i in range(10):
+    d=os.path.join(tmp,f"d{i}"); os.mkdir(d); shutil.rmtree(d,ignore_errors=True)
+R["mkdir_rmtree_ms"] = round((time.time()-t)/10*1000,4)
+shutil.rmtree(tmp, ignore_errors=True)
+print(json.dumps(R, indent=1, ensure_ascii=False))
+json.dump(R, open("result_env.json","w"), ensure_ascii=False, indent=1)

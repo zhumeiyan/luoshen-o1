@@ -1,1 +1,40 @@
-aW1wb3J0IGpzb24sbWF0aCxyYW5kb20sc3RhdGlzdGljcwpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyLGRlZmF1bHRkaWN0CmV4ZWMob3BlbigncnVuMTk1LnB5JykucmVhZCgpLnNwbGl0KCdCTUFQUyA9JylbMF0pCiMgLS0tIOmHjeW7uui/keecvC/ov5znnLwgLS0tCmRlZiBtYWtlX2J1Y2tldChBLG9yZGVyLGZyZXEsdG90KToKICAgIG0sYWNjLGI9e30sMC4wLDAKICAgIGZvciBjIGluIG9yZGVyOgogICAgICAgIG1bY109bWluKGIsQS0xKTsgYWNjKz1mcmVxW2NdL3RvdAogICAgICAgIHdoaWxlIGI8QS0xIGFuZCBhY2M+PShiKzEpL0E6IGIrPTEKICAgIHJldHVybiBtClY9bGVuKFZPQ0FCKQpORUFSPUV5ZShtYWtlX2J1Y2tldChWLG9yZGVyLGZyZXEsdG90KSxWLDEpOyBORUFSLmZpdCh0cikKRkFSPUV5ZShtYWtlX2J1Y2tldCg4LG9yZGVyLGZyZXEsdG90KSw4LDQpOyBGQVIuZml0KHRyKQpkZWYgc2VxX3Byb2JzKGV5ZSk6CiAgICBvdXQsaGlzdD1bXSxsaXN0KHRyKQogICAgZm9yIGMgaW4gdGU6CiAgICAgICAgb3V0LmFwcGVuZChleWUucGRpc3QoaGlzdCkpOyBoaXN0LmFwcGVuZChjKQogICAgcmV0dXJuIG91dApwbixwZj1zZXFfcHJvYnMoTkVBUiksc2VxX3Byb2JzKEZBUikKZGVmIGpzKHAscSk6CiAgICBrZXlzPXNldChwKXxzZXQocSk7IHM9MC4wCiAgICBmb3IgYyBpbiBrZXlzOgogICAgICAgIGEsYj1tYXgocC5nZXQoYyxQX1VOSyksMWUtMTIpLG1heChxLmdldChjLFBfVU5LKSwxZS0xMik7IG09LjUqKGErYikKICAgICAgICBzKz0uNSphKm1hdGgubG9nMihhL20pKy41KmIqbWF0aC5sb2cyKGIvbSkKICAgIHJldHVybiBzCmRpdj1banMocG5baV0scGZbaV0pIGZvciBpIGluIHJhbmdlKGxlbih0ZSkpXQpvdXQ9W10KZm9yIHggaW4gWzUsMTAsMjAsMzAsNTAsNzBdOgogICAgbT1pbnQobGVuKHRlKSp4LzEwMCkKICAgIHRvcD1zZXQoc29ydGVkKHJhbmdlKGxlbih0ZSkpLGtleT1sYW1iZGEgaTotZGl2W2ldKVs6bV0pCiAgICBkPXN1bSgtbWF0aC5sb2cyKG1heCgocG5baV0gaWYgaSBpbiB0b3AgZWxzZSBwZltpXSkuZ2V0KHRlW2ldLFBfVU5LKSxQX1VOSykpIGZvciBpIGluIHJhbmdlKGxlbih0ZSkpKS9sZW4odGUpCiAgICBhY2M9W10KICAgIGZvciBfIGluIHJhbmdlKDMwMCk6CiAgICAgICAgcm5kPXNldChyYW5kb20uc2FtcGxlKHJhbmdlKGxlbih0ZSkpLG0pKQogICAgICAgIGFjYy5hcHBlbmQoc3VtKC1tYXRoLmxvZzIobWF4KChwbltpXSBpZiBpIGluIHJuZCBlbHNlIHBmW2ldKS5nZXQodGVbaV0sUF9VTkspLFBfVU5LKSkgZm9yIGkgaW4gcmFuZ2UobGVuKHRlKSkpL2xlbih0ZSkpCiAgICBtdSxzZD1zdGF0aXN0aWNzLm1lYW4oYWNjKSxzdGF0aXN0aWNzLnBzdGRldihhY2MpCiAgICB6PShtdS1kKS9zZCBpZiBzZCBlbHNlIDAKICAgIG91dC5hcHBlbmQoeyJ4Ijp4LCJkeW4iOnJvdW5kKGQsNCksInJhbmRfbXUiOnJvdW5kKG11LDQpLCJyYW5kX3NkIjpyb3VuZChzZCw0KSwiZ2FpbiI6cm91bmQobXUtZCw0KSwieiI6cm91bmQoeiwyKX0pCiAgICBwcmludChmIng9e3g6MmR9JSAgZHluPXtkOi40Zn0gIHJhbmQ9e211Oi40Zn3CsXtzZDouNGZ9ICBnYWluPXttdS1kOisuNGZ9ICB6PXt6Oi4yZn0iKQpqc29uLmR1bXAob3V0LG9wZW4oJ3JvYnVzdDE5NS5qc29uJywndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MikK
+import json,math,random,statistics
+from collections import Counter,defaultdict
+exec(open('run195.py').read().split('BMAPS =')[0])
+# --- 重建近眼/远眼 ---
+def make_bucket(A,order,freq,tot):
+    m,acc,b={},0.0,0
+    for c in order:
+        m[c]=min(b,A-1); acc+=freq[c]/tot
+        while b<A-1 and acc>=(b+1)/A: b+=1
+    return m
+V=len(VOCAB)
+NEAR=Eye(make_bucket(V,order,freq,tot),V,1); NEAR.fit(tr)
+FAR=Eye(make_bucket(8,order,freq,tot),8,4); FAR.fit(tr)
+def seq_probs(eye):
+    out,hist=[],list(tr)
+    for c in te:
+        out.append(eye.pdist(hist)); hist.append(c)
+    return out
+pn,pf=seq_probs(NEAR),seq_probs(FAR)
+def js(p,q):
+    keys=set(p)|set(q); s=0.0
+    for c in keys:
+        a,b=max(p.get(c,P_UNK),1e-12),max(q.get(c,P_UNK),1e-12); m=.5*(a+b)
+        s+=.5*a*math.log2(a/m)+.5*b*math.log2(b/m)
+    return s
+div=[js(pn[i],pf[i]) for i in range(len(te))]
+out=[]
+for x in [5,10,20,30,50,70]:
+    m=int(len(te)*x/100)
+    top=set(sorted(range(len(te)),key=lambda i:-div[i])[:m])
+    d=sum(-math.log2(max((pn[i] if i in top else pf[i]).get(te[i],P_UNK),P_UNK)) for i in range(len(te)))/len(te)
+    acc=[]
+    for _ in range(300):
+        rnd=set(random.sample(range(len(te)),m))
+        acc.append(sum(-math.log2(max((pn[i] if i in rnd else pf[i]).get(te[i],P_UNK),P_UNK)) for i in range(len(te)))/len(te))
+    mu,sd=statistics.mean(acc),statistics.pstdev(acc)
+    z=(mu-d)/sd if sd else 0
+    out.append({"x":x,"dyn":round(d,4),"rand_mu":round(mu,4),"rand_sd":round(sd,4),"gain":round(mu-d,4),"z":round(z,2)})
+    print(f"x={x:2d}%  dyn={d:.4f}  rand={mu:.4f}±{sd:.4f}  gain={mu-d:+.4f}  z={z:.2f}")
+json.dump(out,open('robust195.json','w'),ensure_ascii=False,indent=2)

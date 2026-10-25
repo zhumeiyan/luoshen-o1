@@ -1,1 +1,20 @@
-ewogIm9rIjogewogICLikaAg6Kem6KeJ6ZiI5YC857uPIFJFQUwg6ZSa54K56aqM6K+B77yIMy8z77yJIjogdHJ1ZSwKICAi4pGhIOKYheKYheKYhSDmjK/liqjpgJrpgZPmmK/nnJ/luKbpgJrvvIjls7DlnKjlhoXpg6jvvIkiOiB0cnVlLAogICLikaIg56m66Ze06YCa6YGT5Y2V6LCD5aKe77yI57KX5bGC57q56Z2g56m66Ze05oSf55+l77yJIjogdHJ1ZSwKICAi4pGjIOKYheKYhSDliqDkuIrmiYvlkI7mnIDkvJjlsYLljprmmL7okZfmlLbntKfvvIjiiaUyw5fvvIkiOiB0cnVlLAogICLikaQg4piF4piFIOS4pOaEn+WumOWFqOWFsyDihpIg5oqb6ZSZ77yM5LiN6K645Zue6YCA6buY6K6kIjogdHJ1ZSwKICAi4pGlIOWeguebtOWjgeaXoOWPsOmYtuOAgeaWnOmdouacieWPsOmYtiI6IHRydWUsCiAgIuKRpiDml7bpl7TkuI7lsYLljprmiJDlj43mr5QiOiB0cnVlLAogICLikacg5ZCE5ZCR5byC5oCnIFo8WFkg5LiU6JC9IFJFQUwg5Yy66Ze0IjogdHJ1ZSwKICAi4pGoIOKJpTQ1wrAg6Ieq5pSv5pKR44CBPDQ1wrAg6ZyA5pSv5pKRIjogdHJ1ZSwKICAi4pGpIOe/mOabsumaj+WwuuWvuOi2hee6v+aAp+WinumVvyI6IHRydWUsCiAgIuKRqiDkuKTnp43lt6XoibrlkITotaLkuIDpg6jliIbvvIjnnJ/kupLooaXvvIkiOiB0cnVlLAogICLikasg4piF4piFIOaEn+WumOWFqOWFsyDihpIgdmVyZGljdCDlv4XpobvmmK8gTm9uZe+8iOS4jeiuuOS4i+e7k+iuuu+8iSI6IHRydWUsCiAgIuKRrCDlhbPmjonmiYvlkI7vvIznspflsYLnurnkuI3lho3ooqvliKTkuLrlj6/mhJ/nn6UiOiB0cnVlCiB9LAogInZpYl9wZWFrX21tIjogMC4xMDg0NzQ1NzYyNzExODY0NCwKICJ0X2V5ZV9vbmx5IjogMC40MDA3NzQwMzQwOTM2Njk2MywKICJ0X2JvdGgiOiAwLjA2MzM1MDM1Njc3MjgxNDcxCn0=
+{
+ "ok": {
+  "① 触觉阈值经 REAL 锚点验证（3/3）": true,
+  "② ★★★ 振动通道是真带通（峰在内部）": true,
+  "③ 空间通道单调增（粗层纹靠空间感知）": true,
+  "④ ★★ 加上手后最优层厚显著收紧（≥2×）": true,
+  "⑤ ★★ 两感官全关 → 抛错，不许回退默认": true,
+  "⑥ 垂直壁无台阶、斜面有台阶": true,
+  "⑦ 时间与层厚成反比": true,
+  "⑧ 各向异性 Z<XY 且落 REAL 区间": true,
+  "⑨ ≥45° 自支撑、<45° 需支撑": true,
+  "⑩ 翘曲随尺寸超线性增长": true,
+  "⑪ 两种工艺各赢一部分（真互补）": true,
+  "⑫ ★★ 感官全关 → verdict 必须是 None（不许下结论）": true,
+  "⑬ 关掉手后，粗层纹不再被判为可感知": true
+ },
+ "vib_peak_mm": 0.10847457627118644,
+ "t_eye_only": 0.40077403409366963,
+ "t_both": 0.06335035677281471
+}

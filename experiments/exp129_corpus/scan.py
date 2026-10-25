@@ -1,1 +1,29 @@
-aW1wb3J0IHN5cywganNvbiwgcGF0aGxpYiwgY29sbGVjdGlvbnMKc3lzLnBhdGguaW5zZXJ0KDAsICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9vdmVyc2VhcyIpCmZyb20gZXZhbGd1YXJkIGltcG9ydCBjbGkKZnJvbSBldmFsZ3VhcmQuY2xpIGltcG9ydCBzY2FuCmNsaS5QUk9fT05bMF0gPSBUcnVlCgptYW4gPSBqc29uLmxvYWRzKHBhdGhsaWIuUGF0aCgibWFuaWZlc3QuanNvbiIpLnJlYWRfdGV4dCgpKQpyZXMgPSB7fQpmb3IgbSBpbiBtYW46CiAgICBmID0gcGF0aGxpYi5QYXRoKCJjb3JwdXMiKS9tWyJmaWxlIl0KICAgIHRyeToKICAgICAgICByZXNbbVsiZmlsZSJdXSA9IGRpY3QocmVwbz1tWyJyZXBvIl0sIHBhdGg9bVsicGF0aCJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5kaW5ncz1zY2FuKHN0cihmKSkpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmVzW21bImZpbGUiXV0gPSBkaWN0KHJlcG89bVsicmVwbyJdLCBwYXRoPW1bInBhdGgiXSwgZmluZGluZ3M9W10sIGVycj1zdHIoZSkpCnBhdGhsaWIuUGF0aCgic2Nhbi5qc29uIikud3JpdGVfdGV4dChqc29uLmR1bXBzKHJlcywgaW5kZW50PTEpKQoKc2V2ID0gY29sbGVjdGlvbnMuQ291bnRlcigpOyBydWxlID0gY29sbGVjdGlvbnMuQ291bnRlcigpCm5maWxlc193aXRoID0gMApmb3IgZixkIGluIHJlcy5pdGVtcygpOgogICAgZnMgPSBkWyJmaW5kaW5ncyJdCiAgICBpZiBmczogbmZpbGVzX3dpdGggKz0gMQogICAgZm9yIHIgaW4gZnM6CiAgICAgICAgc2V2W3JbInNldmVyaXR5Il1dICs9IDEKICAgICAgICBydWxlW3JbImVnX2lkIl1dICs9IDEKcHJpbnQoImZpbGVzIHNjYW5uZWQ6IiwgbGVuKHJlcykpCnByaW50KCJmaWxlcyB3aXRoID49MSBmaW5kaW5nOiIsIG5maWxlc193aXRoKQpwcmludCgiYnkgc2V2ZXJpdHk6IiwgZGljdChzZXYpKQpwcmludCgiYnkgcnVsZSAodG9wKToiLCBydWxlLm1vc3RfY29tbW9uKDE1KSkK
+import sys, json, pathlib, collections
+sys.path.insert(0, "/data/workspace/luoshen-o1/overseas")
+from evalguard import cli
+from evalguard.cli import scan
+cli.PRO_ON[0] = True
+
+man = json.loads(pathlib.Path("manifest.json").read_text())
+res = {}
+for m in man:
+    f = pathlib.Path("corpus")/m["file"]
+    try:
+        res[m["file"]] = dict(repo=m["repo"], path=m["path"],
+                              findings=scan(str(f)))
+    except Exception as e:
+        res[m["file"]] = dict(repo=m["repo"], path=m["path"], findings=[], err=str(e))
+pathlib.Path("scan.json").write_text(json.dumps(res, indent=1))
+
+sev = collections.Counter(); rule = collections.Counter()
+nfiles_with = 0
+for f,d in res.items():
+    fs = d["findings"]
+    if fs: nfiles_with += 1
+    for r in fs:
+        sev[r["severity"]] += 1
+        rule[r["eg_id"]] += 1
+print("files scanned:", len(res))
+print("files with >=1 finding:", nfiles_with)
+print("by severity:", dict(sev))
+print("by rule (top):", rule.most_common(15))

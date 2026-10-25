@@ -1,1 +1,16 @@
-IyAxNTAg6aKE5rOo5YaM77yI6LeR5LmL5YmN5YaZ5q2777yM6LeR5a6M5Y+q5YGa5a+56LSo77yJCgojIyDnjq/looPlrp7mtYvvvIhwcm9iZV9lbnYucHnvvIzlhrPlrpogdGljayDpooTnrpfvvIkKb3BlbiAxODIuNTBtcyAvIGxpc3RkaXIgNjUuNTZtcyAvIHJlbW92ZSA1Ni4xMG1zIC8gc3Bhd24gOS44bXMgLyBta2RpcitybXRyZWUgMzE0LjIzbXMKPT4g5q+PIHRpY2sg5byA5paH5Lu25LiN5Y+v6KGM77yM5YWo6YOo5pS55bi46am7IGZk77ybc3Bhd24g5L6/5a6c77yM5paH5YyW5qC85Y+v5aSaIHJlcOOAggoKIyMg5a2Q5a6e6aqM5LiO5Yik5o2uClMxIOeLrOeZve+8muS4ieiHgiBwcmUo5YWI6K+05ZCO5YGaKSAvIHBvc3Qo5YWI5YGa5ZCO6K+0KSAvIG9mZgogICBIMWE6IHByZSDlrozmiJDnjocgPiBvZmbvvIxDSSDkuI3ot6ggMAogICBIMWI6IHBvc3Qg5LiNID4gb2Zm77yI6IulIHBvc3Qg5Lmf5pi+6JGX5LyY5LqOIG9mZu+8jOivtOaYjui1t+S9nOeUqOeahOaYryLlhpki5LiN5pivIuivtOWcqOWKqOS9nOWJjSLvvIxIMWEg55qE6Kej6YeK5L2c5bqf77yJClMyIOiHquS8oO+8mmNhdXNhbCB2cyBsb2fvvIzlnKjnnJ8gZG8oKSDkuIrmo4DpqowKICAgSDI6IGNhdXNhbCDpooTmtYvkvJjkuo4gbG9n77yMQ0kg5LiN6LeoIDAKUzMg55+l5q2777ya55yfIHJtdHJlZSjkuI3lj6/mgaLlpI0pIHZzIOecnyBtb3ZlKOWPr+aBouWkjSkKICAgSDM6IG1vcnRhbCDlpJbljJbnjocgPiByZWNvdmVyYWJsZe+8jENJIOS4jei3qCAwClM0IOaWh+WMlu+8muecnyBzcGF3biDlrZDov5vnqIvvvIzkuInoh4IgaW5oZXJpdCAvIHNjcmF0Y2ggLyB3cm9uZwogICBINDogaW5oZXJpdCA+IHNjcmF0Y2gg5LiUIHdyb25nIDwgaW5oZXJpdO+8iHdyb25nIOaYr+iDveS6p+eUn+WBh+eahOiHgu+8iQo=
+# 150 预注册（跑之前写死，跑完只做对质）
+
+## 环境实测（probe_env.py，决定 tick 预算）
+open 182.50ms / listdir 65.56ms / remove 56.10ms / spawn 9.8ms / mkdir+rmtree 314.23ms
+=> 每 tick 开文件不可行，全部改常驻 fd；spawn 便宜，文化格可多 rep。
+
+## 子实验与判据
+S1 独白：三臂 pre(先说后做) / post(先做后说) / off
+   H1a: pre 完成率 > off，CI 不跨 0
+   H1b: post 不 > off（若 post 也显著优于 off，说明起作用的是"写"不是"说在动作前"，H1a 的解释作废）
+S2 自传：causal vs log，在真 do() 上检验
+   H2: causal 预测优于 log，CI 不跨 0
+S3 知死：真 rmtree(不可恢复) vs 真 move(可恢复)
+   H3: mortal 外化率 > recoverable，CI 不跨 0
+S4 文化：真 spawn 子进程，三臂 inherit / scratch / wrong
+   H4: inherit > scratch 且 wrong < inherit（wrong 是能产生假的臂）

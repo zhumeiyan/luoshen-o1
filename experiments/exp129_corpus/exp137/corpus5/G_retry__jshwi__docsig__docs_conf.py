@@ -1,1 +1,149 @@
-IyBDb25maWd1cmF0aW9uIGZpbGUgZm9yIHRoZSBTcGhpbnggZG9jdW1lbnRhdGlvbiBidWlsZGVyLgojCiMgVGhpcyBmaWxlIG9ubHkgY29udGFpbnMgYSBzZWxlY3Rpb24gb2YgdGhlIG1vc3QgY29tbW9uIG9wdGlvbnMuIEZvciBhIGZ1bGwKIyBsaXN0IHNlZSB0aGUgZG9jdW1lbnRhdGlvbjoKIyBodHRwczovL3d3dy5zcGhpbngtZG9jLm9yZy9lbi9tYXN0ZXIvdXNhZ2UvY29uZmlndXJhdGlvbi5odG1sCgojIC0tIFBhdGggc2V0dXAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiMgSWYgZXh0ZW5zaW9ucyAob3IgbW9kdWxlcyB0byBkb2N1bWVudCB3aXRoIGF1dG9kb2MpIGFyZSBpbiBhbm90aGVyIGRpcmVjdG9yeSwKIyBhZGQgdGhlc2UgZGlyZWN0b3JpZXMgdG8gc3lzLnBhdGggaGVyZS4gSWYgdGhlIGRpcmVjdG9yeSBpcyByZWxhdGl2ZSB0byB0aGUKIyBkb2N1bWVudGF0aW9uIHJvb3QsIHVzZSBvcy5wYXRoLmFic3BhdGggdG8gbWFrZSBpdCBhYnNvbHV0ZSwgbGlrZSBzaG93biBoZXJlLgojCmltcG9ydCBvcwppbXBvcnQgc3lzCgpzeXMucGF0aC5hcHBlbmQob3MucGF0aC5hYnNwYXRoKCIuL2V4dGVuc2lvbnMiKSkKCgojIC0tIFByb2plY3QgaW5mb3JtYXRpb24gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCnByb2plY3QgPSAiZG9jc2lnIgpjb3B5cmlnaHQgPSAiMjAyNiwgU3RlcGhlbiBXaGl0bG9jayIKYXV0aG9yID0gIlN0ZXBoZW4gV2hpdGxvY2siCgojIFRoZSBmdWxsIHZlcnNpb24sIGluY2x1ZGluZyBhbHBoYS9iZXRhL3JjIHRhZ3MKcmVsZWFzZSA9ICIwLjk3LjAiCgojIFNFTy1mcmllbmRseSBwcm9qZWN0IGRlc2NyaXB0aW9uLCByZW5kZXJlZCBpbnRvIG1ldGEgdGFncyBieQojIF90ZW1wbGF0ZXMvYmFzZS5odG1sCmRlc2NyaXB0aW9uID0gIiIiXApkb2NzaWcgaXMgYSBQeXRob24gdG9vbCBmb3IgY2hlY2tpbmcgc2lnbmF0dXJlIHBhcmFtZXRlcnMgaW4gZG9jc3RyaW5ncy4KIEVuc3VyZXMgcHJvcGVyIGRvY3VtZW50YXRpb24gb2YgZnVuY3Rpb24gYW5kIG1ldGhvZCBwYXJhbWV0ZXJzIGZvciBTcGhpbngsCiBOdW1QeSwgYW5kIEdvb2dsZSBkb2NzdHJpbmcgZm9ybWF0cy4gVXNlIGFzIGEgc3RhbmRhbG9uZSB0b29sLCBmbGFrZTggcGx1Z2luLAogb3IgcHJlLWNvbW1pdCBob29rIHRvIG1haW50YWluIGFjY3VyYXRlIFB5dGhvbiBkb2N1bWVudGF0aW9uLgoiIiIKCiMgLS0gR2VuZXJhbCBjb25maWd1cmF0aW9uIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKIyBBZGQgYW55IFNwaGlueCBleHRlbnNpb24gbW9kdWxlIG5hbWVzIGhlcmUsIGFzIHN0cmluZ3MuIFRoZXkgY2FuIGJlCiMgZXh0ZW5zaW9ucyBjb21pbmcgd2l0aCBTcGhpbnggKG5hbWVkICdzcGhpbnguZXh0LionKSBvciB5b3VyIGN1c3RvbQojIG9uZXMuCmV4dGVuc2lvbnMgPSBbCiAgICAic3BoaW54LmV4dC5hdXRvZG9jIiwKICAgICJzcGhpbnguZXh0LmRvY3Rlc3QiLAogICAgInNwaGlueC5leHQuZ2l0aHVicGFnZXMiLAogICAgInNwaGlueC5leHQuaW1nbWF0aCIsCiAgICAic3BoaW54LmV4dC50b2RvIiwKICAgICJzcGhpbnguZXh0LnZpZXdjb2RlIiwKICAgICJteXN0X3BhcnNlciIsCiAgICAic3BoaW54X2NvcHlidXR0b24iLAogICAgImdlbmVyYXRlIiwKICAgICJzcGhpbnhfc2l0ZW1hcCIsCiAgICAic3BoaW54ZXh0Lm9wZW5ncmFwaCIsCiAgICAiZmlsZXMiLAogICAgImpzb25zY2hlbWEiLApdCgojIFJlYWQgdGhlIERvY3Mgc2VydmVzIHRoaXMgcHJvamVjdCB1bmRlciAvZW4vbGF0ZXN0Lywgc28gdGhhdCBwcmVmaXggbGl2ZXMgaW4KIyBodG1sX2Jhc2V1cmwgKGJlbG93KSBhbmQgdGhlIHNpdGVtYXAgb25seSBuZWVkcyB0byBhcHBlbmQgdGhlIHBhZ2UgbGluay4KIyBLZWVwaW5nIHRoZSBwcmVmaXggaGVyZSBhcyB3ZWxsIHdvdWxkIGRvdWJsZSBpdCBpbiB0aGUgZ2VuZXJhdGVkIHNpdGVtYXAuCnNpdGVtYXBfdXJsX3NjaGVtZSA9ICJ7bGlua30iCgojIEFkZCBhbnkgcGF0aHMgdGhhdCBjb250YWluIHRlbXBsYXRlcyBoZXJlLCByZWxhdGl2ZSB0byB0aGlzIGRpcmVjdG9yeS4KdGVtcGxhdGVzX3BhdGggPSBbIl90ZW1wbGF0ZXMiXQoKIyBMaXN0IG9mIHBhdHRlcm5zLCByZWxhdGl2ZSB0byBzb3VyY2UgZGlyZWN0b3J5LCB0aGF0IG1hdGNoIGZpbGVzIGFuZAojIGRpcmVjdG9yaWVzIHRvIGlnbm9yZSB3aGVuIGxvb2tpbmcgZm9yIHNvdXJjZSBmaWxlcy4KIyBUaGlzIHBhdHRlcm4gYWxzbyBhZmZlY3RzIGh0bWxfc3RhdGljX3BhdGggYW5kIGh0bWxfZXh0cmFfcGF0aC4KIyBGaWxlcyBvbmx5IGV2ZXIgcHVsbGVkIGluIHdpdGggYC4uIGluY2x1ZGU6OmAgYXJlIGV4Y2x1ZGVkIHNvIHRoZXkgYXJlCiMgbm90IGFsc28gYnVpbHQgYXMgc3RhbmRhbG9uZSBkdXBsaWNhdGUgcGFnZXMuCmV4Y2x1ZGVfcGF0dGVybnMgPSBbCiAgICAiX2J1aWxkIiwKICAgICJUaHVtYnMuZGIiLAogICAgIi5EU19TdG9yZSIsCiAgICAiX2dlbmVyYXRlZCIsCiAgICAiZG9jc2lnLnJzdCIsCiAgICAidXNhZ2UvY2xhc3Nlcy5yc3QiLAogICAgInVzYWdlL2VkaXRvci5yc3QiLAogICAgInVzYWdlL2NoZWNrLWNvbmZpZ3VyYXRpb24ucnN0IiwKICAgICJ1c2FnZS9pZ25vcmUtY29uZmlndXJhdGlvbi5yc3QiLAogICAgInVzYWdlLyotbWVzc2FnZXMucnN0IiwKXQoKIyBUaGUgbmFtZSBvZiB0aGUgUHlnbWVudHMgKHN5bnRheCBoaWdobGlnaHRpbmcpIHN0eWxlIHRvIHVzZS4KcHlnbWVudHNfZGFya19zdHlsZSA9ICJtb25va2FpIgoKIyAtLSBPcHRpb25zIGZvciBIVE1MIG91dHB1dCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgojIFRoZSB0aGVtZSB0byB1c2UgZm9yIEhUTUwgYW5kIEhUTUwgSGVscCBwYWdlcy4gU2VlIHRoZSBkb2N1bWVudGF0aW9uIGZvcgojIGEgbGlzdCBvZiBidWlsdGluIHRoZW1lcy4KIwpodG1sX3RoZW1lID0gImZ1cm8iCmh0bWxfZG9tYWluX2luZGljZXMgPSBUcnVlCmh0bWxfdXNlX2luZGV4ID0gVHJ1ZQpodG1sX3Nob3dfc291cmNlbGluayA9IFRydWUKaHRtbF9zaG93X3NwaGlueCA9IEZhbHNlCm15c3RfaGVhZGluZ19hbmNob3JzID0gMwojIGtlZXAgYC4uIHRvZG86OmAgZGV2ZWxvcG1lbnQgbm90ZXMgb3V0IG9mIHRoZSBwdWJsaXNoZWQgc2l0ZQp0b2RvX2luY2x1ZGVfdG9kb3MgPSBGYWxzZQpodG1sX2xvZ28gPSAic3RhdGljL2RvY3NpZy5zdmciCmh0bWxfZmF2aWNvbiA9ICJzdGF0aWMvZmF2aWNvbi5pY28iCgojIFNFTyBDb25maWd1cmF0aW9uLgojIFJlYWQgdGhlIERvY3Mgc2VydmVzIHRoZSBidWlsdCBkb2NzIHVuZGVyIC9lbi9sYXRlc3QvLCBzbyBjYW5vbmljYWwgbGlua3MsCiMgcGFnZXVybCwgYW5kIHRoZSBzaXRlbWFwIG11c3QgYWxsIGNhcnJ5IHRoYXQgcHJlZml4IOKAlCBvdGhlcndpc2UgdGhlIGVtaXR0ZWQKIyBjYW5vbmljYWwgVVJMcyAoaHR0cHM6Ly9kb2NzaWcuaW8vPHBhZ2U+KSBwb2ludCBhdCBwYXRocyB0aGF0IDQwNCB3aGlsZSB0aGUKIyBzaXRlbWFwIGFkdmVydGlzZXMgdGhlIHJlYWwgL2VuL2xhdGVzdC8gb25lcywgZ2l2aW5nIHNlYXJjaCBlbmdpbmVzCiMgY29uZmxpY3Rpbmcgc2lnbmFscy4KaHRtbF9iYXNldXJsID0gImh0dHBzOi8vZG9jc2lnLmlvL2VuL2xhdGVzdC8iCgojIFZhcmlhYmxlcyBmb3IgdGhlIFNvZnR3YXJlQXBwbGljYXRpb24gc3RydWN0dXJlZCBkYXRhIGluCiMgX3RlbXBsYXRlcy9iYXNlLmh0bWwgKHRoZSBvbmx5IFNFTyBtYXJrdXAgc3RpbGwgcmVuZGVyZWQgYnkgdGhlIHRlbXBsYXRlOwojIHBlci1wYWdlIE9wZW4gR3JhcGgvVHdpdHRlciB0YWdzIGFuZCB0aGUgbWV0YSBkZXNjcmlwdGlvbiBhcmUgZ2VuZXJhdGVkIGJ5CiMgc3BoaW54ZXh0Lm9wZW5ncmFwaCwgY29uZmlndXJlZCBiZWxvdykuCmh0bWxfY29udGV4dCA9IHsKICAgICJzZW9fZGVzY3JpcHRpb24iOiAiICIuam9pbihkZXNjcmlwdGlvbi5zcGxpdCgpKSwKICAgICJzZW9fYXV0aG9yIjogYXV0aG9yLAp9CgojIHNwaGlueGV4dC5vcGVuZ3JhcGg6IGRlcml2ZSBlYWNoIHBhZ2UncyBPcGVuIEdyYXBoL1R3aXR0ZXIgdGFncyBhbmQgbWV0YQojIGRlc2NyaXB0aW9uIGZyb20gaXRzIG93biBjb250ZW50LCBzbyBldmVyeSBwYWdlIGdldHMgYSByZWxldmFudCBzbmlwcGV0CiMgaW5zdGVhZCBvZiBvbmUgcmVwZWF0ZWQgc2l0ZS13aWRlIGJsdXJiLgpvZ3Bfc2l0ZV91cmwgPSBodG1sX2Jhc2V1cmwKb2dwX3NpdGVfbmFtZSA9IHByb2plY3QKb2dwX2Rlc2NyaXB0aW9uX2xlbmd0aCA9IDIwMApvZ3BfZW5hYmxlX21ldGFfZGVzY3JpcHRpb24gPSBUcnVlCiMgR2VuZXJhdGUgYSByYXN0ZXIgcHJldmlldyBjYXJkIHBlciBwYWdlIGZyb20gaXRzIHRpdGxlIGFuZCBkZXNjcmlwdGlvbi4KIyBvZzppbWFnZSB0aGVuIHBvaW50cyBhdCB0aGUgcGFnZSdzIG93biBjYXJkIGFuZCB0d2l0dGVyOmNhcmQgYmVjb21lcwojIHN1bW1hcnlfbGFyZ2VfaW1hZ2UsIHNvIFgvU2xhY2svTGlua2VkSW4gcmVuZGVyIGEgbGFyZ2UtaW1hZ2UgY2FyZC4KIyBEZWxpYmVyYXRlbHkgbm8gb2dwX2ltYWdlOiBvcGVuZ3JhcGggb25seSBnZW5lcmF0ZXMgY2FyZHMgd2hlbiBubyBvdGhlciBpbWFnZQojIGlzIGNvbmZpZ3VyZWQsIHNvIHNldHRpbmcgYSBmYWxsYmFjayBoZXJlIHdvdWxkIHN3aXRjaCBjYXJkIGdlbmVyYXRpb24gb2ZmLgojIFRoZSBjYXJkIGxvZ28gbXVzdCBiZSBhIHJhc3RlciB0b28gLS0gb3BlbmdyYXBoIHJlamVjdHMgYW4gU1ZHIChhbmQgd2l0aCAtVwojIHRoYXQgd2FybmluZyBmYWlscyB0aGUgYnVpbGQpIC0tIHNvIGl0IHVzZXMgdGhlIGNvbW1pdHRlZCBzdGF0aWMvZG9jc2lnLnBuZwojIHJhdGhlciB0aGFuIHRoZSBTVkcgaHRtbF9sb2dvIGl0IHdvdWxkIG90aGVyd2lzZSBmYWxsIGJhY2sgdG8uCiMgUmVuZGVyIGNhcmRzIGluIERlamFWdSBTYW5zIHJhdGhlciB0aGFuIG9wZW5ncmFwaCdzIGRlZmF1bHQgUm9ib3RvIEZsZXg6CiMgUm9ib3RvIEZsZXggaGFzIG5vIGhlYXJ0IGdseXBoLCBzbyBhIGRlc2NyaXB0aW9uIGNvbnRhaW5pbmcgYW4gZW1vamkgKGUuZy4KIyB0aGUgY29udHJpYnV0aW5nIHBhZ2UncyAidGhhbmtzIGZvciAuLi4gPGhlYXJ0PiIpIHJlbmRlcnMgYSB0b2Z1IGFuZCB3YXJucy4KIyBEZWphVnUgU2FucyBzaGlwcyB3aXRoIG1hdHBsb3RsaWIgYW5kIGNvdmVycyB0aGUgZ2x5cGguCm9ncF9zb2NpYWxfY2FyZHMgPSB7CiAgICAiZW5hYmxlIjogVHJ1ZSwKICAgICJpbWFnZSI6ICJzdGF0aWMvZG9jc2lnLnBuZyIsCiAgICAic2l0ZV91cmwiOiAiZG9jc2lnLmlvIiwKICAgICJmb250IjogIkRlamFWdSBTYW5zIiwKfQoKIyBBZGQgYW55IHBhdGhzIHRoYXQgY29udGFpbiBjdXN0b20gc3RhdGljIGZpbGVzIChzdWNoIGFzIHN0eWxlIHNoZWV0cykgaGVyZSwKIyByZWxhdGl2ZSB0byB0aGlzIGRpcmVjdG9yeS4gVGhleSBhcmUgY29waWVkIGFmdGVyIHRoZSBidWlsdGluIHN0YXRpYyBmaWxlcywKIyBzbyBhIGZpbGUgbmFtZWQgImRlZmF1bHQuY3NzIiB3aWxsIG92ZXJ3cml0ZSB0aGUgYnVpbHRpbiAiZGVmYXVsdC5jc3MiLgojIGh0bWxfc3RhdGljX3BhdGggPSBbIl9zdGF0aWMiXQo=
+# Configuration file for the Sphinx documentation builder.
+#
+# This file only contains a selection of the most common options. For a full
+# list see the documentation:
+# https://www.sphinx-doc.org/en/master/usage/configuration.html
+
+# -- Path setup --------------------------------------------------------------
+
+# If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+#
+import os
+import sys
+
+sys.path.append(os.path.abspath("./extensions"))
+
+
+# -- Project information -----------------------------------------------------
+
+project = "docsig"
+copyright = "2026, Stephen Whitlock"
+author = "Stephen Whitlock"
+
+# The full version, including alpha/beta/rc tags
+release = "0.97.0"
+
+# SEO-friendly project description, rendered into meta tags by
+# _templates/base.html
+description = """\
+docsig is a Python tool for checking signature parameters in docstrings.
+ Ensures proper documentation of function and method parameters for Sphinx,
+ NumPy, and Google docstring formats. Use as a standalone tool, flake8 plugin,
+ or pre-commit hook to maintain accurate Python documentation.
+"""
+
+# -- General configuration ---------------------------------------------------
+
+# Add any Sphinx extension module names here, as strings. They can be
+# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
+# ones.
+extensions = [
+    "sphinx.ext.autodoc",
+    "sphinx.ext.doctest",
+    "sphinx.ext.githubpages",
+    "sphinx.ext.imgmath",
+    "sphinx.ext.todo",
+    "sphinx.ext.viewcode",
+    "myst_parser",
+    "sphinx_copybutton",
+    "generate",
+    "sphinx_sitemap",
+    "sphinxext.opengraph",
+    "files",
+    "jsonschema",
+]
+
+# Read the Docs serves this project under /en/latest/, so that prefix lives in
+# html_baseurl (below) and the sitemap only needs to append the page link.
+# Keeping the prefix here as well would double it in the generated sitemap.
+sitemap_url_scheme = "{link}"
+
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ["_templates"]
+
+# List of patterns, relative to source directory, that match files and
+# directories to ignore when looking for source files.
+# This pattern also affects html_static_path and html_extra_path.
+# Files only ever pulled in with `.. include::` are excluded so they are
+# not also built as standalone duplicate pages.
+exclude_patterns = [
+    "_build",
+    "Thumbs.db",
+    ".DS_Store",
+    "_generated",
+    "docsig.rst",
+    "usage/classes.rst",
+    "usage/editor.rst",
+    "usage/check-configuration.rst",
+    "usage/ignore-configuration.rst",
+    "usage/*-messages.rst",
+]
+
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_dark_style = "monokai"
+
+# -- Options for HTML output -------------------------------------------------
+
+# The theme to use for HTML and HTML Help pages. See the documentation for
+# a list of builtin themes.
+#
+html_theme = "furo"
+html_domain_indices = True
+html_use_index = True
+html_show_sourcelink = True
+html_show_sphinx = False
+myst_heading_anchors = 3
+# keep `.. todo::` development notes out of the published site
+todo_include_todos = False
+html_logo = "static/docsig.svg"
+html_favicon = "static/favicon.ico"
+
+# SEO Configuration.
+# Read the Docs serves the built docs under /en/latest/, so canonical links,
+# pageurl, and the sitemap must all carry that prefix — otherwise the emitted
+# canonical URLs (https://docsig.io/<page>) point at paths that 404 while the
+# sitemap advertises the real /en/latest/ ones, giving search engines
+# conflicting signals.
+html_baseurl = "https://docsig.io/en/latest/"
+
+# Variables for the SoftwareApplication structured data in
+# _templates/base.html (the only SEO markup still rendered by the template;
+# per-page Open Graph/Twitter tags and the meta description are generated by
+# sphinxext.opengraph, configured below).
+html_context = {
+    "seo_description": " ".join(description.split()),
+    "seo_author": author,
+}
+
+# sphinxext.opengraph: derive each page's Open Graph/Twitter tags and meta
+# description from its own content, so every page gets a relevant snippet
+# instead of one repeated site-wide blurb.
+ogp_site_url = html_baseurl
+ogp_site_name = project
+ogp_description_length = 200
+ogp_enable_meta_description = True
+# Generate a raster preview card per page from its title and description.
+# og:image then points at the page's own card and twitter:card becomes
+# summary_large_image, so X/Slack/LinkedIn render a large-image card.
+# Deliberately no ogp_image: opengraph only generates cards when no other image
+# is configured, so setting a fallback here would switch card generation off.
+# The card logo must be a raster too -- opengraph rejects an SVG (and with -W
+# that warning fails the build) -- so it uses the committed static/docsig.png
+# rather than the SVG html_logo it would otherwise fall back to.
+# Render cards in DejaVu Sans rather than opengraph's default Roboto Flex:
+# Roboto Flex has no heart glyph, so a description containing an emoji (e.g.
+# the contributing page's "thanks for ... <heart>") renders a tofu and warns.
+# DejaVu Sans ships with matplotlib and covers the glyph.
+ogp_social_cards = {
+    "enable": True,
+    "image": "static/docsig.png",
+    "site_url": "docsig.io",
+    "font": "DejaVu Sans",
+}
+
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+# html_static_path = ["_static"]

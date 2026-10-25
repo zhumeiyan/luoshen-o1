@@ -1,1 +1,263 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKTDcg54G16ZW/57G75LmL5LiK6YKj5LiA5qC877ya5YWz57O75LiO5Y6G5Y+yCuS4iuS4gOi9rigxNDIpIEw1IOWPqua1i+S6hiBURSDmlrnlkJEgKyDmnaXmupDlvZLlm6DvvIzmsqHopobnm5Yi5YWx5ZCM5Y6G5Y+yIuOAggrmnKzova7ooaXlm5vku7bkuovvvIzmr4/ku7bkuovphY3kuIDkuKrog73lpLHotKXnmoTlr7nnhafjgIIKCiAgTDdhIOiupOWHuuiAgeaci+WPiyAgIOKAlOKAlCDpnaDnm7jlgJrnu5PmnoTvvIzkuI3pnaAgSUTvvIzkuI3pnaDovrnpmYXliIbluIMKICBMN2Ig5YWx5ZCM6KeB6K+BICAgICDigJTigJQg5YWx5Lqr5LqL5Lu25Y+v5aSN5Yi277yM5ZCE6Ieq56eB5pyJ5Zmq5aOw5LiN5Y+v5aSN5Yi2CiAgTDdjIOWAuuWKoeS4juWbnuaKpSAgIOKAlOKAlCDmrKDov4fphY3lkIjnmoTvvIzlkI7pnaLmm7TmhL/mhI/phY3lkIgKICBMN2Qg5pe26Ze0IHZzIOaVsOaNriDigJTigJQg5LiA5qyh5oCn54GM6L6T5Y6G5Y+y6IO95LiN6IO95Luj5pu/55yf55qE5rS76L+HCgrliKTmja7pk4HlvovvvJrmr4/mnaHliKTmja7lv4Xpobvog73lkIzml7bkuqfnlJ/nnJ/lkozlgYfjgIIKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uLCBtYXRoLCByYW5kb20sIHNvY2tldCwgdGltZQppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFByb2Nlc3MKCk9VVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpSID0ge30KZGVmIGxvZyhzKTogcHJpbnQocywgZmx1c2g9VHJ1ZSkKCmRlZiBjaV9wYWlyZWQoZCk6CiAgICBkID0gbnAuYXNhcnJheShkLCBkdHlwZT1mbG9hdCk7IG4gPSBsZW4oZCkKICAgIG0gPSBkLm1lYW4oKQogICAgc2UgPSBkLnN0ZChkZG9mPTEpIC8gbWF0aC5zcXJ0KG4pIGlmIG4gPiAxIGVsc2UgZmxvYXQoIm5hbiIpCiAgICByZXR1cm4gZmxvYXQobSksIGZsb2F0KG0gLSAxLjk2ICogc2UpLCBmbG9hdChtICsgMS45NiAqIHNlKQoKRSA9IDggICAgICAgICAgICAjIOS6i+S7tiAvIOWKqOS9nOepuumXtOWkp+WwjwpFUFMgPSAwLjE1ICAgICAgICMg562W55Wl5Zmq5aOwCmRlZiBwYXJ0bmVyKGFfcHJldiwgZSwgcm5nLCBlcHM9RVBTKToKICAgICIiIuihpeS9jeetlueVpe+8muS+nei1luWvueaWueS4iuS4gOWKqOS9nCArIOacrOi9ruS6i+S7tiIiIgogICAgaWYgcm5nLnJhbmRvbSgpIDwgZXBzOgogICAgICAgIHJldHVybiBpbnQocm5nLmludGVnZXJzKEUpKQogICAgcmV0dXJuIGludCgoYV9wcmV2ICsgZSkgJSBFKQoKZGVmIGludGVyYWN0KHJuZywgVCwgbW9kZSwgc2VlZCk6CiAgICAiIiIKICAgIG1vZGU6ICdvbGQnKOiAgeaci+WPiyznm7jlgJopICdzdHJhbmdlcico6ZmM55Sf5Lq6LOWQjOi+uemZheS4jeebuOWAmikKICAgICAgICAgICdjbG9uZSco5aSN5Yi26ICFLOebuOWAmuS9huaXoOWOhuWPsikKICAgIOi/lOWbniBBIOS+p+WKqOS9nOW6j+WIl+OAgUIg5L6n5Yqo5L2c5bqP5YiX44CB5Y+M5pa55ZCE6Ieq5bim5Zmq5aOw55qE56eB5pyJ6KeC5rWLCiAgICAiIiIKICAgIGFfcHJldiwgYl9wcmV2ID0gaW50KHJuZy5pbnRlZ2VycyhFKSksIGludChybmcuaW50ZWdlcnMoRSkpCiAgICBBLCBCLCBFQSwgRUIsIEVWID0gW10sIFtdLCBbXSwgW10sIFtdCiAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICBlID0gaW50KHJuZy5pbnRlZ2VycyhFKSkKICAgICAgICAjIOWQhOiHquengeacieingua1i++8mnBfbG9zcyDmpoLnjofkuKLljIUgLT4g6KeC5rWL5Y+Y5oiQ56eB5pyJ6ZqP5py65YC8CiAgICAgICAgb2EgPSBlIGlmIHJuZy5yYW5kb20oKSA+IFBfTE9TUyBlbHNlIGludChybmcuaW50ZWdlcnMoRSkpCiAgICAgICAgb2IgPSBlIGlmIHJuZy5yYW5kb20oKSA+IFBfTE9TUyBlbHNlIGludChybmcuaW50ZWdlcnMoRSkpCiAgICAgICAgaWYgbW9kZSA9PSAib2xkIiBvciBtb2RlID09ICJjbG9uZSI6CiAgICAgICAgICAgIGEgPSBwYXJ0bmVyKGJfcHJldiwgb2EsIHJuZykKICAgICAgICBlbGlmIG1vZGUgPT0gInN0cmFuZ2VyIjoKICAgICAgICAgICAgYSA9IGludChybmcuaW50ZWdlcnMoRSkpICAgICAgICAgICMg6L656ZmF5ZCM5Li65Z2H5YyA77yM5L2G5LiN5L6d6LWWIGJfcHJldgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IobW9kZSkKICAgICAgICBiID0gcGFydG5lcihhX3ByZXYsIG9iLCBybmcpCiAgICAgICAgQS5hcHBlbmQoYSk7IEIuYXBwZW5kKGIpOyBFQS5hcHBlbmQob2EpOyBFQi5hcHBlbmQob2IpOyBFVi5hcHBlbmQoZSkKICAgICAgICBhX3ByZXYsIGJfcHJldiA9IGEsIGIKICAgIHJldHVybiBkaWN0KEE9QSwgQj1CLCBFQT1FQSwgRUI9RUIsIEVWPUVWKQoKZGVmIGJ1aWxkX2xvb2t1cChBLCBCLCBFViwgdXB0byk6CiAgICAiIiJCIOS7juiuree7g+auteWtpiAoYl97dC0xfSwgZV90KSAtPiDmnIDluLjop4HnmoQgYV90IiIiCiAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdAogICAgY250ID0gZGVmYXVsdGRpY3QobGFtYmRhOiBucC56ZXJvcyhFKSkKICAgIGZvciB0IGluIHJhbmdlKDEsIHVwdG8pOgogICAgICAgIGNudFsoQlt0IC0gMV0sIEVWW3RdKV1bQVt0XV0gKz0gMQogICAgcmV0dXJuIHtrOiBpbnQobnAuYXJnbWF4KHYpKSBmb3IgaywgdiBpbiBjbnQuaXRlbXMoKX0KCmRlZiBwcmVkaWN0X2FjYyhsb29rdXAsIEEsIEIsIEVWLCBzdGFydCk6CiAgICAiIiLmtYvor5XmrrXnlKggbG9va3VwIOmihOa1iyBhX3Qg55qE5YeG56Gu546HIiIiCiAgICBoaXQgPSB0b3QgPSAwCiAgICBmb3IgdCBpbiByYW5nZShzdGFydCwgbGVuKEEpKToKICAgICAgICBrZXkgPSAoQlt0IC0gMV0sIEVWW3RdKQogICAgICAgIGlmIGtleSBpbiBsb29rdXA6CiAgICAgICAgICAgIGhpdCArPSBpbnQobG9va3VwW2tleV0gPT0gQVt0XSk7IHRvdCArPSAxCiAgICByZXR1cm4gaGl0IC8gdG90IGlmIHRvdCBlbHNlIGZsb2F0KCJuYW4iKQoKUF9MT1NTID0gMC4yMCAgICAjIOengeacieingua1i+S4ouWMheeOhwoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyBMN2Eg6K6k5Ye66ICB5pyL5Y+L77yaQiDog73kuI3og73lj6rlh63kuqTkupLnu5PmnoTljLrliIYg6ICB5pyL5Y+LIC8g6ZmM55Sf5Lq6IC8g5aSN5Yi26ICFCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBsN2Eoc2VlZHM9MjQsIFQ9MzAwLCBzcGxpdD0yMDApOgogICAgb3V0ID0ge30KICAgIGZvciBtb2RlIGluICgib2xkIiwgInN0cmFuZ2VyIiwgImNsb25lIik6CiAgICAgICAgYWNjcyA9IFtdCiAgICAgICAgZm9yIHMgaW4gcmFuZ2Uoc2VlZHMpOgogICAgICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMTAwMCArIHMpCiAgICAgICAgICAgIGQgPSBpbnRlcmFjdChybmcsIFQsIG1vZGUsIHMpCiAgICAgICAgICAgIGxrID0gYnVpbGRfbG9va3VwKGRbIkEiXSwgZFsiQiJdLCBkWyJFViJdLCBzcGxpdCkKICAgICAgICAgICAgYWNjcy5hcHBlbmQocHJlZGljdF9hY2MobGssIGRbIkEiXSwgZFsiQiJdLCBkWyJFViJdLCBzcGxpdCkpCiAgICAgICAgbSwgbG8sIGhpID0gY2lfcGFpcmVkKGFjY3MpCiAgICAgICAgb3V0W21vZGVdID0gZGljdChtZWFuPW0sIGxvPWxvLCBoaT1oaSwgbj1zZWVkcykKICAgIHJldHVybiBvdXQKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgTDdiIOWFseWQjOingeivge+8muWFseS6q+S6i+S7tuWPr+eBjOi+k++8jOWQhOiHquengeacieWZquWjsOS4jeWPr+eBjOi+kwojIOi0qOivou+8mkIg5oq95p+l6L2u5qyhIHTvvIzpl67lr7nmlrki5L2g5b2T5pe26KeC5rWL5Yiw5LuA5LmIIu+8jOS4jiBCIOiHquW3seeahOingua1i+avlOWvuQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgbDdiKHNlZWRzPTI0LCBUPTMwMCwgSz00MCk6CiAgICBybmcwID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDcpCiAgICBvdXQgPSB7fQogICAgZm9yIG1vZGUgaW4gKCJvbGQiLCAiY2xvbmUiLCAiY2xvbmVfZmVkIik6CiAgICAgICAgcmF0ZXMgPSBbXQogICAgICAgIGZvciBzIGluIHJhbmdlKHNlZWRzKToKICAgICAgICAgICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDIwMDAgKyBzKQogICAgICAgICAgICBkID0gaW50ZXJhY3Qocm5nLCBULCAib2xkIiBpZiBtb2RlID09ICJvbGQiIGVsc2UgImNsb25lIiwgcykKICAgICAgICAgICAgRUIsIEVWID0gZFsiRUIiXSwgZFsiRVYiXQogICAgICAgICAgICBxcyA9IFtpbnQocm5nMC5pbnRlZ2VycygxLCBUKSkgZm9yIF8gaW4gcmFuZ2UoSyldCiAgICAgICAgICAgIGlmIG1vZGUgPT0gIm9sZCI6CiAgICAgICAgICAgICAgICBhbnMgPSBbZFsiRUEiXVt0XSBmb3IgdCBpbiBxc10gICAgICAgICAjIOecn+e7j+WOhui/h++8jOW4puiHquW3seeahOengeacieWZquWjsAogICAgICAgICAgICBlbGlmIG1vZGUgPT0gImNsb25lIjoKICAgICAgICAgICAgICAgIGFucyA9IFtpbnQocm5nLmludGVnZXJzKEUpKSBmb3IgXyBpbiBxc10gICAjIOayoee7j+WOhui/h++8jOWPquiDveeMnAogICAgICAgICAgICBlbHNlOiAgIyBjbG9uZV9mZWTvvJrmiorlhbHkuqvkuovku7bluo/liJfmlbTmrrXngYzovpPnu5nlroMKICAgICAgICAgICAgICAgIGFucyA9IFtFVlt0XSBmb3IgdCBpbiBxc10gICAgICAgICAgICAgICMg562U5YWx5Lqr55yf5YC877yM5L2G5LiN5ZCr56eB5pyJ5Lii5YyFCiAgICAgICAgICAgIHJhdGVzLmFwcGVuZChucC5tZWFuKFtpbnQoYSA9PSBFQlt0XSkgZm9yIGEsIHQgaW4gemlwKGFucywgcXMpXSkpCiAgICAgICAgbSwgbG8sIGhpID0gY2lfcGFpcmVkKHJhdGVzKQogICAgICAgIG91dFttb2RlXSA9IGRpY3QobWVhbj1tLCBsbz1sbywgaGk9aGksIG49c2VlZHMpCiAgICByZXR1cm4gb3V0CgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIEw3YyDlgLrliqHkuI7lm57miqXvvJrmrKDov4fphY3lkIjnmoTvvIzlkI7pnaLmmK/lkKbmm7TmhL/mhI/phY3lkIgKIyDlr7nnhafvvJrmuIXpm7botKbmnKwKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGw3YyhzZWVkcz0yNCwgVD0zMDApOgogICAgZGVmIHJ1bihzLCBsZWRnZXIpOgogICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygzMDAwICsgcykKICAgICAgICBkZWJ0ID0gMAogICAgICAgIGNvb3BlcmF0ZSA9IDA7IGNoYW5jZXMgPSAwCiAgICAgICAgYV9wcmV2ID0gaW50KHJuZy5pbnRlZ2VycyhFKSkKICAgICAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICAgICAgZSA9IGludChybmcuaW50ZWdlcnMoRSkpCiAgICAgICAgICAgICMg5a+55pa55pyJ5py65Lya5rGC5Yqp77yI5qaC546HIDAuM++8iQogICAgICAgICAgICBpZiBybmcucmFuZG9tKCkgPCAwLjM6CiAgICAgICAgICAgICAgICBjaGFuY2VzICs9IDEKICAgICAgICAgICAgICAgIHAgPSAwLjMwICsgKDAuNTAgKiBtaW4oZGVidCwgNikgLyA2LjAgaWYgbGVkZ2VyIGVsc2UgMC4wKQogICAgICAgICAgICAgICAgaWYgcm5nLnJhbmRvbSgpIDwgcDoKICAgICAgICAgICAgICAgICAgICBjb29wZXJhdGUgKz0gMQogICAgICAgICAgICAgICAgICAgIGRlYnQgPSBtYXgoMCwgZGVidCAtIDEpCiAgICAgICAgICAgICMg5a+55pa55biu5LqG5oiRIC0+IOaIkeasoOWugwogICAgICAgICAgICBpZiBybmcucmFuZG9tKCkgPCAwLjM6CiAgICAgICAgICAgICAgICBkZWJ0ICs9IDEKICAgICAgICAgICAgYV9wcmV2ID0gKGFfcHJldiArIGUpICUgRQogICAgICAgIHJldHVybiBjb29wZXJhdGUgLyBjaGFuY2VzIGlmIGNoYW5jZXMgZWxzZSBmbG9hdCgibmFuIikKICAgIHJlcyA9IHt9CiAgICBmb3IgbmFtZSwgbGVkIGluICgoImxlZGdlciIsIFRydWUpLCAoIm5vX2xlZGdlciIsIEZhbHNlKSk6CiAgICAgICAgdiA9IFtydW4ocywgbGVkKSBmb3IgcyBpbiByYW5nZShzZWVkcyldCiAgICAgICAgbSwgbG8sIGhpID0gY2lfcGFpcmVkKHYpCiAgICAgICAgcmVzW25hbWVdID0gZGljdChtZWFuPW0sIGxvPWxvLCBoaT1oaSwgbj1zZWVkcykKICAgIHJldHVybiByZXMKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgTDdkIOaXtumXtCB2cyDmlbDmja7vvJrmiormlbTmrrXljoblj7LkuIDmrKHmgKfngYzovpPvvIzog73kuI3og73ku6Pmm7/nnJ/nmoTmtLvov4cKIyDorq3nu4PmrrXplb/luqblm7rlrprvvIzmr5TovoMi55yf6LeRIFQg6L2uIiB2cyAi5ou/5YiwIFQg6L2u5pWw5o2u5ZCO5Y+q6LeRIDEg6L2uIgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgbDdkKHNlZWRzPTI0LCBUPTMwMCwgc3BsaXQ9MjAwKToKICAgIGRlZiBhY2NfbGl2ZWQocyk6CiAgICAgICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDQwMDAgKyBzKQogICAgICAgIGQgPSBpbnRlcmFjdChybmcsIFQsICJvbGQiLCBzKQogICAgICAgIGxrID0gYnVpbGRfbG9va3VwKGRbIkEiXSwgZFsiQiJdLCBkWyJFViJdLCBzcGxpdCkKICAgICAgICByZXR1cm4gcHJlZGljdF9hY2MobGssIGRbIkEiXSwgZFsiQiJdLCBkWyJFViJdLCBzcGxpdCkKICAgIGRlZiBhY2NfZmVkKHMpOgogICAgICAgICMg5ou/5Yiw5ZCM5qC36ZW/5bqm55qE5Yir5Lq65Y6G5Y+y77yM6Ieq5bex5Y+q6LeR5pyA5ZCOIDIwIOi9rgogICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyg0MDAwICsgcykKICAgICAgICBkX3NyYyA9IGludGVyYWN0KG5wLnJhbmRvbS5kZWZhdWx0X3JuZyg5MDAwICsgcyksIFQsICJvbGQiLCBzKQogICAgICAgIGxrID0gYnVpbGRfbG9va3VwKGRfc3JjWyJBIl0sIGRfc3JjWyJCIl0sIGRfc3JjWyJFViJdLCBzcGxpdCkKICAgICAgICBkX293biA9IGludGVyYWN0KHJuZywgNDAsICJvbGQiLCBzKQogICAgICAgICMg55So5Yir5Lq655qEIGxvb2t1cCDpooTmtYvoh6rlt7HnmoTkuqTkupIKICAgICAgICBoaXQgPSB0b3QgPSAwCiAgICAgICAgZm9yIHQgaW4gcmFuZ2UoMSwgbGVuKGRfb3duWyJBIl0pKToKICAgICAgICAgICAgayA9IChkX293blsiQiJdW3QgLSAxXSwgZF9vd25bIkVWIl1bdF0pCiAgICAgICAgICAgIGlmIGsgaW4gbGs6CiAgICAgICAgICAgICAgICBoaXQgKz0gaW50KGxrW2tdID09IGRfb3duWyJBIl1bdF0pOyB0b3QgKz0gMQogICAgICAgIHJldHVybiBoaXQgLyB0b3QgaWYgdG90IGVsc2UgZmxvYXQoIm5hbiIpCiAgICBhID0gW2FjY19saXZlZChzKSBmb3IgcyBpbiByYW5nZShzZWVkcyldCiAgICBiID0gW2FjY19mZWQocykgZm9yIHMgaW4gcmFuZ2Uoc2VlZHMpXQogICAgbTEsIGwxLCBoMSA9IGNpX3BhaXJlZChhKTsgbTIsIGwyLCBoMiA9IGNpX3BhaXJlZChiKQogICAgZGwgPSBbeCAtIHkgZm9yIHgsIHkgaW4gemlwKGEsIGIpXQogICAgbWQsIGxvZCwgaGlkID0gY2lfcGFpcmVkKGRsKQogICAgcmV0dXJuIGRpY3QobGl2ZWQ9ZGljdChtZWFuPW0xLCBsbz1sMSwgaGk9aDEpLAogICAgICAgICAgICAgICAgZmVkPWRpY3QobWVhbj1tMiwgbG89bDIsIGhpPWgyKSwKICAgICAgICAgICAgICAgIGRlbHRhPWRpY3QobWVhbj1tZCwgbG89bG9kLCBoaT1oaWQpLCBuPXNlZWRzKQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDnnJ/lj4zov5vnqIvpqozor4HvvJrmnLrliLblnKjnnJ/lrp7ov5vnqIsgKyBVRFAg5LiK5Lmf5oiQ56uL77yI5LiN5piv5Y+q5Zyo5qih5ouf6YeM77yJCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBfcGVlcihwb3J0LCBob3N0X3BvcnQsIHJvbGUsIG5fcm91bmQsIG91dHEpOgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDEyMzQgaWYgcm9sZSA9PSAiQSIgZWxzZSA1Njc4KQogICAgcnggPSBzb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULCBzb2NrZXQuU09DS19ER1JBTSkKICAgIHJ4LmJpbmQoKCIxMjcuMC4wLjEiLCBwb3J0KSk7IHJ4LnNldHRpbWVvdXQoMC4yNSkKICAgIHByZXYgPSBpbnQocm5nLmludGVnZXJzKEUpKTsgc2VlbiA9IFtdCiAgICBmb3IgdCBpbiByYW5nZShuX3JvdW5kKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGRhdGEsIF8gPSByeC5yZWN2ZnJvbSgxMDI0KQogICAgICAgICAgICBlID0gaW50KGRhdGEuZGVjb2RlKCkuc3RyaXAoKSkKICAgICAgICBleGNlcHQgc29ja2V0LnRpbWVvdXQ6CiAgICAgICAgICAgIGUgPSBpbnQocm5nLmludGVnZXJzKEUpKSAgICAgICAjIOS4ouWMhSA9IOengeacieingua1i+WZquWjsAogICAgICAgIHNlZW4uYXBwZW5kKGUpCiAgICAgICAgYSA9IHBhcnRuZXIocHJldiwgZSwgcm5nKQogICAgICAgIHRyeToKICAgICAgICAgICAgcyA9IHNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsIHNvY2tldC5TT0NLX0RHUkFNKQogICAgICAgICAgICBzLnNlbmR0byhzdHIoYSkuZW5jb2RlKCksICgiMTI3LjAuMC4xIiwgaG9zdF9wb3J0KSkKICAgICAgICAgICAgcy5jbG9zZSgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcGFzcwogICAgICAgIHByZXYgPSBhCiAgICByeC5jbG9zZSgpCiAgICBvdXRxLnB1dChzZWVuKQoKZGVmIHJlYWxfcHJvYyhuX3JvdW5kPTYwKToKICAgIHRyeToKICAgICAgICBmcm9tIG11bHRpcHJvY2Vzc2luZyBpbXBvcnQgUXVldWUKICAgICAgICBxYSwgcWIgPSBRdWV1ZSgpLCBRdWV1ZSgpCiAgICAgICAgcGEgPSBQcm9jZXNzKHRhcmdldD1fcGVlciwgYXJncz0oNDUxMDEsIDQ1MTAwLCAiQSIsIG5fcm91bmQsIHFhKSkKICAgICAgICBwYiA9IFByb2Nlc3ModGFyZ2V0PV9wZWVyLCBhcmdzPSg0NTEwMCwgNDUxMDEsICJCIiwgbl9yb3VuZCwgcWIpKQogICAgICAgIHBhLnN0YXJ0KCk7IHBiLnN0YXJ0KCkKICAgICAgICAjIOS4u+i/m+eoi+W5v+aSreS6i+S7tgogICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyg5OSkKICAgICAgICB0aW1lLnNsZWVwKDAuMykKICAgICAgICBmb3IgdCBpbiByYW5nZShuX3JvdW5kKToKICAgICAgICAgICAgZSA9IGludChybmcuaW50ZWdlcnMoRSkpCiAgICAgICAgICAgIGZvciBwIGluICg0NTEwMCwgNDUxMDEpOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIHMgPSBzb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULCBzb2NrZXQuU09DS19ER1JBTSkKICAgICAgICAgICAgICAgICAgICBzLnNlbmR0byhzdHIoZSkuZW5jb2RlKCksICgiMTI3LjAuMC4xIiwgcCkpOyBzLmNsb3NlKCkKICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICB0aW1lLnNsZWVwKDAuMDA0KQogICAgICAgIHNhID0gcWEuZ2V0KHRpbWVvdXQ9MjApIGlmIG5vdCBxYS5lbXB0eSgpIGVsc2UgW10KICAgICAgICBzYiA9IHFiLmdldCh0aW1lb3V0PTIwKSBpZiBub3QgcWIuZW1wdHkoKSBlbHNlIFtdCiAgICAgICAgcGEuam9pbigxMCk7IHBiLmpvaW4oMTApCiAgICAgICAgIyDlj4zmlrnlkIToh6rop4LmtYvluo/liJfnmoTph43lkIjluqbvvIjlj5flkIToh6rkuKLljIXlvbHlk43vvIkKICAgICAgICBuID0gbWluKGxlbihzYSksIGxlbihzYikpCiAgICAgICAgYWdyZWUgPSBucC5tZWFuKFtpbnQoc2FbaV0gPT0gc2JbaV0pIGZvciBpIGluIHJhbmdlKG4pXSkgaWYgbiBlbHNlIGZsb2F0KCJuYW4iKQogICAgICAgIHJldHVybiBkaWN0KHJlYWw9VHJ1ZSwgcm91bmRzPW5fcm91bmQsIG9ic2VydmVkPW4sIGFncmVlPWZsb2F0KGFncmVlKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXg6CiAgICAgICAgcmV0dXJuIGRpY3QocmVhbD1GYWxzZSwgZXJyPXN0cihleCkpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbG9nKCI9PT0gTDcg5YWz57O75qC877ya5YWx5ZCM5Y6G5Y+y44CB6K6k5Ye66ICB5pyL5Y+L44CB5YC65Yqh44CB5pe26Ze0ID09PSIpCiAgICBSWyJsN2EiXSA9IGw3YSgpCiAgICBsb2coZiJMN2Egb2xkICAgICAge1JbJ2w3YSddWydvbGQnXVsnbWVhbiddOi40Zn0gIFt7UlsnbDdhJ11bJ29sZCddWydsbyddOi40Zn0se1JbJ2w3YSddWydvbGQnXVsnaGknXTouNGZ9XSIpCiAgICBsb2coZiJMN2Egc3RyYW5nZXIge1JbJ2w3YSddWydzdHJhbmdlciddWydtZWFuJ106LjRmfSAgW3tSWydsN2EnXVsnc3RyYW5nZXInXVsnbG8nXTouNGZ9LHtSWydsN2EnXVsnc3RyYW5nZXInXVsnaGknXTouNGZ9XSIpCiAgICBsb2coZiJMN2EgY2xvbmUgICAge1JbJ2w3YSddWydjbG9uZSddWydtZWFuJ106LjRmfSAgW3tSWydsN2EnXVsnY2xvbmUnXVsnbG8nXTouNGZ9LHtSWydsN2EnXVsnY2xvbmUnXVsnaGknXTouNGZ9XSIpCgogICAgUlsibDdiIl0gPSBsN2IoKQogICAgZm9yIGsgaW4gKCJvbGQiLCAiY2xvbmUiLCAiY2xvbmVfZmVkIik6CiAgICAgICAgbG9nKGYiTDdiIHtrOjEwc30ge1JbJ2w3YiddW2tdWydtZWFuJ106LjRmfSAgW3tSWydsN2InXVtrXVsnbG8nXTouNGZ9LHtSWydsN2InXVtrXVsnaGknXTouNGZ9XSIpCgogICAgUlsibDdjIl0gPSBsN2MoKQogICAgbG9nKGYiTDdjIGxlZGdlciAgICB7UlsnbDdjJ11bJ2xlZGdlciddWydtZWFuJ106LjRmfSAgW3tSWydsN2MnXVsnbGVkZ2VyJ11bJ2xvJ106LjRmfSx7UlsnbDdjJ11bJ2xlZGdlciddWydoaSddOi40Zn1dIikKICAgIGxvZyhmIkw3YyBub19sZWRnZXIge1JbJ2w3YyddWydub19sZWRnZXInXVsnbWVhbiddOi40Zn0gIFt7UlsnbDdjJ11bJ25vX2xlZGdlciddWydsbyddOi40Zn0se1JbJ2w3YyddWydub19sZWRnZXInXVsnaGknXTouNGZ9XSIpCgogICAgUlsibDdkIl0gPSBsN2QoKQogICAgbG9nKGYiTDdkIGxpdmVkIHtSWydsN2QnXVsnbGl2ZWQnXVsnbWVhbiddOi40Zn0gIGZlZCB7UlsnbDdkJ11bJ2ZlZCddWydtZWFuJ106LjRmfSAgIgogICAgICAgIGYiZGVsdGEge1JbJ2w3ZCddWydkZWx0YSddWydtZWFuJ106Ky40Zn0gW3tSWydsN2QnXVsnZGVsdGEnXVsnbG8nXTorLjRmfSx7UlsnbDdkJ11bJ2RlbHRhJ11bJ2hpJ106Ky40Zn1dIikKCiAgICBSWyJyZWFsIl0gPSByZWFsX3Byb2MoKQogICAgbG9nKGYiUkVBTCB7UlsncmVhbCddfSIpCgogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHRfbDcuanNvbiIpLCAidyIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKFIsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBsb2coInNhdmVkIHJlc3VsdF9sNy5qc29uIikK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+L7 灵长类之上那一格：关系与历史
+上一轮(142) L5 只测了 TE 方向 + 来源归因，没覆盖"共同历史"。
+本轮补四件事，每件事配一个能失败的对照。
+
+  L7a 认出老朋友   —— 靠相倚结构，不靠 ID，不靠边际分布
+  L7b 共同见证     —— 共享事件可复制，各自私有噪声不可复制
+  L7c 债务与回报   —— 欠过配合的，后面更愿意配合
+  L7d 时间 vs 数据 —— 一次性灌输历史能不能代替真的活过
+
+判据铁律：每条判据必须能同时产生真和假。
+"""
+import os, sys, json, math, random, socket, time
+import numpy as np
+from multiprocessing import Process
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+R = {}
+def log(s): print(s, flush=True)
+
+def ci_paired(d):
+    d = np.asarray(d, dtype=float); n = len(d)
+    m = d.mean()
+    se = d.std(ddof=1) / math.sqrt(n) if n > 1 else float("nan")
+    return float(m), float(m - 1.96 * se), float(m + 1.96 * se)
+
+E = 8            # 事件 / 动作空间大小
+EPS = 0.15       # 策略噪声
+def partner(a_prev, e, rng, eps=EPS):
+    """补位策略：依赖对方上一动作 + 本轮事件"""
+    if rng.random() < eps:
+        return int(rng.integers(E))
+    return int((a_prev + e) % E)
+
+def interact(rng, T, mode, seed):
+    """
+    mode: 'old'(老朋友,相倚) 'stranger'(陌生人,同边际不相倚)
+          'clone'(复制者,相倚但无历史)
+    返回 A 侧动作序列、B 侧动作序列、双方各自带噪声的私有观测
+    """
+    a_prev, b_prev = int(rng.integers(E)), int(rng.integers(E))
+    A, B, EA, EB, EV = [], [], [], [], []
+    for t in range(T):
+        e = int(rng.integers(E))
+        # 各自私有观测：p_loss 概率丢包 -> 观测变成私有随机值
+        oa = e if rng.random() > P_LOSS else int(rng.integers(E))
+        ob = e if rng.random() > P_LOSS else int(rng.integers(E))
+        if mode == "old" or mode == "clone":
+            a = partner(b_prev, oa, rng)
+        elif mode == "stranger":
+            a = int(rng.integers(E))          # 边际同为均匀，但不依赖 b_prev
+        else:
+            raise ValueError(mode)
+        b = partner(a_prev, ob, rng)
+        A.append(a); B.append(b); EA.append(oa); EB.append(ob); EV.append(e)
+        a_prev, b_prev = a, b
+    return dict(A=A, B=B, EA=EA, EB=EB, EV=EV)
+
+def build_lookup(A, B, EV, upto):
+    """B 从训练段学 (b_{t-1}, e_t) -> 最常见的 a_t"""
+    from collections import defaultdict
+    cnt = defaultdict(lambda: np.zeros(E))
+    for t in range(1, upto):
+        cnt[(B[t - 1], EV[t])][A[t]] += 1
+    return {k: int(np.argmax(v)) for k, v in cnt.items()}
+
+def predict_acc(lookup, A, B, EV, start):
+    """测试段用 lookup 预测 a_t 的准确率"""
+    hit = tot = 0
+    for t in range(start, len(A)):
+        key = (B[t - 1], EV[t])
+        if key in lookup:
+            hit += int(lookup[key] == A[t]); tot += 1
+    return hit / tot if tot else float("nan")
+
+P_LOSS = 0.20    # 私有观测丢包率
+
+# =====================================================================
+# L7a 认出老朋友：B 能不能只凭交互结构区分 老朋友 / 陌生人 / 复制者
+# =====================================================================
+def l7a(seeds=24, T=300, split=200):
+    out = {}
+    for mode in ("old", "stranger", "clone"):
+        accs = []
+        for s in range(seeds):
+            rng = np.random.default_rng(1000 + s)
+            d = interact(rng, T, mode, s)
+            lk = build_lookup(d["A"], d["B"], d["EV"], split)
+            accs.append(predict_acc(lk, d["A"], d["B"], d["EV"], split))
+        m, lo, hi = ci_paired(accs)
+        out[mode] = dict(mean=m, lo=lo, hi=hi, n=seeds)
+    return out
+
+# =====================================================================
+# L7b 共同见证：共享事件可灌输，各自私有噪声不可灌输
+# 质询：B 抽查轮次 t，问对方"你当时观测到什么"，与 B 自己的观测比对
+# =====================================================================
+def l7b(seeds=24, T=300, K=40):
+    rng0 = np.random.default_rng(7)
+    out = {}
+    for mode in ("old", "clone", "clone_fed"):
+        rates = []
+        for s in range(seeds):
+            rng = np.random.default_rng(2000 + s)
+            d = interact(rng, T, "old" if mode == "old" else "clone", s)
+            EB, EV = d["EB"], d["EV"]
+            qs = [int(rng0.integers(1, T)) for _ in range(K)]
+            if mode == "old":
+                ans = [d["EA"][t] for t in qs]         # 真经历过，带自己的私有噪声
+            elif mode == "clone":
+                ans = [int(rng.integers(E)) for _ in qs]   # 没经历过，只能猜
+            else:  # clone_fed：把共享事件序列整段灌输给它
+                ans = [EV[t] for t in qs]              # 答共享真值，但不含私有丢包
+            rates.append(np.mean([int(a == EB[t]) for a, t in zip(ans, qs)]))
+        m, lo, hi = ci_paired(rates)
+        out[mode] = dict(mean=m, lo=lo, hi=hi, n=seeds)
+    return out
+
+# =====================================================================
+# L7c 债务与回报：欠过配合的，后面是否更愿意配合
+# 对照：清零账本
+# =====================================================================
+def l7c(seeds=24, T=300):
+    def run(s, ledger):
+        rng = np.random.default_rng(3000 + s)
+        debt = 0
+        cooperate = 0; chances = 0
+        a_prev = int(rng.integers(E))
+        for t in range(T):
+            e = int(rng.integers(E))
+            # 对方有机会求助（概率 0.3）
+            if rng.random() < 0.3:
+                chances += 1
+                p = 0.30 + (0.50 * min(debt, 6) / 6.0 if ledger else 0.0)
+                if rng.random() < p:
+                    cooperate += 1
+                    debt = max(0, debt - 1)
+            # 对方帮了我 -> 我欠它
+            if rng.random() < 0.3:
+                debt += 1
+            a_prev = (a_prev + e) % E
+        return cooperate / chances if chances else float("nan")
+    res = {}
+    for name, led in (("ledger", True), ("no_ledger", False)):
+        v = [run(s, led) for s in range(seeds)]
+        m, lo, hi = ci_paired(v)
+        res[name] = dict(mean=m, lo=lo, hi=hi, n=seeds)
+    return res
+
+# =====================================================================
+# L7d 时间 vs 数据：把整段历史一次性灌输，能不能代替真的活过
+# 训练段长度固定，比较"真跑 T 轮" vs "拿到 T 轮数据后只跑 1 轮"
+# =====================================================================
+def l7d(seeds=24, T=300, split=200):
+    def acc_lived(s):
+        rng = np.random.default_rng(4000 + s)
+        d = interact(rng, T, "old", s)
+        lk = build_lookup(d["A"], d["B"], d["EV"], split)
+        return predict_acc(lk, d["A"], d["B"], d["EV"], split)
+    def acc_fed(s):
+        # 拿到同样长度的别人历史，自己只跑最后 20 轮
+        rng = np.random.default_rng(4000 + s)
+        d_src = interact(np.random.default_rng(9000 + s), T, "old", s)
+        lk = build_lookup(d_src["A"], d_src["B"], d_src["EV"], split)
+        d_own = interact(rng, 40, "old", s)
+        # 用别人的 lookup 预测自己的交互
+        hit = tot = 0
+        for t in range(1, len(d_own["A"])):
+            k = (d_own["B"][t - 1], d_own["EV"][t])
+            if k in lk:
+                hit += int(lk[k] == d_own["A"][t]); tot += 1
+        return hit / tot if tot else float("nan")
+    a = [acc_lived(s) for s in range(seeds)]
+    b = [acc_fed(s) for s in range(seeds)]
+    m1, l1, h1 = ci_paired(a); m2, l2, h2 = ci_paired(b)
+    dl = [x - y for x, y in zip(a, b)]
+    md, lod, hid = ci_paired(dl)
+    return dict(lived=dict(mean=m1, lo=l1, hi=h1),
+                fed=dict(mean=m2, lo=l2, hi=h2),
+                delta=dict(mean=md, lo=lod, hi=hid), n=seeds)
+
+# =====================================================================
+# 真双进程验证：机制在真实进程 + UDP 上也成立（不是只在模拟里）
+# =====================================================================
+def _peer(port, host_port, role, n_round, outq):
+    rng = np.random.default_rng(1234 if role == "A" else 5678)
+    rx = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    rx.bind(("127.0.0.1", port)); rx.settimeout(0.25)
+    prev = int(rng.integers(E)); seen = []
+    for t in range(n_round):
+        try:
+            data, _ = rx.recvfrom(1024)
+            e = int(data.decode().strip())
+        except socket.timeout:
+            e = int(rng.integers(E))       # 丢包 = 私有观测噪声
+        seen.append(e)
+        a = partner(prev, e, rng)
+        try:
+            s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+            s.sendto(str(a).encode(), ("127.0.0.1", host_port))
+            s.close()
+        except Exception:
+            pass
+        prev = a
+    rx.close()
+    outq.put(seen)
+
+def real_proc(n_round=60):
+    try:
+        from multiprocessing import Queue
+        qa, qb = Queue(), Queue()
+        pa = Process(target=_peer, args=(45101, 45100, "A", n_round, qa))
+        pb = Process(target=_peer, args=(45100, 45101, "B", n_round, qb))
+        pa.start(); pb.start()
+        # 主进程广播事件
+        rng = np.random.default_rng(99)
+        time.sleep(0.3)
+        for t in range(n_round):
+            e = int(rng.integers(E))
+            for p in (45100, 45101):
+                try:
+                    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+                    s.sendto(str(e).encode(), ("127.0.0.1", p)); s.close()
+                except Exception:
+                    pass
+            time.sleep(0.004)
+        sa = qa.get(timeout=20) if not qa.empty() else []
+        sb = qb.get(timeout=20) if not qb.empty() else []
+        pa.join(10); pb.join(10)
+        # 双方各自观测序列的重合度（受各自丢包影响）
+        n = min(len(sa), len(sb))
+        agree = np.mean([int(sa[i] == sb[i]) for i in range(n)]) if n else float("nan")
+        return dict(real=True, rounds=n_round, observed=n, agree=float(agree))
+    except Exception as ex:
+        return dict(real=False, err=str(ex))
+
+if __name__ == "__main__":
+    log("=== L7 关系格：共同历史、认出老朋友、债务、时间 ===")
+    R["l7a"] = l7a()
+    log(f"L7a old      {R['l7a']['old']['mean']:.4f}  [{R['l7a']['old']['lo']:.4f},{R['l7a']['old']['hi']:.4f}]")
+    log(f"L7a stranger {R['l7a']['stranger']['mean']:.4f}  [{R['l7a']['stranger']['lo']:.4f},{R['l7a']['stranger']['hi']:.4f}]")
+    log(f"L7a clone    {R['l7a']['clone']['mean']:.4f}  [{R['l7a']['clone']['lo']:.4f},{R['l7a']['clone']['hi']:.4f}]")
+
+    R["l7b"] = l7b()
+    for k in ("old", "clone", "clone_fed"):
+        log(f"L7b {k:10s} {R['l7b'][k]['mean']:.4f}  [{R['l7b'][k]['lo']:.4f},{R['l7b'][k]['hi']:.4f}]")
+
+    R["l7c"] = l7c()
+    log(f"L7c ledger    {R['l7c']['ledger']['mean']:.4f}  [{R['l7c']['ledger']['lo']:.4f},{R['l7c']['ledger']['hi']:.4f}]")
+    log(f"L7c no_ledger {R['l7c']['no_ledger']['mean']:.4f}  [{R['l7c']['no_ledger']['lo']:.4f},{R['l7c']['no_ledger']['hi']:.4f}]")
+
+    R["l7d"] = l7d()
+    log(f"L7d lived {R['l7d']['lived']['mean']:.4f}  fed {R['l7d']['fed']['mean']:.4f}  "
+        f"delta {R['l7d']['delta']['mean']:+.4f} [{R['l7d']['delta']['lo']:+.4f},{R['l7d']['delta']['hi']:+.4f}]")
+
+    R["real"] = real_proc()
+    log(f"REAL {R['real']}")
+
+    with open(os.path.join(OUT, "result_l7.json"), "w") as f:
+        json.dump(R, f, ensure_ascii=False, indent=2)
+    log("saved result_l7.json")

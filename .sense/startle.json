@@ -1,1 +1,34 @@
-ewogIm9rIjogewogICLikaAg4piFIOmYiOWAvCg4NWRCKeS7peS4i+S4jeaDiuWQkyI6IHRydWUsCiAgIuKRoSDimIUg6LaK5by65r2c5LyP5pyf6LaK55+tIjogdHJ1ZSwKICAi4pGiIOKYhSDmg4rlkJPov5zlv6vkuo7nmq7lsYLvvIjohJHlubLpgJrot6/vvIznu5Xov4fnmq7lsYLvvIkiOiB0cnVlLAogICLikaMg4piFIFBQSSDmnIDkvJjlnKggMTIwbXMiOiB0cnVlLAogICLikaQg4piFIDwzMG1zIOaXoOaViO+8iOadpeS4jeWPiumXqOaOp++8iSI6IHRydWUsCiAgIuKRpSDimIUgPjUwMG1zIOaXoOaViO+8iOmXqOaOp+W3suWFs++8iSI6IHRydWUsCiAgIuKRpiDimIUg5bOw5YC85oqR5Yi26JC95ZyoIDMwfjcwJSI6IHRydWUsCiAgIuKRpyDimIUg6YeN5aSN5ZCO5LiL6ZmN77yI5Lmg5oOv5YyW77yJIjogdHJ1ZSwKICAi4pGoIOKYhSDljrvkuaDmg6/ljJbvvJrmm7TlvLrliLrmv4Dorqnmg4rlkJPmgaLlpI0iOiB0cnVlLAogICLikakg4piF4piFIOaXoOS/neaKpOehruWunua6ouWHuiI6IGZhbHNlLAogICLikaog4piF4piFIOWQjue9rue9rumbtu+8muWBnOS6hua6ouWHuuS9huS/oeaBr+WFqOS4oiI6IGZhbHNlLAogICLikasg4piF4piF4piFIOWJjee9ruWinuebiuaOp+WItu+8muS4jea6ouWHuuS4lOS/oeaBr+S/neeVmSg+MC41KSI6IHRydWUsCiAgIuKRrCDimIXimIXimIUg5YmN572u5pa55qGI5L+h5oGv5L+d55WZ5pi+6JGX5LyY5LqO5ZCO572uIjogZmFsc2UsCiAgIuKRrSDimIUg5r2c5LyP5pyf6LaK6ZW/77yM56ys5LiA5LiL6L+H5Yay6LaK5aSnIjogZmFsc2UsCiAgIuKRriDimIUg5oOK5ZCT5Y+q5Zyo6LaF6ZmQ5pe25Y+R55Sf77yI5ZCM5p6E5oiQ56uL77yJIjogdHJ1ZSwKICAi4pGvIOKYhSDlj43or4HvvJrpmIjlgLzku6XkuIvnoa7lrp7pm7blj43lupQiOiB0cnVlCiB9LAogInBwaSI6IHsKICAiMTAiOiAwLjAsCiAgIjMwIjogMC41NTA4MzUwMzA3NjgyMzQ1LAogICI2MCI6IDAuNjI5Mjc2OTQ4Mzg5NzE2NiwKICAiMTIwIjogMC43LAogICIyNDAiOiAwLjQ1NzE2NTIwODQ3ODg4OTQsCiAgIjUwMCI6IDAuMDA5NzY1ODQzOTQzNDEzNzYsCiAgIjgwMCI6IDAuMAogfSwKICJpbmZvIjogewogICJ1bnByb3RlY3RlZCI6IDAuOTgxMjUsCiAgInBvc3RfY2xpcCI6IDAuOTgxMjUsCiAgInByZV9nYWluIjogMC45ODEyNQogfQp9
+{
+ "ok": {
+  "① ★ 阈值(85dB)以下不惊吓": true,
+  "② ★ 越强潜伏期越短": true,
+  "③ ★ 惊吓远快于皮层（脑干通路，绕过皮层）": true,
+  "④ ★ PPI 最优在 120ms": true,
+  "⑤ ★ <30ms 无效（来不及门控）": true,
+  "⑥ ★ >500ms 无效（门控已关）": true,
+  "⑦ ★ 峰值抑制落在 30~70%": true,
+  "⑧ ★ 重复后下降（习惯化）": true,
+  "⑨ ★ 去习惯化：更强刺激让惊吓恢复": true,
+  "⑩ ★★ 无保护确实溢出": false,
+  "⑪ ★★ 后置置零：停了溢出但信息全丢": false,
+  "⑫ ★★★ 前置增益控制：不溢出且信息保留(>0.5)": true,
+  "⑬ ★★★ 前置方案信息保留显著优于后置": false,
+  "⑭ ★ 潜伏期越长，第一下过冲越大": false,
+  "⑮ ★ 惊吓只在超限时发生（同构成立）": true,
+  "⑯ ★ 反证：阈值以下确实零反应": true
+ },
+ "ppi": {
+  "10": 0.0,
+  "30": 0.5508350307682345,
+  "60": 0.6292769483897166,
+  "120": 0.7,
+  "240": 0.4571652084788894,
+  "500": 0.00976584394341376,
+  "800": 0.0
+ },
+ "info": {
+  "unprotected": 0.98125,
+  "post_clip": 0.98125,
+  "pre_gain": 0.98125
+ }
+}

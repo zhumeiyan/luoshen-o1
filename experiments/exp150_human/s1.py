@@ -1,1 +1,85 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJTMSDni6znmb0gdjLvvJrkv64gdjEgYnVn77yI5Yid5aeL5YyW5Y2z5oyk5Ye6QSAtPiDkuInoh4Llhagw6aWx5ZKM77yJCuW3peS9nOiusOW/hiBDQVA9MyDmraPlpb3oo4XkuIvkuInmraXvvJvnnJ/lrp7ml7bpkp/mipbliqjlhrPlrprmr4/ova7mjKTlhaXlh6DkuKrlubLmibDpobkgLT4g5Lqn55Sf55yf5a6e5Y+Y5byCCnByZT3kuovlhYjlhpnkuIvorqHliJLlj6/or7vlm57mgaLlpI0gLyBwb3N0PeWPquWGmeWOhuWPsiAvIG9mZj3ml6DlpJbpg6jorrDlv4YiIiIKaW1wb3J0IG9zLCBqc29uLCBtYXRoLCByYW5kb20sIHRpbWUKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVxdWUKaW1wb3J0IG51bXB5IGFzIG5wCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClJFQUxfRElSID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzIgpUQVJHRVQgPSBbIkEiLCAiQiIsICJDIl0KQ0FQID0gMwoKZGVmIGNpX3BhaXJlZChkKToKICAgIGQgPSBucC5hc2FycmF5KGQsIGZsb2F0KTsgbiA9IGxlbihkKQogICAgbSA9IGZsb2F0KGQubWVhbigpKTsgc2UgPSBmbG9hdChkLnN0ZChkZG9mPTEpKS9tYXRoLnNxcnQobikgaWYgbiA+IDEgZWxzZSBmbG9hdCgibmFuIikKICAgIHJldHVybiBtLCBtLTEuOTYqc2UsIG0rMS45NipzZQoKZGVmIHJlYWxfaml0dGVyKHJuZyk6CiAgICAiIiLnnJ/lrp7ml7bpkp/mipbliqggLT4g5Yaz5a6a5pys6L2u5oyk5YWl5Yeg5Liq5bmy5omw6aG577yI55yf5a6e5Zmq5aOw5rqQ77yJIiIiCiAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgIHMgPSAwLjAKICAgIGZvciBfIGluIHJhbmdlKDIwMDAwKTogcyArPSAoXyAqKiAwLjUpCiAgICByZXR1cm4gKHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MCkKCmRlZiBydW5fYXJtKGFybSwgc2VlZCwgVD00OCk6CiAgICBmcGF0aCA9IG9zLnBhdGguam9pbihIRVJFLCBmInMxX3thcm19X3tzZWVkfS5sb2ciKQogICAgZiA9IG9wZW4oZnBhdGgsICJ3KyIpICAgIyB2MzogInciIOS4jeWPr+ivuywgcmVhZCgpIOaKmyBVbnN1cHBvcnRlZE9wZXJhdGlvbiDooqsgZXhjZXB0IOWQnuaOiSAtPiBwcmUg6IeC6K+75Zue5LuO5pyq55Sf5pWICiAgICBwbGFuID0gZGVxdWUoVEFSR0VULCBtYXhsZW49Q0FQKQogICAgZG9uZSA9IFtdCiAgICBuZGlzdCA9IDA7IGppdHRlcnMgPSBbXQogICAgZm9yIHQgaW4gcmFuZ2UoVCk6CiAgICAgICAgaWYgYXJtID09ICJwcmUiOgogICAgICAgICAgICBpZiB0ID09IDA6CiAgICAgICAgICAgICAgICBmLnNlZWsoMCk7IGYudHJ1bmNhdGUoKTsganNvbi5kdW1wKHsicGxhbiI6IFRBUkdFVH0sIGYpOyBmLmZsdXNoKCkKICAgICAgICAgICAgZi5zZWVrKDApCiAgICAgICAgICAgIHRyeTogZXh0ID0ganNvbi5sb2FkcyhmLnJlYWQoKSBvciAie30iKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBleHQgPSB7fQogICAgICAgICAgICBmb3Igc3RlcCBpbiBleHQuZ2V0KCJwbGFuIiwgW10pOgogICAgICAgICAgICAgICAgaWYgc3RlcCBub3QgaW4gZG9uZSBhbmQgc3RlcCBub3QgaW4gcGxhbjoKICAgICAgICAgICAgICAgICAgICBwbGFuLmFwcGVuZChzdGVwKSAgICAgICAgICAgICAgICMg5LuOIuS6i+WFiOivtOi/h+eahOiuoeWIkiLooaXlm57ooqvmjKTlh7rnmoTmraXpqqQKICAgICAgICBlbGlmIGFybSA9PSAicG9zdCI6CiAgICAgICAgICAgIGlmIHQgPT0gMDoKICAgICAgICAgICAgICAgIGYuc2VlaygwKTsgZi50cnVuY2F0ZSgpOyBqc29uLmR1bXAoeyJoaXN0IjogW119LCBmKTsgZi5mbHVzaCgpCiAgICAgICAgICAgIGYuc2VlaygwKQogICAgICAgICAgICB0cnk6IGV4dCA9IGpzb24ubG9hZHMoZi5yZWFkKCkgb3IgInt9IikKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogZXh0ID0ge30KICAgICAgICAjIOecn+WunuaEn+efpe+8muavjyA0IHRpY2sg55yfIGxpc3RkaXLvvIzmjKTlhaXmlbDph4/nlLHnnJ/lrp7ml7bpkp/mipbliqjlhrPlrpoKICAgICAgICBpZiB0ICUgNCA9PSAwOgogICAgICAgICAgICB0cnk6IGl0ZW1zID0gb3MubGlzdGRpcihSRUFMX0RJUikKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogaXRlbXMgPSBbIngiXQogICAgICAgICAgICBqID0gcmVhbF9qaXR0ZXIoTm9uZSkKICAgICAgICAgICAgaml0dGVycy5hcHBlbmQoaikKICAgICAgICAgICAgayA9IGludCgoaiAqIDEwMDApICUgMykgICAgICAgICAgICAgICAgICMgMH4yIOS4qu+8jOecn+acuuWZquWjsAogICAgICAgICAgICBmb3IgaSBpbiByYW5nZShrKToKICAgICAgICAgICAgICAgIG5tID0gaXRlbXNbKHQgKyBpKSAlIGxlbihpdGVtcyldIGlmIGl0ZW1zIGVsc2UgIngiCiAgICAgICAgICAgICAgICBwbGFuLmFwcGVuZCgiRDoiICsgbm0pCiAgICAgICAgICAgICAgICBuZGlzdCArPSAxCiAgICAgICAgbnh0ID0gVEFSR0VUW2xlbihkb25lKV0KICAgICAgICBpZiBueHQgaW4gcGxhbjoKICAgICAgICAgICAgcGxhbi5yZW1vdmUobnh0KTsgZG9uZS5hcHBlbmQobnh0KQogICAgICAgICAgICBpZiBhcm0gPT0gInBvc3QiOgogICAgICAgICAgICAgICAgZi5zZWVrKDApOyBmLnRydW5jYXRlKCk7IGpzb24uZHVtcCh7Imhpc3QiOiBkb25lfSwgZik7IGYuZmx1c2goKQogICAgICAgIGlmIGxlbihkb25lKSA9PSBsZW4oVEFSR0VUKTogYnJlYWsKICAgIGYuY2xvc2UoKTsgb3MucmVtb3ZlKGZwYXRoKQogICAgcmV0dXJuIDEuMCBpZiBkb25lID09IFRBUkdFVCBlbHNlIDAuMCwgbmRpc3QsIChmbG9hdChucC5tZWFuKGppdHRlcnMpKSBpZiBqaXR0ZXJzIGVsc2UgMC4wKQoKZGVmIG1haW4oc2VlZHM9MTIpOgogICAgb3V0ID0ge307IHNsID0gbGlzdChyYW5nZSgyMDAwLCAyMDAwK3NlZWRzKSkKICAgIGZvciBhcm0gaW4gWyJwcmUiLCAicG9zdCIsICJvZmYiXToKICAgICAgICB2YWxzID0gW107IG5kID0gW10KICAgICAgICBmb3IgcyBpbiBzbDoKICAgICAgICAgICAgdiwgbiwgXyA9IHJ1bl9hcm0oYXJtLCBzKTsgdmFscy5hcHBlbmQodik7IG5kLmFwcGVuZChuKQogICAgICAgIG91dFthcm1dID0geyJyYXRlIjogZmxvYXQobnAubWVhbih2YWxzKSksICJ2YWxzIjogdmFscywgIm1lYW5fZGlzdCI6IGZsb2F0KG5wLm1lYW4obmQpKX0KICAgIGQxID0gW291dFsicHJlIl1bInZhbHMiXVtpXS1vdXRbIm9mZiJdWyJ2YWxzIl1baV0gZm9yIGkgaW4gcmFuZ2Uoc2VlZHMpXQogICAgZDIgPSBbb3V0WyJwb3N0Il1bInZhbHMiXVtpXS1vdXRbIm9mZiJdWyJ2YWxzIl1baV0gZm9yIGkgaW4gcmFuZ2Uoc2VlZHMpXQogICAgbTEsIGxvMSwgaGkxID0gY2lfcGFpcmVkKGQxKTsgbTIsIGxvMiwgaGkyID0gY2lfcGFpcmVkKGQyKQogICAgb3V0WyJIMWFfcHJlX21pbnVzX29mZiJdID0geyJtZWFuIjogbTEsICJjaSI6W2xvMSxoaTFdLCAicGFzcyI6IGJvb2wobG8xID4gMCl9CiAgICBvdXRbIkgxYl9wb3N0X21pbnVzX29mZiJdID0geyJtZWFuIjogbTIsICJjaSI6W2xvMixoaTJdLCAicG9zdF9ub3RfYmV0dGVyIjogYm9vbChub3QobG8yPjApKX0KICAgIHJldHVybiBvdXQKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICByID0gbWFpbigxMik7IHByaW50KGpzb24uZHVtcHMociwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkpCiAgICBqc29uLmR1bXAociwgb3BlbigicmVzdWx0X3MxLmpzb24iLCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""S1 独白 v2：修 v1 bug（初始化即挤出A -> 三臂全0饱和）
+工作记忆 CAP=3 正好装下三步；真实时钟抖动决定每轮挤入几个干扰项 -> 产生真实变异
+pre=事先写下计划可读回恢复 / post=只写历史 / off=无外部记忆"""
+import os, json, math, random, time
+from collections import deque
+import numpy as np
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+REAL_DIR = "/data/workspace/luoshen-o1/experiments"
+TARGET = ["A", "B", "C"]
+CAP = 3
+
+def ci_paired(d):
+    d = np.asarray(d, float); n = len(d)
+    m = float(d.mean()); se = float(d.std(ddof=1))/math.sqrt(n) if n > 1 else float("nan")
+    return m, m-1.96*se, m+1.96*se
+
+def real_jitter(rng):
+    """真实时钟抖动 -> 决定本轮挤入几个干扰项（真实噪声源）"""
+    t0 = time.perf_counter()
+    s = 0.0
+    for _ in range(20000): s += (_ ** 0.5)
+    return (time.perf_counter() - t0)
+
+def run_arm(arm, seed, T=48):
+    fpath = os.path.join(HERE, f"s1_{arm}_{seed}.log")
+    f = open(fpath, "w+")   # v3: "w" 不可读, read() 抛 UnsupportedOperation 被 except 吞掉 -> pre 臂读回从未生效
+    plan = deque(TARGET, maxlen=CAP)
+    done = []
+    ndist = 0; jitters = []
+    for t in range(T):
+        if arm == "pre":
+            if t == 0:
+                f.seek(0); f.truncate(); json.dump({"plan": TARGET}, f); f.flush()
+            f.seek(0)
+            try: ext = json.loads(f.read() or "{}")
+            except Exception: ext = {}
+            for step in ext.get("plan", []):
+                if step not in done and step not in plan:
+                    plan.append(step)               # 从"事先说过的计划"补回被挤出的步骤
+        elif arm == "post":
+            if t == 0:
+                f.seek(0); f.truncate(); json.dump({"hist": []}, f); f.flush()
+            f.seek(0)
+            try: ext = json.loads(f.read() or "{}")
+            except Exception: ext = {}
+        # 真实感知：每 4 tick 真 listdir，挤入数量由真实时钟抖动决定
+        if t % 4 == 0:
+            try: items = os.listdir(REAL_DIR)
+            except Exception: items = ["x"]
+            j = real_jitter(None)
+            jitters.append(j)
+            k = int((j * 1000) % 3)                 # 0~2 个，真机噪声
+            for i in range(k):
+                nm = items[(t + i) % len(items)] if items else "x"
+                plan.append("D:" + nm)
+                ndist += 1
+        nxt = TARGET[len(done)]
+        if nxt in plan:
+            plan.remove(nxt); done.append(nxt)
+            if arm == "post":
+                f.seek(0); f.truncate(); json.dump({"hist": done}, f); f.flush()
+        if len(done) == len(TARGET): break
+    f.close(); os.remove(fpath)
+    return 1.0 if done == TARGET else 0.0, ndist, (float(np.mean(jitters)) if jitters else 0.0)
+
+def main(seeds=12):
+    out = {}; sl = list(range(2000, 2000+seeds))
+    for arm in ["pre", "post", "off"]:
+        vals = []; nd = []
+        for s in sl:
+            v, n, _ = run_arm(arm, s); vals.append(v); nd.append(n)
+        out[arm] = {"rate": float(np.mean(vals)), "vals": vals, "mean_dist": float(np.mean(nd))}
+    d1 = [out["pre"]["vals"][i]-out["off"]["vals"][i] for i in range(seeds)]
+    d2 = [out["post"]["vals"][i]-out["off"]["vals"][i] for i in range(seeds)]
+    m1, lo1, hi1 = ci_paired(d1); m2, lo2, hi2 = ci_paired(d2)
+    out["H1a_pre_minus_off"] = {"mean": m1, "ci":[lo1,hi1], "pass": bool(lo1 > 0)}
+    out["H1b_post_minus_off"] = {"mean": m2, "ci":[lo2,hi2], "post_not_better": bool(not(lo2>0))}
+    return out
+
+if __name__ == "__main__":
+    r = main(12); print(json.dumps(r, ensure_ascii=False, indent=1))
+    json.dump(r, open("result_s1.json","w"), ensure_ascii=False, indent=1)

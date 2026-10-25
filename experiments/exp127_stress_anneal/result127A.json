@@ -1,1 +1,222 @@
-ewogIlMxIOWkseihgCBibGVlZCI6IFsKICB7CiAgICJsZXZlbCI6IDAuMCwKICAgImFsaXZlIjogMC45Mzc1LAogICAibiI6IDE1LAogICAidGlja3MiOiAxNDIyLjc1LAogICAiZmciOiAwLjEwMzMyMTMxNTM3NDU0Nzc4CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuMDAxLAogICAiYWxpdmUiOiAwLjkzNzUsCiAgICJuIjogMTUsCiAgICJ0aWNrcyI6IDE0MjAuNSwKICAgImZnIjogMC4xMDMzMjEzMTUzNzQ1NDc3OAogIH0sCiAgewogICAibGV2ZWwiOiAwLjAwMiwKICAgImFsaXZlIjogMC44NzUsCiAgICJuIjogMTQsCiAgICJ0aWNrcyI6IDEzNDYuMTg3NSwKICAgImZnIjogMC4xMDMzMjEzMTUzNzQ1NDc3OAogIH0sCiAgewogICAibGV2ZWwiOiAwLjAwNCwKICAgImFsaXZlIjogMC44MTI1LAogICAibiI6IDEzLAogICAidGlja3MiOiAxMjU2LjQzNzUsCiAgICJmZyI6IDAuMTAzMzIxMzE1Mzc0NTQ3NzgKICB9LAogIHsKICAgImxldmVsIjogMC4wMDgsCiAgICJhbGl2ZSI6IDAuNjg3NSwKICAgIm4iOiAxMSwKICAgInRpY2tzIjogMTE2MS4wNjI1LAogICAiZmciOiAwLjEwMzMyMTMxNTM3NDU0Nzc4CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuMDE2LAogICAiYWxpdmUiOiAwLjYyNSwKICAgIm4iOiAxMCwKICAgInRpY2tzIjogOTkxLjc1LAogICAiZmciOiAwLjEwMzMyMTMxNTM3NDU0Nzc4CiAgfQogXSwKICJTMiDlj5Hng6cgY29zdCI6IFsKICB7CiAgICJsZXZlbCI6IDEuMCwKICAgImFsaXZlIjogMC45Mzc1LAogICAibiI6IDE1LAogICAidGlja3MiOiAxNDIyLjc1LAogICAiZmciOiAwLjEwMzMyMTMxNTM3NDU0Nzc4CiAgfSwKICB7CiAgICJsZXZlbCI6IDIuMCwKICAgImFsaXZlIjogMC44MTI1LAogICAibiI6IDEzLAogICAidGlja3MiOiAxMjU2LjQzNzUsCiAgICJmZyI6IDAuMTAzMzIxMzE1Mzc0NTQ3NzgKICB9LAogIHsKICAgImxldmVsIjogMy4wLAogICAiYWxpdmUiOiAwLjY4NzUsCiAgICJuIjogMTEsCiAgICJ0aWNrcyI6IDExNjEuMDYyNSwKICAgImZnIjogMC4xMDMzMjEzMTUzNzQ1NDc3OAogIH0sCiAgewogICAibGV2ZWwiOiA0LjAsCiAgICJhbGl2ZSI6IDAuNjg3NSwKICAgIm4iOiAxMSwKICAgInRpY2tzIjogMTA3Ni4wNjI1LAogICAiZmciOiAwLjEwMzMyMTMxNTM3NDU0Nzc4CiAgfSwKICB7CiAgICJsZXZlbCI6IDYuMCwKICAgImFsaXZlIjogMC42MjUsCiAgICJuIjogMTAsCiAgICJ0aWNrcyI6IDk4MS40Mzc1LAogICAiZmciOiAwLjEwMzMyMTMxNTM3NDU0Nzc4CiAgfSwKICB7CiAgICJsZXZlbCI6IDkuMCwKICAgImFsaXZlIjogMC42MjUsCiAgICJuIjogMTAsCiAgICJ0aWNrcyI6IDk3Mi4zNzUsCiAgICJmZyI6IDAuMTAzMzIxMzE1Mzc0NTQ3NzgKICB9CiBdLAogIlMzIOiAgeWMliBhZ2luZyI6IFsKICB7CiAgICJsZXZlbCI6IDEuMCwKICAgImFsaXZlIjogMC45Mzc1LAogICAibiI6IDE1LAogICAidGlja3MiOiAxNDIyLjc1LAogICAiZmciOiAwLjEwMzMyMTMxNTM3NDU0Nzc4CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuOTk5NSwKICAgImFsaXZlIjogMC45Mzc1LAogICAibiI6IDE1LAogICAidGlja3MiOiAxNDIyLjYyNSwKICAgImZnIjogMC4xMDMzMjEzMTUzNzQ1NDc3OAogIH0sCiAgewogICAibGV2ZWwiOiAwLjk5OSwKICAgImFsaXZlIjogMC45Mzc1LAogICAibiI6IDE1LAogICAidGlja3MiOiAxNDIyLjkzNzUsCiAgICJmZyI6IDAuMTAzMzIxMzE1Mzc0NTQ3NzgKICB9LAogIHsKICAgImxldmVsIjogMC45OTgsCiAgICJhbGl2ZSI6IDAuOTM3NSwKICAgIm4iOiAxNSwKICAgInRpY2tzIjogMTQyMy44MTI1LAogICAiZmciOiAwLjEwMzMyMTMxNTM3NDU0Nzc4CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuOTk2LAogICAiYWxpdmUiOiAxLjAsCiAgICJuIjogMTYsCiAgICJ0aWNrcyI6IDE1MDAuMCwKICAgImZnIjogMC4xMDMzMjEzMTUzNzQ1NDc3OAogIH0sCiAgewogICAibGV2ZWwiOiAwLjk5MywKICAgImFsaXZlIjogMS4wLAogICAibiI6IDE2LAogICAidGlja3MiOiAxNTAwLjAsCiAgICJmZyI6IDAuMTAzMzIxMzE1Mzc0NTQ3NzgKICB9CiBdLAogIlM0IOiuree7g+acn+W5suaXsSI6IFsKICB7CiAgICJsZXZlbCI6IDAuMCwKICAgImFsaXZlIjogMC45Mzc1LAogICAibiI6IDE1LAogICAidGlja3MiOiAxNDIyLjc1LAogICAiZmciOiAwLjEwMzMyMTMxNTM3NDU0Nzc4CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuMDAwNSwKICAgImFsaXZlIjogMC45Mzc1LAogICAibiI6IDE1LAogICAidGlja3MiOiAxNDIyLjY4NzUsCiAgICJmZyI6IDAuMDg0MTA3MzA1OTQyODYyNzgKICB9LAogIHsKICAgImxldmVsIjogMC4wMDEsCiAgICJhbGl2ZSI6IDAuOTM3NSwKICAgIm4iOiAxNSwKICAgInRpY2tzIjogMTQyMi42MjUsCiAgICJmZyI6IDAuMDY5NzM5MzM4MDcxMDk4MzIKICB9LAogIHsKICAgImxldmVsIjogMC4wMDIsCiAgICJhbGl2ZSI6IDAuODc1LAogICAibiI6IDE0LAogICAidGlja3MiOiAxMzU1LjkzNzUsCiAgICJmZyI6IDAuMDUwMTUzMzM1NzM4Nzg3NjIKICB9LAogIHsKICAgImxldmVsIjogMC4wMDQsCiAgICJhbGl2ZSI6IDAuODEyNSwKICAgIm4iOiAxMywKICAgInRpY2tzIjogMTI3NC42MjUsCiAgICJmZyI6IDAuMDI5MzQwMDczNDExMDQyMDM1CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuMDA4LAogICAiYWxpdmUiOiAwLjYyNSwKICAgIm4iOiAxMCwKICAgInRpY2tzIjogMTA1NC41NjI1LAogICAiZmciOiAwLjAxMjgzNjM2MDgwMjkzMTgzOQogIH0KIF0sCiAiUzUg6K6t57uD5pyf5Zmq5aOwIjogWwogIHsKICAgImxldmVsIjogMC40LAogICAiYWxpdmUiOiAwLjkzNzUsCiAgICJuIjogMTUsCiAgICJ0aWNrcyI6IDE0MjIuNzUsCiAgICJmZyI6IDAuMTAzMzIxMzE1Mzc0NTQ3NzgKICB9LAogIHsKICAgImxldmVsIjogMS4wLAogICAiYWxpdmUiOiAwLjkzNzUsCiAgICJuIjogMTUsCiAgICJ0aWNrcyI6IDE0MjIuNSwKICAgImZnIjogMC4xMzQzMjQ4MTA2MDI4NjI0CiAgfSwKICB7CiAgICJsZXZlbCI6IDIuMCwKICAgImFsaXZlIjogMC45Mzc1LAogICAibiI6IDE1LAogICAidGlja3MiOiAxNDIzLjg3NSwKICAgImZnIjogMC4xODU5OTc3NTM1MjcxNDkzNwogIH0sCiAgewogICAibGV2ZWwiOiA0LjAsCiAgICJhbGl2ZSI6IDAuOTM3NSwKICAgIm4iOiAxNSwKICAgInRpY2tzIjogMTQyNi4wNjI1LAogICAiZmciOiAwLjI4OTM2MTA0NjIxOTI1MzMKICB9LAogIHsKICAgImxldmVsIjogOC4wLAogICAiYWxpdmUiOiAxLjAsCiAgICJuIjogMTYsCiAgICJ0aWNrcyI6IDE1MDAuMCwKICAgImZnIjogMC40OTYxMTAwNjk1MDg5MTg4NAogIH0sCiAgewogICAibGV2ZWwiOiAxNi4wLAogICAiYWxpdmUiOiAxLjAsCiAgICJuIjogMTYsCiAgICJ0aWNrcyI6IDE1MDAuMCwKICAgImZnIjogMC45MDk2MDgxMTYwODgyNDk1CiAgfQogXQp9
+{
+ "S1 失血 bleed": [
+  {
+   "level": 0.0,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.75,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.001,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1420.5,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.002,
+   "alive": 0.875,
+   "n": 14,
+   "ticks": 1346.1875,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.004,
+   "alive": 0.8125,
+   "n": 13,
+   "ticks": 1256.4375,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.008,
+   "alive": 0.6875,
+   "n": 11,
+   "ticks": 1161.0625,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.016,
+   "alive": 0.625,
+   "n": 10,
+   "ticks": 991.75,
+   "fg": 0.10332131537454778
+  }
+ ],
+ "S2 发烧 cost": [
+  {
+   "level": 1.0,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.75,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 2.0,
+   "alive": 0.8125,
+   "n": 13,
+   "ticks": 1256.4375,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 3.0,
+   "alive": 0.6875,
+   "n": 11,
+   "ticks": 1161.0625,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 4.0,
+   "alive": 0.6875,
+   "n": 11,
+   "ticks": 1076.0625,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 6.0,
+   "alive": 0.625,
+   "n": 10,
+   "ticks": 981.4375,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 9.0,
+   "alive": 0.625,
+   "n": 10,
+   "ticks": 972.375,
+   "fg": 0.10332131537454778
+  }
+ ],
+ "S3 老化 aging": [
+  {
+   "level": 1.0,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.75,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.9995,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.625,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.999,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.9375,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.998,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1423.8125,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.996,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.993,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "fg": 0.10332131537454778
+  }
+ ],
+ "S4 训练期干旱": [
+  {
+   "level": 0.0,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.75,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 0.0005,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.6875,
+   "fg": 0.08410730594286278
+  },
+  {
+   "level": 0.001,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.625,
+   "fg": 0.06973933807109832
+  },
+  {
+   "level": 0.002,
+   "alive": 0.875,
+   "n": 14,
+   "ticks": 1355.9375,
+   "fg": 0.05015333573878762
+  },
+  {
+   "level": 0.004,
+   "alive": 0.8125,
+   "n": 13,
+   "ticks": 1274.625,
+   "fg": 0.029340073411042035
+  },
+  {
+   "level": 0.008,
+   "alive": 0.625,
+   "n": 10,
+   "ticks": 1054.5625,
+   "fg": 0.012836360802931839
+  }
+ ],
+ "S5 训练期噪声": [
+  {
+   "level": 0.4,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.75,
+   "fg": 0.10332131537454778
+  },
+  {
+   "level": 1.0,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.5,
+   "fg": 0.1343248106028624
+  },
+  {
+   "level": 2.0,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1423.875,
+   "fg": 0.18599775352714937
+  },
+  {
+   "level": 4.0,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1426.0625,
+   "fg": 0.2893610462192533
+  },
+  {
+   "level": 8.0,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "fg": 0.49611006950891884
+  },
+  {
+   "level": 16.0,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "fg": 0.9096081160882495
+  }
+ ]
+}

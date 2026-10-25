@@ -1,1 +1,169 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJHZW5lcmF0ZSBkb2NzL3JlZmVyZW5jZS9pbnZlbnRvcnkubWQgZnJvbSBkb2NzL19kYXRhL2RldmljZXMueWFtbC4KClJlYWRzIHRoZSBkZXZpY2UgaW52ZW50b3J5IGRhdGEgZmlsZSBhbmQgcHJvZHVjZXMgYSBtYXJrZG93biB0YWJsZSB3aXRoCmxpbmtlZCBjZWxscy4gVGhlIGdlbmVyYXRlZCBmaWxlIGlzIGNoZWNrZWQgaW50byBnaXQgc28gbG9jYWwgZGV2IHdvcmtzCndpdGhvdXQgcnVubmluZyB0aGUgc2NyaXB0OyBDSSBydW5zIGl0IGJlZm9yZSB6ZW5zaWNhbCBidWlsZC4KIiIiCgppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lem9uZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmltcG9ydCB5YW1sCgpSRVBPX1JPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50LnBhcmVudApEQVRBX0ZJTEUgPSBSRVBPX1JPT1QgLyAiZG9jcyIgLyAiX2RhdGEiIC8gImRldmljZXMueWFtbCIKT1VUUFVUX0ZJTEUgPSBSRVBPX1JPT1QgLyAiZG9jcyIgLyAicmVmZXJlbmNlIiAvICJpbnZlbnRvcnkubWQiCgpTSVRFX0RPQ19QQVRIID0gIi4uL3NpdGVzL3tzaXRlfS8iCgoKZGVmIGxvYWRfZGF0YSgpIC0+IGRpY3Q6CiAgICB3aXRoIG9wZW4oREFUQV9GSUxFKSBhcyBmOgogICAgICAgIHJldHVybiB5YW1sLnNhZmVfbG9hZChmKQoKCmRlZiBidWlsZF90YWJsZShkYXRhOiBkaWN0KSAtPiBzdHI6CiAgICBzaXRlcyA9IGRhdGFbInNpdGVzIl0KICAgIHJhY2tzID0gZGF0YS5nZXQoInJhY2tzIiwge30pCiAgICBkZXZpY2VzID0gZGF0YVsiZGV2aWNlcyJdCgogICAgIyBGaWx0ZXIgb3V0IGRlY29tbWlzc2lvbmVkIGRldmljZXMKICAgIGRldmljZXMgPSBbZCBmb3IgZCBpbiBkZXZpY2VzIGlmIGQuZ2V0KCJzdGF0dXMiLCAiYWN0aXZlIikgIT0gImRlY29tbWlzc2lvbmVkIl0KCiAgICAjIFNvcnQgYnkgbmFtZQogICAgZGV2aWNlcy5zb3J0KGtleT1sYW1iZGEgZDogZFsibmFtZSJdKQoKICAgICMgRGVjaWRlIHdoZXRoZXIgdG8gc2hvdyB0aGUgU3RhdHVzIGNvbHVtbiDigJQgaGlkZSBpdCBpZiBldmVyeSB2aXNpYmxlCiAgICAjIGRldmljZSBpcyBhY3RpdmUgKHN0YXR1cyBhYnNlbnQgb3IgZXhwbGljaXRseSAiYWN0aXZlIikKICAgIHN0YXR1c2VzID0ge2QuZ2V0KCJzdGF0dXMiLCAiYWN0aXZlIikgZm9yIGQgaW4gZGV2aWNlc30KICAgIHNob3dfc3RhdHVzID0gc3RhdHVzZXMgIT0geyJhY3RpdmUifQoKICAgICMgQnVpbGQgcm93cwogICAgcm93cyA9IFtdCiAgICBmb3IgZGV2IGluIGRldmljZXM6CiAgICAgICAgIyBOYW1lIGNlbGwg4oCUIGxpbmsgdG8gYXNzZXQgdGFnIHNlcnZpY2UgaWYgYXNzZXRfdGFnIGlzIHNldAogICAgICAgIG5hbWUgPSBkZXZbIm5hbWUiXQogICAgICAgIGlmIGRldi5nZXQoImFzc2V0X3RhZyIpOgogICAgICAgICAgICBuYW1lX2NlbGwgPSBmIlt7bmFtZX1dKGh0dHBzOi8vYXNzZXRzLm5pY29sZS5kZXYve2RldlsnYXNzZXRfdGFnJ119KSIKICAgICAgICBlbHNlOgogICAgICAgICAgICBuYW1lX2NlbGwgPSBuYW1lCgogICAgICAgICMgU2l0ZSBjZWxsIOKAlCBsaW5rIHRvIHNpdGUgZG9jIHBhZ2UKICAgICAgICBzaXRlX2NvZGUgPSBkZXZbInNpdGUiXQogICAgICAgIHNpdGVfbGFiZWwgPSBzaXRlc1tzaXRlX2NvZGVdCiAgICAgICAgc2l0ZV9jZWxsID0gZiJbe3NpdGVfbGFiZWx9XSh7U0lURV9ET0NfUEFUSC5mb3JtYXQoc2l0ZT1zaXRlX2NvZGUpfSkiCgogICAgICAgICMgUmFjayBjZWxsIOKAlCBsaW5rIHRvIHJhY2sgYW5jaG9yIG9uIHNpdGUgcGFnZSwgb3IgZGFzaCBpZiBubyByYWNrCiAgICAgICAgcmFja19pZCA9IGRldi5nZXQoInJhY2siKQogICAgICAgIGlmIHJhY2tfaWQ6CiAgICAgICAgICAgIHJhY2tfa2V5ID0gZiJ7c2l0ZV9jb2RlfS17cmFja19pZH0iCiAgICAgICAgICAgIHJhY2tfaW5mbyA9IHJhY2tzLmdldChyYWNrX2tleSwge30pCiAgICAgICAgICAgIHJhY2tfbGFiZWwgPSByYWNrX2luZm8uZ2V0KCJsYWJlbCIsIHJhY2tfaWQpCiAgICAgICAgICAgIHJhY2tfYW5jaG9yID0gcmFja19pbmZvLmdldCgiYW5jaG9yIiwgcmFja19pZCkKICAgICAgICAgICAgcmFja19jZWxsID0gZiJbe3JhY2tfbGFiZWx9XSh7U0lURV9ET0NfUEFUSC5mb3JtYXQoc2l0ZT1zaXRlX2NvZGUpfSN7cmFja19hbmNob3J9KSIKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWNrX2NlbGwgPSAiXHUyMDE0IgoKICAgICAgICAjIEZ1bmN0aW9uIGNlbGwKICAgICAgICBmdW5jdGlvbl9jZWxsID0gZGV2WyJmdW5jdGlvbiJdCgogICAgICAgICMgTW9kZWwgY2VsbCDigJQgbGluayB0byBtb2RlbCBkb2MgaWYgYXZhaWxhYmxlCiAgICAgICAgbW9kZWwgPSBkZXZbIm1vZGVsIl0KICAgICAgICBtb2RlbF9kb2MgPSBkZXYuZ2V0KCJtb2RlbF9kb2MiKQogICAgICAgIGlmIG1vZGVsX2RvYzoKICAgICAgICAgICAgbW9kZWxfY2VsbCA9IGYiW3ttb2RlbH1dKHttb2RlbF9kb2N9KSIKICAgICAgICBlbHNlOgogICAgICAgICAgICBtb2RlbF9jZWxsID0gbW9kZWwKCiAgICAgICAgIyBTdGF0dXMgY2VsbAogICAgICAgIHN0YXR1cyA9IGRldi5nZXQoInN0YXR1cyIsICJhY3RpdmUiKQoKICAgICAgICBpZiBzaG93X3N0YXR1czoKICAgICAgICAgICAgcm93cy5hcHBlbmQoZiJ8IHtuYW1lX2NlbGx9IHwge3NpdGVfY2VsbH0gfCB7cmFja19jZWxsfSB8IHtmdW5jdGlvbl9jZWxsfSB8IHttb2RlbF9jZWxsfSB8IHtzdGF0dXN9IHwiKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJvd3MuYXBwZW5kKGYifCB7bmFtZV9jZWxsfSB8IHtzaXRlX2NlbGx9IHwge3JhY2tfY2VsbH0gfCB7ZnVuY3Rpb25fY2VsbH0gfCB7bW9kZWxfY2VsbH0gfCIpCgogICAgIyBIZWFkZXIKICAgIGlmIHNob3dfc3RhdHVzOgogICAgICAgIGhlYWRlciA9ICJ8IE5hbWUgfCBTaXRlIHwgUmFjayB8IEZ1bmN0aW9uIHwgTW9kZWwgfCBTdGF0dXMgfCIKICAgICAgICBzZXBhcmF0b3IgPSAifC0tLS0tLXwtLS0tLS18LS0tLS0tfC0tLS0tLXwtLS0tLS0tfC0tLS0tLS0tfCIKICAgIGVsc2U6CiAgICAgICAgaGVhZGVyID0gInwgTmFtZSB8IFNpdGUgfCBSYWNrIHwgRnVuY3Rpb24gfCBNb2RlbCB8IgogICAgICAgIHNlcGFyYXRvciA9ICJ8LS0tLS0tfC0tLS0tLXwtLS0tLS18LS0tLS0tfC0tLS0tLS18IgoKICAgIHJldHVybiAiXG4iLmpvaW4oW2hlYWRlciwgc2VwYXJhdG9yXSArIHJvd3MpCgoKZGVmIGdldF9sYXN0X21vZGlmaWVkKCkgLT4gc3RyOgogICAgIiIiR2V0IHRoZSBsYXN0LW1vZGlmaWVkIHRpbWVzdGFtcCBvZiBkZXZpY2VzLnlhbWwgZnJvbSBnaXQuCgogICAgVXNlcyB0aGUgYXV0aG9yIGRhdGUgb2YgdGhlIG1vc3QgcmVjZW50IGNvbW1pdCB0aGF0IHRvdWNoZWQgdGhlIGZpbGUuCiAgICBGYWxscyBiYWNrIHRvIHRoZSBmaWxlJ3MgbXRpbWUgaWYgZ2l0IGhpc3RvcnkgaXMgdW5hdmFpbGFibGUgKGUuZy4KICAgIHNoYWxsb3cgY2xvbmUgb3IgdW5jb21taXR0ZWQgZmlsZSkuCiAgICAiIiIKICAgIHRyeToKICAgICAgICByZXN1bHQgPSBzdWJwcm9jZXNzLnJ1bigKICAgICAgICAgICAgWyJnaXQiLCAibG9nIiwgIi0xIiwgIi0tZm9ybWF0PSVhSSIsICItLSIsIHN0cihEQVRBX0ZJTEUpXSwKICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCBjaGVjaz1UcnVlLAogICAgICAgICAgICBjd2Q9UkVQT19ST09ULAogICAgICAgICkKICAgICAgICB0aW1lc3RhbXAgPSByZXN1bHQuc3Rkb3V0LnN0cmlwKCkKICAgICAgICBpZiB0aW1lc3RhbXA6CiAgICAgICAgICAgIGR0ID0gZGF0ZXRpbWUuZnJvbWlzb2Zvcm1hdCh0aW1lc3RhbXApLmFzdGltZXpvbmUodGltZXpvbmUudXRjKQogICAgICAgICAgICByZXR1cm4gZHQuc3RyZnRpbWUoIiVZLSVtLSVkIikKICAgIGV4Y2VwdCAoc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IsIEZpbGVOb3RGb3VuZEVycm9yLCBWYWx1ZUVycm9yKToKICAgICAgICBwYXNzCgogICAgIyBGYWxsYmFjazogZmlsZSBtdGltZQogICAgbXRpbWUgPSBEQVRBX0ZJTEUuc3RhdCgpLnN0X210aW1lCiAgICBkdCA9IGRhdGV0aW1lLmZyb210aW1lc3RhbXAobXRpbWUsIHR6PXRpbWV6b25lLnV0YykKICAgIHJldHVybiBkdC5zdHJmdGltZSgiJVktJW0tJWQiKQoKCmRlZiBnZW5lcmF0ZV9wYWdlKGRhdGE6IGRpY3QpIC0+IHN0cjoKICAgIHRhYmxlID0gYnVpbGRfdGFibGUoZGF0YSkKICAgIGxhc3RfbW9kaWZpZWQgPSBnZXRfbGFzdF9tb2RpZmllZCgpCgogICAgcmV0dXJuIGYiIiJcCi0tLQpkZXNjcmlwdGlvbjogRmxhdCByZWZlcmVuY2UgdGFibGUgb2YgZXZlcnkgZGV2aWNlIGFjcm9zcyBhbGwgc2l0ZXMKLS0tCgo8IS0tIFRoaXMgZmlsZSBpcyBnZW5lcmF0ZWQgYnkgc2NyaXB0cy9nZW5lcmF0ZS1pbnZlbnRvcnkucHkg4oCUIGRvIG5vdCBlZGl0IGJ5IGhhbmQgLS0+CgojIERldmljZSBJbnZlbnRvcnkKCkV2ZXJ5IG5hbWVkIGRldmljZSBhY3Jvc3MgYWxsIHNpdGVzLiBUaGlzIGxpc3QgY292ZXJzIHBoeXNpY2FsIGFzc2V0cyDigJQgdGhpbmdzCndpdGggdGhlaXIgb3duIHNlcmlhbCBudW1iZXIsIHdhcnJhbnR5LCBhbmQgYXNzZXQgdGFnLiBFbWJlZGRlZCBjb21wb25lbnRzIGxpa2UKQk1DcyBhcmUgbm90IGxpc3RlZCBzZXBhcmF0ZWx5OyB0aGV5J3JlIGltcGxpZWQgYnkgdGhlIHByZXNlbmNlIG9mIHRoZWlyIGhvc3QKZGV2aWNlLiBTZWUgW05hbWluZyBDb252ZW50aW9uc10obmFtaW5nLWNvbnZlbnRpb25zLm1kKSBmb3IgaG93IGRldmljZSBuYW1lcyBhcmUKc3RydWN0dXJlZC4gVGhlIEZ1bmN0aW9uIGNvbHVtbiBkZXNjcmliZXMgd2hhdCB0aGUgZGV2aWNlIGRvZXMgaW4gcGxhaW4KbGFuZ3VhZ2Ug4oCUIHRoZSByb2xlIGFiYnJldmlhdGlvbiAoY24sIGRneCwgdG9yLCBldGMuKSBpcyBhbHJlYWR5IGVuY29kZWQgaW4gdGhlCmRldmljZSBuYW1lLgoKe3RhYmxlfQoKLS0tCgoqR2VuZXJhdGVkIGZyb20gW2Bkb2NzL19kYXRhL2RldmljZXMueWFtbGBdKGh0dHBzOi8vZ2l0aHViLmNvbS9uaWNvbGVyZW5lZS9pbmZyYS9ibG9iL21haW4vZG9jcy9fZGF0YS9kZXZpY2VzLnlhbWwpLgpMYXN0IHVwZGF0ZWQge2xhc3RfbW9kaWZpZWR9LioKIiIiCgoKZGVmIG1haW4oKToKICAgIGlmIG5vdCBEQVRBX0ZJTEUuZXhpc3RzKCk6CiAgICAgICAgcHJpbnQoZiJFcnJvcjoge0RBVEFfRklMRX0gbm90IGZvdW5kIiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIHN5cy5leGl0KDEpCgogICAgZGF0YSA9IGxvYWRfZGF0YSgpCgogICAgT1VUUFVUX0ZJTEUucGFyZW50Lm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIE9VVFBVVF9GSUxFLndyaXRlX3RleHQoZ2VuZXJhdGVfcGFnZShkYXRhKSkKICAgIHByaW50KGYiR2VuZXJhdGVkIHtPVVRQVVRfRklMRX0gKHtsZW4oZGF0YVsnZGV2aWNlcyddKX0gZGV2aWNlcykiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""Generate docs/reference/inventory.md from docs/_data/devices.yaml.
+
+Reads the device inventory data file and produces a markdown table with
+linked cells. The generated file is checked into git so local dev works
+without running the script; CI runs it before zensical build.
+"""
+
+import subprocess
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+
+import yaml
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DATA_FILE = REPO_ROOT / "docs" / "_data" / "devices.yaml"
+OUTPUT_FILE = REPO_ROOT / "docs" / "reference" / "inventory.md"
+
+SITE_DOC_PATH = "../sites/{site}/"
+
+
+def load_data() -> dict:
+    with open(DATA_FILE) as f:
+        return yaml.safe_load(f)
+
+
+def build_table(data: dict) -> str:
+    sites = data["sites"]
+    racks = data.get("racks", {})
+    devices = data["devices"]
+
+    # Filter out decommissioned devices
+    devices = [d for d in devices if d.get("status", "active") != "decommissioned"]
+
+    # Sort by name
+    devices.sort(key=lambda d: d["name"])
+
+    # Decide whether to show the Status column — hide it if every visible
+    # device is active (status absent or explicitly "active")
+    statuses = {d.get("status", "active") for d in devices}
+    show_status = statuses != {"active"}
+
+    # Build rows
+    rows = []
+    for dev in devices:
+        # Name cell — link to asset tag service if asset_tag is set
+        name = dev["name"]
+        if dev.get("asset_tag"):
+            name_cell = f"[{name}](https://assets.nicole.dev/{dev['asset_tag']})"
+        else:
+            name_cell = name
+
+        # Site cell — link to site doc page
+        site_code = dev["site"]
+        site_label = sites[site_code]
+        site_cell = f"[{site_label}]({SITE_DOC_PATH.format(site=site_code)})"
+
+        # Rack cell — link to rack anchor on site page, or dash if no rack
+        rack_id = dev.get("rack")
+        if rack_id:
+            rack_key = f"{site_code}-{rack_id}"
+            rack_info = racks.get(rack_key, {})
+            rack_label = rack_info.get("label", rack_id)
+            rack_anchor = rack_info.get("anchor", rack_id)
+            rack_cell = f"[{rack_label}]({SITE_DOC_PATH.format(site=site_code)}#{rack_anchor})"
+        else:
+            rack_cell = "\u2014"
+
+        # Function cell
+        function_cell = dev["function"]
+
+        # Model cell — link to model doc if available
+        model = dev["model"]
+        model_doc = dev.get("model_doc")
+        if model_doc:
+            model_cell = f"[{model}]({model_doc})"
+        else:
+            model_cell = model
+
+        # Status cell
+        status = dev.get("status", "active")
+
+        if show_status:
+            rows.append(f"| {name_cell} | {site_cell} | {rack_cell} | {function_cell} | {model_cell} | {status} |")
+        else:
+            rows.append(f"| {name_cell} | {site_cell} | {rack_cell} | {function_cell} | {model_cell} |")
+
+    # Header
+    if show_status:
+        header = "| Name | Site | Rack | Function | Model | Status |"
+        separator = "|------|------|------|------|-------|--------|"
+    else:
+        header = "| Name | Site | Rack | Function | Model |"
+        separator = "|------|------|------|------|-------|"
+
+    return "\n".join([header, separator] + rows)
+
+
+def get_last_modified() -> str:
+    """Get the last-modified timestamp of devices.yaml from git.
+
+    Uses the author date of the most recent commit that touched the file.
+    Falls back to the file's mtime if git history is unavailable (e.g.
+    shallow clone or uncommitted file).
+    """
+    try:
+        result = subprocess.run(
+            ["git", "log", "-1", "--format=%aI", "--", str(DATA_FILE)],
+            capture_output=True, text=True, check=True,
+            cwd=REPO_ROOT,
+        )
+        timestamp = result.stdout.strip()
+        if timestamp:
+            dt = datetime.fromisoformat(timestamp).astimezone(timezone.utc)
+            return dt.strftime("%Y-%m-%d")
+    except (subprocess.CalledProcessError, FileNotFoundError, ValueError):
+        pass
+
+    # Fallback: file mtime
+    mtime = DATA_FILE.stat().st_mtime
+    dt = datetime.fromtimestamp(mtime, tz=timezone.utc)
+    return dt.strftime("%Y-%m-%d")
+
+
+def generate_page(data: dict) -> str:
+    table = build_table(data)
+    last_modified = get_last_modified()
+
+    return f"""\
+---
+description: Flat reference table of every device across all sites
+---
+
+<!-- This file is generated by scripts/generate-inventory.py — do not edit by hand -->
+
+# Device Inventory
+
+Every named device across all sites. This list covers physical assets — things
+with their own serial number, warranty, and asset tag. Embedded components like
+BMCs are not listed separately; they're implied by the presence of their host
+device. See [Naming Conventions](naming-conventions.md) for how device names are
+structured. The Function column describes what the device does in plain
+language — the role abbreviation (cn, dgx, tor, etc.) is already encoded in the
+device name.
+
+{table}
+
+---
+
+*Generated from [`docs/_data/devices.yaml`](https://github.com/nicolerenee/infra/blob/main/docs/_data/devices.yaml).
+Last updated {last_modified}.*
+"""
+
+
+def main():
+    if not DATA_FILE.exists():
+        print(f"Error: {DATA_FILE} not found", file=sys.stderr)
+        sys.exit(1)
+
+    data = load_data()
+
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT_FILE.write_text(generate_page(data))
+    print(f"Generated {OUTPUT_FILE} ({len(data['devices'])} devices)")
+
+
+if __name__ == "__main__":
+    main()

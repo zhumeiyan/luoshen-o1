@@ -1,1 +1,34 @@
-ewogIkEiOiB7CiAgImFsaXZlX24iOiAxNzcsCiAgInJhdGUiOiAwLjg4NSwKICAiY2kiOiBbCiAgIDAuODQsCiAgIDAuOTI1CiAgXSwKICAic3RlcHMiOiA1ODcuNTEsCiAgInN0ZXBzX2NpIjogWwogICA1ODEuNjY0Mzc1LAogICA1OTIuNzQ1MTI1CiAgXQogfSwKICJCIjogewogICJhbGl2ZV9uIjogMTg4LAogICJyYXRlIjogMC45NCwKICAiY2kiOiBbCiAgIDAuOTA1LAogICAwLjk3CiAgXSwKICAic3RlcHMiOiA1OTUuNzg1LAogICJzdGVwc19jaSI6IFsKICAgNTkyLjk2NDg3NSwKICAgNTk4LjA2CiAgXQogfSwKICJkX3JhdGUiOiAwLjA1NDk5OTk5OTk5OTk5OTk0LAogImRfc3RlcCI6IDguMjc0OTk5OTk5OTk5OTc3LAogIm92ZXJsYXAiOiB0cnVlLAogIm9rIjogewogICLikaAg6IqC6IO95bim5p2l5pu06auY5a2Y5rS7546H77yI5pi+6JGX77yJIjogZmFsc2UKIH0KfQ==
+{
+ "A": {
+  "alive_n": 177,
+  "rate": 0.885,
+  "ci": [
+   0.84,
+   0.925
+  ],
+  "steps": 587.51,
+  "steps_ci": [
+   581.664375,
+   592.745125
+  ]
+ },
+ "B": {
+  "alive_n": 188,
+  "rate": 0.94,
+  "ci": [
+   0.905,
+   0.97
+  ],
+  "steps": 595.785,
+  "steps_ci": [
+   592.964875,
+   598.06
+  ]
+ },
+ "d_rate": 0.05499999999999994,
+ "d_step": 8.274999999999977,
+ "overlap": true,
+ "ok": {
+  "① 节能带来更高存活率（显著）": false
+ }
+}

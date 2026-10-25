@@ -1,1 +1,63 @@
-aW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0LCBqc29uLCBwYXRobGliLCBjb2xsZWN0aW9ucwpwbHQucmNQYXJhbXNbImZvbnQuZmFtaWx5Il09IldlblF1YW5ZaSBNaWNybyBIZWkiOyBwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdPUZhbHNlCkQ9cGF0aGxpYi5QYXRoKF9fZmlsZV9fKS5wYXJlbnQKcm93cz1qc29uLmxvYWRzKChELyJsYWJlbHMxMzQuanNvbiIpLnJlYWRfdGV4dCgpKQpmaWcsYXg9cGx0LnN1YnBsb3RzKDIsMyxmaWdzaXplPSgxNSw4LjQpKQpmaWcuc3VwdGl0bGUoImV4cDEzNCAg54us56uL6K+t5paZKDfkuKrmlrDku5PlupMp5aSN5qC477ya5LiN5pivIHByZXNlbnQvYWJzZW5077yM5pivIHN5bnRheC9tZXRob2RvbG9neSIsZm9udHNpemU9MTMpCmRlZiBwY3Qoc2VsKToKICAgIG49W3IgZm9yIHIgaW4gcm93cyBpZiBzZWwocildCiAgICByZXR1cm4gbGVuKG4pLCAoMTAwKnN1bShyWydzdHJpY3QnXSBmb3IgciBpbiBuKS9sZW4obikgaWYgbiBlbHNlIDApCiMgMSBwcmUtcmVnaXN0ZXJlZCBnYXRlcwphPWF4WzAsMF0KbmFtZXM9WyJHM1xu6KGM57qn5YWo6YOoIiwiRzRcbuaWh+S7tue6pyIsIkczXG7ooYznuqcrc3ludGF4IiwiRzNcbuihjOe6pyttZXRob2QiXQp2YWxzPVtwY3QobGFtYmRhIHI6clsncGlubmVkJ109PSdsaW5lJylbMV0sIHBjdChsYW1iZGEgcjpyWydwaW5uZWQnXT09J2ZpbGUnKVsxXSwKICAgICAgcGN0KGxhbWJkYSByOnJbJ3Bpbm5lZCddPT0nbGluZScgYW5kIHJbJ2NscyddPT0nc3ludGF4JylbMV0sCiAgICAgIHBjdChsYW1iZGEgcjpyWydwaW5uZWQnXT09J2xpbmUnIGFuZCByWydjbHMnXT09J21ldGhvZG9sb2d5JylbMV1dCmI9YS5iYXIobmFtZXMsdmFscyxjb2xvcj1bIiNlNjdlMjIiLCIjYzAzOTJiIiwiIzI3YWU2MCIsIiNjMDM5MmIiXSkKYS5heGhsaW5lKDYwLGxzPSItLSIsYz0iayIpOyBhLnNldF95bGltKDAsMTAwKTsgYS5zZXRfeWxhYmVsKCLkuKXmoLznsr7luqYgJSIpCmEuc2V0X3RpdGxlKCLpooTms6jlhozpl7jpl6jvvJrlhajpg6jmnKrov4fvvIjpl6jmp5s2MO+8iSIpCmZvciByLHYgaW4gemlwKGIsdmFscyk6IGEudGV4dChyLmdldF94KCkrci5nZXRfd2lkdGgoKS8yLHYrMixmInt2Oi4xZn0iLGhhPSJjZW50ZXIiKQojIDIgdGhlIHJlYWwgc3BsaXQKYT1heFswLDFdCm4xLHYxPXBjdChsYW1iZGEgcjpyWydjbHMnXT09J3N5bnRheCcpOyBuMix2Mj1wY3QobGFtYmRhIHI6clsnY2xzJ109PSdtZXRob2RvbG9neScpCmI9YS5iYXIoW2Yic3ludGF4XG5uPXtuMX0iLGYibWV0aG9kb2xvZ3lcbm49e24yfSJdLFt2MSx2Ml0sY29sb3I9WyIjMjdhZTYwIiwiI2MwMzkyYiJdKQphLmF4aGxpbmUoNjAsbHM9Ii0tIixjPSJrIik7IGEuc2V0X3lsaW0oMCwxMDApOyBhLnNldF95bGFiZWwoIuS4peagvOeyvuW6piAlIikKYS5zZXRfdGl0bGUoIuecn+ato+eahOWIhuWxgu+8muivreazleWxgiB2cyDmlrnms5XorrrlsYIiKQpmb3Igcix2IGluIHppcChiLFt2MSx2Ml0pOiBhLnRleHQoci5nZXRfeCgpK3IuZ2V0X3dpZHRoKCkvMix2KzIsZiJ7djouMWZ9JSIsaGE9ImNlbnRlciIpCiMgMyBzdHJpY3QgdnMgbG9vc2UKYT1heFswLDJdCnNsPVsoInN5bnRheCIsbGFtYmRhIHI6clsnY2xzJ109PSdzeW50YXgnKSwoIm1ldGhvZG9sb2d5IixsYW1iZGEgcjpyWydjbHMnXT09J21ldGhvZG9sb2d5JyldCnhzPVswLDFdCnN0PVtwY3QocylbMV0gZm9yIF8scyBpbiBzbF0KbG89WygxMDAqc3VtKHJbJ2xvb3NlJ10gZm9yIHIgaW4gcm93cyBpZiBzKHIpKS9wY3QocylbMF0pIGZvciBfLHMgaW4gc2xdCmEuYmFyKFt4LTAuMTggZm9yIHggaW4geHNdLHN0LHdpZHRoPTAuMzUsY29sb3I9IiMyN2FlNjAiLGxhYmVsPSJzdHJpY3QiKQphLmJhcihbeCswLjE4IGZvciB4IGluIHhzXSxsbyx3aWR0aD0wLjM1LGNvbG9yPSIjOTVhNWE2IixsYWJlbD0ibG9vc2Uo5a2X6Z2i5oiQ56uLKSIpCmEuYXhobGluZSg2MCxscz0iLS0iLGM9ImsiKTsgYS5zZXRfeHRpY2tzKHhzKTsgYS5zZXRfeHRpY2tsYWJlbHMoW3NbMF0gZm9yIHMgaW4gc2xdKQphLnNldF95bGltKDAsMTAwKTsgYS5sZWdlbmQoZm9udHNpemU9OCk7IGEuc2V0X3RpdGxlKCJsb29zZSDlhajov4fnur/vvIxzdHJpY3Qg5Y+q5pyJIHN5bnRheCDov4ciKQpmb3IgeCx2IGluIHppcCh4cyxzdCk6IGEudGV4dCh4LTAuMTgsdisyLGYie3Y6LjFmfSIsaGE9ImNlbnRlciIsZm9udHNpemU9OCkKZm9yIHgsdiBpbiB6aXAoeHMsbG8pOiBhLnRleHQoeCswLjE4LHYrMixmInt2Oi4xZn0iLGhhPSJjZW50ZXIiLGZvbnRzaXplPTgpCiMgNCBwZXIgcnVsZSBzdHJpY3QgVFAKYT1heFsxLDBdCmVncz1zb3J0ZWQoe3JbJ2VnJ10gZm9yIHIgaW4gcm93c30sIGtleT1sYW1iZGEgazotc3VtKDEgZm9yIHIgaW4gcm93cyBpZiByWydlZyddPT1rKSkKbj1bc3VtKDEgZm9yIHIgaW4gcm93cyBpZiByWydlZyddPT1rKSBmb3IgayBpbiBlZ3NdCnQ9WzEwMCpzdW0oclsnc3RyaWN0J10gZm9yIHIgaW4gcm93cyBpZiByWydlZyddPT1rKS9zdW0oMSBmb3IgciBpbiByb3dzIGlmIHJbJ2VnJ109PWspIGZvciBrIGluIGVnc10KY29sPVsiIzI3YWU2MCIgaWYgayBpbiAoIkVHMDA1IiwiRUcwMDYiLCJFR1AwMSIsIkVHUDA0IikgZWxzZSAiI2MwMzkyYiIgZm9yIGsgaW4gZWdzXQpiPWEuYmFyKGVncyx0LGNvbG9yPWNvbCk7IGEuc2V0X3lsYWJlbCgi5Lil5qC857K+5bqmICUiKTsgYS5zZXRfeWxpbSgwLDEwMCkKYS5zZXRfdGl0bGUoIumAkOinhOWIme+8iOe7vz3ov4fnur/vvIkiKTsgYS50aWNrX3BhcmFtcyhheGlzPSJ4Iixyb3RhdGlvbj02MCxsYWJlbHNpemU9OCkKZm9yIHIsdixubiBpbiB6aXAoYix0LG4pOiBhLnRleHQoci5nZXRfeCgpK3IuZ2V0X3dpZHRoKCkvMix2KzIsZiJue25ufSIsaGE9ImNlbnRlciIsZm9udHNpemU9NykKIyA1IGV4cDEzMyB2cyBleHAxMzQgcHJlc2VudAphPWF4WzEsMV0KbmFtZXM9WyJleHAxMzNcbnByZXNlbnQiLCJleHAxMzRcbnByZXNlbnQiLCJleHAxMzNcbmFic2VudCIsImV4cDEzNFxuZmlsZSJdCnZhbHM9WzY2LjcsIHBjdChsYW1iZGEgcjpyWydwaW5uZWQnXT09J2xpbmUnKVsxXSwgMC4wLCBwY3QobGFtYmRhIHI6clsncGlubmVkJ109PSdmaWxlJylbMV1dCmI9YS5iYXIobmFtZXMsdmFscyxjb2xvcj1bIiM3ZjhjOGQiLCIjZTY3ZTIyIiwiIzdmOGM4ZCIsIiNjMDM5MmIiXSkKYS5heGhsaW5lKDYwLGxzPSItLSIsYz0iayIpOyBhLnNldF95bGltKDAsMTAwKTsgYS5zZXRfdGl0bGUoIuS4iui9ruaLhuWIhuacquWcqOeLrOeri+ivreaWmeWkjeeOsCIpCmZvciByLHYgaW4gemlwKGIsdmFscyk6IGEudGV4dChyLmdldF94KCkrci5nZXRfd2lkdGgoKS8yLHYrMixmInt2Oi4xZn0iLGhhPSJjZW50ZXIiKQojIDYgZmluZGluZ3MgYnkgcmVwbwphPWF4WzEsMl0KYz1jb2xsZWN0aW9ucy5Db3VudGVyKChyWydyZXBvJ10uc3BsaXQoJy8nKVstMV1bOjE0XSwgclsnc3RyaWN0J10pIGZvciByIGluIHJvd3MpCnJlcG9zPXNvcnRlZCh7a1swXSBmb3IgayBpbiBjfSkKdHA9W2NbKHIsMSldIGZvciByIGluIHJlcG9zXTsgZnA9W2NbKHIsMCldIGZvciByIGluIHJlcG9zXQphLmJhcihyZXBvcyx0cCxjb2xvcj0iIzI3YWU2MCIsbGFiZWw9InN0cmljdCBUUCIpOyBhLmJhcihyZXBvcyxmcCxib3R0b209dHAsY29sb3I9IiNjMDM5MmIiLGxhYmVsPSJGUCIpCmEuc2V0X3RpdGxlKCLlkITku5PlupPlj5HnjrDliIbluIMiKTsgYS50aWNrX3BhcmFtcyhheGlzPSJ4Iixyb3RhdGlvbj00NSxsYWJlbHNpemU9OCk7IGEubGVnZW5kKGZvbnRzaXplPTgpCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoRC8iZmlnMTM0LnBuZyIsZHBpPTExMCk7IHByaW50KCJmaWcgb2siKQo=
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt, json, pathlib, collections
+plt.rcParams["font.family"]="WenQuanYi Micro Hei"; plt.rcParams["axes.unicode_minus"]=False
+D=pathlib.Path(__file__).parent
+rows=json.loads((D/"labels134.json").read_text())
+fig,ax=plt.subplots(2,3,figsize=(15,8.4))
+fig.suptitle("exp134  独立语料(7个新仓库)复核：不是 present/absent，是 syntax/methodology",fontsize=13)
+def pct(sel):
+    n=[r for r in rows if sel(r)]
+    return len(n), (100*sum(r['strict'] for r in n)/len(n) if n else 0)
+# 1 pre-registered gates
+a=ax[0,0]
+names=["G3\n行级全部","G4\n文件级","G3\n行级+syntax","G3\n行级+method"]
+vals=[pct(lambda r:r['pinned']=='line')[1], pct(lambda r:r['pinned']=='file')[1],
+      pct(lambda r:r['pinned']=='line' and r['cls']=='syntax')[1],
+      pct(lambda r:r['pinned']=='line' and r['cls']=='methodology')[1]]
+b=a.bar(names,vals,color=["#e67e22","#c0392b","#27ae60","#c0392b"])
+a.axhline(60,ls="--",c="k"); a.set_ylim(0,100); a.set_ylabel("严格精度 %")
+a.set_title("预注册闸门：全部未过（门槛60）")
+for r,v in zip(b,vals): a.text(r.get_x()+r.get_width()/2,v+2,f"{v:.1f}",ha="center")
+# 2 the real split
+a=ax[0,1]
+n1,v1=pct(lambda r:r['cls']=='syntax'); n2,v2=pct(lambda r:r['cls']=='methodology')
+b=a.bar([f"syntax\nn={n1}",f"methodology\nn={n2}"],[v1,v2],color=["#27ae60","#c0392b"])
+a.axhline(60,ls="--",c="k"); a.set_ylim(0,100); a.set_ylabel("严格精度 %")
+a.set_title("真正的分层：语法层 vs 方法论层")
+for r,v in zip(b,[v1,v2]): a.text(r.get_x()+r.get_width()/2,v+2,f"{v:.1f}%",ha="center")
+# 3 strict vs loose
+a=ax[0,2]
+sl=[("syntax",lambda r:r['cls']=='syntax'),("methodology",lambda r:r['cls']=='methodology')]
+xs=[0,1]
+st=[pct(s)[1] for _,s in sl]
+lo=[(100*sum(r['loose'] for r in rows if s(r))/pct(s)[0]) for _,s in sl]
+a.bar([x-0.18 for x in xs],st,width=0.35,color="#27ae60",label="strict")
+a.bar([x+0.18 for x in xs],lo,width=0.35,color="#95a5a6",label="loose(字面成立)")
+a.axhline(60,ls="--",c="k"); a.set_xticks(xs); a.set_xticklabels([s[0] for s in sl])
+a.set_ylim(0,100); a.legend(fontsize=8); a.set_title("loose 全过线，strict 只有 syntax 过")
+for x,v in zip(xs,st): a.text(x-0.18,v+2,f"{v:.1f}",ha="center",fontsize=8)
+for x,v in zip(xs,lo): a.text(x+0.18,v+2,f"{v:.1f}",ha="center",fontsize=8)
+# 4 per rule strict TP
+a=ax[1,0]
+egs=sorted({r['eg'] for r in rows}, key=lambda k:-sum(1 for r in rows if r['eg']==k))
+n=[sum(1 for r in rows if r['eg']==k) for k in egs]
+t=[100*sum(r['strict'] for r in rows if r['eg']==k)/sum(1 for r in rows if r['eg']==k) for k in egs]
+col=["#27ae60" if k in ("EG005","EG006","EGP01","EGP04") else "#c0392b" for k in egs]
+b=a.bar(egs,t,color=col); a.set_ylabel("严格精度 %"); a.set_ylim(0,100)
+a.set_title("逐规则（绿=过线）"); a.tick_params(axis="x",rotation=60,labelsize=8)
+for r,v,nn in zip(b,t,n): a.text(r.get_x()+r.get_width()/2,v+2,f"n{nn}",ha="center",fontsize=7)
+# 5 exp133 vs exp134 present
+a=ax[1,1]
+names=["exp133\npresent","exp134\npresent","exp133\nabsent","exp134\nfile"]
+vals=[66.7, pct(lambda r:r['pinned']=='line')[1], 0.0, pct(lambda r:r['pinned']=='file')[1]]
+b=a.bar(names,vals,color=["#7f8c8d","#e67e22","#7f8c8d","#c0392b"])
+a.axhline(60,ls="--",c="k"); a.set_ylim(0,100); a.set_title("上轮拆分未在独立语料复现")
+for r,v in zip(b,vals): a.text(r.get_x()+r.get_width()/2,v+2,f"{v:.1f}",ha="center")
+# 6 findings by repo
+a=ax[1,2]
+c=collections.Counter((r['repo'].split('/')[-1][:14], r['strict']) for r in rows)
+repos=sorted({k[0] for k in c})
+tp=[c[(r,1)] for r in repos]; fp=[c[(r,0)] for r in repos]
+a.bar(repos,tp,color="#27ae60",label="strict TP"); a.bar(repos,fp,bottom=tp,color="#c0392b",label="FP")
+a.set_title("各仓库发现分布"); a.tick_params(axis="x",rotation=45,labelsize=8); a.legend(fontsize=8)
+plt.tight_layout(); plt.savefig(D/"fig134.png",dpi=110); print("fig ok")

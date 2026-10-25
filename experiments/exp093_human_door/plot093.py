@@ -1,1 +1,73 @@
-aW1wb3J0IGpzb24sIG51bXB5IGFzIG5wLCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYiBpbXBvcnQgZm9udF9tYW5hZ2VyCmZvciBmIGluIFsiV2VuUXVhbllpIE1pY3JvIEhlaSIsIk5vdG8gU2FucyBDSksgU0MiLCJEZWphVnUgU2FucyJdOgogICAgdHJ5OgogICAgICAgIGZvbnRfbWFuYWdlci5maW5kZm9udChmLCBmYWxsYmFja190b19kZWZhdWx0PUZhbHNlKTsgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXT1bZl07IGJyZWFrCiAgICBleGNlcHQgRXhjZXB0aW9uOiBjb250aW51ZQpwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdPUZhbHNlCgpEPSIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAwOTNfaHVtYW5fZG9vci8iCmVnPWpzb24ubG9hZChvcGVuKEQrImVuZ2luZTA5M19yZXN1bHQuanNvbiIpKQphbD1qc29uLmxvYWQob3BlbihEKyJhbGlhc19yZXN1bHQuanNvbiIpKQp0cz1qc29uLmxvYWQob3BlbihEKyJ0aW1lc2FtcGxlLmpzb24iKSkKCmZpZyxheD1wbHQuc3VicGxvdHMoMiwzLGZpZ3NpemU9KDE2LDkpKQpmaWcuc3VwdGl0bGUoIjA5MyDCtyDmjaLpl6jov5jmmK/mkp7pl6jvvJrmi6bmiKrliLDlupXlj5HnlJ/lnKjlk6rkuIDlsYIiLCBmb250c2l6ZT0xNCkKCiMgMSDpl6jlnovml7bpl7TnqLPlrprmgKcKbmFtZXM9W3UucmVwbGFjZSgiaHR0cHM6Ly8iLCIiKS5zcGxpdCgiLyIpWzBdWzoyMl0gZm9yIHUgaW4gdHNdCnJhdGVzPVtzdW0oMSBmb3IgeCBpbiB2IGlmIHg9PTIwMCkvbGVuKHYpIGZvciB2IGluIHRzLnZhbHVlcygpXQpmbGlwcz1bc3VtKDEgZm9yIGkgaW4gcmFuZ2UoMSxsZW4odikpIGlmICh2W2ldPT0yMDApIT0odltpLTFdPT0yMDApKSBmb3IgdiBpbiB0cy52YWx1ZXMoKV0KYXhbMCwwXS5iYXJoKHJhbmdlKGxlbihuYW1lcykpLHJhdGVzLGNvbG9yPVsiIzJlN2QzMiIgaWYgcj4wLjUgZWxzZSAiI2M2MjgyOCIgZm9yIHIgaW4gcmF0ZXNdKQpheFswLDBdLnNldF95dGlja3MocmFuZ2UobGVuKG5hbWVzKSkpOyBheFswLDBdLnNldF95dGlja2xhYmVscyhuYW1lcyxmb250c2l6ZT03KQpheFswLDBdLnNldF94bGFiZWwoIjbmrKHph4fmoLflvIDlkK/njociKTsgYXhbMCwwXS5zZXRfdGl0bGUoIuKRoCDpl6jlnovvvJo55omH56iz5a6a77yMMeaJhyhhcGkuZ2l0aHViKemXtOath1xu57+76L2s5qyh5pWwPSIrc3RyKG1heChmbGlwcykpKQpheFswLDBdLmludmVydF95YXhpcygpCgojIDIgVUEg5peg5YWzCnVhPWpzb24ubG9hZChvcGVuKEQrInVhLmpzb24iKSkKa3M9bGlzdCh1YS5rZXlzKCkpOyBsYWJzPVtrLnJlcGxhY2UoImh0dHBzOi8vIiwiIilbOjE4XSBmb3IgayBpbiBrc10KZm9yIGksdSBpbiBlbnVtZXJhdGUoWyJjdXJsIiwiY2hyb21lIiwiaXBob25lIl0pOgogICAgYXhbMCwxXS5iYXIobnAuYXJhbmdlKGxlbihrcykpK2kqMC4yNixbdWFba11bdV0gZm9yIGsgaW4ga3NdLDAuMjYsbGFiZWw9dSkKYXhbMCwxXS5zZXRfeHRpY2tzKG5wLmFyYW5nZShsZW4oa3MpKSswLjI2KTsgYXhbMCwxXS5zZXRfeHRpY2tsYWJlbHMobGFicyxyb3RhdGlvbj00NSxmb250c2l6ZT02LGhhPSJyaWdodCIpCmF4WzAsMV0uc2V0X3RpdGxlKCLikaEgVUHmjqLpkojvvJrkuInnp43ouqvku73pgJDkvY3nm7jlkIxcbuaLpuaIquS4jeeciyflg4/kuI3lg4/kuronIik7IGF4WzAsMV0ubGVnZW5kKGZvbnRzaXplPTgpCmF4WzAsMV0uYXhobGluZSgyMDAsbHM9Ii0tIixjPSJncmF5Iixsdz0wLjcpCgojIDMg5Lit5pat5qaC546H5YmC6YeP5Y+N5bqU77yI6Zi25qKv77yJCmRvc2U9ZWdbImRvc2UiXQpheFswLDJdLnBsb3QoW2RbInAiXSBmb3IgZCBpbiBkb3NlXSxbZFsic2tldyJdIGZvciBkIGluIGRvc2VdLCJvLSIsbHc9MikKYXhbMCwyXS5zZXRfeGxhYmVsKCLpl6jkuK3mlq3mpoLnjocgcCIpOyBheFswLDJdLnNldF95bGFiZWwoIue7k+aehOWBj+W6piIpCmF4WzAsMl0uc2V0X3RpdGxlKCLikaIg6Zi25qKv5LiN5piv5riQ5Y+YXG5wPTDihpIwLjkg5Yeg5LmO5LiN5Y+Y77yMcD0xLjAg6Lez5Y+YIikKYXhbMCwyXS5heHZsaW5lKDAuOSxscz0iOiIsYz0iciIpCmF4WzAsMl0uYW5ub3RhdGUoIuWFqOWFs+aJjei3syIseHk9KDEuMCxkb3NlWy0xXVsic2tldyJdKSx4eXRleHQ9KDAuNzIsMC43MCksCiAgICAgICAgICAgICAgICAgYXJyb3dwcm9wcz1kaWN0KGFycm93c3R5bGU9Ii0+IiksZm9udHNpemU9OCkKCiMgNCDmt7flj6Dls7DlgLwKcHM9c29ydGVkKGludChrKSBmb3IgayBpbiBhbCk7IHZzPVthbFtzdHIocCldIGZvciBwIGluIHBzXQpheFsxLDBdLnBsb3QocHMsdnMsIm8tIixsdz0yKQpheFsxLDBdLmF4dmxpbmUoODAsbHM9Ii0tIixjPSJyIixsYWJlbD0i5L+h5Y+35ZGo5pyfPTgwIikKYXhbMSwwXS5zZXRfeGxhYmVsKCLpl6jnmoTlvIDlhbPlkajmnJ8o5ouNKSIpOyBheFsxLDBdLnNldF95bGFiZWwoIuWBj+W6piIpCmF4WzEsMF0uc2V0X3RpdGxlKCLikaMg5re35Y+g77ya6Zeo5ZGo5pyfPeS/oeWPt+WRqOacn+aXtiB6PSs1LjcwXG4o5Y+v6aKE5rWL5oCn5pWI5bqU5LuFKzAuMDE4KSIpCmF4WzEsMF0ubGVnZW5kKGZvbnRzaXplPTgpCgojIDUg5LiJ5p2h5Lu25a+55q+UCmNzPWVnWyJjZWxscyJdCm9yZGVyPVsib3BlbiIsInJhbmRfcDUwIiwicGVyaW9fMjAiLCJwZXJpb184MCIsImNsb3NlZCJdCmxhYj1bIueos+WumuW8gCIsIumaj+acuuaWrTUwJSIsIuWRqOacnzIwIiwi5ZGo5pyfODAo5YWx5oyvKSIsIueos+WumuWFsyJdCmF4WzEsMV0uYmFyKHJhbmdlKDUpLFtjc1trXVsic2tldyJdIGZvciBrIGluIG9yZGVyXSwKICAgICAgICAgICAgY29sb3I9WyIjMTU2NWMwIiwiIzQyYTVmNSIsIiM2NmJiNmEiLCIjZmZhNzI2IiwiI2M2MjgyOCJdKQpheFsxLDFdLnNldF94dGlja3MocmFuZ2UoNSkpOyBheFsxLDFdLnNldF94dGlja2xhYmVscyhsYWIsZm9udHNpemU9OCxyb3RhdGlvbj0yMCkKYXhbMSwxXS5zZXRfeWxhYmVsKCLlgY/luqYiKTsgYXhbMSwxXS5zZXRfdGl0bGUoIuKRpCDpl6jlhajlhbPmiY3mnInmlYjlupTvvIzpmo/mnLrmlq3ml6DmiYDosJMiKQoKIyA2IEgg5qOA6aqMCnR0PWVnWyJ0ZXN0cyJdCmF4WzEsMl0uYmFyaChyYW5nZSgzKSxbdHRba11bImRpZmYiXSBmb3IgayBpbiB0dF0sCiAgICAgICAgICAgICBjb2xvcj1bIiM5OTkiIGlmIG5vdCB0dFtrXVsic2lnIl0gZWxzZSAiIzJlN2QzMiIgZm9yIGsgaW4gdHRdKQpheFsxLDJdLnNldF95dGlja3MocmFuZ2UoMykpOyBheFsxLDJdLnNldF95dGlja2xhYmVscyhbIkgxIOmaj+acuuaWrXZz5byAIiwiSDIg5ZGo5pyfdnPpmo/mnLoiLCJIMyDlhajlhbN2c+W8gCJdLGZvbnRzaXplPTgpCmF4WzEsMl0uc2V0X3hsYWJlbCgi6YWN5a+55beuIChDSei3qDA95LiN5pi+6JGXKSIpOyBheFsxLDJdLnNldF90aXRsZSgi4pGlIEgx5o6o57+7IC8gSDLlsI8gLyBIM+W8uiIpCmF4WzEsMl0uYXh2bGluZSgwLGM9ImsiLGx3PTAuOCkKCnBsdC50aWdodF9sYXlvdXQoKQpwbHQuc2F2ZWZpZygiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZmlnLzA5M19kb29yLnBuZyIsZHBpPTEyMCkKcHJpbnQoInNhdmVkIikK
+import json, numpy as np, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+for f in ["WenQuanYi Micro Hei","Noto Sans CJK SC","DejaVu Sans"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False); plt.rcParams["font.sans-serif"]=[f]; break
+    except Exception: continue
+plt.rcParams["axes.unicode_minus"]=False
+
+D="/data/workspace/luoshen-o1/experiments/exp093_human_door/"
+eg=json.load(open(D+"engine093_result.json"))
+al=json.load(open(D+"alias_result.json"))
+ts=json.load(open(D+"timesample.json"))
+
+fig,ax=plt.subplots(2,3,figsize=(16,9))
+fig.suptitle("093 · 换门还是撞门：拦截到底发生在哪一层", fontsize=14)
+
+# 1 门型时间稳定性
+names=[u.replace("https://","").split("/")[0][:22] for u in ts]
+rates=[sum(1 for x in v if x==200)/len(v) for v in ts.values()]
+flips=[sum(1 for i in range(1,len(v)) if (v[i]==200)!=(v[i-1]==200)) for v in ts.values()]
+ax[0,0].barh(range(len(names)),rates,color=["#2e7d32" if r>0.5 else "#c62828" for r in rates])
+ax[0,0].set_yticks(range(len(names))); ax[0,0].set_yticklabels(names,fontsize=7)
+ax[0,0].set_xlabel("6次采样开启率"); ax[0,0].set_title("① 门型：9扇稳定，1扇(api.github)间歇\n翻转次数="+str(max(flips)))
+ax[0,0].invert_yaxis()
+
+# 2 UA 无关
+ua=json.load(open(D+"ua.json"))
+ks=list(ua.keys()); labs=[k.replace("https://","")[:18] for k in ks]
+for i,u in enumerate(["curl","chrome","iphone"]):
+    ax[0,1].bar(np.arange(len(ks))+i*0.26,[ua[k][u] for k in ks],0.26,label=u)
+ax[0,1].set_xticks(np.arange(len(ks))+0.26); ax[0,1].set_xticklabels(labs,rotation=45,fontsize=6,ha="right")
+ax[0,1].set_title("② UA探针：三种身份逐位相同\n拦截不看'像不像人'"); ax[0,1].legend(fontsize=8)
+ax[0,1].axhline(200,ls="--",c="gray",lw=0.7)
+
+# 3 中断概率剂量反应（阶梯）
+dose=eg["dose"]
+ax[0,2].plot([d["p"] for d in dose],[d["skew"] for d in dose],"o-",lw=2)
+ax[0,2].set_xlabel("门中断概率 p"); ax[0,2].set_ylabel("结构偏度")
+ax[0,2].set_title("③ 阶梯不是渐变\np=0→0.9 几乎不变，p=1.0 跳变")
+ax[0,2].axvline(0.9,ls=":",c="r")
+ax[0,2].annotate("全关才跳",xy=(1.0,dose[-1]["skew"]),xytext=(0.72,0.70),
+                 arrowprops=dict(arrowstyle="->"),fontsize=8)
+
+# 4 混叠峰值
+ps=sorted(int(k) for k in al); vs=[al[str(p)] for p in ps]
+ax[1,0].plot(ps,vs,"o-",lw=2)
+ax[1,0].axvline(80,ls="--",c="r",label="信号周期=80")
+ax[1,0].set_xlabel("门的开关周期(拍)"); ax[1,0].set_ylabel("偏度")
+ax[1,0].set_title("④ 混叠：门周期=信号周期时 z=+5.70\n(可预测性效应仅+0.018)")
+ax[1,0].legend(fontsize=8)
+
+# 5 三条件对比
+cs=eg["cells"]
+order=["open","rand_p50","perio_20","perio_80","closed"]
+lab=["稳定开","随机断50%","周期20","周期80(共振)","稳定关"]
+ax[1,1].bar(range(5),[cs[k]["skew"] for k in order],
+            color=["#1565c0","#42a5f5","#66bb6a","#ffa726","#c62828"])
+ax[1,1].set_xticks(range(5)); ax[1,1].set_xticklabels(lab,fontsize=8,rotation=20)
+ax[1,1].set_ylabel("偏度"); ax[1,1].set_title("⑤ 门全关才有效应，随机断无所谓")
+
+# 6 H 检验
+tt=eg["tests"]
+ax[1,2].barh(range(3),[tt[k]["diff"] for k in tt],
+             color=["#999" if not tt[k]["sig"] else "#2e7d32" for k in tt])
+ax[1,2].set_yticks(range(3)); ax[1,2].set_yticklabels(["H1 随机断vs开","H2 周期vs随机","H3 全关vs开"],fontsize=8)
+ax[1,2].set_xlabel("配对差 (CI跨0=不显著)"); ax[1,2].set_title("⑥ H1推翻 / H2小 / H3强")
+ax[1,2].axvline(0,c="k",lw=0.8)
+
+plt.tight_layout()
+plt.savefig("/data/workspace/luoshen-o1/fig/093_door.png",dpi=120)
+print("saved")

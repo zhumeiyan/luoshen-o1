@@ -1,1 +1,48 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQppbXBvcnQganNvbiwgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IGZvbnRfbWFuYWdlcgpmb3IgZiBpbiBbIldlblF1YW5ZaSBNaWNybyBIZWkiLCJOb3RvIFNhbnMgQ0pLIFNDIiwiV2VuUXVhbllpIFplbiBIZWkiXToKICAgIHRyeToKICAgICAgICBmb250X21hbmFnZXIuZmluZGZvbnQoZiwgZmFsbGJhY2tfdG9fZGVmYXVsdD1GYWxzZSk7IHBsdC5yY1BhcmFtc1siZm9udC5zYW5zLXNlcmlmIl09W2ZdOyBicmVhawogICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwpwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdPUZhbHNlCkQ9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE3OV9ub3RlIgpiPWpzb24ubG9hZChvcGVuKEQrIi9yZXN1bHQxNzliLmpzb24iLGVuY29kaW5nPSJ1dGYtOCIpKQpjPWpzb24ubG9hZChvcGVuKEQrIi9yZXN1bHQxNzljLmpzb24iLGVuY29kaW5nPSJ1dGYtOCIpKQpmaWcsYXg9cGx0LnN1YnBsb3RzKDIsMixmaWdzaXplPSgxMyw5KSkKIyBhIOihsOWHjwpBPWJbIkFfZGVjYXkiXTsgbGFtcz1bZVsibGFtYmRhIl0gZm9yIGUgaW4gQV07IGJpdHM9W2VbImJpdHMiXSBmb3IgZSBpbiBBXQpheFswLDBdLnBsb3QocmFuZ2UobGVuKGxhbXMpKSxiaXRzLCJvLSIsY29sb3I9IiNjMDM5MmIiLGx3PTIsbGFiZWw9IuWGheWMlsK36K6w5b+G6KGw5YePIikKYXhbMCwwXS5heGhsaW5lKGJbImJhc2VsaW5lX25vX25vdGUiXSxscz0iLS0iLGNvbG9yPSIjMmMzZTUwIixsYWJlbD0i5peg56yU6K6w5Z+657q/ICUuM2YiJWJbImJhc2VsaW5lX25vX25vdGUiXSkKYXhbMCwwXS5heGhsaW5lKGJbIm5vdGVfYml0cyJdLGxzPSI6Iixjb2xvcj0iIzI3YWU2MCIsbGFiZWw9IuWkluWMlsK35a6M5pW056yU6K6wICUuM2YiJWJbIm5vdGVfYml0cyJdKQpheFswLDBdLnNldF94dGlja3MocmFuZ2UobGVuKGxhbXMpKSk7IGF4WzAsMF0uc2V0X3h0aWNrbGFiZWxzKFtzdHIoeCkgZm9yIHggaW4gbGFtc10pCmF4WzAsMF0uc2V0X3hsYWJlbCgi6KGw5YeP546HIM6777yIMD3nrJTorrDvvIzotorlpKfotorlgaXlv5jvvIkiKTsgYXhbMCwwXS5zZXRfeWxhYmVsKCJiaXRzL+Wtl+espu+8iOi2iuS9jui2iuWHhu+8iSIpCmF4WzAsMF0uc2V0X3RpdGxlKCIoYSkg6K6w5LqG5L2G5b+Y5o6J5aSn5Y2K77yM5q+U5LuO5rKh6K6w5pu057OfIik7IGF4WzAsMF0ubGVnZW5kKGZvbnRzaXplPTgpOyBheFswLDBdLmdyaWQoYWxwaGE9LjMpCiMgYiDlrrnph48KQTI9YlsiQTJfY2FwYWNpdHkiXTsgZnI9W2VbImZyYWMiXSBmb3IgZSBpbiBBMl07IGJiPVtlWyJiaXRzIl0gZm9yIGUgaW4gQTJdCmF4WzAsMV0ucGxvdChmcixiYiwicy0iLGNvbG9yPSIjMjk4MGI5Iixsdz0yKQpheFswLDFdLmF4aGxpbmUoYlsiYmFzZWxpbmVfbm9fbm90ZSJdLGxzPSItLSIsY29sb3I9IiMyYzNlNTAiKQpheFswLDFdLmF4aGxpbmUoYlsibm90ZV9iaXRzIl0sbHM9IjoiLGNvbG9yPSIjMjdhZTYwIikKYXhbMCwxXS5zZXRfeHNjYWxlKCJsb2ciKTsgYXhbMCwxXS5zZXRfeGxhYmVsKCLlhoXljJblrrnph4/vvIjkv53nlZnmnaHmlbDmr5TkvovvvIkiKTsgYXhbMCwxXS5zZXRfeWxhYmVsKCJiaXRzL+Wtl+espiIpCmF4WzAsMV0uc2V0X3RpdGxlKCIoYikg5a656YeP6LaK5bCP6LaK5o6l6L+R4oCc5rKh6K6w4oCdIik7IGF4WzAsMV0uZ3JpZChhbHBoYT0uMykKIyBjIOeslOiusOW9ouW8j+aViOeOhwpCPWJbIkJfZm9ybXMiXTsgbmFtZXM9W2VbImZvcm0iXSBmb3IgZSBpbiBCXTsgZWZmPVtlWyJiaXRzX3Blcl9rYiJdIGZvciBlIGluIEJdCmNvbHM9WyIjMjdhZTYwIiBpZiBlPT1tYXgoZWZmKSBlbHNlICIjN2Y4YzhkIiBmb3IgZSBpbiBlZmZdCmF4WzEsMF0uYmFyaChyYW5nZShsZW4obmFtZXMpKSxlZmYsY29sb3I9Y29scykKYXhbMSwwXS5zZXRfeXRpY2tzKHJhbmdlKGxlbihuYW1lcykpKTsgYXhbMSwwXS5zZXRfeXRpY2tsYWJlbHMobmFtZXMsZm9udHNpemU9OSkKYXhbMSwwXS5pbnZlcnRfeWF4aXMoKTsgYXhbMSwwXS5zZXRfeGxhYmVsKCLmr48gS0Ig56yU6K6w5o2i5Zue55qEIGJpdHPvvIjotorpq5jotornnIHvvIkiKQpheFsxLDBdLnNldF90aXRsZSgiKGMpIOaKhOWOn+aWh+aYr+acgOa1qui0ueeahOeslOiusO+8jOe8luWPtyvmkZjmioTmnIDnnIEiKTsgYXhbMSwwXS5ncmlkKGFscGhhPS4zLGF4aXM9IngiKQpmb3IgaSx2IGluIGVudW1lcmF0ZShlZmYpOiBheFsxLDBdLnRleHQodisuMDA1LGksIiUuM2YiJXYsdmE9ImNlbnRlciIsZm9udHNpemU9OSkKIyBkIOeos+WBpeaApwphbD1bclsiQUxQSEEiXSBmb3IgciBpbiBjXTsgZXg9W3JbImxhbTIuMCJdLXJbImJhc2VsaW5lIl0gZm9yIHIgaW4gY10KZXgyPVtyWyJsYW0wLjUiXS1yWyJiYXNlbGluZSJdIGZvciByIGluIGNdCmF4WzEsMV0ucGxvdChyYW5nZShsZW4oYWwpKSxleCwiby0iLGNvbG9yPSIjYzAzOTJiIixsYWJlbD0izrs9Mi4wIOi2heWHuuWfuue6vyIpCmF4WzEsMV0ucGxvdChyYW5nZShsZW4oYWwpKSxleDIsInMtIixjb2xvcj0iI2U2N2UyMiIsbGFiZWw9Is67PTAuNSDotoXlh7rln7rnur8iKQpheFsxLDFdLmF4aGxpbmUoMCxjb2xvcj0iayIsbHc9MSkKYXhbMSwxXS5zZXRfeHRpY2tzKHJhbmdlKGxlbihhbCkpKTsgYXhbMSwxXS5zZXRfeHRpY2tsYWJlbHMoW3N0cihhKSBmb3IgYSBpbiBhbF0pCmF4WzEsMV0uc2V0X3hsYWJlbCgi5bmz5ruR57O75pWwIM6xIik7IGF4WzEsMV0uc2V0X3lsYWJlbCgiYml0cyDiiJIg5peg56yU6K6w5Z+657q/77yIPjAgPSDmr5TmsqHorrDmm7Tns5/vvIkiKQpheFsxLDFdLnNldF90aXRsZSgiKGQpIDUg5qGjIM6xIOWFqOmDqOWkjeeOsCIpOyBheFsxLDFdLmxlZ2VuZChmb250c2l6ZT04KTsgYXhbMSwxXS5ncmlkKGFscGhhPS4zKQpwbHQudGlnaHRfbGF5b3V0KCk7IHBsdC5zYXZlZmlnKEQrIi9yZW5kZXIxNzkucG5nIixkcGk9MTEwKTsgcHJpbnQoIm9rIHJlbmRlcjE3OS5wbmciKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import json, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+for f in ["WenQuanYi Micro Hei","Noto Sans CJK SC","WenQuanYi Zen Hei"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False); plt.rcParams["font.sans-serif"]=[f]; break
+    except Exception: pass
+plt.rcParams["axes.unicode_minus"]=False
+D="/data/workspace/luoshen-o1/experiments/exp179_note"
+b=json.load(open(D+"/result179b.json",encoding="utf-8"))
+c=json.load(open(D+"/result179c.json",encoding="utf-8"))
+fig,ax=plt.subplots(2,2,figsize=(13,9))
+# a 衰减
+A=b["A_decay"]; lams=[e["lambda"] for e in A]; bits=[e["bits"] for e in A]
+ax[0,0].plot(range(len(lams)),bits,"o-",color="#c0392b",lw=2,label="内化·记忆衰减")
+ax[0,0].axhline(b["baseline_no_note"],ls="--",color="#2c3e50",label="无笔记基线 %.3f"%b["baseline_no_note"])
+ax[0,0].axhline(b["note_bits"],ls=":",color="#27ae60",label="外化·完整笔记 %.3f"%b["note_bits"])
+ax[0,0].set_xticks(range(len(lams))); ax[0,0].set_xticklabels([str(x) for x in lams])
+ax[0,0].set_xlabel("衰减率 λ（0=笔记，越大越健忘）"); ax[0,0].set_ylabel("bits/字符（越低越准）")
+ax[0,0].set_title("(a) 记了但忘掉大半，比从没记更糟"); ax[0,0].legend(fontsize=8); ax[0,0].grid(alpha=.3)
+# b 容量
+A2=b["A2_capacity"]; fr=[e["frac"] for e in A2]; bb=[e["bits"] for e in A2]
+ax[0,1].plot(fr,bb,"s-",color="#2980b9",lw=2)
+ax[0,1].axhline(b["baseline_no_note"],ls="--",color="#2c3e50")
+ax[0,1].axhline(b["note_bits"],ls=":",color="#27ae60")
+ax[0,1].set_xscale("log"); ax[0,1].set_xlabel("内化容量（保留条数比例）"); ax[0,1].set_ylabel("bits/字符")
+ax[0,1].set_title("(b) 容量越小越接近“没记”"); ax[0,1].grid(alpha=.3)
+# c 笔记形式效率
+B=b["B_forms"]; names=[e["form"] for e in B]; eff=[e["bits_per_kb"] for e in B]
+cols=["#27ae60" if e==max(eff) else "#7f8c8d" for e in eff]
+ax[1,0].barh(range(len(names)),eff,color=cols)
+ax[1,0].set_yticks(range(len(names))); ax[1,0].set_yticklabels(names,fontsize=9)
+ax[1,0].invert_yaxis(); ax[1,0].set_xlabel("每 KB 笔记换回的 bits（越高越省）")
+ax[1,0].set_title("(c) 抄原文是最浪费的笔记，编号+摘抄最省"); ax[1,0].grid(alpha=.3,axis="x")
+for i,v in enumerate(eff): ax[1,0].text(v+.005,i,"%.3f"%v,va="center",fontsize=9)
+# d 稳健性
+al=[r["ALPHA"] for r in c]; ex=[r["lam2.0"]-r["baseline"] for r in c]
+ex2=[r["lam0.5"]-r["baseline"] for r in c]
+ax[1,1].plot(range(len(al)),ex,"o-",color="#c0392b",label="λ=2.0 超出基线")
+ax[1,1].plot(range(len(al)),ex2,"s-",color="#e67e22",label="λ=0.5 超出基线")
+ax[1,1].axhline(0,color="k",lw=1)
+ax[1,1].set_xticks(range(len(al))); ax[1,1].set_xticklabels([str(a) for a in al])
+ax[1,1].set_xlabel("平滑系数 α"); ax[1,1].set_ylabel("bits − 无笔记基线（>0 = 比没记更糟）")
+ax[1,1].set_title("(d) 5 档 α 全部复现"); ax[1,1].legend(fontsize=8); ax[1,1].grid(alpha=.3)
+plt.tight_layout(); plt.savefig(D+"/render179.png",dpi=110); print("ok render179.png")

@@ -1,1 +1,92 @@
-ewogInZlcmlmaWVkIjogMTQsCiAidW52ZXJpZmllZCI6IDAsCiAicm93cyI6IFsKICBbCiAgICIxIOinhOWIki/ku7vliqHliIbop6MiLAogICAiZXhwX3BsYW5fZGVjb21wb3NlLnB5IiwKICAgIjPmraXlhajnnJ/miafooYzvvIzov5t0cmFjZeWPr3JlcGxheSIKICBdLAogIFsKICAgIjIg5bel5YW355Sf5oCBL01DUCIsCiAgICJ0b29scy9tY3Bfc2VydmVyLnB5IiwKICAgImV4cF9tY3BfcmVhbGNsaWVudC5weSDihpIgNC80IOecnyBzdGRpbyDlrqLmiLfnq6/ov57mtYsiCiAgXSwKICBbCiAgICIzIOiusOW/hi/kuIrkuIvmlofnrqHnkIYiLAogICAidG9vbHMvY29udGV4dF9jb21wcmVzcy5weSIsCiAgICJleHBfY29tcHJlc3NfcmVjYWxsLnB5IOKGkiDljovnvKnnjoc2OC41JSDlj6zlm542LzciCiAgXSwKICBbCiAgICI0IOS7o+eggeaJp+ihjC/mspnnm5IiLAogICAiZXhwX3NhbmRib3hfZXhlYy5weSIsCiAgICI1LzXvvJrnnJ/miafooYzCtzPmrKHlk4jluIzkuIDoh7TCt+Wksei0peeggeiiq+aKkyIKICBdLAogIFsKICAgIjUg5rWP6KeI5ZmoL0dVSSIsCiAgICJleHBfYnJvd3Nlcl9yZWFsLnB5IiwKICAgIkNocm9tZTE1M+ecn+a4suafkyAzLzXnq5nvvJs0MDPmmK/ln5/lkI3kuI3mmK/og73lipsiCiAgXSwKICBbCiAgICI2IOaWh+S7ti/ku6PnoIHlupPnkIbop6MiLAogICAicmVuZGVyX2RpZmYucHkgLyBkdW1wX20ucHkiLAogICAicGFyYXNwZWxsIDQw5pa55rOV5q+U5a+577yMM+ecn+WAmemAiTLlgYfpmLPmgKciCiAgXSwKICBbCiAgICI3IOWPjeaAnS/oh6rmiJHnuqDplJkiLAogICAidG9vbHMvcGFyYWxsYXgucHkiLAogICAi4piFMS3imIU3IOS4g+asoeiHquivge+8jOWkmuasoeiHquaIkeWQpuaOiSIKICBdLAogIFsKICAgIjgg5aSa5pm66IO95L2T5Y2P5L2cIiwKICAgImV4cF9tdWx0aWFnZW50LnB5IiwKICAgIjUvNe+8mjTni6znq4tQSUTCt+ecn+WQhOiHquaVsMK35oqT5Ye65rOo5YWl5byC57G7IgogIF0sCiAgWwogICAiOSDplb/ml7bov5DooYwvY2hlY2twb2ludCIsCiAgICJ0b29scy9ydW50cmFjZS5weSIsCiAgICJleHBfa2lsbDlfcmVzdW1lLnB5IOKGkiDnnJ9TSUdLSUxM5ZCO5oGi5aSN5oiQ5YqfIgogIF0sCiAgWwogICAiMTAg5Lq65py65Y2P5L2cL+adg+mZkCIsCiAgICLmnYPpmZAvcHJvYmUucHkgKyBleHBfcGVybWlzc2lvbl9wcm9iZSIsCiAgICIxM+adoeecn+i3ke+8jOaPquWHujTmnaHmsLjnnJ/mjqLpkojlt7Lkv64iCiAgXSwKICBbCiAgICIxMSDlj6/op4LmtYsv5a6h6K6hIiwKICAgIi5zZW5zZS8g5YWo55uu5b2VIiwKICAgInRyYWNlcytjaGVja3BvaW50cytsZWRnZXIg55yf5Lqn5Ye6IgogIF0sCiAgWwogICAiMTIg6Ieq5oiR5pS56L+b5a2m5LmgIiwKICAgIkFHRU5UUy5tZCArIGV4cF9jcm9zc3Nlc3Npb24ucHkiLAogICAiNS8177ya5Ya35ZCv5YqoYWdlbnTnu6fmib/mlZnorq3vvIzlr7nnhafnu4TlpLHotKUiCiAgXSwKICBbCiAgICIxMyDlronlhagv5rKZ55uS6Ziy5oqkIiwKICAgInRvb2xzL2NvbnRleHRfY29tcHJlc3MucHkg5qCh6aqMIiwKICAgIuacrOi9ruaWsOWinu+8muWtl+auteWQjemUmeivr+aYvuW8j+aKpemUmSIKICBdLAogIFsKICAgIjE0IOivhOS8sC9iZW5jaG1hcmsiLAogICAiY2FwYWJpbGl0eV9hdWRpdC5weSIsCiAgICLimIXoh6rmjIfnvLrpmbflt7Lkv67vvIjmjpLpmaToh6rouqvvvIkiCiAgXQogXSwKICJ2ZXJpZmllZF9kZXRhaWwiOiB7CiAgIjEg6KeE5YiSL+S7u+WKoeWIhuinoyI6ICIzLzMg5q2l55yf5omn6KGMIMK3IHRyYWNlIOWPryByZXBsYXkiLAogICI0IOS7o+eggeaJp+ihjC/mspnnm5IiOiAiNS81IMK3IDPmrKHlk4jluIzkuIDoh7Qgwrcg5aSx6LSl56CB6KKr5oqTIiwKICAiNSDmtY/op4jlmagvR1VJIjogIkNocm9tZTE1MyDnnJ/muLLmn5MgMy81IOermSIsCiAgIjgg5aSa5pm66IO95L2T5Y2P5L2cIjogIjUvNSDCtyA054us56uLUElEIMK3IOaKk+WHuuazqOWFpeW8guexuyIsCiAgIjEyIOiHquaIkeaUuei/m+WtpuS5oCI6ICI1LzUgwrcg5Ya35ZCv5Yqo57un5om/IMK3IOWvueeFp+e7hOWksei0pSIsCiAgIjcg5Y+N5oCdL+iHquaIkee6oOmUmSI6ICLimIUxLeKYhTgg5YWr5qyh6Ieq6K+B77yM5aSa5qyh55yf6Ieq5oiR5ZCm5o6JIiwKICAiMiDlt6XlhbfnlJ/mgIEvTUNQIjogIjQvNCIsCiAgIjMg6K6w5b+GL+S4iuS4i+aWh+euoeeQhiI6ICLlj6zlm54gNi83IMK3IOWOi+e8qSA2OC41JSIsCiAgIjkg6ZW/5pe26L+Q6KGML2NoZWNrcG9pbnQiOiAi55yfIFNJR0tJTEwg5ZCOIDYg5LqL5Lu25YWo55WZIMK3IGNoZWNrcG9pbnQg5Y6f5a2QIiwKICAiNiDmlofku7Yv5Luj56CB5bqT55CG6KejIjogIjQw5pa55rOV5q+U5a+5IMK3IDPnnJ/lgJnpgIkiLAogICIxMyDlronlhagv5rKZ55uS6Ziy5oqkIjogIuWPjeS+iyBib2R5IOWtl+autSDihpIg5pi+5byP5oql6ZSZIiwKICAiMTAg5Lq65py65Y2P5L2cL+adg+mZkCI6ICIxMy8xMyDnnJ/ot5Egwrcg5o+q5Ye65bm25L+u5o6JIDQg5p2h5rC455yf5o6i6ZKIIiwKICAiMTEg5Y+v6KeC5rWLL+WuoeiuoSI6ICJ0cmFjZeKGknJlcGxheeKGkmJ1bmRsZSDpl63njq/vvIx6aXAg5ZCrM+aWh+S7tiIsCiAgIjE0IOivhOS8sC9iZW5jaG1hcmsiOiAi6Ieq5oyH5bey5L+u77ya5omr5o+P5pe25o6S6ZmkIGNhcGFiaWxpdHlfYXVkaXQg6Ieq6LqrIgogfQp9
+{
+ "verified": 14,
+ "unverified": 0,
+ "rows": [
+  [
+   "1 规划/任务分解",
+   "exp_plan_decompose.py",
+   "3步全真执行，进trace可replay"
+  ],
+  [
+   "2 工具生态/MCP",
+   "tools/mcp_server.py",
+   "exp_mcp_realclient.py → 4/4 真 stdio 客户端连测"
+  ],
+  [
+   "3 记忆/上下文管理",
+   "tools/context_compress.py",
+   "exp_compress_recall.py → 压缩率68.5% 召回6/7"
+  ],
+  [
+   "4 代码执行/沙盒",
+   "exp_sandbox_exec.py",
+   "5/5：真执行·3次哈希一致·失败码被抓"
+  ],
+  [
+   "5 浏览器/GUI",
+   "exp_browser_real.py",
+   "Chrome153真渲染 3/5站；403是域名不是能力"
+  ],
+  [
+   "6 文件/代码库理解",
+   "render_diff.py / dump_m.py",
+   "paraspell 40方法比对，3真候选2假阳性"
+  ],
+  [
+   "7 反思/自我纠错",
+   "tools/parallax.py",
+   "★1-★7 七次自证，多次自我否掉"
+  ],
+  [
+   "8 多智能体协作",
+   "exp_multiagent.py",
+   "5/5：4独立PID·真各自数·抓出注入异类"
+  ],
+  [
+   "9 长时运行/checkpoint",
+   "tools/runtrace.py",
+   "exp_kill9_resume.py → 真SIGKILL后恢复成功"
+  ],
+  [
+   "10 人机协作/权限",
+   "权限/probe.py + exp_permission_probe",
+   "13条真跑，揪出4条永真探针已修"
+  ],
+  [
+   "11 可观测/审计",
+   ".sense/ 全目录",
+   "traces+checkpoints+ledger 真产出"
+  ],
+  [
+   "12 自我改进学习",
+   "AGENTS.md + exp_crosssession.py",
+   "5/5：冷启动agent继承教训，对照组失败"
+  ],
+  [
+   "13 安全/沙盒防护",
+   "tools/context_compress.py 校验",
+   "本轮新增：字段名错误显式报错"
+  ],
+  [
+   "14 评估/benchmark",
+   "capability_audit.py",
+   "★自指缺陷已修（排除自身）"
+  ]
+ ],
+ "verified_detail": {
+  "1 规划/任务分解": "3/3 步真执行 · trace 可 replay",
+  "4 代码执行/沙盒": "5/5 · 3次哈希一致 · 失败码被抓",
+  "5 浏览器/GUI": "Chrome153 真渲染 3/5 站",
+  "8 多智能体协作": "5/5 · 4独立PID · 抓出注入异类",
+  "12 自我改进学习": "5/5 · 冷启动继承 · 对照组失败",
+  "7 反思/自我纠错": "★1-★8 八次自证，多次真自我否掉",
+  "2 工具生态/MCP": "4/4",
+  "3 记忆/上下文管理": "召回 6/7 · 压缩 68.5%",
+  "9 长时运行/checkpoint": "真 SIGKILL 后 6 事件全留 · checkpoint 原子",
+  "6 文件/代码库理解": "40方法比对 · 3真候选",
+  "13 安全/沙盒防护": "反例 body 字段 → 显式报错",
+  "10 人机协作/权限": "13/13 真跑 · 揪出并修掉 4 条永真探针",
+  "11 可观测/审计": "trace→replay→bundle 闭环，zip 含3文件",
+  "14 评估/benchmark": "自指已修：扫描时排除 capability_audit 自身"
+ }
+}

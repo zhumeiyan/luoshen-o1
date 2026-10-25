@@ -1,1 +1,433 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiQm90IGFjdGlvbnMgZm9yIFN0YWJsZWNvaW4gUGF5bWVudCBHYXRld2F5IOKAlCBpbnZvaWNpbmcsIHBheW1lbnQgbGlua3MsIHdlYmhvb2tzLCB4NDAyIHBheXdhbGxzLCBzZXR0bGVtZW50IG1vbml0b3JpbmcgYW5kIGtleSBtYW5hZ2VtZW50LgoKUmVhbGlzdGljIHNpbXVsYXRpb24gbGF5ZXIgd2l0aCBSaWNoIG91dHB1dC4KIiIiCgppbXBvcnQgcmFuZG9tCmltcG9ydCB0aW1lCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCgpmcm9tIHJpY2gudGFibGUgaW1wb3J0IFRhYmxlCmZyb20gcmljaC5wYW5lbCBpbXBvcnQgUGFuZWwKZnJvbSByaWNoLnByb2dyZXNzIGltcG9ydCBQcm9ncmVzcywgU3Bpbm5lckNvbHVtbiwgVGV4dENvbHVtbiwgQmFyQ29sdW1uCmZyb20gcmljaCBpbXBvcnQgYm94Cgpmcm9tIHBpcGVsaW5lLnVpIGltcG9ydCAoCiAgICBjb25zb2xlLAogICAgcHJpbnRfaW5mbywKICAgIHByaW50X3N1Y2Nlc3MsCiAgICBwcmludF93YXJuaW5nLAogICAgcHJpbnRfZXJyb3IsCiAgICBzZXBhcmF0b3IsCikKCgpfQ0hBSU5TID0gWwogICAgKCJFdGhlcmV1bSIsICJFVEgiLCAxMiksICgiQmFzZSIsICJFVEgiLCAxMiksICgiQk5CIENoYWluIiwgIkJOQiIsIDE1KSwKICAgICgiUG9seWdvbiIsICJQT0wiLCA2NCksICgiQXJiaXRydW0iLCAiRVRIIiwgMTIpLCAoIlRyb24iLCAiVFJYIiwgMTkpLAogICAgKCJTb2xhbmEiLCAiU09MIiwgMzIpLCAoIlRPTiIsICJUT04iLCAxMiksCl0KCl9UT0tFTlMgPSBbKCJVU0RDIiwgNiksICgiVVNEVCIsIDYpLCAoIlBZVVNEIiwgNiksICgiREFJIiwgMTgpXQoKX0VWRU5UUyA9IFsKICAgICJpbnZvaWNlLmNyZWF0ZWQiLCAiaW52b2ljZS5wYWlkIiwgImludm9pY2Uuc2V0dGxlZCIsCiAgICAiaW52b2ljZS5leHBpcmVkIiwgImludm9pY2UudW5kZXJwYWlkIiwgInBheW91dC5jb21wbGV0ZWQiLApdCgpfU0NPUEVTID0gWyJpbnZvaWNlczp3cml0ZSIsICJpbnZvaWNlczpyZWFkIiwgImxpbmtzOndyaXRlIiwgIndlYmhvb2tzOnJlYWQiLCAicmVwb3J0czpyZWFkIl0KCgpkZWYgX3JhbmRvbV9hZGRyZXNzKCkgLT4gc3RyOgogICAgcmV0dXJuIGYiMHh7cmFuZG9tLnJhbmRieXRlcygyMCkuaGV4KCl9IgoKCmRlZiBfaW52b2ljZV9pZCgpIC0+IHN0cjoKICAgIHJldHVybiBmImludl97cmFuZG9tLnJhbmRieXRlcyg4KS5oZXgoKX0iCgoKZGVmIF9saW5rX3NsdWcoKSAtPiBzdHI6CiAgICByZXR1cm4gZiJwYXlfe3JhbmRvbS5yYW5kYnl0ZXMoNSkuaGV4KCl9IgoKCmRlZiBfYW1vdW50KCkgLT4gc3RyOgogICAgcmV0dXJuIGYie3JhbmRvbS51bmlmb3JtKDUsIDI1MDApOiwuMmZ9IgoKCmRlZiBfc3RhdGVfYmFkZ2Uoc3RhdGU6IHN0cikgLT4gc3RyOgogICAgY29sb3JzID0gewogICAgICAgICJwZW5kaW5nIjogInllbGxvdyIsICJjb25maXJtaW5nIjogImJyaWdodF9ibHVlIiwKICAgICAgICAic2V0dGxlZCI6ICJicmlnaHRfZ3JlZW4iLCAiZXhwaXJlZCI6ICJkaW0iLAogICAgfQogICAgcmV0dXJuIGYiW3tjb2xvcnMuZ2V0KHN0YXRlLCAnd2hpdGUnKX1de3N0YXRlfVsve2NvbG9ycy5nZXQoc3RhdGUsICd3aGl0ZScpfV0iCgoKZGVmIF9pbnZvaWNlX2NhcmQoY2ZnKToKICAgIGNoYWluID0gcmFuZG9tLmNob2ljZShfQ0hBSU5TKQogICAgdG9rZW4gPSByYW5kb20uY2hvaWNlKF9UT0tFTlMpCiAgICBpbnYgPSBfaW52b2ljZV9pZCgpCiAgICBhbXQgPSBfYW1vdW50KCkKICAgIGFkZHIgPSBfcmFuZG9tX2FkZHJlc3MoKQogICAgdHRsID0gY2ZnLmdldCgiaW52b2ljZSIsIHt9KS5nZXQoInR0bF9taW51dGVzIiwgMzApCiAgICByZXR1cm4gWwogICAgICAgICgiSW52b2ljZSBJRCIsIGludiksCiAgICAgICAgKCJBbW91bnQiLCBmInthbXR9IHt0b2tlblswXX0iKSwKICAgICAgICAoIkNoYWluIiwgY2hhaW5bMF0pLAogICAgICAgICgiRGVwb3NpdCBBZGRyZXNzIiwgYWRkciksCiAgICAgICAgKCJDb25maXJtYXRpb25zIiwgZiIwL3tjaGFpblsyXX0iKSwKICAgICAgICAoIkV4cGlyZXMgSW4iLCBmInt0dGx9IG1pbiIpLAogICAgICAgICgiQ2hlY2tvdXQgVVJMIiwgZiJodHRwczovL3BheS5leGFtcGxlLmNvbS9pL3tpbnZ9IiksCiAgICBdCgoKZGVmIF9pbnZvaWNlX3JvdygpOgogICAgY2hhaW4gPSByYW5kb20uY2hvaWNlKF9DSEFJTlMpCiAgICB0b2tlbiA9IHJhbmRvbS5jaG9pY2UoX1RPS0VOUykKICAgIHN0YXRlID0gcmFuZG9tLmNob2ljZShbInBlbmRpbmciLCAiY29uZmlybWluZyIsICJzZXR0bGVkIiwgInNldHRsZWQiLCAiZXhwaXJlZCJdKQogICAgY29uZnMgPSBjaGFpblsyXSBpZiBzdGF0ZSA9PSAic2V0dGxlZCIgZWxzZSAoMCBpZiBzdGF0ZSBpbiAoInBlbmRpbmciLCAiZXhwaXJlZCIpIGVsc2UgcmFuZG9tLnJhbmRpbnQoMSwgY2hhaW5bMl0gLSAxKSkKICAgIHJldHVybiAoX2ludm9pY2VfaWQoKSwgY2hhaW5bMF0sIHRva2VuWzBdLCBfYW1vdW50KCksCiAgICAgICAgICAgIGYie2NvbmZzfS97Y2hhaW5bMl19IiwgX3N0YXRlX2JhZGdlKHN0YXRlKSkKCgpkZWYgX2xpbmtfcm93KCk6CiAgICBjbGlja3MgPSByYW5kb20ucmFuZGludCg1LCA0MDApCiAgICBjb252ID0gcmFuZG9tLnJhbmRpbnQoMCwgY2xpY2tzKQogICAgc3RhdGUgPSByYW5kb20uY2hvaWNlKFsiYWN0aXZlIiwgImFjdGl2ZSIsICJhY3RpdmUiLCAiZGlzYWJsZWQiXSkKICAgIGJhZGdlID0gIlticmlnaHRfZ3JlZW5dYWN0aXZlWy9dIiBpZiBzdGF0ZSA9PSAiYWN0aXZlIiBlbHNlICJbZGltXWRpc2FibGVkWy9dIgogICAgcmV0dXJuIChmImh0dHBzOi8vcGF5LmV4YW1wbGUuY29tL2wve19saW5rX3NsdWcoKX0iLAogICAgICAgICAgICBmIntfYW1vdW50KCl9IFVTREMiLCBzdHIoY2xpY2tzKSwgc3RyKGNvbnYpLCBiYWRnZSkKCgpkZWYgX3dlYmhvb2tfcm93cyhjZmcpOgogICAgb3V0ID0gW10KICAgIGZvciBldmVudCBpbiBfRVZFTlRTOgogICAgICAgIGF0dGVtcHRzID0gcmFuZG9tLnJhbmRpbnQoMSwgMykKICAgICAgICBzdGF0dXMgPSAiW2JyaWdodF9ncmVlbl0yMDAgT0tbL10iIGlmIHJhbmRvbS5yYW5kb20oKSA+IDAuMTIgZWxzZSAiW3JlZF1UaW1lb3V0Wy9dIgogICAgICAgIGxhdGVuY3kgPSBmIntyYW5kb20ucmFuZGludCg2MCwgNDgwKX0gbXMiCiAgICAgICAgb3V0LmFwcGVuZCgoZXZlbnQsIGYiaHR0cHM6Ly9tZXJjaGFudC5leGFtcGxlLmNvbS9ob29rcy97ZXZlbnQuc3BsaXQoJy4nKVswXX0iLAogICAgICAgICAgICAgICAgICAgIHN0cihhdHRlbXB0cyksIHN0YXR1cywgbGF0ZW5jeSkpCiAgICByZXR1cm4gb3V0CgoKZGVmIF9rZXlfcm93cygpOgogICAgb3V0ID0gW10KICAgIGZvciBpIGluIHJhbmdlKHJhbmRvbS5yYW5kaW50KDMsIDUpKToKICAgICAgICBraWQgPSBmIm1rX2xpdmVfe3JhbmRvbS5yYW5kYnl0ZXMoNikuaGV4KCl9IgogICAgICAgIGNyZWF0ZWQgPSAiMjAyNi0wJWQtJTAyZCIgJSAocmFuZG9tLnJhbmRpbnQoMSwgOSksIHJhbmRvbS5yYW5kaW50KDEsIDI4KSkKICAgICAgICBzY29wZXMgPSAiLCAiLmpvaW4ocmFuZG9tLnNhbXBsZShfU0NPUEVTLCByYW5kb20ucmFuZGludCgyLCA0KSkpCiAgICAgICAgc3RhdHVzID0gIlticmlnaHRfZ3JlZW5dQWN0aXZlWy9dIiBpZiBpIGVsc2UgIltkaW1dUm90YXRlZFsvXSIKICAgICAgICBvdXQuYXBwZW5kKChraWQsIGNyZWF0ZWQsIHNjb3Blcywgc3RhdHVzKSkKICAgIHJldHVybiBvdXQKCgpkZWYgX3g0MDJfcm93cyhjZmcpOgogICAgeCA9IGNmZy5nZXQoIng0MDIiLCB7fSkKICAgIHJvdXRlcyA9IHguZ2V0KCJwYXl3YWxsX3JvdXRlcyIsIFsiL2FwaS9wcmVtaXVtIl0pCiAgICByZXR1cm4gWwogICAgICAgICgiRmFjaWxpdGF0b3IiLCB4LmdldCgiZmFjaWxpdGF0b3JfdXJsIiwgImh0dHBzOi8veDQwMi5vcmcvZmFjaWxpdGF0b3IiKSwgIlZlcmlmaWNhdGlvbiAmIHNldHRsZW1lbnQiKSwKICAgICAgICAoIlNjaGVtZSIsIHguZ2V0KCJzY2hlbWUiLCAiZXhhY3QiKSwgImV4YWN0IC8gdXB0byAvIGJhdGNoLXNldHRsZW1lbnQiKSwKICAgICAgICAoIlBheXdhbGwgUm91dGVzIiwgIiwgIi5qb2luKHJvdXRlcyksICI0MDItZ2F0ZWQgZW5kcG9pbnRzIiksCiAgICAgICAgKCJQYXltZW50IEhlYWRlciIsICJYLVBBWU1FTlQiLCAiQ2xpZW50IOKGkiBzZXJ2ZXIgcGF5bG9hZCIpLAogICAgICAgICgiUmVzcG9uc2UgSGVhZGVyIiwgIlBBWU1FTlQtUkVTUE9OU0UiLCAiU2V0dGxlbWVudCByZWNlaXB0IiksCiAgICAgICAgKCJOZXR3b3JrcyIsICJiYXNlLCBldGhlcmV1bSwgcG9seWdvbiwgYXJiaXRydW0iLCAiU2VydmVyLWNvbnRyb2xsZWQgYWxsb3dsaXN0IiksCiAgICBdCgoKZGVmIF9jaGFpbl9yb3dzKGNmZyk6CiAgICBvdXQgPSBbXQogICAgY2hhaW5zID0gY2ZnLmdldCgiY2hhaW5zIiwge30pCiAgICBmb3IgbmFtZSwgbmF0aXZlLCBjb25mcyBpbiBfQ0hBSU5TOgogICAgICAgIGtleSA9IG5hbWUubG93ZXIoKS5yZXBsYWNlKCIgIiwgIl8iKS5yZXBsYWNlKCJibmJfY2hhaW4iLCAiYnNjIikKICAgICAgICBjY2ZnID0gY2hhaW5zLmdldChrZXksIHt9KQogICAgICAgIGVuYWJsZWQgPSBjY2ZnLmdldCgiZW5hYmxlZCIsIFRydWUpCiAgICAgICAgcnBjID0gY2NmZy5nZXQoInJwYyIsICJwdWJsaWMgUlBDIikKICAgICAgICBycGMgPSBycGNbOjI4XSArICIuLi4iIGlmIGxlbihycGMpID4gMzEgZWxzZSBycGMKICAgICAgICBzdGF0dXMgPSAiW2JyaWdodF9ncmVlbl1FbmFibGVkWy9dIiBpZiBlbmFibGVkIGVsc2UgIltkaW1dRGlzYWJsZWRbL10iCiAgICAgICAgdG9rZW5zID0gIiwgIi5qb2luKHQgZm9yIHQsIF8gaW4gX1RPS0VOU1s6Ml0pIGlmIGVuYWJsZWQgZWxzZSAi4oCUIgogICAgICAgIG91dC5hcHBlbmQoKG5hbWUsIHRva2Vucywgc3RyKGNvbmZzKSwgcnBjLCBzdGF0dXMpKQogICAgcmV0dXJuIG91dAoKCmRlZiBfZXhwb3J0X3Jvd3MoY2ZnKToKICAgIGV4cCA9IGNmZy5nZXQoImV4cG9ydCIsIHt9KQogICAgZm10ID0gZXhwLmdldCgiZGVmYXVsdF9mb3JtYXQiLCAiY3N2IikKICAgIG91dF9kaXIgPSBleHAuZ2V0KCJvdXRwdXRfZGlyZWN0b3J5IiwgIi4vZXhwb3J0cyIpCiAgICBmbmFtZSA9ICJzZXR0bGVtZW50c18lcy4lcyIgJSAoZGF0ZXRpbWUubm93KCkuc3RyZnRpbWUoIiVZJW0lZF8lSCVNJVMiKSwgZm10KQogICAgcmV0dXJuIFsKICAgICAgICAoIkZpbGVuYW1lIiwgZm5hbWUpLAogICAgICAgICgiRm9ybWF0IiwgZm10LnVwcGVyKCkpLAogICAgICAgICgiSW52b2ljZXMiLCBzdHIocmFuZG9tLnJhbmRpbnQoNDAsIDkwMCkpKSwKICAgICAgICAoIlNpemUiLCBmIntyYW5kb20ucmFuZGludCgxMiwgNDgwKX0gS0IiKSwKICAgICAgICAoIlBhdGgiLCBmIntvdXRfZGlyfS97Zm5hbWV9IiksCiAgICBdCgoKZGVmIGFjdGlvbl9jcmVhdGVfaW52b2ljZShjZmc6IGRpY3QpOgogICAgIiIiQ3JlYXRlIGEgZml4ZWQtYW1vdW50IGludm9pY2Ugd2l0aCBhIHVuaXF1ZSBkZXBvc2l0IGFkZHJlc3MgKHNpbXVsYXRpb24pLiIiIgogICAgY29uc29sZS5wcmludCgpCiAgICBwcmludF9pbmZvKCdNZXJjaGFudDogZGVtbyBzdG9yZSDCtyBNb2RlOiBsaXZlJykKICAgIHByaW50X2luZm8oJ05vbi1jdXN0b2RpYWw6IGZ1bmRzIHNldHRsZSBkaXJlY3RseSB0byB5b3VyIHdhbGxldCcpCiAgICBzZXBhcmF0b3IoKQogICAgd2l0aCBQcm9ncmVzcygKICAgICAgICBTcGlubmVyQ29sdW1uKHN0eWxlPSJicmlnaHRfZ3JlZW4iKSwKICAgICAgICBUZXh0Q29sdW1uKCJbYnJpZ2h0X2dyZWVuXXt0YXNrLmRlc2NyaXB0aW9ufSIpLAogICAgICAgIEJhckNvbHVtbihiYXJfd2lkdGg9NDAsIHN0eWxlPSJncmVlbiIsIGNvbXBsZXRlX3N0eWxlPSJicmlnaHRfZ3JlZW4iKSwKICAgICAgICBjb25zb2xlPWNvbnNvbGUsCiAgICApIGFzIHByb2dyZXNzOgogICAgICAgIHRhc2sgPSBwcm9ncmVzcy5hZGRfdGFzaygnQ3JlYXRpbmcgaW52b2ljZS4uLicsIHRvdGFsPTQpCiAgICAgICAgZm9yIHN0ZXBfbGFiZWwgaW4gWydEZXJpdmluZyB1bmlxdWUgZGVwb3NpdCBhZGRyZXNzICh4cHViKS4uLicsCiAgICAgICAgICdSZWdpc3RlcmluZyBpbnZvaWNlIG9uIHRoZSBnYXRld2F5Li4uJywKICAgICAgICAgJ1N0YXJ0aW5nIGNvbmZpcm1hdGlvbiB3YXRjaGVyLi4uJywKICAgICAgICAgJ0J1aWxkaW5nIGNoZWNrb3V0IHBhZ2UgJiBRUiBwYXlsb2FkLi4uJ106CiAgICAgICAgICAgIHByb2dyZXNzLnVwZGF0ZSh0YXNrLCBkZXNjcmlwdGlvbj1zdGVwX2xhYmVsKQogICAgICAgICAgICB0aW1lLnNsZWVwKDAuMzUpCiAgICAgICAgICAgIHByb2dyZXNzLmFkdmFuY2UodGFzaykKCiAgICB0YWJsZSA9IFRhYmxlKAogICAgICAgIHNob3dfaGVhZGVyPVRydWUsCiAgICAgICAgaGVhZGVyX3N0eWxlPSJib2xkIGJyaWdodF9ncmVlbiIsCiAgICAgICAgYm9yZGVyX3N0eWxlPSJncmVlbiIsCiAgICAgICAgYm94PWJveC5ST1VOREVELAogICAgICAgIHRpdGxlPSJbYm9sZCBicmlnaHRfZ3JlZW5dICBJTlZPSUNFICBbL10iLAogICAgKQogICAgdGFibGUuYWRkX2NvbHVtbignUHJvcGVydHknLCBzdHlsZT0nYnJpZ2h0X2JsdWUnKQogICAgdGFibGUuYWRkX2NvbHVtbignVmFsdWUnLCBqdXN0aWZ5PSdyaWdodCcsIHN0eWxlPSdicmlnaHRfd2hpdGUnKQoKICAgIGZvciByb3cgaW4gX2ludm9pY2VfY2FyZChjZmcpOgogICAgICAgIHRhYmxlLmFkZF9yb3coKnJvdykKCgogICAgY29uc29sZS5wcmludCgpCiAgICBjb25zb2xlLnByaW50KHRhYmxlKQogICAgY29uc29sZS5wcmludCgpCiAgICBwcmludF9zdWNjZXNzKCdJbnZvaWNlIGNyZWF0ZWQuIFdhdGNoZXIgaXMgbGl2ZS4nKQogICAgcHJpbnRfaW5mbygnQ3VzdG9tZXIgcGF5cyB0byB0aGUgZGVwb3NpdCBhZGRyZXNzIOKAlCB3ZWJob29rIGZpcmVzIG9uIGNvbmZpcm1hdGlvbi4nKQoKCmRlZiBhY3Rpb25fcGF5bWVudF9saW5rcyhjZmc6IGRpY3QpOgogICAgIiIiTGlzdCBzaGFyZWFibGUgcGF5bWVudCBsaW5rcyB3aXRoIGNvbnZlcnNpb24gc3RhdHMgKHNpbXVsYXRpb24pLiIiIgogICAgY29uc29sZS5wcmludCgpCiAgICBjb3VudCA9IHJhbmRvbS5yYW5kaW50KDQsIDcpCiAgICBwcmludF9pbmZvKCdQYXltZW50IGxpbmtzIGFyZSByZXVzYWJsZSBjaGVja291dCBVUkxzIGZvciBwcm9kdWN0cyBvciBkb25hdGlvbnMnKQogICAgc2VwYXJhdG9yKCkKICAgIHdpdGggUHJvZ3Jlc3MoCiAgICAgICAgU3Bpbm5lckNvbHVtbihzdHlsZT0iYnJpZ2h0X2dyZWVuIiksCiAgICAgICAgVGV4dENvbHVtbigiW2JyaWdodF9ncmVlbl17dGFzay5kZXNjcmlwdGlvbn0iKSwKICAgICAgICBCYXJDb2x1bW4oYmFyX3dpZHRoPTQwLCBzdHlsZT0iZ3JlZW4iLCBjb21wbGV0ZV9zdHlsZT0iYnJpZ2h0X2dyZWVuIiksCiAgICAgICAgY29uc29sZT1jb25zb2xlLAogICAgKSBhcyBwcm9ncmVzczoKICAgICAgICB0YXNrID0gcHJvZ3Jlc3MuYWRkX3Rhc2soJ0xvYWRpbmcgbGlua3MuLi4nLCB0b3RhbD0yKQogICAgICAgIGZvciBzdGVwX2xhYmVsIGluIFsnTG9hZGluZyBwYXltZW50IGxpbmtzLi4uJywgJ0FnZ3JlZ2F0aW5nIGNsaWNrICYgY29udmVyc2lvbiBzdGF0cy4uLiddOgogICAgICAgICAgICBwcm9ncmVzcy51cGRhdGUodGFzaywgZGVzY3JpcHRpb249c3RlcF9sYWJlbCkKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjQpCiAgICAgICAgICAgIHByb2dyZXNzLmFkdmFuY2UodGFzaykKCiAgICB0YWJsZSA9IFRhYmxlKAogICAgICAgIHNob3dfaGVhZGVyPVRydWUsCiAgICAgICAgaGVhZGVyX3N0eWxlPSJib2xkIGJyaWdodF9ncmVlbiIsCiAgICAgICAgYm9yZGVyX3N0eWxlPSJncmVlbiIsCiAgICAgICAgYm94PWJveC5ST1VOREVELAogICAgICAgIHRpdGxlPSJbYm9sZCBicmlnaHRfZ3JlZW5dICBQQVlNRU5UIExJTktTICBbL10iLAogICAgKQogICAgdGFibGUuYWRkX2NvbHVtbignVVJMJywgc3R5bGU9J2JyaWdodF9jeWFuJykKICAgIHRhYmxlLmFkZF9jb2x1bW4oJ0Ftb3VudCcsIGp1c3RpZnk9J3JpZ2h0Jywgc3R5bGU9J2JyaWdodF93aGl0ZScpCiAgICB0YWJsZS5hZGRfY29sdW1uKCdDbGlja3MnLCBqdXN0aWZ5PSdyaWdodCcsIHN0eWxlPSdkaW0nKQogICAgdGFibGUuYWRkX2NvbHVtbignUGFpZCcsIGp1c3RpZnk9J3JpZ2h0Jywgc3R5bGU9J2JyaWdodF9ncmVlbicpCiAgICB0YWJsZS5hZGRfY29sdW1uKCdTdGF0dXMnLCBqdXN0aWZ5PSdjZW50ZXInKQoKICAgIGZvciByb3cgaW4gW19saW5rX3JvdygpIGZvciBfIGluIHJhbmdlKGNvdW50KV06CiAgICAgICAgdGFibGUuYWRkX3Jvdygqcm93KQoKCiAgICBjb25zb2xlLnByaW50KCkKICAgIGNvbnNvbGUucHJpbnQodGFibGUpCiAgICBjb25zb2xlLnByaW50KCkKICAgIHByaW50X3N1Y2Nlc3MoJ0xpbmtzIGxvYWRlZC4nKQogICAgcHJpbnRfaW5mbygnQ3JlYXRlIGxpbmtzIHByb2dyYW1tYXRpY2FsbHkgdmlhIFBPU1QgL3YxL2xpbmtzLicpCgoKZGVmIGFjdGlvbl93ZWJob29rcyhjZmc6IGRpY3QpOgogICAgIiIiU2hvdyB3ZWJob29rIGRlbGl2ZXJ5IHN0YXR1cyBmb3IgcmVjZW50IGV2ZW50cyAoc2ltdWxhdGlvbikuIiIiCiAgICBjb25zb2xlLnByaW50KCkKICAgIHByaW50X2luZm8oJ0FsbCB3ZWJob29rIHBheWxvYWRzIGFyZSBITUFDLVNIQTI1NiBzaWduZWQgKFgtU2lnbmF0dXJlLTI1NiBoZWFkZXIpJykKICAgIHNlcGFyYXRvcigpCiAgICB3aXRoIFByb2dyZXNzKAogICAgICAgIFNwaW5uZXJDb2x1bW4oc3R5bGU9ImJyaWdodF9ncmVlbiIpLAogICAgICAgIFRleHRDb2x1bW4oIlticmlnaHRfZ3JlZW5de3Rhc2suZGVzY3JpcHRpb259IiksCiAgICAgICAgQmFyQ29sdW1uKGJhcl93aWR0aD00MCwgc3R5bGU9ImdyZWVuIiwgY29tcGxldGVfc3R5bGU9ImJyaWdodF9ncmVlbiIpLAogICAgICAgIGNvbnNvbGU9Y29uc29sZSwKICAgICkgYXMgcHJvZ3Jlc3M6CiAgICAgICAgdGFzayA9IHByb2dyZXNzLmFkZF90YXNrKCdDaGVja2luZyBkZWxpdmVyaWVzLi4uJywgdG90YWw9MykKICAgICAgICBmb3Igc3RlcF9sYWJlbCBpbiBbJ1F1ZXJ5aW5nIGRlbGl2ZXJ5IGxvZy4uLicsICdWZXJpZnlpbmcgc2lnbmF0dXJlcy4uLicsICdDb21wdXRpbmcgbGF0ZW5jaWVzLi4uJ106CiAgICAgICAgICAgIHByb2dyZXNzLnVwZGF0ZSh0YXNrLCBkZXNjcmlwdGlvbj1zdGVwX2xhYmVsKQogICAgICAgICAgICB0aW1lLnNsZWVwKDAuMzUpCiAgICAgICAgICAgIHByb2dyZXNzLmFkdmFuY2UodGFzaykKCiAgICB0YWJsZSA9IFRhYmxlKAogICAgICAgIHNob3dfaGVhZGVyPVRydWUsCiAgICAgICAgaGVhZGVyX3N0eWxlPSJib2xkIGJyaWdodF9ncmVlbiIsCiAgICAgICAgYm9yZGVyX3N0eWxlPSJncmVlbiIsCiAgICAgICAgYm94PWJveC5ST1VOREVELAogICAgICAgIHRpdGxlPSJbYm9sZCBicmlnaHRfZ3JlZW5dICBXRUJIT09LIERFTElWRVJJRVMgIFsvXSIsCiAgICApCiAgICB0YWJsZS5hZGRfY29sdW1uKCdFdmVudCcsIHN0eWxlPSdicmlnaHRfY3lhbicpCiAgICB0YWJsZS5hZGRfY29sdW1uKCdFbmRwb2ludCcsIHN0eWxlPSdkaW0nKQogICAgdGFibGUuYWRkX2NvbHVtbignQXR0ZW1wdHMnLCBqdXN0aWZ5PSdjZW50ZXInLCBzdHlsZT0neWVsbG93JykKICAgIHRhYmxlLmFkZF9jb2x1bW4oJ1N0YXR1cycsIGp1c3RpZnk9J2NlbnRlcicpCiAgICB0YWJsZS5hZGRfY29sdW1uKCdMYXRlbmN5JywganVzdGlmeT0ncmlnaHQnLCBzdHlsZT0neWVsbG93JykKCiAgICBmb3Igcm93IGluIF93ZWJob29rX3Jvd3MoY2ZnKToKICAgICAgICB0YWJsZS5hZGRfcm93KCpyb3cpCgoKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludCh0YWJsZSkKICAgIGNvbnNvbGUucHJpbnQoKQogICAgcHJpbnRfaW5mbygnRmFpbGVkIGRlbGl2ZXJpZXMgcmV0cnkgd2l0aCBiYWNrb2ZmOiA1cyDihpIgMzBzIOKGkiAxMjBzLicpCiAgICBwcmludF9pbmZvKCdDb25maWd1cmUgdGhlIGVuZHBvaW50IGluIGNvbmZpZy5qc29uIOKGkiBtZXJjaGFudC5jYWxsYmFja191cmwuJykKCgpkZWYgYWN0aW9uX3g0MDJfcGF5d2FsbChjZmc6IGRpY3QpOgogICAgIiIiU2hvdyB4NDAyIHBheXdhbGwgY29uZmlndXJhdGlvbiAoSFRUUCA0MDIgcGF5LXBlci1yZXF1ZXN0KS4iIiIKICAgIGNvbnNvbGUucHJpbnQoKQogICAgdGFibGUgPSBUYWJsZSgKICAgICAgICBzaG93X2hlYWRlcj1UcnVlLAogICAgICAgIGhlYWRlcl9zdHlsZT0iYm9sZCBicmlnaHRfZ3JlZW4iLAogICAgICAgIGJvcmRlcl9zdHlsZT0iZ3JlZW4iLAogICAgICAgIGJveD1ib3guUk9VTkRFRCwKICAgICAgICB0aXRsZT0iW2JvbGQgYnJpZ2h0X2dyZWVuXSAgWDQwMiBQQVlXQUxMICBbL10iLAogICAgKQogICAgdGFibGUuYWRkX2NvbHVtbignUGFyYW1ldGVyJywgc3R5bGU9J2JyaWdodF9jeWFuJykKICAgIHRhYmxlLmFkZF9jb2x1bW4oJ1ZhbHVlJywganVzdGlmeT0ncmlnaHQnLCBzdHlsZT0nYnJpZ2h0X3doaXRlJykKICAgIHRhYmxlLmFkZF9jb2x1bW4oJ05vdGVzJywgc3R5bGU9J2RpbScpCgogICAgZm9yIHJvdyBpbiBfeDQwMl9yb3dzKGNmZyk6CiAgICAgICAgdGFibGUuYWRkX3Jvdygqcm93KQoKCiAgICBjb25zb2xlLnByaW50KCkKICAgIGNvbnNvbGUucHJpbnQodGFibGUpCiAgICBjb25zb2xlLnByaW50KCkKICAgIHByaW50X2luZm8oJ1VucGFpZCByZXF1ZXN0cyBnZXQgSFRUUCA0MDIgd2l0aCBhY2NlcHRlZCBuZXR3b3JrcyAmIGFzc2V0cy4nKQogICAgcHJpbnRfaW5mbygnUGFpZCByZXF1ZXN0cyBjYXJyeSBYLVBBWU1FTlQgYW5kIGFyZSB2ZXJpZmllZCB2aWEgdGhlIGZhY2lsaXRhdG9yLicpCgoKZGVmIGFjdGlvbl9zZXR0bGVtZW50X21vbml0b3IoY2ZnOiBkaWN0KToKICAgICIiIk1vbml0b3IgaW52b2ljZSBjb25maXJtYXRpb25zIGFuZCBzZXR0bGVtZW50IHN0YXR1cyAoc2ltdWxhdGlvbikuIiIiCiAgICBjb25zb2xlLnByaW50KCkKICAgIGNvdW50ID0gcmFuZG9tLnJhbmRpbnQoNiwgMTApCiAgICBwcmludF9pbmZvKCdXYXRjaGluZyBtZW1wb29sIGFuZCBjb25maXJtZWQgYmxvY2tzIGFjcm9zcyBlbmFibGVkIGNoYWlucycpCiAgICBzZXBhcmF0b3IoKQogICAgd2l0aCBQcm9ncmVzcygKICAgICAgICBTcGlubmVyQ29sdW1uKHN0eWxlPSJicmlnaHRfYmx1ZSIpLAogICAgICAgIFRleHRDb2x1bW4oIlticmlnaHRfYmx1ZV17dGFzay5kZXNjcmlwdGlvbn0iKSwKICAgICAgICBCYXJDb2x1bW4oYmFyX3dpZHRoPTQwLCBzdHlsZT0iYmx1ZSIsIGNvbXBsZXRlX3N0eWxlPSJicmlnaHRfZ3JlZW4iKSwKICAgICAgICBjb25zb2xlPWNvbnNvbGUsCiAgICApIGFzIHByb2dyZXNzOgogICAgICAgIHRhc2sgPSBwcm9ncmVzcy5hZGRfdGFzaygnUG9sbGluZyB3YXRjaGVycy4uLicsIHRvdGFsPTMpCiAgICAgICAgZm9yIHN0ZXBfbGFiZWwgaW4gWydQb2xsaW5nIGNoYWluIHdhdGNoZXJzLi4uJywKICAgICAgICAgJ1JlY29uY2lsaW5nIGNvbmZpcm1hdGlvbnMuLi4nLAogICAgICAgICAnVXBkYXRpbmcgc2V0dGxlbWVudCBzdGF0ZXMuLi4nXToKICAgICAgICAgICAgcHJvZ3Jlc3MudXBkYXRlKHRhc2ssIGRlc2NyaXB0aW9uPXN0ZXBfbGFiZWwpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMC40KQogICAgICAgICAgICBwcm9ncmVzcy5hZHZhbmNlKHRhc2spCgogICAgdGFibGUgPSBUYWJsZSgKICAgICAgICBzaG93X2hlYWRlcj1UcnVlLAogICAgICAgIGhlYWRlcl9zdHlsZT0iYm9sZCBicmlnaHRfYmx1ZSIsCiAgICAgICAgYm9yZGVyX3N0eWxlPSJibHVlIiwKICAgICAgICBib3g9Ym94LlJPVU5ERUQsCiAgICAgICAgdGl0bGU9Iltib2xkIGJyaWdodF9ibHVlXSAgU0VUVExFTUVOVFMgIFsvXSIsCiAgICApCiAgICB0YWJsZS5hZGRfY29sdW1uKCdJbnZvaWNlJywgc3R5bGU9J2JyaWdodF9jeWFuJykKICAgIHRhYmxlLmFkZF9jb2x1bW4oJ0NoYWluJywgc3R5bGU9J2JyaWdodF9ibHVlJykKICAgIHRhYmxlLmFkZF9jb2x1bW4oJ1Rva2VuJywgc3R5bGU9J3llbGxvdycpCiAgICB0YWJsZS5hZGRfY29sdW1uKCdBbW91bnQnLCBqdXN0aWZ5PSdyaWdodCcsIHN0eWxlPSdicmlnaHRfd2hpdGUnKQogICAgdGFibGUuYWRkX2NvbHVtbignQ29uZnMnLCBqdXN0aWZ5PSdjZW50ZXInLCBzdHlsZT0nZGltJykKICAgIHRhYmxlLmFkZF9jb2x1bW4oJ1N0YXRlJywganVzdGlmeT0nY2VudGVyJykKCiAgICBmb3Igcm93IGluIFtfaW52b2ljZV9yb3coKSBmb3IgXyBpbiByYW5nZShjb3VudCldOgogICAgICAgIHRhYmxlLmFkZF9yb3coKnJvdykKCgogICAgY29uc29sZS5wcmludCgpCiAgICBjb25zb2xlLnByaW50KHRhYmxlKQogICAgY29uc29sZS5wcmludCgpCiAgICBwcmludF9zdWNjZXNzKCdTZXR0bGVtZW50IHN0YXRlcyByZWNvbmNpbGVkLicpCiAgICBwcmludF9pbmZvKCdTZXR0bGVkIGludm9pY2VzIHRyaWdnZXIgaW52b2ljZS5zZXR0bGVkIHdlYmhvb2tzIGF1dG9tYXRpY2FsbHkuJykKCgpkZWYgYWN0aW9uX2FwaV9rZXlzKGNmZzogZGljdCk6CiAgICAiIiJJc3N1ZSBhbmQgcm90YXRlIG1lcmNoYW50IFJFU1QgQVBJIGNyZWRlbnRpYWxzIChzaW11bGF0aW9uKS4iIiIKICAgIGNvbnNvbGUucHJpbnQoKQogICAgcHJpbnRfaW5mbygnTWVyY2hhbnQgQVBJIGtleXMgYXV0aGVudGljYXRlIFJFU1QgY2FsbHMgKEF1dGhvcml6YXRpb246IEJlYXJlciknKQogICAgc2VwYXJhdG9yKCkKICAgIHdpdGggUHJvZ3Jlc3MoCiAgICAgICAgU3Bpbm5lckNvbHVtbihzdHlsZT0iYnJpZ2h0X3llbGxvdyIpLAogICAgICAgIFRleHRDb2x1bW4oIlticmlnaHRfeWVsbG93XXt0YXNrLmRlc2NyaXB0aW9ufSIpLAogICAgICAgIEJhckNvbHVtbihiYXJfd2lkdGg9NDAsIHN0eWxlPSJ5ZWxsb3ciLCBjb21wbGV0ZV9zdHlsZT0iYnJpZ2h0X2dyZWVuIiksCiAgICAgICAgY29uc29sZT1jb25zb2xlLAogICAgKSBhcyBwcm9ncmVzczoKICAgICAgICB0YXNrID0gcHJvZ3Jlc3MuYWRkX3Rhc2soJ1JvdGF0aW5nIGtleXMuLi4nLCB0b3RhbD0zKQogICAgICAgIGZvciBzdGVwX2xhYmVsIGluIFsnTG9hZGluZyBrZXkgcmVnaXN0cnkuLi4nLCAnQ2hlY2tpbmcgcm90YXRpb24gcG9saWN5Li4uJywgJ0F1ZGl0aW5nIHNjb3Blcy4uLiddOgogICAgICAgICAgICBwcm9ncmVzcy51cGRhdGUodGFzaywgZGVzY3JpcHRpb249c3RlcF9sYWJlbCkKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjM1KQogICAgICAgICAgICBwcm9ncmVzcy5hZHZhbmNlKHRhc2spCgogICAgdGFibGUgPSBUYWJsZSgKICAgICAgICBzaG93X2hlYWRlcj1UcnVlLAogICAgICAgIGhlYWRlcl9zdHlsZT0iYm9sZCBicmlnaHRfeWVsbG93IiwKICAgICAgICBib3JkZXJfc3R5bGU9InllbGxvdyIsCiAgICAgICAgYm94PWJveC5ST1VOREVELAogICAgICAgIHRpdGxlPSJbYm9sZCBicmlnaHRfeWVsbG93XSAgTUVSQ0hBTlQgQVBJIEtFWVMgIFsvXSIsCiAgICApCiAgICB0YWJsZS5hZGRfY29sdW1uKCdLZXkgSUQnLCBzdHlsZT0nYnJpZ2h0X2N5YW4nKQogICAgdGFibGUuYWRkX2NvbHVtbignQ3JlYXRlZCcsIHN0eWxlPSdkaW0nKQogICAgdGFibGUuYWRkX2NvbHVtbignU2NvcGVzJywgc3R5bGU9J2JyaWdodF93aGl0ZScpCiAgICB0YWJsZS5hZGRfY29sdW1uKCdTdGF0dXMnLCBqdXN0aWZ5PSdjZW50ZXInKQoKICAgIGZvciByb3cgaW4gX2tleV9yb3dzKCk6CiAgICAgICAgdGFibGUuYWRkX3Jvdygqcm93KQoKCiAgICBjb25zb2xlLnByaW50KCkKICAgIGNvbnNvbGUucHJpbnQodGFibGUpCiAgICBjb25zb2xlLnByaW50KCkKICAgIHByaW50X3dhcm5pbmcoJ1N0b3JlIHNlY3JldHMgaW4gYSBwYXNzd29yZCBtYW5hZ2VyIOKAlCBrZXlzIGFyZSBzaG93biBvbmNlIGF0IGNyZWF0aW9uLicpCiAgICBwcmludF9pbmZvKCdSb3RhdGUga2V5cyBldmVyeSA5MCBkYXlzOyBvbGQga2V5cyBlbnRlciBhIDI0aCBncmFjZSBwZXJpb2QuJykKCgpkZWYgYWN0aW9uX2NoYWluc190b2tlbnMoY2ZnOiBkaWN0KToKICAgICIiIlNob3cgZW5hYmxlZCBuZXR3b3JrcywgdG9rZW5zIGFuZCBjb25maXJtYXRpb24gcG9saWN5LiIiIgogICAgY29uc29sZS5wcmludCgpCiAgICB0YWJsZSA9IFRhYmxlKAogICAgICAgIHNob3dfaGVhZGVyPVRydWUsCiAgICAgICAgaGVhZGVyX3N0eWxlPSJib2xkIGJyaWdodF9ncmVlbiIsCiAgICAgICAgYm9yZGVyX3N0eWxlPSJncmVlbiIsCiAgICAgICAgYm94PWJveC5ST1VOREVELAogICAgICAgIHRpdGxlPSJbYm9sZCBicmlnaHRfZ3JlZW5dICBDSEFJTlMgJiBUT0tFTlMgIFsvXSIsCiAgICApCiAgICB0YWJsZS5hZGRfY29sdW1uKCdDaGFpbicsIHN0eWxlPSdicmlnaHRfY3lhbicpCiAgICB0YWJsZS5hZGRfY29sdW1uKCdUb2tlbnMnLCBzdHlsZT0neWVsbG93JykKICAgIHRhYmxlLmFkZF9jb2x1bW4oJ0NvbmZzJywganVzdGlmeT0nY2VudGVyJywgc3R5bGU9J2RpbScpCiAgICB0YWJsZS5hZGRfY29sdW1uKCdSUEMnLCBzdHlsZT0nZGltJykKICAgIHRhYmxlLmFkZF9jb2x1bW4oJ1N0YXR1cycsIGp1c3RpZnk9J2NlbnRlcicpCgogICAgZm9yIHJvdyBpbiBfY2hhaW5fcm93cyhjZmcpOgogICAgICAgIHRhYmxlLmFkZF9yb3coKnJvdykKCgogICAgY29uc29sZS5wcmludCgpCiAgICBjb25zb2xlLnByaW50KHRhYmxlKQogICAgY29uc29sZS5wcmludCgpCiAgICBwcmludF9pbmZvKCdFZGl0IGNoYWluIGVuZHBvaW50cyBhbmQgdG9rZW5zIGluIGNvbmZpZy5qc29uIOKGkiBjaGFpbnMgLyB0b2tlbnMuJykKCgpfX2FsbF9fID0gWydhY3Rpb25fY3JlYXRlX2ludm9pY2UnLAogJ2FjdGlvbl9wYXltZW50X2xpbmtzJywKICdhY3Rpb25fd2ViaG9va3MnLAogJ2FjdGlvbl94NDAyX3BheXdhbGwnLAogJ2FjdGlvbl9zZXR0bGVtZW50X21vbml0b3InLAogJ2FjdGlvbl9hcGlfa2V5cycsCiAnYWN0aW9uX2NoYWluc190b2tlbnMnXQo=
+# -*- coding: utf-8 -*-
+"""Bot actions for Stablecoin Payment Gateway — invoicing, payment links, webhooks, x402 paywalls, settlement monitoring and key management.
+
+Realistic simulation layer with Rich output.
+"""
+
+import random
+import time
+from datetime import datetime
+
+from rich.table import Table
+from rich.panel import Panel
+from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn
+from rich import box
+
+from pipeline.ui import (
+    console,
+    print_info,
+    print_success,
+    print_warning,
+    print_error,
+    separator,
+)
+
+
+_CHAINS = [
+    ("Ethereum", "ETH", 12), ("Base", "ETH", 12), ("BNB Chain", "BNB", 15),
+    ("Polygon", "POL", 64), ("Arbitrum", "ETH", 12), ("Tron", "TRX", 19),
+    ("Solana", "SOL", 32), ("TON", "TON", 12),
+]
+
+_TOKENS = [("USDC", 6), ("USDT", 6), ("PYUSD", 6), ("DAI", 18)]
+
+_EVENTS = [
+    "invoice.created", "invoice.paid", "invoice.settled",
+    "invoice.expired", "invoice.underpaid", "payout.completed",
+]
+
+_SCOPES = ["invoices:write", "invoices:read", "links:write", "webhooks:read", "reports:read"]
+
+
+def _random_address() -> str:
+    return f"0x{random.randbytes(20).hex()}"
+
+
+def _invoice_id() -> str:
+    return f"inv_{random.randbytes(8).hex()}"
+
+
+def _link_slug() -> str:
+    return f"pay_{random.randbytes(5).hex()}"
+
+
+def _amount() -> str:
+    return f"{random.uniform(5, 2500):,.2f}"
+
+
+def _state_badge(state: str) -> str:
+    colors = {
+        "pending": "yellow", "confirming": "bright_blue",
+        "settled": "bright_green", "expired": "dim",
+    }
+    return f"[{colors.get(state, 'white')}]{state}[/{colors.get(state, 'white')}]"
+
+
+def _invoice_card(cfg):
+    chain = random.choice(_CHAINS)
+    token = random.choice(_TOKENS)
+    inv = _invoice_id()
+    amt = _amount()
+    addr = _random_address()
+    ttl = cfg.get("invoice", {}).get("ttl_minutes", 30)
+    return [
+        ("Invoice ID", inv),
+        ("Amount", f"{amt} {token[0]}"),
+        ("Chain", chain[0]),
+        ("Deposit Address", addr),
+        ("Confirmations", f"0/{chain[2]}"),
+        ("Expires In", f"{ttl} min"),
+        ("Checkout URL", f"https://pay.example.com/i/{inv}"),
+    ]
+
+
+def _invoice_row():
+    chain = random.choice(_CHAINS)
+    token = random.choice(_TOKENS)
+    state = random.choice(["pending", "confirming", "settled", "settled", "expired"])
+    confs = chain[2] if state == "settled" else (0 if state in ("pending", "expired") else random.randint(1, chain[2] - 1))
+    return (_invoice_id(), chain[0], token[0], _amount(),
+            f"{confs}/{chain[2]}", _state_badge(state))
+
+
+def _link_row():
+    clicks = random.randint(5, 400)
+    conv = random.randint(0, clicks)
+    state = random.choice(["active", "active", "active", "disabled"])
+    badge = "[bright_green]active[/]" if state == "active" else "[dim]disabled[/]"
+    return (f"https://pay.example.com/l/{_link_slug()}",
+            f"{_amount()} USDC", str(clicks), str(conv), badge)
+
+
+def _webhook_rows(cfg):
+    out = []
+    for event in _EVENTS:
+        attempts = random.randint(1, 3)
+        status = "[bright_green]200 OK[/]" if random.random() > 0.12 else "[red]Timeout[/]"
+        latency = f"{random.randint(60, 480)} ms"
+        out.append((event, f"https://merchant.example.com/hooks/{event.split('.')[0]}",
+                    str(attempts), status, latency))
+    return out
+
+
+def _key_rows():
+    out = []
+    for i in range(random.randint(3, 5)):
+        kid = f"mk_live_{random.randbytes(6).hex()}"
+        created = "2026-0%d-%02d" % (random.randint(1, 9), random.randint(1, 28))
+        scopes = ", ".join(random.sample(_SCOPES, random.randint(2, 4)))
+        status = "[bright_green]Active[/]" if i else "[dim]Rotated[/]"
+        out.append((kid, created, scopes, status))
+    return out
+
+
+def _x402_rows(cfg):
+    x = cfg.get("x402", {})
+    routes = x.get("paywall_routes", ["/api/premium"])
+    return [
+        ("Facilitator", x.get("facilitator_url", "https://x402.org/facilitator"), "Verification & settlement"),
+        ("Scheme", x.get("scheme", "exact"), "exact / upto / batch-settlement"),
+        ("Paywall Routes", ", ".join(routes), "402-gated endpoints"),
+        ("Payment Header", "X-PAYMENT", "Client → server payload"),
+        ("Response Header", "PAYMENT-RESPONSE", "Settlement receipt"),
+        ("Networks", "base, ethereum, polygon, arbitrum", "Server-controlled allowlist"),
+    ]
+
+
+def _chain_rows(cfg):
+    out = []
+    chains = cfg.get("chains", {})
+    for name, native, confs in _CHAINS:
+        key = name.lower().replace(" ", "_").replace("bnb_chain", "bsc")
+        ccfg = chains.get(key, {})
+        enabled = ccfg.get("enabled", True)
+        rpc = ccfg.get("rpc", "public RPC")
+        rpc = rpc[:28] + "..." if len(rpc) > 31 else rpc
+        status = "[bright_green]Enabled[/]" if enabled else "[dim]Disabled[/]"
+        tokens = ", ".join(t for t, _ in _TOKENS[:2]) if enabled else "—"
+        out.append((name, tokens, str(confs), rpc, status))
+    return out
+
+
+def _export_rows(cfg):
+    exp = cfg.get("export", {})
+    fmt = exp.get("default_format", "csv")
+    out_dir = exp.get("output_directory", "./exports")
+    fname = "settlements_%s.%s" % (datetime.now().strftime("%Y%m%d_%H%M%S"), fmt)
+    return [
+        ("Filename", fname),
+        ("Format", fmt.upper()),
+        ("Invoices", str(random.randint(40, 900))),
+        ("Size", f"{random.randint(12, 480)} KB"),
+        ("Path", f"{out_dir}/{fname}"),
+    ]
+
+
+def action_create_invoice(cfg: dict):
+    """Create a fixed-amount invoice with a unique deposit address (simulation)."""
+    console.print()
+    print_info('Merchant: demo store · Mode: live')
+    print_info('Non-custodial: funds settle directly to your wallet')
+    separator()
+    with Progress(
+        SpinnerColumn(style="bright_green"),
+        TextColumn("[bright_green]{task.description}"),
+        BarColumn(bar_width=40, style="green", complete_style="bright_green"),
+        console=console,
+    ) as progress:
+        task = progress.add_task('Creating invoice...', total=4)
+        for step_label in ['Deriving unique deposit address (xpub)...',
+         'Registering invoice on the gateway...',
+         'Starting confirmation watcher...',
+         'Building checkout page & QR payload...']:
+            progress.update(task, description=step_label)
+            time.sleep(0.35)
+            progress.advance(task)
+
+    table = Table(
+        show_header=True,
+        header_style="bold bright_green",
+        border_style="green",
+        box=box.ROUNDED,
+        title="[bold bright_green]  INVOICE  [/]",
+    )
+    table.add_column('Property', style='bright_blue')
+    table.add_column('Value', justify='right', style='bright_white')
+
+    for row in _invoice_card(cfg):
+        table.add_row(*row)
+
+
+    console.print()
+    console.print(table)
+    console.print()
+    print_success('Invoice created. Watcher is live.')
+    print_info('Customer pays to the deposit address — webhook fires on confirmation.')
+
+
+def action_payment_links(cfg: dict):
+    """List shareable payment links with conversion stats (simulation)."""
+    console.print()
+    count = random.randint(4, 7)
+    print_info('Payment links are reusable checkout URLs for products or donations')
+    separator()
+    with Progress(
+        SpinnerColumn(style="bright_green"),
+        TextColumn("[bright_green]{task.description}"),
+        BarColumn(bar_width=40, style="green", complete_style="bright_green"),
+        console=console,
+    ) as progress:
+        task = progress.add_task('Loading links...', total=2)
+        for step_label in ['Loading payment links...', 'Aggregating click & conversion stats...']:
+            progress.update(task, description=step_label)
+            time.sleep(0.4)
+            progress.advance(task)
+
+    table = Table(
+        show_header=True,
+        header_style="bold bright_green",
+        border_style="green",
+        box=box.ROUNDED,
+        title="[bold bright_green]  PAYMENT LINKS  [/]",
+    )
+    table.add_column('URL', style='bright_cyan')
+    table.add_column('Amount', justify='right', style='bright_white')
+    table.add_column('Clicks', justify='right', style='dim')
+    table.add_column('Paid', justify='right', style='bright_green')
+    table.add_column('Status', justify='center')
+
+    for row in [_link_row() for _ in range(count)]:
+        table.add_row(*row)
+
+
+    console.print()
+    console.print(table)
+    console.print()
+    print_success('Links loaded.')
+    print_info('Create links programmatically via POST /v1/links.')
+
+
+def action_webhooks(cfg: dict):
+    """Show webhook delivery status for recent events (simulation)."""
+    console.print()
+    print_info('All webhook payloads are HMAC-SHA256 signed (X-Signature-256 header)')
+    separator()
+    with Progress(
+        SpinnerColumn(style="bright_green"),
+        TextColumn("[bright_green]{task.description}"),
+        BarColumn(bar_width=40, style="green", complete_style="bright_green"),
+        console=console,
+    ) as progress:
+        task = progress.add_task('Checking deliveries...', total=3)
+        for step_label in ['Querying delivery log...', 'Verifying signatures...', 'Computing latencies...']:
+            progress.update(task, description=step_label)
+            time.sleep(0.35)
+            progress.advance(task)
+
+    table = Table(
+        show_header=True,
+        header_style="bold bright_green",
+        border_style="green",
+        box=box.ROUNDED,
+        title="[bold bright_green]  WEBHOOK DELIVERIES  [/]",
+    )
+    table.add_column('Event', style='bright_cyan')
+    table.add_column('Endpoint', style='dim')
+    table.add_column('Attempts', justify='center', style='yellow')
+    table.add_column('Status', justify='center')
+    table.add_column('Latency', justify='right', style='yellow')
+
+    for row in _webhook_rows(cfg):
+        table.add_row(*row)
+
+
+    console.print()
+    console.print(table)
+    console.print()
+    print_info('Failed deliveries retry with backoff: 5s → 30s → 120s.')
+    print_info('Configure the endpoint in config.json → merchant.callback_url.')
+
+
+def action_x402_paywall(cfg: dict):
+    """Show x402 paywall configuration (HTTP 402 pay-per-request)."""
+    console.print()
+    table = Table(
+        show_header=True,
+        header_style="bold bright_green",
+        border_style="green",
+        box=box.ROUNDED,
+        title="[bold bright_green]  X402 PAYWALL  [/]",
+    )
+    table.add_column('Parameter', style='bright_cyan')
+    table.add_column('Value', justify='right', style='bright_white')
+    table.add_column('Notes', style='dim')
+
+    for row in _x402_rows(cfg):
+        table.add_row(*row)
+
+
+    console.print()
+    console.print(table)
+    console.print()
+    print_info('Unpaid requests get HTTP 402 with accepted networks & assets.')
+    print_info('Paid requests carry X-PAYMENT and are verified via the facilitator.')
+
+
+def action_settlement_monitor(cfg: dict):
+    """Monitor invoice confirmations and settlement status (simulation)."""
+    console.print()
+    count = random.randint(6, 10)
+    print_info('Watching mempool and confirmed blocks across enabled chains')
+    separator()
+    with Progress(
+        SpinnerColumn(style="bright_blue"),
+        TextColumn("[bright_blue]{task.description}"),
+        BarColumn(bar_width=40, style="blue", complete_style="bright_green"),
+        console=console,
+    ) as progress:
+        task = progress.add_task('Polling watchers...', total=3)
+        for step_label in ['Polling chain watchers...',
+         'Reconciling confirmations...',
+         'Updating settlement states...']:
+            progress.update(task, description=step_label)
+            time.sleep(0.4)
+            progress.advance(task)
+
+    table = Table(
+        show_header=True,
+        header_style="bold bright_blue",
+        border_style="blue",
+        box=box.ROUNDED,
+        title="[bold bright_blue]  SETTLEMENTS  [/]",
+    )
+    table.add_column('Invoice', style='bright_cyan')
+    table.add_column('Chain', style='bright_blue')
+    table.add_column('Token', style='yellow')
+    table.add_column('Amount', justify='right', style='bright_white')
+    table.add_column('Confs', justify='center', style='dim')
+    table.add_column('State', justify='center')
+
+    for row in [_invoice_row() for _ in range(count)]:
+        table.add_row(*row)
+
+
+    console.print()
+    console.print(table)
+    console.print()
+    print_success('Settlement states reconciled.')
+    print_info('Settled invoices trigger invoice.settled webhooks automatically.')
+
+
+def action_api_keys(cfg: dict):
+    """Issue and rotate merchant REST API credentials (simulation)."""
+    console.print()
+    print_info('Merchant API keys authenticate REST calls (Authorization: Bearer)')
+    separator()
+    with Progress(
+        SpinnerColumn(style="bright_yellow"),
+        TextColumn("[bright_yellow]{task.description}"),
+        BarColumn(bar_width=40, style="yellow", complete_style="bright_green"),
+        console=console,
+    ) as progress:
+        task = progress.add_task('Rotating keys...', total=3)
+        for step_label in ['Loading key registry...', 'Checking rotation policy...', 'Auditing scopes...']:
+            progress.update(task, description=step_label)
+            time.sleep(0.35)
+            progress.advance(task)
+
+    table = Table(
+        show_header=True,
+        header_style="bold bright_yellow",
+        border_style="yellow",
+        box=box.ROUNDED,
+        title="[bold bright_yellow]  MERCHANT API KEYS  [/]",
+    )
+    table.add_column('Key ID', style='bright_cyan')
+    table.add_column('Created', style='dim')
+    table.add_column('Scopes', style='bright_white')
+    table.add_column('Status', justify='center')
+
+    for row in _key_rows():
+        table.add_row(*row)
+
+
+    console.print()
+    console.print(table)
+    console.print()
+    print_warning('Store secrets in a password manager — keys are shown once at creation.')
+    print_info('Rotate keys every 90 days; old keys enter a 24h grace period.')
+
+
+def action_chains_tokens(cfg: dict):
+    """Show enabled networks, tokens and confirmation policy."""
+    console.print()
+    table = Table(
+        show_header=True,
+        header_style="bold bright_green",
+        border_style="green",
+        box=box.ROUNDED,
+        title="[bold bright_green]  CHAINS & TOKENS  [/]",
+    )
+    table.add_column('Chain', style='bright_cyan')
+    table.add_column('Tokens', style='yellow')
+    table.add_column('Confs', justify='center', style='dim')
+    table.add_column('RPC', style='dim')
+    table.add_column('Status', justify='center')
+
+    for row in _chain_rows(cfg):
+        table.add_row(*row)
+
+
+    console.print()
+    console.print(table)
+    console.print()
+    print_info('Edit chain endpoints and tokens in config.json → chains / tokens.')
+
+
+__all__ = ['action_create_invoice',
+ 'action_payment_links',
+ 'action_webhooks',
+ 'action_x402_paywall',
+ 'action_settlement_monitor',
+ 'action_api_keys',
+ 'action_chains_tokens']

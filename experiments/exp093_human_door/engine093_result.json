@@ -1,1 +1,129 @@
-ewogImNlbGxzIjogewogICJvcGVuIjogewogICAic2tldyI6IDAuNTI3MjEyNTc3MzAwNTAxLAogICAiYWxpdmUiOiAxLjAsCiAgICJvcGVuX3JhdGUiOiAxLjAKICB9LAogICJjbG9zZWQiOiB7CiAgICJza2V3IjogMC43ODIwMTQxNDA3NzE1NTUzLAogICAiYWxpdmUiOiAxLjAsCiAgICJvcGVuX3JhdGUiOiAwLjAKICB9LAogICJyYW5kX3AxMCI6IHsKICAgInNrZXciOiAwLjUyNzM1MDc1MjgzNzE1NzMsCiAgICJhbGl2ZSI6IDEuMCwKICAgIm9wZW5fcmF0ZSI6IDAuOTA1MDAwMDAwMDAwMDAwMQogIH0sCiAgInJhbmRfcDMwIjogewogICAic2tldyI6IDAuNTI3MTYxNDk5NTE4NDYzNiwKICAgImFsaXZlIjogMS4wLAogICAib3Blbl9yYXRlIjogMC43MDMzMzMzMzMzMzMzMzMzCiAgfSwKICAicmFuZF9wNTAiOiB7CiAgICJza2V3IjogMC41MjUzMDYyODYzNTA2Mzk5LAogICAiYWxpdmUiOiAxLjAsCiAgICJvcGVuX3JhdGUiOiAwLjUwMzMzMzMzMzMzMzMzMzMKICB9LAogICJyYW5kX3A3MCI6IHsKICAgInNrZXciOiAwLjUxNjY3OTcwMzA2NjI5NjIsCiAgICJhbGl2ZSI6IDEuMCwKICAgIm9wZW5fcmF0ZSI6IDAuMzE1CiAgfSwKICAicmFuZF9wOTAiOiB7CiAgICJza2V3IjogMC41MTAyNTI4OTc5Njc4NzYsCiAgICJhbGl2ZSI6IDEuMCwKICAgIm9wZW5fcmF0ZSI6IDAuMTE2NjY2NjY2NjY2NjY2NjgKICB9LAogICJwZXJpb18yMCI6IHsKICAgInNrZXciOiAwLjU0MzU2MjEzMDM2MTE2NDYsCiAgICJhbGl2ZSI6IDEuMCwKICAgIm9wZW5fcmF0ZSI6IDAuNQogIH0sCiAgInBlcmlvXzgwIjogewogICAic2tldyI6IDAuNzE4MjY1MDQyODI4MTgxLAogICAiYWxpdmUiOiAxLjAsCiAgICJvcGVuX3JhdGUiOiAwLjUzMzMzMzMzMzMzMzMzMzMKICB9LAogICJwZXJpb18xNjAiOiB7CiAgICJza2V3IjogMC41MTgzMTQyMzY2MTQxMDMxLAogICAiYWxpdmUiOiAxLjAsCiAgICJvcGVuX3JhdGUiOiAwLjUzMzMzMzMzMzMzMzMzMzMKICB9CiB9LAogInRlc3RzIjogewogICJIMSDpmo/mnLrkuK3mlq0gdnMg56iz5a6a5byAIjogewogICAiZGlmZiI6IC0wLjAwMTkwNjI5MDk0OTg2MTEsCiAgICJjaSI6IFsKICAgIC0wLjAwNjkzMTc2Njc1MjA4MjM1NCwKICAgIDAuMDAzMDE0NzQ4NDYxMTcxMTE5MwogICBdLAogICAic2lnIjogZmFsc2UsCiAgICJuIjogNjQKICB9LAogICJIMiDlkajmnJ8gdnMg6ZqP5py6KOWQjOW8gOeOhykiOiB7CiAgICJkaWZmIjogMC4wMTgyNTU4NDQwMTA1MjQ3MDYsCiAgICJjaSI6IFsKICAgIDAuMDEwMzM4ODczOTI2ODIzNTA3LAogICAgMC4wMjU4NjY0NTU2NjgzODQ0NjYKICAgXSwKICAgInNpZyI6IHRydWUsCiAgICJuIjogNjQKICB9LAogICJIMyDnqLPlrprlhbMgdnMg56iz5a6a5byAIjogewogICAiZGlmZiI6IDAuMjU0ODAxNTYzNDcxMDU0MiwKICAgImNpIjogWwogICAgMC4yMzg3OTQ0NTgxMDI5MDE2MiwKICAgIDAuMjcwNDA0MTE0MjgyOTk5NAogICBdLAogICAic2lnIjogdHJ1ZSwKICAgIm4iOiA2NAogIH0KIH0sCiAiZG9zZSI6IFsKICB7CiAgICJwIjogMC4wLAogICAic2tldyI6IDAuNTI3MjEyNTc3MzAwNTAxLAogICAiYWxpdmUiOiAxLjAKICB9LAogIHsKICAgInAiOiAwLjEsCiAgICJza2V3IjogMC41MjczNTA3NTI4MzcxNTczLAogICAiYWxpdmUiOiAxLjAKICB9LAogIHsKICAgInAiOiAwLjMsCiAgICJza2V3IjogMC41MjcxNjE0OTk1MTg0NjM2LAogICAiYWxpdmUiOiAxLjAKICB9LAogIHsKICAgInAiOiAwLjUsCiAgICJza2V3IjogMC41MjUzMDYyODYzNTA2Mzk5LAogICAiYWxpdmUiOiAxLjAKICB9LAogIHsKICAgInAiOiAwLjcsCiAgICJza2V3IjogMC41MTY2Nzk3MDMwNjYyOTYyLAogICAiYWxpdmUiOiAxLjAKICB9LAogIHsKICAgInAiOiAwLjksCiAgICJza2V3IjogMC41MTAyNTI4OTc5Njc4NzYsCiAgICJhbGl2ZSI6IDEuMAogIH0sCiAgewogICAicCI6IDEuMCwKICAgInNrZXciOiAwLjc4MjAxNDE0MDc3MTU1NTMsCiAgICJhbGl2ZSI6IDEuMAogIH0KIF0sCiAic3BlYXJtYW5fcmhvIjogMC4yNjkzMDA1MTgyMjU1NDk0LAogInBhcmFtcyI6IHsKICAiTiI6IDY0LAogICJTVEVQUyI6IDYwMCwKICAiS1NBIjogMC4zNSwKICAiS0FDVCI6IDAuMDUsCiAgIkUwIjogMC45NSwKICAiQkFTQUwiOiAwLjAwMQogfQp9
+{
+ "cells": {
+  "open": {
+   "skew": 0.527212577300501,
+   "alive": 1.0,
+   "open_rate": 1.0
+  },
+  "closed": {
+   "skew": 0.7820141407715553,
+   "alive": 1.0,
+   "open_rate": 0.0
+  },
+  "rand_p10": {
+   "skew": 0.5273507528371573,
+   "alive": 1.0,
+   "open_rate": 0.9050000000000001
+  },
+  "rand_p30": {
+   "skew": 0.5271614995184636,
+   "alive": 1.0,
+   "open_rate": 0.7033333333333333
+  },
+  "rand_p50": {
+   "skew": 0.5253062863506399,
+   "alive": 1.0,
+   "open_rate": 0.5033333333333333
+  },
+  "rand_p70": {
+   "skew": 0.5166797030662962,
+   "alive": 1.0,
+   "open_rate": 0.315
+  },
+  "rand_p90": {
+   "skew": 0.510252897967876,
+   "alive": 1.0,
+   "open_rate": 0.11666666666666668
+  },
+  "perio_20": {
+   "skew": 0.5435621303611646,
+   "alive": 1.0,
+   "open_rate": 0.5
+  },
+  "perio_80": {
+   "skew": 0.718265042828181,
+   "alive": 1.0,
+   "open_rate": 0.5333333333333333
+  },
+  "perio_160": {
+   "skew": 0.5183142366141031,
+   "alive": 1.0,
+   "open_rate": 0.5333333333333333
+  }
+ },
+ "tests": {
+  "H1 随机中断 vs 稳定开": {
+   "diff": -0.0019062909498611,
+   "ci": [
+    -0.006931766752082354,
+    0.0030147484611711193
+   ],
+   "sig": false,
+   "n": 64
+  },
+  "H2 周期 vs 随机(同开率)": {
+   "diff": 0.018255844010524706,
+   "ci": [
+    0.010338873926823507,
+    0.025866455668384466
+   ],
+   "sig": true,
+   "n": 64
+  },
+  "H3 稳定关 vs 稳定开": {
+   "diff": 0.2548015634710542,
+   "ci": [
+    0.23879445810290162,
+    0.2704041142829994
+   ],
+   "sig": true,
+   "n": 64
+  }
+ },
+ "dose": [
+  {
+   "p": 0.0,
+   "skew": 0.527212577300501,
+   "alive": 1.0
+  },
+  {
+   "p": 0.1,
+   "skew": 0.5273507528371573,
+   "alive": 1.0
+  },
+  {
+   "p": 0.3,
+   "skew": 0.5271614995184636,
+   "alive": 1.0
+  },
+  {
+   "p": 0.5,
+   "skew": 0.5253062863506399,
+   "alive": 1.0
+  },
+  {
+   "p": 0.7,
+   "skew": 0.5166797030662962,
+   "alive": 1.0
+  },
+  {
+   "p": 0.9,
+   "skew": 0.510252897967876,
+   "alive": 1.0
+  },
+  {
+   "p": 1.0,
+   "skew": 0.7820141407715553,
+   "alive": 1.0
+  }
+ ],
+ "spearman_rho": 0.2693005182255494,
+ "params": {
+  "N": 64,
+  "STEPS": 600,
+  "KSA": 0.35,
+  "KACT": 0.05,
+  "E0": 0.95,
+  "BASAL": 0.001
+ }
+}

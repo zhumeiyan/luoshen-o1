@@ -1,1 +1,121 @@
-JycnCiAgICBTdGF0aXN0aWNhbCB0ZXN0IG9mIGRpZmZlcmVuY2UgYnkgc2VxdWVudGlhbCBpbXBhY3Qgb24gZ29hbCBzY29yaW5nIGJ5IG9mZmVuc2UvZGVmZW5zZQonJycKCiMgJSUgU2V0dGluZ3MKaW1wb3J0IG9zCmltcG9ydCBwYW5kYXMgYXMgcGQKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBpdGVydG9vbHMKCmltcG9ydCBweW1jIGFzIHBtCmZyb20gc2NpcHkuc3RhdHMgaW1wb3J0IGtzXzJzYW1wCgppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBzZWFib3JuIGFzIHNucwojIFNhdmUgdGhlIHdvcmtpbmcgZGlyZWN0b3J5IGZvciByZXN1bHRzIHNhdmluZ3MKc3RyX2N3ZCA9IG9zLmdldGN3ZCgpCgojIEltcG9ydCBkYXRhCnRhYnAgPSBwZC5yZWFkX2NzdihzdHJfY3dkICsgJy9yZXN1bHQvdGFidWxhdGVkIC0gc2VxdWVuY2UuY3N2JykKCiMgQWRkaXRpb25hbCBkYXRhIHByb2Nlc3MKdGFicFsnY2F0ZWdvcnlfYmknXSA9IFsiYmxvY2tlZC1zaG90cyIgaWYgaXRlcj09J2Jsb2NrZWQtc2hvdCcgZWxzZSAnb3RoZXItc2hvdHMnIGZvciBpdGVyIGluIHRhYnBbJ2NhdGVnb3J5J11dCiMgJSUgKDEpIEtvbG1vZ29yb3YtU21pcm5vdiBUZXN0IGZvciB0d28tZ3JvdXAgdGVzdGluZ3MKaXRlcl9jYXRlZ29yeSA9IHRhYnAuY2F0ZWdvcnkudW5pcXVlKCkKaXRlcl9hZ2VudCAgICA9IHRhYnAuYWdlbnQudW5pcXVlKCkKCiMgR2VuZXJhdGUgYWxsIGNvbWJpbmF0aW9ucyAoQ2FydGVzaWFuIHByb2R1Y3QpLCB0aGVuIHVuaXF1ZSBwYWlycwpjb21iaW5hdGlvbnMgPSBsaXN0KGl0ZXJ0b29scy5wcm9kdWN0KGl0ZXJfY2F0ZWdvcnksIGl0ZXJfYWdlbnQpKQp1bmlxdWVfcGFpcnMgPSBsaXN0KGl0ZXJ0b29scy5jb21iaW5hdGlvbnMoY29tYmluYXRpb25zLCAyKSkKCmZpZywgYXhzID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9KDE2LDEzKSwgbnJvd3M9NCwgbmNvbHM9NCkKZmlnLnN1cHRpdGxlKCdFdmFsdWF0aW5nIHNlcXVlbnRpYWwgbGlrZWxpaG9vZCBvZiBnb2FsLXNjb3JpbmcgZm9yIHByZXZpb3VzIHNob3QtYXR0ZW1wdCBldmVudCcpCmF4cyA9IGF4cy5mbGF0dGVuKCkKCmZvciBjbnRfcGFpciwgaXRlcl9wYWlyIGluIGVudW1lcmF0ZSh1bmlxdWVfcGFpcnMpOgogICAgIyBnZXQgY3JpdGVyaWEgdmVjdG9ycwogICAgY2F0ZWdvcnlfYmFzZXMgPSB0YWJwLmxvY1sodGFicC5jYXRlZ29yeSA9PSBpdGVyX3BhaXJbMF1bMF0pICYgKHRhYnAuYWdlbnQgPT0gaXRlcl9wYWlyWzBdWzFdKSwgOl0KICAgIGNhdGVnb3J5X2FsdGVyID0gdGFicC5sb2NbKHRhYnAuY2F0ZWdvcnkgPT0gaXRlcl9wYWlyWzFdWzBdKSAmICh0YWJwLmFnZW50ID09IGl0ZXJfcGFpclsxXVsxXSksIDpdCgogICAgIyBQZXJmb3JtIHRoZSBLb2xtb2dvcm92LVNtaXJub3YgdGVzdAogICAga3Nfc3RhdCwgcF92YWx1ZSA9IGtzXzJzYW1wKGNhdGVnb3J5X2Jhc2VzWydwX2dhbWUnXSwgY2F0ZWdvcnlfYWx0ZXJbJ3BfZ2FtZSddKQoKICAgICNlQ0RGIHBsb3QKICAgICMgRW1waXJpY2FsIEN1bXVsYXRpdmUgRGlzdHJpYnV0aW9uIEZ1bmN0aW9uIChFQ0RGKSAKICAgIHNucy5lY2RmcGxvdCgKICAgICAgICBheD1heHNbY250X3BhaXJdLCAKICAgICAgICBkYXRhPXBkLmNvbmNhdChbY2F0ZWdvcnlfYmFzZXMsIGNhdGVnb3J5X2FsdGVyXSksIAogICAgICAgIHg9J3BfZ2FtZScsIGh1ZT0nU2VxdWVuY2UnLAogICAgICAgIHBhbGV0dGU9WycjZTYzOTQ2JywgJyMxZDM1NTcnXQogICAgKQogICAgIyBBZGQgdGV4dCB0byB0aGUgc3VicGxvdAogICAgYXhzW2NudF9wYWlyXS50ZXh0KAogICAgICAgIDAuMTUsIDAuNCwgCiAgICAgICAgZidLb2xtb2dvcm92LVNtaXJub3YgVGVzdCBcbiBUZXN0IFN0YXRpc3RpY3M6IHtucC5yb3VuZChrc19zdGF0LCAyKX0gXG4gcC12YWx1ZToge25wLnJvdW5kKHBfdmFsdWUsIDIpfScsIAogICAgICAgIHRyYW5zZm9ybT1heHNbY250X3BhaXJdLnRyYW5zQXhlcywgCiAgICAgICAgZm9udHNpemU9MTIsIGhhPSdsZWZ0JywgdmE9J3RvcCcKICAgICkKICAgIAogICAgYXhzW2NudF9wYWlyXS5zZXRfdGl0bGUoJycpCiAgICBheHNbY250X3BhaXJdLnNldF94bGFiZWwoJ1Byb2JhYmlsaXR5IG9mIEdvYWwgU2NvcmluZycpCiAgICBheHNbY250X3BhaXJdLnNldF95bGFiZWwoJ0VDREYnKQogICAgc25zLm1vdmVfbGVnZW5kKGF4c1tjbnRfcGFpcl0sICdsb3dlciBjZW50ZXInLCBiYm94X3RvX2FuY2hvcj0oMC41LCAxKSkKCmF4c1stMV0uYXhpcygnb2ZmJykKCnBsdC50aWdodF9sYXlvdXQoKQojIFNob3cgdGhlIHBsb3QKcGx0LnNhdmVmaWcoc3RyX2N3ZCArICcvcmVzdWx0L2ZpZ3VyZSAtIGVkYSAtIGh5cG90aGVzaXMgdGVzdCAtIEtTIGVDREYucG5nJywgZHBpPTYwMCkKCiMgJSUgKDIpIE11bHRpZ3JvdXAgZGlmZmVyZW5jZSB1c2luZyBCYXllc2lhbiBlc3RpbWF0aW9uIG9mIGRpZmZlcmVuY2UgaWluIGdyb3VwcwoKIyBGaWx0ZXIgdGhlIGRhdGEgZm9yIHRoZSBjYXRlZ29yaWVzCmNhdGVnb3JpZXMgPSB0YWJwWydjYXRlZ29yeSddLnVuaXF1ZSgpCmRhdGFfZGljdCA9IHtjYXRlZ29yeTogdGFicFt0YWJwWydjYXRlZ29yeSddID09IGNhdGVnb3J5XVsncF9nYW1lJ10udmFsdWVzIGZvciBjYXRlZ29yeSBpbiBjYXRlZ29yaWVzfQojICUlCiMgQmF5ZXNpYW4gbW9kZWwKCiMgRGVmaW5lIGFkLWhvYyBkaXN0cmlidXRpb24KIyBNYXh3ZWxsLUJvbHR6bWFubiBkaXN0cmlidXRpb24KZGVmIG1heHdlbGxfYm9sdHptYW5uX3BkZih4LCBsb2MsIHNjYWxlKToKICAgIHJldHVybiBucC5zcXJ0KDIvbnAucGkpICogKCh4IC0gbG9jKSoqMiAvIHNjYWxlKiozKSAqIG5wLmV4cCgtKCh4IC0gbG9jKSoqMikgLyAoMiAqIHNjYWxlKioyKSkKCmRlZiBtYXh3ZWxsX2JvbHR6bWFubl9sb2dwZGYoeCwgbG9jLCBzY2FsZSk6CiAgICByZXR1cm4gbnAubG9nKG5wLnNxcnQoMi9ucC5waSkpICsgMipucC5sb2coeCAtIGxvYykgLSAzKm5wLmxvZyhzY2FsZSkgLSAoKHggLSBsb2MpKioyKSAvICgyICogc2NhbGUqKjIpCgoKd2l0aCBwbS5Nb2RlbCgpIGFzIG1vZGVsOgogICAgIyBQcmlvcnMgZm9yIGdyb3VwIG1lYW5zCiAgICBtdXMgPSBwbS5Ob3JtYWwoJ211cycsIG11PTAsIHNpZ21hPTEsIHNoYXBlPWxlbihjYXRlZ29yaWVzKSkKICAgIAogICAgIyBQcmlvcnMgZm9yIGdyb3VwIHN0YW5kYXJkIGRldmlhdGlvbnMKICAgIHNpZ21hcyA9IHBtLkhhbGZOb3JtYWwoJ3NpZ21hcycsIHNpZ21hPTEsIHNoYXBlPWxlbihjYXRlZ29yaWVzKSkKCiAgICAjIFByaW9ycyBmb3IgdW5rbm93biBwYXJhbWV0ZXJzCiAgICBsb2MgPSBwbS5Ob3JtYWwoJ2xvYycsIG11PTAsIHNpZ21hPTEwKQogICAgc2NhbGUgPSBwbS5IYWxmTm9ybWFsKCdzY2FsZScsIHNpZ21hPTEwKQogICAgCiAgICAjIExpa2VsaWhvb2RzIGZvciBlYWNoIGdyb3VwCiAgICBsaWtlbGlob29kcyA9IHt9CiAgICBmb3IgaSwgY2F0ZWdvcnkgaW4gZW51bWVyYXRlKGNhdGVnb3JpZXMpOgogICAgICAgIGxpa2VsaWhvb2RzW2NhdGVnb3J5XSA9IHBtLk5vcm1hbChjYXRlZ29yeSwgbXU9bXVzW2ldLCBzaWdtYT1zaWdtYXNbaV0sIG9ic2VydmVkPWRhdGFfZGljdFtjYXRlZ29yeV0pCiAgICAKICAgICMgRGlmZmVyZW5jZXMgaW4gbWVhbnMKICAgIG1lYW5fZGlmZnMgPSBwbS5EZXRlcm1pbmlzdGljKCdtZWFuX2RpZmZzJywgbXVzWzosIE5vbmVdIC0gbXVzKQoKICAgICMgTGlrZWxpaG9vZCAoc2FtcGxpbmcgZGlzdHJpYnV0aW9uKSBvZiBvYnNlcnZhdGlvbnMKICAgIHkgPSBwbS5EZW5zaXR5RGlzdCgneScsIGxhbWJkYSB2YWx1ZTogbWF4d2VsbF9ib2x0em1hbm5fbG9ncGRmKHZhbHVlLCBsb2MsIHNjYWxlKSwgb2JzZXJ2ZWQ9ZGF0YSkKICAgIAogICAgIyBTYW1wbGluZwogICAgdHJhY2UgPSBwbS5zYW1wbGUoMjAwMCwgcmV0dXJuX2luZmVyZW5jZWRhdGE9VHJ1ZSkKCiMgU3VtbWFyeSBvZiB0aGUgcG9zdGVyaW9yIGRpc3RyaWJ1dGlvbgpzdW1tYXJ5ID0gcG0uc3VtbWFyeSh0cmFjZSwgaGRpX3Byb2I9MC45NSkKcHJpbnQoc3VtbWFyeSkKCiMgUGxvdCB0aGUgcG9zdGVyaW9yIGRpc3RyaWJ1dGlvbiBvZiB0aGUgZGlmZmVyZW5jZXMgaW4gbWVhbnMKcG0ucGxvdF9wb3N0ZXJpb3IodHJhY2UsIHZhcl9uYW1lcz1bJ21lYW5fZGlmZnMnXSkKcGx0LnRpdGxlKCdQb3N0ZXJpb3IgZGlzdHJpYnV0aW9uIG9mIHRoZSBkaWZmZXJlbmNlcyBpbiBtZWFucycpCnBsdC54bGFiZWwoJ0RpZmZlcmVuY2UgaW4gbWVhbnMnKQpwbHQuc2hvdygp
+'''
+    Statistical test of difference by sequential impact on goal scoring by offense/defense
+'''
+
+# %% Settings
+import os
+import pandas as pd
+import numpy as np
+import itertools
+
+import pymc as pm
+from scipy.stats import ks_2samp
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+# Save the working directory for results savings
+str_cwd = os.getcwd()
+
+# Import data
+tabp = pd.read_csv(str_cwd + '/result/tabulated - sequence.csv')
+
+# Additional data process
+tabp['category_bi'] = ["blocked-shots" if iter=='blocked-shot' else 'other-shots' for iter in tabp['category']]
+# %% (1) Kolmogorov-Smirnov Test for two-group testings
+iter_category = tabp.category.unique()
+iter_agent    = tabp.agent.unique()
+
+# Generate all combinations (Cartesian product), then unique pairs
+combinations = list(itertools.product(iter_category, iter_agent))
+unique_pairs = list(itertools.combinations(combinations, 2))
+
+fig, axs = plt.subplots(figsize=(16,13), nrows=4, ncols=4)
+fig.suptitle('Evaluating sequential likelihood of goal-scoring for previous shot-attempt event')
+axs = axs.flatten()
+
+for cnt_pair, iter_pair in enumerate(unique_pairs):
+    # get criteria vectors
+    category_bases = tabp.loc[(tabp.category == iter_pair[0][0]) & (tabp.agent == iter_pair[0][1]), :]
+    category_alter = tabp.loc[(tabp.category == iter_pair[1][0]) & (tabp.agent == iter_pair[1][1]), :]
+
+    # Perform the Kolmogorov-Smirnov test
+    ks_stat, p_value = ks_2samp(category_bases['p_game'], category_alter['p_game'])
+
+    #eCDF plot
+    # Empirical Cumulative Distribution Function (ECDF) 
+    sns.ecdfplot(
+        ax=axs[cnt_pair], 
+        data=pd.concat([category_bases, category_alter]), 
+        x='p_game', hue='Sequence',
+        palette=['#e63946', '#1d3557']
+    )
+    # Add text to the subplot
+    axs[cnt_pair].text(
+        0.15, 0.4, 
+        f'Kolmogorov-Smirnov Test \n Test Statistics: {np.round(ks_stat, 2)} \n p-value: {np.round(p_value, 2)}', 
+        transform=axs[cnt_pair].transAxes, 
+        fontsize=12, ha='left', va='top'
+    )
+    
+    axs[cnt_pair].set_title('')
+    axs[cnt_pair].set_xlabel('Probability of Goal Scoring')
+    axs[cnt_pair].set_ylabel('ECDF')
+    sns.move_legend(axs[cnt_pair], 'lower center', bbox_to_anchor=(0.5, 1))
+
+axs[-1].axis('off')
+
+plt.tight_layout()
+# Show the plot
+plt.savefig(str_cwd + '/result/figure - eda - hypothesis test - KS eCDF.png', dpi=600)
+
+# %% (2) Multigroup difference using Bayesian estimation of difference iin groups
+
+# Filter the data for the categories
+categories = tabp['category'].unique()
+data_dict = {category: tabp[tabp['category'] == category]['p_game'].values for category in categories}
+# %%
+# Bayesian model
+
+# Define ad-hoc distribution
+# Maxwell-Boltzmann distribution
+def maxwell_boltzmann_pdf(x, loc, scale):
+    return np.sqrt(2/np.pi) * ((x - loc)**2 / scale**3) * np.exp(-((x - loc)**2) / (2 * scale**2))
+
+def maxwell_boltzmann_logpdf(x, loc, scale):
+    return np.log(np.sqrt(2/np.pi)) + 2*np.log(x - loc) - 3*np.log(scale) - ((x - loc)**2) / (2 * scale**2)
+
+
+with pm.Model() as model:
+    # Priors for group means
+    mus = pm.Normal('mus', mu=0, sigma=1, shape=len(categories))
+    
+    # Priors for group standard deviations
+    sigmas = pm.HalfNormal('sigmas', sigma=1, shape=len(categories))
+
+    # Priors for unknown parameters
+    loc = pm.Normal('loc', mu=0, sigma=10)
+    scale = pm.HalfNormal('scale', sigma=10)
+    
+    # Likelihoods for each group
+    likelihoods = {}
+    for i, category in enumerate(categories):
+        likelihoods[category] = pm.Normal(category, mu=mus[i], sigma=sigmas[i], observed=data_dict[category])
+    
+    # Differences in means
+    mean_diffs = pm.Deterministic('mean_diffs', mus[:, None] - mus)
+
+    # Likelihood (sampling distribution) of observations
+    y = pm.DensityDist('y', lambda value: maxwell_boltzmann_logpdf(value, loc, scale), observed=data)
+    
+    # Sampling
+    trace = pm.sample(2000, return_inferencedata=True)
+
+# Summary of the posterior distribution
+summary = pm.summary(trace, hdi_prob=0.95)
+print(summary)
+
+# Plot the posterior distribution of the differences in means
+pm.plot_posterior(trace, var_names=['mean_diffs'])
+plt.title('Posterior distribution of the differences in means')
+plt.xlabel('Difference in means')
+plt.show()

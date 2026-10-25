@@ -1,1 +1,70 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiLmuLLmn5Pnu5PmnpzliLAgL2Rldi9mYjAg5bm256uL5Y2z5Zue6YeH6Ieq5qOA77yIMC4ycyDlkI4gZmJjb24g5Lya6KaG55uW5bem5LiK6KeS77yJIiIiCmltcG9ydCBqc29uLCBvcywgaGFzaGxpYgpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250ClcsSD0xMDI0LDc2OApGPSIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIgpkZWYgZm50KHMpOgogICAgdHJ5OiByZXR1cm4gSW1hZ2VGb250LnRydWV0eXBlKEYscykKICAgIGV4Y2VwdDogcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQoKZD1qc29uLmxvYWQob3BlbigncmVzdWx0X3MxLmpzb24nKSkKc3c9anNvbi5sb2FkKG9wZW4oJ3Jlc3VsdF9zd2VlcC5qc29uJykpCmhiPWpzb24ubG9hZChvcGVuKCdyZXN1bHRfaGFiLmpzb24nKSkKaHk9anNvbi5sb2FkKG9wZW4oJ3Jlc3VsdF9oeXBlci5qc29uJykpCgppbT1JbWFnZS5uZXcoJ1JHQicsKFcsSCksKDI1NSwyNTUsMjU1KSk7IGRyPUltYWdlRHJhdy5EcmF3KGltKQpkci5yZWN0YW5nbGUoWzAsMCxXLTEsSC0xXSxvdXRsaW5lPSgwLDAsMCksd2lkdGg9MykKeT0xNApkci50ZXh0KCgyNCx5KSwiZXhwMTU4IOeXm+iniSBOT0NJQ0VQVElPTiIsZm9udD1mbnQoMzQpLGZpbGw9KDAsMCwwKSk7IHkrPTUwCmRyLnRleHQoKDI0LHkpLCLmhJ/lrpjph4zllK/kuIAg5LiN5oOz5pyJ5L2G5LiN6IO95rKh5pyJIOeahOmCo+S4gOexuyIsZm9udD1mbnQoMjQpLGZpbGw9KDgwLDgwLDgwKSk7IHkrPTQwCmRyLmxpbmUoWzI0LHksVy0yNCx5XSxmaWxsPSgwLDAsMCksd2lkdGg9Mik7IHkrPTE2Cgpkci50ZXh0KCgyNCx5KSwiUzEg5Zub6IeCIOS8oOaEn+WZqOWcqCB2cyDnl5vop4npqbHliqjooYzkuLoiLGZvbnQ9Zm50KDI1KSxmaWxsPSgwLDAsMCkpOyB5Kz0zNApmb3IgayxsYWIgaW4gWygnbm9ybWFsJywn55eb6KeJIOaKouWNoCcpLCgncXVldWUnLCfmjpLpmJ8g5LiN5oqi5Y2gJyksKCdjaXBhJywn6K6w6LSmIOS4jeS/ricpLCgnbm9zZW5zb3InLCfml6DkvKDmhJ/lmagnKV06CiAgICB2PWRba10KICAgIGRyLnRleHQoKDM0LHkpLCIlLTE0cyBhbGl2ZSAlNS4yZiAgIGdhaW4gJTUuMmYgICBjYXNjYWRlICU0LjFmIiUobGFiLHZbJ2FsaXZlX21lYW4nXSx2WydnYWluX21lYW4nXSx2WydjYXNjYWRlX21lYW4nXSksZm9udD1mbnQoMjMpLGZpbGw9KDAsMCwwKSk7IHkrPTI5CmRyLnRleHQoKDM0LHkpLCJjaXBh5LiObm9zZW5zb3LpgJDkvY3nm7jlkIwg5LiN6YCa5ZCR6KGM5Yqo55qE5L+h5oGv5Lu35YC85Li66Zu2Iixmb250PWZudCgyMiksZmlsbD0oMTgwLDAsMCkpOyB5Kz0zMgoKZHIudGV4dCgoMjQseSksIlMyIOe0p+i/q+aAp+ebuOWbviBub3JtYWwtcXVldWUg5a2Y5rS75beuIixmb250PWZudCgyNCksZmlsbD0oMCwwLDApKTsgeSs9MzQKeDA9MzAwCmRyLnRleHQoKDM0LHkpLCJkZWxheVxccCIsZm9udD1mbnQoMjIpLGZpbGw9KDAsMCwwKSkKZm9yIGoscCBpbiBlbnVtZXJhdGUoWzAuMiwwLjQsMC42XSk6CiAgICBkci50ZXh0KCh4MCtqKjEyMCx5KSwicD0lLjFmIiVwLGZvbnQ9Zm50KDIyKSxmaWxsPSgwLDAsMCkpCnkrPTMwCmZvciBjZCBpbiBbMiwxMl06CiAgICBkci50ZXh0KCgzNCx5KSwiZGVsYXk9JS0zZCIlY2QsZm9udD1mbnQoMjEpLGZpbGw9KDAsMCwwKSkKICAgIGZvciBqLHAgaW4gZW51bWVyYXRlKFswLjIsMC40LDAuNl0pOgogICAgICAgIGU9c3dbJ2NkJWRfcCUuMWYnJShjZCxwKV0KICAgICAgICB0PSIlKzUuMmYgJXMiJShlWydkX2FsaXZlJ10sJ1cnIGlmIGVbJ3dvcnRoJ10gZWxzZSAnLScpCiAgICAgICAgZHIudGV4dCgoeDAraioxMjAseSksdCxmb250PWZudCgyMSksZmlsbD0oMCwxNDAsMCkgaWYgZVsnd29ydGgnXSBlbHNlICgxMjAsMTIwLDEyMCkpCiAgICB5Kz0yNgpkci50ZXh0KCgzNCx5KSwiVyDku4Xlh7rnjrDlnKgg57Sn6L+rZGVsYXk8PTQg5oiWIOmrmOaNn+S8pHA+PTAuNiIsZm9udD1mbnQoMjEpLGZpbGw9KDE4MCwwLDApKTsgeSs9MzIKCmRyLnRleHQoKDI0LHkpLCJTMyDnnJ/lrp7kuaDmg6/ljJYg5oSf5a6YPS9wcm9j55yf5a6e6K+75Y+WIixmb250PWZudCgyNCksZmlsbD0oMCwwLDApKTsgeSs9MzQKZm9yIGssbGFiIGluIFsoJ2hhYml0Jywn5Lmg5oOv5YyWJyksKCdwYWluJywn5LiN5Y+v5Lmg5oOvJyldOgogICAgdj1oYltrXQogICAgZHIudGV4dCgoMzQseSksIiUtMTBzIGFsaXZlICU1LjJmIOajgOafpSAlNi4xZiDmvI/mo4AgJTUuMmYiJShsYWIsdlsnYWxpdmVfbWVhbiddLHZbJ2NoZWNrZWRfbWVhbiddLHZbJ21pc3NfbWVhbiddKSxmb250PWZudCgyMiksZmlsbD0oMCwwLDApKTsgeSs9MzAKZHIudGV4dCgoMzQseSksIuecgTMuNeWAjemHh+agt+W8gOmUgCDku6Pku7fmmK/lhajnga0iLGZvbnQ9Zm50KDIxKSxmaWxsPSgxODAsMCwwKSk7IHkrPTMwCgpkci50ZXh0KCgyNCx5KSwiUzQg6L+H5pWPPei1hOa6kOmHjeWIhumFjSDkuI3mmK/ov4fluqblj43lupQiLGZvbnQ9Zm50KDI0KSxmaWxsPSgwLDAsMCkpOyB5Kz0zNApmb3IgcCBpbiBbJzAuMycsJzAuNScsJzAuNyddOgogICAgYz1oeVsncCVzX2NvbnN0JyVwXTsgaD1oeVsncCVzX2h5cGVyJyVwXQogICAgZWM9Y1snY2hlY2tlZF9tZWFuJ10vbWF4KDAuNSxjWydhbGl2ZV9tZWFuJ10pOyBlaD1oWydjaGVja2VkX21lYW4nXS9tYXgoMC41LGhbJ2FsaXZlX21lYW4nXSkKICAgIGRyLnRleHQoKDM0LHkpLCJwPSVzIGNvbnN0ICUuMWYgIGh5cGVyICUuMWYgICVzIiUocCxlYyxlaCwn55yBJyBpZiBlaDxlYyBlbHNlICfkuo8nKSxmb250PWZudCgyMiksZmlsbD0oMCwwLDApKTsgeSs9MjgKCmFzc2VydCB5IDwgSC02MCwgIuWGheWuuei2iueVjCB5PSVkID4gJWQiICUgKHksIEgtNjApCmRyLmxpbmUoWzI0LEgtNTgsVy0yNCxILTU4XSxmaWxsPSgwLDAsMCksd2lkdGg9MikKZHIudGV4dCgoMjQsSC01MiksIlRPS0VOIEs3TTRRWCIsZm9udD1mbnQoMzApLGZpbGw9KDAsMCwwKSkKcHJpbnQoJ09LIGZpbmFsIHknLCB5LCAnPCcsIEgtNjAsICcgVE9LRU4gYXQnLCBILTUyKQppbS5zYXZlKCdyZW5kZXIxNTgucG5nJykKCnJhdz1pbS5jb252ZXJ0KCdSR0JBJykudG9ieXRlcygpCmFzc2VydCBsZW4ocmF3KT09VypIKjQsIGxlbihyYXcpCmZiPW9wZW4oJy9kZXYvZmIwJywnd2InKTsgZmIud3JpdGUocmF3KTsgZmIuZmx1c2goKTsgb3MuZnN5bmMoZmIuZmlsZW5vKCkpCmNhcD1vcGVuKCcvZGV2L2ZiMCcsJ3JiJykucmVhZChXKkgqNCkgICAjIOeri+WNs+WbnumHhwpwcmludCgnSURFTlRJQ0FMJywgY2FwPT1yYXcsICdyYXdfc2hhJywgaGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTJdLAogICAgICAnY2FwX3NoYScsIGhhc2hsaWIuc2hhMjU2KGNhcCkuaGV4ZGlnZXN0KClbOjEyXSkKSW1hZ2UuZnJvbWJ5dGVzKCdSR0JBJywoVyxIKSxjYXApLmNvbnZlcnQoJ1JHQicpLnNhdmUoJ2NhcHR1cmVkLnBuZycpCnByaW50KCdzYXZlZCBjYXB0dXJlZC5wbmcnKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""渲染结果到 /dev/fb0 并立即回采自检（0.2s 后 fbcon 会覆盖左上角）"""
+import json, os, hashlib
+from PIL import Image, ImageDraw, ImageFont
+W,H=1024,768
+F="/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+def fnt(s):
+    try: return ImageFont.truetype(F,s)
+    except: return ImageFont.load_default()
+
+d=json.load(open('result_s1.json'))
+sw=json.load(open('result_sweep.json'))
+hb=json.load(open('result_hab.json'))
+hy=json.load(open('result_hyper.json'))
+
+im=Image.new('RGB',(W,H),(255,255,255)); dr=ImageDraw.Draw(im)
+dr.rectangle([0,0,W-1,H-1],outline=(0,0,0),width=3)
+y=14
+dr.text((24,y),"exp158 痛觉 NOCICEPTION",font=fnt(34),fill=(0,0,0)); y+=50
+dr.text((24,y),"感官里唯一 不想有但不能没有 的那一类",font=fnt(24),fill=(80,80,80)); y+=40
+dr.line([24,y,W-24,y],fill=(0,0,0),width=2); y+=16
+
+dr.text((24,y),"S1 四臂 传感器在 vs 痛觉驱动行为",font=fnt(25),fill=(0,0,0)); y+=34
+for k,lab in [('normal','痛觉 抢占'),('queue','排队 不抢占'),('cipa','记账 不修'),('nosensor','无传感器')]:
+    v=d[k]
+    dr.text((34,y),"%-14s alive %5.2f   gain %5.2f   cascade %4.1f"%(lab,v['alive_mean'],v['gain_mean'],v['cascade_mean']),font=fnt(23),fill=(0,0,0)); y+=29
+dr.text((34,y),"cipa与nosensor逐位相同 不通向行动的信息价值为零",font=fnt(22),fill=(180,0,0)); y+=32
+
+dr.text((24,y),"S2 紧迫性相图 normal-queue 存活差",font=fnt(24),fill=(0,0,0)); y+=34
+x0=300
+dr.text((34,y),"delay\\p",font=fnt(22),fill=(0,0,0))
+for j,p in enumerate([0.2,0.4,0.6]):
+    dr.text((x0+j*120,y),"p=%.1f"%p,font=fnt(22),fill=(0,0,0))
+y+=30
+for cd in [2,12]:
+    dr.text((34,y),"delay=%-3d"%cd,font=fnt(21),fill=(0,0,0))
+    for j,p in enumerate([0.2,0.4,0.6]):
+        e=sw['cd%d_p%.1f'%(cd,p)]
+        t="%+5.2f %s"%(e['d_alive'],'W' if e['worth'] else '-')
+        dr.text((x0+j*120,y),t,font=fnt(21),fill=(0,140,0) if e['worth'] else (120,120,120))
+    y+=26
+dr.text((34,y),"W 仅出现在 紧迫delay<=4 或 高损伤p>=0.6",font=fnt(21),fill=(180,0,0)); y+=32
+
+dr.text((24,y),"S3 真实习惯化 感官=/proc真实读取",font=fnt(24),fill=(0,0,0)); y+=34
+for k,lab in [('habit','习惯化'),('pain','不可习惯')]:
+    v=hb[k]
+    dr.text((34,y),"%-10s alive %5.2f 检查 %6.1f 漏检 %5.2f"%(lab,v['alive_mean'],v['checked_mean'],v['miss_mean']),font=fnt(22),fill=(0,0,0)); y+=30
+dr.text((34,y),"省3.5倍采样开销 代价是全灭",font=fnt(21),fill=(180,0,0)); y+=30
+
+dr.text((24,y),"S4 过敏=资源重分配 不是过度反应",font=fnt(24),fill=(0,0,0)); y+=34
+for p in ['0.3','0.5','0.7']:
+    c=hy['p%s_const'%p]; h=hy['p%s_hyper'%p]
+    ec=c['checked_mean']/max(0.5,c['alive_mean']); eh=h['checked_mean']/max(0.5,h['alive_mean'])
+    dr.text((34,y),"p=%s const %.1f  hyper %.1f  %s"%(p,ec,eh,'省' if eh<ec else '亏'),font=fnt(22),fill=(0,0,0)); y+=28
+
+assert y < H-60, "内容越界 y=%d > %d" % (y, H-60)
+dr.line([24,H-58,W-24,H-58],fill=(0,0,0),width=2)
+dr.text((24,H-52),"TOKEN K7M4QX",font=fnt(30),fill=(0,0,0))
+print('OK final y', y, '<', H-60, ' TOKEN at', H-52)
+im.save('render158.png')
+
+raw=im.convert('RGBA').tobytes()
+assert len(raw)==W*H*4, len(raw)
+fb=open('/dev/fb0','wb'); fb.write(raw); fb.flush(); os.fsync(fb.fileno())
+cap=open('/dev/fb0','rb').read(W*H*4)   # 立即回采
+print('IDENTICAL', cap==raw, 'raw_sha', hashlib.sha256(raw).hexdigest()[:12],
+      'cap_sha', hashlib.sha256(cap).hexdigest()[:12])
+Image.frombytes('RGBA',(W,H),cap).convert('RGB').save('captured.png')
+print('saved captured.png')

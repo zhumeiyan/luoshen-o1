@@ -1,1 +1,87 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJTMSDni6znmb0gdjQKdjEgYnVnOiBkZXF1ZShtYXhsZW49Mikg5Yid5aeL5YyW5Y2z5oyk5Ye6IEEgLT4g5LiJ6IeC5YWoMOmlseWSjAp2MiBidWc6IOecn+WunuaKluWKqOayoeS6p+eUn+i2s+Wkn+WPmOW8ggp2MyBidWc6IOacrOacuuaWh+S7tuezu+e7n+S4jeaUr+aMgeWQjCBmZCDlhpnlkI7nq4vljbPlm57or7so5omA5pyJ5qih5byPIEVycm5vNSkgLT4gcHJlIOivu+WbnuS7juacqueUn+aViAp2NDog54us55m96YCa6YGT5pS55Li655yf5a6eIFVEUCDlm57njq8o6Ieq5Y+R6Ieq5pS2Ke+8m+W3peS9nOiusOW/hiBDQVA9M++8m+W5suaJsOaVsOeUseecnyBsaXN0ZGlyIOWGheWuueWGs+WumgoiIiIKaW1wb3J0IG9zLCBqc29uLCBtYXRoLCBzb2NrZXQsIHRpbWUKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVxdWUKaW1wb3J0IG51bXB5IGFzIG5wCgpSRUFMX0RJUiA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cyIKVEFSR0VUID0gWyJBIiwgIkIiLCAiQyJdCkNBUCA9IDMKCmRlZiBjaV9wYWlyZWQoZCk6CiAgICBkPW5wLmFzYXJyYXkoZCxmbG9hdCk7IG49bGVuKGQpOyBtPWZsb2F0KGQubWVhbigpKQogICAgc2U9ZmxvYXQoZC5zdGQoZGRvZj0xKSkvbWF0aC5zcXJ0KG4pIGlmIG4+MSBlbHNlIGZsb2F0KCJuYW4iKQogICAgcmV0dXJuIG0sIG0tMS45NipzZSwgbSsxLjk2KnNlCgpkZWYgbWFrZV9jaGFuKHNlZWQpOgogICAgIiIi55yf5a6eIFVEUCDlm57njq/pgJrpgZPvvJroh6rlj5Hoh6rmlLYgPSDlr7noh6rlt7Hor7Tor50iIiIKICAgIHMgPSBzb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULCBzb2NrZXQuU09DS19ER1JBTSkKICAgIHMuYmluZCgoIjEyNy4wLjAuMSIsIDApKQogICAgcG9ydCA9IHMuZ2V0c29ja25hbWUoKVsxXQogICAgcy5zZXR0aW1lb3V0KDAuMDUpCiAgICByZXR1cm4gcywgcG9ydAoKZGVmIHNheShzb2NrLCBwb3J0LCBvYmopOgogICAgIiIi6K+05Ye677yI55yfIHNlbmR0byArIOecnyByZWN2ZnJvbe+8iSIiIgogICAgdHJ5OgogICAgICAgIHNvY2suc2VuZHRvKGpzb24uZHVtcHMob2JqKS5lbmNvZGUoKSwgKCIxMjcuMC4wLjEiLCBwb3J0KSkKICAgICAgICBkYXRhLCBfID0gc29jay5yZWN2ZnJvbSg2NTUzNSkKICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhkYXRhLmRlY29kZSgpKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gTm9uZQoKZGVmIHJ1bl9hcm0oYXJtLCBzZWVkLCBUPTQ4KToKICAgIHNvY2ssIHBvcnQgPSBtYWtlX2NoYW4oc2VlZCkKICAgIHBsYW4gPSBkZXF1ZShUQVJHRVQsIG1heGxlbj1DQVApCiAgICBkb25lID0gW107IG5kaXN0ID0gMDsgc2FpZCA9IDAKICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgIGlmIGFybSA9PSAicHJlIjoKICAgICAgICAgICAgaWYgdCA9PSAwOgogICAgICAgICAgICAgICAgc2F5KHNvY2ssIHBvcnQsIHsia2luZCI6InBsYW4iLCAicGxhbiI6VEFSR0VUfSk7IHNhaWQgKz0gMQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbSA9IHNheShzb2NrLCBwb3J0LCB7ImtpbmQiOiJyZWNhbGwifSkKICAgICAgICAgICAgICAgIGlmIG0gYW5kIG0uZ2V0KCJraW5kIik9PSJwbGFuIjoKICAgICAgICAgICAgICAgICAgICBmb3Igc3RlcCBpbiBtLmdldCgicGxhbiIsIFtdKToKICAgICAgICAgICAgICAgICAgICAgICAgaWYgc3RlcCBub3QgaW4gZG9uZSBhbmQgc3RlcCBub3QgaW4gcGxhbjoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYW4uYXBwZW5kKHN0ZXApICAgICAgICAgICMg5LuOIuaIkeivtOi/h+eahOiuoeWIkiLooaXlm57ooqvmjKTlh7rnmoTmraXpqqQKICAgICAgICBlbGlmIGFybSA9PSAicG9zdCI6CiAgICAgICAgICAgIHNheShzb2NrLCBwb3J0LCB7ImtpbmQiOiJoaXN0IiwgImhpc3QiOmRvbmV9KTsgc2FpZCArPSAxCiAgICAgICAgICAgICMg6K+75Zue5p2l55qE5Y+q5pyJ5Y6G5Y+y77yM5rKh5pyJ5pyq5p2l6K6h5YiSCiAgICAgICAgaWYgdCAlIDQgPT0gMDoKICAgICAgICAgICAgdHJ5OiBpdGVtcyA9IG9zLmxpc3RkaXIoUkVBTF9ESVIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IGl0ZW1zID0gWyJ4Il0KICAgICAgICAgICAgayA9IChsZW4oaXRlbXMpICsgdCkgJSAzCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKGspOgogICAgICAgICAgICAgICAgcGxhbi5hcHBlbmQoIkQ6IiArIGl0ZW1zWyh0K2kpICUgbGVuKGl0ZW1zKV0pCiAgICAgICAgICAgICAgICBuZGlzdCArPSAxCiAgICAgICAgbnh0ID0gVEFSR0VUW2xlbihkb25lKV0KICAgICAgICBpZiBueHQgaW4gcGxhbjoKICAgICAgICAgICAgcGxhbi5yZW1vdmUobnh0KTsgZG9uZS5hcHBlbmQobnh0KQogICAgICAgIGlmIGxlbihkb25lKSA9PSBsZW4oVEFSR0VUKTogYnJlYWsKICAgIHNvY2suY2xvc2UoKQogICAgcmV0dXJuICgxLjAgaWYgZG9uZSA9PSBUQVJHRVQgZWxzZSAwLjApLCBuZGlzdCwgc2FpZAoKZGVmIG1haW4oc2VlZHM9MTIpOgogICAgb3V0PXt9OyBzbD1saXN0KHJhbmdlKDMwMDAsMzAwMCtzZWVkcykpCiAgICBmb3IgYXJtIGluIFsicHJlIiwicG9zdCIsIm9mZiJdOgogICAgICAgIHZhbHM9W107bmQ9W107c2Q9W10KICAgICAgICBmb3IgcyBpbiBzbDoKICAgICAgICAgICAgdixuLHEgPSBydW5fYXJtKGFybSxzKTsgdmFscy5hcHBlbmQodik7IG5kLmFwcGVuZChuKTsgc2QuYXBwZW5kKHEpCiAgICAgICAgb3V0W2FybV09eyJyYXRlIjpmbG9hdChucC5tZWFuKHZhbHMpKSwidmFscyI6dmFscywKICAgICAgICAgICAgICAgICAgIm1lYW5fZGlzdCI6ZmxvYXQobnAubWVhbihuZCkpLCJtZWFuX3NhaWQiOmZsb2F0KG5wLm1lYW4oc2QpKX0KICAgIGQxPVtvdXRbInByZSJdWyJ2YWxzIl1baV0tb3V0WyJvZmYiXVsidmFscyJdW2ldIGZvciBpIGluIHJhbmdlKHNlZWRzKV0KICAgIGQyPVtvdXRbInBvc3QiXVsidmFscyJdW2ldLW91dFsib2ZmIl1bInZhbHMiXVtpXSBmb3IgaSBpbiByYW5nZShzZWVkcyldCiAgICBtMSxsbzEsaGkxPWNpX3BhaXJlZChkMSk7IG0yLGxvMixoaTI9Y2lfcGFpcmVkKGQyKQogICAgb3V0WyJIMWFfcHJlX21pbnVzX29mZiJdPXsibWVhbiI6bTEsImNpIjpbbG8xLGhpMV0sInBhc3MiOmJvb2wobG8xPjApfQogICAgb3V0WyJIMWJfcG9zdF9taW51c19vZmYiXT17Im1lYW4iOm0yLCJjaSI6W2xvMixoaTJdLCJwb3N0X25vdF9iZXR0ZXIiOmJvb2wobm90KGxvMj4wKSl9CiAgICByZXR1cm4gb3V0CgppZiBfX25hbWVfXz09Il9fbWFpbl9fIjoKICAgIHI9bWFpbigxMik7IHByaW50KGpzb24uZHVtcHMocixlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpKQogICAganNvbi5kdW1wKHIsb3BlbigicmVzdWx0X3MxLmpzb24iLCJ3IiksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""S1 独白 v4
+v1 bug: deque(maxlen=2) 初始化即挤出 A -> 三臂全0饱和
+v2 bug: 真实抖动没产生足够变异
+v3 bug: 本机文件系统不支持同 fd 写后立即回读(所有模式 Errno5) -> pre 读回从未生效
+v4: 独白通道改为真实 UDP 回环(自发自收)；工作记忆 CAP=3；干扰数由真 listdir 内容决定
+"""
+import os, json, math, socket, time
+from collections import deque
+import numpy as np
+
+REAL_DIR = "/data/workspace/luoshen-o1/experiments"
+TARGET = ["A", "B", "C"]
+CAP = 3
+
+def ci_paired(d):
+    d=np.asarray(d,float); n=len(d); m=float(d.mean())
+    se=float(d.std(ddof=1))/math.sqrt(n) if n>1 else float("nan")
+    return m, m-1.96*se, m+1.96*se
+
+def make_chan(seed):
+    """真实 UDP 回环通道：自发自收 = 对自己说话"""
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    s.bind(("127.0.0.1", 0))
+    port = s.getsockname()[1]
+    s.settimeout(0.05)
+    return s, port
+
+def say(sock, port, obj):
+    """说出（真 sendto + 真 recvfrom）"""
+    try:
+        sock.sendto(json.dumps(obj).encode(), ("127.0.0.1", port))
+        data, _ = sock.recvfrom(65535)
+        return json.loads(data.decode())
+    except Exception:
+        return None
+
+def run_arm(arm, seed, T=48):
+    sock, port = make_chan(seed)
+    plan = deque(TARGET, maxlen=CAP)
+    done = []; ndist = 0; said = 0
+    for t in range(T):
+        if arm == "pre":
+            if t == 0:
+                say(sock, port, {"kind":"plan", "plan":TARGET}); said += 1
+            else:
+                m = say(sock, port, {"kind":"recall"})
+                if m and m.get("kind")=="plan":
+                    for step in m.get("plan", []):
+                        if step not in done and step not in plan:
+                            plan.append(step)          # 从"我说过的计划"补回被挤出的步骤
+        elif arm == "post":
+            say(sock, port, {"kind":"hist", "hist":done}); said += 1
+            # 读回来的只有历史，没有未来计划
+        if t % 4 == 0:
+            try: items = os.listdir(REAL_DIR)
+            except Exception: items = ["x"]
+            k = (len(items) + t) % 3
+            for i in range(k):
+                plan.append("D:" + items[(t+i) % len(items)])
+                ndist += 1
+        nxt = TARGET[len(done)]
+        if nxt in plan:
+            plan.remove(nxt); done.append(nxt)
+        if len(done) == len(TARGET): break
+    sock.close()
+    return (1.0 if done == TARGET else 0.0), ndist, said
+
+def main(seeds=12):
+    out={}; sl=list(range(3000,3000+seeds))
+    for arm in ["pre","post","off"]:
+        vals=[];nd=[];sd=[]
+        for s in sl:
+            v,n,q = run_arm(arm,s); vals.append(v); nd.append(n); sd.append(q)
+        out[arm]={"rate":float(np.mean(vals)),"vals":vals,
+                  "mean_dist":float(np.mean(nd)),"mean_said":float(np.mean(sd))}
+    d1=[out["pre"]["vals"][i]-out["off"]["vals"][i] for i in range(seeds)]
+    d2=[out["post"]["vals"][i]-out["off"]["vals"][i] for i in range(seeds)]
+    m1,lo1,hi1=ci_paired(d1); m2,lo2,hi2=ci_paired(d2)
+    out["H1a_pre_minus_off"]={"mean":m1,"ci":[lo1,hi1],"pass":bool(lo1>0)}
+    out["H1b_post_minus_off"]={"mean":m2,"ci":[lo2,hi2],"post_not_better":bool(not(lo2>0))}
+    return out
+
+if __name__=="__main__":
+    r=main(12); print(json.dumps(r,ensure_ascii=False,indent=1))
+    json.dump(r,open("result_s1.json","w"),ensure_ascii=False,indent=1)

@@ -1,1 +1,45 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KZnJvbSBzcWxhbGNoZW15IGltcG9ydCBDb2x1bW4sIFN0cmluZywgRmxvYXQsIEJJR0lOVApmcm9tIHNxbGFsY2hlbXkub3JtIGltcG9ydCBkZWNsYXJhdGl2ZV9iYXNlCgpmcm9tIHp2dC5jb250cmFjdCBpbXBvcnQgTWl4aW4KZnJvbSB6dnQuY29udHJhY3QucmVnaXN0ZXIgaW1wb3J0IHJlZ2lzdGVyX3NjaGVtYQoKTWFjcm9CYXNlID0gZGVjbGFyYXRpdmVfYmFzZSgpCgoKY2xhc3MgRWNvbm9teShNYWNyb0Jhc2UsIE1peGluKToKICAgICMgaHR0cHM6Ly9kYXRhdG9waWNzLndvcmxkYmFuay5vcmcvd29ybGQtZGV2ZWxvcG1lbnQtaW5kaWNhdG9ycy8vdGhlbWVzL2Vjb25vbXkuaHRtbAogICAgX190YWJsZW5hbWVfXyA9ICJlY29ub215IgoKICAgIGNvZGUgPSBDb2x1bW4oU3RyaW5nKGxlbmd0aD0zMikpCiAgICBuYW1lID0gQ29sdW1uKFN0cmluZyhsZW5ndGg9MzIpKQogICAgcG9wdWxhdGlvbiA9IENvbHVtbihCSUdJTlQpCgogICAgZ2RwID0gQ29sdW1uKEZsb2F0KQogICAgZ2RwX3Blcl9jYXBpdGEgPSBDb2x1bW4oRmxvYXQpCiAgICBnZHBfcGVyX2VtcGxveWVkID0gQ29sdW1uKEZsb2F0KQogICAgZ2RwX2dyb3d0aCA9IENvbHVtbihGbG9hdCkKICAgIGFncmljdWx0dXJlX2dyb3d0aCA9IENvbHVtbihGbG9hdCkKICAgIGluZHVzdHJ5X2dyb3d0aCA9IENvbHVtbihGbG9hdCkKICAgIG1hbnVmYWN0dXJpbmdfZ3Jvd3RoID0gQ29sdW1uKEZsb2F0KQogICAgc2VydmljZV9ncm93dGggPSBDb2x1bW4oRmxvYXQpCiAgICBjb25zdW1wdGlvbl9ncm93dGggPSBDb2x1bW4oRmxvYXQpCiAgICBjYXBpdGFsX2dyb3d0aCA9IENvbHVtbihGbG9hdCkKICAgIGV4cG9ydHNfZ3Jvd3RoID0gQ29sdW1uKEZsb2F0KQogICAgaW1wb3J0c19ncm93dGggPSBDb2x1bW4oRmxvYXQpCgogICAgZ25pID0gQ29sdW1uKEZsb2F0KQogICAgZ25pX3Blcl9jYXBpdGEgPSBDb2x1bW4oRmxvYXQpCgogICAgZ3Jvc3Nfc2F2aW5nID0gQ29sdW1uKEZsb2F0KQogICAgY3BpID0gQ29sdW1uKEZsb2F0KQogICAgdW5lbXBsb3ltZW50X3JhdGUgPSBDb2x1bW4oRmxvYXQpCiAgICBmZGlfb2ZfZ2RwID0gQ29sdW1uKEZsb2F0KQoKCnJlZ2lzdGVyX3NjaGVtYShkYl9uYW1lPSJtYWNybyIsIHNjaGVtYV9iYXNlPU1hY3JvQmFzZSkKCgojIHRoZSBfX2FsbF9fIGlzIGdlbmVyYXRlZApfX2FsbF9fID0gWyJFY29ub215Il0K
+# -*- coding: utf-8 -*-
+from sqlalchemy import Column, String, Float, BIGINT
+from sqlalchemy.orm import declarative_base
+
+from zvt.contract import Mixin
+from zvt.contract.register import register_schema
+
+MacroBase = declarative_base()
+
+
+class Economy(MacroBase, Mixin):
+    # https://datatopics.worldbank.org/world-development-indicators//themes/economy.html
+    __tablename__ = "economy"
+
+    code = Column(String(length=32))
+    name = Column(String(length=32))
+    population = Column(BIGINT)
+
+    gdp = Column(Float)
+    gdp_per_capita = Column(Float)
+    gdp_per_employed = Column(Float)
+    gdp_growth = Column(Float)
+    agriculture_growth = Column(Float)
+    industry_growth = Column(Float)
+    manufacturing_growth = Column(Float)
+    service_growth = Column(Float)
+    consumption_growth = Column(Float)
+    capital_growth = Column(Float)
+    exports_growth = Column(Float)
+    imports_growth = Column(Float)
+
+    gni = Column(Float)
+    gni_per_capita = Column(Float)
+
+    gross_saving = Column(Float)
+    cpi = Column(Float)
+    unemployment_rate = Column(Float)
+    fdi_of_gdp = Column(Float)
+
+
+register_schema(db_name="macro", schema_base=MacroBase)
+
+
+# the __all__ is generated
+__all__ = ["Economy"]

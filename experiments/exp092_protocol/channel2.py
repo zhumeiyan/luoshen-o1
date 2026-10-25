@@ -1,1 +1,66 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDkyIHYyIOmAmumBk+Wxgue6pyDigJTigJQg55So44CQ5a6e5rWL44CR5beu5byC77ya5Lq657G76YCa6YGT5bu26L+fIDEuMzkxcyB2cyDljY/orq4gMC4xMjZzICgxMS4xeCkK5LiW55WMID0g55yf5a6eIEdpdEh1YiBBUEkg5pWw5YC85o+S5YC85oiQ55qE5bmz5ruR5ZGo5pyf5bqP5YiXKOS/neW6j+W9kuS4gCkK5bu26L+f5bu65qih77ya5Y2P6K6uIDEg5ouN77yM5Lq657G76YCa6YGTIDExIOaLje+8iOaMieWunua1i+avlO+8iQoiIiIKaW1wb3J0IHN5cywgb3MsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwnLi4nLCcuLicpKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CgpTVEVQUywgQ1VUID0gNjAwLCAyNTAKUkFXPVs1NTQuMCwzLjAsMy4wLDEuMCwxLjAsMS4wLDAuMCwyOS4wXQpfbD1ucC5sb2cxcChucC5hcnJheShSQVcpKTsgQkFTRT1fbC9fbC5tYXgoKQpQRVJJT0Q9ODAKX3Q9bnAubGluc3BhY2UoMCxsZW4oQkFTRSktMSxQRVJJT0QpCldPUkxEPW5wLmludGVycChfdCwgbnAuYXJhbmdlKGxlbihCQVNFKSksIEJBU0UpCkRMX1AsIERMX0cgPSAxLCAxMSAgICAgICAgICAjIOWunua1iyAxMS4xeCDlu7bov58KCmRlZiBydW4oc2VlZCwgbW9kZSwga19zZWVrX2Fycj0wLjYsIGFycl90aHI9MC41MCwgc2lnbWFfaW49MC4xMCk6CiAgICBsaWZlPUxpZmU1KHNlZWQ9c2VlZCwgc2lnbWFfaW49c2lnbWFfaW4sIGtfc2Vlaz0wLjAsCiAgICAgICAgICAgICAgIGtfc2Vla19hcnI9a19zZWVrX2FyciwgYXJyX3Rocj1hcnJfdGhyKQogICAgYnVmPVtXT1JMRFswXV0qKERMX0crMikKICAgIGZyb3plbj1Ob25lCiAgICBmb3IgdCBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgdz1mbG9hdChXT1JMRFt0JVBFUklPRF0pCiAgICAgICAgYnVmLmFwcGVuZCh3KQogICAgICAgIGlmICAgbW9kZT09J0gnOiAgdiA9IFdPUkxEWzBdIGlmIGZyb3plbiBpcyBOb25lIGVsc2UgZnJvemVuOyBmcm96ZW49dgogICAgICAgIGVsaWYgbW9kZT09J1AnOiAgdiA9IGJ1ZlstMS1ETF9QXQogICAgICAgIGVsaWYgbW9kZT09J0cnOiAgdiA9IGJ1ZlstMS1ETF9HXQogICAgICAgIGVsaWYgbW9kZT09J0VjJzogdiA9IGJ1ZlstMS1ETF9HXSBpZiB0PENVVCBlbHNlIChmcm96ZW4gaWYgZnJvemVuIGlzIG5vdCBOb25lIGVsc2UgYnVmWy0xLURMX0ddKTsgZnJvemVuPXYKICAgICAgICBlbGlmIG1vZGU9PSdFcic6IHYgPSBidWZbLTEtRExfR10gaWYgdDxDVVQgZWxzZSBidWZbLTEtRExfUF0KICAgICAgICBlbHNlOiByYWlzZSBWYWx1ZUVycm9yKG1vZGUpCiAgICAgICAgbGlmZS5pbnB1dF92YWw9ZmxvYXQodikKICAgICAgICByPWxpZmUuc3RlcCgpCiAgICAgICAgaWYgciBpcyBOb25lOiBicmVhawogICAgY2FwPWxpZmUuY2FwYWNpdHkKICAgIHJldHVybiBkaWN0KHNlZWQ9aW50KHNlZWQpLCBhbGl2ZT1ib29sKGxpZmUuYWxpdmUpLAogICAgICAgICAgICAgICAgZGVhdGhfdD0oaW50KGxpZmUuZGVhdGhfdCkgaWYgbGlmZS5kZWF0aF90IGlzIG5vdCBOb25lIGVsc2UgTm9uZSksCiAgICAgICAgICAgICAgICBza2V3PWZsb2F0KG5wLnN0ZChjYXApL21heChucC5tZWFuKGNhcCksMWUtMTIpKSkKCmRlZiBjZWxsKG1vZGUsbj0xNik6CiAgICBycz1bcnVuKHMsbW9kZSkgZm9yIHMgaW4gcmFuZ2UobildCiAgICByZXR1cm4gZGljdChtb2RlPW1vZGUsIHNrZXc9ZmxvYXQobnAubWVhbihbclsnc2tldyddIGZvciByIGluIHJzXSkpLAogICAgICAgICAgICAgICAgYWxpdmU9ZmxvYXQobnAubWVhbihbclsnYWxpdmUnXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgIHNrZXdzPVtyWydza2V3J10gZm9yIHIgaW4gcnNdLCBhbGl2ZXY9W3JbJ2FsaXZlJ10gZm9yIHIgaW4gcnNdLAogICAgICAgICAgICAgICAgcnM9cnMpCgpkZWYgcGFpcmVkKGEsYixuYj00MDAwKToKICAgIGE9bnAuYXNhcnJheShhKTsgYj1ucC5hc2FycmF5KGIpOyBkPWEtYjsgbj1sZW4oZCkKICAgIHJuZz1ucC5yYW5kb20uZGVmYXVsdF9ybmcoMCkKICAgIGJzPW5wLmFycmF5KFtucC5tZWFuKHJuZy5jaG9pY2UoZCxuLFRydWUpKSBmb3IgXyBpbiByYW5nZShuYildKQogICAgbG8saGk9ZmxvYXQobnAucGVyY2VudGlsZShicywyLjUpKSxmbG9hdChucC5wZXJjZW50aWxlKGJzLDk3LjUpKQogICAgcmV0dXJuIGRpY3QoZGlmZj1mbG9hdChkLm1lYW4oKSksY2k9W2xvLGhpXSxzaWc9Ym9vbCgobG8+MCk9PShoaT4wKSksbj1pbnQobikpCgppZiBfX25hbWVfXz09J19fbWFpbl9fJzoKICAgIHByaW50KGYn5LiW55WMOiDnnJ/lrp7lgLzmj5LlgLwgUEVSSU9EPXtQRVJJT0R9IG1pbj17V09STEQubWluKCk6LjNmfSBtYXg9e1dPUkxELm1heCgpOi4zZn0gbWVhbj17V09STEQubWVhbigpOi4zZn0nKQogICAgcmVzPXt9CiAgICBmb3IgbSBpbiAoJ0gnLCdQJywnRycsJ0VjJywnRXInKToKICAgICAgICBjPWNlbGwobSk7IHJlc1ttXT1jCiAgICAgICAgZHQ9W3JbJ2RlYXRoX3QnXSBmb3IgciBpbiBjWydycyddIGlmIHJbJ2RlYXRoX3QnXSBpcyBub3QgTm9uZV0KICAgICAgICBwcmludChmInttOjNzfSBza2V3PXtjWydza2V3J106LjZmfSBhbGl2ZT17Y1snYWxpdmUnXTouM2Z9IG5kZWF0aD17bGVuKGR0KX0iKQogICAgcHJpbnQoJ1xuLS0tIOmFjeWvuSBib290c3RyYXAgLS0tJykKICAgIGZvciBhLGIgaW4gKCgnRycsJ1AnKSwoJ0VjJywnRycpLCgnRXInLCdFYycpLCgnUCcsJ0gnKSwoJ0cnLCdIJykpOgogICAgICAgIHA9cGFpcmVkKHJlc1thXVsnc2tld3MnXSxyZXNbYl1bJ3NrZXdzJ10pCiAgICAgICAgcHJpbnQoZiJ7YX0gLSB7Yn06IGRpZmY9e3BbJ2RpZmYnXTorLjZmfSBDST1be3BbJ2NpJ11bMF06Ky40Zn0se3BbJ2NpJ11bMV06Ky40Zn1dIHNpZz17cFsnc2lnJ119IikKICAgIGpzb24uZHVtcChyZXMsIG9wZW4oJ2NoYW5uZWwyX3Jlc3VsdC5qc29uJywndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+# -*- coding: utf-8 -*-
+"""092 v2 通道层级 —— 用【实测】差异：人类通道延迟 1.391s vs 协议 0.126s (11.1x)
+世界 = 真实 GitHub API 数值插值成的平滑周期序列(保序归一)
+延迟建模：协议 1 拍，人类通道 11 拍（按实测比）
+"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__),'..','..'))
+from core.life5 import Life5
+
+STEPS, CUT = 600, 250
+RAW=[554.0,3.0,3.0,1.0,1.0,1.0,0.0,29.0]
+_l=np.log1p(np.array(RAW)); BASE=_l/_l.max()
+PERIOD=80
+_t=np.linspace(0,len(BASE)-1,PERIOD)
+WORLD=np.interp(_t, np.arange(len(BASE)), BASE)
+DL_P, DL_G = 1, 11          # 实测 11.1x 延迟
+
+def run(seed, mode, k_seek_arr=0.6, arr_thr=0.50, sigma_in=0.10):
+    life=Life5(seed=seed, sigma_in=sigma_in, k_seek=0.0,
+               k_seek_arr=k_seek_arr, arr_thr=arr_thr)
+    buf=[WORLD[0]]*(DL_G+2)
+    frozen=None
+    for t in range(STEPS):
+        w=float(WORLD[t%PERIOD])
+        buf.append(w)
+        if   mode=='H':  v = WORLD[0] if frozen is None else frozen; frozen=v
+        elif mode=='P':  v = buf[-1-DL_P]
+        elif mode=='G':  v = buf[-1-DL_G]
+        elif mode=='Ec': v = buf[-1-DL_G] if t<CUT else (frozen if frozen is not None else buf[-1-DL_G]); frozen=v
+        elif mode=='Er': v = buf[-1-DL_G] if t<CUT else buf[-1-DL_P]
+        else: raise ValueError(mode)
+        life.input_val=float(v)
+        r=life.step()
+        if r is None: break
+    cap=life.capacity
+    return dict(seed=int(seed), alive=bool(life.alive),
+                death_t=(int(life.death_t) if life.death_t is not None else None),
+                skew=float(np.std(cap)/max(np.mean(cap),1e-12)))
+
+def cell(mode,n=16):
+    rs=[run(s,mode) for s in range(n)]
+    return dict(mode=mode, skew=float(np.mean([r['skew'] for r in rs])),
+                alive=float(np.mean([r['alive'] for r in rs])),
+                skews=[r['skew'] for r in rs], alivev=[r['alive'] for r in rs],
+                rs=rs)
+
+def paired(a,b,nb=4000):
+    a=np.asarray(a); b=np.asarray(b); d=a-b; n=len(d)
+    rng=np.random.default_rng(0)
+    bs=np.array([np.mean(rng.choice(d,n,True)) for _ in range(nb)])
+    lo,hi=float(np.percentile(bs,2.5)),float(np.percentile(bs,97.5))
+    return dict(diff=float(d.mean()),ci=[lo,hi],sig=bool((lo>0)==(hi>0)),n=int(n))
+
+if __name__=='__main__':
+    print(f'世界: 真实值插值 PERIOD={PERIOD} min={WORLD.min():.3f} max={WORLD.max():.3f} mean={WORLD.mean():.3f}')
+    res={}
+    for m in ('H','P','G','Ec','Er'):
+        c=cell(m); res[m]=c
+        dt=[r['death_t'] for r in c['rs'] if r['death_t'] is not None]
+        print(f"{m:3s} skew={c['skew']:.6f} alive={c['alive']:.3f} ndeath={len(dt)}")
+    print('\n--- 配对 bootstrap ---')
+    for a,b in (('G','P'),('Ec','G'),('Er','Ec'),('P','H'),('G','H')):
+        p=paired(res[a]['skews'],res[b]['skews'])
+        print(f"{a} - {b}: diff={p['diff']:+.6f} CI=[{p['ci'][0]:+.4f},{p['ci'][1]:+.4f}] sig={p['sig']}")
+    json.dump(res, open('channel2_result.json','w'), ensure_ascii=False, indent=1)

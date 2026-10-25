@@ -1,1 +1,89 @@
-aW1wb3J0IGpzb24sIG1hdGgsIG9zLCByYW5kb20KaW1wb3J0IG51bXB5IGFzIG5wCmV4ZWMob3BlbigncnVuMTQ4Yy5weScpLnJlYWQoKS5zcGxpdCgiRD1qc29uLmxvYWQiKVswXSkKRD1qc29uLmxvYWQob3BlbigncmVhbF9zZXJpZXMuanNvbicpKQpkZWYgY2koZCk6CiAgICBkPW5wLmFzYXJyYXkoZCxmbG9hdCk7IG09ZC5tZWFuKCk7IHNlPWQuc3RkKGRkb2Y9MSkvbWF0aC5zcXJ0KGxlbihkKSkKICAgIHJldHVybiBmbG9hdChtKSwgZmxvYXQobS0xLjk2KnNlKSwgZmxvYXQobSsxLjk2KnNlKQpkZWYgc2lnKGxvLGhpKTogcmV0dXJuIGJvb2wobG8+MCBvciBoaTwwKQpSPXt9CgojIC0tLS0tLS0tLS0g5qKmIC0tLS0tLS0tLS0KZHJlYW09e30KZm9yIHAgaW4gWydzdGFibGUnLCdkcmlmdCcsJ3NxdWFyZSddOgogICAgYmFzZT1bcnVuMyhEW3BdW3NdLCdub25lJyxGYWxzZSxzKSBmb3IgcyBpbiByYW5nZSg4KV0KICAgIGRyZWFtW3BdPXsnbm9uZSc6ZmxvYXQobnAubWVhbihiYXNlKSl9CiAgICBmb3IgYyBpbiBbJ3JlYWwnLCdyZXYnLCdzaHVmJywnY3Jvc3MnLCdub2lzZSddOgogICAgICAgIHY9W3J1bjMoRFtwXVtzXSxjLEZhbHNlLHMsb3RoZXI9RFtwXVsocys0KSU4XSkgZm9yIHMgaW4gcmFuZ2UoOCldCiAgICAgICAgbSxsbyxoaT1jaShbYi1hIGZvciBiLGEgaW4gemlwKGJhc2UsdildKQogICAgICAgIGRyZWFtW3BdW2NdPWRpY3QobWFlPWZsb2F0KG5wLm1lYW4odikpLGdhaW49bSxsbz1sbyxoaT1oaSxzaWc9c2lnKGxvLGhpKSkKICAgICMgbWlzbWF0Y2g6IHNxdWFyZSDnmoTkuKrkvZPnlKggc3RhYmxlIOeahOecn+Wunue7j+WOhgogICAgaWYgcD09J3NxdWFyZSc6CiAgICAgICAgdj1bcnVuMyhEWydzcXVhcmUnXVtzXSwnY3Jvc3MnLEZhbHNlLHMsb3RoZXI9RFsnc3RhYmxlJ11bc10pIGZvciBzIGluIHJhbmdlKDgpXQogICAgICAgIG0sbG8saGk9Y2koW2ItYSBmb3IgYixhIGluIHppcChiYXNlLHYpXSkKICAgICAgICBkcmVhbVtwXVsnbWlzbWF0Y2gnXT1kaWN0KG1hZT1mbG9hdChucC5tZWFuKHYpKSxnYWluPW0sbG89bG8saGk9aGksc2lnPXNpZyhsbyxoaSkpClJbJ2RyZWFtJ109ZHJlYW0KCiMgLS0tLS0tLS0tLSDmoqbliYLph4/miavmj48gLS0tLS0tLS0tLQpkb3NlPXt9CmZvciByIGluIFsxLDIsNCw4XToKICAgIGI9W3J1bjMoRFsnc3RhYmxlJ11bc10sJ25vbmUnLEZhbHNlLHMpIGZvciBzIGluIHJhbmdlKDgpXQogICAgcm93PXt9CiAgICBmb3IgYyBpbiBbJ3JlYWwnLCdzaHVmJ106CiAgICAgICAgdj1bcnVuMyhEWydzdGFibGUnXVtzXSxjLEZhbHNlLHMscm91bmRzPXIpIGZvciBzIGluIHJhbmdlKDgpXQogICAgICAgIG0sbG8saGk9Y2koW3gteSBmb3IgeCx5IGluIHppcChiLHYpXSkKICAgICAgICByb3dbY109ZGljdChnYWluPW0sbG89bG8saGk9aGksbWFlPWZsb2F0KG5wLm1lYW4odikpKQogICAgcm93WydyZWFsX21pbnVzX3NodWYnXT1mbG9hdChyb3dbJ3JlYWwnXVsnbWFlJ10qMCsgKG5wLm1lYW4oW3J1bjMoRFsnc3RhYmxlJ11bc10sJ3NodWYnLEZhbHNlLHMscm91bmRzPXIpIGZvciBzIGluIHJhbmdlKDgpXSktbnAubWVhbihbcnVuMyhEWydzdGFibGUnXVtzXSwncmVhbCcsRmFsc2Uscyxyb3VuZHM9cikgZm9yIHMgaW4gcmFuZ2UoOCldKSkpCiAgICBkb3NlW3JdPXJvdwpSWydkb3NlJ109ZG9zZQoKIyAtLS0tLS0tLS0tIOaDhee7qumXqCAtLS0tLS0tLS0tCmdhdGU9e30KZm9yIHAgaW4gWydzdGFibGUnLCdkcmlmdCcsJ3NxdWFyZSddOgogICAgYT1bcnVuMyhEW3BdW3NdLCdub25lJyxUcnVlLHMpIGZvciBzIGluIHJhbmdlKDgpXQogICAgYj1bcnVuMyhEW3BdW3NdLCdub25lJyxGYWxzZSxzKSBmb3IgcyBpbiByYW5nZSg4KV0KICAgIG0sbG8saGk9Y2koW3kteCBmb3IgeCx5IGluIHppcChhLGIpXSkKICAgIGdhdGVbcF09ZGljdChnYXRlPWZsb2F0KG5wLm1lYW4oYSkpLGZpeGVkPWZsb2F0KG5wLm1lYW4oYikpLGdhaW49bSxsbz1sbyxoaT1oaSxzaWc9c2lnKGxvLGhpKSkKUlsnZ2F0ZSddPWdhdGUKCiMgLS0tLS0tLS0tLSDnjqkgLS0tLS0tLS0tLQpkZWYgc2NhbmQocCk6CiAgICB0cnk6CiAgICAgICAgZT1saXN0KG9zLnNjYW5kaXIocCkpOyByZXR1cm4gW3gucGF0aCBmb3IgeCBpbiBlIGlmIHguaXNfZGlyKCldLCBzdW0oMSBmb3IgeCBpbiBlIGlmIHguaXNfZmlsZSgpKQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIFtdLDAKVFJFRT17fTsgUk9PVD0nL3Vzci9saWIvcHl0aG9uMy4xMCcKZGVmIHJlYyhwLGQsbWF4ZD0zKToKICAgIGlmIGQ+bWF4ZDogcmV0dXJuCiAgICBkaXJzLG5mPXNjYW5kKHApOyBUUkVFW3BdPWRpY3QobmZpbGU9bmYsZGVwdGg9ZCkKICAgIGZvciBxIGluIGRpcnNbOjEyXTogcmVjKHEsZCsxKQpyZWMoUk9PVCwwKQp0cnV0aD1mbG9hdChucC5tZWFuKFt2WyduZmlsZSddIGZvciB2IGluIFRSRUUudmFsdWVzKCldKSk7IG5vZGVzPWxpc3QoVFJFRS5rZXlzKCkpCmRlZiBwaGFzZShtb2RlLHNlZWQsYnVkZ2V0PTMwKToKICAgIHJuZz1yYW5kb20uUmFuZG9tKHNlZWQpOyBzZWVuPXNldCgpOyBvYnM9W107IGRpcnNfc2Vlbj1bXQogICAgZm9yIF8gaW4gcmFuZ2UoYnVkZ2V0KToKICAgICAgICBpZiBtb2RlPT0ncGxheSc6CiAgICAgICAgICAgIGNhbmQ9W24gZm9yIG4gaW4gbm9kZXMgaWYgbiBub3QgaW4gc2Vlbl0gb3Igbm9kZXMKICAgICAgICAgICAgY2FuZC5zb3J0KGtleT1sYW1iZGEgcDpUUkVFW3BdWydkZXB0aCddK3JuZy5yYW5kb20oKSoyKTsgcD1jYW5kWzBdCiAgICAgICAgZWxpZiBtb2RlPT0ncmFuZF9ub3JlcCc6CiAgICAgICAgICAgIGNhbmQ9W24gZm9yIG4gaW4gbm9kZXMgaWYgbiBub3QgaW4gc2Vlbl0gb3Igbm9kZXM7IHA9cm5nLmNob2ljZShjYW5kKQogICAgICAgIGVsc2U6IHA9cm5nLmNob2ljZShub2RlcykKICAgICAgICBzZWVuLmFkZChwKTsgZGlyc19zZWVuLmFwcGVuZChwKTsgb2JzLmFwcGVuZChUUkVFW3BdWyduZmlsZSddKQogICAgcmV0dXJuIG9icywgbGVuKHNldChkaXJzX3NlZW4pKQpkZWYgdGFzayhvYnMsc2VlZCxleHRyYT0xMCk6CiAgICBybmc9cmFuZG9tLlJhbmRvbShzZWVkKjc5MTkrMTMpCiAgICByZXR1cm4gZmxvYXQobnAubWVhbihsaXN0KG9icykrW1RSRUVbcm5nLmNob2ljZShub2RlcyldWyduZmlsZSddIGZvciBfIGluIHJhbmdlKGV4dHJhKV0pKQpwbGF5PXt9CmZvciBtb2RlIGluIFsncGxheScsJ3JhbmRfbm9yZXAnLCdyYW5kJ106CiAgICBlcnJzPVtdO3U9W10KICAgIGZvciBzIGluIHJhbmdlKDI0KToKICAgICAgICBvLHVxPXBoYXNlKG1vZGUscyk7IGVycnMuYXBwZW5kKGFicyh0YXNrKG8scyktdHJ1dGgpL3RydXRoKTsgdS5hcHBlbmQodXEpCiAgICBwbGF5W21vZGVdPWRpY3QoZXJyPWZsb2F0KG5wLm1lYW4oZXJycykpLCB1bmlxX2RpcnM9ZmxvYXQobnAubWVhbih1KSkpCmE9W2Ficyh0YXNrKHBoYXNlKCdwbGF5JyxzKVswXSxzKS10cnV0aCkvdHJ1dGggZm9yIHMgaW4gcmFuZ2UoMjQpXQpiPVthYnModGFzayhwaGFzZSgncmFuZCcscylbMF0scyktdHJ1dGgpL3RydXRoIGZvciBzIGluIHJhbmdlKDI0KV0KYz1bYWJzKHRhc2socGhhc2UoJ3JhbmRfbm9yZXAnLHMpWzBdLHMpLXRydXRoKS90cnV0aCBmb3IgcyBpbiByYW5nZSgyNCldCm0sbG8saGk9Y2koW3kteCBmb3IgeCx5IGluIHppcChhLGIpXSk7IHBsYXlbJ3BsYXlfdnNfcmFuZCddPWRpY3QoZ2Fpbj1tLGxvPWxvLGhpPWhpLHNpZz1zaWcobG8saGkpKQptMixsbzIsaGkyPWNpKFt5LXggZm9yIHgseSBpbiB6aXAoYSxjKV0pOyBwbGF5WydwbGF5X3ZzX3JhbmRfbm9yZXAnXT1kaWN0KGdhaW49bTIsbG89bG8yLGhpPWhpMixzaWc9c2lnKGxvMixoaTIpKQpwbGF5Wyd0cnV0aCddPXRydXRoOyBwbGF5WydzcG9udGFuZW91c19hY3RzJ109MzAKUlsncGxheSddPXBsYXkKanNvbi5kdW1wKFIsIG9wZW4oJ3Jlc3VsdDE0OC5qc29uJywndycpLCBpbmRlbnQ9MSwgZW5zdXJlX2FzY2lpPUZhbHNlKQpwcmludChqc29uLmR1bXBzKFIsIGluZGVudD0xLCBlbnN1cmVfYXNjaWk9RmFsc2UpWzoyNjAwXSkK
+import json, math, os, random
+import numpy as np
+exec(open('run148c.py').read().split("D=json.load")[0])
+D=json.load(open('real_series.json'))
+def ci(d):
+    d=np.asarray(d,float); m=d.mean(); se=d.std(ddof=1)/math.sqrt(len(d))
+    return float(m), float(m-1.96*se), float(m+1.96*se)
+def sig(lo,hi): return bool(lo>0 or hi<0)
+R={}
+
+# ---------- 梦 ----------
+dream={}
+for p in ['stable','drift','square']:
+    base=[run3(D[p][s],'none',False,s) for s in range(8)]
+    dream[p]={'none':float(np.mean(base))}
+    for c in ['real','rev','shuf','cross','noise']:
+        v=[run3(D[p][s],c,False,s,other=D[p][(s+4)%8]) for s in range(8)]
+        m,lo,hi=ci([b-a for b,a in zip(base,v)])
+        dream[p][c]=dict(mae=float(np.mean(v)),gain=m,lo=lo,hi=hi,sig=sig(lo,hi))
+    # mismatch: square 的个体用 stable 的真实经历
+    if p=='square':
+        v=[run3(D['square'][s],'cross',False,s,other=D['stable'][s]) for s in range(8)]
+        m,lo,hi=ci([b-a for b,a in zip(base,v)])
+        dream[p]['mismatch']=dict(mae=float(np.mean(v)),gain=m,lo=lo,hi=hi,sig=sig(lo,hi))
+R['dream']=dream
+
+# ---------- 梦剂量扫描 ----------
+dose={}
+for r in [1,2,4,8]:
+    b=[run3(D['stable'][s],'none',False,s) for s in range(8)]
+    row={}
+    for c in ['real','shuf']:
+        v=[run3(D['stable'][s],c,False,s,rounds=r) for s in range(8)]
+        m,lo,hi=ci([x-y for x,y in zip(b,v)])
+        row[c]=dict(gain=m,lo=lo,hi=hi,mae=float(np.mean(v)))
+    row['real_minus_shuf']=float(row['real']['mae']*0+ (np.mean([run3(D['stable'][s],'shuf',False,s,rounds=r) for s in range(8)])-np.mean([run3(D['stable'][s],'real',False,s,rounds=r) for s in range(8)])))
+    dose[r]=row
+R['dose']=dose
+
+# ---------- 情绪门 ----------
+gate={}
+for p in ['stable','drift','square']:
+    a=[run3(D[p][s],'none',True,s) for s in range(8)]
+    b=[run3(D[p][s],'none',False,s) for s in range(8)]
+    m,lo,hi=ci([y-x for x,y in zip(a,b)])
+    gate[p]=dict(gate=float(np.mean(a)),fixed=float(np.mean(b)),gain=m,lo=lo,hi=hi,sig=sig(lo,hi))
+R['gate']=gate
+
+# ---------- 玩 ----------
+def scand(p):
+    try:
+        e=list(os.scandir(p)); return [x.path for x in e if x.is_dir()], sum(1 for x in e if x.is_file())
+    except Exception: return [],0
+TREE={}; ROOT='/usr/lib/python3.10'
+def rec(p,d,maxd=3):
+    if d>maxd: return
+    dirs,nf=scand(p); TREE[p]=dict(nfile=nf,depth=d)
+    for q in dirs[:12]: rec(q,d+1)
+rec(ROOT,0)
+truth=float(np.mean([v['nfile'] for v in TREE.values()])); nodes=list(TREE.keys())
+def phase(mode,seed,budget=30):
+    rng=random.Random(seed); seen=set(); obs=[]; dirs_seen=[]
+    for _ in range(budget):
+        if mode=='play':
+            cand=[n for n in nodes if n not in seen] or nodes
+            cand.sort(key=lambda p:TREE[p]['depth']+rng.random()*2); p=cand[0]
+        elif mode=='rand_norep':
+            cand=[n for n in nodes if n not in seen] or nodes; p=rng.choice(cand)
+        else: p=rng.choice(nodes)
+        seen.add(p); dirs_seen.append(p); obs.append(TREE[p]['nfile'])
+    return obs, len(set(dirs_seen))
+def task(obs,seed,extra=10):
+    rng=random.Random(seed*7919+13)
+    return float(np.mean(list(obs)+[TREE[rng.choice(nodes)]['nfile'] for _ in range(extra)]))
+play={}
+for mode in ['play','rand_norep','rand']:
+    errs=[];u=[]
+    for s in range(24):
+        o,uq=phase(mode,s); errs.append(abs(task(o,s)-truth)/truth); u.append(uq)
+    play[mode]=dict(err=float(np.mean(errs)), uniq_dirs=float(np.mean(u)))
+a=[abs(task(phase('play',s)[0],s)-truth)/truth for s in range(24)]
+b=[abs(task(phase('rand',s)[0],s)-truth)/truth for s in range(24)]
+c=[abs(task(phase('rand_norep',s)[0],s)-truth)/truth for s in range(24)]
+m,lo,hi=ci([y-x for x,y in zip(a,b)]); play['play_vs_rand']=dict(gain=m,lo=lo,hi=hi,sig=sig(lo,hi))
+m2,lo2,hi2=ci([y-x for x,y in zip(a,c)]); play['play_vs_rand_norep']=dict(gain=m2,lo=lo2,hi=hi2,sig=sig(lo2,hi2))
+play['truth']=truth; play['spontaneous_acts']=30
+R['play']=play
+json.dump(R, open('result148.json','w'), indent=1, ensure_ascii=False)
+print(json.dumps(R, indent=1, ensure_ascii=False)[:2600])

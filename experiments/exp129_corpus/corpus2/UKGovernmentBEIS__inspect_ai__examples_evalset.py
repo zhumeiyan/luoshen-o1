@@ -1,1 +1,71 @@
-IiIiClRoaXMgZXhhbXBsZSBkZW1vbnN0cmF0ZXMgY3JlYXRpbmcgYW5kIHJ1bm5pbmcgYW4gSW5zcGVjdCBldmFsIHNldC4KCkV2YWwgc2V0cyB0YWtlIG11bHRpcGxlIHRhc2tzIChwb3NzaWJseSBldmFsdWF0ZWQgYWdhaW5zdCBtdWx0aXBsZQptb2RlbHMpIGFuZCBydW4gdGhlbSB0b2dldGhlciwgYXV0b21hdGljYWxseSByZXRyeWluZyBmYWlsZWQgc2FtcGxlcwphcyB0YXNrcyBhcyByZXF1aXJlZC4gSWYgYW4gaW5pdGlhbCBwYXNzICsgcmV0cmllcyBpcyBub3Qgc3VjY2Vzc2Z1bCwKZXZhbCBzZXQgc2NyaXB0cyBjYW4gYmUgcnVuIHJlcGVhdGVkbHkgdW50aWwgYWxsIG9mIHRoZSB0YXNrcyBoYXZlCnN1Y2Nlc3NmdWxseSBjb21wbGV0ZWQuCgpFdmFsIHNldHMgdHJhY2sgdGhlaXIgcHJvZ3Jlc3Mgb3ZlciBtdWx0aXBsZSBpbnZvY2F0aW9ucyB1c2luZyBhCmRlZGljYXRlZCBsb2cgZGlyZWN0b3J5IChpLmUuIHlvdSBzaG91bGQgY3JlYXRlIGEgbmV3IGxvZyBkaXJlY3RvcnkKZm9yIGVhY2ggcnVuIG9mIGFuIGV2YWwgc2V0KS4KCkJlbG93IHdlIGRlbW9uc3RyYXRlIGEgYmFzaWMgd3JhcHBlciBzY3JpcHQgZm9yIGV2YWxfc2V0OgoKMSkgV2UgZGVmaW5lIGEgY29yZSBydW4oKSBmdW5jdGlvbiB0aGF0IGFjY2VwdHMgYSBsb2dfZGlyIGFuZAogICBhbnkgb3RoZXIgcmVsZXZhbnQgcGFyYW1ldGVycy4KCjIpIFdlIHByb3ZpZGUgYSBDTEkgd3JhcHBlciBmb3IgcnVuKCkgdXNpbmcgdGhlIGNsaWNrIGxpYnJhcnkuCgozKSBUaGUgc2NyaXB0IGV4aXQgd2l0aCBzdWNjZXNzIG9ubHkgaWYgYWxsIG9mIHRoZSB0YXNrcwogICB3ZXJlIHN1Y2Nlc3NmdWxseSBjb21wbGV0ZWQuCgpUaGlzIHNjcmlwdCBlbmFibGVzIGN1c3RvbWl6c2F0aW9uIG9mIHRoZSBudW1iZXIgb2YgcmV0cnkgYXR0ZW1wdHMKKGRlZmF1bHRpbmcgdG8gMTApLiBJdCBhY2NlcHRzIHRoZSBmb2xsb3dpbmcgb3RoZXIgZXZhbF9zZXQgZGVmYXVsdHMsCmJ1dCB5b3VyIG93biBzY3JpcHQgbWlnaHQgd2FudCB0byBjdXN0b21pc2UgdGhlc2UgZnVydGhlcjoKCi0gcmV0cnlfd2FpdDogMzAgc2Vjb25kcywgaW5jcmVhc2luZyBleHBvbmVudGlhbGx5IHRvIG5vIG1vcmUgdGhhbiAxaHIKLSByZXRyeV9jb25uZWN0aW9uczogMC41LCBoYWxmaW5nIHRoZSBtYXhfY29ubmVjdGlvbnMgd2l0aCBldmVyeSByZXRyeQotIHJldHJ5X2NsZWFudXA6IFRydWUsIGF1dG9tYXRpY2FsbHkgcmVtb3ZpbmcgbG9ncyBmb3IgZmFpbGVkIHRhc2tzCiIiIgoKaW1wb3J0IHN5cwoKaW1wb3J0IGNsaWNrCmZyb20gcG9wdWxhcml0eSBpbXBvcnQgcG9wdWxhcml0eQpmcm9tIHNlY3VyaXR5X2d1aWRlIGltcG9ydCBzZWN1cml0eV9ndWlkZQoKZnJvbSBpbnNwZWN0X2FpIGltcG9ydCBldmFsX3NldAoKCkBjbGljay5jb21tYW5kKCkKQGNsaWNrLm9wdGlvbigiLS1sb2ctZGlyIiwgdHlwZT1zdHIsIHJlcXVpcmVkPVRydWUpCkBjbGljay5vcHRpb24oIi0tbWF4LXRhc2tzIiwgdHlwZT1pbnQpCkBjbGljay5vcHRpb24oIi0tcmV0cnktYXR0ZW1wdHMiLCBkZWZhdWx0PTEwKQpkZWYgcnVuKGxvZ19kaXI6IHN0ciwgbWF4X3Rhc2tzOiBpbnQgfCBOb25lLCByZXRyeV9hdHRlbXB0czogaW50KToKICAgICIiIlJ1biAyIHRhc2tzIG9uIDIgbW9kZWxzLCByZXRyeWluZyBhcyByZXF1aXJlZCBpZiBlcnJvcnMgb2NjdXIuCgogICAgQXJnczoKICAgICAgIGxvZ19kaXI6IExvZyBkaXJlY3RvcnkgZm9yIGV2YWwgc2V0IChyZXF1aXJlZCkuCiAgICAgICBtYXhfdGFza3M6IE1heGltdW0gbnVtYmVyIG9mIHRhc2tzIHRvIHJ1biBpbiBwYXJhbGxlbAogICAgICAgICAoZGVmYXVsdHMgdG8gbnVtYmVyIG9mIG1vZGVscykKICAgICAgIHJldHJ5X2F0dGVtcHRzOiBOdW1iZXIgb2YgcmV0cnkgYXR0ZW1wdHMgKGRlZmF1bHRzIHRvIDEwKQoKICAgIFJldHVybnM6CiAgICAgICBUdXBsZSBvZiBib29sLCBsaXN0W0V2YWxMb2ddIHdpdGggc3VjZXNzIHN0YXR1cyBhbmQgZmluYWwgbG9ncwogICAgIiIiCiAgICAjIHJ1biBldmFsX3NldAogICAgcmV0dXJuIGV2YWxfc2V0KAogICAgICAgIHRhc2tzPVtzZWN1cml0eV9ndWlkZSgpLCBwb3B1bGFyaXR5KCldLAogICAgICAgIG1vZGVsPVsib3BlbmFpL2dwdC00by1taW5pIiwgImFudGhyb3BpYy9jbGF1ZGUtMy01LWhhaWt1LWxhdGVzdCJdLAogICAgICAgIGxvZ19kaXI9bG9nX2RpciwKICAgICAgICBtYXhfdGFza3M9bWF4X3Rhc2tzLAogICAgICAgIHJldHJ5X2F0dGVtcHRzPXJldHJ5X2F0dGVtcHRzLAogICAgKQoKCiMgZW5hYmxlIGludm9jYXRpb24gYXMgYSBzY3JpcHQKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN1Y2Nlc3MsIF8gPSBydW4oKQogICAgc3lzLmV4aXQoMCBpZiBzdWNjZXNzIGVsc2UgMSkK
+"""
+This example demonstrates creating and running an Inspect eval set.
+
+Eval sets take multiple tasks (possibly evaluated against multiple
+models) and run them together, automatically retrying failed samples
+as tasks as required. If an initial pass + retries is not successful,
+eval set scripts can be run repeatedly until all of the tasks have
+successfully completed.
+
+Eval sets track their progress over multiple invocations using a
+dedicated log directory (i.e. you should create a new log directory
+for each run of an eval set).
+
+Below we demonstrate a basic wrapper script for eval_set:
+
+1) We define a core run() function that accepts a log_dir and
+   any other relevant parameters.
+
+2) We provide a CLI wrapper for run() using the click library.
+
+3) The script exit with success only if all of the tasks
+   were successfully completed.
+
+This script enables customizsation of the number of retry attempts
+(defaulting to 10). It accepts the following other eval_set defaults,
+but your own script might want to customise these further:
+
+- retry_wait: 30 seconds, increasing exponentially to no more than 1hr
+- retry_connections: 0.5, halfing the max_connections with every retry
+- retry_cleanup: True, automatically removing logs for failed tasks
+"""
+
+import sys
+
+import click
+from popularity import popularity
+from security_guide import security_guide
+
+from inspect_ai import eval_set
+
+
+@click.command()
+@click.option("--log-dir", type=str, required=True)
+@click.option("--max-tasks", type=int)
+@click.option("--retry-attempts", default=10)
+def run(log_dir: str, max_tasks: int | None, retry_attempts: int):
+    """Run 2 tasks on 2 models, retrying as required if errors occur.
+
+    Args:
+       log_dir: Log directory for eval set (required).
+       max_tasks: Maximum number of tasks to run in parallel
+         (defaults to number of models)
+       retry_attempts: Number of retry attempts (defaults to 10)
+
+    Returns:
+       Tuple of bool, list[EvalLog] with sucess status and final logs
+    """
+    # run eval_set
+    return eval_set(
+        tasks=[security_guide(), popularity()],
+        model=["openai/gpt-4o-mini", "anthropic/claude-3-5-haiku-latest"],
+        log_dir=log_dir,
+        max_tasks=max_tasks,
+        retry_attempts=retry_attempts,
+    )
+
+
+# enable invocation as a script
+if __name__ == "__main__":
+    success, _ = run()
+    sys.exit(0 if success else 1)

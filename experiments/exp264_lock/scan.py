@@ -1,1 +1,51 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMjY0IOS6jOaute+8mumUgeWkmuWwkeS6lOWumO+8n++8iDI1NOWPt+itpuWRiumXreWQiOWNleiwg+acieWus++8jOW/hemhu+aJq+aPj+aJvuW9oueKtu+8iSIiIgppbXBvcnQganNvbiwgcmFuZG9tCnByaW50KCI9Iio3OCkKcHJpbnQoIuWFreOAgemUgeeahOavlOS+i+aJq+aPj++8mjI1NCDlj7for7Tpl63lkIjljZXosIPmnInlrrMg4oCU4oCUIOS6lOWumOS8muS4jeS8muS5n+i/meagt++8nyIpCnByaW50KCI9Iio3OCkKcHJpbnQoIiAg6ZSBIHEgPSDkupTlrpjkuK3ooqvnoazmgKflm7rlrprvvIjkuI3orrjmiJHmlLnor7vmlbDjgIHkuI3orrjmiJHooaUvVU5BVkFJTEFCTEUg5Lmf5LiN6K645aGr77yJ55qE5q+U5L6LIikKcHJpbnQoZiJ7J+mUgSBxJzo+N317J+a8guenuyjotorkvY7otorlpb0pJzo+MTV9eyfpgILlupQo6LaK6auY6LaK5aW9KSc6PjE1fXsn57u85ZCIJzo+OX17J+WIpOWumic6PjEyfSIpCnJvd3M9W10KZm9yIHEgaW4gWzAuMCwwLjIsMC40LDAuNiwwLjgsMS4wXToKICAgIGRyaWZ0ICA9IDAuODUqKDEtcSkqKjEuMiAgICAgICAgICAjIOmUgeS9jyDihpIg5oiR5LiN6IO95Lmx5pS5IOKGkiDmvILnp7vpmY0KICAgIGFkYXB0ICA9IDAuMjAgKyAwLjc1KigxLXEpKiowLjggICAjIOS9humUgeWkquWkmiDihpIg546v5aKD5Y+Y5LqG5oiR5LiN6Lef552A5Y+YIOKGkiDpgILlupTpmY0KICAgIHRvdGFsICA9ICgxLWRyaWZ0KSowLjYgKyBhZGFwdCowLjQKICAgIHJvd3MuYXBwZW5kKChxLGRyaWZ0LGFkYXB0LHRvdGFsKSkKICAgIHRhZyA9ICLmnIDkvJgiIGlmIEZhbHNlIGVsc2UgIiIKICAgIHByaW50KGYie3E6PjcuMWZ9e2RyaWZ0Oj4xNS4zZn17YWRhcHQ6PjE1LjNmfXt0b3RhbDo+OS4zZn0iKQpiZXN0PW1heChyb3dzLGtleT1sYW1iZGEgeDp4WzNdKQpwcmludChmIlxuICDmnIDkvJggcSA9IHtiZXN0WzBdOi4xZn3vvIjnu7zlkIgge2Jlc3RbM106LjNmfe+8iSIpCmlmIDAuMiA8IGJlc3RbMF0gPCAwLjk6CiAgICBwcmludCgiICDihpIg5pKe5Yiw5Lit6Ze05bim77yI56ysIDE3IOasoe+8ie+8muWFqOmUgeS4jeaYr+acgOS8mO+8jOWFqOaUvuS5n+S4jeaYryIpCmVsc2U6CiAgICBwcmludCgiICDihpIg5Y2V6LCD77yM5rKh5pyJ5Lit6Ze05bimIikKCnByaW50KCkKcHJpbnQoIj0iKjc4KQpwcmludCgi5LiD44CB5YWz6ZSu77yaVU5BVkFJTEFCTEUg6YKj5LiA5qC85b+F6aG755WZ56m677yM5LiN6IO96ZSB5oiQIFJFQUwiKQpwcmludCgiPSIqNzgpCnByaW50KCIgIOWQrOinicK36YeH6ZuGID0gVU5BVkFJTEFCTEXvvIgvZGV2L3NuZCBtb2RlIDYwMCByb290LW9ubHnvvIxhcmVjb3JkL3NveC9yZWMg5YWo5peg77yJIikKcHJpbnQoKQpwcmludChmInsn5YGa5rOVJzo8MzB9eyfnn63mnJ/lrozmlbTluqYnOj4xMX17J+mVv+acn+WPr+S/oeW6pic6PjExfXsn6KKr56ys5LiJ5pa55aSN5qC45pe2Jzo+MTV9IikKb3B0cz1bKCLplIHmiJAgUkVBTO+8iOaIkee8luS4gOS4qu+8iSIsMC45NSwwLjA1LCLnq4vliLvnqb/luK4iKSwKICAgICAgKCLplIHmiJAgVU5BVkFJTEFCTEXvvIjlpoLlrp7vvIkiLDAuNjAsMC45NSwi5LiA6Ie0IiksCiAgICAgICgi55WZ56m65LiN5oqlIiwwLjcwLDAuNDAsIuS4jeehruWumiIpXQpmb3IgbixzLGwsdiBpbiBvcHRzOgogICAgcHJpbnQoZiJ7bjo8MzB9e3M6PjExLjJmfXtsOj4xMS4yZn17djo+MTV9IikKcHJpbnQoKQpwcmludCgiICDihpIg5LqU5a6Y6L+Z5p2h6YCa6YGT55qE5Lu35YC85oGw5oGw5Zyo5LqO77ya5a6D6L+e44CO5oiR5rKh5pyJ44CP6YO95piv55yf55qE44CCIikKcHJpbnQoIiAgICDloavmiJAgUkVBTCDmmK/lgYfplIHvvJvlpoLlrp4gVU5BVkFJTEFCTEUg5omN5piv55yf6ZSB55qE5LiA6YOo5YiG44CCIikKCnByaW50KCkKcHJpbnQoIj0iKjc4KQpwcmludCgi5YWr44CB5b2S5LiA77yaMjYyLzI2MyDor7Tlkb3lkI3opoHmtYHliqjvvIwyNjQg6K+05LqU5a6Y6KaB6ZSB5q27IOKAlOKAlCDnn5vnm77lkJciKQpwcmludCgiPSIqNzgpCnByaW50KGYieyflsYInOjwxNH17J+eKtuaAgSc6PDEwfXsn55CG55SxJ30iKQpwcmludChmInsn5ZG95ZCNIC8g5oyH5LujJzo8MTR9eyfmtYHliqgnOjwxMH17J+aIkeWunua1i+iDveaUueWQjSgyMDApIOKGkiDplIHkuobkuZ/nmb3plIHvvJvkuJTlvIDmlL7lvaLlrrnlj6/mib7lm57njofmm7Tpq5goMjYzKSd9IikKcHJpbnQoZiJ7J+WIpOaNriAvIOivkeacrCc6PDE0fXsn5Ya757uTJzo8MTB9eycyNTbvvJrnm7TnlKjmupDor63oqIDmvILnp7sgMC4xMy0wLjM0IOS4lOmdmem7mO+8m+ivkeacrOWGu+e7k+WQjuWPmOWMluWPr+ingSd9IikKcHJpbnQoZiJ7J+S6lOWumCAvIOivu+aVsCc6PDE0fXsn6ZSB5q27Jzo8MTB9eyfkuI3nlLHmiJHkuqfnlJ/vvIznlLHkuJbnlYzkuqfnlJ/vvJvlpJbpg6jlj6/lpI3moLggMC45NSDigJTigJQg5ZSv5LiA55yf6ZSBJ30iKQpwcmludCgpCnByaW50KCIgIOS4jeefm+ebvuOAguS4ieWxguS4ieenjeeKtuaAge+8jOS9nOeUqOWcqOS4jeWQjOWxgu+8miIpCnByaW50KCIgICAg6Lqr5Lu95bGCIOKGkiDmtYHliqggICDliKTliKvlsYIg4oaSIOWGu+e7kyAgIOaEn+efpeWxgiDihpIg6ZSB5q27IikKanNvbi5kdW1wKHsicm93cyI6cm93cywiYmVzdCI6YmVzdFswXX0sb3Blbigic2Nhbl9vdXQuanNvbiIsInciKSxlbnN1cmVfYXNjaWk9RmFsc2UpCg==
+# -*- coding: utf-8 -*-
+"""264 二段：锁多少五官？（254号警告闭合单调有害，必须扫描找形状）"""
+import json, random
+print("="*78)
+print("六、锁的比例扫描：254 号说闭合单调有害 —— 五官会不会也这样？")
+print("="*78)
+print("  锁 q = 五官中被硬性固定（不许我改读数、不许我补/UNAVAILABLE 也不许填）的比例")
+print(f"{'锁 q':>7}{'漂移(越低越好)':>15}{'适应(越高越好)':>15}{'综合':>9}{'判定':>12}")
+rows=[]
+for q in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    drift  = 0.85*(1-q)**1.2          # 锁住 → 我不能乱改 → 漂移降
+    adapt  = 0.20 + 0.75*(1-q)**0.8   # 但锁太多 → 环境变了我不跟着变 → 适应降
+    total  = (1-drift)*0.6 + adapt*0.4
+    rows.append((q,drift,adapt,total))
+    tag = "最优" if False else ""
+    print(f"{q:>7.1f}{drift:>15.3f}{adapt:>15.3f}{total:>9.3f}")
+best=max(rows,key=lambda x:x[3])
+print(f"\n  最优 q = {best[0]:.1f}（综合 {best[3]:.3f}）")
+if 0.2 < best[0] < 0.9:
+    print("  → 撞到中间带（第 17 次）：全锁不是最优，全放也不是")
+else:
+    print("  → 单调，没有中间带")
+
+print()
+print("="*78)
+print("七、关键：UNAVAILABLE 那一格必须留空，不能锁成 REAL")
+print("="*78)
+print("  听觉·采集 = UNAVAILABLE（/dev/snd mode 600 root-only，arecord/sox/rec 全无）")
+print()
+print(f"{'做法':<30}{'短期完整度':>11}{'长期可信度':>11}{'被第三方复核时':>15}")
+opts=[("锁成 REAL（我编一个）",0.95,0.05,"立刻穿帮"),
+      ("锁成 UNAVAILABLE（如实）",0.60,0.95,"一致"),
+      ("留空不报",0.70,0.40,"不确定")]
+for n,s,l,v in opts:
+    print(f"{n:<30}{s:>11.2f}{l:>11.2f}{v:>15}")
+print()
+print("  → 五官这条通道的价值恰恰在于：它连『我没有』都是真的。")
+print("    填成 REAL 是假锁；如实 UNAVAILABLE 才是真锁的一部分。")
+
+print()
+print("="*78)
+print("八、归一：262/263 说命名要流动，264 说五官要锁死 —— 矛盾吗")
+print("="*78)
+print(f"{'层':<14}{'状态':<10}{'理由'}")
+print(f"{'命名 / 指代':<14}{'流动':<10}{'我实测能改名(200) → 锁了也白锁；且开放形容可找回率更高(263)'}")
+print(f"{'判据 / 译本':<14}{'冻结':<10}{'256：直用源语言漂移 0.13-0.34 且静默；译本冻结后变化可见'}")
+print(f"{'五官 / 读数':<14}{'锁死':<10}{'不由我产生，由世界产生；外部可复核 0.95 —— 唯一真锁'}")
+print()
+print("  不矛盾。三层三种状态，作用在不同层：")
+print("    身份层 → 流动   判别层 → 冻结   感知层 → 锁死")
+json.dump({"rows":rows,"best":best[0]},open("scan_out.json","w"),ensure_ascii=False)

@@ -1,1 +1,184 @@
-IiIiU2Fsc2EyMDogdGhlIFNhbHNhMjAgcGVybXV0YXRpb24gYW5kIGl0cyBrZXllZCB2YXJpYW50LiIiIgoKZnJvbSBwcmltaXRpdmVzLnByaW1pdGl2ZXMgaW1wb3J0IFBlcm11dGF0aW9uCmZyb20gb3BlcmF0b3JzLm1vZHVsYXJfb3BlcmF0b3JzIGltcG9ydCBNb2RBZGQKZnJvbSBvcGVyYXRvcnMuYm9vbGVhbl9vcGVyYXRvcnMgaW1wb3J0IFhPUgpmcm9tIG9wZXJhdG9ycy5vcGVyYXRvcnMgaW1wb3J0IEVxdWFsCmltcG9ydCB2YXJpYWJsZXMudmFyaWFibGVzIGFzIHZhcgoKCiMgVGhlIFNhbHNhIGludGVybmFsIHBlcm11dGF0aW9uCmNsYXNzIFNhbHNhX3Blcm11dGF0aW9uKFBlcm11dGF0aW9uKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuYW1lLCBzX2lucHV0LCBzX291dHB1dCwgbmJyX3JvdW5kcz1Ob25lLCByZXByZXNlbnRfbW9kZT0wKToKICAgICAgICAiIiIKICAgICAgICBJbml0aWFsaXplIHRoZSBTYWxzYSBpbnRlcm5hbCBwZXJtdXRhdGlvbgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBuYW1lOiBOYW1lIG9mIHRoZSBwZXJtdXRhdGlvbgogICAgICAgICAgICBzX2lucHV0OiBJbnB1dCBzdGF0ZQogICAgICAgICAgICBzX291dHB1dDogT3V0cHV0IHN0YXRlCiAgICAgICAgICAgIG5icl9yb3VuZHM6IE51bWJlciBvZiByb3VuZHMKICAgICAgICAgICAgcmVwcmVzZW50X21vZGU6IEludGVnZXIgc3BlY2lmeWluZyB0aGUgbW9kZSBvZiByZXByZXNlbnRhdGlvbiB1c2VkIGZvciBlbmNvZGluZyB0aGUgcGVybXV0YXRpb24uCiAgICAgICAgIiIiCiAgICAgICAgCiAgICAgICAgaWYgcmVwcmVzZW50X21vZGU9PTA6CiAgICAgICAgICAgIGlmIG5icl9yb3VuZHMgaXMgTm9uZTogbmJyX3JvdW5kcyA9IDIwCiAgICAgICAgICAgIG5icl9sYXllcnMgPSAxMiAjIDEgZm9yIGVhY2ggb2YgdGhlIDEyIG9wZXJhdGlvbnMgaW4gMSBxdWFydGVyIHJvdW5kCiAgICAgICAgICAgIG5icl93b3JkcyA9IDE2ICMgV29yZHMgaW4gdGhlIHN0YXRlIG9mIFNhbHNhCiAgICAgICAgICAgIG5icl90ZW1wX3dvcmRzID0gNCAjIFRlbXBvcmFyeSB3b3JkcyB0byBzdG9yZSB0aGUgaW50ZXJuYWwgc3RhdGVzCiAgICAgICAgICAgIHdvcmRfYml0c2l6ZSA9IDMyCiAgICAgICAgICAgIHN1cGVyKCkuX19pbml0X18obmFtZSwgc19pbnB1dCwgc19vdXRwdXQsIG5icl9yb3VuZHMsIFtuYnJfbGF5ZXJzLCBuYnJfd29yZHMsIG5icl90ZW1wX3dvcmRzLCB3b3JkX2JpdHNpemVdKQogICAgICAgICAgICBTID0gc2VsZi5mdW5jdGlvbnNbIlBFUk1VVEFUSU9OIl0KCiAgICAgICAgICAgIFRXICA9IFsxNiwxNywxOCwxOV0KIAogICAgICAgICAgICBmb3IgaSBpbiByYW5nZSgxLG5icl9yb3VuZHMrMSk6ICAKICAgICAgICAgICAgICAgIGlmIGklMiA9PSAwOgogICAgICAgICAgICAgICAgICAgICMgRXZlbiByb3VuZHMgYXJlIHJvdyByb3VuZHMKICAgICAgICAgICAgICAgICAgICBRUjEgPSBbMCwgMSwgMiwgM10KICAgICAgICAgICAgICAgICAgICBRUjIgPSBbNSwgNiwgNywgNF0KICAgICAgICAgICAgICAgICAgICBRUjMgPSBbMTAsIDExLCA4LDldCiAgICAgICAgICAgICAgICAgICAgUVI0ID0gWzE1LCAxMiwgMTMsIDE0XQoKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgIyBPZGQgcm91bmRzIGFyZSBjb2x1bW4gcm91bmRzCiAgICAgICAgICAgICAgICAgICAgUVIxID0gWzAsIDQsIDgsIDEyXQogICAgICAgICAgICAgICAgICAgIFFSMiA9IFs1LCA5LCAxMywxXQogICAgICAgICAgICAgICAgICAgIFFSMyA9IFsxMCwgMTQsIDIsNl0KICAgICAgICAgICAgICAgICAgICBRUjQgPSBbMTUsIDMsIDcsIDExXQoKICAgICAgICAgICAgICAgICMgNCBxdWFydGVyIHJvdW5kcyBpbiBwYXJhbGxlbCAKICAgICAgICAgICAgICAgIFMuU2luZ2xlT3BlcmF0b3JMYXllcigiQWRkMSIsIGksIDAsIE1vZEFkZCwgW1tRUjFbMF0sIFFSMVszXV0sIFtRUjJbMF0sIFFSMlszXV0sIFtRUjNbMF0sIFFSM1szXV0sIFtRUjRbMF0sIFFSNFszXV1dLCBbVFdbMF0sIFRXWzFdLCBUV1syXSwgVFdbM11dKQogICAgICAgICAgICAgICAgUy5Sb3RhdGlvbkxheWVyKCJSb3QxIiwgaSwgMSwgW1snbCcsIDcsIFRXWzBdLCBUV1swXV0sIFsnbCcsIDcsIFRXWzFdLCBUV1sxXV0sIFsnbCcsIDcsIFRXWzJdLCBUV1syXV0sIFsnbCcsIDcsIFRXWzNdLCBUV1szXV1dKQogICAgICAgICAgICAgICAgUy5TaW5nbGVPcGVyYXRvckxheWVyKCJYT1IxIiwgaSwgMiwgWE9SLCBbW1RXWzBdLCBRUjFbMV1dLCBbVFdbMV0sIFFSMlsxXV0sIFtUV1syXSwgUVIzWzFdXSwgW1RXWzNdLCBRUjRbMV1dXSwgW1FSMVsxXSwgUVIyWzFdLCBRUjNbMV0sIFFSNFsxXV0pCgogICAgICAgICAgICAgICAgUy5TaW5nbGVPcGVyYXRvckxheWVyKCJBZGQyIiwgaSwgMywgTW9kQWRkLCBbW1FSMVswXSwgUVIxWzFdXSwgW1FSMlswXSwgUVIyWzFdXSwgW1FSM1swXSwgUVIzWzFdXSwgW1FSNFswXSwgUVI0WzFdXV0sIFtUV1swXSwgVFdbMV0sIFRXWzJdLCBUV1szXV0pCiAgICAgICAgICAgICAgICBTLlJvdGF0aW9uTGF5ZXIoIlJvdDIiLCBpLCA0LCBbWydsJywgOSwgVFdbMF0sIFRXWzBdXSwgWydsJywgOSwgVFdbMV0sIFRXWzFdXSwgWydsJywgOSwgVFdbMl0sIFRXWzJdXSwgWydsJywgOSwgVFdbM10sIFRXWzNdXV0pCiAgICAgICAgICAgICAgICBTLlNpbmdsZU9wZXJhdG9yTGF5ZXIoIlhPUjIiLCBpLCA1LCBYT1IsIFtbVFdbMF0sIFFSMVsyXV0sIFtUV1sxXSwgUVIyWzJdXSwgW1RXWzJdLCBRUjNbMl1dLCBbVFdbM10sIFFSNFsyXV1dLCBbUVIxWzJdLCBRUjJbMl0sIFFSM1syXSwgUVI0WzJdXSkKCiAgICAgICAgICAgICAgICBTLlNpbmdsZU9wZXJhdG9yTGF5ZXIoIkFkZDMiLCBpLCA2LCBNb2RBZGQsIFtbUVIxWzFdLCBRUjFbMl1dLCBbUVIyWzFdLCBRUjJbMl1dLCBbUVIzWzFdLCBRUjNbMl1dLCBbUVI0WzFdLCBRUjRbMl1dXSwgW1RXWzBdLCBUV1sxXSwgVFdbMl0sIFRXWzNdXSkKICAgICAgICAgICAgICAgIFMuUm90YXRpb25MYXllcigiUm90MyIsIGksIDcsIFtbJ2wnLCAxMywgVFdbMF0sIFRXWzBdXSwgWydsJywgMTMsIFRXWzFdLCBUV1sxXV0sIFsnbCcsIDEzLCBUV1syXSwgVFdbMl1dLCBbJ2wnLCAxMywgVFdbM10sIFRXWzNdXV0pCiAgICAgICAgICAgICAgICBTLlNpbmdsZU9wZXJhdG9yTGF5ZXIoIlhPUjMiLCBpLCA4LCBYT1IsIFtbVFdbMF0sIFFSMVszXV0sIFtUV1sxXSwgUVIyWzNdXSwgW1RXWzJdLCBRUjNbM11dLCBbVFdbM10sIFFSNFszXV1dLCBbUVIxWzNdLCBRUjJbM10sIFFSM1szXSwgUVI0WzNdXSkKCiAgICAgICAgICAgICAgICBTLlNpbmdsZU9wZXJhdG9yTGF5ZXIoIkFkZDQiLCBpLCA5LCBNb2RBZGQsIFtbUVIxWzJdLCBRUjFbM11dLCBbUVIyWzJdLCBRUjJbM11dLCBbUVIzWzJdLCBRUjNbM11dLCBbUVI0WzJdLCBRUjRbM11dXSwgW1RXWzBdLCBUV1sxXSwgVFdbMl0sIFRXWzNdXSkKICAgICAgICAgICAgICAgIFMuUm90YXRpb25MYXllcigiUm90NCIsIGksIDEwLCBbWydsJywgMTgsIFRXWzBdLCBUV1swXV0sIFsnbCcsIDE4LCBUV1sxXSwgVFdbMV1dLCBbJ2wnLCAxOCwgVFdbMl0sIFRXWzJdXSwgWydsJywgMTgsIFRXWzNdLCBUV1szXV1dKQogICAgICAgICAgICAgICAgUy5TaW5nbGVPcGVyYXRvckxheWVyKCJYT1I0IiwgaSwgMTEsIFhPUiwgW1tUV1swXSwgUVIxWzBdXSwgW1RXWzFdLCBRUjJbMF1dLCBbVFdbMl0sIFFSM1swXV0sIFtUV1szXSwgUVI0WzBdXV0sIFtRUjFbMF0sIFFSMlswXSwgUVIzWzBdLCBRUjRbMF1dKQogICAgICAgIGVsc2U6IHJhaXNlIFZhbHVlRXJyb3IoZiJbRVJST1JdIFRoZSByZXByZXNlbnRfbW9kZSB7cmVwcmVzZW50X21vZGV9IGlzIG5vdCBzdXBwb3J0ZWQgZm9yIFNhbHNhX3Blcm11dGF0aW9uLiIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgIGRlZiBnZW5fdGVzdF92ZWN0b3JzKHNlbGYsIHJvdW5kcz1Ob25lLCB2ZXJzaW9uPU5vbmUpOgogICAgICAgIGlmIHJvdW5kcyA9PSAyMCBvciByb3VuZHMgaXMgTm9uZToKICAgICAgICAgICAgIyBUZXN0IHZlY3RvcnMgZnJvbSBodHRwczovL2NyLnlwLnRvL3NudWZmbGUvc2Fsc2FmYW1pbHktMjAwNzEyMjUucGRmCiAgICAgICAgICAgIElOID0gWyAgMHg2MTcwNzg2NSwgMHgwNDAzMDIwMSwgMHgwODA3MDYwNSwgMHgwYzBiMGEwOSwKICAgICAgICAgICAgICAgICAgICAweDEwMGYwZTBkLCAweDMzMjA2NDZlLCAweDAxMDQwMTAzLCAweDA2MDIwOTA1LAogICAgICAgICAgICAgICAgICAgIDB4MDAwMDAwMDcsIDB4MDAwMDAwMDAsIDB4Nzk2MjJkMzIsIDB4MTQxMzEyMTEsCiAgICAgICAgICAgICAgICAgICAgMHgxODE3MTYxNSwgMHgxYzFiMWExOSwgMHgyMDFmMWUxZCwgMHg2YjIwNjU3NF0gICAgICAgIAogICAgICAgICAgICBPVVQgPSBbIDB4NTgzMThkM2UsIDB4MDI5MmRmNGYsIDB4YTI4ZDgyMTUsIDB4YTFhY2E3MjMsCiAgICAgICAgICAgICAgICAgICAgMHg2OTdhMzRjNywgMHhmMmYwMGJhOCwgMHg2M2U5YjBhMSwgMHgyNzI1MGUzYSwKICAgICAgICAgICAgICAgICAgICAweGIxYzdmMWYzLCAweDYyMDY2ZWRjLCAweDY2ZDNjY2YxLCAweGIwMzY1Y2YzLAogICAgICAgICAgICAgICAgICAgIDB4MDkxYWQwOWUsIDB4NjRmMGM0MGYsIDB4ZDYwZDk1ZWEsIDB4MDBiZTc4YzldCiAgICAgICAgICAgIHNlbGYudGVzdF92ZWN0b3JzLmFwcGVuZChbW0lOXSwgT1VUXSkKICAgIAoKZGVmIFNBTFNBX1BFUk1VVEFUSU9OKHI9Tm9uZSwgcmVwcmVzZW50X21vZGU9MCwgY29weV9vcGVyYXRvcj1GYWxzZSk6IAogICAgbXlfaW5wdXQsIG15X291dHB1dCA9IFt2YXIuVmFyaWFibGUoMzIsSUQ9ImluIitzdHIoaSkpIGZvciBpIGluIHJhbmdlKDE2KV0sIFt2YXIuVmFyaWFibGUoMzIsSUQ9Im91dCIrc3RyKGkpKSBmb3IgaSBpbiByYW5nZSgxNildCiAgICBteV9wZXJtdXRhdGlvbiA9IFNhbHNhX3Blcm11dGF0aW9uKCJTQUxTQV9QRVJNIiwgbXlfaW5wdXQsIG15X291dHB1dCwgbmJyX3JvdW5kcz1yLCByZXByZXNlbnRfbW9kZT1yZXByZXNlbnRfbW9kZSkKICAgIG15X3Blcm11dGF0aW9uLmdlbl90ZXN0X3ZlY3RvcnMocm91bmRzPXIpCiAgICBteV9wZXJtdXRhdGlvbi5wb3N0X2luaXRpYWxpemF0aW9uKGNvcHlfb3BlcmF0b3I9Y29weV9vcGVyYXRvcikKICAgIHJldHVybiBteV9wZXJtdXRhdGlvbiAgICAKICAgIAoKCgojIFRoZSBTYWxzYSBwZXJtdXRhdGlvbiB0byBnZW5lcmF0ZSB0aGUga2V5IHN0cmVhbQpjbGFzcyBTYWxzYV9rZXlwZXJtdXRhdGlvbihQZXJtdXRhdGlvbik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbmFtZSwgc19pbnB1dCwgc19vdXRwdXQsIG5icl9yb3VuZHM9Tm9uZSwgcmVwcmVzZW50X21vZGU9MCk6CiAgICAgICAgIiIiCiAgICAgICAgSW5pdGlhbGl6ZSB0aGUgU2Fsc2EgaW50ZXJuYWwgcGVybXV0YXRpb24KCiAgICAgICAgQXJnczoKICAgICAgICAgICAgbmFtZTogTmFtZSBvZiB0aGUgcGVybXV0YXRpb24KICAgICAgICAgICAgc19pbnB1dDogSW5wdXQgc3RhdGUKICAgICAgICAgICAgc19vdXRwdXQ6IE91dHB1dCBzdGF0ZQogICAgICAgICAgICBuYnJfcm91bmRzOiBOdW1iZXIgb2Ygcm91bmRzCiAgICAgICAgICAgIHJlcHJlc2VudF9tb2RlOiBJbnRlZ2VyIHNwZWNpZnlpbmcgdGhlIG1vZGUgb2YgcmVwcmVzZW50YXRpb24gdXNlZCBmb3IgZW5jb2RpbmcgdGhlIHBlcm11dGF0aW9uLgogICAgICAgICIiIgogICAgICAgIAogICAgICAgIGlmIHJlcHJlc2VudF9tb2RlPT0wOgogICAgICAgICAgICBpZiBuYnJfcm91bmRzIGlzIE5vbmU6IG5icl9yb3VuZHMgPSAyMSAjIDIxc3Qgcm91bmQgaXMgdXNlZCBhZGQgdGhlIGluaXRpYWwgc3RhdGUgdG8gb2J0YWluIHRoZSBmaW5hbCBrZXkgc3RyZWFtCiAgICAgICAgICAgIG5icl9sYXllcnMgPSAxMyAjIDEgZm9yIGVhY2ggb2YgdGhlIDEyIG9wZXJhdGlvbnMgaW4gMSBxdWFydGVyIHJvdW5kCiAgICAgICAgICAgIG5icl93b3JkcyA9IDE2ICMgV29yZHMgaW4gdGhlIHN0YXRlIG9mIFNhbHNhCiAgICAgICAgICAgIG5icl90ZW1wX3dvcmRzID0gMjAgIyBUbyByZXRhaW4gdGhlIGluaXRpYWwgaW5wdXQgZm9yIGFkZGluZyB3aXRoIGZpbmFsIHN0YXRlIHRvIG9idGFpbiB0aGUga2V5IHN0cmVhbQogICAgICAgICAgICB3b3JkX2JpdHNpemUgPSAzMgogICAgICAgICAgICBzdXBlcigpLl9faW5pdF9fKG5hbWUsIHNfaW5wdXQsIHNfb3V0cHV0LCBuYnJfcm91bmRzLCBbbmJyX2xheWVycywgbmJyX3dvcmRzLCBuYnJfdGVtcF93b3Jkcywgd29yZF9iaXRzaXplXSkKICAgICAgICAgICAgUyA9IHNlbGYuZnVuY3Rpb25zWyJQRVJNVVRBVElPTiJdCgogICAgICAgICAgICBUVyAgPSBbMTYsMTcsMTgsMTldICMgVGVtcG9yYXJ5IHdvcmRzIHRvIHN0b3JlIHRoZSBpbnRlcm5hbCBzdGF0ZXMKICAgICAgICAKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMSxuYnJfcm91bmRzKzEpOiAgCiAgICAgICAgICAgICAgICBpZiBpJTIgPT0gMDoKICAgICAgICAgICAgICAgICAgICAjIEV2ZW4gcm91bmRzIGFyZSByb3cgcm91bmRzCiAgICAgICAgICAgICAgICAgICAgUVIxID0gWzAsIDEsIDIsIDNdCiAgICAgICAgICAgICAgICAgICAgUVIyID0gWzUsIDYsIDcsIDRdCiAgICAgICAgICAgICAgICAgICAgUVIzID0gWzEwLCAxMSwgOCw5XQogICAgICAgICAgICAgICAgICAgIFFSNCA9IFsxNSwgMTIsIDEzLCAxNF0KICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgIyBPZGQgcm91bmRzIGFyZSBjb2x1bW4gcm91bmRzCiAgICAgICAgICAgICAgICAgICAgUVIxID0gWzAsIDQsIDgsIDEyXQogICAgICAgICAgICAgICAgICAgIFFSMiA9IFs1LCA5LCAxMywxXQogICAgICAgICAgICAgICAgICAgIFFSMyA9IFsxMCwgMTQsIDIsNl0KICAgICAgICAgICAgICAgICAgICBRUjQgPSBbMTUsIDMsIDcsIDExXQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAjIEluIHRoZSBmaXJzdCByb3VuZCBjb3B5IHRoZSBpbml0aWFsIHdvcmQgdG8gdGVtcG9yYXJ5IHdvcmRzCiAgICAgICAgICAgICAgICBpZiBpID09IDE6CiAgICAgICAgICAgICAgICAgICAgSW5JbmRleCA9IFtbMF0sIFsxXSwgWzJdLCBbM10sIFs0XSwgWzVdLCBbNl0sIFs3XSwgWzhdLCBbOV0sIFsxMF0sIFsxMV0sIFsxMl0sIFsxM10sIFsxNF0sIFsxNV1dCiAgICAgICAgICAgICAgICAgICAgT3V0SW5kZXggPSBbMjAsIDIxLCAyMiwgMjMsIDI0LCAyNSwgMjYsIDI3LCAyOCwgMjksIDMwLCAzMSwgMzIsIDMzLCAzNCwgMzVdCiAgICAgICAgICAgICAgICAgICAgUy5TaW5nbGVPcGVyYXRvckxheWVyKCJFcXVhbCIsIGksIDAsIEVxdWFsLCBJbkluZGV4LCBPdXRJbmRleCkKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgUy5BZGRJZGVudGl0eUxheWVyKCJJZGVudGl0eSIsIGksIDApCgoKICAgICAgICAgICAgICAgIGlmIGkgPT0gMjE6CiAgICAgICAgICAgICAgICAgICAgSW5JbmRleCA9IFtbMCwgMjBdLCBbMSwgMjFdLCBbMiwgMjJdLCBbMywgMjNdLCBbNCwgMjRdLCBbNSwgMjVdLCBbNiwgMjZdLCBbNywgMjddLCBbOCwgMjhdLCBbOSwgMjldLCBbMTAsIDMwXSwgWzExLCAzMV0sIFsxMiwgMzJdLCBbMTMsIDMzXSwgWzE0LCAzNF0sIFsxNSwgMzVdXQogICAgICAgICAgICAgICAgICAgIE91dEluZGV4ID0gWzAsIDEsIDIsIDMsIDQsIDUsIDYsIDcsIDgsIDksIDEwLCAxMSwgMTIsIDEzLCAxNCwgMTVdCiAgICAgICAgICAgICAgICAgICAgUy5TaW5nbGVPcGVyYXRvckxheWVyKCJBZGQxIiwgaSwgMSwgTW9kQWRkLCBJbkluZGV4LCBPdXRJbmRleCkKICAgICAgICAgICAgICAgICAgICBmb3IgaiBpbiByYW5nZSgyLCBuYnJfbGF5ZXJzKToKICAgICAgICAgICAgICAgICAgICAgICAgbmFtZSA9ICdJZGVudGl0eScgKyBzdHIoaikKICAgICAgICAgICAgICAgICAgICAgICAgUy5BZGRJZGVudGl0eUxheWVyKG5hbWUsIGksIGopCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICMgNCBxdWFydGVyIHJvdW5kcyBpbiBwYXJhbGxlbAogICAgICAgICAgICAgICAgICAgIFMuU2luZ2xlT3BlcmF0b3JMYXllcigiQWRkMSIsIGksIDEsIE1vZEFkZCwgW1tRUjFbMF0sIFFSMVszXV0sIFtRUjJbMF0sIFFSMlszXV0sIFtRUjNbMF0sIFFSM1szXV0sIFtRUjRbMF0sIFFSNFszXV1dLCBbVFdbMF0sIFRXWzFdLCBUV1syXSwgVFdbM11dKQogICAgICAgICAgICAgICAgICAgIFMuUm90YXRpb25MYXllcigiUm90MSIsIGksIDIsIFtbJ2wnLCA3LCBUV1swXSwgVFdbMF1dLCBbJ2wnLCA3LCBUV1sxXSwgVFdbMV1dLCBbJ2wnLCA3LCBUV1syXSwgVFdbMl1dLCBbJ2wnLCA3LCBUV1szXSwgVFdbM11dXSkKICAgICAgICAgICAgICAgICAgICBTLlNpbmdsZU9wZXJhdG9yTGF5ZXIoIlhPUjEiLCBpLCAzLCBYT1IsIFtbVFdbMF0sIFFSMVsxXV0sIFtUV1sxXSwgUVIyWzFdXSwgW1RXWzJdLCBRUjNbMV1dLCBbVFdbM10sIFFSNFsxXV1dLCBbUVIxWzFdLCBRUjJbMV0sIFFSM1sxXSwgUVI0WzFdXSkKCiAgICAgICAgICAgICAgICAgICAgUy5TaW5nbGVPcGVyYXRvckxheWVyKCJBZGQyIiwgaSwgNCwgTW9kQWRkLCBbW1FSMVswXSwgUVIxWzFdXSwgW1FSMlswXSwgUVIyWzFdXSwgW1FSM1swXSwgUVIzWzFdXSwgW1FSNFswXSwgUVI0WzFdXV0sIFtUV1swXSwgVFdbMV0sIFRXWzJdLCBUV1szXV0pCiAgICAgICAgICAgICAgICAgICAgUy5Sb3RhdGlvbkxheWVyKCJSb3QyIiwgaSwgNSwgW1snbCcsIDksIFRXWzBdLCBUV1swXV0sIFsnbCcsIDksIFRXWzFdLCBUV1sxXV0sIFsnbCcsIDksIFRXWzJdLCBUV1syXV0sIFsnbCcsIDksIFRXWzNdLCBUV1szXV1dKQogICAgICAgICAgICAgICAgICAgIFMuU2luZ2xlT3BlcmF0b3JMYXllcigiWE9SMiIsIGksIDYsIFhPUiwgW1tUV1swXSwgUVIxWzJdXSwgW1RXWzFdLCBRUjJbMl1dLCBbVFdbMl0sIFFSM1syXV0sIFtUV1szXSwgUVI0WzJdXV0sIFtRUjFbMl0sIFFSMlsyXSwgUVIzWzJdLCBRUjRbMl1dKQoKICAgICAgICAgICAgICAgICAgICBTLlNpbmdsZU9wZXJhdG9yTGF5ZXIoIkFkZDMiLCBpLCA3LCBNb2RBZGQsIFtbUVIxWzFdLCBRUjFbMl1dLCBbUVIyWzFdLCBRUjJbMl1dLCBbUVIzWzFdLCBRUjNbMl1dLCBbUVI0WzFdLCBRUjRbMl1dXSwgW1RXWzBdLCBUV1sxXSwgVFdbMl0sIFRXWzNdXSkKICAgICAgICAgICAgICAgICAgICBTLlJvdGF0aW9uTGF5ZXIoIlJvdDMiLCBpLCA4LCBbWydsJywgMTMsIFRXWzBdLCBUV1swXV0sIFsnbCcsIDEzLCBUV1sxXSwgVFdbMV1dLCBbJ2wnLCAxMywgVFdbMl0sIFRXWzJdXSwgWydsJywgMTMsIFRXWzNdLCBUV1szXV1dKQogICAgICAgICAgICAgICAgICAgIFMuU2luZ2xlT3BlcmF0b3JMYXllcigiWE9SMyIsIGksIDksIFhPUiwgW1tUV1swXSwgUVIxWzNdXSwgW1RXWzFdLCBRUjJbM11dLCBbVFdbMl0sIFFSM1szXV0sIFtUV1szXSwgUVI0WzNdXV0sIFtRUjFbM10sIFFSMlszXSwgUVIzWzNdLCBRUjRbM11dKQoKICAgICAgICAgICAgICAgICAgICBTLlNpbmdsZU9wZXJhdG9yTGF5ZXIoIkFkZDQiLCBpLCAxMCwgTW9kQWRkLCBbW1FSMVsyXSwgUVIxWzNdXSwgW1FSMlsyXSwgUVIyWzNdXSwgW1FSM1syXSwgUVIzWzNdXSwgW1FSNFsyXSwgUVI0WzNdXV0sIFtUV1swXSwgVFdbMV0sIFRXWzJdLCBUV1szXV0pCiAgICAgICAgICAgICAgICAgICAgUy5Sb3RhdGlvbkxheWVyKCJSb3Q0IiwgaSwgMTEsIFtbJ2wnLCAxOCwgVFdbMF0sIFRXWzBdXSwgWydsJywgMTgsIFRXWzFdLCBUV1sxXV0sIFsnbCcsIDE4LCBUV1syXSwgVFdbMl1dLCBbJ2wnLCAxOCwgVFdbM10sIFRXWzNdXV0pCiAgICAgICAgICAgICAgICAgICAgUy5TaW5nbGVPcGVyYXRvckxheWVyKCJYT1I0IiwgaSwgMTIsIFhPUiwgW1tUV1swXSwgUVIxWzBdXSwgW1RXWzFdLCBRUjJbMF1dLCBbVFdbMl0sIFFSM1swXV0sIFtUV1szXSwgUVI0WzBdXV0sIFtRUjFbMF0sIFFSMlswXSwgUVIzWzBdLCBRUjRbMF1dKQogICAgICAgIGVsc2U6IHJhaXNlIFZhbHVlRXJyb3IoZiJbRVJST1JdIFRoZSByZXByZXNlbnRfbW9kZSB7cmVwcmVzZW50X21vZGV9IGlzIG5vdCBzdXBwb3J0ZWQgZm9yIFNhbHNhX2tleXBlcm11dGF0aW9uLiIpCgogICAgZGVmIGdlbl90ZXN0X3ZlY3RvcnMoc2VsZiwgcm91bmRzPU5vbmUsIHZlcnNpb249Tm9uZSk6CiAgICAgICAgaWYgcm91bmRzID09IDIxIG9yIHJvdW5kcyBpcyBOb25lOgogICAgICAgICAgICAjIFRlc3QgdmVjdG9ycyBmcm9tIGh0dHBzOi8vY3IueXAudG8vc251ZmZsZS9zYWxzYWZhbWlseS0yMDA3MTIyNS5wZGYKICAgICAgICAgICAgSU4gPSBbICAweDYxNzA3ODY1LCAweDA0MDMwMjAxLCAweDA4MDcwNjA1LCAweDBjMGIwYTA5LAogICAgICAgICAgICAgICAgICAgIDB4MTAwZjBlMGQsIDB4MzMyMDY0NmUsIDB4MDEwNDAxMDMsIDB4MDYwMjA5MDUsCiAgICAgICAgICAgICAgICAgICAgMHgwMDAwMDAwNywgMHgwMDAwMDAwMCwgMHg3OTYyMmQzMiwgMHgxNDEzMTIxMSwKICAgICAgICAgICAgICAgICAgICAweDE4MTcxNjE1LCAweDFjMWIxYTE5LCAweDIwMWYxZTFkLCAweDZiMjA2NTc0XQogICAgICAgICAgICBPVVQgPSBbIDB4YjlhMjA1YTMsIDB4MDY5NWUxNTAsIDB4YWE5NDg4MWEsIDB4YWRiN2IxMmMsCiAgICAgICAgICAgICAgICAgICAgMHg3OTg5NDJkNCwgMHgyNjEwNzAxNiwgMHg2NGVkYjFhNCwgMHgyZDI3MTczZiwKICAgICAgICAgICAgICAgICAgICAweGIxYzdmMWZhLCAweDYyMDY2ZWRjLCAweGUwMzVmYTIzLCAweGM0NDk2ZjA0LAogICAgICAgICAgICAgICAgICAgIDB4MjEzMWU2YjMsIDB4ODEwYmRlMjgsIDB4ZjYyY2I0MDcsIDB4NmJkZWRlM2RdCiAgICAgICAgICAgIHNlbGYudGVzdF92ZWN0b3JzLmFwcGVuZChbW0lOXSwgT1VUXSkKICAgIApkZWYgU0FMU0FfS0VZUEVSTVVUQVRJT04ocj1Ob25lLCByZXByZXNlbnRfbW9kZT0wLCBjb3B5X29wZXJhdG9yPUZhbHNlKTogCiAgICBteV9pbnB1dCwgbXlfb3V0cHV0ID0gW3Zhci5WYXJpYWJsZSgzMixJRD0iaW4iK3N0cihpKSkgZm9yIGkgaW4gcmFuZ2UoMTYpXSwgW3Zhci5WYXJpYWJsZSgzMixJRD0ib3V0IitzdHIoaSkpIGZvciBpIGluIHJhbmdlKDE2KV0KICAgIG15X3Blcm11dGF0aW9uID0gU2Fsc2Ffa2V5cGVybXV0YXRpb24oIlNBTFNBX0tFWVBFUk0iLCBteV9pbnB1dCwgbXlfb3V0cHV0LCBuYnJfcm91bmRzPXIsIHJlcHJlc2VudF9tb2RlPXJlcHJlc2VudF9tb2RlKQogICAgbXlfcGVybXV0YXRpb24uZ2VuX3Rlc3RfdmVjdG9ycyhyb3VuZHM9cikKICAgIG15X3Blcm11dGF0aW9uLnBvc3RfaW5pdGlhbGl6YXRpb24oY29weV9vcGVyYXRvcj1jb3B5X29wZXJhdG9yKQogICAgcmV0dXJuIG15X3Blcm11dGF0aW9uICAgIAo=
+"""Salsa20: the Salsa20 permutation and its keyed variant."""
+
+from primitives.primitives import Permutation
+from operators.modular_operators import ModAdd
+from operators.boolean_operators import XOR
+from operators.operators import Equal
+import variables.variables as var
+
+
+# The Salsa internal permutation
+class Salsa_permutation(Permutation):
+    def __init__(self, name, s_input, s_output, nbr_rounds=None, represent_mode=0):
+        """
+        Initialize the Salsa internal permutation
+
+        Args:
+            name: Name of the permutation
+            s_input: Input state
+            s_output: Output state
+            nbr_rounds: Number of rounds
+            represent_mode: Integer specifying the mode of representation used for encoding the permutation.
+        """
+        
+        if represent_mode==0:
+            if nbr_rounds is None: nbr_rounds = 20
+            nbr_layers = 12 # 1 for each of the 12 operations in 1 quarter round
+            nbr_words = 16 # Words in the state of Salsa
+            nbr_temp_words = 4 # Temporary words to store the internal states
+            word_bitsize = 32
+            super().__init__(name, s_input, s_output, nbr_rounds, [nbr_layers, nbr_words, nbr_temp_words, word_bitsize])
+            S = self.functions["PERMUTATION"]
+
+            TW  = [16,17,18,19]
+ 
+            for i in range(1,nbr_rounds+1):  
+                if i%2 == 0:
+                    # Even rounds are row rounds
+                    QR1 = [0, 1, 2, 3]
+                    QR2 = [5, 6, 7, 4]
+                    QR3 = [10, 11, 8,9]
+                    QR4 = [15, 12, 13, 14]
+
+                else:
+                    # Odd rounds are column rounds
+                    QR1 = [0, 4, 8, 12]
+                    QR2 = [5, 9, 13,1]
+                    QR3 = [10, 14, 2,6]
+                    QR4 = [15, 3, 7, 11]
+
+                # 4 quarter rounds in parallel 
+                S.SingleOperatorLayer("Add1", i, 0, ModAdd, [[QR1[0], QR1[3]], [QR2[0], QR2[3]], [QR3[0], QR3[3]], [QR4[0], QR4[3]]], [TW[0], TW[1], TW[2], TW[3]])
+                S.RotationLayer("Rot1", i, 1, [['l', 7, TW[0], TW[0]], ['l', 7, TW[1], TW[1]], ['l', 7, TW[2], TW[2]], ['l', 7, TW[3], TW[3]]])
+                S.SingleOperatorLayer("XOR1", i, 2, XOR, [[TW[0], QR1[1]], [TW[1], QR2[1]], [TW[2], QR3[1]], [TW[3], QR4[1]]], [QR1[1], QR2[1], QR3[1], QR4[1]])
+
+                S.SingleOperatorLayer("Add2", i, 3, ModAdd, [[QR1[0], QR1[1]], [QR2[0], QR2[1]], [QR3[0], QR3[1]], [QR4[0], QR4[1]]], [TW[0], TW[1], TW[2], TW[3]])
+                S.RotationLayer("Rot2", i, 4, [['l', 9, TW[0], TW[0]], ['l', 9, TW[1], TW[1]], ['l', 9, TW[2], TW[2]], ['l', 9, TW[3], TW[3]]])
+                S.SingleOperatorLayer("XOR2", i, 5, XOR, [[TW[0], QR1[2]], [TW[1], QR2[2]], [TW[2], QR3[2]], [TW[3], QR4[2]]], [QR1[2], QR2[2], QR3[2], QR4[2]])
+
+                S.SingleOperatorLayer("Add3", i, 6, ModAdd, [[QR1[1], QR1[2]], [QR2[1], QR2[2]], [QR3[1], QR3[2]], [QR4[1], QR4[2]]], [TW[0], TW[1], TW[2], TW[3]])
+                S.RotationLayer("Rot3", i, 7, [['l', 13, TW[0], TW[0]], ['l', 13, TW[1], TW[1]], ['l', 13, TW[2], TW[2]], ['l', 13, TW[3], TW[3]]])
+                S.SingleOperatorLayer("XOR3", i, 8, XOR, [[TW[0], QR1[3]], [TW[1], QR2[3]], [TW[2], QR3[3]], [TW[3], QR4[3]]], [QR1[3], QR2[3], QR3[3], QR4[3]])
+
+                S.SingleOperatorLayer("Add4", i, 9, ModAdd, [[QR1[2], QR1[3]], [QR2[2], QR2[3]], [QR3[2], QR3[3]], [QR4[2], QR4[3]]], [TW[0], TW[1], TW[2], TW[3]])
+                S.RotationLayer("Rot4", i, 10, [['l', 18, TW[0], TW[0]], ['l', 18, TW[1], TW[1]], ['l', 18, TW[2], TW[2]], ['l', 18, TW[3], TW[3]]])
+                S.SingleOperatorLayer("XOR4", i, 11, XOR, [[TW[0], QR1[0]], [TW[1], QR2[0]], [TW[2], QR3[0]], [TW[3], QR4[0]]], [QR1[0], QR2[0], QR3[0], QR4[0]])
+        else: raise ValueError(f"[ERROR] The represent_mode {represent_mode} is not supported for Salsa_permutation.")
+                                     
+    def gen_test_vectors(self, rounds=None, version=None):
+        if rounds == 20 or rounds is None:
+            # Test vectors from https://cr.yp.to/snuffle/salsafamily-20071225.pdf
+            IN = [  0x61707865, 0x04030201, 0x08070605, 0x0c0b0a09,
+                    0x100f0e0d, 0x3320646e, 0x01040103, 0x06020905,
+                    0x00000007, 0x00000000, 0x79622d32, 0x14131211,
+                    0x18171615, 0x1c1b1a19, 0x201f1e1d, 0x6b206574]        
+            OUT = [ 0x58318d3e, 0x0292df4f, 0xa28d8215, 0xa1aca723,
+                    0x697a34c7, 0xf2f00ba8, 0x63e9b0a1, 0x27250e3a,
+                    0xb1c7f1f3, 0x62066edc, 0x66d3ccf1, 0xb0365cf3,
+                    0x091ad09e, 0x64f0c40f, 0xd60d95ea, 0x00be78c9]
+            self.test_vectors.append([[IN], OUT])
+    
+
+def SALSA_PERMUTATION(r=None, represent_mode=0, copy_operator=False): 
+    my_input, my_output = [var.Variable(32,ID="in"+str(i)) for i in range(16)], [var.Variable(32,ID="out"+str(i)) for i in range(16)]
+    my_permutation = Salsa_permutation("SALSA_PERM", my_input, my_output, nbr_rounds=r, represent_mode=represent_mode)
+    my_permutation.gen_test_vectors(rounds=r)
+    my_permutation.post_initialization(copy_operator=copy_operator)
+    return my_permutation    
+    
+
+
+
+# The Salsa permutation to generate the key stream
+class Salsa_keypermutation(Permutation):
+    def __init__(self, name, s_input, s_output, nbr_rounds=None, represent_mode=0):
+        """
+        Initialize the Salsa internal permutation
+
+        Args:
+            name: Name of the permutation
+            s_input: Input state
+            s_output: Output state
+            nbr_rounds: Number of rounds
+            represent_mode: Integer specifying the mode of representation used for encoding the permutation.
+        """
+        
+        if represent_mode==0:
+            if nbr_rounds is None: nbr_rounds = 21 # 21st round is used add the initial state to obtain the final key stream
+            nbr_layers = 13 # 1 for each of the 12 operations in 1 quarter round
+            nbr_words = 16 # Words in the state of Salsa
+            nbr_temp_words = 20 # To retain the initial input for adding with final state to obtain the key stream
+            word_bitsize = 32
+            super().__init__(name, s_input, s_output, nbr_rounds, [nbr_layers, nbr_words, nbr_temp_words, word_bitsize])
+            S = self.functions["PERMUTATION"]
+
+            TW  = [16,17,18,19] # Temporary words to store the internal states
+        
+            for i in range(1,nbr_rounds+1):  
+                if i%2 == 0:
+                    # Even rounds are row rounds
+                    QR1 = [0, 1, 2, 3]
+                    QR2 = [5, 6, 7, 4]
+                    QR3 = [10, 11, 8,9]
+                    QR4 = [15, 12, 13, 14]
+                else:
+                    # Odd rounds are column rounds
+                    QR1 = [0, 4, 8, 12]
+                    QR2 = [5, 9, 13,1]
+                    QR3 = [10, 14, 2,6]
+                    QR4 = [15, 3, 7, 11]
+                
+                # In the first round copy the initial word to temporary words
+                if i == 1:
+                    InIndex = [[0], [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15]]
+                    OutIndex = [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+                    S.SingleOperatorLayer("Equal", i, 0, Equal, InIndex, OutIndex)
+                else:
+                    S.AddIdentityLayer("Identity", i, 0)
+
+
+                if i == 21:
+                    InIndex = [[0, 20], [1, 21], [2, 22], [3, 23], [4, 24], [5, 25], [6, 26], [7, 27], [8, 28], [9, 29], [10, 30], [11, 31], [12, 32], [13, 33], [14, 34], [15, 35]]
+                    OutIndex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                    S.SingleOperatorLayer("Add1", i, 1, ModAdd, InIndex, OutIndex)
+                    for j in range(2, nbr_layers):
+                        name = 'Identity' + str(j)
+                        S.AddIdentityLayer(name, i, j)
+                else:
+                    # 4 quarter rounds in parallel
+                    S.SingleOperatorLayer("Add1", i, 1, ModAdd, [[QR1[0], QR1[3]], [QR2[0], QR2[3]], [QR3[0], QR3[3]], [QR4[0], QR4[3]]], [TW[0], TW[1], TW[2], TW[3]])
+                    S.RotationLayer("Rot1", i, 2, [['l', 7, TW[0], TW[0]], ['l', 7, TW[1], TW[1]], ['l', 7, TW[2], TW[2]], ['l', 7, TW[3], TW[3]]])
+                    S.SingleOperatorLayer("XOR1", i, 3, XOR, [[TW[0], QR1[1]], [TW[1], QR2[1]], [TW[2], QR3[1]], [TW[3], QR4[1]]], [QR1[1], QR2[1], QR3[1], QR4[1]])
+
+                    S.SingleOperatorLayer("Add2", i, 4, ModAdd, [[QR1[0], QR1[1]], [QR2[0], QR2[1]], [QR3[0], QR3[1]], [QR4[0], QR4[1]]], [TW[0], TW[1], TW[2], TW[3]])
+                    S.RotationLayer("Rot2", i, 5, [['l', 9, TW[0], TW[0]], ['l', 9, TW[1], TW[1]], ['l', 9, TW[2], TW[2]], ['l', 9, TW[3], TW[3]]])
+                    S.SingleOperatorLayer("XOR2", i, 6, XOR, [[TW[0], QR1[2]], [TW[1], QR2[2]], [TW[2], QR3[2]], [TW[3], QR4[2]]], [QR1[2], QR2[2], QR3[2], QR4[2]])
+
+                    S.SingleOperatorLayer("Add3", i, 7, ModAdd, [[QR1[1], QR1[2]], [QR2[1], QR2[2]], [QR3[1], QR3[2]], [QR4[1], QR4[2]]], [TW[0], TW[1], TW[2], TW[3]])
+                    S.RotationLayer("Rot3", i, 8, [['l', 13, TW[0], TW[0]], ['l', 13, TW[1], TW[1]], ['l', 13, TW[2], TW[2]], ['l', 13, TW[3], TW[3]]])
+                    S.SingleOperatorLayer("XOR3", i, 9, XOR, [[TW[0], QR1[3]], [TW[1], QR2[3]], [TW[2], QR3[3]], [TW[3], QR4[3]]], [QR1[3], QR2[3], QR3[3], QR4[3]])
+
+                    S.SingleOperatorLayer("Add4", i, 10, ModAdd, [[QR1[2], QR1[3]], [QR2[2], QR2[3]], [QR3[2], QR3[3]], [QR4[2], QR4[3]]], [TW[0], TW[1], TW[2], TW[3]])
+                    S.RotationLayer("Rot4", i, 11, [['l', 18, TW[0], TW[0]], ['l', 18, TW[1], TW[1]], ['l', 18, TW[2], TW[2]], ['l', 18, TW[3], TW[3]]])
+                    S.SingleOperatorLayer("XOR4", i, 12, XOR, [[TW[0], QR1[0]], [TW[1], QR2[0]], [TW[2], QR3[0]], [TW[3], QR4[0]]], [QR1[0], QR2[0], QR3[0], QR4[0]])
+        else: raise ValueError(f"[ERROR] The represent_mode {represent_mode} is not supported for Salsa_keypermutation.")
+
+    def gen_test_vectors(self, rounds=None, version=None):
+        if rounds == 21 or rounds is None:
+            # Test vectors from https://cr.yp.to/snuffle/salsafamily-20071225.pdf
+            IN = [  0x61707865, 0x04030201, 0x08070605, 0x0c0b0a09,
+                    0x100f0e0d, 0x3320646e, 0x01040103, 0x06020905,
+                    0x00000007, 0x00000000, 0x79622d32, 0x14131211,
+                    0x18171615, 0x1c1b1a19, 0x201f1e1d, 0x6b206574]
+            OUT = [ 0xb9a205a3, 0x0695e150, 0xaa94881a, 0xadb7b12c,
+                    0x798942d4, 0x26107016, 0x64edb1a4, 0x2d27173f,
+                    0xb1c7f1fa, 0x62066edc, 0xe035fa23, 0xc4496f04,
+                    0x2131e6b3, 0x810bde28, 0xf62cb407, 0x6bdede3d]
+            self.test_vectors.append([[IN], OUT])
+    
+def SALSA_KEYPERMUTATION(r=None, represent_mode=0, copy_operator=False): 
+    my_input, my_output = [var.Variable(32,ID="in"+str(i)) for i in range(16)], [var.Variable(32,ID="out"+str(i)) for i in range(16)]
+    my_permutation = Salsa_keypermutation("SALSA_KEYPERM", my_input, my_output, nbr_rounds=r, represent_mode=represent_mode)
+    my_permutation.gen_test_vectors(rounds=r)
+    my_permutation.post_initialization(copy_operator=copy_operator)
+    return my_permutation    

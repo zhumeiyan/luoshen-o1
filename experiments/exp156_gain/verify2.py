@@ -1,1 +1,45 @@
-ZnJvbSBQSUwgaW1wb3J0IEltYWdlLEltYWdlRHJhdyxJbWFnZUZvbnQKaW1wb3J0IGhhc2hsaWIsb3MKVyxIPTEwMjQsNzY4ClRPS0VOPSdLN000UVgnCmltZz1JbWFnZS5uZXcoJ1JHQicsKFcsSCksKDAsMCwwKSk7IGQ9SW1hZ2VEcmF3LkRyYXcoaW1nKQpmcD0nL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YycKdHJ5OiBmPUltYWdlRm9udC50cnVldHlwZShmcCwyMikKZXhjZXB0OiBmPUltYWdlRm9udC5sb2FkX2RlZmF1bHQoKTsgcHJpbnQoJ0ZPTlQgZmFsbGJhY2snKQpsaW5lcz1bCiAnQUxMQU4gU0xPUEUgbTQtMTYgPSAtMC4wMzkgLTAuMDE5IChGTElDS0VSIEZMT09SKScsCiAnRFBSSU1FIE4xPTAuMjU4ICBONjQ9MC4yNTggIChOTyBHQUlOIEZST00gSU5URUdSQVRJT04pJywKICdEUklGVCA1NTQ0IE5TICB2cyAgU0lHTkFMIDc2MyBOUyAgID0gNy4zIFgnLAogJ0lOSkVDVEVEIERSSUZUIDE1MjUyODcgLyAzOTEgPSAzOTA0IFgnLAogJ0FCU09MVVRFIFJFQURPVVQgRFBSSU1FID0gMC4wMDMyICAoQkxJTkQpJywKICdESUZGRVJFTlRJQUwgRElTQyA9IDAuMzg2NyAgVFBSIDAuODkwJywKICdEVUFMIE1PREUgSFVNQU4gVFBSID0gMC4wMTcgIChDQU5OT1QgQ09FWElTVCBBVCBEPTAuMzUpJywKICdWRVJESUNUOiBDSEFOR0UgVEhFIFJFQURPVVQgTk9UIFRIRSBTRU5TT1InLAogJ1RPS0VOICVzJyVUT0tFTiwKXQp5PTMwCmZvciBpLHQgaW4gZW51bWVyYXRlKGxpbmVzKToKICAgIGQudGV4dCgoMzAseSksdCxmb250PWYsZmlsbD0oMjU1LDI0MCwxMjApIGlmIGk8OCBlbHNlICgxMjAsMjU1LDE4MCkpCiAgICB5Kz01OApyYXc9aW1nLnRvYnl0ZXMoKQpicHA9NDsgU1M9VypicHAKIyDovawgQkdSQSDluKfnvJPlhrLmoLzlvI8KYmE9Ynl0ZWFycmF5KFNTKkgpCnNyYz1pbWcuY29udmVydCgnUkdCQScpLnRvYnl0ZXMoKQpmb3IgaSBpbiByYW5nZSgwLGxlbihzcmMpLDQpOgogICAgcixnLGIsYT1zcmNbaV0sc3JjW2krMV0sc3JjW2krMl0sc3JjW2krM10KICAgIGo9KGkvLzQpKjQKICAgIGJhW2pdPWI7IGJhW2orMV09ZzsgYmFbaisyXT1yOyBiYVtqKzNdPWEKb3V0PWJ5dGVzKGJhKQpoPWhhc2hsaWIuc2hhMjU2KG91dCkuaGV4ZGlnZXN0KClbOjEyXQp3aXRoIG9wZW4oJy9kZXYvZmIwJywnd2InKSBhcyBmbzogZm8ud3JpdGUob3V0KQp3aXRoIG9wZW4oJy9kZXYvZmIwJywncmInKSBhcyBmaTogY2FwPWZpLnJlYWQoU1MqSCkKcHJpbnQoJ2J5dGVzJyxsZW4ob3V0KSwnY2FwJyxsZW4oY2FwKSwnSURFTlRJQ0FMJyxvdXQ9PWNhcCkKcHJpbnQoJ3NoYScsaCwnY2FwJyxoYXNobGliLnNoYTI1NihjYXApLmhleGRpZ2VzdCgpWzoxMl0pCmltZy5zYXZlKCdyZW5kZXIucG5nJykKIyDlm57or7vph43lu7pQTkcKaW0yPUltYWdlLmZyb21ieXRlcygnUkdCQScsKFcsSCksYnl0ZXMoYnl0ZWFycmF5KAogIGInJy5qb2luKGJ5dGVzKFtjYXBbaisyXSxjYXBbaisxXSxjYXBbal0sMjU1XSkgZm9yIGogaW4gcmFuZ2UoMCxsZW4oY2FwKSw0KSkpKSkKaW0yLmNvbnZlcnQoJ1JHQicpLnNhdmUoJ2NhcHR1cmVkLnBuZycpCm9wZW4oJ3Rva2VuLnR4dCcsJ3cnKS53cml0ZShUT0tFTikKcHJpbnQoJ3NhdmVkIHJlbmRlci5wbmcgY2FwdHVyZWQucG5nJykK
+from PIL import Image,ImageDraw,ImageFont
+import hashlib,os
+W,H=1024,768
+TOKEN='K7M4QX'
+img=Image.new('RGB',(W,H),(0,0,0)); d=ImageDraw.Draw(img)
+fp='/usr/share/fonts/truetype/wqy/wqy-microhei.ttc'
+try: f=ImageFont.truetype(fp,22)
+except: f=ImageFont.load_default(); print('FONT fallback')
+lines=[
+ 'ALLAN SLOPE m4-16 = -0.039 -0.019 (FLICKER FLOOR)',
+ 'DPRIME N1=0.258  N64=0.258  (NO GAIN FROM INTEGRATION)',
+ 'DRIFT 5544 NS  vs  SIGNAL 763 NS   = 7.3 X',
+ 'INJECTED DRIFT 1525287 / 391 = 3904 X',
+ 'ABSOLUTE READOUT DPRIME = 0.0032  (BLIND)',
+ 'DIFFERENTIAL DISC = 0.3867  TPR 0.890',
+ 'DUAL MODE HUMAN TPR = 0.017  (CANNOT COEXIST AT D=0.35)',
+ 'VERDICT: CHANGE THE READOUT NOT THE SENSOR',
+ 'TOKEN %s'%TOKEN,
+]
+y=30
+for i,t in enumerate(lines):
+    d.text((30,y),t,font=f,fill=(255,240,120) if i<8 else (120,255,180))
+    y+=58
+raw=img.tobytes()
+bpp=4; SS=W*bpp
+# 转 BGRA 帧缓冲格式
+ba=bytearray(SS*H)
+src=img.convert('RGBA').tobytes()
+for i in range(0,len(src),4):
+    r,g,b,a=src[i],src[i+1],src[i+2],src[i+3]
+    j=(i//4)*4
+    ba[j]=b; ba[j+1]=g; ba[j+2]=r; ba[j+3]=a
+out=bytes(ba)
+h=hashlib.sha256(out).hexdigest()[:12]
+with open('/dev/fb0','wb') as fo: fo.write(out)
+with open('/dev/fb0','rb') as fi: cap=fi.read(SS*H)
+print('bytes',len(out),'cap',len(cap),'IDENTICAL',out==cap)
+print('sha',h,'cap',hashlib.sha256(cap).hexdigest()[:12])
+img.save('render.png')
+# 回读重建PNG
+im2=Image.frombytes('RGBA',(W,H),bytes(bytearray(
+  b''.join(bytes([cap[j+2],cap[j+1],cap[j],255]) for j in range(0,len(cap),4)))))
+im2.convert('RGB').save('captured.png')
+open('token.txt','w').write(TOKEN)
+print('saved render.png captured.png')

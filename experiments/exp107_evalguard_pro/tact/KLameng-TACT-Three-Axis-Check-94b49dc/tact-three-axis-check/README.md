@@ -1,1 +1,45 @@
-IyBUQUNUIOS4iei9tOWdkOagh+WIhuexu+azle+8iHRhY3QtdGhyZWUtYXhpcy1jaGVja++8iQoK57uZIEFJIOezu+e7n+eahOWksei0peOAgemUmeivr+OAgeW8guW4uOeOsOixoeWcqOWwgemXreWdkOagh+epuumXtO+8iEwgNOWxgiDDlyBNIDnml48gw5cgUCA45qGjID0gMjg4IOagvO+8jDExNyDkuKrnsr7nu4blrZDlnZDmoIfvvInph4zlrprkvY3llK/kuIDlnZDmoIfvvIzlubbnu5nlh7rlj6/miafooYznmoTpqozor4Hot6/lvoTjgILmiafooYwi5LiJ5q2l5Yy56YWN5rOVIu+8mkwg6L205oyJ6Zeu6aKY5Yik5pat5Y+v5Y2V6YCJ5oiW5aSa6YCJ77yMTS9QIOi9tOS+neasoei/h+mXuO+8jOi+k+WHuuWQq+S4iee7tOWdkOagh+WQjeensOOAgeWRveS4reWQq+S5ieOAgeWPr+iDveihqOeOsOOAgeWPkeeUn+S9jee9ruOAgemqjOivgei3r+W+hOeahOe7k+aehOWMlue7k+iuuuOAggoKIyMg5a6a5L2N77yI6K+35Yqh5b+F5YWI6K+75pys6IqC77yJCgoqKuacrOW3peWFt+WMheaYryLliKTmja7ok53mnKwgKyDmoKHlh4bln7rnur8i77yM5LiN5pivIuW3sumqjOivgeWPr+mdoCLnmoTmiJDlk4HliIbnsbvlrabjgIIqKgoK5a6D55qE5Lu35YC85Zyo5LqO77ya5oqKIkFJIOWksei0peWxnuS6juWTquS4gOexu+mUmeivryLnmoTliKTmlq3vvIzku44i5pyv6K+t5rK+6L65IuaUtuaVm+S4uioq5Y+v5Yik5a6a55qE5pON5L2c6Zeu6aKYKirvvIjplIvliKnliKTmja4gKyDlj43lkJHnuqbmnZ8gKyDpmLLohZDplJrngrnvvInjgILov5nlpZfliKTmja7lt7Lnu4/ov4cgOSDova7mqKHlnovpl7TkuIDoh7TmgKfmo4DpqozmiZPno6jvvIzkvYYqKuWIpOaNrueahCLliKTliKvmraPnoa7mgKci5LuN5b6F55yf5a6e5qGI5L6L6aqM6K+BKirjgIIKCiMjIyDlm5vngrnlvIDmupDlo7DmmI7vvIjlr7nlpJblvJXnlKjmnKzlt6XlhbfljIXml7blv4XpobvpgbXlrojvvIkKCjEuICoq5a6a5L2NKirvvJrliKTmja7ok53mnKwgKyDmoKHlh4bln7rnur/vvIwqKumdniLlt7Lpqozor4Hlj6/pnaAiKirjgILlvJXnlKjmnKzlt6XlhbfljIXkvZznu5Porrrkvp3mja7liY3vvIzpobvlhYjor7TmmI7lhbbpqozor4HnirbmgIHjgIIKMi4gKirpqozor4HojIPlm7QqKu+8mkwvTS9QIOS4iei9tOaooeWei+mXtOS4gOiHtOaApyDOuiDmo4DpqowqKuS7heeUqOS4jeWQjOWkp+aooeWei+S9nOS4uuagh+azqOiAhe+8iDUg5a6254us56uL5Zu95Lqn77yJKirvvIwqKuaXoOecn+S6uuajgOmqjCoq77ybzrog55qEIuWIpOWIq+ato+ehruaApyLvvIjnm7jlr7nnnJ/lrp7mnLrliLbvvInlsJrmnKrooqvnnJ/kurrmiJbnnJ/lrp7moYjkvovni6znq4vpqozor4HvvIwqKuW+heW8gOa6kOWQjuekvuWMuuiHquWPkSByYXRpZnkqKuOAguajgOmqjOWFqOWOhueoi+S4juW3ruW8guWIhuaekOingSBbYGRvY3MvVEFDVC1rYXBwYeWFqOWOhueoi+axh+aAu+S4juWIhuaekC5tZGBdKGRvY3MvVEFDVC1rYXBwYeWFqOWOhueoi+axh+aAu+S4juWIhuaekC5tZCnjgIIKMy4gKipzeW50aGV0aWMg5LiN5a6e6K+BKirvvJpgcmVmZXJlbmNlcy9jYWxpYnJhdGlvbl9jYXNlcy5qc29uYCDnmoQgMjEg5p2h5qC35L6LKirlnYfkuLogc3ludGhldGljIOWIpOWIq+agt+S+iyoq77yM5LuF5L6b5LiA6Ie05oCn5Yik5Yir5qOA6aqM77yMKirkuI3op4bkuLrnnJ/lrp7kuovmlYXorrDlvZXvvIzkuI3nlKjkuo7lr7nlpJblvJXnlKjjgIHkuI3nlKjkuo7lnZDmoIcgcmF0aWZ5IOivgeaNrioq44CCCjQuICoq6KaG55uW54q25oCB77yI5YWD5qCH562+IC8g6Leo5Zyw5Zu+77yJKirvvJrlhYPmoIfnrb7ku4UgKioxMC8xMTcqKiDlnZDmoIfmnInlrozmlbTmoIfms6jvvIzlhbbkvZnkuLogYG51bGxgIOW+heihpe+8m+i3qOWcsOWbvuaYoOWwhOWkmuS4uiBgaHlwb3RoZXNpc2Ag5b6F6aqM6K+B54q25oCB77yIYHZlcmlmaWVkYCDmiY3lj6/lvJXnlKjvvIxgaHlwb3RoZXNpc2Ag5byV55So6aG75qCH5rOoIuW+hemqjOivgSLvvInjgILkvb/nlKjliY3pobvlhYjmn6Xnm67moIflnZDmoIcv5pig5bCE55qE5qCH5rOo54q25oCB77yMKirkuI3lvpfpu5jorqTlhajph4/lt7LmoIcqKuOAggoKIyMg5b+r6YCf5LiK5omLCgoxLiDor7sgYFNLSUxMLm1kYCDnmoQi5LiJ5q2l5Yy56YWN5rOVIu+8iOWQq+esrCAwIOatpeWJjee9ruaOkumZpOmXuOOAgUwg6L205p2l5rqQ5Yik5a6a44CBTS9QIOi/h+mXuO+8ieOAggoyLiDlnZDmoIflkKvkuYnjgIHliKTmja7jgIHooajnjrDjgIHkvY3nva7jgIHpqozor4Hot6/lvoTkuIDlvovku6UgYHJlZmVyZW5jZXMvY29vcmRpbmF0ZV9kYXRhLmpzb25gIOS4uuWHhu+8iOS4jeWHreWNsOixoemAoOegge+8ieOAggozLiDlkb3kuK3lnZDmoIflkI7lpoLpnIDooYzkuJrlkI0v5qGG5p625byV55So44CBRVUg5LmJ5Yqh44CB5YWD5qCH562+77yM55So5YWE5byf5oqA6IO9IGB0YWN0LWVjb3N5c3RlbS1pbnRlcmZhY2Vg44CCCgojIyDlt6XlhbfljIXnu5PmnoQKCnwg6Lev5b6EIHwg5YaF5a65IHwg6K+05piOIHwKfC0tLXwtLS18LS0tfAp8IGBTS0lMTC5tZGAgfCDliKTmja7lvJXlr7zkuI7miafooYzmtYHnqIvvvIh2MS4xLjHvvIkgfCDmoLjlv4Pmlofku7YgfAp8IGByZWZlcmVuY2VzL2Nvb3JkaW5hdGVfZGF0YS5qc29uYCB8IOWdkOagh+W6leW6p++8iHYyLjcuOO+8jDExNyDlrZDlnZDmoIfvvIkgfCAqKuawuOS4jeaUueWKqCoq77yM5Z2Q5qCH6K+t5LmJ5LiN6ZqP5Yik5o2u5L+u6K6i5Y+YIHwKfCBgcmVmZXJlbmNlcy9jYWxpYnJhdGlvbl9jYXNlcy5qc29uYCB8IOagoeWHhuWfuue6v++8iHYxLjEuMe+8jDIxIOadoe+8iSB8IOagoeWHhi/lm57lvZLmqKHlvI/nlKggfAp8IGBkb2NzL1RBQ1Qta2FwcGHlhajljobnqIvmsYfmgLvkuI7liIbmnpAubWRgIHwg5Y2h5biV5qOA6aqM5YWo5Y6G56iL5LiO5YiG5p6Q5pa55rOVIHwg5ZCr6aqM6K+B6IyD5Zu06K+a5a6e5aOw5piOIHwKfCBgZ3VhcmQvYCB8IOeJiOacrOmUgeS4juWujOaVtOaAp+mYsuaKpO+8iE1BTklGRVNUICsgdmVyaWZ5L2xvY2svdW5sb2NrL3dhdGNo77yJIHwg6Ziy5Y+X5o6n5paH5Lu26KKr5aSW6YOo5Zue5ruaL+evoeaUuSB8CnwgYENPTlRSSUJVVElORy5tZGAgfCDnpL7ljLogcmF0aWZ5IC8g55yf5a6e5qGI5L6L5o+Q5LqkIC8ga2FwcGEg5aSN6aqM5YWl5Y+jIHwg5q2j56Gu5oCn6aqM6K+B6Lev5b6EIHwKCiMjIOeJiOacrAoKLSBjb29yZGluYXRlX2RhdGEuanNvbiAqKnYyLjcuOCoq77yI5Z2Q5qCH5bqV5bqn77yM5rC45LiN5pS55Yqo77yJCi0gY2FsaWJyYXRpb25fY2FzZXMuanNvbiAqKnYxLjEuMSoq77yI5qCh5YeG5Z+657q/77yM57uR5a6aIHYyLjcuOO+8iQotIFNLSUxMLm1kICoqdjEuMS4xKirvvIjliKTmja7lvJXlr7zvvIkKCueJiOacrOe7tOaKpOe6quW+i++8mioq5Y+q5pS5IFNLSUxMLm1kIOWIpOaNruW8leWvvOS4jiBjYWxpYnJhdGlvbiDnmoQgZ29sZGVu77yM5LiN5pS5IGNvb3JkaW5hdGVfZGF0YS5qc29uIOeahOWdkOagh+ivreS5iSoq77yb5pS554mI5ZCO6LWwIGBndWFyZC9gIOeahOeJiOacrOmUgea1geeoi++8iOivpuingSBgZ3VhcmQvUkVBRE1FLm1kYO+8ieOAggoKIyMg56S+5Yy65Y+C5LiOCgrmraPnoa7mgKfpqozor4HjgIHlnZDmoIcgcmF0aWZ544CB5YWD5qCH562+6KGl5YWo44CB6Leo5Zyw5Zu+5qC46aqM4oCU4oCU6KeBIFtgQ09OVFJJQlVUSU5HLm1kYF0oQ09OVFJJQlVUSU5HLm1kKeOAggo=
+# TACT 三轴坐标分类法（tact-three-axis-check）
+
+给 AI 系统的失败、错误、异常现象在封闭坐标空间（L 4层 × M 9族 × P 8档 = 288 格，117 个精细子坐标）里定位唯一坐标，并给出可执行的验证路径。执行"三步匹配法"：L 轴按问题判断可单选或多选，M/P 轴依次过闸，输出含三维坐标名称、命中含义、可能表现、发生位置、验证路径的结构化结论。
+
+## 定位（请务必先读本节）
+
+**本工具包是"判据蓝本 + 校准基线"，不是"已验证可靠"的成品分类学。**
+
+它的价值在于：把"AI 失败属于哪一类错误"的判断，从"术语沾边"收敛为**可判定的操作问题**（锋利判据 + 反向约束 + 防腐锚点）。这套判据已经过 9 轮模型间一致性检验打磨，但**判据的"判别正确性"仍待真实案例验证**。
+
+### 四点开源声明（对外引用本工具包时必须遵守）
+
+1. **定位**：判据蓝本 + 校准基线，**非"已验证可靠"**。引用本工具包作结论依据前，须先说明其验证状态。
+2. **验证范围**：L/M/P 三轴模型间一致性 κ 检验**仅用不同大模型作为标注者（5 家独立国产）**，**无真人检验**；κ 的"判别正确性"（相对真实机制）尚未被真人或真实案例独立验证，**待开源后社区自发 ratify**。检验全历程与差异分析见 [`docs/TACT-kappa全历程汇总与分析.md`](docs/TACT-kappa全历程汇总与分析.md)。
+3. **synthetic 不实证**：`references/calibration_cases.json` 的 21 条样例**均为 synthetic 判别样例**，仅供一致性判别检验，**不视为真实事故记录，不用于对外引用、不用于坐标 ratify 证据**。
+4. **覆盖状态（元标签 / 跨地图）**：元标签仅 **10/117** 坐标有完整标注，其余为 `null` 待补；跨地图映射多为 `hypothesis` 待验证状态（`verified` 才可引用，`hypothesis` 引用须标注"待验证"）。使用前须先查目标坐标/映射的标注状态，**不得默认全量已标**。
+
+## 快速上手
+
+1. 读 `SKILL.md` 的"三步匹配法"（含第 0 步前置排除闸、L 轴来源判定、M/P 过闸）。
+2. 坐标含义、判据、表现、位置、验证路径一律以 `references/coordinate_data.json` 为准（不凭印象造码）。
+3. 命中坐标后如需行业名/框架引用、EU 义务、元标签，用兄弟技能 `tact-ecosystem-interface`。
+
+## 工具包结构
+
+| 路径 | 内容 | 说明 |
+|---|---|---|
+| `SKILL.md` | 判据引导与执行流程（v1.1.1） | 核心文件 |
+| `references/coordinate_data.json` | 坐标底座（v2.7.8，117 子坐标） | **永不改动**，坐标语义不随判据修订变 |
+| `references/calibration_cases.json` | 校准基线（v1.1.1，21 条） | 校准/回归模式用 |
+| `docs/TACT-kappa全历程汇总与分析.md` | 卡帕检验全历程与分析方法 | 含验证范围诚实声明 |
+| `guard/` | 版本锁与完整性防护（MANIFEST + verify/lock/unlock/watch） | 防受控文件被外部回滚/篡改 |
+| `CONTRIBUTING.md` | 社区 ratify / 真实案例提交 / kappa 复验入口 | 正确性验证路径 |
+
+## 版本
+
+- coordinate_data.json **v2.7.8**（坐标底座，永不改动）
+- calibration_cases.json **v1.1.1**（校准基线，绑定 v2.7.8）
+- SKILL.md **v1.1.1**（判据引导）
+
+版本维护纪律：**只改 SKILL.md 判据引导与 calibration 的 golden，不改 coordinate_data.json 的坐标语义**；改版后走 `guard/` 的版本锁流程（详见 `guard/README.md`）。
+
+## 社区参与
+
+正确性验证、坐标 ratify、元标签补全、跨地图核验——见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。

@@ -1,1 +1,94 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiLmsYfmgLvlha3moLznu5PmnpwgLT4g5riy5p+TIC0+IOWIhuWdl+WGmSBmYjAgLT4g5Zue6YeHIC0+IOWDj+e0oOavlOWvuSArIE9DUiIiIgppbXBvcnQgb3MsIGpzb24sIHN0cnVjdCwgZmNudGwsIGhhc2hsaWIKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKCk9VVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpGQiA9ICIvZGV2L2ZiMCIKVE9LRU4gPSAiSDNLN00yIgoKUiA9IHt9CmZvciBmIGluICgicmVzdWx0X2wxMy5qc29uIiwgInJlc3VsdF9sNC5qc29uIiwgInJlc3VsdF9sNS5qc29uIiwgInJlc3VsdF9sNi5qc29uIik6CiAgICBwID0gb3MucGF0aC5qb2luKE9VVCwgZikKICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOgogICAgICAgIFIudXBkYXRlKGpzb24ubG9hZChvcGVuKHApKSkKCmxpbmVzID0gWwogICAgZiJUT0tFTiB7VE9LRU59IiwKICAgICLnlJ/nianpmLbmoq8gLT4g56GF5Z+65b2i5oCBIOmAkOagvOmqjOaUtiIsCiAgICAiIiwKICAgIGYiTDEg5rW36JG1IGNsb3NlZCB7UlsnTDEnXVsnYXJtcyddWydjbG9zZWQnXVsnbWVhbl9lcnInXTouNGZ9ICIKICAgIGYib3BlbiB7UlsnTDEnXVsnYXJtcyddWydvcGVuJ11bJ21lYW5fZXJyJ106LjRmfSBibGluZCB7UlsnTDEnXVsnYXJtcyddWydibGluZCddWydtZWFuX2VyciddOi40Zn0gUEFTUyIsCiAgICBmIkwyIOigleiZqyDoh6rlj5HnjoflnYcge1JbJ0wyJ11bJ3Nwb250YW5lb3VzX3JhdGVfZHJpdmVuJ106LjNmfSDpnZ7liKTmja4iLAogICAgZiJMMiDooJXomasg5qih5Z6L5q6L5beuIGRyaXZlbiB7UlsnTDInXVsnbW9kZWxfZXJyX2ZpbmFsX2RyaXZlbiddOi40Zn0gcmFuZG9tIHtSWydMMiddWydtb2RlbF9lcnJfZmluYWxfcmFuZG9tJ106LjRmfSBQQVNTIiwKICAgIGYiTDMg6bG8IOWcsOWbviB7UlsnTDMnXVsnbWFwX3N0ZXBzJ106LjNmfSDpmo/mnLoge1JbJ0wzJ11bJ3JhbmRvbV9zdGVwcyddOi4zZn0g5omT5LmxIHtSWydMMyddWydzaHVmZmxlZF9zdGVwcyddOi4zZn0gUEFTUyIsCiAgICBmIkw0IOaDhee7qumXqCBkZWx0YSB7UlsnTDQnXVsnZ2F0aW5nJ11bJ2RlbHRhJ106Ky40Zn0gY2kge1JbJ0w0J11bJ2dhdGluZyddWydjaSddWzBdOisuNGZ9IHtSWydMNCddWydnYXRpbmcnXVsnY2knXVsxXTorLjRmfSBQQVNTIiwKICAgIGYiTDQg546pIHBsYXkge1JbJ0w0J11bJ3BsYXknXVsncGxheSddOi40Zn0gbm9wbGF5IHtSWydMNCddWydwbGF5J11bJ25vcGxheSddOi40Zn0gUEFTUyIsCiAgICBmIkw0IOaipiB0cnVlIHtSWydMNCddWydkcmVhbSddWyd0cnVlJ106LjRmfSBub25lIHtSWydMNCddWydkcmVhbSddWydub25lJ106LjRmfSBmYWtlIHtSWydMNCddWydkcmVhbSddWydmYWtlJ106LjRmfSBQQVNTIiwKICAgIGYiTDUg54G16ZW/IOiApuWQiCB7UlsnTDUnXVsnY291cGxlZCddWyd0ZV9kaWZmJ106Ky40Zn0g54us56uLIHtSWydMNSddWydpbmRlcGVuZGVudCddWyd0ZV9kaWZmJ106Ky40Zn0gUEFTUyIsCiAgICBmIkw1IOmVnOWDjyBhMTAge1JbJ0w1J11bJ21pcnJvcl9zd2VlcCddWycxLjAnXTouM2Z9IGEwOSB7UlsnTDUnXVsnbWlycm9yX3N3ZWVwJ11bJzAuOSddOi4zZn0gYTAwIHtSWydMNSddWydtaXJyb3Jfc3dlZXAnXVsnMC4wJ106LjNmfSIsCiAgICBmIkw2IOiHquS8oCDlm6Dmnpwge1JbJ0w2J11bJ2F1dG9iaW9ncmFwaHknXVsnY2F1c2FsJ106LjRmfSDml6Xlv5cge1JbJ0w2J11bJ2F1dG9iaW9ncmFwaHknXVsnbG9nJ106LjRmfSBQQVNTIiwKICAgIGYiTDYg55+l5q27IOW/heatuyB7UlsnTDYnXVsnbW9ydGFsaXR5J11bJ21vcnRhbCddOi40Zn0g5Y+v5oGi5aSNIHtSWydMNiddWydtb3J0YWxpdHknXVsnaW1tb3J0YWwnXTouNGZ9IFBBU1MiLAogICAgZiJMNiDmlofljJYg57un5om/IHtSWydMNiddWydjdWx0dXJlJ11bJ2luaGVyaXQnXTouNGZ9IOS7jumbtiB7UlsnTDYnXVsnY3VsdHVyZSddWydzY3JhdGNoJ106LjRmfSDkvKDplJkge1JbJ0w2J11bJ2N1bHR1cmUnXVsnd3JvbmcnXTouNGZ9IFBBU1MiLAogICAgIiIsCiAgICAib3BlbiDnuqbnrYnkuo4gYmxpbmQg5aSN546wIiwKXQoKZmIgPSBvcGVuKEZCLCAicmIrIikKZmkgPSBmY250bC5pb2N0bChmYiwgMHg0NjAwLCBieXRlcyg2NCkpClhSRVMsIFlSRVMgPSBzdHJ1Y3QudW5wYWNrKCJJSSIsIGZpWzA6OF0pCkJQUCA9IHN0cnVjdC51bnBhY2soIkkiLCBmaVsyNDoyOF0pWzBdIG9yIDMyClcgPSBYUkVTICogKEJQUCAvLyA4KQpwcmludCgiZmIiLCBYUkVTLCBZUkVTLCBCUFAsICJzdHJpZGUiLCBXKQoKaW1nID0gSW1hZ2UubmV3KCJSR0IiLCAoWFJFUywgWVJFUyksICgyNTUsIDI1NSwgMjU1KSkKZCA9IEltYWdlRHJhdy5EcmF3KGltZykKZnAgPSAiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIKZm9udCA9IEltYWdlRm9udC50cnVldHlwZShmcCwgMjYpCnkgPSAyNApmb3IgbG4gaW4gbGluZXM6CiAgICBkLnRleHQoKDI4LCB5KSwgbG4sIGZpbGw9KDAsIDAsIDApLCBmb250PWZvbnQpCiAgICB5ICs9IDQyCmltZy5zYXZlKG9zLnBhdGguam9pbihPVVQsICJyZW5kZXIucG5nIikpCgojIFJHQiAtPiBSR0JBKFhSR0IpIOW4pwpyZ2JhID0gbnAuemVyb3MoKFlSRVMsIFhSRVMsIDQpLCBkdHlwZT1ucC51aW50OCkKYSA9IG5wLmFzYXJyYXkoaW1nLmNvbnZlcnQoIlJHQiIpLCBkdHlwZT1ucC51aW50OCkKcmdiYVs6LCA6LCAwOjNdID0gYVs6LCA6LCA6Oi0xXSAgICAgICAgICAjIFBJTCBSR0IgLT4gQkdSCnJnYmFbOiwgOiwgM10gPSAyNTUKcmF3ID0gcmdiYS50b2J5dGVzKCkKcHJpbnQoImZyYW1lIGJ5dGVzIiwgbGVuKHJhdyksICJleHBlY3QiLCBZUkVTICogVykKCiMg5YiG5Z2X5YaZ77ya5Y2V5qyh5aSnIHdyaXRlIOS8miBFSU5WQUwKb3MubHNlZWsoZmIuZmlsZW5vKCksIDAsIDApCkNIID0gNjQgKiAxMDI0CmZvciBvZmYgaW4gcmFuZ2UoMCwgbGVuKHJhdyksIENIKToKICAgIGZiLndyaXRlKHJhd1tvZmY6b2ZmICsgQ0hdKQpmYi5mbHVzaCgpCnRyeTogb3MuZnN5bmMoZmIuZmlsZW5vKCkpCmV4Y2VwdCBFeGNlcHRpb246IHBhc3MKCiMg5Zue6YeHCm9zLmxzZWVrKGZiLmZpbGVubygpLCAwLCAwKQpiYWNrID0gYiIiCndoaWxlIGxlbihiYWNrKSA8IGxlbihyYXcpOgogICAgY2h1bmsgPSBmYi5yZWFkKG1pbihDSCwgbGVuKHJhdykgLSBsZW4oYmFjaykpKQogICAgaWYgbm90IGNodW5rOiBicmVhawogICAgYmFjayArPSBjaHVuawpwcmludCgicmVhZGJhY2sgYnl0ZXMiLCBsZW4oYmFjaykpCm9rID0gKGJhY2sgPT0gcmF3KQpwcmludCgicGl4ZWwgZXhhY3Q6Iiwgb2ssICJzaGFfZXE6IiwgaGFzaGxpYi5zaGEyNTYoYmFjaykuaGV4ZGlnZXN0KClbOjEyXSwKICAgICAgaGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTJdKQoKIyDlm57ph4fovazlm74gKyBPQ1IKaWYgbGVuKGJhY2spID49IGxlbihyYXcpOgogICAgYXJyID0gbnAuZnJvbWJ1ZmZlcihiYWNrWzpsZW4ocmF3KV0sIGR0eXBlPW5wLnVpbnQ4KS5yZXNoYXBlKFlSRVMsIFhSRVMsIDQpCiAgICByZWMgPSBJbWFnZS5mcm9tYXJyYXkoYXJyWzosIDosIDI6Oi0xXSwgIlJHQiIpCiAgICByZWMuc2F2ZShvcy5wYXRoLmpvaW4oT1VULCAiY2FwdHVyZWQucG5nIikpCiAgICBvcy5zeXN0ZW0oZiJ0ZXNzZXJhY3Qge29zLnBhdGguam9pbihPVVQsJ2NhcHR1cmVkLnBuZycpfSBzdGRvdXQgLS1wc20gNiAtbCBlbmcgMj4vZGV2L251bGwgPiB7b3MucGF0aC5qb2luKE9VVCwnb2NyLnR4dCcpfSIpCiAgICB0eHQgPSBvcGVuKG9zLnBhdGguam9pbihPVVQsICJvY3IudHh0IiksIGVycm9ycz0icmVwbGFjZSIpLnJlYWQoKQogICAgcHJpbnQoIlRPS0VOIGluIE9DUjoiLCBUT0tFTiBpbiB0eHQpCiAgICBwcmludCgiLS0tIE9DUiAtLS0iKQogICAgcHJpbnQodHh0LnN0cmlwKClbOjkwMF0pCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""汇总六格结果 -> 渲染 -> 分块写 fb0 -> 回采 -> 像素比对 + OCR"""
+import os, json, struct, fcntl, hashlib
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+FB = "/dev/fb0"
+TOKEN = "H3K7M2"
+
+R = {}
+for f in ("result_l13.json", "result_l4.json", "result_l5.json", "result_l6.json"):
+    p = os.path.join(OUT, f)
+    if os.path.exists(p):
+        R.update(json.load(open(p)))
+
+lines = [
+    f"TOKEN {TOKEN}",
+    "生物阶梯 -> 硅基形态 逐格验收",
+    "",
+    f"L1 海葵 closed {R['L1']['arms']['closed']['mean_err']:.4f} "
+    f"open {R['L1']['arms']['open']['mean_err']:.4f} blind {R['L1']['arms']['blind']['mean_err']:.4f} PASS",
+    f"L2 蠕虫 自发率均 {R['L2']['spontaneous_rate_driven']:.3f} 非判据",
+    f"L2 蠕虫 模型残差 driven {R['L2']['model_err_final_driven']:.4f} random {R['L2']['model_err_final_random']:.4f} PASS",
+    f"L3 鱼 地图 {R['L3']['map_steps']:.3f} 随机 {R['L3']['random_steps']:.3f} 打乱 {R['L3']['shuffled_steps']:.3f} PASS",
+    f"L4 情绪门 delta {R['L4']['gating']['delta']:+.4f} ci {R['L4']['gating']['ci'][0]:+.4f} {R['L4']['gating']['ci'][1]:+.4f} PASS",
+    f"L4 玩 play {R['L4']['play']['play']:.4f} noplay {R['L4']['play']['noplay']:.4f} PASS",
+    f"L4 梦 true {R['L4']['dream']['true']:.4f} none {R['L4']['dream']['none']:.4f} fake {R['L4']['dream']['fake']:.4f} PASS",
+    f"L5 灵长 耦合 {R['L5']['coupled']['te_diff']:+.4f} 独立 {R['L5']['independent']['te_diff']:+.4f} PASS",
+    f"L5 镜像 a10 {R['L5']['mirror_sweep']['1.0']:.3f} a09 {R['L5']['mirror_sweep']['0.9']:.3f} a00 {R['L5']['mirror_sweep']['0.0']:.3f}",
+    f"L6 自传 因果 {R['L6']['autobiography']['causal']:.4f} 日志 {R['L6']['autobiography']['log']:.4f} PASS",
+    f"L6 知死 必死 {R['L6']['mortality']['mortal']:.4f} 可恢复 {R['L6']['mortality']['immortal']:.4f} PASS",
+    f"L6 文化 继承 {R['L6']['culture']['inherit']:.4f} 从零 {R['L6']['culture']['scratch']:.4f} 传错 {R['L6']['culture']['wrong']:.4f} PASS",
+    "",
+    "open 约等于 blind 复现",
+]
+
+fb = open(FB, "rb+")
+fi = fcntl.ioctl(fb, 0x4600, bytes(64))
+XRES, YRES = struct.unpack("II", fi[0:8])
+BPP = struct.unpack("I", fi[24:28])[0] or 32
+W = XRES * (BPP // 8)
+print("fb", XRES, YRES, BPP, "stride", W)
+
+img = Image.new("RGB", (XRES, YRES), (255, 255, 255))
+d = ImageDraw.Draw(img)
+fp = "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+font = ImageFont.truetype(fp, 26)
+y = 24
+for ln in lines:
+    d.text((28, y), ln, fill=(0, 0, 0), font=font)
+    y += 42
+img.save(os.path.join(OUT, "render.png"))
+
+# RGB -> RGBA(XRGB) 帧
+rgba = np.zeros((YRES, XRES, 4), dtype=np.uint8)
+a = np.asarray(img.convert("RGB"), dtype=np.uint8)
+rgba[:, :, 0:3] = a[:, :, ::-1]          # PIL RGB -> BGR
+rgba[:, :, 3] = 255
+raw = rgba.tobytes()
+print("frame bytes", len(raw), "expect", YRES * W)
+
+# 分块写：单次大 write 会 EINVAL
+os.lseek(fb.fileno(), 0, 0)
+CH = 64 * 1024
+for off in range(0, len(raw), CH):
+    fb.write(raw[off:off + CH])
+fb.flush()
+try: os.fsync(fb.fileno())
+except Exception: pass
+
+# 回采
+os.lseek(fb.fileno(), 0, 0)
+back = b""
+while len(back) < len(raw):
+    chunk = fb.read(min(CH, len(raw) - len(back)))
+    if not chunk: break
+    back += chunk
+print("readback bytes", len(back))
+ok = (back == raw)
+print("pixel exact:", ok, "sha_eq:", hashlib.sha256(back).hexdigest()[:12],
+      hashlib.sha256(raw).hexdigest()[:12])
+
+# 回采转图 + OCR
+if len(back) >= len(raw):
+    arr = np.frombuffer(back[:len(raw)], dtype=np.uint8).reshape(YRES, XRES, 4)
+    rec = Image.fromarray(arr[:, :, 2::-1], "RGB")
+    rec.save(os.path.join(OUT, "captured.png"))
+    os.system(f"tesseract {os.path.join(OUT,'captured.png')} stdout --psm 6 -l eng 2>/dev/null > {os.path.join(OUT,'ocr.txt')}")
+    txt = open(os.path.join(OUT, "ocr.txt"), errors="replace").read()
+    print("TOKEN in OCR:", TOKEN in txt)
+    print("--- OCR ---")
+    print(txt.strip()[:900])

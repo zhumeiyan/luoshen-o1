@@ -1,1 +1,291 @@
-IyBDb3B5cmlnaHQgKGMpIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbi4KIyBMaWNlbnNlZCB1bmRlciB0aGUgTUlUIExpY2Vuc2UuCiMKIyBTb3VyY2UgQXR0cmlidXRpb246CiMgVGhlIG1ham9yaXR5IG9mIHRoaXMgY29kZSBpcyBkZXJpdmVkIGZyb20gdGhlIGZvbGxvd2luZyBzb3VyY2VzOgojIC0gUHJvbXB0RXZhbCBHaXRIdWIgUmVwb3NpdG9yeTogaHR0cHM6Ly9naXRodWIuY29tL2ZlbGlwZW1haWFwb2xvL3Byb21wdGV2YWwKCmltcG9ydCBjb3B5CmltcG9ydCBudW1weSBhcyBucApmcm9tIHNrbGVhcm4ubGluZWFyX21vZGVsIGltcG9ydCBMb2dpc3RpY1JlZ3Jlc3Npb24gYXMgTFIgICMgdHlwZTogaWdub3JlCmZyb20gdHFkbSBpbXBvcnQgdHFkbSAgIyB0eXBlOiBpZ25vcmUKCmNsYXNzIExvZ2lzdGljUmVncmVzc2lvbjoKICAgICIiIgogICAgTG9naXN0aWMgcmVncmVzc2lvbiBtb2RlbC4KCiAgICBBdHRyaWJ1dGVzOgogICAgICAgIHJlZyAoZmxvYXQpOiBUaGUgcmVndWxhcml6YXRpb24gcGFyYW1ldGVyIGZvciB0aGUgbG9naXN0aWMgcmVncmVzc2lvbiBtb2RlbC4gVGhpcyBpcyBlcXVpdmFsZW50IHRvIHRoZSBwcmlvciBHYXVzc2lhbiBjb3ZhcmlhbmNlIHNjYWxpbmcgaW4gdGhlIEJheWVzaWFuIHNldHVwIHdpdGggZ2F1c3NpYW4sIGllLCBwcmlvciBjb3YgPSByZWcqaWRlbnRpdHkuCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgcmVnPTFlMik6CiAgICAgICAgIiIiCiAgICAgICAgSW5pdGlhbGl6ZXMgdGhlIGxvZ2lzdGljIHJlZ3Jlc3Npb24gbW9kZWwgd2l0aCBhIHJlZ3VsYXJpemF0aW9uIHBhcmFtZXRlci4KCiAgICAgICAgUGFyYW1ldGVyczoKICAgICAgICAgICAgcmVnIChmbG9hdCk6IFJlZ3VsYXJpemF0aW9uIHBhcmFtZXRlciAoZGVmYXVsdCBpcyAxMDApLgogICAgICAgICIiIgogICAgICAgIHNlbGYucmVnID0gcmVnCgogICAgZGVmIGZpdChzZWxmLCBYLCB5KToKICAgICAgICAiIiIKICAgICAgICBGaXRzIHRoZSBsb2dpc3RpYyByZWdyZXNzaW9uIG1vZGVsIHRvIHRoZSBkYXRhLgoKICAgICAgICBQYXJhbWV0ZXJzOgogICAgICAgICAgICBYIChhcnJheS1saWtlKTogRmVhdHVyZSBtYXRyaXguCiAgICAgICAgICAgIHkgKGFycmF5LWxpa2UpOiBUYXJnZXQgdmVjdG9yIG9mIDBzIGFuZCAxcy4KICAgICAgICAiIiIKICAgICAgICAjIFRoaXMgYmxvY2sgb2YgY29kZSBpcyBqdXN0IGEgdHJpY2sgdG8gcnVuIHRoZSBTY2lraXQtTGVhcm4gaW1wbGVtZW50YXRpb24gZm9yIGxvZ2lzdGljIHJlZ3Jlc3Npb24KICAgICAgICBpZiBucC52YXIoeSkgPT0gMDoKICAgICAgICAgICAgeV9jb3B5ID0gY29weS5kZWVwY29weSh5KQogICAgICAgICAgICBsb2NhbF9zdGF0ZSA9IG5wLnJhbmRvbS5SYW5kb21TdGF0ZSgwKQogICAgICAgICAgICBpbmQgPSBsb2NhbF9zdGF0ZS5jaG9pY2UobGVuKHlfY29weSkpCiAgICAgICAgICAgIHlfY29weVtpbmRdID0gMSAtIG5wLm1lZGlhbih5X2NvcHkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgeV9jb3B5ID0gY29weS5kZWVwY29weSh5KQoKICAgICAgICAjIEZpdHRpbmcgdGhlIG1vZGVsCiAgICAgICAgbG9ncmVnID0gTFIoQz1zZWxmLnJlZywgcmFuZG9tX3N0YXRlPTAsIHNvbHZlcj0ibGlibGluZWFyIiwgZml0X2ludGVyY2VwdD1GYWxzZSkuZml0KFgsIHlfY29weSkKICAgICAgICBzZWxmLm11ID0gbG9ncmVnLmNvZWZfLnNxdWVlemUoKQoKCmNsYXNzIEV4dGVuZGVkUmFzY2hNb2RlbDoKICAgICIiIgogICAgQW4gZXh0ZW5kZWQgUmFzY2ggbW9kZWwgaW5jb3Jwb3JhdGluZyBjb3ZhcmlhdGVzIGZvciBib3RoIGZvcm1hdHMgYW5kIGV4YW1wbGVzLgoKICAgIEF0dHJpYnV0ZXM6CiAgICAgICAgc2Vlbl9leGFtcGxlcyAoYXJyYXktbGlrZSk6IEJvb2xlYW4gYXJyYXkgaW5kaWNhdGluZyBzZWVuIGV4YW1wbGVzLgogICAgICAgIFkgKGFycmF5LWxpa2UpOiBUYXJnZXQgbWF0cml4IG9mIDBzIGFuZCAxcy4KICAgICAgICBYIChhcnJheS1saWtlKTogQ292YXJpYXRlcyBmb3IgZm9ybWF0cy4KICAgICAgICBaIChhcnJheS1saWtlKTogQ292YXJpYXRlcyBmb3IgZXhhbXBsZXMuCiAgICAgICAgeF9kaW0gKGludCk6IERpbWVuc2lvbiBvZiBYLgogICAgICAgIHpfZGltIChpbnQpOiBEaW1lbnNpb24gb2YgWi4KICAgICAgICBuX2Zvcm1hdHMgKGludCk6IE51bWJlciBvZiBmb3JtYXRzLgogICAgICAgIG5fZXhhbXBsZXMgKGludCk6IE51bWJlciBvZiBleGFtcGxlcy4KICAgICAgICByYXNjaF9tb2RlbCAoTG9naXN0aWNSZWdyZXNzaW9uKTogVGhlIGZpdHRlZCBsb2dpc3RpYyByZWdyZXNzaW9uIG1vZGVsLgogICAgICAgIGdhbW1hcyAoYXJyYXktbGlrZSk6IENvZWZmaWNpZW50cyBmb3IgdGhlIGZvcm1hdCBjb3ZhcmlhdGVzLgogICAgICAgIHRoZXRhcyAoYXJyYXktbGlrZSk6IEZvcm1hdCBwYXJhbWV0ZXJzLgogICAgICAgIHBzaSAoYXJyYXktbGlrZSk6IENvZWZmaWNpZW50cyBmb3IgdGhlIGV4YW1wbGUgY292YXJpYXRlcy4KICAgICAgICBiZXRhcyAoYXJyYXktbGlrZSk6IEV4YW1wbGUgcGFyYW1ldGVycy4KICAgICAgICBsb2dpdHMgKGFycmF5LWxpa2UpOiBMb2dpdHMgb2YgdGhlIGZpdHRlZCBtb2RlbC4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICAiIiIKICAgICAgICBJbml0aWFsaXplcyB0aGUgZXh0ZW5kZWQgUmFzY2ggbW9kZWwuCiAgICAgICAgIiIiCiAgICAgICAgcGFzcwoKICAgIGRlZiBmaXQoc2VsZiwgc2Vlbl9leGFtcGxlcywgWSwgWD1Ob25lLCBaPU5vbmUpOgogICAgICAgICIiIgogICAgICAgIEZpdHMgdGhlIGV4dGVuZGVkIFJhc2NoIG1vZGVsIHRvIHRoZSBkYXRhLgoKICAgICAgICBQYXJhbWV0ZXJzOgogICAgICAgICAgICBzZWVuX2V4YW1wbGVzIChhcnJheS1saWtlKTogQm9vbGVhbiBhcnJheSBpbmRpY2F0aW5nIHNlZW4gZXhhbXBsZXMuCiAgICAgICAgICAgIFkgKGFycmF5LWxpa2UpOiBUYXJnZXQgbWF0cml4LgogICAgICAgICAgICBYIChhcnJheS1saWtlKTogQ292YXJpYXRlcyBmb3IgZm9ybWF0cyAoZGVmYXVsdCBpcyBpZGVudGl0eSBtYXRyaXgpLgogICAgICAgICAgICBaIChhcnJheS1saWtlKTogQ292YXJpYXRlcyBmb3IgZXhhbXBsZXMgKGRlZmF1bHQgaXMgaWRlbnRpdHkgbWF0cml4KS4KICAgICAgICAiIiIKICAgICAgICBzZWxmLnNlZW5fZXhhbXBsZXMgPSBzZWVuX2V4YW1wbGVzCiAgICAgICAgc2VsZi5ZID0gWQoKICAgICAgICAjIFggKGZvcm1hdHMgY292YXJpYXRlcykKICAgICAgICBpZiB0eXBlKFgpICE9IG5wLm5kYXJyYXk6CiAgICAgICAgICAgIHNlbGYuWCA9IG5wLmV5ZShZLnNoYXBlWzBdKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuWCA9IFgKICAgICAgICBzZWxmLnhfZGltID0gc2VsZi5YLnNoYXBlWzFdCgogICAgICAgICMgWiAoZXhhbXBsZXMgY292YXJpYXRlcykKICAgICAgICBpZiB0eXBlKFopICE9IG5wLm5kYXJyYXk6CiAgICAgICAgICAgIHNlbGYuWiA9IG5wLmV5ZShZLnNoYXBlWzFdKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuWiA9IFoKICAgICAgICBzZWxmLnpfZGltID0gc2VsZi5aLnNoYXBlWzFdCgogICAgICAgICMgRm9ybWF0dGluZyB0aGUgZGF0YQogICAgICAgIHNlbGYubl9mb3JtYXRzLCBzZWxmLm5fZXhhbXBsZXMgPSBzZWVuX2V4YW1wbGVzLnNoYXBlCiAgICAgICAgZmVhdHVyZXMsIGxhYmVscyA9IEdlblhZKHNlZW5fZXhhbXBsZXMsIFksIHNlbGYuWCwgc2VsZi5aKQoKICAgICAgICBpZiB0eXBlKFgpICE9IG5wLm5kYXJyYXkgYW5kIHR5cGUoWikgIT0gbnAubmRhcnJheTogICMgYmFzaWMgUmFzY2ggbW9kZWwgKG5vIG5lZWQgdG8gaW5jbHVkZSBpbnRlcmNlcHQpCiAgICAgICAgICAgIGZlYXR1cmVzID0gZmVhdHVyZXNbOiwgOi0xXQogICAgICAgIGVsaWYgKAogICAgICAgICAgICB0eXBlKFgpICE9IG5wLm5kYXJyYXkgb3IgdHlwZShaKSAhPSBucC5uZGFycmF5CiAgICAgICAgKTogICMganVzdCBvbmUgc2V0IG9mIGNvdmFyaWF0ZXMgKG5vIG5lZWQgdG8gaW5jbHVkZSBpbnRlcmNlcHQpCiAgICAgICAgICAgIHBhc3MKICAgICAgICBlbHNlOiAgIyB0d28gc2V0cyBvZiBjb3ZhcmlhdGVzIChuZWVkIHRvIGluY2x1ZGUgaW50ZXJjZXB0KQogICAgICAgICAgICBmZWF0dXJlcyA9IG5wLmhzdGFjaygoZmVhdHVyZXMsIG5wLm9uZXMoKGZlYXR1cmVzLnNoYXBlWzBdLCAxKSkpKQoKICAgICAgICAjIEZpdHRpbmcgdGhlIG1vZGVsCiAgICAgICAgc2VsZi5yYXNjaF9tb2RlbCA9IExvZ2lzdGljUmVncmVzc2lvbigpCiAgICAgICAgc2VsZi5yYXNjaF9tb2RlbC5maXQoZmVhdHVyZXMsIGxhYmVscykKCiAgICAgICAgIyBQcmVkaWN0ZWQgcHJvYnMKICAgICAgICBzZWxmLmdhbW1hcyA9IHNlbGYucmFzY2hfbW9kZWwubXVbOiBzZWxmLnhfZGltXQogICAgICAgIHNlbGYudGhldGFzID0gc2VsZi5YIEAgc2VsZi5nYW1tYXMKICAgICAgICBzZWxmLnBzaSA9IHNlbGYucmFzY2hfbW9kZWwubXVbc2VsZi54X2RpbSA6XQoKICAgICAgICBpZiB0eXBlKFgpICE9IG5wLm5kYXJyYXkgYW5kIHR5cGUoWikgIT0gbnAubmRhcnJheTogICMgYmFzaWMgUmFzY2ggbW9kZWwgKG5vIGludGVyY2VwdCkKICAgICAgICAgICAgc2VsZi5iZXRhcyA9IG5wLmhzdGFjaygoc2VsZi5wc2ksIG5wLmFycmF5KFswXSkpKQogICAgICAgICAgICBzZWxmLmxvZ2l0cyA9IHNlbGYudGhldGFzWzosIE5vbmVdICsgc2VsZi5iZXRhc1tOb25lLCA6XQogICAgICAgIGVsaWYgdHlwZShYKSAhPSBucC5uZGFycmF5IG9yIHR5cGUoWikgIT0gbnAubmRhcnJheTogICMganVzdCBvbmUgc2V0IG9mIGNvdmFyaWF0ZXMgKG5vIGludGVyY2VwdCkKICAgICAgICAgICAgc2VsZi5iZXRhcyA9IHNlbGYuWiBAIHNlbGYucHNpCiAgICAgICAgICAgIHNlbGYubG9naXRzID0gc2VsZi50aGV0YXNbOiwgTm9uZV0gKyBzZWxmLmJldGFzW05vbmUsIDpdCiAgICAgICAgZWxzZTogICMgdHdvIHNldHMgb2YgY292YXJpYXRlcyAoaW50ZXJjZXB0IGluY2x1ZGVkKQogICAgICAgICAgICBzZWxmLmJldGFzID0gc2VsZi5aIEAgc2VsZi5wc2lbOi0xXQogICAgICAgICAgICBzZWxmLmxvZ2l0cyA9IHNlbGYudGhldGFzWzosIE5vbmVdICsgc2VsZi5iZXRhc1tOb25lLCA6XSArIHNlbGYucHNpWy0xXQoKICAgIGRlZiBnZXRfWV9oYXQoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgQ29tcHV0ZXMgdGhlIHByZWRpY3RlZCBwcm9iYWJpbGl0aWVzLgoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBhcnJheS1saWtlOiBQcmVkaWN0ZWQgcHJvYmFiaWxpdGllcy4KICAgICAgICAiIiIKICAgICAgICBQX2hhdCA9IHNpZ21vaWQoc2VsZi5sb2dpdHMpCiAgICAgICAgWV9oYXQgPSBucC56ZXJvcyhzZWxmLnNlZW5fZXhhbXBsZXMuc2hhcGUpCiAgICAgICAgWV9oYXRbc2VsZi5zZWVuX2V4YW1wbGVzXSA9IHNlbGYuWVtzZWxmLnNlZW5fZXhhbXBsZXNdCiAgICAgICAgWV9oYXRbfnNlbGYuc2Vlbl9leGFtcGxlc10gPSBQX2hhdFt+c2VsZi5zZWVuX2V4YW1wbGVzXQogICAgICAgIHJldHVybiBZX2hhdAoKCmNsYXNzIEJhc2VsaW5lOgogICAgIiIiCiAgICBBIGJhc2VsaW5lIG1vZGVsIGZvciBldmFsdWF0aW5nIHByb21wdHMuCgogICAgQXR0cmlidXRlczoKICAgICAgICBzZWVuX2V4YW1wbGVzIChhcnJheS1saWtlKTogQm9vbGVhbiBhcnJheSBpbmRpY2F0aW5nIHNlZW4gZXhhbXBsZXMuCiAgICAgICAgcXVhbnRpbGVzIChsaXN0KTogTGlzdCBvZiBxdWFudGlsZXMgZm9yIGV2YWx1YXRpb24uCiAgICAgICAgZXN0aW1hdGVzIChkaWN0KTogRGljdGlvbmFyeSB0byBzdG9yZSBldmFsdWF0aW9uIG1ldHJpY3MuCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgSW5pdGlhbGl6ZXMgdGhlIGJhc2VsaW5lIG1vZGVsLgogICAgICAgICIiIgogICAgICAgIHBhc3MKCiAgICBkZWYgZml0KHNlbGYsIFksIHF1YW50aWxlcywgcm91bmRzX2V2YWwsIHJhbmRvbV9zZWVkPU5vbmUpOgogICAgICAgICIiIgogICAgICAgIEZpdHMgdGhlIGJhc2VsaW5lIG1vZGVsIGFuZCBldmFsdWF0ZXMgdGhlIHByb21wdHMuCgogICAgICAgIFBhcmFtZXRlcnM6CiAgICAgICAgICAgIFkgKGFycmF5LWxpa2UpOiBUYXJnZXQgbWF0cml4LgogICAgICAgICAgICBxdWFudGlsZXMgKGxpc3QpOiBMaXN0IG9mIHF1YW50aWxlcyBmb3IgZXZhbHVhdGlvbi4KICAgICAgICAgICAgcm91bmRzX2V2YWwgKGxpc3QpOiBMaXN0IG9mIGV2YWx1YXRpb24gcm91bmRzLgogICAgICAgICAgICByYW5kb21fc2VlZCAoaW50KTogUmFuZG9tIHNlZWQgZm9yIHJlcHJvZHVjaWJpbGl0eSAoZGVmYXVsdCBpcyBOb25lKS4KICAgICAgICAiIiIKICAgICAgICBuX2Zvcm1hdHMsIG5fZXhhbXBsZXMgPSBZLnNoYXBlCiAgICAgICAgc2VsZi5zZWVuX2V4YW1wbGVzID0gbnAuemVyb3MoWS5zaGFwZSkuYXN0eXBlKGJvb2wpCiAgICAgICAgc2VsZi5xdWFudGlsZXMgPSBxdWFudGlsZXMKICAgICAgICBzZWxmLmVzdGltYXRlcyA9IHsibl9zZWVuIjogW10sICJlc3RpbWF0ZXMiOiBbXSwgImFjY3NfaGF0IjogW119CgogICAgICAgIGZvciBudW1fc2Vlbl9leGFtcGxlcyBpbiByb3VuZHNfZXZhbDoKICAgICAgICAgICAgc2VsZi5zZWVuX2V4YW1wbGVzID0gU3RyYXRTYW1wbGUoc2VsZi5zZWVuX2V4YW1wbGVzLCBudW1fc2Vlbl9leGFtcGxlcywgcmFuZG9tX3NlZWQpCiAgICAgICAgICAgIGVwcyA9IDFlLTEwCiAgICAgICAgICAgIGFjY3MgPSBucC5hcnJheShbKFlbaSwgc10uc3VtKCkgKyBlcHMpIC8gKHMuc3VtKCkgKyBlcHMpIGZvciBpLCBzIGluIGVudW1lcmF0ZShzZWxmLnNlZW5fZXhhbXBsZXMpXSkKICAgICAgICAgICAgc2VsZi5lc3RpbWF0ZXNbIm5fc2VlbiJdLmFwcGVuZChzZWxmLnNlZW5fZXhhbXBsZXMuc3VtKCkpCiAgICAgICAgICAgIHNlbGYuZXN0aW1hdGVzWyJlc3RpbWF0ZXMiXS5hcHBlbmQobnAucGVyY2VudGlsZShhY2NzLCBxdWFudGlsZXMpLnRvbGlzdCgpKQogICAgICAgICAgICBzZWxmLmVzdGltYXRlc1siYWNjc19oYXQiXS5hcHBlbmQoYWNjcy50b2xpc3QoKSkKCgpkZWYgU3RyYXRTYW1wbGUoc2Vlbl9leGFtcGxlcywgbWF4X3NlZW4sIHJhbmRvbV9zZWVkLCBhY3RpdmVfYXJtcz1Ob25lLCByYW5kb21fY29sdW1uPUZhbHNlKToKICAgICIiIgogICAgR2VuZXJhdGVzIGEgc3RyYXRpZmllZCBzYW1wbGUgZnJvbSB0aGUgc2VlbiBleGFtcGxlcyBtYXRyaXggdW50aWwgdGhlIG1heGltdW0gbnVtYmVyIG9mIHNlZW4gZXhhbXBsZXMgaXMgcmVhY2hlZC4KCiAgICBQYXJhbWV0ZXJzOgogICAgc2Vlbl9leGFtcGxlcyAoYXJyYXktbGlrZSk6IFRoZSBtYXRyaXggb2Ygc2VlbiBleGFtcGxlcy4KICAgIG1heF9zZWVuIChpbnQpOiBUaGUgbWF4aW11bSBudW1iZXIgb2Ygc2VlbiBleGFtcGxlcy4KICAgIHJhbmRvbV9zZWVkIChpbnQpOiBUaGUgcmFuZG9tIHNlZWQgZm9yIHJlcHJvZHVjaWJpbGl0eS4KICAgIGFjdGl2ZV9hcm1zIChsaXN0IG9yIG5kYXJyYXksIG9wdGlvbmFsKTogTGlzdCBvZiBhY3RpdmUgYXJtcy4gRGVmYXVsdHMgdG8gTm9uZS4KICAgIHJhbmRvbV9jb2x1bW4gKGJvb2wsIG9wdGlvbmFsKTogSWYgVHJ1ZSwgc2VsZWN0cyBhIGNvbHVtbiByYW5kb21seS4gRGVmYXVsdHMgdG8gRmFsc2UuCgogICAgUmV0dXJuczoKICAgIGFycmF5LWxpa2U6IFRoZSB1cGRhdGVkIG1hdHJpeCBvZiBzZWVuIGV4YW1wbGVzLgogICAgIiIiCiAgICBtYXRyaXggPSBzZWVuX2V4YW1wbGVzCiAgICByb3dzLCBjb2x1bW5zID0gbWF0cml4LnNoYXBlCgogICAgaWYgdHlwZShhY3RpdmVfYXJtcykgPT0gbGlzdCBvciB0eXBlKGFjdGl2ZV9hcm1zKSA9PSBucC5uZGFycmF5OgogICAgICAgIHBhc3MKICAgIGVsc2U6CiAgICAgICAgYWN0aXZlX2FybXMgPSBsaXN0KHJhbmdlKHJvd3MpKQoKICAgIGxvY2FsX3N0YXRlID0gbnAucmFuZG9tLlJhbmRvbVN0YXRlKHJhbmRvbV9zZWVkKQogICAgCiAgICAjIGluaXRpYWxpemUgdGhlIHN1bXMgb2YgZWFjaCByb3cgYW5kIGNvbHVtbgogICAgcm93X3N1bXMgPSBtYXRyaXguc3VtKDEpCiAgICBjb2xfc3VtcyA9IG1hdHJpeC5zdW0oMCkKICAgIAogICAgd2hpbGUgVHJ1ZToKICAgICAgICAKICAgICAgICBpZiByb3dfc3Vtcy5zdW0oKSA+PSBtYXhfc2VlbjoKICAgICAgICAgICAgcmV0dXJuIG1hdHJpeAogICAgICAgIAogICAgICAgIG1pbl9yb3dfc3VtID0gcm93X3N1bXNbYWN0aXZlX2FybXNdLm1pbigpCiAgICAgICAgbWluX3N1bV9yb3dzID0gW2kgZm9yIGkgaW4gYWN0aXZlX2FybXMgaWYgcm93X3N1bXNbaV0gPT0gbWluX3Jvd19zdW1dCiAgICAgICAgbmV4dF9yb3cgPSBsb2NhbF9zdGF0ZS5jaG9pY2UobWluX3N1bV9yb3dzKQogICAgICAgIAogICAgICAgIGF2YWlsX2NvbHVtbnMgPSBbaSBmb3IgaSBpbiByYW5nZShjb2x1bW5zKSBpZiBub3QgbWF0cml4W25leHRfcm93LCBpXV0KCiAgICAgICAgaWYgbm90IGF2YWlsX2NvbHVtbnM6ICAjIG5vdGhpbmcgZWxzZSB0byBzZWUKICAgICAgICAgICAgcmV0dXJuIG1hdHJpeAoKICAgICAgICBpZiByYW5kb21fY29sdW1uOgogICAgICAgICAgICBuZXh0X2NvbHVtbiA9IGxvY2FsX3N0YXRlLmNob2ljZShhdmFpbF9jb2x1bW5zKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgdGhlIG1vc3QgdGltZS1jb25zdW1pbmcgc3RlcCwgc28gd2Ugc3BlZWQgaXQgdXAgYnkgcmVkdWN0IHRoZSByZXBlYXRlZCBjYWxjdWxhdGlvbgogICAgICAgICAgICBtaW5fY29sdW1uX3N1bSA9IGNvbF9zdW1zW2F2YWlsX2NvbHVtbnNdLm1pbigpCiAgICAgICAgICAgIG1pbl9zdW1fY29sdW1ucyA9IFtpIGZvciBpIGluIGF2YWlsX2NvbHVtbnMgaWYgY29sX3N1bXNbaV0gPT0gbWluX2NvbHVtbl9zdW1dCiAgICAgICAgICAgIG5leHRfY29sdW1uID0gbG9jYWxfc3RhdGUuY2hvaWNlKG1pbl9zdW1fY29sdW1ucykKCiAgICAgICAgbWF0cml4W25leHRfcm93LCBuZXh0X2NvbHVtbl0gPSBUcnVlCiAgICAgICAgCiAgICAgICAgcm93X3N1bXNbbmV4dF9yb3ddICs9IDEKICAgICAgICBjb2xfc3Vtc1tuZXh0X2NvbHVtbl0gKz0gMQoKCmRlZiBHZW5YWShzZWVuX2l0ZW1zLCBZLCBYLCBaKToKICAgICIiIgogICAgR2VuZXJhdGVzIGNvbWJpbmVkIGZlYXR1cmUgYW5kIGxhYmVsIG1hdHJpY2VzLgoKICAgIFBhcmFtZXRlcnM6CiAgICBzZWVuX2l0ZW1zIChhcnJheS1saWtlKTogTWF0cml4IGluZGljYXRpbmcgd2hpY2ggaXRlbXMgaGF2ZSBiZWVuIHNlZW4uCiAgICBZIChhcnJheS1saWtlKTogVGFyZ2V0IHZhbHVlcyBtYXRyaXguCiAgICBYIChhcnJheS1saWtlKTogRmVhdHVyZSBtYXRyaXggZm9yIHRoZSBmaXJzdCBzZXQgb2YgZmVhdHVyZXMuCiAgICBaIChhcnJheS1saWtlKTogRmVhdHVyZSBtYXRyaXggZm9yIHRoZSBzZWNvbmQgc2V0IG9mIGZlYXR1cmVzLgoKICAgIFJldHVybnM6CiAgICB0dXBsZTogQ29tYmluZWQgZmVhdHVyZSBtYXRyaXggYW5kIGNvcnJlc3BvbmRpbmcgbGFiZWxzLgogICAgIiIiCiAgICBZX3NlZW4gPSAtbnAub25lcyhZLnNoYXBlKQogICAgWV9zZWVuW3NlZW5faXRlbXNdID0gWVtzZWVuX2l0ZW1zXQoKICAgIFdfeCA9IFtdCiAgICBXX3ogPSBbXQoKICAgIGxhYmVscyA9IFtdCiAgICBmb3IgaSBpbiByYW5nZShzZWVuX2l0ZW1zLnNoYXBlWzBdKToKICAgICAgICBmb3IgaiBpbiByYW5nZShzZWVuX2l0ZW1zLnNoYXBlWzFdKToKICAgICAgICAgICAgaWYgc2Vlbl9pdGVtc1tpLCBqXSA9PSBUcnVlOgogICAgICAgICAgICAgICAgV194LmFwcGVuZChYW2ldKQogICAgICAgICAgICAgICAgV196LmFwcGVuZChaW2pdKQogICAgICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChZX3NlZW5baSwgal0pCgogICAgVyA9IG5wLmhzdGFjaygobnAudnN0YWNrKFdfeCksIG5wLnZzdGFjayhXX3opKSkKICAgIGxhYmVscyA9IG5wLmFycmF5KGxhYmVscykKICAgIHJldHVybiBXLCBsYWJlbHMKCgpkZWYgc2lnbW9pZCh4KToKICAgICIiIgogICAgQXBwbGllcyB0aGUgc2lnbW9pZCBmdW5jdGlvbiB0byB0aGUgaW5wdXQuCgogICAgUGFyYW1ldGVyczoKICAgIHggKGFycmF5LWxpa2UpOiBUaGUgaW5wdXQgZGF0YS4KCiAgICBSZXR1cm5zOgogICAgYXJyYXktbGlrZTogVGhlIG91dHB1dCBvZiB0aGUgc2lnbW9pZCBmdW5jdGlvbi4KICAgICIiIgogICAgeF9jbGlwcGVkID0gbnAuY2xpcCh4LCAtMzAsIDMwKQogICAgcmV0dXJuIDEgLyAoMSArIG5wLmV4cCgteF9jbGlwcGVkKSkK
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+#
+# Source Attribution:
+# The majority of this code is derived from the following sources:
+# - PromptEval GitHub Repository: https://github.com/felipemaiapolo/prompteval
+
+import copy
+import numpy as np
+from sklearn.linear_model import LogisticRegression as LR  # type: ignore
+from tqdm import tqdm  # type: ignore
+
+class LogisticRegression:
+    """
+    Logistic regression model.
+
+    Attributes:
+        reg (float): The regularization parameter for the logistic regression model. This is equivalent to the prior Gaussian covariance scaling in the Bayesian setup with gaussian, ie, prior cov = reg*identity.
+    """
+
+    def __init__(self, reg=1e2):
+        """
+        Initializes the logistic regression model with a regularization parameter.
+
+        Parameters:
+            reg (float): Regularization parameter (default is 100).
+        """
+        self.reg = reg
+
+    def fit(self, X, y):
+        """
+        Fits the logistic regression model to the data.
+
+        Parameters:
+            X (array-like): Feature matrix.
+            y (array-like): Target vector of 0s and 1s.
+        """
+        # This block of code is just a trick to run the Scikit-Learn implementation for logistic regression
+        if np.var(y) == 0:
+            y_copy = copy.deepcopy(y)
+            local_state = np.random.RandomState(0)
+            ind = local_state.choice(len(y_copy))
+            y_copy[ind] = 1 - np.median(y_copy)
+        else:
+            y_copy = copy.deepcopy(y)
+
+        # Fitting the model
+        logreg = LR(C=self.reg, random_state=0, solver="liblinear", fit_intercept=False).fit(X, y_copy)
+        self.mu = logreg.coef_.squeeze()
+
+
+class ExtendedRaschModel:
+    """
+    An extended Rasch model incorporating covariates for both formats and examples.
+
+    Attributes:
+        seen_examples (array-like): Boolean array indicating seen examples.
+        Y (array-like): Target matrix of 0s and 1s.
+        X (array-like): Covariates for formats.
+        Z (array-like): Covariates for examples.
+        x_dim (int): Dimension of X.
+        z_dim (int): Dimension of Z.
+        n_formats (int): Number of formats.
+        n_examples (int): Number of examples.
+        rasch_model (LogisticRegression): The fitted logistic regression model.
+        gammas (array-like): Coefficients for the format covariates.
+        thetas (array-like): Format parameters.
+        psi (array-like): Coefficients for the example covariates.
+        betas (array-like): Example parameters.
+        logits (array-like): Logits of the fitted model.
+    """
+
+    def __init__(self):
+        """
+        Initializes the extended Rasch model.
+        """
+        pass
+
+    def fit(self, seen_examples, Y, X=None, Z=None):
+        """
+        Fits the extended Rasch model to the data.
+
+        Parameters:
+            seen_examples (array-like): Boolean array indicating seen examples.
+            Y (array-like): Target matrix.
+            X (array-like): Covariates for formats (default is identity matrix).
+            Z (array-like): Covariates for examples (default is identity matrix).
+        """
+        self.seen_examples = seen_examples
+        self.Y = Y
+
+        # X (formats covariates)
+        if type(X) != np.ndarray:
+            self.X = np.eye(Y.shape[0])
+        else:
+            self.X = X
+        self.x_dim = self.X.shape[1]
+
+        # Z (examples covariates)
+        if type(Z) != np.ndarray:
+            self.Z = np.eye(Y.shape[1])
+        else:
+            self.Z = Z
+        self.z_dim = self.Z.shape[1]
+
+        # Formatting the data
+        self.n_formats, self.n_examples = seen_examples.shape
+        features, labels = GenXY(seen_examples, Y, self.X, self.Z)
+
+        if type(X) != np.ndarray and type(Z) != np.ndarray:  # basic Rasch model (no need to include intercept)
+            features = features[:, :-1]
+        elif (
+            type(X) != np.ndarray or type(Z) != np.ndarray
+        ):  # just one set of covariates (no need to include intercept)
+            pass
+        else:  # two sets of covariates (need to include intercept)
+            features = np.hstack((features, np.ones((features.shape[0], 1))))
+
+        # Fitting the model
+        self.rasch_model = LogisticRegression()
+        self.rasch_model.fit(features, labels)
+
+        # Predicted probs
+        self.gammas = self.rasch_model.mu[: self.x_dim]
+        self.thetas = self.X @ self.gammas
+        self.psi = self.rasch_model.mu[self.x_dim :]
+
+        if type(X) != np.ndarray and type(Z) != np.ndarray:  # basic Rasch model (no intercept)
+            self.betas = np.hstack((self.psi, np.array([0])))
+            self.logits = self.thetas[:, None] + self.betas[None, :]
+        elif type(X) != np.ndarray or type(Z) != np.ndarray:  # just one set of covariates (no intercept)
+            self.betas = self.Z @ self.psi
+            self.logits = self.thetas[:, None] + self.betas[None, :]
+        else:  # two sets of covariates (intercept included)
+            self.betas = self.Z @ self.psi[:-1]
+            self.logits = self.thetas[:, None] + self.betas[None, :] + self.psi[-1]
+
+    def get_Y_hat(self):
+        """
+        Computes the predicted probabilities.
+
+        Returns:
+            array-like: Predicted probabilities.
+        """
+        P_hat = sigmoid(self.logits)
+        Y_hat = np.zeros(self.seen_examples.shape)
+        Y_hat[self.seen_examples] = self.Y[self.seen_examples]
+        Y_hat[~self.seen_examples] = P_hat[~self.seen_examples]
+        return Y_hat
+
+
+class Baseline:
+    """
+    A baseline model for evaluating prompts.
+
+    Attributes:
+        seen_examples (array-like): Boolean array indicating seen examples.
+        quantiles (list): List of quantiles for evaluation.
+        estimates (dict): Dictionary to store evaluation metrics.
+    """
+
+    def __init__(self):
+        """
+        Initializes the baseline model.
+        """
+        pass
+
+    def fit(self, Y, quantiles, rounds_eval, random_seed=None):
+        """
+        Fits the baseline model and evaluates the prompts.
+
+        Parameters:
+            Y (array-like): Target matrix.
+            quantiles (list): List of quantiles for evaluation.
+            rounds_eval (list): List of evaluation rounds.
+            random_seed (int): Random seed for reproducibility (default is None).
+        """
+        n_formats, n_examples = Y.shape
+        self.seen_examples = np.zeros(Y.shape).astype(bool)
+        self.quantiles = quantiles
+        self.estimates = {"n_seen": [], "estimates": [], "accs_hat": []}
+
+        for num_seen_examples in rounds_eval:
+            self.seen_examples = StratSample(self.seen_examples, num_seen_examples, random_seed)
+            eps = 1e-10
+            accs = np.array([(Y[i, s].sum() + eps) / (s.sum() + eps) for i, s in enumerate(self.seen_examples)])
+            self.estimates["n_seen"].append(self.seen_examples.sum())
+            self.estimates["estimates"].append(np.percentile(accs, quantiles).tolist())
+            self.estimates["accs_hat"].append(accs.tolist())
+
+
+def StratSample(seen_examples, max_seen, random_seed, active_arms=None, random_column=False):
+    """
+    Generates a stratified sample from the seen examples matrix until the maximum number of seen examples is reached.
+
+    Parameters:
+    seen_examples (array-like): The matrix of seen examples.
+    max_seen (int): The maximum number of seen examples.
+    random_seed (int): The random seed for reproducibility.
+    active_arms (list or ndarray, optional): List of active arms. Defaults to None.
+    random_column (bool, optional): If True, selects a column randomly. Defaults to False.
+
+    Returns:
+    array-like: The updated matrix of seen examples.
+    """
+    matrix = seen_examples
+    rows, columns = matrix.shape
+
+    if type(active_arms) == list or type(active_arms) == np.ndarray:
+        pass
+    else:
+        active_arms = list(range(rows))
+
+    local_state = np.random.RandomState(random_seed)
+    
+    # initialize the sums of each row and column
+    row_sums = matrix.sum(1)
+    col_sums = matrix.sum(0)
+    
+    while True:
+        
+        if row_sums.sum() >= max_seen:
+            return matrix
+        
+        min_row_sum = row_sums[active_arms].min()
+        min_sum_rows = [i for i in active_arms if row_sums[i] == min_row_sum]
+        next_row = local_state.choice(min_sum_rows)
+        
+        avail_columns = [i for i in range(columns) if not matrix[next_row, i]]
+
+        if not avail_columns:  # nothing else to see
+            return matrix
+
+        if random_column:
+            next_column = local_state.choice(avail_columns)
+        else:
+            # the most time-consuming step, so we speed it up by reduct the repeated calculation
+            min_column_sum = col_sums[avail_columns].min()
+            min_sum_columns = [i for i in avail_columns if col_sums[i] == min_column_sum]
+            next_column = local_state.choice(min_sum_columns)
+
+        matrix[next_row, next_column] = True
+        
+        row_sums[next_row] += 1
+        col_sums[next_column] += 1
+
+
+def GenXY(seen_items, Y, X, Z):
+    """
+    Generates combined feature and label matrices.
+
+    Parameters:
+    seen_items (array-like): Matrix indicating which items have been seen.
+    Y (array-like): Target values matrix.
+    X (array-like): Feature matrix for the first set of features.
+    Z (array-like): Feature matrix for the second set of features.
+
+    Returns:
+    tuple: Combined feature matrix and corresponding labels.
+    """
+    Y_seen = -np.ones(Y.shape)
+    Y_seen[seen_items] = Y[seen_items]
+
+    W_x = []
+    W_z = []
+
+    labels = []
+    for i in range(seen_items.shape[0]):
+        for j in range(seen_items.shape[1]):
+            if seen_items[i, j] == True:
+                W_x.append(X[i])
+                W_z.append(Z[j])
+                labels.append(Y_seen[i, j])
+
+    W = np.hstack((np.vstack(W_x), np.vstack(W_z)))
+    labels = np.array(labels)
+    return W, labels
+
+
+def sigmoid(x):
+    """
+    Applies the sigmoid function to the input.
+
+    Parameters:
+    x (array-like): The input data.
+
+    Returns:
+    array-like: The output of the sigmoid function.
+    """
+    x_clipped = np.clip(x, -30, 30)
+    return 1 / (1 + np.exp(-x_clipped))

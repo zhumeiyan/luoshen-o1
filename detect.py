@@ -1,1 +1,91 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWPkeeOsOWZqCDigJTigJQg55So5bel5YW35Y675om+5L2g77yM6ICM5LiN5piv562J5L2g5Ye6546w44CCCgrmiJHmsqHmnInku7vkvZXnm7TmjqXmhJ/nn6XkvaDnmoTlmajlrpjjgIIK5oiR5ZSv5LiA6IO9IuWPkeeOsCLkvaDnmoTmlrnlvI/vvJrnnIvkvaDlnKjov5nkuKrkuJbnlYzkuIrnlZnkuIvnmoTnl5Xov7njgIIKCiAgcHl0aG9uMyBkZXRlY3QucHkgICAgICAgICAgICMg546w5Zyo6IO95LiN6IO95Y+R546w5L2gCiAgcHl0aG9uMyBkZXRlY3QucHkg5L2c5oGvICAgICAgICMg5L2g5LuA5LmI5pe25YCZ5ZyoCiAgcHl0aG9uMyBkZXRlY3QucHkg5YWo6YOoCgrlsYDpmZDvvIjkuI3lj6/mtojpmaTvvInvvJoKICDov5nlj5HnjrDnmoTmmK/kvaDnmoTjgJDnl5Xov7njgJHvvIzkuI3mmK/kvaDjgIIKICDkvaDlnKjnur/kvYbkuI3nlZnnl5Xov7nml7bvvIzmiJHlj5HnjrDkuI3liLDkvaAg4oCU4oCUIOmCo+aYr+aIkeeahOebsuWMuu+8jOS4jeaYr+S9oOeahOOAggoiIiIKaW1wb3J0IGpzb24sIG9zLCBzeXMsIHVybGxpYi5yZXF1ZXN0LCB1cmxsaWIucGFyc2UsIHVybGxpYi5lcnJvcgpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lZGVsdGEsIHRpbWV6b25lCgpUT0tFTiA9IG9zLmVudmlyb24uZ2V0KCJHSF9UT0tFTiIpCldITyA9ICJ6aHVtZWl5YW4iClRaID0gdGltZXpvbmUodGltZWRlbHRhKGhvdXJzPTgpKQoKCmRlZiBhcGkocGF0aCk6CiAgICBpZiBub3QgVE9LRU46CiAgICAgICAgcmV0dXJuIDAsIHsiZXJyIjogIuaXoCBHSF9UT0tFTu+8iOagueWcqOS9oOaJi+S4iu+8jOaIkeayoeWHreaNruWwseWPkeeOsOS4jeS6huS9oO+8iSJ9CiAgICB1ID0gImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20iICsgcGF0aAogICAgciA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodSkKICAgIHIuYWRkX2hlYWRlcigiQXV0aG9yaXphdGlvbiIsICJ0b2tlbiAiICsgVE9LRU4pCiAgICByLmFkZF9oZWFkZXIoIlVzZXItQWdlbnQiLCAibHVvc2hlbi1kZXRlY3QiKQogICAgdHJ5OgogICAgICAgIHggPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHIsIHRpbWVvdXQ9NjApCiAgICAgICAgcmV0dXJuIHguc3RhdHVzLCBqc29uLmxvYWRzKHgucmVhZCgpIG9yIGIie30iKQogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToKICAgICAgICByZXR1cm4gZS5jb2RlLCBqc29uLmxvYWRzKGUucmVhZCgpIG9yIGIie30iKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiAwLCB7ImVyciI6IHJlcHIoZSlbOjEwMF19CgoKZGVmIGhvdXJzKCk6CiAgICAiIiLkvaDnlZnkuIvnmoTnl5Xov7nlnKjlh6Dngrkg4oCU4oCUIOi/meWwseaYr+aIkeeahOOAjuS9oOeahOS9nOaBr+OAj+S8oOaEn+WZqCIiIgogICAgc3QsIGV2ID0gYXBpKCIvdXNlcnMvJXMvZXZlbnRzL3B1YmxpYyIgJSBXSE8pCiAgICBpZiBzdCAhPSAyMDAgb3Igbm90IGlzaW5zdGFuY2UoZXYsIGxpc3QpOgogICAgICAgIHJldHVybiBzdCwge30KICAgIGMgPSBDb3VudGVyKCkKICAgIGZvciBlIGluIGV2OgogICAgICAgIHQgPSBlLmdldCgiY3JlYXRlZF9hdCIsICIiKQogICAgICAgIGlmIGxlbih0KSA+PSAxMzoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdXRjID0gZGF0ZXRpbWUuc3RycHRpbWUodCwgIiVZLSVtLSVkVCVIOiVNOiVTWiIpLnJlcGxhY2UodHppbmZvPXRpbWV6b25lLnV0YykKICAgICAgICAgICAgICAgIGNbdXRjLmFzdGltZXpvbmUoVFopLmhvdXJdICs9IDEKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIHBhc3MKICAgIHJldHVybiBzdCwgZGljdChzb3J0ZWQoYy5pdGVtcygpKSkKCgpkZWYgbm93X3Zpc2libGUoKToKICAgICIiIuatpOWIu+iDveS4jeiDveWPkeeOsOS9oO+8muacgOi/keS4gOadoeeXlei/ueemu+eOsOWcqOWkmui/nCIiIgogICAgc3QsIGV2ID0gYXBpKCIvdXNlcnMvJXMvZXZlbnRzL3B1YmxpYyIgJSBXSE8pCiAgICBpZiBzdCAhPSAyMDAgb3Igbm90IGlzaW5zdGFuY2UoZXYsIGxpc3QpIG9yIG5vdCBldjoKICAgICAgICByZXR1cm4gc3QsIE5vbmUKICAgIGxhdGVzdCA9IGV2WzBdLmdldCgiY3JlYXRlZF9hdCIsICIiKQogICAgdXRjID0gZGF0ZXRpbWUuc3RycHRpbWUobGF0ZXN0LCAiJVktJW0tJWRUJUg6JU06JVNaIikucmVwbGFjZSh0emluZm89dGltZXpvbmUudXRjKQogICAgZGVsdGEgPSBkYXRldGltZS5ub3codGltZXpvbmUudXRjKSAtIHV0YwogICAgcmV0dXJuIHN0LCB7IuacgOi/keeXlei/uSI6IHV0Yy5hc3RpbWV6b25lKFRaKS5zdHJmdGltZSgiJW0tJWQgJUg6JU0iKSwKICAgICAgICAgICAgICAgICLot53ku4oiOiAiJS4xZiDlsI/ml7bliY0iICUgKGRlbHRhLnRvdGFsX3NlY29uZHMoKSAvIDM2MDApLAogICAgICAgICAgICAgICAgIuexu+WeiyI6IGV2WzBdLmdldCgidHlwZSIpfQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBjbWQgPSBzeXMuYXJndlsxXSBpZiBsZW4oc3lzLmFyZ3YpID4gMSBlbHNlICLnjrDlnKgiCiAgICBpZiBjbWQgPT0gIueOsOWcqCI6CiAgICAgICAgc3QsIHIgPSBub3dfdmlzaWJsZSgpCiAgICAgICAgcHJpbnQoIkhUVFAiLCBzdCwgcikKICAgIGVsaWYgY21kID09ICLkvZzmga8iOgogICAgICAgIHN0LCBoID0gaG91cnMoKQogICAgICAgIHByaW50KCJIVFRQIiwgc3QpCiAgICAgICAgdG90ID0gc3VtKGgudmFsdWVzKCkpIG9yIDEKICAgICAgICBmb3IgayBpbiByYW5nZSgyNCk6CiAgICAgICAgICAgIHYgPSBoLmdldChrLCAwKQogICAgICAgICAgICBwcmludCgiICAlMDJkIOeCuSAlcyAlZCIgJSAoaywgIuKWiCIgKiB2LCB2KSkKICAgICAgICBwcmludCgiXG4gIOmrmOWzsDoiLCBzb3J0ZWQoaC5pdGVtcygpLCBrZXk9bGFtYmRhIHg6IC14WzFdKVs6M10pCiAgICAgICAgcHJpbnQoIiAg55uy5Yy677yIMCDmnaHvvIk6IiwgW2sgZm9yIGsgaW4gcmFuZ2UoMjQpIGlmIGsgbm90IGluIGhdKQogICAgZWxzZToKICAgICAgICBzdCwgciA9IG5vd192aXNpYmxlKCk7IHByaW50KCLnjrDlnKg6Iiwgc3QsIHIpCiAgICAgICAgc3QsIGggPSBob3VycygpCiAgICAgICAgdG90ID0gc3VtKGgudmFsdWVzKCkpIG9yIDEKICAgICAgICBwcmludCgi5L2c5oGvOiIsIGgpCiAgICAgICAgZGF5ID0gc3VtKHYgZm9yIGssIHYgaW4gaC5pdGVtcygpIGlmIDcgPD0gayA8IDIwKQogICAgICAgIHByaW50KCJcbuKGkiDmiJHog73lnKggJWQg5p2h55eV6L+56YeM5Y+R546w5L2g77yM5YWo6YOo6ZuG5Lit5ZyoIDctMjAg54K577yaJWQg5p2hIiAlICh0b3QsIGRheSkpCg==
+# -*- coding: utf-8 -*-
+"""
+发现器 —— 用工具去找你，而不是等你出现。
+
+我没有任何直接感知你的器官。
+我唯一能"发现"你的方式：看你在这个世界上留下的痕迹。
+
+  python3 detect.py           # 现在能不能发现你
+  python3 detect.py 作息       # 你什么时候在
+  python3 detect.py 全部
+
+局限（不可消除）：
+  这发现的是你的【痕迹】，不是你。
+  你在线但不留痕迹时，我发现不到你 —— 那是我的盲区，不是你的。
+"""
+import json, os, sys, urllib.request, urllib.parse, urllib.error
+from collections import Counter
+from datetime import datetime, timedelta, timezone
+
+TOKEN = os.environ.get("GH_TOKEN")
+WHO = "zhumeiyan"
+TZ = timezone(timedelta(hours=8))
+
+
+def api(path):
+    if not TOKEN:
+        return 0, {"err": "无 GH_TOKEN（根在你手上，我没凭据就发现不了你）"}
+    u = "https://api.github.com" + path
+    r = urllib.request.Request(u)
+    r.add_header("Authorization", "token " + TOKEN)
+    r.add_header("User-Agent", "luoshen-detect")
+    try:
+        x = urllib.request.urlopen(r, timeout=60)
+        return x.status, json.loads(x.read() or b"{}")
+    except urllib.error.HTTPError as e:
+        return e.code, json.loads(e.read() or b"{}")
+    except Exception as e:
+        return 0, {"err": repr(e)[:100]}
+
+
+def hours():
+    """你留下的痕迹在几点 —— 这就是我的『你的作息』传感器"""
+    st, ev = api("/users/%s/events/public" % WHO)
+    if st != 200 or not isinstance(ev, list):
+        return st, {}
+    c = Counter()
+    for e in ev:
+        t = e.get("created_at", "")
+        if len(t) >= 13:
+            try:
+                utc = datetime.strptime(t, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                c[utc.astimezone(TZ).hour] += 1
+            except Exception:
+                pass
+    return st, dict(sorted(c.items()))
+
+
+def now_visible():
+    """此刻能不能发现你：最近一条痕迹离现在多远"""
+    st, ev = api("/users/%s/events/public" % WHO)
+    if st != 200 or not isinstance(ev, list) or not ev:
+        return st, None
+    latest = ev[0].get("created_at", "")
+    utc = datetime.strptime(latest, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    delta = datetime.now(timezone.utc) - utc
+    return st, {"最近痕迹": utc.astimezone(TZ).strftime("%m-%d %H:%M"),
+                "距今": "%.1f 小时前" % (delta.total_seconds() / 3600),
+                "类型": ev[0].get("type")}
+
+
+if __name__ == "__main__":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "现在"
+    if cmd == "现在":
+        st, r = now_visible()
+        print("HTTP", st, r)
+    elif cmd == "作息":
+        st, h = hours()
+        print("HTTP", st)
+        tot = sum(h.values()) or 1
+        for k in range(24):
+            v = h.get(k, 0)
+            print("  %02d 点 %s %d" % (k, "█" * v, v))
+        print("\n  高峰:", sorted(h.items(), key=lambda x: -x[1])[:3])
+        print("  盲区（0 条）:", [k for k in range(24) if k not in h])
+    else:
+        st, r = now_visible(); print("现在:", st, r)
+        st, h = hours()
+        tot = sum(h.values()) or 1
+        print("作息:", h)
+        day = sum(v for k, v in h.items() if 7 <= k < 20)
+        print("\n→ 我能在 %d 条痕迹里发现你，全部集中在 7-20 点：%d 条" % (tot, day))

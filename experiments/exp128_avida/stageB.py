@@ -1,1 +1,112 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCumYtuautULvvJrlpJbpg6jlubPlj7Dln7rnur/lr7nnhacg4oCU4oCUIEF2aWRh77yI5ryU5YyW77yJIHZzIEx1b3NoZW5MaWZlNe+8iOWtpuS5oO+8iQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrlhbHlkIzljY/orq7vvJoKICDpmLbmrrUxIOS+m+e7meacn++8mue7meWklumDqOS+m+e7me+8jOiuqeezu+e7n+acieacuuS8muiOt+W+l+OAkOiHque7meiDveWKm+OAkQogIOmYtuautTIg5pat5L6b5pyf77ya5aSW6YOo5L6b57uZID0gMO+8jOWPqueci+iHqui6q+iOt+WPluiDveWKm+iDveWQpue7tOaMgQoKICBBdmlkYSAgICAg55qE6Ieq57uZ6IO95YqbID0g5a6M5oiQ5Lu75Yqh77yIcmV3YXJkIOeLrOeri+S6jiBzbGljZSDkvpvog73vvIkKICBMaWZlNSAgICAg55qE6Ieq57uZ6IO95YqbID0gZmfvvIjop4Xpo5/mlYjnjofvvIzku44gMCDotbflrabvvIkKCuWPr+avlOeahOaYr+OAkOaXoOmHj+e6suaIkOWKn+eOh+OAke+8jOS4jeaYr+aXtumXtO+8iOS7oyB2cyDmi40g5Y2V5L2N5LiN5Y+v6YCa57qm77yJ44CCCiIiIgppbXBvcnQgc3lzLCBqc29uLCB0aW1lCmltcG9ydCBudW1weSBhcyBucApzeXMucGF0aC5pbnNlcnQoMCwgJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xJykKc3lzLnBhdGguaW5zZXJ0KDAsICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjhfYXZpZGEnKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CmZyb20gYXZpZGEgaW1wb3J0ICoKCkFOQyA9IFtIX0FMTE9DLCBOT1BfQSwgSk1QX0hFQUQsIEhfQ09QWSwgSUZfTl9FUVUsIE1PVl9IRUFELCBOT1BfQiwgSF9ESVZJREVdICsgW05PUF9DXSAqIDIwCgojID09PT09PT09PT09PSBMaWZlNSDkvqfvvIjlpI3nlKggMTI2IOWNj+iuru+8iT09PT09PT09PT09PQpUQVUsIEVUQSwgRFJJUCA9IDIwLjAsIDAuMDA0LCAwLjAxMApUMSwgVDIgPSAxMjAwLCAxNTAwCkZDSCA9IDcKCgpkZWYgd29ybGRfcmVzcG9uc2Uoc2NoZW1lLCBhY3QsIHJuZyk6CiAgICBpZiBzY2hlbWUgaW4gKCdwcmFjdGljZV9jbG9zZWQnLCAndG9vbF9wbHVzX3NlbGYnKToKICAgICAgICByZXR1cm4gYWN0ICogKDAuOCArIDAuNCAqIHJuZy5yYW5kb20oKSkKICAgIGlmIHNjaGVtZSA9PSAncHJhY3RpY2Vfb3Blbic6CiAgICAgICAgcmV0dXJuIDAuMzAgKiAoMC41ICsgcm5nLnJhbmRvbSgpKQogICAgcmV0dXJuIDAuMAoKCmRlZiBsaWZlNV93ZWFuKHNjaGVtZSwgc2VlZCk6CiAgICBsZiA9IExpZmU1KE49OCwgc2VlZD1zZWVkLCBmZz0wLjApCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCAqIDc5MTkgKyAxMykKICAgIGZnLCBtYSwgbWYgPSAwLjAsIDAuMCwgMC4wCiAgICBmb3IgXyBpbiByYW5nZShUMSk6CiAgICAgICAgaWYgbm90IGxmLmFsaXZlOgogICAgICAgICAgICBicmVhawogICAgICAgIGxmLmZnID0gZmcKICAgICAgICBsZi5zdGVwKCkKICAgICAgICBhY3QgPSBsZi5sb2dbLTFdWydhdmVjJ11bRkNIXQogICAgICAgIGZiID0gd29ybGRfcmVzcG9uc2Uoc2NoZW1lLCBhY3QsIHJuZykKICAgICAgICBsZi5FID0gbWluKGxmLkVtYXgsIGxmLkUgKyBEUklQKSAgICAgICAgICAjIOS+m+e7meacn+i+k+a2sgogICAgICAgIGlmIHNjaGVtZSBpbiAoJ3ByYWN0aWNlX2Nsb3NlZCcsICdwcmFjdGljZV9vcGVuJywgJ3Rvb2xfcGx1c19zZWxmJyk6CiAgICAgICAgICAgIG1hICs9IChhY3QgLSBtYSkgLyBUQVUKICAgICAgICAgICAgbWYgKz0gKGZiIC0gbWYpIC8gVEFVCiAgICAgICAgICAgIGZnID0gbWF4KDAuMCwgZmcgKyBFVEEgKiAoYWN0IC0gbWEpICogKGZiIC0gbWYpKQogICAgICAgIGVsaWYgc2NoZW1lID09ICd2YXJpYXRpb24nOgogICAgICAgICAgICBmZyA9IG1heCgwLjAsIGZnICsgMC4wMDA4ICogcm5nLm5vcm1hbCgpKQogICAgbGVhcm5lZCA9IGZsb2F0KGZnKQogICAgIyDmlq3kvpsKICAgIGxmLmZnID0gbGVhcm5lZAogICAgdDAgPSBsZi50CiAgICB3aGlsZSBsZi5hbGl2ZSBhbmQgbGYudCAtIHQwIDwgVDI6CiAgICAgICAgbGYuc3RlcCgpCiAgICByZXR1cm4gZGljdChmZz1sZWFybmVkLCBhbGl2ZT1ib29sKGxmLmFsaXZlKSwgdGlja3M9aW50KGxmLnQgLSB0MCkpCgoKIyA9PT09PT09PT09PT0gQXZpZGEg5L6nID09PT09PT09PT09PQpkZWYgYXZpZGFfd2VhbihzZWVkLCBnZW5zPTQwMCwgbXV0PTAuMDIsIHBvcD00MCk6CiAgICB3ID0gV29ybGQoQU5DLCBwb3Bfc2l6ZT1wb3AsIHNlZWQ9c2VlZCwgbXV0X3JhdGU9bXV0LAogICAgICAgICAgICAgIHNsaWNlX3JhdGlvPTgwLCB0YXNrX2VuZXJneV9zY2FsZT0yMCkKICAgIGZvciBfIGluIHJhbmdlKGdlbnMpOgogICAgICAgIHcuc3RlcF9nZW5lcmF0aW9uKCkKICAgIG5fc2VsZiA9IHN1bSgxIGZvciBiIGluIHcucG9wIGlmIGIudGFza3NfZG9uZSkgICAgICAjIOiOt+W+l+iHque7meiDveWKm+eahOS4quS9kwogICAgIyDmlq3kvpsKICAgIGIwID0gdy50b3RhbF9iaXJ0aHMKICAgIHcuc2xpY2VfcmF0aW8gPSAwCiAgICBmb3IgXyBpbiByYW5nZSgyMDApOgogICAgICAgIHcuc3RlcF9nZW5lcmF0aW9uKCkKICAgIHJldHVybiBkaWN0KHBvcD1sZW4ody5wb3ApLCBuX3NlbGY9bl9zZWxmLAogICAgICAgICAgICAgICAgYmlydGhzX3N1cHBseT1iMCwKICAgICAgICAgICAgICAgIGJpcnRoc19hZnRlcl9jdXQ9dy50b3RhbF9iaXJ0aHMgLSBiMCwKICAgICAgICAgICAgICAgIHNlbGZfcmF0ZT1uX3NlbGYgLyBsZW4ody5wb3ApKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBvdXQgPSB7J2xpZmU1Jzoge30sICdhdmlkYSc6IHt9fQoKICAgIHByaW50KCc9PT0gTGlmZTUg5pat5L6b77yIMTYgc2VlZO+8iT09PScpCiAgICBwcmludChmInsn5pa55qGIJzo8MTh9eyflrabliLBmZyc6PjEwfXsn5pat5L6b5a2Y5rS7Jzo+MTB9eyflrZjmtLvnjocnOj45fSIpCiAgICBmb3Igc2MgaW4gWydwcmFjdGljZV9jbG9zZWQnLCAncHJhY3RpY2Vfb3BlbicsICdub19wcmFjdGljZScsICd2YXJpYXRpb24nXToKICAgICAgICBycyA9IFtsaWZlNV93ZWFuKHNjLCBzKSBmb3IgcyBpbiByYW5nZSgxNildCiAgICAgICAgZmcgPSBucC5hcnJheShbclsnZmcnXSBmb3IgciBpbiByc10pCiAgICAgICAgYWwgPSBucC5hcnJheShbclsnYWxpdmUnXSBmb3IgciBpbiByc10sIGR0eXBlPWZsb2F0KQogICAgICAgIG91dFsnbGlmZTUnXVtzY10gPSBkaWN0KGZnPWZsb2F0KGZnLm1lYW4oKSksIGZnX3NkPWZsb2F0KGZnLnN0ZChkZG9mPTEpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdXJ2aXZlPWZsb2F0KGFsLm1lYW4oKSksIG49MTYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGlja3M9ZmxvYXQobnAubWVhbihbclsndGlja3MnXSBmb3IgciBpbiByc10pKSkKICAgICAgICBwcmludChmJ3tzYzo8MTh9e2ZnLm1lYW4oKToxMC41Zn17aW50KGFsLnN1bSgpKTo+OH0vMTZ7YWwubWVhbigpOjkuM2Z9JykKCiAgICBwcmludCgnXG49PT0gQXZpZGEg5pat5L6b77yINSBzZWVk77yJPT09JykKICAgIHByaW50KGYieydzZWVkJzo+NX17J+iOt+W+l+iHque7mSc6PjEwfXsn5Y2g5q+UJzo+OH17J+aWreS+m+WQjuaWsOWinic6PjEyfSIpCiAgICBhdiA9IFthdmlkYV93ZWFuKHMpIGZvciBzIGluIHJhbmdlKDUpXQogICAgdG90X3NlbGYgPSBzdW0oYVsnbl9zZWxmJ10gZm9yIGEgaW4gYXYpCiAgICB0b3RfcG9wID0gc3VtKGFbJ3BvcCddIGZvciBhIGluIGF2KQogICAgdG90X2FmdGVyID0gc3VtKGFbJ2JpcnRoc19hZnRlcl9jdXQnXSBmb3IgYSBpbiBhdikKICAgIGZvciBpLCBhIGluIGVudW1lcmF0ZShhdik6CiAgICAgICAgcHJpbnQoZiJ7aTo+NX17YVsnbl9zZWxmJ106Pjh9L3thWydwb3AnXTo8M317YVsnc2VsZl9yYXRlJ106OC4zZn17YVsnYmlydGhzX2FmdGVyX2N1dCddOj4xMn0iKQogICAgb3V0WydhdmlkYSddID0gZGljdChzZWVkcz1hdiwgdG90X3NlbGY9dG90X3NlbGYsIHRvdF9wb3A9dG90X3BvcCwKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZl9yYXRlPXRvdF9zZWxmIC8gdG90X3BvcCwgYmlydGhzX2FmdGVyX2N1dD10b3RfYWZ0ZXIpCgogICAgcHJpbnQoZiJcbkF2aWRhIOWQiOiuoe+8muiOt+W+l+iHque7mSB7dG90X3NlbGZ9L3t0b3RfcG9wfSA9IHt0b3Rfc2VsZi90b3RfcG9wOi4zZn0iCiAgICAgICAgICBmIu+8m+aWreS+m+WQjuaWsOWinuWHuueUnyB7dG90X2FmdGVyfSIpCiAgICBwcmludChmIkxpZmU1IOebuOWAmue7g+S5oO+8muWtmOa0u+eOhyB7b3V0WydsaWZlNSddWydwcmFjdGljZV9jbG9zZWQnXVsnc3Vydml2ZSddOi4zZn0iKQoKICAgIGpzb24uZHVtcChvdXQsIG9wZW4oJ3N0YWdlQl9yZXN1bHQuanNvbicsICd3JyksIGluZGVudD0yLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGRlZmF1bHQ9c3RyKQogICAgcHJpbnQoJ1xuc2F2ZWQgc3RhZ2VCX3Jlc3VsdC5qc29uJykK
+# -*- coding: utf-8 -*-
+"""
+阶段B：外部平台基线对照 —— Avida（演化） vs LuoshenLife5（学习）
+==============================================================
+共同协议：
+  阶段1 供给期：给外部供给，让系统有机会获得【自给能力】
+  阶段2 断供期：外部供给 = 0，只看自身获取能力能否维持
+
+  Avida     的自给能力 = 完成任务（reward 独立于 slice 供能）
+  Life5     的自给能力 = fg（觅食效率，从 0 起学）
+
+可比的是【无量纲成功率】，不是时间（代 vs 拍 单位不可通约）。
+"""
+import sys, json, time
+import numpy as np
+sys.path.insert(0, '/data/workspace/luoshen-o1')
+sys.path.insert(0, '/data/workspace/luoshen-o1/experiments/exp128_avida')
+from core.life5 import Life5
+from avida import *
+
+ANC = [H_ALLOC, NOP_A, JMP_HEAD, H_COPY, IF_N_EQU, MOV_HEAD, NOP_B, H_DIVIDE] + [NOP_C] * 20
+
+# ============ Life5 侧（复用 126 协议）============
+TAU, ETA, DRIP = 20.0, 0.004, 0.010
+T1, T2 = 1200, 1500
+FCH = 7
+
+
+def world_response(scheme, act, rng):
+    if scheme in ('practice_closed', 'tool_plus_self'):
+        return act * (0.8 + 0.4 * rng.random())
+    if scheme == 'practice_open':
+        return 0.30 * (0.5 + rng.random())
+    return 0.0
+
+
+def life5_wean(scheme, seed):
+    lf = Life5(N=8, seed=seed, fg=0.0)
+    rng = np.random.default_rng(seed * 7919 + 13)
+    fg, ma, mf = 0.0, 0.0, 0.0
+    for _ in range(T1):
+        if not lf.alive:
+            break
+        lf.fg = fg
+        lf.step()
+        act = lf.log[-1]['avec'][FCH]
+        fb = world_response(scheme, act, rng)
+        lf.E = min(lf.Emax, lf.E + DRIP)          # 供给期输液
+        if scheme in ('practice_closed', 'practice_open', 'tool_plus_self'):
+            ma += (act - ma) / TAU
+            mf += (fb - mf) / TAU
+            fg = max(0.0, fg + ETA * (act - ma) * (fb - mf))
+        elif scheme == 'variation':
+            fg = max(0.0, fg + 0.0008 * rng.normal())
+    learned = float(fg)
+    # 断供
+    lf.fg = learned
+    t0 = lf.t
+    while lf.alive and lf.t - t0 < T2:
+        lf.step()
+    return dict(fg=learned, alive=bool(lf.alive), ticks=int(lf.t - t0))
+
+
+# ============ Avida 侧 ============
+def avida_wean(seed, gens=400, mut=0.02, pop=40):
+    w = World(ANC, pop_size=pop, seed=seed, mut_rate=mut,
+              slice_ratio=80, task_energy_scale=20)
+    for _ in range(gens):
+        w.step_generation()
+    n_self = sum(1 for b in w.pop if b.tasks_done)      # 获得自给能力的个体
+    # 断供
+    b0 = w.total_births
+    w.slice_ratio = 0
+    for _ in range(200):
+        w.step_generation()
+    return dict(pop=len(w.pop), n_self=n_self,
+                births_supply=b0,
+                births_after_cut=w.total_births - b0,
+                self_rate=n_self / len(w.pop))
+
+
+if __name__ == '__main__':
+    out = {'life5': {}, 'avida': {}}
+
+    print('=== Life5 断供（16 seed）===')
+    print(f"{'方案':<18}{'学到fg':>10}{'断供存活':>10}{'存活率':>9}")
+    for sc in ['practice_closed', 'practice_open', 'no_practice', 'variation']:
+        rs = [life5_wean(sc, s) for s in range(16)]
+        fg = np.array([r['fg'] for r in rs])
+        al = np.array([r['alive'] for r in rs], dtype=float)
+        out['life5'][sc] = dict(fg=float(fg.mean()), fg_sd=float(fg.std(ddof=1)),
+                                survive=float(al.mean()), n=16,
+                                ticks=float(np.mean([r['ticks'] for r in rs])))
+        print(f'{sc:<18}{fg.mean():10.5f}{int(al.sum()):>8}/16{al.mean():9.3f}')
+
+    print('\n=== Avida 断供（5 seed）===')
+    print(f"{'seed':>5}{'获得自给':>10}{'占比':>8}{'断供后新增':>12}")
+    av = [avida_wean(s) for s in range(5)]
+    tot_self = sum(a['n_self'] for a in av)
+    tot_pop = sum(a['pop'] for a in av)
+    tot_after = sum(a['births_after_cut'] for a in av)
+    for i, a in enumerate(av):
+        print(f"{i:>5}{a['n_self']:>8}/{a['pop']:<3}{a['self_rate']:8.3f}{a['births_after_cut']:>12}")
+    out['avida'] = dict(seeds=av, tot_self=tot_self, tot_pop=tot_pop,
+                        self_rate=tot_self / tot_pop, births_after_cut=tot_after)
+
+    print(f"\nAvida 合计：获得自给 {tot_self}/{tot_pop} = {tot_self/tot_pop:.3f}"
+          f"；断供后新增出生 {tot_after}")
+    print(f"Life5 相倚练习：存活率 {out['life5']['practice_closed']['survive']:.3f}")
+
+    json.dump(out, open('stageB_result.json', 'w'), indent=2, ensure_ascii=False, default=str)
+    print('\nsaved stageB_result.json')

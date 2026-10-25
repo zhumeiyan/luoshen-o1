@@ -1,1 +1,36 @@
-ZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAppbXBvcnQgb3MsIGpzb24KRj0iL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIKaWYgbm90IG9zLnBhdGguZXhpc3RzKEYpOgogICAgZm9yIHAgaW4gWyIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktemVuaGVpLnR0YyIsIi91c3Ivc2hhcmUvZm9udHMvd3F5LW1pY3JvaGVpL3dxeS1taWNyb2hlaS50dGMiXToKICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhwKTogRj1wO2JyZWFrCmRlZiBzaGFwZShkLGssY3gsY3kscik6CiAgICBpbXBvcnQgbWF0aAogICAgaWYgaz09ImNpcmNsZSI6IGQuZWxsaXBzZShbY3gtcixjeS1yLGN4K3IsY3krcl0sZmlsbD0wKQogICAgZWxpZiBrPT0ic3F1YXJlIjogZC5yZWN0YW5nbGUoW2N4LXIsY3ktcixjeCtyLGN5K3JdLGZpbGw9MCkKICAgIGVsaWYgaz09InRyaWFuZ2xlIjogZC5wb2x5Z29uKFsoY3gsY3ktciksKGN4LXIsY3krciksKGN4K3IsY3krcildLGZpbGw9MCkKICAgIGVsaWYgaz09InN0YXIiOgogICAgICAgIHB0cz1bXQogICAgICAgIGZvciBpIGluIHJhbmdlKDEwKToKICAgICAgICAgICAgYT1tYXRoLnBpLzIrIGkqbWF0aC5waS81OyBycj1yIGlmIGklMj09MCBlbHNlIHIqMC40MgogICAgICAgICAgICBwdHMuYXBwZW5kKChjeCtyciptYXRoLmNvcyhhKSwgY3ktcnIqbWF0aC5zaW4oYSkpKQogICAgICAgIGQucG9seWdvbihwdHMsZmlsbD0wKQpsYWJlbD17ImNpcmNsZSI6IuWchiIsInNxdWFyZSI6IuaWuSIsInRyaWFuZ2xlIjoi5LiJ6KeSIiwic3RhciI6IuaYnyJ9CmNhc2VzPVtdCmZvciBzIGluIFsiY2lyY2xlIiwic3F1YXJlIiwidHJpYW5nbGUiLCJzdGFyIl06CiAgICBmb3IgbW9kZSBpbiBbIm1hdGNoIiwiY29uZmxpY3QiLCJub25lIl06CiAgICAgICAgaW1nPUltYWdlLm5ldygiTCIsKDQwMCw0ODApLDI1NSk7IGQ9SW1hZ2VEcmF3LkRyYXcoaW1nKQogICAgICAgIHNoYXBlKGQscywyMDAsMTkwLDExMCkKICAgICAgICB0eHQ9Tm9uZQogICAgICAgIGlmIG1vZGU9PSJtYXRjaCI6IHR4dD1sYWJlbFtzXQogICAgICAgIGVsaWYgbW9kZT09ImNvbmZsaWN0IjoKICAgICAgICAgICAgb3RoZXI9W3ggZm9yIHggaW4gbGFiZWwgaWYgeCE9c10KICAgICAgICAgICAgaW1wb3J0IHJhbmRvbTsgcmFuZG9tLnNlZWQoaGFzaChzKSU5NykKICAgICAgICAgICAgdHh0PWxhYmVsW3JhbmRvbS5jaG9pY2Uob3RoZXIpXQogICAgICAgIGlmIHR4dDoKICAgICAgICAgICAgZj1JbWFnZUZvbnQudHJ1ZXR5cGUoRiw3MikKICAgICAgICAgICAgZC50ZXh0KCgyMDAsNDAwKSx0eHQsZmlsbD0wLGZvbnQ9ZixhbmNob3I9Im1tIikKICAgICAgICBwPWYiaW1nX3tzfV97bW9kZX0ucG5nIjsgaW1nLnNhdmUocCkKICAgICAgICBjYXNlcy5hcHBlbmQoeyJzaGFwZSI6cywibW9kZSI6bW9kZSwidGV4dCI6dHh0LCJwYXRoIjpwfSkKanNvbi5kdW1wKGNhc2VzLG9wZW4oImNhc2VzLmpzb24iLCJ3IiksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQpwcmludCgibWFkZSIsbGVuKGNhc2VzKSk7IHByaW50KCJmb250IixGKQo=
+from PIL import Image, ImageDraw, ImageFont
+import os, json
+F="/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+if not os.path.exists(F):
+    for p in ["/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc","/usr/share/fonts/wqy-microhei/wqy-microhei.ttc"]:
+        if os.path.exists(p): F=p;break
+def shape(d,k,cx,cy,r):
+    import math
+    if k=="circle": d.ellipse([cx-r,cy-r,cx+r,cy+r],fill=0)
+    elif k=="square": d.rectangle([cx-r,cy-r,cx+r,cy+r],fill=0)
+    elif k=="triangle": d.polygon([(cx,cy-r),(cx-r,cy+r),(cx+r,cy+r)],fill=0)
+    elif k=="star":
+        pts=[]
+        for i in range(10):
+            a=math.pi/2+ i*math.pi/5; rr=r if i%2==0 else r*0.42
+            pts.append((cx+rr*math.cos(a), cy-rr*math.sin(a)))
+        d.polygon(pts,fill=0)
+label={"circle":"圆","square":"方","triangle":"三角","star":"星"}
+cases=[]
+for s in ["circle","square","triangle","star"]:
+    for mode in ["match","conflict","none"]:
+        img=Image.new("L",(400,480),255); d=ImageDraw.Draw(img)
+        shape(d,s,200,190,110)
+        txt=None
+        if mode=="match": txt=label[s]
+        elif mode=="conflict":
+            other=[x for x in label if x!=s]
+            import random; random.seed(hash(s)%97)
+            txt=label[random.choice(other)]
+        if txt:
+            f=ImageFont.truetype(F,72)
+            d.text((200,400),txt,fill=0,font=f,anchor="mm")
+        p=f"img_{s}_{mode}.png"; img.save(p)
+        cases.append({"shape":s,"mode":mode,"text":txt,"path":p})
+json.dump(cases,open("cases.json","w"),ensure_ascii=False,indent=1)
+print("made",len(cases)); print("font",F)

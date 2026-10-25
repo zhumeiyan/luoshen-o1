@@ -1,1 +1,18 @@
-aW1wb3J0IHN5cywgb3MsIGpzb24sIHBhdGhsaWIsIGNvbGxlY3Rpb25zCnJvb3QgPSBzeXMuYXJndlsxXTsgb3V0aiA9IHN5cy5hcmd2WzJdCnN5cy5wYXRoLmluc2VydCgwLCByb290KQpmcm9tIGV2YWxndWFyZCBpbXBvcnQgY2xpCmZyb20gZXZhbGd1YXJkLmNsaSBpbXBvcnQgc2NhbgpjbGkuUFJPX09OWzBdID0gVHJ1ZQpwYXRocyA9IFtwYXRobGliLlBhdGgobCkgZm9yIGwgaW4gc3lzLnN0ZGluLnJlYWQoKS5zcGxpdCgiXG4iKSBpZiBsLnN0cmlwKCldCnJlcyA9IHt9CmZvciBwIGluIHBhdGhzOgogICAgdHJ5OiByZXNbc3RyKHApXSA9IHNjYW4oc3RyKHApKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJlc1tzdHIocCldID0gW3sic2V2ZXJpdHkiOiJlcnIiLCJlZ19pZCI6IkVSUiIsImNhbm9uIjpbXSwiaGl0cyI6W3sibGluZSI6MCwiaGl0IjpzdHIoZSl9XX1dCnNldiA9IGNvbGxlY3Rpb25zLkNvdW50ZXIoKQpmb3IgZixyIGluIHJlcy5pdGVtcygpOgogICAgZm9yIHggaW4gcjogc2V2W3hbInNldmVyaXR5Il1dICs9IDEKcHJpbnQoZiJ7b3V0an06IGZpbGVzX3dpdGg9e3N1bSgxIGZvciByIGluIHJlcy52YWx1ZXMoKSBpZiByKX0ve2xlbihyZXMpfSAiCiAgICAgIGYiYmxvY2tlcj17c2V2WydibG9ja2VyJ119IHdhcm49e3Nldlsnd2FybiddfSBpbmZvPXtzZXZbJ2luZm8nXX0iKQpqc29uLmR1bXAocmVzLCBvcGVuKG91dGosInciKSwgaW5kZW50PTEpCg==
+import sys, os, json, pathlib, collections
+root = sys.argv[1]; outj = sys.argv[2]
+sys.path.insert(0, root)
+from evalguard import cli
+from evalguard.cli import scan
+cli.PRO_ON[0] = True
+paths = [pathlib.Path(l) for l in sys.stdin.read().split("\n") if l.strip()]
+res = {}
+for p in paths:
+    try: res[str(p)] = scan(str(p))
+    except Exception as e:
+        res[str(p)] = [{"severity":"err","eg_id":"ERR","canon":[],"hits":[{"line":0,"hit":str(e)}]}]
+sev = collections.Counter()
+for f,r in res.items():
+    for x in r: sev[x["severity"]] += 1
+print(f"{outj}: files_with={sum(1 for r in res.values() if r)}/{len(res)} "
+      f"blocker={sev['blocker']} warn={sev['warn']} info={sev['info']}")
+json.dump(res, open(outj,"w"), indent=1)

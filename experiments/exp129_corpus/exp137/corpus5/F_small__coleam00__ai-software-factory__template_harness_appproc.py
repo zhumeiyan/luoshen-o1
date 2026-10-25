@@ -1,1 +1,378 @@
-IiIiUmVhY2ggdGhlIHNvZnR3YXJlIHVuZGVyIHRlc3QuIFRocmVlIHNoYXBlcyBjb3ZlciBhbG1vc3QgZXZlcnl0aGluZy4KCiAgICBodHRwICAgICBhIHNlcnZlci4gU3RhcnRlZCBvbiBhIGR5bmFtaWMgcG9ydCwgcG9sbGVkIHVudGlsIGl0IGFuc3dlcnMuCiAgICBjbGkgICAgICBhIGNvbW1hbmQuIEludm9rZWQgd2l0aCBhcmdzOyBzdGRvdXQsIHN0ZGVyciBhbmQgZXhpdCBjb2RlIGFzc2VydGVkLgogICAgbGlicmFyeSAgbm8gcHJvY2VzcyBhdCBhbGwuIFRoZSBFMkUgaW1wb3J0cyBpdCBhbmQgY2FsbHMgaXQuCgpDaG9zZW4gYnkgYGRyaXZlcmAgaW4gYGhhcm5lc3MuY29uZmlnLmpzb25gLiBFdmVyeSBvbmUgb2YgdGhlbSBwcmludHMgQVBQX1NUQVJURUQsCmJlY2F1c2UgdGhhdCBtYXJrZXIgbWVhbnMgInRoZSB0aGluZyB1bmRlciB0ZXN0IGlzIHJlYWNoYWJsZSIgLS0gYSBkaWZmZXJlbnQgY2xhaW0KZm9yIGEgc2VydmVyIHRoYW4gZm9yIGEgbGlicmFyeSwgYW5kIGVxdWFsbHkgbG9hZC1iZWFyaW5nIGZvciBib3RoLgoKV0hZIFRISVMgSVMgU1BMSVQgT1VULiBUaGUgb2J2aW91cyBmaXJzdCB2ZXJzaW9uIG9mIHRoaXMgZmlsZSBpcyBIVFRQLW9ubHk6IHVybGxpYiwKYSBoZWFsdGggcGF0aCwgYSBHRVQgYW5kIGEgUE9TVC4gVGhhdCBtYWtlcyBhIHNjYWZmb2xkIHNpbGVudGx5IHVzZWxlc3MgZm9yIGEgQ0xJLCBhCmxpYnJhcnksIGEgYmF0Y2ggam9iIG9yIGEgZGVza3RvcCBhcHAgLS0gdGhlIG1ham9yaXR5IG9mIHNvZnR3YXJlIC0tIHdoaWxlIHRoZQpzdXJyb3VuZGluZyBkb2N1bWVudGF0aW9uIGNsYWltcyB0aGUgcGx1bWJpbmcgaXMgdW5pdmVyc2FsLiBUaGUgcHJvY2VzcyBtYW5hZ2VtZW50CmdlbnVpbmVseSBJUyB1bml2ZXJzYWwuIFRoZSB3YXkgeW91IHRhbGsgdG8gdGhlIHRoaW5nIGlzIG5vdC4KClRIRSBSRUFDSEFCSUxJVFkgQ09OU1RSQUlOVCwgYW5kIGl0IGlzIGFuIGFyY2hpdGVjdHVyZSBkZWNpc2lvbi4gQSByZW5kZXJlZCB3aW5kb3csCmEgZ2FtZSBsb29wLCBhIGNhbnZhcywgYSBuYXRpdmUgVUkgaXMgTk9ORSBvZiB0aGVzZSB0aHJlZS4gU28gdGhlIHJ1bGVzIGhhdmUgdG8gbGl2ZQpiZWhpbmQgYSBoZWFkbGVzcywgc2NyaXB0YWJsZSBzdXJmYWNlIGFuIEUyRSBjYW4gZHJpdmU6IHNpbXVsYXRpb24gYXBhcnQgZnJvbQpyZW5kZXJpbmcsIGRvbWFpbiBhcGFydCBmcm9tIHZpZXcuIE9uIGEgZ3JlZW5maWVsZCBidWlsZCwgc2F5IHRoaXMgYmVmb3JlIGFueSBjb2RlCmV4aXN0cyAtLSBpdCBpcyBuZWFybHkgZnJlZSB0aGVuIGFuZCBpdCBpcyBhIHJld3JpdGUgYWZ0ZXJ3YXJkcy4KClRoZSB1bml2ZXJzYWwgcGFydHMsIGtlcHQgaW4gb25lIHBsYWNlIGJlY2F1c2UgZ2V0dGluZyB0aGVtIHdyb25nIGlzIHN1YnRsZToKCiAgKiBhIERZTkFNSUMgcG9ydCwgc28gdHdvIGxhcHMgY2Fubm90IGNvbGxpZGUKICAqIFdBSVQgZm9yIGFuIGFuc3dlciByYXRoZXIgdGhhbiBzbGVlcGluZzsgYSBzbGVlcCBpcyBhIHJhY2UgeW91IGNob3NlIHRvIGxvc2UKICAqIEZBSUwgSEFSRCBpZiBpdCBuZXZlciBjb21lcyB1cCAtLSBuZXZlciBkZWdyYWRlIHRvICJub3QgdGVzdGFibGUiLCB3aGljaCBpcyBob3cKICAgIGEgY3Jhc2hlZCBhcHAgYmVjb21lcyBhIGdyZWVuIHJ1bgogICogVEVBUiBET1dOIG9uIGV2ZXJ5IHBhdGggaW5jbHVkaW5nIGZhaWx1cmUsIG9yIGEgbGVha2VkIHByb2Nlc3MgaG9sZHMgdGhlIHBvcnQKICAgIGFuZCBwb2lzb25zIHRoZSBuZXh0IGxhcAoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgc2hsZXgKaW1wb3J0IHNodXRpbAppbXBvcnQgc29ja2V0CmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKaW1wb3J0IHRpbWUKaW1wb3J0IHVybGxpYi5lcnJvcgppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudC5wYXJlbnQKCgpjbGFzcyBBcHBEaWROb3RTdGFydChSdW50aW1lRXJyb3IpOgogICAgcGFzcwoKCmRlZiBfZnJlZV9wb3J0KCkgLT4gaW50OgogICAgd2l0aCBzb2NrZXQuc29ja2V0KCkgYXMgczoKICAgICAgICBzLmJpbmQoKCIxMjcuMC4wLjEiLCAwKSkKICAgICAgICByZXR1cm4gaW50KHMuZ2V0c29ja25hbWUoKVsxXSkKCgpkZWYgdW5xdW90ZSh0b2tlbjogc3RyKSAtPiBzdHI6CiAgICAiIiJUYWtlIG9uZSBsYXllciBvZiBtYXRjaGluZyBzdXJyb3VuZGluZyBxdW90ZXMgb2ZmIGEgdG9rZW4uCgogICAgQ29tbWFuZHMgYXJlIHNwbGl0IHdpdGggYHBvc2l4PUZhbHNlYCwgd2hpY2ggaXMgcmlnaHQgb24gV2luZG93cyBiZWNhdXNlIGl0CiAgICBsZWF2ZXMgYmFja3NsYXNoZXMgaW4gcGF0aHMgYWxvbmUgLS0gYW5kIHdyb25nIGluIHRoYXQgaXQgbGVhdmVzIHRoZSBRVU9URVMKICAgIGF0dGFjaGVkIHRvIGV2ZXJ5IHRva2VuIGl0IHNwbGl0LgoKICAgIFRoYXQgd2FzIGFwcGxpZWQgdG8gYXJndlswXSBvbmx5LCBhbmQgdGhlIGNvbnNlcXVlbmNlIG9uIHRoZSByZXN0IHdhcyBzZXZlcmU6CiAgICBgcHl0aG9uIC1jICJpbXBvcnQgYXBwImAgYXJyaXZlZCBhcyB0aGUgdGhyZWUgdG9rZW5zCiAgICBgcHl0aG9uYCwgYC1jYCwgYCJpbXBvcnQgYXBwImAsIHNvIFB5dGhvbiBldmFsdWF0ZWQgdGhlIFNUUklORyBMSVRFUkFMCiAgICBgImltcG9ydCBhcHAiYCBhbmQgZXhpdGVkIDAuIE1lYXN1cmVkOiBgcHl0aG9uIC1jICJpbXBvcnQKICAgIGRlZmluaXRlbHlfbm90X2FfbW9kdWxlImAgYWxzbyBleGl0cyAwLiBUaGUgbGlicmFyeSBkcml2ZXIncyBpbXBvcnQgY2hlY2sgLS0KICAgIHRoZSBlbnRpcmUgZXZpZGVuY2UgYmVoaW5kIGBBUFBfU1RBUlRFRCBkcml2ZXI9bGlicmFyeWAgLS0gY291bGQgbm90IGZhaWwuCiAgICBUaGUgTm9kZSBlcXVpdmFsZW50IHRoaXMgc2hpcHBlZCBsYXRlciBoYWQgZXhhY3RseSB0aGUgc2FtZSBob2xlLgoKICAgIFN0cmlwcGluZyBldmVyeSB0b2tlbiBpcyB3aGF0IHBvc2l4IG1vZGUgd291bGQgaGF2ZSBkb25lLCB3aXRob3V0IGdpdmluZyB1cAogICAgdGhlIGJhY2tzbGFzaGVzLgogICAgIiIiCiAgICBpZiBsZW4odG9rZW4pID4gMSBhbmQgdG9rZW5bMF0gPT0gdG9rZW5bLTFdIGFuZCB0b2tlblswXSBpbiAiXCInIjoKICAgICAgICByZXR1cm4gdG9rZW5bMTotMV0KICAgIHJldHVybiB0b2tlbgoKCmRlZiBfYXJndihjbWQ6IHN0cikgLT4gbGlzdFtzdHJdOgogICAgIiIiU3BsaXQsIHRoZW4gcmVzb2x2ZSBhcmd2WzBdIHRocm91Z2ggUEFUSEVYVC4KCiAgICBXaXRob3V0IHRoZSByZXNvbHZlLCBhIFdpbmRvd3MgYC5jbWRgIHNoaW0gKG5wbSwgbnB4LCB5YXJuLCBwbnBtKSBmYWlscyBhcyAidGhlCiAgICBzeXN0ZW0gY2Fubm90IGZpbmQgdGhlIGZpbGUgc3BlY2lmaWVkIiAtLSB3aGljaCByZWFkcyBhcyAibm90IGluc3RhbGxlZCIgZm9yIGEKICAgIHRvb2wgdGhhdCBpcyBvbiBQQVRIIGFuZCB3b3JrcyBpbiBhbnkgdGVybWluYWwuCiAgICAiIiIKICAgIHBhcnRzID0gW3VucXVvdGUodCkgZm9yIHQgaW4gc2hsZXguc3BsaXQoY21kLCBwb3NpeD1GYWxzZSldCiAgICBpZiBwYXJ0czoKICAgICAgICBwYXJ0c1swXSA9IHNodXRpbC53aGljaChwYXJ0c1swXSkgb3IgcGFydHNbMF0KICAgIHJldHVybiBwYXJ0cwoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIGh0dHAKY2xhc3MgSHR0cEFwcDoKICAgICIiIkEgc2VydmVyIG9uIGEgZHluYW1pYyBwb3J0LCBwb2xsZWQgdW50aWwgaGVhbHRoeS4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgY2ZnOiBkaWN0LCBlbnY6IGRpY3QgfCBOb25lID0gTm9uZSkgLT4gTm9uZToKICAgICAgICBzZWxmLmNmZyA9IGNmZy5nZXQoImh0dHAiLCB7fSkKICAgICAgICBzZWxmLnBvcnQgPSBfZnJlZV9wb3J0KCkKICAgICAgICBzZWxmLmJhc2UgPSBmImh0dHA6Ly8xMjcuMC4wLjE6e3NlbGYucG9ydH0iCiAgICAgICAgc2VsZi5wcm9jOiBzdWJwcm9jZXNzLlBvcGVuIHwgTm9uZSA9IE5vbmUKICAgICAgICBzZWxmLmVudl9vdmVycmlkZXMgPSBlbnYgb3Ige30KCiAgICBkZWYgX19lbnRlcl9fKHNlbGYpIC0+ICJIdHRwQXBwIjoKICAgICAgICBjbWQgPSAoc2VsZi5jZmcuZ2V0KCJzdGFydCIpIG9yICIiKS5yZXBsYWNlKCJ7cG9ydH0iLCBzdHIoc2VsZi5wb3J0KSkKICAgICAgICBpZiBub3QgY21kOgogICAgICAgICAgICByYWlzZSBBcHBEaWROb3RTdGFydCgiZHJpdmVyPWh0dHAgYnV0IGh0dHAuc3RhcnQgaXMgZW1wdHkgaW4gaGFybmVzcy5jb25maWcuanNvbiIpCgogICAgICAgIG1lcmdlZCA9IHsqKihzZWxmLmNmZy5nZXQoImVudiIpIG9yIHt9KSwgKipzZWxmLmVudl9vdmVycmlkZXN9CiAgICAgICAgZW52ID0gTm9uZQogICAgICAgIGlmIG1lcmdlZDoKICAgICAgICAgICAgZW52ID0geyoqb3MuZW52aXJvbiwgKip7azogc3RyKHYpLnJlcGxhY2UoIntwb3J0fSIsIHN0cihzZWxmLnBvcnQpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgaywgdiBpbiBtZXJnZWQuaXRlbXMoKX19CiAgICAgICAgc2VsZi5wcm9jID0gc3VicHJvY2Vzcy5Qb3BlbigKICAgICAgICAgICAgX2FyZ3YoY21kKSwgY3dkPVJPT1QsIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCwKICAgICAgICAgICAgdGV4dD1UcnVlLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiLCBlbnY9ZW52LAogICAgICAgICkKICAgICAgICBzZWxmLl9hd2FpdF9oZWFsdGgoKQogICAgICAgIHByaW50KGYiQVBQX1NUQVJURUQgcG9ydD17c2VsZi5wb3J0fSIsIGZsdXNoPVRydWUpCiAgICAgICAgcmV0dXJuIHNlbGYKCiAgICBkZWYgX19leGl0X18oc2VsZiwgKmV4YykgLT4gTm9uZToKICAgICAgICBpZiBzZWxmLnByb2MgYW5kIHNlbGYucHJvYy5wb2xsKCkgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5wcm9jLnRlcm1pbmF0ZSgpCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHNlbGYucHJvYy53YWl0KHRpbWVvdXQ9MTApCiAgICAgICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLlRpbWVvdXRFeHBpcmVkOgogICAgICAgICAgICAgICAgc2VsZi5wcm9jLmtpbGwoKQogICAgICAgIHNlbGYuX2ZyZWVfdGhlX3BvcnQoKQoKICAgIGRlZiBfZnJlZV90aGVfcG9ydChzZWxmKSAtPiBOb25lOgogICAgICAgICIiIktpbGwgd2hhdGV2ZXIgaXMgc3RpbGwgbGlzdGVuaW5nLCBldmVuIGlmIHRoaXMgb2JqZWN0IGRpZCBub3Qgc3RhcnQgaXQuCgogICAgICAgIEtpbGxpbmcgYHNlbGYucHJvY2AgZnJlZXMgdGhlIHBvcnQgb25seSB3aGVuIHRoZSBwcm9jZXNzIG9uIGl0IGlzIHRoZSBvbmUKICAgICAgICB0aGlzIG9iamVjdCBzcGF3bmVkLiBBIGpvdXJuZXkgbWF5IHJlc3RhcnQgdGhlIGFwcCwgYW5kIHRoYXQgcmVwbGFjZW1lbnQgaXMKICAgICAgICB1bnRyYWNrZWQ6IHRoZSBvcmlnaW5hbCBkaWVzLCB0aGUgYWdlbnQncyBjb3B5IGtlZXBzIHRoZSBwb3J0LCBgX19leGl0X19gCiAgICAgICAgdGVybWluYXRlcyBhIGNvcnBzZSwgYW5kIHRoZSBuZXh0IGxhcCBnZXRzIGBbRXJybm8gMTAwNDhdIGFkZHJlc3MgYWxyZWFkeSBpbgogICAgICAgIHVzZWAgZnJvbSBhIGZhY3RvcnkgdGhhdCB0aGlua3MgaXQgdG9yZSBldmVyeXRoaW5nIGRvd24uCgogICAgICAgIE1lYXN1cmVkIGFmdGVyIGEgbW9ybmluZyBvZiBnYXRlIHJ1bnM6IGZvdXIgb3JwaGFuZWQgaW50ZXJwcmV0ZXJzIGhvbGRpbmcKICAgICAgICBmb3VyIHBvcnRzLCBvbiB0aGUgZXhhY3QgY2xhc3Mgb2YgbGVhayB0aGUgdGVhcmRvd24gY29tbWVudCBhbHJlYWR5IHdhcm5lZAogICAgICAgIGFib3V0LgoKICAgICAgICBCZXN0IGVmZm9ydCBieSBkZXNpZ24uIFRoaXMgcnVucyBkdXJpbmcgdGVhcmRvd24sIG9uIGV2ZXJ5IHBhdGggaW5jbHVkaW5nIGEKICAgICAgICBmYWlsdXJlLCBhbmQgYSBwb3J0IHRoYXQgY2Fubm90IGJlIGZyZWVkIG11c3Qgbm90IHR1cm4gYSByZXBvcnRlZCBmYWlsdXJlCiAgICAgICAgaW50byBhIHRyYWNlYmFjayBhYm91dCBjbGVhbnVwLgogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBzZWxmLnBvcnQ6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIHRyeToKICAgICAgICAgICAgaWYgb3MubmFtZSA9PSAibnQiOgogICAgICAgICAgICAgICAgb3V0ID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgICAgICAgICAgWyJuZXRzdGF0IiwgIi1hbm8iXSwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLAogICAgICAgICAgICAgICAgICAgIGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0icmVwbGFjZSIsIHRpbWVvdXQ9MzAsCiAgICAgICAgICAgICAgICApLnN0ZG91dAogICAgICAgICAgICAgICAgcGlkcyA9IHsKICAgICAgICAgICAgICAgICAgICBsaW5lLnNwbGl0KClbLTFdCiAgICAgICAgICAgICAgICAgICAgZm9yIGxpbmUgaW4gb3V0LnNwbGl0bGluZXMoKQogICAgICAgICAgICAgICAgICAgIGlmIGYiOntzZWxmLnBvcnR9ICIgaW4gbGluZSBhbmQgIkxJU1RFTklORyIgaW4gbGluZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZm9yIHBpZCBpbiBwaWRzOgogICAgICAgICAgICAgICAgICAgIGlmIHBpZC5pc2RpZ2l0KCkgYW5kIHBpZCAhPSAiMCIgYW5kICgKICAgICAgICAgICAgICAgICAgICAgICAgbm90IHNlbGYucHJvYyBvciBzdHIoc2VsZi5wcm9jLnBpZCkgIT0gcGlkCiAgICAgICAgICAgICAgICAgICAgKToKICAgICAgICAgICAgICAgICAgICAgICAgc3VicHJvY2Vzcy5ydW4oWyJ0YXNra2lsbCIsICIvUElEIiwgcGlkLCAiL0YiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGltZW91dD0zMCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG91dCA9IHN1YnByb2Nlc3MucnVuKAogICAgICAgICAgICAgICAgICAgIFsibHNvZiIsICItdGkiLCBmInRjcDp7c2VsZi5wb3J0fSJdLCBjYXB0dXJlX291dHB1dD1UcnVlLAogICAgICAgICAgICAgICAgICAgIHRleHQ9VHJ1ZSwgdGltZW91dD0zMCwKICAgICAgICAgICAgICAgICkuc3Rkb3V0CiAgICAgICAgICAgICAgICBmb3IgcGlkIGluIG91dC5zcGxpdCgpOgogICAgICAgICAgICAgICAgICAgIGlmIHBpZC5pc2RpZ2l0KCkgYW5kIChub3Qgc2VsZi5wcm9jIG9yIHN0cihzZWxmLnByb2MucGlkKSAhPSBwaWQpOgogICAgICAgICAgICAgICAgICAgICAgICBzdWJwcm9jZXNzLnJ1bihbImtpbGwiLCAiLTkiLCBwaWRdLCBjYXB0dXJlX291dHB1dD1UcnVlLCB0aW1lb3V0PTMwKQogICAgICAgIGV4Y2VwdCAoT1NFcnJvciwgc3VicHJvY2Vzcy5TdWJwcm9jZXNzRXJyb3IpOgogICAgICAgICAgICAjIE5hbWVkLCBub3Qgc3dhbGxvd2VkOiBhIHBvcnQgbGVmdCBoZWxkIGlzIGEgcmVhbCBjb3N0IG9uIHRoZSBuZXh0IGxhcCwKICAgICAgICAgICAgIyBhbmQgc2lsZW5jZSBoZXJlIGlzIGhvdyBpdCBiZWNvbWVzIGEgbXlzdGVyeSBpbnN0ZWFkIG9mIGEgbGluZSBpbiBhIGxvZy4KICAgICAgICAgICAgcHJpbnQoZiJQT1JUX05PVF9GUkVFRCB7c2VsZi5wb3J0fSAtIHNvbWV0aGluZyBtYXkgc3RpbGwgYmUgbGlzdGVuaW5nIiwKICAgICAgICAgICAgICAgICAgZmx1c2g9VHJ1ZSkKCiAgICBkZWYgX2F3YWl0X2hlYWx0aChzZWxmKSAtPiBOb25lOgogICAgICAgIHBhdGggPSBzZWxmLmNmZy5nZXQoImhlYWx0aF9wYXRoIiwgIi9oZWFsdGgiKQogICAgICAgIHdhbnQgPSBzZWxmLmNmZy5nZXQoImhlYWx0aF9jb250YWlucyIsICIiKQogICAgICAgIGRlYWRsaW5lID0gdGltZS50aW1lKCkgKyBpbnQoc2VsZi5jZmcuZ2V0KCJib290X3RpbWVvdXRfcyIsIDQ1KSkKICAgICAgICBsYXN0ID0gIm5ldmVyIGFuc3dlcmVkIgogICAgICAgIHdoaWxlIHRpbWUudGltZSgpIDwgZGVhZGxpbmU6CiAgICAgICAgICAgIGlmIHNlbGYucHJvYyBhbmQgc2VsZi5wcm9jLnBvbGwoKSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIG91dCA9IChzZWxmLnByb2Muc3Rkb3V0LnJlYWQoKSBpZiBzZWxmLnByb2Muc3Rkb3V0IGVsc2UgIiIpIG9yICIiCiAgICAgICAgICAgICAgICByYWlzZSBBcHBEaWROb3RTdGFydCgKICAgICAgICAgICAgICAgICAgICBmInRoZSBhcHAgZXhpdGVkIHdpdGgge3NlbGYucHJvYy5yZXR1cm5jb2RlfSBiZWZvcmUgYW5zd2VyaW5nOlxue291dFstMjUwMDpdfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgc3RhdHVzLCBib2R5LCBfID0gc2VsZi5nZXQocGF0aCkKICAgICAgICAgICAgICAgIGlmIHN0YXR1cyA9PSAyMDAgYW5kIChub3Qgd2FudCBvciB3YW50IGluIGJvZHkpOgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgIyBOQU1FIFdISUNIIENPTkRJVElPTiBGQUlMRUQuIFRoZSBmaXJzdCB2ZXJzaW9uIHJlcG9ydGVkICJuZXZlcgogICAgICAgICAgICAgICAgIyBiZWNhbWUgaGVhbHRoeSIgYW5kIHRoZW4gcHJpbnRlZCBhIDIwMCB3aXRoIGEgaGVhbHRoeS1sb29raW5nCiAgICAgICAgICAgICAgICAjIGJvZHksIGJlY2F1c2UgdGhlIGZhaWxpbmcgaGFsZiB3YXMgdGhlIENPTlRBSU5TIGNoZWNrOiB0aGUKICAgICAgICAgICAgICAgICMgY29uZmlndXJlZCBzdHJpbmcgaGFkIG5vIHNwYWNlIGFmdGVyIHRoZSBjb2xvbiBhbmQgdGhlIGFwcCdzIEpTT04KICAgICAgICAgICAgICAgICMgZGlkLiBUaGF0IHJlYWRzIGFzIGEgZGVhZCBhcHAsIHNvIHRoZSBuZXh0IGhvdXIgZ29lcyBvbiB0aGUKICAgICAgICAgICAgICAgICMgc2VydmVyLCBhbmQgdGhlIGFjdHVhbCBmaXggaXMgb25lIGNoYXJhY3RlciBpbiBhIGNvbmZpZyBmaWxlLgogICAgICAgICAgICAgICAgaWYgc3RhdHVzICE9IDIwMDoKICAgICAgICAgICAgICAgICAgICBsYXN0ID0gZiJhbnN3ZXJlZCB7c3RhdHVzfSwgd2FudGVkIDIwMC4gYm9keT17Ym9keVs6MTYwXSFyfSIKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgbGFzdCA9ICgKICAgICAgICAgICAgICAgICAgICAgICAgZiJhbnN3ZXJlZCAyMDAgYnV0IHRoZSBib2R5IGRvZXMgbm90IGNvbnRhaW4gIgogICAgICAgICAgICAgICAgICAgICAgICBmImhlYWx0aF9jb250YWlucz17d2FudCFyfS4gR290IHtib2R5WzoxNjBdIXJ9LiBUaGUgYXBwIGlzICIKICAgICAgICAgICAgICAgICAgICAgICAgZiJVUDsgaXQgaXMgdGhlIHN0cmluZyBpbiBoYXJuZXNzLmNvbmZpZy5qc29uIHRoYXQgZG9lcyBub3QgIgogICAgICAgICAgICAgICAgICAgICAgICBmIm1hdGNoIgogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZXhjZXB0ICh1cmxsaWIuZXJyb3IuVVJMRXJyb3IsIE9TRXJyb3IpIGFzIGU6CiAgICAgICAgICAgICAgICBsYXN0ID0gZiJub3QgYWNjZXB0aW5nIGNvbm5lY3Rpb25zIHlldCAoe2V9KSIKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjIpCiAgICAgICAgcmFpc2UgQXBwRGlkTm90U3RhcnQoCiAgICAgICAgICAgIGYie3BhdGh9IG5ldmVyIGJlY2FtZSBoZWFsdGh5IGluIHRpbWUuIHtsYXN0fS4gVGhpcyBpcyBhIEZBSUxVUkUsIG5vdCAiCiAgICAgICAgICAgIGYiJ25vdCB0ZXN0YWJsZScuIgogICAgICAgICkKCiAgICBkZWYgZ2V0KHNlbGYsIHBhdGg6IHN0ciwgZm9sbG93OiBib29sID0gRmFsc2UsIGhlYWRlcnM6IGRpY3QgfCBOb25lID0gTm9uZSk6CiAgICAgICAgIiIiKHN0YXR1cywgYm9keSwgaGVhZGVycykuCgogICAgICAgIGBmb2xsb3c9RmFsc2VgIHNvIGEgcmVkaXJlY3Qgc3RheXMgVklTSUJMRSAtLSBmb2xsb3dpbmcgdGhlbSBieSBkZWZhdWx0IGlzCiAgICAgICAgaG93IGEgdGVzdCBvZiBhIHJlZGlyZWN0IHN0b3BzIHRlc3RpbmcgaXQuCiAgICAgICAgIiIiCiAgICAgICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdChzZWxmLmJhc2UgKyBwYXRoLCBoZWFkZXJzPWhlYWRlcnMgb3Ige30pCgogICAgICAgIGNsYXNzIF9Ob1JlZGlyZWN0KHVybGxpYi5yZXF1ZXN0LkhUVFBSZWRpcmVjdEhhbmRsZXIpOgogICAgICAgICAgICBkZWYgcmVkaXJlY3RfcmVxdWVzdChzZWxmLCAqYSwgKiprdyk6CiAgICAgICAgICAgICAgICByZXR1cm4gTm9uZQoKICAgICAgICBvcGVuZXIgPSAoCiAgICAgICAgICAgIHVybGxpYi5yZXF1ZXN0LmJ1aWxkX29wZW5lcigpCiAgICAgICAgICAgIGlmIGZvbGxvdwogICAgICAgICAgICBlbHNlIHVybGxpYi5yZXF1ZXN0LmJ1aWxkX29wZW5lcihfTm9SZWRpcmVjdCkKICAgICAgICApCiAgICAgICAgdHJ5OgogICAgICAgICAgICB3aXRoIG9wZW5lci5vcGVuKHJlcSwgdGltZW91dD0zMCkgYXMgcjoKICAgICAgICAgICAgICAgIHJldHVybiByLnN0YXR1cywgci5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIsICJyZXBsYWNlIiksIGRpY3Qoci5oZWFkZXJzKQogICAgICAgIGV4Y2VwdCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yIGFzIGU6CiAgICAgICAgICAgIHJldHVybiBlLmNvZGUsIGUucmVhZCgpLmRlY29kZSgidXRmLTgiLCAicmVwbGFjZSIpLCBkaWN0KGUuaGVhZGVycykKCiAgICBkZWYgcmVxdWVzdChzZWxmLCBtZXRob2Q6IHN0ciwgcGF0aDogc3RyLCBib2R5OiBzdHIgPSAiIiwgaGVhZGVyczogZGljdCB8IE5vbmUgPSBOb25lKToKICAgICAgICBoID0geyJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiJ9CiAgICAgICAgaC51cGRhdGUoaGVhZGVycyBvciB7fSkKICAgICAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KAogICAgICAgICAgICBzZWxmLmJhc2UgKyBwYXRoLAogICAgICAgICAgICBkYXRhPWJvZHkuZW5jb2RlKCJ1dGYtOCIpIGlmIGJvZHkgZWxzZSBOb25lLAogICAgICAgICAgICBoZWFkZXJzPWgsCiAgICAgICAgICAgIG1ldGhvZD1tZXRob2QudXBwZXIoKSwKICAgICAgICApCiAgICAgICAgdHJ5OgogICAgICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PTMwKSBhcyByOgogICAgICAgICAgICAgICAgcmV0dXJuIHIuc3RhdHVzLCByLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKSwgZGljdChyLmhlYWRlcnMpCiAgICAgICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToKICAgICAgICAgICAgcmV0dXJuIGUuY29kZSwgZS5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIsICJyZXBsYWNlIiksIGRpY3QoZS5oZWFkZXJzKQoKICAgIGRlZiBwb3N0KHNlbGYsIHBhdGg6IHN0ciwgYm9keTogc3RyLCBoZWFkZXJzOiBkaWN0IHwgTm9uZSA9IE5vbmUpOgogICAgICAgIHJldHVybiBzZWxmLnJlcXVlc3QoIlBPU1QiLCBwYXRoLCBib2R5LCBoZWFkZXJzKQoKICAgIGRlZiBwb3N0X2pzb24oc2VsZiwgcGF0aDogc3RyLCBwYXlsb2FkOiBkaWN0KToKICAgICAgICBzdGF0dXMsIGJvZHksIF8gPSBzZWxmLnBvc3QocGF0aCwganNvbi5kdW1wcyhwYXlsb2FkKSkKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzdGF0dXMsIGpzb24ubG9hZHMoYm9keSkKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgcmV0dXJuIHN0YXR1cywgeyJfdW5wYXJzZWFibGUiOiBib2R5Wzo0MDBdfQoKICAgIGRlZiBnZXRfanNvbihzZWxmLCBwYXRoOiBzdHIpOgogICAgICAgIHN0YXR1cywgYm9keSwgXyA9IHNlbGYuZ2V0KHBhdGgpCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gc3RhdHVzLCBqc29uLmxvYWRzKGJvZHkpCiAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgIHJldHVybiBzdGF0dXMsIHsiX3VucGFyc2VhYmxlIjogYm9keVs6NDAwXX0KCiAgICBkZWYgZGVsZXRlKHNlbGYsIHBhdGg6IHN0cik6CiAgICAgICAgcmV0dXJuIHNlbGYucmVxdWVzdCgiREVMRVRFIiwgcGF0aCkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBjbGkKY2xhc3MgQ2xpQXBwOgogICAgIiIiQSBjb21tYW5kLWxpbmUgcHJvZ3JhbS4gYGFwcC5ydW4oIi0tZmxhZyB2YWx1ZSIpYCAtPiAocmMsIHN0ZG91dCwgc3RkZXJyKS4KCiAgICBUaGUgZXF1aXZhbGVudCBvZiBhIGhlYWx0aCBjaGVjayBpcyBhIHNtb2tlIGludm9jYXRpb246IGlmIHRoZSBiaW5hcnkgY2Fubm90CiAgICBldmVuIHByaW50IGl0cyBvd24gdmVyc2lvbiwgbm90aGluZyBiZWxvdyBpcyB3b3J0aCBydW5uaW5nLgogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNmZzogZGljdCkgLT4gTm9uZToKICAgICAgICBzZWxmLmNmZyA9IGNmZy5nZXQoImNsaSIsIHt9KQoKICAgIGRlZiBfX2VudGVyX18oc2VsZikgLT4gIkNsaUFwcCI6CiAgICAgICAgaWYgbm90IHNlbGYuY2ZnLmdldCgiaW52b2tlIik6CiAgICAgICAgICAgIHJhaXNlIEFwcERpZE5vdFN0YXJ0KCJkcml2ZXI9Y2xpIGJ1dCBjbGkuaW52b2tlIGlzIGVtcHR5IGluIGhhcm5lc3MuY29uZmlnLmpzb24iKQogICAgICAgIHJjLCBvdXQsIGVyciA9IHNlbGYucnVuKHNlbGYuY2ZnLmdldCgic21va2VfYXJncyIsICItLWhlbHAiKSkKICAgICAgICB3YW50ID0gc2VsZi5jZmcuZ2V0KCJzbW9rZV9jb250YWlucyIsICIiKQogICAgICAgIGlmIHJjIG5vdCBpbiAoMCwgMSkgb3IgKHdhbnQgYW5kIHdhbnQgbm90IGluIChvdXQgKyBlcnIpKToKICAgICAgICAgICAgcmFpc2UgQXBwRGlkTm90U3RhcnQoZiJ0aGUgc21va2UgaW52b2NhdGlvbiBmYWlsZWQ6IHJjPXtyY31cbnsob3V0ICsgZXJyKVstMTUwMDpdfSIpCiAgICAgICAgcHJpbnQoIkFQUF9TVEFSVEVEIGRyaXZlcj1jbGkiLCBmbHVzaD1UcnVlKQogICAgICAgIHJldHVybiBzZWxmCgogICAgZGVmIF9fZXhpdF9fKHNlbGYsICpleGMpIC0+IE5vbmU6CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgcnVuKHNlbGYsIGFyZ3M6IHN0ciA9ICIiLCBzdGRpbjogc3RyID0gIiIsIHRpbWVvdXQ6IGludCA9IDEyMCk6CiAgICAgICAgY21kID0gc2VsZi5jZmcuZ2V0KCJpbnZva2UiLCAiIikucmVwbGFjZSgie2FyZ3N9IiwgYXJncykKICAgICAgICBwID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgIF9hcmd2KGNtZCksIGN3ZD1ST09ULCBpbnB1dD1zdGRpbiBvciBOb25lLCBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUsCiAgICAgICAgICAgIGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0icmVwbGFjZSIsIHRpbWVvdXQ9dGltZW91dCwKICAgICAgICApCiAgICAgICAgcmV0dXJuIHAucmV0dXJuY29kZSwgcC5zdGRvdXQgb3IgIiIsIHAuc3RkZXJyIG9yICIiCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gbGlicmFyeQpjbGFzcyBMaWJyYXJ5QXBwOgogICAgIiIiTm8gcHJvY2Vzcy4gVGhlIEUyRSBpbXBvcnRzIHRoZSB0aGluZyBhbmQgY2FsbHMgaXQuCgogICAgQVBQX1NUQVJURUQgaGVyZSBtZWFucyBpdCBpbXBvcnRzIGF0IGFsbCAtLSB3aGljaCBpcyB0aGUgc2FtZSBjbGFpbSBhcyBhIHNlcnZlcgogICAgYW5zd2VyaW5nOiB3aGF0ZXZlciBmb2xsb3dzIGlzIGJlaW5nIGFzc2VydGVkIGFnYWluc3Qgc29tZXRoaW5nIHRoYXQgbG9hZGVkLgogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNmZzogZGljdCkgLT4gTm9uZToKICAgICAgICBzZWxmLmNmZyA9IGNmZy5nZXQoImxpYnJhcnkiLCB7fSkKCiAgICBkZWYgX19lbnRlcl9fKHNlbGYpIC0+ICJMaWJyYXJ5QXBwIjoKICAgICAgICBjaGVjayA9IHNlbGYuY2ZnLmdldCgiaW1wb3J0X2NoZWNrIiwgIiIpCiAgICAgICAgaWYgY2hlY2s6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLnJ1bigKICAgICAgICAgICAgICAgIF9hcmd2KGNoZWNrKSwgY3dkPVJPT1QsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwKICAgICAgICAgICAgICAgIGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0icmVwbGFjZSIsIHRpbWVvdXQ9MTIwLAogICAgICAgICAgICApCiAgICAgICAgICAgIGlmIHAucmV0dXJuY29kZSAhPSAwOgogICAgICAgICAgICAgICAgcmFpc2UgQXBwRGlkTm90U3RhcnQoCiAgICAgICAgICAgICAgICAgICAgZiJ0aGUgbGlicmFyeSBkb2VzIG5vdCBpbXBvcnQ6XG57KHAuc3Rkb3V0ICsgcC5zdGRlcnIpWy0xNTAwOl19IgogICAgICAgICAgICAgICAgKQogICAgICAgIHN5cy5wYXRoLmluc2VydCgwLCBzdHIoUk9PVCkpCiAgICAgICAgcHJpbnQoIkFQUF9TVEFSVEVEIGRyaXZlcj1saWJyYXJ5IiwgZmx1c2g9VHJ1ZSkKICAgICAgICByZXR1cm4gc2VsZgoKICAgIGRlZiBfX2V4aXRfXyhzZWxmLCAqZXhjKSAtPiBOb25lOgogICAgICAgIHJldHVybiBOb25lCgoKRFJJVkVSUyA9IHsiaHR0cCI6IEh0dHBBcHAsICJjbGkiOiBDbGlBcHAsICJsaWJyYXJ5IjogTGlicmFyeUFwcH0KCgpkZWYgbWFrZV9kcml2ZXIoY2ZnOiBkaWN0LCBlbnY6IGRpY3QgfCBOb25lID0gTm9uZSk6CiAgICAiIiJTdGFydCB0aGUgdGhpbmcgdW5kZXIgdGVzdC4KCiAgICBgZW52YCBvdmVycmlkZXMgdGhlIGNvbmZpZydzIG93biBlbnYgYmxvY2sgZm9yIFRISVMgZHJpdmVyIG9ubHkuIEl0IGV4aXN0cyBmb3IKICAgIG9uZSBqb2IsIGFuZCBpdCBpcyBhIGpvYiBldmVyeSBob2xkb3V0IGV2ZW50dWFsbHkgbmVlZHM6IFBST1ZJTkcgQSBSRVNUQVJULgoKICAgICJEb2VzIHRoZSBkYXRhIHN1cnZpdmUgYSBwcm9jZXNzIGJvdW5kYXJ5PyIgY2Fubm90IGJlIGFuc3dlcmVkIGluc2lkZSBvbmUKICAgIHByb2Nlc3MsIGFuZCBpdCBpcyB0aGUgcXVlc3Rpb24gYSBkcm9wcGVkIHBlcnNpc3RlbmNlIHdyaXRlIGhpZGVzIGJlaGluZCAtLQogICAgZXZlcnl0aGluZyB3b3JrcyBwZXJmZWN0bHkgdW50aWwgYSByZXN0YXJ0LCBhbmQgbm8gc2luZ2xlLXByb2Nlc3MgdGVzdCBjYW4gc2VlIHRoZQogICAgZGlmZmVyZW5jZSBiZWNhdXNlIHRoZSBpbi1tZW1vcnkgYW5zd2VyIGlzIGNvcnJlY3QgZWl0aGVyIHdheS4gQW5zd2VyaW5nIGl0IG1lYW5zCiAgICBzdGFydGluZyBhIFNFQ09ORCBwcm9jZXNzIGFnYWluc3QgdGhlIFNBTUUgc3RhdGUsIHdoaWNoIG1lYW5zIHBpbm5pbmcgd2hhdGV2ZXIKICAgIG5hbWVzIHRoYXQgc3RhdGU6CgogICAgICAgIERCID0gIi5mYWN0b3J5L3J1bnMvaG9sZG91dC5kYiIKICAgICAgICB3aXRoIG1ha2VfZHJpdmVyKENPTkZJRywgZW52PXsiQVBQX0RCIjogREJ9KSBhcyBhcHA6CiAgICAgICAgICAgIC4uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgcmVjb3JkIHNvbWV0aGluZwogICAgICAgICAgICB3aXRoIG1ha2VfZHJpdmVyKENPTkZJRywgZW52PXsiQVBQX0RCIjogREJ9KSBhcyByZXN0YXJ0ZWQ6CiAgICAgICAgICAgICAgICAuLi4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgaXMgaXQgc3RpbGwgdGhlcmU/CgogICAgV2l0aG91dCB0aGlzIHRoZSBzZWNvbmQgZHJpdmVyIGJpbmRzIGEgbmV3IHBvcnQsIHRoZSBjb25maWcncyBge3BvcnR9YAogICAgc3Vic3RpdHV0aW9uIGhhbmRzIGl0IGEgZGlmZmVyZW50IHN0YXRlIGZpbGUsIGFuZCB0aGUgc2NlbmFyaW8gc2lsZW50bHkgcHJvdmVzCiAgICBub3RoaW5nIGF0IGFsbCAtLSBpdCBzdGFydHMgYW4gZW1wdHkgYXBwIGFuZCBmaW5kcyBpdCBlbXB0eS4KICAgICIiIgogICAgbmFtZSA9IChjZmcuZ2V0KCJkcml2ZXIiKSBvciAiaHR0cCIpLnN0cmlwKCkubG93ZXIoKQogICAgaWYgbmFtZSBub3QgaW4gRFJJVkVSUzoKICAgICAgICByYWlzZSBBcHBEaWROb3RTdGFydCgKICAgICAgICAgICAgZiJ1bmtub3duIGRyaXZlciB7bmFtZSFyfSBpbiBoYXJuZXNzLmNvbmZpZy5qc29uIC0gZXhwZWN0ZWQgb25lIG9mICIKICAgICAgICAgICAgZiJ7JywgJy5qb2luKHNvcnRlZChEUklWRVJTKSl9IgogICAgICAgICkKICAgIGlmIG5hbWUgPT0gImh0dHAiOgogICAgICAgIHJldHVybiBIdHRwQXBwKGNmZywgZW52KQogICAgcmV0dXJuIERSSVZFUlNbbmFtZV0oY2ZnKQo=
+"""Reach the software under test. Three shapes cover almost everything.
+
+    http     a server. Started on a dynamic port, polled until it answers.
+    cli      a command. Invoked with args; stdout, stderr and exit code asserted.
+    library  no process at all. The E2E imports it and calls it.
+
+Chosen by `driver` in `harness.config.json`. Every one of them prints APP_STARTED,
+because that marker means "the thing under test is reachable" -- a different claim
+for a server than for a library, and equally load-bearing for both.
+
+WHY THIS IS SPLIT OUT. The obvious first version of this file is HTTP-only: urllib,
+a health path, a GET and a POST. That makes a scaffold silently useless for a CLI, a
+library, a batch job or a desktop app -- the majority of software -- while the
+surrounding documentation claims the plumbing is universal. The process management
+genuinely IS universal. The way you talk to the thing is not.
+
+THE REACHABILITY CONSTRAINT, and it is an architecture decision. A rendered window,
+a game loop, a canvas, a native UI is NONE of these three. So the rules have to live
+behind a headless, scriptable surface an E2E can drive: simulation apart from
+rendering, domain apart from view. On a greenfield build, say this before any code
+exists -- it is nearly free then and it is a rewrite afterwards.
+
+The universal parts, kept in one place because getting them wrong is subtle:
+
+  * a DYNAMIC port, so two laps cannot collide
+  * WAIT for an answer rather than sleeping; a sleep is a race you chose to lose
+  * FAIL HARD if it never comes up -- never degrade to "not testable", which is how
+    a crashed app becomes a green run
+  * TEAR DOWN on every path including failure, or a leaked process holds the port
+    and poisons the next lap
+"""
+
+from __future__ import annotations
+
+import json
+import os
+import shlex
+import shutil
+import socket
+import subprocess
+import sys
+import time
+import urllib.error
+import urllib.request
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+
+
+class AppDidNotStart(RuntimeError):
+    pass
+
+
+def _free_port() -> int:
+    with socket.socket() as s:
+        s.bind(("127.0.0.1", 0))
+        return int(s.getsockname()[1])
+
+
+def unquote(token: str) -> str:
+    """Take one layer of matching surrounding quotes off a token.
+
+    Commands are split with `posix=False`, which is right on Windows because it
+    leaves backslashes in paths alone -- and wrong in that it leaves the QUOTES
+    attached to every token it split.
+
+    That was applied to argv[0] only, and the consequence on the rest was severe:
+    `python -c "import app"` arrived as the three tokens
+    `python`, `-c`, `"import app"`, so Python evaluated the STRING LITERAL
+    `"import app"` and exited 0. Measured: `python -c "import
+    definitely_not_a_module"` also exits 0. The library driver's import check --
+    the entire evidence behind `APP_STARTED driver=library` -- could not fail.
+    The Node equivalent this shipped later had exactly the same hole.
+
+    Stripping every token is what posix mode would have done, without giving up
+    the backslashes.
+    """
+    if len(token) > 1 and token[0] == token[-1] and token[0] in "\"'":
+        return token[1:-1]
+    return token
+
+
+def _argv(cmd: str) -> list[str]:
+    """Split, then resolve argv[0] through PATHEXT.
+
+    Without the resolve, a Windows `.cmd` shim (npm, npx, yarn, pnpm) fails as "the
+    system cannot find the file specified" -- which reads as "not installed" for a
+    tool that is on PATH and works in any terminal.
+    """
+    parts = [unquote(t) for t in shlex.split(cmd, posix=False)]
+    if parts:
+        parts[0] = shutil.which(parts[0]) or parts[0]
+    return parts
+
+
+# --------------------------------------------------------------------------- http
+class HttpApp:
+    """A server on a dynamic port, polled until healthy."""
+
+    def __init__(self, cfg: dict, env: dict | None = None) -> None:
+        self.cfg = cfg.get("http", {})
+        self.port = _free_port()
+        self.base = f"http://127.0.0.1:{self.port}"
+        self.proc: subprocess.Popen | None = None
+        self.env_overrides = env or {}
+
+    def __enter__(self) -> "HttpApp":
+        cmd = (self.cfg.get("start") or "").replace("{port}", str(self.port))
+        if not cmd:
+            raise AppDidNotStart("driver=http but http.start is empty in harness.config.json")
+
+        merged = {**(self.cfg.get("env") or {}), **self.env_overrides}
+        env = None
+        if merged:
+            env = {**os.environ, **{k: str(v).replace("{port}", str(self.port))
+                                    for k, v in merged.items()}}
+        self.proc = subprocess.Popen(
+            _argv(cmd), cwd=ROOT, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+            text=True, encoding="utf-8", errors="replace", env=env,
+        )
+        self._await_health()
+        print(f"APP_STARTED port={self.port}", flush=True)
+        return self
+
+    def __exit__(self, *exc) -> None:
+        if self.proc and self.proc.poll() is None:
+            self.proc.terminate()
+            try:
+                self.proc.wait(timeout=10)
+            except subprocess.TimeoutExpired:
+                self.proc.kill()
+        self._free_the_port()
+
+    def _free_the_port(self) -> None:
+        """Kill whatever is still listening, even if this object did not start it.
+
+        Killing `self.proc` frees the port only when the process on it is the one
+        this object spawned. A journey may restart the app, and that replacement is
+        untracked: the original dies, the agent's copy keeps the port, `__exit__`
+        terminates a corpse, and the next lap gets `[Errno 10048] address already in
+        use` from a factory that thinks it tore everything down.
+
+        Measured after a morning of gate runs: four orphaned interpreters holding
+        four ports, on the exact class of leak the teardown comment already warned
+        about.
+
+        Best effort by design. This runs during teardown, on every path including a
+        failure, and a port that cannot be freed must not turn a reported failure
+        into a traceback about cleanup.
+        """
+        if not self.port:
+            return
+        try:
+            if os.name == "nt":
+                out = subprocess.run(
+                    ["netstat", "-ano"], capture_output=True, text=True,
+                    encoding="utf-8", errors="replace", timeout=30,
+                ).stdout
+                pids = {
+                    line.split()[-1]
+                    for line in out.splitlines()
+                    if f":{self.port} " in line and "LISTENING" in line
+                }
+                for pid in pids:
+                    if pid.isdigit() and pid != "0" and (
+                        not self.proc or str(self.proc.pid) != pid
+                    ):
+                        subprocess.run(["taskkill", "/PID", pid, "/F"],
+                                       capture_output=True, timeout=30)
+            else:
+                out = subprocess.run(
+                    ["lsof", "-ti", f"tcp:{self.port}"], capture_output=True,
+                    text=True, timeout=30,
+                ).stdout
+                for pid in out.split():
+                    if pid.isdigit() and (not self.proc or str(self.proc.pid) != pid):
+                        subprocess.run(["kill", "-9", pid], capture_output=True, timeout=30)
+        except (OSError, subprocess.SubprocessError):
+            # Named, not swallowed: a port left held is a real cost on the next lap,
+            # and silence here is how it becomes a mystery instead of a line in a log.
+            print(f"PORT_NOT_FREED {self.port} - something may still be listening",
+                  flush=True)
+
+    def _await_health(self) -> None:
+        path = self.cfg.get("health_path", "/health")
+        want = self.cfg.get("health_contains", "")
+        deadline = time.time() + int(self.cfg.get("boot_timeout_s", 45))
+        last = "never answered"
+        while time.time() < deadline:
+            if self.proc and self.proc.poll() is not None:
+                out = (self.proc.stdout.read() if self.proc.stdout else "") or ""
+                raise AppDidNotStart(
+                    f"the app exited with {self.proc.returncode} before answering:\n{out[-2500:]}"
+                )
+            try:
+                status, body, _ = self.get(path)
+                if status == 200 and (not want or want in body):
+                    return
+                # NAME WHICH CONDITION FAILED. The first version reported "never
+                # became healthy" and then printed a 200 with a healthy-looking
+                # body, because the failing half was the CONTAINS check: the
+                # configured string had no space after the colon and the app's JSON
+                # did. That reads as a dead app, so the next hour goes on the
+                # server, and the actual fix is one character in a config file.
+                if status != 200:
+                    last = f"answered {status}, wanted 200. body={body[:160]!r}"
+                else:
+                    last = (
+                        f"answered 200 but the body does not contain "
+                        f"health_contains={want!r}. Got {body[:160]!r}. The app is "
+                        f"UP; it is the string in harness.config.json that does not "
+                        f"match"
+                    )
+            except (urllib.error.URLError, OSError) as e:
+                last = f"not accepting connections yet ({e})"
+            time.sleep(0.2)
+        raise AppDidNotStart(
+            f"{path} never became healthy in time. {last}. This is a FAILURE, not "
+            f"'not testable'."
+        )
+
+    def get(self, path: str, follow: bool = False, headers: dict | None = None):
+        """(status, body, headers).
+
+        `follow=False` so a redirect stays VISIBLE -- following them by default is
+        how a test of a redirect stops testing it.
+        """
+        req = urllib.request.Request(self.base + path, headers=headers or {})
+
+        class _NoRedirect(urllib.request.HTTPRedirectHandler):
+            def redirect_request(self, *a, **kw):
+                return None
+
+        opener = (
+            urllib.request.build_opener()
+            if follow
+            else urllib.request.build_opener(_NoRedirect)
+        )
+        try:
+            with opener.open(req, timeout=30) as r:
+                return r.status, r.read().decode("utf-8", "replace"), dict(r.headers)
+        except urllib.error.HTTPError as e:
+            return e.code, e.read().decode("utf-8", "replace"), dict(e.headers)
+
+    def request(self, method: str, path: str, body: str = "", headers: dict | None = None):
+        h = {"Content-Type": "application/json"}
+        h.update(headers or {})
+        req = urllib.request.Request(
+            self.base + path,
+            data=body.encode("utf-8") if body else None,
+            headers=h,
+            method=method.upper(),
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return r.status, r.read().decode("utf-8", "replace"), dict(r.headers)
+        except urllib.error.HTTPError as e:
+            return e.code, e.read().decode("utf-8", "replace"), dict(e.headers)
+
+    def post(self, path: str, body: str, headers: dict | None = None):
+        return self.request("POST", path, body, headers)
+
+    def post_json(self, path: str, payload: dict):
+        status, body, _ = self.post(path, json.dumps(payload))
+        try:
+            return status, json.loads(body)
+        except ValueError:
+            return status, {"_unparseable": body[:400]}
+
+    def get_json(self, path: str):
+        status, body, _ = self.get(path)
+        try:
+            return status, json.loads(body)
+        except ValueError:
+            return status, {"_unparseable": body[:400]}
+
+    def delete(self, path: str):
+        return self.request("DELETE", path)
+
+
+# --------------------------------------------------------------------------- cli
+class CliApp:
+    """A command-line program. `app.run("--flag value")` -> (rc, stdout, stderr).
+
+    The equivalent of a health check is a smoke invocation: if the binary cannot
+    even print its own version, nothing below is worth running.
+    """
+
+    def __init__(self, cfg: dict) -> None:
+        self.cfg = cfg.get("cli", {})
+
+    def __enter__(self) -> "CliApp":
+        if not self.cfg.get("invoke"):
+            raise AppDidNotStart("driver=cli but cli.invoke is empty in harness.config.json")
+        rc, out, err = self.run(self.cfg.get("smoke_args", "--help"))
+        want = self.cfg.get("smoke_contains", "")
+        if rc not in (0, 1) or (want and want not in (out + err)):
+            raise AppDidNotStart(f"the smoke invocation failed: rc={rc}\n{(out + err)[-1500:]}")
+        print("APP_STARTED driver=cli", flush=True)
+        return self
+
+    def __exit__(self, *exc) -> None:
+        return None
+
+    def run(self, args: str = "", stdin: str = "", timeout: int = 120):
+        cmd = self.cfg.get("invoke", "").replace("{args}", args)
+        p = subprocess.run(
+            _argv(cmd), cwd=ROOT, input=stdin or None, capture_output=True, text=True,
+            encoding="utf-8", errors="replace", timeout=timeout,
+        )
+        return p.returncode, p.stdout or "", p.stderr or ""
+
+
+# --------------------------------------------------------------------------- library
+class LibraryApp:
+    """No process. The E2E imports the thing and calls it.
+
+    APP_STARTED here means it imports at all -- which is the same claim as a server
+    answering: whatever follows is being asserted against something that loaded.
+    """
+
+    def __init__(self, cfg: dict) -> None:
+        self.cfg = cfg.get("library", {})
+
+    def __enter__(self) -> "LibraryApp":
+        check = self.cfg.get("import_check", "")
+        if check:
+            p = subprocess.run(
+                _argv(check), cwd=ROOT, capture_output=True, text=True,
+                encoding="utf-8", errors="replace", timeout=120,
+            )
+            if p.returncode != 0:
+                raise AppDidNotStart(
+                    f"the library does not import:\n{(p.stdout + p.stderr)[-1500:]}"
+                )
+        sys.path.insert(0, str(ROOT))
+        print("APP_STARTED driver=library", flush=True)
+        return self
+
+    def __exit__(self, *exc) -> None:
+        return None
+
+
+DRIVERS = {"http": HttpApp, "cli": CliApp, "library": LibraryApp}
+
+
+def make_driver(cfg: dict, env: dict | None = None):
+    """Start the thing under test.
+
+    `env` overrides the config's own env block for THIS driver only. It exists for
+    one job, and it is a job every holdout eventually needs: PROVING A RESTART.
+
+    "Does the data survive a process boundary?" cannot be answered inside one
+    process, and it is the question a dropped persistence write hides behind --
+    everything works perfectly until a restart, and no single-process test can see the
+    difference because the in-memory answer is correct either way. Answering it means
+    starting a SECOND process against the SAME state, which means pinning whatever
+    names that state:
+
+        DB = ".factory/runs/holdout.db"
+        with make_driver(CONFIG, env={"APP_DB": DB}) as app:
+            ...                                    # record something
+            with make_driver(CONFIG, env={"APP_DB": DB}) as restarted:
+                ...                                # is it still there?
+
+    Without this the second driver binds a new port, the config's `{port}`
+    substitution hands it a different state file, and the scenario silently proves
+    nothing at all -- it starts an empty app and finds it empty.
+    """
+    name = (cfg.get("driver") or "http").strip().lower()
+    if name not in DRIVERS:
+        raise AppDidNotStart(
+            f"unknown driver {name!r} in harness.config.json - expected one of "
+            f"{', '.join(sorted(DRIVERS))}"
+        )
+    if name == "http":
+        return HttpApp(cfg, env)
+    return DRIVERS[name](cfg)

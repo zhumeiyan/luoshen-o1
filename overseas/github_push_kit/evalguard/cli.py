@@ -1,1 +1,119 @@
-aW1wb3J0IGFzdCwgc3lzLCBqc29uLCBhcmdwYXJzZSwgcGF0aGxpYgoKUFJPX09OID0gW0ZhbHNlXQoKCmRlZiBzY2FuKHBhdGgpOgogICAgc3JjID0gcGF0aGxpYi5QYXRoKHBhdGgpLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKQogICAgdHJ5OgogICAgICAgIHRyZWUgPSBhc3QucGFyc2Uoc3JjKQogICAgZXhjZXB0IFN5bnRheEVycm9yIGFzIGU6CiAgICAgICAgcmV0dXJuIFt7ImVnX2lkIjogIkVHMDAwIiwgInNldmVyaXR5IjogImJsb2NrZXIiLCAidGl0bGUiOiAiU3ludGF4RXJyb3IiLAogICAgICAgICAgICAgICAgICJjYW5vbiI6IFtdLCAiaGl0cyI6IFt7ImxpbmUiOiBlLmxpbmVubyBvciAwLCAiaGl0Ijogc3RyKGUubXNnKX1dfV0KICAgIG91dCA9IFtdCiAgICBmcm9tIC5ydWxlcyBpbXBvcnQgUlVMRVMKICAgIGZyb20gLiBpbXBvcnQgcnVsZXMgYXMgX3IKICAgIF9yLl9TUkNbMF0gPSBzcmMgICAgICAgICAgIyBydWxlcyBuZWVkIHJhdyBzb3VyY2UgZm9yIGNyb3NzLWxpbmUgY2hlY2tzCiAgICBmb3IgZm4gaW4gUlVMRVM6CiAgICAgICAgbSA9IGZuLm1ldGEKICAgICAgICB0cnk6CiAgICAgICAgICAgIGhpdHMgPSBmbih0cmVlLCBzcmMsIHBhdGgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBoaXRzID0gW3sibGluZSI6IDAsICJoaXQiOiBmInJ1bGUgZXJyb3I6IHtlfSJ9XQogICAgICAgIGlmIGhpdHM6CiAgICAgICAgICAgIG91dC5hcHBlbmQoeyoqbSwgImhpdHMiOiBoaXRzfSkKICAgIGlmIFBST19PTlswXToKICAgICAgICBmcm9tIC5wcm9fcnVsZXMgaW1wb3J0IFBST19SVUxFUwogICAgICAgIGZvciBmbiBpbiBQUk9fUlVMRVM6CiAgICAgICAgICAgIG0gPSBmbi5tZXRhCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGhpdHMgPSBmbih0cmVlLCBzcmMsIHBhdGgpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIGhpdHMgPSBbeyJsaW5lIjogMCwgImhpdCI6IGYicnVsZSBlcnJvcjoge2V9In1dCiAgICAgICAgICAgIGlmIGhpdHM6CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKHsqKm0sICJoaXRzIjogaGl0c30pCiAgICByZXR1cm4gb3V0CgpkZWYgbWFpbihhcmd2PU5vbmUpOgogICAgcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKHByb2c9ImV2YWxndWFyZCIsCiAgICAgICAgZGVzY3JpcHRpb249IlN0YXRpYyBsaW50ZXIgZm9yIExMTS9BZ2VudCBldmFsdWF0aW9uIHNjcmlwdHMuICIKICAgICAgICAgICAgICAgICAgICAiUnVsZXMgdHJhY2UgdG8gYSAzNjgtZW50cnkgZW1waXJpY2FsIGZhaWx1cmUtbW9kZSBjYW5vbi4iKQogICAgcC5hZGRfYXJndW1lbnQoInBhdGgiLCBuYXJncz0iKyIsIGhlbHA9InB5dGhvbiBmaWxlKHMpIG9yIGRpcmVjdG9yeSIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1mb3JtYXQiLCBjaG9pY2VzPVsidGV4dCIsICJqc29uIl0sIGRlZmF1bHQ9InRleHQiKQogICAgcC5hZGRfYXJndW1lbnQoIi0tc2V2ZXJpdHkiLCBjaG9pY2VzPVsiYmxvY2tlciIsICJ3YXJuIiwgImluZm8iXSwgZGVmYXVsdD0iaW5mbyIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1wcm8iLCBhY3Rpb249InN0b3JlX3RydWUiLAogICAgICAgICAgICAgICAgICAgaGVscD0iZW5hYmxlIHRoZSBQUk8gcnVsZSBwYWNrICgxMCBhZGRpdGlvbmFsIHJ1bGVzKSIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1yZXBvcnQiLCBtZXRhdmFyPSJPVVQuaHRtbCIsCiAgICAgICAgICAgICAgICAgICBoZWxwPSJ3cml0ZSBhIHN0YW5kYWxvbmUgSFRNTCBkaWFnbm9zdGljIHJlcG9ydCIpCiAgICBhID0gcC5wYXJzZV9hcmdzKGFyZ3YpCiAgICBQUk9fT05bMF0gPSBhLnBybwogICAgb3JkZXIgPSB7ImJsb2NrZXIiOiAwLCAid2FybiI6IDEsICJpbmZvIjogMn0KICAgIGZpbGVzID0gW10KICAgIGZvciB0IGluIGEucGF0aDoKICAgICAgICBwdGggPSBwYXRobGliLlBhdGgodCkKICAgICAgICBpZiBwdGguaXNfZGlyKCk6IGZpbGVzICs9IHNvcnRlZChwdGgucmdsb2IoIioucHkiKSkKICAgICAgICBlbHNlOiBmaWxlcy5hcHBlbmQocHRoKQogICAgcmVwb3J0ID0ge30KICAgIGZvciBmIGluIGZpbGVzOgogICAgICAgIHJlcyA9IFtyIGZvciByIGluIHNjYW4oc3RyKGYpKSBpZiBvcmRlcltyWyJzZXZlcml0eSJdXSA8PSBvcmRlclthLnNldmVyaXR5XV0KICAgICAgICByZXBvcnRbc3RyKGYpXSA9IHJlcwogICAgaWYgYS5mb3JtYXQgPT0gImpzb24iOgogICAgICAgIHByaW50KGpzb24uZHVtcHMocmVwb3J0LCBpbmRlbnQ9MSwgZW5zdXJlX2FzY2lpPUZhbHNlKSk7IHJldHVybiAwCiAgICBpZiBhLnJlcG9ydDoKICAgICAgICBfaHRtbChyZXBvcnQsIGEucmVwb3J0KQogICAgICAgIHByaW50KGYicmVwb3J0IHdyaXR0ZW46IHthLnJlcG9ydH0iKQogICAgbmIgPSBudyA9IG5pID0gMAogICAgZm9yIGYsIHJlcyBpbiByZXBvcnQuaXRlbXMoKToKICAgICAgICBwcmludChmIlxueyc9Jyo2NH1cbntmfVxueyc9Jyo2NH0iKQogICAgICAgIGlmIG5vdCByZXM6IHByaW50KCIgIGNsZWFuIOKAlCBubyBjYW5vbi1iYWNrZWQgZmFpbHVyZSBtb2RlIGRldGVjdGVkIik7IGNvbnRpbnVlCiAgICAgICAgZm9yIHIgaW4gc29ydGVkKHJlcywga2V5PWxhbWJkYSB4OiBvcmRlclt4WyJzZXZlcml0eSJdXSk6CiAgICAgICAgICAgIHRhZyA9IHsiYmxvY2tlciI6ICJCTE9DSyIsICJ3YXJuIjogIldBUk4gIiwgImluZm8iOiAiSU5GTyAifVtyWyJzZXZlcml0eSJdXQogICAgICAgICAgICBuYiArPSByWyJzZXZlcml0eSJdID09ICJibG9ja2VyIjsgbncgKz0gclsic2V2ZXJpdHkiXSA9PSAid2FybiI7IG5pICs9IHJbInNldmVyaXR5Il0gPT0gImluZm8iCiAgICAgICAgICAgIGNuID0gIiwiLmpvaW4oZiIje2N9IiBmb3IgYyBpbiByWyJjYW5vbiJdKQogICAgICAgICAgICBwcmludChmIiAgW3t0YWd9XSB7clsnZWdfaWQnXX0gIGNhbm9uIHtjbn1cbiAgICAgICAgIHtyWyd0aXRsZSddfSIpCiAgICAgICAgICAgIGZvciBoIGluIHJbImhpdHMiXVs6M106CiAgICAgICAgICAgICAgICBwcmludChmIiAgICAgICAgICAgTHtoWydsaW5lJ119OiB7aFsnaGl0J119IikKICAgIHByaW50KGYiXG57Jy0nKjY0fVxue25ifSBibG9ja2VyIMK3IHtud30gd2FybiDCtyB7bml9IGluZm8gYWNyb3NzIHtsZW4oZmlsZXMpfSBmaWxlKHMpIikKICAgIHJldHVybiAxIGlmIG5iIGVsc2UgMAoKCmRlZiBfaHRtbChyZXBvcnQsIG91dCk6CiAgICBvcmRlciA9IHsiYmxvY2tlciI6IDAsICJ3YXJuIjogMSwgImluZm8iOiAyfQogICAgbmIgPSBudyA9IG5pID0gMAogICAgcm93cyA9IFtdCiAgICBmb3IgZiwgcmVzIGluIHJlcG9ydC5pdGVtcygpOgogICAgICAgIGZvciByIGluIHNvcnRlZChyZXMsIGtleT1sYW1iZGEgeDogb3JkZXJbeFsic2V2ZXJpdHkiXV0pOgogICAgICAgICAgICBpZiByWyJzZXZlcml0eSJdID09ICJibG9ja2VyIjogbmIgKz0gMQogICAgICAgICAgICBlbGlmIHJbInNldmVyaXR5Il0gPT0gIndhcm4iOiBudyArPSAxCiAgICAgICAgICAgIGVsc2U6IG5pICs9IDEKICAgICAgICAgICAgZm9yIGggaW4gclsiaGl0cyJdOgogICAgICAgICAgICAgICAgcm93cy5hcHBlbmQoKHJbInNldmVyaXR5Il0sIHJbImVnX2lkIl0sIGYsIGhbImxpbmUiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByWyJ0aXRsZSJdLCBoWyJoaXQiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLCIuam9pbihmIiN7Y30iIGZvciBjIGluIHJbImNhbm9uIl0pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHIuZ2V0KCJmaXgiLCAiIikpKQogICAgcm93cy5zb3J0KGtleT1sYW1iZGEgeDogb3JkZXJbeFswXV0pCiAgICBib2R5ID0gIiIuam9pbigKICAgICAgICBmIjx0ciBjbGFzcz0ne3JbMF19Jz48dGQgY2xhc3M9J3MnPntyWzBdLnVwcGVyKCl9PC90ZD48dGQ+e3JbMV19PC90ZD4iCiAgICAgICAgZiI8dGQgY2xhc3M9J3AnPntyWzJdfTwvdGQ+PHRkPntyWzNdfTwvdGQ+PHRkPntyWzRdfTwvdGQ+IgogICAgICAgIGYiPHRkIGNsYXNzPSdoJz57cls1XX08L3RkPjx0ZCBjbGFzcz0nYyc+e3JbNl19PC90ZD4iCiAgICAgICAgZiI8dGQgY2xhc3M9J2YnPntyWzddfTwvdGQ+PC90cj4iIGZvciByIGluIHJvd3MpCiAgICBodG1sID0gZiIiIjwhZG9jdHlwZSBodG1sPjxtZXRhIGNoYXJzZXQ9dXRmLTg+Cjx0aXRsZT5ldmFsZ3VhcmQgcmVwb3J0PC90aXRsZT48c3R5bGU+CmJvZHl7e2ZvbnQ6MTRweC8xLjU1IHVpLW1vbm9zcGFjZSxNZW5sbyxtb25vc3BhY2U7bWFyZ2luOjMycHg7Y29sb3I6IzExMTtiYWNrZ3JvdW5kOiNmZmZ9fQpoMXt7Zm9udC1zaXplOjE5cHg7bWFyZ2luOjAgMCA0cHh9fSAuc3Vie3tjb2xvcjojNjY2O21hcmdpbjowIDAgMjJweH19Ci5rcGl7e2Rpc3BsYXk6ZmxleDtnYXA6MjZweDttYXJnaW46MCAwIDIycHg7cGFkZGluZzoxNHB4IDA7Ym9yZGVyLXRvcDoycHggc29saWQgIzExMTtib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZGRkfX0KLmtwaSBie3tmb250LXNpemU6MjRweDtkaXNwbGF5OmJsb2NrfX0gLmtwaSBzcGFue3tjb2xvcjojNjY2O2ZvbnQtc2l6ZToxMXB4O2xldHRlci1zcGFjaW5nOi4wNmVtfX0KdGFibGV7e2JvcmRlci1jb2xsYXBzZTpjb2xsYXBzZTt3aWR0aDoxMDAlfX0KdGR7e2JvcmRlci1ib3R0b206MXB4IHNvbGlkICNlZWU7cGFkZGluZzo3cHggOXB4O3ZlcnRpY2FsLWFsaWduOnRvcH19CnRoe3t0ZXh0LWFsaWduOmxlZnQ7Ym9yZGVyLWJvdHRvbToycHggc29saWQgIzExMTtwYWRkaW5nOjdweCA5cHg7Zm9udC1zaXplOjExcHg7bGV0dGVyLXNwYWNpbmc6LjA2ZW19fQouc3t7Zm9udC13ZWlnaHQ6NzAwO2ZvbnQtc2l6ZToxMXB4fX0gdHIuYmxvY2tlciAuc3t7Y29sb3I6I2IwMH19IHRyLndhcm4gLnN7e2NvbG9yOiNhNjB9fSB0ci5pbmZvIC5ze3tjb2xvcjojNjY2fX0KLnB7e2NvbG9yOiM1NTU7Zm9udC1zaXplOjEycHh9fSAuaHt7Zm9udC1zaXplOjEycHh9fSAuY3t7Y29sb3I6Izc3Nztmb250LXNpemU6MTJweH19Ci5me3tjb2xvcjojNDQ0O2ZvbnQtc2l6ZToxMnB4O21heC13aWR0aDozMzBweH19Cjwvc3R5bGU+CjxoMT5ldmFsZ3VhcmQgJm1kYXNoOyBldmFsdWF0aW9uIGludGVncml0eSByZXBvcnQ8L2gxPgo8cCBjbGFzcz1zdWI+UnVsZXMgdHJhY2UgdG8gdGhlIEx1b3NoZW4gRmFpbHVyZS1Nb2RlIENhbm9uICgzNjggZW50cmllcyBtaW5lZCBmcm9tIDEwMCsgcmVhbCBleHBlcmltZW50cykuPC9wPgo8ZGl2IGNsYXNzPWtwaT48ZGl2PjxiPntuYn08L2I+PHNwYW4+QkxPQ0tFUjwvc3Bhbj48L2Rpdj48ZGl2PjxiPntud308L2I+PHNwYW4+V0FSTjwvc3Bhbj48L2Rpdj4KPGRpdj48Yj57bml9PC9iPjxzcGFuPklORk88L3NwYW4+PC9kaXY+PGRpdj48Yj57bGVuKHJlcG9ydCl9PC9iPjxzcGFuPkZJTEVTPC9zcGFuPjwvZGl2PjwvZGl2Pgo8dGFibGU+PHRyPjx0aD5TRVY8L3RoPjx0aD5SVUxFPC90aD48dGg+RklMRTwvdGg+PHRoPkxOPC90aD48dGg+RkFJTFVSRSBNT0RFPC90aD48dGg+RVZJREVOQ0U8L3RoPjx0aD5DQU5PTjwvdGg+PHRoPkZJWDwvdGg+PC90cj4Ke2JvZHl9PC90YWJsZT4iIiIKICAgIHBhdGhsaWIuUGF0aChvdXQpLndyaXRlX3RleHQoaHRtbCwgZW5jb2Rpbmc9InV0Zi04IikK
+import ast, sys, json, argparse, pathlib
+
+PRO_ON = [False]
+
+
+def scan(path):
+    src = pathlib.Path(path).read_text(encoding="utf-8", errors="replace")
+    try:
+        tree = ast.parse(src)
+    except SyntaxError as e:
+        return [{"eg_id": "EG000", "severity": "blocker", "title": "SyntaxError",
+                 "canon": [], "hits": [{"line": e.lineno or 0, "hit": str(e.msg)}]}]
+    out = []
+    from .rules import RULES
+    from . import rules as _r
+    _r._SRC[0] = src          # rules need raw source for cross-line checks
+    for fn in RULES:
+        m = fn.meta
+        try:
+            hits = fn(tree, src, path)
+        except Exception as e:
+            hits = [{"line": 0, "hit": f"rule error: {e}"}]
+        if hits:
+            out.append({**m, "hits": hits})
+    if PRO_ON[0]:
+        from .pro_rules import PRO_RULES
+        for fn in PRO_RULES:
+            m = fn.meta
+            try:
+                hits = fn(tree, src, path)
+            except Exception as e:
+                hits = [{"line": 0, "hit": f"rule error: {e}"}]
+            if hits:
+                out.append({**m, "hits": hits})
+    return out
+
+def main(argv=None):
+    p = argparse.ArgumentParser(prog="evalguard",
+        description="Static linter for LLM/Agent evaluation scripts. "
+                    "Rules trace to a 368-entry empirical failure-mode canon.")
+    p.add_argument("path", nargs="+", help="python file(s) or directory")
+    p.add_argument("--format", choices=["text", "json"], default="text")
+    p.add_argument("--severity", choices=["blocker", "warn", "info"], default="info")
+    p.add_argument("--pro", action="store_true",
+                   help="enable the PRO rule pack (10 additional rules)")
+    p.add_argument("--report", metavar="OUT.html",
+                   help="write a standalone HTML diagnostic report")
+    a = p.parse_args(argv)
+    PRO_ON[0] = a.pro
+    order = {"blocker": 0, "warn": 1, "info": 2}
+    files = []
+    for t in a.path:
+        pth = pathlib.Path(t)
+        if pth.is_dir(): files += sorted(pth.rglob("*.py"))
+        else: files.append(pth)
+    report = {}
+    for f in files:
+        res = [r for r in scan(str(f)) if order[r["severity"]] <= order[a.severity]]
+        report[str(f)] = res
+    if a.format == "json":
+        print(json.dumps(report, indent=1, ensure_ascii=False)); return 0
+    if a.report:
+        _html(report, a.report)
+        print(f"report written: {a.report}")
+    nb = nw = ni = 0
+    for f, res in report.items():
+        print(f"\n{'='*64}\n{f}\n{'='*64}")
+        if not res: print("  clean — no canon-backed failure mode detected"); continue
+        for r in sorted(res, key=lambda x: order[x["severity"]]):
+            tag = {"blocker": "BLOCK", "warn": "WARN ", "info": "INFO "}[r["severity"]]
+            nb += r["severity"] == "blocker"; nw += r["severity"] == "warn"; ni += r["severity"] == "info"
+            cn = ",".join(f"#{c}" for c in r["canon"])
+            print(f"  [{tag}] {r['eg_id']}  canon {cn}\n         {r['title']}")
+            for h in r["hits"][:3]:
+                print(f"           L{h['line']}: {h['hit']}")
+    print(f"\n{'-'*64}\n{nb} blocker · {nw} warn · {ni} info across {len(files)} file(s)")
+    return 1 if nb else 0
+
+
+def _html(report, out):
+    order = {"blocker": 0, "warn": 1, "info": 2}
+    nb = nw = ni = 0
+    rows = []
+    for f, res in report.items():
+        for r in sorted(res, key=lambda x: order[x["severity"]]):
+            if r["severity"] == "blocker": nb += 1
+            elif r["severity"] == "warn": nw += 1
+            else: ni += 1
+            for h in r["hits"]:
+                rows.append((r["severity"], r["eg_id"], f, h["line"],
+                             r["title"], h["hit"],
+                             ",".join(f"#{c}" for c in r["canon"]),
+                             r.get("fix", "")))
+    rows.sort(key=lambda x: order[x[0]])
+    body = "".join(
+        f"<tr class='{r[0]}'><td class='s'>{r[0].upper()}</td><td>{r[1]}</td>"
+        f"<td class='p'>{r[2]}</td><td>{r[3]}</td><td>{r[4]}</td>"
+        f"<td class='h'>{r[5]}</td><td class='c'>{r[6]}</td>"
+        f"<td class='f'>{r[7]}</td></tr>" for r in rows)
+    html = f"""<!doctype html><meta charset=utf-8>
+<title>evalguard report</title><style>
+body{{font:14px/1.55 ui-monospace,Menlo,monospace;margin:32px;color:#111;background:#fff}}
+h1{{font-size:19px;margin:0 0 4px}} .sub{{color:#666;margin:0 0 22px}}
+.kpi{{display:flex;gap:26px;margin:0 0 22px;padding:14px 0;border-top:2px solid #111;border-bottom:1px solid #ddd}}
+.kpi b{{font-size:24px;display:block}} .kpi span{{color:#666;font-size:11px;letter-spacing:.06em}}
+table{{border-collapse:collapse;width:100%}}
+td{{border-bottom:1px solid #eee;padding:7px 9px;vertical-align:top}}
+th{{text-align:left;border-bottom:2px solid #111;padding:7px 9px;font-size:11px;letter-spacing:.06em}}
+.s{{font-weight:700;font-size:11px}} tr.blocker .s{{color:#b00}} tr.warn .s{{color:#a60}} tr.info .s{{color:#666}}
+.p{{color:#555;font-size:12px}} .h{{font-size:12px}} .c{{color:#777;font-size:12px}}
+.f{{color:#444;font-size:12px;max-width:330px}}
+</style>
+<h1>evalguard &mdash; evaluation integrity report</h1>
+<p class=sub>Rules trace to the Luoshen Failure-Mode Canon (368 entries mined from 100+ real experiments).</p>
+<div class=kpi><div><b>{nb}</b><span>BLOCKER</span></div><div><b>{nw}</b><span>WARN</span></div>
+<div><b>{ni}</b><span>INFO</span></div><div><b>{len(report)}</b><span>FILES</span></div></div>
+<table><tr><th>SEV</th><th>RULE</th><th>FILE</th><th>LN</th><th>FAILURE MODE</th><th>EVIDENCE</th><th>CANON</th><th>FIX</th></tr>
+{body}</table>"""
+    pathlib.Path(out).write_text(html, encoding="utf-8")

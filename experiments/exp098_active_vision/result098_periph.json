@@ -1,1 +1,92 @@
-ewogImNsdXN0ZXJlZHxQPTgiOiB7CiAgIm1lYW4iOiAwLjY2ODc1LAogICJ2YWxzIjogWwogICAwLjc1LAogICAwLjYyNSwKICAgMC43MjUsCiAgIDAuNTc1CiAgXQogfSwKICJ1bmlmb3JtfFA9OCI6IHsKICAibWVhbiI6IDAuNywKICAidmFscyI6IFsKICAgMC42LAogICAwLjgsCiAgIDAuNywKICAgMC43CiAgXQogfSwKICJjbHVzdGVyZWR8UD0xNiI6IHsKICAibWVhbiI6IDEuMCwKICAidmFscyI6IFsKICAgMS4wLAogICAxLjAsCiAgIDEuMCwKICAgMS4wCiAgXQogfSwKICJ1bmlmb3JtfFA9MTYiOiB7CiAgIm1lYW4iOiAwLjY2MjUwMDAwMDAwMDAwMDEsCiAgInZhbHMiOiBbCiAgIDAuNjc1LAogICAwLjY1LAogICAwLjY1LAogICAwLjY3NQogIF0KIH0sCiAiY2x1c3RlcmVkfFA9MzIiOiB7CiAgIm1lYW4iOiAwLjk2ODc1LAogICJ2YWxzIjogWwogICAwLjk1LAogICAwLjk1LAogICAxLjAsCiAgIDAuOTc1CiAgXQogfSwKICJ1bmlmb3JtfFA9MzIiOiB7CiAgIm1lYW4iOiAwLjQ2MjQ5OTk5OTk5OTk5OTk3LAogICJ2YWxzIjogWwogICAwLjQ1LAogICAwLjQ3NSwKICAgMC40NzUsCiAgIDAuNDUKICBdCiB9LAogImNsdXN0ZXJlZHxQPTY0IjogewogICJtZWFuIjogMC42OTM3NTAwMDAwMDAwMDAxLAogICJ2YWxzIjogWwogICAwLjY3NSwKICAgMC4zNzUsCiAgIDAuOTI1LAogICAwLjgKICBdCiB9LAogInVuaWZvcm18UD02NCI6IHsKICAibWVhbiI6IDAuMjg3NSwKICAidmFscyI6IFsKICAgMC4xNzUsCiAgIDAuMzUsCiAgIDAuMjUsCiAgIDAuMzc1CiAgXQogfSwKICJjbHVzdGVyZWR8UD0xMjgiOiB7CiAgIm1lYW4iOiAwLjQ2ODc1LAogICJ2YWxzIjogWwogICAwLjQyNSwKICAgMC4zNSwKICAgMC43LAogICAwLjQKICBdCiB9LAogInVuaWZvcm18UD0xMjgiOiB7CiAgIm1lYW4iOiAwLjE1LAogICJ2YWxzIjogWwogICAwLjE1LAogICAwLjE3NSwKICAgMC4wNzUsCiAgIDAuMgogIF0KIH0KfQ==
+{
+ "clustered|P=8": {
+  "mean": 0.66875,
+  "vals": [
+   0.75,
+   0.625,
+   0.725,
+   0.575
+  ]
+ },
+ "uniform|P=8": {
+  "mean": 0.7,
+  "vals": [
+   0.6,
+   0.8,
+   0.7,
+   0.7
+  ]
+ },
+ "clustered|P=16": {
+  "mean": 1.0,
+  "vals": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "uniform|P=16": {
+  "mean": 0.6625000000000001,
+  "vals": [
+   0.675,
+   0.65,
+   0.65,
+   0.675
+  ]
+ },
+ "clustered|P=32": {
+  "mean": 0.96875,
+  "vals": [
+   0.95,
+   0.95,
+   1.0,
+   0.975
+  ]
+ },
+ "uniform|P=32": {
+  "mean": 0.46249999999999997,
+  "vals": [
+   0.45,
+   0.475,
+   0.475,
+   0.45
+  ]
+ },
+ "clustered|P=64": {
+  "mean": 0.6937500000000001,
+  "vals": [
+   0.675,
+   0.375,
+   0.925,
+   0.8
+  ]
+ },
+ "uniform|P=64": {
+  "mean": 0.2875,
+  "vals": [
+   0.175,
+   0.35,
+   0.25,
+   0.375
+  ]
+ },
+ "clustered|P=128": {
+  "mean": 0.46875,
+  "vals": [
+   0.425,
+   0.35,
+   0.7,
+   0.4
+  ]
+ },
+ "uniform|P=128": {
+  "mean": 0.15,
+  "vals": [
+   0.15,
+   0.175,
+   0.075,
+   0.2
+  ]
+ }
+}

@@ -1,1 +1,77 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiQ29uZmlndXJhdGlvbiBsb2FkZXIgZm9yIENyeXB0byBDaGVja2VyIOKAlCBKU09OIGNvbmZpZyArIGRlZmF1bHRzLiIiIgoKaW1wb3J0IGpzb24KZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpCQVNFX0RJUiA9IFBhdGgoX19maWxlX18pLnBhcmVudApDT05GSUdfRklMRSA9IEJBU0VfRElSIC8gImNvbmZpZy5qc29uIgoKX0RFRkFVTFRTID0gewogICAgInByb3hpZXMiOiB7CiAgICAgICAgImVuYWJsZWQiOiBUcnVlLAogICAgICAgICJyb3RhdGlvbl9tb2RlIjogInJvdW5kLXJvYmluIiwKICAgICAgICAicHJveHlfbGlzdCI6IFtdLAogICAgICAgICJwcm94eV9maWxlIjogInByb3hpZXMudHh0IiwKICAgICAgICAidmFsaWRhdGlvbl9pbnRlcnZhbF9zZWMiOiAzMDAsCiAgICAgICAgInRpbWVvdXRfc2VjIjogMTUsCiAgICAgICAgIm1heF9yZXRyaWVzIjogMywKICAgICAgICAiZmFsbGJhY2tfdG9fZGlyZWN0IjogRmFsc2UsCiAgICB9LAogICAgInNjYW5uZXIiOiB7CiAgICAgICAgInRocmVhZHMiOiAyMCwKICAgICAgICAicmVxdWVzdF90aW1lb3V0X3NlYyI6IDMwLAogICAgICAgICJyZXRyeV9vbl9mYWlsIjogVHJ1ZSwKICAgICAgICAibWF4X3JldHJpZXMiOiAzLAogICAgICAgICJkZWxheV9iZXR3ZWVuX3JlcXVlc3RzX21zIjogMTAwLAogICAgICAgICJieXBhc3NfbW9kZSI6ICJkZWJhbmtfcHJveHkiLAogICAgfSwKICAgICJzZWVkX2NoZWNrZXIiOiB7CiAgICAgICAgInNlZWRfZmlsZSI6ICJzZWVkcy50eHQiLAogICAgICAgICJ0aHJlYWRzIjogMTAsCiAgICAgICAgImNoZWNrX2FsbF9jaGFpbnMiOiBUcnVlLAogICAgICAgICJoaWdobGlnaHRfdGhyZXNob2xkX3VzZCI6IDEwMDAwLAogICAgICAgICJvdXRwdXRfZmlsZSI6ICJzZWVkX3Jlc3VsdHMudHh0IiwKICAgIH0sCiAgICAicnBjX2VuZHBvaW50cyI6IHsKICAgICAgICAiZXRoZXJldW0iOiAiaHR0cHM6Ly9ldGgtbWFpbm5ldC5nLmFsY2hlbXkuY29tL3YyL1lPVVJfS0VZIiwKICAgICAgICAiYml0Y29pbiI6ICJodHRwczovL2Jsb2Nrc3RyZWFtLmluZm8vYXBpIiwKICAgICAgICAic29sYW5hIjogImh0dHBzOi8vYXBpLm1haW5uZXQtYmV0YS5zb2xhbmEuY29tIiwKICAgICAgICAiYnNjIjogImh0dHBzOi8vYnNjLWRhdGFzZWVkLmJpbmFuY2Uub3JnIiwKICAgICAgICAicG9seWdvbiI6ICJodHRwczovL3BvbHlnb24tcnBjLmNvbSIsCiAgICAgICAgImFyYml0cnVtIjogImh0dHBzOi8vYXJiMS5hcmJpdHJ1bS5pby9ycGMiLAogICAgfSwKICAgICJleHBvcnQiOiB7CiAgICAgICAgImRlZmF1bHRfZm9ybWF0IjogInR4dCIsCiAgICAgICAgIm91dHB1dF9kaXJlY3RvcnkiOiAiLi9yZXN1bHRzIiwKICAgICAgICAiaW5jbHVkZV91c2RfdmFsdWUiOiBUcnVlLAogICAgfSwKfQoKCmRlZiBsb2FkX2NvbmZpZygpIC0+IGRpY3Q6CiAgICAiIiJMb2FkIGNvbmZpZ3VyYXRpb24gZnJvbSBjb25maWcuanNvbiwgbWVyZ2luZyB3aXRoIGRlZmF1bHRzLiIiIgogICAgY2ZnID0gZGljdChfREVGQVVMVFMpCiAgICBpZiBDT05GSUdfRklMRS5leGlzdHMoKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggb3BlbihDT05GSUdfRklMRSwgInIiLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICAgICAgdXNlcl9jZmcgPSBqc29uLmxvYWQoZikKICAgICAgICAgICAgX2RlZXBfbWVyZ2UoY2ZnLCB1c2VyX2NmZykKICAgICAgICBleGNlcHQgKGpzb24uSlNPTkRlY29kZUVycm9yLCBPU0Vycm9yKToKICAgICAgICAgICAgcGFzcwogICAgcmV0dXJuIGNmZwoKCmRlZiBfZGVlcF9tZXJnZShiYXNlOiBkaWN0LCBvdmVycmlkZTogZGljdCk6CiAgICAiIiJSZWN1cnNpdmVseSBtZXJnZSBvdmVycmlkZSBpbnRvIGJhc2UgZGljdC4iIiIKICAgIGZvciBrZXksIHZhbHVlIGluIG92ZXJyaWRlLml0ZW1zKCk6CiAgICAgICAgaWYga2V5IGluIGJhc2UgYW5kIGlzaW5zdGFuY2UoYmFzZVtrZXldLCBkaWN0KSBhbmQgaXNpbnN0YW5jZSh2YWx1ZSwgZGljdCk6CiAgICAgICAgICAgIF9kZWVwX21lcmdlKGJhc2Vba2V5XSwgdmFsdWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYmFzZVtrZXldID0gdmFsdWUKCgpkZWYgc2F2ZV9jb25maWcoY2ZnOiBkaWN0KToKICAgICIiIlBlcnNpc3QgY29uZmlndXJhdGlvbiB0byBjb25maWcuanNvbi4iIiIKICAgIHdpdGggb3BlbihDT05GSUdfRklMRSwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChjZmcsIGYsIGluZGVudD0yLCBlbnN1cmVfYXNjaWk9RmFsc2UpCg==
+# -*- coding: utf-8 -*-
+"""Configuration loader for Crypto Checker — JSON config + defaults."""
+
+import json
+from pathlib import Path
+
+BASE_DIR = Path(__file__).parent
+CONFIG_FILE = BASE_DIR / "config.json"
+
+_DEFAULTS = {
+    "proxies": {
+        "enabled": True,
+        "rotation_mode": "round-robin",
+        "proxy_list": [],
+        "proxy_file": "proxies.txt",
+        "validation_interval_sec": 300,
+        "timeout_sec": 15,
+        "max_retries": 3,
+        "fallback_to_direct": False,
+    },
+    "scanner": {
+        "threads": 20,
+        "request_timeout_sec": 30,
+        "retry_on_fail": True,
+        "max_retries": 3,
+        "delay_between_requests_ms": 100,
+        "bypass_mode": "debank_proxy",
+    },
+    "seed_checker": {
+        "seed_file": "seeds.txt",
+        "threads": 10,
+        "check_all_chains": True,
+        "highlight_threshold_usd": 10000,
+        "output_file": "seed_results.txt",
+    },
+    "rpc_endpoints": {
+        "ethereum": "https://eth-mainnet.g.alchemy.com/v2/YOUR_KEY",
+        "bitcoin": "https://blockstream.info/api",
+        "solana": "https://api.mainnet-beta.solana.com",
+        "bsc": "https://bsc-dataseed.binance.org",
+        "polygon": "https://polygon-rpc.com",
+        "arbitrum": "https://arb1.arbitrum.io/rpc",
+    },
+    "export": {
+        "default_format": "txt",
+        "output_directory": "./results",
+        "include_usd_value": True,
+    },
+}
+
+
+def load_config() -> dict:
+    """Load configuration from config.json, merging with defaults."""
+    cfg = dict(_DEFAULTS)
+    if CONFIG_FILE.exists():
+        try:
+            with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+                user_cfg = json.load(f)
+            _deep_merge(cfg, user_cfg)
+        except (json.JSONDecodeError, OSError):
+            pass
+    return cfg
+
+
+def _deep_merge(base: dict, override: dict):
+    """Recursively merge override into base dict."""
+    for key, value in override.items():
+        if key in base and isinstance(base[key], dict) and isinstance(value, dict):
+            _deep_merge(base[key], value)
+        else:
+            base[key] = value
+
+
+def save_config(cfg: dict):
+    """Persist configuration to config.json."""
+    with open(CONFIG_FILE, "w", encoding="utf-8") as f:
+        json.dump(cfg, f, indent=2, ensure_ascii=False)

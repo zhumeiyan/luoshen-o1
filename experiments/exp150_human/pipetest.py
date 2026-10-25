@@ -1,1 +1,12 @@
-aW1wb3J0IG9zLCBqc29uLCBmY250bApyLHcgPSBvcy5waXBlKCkKZmNudGwuZmNudGwociwgZmNudGwuRl9TRVRGTCwgb3MuT19OT05CTE9DSykKZmNudGwuZmNudGwodywgZmNudGwuRl9TRVRGTCwgb3MuT19OT05CTE9DSykKb3Mud3JpdGUodywganNvbi5kdW1wcyh7ImtpbmQiOiJwbGFuIiwicGxhbiI6WyJBIiwiQiIsIkMiXX0pLmVuY29kZSgpKQpwcmludCgiYWZ0ZXIgd3JpdGUsIHJlYWQgLT4iLCBvcy5yZWFkKHIsIDQwOTYpKQp0cnk6CiAgICBvcy5yZWFkKHIsIDQwOTYpCmV4Y2VwdCBCbG9ja2luZ0lPRXJyb3I6CiAgICBwcmludCgic2Vjb25kIHJlYWQ6IEJsb2NraW5nSU9FcnJvciAoZW1wdHkpIC0+IE9LLCBwaXBlIGlzIEZJRk8gbm90IGVjaG8iKQpvcy5jbG9zZShyKTsgb3MuY2xvc2UodykKcHJpbnQoInBpcGUgd29ya3MgYXMgbWVtb3J5IGNoYW5uZWw6IHdyaXRlIG9uY2UsIHJlYWQgYmFjayBlYXJsaWVyIGNvbnRlbnQiKQo=
+import os, json, fcntl
+r,w = os.pipe()
+fcntl.fcntl(r, fcntl.F_SETFL, os.O_NONBLOCK)
+fcntl.fcntl(w, fcntl.F_SETFL, os.O_NONBLOCK)
+os.write(w, json.dumps({"kind":"plan","plan":["A","B","C"]}).encode())
+print("after write, read ->", os.read(r, 4096))
+try:
+    os.read(r, 4096)
+except BlockingIOError:
+    print("second read: BlockingIOError (empty) -> OK, pipe is FIFO not echo")
+os.close(r); os.close(w)
+print("pipe works as memory channel: write once, read back earlier content")

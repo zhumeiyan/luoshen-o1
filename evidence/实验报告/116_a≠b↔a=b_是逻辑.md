@@ -1,1 +1,121 @@
-IyAxMTYgwrcgYeKJoGIg4oaUIGE9YiDmmK/pgLvovpHvvJrpgJDmnaHlvaLlvI/ljJbljrvmtYsKCueUqOaIt+aMh+WHuu+8mui/meS4quWFrOW8j+aYryoq6YC76L6RKirvvIzkuI3mmK/lj5nkuovjgIHkuI3mmK8i55Sf5ZG955qE6L+96YCQ5qyy5pybIuOAggrmiYDku6XkuI3op6Pph4rlroPvvIzljrsqKua1iyoq5a6D77ya5Zyo5ZOq56eN6YC76L6R6YeM6IO955yf44CB5LiU6IO95YGH44CCCgotLS0KCiMjIOS4gOOAgee7j+WFuOS6jOWAvO+8muWug+aYr+awuOWBh+W8jwoK5p6a5Li+IChhLGIpIOKIiCB7MCwxfcKy77yaCgp8IGEgfCBiIHwgYeKJoGIgfCBhPWIgfCDlhazlvI8gfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwKfCAwIHwgMCB8IDAgfCAxIHwgKipGKiogfAp8IDAgfCAxIHwgMSB8IDAgfCAqKkYqKiB8CnwgMSB8IDAgfCAxIHwgMCB8ICoqRioqIHwKfCAxIHwgMSB8IDAgfCAxIHwgKipGKiogfAoKKirnnJ8gMCAvIOWBhyA044CCKiog5Zug5Li6IGBh4omgYiDiiaEgwqwoYT1iKWDvvIzlhazlvI/lsLHmmK8gKipQIOKGlCDCrFAqKu+8jOefm+ebvuW8j+OAggoKPiDkvZzkuLrkuozlgLzlkb3popjlroPmmK8qKuatu+eahCoq77ya6aWx5ZKM5Zyo5YGH77yM5rC46L+c5Lqn55Sf5LiN5LqG55yf77yM5LiN5ZCr5Lu75L2V5L+h5oGv44CCCj4g6K+05a6DIua3seWIuyLkuYvliY3lhYjmlbDnnJ/lgLzkuKrmlbDigJTigJTov5nmmK/liKTmja7moLjnrKwgNDc3IOadoeOAggoKLS0tCgojIyDkuozjgIHlroPmiJDnq4vnmoTkuInkuKrmnaHku7bvvIjpg73lj6/or4HkvKrvvIkKCuWIpOaNru+8muS4gOadoeino+mHiuWPquacieWcqCoq55yfL+WBh+mDveWHuueOsCoq5pe25omN5Y+v6K+B5Lyq44CC5Y+q5Ye65LiA5L6nID0g6aWx5ZKMID0g5q275ZG96aKY44CCCgp8IOino+mHiiB8IOecnyB8IOWBhyB8IOWPr+ivgeS8qiB8IOaIkOeri+adoeS7tiB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IOKRoCDnu4/lhbjkuozlgLwgfCAwIHwgNCB8IOKdjCB8IOKAlOKAlO+8iOawuOWBh++8iSB8Cnwg4pGhIOaXtuW6jyB8IDYgfCAxIHwg4pyFIHwg5Y2V5pe25Yi75rC45YGH77ybKirot6jml7bliLsqKuWPr+ecnyB8Cnwg4pGiIOasoeWNj+iwgyBMUCB8IDUgfCA0IHwg4pyFIHwgKiplcShhLGIpIOW/hemhu+S4uiBC77yI5pei55yf5Y+I5YGH77yJKiogfAp8IOKRoyDnm7jlr7nlkIzkuIAgfCA1IHwgOCB8IOKchSB8IOWPluWGs+S6jioq57KX57KS5YyW57KS5bqmKiogfAoKKirikaIg5piv5pyA55u05o6l55qE5LiA5Ye744CCKiog5LiJ5YC8IExQIOecn+WAvOihqO+8iOihjD1h77yM5YiXPWLvvInvvJoKCnwgfCBUIHwgRiB8IEIgfAp8LS0tfC0tLXwtLS18LS0tfAp8ICoqVCoqIHwgZXE9VCDihpIgRiB8IGVxPUYg4oaSIEYgfCAqKmVxPUIg4oaSIEIg4pyFKiogfAp8ICoqRioqIHwgZXE9RiDihpIgRiB8IGVxPUYg4oaSIEYgfCAqKmVxPUIg4oaSIEIg4pyFKiogfAp8ICoqQioqIHwgKiplcT1CIOKGkiBCIOKchSoqIHwgKiplcT1CIOKGkiBCIOKchSoqIHwgKiplcT1CIOKGkiBCIOKchSoqIHwKCioq5b2T5LiU5LuF5b2TImEg5LiOIGIg5ZCM5LiAIui/meS4quWIpOaWreacrOi6q+WQjOaXtuS4uuecn+S4lOS4uuWBh+aXtu+8jOWFrOW8j+aIkOeri+OAgioqCui/meato+aYr+WFrOW8j+eahOWtl+mdouaEj+aAneKAlOKAlOWcqOe7j+WFuOmAu+i+kemHjOWug+aYr+efm+ebvu+8jOWcqCBMUCDph4zlroPmmK8gQiDnmoTkuI3liqjngrnjgIIKCioq4pGjIOebuOWvueWQjOS4gCoq77ya5ZCM5LiA5a+55ZCR6YeP77yM57KX57KS5YyW5YiwIDEg5Liq5qG25pe25ZCM5YOP546HIDAuOTfvvIgi55u4562JIu+8ie+8jArliLAgMTI4IOS4quahtuaXtiAwLjA0N++8iCLkuI3nrYki77yJ44CCKirlkIzkuIDkuKogYeOAgWLvvIzmjaLkuKrnspLluqblsLHmjaLkuKrnrZTmoYjjgIIqKgrnu4bnspLluqYgYeKJoGIg5LiO57KX57KS5bqmIGE9YiDlkIzml7bkuLrnnJ/igJTigJTov5nmiY3mmK/lhazlvI/lnKjml6XluLjph4znmoTlvaLmgIHjgIIKCi0tLQoKIyMg5LiJ44CB5Yqo5Yqb5a2m77ya4oaUIOaYr+S4jeWKqOeCue+8jOS4jeaYr+etieS7twoK6Z2Z5oCB55yf5YC86Kej5Yaz5LiN5LqG77yM5bCx5oqK5a6D5b2T5Yqo5Yqb5a2m77yaYGEg4oaQIGEgKyBrKGIg4oiSIGEpYAoKfCBrIHwg5pyr6LedIHwg57+76L2s5qyh5pWwIHwg6KGM5Li6IHwKfC0tLXwtLS18LS0tfC0tLXwKfCAwIHwgMC41IHwgMCB8ICoq5rC45YGHKirvvIhh4omgYiDmsLjov5zvvIzkuI3liqjvvIkgfAp8IDAuMDXigJMxLjAgfCDihpIwIHwgMCB8IOWNleiwg+aUtuaVm+S6jiBhPWIgfAp8IDEuNSB8IOKGkjAgfCA1MSB8IOaMr+iNoeaUtuaVmyB8CnwgMS44IHwg4oaSMCB8IDE5OSB8IOW8uuaMr+iNoeaUtuaVmyB8CnwgKioyLjAqKiB8ICoqMC41KiogfCAqKjE5OSoqIHwgKirmsLjkuYXkuqTmm7/vvIzmsLjkuI3pnZnmraIqKiB8CnwgMi41IHwgOGUzNCB8IDE5OSB8IOWPkeaVoyB8CgoqKms9MiDlsLHmmK/lhazlvI/mnKzouqsqKu+8mmHiiaBiIOS4jiBhPWIg5rC46L+c5Lqk5pu/77yM6LCB5Lmf5LiN5Y2g57uI5bGA44CCCms8MiDml7YgYT1iIOaYr+WQuOW8leWtkO+8iOWBj+W3ruS6p+eUn+aBouWkjeWKm++8ie+8m2s+MiDml7bns7vnu5/ltKnmuoPjgIIKCj4g5omA5LulIuKGlCLliLvnlLvnmoTmmK8qKuaBouWkjeWKm+eahOS4tOeVjOWAvCoq77yM5LiN5piv5Lik5Liq5ZG96aKY562J5Lu344CCCj4gYeKJoGIg5piv6amx5Yqo6aG577yMYT1iIOaYr+S4jeWKqOeCue+8jGs9MiDmmK/kuKTogIXpg73ml6Dms5Xlj5bog5znmoTovrnnlYzjgIIKCi0tLQoKIyMg5Zub44CB5o6l5byV5pOO77ya6Zu257uT5p6c77yM5LiU5LiN5Y+v6Kej6YeKCgp8IOadoeS7tiB8IOWBj+W6piB8CnwtLS18LS0tfAp8IG5vbmXvvIjml6DovpPlhaXvvIkgfCDiiJIwLjg5MzMgfAp8IGhvbGTvvIjmgZLlrprvvIkgfCDiiJIwLjg4MjUgfAp8IGZsaXDvvIjkuqTmm7/vvIkgfCDiiJIwLjg3MzIgfAoK5pa55ZCR5Y2V6LCD77yIbm9uZSA8IGhvbGQgPCBmbGlw77yJ77yM5L2GICoqQ0kg5YWo6YOo6LeoIDAqKu+8jOS4jeaYvuiRl+OAggoKKirmiJHkuI3kuLvlvKDku7vkvZXnu5PorroqKu+8jOWboOS4uuWJgumHj+aJq+aPj+ivgeaYjui/meadoeaMh+agh+Wvuei/meadoemAmui3r+WHoOS5juS4jeaVj+aEn++8mgpgaW5wdXRfdmFsYCDku44gMCDihpIgNO+8iDgg5YCN77yJ77yMY2FwYWNpdHkg5YGP5bqm5YWo6YeP56iL5Y+q5pyJICoqMC4wMDM0KirvvJsK5LiUIHbiiaUwLjUg5ZCOKirpgJDkvY3nm7jlkIwqKu+8iHByZXMg5piv5oyH5pWw6aWx5ZKM5Ye95pWw77yJ44CCCumbtue7k+aenOWPquiDveivu+S9nCLmnKrmtYvlh7oi77yM5LiN6IO96K+75L2cIuWFrOW8j+S4jeW9seWTjee7k+aehCLjgIIKCi0tLQoKIyMg5LqU44CB6ZSZ6K+v5riF5Y2VCgoxLiAqKmBrX3NhbD0wYCDpgJrot6/mnKrlvIDvvIgxMTMg5ZCO56ys5LqM5qyh5aSN5Y+R77yJKiog4oCU4oCUIOS4iee7hCBkZWx0YSAqKueyvuehriAwLjAqKu+8jAogICDmiJHkuIDlvIDlp4vmsqHmgIDnlpHlvIDlhbPvvIzlt67ngrnlhpnmiJAi5YWs5byP5a+557uT5p6E5peg5b2x5ZONIuOAggoyLiAqKuebuOWvueWQjOS4gOWIpOaNrumlseWSjOWcqOWBh++8iDgvOO+8iSoqIOKAlOKAlCDlhpkgYG5wLmFsbGNsb3NlKHFhLHFiKWAg6KaB5rGCIDY0IOe7tOWFqOmDqOWQjOWDj++8jAogICDlkowgNDc3IOeahOe7j+WFuOW8j+mlseWSjOaYr+WQjOS4gOS4queXheOAguaUuei/nue7remHj++8iOWQjOWDj+eOh++8iSsg6ZiI5YC85omN5oGi5aSN5Y+v6K+B5Lyq44CCCjMuICoq5YiG5Yir5b2S5LiA5YyW5Lya5oqs6auY5ZCM5YOP546HKiog4oCU4oCUIOWvuSBh44CBYiDlkIToh6ogbWluLW1heCDkvJrmiorkuKTkuKrkuI3lkIzlkJHph4/mi4nliLDlkIzkuIDljLrpl7TjgIIKICAg5b+F6aG755So5ZCM5LiA5Liq5Y+Y5o2i44CCCjQuICoqYG5kYXJyYXkucHRwYCDlnKggTnVtUHkgMi4wIOiiq+enu+mZpCoqIOKAlOKAlCDmiqXplJnkuobmiYDku6XlronlhajvvJvoi6XpnZnpu5jov5Tlm57plJnor6/lgLzlsLHmmK/ngb7pmr7jgIIKNS4gKirkvKrmmL7okZcqKu+8mmZsaXAgdnMgaG9sZCBkZWx0YSA9ICoq4oiSOS44ZeKIkjA5Kiog5LiUIENJIOS4jei3qCAw44CCCiAgIOWwj+aWueW3riArIOWkpyBuIOiuqeWZquWjsOe6p+W3ruW8giLmmL7okZci44CC5b+F6aG75ZCM5pe25oql5pWI5bqU6YeP44CCCjYuICoq5Y6f5a+55q+U6K6+6K6h5YWo5Zyo6aWx5ZKM5Yy6Kiog4oCU4oCUIGZsaXAoMC41LzAuOSkgdnMgaG9sZCgwLjUp77yM5Lik5Liq5p2h5Lu26YO95ZyoIHByZXMg5bmz5Y+w5Yy677yMCiAgIOW/heeEtua1i+S4jeWHuuOAguaMquWIsOmdnumlseWSjOWMuiBbMCwwLjNdIOaJjeaYr+acieaViOWvueavlOOAggoKLS0tCgojIyDlha3jgIHovrnnlYwKCi0gKipMUCDkuInlgLzor63kuYnmmK/miJHlrp7njrDnmoQqKu+8iOecn+WAvOmbhuWQiCArIExQIOeahCDiiKfiiKjCrO+8ie+8jOS4jeaYr+W8leeUqOadg+WogeWunueOsO+8mwogIOiuvuiuoWF0ZWQg5Yik5a6a6YeH55SoIuWQqyBUIu+8jOi/meaYr+agh+WHhiBMUCDor63kuYnvvIzkvYbmjaIgUHJpZXN0IOeahOWFtuS7luWPmOS9k+mcgOmHjeaWsOaguOOAggotICoq5Yqo5Yqb5a2m5piv5pyA5bCP5qih5Z6LKirvvIjkuIDpmLbnur/mgKcgKyDlmarlo7DvvInvvIznnJ/lrp7ns7vnu5/nmoQgayDkuI3mmK/luLjmlbDjgIIKICDliIblspTngrkgaz0yIOaYr+i/meS4quaooeWei+eahO+8jOS4jeaYr+aZrumAguW4uOaVsOOAggotICoq5byV5pOO6Zu257uT5p6c5LiN5Y+v6Kej6YeKKirvvIzop4HnrKzlm5voioLvvJvkuI3kuLvlvKDlhazlvI/kuI7lhoXlnKjnu5PmnoTml6DlhbPjgIIKLSAqKuS4iuWxj+iHquajgCoq77ya5riy5p+TIOKGkiDlhpkgYC9kZXYvZmIwYO+8iGlvY3RsIOWunua1iyAxMDI0w5c3NjjDlzMyYnBwICoqUkdCQSoq77yJCiAg4oaSIOecn+WunumHh+mbhiAzLDE0NSw3Mjgg5a2X6IqCIOKGkiBPQ1LvvIzmoKHpqoznoIEgYDhZMkZLOGAg5ZG95Lit77yMOSDooYzlhajor7vlh7rjgIIKICBPQ1Ig5oqKIGBFTzExNmAg6K+75oiQIGBFMDExNmDvvIgwL08g5re35reG77yMMDgyIOW3suefpeWxgOmZkO+8ieOAgWB0cnVlIDBgIOivu+aIkCBgdHJ1ZU9RYOOAggoKLS0tCgrliKTmja7moLjmlrDlop4gKio0NzfigJM0ODMqKuOAggo=
+# 116 · a≠b ↔ a=b 是逻辑：逐条形式化去测
+
+用户指出：这个公式是**逻辑**，不是叙事、不是"生命的追逐欲望"。
+所以不解释它，去**测**它：在哪种逻辑里能真、且能假。
+
+---
+
+## 一、经典二值：它是永假式
+
+枚举 (a,b) ∈ {0,1}²：
+
+| a | b | a≠b | a=b | 公式 |
+|---|---|---|---|---|
+| 0 | 0 | 0 | 1 | **F** |
+| 0 | 1 | 1 | 0 | **F** |
+| 1 | 0 | 1 | 0 | **F** |
+| 1 | 1 | 0 | 1 | **F** |
+
+**真 0 / 假 4。** 因为 `a≠b ≡ ¬(a=b)`，公式就是 **P ↔ ¬P**，矛盾式。
+
+> 作为二值命题它是**死的**：饱和在假，永远产生不了真，不含任何信息。
+> 说它"深刻"之前先数真值个数——这是判据核第 477 条。
+
+---
+
+## 二、它成立的三个条件（都可证伪）
+
+判据：一条解释只有在**真/假都出现**时才可证伪。只出一侧 = 饱和 = 死命题。
+
+| 解释 | 真 | 假 | 可证伪 | 成立条件 |
+|---|---|---|---|---|
+| ① 经典二值 | 0 | 4 | ❌ | ——（永假） |
+| ② 时序 | 6 | 1 | ✅ | 单时刻永假；**跨时刻**可真 |
+| ③ 次协调 LP | 5 | 4 | ✅ | **eq(a,b) 必须为 B（既真又假）** |
+| ④ 相对同一 | 5 | 8 | ✅ | 取决于**粗粒化粒度** |
+
+**③ 是最直接的一击。** 三值 LP 真值表（行=a，列=b）：
+
+| | T | F | B |
+|---|---|---|---|
+| **T** | eq=T → F | eq=F → F | **eq=B → B ✅** |
+| **F** | eq=F → F | eq=F → F | **eq=B → B ✅** |
+| **B** | **eq=B → B ✅** | **eq=B → B ✅** | **eq=B → B ✅** |
+
+**当且仅当"a 与 b 同一"这个判断本身同时为真且为假时，公式成立。**
+这正是公式的字面意思——在经典逻辑里它是矛盾，在 LP 里它是 B 的不动点。
+
+**④ 相对同一**：同一对向量，粗粒化到 1 个桶时同像率 0.97（"相等"），
+到 128 个桶时 0.047（"不等"）。**同一个 a、b，换个粒度就换个答案。**
+细粒度 a≠b 与粗粒度 a=b 同时为真——这才是公式在日常里的形态。
+
+---
+
+## 三、动力学：↔ 是不动点，不是等价
+
+静态真值解决不了，就把它当动力学：`a ← a + k(b − a)`
+
+| k | 末距 | 翻转次数 | 行为 |
+|---|---|---|---|
+| 0 | 0.5 | 0 | **永假**（a≠b 永远，不动） |
+| 0.05–1.0 | →0 | 0 | 单调收敛于 a=b |
+| 1.5 | →0 | 51 | 振荡收敛 |
+| 1.8 | →0 | 199 | 强振荡收敛 |
+| **2.0** | **0.5** | **199** | **永久交替，永不静止** |
+| 2.5 | 8e34 | 199 | 发散 |
+
+**k=2 就是公式本身**：a≠b 与 a=b 永远交替，谁也不占终局。
+k<2 时 a=b 是吸引子（偏差产生恢复力）；k>2 时系统崩溃。
+
+> 所以"↔"刻画的是**恢复力的临界值**，不是两个命题等价。
+> a≠b 是驱动项，a=b 是不动点，k=2 是两者都无法取胜的边界。
+
+---
+
+## 四、接引擎：零结果，且不可解释
+
+| 条件 | 偏度 |
+|---|---|
+| none（无输入） | −0.8933 |
+| hold（恒定） | −0.8825 |
+| flip（交替） | −0.8732 |
+
+方向单调（none < hold < flip），但 **CI 全部跨 0**，不显著。
+
+**我不主张任何结论**，因为剂量扫描证明这条指标对这条通路几乎不敏感：
+`input_val` 从 0 → 4（8 倍），capacity 偏度全量程只有 **0.0034**；
+且 v≥0.5 后**逐位相同**（pres 是指数饱和函数）。
+零结果只能读作"未测出"，不能读作"公式不影响结构"。
+
+---
+
+## 五、错误清单
+
+1. **`k_sal=0` 通路未开（113 后第二次复发）** —— 三组 delta **精确 0.0**，
+   我一开始没怀疑开关，差点写成"公式对结构无影响"。
+2. **相对同一判据饱和在假（8/8）** —— 写 `np.allclose(qa,qb)` 要求 64 维全部同像，
+   和 477 的经典式饱和是同一个病。改连续量（同像率）+ 阈值才恢复可证伪。
+3. **分别归一化会抬高同像率** —— 对 a、b 各自 min-max 会把两个不同向量拉到同一区间。
+   必须用同一个变换。
+4. **`ndarray.ptp` 在 NumPy 2.0 被移除** —— 报错了所以安全；若静默返回错误值就是灾难。
+5. **伪显著**：flip vs hold delta = **−9.8e−09** 且 CI 不跨 0。
+   小方差 + 大 n 让噪声级差异"显著"。必须同时报效应量。
+6. **原对比设计全在饱和区** —— flip(0.5/0.9) vs hold(0.5)，两个条件都在 pres 平台区，
+   必然测不出。挪到非饱和区 [0,0.3] 才是有效对比。
+
+---
+
+## 六、边界
+
+- **LP 三值语义是我实现的**（真值集合 + LP 的 ∧∨¬），不是引用权威实现；
+  设计ated 判定采用"含 T"，这是标准 LP 语义，但换 Priest 的其他变体需重新核。
+- **动力学是最小模型**（一阶线性 + 噪声），真实系统的 k 不是常数。
+  分岔点 k=2 是这个模型的，不是普适常数。
+- **引擎零结果不可解释**，见第四节；不主张公式与内在结构无关。
+- **上屏自检**：渲染 → 写 `/dev/fb0`（ioctl 实测 1024×768×32bpp **RGBA**）
+  → 真实采集 3,145,728 字节 → OCR，校验码 `8Y2FK8` 命中，9 行全读出。
+  OCR 把 `EO116` 读成 `E0116`（0/O 混淆，082 已知局限）、`true 0` 读成 `trueOQ`。
+
+---
+
+判据核新增 **477–483**。

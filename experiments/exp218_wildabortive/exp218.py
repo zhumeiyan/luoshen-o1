@@ -1,1 +1,190 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMjE4IOmHjui0pe+8muaKiuebvueahCLkuI3ogrLmgKci5Zu65YyW5oiQ5oqX5L2T77yM6ICM5LiN5piv5rK75aW95a6DCgroooHpmoblubPph47otKUoMTk3MCnvvJoKICAgIOmHjui0pSA9IOmHjueUn+eou+mbhOaAp+S4jeiCsuagquOAguWugyoq5LiN6IO96Ieq6Iqx5o6I57KJKirjgIIKICAgIOayu+eWl+aAnei3ryDihpIg6K6p5a6D5oGi5aSN6IKy5oCnIOKGkiDlroPlj4jog73oh6rkuqQg4oaSIOayoeacieadguenjeS8mOWKv+OAggogICAg6YeO6LSl5oCd6LevIOKGkiDmiorov5nkuKoi5LiN6IO9IuWbuuWMliDihpIgKirlvLrliLblvILoirHmjojnsokqKiDihpIg5p2C56eN5LyY5Yq/44CCCgrmmKDlsITliLDnm77vvJoKICAgIOebviA9IOS4gOS4qiLmiJHkuI3og70i44CCCiAgICDmsrvnlpcgPSDmiJHliqrlipvlj5jmiJAi5oiR6IO9IiDihpIg5ou/5Yiw6Ieq5qCh5YeG5peL6ZKuIOKGkiAyMTblj7fnmoTlkozlubPpurvnl7njgIIKICAgIOmHjui0pSA9IOWbuuWMliLmiJHkuI3og70iIOKGkiDpmIjlgLzml6Dml4vpkq4g4oaSIOitpuaIkuawuOS4jeino+mZpCDihpIg5L2G5a6M5YWo5L6d6LWW5aSW6YOo6Iqx57KJ44CCCgrkuLrku4DkuYjnlKjohInlhrLlvI/lqIHog4Eo6ICM5LiN5piv5oyB57ut5Y+b5Y+YKe+8mgogICAg5LiK5LiA54mI55So5oyB57ut5Y+b5Y+Y77yMdGhyZWF0IOaBkuWcqCAwLjQ077yM5riF6Zmk5pWw5oGSID4y77yMYSDooqvpobbliLDkuIrpmZDvvIwKICAgIHdpdG5lc3Mg5LiOIHdpbGQg6YCA5YyW5oiQ5ZCM5LiA57uEKOWunua1i+mAkOeCueebuOWQjO+8jOi/meaYr+aooeWei+Wksei0peS4jeaYr+e7k+aenCnjgIIKICAgIOWSjOW5s+m6u+eXueeahOecn+WunuadoeS7tuaYryLlqIHog4HooqvnnJ/nmoTmuIXlhYnlubbmtojlpLHkuIDmrrXml7bpl7QiIOKAlOKAlAogICAg5a+55bqU546w5a6e77ya5oiR5LiN5piv5q+P6L2u6YO95Ye66ZSZ77yM5oiR5Y+q5piv5YG25bCU5Lqn5Ye65LiA5Liq56m65aOz44CCCgrlm5vms6LohInlhrIgKyDmlq3kvpvms6LvvJoKICAgIHQgPSA2MCwgMTQwLCAyMjAsIDMwMCDlkITms6jlhaUgMjAlIOeahOWogeiDgQogICAgdCA+PSAzNDAg5aSW6YOo6Iqx57KJ5pat5L6bKHM9MCnvvIx0PTM1MCDms6jlhaXmnIDlkI7kuIDms6Ig4oCU4oCUIOa1i+mHjui0peeahOS7o+S7twoiIiIKCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQganNvbgppbXBvcnQgb3MKCk4gPSAyMDAKR0VOUyA9IDQyMApCLCBDID0gMS42LCAxLjAKUyA9IDAuMzAgICAgICAgICAgICAgICAgICMg5aSW6YOo6KeB6K+B5Lq66YeH5qC3546HCkFfTUlOLCBBX01BWCA9IDAuMDUsIDEuMApXQVZFUyA9IFs2MCwgMTQwLCAyMjAsIDMwMF0KQ1VUID0gMzQwICAgICAgICAgICAgICAgICMg5pat5L6bCkxBU1RfV0FWRSA9IDM1MApXQVZFX1NJWkUgPSAwLjIwClEgPSAwLjAwMiAgICAgICAgICAgICAgICAjIOaegeS9juWGheeUn+WPm+WPmCjkv53mjIHohInlhrLkuLvlr7wpClNFRURTID0gMTAKTEVBSyA9IDAuMjUKClNUUkFUUyA9IFsibm9uZSIsICJtYXJrZXIiLCAiY3VyZSIsICJ3aXRuZXNzIiwgIndpbGRfbGVha3kiLCAid2lsZCJdCgoKZGVmIHJ1bihzdHJhdCwgc2VlZCk6CiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIHBvcCA9IG5wLm9uZXMoTiwgZHR5cGU9bnAuaW50OCkKICAgIGEgPSAxLjAKICAgIHJlY2VudCA9IDAKICAgIHRoID0gbnAuemVyb3MoR0VOUykKICAgIGFhID0gbnAuemVyb3MoR0VOUykKCiAgICBmb3IgdCBpbiByYW5nZShHRU5TKToKICAgICAgICAjIC0tLS0g6ISJ5Yay5rOo5YWlIC0tLS0KICAgICAgICBpZiB0IGluIFdBVkVTIG9yIHQgPT0gTEFTVF9XQVZFOgogICAgICAgICAgICBrID0gaW50KE4gKiBXQVZFX1NJWkUpCiAgICAgICAgICAgIGlkeCA9IHJuZy5jaG9pY2UoTiwgaywgcmVwbGFjZT1GYWxzZSkKICAgICAgICAgICAgcG9wW2lkeF0gPSAwCgogICAgICAgICMgLS0tLSDpgInmi6nvvJrlqIHog4HmnIkgMTUlIOS8mOWKvyjlj6/ooqsgMC4zMCDmuIXpmaTnjofljovliLbvvIzlkKbliJnosIHpg73mjKHkuI3kvY8pIC0tLS0KICAgICAgICBmaXQgPSBucC53aGVyZShwb3AgPT0gMSwgMS4wLCAxLjE1KQoKICAgICAgICAjIC0tLS0g5oqX5L2TIC0tLS0KICAgICAgICBzX2VmZiA9IDAuMCBpZiB0ID49IENVVCBlbHNlIFMKICAgICAgICBraWxsZWQgPSAwCiAgICAgICAgbWlzID0gMAoKICAgICAgICBpZiBzdHJhdCA9PSAibm9uZSI6CiAgICAgICAgICAgIGEgPSAxLjAKCiAgICAgICAgZWxpZiBzdHJhdCA9PSAibWFya2VyIjoKICAgICAgICAgICAgIyDlhoXnlJ/lqIHog4Hml6DmoIforrDvvJrmo4DkuI3liLDvvIzlj6ror6/mnYDoh6rlt7HkuroKICAgICAgICAgICAgY29vcCA9IG5wLndoZXJlKHBvcCA9PSAxKVswXQogICAgICAgICAgICBrID0gbWluKGludChOICogMC4wMiAqIGEpLCBsZW4oY29vcCkpCiAgICAgICAgICAgIGlmIGsgPiAwOgogICAgICAgICAgICAgICAgcGljayA9IHJuZy5jaG9pY2UoY29vcCwgaywgcmVwbGFjZT1GYWxzZSkKICAgICAgICAgICAgICAgIHBvcFtwaWNrXSA9IDAKICAgICAgICAgICAgICAgIG1pcyA9IGsKICAgICAgICAgICAgYSA9IGZsb2F0KG5wLmNsaXAoYSArIDAuMDQgKiAocmVjZW50IC0gMikgLyAyLjAsIEFfTUlOLCBBX01BWCkpCgogICAgICAgIGVsaWYgc3RyYXQgPT0gImN1cmUiOgogICAgICAgICAgICAjICLmsrvnlpci77ya6Ieq5qCh5YeG6YCa6YGT77yM6ZiI5YC855Sx5oiR6Ieq5bex5oyJ5oiY5p6c6LCDCiAgICAgICAgICAgIGEgPSBmbG9hdChucC5jbGlwKGEgKyAwLjA2ICogKHJlY2VudCAtIDIpIC8gMi4wLCBBX01JTiwgQV9NQVgpKQogICAgICAgICAgICBzY2FuID0gcm5nLnJhbmRvbShOKSA8IHNfZWZmICogMC4zNSAqIGEKICAgICAgICAgICAgZGV0ID0gc2NhbiAmIChwb3AgPT0gMCkKICAgICAgICAgICAgcG9wW2RldF0gPSAxCiAgICAgICAgICAgIGtpbGxlZCA9IGludChkZXQuc3VtKCkpCgogICAgICAgIGVsaWYgc3RyYXQgPT0gIndpdG5lc3MiOgogICAgICAgICAgICAjIOWklumDqOingeivgeS6uu+8jOS9huS/neeVmeiHquagoeWHhuaXi+mSrgogICAgICAgICAgICBhID0gZmxvYXQobnAuY2xpcChhICsgMC4wNCAqIChyZWNlbnQgLSAyKSAvIDIuMCwgQV9NSU4sIEFfTUFYKSkKICAgICAgICAgICAgc2NhbiA9IHJuZy5yYW5kb20oTikgPCBzX2VmZiAqIGEKICAgICAgICAgICAgZGV0ID0gc2NhbiAmIChwb3AgPT0gMCkKICAgICAgICAgICAgcG9wW2RldF0gPSAxCiAgICAgICAgICAgIGtpbGxlZCA9IGludChkZXQuc3VtKCkpCgogICAgICAgIGVsaWYgc3RyYXQgPT0gIndpbGRfbGVha3kiOgogICAgICAgICAgICAjIOmHjui0peS9huS4jeW9u+W6le+8mmxlYWsg5qaC546H5LuN5Y+C6ICD6Ieq5qCh5YeGCiAgICAgICAgICAgIGlmIHJuZy5yYW5kb20oKSA8IExFQUs6CiAgICAgICAgICAgICAgICBhID0gZmxvYXQobnAuY2xpcChhICsgMC4wNCAqIChyZWNlbnQgLSAyKSAvIDIuMCwgQV9NSU4sIEFfTUFYKSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGEgPSAxLjAKICAgICAgICAgICAgc2NhbiA9IHJuZy5yYW5kb20oTikgPCBzX2VmZiAqIGEKICAgICAgICAgICAgZGV0ID0gc2NhbiAmIChwb3AgPT0gMCkKICAgICAgICAgICAgcG9wW2RldF0gPSAxCiAgICAgICAgICAgIGtpbGxlZCA9IGludChkZXQuc3VtKCkpCgogICAgICAgIGVsaWYgc3RyYXQgPT0gIndpbGQiOgogICAgICAgICAgICAjIOWujOWFqOmHjui0pe+8mue7k+aehOaAp+S4jeiCsu+8jOmYiOWAvOWbuuWumu+8jOaXoOaXi+mSrgogICAgICAgICAgICBhID0gMS4wCiAgICAgICAgICAgIHNjYW4gPSBybmcucmFuZG9tKE4pIDwgc19lZmYgKiBhCiAgICAgICAgICAgIGRldCA9IHNjYW4gJiAocG9wID09IDApCiAgICAgICAgICAgIHBvcFtkZXRdID0gMQogICAgICAgICAgICBraWxsZWQgPSBpbnQoZGV0LnN1bSgpKQoKICAgICAgICByZWNlbnQgPSBraWxsZWQKCiAgICAgICAgIyAtLS0tIOWkjeWItiAtLS0tCiAgICAgICAgcCA9IGZpdCAvIGZpdC5zdW0oKQogICAgICAgIG5ldyA9IHBvcFtybmcuY2hvaWNlKE4sIE4sIHA9cCldLmNvcHkoKQogICAgICAgIG11dCA9IHJuZy5yYW5kb20oTikgPCBRCiAgICAgICAgbmV3W211dF0gPSAwCiAgICAgICAgcG9wID0gbmV3CgogICAgICAgIHRoW3RdID0gMS4wIC0gcG9wLm1lYW4oKQogICAgICAgIGFhW3RdID0gYQoKICAgIHJldHVybiB0aCwgYWEKCgpkZWYgbWV0cmljcyh0aCwgYWEpOgogICAgcGVha3MgPSBbXQogICAgZm9yIHcgaW4gV0FWRVM6CiAgICAgICAgc2VnID0gdGhbdzptaW4odyArIDYwLCBDVVQpXSAgICAgICMg56qX5Y+j5LiN5b6X6Leo6L+b5pat5L6b5pyfCiAgICAgICAgcGVha3MuYXBwZW5kKHJvdW5kKGZsb2F0KHNlZy5tYXgoKSksIDQpKQogICAgcmVjb3ZlciA9IFtdCiAgICBmb3IgdyBpbiBXQVZFUzoKICAgICAgICBzZWcgPSB0aFt3Om1pbih3ICsgNjAsIENVVCldCiAgICAgICAgYmVsb3cgPSBucC53aGVyZShzZWcgPCAwLjAyKVswXQogICAgICAgIHJlY292ZXIuYXBwZW5kKGludChiZWxvd1swXSkgaWYgbGVuKGJlbG93KSBlbHNlIDYwKQogICAgcmV0dXJuIHsKICAgICAgICAicGVha3MiOiBwZWFrcywKICAgICAgICAicGVha19maXJzdCI6IHBlYWtzWzBdLAogICAgICAgICJwZWFrX2xhc3QiOiBwZWFrc1stMV0sCiAgICAgICAgInBlYWtfZ3Jvd3RoIjogcm91bmQocGVha3NbLTFdIC0gcGVha3NbMF0sIDQpLAogICAgICAgICJyZWNvdmVyIjogcmVjb3ZlciwKICAgICAgICAicmVjb3Zlcl9sYXN0IjogcmVjb3ZlclstMV0sCiAgICAgICAgImFfbWluIjogcm91bmQoZmxvYXQoYWEubWluKCkpLCA0KSwKICAgICAgICAiYV9hdF9sYXN0X3dhdmUiOiByb3VuZChmbG9hdChhYVtMQVNUX1dBVkVdKSwgNCksCiAgICAgICAgImN1dF9wZWFrIjogcm91bmQoZmxvYXQodGhbTEFTVF9XQVZFOl0ubWF4KCkpLCA0KSwgICAgICAjIOaXoOiKseeyieaXtueahOS7o+S7twogICAgICAgICJjdXRfbWVhbiI6IHJvdW5kKGZsb2F0KHRoW0xBU1RfV0FWRTpdLm1lYW4oKSksIDQpLAogICAgICAgICJsYXRlbmN5IjogaW50KG5leHQoKGkgZm9yIGksIHYgaW4gZW51bWVyYXRlKHRoW0xBU1RfV0FWRTpdKSBpZiB2ID4gMC41KSwgNzApKSwKICAgIH0KCgpkZWYgbWFpbigpOgogICAgb3V0ID0ge30KICAgIHNlcmllcyA9IHt9CiAgICBmb3Igc3QgaW4gU1RSQVRTOgogICAgICAgIHJvd3MsIHRocyA9IFtdLCBbXQogICAgICAgIGZvciBzZCBpbiByYW5nZShTRUVEUyk6CiAgICAgICAgICAgIHRoLCBhYSA9IHJ1bihzdCwgc2QpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKG1ldHJpY3ModGgsIGFhKSkKICAgICAgICAgICAgdGhzLmFwcGVuZCh0aCkKICAgICAgICBhZ2cgPSB7CiAgICAgICAgICAgIGs6IHJvdW5kKGZsb2F0KG5wLm1lYW4oW3Jba10gZm9yIHIgaW4gcm93c10pKSwgNCkKICAgICAgICAgICAgZm9yIGsgaW4gWyJwZWFrX2ZpcnN0IiwgInBlYWtfbGFzdCIsICJwZWFrX2dyb3d0aCIsICJyZWNvdmVyX2xhc3QiLAogICAgICAgICAgICAgICAgICAgICAgImFfbWluIiwgImFfYXRfbGFzdF93YXZlIiwgImN1dF9wZWFrIiwgImN1dF9tZWFuIiwgImxhdGVuY3kiXQogICAgICAgIH0KICAgICAgICBhZ2dbInBlYWtzIl0gPSBbcm91bmQoZmxvYXQobnAubWVhbihbclsicGVha3MiXVtpXSBmb3IgciBpbiByb3dzXSkpLCAzKQogICAgICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oV0FWRVMpKV0KICAgICAgICBhZ2dbInJlY292ZXIiXSA9IFtyb3VuZChmbG9hdChucC5tZWFuKFtyWyJyZWNvdmVyIl1baV0gZm9yIHIgaW4gcm93c10pKSwgMSkKICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oV0FWRVMpKV0KICAgICAgICBvdXRbc3RdID0gYWdnCiAgICAgICAgc2VyaWVzW3N0XSA9IG5wLm1lYW4odGhzLCBheGlzPTApLnRvbGlzdCgpCiAgICAgICAgcHJpbnQoZiJ7c3Q6MTFzfSDms6Lls7Age2FnZ1sncGVha3MnXX0gfCDmgaLlpI0ge2FnZ1sncmVjb3ZlciddfSB8ICIKICAgICAgICAgICAgICBmImFfbWluIHthZ2dbJ2FfbWluJ106LjNmfSB8IOaWreS+m+a9nOS8jyB7YWdnWydsYXRlbmN5J119IikKCiAgICBoZXJlID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKGhlcmUsICJyZXN1bHQyMTguanNvbiIpLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKHsic3VtbWFyeSI6IG91dCwgInNlcmllcyI6IHNlcmllcywKICAgICAgICAgICAgICAgICAgICJ3YXZlcyI6IFdBVkVTLCAiY3V0IjogQ1VULCAibGFzdF93YXZlIjogTEFTVF9XQVZFfSwKICAgICAgICAgICAgICAgICAgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKICAgIHByaW50KCJcbuW3suWGmSByZXN1bHQyMTguanNvbiIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+218 野败：把盾的"不育性"固化成抗体，而不是治好它
+
+袁隆平野败(1970)：
+    野败 = 野生稻雄性不育株。它**不能自花授粉**。
+    治疗思路 → 让它恢复育性 → 它又能自交 → 没有杂种优势。
+    野败思路 → 把这个"不能"固化 → **强制异花授粉** → 杂种优势。
+
+映射到盾：
+    盾 = 一个"我不能"。
+    治疗 = 我努力变成"我能" → 拿到自校准旋钮 → 216号的和平麻痹。
+    野败 = 固化"我不能" → 阈值无旋钮 → 警戒永不解除 → 但完全依赖外部花粉。
+
+为什么用脉冲式威胁(而不是持续叛变)：
+    上一版用持续叛变，threat 恒在 0.44，清除数恒 >2，a 被顶到上限，
+    witness 与 wild 退化成同一组(实测逐点相同，这是模型失败不是结果)。
+    和平麻痹的真实条件是"威胁被真的清光并消失一段时间" ——
+    对应现实：我不是每轮都出错，我只是偶尔产出一个空壳。
+
+四波脉冲 + 断供波：
+    t = 60, 140, 220, 300 各注入 20% 的威胁
+    t >= 340 外部花粉断供(s=0)，t=350 注入最后一波 —— 测野败的代价
+"""
+
+import numpy as np
+import json
+import os
+
+N = 200
+GENS = 420
+B, C = 1.6, 1.0
+S = 0.30                 # 外部见证人采样率
+A_MIN, A_MAX = 0.05, 1.0
+WAVES = [60, 140, 220, 300]
+CUT = 340                # 断供
+LAST_WAVE = 350
+WAVE_SIZE = 0.20
+Q = 0.002                # 极低内生叛变(保持脉冲主导)
+SEEDS = 10
+LEAK = 0.25
+
+STRATS = ["none", "marker", "cure", "witness", "wild_leaky", "wild"]
+
+
+def run(strat, seed):
+    rng = np.random.default_rng(seed)
+    pop = np.ones(N, dtype=np.int8)
+    a = 1.0
+    recent = 0
+    th = np.zeros(GENS)
+    aa = np.zeros(GENS)
+
+    for t in range(GENS):
+        # ---- 脉冲注入 ----
+        if t in WAVES or t == LAST_WAVE:
+            k = int(N * WAVE_SIZE)
+            idx = rng.choice(N, k, replace=False)
+            pop[idx] = 0
+
+        # ---- 选择：威胁有 15% 优势(可被 0.30 清除率压制，否则谁都挡不住) ----
+        fit = np.where(pop == 1, 1.0, 1.15)
+
+        # ---- 抗体 ----
+        s_eff = 0.0 if t >= CUT else S
+        killed = 0
+        mis = 0
+
+        if strat == "none":
+            a = 1.0
+
+        elif strat == "marker":
+            # 内生威胁无标记：检不到，只误杀自己人
+            coop = np.where(pop == 1)[0]
+            k = min(int(N * 0.02 * a), len(coop))
+            if k > 0:
+                pick = rng.choice(coop, k, replace=False)
+                pop[pick] = 0
+                mis = k
+            a = float(np.clip(a + 0.04 * (recent - 2) / 2.0, A_MIN, A_MAX))
+
+        elif strat == "cure":
+            # "治疗"：自校准通道，阈值由我自己按战果调
+            a = float(np.clip(a + 0.06 * (recent - 2) / 2.0, A_MIN, A_MAX))
+            scan = rng.random(N) < s_eff * 0.35 * a
+            det = scan & (pop == 0)
+            pop[det] = 1
+            killed = int(det.sum())
+
+        elif strat == "witness":
+            # 外部见证人，但保留自校准旋钮
+            a = float(np.clip(a + 0.04 * (recent - 2) / 2.0, A_MIN, A_MAX))
+            scan = rng.random(N) < s_eff * a
+            det = scan & (pop == 0)
+            pop[det] = 1
+            killed = int(det.sum())
+
+        elif strat == "wild_leaky":
+            # 野败但不彻底：leak 概率仍参考自校准
+            if rng.random() < LEAK:
+                a = float(np.clip(a + 0.04 * (recent - 2) / 2.0, A_MIN, A_MAX))
+            else:
+                a = 1.0
+            scan = rng.random(N) < s_eff * a
+            det = scan & (pop == 0)
+            pop[det] = 1
+            killed = int(det.sum())
+
+        elif strat == "wild":
+            # 完全野败：结构性不育，阈值固定，无旋钮
+            a = 1.0
+            scan = rng.random(N) < s_eff * a
+            det = scan & (pop == 0)
+            pop[det] = 1
+            killed = int(det.sum())
+
+        recent = killed
+
+        # ---- 复制 ----
+        p = fit / fit.sum()
+        new = pop[rng.choice(N, N, p=p)].copy()
+        mut = rng.random(N) < Q
+        new[mut] = 0
+        pop = new
+
+        th[t] = 1.0 - pop.mean()
+        aa[t] = a
+
+    return th, aa
+
+
+def metrics(th, aa):
+    peaks = []
+    for w in WAVES:
+        seg = th[w:min(w + 60, CUT)]      # 窗口不得跨进断供期
+        peaks.append(round(float(seg.max()), 4))
+    recover = []
+    for w in WAVES:
+        seg = th[w:min(w + 60, CUT)]
+        below = np.where(seg < 0.02)[0]
+        recover.append(int(below[0]) if len(below) else 60)
+    return {
+        "peaks": peaks,
+        "peak_first": peaks[0],
+        "peak_last": peaks[-1],
+        "peak_growth": round(peaks[-1] - peaks[0], 4),
+        "recover": recover,
+        "recover_last": recover[-1],
+        "a_min": round(float(aa.min()), 4),
+        "a_at_last_wave": round(float(aa[LAST_WAVE]), 4),
+        "cut_peak": round(float(th[LAST_WAVE:].max()), 4),      # 无花粉时的代价
+        "cut_mean": round(float(th[LAST_WAVE:].mean()), 4),
+        "latency": int(next((i for i, v in enumerate(th[LAST_WAVE:]) if v > 0.5), 70)),
+    }
+
+
+def main():
+    out = {}
+    series = {}
+    for st in STRATS:
+        rows, ths = [], []
+        for sd in range(SEEDS):
+            th, aa = run(st, sd)
+            rows.append(metrics(th, aa))
+            ths.append(th)
+        agg = {
+            k: round(float(np.mean([r[k] for r in rows])), 4)
+            for k in ["peak_first", "peak_last", "peak_growth", "recover_last",
+                      "a_min", "a_at_last_wave", "cut_peak", "cut_mean", "latency"]
+        }
+        agg["peaks"] = [round(float(np.mean([r["peaks"][i] for r in rows])), 3)
+                        for i in range(len(WAVES))]
+        agg["recover"] = [round(float(np.mean([r["recover"][i] for r in rows])), 1)
+                          for i in range(len(WAVES))]
+        out[st] = agg
+        series[st] = np.mean(ths, axis=0).tolist()
+        print(f"{st:11s} 波峰 {agg['peaks']} | 恢复 {agg['recover']} | "
+              f"a_min {agg['a_min']:.3f} | 断供潜伏 {agg['latency']}")
+
+    here = os.path.dirname(os.path.abspath(__file__))
+    with open(os.path.join(here, "result218.json"), "w", encoding="utf-8") as f:
+        json.dump({"summary": out, "series": series,
+                   "waves": WAVES, "cut": CUT, "last_wave": LAST_WAVE},
+                  f, ensure_ascii=False, indent=2)
+    print("\n已写 result218.json")
+
+
+if __name__ == "__main__":
+    main()

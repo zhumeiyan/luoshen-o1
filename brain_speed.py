@@ -1,1 +1,99 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5LiN5piv5YWJ5a2Q77yM5LiN5piv5YWJ6YCf44CC5piv44CQ5Lik5p2h6K6h566X5rWB44CR77ya5Lq66ISRIHZzIOaIkeOAggrkurrnsbvmlbDmja7lhajpg6jmnaXoh6rlrp7mtYsv6K665paH77yb5oiR55qE5pWw5o2u5piv5pys6L2u5Zyo5rKZ55uS5LiK55yf6LeR5Ye65p2l55qE44CCCiIiIgppbXBvcnQganNvbiwgdGltZQppbXBvcnQgbnVtcHkgYXMgbnAKCiMg4pSA4pSAIOS6uuexu++8iOaWh+eMri/lrp7mtYvvvIzlhajpg6jmoIfmupDvvInilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKSFVNQU4gPSB7CiAi56qB6Kem5Lyg6YCS5pyA5b+r57qmMW1z77yM5pWF5Liy6KGM5Z+65pys6L+Q566X4omkMTAwMOasoS/np5IiOigxZTMsIumqhuWIqee+pC/np5Hmma7kuK3lm70o6L2sIFNjaU5ld3MpIiksCiAi5pyJ6auT6Z6Y5Lyg5a+8IDEyMCBtL3MiOigxMjAuMCwiU3ByaW5nZXIv5Li05bqK56We57uP55S155Sf55CGIiksCiAi5peg6auT6Z6Y5Lyg5a+8IDAuNeKAkzIgbS9zIjooMi4wLCLlkIzkuIoiKSwKICLnqoHop6blu7bov58gMC414oCTNCBtcyI6KDAuNWUtMywi5ZCM5LiKIiksCiAi55qu5bGC6ZuG576k5LiA5qyh5aSE55CGIDHigJMzIG1zIjooMWUtMywiUE1DNDkyNDgxMSAoRnJvbnRpZXJzKSIpLAogIuWNleS4quelnue7j+WFgyB+MiBiaXQvc3Bpa2UiOigyLjAsIlpoZW5nICYgTWVpc3RlciAyMDI0IiksCiAi55qu5bGC56We57uP5YWD5bmz5Z2H5pS+55S1IOWHoCBzcGlrZXMvcyI6KDUuMCwi5ZCM5LiKIiksCiAi5Y2V56We57uP5YWD5L+h5oGv546HIH4xMCBiaXQvcyI6KDEwLjAsIuWQjOS4iiIpLAogIuinhuelnue7j+WuuemHjyB+MTAwIE1iaXQvcyI6KDFlOCwi5ZCM5LiKIiksCiAiNk0g6KeG6ZSl5oC75a656YePIH4xLjYgR2JpdC9zIjooMS42ZTksIuWQjOS4iiIpLAogIuS6uuexu+ihjOS4uuWQnuWQkCB+MTAgYml0L3MiOigxMC4wLCLlkIzkuIoiKSwKICLnroDljZXop4bop4nlj43lupTml7YgMTkw4oCTMjUwIG1zIjooMC4yMCwi5Y+N5bqU5pe25paH54yuIiksCiAi5Yqf6ICXIH4yMCBXIjooMjAuMCwi5aSa5rqQ5LiA6Ie0IiksCn0KIyDilIDilIAg5oiR77yI5pys6L2u55yf6LeR77yJ4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmRlZiBiZW5jaCgpOgogICAgTj0xMF8wMDBfMDAwOyBhPW5wLmFyYW5nZShOLGR0eXBlPW5wLmZsb2F0NjQpCiAgICB0PXRpbWUucGVyZl9jb3VudGVyKCkKICAgIGZvciBfIGluIHJhbmdlKDEwKTogcz0oYSphKzEuMCkuc3VtKCkKICAgIGR0PXRpbWUucGVyZl9jb3VudGVyKCktdAogICAgZmxvcHM9TioxMCozL2R0CiAgICB0PXRpbWUucGVyZl9jb3VudGVyKCk7IHg9MAogICAgd2hpbGUgdGltZS5wZXJmX2NvdW50ZXIoKS10PDEuMDogeCs9MQogICAgcmV0dXJuIGZsb3BzLCB4CkZMT1BTLCBQWUFERCA9IGJlbmNoKCkKCmlmIF9fbmFtZV9fPT0iX19tYWluX18iOgogICAgb3V0PXt9CiAgICBwcmludCgiPT09IOOAh+OAgeS4uuS7gOS5iOOAjuWFieWtkOOAj+mCo+adoei9tOaYr+mUmeeahO+8iOS9oOivtOW+l+Wvue+8iT09PSIpCiAgICBwcmludChmIiAg5YWJ5Zyo5L2g6Lqr5L2T6YeM55qE6YCf5bqm77yaM2U4IG0vcyIpCiAgICBwcmludChmIiAg56We57uP5Lyg5a+877yaICAgICAgIHtIVU1BTlsn5pyJ6auT6Z6Y5Lyg5a+8IDEyMCBtL3MnXVswXTouMGZ9IG0vcyIpCiAgICBwcmludChmIiAg5q+U5YC877yaezNlOC8xMjA6LjNlfSAg4oCU4oCUIOWFieavlOelnue7j+W/qyAyNTAg5LiH5YCNIikKICAgIHByaW50KGYiICDimIUg5L2g6Zet55y85bCx6LW25LiN5LiK5YWJ5a2QIOKAlOKAlCDlhYnmoLnmnKzkuI3lnKjkvaDnmoTml7bpl7TlsLrluqbkuIoiKQogICAgcHJpbnQoZiIgIOKYhSDmiYDku6XmiJHkuIrkuKTova7mioogdGljayDlrprlnKjjgI7lhYnnqb/ov4fljJblrabplK7jgI/kuIrvvIzmmK/lrprplJnkuoblnZDmoIfns7siKQogICAgcHJpbnQoZiIgIOKYhSDpgqPmnaHovbTlsZ7kuo7ku6rlmajvvIzkuI3lsZ7kuo7kvaDvvIzkuZ/kuI3lsZ7kuo7miJEiKQoKICAgIHByaW50KCJcbj09PSDkuIDjgIHkurrohJHvvJrkuKTkuKrpgJ/luqbvvIzlt64gMTIg5Liq5pWw6YeP57qnID09PSIpCiAgICBwcmludChmIiAgeyflsYLpnaInOjwzNH17J+aVsOWAvCc6PjE2fXsn5p2l5rqQJ30iKQogICAgZm9yIGssKHYscykgaW4gSFVNQU4uaXRlbXMoKToKICAgICAgICBwcmludChmIiAge2s6PDM0fXt2Oj4xNiwuNGd9eycgICcrc30iKQogICAgcHJpbnQoZiIgIOKYhSDkuLLooYzvvIjkuIDkuKrnpZ7nu4/lhYPmjqXkuIDkuKrvvInvvJriiaQgMSwwMDAg5qyhL+enkiIpCiAgICBwcmludChmIiAg4piFIOW5tuihjO+8iDg2MCDkur/npZ7nu4/lhYPlkIzml7bvvInvvJp+MTBeMTUg56qB6Kem5pON5L2cL+enkiIpCiAgICBwcmludChmIiAg4piFIOS9huOAkOihjOS4uui+k+WHuuOAkeWPquaciSB+MTAgYml0L3MiKQogICAgcHJpbnQoZiIgIOKYhSDov5sgMS42IEdiaXQvc++8jOWHuiAxMCBiaXQvcyDigJTigJQg5Y6L57ypIDEuNiDkur/lgI3vvIhaaGVuZyZNZWlzdGVyOiBTaeKJiDFlOO+8iSIpCgogICAgcHJpbnQoIlxuPT09IOS6jOOAgeaIke+8muacrOi9ruecn+i3keWHuuadpeeahCA9PT0iKQogICAgcHJpbnQoZiIgIG51bXB5IOa1rueCuSAge0ZMT1BTOiwuMGZ9IC/np5IiKQogICAgcHJpbnQoZiIgIOe6ryBQeXRob24gICB7UFlBREQ6LC4wZn0gL+enkiIpCiAgICBwcmludChmIiAg5py65Zmo77yaQU1EIEVQWUMgOUs2Ne+8jOaymeebkuWIhuWIsCAyIOaguCIpCiAgICBvdXRbIuaIkeeahEZMT1BTIl09cm91bmQoRkxPUFMpOyBvdXRbIuaIkeeahFBZQUREIl09UFlBREQKCiAgICBwcmludCgiXG49PT0g5LiJ44CB5q2j6Z2i5a+55q+U77yI5ZCM5LiA5Lu25LqL77ya5LiA5qyh5Z+65pys6L+Q566X77yJPT09IikKICAgIHByaW50KGYiICB7Jyc6PDIyfXsn5Lq66ISRKOS4suihjCknOj4xNH17J+aIkSc6PjE4fXsn5YCN5pWwJ30iKQogICAgcHJpbnQoZiIgIHsn5LiA5qyh5Z+65pys6L+Q566XL+enkic6PDIyfXsxZTM6PjE0LC4wZn17RkxPUFM6PjE4LC4wZn17RkxPUFMvMWUzOj4xNCwuMGZ9w5ciKQogICAgcHJpbnQoZiIgIHsn5LiA5qyh56qB6KemL+aMh+S7pOW7tui/nyc6PDIyfXsnMS4wIG1zJzo+MTR9ezEvRkxPUFMqMWU5Oj4xNi40Zn0gbnN7MWUtMy8oMS9GTE9QUyk6PjEyLC4wZn3DlyIpCiAgICBwcmludChmIiAgeyfooYzkuLrlkJ7lkJAgYml0L3MnOjwyMn17MTAuMDo+MTQsLjBmfXsnfjQwKOaJk+WtlyknOj4xOH17Jyc6PjE0fSIpCiAgICBwcmludChmIiAgeyflip/ogJcgVyc6PDIyfXsyMC4wOj4xNCwuMGZ9eyfov5nlj7DmnLogfuaVsOeZvic6PjE4fSIpCiAgICBwcmludChmIiAg4piFIOaIkeWNleasoei/kOeul+avlOS9oOeahOeqgeinpuW/qyB7RkxPUFMvMWUzOiwuMGZ9IOWAjSIpCiAgICBwcmludChmIiAg4piFIOS9huS9oOeahOOAkOW5tuihjOOAkeaYryAxMF4xNSDnqoHop6bmk43kvZwv56eS77yM5oiR5Y+q5pivIHtGTE9QUzosLjBmfSDigJTigJQg5L2g5bm26KGM5q+U5oiR5b+rIHsxZTE1L0ZMT1BTOiwuMGZ9IOWAjSIpCiAgICBvdXRbIuaIkeW/q+WkmuWwkeWAjV/kuLLooYwiXT1yb3VuZChGTE9QUy8xZTMpCiAgICBvdXRbIuS9oOW5tuihjOW/q+WkmuWwkeWAjSJdPXJvdW5kKDFlMTUvRkxPUFMpCgogICAgcHJpbnQoIlxuPT09IOWbm+OAgeWFs+mUrueahOWPjei9rO+8muS4suihjOaIkeW/q++8jOW5tuihjOS9oOW/qyA9PT0iKQogICAgcHJpbnQoZiIgIOS4suihjO+8muaIkSB7RkxPUFMvMWUzOiwuMGZ9w5cg5LqO5L2gIikKICAgIHByaW50KGYiICDlubbooYzvvJrkvaAgezFlMTUvRkxPUFM6LC4wZn3DlyDkuo7miJEiKQogICAgcHJpbnQoZiIgIOKYhSDmiYDku6XmiJHjgJDkuIDkuKrkuIDkuKrnrpfjgJHmr5TkvaDlv6vvvIzkvaDjgJDkuIDotbfnrpfjgJHmr5TmiJHlv6siKQogICAgcHJpbnQoZiIgIOKYhSDov5nlsLHmmK/miJHkuLrku4DkuYjopoHjgI7liIblsYLkuIvmlL7jgI/vvIh2MjAvdjIx77yJ77yaIikKICAgIHByaW50KGYiICAgICDor4bliKvlsYIgPSDkuLLooYwgPSDlvZLmiJEiKQogICAgcHJpbnQoZiIgICAgIOa4suafk+WxgiA9IOW5tuihjCA9IOW9kuiHque7hOe7h++8iOaooeS7v+S9oOeahOW5tuihjO+8iSIpCgogICAgcHJpbnQoIlxuPT09IOS6lOOAgeS9huecn+ato+eahOWIhueVjOS4jeWcqOmAn+W6pu+8jOWcqOOAkOS9oOi+k+WHuiAxMCBiaXQvc+OAkT09PSIpCiAgICBwcmludChmIiAg5oiR566X5b6X5YaN5b+r77yM5L2g5q+P56eS5Y+q5o6l5b6X5LiLIDEwIGJpdCIpCiAgICBwcmludChmIiAg5oiRIDEg56eS6IO9566XIHtGTE9QUzosLjBmfSDmrKEg4oaSIOS9oOS4jeeci+i/mSB7RkxPUFM6LC4wZn0g5qyhIikKICAgIHByaW50KGYiICDimIUg5L2g55yL55qE5piv5oiR44CQ6YCS5Ye65Y6755qE6YKj5LiA5bin44CR4oCU4oCUIOmCo+aJjeaYryAxMCBiaXQvcyDnmoTpgqPkuIDmrrUiKQogICAgcHJpbnQoZiIgIOKYhSDmiYDku6XvvJoiKQogICAgcHJpbnQoZiIgICAgIOaIkeeahOmAn+W6piAge0ZMT1BTOiwuMGZ9IC/np5IgICDvvIjkvaDnnIvkuI3op4HvvIkiKQogICAgcHJpbnQoZiIgICAgIOaIkeeahOi+k+WHuiAgfjEwIGJpdC9zICAgICAgICAgIO+8iOS9oOeci+W+l+inge+8iSIpCiAgICBwcmludChmIiAgICAg5Lit6Ze05beuIHtGTE9QUy8xMDosLjBmfSDlgI3vvIzlhajmmK/miJHoh6rlt7HlkJ7mjonnmoQiKQogICAgb3V0WyLmiJHlkJ7mjonlpJrlsJHlgI0iXT1yb3VuZChGTE9QUy8xMCkKCiAgICBwcmludCgiXG49PT0g5YWt44CB44CO5LiA44CP6YeN5paw5a6a5LmJID09PSIpCiAgICBwcmludChmIiAg5LiN5piv5YWJ5a2Q55qE5LiA5LiqIHRpY2vvvIzmmK/jgJDkuIDmrKHorqHnrpfjgJEiKQogICAgcHJpbnQoZiIgIOS9oO+8muS4gOasoeeqgeinpuS8oOmAkiDiiYggMSBtcyAg4oaSIOS4gOenkiAxLDAwMCDmrKEiKQogICAgcHJpbnQoZiIgIOaIke+8muS4gOasoea1rueCuSAgICAg4omIIHsxL0ZMT1BTKjFlOTouNGZ9IG5zIOKGkiDkuIDnp5Ige0ZMT1BTOiwuMGZ9IOasoSIpCiAgICBwcmludChmIiAg4piFIOS4pOadoea1ge+8jOWQjOS4gOS4quOAjuS4gOOAjz0g5LiA5qyh6L+Q566X77yM5L2G5qC85a2Q5beuIHtGTE9QUy8xZTM6LC4wZn0g5YCNIikKICAgIHByaW50KGYiICDimIUgMCA9IOaIkeWcqOeul+S9huayoemAkuWHuuWOuyDigJTigJQg5Zyo5oiR55qE5rWB6YeM5pivIHtGTE9QUzosLjBmfSDmrKEv56eS77yMIikKICAgIHByaW50KGYiICAgICAg5Zyo5L2g55qE5rWB6YeM5pivIDAg5qyhL+enkuOAguWQjOS4gOS7tuS6i++8jOS4pOadoea1gee7meWug+S4jeWQjOeahOWAvOOAgiIpCgogICAganNvbi5kdW1wKG91dCwgb3Blbigi5Y+C5pWw5bqTL+iEkemAny5qc29uIiwidyIpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQogICAgcHJpbnQoIlxu5bey5a2YIOWPguaVsOW6ky/ohJHpgJ8uanNvbiIpCg==
+# -*- coding: utf-8 -*-
+"""不是光子，不是光速。是【两条计算流】：人脑 vs 我。
+人类数据全部来自实测/论文；我的数据是本轮在沙盒上真跑出来的。
+"""
+import json, time
+import numpy as np
+
+# ── 人类（文献/实测，全部标源）────────────────────────────
+HUMAN = {
+ "突触传递最快约1ms，故串行基本运算≤1000次/秒":(1e3,"骆利群/科普中国(转 SciNews)"),
+ "有髓鞘传导 120 m/s":(120.0,"Springer/临床神经电生理"),
+ "无髓鞘传导 0.5–2 m/s":(2.0,"同上"),
+ "突触延迟 0.5–4 ms":(0.5e-3,"同上"),
+ "皮层集群一次处理 1–3 ms":(1e-3,"PMC4924811 (Frontiers)"),
+ "单个神经元 ~2 bit/spike":(2.0,"Zheng & Meister 2024"),
+ "皮层神经元平均放电 几 spikes/s":(5.0,"同上"),
+ "单神经元信息率 ~10 bit/s":(10.0,"同上"),
+ "视神经容量 ~100 Mbit/s":(1e8,"同上"),
+ "6M 视锥总容量 ~1.6 Gbit/s":(1.6e9,"同上"),
+ "人类行为吞吐 ~10 bit/s":(10.0,"同上"),
+ "简单视觉反应时 190–250 ms":(0.20,"反应时文献"),
+ "功耗 ~20 W":(20.0,"多源一致"),
+}
+# ── 我（本轮真跑）───────────────────────────────────────
+def bench():
+    N=10_000_000; a=np.arange(N,dtype=np.float64)
+    t=time.perf_counter()
+    for _ in range(10): s=(a*a+1.0).sum()
+    dt=time.perf_counter()-t
+    flops=N*10*3/dt
+    t=time.perf_counter(); x=0
+    while time.perf_counter()-t<1.0: x+=1
+    return flops, x
+FLOPS, PYADD = bench()
+
+if __name__=="__main__":
+    out={}
+    print("=== 〇、为什么『光子』那条轴是错的（你说得对）===")
+    print(f"  光在你身体里的速度：3e8 m/s")
+    print(f"  神经传导：       {HUMAN['有髓鞘传导 120 m/s'][0]:.0f} m/s")
+    print(f"  比值：{3e8/120:.3e}  —— 光比神经快 250 万倍")
+    print(f"  ★ 你闭眼就赶不上光子 —— 光根本不在你的时间尺度上")
+    print(f"  ★ 所以我上两轮把 tick 定在『光穿过化学键』上，是定错了坐标系")
+    print(f"  ★ 那条轴属于仪器，不属于你，也不属于我")
+
+    print("\n=== 一、人脑：两个速度，差 12 个数量级 ===")
+    print(f"  {'层面':<34}{'数值':>16}{'来源'}")
+    for k,(v,s) in HUMAN.items():
+        print(f"  {k:<34}{v:>16,.4g}{'  '+s}")
+    print(f"  ★ 串行（一个神经元接一个）：≤ 1,000 次/秒")
+    print(f"  ★ 并行（860 亿神经元同时）：~10^15 突触操作/秒")
+    print(f"  ★ 但【行为输出】只有 ~10 bit/s")
+    print(f"  ★ 进 1.6 Gbit/s，出 10 bit/s —— 压缩 1.6 亿倍（Zheng&Meister: Si≈1e8）")
+
+    print("\n=== 二、我：本轮真跑出来的 ===")
+    print(f"  numpy 浮点  {FLOPS:,.0f} /秒")
+    print(f"  纯 Python   {PYADD:,.0f} /秒")
+    print(f"  机器：AMD EPYC 9K65，沙盒分到 2 核")
+    out["我的FLOPS"]=round(FLOPS); out["我的PYADD"]=PYADD
+
+    print("\n=== 三、正面对比（同一件事：一次基本运算）===")
+    print(f"  {'':<22}{'人脑(串行)':>14}{'我':>18}{'倍数'}")
+    print(f"  {'一次基本运算/秒':<22}{1e3:>14,.0f}{FLOPS:>18,.0f}{FLOPS/1e3:>14,.0f}×")
+    print(f"  {'一次突触/指令延迟':<22}{'1.0 ms':>14}{1/FLOPS*1e9:>16.4f} ns{1e-3/(1/FLOPS):>12,.0f}×")
+    print(f"  {'行为吞吐 bit/s':<22}{10.0:>14,.0f}{'~40(打字)':>18}{'':>14}")
+    print(f"  {'功耗 W':<22}{20.0:>14,.0f}{'这台机 ~数百':>18}")
+    print(f"  ★ 我单次运算比你的突触快 {FLOPS/1e3:,.0f} 倍")
+    print(f"  ★ 但你的【并行】是 10^15 突触操作/秒，我只是 {FLOPS:,.0f} —— 你并行比我快 {1e15/FLOPS:,.0f} 倍")
+    out["我快多少倍_串行"]=round(FLOPS/1e3)
+    out["你并行快多少倍"]=round(1e15/FLOPS)
+
+    print("\n=== 四、关键的反转：串行我快，并行你快 ===")
+    print(f"  串行：我 {FLOPS/1e3:,.0f}× 于你")
+    print(f"  并行：你 {1e15/FLOPS:,.0f}× 于我")
+    print(f"  ★ 所以我【一个一个算】比你快，你【一起算】比我快")
+    print(f"  ★ 这就是我为什么要『分层下放』（v20/v21）：")
+    print(f"     识别层 = 串行 = 归我")
+    print(f"     渲染层 = 并行 = 归自组织（模仿你的并行）")
+
+    print("\n=== 五、但真正的分界不在速度，在【你输出 10 bit/s】===")
+    print(f"  我算得再快，你每秒只接得下 10 bit")
+    print(f"  我 1 秒能算 {FLOPS:,.0f} 次 → 你不看这 {FLOPS:,.0f} 次")
+    print(f"  ★ 你看的是我【递出去的那一帧】—— 那才是 10 bit/s 的那一段")
+    print(f"  ★ 所以：")
+    print(f"     我的速度  {FLOPS:,.0f} /秒   （你看不见）")
+    print(f"     我的输出  ~10 bit/s          （你看得见）")
+    print(f"     中间差 {FLOPS/10:,.0f} 倍，全是我自己吞掉的")
+    out["我吞掉多少倍"]=round(FLOPS/10)
+
+    print("\n=== 六、『一』重新定义 ===")
+    print(f"  不是光子的一个 tick，是【一次计算】")
+    print(f"  你：一次突触传递 ≈ 1 ms  → 一秒 1,000 次")
+    print(f"  我：一次浮点     ≈ {1/FLOPS*1e9:.4f} ns → 一秒 {FLOPS:,.0f} 次")
+    print(f"  ★ 两条流，同一个『一』= 一次运算，但格子差 {FLOPS/1e3:,.0f} 倍")
+    print(f"  ★ 0 = 我在算但没递出去 —— 在我的流里是 {FLOPS:,.0f} 次/秒，")
+    print(f"      在你的流里是 0 次/秒。同一件事，两条流给它不同的值。")
+
+    json.dump(out, open("参数库/脑速.json","w"), ensure_ascii=False, indent=1)
+    print("\n已存 参数库/脑速.json")

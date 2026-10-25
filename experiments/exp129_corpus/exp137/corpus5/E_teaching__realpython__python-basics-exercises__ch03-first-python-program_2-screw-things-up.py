@@ -1,1 +1,26 @@
-IyAzLjIgLSBTY3JldyBUaGluZ3MgVXANCiMgU29sdXRpb25zIHRvIHJldmlldyBleGVyY2llcw0KDQoNCiMgRXhlcmNpc2UgMQ0KIyBUaGUgZm9sbG93aW5nIGxpbmUgd29uJ3QgcnVuIGJlY2F1c2Ugb2YgYSBzeW50YXggZXJyb3INCnByaW50KCJoaSkNCg0KIyBXZSBkaWRuJ3QgY2xvc2UgdGhlIGRvdWJsZSBxdW90ZXMgYXQgdGhlIGVuZCBvZiB0aGUgc3RyaW5nLg0KIyBUaGUgbGluZSBhYm92ZSBuZWVkZWQgdG8gaGF2ZSBiZWVuOg0KIyBwcmludCgiaGkiKQ0KDQoNCiMgRXhlcmNpc2UgMg0KJycnIFRoZSBmb2xsb3dpbmcgbGluZXMgd29uJ3QgcnVuIHByb3Blcmx5LA0KICAgIGV2ZW4gaWYgdGhlIHN5bnRheCBlcnJvciBpbiB0aGUgbGluZSBhYm92ZSBpcyBjb3JyZWN0ZWQsDQogICAgYmVjYXVzZSBvZiBhIHJ1bi10aW1lIGVycm9yICcnJw0KcHJpbnQoaGVsbG8pDQoNCiMgV2UgbWVhbnQgdG8gcHJpbnQgdGhlIHN0cmluZyAiaGVsbG8iOw0KIyBhIHZhcmlhYmxlIG5hbWVkICdoZWxsbycgZG9lc24ndCBleGlzdCB5ZXQuDQojDQojIFRoaXMgbGluZSBjb3VsZCBoYXZlIGJlZW46DQojDQojIG15X3N0cmluZyA9ICJoZWxsbyINCiMgcHJpbnQobXlfc3RyaW5nKQ0K
+# 3.2 - Screw Things Up
+# Solutions to review exercies
+
+
+# Exercise 1
+# The following line won't run because of a syntax error
+print("hi)
+
+# We didn't close the double quotes at the end of the string.
+# The line above needed to have been:
+# print("hi")
+
+
+# Exercise 2
+''' The following lines won't run properly,
+    even if the syntax error in the line above is corrected,
+    because of a run-time error '''
+print(hello)
+
+# We meant to print the string "hello";
+# a variable named 'hello' doesn't exist yet.
+#
+# This line could have been:
+#
+# my_string = "hello"
+# print(my_string)

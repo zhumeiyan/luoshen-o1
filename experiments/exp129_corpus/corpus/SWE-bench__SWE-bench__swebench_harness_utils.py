@@ -1,1 +1,273 @@
-aW1wb3J0IGpzb24KaW1wb3J0IHRyYWNlYmFjawoKZnJvbSBhcmdwYXJzZSBpbXBvcnQgQXJndW1lbnRUeXBlRXJyb3IKZnJvbSBjb25jdXJyZW50LmZ1dHVyZXMgaW1wb3J0IFRocmVhZFBvb2xFeGVjdXRvciwgYXNfY29tcGxldGVkCmZyb20gZGF0YXNldHMgaW1wb3J0IERhdGFzZXQsIGxvYWRfZGF0YXNldCwgbG9hZF9mcm9tX2Rpc2sKZnJvbSBkb3RlbnYgaW1wb3J0IGxvYWRfZG90ZW52CmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHRxZG0gaW1wb3J0IHRxZG0KZnJvbSB0eXBpbmcgaW1wb3J0IGNhc3QKZnJvbSBzd2ViZW5jaC5oYXJuZXNzLmNvbnN0YW50cyBpbXBvcnQgKAogICAgRU5EX1RFU1RfT1VUUFVULAogICAgVEVTVF9FWElUX0NPREUsCiAgICBURVNUX0VYSVRfQ09ERV9WQVIsCikKZnJvbSBzd2ViZW5jaC50eXBlcyBpbXBvcnQgU1dFYmVuY2hJbnN0YW5jZSwgVGVzdFNwZWMKCgpsb2FkX2RvdGVudigpCgoKY2xhc3MgRXZhbHVhdGlvbkVycm9yKEV4Y2VwdGlvbik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgaW5zdGFuY2VfaWQsIG1lc3NhZ2UsIGxvZ2dlcik6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhtZXNzYWdlKQogICAgICAgIHNlbGYuc3VwZXJfc3RyID0gc3VwZXIoKS5fX3N0cl9fKCkKICAgICAgICBzZWxmLmluc3RhbmNlX2lkID0gaW5zdGFuY2VfaWQKICAgICAgICBzZWxmLmxvZ19wYXRoID0gbG9nZ2VyLmxvZ19maWxlCiAgICAgICAgc2VsZi5sb2dnZXIgPSBsb2dnZXIKCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICBmIkVycm9yIGluIGV2YWx1YXRpb24gZm9yIHtzZWxmLmluc3RhbmNlX2lkfToge3NlbGYuc3VwZXJfc3RyfVxuIgogICAgICAgICAgICBmIkNoZWNrICh7c2VsZi5sb2dfcGF0aH0pIGZvciBtb3JlIGluZm9ybWF0aW9uLiIKICAgICAgICApCgoKZGVmIGdldF9wcmVkaWN0aW9uc19mcm9tX2ZpbGUoCiAgICBwcmVkaWN0aW9uc19wYXRoOiBzdHIsCiAgICBkYXRhc2V0X25hbWU6IHN0ciwKICAgIHNwbGl0OiBzdHIsCiAgICB0YXNrX3JlcG86IHN0ciB8IE5vbmUgPSBOb25lLAogICAgaW5zdGFuY2VfaWRzOiBsaXN0IHwgTm9uZSA9IE5vbmUsCik6CiAgICBpZiBwcmVkaWN0aW9uc19wYXRoID09ICJnb2xkIjoKICAgICAgICBwcmludCgiVXNpbmcgZ29sZCBwcmVkaWN0aW9ucyAtIGlnbm9yaW5nIHByZWRpY3Rpb25zX3BhdGgiKQogICAgICAgICMgdGhlIGdvbGQgcGF0Y2ggaGFzIHRvIGNvbWUgZnJvbSB3aGVyZXZlciB0aGUgcmVzdCBvZiB0aGUgaW5zdGFuY2UgY2FtZSBmcm9tLAogICAgICAgICMgb3IgYSBydW4gYWdhaW5zdCBhIHRhc2sgcmVwbyBzaWxlbnRseSBncmFkZXMgdGhlIGRhdGFzZXQncyBwYXRjaCBpbnN0ZWFkIGFuZAogICAgICAgICMgbmV2ZXIgbm90aWNlcyB0aGUgdHdvIGRpc2FncmVlaW5nCiAgICAgICAgaWYgdGFza19yZXBvOgogICAgICAgICAgICBmcm9tIHN3ZWJlbmNoLnRhc2sucmVwbyBpbXBvcnQgbG9hZF90YXNrX3JlcG8KCiAgICAgICAgICAgIGRhdGFzZXQgPSBsb2FkX3Rhc2tfcmVwbyh0YXNrX3JlcG8sIGluc3RhbmNlX2lkcykKICAgICAgICAgICAgaWYgbm90IGluc3RhbmNlX2lkczoKICAgICAgICAgICAgICAgIGRhdGFzZXQgPSBbZCBmb3IgZCBpbiBkYXRhc2V0IGlmIGQuZ2V0KCJzcGxpdCIpID09IHNwbGl0XQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGRhdGFzZXQgPSBsb2FkX3N3ZWJlbmNoX2RhdGFzZXQoZGF0YXNldF9uYW1lLCBzcGxpdCwgaW5zdGFuY2VfaWRzKQogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJpbnN0YW5jZV9pZCI6IGRhdHVtWyJpbnN0YW5jZV9pZCJdLAogICAgICAgICAgICAgICAgIm1vZGVsX3BhdGNoIjogZGF0dW1bInBhdGNoIl0sCiAgICAgICAgICAgICAgICAibW9kZWxfbmFtZV9vcl9wYXRoIjogImdvbGQiLAogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciBkYXR1bSBpbiBkYXRhc2V0CiAgICAgICAgXQogICAgaWYgcHJlZGljdGlvbnNfcGF0aC5lbmRzd2l0aCgiLmpzb24iKToKICAgICAgICB3aXRoIG9wZW4ocHJlZGljdGlvbnNfcGF0aCwgInIiKSBhcyBmOgogICAgICAgICAgICBwcmVkaWN0aW9ucyA9IGpzb24ubG9hZChmKQogICAgICAgICAgICBpZiBpc2luc3RhbmNlKHByZWRpY3Rpb25zLCBkaWN0KToKICAgICAgICAgICAgICAgIHByZWRpY3Rpb25zID0gbGlzdCgKICAgICAgICAgICAgICAgICAgICBwcmVkaWN0aW9ucy52YWx1ZXMoKQogICAgICAgICAgICAgICAgKSAgIyBjb21wYXRpYmxlIHdpdGggU1dFLWFnZW50IHByZWRpY3Rpb25zCiAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHByZWRpY3Rpb25zLCBsaXN0KToKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAgICAgIlByZWRpY3Rpb25zIG11c3QgYmUgYSBsaXN0W3ByZWRpY3Rpb25dIG9yIGEgZGljdGlvbmFyeVtpbnN0YW5jZV9pZDogcHJlZGljdGlvbl0iCiAgICAgICAgICAgICAgICApCiAgICBlbGlmIHByZWRpY3Rpb25zX3BhdGguZW5kc3dpdGgoIi5qc29ubCIpOgogICAgICAgIHdpdGggb3BlbihwcmVkaWN0aW9uc19wYXRoLCAiciIpIGFzIGY6CiAgICAgICAgICAgIHByZWRpY3Rpb25zID0gW2pzb24ubG9hZHMobGluZSkgZm9yIGxpbmUgaW4gZl0KICAgIGVsc2U6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiUHJlZGljdGlvbnMgcGF0aCBtdXN0IGJlIC5qc29uIG9yIC5qc29ubCIpCgogICAgIyBWYWxpZGF0ZSB0aGF0IGVhY2ggcHJlZGljdGlvbiBoYXMgYW4gaW5zdGFuY2VfaWQKICAgIGZvciBwcmVkIGluIHByZWRpY3Rpb25zOgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHByZWQsIGRpY3QpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiRWFjaCBwcmVkaWN0aW9uIG11c3QgYmUgYSBkaWN0aW9uYXJ5LCBnb3Qge3R5cGUocHJlZCl9IikKICAgICAgICBpZiAiaW5zdGFuY2VfaWQiIG5vdCBpbiBwcmVkOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiRWFjaCBwcmVkaWN0aW9uIG11c3QgY29udGFpbiAneydpbnN0YW5jZV9pZCd9JyIpCgogICAgcmV0dXJuIHByZWRpY3Rpb25zCgoKZGVmIHJ1bl90aHJlYWRwb29sKGZ1bmMsIHBheWxvYWRzLCBtYXhfd29ya2Vycyk6CiAgICBpZiBtYXhfd29ya2VycyA8PSAwOgogICAgICAgIHJldHVybiBydW5fc2VxdWVudGlhbChmdW5jLCBwYXlsb2FkcykKICAgIHN1Y2NlZWRlZCwgZmFpbGVkID0gW10sIFtdCiAgICB3aXRoIHRxZG0odG90YWw9bGVuKHBheWxvYWRzKSwgc21vb3RoaW5nPTApIGFzIHBiYXI6CiAgICAgICAgd2l0aCBUaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9bWF4X3dvcmtlcnMpIGFzIGV4ZWN1dG9yOgogICAgICAgICAgICAjIENyZWF0ZSBhIGZ1dHVyZSBmb3IgcnVubmluZyBlYWNoIGluc3RhbmNlCiAgICAgICAgICAgIGZ1dHVyZXMgPSB7ZXhlY3V0b3Iuc3VibWl0KGZ1bmMsICpwYXlsb2FkKTogcGF5bG9hZCBmb3IgcGF5bG9hZCBpbiBwYXlsb2Fkc30KICAgICAgICAgICAgIyBXYWl0IGZvciBlYWNoIGZ1dHVyZSB0byBjb21wbGV0ZQogICAgICAgICAgICBmb3IgZnV0dXJlIGluIGFzX2NvbXBsZXRlZChmdXR1cmVzKToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAjIENoZWNrIGlmIGluc3RhbmNlIHJhbiBzdWNjZXNzZnVsbHkKICAgICAgICAgICAgICAgICAgICBmdXR1cmUucmVzdWx0KCkKICAgICAgICAgICAgICAgICAgICBzdWNjZWVkZWQuYXBwZW5kKGZ1dHVyZXNbZnV0dXJlXSkKICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgICAgICBwcmludChmInt0eXBlKGUpfToge2V9IikKICAgICAgICAgICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICAgICAgICAgICAgICBmYWlsZWQuYXBwZW5kKGZ1dHVyZXNbZnV0dXJlXSkKICAgICAgICAgICAgICAgICMgVXBkYXRlIHByb2dyZXNzIGJhcgogICAgICAgICAgICAgICAgcGJhci51cGRhdGUoMSkKICAgICAgICAgICAgICAgIHBiYXIuc2V0X2Rlc2NyaXB0aW9uKAogICAgICAgICAgICAgICAgICAgIGYie2xlbihzdWNjZWVkZWQpfSByYW4gc3VjY2Vzc2Z1bGx5LCB7bGVuKGZhaWxlZCl9IGZhaWxlZCIKICAgICAgICAgICAgICAgICkKICAgIHJldHVybiBzdWNjZWVkZWQsIGZhaWxlZAoKCmRlZiBydW5fc2VxdWVudGlhbChmdW5jLCBhcmdzX2xpc3QpOgogICAgIiIiCiAgICBSdW4gYSBmdW5jdGlvbiB3aXRoIGEgbGlzdCBvZiBhcmd1bWVudHMgc2VxdWVudGlhbGx5CiAgICAiIiIKICAgIHN1Y2NlZWRlZCwgZmFpbGVkID0gW10sIFtdCiAgICBwYmFyID0gdHFkbSh0b3RhbD1sZW4oYXJnc19saXN0KSwgc21vb3RoaW5nPTApCiAgICBmb3IgYXJncyBpbiBhcmdzX2xpc3Q6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBmdW5jKCphcmdzKQogICAgICAgICAgICBzdWNjZWVkZWQuYXBwZW5kKGFyZ3MpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgICAgIGZhaWxlZC5hcHBlbmQoYXJncykKICAgICAgICBwYmFyLnVwZGF0ZSgxKQogICAgICAgIHBiYXIuc2V0X2Rlc2NyaXB0aW9uKGYie2xlbihzdWNjZWVkZWQpfSByYW4gc3VjY2Vzc2Z1bGx5LCB7bGVuKGZhaWxlZCl9IGZhaWxlZCIpCiAgICBwYmFyLmNsb3NlKCkKICAgIHJldHVybiBzdWNjZWVkZWQsIGZhaWxlZAoKCmRlZiBsb2FkX3N3ZWJlbmNoX2RhdGFzZXQoCiAgICBuYW1lPSJTV0UtYmVuY2gvU1dFLWJlbmNoIiwgc3BsaXQ9InRlc3QiLCBpbnN0YW5jZV9pZHM9Tm9uZQopIC0+IGxpc3RbU1dFYmVuY2hJbnN0YW5jZV06CiAgICAiIiIKICAgIExvYWQgU1dFLWJlbmNoIGRhdGFzZXQgZnJvbSBIdWdnaW5nIEZhY2UgRGF0YXNldHMgb3IgbG9jYWwgLmpzb24vLmpzb25sIGZpbGUKICAgICIiIgogICAgIyBjaGVjayB0aGF0IGFsbCBpbnN0YW5jZSBJRHMgYXJlIGluIHRoZSBkYXRhc2V0CiAgICBpZiBpbnN0YW5jZV9pZHM6CiAgICAgICAgaW5zdGFuY2VfaWRzID0gc2V0KGluc3RhbmNlX2lkcykKICAgICMgTG9hZCBmcm9tIGxvY2FsIGZpbGUKICAgIGlmIG5hbWUuZW5kc3dpdGgoIi5qc29uIik6CiAgICAgICAgZGF0YXNldCA9IGpzb24ubG9hZHMoUGF0aChuYW1lKS5yZWFkX3RleHQoKSkKICAgIGVsaWYgbmFtZS5lbmRzd2l0aCgiLmpzb25sIik6CiAgICAgICAgZGF0YXNldCA9IFtqc29uLmxvYWRzKGxpbmUpIGZvciBsaW5lIGluIFBhdGgobmFtZSkucmVhZF90ZXh0KCkuc3BsaXRsaW5lcygpXQogICAgZWxpZiBuYW1lLmVuZHN3aXRoKCIucGFycXVldCIpOgogICAgICAgIGRhdGFzZXQgPSBjYXN0KERhdGFzZXQsIGxvYWRfZGF0YXNldCgicGFycXVldCIsIGRhdGFfZmlsZXM9bmFtZSwgc3BsaXQ9InRyYWluIikpCiAgICBlbHNlOgogICAgICAgICMgTG9hZCBmcm9tIEh1Z2dpbmcgRmFjZSBEYXRhc2V0cwogICAgICAgIGlmIG5hbWUubG93ZXIoKSBpbiB7InN3ZS1iZW5jaCIsICJzd2ViZW5jaCIsICJzd2VfYmVuY2gifToKICAgICAgICAgICAgbmFtZSA9ICJTV0UtYmVuY2gvU1dFLWJlbmNoIgogICAgICAgIGVsaWYgbmFtZS5sb3dlcigpIGluIHsKICAgICAgICAgICAgInN3ZS1iZW5jaC1saXRlIiwKICAgICAgICAgICAgInN3ZWJlbmNoLWxpdGUiLAogICAgICAgICAgICAic3dlX2JlbmNoX2xpdGUiLAogICAgICAgICAgICAic3dlLWJlbmNoX2xpdGUiLAogICAgICAgICAgICAibGl0ZSIsCiAgICAgICAgfToKICAgICAgICAgICAgbmFtZSA9ICJTV0UtYmVuY2gvU1dFLWJlbmNoX0xpdGUiCiAgICAgICAgcGFycXVldF9wYXRoID0gUGF0aChuYW1lKSAvIGYie3NwbGl0fS5wYXJxdWV0IgogICAgICAgIGlmIHBhcnF1ZXRfcGF0aC5leGlzdHMoKToKICAgICAgICAgICAgZGF0YXNldCA9IGNhc3QoCiAgICAgICAgICAgICAgICBEYXRhc2V0LAogICAgICAgICAgICAgICAgbG9hZF9kYXRhc2V0KCJwYXJxdWV0IiwgZGF0YV9maWxlcz1zdHIocGFycXVldF9wYXRoKSwgc3BsaXQ9InRyYWluIiksCiAgICAgICAgICAgICkKICAgICAgICBlbGlmIChQYXRoKG5hbWUpIC8gc3BsaXQgLyAiZGF0YXNldF9pbmZvLmpzb24iKS5leGlzdHMoKToKICAgICAgICAgICAgZGF0YXNldCA9IGNhc3QoRGF0YXNldCwgbG9hZF9mcm9tX2Rpc2soUGF0aChuYW1lKSAvIHNwbGl0KSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBkYXRhc2V0ID0gY2FzdChEYXRhc2V0LCBsb2FkX2RhdGFzZXQobmFtZSwgc3BsaXQ9c3BsaXQpKQogICAgZGF0YXNldF9pZHMgPSB7aW5zdGFuY2VbImluc3RhbmNlX2lkIl0gZm9yIGluc3RhbmNlIGluIGRhdGFzZXR9CiAgICBpZiBpbnN0YW5jZV9pZHM6CiAgICAgICAgaWYgaW5zdGFuY2VfaWRzIC0gZGF0YXNldF9pZHM6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAoCiAgICAgICAgICAgICAgICAgICAgIlNvbWUgaW5zdGFuY2UgSURzIG5vdCBmb3VuZCBpbiBkYXRhc2V0ISIKICAgICAgICAgICAgICAgICAgICBmIlxuTWlzc2luZyBJRHM6XG57JyAnLmpvaW4oaW5zdGFuY2VfaWRzIC0gZGF0YXNldF9pZHMpfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQogICAgICAgIGRhdGFzZXQgPSBbCiAgICAgICAgICAgIGluc3RhbmNlIGZvciBpbnN0YW5jZSBpbiBkYXRhc2V0IGlmIGluc3RhbmNlWyJpbnN0YW5jZV9pZCJdIGluIGluc3RhbmNlX2lkcwogICAgICAgIF0KICAgIHJldHVybiBbY2FzdChTV0ViZW5jaEluc3RhbmNlLCBpbnN0YW5jZSkgZm9yIGluc3RhbmNlIGluIGRhdGFzZXRdCgoKZGVmIHN0cjJib29sKHYpOgogICAgIiIiCiAgICBNaW5vciBoZWxwZXIgZnVuY3Rpb24gdG8gY29udmVydCBzdHJpbmcgdG8gYm9vbGVhbgogICAgIiIiCiAgICBpZiBpc2luc3RhbmNlKHYsIGJvb2wpOgogICAgICAgIHJldHVybiB2CiAgICBpZiB2Lmxvd2VyKCkgaW4gKCJ5ZXMiLCAidHJ1ZSIsICJ0IiwgInkiLCAiMSIpOgogICAgICAgIHJldHVybiBUcnVlCiAgICBlbGlmIHYubG93ZXIoKSBpbiAoIm5vIiwgImZhbHNlIiwgImYiLCAibiIsICIwIik6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBlbHNlOgogICAgICAgIHJhaXNlIEFyZ3VtZW50VHlwZUVycm9yKCJCb29sZWFuIHZhbHVlIGV4cGVjdGVkLiIpCgoKZGVmIG9wdGlvbmFsX3N0cih2YWx1ZTogc3RyKSAtPiBzdHIgfCBOb25lOgogICAgIiIiCiAgICBDb252ZXJ0IHNwZWNpYWwgc3RyaW5nIHZhbHVlcyB0byBOb25lLCBvdGhlcndpc2UgcmV0dXJuIHRoZSBzdHJpbmcgYXMtaXMuCiAgICAiIiIKICAgIGlmIHZhbHVlLmxvd2VyKCkgaW4gKCJub25lIiwgIm51bGwiLCAiIik6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHJldHVybiB2YWx1ZQoKCmRlZiBwYXJzZV9ldmFsX3NjcmlwdChldmFsX3NjcmlwdDogc3RyKSAtPiBsaXN0W3N0cl06CiAgICAiIiJQYXJzZSBhbiBldmFsLnNoIHNjcmlwdCBpbnRvIGEgY29tbWFuZCBsaXN0IChzdHJpcCBzaGViYW5nICsgc2V0IGZsYWdzKS4iIiIKICAgIHJldHVybiBbCiAgICAgICAgbGluZQogICAgICAgIGZvciBsaW5lIGluIGV2YWxfc2NyaXB0LnN0cmlwKCkuc3BsaXQoIlxuIikKICAgICAgICBpZiBsaW5lIG5vdCBpbiAoIiMhL2Jpbi9iYXNoIiwgInNldCAtdXhvIHBpcGVmYWlsIikKICAgIF0KCgpkZWYgcmVjb3JkX3Rlc3RfZXhpdF9jb2RlKGV2YWxfc2NyaXB0X2xpc3Q6IGxpc3Rbc3RyXSkgLT4gbGlzdFtzdHJdOgogICAgIiIiTWFrZSB0aGUgZXZhbCBzY3JpcHQgcmVjb3JkIHRoZSB0ZXN0IGNvbW1hbmQncyBvd24gZXhpdCBzdGF0dXMuCgogICAgRXZhbCBzY3JpcHRzIGVuZCB3aXRoIGEgYGdpdCBjaGVja291dGAgdGhhdCByZXNldHMgdGhlIHRlc3QgZmlsZXMsIGFuZCBydW4KICAgIHVuZGVyIGBzZXQgLXV4byBwaXBlZmFpbGAgd2l0aG91dCBgLWVgLCBzbyB0aGUgc2NyaXB0J3MgZXhpdCBzdGF0dXMgaXMgdGhlCiAgICByZXNldCdzLCBub3QgdGhlIHRlc3RzJy4gQ2FwdHVyaW5nIGAkP2AgaW1tZWRpYXRlbHkgYWZ0ZXIgdGhlIHRlc3QgY29tbWFuZAogICAgYW5kIGVjaG9pbmcgaXQgYWZ0ZXIgdGhlIGVuZCBtYXJrZXIga2VlcHMgdGhlIHZhbHVlIG91dCBvZiB0aGUgcGFyc2VkIHJlZ2lvbi4KICAgICIiIgogICAgZm9yIGksIGxpbmUgaW4gZW51bWVyYXRlKGV2YWxfc2NyaXB0X2xpc3QpOgogICAgICAgIGlmIEVORF9URVNUX09VVFBVVCBpbiBsaW5lOgogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgKmV2YWxfc2NyaXB0X2xpc3RbOmldLAogICAgICAgICAgICAgICAgZiJ7VEVTVF9FWElUX0NPREVfVkFSfT0kPyIsCiAgICAgICAgICAgICAgICBsaW5lLAogICAgICAgICAgICAgICAgZidlY2hvICJ7VEVTVF9FWElUX0NPREV9OiAke1RFU1RfRVhJVF9DT0RFX1ZBUn0iJywKICAgICAgICAgICAgICAgICpldmFsX3NjcmlwdF9saXN0W2kgKyAxIDpdLAogICAgICAgICAgICBdCiAgICAjIE5vIGVuZCBtYXJrZXIgKHVucmVjb2duaXplZCBzY3JpcHQgc2hhcGUpOiBsZWF2ZSBpdCB1bnRvdWNoZWQsIGFuZCBncmFkaW5nCiAgICAjIGZhbGxzIGJhY2sgdG8gdGhlIHByZS1leGlzdGluZyBiZWhhdmlvciBvZiB0cnVzdGluZyB0aGUgbG9nIGFsb25lLgogICAgcmV0dXJuIGV2YWxfc2NyaXB0X2xpc3QKCgpkZWYgX3BhcnNlX2ltYWdlX2Fzc2V0cyhyYXcpIC0+IGRpY3Q6CiAgICAiIiJpbWFnZV9hc3NldHMgc2hpcHMgYXMgYSBKU09OIHN0cmluZyBpbiB0aGUgSEYgZGF0YXNldHMsIGRpY3Qgd2hlbiBsb2NhbC4iIiIKICAgIGlmIG5vdCByYXc6CiAgICAgICAgcmV0dXJuIHt9CiAgICByZXR1cm4ganNvbi5sb2FkcyhyYXcpIGlmIGlzaW5zdGFuY2UocmF3LCBzdHIpIGVsc2UgcmF3CgoKZGVmIG1ha2VfdGVzdF9zcGVjKGluc3RhbmNlOiBkaWN0KSAtPiBUZXN0U3BlYzoKICAgICIiIgogICAgQnVpbGQgYSBUZXN0U3BlYyBmcm9tIGEgZGF0YXNldCBpbnN0YW5jZS4KCiAgICBUaGUgaW5zdGFuY2UgZGljdCBtdXN0IGNvbnRhaW46IGluc3RhbmNlX2lkLCBpbWFnZSwgcmVwbywgdmVyc2lvbiwKICAgIEZBSUxfVE9fUEFTUywgUEFTU19UT19QQVNTLCBsb2dfcGFyc2VyLCBldmFsX3R5cGUsIGV2YWxfc2NyaXB0LgogICAgIiIiCiAgICBmMnAgPSBpbnN0YW5jZVsiRkFJTF9UT19QQVNTIl0KICAgIHAycCA9IGluc3RhbmNlWyJQQVNTX1RPX1BBU1MiXQogICAgcmV0dXJuIFRlc3RTcGVjKAogICAgICAgIGluc3RhbmNlX2lkPWluc3RhbmNlWyJpbnN0YW5jZV9pZCJdLAogICAgICAgIGltYWdlPWluc3RhbmNlWyJpbWFnZSJdLAogICAgICAgIGV2YWxfc2NyaXB0X2xpc3Q9cmVjb3JkX3Rlc3RfZXhpdF9jb2RlKAogICAgICAgICAgICBwYXJzZV9ldmFsX3NjcmlwdChpbnN0YW5jZVsiZXZhbF9zY3JpcHQiXSkKICAgICAgICApLAogICAgICAgIHJlcG89aW5zdGFuY2VbInJlcG8iXSwKICAgICAgICB2ZXJzaW9uPWluc3RhbmNlWyJ2ZXJzaW9uIl0sCiAgICAgICAgRkFJTF9UT19QQVNTPWpzb24ubG9hZHMoZjJwKSBpZiBpc2luc3RhbmNlKGYycCwgc3RyKSBlbHNlIGYycCwKICAgICAgICBQQVNTX1RPX1BBU1M9anNvbi5sb2FkcyhwMnApIGlmIGlzaW5zdGFuY2UocDJwLCBzdHIpIGVsc2UgcDJwLAogICAgICAgIGxvZ19wYXJzZXI9aW5zdGFuY2VbImxvZ19wYXJzZXIiXSwKICAgICAgICBldmFsX3R5cGU9aW5zdGFuY2VbImV2YWxfdHlwZSJdLAogICAgICAgIGltYWdlX2Fzc2V0cz1fcGFyc2VfaW1hZ2VfYXNzZXRzKGluc3RhbmNlLmdldCgiaW1hZ2VfYXNzZXRzIikpLAogICAgKQo=
+import json
+import traceback
+
+from argparse import ArgumentTypeError
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datasets import Dataset, load_dataset, load_from_disk
+from dotenv import load_dotenv
+from pathlib import Path
+from tqdm import tqdm
+from typing import cast
+from swebench.harness.constants import (
+    END_TEST_OUTPUT,
+    TEST_EXIT_CODE,
+    TEST_EXIT_CODE_VAR,
+)
+from swebench.types import SWEbenchInstance, TestSpec
+
+
+load_dotenv()
+
+
+class EvaluationError(Exception):
+    def __init__(self, instance_id, message, logger):
+        super().__init__(message)
+        self.super_str = super().__str__()
+        self.instance_id = instance_id
+        self.log_path = logger.log_file
+        self.logger = logger
+
+    def __str__(self):
+        return (
+            f"Error in evaluation for {self.instance_id}: {self.super_str}\n"
+            f"Check ({self.log_path}) for more information."
+        )
+
+
+def get_predictions_from_file(
+    predictions_path: str,
+    dataset_name: str,
+    split: str,
+    task_repo: str | None = None,
+    instance_ids: list | None = None,
+):
+    if predictions_path == "gold":
+        print("Using gold predictions - ignoring predictions_path")
+        # the gold patch has to come from wherever the rest of the instance came from,
+        # or a run against a task repo silently grades the dataset's patch instead and
+        # never notices the two disagreeing
+        if task_repo:
+            from swebench.task.repo import load_task_repo
+
+            dataset = load_task_repo(task_repo, instance_ids)
+            if not instance_ids:
+                dataset = [d for d in dataset if d.get("split") == split]
+        else:
+            dataset = load_swebench_dataset(dataset_name, split, instance_ids)
+        return [
+            {
+                "instance_id": datum["instance_id"],
+                "model_patch": datum["patch"],
+                "model_name_or_path": "gold",
+            }
+            for datum in dataset
+        ]
+    if predictions_path.endswith(".json"):
+        with open(predictions_path, "r") as f:
+            predictions = json.load(f)
+            if isinstance(predictions, dict):
+                predictions = list(
+                    predictions.values()
+                )  # compatible with SWE-agent predictions
+            if not isinstance(predictions, list):
+                raise ValueError(
+                    "Predictions must be a list[prediction] or a dictionary[instance_id: prediction]"
+                )
+    elif predictions_path.endswith(".jsonl"):
+        with open(predictions_path, "r") as f:
+            predictions = [json.loads(line) for line in f]
+    else:
+        raise ValueError("Predictions path must be .json or .jsonl")
+
+    # Validate that each prediction has an instance_id
+    for pred in predictions:
+        if not isinstance(pred, dict):
+            raise ValueError(f"Each prediction must be a dictionary, got {type(pred)}")
+        if "instance_id" not in pred:
+            raise ValueError(f"Each prediction must contain '{'instance_id'}'")
+
+    return predictions
+
+
+def run_threadpool(func, payloads, max_workers):
+    if max_workers <= 0:
+        return run_sequential(func, payloads)
+    succeeded, failed = [], []
+    with tqdm(total=len(payloads), smoothing=0) as pbar:
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            # Create a future for running each instance
+            futures = {executor.submit(func, *payload): payload for payload in payloads}
+            # Wait for each future to complete
+            for future in as_completed(futures):
+                try:
+                    # Check if instance ran successfully
+                    future.result()
+                    succeeded.append(futures[future])
+                except Exception as e:
+                    print(f"{type(e)}: {e}")
+                    traceback.print_exc()
+                    failed.append(futures[future])
+                # Update progress bar
+                pbar.update(1)
+                pbar.set_description(
+                    f"{len(succeeded)} ran successfully, {len(failed)} failed"
+                )
+    return succeeded, failed
+
+
+def run_sequential(func, args_list):
+    """
+    Run a function with a list of arguments sequentially
+    """
+    succeeded, failed = [], []
+    pbar = tqdm(total=len(args_list), smoothing=0)
+    for args in args_list:
+        try:
+            func(*args)
+            succeeded.append(args)
+        except Exception:
+            traceback.print_exc()
+            failed.append(args)
+        pbar.update(1)
+        pbar.set_description(f"{len(succeeded)} ran successfully, {len(failed)} failed")
+    pbar.close()
+    return succeeded, failed
+
+
+def load_swebench_dataset(
+    name="SWE-bench/SWE-bench", split="test", instance_ids=None
+) -> list[SWEbenchInstance]:
+    """
+    Load SWE-bench dataset from Hugging Face Datasets or local .json/.jsonl file
+    """
+    # check that all instance IDs are in the dataset
+    if instance_ids:
+        instance_ids = set(instance_ids)
+    # Load from local file
+    if name.endswith(".json"):
+        dataset = json.loads(Path(name).read_text())
+    elif name.endswith(".jsonl"):
+        dataset = [json.loads(line) for line in Path(name).read_text().splitlines()]
+    elif name.endswith(".parquet"):
+        dataset = cast(Dataset, load_dataset("parquet", data_files=name, split="train"))
+    else:
+        # Load from Hugging Face Datasets
+        if name.lower() in {"swe-bench", "swebench", "swe_bench"}:
+            name = "SWE-bench/SWE-bench"
+        elif name.lower() in {
+            "swe-bench-lite",
+            "swebench-lite",
+            "swe_bench_lite",
+            "swe-bench_lite",
+            "lite",
+        }:
+            name = "SWE-bench/SWE-bench_Lite"
+        parquet_path = Path(name) / f"{split}.parquet"
+        if parquet_path.exists():
+            dataset = cast(
+                Dataset,
+                load_dataset("parquet", data_files=str(parquet_path), split="train"),
+            )
+        elif (Path(name) / split / "dataset_info.json").exists():
+            dataset = cast(Dataset, load_from_disk(Path(name) / split))
+        else:
+            dataset = cast(Dataset, load_dataset(name, split=split))
+    dataset_ids = {instance["instance_id"] for instance in dataset}
+    if instance_ids:
+        if instance_ids - dataset_ids:
+            raise ValueError(
+                (
+                    "Some instance IDs not found in dataset!"
+                    f"\nMissing IDs:\n{' '.join(instance_ids - dataset_ids)}"
+                )
+            )
+        dataset = [
+            instance for instance in dataset if instance["instance_id"] in instance_ids
+        ]
+    return [cast(SWEbenchInstance, instance) for instance in dataset]
+
+
+def str2bool(v):
+    """
+    Minor helper function to convert string to boolean
+    """
+    if isinstance(v, bool):
+        return v
+    if v.lower() in ("yes", "true", "t", "y", "1"):
+        return True
+    elif v.lower() in ("no", "false", "f", "n", "0"):
+        return False
+    else:
+        raise ArgumentTypeError("Boolean value expected.")
+
+
+def optional_str(value: str) -> str | None:
+    """
+    Convert special string values to None, otherwise return the string as-is.
+    """
+    if value.lower() in ("none", "null", ""):
+        return None
+    return value
+
+
+def parse_eval_script(eval_script: str) -> list[str]:
+    """Parse an eval.sh script into a command list (strip shebang + set flags)."""
+    return [
+        line
+        for line in eval_script.strip().split("\n")
+        if line not in ("#!/bin/bash", "set -uxo pipefail")
+    ]
+
+
+def record_test_exit_code(eval_script_list: list[str]) -> list[str]:
+    """Make the eval script record the test command's own exit status.
+
+    Eval scripts end with a `git checkout` that resets the test files, and run
+    under `set -uxo pipefail` without `-e`, so the script's exit status is the
+    reset's, not the tests'. Capturing `$?` immediately after the test command
+    and echoing it after the end marker keeps the value out of the parsed region.
+    """
+    for i, line in enumerate(eval_script_list):
+        if END_TEST_OUTPUT in line:
+            return [
+                *eval_script_list[:i],
+                f"{TEST_EXIT_CODE_VAR}=$?",
+                line,
+                f'echo "{TEST_EXIT_CODE}: ${TEST_EXIT_CODE_VAR}"',
+                *eval_script_list[i + 1 :],
+            ]
+    # No end marker (unrecognized script shape): leave it untouched, and grading
+    # falls back to the pre-existing behavior of trusting the log alone.
+    return eval_script_list
+
+
+def _parse_image_assets(raw) -> dict:
+    """image_assets ships as a JSON string in the HF datasets, dict when local."""
+    if not raw:
+        return {}
+    return json.loads(raw) if isinstance(raw, str) else raw
+
+
+def make_test_spec(instance: dict) -> TestSpec:
+    """
+    Build a TestSpec from a dataset instance.
+
+    The instance dict must contain: instance_id, image, repo, version,
+    FAIL_TO_PASS, PASS_TO_PASS, log_parser, eval_type, eval_script.
+    """
+    f2p = instance["FAIL_TO_PASS"]
+    p2p = instance["PASS_TO_PASS"]
+    return TestSpec(
+        instance_id=instance["instance_id"],
+        image=instance["image"],
+        eval_script_list=record_test_exit_code(
+            parse_eval_script(instance["eval_script"])
+        ),
+        repo=instance["repo"],
+        version=instance["version"],
+        FAIL_TO_PASS=json.loads(f2p) if isinstance(f2p, str) else f2p,
+        PASS_TO_PASS=json.loads(p2p) if isinstance(p2p, str) else p2p,
+        log_parser=instance["log_parser"],
+        eval_type=instance["eval_type"],
+        image_assets=_parse_image_assets(instance.get("image_assets")),
+    )

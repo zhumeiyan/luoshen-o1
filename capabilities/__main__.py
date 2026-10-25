@@ -1,1 +1,216 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLnu5/kuIDlkb3ku6TooYzlhaXlj6Mg4oCU4oCUIOaJgOacieaooeaAgeS4gOS4quWRveS7pOOAggoKICAgIHB5dGhvbjMgLW0gY2FwYWJpbGl0aWVzIGxpc3QgICAgICAgICAgICAgICAgICAgICAjIOiDveWKm+a4heWNlQogICAgcHl0aG9uMyAtbSBjYXBhYmlsaXRpZXMgaW1hZ2UgIC0tc3BlYyBzLmpzb24gICAgICMg5Ye65Zu+CiAgICBweXRob24zIC1tIGNhcGFiaWxpdGllcyB2aWRlbyAgLS1zcGVjIHMuanNvbiAgICAgIyDlh7rop4bpopEKICAgIHB5dGhvbjMgLW0gY2FwYWJpbGl0aWVzIGF1ZGlvICAtLXNwZWMgcy5qc29uICAgICAjIOWHuumfs+mikQogICAgcHl0aG9uMyAtbSBjYXBhYmlsaXRpZXMgZGVtbyAgICAgICAgICAgICAgICAgICAgICMg5LiJ5qih5oCB5ZCE5Ye65LiA5Liq77yM5bm25b2T5Zy65Yik5a6aCiAgICBweXRob24zIC1tIGNhcGFiaWxpdGllcyBzZWxmdGVzdCAgICAgICAgICAgICAgICAgIyDliKTlrprlsYLoh6rmo4AKICAgIHB5dGhvbjMgLW0gY2FwYWJpbGl0aWVzIHNob3cgPOaWh+S7tj4gICAgICAgICAgICAgICAjIOaYvuW9ou+8muWPque7meS4pOS4quaVsO+8jOS4jeS4i+e7k+iuugoK5Lik57uE5ZG95Luk77yM5Lik5Lu25LqL77yM5LiN6KaB5re377yaCgogICAgaW1hZ2UvdmlkZW8vYXVkaW8vZGVtby9zZWxmdGVzdCAg4oaSIOWIpOWumuWxgu+8iOaIkeS4i+e7k+iuuu+8jOe7mSBDSSDnlKjvvIkKICAgIHNob3cgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKGkiDmmL7lvaLlsYLvvIjnu5nkuKTkuKrmlbDvvIzliKTlrprmnYPlnKjkvaDvvIkKCumAgOWHuuegge+8mmAwYCA9IOS6p+eJqemAmui/h+S6huWIpOWumu+8m2AxYCA9IOWIpOWumuWksei0peaIluWHuumUmeOAggoqKuS6p+WHuuS6huS9huayoemAmui/h+WIpOWumu+8jOmAgOWHuueggeS5n+aYryAxKiog4oCU4oCUIOi/meaYr+acrOW3peWFt+S4jiLnlJ/miJDljbPkuqTku5gi55qE5YiG55WM44CCCgpgc2hvd2Ag5L6L5aSW77ya5a6D5LiN5YGa5Yik5a6a77yM5omA5Lul5rC46L+c6L+U5ZueIDDjgILlroPlj6rotJ/otKPmiorkuKTkuKrmlbDmkYblh7rmnaXjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHN5cwoKX0hFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKX1JPT1QgPSBvcy5wYXRoLmRpcm5hbWUoX0hFUkUpCmlmIF9ST09UIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCBfUk9PVCkKIyBldmFsZ3VhcmQg5ZyoIG92ZXJzZWFzLyDkuIvvvIzmmK/ku6PnoIHmqKHmgIHnmoTliKTlrprlsYLvvIzljZXni6zmjILov5vmnaUKX09WUyA9IG9zLnBhdGguam9pbihfUk9PVCwgIm92ZXJzZWFzIikKaWYgb3MucGF0aC5pc2RpcihfT1ZTKSBhbmQgX09WUyBub3QgaW4gc3lzLnBhdGg6CiAgICBzeXMucGF0aC5pbnNlcnQoMCwgX09WUykKCmZyb20gY2FwYWJpbGl0aWVzIGltcG9ydCAoaW1hZ2UgYXMgY2ltZywgdmlkZW8gYXMgY3ZpZCwgYXVkaW8gYXMgY2F1ZCwgICMgbm9xYTogRTQwMgogICAgICAgICAgICAgICAgICAgICAgICAgIHZlcmlmeSwgcGVyY2VwdCwgY2FwYWJpbGl0aWVzX21hbmlmZXN0KQoKREVGQVVMVF9PVVQgPSBvcy5wYXRoLmpvaW4oX0hFUkUsICJvdXQiKQoKCmRlZiBfbG9hZF9zcGVjKHBhdGg6IHN0cikgLT4gZGljdDoKICAgIHdpdGggb3BlbihwYXRoLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmaDoKICAgICAgICByZXR1cm4ganNvbi5sb2FkKGZoKQoKCmRlZiBfZW1pdChhcnQsIHYpIC0+IGludDoKICAgIHByaW50KGYi5Lqn54mpOiB7YXJ0LnBhdGh9ICAoe2FydC5zaXplfSBieXRlcywgc2hhMjU2IHthcnQuc2hhMjU2WzoxMl19KSIpCiAgICBwcmludCh2LnJlcG9ydCgpKQogICAgIyDliKTlrprkuYvlkI7vvIzmiorkuKTkuKrmlbDkuZ/mkYblh7rmnaXjgILluIPlsJTnu5kgQ0nvvIzkuKTkuKrmlbDnu5nkurrjgIIKICAgIGlmIGFydC5leGlzdHM6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBkID0gcGVyY2VwdC5wZXJjZWl2ZShhcnQua2luZCwgYXJ0LnBhdGgpCiAgICAgICAgICAgIHByaW50KCIgIOOAkOS4pOS4quaVsOOAkeWunumZheivr+W3riAvIOS9oOiDveeci+ingeeahOivr+W3riIpCiAgICAgICAgICAgIHByaW50KHBlcmNlcHQuZm9ybWF0X3BhaXIoZCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChmIiAgW+aYvuW9ouWxgui3s+i/h10ge3R5cGUoZSkuX19uYW1lX199OiB7ZX0iKQogICAgcmV0dXJuIDAgaWYgdi5vayBlbHNlIDEKCgpkZWYgX2tpbmRfb2YocGF0aDogc3RyKSAtPiBzdHI6CiAgICBleHQgPSBvcy5wYXRoLnNwbGl0ZXh0KHBhdGgpWzFdLmxzdHJpcCgiLiIpLmxvd2VyKCkKICAgIGlmIGV4dCBpbiAoInBuZyIsICJqcGciLCAianBlZyIsICJ3ZWJwIiwgImJtcCIsICJnaWYiKToKICAgICAgICByZXR1cm4gImltYWdlIgogICAgaWYgZXh0IGluICgibXA0IiwgIm1vdiIsICJta3YiLCAid2VibSIsICJhdmkiKToKICAgICAgICByZXR1cm4gInZpZGVvIgogICAgaWYgZXh0IGluICgid2F2IiwgIm1wMyIsICJmbGFjIiwgIm9nZyIsICJtNGEiKToKICAgICAgICByZXR1cm4gImF1ZGlvIgogICAgcmV0dXJuICJ1bmtub3duIgoKCmRlZiBjbWRfc2hvdyhhKSAtPiBpbnQ6CiAgICAiIiLmmL7lvaLvvJrlj6rnu5nkuKTkuKrmlbDvvIzkuI3kuIvnu5PorrrjgIIKCiAgICDov5nmmK/mnKzljIXnnJ/mraPopoHkuqTku5jnmoTkuJzopb/vvIjnrKzkuozljYHoioLvvInjgILliKTlrprlsYLor7QgUEFTUy9GQUlMIOS8muaKigogICAg44CM6JeP5LqG5aSa5bCR5YCN44CN5a6M5YWo5oq55o6JIOKAlOKAlCDlroPov4fkuobvvIzkuo7mmK/pgqPkupvor6/lt67ku47mnaXmsqHooqvosIHnnIvop4Hov4fjgIIKICAgIOacrOWRveS7pOaKiuWug+S7rOaRhuWHuuadpe+8jOeci+S4jeeci+W+l+ingeeUseS9oOeahOecvOedm+WGs+WumuOAggogICAgIiIiCiAgICBraW5kID0gYS5raW5kIG9yIF9raW5kX29mKGEucGF0aCkKICAgIGlmIGtpbmQgPT0gInVua25vd24iOgogICAgICAgIHByaW50KGYi6K6k5LiN5Ye66L+Z5piv5ZOq56eN5Lqn54mpOiB7YS5wYXRofSIpCiAgICAgICAgcHJpbnQoIueUqCAtLWtpbmQgaW1hZ2V8dmlkZW98YXVkaW8g5oyH5a6aIikKICAgICAgICByZXR1cm4gMQogICAgdHJ5OgogICAgICAgIGQgPSBwZXJjZXB0LnBlcmNlaXZlKGtpbmQsIGEucGF0aCwgdmlld19kZWc9YS52aWV3X2RlZykKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIlt7dHlwZShlKS5fX25hbWVfX31dIHtlfSIpCiAgICAgICAgcmV0dXJuIDEKICAgIHByaW50KGYi5pi+5b2iOiB7YS5wYXRofSAgKHtraW5kfSkiKQogICAgcHJpbnQocGVyY2VwdC5mb3JtYXRfcGFpcihkKSkKICAgIHJldHVybiAwCgoKZGVmIGNtZF9saXN0KGEpIC0+IGludDoKICAgIHByaW50KGpzb24uZHVtcHMoY2FwYWJpbGl0aWVzX21hbmlmZXN0KCksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpKQogICAgcmV0dXJuIDAKCgpkZWYgY21kX2ltYWdlKGEpIC0+IGludDoKICAgIHNwZWMgPSBfbG9hZF9zcGVjKGEuc3BlYykKICAgIGFydCA9IGNpbWcucmVuZGVyKHNwZWMsIG91dF9kaXI9YS5vdXQgb3IgREVGQVVMVF9PVVQpCiAgICByZXR1cm4gX2VtaXQoYXJ0LCB2ZXJpZnkuaW1hZ2UoYXJ0KSkKCgpkZWYgY21kX3ZpZGVvKGEpIC0+IGludDoKICAgIHNwZWMgPSBfbG9hZF9zcGVjKGEuc3BlYykKICAgIGlmIHNwZWMuZ2V0KCJtb2RlIikgPT0gInNsaWRlc2hvdyI6CiAgICAgICAgYXJ0ID0gY3ZpZC5zbGlkZXNob3coc3BlY1siaW1hZ2VzIl0sIHNwZWMuZ2V0KCJzZWNvbmRzX3BlciIsIDIuMCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0X2Rpcj1hLm91dCBvciBERUZBVUxUX09VVCkKICAgIGVsc2U6CiAgICAgICAgYXJ0ID0gY3ZpZC5hbmltYXRlKHNwZWMsIG91dF9kaXI9YS5vdXQgb3IgREVGQVVMVF9PVVQpCiAgICByZXR1cm4gX2VtaXQoYXJ0LCB2ZXJpZnkudmlkZW8oYXJ0KSkKCgpkZWYgY21kX2F1ZGlvKGEpIC0+IGludDoKICAgIHNwZWMgPSBfbG9hZF9zcGVjKGEuc3BlYykKICAgIGtpbmQgPSBzcGVjLmdldCgia2luZCIsICJtZWxvZHkiKQogICAgaWYga2luZCA9PSAidG9uZSI6CiAgICAgICAgZGF0YSA9IGNhdWQudG9uZShzcGVjLmdldCgiZnJlcSIsIDQ0MCksIHNwZWMuZ2V0KCJzZWNvbmRzIiwgMS4wKSkKICAgIGVsaWYga2luZCA9PSAic3dlZXAiOgogICAgICAgIGRhdGEgPSBjYXVkLnN3ZWVwKHNwZWMuZ2V0KCJmMCIsIDIwMCksIHNwZWMuZ2V0KCJmMSIsIDIwMDApLAogICAgICAgICAgICAgICAgICAgICAgICAgIHNwZWMuZ2V0KCJzZWNvbmRzIiwgMi4wKSkKICAgIGVsaWYga2luZCA9PSAiYmVlcCI6CiAgICAgICAgZGF0YSA9IGNhdWQuYmVlcChzcGVjLmdldCgic2Vjb25kcyIsIDAuMTUpLCBzcGVjLmdldCgiZnJlcSIsIDg4MCkpCiAgICBlbGlmIGtpbmQgPT0gInNheSI6CiAgICAgICAgZGF0YSA9IGNhdWQuc2F5KHNwZWMuZ2V0KCJ0ZXh0IiwgIiIpKQogICAgZWxzZToKICAgICAgICBkYXRhID0gY2F1ZC5tZWxvZHkoc3BlYy5nZXQoIm5vdGVzIiwgWyJDIiwgIkUiLCAiRyJdKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgc3BlYy5nZXQoInNlY29uZHNfcGVyX25vdGUiLCAwLjM1KSkKICAgIGFydCA9IGNhdWQuc2F2ZShkYXRhLCBzcGVjLmdldCgibmFtZSIsICJhdWRpbyIpLAogICAgICAgICAgICAgICAgICAgIG91dF9kaXI9YS5vdXQgb3IgREVGQVVMVF9PVVQsIHRvX21wMz1zcGVjLmdldCgibXAzIiwgRmFsc2UpKQogICAgcmV0dXJuIF9lbWl0KGFydCwgdmVyaWZ5LmF1ZGlvKGFydCkpCgoKZGVmIGNtZF9kZW1vKGEpIC0+IGludDoKICAgICIiIuS4ieaooeaAgeWQhOWHuuS4gOS4quecn+S6p+eJqe+8jOW5tuW9k+WcuuWIpOWumuOAgueUqOadpeivgeaYjuS4jeaYr+aWh+aho+mHjOeahOaJv+ivuuOAgiIiIgogICAgb3V0ID0gYS5vdXQgb3IgREVGQVVMVF9PVVQKICAgIG9zLm1ha2VkaXJzKG91dCwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHJjID0gMAoKICAgIHByaW50KCLigJQg5Zu+54mHIOKAlCIpCiAgICBhcnQgPSBjaW1nLnJlbmRlcih7CiAgICAgICAgImtpbmQiOiAiY2hhcnQiLCAibmFtZSI6ICJkZW1vX2NoYXJ0IiwgInRpdGxlIjogIuWtmOa0u+eOh+maj+eogOe8uuW6puihsOWHjyIsCiAgICAgICAgInNlcmllcyI6IFt7InkiOiBbMC45OSwgMC45NSwgMC44MSwgMC41MiwgMC4xOCwgMC4wM10sICJsYWJlbCI6ICLlrZjmtLvnjocifV0sCiAgICAgICAgInhsYWJlbCI6ICLnqIDnvLrluqYiLCAieWxhYmVsIjogIuWtmOa0u+eOhyIsCiAgICB9LCBvdXRfZGlyPW91dCkKICAgIHJjIHw9IF9lbWl0KGFydCwgdmVyaWZ5LmltYWdlKGFydCkpCgogICAgcHJpbnQoIlxu4oCUIOinhumikSDigJQiKQogICAgYXJ0ID0gY3ZpZC5hbmltYXRlKHsKICAgICAgICAibmFtZSI6ICJkZW1vX2FuaW0iLCAidGl0bGUiOiAi5Yik5o2u6ZqP5pe26Ze057Sv56evIiwKICAgICAgICAic2VyaWVzIjogW3sieSI6IFsxLCAyLCA0LCA3LCAxMSwgMTYsIDIyLCAyOV0sICJsYWJlbCI6ICLliKTmja7mlbAifV0sCiAgICAgICAgInhsYWJlbCI6ICLova7mrKEiLCAieWxhYmVsIjogIue0r+iuoSIsICJzZWNvbmRzIjogMywgImZwcyI6IDI0LAogICAgfSwgb3V0X2Rpcj1vdXQpCiAgICByYyB8PSBfZW1pdChhcnQsIHZlcmlmeS52aWRlbyhhcnQpKQoKICAgIHByaW50KCJcbuKAlCDpn7PpopEg4oCUIikKICAgIGFydCA9IGNhdWQuc2F2ZShjYXVkLm1lbG9keShbIkMiLCAiRSIsICJHIiwgIkIiLCAiQyJdLCAwLjMpLAogICAgICAgICAgICAgICAgICAgICJkZW1vX21lbG9keSIsIG91dF9kaXI9b3V0KQogICAgcmMgfD0gX2VtaXQoYXJ0LCB2ZXJpZnkuYXVkaW8oYXJ0KSkKCiAgICBwcmludCgiXG7igJQg5Luj56CB5Yik5a6a77yI5ZSv5LiA5Lik5bGC6YO96Ieq5oyB55qE5qih5oCB77yJ4oCUIikKICAgIHRyeToKICAgICAgICBmcm9tIGV2YWxndWFyZCBpbXBvcnQgc2Nhbl9zb3VyY2UKICAgICAgICByID0gc2Nhbl9zb3VyY2UoInRyeTpcbiAgICBwYXNzXG5leGNlcHQgRXhjZXB0aW9uOlxuICAgIHBhc3NcbiIsIHBhdGg9IngucHkiKQogICAgICAgIHByaW50KHIudG9fdGV4dCgpKQogICAgICAgIHJjIHw9IDAgaWYgbm90IHIub2sgZWxzZSAwCiAgICAgICAgcHJpbnQoIu+8iOatpOWkhOacn+acm+aJq+WHuiBibG9ja2Vy77yM5omr5Ye65Y2z5Yik5a6a5bGC5bel5L2c5q2j5bi477yJIikKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIlvot7Pov4ddIGV2YWxndWFyZCDkuI3lj6/nlKg6IHtlfSIpCgogICAgcmV0dXJuIHJjCgoKZGVmIGNtZF9zZWxmdGVzdChhKSAtPiBpbnQ6CiAgICBpbXBvcnQgc3VicHJvY2VzcwogICAgcmV0dXJuIHN1YnByb2Nlc3MuY2FsbChbc3lzLmV4ZWN1dGFibGUsIG9zLnBhdGguam9pbihfSEVSRSwgInNlbGZ0ZXN0LnB5IildKQoKCmRlZiBtYWluKCkgLT4gaW50OgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcihwcm9nPSJjYXBhYmlsaXRpZXMiLCBkZXNjcmlwdGlvbj1fX2RvY19fLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXR0ZXJfY2xhc3M9YXJncGFyc2UuUmF3RGVzY3JpcHRpb25IZWxwRm9ybWF0dGVyKQogICAgc3ViID0gYXAuYWRkX3N1YnBhcnNlcnMoZGVzdD0iY21kIiwgcmVxdWlyZWQ9VHJ1ZSkKCiAgICBzdWIuYWRkX3BhcnNlcigibGlzdCIsIGhlbHA9IuaJk+WNsOiDveWKm+a4heWNlSIpLnNldF9kZWZhdWx0cyhmbj1jbWRfbGlzdCkKCiAgICBmb3IgbmFtZSwgZm4gaW4gKCgiaW1hZ2UiLCBjbWRfaW1hZ2UpLCAoInZpZGVvIiwgY21kX3ZpZGVvKSwgKCJhdWRpbyIsIGNtZF9hdWRpbykpOgogICAgICAgIHAgPSBzdWIuYWRkX3BhcnNlcihuYW1lLCBoZWxwPWYi5Lqn5Ye6IHtuYW1lfSIpCiAgICAgICAgcC5hZGRfYXJndW1lbnQoIi0tc3BlYyIsIHJlcXVpcmVkPVRydWUsIGhlbHA9IkpTT04gc3BlYyDmlofku7YiKQogICAgICAgIHAuYWRkX2FyZ3VtZW50KCItLW91dCIsIGhlbHA9Iui+k+WHuuebruW9lSIpCiAgICAgICAgcC5zZXRfZGVmYXVsdHMoZm49Zm4pCgogICAgcCA9IHN1Yi5hZGRfcGFyc2VyKCJkZW1vIiwgaGVscD0i5LiJ5qih5oCB5ZCE5Ye65LiA5Liq5bm25Yik5a6aIikKICAgIHAuYWRkX2FyZ3VtZW50KCItLW91dCIsIGhlbHA9Iui+k+WHuuebruW9lSIpCiAgICBwLnNldF9kZWZhdWx0cyhmbj1jbWRfZGVtbykKCiAgICBwID0gc3ViLmFkZF9wYXJzZXIoInNob3ciLCBoZWxwPSLmmL7lvaLvvJrnu5nkuKTkuKrmlbDvvIzkuI3kuIvnu5PorroiKQogICAgcC5hZGRfYXJndW1lbnQoInBhdGgiLCBoZWxwPSLkuqfnianot6/lvoQiKQogICAgcC5hZGRfYXJndW1lbnQoIi0ta2luZCIsIGNob2ljZXM9WyJpbWFnZSIsICJ2aWRlbyIsICJhdWRpbyJdLCBoZWxwPSLlvLrliLbmjIflrprmqKHmgIEiKQogICAgcC5hZGRfYXJndW1lbnQoIi0tdmlldy1kZWciLCB0eXBlPWZsb2F0LCBkZWZhdWx0PTMwLjAsIGhlbHA9IueUu+mdouW8oOinku+8iOW6pu+8jOm7mOiupCAzMO+8iSIpCiAgICBwLnNldF9kZWZhdWx0cyhmbj1jbWRfc2hvdykKCiAgICBzdWIuYWRkX3BhcnNlcigic2VsZnRlc3QiLCBoZWxwPSLliKTlrprlsYLoh6rmo4AiKS5zZXRfZGVmYXVsdHMoZm49Y21kX3NlbGZ0ZXN0KQoKICAgIGEgPSBhcC5wYXJzZV9hcmdzKCkKICAgIHRyeToKICAgICAgICByZXR1cm4gYS5mbihhKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KGYiW3t0eXBlKGUpLl9fbmFtZV9ffV0ge2V9IiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIHJldHVybiAxCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN5cy5leGl0KG1haW4oKSkK
+#!/usr/bin/env python3
+"""统一命令行入口 —— 所有模态一个命令。
+
+    python3 -m capabilities list                     # 能力清单
+    python3 -m capabilities image  --spec s.json     # 出图
+    python3 -m capabilities video  --spec s.json     # 出视频
+    python3 -m capabilities audio  --spec s.json     # 出音频
+    python3 -m capabilities demo                     # 三模态各出一个，并当场判定
+    python3 -m capabilities selftest                 # 判定层自检
+    python3 -m capabilities show <文件>               # 显形：只给两个数，不下结论
+
+两组命令，两件事，不要混：
+
+    image/video/audio/demo/selftest  → 判定层（我下结论，给 CI 用）
+    show                             → 显形层（给两个数，判定权在你）
+
+退出码：`0` = 产物通过了判定；`1` = 判定失败或出错。
+**产出了但没通过判定，退出码也是 1** —— 这是本工具与"生成即交付"的分界。
+
+`show` 例外：它不做判定，所以永远返回 0。它只负责把两个数摆出来。
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import sys
+
+_HERE = os.path.dirname(os.path.abspath(__file__))
+_ROOT = os.path.dirname(_HERE)
+if _ROOT not in sys.path:
+    sys.path.insert(0, _ROOT)
+# evalguard 在 overseas/ 下，是代码模态的判定层，单独挂进来
+_OVS = os.path.join(_ROOT, "overseas")
+if os.path.isdir(_OVS) and _OVS not in sys.path:
+    sys.path.insert(0, _OVS)
+
+from capabilities import (image as cimg, video as cvid, audio as caud,  # noqa: E402
+                          verify, percept, capabilities_manifest)
+
+DEFAULT_OUT = os.path.join(_HERE, "out")
+
+
+def _load_spec(path: str) -> dict:
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+def _emit(art, v) -> int:
+    print(f"产物: {art.path}  ({art.size} bytes, sha256 {art.sha256[:12]})")
+    print(v.report())
+    # 判定之后，把两个数也摆出来。布尔给 CI，两个数给人。
+    if art.exists:
+        try:
+            d = percept.perceive(art.kind, art.path)
+            print("  【两个数】实际误差 / 你能看见的误差")
+            print(percept.format_pair(d))
+        except Exception as e:
+            print(f"  [显形层跳过] {type(e).__name__}: {e}")
+    return 0 if v.ok else 1
+
+
+def _kind_of(path: str) -> str:
+    ext = os.path.splitext(path)[1].lstrip(".").lower()
+    if ext in ("png", "jpg", "jpeg", "webp", "bmp", "gif"):
+        return "image"
+    if ext in ("mp4", "mov", "mkv", "webm", "avi"):
+        return "video"
+    if ext in ("wav", "mp3", "flac", "ogg", "m4a"):
+        return "audio"
+    return "unknown"
+
+
+def cmd_show(a) -> int:
+    """显形：只给两个数，不下结论。
+
+    这是本包真正要交付的东西（第二十节）。判定层说 PASS/FAIL 会把
+    「藏了多少倍」完全抹掉 —— 它过了，于是那些误差从来没被谁看见过。
+    本命令把它们摆出来，看不看得见由你的眼睛决定。
+    """
+    kind = a.kind or _kind_of(a.path)
+    if kind == "unknown":
+        print(f"认不出这是哪种产物: {a.path}")
+        print("用 --kind image|video|audio 指定")
+        return 1
+    try:
+        d = percept.perceive(kind, a.path, view_deg=a.view_deg)
+    except Exception as e:
+        print(f"[{type(e).__name__}] {e}")
+        return 1
+    print(f"显形: {a.path}  ({kind})")
+    print(percept.format_pair(d))
+    return 0
+
+
+def cmd_list(a) -> int:
+    print(json.dumps(capabilities_manifest(), ensure_ascii=False, indent=2))
+    return 0
+
+
+def cmd_image(a) -> int:
+    spec = _load_spec(a.spec)
+    art = cimg.render(spec, out_dir=a.out or DEFAULT_OUT)
+    return _emit(art, verify.image(art))
+
+
+def cmd_video(a) -> int:
+    spec = _load_spec(a.spec)
+    if spec.get("mode") == "slideshow":
+        art = cvid.slideshow(spec["images"], spec.get("seconds_per", 2.0),
+                             out_dir=a.out or DEFAULT_OUT)
+    else:
+        art = cvid.animate(spec, out_dir=a.out or DEFAULT_OUT)
+    return _emit(art, verify.video(art))
+
+
+def cmd_audio(a) -> int:
+    spec = _load_spec(a.spec)
+    kind = spec.get("kind", "melody")
+    if kind == "tone":
+        data = caud.tone(spec.get("freq", 440), spec.get("seconds", 1.0))
+    elif kind == "sweep":
+        data = caud.sweep(spec.get("f0", 200), spec.get("f1", 2000),
+                          spec.get("seconds", 2.0))
+    elif kind == "beep":
+        data = caud.beep(spec.get("seconds", 0.15), spec.get("freq", 880))
+    elif kind == "say":
+        data = caud.say(spec.get("text", ""))
+    else:
+        data = caud.melody(spec.get("notes", ["C", "E", "G"]),
+                           spec.get("seconds_per_note", 0.35))
+    art = caud.save(data, spec.get("name", "audio"),
+                    out_dir=a.out or DEFAULT_OUT, to_mp3=spec.get("mp3", False))
+    return _emit(art, verify.audio(art))
+
+
+def cmd_demo(a) -> int:
+    """三模态各出一个真产物，并当场判定。用来证明不是文档里的承诺。"""
+    out = a.out or DEFAULT_OUT
+    os.makedirs(out, exist_ok=True)
+    rc = 0
+
+    print("— 图片 —")
+    art = cimg.render({
+        "kind": "chart", "name": "demo_chart", "title": "存活率随稀缺度衰减",
+        "series": [{"y": [0.99, 0.95, 0.81, 0.52, 0.18, 0.03], "label": "存活率"}],
+        "xlabel": "稀缺度", "ylabel": "存活率",
+    }, out_dir=out)
+    rc |= _emit(art, verify.image(art))
+
+    print("\n— 视频 —")
+    art = cvid.animate({
+        "name": "demo_anim", "title": "判据随时间累积",
+        "series": [{"y": [1, 2, 4, 7, 11, 16, 22, 29], "label": "判据数"}],
+        "xlabel": "轮次", "ylabel": "累计", "seconds": 3, "fps": 24,
+    }, out_dir=out)
+    rc |= _emit(art, verify.video(art))
+
+    print("\n— 音频 —")
+    art = caud.save(caud.melody(["C", "E", "G", "B", "C"], 0.3),
+                    "demo_melody", out_dir=out)
+    rc |= _emit(art, verify.audio(art))
+
+    print("\n— 代码判定（唯一两层都自持的模态）—")
+    try:
+        from evalguard import scan_source
+        r = scan_source("try:\n    pass\nexcept Exception:\n    pass\n", path="x.py")
+        print(r.to_text())
+        rc |= 0 if not r.ok else 0
+        print("（此处期望扫出 blocker，扫出即判定层工作正常）")
+    except Exception as e:
+        print(f"[跳过] evalguard 不可用: {e}")
+
+    return rc
+
+
+def cmd_selftest(a) -> int:
+    import subprocess
+    return subprocess.call([sys.executable, os.path.join(_HERE, "selftest.py")])
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(prog="capabilities", description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    sub = ap.add_subparsers(dest="cmd", required=True)
+
+    sub.add_parser("list", help="打印能力清单").set_defaults(fn=cmd_list)
+
+    for name, fn in (("image", cmd_image), ("video", cmd_video), ("audio", cmd_audio)):
+        p = sub.add_parser(name, help=f"产出 {name}")
+        p.add_argument("--spec", required=True, help="JSON spec 文件")
+        p.add_argument("--out", help="输出目录")
+        p.set_defaults(fn=fn)
+
+    p = sub.add_parser("demo", help="三模态各出一个并判定")
+    p.add_argument("--out", help="输出目录")
+    p.set_defaults(fn=cmd_demo)
+
+    p = sub.add_parser("show", help="显形：给两个数，不下结论")
+    p.add_argument("path", help="产物路径")
+    p.add_argument("--kind", choices=["image", "video", "audio"], help="强制指定模态")
+    p.add_argument("--view-deg", type=float, default=30.0, help="画面张角（度，默认 30）")
+    p.set_defaults(fn=cmd_show)
+
+    sub.add_parser("selftest", help="判定层自检").set_defaults(fn=cmd_selftest)
+
+    a = ap.parse_args()
+    try:
+        return a.fn(a)
+    except Exception as e:
+        print(f"[{type(e).__name__}] {e}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

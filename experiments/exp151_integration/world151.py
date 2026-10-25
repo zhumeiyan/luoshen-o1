@@ -1,1 +1,78 @@
-IiIiMTUxIOS4lueVjCB2Mu+8muecn+WunuebruW9leagkSArIOmrmOi/numAmuW6piArIOeogOeWj+mrmOS7t+WAvOebruaghwpHMCDmlZnorq3vvJrluqY9MyDml7YgdmlzaXRlZCDmg6nnvZrkuLvlr7zkuIDliIfvvIzku7flgLzkvLDorqHkuI7op4TliJLmsqbkuLrlubLmibDjgIIKdjIg5o+Q6auY5bqm5YiwIH4477yM5bm25oqK55uu5qCH6K6+5Li656iA55aP55qEIHRvcC0xNSUg6auY5Lu35YC86IqC54K577yM5L2/IuWumuWQkeaQnOe0oiLmnInmhI/kuYnjgIIKIiIiCmltcG9ydCBvcywgbWF0aCwganNvbiwgdGltZSwgcmFuZG9tCgpST09UID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xIgoKZGVmIHNjYW4obGltaXQ9NTAwKToKICAgIG5vZGVzLCBlZGdlcyA9IFtdLCB7fQogICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICBmb3IgZGlycGF0aCwgZGlybmFtZXMsIGZpbGVuYW1lcyBpbiBvcy53YWxrKFJPT1QpOgogICAgICAgIGlmIGxlbihub2RlcykgPj0gbGltaXQ6IGJyZWFrCiAgICAgICAgdHJ5OiBzdCA9IG9zLnN0YXQoZGlycGF0aCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBjb250aW51ZQogICAgICAgIGRlcHRoID0gZGlycGF0aFtsZW4oUk9PVCk6XS5jb3VudChvcy5zZXApCiAgICAgICAgbm9kZXMuYXBwZW5kKChkaXJwYXRoLCBkZXB0aCwgMCwgbGVuKGRpcm5hbWVzKStsZW4oZmlsZW5hbWVzKSwKICAgICAgICAgICAgICAgICAgICAgIGxlbihvcy5wYXRoLmJhc2VuYW1lKGRpcnBhdGgpKSwgc3Quc3RfbXRpbWUpKQogICAgICAgIGVkZ2VzW2RpcnBhdGhdID0gW29zLnBhdGguam9pbihkaXJwYXRoLCBkKSBmb3IgZCBpbiBkaXJuYW1lc10KICAgICAgICBmb3IgZm4gaW4gZmlsZW5hbWVzOgogICAgICAgICAgICBpZiBsZW4obm9kZXMpID49IGxpbWl0OiBicmVhawogICAgICAgICAgICB0cnk6IHN6ID0gb3Muc3RhdChvcy5wYXRoLmpvaW4oZGlycGF0aCwgZm4pKS5zdF9zaXplCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHN6ID0gMAogICAgICAgICAgICBub2Rlcy5hcHBlbmQoKG9zLnBhdGguam9pbihkaXJwYXRoLCBmbiksIGRlcHRoKzEsIHN6LCAwLCBsZW4oZm4pLCBzdC5zdF9tdGltZSkpCiAgICByZXR1cm4gbm9kZXMsIGVkZ2VzLCB0aW1lLnBlcmZfY291bnRlcigpLXQwCgpjbGFzcyBXb3JsZDoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBsaW1pdD01MDAsIGRlZ3JlZV9ib29zdD02LCBzZWVkPTExKToKICAgICAgICBub2RlcywgZWRnZXMsIGR0ID0gc2NhbihsaW1pdCkKICAgICAgICBzZWxmLnNjYW5fbXMgPSByb3VuZChkdCoxMDAwLCAxKQogICAgICAgIHNlbGYubm9kZXMgPSBub2RlcwogICAgICAgIHNlbGYubiA9IGxlbihub2RlcykKICAgICAgICBybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICAgICAgaWR4ID0ge25bMF06IGkgZm9yIGksIG4gaW4gZW51bWVyYXRlKG5vZGVzKX0KICAgICAgICBzZWxmLmFkaiA9IHt9CiAgICAgICAgYnlkZXB0aCA9IHt9CiAgICAgICAgZm9yIGksIChwLCBkLCBzeiwgbmMsIG5sLCBtdCkgaW4gZW51bWVyYXRlKG5vZGVzKToKICAgICAgICAgICAgYnlkZXB0aC5zZXRkZWZhdWx0KGQsIFtdKS5hcHBlbmQoaSkKICAgICAgICBmb3IgaSwgKHAsIGQsIHN6LCBuYywgbmwsIG10KSBpbiBlbnVtZXJhdGUobm9kZXMpOgogICAgICAgICAgICBuYiA9IHNldCgpCiAgICAgICAgICAgIGlmIHAgaW4gZWRnZXM6CiAgICAgICAgICAgICAgICBmb3IgYyBpbiBlZGdlc1twXToKICAgICAgICAgICAgICAgICAgICBpZiBjIGluIGlkeDogbmIuYWRkKGlkeFtjXSkKICAgICAgICAgICAgcGFyID0gb3MucGF0aC5kaXJuYW1lKHApCiAgICAgICAgICAgIGlmIHBhciBpbiBpZHg6IG5iLmFkZChpZHhbcGFyXSkKICAgICAgICAgICAgaWYgaSA+IDA6IG5iLmFkZChpLTEpCiAgICAgICAgICAgIGlmIGkgPCBzZWxmLm4tMTogbmIuYWRkKGkrMSkKICAgICAgICAgICAgIyDlkIzmt7Hluqbpmo/mnLrovrnvvIjmj5Dpq5jov57pgJrluqbvvIzkvb/op4TliJLkuI7pgInmi6nmnInmhI/kuYnvvIkKICAgICAgICAgICAgcG9vbCA9IGJ5ZGVwdGguZ2V0KGQsIFtdKQogICAgICAgICAgICBpZiBsZW4ocG9vbCkgPiAxOgogICAgICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoZGVncmVlX2Jvb3N0KToKICAgICAgICAgICAgICAgICAgICBuYi5hZGQocG9vbFtybmcucmFuZHJhbmdlKGxlbihwb29sKSldKQogICAgICAgICAgICAjIOi3qOa3seW6pumaj+acuui+ue+8iOWItumAoCLmjbflvoQi77yM5L2/5Zyw5Zu+5pyJ5Lu35YC877yJCiAgICAgICAgICAgIGZvciBfIGluIHJhbmdlKDIpOgogICAgICAgICAgICAgICAgbmIuYWRkKHJuZy5yYW5kcmFuZ2Uoc2VsZi5uKSkKICAgICAgICAgICAgbmIuZGlzY2FyZChpKQogICAgICAgICAgICBzZWxmLmFkaltpXSA9IHNvcnRlZChuYikKICAgICAgICBzZWxmLmZlYXQgPSBbXQogICAgICAgIG10cyA9IFtuWzVdIGZvciBuIGluIG5vZGVzXQogICAgICAgIG10MCwgbXQxID0gbWluKG10cyksIG1heChtdHMpCiAgICAgICAgZm9yIChwLCBkLCBzeiwgbmMsIG5sLCBtdCkgaW4gbm9kZXM6CiAgICAgICAgICAgIHNlbGYuZmVhdC5hcHBlbmQoW2QvMTIuMCwgbWF0aC5sb2cxcChzeikvMTUuMCwgbmMvMzAuMCwgbmwvNjAuMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG10LW10MCkvKG10MS1tdDArMWUtOSldKQogICAgICAgIFdfVFJVRSA9IFswLjM1LCAwLjM1LCAwLjE1LCAwLjA1LCAwLjEwXQogICAgICAgIHNlbGYudmFsdWUgPSBbc3VtKHcqeCBmb3IgdywgeCBpbiB6aXAoV19UUlVFLCBmKSkgZm9yIGYgaW4gc2VsZi5mZWF0XQogICAgICAgIHNlbGYuV19UUlVFID0gV19UUlVFCiAgICAgICAgIyDnqIDnlo/pq5jku7flgLznm67moIfvvJp2YWx1ZSDliY0gMTUlCiAgICAgICAgb3JkZXIgPSBzb3J0ZWQocmFuZ2Uoc2VsZi5uKSwga2V5PWxhbWJkYSBpOiAtc2VsZi52YWx1ZVtpXSkKICAgICAgICBzZWxmLnRhcmdldHMgPSBzZXQob3JkZXJbOm1heCg1LCBpbnQoMC4xNSpzZWxmLm4pKV0pCiAgICAgICAgZGVnID0gW2xlbih2KSBmb3IgdiBpbiBzZWxmLmFkai52YWx1ZXMoKV0KICAgICAgICBzZWxmLmRlZ19tZWFuID0gcm91bmQoc3VtKGRlZykvc2VsZi5uLCAyKQoKICAgIGRlZiBuZWlnaGJvcnMoc2VsZiwgaSk6IHJldHVybiBzZWxmLmFkai5nZXQoaSwgW10pCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgdyA9IFdvcmxkKDUwMCkKICAgIHByaW50KCJuIiwgdy5uLCAiZGVnX21lYW4iLCB3LmRlZ19tZWFuLCAidGFyZ2V0cyIsIGxlbih3LnRhcmdldHMpLCAic2Nhbl9tcyIsIHcuc2Nhbl9tcykKICAgIHByaW50KCJ2YWx1ZSBtaW4vbWVhbi9tYXgiLCByb3VuZChtaW4ody52YWx1ZSksNCksIHJvdW5kKHN1bSh3LnZhbHVlKS93Lm4sNCksIHJvdW5kKG1heCh3LnZhbHVlKSw0KSkK
+"""151 世界 v2：真实目录树 + 高连通度 + 稀疏高价值目标
+G0 教训：度=3 时 visited 惩罚主导一切，价值估计与规划沦为干扰。
+v2 提高度到 ~8，并把目标设为稀疏的 top-15% 高价值节点，使"定向搜索"有意义。
+"""
+import os, math, json, time, random
+
+ROOT = "/data/workspace/luoshen-o1"
+
+def scan(limit=500):
+    nodes, edges = [], {}
+    t0 = time.perf_counter()
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        if len(nodes) >= limit: break
+        try: st = os.stat(dirpath)
+        except Exception: continue
+        depth = dirpath[len(ROOT):].count(os.sep)
+        nodes.append((dirpath, depth, 0, len(dirnames)+len(filenames),
+                      len(os.path.basename(dirpath)), st.st_mtime))
+        edges[dirpath] = [os.path.join(dirpath, d) for d in dirnames]
+        for fn in filenames:
+            if len(nodes) >= limit: break
+            try: sz = os.stat(os.path.join(dirpath, fn)).st_size
+            except Exception: sz = 0
+            nodes.append((os.path.join(dirpath, fn), depth+1, sz, 0, len(fn), st.st_mtime))
+    return nodes, edges, time.perf_counter()-t0
+
+class World:
+    def __init__(self, limit=500, degree_boost=6, seed=11):
+        nodes, edges, dt = scan(limit)
+        self.scan_ms = round(dt*1000, 1)
+        self.nodes = nodes
+        self.n = len(nodes)
+        rng = random.Random(seed)
+        idx = {n[0]: i for i, n in enumerate(nodes)}
+        self.adj = {}
+        bydepth = {}
+        for i, (p, d, sz, nc, nl, mt) in enumerate(nodes):
+            bydepth.setdefault(d, []).append(i)
+        for i, (p, d, sz, nc, nl, mt) in enumerate(nodes):
+            nb = set()
+            if p in edges:
+                for c in edges[p]:
+                    if c in idx: nb.add(idx[c])
+            par = os.path.dirname(p)
+            if par in idx: nb.add(idx[par])
+            if i > 0: nb.add(i-1)
+            if i < self.n-1: nb.add(i+1)
+            # 同深度随机边（提高连通度，使规划与选择有意义）
+            pool = bydepth.get(d, [])
+            if len(pool) > 1:
+                for _ in range(degree_boost):
+                    nb.add(pool[rng.randrange(len(pool))])
+            # 跨深度随机边（制造"捷径"，使地图有价值）
+            for _ in range(2):
+                nb.add(rng.randrange(self.n))
+            nb.discard(i)
+            self.adj[i] = sorted(nb)
+        self.feat = []
+        mts = [n[5] for n in nodes]
+        mt0, mt1 = min(mts), max(mts)
+        for (p, d, sz, nc, nl, mt) in nodes:
+            self.feat.append([d/12.0, math.log1p(sz)/15.0, nc/30.0, nl/60.0,
+                              (mt-mt0)/(mt1-mt0+1e-9)])
+        W_TRUE = [0.35, 0.35, 0.15, 0.05, 0.10]
+        self.value = [sum(w*x for w, x in zip(W_TRUE, f)) for f in self.feat]
+        self.W_TRUE = W_TRUE
+        # 稀疏高价值目标：value 前 15%
+        order = sorted(range(self.n), key=lambda i: -self.value[i])
+        self.targets = set(order[:max(5, int(0.15*self.n))])
+        deg = [len(v) for v in self.adj.values()]
+        self.deg_mean = round(sum(deg)/self.n, 2)
+
+    def neighbors(self, i): return self.adj.get(i, [])
+
+if __name__ == "__main__":
+    w = World(500)
+    print("n", w.n, "deg_mean", w.deg_mean, "targets", len(w.targets), "scan_ms", w.scan_ms)
+    print("value min/mean/max", round(min(w.value),4), round(sum(w.value)/w.n,4), round(max(w.value),4))

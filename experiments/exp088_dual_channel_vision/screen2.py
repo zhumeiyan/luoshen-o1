@@ -1,1 +1,12 @@
-aW1wb3J0IG51bXB5IGFzIG5wLCBjdjIsIHN1YnByb2Nlc3MsIG9zClcsSD0xMDI0LDc2OAppbWc9Y3YyLmltcmVhZCgiaW1nX2NpcmNsZV9jb25mbGljdC5wbmciLDApCmgsdz1pbWcuc2hhcGUKcz1taW4oSC9oLCBXL3cpOyBuaCxudz1pbnQoaCpzKSxpbnQodypzKQppbT1jdjIucmVzaXplKGltZywobncsbmgpLGludGVycG9sYXRpb249Y3YyLklOVEVSX0xJTkVBUikKY2FudmFzPW5wLmZ1bGwoKEgsVyksMjU1LG5wLnVpbnQ4KQpjYW52YXNbKEgtbmgpLy8yOihILW5oKS8vMituaCwgKFctbncpLy8yOihXLW53KS8vMitud109aW0KYmdyYT1jdjIuY3Z0Q29sb3IoY2FudmFzLGN2Mi5DT0xPUl9HUkFZMkJHUkEpCm9wZW4oIi9kZXYvZmIwIiwid2IiKS53cml0ZShiZ3JhLnRvYnl0ZXMoKSkKc3VicHJvY2Vzcy5ydW4oWyJmZm1wZWciLCIteSIsIi1mIiwiZmJkZXYiLCItZnJhbWVyYXRlIiwiMSIsIi1pIiwiL2Rldi9mYjAiLCItZnJhbWVzOnYiLCIxIiwic2NyZWVuMi5wbmciXSxjYXB0dXJlX291dHB1dD1UcnVlKQpwcmludCgi562J5q+U5LiK5bGPIixudywieCIsbmgsIumHh+mbhiIsb3MucGF0aC5nZXRzaXplKCJzY3JlZW4yLnBuZyIpKQo=
+import numpy as np, cv2, subprocess, os
+W,H=1024,768
+img=cv2.imread("img_circle_conflict.png",0)
+h,w=img.shape
+s=min(H/h, W/w); nh,nw=int(h*s),int(w*s)
+im=cv2.resize(img,(nw,nh),interpolation=cv2.INTER_LINEAR)
+canvas=np.full((H,W),255,np.uint8)
+canvas[(H-nh)//2:(H-nh)//2+nh, (W-nw)//2:(W-nw)//2+nw]=im
+bgra=cv2.cvtColor(canvas,cv2.COLOR_GRAY2BGRA)
+open("/dev/fb0","wb").write(bgra.tobytes())
+subprocess.run(["ffmpeg","-y","-f","fbdev","-framerate","1","-i","/dev/fb0","-frames:v","1","screen2.png"],capture_output=True)
+print("等比上屏",nw,"x",nh,"采集",os.path.getsize("screen2.png"))

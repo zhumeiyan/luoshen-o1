@@ -1,1 +1,185 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMjA2Yjog546v5aKD6LWE5rqQ5YWF6Laz5bqm5Yaz5a6a55Sf5oCB57uT5p6ECjIwNiDkuLvlrp7pqozph4wgQSDlh7rnjrAgaz0xIOWehOaWreOAgWs9MiDnga3nu53vvIzkuI4gMTc2IOWPtyJrPTIg5pyA5LyYIuefm+ebvuOAggrlgYforr7vvJrkuI3mmK/nn5vnm77vvIzmmK/or63mlpnlpKrlsI/vvIhOL1Y9Ni4177yJ5a+86Ie06auY6Zi25qih5Z6L5pWw5o2u56iA55aP5b+F6L6T44CCCuacrOWunumqjOWBmiLor63mlpnop4TmqKHmoq/luqYi77yM55yLIHdpbm5lciBrIOS4juWkmuagt+aAp+WmguS9lemaj+i1hOa6kOWPmOWMluOAggoiIiIKaW1wb3J0IGpzb24sIG9zLCBtYXRoLCByYW5kb20KZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKCkJBU0UgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiCkNPUlBVUyA9IGYie0JBU0V9L2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0IgpKSyA9IGYie0JBU0V9L2V2aWRlbmNlL+Wksei0peaooeW8j+W6ky/liKTmja7moLgubWQiCk9VVCA9IGYie0JBU0V9L2V4cGVyaW1lbnRzL2V4cDIwNl9jb21wZXRlIgpvcy5tYWtlZGlycyhPVVQsIGV4aXN0X29rPVRydWUpClNFRUQgPSAyMDI2MTAxOQoKCmNsYXNzIE5HcmFtOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGssIGFscGhhPTAuMDUsIGd2PU5vbmUpOgogICAgICAgIHNlbGYuaywgc2VsZi5hbHBoYSwgc2VsZi5ndiA9IGssIGFscGhhLCAoZ3Ygb3Igc2V0KCkpCiAgICAgICAgc2VsZi5jID0gZGVmYXVsdGRpY3QobGFtYmRhOiBkZWZhdWx0ZGljdChmbG9hdCkpCiAgICAgICAgc2VsZi50ID0gZGVmYXVsdGRpY3QoZmxvYXQpCiAgICAgICAgc2VsZi52b2NhYiA9IHNldCgpCgogICAgZGVmIHRyYWluKHNlbGYsIHRleHQpOgogICAgICAgIGsgPSBzZWxmLmsKICAgICAgICBjLCB0LCB2YiA9IHNlbGYuYywgc2VsZi50LCBzZWxmLnZvY2FiCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRleHQpIC0gayk6CiAgICAgICAgICAgIGN0eCwgY2ggPSB0ZXh0W2k6aSArIGtdLCB0ZXh0W2kgKyBrXQogICAgICAgICAgICBjW2N0eF1bY2hdICs9IDEuMAogICAgICAgICAgICB0W2N0eF0gKz0gMS4wCiAgICAgICAgICAgIHZiLmFkZChjaCkKCiAgICBkZWYgcHJvYihzZWxmLCBjdHgsIGNoKToKICAgICAgICBWID0gbWF4KGxlbihzZWxmLnZvY2FiIHwgc2VsZi5ndiksIDEpCiAgICAgICAgY2MgPSBzZWxmLmMuZ2V0KGN0eCkKICAgICAgICByZXR1cm4gKChjYy5nZXQoY2gsIDAuMCkgaWYgY2MgZWxzZSAwLjApICsgc2VsZi5hbHBoYSkgLyAoc2VsZi50LmdldChjdHgsIDAuMCkgKyBzZWxmLmFscGhhICogVikKCgpkZWYgYWxpZ25lZF9iaXRzKG1vZGVscywgdGV4dCk6CiAgICBpZiBub3QgbW9kZWxzOgogICAgICAgIHJldHVybiB7fQogICAga21heCA9IG1heChtLmsgZm9yIG0gaW4gbW9kZWxzKQogICAgcmVzID0ge30KICAgIGZvciBtIGluIG1vZGVsczoKICAgICAgICB0b3QsIG4gPSAwLjAsIDAKICAgICAgICBmb3IgdCBpbiByYW5nZShrbWF4LCBsZW4odGV4dCkpOgogICAgICAgICAgICB0b3QgKz0gLW1hdGgubG9nMihtYXgobS5wcm9iKHRleHRbdCAtIG0uazp0XSwgdGV4dFt0XSksIDFlLTEyKSkKICAgICAgICAgICAgbiArPSAxCiAgICAgICAgcmVzW2lkKG0pXSA9ICh0b3QgLyBuKSBpZiBuIGVsc2UgOTkuMAogICAgcmV0dXJuIHJlcwoKCmRlZiBlbnNfYml0cyhtb2RlbHMsIHRleHQpOgogICAgaWYgbm90IG1vZGVsczoKICAgICAgICByZXR1cm4gTm9uZQogICAga21heCA9IG1heChtLmsgZm9yIG0gaW4gbW9kZWxzKQogICAgaWYgbGVuKHRleHQpIDw9IGttYXg6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHcgPSAxLjAgLyBsZW4obW9kZWxzKQogICAgdG90LCBuID0gMC4wLCAwCiAgICBmb3IgdCBpbiByYW5nZShrbWF4LCBsZW4odGV4dCkpOgogICAgICAgIHAgPSBzdW0odyAqIG0ucHJvYih0ZXh0W3QgLSBtLms6dF0sIHRleHRbdF0pIGZvciBtIGluIG1vZGVscykKICAgICAgICB0b3QgKz0gLW1hdGgubG9nMihtYXgocCwgMWUtMTIpKQogICAgICAgIG4gKz0gMQogICAgcmV0dXJuIHRvdCAvIG4KCgpkZWYgc2FtcGxlX3RleHQoc3JjLCBuX3Rvaywgcm5nLCBzZWc9NjApOgogICAgaWYgbl90b2sgPD0gMCBvciBub3Qgc3JjOgogICAgICAgIHJldHVybiAiIgogICAgaWYgbGVuKHNyYykgPD0gc2VnOgogICAgICAgIHJldHVybiAoc3JjICogKGludChuX3RvayAvLyBsZW4oc3JjKSkgKyAxKSlbOm5fdG9rXQogICAgb3V0LCBnb3QgPSBbXSwgMAogICAgd2hpbGUgZ290IDwgbl90b2s6CiAgICAgICAgaSA9IHJuZy5yYW5kcmFuZ2UoMCwgbGVuKHNyYykgLSBzZWcpCiAgICAgICAgb3V0LmFwcGVuZChzcmNbaTppICsgc2VnXSkKICAgICAgICBnb3QgKz0gc2VnCiAgICByZXR1cm4gIiIuam9pbihvdXQpWzpuX3Rva10KCgpkZWYgZW50cm9weShzaCk6CiAgICBzID0gW3ggZm9yIHggaW4gc2ggaWYgeCA+IDFlLTEyXQogICAgdG90ID0gc3VtKHMpCiAgICBpZiB0b3QgPD0gMDoKICAgICAgICByZXR1cm4gMC4wCiAgICByZXR1cm4gLXN1bSgoeCAvIHRvdCkgKiBtYXRoLmxvZyh4IC8gdG90KSBmb3IgeCBpbiBzKQoKCmRlZiBzdGVwKHNoYXJlcywgZml0LCBiZXRhKToKICAgIGtzID0gbGlzdChzaGFyZXMua2V5cygpKQogICAgdiA9IFtmaXRba10gZm9yIGsgaW4ga3NdCiAgICBtdSA9IHN1bSh2KSAvIGxlbih2KQogICAgc2QgPSAoc3VtKCh4IC0gbXUpICoqIDIgZm9yIHggaW4gdikgLyBsZW4odikpICoqIDAuNQogICAgaWYgc2QgPCAxZS0xMjoKICAgICAgICByZXR1cm4gZGljdChzaGFyZXMpCiAgICBuZXcgPSB7azogc2hhcmVzW2tdICogbWF0aC5leHAoYmV0YSAqIChmaXRba10gLSBtdSkgLyBzZCkgZm9yIGsgaW4ga3N9CiAgICB0b3QgPSBzdW0obmV3LnZhbHVlcygpKQogICAgcmV0dXJuIHtrOiBuZXdba10gLyB0b3QgZm9yIGsgaW4ga3N9CgoKZGVmIHJlcGxpY2F0b3IocG9vbCwgdGVzdCwgZ3YsIGtzLCBCLCByb3VuZHMsIGJldGEsIHNlZWQsIHJ1bGU9ImFic29sdXRlIik6CiAgICBybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICBzaGFyZXMgPSB7azogMS4wIC8gbGVuKGtzKSBmb3IgayBpbiBrc30KICAgIGVudHMgPSBbXQogICAgZm9yIHIgaW4gcmFuZ2Uocm91bmRzKToKICAgICAgICBtb2RlbHMgPSB7fQogICAgICAgIGZvciBrIGluIGtzOgogICAgICAgICAgICBtID0gTkdyYW0oaywgZ3Y9Z3YpCiAgICAgICAgICAgIG0udHJhaW4oc2FtcGxlX3RleHQocG9vbCwgaW50KHNoYXJlc1trXSAqIEIpLCBybmcpKQogICAgICAgICAgICBtb2RlbHNba10gPSBtCiAgICAgICAgZW50cy5hcHBlbmQocm91bmQoZW50cm9weShbc2hhcmVzW2tdIGZvciBrIGluIGtzXSksIDUpKQogICAgICAgIGFiID0gYWxpZ25lZF9iaXRzKFttb2RlbHNba10gZm9yIGsgaW4ga3NdLCB0ZXN0KQogICAgICAgIGlmIHJ1bGUgPT0gImFic29sdXRlIjoKICAgICAgICAgICAgZml0ID0ge2s6IC1hYltpZChtb2RlbHNba10pXSBmb3IgayBpbiBrc30KICAgICAgICBlbHNlOgogICAgICAgICAgICBmdWxsID0gZW5zX2JpdHMoW21vZGVsc1trXSBmb3IgayBpbiBrc10sIHRlc3QpCiAgICAgICAgICAgIGZpdCA9IHt9CiAgICAgICAgICAgIGZvciBrIGluIGtzOgogICAgICAgICAgICAgICAgc3ViID0gZW5zX2JpdHMoW21vZGVsc1tqXSBmb3IgaiBpbiBrcyBpZiBqICE9IGtdLCB0ZXN0KQogICAgICAgICAgICAgICAgZml0W2tdID0gKHN1YiAtIGZ1bGwpIGlmIChzdWIgaXMgbm90IE5vbmUgYW5kIGZ1bGwgaXMgbm90IE5vbmUpIGVsc2UgMC4wCiAgICAgICAgc2hhcmVzID0gc3RlcChzaGFyZXMsIGZpdCwgYmV0YSkKICAgIGZtID0ge30KICAgIGZvciBrIGluIGtzOgogICAgICAgIG0gPSBOR3JhbShrLCBndj1ndikKICAgICAgICBtLnRyYWluKHNhbXBsZV90ZXh0KHBvb2wsIGludChzaGFyZXNba10gKiBCKSwgcmFuZG9tLlJhbmRvbShzZWVkICsgNzcpKSkKICAgICAgICBmbVtrXSA9IG0KICAgIGFiID0gYWxpZ25lZF9iaXRzKFtmbVtrXSBmb3IgayBpbiBrc10sIHRlc3QpCiAgICB3aW4gPSBtYXgoa3MsIGtleT1sYW1iZGEgazogc2hhcmVzW2tdKQogICAgcmV0dXJuIHsKICAgICAgICAid2lubmVyX2siOiB3aW4sCiAgICAgICAgIndpbm5lcl9zaGFyZSI6IHJvdW5kKHNoYXJlc1t3aW5dLCA1KSwKICAgICAgICAiZmluYWxfc2hhcmVzIjoge3N0cihrKTogcm91bmQoc2hhcmVzW2tdLCA1KSBmb3IgayBpbiBrc30sCiAgICAgICAgImZpbmFsX2JpdHMiOiB7c3RyKGspOiByb3VuZChhYltpZChmbVtrXSldLCA1KSBmb3IgayBpbiBrc30sCiAgICAgICAgImVudHJvcHlfc3RhcnQiOiBlbnRzWzBdLCAiZW50cm9weV9lbmQiOiByb3VuZChlbnRyb3B5KFtzaGFyZXNba10gZm9yIGsgaW4ga3NdKSwgNSksCiAgICAgICAgImVudHJvcHlfaGlzdG9yeSI6IGVudHMsCiAgICAgICAgInN5c3RlbV9iaXRzIjogcm91bmQoZW5zX2JpdHMoW2ZtW2tdIGZvciBrIGluIGtzXSwgdGVzdCksIDUpIGlmIGVuc19iaXRzKFtmbVtrXSBmb3IgayBpbiBrc10sIHRlc3QpIGVsc2UgTm9uZSwKICAgICAgICAibl9leHRpbmN0Ijogc3VtKDEgZm9yIGsgaW4ga3MgaWYgc2hhcmVzW2tdIDwgMC4wMSksCiAgICB9CgoKZGVmIGJ1aWxkKG5hbWUpOgogICAgaWYgbmFtZSA9PSAic21hbGwiOgogICAgICAgIGxpbmVzID0gW2wuc3RyaXAoKSBmb3IgbCBpbiBvcGVuKENPUlBVUywgZW5jb2Rpbmc9InV0Zi04IikgaWYgbC5zdHJpcCgpXQogICAgZWxzZToKICAgICAgICBqayA9IG9wZW4oSkssIGVuY29kaW5nPSJ1dGYtOCIpLnJlYWQoKQogICAgICAgIGNhcCA9IHsibWlkIjogMzAwMDAsICJsYXJnZSI6IDgwMDAwfVtuYW1lXQogICAgICAgIGprID0gamtbOmNhcF0KICAgICAgICBsaW5lcyA9IFtsIGZvciBsIGluIGprLnNwbGl0KCJcbiIpIGlmIGwuc3RyaXAoKV0KICAgIG50ID0gbWF4KDQsIGludChsZW4obGluZXMpICogMC4yKSkKICAgIHRyLCB0ZSA9IGxpbmVzWzotbnRdLCBsaW5lc1stbnQ6XQogICAgcG9vbCwgdGVzdCA9ICJcbiIuam9pbih0ciksICJcbiIuam9pbih0ZSkKICAgIGd2ID0gc2V0KHBvb2wpIHwgc2V0KHRlc3QpCiAgICByZXR1cm4gcG9vbCwgdGVzdCwgZ3YsIGxlbihwb29sKSwgbGVuKGd2KQoKCmRlZiBtYWluKCk6CiAgICBrcyA9ICgxLCAyLCAzLCA0KQogICAgb3V0ID0geyJrcyI6IGxpc3Qoa3MpLCAic2NhbGVfc2NhbiI6IHt9LCAibGFyZ2VfYWxsb2NhdGlvbiI6IHt9fQogICAgZm9yIG5hbWUgaW4gKCJzbWFsbCIsICJtaWQiLCAibGFyZ2UiKToKICAgICAgICBwb29sLCB0ZXN0LCBndiwgbnBvb2wsIG52ID0gYnVpbGQobmFtZSkKICAgICAgICBCID0gbWF4KDIwMDAwLCBpbnQobnBvb2wgKiAxLjUpKQogICAgICAgIHIgPSByZXBsaWNhdG9yKHBvb2wsIHRlc3QsIGd2LCBrcywgQiwgcm91bmRzPTYsIGJldGE9My4wLCBzZWVkPVNFRUQpCiAgICAgICAgclsiY29ycHVzX2NoYXJzIl0gPSBucG9vbAogICAgICAgIHJbInZvY2FiIl0gPSBudgogICAgICAgIHJbIk5fb3Zlcl9WIl0gPSByb3VuZChucG9vbCAvIG1heChudiwgMSksIDMpCiAgICAgICAgclsiQiJdID0gQgogICAgICAgIG91dFsic2NhbGVfc2NhbiJdW25hbWVdID0gcgogICAgICAgIHByaW50KGYiW3tuYW1lfV0gTj17bnBvb2x9IFY9e252fSBOL1Y9e3JbJ05fb3Zlcl9WJ119IC0+IHdpbm5lciBrPXtyWyd3aW5uZXJfayddfSBzaGFyZT17clsnd2lubmVyX3NoYXJlJ119IGVudHJvcHkge3JbJ2VudHJvcHlfc3RhcnQnXX0tPntyWydlbnRyb3B5X2VuZCddfSBleHRpbmN0PXtyWyduX2V4dGluY3QnXX0iKQogICAgIyDlpKfor63mlpnkuIsgYWJzb2x1dGUgdnMgbWFyZ2luYWwKICAgIHBvb2wsIHRlc3QsIGd2LCBucG9vbCwgbnYgPSBidWlsZCgibGFyZ2UiKQogICAgQiA9IG1heCgyMDAwMCwgaW50KG5wb29sICogMS41KSkKICAgIGZvciBydWxlIGluICgiYWJzb2x1dGUiLCAibWFyZ2luYWwiKToKICAgICAgICByID0gcmVwbGljYXRvcihwb29sLCB0ZXN0LCBndiwga3MsIEIsIHJvdW5kcz02LCBiZXRhPTMuMCwgc2VlZD1TRUVELCBydWxlPXJ1bGUpCiAgICAgICAgb3V0WyJsYXJnZV9hbGxvY2F0aW9uIl1bcnVsZV0gPSByCiAgICAgICAgcHJpbnQoZiJbbGFyZ2Uve3J1bGV9XSB3aW5uZXIgaz17clsnd2lubmVyX2snXX0gZW50cm9weV9lbmQ9e3JbJ2VudHJvcHlfZW5kJ119IGV4dGluY3Q9e3JbJ25fZXh0aW5jdCddfSBzeXNfYml0cz17clsnc3lzdGVtX2JpdHMnXX0iKQogICAgd2l0aCBvcGVuKGYie09VVH0vcmVzdWx0MjA2Yi5qc29uIiwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChvdXQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludCgiW3NhdmVkXSIsIGYie09VVH0vcmVzdWx0MjA2Yi5qc29uIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+206b: 环境资源充足度决定生态结构
+206 主实验里 A 出现 k=1 垄断、k=2 灭绝，与 176 号"k=2 最优"矛盾。
+假设：不是矛盾，是语料太小（N/V=6.5）导致高阶模型数据稀疏必输。
+本实验做"语料规模梯度"，看 winner k 与多样性如何随资源变化。
+"""
+import json, os, math, random
+from collections import defaultdict
+
+BASE = "/data/workspace/luoshen-o1"
+CORPUS = f"{BASE}/experiments/exp180_record/u_side_full.txt"
+JK = f"{BASE}/evidence/失败模式库/判据核.md"
+OUT = f"{BASE}/experiments/exp206_compete"
+os.makedirs(OUT, exist_ok=True)
+SEED = 20261019
+
+
+class NGram:
+    def __init__(self, k, alpha=0.05, gv=None):
+        self.k, self.alpha, self.gv = k, alpha, (gv or set())
+        self.c = defaultdict(lambda: defaultdict(float))
+        self.t = defaultdict(float)
+        self.vocab = set()
+
+    def train(self, text):
+        k = self.k
+        c, t, vb = self.c, self.t, self.vocab
+        for i in range(len(text) - k):
+            ctx, ch = text[i:i + k], text[i + k]
+            c[ctx][ch] += 1.0
+            t[ctx] += 1.0
+            vb.add(ch)
+
+    def prob(self, ctx, ch):
+        V = max(len(self.vocab | self.gv), 1)
+        cc = self.c.get(ctx)
+        return ((cc.get(ch, 0.0) if cc else 0.0) + self.alpha) / (self.t.get(ctx, 0.0) + self.alpha * V)
+
+
+def aligned_bits(models, text):
+    if not models:
+        return {}
+    kmax = max(m.k for m in models)
+    res = {}
+    for m in models:
+        tot, n = 0.0, 0
+        for t in range(kmax, len(text)):
+            tot += -math.log2(max(m.prob(text[t - m.k:t], text[t]), 1e-12))
+            n += 1
+        res[id(m)] = (tot / n) if n else 99.0
+    return res
+
+
+def ens_bits(models, text):
+    if not models:
+        return None
+    kmax = max(m.k for m in models)
+    if len(text) <= kmax:
+        return None
+    w = 1.0 / len(models)
+    tot, n = 0.0, 0
+    for t in range(kmax, len(text)):
+        p = sum(w * m.prob(text[t - m.k:t], text[t]) for m in models)
+        tot += -math.log2(max(p, 1e-12))
+        n += 1
+    return tot / n
+
+
+def sample_text(src, n_tok, rng, seg=60):
+    if n_tok <= 0 or not src:
+        return ""
+    if len(src) <= seg:
+        return (src * (int(n_tok // len(src)) + 1))[:n_tok]
+    out, got = [], 0
+    while got < n_tok:
+        i = rng.randrange(0, len(src) - seg)
+        out.append(src[i:i + seg])
+        got += seg
+    return "".join(out)[:n_tok]
+
+
+def entropy(sh):
+    s = [x for x in sh if x > 1e-12]
+    tot = sum(s)
+    if tot <= 0:
+        return 0.0
+    return -sum((x / tot) * math.log(x / tot) for x in s)
+
+
+def step(shares, fit, beta):
+    ks = list(shares.keys())
+    v = [fit[k] for k in ks]
+    mu = sum(v) / len(v)
+    sd = (sum((x - mu) ** 2 for x in v) / len(v)) ** 0.5
+    if sd < 1e-12:
+        return dict(shares)
+    new = {k: shares[k] * math.exp(beta * (fit[k] - mu) / sd) for k in ks}
+    tot = sum(new.values())
+    return {k: new[k] / tot for k in ks}
+
+
+def replicator(pool, test, gv, ks, B, rounds, beta, seed, rule="absolute"):
+    rng = random.Random(seed)
+    shares = {k: 1.0 / len(ks) for k in ks}
+    ents = []
+    for r in range(rounds):
+        models = {}
+        for k in ks:
+            m = NGram(k, gv=gv)
+            m.train(sample_text(pool, int(shares[k] * B), rng))
+            models[k] = m
+        ents.append(round(entropy([shares[k] for k in ks]), 5))
+        ab = aligned_bits([models[k] for k in ks], test)
+        if rule == "absolute":
+            fit = {k: -ab[id(models[k])] for k in ks}
+        else:
+            full = ens_bits([models[k] for k in ks], test)
+            fit = {}
+            for k in ks:
+                sub = ens_bits([models[j] for j in ks if j != k], test)
+                fit[k] = (sub - full) if (sub is not None and full is not None) else 0.0
+        shares = step(shares, fit, beta)
+    fm = {}
+    for k in ks:
+        m = NGram(k, gv=gv)
+        m.train(sample_text(pool, int(shares[k] * B), random.Random(seed + 77)))
+        fm[k] = m
+    ab = aligned_bits([fm[k] for k in ks], test)
+    win = max(ks, key=lambda k: shares[k])
+    return {
+        "winner_k": win,
+        "winner_share": round(shares[win], 5),
+        "final_shares": {str(k): round(shares[k], 5) for k in ks},
+        "final_bits": {str(k): round(ab[id(fm[k])], 5) for k in ks},
+        "entropy_start": ents[0], "entropy_end": round(entropy([shares[k] for k in ks]), 5),
+        "entropy_history": ents,
+        "system_bits": round(ens_bits([fm[k] for k in ks], test), 5) if ens_bits([fm[k] for k in ks], test) else None,
+        "n_extinct": sum(1 for k in ks if shares[k] < 0.01),
+    }
+
+
+def build(name):
+    if name == "small":
+        lines = [l.strip() for l in open(CORPUS, encoding="utf-8") if l.strip()]
+    else:
+        jk = open(JK, encoding="utf-8").read()
+        cap = {"mid": 30000, "large": 80000}[name]
+        jk = jk[:cap]
+        lines = [l for l in jk.split("\n") if l.strip()]
+    nt = max(4, int(len(lines) * 0.2))
+    tr, te = lines[:-nt], lines[-nt:]
+    pool, test = "\n".join(tr), "\n".join(te)
+    gv = set(pool) | set(test)
+    return pool, test, gv, len(pool), len(gv)
+
+
+def main():
+    ks = (1, 2, 3, 4)
+    out = {"ks": list(ks), "scale_scan": {}, "large_allocation": {}}
+    for name in ("small", "mid", "large"):
+        pool, test, gv, npool, nv = build(name)
+        B = max(20000, int(npool * 1.5))
+        r = replicator(pool, test, gv, ks, B, rounds=6, beta=3.0, seed=SEED)
+        r["corpus_chars"] = npool
+        r["vocab"] = nv
+        r["N_over_V"] = round(npool / max(nv, 1), 3)
+        r["B"] = B
+        out["scale_scan"][name] = r
+        print(f"[{name}] N={npool} V={nv} N/V={r['N_over_V']} -> winner k={r['winner_k']} share={r['winner_share']} entropy {r['entropy_start']}->{r['entropy_end']} extinct={r['n_extinct']}")
+    # 大语料下 absolute vs marginal
+    pool, test, gv, npool, nv = build("large")
+    B = max(20000, int(npool * 1.5))
+    for rule in ("absolute", "marginal"):
+        r = replicator(pool, test, gv, ks, B, rounds=6, beta=3.0, seed=SEED, rule=rule)
+        out["large_allocation"][rule] = r
+        print(f"[large/{rule}] winner k={r['winner_k']} entropy_end={r['entropy_end']} extinct={r['n_extinct']} sys_bits={r['system_bits']}")
+    with open(f"{OUT}/result206b.json", "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print("[saved]", f"{OUT}/result206b.json")
+
+
+if __name__ == "__main__":
+    main()

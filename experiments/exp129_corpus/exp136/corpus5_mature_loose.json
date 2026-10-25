@@ -1,1 +1,62 @@
-WwogewogICJlZyI6ICJFRzAwNiIsCiAgImxpbmUiOiAyMiwKICAiaGl0IjogImV4Y2VwdCBFeGNlcHRpb24iLAogICJmaWxlIjogImNlbGVyeV9fY2VsZXJ5X19jZWxlcnlfd29ya2VyX2xvb3BzLnB5IgogfSwKIHsKICAiZWciOiAiRUcwMDYiLAogICJsaW5lIjogMTA2LAogICJoaXQiOiAiZXhjZXB0IEV4Y2VwdGlvbiIsCiAgImZpbGUiOiAiY2VsZXJ5X19jZWxlcnlfX2NlbGVyeV93b3JrZXJfbG9vcHMucHkiCiB9LAogewogICJlZyI6ICJFRzAwNiIsCiAgImxpbmUiOiAxOTIsCiAgImhpdCI6ICJleGNlcHQgRXhjZXB0aW9uIiwKICAiZmlsZSI6ICJjZWxlcnlfX2NlbGVyeV9fY2VsZXJ5X3dvcmtlcl9sb29wcy5weSIKIH0sCiB7CiAgImVnIjogIkVHMDA2IiwKICAibGluZSI6IDQxLAogICJoaXQiOiAiZXhjZXB0IEV4Y2VwdGlvbiIsCiAgImZpbGUiOiAiY2VsZXJ5X19jZWxlcnlfX2NlbGVyeV93b3JrZXJfbG9vcHMucHkiCiB9LAogewogICJlZyI6ICJFRzAwNSIsCiAgImxpbmUiOiA0NiwKICAiaGl0IjogImhlYXJ0YmVhdCAvIHJhdGUiLAogICJmaWxlIjogImNlbGVyeV9fY2VsZXJ5X19jZWxlcnlfd29ya2VyX2xvb3BzLnB5IgogfSwKIHsKICAiZWciOiAiRUcwMDYiLAogICJsaW5lIjogMTIxLAogICJoaXQiOiAiZXhjZXB0IEV4Y2VwdGlvbiIsCiAgImZpbGUiOiAiY2VsZXJ5X19jZWxlcnlfX2NlbGVyeV93b3JrZXJfbG9vcHMucHkiCiB9LAogewogICJlZyI6ICJFRzAwNiIsCiAgImxpbmUiOiAxMzMsCiAgImhpdCI6ICJleGNlcHQgRXhjZXB0aW9uIiwKICAiZmlsZSI6ICJjZWxlcnlfX2NlbGVyeV9fY2VsZXJ5X3dvcmtlcl9sb29wcy5weSIKIH0sCiB7CiAgImVnIjogIkVHMDA2IiwKICAibGluZSI6IDIwMiwKICAiaGl0IjogImV4Y2VwdCBFeGNlcHRpb24iLAogICJmaWxlIjogImNlbGVyeV9fY2VsZXJ5X19jZWxlcnlfd29ya2VyX2xvb3BzLnB5IgogfSwKIHsKICAiZWciOiAiRUcwMDYiLAogICJsaW5lIjogMjIyLAogICJoaXQiOiAiZXhjZXB0IEV4Y2VwdGlvbiIsCiAgImZpbGUiOiAiZmFzdGFwaV9fZmFzdGFwaV9fZmFzdGFwaV90ZWxlbWV0cnlfX2FwaS5weSIKIH0sCiB7CiAgImVnIjogIkVHMDA2IiwKICAibGluZSI6IDkwLAogICJoaXQiOiAiZXhjZXB0IEV4Y2VwdGlvbiIsCiAgImZpbGUiOiAiaHR0cGllX19jbGlfX2h0dHBpZV91cGxvYWRzLnB5IgogfQpd
+[
+ {
+  "eg": "EG006",
+  "line": 22,
+  "hit": "except Exception",
+  "file": "celery__celery__celery_worker_loops.py"
+ },
+ {
+  "eg": "EG006",
+  "line": 106,
+  "hit": "except Exception",
+  "file": "celery__celery__celery_worker_loops.py"
+ },
+ {
+  "eg": "EG006",
+  "line": 192,
+  "hit": "except Exception",
+  "file": "celery__celery__celery_worker_loops.py"
+ },
+ {
+  "eg": "EG006",
+  "line": 41,
+  "hit": "except Exception",
+  "file": "celery__celery__celery_worker_loops.py"
+ },
+ {
+  "eg": "EG005",
+  "line": 46,
+  "hit": "heartbeat / rate",
+  "file": "celery__celery__celery_worker_loops.py"
+ },
+ {
+  "eg": "EG006",
+  "line": 121,
+  "hit": "except Exception",
+  "file": "celery__celery__celery_worker_loops.py"
+ },
+ {
+  "eg": "EG006",
+  "line": 133,
+  "hit": "except Exception",
+  "file": "celery__celery__celery_worker_loops.py"
+ },
+ {
+  "eg": "EG006",
+  "line": 202,
+  "hit": "except Exception",
+  "file": "celery__celery__celery_worker_loops.py"
+ },
+ {
+  "eg": "EG006",
+  "line": 222,
+  "hit": "except Exception",
+  "file": "fastapi__fastapi__fastapi_telemetry__api.py"
+ },
+ {
+  "eg": "EG006",
+  "line": 90,
+  "hit": "except Exception",
+  "file": "httpie__cli__httpie_uploads.py"
+ }
+]

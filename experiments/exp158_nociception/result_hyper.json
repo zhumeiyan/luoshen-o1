@@ -1,1 +1,170 @@
-ewogInAwLjNfY29uc3QiOiB7CiAgImFsaXZlIjogWwogICAxMiwKICAgMTEsCiAgIDExLAogICAxMCwKICAgMTIsCiAgIDEyLAogICAxMSwKICAgMTAsCiAgIDExLAogICAxMgogIF0sCiAgImNoZWNrZWQiOiBbCiAgIDIxNiwKICAgMjE2LAogICAyMTYsCiAgIDIxNiwKICAgMjE2LAogICAyMTYsCiAgIDIxNiwKICAgMjE2LAogICAyMTYsCiAgIDIxNgogIF0sCiAgImFsaXZlX21lYW4iOiAxMS4yLAogICJjaGVja2VkX21lYW4iOiAyMTYKIH0sCiAicDAuM19oeXBlciI6IHsKICAiYWxpdmUiOiBbCiAgIDEyLAogICAxMiwKICAgMTEsCiAgIDEwLAogICAxMiwKICAgMTIsCiAgIDExLAogICAxMSwKICAgMTIsCiAgIDEyCiAgXSwKICAiY2hlY2tlZCI6IFsKICAgMTc0LAogICAyMDQsCiAgIDIwNCwKICAgMTc0LAogICAxODAsCiAgIDE2MiwKICAgMTk4LAogICAyMTYsCiAgIDE3NCwKICAgMjI4CiAgXSwKICAiYWxpdmVfbWVhbiI6IDExLjUsCiAgImNoZWNrZWRfbWVhbiI6IDE5MS40CiB9LAogInAwLjVfY29uc3QiOiB7CiAgImFsaXZlIjogWwogICAxMSwKICAgMTIsCiAgIDEwLAogICAxMSwKICAgMTIsCiAgIDEwLAogICAxMSwKICAgOCwKICAgMTEsCiAgIDEwCiAgXSwKICAiY2hlY2tlZCI6IFsKICAgMjE2LAogICAyMTYsCiAgIDIxNiwKICAgMjE2LAogICAyMTYsCiAgIDIxNiwKICAgMjE2LAogICAyMTYsCiAgIDIxNiwKICAgMjE2CiAgXSwKICAiYWxpdmVfbWVhbiI6IDEwLjYsCiAgImNoZWNrZWRfbWVhbiI6IDIxNgogfSwKICJwMC41X2h5cGVyIjogewogICJhbGl2ZSI6IFsKICAgMTEsCiAgIDEyLAogICAxMCwKICAgMTEsCiAgIDEyLAogICAxMSwKICAgMTEsCiAgIDExLAogICAxMSwKICAgMTEKICBdLAogICJjaGVja2VkIjogWwogICAyMjgsCiAgIDI2NCwKICAgMjQwLAogICAyMjgsCiAgIDIxNiwKICAgMjM0LAogICAyMTAsCiAgIDIyMiwKICAgMjEwLAogICAyNTIKICBdLAogICJhbGl2ZV9tZWFuIjogMTEuMSwKICAiY2hlY2tlZF9tZWFuIjogMjMwLjQKIH0sCiAicDAuN19jb25zdCI6IHsKICAiYWxpdmUiOiBbCiAgIDExLAogICAxMSwKICAgOSwKICAgMTAsCiAgIDksCiAgIDExLAogICA4LAogICAxMSwKICAgOSwKICAgMTEKICBdLAogICJjaGVja2VkIjogWwogICAyMTYsCiAgIDIxNiwKICAgMjE2LAogICAyMTYsCiAgIDIxNiwKICAgMjE2LAogICAyMTYsCiAgIDIxNiwKICAgMjE2LAogICAyMTYKICBdLAogICJhbGl2ZV9tZWFuIjogMTAsCiAgImNoZWNrZWRfbWVhbiI6IDIxNgogfSwKICJwMC43X2h5cGVyIjogewogICJhbGl2ZSI6IFsKICAgMTAsCiAgIDEwLAogICAxMSwKICAgMTEsCiAgIDEwLAogICAxMCwKICAgOSwKICAgMTEsCiAgIDExLAogICAxMQogIF0sCiAgImNoZWNrZWQiOiBbCiAgIDI4OCwKICAgMjg4LAogICAyNDYsCiAgIDI3MCwKICAgMjY0LAogICAyNjQsCiAgIDI3MCwKICAgMjgyLAogICAyNDYsCiAgIDI5NAogIF0sCiAgImFsaXZlX21lYW4iOiAxMC40LAogICJjaGVja2VkX21lYW4iOiAyNzEuMgogfQp9
+{
+ "p0.3_const": {
+  "alive": [
+   12,
+   11,
+   11,
+   10,
+   12,
+   12,
+   11,
+   10,
+   11,
+   12
+  ],
+  "checked": [
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216
+  ],
+  "alive_mean": 11.2,
+  "checked_mean": 216
+ },
+ "p0.3_hyper": {
+  "alive": [
+   12,
+   12,
+   11,
+   10,
+   12,
+   12,
+   11,
+   11,
+   12,
+   12
+  ],
+  "checked": [
+   174,
+   204,
+   204,
+   174,
+   180,
+   162,
+   198,
+   216,
+   174,
+   228
+  ],
+  "alive_mean": 11.5,
+  "checked_mean": 191.4
+ },
+ "p0.5_const": {
+  "alive": [
+   11,
+   12,
+   10,
+   11,
+   12,
+   10,
+   11,
+   8,
+   11,
+   10
+  ],
+  "checked": [
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216
+  ],
+  "alive_mean": 10.6,
+  "checked_mean": 216
+ },
+ "p0.5_hyper": {
+  "alive": [
+   11,
+   12,
+   10,
+   11,
+   12,
+   11,
+   11,
+   11,
+   11,
+   11
+  ],
+  "checked": [
+   228,
+   264,
+   240,
+   228,
+   216,
+   234,
+   210,
+   222,
+   210,
+   252
+  ],
+  "alive_mean": 11.1,
+  "checked_mean": 230.4
+ },
+ "p0.7_const": {
+  "alive": [
+   11,
+   11,
+   9,
+   10,
+   9,
+   11,
+   8,
+   11,
+   9,
+   11
+  ],
+  "checked": [
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216,
+   216
+  ],
+  "alive_mean": 10,
+  "checked_mean": 216
+ },
+ "p0.7_hyper": {
+  "alive": [
+   10,
+   10,
+   11,
+   11,
+   10,
+   10,
+   9,
+   11,
+   11,
+   11
+  ],
+  "checked": [
+   288,
+   288,
+   246,
+   270,
+   264,
+   264,
+   270,
+   282,
+   246,
+   294
+  ],
+  "alive_mean": 10.4,
+  "checked_mean": 271.2
+ }
+}

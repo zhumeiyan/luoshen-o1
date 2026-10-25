@@ -1,1 +1,35 @@
-IiIiU2V0dGluZ3MgcGFuZSDigJQgcmVuZGVyIHRoZSBhY3RpdmUgY29uZmlnLiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0ZXh0dWFsLmFwcCBpbXBvcnQgQ29tcG9zZVJlc3VsdApmcm9tIHRleHR1YWwuY29udGFpbmVycyBpbXBvcnQgVmVydGljYWxTY3JvbGwKZnJvbSB0ZXh0dWFsLndpZGdldHMgaW1wb3J0IFN0YXRpYwoKZnJvbSBobF9sZWFkZXJib2FyZF9hbmFseXRpY3MuY29uZmlnIGltcG9ydCBDb25maWcKCgpjbGFzcyBTZXR0aW5nc1BhbmUoVmVydGljYWxTY3JvbGwpOgogICAgREVGQVVMVF9DU1MgPSAiIiIKICAgIFNldHRpbmdzUGFuZSB7IHBhZGRpbmc6IDEgMjsgfQogICAgIiIiCgogICAgZGVmIHNob3coc2VsZiwgY29uZmlnOiBDb25maWcpIC0+IE5vbmU6CiAgICAgICAgbiwgYiwgZSA9IGNvbmZpZy5uZXR3b3JrLCBjb25maWcuYm9hcmQsIGNvbmZpZy5leHBvcnQKICAgICAgICBzZWxmLnF1ZXJ5X29uZSgiI2NmZyIsIFN0YXRpYykudXBkYXRlKAogICAgICAgICAgICBmIltib2xkIGN5YW5dbmV0d29ya1svXVxuIgogICAgICAgICAgICBmIiAgW2RpbV1hcGlfdXJsWy9dID0ge24uYXBpX3VybH1cbiIKICAgICAgICAgICAgZiIgIFtkaW1ddGltZW91dFsvXSAgPSB7bi50aW1lb3V0X3NlY29uZHN9cyAgIFtkaW1dbWF4X3Jwc1svXSA9IHtuLm1heF9ycHN9XG5cbiIKICAgICAgICAgICAgZiJbYm9sZCBjeWFuXWJvYXJkWy9dXG4iCiAgICAgICAgICAgIGYiICBbZGltXWRlZmF1bHRfd2luZG93Wy9dID0ge2IuZGVmYXVsdF93aW5kb3d9XG4iCiAgICAgICAgICAgIGYiICBbZGltXWRlZmF1bHRfc29ydFsvXSAgID0ge2IuZGVmYXVsdF9zb3J0fVxuIgogICAgICAgICAgICBmIiAgW2RpbV1wYWdlX3NpemVbL10gICAgICA9IHtiLnBhZ2Vfc2l6ZX1cblxuIgogICAgICAgICAgICBmIltib2xkIGN5YW5dZXhwb3J0Wy9dXG4iCiAgICAgICAgICAgIGYiICBbZGltXWZvcm1hdFsvXSAgPSB7ZS5mb3JtYXR9XG4iCiAgICAgICAgICAgIGYiICBbZGltXW91dF9kaXJbL10gPSB7ZS5vdXRfZGlyfVxuXG4iCiAgICAgICAgICAgICJbZGltXUVkaXQgfi8uaGwtbGVhZGVyYm9hcmQvY29uZmlnLnRvbWwgYW5kIHJlbGF1bmNoLlsvXSIKICAgICAgICApCgogICAgZGVmIGNvbXBvc2Uoc2VsZikgLT4gQ29tcG9zZVJlc3VsdDoKICAgICAgICB5aWVsZCBTdGF0aWMoIuKame+4jyAgU0VUVElOR1MiLCBjbGFzc2VzPSJwYW5lLXRpdGxlIikKICAgICAgICB5aWVsZCBTdGF0aWMoaWQ9ImNmZyIpCg==
+"""Settings pane — render the active config."""
+
+from __future__ import annotations
+
+from textual.app import ComposeResult
+from textual.containers import VerticalScroll
+from textual.widgets import Static
+
+from hl_leaderboard_analytics.config import Config
+
+
+class SettingsPane(VerticalScroll):
+    DEFAULT_CSS = """
+    SettingsPane { padding: 1 2; }
+    """
+
+    def show(self, config: Config) -> None:
+        n, b, e = config.network, config.board, config.export
+        self.query_one("#cfg", Static).update(
+            f"[bold cyan]network[/]\n"
+            f"  [dim]api_url[/] = {n.api_url}\n"
+            f"  [dim]timeout[/]  = {n.timeout_seconds}s   [dim]max_rps[/] = {n.max_rps}\n\n"
+            f"[bold cyan]board[/]\n"
+            f"  [dim]default_window[/] = {b.default_window}\n"
+            f"  [dim]default_sort[/]   = {b.default_sort}\n"
+            f"  [dim]page_size[/]      = {b.page_size}\n\n"
+            f"[bold cyan]export[/]\n"
+            f"  [dim]format[/]  = {e.format}\n"
+            f"  [dim]out_dir[/] = {e.out_dir}\n\n"
+            "[dim]Edit ~/.hl-leaderboard/config.toml and relaunch.[/]"
+        )
+
+    def compose(self) -> ComposeResult:
+        yield Static("⚙️  SETTINGS", classes="pane-title")
+        yield Static(id="cfg")

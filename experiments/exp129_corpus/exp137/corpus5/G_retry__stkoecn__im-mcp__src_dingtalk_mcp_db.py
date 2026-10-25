@@ -1,1 +1,331 @@
-IiIiRGluZ1RhbGsgU1FMaXRlIGRhdGFiYXNlIHJlYWRlciBhbmQgcXVlcnkgbGF5ZXIuIiIiCgppbXBvcnQganNvbgppbXBvcnQgbG9nZ2luZwppbXBvcnQgc3FsaXRlMwpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBMaXN0LCBPcHRpb25hbAoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgoKZGVmIF9lc2NhcGVfbGlrZSh2YWx1ZTogc3RyKSAtPiBzdHI6CiAgICAiIiJFc2NhcGUgTElLRSB3aWxkY2FyZHMgc28gdXNlciBpbnB1dCBpcyBtYXRjaGVkIGxpdGVyYWxseS4iIiIKICAgIHJldHVybiAodmFsdWUgb3IgIiIpLnJlcGxhY2UoIlxcIiwgIlxcXFwiKS5yZXBsYWNlKCIlIiwgIlxcJSIpLnJlcGxhY2UoIl8iLCAiXFxfIikKCgpkZWYgX2NsYW1wKGxpbWl0OiBBbnksIGRlZmF1bHQ6IGludCwgbWF4aW11bTogaW50KSAtPiBpbnQ6CiAgICAiIiLmiorlpJbpg6jkvKDlhaXnmoQgbGltaXQg6ZKz5Yi25Yiw5ZCI5rOV5Yy66Ze044CCCgogICAgU1FMaXRlIOS4rSBgYExJTUlUIC0xYGAg562J5Lu35LqO44CM5peg6ZmQ5Yi244CN77yMMCDmiJbotJ/mlbDkvJrorqnljZXmrKHosIPnlKjov5Tlm57lhajooajvvJsKICAgIOWIl+ihqOWIh+eJhyBgYG1lc3NhZ2VzWy1saW1pdDpdYGAg5ZyoIGxpbWl0PD0wIOaXtuWQjOagt+S8mumAgOWMluaIkOOAjOWHoOS5juWFqOmDqOOAjeOAggogICAg5Zug5q2k57uf5LiA5pS25pWb5Li6IFsxLCBtYXhpbXVtXe+8jOmdnuazleWAvOWbnumAgOWIsCBkZWZhdWx044CCCiAgICAiIiIKICAgIHRyeToKICAgICAgICB2YWx1ZSA9IGludChsaW1pdCkKICAgIGV4Y2VwdCAoVHlwZUVycm9yLCBWYWx1ZUVycm9yKToKICAgICAgICByZXR1cm4gZGVmYXVsdAogICAgaWYgdmFsdWUgPD0gMDoKICAgICAgICByZXR1cm4gZGVmYXVsdAogICAgcmV0dXJuIG1pbih2YWx1ZSwgbWF4aW11bSkKCgpkZWYgZm9ybWF0X3RpbWVzdGFtcCh0czogT3B0aW9uYWxbaW50XSkgLT4gc3RyOgogICAgIiIiRm9ybWF0IG1pbGxpc2Vjb25kIHRpbWVzdGFtcCB0byBJU08gZGF0ZXRpbWUgc3RyaW5nLiIiIgogICAgaWYgbm90IHRzOgogICAgICAgIHJldHVybiAiIgogICAgdHJ5OgogICAgICAgICMgRGluZ1RhbGsgdGltZXN0YW1wcyBhcmUgdXN1YWxseSBpbiBtaWxsaXNlY29uZHMKICAgICAgICBpZiB0cyA+IDEwMDAwMDAwMDAwMDoKICAgICAgICAgICAgdHMgPSB0cyAvIDEwMDAuMAogICAgICAgIHJldHVybiBkYXRldGltZS5mcm9tdGltZXN0YW1wKHRzKS5zdHJmdGltZSgiJVktJW0tJWQgJUg6JU06JVMiKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gc3RyKHRzKQoKCmRlZiBwYXJzZV9tZXNzYWdlX2NvbnRlbnQoY29udGVudF9yYXc6IEFueSwgY29udGVudF90eXBlOiBpbnQpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgIiIiUGFyc2UgRGluZ1RhbGsgbWVzc2FnZSBjb250ZW50IEpTT04gaW50byBhIHJlYWRhYmxlIHRleHQgYW5kIG1ldGEuIiIiCiAgICBpZiBub3QgY29udGVudF9yYXc6CiAgICAgICAgcmV0dXJuIHsidGV4dCI6ICIiLCAibWV0YSI6IHt9fQoKICAgIGRhdGEgPSB7fQogICAgaWYgaXNpbnN0YW5jZShjb250ZW50X3Jhdywgc3RyKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGRhdGEgPSBqc29uLmxvYWRzKGNvbnRlbnRfcmF3KQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHJldHVybiB7InRleHQiOiBjb250ZW50X3JhdywgIm1ldGEiOiB7fX0KICAgIGVsaWYgaXNpbnN0YW5jZShjb250ZW50X3JhdywgZGljdCk6CiAgICAgICAgZGF0YSA9IGNvbnRlbnRfcmF3CgogICAgdGV4dCA9ICIiCiAgICAjIEV4dHJhY3QgY29tbW9uIGZpZWxkcwogICAgaWYgInRleHQiIGluIGRhdGEgYW5kIGRhdGFbInRleHQiXToKICAgICAgICB0ZXh0ID0gc3RyKGRhdGFbInRleHQiXSkKICAgIGVsaWYgImNvbnRlbnQiIGluIGRhdGEgYW5kIGlzaW5zdGFuY2UoZGF0YVsiY29udGVudCJdLCBzdHIpOgogICAgICAgIHRleHQgPSBkYXRhWyJjb250ZW50Il0KICAgIGVsaWYgInRpdGxlIiBpbiBkYXRhIGFuZCBkYXRhWyJ0aXRsZSJdOgogICAgICAgIHRleHQgPSBzdHIoZGF0YVsidGl0bGUiXSkKCiAgICAjIEF0dGFjaG1lbnRzCiAgICBhdHRhY2htZW50cyA9IGRhdGEuZ2V0KCJhdHRhY2htZW50cyIsIFtdKQogICAgZmlsZXMgPSBbXQogICAgaWYgaXNpbnN0YW5jZShhdHRhY2htZW50cywgbGlzdCk6CiAgICAgICAgZm9yIGF0dCBpbiBhdHRhY2htZW50czoKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShhdHQsIGRpY3QpOgogICAgICAgICAgICAgICAgIyBDaGVjayBtYXJrZG93biBpbiBleHRlbnNpb24gKHZlcnkgY29tbW9uIGZvciByaWNoIG1lc3NhZ2VzIC8gcXVvdGVkIG1lc3NhZ2VzIGluIERpbmdUYWxrKQogICAgICAgICAgICAgICAgZXh0ID0gYXR0LmdldCgiZXh0ZW5zaW9uIikKICAgICAgICAgICAgICAgIGlmIGV4dDoKICAgICAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKGV4dCwgc3RyKToKICAgICAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXh0X29iaiA9IGpzb24ubG9hZHMoZXh0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgIm1hcmtkb3duIiBpbiBleHRfb2JqIGFuZCBleHRfb2JqWyJtYXJrZG93biJdOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQgPSAodGV4dCArICJcbiIgaWYgdGV4dCBlbHNlICIiKSArIGV4dF9vYmpbIm1hcmtkb3duIl0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsaWYgInRpdGxlIiBpbiBleHRfb2JqIGFuZCBleHRfb2JqWyJ0aXRsZSJdIGFuZCBub3QgdGV4dDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0ID0gZXh0X29ialsidGl0bGUiXQogICAgICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICAgICAgICAgIGVsaWYgaXNpbnN0YW5jZShleHQsIGRpY3QpOgogICAgICAgICAgICAgICAgICAgICAgICBpZiAibWFya2Rvd24iIGluIGV4dCBhbmQgZXh0WyJtYXJrZG93biJdOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dCA9ICh0ZXh0ICsgIlxuIiBpZiB0ZXh0IGVsc2UgIiIpICsgZXh0WyJtYXJrZG93biJdCiAgICAgICAgICAgICAgICAgICAgICAgIGVsaWYgInRpdGxlIiBpbiBleHQgYW5kIGV4dFsidGl0bGUiXSBhbmQgbm90IHRleHQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0ID0gZXh0WyJ0aXRsZSJdCgogICAgICAgICAgICAgICAgZm5hbWUgPSBhdHQuZ2V0KCJmaWxlTmFtZSIpIG9yIGF0dC5nZXQoInRpdGxlIikgb3IgYXR0LmdldCgibmFtZSIpCiAgICAgICAgICAgICAgICBmc2l6ZSA9IGF0dC5nZXQoInNpemUiKQogICAgICAgICAgICAgICAgaWYgZm5hbWU6CiAgICAgICAgICAgICAgICAgICAgZmlsZXMuYXBwZW5kKGYie2ZuYW1lfSAoe2ZzaXplfUIpIiBpZiBmc2l6ZSBlbHNlIGZuYW1lKQoKICAgIGlmIGZpbGVzIGFuZCBub3QgdGV4dDoKICAgICAgICB0ZXh0ID0gZiJb5paH5Lu2L+mZhOS7tl0geycsICcuam9pbihmaWxlcyl9IgogICAgZWxpZiBmaWxlczoKICAgICAgICB0ZXh0ICs9IGYiIFvpmYTku7Y6IHsnLCAnLmpvaW4oZmlsZXMpfV0iCgogICAgaWYgbm90IHRleHQ6CiAgICAgICAgaWYgY29udGVudF90eXBlID09IDI6CiAgICAgICAgICAgIHRleHQgPSAiW+WbvueJh10iCiAgICAgICAgZWxpZiBjb250ZW50X3R5cGUgaW4gKDMsIDIwMyk6CiAgICAgICAgICAgIHRleHQgPSAiW+ivremfs10iCiAgICAgICAgZWxpZiBjb250ZW50X3R5cGUgaW4gKDEwMiwgMTAzLCAxMDQsIDUwMSk6CiAgICAgICAgICAgIHRleHQgPSAiW+aWh+S7tl0iCiAgICAgICAgZWxpZiBjb250ZW50X3R5cGUgPT0gMTIwMDoKICAgICAgICAgICAgdGV4dCA9IGRhdGEuZ2V0KCJ0ZW1wbGF0ZVRpdGxlIikgb3IgIlvljaHniYcv5a+M5paH5pysXSIKICAgICAgICBlbGlmIGNvbnRlbnRfdHlwZSA9PSAyOTUwOgogICAgICAgICAgICB0ZXh0ID0gIlvljY/lkIzljaHniYcv5Yqo5oCB6YCa55+lXSIKICAgICAgICBlbGlmIGNvbnRlbnRfdHlwZSA9PSAzMTAwOgogICAgICAgICAgICB0ZXh0ID0gIlvlvoXlip4v5pel56iLXSIKICAgICAgICBlbHNlOgogICAgICAgICAgICB0ZXh0ID0gZiJb5raI5oGv57G75Z6LIHtjb250ZW50X3R5cGV9XSIKCiAgICByZXR1cm4geyJ0ZXh0IjogdGV4dC5zdHJpcCgpLCAibWV0YSI6IGRhdGF9CgoKY2xhc3MgRGluZ1RhbGtEQjoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBkYl9wYXRoOiBzdHIpOgogICAgICAgIHNlbGYuZGJfcGF0aCA9IGRiX3BhdGgKICAgICAgICBzZWxmLl91c2VyX2NhY2hlOiBEaWN0W3N0ciwgRGljdFtzdHIsIEFueV1dID0ge30KCiAgICBkZWYgZ2V0X2Nvbm5lY3Rpb24oc2VsZikgLT4gc3FsaXRlMy5Db25uZWN0aW9uOgogICAgICAgIGNvbm4gPSBzcWxpdGUzLmNvbm5lY3Qoc2VsZi5kYl9wYXRoKQogICAgICAgIGNvbm4ucm93X2ZhY3RvcnkgPSBzcWxpdGUzLlJvdwogICAgICAgIHJldHVybiBjb25uCgogICAgZGVmIGdldF91c2VyX3Byb2ZpbGVzKHNlbGYpIC0+IERpY3Rbc3RyLCBEaWN0W3N0ciwgQW55XV06CiAgICAgICAgaWYgc2VsZi5fdXNlcl9jYWNoZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3VzZXJfY2FjaGUKCiAgICAgICAgdHJ5OgogICAgICAgICAgICB3aXRoIHNlbGYuZ2V0X2Nvbm5lY3Rpb24oKSBhcyBjb25uOgogICAgICAgICAgICAgICAgcm93cyA9IGNvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgICAgICAgICAiU0VMRUNUIHVpZCwgbmljaywgcmVhbE5hbWUsIG1vYmlsZSwgZW1haWwgRlJPTSB0YnVzZXJfcHJvZmlsZV92MiIKICAgICAgICAgICAgICAgICkuZmV0Y2hhbGwoKQogICAgICAgICAgICAgICAgZm9yIHIgaW4gcm93czoKICAgICAgICAgICAgICAgICAgICB1aWQgPSBzdHIoclsidWlkIl0pCiAgICAgICAgICAgICAgICAgICAgc2VsZi5fdXNlcl9jYWNoZVt1aWRdID0gewogICAgICAgICAgICAgICAgICAgICAgICAidWlkIjogdWlkLAogICAgICAgICAgICAgICAgICAgICAgICAibmljayI6IHJbIm5pY2siXSBvciAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgInJlYWxfbmFtZSI6IHJbInJlYWxOYW1lIl0gb3IgIiIsCiAgICAgICAgICAgICAgICAgICAgICAgICJtb2JpbGUiOiByWyJtb2JpbGUiXSBvciAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgImVtYWlsIjogclsiZW1haWwiXSBvciAiIiwKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2dnZXIud2FybmluZyhmIkZhaWxlZCB0byBmZXRjaCB1c2VyIHByb2ZpbGVzOiB7ZX0iKQoKICAgICAgICByZXR1cm4gc2VsZi5fdXNlcl9jYWNoZQoKICAgIGRlZiByZXNvbHZlX3NlbmRlcihzZWxmLCBzZW5kZXJfaWQ6IEFueSkgLT4gc3RyOgogICAgICAgIHByb2ZpbGVzID0gc2VsZi5nZXRfdXNlcl9wcm9maWxlcygpCiAgICAgICAgc2lkID0gc3RyKHNlbmRlcl9pZCkKICAgICAgICBpZiBzaWQgaW4gcHJvZmlsZXM6CiAgICAgICAgICAgIHAgPSBwcm9maWxlc1tzaWRdCiAgICAgICAgICAgIHJldHVybiBwWyJyZWFsX25hbWUiXSBvciBwWyJuaWNrIl0gb3Igc2lkCiAgICAgICAgcmV0dXJuIHNpZAoKICAgIGRlZiBsaXN0X2NvbnZlcnNhdGlvbnMoc2VsZiwgbGltaXQ6IGludCA9IDUwLCBrZXl3b3JkOiBPcHRpb25hbFtzdHJdID0gTm9uZSkgLT4gTGlzdFtEaWN0W3N0ciwgQW55XV06CiAgICAgICAgbGltaXQgPSBfY2xhbXAobGltaXQsIDUwLCA1MDApCiAgICAgICAgcHJvZmlsZXMgPSBzZWxmLmdldF91c2VyX3Byb2ZpbGVzKCkKICAgICAgICBzcWwgPSAiIiIKICAgICAgICAgICAgU0VMRUNUIGNpZCwgdGl0bGUsIGxhc3RNb2RpZnksIHVucmVhZENvdW50LCBzdGF0dXMKICAgICAgICAgICAgRlJPTSB0YmNvbnZlcnNhdGlvbgogICAgICAgICIiIgogICAgICAgIHBhcmFtcyA9IFtdCiAgICAgICAgaWYga2V5d29yZDoKICAgICAgICAgICAgc3FsICs9ICIgV0hFUkUgdGl0bGUgTElLRSA/IEVTQ0FQRSAnXFwnIgogICAgICAgICAgICBwYXJhbXMuYXBwZW5kKGYiJXtfZXNjYXBlX2xpa2Uoa2V5d29yZCl9JSIpCiAgICAgICAgc3FsICs9ICIgT1JERVIgQlkgbGFzdE1vZGlmeSBERVNDIExJTUlUID8iCiAgICAgICAgcGFyYW1zLmFwcGVuZChsaW1pdCkKCiAgICAgICAgcmVzdWx0cyA9IFtdCiAgICAgICAgd2l0aCBzZWxmLmdldF9jb25uZWN0aW9uKCkgYXMgY29ubjoKICAgICAgICAgICAgcm93cyA9IGNvbm4uZXhlY3V0ZShzcWwsIHBhcmFtcykuZmV0Y2hhbGwoKQogICAgICAgICAgICBmb3IgciBpbiByb3dzOgogICAgICAgICAgICAgICAgY2lkID0gc3RyKHJbImNpZCJdKQogICAgICAgICAgICAgICAgdGl0bGUgPSByWyJ0aXRsZSJdIG9yICIiCiAgICAgICAgICAgICAgICAjIElmIHRpdGxlIGlzIGVtcHR5IG9yIG51bWVyaWMvaWQtbGlrZSwgdHJ5IHRvIHJlc29sdmUgdG8gdXNlciByZWFsIG5hbWUKICAgICAgICAgICAgICAgIGlmIG5vdCB0aXRsZSBvciB0aXRsZS5pc2RpZ2l0KCkgb3IgIjoiIGluIHRpdGxlOgogICAgICAgICAgICAgICAgICAgIHBhcnRzID0gY2lkLnNwbGl0KCI6IikKICAgICAgICAgICAgICAgICAgICBpZiBsZW4ocGFydHMpID09IDI6CiAgICAgICAgICAgICAgICAgICAgICAgICMgUHJpdmF0ZSBjaGF0OiBmb3JtYXQgdWlkMTp1aWQyCiAgICAgICAgICAgICAgICAgICAgICAgIG90aGVyX3VpZCA9IHBhcnRzWzFdIGlmIHBhcnRzWzBdIGluIHByb2ZpbGVzIGVsc2UgcGFydHNbMF0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgb3RoZXJfdWlkIGluIHByb2ZpbGVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcCA9IHByb2ZpbGVzW290aGVyX3VpZF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlID0gcFsicmVhbF9uYW1lIl0gb3IgcFsibmljayJdIG9yIHRpdGxlCgogICAgICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoewogICAgICAgICAgICAgICAgICAgICJjaWQiOiBjaWQsCiAgICAgICAgICAgICAgICAgICAgInRpdGxlIjogdGl0bGUgb3IgY2lkLAogICAgICAgICAgICAgICAgICAgICJsYXN0X21vZGlmeSI6IGZvcm1hdF90aW1lc3RhbXAoclsibGFzdE1vZGlmeSJdKSwKICAgICAgICAgICAgICAgICAgICAidW5yZWFkX2NvdW50IjogclsidW5yZWFkQ291bnQiXSBvciAwLAogICAgICAgICAgICAgICAgfSkKICAgICAgICByZXR1cm4gcmVzdWx0cwoKICAgIGRlZiBnZXRfbWVzc2FnZXMoCiAgICAgICAgc2VsZiwKICAgICAgICBjaWQ6IHN0ciwKICAgICAgICBsaW1pdDogaW50ID0gNTAsCiAgICAgICAgYmVmb3JlX3RpbWU6IE9wdGlvbmFsW2ludF0gPSBOb25lLAogICAgICAgIGFmdGVyX3RpbWU6IE9wdGlvbmFsW2ludF0gPSBOb25lLAogICAgKSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICAgICAiIiJHZXQgbWVzc2FnZXMgZm9yIGEgY29udmVyc2F0aW9uIGFjcm9zcyBhbGwgc2hhcmRlZCB0YWJsZXMuIiIiCiAgICAgICAgbGltaXQgPSBfY2xhbXAobGltaXQsIDUwLCA1MDApCiAgICAgICAgbWVzc2FnZXMgPSBbXQogICAgICAgIHdpdGggc2VsZi5nZXRfY29ubmVjdGlvbigpIGFzIGNvbm46CiAgICAgICAgICAgICMgRmlyc3QgZmluZCB3aGljaCB0YWJsZShzKSBjb250YWluIHRoaXMgY2lkCiAgICAgICAgICAgIHRhcmdldF90YWJsZXMgPSBbXQogICAgICAgICAgICBmb3IgaSBpbiByYW5nZSgxMjgpOgogICAgICAgICAgICAgICAgdCA9IGYidGJtc2dfe2k6MDNkfSIKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBleGlzdHMgPSBjb25uLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAgICAgICAgIGYiU0VMRUNUIDEgRlJPTSBcInt0fVwiIFdIRVJFIGNpZCA9ID8gTElNSVQgMSIsIChjaWQsKQogICAgICAgICAgICAgICAgICAgICkuZmV0Y2hvbmUoKQogICAgICAgICAgICAgICAgICAgIGlmIGV4aXN0czoKICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0X3RhYmxlcy5hcHBlbmQodCkKICAgICAgICAgICAgICAgIGV4Y2VwdCBzcWxpdGUzLk9wZXJhdGlvbmFsRXJyb3I6CiAgICAgICAgICAgICAgICAgICAgcGFzcwoKICAgICAgICAgICAgZm9yIHQgaW4gdGFyZ2V0X3RhYmxlczoKICAgICAgICAgICAgICAgIHNxbCA9IGYiIiIKICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgcHJpbWFyeUtleSwgY2lkLCBtaWQsIHNlbmRlcklkLCBjcmVhdGVkQXQsIGNvbnRlbnRUeXBlLCBjb250ZW50CiAgICAgICAgICAgICAgICAgICAgRlJPTSAie3R9IgogICAgICAgICAgICAgICAgICAgIFdIRVJFIGNpZCA9ID8gQU5EIHJlY2FsbFN0YXR1cyA9IDAKICAgICAgICAgICAgICAgICIiIgogICAgICAgICAgICAgICAgcGFyYW1zID0gW2NpZF0KICAgICAgICAgICAgICAgIGlmIGJlZm9yZV90aW1lOgogICAgICAgICAgICAgICAgICAgIHNxbCArPSAiIEFORCBjcmVhdGVkQXQgPCA/IgogICAgICAgICAgICAgICAgICAgIHBhcmFtcy5hcHBlbmQoYmVmb3JlX3RpbWUpCiAgICAgICAgICAgICAgICBpZiBhZnRlcl90aW1lOgogICAgICAgICAgICAgICAgICAgIHNxbCArPSAiIEFORCBjcmVhdGVkQXQgPiA/IgogICAgICAgICAgICAgICAgICAgIHBhcmFtcy5hcHBlbmQoYWZ0ZXJfdGltZSkKCiAgICAgICAgICAgICAgICBzcWwgKz0gIiBPUkRFUiBCWSBjcmVhdGVkQXQgREVTQyBMSU1JVCA/IgogICAgICAgICAgICAgICAgcGFyYW1zLmFwcGVuZChsaW1pdCkKCiAgICAgICAgICAgICAgICByb3dzID0gY29ubi5leGVjdXRlKHNxbCwgcGFyYW1zKS5mZXRjaGFsbCgpCiAgICAgICAgICAgICAgICBmb3IgciBpbiByb3dzOgogICAgICAgICAgICAgICAgICAgIHBhcnNlZCA9IHBhcnNlX21lc3NhZ2VfY29udGVudChyWyJjb250ZW50Il0sIHJbImNvbnRlbnRUeXBlIl0pCiAgICAgICAgICAgICAgICAgICAgc2VuZGVyX25hbWUgPSBzZWxmLnJlc29sdmVfc2VuZGVyKHJbInNlbmRlcklkIl0pCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZXMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICAgICAgICAgIm1pZCI6IHN0cihyWyJtaWQiXSksCiAgICAgICAgICAgICAgICAgICAgICAgICJjaWQiOiBzdHIoclsiY2lkIl0pLAogICAgICAgICAgICAgICAgICAgICAgICAic2VuZGVyX2lkIjogc3RyKHJbInNlbmRlcklkIl0pLAogICAgICAgICAgICAgICAgICAgICAgICAic2VuZGVyX25hbWUiOiBzZW5kZXJfbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiBmb3JtYXRfdGltZXN0YW1wKHJbImNyZWF0ZWRBdCJdKSwKICAgICAgICAgICAgICAgICAgICAgICAgImNvbnRlbnRfdHlwZSI6IHJbImNvbnRlbnRUeXBlIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICJjb250ZW50IjogcGFyc2VkWyJ0ZXh0Il0sCiAgICAgICAgICAgICAgICAgICAgICAgICJyYXdfY3JlYXRlZF9hdCI6IHJbImNyZWF0ZWRBdCJdLAogICAgICAgICAgICAgICAgICAgIH0pCgogICAgICAgICMgU29ydCBieSBjcmVhdGVkX2F0IGFzY2VuZGluZwogICAgICAgIG1lc3NhZ2VzLnNvcnQoa2V5PWxhbWJkYSB4OiB4LmdldCgicmF3X2NyZWF0ZWRfYXQiKSBvciAwKQogICAgICAgICMgUmVtb3ZlIHJhdyBmaWVsZAogICAgICAgIGZvciBtIGluIG1lc3NhZ2VzOgogICAgICAgICAgICBtLnBvcCgicmF3X2NyZWF0ZWRfYXQiLCBOb25lKQogICAgICAgIHJldHVybiBtZXNzYWdlc1stbGltaXQ6XQoKICAgIGRlZiBzZWFyY2hfbWVzc2FnZXMoCiAgICAgICAgc2VsZiwKICAgICAgICBrZXl3b3JkOiBzdHIsCiAgICAgICAgY2lkOiBPcHRpb25hbFtzdHJdID0gTm9uZSwKICAgICAgICBsaW1pdDogaW50ID0gMzAsCiAgICApIC0+IExpc3RbRGljdFtzdHIsIEFueV1dOgogICAgICAgICIiIlNlYXJjaCBtZXNzYWdlcyBieSBrZXl3b3JkIGFjcm9zcyBhbGwgc2hhcmRlZCB0YWJsZXMuCgogICAgICAgIFNjYW5zICoqZXZlcnkqKiBzaGFyZCBhbmQgdGhlbiBzb3J0cyBnbG9iYWxseSBieSBjcmVhdGVkQXQgREVTQywgc28gdGhlCiAgICAgICAgcmVzdWx0IHJlYWxseSBpcyB0aGUgbW9zdCByZWNlbnQgYGBsaW1pdGBgIG1hdGNoZXMuIFRoZSBwcmV2aW91cyB2ZXJzaW9uCiAgICAgICAgc3RvcHBlZCBhcyBzb29uIGFzIHRoZSBxdW90YSB3YXMgZmlsbGVkIHdoaWxlIGl0ZXJhdGluZyBzaGFyZHMKICAgICAgICB0Ym1zZ18wMDAuLjEyNyBpbiBvcmRlciwgc28gdGhlIG91dHB1dCB3YXMgZG9taW5hdGVkIGJ5IHdoYXRldmVyIHRoZQogICAgICAgIGxvdy1udW1iZXJlZCBzaGFyZHMgaGFwcGVuZWQgdG8gY29udGFpbiBpbnN0ZWFkIG9mIHRoZSBuZXdlc3QgaGl0cy4KICAgICAgICAiIiIKICAgICAgICByZXN1bHRzOiBMaXN0W0RpY3Rbc3RyLCBBbnldXSA9IFtdCiAgICAgICAgbGltaXQgPSBfY2xhbXAobGltaXQsIDMwLCA1MDApCiAgICAgICAgd2l0aCBzZWxmLmdldF9jb25uZWN0aW9uKCkgYXMgY29ubjoKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMTI4KToKICAgICAgICAgICAgICAgIHQgPSBmInRibXNnX3tpOjAzZH0iCiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgc3FsID0gZiIiIgogICAgICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgcHJpbWFyeUtleSwgY2lkLCBtaWQsIHNlbmRlcklkLCBjcmVhdGVkQXQsIGNvbnRlbnRUeXBlLCBjb250ZW50CiAgICAgICAgICAgICAgICAgICAgICAgIEZST00gInt0fSIKICAgICAgICAgICAgICAgICAgICAgICAgV0hFUkUgY29udGVudCBMSUtFID8gRVNDQVBFICdcXCcgQU5EIHJlY2FsbFN0YXR1cyA9IDAKICAgICAgICAgICAgICAgICAgICAiIiIKICAgICAgICAgICAgICAgICAgICBwYXJhbXMgPSBbZiIle19lc2NhcGVfbGlrZShrZXl3b3JkKX0lIl0KICAgICAgICAgICAgICAgICAgICBpZiBjaWQ6CiAgICAgICAgICAgICAgICAgICAgICAgIHNxbCArPSAiIEFORCBjaWQgPSA/IgogICAgICAgICAgICAgICAgICAgICAgICBwYXJhbXMuYXBwZW5kKGNpZCkKCiAgICAgICAgICAgICAgICAgICAgc3FsICs9ICIgT1JERVIgQlkgY3JlYXRlZEF0IERFU0MgTElNSVQgPyIKICAgICAgICAgICAgICAgICAgICBwYXJhbXMuYXBwZW5kKGxpbWl0KQogICAgICAgICAgICAgICAgICAgIHJvd3MgPSBjb25uLmV4ZWN1dGUoc3FsLCBwYXJhbXMpLmZldGNoYWxsKCkKICAgICAgICAgICAgICAgIGV4Y2VwdCBzcWxpdGUzLk9wZXJhdGlvbmFsRXJyb3I6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICBmb3IgciBpbiByb3dzOgogICAgICAgICAgICAgICAgICAgIHBhcnNlZCA9IHBhcnNlX21lc3NhZ2VfY29udGVudChyWyJjb250ZW50Il0sIHJbImNvbnRlbnRUeXBlIl0pCiAgICAgICAgICAgICAgICAgICAgaWYga2V5d29yZC5sb3dlcigpIGluIHBhcnNlZFsidGV4dCJdLmxvd2VyKCkgb3Iga2V5d29yZCBpbiBzdHIoclsiY29udGVudCJdKToKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1pZCI6IHN0cihyWyJtaWQiXSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY2lkIjogc3RyKHJbImNpZCJdKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzZW5kZXJfaWQiOiBzdHIoclsic2VuZGVySWQiXSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAic2VuZGVyX25hbWUiOiBzZWxmLnJlc29sdmVfc2VuZGVyKHJbInNlbmRlcklkIl0pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiBmb3JtYXRfdGltZXN0YW1wKHJbImNyZWF0ZWRBdCJdKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb250ZW50X3R5cGUiOiByWyJjb250ZW50VHlwZSJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNvbnRlbnQiOiBwYXJzZWRbInRleHQiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJfcmF3X3RzIjogclsiY3JlYXRlZEF0Il0gb3IgMCwKICAgICAgICAgICAgICAgICAgICAgICAgfSkKCiAgICAgICAgcmVzdWx0cy5zb3J0KGtleT1sYW1iZGEgbTogbVsiX3Jhd190cyJdLCByZXZlcnNlPVRydWUpCiAgICAgICAgZm9yIG0gaW4gcmVzdWx0czoKICAgICAgICAgICAgbS5wb3AoIl9yYXdfdHMiLCBOb25lKQogICAgICAgIHJldHVybiByZXN1bHRzWzpsaW1pdF0KCiAgICBkZWYgbGlzdF9jb250YWN0cyhzZWxmLCBsaW1pdDogaW50ID0gMTAwLCBrZXl3b3JkOiBPcHRpb25hbFtzdHJdID0gTm9uZSkgLT4gTGlzdFtEaWN0W3N0ciwgQW55XV06CiAgICAgICAgbGltaXQgPSBfY2xhbXAobGltaXQsIDEwMCwgMTAwMCkKICAgICAgICBwcm9maWxlcyA9IHNlbGYuZ2V0X3VzZXJfcHJvZmlsZXMoKQogICAgICAgIHJlc3VsdHMgPSBbXQogICAgICAgIGZvciBwIGluIHByb2ZpbGVzLnZhbHVlcygpOgogICAgICAgICAgICBpZiBrZXl3b3JkOgogICAgICAgICAgICAgICAga3cgPSBrZXl3b3JkLmxvd2VyKCkKICAgICAgICAgICAgICAgIGlmIGt3IG5vdCBpbiBwWyJyZWFsX25hbWUiXS5sb3dlcigpIGFuZCBrdyBub3QgaW4gcFsibmljayJdLmxvd2VyKCkgYW5kIGt3IG5vdCBpbiBwWyJ1aWQiXToKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICByZXN1bHRzLmFwcGVuZChwKQogICAgICAgICAgICBpZiBsZW4ocmVzdWx0cykgPj0gbGltaXQ6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgIHJldHVybiByZXN1bHRzCg==
+"""DingTalk SQLite database reader and query layer."""
+
+import json
+import logging
+import sqlite3
+from datetime import datetime
+from typing import Any, Dict, List, Optional
+
+logger = logging.getLogger(__name__)
+
+
+def _escape_like(value: str) -> str:
+    """Escape LIKE wildcards so user input is matched literally."""
+    return (value or "").replace("\\", "\\\\").replace("%", "\\%").replace("_", "\\_")
+
+
+def _clamp(limit: Any, default: int, maximum: int) -> int:
+    """把外部传入的 limit 钳制到合法区间。
+
+    SQLite 中 ``LIMIT -1`` 等价于「无限制」，0 或负数会让单次调用返回全表；
+    列表切片 ``messages[-limit:]`` 在 limit<=0 时同样会退化成「几乎全部」。
+    因此统一收敛为 [1, maximum]，非法值回退到 default。
+    """
+    try:
+        value = int(limit)
+    except (TypeError, ValueError):
+        return default
+    if value <= 0:
+        return default
+    return min(value, maximum)
+
+
+def format_timestamp(ts: Optional[int]) -> str:
+    """Format millisecond timestamp to ISO datetime string."""
+    if not ts:
+        return ""
+    try:
+        # DingTalk timestamps are usually in milliseconds
+        if ts > 100000000000:
+            ts = ts / 1000.0
+        return datetime.fromtimestamp(ts).strftime("%Y-%m-%d %H:%M:%S")
+    except Exception:
+        return str(ts)
+
+
+def parse_message_content(content_raw: Any, content_type: int) -> Dict[str, Any]:
+    """Parse DingTalk message content JSON into a readable text and meta."""
+    if not content_raw:
+        return {"text": "", "meta": {}}
+
+    data = {}
+    if isinstance(content_raw, str):
+        try:
+            data = json.loads(content_raw)
+        except Exception:
+            return {"text": content_raw, "meta": {}}
+    elif isinstance(content_raw, dict):
+        data = content_raw
+
+    text = ""
+    # Extract common fields
+    if "text" in data and data["text"]:
+        text = str(data["text"])
+    elif "content" in data and isinstance(data["content"], str):
+        text = data["content"]
+    elif "title" in data and data["title"]:
+        text = str(data["title"])
+
+    # Attachments
+    attachments = data.get("attachments", [])
+    files = []
+    if isinstance(attachments, list):
+        for att in attachments:
+            if isinstance(att, dict):
+                # Check markdown in extension (very common for rich messages / quoted messages in DingTalk)
+                ext = att.get("extension")
+                if ext:
+                    if isinstance(ext, str):
+                        try:
+                            ext_obj = json.loads(ext)
+                            if "markdown" in ext_obj and ext_obj["markdown"]:
+                                text = (text + "\n" if text else "") + ext_obj["markdown"]
+                            elif "title" in ext_obj and ext_obj["title"] and not text:
+                                text = ext_obj["title"]
+                        except Exception:
+                            pass
+                    elif isinstance(ext, dict):
+                        if "markdown" in ext and ext["markdown"]:
+                            text = (text + "\n" if text else "") + ext["markdown"]
+                        elif "title" in ext and ext["title"] and not text:
+                            text = ext["title"]
+
+                fname = att.get("fileName") or att.get("title") or att.get("name")
+                fsize = att.get("size")
+                if fname:
+                    files.append(f"{fname} ({fsize}B)" if fsize else fname)
+
+    if files and not text:
+        text = f"[文件/附件] {', '.join(files)}"
+    elif files:
+        text += f" [附件: {', '.join(files)}]"
+
+    if not text:
+        if content_type == 2:
+            text = "[图片]"
+        elif content_type in (3, 203):
+            text = "[语音]"
+        elif content_type in (102, 103, 104, 501):
+            text = "[文件]"
+        elif content_type == 1200:
+            text = data.get("templateTitle") or "[卡片/富文本]"
+        elif content_type == 2950:
+            text = "[协同卡片/动态通知]"
+        elif content_type == 3100:
+            text = "[待办/日程]"
+        else:
+            text = f"[消息类型 {content_type}]"
+
+    return {"text": text.strip(), "meta": data}
+
+
+class DingTalkDB:
+    def __init__(self, db_path: str):
+        self.db_path = db_path
+        self._user_cache: Dict[str, Dict[str, Any]] = {}
+
+    def get_connection(self) -> sqlite3.Connection:
+        conn = sqlite3.connect(self.db_path)
+        conn.row_factory = sqlite3.Row
+        return conn
+
+    def get_user_profiles(self) -> Dict[str, Dict[str, Any]]:
+        if self._user_cache:
+            return self._user_cache
+
+        try:
+            with self.get_connection() as conn:
+                rows = conn.execute(
+                    "SELECT uid, nick, realName, mobile, email FROM tbuser_profile_v2"
+                ).fetchall()
+                for r in rows:
+                    uid = str(r["uid"])
+                    self._user_cache[uid] = {
+                        "uid": uid,
+                        "nick": r["nick"] or "",
+                        "real_name": r["realName"] or "",
+                        "mobile": r["mobile"] or "",
+                        "email": r["email"] or "",
+                    }
+        except Exception as e:
+            logger.warning(f"Failed to fetch user profiles: {e}")
+
+        return self._user_cache
+
+    def resolve_sender(self, sender_id: Any) -> str:
+        profiles = self.get_user_profiles()
+        sid = str(sender_id)
+        if sid in profiles:
+            p = profiles[sid]
+            return p["real_name"] or p["nick"] or sid
+        return sid
+
+    def list_conversations(self, limit: int = 50, keyword: Optional[str] = None) -> List[Dict[str, Any]]:
+        limit = _clamp(limit, 50, 500)
+        profiles = self.get_user_profiles()
+        sql = """
+            SELECT cid, title, lastModify, unreadCount, status
+            FROM tbconversation
+        """
+        params = []
+        if keyword:
+            sql += " WHERE title LIKE ? ESCAPE '\\'"
+            params.append(f"%{_escape_like(keyword)}%")
+        sql += " ORDER BY lastModify DESC LIMIT ?"
+        params.append(limit)
+
+        results = []
+        with self.get_connection() as conn:
+            rows = conn.execute(sql, params).fetchall()
+            for r in rows:
+                cid = str(r["cid"])
+                title = r["title"] or ""
+                # If title is empty or numeric/id-like, try to resolve to user real name
+                if not title or title.isdigit() or ":" in title:
+                    parts = cid.split(":")
+                    if len(parts) == 2:
+                        # Private chat: format uid1:uid2
+                        other_uid = parts[1] if parts[0] in profiles else parts[0]
+                        if other_uid in profiles:
+                            p = profiles[other_uid]
+                            title = p["real_name"] or p["nick"] or title
+
+                results.append({
+                    "cid": cid,
+                    "title": title or cid,
+                    "last_modify": format_timestamp(r["lastModify"]),
+                    "unread_count": r["unreadCount"] or 0,
+                })
+        return results
+
+    def get_messages(
+        self,
+        cid: str,
+        limit: int = 50,
+        before_time: Optional[int] = None,
+        after_time: Optional[int] = None,
+    ) -> List[Dict[str, Any]]:
+        """Get messages for a conversation across all sharded tables."""
+        limit = _clamp(limit, 50, 500)
+        messages = []
+        with self.get_connection() as conn:
+            # First find which table(s) contain this cid
+            target_tables = []
+            for i in range(128):
+                t = f"tbmsg_{i:03d}"
+                try:
+                    exists = conn.execute(
+                        f"SELECT 1 FROM \"{t}\" WHERE cid = ? LIMIT 1", (cid,)
+                    ).fetchone()
+                    if exists:
+                        target_tables.append(t)
+                except sqlite3.OperationalError:
+                    pass
+
+            for t in target_tables:
+                sql = f"""
+                    SELECT primaryKey, cid, mid, senderId, createdAt, contentType, content
+                    FROM "{t}"
+                    WHERE cid = ? AND recallStatus = 0
+                """
+                params = [cid]
+                if before_time:
+                    sql += " AND createdAt < ?"
+                    params.append(before_time)
+                if after_time:
+                    sql += " AND createdAt > ?"
+                    params.append(after_time)
+
+                sql += " ORDER BY createdAt DESC LIMIT ?"
+                params.append(limit)
+
+                rows = conn.execute(sql, params).fetchall()
+                for r in rows:
+                    parsed = parse_message_content(r["content"], r["contentType"])
+                    sender_name = self.resolve_sender(r["senderId"])
+                    messages.append({
+                        "mid": str(r["mid"]),
+                        "cid": str(r["cid"]),
+                        "sender_id": str(r["senderId"]),
+                        "sender_name": sender_name,
+                        "created_at": format_timestamp(r["createdAt"]),
+                        "content_type": r["contentType"],
+                        "content": parsed["text"],
+                        "raw_created_at": r["createdAt"],
+                    })
+
+        # Sort by created_at ascending
+        messages.sort(key=lambda x: x.get("raw_created_at") or 0)
+        # Remove raw field
+        for m in messages:
+            m.pop("raw_created_at", None)
+        return messages[-limit:]
+
+    def search_messages(
+        self,
+        keyword: str,
+        cid: Optional[str] = None,
+        limit: int = 30,
+    ) -> List[Dict[str, Any]]:
+        """Search messages by keyword across all sharded tables.
+
+        Scans **every** shard and then sorts globally by createdAt DESC, so the
+        result really is the most recent ``limit`` matches. The previous version
+        stopped as soon as the quota was filled while iterating shards
+        tbmsg_000..127 in order, so the output was dominated by whatever the
+        low-numbered shards happened to contain instead of the newest hits.
+        """
+        results: List[Dict[str, Any]] = []
+        limit = _clamp(limit, 30, 500)
+        with self.get_connection() as conn:
+            for i in range(128):
+                t = f"tbmsg_{i:03d}"
+                try:
+                    sql = f"""
+                        SELECT primaryKey, cid, mid, senderId, createdAt, contentType, content
+                        FROM "{t}"
+                        WHERE content LIKE ? ESCAPE '\\' AND recallStatus = 0
+                    """
+                    params = [f"%{_escape_like(keyword)}%"]
+                    if cid:
+                        sql += " AND cid = ?"
+                        params.append(cid)
+
+                    sql += " ORDER BY createdAt DESC LIMIT ?"
+                    params.append(limit)
+                    rows = conn.execute(sql, params).fetchall()
+                except sqlite3.OperationalError:
+                    continue
+
+                for r in rows:
+                    parsed = parse_message_content(r["content"], r["contentType"])
+                    if keyword.lower() in parsed["text"].lower() or keyword in str(r["content"]):
+                        results.append({
+                            "mid": str(r["mid"]),
+                            "cid": str(r["cid"]),
+                            "sender_id": str(r["senderId"]),
+                            "sender_name": self.resolve_sender(r["senderId"]),
+                            "created_at": format_timestamp(r["createdAt"]),
+                            "content_type": r["contentType"],
+                            "content": parsed["text"],
+                            "_raw_ts": r["createdAt"] or 0,
+                        })
+
+        results.sort(key=lambda m: m["_raw_ts"], reverse=True)
+        for m in results:
+            m.pop("_raw_ts", None)
+        return results[:limit]
+
+    def list_contacts(self, limit: int = 100, keyword: Optional[str] = None) -> List[Dict[str, Any]]:
+        limit = _clamp(limit, 100, 1000)
+        profiles = self.get_user_profiles()
+        results = []
+        for p in profiles.values():
+            if keyword:
+                kw = keyword.lower()
+                if kw not in p["real_name"].lower() and kw not in p["nick"].lower() and kw not in p["uid"]:
+                    continue
+            results.append(p)
+            if len(results) >= limit:
+                break
+        return results

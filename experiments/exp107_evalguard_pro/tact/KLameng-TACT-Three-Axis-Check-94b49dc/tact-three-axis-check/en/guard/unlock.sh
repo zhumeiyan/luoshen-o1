@@ -1,1 +1,14 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIFVubG9jayBjb250cm9sbGVkIGZpbGVzIHRvIHdyaXRhYmxlIChvbmx5IGZvciBmaW5hbGl6ZS10aW1lIGVkaXRpbmcpCiMgVXNhZ2U6IGd1YXJkL3VubG9jay5zaAojIEZpbmFsaXplIGZsb3c6IHVubG9jayDihpIgZWRpdCDihpIgdmVyaWZ5ICYgdXBkYXRlIE1BTklGRVNUIOKGkiBjb21taXQg4oaSIGxvY2sKc2V0IC1lCkRJUj0iJChjZCAiJChkaXJuYW1lICIke0JBU0hfU09VUkNFWzBdfSIpLy4uIiAmJiBwd2QpIgpjZCAiJERJUiIKIyBSZWZ1c2UgdW5sb2NrIGlmIGFub3RoZXIgcHJvY2VzcyBpcyB3cml0aW5nICh3cml0ZS1sb2NrIGNvbnZlbnRpb24pCmlmIFsgLWYgZ3VhcmQvTE9DSyBdOyB0aGVuCiAgZWNobyAiW0xPQ0tdIGd1YXJkL0xPQ0sgZXhpc3RzIChhbm90aGVyIHByb2Nlc3MgaXMgd3JpdGluZyk7IHJlZnVzaW5nIHRvIHVubG9jay4gQ29uZmlybSBubyBjb25mbGljdCwgdGhlbiBybSBndWFyZC9MT0NLIGFuZCByZXRyeS4iID4mMgogIGV4aXQgMQpmaQpjaG1vZCA2NDQgU0tJTEwubWQgcmVmZXJlbmNlcy9jYWxpYnJhdGlvbl9jYXNlcy5qc29uIHJlZmVyZW5jZXMvY29vcmRpbmF0ZV9kYXRhLmpzb24KZWNobyAiQ29udHJvbGxlZCBmaWxlcyB1bmxvY2tlZCB0byB3cml0YWJsZSAoNjQ0KS4gQWZ0ZXIgZWRpdGluZzogdXBkYXRlIGd1YXJkL01BTklGRVNULmpzb24g4oaSIGdpdCBjb21taXQg4oaSIGd1YXJkL2xvY2suc2ggdG8gcmUtbG9jay4iCg==
+#!/usr/bin/env bash
+# Unlock controlled files to writable (only for finalize-time editing)
+# Usage: guard/unlock.sh
+# Finalize flow: unlock → edit → verify & update MANIFEST → commit → lock
+set -e
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$DIR"
+# Refuse unlock if another process is writing (write-lock convention)
+if [ -f guard/LOCK ]; then
+  echo "[LOCK] guard/LOCK exists (another process is writing); refusing to unlock. Confirm no conflict, then rm guard/LOCK and retry." >&2
+  exit 1
+fi
+chmod 644 SKILL.md references/calibration_cases.json references/coordinate_data.json
+echo "Controlled files unlocked to writable (644). After editing: update guard/MANIFEST.json → git commit → guard/lock.sh to re-lock."

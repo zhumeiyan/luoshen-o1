@@ -1,1 +1,136 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKY29udGV4dF9jb21wcmVzcyDigJTigJQg5LiK5LiL5paH5YiG5bGC5LiO5Y6L57ypCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrlr7nmoIfooaXkvY3vvJozIOiusOW/hi/kuIrkuIvmlofnrqHnkIbvvIjljovnvKnkuI7oo4HliarvvIkKCuWvueagh+S+neaNru+8iOWFqOeQg+mhtue6p+aZuuiDveS9k+iDveWKm+a4heWNlS5tZCDnrKwz56ug77yJ77yaCiAgQ2xhdWRlIENvZGUg5oqK6K6w5b+G5ouG5oiQIDcg56eN5py65Yi277yM5ZCE6Ieq5a6a5LmJ44CM5L2V5pe25Yqg6L29IC8g5Y6L57yp5ZCO5piv5ZCm5L+d55WZIC8g5Luj5Lu35aSa5aSn44CN77ybCiAgQ3Vyc29yIOmdoOijgeWJquezu+e7n+aPkOekuig2NiUp44CB5bel5YW35Yqo5oCB5Yqg6L29KOWGhee9ruW3peWFt+mdmeaAgeS4iuS4i+aWh+mZjTYwJSnjgIEKICDmlLnlloTnvJPlrZjlpI3nlKgo5Ya35pyq5ZG95Lit6ZmNMjAlKSDkuInmi5vpmY3mnKzkuJTotKjph4/kuI3pmY3jgIIKCuacrOaooeWdl+WunueOsOmCo+W8oCLljovnvKnlkb3ov5Dooagi55qE5pyA5bCP5Y+v6L+Q6KGM54mI77yaCgogIOWxgiAgICAgICAgICAg5L2V5pe25Yqg6L29ICAgICAgICDljovnvKnlkI7lkb3ov5AgICAgICAgICAgICDku6Pku7cKICDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICBzeXN0ZW0gICAgICDmr4/mrKEgICAgICAgICAgICDljp/moLfkv53nlZnvvIjkuI3lj6/ljovvvIkgICAgIOWbuuWumgogIHBpbm5lZCAgICAgIOeUqOaIt+aYvuW8j+mSieS9jyAgICAg5YWo6YOo5L+d55WZICAgICAgICAgICAgICAg5Zu65a6aCiAgcmVjZW50ICAgICAg5pyA6L+RIE4g6L2uICAgICAgICDljp/moLfkv53nlZkgICAgICAgICAgICAgICDmjInova7orqEKICB0b29sX291dCAgICDosIPnlKjlkI7nq4vljbMgICAgICAg4piFIOi2hemYiOWAvOaIquaWre+8jOeVmeWktOeVmeWwviAg5aSn5aS077yM5Y6L6L+Z6YeM5pyA5YiS566XCiAgaGlzdG9yeSAgICAg5pep5pyf5a+56K+dICAgICAgICAg5pGY6KaB5YyW77yI5oyJ5p2h55uu5pGY77yJICAgICAg5LitCiAgZHJvcHBlZCAgICAg5bey5reY5rGwICAgICAgICAgICDkuKLlvIMgICAgICAgICAgICAgICAgICAgMAoK5qC45b+D5Yik5o2u77ya5Y6L57yp5b+F6aG75pyJ44CQ5Y+v6aqM6K+B55qE6LSm44CR4oCU4oCUCiAg5Y6L5LqG5aSa5bCR44CB55WZ5LqG5LuA5LmI44CB5Lii5LqG5LuA5LmI77yM5LiJ6ICF6YO96KaB6IO95YiX5Ye65p2l44CCCiAg5Y+q5oqlIuWOi+e8qeeOhyA3MCUi6ICM5LiN6K+05Lii5LqG5LuA5LmI77yM562J5LqO5rKh6K+044CCCiIiIgppbXBvcnQganNvbiwgcmUsIGhhc2hsaWIKCiMg5q+P5bGC55qE5Y6L57yp5ZG96L+QClBPTElDWSA9IHsKICAgICJzeXN0ZW0iOiAgIHsia2VlcCI6ICJhbGwiLCAgICAibWF4X2NoYXJzIjogTm9uZX0sCiAgICAicGlubmVkIjogICB7ImtlZXAiOiAiYWxsIiwgICAgIm1heF9jaGFycyI6IE5vbmV9LAogICAgInJlY2VudCI6ICAgeyJrZWVwIjogImFsbCIsICAgICJtYXhfY2hhcnMiOiBOb25lfSwKICAgICJ0b29sX291dCI6IHsia2VlcCI6ICJoZWFkX3RhaWwiLCAibWF4X2NoYXJzIjogODAwfSwKICAgICJoaXN0b3J5IjogIHsia2VlcCI6ICJkaWdlc3QiLCAibWF4X2NoYXJzIjogMjAwfSwKfQojIGhlYWRfdGFpbCDkv53nlZnnmoTlpLTlsL7mr5TkvosKSEVBRF9SQVRJTyA9IDAuNgoKZGVmIF90cnVuY2F0ZV9oZWFkX3RhaWwocywgbWF4X2NoYXJzKToKICAgICIiIui2hemVv+WGheWuue+8mueVmeWktOeVmeWwvu+8jOS4remXtOagh+iusOS4ouW8g+mHj+OAguS4jemdmem7mOWIoOOAgiIiIgogICAgaWYgbWF4X2NoYXJzIGlzIE5vbmUgb3IgbGVuKHMpIDw9IG1heF9jaGFyczogcmV0dXJuIHMsIDAKICAgIGggPSBpbnQobWF4X2NoYXJzICogSEVBRF9SQVRJTyk7IHQgPSBtYXhfY2hhcnMgLSBoIC0gNjAKICAgIGN1dCA9IGxlbihzKSAtIG1heF9jaGFycwogICAgbWFya2VyID0gZiJcbuKAplvljovnvKnvvJrmraTlpITkuKLlvIMge2N1dH0g5a2X56ymXeKAplxuIgogICAgcmV0dXJuIHNbOmhdICsgbWFya2VyICsgKHNbLXQ6XSBpZiB0ID4gMCBlbHNlICIiKSwgY3V0CgpkZWYgX2RpZ2VzdChzLCBtYXhfY2hhcnMpOgogICAgIiIi5Y6G5Y+y5p2h55uu5pGY6KaB77ya5L+d55WZ6aaW5Y+lICsg5pWw5a2X57uT6K6677yM5YW25L2Z5Lii44CCIiIiCiAgICBpZiBtYXhfY2hhcnMgaXMgTm9uZSBvciBsZW4ocykgPD0gbWF4X2NoYXJzOiByZXR1cm4gcywgMAogICAgIyDmipPmnInmlbDlrZfnmoTniYfmrrXigJTigJTnu5PorrrpgJrluLjluKbmlbDlrZcKICAgIG51bXMgPSByZS5maW5kYWxsKHIiW15cc+OAgu+8m1xuXXswLDE4fVxkW1xkLl0qW15cc+OAgu+8m1xuXXswLDE4fSIsIHMpCiAgICBmaXJzdCA9IHNbOm1heF9jaGFycy8vMl0uc3BsaXQoIlxuIilbMF0KICAgIHRhaWwgPSAoIiB8IOWFs+mUruaVsOWtlzogIiArICI7ICIuam9pbihudW1zWzo2XSkpIGlmIG51bXMgZWxzZSAiIgogICAgb3V0ID0gKGZpcnN0ICsgdGFpbClbOm1heF9jaGFyc10KICAgIHJldHVybiBvdXQsIGxlbihzKSAtIGxlbihvdXQpCgpkZWYgY29tcHJlc3MoaXRlbXMsIGJ1ZGdldF9jaGFycz1Ob25lKToKICAgICIiIgogICAgaXRlbXM6IFt7ImxheWVyIjogLi4uLCAidGV4dCI6IC4uLn0sIC4uLl0KICAgIOi/lOWbnuW4pui0puebrueahOWOi+e8qee7k+aenO+8muWOi+S6huWkmuWwkeOAgeeVmeS6huS7gOS5iOOAgeS4ouS6huS7gOS5iOOAggogICAgIiIiCiAgICBrZXB0LCBsZWRnZXIgPSBbXSwgW10KICAgIGZvciBpLCBpdCBpbiBlbnVtZXJhdGUoaXRlbXMpOgogICAgICAgIGxheWVyID0gaXQuZ2V0KCJsYXllciIsICJoaXN0b3J5IikKICAgICAgICAjIOKYhSDlrZfmrrXlkI3lrozlhajlhpnplJnvvIjmr5TlpoIgYm9keSAvIGNvbnRlbnQg5Lul5aSW55qE5Lu75L2V5ZCN5a2X77yJ5Lya6KKr6Z2Z6buY5b2T5oiQ56m65Liy77yMCiAgICAgICAgIyAgIOaVtOauteWGheWuueaXoOWjsOa2iOWksSDigJTigJQg6L+Z5piv5pyA5Y2x6Zmp55qE5LiA56eN5aSx6LSl77ya5LiN5oql6ZSZ44CB5LiN55WZ55eV44CCCiAgICAgICAgIyAgIOaJgOS7pei/memHjOaYvuW8j+aLkue7neOAgmNvbnRlbnQg5L2c5Li65Yir5ZCN5LuN5o6l5Y+X77yI5a695a6577yJ77yMCiAgICAgICAgIyAgIOS9huS4pOS4qumDveayoeaciSDihpIg5oqb6ZSZ77yM57ud5LiN6Z2Z6buY5b2S6Zu244CCCiAgICAgICAgaWYgInRleHQiIG5vdCBpbiBpdCBhbmQgImNvbnRlbnQiIG5vdCBpbiBpdDoKICAgICAgICAgICAgcmFpc2UgS2V5RXJyb3IoCiAgICAgICAgICAgICAgICBmIml0ZW1zW3tpfV0g57y6IHRleHQg5a2X5q6177yI5bGCPXtsYXllcn3vvInjgIIiCiAgICAgICAgICAgICAgICBmIueOsOaciemUrj17c29ydGVkKGl0LmtleXMoKSl944CCIgogICAgICAgICAgICAgICAgZiLkvKDplJnlrZfmrrXlkI3kvJrorqnlhoXlrrnpnZnpu5jmtojlpLHvvIzlm6DmraTov5nph4zmmL7lvI/miqXplJnogIzkuI3mmK/pu5jorqTnqbrkuLLjgIIiCiAgICAgICAgICAgICkKICAgICAgICB0ZXh0ID0gaXQuZ2V0KCJ0ZXh0IiwgaXQuZ2V0KCJjb250ZW50IiwgIiIpKQogICAgICAgIHBvbCAgID0gUE9MSUNZLmdldChsYXllciwgUE9MSUNZWyJoaXN0b3J5Il0pCiAgICAgICAgYmVmb3JlID0gbGVuKHRleHQpCgogICAgICAgIGlmIHBvbFsia2VlcCJdID09ICJhbGwiOgogICAgICAgICAgICBvdXQsIGN1dCA9IHRleHQsIDAKICAgICAgICBlbGlmIHBvbFsia2VlcCJdID09ICJoZWFkX3RhaWwiOgogICAgICAgICAgICBvdXQsIGN1dCA9IF90cnVuY2F0ZV9oZWFkX3RhaWwodGV4dCwgcG9sWyJtYXhfY2hhcnMiXSkKICAgICAgICBlbGlmIHBvbFsia2VlcCJdID09ICJkaWdlc3QiOgogICAgICAgICAgICBvdXQsIGN1dCA9IF9kaWdlc3QodGV4dCwgcG9sWyJtYXhfY2hhcnMiXSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBvdXQsIGN1dCA9ICIiLCBiZWZvcmUKCiAgICAgICAga2VwdC5hcHBlbmQoeyJsYXllciI6IGxheWVyLCAidGV4dCI6IG91dCwKICAgICAgICAgICAgICAgICAgICAgInNoYSI6IGhhc2hsaWIuc2hhMjU2KG91dC5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjhdfSkKICAgICAgICBsZWRnZXIuYXBwZW5kKHsiaSI6IGksICJsYXllciI6IGxheWVyLCAiYmVmb3JlIjogYmVmb3JlLAogICAgICAgICAgICAgICAgICAgICAgICJhZnRlciI6IGxlbihvdXQpLCAiY3V0IjogY3V0LAogICAgICAgICAgICAgICAgICAgICAgICJmYXRlIjogcG9sWyJrZWVwIl19KQoKICAgIHRvdGFsX2JlZm9yZSA9IHN1bShsWyJiZWZvcmUiXSBmb3IgbCBpbiBsZWRnZXIpCiAgICB0b3RhbF9hZnRlciAgPSBzdW0obFsiYWZ0ZXIiXSAgZm9yIGwgaW4gbGVkZ2VyKQogICAgIyDotoXpooTnrpfvvJrku44gaGlzdG9yeSDlsYLlho3noI3vvIh0b29sX291dCDlt7Lnu4/ljovov4fvvIkKICAgIGlmIGJ1ZGdldF9jaGFycyBhbmQgdG90YWxfYWZ0ZXIgPiBidWRnZXRfY2hhcnM6CiAgICAgICAgb3ZlciA9IHRvdGFsX2FmdGVyIC0gYnVkZ2V0X2NoYXJzCiAgICAgICAgZm9yIGsgaW4gcmV2ZXJzZWQocmFuZ2UobGVuKGtlcHQpKSk6CiAgICAgICAgICAgIGlmIG92ZXIgPD0gMDogYnJlYWsKICAgICAgICAgICAgaWYga2VwdFtrXVsibGF5ZXIiXSAhPSAiaGlzdG9yeSI6IGNvbnRpbnVlCiAgICAgICAgICAgIHJvb20gPSBsZW4oa2VwdFtrXVsidGV4dCJdKQogICAgICAgICAgICBkcm9wID0gbWluKHJvb20sIG92ZXIpCiAgICAgICAgICAgIGtlcHRba11bInRleHQiXSA9IGtlcHRba11bInRleHQiXVs6cm9vbSAtIGRyb3BdCiAgICAgICAgICAgIGxlZGdlcltrXVsiYWZ0ZXIiXSAtPSBkcm9wOyBsZWRnZXJba11bImN1dCJdICs9IGRyb3AKICAgICAgICAgICAgb3ZlciAtPSBkcm9wCiAgICAgICAgdG90YWxfYWZ0ZXIgPSBzdW0obFsiYWZ0ZXIiXSBmb3IgbCBpbiBsZWRnZXIpCgogICAgcmV0dXJuIHsKICAgICAgICAia2VwdCI6IGtlcHQsCiAgICAgICAgImxlZGdlciI6IGxlZGdlciwKICAgICAgICAiYmVmb3JlIjogdG90YWxfYmVmb3JlLAogICAgICAgICJhZnRlciI6IHRvdGFsX2FmdGVyLAogICAgICAgICJyYXRpbyI6IHJvdW5kKDEgLSB0b3RhbF9hZnRlciAvIHRvdGFsX2JlZm9yZSwgNCkgaWYgdG90YWxfYmVmb3JlIGVsc2UgMCwKICAgICAgICAjIOKYhSDotKbnm67vvJrkuKLkuobku4DkuYjlv4Xpobvog73liJflh7rmnaXvvIzkuI3og73lj6rmiqXljovnvKnnjocKICAgICAgICAiZHJvcHBlZCI6IFt7ImkiOiBsWyJpIl0sICJsYXllciI6IGxbImxheWVyIl0sICJjdXQiOiBsWyJjdXQiXX0KICAgICAgICAgICAgICAgICAgICBmb3IgbCBpbiBsZWRnZXIgaWYgbFsiY3V0Il0gPiAwXSwKICAgIH0KCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBkZW1vID0gWwogICAgICAgIHsibGF5ZXIiOiAic3lzdGVtIiwgICAidGV4dCI6ICLkvaDmmK/mtJvnpZ7jgILliKTmja7kvJjlhYjjgIIifSwKICAgICAgICB7ImxheWVyIjogInBpbm5lZCIsICAgInRleHQiOiAi55So5oi36K+077ya5LiN6K6457yW6YCg44CCIn0sCiAgICAgICAgeyJsYXllciI6ICJ0b29sX291dCIsICJ0ZXh0IjogIuWRveS7pOi+k+WHuuKApuKApiIgKyAieCIqMzAwMH0sCiAgICAgICAgeyJsYXllciI6ICJoaXN0b3J5IiwgICJ0ZXh0IjogIuS4iuS4gOi9ruWPkeeOsCBncmVwIOWRveS4rSAwIOadoe+8jE1DUCDmnKrlrp7njrDjgILljovnvKnnjocgMC4zMeOAgiJ9LAogICAgICAgIHsibGF5ZXIiOiAicmVjZW50IiwgICAidGV4dCI6ICLlvZPliY3pl67popjvvJrooaXlm5vpobnog73lipvjgIIifSwKICAgIF0KICAgIHIgPSBjb21wcmVzcyhkZW1vLCBidWRnZXRfY2hhcnM9MjAwMCkKICAgIHByaW50KGYi5Y6L57yp5YmNIHtyWydiZWZvcmUnXX0g5a2X56ymIOKGkiDljovnvKnlkI4ge3JbJ2FmdGVyJ119IOWtl+espiIpCiAgICBwcmludChmIuWOi+e8qeeOhyB7clsncmF0aW8nXSoxMDA6LjFmfSUiKQogICAgcHJpbnQoIlxu6YCQ5bGC6LSm55uu77yaIikKICAgIGZvciBsIGluIHJbImxlZGdlciJdOgogICAgICAgIHByaW50KGYiICBbe2xbJ2xheWVyJ106PDl9XSB7bFsnYmVmb3JlJ106PjV9IOKGkiB7bFsnYWZ0ZXInXTo+NX0gIOS4oiB7bFsnY3V0J106PjV9ICAoe2xbJ2ZhdGUnXX0pIikKICAgIHByaW50KCJcbuS4ouW8g+a4heWNle+8miIsIHJbImRyb3BwZWQiXSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+context_compress —— 上下文分层与压缩
+====================================
+对标补位：3 记忆/上下文管理（压缩与裁剪）
+
+对标依据（全球顶级智能体能力清单.md 第3章）：
+  Claude Code 把记忆拆成 7 种机制，各自定义「何时加载 / 压缩后是否保留 / 代价多大」；
+  Cursor 靠裁剪系统提示(66%)、工具动态加载(内置工具静态上下文降60%)、
+  改善缓存复用(冷未命中降20%) 三招降本且质量不降。
+
+本模块实现那张"压缩命运表"的最小可运行版：
+
+  层           何时加载        压缩后命运            代价
+  ─────────────────────────────────────────────────────
+  system      每次            原样保留（不可压）     固定
+  pinned      用户显式钉住     全部保留               固定
+  recent      最近 N 轮        原样保留               按轮计
+  tool_out    调用后立即       ★ 超阈值截断，留头留尾  大头，压这里最划算
+  history     早期对话         摘要化（按条目摘）      中
+  dropped     已淘汰           丢弃                   0
+
+核心判据：压缩必须有【可验证的账】——
+  压了多少、留了什么、丢了什么，三者都要能列出来。
+  只报"压缩率 70%"而不说丢了什么，等于没说。
+"""
+import json, re, hashlib
+
+# 每层的压缩命运
+POLICY = {
+    "system":   {"keep": "all",    "max_chars": None},
+    "pinned":   {"keep": "all",    "max_chars": None},
+    "recent":   {"keep": "all",    "max_chars": None},
+    "tool_out": {"keep": "head_tail", "max_chars": 800},
+    "history":  {"keep": "digest", "max_chars": 200},
+}
+# head_tail 保留的头尾比例
+HEAD_RATIO = 0.6
+
+def _truncate_head_tail(s, max_chars):
+    """超长内容：留头留尾，中间标记丢弃量。不静默删。"""
+    if max_chars is None or len(s) <= max_chars: return s, 0
+    h = int(max_chars * HEAD_RATIO); t = max_chars - h - 60
+    cut = len(s) - max_chars
+    marker = f"\n…[压缩：此处丢弃 {cut} 字符]…\n"
+    return s[:h] + marker + (s[-t:] if t > 0 else ""), cut
+
+def _digest(s, max_chars):
+    """历史条目摘要：保留首句 + 数字结论，其余丢。"""
+    if max_chars is None or len(s) <= max_chars: return s, 0
+    # 抓有数字的片段——结论通常带数字
+    nums = re.findall(r"[^\s。；\n]{0,18}\d[\d.]*[^\s。；\n]{0,18}", s)
+    first = s[:max_chars//2].split("\n")[0]
+    tail = (" | 关键数字: " + "; ".join(nums[:6])) if nums else ""
+    out = (first + tail)[:max_chars]
+    return out, len(s) - len(out)
+
+def compress(items, budget_chars=None):
+    """
+    items: [{"layer": ..., "text": ...}, ...]
+    返回带账目的压缩结果：压了多少、留了什么、丢了什么。
+    """
+    kept, ledger = [], []
+    for i, it in enumerate(items):
+        layer = it.get("layer", "history")
+        # ★ 字段名完全写错（比如 body / content 以外的任何名字）会被静默当成空串，
+        #   整段内容无声消失 —— 这是最危险的一种失败：不报错、不留痕。
+        #   所以这里显式拒绝。content 作为别名仍接受（宽容），
+        #   但两个都没有 → 抛错，绝不静默归零。
+        if "text" not in it and "content" not in it:
+            raise KeyError(
+                f"items[{i}] 缺 text 字段（层={layer}）。"
+                f"现有键={sorted(it.keys())}。"
+                f"传错字段名会让内容静默消失，因此这里显式报错而不是默认空串。"
+            )
+        text = it.get("text", it.get("content", ""))
+        pol   = POLICY.get(layer, POLICY["history"])
+        before = len(text)
+
+        if pol["keep"] == "all":
+            out, cut = text, 0
+        elif pol["keep"] == "head_tail":
+            out, cut = _truncate_head_tail(text, pol["max_chars"])
+        elif pol["keep"] == "digest":
+            out, cut = _digest(text, pol["max_chars"])
+        else:
+            out, cut = "", before
+
+        kept.append({"layer": layer, "text": out,
+                     "sha": hashlib.sha256(out.encode()).hexdigest()[:8]})
+        ledger.append({"i": i, "layer": layer, "before": before,
+                       "after": len(out), "cut": cut,
+                       "fate": pol["keep"]})
+
+    total_before = sum(l["before"] for l in ledger)
+    total_after  = sum(l["after"]  for l in ledger)
+    # 超预算：从 history 层再砍（tool_out 已经压过）
+    if budget_chars and total_after > budget_chars:
+        over = total_after - budget_chars
+        for k in reversed(range(len(kept))):
+            if over <= 0: break
+            if kept[k]["layer"] != "history": continue
+            room = len(kept[k]["text"])
+            drop = min(room, over)
+            kept[k]["text"] = kept[k]["text"][:room - drop]
+            ledger[k]["after"] -= drop; ledger[k]["cut"] += drop
+            over -= drop
+        total_after = sum(l["after"] for l in ledger)
+
+    return {
+        "kept": kept,
+        "ledger": ledger,
+        "before": total_before,
+        "after": total_after,
+        "ratio": round(1 - total_after / total_before, 4) if total_before else 0,
+        # ★ 账目：丢了什么必须能列出来，不能只报压缩率
+        "dropped": [{"i": l["i"], "layer": l["layer"], "cut": l["cut"]}
+                    for l in ledger if l["cut"] > 0],
+    }
+
+if __name__ == "__main__":
+    demo = [
+        {"layer": "system",   "text": "你是洛神。判据优先。"},
+        {"layer": "pinned",   "text": "用户说：不许编造。"},
+        {"layer": "tool_out", "text": "命令输出……" + "x"*3000},
+        {"layer": "history",  "text": "上一轮发现 grep 命中 0 条，MCP 未实现。压缩率 0.31。"},
+        {"layer": "recent",   "text": "当前问题：补四项能力。"},
+    ]
+    r = compress(demo, budget_chars=2000)
+    print(f"压缩前 {r['before']} 字符 → 压缩后 {r['after']} 字符")
+    print(f"压缩率 {r['ratio']*100:.1f}%")
+    print("\n逐层账目：")
+    for l in r["ledger"]:
+        print(f"  [{l['layer']:<9}] {l['before']:>5} → {l['after']:>5}  丢 {l['cut']:>5}  ({l['fate']})")
+    print("\n丢弃清单：", r["dropped"])

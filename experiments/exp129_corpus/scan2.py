@@ -1,1 +1,21 @@
-aW1wb3J0IHN5cywganNvbiwgcGF0aGxpYiwgY29sbGVjdGlvbnMKc3lzLnBhdGguaW5zZXJ0KDAsICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9vdmVyc2VhcyIpCmZyb20gZXZhbGd1YXJkIGltcG9ydCBjbGkKZnJvbSBldmFsZ3VhcmQuY2xpIGltcG9ydCBzY2FuCmNsaS5QUk9fT05bMF0gPSBUcnVlCmZpbGVzID0gc29ydGVkKHBhdGhsaWIuUGF0aCgiY29ycHVzMiIpLmdsb2IoIioucHkiKSkKcmVzID0ge30KZm9yIGYgaW4gZmlsZXM6CiAgICB0cnk6CiAgICAgICAgcmVzW2YubmFtZV0gPSBzY2FuKHN0cihmKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXNbZi5uYW1lXSA9IFt7ImVnX2lkIjoiQ1JBU0giLCJlcnIiOnN0cihlKX1dCnBhdGhsaWIuUGF0aCgic2NhbjIuanNvbiIpLndyaXRlX3RleHQoanNvbi5kdW1wcyhyZXMsIGluZGVudD0xKSkKc2V2PWNvbGxlY3Rpb25zLkNvdW50ZXIoKTsgcnVsZT1jb2xsZWN0aW9ucy5Db3VudGVyKCk7IG5mPTAKZm9yIGYsZnMgaW4gcmVzLml0ZW1zKCk6CiAgICBpZiBmczogbmYrPTEKICAgIGZvciByIGluIGZzOgogICAgICAgIHNldltyLmdldCgic2V2ZXJpdHkiLCI/IildKz0xOyBydWxlW3IuZ2V0KCJlZ19pZCIsIj8iKV0rPTEKcHJpbnQoImZpbGVzOiIsbGVuKHJlcyksIndpdGggZmluZGluZ3M6IixuZikKcHJpbnQoInNldjoiLGRpY3Qoc2V2KSkKcHJpbnQoInJ1bGVzOiIscnVsZS5tb3N0X2NvbW1vbigyMCkpCg==
+import sys, json, pathlib, collections
+sys.path.insert(0, "/data/workspace/luoshen-o1/overseas")
+from evalguard import cli
+from evalguard.cli import scan
+cli.PRO_ON[0] = True
+files = sorted(pathlib.Path("corpus2").glob("*.py"))
+res = {}
+for f in files:
+    try:
+        res[f.name] = scan(str(f))
+    except Exception as e:
+        res[f.name] = [{"eg_id":"CRASH","err":str(e)}]
+pathlib.Path("scan2.json").write_text(json.dumps(res, indent=1))
+sev=collections.Counter(); rule=collections.Counter(); nf=0
+for f,fs in res.items():
+    if fs: nf+=1
+    for r in fs:
+        sev[r.get("severity","?")]+=1; rule[r.get("eg_id","?")]+=1
+print("files:",len(res),"with findings:",nf)
+print("sev:",dict(sev))
+print("rules:",rule.most_common(20))

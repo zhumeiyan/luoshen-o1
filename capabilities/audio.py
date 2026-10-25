@@ -1,1 +1,153 @@
-IiIi6Z+z6aKR55Sf5oiQ5bGC44CCCgror5rlrp7lrprkvY0KLS0tLS0tLS0K6L+Z5pivKirms6LlvaLlkIjmiJAqKu+8jOS4jeaYr+elnue7jyBUVFPjgILog73nqLPlrprkuqflh7rvvJrmj5DnpLrpn7PjgIHoioLmi43jgIHmiavpopHjgIHnlLHpn7Ppq5gK5bqP5YiX5ou85Ye655qE5peL5b6LL+iKguWlj+OAguWBmuS4jeWIsCLor7vlh7rkuIDmrrXkuK3mlofkurrlo7Ai4oCU4oCU6YKj6ZyA6KaB5aOw5a2m5qih5Z6L5ZKM6Z+z5bqT77yMCueOr+Wig+mHjOayoeacie+8jOWwseS4jeWBh+ijheiDveOAggoKYHNheSgpYCDliLvmhI/kuI3kvKroo4XmiJDor63pn7PlkIjmiJDvvJrlroPmjInpn7PoioLmlbDnlJ/miJDkuIDkuLLlj6/ovqjor4bnmoTpn7Ppq5jljIXnu5zvvIwK6K6pIui/meauteivneacieWkmumVv+OAgemHjemfs+WcqOWTqiLlj6/lkKzvvIzkvYbkuI3lo7Dnp7DmmK/or7Tor53jgILlkb3lkI3lkozmlofmoaPpg73kuI3orrjlkKsKVFRTL+ivremfs+WQiOaIkOWtl+agt+KAlOKAlOWQq+S6huWwseaYr+WcqOmql+iwg+eUqOaWueOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IG9zCmltcG9ydCBzaHV0aWwKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHdhdmUKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSAuYXJ0aWZhY3QgaW1wb3J0IEFydGlmYWN0LCBLaW5kCgpERUZBVUxUX09VVCA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICJvdXQiKQpTUiA9IDIyMDUwCgoKZGVmIF93cml0ZV93YXYocGF0aDogc3RyLCBkYXRhOiBucC5uZGFycmF5LCBzcjogaW50ID0gU1IpIC0+IE5vbmU6CiAgICAiIiIxNi1iaXQgUENNIOWNleWjsOmBk+OAgui2heW5heWFiOW9kuS4gO+8jOmBv+WFjeWJiuazouWkseecn+OAgiIiIgogICAgZGF0YSA9IG5wLmFzYXJyYXkoZGF0YSwgZHR5cGU9ZmxvYXQpCiAgICBwZWFrID0gZmxvYXQobnAubWF4KG5wLmFicyhkYXRhKSkpIGlmIGRhdGEuc2l6ZSBlbHNlIDAuMAogICAgaWYgcGVhayA+IDEuMDoKICAgICAgICBkYXRhID0gZGF0YSAvIHBlYWsKICAgIGlmIHBlYWsgPT0gMC4wOgogICAgICAgIGRhdGEgPSBkYXRhCiAgICBwY20gPSAobnAuY2xpcChkYXRhLCAtMS4wLCAxLjApICogMzI3NjcpLmFzdHlwZSgiPGkyIikKICAgIHdpdGggd2F2ZS5vcGVuKHBhdGgsICJ3YiIpIGFzIHc6CiAgICAgICAgdy5zZXRuY2hhbm5lbHMoMSkKICAgICAgICB3LnNldHNhbXB3aWR0aCgyKQogICAgICAgIHcuc2V0ZnJhbWVyYXRlKHNyKQogICAgICAgIHcud3JpdGVmcmFtZXMocGNtLnRvYnl0ZXMoKSkKCgpkZWYgX2VudihuOiBpbnQsIGF0dGFjazogZmxvYXQgPSAwLjAxLCByZWxlYXNlOiBmbG9hdCA9IDAuMjUpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiJBRFNSIOeahOeugOWMlueJiO+8mui1t+aMryArIOihsOWHj+OAguayoeacieWMhee7nOeahOmfs+aYryLlkpTlk5Ii5aOw5LiN5piv5LmQ6Z+z44CCIiIiCiAgICBhID0gbWF4KDEsIGludChuICogYXR0YWNrKSkKICAgIHIgPSBtYXgoMSwgaW50KG4gKiByZWxlYXNlKSkKICAgIGUgPSBucC5vbmVzKG4pCiAgICBlWzphXSA9IG5wLmxpbnNwYWNlKDAsIDEsIGEpCiAgICBlWy1yOl0gPSBucC5saW5zcGFjZSgxLCAwLCByKQogICAgcmV0dXJuIGUKCgpkZWYgdG9uZShmcmVxOiBmbG9hdCA9IDQ0MC4wLCBzZWNvbmRzOiBmbG9hdCA9IDEuMCwgc3I6IGludCA9IFNSKSAtPiBucC5uZGFycmF5OgogICAgdCA9IG5wLmxpbnNwYWNlKDAsIHNlY29uZHMsIGludChzciAqIHNlY29uZHMpLCBlbmRwb2ludD1GYWxzZSkKICAgIHJldHVybiBucC5zaW4oMiAqIG5wLnBpICogZnJlcSAqIHQpICogX2VudihsZW4odCkpCgoKZGVmIGJlZXAoc2Vjb25kczogZmxvYXQgPSAwLjE1LCBmcmVxOiBmbG9hdCA9IDg4MC4wLCBzcjogaW50ID0gU1IpIC0+IG5wLm5kYXJyYXk6CiAgICByZXR1cm4gdG9uZShmcmVxLCBzZWNvbmRzLCBzcikKCgpkZWYgc3dlZXAoZjA6IGZsb2F0ID0gMjAwLjAsIGYxOiBmbG9hdCA9IDIwMDAuMCwgc2Vjb25kczogZmxvYXQgPSAyLjAsCiAgICAgICAgICBzcjogaW50ID0gU1IpIC0+IG5wLm5kYXJyYXk6CiAgICB0ID0gbnAubGluc3BhY2UoMCwgc2Vjb25kcywgaW50KHNyICogc2Vjb25kcyksIGVuZHBvaW50PUZhbHNlKQogICAgZiA9IG5wLmxpbnNwYWNlKGYwLCBmMSwgbGVuKHQpKQogICAgcmV0dXJuIG5wLnNpbigyICogbnAucGkgKiBucC5jdW1zdW0oZikgLyBzcikgKiBfZW52KGxlbih0KSkKCgpkZWYgbWVsb2R5KG5vdGVzLCBzZWNvbmRzX3Blcl9ub3RlOiBmbG9hdCA9IDAuMzUsIHNyOiBpbnQgPSBTUikgLT4gbnAubmRhcnJheToKICAgICIiIuaMiemfs+mrmOW6j+WIl+aLvOaXi+W+i+OAgmBub3Rlc2Ag5Li66aKR546HKEh6KeaIlumfs+WQje+8jE5vbmUg6KGo56S65LyR5q2i44CCIiIiCiAgICB0YWJsZSA9IHsiQyI6IDI2MS42MywgIkQiOiAyOTMuNjYsICJFIjogMzI5LjYzLCAiRiI6IDM0OS4yMywKICAgICAgICAgICAgICJHIjogMzkyLjAwLCAiQSI6IDQ0MC4wMCwgIkIiOiA0OTMuODh9CiAgICBvdXQgPSBbXQogICAgZm9yIG4gaW4gbm90ZXM6CiAgICAgICAgaWYgbiBpcyBOb25lOgogICAgICAgICAgICBvdXQuYXBwZW5kKG5wLnplcm9zKGludChzciAqIHNlY29uZHNfcGVyX25vdGUpKSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmID0gZmxvYXQodGFibGUuZ2V0KHN0cihuKS51cHBlcigpLnJzdHJpcCgiMDEyMzQ1Njc4OSIpLCBuKSkgXAogICAgICAgICAgICBpZiBpc2luc3RhbmNlKG4sIHN0cikgZWxzZSBmbG9hdChuKQogICAgICAgIG91dC5hcHBlbmQodG9uZShmLCBzZWNvbmRzX3Blcl9ub3RlLCBzcikpCiAgICByZXR1cm4gbnAuY29uY2F0ZW5hdGUob3V0KSBpZiBvdXQgZWxzZSBucC56ZXJvcygxKQoKCmRlZiBzYXkodGV4dDogc3RyLCBzZWNvbmRzX3Blcl9zeWxsYWJsZTogZmxvYXQgPSAwLjE2LCBzcjogaW50ID0gU1IpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLmiormlofmnKzmjInplb/luqbmmKDlsITmiJDkuIDkuLLlj6/lkKznmoTpn7Ppq5jova7lu5PjgIIKCiAgICDov5nkuI3mmK/or63pn7PlkIjmiJAg4oCU4oCUIOWug+S4jeWPkeWHuuS6uuWjsO+8jOS5n+S4jeivleWbvuiuqeS6uuWQrOaHguivjeOAguWug+eahOeUqOmAlOaYr+iuqQogICAgIui/meauteWGheWuueacieWkmumVv+OAgeiKguWlj+WmguS9lSLlj5jlvpflj6/lkKzvvIjkvovlpoLlgZrop4bpopHphY3pn7PovajnmoTplb/luqblj4LnhafvvInjgIIKICAgIOmcgOimgeecn+S6uuWjsOivt+eUqOWuv+S4u+S+p+eahCBUVFPvvIzkuI3opoHlnKjmnKzmlofmoaPph4zmib7jgIIKICAgICIiIgogICAgbiA9IG1heCgxLCBsZW4oW2MgZm9yIGMgaW4gdGV4dCBpZiBjLnN0cmlwKCldKSkKICAgIGJhc2UgPSAyMjAuMAogICAgIyDnlKjlrZfnrKbnoIHlgZrnoa7lrprmgKfpn7Ppq5jotbfkvI/vvJrlkIzkuIDmrrXmlofmnKzmr4/mrKHkuqflh7rlrozlhajkuIDmoLfvvIzlj6/lpI3njrAKICAgIHNlcSA9IFtiYXNlICogKDEgKyAwLjA2ICogKChvcmQoYykgJSA3KSAtIDMpKSBmb3IgYyBpbiB0ZXh0IGlmIGMuc3RyaXAoKV0KICAgIHJldHVybiBtZWxvZHkoc2VxLCBzZWNvbmRzX3Blcl9zeWxsYWJsZSwgc3IpCgoKZGVmIHNhdmUoZGF0YTogbnAubmRhcnJheSwgbmFtZTogc3RyLCBvdXRfZGlyOiBzdHIgPSBERUZBVUxUX09VVCwKICAgICAgICAgdG9fbXAzOiBib29sID0gRmFsc2UpIC0+IEFydGlmYWN0OgogICAgb3MubWFrZWRpcnMob3V0X2RpciwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHdhdiA9IG9zLnBhdGguam9pbihvdXRfZGlyLCBmIntuYW1lfS53YXYiKQogICAgX3dyaXRlX3dhdih3YXYsIGRhdGEpCiAgICBwYXRoID0gd2F2CiAgICBpZiB0b19tcDM6CiAgICAgICAgZXhlID0gc2h1dGlsLndoaWNoKCJmZm1wZWciKQogICAgICAgIGlmIG5vdCBleGU6CiAgICAgICAgICAgICMg5LiN6Z2Z6buY6ZmN57qn5oiQIHdhdiDov5jor7Qi57uZ5LqGIG1wMyLigJTigJTov5Tlm54gd2F2IOW5tuWcqCBtZXRhIOmHjOivtOaYjgogICAgICAgICAgICByZXR1cm4gQXJ0aWZhY3Qoa2luZD1LaW5kLkFVRElPLCBwYXRoPXdhdiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGE9eyJmb3JtYXQiOiAid2F2IiwgIm1wM19yZXF1ZXN0ZWQiOiBUcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vdGUiOiAi5pegIGZmbXBlZ++8jOacquiDvei9rCBtcDPvvIzlrp7pmYXkuqTku5ggd2F2In0pCiAgICAgICAgbXAzID0gb3MucGF0aC5qb2luKG91dF9kaXIsIGYie25hbWV9Lm1wMyIpCiAgICAgICAgciA9IHN1YnByb2Nlc3MucnVuKFtleGUsICIteSIsICItbG9nbGV2ZWwiLCAiZXJyb3IiLCAiLWkiLCB3YXYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLWNvZGVjOmEiLCAibGlibXAzbGFtZSIsICItcTphIiwgIjQiLCBtcDNdLAogICAgICAgICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUpCiAgICAgICAgaWYgci5yZXR1cm5jb2RlID09IDA6CiAgICAgICAgICAgIHBhdGggPSBtcDMKICAgICAgICAgICAgb3MucmVtb3ZlKHdhdikKICAgIGZtdCA9IG9zLnBhdGguc3BsaXRleHQocGF0aClbMV0ubHN0cmlwKCIuIikKICAgIHJldHVybiBBcnRpZmFjdChraW5kPUtpbmQuQVVESU8sIHBhdGg9cGF0aCwgbWV0YT17ImZvcm1hdCI6IGZtdH0pCgoKZGVmIHByb2JlKHBhdGg6IHN0cikgLT4gZGljdDoKICAgICIiIuivuyB3YXYg5aS06YeM55qE55yf5a6e5L+h5oGv44CC5LiN6K+755Sf5oiQ5pe255qE5Y+C5pWw44CCIiIiCiAgICB0cnk6CiAgICAgICAgd2l0aCB3YXZlLm9wZW4ocGF0aCwgInJiIikgYXMgdzoKICAgICAgICAgICAgbiA9IHcuZ2V0bmZyYW1lcygpCiAgICAgICAgICAgIHNyID0gdy5nZXRmcmFtZXJhdGUoKQogICAgICAgICAgICByYXcgPSB3LnJlYWRmcmFtZXMobWluKG4sIHNyICogMTApKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4ge30KICAgIGEgPSBucC5mcm9tYnVmZmVyKHJhdywgZHR5cGU9IjxpMiIpLmFzdHlwZShmbG9hdCkgLyAzMjc2OC4wCiAgICBybXMgPSBmbG9hdChucC5zcXJ0KG5wLm1lYW4oYSAqKiAyKSkpIGlmIGEuc2l6ZSBlbHNlIDAuMAogICAgIyDliYrms6LnmoTliKTmja7mmK8i5pyJ5aSa5bCR6YeH5qC354K56LS05Zyo5ruh5bmF6L6555WM5LiKIu+8iOW5s+mhtu+8ie+8jOS4jeaYryLls7DlgLzliLDmsqHliLAgMSLjgIIKICAgICMg5LiA5Liq5ruh5bmF5q2j5bym55qE5bOw5YC85pys5p2l5bCx5pivIDEuMO+8jOmCo+WujOWFqOato+W4uO+8m+WPquacieWkp+mHj+mHh+agt+eCueWQjOaXtui0tOi+uQogICAgIyDmiY3or7TmmI7ms6LlvaLooqvmiKrmlq3kuobjgILnlKjls7DlgLzliKTliYrms6LkvJrmiormiYDmnInmraPluLjlk43nmoTpn7PpopHor6/liKTkuLrlpLHnnJ/jgIIKICAgIGNsaXAgPSBmbG9hdCgobnAuYWJzKGEpID49IDAuOTk5KS5tZWFuKCkpIGlmIGEuc2l6ZSBlbHNlIDAuMAogICAgIyDliYrms6LkuI4i5Y+q5piv5b6I5ZONIueahOWMuuWIq+WcqOS6juW5s+mhtuaYr+WQpioq6L+e57ut5oiQ5q61KirvvJoKICAgICMgICDmu6HluYXmraPlvKYg4oCU4oCUIOavj+S4quWRqOacn+WPquacieWtpOeri+eahOWHoOS4qumHh+agt+aOpei/kSDCsTHvvIzmrrXplb8gMX4z44CCCiAgICAjICAg5YmK5rOiICAgICDigJTigJQg5rOi5b2i6KKr56Gs5oiq5pat77yM5Ye6546w5Yeg5Y2B5LiK55m+5Liq6YeH5qC36L+e57ut57K+56Gu6LS06aG255qE5bmz5Y+w44CCCiAgICAjIOaJgOS7peWIpOaNruWPliLmnIDplb/ov57nu63otLTpobbmrrUi77yM6ICM5LiN5piv6LS06aG25Y2g5q+U44CC5ZCO6ICF5Lya5oqK5q+P6aaW5ZON55qE5puy5a2QCiAgICAjIOmDveWIpOaIkOWkseecn++8iOWunua1i+a7oeW5heato+W8pueahOWNoOavlOWwseaciSAyJe+8ieOAggogICAgaGl0ID0gKG5wLmFicyhhKSA+PSAwLjk5OSkuYXN0eXBlKG5wLmludDgpCiAgICBydW4gPSBiZXN0ID0gMAogICAgZm9yIHYgaW4gaGl0OgogICAgICAgIHJ1biA9IHJ1biArIDEgaWYgdiBlbHNlIDAKICAgICAgICBiZXN0ID0gbWF4KGJlc3QsIHJ1bikKICAgIHJldHVybiB7InNhbXBsZV9yYXRlIjogc3IsICJjaGFubmVscyI6IDEsICJmcmFtZXMiOiBuLAogICAgICAgICAgICAic2Vjb25kcyI6IHJvdW5kKG4gLyBzciwgMykgaWYgc3IgZWxzZSAwLAogICAgICAgICAgICAicm1zIjogcm91bmQocm1zLCA1KSwKICAgICAgICAgICAgInBlYWsiOiByb3VuZChmbG9hdChucC5tYXgobnAuYWJzKGEpKSkgaWYgYS5zaXplIGVsc2UgMC4wLCA1KSwKICAgICAgICAgICAgImNsaXBfcmF0aW8iOiByb3VuZChjbGlwLCA2KSwKICAgICAgICAgICAgImNsaXBfcnVuIjogaW50KGJlc3QpfQo=
+"""音频生成层。
+
+诚实定位
+--------
+这是**波形合成**，不是神经 TTS。能稳定产出：提示音、节拍、扫频、由音高
+序列拼出的旋律/节奏。做不到"读出一段中文人声"——那需要声学模型和音库，
+环境里没有，就不假装能。
+
+`say()` 刻意不伪装成语音合成：它按音节数生成一串可辨识的音高包络，
+让"这段话有多长、重音在哪"可听，但不声称是说话。命名和文档都不许含
+TTS/语音合成字样——含了就是在骗调用方。
+"""
+from __future__ import annotations
+
+import os
+import shutil
+import subprocess
+import wave
+
+import numpy as np
+
+from .artifact import Artifact, Kind
+
+DEFAULT_OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "out")
+SR = 22050
+
+
+def _write_wav(path: str, data: np.ndarray, sr: int = SR) -> None:
+    """16-bit PCM 单声道。超幅先归一，避免削波失真。"""
+    data = np.asarray(data, dtype=float)
+    peak = float(np.max(np.abs(data))) if data.size else 0.0
+    if peak > 1.0:
+        data = data / peak
+    if peak == 0.0:
+        data = data
+    pcm = (np.clip(data, -1.0, 1.0) * 32767).astype("<i2")
+    with wave.open(path, "wb") as w:
+        w.setnchannels(1)
+        w.setsampwidth(2)
+        w.setframerate(sr)
+        w.writeframes(pcm.tobytes())
+
+
+def _env(n: int, attack: float = 0.01, release: float = 0.25) -> np.ndarray:
+    """ADSR 的简化版：起振 + 衰减。没有包络的音是"咔哒"声不是乐音。"""
+    a = max(1, int(n * attack))
+    r = max(1, int(n * release))
+    e = np.ones(n)
+    e[:a] = np.linspace(0, 1, a)
+    e[-r:] = np.linspace(1, 0, r)
+    return e
+
+
+def tone(freq: float = 440.0, seconds: float = 1.0, sr: int = SR) -> np.ndarray:
+    t = np.linspace(0, seconds, int(sr * seconds), endpoint=False)
+    return np.sin(2 * np.pi * freq * t) * _env(len(t))
+
+
+def beep(seconds: float = 0.15, freq: float = 880.0, sr: int = SR) -> np.ndarray:
+    return tone(freq, seconds, sr)
+
+
+def sweep(f0: float = 200.0, f1: float = 2000.0, seconds: float = 2.0,
+          sr: int = SR) -> np.ndarray:
+    t = np.linspace(0, seconds, int(sr * seconds), endpoint=False)
+    f = np.linspace(f0, f1, len(t))
+    return np.sin(2 * np.pi * np.cumsum(f) / sr) * _env(len(t))
+
+
+def melody(notes, seconds_per_note: float = 0.35, sr: int = SR) -> np.ndarray:
+    """按音高序列拼旋律。`notes` 为频率(Hz)或音名，None 表示休止。"""
+    table = {"C": 261.63, "D": 293.66, "E": 329.63, "F": 349.23,
+             "G": 392.00, "A": 440.00, "B": 493.88}
+    out = []
+    for n in notes:
+        if n is None:
+            out.append(np.zeros(int(sr * seconds_per_note)))
+            continue
+        f = float(table.get(str(n).upper().rstrip("0123456789"), n)) \
+            if isinstance(n, str) else float(n)
+        out.append(tone(f, seconds_per_note, sr))
+    return np.concatenate(out) if out else np.zeros(1)
+
+
+def say(text: str, seconds_per_syllable: float = 0.16, sr: int = SR) -> np.ndarray:
+    """把文本按长度映射成一串可听的音高轮廓。
+
+    这不是语音合成 —— 它不发出人声，也不试图让人听懂词。它的用途是让
+    "这段内容有多长、节奏如何"变得可听（例如做视频配音轨的长度参照）。
+    需要真人声请用宿主侧的 TTS，不要在本文档里找。
+    """
+    n = max(1, len([c for c in text if c.strip()]))
+    base = 220.0
+    # 用字符码做确定性音高起伏：同一段文本每次产出完全一样，可复现
+    seq = [base * (1 + 0.06 * ((ord(c) % 7) - 3)) for c in text if c.strip()]
+    return melody(seq, seconds_per_syllable, sr)
+
+
+def save(data: np.ndarray, name: str, out_dir: str = DEFAULT_OUT,
+         to_mp3: bool = False) -> Artifact:
+    os.makedirs(out_dir, exist_ok=True)
+    wav = os.path.join(out_dir, f"{name}.wav")
+    _write_wav(wav, data)
+    path = wav
+    if to_mp3:
+        exe = shutil.which("ffmpeg")
+        if not exe:
+            # 不静默降级成 wav 还说"给了 mp3"——返回 wav 并在 meta 里说明
+            return Artifact(kind=Kind.AUDIO, path=wav,
+                            meta={"format": "wav", "mp3_requested": True,
+                                  "note": "无 ffmpeg，未能转 mp3，实际交付 wav"})
+        mp3 = os.path.join(out_dir, f"{name}.mp3")
+        r = subprocess.run([exe, "-y", "-loglevel", "error", "-i", wav,
+                            "-codec:a", "libmp3lame", "-q:a", "4", mp3],
+                           capture_output=True, text=True)
+        if r.returncode == 0:
+            path = mp3
+            os.remove(wav)
+    fmt = os.path.splitext(path)[1].lstrip(".")
+    return Artifact(kind=Kind.AUDIO, path=path, meta={"format": fmt})
+
+
+def probe(path: str) -> dict:
+    """读 wav 头里的真实信息。不读生成时的参数。"""
+    try:
+        with wave.open(path, "rb") as w:
+            n = w.getnframes()
+            sr = w.getframerate()
+            raw = w.readframes(min(n, sr * 10))
+    except Exception:
+        return {}
+    a = np.frombuffer(raw, dtype="<i2").astype(float) / 32768.0
+    rms = float(np.sqrt(np.mean(a ** 2))) if a.size else 0.0
+    # 削波的判据是"有多少采样点贴在满幅边界上"（平顶），不是"峰值到没到 1"。
+    # 一个满幅正弦的峰值本来就是 1.0，那完全正常；只有大量采样点同时贴边
+    # 才说明波形被截断了。用峰值判削波会把所有正常响的音频误判为失真。
+    clip = float((np.abs(a) >= 0.999).mean()) if a.size else 0.0
+    # 削波与"只是很响"的区别在于平顶是否**连续成段**：
+    #   满幅正弦 —— 每个周期只有孤立的几个采样接近 ±1，段长 1~3。
+    #   削波     —— 波形被硬截断，出现几十上百个采样连续精确贴顶的平台。
+    # 所以判据取"最长连续贴顶段"，而不是贴顶占比。后者会把每首响的曲子
+    # 都判成失真（实测满幅正弦的占比就有 2%）。
+    hit = (np.abs(a) >= 0.999).astype(np.int8)
+    run = best = 0
+    for v in hit:
+        run = run + 1 if v else 0
+        best = max(best, run)
+    return {"sample_rate": sr, "channels": 1, "frames": n,
+            "seconds": round(n / sr, 3) if sr else 0,
+            "rms": round(rms, 5),
+            "peak": round(float(np.max(np.abs(a))) if a.size else 0.0, 5),
+            "clip_ratio": round(clip, 6),
+            "clip_run": int(best)}

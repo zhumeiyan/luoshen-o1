@@ -1,1 +1,374 @@
-aW1wb3J0IGxvZ2dpbmcKZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHdyYXBzCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIENhbGxhYmxlLCBEaWN0LCBMaXN0LCBPcHRpb25hbCwgU2VxdWVuY2UsIFVuaW9uCgpmcm9tIGxsYW1hX2luZGV4LmNvcmUuYmFzZS5sbG1zLnR5cGVzIGltcG9ydCBDaGF0TWVzc2FnZSwgTG9nUHJvYgpmcm9tIHBhY2thZ2luZyBpbXBvcnQgdmVyc2lvbgoKTUlOX0FEU19WRVJTSU9OID0gIjIuMTIuNiIKU1VQUE9SVEVEX1RPT0xfQ0hPSUNFUyA9IFsibm9uZSIsICJhdXRvIiwgInJlcXVpcmVkIl0KREVGQVVMVF9UT09MX0NIT0lDRSA9ICJhdXRvIgoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgoKY2xhc3MgVW5zdXBwb3J0ZWRPcmFjbGVBZHNWZXJzaW9uRXJyb3IoRXhjZXB0aW9uKToKICAgICIiIgogICAgQ3VzdG9tIGV4Y2VwdGlvbiBmb3IgdW5zdXBwb3J0ZWQgYG9yYWNsZS1hZHNgIHZlcnNpb25zLgoKICAgIEF0dHJpYnV0ZXM6CiAgICAgICAgY3VycmVudF92ZXJzaW9uOiBUaGUgaW5zdGFsbGVkIHZlcnNpb24gb2YgYG9yYWNsZS1hZHNgLgogICAgICAgIHJlcXVpcmVkX3ZlcnNpb246IFRoZSBtaW5pbXVtIHJlcXVpcmVkIHZlcnNpb24gb2YgYG9yYWNsZS1hZHNgLgoKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBjdXJyZW50X3ZlcnNpb246IHN0ciwgcmVxdWlyZWRfdmVyc2lvbjogc3RyKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKAogICAgICAgICAgICBmIlRoZSBgb3JhY2xlLWFkc2AgdmVyc2lvbiB7Y3VycmVudF92ZXJzaW9ufSBjdXJyZW50bHkgaW5zdGFsbGVkIGlzIGluY29tcGF0aWJsZSB3aXRoICIKICAgICAgICAgICAgInRoZSBgbGxhbWEtaW5kZXgtbGxtcy1vY2ktZGF0YS1zY2llbmNlYCB2ZXJzaW9uIGluIHVzZS4gVG8gcmVzb2x2ZSB0aGlzIGlzc3VlLCAiCiAgICAgICAgICAgIGYicGxlYXNlIHVwZ3JhZGUgdG8gYG9yYWNsZS1hZHM6e3JlcXVpcmVkX3ZlcnNpb259YCBvciBsYXRlciB1c2luZyB0aGUgIgogICAgICAgICAgICAiY29tbWFuZDogYHBpcCBpbnN0YWxsIG9yYWNsZS1hZHMgLVVgIgogICAgICAgICkKCgpkZWYgX3ZhbGlkYXRlX2RlcGVuZGVuY3koZnVuYzogQ2FsbGFibGVbLi4uLCBBbnldKSAtPiBDYWxsYWJsZVsuLi4sIEFueV06CiAgICAiIiIKICAgIERlY29yYXRvciB0byB2YWxpZGF0ZSB0aGUgcHJlc2VuY2UgYW5kIHZlcnNpb24gb2YgYG9yYWNsZS1hZHNgLgoKICAgIFRoaXMgZGVjb3JhdG9yIGNoZWNrcyB0aGF0IGBvcmFjbGUtYWRzYCBpcyBpbnN0YWxsZWQgYW5kIHRoYXQgaXRzIHZlcnNpb24gbWVldHMKICAgIHRoZSBtaW5pbXVtIHJlcXVpcmVtZW50LiBJZiBub3QsIGl0IHJhaXNlcyBhbiBlcnJvci4KCiAgICBBcmdzOgogICAgICAgIGZ1bmM6IFRoZSBmdW5jdGlvbiB0byB3cmFwIHdpdGggdGhlIGRlcGVuZGVuY3kgdmFsaWRhdGlvbi4KCiAgICBSZXR1cm5zOgogICAgICAgIFRoZSB3cmFwcGVkIGZ1bmN0aW9uLgoKICAgIFJhaXNlczoKICAgICAgICBJbXBvcnRFcnJvcjogSWYgYG9yYWNsZS1hZHNgIGlzIG5vdCBpbnN0YWxsZWQuCiAgICAgICAgVW5zdXBwb3J0ZWRPcmFjbGVBZHNWZXJzaW9uRXJyb3I6IElmIHRoZSBpbnN0YWxsZWQgdmVyc2lvbiBpcyBiZWxvdyB0aGUgcmVxdWlyZWQgdmVyc2lvbi4KCiAgICAiIiIKCiAgICBAd3JhcHMoZnVuYykKICAgIGRlZiB3cmFwcGVyKCphcmdzLCAqKmt3YXJncykgLT4gQW55OgogICAgICAgIHRyeToKICAgICAgICAgICAgZnJvbSBhZHMgaW1wb3J0IF9fdmVyc2lvbl9fIGFzIGFkc192ZXJzaW9uCgogICAgICAgICAgICBpZiB2ZXJzaW9uLnBhcnNlKGFkc192ZXJzaW9uKSA8IHZlcnNpb24ucGFyc2UoTUlOX0FEU19WRVJTSU9OKToKICAgICAgICAgICAgICAgIHJhaXNlIFVuc3VwcG9ydGVkT3JhY2xlQWRzVmVyc2lvbkVycm9yKGFkc192ZXJzaW9uLCBNSU5fQURTX1ZFUlNJT04pCiAgICAgICAgZXhjZXB0IEltcG9ydEVycm9yIGFzIGV4OgogICAgICAgICAgICByYWlzZSBJbXBvcnRFcnJvcigKICAgICAgICAgICAgICAgICJDb3VsZCBub3QgaW1wb3J0IGBvcmFjbGUtYWRzYCBQeXRob24gcGFja2FnZS4gIgogICAgICAgICAgICAgICAgIlBsZWFzZSBpbnN0YWxsIGl0IHdpdGggYHBpcCBpbnN0YWxsIG9yYWNsZS1hZHNgLiIKICAgICAgICAgICAgKSBmcm9tIGV4CiAgICAgICAgcmV0dXJuIGZ1bmMoKmFyZ3MsICoqa3dhcmdzKQoKICAgIHJldHVybiB3cmFwcGVyCgoKZGVmIF90b19tZXNzYWdlX2RpY3RzKAogICAgbWVzc2FnZXM6IFNlcXVlbmNlW0NoYXRNZXNzYWdlXSwgZHJvcF9ub25lOiBib29sID0gRmFsc2UKKSAtPiBMaXN0W0RpY3Rbc3RyLCBBbnldXToKICAgICIiIgogICAgQ29udmVydCBhIHNlcXVlbmNlIG9mIENoYXRNZXNzYWdlIG9iamVjdHMgdG8gYSBsaXN0IG9mIGRpY3Rpb25hcmllcy4KCiAgICBBcmdzOgogICAgICAgIG1lc3NhZ2VzOiBUaGUgbWVzc2FnZXMgdG8gY29udmVydC4KICAgICAgICBkcm9wX25vbmU6IFdoZXRoZXIgdG8gZHJvcCBrZXlzIHdpdGggYE5vbmVgIHZhbHVlcy4gRGVmYXVsdHMgdG8gRmFsc2UuCgogICAgUmV0dXJuczoKICAgICAgICBBIGxpc3Qgb2YgbWVzc2FnZSBkaWN0aW9uYXJpZXMuCgogICAgIiIiCiAgICBtZXNzYWdlX2RpY3RzID0gW10KICAgIGZvciBtZXNzYWdlIGluIG1lc3NhZ2VzOgogICAgICAgIG1lc3NhZ2VfZGljdCA9IHsKICAgICAgICAgICAgInJvbGUiOiBtZXNzYWdlLnJvbGUudmFsdWUsCiAgICAgICAgICAgICJjb250ZW50IjogbWVzc2FnZS5jb250ZW50LAogICAgICAgICAgICAqKm1lc3NhZ2UuYWRkaXRpb25hbF9rd2FyZ3MsCiAgICAgICAgfQogICAgICAgIGlmIGRyb3Bfbm9uZToKICAgICAgICAgICAgbWVzc2FnZV9kaWN0ID0ge2s6IHYgZm9yIGssIHYgaW4gbWVzc2FnZV9kaWN0Lml0ZW1zKCkgaWYgdiBpcyBub3QgTm9uZX0KICAgICAgICBtZXNzYWdlX2RpY3RzLmFwcGVuZChtZXNzYWdlX2RpY3QpCiAgICByZXR1cm4gbWVzc2FnZV9kaWN0cwoKCmRlZiBfZnJvbV9jb21wbGV0aW9uX2xvZ3Byb2JzX2RpY3QoCiAgICBjb21wbGV0aW9uX2xvZ3Byb2JzX2RpY3Q6IERpY3Rbc3RyLCBBbnldLAopIC0+IExpc3RbTGlzdFtMb2dQcm9iXV06CiAgICAiIiIKICAgIENvbnZlcnQgY29tcGxldGlvbiBsb2dwcm9icyB0byBhIGxpc3Qgb2YgZ2VuZXJpYyBMb2dQcm9iIG9iamVjdHMuCgogICAgQXJnczoKICAgICAgICBjb21wbGV0aW9uX2xvZ3Byb2JzX2RpY3Q6IFRoZSBjb21wbGV0aW9uIGxvZ3Byb2JzIHRvIGNvbnZlcnQuCgogICAgUmV0dXJuczoKICAgICAgICBBIGxpc3Qgb2YgbGlzdHMgb2YgTG9nUHJvYiBvYmplY3RzLgoKICAgICIiIgogICAgcmV0dXJuIFsKICAgICAgICBbCiAgICAgICAgICAgIExvZ1Byb2IodG9rZW49dG9rZW4sIGxvZ3Byb2I9bG9ncHJvYiwgYnl0ZXM9W10pCiAgICAgICAgICAgIGZvciB0b2tlbiwgbG9ncHJvYiBpbiBsb2dwcm9iX2RpY3QuaXRlbXMoKQogICAgICAgIF0KICAgICAgICBmb3IgbG9ncHJvYl9kaWN0IGluIGNvbXBsZXRpb25fbG9ncHJvYnNfZGljdC5nZXQoInRvcF9sb2dwcm9icyIsIFtdKQogICAgXQoKCmRlZiBfZnJvbV90b2tlbl9sb2dwcm9iX2RpY3RzKAogICAgdG9rZW5fbG9ncHJvYl9kaWN0czogU2VxdWVuY2VbRGljdFtzdHIsIEFueV1dLAopIC0+IExpc3RbTGlzdFtMb2dQcm9iXV06CiAgICAiIiIKICAgIENvbnZlcnQgYSBzZXF1ZW5jZSBvZiB0b2tlbiBsb2dwcm9iIGRpY3Rpb25hcmllcyB0byBhIGxpc3Qgb2YgTG9nUHJvYiBvYmplY3RzLgoKICAgIEFyZ3M6CiAgICAgICAgdG9rZW5fbG9ncHJvYl9kaWN0czogVGhlIHRva2VuIGxvZ3Byb2IgZGljdGlvbmFyaWVzIHRvIGNvbnZlcnQuCgogICAgUmV0dXJuczoKICAgICAgICBBIGxpc3Qgb2YgbGlzdHMgb2YgTG9nUHJvYiBvYmplY3RzLgoKICAgIFJhaXNlczoKICAgICAgICBXYXJuaW5nOiBMb2dzIGEgd2FybmluZyBpZiBhbiBlcnJvciBvY2N1cnMgd2hpbGUgcGFyc2luZyB0b2tlbiBsb2dwcm9icy4KCiAgICAiIiIKICAgIHJlc3VsdCA9IFtdCiAgICBmb3IgdG9rZW5fbG9ncHJvYl9kaWN0IGluIHRva2VuX2xvZ3Byb2JfZGljdHM6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBsb2dwcm9ic19saXN0ID0gWwogICAgICAgICAgICAgICAgTG9nUHJvYigKICAgICAgICAgICAgICAgICAgICB0b2tlbj1lbC5nZXQoInRva2VuIiksCiAgICAgICAgICAgICAgICAgICAgbG9ncHJvYj1lbC5nZXQoImxvZ3Byb2IiKSwKICAgICAgICAgICAgICAgICAgICBieXRlcz1lbC5nZXQoImJ5dGVzIikgb3IgW10sCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBmb3IgZWwgaW4gdG9rZW5fbG9ncHJvYl9kaWN0LmdldCgidG9wX2xvZ3Byb2JzIiwgW10pCiAgICAgICAgICAgIF0KICAgICAgICAgICAgaWYgbG9ncHJvYnNfbGlzdDoKICAgICAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQobG9ncHJvYnNfbGlzdCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgIkVycm9yIG9jY3VycmVkIGluIGF0dGVtcHQgdG8gcGFyc2UgdG9rZW4gbG9ncHJvYi4gIgogICAgICAgICAgICAgICAgZiJEZXRhaWxzOiB7ZX0uIFNyYzoge3Rva2VuX2xvZ3Byb2JfZGljdH0iCiAgICAgICAgICAgICkKICAgIHJldHVybiByZXN1bHQKCgpkZWYgX2Zyb21fbWVzc2FnZV9kaWN0KG1lc3NhZ2VfZGljdDogRGljdFtzdHIsIEFueV0pIC0+IENoYXRNZXNzYWdlOgogICAgIiIiCiAgICBDb252ZXJ0IGEgbWVzc2FnZSBkaWN0aW9uYXJ5IHRvIGEgQ2hhdE1lc3NhZ2Ugb2JqZWN0LgoKICAgIEFyZ3M6CiAgICAgICAgbWVzc2FnZV9kaWN0OiBUaGUgbWVzc2FnZSBkaWN0aW9uYXJ5LgoKICAgIFJldHVybnM6CiAgICAgICAgQSBDaGF0TWVzc2FnZSBvYmplY3QgcmVwcmVzZW50aW5nIHRoZSBnaXZlbiBkaWN0aW9uYXJ5LgoKICAgICIiIgogICAgcmV0dXJuIENoYXRNZXNzYWdlKAogICAgICAgIHJvbGU9bWVzc2FnZV9kaWN0LmdldCgicm9sZSIpLAogICAgICAgIGNvbnRlbnQ9bWVzc2FnZV9kaWN0LmdldCgiY29udGVudCIpLAogICAgICAgIGFkZGl0aW9uYWxfa3dhcmdzPXsidG9vbF9jYWxscyI6IG1lc3NhZ2VfZGljdC5nZXQoInRvb2xfY2FsbHMiLCBbXSl9LAogICAgKQoKCmRlZiBfZ2V0X3Jlc3BvbnNlX3Rva2VuX2NvdW50cyhyYXdfcmVzcG9uc2U6IERpY3Rbc3RyLCBBbnldKSAtPiBEaWN0W3N0ciwgaW50XToKICAgICIiIgogICAgRXh0cmFjdCB0b2tlbiB1c2FnZSBpbmZvcm1hdGlvbiBmcm9tIHRoZSByZXNwb25zZS4KCiAgICBBcmdzOgogICAgICAgIHJhd19yZXNwb25zZTogVGhlIHJhdyByZXNwb25zZSBjb250YWluaW5nIHRva2VuIHVzYWdlIGluZm9ybWF0aW9uLgoKICAgIFJldHVybnM6CiAgICAgICAgQSBkaWN0aW9uYXJ5IGNvbnRhaW5pbmcgdG9rZW4gY291bnRzLCBvciBhbiBlbXB0eSBkaWN0aW9uYXJ5IGlmIHVzYWdlIGluZm8gaXMgbm90IGZvdW5kLgoKICAgICIiIgogICAgaWYgbm90IHJhd19yZXNwb25zZS5nZXQoInVzYWdlIik6CiAgICAgICAgcmV0dXJuIHt9CgogICAgcmV0dXJuIHsKICAgICAgICAicHJvbXB0X3Rva2VucyI6IHJhd19yZXNwb25zZVsidXNhZ2UiXS5nZXQoInByb21wdF90b2tlbnMiLCAwKSwKICAgICAgICAiY29tcGxldGlvbl90b2tlbnMiOiByYXdfcmVzcG9uc2VbInVzYWdlIl0uZ2V0KCJjb21wbGV0aW9uX3Rva2VucyIsIDApLAogICAgICAgICJ0b3RhbF90b2tlbnMiOiByYXdfcmVzcG9uc2VbInVzYWdlIl0uZ2V0KCJ0b3RhbF90b2tlbnMiLCAwKSwKICAgIH0KCgpkZWYgX3VwZGF0ZV90b29sX2NhbGxzKAogICAgdG9vbF9jYWxsczogTGlzdFtEaWN0W3N0ciwgQW55XV0sIHRvb2xfY2FsbHNfZGVsdGE6IE9wdGlvbmFsW0xpc3RbRGljdFtzdHIsIEFueV1dXQopIC0+IExpc3RbRGljdFtzdHIsIEFueV1dOgogICAgIiIiCiAgICBVcGRhdGUgdGhlIHRvb2wgY2FsbHMgdXNpbmcgZGVsdGEgb2JqZWN0cyByZWNlaXZlZCBmcm9tIHN0cmVhbSBjaHVua3MuCgogICAgQXJnczoKICAgICAgICB0b29sX2NhbGxzOiBUaGUgbGlzdCBvZiBleGlzdGluZyB0b29sIGNhbGxzLgogICAgICAgIHRvb2xfY2FsbHNfZGVsdGE6IFRoZSBkZWx0YSB1cGRhdGVzIGZvciB0aGUgdG9vbCBjYWxscyAoaWYgYW55KS4KCiAgICBSZXR1cm5zOgogICAgICAgIFRoZSB1cGRhdGVkIGxpc3Qgb2YgdG9vbCBjYWxscy4KCiAgICAiIiIKICAgIGlmIG5vdCB0b29sX2NhbGxzX2RlbHRhOgogICAgICAgIHJldHVybiB0b29sX2NhbGxzCgogICAgZGVsdGFfY2FsbCA9IHRvb2xfY2FsbHNfZGVsdGFbMF0KICAgIGlmIG5vdCB0b29sX2NhbGxzIG9yIHRvb2xfY2FsbHNbLTFdLmdldCgiaW5kZXgiKSAhPSBkZWx0YV9jYWxsLmdldCgiaW5kZXgiKToKICAgICAgICB0b29sX2NhbGxzLmFwcGVuZChkZWx0YV9jYWxsKQogICAgZWxzZToKICAgICAgICBsYXRlc3RfY2FsbCA9IHRvb2xfY2FsbHNbLTFdCiAgICAgICAgbGF0ZXN0X2Z1bmN0aW9uID0gbGF0ZXN0X2NhbGwuc2V0ZGVmYXVsdCgiZnVuY3Rpb24iLCB7fSkKICAgICAgICBkZWx0YV9mdW5jdGlvbiA9IGRlbHRhX2NhbGwuZ2V0KCJmdW5jdGlvbiIsIHt9KQoKICAgICAgICBsYXRlc3RfZnVuY3Rpb25bImFyZ3VtZW50cyJdID0gbGF0ZXN0X2Z1bmN0aW9uLmdldCgKICAgICAgICAgICAgImFyZ3VtZW50cyIsICIiCiAgICAgICAgKSArIGRlbHRhX2Z1bmN0aW9uLmdldCgiYXJndW1lbnRzIiwgIiIpCiAgICAgICAgbGF0ZXN0X2Z1bmN0aW9uWyJuYW1lIl0gPSBsYXRlc3RfZnVuY3Rpb24uZ2V0KCJuYW1lIiwgIiIpICsgZGVsdGFfZnVuY3Rpb24uZ2V0KAogICAgICAgICAgICAibmFtZSIsICIiCiAgICAgICAgKQogICAgICAgIGxhdGVzdF9jYWxsWyJpZCJdID0gbGF0ZXN0X2NhbGwuZ2V0KCJpZCIsICIiKSArIGRlbHRhX2NhbGwuZ2V0KCJpZCIsICIiKQoKICAgIHJldHVybiB0b29sX2NhbGxzCgoKZGVmIF9yZXNvbHZlX3Rvb2xfY2hvaWNlKAogICAgdG9vbF9jaG9pY2U6IE9wdGlvbmFsW1VuaW9uW3N0ciwgZGljdF1dID0gTm9uZSwKICAgIHRvb2xfcmVxdWlyZWQ6IGJvb2wgPSBGYWxzZSwKKSAtPiBVbmlvbltzdHIsIGRpY3RdOgogICAgIiIiCiAgICBSZXNvbHZlIHRoZSB0b29sIGNob2ljZSBpbnRvIGEgc3RyaW5nIG9yIGEgZGljdGlvbmFyeS4KCiAgICBJZiB0aGUgdG9vbF9jaG9pY2UgaXMgYSBzdHJpbmcgdGhhdCBpcyBub3QgaW4gU1VQUE9SVEVEX1RPT0xfQ0hPSUNFUywgYSBkaWN0aW9uYXJ5CiAgICByZXByZXNlbnRpbmcgYSBmdW5jdGlvbiBjYWxsIGlzIHJldHVybmVkLgoKICAgIEFyZ3M6CiAgICAgICAgdG9vbF9jaG9pY2U6IFRoZSBkZXNpcmVkIHRvb2wgY2hvaWNlLCB3aGljaCBjYW4gYmUgYSBzdHJpbmcgb3IgYSBkaWN0aW9uYXJ5LiBEZWZhdWx0cyB0byAiYXV0byIuCgogICAgUmV0dXJuczoKICAgICAgICBFaXRoZXIgdGhlIG9yaWdpbmFsIHRvb2xfY2hvaWNlIGlmIHZhbGlkIG9yIGEgZGljdGlvbmFyeSByZXByZXNlbnRpbmcgYSBmdW5jdGlvbiBjYWxsLgoKICAgICIiIgogICAgaWYgdG9vbF9jaG9pY2UgaXMgTm9uZToKICAgICAgICB0b29sX2Nob2ljZSA9ICJyZXF1aXJlZCIgaWYgdG9vbF9yZXF1aXJlZCBlbHNlICJhdXRvIgogICAgaWYgaXNpbnN0YW5jZSh0b29sX2Nob2ljZSwgc3RyKSBhbmQgdG9vbF9jaG9pY2Ugbm90IGluIFNVUFBPUlRFRF9UT09MX0NIT0lDRVM6CiAgICAgICAgcmV0dXJuIHsidHlwZSI6ICJmdW5jdGlvbiIsICJmdW5jdGlvbiI6IHsibmFtZSI6IHRvb2xfY2hvaWNlfX0KICAgIHJldHVybiB0b29sX2Nob2ljZQoKCl9LTk9XTl9TVUZGSVhFUyA9ICgiL3ByZWRpY3QiLCAiL3ByZWRpY3RXaXRoU3RyZWFtUmVzcG9uc2UiKQoKCmRlZiBfc3RyaXBfbWRfZW5kcG9pbnRfc3VmZml4KGVuZHBvaW50OiBzdHIpIC0+IHN0cjoKICAgICIiIgogICAgTm9ybWFsaXplIGEgdXNlci1wcm92aWRlZCBPQ0kgTW9kZWwgRGVwbG95bWVudCBlbmRwb2ludCBpbnRvIGl0cyBiYXNlIGZvcm0uCgogICAgVXNlcnMgbWF5IGNvbmZpZ3VyZSB0aGUgZW5kcG9pbnQgaW4gbXVsdGlwbGUgdmFsaWQgd2F5cywgZm9yIGV4YW1wbGU6CgogICAgICAgIGh0dHBzOi8vPE1EX09DSUQ+CiAgICAgICAgaHR0cHM6Ly88TURfT0NJRD4vcHJlZGljdAogICAgICAgIGh0dHBzOi8vPE1EX09DSUQ+L3ByZWRpY3RXaXRoU3RyZWFtUmVzcG9uc2UKCiAgICBUaGlzIGhlbHBlciByZW1vdmVzIGFueSBrbm93biBzdWZmaXggKCIvcHJlZGljdCIgb3IKICAgICIvcHJlZGljdFdpdGhTdHJlYW1SZXNwb25zZSIpIGFuZCByZXR1cm5zIG9ubHkgdGhlIGJhc2UgZW5kcG9pbnQ6CgogICAgICAgIGh0dHBzOi8vPE1EX09DSUQ+CgogICAgVGhpcyBlbnN1cmVzIGRvd25zdHJlYW0gVVJMIGNvbnN0cnVjdGlvbiBpcyBjb25zaXN0ZW50IGFuZCBhdm9pZHMKICAgIGluY29ycmVjdCBwYXRocyBzdWNoIGFzOgoKICAgICAgICAuLi4vcHJlZGljdC9wcmVkaWN0V2l0aFN0cmVhbVJlc3BvbnNlCgogICAgQXJnczoKICAgICAgICBlbmRwb2ludCAoc3RyKTogVXNlci1wcm92aWRlZCBlbmRwb2ludCBVUkwuCgogICAgUmV0dXJuczoKICAgICAgICBzdHI6IEJhc2UgZW5kcG9pbnQgVVJMIHdpdGhvdXQgYW55IGtub3duIHByZWRpY3Rpb24gc3VmZml4LgoKICAgICIiIgogICAgZXAgPSAoZW5kcG9pbnQgb3IgIiIpLnJzdHJpcCgiLyIpCiAgICBmb3Igc2Z4IGluIF9LTk9XTl9TVUZGSVhFUzoKICAgICAgICBpZiBlcC5lbmRzd2l0aChzZngpOgogICAgICAgICAgICByZXR1cm4gZXBbOiAtbGVuKHNmeCldCiAgICByZXR1cm4gZXAKCgpkZWYgX2VuZHBvaW50X3N1ZmZpeChlbmRwb2ludDogc3RyKSAtPiBzdHI6CiAgICAiIiIKICAgIERldGVjdCB3aGljaCBrbm93biBzdWZmaXggaXMgcHJlc2VudCBpbiB0aGUgY29uZmlndXJlZCBlbmRwb2ludC4KCiAgICBUaGlzIGZ1bmN0aW9uIGluc3BlY3RzIHRoZSBlbmRwb2ludCBzdHJpbmcgYW5kIHJldHVybnM6CgogICAgICAgIC0gInByZWRpY3QiIGlmIHRoZSBlbmRwb2ludCBlbmRzIHdpdGggIi9wcmVkaWN0IgogICAgICAgIC0gInByZWRpY3RXaXRoU3RyZWFtUmVzcG9uc2UiIGlmIGl0IGVuZHMgd2l0aCAiL3ByZWRpY3RXaXRoU3RyZWFtUmVzcG9uc2UiCiAgICAgICAgLSAiIiBpZiBubyBrbm93biBzdWZmaXggaXMgcHJlc2VudCAoYmFzZS1vbmx5IGVuZHBvaW50KQoKICAgIFRoaXMgYWxsb3dzIHRoZSBjbGllbnQgdG8gaW5mZXIgd2hldGhlciB0aGUgdXNlciBleHBsaWNpdGx5IGNvbmZpZ3VyZWQKICAgIHYxIHN0cmVhbWluZyAoL3ByZWRpY3QpIG9yIHYyIHN0cmVhbWluZyAoL3ByZWRpY3RXaXRoU3RyZWFtUmVzcG9uc2UpLgoKICAgIEFyZ3M6CiAgICAgICAgZW5kcG9pbnQgKHN0cik6IFVzZXItcHJvdmlkZWQgZW5kcG9pbnQgVVJMLgoKICAgIFJldHVybnM6CiAgICAgICAgc3RyOiBUaGUgZGV0ZWN0ZWQgc3VmZml4IG5hbWUsIG9yIGFuIGVtcHR5IHN0cmluZyBpZiBub25lIGlzIGZvdW5kLgoKICAgICIiIgogICAgZXAgPSAoZW5kcG9pbnQgb3IgIiIpLnJzdHJpcCgiLyIpCiAgICBpZiBlcC5lbmRzd2l0aCgiL3ByZWRpY3RXaXRoU3RyZWFtUmVzcG9uc2UiKToKICAgICAgICByZXR1cm4gInByZWRpY3RXaXRoU3RyZWFtUmVzcG9uc2UiCiAgICBpZiBlcC5lbmRzd2l0aCgiL3ByZWRpY3QiKToKICAgICAgICByZXR1cm4gInByZWRpY3QiCiAgICByZXR1cm4gIiIKCgpkZWYgX3Jlc29sdmVfaW52b2tlX3VybChlbmRwb2ludDogc3RyLCAqLCBzdHJlYW06IGJvb2wpIC0+IHN0cjoKICAgICIiIgogICAgUmVzb2x2ZSB0aGUgZmluYWwgVVJMIHRvIGludm9rZSBmb3IgYSBnaXZlbiByZXF1ZXN0IHR5cGUgKHN0cmVhbWluZyB2cyBub24tc3RyZWFtaW5nKS4KCiAgICBPQ0kgRGF0YSBTY2llbmNlIE1vZGVsIERlcGxveW1lbnRzIHN1cHBvcnQ6CgogICAgLSBTdGFuZGFyZCByZXF1ZXN0L3Jlc3BvbnNlIGluZmVyZW5jZToKICAgICAgICBQT1NUIDxiYXNlPi9wcmVkaWN0CgogICAgLSBMZWdhY3kgc3RyZWFtaW5nIGluZmVyZW5jZSAodjEpOgogICAgICAgIFBPU1QgPGJhc2U+L3ByZWRpY3QgICB3aXRoIHN0cmVhbT1UcnVlIGFuZCBTU0Utc3R5bGUgcmVzcG9uc2UgY2h1bmtzCgogICAgLSBHQSBzdHJlYW1pbmcgaW5mZXJlbmNlICh2Mik6CiAgICAgICAgUE9TVCA8YmFzZT4vcHJlZGljdFdpdGhTdHJlYW1SZXNwb25zZQoKICAgIFVzZXJzIG1heSBjb25maWd1cmUgdGhlIGNsaWVudCBlbmRwb2ludCBpbiBhbnkgb2YgdGhlc2UgZm9ybXM6CgogICAgICAgIGh0dHBzOi8vPE1EX09DSUQ+CiAgICAgICAgaHR0cHM6Ly88TURfT0NJRD4vcHJlZGljdAogICAgICAgIGh0dHBzOi8vPE1EX09DSUQ+L3ByZWRpY3RXaXRoU3RyZWFtUmVzcG9uc2UKCiAgICBUaGlzIHJlc29sdmVyIGVuc3VyZXM6CgogICAgTm9uLXN0cmVhbWluZyBjYWxsczoKICAgICAgICBBbHdheXMgZ28gdG8gPGJhc2U+L3ByZWRpY3QKCiAgICBTdHJlYW1pbmcgY2FsbHM6CiAgICAgICAgLSBVc2UgL3ByZWRpY3QgaWYgdGhlIHVzZXIgY29uZmlndXJlZCBlbmRwb2ludCB3aXRoICIvcHJlZGljdCIKICAgICAgICAtIFVzZSAvcHJlZGljdFdpdGhTdHJlYW1SZXNwb25zZSBpZiB1c2VyIGNvbmZpZ3VyZWQgdGhhdCBlbmRwb2ludAogICAgICAgIC0gSWYgdXNlciBwcm92aWRlZCBvbmx5IHRoZSBiYXNlIGVuZHBvaW50LCBzdHJlYW1pbmcgZGVmYXVsdHMgdG8gdjIKCiAgICBUaGlzIGd1YXJhbnRlZXMgYmFja3dhcmQgY29tcGF0aWJpbGl0eSB3aGlsZSBhbGxvd2luZyBHQSBzdHJlYW1pbmcgc3VwcG9ydCwKICAgIHdpdGhvdXQgbXV0YXRpbmcgdGhlIHN0b3JlZCBlbmRwb2ludCBjb25maWd1cmF0aW9uLgoKICAgIEFyZ3M6CiAgICAgICAgZW5kcG9pbnQgKHN0cik6IFVzZXItY29uZmlndXJlZCBlbmRwb2ludCBVUkwuCiAgICAgICAgc3RyZWFtIChib29sKTogV2hldGhlciB0aGUgY3VycmVudCByZXF1ZXN0IGlzIGEgc3RyZWFtaW5nIHJlcXVlc3QuCgogICAgUmV0dXJuczoKICAgICAgICBzdHI6IFRoZSByZXNvbHZlZCBVUkwgdGhhdCBzaG91bGQgYmUgaW52b2tlZCBmb3IgdGhpcyByZXF1ZXN0LgoKICAgICIiIgogICAgYmFzZSA9IF9zdHJpcF9tZF9lbmRwb2ludF9zdWZmaXgoZW5kcG9pbnQpCgogICAgaWYgbm90IHN0cmVhbToKICAgICAgICByZXR1cm4gZiJ7YmFzZX0vcHJlZGljdCIKCiAgICBzdWZmaXggPSBfZW5kcG9pbnRfc3VmZml4KGVuZHBvaW50KQogICAgaWYgc3VmZml4ID09ICJwcmVkaWN0IjoKICAgICAgICByZXR1cm4gZiJ7YmFzZX0vcHJlZGljdCIKICAgIGlmIHN1ZmZpeCA9PSAicHJlZGljdFdpdGhTdHJlYW1SZXNwb25zZSI6CiAgICAgICAgcmV0dXJuIGYie2Jhc2V9L3ByZWRpY3RXaXRoU3RyZWFtUmVzcG9uc2UiCgogICAgIyBiYXNlIG9ubHkgPT4gZGVmYXVsdCBzdHJlYW1pbmcgdG8gdjIKICAgIHJldHVybiBmIntiYXNlfS9wcmVkaWN0V2l0aFN0cmVhbVJlc3BvbnNlIgo=
+import logging
+from functools import wraps
+from typing import Any, Callable, Dict, List, Optional, Sequence, Union
+
+from llama_index.core.base.llms.types import ChatMessage, LogProb
+from packaging import version
+
+MIN_ADS_VERSION = "2.12.6"
+SUPPORTED_TOOL_CHOICES = ["none", "auto", "required"]
+DEFAULT_TOOL_CHOICE = "auto"
+
+logger = logging.getLogger(__name__)
+
+
+class UnsupportedOracleAdsVersionError(Exception):
+    """
+    Custom exception for unsupported `oracle-ads` versions.
+
+    Attributes:
+        current_version: The installed version of `oracle-ads`.
+        required_version: The minimum required version of `oracle-ads`.
+
+    """
+
+    def __init__(self, current_version: str, required_version: str):
+        super().__init__(
+            f"The `oracle-ads` version {current_version} currently installed is incompatible with "
+            "the `llama-index-llms-oci-data-science` version in use. To resolve this issue, "
+            f"please upgrade to `oracle-ads:{required_version}` or later using the "
+            "command: `pip install oracle-ads -U`"
+        )
+
+
+def _validate_dependency(func: Callable[..., Any]) -> Callable[..., Any]:
+    """
+    Decorator to validate the presence and version of `oracle-ads`.
+
+    This decorator checks that `oracle-ads` is installed and that its version meets
+    the minimum requirement. If not, it raises an error.
+
+    Args:
+        func: The function to wrap with the dependency validation.
+
+    Returns:
+        The wrapped function.
+
+    Raises:
+        ImportError: If `oracle-ads` is not installed.
+        UnsupportedOracleAdsVersionError: If the installed version is below the required version.
+
+    """
+
+    @wraps(func)
+    def wrapper(*args, **kwargs) -> Any:
+        try:
+            from ads import __version__ as ads_version
+
+            if version.parse(ads_version) < version.parse(MIN_ADS_VERSION):
+                raise UnsupportedOracleAdsVersionError(ads_version, MIN_ADS_VERSION)
+        except ImportError as ex:
+            raise ImportError(
+                "Could not import `oracle-ads` Python package. "
+                "Please install it with `pip install oracle-ads`."
+            ) from ex
+        return func(*args, **kwargs)
+
+    return wrapper
+
+
+def _to_message_dicts(
+    messages: Sequence[ChatMessage], drop_none: bool = False
+) -> List[Dict[str, Any]]:
+    """
+    Convert a sequence of ChatMessage objects to a list of dictionaries.
+
+    Args:
+        messages: The messages to convert.
+        drop_none: Whether to drop keys with `None` values. Defaults to False.
+
+    Returns:
+        A list of message dictionaries.
+
+    """
+    message_dicts = []
+    for message in messages:
+        message_dict = {
+            "role": message.role.value,
+            "content": message.content,
+            **message.additional_kwargs,
+        }
+        if drop_none:
+            message_dict = {k: v for k, v in message_dict.items() if v is not None}
+        message_dicts.append(message_dict)
+    return message_dicts
+
+
+def _from_completion_logprobs_dict(
+    completion_logprobs_dict: Dict[str, Any],
+) -> List[List[LogProb]]:
+    """
+    Convert completion logprobs to a list of generic LogProb objects.
+
+    Args:
+        completion_logprobs_dict: The completion logprobs to convert.
+
+    Returns:
+        A list of lists of LogProb objects.
+
+    """
+    return [
+        [
+            LogProb(token=token, logprob=logprob, bytes=[])
+            for token, logprob in logprob_dict.items()
+        ]
+        for logprob_dict in completion_logprobs_dict.get("top_logprobs", [])
+    ]
+
+
+def _from_token_logprob_dicts(
+    token_logprob_dicts: Sequence[Dict[str, Any]],
+) -> List[List[LogProb]]:
+    """
+    Convert a sequence of token logprob dictionaries to a list of LogProb objects.
+
+    Args:
+        token_logprob_dicts: The token logprob dictionaries to convert.
+
+    Returns:
+        A list of lists of LogProb objects.
+
+    Raises:
+        Warning: Logs a warning if an error occurs while parsing token logprobs.
+
+    """
+    result = []
+    for token_logprob_dict in token_logprob_dicts:
+        try:
+            logprobs_list = [
+                LogProb(
+                    token=el.get("token"),
+                    logprob=el.get("logprob"),
+                    bytes=el.get("bytes") or [],
+                )
+                for el in token_logprob_dict.get("top_logprobs", [])
+            ]
+            if logprobs_list:
+                result.append(logprobs_list)
+        except Exception as e:
+            logger.warning(
+                "Error occurred in attempt to parse token logprob. "
+                f"Details: {e}. Src: {token_logprob_dict}"
+            )
+    return result
+
+
+def _from_message_dict(message_dict: Dict[str, Any]) -> ChatMessage:
+    """
+    Convert a message dictionary to a ChatMessage object.
+
+    Args:
+        message_dict: The message dictionary.
+
+    Returns:
+        A ChatMessage object representing the given dictionary.
+
+    """
+    return ChatMessage(
+        role=message_dict.get("role"),
+        content=message_dict.get("content"),
+        additional_kwargs={"tool_calls": message_dict.get("tool_calls", [])},
+    )
+
+
+def _get_response_token_counts(raw_response: Dict[str, Any]) -> Dict[str, int]:
+    """
+    Extract token usage information from the response.
+
+    Args:
+        raw_response: The raw response containing token usage information.
+
+    Returns:
+        A dictionary containing token counts, or an empty dictionary if usage info is not found.
+
+    """
+    if not raw_response.get("usage"):
+        return {}
+
+    return {
+        "prompt_tokens": raw_response["usage"].get("prompt_tokens", 0),
+        "completion_tokens": raw_response["usage"].get("completion_tokens", 0),
+        "total_tokens": raw_response["usage"].get("total_tokens", 0),
+    }
+
+
+def _update_tool_calls(
+    tool_calls: List[Dict[str, Any]], tool_calls_delta: Optional[List[Dict[str, Any]]]
+) -> List[Dict[str, Any]]:
+    """
+    Update the tool calls using delta objects received from stream chunks.
+
+    Args:
+        tool_calls: The list of existing tool calls.
+        tool_calls_delta: The delta updates for the tool calls (if any).
+
+    Returns:
+        The updated list of tool calls.
+
+    """
+    if not tool_calls_delta:
+        return tool_calls
+
+    delta_call = tool_calls_delta[0]
+    if not tool_calls or tool_calls[-1].get("index") != delta_call.get("index"):
+        tool_calls.append(delta_call)
+    else:
+        latest_call = tool_calls[-1]
+        latest_function = latest_call.setdefault("function", {})
+        delta_function = delta_call.get("function", {})
+
+        latest_function["arguments"] = latest_function.get(
+            "arguments", ""
+        ) + delta_function.get("arguments", "")
+        latest_function["name"] = latest_function.get("name", "") + delta_function.get(
+            "name", ""
+        )
+        latest_call["id"] = latest_call.get("id", "") + delta_call.get("id", "")
+
+    return tool_calls
+
+
+def _resolve_tool_choice(
+    tool_choice: Optional[Union[str, dict]] = None,
+    tool_required: bool = False,
+) -> Union[str, dict]:
+    """
+    Resolve the tool choice into a string or a dictionary.
+
+    If the tool_choice is a string that is not in SUPPORTED_TOOL_CHOICES, a dictionary
+    representing a function call is returned.
+
+    Args:
+        tool_choice: The desired tool choice, which can be a string or a dictionary. Defaults to "auto".
+
+    Returns:
+        Either the original tool_choice if valid or a dictionary representing a function call.
+
+    """
+    if tool_choice is None:
+        tool_choice = "required" if tool_required else "auto"
+    if isinstance(tool_choice, str) and tool_choice not in SUPPORTED_TOOL_CHOICES:
+        return {"type": "function", "function": {"name": tool_choice}}
+    return tool_choice
+
+
+_KNOWN_SUFFIXES = ("/predict", "/predictWithStreamResponse")
+
+
+def _strip_md_endpoint_suffix(endpoint: str) -> str:
+    """
+    Normalize a user-provided OCI Model Deployment endpoint into its base form.
+
+    Users may configure the endpoint in multiple valid ways, for example:
+
+        https://<MD_OCID>
+        https://<MD_OCID>/predict
+        https://<MD_OCID>/predictWithStreamResponse
+
+    This helper removes any known suffix ("/predict" or
+    "/predictWithStreamResponse") and returns only the base endpoint:
+
+        https://<MD_OCID>
+
+    This ensures downstream URL construction is consistent and avoids
+    incorrect paths such as:
+
+        .../predict/predictWithStreamResponse
+
+    Args:
+        endpoint (str): User-provided endpoint URL.
+
+    Returns:
+        str: Base endpoint URL without any known prediction suffix.
+
+    """
+    ep = (endpoint or "").rstrip("/")
+    for sfx in _KNOWN_SUFFIXES:
+        if ep.endswith(sfx):
+            return ep[: -len(sfx)]
+    return ep
+
+
+def _endpoint_suffix(endpoint: str) -> str:
+    """
+    Detect which known suffix is present in the configured endpoint.
+
+    This function inspects the endpoint string and returns:
+
+        - "predict" if the endpoint ends with "/predict"
+        - "predictWithStreamResponse" if it ends with "/predictWithStreamResponse"
+        - "" if no known suffix is present (base-only endpoint)
+
+    This allows the client to infer whether the user explicitly configured
+    v1 streaming (/predict) or v2 streaming (/predictWithStreamResponse).
+
+    Args:
+        endpoint (str): User-provided endpoint URL.
+
+    Returns:
+        str: The detected suffix name, or an empty string if none is found.
+
+    """
+    ep = (endpoint or "").rstrip("/")
+    if ep.endswith("/predictWithStreamResponse"):
+        return "predictWithStreamResponse"
+    if ep.endswith("/predict"):
+        return "predict"
+    return ""
+
+
+def _resolve_invoke_url(endpoint: str, *, stream: bool) -> str:
+    """
+    Resolve the final URL to invoke for a given request type (streaming vs non-streaming).
+
+    OCI Data Science Model Deployments support:
+
+    - Standard request/response inference:
+        POST <base>/predict
+
+    - Legacy streaming inference (v1):
+        POST <base>/predict   with stream=True and SSE-style response chunks
+
+    - GA streaming inference (v2):
+        POST <base>/predictWithStreamResponse
+
+    Users may configure the client endpoint in any of these forms:
+
+        https://<MD_OCID>
+        https://<MD_OCID>/predict
+        https://<MD_OCID>/predictWithStreamResponse
+
+    This resolver ensures:
+
+    Non-streaming calls:
+        Always go to <base>/predict
+
+    Streaming calls:
+        - Use /predict if the user configured endpoint with "/predict"
+        - Use /predictWithStreamResponse if user configured that endpoint
+        - If user provided only the base endpoint, streaming defaults to v2
+
+    This guarantees backward compatibility while allowing GA streaming support,
+    without mutating the stored endpoint configuration.
+
+    Args:
+        endpoint (str): User-configured endpoint URL.
+        stream (bool): Whether the current request is a streaming request.
+
+    Returns:
+        str: The resolved URL that should be invoked for this request.
+
+    """
+    base = _strip_md_endpoint_suffix(endpoint)
+
+    if not stream:
+        return f"{base}/predict"
+
+    suffix = _endpoint_suffix(endpoint)
+    if suffix == "predict":
+        return f"{base}/predict"
+    if suffix == "predictWithStreamResponse":
+        return f"{base}/predictWithStreamResponse"
+
+    # base only => default streaming to v2
+    return f"{base}/predictWithStreamResponse"

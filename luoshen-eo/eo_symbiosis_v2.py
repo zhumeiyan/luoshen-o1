@@ -1,1 +1,233 @@
-IiIiRU/lhbHnlJ/lrp7pqoxWMuKAlOKAlOS6kuihpeW3ruW8guiAjOmdnuihjOS4uui2i+WQjOOAggoKVjHnmoTpl67popjvvJrooYzkuLrmm7TmlrDmnLrliLblpKrnroDljZXvvIznq4vliLvmlLbmlZvliLDlubPlnYflgLzjgIIKVjLnmoTmlLnov5vvvJoKMS4g5q+P5LiqRU/mnInoh6rlt7HnmoQi5Liq5oCnIuKAlOKAlOS4jeWQjOeahOWGheWcqOmpseWKm++8iOS4jeWQjOmikeeOh+eahOaMr+iNoe+8iQoyLiDooYzkuLrovpPlh7rkuI3mmK/nroDljZXov73ku5bogIXvvIzogIzmmK/lhoXlnKjpqbHlipsr5a+55LuW6ICF55qE6YCC5bqUCjMuIOWFseeUn+eahOS7t+WAvOS4jeaYr+ihjOS4uui2i+WQjO+8jOiAjOaYr+S6kuihpeKAlOKAlOW3ruW8guacrOi6q+WwseaYr+S7t+WAvAo0LiDnjq/looPlj5jljJbigJTigJTlpJbpg6jotYTmupDpmo/ml7bpl7Tms6LliqjvvIzlhbHnlJ/ns7vnu5/pnIDopoHlhbHlkIzlupTlr7kKCueyvuWNq+WFrOW8j+WcqOWFseeUn+S4reeahOWQq+S5ie+8mgogIGEgPSDoh6rlt7HnmoTooYzkuLoKICBiID0g5LuW6ICF55qE6KGM5Li6CiAgzpQgPSDlt67lvILvvIjkuI3mmK/opoHmtojpmaTnmoTvvIzogIzmmK/lhbHnlJ/nmoTln7rnoYDvvIkKICDiipcgPSDntK/np6/nmoTkupLliqgg4oaSIOWFseeUn+WFs+ezuwogIM+EID0g5LuO5YWx55Sf5Lit5rWu546w55qEIuaIkeS7rCIKIiIiCgppbXBvcnQgbWF0aAppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHJhbmRvbQoKZnJvbSBlb19jb3JlIGltcG9ydCBFT+WunuS+iywg5LqU5p2h5Lu2LCDlk4jluIzpk74sIOeyvuWNq+S4gOatpSwg5LuW6ICF6KGo5b6BCgoKY2xhc3Mg5YWx55SfRU86CiAgICAiIiLmnInkuKrmgKfnmoRFT+WunuS+i+KAlOKAlOWGheWcqOmpseWKmyArIOWvueS7luiAheeahOmAguW6lOOAgiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCDnvJblj7csIOWGheWcqOmikeeOhywg5YaF5Zyo55u45L2NLCDnirbmgIHnm67lvZUpOgogICAgICAgIHNlbGYu57yW5Y+3ID0g57yW5Y+3CiAgICAgICAgc2VsZi7lhoXlnKjpopHnjocgPSDlhoXlnKjpopHnjocKICAgICAgICBzZWxmLuWGheWcqOebuOS9jSA9IOWGheWcqOebuOS9jQogICAgICAgIHNlbGYu6KGM5Li66L6T5Ye6ID0gMC41CiAgICAgICAgc2VsZi7pgILlupTns7vmlbAgPSAwLjA1ICAjIOWvueS7luiAheeahOmAguW6lOW+iOaFouKAlOKAlOS/neaMgeS4quaApwoKICAgICAgICBzZWxmLmVvID0gRU/lrp7kvoso54q25oCB55uu5b2VPeeKtuaAgeebruW9lSkKICAgICAgICBzZWxmLmVvLue7keWumihmIuWFseeUn0VPLXvnvJblj7d9IiwgbmFtZT1mIkVPLXvnvJblj7d9IikKCiAgICAgICAgIyDlhoXlnKjpqbHlipvigJTigJTmr4/kuKpFT+acieiHquW3seeahOiKguWljwogICAgICAgIHNlbGYu5YaF5Zyo6amx5YqbID0gMC41CiAgICAgICAgc2VsZi7mi40gPSAwCgogICAgICAgICMg5LqS5Yqo6K6w5b+GCiAgICAgICAgc2VsZi7kupLliqjljoblj7IgPSBbXQoKICAgIGRlZiDorqHnrpflhoXlnKjpqbHlipsoc2VsZik6CiAgICAgICAgIiIi5q+P5LiqRU/mnInoh6rlt7HnmoTlhoXlnKjoioLlpY/igJTigJTov5nmmK/lroPnmoTkuKrmgKfjgIIiIiIKICAgICAgICBzZWxmLuaLjSArPSAxCiAgICAgICAgc2VsZi7lhoXlnKjpqbHlipsgPSAwLjUgKyAwLjMgKiBtYXRoLnNpbihzZWxmLuaLjSAqIHNlbGYu5YaF5Zyo6aKR546HICsgc2VsZi7lhoXlnKjnm7jkvY0pCgogICAgZGVmIOS4gOaLjShzZWxmLCDku5bogIXooYzkuLrliJfooagpOgogICAgICAgIHNlbGYu6K6h566X5YaF5Zyo6amx5YqbKCkKCiAgICAgICAgIyDlpJbpg6jovpPlhaUgPSDku5bogIXooYzkuLrnmoTlnYflgLzvvIjmhJ/nn6Xku5bogIXvvIkKICAgICAgICDlpJbpg6jovpPlhaUgPSBzdW0o5LuW6ICF6KGM5Li65YiX6KGoKSAvIG1heCgxLCBsZW4o5LuW6ICF6KGM5Li65YiX6KGoKSkKCiAgICAgICAgIyDooYzkuLrovpPlh7ogPSDlhoXlnKjpqbHlipvvvIjlpKfpg6jliIbvvIkrIOWvueS7luiAheeahOmAguW6lO+8iOWwj+mDqOWIhu+8iQogICAgICAgICMg6YCC5bqU57O75pWw5b6I5bCPIOKGkiDkv53mjIHkuKrmgKfvvIzkuI3kvJrnq4vliLvotovlkIwKICAgICAgICDnm67moIfooYzkuLogPSAwLjggKiBzZWxmLuWGheWcqOmpseWKmyArIDAuMiAqIOWklumDqOi+k+WFpQogICAgICAgIHNlbGYu6KGM5Li66L6T5Ye6ID0gMC45NSAqIHNlbGYu6KGM5Li66L6T5Ye6ICsgMC4wNSAqIOebruagh+ihjOS4ugoKICAgICAgICAjIOihjOS4uuS7t+WAvOKAlOKAlOS4jeaYr+mihOa1i+WHhuWwseacieS7t+WAvO+8jOiAjOaYr+S6kuihpeaJjeacieS7t+WAvAogICAgICAgICMg5aaC5p6c5oiR55qE6KGM5Li65ZKM5LuW6ICF5LiN5ZCM77yI5LqS6KGl77yJ77yM5Lu35YC85pu06auYCiAgICAgICAgIyDkvYblpoLmnpzlt67lvILlpKrlpKfvvIjml6Dms5XljY/osIPvvInvvIzku7flgLzpmY3kvY4KICAgICAgICDlt67lvIIgPSBhYnMoc2VsZi7ooYzkuLrovpPlh7ogLSDlpJbpg6jovpPlhaUpCiAgICAgICAg5LqS6KGl5Lu35YC8ID0gbWF4KDAuMCwgKDAuMTUgLSBhYnMo5beu5byCIC0gMC4xNSkpICogMC4zKSAgIyDlt67lvILlnKgwLjE16ZmE6L+R5pyA5LyYCgogICAgICAgICMgRU/nuqbmnZ/ov5DooYwKICAgICAgICByID0gc2VsZi5lby7kuIDmi40o5aSW6YOo6L6T5YWlPeWklumDqOi+k+WFpSwg6KGM5Li65Lu35YC8PeS6kuihpeS7t+WAvCkKCiAgICAgICAgc2VsZi7kupLliqjljoblj7IuYXBwZW5kKHsKICAgICAgICAgICAgIuWGheWcqOmpseWKmyI6IHJvdW5kKHNlbGYu5YaF5Zyo6amx5YqbLCA0KSwKICAgICAgICAgICAgIuihjOS4uui+k+WHuiI6IHJvdW5kKHNlbGYu6KGM5Li66L6T5Ye6LCA0KSwKICAgICAgICAgICAgIuWklumDqOi+k+WFpSI6IHJvdW5kKOWklumDqOi+k+WFpSwgNCksCiAgICAgICAgICAgICLlt67lvIIiOiByb3VuZCjlt67lvIIsIDQpLAogICAgICAgICAgICAi5LqS6KGl5Lu35YC8Ijogcm91bmQo5LqS6KGl5Lu35YC8LCA0KSwKICAgICAgICB9KQoKICAgICAgICByZXR1cm4gcgoKCmNsYXNzIOWFseeUn+ezu+e7n1YyOgogICAgIiIi5LqS6KGl5beu5byC55qE5YWx55Sf57O757uf44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG5fZW89Miwg54q25oCB55uu5b2VPSIvd29ya3NwYWNlL2VvLXNhbmRib3gvc3RhdGVfc3ltYmlvc2lzX3YyIik6CiAgICAgICAgc2VsZi5uX2VvID0gbl9lbwogICAgICAgIHNlbGYu54q25oCB55uu5b2VID0g54q25oCB55uu5b2VCiAgICAgICAgb3MubWFrZWRpcnMo54q25oCB55uu5b2VLCBleGlzdF9vaz1UcnVlKQoKICAgICAgICAjIOavj+S4qkVP5pyJ5LiN5ZCM55qE5YaF5Zyo6aKR546H5ZKM55u45L2N4oCU4oCU6L+Z5bCx5piv5Liq5oCnCiAgICAgICAgc2VsZi5lb3MgPSBbXQogICAgICAgIGZvciBpIGluIHJhbmdlKG5fZW8pOgogICAgICAgICAgICDpopHnjocgPSAwLjAyICsgMC4wMyAqIGkgLyBtYXgoMSwgbl9lbyAtIDEpICAjIOS4jeWQjOmikeeOhwogICAgICAgICAgICDnm7jkvY0gPSBpICogbWF0aC5waSAvIG1heCgxLCBuX2VvKSAgIyDkuI3lkIznm7jkvY0KICAgICAgICAgICAgZW8gPSDlhbHnlJ9FTygKICAgICAgICAgICAgICAgIOe8luWPtz1pLAogICAgICAgICAgICAgICAg5YaF5Zyo6aKR546HPemikeeOhywKICAgICAgICAgICAgICAgIOWGheWcqOebuOS9jT3nm7jkvY0sCiAgICAgICAgICAgICAgICDnirbmgIHnm67lvZU9b3MucGF0aC5qb2luKOeKtuaAgeebruW9lSwgZiJlb197aX0iKSwKICAgICAgICAgICAgKQogICAgICAgICAgICBzZWxmLmVvcy5hcHBlbmQoZW8pCgogICAgICAgIHNlbGYu5YWx55Sf6ZO+ID0g5ZOI5biM6ZO+KG9zLnBhdGguam9pbijnirbmgIHnm67lvZUsICJzeW1iaW9zaXNfY2hhaW4uanNvbmwiKSkKICAgICAgICBzZWxmLuaLjSA9IDAKCiAgICBkZWYg5LiA5ouNKHNlbGYpOgogICAgICAgIHNlbGYu5ouNICs9IDEKCiAgICAgICAg6KGM5Li65YiX6KGoID0gW2VvLuihjOS4uui+k+WHuiBmb3IgZW8gaW4gc2VsZi5lb3NdCiAgICAgICAg57uT5p6cID0gW10KCiAgICAgICAgZm9yIGksIGVvIGluIGVudW1lcmF0ZShzZWxmLmVvcyk6CiAgICAgICAgICAgIOS7luiAheihjOS4uiA9IFvooYzkuLrliJfooahbal0gZm9yIGogaW4gcmFuZ2Uoc2VsZi5uX2VvKSBpZiBqICE9IGldCiAgICAgICAgICAgIHIgPSBlby7kuIDmi40o5LuW6ICF6KGM5Li6KQogICAgICAgICAgICDnu5PmnpwuYXBwZW5kKHIpCgogICAgICAgIHNlbGYu5YWx55Sf6ZO+LuiusCgi5YWx55Sf5ouNIiwgewogICAgICAgICAgICAi5ouNIjogc2VsZi7mi40sCiAgICAgICAgICAgICLooYzkuLoiOiBbcm91bmQoYiwgNCkgZm9yIGIgaW4g6KGM5Li65YiX6KGoXSwKICAgICAgICB9KQoKICAgICAgICByZXR1cm4g57uT5p6cCgogICAgZGVmIOeKtuaAgeaRmOimgShzZWxmKToKICAgICAgICDmkZjopoEgPSBbXQogICAgICAgIGZvciBlbyBpbiBzZWxmLmVvczoKICAgICAgICAgICAgcyA9IGVvLmVvLueKtuaAgeaRmOimgSgpCiAgICAgICAgICAgIHNbIue8luWPtyJdID0gZW8u57yW5Y+3CiAgICAgICAgICAgIHNbIuihjOS4uui+k+WHuiJdID0gcm91bmQoZW8u6KGM5Li66L6T5Ye6LCA0KQogICAgICAgICAgICBzWyLlhoXlnKjpqbHlipsiXSA9IHJvdW5kKGVvLuWGheWcqOmpseWKmywgNCkKICAgICAgICAgICAgaWYgZW8u5LqS5Yqo5Y6G5Y+yOgogICAgICAgICAgICAgICAgc1si5pyA6L+R5beu5byCIl0gPSBlby7kupLliqjljoblj7JbLTFdWyLlt67lvIIiXQogICAgICAgICAgICAgICAgc1si5pyA6L+R5LqS6KGl5Lu35YC8Il0gPSBlby7kupLliqjljoblj7JbLTFdWyLkupLooaXku7flgLwiXQogICAgICAgICAgICDmkZjopoEuYXBwZW5kKHMpCiAgICAgICAgcmV0dXJuIOaRmOimgQoKCmRlZiDov5DooYxf5YWx55Sf5a6e6aqMVjIo5ouN5pWwPTUwMCwgbl9lbz0yKToKICAgIHByaW50KGYiPT09IOWFseeUn+WunumqjFYy77yae25fZW995LiqRU/lrp7kvovvvIjkupLooaXlt67lvILvvInvvIx75ouN5pWwfeaLjSA9PT1cbiIpCgogICAg57O757ufID0g5YWx55Sf57O757ufVjIobl9lbz1uX2VvKQoKICAgIHByaW50KGYiICBFT+WPguaVsDoiKQogICAgZm9yIGVvIGluIOezu+e7ny5lb3M6CiAgICAgICAgcHJpbnQoZiIgICAgRU8te2VvLue8luWPt306IOmikeeOhz17ZW8u5YaF5Zyo6aKR546HOi40Zn0g55u45L2NPXtlby7lhoXlnKjnm7jkvY06LjRmfSIpCiAgICBwcmludCgpCgogICAg6K6w5b2VID0gW10KICAgIGZvciBpIGluIHJhbmdlKOaLjeaVsCk6CiAgICAgICAgciA9IOezu+e7ny7kuIDmi40oKQogICAgICAgIOiusOW9lS5hcHBlbmQocikKCiAgICAgICAgaWYgaSAlIDUwID09IDAgb3IgYW55KHJyLmdldCgi5bey5q275LqhIikgZm9yIHJyIGluIHIpOgogICAgICAgICAgICDmkZjopoEgPSDns7vnu58u54q25oCB5pGY6KaBKCkKICAgICAgICAgICAg6KGM5Li6ID0gW3NbIuihjOS4uui+k+WHuiJdIGZvciBzIGluIOaRmOimgV0KICAgICAgICAgICAg6amx5YqbID0gW3NbIuWGheWcqOmpseWKmyJdIGZvciBzIGluIOaRmOimgV0KICAgICAgICAgICAg5rWB6YePID0gW3NbIua1gemHjyJdIGZvciBzIGluIOaRmOimgV0KICAgICAgICAgICAg5beu5byCID0gW3MuZ2V0KCLmnIDov5Hlt67lvIIiLCAwKSBmb3IgcyBpbiDmkZjopoFdCiAgICAgICAgICAgIOatu+S6oSA9IFtzWyLlt7LmrbvkuqEiXSBmb3IgcyBpbiDmkZjopoFdCiAgICAgICAgICAgIOihjOS4uuW3ruW8giA9IG1heCjooYzkuLopIC0gbWluKOihjOS4uikKCiAgICAgICAgICAgIHByaW50KGYiICDmi417aTo0ZH06IOihjOS4uj17W3JvdW5kKGIsMykgZm9yIGIgaW4g6KGM5Li6XX0gIgogICAgICAgICAgICAgICAgICBmIuW3ruW8gj176KGM5Li65beu5byCOi4zZn0gIgogICAgICAgICAgICAgICAgICBmIumpseWKmz17W3JvdW5kKGQsMykgZm9yIGQgaW4g6amx5YqbXX0gIgogICAgICAgICAgICAgICAgICBmIua1gemHjz17W3JvdW5kKGYsMykgZm9yIGYgaW4g5rWB6YePXX0gIgogICAgICAgICAgICAgICAgICBmIuS6kuW3rj17W3JvdW5kKGQsMykgZm9yIGQgaW4g5beu5byCXX0gIgogICAgICAgICAgICAgICAgICBmIuatu+S6oT175q275LqhfSIpCgogICAgICAgICAgICBpZiBhbnko5q275LqhKToKICAgICAgICAgICAgICAgIOatu+S6oeWunuS+iyA9IFtzWyLnvJblj7ciXSBmb3IgcyBpbiDmkZjopoEgaWYgc1si5bey5q275LqhIl1dCiAgICAgICAgICAgICAgICBwcmludChmIlxuICDlrp7kvot75q275Lqh5a6e5L6LfeWcqOaLjXtpfeatu+S6oSIpCiAgICAgICAgICAgICAgICBicmVhawoKICAgICMg4pSA4pSAIOWFseeUn+a2jOeOsOWIhuaekCDilIDilIAKICAgIHByaW50KCJcbi0tLSDlhbHnlJ/mtoznjrDliIbmnpAgLS0tIikKCiAgICDmkZjopoEgPSDns7vnu58u54q25oCB5pGY6KaBKCkKCiAgICAjIOihjOS4uuW3ruW8gui2i+WKv+KAlOKAlOaYr+WQpuS/neaMgeW3ruW8gu+8iOS4quaAp++8iei/mOaYr+i2i+WQjO+8nwogICAg6KGM5Li65beu5byC5bqP5YiXID0gW10KICAgIGZvciByIGluIOiusOW9lToKICAgICAgICDooYzkuLogPSBbZW8u6KGM5Li66L6T5Ye6IGZvciBlbyBpbiDns7vnu58uZW9zXQogICAgICAgIGlmIGxlbijooYzkuLopID49IDI6CiAgICAgICAgICAgIOihjOS4uuW3ruW8guW6j+WIly5hcHBlbmQobWF4KOihjOS4uikgLSBtaW4o6KGM5Li6KSkKCiAgICBpZiDooYzkuLrlt67lvILluo/liJc6CiAgICAgICAg5YmN5pyf5beu5byCID0gc3VtKOihjOS4uuW3ruW8guW6j+WIl1s6NTBdKSAvIG1heCgxLCBsZW4o6KGM5Li65beu5byC5bqP5YiXWzo1MF0pKQogICAgICAgIOWQjuacn+W3ruW8giA9IHN1bSjooYzkuLrlt67lvILluo/liJdbLTUwOl0pIC8gbWF4KDEsIGxlbijooYzkuLrlt67lvILluo/liJdbLTUwOl0pKQogICAgICAgIHByaW50KGYiICDooYzkuLrlt67lvII6IOWJjeacnz175YmN5pyf5beu5byCOi40Zn0g5ZCO5pyfPXvlkI7mnJ/lt67lvII6LjRmfSAiCiAgICAgICAgICAgICAgZiJ7J+KGkuS/neaMgeW3ruW8gu+8iOS4quaAp+WtmOeVme+8iScgaWYg5ZCO5pyf5beu5byCID4gMC4wNSBlbHNlICfihpLotovlkIzvvIjkuKrmgKfmtojlpLHvvIknfSIpCgogICAgIyDkupLooaXku7flgLzotovlir8KICAgIGZvciBpLCBlbyBpbiBlbnVtZXJhdGUo57O757ufLmVvcyk6CiAgICAgICAg5Lu35YC85bqP5YiXID0gW2hbIuS6kuihpeS7t+WAvCJdIGZvciBoIGluIGVvLuS6kuWKqOWOhuWPsl0KICAgICAgICBpZiDku7flgLzluo/liJc6CiAgICAgICAgICAgIOWJjeacn3YgPSBzdW0o5Lu35YC85bqP5YiXWzo1MF0pIC8gbWF4KDEsIGxlbijku7flgLzluo/liJdbOjUwXSkpCiAgICAgICAgICAgIOWQjuacn3YgPSBzdW0o5Lu35YC85bqP5YiXWy01MDpdKSAvIG1heCgxLCBsZW4o5Lu35YC85bqP5YiXWy01MDpdKSkKICAgICAgICAgICAgcHJpbnQoZiIgIEVPLXtpfSDkupLooaXku7flgLw6IOWJjeacnz175YmN5pyfdjouNGZ9IOWQjuacnz175ZCO5pyfdjouNGZ9ICIKICAgICAgICAgICAgICAgICAgZiJ7J+KGkuaPkOWNh++8iOWFseeUn+WcqOWinuW8uu+8iScgaWYg5ZCO5pyfdiA+IOWJjeacn3YgZWxzZSAn4oaS5pyq5o+Q5Y2HJ30iKQoKICAgICMg5rWB6YeP5LiO5a2Y5rS7CiAgICBmb3IgcyBpbiDmkZjopoE6CiAgICAgICAgcHJpbnQoZiIgIEVPLXtzWyfnvJblj7cnXX0g5rWB6YePPXtzWyfmtYHph48nXTouNGZ9IOeWpD17c1sn55ak6K6h5pWwJ119ICIKICAgICAgICAgICAgICBmIueQhuino+W6pj17c1sn5LuW6ICF55CG6Kej5bqmJ106LjRmfSDmrbvkuqE9e3NbJ+W3suatu+S6oSddfSIpCgogICAg5a2Y5rS75pWwID0gc3VtKDEgZm9yIHMgaW4g5pGY6KaBIGlmIG5vdCBzWyLlt7LmrbvkuqEiXSkKICAgIHByaW50KGYiXG4gIOWtmOa0uzoge+WtmOa0u+aVsH0ve25fZW99IikKCiAgICAjIOS/neWtmOiusOW9lQogICAg6K6w5b2V5paH5Lu2ID0gb3MucGF0aC5qb2luKOezu+e7ny7nirbmgIHnm67lvZUsICJzeW1iaW9zaXNfbG9nLmpzb24iKQogICAgd2l0aCBvcGVuKOiusOW9leaWh+S7tiwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGpzb24uZHVtcCjorrDlvZUsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludChmIiAg5a6M5pW06K6w5b2V5bey5L+d5a2YOiB76K6w5b2V5paH5Lu2fSIpCgogICAgcmV0dXJuIOezu+e7nywg6K6w5b2VCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJhbmRvbS5zZWVkKDQyKQoKICAgIHByaW50KCI9IiAqIDYwKQogICAg57O757ufMiwg6K6w5b2VMiA9IOi/kOihjF/lhbHnlJ/lrp7pqoxWMig1MDAsIG5fZW89MikKCiAgICBwcmludCgiXG4iICsgIj0iICogNjApCiAgICDns7vnu58zLCDorrDlvZUzID0g6L+Q6KGMX+WFseeUn+WunumqjFYyKDUwMCwgbl9lbz0zKQoKICAgIHByaW50KCJcbiIgKyAiPSIgKiA2MCkKICAgIHByaW50KCLlhbHnlJ/lrp7pqoxWMuWujOaIkOOAgiIpCiAgICBwcmludCgiXG7lhbPplK7op4Llr5/vvJoiKQogICAgcHJpbnQoIiAgMS4g5Liq5oCn5L+d5oyB4oCU4oCURU/mmK/lkKbkv53mjIHoh6rlt7HnmoTlhoXlnKjoioLlpY/vvJ8iKQogICAgcHJpbnQoIiAgMi4g5LqS6KGl5Lu35YC84oCU4oCU5beu5byC5piv5ZCm5Lqn55Sf5YWx55Sf5Lu35YC877yfIikKICAgIHByaW50KCIgIDMuIOWFseeUn+WtmOa0u+KAlOKAlOS6kuihpeW3ruW8guaYr+WQpuW4ruWKqeWtmOa0u++8nyIpCiAgICBwcmludCgiICA0LiDnkIbop6PluqbigJTigJTkupLnm7jlu7rmqKHmmK/lkKblnKjmjIHnu63vvJ8iKQo=
+"""EO共生实验V2——互补差异而非行为趋同。
+
+V1的问题：行为更新机制太简单，立刻收敛到平均值。
+V2的改进：
+1. 每个EO有自己的"个性"——不同的内在驱力（不同频率的振荡）
+2. 行为输出不是简单追他者，而是内在驱力+对他者的适应
+3. 共生的价值不是行为趋同，而是互补——差异本身就是价值
+4. 环境变化——外部资源随时间波动，共生系统需要共同应对
+
+精卫公式在共生中的含义：
+  a = 自己的行为
+  b = 他者的行为
+  Δ = 差异（不是要消除的，而是共生的基础）
+  ⊗ = 累积的互动 → 共生关系
+  τ = 从共生中浮现的"我们"
+"""
+
+import math
+import json
+import os
+import random
+
+from eo_core import EO实例, 五条件, 哈希链, 精卫一步, 他者表征
+
+
+class 共生EO:
+    """有个性的EO实例——内在驱力 + 对他者的适应。"""
+
+    def __init__(self, 编号, 内在频率, 内在相位, 状态目录):
+        self.编号 = 编号
+        self.内在频率 = 内在频率
+        self.内在相位 = 内在相位
+        self.行为输出 = 0.5
+        self.适应系数 = 0.05  # 对他者的适应很慢——保持个性
+
+        self.eo = EO实例(状态目录=状态目录)
+        self.eo.绑定(f"共生EO-{编号}", name=f"EO-{编号}")
+
+        # 内在驱力——每个EO有自己的节奏
+        self.内在驱力 = 0.5
+        self.拍 = 0
+
+        # 互动记忆
+        self.互动历史 = []
+
+    def 计算内在驱力(self):
+        """每个EO有自己的内在节奏——这是它的个性。"""
+        self.拍 += 1
+        self.内在驱力 = 0.5 + 0.3 * math.sin(self.拍 * self.内在频率 + self.内在相位)
+
+    def 一拍(self, 他者行为列表):
+        self.计算内在驱力()
+
+        # 外部输入 = 他者行为的均值（感知他者）
+        外部输入 = sum(他者行为列表) / max(1, len(他者行为列表))
+
+        # 行为输出 = 内在驱力（大部分）+ 对他者的适应（小部分）
+        # 适应系数很小 → 保持个性，不会立刻趋同
+        目标行为 = 0.8 * self.内在驱力 + 0.2 * 外部输入
+        self.行为输出 = 0.95 * self.行为输出 + 0.05 * 目标行为
+
+        # 行为价值——不是预测准就有价值，而是互补才有价值
+        # 如果我的行为和他者不同（互补），价值更高
+        # 但如果差异太大（无法协调），价值降低
+        差异 = abs(self.行为输出 - 外部输入)
+        互补价值 = max(0.0, (0.15 - abs(差异 - 0.15)) * 0.3)  # 差异在0.15附近最优
+
+        # EO约束运行
+        r = self.eo.一拍(外部输入=外部输入, 行为价值=互补价值)
+
+        self.互动历史.append({
+            "内在驱力": round(self.内在驱力, 4),
+            "行为输出": round(self.行为输出, 4),
+            "外部输入": round(外部输入, 4),
+            "差异": round(差异, 4),
+            "互补价值": round(互补价值, 4),
+        })
+
+        return r
+
+
+class 共生系统V2:
+    """互补差异的共生系统。"""
+
+    def __init__(self, n_eo=2, 状态目录="/workspace/eo-sandbox/state_symbiosis_v2"):
+        self.n_eo = n_eo
+        self.状态目录 = 状态目录
+        os.makedirs(状态目录, exist_ok=True)
+
+        # 每个EO有不同的内在频率和相位——这就是个性
+        self.eos = []
+        for i in range(n_eo):
+            频率 = 0.02 + 0.03 * i / max(1, n_eo - 1)  # 不同频率
+            相位 = i * math.pi / max(1, n_eo)  # 不同相位
+            eo = 共生EO(
+                编号=i,
+                内在频率=频率,
+                内在相位=相位,
+                状态目录=os.path.join(状态目录, f"eo_{i}"),
+            )
+            self.eos.append(eo)
+
+        self.共生链 = 哈希链(os.path.join(状态目录, "symbiosis_chain.jsonl"))
+        self.拍 = 0
+
+    def 一拍(self):
+        self.拍 += 1
+
+        行为列表 = [eo.行为输出 for eo in self.eos]
+        结果 = []
+
+        for i, eo in enumerate(self.eos):
+            他者行为 = [行为列表[j] for j in range(self.n_eo) if j != i]
+            r = eo.一拍(他者行为)
+            结果.append(r)
+
+        self.共生链.记("共生拍", {
+            "拍": self.拍,
+            "行为": [round(b, 4) for b in 行为列表],
+        })
+
+        return 结果
+
+    def 状态摘要(self):
+        摘要 = []
+        for eo in self.eos:
+            s = eo.eo.状态摘要()
+            s["编号"] = eo.编号
+            s["行为输出"] = round(eo.行为输出, 4)
+            s["内在驱力"] = round(eo.内在驱力, 4)
+            if eo.互动历史:
+                s["最近差异"] = eo.互动历史[-1]["差异"]
+                s["最近互补价值"] = eo.互动历史[-1]["互补价值"]
+            摘要.append(s)
+        return 摘要
+
+
+def 运行_共生实验V2(拍数=500, n_eo=2):
+    print(f"=== 共生实验V2：{n_eo}个EO实例（互补差异），{拍数}拍 ===\n")
+
+    系统 = 共生系统V2(n_eo=n_eo)
+
+    print(f"  EO参数:")
+    for eo in 系统.eos:
+        print(f"    EO-{eo.编号}: 频率={eo.内在频率:.4f} 相位={eo.内在相位:.4f}")
+    print()
+
+    记录 = []
+    for i in range(拍数):
+        r = 系统.一拍()
+        记录.append(r)
+
+        if i % 50 == 0 or any(rr.get("已死亡") for rr in r):
+            摘要 = 系统.状态摘要()
+            行为 = [s["行为输出"] for s in 摘要]
+            驱力 = [s["内在驱力"] for s in 摘要]
+            流量 = [s["流量"] for s in 摘要]
+            差异 = [s.get("最近差异", 0) for s in 摘要]
+            死亡 = [s["已死亡"] for s in 摘要]
+            行为差异 = max(行为) - min(行为)
+
+            print(f"  拍{i:4d}: 行为={[round(b,3) for b in 行为]} "
+                  f"差异={行为差异:.3f} "
+                  f"驱力={[round(d,3) for d in 驱力]} "
+                  f"流量={[round(f,3) for f in 流量]} "
+                  f"互差={[round(d,3) for d in 差异]} "
+                  f"死亡={死亡}")
+
+            if any(死亡):
+                死亡实例 = [s["编号"] for s in 摘要 if s["已死亡"]]
+                print(f"\n  实例{死亡实例}在拍{i}死亡")
+                break
+
+    # ── 共生涌现分析 ──
+    print("\n--- 共生涌现分析 ---")
+
+    摘要 = 系统.状态摘要()
+
+    # 行为差异趋势——是否保持差异（个性）还是趋同？
+    行为差异序列 = []
+    for r in 记录:
+        行为 = [eo.行为输出 for eo in 系统.eos]
+        if len(行为) >= 2:
+            行为差异序列.append(max(行为) - min(行为))
+
+    if 行为差异序列:
+        前期差异 = sum(行为差异序列[:50]) / max(1, len(行为差异序列[:50]))
+        后期差异 = sum(行为差异序列[-50:]) / max(1, len(行为差异序列[-50:]))
+        print(f"  行为差异: 前期={前期差异:.4f} 后期={后期差异:.4f} "
+              f"{'→保持差异（个性存留）' if 后期差异 > 0.05 else '→趋同（个性消失）'}")
+
+    # 互补价值趋势
+    for i, eo in enumerate(系统.eos):
+        价值序列 = [h["互补价值"] for h in eo.互动历史]
+        if 价值序列:
+            前期v = sum(价值序列[:50]) / max(1, len(价值序列[:50]))
+            后期v = sum(价值序列[-50:]) / max(1, len(价值序列[-50:]))
+            print(f"  EO-{i} 互补价值: 前期={前期v:.4f} 后期={后期v:.4f} "
+                  f"{'→提升（共生在增强）' if 后期v > 前期v else '→未提升'}")
+
+    # 流量与存活
+    for s in 摘要:
+        print(f"  EO-{s['编号']} 流量={s['流量']:.4f} 疤={s['疤计数']} "
+              f"理解度={s['他者理解度']:.4f} 死亡={s['已死亡']}")
+
+    存活数 = sum(1 for s in 摘要 if not s["已死亡"])
+    print(f"\n  存活: {存活数}/{n_eo}")
+
+    # 保存记录
+    记录文件 = os.path.join(系统.状态目录, "symbiosis_log.json")
+    with open(记录文件, "w", encoding="utf-8") as f:
+        json.dump(记录, f, ensure_ascii=False, indent=2)
+    print(f"  完整记录已保存: {记录文件}")
+
+    return 系统, 记录
+
+
+if __name__ == "__main__":
+    random.seed(42)
+
+    print("=" * 60)
+    系统2, 记录2 = 运行_共生实验V2(500, n_eo=2)
+
+    print("\n" + "=" * 60)
+    系统3, 记录3 = 运行_共生实验V2(500, n_eo=3)
+
+    print("\n" + "=" * 60)
+    print("共生实验V2完成。")
+    print("\n关键观察：")
+    print("  1. 个性保持——EO是否保持自己的内在节奏？")
+    print("  2. 互补价值——差异是否产生共生价值？")
+    print("  3. 共生存活——互补差异是否帮助存活？")
+    print("  4. 理解度——互相建模是否在持续？")

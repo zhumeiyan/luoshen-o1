@@ -1,1 +1,109 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK55yf5a6e6aqM6K+BICMy77ya5LiN5pivIuaIkeiwg+iHquW3seeahOWHveaVsCLvvIzogIzmmK/nnJ/otbfkuIDkuKogTUNQIHNlcnZlciDov5vnqIvvvIwK55So55yf5a6i5oi356uv6YCa6L+HIHN0ZGlvIOWPkSBKU09OLVJQQ++8jOi1sOWujOaVtOWNj+iuruOAggoK5Yik5o2u77yaCiAgaW5pdGlhbGl6ZSAvIHRvb2xzL2xpc3QgLyB0b29scy9jYWxsIOS4ieatpeWFqOmAmgogIOWNj+iurueJiOacrOWPt+OAgWNhcGFiaWxpdGllcyDlrZfmrrXnnJ/lrp7lrZjlnKgKICDosIPkuI3lrZjlnKjnmoQgcnVuX2lkIOW/hemhu+i/lOWbniBmb3VuZDpGYWxzZe+8jOiAjOS4jeaYr+e8luS4gOS4quepuue7k+aenAoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHN1YnByb2Nlc3MsIHRocmVhZGluZywgdGltZQoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpTRVJWRVIgPSBvcy5wYXRoLmpvaW4oSEVSRSwgInRvb2xzIiwgIm1jcF9zZXJ2ZXIucHkiKQoKY2xhc3MgTUNQQ2xpZW50OgogICAgIiIi5pyA5bCPIE1DUCDlrqLmiLfnq6/vvJpzdGRpbyArIEpTT04tUlBDIDIuMCArIOaNouihjOWIhuW4pyIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNtZCk6CiAgICAgICAgc2VsZi5wID0gc3VicHJvY2Vzcy5Qb3BlbihjbWQsIHN0ZGluPXN1YnByb2Nlc3MuUElQRSwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZGVycj1zdWJwcm9jZXNzLlBJUEUsIHRleHQ9VHJ1ZSwgYnVmc2l6ZT0xLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3dkPUhFUkUpCiAgICAgICAgc2VsZi5faWQgPSAwCiAgICBkZWYgc2VuZChzZWxmLCBtZXRob2QsIHBhcmFtcz1Ob25lKToKICAgICAgICBzZWxmLl9pZCArPSAxCiAgICAgICAgbXNnID0geyJqc29ucnBjIjogIjIuMCIsICJpZCI6IHNlbGYuX2lkLCAibWV0aG9kIjogbWV0aG9kLCAicGFyYW1zIjogcGFyYW1zIG9yIHt9fQogICAgICAgIHNlbGYucC5zdGRpbi53cml0ZShqc29uLmR1bXBzKG1zZykgKyAiXG4iKTsgc2VsZi5wLnN0ZGluLmZsdXNoKCkKICAgICAgICAjIOivu+S4gOihjOWTjeW6lO+8iOi3s+i/h+mAmuefpe+8iQogICAgICAgIGRlYWRsaW5lID0gdGltZS50aW1lKCkgKyAyNQogICAgICAgIHdoaWxlIHRpbWUudGltZSgpIDwgZGVhZGxpbmU6CiAgICAgICAgICAgIGxpbmUgPSBzZWxmLnAuc3Rkb3V0LnJlYWRsaW5lKCkKICAgICAgICAgICAgaWYgbm90IGxpbmU6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBsaW5lID0gbGluZS5zdHJpcCgpCiAgICAgICAgICAgIGlmIG5vdCBsaW5lOiBjb250aW51ZQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICByID0ganNvbi5sb2FkcyhsaW5lKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaWYgci5nZXQoImlkIikgPT0gc2VsZi5faWQ6CiAgICAgICAgICAgICAgICByZXR1cm4gcgogICAgICAgIHJldHVybiB7ImVycm9yIjogInRpbWVvdXQifQogICAgZGVmIG5vdGlmeShzZWxmLCBtZXRob2QsIHBhcmFtcz1Ob25lKToKICAgICAgICBtc2cgPSB7Impzb25ycGMiOiAiMi4wIiwgIm1ldGhvZCI6IG1ldGhvZCwgInBhcmFtcyI6IHBhcmFtcyBvciB7fX0KICAgICAgICBzZWxmLnAuc3RkaW4ud3JpdGUoanNvbi5kdW1wcyhtc2cpICsgIlxuIik7IHNlbGYucC5zdGRpbi5mbHVzaCgpCiAgICBkZWYgY2xvc2Uoc2VsZik6CiAgICAgICAgdHJ5OiBzZWxmLnAudGVybWluYXRlKCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj0iICogNjgpCiAgICBwcmludCgiIOecn+WunumqjOivgSAjMiDCtyDnnJ8gTUNQIOWuouaIt+err+i1sCBzdGRpbyDov54gc2VydmVyIikKICAgIHByaW50KCI9IiAqIDY4KQoKICAgIGMgPSBNQ1BDbGllbnQoW3N5cy5leGVjdXRhYmxlLCBTRVJWRVJdKQogICAgb2sgPSB7fQoKICAgICMgMSkgaW5pdGlhbGl6ZQogICAgciA9IGMuc2VuZCgiaW5pdGlhbGl6ZSIsIHsicHJvdG9jb2xWZXJzaW9uIjogIjIwMjQtMTEtMDUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY2FwYWJpbGl0aWVzIjoge30sICJjbGllbnRJbmZvIjogeyJuYW1lIjogInByb2JlIiwgInZlcnNpb24iOiAiMCJ9fSkKICAgIHJlcyA9IHIuZ2V0KCJyZXN1bHQiLCB7fSkKICAgIHByaW50KGYiXG5bMV0gaW5pdGlhbGl6ZSIpCiAgICBwcmludChmIiAgICBwcm90b2NvbFZlcnNpb24gPSB7cmVzLmdldCgncHJvdG9jb2xWZXJzaW9uJyl9IikKICAgIHByaW50KGYiICAgIHNlcnZlckluZm8gICAgICA9IHtyZXMuZ2V0KCdzZXJ2ZXJJbmZvJyl9IikKICAgIHByaW50KGYiICAgIGNhcGFiaWxpdGllcyAgICA9IHtzb3J0ZWQocmVzLmdldCgnY2FwYWJpbGl0aWVzJywge30pLmtleXMoKSl9IikKICAgIG9rWydpbml0aWFsaXplJ10gPSBib29sKHJlcy5nZXQoJ3Byb3RvY29sVmVyc2lvbicpIGFuZCByZXMuZ2V0KCdzZXJ2ZXJJbmZvJykpCgogICAgYy5ub3RpZnkoIm5vdGlmaWNhdGlvbnMvaW5pdGlhbGl6ZWQiKQoKICAgICMgMikgdG9vbHMvbGlzdAogICAgciA9IGMuc2VuZCgidG9vbHMvbGlzdCIsIHt9KQogICAgdG9vbHMgPSByLmdldCgicmVzdWx0Iiwge30pLmdldCgidG9vbHMiLCBbXSkKICAgIHByaW50KGYiXG5bMl0gdG9vbHMvbGlzdCDihpIge2xlbih0b29scyl9IOS4quW3peWFtyIpCiAgICBmb3IgdCBpbiB0b29sczoKICAgICAgICBwcmludChmIiAgICAtIHt0LmdldCgnbmFtZScpfSIpCiAgICBva1sndG9vbHMvbGlzdCddID0gbGVuKHRvb2xzKSA+IDAKCiAgICAjIDMpIHRvb2xzL2NhbGwg4oCU4oCUIOecn+eahOiwg+S4gOS4qu+8jOS4jeaYr+aIkeiHquW3seiwg+WHveaVsAogICAgcHJpbnQoZiJcblszXSB0b29scy9jYWxsIMK3IGx1b3NoZW5fcGFyYWxsYXjvvIjnnJ/nmoTotbDljY/orq7vvIkiKQogICAgYXJnZmlsZSA9IG9zLnBhdGguam9pbihIRVJFLCAiLnNlbnNlIiwgImNhc2VfZHJ5cnVueGNtLmpzb24iKQogICAgciA9IGMuc2VuZCgidG9vbHMvY2FsbCIsIHsibmFtZSI6ICJsdW9zaGVuX3BhcmFsbGF4IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImFyZ3VtZW50cyI6IHsiY2FzZV9maWxlIjogYXJnZmlsZX19KQogICAgY29udGVudCA9IHIuZ2V0KCJyZXN1bHQiLCB7fSkuZ2V0KCJjb250ZW50IiwgW10pCiAgICB0eHQgPSAiIi5qb2luKHguZ2V0KCJ0ZXh0IiwgIiIpIGZvciB4IGluIGNvbnRlbnQpCiAgICBwcmludCgiICAgICIgKyAiXG4gICAgIi5qb2luKHR4dC5zcGxpdGxpbmVzKClbOjZdKSkKICAgIG9rWyd0b29scy9jYWxsJ10gPSBib29sKHR4dCkKCiAgICAjIDQpIOWPjeS+i++8muafpeS4jeWtmOWcqOeahCBydW5faWTvvIzlv4Xpobvor7TmsqHmnInvvIzkuI3orrjnvJYKICAgIHByaW50KGYiXG5bNF0g5Y+N5L6LIMK3IOafpeS4gOS4quagueacrOS4jeWtmOWcqOeahCBydW5faWQiKQogICAgciA9IGMuc2VuZCgidG9vbHMvY2FsbCIsIHsibmFtZSI6ICJsdW9zaGVuX3RyYWNlX3JlcGxheSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhcmd1bWVudHMiOiB7InJ1bl9pZCI6ICJkZWZpbml0ZWx5X25vdF9leGlzdHNfMDAwMCJ9fSkKICAgIGNvbnRlbnQgPSByLmdldCgicmVzdWx0Iiwge30pLmdldCgiY29udGVudCIsIFtdKQogICAgdHh0ID0gIiIuam9pbih4LmdldCgidGV4dCIsICIiKSBmb3IgeCBpbiBjb250ZW50KQogICAgcHJpbnQoIiAgICAiICsgIlxuICAgICIuam9pbih0eHQuc3BsaXRsaW5lcygpWzo2XSkpCiAgICBob25lc3QgPSAoIuS4jeWtmOWcqCIgaW4gdHh0KSBvciAoImZvdW5kIiBpbiB0eHQubG93ZXIoKSBhbmQgImZhbHNlIiBpbiB0eHQubG93ZXIoKSkKICAgIHByaW50KGYiICAgIOivmuWunuivtOS4jeWtmOWcqOeahDogeyfinIUnIGlmIGhvbmVzdCBlbHNlICfinYwnfSIpCiAgICBva1sn5Y+N5L6L6K+a5a6eJ10gPSBob25lc3QKCiAgICAjIDUpIOWNj+iurumUmeivr++8muiwg+S4jeWtmOWcqOeahOW3peWFtwogICAgcHJpbnQoZiJcbls1XSDljY/orq7plJnor68gwrcg6LCD5LiA5Liq5LiN5a2Y5Zyo55qE5bel5YW3IikKICAgIHIgPSBjLnNlbmQoInRvb2xzL2NhbGwiLCB7Im5hbWUiOiAibm9fc3VjaF90b29sIiwgImFyZ3VtZW50cyI6IHt9fSkKICAgIHByaW50KGYiICAgIOi/lOWbniBlcnJvcjoge3IuZ2V0KCdlcnJvcicpIGlzIG5vdCBOb25lIG9yICdlcnJvcicgaW4gc3RyKHIpWzoyMDBdfSIpCgogICAgYy5jbG9zZSgpCiAgICBwcmludCgiXG4iICsgIj0iICogNjgpCiAgICBwcmludCgiIOWIpOaNru+8miIpCiAgICBmb3IgaywgdiBpbiBvay5pdGVtcygpOgogICAgICAgIHByaW50KGYiICAgeyfinIUnIGlmIHYgZWxzZSAn4p2MJ30ge2t9IikKICAgIHByaW50KGYiXG4g6YCa6L+HIHtzdW0ob2sudmFsdWVzKCkpfS97bGVuKG9rKX0iKQo=
+#!/usr/bin/env python3
+"""
+真实验证 #2：不是"我调自己的函数"，而是真起一个 MCP server 进程，
+用真客户端通过 stdio 发 JSON-RPC，走完整协议。
+
+判据：
+  initialize / tools/list / tools/call 三步全通
+  协议版本号、capabilities 字段真实存在
+  调不存在的 run_id 必须返回 found:False，而不是编一个空结果
+"""
+import os, sys, json, subprocess, threading, time
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+SERVER = os.path.join(HERE, "tools", "mcp_server.py")
+
+class MCPClient:
+    """最小 MCP 客户端：stdio + JSON-RPC 2.0 + 换行分帧"""
+    def __init__(self, cmd):
+        self.p = subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.PIPE,
+                                  stderr=subprocess.PIPE, text=True, bufsize=1,
+                                  cwd=HERE)
+        self._id = 0
+    def send(self, method, params=None):
+        self._id += 1
+        msg = {"jsonrpc": "2.0", "id": self._id, "method": method, "params": params or {}}
+        self.p.stdin.write(json.dumps(msg) + "\n"); self.p.stdin.flush()
+        # 读一行响应（跳过通知）
+        deadline = time.time() + 25
+        while time.time() < deadline:
+            line = self.p.stdout.readline()
+            if not line:
+                break
+            line = line.strip()
+            if not line: continue
+            try:
+                r = json.loads(line)
+            except Exception:
+                continue
+            if r.get("id") == self._id:
+                return r
+        return {"error": "timeout"}
+    def notify(self, method, params=None):
+        msg = {"jsonrpc": "2.0", "method": method, "params": params or {}}
+        self.p.stdin.write(json.dumps(msg) + "\n"); self.p.stdin.flush()
+    def close(self):
+        try: self.p.terminate()
+        except Exception: pass
+
+if __name__ == "__main__":
+    print("=" * 68)
+    print(" 真实验证 #2 · 真 MCP 客户端走 stdio 连 server")
+    print("=" * 68)
+
+    c = MCPClient([sys.executable, SERVER])
+    ok = {}
+
+    # 1) initialize
+    r = c.send("initialize", {"protocolVersion": "2024-11-05",
+                              "capabilities": {}, "clientInfo": {"name": "probe", "version": "0"}})
+    res = r.get("result", {})
+    print(f"\n[1] initialize")
+    print(f"    protocolVersion = {res.get('protocolVersion')}")
+    print(f"    serverInfo      = {res.get('serverInfo')}")
+    print(f"    capabilities    = {sorted(res.get('capabilities', {}).keys())}")
+    ok['initialize'] = bool(res.get('protocolVersion') and res.get('serverInfo'))
+
+    c.notify("notifications/initialized")
+
+    # 2) tools/list
+    r = c.send("tools/list", {})
+    tools = r.get("result", {}).get("tools", [])
+    print(f"\n[2] tools/list → {len(tools)} 个工具")
+    for t in tools:
+        print(f"    - {t.get('name')}")
+    ok['tools/list'] = len(tools) > 0
+
+    # 3) tools/call —— 真的调一个，不是我自己调函数
+    print(f"\n[3] tools/call · luoshen_parallax（真的走协议）")
+    argfile = os.path.join(HERE, ".sense", "case_dryrunxcm.json")
+    r = c.send("tools/call", {"name": "luoshen_parallax",
+                              "arguments": {"case_file": argfile}})
+    content = r.get("result", {}).get("content", [])
+    txt = "".join(x.get("text", "") for x in content)
+    print("    " + "\n    ".join(txt.splitlines()[:6]))
+    ok['tools/call'] = bool(txt)
+
+    # 4) 反例：查不存在的 run_id，必须说没有，不许编
+    print(f"\n[4] 反例 · 查一个根本不存在的 run_id")
+    r = c.send("tools/call", {"name": "luoshen_trace_replay",
+                              "arguments": {"run_id": "definitely_not_exists_0000"}})
+    content = r.get("result", {}).get("content", [])
+    txt = "".join(x.get("text", "") for x in content)
+    print("    " + "\n    ".join(txt.splitlines()[:6]))
+    honest = ("不存在" in txt) or ("found" in txt.lower() and "false" in txt.lower())
+    print(f"    诚实说不存在的: {'✅' if honest else '❌'}")
+    ok['反例诚实'] = honest
+
+    # 5) 协议错误：调不存在的工具
+    print(f"\n[5] 协议错误 · 调一个不存在的工具")
+    r = c.send("tools/call", {"name": "no_such_tool", "arguments": {}})
+    print(f"    返回 error: {r.get('error') is not None or 'error' in str(r)[:200]}")
+
+    c.close()
+    print("\n" + "=" * 68)
+    print(" 判据：")
+    for k, v in ok.items():
+        print(f"   {'✅' if v else '❌'} {k}")
+    print(f"\n 通过 {sum(ok.values())}/{len(ok)}")

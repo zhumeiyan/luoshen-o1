@@ -1,1 +1,176 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJyZWNvbW1lbmRfc2tpbGxzIOKAlCDlrqrms5XnrKzkupTmnaEi562U5aSN5o6o6I2QIueahOacrOWcsOW/q+eFp+aOqOiNkOWZqCAodjIuMjUuMCDmlrDlop4pCgrmnoHluqbnnIEgdG9rZW4g5Y6f5YiZ55qE6JC95ZywOgogIOaXp+eJiDogQWdlbnQg5q+P5qyh562U5aSN5o6o6I2Q6YO96KaB5Y67IEdpdEh1YiDlhajnm5jmkJzntKIoV2ViU2VhcmNoL1dlYkZldGNoKSDihpIKICAgICAgICDmr4/mrKHku7vliqHng6fkuIDloIYgdG9rZW7jgIIKICDmlrDniYg6IOaOqOiNkOeOr+iKguWPquivu+acrOWcsOaOkuihjOamnOW/q+eFpyBkYXRhL3NraWxsX3JhbmtpbmdzLmpzb24g4oCU4oCUCiAgICAgICAg57qv5pys5Zyw44CB6Zu2572R57uc44CBfjIwS0Ig5paH5Lu2LCDljLnphY0r5o6S5bqP5YWo6YOo56Gu5a6a5oCn6KeE5YiZLCDkuI3osIPnlKggTExN44CCCgrnlKjms5Uo5o6o6I2Q546v6IqCLCBBZ2VudCDmiJbnlKjmiLflnYflj6/nm7TmjqXot5EpOgogIHB5dGhvbiBzY3JpcHRzL3JlY29tbWVuZF9za2lsbHMucHkgLS10YXNrICLluK7miJHlhpkgUFBUIOaxh+aKpSIKICBweXRob24gc2NyaXB0cy9yZWNvbW1lbmRfc2tpbGxzLnB5IC0tdGFzayAi54is5Y+W572R6aG15pWw5o2uIiAtLXNraWxscy1kaXIgfi8ud29ya2J1ZGR5L3NraWxscwogIHB5dGhvbiBzY3JpcHRzL3JlY29tbWVuZF9za2lsbHMucHkgLS10YXNrICLku6PnoIHlrqHmn6UiIC0tdG9wIDMKCuihjOS4ujoKICAxLiDor7vmnKzlnLDlv6vnhaco6buY6K6kIGRhdGEvc2tpbGxfcmFua2luZ3MuanNvbiwg5Y+vIC0tc25hcHNob3Qg5oyH5a6aKQogIDIuIOS7u+WKoeaWh+acrOWIhuivjSjoi7Hmlofor40gKyDkuK3mlofor40pLCDkuI7mnaHnm64ga2V5d29yZHMvbmFtZS9kZXNjIOWBmuWtkOS4suWMuemFjQogIDMuIOaOkumZpOacrOWcsOW3suijheaKgOiDvShyZXBvIOWQjS/mioDog73lkI3kuI7mnKzlnLDmioDog73nm67lvZXlkIzlkI3liJnliZTpmaQpCiAgNC4g5oyJIuWRveS4reaVsOS8mOWFiCwg5pif5pWw5qyh5LmLIuaOkuW6jywg5Y+W5YmNIE4o6buY6K6kIDMpCiAgNS4g6Zu25ZG95LitIOKGkiDmjInmmJ/mlbDlj5YgVG9wIE4o5LuN5o6S6Zmk5bey6KOFKSwg5L+d6K+B5Lu75L2V5Lu75Yqh6YO95pyJ5o6o6I2QCiAgNi4g5b+r54Wn6L+H5pyfKD4gc3RhbGVfZGF5cyDlpKkpIOKGkiDovpPlh7rpobbpg6jmj5DnpLrliLfmlrDlkb3ku6QsIOS9huS4jeiHquWKqOaLieWPlue9kee7nAoK6L6T5Ye65qC85byP5aSp54S25ruh6LazIHN0ZXA1IOagoemqjChHaXRIdWIg6ZO+5o6lICsgc3RhciDmlbAgKyDojrflj5bmlrnlvI8p44CCCiIiIgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgc3lzCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGUsIGRhdGV0aW1lCgpERUZBVUxUX1NOQVBTSE9UID0gb3MucGF0aC5qb2luKAogICAgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSksCiAgICAiZGF0YSIsICJza2lsbF9yYW5raW5ncy5qc29uIikKREVGQVVMVF9TS0lMTFNfRElSID0gb3MucGF0aC5leHBhbmR1c2VyKCJ+Ly53b3JrYnVkZHkvc2tpbGxzIikKREVGQVVMVF9UT1AgPSAzCgoKZGVmIF9sb2FkX3NuYXBzaG90KHBhdGgpOgogICAgd2l0aCBvcGVuKHBhdGgsICJyIiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICByZXR1cm4ganNvbi5sb2FkKGYpCgoKZGVmIF90YXNrX3Rva2Vucyh0YXNrKToKICAgICIiIuS7u+WKoeaWh+acrOWIhuivjTog6Iux5paH6K+NKOKJpTMg5a2X56ymKSArIOS4reaWh+i/nue7reeJh+autSjiiaUyIOWtlynjgIIiIiIKICAgIHRva2VucyA9IFtdCiAgICBmb3IgbSBpbiByZS5maW5kaXRlcihyIlthLXpBLVpdW2EtekEtWjAtOVwtXXsyLH18W1x1NGUwMC1cdTlmZmZdezIsfSIsIHRhc2subG93ZXIoKSk6CiAgICAgICAgdCA9IG0uZ3JvdXAoMCkuc3RyaXAoIi0iKQogICAgICAgIGlmIGxlbih0KSA+PSAzOgogICAgICAgICAgICB0b2tlbnMuYXBwZW5kKHQpCiAgICAjIOWOu+mHjeS/neW6jwogICAgc2Vlbiwgb3V0ID0gc2V0KCksIFtdCiAgICBmb3IgdCBpbiB0b2tlbnM6CiAgICAgICAgaWYgdCBub3QgaW4gc2VlbjoKICAgICAgICAgICAgc2Vlbi5hZGQodCkKICAgICAgICAgICAgb3V0LmFwcGVuZCh0KQogICAgcmV0dXJuIG91dAoKCmRlZiBfbWF0Y2hfc2NvcmUoaXRlbSwgdG9rZW5zKToKICAgICIiIuWRveS4reW+l+WIhjog5q+P5LiqIHRva2VuIOWcqCAoa2V5d29yZHMrbmFtZStkZXNjKSDmi7zmjqXkuK3lkb3kuK0gKzE7IOaYn+aVsOWBmuasoee6p+aOkuW6j+OAgiIiIgogICAgaGF5ID0gIiAiLmpvaW4oaXRlbS5nZXQoImtleXdvcmRzIiwgW10pKSArICIgIiArIGl0ZW0uZ2V0KCJuYW1lIiwgIiIpICsgIiAiICsgaXRlbS5nZXQoImRlc2MiLCAiIikKICAgIGhheV9sID0gaGF5Lmxvd2VyKCkKICAgIGhpdHMgPSBzdW0oMSBmb3IgdCBpbiB0b2tlbnMgaWYgdCBpbiBoYXlfbCkKICAgIHJldHVybiBoaXRzCgoKZGVmIF9pc19pbnN0YWxsZWQoaXRlbSwgc2tpbGxzX2Rpcik6CiAgICAiIiLliKTmlq3or6XmjpLooYzmppzmnaHnm67mmK/lkKblt7LooqvmnKzlnLDlronoo4XjgIIKCiAgICDkuI4gc3RlcDUgTGF5ZXIgRSDlj6PlvoTkuIDoh7Q6CiAgICAgIEUxOiDmnKzlnLDmioDog73nm67lvZXlkI0o5Y67IF9feHh4IOWQjue8gCnkuI4gcmVwby9uYW1lIOWQjOWQjSDihpIg5bey6KOFCiAgICAgIEUyOiDmnKzlnLDlrZjlnKggYF88bmFtZT4tcmVmZXJlbmNlc2Ag5qCH6K6w55uu5b2VIOKGkiDlr7nlupTmoYbmnrblt7Loo4UKICAgICIiIgogICAgaWYgbm90IHNraWxsc19kaXIgb3Igbm90IG9zLnBhdGguaXNkaXIoc2tpbGxzX2Rpcik6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICB0cnk6CiAgICAgICAgbG9jYWxfZGlycyA9IG9zLmxpc3RkaXIoc2tpbGxzX2RpcikKICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIHJldHVybiBGYWxzZQogICAgcmVwb19sID0gaXRlbS5nZXQoInJlcG8iLCAiIikubG93ZXIoKQogICAgbmFtZV9sID0gaXRlbS5nZXQoIm5hbWUiLCAiIikubG93ZXIoKQoKICAgIGluc3RhbGxlZF9mcmFtZXdvcmtzID0gc2V0KCkKICAgIGZvciBkIGluIGxvY2FsX2RpcnM6CiAgICAgICAgaWYgZC5zdGFydHN3aXRoKCJfIikgYW5kIGQuZW5kc3dpdGgoIi1yZWZlcmVuY2VzIik6CiAgICAgICAgICAgIGluc3RhbGxlZF9mcmFtZXdvcmtzLmFkZChkWzE6XS5yZXBsYWNlKCItcmVmZXJlbmNlcyIsICIiKS5sb3dlcigpKQogICAgICAgIGlmIGQuc3RhcnRzd2l0aCgiXyIpIG9yIGQuc3RhcnRzd2l0aCgiLiIpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGRfYmFzZSA9IHJlLnN1YihyIl9fW2EtejAtOV9dKyQiLCAiIiwgZCkubG93ZXIoKQogICAgICAgIGlmIHJlcG9fbCBhbmQgcmVwb19sID09IGRfYmFzZToKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBpZiBuYW1lX2wgYW5kIG5hbWVfbCA9PSBkX2Jhc2U6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAjIEUyOiBfPG5hbWU+LXJlZmVyZW5jZXMg5qCH6K6w55qE5qGG5p62KOWmgiBfYWdlbnQtc2tpbGxzLXJlZmVyZW5jZXMg4oaSIGFnZW50LXNraWxscykKICAgIGlmIHJlcG9fbCBhbmQgcmVwb19sIGluIGluc3RhbGxlZF9mcmFtZXdvcmtzOgogICAgICAgIHJldHVybiBUcnVlCiAgICBpZiBuYW1lX2wgYW5kIG5hbWVfbCBpbiBpbnN0YWxsZWRfZnJhbWV3b3JrczoKICAgICAgICByZXR1cm4gVHJ1ZQogICAgcmV0dXJuIEZhbHNlCgoKZGVmIF9hZ2VfZGF5cyh1cGRhdGVkKToKICAgICIiIuW/q+eFp+W5tOm+hCjlpKkpOyDop6PmnpDlpLHotKXov5Tlm54gMCjop4bkuLrmlrDpspwp44CCIiIiCiAgICB0cnk6CiAgICAgICAgZCA9IGRhdGV0aW1lLnN0cnB0aW1lKHVwZGF0ZWQsICIlWS0lbS0lZCIpLmRhdGUoKQogICAgICAgIHJldHVybiAoZGF0ZS50b2RheSgpIC0gZCkuZGF5cwogICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgIHJldHVybiAwCgoKZGVmIHJlY29tbWVuZCh0YXNrLCBzbmFwc2hvdD1ERUZBVUxUX1NOQVBTSE9ULCBza2lsbHNfZGlyPURFRkFVTFRfU0tJTExTX0RJUiwKICAgICAgICAgICAgICB0b3A9REVGQVVMVF9UT1AsIG91dF9saW5lcz1GYWxzZSk6CiAgICAiIiLmoLjlv4PmjqjojZDpgLvovpHjgILov5Tlm54gKGxpbmVzLCBzbmFwc2hvdCkg5L6b5rWL6K+V5LiOIENMSSDlpI3nlKjjgIIiIiIKICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShzbmFwc2hvdCk6CiAgICAgICAgcmV0dXJuIChbIltyZWNvbW1lbmRfc2tpbGxzXSDmnKrmib7liLDmjpLooYzmppzlv6vnhacsIOivt+WFiOi/kOihjDogIgogICAgICAgICAgICAgICAgICJweXRob24gc2NyaXB0cy91cGRhdGVfc2tpbGxfcmFua2luZ3MucHkiXSwKICAgICAgICAgICAgICAgIE5vbmUpCgogICAgc25hcCA9IF9sb2FkX3NuYXBzaG90KHNuYXBzaG90KQogICAgaXRlbXMgPSBzbmFwLmdldCgiaXRlbXMiLCBbXSkKICAgIHRva2VucyA9IF90YXNrX3Rva2Vucyh0YXNrKQoKICAgIHNjb3JlZCA9IFtdCiAgICBmb3IgaXQgaW4gaXRlbXM6CiAgICAgICAgaWYgX2lzX2luc3RhbGxlZChpdCwgc2tpbGxzX2Rpcik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgc2NvcmVkLmFwcGVuZCgoX21hdGNoX3Njb3JlKGl0LCB0b2tlbnMpLCBpdC5nZXQoInN0YXJzIiwgMCksIGl0KSkKCiAgICAjIOWRveS4reaVsOS8mOWFiCwg5pif5pWw5qyh5LmLKOmZjeW6jykKICAgIHNjb3JlZC5zb3J0KGtleT1sYW1iZGEgeDogKC14WzBdLCAteFsxXSkpCiAgICBpZiBzY29yZWQgYW5kIHNjb3JlZFswXVswXSA9PSAwOgogICAgICAgICMg6Zu25ZG95LitOiDkv53mjIHmjInmmJ/mlbDmjpLluo8o5q2k5pe25Y2z5YWo5bGAIFRvcCBOLCDmjpLpmaTlt7Loo4UpCiAgICAgICAgcGFzcwoKICAgIHBpY2tlZCA9IFtpdCBmb3IgXywgXywgaXQgaW4gc2NvcmVkWzp0b3BdXQoKICAgIHNyYyA9IHNuYXAuZ2V0KCJzb3VyY2UiLCAiPyIpCiAgICB1cGRhdGVkID0gc25hcC5nZXQoInVwZGF0ZWQiLCAiPyIpCiAgICBzdGFsZV9kYXlzID0gc25hcC5nZXQoInN0YWxlX2RheXMiLCAzMCkKICAgIGxpbmVzID0gW10KICAgIGFnZSA9IF9hZ2VfZGF5cyh1cGRhdGVkKQogICAgaWYgYWdlID4gc3RhbGVfZGF5czoKICAgICAgICBsaW5lcy5hcHBlbmQoZiJbcmVjb21tZW5kX3NraWxsc10g4pqg77iPIOaOkuihjOamnOW/q+eFp+W3sui/h+acnyB7YWdlfSDlpKkiCiAgICAgICAgICAgICAgICAgICAgIGYiKD4ge3N0YWxlX2RheXN9IOWkqSksIOW7uuiurui/kOihjCBweXRob24gc2NyaXB0cy8iCiAgICAgICAgICAgICAgICAgICAgIGYidXBkYXRlX3NraWxsX3JhbmtpbmdzLnB5IOWIt+aWsDsg5b2T5YmN5LuN55So5pen5b+r54Wn5o6o6I2Q44CCIikKICAgIGlmIG5vdCBwaWNrZWQ6CiAgICAgICAgbGluZXMuYXBwZW5kKCJbcmVjb21tZW5kX3NraWxsc10g5b+r54Wn5Lit5peg5Y+v55So5p2h55uuKOWPr+iDveWFqOmDqOW3suijhSnjgIIiKQogICAgICAgIHJldHVybiBsaW5lcywgc25hcAoKICAgIGxpbmVzLmFwcGVuZChmIvCflI0g5pys5qyh55u45YWz5oqA6IO95o6o6I2QKOadpea6kDog5pys5Zyw5o6S6KGM5qac5b+r54WnLCB7c3JjfSwg5pu05paw5LqOIHt1cGRhdGVkfSk6IikKICAgIGZvciBpLCBpdCBpbiBlbnVtZXJhdGUocGlja2VkLCAxKToKICAgICAgICB1cmwgPSBmImh0dHBzOi8vZ2l0aHViLmNvbS97aXRbJ293bmVyJ119L3tpdFsncmVwbyddfSIKICAgICAgICBzdGFyX3N0ciA9IGYie2l0WydzdGFycyddIC8vIDEwMDB9S+KYhSIgaWYgaXRbInN0YXJzIl0gPj0gMTAwMCBlbHNlIGYie2l0WydzdGFycyddfeKYhSIKICAgICAgICBkZXNjID0gKGl0LmdldCgiZGVzYyIpIG9yICIiKVs6MTIwXQogICAgICAgIGxpbmVzLmFwcGVuZChmIi0ge2l0WyduYW1lJ119IOKAlCB7ZGVzY30gKHt1cmx9LCB7c3Rhcl9zdHJ9KSIpCiAgICAgICAgbGluZXMuYXBwZW5kKGYiICDlronoo4U6IGdpdCBjbG9uZSB7dXJsfSIpCiAgICByZXR1cm4gbGluZXMsIHNuYXAKCgpkZWYgbWFpbigpOgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj0i5a6q5rOV56ys5LqU5p2hOiDmnKzlnLDmjpLooYzmppzlv6vnhafmjqjojZAodjIuMjUuMCkiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXRhc2siLCByZXF1aXJlZD1UcnVlLCBoZWxwPSLku7vliqHmj4/ov7Ao55So5LqO5Yy56YWN5YWz6ZSu6K+NKSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tc25hcHNob3QiLCBkZWZhdWx0PURFRkFVTFRfU05BUFNIT1QsIGhlbHA9IuaOkuihjOamnOW/q+eFp+i3r+W+hCIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tc2tpbGxzLWRpciIsIGRlZmF1bHQ9REVGQVVMVF9TS0lMTFNfRElSLAogICAgICAgICAgICAgICAgICAgIGhlbHA9ZiLmnKzlnLDmioDog73nm67lvZUo6buY6K6kIHtERUZBVUxUX1NLSUxMU19ESVJ9KSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tdG9wIiwgdHlwZT1pbnQsIGRlZmF1bHQ9REVGQVVMVF9UT1AsIGhlbHA9IuaOqOiNkOadoeaVsCjpu5jorqQgMykiKQogICAgYSA9IGFwLnBhcnNlX2FyZ3MoKQogICAgbGluZXMsIF8gPSByZWNvbW1lbmQoYS50YXNrLCBhLnNuYXBzaG90LCBhLnNraWxsc19kaXIsIGEudG9wKQogICAgcHJpbnQoIlxuIi5qb2luKGxpbmVzKSkKICAgIHJldHVybiAwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN5cy5leGl0KG1haW4oKSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""recommend_skills — 宪法第五条"答复推荐"的本地快照推荐器 (v2.25.0 新增)
+
+极度省 token 原则的落地:
+  旧版: Agent 每次答复推荐都要去 GitHub 全盘搜索(WebSearch/WebFetch) →
+        每次任务烧一堆 token。
+  新版: 推荐环节只读本地排行榜快照 data/skill_rankings.json ——
+        纯本地、零网络、~20KB 文件, 匹配+排序全部确定性规则, 不调用 LLM。
+
+用法(推荐环节, Agent 或用户均可直接跑):
+  python scripts/recommend_skills.py --task "帮我写 PPT 汇报"
+  python scripts/recommend_skills.py --task "爬取网页数据" --skills-dir ~/.workbuddy/skills
+  python scripts/recommend_skills.py --task "代码审查" --top 3
+
+行为:
+  1. 读本地快照(默认 data/skill_rankings.json, 可 --snapshot 指定)
+  2. 任务文本分词(英文词 + 中文词), 与条目 keywords/name/desc 做子串匹配
+  3. 排除本地已装技能(repo 名/技能名与本地技能目录同名则剔除)
+  4. 按"命中数优先, 星数次之"排序, 取前 N(默认 3)
+  5. 零命中 → 按星数取 Top N(仍排除已装), 保证任何任务都有推荐
+  6. 快照过期(> stale_days 天) → 输出顶部提示刷新命令, 但不自动拉取网络
+
+输出格式天然满足 step5 校验(GitHub 链接 + star 数 + 获取方式)。
+"""
+import argparse
+import json
+import os
+import re
+import sys
+from datetime import date, datetime
+
+DEFAULT_SNAPSHOT = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "data", "skill_rankings.json")
+DEFAULT_SKILLS_DIR = os.path.expanduser("~/.workbuddy/skills")
+DEFAULT_TOP = 3
+
+
+def _load_snapshot(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _task_tokens(task):
+    """任务文本分词: 英文词(≥3 字符) + 中文连续片段(≥2 字)。"""
+    tokens = []
+    for m in re.finditer(r"[a-zA-Z][a-zA-Z0-9\-]{2,}|[\u4e00-\u9fff]{2,}", task.lower()):
+        t = m.group(0).strip("-")
+        if len(t) >= 3:
+            tokens.append(t)
+    # 去重保序
+    seen, out = set(), []
+    for t in tokens:
+        if t not in seen:
+            seen.add(t)
+            out.append(t)
+    return out
+
+
+def _match_score(item, tokens):
+    """命中得分: 每个 token 在 (keywords+name+desc) 拼接中命中 +1; 星数做次级排序。"""
+    hay = " ".join(item.get("keywords", [])) + " " + item.get("name", "") + " " + item.get("desc", "")
+    hay_l = hay.lower()
+    hits = sum(1 for t in tokens if t in hay_l)
+    return hits
+
+
+def _is_installed(item, skills_dir):
+    """判断该排行榜条目是否已被本地安装。
+
+    与 step5 Layer E 口径一致:
+      E1: 本地技能目录名(去 __xxx 后缀)与 repo/name 同名 → 已装
+      E2: 本地存在 `_<name>-references` 标记目录 → 对应框架已装
+    """
+    if not skills_dir or not os.path.isdir(skills_dir):
+        return False
+    try:
+        local_dirs = os.listdir(skills_dir)
+    except OSError:
+        return False
+    repo_l = item.get("repo", "").lower()
+    name_l = item.get("name", "").lower()
+
+    installed_frameworks = set()
+    for d in local_dirs:
+        if d.startswith("_") and d.endswith("-references"):
+            installed_frameworks.add(d[1:].replace("-references", "").lower())
+        if d.startswith("_") or d.startswith("."):
+            continue
+        d_base = re.sub(r"__[a-z0-9_]+$", "", d).lower()
+        if repo_l and repo_l == d_base:
+            return True
+        if name_l and name_l == d_base:
+            return True
+    # E2: _<name>-references 标记的框架(如 _agent-skills-references → agent-skills)
+    if repo_l and repo_l in installed_frameworks:
+        return True
+    if name_l and name_l in installed_frameworks:
+        return True
+    return False
+
+
+def _age_days(updated):
+    """快照年龄(天); 解析失败返回 0(视为新鲜)。"""
+    try:
+        d = datetime.strptime(updated, "%Y-%m-%d").date()
+        return (date.today() - d).days
+    except (ValueError, TypeError):
+        return 0
+
+
+def recommend(task, snapshot=DEFAULT_SNAPSHOT, skills_dir=DEFAULT_SKILLS_DIR,
+              top=DEFAULT_TOP, out_lines=False):
+    """核心推荐逻辑。返回 (lines, snapshot) 供测试与 CLI 复用。"""
+    if not os.path.isfile(snapshot):
+        return (["[recommend_skills] 未找到排行榜快照, 请先运行: "
+                 "python scripts/update_skill_rankings.py"],
+                None)
+
+    snap = _load_snapshot(snapshot)
+    items = snap.get("items", [])
+    tokens = _task_tokens(task)
+
+    scored = []
+    for it in items:
+        if _is_installed(it, skills_dir):
+            continue
+        scored.append((_match_score(it, tokens), it.get("stars", 0), it))
+
+    # 命中数优先, 星数次之(降序)
+    scored.sort(key=lambda x: (-x[0], -x[1]))
+    if scored and scored[0][0] == 0:
+        # 零命中: 保持按星数排序(此时即全局 Top N, 排除已装)
+        pass
+
+    picked = [it for _, _, it in scored[:top]]
+
+    src = snap.get("source", "?")
+    updated = snap.get("updated", "?")
+    stale_days = snap.get("stale_days", 30)
+    lines = []
+    age = _age_days(updated)
+    if age > stale_days:
+        lines.append(f"[recommend_skills] ⚠️ 排行榜快照已过期 {age} 天"
+                     f"(> {stale_days} 天), 建议运行 python scripts/"
+                     f"update_skill_rankings.py 刷新; 当前仍用旧快照推荐。")
+    if not picked:
+        lines.append("[recommend_skills] 快照中无可用条目(可能全部已装)。")
+        return lines, snap
+
+    lines.append(f"🔍 本次相关技能推荐(来源: 本地排行榜快照, {src}, 更新于 {updated}):")
+    for i, it in enumerate(picked, 1):
+        url = f"https://github.com/{it['owner']}/{it['repo']}"
+        star_str = f"{it['stars'] // 1000}K★" if it["stars"] >= 1000 else f"{it['stars']}★"
+        desc = (it.get("desc") or "")[:120]
+        lines.append(f"- {it['name']} — {desc} ({url}, {star_str})")
+        lines.append(f"  安装: git clone {url}")
+    return lines, snap
+
+
+def main():
+    ap = argparse.ArgumentParser(description="宪法第五条: 本地排行榜快照推荐(v2.25.0)")
+    ap.add_argument("--task", required=True, help="任务描述(用于匹配关键词)")
+    ap.add_argument("--snapshot", default=DEFAULT_SNAPSHOT, help="排行榜快照路径")
+    ap.add_argument("--skills-dir", default=DEFAULT_SKILLS_DIR,
+                    help=f"本地技能目录(默认 {DEFAULT_SKILLS_DIR})")
+    ap.add_argument("--top", type=int, default=DEFAULT_TOP, help="推荐条数(默认 3)")
+    a = ap.parse_args()
+    lines, _ = recommend(a.task, a.snapshot, a.skills_dir, a.top)
+    print("\n".join(lines))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

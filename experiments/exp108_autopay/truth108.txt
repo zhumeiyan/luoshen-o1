@@ -1,1 +1,8 @@
-QzBERSA0U1EyVjcKZG93bmxvYWRfemlwX2J5dGVzID0gMzQxODYKY2Fub25fanNvbl9ieXRlcyA9IDI4MTI3MQpydWxlc19wcm8gPSAyNgpydWxlc19mcmVlID0gMTYKb3JkZXJfYm90X3J1bnMgPSAzCnRlc3RfZnVsZmlsbGVkID0gMQp0ZXN0X25lZWRzX2luZm8gPSAx
+C0DE 4SQ2V7
+download_zip_bytes = 34186
+canon_json_bytes = 281271
+rules_pro = 26
+rules_free = 16
+order_bot_runs = 3
+test_fulfilled = 1
+test_needs_info = 1

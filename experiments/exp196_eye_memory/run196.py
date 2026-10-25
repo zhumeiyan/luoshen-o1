@@ -1,1 +1,138 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIDE5Njog55y8552b44CB6YeH5qC3546H5LiO6K6w5b+G5rex5bqmIOKAlOKAlCDpsbzkuLrku4DkuYgi6K6w5b+G5bCRIgppbXBvcnQgbnVtcHkgYXMgbnAsIGpzb24sIG9zCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CgpPVVQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTk2X2V5ZV9tZW1vcnkiCm9zLm1ha2VkaXJzKE9VVCwgZXhpc3Rfb2s9VHJ1ZSkKcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDQyKQpOID0gNDAwMDAKCgpkZWYgcXVhbnRpemUoeCwgVj0xMCk6CiAgICBxcyA9IG5wLnF1YW50aWxlKHgsIG5wLmxpbnNwYWNlKDAsIDEsIFYgKyAxKVsxOi0xXSkKICAgIHJldHVybiBucC5kaWdpdGl6ZSh4LCBxcykKCgpkZWYgbWFrZV9hcihuLCBjb2Vmcywgc2lnbWE9MS4wKToKICAgIG0gPSBsZW4oY29lZnMpCiAgICB4ID0gbnAuemVyb3MobikKICAgIGZvciBpIGluIHJhbmdlKG0sIG4pOgogICAgICAgIHhbaV0gPSBzdW0oYyAqIHhbaSAtIGogLSAxXSBmb3IgaiwgYyBpbiBlbnVtZXJhdGUoY29lZnMpKSArIHNpZ21hICogcm5nLnN0YW5kYXJkX25vcm1hbCgpCiAgICByZXR1cm4geFttOl0KCgpkZWYgbWFrZV9vdShuLCB0YXUsIHNpZ21hPTEuMCk6CiAgICBhID0gbnAuZXhwKC0xLjAgLyB0YXUpCiAgICByZXR1cm4gbWFrZV9hcihuLCBbYV0sIHNpZ21hICogbnAuc3FydCgxIC0gYSAqIGEpKQoKCmRlZiBldmFsX2soc2VxLCBrLCBudGVzdD00MDAwKToKICAgIG4gPSBsZW4oc2VxKQogICAgc3BsaXQgPSBpbnQobiAqIDAuOCkKICAgIHRyLCB0ZSA9IHNlcVs6c3BsaXRdLCBzZXFbc3BsaXQ6c3BsaXQgKyBudGVzdF0KICAgIGlmIGxlbih0ZSkgPD0gayArIDE6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGNvdW50cyA9IGRlZmF1bHRkaWN0KGxhbWJkYTogZGVmYXVsdGRpY3QoZmxvYXQpKQogICAgY3R4ID0gZGVmYXVsdGRpY3QoZmxvYXQpCiAgICBtYXJnID0gZGVmYXVsdGRpY3QoZmxvYXQpCiAgICB0b3QgPSAwLjAKICAgIGZvciBpIGluIHJhbmdlKGssIGxlbih0cikpOgogICAgICAgIGMgPSB0dXBsZSh0cltpIC0gazppXSkKICAgICAgICBjb3VudHNbY11bdHJbaV1dICs9IDEKICAgICAgICBjdHhbY10gKz0gMQogICAgICAgIG1hcmdbdHJbaV1dICs9IDEKICAgICAgICB0b3QgKz0gMQogICAgYmFzZSA9IG1heChtYXJnLnZhbHVlcygpKSAvIHRvdCBpZiB0b3QgPiAwIGVsc2UgMC4wCiAgICB0b3BfbSA9IG1heChtYXJnLml0ZW1zKCksIGtleT1sYW1iZGEga3Y6IGt2WzFdKVswXSBpZiBtYXJnIGVsc2UgMAogICAgY29yciA9IDAuMAogICAgbjIgPSAwCiAgICBmb3IgaSBpbiByYW5nZShrLCBsZW4odGUpKToKICAgICAgICBjID0gdHVwbGUodGVbaSAtIGs6aV0pCiAgICAgICAgcHJlZCA9IG1heChjb3VudHNbY10uaXRlbXMoKSwga2V5PWxhbWJkYSBrdjoga3ZbMV0pWzBdIGlmIGN0eFtjXSA+IDAgZWxzZSB0b3BfbQogICAgICAgIGNvcnIgKz0gKHByZWQgPT0gdGVbaV0pCiAgICAgICAgbjIgKz0gMQogICAgcmV0dXJuIGNvcnIgLyBuMiwgYmFzZQoKCmRlZiBzY2FuX2soc2VxLCBrbWF4PTYsIG50ZXN0PTQwMDApOgogICAgcmVzID0gW10KICAgIGZvciBrIGluIHJhbmdlKDEsIGttYXggKyAxKToKICAgICAgICByID0gZXZhbF9rKHNlcSwgaywgbnRlc3QpCiAgICAgICAgaWYgciBpcyBOb25lOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGFjYywgYmFzZSA9IHIKICAgICAgICByZXMuYXBwZW5kKHsiayI6IGssICJhY2MiOiBhY2MsICJiYXNlIjogYmFzZSwgImdhaW4iOiBhY2MgLSBiYXNlfSkKICAgIGlmIG5vdCByZXM6CiAgICAgICAgcmV0dXJuIE5vbmUsIFtdCiAgICBiZXN0ID0gbWF4KHJlcywga2V5PWxhbWJkYSBkOiBkWyJnYWluIl0pCiAgICByZXR1cm4gYmVzdFsiayJdLCByZXMKCgpyZXN1bHRzID0ge30KCiMgLS0tLS0tLS0tLSBBOiDliqjlipvlrabpmLbmlbAgdnMg5pyA5LyY6K6w5b+G5rex5bqmIC0tLS0tLS0tLS0KcGFydEEgPSB7fQpzcGVjcyA9IHsiQVIxKOair+W6pikiOiBbMC44XSwgIkFSMijluKbmg6/mgKcpIjogWzAuNiwgMC4yNV0sCiAgICAgICAgICJBUjMiOiBbMC41LCAwLjI1LCAwLjE1XSwgIkFSNCI6IFswLjQsIDAuMiwgMC4xNSwgMC4xXX0KZm9yIG5hbWUsIGNvIGluIHNwZWNzLml0ZW1zKCk6CiAgICB4ID0gbWFrZV9hcihOLCBjbykKICAgIHEgPSBxdWFudGl6ZSh4KQogICAga3MsIHJlcyA9IHNjYW5fayhxKQogICAgcGFydEFbbmFtZV0gPSB7ImNvZWZzIjogY28sICJrc3RhciI6IGtzLCAiY3VydmUiOiByZXN9CnJlc3VsdHNbIkFfb3JkZXIiXSA9IHBhcnRBCgojIC0tLS0tLS0tLS0gQjog6YeH5qC3546HIHZzIOiusOW/hu+8iOS4lueVjOebuOWFs+aXtumXtCB0YXXvvIkgLS0tLS0tLS0tLQpwYXJ0QiA9IHt9CmZvciB0YXUgaW4gWzIsIDUsIDEwLCAyMCwgNTBdOgogICAgeCA9IG1ha2Vfb3UoTiwgdGF1KQogICAgcm93ID0ge30KICAgIGZvciByIGluIFsxLCAyLCA0LCA4LCAxNl06CiAgICAgICAgeHMgPSB4Wzo6cl0KICAgICAgICBxID0gcXVhbnRpemUoeHMpCiAgICAgICAga3MsIHJlcyA9IHNjYW5fayhxKQogICAgICAgIGJlc3QgPSBtYXgocmVzLCBrZXk9bGFtYmRhIGQ6IGRbImdhaW4iXSkKICAgICAgICAjIOeQhuiuuuS/neaMgeeOhzogYV5yID0gZXhwKC1yL3RhdSkKICAgICAgICByb3dbc3RyKHIpXSA9IHsia3N0YXIiOiBrcywgImdhaW4iOiBiZXN0WyJnYWluIl0sICJhY2MiOiBiZXN0WyJhY2MiXSwKICAgICAgICAgICAgICAgICAgICAgICAic3Bhbl9waHlzIjogKGtzICogciBpZiBrcyBlbHNlIE5vbmUpLAogICAgICAgICAgICAgICAgICAgICAgICJ0aGVvcnlfcmV0YWluIjogZmxvYXQobnAuZXhwKC1yIC8gdGF1KSksICJuIjogbGVuKHEpfQogICAgcGFydEJbc3RyKHRhdSldID0gcm93CnJlc3VsdHNbIkJfc2FtcGxpbmciXSA9IHBhcnRCCgojIC0tLS0tLS0tLS0gQzog5Lik57G7YWdlbnQgLS0tLS0tLS0tLQojIEMxIOWMluWtpui2i+WQkSjml6DnnLwpOiDmsr/ot6/lvoTnmoTlubPmu5HmtZPluqblnLoKcG9zID0gbnAuY3Vtc3VtKHJuZy5zdGFuZGFyZF9ub3JtYWwoTikpICogMS4wCmZpZWxkID0gbnAuc2luKHBvcyAqIDAuMDUpICsgMC41ICogbnAuc2luKHBvcyAqIDAuMDEzKQpxID0gcXVhbnRpemUoZmllbGQpCmsxLCByZXMxID0gc2Nhbl9rKHEpCiMgQzIg6L+95o2VKOacieecvCk6IOeMjueJqeW4puaDr+aApyBBUjIg5oyv6I2hCnByZXkgPSBtYWtlX2FyKE4sIFsxLjUsIC0wLjZdLCAwLjMpCnEyID0gcXVhbnRpemUocHJleSkKazIsIHJlczIgPSBzY2FuX2socTIpCiMgQzMg6L+95o2VOiDnjI7nianov5HkvLzljIDpgJ8o5L2N572uPemAn+W6puenr+WIhikgLT4g6ZyA5Lik5Liq6YeH5qC35omN6IO95b6X6YCf5bqmCnZlbCA9IG1ha2Vfb3UoTiwgMjAsIDAuNSkKcCA9IG5wLmN1bXN1bSh2ZWwpCnEzID0gcXVhbnRpemUocCkKazMsIHJlczMgPSBzY2FuX2socTMpCnJlc3VsdHNbIkNfYWdlbnQiXSA9IHsKICAgICJDMV/ljJblrabotovlkJFf5bmz5ruR5Zy6IjogeyJrc3RhciI6IGsxLCAiY3VydmUiOiByZXMxfSwKICAgICJDMl/ov73mjZVf54yO54mp5bim5oOv5oCnIjogeyJrc3RhciI6IGsyLCAiY3VydmUiOiByZXMyfSwKICAgICJDM1/ov73mjZVf54yO54mp5YyA6YCfIjogeyJrc3RhciI6IGszLCAiY3VydmUiOiByZXMzfSwKfQoKanNvbi5kdW1wKHJlc3VsdHMsIG9wZW4oT1VUICsgIi9yZXN1bHQxOTYuanNvbiIsICJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCgojIOaJk+WNsOaRmOimgQpwcmludCgiPT09IEEg5Yqo5Yqb5a2m6Zi25pWwIC0+IGsqID09PSIpCmZvciBrLCB2IGluIHBhcnRBLml0ZW1zKCk6CiAgICBwcmludChmIiAge2s6MTRzfSBrKj17dlsna3N0YXInXX0gIGdhaW49e21heChkWydnYWluJ10gZm9yIGQgaW4gdlsnY3VydmUnXSk6LjRmfSIpCnByaW50KCI9PT0gQiDph4fmoLfnjocgdnMg6K6w5b+GICh0YXUpID09PSIpCmZvciB0YXUsIHJvdyBpbiBwYXJ0Qi5pdGVtcygpOgogICAgcyA9ICIgIHRhdT0lM3MgOiAiICUgdGF1CiAgICBmb3IgciwgZCBpbiByb3cuaXRlbXMoKToKICAgICAgICBzICs9IGYicntyfTprKj17ZFsna3N0YXInXX0sZz17ZFsnZ2FpbiddOi40Zn0scmV0PXtkWyd0aGVvcnlfcmV0YWluJ106LjNmfSAgIgogICAgcHJpbnQocykKcHJpbnQoIj09PSBDIGFnZW50ID09PSIpCmZvciBrLCB2IGluIHJlc3VsdHNbIkNfYWdlbnQiXS5pdGVtcygpOgogICAgcHJpbnQoZiIgIHtrOjIwc30gayo9e3ZbJ2tzdGFyJ119IikKcHJpbnQoInNhdmVkIikK
+#!/usr/bin/env python3
+# 196: 眼睛、采样率与记忆深度 —— 鱼为什么"记忆少"
+import numpy as np, json, os
+from collections import defaultdict
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp196_eye_memory"
+os.makedirs(OUT, exist_ok=True)
+rng = np.random.default_rng(42)
+N = 40000
+
+
+def quantize(x, V=10):
+    qs = np.quantile(x, np.linspace(0, 1, V + 1)[1:-1])
+    return np.digitize(x, qs)
+
+
+def make_ar(n, coefs, sigma=1.0):
+    m = len(coefs)
+    x = np.zeros(n)
+    for i in range(m, n):
+        x[i] = sum(c * x[i - j - 1] for j, c in enumerate(coefs)) + sigma * rng.standard_normal()
+    return x[m:]
+
+
+def make_ou(n, tau, sigma=1.0):
+    a = np.exp(-1.0 / tau)
+    return make_ar(n, [a], sigma * np.sqrt(1 - a * a))
+
+
+def eval_k(seq, k, ntest=4000):
+    n = len(seq)
+    split = int(n * 0.8)
+    tr, te = seq[:split], seq[split:split + ntest]
+    if len(te) <= k + 1:
+        return None
+    counts = defaultdict(lambda: defaultdict(float))
+    ctx = defaultdict(float)
+    marg = defaultdict(float)
+    tot = 0.0
+    for i in range(k, len(tr)):
+        c = tuple(tr[i - k:i])
+        counts[c][tr[i]] += 1
+        ctx[c] += 1
+        marg[tr[i]] += 1
+        tot += 1
+    base = max(marg.values()) / tot if tot > 0 else 0.0
+    top_m = max(marg.items(), key=lambda kv: kv[1])[0] if marg else 0
+    corr = 0.0
+    n2 = 0
+    for i in range(k, len(te)):
+        c = tuple(te[i - k:i])
+        pred = max(counts[c].items(), key=lambda kv: kv[1])[0] if ctx[c] > 0 else top_m
+        corr += (pred == te[i])
+        n2 += 1
+    return corr / n2, base
+
+
+def scan_k(seq, kmax=6, ntest=4000):
+    res = []
+    for k in range(1, kmax + 1):
+        r = eval_k(seq, k, ntest)
+        if r is None:
+            continue
+        acc, base = r
+        res.append({"k": k, "acc": acc, "base": base, "gain": acc - base})
+    if not res:
+        return None, []
+    best = max(res, key=lambda d: d["gain"])
+    return best["k"], res
+
+
+results = {}
+
+# ---------- A: 动力学阶数 vs 最优记忆深度 ----------
+partA = {}
+specs = {"AR1(梯度)": [0.8], "AR2(带惯性)": [0.6, 0.25],
+         "AR3": [0.5, 0.25, 0.15], "AR4": [0.4, 0.2, 0.15, 0.1]}
+for name, co in specs.items():
+    x = make_ar(N, co)
+    q = quantize(x)
+    ks, res = scan_k(q)
+    partA[name] = {"coefs": co, "kstar": ks, "curve": res}
+results["A_order"] = partA
+
+# ---------- B: 采样率 vs 记忆（世界相关时间 tau） ----------
+partB = {}
+for tau in [2, 5, 10, 20, 50]:
+    x = make_ou(N, tau)
+    row = {}
+    for r in [1, 2, 4, 8, 16]:
+        xs = x[::r]
+        q = quantize(xs)
+        ks, res = scan_k(q)
+        best = max(res, key=lambda d: d["gain"])
+        # 理论保持率: a^r = exp(-r/tau)
+        row[str(r)] = {"kstar": ks, "gain": best["gain"], "acc": best["acc"],
+                       "span_phys": (ks * r if ks else None),
+                       "theory_retain": float(np.exp(-r / tau)), "n": len(q)}
+    partB[str(tau)] = row
+results["B_sampling"] = partB
+
+# ---------- C: 两类agent ----------
+# C1 化学趋向(无眼): 沿路径的平滑浓度场
+pos = np.cumsum(rng.standard_normal(N)) * 1.0
+field = np.sin(pos * 0.05) + 0.5 * np.sin(pos * 0.013)
+q = quantize(field)
+k1, res1 = scan_k(q)
+# C2 追捕(有眼): 猎物带惯性 AR2 振荡
+prey = make_ar(N, [1.5, -0.6], 0.3)
+q2 = quantize(prey)
+k2, res2 = scan_k(q2)
+# C3 追捕: 猎物近似匀速(位置=速度积分) -> 需两个采样才能得速度
+vel = make_ou(N, 20, 0.5)
+p = np.cumsum(vel)
+q3 = quantize(p)
+k3, res3 = scan_k(q3)
+results["C_agent"] = {
+    "C1_化学趋向_平滑场": {"kstar": k1, "curve": res1},
+    "C2_追捕_猎物带惯性": {"kstar": k2, "curve": res2},
+    "C3_追捕_猎物匀速": {"kstar": k3, "curve": res3},
+}
+
+json.dump(results, open(OUT + "/result196.json", "w"), ensure_ascii=False, indent=1)
+
+# 打印摘要
+print("=== A 动力学阶数 -> k* ===")
+for k, v in partA.items():
+    print(f"  {k:14s} k*={v['kstar']}  gain={max(d['gain'] for d in v['curve']):.4f}")
+print("=== B 采样率 vs 记忆 (tau) ===")
+for tau, row in partB.items():
+    s = "  tau=%3s : " % tau
+    for r, d in row.items():
+        s += f"r{r}:k*={d['kstar']},g={d['gain']:.4f},ret={d['theory_retain']:.3f}  "
+    print(s)
+print("=== C agent ===")
+for k, v in results["C_agent"].items():
+    print(f"  {k:20s} k*={v['kstar']}")
+print("saved")

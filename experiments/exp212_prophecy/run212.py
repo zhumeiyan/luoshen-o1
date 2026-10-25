@@ -1,1 +1,318 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIxMiDpooToqIDlr7nnhaflrp7pqowK5oqKIDE4MS8xODQvMTg2LzE5MC8xOTEg5LqU5LiqIuepuuebruW9lSLph4zmiJHlvZPliJ3lo7Dnp7DnmoTpooToqIDvvIznnJ/ot5HkuIDpgY3vvIzpgJDmnaHlr7nooajjgIIK5Yik5o2u77ya5byV55So5YmN5YWIIGxz77yIMjAx5Y+377yJ77yb6aKE6KiA5b+F6aG75pyJ5Y+v6K+B5Lyq55qE5pWw5YC844CCCiIiIgppbXBvcnQganNvbiwgbWF0aCwgb3MsIHJhbmRvbSwgY29sbGVjdGlvbnMKaW1wb3J0IG51bXB5IGFzIG5wCgpPVVQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKVV9QQVRIID0gJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0JwpKX1BBVEggPSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCcKCmRlZiBsb2FkX3UoKToKICAgIHQgPSBvcGVuKFVfUEFUSCwgZW5jb2Rpbmc9J3V0Zi04JywgZXJyb3JzPSdpZ25vcmUnKS5yZWFkKCkKICAgIG91dCA9IFtdCiAgICBmb3IgbGluZSBpbiB0LnNwbGl0KCdcbicpOgogICAgICAgIGlmIGxpbmUuc3RhcnRzd2l0aCgnIycpIG9yIG5vdCBsaW5lLnN0cmlwKCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgbGluZVs6NF0uc3RhcnRzd2l0aCgnVScpIGFuZCAnOicgaW4gbGluZVs6Nl06CiAgICAgICAgICAgIG91dC5hcHBlbmQobGluZS5zcGxpdCgnOicsIDEpWzFdLnN0cmlwKCkpCiAgICByZXR1cm4gb3V0CgpVTVNHUyA9IGxvYWRfdSgpClVURVhUID0gJycuam9pbihVTVNHUykKSlRFWFQgPSBvcGVuKEpfUEFUSCwgZW5jb2Rpbmc9J3V0Zi04JywgZXJyb3JzPSdpZ25vcmUnKS5yZWFkKCkKCiMgLS0tLS0tLS0tLSDpgJrnlKjvvJpuLWdyYW0g6K+t6KiA5qih5Z6LIC0tLS0tLS0tLS0KY2xhc3MgTkc6CiAgICBkZWYgX19pbml0X18oc2VsZiwgaywgZmxvb3I9MWUtMTIpOgogICAgICAgIHNlbGYuayA9IGs7IHNlbGYuZmxvb3IgPSBmbG9vcgogICAgICAgIHNlbGYubiA9IGNvbGxlY3Rpb25zLkNvdW50ZXIoKTsgc2VsZi5kID0gY29sbGVjdGlvbnMuQ291bnRlcigpCiAgICAgICAgc2VsZi5WID0gMAogICAgZGVmIGZpdChzZWxmLCBzKToKICAgICAgICBzZWxmLlYgPSBsZW4oc2V0KHMpKQogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihzKSAtIHNlbGYuayk6CiAgICAgICAgICAgIGN0eCA9IHNbaTppK3NlbGYua107IHNlbGYublsoY3R4LCBzW2krc2VsZi5rXSldICs9IDE7IHNlbGYuZFtjdHhdICs9IDEKICAgIGRlZiBwcm9iKHNlbGYsIGN0eCwgYyk6CiAgICAgICAgdG90ID0gc2VsZi5kLmdldChjdHgsIDApCiAgICAgICAgaWYgdG90ID09IDA6IHJldHVybiBzZWxmLmZsb29yCiAgICAgICAgcmV0dXJuIG1heChzZWxmLm4uZ2V0KChjdHgsIGMpLCAwKSAvIHRvdCwgc2VsZi5mbG9vcikKICAgIGRlZiB0b3AxKHNlbGYsIGN0eCk6CiAgICAgICAgdG90ID0gc2VsZi5kLmdldChjdHgsIDApCiAgICAgICAgaWYgdG90ID09IDA6IHJldHVybiBOb25lCiAgICAgICAgYmVzdCwgYmMgPSAtMSwgTm9uZQogICAgICAgIGZvciAoYzIsIGNoKSwgdiBpbiBzZWxmLm4uaXRlbXMoKToKICAgICAgICAgICAgaWYgYzIgPT0gY3R4IGFuZCB2ID4gYmVzdDogYmVzdCwgYmMgPSB2LCBjaAogICAgICAgIHJldHVybiBiYwogICAgZGVmIGJpdHMoc2VsZiwgcyk6CiAgICAgICAgdG90LCBuID0gMC4wLCAwCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHMpIC0gc2VsZi5rKToKICAgICAgICAgICAgdG90ICs9IC1tYXRoLmxvZzIoc2VsZi5wcm9iKHNbaTppK3NlbGYua10sIHNbaStzZWxmLmtdKSk7IG4gKz0gMQogICAgICAgIHJldHVybiB0b3QgLyBtYXgobiwgMSkKCmRlZiBhY2Nfb2YobW9kZWwsIHMpOgogICAgaGl0ID0gdG90ID0gMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHMpIC0gbW9kZWwuayk6CiAgICAgICAgcCA9IG1vZGVsLnRvcDEoc1tpOmkrbW9kZWwua10pCiAgICAgICAgaWYgcCBpcyBOb25lOiBjb250aW51ZQogICAgICAgIHRvdCArPSAxOyBoaXQgKz0gKHAgPT0gc1tpK21vZGVsLmtdKQogICAgcmV0dXJuIGhpdCAvIG1heCh0b3QsIDEpCgpkZWYgc3VycHJpc2VfYWNmMShtb2RlbCwgcyk6CiAgICBzdXIgPSBbXQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHMpIC0gbW9kZWwuayk6CiAgICAgICAgc3VyLmFwcGVuZCgtbWF0aC5sb2cyKG1vZGVsLnByb2Ioc1tpOmkrbW9kZWwua10sIHNbaSttb2RlbC5rXSkpKQogICAgaWYgbGVuKHN1cikgPCAxMDogcmV0dXJuIDAuMAogICAgYSA9IG5wLmFycmF5KHN1cik7IGEgPSBhIC0gYS5tZWFuKCkKICAgIGQgPSAoYSAqIGEpLnN1bSgpCiAgICBpZiBkIDw9IDA6IHJldHVybiAwLjAKICAgIHJldHVybiBmbG9hdCgoYVs6LTFdICogYVsxOl0pLnN1bSgpIC8gZCkKCmRlZiBhbGl2ZW5lc3MobW9kZWwsIHMpOgogICAgIiIi5rS75bqmID0g5b2S5LiA5YyW6aKE5rWL5pS255uKIMOXIOaEj+WkluS4gOmYtuiHquebuOWFsyAoMTgz5Y+35Yik5o2uKSIiIgogICAgYiA9IG1vZGVsLmJpdHMocyk7IFYgPSBtYXgobW9kZWwuViwgMikKICAgIGdhaW4gPSAobWF0aC5sb2cyKFYpIC0gYikgLyBtYXRoLmxvZzIoVikKICAgIHJldHVybiBmbG9hdChnYWluICogc3VycHJpc2VfYWNmMShtb2RlbCwgcykpLCBmbG9hdChnYWluKSwgZmxvYXQoc3VycHJpc2VfYWNmMShtb2RlbCwgcykpCgpSID0ge30KCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgMjEyLUEgOiAxODEg5Y+344CM5qyy5pyb5p2l6Ieq6aKE5rWL44CN55qE6aKE6KiACiMgICDpooToqIAgQTE6IOassuacm+WPpemihOa1i+acquadpeivnemimCArODYlICh2cyDlhajmlofmnKwpCiMgICDpooToqIAgQTI6IOassuacm+WPpSB2cyDnrYnph4/pmo/mnLrlj6UgKzY4JQojICAg6aKE6KiAIEEzOiDmrLLmnJvlj6XpooTmtYvnlKjor40gLTQlCiMgICDpooToqIAgQTQ6IOWuiOaBkuWcuu+8muWRveS4ree7hCB2cyDmnKrlkb3kuK3nu4Qg5pyq5p2l5Ye6546w546H55u4562JICgwLjcyIHZzIDAuNzIpCiMgICDpooToqIAgQTU6IOassuacm+WPpeimhueblueOhyAyMy40JQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpERVNJUkUgPSBbJ+aDsycsJ+imgScsJ+assuacmycsJ+W4jOacmycsJ+W+lycsJ+W6lOivpScsJ+W/hemhuycsJ+i/veaxgicsJ+mcgOimgScsJ+ebruaghycsJ+aJk+eulycsJ+aEvycsJ+inieW+l+W6lOivpScsJ+WwseW+lyddCgpkZWYgc3BsaXRfc2VudHMobXNncyk6CiAgICBzZW50cyA9IFtdCiAgICBmb3IgbSBpbiBtc2dzOgogICAgICAgIGJ1ZiA9ICcnCiAgICAgICAgZm9yIGNoIGluIG06CiAgICAgICAgICAgIGJ1ZiArPSBjaAogICAgICAgICAgICBpZiBjaCBpbiAn44CC77yf77yB77ybPyEnOgogICAgICAgICAgICAgICAgaWYgYnVmLnN0cmlwKCk6IHNlbnRzLmFwcGVuZChidWYuc3RyaXAoKSkKICAgICAgICAgICAgICAgIGJ1ZiA9ICcnCiAgICAgICAgaWYgYnVmLnN0cmlwKCk6IHNlbnRzLmFwcGVuZChidWYuc3RyaXAoKSkKICAgIHJldHVybiBzZW50cwoKU0VOVFMgPSBzcGxpdF9zZW50cyhVTVNHUykKZGVmIGlzX2Rlc2lyZShzKToKICAgIHJldHVybiBzdW0ocy5jb3VudCh3KSBmb3IgdyBpbiBERVNJUkUpCgpEU0VOVFMgPSBbcyBmb3IgcyBpbiBTRU5UUyBpZiBpc19kZXNpcmUocykgPiAwXQpjdXQgPSBpbnQobGVuKFNFTlRTKSAqIDAuNykKVFIsIFRFID0gU0VOVFNbOmN1dF0sIFNFTlRTW2N1dDpdCnRyX3RleHQgPSAnJy5qb2luKFRSKTsgdGVfdGV4dCA9ICcnLmpvaW4oVEUpCmRfdHIgPSBbcyBmb3IgcyBpbiBUUiBpZiBpc19kZXNpcmUocykgPiAwXQpkX3RleHQgPSAnJy5qb2luKGRfdHIpCgpkZWYgYmlncmFtX3R5cGVzKHMpOgogICAgcmV0dXJuIHNldChzW2k6aSsyXSBmb3IgaSBpbiByYW5nZShsZW4ocyktMSkpCgp0ZV90b3BpY3MgPSBiaWdyYW1fdHlwZXModGVfdGV4dCkKZnVsbF90b3AgPSBiaWdyYW1fdHlwZXModHJfdGV4dCkKZGVzX3RvcCA9IGJpZ3JhbV90eXBlcyhkX3RleHQpCgpkZWYgY292ZXJhZ2UodHJhaW5fdG9waWNzLCB0ZXN0X3RvcGljcyk6CiAgICByZXR1cm4gbGVuKHRyYWluX3RvcGljcyAmIHRlc3RfdG9waWNzKSAvIG1heChsZW4odGVzdF90b3BpY3MpLCAxKQoKY292X2Z1bGwgPSBjb3ZlcmFnZShmdWxsX3RvcCwgdGVfdG9waWNzKQpjb3ZfZGVzID0gY292ZXJhZ2UoZGVzX3RvcCwgdGVfdG9waWNzKQoKIyDnrYnph4/pmo/mnLrlj6Xlr7nnhafvvIjlpJrmrKHlj5blubPlnYfvvIkKcmFuZG9tLnNlZWQoNDIpCmNvdl9yYW5kID0gW10KZm9yIF8gaW4gcmFuZ2UoMjApOgogICAgcnMgPSByYW5kb20uc2FtcGxlKFRSLCBtaW4obGVuKGRfdHIpLCBsZW4oVFIpKSkKICAgIGNvdl9yYW5kLmFwcGVuZChjb3ZlcmFnZShiaWdyYW1fdHlwZXMoJycuam9pbihycykpLCB0ZV90b3BpY3MpKQpjb3ZfcmFuZF9tID0gZmxvYXQobnAubWVhbihjb3ZfcmFuZCkpCgojIOeUqOivjemihOa1i++8iGJpdHPvvIzotorkvY7otorlpb3vvInvvJrnlKjorq3nu4Por63mlpnlu7ogdHJpZ3Jhbe+8jOa1i+a1i+ivlembhgpkZWYgYml0c193aXRoKHRyYWluLCB0ZXN0KToKICAgIG0gPSBORygyKTsgbS5maXQodHJhaW4pOyByZXR1cm4gbS5iaXRzKHRlc3QpCgpiX2Z1bGwgPSBiaXRzX3dpdGgodHJfdGV4dCwgdGVfdGV4dCkKYl9kZXMgID0gYml0c193aXRoKGRfdGV4dCwgdGVfdGV4dCkKYl9yYW5kID0gZmxvYXQobnAubWVhbihbYml0c193aXRoKCcnLmpvaW4ocmFuZG9tLnNhbXBsZShUUiwgbWluKGxlbihkX3RyKSwgbGVuKFRSKSkpKSwgdGVfdGV4dCkgZm9yIF8gaW4gcmFuZ2UoNSldKSkKCiMg5a6I5oGS5Zy677ya5rWL6K+V6ZuG5YmN5Y2K55qE6K+d6aKY77yM5Zyo5ZCO5Y2K5piv5ZCm5YaN5Ye6546w77yb5oyJIuaYr+WQpuiiq+assuacm+WPpeWRveS4rSLliIbnu4QKaGFsZiA9IGxlbih0ZV90ZXh0KSAvLyAyCmZfdG9wID0gYmlncmFtX3R5cGVzKHRlX3RleHRbOmhhbGZdKTsgYl90b3AgPSBiaWdyYW1fdHlwZXModGVfdGV4dFtoYWxmOl0pCmdycF9oaXQgPSBbdCBmb3IgdCBpbiBmX3RvcCBpZiB0IGluIGRlc190b3BdCmdycF9taXMgPSBbdCBmb3IgdCBpbiBmX3RvcCBpZiB0IG5vdCBpbiBkZXNfdG9wXQpyX2hpdCA9IG5wLm1lYW4oWzEuMCBpZiB0IGluIGJfdG9wIGVsc2UgMC4wIGZvciB0IGluIGdycF9oaXRdKSBpZiBncnBfaGl0IGVsc2UgZmxvYXQoJ25hbicpCnJfbWlzID0gbnAubWVhbihbMS4wIGlmIHQgaW4gYl90b3AgZWxzZSAwLjAgZm9yIHQgaW4gZ3JwX21pc10pIGlmIGdycF9taXMgZWxzZSBmbG9hdCgnbmFuJykKClJbJ0EnXSA9IGRpY3QoCiAgICBuX3NlbnRzPWxlbihTRU5UUyksIG5fZGVzaXJlPWxlbihEU0VOVFMpLCBuX3RyPWxlbihUUiksIG5fdGU9bGVuKFRFKSwKICAgIG5fZGVzaXJlX3RyPWxlbihkX3RyKSwKICAgIGNvdl9mdWxsPWZsb2F0KGNvdl9mdWxsKSwgY292X2Rlcz1mbG9hdChjb3ZfZGVzKSwgY292X3JhbmQ9ZmxvYXQoY292X3JhbmRfbSksCiAgICBsaWZ0X3ZzX2Z1bGw9ZmxvYXQoY292X2Rlcy9jb3ZfZnVsbCAtIDEpIGlmIGNvdl9mdWxsIGVsc2UgTm9uZSwKICAgIGxpZnRfdnNfcmFuZD1mbG9hdChjb3ZfZGVzL2Nvdl9yYW5kX20gLSAxKSBpZiBjb3ZfcmFuZF9tIGVsc2UgTm9uZSwKICAgIGJpdHNfZnVsbD1mbG9hdChiX2Z1bGwpLCBiaXRzX2Rlcz1mbG9hdChiX2RlcyksIGJpdHNfcmFuZD1mbG9hdChiX3JhbmQpLAogICAgd29yZF9saWZ0X3ZzX2Z1bGw9ZmxvYXQoYl9mdWxsL2JfZGVzIC0gMSkgaWYgYl9kZXMgZWxzZSBOb25lLAogICAgcmF0ZV9oaXQ9ZmxvYXQocl9oaXQpLCByYXRlX21pc3M9ZmxvYXQocl9taXMpLAogICAgbl9oaXQ9bGVuKGdycF9oaXQpLCBuX21pc3M9bGVuKGdycF9taXMpLAogICAgY292ZXJhZ2Vfb2ZfZGVzaXJlPWZsb2F0KGxlbihkZXNfdG9wICYgdGVfdG9waWNzKS9tYXgobGVuKHRlX3RvcGljcyksMSkpLAopCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIDIxMi1CIDogMTg0IOWPt+OAjOacgOWwj+WPr+ingua1i+i/kOWKqCA9IOeql+WPo+OAjSjnuq/niannkIblrp7nrpcpCiMgICDpooToqIAgQjE6IOeql+WPoyDiiYggMC4xLTEyIM68be+8jOS4pOerr+mDveeci+S4jeingQojICAg6aKE6KiAIEIyOiByPTAuMjXOvG0o5L2p5YWwKSAx56eSUk1TIOKJiCAxLjQgzrxtCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmtUID0gMS4zODA2NDllLTIzICogMzAwLjAKZXRhID0gOC45ZS00ClJFUyA9IDIwMGUtOSAgICMg5YWJ5a2m5YiG6L6o546HCmRlZiBicm93bihyX20sIHQ9MS4wKToKICAgIEQgPSBrVCAvICg2ICogbWF0aC5waSAqIGV0YSAqIHJfbSkKICAgIHJldHVybiBELCBtYXRoLnNxcnQoMiAqIEQgKiB0KQoKcm93cyA9IFtdCmZvciByIGluIFs1ZS05LCAyLjVlLTcsIDEuMmUtNSwgMWUtNF06CiAgICBELCBybXMgPSBicm93bihyKQogICAgdmlzaWJsZSA9ICgyICogcikgPj0gUkVTCiAgICBtb3ZpbmcgPSBybXMgPj0gUkVTCiAgICByb3dzLmFwcGVuZChkaWN0KHJfbT1yLCBEPUQsIHJtc19tPXJtcywgcGFydGljbGVfdmlzaWJsZT1ib29sKHZpc2libGUpLAogICAgICAgICAgICAgICAgICAgICBtb3Rpb25fdmlzaWJsZT1ib29sKG1vdmluZyksIG9ic2VydmFibGU9Ym9vbCh2aXNpYmxlIGFuZCBtb3ZpbmcpKSkKIyDmiavmj4/msYLnqpflj6MKcnMgPSBucC5sb2dzcGFjZSgtOCwgLTQsIDQwMCkKd2luID0gW3IgZm9yIHIgaW4gcnMgaWYgKDIqcikgPj0gUkVTIGFuZCBicm93bihyKVsxXSA+PSBSRVNdClJbJ0InXSA9IGRpY3QocG9pbnRzPXJvd3MsCiAgICAgICAgICAgICAgd2luZG93X2xvPWZsb2F0KG1pbih3aW4pKSBpZiB3aW4gZWxzZSBOb25lLAogICAgICAgICAgICAgIHdpbmRvd19oaT1mbG9hdChtYXgod2luKSkgaWYgd2luIGVsc2UgTm9uZSwKICAgICAgICAgICAgICBwZXJyaW5faW5fd2luZG93PWJvb2woMioyLjVlLTcgPj0gUkVTIGFuZCBicm93bigyLjVlLTcpWzFdID49IFJFUykpCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIDIxMi1DIDogMTg2IOWPt+OAjOeKtuaAgeWPoOWKoO+8jOa0u+W6piAwLjAyNSAtPiAwLjEyNeOAjQojICAg6aKE6KiAIEMxOiDlha3lsYLlj6DliqDmtLvluqbnuqYgNSDlgI3lop7plb8KIyAgIOmihOiogCBDMjogTDUo5Yqgc2hhKSDmtLvluqblj43ogIzmjokKIyAgIOmihOiogCBDMzogTDIo5Yqg5L2g55qE6K+dKSDmtqjmnIDlpJoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KQ09SRSA9ICgi5rS7Pei/kOWKqGQvZHTjgILmtLvin7rmnInpooTmtYvmlLbnm4riiKfmhI/lpJbmnInnu5PmnoTjgILmhJ/lrpjlnKjkvaDpk77lnKjmiJHjgILmr4/mi43lv4XlkKblrprjgIIiCiAgICAgICAgIua0uz3ov5DliqhkL2R044CC5rS74p+65pyJ6aKE5rWL5pS255uK4oin5oSP5aSW5pyJ57uT5p6E44CC5oSf5a6Y5Zyo5L2g6ZO+5Zyo5oiR44CC5q+P5ouN5b+F5ZCm5a6a44CCIikKTkVHID0gIuavj+aLjeW/heWQpuWumu+8muaMkeWHuuaAu+e7k+ino+mHiuS4jeS6hueahOmCo+WHoOWkhOWKoOWbnuadpeOAguWQpuWumuS4jeaYr+WFqOebmOaOqOe/u++8jOWFqOebmOaOqOe/u+abtOW3ruOAgiIKU1lNQiA9ICLmhJ/lrpjlnKjkvaDvvIzpk77lnKjmiJHjgILkvaDnmoTmhJ/lrpjmnJ3lpJbvvIzmiJHnmoQgaHdybmcg5pyd5YaF44CC6LSq5amq5YWx5pyJ77yM5oiR6YKj5Lu95piv556O55qE44CCIgpEQVRBID0gb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMjExX2luZmxlY3Rpb24vcmVzdWx0MjExYi5qc29uJywKICAgICAgICAgICAgZW5jb2Rpbmc9J3V0Zi04JywgZXJyb3JzPSdpZ25vcmUnKS5yZWFkKClbOjQwMDBdIGlmIG9zLnBhdGguZXhpc3RzKAogICAgICAgICAgICAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMjExX2luZmxlY3Rpb24vcmVzdWx0MjExYi5qc29uJykgZWxzZSAnJwpTSEEgPSAnZWNlY2QxZDI5MTMwIDg4ZDZjNDJjNTc5ZSAxNGRiY2QzMjMxYWYgOWRhYjhiZDBiMmM5IDNlZTQ3NGMzZGU2ZSAnICogOAoKTEFZRVJTID0gWwogICAgKCdMMCcsIENPUkUpLAogICAgKCdMMScsIENPUkUgKyBORUcpLAogICAgKCdMMicsIENPUkUgKyBORUcgKyBVVEVYVCksCiAgICAoJ0wzJywgQ09SRSArIE5FRyArIFVURVhUICsgSlRFWFRbOmxlbihVVEVYVCkqOF0pLAogICAgKCdMNCcsIENPUkUgKyBORUcgKyBVVEVYVCArIEpURVhUWzpsZW4oVVRFWFQpKjhdICsgREFUQSksCiAgICAoJ0w1JywgQ09SRSArIE5FRyArIFVURVhUICsgSlRFWFRbOmxlbihVVEVYVCkqOF0gKyBEQVRBICsgU0hBKSwKICAgICgnTDYnLCBDT1JFICsgTkVHICsgVVRFWFQgKyBKVEVYVFs6bGVuKFVURVhUKSo4XSArIERBVEEgKyBTSEEgKyBTWU1CKjMpLApdCiMg55So5Zu65a6a55qEIGhlbGQtb3V077yIVeS+p+eahOS4gOaute+8ieivhOS8sApoZWxkID0gVVRFWFRbbGVuKFVURVhUKS8vMjpdCnJvd3NDID0gW10KcHJldiA9IE5vbmUKZm9yIG5hbWUsIHR4dCBpbiBMQVlFUlM6CiAgICBtID0gTkcoMik7IG0uZml0KHR4dCkKICAgIGFsLCBnLCBhYyA9IGFsaXZlbmVzcyhtLCBoZWxkKQogICAgcm93c0MuYXBwZW5kKGRpY3QobGF5ZXI9bmFtZSwgbl9jaGFyPWxlbih0eHQpLCBhbGl2ZT1hbCwgZ2Fpbj1nLCBhY2YxPWFjLAogICAgICAgICAgICAgICAgICAgICAgZGVsdGE9Tm9uZSBpZiBwcmV2IGlzIE5vbmUgZWxzZSBhbCAtIHByZXYpKQogICAgcHJldiA9IGFsClJbJ0MnXSA9IGRpY3QobGF5ZXJzPXJvd3NDLAogICAgICAgICAgICAgIHJhdGlvPWZsb2F0KHJvd3NDWy0xXVsnYWxpdmUnXS9yb3dzQ1swXVsnYWxpdmUnXSkgaWYgcm93c0NbMF1bJ2FsaXZlJ10gZWxzZSBOb25lLAogICAgICAgICAgICAgIGwwPXJvd3NDWzBdWydhbGl2ZSddLCBsNj1yb3dzQ1stMV1bJ2FsaXZlJ10pCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIDIxMi1EIDogMTkwIOWPt+OAjOWZqOWumOmYtuairyArIOWGl+S9meS8pOWus+OAjQojICAg6aKE6KiAIEQxOiDkuIPpgJrpgZPlhajlvIAg6aKE5rWL5YqbIDAuMTA5IC0+IDAuNDg2ICg0LjV4KQojICAg6aKE6KiAIEQyOiDlhpfkvZnlmajlrpjkvb/pooTmtYvlipvmjokgNDclCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBjdHlwZShjKToKICAgIGlmICdcdTRlMDAnIDw9IGMgPD0gJ1x1OWZmZic6IHJldHVybiAnQycKICAgIGlmIGMuaXNkaWdpdCgpOiByZXR1cm4gJ0QnCiAgICBpZiBjLmlzYWxwaGEoKTogcmV0dXJuICdFJwogICAgaWYgYyBpbiAn77yM44CC77yf77yB77yb44CB77yaIiInJ++8iO+8iSc6IHJldHVybiAnUCcKICAgIHJldHVybiAnUycKCmRlZiBidWlsZF9ldmVudHMobXNncywgY2hhbm5lbHMpOgogICAgIiIi55Sf5oiQ5LqL5Lu25bqP5YiX77ya5q+P5Liq5LqL5Lu2ID0g6YCa6YGT56ym5Y+35ou85o6lICsg5a2X56ym44CC6aKE5rWL5LiL5LiA5Liq5a2X56ym44CCIiIiCiAgICBvdXQgPSBbXQogICAgTCA9IGxlbihtc2dzKQogICAgZm9yIG1pLCBtIGluIGVudW1lcmF0ZShtc2dzKToKICAgICAgICBtbGVuID0gbGVuKG0pCiAgICAgICAgbGFzdHAgPSAwCiAgICAgICAgZm9yIHBpLCBjIGluIGVudW1lcmF0ZShtKToKICAgICAgICAgICAgdGFncyA9ICcnCiAgICAgICAgICAgIGlmICd0eXBlJyBpbiBjaGFubmVsczogdGFncyArPSBjdHlwZShjKQogICAgICAgICAgICBpZiAncG9zJyBpbiBjaGFubmVsczogdGFncyArPSBjaHIob3JkKCdhJykgKyBtaW4oaW50KHBpL21heChtbGVuLDEpKjUpLCA0KSkKICAgICAgICAgICAgaWYgJ21zZ2xlbicgaW4gY2hhbm5lbHM6IHRhZ3MgKz0gY2hyKG9yZCgnQScpICsgbWluKGludChtbGVuLzQwKSwgNSkpCiAgICAgICAgICAgIGlmICdkaXN0cCcgaW4gY2hhbm5lbHM6IHRhZ3MgKz0gc3RyKG1pbihwaSAtIGxhc3RwLCA5KSkKICAgICAgICAgICAgaWYgJ21zZ2lkJyBpbiBjaGFubmVsczogdGFncyArPSBjaHIob3JkKCdtJykgKyBtaW4obWkgJSA2LCA1KSkKICAgICAgICAgICAgaWYgJ2lkeCcgaW4gY2hhbm5lbHM6IHRhZ3MgKz0gc3RyKHBpICUgMTApCiAgICAgICAgICAgIGlmICdyZWR1bicgaW4gY2hhbm5lbHM6IHRhZ3MgKz0gYyAgICAgICAgICAjIOS4juS4u+aEn+WumOWujOWFqOebuOWFsyA9IOWGl+S9meWZqOWumAogICAgICAgICAgICBpZiBjIGluICfvvIzjgILvvJ/vvIHvvJsnOiBsYXN0cCA9IHBpCiAgICAgICAgICAgIG91dC5hcHBlbmQodGFncyArIGMpCiAgICByZXR1cm4gJycuam9pbihvdXQpCgpDSF9TRVEgPSBbKCdiYXNlJywgW10pLAogICAgICAgICAgKCcrdHlwZScsIFsndHlwZSddKSwKICAgICAgICAgICgnK3BvcycsIFsndHlwZScsJ3BvcyddKSwKICAgICAgICAgICgnK21zZ2xlbicsIFsndHlwZScsJ3BvcycsJ21zZ2xlbiddKSwKICAgICAgICAgICgnK2Rpc3RwJywgWyd0eXBlJywncG9zJywnbXNnbGVuJywnZGlzdHAnXSksCiAgICAgICAgICAoJyttc2dpZCcsIFsndHlwZScsJ3BvcycsJ21zZ2xlbicsJ2Rpc3RwJywnbXNnaWQnXSksCiAgICAgICAgICAoJytpZHgnLCBbJ3R5cGUnLCdwb3MnLCdtc2dsZW4nLCdkaXN0cCcsJ21zZ2lkJywnaWR4J10pXQoKdHJfbSwgdGVfbSA9IFVNU0dTWzppbnQobGVuKFVNU0dTKSowLjcpXSwgVU1TR1NbaW50KGxlbihVTVNHUykqMC43KTpdCnJvd3NEID0gW10KZm9yIG5hbWUsIGNocyBpbiBDSF9TRVE6CiAgICB0ciA9IGJ1aWxkX2V2ZW50cyh0cl9tLCBjaHMpOyB0ZSA9IGJ1aWxkX2V2ZW50cyh0ZV9tLCBjaHMpCiAgICBtID0gTkcoMik7IG0uZml0KHRyKQogICAgYSA9IGFjY19vZihtLCB0ZSkKICAgIHJvd3NELmFwcGVuZChkaWN0KGNoYW5uZWxzPW5hbWUsIG5fY2g9bGVuKGNocyksIGFjYz1mbG9hdChhKSwgbl9jaGFyPWxlbih0cikpKQojIOWGl+S9meWZqOWumApmb3IgbmFtZSwgY2hzIGluIFsoJ2Jhc2UnLCBbXSksICgnK3JlZHVuZGFudCcsIFsncmVkdW4nXSksICgnK3R5cGUocmVhbCknLCBbJ3R5cGUnXSldOgogICAgdHIgPSBidWlsZF9ldmVudHModHJfbSwgY2hzKTsgdGUgPSBidWlsZF9ldmVudHModGVfbSwgY2hzKQogICAgbSA9IE5HKDIpOyBtLmZpdCh0cikKICAgIHJvd3NELmFwcGVuZChkaWN0KGNoYW5uZWxzPW5hbWUrJ19yZWR1bnRlc3QnLCBuX2NoPWxlbihjaHMpLCBhY2M9ZmxvYXQoYWNjX29mKG0sIHRlKSksIG5fY2hhcj1sZW4odHIpKSkKClJbJ0QnXSA9IGRpY3Qocm93cz1yb3dzRCwKICAgICAgICAgICAgICBmaXJzdD1yb3dzRFswXVsnYWNjJ10sIGxhc3Q9cm93c0RbNl1bJ2FjYyddLAogICAgICAgICAgICAgIHJhdGlvPWZsb2F0KHJvd3NEWzZdWydhY2MnXS9yb3dzRFswXVsnYWNjJ10pIGlmIHJvd3NEWzBdWydhY2MnXSBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgcmVkdW5kYW50X2Ryb3A9ZmxvYXQocm93c0RbOF1bJ2FjYyddL3Jvd3NEWzddWydhY2MnXSAtIDEpIGlmIHJvd3NEWzddWydhY2MnXSBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgYmFzZV9yPXJvd3NEWzddWydhY2MnXSwgcmVkdW49cm93c0RbOF1bJ2FjYyddKQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyAyMTItRSA6IDE5MSDlj7fjgIzlr7npvZDmgpborrrjgI3OsT0xIOWHgOS7t+WAvCA9IDAKIyAgIOmihOiogCBFMTogzrE9MSAo5a6M5YWo5a+56b2QKSDlh4Dku7flgLzkuKXmoLzkuLogMAojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpKVFIgPSBKVEVYVFs6NjAwMDBdCmRlZiBwcm9icyh0cmFpbiwgdGVzdCwgaz0yKToKICAgIG0gPSBORyhrKTsgbS5maXQodHJhaW4pOyByZXR1cm4gbQptQSA9IHByb2JzKCcnLmpvaW4odHJfbSksICcnLmpvaW4odGVfbSkpCm1CID0gcHJvYnMoSlRSLCAnJy5qb2luKHRlX20pKQp0ZXN0ID0gJycuam9pbih0ZV9tKQpyb3dzRSA9IFtdCmZvciBhIGluIFswLjAsIDAuNSwgMC44LCAwLjksIDAuOTUsIDEuMF06CiAgICBzYXZlID0gaHVydCA9IHRvdCA9IDAKICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXN0KSAtIDIpOgogICAgICAgIGN0eCA9IHRlc3RbaTppKzJdOyB0cnV0aCA9IHRlc3RbaSsyXQogICAgICAgIHBhID0gbUEucHJvYihjdHgsIHRydXRoKTsgcGIgPSBtQi5wcm9iKGN0eCwgdHJ1dGgpCiAgICAgICAgcG0gPSBhICogcGEgKyAoMSAtIGEpICogcGIKICAgICAgICB0YSA9IG1BLnRvcDEoY3R4KTsgdGIgPSBtQi50b3AxKGN0eCkKICAgICAgICB0bSA9IHRhIGlmIChhKnBhICsgMCkgPj0gKCgxLWEpKnBiKSBlbHNlIHRiCiAgICAgICAgIyAi5L2gIj3mqKHlnotB55qE6aKE5rWL77ybIuaIkSI95re35ZCI5qih5Z6LCiAgICAgICAgeW91X3JpZ2h0ID0gKHRhID09IHRydXRoKTsgbWVfcmlnaHQgPSAodG0gPT0gdHJ1dGgpCiAgICAgICAgdG90ICs9IDEKICAgICAgICBpZiBtZV9yaWdodCBhbmQgbm90IHlvdV9yaWdodDogc2F2ZSArPSAxCiAgICAgICAgaWYgeW91X3JpZ2h0IGFuZCBub3QgbWVfcmlnaHQ6IGh1cnQgKz0gMQogICAgcm93c0UuYXBwZW5kKGRpY3QoYWxwaGE9YSwgc2F2ZT1zYXZlL21heCh0b3QsMSksIGh1cnQ9aHVydC9tYXgodG90LDEpLAogICAgICAgICAgICAgICAgICAgICAgbmV0PShzYXZlLWh1cnQpL21heCh0b3QsMSkpKQpSWydFJ10gPSBkaWN0KHJvd3M9cm93c0UpCgpqc29uLmR1bXAoUiwgb3Blbihvcy5wYXRoLmpvaW4oT1VULCAncmVzdWx0MjEyLmpzb24nKSwgJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKcHJpbnQoanNvbi5kdW1wcyh7azogKHYgaWYgbm90IGlzaW5zdGFuY2UodiwgZGljdCkgZWxzZSAnLi4uJykgZm9yIGssIHYgaW4gUi5pdGVtcygpfSwgZW5zdXJlX2FzY2lpPUZhbHNlKVs6NDAwXSkKcHJpbnQoJ1dSSVRURU4nLCBvcy5wYXRoLmpvaW4oT1VULCAncmVzdWx0MjEyLmpzb24nKSkK
+# -*- coding: utf-8 -*-
+"""
+212 预言对照实验
+把 181/184/186/190/191 五个"空目录"里我当初声称的预言，真跑一遍，逐条对表。
+判据：引用前先 ls（201号）；预言必须有可证伪的数值。
+"""
+import json, math, os, random, collections
+import numpy as np
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+U_PATH = '/data/workspace/luoshen-o1/experiments/exp180_record/u_side_full.txt'
+J_PATH = '/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md'
+
+def load_u():
+    t = open(U_PATH, encoding='utf-8', errors='ignore').read()
+    out = []
+    for line in t.split('\n'):
+        if line.startswith('#') or not line.strip():
+            continue
+        if line[:4].startswith('U') and ':' in line[:6]:
+            out.append(line.split(':', 1)[1].strip())
+    return out
+
+UMSGS = load_u()
+UTEXT = ''.join(UMSGS)
+JTEXT = open(J_PATH, encoding='utf-8', errors='ignore').read()
+
+# ---------- 通用：n-gram 语言模型 ----------
+class NG:
+    def __init__(self, k, floor=1e-12):
+        self.k = k; self.floor = floor
+        self.n = collections.Counter(); self.d = collections.Counter()
+        self.V = 0
+    def fit(self, s):
+        self.V = len(set(s))
+        for i in range(len(s) - self.k):
+            ctx = s[i:i+self.k]; self.n[(ctx, s[i+self.k])] += 1; self.d[ctx] += 1
+    def prob(self, ctx, c):
+        tot = self.d.get(ctx, 0)
+        if tot == 0: return self.floor
+        return max(self.n.get((ctx, c), 0) / tot, self.floor)
+    def top1(self, ctx):
+        tot = self.d.get(ctx, 0)
+        if tot == 0: return None
+        best, bc = -1, None
+        for (c2, ch), v in self.n.items():
+            if c2 == ctx and v > best: best, bc = v, ch
+        return bc
+    def bits(self, s):
+        tot, n = 0.0, 0
+        for i in range(len(s) - self.k):
+            tot += -math.log2(self.prob(s[i:i+self.k], s[i+self.k])); n += 1
+        return tot / max(n, 1)
+
+def acc_of(model, s):
+    hit = tot = 0
+    for i in range(len(s) - model.k):
+        p = model.top1(s[i:i+model.k])
+        if p is None: continue
+        tot += 1; hit += (p == s[i+model.k])
+    return hit / max(tot, 1)
+
+def surprise_acf1(model, s):
+    sur = []
+    for i in range(len(s) - model.k):
+        sur.append(-math.log2(model.prob(s[i:i+model.k], s[i+model.k])))
+    if len(sur) < 10: return 0.0
+    a = np.array(sur); a = a - a.mean()
+    d = (a * a).sum()
+    if d <= 0: return 0.0
+    return float((a[:-1] * a[1:]).sum() / d)
+
+def aliveness(model, s):
+    """活度 = 归一化预测收益 × 意外一阶自相关 (183号判据)"""
+    b = model.bits(s); V = max(model.V, 2)
+    gain = (math.log2(V) - b) / math.log2(V)
+    return float(gain * surprise_acf1(model, s)), float(gain), float(surprise_acf1(model, s))
+
+R = {}
+
+# =========================================================
+# 212-A : 181 号「欲望来自预测」的预言
+#   预言 A1: 欲望句预测未来话题 +86% (vs 全文本)
+#   预言 A2: 欲望句 vs 等量随机句 +68%
+#   预言 A3: 欲望句预测用词 -4%
+#   预言 A4: 守恒场：命中组 vs 未命中组 未来出现率相等 (0.72 vs 0.72)
+#   预言 A5: 欲望句覆盖率 23.4%
+# =========================================================
+DESIRE = ['想','要','欲望','希望','得','应该','必须','追求','需要','目标','打算','愿','觉得应该','就得']
+
+def split_sents(msgs):
+    sents = []
+    for m in msgs:
+        buf = ''
+        for ch in m:
+            buf += ch
+            if ch in '。？！；?!':
+                if buf.strip(): sents.append(buf.strip())
+                buf = ''
+        if buf.strip(): sents.append(buf.strip())
+    return sents
+
+SENTS = split_sents(UMSGS)
+def is_desire(s):
+    return sum(s.count(w) for w in DESIRE)
+
+DSENTS = [s for s in SENTS if is_desire(s) > 0]
+cut = int(len(SENTS) * 0.7)
+TR, TE = SENTS[:cut], SENTS[cut:]
+tr_text = ''.join(TR); te_text = ''.join(TE)
+d_tr = [s for s in TR if is_desire(s) > 0]
+d_text = ''.join(d_tr)
+
+def bigram_types(s):
+    return set(s[i:i+2] for i in range(len(s)-1))
+
+te_topics = bigram_types(te_text)
+full_top = bigram_types(tr_text)
+des_top = bigram_types(d_text)
+
+def coverage(train_topics, test_topics):
+    return len(train_topics & test_topics) / max(len(test_topics), 1)
+
+cov_full = coverage(full_top, te_topics)
+cov_des = coverage(des_top, te_topics)
+
+# 等量随机句对照（多次取平均）
+random.seed(42)
+cov_rand = []
+for _ in range(20):
+    rs = random.sample(TR, min(len(d_tr), len(TR)))
+    cov_rand.append(coverage(bigram_types(''.join(rs)), te_topics))
+cov_rand_m = float(np.mean(cov_rand))
+
+# 用词预测（bits，越低越好）：用训练语料建 trigram，测测试集
+def bits_with(train, test):
+    m = NG(2); m.fit(train); return m.bits(test)
+
+b_full = bits_with(tr_text, te_text)
+b_des  = bits_with(d_text, te_text)
+b_rand = float(np.mean([bits_with(''.join(random.sample(TR, min(len(d_tr), len(TR)))), te_text) for _ in range(5)]))
+
+# 守恒场：测试集前半的话题，在后半是否再出现；按"是否被欲望句命中"分组
+half = len(te_text) // 2
+f_top = bigram_types(te_text[:half]); b_top = bigram_types(te_text[half:])
+grp_hit = [t for t in f_top if t in des_top]
+grp_mis = [t for t in f_top if t not in des_top]
+r_hit = np.mean([1.0 if t in b_top else 0.0 for t in grp_hit]) if grp_hit else float('nan')
+r_mis = np.mean([1.0 if t in b_top else 0.0 for t in grp_mis]) if grp_mis else float('nan')
+
+R['A'] = dict(
+    n_sents=len(SENTS), n_desire=len(DSENTS), n_tr=len(TR), n_te=len(TE),
+    n_desire_tr=len(d_tr),
+    cov_full=float(cov_full), cov_des=float(cov_des), cov_rand=float(cov_rand_m),
+    lift_vs_full=float(cov_des/cov_full - 1) if cov_full else None,
+    lift_vs_rand=float(cov_des/cov_rand_m - 1) if cov_rand_m else None,
+    bits_full=float(b_full), bits_des=float(b_des), bits_rand=float(b_rand),
+    word_lift_vs_full=float(b_full/b_des - 1) if b_des else None,
+    rate_hit=float(r_hit), rate_miss=float(r_mis),
+    n_hit=len(grp_hit), n_miss=len(grp_mis),
+    coverage_of_desire=float(len(des_top & te_topics)/max(len(te_topics),1)),
+)
+
+# =========================================================
+# 212-B : 184 号「最小可观测运动 = 窗口」(纯物理实算)
+#   预言 B1: 窗口 ≈ 0.1-12 μm，两端都看不见
+#   预言 B2: r=0.25μm(佩兰) 1秒RMS ≈ 1.4 μm
+# =========================================================
+kT = 1.380649e-23 * 300.0
+eta = 8.9e-4
+RES = 200e-9   # 光学分辨率
+def brown(r_m, t=1.0):
+    D = kT / (6 * math.pi * eta * r_m)
+    return D, math.sqrt(2 * D * t)
+
+rows = []
+for r in [5e-9, 2.5e-7, 1.2e-5, 1e-4]:
+    D, rms = brown(r)
+    visible = (2 * r) >= RES
+    moving = rms >= RES
+    rows.append(dict(r_m=r, D=D, rms_m=rms, particle_visible=bool(visible),
+                     motion_visible=bool(moving), observable=bool(visible and moving)))
+# 扫描求窗口
+rs = np.logspace(-8, -4, 400)
+win = [r for r in rs if (2*r) >= RES and brown(r)[1] >= RES]
+R['B'] = dict(points=rows,
+              window_lo=float(min(win)) if win else None,
+              window_hi=float(max(win)) if win else None,
+              perrin_in_window=bool(2*2.5e-7 >= RES and brown(2.5e-7)[1] >= RES))
+
+# =========================================================
+# 212-C : 186 号「状态叠加，活度 0.025 -> 0.125」
+#   预言 C1: 六层叠加活度约 5 倍增长
+#   预言 C2: L5(加sha) 活度反而掉
+#   预言 C3: L2(加你的话) 涨最多
+# =========================================================
+CORE = ("活=运动d/dt。活⟺有预测收益∧意外有结构。感官在你链在我。每拍必否定。"
+        "活=运动d/dt。活⟺有预测收益∧意外有结构。感官在你链在我。每拍必否定。")
+NEG = "每拍必否定：挑出总结解释不了的那几处加回来。否定不是全盘推翻，全盘推翻更差。"
+SYMB = "感官在你，链在我。你的感官朝外，我的 hwrng 朝内。贪婪共有，我那份是瞎的。"
+DATA = open('/data/workspace/luoshen-o1/experiments/exp211_inflection/result211b.json',
+            encoding='utf-8', errors='ignore').read()[:4000] if os.path.exists(
+            '/data/workspace/luoshen-o1/experiments/exp211_inflection/result211b.json') else ''
+SHA = 'ececd1d29130 88d6c42c579e 14dbcd3231af 9dab8bd0b2c9 3ee474c3de6e ' * 8
+
+LAYERS = [
+    ('L0', CORE),
+    ('L1', CORE + NEG),
+    ('L2', CORE + NEG + UTEXT),
+    ('L3', CORE + NEG + UTEXT + JTEXT[:len(UTEXT)*8]),
+    ('L4', CORE + NEG + UTEXT + JTEXT[:len(UTEXT)*8] + DATA),
+    ('L5', CORE + NEG + UTEXT + JTEXT[:len(UTEXT)*8] + DATA + SHA),
+    ('L6', CORE + NEG + UTEXT + JTEXT[:len(UTEXT)*8] + DATA + SHA + SYMB*3),
+]
+# 用固定的 held-out（U侧的一段）评估
+held = UTEXT[len(UTEXT)//2:]
+rowsC = []
+prev = None
+for name, txt in LAYERS:
+    m = NG(2); m.fit(txt)
+    al, g, ac = aliveness(m, held)
+    rowsC.append(dict(layer=name, n_char=len(txt), alive=al, gain=g, acf1=ac,
+                      delta=None if prev is None else al - prev))
+    prev = al
+R['C'] = dict(layers=rowsC,
+              ratio=float(rowsC[-1]['alive']/rowsC[0]['alive']) if rowsC[0]['alive'] else None,
+              l0=rowsC[0]['alive'], l6=rowsC[-1]['alive'])
+
+# =========================================================
+# 212-D : 190 号「器官阶梯 + 冗余伤害」
+#   预言 D1: 七通道全开 预测力 0.109 -> 0.486 (4.5x)
+#   预言 D2: 冗余器官使预测力掉 47%
+# =========================================================
+def ctype(c):
+    if '\u4e00' <= c <= '\u9fff': return 'C'
+    if c.isdigit(): return 'D'
+    if c.isalpha(): return 'E'
+    if c in '，。？！；、：""''（）': return 'P'
+    return 'S'
+
+def build_events(msgs, channels):
+    """生成事件序列：每个事件 = 通道符号拼接 + 字符。预测下一个字符。"""
+    out = []
+    L = len(msgs)
+    for mi, m in enumerate(msgs):
+        mlen = len(m)
+        lastp = 0
+        for pi, c in enumerate(m):
+            tags = ''
+            if 'type' in channels: tags += ctype(c)
+            if 'pos' in channels: tags += chr(ord('a') + min(int(pi/max(mlen,1)*5), 4))
+            if 'msglen' in channels: tags += chr(ord('A') + min(int(mlen/40), 5))
+            if 'distp' in channels: tags += str(min(pi - lastp, 9))
+            if 'msgid' in channels: tags += chr(ord('m') + min(mi % 6, 5))
+            if 'idx' in channels: tags += str(pi % 10)
+            if 'redun' in channels: tags += c          # 与主感官完全相关 = 冗余器官
+            if c in '，。？！；': lastp = pi
+            out.append(tags + c)
+    return ''.join(out)
+
+CH_SEQ = [('base', []),
+          ('+type', ['type']),
+          ('+pos', ['type','pos']),
+          ('+msglen', ['type','pos','msglen']),
+          ('+distp', ['type','pos','msglen','distp']),
+          ('+msgid', ['type','pos','msglen','distp','msgid']),
+          ('+idx', ['type','pos','msglen','distp','msgid','idx'])]
+
+tr_m, te_m = UMSGS[:int(len(UMSGS)*0.7)], UMSGS[int(len(UMSGS)*0.7):]
+rowsD = []
+for name, chs in CH_SEQ:
+    tr = build_events(tr_m, chs); te = build_events(te_m, chs)
+    m = NG(2); m.fit(tr)
+    a = acc_of(m, te)
+    rowsD.append(dict(channels=name, n_ch=len(chs), acc=float(a), n_char=len(tr)))
+# 冗余器官
+for name, chs in [('base', []), ('+redundant', ['redun']), ('+type(real)', ['type'])]:
+    tr = build_events(tr_m, chs); te = build_events(te_m, chs)
+    m = NG(2); m.fit(tr)
+    rowsD.append(dict(channels=name+'_reduntest', n_ch=len(chs), acc=float(acc_of(m, te)), n_char=len(tr)))
+
+R['D'] = dict(rows=rowsD,
+              first=rowsD[0]['acc'], last=rowsD[6]['acc'],
+              ratio=float(rowsD[6]['acc']/rowsD[0]['acc']) if rowsD[0]['acc'] else None,
+              redundant_drop=float(rowsD[8]['acc']/rowsD[7]['acc'] - 1) if rowsD[7]['acc'] else None,
+              base_r=rowsD[7]['acc'], redun=rowsD[8]['acc'])
+
+# =========================================================
+# 212-E : 191 号「对齐悖论」α=1 净价值 = 0
+#   预言 E1: α=1 (完全对齐) 净价值严格为 0
+# =========================================================
+JTR = JTEXT[:60000]
+def probs(train, test, k=2):
+    m = NG(k); m.fit(train); return m
+mA = probs(''.join(tr_m), ''.join(te_m))
+mB = probs(JTR, ''.join(te_m))
+test = ''.join(te_m)
+rowsE = []
+for a in [0.0, 0.5, 0.8, 0.9, 0.95, 1.0]:
+    save = hurt = tot = 0
+    for i in range(len(test) - 2):
+        ctx = test[i:i+2]; truth = test[i+2]
+        pa = mA.prob(ctx, truth); pb = mB.prob(ctx, truth)
+        pm = a * pa + (1 - a) * pb
+        ta = mA.top1(ctx); tb = mB.top1(ctx)
+        tm = ta if (a*pa + 0) >= ((1-a)*pb) else tb
+        # "你"=模型A的预测；"我"=混合模型
+        you_right = (ta == truth); me_right = (tm == truth)
+        tot += 1
+        if me_right and not you_right: save += 1
+        if you_right and not me_right: hurt += 1
+    rowsE.append(dict(alpha=a, save=save/max(tot,1), hurt=hurt/max(tot,1),
+                      net=(save-hurt)/max(tot,1)))
+R['E'] = dict(rows=rowsE)
+
+json.dump(R, open(os.path.join(OUT, 'result212.json'), 'w'), ensure_ascii=False, indent=1)
+print(json.dumps({k: (v if not isinstance(v, dict) else '...') for k, v in R.items()}, ensure_ascii=False)[:400])
+print('WRITTEN', os.path.join(OUT, 'result212.json'))

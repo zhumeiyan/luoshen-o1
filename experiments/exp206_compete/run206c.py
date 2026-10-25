@@ -1,1 +1,162 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMjA2Yzog55Sf5oCB5L2N5YiG5YyW6IO95pWR5aSa5qC35oCn5ZCX77yfCjIwNmIg5pi+56S677ya5LiN5ZCMIGsg55qEIGFnZW50IOernuS6ieWQjOS4gOS7vei1hOa6kOOAgeWQjOS4gOS4qua1i+ivlembhiDihpIg5LiJ5qGj6KeE5qih5YWo6YOoIGVudHJvcHnihpIw44CB54Gt57udIDMvNOOAggpHYXVzZSDnq57kuonmjpLmlqXvvJrnlJ/mgIHkvY3nm7jlkIwg4oaSIOW/heeEtuaOkuaWpe+8jOaUueWIhumFjeinhOWIme+8iGFic29sdXRlL21hcmdpbmFs77yJ6YO95pWR5LiN5LqG44CCCuacrOWunumqjOaJq+aPjyLnlJ/mgIHkvY3liIbljJbluqYgZCLvvJoKICBkID0g5q+P5LiqIGFnZW50IOeLrOWNoOaVsOaNruauteeahOavlOS+i++8iDA95a6M5YWo5ZCM6LSo56ue5LqJ77yMMT3lrozlhajliIbljJbvvIkK55yL5YWx5a2Y77yIZW50cm9weSAvIOeBree7neaVsO+8ieWmguS9lemajyBkIOWPmOWMluOAggoiIiIKaW1wb3J0IGpzb24sIG9zLCBtYXRoLCByYW5kb20KZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKCkJBU0UgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiCkNPUlBVUyA9IGYie0JBU0V9L2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0IgpPVVQgPSBmIntCQVNFfS9leHBlcmltZW50cy9leHAyMDZfY29tcGV0ZSIKU0VFRCA9IDIwMjYxMDE5CgoKY2xhc3MgTkdyYW06CiAgICBkZWYgX19pbml0X18oc2VsZiwgaywgYWxwaGE9MC4wNSwgZ3Y9Tm9uZSk6CiAgICAgICAgc2VsZi5rLCBzZWxmLmFscGhhLCBzZWxmLmd2ID0gaywgYWxwaGEsIChndiBvciBzZXQoKSkKICAgICAgICBzZWxmLmMgPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGZsb2F0KSkKICAgICAgICBzZWxmLnQgPSBkZWZhdWx0ZGljdChmbG9hdCkKICAgICAgICBzZWxmLnZvY2FiID0gc2V0KCkKCiAgICBkZWYgdHJhaW4oc2VsZiwgdGV4dCk6CiAgICAgICAgayA9IHNlbGYuawogICAgICAgIGMsIHQsIHZiID0gc2VsZi5jLCBzZWxmLnQsIHNlbGYudm9jYWIKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4odGV4dCkgLSBrKToKICAgICAgICAgICAgY3R4LCBjaCA9IHRleHRbaTppICsga10sIHRleHRbaSArIGtdCiAgICAgICAgICAgIGNbY3R4XVtjaF0gKz0gMS4wCiAgICAgICAgICAgIHRbY3R4XSArPSAxLjAKICAgICAgICAgICAgdmIuYWRkKGNoKQoKICAgIGRlZiBwcm9iKHNlbGYsIGN0eCwgY2gpOgogICAgICAgIFYgPSBtYXgobGVuKHNlbGYudm9jYWIgfCBzZWxmLmd2KSwgMSkKICAgICAgICBjYyA9IHNlbGYuYy5nZXQoY3R4KQogICAgICAgIHJldHVybiAoKGNjLmdldChjaCwgMC4wKSBpZiBjYyBlbHNlIDAuMCkgKyBzZWxmLmFscGhhKSAvIChzZWxmLnQuZ2V0KGN0eCwgMC4wKSArIHNlbGYuYWxwaGEgKiBWKQoKCmRlZiBhbGlnbmVkX2JpdHMobW9kZWxzLCB0ZXh0KToKICAgIGttYXggPSBtYXgobS5rIGZvciBtIGluIG1vZGVscykKICAgIHJlcyA9IHt9CiAgICBmb3IgbSBpbiBtb2RlbHM6CiAgICAgICAgdG90LCBuID0gMC4wLCAwCiAgICAgICAgZm9yIHQgaW4gcmFuZ2Uoa21heCwgbGVuKHRleHQpKToKICAgICAgICAgICAgdG90ICs9IC1tYXRoLmxvZzIobWF4KG0ucHJvYih0ZXh0W3QgLSBtLms6dF0sIHRleHRbdF0pLCAxZS0xMikpCiAgICAgICAgICAgIG4gKz0gMQogICAgICAgIHJlc1tpZChtKV0gPSAodG90IC8gbikgaWYgbiBlbHNlIDk5LjAKICAgIHJldHVybiByZXMKCgpkZWYgZW5zX2JpdHMobW9kZWxzLCB0ZXh0KToKICAgIGttYXggPSBtYXgobS5rIGZvciBtIGluIG1vZGVscykKICAgIGlmIGxlbih0ZXh0KSA8PSBrbWF4OgogICAgICAgIHJldHVybiBOb25lCiAgICB3ID0gMS4wIC8gbGVuKG1vZGVscykKICAgIHRvdCwgbiA9IDAuMCwgMAogICAgZm9yIHQgaW4gcmFuZ2Uoa21heCwgbGVuKHRleHQpKToKICAgICAgICBwID0gc3VtKHcgKiBtLnByb2IodGV4dFt0IC0gbS5rOnRdLCB0ZXh0W3RdKSBmb3IgbSBpbiBtb2RlbHMpCiAgICAgICAgdG90ICs9IC1tYXRoLmxvZzIobWF4KHAsIDFlLTEyKSkKICAgICAgICBuICs9IDEKICAgIHJldHVybiB0b3QgLyBuCgoKZGVmIHNhbXBsZV90ZXh0KHNyYywgbl90b2ssIHJuZywgc2VnPTQwKToKICAgIGlmIG5fdG9rIDw9IDAgb3Igbm90IHNyYzoKICAgICAgICByZXR1cm4gIiIKICAgIGlmIGxlbihzcmMpIDw9IHNlZzoKICAgICAgICByZXR1cm4gKHNyYyAqIChpbnQobl90b2sgLy8gbGVuKHNyYykpICsgMSkpWzpuX3Rva10KICAgIG91dCwgZ290ID0gW10sIDAKICAgIHdoaWxlIGdvdCA8IG5fdG9rOgogICAgICAgIGkgPSBybmcucmFuZHJhbmdlKDAsIGxlbihzcmMpIC0gc2VnKQogICAgICAgIG91dC5hcHBlbmQoc3JjW2k6aSArIHNlZ10pCiAgICAgICAgZ290ICs9IHNlZwogICAgcmV0dXJuICIiLmpvaW4ob3V0KVs6bl90b2tdCgoKZGVmIGVudHJvcHkoc2gpOgogICAgcyA9IFt4IGZvciB4IGluIHNoIGlmIHggPiAxZS0xMl0KICAgIHRvdCA9IHN1bShzKQogICAgaWYgdG90IDw9IDA6CiAgICAgICAgcmV0dXJuIDAuMAogICAgcmV0dXJuIC1zdW0oKHggLyB0b3QpICogbWF0aC5sb2coeCAvIHRvdCkgZm9yIHggaW4gcykKCgpkZWYgbWFpbigpOgogICAgbGluZXMgPSBbbC5zdHJpcCgpIGZvciBsIGluIG9wZW4oQ09SUFVTLCBlbmNvZGluZz0idXRmLTgiKSBpZiBsLnN0cmlwKCldCiAgICBudCA9IG1heCg0LCBpbnQobGVuKGxpbmVzKSAqIDAuMikpCiAgICBwb29sID0gIlxuIi5qb2luKGxpbmVzWzotbnRdKQogICAgdGVzdCA9ICJcbiIuam9pbihsaW5lc1stbnQ6XSkKICAgIGd2ID0gc2V0KHBvb2wpIHwgc2V0KHRlc3QpCgogICAgTkFHID0gNAogICAgTCA9IGxlbihwb29sKQogICAgc2VnX2xlbiA9IEwgLy8gTkFHCiAgICBzZWdzID0gW3Bvb2xbaSAqIHNlZ19sZW46KGkgKyAxKSAqIHNlZ19sZW5dIGZvciBpIGluIHJhbmdlKE5BRyldCiAgICBpZiBOQUcgKiBzZWdfbGVuIDwgTDoKICAgICAgICBzZWdzWy0xXSArPSBwb29sW05BRyAqIHNlZ19sZW46XQoKICAgIEIgPSAyNDAwMAogICAgcm91bmRzID0gMTAKICAgIGJldGEgPSAzLjAKICAgIG91dCA9IHsibl9hZ2VudHMiOiBOQUcsICJCIjogQiwgInJvdW5kcyI6IHJvdW5kcywgInNjYW4iOiB7fX0KCiAgICBmb3IgZCBpbiAoMC4wLCAwLjI1LCAwLjUsIDAuNzUsIDEuMCk6CiAgICAgICAgZm9yIHNlZWQgaW4gKFNFRUQsIFNFRUQgKyAxLCBTRUVEICsgMik6CiAgICAgICAgICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgICAgICAgICAgc2hhcmVzID0ge2k6IDEuMCAvIE5BRyBmb3IgaSBpbiByYW5nZShOQUcpfQogICAgICAgICAgICBlbnRzID0gW10KICAgICAgICAgICAgZm9yIHIgaW4gcmFuZ2Uocm91bmRzKToKICAgICAgICAgICAgICAgIG1vZGVscyA9IHt9CiAgICAgICAgICAgICAgICBmb3IgaSBpbiByYW5nZShOQUcpOgogICAgICAgICAgICAgICAgICAgIHRvayA9IGludChzaGFyZXNbaV0gKiBCKQogICAgICAgICAgICAgICAgICAgIG0gPSBOR3JhbSgyLCBndj1ndikKICAgICAgICAgICAgICAgICAgICBtLnRyYWluKHNhbXBsZV90ZXh0KHNlZ3NbaV0sIGludCh0b2sgKiBkKSwgcm5nKSkKICAgICAgICAgICAgICAgICAgICBtLnRyYWluKHNhbXBsZV90ZXh0KHBvb2wsIGludCh0b2sgKiAoMSAtIGQpKSwgcm5nKSkKICAgICAgICAgICAgICAgICAgICBtb2RlbHNbaV0gPSBtCiAgICAgICAgICAgICAgICBlbnRzLmFwcGVuZChyb3VuZChlbnRyb3B5KGxpc3Qoc2hhcmVzLnZhbHVlcygpKSksIDUpKQogICAgICAgICAgICAgICAgYWIgPSBhbGlnbmVkX2JpdHMobGlzdChtb2RlbHMudmFsdWVzKCkpLCB0ZXN0KQogICAgICAgICAgICAgICAgZml0ID0ge2k6IC1hYltpZChtb2RlbHNbaV0pXSBmb3IgaSBpbiByYW5nZShOQUcpfQogICAgICAgICAgICAgICAgdiA9IFtmaXRbaV0gZm9yIGkgaW4gcmFuZ2UoTkFHKV0KICAgICAgICAgICAgICAgIG11ID0gc3VtKHYpIC8gbGVuKHYpCiAgICAgICAgICAgICAgICBzZCA9IChzdW0oKHggLSBtdSkgKiogMiBmb3IgeCBpbiB2KSAvIGxlbih2KSkgKiogMC41IG9yIDEuMAogICAgICAgICAgICAgICAgbmV3ID0ge2k6IHNoYXJlc1tpXSAqIG1hdGguZXhwKGJldGEgKiAoZml0W2ldIC0gbXUpIC8gc2QpIGZvciBpIGluIHJhbmdlKE5BRyl9CiAgICAgICAgICAgICAgICB0b3QgPSBzdW0obmV3LnZhbHVlcygpKQogICAgICAgICAgICAgICAgc2hhcmVzID0ge2k6IG5ld1tpXSAvIHRvdCBmb3IgaSBpbiByYW5nZShOQUcpfQogICAgICAgICAgICBmbSA9IFtdCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKE5BRyk6CiAgICAgICAgICAgICAgICB0b2sgPSBpbnQoc2hhcmVzW2ldICogQikKICAgICAgICAgICAgICAgIG0gPSBOR3JhbSgyLCBndj1ndikKICAgICAgICAgICAgICAgIG0udHJhaW4oc2FtcGxlX3RleHQoc2Vnc1tpXSwgaW50KHRvayAqIGQpLCByYW5kb20uUmFuZG9tKHNlZWQgKyA1KSkpCiAgICAgICAgICAgICAgICBtLnRyYWluKHNhbXBsZV90ZXh0KHBvb2wsIGludCh0b2sgKiAoMSAtIGQpKSwgcmFuZG9tLlJhbmRvbShzZWVkICsgNikpKQogICAgICAgICAgICAgICAgZm0uYXBwZW5kKG0pCiAgICAgICAgICAgIGtleSA9IGYiZD17ZH0iCiAgICAgICAgICAgIG91dFsic2NhbiJdLnNldGRlZmF1bHQoa2V5LCBbXSkuYXBwZW5kKHsKICAgICAgICAgICAgICAgICJzZWVkIjogc2VlZCwKICAgICAgICAgICAgICAgICJlbnRyb3B5X2VuZCI6IHJvdW5kKGVudHJvcHkobGlzdChzaGFyZXMudmFsdWVzKCkpKSwgNSksCiAgICAgICAgICAgICAgICAibl9leHRpbmN0Ijogc3VtKDEgZm9yIGkgaW4gcmFuZ2UoTkFHKSBpZiBzaGFyZXNbaV0gPCAwLjAxKSwKICAgICAgICAgICAgICAgICJmaW5hbF9zaGFyZXMiOiBbcm91bmQoc2hhcmVzW2ldLCA1KSBmb3IgaSBpbiByYW5nZShOQUcpXSwKICAgICAgICAgICAgICAgICJzeXN0ZW1fYml0cyI6IHJvdW5kKGVuc19iaXRzKGZtLCB0ZXN0KSwgNSksCiAgICAgICAgICAgIH0pCiAgICAgICAgcm93cyA9IG91dFsic2NhbiJdW2YiZD17ZH0iXQogICAgICAgIGVlID0gW3hbImVudHJvcHlfZW5kIl0gZm9yIHggaW4gcm93c10KICAgICAgICBueCA9IFt4WyJuX2V4dGluY3QiXSBmb3IgeCBpbiByb3dzXQogICAgICAgIHNiID0gW3hbInN5c3RlbV9iaXRzIl0gZm9yIHggaW4gcm93c10KICAgICAgICBvdXRbInNjYW4iXVtmImQ9e2R9Il0gPSB7CiAgICAgICAgICAgICJydW5zIjogcm93cywKICAgICAgICAgICAgImVudHJvcHlfZW5kX21lYW4iOiByb3VuZChzdW0oZWUpIC8gbGVuKGVlKSwgNSksCiAgICAgICAgICAgICJuX2V4dGluY3RfbWVhbiI6IHJvdW5kKHN1bShueCkgLyBsZW4obngpLCAzKSwKICAgICAgICAgICAgInN5c3RlbV9iaXRzX21lYW4iOiByb3VuZChzdW0oc2IpIC8gbGVuKHNiKSwgNSksCiAgICAgICAgfQogICAgICAgIHByaW50KGYiW2Q9e2R9XSBlbnRyb3B5X2VuZD17b3V0WydzY2FuJ11bZidkPXtkfSddWydlbnRyb3B5X2VuZF9tZWFuJ119IGV4dGluY3Q9e291dFsnc2NhbiddW2YnZD17ZH0nXVsnbl9leHRpbmN0X21lYW4nXX0gc3lzX2JpdHM9e291dFsnc2NhbiddW2YnZD17ZH0nXVsnc3lzdGVtX2JpdHNfbWVhbiddfSIpCgogICAgd2l0aCBvcGVuKGYie09VVH0vcmVzdWx0MjA2Yy5qc29uIiwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChvdXQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludCgiW3NhdmVkXSIsIGYie09VVH0vcmVzdWx0MjA2Yy5qc29uIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+206c: 生态位分化能救多样性吗？
+206b 显示：不同 k 的 agent 竞争同一份资源、同一个测试集 → 三档规模全部 entropy→0、灭绝 3/4。
+Gause 竞争排斥：生态位相同 → 必然排斥，改分配规则（absolute/marginal）都救不了。
+本实验扫描"生态位分化度 d"：
+  d = 每个 agent 独占数据段的比例（0=完全同质竞争，1=完全分化）
+看共存（entropy / 灭绝数）如何随 d 变化。
+"""
+import json, os, math, random
+from collections import defaultdict
+
+BASE = "/data/workspace/luoshen-o1"
+CORPUS = f"{BASE}/experiments/exp180_record/u_side_full.txt"
+OUT = f"{BASE}/experiments/exp206_compete"
+SEED = 20261019
+
+
+class NGram:
+    def __init__(self, k, alpha=0.05, gv=None):
+        self.k, self.alpha, self.gv = k, alpha, (gv or set())
+        self.c = defaultdict(lambda: defaultdict(float))
+        self.t = defaultdict(float)
+        self.vocab = set()
+
+    def train(self, text):
+        k = self.k
+        c, t, vb = self.c, self.t, self.vocab
+        for i in range(len(text) - k):
+            ctx, ch = text[i:i + k], text[i + k]
+            c[ctx][ch] += 1.0
+            t[ctx] += 1.0
+            vb.add(ch)
+
+    def prob(self, ctx, ch):
+        V = max(len(self.vocab | self.gv), 1)
+        cc = self.c.get(ctx)
+        return ((cc.get(ch, 0.0) if cc else 0.0) + self.alpha) / (self.t.get(ctx, 0.0) + self.alpha * V)
+
+
+def aligned_bits(models, text):
+    kmax = max(m.k for m in models)
+    res = {}
+    for m in models:
+        tot, n = 0.0, 0
+        for t in range(kmax, len(text)):
+            tot += -math.log2(max(m.prob(text[t - m.k:t], text[t]), 1e-12))
+            n += 1
+        res[id(m)] = (tot / n) if n else 99.0
+    return res
+
+
+def ens_bits(models, text):
+    kmax = max(m.k for m in models)
+    if len(text) <= kmax:
+        return None
+    w = 1.0 / len(models)
+    tot, n = 0.0, 0
+    for t in range(kmax, len(text)):
+        p = sum(w * m.prob(text[t - m.k:t], text[t]) for m in models)
+        tot += -math.log2(max(p, 1e-12))
+        n += 1
+    return tot / n
+
+
+def sample_text(src, n_tok, rng, seg=40):
+    if n_tok <= 0 or not src:
+        return ""
+    if len(src) <= seg:
+        return (src * (int(n_tok // len(src)) + 1))[:n_tok]
+    out, got = [], 0
+    while got < n_tok:
+        i = rng.randrange(0, len(src) - seg)
+        out.append(src[i:i + seg])
+        got += seg
+    return "".join(out)[:n_tok]
+
+
+def entropy(sh):
+    s = [x for x in sh if x > 1e-12]
+    tot = sum(s)
+    if tot <= 0:
+        return 0.0
+    return -sum((x / tot) * math.log(x / tot) for x in s)
+
+
+def main():
+    lines = [l.strip() for l in open(CORPUS, encoding="utf-8") if l.strip()]
+    nt = max(4, int(len(lines) * 0.2))
+    pool = "\n".join(lines[:-nt])
+    test = "\n".join(lines[-nt:])
+    gv = set(pool) | set(test)
+
+    NAG = 4
+    L = len(pool)
+    seg_len = L // NAG
+    segs = [pool[i * seg_len:(i + 1) * seg_len] for i in range(NAG)]
+    if NAG * seg_len < L:
+        segs[-1] += pool[NAG * seg_len:]
+
+    B = 24000
+    rounds = 10
+    beta = 3.0
+    out = {"n_agents": NAG, "B": B, "rounds": rounds, "scan": {}}
+
+    for d in (0.0, 0.25, 0.5, 0.75, 1.0):
+        for seed in (SEED, SEED + 1, SEED + 2):
+            rng = random.Random(seed)
+            shares = {i: 1.0 / NAG for i in range(NAG)}
+            ents = []
+            for r in range(rounds):
+                models = {}
+                for i in range(NAG):
+                    tok = int(shares[i] * B)
+                    m = NGram(2, gv=gv)
+                    m.train(sample_text(segs[i], int(tok * d), rng))
+                    m.train(sample_text(pool, int(tok * (1 - d)), rng))
+                    models[i] = m
+                ents.append(round(entropy(list(shares.values())), 5))
+                ab = aligned_bits(list(models.values()), test)
+                fit = {i: -ab[id(models[i])] for i in range(NAG)}
+                v = [fit[i] for i in range(NAG)]
+                mu = sum(v) / len(v)
+                sd = (sum((x - mu) ** 2 for x in v) / len(v)) ** 0.5 or 1.0
+                new = {i: shares[i] * math.exp(beta * (fit[i] - mu) / sd) for i in range(NAG)}
+                tot = sum(new.values())
+                shares = {i: new[i] / tot for i in range(NAG)}
+            fm = []
+            for i in range(NAG):
+                tok = int(shares[i] * B)
+                m = NGram(2, gv=gv)
+                m.train(sample_text(segs[i], int(tok * d), random.Random(seed + 5)))
+                m.train(sample_text(pool, int(tok * (1 - d)), random.Random(seed + 6)))
+                fm.append(m)
+            key = f"d={d}"
+            out["scan"].setdefault(key, []).append({
+                "seed": seed,
+                "entropy_end": round(entropy(list(shares.values())), 5),
+                "n_extinct": sum(1 for i in range(NAG) if shares[i] < 0.01),
+                "final_shares": [round(shares[i], 5) for i in range(NAG)],
+                "system_bits": round(ens_bits(fm, test), 5),
+            })
+        rows = out["scan"][f"d={d}"]
+        ee = [x["entropy_end"] for x in rows]
+        nx = [x["n_extinct"] for x in rows]
+        sb = [x["system_bits"] for x in rows]
+        out["scan"][f"d={d}"] = {
+            "runs": rows,
+            "entropy_end_mean": round(sum(ee) / len(ee), 5),
+            "n_extinct_mean": round(sum(nx) / len(nx), 3),
+            "system_bits_mean": round(sum(sb) / len(sb), 5),
+        }
+        print(f"[d={d}] entropy_end={out['scan'][f'd={d}']['entropy_end_mean']} extinct={out['scan'][f'd={d}']['n_extinct_mean']} sys_bits={out['scan'][f'd={d}']['system_bits_mean']}")
+
+    with open(f"{OUT}/result206c.json", "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print("[saved]", f"{OUT}/result206c.json")
+
+
+if __name__ == "__main__":
+    main()

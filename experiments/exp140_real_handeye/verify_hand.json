@@ -1,1 +1,13 @@
-ewogIm5ld19kZXZpY2VzIjogWwogICJldmVudDEiCiBdLAogIm5hbWUiOiAibHVvc2hlbl9oYW5kIiwKICJ0b3RhbF9ldmVudHMiOiAxMiwKICJrZXlfcHJlc3NlcyI6IDMsCiAiY29kZXMiOiBbCiAgMiwKICA1LAogIDgKIF0KfQ==
+{
+ "new_devices": [
+  "event1"
+ ],
+ "name": "luoshen_hand",
+ "total_events": 12,
+ "key_presses": 3,
+ "codes": [
+  2,
+  5,
+  8
+ ]
+}

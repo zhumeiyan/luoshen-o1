@@ -1,1 +1,116 @@
-IiIiVi1KRVBBIDIgY29uZmlndXJhdGlvbiBkYXRhY2xhc3Nlcy4KCkZsYXQgY29uZmlnIG1hdGNoaW5nIEh1Z2dpbmdGYWNlIGBWSkVQQTJDb25maWdgIHBsdXMgYW4gb3B0aW9uYWwgYWN0aW9uLWNvbmRpdGlvbmVkCnByZWRpY3RvciBibG9jay4gQSBzaW5nbGUgYFZKZXBhMkNvbmZpZy5mcm9tX2hmX2NvbmZpZyhkaWN0KWAgaGFuZGxlcyBldmVyeQpvcGVuIFYtSkVQQSAyIGNoZWNrcG9pbnQgKHZpdGwvaC9nIGF0IDI1Niwgdml0ZyBhdCAzODQsIGFuZCB0aGUgQUMgdmFyaWFudCkuCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCiMgQ29uc3RhbnRzIGZvciByZXNvdXJjZSBsYWJlbHMKS1ZfQ0FDSEUgPSAia3YiCkFUVE4gPSAiYXR0biIKCgpAZGF0YWNsYXNzCmNsYXNzIFZKZXBhMkFDUHJlZGljdG9yQ29uZmlnOgogICAgIiIiQ29uZmlndXJhdGlvbiBmb3IgdGhlIGFjdGlvbi1jb25kaXRpb25lZCBwcmVkaWN0b3IgKHVwc3RyZWFtIFYtSkVQQSAyLUFDKS4KCiAgICBNaXJyb3JzIGBgdmplcGEyL3NyYy9tb2RlbHMvYWNfcHJlZGljdG9yLnB5YGAgZGVmYXVsdHMuCiAgICAiIiIKCiAgICBpbWdfc2l6ZTogdHVwbGVbaW50LCBpbnRdID0gKDI1NiwgMjU2KQogICAgcGF0Y2hfc2l6ZTogaW50ID0gMTYKICAgIG51bV9mcmFtZXM6IGludCA9IDY0CiAgICB0dWJlbGV0X3NpemU6IGludCA9IDIKICAgIGVtYmVkX2RpbTogaW50ID0gMTQwOAogICAgcHJlZGljdG9yX2VtYmVkX2RpbTogaW50ID0gMTAyNAogICAgZGVwdGg6IGludCA9IDI0CiAgICBudW1faGVhZHM6IGludCA9IDE2CiAgICBtbHBfcmF0aW86IGZsb2F0ID0gNC4wCiAgICBxa3ZfYmlhczogYm9vbCA9IFRydWUKICAgIGRyb3BfcmF0ZTogZmxvYXQgPSAwLjAKICAgIGF0dG5fZHJvcF9yYXRlOiBmbG9hdCA9IDAuMAogICAgZHJvcF9wYXRoX3JhdGU6IGZsb2F0ID0gMC4wCiAgICBsYXllcl9ub3JtX2VwczogZmxvYXQgPSAxZS02CiAgICBpc19mcmFtZV9jYXVzYWw6IGJvb2wgPSBUcnVlCiAgICB1c2Vfcm9wZTogYm9vbCA9IFRydWUKICAgIGFjdGlvbl9lbWJlZF9kaW06IGludCA9IDcKICAgIHVzZV9leHRyaW5zaWNzOiBib29sID0gRmFsc2UKCgpAZGF0YWNsYXNzCmNsYXNzIFZKZXBhMkNvbmZpZzoKICAgICIiIlRvcC1sZXZlbCBWLUpFUEEgMiBjb25maWcgKHNoYXJlZCBhY3Jvc3MgdGhlIEhGIGFuZCB1cHN0cmVhbSBwb3J0cykuCgogICAgRmllbGQgbmFtZXMgbWF0Y2ggSEYgYGBWSkVQQTJDb25maWdgYCBzbyBhIHBsYWluIEpTT04gcm91bmQtdHJpcCB3b3Jrcy4KICAgICIiIgoKICAgICMgRW5jb2RlcgogICAgcGF0Y2hfc2l6ZTogaW50ID0gMTYKICAgIGNyb3Bfc2l6ZTogaW50ID0gMjU2CiAgICBmcmFtZXNfcGVyX2NsaXA6IGludCA9IDY0CiAgICB0dWJlbGV0X3NpemU6IGludCA9IDIKICAgIGhpZGRlbl9zaXplOiBpbnQgPSAxMDI0CiAgICBpbl9jaGFuczogaW50ID0gMwogICAgbnVtX2F0dGVudGlvbl9oZWFkczogaW50ID0gMTYKICAgIG51bV9oaWRkZW5fbGF5ZXJzOiBpbnQgPSAyNAogICAgZHJvcF9wYXRoX3JhdGU6IGZsb2F0ID0gMC4wCiAgICBtbHBfcmF0aW86IGZsb2F0ID0gNC4wCiAgICBsYXllcl9ub3JtX2VwczogZmxvYXQgPSAxZS02CiAgICBxa3ZfYmlhczogYm9vbCA9IFRydWUKICAgIGF0dGVudGlvbl9wcm9ic19kcm9wb3V0X3Byb2I6IGZsb2F0ID0gMC4wCiAgICBoaWRkZW5fYWN0OiBzdHIgPSAiZ2VsdSIKCiAgICAjIE1hc2tlZCBwcmVkaWN0b3IKICAgIHByZWRfaGlkZGVuX3NpemU6IGludCA9IDM4NAogICAgcHJlZF9udW1fYXR0ZW50aW9uX2hlYWRzOiBpbnQgPSAxMgogICAgcHJlZF9udW1faGlkZGVuX2xheWVyczogaW50ID0gMTIKICAgIHByZWRfbnVtX21hc2tfdG9rZW5zOiBpbnQgPSAxMAogICAgcHJlZF96ZXJvX2luaXRfbWFza190b2tlbnM6IGJvb2wgPSBUcnVlCiAgICBwcmVkX21scF9yYXRpbzogZmxvYXQgPSA0LjAKCiAgICAjIFdoaWNoIHByZWRpY3RvciB0byBpbnN0YW50aWF0ZS4gICJtYXNrZWQiID0gSEYgVkpFUEEyUHJlZGljdG9yOwogICAgIyAiYWMiID0gdXBzdHJlYW0gVmlzaW9uVHJhbnNmb3JtZXJQcmVkaWN0b3JBQy4KICAgIHByZWRpY3Rvcl9raW5kOiBzdHIgPSAibWFza2VkIgogICAgYWNfcHJlZGljdG9yOiBWSmVwYTJBQ1ByZWRpY3RvckNvbmZpZyB8IE5vbmUgPSBOb25lCgogICAgIyBSb2xsb3V0LiAgYGBtYXhfcm9sbG91dF9ob3Jpem9uYGAgY2FwcyB0aGUgTG9vcCdzCiAgICAjIGBgbWF4X2l0ZXJzYGAgYXQgZ3JhcGgtYnVpbGQgdGltZTsgcGVyLXJlcXVlc3QgYGByb2xsb3V0X2hvcml6b25gYCBpcwogICAgIyBlbmZvcmNlZCBieSBlYXJseS1leGl0IChgYGNoZWNrX3N0b3BgYCkgZnJvbSBpbnNpZGUgdGhlCiAgICAjIHJvbGxvdXQgc3VibW9kdWxlLgogICAgbWF4X3JvbGxvdXRfaG9yaXpvbjogaW50ID0gMTYKICAgICMgQW50aWNpcGF0aXZlV3JhcHBlci1wYXJpdHkgcm9sbG91dCBnZW9tZXRyeS4gIFBlci1yZXF1ZXN0IHR1bmluZyBpcyBhCiAgICAjIGxhdGVyIGV4dGVuc2lvbiDigJQgZm9yIG5vdyB0aGVzZSBhcmUgc2V0IG9uY2UgZnJvbSBjb25maWcgYW5kIGJha2VkCiAgICAjIGludG8gdGhlIGNhY2hlZCBgYHJvbGxvdXRfcHJlZGljdG9yYGAgc3VibW9kdWxlLgogICAgcm9sbG91dF9udW1fb3V0cHV0X2ZyYW1lczogaW50ID0gMgogICAgcm9sbG91dF9mcmFtZXNfcGVyX3NlY29uZDogaW50ID0gNAogICAgcm9sbG91dF9hbnRpY2lwYXRpb25fc2Vjb25kczogZmxvYXQgPSAxLjAKCiAgICAjIE1QQy4gIENvc3QgZnVuY3Rpb24gdXNlZCBieSBWSmVwYTJNUENTY29yZXJTdWJtb2R1bGUgdG8KICAgICMgc2NvcmUgSyBjYW5kaWRhdGUgcHJlZGljdGVkIGxhdGVudHMgYWdhaW5zdCB0aGUgZ29hbCBsYXRlbnQuICAibDEiCiAgICAjIG1hdGNoZXMgdXBzdHJlYW0gdmplcGEyL25vdGVib29rcy91dGlscy9tcGNfdXRpbHMucHk6OmwxICh0aGUgQ0VNCiAgICAjIG9iamVjdGl2ZSkuICBGaXhlZCBhdCBkZXBsb3kgdGltZSByYXRoZXIgdGhhbiBwZXItcmVxdWVzdCBzbyB0aGF0CiAgICAjIHJlcHJvZHVjaWJpbGl0eSAvIHBhcml0eSB0ZXN0cyBhcmUgZGV0ZXJtaW5pc3RpYyBhY3Jvc3MgY2xpZW50cy4KICAgIG1wY19jb3N0X2ZuOiBzdHIgPSAibDEiCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgZnJvbV9oZl9jb25maWcoY2xzLCBjb25maWdfZGljdDogZGljdFtzdHIsIEFueV0pIC0+ICJWSmVwYTJDb25maWciOgogICAgICAgIGtub3duX2tleXMgPSB7Zi5uYW1lIGZvciBmIGluIGNscy5fX2RhdGFjbGFzc19maWVsZHNfXy52YWx1ZXMoKX0KICAgICAgICBmaWx0ZXJlZCA9IHtrOiB2IGZvciBrLCB2IGluIGNvbmZpZ19kaWN0Lml0ZW1zKCkgaWYgayBpbiBrbm93bl9rZXlzfQogICAgICAgIHJldHVybiBjbHMoKipmaWx0ZXJlZCkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBncmlkX3NpemUoc2VsZikgLT4gaW50OgogICAgICAgIHJldHVybiBzZWxmLmNyb3Bfc2l6ZSAvLyBzZWxmLnBhdGNoX3NpemUKCiAgICBAcHJvcGVydHkKICAgIGRlZiBncmlkX2RlcHRoKHNlbGYpIC0+IGludDoKICAgICAgICByZXR1cm4gc2VsZi5mcmFtZXNfcGVyX2NsaXAgLy8gc2VsZi50dWJlbGV0X3NpemUKCiAgICBAcHJvcGVydHkKICAgIGRlZiBudW1fcGF0Y2hlcyhzZWxmKSAtPiBpbnQ6CiAgICAgICAgcmV0dXJuIHNlbGYuZ3JpZF9kZXB0aCAqIHNlbGYuZ3JpZF9zaXplICogc2VsZi5ncmlkX3NpemUK
+"""V-JEPA 2 configuration dataclasses.
+
+Flat config matching HuggingFace `VJEPA2Config` plus an optional action-conditioned
+predictor block. A single `VJepa2Config.from_hf_config(dict)` handles every
+open V-JEPA 2 checkpoint (vitl/h/g at 256, vitg at 384, and the AC variant).
+"""
+
+from __future__ import annotations
+
+from dataclasses import dataclass
+from typing import Any
+
+# Constants for resource labels
+KV_CACHE = "kv"
+ATTN = "attn"
+
+
+@dataclass
+class VJepa2ACPredictorConfig:
+    """Configuration for the action-conditioned predictor (upstream V-JEPA 2-AC).
+
+    Mirrors ``vjepa2/src/models/ac_predictor.py`` defaults.
+    """
+
+    img_size: tuple[int, int] = (256, 256)
+    patch_size: int = 16
+    num_frames: int = 64
+    tubelet_size: int = 2
+    embed_dim: int = 1408
+    predictor_embed_dim: int = 1024
+    depth: int = 24
+    num_heads: int = 16
+    mlp_ratio: float = 4.0
+    qkv_bias: bool = True
+    drop_rate: float = 0.0
+    attn_drop_rate: float = 0.0
+    drop_path_rate: float = 0.0
+    layer_norm_eps: float = 1e-6
+    is_frame_causal: bool = True
+    use_rope: bool = True
+    action_embed_dim: int = 7
+    use_extrinsics: bool = False
+
+
+@dataclass
+class VJepa2Config:
+    """Top-level V-JEPA 2 config (shared across the HF and upstream ports).
+
+    Field names match HF ``VJEPA2Config`` so a plain JSON round-trip works.
+    """
+
+    # Encoder
+    patch_size: int = 16
+    crop_size: int = 256
+    frames_per_clip: int = 64
+    tubelet_size: int = 2
+    hidden_size: int = 1024
+    in_chans: int = 3
+    num_attention_heads: int = 16
+    num_hidden_layers: int = 24
+    drop_path_rate: float = 0.0
+    mlp_ratio: float = 4.0
+    layer_norm_eps: float = 1e-6
+    qkv_bias: bool = True
+    attention_probs_dropout_prob: float = 0.0
+    hidden_act: str = "gelu"
+
+    # Masked predictor
+    pred_hidden_size: int = 384
+    pred_num_attention_heads: int = 12
+    pred_num_hidden_layers: int = 12
+    pred_num_mask_tokens: int = 10
+    pred_zero_init_mask_tokens: bool = True
+    pred_mlp_ratio: float = 4.0
+
+    # Which predictor to instantiate.  "masked" = HF VJEPA2Predictor;
+    # "ac" = upstream VisionTransformerPredictorAC.
+    predictor_kind: str = "masked"
+    ac_predictor: VJepa2ACPredictorConfig | None = None
+
+    # Rollout.  ``max_rollout_horizon`` caps the Loop's
+    # ``max_iters`` at graph-build time; per-request ``rollout_horizon`` is
+    # enforced by early-exit (``check_stop``) from inside the
+    # rollout submodule.
+    max_rollout_horizon: int = 16
+    # AnticipativeWrapper-parity rollout geometry.  Per-request tuning is a
+    # later extension — for now these are set once from config and baked
+    # into the cached ``rollout_predictor`` submodule.
+    rollout_num_output_frames: int = 2
+    rollout_frames_per_second: int = 4
+    rollout_anticipation_seconds: float = 1.0
+
+    # MPC.  Cost function used by VJepa2MPCScorerSubmodule to
+    # score K candidate predicted latents against the goal latent.  "l1"
+    # matches upstream vjepa2/notebooks/utils/mpc_utils.py::l1 (the CEM
+    # objective).  Fixed at deploy time rather than per-request so that
+    # reproducibility / parity tests are deterministic across clients.
+    mpc_cost_fn: str = "l1"
+
+    @classmethod
+    def from_hf_config(cls, config_dict: dict[str, Any]) -> "VJepa2Config":
+        known_keys = {f.name for f in cls.__dataclass_fields__.values()}
+        filtered = {k: v for k, v in config_dict.items() if k in known_keys}
+        return cls(**filtered)
+
+    @property
+    def grid_size(self) -> int:
+        return self.crop_size // self.patch_size
+
+    @property
+    def grid_depth(self) -> int:
+        return self.frames_per_clip // self.tubelet_size
+
+    @property
+    def num_patches(self) -> int:
+        return self.grid_depth * self.grid_size * self.grid_size

@@ -1,1 +1,102 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWunumqjCAwODVlIMK3IOWQjOagt+aAu+iDvemHj++8jCLlgbblsJTnnIvkuIDnnLwiIHZzICLooqvmjIHnu63mipXlloIiCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQowODVkIOeahOWJr+S6p+WTge+8mnJlY2VpcHQg55u45ZCMKD0zLjAp5pe2CiAgIChhbXA9MC4wMiwg5byA6ZeoMTUw5qyhKSBkcmlmdD0wLjExNCAg4oaQIOWwkeasocK36auY5bmFwrflg48i5Y6755yL5LiA55y8IgogICAoYW1wPTAuMDA1LOW8gOmXqDYwMOasoSkgZHJpZnQ9MC4xODMgIOKGkCDlpJrmrKHCt+S9juW5hcK35YOPIuiiq+aMgee7reaKleWWgiIK4oaSIOaPkOekuu+8muWGs+WumuWQjuaenOeahOS4jeWPquaYr+aAu+mHj++8jOi/mOacieOAkOaOpeaUtueahOaXtumXtOW9ouaAgeOAkeOAggoKMDg1ZSDmraPlvI/mo4DpqozvvJrlm7rlrpogcmVjZWlwdO+8jOWPquWPmCAoYW1wLCDlvIDpl6jmrKHmlbApIOeahOe7hOWQiAogICBzcGFyc2UgOiBwPTAuMjXvvIgxNTAg5qyh77yM6auY5bmF77yJCiAgIGRlbnNlICA6IHA9MS4wMO+8iDYwMCDmrKHvvIzkvY7luYXvvIkKICAg5LqM6ICFIHJlY2VpcHQg5Lil5qC855u45ZCM77yM5L+h5oGv5YaF5a6555u45ZCM77yI5ZCM5LiA5Liq55yf5a6e5LiW55WM5ZCR6YeP77yJCiAgIOWQjCBzZWVkIOmFjeWvuSArIOWFseWQjOWtmOa0u+WtkOmbhiArIGJvb3RzdHJhcCBDSQoiIiIKaW1wb3J0IGpzb24sIG9zLCBzeXMKaW1wb3J0IG51bXB5IGFzIG5wCgpST09UID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSwgJy4uJykKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihST09ULCAnY29yZScpKTsgc3lzLnBhdGguaW5zZXJ0KDAsIFJPT1QpCmZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKClNURVBTID0gNjAwClNFRURTID0gbGlzdChyYW5nZSgzMikpCk4gPSA4CldDSCA9IFswLCAxLCAyXQpPVVQgPSBvcy5wYXRoLmpvaW4oUk9PVCwgJ2V4cGVyaW1lbnRzJywgJ3Jlc3VsdF8wODVlLmpzb24nKQpfdyA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihST09ULCAnZXZpZGVuY2UnLCAncmF3X2RhdGEnLCAnd29ybGRfMDg1Yi5qc29uJykpKQpXViA9IG5wLmFycmF5KF93Wyd3b3JsZCddLCBmbG9hdCkubWVhbihheGlzPTApCgoKZGVmIGNhcG4obGYpOgogICAgYyA9IG5wLmFzYXJyYXkobGYubG9nWy0xXVsnY2FwdiddLCBmbG9hdCkKICAgIHJldHVybiBjIC8gYy5tZWFuKCkKCgpkZWYgc2ltKHNlZWQsIG5fb3BlbiwgYW1wKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkICogOTc3ICsgMTMpCiAgICBtID0gbnAuemVyb3MoU1RFUFMsIGJvb2wpCiAgICBpZiBuX29wZW4gPiAwOgogICAgICAgIG1bcm5nLmNob2ljZShTVEVQUywgbl9vcGVuLCByZXBsYWNlPUZhbHNlKV0gPSBUcnVlCiAgICBsZiA9IExpZmU1KE49Tiwgc2VlZD1zZWVkLCByYXRpbz0wLjQ1LCBzaWdtYV9pbj0wLjEwKQogICAgZm9yIHQgaW4gcmFuZ2UoU1RFUFMpOgogICAgICAgIHB1c2ggPSBucC56ZXJvcyhOKQogICAgICAgIGlmIG1bdF06IHB1c2hbV0NIXSA9IGFtcCAqIFdWCiAgICAgICAgbGYubmV0X3B1c2ggPSBwdXNoCiAgICAgICAgbGYuc3RlcCgpCiAgICAgICAgaWYgbm90IGxmLmFsaXZlOiBicmVhawogICAgcmV0dXJuIGxmCgoKZGVmIGJvb3RfY2koZCwgQj02MDAwLCBzZWVkPTExKToKICAgIGQgPSBucC5hc2FycmF5KGQsIGZsb2F0KQogICAgaWYgbGVuKGQpIDwgMjogcmV0dXJuIGZsb2F0KCduYW4nKSwgZmxvYXQoJ25hbicpLCBmbG9hdCgnbmFuJykKICAgIHIgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIGJzID0gbnAuYXJyYXkoW3IuY2hvaWNlKGQsIGxlbihkKSwgcmVwbGFjZT1UcnVlKS5tZWFuKCkgZm9yIF8gaW4gcmFuZ2UoQildKQogICAgcmV0dXJuIGZsb2F0KGQubWVhbigpKSwgZmxvYXQobnAucGVyY2VudGlsZShicywgMi41KSksIGZsb2F0KG5wLnBlcmNlbnRpbGUoYnMsIDk3LjUpKQoKCmRlZiBtYWluKCk6CiAgICBwcmludCgiPSIgKiA2OCkKICAgIHByaW50KCLlrp7pqowgMDg1ZSDCtyDlkIzmoLfmgLvog73ph4/vvJrlgbblsJTnnIvkuIDnnLwgdnMg6KKr5oyB57ut5oqV5ZaCIikKICAgIHByaW50KCI9IiAqIDY4KQogICAgYmFzZSA9IHtzOiBzaW0ocywgMCwgMC4wKSBmb3IgcyBpbiBTRUVEU30KICAgIGJhbCA9IFtzIGZvciBzIGluIFNFRURTIGlmIGJhc2Vbc10uYWxpdmVdCiAgICBwcmludChmIlvln7rnur9dIOaXoOaEn+WumOWtmOa0uyB7bGVuKGJhbCl9L3tsZW4oU0VFRFMpfSIpCgogICAgUl9ncmlkID0gWygxLjUsIDE1MCwgNjAwKSwgKDMuMCwgMTUwLCA2MDApLCAoNi4wLCAxNTAsIDYwMCldCiAgICByZXMgPSBbXQogICAgZm9yIFIsIG5fc3BhcnNlLCBuX2RlbnNlIGluIFJfZ3JpZDoKICAgICAgICBhX3NwYXJzZSwgYV9kZW5zZSA9IFIgLyBuX3NwYXJzZSwgUiAvIG5fZGVuc2UKICAgICAgICBTID0ge3M6IHNpbShzLCBuX3NwYXJzZSwgYV9zcGFyc2UpIGZvciBzIGluIGJhbH0KICAgICAgICBEID0ge3M6IHNpbShzLCBuX2RlbnNlLCBhX2RlbnNlKSBmb3IgcyBpbiBiYWx9CiAgICAgICAgY29tbW9uID0gW3MgZm9yIHMgaW4gYmFsIGlmIFNbc10uYWxpdmUgYW5kIERbc10uYWxpdmVdCiAgICAgICAgZGQgPSBbZmxvYXQobnAubWVhbihucC5hYnMoY2FwbihTW3NdKSAtIGNhcG4oYmFzZVtzXSkpKSkgLQogICAgICAgICAgICAgIGZsb2F0KG5wLm1lYW4obnAuYWJzKGNhcG4oRFtzXSkgLSBjYXBuKGJhc2Vbc10pKSkpIGZvciBzIGluIGNvbW1vbl0KICAgICAgICBtLCBsbywgaGkgPSBib290X2NpKGRkKQogICAgICAgIGRTID0gZmxvYXQobnAubWVhbihbbnAubWVhbihucC5hYnMoY2FwbihTW3NdKSAtIGNhcG4oYmFzZVtzXSkpKSBmb3IgcyBpbiBjb21tb25dKSkgaWYgY29tbW9uIGVsc2UgZmxvYXQoJ25hbicpCiAgICAgICAgZEQgPSBmbG9hdChucC5tZWFuKFtucC5tZWFuKG5wLmFicyhjYXBuKERbc10pIC0gY2FwbihiYXNlW3NdKSkpIGZvciBzIGluIGNvbW1vbl0pKSBpZiBjb21tb24gZWxzZSBmbG9hdCgnbmFuJykKICAgICAgICByb3cgPSBkaWN0KHJlY2VpcHQ9UiwgYW1wX3NwYXJzZT1hX3NwYXJzZSwgYW1wX2RlbnNlPWFfZGVuc2UsCiAgICAgICAgICAgICAgICAgICBuX3NwYXJzZT1uX3NwYXJzZSwgbl9kZW5zZT1uX2RlbnNlLAogICAgICAgICAgICAgICAgICAgYWxpdmVfc3BhcnNlPWludChzdW0oU1tzXS5hbGl2ZSBmb3IgcyBpbiBiYWwpKSwKICAgICAgICAgICAgICAgICAgIGFsaXZlX2RlbnNlPWludChzdW0oRFtzXS5hbGl2ZSBmb3IgcyBpbiBiYWwpKSwKICAgICAgICAgICAgICAgICAgIG5fYmFzZT1sZW4oYmFsKSwgbl9jb21tb249bGVuKGNvbW1vbiksCiAgICAgICAgICAgICAgICAgICBkcmlmdF9zcGFyc2U9ZFMsIGRyaWZ0X2RlbnNlPWRELAogICAgICAgICAgICAgICAgICAgZGVsdGE9bSwgY2lfbG89bG8sIGNpX2hpPWhpKQogICAgICAgIHJlcy5hcHBlbmQocm93KQogICAgICAgIGZsYWcgPSAi4piF5pi+6JGXIiBpZiAobG8gPiAwIG9yIGhpIDwgMCkgZWxzZSAi6LeoMCIKICAgICAgICBwcmludChmIlxuICByZWNlaXB0PXtSfSAgc3BhcnNlKGFtcD17YV9zcGFyc2U6LjRmfcOXe25fc3BhcnNlfeasoSkgdnMgIgogICAgICAgICAgICAgIGYiZGVuc2UoYW1wPXthX2RlbnNlOi40Zn3Dl3tuX2RlbnNlfeasoSkiKQogICAgICAgIHByaW50KGYiICAgIOWtmOa0uyBzcGFyc2U9e3Jvd1snYWxpdmVfc3BhcnNlJ119L3tsZW4oYmFsKX0gICIKICAgICAgICAgICAgICBmImRlbnNlPXtyb3dbJ2FsaXZlX2RlbnNlJ119L3tsZW4oYmFsKX0gIOWFseWQjD17bGVuKGNvbW1vbil9IikKICAgICAgICBwcmludChmIiAgICBkcmlmdCBzcGFyc2U9e2RTOi41Zn0gIGRlbnNlPXtkRDouNWZ9IikKICAgICAgICBwcmludChmIiAgICDOlChzcGFyc2UtZGVuc2UpPXttOisuNWZ9IENJW3tsbzorLjVmfSx7aGk6Ky41Zn1dIHtmbGFnfSIpCgogICAganNvbi5kdW1wKGRpY3Qocm93cz1yZXMsIGNvbW1vbl9ub3RlPSLlhbHlkIzlrZjmtLvlrZDpm4bvvIzpmLLmrbvkuqHnrZvpgIkiKSwKICAgICAgICAgICAgICBvcGVuKE9VVCwgJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKICAgIHByaW50KGYiXG5bT0tdIHtPVVR9IikKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""
+实验 085e · 同样总能量，"偶尔看一眼" vs "被持续投喂"
+------------------------------------------------------------------
+085d 的副产品：receipt 相同(=3.0)时
+   (amp=0.02, 开门150次) drift=0.114  ← 少次·高幅·像"去看一眼"
+   (amp=0.005,开门600次) drift=0.183  ← 多次·低幅·像"被持续投喂"
+→ 提示：决定后果的不只是总量，还有【接收的时间形态】。
+
+085e 正式检验：固定 receipt，只变 (amp, 开门次数) 的组合
+   sparse : p=0.25（150 次，高幅）
+   dense  : p=1.00（600 次，低幅）
+   二者 receipt 严格相同，信息内容相同（同一个真实世界向量）
+   同 seed 配对 + 共同存活子集 + bootstrap CI
+"""
+import json, os, sys
+import numpy as np
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+sys.path.insert(0, os.path.join(ROOT, 'core')); sys.path.insert(0, ROOT)
+from core.life5 import Life5
+
+STEPS = 600
+SEEDS = list(range(32))
+N = 8
+WCH = [0, 1, 2]
+OUT = os.path.join(ROOT, 'experiments', 'result_085e.json')
+_w = json.load(open(os.path.join(ROOT, 'evidence', 'raw_data', 'world_085b.json')))
+WV = np.array(_w['world'], float).mean(axis=0)
+
+
+def capn(lf):
+    c = np.asarray(lf.log[-1]['capv'], float)
+    return c / c.mean()
+
+
+def sim(seed, n_open, amp):
+    rng = np.random.default_rng(seed * 977 + 13)
+    m = np.zeros(STEPS, bool)
+    if n_open > 0:
+        m[rng.choice(STEPS, n_open, replace=False)] = True
+    lf = Life5(N=N, seed=seed, ratio=0.45, sigma_in=0.10)
+    for t in range(STEPS):
+        push = np.zeros(N)
+        if m[t]: push[WCH] = amp * WV
+        lf.net_push = push
+        lf.step()
+        if not lf.alive: break
+    return lf
+
+
+def boot_ci(d, B=6000, seed=11):
+    d = np.asarray(d, float)
+    if len(d) < 2: return float('nan'), float('nan'), float('nan')
+    r = np.random.default_rng(seed)
+    bs = np.array([r.choice(d, len(d), replace=True).mean() for _ in range(B)])
+    return float(d.mean()), float(np.percentile(bs, 2.5)), float(np.percentile(bs, 97.5))
+
+
+def main():
+    print("=" * 68)
+    print("实验 085e · 同样总能量：偶尔看一眼 vs 被持续投喂")
+    print("=" * 68)
+    base = {s: sim(s, 0, 0.0) for s in SEEDS}
+    bal = [s for s in SEEDS if base[s].alive]
+    print(f"[基线] 无感官存活 {len(bal)}/{len(SEEDS)}")
+
+    R_grid = [(1.5, 150, 600), (3.0, 150, 600), (6.0, 150, 600)]
+    res = []
+    for R, n_sparse, n_dense in R_grid:
+        a_sparse, a_dense = R / n_sparse, R / n_dense
+        S = {s: sim(s, n_sparse, a_sparse) for s in bal}
+        D = {s: sim(s, n_dense, a_dense) for s in bal}
+        common = [s for s in bal if S[s].alive and D[s].alive]
+        dd = [float(np.mean(np.abs(capn(S[s]) - capn(base[s])))) -
+              float(np.mean(np.abs(capn(D[s]) - capn(base[s])))) for s in common]
+        m, lo, hi = boot_ci(dd)
+        dS = float(np.mean([np.mean(np.abs(capn(S[s]) - capn(base[s]))) for s in common])) if common else float('nan')
+        dD = float(np.mean([np.mean(np.abs(capn(D[s]) - capn(base[s]))) for s in common])) if common else float('nan')
+        row = dict(receipt=R, amp_sparse=a_sparse, amp_dense=a_dense,
+                   n_sparse=n_sparse, n_dense=n_dense,
+                   alive_sparse=int(sum(S[s].alive for s in bal)),
+                   alive_dense=int(sum(D[s].alive for s in bal)),
+                   n_base=len(bal), n_common=len(common),
+                   drift_sparse=dS, drift_dense=dD,
+                   delta=m, ci_lo=lo, ci_hi=hi)
+        res.append(row)
+        flag = "★显著" if (lo > 0 or hi < 0) else "跨0"
+        print(f"\n  receipt={R}  sparse(amp={a_sparse:.4f}×{n_sparse}次) vs "
+              f"dense(amp={a_dense:.4f}×{n_dense}次)")
+        print(f"    存活 sparse={row['alive_sparse']}/{len(bal)}  "
+              f"dense={row['alive_dense']}/{len(bal)}  共同={len(common)}")
+        print(f"    drift sparse={dS:.5f}  dense={dD:.5f}")
+        print(f"    Δ(sparse-dense)={m:+.5f} CI[{lo:+.5f},{hi:+.5f}] {flag}")
+
+    json.dump(dict(rows=res, common_note="共同存活子集，防死亡筛选"),
+              open(OUT, 'w'), ensure_ascii=False, indent=1)
+    print(f"\n[OK] {OUT}")
+
+
+if __name__ == '__main__':
+    main()

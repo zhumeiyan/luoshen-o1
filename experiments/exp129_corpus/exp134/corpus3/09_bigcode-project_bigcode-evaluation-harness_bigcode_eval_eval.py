@@ -1,1 +1,124 @@
-aW1wb3J0IGluc3BlY3QKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCB3YXJuaW5ncwoKZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QKCgpmcm9tIGJpZ2NvZGVfZXZhbCBpbXBvcnQgdGFza3MKZnJvbSBiaWdjb2RlX2V2YWwuZ2VuZXJhdGlvbiBpbXBvcnQgcGFyYWxsZWxfZ2VuZXJhdGlvbnMKCl9XQVJOSU5HID0gIiIiCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAhISFXQVJOSU5HISEhCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjClRoZSAiY29kZV9ldmFsIi8iYXBwc19tZXRyaWMiIHlvdSBhcmUgYWJvdXQgdG8gdXNlLCBleGVjdXRlIHVudHJ1c3RlZCAKbW9kZWwtZ2VuZXJhdGVkIGNvZGUgaW4gUHl0aG9uLgpBbHRob3VnaCBpdCBpcyBoaWdobHkgdW5saWtlbHkgdGhhdCBtb2RlbC1nZW5lcmF0ZWQgY29kZSB3aWxsIGRvIHNvbWV0aGluZwpvdmVydGx5IG1hbGljaW91cyBpbiByZXNwb25zZSB0byB0aGlzIHRlc3Qgc3VpdGUsIG1vZGVsLWdlbmVyYXRlZCBjb2RlIG1heSBhY3QKZGVzdHJ1Y3RpdmVseSBkdWUgdG8gYSBsYWNrIG9mIG1vZGVsIGNhcGFiaWxpdHkgb3IgYWxpZ25tZW50LgpVc2VycyBhcmUgc3Ryb25nbHkgZW5jb3VyYWdlZCB0byBzYW5kYm94IHRoaXMgZXZhbHVhdGlvbiBzdWl0ZSBzbyB0aGF0IGl0CmRvZXMgbm90IHBlcmZvcm0gZGVzdHJ1Y3RpdmUgYWN0aW9ucyBvbiB0aGVpciBob3N0IG9yIG5ldHdvcmsuIEZvciBtb3JlCmluZm9ybWF0aW9uIG9uIGhvdyBPcGVuQUkgc2FuZGJveGVzIGl0cyBjb2RlLCBzZWUgdGhlIHBhcGVyICJFdmFsdWF0aW5nIExhcmdlCkxhbmd1YWdlIE1vZGVscyBUcmFpbmVkIG9uIENvZGUiIChodHRwczovL2FyeGl2Lm9yZy9hYnMvMjEwNy4wMzM3NCkuCk9uY2UgeW91IGhhdmUgcmVhZCB0aGlzIGRpc2NsYWltZXIgYW5kIHRha2VuIGFwcHJvcHJpYXRlIHByZWNhdXRpb25zLCBzZXQgdGhlIGFyZ3VtZW50IAoiYWxsb3dfY29kZV9leGVjdXRpb24iIHRvIFRydWUuCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjXAoiIiIKCmNsYXNzIEV2YWx1YXRvcjoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhY2NlbGVyYXRvciwgbW9kZWwsIHRva2VuaXplciwgYXJncyk6CiAgICAgICAgc2VsZi5hY2NlbGVyYXRvciA9IGFjY2VsZXJhdG9yCiAgICAgICAgc2VsZi5tb2RlbCA9IG1vZGVsCiAgICAgICAgc2VsZi50b2tlbml6ZXIgPSB0b2tlbml6ZXIKICAgICAgICBzZWxmLmFyZ3MgPSBhcmdzCgogICAgICAgICMgc2V0dXAgYXJndW1lbnRzCiAgICAgICAgc2VsZi5tZXRyaWNfb3V0cHV0X3BhdGggPSBhcmdzLm1ldHJpY19vdXRwdXRfcGF0aAoKICAgICAgICAjIGNvZGUgZXZhbHVhdGlvbiBwZXJtaXNzaW9uCiAgICAgICAgc2VsZi5hbGxvd19jb2RlX2V4ZWN1dGlvbiA9IGFyZ3MuYWxsb3dfY29kZV9leGVjdXRpb24KCiAgICBkZWYgZ2VuZXJhdGVfdGV4dChzZWxmLCB0YXNrX25hbWUsIGludGVybWVkaWF0ZV9nZW5lcmF0aW9ucz1Ob25lKToKICAgICAgICB0YXNrID0gdGFza3MuZ2V0X3Rhc2sodGFza19uYW1lLCBzZWxmLmFyZ3MpCiAgICAgICAgZGF0YXNldCA9IHRhc2suZ2V0X2RhdGFzZXQoKQogICAgICAgICMgaWYgYXJncy5saW1pdCBpcyBOb25lLCB1c2UgYWxsIHNhbXBsZXMKICAgICAgICAjIGlmIGFyZ3MubGltaXQgaXMgdXNlZCwgbWFrZSBzdXJlIGFyZ3MubGltaXRfc3RhcnQgKyBhcmdzLmxpbWl0IDw9IGxlbihkYXRhc2V0KQogICAgICAgIG5fdGFza3MgPSBtaW4oc2VsZi5hcmdzLmxpbWl0LCBsZW4oZGF0YXNldCkgLSBzZWxmLmFyZ3MubGltaXRfc3RhcnQpIGlmIHNlbGYuYXJncy5saW1pdCBlbHNlIGxlbihkYXRhc2V0KQogICAgICAgICMgd2hlbiBhcmdzLmxpbWl0IGlzIE5vbmUKICAgICAgICAjIGFkanVzdCBuX3Rhc2tzIGJ5IGFyZ3MubGltaXRfc3RhcnQgdG8gcHJldmVudCBvdXQgb2YgYm91bmRzIGlzc3VlcyAKICAgICAgICBpZiBub3Qgc2VsZi5hcmdzLmxpbWl0OgogICAgICAgICAgICBuX3Rhc2tzIC09IHNlbGYuYXJncy5saW1pdF9zdGFydAogICAgICAgIHJlZmVyZW5jZXMgPSBbdGFzay5nZXRfcmVmZXJlbmNlKGRhdGFzZXRbaV0pIGZvciBpIGluIHJhbmdlKHNlbGYuYXJncy5saW1pdF9zdGFydCwgc2VsZi5hcmdzLmxpbWl0X3N0YXJ0K25fdGFza3MpXQoKICAgICAgICBpZiBzZWxmLmFyZ3MuY2hlY2tfcmVmZXJlbmNlczoKICAgICAgICAgICAgaWYgImdldF9zb2x1dGlvbiIgaW4gaW5zcGVjdC5zaWduYXR1cmUodGFzay5nZXRfcmVmZXJlbmNlKS5wYXJhbWV0ZXJzOgogICAgICAgICAgICAgICAgc29sdXRpb25zID0gW1t0YXNrLmdldF9yZWZlcmVuY2UoZGF0YXNldFtpXSwgZ2V0X3NvbHV0aW9uPVRydWUpXSBmb3IgaSBpbiByYW5nZShzZWxmLmFyZ3MubGltaXRfc3RhcnQsIHNlbGYuYXJncy5saW1pdF9zdGFydCtuX3Rhc2tzKV0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNvbHV0aW9ucyA9IFtbcmVmXSBmb3IgcmVmIGluIHJlZmVyZW5jZXNdCiAgICAgICAgICAgIHJldHVybiBzb2x1dGlvbnMsIHJlZmVyZW5jZXMKCiAgICAgICAgY3Vycl9nZW5lcmF0aW9ucyA9IFtdICAjIGxpc3RbbGlzdFtzdHIgfCBOb25lXSB8IE5vbmVdCiAgICAgICAgaWYgaW50ZXJtZWRpYXRlX2dlbmVyYXRpb25zOgogICAgICAgICAgICBjdXJyX2dlbmVyYXRpb25zID0gW2dlbiBmb3IgZ2VuIGluIGludGVybWVkaWF0ZV9nZW5lcmF0aW9ucyBpZiBnZW5dCiAgICAgICAgICAgIG5fdGFza3MgLT0gbGVuKGN1cnJfZ2VuZXJhdGlvbnMpCiAgICAgICAgaW50ZXJtZWRpYXRlX3NhdmVfZ2VuZXJhdGlvbnNfcGF0aCA9IGYie29zLnBhdGguc3BsaXRleHQoc2VsZi5hcmdzLnNhdmVfZ2VuZXJhdGlvbnNfcGF0aClbMF19X3t0YXNrX25hbWV9X2ludGVybWVkaWF0ZS5qc29uIgogICAgICAgIGN1cnJfc2FtcGxlX2lkeCA9IGxlbihjdXJyX2dlbmVyYXRpb25zKQoKICAgICAgICBnZW5lcmF0aW9ucyA9IHBhcmFsbGVsX2dlbmVyYXRpb25zKAogICAgICAgICAgICB0YXNrLAogICAgICAgICAgICBkYXRhc2V0LAogICAgICAgICAgICBzZWxmLmFjY2VsZXJhdG9yLAogICAgICAgICAgICBzZWxmLm1vZGVsLAogICAgICAgICAgICBzZWxmLnRva2VuaXplciwKICAgICAgICAgICAgbl90YXNrcz1uX3Rhc2tzLAogICAgICAgICAgICBhcmdzPXNlbGYuYXJncywKICAgICAgICAgICAgY3Vycl9zYW1wbGVfaWR4PWN1cnJfc2FtcGxlX2lkeCwgICMgY3Vycl9zYW1wbGVfaWR4IHdpbGwgYWRkZWQgdG8gbGltaXRfc3RhcnQgdG8gZml4IGluZGV4aW5nCiAgICAgICAgICAgIHNhdmVfZXZlcnlfa190YXNrcz1zZWxmLmFyZ3Muc2F2ZV9ldmVyeV9rX3Rhc2tzLAogICAgICAgICAgICBpbnRlcm1lZGlhdGVfZ2VuZXJhdGlvbnM9Y3Vycl9nZW5lcmF0aW9ucywKICAgICAgICAgICAgaW50ZXJtZWRpYXRlX3NhdmVfZ2VuZXJhdGlvbnNfcGF0aD1pbnRlcm1lZGlhdGVfc2F2ZV9nZW5lcmF0aW9uc19wYXRoLAogICAgICAgICkKCiAgICAgICAgaWYgbGVuKGdlbmVyYXRpb25zWzBdKSA+IHNlbGYuYXJncy5uX3NhbXBsZXM6CiAgICAgICAgICAgIGdlbmVyYXRpb25zID0gW2xbOiBzZWxmLmFyZ3Mubl9zYW1wbGVzXSBmb3IgbCBpbiBnZW5lcmF0aW9uc10KICAgICAgICAgICAgd2FybmluZ3Mud2FybigKICAgICAgICAgICAgICAgIGYiTnVtYmVyIG9mIHRhc2tzIHdhc24ndCBwcm9wb3J0aW9uYWwgdG8gbnVtYmVyIG9mIGRldmljZXMsIHdlIHJlbW92ZWQgZXh0cmEgcHJlZGljdGlvbnMgdG8gb25seSBrZWVwIG5zYW1wbGVzPXtzZWxmLmFyZ3Mubl9zYW1wbGVzfSIKICAgICAgICAgICAgKQogICAgICAgIHJldHVybiBnZW5lcmF0aW9ucywgcmVmZXJlbmNlcwoKICAgIGRlZiBldmFsdWF0ZShzZWxmLCB0YXNrX25hbWUsIGludGVybWVkaWF0ZV9nZW5lcmF0aW9ucz1Ob25lKToKICAgICAgICB0YXNrID0gdGFza3MuZ2V0X3Rhc2sodGFza19uYW1lLCBzZWxmLmFyZ3MpCiAgICAgICAgaWYgdGFzay5yZXF1aXJlc19leGVjdXRpb24gYW5kIG5vdCBzZWxmLmFsbG93X2NvZGVfZXhlY3V0aW9uOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKF9XQVJOSU5HKQoKICAgICAgICBnZW5lcmF0aW9ucywgcmVmZXJlbmNlcyA9IHNlbGYuZ2VuZXJhdGVfdGV4dCh0YXNrX25hbWUsIGludGVybWVkaWF0ZV9nZW5lcmF0aW9ucz1pbnRlcm1lZGlhdGVfZ2VuZXJhdGlvbnMpCgogICAgICAgIGlmIHNlbGYuYWNjZWxlcmF0b3IuaXNfbWFpbl9wcm9jZXNzOgogICAgICAgICAgICBpZiBub3Qgc2VsZi5hcmdzLmxvYWRfZ2VuZXJhdGlvbnNfcGF0aDoKICAgICAgICAgICAgICAgIHNhdmVfZ2VuZXJhdGlvbnNfcGF0aCA9IGYie29zLnBhdGguc3BsaXRleHQoc2VsZi5hcmdzLnNhdmVfZ2VuZXJhdGlvbnNfcGF0aClbMF19X3t0YXNrX25hbWV9Lmpzb24iCiAgICAgICAgICAgICAgICBzZWxmLnNhdmVfanNvbl9maWxlcyhnZW5lcmF0aW9ucywgcmVmZXJlbmNlcywgc2F2ZV9nZW5lcmF0aW9uc19wYXRoLCBmInJlZmVyZW5jZXNfe3Rhc2tfbmFtZX0uanNvbiIpCgogICAgICAgICAgICAjIG1ha2Ugc3VyZSB0b2tlbml6ZXIgcGxheXMgbmljZSB3aXRoIG11bHRpcHJvY2Vzc2luZwogICAgICAgICAgICBvcy5lbnZpcm9uWyJUT0tFTklaRVJTX1BBUkFMTEVMSVNNIl0gPSAiZmFsc2UiCiAgICAgICAgICAgIGlmIHNlbGYuYWxsb3dfY29kZV9leGVjdXRpb24gYW5kIHRhc2sucmVxdWlyZXNfZXhlY3V0aW9uOgogICAgICAgICAgICAgICAgb3MuZW52aXJvblsiSEZfQUxMT1dfQ09ERV9FVkFMIl0gPSAiMSIKICAgICAgICAgICAgcHJpbnQoIkV2YWx1YXRpbmcgZ2VuZXJhdGlvbnMuLi4iKQogICAgICAgICAgICByZXN1bHRzID0gdGFzay5wcm9jZXNzX3Jlc3VsdHMoZ2VuZXJhdGlvbnMsIHJlZmVyZW5jZXMpCiAgICAgICAgICAgIHJldHVybiByZXN1bHRzCgogICAgZGVmIHNhdmVfanNvbl9maWxlcygKICAgICAgICBzZWxmLAogICAgICAgIGdlbmVyYXRpb25zOiBMaXN0W3N0cl0sCiAgICAgICAgcmVmZXJlbmNlczogTGlzdFtzdHJdLAogICAgICAgIHNhdmVfZ2VuZXJhdGlvbnNfcGF0aDogc3RyLAogICAgICAgIHNhdmVfcmVmZXJlbmNlc19wYXRoOiBzdHIsCiAgICApIC0+IE5vbmU6CiAgICAgICAgaWYgc2VsZi5hcmdzLnNhdmVfZ2VuZXJhdGlvbnM6CiAgICAgICAgICAgIHdpdGggb3BlbihzYXZlX2dlbmVyYXRpb25zX3BhdGgsICJ3IikgYXMgZnA6CiAgICAgICAgICAgICAgICBqc29uLmR1bXAoZ2VuZXJhdGlvbnMsIGZwKQogICAgICAgICAgICAgICAgcHJpbnQoZiJnZW5lcmF0aW9ucyB3ZXJlIHNhdmVkIGF0IHtzYXZlX2dlbmVyYXRpb25zX3BhdGh9IikKICAgICAgICBpZiBzZWxmLmFyZ3Muc2F2ZV9yZWZlcmVuY2VzOgogICAgICAgICAgICB3aXRoIG9wZW4oc2F2ZV9yZWZlcmVuY2VzX3BhdGgsICJ3IikgYXMgZnA6CiAgICAgICAgICAgICAgICBqc29uLmR1bXAocmVmZXJlbmNlcywgZnApCiAgICAgICAgICAgICAgICBwcmludChmInJlZmVyZW5jZXMgd2VyZSBzYXZlZCBhdCB7c2F2ZV9yZWZlcmVuY2VzX3BhdGh9IikK
+import inspect
+import json
+import os
+import warnings
+
+from typing import List
+
+
+from bigcode_eval import tasks
+from bigcode_eval.generation import parallel_generations
+
+_WARNING = """
+################################################################################
+                                  !!!WARNING!!!
+################################################################################
+The "code_eval"/"apps_metric" you are about to use, execute untrusted 
+model-generated code in Python.
+Although it is highly unlikely that model-generated code will do something
+overtly malicious in response to this test suite, model-generated code may act
+destructively due to a lack of model capability or alignment.
+Users are strongly encouraged to sandbox this evaluation suite so that it
+does not perform destructive actions on their host or network. For more
+information on how OpenAI sandboxes its code, see the paper "Evaluating Large
+Language Models Trained on Code" (https://arxiv.org/abs/2107.03374).
+Once you have read this disclaimer and taken appropriate precautions, set the argument 
+"allow_code_execution" to True.
+################################################################################\
+"""
+
+class Evaluator:
+    def __init__(self, accelerator, model, tokenizer, args):
+        self.accelerator = accelerator
+        self.model = model
+        self.tokenizer = tokenizer
+        self.args = args
+
+        # setup arguments
+        self.metric_output_path = args.metric_output_path
+
+        # code evaluation permission
+        self.allow_code_execution = args.allow_code_execution
+
+    def generate_text(self, task_name, intermediate_generations=None):
+        task = tasks.get_task(task_name, self.args)
+        dataset = task.get_dataset()
+        # if args.limit is None, use all samples
+        # if args.limit is used, make sure args.limit_start + args.limit <= len(dataset)
+        n_tasks = min(self.args.limit, len(dataset) - self.args.limit_start) if self.args.limit else len(dataset)
+        # when args.limit is None
+        # adjust n_tasks by args.limit_start to prevent out of bounds issues 
+        if not self.args.limit:
+            n_tasks -= self.args.limit_start
+        references = [task.get_reference(dataset[i]) for i in range(self.args.limit_start, self.args.limit_start+n_tasks)]
+
+        if self.args.check_references:
+            if "get_solution" in inspect.signature(task.get_reference).parameters:
+                solutions = [[task.get_reference(dataset[i], get_solution=True)] for i in range(self.args.limit_start, self.args.limit_start+n_tasks)]
+            else:
+                solutions = [[ref] for ref in references]
+            return solutions, references
+
+        curr_generations = []  # list[list[str | None] | None]
+        if intermediate_generations:
+            curr_generations = [gen for gen in intermediate_generations if gen]
+            n_tasks -= len(curr_generations)
+        intermediate_save_generations_path = f"{os.path.splitext(self.args.save_generations_path)[0]}_{task_name}_intermediate.json"
+        curr_sample_idx = len(curr_generations)
+
+        generations = parallel_generations(
+            task,
+            dataset,
+            self.accelerator,
+            self.model,
+            self.tokenizer,
+            n_tasks=n_tasks,
+            args=self.args,
+            curr_sample_idx=curr_sample_idx,  # curr_sample_idx will added to limit_start to fix indexing
+            save_every_k_tasks=self.args.save_every_k_tasks,
+            intermediate_generations=curr_generations,
+            intermediate_save_generations_path=intermediate_save_generations_path,
+        )
+
+        if len(generations[0]) > self.args.n_samples:
+            generations = [l[: self.args.n_samples] for l in generations]
+            warnings.warn(
+                f"Number of tasks wasn't proportional to number of devices, we removed extra predictions to only keep nsamples={self.args.n_samples}"
+            )
+        return generations, references
+
+    def evaluate(self, task_name, intermediate_generations=None):
+        task = tasks.get_task(task_name, self.args)
+        if task.requires_execution and not self.allow_code_execution:
+            raise ValueError(_WARNING)
+
+        generations, references = self.generate_text(task_name, intermediate_generations=intermediate_generations)
+
+        if self.accelerator.is_main_process:
+            if not self.args.load_generations_path:
+                save_generations_path = f"{os.path.splitext(self.args.save_generations_path)[0]}_{task_name}.json"
+                self.save_json_files(generations, references, save_generations_path, f"references_{task_name}.json")
+
+            # make sure tokenizer plays nice with multiprocessing
+            os.environ["TOKENIZERS_PARALLELISM"] = "false"
+            if self.allow_code_execution and task.requires_execution:
+                os.environ["HF_ALLOW_CODE_EVAL"] = "1"
+            print("Evaluating generations...")
+            results = task.process_results(generations, references)
+            return results
+
+    def save_json_files(
+        self,
+        generations: List[str],
+        references: List[str],
+        save_generations_path: str,
+        save_references_path: str,
+    ) -> None:
+        if self.args.save_generations:
+            with open(save_generations_path, "w") as fp:
+                json.dump(generations, fp)
+                print(f"generations were saved at {save_generations_path}")
+        if self.args.save_references:
+            with open(save_references_path, "w") as fp:
+                json.dump(references, fp)
+                print(f"references were saved at {save_references_path}")

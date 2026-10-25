@@ -1,1 +1,176 @@
-ewogIlMxIjogewogICIyIjogewogICAiY3VydmUiOiB7CiAgICAiMSI6IDAuNTcxNCwKICAgICIyIjogMC42MTI1LAogICAgIjQiOiAwLjY0MjgsCiAgICAiOCI6IDAuNjM2OSwKICAgICIxNiI6IDAuNjQzMywKICAgICIyNiI6IDAuNjMzMwogICB9LAogICAibWFyZ2luYWwiOiBbCiAgICAwLjA0MTEsCiAgICAwLjAzMDMsCiAgICAtMC4wMDU4LAogICAgMC4wMDY0LAogICAgLTAuMDEKICAgXQogIH0sCiAgIjMiOiB7CiAgICJjdXJ2ZSI6IHsKICAgICIxIjogMC40MDA2LAogICAgIjIiOiAwLjQzOTcsCiAgICAiNCI6IDAuNDU0NCwKICAgICI4IjogMC40NDkyLAogICAgIjE2IjogMC40NDE5LAogICAgIjI2IjogMC40NQogICB9LAogICAibWFyZ2luYWwiOiBbCiAgICAwLjAzOTIsCiAgICAwLjAxNDcsCiAgICAtMC4wMDUzLAogICAgLTAuMDA3MiwKICAgIDAuMDA4MQogICBdCiAgfSwKICAiNCI6IHsKICAgImN1cnZlIjogewogICAgIjEiOiAwLjMxNjcsCiAgICAiMiI6IDAuMzYzMSwKICAgICI0IjogMC4zNzY3LAogICAgIjgiOiAwLjM3NzIsCiAgICAiMTYiOiAwLjM3NTYsCiAgICAiMjYiOiAwLjM1NTYKICAgfSwKICAgIm1hcmdpbmFsIjogWwogICAgMC4wNDY0LAogICAgMC4wMTM2LAogICAgMC4wMDA2LAogICAgLTAuMDAxNywKICAgIC0wLjAyCiAgIF0KICB9LAogICI1IjogewogICAiY3VydmUiOiB7CiAgICAiMSI6IDAuMjM5NCwKICAgICIyIjogMC4yODE5LAogICAgIjQiOiAwLjMxLAogICAgIjgiOiAwLjMwMzYsCiAgICAiMTYiOiAwLjMxNzIsCiAgICAiMjYiOiAwLjMyNzgKICAgfSwKICAgIm1hcmdpbmFsIjogWwogICAgMC4wNDI1LAogICAgMC4wMjgxLAogICAgLTAuMDA2NCwKICAgIDAuMDEzNiwKICAgIDAuMDEwNgogICBdCiAgfSwKICAiNyI6IHsKICAgImN1cnZlIjogewogICAgIjEiOiAwLjE2NjcsCiAgICAiMiI6IDAuMTk1OCwKICAgICI0IjogMC4yMzI1LAogICAgIjgiOiAwLjIzNDIsCiAgICAiMTYiOiAwLjIzMjIsCiAgICAiMjYiOiAwLjI0NDQKICAgfSwKICAgIm1hcmdpbmFsIjogWwogICAgMC4wMjkyLAogICAgMC4wMzY3LAogICAgMC4wMDE3LAogICAgLTAuMDAxOSwKICAgIDAuMDEyMgogICBdCiAgfSwKICAiMTAiOiB7CiAgICJjdXJ2ZSI6IHsKICAgICIxIjogMC4xMTQyLAogICAgIjIiOiAwLjE0ODksCiAgICAiNCI6IDAuMTkxOSwKICAgICI4IjogMC4xODU4LAogICAgIjE2IjogMC4xODk0LAogICAgIjI2IjogMC4yCiAgIH0sCiAgICJtYXJnaW5hbCI6IFsKICAgIDAuMDM0NywKICAgIDAuMDQzMSwKICAgIC0wLjAwNjEsCiAgICAwLjAwMzYsCiAgICAwLjAxMDYKICAgXQogIH0sCiAgIjE2IjogewogICAiY3VydmUiOiB7CiAgICAiMSI6IDAuMDkxNCwKICAgICIyIjogMC4xMTQyLAogICAgIjQiOiAwLjEzMTcsCiAgICAiOCI6IDAuMTQxMSwKICAgICIxNiI6IDAuMTU0MiwKICAgICIyNiI6IDAuMTcyMgogICB9LAogICAibWFyZ2luYWwiOiBbCiAgICAwLjAyMjgsCiAgICAwLjAxNzUsCiAgICAwLjAwOTQsCiAgICAwLjAxMzEsCiAgICAwLjAxODEKICAgXQogIH0KIH0sCiAiUzIiOiB7CiAgIkFfXHU1NDBlXHU2NzljIjogewogICAiY3VydmUiOiB7CiAgICAiMSI6IDAuMjM5NCwKICAgICIyIjogMC4yODE5LAogICAgIjQiOiAwLjMxLAogICAgIjgiOiAwLjMwMzYsCiAgICAiMTYiOiAwLjMxNzIsCiAgICAiMjYiOiAwLjMyNzgKICAgfSwKICAgIm1hcmdpbmFsIjogWwogICAgMC4wNDI1LAogICAgMC4wMjgxLAogICAgLTAuMDA2NCwKICAgIDAuMDEzNiwKICAgIDAuMDEwNgogICBdCiAgfSwKICAiQl9cdTcyNjlcdTc0MDZcdTkxY2ZjcHUiOiB7CiAgICJjdXJ2ZSI6IHsKICAgICIxIjogMC4yNjE5LAogICAgIjIiOiAwLjI3MjIsCiAgICAiNCI6IDAuMzQzMSwKICAgICI4IjogMC4zMjI1LAogICAgIjE2IjogMC4zNjg5LAogICAgIjI2IjogMC4zOTQ0CiAgIH0sCiAgICJtYXJnaW5hbCI6IFsKICAgIDAuMDEwMywKICAgIDAuMDcwOCwKICAgIC0wLjAyMDYsCiAgICAwLjA0NjQsCiAgICAwLjAyNTYKICAgXQogIH0sCiAgIkNfXHU3MjY5XHU3NDA2XHU5MWNmaW8iOiB7CiAgICJjdXJ2ZSI6IHsKICAgICIxIjogMC4zMjI1LAogICAgIjIiOiAwLjM5NzgsCiAgICAiNCI6IDAuNDUyOCwKICAgICI4IjogMC40OTg2LAogICAgIjE2IjogMC40NzMzLAogICAgIjI2IjogMC41Mjc4CiAgIH0sCiAgICJtYXJnaW5hbCI6IFsKICAgIDAuMDc1MywKICAgIDAuMDU1LAogICAgMC4wNDU4LAogICAgLTAuMDI1MywKICAgIDAuMDU0NAogICBdCiAgfQogfQp9
+{
+ "S1": {
+  "2": {
+   "curve": {
+    "1": 0.5714,
+    "2": 0.6125,
+    "4": 0.6428,
+    "8": 0.6369,
+    "16": 0.6433,
+    "26": 0.6333
+   },
+   "marginal": [
+    0.0411,
+    0.0303,
+    -0.0058,
+    0.0064,
+    -0.01
+   ]
+  },
+  "3": {
+   "curve": {
+    "1": 0.4006,
+    "2": 0.4397,
+    "4": 0.4544,
+    "8": 0.4492,
+    "16": 0.4419,
+    "26": 0.45
+   },
+   "marginal": [
+    0.0392,
+    0.0147,
+    -0.0053,
+    -0.0072,
+    0.0081
+   ]
+  },
+  "4": {
+   "curve": {
+    "1": 0.3167,
+    "2": 0.3631,
+    "4": 0.3767,
+    "8": 0.3772,
+    "16": 0.3756,
+    "26": 0.3556
+   },
+   "marginal": [
+    0.0464,
+    0.0136,
+    0.0006,
+    -0.0017,
+    -0.02
+   ]
+  },
+  "5": {
+   "curve": {
+    "1": 0.2394,
+    "2": 0.2819,
+    "4": 0.31,
+    "8": 0.3036,
+    "16": 0.3172,
+    "26": 0.3278
+   },
+   "marginal": [
+    0.0425,
+    0.0281,
+    -0.0064,
+    0.0136,
+    0.0106
+   ]
+  },
+  "7": {
+   "curve": {
+    "1": 0.1667,
+    "2": 0.1958,
+    "4": 0.2325,
+    "8": 0.2342,
+    "16": 0.2322,
+    "26": 0.2444
+   },
+   "marginal": [
+    0.0292,
+    0.0367,
+    0.0017,
+    -0.0019,
+    0.0122
+   ]
+  },
+  "10": {
+   "curve": {
+    "1": 0.1142,
+    "2": 0.1489,
+    "4": 0.1919,
+    "8": 0.1858,
+    "16": 0.1894,
+    "26": 0.2
+   },
+   "marginal": [
+    0.0347,
+    0.0431,
+    -0.0061,
+    0.0036,
+    0.0106
+   ]
+  },
+  "16": {
+   "curve": {
+    "1": 0.0914,
+    "2": 0.1142,
+    "4": 0.1317,
+    "8": 0.1411,
+    "16": 0.1542,
+    "26": 0.1722
+   },
+   "marginal": [
+    0.0228,
+    0.0175,
+    0.0094,
+    0.0131,
+    0.0181
+   ]
+  }
+ },
+ "S2": {
+  "A_\u540e\u679c": {
+   "curve": {
+    "1": 0.2394,
+    "2": 0.2819,
+    "4": 0.31,
+    "8": 0.3036,
+    "16": 0.3172,
+    "26": 0.3278
+   },
+   "marginal": [
+    0.0425,
+    0.0281,
+    -0.0064,
+    0.0136,
+    0.0106
+   ]
+  },
+  "B_\u7269\u7406\u91cfcpu": {
+   "curve": {
+    "1": 0.2619,
+    "2": 0.2722,
+    "4": 0.3431,
+    "8": 0.3225,
+    "16": 0.3689,
+    "26": 0.3944
+   },
+   "marginal": [
+    0.0103,
+    0.0708,
+    -0.0206,
+    0.0464,
+    0.0256
+   ]
+  },
+  "C_\u7269\u7406\u91cfio": {
+   "curve": {
+    "1": 0.3225,
+    "2": 0.3978,
+    "4": 0.4528,
+    "8": 0.4986,
+    "16": 0.4733,
+    "26": 0.5278
+   },
+   "marginal": [
+    0.0753,
+    0.055,
+    0.0458,
+    -0.0253,
+    0.0544
+   ]
+  }
+ }
+}

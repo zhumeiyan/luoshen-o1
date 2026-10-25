@@ -1,1 +1,66 @@
-ewogICJyZXMiOiB7CiAgICAicHJlc2V0IjogewogICAgICAibWVhbiI6IDAuMDMwODkzODAzMDgwNDk1MjUsCiAgICAgICJuIjogNDgKICAgIH0sCiAgICAibGVhcm5lZCI6IHsKICAgICAgIm1lYW4iOiAwLjAzMTQyOTYwMDg0MDc5Njk3LAogICAgICAibiI6IDQ4CiAgICB9LAogICAgImJsaW5kIjogewogICAgICAibWVhbiI6IDAuMDMwODc2ODgwNDA3MTI2NTY3LAogICAgICAibiI6IDQ4CiAgICB9LAogICAgIm5vbmUiOiB7CiAgICAgICJtZWFuIjogMC4wMzEyMDY5MDQyNzg3MDkxMzYsCiAgICAgICJuIjogNDgKICAgIH0KICB9LAogICJwYWlycyI6IHsKICAgICJwcmVzZXQtbm9uZSI6IHsKICAgICAgImQiOiAtMC4wMDAzMTMxMDExOTgyMTM4ODI0LAogICAgICAibG8iOiAtMC4wMDEwMTcyNzQ4NTE1MjgxMDA1LAogICAgICAiaGkiOiA1LjU0OTE1Mzc5NTUwMjQ0NzRlLTA1LAogICAgICAic2lnIjogZmFsc2UsCiAgICAgICJuIjogNDgKICAgIH0sCiAgICAibGVhcm5lZC1ub25lIjogewogICAgICAiZCI6IDAuMDAwMjIyNjk2NTYyMDg3ODM4NDcsCiAgICAgICJsbyI6IC0wLjAwMDE1NzkzOTA1MzM5Njg4Njg4LAogICAgICAiaGkiOiAwLjAwMDc3MjY4NzcwMTc4NTg5OTksCiAgICAgICJzaWciOiBmYWxzZSwKICAgICAgIm4iOiA0OAogICAgfSwKICAgICJibGluZC1ub25lIjogewogICAgICAiZCI6IC0wLjAwMDMzMDAyMzg3MTU4MjU2NTMsCiAgICAgICJsbyI6IC0wLjAwMTA1NDQ3NDUzMjM3MTA4NSwKICAgICAgImhpIjogNS4xOTE1MTAzMjEzMzUzNTc0ZS0wNSwKICAgICAgInNpZyI6IGZhbHNlLAogICAgICAibiI6IDQ4CiAgICB9LAogICAgImxlYXJuZWQtcHJlc2V0IjogewogICAgICAiZCI6IDAuMDAwNTM1Nzk3NzYwMzAxNzIwNywKICAgICAgImxvIjogLTAuMDAwMTI3MzE4MTQyNzc0Nzk5NCwKICAgICAgImhpIjogMC4wMDE0NDI0MDQ0ODIzNjY4MDU2LAogICAgICAic2lnIjogZmFsc2UsCiAgICAgICJuIjogNDgKICAgIH0sCiAgICAibGVhcm5lZC1ibGluZCI6IHsKICAgICAgImQiOiAwLjAwMDU1MjcyMDQzMzY3MDQwMzksCiAgICAgICJsbyI6IC0wLjAwMDEyMTYxNTMxODUxNTYyOTI0LAogICAgICAiaGkiOiAwLjAwMTQ4MjE5NDU1OTU1MTg3MDYsCiAgICAgICJzaWciOiBmYWxzZSwKICAgICAgIm4iOiA0OAogICAgfSwKICAgICJwcmVzZXQtYmxpbmQiOiB7CiAgICAgICJkIjogMS42OTIyNjczMzY4NjgyOTdlLTA1LAogICAgICAibG8iOiAtMi45Nzk4OTEzMjk4NTc2ODFlLTA2LAogICAgICAiaGkiOiA0LjQ0NDEzNzUxNjM3NTU2OGUtMDUsCiAgICAgICJzaWciOiBmYWxzZSwKICAgICAgIm4iOiA0OAogICAgfQogIH0sCiAgInNlZWRzIjogNDgsCiAgImtfc2FsIjogMC42Cn0=
+{
+  "res": {
+    "preset": {
+      "mean": 0.03089380308049525,
+      "n": 48
+    },
+    "learned": {
+      "mean": 0.03142960084079697,
+      "n": 48
+    },
+    "blind": {
+      "mean": 0.030876880407126567,
+      "n": 48
+    },
+    "none": {
+      "mean": 0.031206904278709136,
+      "n": 48
+    }
+  },
+  "pairs": {
+    "preset-none": {
+      "d": -0.0003131011982138824,
+      "lo": -0.0010172748515281005,
+      "hi": 5.5491537955024474e-05,
+      "sig": false,
+      "n": 48
+    },
+    "learned-none": {
+      "d": 0.00022269656208783847,
+      "lo": -0.00015793905339688688,
+      "hi": 0.0007726877017858999,
+      "sig": false,
+      "n": 48
+    },
+    "blind-none": {
+      "d": -0.0003300238715825653,
+      "lo": -0.001054474532371085,
+      "hi": 5.1915103213353574e-05,
+      "sig": false,
+      "n": 48
+    },
+    "learned-preset": {
+      "d": 0.0005357977603017207,
+      "lo": -0.0001273181427747994,
+      "hi": 0.0014424044823668056,
+      "sig": false,
+      "n": 48
+    },
+    "learned-blind": {
+      "d": 0.0005527204336704039,
+      "lo": -0.00012161531851562924,
+      "hi": 0.0014821945595518706,
+      "sig": false,
+      "n": 48
+    },
+    "preset-blind": {
+      "d": 1.692267336868297e-05,
+      "lo": -2.979891329857681e-06,
+      "hi": 4.444137516375568e-05,
+      "sig": false,
+      "n": 48
+    }
+  },
+  "seeds": 48,
+  "k_sal": 0.6
+}

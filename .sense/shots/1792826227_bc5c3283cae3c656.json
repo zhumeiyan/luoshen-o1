@@ -1,1 +1,10 @@
-ewogInVybCI6ICJodHRwczovL3d3dy5iYWlkdS5jb20iLAogIm9rIjogdHJ1ZSwKICJzdGF0dXMiOiAiMjAwIiwKICJuY2hhcnMiOiAzOTQ4ODYsCiAic2hhIjogImJlMmFiZDgxZTVkODlmODIiLAogImVyciI6IG51bGwsCiAidHMiOiAiMjAyNi0xMC0yNCAxNToxNzowNyIsCiAiZWxhcHNlZF9zIjogMC4xOAp9
+{
+ "url": "https://www.baidu.com",
+ "ok": true,
+ "status": "200",
+ "nchars": 394886,
+ "sha": "be2abd81e5d89f82",
+ "err": null,
+ "ts": "2026-10-24 15:17:07",
+ "elapsed_s": 0.18
+}

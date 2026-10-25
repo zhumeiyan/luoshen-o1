@@ -1,1 +1,141 @@
-IyBNSVQgTGljZW5zZQoKIyBDb3B5cmlnaHQgKGMpIDIwMjQgVGhlIEh1Z2dpbmdGYWNlIFRlYW0KCiMgUGVybWlzc2lvbiBpcyBoZXJlYnkgZ3JhbnRlZCwgZnJlZSBvZiBjaGFyZ2UsIHRvIGFueSBwZXJzb24gb2J0YWluaW5nIGEgY29weQojIG9mIHRoaXMgc29mdHdhcmUgYW5kIGFzc29jaWF0ZWQgZG9jdW1lbnRhdGlvbiBmaWxlcyAodGhlICJTb2Z0d2FyZSIpLCB0byBkZWFsCiMgaW4gdGhlIFNvZnR3YXJlIHdpdGhvdXQgcmVzdHJpY3Rpb24sIGluY2x1ZGluZyB3aXRob3V0IGxpbWl0YXRpb24gdGhlIHJpZ2h0cwojIHRvIHVzZSwgY29weSwgbW9kaWZ5LCBtZXJnZSwgcHVibGlzaCwgZGlzdHJpYnV0ZSwgc3VibGljZW5zZSwgYW5kL29yIHNlbGwKIyBjb3BpZXMgb2YgdGhlIFNvZnR3YXJlLCBhbmQgdG8gcGVybWl0IHBlcnNvbnMgdG8gd2hvbSB0aGUgU29mdHdhcmUgaXMKIyBmdXJuaXNoZWQgdG8gZG8gc28sIHN1YmplY3QgdG8gdGhlIGZvbGxvd2luZyBjb25kaXRpb25zOgoKIyBUaGUgYWJvdmUgY29weXJpZ2h0IG5vdGljZSBhbmQgdGhpcyBwZXJtaXNzaW9uIG5vdGljZSBzaGFsbCBiZSBpbmNsdWRlZCBpbiBhbGwKIyBjb3BpZXMgb3Igc3Vic3RhbnRpYWwgcG9ydGlvbnMgb2YgdGhlIFNvZnR3YXJlLgoKIyBUSEUgU09GVFdBUkUgSVMgUFJPVklERUQgIkFTIElTIiwgV0lUSE9VVCBXQVJSQU5UWSBPRiBBTlkgS0lORCwgRVhQUkVTUyBPUgojIElNUExJRUQsIElOQ0xVRElORyBCVVQgTk9UIExJTUlURUQgVE8gVEhFIFdBUlJBTlRJRVMgT0YgTUVSQ0hBTlRBQklMSVRZLAojIEZJVE5FU1MgRk9SIEEgUEFSVElDVUxBUiBQVVJQT1NFIEFORCBOT05JTkZSSU5HRU1FTlQuIElOIE5PIEVWRU5UIFNIQUxMIFRIRQojIEFVVEhPUlMgT1IgQ09QWVJJR0hUIEhPTERFUlMgQkUgTElBQkxFIEZPUiBBTlkgQ0xBSU0sIERBTUFHRVMgT1IgT1RIRVIKIyBMSUFCSUxJVFksIFdIRVRIRVIgSU4gQU4gQUNUSU9OIE9GIENPTlRSQUNULCBUT1JUIE9SIE9USEVSV0lTRSwgQVJJU0lORyBGUk9NLAojIE9VVCBPRiBPUiBJTiBDT05ORUNUSU9OIFdJVEggVEhFIFNPRlRXQVJFIE9SIFRIRSBVU0UgT1IgT1RIRVIgREVBTElOR1MgSU4gVEhFCiMgU09GVFdBUkUuCgpmcm9tIHR5cGluZyBpbXBvcnQgT3B0aW9uYWwKCmZyb20gdHlwZXIgaW1wb3J0IE9wdGlvbgpmcm9tIHR5cGluZ19leHRlbnNpb25zIGltcG9ydCBBbm5vdGF0ZWQKCmZyb20gbGlnaHRldmFsLmNsaV9hcmdzIGltcG9ydCAoCiAgICBIRUxQX1BBTkVMX05BTUVfNCwKICAgIGN1c3RvbV90YXNrcywKICAgIGRhdGFzZXRfbG9hZGluZ19wcm9jZXNzZXMsCiAgICBqb2JfaWQsCiAgICBsb2FkX3Jlc3BvbnNlc19mcm9tX2RldGFpbHNfZGF0ZV9pZCwKICAgIGxvYWRfdGFza3NfbXVsdGlsaW5ndWFsLAogICAgbWF4X3NhbXBsZXMsCiAgICBtb2RlbF9hcmdzLAogICAgbnVtX2Zld3Nob3Rfc2VlZHMsCiAgICBvdXRwdXRfZGlyLAogICAgcHVibGljX3J1biwKICAgIHB1c2hfdG9faHViLAogICAgcHVzaF90b190ZW5zb3Jib2FyZCwKICAgIHJlYXNvbmluZ190YWdzLAogICAgcmVtb3ZlX3JlYXNvbmluZ190YWdzLAogICAgcmVzdWx0c19vcmcsCiAgICByZXN1bHRzX3BhdGhfdGVtcGxhdGUsCiAgICBzYXZlX2RldGFpbHMsCiAgICB0YXNrcywKICAgIHdhbmRiLAopCgoKZGVmIHZsbG0oCiAgICAjID09PSBnZW5lcmFsID09PQogICAgbW9kZWxfYXJnczogbW9kZWxfYXJncy50eXBlLAogICAgdGFza3M6IHRhc2tzLnR5cGUsCiAgICAjID09PSBDb21tb24gcGFyYW1ldGVycyA9PT0KICAgIGNvdF9wcm9tcHQ6IEFubm90YXRlZFsKICAgICAgICBPcHRpb25hbFtzdHJdLCBPcHRpb24oaGVscD0iVXNlIGNoYWluIG9mIHRob3VnaHQgcHJvbXB0IGZvciBldmFsdWF0aW9uLiIsIHJpY2hfaGVscF9wYW5lbD1IRUxQX1BBTkVMX05BTUVfNCkKICAgIF0gPSBOb25lLAogICAgbG9hZF90YXNrc19tdWx0aWxpbmd1YWw6IGxvYWRfdGFza3NfbXVsdGlsaW5ndWFsLnR5cGUgPSBsb2FkX3Rhc2tzX211bHRpbGluZ3VhbC5kZWZhdWx0LAogICAgZGF0YXNldF9sb2FkaW5nX3Byb2Nlc3NlczogZGF0YXNldF9sb2FkaW5nX3Byb2Nlc3Nlcy50eXBlID0gZGF0YXNldF9sb2FkaW5nX3Byb2Nlc3Nlcy5kZWZhdWx0LAogICAgY3VzdG9tX3Rhc2tzOiBjdXN0b21fdGFza3MudHlwZSA9IGN1c3RvbV90YXNrcy5kZWZhdWx0LAogICAgbnVtX2Zld3Nob3Rfc2VlZHM6IG51bV9mZXdzaG90X3NlZWRzLnR5cGUgPSBudW1fZmV3c2hvdF9zZWVkcy5kZWZhdWx0LAogICAgbG9hZF9yZXNwb25zZXNfZnJvbV9kZXRhaWxzX2RhdGVfaWQ6IGxvYWRfcmVzcG9uc2VzX2Zyb21fZGV0YWlsc19kYXRlX2lkLnR5cGUgPSBsb2FkX3Jlc3BvbnNlc19mcm9tX2RldGFpbHNfZGF0ZV9pZC5kZWZhdWx0LAogICAgcmVtb3ZlX3JlYXNvbmluZ190YWdzOiByZW1vdmVfcmVhc29uaW5nX3RhZ3MudHlwZSA9IHJlbW92ZV9yZWFzb25pbmdfdGFncy5kZWZhdWx0LAogICAgcmVhc29uaW5nX3RhZ3M6IHJlYXNvbmluZ190YWdzLnR5cGUgPSByZWFzb25pbmdfdGFncy5kZWZhdWx0LAogICAgIyA9PT0gc2F2aW5nID09PQogICAgb3V0cHV0X2Rpcjogb3V0cHV0X2Rpci50eXBlID0gb3V0cHV0X2Rpci5kZWZhdWx0LAogICAgcmVzdWx0c19wYXRoX3RlbXBsYXRlOiByZXN1bHRzX3BhdGhfdGVtcGxhdGUudHlwZSA9IHJlc3VsdHNfcGF0aF90ZW1wbGF0ZS5kZWZhdWx0LAogICAgcHVzaF90b19odWI6IHB1c2hfdG9faHViLnR5cGUgPSBwdXNoX3RvX2h1Yi5kZWZhdWx0LAogICAgcHVzaF90b190ZW5zb3Jib2FyZDogcHVzaF90b190ZW5zb3Jib2FyZC50eXBlID0gcHVzaF90b190ZW5zb3Jib2FyZC5kZWZhdWx0LAogICAgcHVibGljX3J1bjogcHVibGljX3J1bi50eXBlID0gcHVibGljX3J1bi5kZWZhdWx0LAogICAgcmVzdWx0c19vcmc6IHJlc3VsdHNfb3JnLnR5cGUgPSByZXN1bHRzX29yZy5kZWZhdWx0LAogICAgc2F2ZV9kZXRhaWxzOiBzYXZlX2RldGFpbHMudHlwZSA9IHNhdmVfZGV0YWlscy5kZWZhdWx0LAogICAgd2FuZGI6IHdhbmRiLnR5cGUgPSB3YW5kYi5kZWZhdWx0LAogICAgIyA9PT0gZGVidWcgPT09CiAgICBtYXhfc2FtcGxlczogbWF4X3NhbXBsZXMudHlwZSA9IG1heF9zYW1wbGVzLmRlZmF1bHQsCiAgICBqb2JfaWQ6IGpvYl9pZC50eXBlID0gam9iX2lkLmRlZmF1bHQsCik6CiAgICAiIiJFdmFsdWF0ZSBtb2RlbHMgdXNpbmcgdmxsbSBhcyBiYWNrZW5kLgoKICAgIFJldHVybnM6CiAgICAgICAgZGljdDogRXZhbHVhdGlvbiByZXN1bHRzIGNvbnRhaW5pbmcgbWV0cmljcyBhbmQgc2NvcmVzIGZvciBhbGwgdGFza3MKICAgICIiIgogICAgaW1wb3J0IHlhbWwKCiAgICBmcm9tIGxpZ2h0ZXZhbC5sb2dnaW5nLmV2YWx1YXRpb25fdHJhY2tlciBpbXBvcnQgRXZhbHVhdGlvblRyYWNrZXIKICAgIGZyb20gbGlnaHRldmFsLm1vZGVscy52bGxtLnZsbG1fbW9kZWwgaW1wb3J0IFZMTE1Nb2RlbENvbmZpZwogICAgZnJvbSBsaWdodGV2YWwucGlwZWxpbmUgaW1wb3J0IFBhcmFsbGVsaXNtTWFuYWdlciwgUGlwZWxpbmUsIFBpcGVsaW5lUGFyYW1ldGVycwoKICAgIGV2YWx1YXRpb25fdHJhY2tlciA9IEV2YWx1YXRpb25UcmFja2VyKAogICAgICAgIG91dHB1dF9kaXI9b3V0cHV0X2RpciwKICAgICAgICByZXN1bHRzX3BhdGhfdGVtcGxhdGU9cmVzdWx0c19wYXRoX3RlbXBsYXRlLAogICAgICAgIHNhdmVfZGV0YWlscz1zYXZlX2RldGFpbHMsCiAgICAgICAgcHVzaF90b19odWI9cHVzaF90b19odWIsCiAgICAgICAgcHVzaF90b190ZW5zb3Jib2FyZD1wdXNoX3RvX3RlbnNvcmJvYXJkLAogICAgICAgIHB1YmxpYz1wdWJsaWNfcnVuLAogICAgICAgIGh1Yl9yZXN1bHRzX29yZz1yZXN1bHRzX29yZywKICAgICAgICB1c2Vfd2FuZGI9d2FuZGIsCiAgICApCgogICAgcGlwZWxpbmVfcGFyYW1zID0gUGlwZWxpbmVQYXJhbWV0ZXJzKAogICAgICAgIGxhdW5jaGVyX3R5cGU9UGFyYWxsZWxpc21NYW5hZ2VyLlZMTE0sCiAgICAgICAgam9iX2lkPWpvYl9pZCwKICAgICAgICBsb2FkX3Rhc2tzX211bHRpbGluZ3VhbD1sb2FkX3Rhc2tzX211bHRpbGluZ3VhbCwKICAgICAgICBkYXRhc2V0X2xvYWRpbmdfcHJvY2Vzc2VzPWRhdGFzZXRfbG9hZGluZ19wcm9jZXNzZXMsCiAgICAgICAgY3VzdG9tX3Rhc2tzX2RpcmVjdG9yeT1jdXN0b21fdGFza3MsCiAgICAgICAgbnVtX2Zld3Nob3Rfc2VlZHM9bnVtX2Zld3Nob3Rfc2VlZHMsCiAgICAgICAgbWF4X3NhbXBsZXM9bWF4X3NhbXBsZXMsCiAgICAgICAgY290X3Byb21wdD1jb3RfcHJvbXB0LAogICAgICAgIGxvYWRfcmVzcG9uc2VzX2Zyb21fZGV0YWlsc19kYXRlX2lkPWxvYWRfcmVzcG9uc2VzX2Zyb21fZGV0YWlsc19kYXRlX2lkLAogICAgICAgIHJlbW92ZV9yZWFzb25pbmdfdGFncz1yZW1vdmVfcmVhc29uaW5nX3RhZ3MsCiAgICAgICAgcmVhc29uaW5nX3RhZ3M9cmVhc29uaW5nX3RhZ3MsCiAgICApCgogICAgaWYgbW9kZWxfYXJncy5lbmRzd2l0aCgiLnlhbWwiKToKICAgICAgICB3aXRoIG9wZW4obW9kZWxfYXJncywgInIiKSBhcyBmOgogICAgICAgICAgICBtZXRyaWNfb3B0aW9ucyA9IHlhbWwuc2FmZV9sb2FkKGYpLmdldCgibWV0cmljX29wdGlvbnMiLCB7fSkKICAgICAgICBtb2RlbF9jb25maWcgPSBWTExNTW9kZWxDb25maWcuZnJvbV9wYXRoKG1vZGVsX2FyZ3MpCiAgICBlbHNlOgogICAgICAgIG1ldHJpY19vcHRpb25zID0ge30KICAgICAgICBtb2RlbF9jb25maWcgPSBWTExNTW9kZWxDb25maWcuZnJvbV9hcmdzKG1vZGVsX2FyZ3MpCgogICAgcGlwZWxpbmUgPSBQaXBlbGluZSgKICAgICAgICB0YXNrcz10YXNrcywKICAgICAgICBwaXBlbGluZV9wYXJhbWV0ZXJzPXBpcGVsaW5lX3BhcmFtcywKICAgICAgICBldmFsdWF0aW9uX3RyYWNrZXI9ZXZhbHVhdGlvbl90cmFja2VyLAogICAgICAgIG1vZGVsX2NvbmZpZz1tb2RlbF9jb25maWcsCiAgICAgICAgbWV0cmljX29wdGlvbnM9bWV0cmljX29wdGlvbnMsCiAgICApCgogICAgcGlwZWxpbmUuZXZhbHVhdGUoKQoKICAgIHBpcGVsaW5lLnNob3dfcmVzdWx0cygpCgogICAgcmVzdWx0cyA9IHBpcGVsaW5lLmdldF9yZXN1bHRzKCkKICAgIGRldGFpbHMgPSBwaXBlbGluZS5nZXRfZGV0YWlscygpCgogICAgcGlwZWxpbmUuc2F2ZV9hbmRfcHVzaF9yZXN1bHRzKCkKCiAgICByZXR1cm4gcmVzdWx0cywgZGV0YWlscwo=
+# MIT License
+
+# Copyright (c) 2024 The HuggingFace Team
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+from typing import Optional
+
+from typer import Option
+from typing_extensions import Annotated
+
+from lighteval.cli_args import (
+    HELP_PANEL_NAME_4,
+    custom_tasks,
+    dataset_loading_processes,
+    job_id,
+    load_responses_from_details_date_id,
+    load_tasks_multilingual,
+    max_samples,
+    model_args,
+    num_fewshot_seeds,
+    output_dir,
+    public_run,
+    push_to_hub,
+    push_to_tensorboard,
+    reasoning_tags,
+    remove_reasoning_tags,
+    results_org,
+    results_path_template,
+    save_details,
+    tasks,
+    wandb,
+)
+
+
+def vllm(
+    # === general ===
+    model_args: model_args.type,
+    tasks: tasks.type,
+    # === Common parameters ===
+    cot_prompt: Annotated[
+        Optional[str], Option(help="Use chain of thought prompt for evaluation.", rich_help_panel=HELP_PANEL_NAME_4)
+    ] = None,
+    load_tasks_multilingual: load_tasks_multilingual.type = load_tasks_multilingual.default,
+    dataset_loading_processes: dataset_loading_processes.type = dataset_loading_processes.default,
+    custom_tasks: custom_tasks.type = custom_tasks.default,
+    num_fewshot_seeds: num_fewshot_seeds.type = num_fewshot_seeds.default,
+    load_responses_from_details_date_id: load_responses_from_details_date_id.type = load_responses_from_details_date_id.default,
+    remove_reasoning_tags: remove_reasoning_tags.type = remove_reasoning_tags.default,
+    reasoning_tags: reasoning_tags.type = reasoning_tags.default,
+    # === saving ===
+    output_dir: output_dir.type = output_dir.default,
+    results_path_template: results_path_template.type = results_path_template.default,
+    push_to_hub: push_to_hub.type = push_to_hub.default,
+    push_to_tensorboard: push_to_tensorboard.type = push_to_tensorboard.default,
+    public_run: public_run.type = public_run.default,
+    results_org: results_org.type = results_org.default,
+    save_details: save_details.type = save_details.default,
+    wandb: wandb.type = wandb.default,
+    # === debug ===
+    max_samples: max_samples.type = max_samples.default,
+    job_id: job_id.type = job_id.default,
+):
+    """Evaluate models using vllm as backend.
+
+    Returns:
+        dict: Evaluation results containing metrics and scores for all tasks
+    """
+    import yaml
+
+    from lighteval.logging.evaluation_tracker import EvaluationTracker
+    from lighteval.models.vllm.vllm_model import VLLMModelConfig
+    from lighteval.pipeline import ParallelismManager, Pipeline, PipelineParameters
+
+    evaluation_tracker = EvaluationTracker(
+        output_dir=output_dir,
+        results_path_template=results_path_template,
+        save_details=save_details,
+        push_to_hub=push_to_hub,
+        push_to_tensorboard=push_to_tensorboard,
+        public=public_run,
+        hub_results_org=results_org,
+        use_wandb=wandb,
+    )
+
+    pipeline_params = PipelineParameters(
+        launcher_type=ParallelismManager.VLLM,
+        job_id=job_id,
+        load_tasks_multilingual=load_tasks_multilingual,
+        dataset_loading_processes=dataset_loading_processes,
+        custom_tasks_directory=custom_tasks,
+        num_fewshot_seeds=num_fewshot_seeds,
+        max_samples=max_samples,
+        cot_prompt=cot_prompt,
+        load_responses_from_details_date_id=load_responses_from_details_date_id,
+        remove_reasoning_tags=remove_reasoning_tags,
+        reasoning_tags=reasoning_tags,
+    )
+
+    if model_args.endswith(".yaml"):
+        with open(model_args, "r") as f:
+            metric_options = yaml.safe_load(f).get("metric_options", {})
+        model_config = VLLMModelConfig.from_path(model_args)
+    else:
+        metric_options = {}
+        model_config = VLLMModelConfig.from_args(model_args)
+
+    pipeline = Pipeline(
+        tasks=tasks,
+        pipeline_parameters=pipeline_params,
+        evaluation_tracker=evaluation_tracker,
+        model_config=model_config,
+        metric_options=metric_options,
+    )
+
+    pipeline.evaluate()
+
+    pipeline.show_results()
+
+    results = pipeline.get_results()
+    details = pipeline.get_details()
+
+    pipeline.save_and_push_results()
+
+    return results, details

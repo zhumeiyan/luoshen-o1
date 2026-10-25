@@ -1,1 +1,73 @@
-aW1wb3J0IGpzb24sIHJhbmRvbSwgc3RhdGlzdGljcyBhcyBzdAoKZGVmIHNpbShUPTYwMCwgSz00MCwgc2VlZD0wLAogICAgICAgIHBfcGFyYT0xLjAsICAgICAgIyDlr4TnlJ/ogIXlvLrluqYo6YCg6ISRKQogICAgICAgIGRldGVjdF9nYWluPTEuMCwgIyDlhbHnlJ/kvZPlj5HnjrDmr5LmgKfnmoTog73lipsKICAgICAgICB2aXJfYmFzZT0wLjM1LCAgICMg5a+E55Sf6ICF5Z+656GA5q+S5YqbCiAgICAgICAgcmVwX3JhdGU9MC4yNSwgICAjIOWFseeUn+S9k+WOi+WIti/kv67lpI3pgJ/njocKICAgICAgICBjb3N0X2RldGVjdD0wLjE1LCMg5qOA5rWL5LuY5Ye655qE5bim5a695Luj5Lu3CiAgICAgICAgcmF0aW89MC43KToKICAgICIiIgogICAg5Lik6Zi25q616K66KOeUqOaItyk6CiAgICAgIOmYtuautTE6IOWvhOeUn+iAhemAoOWHuuS6huiEkeWtkCAo57q/57KS5L2TL+ivreiogC/mloflrZcv5aSW6YOo56ym5Y+357O757ufKQogICAgICDpmLbmrrUyOiDlhbHnlJ/kvZMo5Lq657G76K6k55+lKeWPkeeOsOS6huWvhOeUn+eahOavkuaApyAtPiDlvIDlp4vljovliLYKICAgIOacuuWItjoKICAgICAgYnJhaW5bdF0gICAgPSDlr4TnlJ/ogIXotKHnjK7ntK/np68gKOaXqeacn+W/hemcgCkKICAgICAgdmlyX2FjdHVhbCAgPSB2aXJfYmFzZSAqIGJyYWluL1cgICA8LSDohJHlrZDotorlpKcsIOavkuaAp+i2iuiDveiiq+ihqOi+vijlr4TnlJ/ogIXmnInkuoblrr/kuLvnmoTpq5jnuqfmjqXlj6MpCiAgICAgIGRldGVjdGVkICAgID0gZGV0ZWN0X2dhaW4gKiBicmFpbi9XICogKDEtY29zdF9kZXRlY3QpICA8LSDlj6rmnInohJHlrZDlpJ/lpKfmiY3nnIvlvpfop4Hmr5LmgKcKICAgICAgc3VwcHJlc3MgICAgPSBtaW4oMSwgcmVwX3JhdGUqZGV0ZWN0ZWQpCiAgICAgIG5ldF9ncm93dGggID0gcF9wYXJhKmJyYWluL1cqKDEtc3VwcHJlc3MpIC0gdmlyX2FjdHVhbAogICAgICBBKOWuv+S4uynlop7plb8gPSBuZXRfZ3Jvd3RoCiAgICAiIiIKICAgIHI9cmFuZG9tLlJhbmRvbShzZWVkKjc5MTkrMykKICAgIFc9MTAuMAogICAgYnJhaW49MC4wOyBoaXN0PVtdCiAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICBsZWFybiA9IDAuMDgqcF9wYXJhKigxLjAgLSBicmFpbi8oSykpICAgIyDlr4TnlJ/ogIXlloLohJHlrZAsIOmlseWSjOS6jksKICAgICAgICBicmFpbiA9IG1heCgwLjAsIGJyYWluICsgbGVhcm4qVykKICAgICAgICBic3ogICA9IG1pbigxLjAsIGJyYWluL0spCiAgICAgICAgdmlyICAgPSB2aXJfYmFzZSpic3oKICAgICAgICBkZXQgICA9IG1pbigxLjAsIGRldGVjdF9nYWluKmJzeikqKDEtY29zdF9kZXRlY3QpCiAgICAgICAgc3VwICAgPSBtaW4oMS4wLCByZXBfcmF0ZSpkZXQqMTApCiAgICAgICAgbmV0ICAgPSBwX3BhcmEqYnN6KigxLXN1cCkgLSB2aXIKICAgICAgICBBICAgICA9IG1heCgwLjAsIEEgaWYgdD4wIGVsc2UgMC4wKQogICAgICAgIEEgICAgID0gQSArIG5ldCowLjAxCiAgICAgICAgaGlzdC5hcHBlbmQoKGJzeiwgdmlyLCBkZXQsIHN1cCwgbmV0LCBBKSkKICAgIHJldHVybiBoaXN0CgpkZWYgc3VtbWFyaXplKGhpc3QpOgogICAgYnN6LHZpcixkZXQsc3VwLG5ldCxBID0gemlwKCpoaXN0KQogICAgIyDmi5Dngrk6IG5ldCDlvIDlp4vkuIvpmY3nmoTml7bliLsKICAgIHBlYWtfbmV0ID0gbWF4KG5ldCk7IHRfcGVhayA9IG5ldC5pbmRleChwZWFrX25ldCkKICAgIHJldHVybiBkaWN0KOiEkT1yb3VuZChic3pbLTFdLDMpLCDmr5Llips9cm91bmQodmlyWy0xXSwzKSwg5Y+R546wPXJvdW5kKGRldFstMV0sMyksCiAgICAgICAgICAgICAgICDljovliLY9cm91bmQoc3VwWy0xXSwzKSwg5YeA5aKe6ZW/PXJvdW5kKG5ldFstMV0sMyksIEHnu4jmgIE9cm91bmQoQVstMV0sMyksCiAgICAgICAgICAgICAgICDmr5LmgKfmi5DngrnmraU9dF9wZWFrLCDls7Dlh4Dlop7plb89cm91bmQocGVha19uZXQsMykpCgpvdXQ9e30KcHJpbnQoIj09IEEuIOaXtumXtOa8lOWMljog5a+E55Sf6YCg6ISRIC0+IOavkuaAp+aYvueOsCAtPiDlhbHnlJ/lj5HnjrDlubbljovliLYgPT0iKQpoPXNpbShzZWVkPTApOyBzPXN1bW1hcml6ZShoKTsgb3V0Wyfln7rnur8nXT1zCnByaW50KCIgIOatpSAgICDohJEgICAgIOavkuWKmyAgIOWPkeeOsCAgIOWOi+WItiAgIOWHgOWinumVvyIpCmZvciB0IGluIFswLDUwLDEwMCwyMDAsMzAwLDQwMCw2MDBdOgogICAgaWYgdCA8IGxlbihoKToKICAgICAgICBic3osdmlyLGRldCxzdXAsbmV0LEEgPSBoW3RdCiAgICAgICAgcHJpbnQoIiAgJS01ZCAlLjNmICAlLjNmICAlLjNmICAlLjNmICAlKy4zZiIlKHQsYnN6LHZpcixkZXQsc3VwLG5ldCkpCnByaW50KCIgIC0tPiDmi5DngrnlnKjnrKwgJWQg5q2lICjlh4Dlop7plb/ls7AgJS4zZiwg5LmL5ZCO5LiL6ZmNKSIlKHNbJ+avkuaAp+aLkOeCueatpSddLHNbJ+WzsOWHgOWinumVvyddKSkKCnByaW50KCJcbj09IEIuIOWOi+WItuiDveWKmyByZXBfcmF0ZSDmiavmj48gPT0iKQpwcmludCgiICByZXAgICAgQee7iOaAgSAgIOWHgOWinumVv+e7iCAg5Y6L5Yi257uIIikKZm9yIHJlcCBpbiBbMC4wLDAuMDUsMC4xLDAuMjUsMC41LDEuMF06CiAgICBzPXN1bW1hcml6ZShzaW0ocmVwX3JhdGU9cmVwLHNlZWQ9MCkpOyBvdXRbJ3JlcD0lLjJmJyVyZXBdPXsnQee7iOaAgSc6c1snQee7iOaAgSddLCflh4Dlop7plb8nOnNbJ+WHgOWinumVvyddLCfljovliLYnOnNbJ+WOi+WItiddfQogICAgcHJpbnQoIiAgJS02LjJmICUtNy4zZiAlLTkuM2YgJS4zZiIlKHJlcCxzWydB57uI5oCBJ10sc1sn5YeA5aKe6ZW/J10sc1sn5Y6L5Yi2J10pKQoKcHJpbnQoIlxuPT0gQy4g5qOA5rWL6IO95YqbIGRldGVjdF9nYWluIOaJq+aPjyAo6ISR5a2Q5aSa5aSn5omN55yL5b6X6KeB5q+S5oCnKSA9PSIpCnByaW50KCIgIGdhaW4gICDlj5HnjrAgICDljovliLYgICBB57uI5oCBIikKZm9yIGcgaW4gWzAuMCwwLjI1LDAuNSwxLjAsMi4wXToKICAgIHM9c3VtbWFyaXplKHNpbShkZXRlY3RfZ2Fpbj1nLHNlZWQ9MCkpOyBvdXRbJ2dhaW49JS4xZiclZ109eyflj5HnjrAnOnNbJ+WPkeeOsCddLCfljovliLYnOnNbJ+WOi+WItiddLCdB57uI5oCBJzpzWydB57uI5oCBJ119CiAgICBwcmludCgiICAlLTYuMWYgJS02LjNmICUtNi4zZiAlLjNmIiUoZyxzWyflj5HnjrAnXSxzWyfljovliLYnXSxzWydB57uI5oCBJ10pKQoKcHJpbnQoIlxuPT0gRC4g5q+S5YqbIHZpcl9iYXNlIOaJq+aPjzog5a+E55SfLT7oh7Tnl4Ug55qE5YiG55WMID09IikKcHJpbnQoIiAgdmlyMCAgIOavkuWKm+e7iCAg5Y6L5Yi257uIICBB57uI5oCBIikKZm9yIHYgaW4gWzAuMCwwLjEsMC4yLDAuMzUsMC41LDAuOF06CiAgICBzPXN1bW1hcml6ZShzaW0odmlyX2Jhc2U9dixzZWVkPTApKTsgb3V0Wyd2aXIwPSUuMmYnJXZdPXsn5q+S5YqbJzpzWyfmr5LlipsnXSwnQee7iOaAgSc6c1snQee7iOaAgSddfQogICAgcHJpbnQoIiAgJS02LjJmICUtNy4zZiAlLTcuM2YgJS4zZiIlKHYsc1sn5q+S5YqbJ10sc1sn5Y6L5Yi2J10sc1snQee7iOaAgSddKSkKanNvbi5kdW1wKG91dCwgb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMjQzX3N5bWJpby9yZXN1bHQyNDMuanNvbicsJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+import json, random, statistics as st
+
+def sim(T=600, K=40, seed=0,
+        p_para=1.0,      # 寄生者强度(造脑)
+        detect_gain=1.0, # 共生体发现毒性的能力
+        vir_base=0.35,   # 寄生者基础毒力
+        rep_rate=0.25,   # 共生体压制/修复速率
+        cost_detect=0.15,# 检测付出的带宽代价
+        ratio=0.7):
+    """
+    两阶段论(用户):
+      阶段1: 寄生者造出了脑子 (线粒体/语言/文字/外部符号系统)
+      阶段2: 共生体(人类认知)发现了寄生的毒性 -> 开始压制
+    机制:
+      brain[t]    = 寄生者贡献累积 (早期必需)
+      vir_actual  = vir_base * brain/W   <- 脑子越大, 毒性越能被表达(寄生者有了宿主的高级接口)
+      detected    = detect_gain * brain/W * (1-cost_detect)  <- 只有脑子够大才看得见毒性
+      suppress    = min(1, rep_rate*detected)
+      net_growth  = p_para*brain/W*(1-suppress) - vir_actual
+      A(宿主)增长 = net_growth
+    """
+    r=random.Random(seed*7919+3)
+    W=10.0
+    brain=0.0; hist=[]
+    for t in range(T):
+        learn = 0.08*p_para*(1.0 - brain/(K))   # 寄生者喂脑子, 饱和于K
+        brain = max(0.0, brain + learn*W)
+        bsz   = min(1.0, brain/K)
+        vir   = vir_base*bsz
+        det   = min(1.0, detect_gain*bsz)*(1-cost_detect)
+        sup   = min(1.0, rep_rate*det*10)
+        net   = p_para*bsz*(1-sup) - vir
+        A     = max(0.0, A if t>0 else 0.0)
+        A     = A + net*0.01
+        hist.append((bsz, vir, det, sup, net, A))
+    return hist
+
+def summarize(hist):
+    bsz,vir,det,sup,net,A = zip(*hist)
+    # 拐点: net 开始下降的时刻
+    peak_net = max(net); t_peak = net.index(peak_net)
+    return dict(脑=round(bsz[-1],3), 毒力=round(vir[-1],3), 发现=round(det[-1],3),
+                压制=round(sup[-1],3), 净增长=round(net[-1],3), A终态=round(A[-1],3),
+                毒性拐点步=t_peak, 峰净增长=round(peak_net,3))
+
+out={}
+print("== A. 时间演化: 寄生造脑 -> 毒性显现 -> 共生发现并压制 ==")
+h=sim(seed=0); s=summarize(h); out['基线']=s
+print("  步    脑     毒力   发现   压制   净增长")
+for t in [0,50,100,200,300,400,600]:
+    if t < len(h):
+        bsz,vir,det,sup,net,A = h[t]
+        print("  %-5d %.3f  %.3f  %.3f  %.3f  %+.3f"%(t,bsz,vir,det,sup,net))
+print("  --> 拐点在第 %d 步 (净增长峰 %.3f, 之后下降)"%(s['毒性拐点步'],s['峰净增长']))
+
+print("\n== B. 压制能力 rep_rate 扫描 ==")
+print("  rep    A终态   净增长终  压制终")
+for rep in [0.0,0.05,0.1,0.25,0.5,1.0]:
+    s=summarize(sim(rep_rate=rep,seed=0)); out['rep=%.2f'%rep]={'A终态':s['A终态'],'净增长':s['净增长'],'压制':s['压制']}
+    print("  %-6.2f %-7.3f %-9.3f %.3f"%(rep,s['A终态'],s['净增长'],s['压制']))
+
+print("\n== C. 检测能力 detect_gain 扫描 (脑子多大才看得见毒性) ==")
+print("  gain   发现   压制   A终态")
+for g in [0.0,0.25,0.5,1.0,2.0]:
+    s=summarize(sim(detect_gain=g,seed=0)); out['gain=%.1f'%g]={'发现':s['发现'],'压制':s['压制'],'A终态':s['A终态']}
+    print("  %-6.1f %-6.3f %-6.3f %.3f"%(g,s['发现'],s['压制'],s['A终态']))
+
+print("\n== D. 毒力 vir_base 扫描: 寄生->致病 的分界 ==")
+print("  vir0   毒力终  压制终  A终态")
+for v in [0.0,0.1,0.2,0.35,0.5,0.8]:
+    s=summarize(sim(vir_base=v,seed=0)); out['vir0=%.2f'%v]={'毒力':s['毒力'],'A终态':s['A终态']}
+    print("  %-6.2f %-7.3f %-7.3f %.3f"%(v,s['毒力'],s['压制'],s['A终态']))
+json.dump(out, open('/data/workspace/luoshen-o1/experiments/exp243_symbio/result243.json','w'), ensure_ascii=False, indent=1)

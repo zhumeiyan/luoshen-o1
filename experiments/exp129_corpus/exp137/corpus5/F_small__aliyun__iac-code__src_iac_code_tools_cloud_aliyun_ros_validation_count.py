@@ -1,1 +1,158 @@
-IiIiQ291bnQgb2NjdXJyZW5jZSBlbGlnaWJpbGl0eSBhbmQgdGhlIHByZS1ydW50aW1lIENvdW50U2VsZWN0Rm9sZCB0cmFuc2Zvcm0uIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MKZnJvbSBlbnVtIGltcG9ydCBFbnVtCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIENhbGxhYmxlCgoKY2xhc3MgQ291bnRSZXdyaXRlUmVhc29uKHN0ciwgRW51bSk6CiAgICBFTElHSUJMRSA9ICJFTElHSUJMRSIKICAgIFBPU0lUSU9OID0gIlBPU0lUSU9OX05PVF9FTElHSUJMRSIKICAgIFJBV19TSEFQRSA9ICJSQVdfU0hBUEVfTk9UX0VMSUdJQkxFIgoKCkBkYXRhY2xhc3MoZnJvemVuPVRydWUpCmNsYXNzIENvdW50UmV3cml0ZUVsaWdpYmlsaXR5OgogICAgcG9zaXRpb25fZWxpZ2libGU6IGJvb2wKICAgIHJhd19zaGFwZV9lbGlnaWJsZTogYm9vbAogICAgcmVhc29uOiBDb3VudFJld3JpdGVSZWFzb24KCiAgICBAcHJvcGVydHkKICAgIGRlZiBlbGlnaWJsZShzZWxmKSAtPiBib29sOgogICAgICAgIHJldHVybiBzZWxmLnBvc2l0aW9uX2VsaWdpYmxlIGFuZCBzZWxmLnJhd19zaGFwZV9lbGlnaWJsZQoKCkBkYXRhY2xhc3MoZnJvemVuPVRydWUpCmNsYXNzIENvdW50U2VsZWN0Rm9sZEZhY3Q6CiAgICBhY3RpdmF0ZWQ6IGJvb2wKICAgIHJhd19zaGFwZTogc3RyCiAgICByZXNvbHZlZF9pbmRleDogaW50IHwgc2xpY2UgfCBOb25lID0gTm9uZQogICAgc2VsZWN0ZWRfb3JpZ2luOiBpbnQgfCBOb25lID0gTm9uZQogICAgdHJhbnNmb3JtZWRfbm9kZTogQW55ID0gTm9uZQogICAgZGVsZXRlZF9ub2RlX2luZGV4ZXM6IHR1cGxlW2ludCwgLi4uXSA9ICgpCiAgICBwcmVjb21waWxlX2ZhaWx1cmU6IHN0ciB8IE5vbmUgPSBOb25lCgoKZGVmIHJlZl9jb3VudF9lbGlnaWJpbGl0eShwb3NpdGlvbl9lbGlnaWJsZTogYm9vbCwgcmF3X2FyZ3M6IEFueSkgLT4gQ291bnRSZXdyaXRlRWxpZ2liaWxpdHk6CiAgICByYXdfc2hhcGUgPSBpc2luc3RhbmNlKHJhd19hcmdzLCBzdHIpCiAgICByZWFzb24gPSAoCiAgICAgICAgQ291bnRSZXdyaXRlUmVhc29uLkVMSUdJQkxFCiAgICAgICAgaWYgcG9zaXRpb25fZWxpZ2libGUgYW5kIHJhd19zaGFwZQogICAgICAgIGVsc2UgQ291bnRSZXdyaXRlUmVhc29uLlBPU0lUSU9OCiAgICAgICAgaWYgbm90IHBvc2l0aW9uX2VsaWdpYmxlCiAgICAgICAgZWxzZSBDb3VudFJld3JpdGVSZWFzb24uUkFXX1NIQVBFCiAgICApCiAgICByZXR1cm4gQ291bnRSZXdyaXRlRWxpZ2liaWxpdHkocG9zaXRpb25fZWxpZ2libGUsIHJhd19zaGFwZSwgcmVhc29uKQoKCmRlZiBnZXRhdHRfY291bnRfZWxpZ2liaWxpdHkocG9zaXRpb25fZWxpZ2libGU6IGJvb2wsIHJhd19hcmdzOiBBbnkpIC0+IENvdW50UmV3cml0ZUVsaWdpYmlsaXR5OgogICAgcmF3X3NoYXBlID0gaXNpbnN0YW5jZShyYXdfYXJncywgbGlzdCkgYW5kIGxlbihyYXdfYXJncykgPT0gMiBhbmQgaXNpbnN0YW5jZShyYXdfYXJnc1swXSwgc3RyKQogICAgcmVhc29uID0gKAogICAgICAgIENvdW50UmV3cml0ZVJlYXNvbi5FTElHSUJMRQogICAgICAgIGlmIHBvc2l0aW9uX2VsaWdpYmxlIGFuZCByYXdfc2hhcGUKICAgICAgICBlbHNlIENvdW50UmV3cml0ZVJlYXNvbi5QT1NJVElPTgogICAgICAgIGlmIG5vdCBwb3NpdGlvbl9lbGlnaWJsZQogICAgICAgIGVsc2UgQ291bnRSZXdyaXRlUmVhc29uLlJBV19TSEFQRQogICAgKQogICAgcmV0dXJuIENvdW50UmV3cml0ZUVsaWdpYmlsaXR5KHBvc2l0aW9uX2VsaWdpYmxlLCByYXdfc2hhcGUsIHJlYXNvbikKCgpkZWYgX3BhcnNlX3NsaWNlKHZhbHVlOiBzdHIpIC0+IHNsaWNlIHwgTm9uZToKICAgIGlmICI6IiBub3QgaW4gdmFsdWU6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHBhcnRzID0gdmFsdWUuc3BsaXQoIjoiKQogICAgaWYgbGVuKHBhcnRzKSBub3QgaW4gKDIsIDMpOgogICAgICAgIHJldHVybiBOb25lCiAgICB0cnk6CiAgICAgICAgbnVtYmVycyA9IFtpbnQoaXRlbSkgaWYgaXRlbSBlbHNlIE5vbmUgZm9yIGl0ZW0gaW4gcGFydHNdCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICByZXR1cm4gTm9uZQogICAgcmV0dXJuIHNsaWNlKCpudW1iZXJzKQoKCmRlZiBmb2xkX2NvdW50X3NlbGVjdCgKICAgIGFyZ3M6IEFueSwKICAgIHJlc29sdmVfY29tcGlsZV9mdW5jdGlvbjogQ2FsbGFibGVbW2RpY3Rbc3RyLCBBbnldXSwgQW55XSwKICAgIHJlc29sdmVfbG9va3VwX2Z1bmN0aW9uOiBDYWxsYWJsZVtbZGljdFtzdHIsIEFueV1dLCBBbnldIHwgTm9uZSA9IE5vbmUsCikgLT4gQ291bnRTZWxlY3RGb2xkRmFjdDoKICAgICIiIlJlcHJvZHVjZSB0aGUgQ291bnQgcHJlY29tcGlsZXIncyBuYXJyb3cgdHdvL3RocmVlLWl0ZW0gU2VsZWN0IGZvbGQuCgogICAgYGByZXNvbHZlX2NvbXBpbGVfZnVuY3Rpb25gYCBpcyBkZWxpYmVyYXRlbHkgcmVzdHJpY3RlZCB0byBhIHNpbmdsZSByYXcKICAgIGZ1bmN0aW9uIE1hcHBpbmcuICBJdCBtdXN0IG5vdCByZWN1cnNpdmVseSBleGVjdXRlIGFyYml0cmFyeSB0ZW1wbGF0ZXMuCiAgICAiIiIKCiAgICBpZiBub3QgaXNpbnN0YW5jZShhcmdzLCBsaXN0KSBvciBsZW4oYXJncykgbm90IGluICgyLCAzKToKICAgICAgICByZXR1cm4gQ291bnRTZWxlY3RGb2xkRmFjdChGYWxzZSwgdHlwZShhcmdzKS5fX25hbWVfXykKICAgIGxocywgcmhzID0gYXJnc1swXSwgYXJnc1sxXQogICAgaWYgbm90IChpc2luc3RhbmNlKGxocywgZGljdCkgYW5kIGxlbihsaHMpID09IDEgYW5kIGlzaW5zdGFuY2UocmhzLCBkaWN0KSBhbmQgbGVuKHJocykgPT0gMSk6CiAgICAgICAgcmV0dXJuIENvdW50U2VsZWN0Rm9sZEZhY3QoRmFsc2UsICJsaXN0LXt9Ii5mb3JtYXQobGVuKGFyZ3MpKSkKICAgIGNvbGxlY3Rpb24gPSByZXNvbHZlX2NvbXBpbGVfZnVuY3Rpb24ocmhzKQogICAgaWYgbm90IGlzaW5zdGFuY2UoY29sbGVjdGlvbiwgbGlzdCk6CiAgICAgICAgcmV0dXJuIENvdW50U2VsZWN0Rm9sZEZhY3QoRmFsc2UsICJyaHMtbm90LWRpcmVjdC1saXN0IikKICAgIHRyeToKICAgICAgICBsb29rdXAgPSAocmVzb2x2ZV9sb29rdXBfZnVuY3Rpb24gb3IgcmVzb2x2ZV9jb21waWxlX2Z1bmN0aW9uKShsaHMpCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UobG9va3VwLCAoc3RyLCBpbnQpKToKICAgICAgICAgICAgbG9va3VwID0gcmVzb2x2ZV9jb21waWxlX2Z1bmN0aW9uKGxocykKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgdHJ5OgogICAgICAgICAgICBsb29rdXAgPSByZXNvbHZlX2NvbXBpbGVfZnVuY3Rpb24obGhzKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHJldHVybiBDb3VudFNlbGVjdEZvbGRGYWN0KEZhbHNlLCAibGhzLXVucmVzb2x2ZWQiKQogICAgaWYgaXNpbnN0YW5jZShsb29rdXAsIHN0cik6CiAgICAgICAgcGFyc2VkX3NsaWNlID0gX3BhcnNlX3NsaWNlKGxvb2t1cCkKICAgICAgICBpZiBwYXJzZWRfc2xpY2UgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIENvdW50U2VsZWN0Rm9sZEZhY3QoRmFsc2UsICJsaHMtbm90LWludGVnZXIiKQogICAgICAgIHRyeToKICAgICAgICAgICAgc2VsZWN0ZWQgPSBjb2xsZWN0aW9uW3BhcnNlZF9zbGljZV0KICAgICAgICBleGNlcHQgVmFsdWVFcnJvciBhcyBleDoKICAgICAgICAgICAgcmV0dXJuIENvdW50U2VsZWN0Rm9sZEZhY3QoCiAgICAgICAgICAgICAgICBUcnVlLAogICAgICAgICAgICAgICAgImxpc3Qte30iLmZvcm1hdChsZW4oYXJncykpLAogICAgICAgICAgICAgICAgcmVzb2x2ZWRfaW5kZXg9cGFyc2VkX3NsaWNlLAogICAgICAgICAgICAgICAgcHJlY29tcGlsZV9mYWlsdXJlPXN0cihleCksCiAgICAgICAgICAgICkKICAgICAgICByZXR1cm4gQ291bnRTZWxlY3RGb2xkRmFjdCgKICAgICAgICAgICAgVHJ1ZSwKICAgICAgICAgICAgImxpc3Qte30iLmZvcm1hdChsZW4oYXJncykpLAogICAgICAgICAgICByZXNvbHZlZF9pbmRleD1wYXJzZWRfc2xpY2UsCiAgICAgICAgICAgIHNlbGVjdGVkX29yaWdpbj0xLAogICAgICAgICAgICB0cmFuc2Zvcm1lZF9ub2RlPXNlbGVjdGVkLAogICAgICAgICAgICBkZWxldGVkX25vZGVfaW5kZXhlcz0oMCwgMSwgMikgaWYgbGVuKGFyZ3MpID09IDMgZWxzZSAoMCwgMSksCiAgICAgICAgKQogICAgaWYgbm90IGlzaW5zdGFuY2UobG9va3VwLCBpbnQpOgogICAgICAgIHJldHVybiBDb3VudFNlbGVjdEZvbGRGYWN0KEZhbHNlLCAibGhzLW5vdC1pbnRlZ2VyIikKICAgIGlmIGxvb2t1cCA+PSBsZW4oY29sbGVjdGlvbik6CiAgICAgICAgaWYgbGVuKGFyZ3MpID09IDM6CiAgICAgICAgICAgIHJldHVybiBDb3VudFNlbGVjdEZvbGRGYWN0KAogICAgICAgICAgICAgICAgVHJ1ZSwKICAgICAgICAgICAgICAgICJsaXN0LTMiLAogICAgICAgICAgICAgICAgcmVzb2x2ZWRfaW5kZXg9bG9va3VwLAogICAgICAgICAgICAgICAgc2VsZWN0ZWRfb3JpZ2luPTIsCiAgICAgICAgICAgICAgICB0cmFuc2Zvcm1lZF9ub2RlPWFyZ3NbMl0sCiAgICAgICAgICAgICAgICBkZWxldGVkX25vZGVfaW5kZXhlcz0oMCwgMSksCiAgICAgICAgICAgICkKICAgICAgICByZXR1cm4gQ291bnRTZWxlY3RGb2xkRmFjdCgKICAgICAgICAgICAgVHJ1ZSwKICAgICAgICAgICAgImxpc3QtMiIsCiAgICAgICAgICAgIHJlc29sdmVkX2luZGV4PWxvb2t1cCwKICAgICAgICAgICAgcHJlY29tcGlsZV9mYWlsdXJlPSJwb3NpdGl2ZSBpbmRleCBvdXQgb2YgYm91bmRzIiwKICAgICAgICApCiAgICB0cnk6CiAgICAgICAgc2VsZWN0ZWQgPSBjb2xsZWN0aW9uW2xvb2t1cF0KICAgIGV4Y2VwdCBJbmRleEVycm9yOgogICAgICAgIHJldHVybiBDb3VudFNlbGVjdEZvbGRGYWN0KAogICAgICAgICAgICBUcnVlLAogICAgICAgICAgICAibGlzdC17fSIuZm9ybWF0KGxlbihhcmdzKSksCiAgICAgICAgICAgIHJlc29sdmVkX2luZGV4PWxvb2t1cCwKICAgICAgICAgICAgcHJlY29tcGlsZV9mYWlsdXJlPSJuZWdhdGl2ZSBpbmRleCBvdXQgb2YgYm91bmRzIiwKICAgICAgICApCiAgICByZXR1cm4gQ291bnRTZWxlY3RGb2xkRmFjdCgKICAgICAgICBUcnVlLAogICAgICAgICJsaXN0LXt9Ii5mb3JtYXQobGVuKGFyZ3MpKSwKICAgICAgICByZXNvbHZlZF9pbmRleD1sb29rdXAsCiAgICAgICAgc2VsZWN0ZWRfb3JpZ2luPTEsCiAgICAgICAgdHJhbnNmb3JtZWRfbm9kZT1zZWxlY3RlZCwKICAgICAgICBkZWxldGVkX25vZGVfaW5kZXhlcz0oMCwgMSwgMikgaWYgbGVuKGFyZ3MpID09IDMgZWxzZSAoMCwgMSksCiAgICApCg==
+"""Count occurrence eligibility and the pre-runtime CountSelectFold transform."""
+
+from __future__ import annotations
+
+from dataclasses import dataclass
+from enum import Enum
+from typing import Any, Callable
+
+
+class CountRewriteReason(str, Enum):
+    ELIGIBLE = "ELIGIBLE"
+    POSITION = "POSITION_NOT_ELIGIBLE"
+    RAW_SHAPE = "RAW_SHAPE_NOT_ELIGIBLE"
+
+
+@dataclass(frozen=True)
+class CountRewriteEligibility:
+    position_eligible: bool
+    raw_shape_eligible: bool
+    reason: CountRewriteReason
+
+    @property
+    def eligible(self) -> bool:
+        return self.position_eligible and self.raw_shape_eligible
+
+
+@dataclass(frozen=True)
+class CountSelectFoldFact:
+    activated: bool
+    raw_shape: str
+    resolved_index: int | slice | None = None
+    selected_origin: int | None = None
+    transformed_node: Any = None
+    deleted_node_indexes: tuple[int, ...] = ()
+    precompile_failure: str | None = None
+
+
+def ref_count_eligibility(position_eligible: bool, raw_args: Any) -> CountRewriteEligibility:
+    raw_shape = isinstance(raw_args, str)
+    reason = (
+        CountRewriteReason.ELIGIBLE
+        if position_eligible and raw_shape
+        else CountRewriteReason.POSITION
+        if not position_eligible
+        else CountRewriteReason.RAW_SHAPE
+    )
+    return CountRewriteEligibility(position_eligible, raw_shape, reason)
+
+
+def getatt_count_eligibility(position_eligible: bool, raw_args: Any) -> CountRewriteEligibility:
+    raw_shape = isinstance(raw_args, list) and len(raw_args) == 2 and isinstance(raw_args[0], str)
+    reason = (
+        CountRewriteReason.ELIGIBLE
+        if position_eligible and raw_shape
+        else CountRewriteReason.POSITION
+        if not position_eligible
+        else CountRewriteReason.RAW_SHAPE
+    )
+    return CountRewriteEligibility(position_eligible, raw_shape, reason)
+
+
+def _parse_slice(value: str) -> slice | None:
+    if ":" not in value:
+        return None
+    parts = value.split(":")
+    if len(parts) not in (2, 3):
+        return None
+    try:
+        numbers = [int(item) if item else None for item in parts]
+    except ValueError:
+        return None
+    return slice(*numbers)
+
+
+def fold_count_select(
+    args: Any,
+    resolve_compile_function: Callable[[dict[str, Any]], Any],
+    resolve_lookup_function: Callable[[dict[str, Any]], Any] | None = None,
+) -> CountSelectFoldFact:
+    """Reproduce the Count precompiler's narrow two/three-item Select fold.
+
+    ``resolve_compile_function`` is deliberately restricted to a single raw
+    function Mapping.  It must not recursively execute arbitrary templates.
+    """
+
+    if not isinstance(args, list) or len(args) not in (2, 3):
+        return CountSelectFoldFact(False, type(args).__name__)
+    lhs, rhs = args[0], args[1]
+    if not (isinstance(lhs, dict) and len(lhs) == 1 and isinstance(rhs, dict) and len(rhs) == 1):
+        return CountSelectFoldFact(False, "list-{}".format(len(args)))
+    collection = resolve_compile_function(rhs)
+    if not isinstance(collection, list):
+        return CountSelectFoldFact(False, "rhs-not-direct-list")
+    try:
+        lookup = (resolve_lookup_function or resolve_compile_function)(lhs)
+        if not isinstance(lookup, (str, int)):
+            lookup = resolve_compile_function(lhs)
+    except Exception:
+        try:
+            lookup = resolve_compile_function(lhs)
+        except Exception:
+            return CountSelectFoldFact(False, "lhs-unresolved")
+    if isinstance(lookup, str):
+        parsed_slice = _parse_slice(lookup)
+        if parsed_slice is None:
+            return CountSelectFoldFact(False, "lhs-not-integer")
+        try:
+            selected = collection[parsed_slice]
+        except ValueError as ex:
+            return CountSelectFoldFact(
+                True,
+                "list-{}".format(len(args)),
+                resolved_index=parsed_slice,
+                precompile_failure=str(ex),
+            )
+        return CountSelectFoldFact(
+            True,
+            "list-{}".format(len(args)),
+            resolved_index=parsed_slice,
+            selected_origin=1,
+            transformed_node=selected,
+            deleted_node_indexes=(0, 1, 2) if len(args) == 3 else (0, 1),
+        )
+    if not isinstance(lookup, int):
+        return CountSelectFoldFact(False, "lhs-not-integer")
+    if lookup >= len(collection):
+        if len(args) == 3:
+            return CountSelectFoldFact(
+                True,
+                "list-3",
+                resolved_index=lookup,
+                selected_origin=2,
+                transformed_node=args[2],
+                deleted_node_indexes=(0, 1),
+            )
+        return CountSelectFoldFact(
+            True,
+            "list-2",
+            resolved_index=lookup,
+            precompile_failure="positive index out of bounds",
+        )
+    try:
+        selected = collection[lookup]
+    except IndexError:
+        return CountSelectFoldFact(
+            True,
+            "list-{}".format(len(args)),
+            resolved_index=lookup,
+            precompile_failure="negative index out of bounds",
+        )
+    return CountSelectFoldFact(
+        True,
+        "list-{}".format(len(args)),
+        resolved_index=lookup,
+        selected_origin=1,
+        transformed_node=selected,
+        deleted_node_indexes=(0, 1, 2) if len(args) == 3 else (0, 1),
+    )

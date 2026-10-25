@@ -1,1 +1,162 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIxMTIg57uT5p6c5Zu+ICsg5YGa5a6M6Ieq5bex55yL77yI5riy5p+T5LiK5bGPIOKGkiDluKfnvJPlhrLnnJ/lrp7ph4fpm4Yg4oaSIE9DUiDor7vlm57vvIkiIiIKaW1wb3J0IG9zCmltcG9ydCBqc29uCmltcG9ydCByYW5kb20KaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCdBZ2cnKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYiBpbXBvcnQgZm9udF9tYW5hZ2VyCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKClJPT1QgPSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEnCk9VVCA9IG9zLnBhdGguam9pbihST09ULCAnZXhwZXJpbWVudHMnLCAnZXhwMTEyX3JlYWxfY2xvc2VkbG9vcCcpCm9zLm1ha2VkaXJzKG9zLnBhdGguam9pbihST09ULCAnZmlnJyksIGV4aXN0X29rPVRydWUpCgpGUCA9ICcvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjJwpmb250X21hbmFnZXIuZm9udE1hbmFnZXIuYWRkZm9udChGUCkKcGx0LnJjUGFyYW1zWydmb250LmZhbWlseSddID0gZm9udF9tYW5hZ2VyLkZvbnRQcm9wZXJ0aWVzKGZuYW1lPUZQKS5nZXRfbmFtZSgpCnBsdC5yY1BhcmFtc1snYXhlcy51bmljb2RlX21pbnVzJ10gPSBGYWxzZQoKciA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihPVVQsICdyZXN1bHQxMTIuanNvbicpKSkKcmIgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oT1VULCAncmVzdWx0MTEyYi5qc29uJykpKQoKZmlnLCBheCA9IHBsdC5zdWJwbG90cygyLCAzLCBmaWdzaXplPSgxNiwgOS4yKSkKCiMgLS0tLSDikaAg5p2h5Lu255+p6Zi15oiQ5Yqf546HIC0tLS0KY29uZHMgPSBsaXN0KHJbJ2NvbmRzJ10ua2V5cygpKQpvayA9IFtyWydjb25kcyddW2NdWydvayddIGZvciBjIGluIGNvbmRzXQpuID0gclsnY29uZHMnXVtjb25kc1swXV1bJ24nXQpjb2xzID0gWycjMmU3ZDMyJyBpZiBjID09ICdjbG9zZWQnIGVsc2UgKCcjZjlhODI1JyBpZiBjID09ICd5b2tlZCcgZWxzZSAnI2M2MjgyOCcpCiAgICAgICAgZm9yIGMgaW4gY29uZHNdCmF4WzBdWzBdLmJhcihjb25kcywgb2ssIGNvbG9yPWNvbHMpCmZvciBpLCB2IGluIGVudW1lcmF0ZShvayk6CiAgICBheFswXVswXS50ZXh0KGksIHYgKyAwLjI1LCBmJ3t2fS97bn0nLCBoYT0nY2VudGVyJywgZm9udHNpemU9MTEpCmF4WzBdWzBdLnNldF95bGltKDAsIG4gKyAyKQpheFswXVswXS5zZXRfdGl0bGUoJzExMiDCtyDnnJ/lrp7pl63njq/lkb3kuK3mlbDvvIhmYjDnnLwgKyB1aW5wdXTmiYvvvIknLCBmb250c2l6ZT0xMikKYXhbMF1bMF0uc2V0X3lsYWJlbChmJ+aIkOWKnyAvIHtufScpCmF4WzBdWzBdLmdyaWQoYXhpcz0neScsIGFscGhhPS4zKQoKIyAtLS0tIOKRoSDmnKvot50gLS0tLQpmZSA9IFtyWydjb25kcyddW2NdWydmaW5hbF9lcnInXSBmb3IgYyBpbiBjb25kc10KYXhbMF1bMV0uYmFyKGNvbmRzLCBmZSwgY29sb3I9Y29scykKYXhbMF1bMV0uYXhobGluZSgxNCwgY29sb3I9J2snLCBscz0nLS0nLCBsdz0xKQpheFswXVsxXS50ZXh0KDAuMDUsIDIwLCAn5ZG95Lit6ZiI5YC8IDE0cHgnLCBmb250c2l6ZT05KQpmb3IgaSwgdiBpbiBlbnVtZXJhdGUoZmUpOgogICAgYXhbMF1bMV0udGV4dChpLCB2ICsgMTgsIGYne3Y6LjBmfScsIGhhPSdjZW50ZXInLCBmb250c2l6ZT0xMCkKYXhbMF1bMV0uc2V0X3RpdGxlKCfnu4jmgIHnprvnm67moIfot53nprvvvIhweO+8iScsIGZvbnRzaXplPTEyKQpheFswXVsxXS5ncmlkKGF4aXM9J3knLCBhbHBoYT0uMykKCiMgLS0tLSDikaIg5Y+N6aaI6aKR546H5YmC6YeP5Y+N5bqUIC0tLS0KZHMgPSByWydkb3NlJ10KZnMgPSBbZFsnZiddIGZvciBkIGluIGRzXQpvc18gPSBbZFsnb2snXSBmb3IgZCBpbiBkc10KYXhbMF1bMl0ucGxvdChmcywgb3NfLCAnby0nLCBjb2xvcj0nIzE1NjVjMCcsIGx3PTIsIG1zPTgpCmF4WzBdWzJdLnNldF94c2NhbGUoJ2xvZycsIGJhc2U9MikKYXhbMF1bMl0uc2V0X3h0aWNrcyhmcykKYXhbMF1bMl0uc2V0X3h0aWNrbGFiZWxzKFtmJ+avj3tmfeatpeeci+S4gOasoScgZm9yIGYgaW4gZnNdLCBmb250c2l6ZT04KQpheFswXVsyXS5zZXRfeWxpbSgtMC4zLCA4LjYpCmZvciBmLCBvIGluIHppcChmcywgb3NfKToKICAgIGF4WzBdWzJdLnRleHQoZiwgbyArIDAuMjUsIGYne299LzgnLCBoYT0nY2VudGVyJywgZm9udHNpemU9MTApCmF4WzBdWzJdLnNldF90aXRsZSgn5Y+N6aaI6aKR546H5YmC6YeP5Y+N5bqU77yI55yf5a6e5oSf55+l77yJJywgZm9udHNpemU9MTIpCmF4WzBdWzJdLmdyaWQoYWxwaGE9LjMpCgojIC0tLS0g4pGjIOaViOW6lOWZqOWPr+ivgeS8qiAtLS0tCmF4WzFdWzBdLmJhcihbJ+aJi+aWrSAoZHJ5X3J1biknLCAn5omL6YCaICjnnJ/kuIvlj5EpJ10sIFswLCAzXSwgY29sb3I9WycjYzYyODI4JywgJyMyZTdkMzInXSkKYXhbMV1bMF0udGV4dCgwLCAwLjEsICcwIOS6i+S7tlxu5L2N56e7KDAsMCknLCBoYT0nY2VudGVyJywgZm9udHNpemU9MTApCmF4WzFdWzBdLnRleHQoMSwgMy4xLCAnMyDkuovku7ZcbuS9jeenuygzMCwtMjApJywgaGE9J2NlbnRlcicsIGZvbnRzaXplPTEwKQpheFsxXVswXS5zZXRfdGl0bGUoJ+aViOW6lOWZqOWPr+ivgeS8qu+8muaWrT0wIOS6i+S7tu+8jOmAmj3nnJ/kvY3np7snLCBmb250c2l6ZT0xMikKYXhbMV1bMF0uc2V0X3lsYWJlbCgn5YaF5qC46K+75Zue5LqL5Lu25pWwJykKYXhbMV1bMF0uc2V0X3lsaW0oMCwgNC4yKQoKIyAtLS0tIOKRpCDlvJXmk47vvJrnnJ/lrp7ovajov7kg4oaSIOe7k+aehOWBj+W6piAtLS0tCm5hbWVzID0gWydjbG9zZWQnLCAneW9rZWQnLCAnbm9uZScsICdleWVzJ10Kc2sgPSBbcmJbJ3RhYmxlJ11baV1bJ3NrZXcnXSBmb3IgaSBpbiByYW5nZSg0KV0KYWwgPSBbcmJbJ3RhYmxlJ11baV1bJ2FsaXZlJ10gZm9yIGkgaW4gcmFuZ2UoNCldCmI1ID0gYXhbMV1bMV0uYmFyKG5hbWVzLCBbMCBpZiBucC5pc25hbihzKSBlbHNlIHMgZm9yIHMgaW4gc2tdLAogICAgICAgICAgICAgICAgICBjb2xvcj1bJyMyZTdkMzInLCAnI2Y5YTgyNScsICcjMTU2NWMwJywgJyNjNjI4MjgnXSkKZm9yIGksIChzLCBhKSBpbiBlbnVtZXJhdGUoemlwKHNrLCBhbCkpOgogICAgbGFiID0gZid7czouNGZ9JyBpZiBub3QgbnAuaXNuYW4ocykgZWxzZSAn5YWo54GtJwogICAgYXhbMV1bMV0udGV4dChpLCAoMCBpZiBucC5pc25hbihzKSBlbHNlIHMpICsgMC4wMTIsIGYne2xhYn1cbuWtmOa0u3thfS8xNicsCiAgICAgICAgICAgICAgICAgIGhhPSdjZW50ZXInLCBmb250c2l6ZT05KQpheFsxXVsxXS5zZXRfdGl0bGUoJzExMmIgwrcg55yf5a6e6K+v5beu5rWBIOKGkiDlhoXlnKjnu5PmnoTlgY/luqYnLCBmb250c2l6ZT0xMikKYXhbMV1bMV0uc2V0X3lsaW0oMCwgMC41MikKYXhbMV1bMV0uZ3JpZChheGlzPSd5JywgYWxwaGE9LjMpCgojIC0tLS0g4pGlIOmFjeWvueW3riBDSSAtLS0tCnBhaXJzID0gWygnY2xvc2Vk4oiSbm9uZScsICswLjE1MzUsICswLjExOTksICswLjE4NjkpLAogICAgICAgICAoJ3lva2Vk4oiSbm9uZScsICswLjEzOTEsICswLjA4MzgsICswLjIwNTApLAogICAgICAgICAoJ2Nsb3NlZOKIknlva2VkJywgKzAuMDE4OSwgLTAuMDEyMCwgKzAuMDQzNildCnl5ID0gbnAuYXJhbmdlKGxlbihwYWlycykpCmF4WzFdWzJdLmVycm9yYmFyKFtwWzFdIGZvciBwIGluIHBhaXJzXSwgeXksCiAgICAgICAgICAgICAgICAgIHhlcnI9W1twWzFdIC0gcFsyXSBmb3IgcCBpbiBwYWlyc10sIFtwWzNdIC0gcFsxXSBmb3IgcCBpbiBwYWlyc11dLAogICAgICAgICAgICAgICAgICBmbXQ9J28nLCBjb2xvcj0nIzZhMWI5YScsIGNhcHNpemU9NSwgbXM9OCkKYXhbMV1bMl0uYXh2bGluZSgwLCBjb2xvcj0naycsIGx3PTEpCmF4WzFdWzJdLnNldF95dGlja3MoeXkpCmF4WzFdWzJdLnNldF95dGlja2xhYmVscyhbcFswXSBmb3IgcCBpbiBwYWlyc10sIGZvbnRzaXplPTEwKQpheFsxXVsyXS5zZXRfdGl0bGUoJ+mFjeWvueW3riA5NSVDSe+8iGNsb3NlZOKIknlva2VkIOi3qCAw77yJJywgZm9udHNpemU9MTIpCmF4WzFdWzJdLmdyaWQoYXhpcz0neCcsIGFscGhhPS4zKQoKcGx0LnRpZ2h0X2xheW91dCgpCnBmaWcgPSBvcy5wYXRoLmpvaW4oUk9PVCwgJ2ZpZycsICcxMTJfcmVhbF9jbG9zZWRsb29wLnBuZycpCnBsdC5zYXZlZmlnKHBmaWcsIGRwaT0xMTApCnByaW50KCdbZmlnXScsIHBmaWcpCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5YGa5a6M6Ieq5bex55yLCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KVywgSCA9IDEwMjQsIDc2OApjb2RlID0gJycuam9pbihyYW5kb20uY2hvaWNlKCcwMTIzNDU2Nzg5QUJDREVGJykgZm9yIF8gaW4gcmFuZ2UoNikpCnJvd3MgPSBbCiAgICAoJzExMiDpl63njq8g5ZG95LitJywgZiJ7clsnY29uZHMnXVsnY2xvc2VkJ11bJ29rJ119LzEyICDlubPlnYcgMTIuMiDmraUiKSwKICAgICgnMTEyIOW8gOeOryDlkb3kuK0nLCBmIntyWydjb25kcyddWydvcGVuJ11bJ29rJ119LzEyICDmnKvot50gMTk0cHgiKSwKICAgICgnMTEyIHlva2VkIOWRveS4rScsIGYie3JbJ2NvbmRzJ11bJ3lva2VkJ11bJ29rJ119LzEyICDmnKvot50gNDVweCIpLAogICAgKCcxMTIg55uy5YqoIOWRveS4rScsIGYie3JbJ2NvbmRzJ11bJ2JsaW5kJ11bJ29rJ119LzEyICDmnKvot50gODIwcHgiKSwKICAgICgnMTEyIOWPquecvOS4jeWKqCDlkb3kuK0nLCBmIntyWydjb25kcyddWydleWVzJ11bJ29rJ119LzEyICDmnKvot50gNzU1cHgiKSwKICAgICgnMTEyIOWJgumHjyBmPTEnLCAnOC84ICAgIGY9OCAwLzggIOWNleiwgycpLAogICAgKCcxMTIg5Y2V5q2l5oSf55+l5bu26L+fJywgZiJ7clsnc2Vuc2VfbGF0ZW5jeV9tcyddOi4xZn0gbXMg55yf5a6e5bin57yT5YayIiksCiAgICAoJzExMmIgY2xvc2VkLW5vbmUg5YGP5bqmJywgJyswLjE1MzUgQ0nlhajmraMg5pi+6JGXJyksCiAgICAoJzExMmIgY2xvc2VkLXlva2VkIOWBj+W6picsICcrMC4wMTg5IENJ6LeoMCDkuI3mmL7okZcnKSwKICAgICgnMTEyYiBleWVzIOa1gSDlrZjmtLsnLCAnMC8xNiAg5oyB57ut5Y2V5ZCR6L6T5YWlPeWehOaWrT3mrbsnKSwKICAgICgnMTEyIOaViOW6lOWZqOWPr+ivgeS8qicsICfmlq0gMCDkuovku7YgLyDpgJogMyDkuovku7YnKSwKXQppbWcgPSBJbWFnZS5uZXcoJ1JHQicsIChXLCBIKSwgKDI1NSwgMjU1LCAyNTUpKQpkID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQpmMSA9IEltYWdlRm9udC50cnVldHlwZShGUCwgMzApCmYyID0gSW1hZ2VGb250LnRydWV0eXBlKEZQLCAyNSkKZC50ZXh0KCg0MCwgMjApLCAnMTEyIOecn+WunumXreeOrzog55yf55y8K+ecn+aJiyvnnJ/kuJbnlYzlk43lupQnLCBmb250PWYxLCBmaWxsPSgwLCAwLCAwKSkKeSA9IDgwCmZvciBhLCBiIGluIHJvd3M6CiAgICBkLnRleHQoKDQ1LCB5KSwgYSwgZm9udD1mMiwgZmlsbD0oMjAsIDIwLCAxMjApKQogICAgZC50ZXh0KCg1MjAsIHkpLCBiLCBmb250PWYyLCBmaWxsPSgxNjAsIDIwLCAyMCkpCiAgICB5ICs9IDUwCmQudGV4dCgoNDUsIHkgKyAxNCksIGYnUkFORE9NIENIRUNLID0ge2NvZGV9JywKICAgICAgIGZvbnQ9SW1hZ2VGb250LnRydWV0eXBlKEZQLCAzNCksIGZpbGw9KDAsIDExMCwgMCkpCmltZy5zYXZlKG9zLnBhdGguam9pbihPVVQsICdyZW5kZXJlZDExMi5wbmcnKSkKCmFyciA9IG5wLmFycmF5KGltZy5jb252ZXJ0KCdSR0JBJykpCmNhbnZhcyA9IG5wLnplcm9zKChILCBXLCA0KSwgbnAudWludDgpCmNhbnZhc1s6LCA6LCAwXSA9IGFycls6LCA6LCAwXQpjYW52YXNbOiwgOiwgMV0gPSBhcnJbOiwgOiwgMV0KY2FudmFzWzosIDosIDJdID0gYXJyWzosIDosIDJdCmNhbnZhc1s6LCA6LCAzXSA9IDI1NQp3aXRoIG9wZW4oJy9kZXYvZmIwJywgJ3diJykgYXMgZjoKICAgIGYud3JpdGUoY2FudmFzLnRvYnl0ZXMoKSkKd2l0aCBvcGVuKCcvZGV2L2ZiMCcsICdyYicpIGFzIGY6CiAgICByYXcgPSBmLnJlYWQoVyAqIEggKiA0KQpjYXAgPSBucC5mcm9tYnVmZmVyKHJhdywgbnAudWludDgpLnJlc2hhcGUoSCwgVywgNClbOiwgOiwgOjNdCkltYWdlLmZyb21hcnJheShjYXApLnNhdmUob3MucGF0aC5qb2luKE9VVCwgJ2NhcHR1cmVkMTEyLnBuZycpKQoKdHh0ID0gc3VicHJvY2Vzcy5ydW4oWyd0ZXNzZXJhY3QnLCBvcy5wYXRoLmpvaW4oT1VULCAnY2FwdHVyZWQxMTIucG5nJyksCiAgICAgICAgICAgICAgICAgICAgICAnc3Rkb3V0JywgJy0tcHNtJywgJzYnLCAnLWwnLCAnZW5nJ10sCiAgICAgICAgICAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkuc3Rkb3V0CmZsYXQgPSB0eHQucmVwbGFjZSgnICcsICcnKQpwcmludCgnW09DUl0g5qCh6aqM56CB5ZG95LitID0nLCBjb2RlIGluIGZsYXQsIGYnKHtjb2RlfSknKQpudW1zID0gWycxMi8xMicsICcwLzEyJywgJzgvMTInLCAnMTIuMicsICc1LjUnLCAnMC4xNTM1JywgJzAuMDE4OSddCmhpdHMgPSBzdW0oMSBmb3IgeCBpbiBudW1zIGlmIHgucmVwbGFjZSgnLycsICcnKSBpbiBmbGF0LnJlcGxhY2UoJy8nLCAnJykpCnByaW50KGYnW09DUl0g5YWz6ZSu5pWw5a2X5ZG95LitIHtoaXRzfS97bGVuKG51bXMpfScpCmpzb24uZHVtcChkaWN0KGNvZGU9Y29kZSwgY29kZV9oaXQ9Ym9vbChjb2RlIGluIGZsYXQpLCBudW1zX2hpdD1oaXRzKSwKICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKE9VVCwgJ3NlbGZjaGVjazExMi5qc29uJyksICd3JyksIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""112 结果图 + 做完自己看（渲染上屏 → 帧缓冲真实采集 → OCR 读回）"""
+import os
+import json
+import random
+import subprocess
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+from PIL import Image, ImageDraw, ImageFont
+
+ROOT = '/data/workspace/luoshen-o1'
+OUT = os.path.join(ROOT, 'experiments', 'exp112_real_closedloop')
+os.makedirs(os.path.join(ROOT, 'fig'), exist_ok=True)
+
+FP = '/usr/share/fonts/truetype/wqy/wqy-microhei.ttc'
+font_manager.fontManager.addfont(FP)
+plt.rcParams['font.family'] = font_manager.FontProperties(fname=FP).get_name()
+plt.rcParams['axes.unicode_minus'] = False
+
+r = json.load(open(os.path.join(OUT, 'result112.json')))
+rb = json.load(open(os.path.join(OUT, 'result112b.json')))
+
+fig, ax = plt.subplots(2, 3, figsize=(16, 9.2))
+
+# ---- ① 条件矩阵成功率 ----
+conds = list(r['conds'].keys())
+ok = [r['conds'][c]['ok'] for c in conds]
+n = r['conds'][conds[0]]['n']
+cols = ['#2e7d32' if c == 'closed' else ('#f9a825' if c == 'yoked' else '#c62828')
+        for c in conds]
+ax[0][0].bar(conds, ok, color=cols)
+for i, v in enumerate(ok):
+    ax[0][0].text(i, v + 0.25, f'{v}/{n}', ha='center', fontsize=11)
+ax[0][0].set_ylim(0, n + 2)
+ax[0][0].set_title('112 · 真实闭环命中数（fb0眼 + uinput手）', fontsize=12)
+ax[0][0].set_ylabel(f'成功 / {n}')
+ax[0][0].grid(axis='y', alpha=.3)
+
+# ---- ② 末距 ----
+fe = [r['conds'][c]['final_err'] for c in conds]
+ax[0][1].bar(conds, fe, color=cols)
+ax[0][1].axhline(14, color='k', ls='--', lw=1)
+ax[0][1].text(0.05, 20, '命中阈值 14px', fontsize=9)
+for i, v in enumerate(fe):
+    ax[0][1].text(i, v + 18, f'{v:.0f}', ha='center', fontsize=10)
+ax[0][1].set_title('终态离目标距离（px）', fontsize=12)
+ax[0][1].grid(axis='y', alpha=.3)
+
+# ---- ③ 反馈频率剂量反应 ----
+ds = r['dose']
+fs = [d['f'] for d in ds]
+os_ = [d['ok'] for d in ds]
+ax[0][2].plot(fs, os_, 'o-', color='#1565c0', lw=2, ms=8)
+ax[0][2].set_xscale('log', base=2)
+ax[0][2].set_xticks(fs)
+ax[0][2].set_xticklabels([f'每{f}步看一次' for f in fs], fontsize=8)
+ax[0][2].set_ylim(-0.3, 8.6)
+for f, o in zip(fs, os_):
+    ax[0][2].text(f, o + 0.25, f'{o}/8', ha='center', fontsize=10)
+ax[0][2].set_title('反馈频率剂量反应（真实感知）', fontsize=12)
+ax[0][2].grid(alpha=.3)
+
+# ---- ④ 效应器可证伪 ----
+ax[1][0].bar(['手断 (dry_run)', '手通 (真下发)'], [0, 3], color=['#c62828', '#2e7d32'])
+ax[1][0].text(0, 0.1, '0 事件\n位移(0,0)', ha='center', fontsize=10)
+ax[1][0].text(1, 3.1, '3 事件\n位移(30,-20)', ha='center', fontsize=10)
+ax[1][0].set_title('效应器可证伪：断=0 事件，通=真位移', fontsize=12)
+ax[1][0].set_ylabel('内核读回事件数')
+ax[1][0].set_ylim(0, 4.2)
+
+# ---- ⑤ 引擎：真实轨迹 → 结构偏度 ----
+names = ['closed', 'yoked', 'none', 'eyes']
+sk = [rb['table'][i]['skew'] for i in range(4)]
+al = [rb['table'][i]['alive'] for i in range(4)]
+b5 = ax[1][1].bar(names, [0 if np.isnan(s) else s for s in sk],
+                  color=['#2e7d32', '#f9a825', '#1565c0', '#c62828'])
+for i, (s, a) in enumerate(zip(sk, al)):
+    lab = f'{s:.4f}' if not np.isnan(s) else '全灭'
+    ax[1][1].text(i, (0 if np.isnan(s) else s) + 0.012, f'{lab}\n存活{a}/16',
+                  ha='center', fontsize=9)
+ax[1][1].set_title('112b · 真实误差流 → 内在结构偏度', fontsize=12)
+ax[1][1].set_ylim(0, 0.52)
+ax[1][1].grid(axis='y', alpha=.3)
+
+# ---- ⑥ 配对差 CI ----
+pairs = [('closed−none', +0.1535, +0.1199, +0.1869),
+         ('yoked−none', +0.1391, +0.0838, +0.2050),
+         ('closed−yoked', +0.0189, -0.0120, +0.0436)]
+yy = np.arange(len(pairs))
+ax[1][2].errorbar([p[1] for p in pairs], yy,
+                  xerr=[[p[1] - p[2] for p in pairs], [p[3] - p[1] for p in pairs]],
+                  fmt='o', color='#6a1b9a', capsize=5, ms=8)
+ax[1][2].axvline(0, color='k', lw=1)
+ax[1][2].set_yticks(yy)
+ax[1][2].set_yticklabels([p[0] for p in pairs], fontsize=10)
+ax[1][2].set_title('配对差 95%CI（closed−yoked 跨 0）', fontsize=12)
+ax[1][2].grid(axis='x', alpha=.3)
+
+plt.tight_layout()
+pfig = os.path.join(ROOT, 'fig', '112_real_closedloop.png')
+plt.savefig(pfig, dpi=110)
+print('[fig]', pfig)
+
+# ==========================================================================
+# 做完自己看
+# ==========================================================================
+W, H = 1024, 768
+code = ''.join(random.choice('0123456789ABCDEF') for _ in range(6))
+rows = [
+    ('112 闭环 命中', f"{r['conds']['closed']['ok']}/12  平均 12.2 步"),
+    ('112 开环 命中', f"{r['conds']['open']['ok']}/12  末距 194px"),
+    ('112 yoked 命中', f"{r['conds']['yoked']['ok']}/12  末距 45px"),
+    ('112 盲动 命中', f"{r['conds']['blind']['ok']}/12  末距 820px"),
+    ('112 只眼不动 命中', f"{r['conds']['eyes']['ok']}/12  末距 755px"),
+    ('112 剂量 f=1', '8/8    f=8 0/8  单调'),
+    ('112 单步感知延迟', f"{r['sense_latency_ms']:.1f} ms 真实帧缓冲"),
+    ('112b closed-none 偏度', '+0.1535 CI全正 显著'),
+    ('112b closed-yoked 偏度', '+0.0189 CI跨0 不显著'),
+    ('112b eyes 流 存活', '0/16  持续单向输入=垄断=死'),
+    ('112 效应器可证伪', '断 0 事件 / 通 3 事件'),
+]
+img = Image.new('RGB', (W, H), (255, 255, 255))
+d = ImageDraw.Draw(img)
+f1 = ImageFont.truetype(FP, 30)
+f2 = ImageFont.truetype(FP, 25)
+d.text((40, 20), '112 真实闭环: 真眼+真手+真世界响应', font=f1, fill=(0, 0, 0))
+y = 80
+for a, b in rows:
+    d.text((45, y), a, font=f2, fill=(20, 20, 120))
+    d.text((520, y), b, font=f2, fill=(160, 20, 20))
+    y += 50
+d.text((45, y + 14), f'RANDOM CHECK = {code}',
+       font=ImageFont.truetype(FP, 34), fill=(0, 110, 0))
+img.save(os.path.join(OUT, 'rendered112.png'))
+
+arr = np.array(img.convert('RGBA'))
+canvas = np.zeros((H, W, 4), np.uint8)
+canvas[:, :, 0] = arr[:, :, 0]
+canvas[:, :, 1] = arr[:, :, 1]
+canvas[:, :, 2] = arr[:, :, 2]
+canvas[:, :, 3] = 255
+with open('/dev/fb0', 'wb') as f:
+    f.write(canvas.tobytes())
+with open('/dev/fb0', 'rb') as f:
+    raw = f.read(W * H * 4)
+cap = np.frombuffer(raw, np.uint8).reshape(H, W, 4)[:, :, :3]
+Image.fromarray(cap).save(os.path.join(OUT, 'captured112.png'))
+
+txt = subprocess.run(['tesseract', os.path.join(OUT, 'captured112.png'),
+                      'stdout', '--psm', '6', '-l', 'eng'],
+                     capture_output=True, text=True).stdout
+flat = txt.replace(' ', '')
+print('[OCR] 校验码命中 =', code in flat, f'({code})')
+nums = ['12/12', '0/12', '8/12', '12.2', '5.5', '0.1535', '0.0189']
+hits = sum(1 for x in nums if x.replace('/', '') in flat.replace('/', ''))
+print(f'[OCR] 关键数字命中 {hits}/{len(nums)}')
+json.dump(dict(code=code, code_hit=bool(code in flat), nums_hit=hits),
+          open(os.path.join(OUT, 'selfcheck112.json'), 'w'), indent=1)

@@ -1,1 +1,30 @@
-aW1wb3J0IHRpbWUsb3Msc2lnbmFsLHN0YXRpc3RpY3MgYXMgc3QsanNvbixzeXMKZGVmIGJ1c3lfZm9yKHNlYyk6CiAgICB0MD10aW1lLnRpbWUoKTsgcz0wCiAgICB3aGlsZSB0aW1lLnRpbWUoKS10MDxzZWM6IHMrPTEKICAgIHJldHVybiBzCmRlZiBtZWFzKG49NDApOgogICAgdHM9W10KICAgIGZvciBfIGluIHJhbmdlKG4pOgogICAgICAgIHQwPXRpbWUucGVyZl9jb3VudGVyX25zKCk7IHM9MAogICAgICAgIGZvciBpIGluIHJhbmdlKDMwMCk6IHMrPWkqaQogICAgICAgIHRzLmFwcGVuZCh0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwKQogICAgcmV0dXJuIHRzCiMg5peg6LSf6L295Z+657q/CmJhc2U9W10KZm9yIF8gaW4gcmFuZ2UoMzApOiBiYXNlKz1tZWFzKDQwKQojIOaciei0n+i9vSjnnJ/lrp7lrZDov5vnqIvlv5kpCmxvYWQ9W10KcGlkPW9zLmZvcmsoKQppZiBwaWQ9PTA6CiAgICBidXN5X2Zvcig2MCk7IG9zLl9leGl0KDApCmZvciBfIGluIHJhbmdlKDMwKTogbG9hZCs9bWVhcyg0MCkKb3Mua2lsbChwaWQsc2lnbmFsLlNJR0tJTEwpOyBvcy53YWl0cGlkKHBpZCwwKQpiPXN0Lm1lYW4oYmFzZSk7IGw9c3QubWVhbihsb2FkKQpzYj1zdC5wc3RkZXYoYmFzZSk7IHNsPXN0LnBzdGRldihsb2FkKQpkPShsLWIpLygoc2IqKjIrc2wqKjIpLzIpKiowLjUKcHJpbnQoJ+aXoOi0n+i9vSBtZWFuPSUuMWYgc2Q9JS4xZiAgbj0lZCclKGIsc2IsbGVuKGJhc2UpKSkKcHJpbnQoJ+aciei0n+i9vSBtZWFuPSUuMWYgc2Q9JS4xZiAgbj0lZCclKGwsc2wsbGVuKGxvYWQpKSkKcHJpbnQoJ2RlbHRhPSUuMWZucyAgQ29oZW4gZD0lLjRmJyUobC1iLGQpKQpwcmludCgnRzAg5L+h5Y+35a2Y5ZyoID0nLCBhYnMoZCk+MC41KQpqc29uLmR1bXAoeydiYXNlX21lYW4nOmIsJ2xvYWRfbWVhbic6bCwnYmFzZV9zZCc6c2IsJ2xvYWRfc2QnOnNsLCdkJzpkfSxvcGVuKCdnMC5qc29uJywndycpKQo=
+import time,os,signal,statistics as st,json,sys
+def busy_for(sec):
+    t0=time.time(); s=0
+    while time.time()-t0<sec: s+=1
+    return s
+def meas(n=40):
+    ts=[]
+    for _ in range(n):
+        t0=time.perf_counter_ns(); s=0
+        for i in range(300): s+=i*i
+        ts.append(time.perf_counter_ns()-t0)
+    return ts
+# 无负载基线
+base=[]
+for _ in range(30): base+=meas(40)
+# 有负载(真实子进程忙)
+load=[]
+pid=os.fork()
+if pid==0:
+    busy_for(60); os._exit(0)
+for _ in range(30): load+=meas(40)
+os.kill(pid,signal.SIGKILL); os.waitpid(pid,0)
+b=st.mean(base); l=st.mean(load)
+sb=st.pstdev(base); sl=st.pstdev(load)
+d=(l-b)/((sb**2+sl**2)/2)**0.5
+print('无负载 mean=%.1f sd=%.1f  n=%d'%(b,sb,len(base)))
+print('有负载 mean=%.1f sd=%.1f  n=%d'%(l,sl,len(load)))
+print('delta=%.1fns  Cohen d=%.4f'%(l-b,d))
+print('G0 信号存在 =', abs(d)>0.5)
+json.dump({'base_mean':b,'load_mean':l,'base_sd':sb,'load_sd':sl,'d':d},open('g0.json','w'))

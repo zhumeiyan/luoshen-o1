@@ -1,1 +1,139 @@
-IiIiCkV4YW1wbGU6IEFkZGluZyBIVE1YCgpEZW1vbnN0cmF0ZXM6IEhUTVggaW50ZWdyYXRpb24gd2l0aCBGYXN0c3RyYXAKQ29tcG9uZW50czogQnV0dG9uLCBDYXJkLCBTcGlubmVyLCBBbGVydApEaWZmaWN1bHR5OiBCZWdpbm5lcgoKTGVhcm4gaG93IHRvIGFkZCBpbnRlcmFjdGl2aXR5IHdpdGhvdXQgSmF2YVNjcmlwdCB1c2luZyBIVE1YLgoiIiIKCmltcG9ydCB0aW1lCgpmcm9tIGZhc3RodG1sLmNvbW1vbiBpbXBvcnQgKAogICAgRGl2LAogICAgRmFzdEhUTUwsCiAgICBIMSwKICAgIEgyLAogICAgSDUsCiAgICBQLAogICAgc2VydmUsCikKCmZyb20gZmFzdHN0cmFwIGltcG9ydCAoCiAgICBBbGVydCwKICAgIEJ1dHRvbiwKICAgIENhcmQsCiAgICBDb2wsCiAgICBDb250YWluZXIsCiAgICBJbnB1dCwKICAgIFJvdywKICAgIGFkZF9ib290c3RyYXAsCikKCmFwcCA9IEZhc3RIVE1MKCkKYWRkX2Jvb3RzdHJhcChhcHApCgoKQGFwcC5nZXQoIi8iKQpkZWYgaG9tZSgpOgogICAgcmV0dXJuIENvbnRhaW5lcigKICAgICAgICBIMSgiSFRNWCBFeGFtcGxlcyIsIGNscz0ibWItNCIpLAogICAgICAgIFJvdygKICAgICAgICAgICAgIyBDbGljayB0byBMb2FkCiAgICAgICAgICAgIENvbCgKICAgICAgICAgICAgICAgIENhcmQoCiAgICAgICAgICAgICAgICAgICAgSDUoIkNsaWNrIHRvIExvYWQiLCBjbHM9ImNhcmQtdGl0bGUiKSwKICAgICAgICAgICAgICAgICAgICBQKCJDbGljayB0aGUgYnV0dG9uIHRvIGxvYWQgY29udGVudCBmcm9tIHRoZSBzZXJ2ZXIuIiwgY2xzPSJjYXJkLXRleHQiKSwKICAgICAgICAgICAgICAgICAgICBCdXR0b24oCiAgICAgICAgICAgICAgICAgICAgICAgICJMb2FkIENvbnRlbnQiLAogICAgICAgICAgICAgICAgICAgICAgICB2YXJpYW50PSJwcmltYXJ5IiwKICAgICAgICAgICAgICAgICAgICAgICAgaHhfZ2V0PSIvbG9hZC1jb250ZW50IiwKICAgICAgICAgICAgICAgICAgICAgICAgaHhfdGFyZ2V0PSIjY29udGVudC1hcmVhIiwKICAgICAgICAgICAgICAgICAgICAgICAgaHhfc3dhcD0iaW5uZXJIVE1MIiwKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIERpdihpZD0iY29udGVudC1hcmVhIiwgY2xzPSJtdC0zIiksCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgbWQ9NiwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgIyBMaXZlIFNlYXJjaAogICAgICAgICAgICBDb2woCiAgICAgICAgICAgICAgICBDYXJkKAogICAgICAgICAgICAgICAgICAgIEg1KCJMaXZlIFNlYXJjaCIsIGNscz0iY2FyZC10aXRsZSIpLAogICAgICAgICAgICAgICAgICAgIElucHV0KAogICAgICAgICAgICAgICAgICAgICAgICAic2VhcmNoIiwKICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlR5cGUgdG8gc2VhcmNoLi4uIiwKICAgICAgICAgICAgICAgICAgICAgICAgaHhfZ2V0PSIvc2VhcmNoIiwKICAgICAgICAgICAgICAgICAgICAgICAgaHhfdHJpZ2dlcj0ia2V5dXAgY2hhbmdlZCBkZWxheTo1MDBtcyIsCiAgICAgICAgICAgICAgICAgICAgICAgIGh4X3RhcmdldD0iI3NlYXJjaC1yZXN1bHRzIiwKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIERpdihpZD0ic2VhcmNoLXJlc3VsdHMiLCBjbHM9Im10LTMiKSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBtZD02LAogICAgICAgICAgICApLAogICAgICAgICksCiAgICAgICAgIyBDb3VudGVyIEV4YW1wbGUKICAgICAgICBDYXJkKAogICAgICAgICAgICBINSgiSW50ZXJhY3RpdmUgQ291bnRlciIsIGNscz0iY2FyZC10aXRsZSIpLAogICAgICAgICAgICBEaXYoCiAgICAgICAgICAgICAgICBIMigiMCIsIGlkPSJjb3VudGVyIiwgY2xzPSJ0ZXh0LWNlbnRlciBteS0zIiksCiAgICAgICAgICAgICAgICBEaXYoCiAgICAgICAgICAgICAgICAgICAgQnV0dG9uKAogICAgICAgICAgICAgICAgICAgICAgICAiRGVjcmVhc2UiLAogICAgICAgICAgICAgICAgICAgICAgICB2YXJpYW50PSJkYW5nZXIiLAogICAgICAgICAgICAgICAgICAgICAgICBoeF9wb3N0PSIvY291bnRlci9kZWNyZWFzZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIGh4X3RhcmdldD0iI2NvdW50ZXIiLAogICAgICAgICAgICAgICAgICAgICAgICBoeF9zd2FwPSJvdXRlckhUTUwiLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgQnV0dG9uKAogICAgICAgICAgICAgICAgICAgICAgICAiSW5jcmVhc2UiLAogICAgICAgICAgICAgICAgICAgICAgICB2YXJpYW50PSJzdWNjZXNzIiwKICAgICAgICAgICAgICAgICAgICAgICAgaHhfcG9zdD0iL2NvdW50ZXIvaW5jcmVhc2UiLAogICAgICAgICAgICAgICAgICAgICAgICBoeF90YXJnZXQ9IiNjb3VudGVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgaHhfc3dhcD0ib3V0ZXJIVE1MIiwKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIGNscz0iZC1mbGV4IGdhcC0yIGp1c3RpZnktY29udGVudC1jZW50ZXIiLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgY2xzPSJtdC00IiwKICAgICAgICApLAogICAgICAgIGNscz0icHktNSIsCiAgICApCgoKIyBDb3VudGVyIHN0YXRlIChpbiBwcm9kdWN0aW9uLCB1c2Ugc2Vzc2lvbiBvciBkYXRhYmFzZSkKY291bnRlcl92YWx1ZSA9IDAKCgpAYXBwLmdldCgiL2xvYWQtY29udGVudCIpCmRlZiBsb2FkX2NvbnRlbnQoKToKICAgIHRpbWUuc2xlZXAoMC41KSAgIyBTaW11bGF0ZSBsb2FkaW5nCiAgICByZXR1cm4gQWxlcnQoIkNvbnRlbnQgbG9hZGVkIHN1Y2Nlc3NmdWxseSBmcm9tIHRoZSBzZXJ2ZXIhIiwgdmFyaWFudD0ic3VjY2VzcyIpCgoKQGFwcC5nZXQoIi9zZWFyY2giKQpkZWYgc2VhcmNoKHNlYXJjaDogc3RyID0gIiIpOgogICAgaWYgbm90IHNlYXJjaDoKICAgICAgICByZXR1cm4gUCgiU3RhcnQgdHlwaW5nIHRvIHNlZSByZXN1bHRzLi4uIiwgY2xzPSJ0ZXh0LW11dGVkIikKCiAgICAjIFNpbXVsYXRlIHNlYXJjaCByZXN1bHRzCiAgICByZXN1bHRzID0gW2YiUmVzdWx0IGZvciAne3NlYXJjaH0nICN7aX0iIGZvciBpIGluIHJhbmdlKDEsIDQpXQogICAgcmV0dXJuIERpdigqW1AocmVzdWx0LCBjbHM9Im1iLTEiKSBmb3IgcmVzdWx0IGluIHJlc3VsdHNdLCBjbHM9ImJvcmRlciBwLTIgcm91bmRlZCIpCgoKQGFwcC5wb3N0KCIvY291bnRlci9pbmNyZWFzZSIpCmRlZiBpbmNyZWFzZSgpOgogICAgZ2xvYmFsIGNvdW50ZXJfdmFsdWUKICAgIGNvdW50ZXJfdmFsdWUgKz0gMQogICAgcmV0dXJuIEgyKHN0cihjb3VudGVyX3ZhbHVlKSwgaWQ9ImNvdW50ZXIiLCBjbHM9InRleHQtY2VudGVyIG15LTMiKQoKCkBhcHAucG9zdCgiL2NvdW50ZXIvZGVjcmVhc2UiKQpkZWYgZGVjcmVhc2UoKToKICAgIGdsb2JhbCBjb3VudGVyX3ZhbHVlCiAgICBjb3VudGVyX3ZhbHVlIC09IDEKICAgIHJldHVybiBIMihzdHIoY291bnRlcl92YWx1ZSksIGlkPSJjb3VudGVyIiwgY2xzPSJ0ZXh0LWNlbnRlciBteS0zIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc2VydmUoKQo=
+"""
+Example: Adding HTMX
+
+Demonstrates: HTMX integration with Faststrap
+Components: Button, Card, Spinner, Alert
+Difficulty: Beginner
+
+Learn how to add interactivity without JavaScript using HTMX.
+"""
+
+import time
+
+from fasthtml.common import (
+    Div,
+    FastHTML,
+    H1,
+    H2,
+    H5,
+    P,
+    serve,
+)
+
+from faststrap import (
+    Alert,
+    Button,
+    Card,
+    Col,
+    Container,
+    Input,
+    Row,
+    add_bootstrap,
+)
+
+app = FastHTML()
+add_bootstrap(app)
+
+
+@app.get("/")
+def home():
+    return Container(
+        H1("HTMX Examples", cls="mb-4"),
+        Row(
+            # Click to Load
+            Col(
+                Card(
+                    H5("Click to Load", cls="card-title"),
+                    P("Click the button to load content from the server.", cls="card-text"),
+                    Button(
+                        "Load Content",
+                        variant="primary",
+                        hx_get="/load-content",
+                        hx_target="#content-area",
+                        hx_swap="innerHTML",
+                    ),
+                    Div(id="content-area", cls="mt-3"),
+                ),
+                md=6,
+            ),
+            # Live Search
+            Col(
+                Card(
+                    H5("Live Search", cls="card-title"),
+                    Input(
+                        "search",
+                        placeholder="Type to search...",
+                        hx_get="/search",
+                        hx_trigger="keyup changed delay:500ms",
+                        hx_target="#search-results",
+                    ),
+                    Div(id="search-results", cls="mt-3"),
+                ),
+                md=6,
+            ),
+        ),
+        # Counter Example
+        Card(
+            H5("Interactive Counter", cls="card-title"),
+            Div(
+                H2("0", id="counter", cls="text-center my-3"),
+                Div(
+                    Button(
+                        "Decrease",
+                        variant="danger",
+                        hx_post="/counter/decrease",
+                        hx_target="#counter",
+                        hx_swap="outerHTML",
+                    ),
+                    Button(
+                        "Increase",
+                        variant="success",
+                        hx_post="/counter/increase",
+                        hx_target="#counter",
+                        hx_swap="outerHTML",
+                    ),
+                    cls="d-flex gap-2 justify-content-center",
+                ),
+            ),
+            cls="mt-4",
+        ),
+        cls="py-5",
+    )
+
+
+# Counter state (in production, use session or database)
+counter_value = 0
+
+
+@app.get("/load-content")
+def load_content():
+    time.sleep(0.5)  # Simulate loading
+    return Alert("Content loaded successfully from the server!", variant="success")
+
+
+@app.get("/search")
+def search(search: str = ""):
+    if not search:
+        return P("Start typing to see results...", cls="text-muted")
+
+    # Simulate search results
+    results = [f"Result for '{search}' #{i}" for i in range(1, 4)]
+    return Div(*[P(result, cls="mb-1") for result in results], cls="border p-2 rounded")
+
+
+@app.post("/counter/increase")
+def increase():
+    global counter_value
+    counter_value += 1
+    return H2(str(counter_value), id="counter", cls="text-center my-3")
+
+
+@app.post("/counter/decrease")
+def decrease():
+    global counter_value
+    counter_value -= 1
+    return H2(str(counter_value), id="counter", cls="text-center my-3")
+
+
+if __name__ == "__main__":
+    serve()

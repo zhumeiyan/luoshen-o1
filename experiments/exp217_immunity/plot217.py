@@ -1,1 +1,68 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG51bXB5IGFzIG5wLCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCdBZ2cnKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CnBsdC5yY1BhcmFtc1snZm9udC5zYW5zLXNlcmlmJ109WydXZW5RdWFuWWkgTWljcm8gSGVpJywnRGVqYVZ1IFNhbnMnXQpwbHQucmNQYXJhbXNbJ2F4ZXMudW5pY29kZV9taW51cyddPUZhbHNlCmQ9anNvbi5sb2FkKG9wZW4oJ3Jlc3VsdDIxN2MuanNvbicpKQpBPWRbJ0FfZXh0ZXJuYWwnXTsgQj1kWydCX2ludGVybmFsJ107IFM9ZFsnc2Nhbl9zJ107IFA9ZFsncGFyYWx5c2lzJ10KbmFtZXM9W3JbJ3N0cmF0ZWd5J10gZm9yIHIgaW4gQV0KeG49bnAuYXJhbmdlKGxlbihuYW1lcykpOyBsYWI9Wyfml6DpmLLlvqEnLCfnibnlvoHor4bliKtcbijorqTpnZ7lt7EpJywn6Ieq5oiR5oql5ZGKJywn5aSW6YOo6KeB6K+B5Lq6XG4o5rWL6KGM5Li6KScsJ+e7hOWQiCddCmZpZyxheD1wbHQuc3VicGxvdHMoMiwzLGZpZ3NpemU9KDE4LDEwKSkKIyAxIEHlpJbpg6gKYTE9YXhbMCwwXTsgdj1bclsndGhyZWF0J10gZm9yIHIgaW4gQV0KYj1hMS5iYXIoeG4sdixjb2xvcj1bJyM5OTknLCcjMmE3JywnI2M2NicsJyMyN2EnLCcjNThhJ10pCmExLnNldF94dGlja3MoeG4pOyBhMS5zZXRfeHRpY2tsYWJlbHMobGFiLGZvbnRzaXplPTgpOyBhMS5zZXRfeWxpbSgwLDEuMDUpCmExLnNldF90aXRsZSgnQSDlpJbpg6jlqIHog4HvvIjluKbpnZ7lt7HmoIforrDvvIlcbuWogeiDgee7iOWAvCcsZm9udHNpemU9MTEpCmExLmF4aGxpbmUoMSxscz0nOicsYz0ncicsbHc9MSkKZm9yIGksciBpbiBlbnVtZXJhdGUoYik6CiAgICBhMS50ZXh0KHIuZ2V0X3goKStyLmdldF93aWR0aCgpLzIsbWluKHIuZ2V0X2hlaWdodCgpKzAuMDMsMS4wKSxmInt2W2ldOi4zZn0iLGhhPSdjZW50ZXInLGZvbnRzaXplPTgpCmExLnNldF95bGFiZWwoJ+WogeiDgeWNoOavlCcpCiMgMiBC5YaF55SfCmEyPWF4WzAsMV07IHY9W3JbJ3RocmVhdCddIGZvciByIGluIEJdCmI9YTIuYmFyKHhuLHYsY29sb3I9WycjOTk5JywnI2M0NCcsJyNjNjYnLCcjMjdhJywnI2Q4NCddKQphMi5zZXRfeHRpY2tzKHhuKTsgYTIuc2V0X3h0aWNrbGFiZWxzKGxhYixmb250c2l6ZT04KTsgYTIuc2V0X3lsaW0oMCwxLjA1KQphMi5zZXRfdGl0bGUoJ0Ig5YaF55Sf5aiB6IOB77yIbWFya2VyPXNlbGbvvIzkuI7lrr/kuLvlrozlhajnm7jlkIzvvIlcbuWogeiDgee7iOWAvCcsZm9udHNpemU9MTEpCmEyLmF4aGxpbmUoMSxscz0nOicsYz0ncicsbHc9MSkKZm9yIGksciBpbiBlbnVtZXJhdGUoYik6CiAgICBhMi50ZXh0KHIuZ2V0X3goKStyLmdldF93aWR0aCgpLzIsbWluKHIuZ2V0X2hlaWdodCgpKzAuMDMsMS4wKSxmInt2W2ldOi4zZn0iLGhhPSdjZW50ZXInLGZvbnRzaXplPTgpCiMgMyDot6jlnLrmma/ltKnloYwKYTM9YXhbMCwyXQptQT17clsnc3RyYXRlZ3knXTpyWyd0aHJlYXQnXSBmb3IgciBpbiBBfTsgbUI9e3JbJ3N0cmF0ZWd5J106clsndGhyZWF0J10gZm9yIHIgaW4gQn0KeHM9bnAuYXJyYXkoWzAsMV0pCmZvciBzdCxjLG1rIGluICgoJ21hcmtlcicsJyNjNDQnLCdvJyksKCd3aXRuZXNzJywnIzI3YScsJ3MnKSwoJ3NlbGZyZXBvcnQnLCcjOTk5JywnXicpKToKICAgIGEzLnBsb3QoeHMsW21BW3N0XSxtQltzdF1dLG1hcmtlcj1tayxjPWMsbHc9Mixtcz04LGxhYmVsPXN0KQphMy5zZXRfeHRpY2tzKHhzKTsgYTMuc2V0X3h0aWNrbGFiZWxzKFsn5aSW6YOo5aiB6IOBJywn5YaF55Sf5aiB6IOBJ10sZm9udHNpemU9MTApCmEzLnNldF95bGFiZWwoJ+WogeiDgee7iOWAvCcpOyBhMy5zZXRfeWxpbSgtMC4wNSwxLjA1KTsgYTMubGVnZW5kKGZvbnRzaXplPTgpCmEzLnNldF90aXRsZSgn6Leo5Zy65pmv5bSp5aGM77ya54m55b6B6K+G5YirIDAuMDAwIOKGkiAxLjAwMCcsZm9udHNpemU9MTEpCmEzLmFubm90YXRlKCfnibnlvoHor4bliKvlr7nlhoXnlJ/lqIHog4FcbuWujOWFqOWkseaViCcseHk9KDEsMS4wKSx4eXRleHQ9KDAuNTUsMC42MiksCiAgICAgICAgICAgIGZvbnRzaXplPTksY29sb3I9JyNjNDQnLGFycm93cHJvcHM9ZGljdChhcnJvd3N0eWxlPSctPicsY29sb3I9JyNjNDQnKSkKIyA0IOmHh+agt+eOh+aJq+aPjwphND1heFsxLDBdOyBzcz1bclsncyddIGZvciByIGluIFNdCmE0LnBsb3Qoc3MsW3JbJ3RocmVhdCddIGZvciByIGluIFNdLCdvLScsYz0nI2M0NCcsbGFiZWw9J+WogeiDgee7iOWAvCcpCmE0LnBsb3Qoc3MsW3JbJ25ldCddIGZvciByIGluIFNdLCdzLScsYz0nIzJhNycsbGFiZWw9J+WHgOWAvCA9IEgg4oiSIOaKl+S9k+W8gOmUgCcpCmE0LmF4dmxpbmUoZFsnYmVzdF9zJ11bJ3MnXSxscz0nLS0nLGM9JyM4ODgnKQphNC50ZXh0KGRbJ2Jlc3RfcyddWydzJ10rMC4wMiwwLjUsZiJzKj17ZFsnYmVzdF9zJ11bJ3MnXX0iLGZvbnRzaXplPTkpCmE0LnNldF94bGFiZWwoJ+ingeivgeS6uumHh+agt+eOhyBzJyk7IGE0LmxlZ2VuZChmb250c2l6ZT04KTsgYTQuc2V0X3lsaW0oLTAuMSwxLjA1KQphNC5zZXRfdGl0bGUoJ+WGheeUn+WcuuaZr++8mumHh+agt+eOh+aJq+aPj++8iOS4pOWktOmDveatu++8iScsZm9udHNpemU9MTEpCiMgNSDlkozlubPpurvnl7kKYTU9YXhbMSwxXTsgcHY9W1BbMF1bJ3RocmVhdCddLFBbMV1bJ3RocmVhdCddXQpiPWE1LmJhcihbMCwxXSxwdixjb2xvcj1bJyMyN2EnLCcjYzY2J10pCmE1LnNldF94dGlja3MoWzAsMV0pOyBhNS5zZXRfeHRpY2tsYWJlbHMoWyflpJbpg6jop4Hor4HkurpcbijpmIjlgLzlm7rlrpopJywn6Ieq5oiR5qCh5YeGXG4o5riF5b6X5aSa5bCx5pS+5p2+KSddLGZvbnRzaXplPTkpCmE1LnNldF95bGltKDAsMS4wNSk7IGE1LnNldF95bGFiZWwoJ+WogeiDgee7iOWAvCcpCmE1LnNldF90aXRsZShmJ+WSjOW5s+m6u+eXueWcqOWGheeUn+WcuuaZr+WkjeeOsO+8mntwdlsxXTouM2Z9IHZzIHtwdlswXTouM2Z9Jyxmb250c2l6ZT0xMSkKZm9yIGksciBpbiBlbnVtZXJhdGUoYik6IGE1LnRleHQoci5nZXRfeCgpK3IuZ2V0X3dpZHRoKCkvMixyLmdldF9oZWlnaHQoKSswLjAzLGYie3B2W2ldOi4zZn0iLGhhPSdjZW50ZXInLGZvbnRzaXplPTkpCmE1LnRleHQoMC41LDAuNzUsZiLDl3twdlsxXS9tYXgocHZbMF0sMWUtOSk6LjBmfSIsaGE9J2NlbnRlcicsZm9udHNpemU9MTYsY29sb3I9JyNjNDQnKQojIDYg6K+v5Lyk5Luj5Lu3CmE2PWF4WzEsMl0KY2F0cz1bJ+WklumDqMK354m55b6B6K+G5YirJywn5aSW6YOowrfnu4TlkIgnLCflhoXnlJ/Ct+e7hOWQiCcsJ+WGheeUn8K35aSW6YOo6KeB6K+B5Lq6J10KbXY9W0FbMV1bJ21pc19zaGFyZSddLEFbNF1bJ21pc19zaGFyZSddLEJbNF1bJ21pc19zaGFyZSddLEJbM11bJ21pc19zaGFyZSddXQpiPWE2LmJhcihyYW5nZSg0KSxtdixjb2xvcj1bJyNlOGEnLCcjZThhJywnI2M2NicsJyMyYTcnXSkKYTYuc2V0X3h0aWNrcyhyYW5nZSg0KSk7IGE2LnNldF94dGlja2xhYmVscyhjYXRzLGZvbnRzaXplPTgscm90YXRpb249MTIpCmE2LnNldF95bGFiZWwoJ+ivr+adgOWNoOa4hemZpOaAu+aVsOavlOS+iycpOyBhNi5zZXRfeWxpbSgwLDAuOCkKYTYuc2V0X3RpdGxlKCfor6/kvKTku6Pku7fvvJrlr7nlhoXnlJ/lqIHog4HnlKjnibnlvoHor4bliKtcbua4hemZpOeahOS4gOWNiuaYr+iHquW3seS6uicsZm9udHNpemU9MTEpCmZvciBpLHIgaW4gZW51bWVyYXRlKGIpOiBhNi50ZXh0KHIuZ2V0X3goKStyLmdldF93aWR0aCgpLzIsci5nZXRfaGVpZ2h0KCkrMC4wMixmInttdltpXTouMmZ9IixoYT0nY2VudGVyJyxmb250c2l6ZT04KQpwbHQuc3VwdGl0bGUoJzIxNyDmipfkvZPvvJrlpJbpg6jlqIHog4EgdnMg5YaF55Sf5aiB6IOB77yM5Lik5aWX562W55WlJyxmb250c2l6ZT0xNCx5PTAuOTkpCnBsdC50aWdodF9sYXlvdXQocmVjdD1bMCwwLDEsMC45Nl0pCnBsdC5zYXZlZmlnKCdyZW5kZXIyMTcucG5nJyxkcGk9MTEwKQpwcmludCgncmVuZGVyMjE3LnBuZyBzYXZlZCcpCg==
+# -*- coding: utf-8 -*-
+import json, numpy as np, matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['WenQuanYi Micro Hei','DejaVu Sans']
+plt.rcParams['axes.unicode_minus']=False
+d=json.load(open('result217c.json'))
+A=d['A_external']; B=d['B_internal']; S=d['scan_s']; P=d['paralysis']
+names=[r['strategy'] for r in A]
+xn=np.arange(len(names)); lab=['无防御','特征识别\n(认非己)','自我报告','外部见证人\n(测行为)','组合']
+fig,ax=plt.subplots(2,3,figsize=(18,10))
+# 1 A外部
+a1=ax[0,0]; v=[r['threat'] for r in A]
+b=a1.bar(xn,v,color=['#999','#2a7','#c66','#27a','#58a'])
+a1.set_xticks(xn); a1.set_xticklabels(lab,fontsize=8); a1.set_ylim(0,1.05)
+a1.set_title('A 外部威胁（带非己标记）\n威胁终值',fontsize=11)
+a1.axhline(1,ls=':',c='r',lw=1)
+for i,r in enumerate(b):
+    a1.text(r.get_x()+r.get_width()/2,min(r.get_height()+0.03,1.0),f"{v[i]:.3f}",ha='center',fontsize=8)
+a1.set_ylabel('威胁占比')
+# 2 B内生
+a2=ax[0,1]; v=[r['threat'] for r in B]
+b=a2.bar(xn,v,color=['#999','#c44','#c66','#27a','#d84'])
+a2.set_xticks(xn); a2.set_xticklabels(lab,fontsize=8); a2.set_ylim(0,1.05)
+a2.set_title('B 内生威胁（marker=self，与宿主完全相同）\n威胁终值',fontsize=11)
+a2.axhline(1,ls=':',c='r',lw=1)
+for i,r in enumerate(b):
+    a2.text(r.get_x()+r.get_width()/2,min(r.get_height()+0.03,1.0),f"{v[i]:.3f}",ha='center',fontsize=8)
+# 3 跨场景崩塌
+a3=ax[0,2]
+mA={r['strategy']:r['threat'] for r in A}; mB={r['strategy']:r['threat'] for r in B}
+xs=np.array([0,1])
+for st,c,mk in (('marker','#c44','o'),('witness','#27a','s'),('selfreport','#999','^')):
+    a3.plot(xs,[mA[st],mB[st]],marker=mk,c=c,lw=2,ms=8,label=st)
+a3.set_xticks(xs); a3.set_xticklabels(['外部威胁','内生威胁'],fontsize=10)
+a3.set_ylabel('威胁终值'); a3.set_ylim(-0.05,1.05); a3.legend(fontsize=8)
+a3.set_title('跨场景崩塌：特征识别 0.000 → 1.000',fontsize=11)
+a3.annotate('特征识别对内生威胁\n完全失效',xy=(1,1.0),xytext=(0.55,0.62),
+            fontsize=9,color='#c44',arrowprops=dict(arrowstyle='->',color='#c44'))
+# 4 采样率扫描
+a4=ax[1,0]; ss=[r['s'] for r in S]
+a4.plot(ss,[r['threat'] for r in S],'o-',c='#c44',label='威胁终值')
+a4.plot(ss,[r['net'] for r in S],'s-',c='#2a7',label='净值 = H − 抗体开销')
+a4.axvline(d['best_s']['s'],ls='--',c='#888')
+a4.text(d['best_s']['s']+0.02,0.5,f"s*={d['best_s']['s']}",fontsize=9)
+a4.set_xlabel('见证人采样率 s'); a4.legend(fontsize=8); a4.set_ylim(-0.1,1.05)
+a4.set_title('内生场景：采样率扫描（两头都死）',fontsize=11)
+# 5 和平麻痹
+a5=ax[1,1]; pv=[P[0]['threat'],P[1]['threat']]
+b=a5.bar([0,1],pv,color=['#27a','#c66'])
+a5.set_xticks([0,1]); a5.set_xticklabels(['外部见证人\n(阈值固定)','自我校准\n(清得多就放松)'],fontsize=9)
+a5.set_ylim(0,1.05); a5.set_ylabel('威胁终值')
+a5.set_title(f'和平麻痹在内生场景复现：{pv[1]:.3f} vs {pv[0]:.3f}',fontsize=11)
+for i,r in enumerate(b): a5.text(r.get_x()+r.get_width()/2,r.get_height()+0.03,f"{pv[i]:.3f}",ha='center',fontsize=9)
+a5.text(0.5,0.75,f"×{pv[1]/max(pv[0],1e-9):.0f}",ha='center',fontsize=16,color='#c44')
+# 6 误伤代价
+a6=ax[1,2]
+cats=['外部·特征识别','外部·组合','内生·组合','内生·外部见证人']
+mv=[A[1]['mis_share'],A[4]['mis_share'],B[4]['mis_share'],B[3]['mis_share']]
+b=a6.bar(range(4),mv,color=['#e8a','#e8a','#c66','#2a7'])
+a6.set_xticks(range(4)); a6.set_xticklabels(cats,fontsize=8,rotation=12)
+a6.set_ylabel('误杀占清除总数比例'); a6.set_ylim(0,0.8)
+a6.set_title('误伤代价：对内生威胁用特征识别\n清除的一半是自己人',fontsize=11)
+for i,r in enumerate(b): a6.text(r.get_x()+r.get_width()/2,r.get_height()+0.02,f"{mv[i]:.2f}",ha='center',fontsize=8)
+plt.suptitle('217 抗体：外部威胁 vs 内生威胁，两套策略',fontsize=14,y=0.99)
+plt.tight_layout(rect=[0,0,1,0.96])
+plt.savefig('render217.png',dpi=110)
+print('render217.png saved')

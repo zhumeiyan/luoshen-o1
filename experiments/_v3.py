@@ -1,1 +1,35 @@
-aW1wb3J0IHN5cywgbnVtcHkgYXMgbnAKc3lzLnBhdGguaW5zZXJ0KDAsJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xJykKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQpwcmludCgiPSIqNzgpCnByaW50KCIg5YWz6ZSu6Zeu6aKY77yabWlzcyDmtqjliLAgMS41NDY577yM5Li65LuA5LmI6KGM5Li65LiA54K55rKh5Y+Y77yf77yI54a1IDAuNTAxNSDnurnkuJ3kuI3liqjvvIkiKQpwcmludCgiPSIqNzgpCkw9TGlmZTUoTj04LHNlZWQ9MykKcHJpbnQoZiJcbiAg6buY6K6k5Y+C5pWw77yaa19zZWVrPXtMLmtfc2Vla30gIGtfc2Vla19hcnI9e0wua19zZWVrX2Fycn0gIGtfc2FsPXtMLmtfc2FsfSIpCkwuaW5wdXRfdmFsPTAuMApmb3IgXyBpbiByYW5nZSgyMDApOiAKICAgIGlmIEwuYWxpdmU6IEwuc3RlcCgpCnByaW50KGYiICDkupTlrpjmlq0gMjAwIOaLjeWQju+8mm1pc3M9e0wubWlzczouNGZ9ICBtaXNzX2Fycj17TC5taXNzX2FycjouNGZ9IikKcHJpbnQoZiJcbiAgd2FudFswXSArPSBrX3NlZWsgKiBtaXNzICogY2FwYWNpdHlbMF0iKQpwcmludChmIiAgICAgICAgICA9IHtMLmtfc2Vla30gKiB7TC5taXNzOi40Zn0gKiAuLi4gPSAwIikKcHJpbnQoZiJcbiAg4piFIGtfc2Vlaz0wIOKGkiBtaXNzIOa2qOWIsOWkqeS4iuWOu+S5n+S4jei/m+WGs+etliDihpIg44CQ5rKh5b2i5oiQ6Zet546v44CRIikKcHJpbnQoZiIgICAg6L+Z5q2j5piv5L2g6K+055qE77ya44CO5Y+q5piv6KGh6YeP5Yaz562W44CP5rKh5pyJ6Zet546vIikKCnByaW50KCJcbiIgKyAiPSIqNzgpCnByaW50KCIg5a+554Wn77ya5oqKIGtfc2VlayDmiZPlvIDvvIxtaXNzIOS8muS4jeS8muecn+eahOaUueWPmOihjOS4uu+8nyIpCnByaW50KCI9Iio3OCkKcHJpbnQoZiJcbnsna19zZWVrJzo+OH17J21pc3MnOj4xMH17J+WQjuauteeGtSc6PjEwfXsn6YCa6YGTMOS7veminSc6PjEyfSIpCnByaW50KCItIio3OCkKZm9yIGtzIGluIFswLjAsIDAuMSwgMC41LCAxLjAsIDIuMF06CiAgICBMMj1MaWZlNShOPTgsc2VlZD0zLGtfc2Vlaz1rcykKICAgIEwyLmlucHV0X3ZhbD0wLjAKICAgIGVudHM9W107c2g9W10KICAgIGZvciBfIGluIHJhbmdlKDMwMCk6CiAgICAgICAgaWYgbm90IEwyLmFsaXZlOiBicmVhawogICAgICAgIHI9TDIuc3RlcCgpCiAgICAgICAgaWYgcjoKICAgICAgICAgICAgYT1ucC5hc2FycmF5KHJbJ2F2ZWMnXSxmbG9hdCkrMWUtMTI7IHA9YS9hLnN1bSgpCiAgICAgICAgICAgIGVudHMuYXBwZW5kKGZsb2F0KC0ocCpucC5sb2cocCkpLnN1bSgpL25wLmxvZyhsZW4ocCkpKSkKICAgICAgICAgICAgc2guYXBwZW5kKHJbJ2F2ZWMnXVswXS9hLnN1bSgpKQogICAgdD1lbnRzW2xlbihlbnRzKS8vMjpdCiAgICBwcmludChmIntrczo+OH17TDIubWlzczo+MTAuNGZ9e25wLm1lYW4odCk6PjEwLjRmfXtucC5tZWFuKHNoWy01MDpdKTo+MTIuNGZ9IikK
+import sys, numpy as np
+sys.path.insert(0,'/data/workspace/luoshen-o1')
+from core.life5 import Life5
+print("="*78)
+print(" 关键问题：miss 涨到 1.5469，为什么行为一点没变？（熵 0.5015 纹丝不动）")
+print("="*78)
+L=Life5(N=8,seed=3)
+print(f"\n  默认参数：k_seek={L.k_seek}  k_seek_arr={L.k_seek_arr}  k_sal={L.k_sal}")
+L.input_val=0.0
+for _ in range(200): 
+    if L.alive: L.step()
+print(f"  五官断 200 拍后：miss={L.miss:.4f}  miss_arr={L.miss_arr:.4f}")
+print(f"\n  want[0] += k_seek * miss * capacity[0]")
+print(f"          = {L.k_seek} * {L.miss:.4f} * ... = 0")
+print(f"\n  ★ k_seek=0 → miss 涨到天上去也不进决策 → 【没形成闭环】")
+print(f"    这正是你说的：『只是衡量决策』没有闭环")
+
+print("\n" + "="*78)
+print(" 对照：把 k_seek 打开，miss 会不会真的改变行为？")
+print("="*78)
+print(f"\n{'k_seek':>8}{'miss':>10}{'后段熵':>10}{'通道0份额':>12}")
+print("-"*78)
+for ks in [0.0, 0.1, 0.5, 1.0, 2.0]:
+    L2=Life5(N=8,seed=3,k_seek=ks)
+    L2.input_val=0.0
+    ents=[];sh=[]
+    for _ in range(300):
+        if not L2.alive: break
+        r=L2.step()
+        if r:
+            a=np.asarray(r['avec'],float)+1e-12; p=a/a.sum()
+            ents.append(float(-(p*np.log(p)).sum()/np.log(len(p))))
+            sh.append(r['avec'][0]/a.sum())
+    t=ents[len(ents)//2:]
+    print(f"{ks:>8}{L2.miss:>10.4f}{np.mean(t):>10.4f}{np.mean(sh[-50:]):>12.4f}")

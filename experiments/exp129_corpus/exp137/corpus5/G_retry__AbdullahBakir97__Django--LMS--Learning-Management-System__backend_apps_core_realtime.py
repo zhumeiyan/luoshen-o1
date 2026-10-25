@@ -1,1 +1,83 @@
-IiIiT25lIFdlYlNvY2tldCBwZXIgdXNlci4gU2VydmljZXMgY2FsbCBgcHVibGlzaF90b191c2VyYDsgdGhlIFNQQSByZWNlaXZlcyB7ZXZlbnQsIGRhdGF9LgoKVGhlIFNQQSBhdXRoZW50aWNhdGVzIHdpdGggYSBiZWFyZXIgdG9rZW4gaXQga2VlcHMgaW4gbWVtb3J5LCB3aGljaCBhIGJyb3dzZXIgY2Fubm90IGF0dGFjaCB0bwphIFdlYlNvY2tldC4gU28gaXQgYXNrcyBgUE9TVCAvYXBpL3JlYWx0aW1lL3RpY2tldC9gIGZvciBhIHNpZ25lZCB0aWNrZXQgdGhhdCBsaXZlcyAzMCBzZWNvbmRzCmFuZCBjb25uZWN0cyB0byBgL3dzL2V2ZW50cy8/dGlja2V0PS4uLmAuIFRoZSBhY2Nlc3MgdG9rZW4gbmV2ZXIgYXBwZWFycyBpbiBhIFVSTCBvciBhIGxvZy4KIiIiCgppbXBvcnQgbG9nZ2luZwpmcm9tIHVybGxpYi5wYXJzZSBpbXBvcnQgcGFyc2VfcXMKCmZyb20gYXNnaXJlZi5zeW5jIGltcG9ydCBhc3luY190b19zeW5jCmZyb20gY2hhbm5lbHMuZGIgaW1wb3J0IGRhdGFiYXNlX3N5bmNfdG9fYXN5bmMKZnJvbSBjaGFubmVscy5nZW5lcmljLndlYnNvY2tldCBpbXBvcnQgQXN5bmNKc29uV2Vic29ja2V0Q29uc3VtZXIKZnJvbSBjaGFubmVscy5sYXllcnMgaW1wb3J0IGdldF9jaGFubmVsX2xheWVyCmZyb20gY2hhbm5lbHMubWlkZGxld2FyZSBpbXBvcnQgQmFzZU1pZGRsZXdhcmUKZnJvbSBkamFuZ28uY29udHJpYi5hdXRoIGltcG9ydCBnZXRfdXNlcl9tb2RlbApmcm9tIGRqYW5nby5jb250cmliLmF1dGgubW9kZWxzIGltcG9ydCBBbm9ueW1vdXNVc2VyCmZyb20gZGphbmdvLmNvcmUgaW1wb3J0IHNpZ25pbmcKZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcGF0aAoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgpUSUNLRVRfU0FMVCA9ICJyZWFsdGltZS50aWNrZXQiClRJQ0tFVF9NQVhfQUdFID0gMzAKCgpkZWYgaXNzdWVfdGlja2V0KHVzZXIpIC0+IHN0cjoKICAgIHJldHVybiBzaWduaW5nLmR1bXBzKHVzZXIucGssIHNhbHQ9VElDS0VUX1NBTFQpCgoKQGRhdGFiYXNlX3N5bmNfdG9fYXN5bmMKZGVmIF91c2VyX2Zvcl90aWNrZXQodGlja2V0OiBzdHIpOgogICAgdHJ5OgogICAgICAgIHVzZXJfaWQgPSBzaWduaW5nLmxvYWRzKHRpY2tldCwgc2FsdD1USUNLRVRfU0FMVCwgbWF4X2FnZT1USUNLRVRfTUFYX0FHRSkKICAgIGV4Y2VwdCBzaWduaW5nLkJhZFNpZ25hdHVyZTogICMgYWxzbyBjb3ZlcnMgU2lnbmF0dXJlRXhwaXJlZAogICAgICAgIHJldHVybiBBbm9ueW1vdXNVc2VyKCkKICAgIHJldHVybiBnZXRfdXNlcl9tb2RlbCgpLm9iamVjdHMuZmlsdGVyKHBrPXVzZXJfaWQsIGlzX2FjdGl2ZT1UcnVlKS5maXJzdCgpIG9yIEFub255bW91c1VzZXIoKQoKCmNsYXNzIFRpY2tldEF1dGhNaWRkbGV3YXJlKEJhc2VNaWRkbGV3YXJlKToKICAgIGFzeW5jIGRlZiBfX2NhbGxfXyhzZWxmLCBzY29wZSwgcmVjZWl2ZSwgc2VuZCk6CiAgICAgICAgcXVlcnkgPSBwYXJzZV9xcyhzY29wZS5nZXQoInF1ZXJ5X3N0cmluZyIsIGIiIikuZGVjb2RlKCkpCiAgICAgICAgdGlja2V0ID0gcXVlcnkuZ2V0KCJ0aWNrZXQiLCBbIiJdKVswXQogICAgICAgIHNjb3BlWyJ1c2VyIl0gPSBhd2FpdCBfdXNlcl9mb3JfdGlja2V0KHRpY2tldCkgaWYgdGlja2V0IGVsc2UgQW5vbnltb3VzVXNlcigpCiAgICAgICAgcmV0dXJuIGF3YWl0IHN1cGVyKCkuX19jYWxsX18oc2NvcGUsIHJlY2VpdmUsIHNlbmQpCgoKZGVmIHVzZXJfZ3JvdXAodXNlcl9pZCkgLT4gc3RyOgogICAgcmV0dXJuIGYidXNlci57dXNlcl9pZH0iCgoKZGVmIHB1Ymxpc2hfdG9fdXNlcih1c2VyX2lkLCBldmVudDogc3RyLCBkYXRhOiBkaWN0IHwgTm9uZSA9IE5vbmUpOgogICAgIiIiQmVzdCBlZmZvcnQ6IHRoZSB3cml0ZSBhbHJlYWR5IGNvbW1pdHRlZCwgc28gYSBjaGFubmVsLWxheWVyIG91dGFnZSBpcyBsb2dnZWQsIG5vdCByYWlzZWQuIiIiCiAgICBsYXllciA9IGdldF9jaGFubmVsX2xheWVyKCkKICAgIGlmIGxheWVyIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuCiAgICB0cnk6CiAgICAgICAgYXN5bmNfdG9fc3luYyhsYXllci5ncm91cF9zZW5kKSgKICAgICAgICAgICAgdXNlcl9ncm91cCh1c2VyX2lkKSwgeyJ0eXBlIjogInB1c2guZXZlbnQiLCAiZXZlbnQiOiBldmVudCwgImRhdGEiOiBkYXRhIG9yIHt9fQogICAgICAgICkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbigicmVhbHRpbWUgcHVzaCBmYWlsZWQiLCBleHRyYT17ImV2ZW50IjogZXZlbnQsICJ1c2VyX2lkIjogdXNlcl9pZH0pCgoKY2xhc3MgVXNlckV2ZW50c0NvbnN1bWVyKEFzeW5jSnNvbldlYnNvY2tldENvbnN1bWVyKToKICAgIGFzeW5jIGRlZiBjb25uZWN0KHNlbGYpOgogICAgICAgIHVzZXIgPSBzZWxmLnNjb3BlWyJ1c2VyIl0KICAgICAgICBpZiBub3QgdXNlci5pc19hdXRoZW50aWNhdGVkOgogICAgICAgICAgICBhd2FpdCBzZWxmLmNsb3NlKGNvZGU9NDQwMSkKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgc2VsZi5ncm91cCA9IHVzZXJfZ3JvdXAodXNlci5pZCkKICAgICAgICBhd2FpdCBzZWxmLmNoYW5uZWxfbGF5ZXIuZ3JvdXBfYWRkKHNlbGYuZ3JvdXAsIHNlbGYuY2hhbm5lbF9uYW1lKQogICAgICAgIGF3YWl0IHNlbGYuYWNjZXB0KCkKCiAgICBhc3luYyBkZWYgZGlzY29ubmVjdChzZWxmLCBjb2RlKToKICAgICAgICBpZiBoYXNhdHRyKHNlbGYsICJncm91cCIpOgogICAgICAgICAgICBhd2FpdCBzZWxmLmNoYW5uZWxfbGF5ZXIuZ3JvdXBfZGlzY2FyZChzZWxmLmdyb3VwLCBzZWxmLmNoYW5uZWxfbmFtZSkKCiAgICBhc3luYyBkZWYgcHVzaF9ldmVudChzZWxmLCBtZXNzYWdlKToKICAgICAgICBhd2FpdCBzZWxmLnNlbmRfanNvbih7ImV2ZW50IjogbWVzc2FnZVsiZXZlbnQiXSwgImRhdGEiOiBtZXNzYWdlWyJkYXRhIl19KQoKCndlYnNvY2tldF91cmxwYXR0ZXJucyA9IFtwYXRoKCJ3cy9ldmVudHMvIiwgVXNlckV2ZW50c0NvbnN1bWVyLmFzX2FzZ2koKSldCg==
+"""One WebSocket per user. Services call `publish_to_user`; the SPA receives {event, data}.
+
+The SPA authenticates with a bearer token it keeps in memory, which a browser cannot attach to
+a WebSocket. So it asks `POST /api/realtime/ticket/` for a signed ticket that lives 30 seconds
+and connects to `/ws/events/?ticket=...`. The access token never appears in a URL or a log.
+"""
+
+import logging
+from urllib.parse import parse_qs
+
+from asgiref.sync import async_to_sync
+from channels.db import database_sync_to_async
+from channels.generic.websocket import AsyncJsonWebsocketConsumer
+from channels.layers import get_channel_layer
+from channels.middleware import BaseMiddleware
+from django.contrib.auth import get_user_model
+from django.contrib.auth.models import AnonymousUser
+from django.core import signing
+from django.urls import path
+
+logger = logging.getLogger(__name__)
+
+TICKET_SALT = "realtime.ticket"
+TICKET_MAX_AGE = 30
+
+
+def issue_ticket(user) -> str:
+    return signing.dumps(user.pk, salt=TICKET_SALT)
+
+
+@database_sync_to_async
+def _user_for_ticket(ticket: str):
+    try:
+        user_id = signing.loads(ticket, salt=TICKET_SALT, max_age=TICKET_MAX_AGE)
+    except signing.BadSignature:  # also covers SignatureExpired
+        return AnonymousUser()
+    return get_user_model().objects.filter(pk=user_id, is_active=True).first() or AnonymousUser()
+
+
+class TicketAuthMiddleware(BaseMiddleware):
+    async def __call__(self, scope, receive, send):
+        query = parse_qs(scope.get("query_string", b"").decode())
+        ticket = query.get("ticket", [""])[0]
+        scope["user"] = await _user_for_ticket(ticket) if ticket else AnonymousUser()
+        return await super().__call__(scope, receive, send)
+
+
+def user_group(user_id) -> str:
+    return f"user.{user_id}"
+
+
+def publish_to_user(user_id, event: str, data: dict | None = None):
+    """Best effort: the write already committed, so a channel-layer outage is logged, not raised."""
+    layer = get_channel_layer()
+    if layer is None:
+        return
+    try:
+        async_to_sync(layer.group_send)(
+            user_group(user_id), {"type": "push.event", "event": event, "data": data or {}}
+        )
+    except Exception:
+        logger.exception("realtime push failed", extra={"event": event, "user_id": user_id})
+
+
+class UserEventsConsumer(AsyncJsonWebsocketConsumer):
+    async def connect(self):
+        user = self.scope["user"]
+        if not user.is_authenticated:
+            await self.close(code=4401)
+            return
+        self.group = user_group(user.id)
+        await self.channel_layer.group_add(self.group, self.channel_name)
+        await self.accept()
+
+    async def disconnect(self, code):
+        if hasattr(self, "group"):
+            await self.channel_layer.group_discard(self.group, self.channel_name)
+
+    async def push_event(self, message):
+        await self.send_json({"event": message["event"], "data": message["data"]})
+
+
+websocket_urlpatterns = [path("ws/events/", UserEventsConsumer.as_asgi())]

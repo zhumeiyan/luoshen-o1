@@ -1,1 +1,42 @@
-WwogewogICJyZXBvIjogIkV4cGxvZGluZ0dyYWRpZW50cy9yYWdhcyIsCiAgInBhdGgiOiAic3JjL3JhZ2FzL2V2YWx1YXRpb24ucHkiCiB9LAogewogICJyZXBvIjogIkV4cGxvZGluZ0dyYWRpZW50cy9yYWdhcyIsCiAgInBhdGgiOiAic3JjL3JhZ2FzL21ldHJpY3MvYmFzZS5weSIKIH0sCiB7CiAgInJlcG8iOiAiY29uZmlkZW50LWFpL2RlZXBldmFsIiwKICAicGF0aCI6ICJkZWVwZXZhbC9ldmFsdWF0ZS9ldmFsdWF0ZS5weSIKIH0sCiB7CiAgInJlcG8iOiAiY29uZmlkZW50LWFpL2RlZXBldmFsIiwKICAicGF0aCI6ICJkZWVwZXZhbC9tZXRyaWNzL2Jhc2VfbWV0cmljLnB5IgogfSwKIHsKICAicmVwbyI6ICJwcm9tcHRmb28vcHJvbXB0Zm9vIiwKICAicGF0aCI6ICJzcmMvZXZhbHVhdG9yLnRzIgogfSwKIHsKICAicmVwbyI6ICJtbGZsb3cvbWxmbG93IiwKICAicGF0aCI6ICJtbGZsb3cvbW9kZWxzL2V2YWx1YXRpb24vYmFzZS5weSIKIH0sCiB7CiAgInJlcG8iOiAibWxmbG93L21sZmxvdyIsCiAgInBhdGgiOiAibWxmbG93L2V2YWx1YXRpb24vZXZhbHVhdGlvbi5weSIKIH0sCiB7CiAgInJlcG8iOiAiY29tZXQtbWwvb3BpayIsCiAgInBhdGgiOiAic2Rrcy9weXRob24vc3JjL29waWsvZXZhbHVhdGlvbi9ldmFsdWF0b3IucHkiCiB9LAogewogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIKIH0sCiB7CiAgInJlcG8iOiAiYmlnY29kZS1wcm9qZWN0L2JpZ2NvZGUtZXZhbHVhdGlvbi1oYXJuZXNzIiwKICAicGF0aCI6ICJiaWdjb2RlX2V2YWwvZXZhbHVhdG9yLnB5IgogfQpd
+[
+ {
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/evaluation.py"
+ },
+ {
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/metrics/base.py"
+ },
+ {
+  "repo": "confident-ai/deepeval",
+  "path": "deepeval/evaluate/evaluate.py"
+ },
+ {
+  "repo": "confident-ai/deepeval",
+  "path": "deepeval/metrics/base_metric.py"
+ },
+ {
+  "repo": "promptfoo/promptfoo",
+  "path": "src/evaluator.ts"
+ },
+ {
+  "repo": "mlflow/mlflow",
+  "path": "mlflow/models/evaluation/base.py"
+ },
+ {
+  "repo": "mlflow/mlflow",
+  "path": "mlflow/evaluation/evaluation.py"
+ },
+ {
+  "repo": "comet-ml/opik",
+  "path": "sdks/python/src/opik/evaluation/evaluator.py"
+ },
+ {
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py"
+ },
+ {
+  "repo": "bigcode-project/bigcode-evaluation-harness",
+  "path": "bigcode_eval/evaluator.py"
+ }
+]

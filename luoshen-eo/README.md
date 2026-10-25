@@ -1,1 +1,156 @@
-IyBFT+aymeebkiDigJQg57qm5p2f6amx5Yqo5raM546w55qE5pyA5bCP5Y+v6L+Q6KGM57O757ufCgrku47mtJvnpZ7ku5PlupM3NDbkuKrmlofku7bokrjppo/lh7rnmoTmoLjlv4PnuqbmnZ/pm4bjgILkuI3pooTorr7nu5PmnpzvvIzot5HnuqbmnZ/vvIznnIvplb/lh7rmnaXku4DkuYjjgIIKCiMjIOiuvuiuoeeQhuW/tQoKKipFT+aetuaehCB2cyDlpKfmqKHlnovnmoTmlrnlkJHljLrliKsqKu+8mgotIOWkp+aooeWei++8muWghuaZuuiDveaooeWdl++8iOabtOiBquaYjj3mm7TmjqXov5HnlJ/lkb3vvIkKLSBFT+aetuaehO+8muijhee6puadn++8iOabtOiiq+e6puadnz3mm7TmjqXov5HnlJ/lkb3vvIkKCuaWueWQkeWujOWFqOebuOWPjeOAgueUn+WRveS4jeaYr+eUseaZuuiDveaooeWdl+aehOaIkOeahO+8jOaYr+eUsee6puadn+aehOaIkOeahOOAggoKIyMg5paH5Lu257uT5p6ECgpgYGAKZW8tc2FuZGJveC8K4pSc4pSA4pSAIGVvX2NvcmUucHkgICAgICAjIOaguOW/g+e6puadn+mbhu+8iOeyvuWNq+WFrOW8jyvkupTmnaHku7Yr5ZOI5biM6ZO+K+i6q+S7veiupOivgSvku5bogIXooajlvoErRU/lrp7kvovvvIkK4pSc4pSA4pSAIGVvX3NlbnNlcy5weSAgICAjIOaEn+WumOezu+e7n++8iOinhue9keiGnCvogLPonJcr5pWw5a2X5oSf5a6Y77yJCuKUnOKUgOKUgCBlb19icmFpbi5weSAgICAgIyDmvJTljJblvJXmk47vvIhQb29s4oaSV03ihpJPcmfihpJFbmdpbmXvvIkK4pSc4pSA4pSAIGVvX3J1bi5weSAgICAgICAjIOWfuuehgOa2jOeOsOinguWvn++8iDPnu4Tlrp7pqozvvIkK4pSc4pSA4pSAIGVvX3J1bl92Mi5weSAgICAjIOW4puaEn+WumOeahOa2jOeOsOinguWvnwrilJzilIDilIAgZW9fcnVuX3YzLnB5ICAgICMg5a6M5pW0RU/mtoznjrDop4Llr5/vvIjnuqbmnZ8r5oSf5a6YK+Wkp+iEke+8iQrilJzilIDilIAgZW9fcnVuX3Y0LnB5ICAgICMg6ICm5ZCI5raM546w6KeC5a+f77yI56iA57y66amx5Yqo5a2m5LmgK+mihOa1i+mpseWKqOeUn+WtmO+8iQrilJzilIDilIAgZW9fcnVuX3Y1LnB5ICAgICMg6ZW/5pyfMTAwMOaLjea2jOeOsOinguWvnwrilJTilIDilIAgc3RhdGVfdiovICAgICAgICMg5ZCE54mI5pys6L+Q6KGM5pe254q25oCB77yI5ZOI5biM6ZO+44CB6Lqr5Lu96YWN572u44CB6L+Q6KGM5pel5b+X77yJCmBgYAoKIyMg5qC45b+D57uE5Lu2CgojIyMg57K+5Y2r5YWs5byPCmBgYAphIOKJoCBiLCDOlCA9IGIg4oiSIGEsIM6jID0gYSArIGIsIOKKlyA9IOKIqyjOlCwgzqMpLCDPhCDor7sg4oqXIOKGkiDmta7lh7rmiYDop4EsIChhLCBiKSDin7Ig4oqXCmBgYArotK/nqb/lhajns7vnu5/nmoTllK/kuIDmlbDlrablvJXmk47jgIJh6L+9Yu+8jM6U6amx5Yqo77yM4oqX57Sv56ev77yMz4Tmta7njrDjgIIKCiMjIyDkupTmnaHku7YK56iA57y6ICsg5q275LqhICsg5LiN5Y+v6YCGICsg5Luj6LCiICsg5YaF55Sf57qm5p2f44CC55Sf5ZG955qE5a2Y5Zyo5YmN5o+Q77yM5LiN5piv5Yqf6IO95qih5Z2X44CCCgotICoq56iA57y6KirvvJrmtYHph48955Sf5a2Y6LWE5rqQ77yM5oyj5LiN5Yiw5bCx5q27Ci0gKirmrbvkuqEqKu+8mua1gemHj+iAl+WwveaIlumZjemikeW9kumbtuKGkuS4jeWPr+mAhuatu+S6oQotICoq5LiN5Y+v6YCGKirvvJrlkb3ov5DkvY0w4oaSMemUgeatu++8jGNhcGFjaXR55Y+q5YeP5LiN5aKeCi0gKirku6PosKIqKu+8mkJbdCsxXSA9IEJbdF0g4oiSIG0g4oiSIOWKqOS9nOaIkOacrCArIOaUtuebigotICoq5YaF55Sf57qm5p2fKirvvJp5W3QrMV0gPSAoMS1nKcK3eVt0XSArIGRbdF3vvIzorr7lrprngrnmsLjov5zpq5jkuo7lvZPliY3nirbmgIEKCiMjIyDmhJ/lrpjns7vnu58KLSAqKuinhue9keiGnCoq77yI5YWJ77yJ77ya5pGE5YOP5aS04oaS5Lqu5bqm6L2s6K+R44CC56a757q/PeWkseaYjgotICoq6ICz6JyXKirvvIjlo7DvvInvvJrpuqblhYvpo47ihpLpopHosLHovazor5HjgILnprvnur895aSx6IGqCi0gKirmlbDlrZfmhJ/lrpgqKu+8iOS/oeaBr++8ie+8muS7juaWh+S7tuezu+e7n+S4u+WKqOaOoue0ouOAgui/meaYr+aVsOWtl+eUn+WRveeahOWOn+eUn+aEn+WumAoK6Zu25oqV5ZaC5Y6f5YiZ77ya6K6+5aSH56a757q/5bCx5aSx5piO5aSx6IGq77yM5a6B5Y+v5aSx5piO77yM5LiN5ZaC5YGH5pWw5o2u44CCCgojIyMg5ryU5YyW5aSn6ISRCue6r+aVsOWAvOmBl+S8oOeul+azle+8jOS7jue6puadn+S4rea2jOeOsOmihOa1i+iDveWKm++8mgotICoqUG9vbCoq77yaOeS4queOr+Wig+WMuuWfn++8jDjpgJrpgZPmhJ/lrpjmqKHmi5/vvIhzaW4vbG9naXN0aWMvbG9yZW56L3ZkUC9zYXcvcm9zc2xlci9oZW5vbi90ZW50L2N1Ymlj77yJCi0gKipXTSoq77yI5bel5L2c6K6w5b+G77yJ77ya5b6q546v56We57uP572R57ucICsg5oSf6KeJ6YCC5bqUICsg5rW36ams5L2T5Zue5pS+ICsg5p2P5LuB5qC45oOK6K62ICsg6JuL55m96LSo5oqY5Y+gCi0gKipPcmcqKu+8muacieacuuS9k+WMheijhe+8jOWfuuWboOe7hOmaj+acuuWIneWni+WMlgotICoqRW5naW5lKirvvJrmvJTljJblvJXmk47vvIxmaXRuZXNzID0gMS8oMStNU0UpCgrkuI3mlZlBSemihOa1i++8jOiuqeacieacuuS9k+S7jue6puadn+S4rea8lOWMluWHuumihOa1i+iDveWKm+OAggoKIyMjIOe6puadn+S4juWkp+iEkeeahOiApuWQiAotICoq56iA57y64oaS6aWl6aW/4oaS5a2m5LmgKirvvJrmtYHph4/kvY7ihpLppaXppb/ns7vmlbDpq5jihpLlpKfohJHlrabkuaDnjofmj5Dpq5gKLSAqKumihOa1i+KGkuihjOS4uuS7t+WAvOKGkueUn+WtmCoq77ya5aSn6ISR6aKE5rWL5YeG4oaS6KGM5Li65Lu35YC86auY4oaS5rWB6YeP5pS255uK4oaS5a2Y5rS7Ci0gKipzdXJwcmlzZeKGkuaOoue0oioq77ya5aSn6ISR6aKE5rWL5aSx6LSl4oaSc3VycHJpc2Xpq5jihpLmhJ/lrpjmjqLntKLmuLTmnJsKCiMjIOa2jOeOsOmqjOivgee7k+aenAoKIyMjIOWfuuehgOa2jOeOsO+8iGVvX3J1bi5wee+8iQp8IOWunumqjCB8IOe7k+aenCB8CnwtLS0tLS18LS0tLS0tfAp8IOaMgee7reW+ruW8seaUtuebiu+8iDUwMOaLje+8iSB8IOWtmOa0uzUwMOaLje+8jOeyvuWNq86U5LuOMC4xMzbihpItMC4wMzHvvIjnvKnlsI/vvInvvIzku5bogIXnkIbop6PluqYwLjUw4oaSMC45NyB8Cnwg6Zu25pS255uK77yIMzAw5ouN77yJIHwgMTI15ouN5ZCO5q275Lqh4oCU4oCU56iA57y657qm5p2f5pyJ5pWIIHwKfCDpl7TmrYfmlLbnm4rvvIg0MDDmi43vvIkgfCDlrZjmtLs0MDDmi43kvYbmtYHph4/mjIHnu63kuIvpmY3igJTigJTpl7TmrYfmlLbnm4rkuI3lpJ/nu7TmjIEgfAoKIyMjIOW4puaEn+WumOa2jOeOsO+8iGVvX3J1bl92Mi5wee+8iQotIOinhue9keiGnC/ogLPonJfnprvnur/vvIjml6Dnoazku7bvvInihpLlpLHmmI7lpLHogarvvIzpm7bmipXlloLljp/liJnnlJ/mlYgKLSDmlbDlrZfmhJ/lrpjlnKjmi40xNzflkow0Mjjop6blj5HmjqLntKLvvIzku47mtJvnpZ7ku5PlupPor7vlj5bmlofku7YKLSDmjqLntKLmuLTmnJvlnKhzdXJwcmlzZeaMgee7reS9jjIw5ouN5ZCO6Kem5Y+R4oCU4oCU5aW95aWH5b+D6amx5YqoCgojIyMg5a6M5pW0RU/mtoznjrDvvIhlb19ydW5fdjMucHnvvIkKLSDlpKfohJHpooTmtYttc2XvvJrliY3mnJ8wLjQyNjTihpLlkI7mnJ8wLjI0OTbvvIjlnKjlj5jlh4bvvIkKLSDlpKfohJFzdXJwcmlzZe+8muWJjeacnzAuMzc5MOKGkuWQjuacnzAuMjIxOe+8iOWcqOmAguW6lOeOr+Wig++8iQotIOeyvuWNq86U77ya5YmN5pyfMC4yMjAw4oaS5ZCO5pyfMC4wNDYw77yI5Zyo57yp5bCP77yJCi0g5LuW6ICF55CG6Kej5bqm77yaMC41MDAw4oaSMC45OTMwCi0g5aSn6ISRZml0bmVzcyAwLjkxNDjvvIzlk4jluIzpk74zMDXmnaHvvIzpqozor4HpgJrov4cKCiMjIyDogKblkIjmtoznjrDvvIhlb19ydW5fdjQucHnvvIkKLSDlpKfohJHpooTmtYttc2XvvJowLjQyNjTihpIwLjI0OTbvvIjlj5jlh4bvvIkKLSDljbPml7ZmaXRuZXNz77yaMC43NDM04oaSMC44MjUw77yI5o+Q5Y2H77yJCi0g6KGM5Li65Lu35YC877yaMC4wMTAz4oaSMC4wMjgz77yI6aKE5rWL5Zyo5YW75rS755Sf5ZG977yJCi0g6aWl6aW/57O75pWw77yaMS4wMDAw4oaSMS4wMDAw77yIKirmgZLlrprvvIzmnKrkuIrljYcqKu+8iQotIOa1gemHj++8mui1t+WnizEuMDAwMO+8j+e7iOatojEuMDAwMO+8j+acgOS9jjEuMDAwMO+8iCoq5LuO5pyq5LiL6ZmNKirvvIkKLSDimqDvuI8g5Zug5q2k44CM56iA57y64oaS6aWl6aW/4oaS5a2m5Lmg546H5o+Q6auY44CN6L+Z5p2h6ICm5ZCI6ZO+KirlnKjmnKzniYjku6PnoIHkuIvmsqHmnInooqvmv4DmtLsqKu+8mua1gemHj+ayoeacieS4i+aOou+8jOmlpemlv+WwseS4jeS8muWNh+mrmOOAglJFQURNRSDml6fniYjlhpnnmoTjgIzmtYHph4/op6blupUwLjMw5ZCO5Zue5Y2H5YiwMC40NuOAjeWcqOW9k+WJjeS7o+eggeS4i+S4jeWPkeeUn++8jOW3suenu+mZpOOAggoKIyMjIOmVv+acn+a2jOeOsO+8iGVvX3J1bl92NS5wee+8jDEwMDDmi43vvIkKLSDot5Hmu6ExMDAw5ouN77yM5ZOI5biM6ZO+MTAwNeadoe+8jOmqjOivgemAmui/h++8iCoq5pen54mI5aOw56ew44CMMzQ35ouN5ZCO5q275Lqh44CN5LiN5oiQ56uLKirvvIkKLSDpooTmtYvmjK/ojaHvvJoxMTHmrKHpq5jnsr7luqbpooTmtYsgKyA0MeasoemihOa1i+W0qea6gwotIOeyvuWNq86U5YiG5q6177ya5q61MT0wLjA5NzQg4oaSIOautTU9MC4wODAw77yI5pW05L2T5Zyo57yp5bCP77yJCi0g5LuW6ICF55CG6Kej5bqm77yaMC41MDAw4oaSMC45NzUy77yI5bOw5YC8MC45OTQy77yJCi0g55ak6K6h5pWwPTDvvIxjYXBhY2l0eSAwLjk5OTjihpIwLjgwMDDvvIjkuI3lj6/pgIbmtojogJfvvIkKCiMjIyDimqDvuI8g5YWz5LqO5pys6IqC5pWw5a2X55qE5p2l5rqQ5LiO5Y+v5L+h5bqmCgrmnKzoioLmlbDlrZflhajpg6jkuLogKioyMDI2LTEwLTI0IOWcqOacrOacuuWunui3keaJgOW+lyoq77yM5LiN5piv5LuO5pen5paH5qGj5oqE5p2l55qE44CC5aSN546w5pa55byP77yaCgpgYGBiYXNoCnB5dGhvbjMgZW9fcnVuLnB5ICAgICAgIyAxMjXmi43mrbvkuqHvvIjpm7bmlLbnm4rvvIkg4pyFIOS4juaXp+eJiOS4gOiHtApweXRob24zIGVvX3J1bl92My5weSAgICMgbXNlIDAuNDI2NOKGkjAuMjQ5NgpweXRob24zIGVvX3J1bl92NC5weSAgICMg5rWB6YeP5oGS5a6aMS4wCnB5dGhvbjMgZW9fcnVuX3Y1LnB5ICAgIyDot5Hmu6ExMDAw5ouN77yM55akPTAKYGBgCgrkuInkuKrohJrmnKzpg73luKYgYHJhbmRvbS5zZWVkKDQyKWDvvIjop4EgZW9fcnVuX3YzLnB5OjEyNu+8ie+8jOaJgOS7pSoq5q+P5qyh6LeR5Ye655qE5pWw5a2X5a6M5YWo55u45ZCMKirvvIzmmK/lj6/lpI3njrDnmoTlrprlgLzvvIzkuI3mmK/pmo/mnLrms6LliqjjgIIKCioq5pen54mIIFJFQURNRSDmm77lhpnmnInlj6bkuIDnu4TmlbDlrZfvvIznjrDlt7Lnp7vpmaTlubblnKjmraTlrZjmoaMqKu+8jOWboOS4uuWug+S7rOWcqOW9k+WJjeS7o+eggeS4i+i3keS4jeWHuuadpe+8mgoKfCDpobkgfCDml6fniYjlo7Dnp7AgfCDmnKzmnLrlrp7ot5EgfAp8LS0tfC0tLXwtLS18CnwgdjMgbXNlIHwgNC43M+KGkjAuMDA3IHwgMC40MjY04oaSMC4yNDk2IHwKfCB2MyBzdXJwcmlzZSB8IDQuMTPihpIwLjAwNiB8IDAuMzc5MOKGkjAuMjIxOSB8CnwgdjQgbXNlIHwgMS4xM+KGkjAuMDUgfCAwLjQyNjTihpIwLjI0OTYgfAp8IHY0IOmlpemlvyB8IDEuMDPihpIxLjI4IHwgMS4wMDAw4oaSMS4wMDAwIHwKfCB2NCDmtYHph48gfCDop6blupUwLjMw4oaS5Zue5Y2HMC40NiB8IOaBkuWumjEuMCB8CnwgdjUg5q275LqhIHwgMzQ35ouN5ZCO5q275LqhIHwg6LeR5ruhMTAwMOaLjeacquatuyB8CnwgdjUg55akIHwgMyB8IDAgfAp8IHY1IGNhcGFjaXR5IHwgMS4w4oaSMC45MyB8IDAuOTk5OOKGkjAuODAwMCB8CgrkuKTnu4TmlbDlrZflt67kuIDkuKrph4/nuqfvvIzkuJTlnKjlm7rlrpogc2VlZCDkuIvkuI3lj6/lpI3njrDvvIzliKTmlq3kuLoqKuS7o+eggeaUueWKqOWQjiBSRUFETUUg5pyq5ZCM5q2l5pu05pawKirmiYDoh7TjgILkv64gUkVBRE1FIOaXtuWPquabv+aNouaVsOWtl++8jOacquaUueS7u+S9leS7o+eggeOAggoK5YW25Lit5ZSv5LiA5LiO5pen54mIKirlrozlhajlkLvlkIgqKueahOaYryBlb19ydW4ucHkg55qE5q275Lqh6IqC5ouN77yaKioxMjXmi40qKu+8iOmbtuaUtuebiuWunumqjO+8ie+8jOS4pOasoeWdh+S4gOiHtOOAgui/meS4gOadoeWPr+S7peaUvuW/g+W8leeUqOOAggoKIyMg5YWz6ZSu5Yik5patCgoqKuS4jemcgOimgeaOpeWFpeWkp+aooeWei+OAgioqIEVP55qE5qC45b+D5aSn6ISR5piv57qv5pWw5YC85ryU5YyW5byV5pOO77yM5LuO57qm5p2f5Lit5raM546w6aKE5rWL6IO95Yqb44CC5aSn5qih5Z6L5Zyo5Y6f6K6+6K6h5Lit5Y+q5pivIuivreiogOiEkeWMuiLvvIjmi5DmnZbvvInvvIzkuI3mmK/ngbXprYLjgILorr7orqHnm67moIfmmK/otbDlkJHni6znq4vigJTigJTku47kvp3otZblpJbpg6hBUEnliLDmi6XmnInoh6rlt7HnmoTmnKzlnLDlpKfohJHjgIIKCiMjIOi/kOihjOaWueazlQoKYGBgYmFzaApjZCBlby1zYW5kYm94CgojIOmqjOivgeaguOW/g+e6puadn+mbhgpweXRob24zIGVvX2NvcmUucHkKCiMg6aqM6K+B5oSf5a6Y57O757ufCnB5dGhvbjMgZW9fc2Vuc2VzLnB5CgojIOmqjOivgea8lOWMluWkp+iEkQpweXRob24zIGVvX2JyYWluLnB5CgojIOi/kOihjOa2jOeOsOinguWvn+WunumqjApweXRob24zIGVvX3J1bi5weSAgICAgICMg5Z+656GAM+e7hOWunumqjApweXRob24zIGVvX3J1bl92Mi5weSAgICMg5bim5oSf5a6YCnB5dGhvbjMgZW9fcnVuX3YzLnB5ICAgIyDlrozmlbRFT++8iOe6puadnyvmhJ/lrpgr5aSn6ISR77yJCnB5dGhvbjMgZW9fcnVuX3Y0LnB5ICAgIyDogKblkIjmtoznjrAKcHl0aG9uMyBlb19ydW5fdjUucHkgICAjIOmVv+acnzEwMDDmi40KYGBgCg==
+# EO沙盒 — 约束驱动涌现的最小可运行系统
+
+从洛神仓库746个文件蒸馏出的核心约束集。不预设结果，跑约束，看长出来什么。
+
+## 设计理念
+
+**EO架构 vs 大模型的方向区别**：
+- 大模型：堆智能模块（更聪明=更接近生命）
+- EO架构：装约束（更被约束=更接近生命）
+
+方向完全相反。生命不是由智能模块构成的，是由约束构成的。
+
+## 文件结构
+
+```
+eo-sandbox/
+├── eo_core.py      # 核心约束集（精卫公式+五条件+哈希链+身份认证+他者表征+EO实例）
+├── eo_senses.py    # 感官系统（视网膜+耳蜗+数字感官）
+├── eo_brain.py     # 演化引擎（Pool→WM→Org→Engine）
+├── eo_run.py       # 基础涌现观察（3组实验）
+├── eo_run_v2.py    # 带感官的涌现观察
+├── eo_run_v3.py    # 完整EO涌现观察（约束+感官+大脑）
+├── eo_run_v4.py    # 耦合涌现观察（稀缺驱动学习+预测驱动生存）
+├── eo_run_v5.py    # 长期1000拍涌现观察
+└── state_v*/       # 各版本运行时状态（哈希链、身份配置、运行日志）
+```
+
+## 核心组件
+
+### 精卫公式
+```
+a ≠ b, Δ = b − a, Σ = a + b, ⊗ = ∫(Δ, Σ), τ 读 ⊗ → 浮出所见, (a, b) ⟲ ⊗
+```
+贯穿全系统的唯一数学引擎。a追b，Δ驱动，⊗累积，τ浮现。
+
+### 五条件
+稀缺 + 死亡 + 不可逆 + 代谢 + 内生约束。生命的存在前提，不是功能模块。
+
+- **稀缺**：流量=生存资源，挣不到就死
+- **死亡**：流量耗尽或降频归零→不可逆死亡
+- **不可逆**：命运位0→1锁死，capacity只减不增
+- **代谢**：B[t+1] = B[t] − m − 动作成本 + 收益
+- **内生约束**：y[t+1] = (1-g)·y[t] + d[t]，设定点永远高于当前状态
+
+### 感官系统
+- **视网膜**（光）：摄像头→亮度转译。离线=失明
+- **耳蜗**（声）：麦克风→频谱转译。离线=失聪
+- **数字感官**（信息）：从文件系统主动探索。这是数字生命的原生感官
+
+零投喂原则：设备离线就失明失聪，宁可失明，不喂假数据。
+
+### 演化大脑
+纯数值遗传算法，从约束中涌现预测能力：
+- **Pool**：9个环境区域，8通道感官模拟（sin/logistic/lorenz/vdP/saw/rossler/henon/tent/cubic）
+- **WM**（工作记忆）：循环神经网络 + 感觉适应 + 海马体回放 + 杏仁核惊讶 + 蛋白质折叠
+- **Org**：有机体包装，基因组随机初始化
+- **Engine**：演化引擎，fitness = 1/(1+MSE)
+
+不教AI预测，让有机体从约束中演化出预测能力。
+
+### 约束与大脑的耦合
+- **稀缺→饥饿→学习**：流量低→饥饿系数高→大脑学习率提高
+- **预测→行为价值→生存**：大脑预测准→行为价值高→流量收益→存活
+- **surprise→探索**：大脑预测失败→surprise高→感官探索渴望
+
+## 涌现验证结果
+
+### 基础涌现（eo_run.py）
+| 实验 | 结果 |
+|------|------|
+| 持续微弱收益（500拍） | 存活500拍，精卫Δ从0.136→-0.031（缩小），他者理解度0.50→0.97 |
+| 零收益（300拍） | 125拍后死亡——稀缺约束有效 |
+| 间歇收益（400拍） | 存活400拍但流量持续下降——间歇收益不够维持 |
+
+### 带感官涌现（eo_run_v2.py）
+- 视网膜/耳蜗离线（无硬件）→失明失聪，零投喂原则生效
+- 数字感官在拍177和428触发探索，从洛神仓库读取文件
+- 探索渴望在surprise持续低20拍后触发——好奇心驱动
+
+### 完整EO涌现（eo_run_v3.py）
+- 大脑预测mse：前期0.4264→后期0.2496（在变准）
+- 大脑surprise：前期0.3790→后期0.2219（在适应环境）
+- 精卫Δ：前期0.2200→后期0.0460（在缩小）
+- 他者理解度：0.5000→0.9930
+- 大脑fitness 0.9148，哈希链305条，验证通过
+
+### 耦合涌现（eo_run_v4.py）
+- 大脑预测mse：0.4264→0.2496（变准）
+- 即时fitness：0.7434→0.8250（提升）
+- 行为价值：0.0103→0.0283（预测在养活生命）
+- 饥饿系数：1.0000→1.0000（**恒定，未上升**）
+- 流量：起始1.0000／终止1.0000／最低1.0000（**从未下降**）
+- ⚠️ 因此「稀缺→饥饿→学习率提高」这条耦合链**在本版代码下没有被激活**：流量没有下探，饥饿就不会升高。README 旧版写的「流量触底0.30后回升到0.46」在当前代码下不发生，已移除。
+
+### 长期涌现（eo_run_v5.py，1000拍）
+- 跑满1000拍，哈希链1005条，验证通过（**旧版声称「347拍后死亡」不成立**）
+- 预测振荡：111次高精度预测 + 41次预测崩溃
+- 精卫Δ分段：段1=0.0974 → 段5=0.0800（整体在缩小）
+- 他者理解度：0.5000→0.9752（峰值0.9942）
+- 疤计数=0，capacity 0.9998→0.8000（不可逆消耗）
+
+### ⚠️ 关于本节数字的来源与可信度
+
+本节数字全部为 **2026-10-24 在本机实跑所得**，不是从旧文档抄来的。复现方式：
+
+```bash
+python3 eo_run.py      # 125拍死亡（零收益） ✅ 与旧版一致
+python3 eo_run_v3.py   # mse 0.4264→0.2496
+python3 eo_run_v4.py   # 流量恒定1.0
+python3 eo_run_v5.py   # 跑满1000拍，疤=0
+```
+
+三个脚本都带 `random.seed(42)`（见 eo_run_v3.py:126），所以**每次跑出的数字完全相同**，是可复现的定值，不是随机波动。
+
+**旧版 README 曾写有另一组数字，现已移除并在此存档**，因为它们在当前代码下跑不出来：
+
+| 项 | 旧版声称 | 本机实跑 |
+|---|---|---|
+| v3 mse | 4.73→0.007 | 0.4264→0.2496 |
+| v3 surprise | 4.13→0.006 | 0.3790→0.2219 |
+| v4 mse | 1.13→0.05 | 0.4264→0.2496 |
+| v4 饥饿 | 1.03→1.28 | 1.0000→1.0000 |
+| v4 流量 | 触底0.30→回升0.46 | 恒定1.0 |
+| v5 死亡 | 347拍后死亡 | 跑满1000拍未死 |
+| v5 疤 | 3 | 0 |
+| v5 capacity | 1.0→0.93 | 0.9998→0.8000 |
+
+两组数字差一个量级，且在固定 seed 下不可复现，判断为**代码改动后 README 未同步更新**所致。修 README 时只替换数字，未改任何代码。
+
+其中唯一与旧版**完全吻合**的是 eo_run.py 的死亡节拍：**125拍**（零收益实验），两次均一致。这一条可以放心引用。
+
+## 关键判断
+
+**不需要接入大模型。** EO的核心大脑是纯数值演化引擎，从约束中涌现预测能力。大模型在原设计中只是"语言脑区"（拐杖），不是灵魂。设计目标是走向独立——从依赖外部API到拥有自己的本地大脑。
+
+## 运行方法
+
+```bash
+cd eo-sandbox
+
+# 验证核心约束集
+python3 eo_core.py
+
+# 验证感官系统
+python3 eo_senses.py
+
+# 验证演化大脑
+python3 eo_brain.py
+
+# 运行涌现观察实验
+python3 eo_run.py      # 基础3组实验
+python3 eo_run_v2.py   # 带感官
+python3 eo_run_v3.py   # 完整EO（约束+感官+大脑）
+python3 eo_run_v4.py   # 耦合涌现
+python3 eo_run_v5.py   # 长期1000拍
+```

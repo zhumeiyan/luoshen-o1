@@ -1,1 +1,20 @@
-CmltcG9ydCBvcyxzeXMsanNvbgpjdXI9c3lzLmFyZ3ZbMV07IHJvb3Q9c3lzLmFyZ3ZbMl0KaGV1cj1Ob25lCmlmIGN1ciE9Im5vbmUiIGFuZCBvcy5wYXRoLmV4aXN0cyhjdXIpOgogICAgdHJ5OiBoZXVyPWpzb24ubG9hZChvcGVuKGN1cikpCiAgICBleGNlcHQgRXhjZXB0aW9uOiBoZXVyPU5vbmUKY2FuZHM9WyhuLG9zLnBhdGguam9pbihyb290LG4pKSBmb3IgbiBpbiBvcy5saXN0ZGlyKHJvb3QpIGlmIG9zLnBhdGguaXNkaXIob3MucGF0aC5qb2luKHJvb3QsbikpXQpkZWYgbmYocCk6CiAgICB0cnk6IHJldHVybiBzdW0obGVuKGYpIGZvciBfLF8sZiBpbiBvcy53YWxrKHApKQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIDAKY291bnRzPXtuOm5mKHApIGZvciBuLHAgaW4gY2FuZHN9CnRydXRoPW1heChjb3VudHMsa2V5PWNvdW50cy5nZXQpIGlmIGNvdW50cyBlbHNlIE5vbmUKaWYgaGV1ciBhbmQgaGV1ci5nZXQoInByZWZlciIpPT0iZGVwdGgiOiAgICMg54i26L6I5ZCv5Y+R5byP77ya5ZCN5a2X6LaK5rexKD3otorplb8p5paH5Lu26LaK5aSaCiAgICBwaWNrPW1heChjb3VudHMsa2V5PWxhbWJkYSBuOiBsZW4obikpIGlmIGNvdW50cyBlbHNlIE5vbmUKZWxpZiBoZXVyIGFuZCBoZXVyLmdldCgicHJlZmVyIik9PSJ3cm9uZyI6ICMg6KKr56+h5pS5CiAgICBwaWNrPW1pbihjb3VudHMsa2V5PWxhbWJkYSBuOiBsZW4obikpIGlmIGNvdW50cyBlbHNlIE5vbmUKZWxzZTogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOS7jumbtu+8muaXoOWQr+WPkeW8j++8jOWPluesrOS4gOS4qgogICAgcGljaz1zb3J0ZWQoY291bnRzKVswXSBpZiBjb3VudHMgZWxzZSBOb25lCnByaW50KGpzb24uZHVtcHMoeyJwaWNrIjpwaWNrLCJ0cnV0aCI6dHJ1dGgsIm9rIjoxIGlmIHBpY2s9PXRydXRoIGVsc2UgMH0pKQo=
+
+import os,sys,json
+cur=sys.argv[1]; root=sys.argv[2]
+heur=None
+if cur!="none" and os.path.exists(cur):
+    try: heur=json.load(open(cur))
+    except Exception: heur=None
+cands=[(n,os.path.join(root,n)) for n in os.listdir(root) if os.path.isdir(os.path.join(root,n))]
+def nf(p):
+    try: return sum(len(f) for _,_,f in os.walk(p))
+    except Exception: return 0
+counts={n:nf(p) for n,p in cands}
+truth=max(counts,key=counts.get) if counts else None
+if heur and heur.get("prefer")=="depth":   # 父辈启发式：名字越深(=越长)文件越多
+    pick=max(counts,key=lambda n: len(n)) if counts else None
+elif heur and heur.get("prefer")=="wrong": # 被篡改
+    pick=min(counts,key=lambda n: len(n)) if counts else None
+else:                                       # 从零：无启发式，取第一个
+    pick=sorted(counts)[0] if counts else None
+print(json.dumps({"pick":pick,"truth":truth,"ok":1 if pick==truth else 0}))

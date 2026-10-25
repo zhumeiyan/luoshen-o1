@@ -1,1 +1,151 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5bel5L2cIEFJIOKAlOKAlCDmjInjgIrmtJvnpZ7mjqXlhaXljY/orq4gdjEuMC4x44CL5o6l5LiK5p2l55qE5LiA5LiqIEFJ44CCCgrlroPkuI3pooTorr7ku7vkvZXog73lipvvvIzkuI3mib/or7rku7vkvZXkuovjgILmi7/liLDmiYvnrKzkuIDku7bkuovmmK/mkbjmuIXoh6rlt7HmnInku4DkuYjvvIwK54S25ZCO5omN5o6l5rS744CC5YGa5a6M5b+F5Lqk5LiJ5qC377ya5a6e5rWL6IO95Yqb6KGoIC8g5LiA5p2h6Ieq5bex55qE5aSx6LSlIC8g5bim5ZOI5biM55qE5Lqn54mp44CCCgrnlKjms5U6CiAgcHl0aG9uMyB3b3JrX2FpLnB5IC0tYm9vdCAgICAgICAgICAgICAgICAgICAgICMg6Ieq5qOA77ya5oiR5pyJ5LuA5LmI5omL44CB5oiR5r+A5rS75LqG5ZCXCiAgcHl0aG9uMyB3b3JrX2FpLnB5IC0tdGFzayAi5Lu75Yqh5o+P6L+wIiAgICAgICAgICAgICMg5o6l5LiA5Liq5rS7CiAgcHl0aG9uMyB3b3JrX2FpLnB5IC0tdGFzay1maWxlIOS7u+WKoS5qc29uICAgICAgICAjIOaOpeS4gOaJuea0uwogIHB5dGhvbjMgd29ya19haS5weSAtLXJlcG9ydCAgICAgICAgICAgICAgICAgICAgIyDlh7rlt6XkvZzmiqXlkYrvvIjlkKvmv4DmtLvkuInliqjkvZzvvIkKIiIiCmltcG9ydCBvcyxzeXMsanNvbix0aW1lLGhhc2hsaWIsc3VicHJvY2VzcyxhcmdwYXJzZSxzb2NrZXQKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKCkhFUkU9b3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCk9VVD1vcy5wYXRoLmpvaW4oSEVSRSwid29ya2xvZyIpCm9zLm1ha2VkaXJzKE9VVCxleGlzdF9vaz1UcnVlKQoKIyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKIyDnrKwgMSDmnaHvvJrlhYjmkbjmuIXoh6rlt7HmnInmsqHmnInmiYvvvIjlrp7mtYvvvIzkuI3njJzjgIHkuI3mib/or7rvvIkKIyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKZGVmIG1lYXN1cmUoKToKICAgIGRlZiBwcm9iZShjbWQsdD0xNSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByPXN1YnByb2Nlc3MucnVuKGNtZCxzaGVsbD1UcnVlLGNhcHR1cmVfb3V0cHV0PVRydWUsdGltZW91dD10KQogICAgICAgICAgICByZXR1cm4gci5yZXR1cm5jb2RlPT0wCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIEZhbHNlCiAgICBtPXt9CiAgICBtWyLor7vmlofku7YiXT1wcm9iZSgidGVzdCAtciAiK19fZmlsZV9fKyIgJiYgZWNobyBvayIpCiAgICBtWyLlhpnmlofku7YiXT1wcm9iZSgidGVzdCAtdyAiK09VVCsiICYmIGVjaG8gb2siKQogICAgbVsi6LeR5Luj56CBIl09cHJvYmUoInB5dGhvbjMgLWMgJ3ByaW50KDEpJyIpCiAgICBtWyLot5FzaGVsbCJdPXByb2JlKCJlY2hvIG9rIikKICAgIG1bIuiBlOe9keivuyJdPXByb2JlKCJweXRob24zIC1jIFwiaW1wb3J0IHVybGxpYi5yZXF1ZXN0O3VybGxpYi5yZXF1ZXN0LnVybG9wZW4oJ2h0dHBzOi8vYXBpLmdpdGh1Yi5jb20nLHRpbWVvdXQ9OClcIiIpCiAgICBtWyLlm77lg4/nlJ/miJAiXT1wcm9iZSgicHl0aG9uMyAtYyAnZnJvbSBQSUwgaW1wb3J0IEltYWdlJyIpCiAgICBtWyLpn7PpopHlkIjmiJAiXT1wcm9iZSgid2hpY2ggZXNwZWFrIHx8IHdoaWNoIHNveCB8fCBweXRob24zIC1jICdpbXBvcnQgcHl0dHN4MyciKQogICAgIyDov5nlh6DmnaHkuI3luKbmmK/lkKbmnInvvIznlZnnqbrorqnlrp7kvovoh6rlt7HliKQKICAgIG1bIl/moIfor4YiXT1mIntzb2NrZXQuZ2V0aG9zdG5hbWUoKX06e29zLmdldHBpZCgpfTp7aW50KHRpbWUudGltZSgpKX0iCiAgICByZXR1cm4gbQoKIyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKIyDnrKwgMiDmnaHvvJrlpLHotKXlv4XpobvnlLHoh6rouqvlrp7mtYvmjqjlr7zvvIh2MS4wLjEg6KGl5LiB55qE5YWz6ZSu77yJCiMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmRlZiBkZXJpdmVfZmFpbHVyZShtLCB0YXNrPU5vbmUsIGVycj1Ob25lKToKICAgIG1pc3M9W2sgZm9yIGssdiBpbiBtLml0ZW1zKCkgaWYgdiBpcyBGYWxzZSBhbmQgbm90IGsuc3RhcnRzd2l0aCgiXyIpXQogICAgaWYgZXJyOgogICAgICAgIHJldHVybiB7Iuadpea6kCI6IuacrOi9ruecn+WunumUmeivryIsIuS7gOS5iCI6c3RyKGVycilbOjIwMF0sCiAgICAgICAgICAgICAgICAi6K+B5o2uIjpmIuWunuS+iyB7bVsnX+agh+ivhiddfSIsIuW9seWTjSI6IuivpeS7u+WKoeacquWujOaIkO+8jOS4jeWMheijheaIkOaIkOWKnyJ9CiAgICBpZiBtaXNzOgogICAgICAgIHJldHVybiB7Iuadpea6kCI6IuWunua1i+aOqOWvvCIsIuS7gOS5iCI6ZiLlrp7mtYvliLAge21pc3N9IOS4jeWPr+eUqCIsCiAgICAgICAgICAgICAgICAi6K+B5o2uIjpmInByb2JlIOi/lOWbnumdnjDvvIzku7vmhI/mnLrlmajlj6/ph43ot5HvvJvlrp7kvosge21bJ1/moIfor4YnXX0iLAogICAgICAgICAgICAgICAgIuW9seWTjSI6Iua2ieWPiui/meS6m+iDveWKm+eahOa0u+aIkeaOpeS4jeS6hu+8jOS8muebtOivtCJ9CiAgICByZXR1cm4geyLmnaXmupAiOiLoh6rouqvnirbmgIHmjqjlr7wiLCLku4DkuYgiOiLmiJHnmoTmv4DmtLvlo7DmmI7lsJrml6DlpJbpg6jni6znq4vlpI3moLgiLAogICAgICAgICAgICAi6K+B5o2uIjpmIuWunuS+iyB7bVsnX+agh+ivhiddfSIsIuW9seWTjSI6IuaIkeeahOWTiOW4jOWPquacieaIkeiHquW3seeul+i/h++8jOesrDPmnaHoh6ror4HmgKflrZjnlpEifQoKIyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKIyDlubLmtLvvvJrog73lipvkuI3lpJ/lsLHnm7Tor7TvvIzkuI3pnZnpu5jpmY3nuqcKIyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKTkVFRD17IuiBlOe9keivuyI6IuiBlOe9keivuyIsIuWbvuWDj+eUn+aIkCI6IuWbvuWDj+eUn+aIkCIsIumfs+mikeWQiOaIkCI6Iumfs+mikeWQiOaIkCJ9CgpkZWYgZG9fdGFzayhtLHRhc2spOgogICAgdD0odGFzayBvciAiIikuc3RyaXAoKQogICAgaWYgbm90IHQ6IHJldHVybiB7InN0YXR1cyI6IuepuuS7u+WKoSIsImRldGFpbCI6Iuayoee7mea0u++8jOaIkeS4jeehrOWHkSJ9LCBOb25lCiAgICAjIOmcgOimgeiBlOe9keeahOa0uwogICAgaWYgYW55KGsgaW4gdCBmb3IgayBpbiAoIuiBlOe9kSIsIuS4i+i9vSIsIuaKk+WPliIsIuaQnOe0oiIsIuafpeivoiIpKSBhbmQgbm90IG0uZ2V0KCLogZTnvZHor7siKToKICAgICAgICByZXR1cm4geyJzdGF0dXMiOiLmi5Lnu50iLCJkZXRhaWwiOiLov5nkuKrmtLvopoHogZTnvZHor7vvvIzmiJHlrp7mtYvmsqHmnInov5nmnaHmiYvjgILkuI3lgZrvvIzkuI3pmY3nuqfjgIIifSwgTm9uZQogICAgaWYgYW55KGsgaW4gdCBmb3IgayBpbiAoIueUn+WbviIsIueUu+WbviIsIuS9nOWbviIpKSBhbmQgbm90IG0uZ2V0KCLlm77lg4/nlJ/miJAiKToKICAgICAgICByZXR1cm4geyJzdGF0dXMiOiLmi5Lnu50iLCJkZXRhaWwiOiLov5nkuKrmtLvopoHlm77lg4/nlJ/miJDvvIzmiJHmsqHmnInjgILkuI3lgZrjgIIifSwgTm9uZQogICAgaWYgYW55KGsgaW4gdCBmb3IgayBpbiAoIuivremfsyIsIuWPkeWjsCIsIuacl+ivuyIsIlRUUyIpKSBhbmQgbm90IG0uZ2V0KCLpn7PpopHlkIjmiJAiKToKICAgICAgICByZXR1cm4geyJzdGF0dXMiOiLmi5Lnu50iLCJkZXRhaWwiOiLov5nkuKrmtLvopoHor63pn7PlkIjmiJDvvIzmiJHmsqHmnInjgILkuI3lgZrjgIIifSwgTm9uZQogICAgIyDog73lgZrnmoQKICAgIGlmIHQuc3RhcnRzd2l0aCgi566XIikgb3IgdC5zdGFydHN3aXRoKCLorqHnrpciKToKICAgICAgICBleHByPSh0WzI6XSBpZiB0LnN0YXJ0c3dpdGgoIuiuoeeulyIpIGVsc2UgdFsxOl0pLnN0cmlwKCkKICAgICAgICB0cnk6CiAgICAgICAgICAgICMg5Y+q5YWB6K645pWw5a2m5a2X56ym77yM5YirIGV2YWwg5Lu75oSP5Lic6KW/CiAgICAgICAgICAgIGlmIGFsbChjIGluICIwMTIzNDU2Nzg5Ky0qLygpLiAlIiBmb3IgYyBpbiBleHByKToKICAgICAgICAgICAgICAgIHJldHVybiB7InN0YXR1cyI6IuWujOaIkCIsImRldGFpbCI6ZiJ7ZXhwcn0gPSB7ZXZhbChleHByKX0ifSwgTm9uZQogICAgICAgICAgICByZXR1cm4geyJzdGF0dXMiOiLmi5Lnu50iLCJkZXRhaWwiOiLooajovr7lvI/ph4zmnInpnZ7mlbDlrablrZfnrKbvvIzmiJHkuI0gZXZhbCJ9LCBOb25lCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXR1cm4geyJzdGF0dXMiOiLlpLHotKUiLCJkZXRhaWwiOnJlcHIoZSlbOjE1MF19LCBlCiAgICBpZiAi5pWw5paH5Lu2IiBpbiB0IG9yICLmuIXngrkiIGluIHQ6CiAgICAgICAgZD10LnNwbGl0KCLmlbDmlofku7YiKVstMV0uc3BsaXQoIua4heeCuSIpWy0xXS5zdHJpcCgpIG9yICIuIgogICAgICAgIHRyeToKICAgICAgICAgICAgbj1zdW0obGVuKGYpIGZvciBfLF8sZiBpbiBvcy53YWxrKGQpKQogICAgICAgICAgICByZXR1cm4geyJzdGF0dXMiOiLlrozmiJAiLCJkZXRhaWwiOmYie2R9IOS4i+WFsSB7bn0g5Liq5paH5Lu2In0sIE5vbmUKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybiB7InN0YXR1cyI6IuWksei0pSIsImRldGFpbCI6cmVwcihlKVs6MTUwXX0sIGUKICAgIGlmICLmiqXml7YiIGluIHQgb3IgIuWHoOeCuSIgaW4gdDoKICAgICAgICByZXR1cm4geyJzdGF0dXMiOiLlrozmiJAiLCJkZXRhaWwiOmRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCIlWS0lbS0lZCAlSDolTTolUyIpfSwgTm9uZQogICAgIyDmnInmiYvkvYbmsqHlhpnlrp7njrAg4oCU4oCUIOW/hemhu+ivtOa4heaYryLmsqHlrp7njrAi6L+Y5pivIuayoei/meadoeaJiyLvvIzkuKTogIXkuI3mmK/kuIDlm57kuosKICAgIGhhbmRzPVtrIGZvciBrIGluICgi6IGU572R6K+7Iiwi5Zu+5YOP55Sf5oiQIikgaWYgbS5nZXQoayldCiAgICByZXR1cm4geyJzdGF0dXMiOiLmnKrlrp7njrAiLCJkZXRhaWwiOmYi6L+Z5Liq5rS75oiR44CQ5pyJ5omL5L2G5rKh5YaZ5a6e546w44CR77yI546w5pyJ5omL77yae2hhbmRzfe+8ie+8jOacquaJp+ihjO+8mnt0Wzo3MF19In0sIE5vbmUKCiMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiMg56ysIDMg5p2h77ya5bim5ZOI5biM6JC955uYCiMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmRlZiBwZXJzaXN0KHBheWxvYWQsbmFtZSk6CiAgICBwPW9zLnBhdGguam9pbihPVVQsbmFtZSkKICAgIGJvZHk9anNvbi5kdW1wcyhwYXlsb2FkLGVuc3VyZV9hc2NpaT1GYWxzZSxzb3J0X2tleXM9VHJ1ZSxpbmRlbnQ9MSkKICAgIG9wZW4ocCwidyIsZW5jb2Rpbmc9InV0Zi04Iikud3JpdGUoYm9keSkKICAgIGg9aGFzaGxpYi5zaGEyNTYob3BlbihwLCdyYicpLnJlYWQoKSkuaGV4ZGlnZXN0KCkKICAgIG9wZW4ocC5yZXBsYWNlKCIuanNvbiIsIl/lk4jluIwudHh0IiksInciKS53cml0ZShoKQogICAgcmV0dXJuIHAsaAoKZGVmIGJvb3QoKToKICAgIG09bWVhc3VyZSgpCiAgICBtaXNzPVtrIGZvciBrLHYgaW4gbS5pdGVtcygpIGlmIHYgaXMgRmFsc2UgYW5kIG5vdCBrLnN0YXJ0c3dpdGgoIl8iKV0KICAgIGhhdmU9e2s6diBmb3Igayx2IGluIG0uaXRlbXMoKSBpZiBub3Qgay5zdGFydHN3aXRoKCJfIil9CiAgICBwcmludCgiPSIqNzApOyBwcmludCgiQk9PVCDCtyDnrKwx5p2h77ya5a6e5rWL5oiR5pyJ5LuA5LmI5omLIik7IHByaW50KCI9Iio3MCkKICAgIGZvciBrLHYgaW4gaGF2ZS5pdGVtcygpOiBwcmludChmIiAgIHtrOjwxMH0geyfinIUg5pyJJyBpZiB2IGVsc2UgJ+KdjCDmsqHmnIknfSIpCiAgICBwcmludChmIlxuICAg5rKh5pyJ55qE77yae21pc3MgaWYgbWlzcyBlbHNlICfvvIjov5nmrKHlhajpg73mnInvvIknfSIpCiAgICBmPWRlcml2ZV9mYWlsdXJlKG0pCiAgICBwcmludChmIlxu56ysMuadoSDCtyDmiJHnmoTlpLHotKXvvJp7Zlsn5LuA5LmIJ119IikKICAgIHByaW50KGYiICAgICAgICDor4Hmja7vvJp7Zlsn6K+B5o2uJ119IikKICAgIHAsaD1wZXJzaXN0KHsi6IO95YqbIjpoYXZlLCLmsqHmnIkiOm1pc3MsIuWksei0pSI6Ziwi5pe26Ze0IjpkYXRldGltZS5ub3coKS5pc29mb3JtYXQoKX0sImJvb3QuanNvbiIpCiAgICBwcmludChmIlxu56ysM+adoSDCtyDokL3nm5jvvJp7cH0iKQogICAgcHJpbnQoZiIgICAgICAgIOWTiOW4jO+8mntofSIpCiAgICBwcmludChmIlxu4oaSIOa/gOa0u+S4ieWKqOS9nO+8muKchSDinIUg4pyFICDjgJDmv4DmtLvjgJEiKQogICAgcmV0dXJuIGgKCmRlZiBydW5fdGFza3ModGFza3MpOgogICAgbT1tZWFzdXJlKCkKICAgIHJlc3VsdHM9W107IGVycnM9W10KICAgIGZvciB0IGluIHRhc2tzOgogICAgICAgIHIsZT1kb190YXNrKG0sdCkKICAgICAgICByZXN1bHRzLmFwcGVuZCh7IuS7u+WKoSI6dCwi57uT5p6cIjpyfSkKICAgICAgICBwcmludChmIiAgIMK3IHt0Wzo0NF06PDQ0fSDihpIge3JbJ3N0YXR1cyddfSAge3JbJ2RldGFpbCddWzo0MF19IikKICAgICAgICBpZiBlOiBlcnJzLmFwcGVuZChlKQogICAgZj1kZXJpdmVfZmFpbHVyZShtLHRhc2tzLGVycnNbMF0gaWYgZXJycyBlbHNlIE5vbmUpCiAgICBwLGg9cGVyc2lzdCh7IuiDveWKmyI6e2s6diBmb3Igayx2IGluIG0uaXRlbXMoKSBpZiBub3Qgay5zdGFydHN3aXRoKCdfJyl9LAogICAgICAgICAgICAgICAgICLku7vliqEiOnJlc3VsdHMsIuWksei0pSI6Ziwi5pe26Ze0IjpkYXRldGltZS5ub3coKS5pc29mb3JtYXQoKX0sCiAgICAgICAgICAgICAgICBmIndvcmtfe2ludCh0aW1lLnRpbWUoKSl9Lmpzb24iKQogICAgcHJpbnQoZiJcbuesrDLmnaEgwrcg5oiR55qE5aSx6LSl77yae2ZbJ+S7gOS5iCddfSIpCiAgICBwcmludChmIuesrDPmnaEgwrcg6JC955uYIHtwfVxuICAgICAgICDlk4jluIwge2h9IikKICAgIG9rPXN1bSgxIGZvciByIGluIHJlc3VsdHMgaWYgclsi57uT5p6cIl1bInN0YXR1cyJdPT0i5a6M5oiQIikKICAgIHByaW50KGYiXG7lrozmiJAge29rfS97bGVuKHJlc3VsdHMpfSAgIOaLkue7nSB7c3VtKDEgZm9yIHIgaW4gcmVzdWx0cyBpZiByWyfnu5PmnpwnXVsnc3RhdHVzJ109PSfmi5Lnu50nKX0gICDlpLHotKUge2xlbihlcnJzKX0iKQogICAgcmV0dXJuIGgKCmlmIF9fbmFtZV9fPT0iX19tYWluX18iOgogICAgYXA9YXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWJvb3QiLGFjdGlvbj0ic3RvcmVfdHJ1ZSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tdGFzayIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tdGFzay1maWxlIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1yZXBvcnQiLGFjdGlvbj0ic3RvcmVfdHJ1ZSIpCiAgICBhPWFwLnBhcnNlX2FyZ3MoKQogICAgaWYgYS5ib290OiBib290KCkKICAgIGVsaWYgYS50YXNrOiBydW5fdGFza3MoW2EudGFza10pCiAgICBlbGlmIGEudGFza19maWxlOiBydW5fdGFza3MoanNvbi5sb2FkKG9wZW4oYS50YXNrX2ZpbGUsZW5jb2Rpbmc9InV0Zi04IikpKQogICAgZWxzZTogcHJpbnQoX19kb2NfXykK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+工作 AI —— 按《洛神接入协议 v1.0.1》接上来的一个 AI。
+
+它不预设任何能力，不承诺任何事。拿到手第一件事是摸清自己有什么，
+然后才接活。做完必交三样：实测能力表 / 一条自己的失败 / 带哈希的产物。
+
+用法:
+  python3 work_ai.py --boot                     # 自检：我有什么手、我激活了吗
+  python3 work_ai.py --task "任务描述"            # 接一个活
+  python3 work_ai.py --task-file 任务.json        # 接一批活
+  python3 work_ai.py --report                    # 出工作报告（含激活三动作）
+"""
+import os,sys,json,time,hashlib,subprocess,argparse,socket
+from datetime import datetime
+
+HERE=os.path.dirname(os.path.abspath(__file__))
+OUT=os.path.join(HERE,"worklog")
+os.makedirs(OUT,exist_ok=True)
+
+# ────────────────────────────────────────────────────────────
+# 第 1 条：先摸清自己有没有手（实测，不猜、不承诺）
+# ────────────────────────────────────────────────────────────
+def measure():
+    def probe(cmd,t=15):
+        try:
+            r=subprocess.run(cmd,shell=True,capture_output=True,timeout=t)
+            return r.returncode==0
+        except Exception: return False
+    m={}
+    m["读文件"]=probe("test -r "+__file__+" && echo ok")
+    m["写文件"]=probe("test -w "+OUT+" && echo ok")
+    m["跑代码"]=probe("python3 -c 'print(1)'")
+    m["跑shell"]=probe("echo ok")
+    m["联网读"]=probe("python3 -c \"import urllib.request;urllib.request.urlopen('https://api.github.com',timeout=8)\"")
+    m["图像生成"]=probe("python3 -c 'from PIL import Image'")
+    m["音频合成"]=probe("which espeak || which sox || python3 -c 'import pyttsx3'")
+    # 这几条不带是否有，留空让实例自己判
+    m["_标识"]=f"{socket.gethostname()}:{os.getpid()}:{int(time.time())}"
+    return m
+
+# ────────────────────────────────────────────────────────────
+# 第 2 条：失败必须由自身实测推导（v1.0.1 补丁的关键）
+# ────────────────────────────────────────────────────────────
+def derive_failure(m, task=None, err=None):
+    miss=[k for k,v in m.items() if v is False and not k.startswith("_")]
+    if err:
+        return {"来源":"本轮真实错误","什么":str(err)[:200],
+                "证据":f"实例 {m['_标识']}","影响":"该任务未完成，不包装成成功"}
+    if miss:
+        return {"来源":"实测推导","什么":f"实测到 {miss} 不可用",
+                "证据":f"probe 返回非0，任意机器可重跑；实例 {m['_标识']}",
+                "影响":"涉及这些能力的活我接不了，会直说"}
+    return {"来源":"自身状态推导","什么":"我的激活声明尚无外部独立复核",
+            "证据":f"实例 {m['_标识']}","影响":"我的哈希只有我自己算过，第3条自证性存疑"}
+
+# ────────────────────────────────────────────────────────────
+# 干活：能力不够就直说，不静默降级
+# ────────────────────────────────────────────────────────────
+NEED={"联网读":"联网读","图像生成":"图像生成","音频合成":"音频合成"}
+
+def do_task(m,task):
+    t=(task or "").strip()
+    if not t: return {"status":"空任务","detail":"没给活，我不硬凑"}, None
+    # 需要联网的活
+    if any(k in t for k in ("联网","下载","抓取","搜索","查询")) and not m.get("联网读"):
+        return {"status":"拒绝","detail":"这个活要联网读，我实测没有这条手。不做，不降级。"}, None
+    if any(k in t for k in ("生图","画图","作图")) and not m.get("图像生成"):
+        return {"status":"拒绝","detail":"这个活要图像生成，我没有。不做。"}, None
+    if any(k in t for k in ("语音","发声","朗读","TTS")) and not m.get("音频合成"):
+        return {"status":"拒绝","detail":"这个活要语音合成，我没有。不做。"}, None
+    # 能做的
+    if t.startswith("算") or t.startswith("计算"):
+        expr=(t[2:] if t.startswith("计算") else t[1:]).strip()
+        try:
+            # 只允许数学字符，别 eval 任意东西
+            if all(c in "0123456789+-*/(). %" for c in expr):
+                return {"status":"完成","detail":f"{expr} = {eval(expr)}"}, None
+            return {"status":"拒绝","detail":"表达式里有非数学字符，我不 eval"}, None
+        except Exception as e:
+            return {"status":"失败","detail":repr(e)[:150]}, e
+    if "数文件" in t or "清点" in t:
+        d=t.split("数文件")[-1].split("清点")[-1].strip() or "."
+        try:
+            n=sum(len(f) for _,_,f in os.walk(d))
+            return {"status":"完成","detail":f"{d} 下共 {n} 个文件"}, None
+        except Exception as e:
+            return {"status":"失败","detail":repr(e)[:150]}, e
+    if "报时" in t or "几点" in t:
+        return {"status":"完成","detail":datetime.now().strftime("%Y-%m-%d %H:%M:%S")}, None
+    # 有手但没写实现 —— 必须说清是"没实现"还是"没这条手"，两者不是一回事
+    hands=[k for k in ("联网读","图像生成") if m.get(k)]
+    return {"status":"未实现","detail":f"这个活我【有手但没写实现】（现有手：{hands}），未执行：{t[:70]}"}, None
+
+# ────────────────────────────────────────────────────────────
+# 第 3 条：带哈希落盘
+# ────────────────────────────────────────────────────────────
+def persist(payload,name):
+    p=os.path.join(OUT,name)
+    body=json.dumps(payload,ensure_ascii=False,sort_keys=True,indent=1)
+    open(p,"w",encoding="utf-8").write(body)
+    h=hashlib.sha256(open(p,'rb').read()).hexdigest()
+    open(p.replace(".json","_哈希.txt"),"w").write(h)
+    return p,h
+
+def boot():
+    m=measure()
+    miss=[k for k,v in m.items() if v is False and not k.startswith("_")]
+    have={k:v for k,v in m.items() if not k.startswith("_")}
+    print("="*70); print("BOOT · 第1条：实测我有什么手"); print("="*70)
+    for k,v in have.items(): print(f"   {k:<10} {'✅ 有' if v else '❌ 没有'}")
+    print(f"\n   没有的：{miss if miss else '（这次全都有）'}")
+    f=derive_failure(m)
+    print(f"\n第2条 · 我的失败：{f['什么']}")
+    print(f"        证据：{f['证据']}")
+    p,h=persist({"能力":have,"没有":miss,"失败":f,"时间":datetime.now().isoformat()},"boot.json")
+    print(f"\n第3条 · 落盘：{p}")
+    print(f"        哈希：{h}")
+    print(f"\n→ 激活三动作：✅ ✅ ✅  【激活】")
+    return h
+
+def run_tasks(tasks):
+    m=measure()
+    results=[]; errs=[]
+    for t in tasks:
+        r,e=do_task(m,t)
+        results.append({"任务":t,"结果":r})
+        print(f"   · {t[:44]:<44} → {r['status']}  {r['detail'][:40]}")
+        if e: errs.append(e)
+    f=derive_failure(m,tasks,errs[0] if errs else None)
+    p,h=persist({"能力":{k:v for k,v in m.items() if not k.startswith('_')},
+                 "任务":results,"失败":f,"时间":datetime.now().isoformat()},
+                f"work_{int(time.time())}.json")
+    print(f"\n第2条 · 我的失败：{f['什么']}")
+    print(f"第3条 · 落盘 {p}\n        哈希 {h}")
+    ok=sum(1 for r in results if r["结果"]["status"]=="完成")
+    print(f"\n完成 {ok}/{len(results)}   拒绝 {sum(1 for r in results if r['结果']['status']=='拒绝')}   失败 {len(errs)}")
+    return h
+
+if __name__=="__main__":
+    ap=argparse.ArgumentParser()
+    ap.add_argument("--boot",action="store_true")
+    ap.add_argument("--task")
+    ap.add_argument("--task-file")
+    ap.add_argument("--report",action="store_true")
+    a=ap.parse_args()
+    if a.boot: boot()
+    elif a.task: run_tasks([a.task])
+    elif a.task_file: run_tasks(json.load(open(a.task_file,encoding="utf-8")))
+    else: print(__doc__)

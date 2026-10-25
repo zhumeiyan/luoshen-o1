@@ -1,1 +1,550 @@
-IiIiCkdOTiBQcm9jZXNzb3JzIE1vZHVsZQoKSGlnaC1sZXZlbCBwcm9jZXNzaW5nIGZ1bmN0aW9ucyB0aGF0IG9yY2hlc3RyYXRlIEdOTiBmb2xkZXIgcHJvY2Vzc2luZywKcm91bmQtdHJpcCB0ZXN0aW5nLCBhbmQgY3Jvc3MtZm9ybWF0IGNvbnNpc3RlbmN5IHZhbGlkYXRpb24uCgpUaGVzZSBmdW5jdGlvbnMgYXJlIHVzZWQgYnkgdGhlIEdOTiBNQ1AgKE1vZGVsIENvbnRleHQgUHJvdG9jb2wpIGludGVncmF0aW9uCnRvIGV4cG9zZSBlbmhhbmNlZCBHTk4gY2FwYWJpbGl0aWVzLgoiIiIKCmltcG9ydCBqc29uCmltcG9ydCBsb2dnaW5nCmltcG9ydCB0aW1lCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBMaXN0LCBPcHRpb25hbCwgY2FzdAoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBwcm9jZXNzX2dubl9mb2xkZXIKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCgpkZWYgcHJvY2Vzc19nbm5fZm9sZGVyKAogICAgdGFyZ2V0X2RpcjogUGF0aCwKICAgIG91dHB1dF9kaXI6IFBhdGgsCiAgICBsb2dnZXI6IChsb2dnaW5nLkxvZ2dlcikgfCBOb25lID0gTm9uZSwKICAgIHJlY3Vyc2l2ZTogYm9vbCA9IEZhbHNlLAogICAgdmVyYm9zZTogYm9vbCA9IEZhbHNlLAogICAgdmFsaWRhdGlvbl9sZXZlbDogc3RyID0gInN0YW5kYXJkIiwKICAgIGVuYWJsZV9yb3VuZF90cmlwOiBib29sID0gRmFsc2UsCiAgICAqKmt3YXJnczogQW55LAopIC0+IGJvb2w6CiAgICAiIiIKICAgIFByb2Nlc3MgYSBkaXJlY3Rvcnkgb2YgR05OIGZpbGVzIHdpdGggZW5oYW5jZWQgdmFsaWRhdGlvbiBhbmQgdGVzdGluZy4KCiAgICBEaXNjb3ZlcnMgYWxsIEdOTiBmaWxlcyBpbiAqdGFyZ2V0X2RpciosIHZhbGlkYXRlcyBlYWNoIG9uZSwgYW5kIHdyaXRlcwogICAgYSBKU09OIHN1bW1hcnkgdG8gKm91dHB1dF9kaXIqLgoKICAgIEFyZ3M6CiAgICAgICAgdGFyZ2V0X2RpcjogRGlyZWN0b3J5IGNvbnRhaW5pbmcgR05OIGZpbGVzIHRvIHByb2Nlc3MuCiAgICAgICAgb3V0cHV0X2RpcjogRGlyZWN0b3J5IGZvciBvdXRwdXQgcmVzdWx0cy4KICAgICAgICBsb2dnZXI6IExvZ2dlciBpbnN0YW5jZSAoZGVmYXVsdHMgdG8gbW9kdWxlIGxvZ2dlcikuCiAgICAgICAgcmVjdXJzaXZlOiBXaGV0aGVyIHRvIHJlY3Vyc2UgaW50byBzdWJkaXJlY3Rvcmllcy4KICAgICAgICB2ZXJib3NlOiBFbmFibGUgdmVyYm9zZSBsb2dnaW5nLgogICAgICAgIHZhbGlkYXRpb25fbGV2ZWw6IFZhbGlkYXRpb24gc3RyaWN0bmVzcyBsZXZlbCAoYmFzaWMvc3RhbmRhcmQvc3RyaWN0KS4KICAgICAgICBlbmFibGVfcm91bmRfdHJpcDogV2hldGhlciB0byBydW4gcm91bmQtdHJpcCBzZXJpYWxpc2F0aW9uIHRlc3RzLgogICAgICAgICoqa3dhcmdzOiBGb3J3YXJkZWQgdG8gdmFsaWRhdG9ycyAoaWdub3JlZCBpZiBub3QgYXBwbGljYWJsZSkuCgogICAgUmV0dXJuczoKICAgICAgICBUcnVlIGlmIHByb2Nlc3NpbmcgY29tcGxldGVkICh3aXRoIG9yIHdpdGhvdXQgd2FybmluZ3MpLCBGYWxzZSBvbgogICAgICAgIHVucmVjb3ZlcmFibGUgZXJyb3IuCgogICAgUmVjZWlwdHM6IHRoZSBzdW1tYXJ5IGNhcnJpZXMgYGB2YWxpZGF0b3JfbW9kZWBgIChgYCJmdWxsImBgIHdoZW4KICAgIGBgR05OVmFsaWRhdG9yYGAgcmFuLCBgYCJsaWdodHdlaWdodCJgYCB3aGVuIGl0IHdhcyB1bmF2YWlsYWJsZSBhbmQgb25seQogICAgYSBzZWN0aW9uLXByZXNlbmNlIGNoZWNrIHJhbiksIGBgZGVncmFkZWRgYCAodHJ1ZSBpZmYgbGlnaHR3ZWlnaHQpIGFuZCwKICAgIHdoZW4gZGVncmFkZWQsIGBgdmFsaWRhdG9yX2Vycm9yYGAgd2l0aCB0aGUgZmFpbHVyZSByZWFzb24uIFBlci1maWxlCiAgICByZXN1bHRzIGNhcnJ5IGBgdmFsaWRhdG9yX21vZGVgYCB0b28sIHNvIGEgbGlnaHR3ZWlnaHQgcmVzdWx0IGlzIG5ldmVyCiAgICBpbmRpc3Rpbmd1aXNoYWJsZSBmcm9tIGZ1bGwgdmFsaWRhdGlvbi4KICAgICIiIgogICAgX2xvZyA9IGxvZ2dlciBvciBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCiAgICBpZiB2ZXJib3NlOgogICAgICAgIF9sb2cuc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykKCiAgICB0YXJnZXRfZGlyID0gUGF0aCh0YXJnZXRfZGlyKQogICAgb3V0cHV0X2RpciA9IFBhdGgob3V0cHV0X2RpcikKICAgIG91dHB1dF9kaXIubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQoKICAgIF9sb2cuaW5mbyhmIlByb2Nlc3NpbmcgR05OIGZvbGRlcjoge3RhcmdldF9kaXJ9IChyZWN1cnNpdmU9e3JlY3Vyc2l2ZX0pIikKICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQoKICAgICMgLS0tIGRpc2NvdmVyIGZpbGVzIC0tLQogICAgcGF0dGVybiA9ICIqKi8qLm1kIiBpZiByZWN1cnNpdmUgZWxzZSAiKi5tZCIKICAgIGdubl9maWxlcyA9IGxpc3QodGFyZ2V0X2Rpci5nbG9iKHBhdHRlcm4pKQogICAgX2xvZy5pbmZvKGYiRGlzY292ZXJlZCB7bGVuKGdubl9maWxlcyl9IEdOTiBmaWxlKHMpIikKCiAgICBpZiBub3QgZ25uX2ZpbGVzOgogICAgICAgIF9sb2cud2FybmluZyhmIk5vIEdOTiBmaWxlcyBmb3VuZCBpbiB7dGFyZ2V0X2Rpcn0iKQogICAgICAgIF9zYXZlX3N1bW1hcnkoCiAgICAgICAgICAgIG91dHB1dF9kaXIsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzdGF0dXMiOiAibm9fZmlsZXMiLAogICAgICAgICAgICAgICAgInRhcmdldF9kaXIiOiBzdHIodGFyZ2V0X2RpciksCiAgICAgICAgICAgICAgICAiZmlsZXNfZm91bmQiOiAwLAogICAgICAgICAgICAgICAgImZpbGVzX3Byb2Nlc3NlZCI6IDAsCiAgICAgICAgICAgICAgICAiZHVyYXRpb25fc2Vjb25kcyI6IHRpbWUudGltZSgpIC0gc3RhcnRfdGltZSwKICAgICAgICAgICAgfSwKICAgICAgICApCiAgICAgICAgcmV0dXJuIFRydWUgICMgTm90IGFuIGVycm9yIOKAlCBkaXJlY3RvcnkgbWF5IGJlIGludGVudGlvbmFsbHkgZW1wdHkKCiAgICAjIC0tLSB2YWxpZGF0ZSBlYWNoIGZpbGUgLS0tCiAgICByZXN1bHRzOiBMaXN0W0RpY3Rbc3RyLCBBbnldXSA9IFtdCiAgICBzdWNjZXNzX2NvdW50ID0gMAogICAgZmFpbF9jb3VudCA9IDAKCiAgICB2YWxpZGF0b3JfZXJyb3I6IHN0ciB8IE5vbmUgPSBOb25lCiAgICB0cnk6CiAgICAgICAgZnJvbSBnbm4uc2NoZW1hX3ZhbGlkYXRvciBpbXBvcnQgR05OVmFsaWRhdG9yCiAgICAgICAgZnJvbSBnbm4uc2NoZW1hX3ZhbGlkYXRvciBpbXBvcnQgVmFsaWRhdGlvbkxldmVsIGFzIFZMCgogICAgICAgIF92bF9tYXA6IGRpY3Rbc3RyLCBBbnldID0gewogICAgICAgICAgICAiYmFzaWMiOiBWTC5CQVNJQywKICAgICAgICAgICAgInN0YW5kYXJkIjogVkwuU1RBTkRBUkQsCiAgICAgICAgICAgICJzdHJpY3QiOiBWTC5TVFJJQ1QsCiAgICAgICAgfQogICAgICAgIHZsID0gX3ZsX21hcC5nZXQodmFsaWRhdGlvbl9sZXZlbC5sb3dlcigpLCBWTC5TVEFOREFSRCkKICAgICAgICB2YWxpZGF0b3I6IEdOTlZhbGlkYXRvciB8IE5vbmUgPSBHTk5WYWxpZGF0b3IoCiAgICAgICAgICAgIHZhbGlkYXRpb25fbGV2ZWw9dmwsCiAgICAgICAgICAgIGVuYWJsZV9yb3VuZF90cmlwX3Rlc3Rpbmc9ZW5hYmxlX3JvdW5kX3RyaXAsCiAgICAgICAgKQogICAgICAgIHZhbGlkYXRvcl9tb2RlID0gImZ1bGwiCiAgICAgICAgX2xvZy5kZWJ1ZyhmIlVzaW5nIEdOTlZhbGlkYXRvciB3aXRoIGxldmVsPXt2bC52YWx1ZX0iKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgIyBEZWdyYWRlZCBtb2RlIGlzIGEgdmlzaWJsZSByZWNlaXB0LCBub3QgYSBzaWxlbnQgZG93bmdyYWRlOiB0aGUKICAgICAgICAjIHN1bW1hcnkgYW5kIGV2ZXJ5IHBlci1maWxlIHJlc3VsdCBiZWxvdyBjYXJyeSB2YWxpZGF0b3JfbW9kZS4KICAgICAgICBfbG9nLndhcm5pbmcoZiJHTk5WYWxpZGF0b3IgdW5hdmFpbGFibGUgKHtleGN9KTsgdXNpbmcgbGlnaHR3ZWlnaHQgdmFsaWRhdGlvbiIpCiAgICAgICAgdmFsaWRhdG9yID0gY2FzdChBbnksIE5vbmUpCiAgICAgICAgdmFsaWRhdG9yX21vZGUgPSAibGlnaHR3ZWlnaHQiCiAgICAgICAgdmFsaWRhdG9yX2Vycm9yID0gc3RyKGV4YykKCiAgICBmb3IgZ25uX2ZpbGUgaW4gZ25uX2ZpbGVzOgogICAgICAgIGZpbGVfcmVzdWx0OiBEaWN0W3N0ciwgQW55XSA9IHsiZmlsZSI6IHN0cihnbm5fZmlsZSl9CiAgICAgICAgdHJ5OgogICAgICAgICAgICBpZiB2YWxpZGF0b3IgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICB2ciA9IHZhbGlkYXRvci52YWxpZGF0ZV9maWxlKGdubl9maWxlLCB2YWxpZGF0aW9uX2xldmVsPXZsKQogICAgICAgICAgICAgICAgZmlsZV9yZXN1bHQudXBkYXRlKAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgInZhbGlkIjogdnIuaXNfdmFsaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICJlcnJvcnMiOiB2ci5lcnJvcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICJ3YXJuaW5ncyI6IHZyLndhcm5pbmdzLAogICAgICAgICAgICAgICAgICAgICAgICAidmFsaWRhdGlvbl9sZXZlbCI6IHZyLnZhbGlkYXRpb25fbGV2ZWwudmFsdWUsCiAgICAgICAgICAgICAgICAgICAgICAgICJ2YWxpZGF0b3JfbW9kZSI6ICJmdWxsIiwKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAjIExpZ2h0d2VpZ2h0OiBjaGVjayBmaWxlIGlzIHJlYWRhYmxlIGFuZCBoYXMgIyMgTW9kZWxOYW1lCiAgICAgICAgICAgICAgICB0ZXh0ID0gZ25uX2ZpbGUucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0icmVwbGFjZSIpCiAgICAgICAgICAgICAgICBpc192YWxpZCA9ICIjIyBNb2RlbE5hbWUiIGluIHRleHQgb3IgIiMjIEdOTlZlcnNpb25BbmRGbGFncyIgaW4gdGV4dAogICAgICAgICAgICAgICAgZmlsZV9yZXN1bHQudXBkYXRlKAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgInZhbGlkIjogaXNfdmFsaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICJlcnJvcnMiOiBbXSwKICAgICAgICAgICAgICAgICAgICAgICAgIndhcm5pbmdzIjogW10sCiAgICAgICAgICAgICAgICAgICAgICAgICJ2YWxpZGF0b3JfbW9kZSI6ICJsaWdodHdlaWdodCIsCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgKQoKICAgICAgICAgICAgaWYgZmlsZV9yZXN1bHRbInZhbGlkIl06CiAgICAgICAgICAgICAgICBzdWNjZXNzX2NvdW50ICs9IDEKICAgICAgICAgICAgICAgIF9sb2cuZGVidWcoZiIgIOKchSB7Z25uX2ZpbGUubmFtZX0iKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZmFpbF9jb3VudCArPSAxCiAgICAgICAgICAgICAgICBfbG9nLmRlYnVnKGYiICDinYwge2dubl9maWxlLm5hbWV9OiB7ZmlsZV9yZXN1bHQuZ2V0KCdlcnJvcnMnLCBbXSl9IikKCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgICAgIGZhaWxfY291bnQgKz0gMQogICAgICAgICAgICBmaWxlX3Jlc3VsdC51cGRhdGUoeyJ2YWxpZCI6IEZhbHNlLCAiZXJyb3JzIjogW3N0cihleGMpXSwgIndhcm5pbmdzIjogW119KQogICAgICAgICAgICBfbG9nLndhcm5pbmcoZiIgIOKaoO+4jyAgRXJyb3IgcHJvY2Vzc2luZyB7Z25uX2ZpbGUubmFtZX06IHtleGN9IikKCiAgICAgICAgcmVzdWx0cy5hcHBlbmQoZmlsZV9yZXN1bHQpCgogICAgZHVyYXRpb24gPSB0aW1lLnRpbWUoKSAtIHN0YXJ0X3RpbWUKICAgIHN1bW1hcnk6IGRpY3Rbc3RyLCBBbnldID0gewogICAgICAgICJzdGF0dXMiOiAiY29tcGxldGVkIiwKICAgICAgICAidGFyZ2V0X2RpciI6IHN0cih0YXJnZXRfZGlyKSwKICAgICAgICAidmFsaWRhdGlvbl9sZXZlbCI6IHZhbGlkYXRpb25fbGV2ZWwsCiAgICAgICAgInZhbGlkYXRvcl9tb2RlIjogdmFsaWRhdG9yX21vZGUsCiAgICAgICAgImRlZ3JhZGVkIjogdmFsaWRhdG9yX21vZGUgPT0gImxpZ2h0d2VpZ2h0IiwKICAgICAgICAicmVjdXJzaXZlIjogcmVjdXJzaXZlLAogICAgICAgICJlbmFibGVfcm91bmRfdHJpcCI6IGVuYWJsZV9yb3VuZF90cmlwLAogICAgICAgICJmaWxlc19mb3VuZCI6IGxlbihnbm5fZmlsZXMpLAogICAgICAgICJmaWxlc192YWxpZCI6IHN1Y2Nlc3NfY291bnQsCiAgICAgICAgImZpbGVzX2ludmFsaWQiOiBmYWlsX2NvdW50LAogICAgICAgICJkdXJhdGlvbl9zZWNvbmRzIjogcm91bmQoZHVyYXRpb24sIDMpLAogICAgICAgICJyZXN1bHRzIjogcmVzdWx0cywKICAgIH0KICAgIGlmIHZhbGlkYXRvcl9lcnJvciBpcyBub3QgTm9uZToKICAgICAgICBzdW1tYXJ5WyJ2YWxpZGF0b3JfZXJyb3IiXSA9IHZhbGlkYXRvcl9lcnJvcgogICAgX3NhdmVfc3VtbWFyeShvdXRwdXRfZGlyLCBzdW1tYXJ5KQoKICAgIF9sb2cuaW5mbygKICAgICAgICBmIkdOTiBmb2xkZXIgcHJvY2Vzc2luZyBjb21wbGV0ZToge3N1Y2Nlc3NfY291bnR9L3tsZW4oZ25uX2ZpbGVzKX0gdmFsaWQgIgogICAgICAgIGYiaW4ge2R1cmF0aW9uOi4yZn1zIgogICAgKQogICAgcmV0dXJuIFRydWUgICMgUmV0dXJuIFRydWUgZXZlbiB3aXRoIHNvbWUgZmFpbHVyZXMg4oCUIHBpcGVsaW5lIGNvbnRpbnVlcwoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgcnVuX2dubl9yb3VuZF90cmlwX3Rlc3RzCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoKZGVmIHJ1bl9nbm5fcm91bmRfdHJpcF90ZXN0cygKICAgIHRhcmdldF9kaXI6IFBhdGgsCiAgICBvdXRwdXRfZGlyOiBQYXRoLAogICAgbG9nZ2VyOiAobG9nZ2luZy5Mb2dnZXIpIHwgTm9uZSA9IE5vbmUsCiAgICByZWZlcmVuY2VfZmlsZTogT3B0aW9uYWxbc3RyXSA9IE5vbmUsCiAgICB0ZXN0X3N1YnNldDogT3B0aW9uYWxbTGlzdFtzdHJdXSA9IE5vbmUsCiAgICBlbmFibGVfcGFyYWxsZWw6IGJvb2wgPSBGYWxzZSwKICAgICoqa3dhcmdzOiBBbnksCikgLT4gYm9vbDoKICAgICIiIgogICAgUnVuIHJvdW5kLXRyaXAgc2VyaWFsaXNhdGlvbiB0ZXN0cyBvbiBHTk4gZmlsZXMgaW4gKnRhcmdldF9kaXIqLgoKICAgIFBhcnNlcyBlYWNoIGZpbGUgYW5kIGF0dGVtcHRzIHRvIHJlLXNlcmlhbGlzZSBpdCwgdmVyaWZ5aW5nIHRoYXQgdGhlCiAgICBzZW1hbnRpYyBjb250ZW50IGlzIHByZXNlcnZlZCBhY3Jvc3MgdGhlIHJvdW5kLXRyaXAuCgogICAgQXJnczoKICAgICAgICB0YXJnZXRfZGlyOiBEaXJlY3RvcnkgY29udGFpbmluZyBHTk4gZmlsZXMuCiAgICAgICAgb3V0cHV0X2RpcjogRGlyZWN0b3J5IGZvciB0ZXN0IHJlc3VsdCBvdXRwdXQuCiAgICAgICAgbG9nZ2VyOiBMb2dnZXIgaW5zdGFuY2UuCiAgICAgICAgcmVmZXJlbmNlX2ZpbGU6IE9wdGlvbmFsIHBhdGggdG8gYSBzaW5nbGUgcmVmZXJlbmNlIGZpbGUgdG8gdGVzdC4KICAgICAgICB0ZXN0X3N1YnNldDogT3B0aW9uYWwgbGlzdCBvZiBmb3JtYXQgbmFtZXMgdG8gdGVzdCAoZS5nLiBbImpzb24iLCAieWFtbCJdKS4KICAgICAgICBlbmFibGVfcGFyYWxsZWw6IFJlc2VydmVkIGZvciBmdXR1cmUgcGFyYWxsZWwgZXhlY3V0aW9uIHN1cHBvcnQuCiAgICAgICAgKiprd2FyZ3M6IEFkZGl0aW9uYWwgb3B0aW9ucyAoZm9yd2FyZGVkIHdoZXJlIGFwcGxpY2FibGUpLgoKICAgIFJldHVybnM6CiAgICAgICAgVHJ1ZSBpZiBhbGwgdGVzdGVkIGZpbGVzIHBhc3MgdGhlIHJvdW5kLXRyaXAsIEZhbHNlIG90aGVyd2lzZS4KCiAgICBSZWNlaXB0czogdGhlIHJvdW5kX3RyaXBfcmVzdWx0cy5qc29uIHN1bW1hcnkgY2FycmllcyBgYHBhcnNlcl9tb2RlYGAKICAgIChgYCJmdWxsImBgL2BgImxpZ2h0d2VpZ2h0ImBgKSwgYGBkZWdyYWRlZGBgIGFuZCwgd2hlbiBkZWdyYWRlZCwKICAgIGBgcGFyc2VyX2Vycm9yYGA7IHBlci1maWxlIHJlc3VsdHMgY2FycnkgYGBwYXJzZXJfbW9kZWBgIHRvby4KICAgICIiIgogICAgX2xvZyA9IGxvZ2dlciBvciBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCiAgICB0YXJnZXRfZGlyID0gUGF0aCh0YXJnZXRfZGlyKQogICAgb3V0cHV0X2RpciA9IFBhdGgob3V0cHV0X2RpcikKICAgIG91dHB1dF9kaXIubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQoKICAgIF9sb2cuaW5mbyhmIlJ1bm5pbmcgR05OIHJvdW5kLXRyaXAgdGVzdHMgaW46IHt0YXJnZXRfZGlyfSIpCiAgICBzdGFydF90aW1lID0gdGltZS50aW1lKCkKCiAgICAjIEdhdGhlciBmaWxlcyB0byB0ZXN0CiAgICBpZiByZWZlcmVuY2VfZmlsZToKICAgICAgICBmaWxlc190b190ZXN0OiBsaXN0W0FueV0gPSBbUGF0aChyZWZlcmVuY2VfZmlsZSldCiAgICBlbHNlOgogICAgICAgIGZpbGVzX3RvX3Rlc3QgPSBsaXN0KHRhcmdldF9kaXIuZ2xvYigiKiovKi5tZCIpKQoKICAgIGlmIG5vdCBmaWxlc190b190ZXN0OgogICAgICAgIF9sb2cud2FybmluZygiTm8gR05OIGZpbGVzIGZvdW5kIGZvciByb3VuZC10cmlwIHRlc3RpbmciKQogICAgICAgIF9zYXZlX3N1bW1hcnkoCiAgICAgICAgICAgIG91dHB1dF9kaXIsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzdGF0dXMiOiAibm9fZmlsZXMiLAogICAgICAgICAgICAgICAgInRhcmdldF9kaXIiOiBzdHIodGFyZ2V0X2RpciksCiAgICAgICAgICAgICAgICAiZmlsZXNfdGVzdGVkIjogMCwKICAgICAgICAgICAgICAgICJwYXNzZWQiOiAwLAogICAgICAgICAgICAgICAgImZhaWxlZCI6IDAsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGZpbGVuYW1lPSJyb3VuZF90cmlwX3Jlc3VsdHMuanNvbiIsCiAgICAgICAgKQogICAgICAgIHJldHVybiBUcnVlCgogICAgc3VwcG9ydGVkX2Zvcm1hdHMgPSB0ZXN0X3N1YnNldCBvciBbImpzb24iLCAieWFtbCIsICJtYXJrZG93biJdCiAgICBfbG9nLmluZm8oCiAgICAgICAgZiJUZXN0aW5nIHtsZW4oZmlsZXNfdG9fdGVzdCl9IGZpbGUocykgYWNyb3NzIGZvcm1hdHM6IHtzdXBwb3J0ZWRfZm9ybWF0c30iCiAgICApCgogICAgcmVzdWx0czogTGlzdFtEaWN0W3N0ciwgQW55XV0gPSBbXQogICAgb3ZlcmFsbF9wYXNzID0gVHJ1ZQoKICAgIHBhcnNlcl9lcnJvcjogc3RyIHwgTm9uZSA9IE5vbmUKICAgIHRyeToKICAgICAgICBmcm9tIGdubi5zY2hlbWFfdmFsaWRhdG9yIGltcG9ydCBHTk5QYXJzZXIKCiAgICAgICAgcGFyc2VyOiBHTk5QYXJzZXIgfCBOb25lID0gR05OUGFyc2VyKGVuaGFuY2VkX3ZhbGlkYXRpb249RmFsc2UpCiAgICAgICAgcGFyc2VyX21vZGUgPSAiZnVsbCIKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgICMgRGVncmFkZWQgbW9kZSBpcyBhIHZpc2libGUgcmVjZWlwdDogcGFyc2VyX21vZGUvZGVncmFkZWQgbGFuZCBpbgogICAgICAgICMgdGhlIHN1bW1hcnkgYW5kIHBlci1maWxlIHJlc3VsdHMgYmVsb3cuCiAgICAgICAgX2xvZy53YXJuaW5nKGYiR05OUGFyc2VyIHVuYXZhaWxhYmxlICh7ZXhjfSk7IHVzaW5nIGJhc2ljIHJvdW5kLXRyaXAgY2hlY2siKQogICAgICAgIHBhcnNlciA9IGNhc3QoQW55LCBOb25lKQogICAgICAgIHBhcnNlcl9tb2RlID0gImxpZ2h0d2VpZ2h0IgogICAgICAgIHBhcnNlcl9lcnJvciA9IHN0cihleGMpCgogICAgZm9yIGdubl9maWxlIGluIGZpbGVzX3RvX3Rlc3Q6CiAgICAgICAgZmlsZV9yZXN1bHQ6IERpY3Rbc3RyLCBBbnldID0gewogICAgICAgICAgICAiZmlsZSI6IHN0cihnbm5fZmlsZSksCiAgICAgICAgICAgICJmb3JtYXRzX3Rlc3RlZCI6IHN1cHBvcnRlZF9mb3JtYXRzLAogICAgICAgICAgICAiZm9ybWF0X3Jlc3VsdHMiOiB7fSwKICAgICAgICAgICAgInBhcnNlcl9tb2RlIjogcGFyc2VyX21vZGUsCiAgICAgICAgfQogICAgICAgIHRyeToKICAgICAgICAgICAgb3JpZ2luYWxfdGV4dCA9IGdubl9maWxlLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKQoKICAgICAgICAgICAgZm9yIGZtdCBpbiBzdXBwb3J0ZWRfZm9ybWF0czoKICAgICAgICAgICAgICAgIGZtdF9yZXN1bHQ6IERpY3Rbc3RyLCBBbnldID0ge30KICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBpZiBwYXJzZXIgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgICAgIHBhcnNlZCA9IHBhcnNlci5wYXJzZV9jb250ZW50KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgb3JpZ2luYWxfdGV4dCwgZm9ybWF0X2hpbnQ9Im1hcmtkb3duIgogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICMgUmUtc2VyaWFsaXNhdGlvbiBjaGVjazogbW9kZWxfbmFtZSBzaG91bGQgc3Vydml2ZSBhIHJvdW5kLXRyaXAKICAgICAgICAgICAgICAgICAgICAgICAgaWYgaGFzYXR0cihwYXJzZWQsICJ0b19kaWN0Iik6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJzZWRfZGljdCA9IHBhcnNlZC50b19kaWN0KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZtdF9yZXN1bHRbInBhc3MiXSA9IGJvb2wocGFyc2VkX2RpY3QpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbXRfcmVzdWx0WyJtb2RlbF9uYW1lIl0gPSBwYXJzZWRfZGljdC5nZXQoIm1vZGVsX25hbWUiLCAiIikKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgU2ltcGxlIHNhbml0eTogbW9kZWxfbmFtZSBhdHRyaWJ1dGUgcHJlc2VudAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm10X3Jlc3VsdFsicGFzcyJdID0gYm9vbCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRhdHRyKHBhcnNlZCwgIm1vZGVsX25hbWUiLCBOb25lKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgICMgTGlnaHR3ZWlnaHQ6IGNoZWNrIGtleSBzZWN0aW9ucyBzdXJ2aXZlIGEgdGV4dCByb3VuZC10cmlwCiAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzID0gb3JpZ2luYWxfdGV4dC5zcGxpdGxpbmVzKCkKICAgICAgICAgICAgICAgICAgICAgICAgZm10X3Jlc3VsdFsicGFzcyJdID0gYW55KCIjIyBNb2RlbE5hbWUiIGluIGwgZm9yIGwgaW4gbGluZXMpCgogICAgICAgICAgICAgICAgICAgIGlmIG5vdCBmbXRfcmVzdWx0WyJwYXNzIl06CiAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJhbGxfcGFzcyA9IEZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIF9sb2cud2FybmluZyhmIiAg4p2MIFJvdW5kLXRyaXAgZmFpbGVkOiB7Z25uX2ZpbGUubmFtZX0gW3tmbXR9XSIpCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgX2xvZy5kZWJ1ZyhmIiAg4pyFIFJvdW5kLXRyaXAgT0s6IHtnbm5fZmlsZS5uYW1lfSBbe2ZtdH1dIikKCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICAgICAgICAgICAgICBmbXRfcmVzdWx0WyJwYXNzIl0gPSBGYWxzZQogICAgICAgICAgICAgICAgICAgIGZtdF9yZXN1bHRbImVycm9yIl0gPSBzdHIoZXhjKQogICAgICAgICAgICAgICAgICAgIG92ZXJhbGxfcGFzcyA9IEZhbHNlCiAgICAgICAgICAgICAgICAgICAgX2xvZy53YXJuaW5nKAogICAgICAgICAgICAgICAgICAgICAgICBmIiAg4pqg77iPICBSb3VuZC10cmlwIGVycm9yIHtnbm5fZmlsZS5uYW1lfSBbe2ZtdH1dOiB7ZXhjfSIKICAgICAgICAgICAgICAgICAgICApCgogICAgICAgICAgICAgICAgZmlsZV9yZXN1bHRbImZvcm1hdF9yZXN1bHRzIl1bZm10XSA9IGZtdF9yZXN1bHQKCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgICAgIGZpbGVfcmVzdWx0WyJlcnJvciJdID0gc3RyKGV4YykKICAgICAgICAgICAgb3ZlcmFsbF9wYXNzID0gRmFsc2UKICAgICAgICAgICAgX2xvZy53YXJuaW5nKGYiICDimqDvuI8gIENvdWxkIG5vdCByZWFkIHtnbm5fZmlsZS5uYW1lfToge2V4Y30iKQoKICAgICAgICByZXN1bHRzLmFwcGVuZChmaWxlX3Jlc3VsdCkKCiAgICBkdXJhdGlvbiA9IHRpbWUudGltZSgpIC0gc3RhcnRfdGltZQogICAgcGFzc2VkID0gc3VtKAogICAgICAgIDEKICAgICAgICBmb3IgciBpbiByZXN1bHRzCiAgICAgICAgaWYgImVycm9yIiBub3QgaW4gcgogICAgICAgIGFuZCBhbGwodi5nZXQoInBhc3MiLCBGYWxzZSkgZm9yIHYgaW4gci5nZXQoImZvcm1hdF9yZXN1bHRzIiwge30pLnZhbHVlcygpKQogICAgKQoKICAgIHJvdW5kX3RyaXBfc3VtbWFyeTogZGljdFtzdHIsIEFueV0gPSB7CiAgICAgICAgInN0YXR1cyI6ICJjb21wbGV0ZWQiLAogICAgICAgICJ0YXJnZXRfZGlyIjogc3RyKHRhcmdldF9kaXIpLAogICAgICAgICJmaWxlc190ZXN0ZWQiOiBsZW4ocmVzdWx0cyksCiAgICAgICAgInBhc3NlZCI6IHBhc3NlZCwKICAgICAgICAiZmFpbGVkIjogbGVuKHJlc3VsdHMpIC0gcGFzc2VkLAogICAgICAgICJmb3JtYXRzX3Rlc3RlZCI6IHN1cHBvcnRlZF9mb3JtYXRzLAogICAgICAgICJwYXJzZXJfbW9kZSI6IHBhcnNlcl9tb2RlLAogICAgICAgICJkZWdyYWRlZCI6IHBhcnNlcl9tb2RlID09ICJsaWdodHdlaWdodCIsCiAgICAgICAgImR1cmF0aW9uX3NlY29uZHMiOiByb3VuZChkdXJhdGlvbiwgMyksCiAgICAgICAgInJlc3VsdHMiOiByZXN1bHRzLAogICAgfQogICAgaWYgcGFyc2VyX2Vycm9yIGlzIG5vdCBOb25lOgogICAgICAgIHJvdW5kX3RyaXBfc3VtbWFyeVsicGFyc2VyX2Vycm9yIl0gPSBwYXJzZXJfZXJyb3IKICAgIF9zYXZlX3N1bW1hcnkob3V0cHV0X2Rpciwgcm91bmRfdHJpcF9zdW1tYXJ5LCBmaWxlbmFtZT0icm91bmRfdHJpcF9yZXN1bHRzLmpzb24iKQoKICAgIF9sb2cuaW5mbygKICAgICAgICBmIlJvdW5kLXRyaXAgdGVzdHMgY29tcGxldGU6IHtwYXNzZWR9L3tsZW4ocmVzdWx0cyl9IHBhc3NlZCBpbiB7ZHVyYXRpb246LjJmfXMiCiAgICApCiAgICByZXR1cm4gb3ZlcmFsbF9wYXNzCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBjaGVja19jcm9zc19mb3JtYXRfY29uc2lzdGVuY3kKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCgpkZWYgY2hlY2tfY3Jvc3NfZm9ybWF0X2NvbnNpc3RlbmN5KAogICAgdGFyZ2V0X2RpcjogUGF0aCwKICAgIG91dHB1dF9kaXI6IFBhdGgsCiAgICBsb2dnZXI6IChsb2dnaW5nLkxvZ2dlcikgfCBOb25lID0gTm9uZSwKICAgIGZpbGVzX3RvX3Rlc3Q6IE9wdGlvbmFsW0xpc3Rbc3RyXV0gPSBOb25lLAogICAgaW5jbHVkZV9iaW5hcnk6IGJvb2wgPSBGYWxzZSwKICAgICoqa3dhcmdzOiBBbnksCikgLT4gYm9vbDoKICAgICIiIgogICAgVmFsaWRhdGUgY3Jvc3MtZm9ybWF0IGNvbnNpc3RlbmN5IGZvciBHTk4gZmlsZXMgaW4gKnRhcmdldF9kaXIqLgoKICAgIEVhY2ggR05OIGZpbGUgaXMgcGFyc2VkIGFuZCBjb252ZXJ0ZWQgdG8gbXVsdGlwbGUgc2NoZW1hIGZvcm1hdHM7IHRoZQogICAgcmVzdWx0aW5nIHJlcHJlc2VudGF0aW9ucyBhcmUgY29tcGFyZWQgZm9yIHNlbWFudGljIGNvbnNpc3RlbmN5LgoKICAgIEFyZ3M6CiAgICAgICAgdGFyZ2V0X2RpcjogRGlyZWN0b3J5IGNvbnRhaW5pbmcgR05OIGZpbGVzLgogICAgICAgIG91dHB1dF9kaXI6IERpcmVjdG9yeSBmb3IgdmFsaWRhdGlvbiByZXN1bHRzLgogICAgICAgIGxvZ2dlcjogTG9nZ2VyIGluc3RhbmNlLgogICAgICAgIGZpbGVzX3RvX3Rlc3Q6IE9wdGlvbmFsIGV4cGxpY2l0IGxpc3Qgb2YgZmlsZSBwYXRocyB0byB0ZXN0LgogICAgICAgIGluY2x1ZGVfYmluYXJ5OiBXaGV0aGVyIHRvIGluY2x1ZGUgYmluYXJ5IChwaWNrbGUpIGZvcm1hdHMuCiAgICAgICAgKiprd2FyZ3M6IEFkZGl0aW9uYWwgb3B0aW9ucy4KCiAgICBSZXR1cm5zOgogICAgICAgIFRydWUgaWYgYWxsIGZpbGVzIGFyZSBjcm9zcy1mb3JtYXQgY29uc2lzdGVudCwgRmFsc2Ugb3RoZXJ3aXNlLgoKICAgIFJlY2VpcHRzOiB0aGUgY3Jvc3NfZm9ybWF0X3Jlc3VsdHMuanNvbiBzdW1tYXJ5IGNhcnJpZXMKICAgIGBgdmFsaWRhdG9yX21vZGVgYCAoYGAiZnVsbCJgYC9gYCJsaWdodHdlaWdodCJgYCksIGBgZGVncmFkZWRgYCBhbmQsCiAgICB3aGVuIGRlZ3JhZGVkLCBgYHZhbGlkYXRvcl9lcnJvcmBgOyBwZXItZmlsZSByZXN1bHRzIGNhcnJ5CiAgICBgYHZhbGlkYXRvcl9tb2RlYGAuCiAgICAiIiIKICAgIF9sb2cgPSBsb2dnZXIgb3IgbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgogICAgdGFyZ2V0X2RpciA9IFBhdGgodGFyZ2V0X2RpcikKICAgIG91dHB1dF9kaXIgPSBQYXRoKG91dHB1dF9kaXIpCiAgICBvdXRwdXRfZGlyLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKCiAgICBfbG9nLmluZm8oZiJWYWxpZGF0aW5nIGNyb3NzLWZvcm1hdCBjb25zaXN0ZW5jeSBpbjoge3RhcmdldF9kaXJ9IikKICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQoKICAgICMgR2F0aGVyIGZpbGVzCiAgICBpZiBmaWxlc190b190ZXN0OgogICAgICAgIGdubl9maWxlcyA9IFtQYXRoKGYpIGZvciBmIGluIGZpbGVzX3RvX3Rlc3RdCiAgICBlbHNlOgogICAgICAgIGdubl9maWxlcyA9IGxpc3QodGFyZ2V0X2Rpci5nbG9iKCIqKi8qLm1kIikpCgogICAgaWYgbm90IGdubl9maWxlczoKICAgICAgICBfbG9nLndhcm5pbmcoIk5vIEdOTiBmaWxlcyBmb3VuZCBmb3IgY3Jvc3MtZm9ybWF0IHZhbGlkYXRpb24iKQogICAgICAgIF9zYXZlX3N1bW1hcnkoCiAgICAgICAgICAgIG91dHB1dF9kaXIsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzdGF0dXMiOiAibm9fZmlsZXMiLAogICAgICAgICAgICAgICAgInRhcmdldF9kaXIiOiBzdHIodGFyZ2V0X2RpciksCiAgICAgICAgICAgICAgICAiZmlsZXNfdGVzdGVkIjogMCwKICAgICAgICAgICAgICAgICJjb25zaXN0ZW50IjogMCwKICAgICAgICAgICAgICAgICJpbmNvbnNpc3RlbnQiOiAwLAogICAgICAgICAgICB9LAogICAgICAgICAgICBmaWxlbmFtZT0iY3Jvc3NfZm9ybWF0X3Jlc3VsdHMuanNvbiIsCiAgICAgICAgKQogICAgICAgIHJldHVybiBUcnVlCgogICAgdmFsaWRhdG9yX2Vycm9yOiBzdHIgfCBOb25lID0gTm9uZQogICAgdHJ5OgogICAgICAgIGZyb20gZ25uLnNjaGVtYV92YWxpZGF0b3IgaW1wb3J0IENyb3NzRm9ybWF0VmFsaWRhdG9yCgogICAgICAgIHZhbGlkYXRvcjogQ3Jvc3NGb3JtYXRWYWxpZGF0b3IgfCBOb25lID0gQ3Jvc3NGb3JtYXRWYWxpZGF0b3IoCiAgICAgICAgICAgIGVuYWJsZV9yb3VuZF90cmlwX3Rlc3Rpbmc9RmFsc2UsCiAgICAgICAgKQogICAgICAgIHZhbGlkYXRvcl9tb2RlID0gImZ1bGwiCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICAjIERlZ3JhZGVkIG1vZGUgaXMgYSB2aXNpYmxlIHJlY2VpcHQ6IHZhbGlkYXRvcl9tb2RlL2RlZ3JhZGVkIGxhbmQKICAgICAgICAjIGluIHRoZSBzdW1tYXJ5IGFuZCBwZXItZmlsZSByZXN1bHRzIGJlbG93LgogICAgICAgIF9sb2cud2FybmluZygKICAgICAgICAgICAgZiJDcm9zc0Zvcm1hdFZhbGlkYXRvciB1bmF2YWlsYWJsZSAoe2V4Y30pOyB1c2luZyBiYXNpYyBjb25zaXN0ZW5jeSBjaGVjayIKICAgICAgICApCiAgICAgICAgdmFsaWRhdG9yID0gY2FzdChBbnksIE5vbmUpCiAgICAgICAgdmFsaWRhdG9yX21vZGUgPSAibGlnaHR3ZWlnaHQiCiAgICAgICAgdmFsaWRhdG9yX2Vycm9yID0gc3RyKGV4YykKCiAgICBvdmVyYWxsX2NvbnNpc3RlbnQgPSBUcnVlCiAgICByZXN1bHRzOiBMaXN0W0RpY3Rbc3RyLCBBbnldXSA9IFtdCgogICAgZm9yIGdubl9maWxlIGluIGdubl9maWxlczoKICAgICAgICBmaWxlX3Jlc3VsdDogRGljdFtzdHIsIEFueV0gPSB7ImZpbGUiOiBzdHIoZ25uX2ZpbGUpfQogICAgICAgIHRyeToKICAgICAgICAgICAgY29udGVudCA9IGdubl9maWxlLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKQoKICAgICAgICAgICAgaWYgdmFsaWRhdG9yIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgY2ZyID0gdmFsaWRhdG9yLnZhbGlkYXRlX2Nyb3NzX2Zvcm1hdF9jb25zaXN0ZW5jeSgKICAgICAgICAgICAgICAgICAgICBjb250ZW50LCBzb3VyY2VfZm9ybWF0PSJtYXJrZG93biIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGZpbGVfcmVzdWx0LnVwZGF0ZSgKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJjb25zaXN0ZW50IjogY2ZyLmlzX2NvbnNpc3RlbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICJjb25zaXN0ZW5jeV9yYXRlIjogY2ZyLmdldF9jb25zaXN0ZW5jeV9yYXRlKCksCiAgICAgICAgICAgICAgICAgICAgICAgICJmb3JtYXRzX3Rlc3RlZCI6IGNmci5zY2hlbWFfZm9ybWF0cywKICAgICAgICAgICAgICAgICAgICAgICAgImluY29uc2lzdGVuY2llcyI6IGNmci5pbmNvbnNpc3RlbmNpZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICJ3YXJuaW5ncyI6IGNmci53YXJuaW5ncywKICAgICAgICAgICAgICAgICAgICAgICAgInZhbGlkYXRvcl9tb2RlIjogImZ1bGwiLAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGlmIG5vdCBjZnIuaXNfY29uc2lzdGVudDoKICAgICAgICAgICAgICAgICAgICBvdmVyYWxsX2NvbnNpc3RlbnQgPSBGYWxzZQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgIyBMaWdodHdlaWdodDoganVzdCBjaGVjayBlYWNoIGZpbGUgaGFzIGEgTW9kZWxOYW1lCiAgICAgICAgICAgICAgICBpc19jb25zaXN0ZW50ID0gIiMjIE1vZGVsTmFtZSIgaW4gY29udGVudAogICAgICAgICAgICAgICAgZmlsZV9yZXN1bHQudXBkYXRlKAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImNvbnNpc3RlbnQiOiBpc19jb25zaXN0ZW50LAogICAgICAgICAgICAgICAgICAgICAgICAiY29uc2lzdGVuY3lfcmF0ZSI6IDEwMC4wIGlmIGlzX2NvbnNpc3RlbnQgZWxzZSAwLjAsCiAgICAgICAgICAgICAgICAgICAgICAgICJmb3JtYXRzX3Rlc3RlZCI6IFsibWFya2Rvd24iXSwKICAgICAgICAgICAgICAgICAgICAgICAgImluY29uc2lzdGVuY2llcyI6IFtdCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGlzX2NvbnNpc3RlbnQKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBbIk1pc3NpbmcgIyMgTW9kZWxOYW1lIHNlY3Rpb24iXSwKICAgICAgICAgICAgICAgICAgICAgICAgIndhcm5pbmdzIjogW10sCiAgICAgICAgICAgICAgICAgICAgICAgICJ2YWxpZGF0b3JfbW9kZSI6ICJsaWdodHdlaWdodCIsCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgaWYgbm90IGlzX2NvbnNpc3RlbnQ6CiAgICAgICAgICAgICAgICAgICAgb3ZlcmFsbF9jb25zaXN0ZW50ID0gRmFsc2UKCiAgICAgICAgICAgIHN0YXR1c19pY29uID0gIuKchSIgaWYgZmlsZV9yZXN1bHRbImNvbnNpc3RlbnQiXSBlbHNlICLinYwiCiAgICAgICAgICAgIF9sb2cuZGVidWcoCiAgICAgICAgICAgICAgICBmIiAge3N0YXR1c19pY29ufSB7Z25uX2ZpbGUubmFtZX06IHtmaWxlX3Jlc3VsdC5nZXQoJ2NvbnNpc3RlbmN5X3JhdGUnLCAwKTouMGZ9JSBjb25zaXN0ZW50IgogICAgICAgICAgICApCgogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgICAgICBmaWxlX3Jlc3VsdC51cGRhdGUoCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgImNvbnNpc3RlbnQiOiBGYWxzZSwKICAgICAgICAgICAgICAgICAgICAiZXJyb3IiOiBzdHIoZXhjKSwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgKQogICAgICAgICAgICBvdmVyYWxsX2NvbnNpc3RlbnQgPSBGYWxzZQogICAgICAgICAgICBfbG9nLndhcm5pbmcoZiIgIOKaoO+4jyAgQ3Jvc3MtZm9ybWF0IGNoZWNrIGZhaWxlZCBmb3Ige2dubl9maWxlLm5hbWV9OiB7ZXhjfSIpCgogICAgICAgIHJlc3VsdHMuYXBwZW5kKGZpbGVfcmVzdWx0KQoKICAgIGR1cmF0aW9uID0gdGltZS50aW1lKCkgLSBzdGFydF90aW1lCiAgICBjb25zaXN0ZW50X2NvdW50ID0gc3VtKDEgZm9yIHIgaW4gcmVzdWx0cyBpZiByLmdldCgiY29uc2lzdGVudCIsIEZhbHNlKSkKCiAgICBjcm9zc19mb3JtYXRfc3VtbWFyeTogZGljdFtzdHIsIEFueV0gPSB7CiAgICAgICAgInN0YXR1cyI6ICJjb21wbGV0ZWQiLAogICAgICAgICJ0YXJnZXRfZGlyIjogc3RyKHRhcmdldF9kaXIpLAogICAgICAgICJmaWxlc190ZXN0ZWQiOiBsZW4ocmVzdWx0cyksCiAgICAgICAgImNvbnNpc3RlbnQiOiBjb25zaXN0ZW50X2NvdW50LAogICAgICAgICJpbmNvbnNpc3RlbnQiOiBsZW4ocmVzdWx0cykgLSBjb25zaXN0ZW50X2NvdW50LAogICAgICAgICJpbmNsdWRlX2JpbmFyeSI6IGluY2x1ZGVfYmluYXJ5LAogICAgICAgICJ2YWxpZGF0b3JfbW9kZSI6IHZhbGlkYXRvcl9tb2RlLAogICAgICAgICJkZWdyYWRlZCI6IHZhbGlkYXRvcl9tb2RlID09ICJsaWdodHdlaWdodCIsCiAgICAgICAgImR1cmF0aW9uX3NlY29uZHMiOiByb3VuZChkdXJhdGlvbiwgMyksCiAgICAgICAgInJlc3VsdHMiOiByZXN1bHRzLAogICAgfQogICAgaWYgdmFsaWRhdG9yX2Vycm9yIGlzIG5vdCBOb25lOgogICAgICAgIGNyb3NzX2Zvcm1hdF9zdW1tYXJ5WyJ2YWxpZGF0b3JfZXJyb3IiXSA9IHZhbGlkYXRvcl9lcnJvcgogICAgX3NhdmVfc3VtbWFyeSgKICAgICAgICBvdXRwdXRfZGlyLCBjcm9zc19mb3JtYXRfc3VtbWFyeSwgZmlsZW5hbWU9ImNyb3NzX2Zvcm1hdF9yZXN1bHRzLmpzb24iCiAgICApCgogICAgX2xvZy5pbmZvKAogICAgICAgIGYiQ3Jvc3MtZm9ybWF0IHZhbGlkYXRpb24gY29tcGxldGU6IHtjb25zaXN0ZW50X2NvdW50fS97bGVuKHJlc3VsdHMpfSBjb25zaXN0ZW50ICIKICAgICAgICBmImluIHtkdXJhdGlvbjouMmZ9cyIKICAgICkKICAgIHJldHVybiBvdmVyYWxsX2NvbnNpc3RlbnQKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIEludGVybmFsIGhlbHBlcnMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCgpkZWYgX3NhdmVfc3VtbWFyeSgKICAgIG91dHB1dF9kaXI6IFBhdGgsCiAgICBkYXRhOiBEaWN0W3N0ciwgQW55XSwKICAgIGZpbGVuYW1lOiBzdHIgPSAiZ25uX3Byb2Nlc3Npbmdfc3VtbWFyeS5qc29uIiwKKSAtPiBOb25lOgogICAgIiIiV3JpdGUgKmRhdGEqIGFzIEpTT04gdG8gKm91dHB1dF9kaXIgLyBmaWxlbmFtZSouIiIiCiAgICB0cnk6CiAgICAgICAgb3V0cHV0X2Rpci5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICAgICAgcGF0aCA9IG91dHB1dF9kaXIgLyBmaWxlbmFtZQogICAgICAgIHdpdGggb3BlbihwYXRoLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGZoOgogICAgICAgICAgICBqc29uLmR1bXAoZGF0YSwgZmgsIGluZGVudD0yLCBkZWZhdWx0PXN0cikKICAgIGV4Y2VwdCBPU0Vycm9yIGFzIGV4YzoKICAgICAgICBsb2dnZXIud2FybmluZyhmIkNvdWxkIG5vdCB3cml0ZSBzdW1tYXJ5IHRvIHtvdXRwdXRfZGlyIC8gZmlsZW5hbWV9OiB7ZXhjfSIpCg==
+"""
+GNN Processors Module
+
+High-level processing functions that orchestrate GNN folder processing,
+round-trip testing, and cross-format consistency validation.
+
+These functions are used by the GNN MCP (Model Context Protocol) integration
+to expose enhanced GNN capabilities.
+"""
+
+import json
+import logging
+import time
+from pathlib import Path
+from typing import Any, Dict, List, Optional, cast
+
+logger = logging.getLogger(__name__)
+
+
+# ---------------------------------------------------------------------------
+# process_gnn_folder
+# ---------------------------------------------------------------------------
+
+
+def process_gnn_folder(
+    target_dir: Path,
+    output_dir: Path,
+    logger: (logging.Logger) | None = None,
+    recursive: bool = False,
+    verbose: bool = False,
+    validation_level: str = "standard",
+    enable_round_trip: bool = False,
+    **kwargs: Any,
+) -> bool:
+    """
+    Process a directory of GNN files with enhanced validation and testing.
+
+    Discovers all GNN files in *target_dir*, validates each one, and writes
+    a JSON summary to *output_dir*.
+
+    Args:
+        target_dir: Directory containing GNN files to process.
+        output_dir: Directory for output results.
+        logger: Logger instance (defaults to module logger).
+        recursive: Whether to recurse into subdirectories.
+        verbose: Enable verbose logging.
+        validation_level: Validation strictness level (basic/standard/strict).
+        enable_round_trip: Whether to run round-trip serialisation tests.
+        **kwargs: Forwarded to validators (ignored if not applicable).
+
+    Returns:
+        True if processing completed (with or without warnings), False on
+        unrecoverable error.
+
+    Receipts: the summary carries ``validator_mode`` (``"full"`` when
+    ``GNNValidator`` ran, ``"lightweight"`` when it was unavailable and only
+    a section-presence check ran), ``degraded`` (true iff lightweight) and,
+    when degraded, ``validator_error`` with the failure reason. Per-file
+    results carry ``validator_mode`` too, so a lightweight result is never
+    indistinguishable from full validation.
+    """
+    _log = logger or logging.getLogger(__name__)
+
+    if verbose:
+        _log.setLevel(logging.DEBUG)
+
+    target_dir = Path(target_dir)
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    _log.info(f"Processing GNN folder: {target_dir} (recursive={recursive})")
+    start_time = time.time()
+
+    # --- discover files ---
+    pattern = "**/*.md" if recursive else "*.md"
+    gnn_files = list(target_dir.glob(pattern))
+    _log.info(f"Discovered {len(gnn_files)} GNN file(s)")
+
+    if not gnn_files:
+        _log.warning(f"No GNN files found in {target_dir}")
+        _save_summary(
+            output_dir,
+            {
+                "status": "no_files",
+                "target_dir": str(target_dir),
+                "files_found": 0,
+                "files_processed": 0,
+                "duration_seconds": time.time() - start_time,
+            },
+        )
+        return True  # Not an error — directory may be intentionally empty
+
+    # --- validate each file ---
+    results: List[Dict[str, Any]] = []
+    success_count = 0
+    fail_count = 0
+
+    validator_error: str | None = None
+    try:
+        from gnn.schema_validator import GNNValidator
+        from gnn.schema_validator import ValidationLevel as VL
+
+        _vl_map: dict[str, Any] = {
+            "basic": VL.BASIC,
+            "standard": VL.STANDARD,
+            "strict": VL.STRICT,
+        }
+        vl = _vl_map.get(validation_level.lower(), VL.STANDARD)
+        validator: GNNValidator | None = GNNValidator(
+            validation_level=vl,
+            enable_round_trip_testing=enable_round_trip,
+        )
+        validator_mode = "full"
+        _log.debug(f"Using GNNValidator with level={vl.value}")
+    except Exception as exc:
+        # Degraded mode is a visible receipt, not a silent downgrade: the
+        # summary and every per-file result below carry validator_mode.
+        _log.warning(f"GNNValidator unavailable ({exc}); using lightweight validation")
+        validator = cast(Any, None)
+        validator_mode = "lightweight"
+        validator_error = str(exc)
+
+    for gnn_file in gnn_files:
+        file_result: Dict[str, Any] = {"file": str(gnn_file)}
+        try:
+            if validator is not None:
+                vr = validator.validate_file(gnn_file, validation_level=vl)
+                file_result.update(
+                    {
+                        "valid": vr.is_valid,
+                        "errors": vr.errors,
+                        "warnings": vr.warnings,
+                        "validation_level": vr.validation_level.value,
+                        "validator_mode": "full",
+                    }
+                )
+            else:
+                # Lightweight: check file is readable and has ## ModelName
+                text = gnn_file.read_text(encoding="utf-8", errors="replace")
+                is_valid = "## ModelName" in text or "## GNNVersionAndFlags" in text
+                file_result.update(
+                    {
+                        "valid": is_valid,
+                        "errors": [],
+                        "warnings": [],
+                        "validator_mode": "lightweight",
+                    }
+                )
+
+            if file_result["valid"]:
+                success_count += 1
+                _log.debug(f"  ✅ {gnn_file.name}")
+            else:
+                fail_count += 1
+                _log.debug(f"  ❌ {gnn_file.name}: {file_result.get('errors', [])}")
+
+        except Exception as exc:
+            fail_count += 1
+            file_result.update({"valid": False, "errors": [str(exc)], "warnings": []})
+            _log.warning(f"  ⚠️  Error processing {gnn_file.name}: {exc}")
+
+        results.append(file_result)
+
+    duration = time.time() - start_time
+    summary: dict[str, Any] = {
+        "status": "completed",
+        "target_dir": str(target_dir),
+        "validation_level": validation_level,
+        "validator_mode": validator_mode,
+        "degraded": validator_mode == "lightweight",
+        "recursive": recursive,
+        "enable_round_trip": enable_round_trip,
+        "files_found": len(gnn_files),
+        "files_valid": success_count,
+        "files_invalid": fail_count,
+        "duration_seconds": round(duration, 3),
+        "results": results,
+    }
+    if validator_error is not None:
+        summary["validator_error"] = validator_error
+    _save_summary(output_dir, summary)
+
+    _log.info(
+        f"GNN folder processing complete: {success_count}/{len(gnn_files)} valid "
+        f"in {duration:.2f}s"
+    )
+    return True  # Return True even with some failures — pipeline continues
+
+
+# ---------------------------------------------------------------------------
+# run_gnn_round_trip_tests
+# ---------------------------------------------------------------------------
+
+
+def run_gnn_round_trip_tests(
+    target_dir: Path,
+    output_dir: Path,
+    logger: (logging.Logger) | None = None,
+    reference_file: Optional[str] = None,
+    test_subset: Optional[List[str]] = None,
+    enable_parallel: bool = False,
+    **kwargs: Any,
+) -> bool:
+    """
+    Run round-trip serialisation tests on GNN files in *target_dir*.
+
+    Parses each file and attempts to re-serialise it, verifying that the
+    semantic content is preserved across the round-trip.
+
+    Args:
+        target_dir: Directory containing GNN files.
+        output_dir: Directory for test result output.
+        logger: Logger instance.
+        reference_file: Optional path to a single reference file to test.
+        test_subset: Optional list of format names to test (e.g. ["json", "yaml"]).
+        enable_parallel: Reserved for future parallel execution support.
+        **kwargs: Additional options (forwarded where applicable).
+
+    Returns:
+        True if all tested files pass the round-trip, False otherwise.
+
+    Receipts: the round_trip_results.json summary carries ``parser_mode``
+    (``"full"``/``"lightweight"``), ``degraded`` and, when degraded,
+    ``parser_error``; per-file results carry ``parser_mode`` too.
+    """
+    _log = logger or logging.getLogger(__name__)
+
+    target_dir = Path(target_dir)
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    _log.info(f"Running GNN round-trip tests in: {target_dir}")
+    start_time = time.time()
+
+    # Gather files to test
+    if reference_file:
+        files_to_test: list[Any] = [Path(reference_file)]
+    else:
+        files_to_test = list(target_dir.glob("**/*.md"))
+
+    if not files_to_test:
+        _log.warning("No GNN files found for round-trip testing")
+        _save_summary(
+            output_dir,
+            {
+                "status": "no_files",
+                "target_dir": str(target_dir),
+                "files_tested": 0,
+                "passed": 0,
+                "failed": 0,
+            },
+            filename="round_trip_results.json",
+        )
+        return True
+
+    supported_formats = test_subset or ["json", "yaml", "markdown"]
+    _log.info(
+        f"Testing {len(files_to_test)} file(s) across formats: {supported_formats}"
+    )
+
+    results: List[Dict[str, Any]] = []
+    overall_pass = True
+
+    parser_error: str | None = None
+    try:
+        from gnn.schema_validator import GNNParser
+
+        parser: GNNParser | None = GNNParser(enhanced_validation=False)
+        parser_mode = "full"
+    except Exception as exc:
+        # Degraded mode is a visible receipt: parser_mode/degraded land in
+        # the summary and per-file results below.
+        _log.warning(f"GNNParser unavailable ({exc}); using basic round-trip check")
+        parser = cast(Any, None)
+        parser_mode = "lightweight"
+        parser_error = str(exc)
+
+    for gnn_file in files_to_test:
+        file_result: Dict[str, Any] = {
+            "file": str(gnn_file),
+            "formats_tested": supported_formats,
+            "format_results": {},
+            "parser_mode": parser_mode,
+        }
+        try:
+            original_text = gnn_file.read_text(encoding="utf-8", errors="replace")
+
+            for fmt in supported_formats:
+                fmt_result: Dict[str, Any] = {}
+                try:
+                    if parser is not None:
+                        parsed = parser.parse_content(
+                            original_text, format_hint="markdown"
+                        )
+                        # Re-serialisation check: model_name should survive a round-trip
+                        if hasattr(parsed, "to_dict"):
+                            parsed_dict = parsed.to_dict()
+                            fmt_result["pass"] = bool(parsed_dict)
+                            fmt_result["model_name"] = parsed_dict.get("model_name", "")
+                        else:
+                            # Simple sanity: model_name attribute present
+                            fmt_result["pass"] = bool(
+                                getattr(parsed, "model_name", None)
+                            )
+                    else:
+                        # Lightweight: check key sections survive a text round-trip
+                        lines = original_text.splitlines()
+                        fmt_result["pass"] = any("## ModelName" in l for l in lines)
+
+                    if not fmt_result["pass"]:
+                        overall_pass = False
+                        _log.warning(f"  ❌ Round-trip failed: {gnn_file.name} [{fmt}]")
+                    else:
+                        _log.debug(f"  ✅ Round-trip OK: {gnn_file.name} [{fmt}]")
+
+                except Exception as exc:
+                    fmt_result["pass"] = False
+                    fmt_result["error"] = str(exc)
+                    overall_pass = False
+                    _log.warning(
+                        f"  ⚠️  Round-trip error {gnn_file.name} [{fmt}]: {exc}"
+                    )
+
+                file_result["format_results"][fmt] = fmt_result
+
+        except Exception as exc:
+            file_result["error"] = str(exc)
+            overall_pass = False
+            _log.warning(f"  ⚠️  Could not read {gnn_file.name}: {exc}")
+
+        results.append(file_result)
+
+    duration = time.time() - start_time
+    passed = sum(
+        1
+        for r in results
+        if "error" not in r
+        and all(v.get("pass", False) for v in r.get("format_results", {}).values())
+    )
+
+    round_trip_summary: dict[str, Any] = {
+        "status": "completed",
+        "target_dir": str(target_dir),
+        "files_tested": len(results),
+        "passed": passed,
+        "failed": len(results) - passed,
+        "formats_tested": supported_formats,
+        "parser_mode": parser_mode,
+        "degraded": parser_mode == "lightweight",
+        "duration_seconds": round(duration, 3),
+        "results": results,
+    }
+    if parser_error is not None:
+        round_trip_summary["parser_error"] = parser_error
+    _save_summary(output_dir, round_trip_summary, filename="round_trip_results.json")
+
+    _log.info(
+        f"Round-trip tests complete: {passed}/{len(results)} passed in {duration:.2f}s"
+    )
+    return overall_pass
+
+
+# ---------------------------------------------------------------------------
+# check_cross_format_consistency
+# ---------------------------------------------------------------------------
+
+
+def check_cross_format_consistency(
+    target_dir: Path,
+    output_dir: Path,
+    logger: (logging.Logger) | None = None,
+    files_to_test: Optional[List[str]] = None,
+    include_binary: bool = False,
+    **kwargs: Any,
+) -> bool:
+    """
+    Validate cross-format consistency for GNN files in *target_dir*.
+
+    Each GNN file is parsed and converted to multiple schema formats; the
+    resulting representations are compared for semantic consistency.
+
+    Args:
+        target_dir: Directory containing GNN files.
+        output_dir: Directory for validation results.
+        logger: Logger instance.
+        files_to_test: Optional explicit list of file paths to test.
+        include_binary: Whether to include binary (pickle) formats.
+        **kwargs: Additional options.
+
+    Returns:
+        True if all files are cross-format consistent, False otherwise.
+
+    Receipts: the cross_format_results.json summary carries
+    ``validator_mode`` (``"full"``/``"lightweight"``), ``degraded`` and,
+    when degraded, ``validator_error``; per-file results carry
+    ``validator_mode``.
+    """
+    _log = logger or logging.getLogger(__name__)
+
+    target_dir = Path(target_dir)
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    _log.info(f"Validating cross-format consistency in: {target_dir}")
+    start_time = time.time()
+
+    # Gather files
+    if files_to_test:
+        gnn_files = [Path(f) for f in files_to_test]
+    else:
+        gnn_files = list(target_dir.glob("**/*.md"))
+
+    if not gnn_files:
+        _log.warning("No GNN files found for cross-format validation")
+        _save_summary(
+            output_dir,
+            {
+                "status": "no_files",
+                "target_dir": str(target_dir),
+                "files_tested": 0,
+                "consistent": 0,
+                "inconsistent": 0,
+            },
+            filename="cross_format_results.json",
+        )
+        return True
+
+    validator_error: str | None = None
+    try:
+        from gnn.schema_validator import CrossFormatValidator
+
+        validator: CrossFormatValidator | None = CrossFormatValidator(
+            enable_round_trip_testing=False,
+        )
+        validator_mode = "full"
+    except Exception as exc:
+        # Degraded mode is a visible receipt: validator_mode/degraded land
+        # in the summary and per-file results below.
+        _log.warning(
+            f"CrossFormatValidator unavailable ({exc}); using basic consistency check"
+        )
+        validator = cast(Any, None)
+        validator_mode = "lightweight"
+        validator_error = str(exc)
+
+    overall_consistent = True
+    results: List[Dict[str, Any]] = []
+
+    for gnn_file in gnn_files:
+        file_result: Dict[str, Any] = {"file": str(gnn_file)}
+        try:
+            content = gnn_file.read_text(encoding="utf-8", errors="replace")
+
+            if validator is not None:
+                cfr = validator.validate_cross_format_consistency(
+                    content, source_format="markdown"
+                )
+                file_result.update(
+                    {
+                        "consistent": cfr.is_consistent,
+                        "consistency_rate": cfr.get_consistency_rate(),
+                        "formats_tested": cfr.schema_formats,
+                        "inconsistencies": cfr.inconsistencies,
+                        "warnings": cfr.warnings,
+                        "validator_mode": "full",
+                    }
+                )
+                if not cfr.is_consistent:
+                    overall_consistent = False
+            else:
+                # Lightweight: just check each file has a ModelName
+                is_consistent = "## ModelName" in content
+                file_result.update(
+                    {
+                        "consistent": is_consistent,
+                        "consistency_rate": 100.0 if is_consistent else 0.0,
+                        "formats_tested": ["markdown"],
+                        "inconsistencies": []
+                        if is_consistent
+                        else ["Missing ## ModelName section"],
+                        "warnings": [],
+                        "validator_mode": "lightweight",
+                    }
+                )
+                if not is_consistent:
+                    overall_consistent = False
+
+            status_icon = "✅" if file_result["consistent"] else "❌"
+            _log.debug(
+                f"  {status_icon} {gnn_file.name}: {file_result.get('consistency_rate', 0):.0f}% consistent"
+            )
+
+        except Exception as exc:
+            file_result.update(
+                {
+                    "consistent": False,
+                    "error": str(exc),
+                }
+            )
+            overall_consistent = False
+            _log.warning(f"  ⚠️  Cross-format check failed for {gnn_file.name}: {exc}")
+
+        results.append(file_result)
+
+    duration = time.time() - start_time
+    consistent_count = sum(1 for r in results if r.get("consistent", False))
+
+    cross_format_summary: dict[str, Any] = {
+        "status": "completed",
+        "target_dir": str(target_dir),
+        "files_tested": len(results),
+        "consistent": consistent_count,
+        "inconsistent": len(results) - consistent_count,
+        "include_binary": include_binary,
+        "validator_mode": validator_mode,
+        "degraded": validator_mode == "lightweight",
+        "duration_seconds": round(duration, 3),
+        "results": results,
+    }
+    if validator_error is not None:
+        cross_format_summary["validator_error"] = validator_error
+    _save_summary(
+        output_dir, cross_format_summary, filename="cross_format_results.json"
+    )
+
+    _log.info(
+        f"Cross-format validation complete: {consistent_count}/{len(results)} consistent "
+        f"in {duration:.2f}s"
+    )
+    return overall_consistent
+
+
+# ---------------------------------------------------------------------------
+# Internal helpers
+# ---------------------------------------------------------------------------
+
+
+def _save_summary(
+    output_dir: Path,
+    data: Dict[str, Any],
+    filename: str = "gnn_processing_summary.json",
+) -> None:
+    """Write *data* as JSON to *output_dir / filename*."""
+    try:
+        output_dir.mkdir(parents=True, exist_ok=True)
+        path = output_dir / filename
+        with open(path, "w", encoding="utf-8") as fh:
+            json.dump(data, fh, indent=2, default=str)
+    except OSError as exc:
+        logger.warning(f"Could not write summary to {output_dir / filename}: {exc}")

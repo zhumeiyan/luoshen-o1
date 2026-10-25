@@ -1,1 +1,74 @@
-ewogImY9MC4wIjogewogICJUNTAiOiAxMS4wMSwKICAiVDIwMCI6IDI0LjEyLAogICJUNjAwIjogMjMuNzMKIH0sCiAiZj0wLjIiOiB7CiAgIlQ1MCI6IDEwLjkyLAogICJUMjAwIjogMjQuMCwKICAiVDYwMCI6IDIzLjk3CiB9LAogImY9MC40IjogewogICJUNTAiOiA5Ljc3LAogICJUMjAwIjogMjEuNTEsCiAgIlQ2MDAiOiAyMS42NQogfSwKICJmPTAuNiI6IHsKICAiVDUwIjogNy41NiwKICAiVDIwMCI6IDE2LjY0LAogICJUNjAwIjogMTYuNzYKIH0sCiAiZj0wLjgiOiB7CiAgIlQ1MCI6IDQuMjgsCiAgIlQyMDAiOiA5LjM5LAogICJUNjAwIjogOS4zCiB9LAogImY9MS4wIjogewogICJUNTAiOiAtMC4wNiwKICAiVDIwMCI6IC0wLjI0LAogICJUNjAwIjogLTAuNzIKIH0sCiAiaHo9MC4wIjogewogICLmnIDkvJhmIjogMC4wLAogICJmMCI6IDU1LjA1CiB9LAogImh6PTAuMiI6IHsKICAi5pyA5LyYZiI6IDAuMCwKICAiZjAiOiA0NC43NAogfSwKICJoej0wLjQiOiB7CiAgIuacgOS8mGYiOiAwLjAsCiAgImYwIjogMzQuNDMKIH0sCiAiaHo9MC42IjogewogICLmnIDkvJhmIjogMC4wLAogICJmMCI6IDI0LjEyCiB9LAogImh6PTAuOCI6IHsKICAi5pyA5LyYZiI6IDAuMywKICAiZjAiOiAxMy44MQogfSwKICJoej0xLjAiOiB7CiAgIuacgOS8mGYiOiAwLjUsCiAgImYwIjogMy41CiB9LAogImI9MC4yMDAiOiB7CiAgIuWzsOWcqCI6IDEuMAogfSwKICJiPTAuNDAwIjogewogICLls7DlnKgiOiAxLjAKIH0sCiAiYj0wLjQyOSI6IHsKICAi5bOw5ZyoIjogMS4wCiB9LAogImI9MC41MDAiOiB7CiAgIuWzsOWcqCI6IDAuNzUKIH0sCiAiYj0wLjcwMCI6IHsKICAi5bOw5ZyoIjogMC41CiB9LAogImI9MC45MDAiOiB7CiAgIuWzsOWcqCI6IDAuNQogfQp9
+{
+ "f=0.0": {
+  "T50": 11.01,
+  "T200": 24.12,
+  "T600": 23.73
+ },
+ "f=0.2": {
+  "T50": 10.92,
+  "T200": 24.0,
+  "T600": 23.97
+ },
+ "f=0.4": {
+  "T50": 9.77,
+  "T200": 21.51,
+  "T600": 21.65
+ },
+ "f=0.6": {
+  "T50": 7.56,
+  "T200": 16.64,
+  "T600": 16.76
+ },
+ "f=0.8": {
+  "T50": 4.28,
+  "T200": 9.39,
+  "T600": 9.3
+ },
+ "f=1.0": {
+  "T50": -0.06,
+  "T200": -0.24,
+  "T600": -0.72
+ },
+ "hz=0.0": {
+  "最优f": 0.0,
+  "f0": 55.05
+ },
+ "hz=0.2": {
+  "最优f": 0.0,
+  "f0": 44.74
+ },
+ "hz=0.4": {
+  "最优f": 0.0,
+  "f0": 34.43
+ },
+ "hz=0.6": {
+  "最优f": 0.0,
+  "f0": 24.12
+ },
+ "hz=0.8": {
+  "最优f": 0.3,
+  "f0": 13.81
+ },
+ "hz=1.0": {
+  "最优f": 0.5,
+  "f0": 3.5
+ },
+ "b=0.200": {
+  "峰在": 1.0
+ },
+ "b=0.400": {
+  "峰在": 1.0
+ },
+ "b=0.429": {
+  "峰在": 1.0
+ },
+ "b=0.500": {
+  "峰在": 0.75
+ },
+ "b=0.700": {
+  "峰在": 0.5
+ },
+ "b=0.900": {
+  "峰在": 0.5
+ }
+}

@@ -1,1 +1,149 @@
-ZnJvbSBhZGFwdGVycyBpbXBvcnQgY2ZnLCBjb25zb2xlCgoKY2xhc3MgQ29tbWFuZENoZWNrOgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmNoZWNrX2ZhaWxlZCA9IEZhbHNlCgogICAgZGVmIGV4ZWN1dGUoc2VsZik6CiAgICAgICAgaWYgX2lzX21pc3NpbmcoY2ZnLmNsdXN0ZXJfbmFtZSk6CiAgICAgICAgICAgIGNvbnNvbGUuZmFpbHVyZSgiQ2x1c3RlciBuYW1lIGNvdWxkbid0IGJlIGRldGVybWluZWQiKQogICAgICAgICAgICBzZWxmLmNoZWNrX2ZhaWxlZCA9IFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBjb25zb2xlLnN1Y2Nlc3MoIkNsdXN0ZXIgbmFtZSIpCgogICAgICAgIGlmIF9pc19taXNzaW5nKGNmZy5wYXRoX3RlcnJhZm9ybV93b3Jrc3BhY2VzKToKICAgICAgICAgICAgY29uc29sZS5mYWlsdXJlKAogICAgICAgICAgICAgICAgZiJNaXNzaW5nIHRlcnJhZm9ybV93b3Jrc3BhY2VzIGluIHtjZmcucGF0aF9jb25maWdfZmlsZX0iKQogICAgICAgICAgICBzZWxmLmNoZWNrX2ZhaWxlZCA9IFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBjb25zb2xlLnN1Y2Nlc3MoIlRlcnJhZm9ybSB3b3Jrc3BhY2VzIikKCiAgICAgICAgaWYgX2lzX21pc3NpbmcoY2ZnLnBhdGhfa3ViZWNvbmZpZ19kaXIpOgogICAgICAgICAgICBjb25zb2xlLmZhaWx1cmUoCiAgICAgICAgICAgICAgICBmIk1pc3Npbmcga3ViZWNvbmZpZ19kaXIgaW4ge2NmZy5wYXRoX2NvbmZpZ19maWxlfSIpCiAgICAgICAgICAgIHNlbGYuY2hlY2tfZmFpbGVkID0gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGNvbnNvbGUuc3VjY2VzcygiS3ViZWNvbmZpZyBkaXJlY3RvcnkiKQoKICAgICAgICBpZiBfaXNfbWlzc2luZyhjZmcucGF0aF9iYWNrdXBfbWFuaWZlc3RzX2Rpcik6CiAgICAgICAgICAgIGNvbnNvbGUuZmFpbHVyZSgKICAgICAgICAgICAgICAgIGYiTWlzc2luZyBiYWNrdXBfbWFuaWZlc3RzX2RpciBpbiB7Y2ZnLnBhdGhfY29uZmlnX2ZpbGV9IikKICAgICAgICAgICAgc2VsZi5jaGVja19mYWlsZWQgPSBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29uc29sZS5zdWNjZXNzKCJCYWNrdXAgam9icyBkaXJlY3RvcnkiKQoKICAgICAgICBpZiBjZmcubm9kZXM6CiAgICAgICAgICAgIGlzX25vZGVzX3NlY3Rpb25fb2sgPSBUcnVlCgogICAgICAgICAgICBmb3Igbm9kZSBpbiBjZmcubm9kZXM6CgogICAgICAgICAgICAgICAgaWYgX2lzX21pc3Npbmcobm9kZS5uYW1lKToKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmZhaWx1cmUoCiAgICAgICAgICAgICAgICAgICAgICAgIGYiTWlzc2luZyBub2RlIG5hbWUgaW4ge2NmZy5wYXRoX2NvbmZpZ19maWxlfSIpCiAgICAgICAgICAgICAgICAgICAgaXNfbm9kZXNfc2VjdGlvbl9vayA9IEZhbHNlCgogICAgICAgICAgICAgICAgaWYgX2lzX21pc3Npbmcobm9kZS5pcCk6CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5mYWlsdXJlKAogICAgICAgICAgICAgICAgICAgICAgICBmIk1pc3Npbmcgbm9kZSBpcCBpbiB7Y2ZnLnBhdGhfY29uZmlnX2ZpbGV9IikKICAgICAgICAgICAgICAgICAgICBpc19ub2Rlc19zZWN0aW9uX29rID0gRmFsc2UKCiAgICAgICAgICAgICAgICBpZiBfaXNfbWlzc2luZyhub2RlLnJvbGUpOgogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUuZmFpbHVyZSgKICAgICAgICAgICAgICAgICAgICAgICAgZiJNaXNzaW5nIG5vZGUgcm9sZSBpbiB7Y2ZnLnBhdGhfY29uZmlnX2ZpbGV9IikKICAgICAgICAgICAgICAgICAgICBpc19ub2Rlc19zZWN0aW9uX29rID0gRmFsc2UKCiAgICAgICAgICAgIGlmIGlzX25vZGVzX3NlY3Rpb25fb2s6CiAgICAgICAgICAgICAgICBjb25zb2xlLnN1Y2Nlc3MoIk5vZGVzIikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYuY2hlY2tfZmFpbGVkID0gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGNvbnNvbGUuZmFpbHVyZShmIk1pc3Npbmcgbm9kZXMgaW4ge2NmZy5wYXRoX2NvbmZpZ19maWxlfSIpCiAgICAgICAgICAgIHNlbGYuY2hlY2tfZmFpbGVkID0gVHJ1ZQoKICAgICAgICBpZiBfaXNfbWlzc2luZyhjZmcuaXBfbWFzdGVyKToKICAgICAgICAgICAgY29uc29sZS5mYWlsdXJlKAogICAgICAgICAgICAgICAgZiJNaXNzaW5nIGNvbnRyb2xwbGFuZSBub2RlIGluIHtjZmcucGF0aF9jb25maWdfZmlsZX0iKQogICAgICAgICAgICBzZWxmLmNoZWNrX2ZhaWxlZCA9IFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBjb25zb2xlLnN1Y2Nlc3MoIklQIG1hc3RlciIpCgogICAgICAgIGlmIGNmZy5mbHV4OgogICAgICAgICAgICBpc19mbHV4X3NlY3Rpb25fb2sgPSBUcnVlCgogICAgICAgICAgICBpZiBfaXNfbWlzc2luZyhjZmcuZmx1eC5zb3BzX2tleV9maW5nZXJwcmludCk6CiAgICAgICAgICAgICAgICBjb25zb2xlLmZhaWx1cmUoCiAgICAgICAgICAgICAgICAgICAgZiJNaXNzaW5nIFNPUFMga2V5IGZpbmdlcnByaW50IGluIHtjZmcucGF0aF9jb25maWdfZmlsZX0iKQogICAgICAgICAgICAgICAgaXNfZmx1eF9zZWN0aW9uX29rID0gRmFsc2UKCiAgICAgICAgICAgIGlmIF9pc19taXNzaW5nKGNmZy5mbHV4LnVybF9zbGFja193ZWJob29rKToKICAgICAgICAgICAgICAgIGNvbnNvbGUuZmFpbHVyZSgKICAgICAgICAgICAgICAgICAgICBmIk1pc3NpbmcgU2xhY2sgd2ViaG9vayBVUkwgaW4ge2NmZy5wYXRoX2NvbmZpZ19maWxlfSIpCiAgICAgICAgICAgICAgICBpc19mbHV4X3NlY3Rpb25fb2sgPSBGYWxzZQoKICAgICAgICAgICAgaWYgX2lzX21pc3NpbmcoY2ZnLmZsdXgucGF0aF9jbHVzdGVyX2NvbmZpZyk6CiAgICAgICAgICAgICAgICBjb25zb2xlLmZhaWx1cmUoCiAgICAgICAgICAgICAgICAgICAgZiJNaXNzaW5nIGN1c3RlciBjb25maWcgcGF0aCBpbiB7Y2ZnLnBhdGhfY29uZmlnX2ZpbGV9IikKICAgICAgICAgICAgICAgIGlzX2ZsdXhfc2VjdGlvbl9vayA9IEZhbHNlCgogICAgICAgICAgICBpZiBfaXNfbWlzc2luZyhjZmcuZmx1eC5wYXRoX21hbmlmZXN0c19kaXIpOgogICAgICAgICAgICAgICAgY29uc29sZS5mYWlsdXJlKAogICAgICAgICAgICAgICAgICAgIGYiTWlzc2luZyBtYW5pZmVzdHMgZGlyZWN0b3J5IGluIHtjZmcucGF0aF9jb25maWdfZmlsZX0iKQogICAgICAgICAgICAgICAgaXNfZmx1eF9zZWN0aW9uX29rID0gRmFsc2UKCiAgICAgICAgICAgIGlmIF9pc19taXNzaW5nKGNmZy5mbHV4LnJlcG9zaXRvcnlfb3duZXIpOgogICAgICAgICAgICAgICAgY29uc29sZS5mYWlsdXJlKAogICAgICAgICAgICAgICAgICAgIGYiTWlzc2luZyByZXBvc2l0b3J5IG93bmVyIGluIHtjZmcucGF0aF9jb25maWdfZmlsZX0iKQogICAgICAgICAgICAgICAgaXNfZmx1eF9zZWN0aW9uX29rID0gRmFsc2UKCiAgICAgICAgICAgIGlmIF9pc19taXNzaW5nKGNmZy5mbHV4LnJlcG9zaXRvcnlfbmFtZSk6CiAgICAgICAgICAgICAgICBjb25zb2xlLmZhaWx1cmUoCiAgICAgICAgICAgICAgICAgICAgZiJNaXNzaW5nIHJlcG9zaXRvcnkgbmFtZSBpbiB7Y2ZnLnBhdGhfY29uZmlnX2ZpbGV9IikKICAgICAgICAgICAgICAgIGlzX2ZsdXhfc2VjdGlvbl9vayA9IEZhbHNlCgogICAgICAgICAgICBpZiBfaXNfbWlzc2luZyhjZmcuZmx1eC5yZXBvc2l0b3J5X2JyYW5jaCk6CiAgICAgICAgICAgICAgICBjb25zb2xlLmZhaWx1cmUoCiAgICAgICAgICAgICAgICAgICAgZiJNaXNzaW5nIHJlcG9zaXRvcnkgYnJhbmNoIGluIHtjZmcucGF0aF9jb25maWdfZmlsZX0iKQogICAgICAgICAgICAgICAgaXNfZmx1eF9zZWN0aW9uX29rID0gRmFsc2UKCiAgICAgICAgICAgIGlmIGlzX2ZsdXhfc2VjdGlvbl9vazoKICAgICAgICAgICAgICAgIGNvbnNvbGUuc3VjY2VzcygiRmx1eCBzZWN0aW9uIikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYuY2hlY2tfZmFpbGVkID0gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGNvbnNvbGUuZmFpbHVyZShmIk1pc3NpbmcgRmx1eCBzZWN0aW9uIGluIHtjZmcucGF0aF9jb25maWdfZmlsZX0iKQogICAgICAgICAgICBzZWxmLmNoZWNrX2ZhaWxlZCA9IFRydWUKCiAgICAgICAgaWYgY2ZnLnRhbG9zOgogICAgICAgICAgICBpc190YWxvc19zZWN0aW9uX29rID0gVHJ1ZQoKICAgICAgICAgICAgaWYgX2lzX21pc3NpbmcoY2ZnLnRhbG9zLmRpcl9nZW5lcmF0ZWRfY29uZmlndXJhdGlvbik6CiAgICAgICAgICAgICAgICBjb25zb2xlLmZhaWx1cmUoCiAgICAgICAgICAgICAgICAgICAgZiJNaXNzaW5nIFRhbG9zIGRpcmVjdG9yeSBmb3IgZ2VuZXJhdGVkIGNvbmZpZ3VyYXRpb24gIgogICAgICAgICAgICAgICAgICAgIGYiZmlsZXMgaW4ge2NmZy5wYXRoX2NvbmZpZ19maWxlfSIpCiAgICAgICAgICAgICAgICBpc190YWxvc19zZWN0aW9uX29rID0gRmFsc2UKCiAgICAgICAgICAgIGlmIF9pc19taXNzaW5nKGNmZy50YWxvcy5wYXRoX3BhdGNoX2FsbCk6CiAgICAgICAgICAgICAgICBjb25zb2xlLmZhaWx1cmUoCiAgICAgICAgICAgICAgICAgICAgZiJNaXNzaW5nIFRhbG9zIGNvbmZpZ3VyYXRpb24gcGF0Y2ggZm9yIGFsbCBub2RlcyAiCiAgICAgICAgICAgICAgICAgICAgZiJpbiB7Y2ZnLnBhdGhfY29uZmlnX2ZpbGV9IikKICAgICAgICAgICAgICAgIGlzX3RhbG9zX3NlY3Rpb25fb2sgPSBGYWxzZQoKICAgICAgICAgICAgaWYgX2lzX21pc3NpbmcoY2ZnLnRhbG9zLnBhdGhfcGF0Y2hfY29udHJvbHBsYW5lKToKICAgICAgICAgICAgICAgIGNvbnNvbGUuZmFpbHVyZSgKICAgICAgICAgICAgICAgICAgICBmIk1pc3NpbmcgVGFsb3MgY29uZmlndXJhdGlvbiBwYXRjaCBmb3IgY29udHJvbHBsYW5lICIKICAgICAgICAgICAgICAgICAgICBmIm5vZGVzIGluIHtjZmcucGF0aF9jb25maWdfZmlsZX0iKQogICAgICAgICAgICAgICAgaXNfdGFsb3Nfc2VjdGlvbl9vayA9IEZhbHNlCgogICAgICAgICAgICBpZiBpc190YWxvc19zZWN0aW9uX29rOgogICAgICAgICAgICAgICAgY29uc29sZS5zdWNjZXNzKCJUYWxvcyBzZWN0aW9uIikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYuY2hlY2tfZmFpbGVkID0gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGNvbnNvbGUuZmFpbHVyZShmIk1pc3NpbmcgVGFsb3Mgc2VjdGlvbiBpbiB7Y2ZnLnBhdGhfY29uZmlnX2ZpbGV9IikKICAgICAgICAgICAgc2VsZi5jaGVja19mYWlsZWQgPSBUcnVlCgoKZGVmIF9pc19taXNzaW5nKHZhcmlhYmxlKToKICAgIHJldHVybiB2YXJpYWJsZSA9PSAiIiBvciB2YXJpYWJsZSBpcyBOb25lCg==
+from adapters import cfg, console
+
+
+class CommandCheck:
+
+    def __init__(self):
+        self.check_failed = False
+
+    def execute(self):
+        if _is_missing(cfg.cluster_name):
+            console.failure("Cluster name couldn't be determined")
+            self.check_failed = True
+        else:
+            console.success("Cluster name")
+
+        if _is_missing(cfg.path_terraform_workspaces):
+            console.failure(
+                f"Missing terraform_workspaces in {cfg.path_config_file}")
+            self.check_failed = True
+        else:
+            console.success("Terraform workspaces")
+
+        if _is_missing(cfg.path_kubeconfig_dir):
+            console.failure(
+                f"Missing kubeconfig_dir in {cfg.path_config_file}")
+            self.check_failed = True
+        else:
+            console.success("Kubeconfig directory")
+
+        if _is_missing(cfg.path_backup_manifests_dir):
+            console.failure(
+                f"Missing backup_manifests_dir in {cfg.path_config_file}")
+            self.check_failed = True
+        else:
+            console.success("Backup jobs directory")
+
+        if cfg.nodes:
+            is_nodes_section_ok = True
+
+            for node in cfg.nodes:
+
+                if _is_missing(node.name):
+                    console.failure(
+                        f"Missing node name in {cfg.path_config_file}")
+                    is_nodes_section_ok = False
+
+                if _is_missing(node.ip):
+                    console.failure(
+                        f"Missing node ip in {cfg.path_config_file}")
+                    is_nodes_section_ok = False
+
+                if _is_missing(node.role):
+                    console.failure(
+                        f"Missing node role in {cfg.path_config_file}")
+                    is_nodes_section_ok = False
+
+            if is_nodes_section_ok:
+                console.success("Nodes")
+            else:
+                self.check_failed = True
+        else:
+            console.failure(f"Missing nodes in {cfg.path_config_file}")
+            self.check_failed = True
+
+        if _is_missing(cfg.ip_master):
+            console.failure(
+                f"Missing controlplane node in {cfg.path_config_file}")
+            self.check_failed = True
+        else:
+            console.success("IP master")
+
+        if cfg.flux:
+            is_flux_section_ok = True
+
+            if _is_missing(cfg.flux.sops_key_fingerprint):
+                console.failure(
+                    f"Missing SOPS key fingerprint in {cfg.path_config_file}")
+                is_flux_section_ok = False
+
+            if _is_missing(cfg.flux.url_slack_webhook):
+                console.failure(
+                    f"Missing Slack webhook URL in {cfg.path_config_file}")
+                is_flux_section_ok = False
+
+            if _is_missing(cfg.flux.path_cluster_config):
+                console.failure(
+                    f"Missing custer config path in {cfg.path_config_file}")
+                is_flux_section_ok = False
+
+            if _is_missing(cfg.flux.path_manifests_dir):
+                console.failure(
+                    f"Missing manifests directory in {cfg.path_config_file}")
+                is_flux_section_ok = False
+
+            if _is_missing(cfg.flux.repository_owner):
+                console.failure(
+                    f"Missing repository owner in {cfg.path_config_file}")
+                is_flux_section_ok = False
+
+            if _is_missing(cfg.flux.repository_name):
+                console.failure(
+                    f"Missing repository name in {cfg.path_config_file}")
+                is_flux_section_ok = False
+
+            if _is_missing(cfg.flux.repository_branch):
+                console.failure(
+                    f"Missing repository branch in {cfg.path_config_file}")
+                is_flux_section_ok = False
+
+            if is_flux_section_ok:
+                console.success("Flux section")
+            else:
+                self.check_failed = True
+        else:
+            console.failure(f"Missing Flux section in {cfg.path_config_file}")
+            self.check_failed = True
+
+        if cfg.talos:
+            is_talos_section_ok = True
+
+            if _is_missing(cfg.talos.dir_generated_configuration):
+                console.failure(
+                    f"Missing Talos directory for generated configuration "
+                    f"files in {cfg.path_config_file}")
+                is_talos_section_ok = False
+
+            if _is_missing(cfg.talos.path_patch_all):
+                console.failure(
+                    f"Missing Talos configuration patch for all nodes "
+                    f"in {cfg.path_config_file}")
+                is_talos_section_ok = False
+
+            if _is_missing(cfg.talos.path_patch_controlplane):
+                console.failure(
+                    f"Missing Talos configuration patch for controlplane "
+                    f"nodes in {cfg.path_config_file}")
+                is_talos_section_ok = False
+
+            if is_talos_section_ok:
+                console.success("Talos section")
+            else:
+                self.check_failed = True
+        else:
+            console.failure(f"Missing Talos section in {cfg.path_config_file}")
+            self.check_failed = True
+
+
+def _is_missing(variable):
+    return variable == "" or variable is None

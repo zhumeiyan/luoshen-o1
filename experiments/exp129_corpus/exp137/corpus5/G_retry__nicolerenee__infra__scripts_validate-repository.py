@@ -1,1 +1,443 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKQ29tcHJlaGVuc2l2ZSBSZXBvc2l0b3J5IFZhbGlkYXRvcgoKUnVucyBhbGwgdmFsaWRhdGlvbiBjaGVja3MgZm9yIHRoZSBLdWJlcm5ldGVzIGluZnJhc3RydWN0dXJlIHJlcG9zaXRvcnkuClRoaXMgc2NyaXB0IGNvbWJpbmVzIG11bHRpcGxlIHZhbGlkYXRpb24gdG9vbHMgdG8gZW5zdXJlIHJlcG9zaXRvcnkgcXVhbGl0eSwKc2VjdXJpdHksIGFuZCBjb25zaXN0ZW5jeS4KClVzYWdlOgogICAgcHl0aG9uMyBzY3JpcHRzL3ZhbGlkYXRlLXJlcG9zaXRvcnkucHkgW29wdGlvbnNdCgpFeGFtcGxlczoKICAgICMgUnVuIGFsbCB2YWxpZGF0aW9ucwogICAgcHl0aG9uMyBzY3JpcHRzL3ZhbGlkYXRlLXJlcG9zaXRvcnkucHkKCiAgICAjIFJ1biBzcGVjaWZpYyB2YWxpZGF0aW9uIHR5cGVzCiAgICBweXRob24zIHNjcmlwdHMvdmFsaWRhdGUtcmVwb3NpdG9yeS5weSAtLWt1c3RvbWl6YXRpb25zIC0tc2NoZW1hcwoKICAgICMgU2tpcCBjZXJ0YWluIHZhbGlkYXRpb25zCiAgICBweXRob24zIHNjcmlwdHMvdmFsaWRhdGUtcmVwb3NpdG9yeS5weSAtLXNraXAgc2VjdXJpdHkKIiIiCgppbXBvcnQgb3MKaW1wb3J0IHN5cwppbXBvcnQgYXJncGFyc2UKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHJlCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgTGlzdCwgRGljdCwgVHVwbGUKCgpjbGFzcyBSZXBvc2l0b3J5VmFsaWRhdG9yOgogICAgIiIiQ29tcHJlaGVuc2l2ZSByZXBvc2l0b3J5IHZhbGlkYXRpb24iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdmVyYm9zZTogYm9vbCA9IEZhbHNlKToKICAgICAgICBzZWxmLnZlcmJvc2UgPSB2ZXJib3NlCiAgICAgICAgc2VsZi5lcnJvcnMgPSBbXQogICAgICAgIHNlbGYud2FybmluZ3MgPSBbXQoKICAgIGRlZiBsb2coc2VsZiwgbWVzc2FnZTogc3RyLCBsZXZlbDogc3RyID0gIklORk8iKToKICAgICAgICAiIiJMb2cgbWVzc2FnZXMgd2l0aCBhcHByb3ByaWF0ZSBmb3JtYXR0aW5nIiIiCiAgICAgICAgaWYgbGV2ZWwgPT0gIkVSUk9SIjoKICAgICAgICAgICAgcHJpbnQoZiLinYwge21lc3NhZ2V9IikKICAgICAgICAgICAgc2VsZi5lcnJvcnMuYXBwZW5kKG1lc3NhZ2UpCiAgICAgICAgZWxpZiBsZXZlbCA9PSAiV0FSTklORyI6CiAgICAgICAgICAgIHByaW50KGYi4pqg77iPICB7bWVzc2FnZX0iKQogICAgICAgICAgICBzZWxmLndhcm5pbmdzLmFwcGVuZChtZXNzYWdlKQogICAgICAgIGVsaWYgbGV2ZWwgPT0gIlNVQ0NFU1MiOgogICAgICAgICAgICBwcmludChmIuKchSB7bWVzc2FnZX0iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIHNlbGYudmVyYm9zZToKICAgICAgICAgICAgICAgIHByaW50KGYi4oS577iPICB7bWVzc2FnZX0iKQoKICAgIGRlZiBydW5fY29tbWFuZChzZWxmLCBjbWQ6IExpc3Rbc3RyXSwgZGVzY3JpcHRpb246IHN0cikgLT4gVHVwbGVbYm9vbCwgc3RyXToKICAgICAgICAiIiJSdW4gYSBjb21tYW5kIGFuZCByZXR1cm4gc3VjY2VzcyBzdGF0dXMgYW5kIG91dHB1dCIiIgogICAgICAgIHRyeToKICAgICAgICAgICAgc2VsZi5sb2coZiJSdW5uaW5nOiB7ZGVzY3JpcHRpb259IiwgIklORk8iKQogICAgICAgICAgICByZXN1bHQgPSBzdWJwcm9jZXNzLnJ1bigKICAgICAgICAgICAgICAgIGNtZCwKICAgICAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsCiAgICAgICAgICAgICAgICB0ZXh0PVRydWUsCiAgICAgICAgICAgICAgICBjaGVjaz1GYWxzZQogICAgICAgICAgICApCgogICAgICAgICAgICBpZiByZXN1bHQucmV0dXJuY29kZSA9PSAwOgogICAgICAgICAgICAgICAgc2VsZi5sb2coZiJ7ZGVzY3JpcHRpb259IC0gUEFTU0VEIiwgIlNVQ0NFU1MiKQogICAgICAgICAgICAgICAgcmV0dXJuIFRydWUsIHJlc3VsdC5zdGRvdXQKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYubG9nKGYie2Rlc2NyaXB0aW9ufSAtIEZBSUxFRCIsICJFUlJPUiIpCiAgICAgICAgICAgICAgICBpZiByZXN1bHQuc3RkZXJyOgogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nKGYiRXJyb3I6IHtyZXN1bHQuc3RkZXJyLnN0cmlwKCl9IiwgIkVSUk9SIikKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZSwgcmVzdWx0LnN0ZGVycgoKICAgICAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgICAgIHNlbGYubG9nKGYie2Rlc2NyaXB0aW9ufSAtIFNLSVBQRUQgKGNvbW1hbmQgbm90IGZvdW5kKSIsICJXQVJOSU5HIikKICAgICAgICAgICAgcmV0dXJuIFRydWUsICJDb21tYW5kIG5vdCBmb3VuZCIKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHNlbGYubG9nKGYie2Rlc2NyaXB0aW9ufSAtIEVSUk9SOiB7ZX0iLCAiRVJST1IiKQogICAgICAgICAgICByZXR1cm4gRmFsc2UsIHN0cihlKQoKICAgIGRlZiB2YWxpZGF0ZV95YW1sX3N5bnRheChzZWxmKSAtPiBib29sOgogICAgICAgICIiIlZhbGlkYXRlIFlBTUwgc3ludGF4IGZvciBhbGwgZmlsZXMiIiIKICAgICAgICBzZWxmLmxvZygi8J+UjSBWYWxpZGF0aW5nIFlBTUwgc3ludGF4Li4uIikKCiAgICAgICAgeWFtbF9maWxlcyA9IFtdCiAgICAgICAgZm9yIHBhdHRlcm4gaW4gWydrdWJlcm5ldGVzLyoqLyoueWFtbCcsICdrdWJlcm5ldGVzLyoqLyoueW1sJywgJy5naXRodWIvKiovKi55YW1sJywgJy5naXRodWIvKiovKi55bWwnXToKICAgICAgICAgICAgeWFtbF9maWxlcy5leHRlbmQoUGF0aCgnLicpLmdsb2IocGF0dGVybikpCgogICAgICAgIGZhaWxlZF9maWxlcyA9IFtdCiAgICAgICAgZm9yIHlhbWxfZmlsZSBpbiB5YW1sX2ZpbGVzOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBpbXBvcnQgeWFtbAogICAgICAgICAgICAgICAgd2l0aCBvcGVuKHlhbWxfZmlsZSwgJ3InLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgogICAgICAgICAgICAgICAgICAgIHlhbWwuc2FmZV9sb2FkX2FsbChmLnJlYWQoKSkKICAgICAgICAgICAgZXhjZXB0IHlhbWwuWUFNTEVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICBmYWlsZWRfZmlsZXMuYXBwZW5kKGYie3lhbWxfZmlsZX06IHtlfSIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIGZhaWxlZF9maWxlcy5hcHBlbmQoZiJ7eWFtbF9maWxlfToge2V9IikKCiAgICAgICAgaWYgZmFpbGVkX2ZpbGVzOgogICAgICAgICAgICBmb3IgZXJyb3IgaW4gZmFpbGVkX2ZpbGVzOgogICAgICAgICAgICAgICAgc2VsZi5sb2coZiJZQU1MIHN5bnRheCBlcnJvcjoge2Vycm9yfSIsICJFUlJPUiIpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgICAgICBzZWxmLmxvZyhmIllBTUwgc3ludGF4IHZhbGlkYXRpb24gcGFzc2VkIGZvciB7bGVuKHlhbWxfZmlsZXMpfSBmaWxlcyIsICJTVUNDRVNTIikKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIGRlZiB2YWxpZGF0ZV9rdXN0b21pemF0aW9ucyhzZWxmKSAtPiBib29sOgogICAgICAgICIiIlZhbGlkYXRlIEt1c3RvbWl6YXRpb24gZmlsZXMgYWdhaW5zdCBzY2hlbWEiIiIKICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoJ3NjcmlwdHMvdmFsaWRhdGUta3VzdG9taXphdGlvbnMucHknKToKICAgICAgICAgICAgc2VsZi5sb2coIkt1c3RvbWl6YXRpb24gdmFsaWRhdG9yIG5vdCBmb3VuZCIsICJXQVJOSU5HIikKICAgICAgICAgICAgcmV0dXJuIFRydWUKCiAgICAgICAgcmV0dXJuIHNlbGYucnVuX2NvbW1hbmQoWwogICAgICAgICAgICAncHl0aG9uMycsICdzY3JpcHRzL3ZhbGlkYXRlLWt1c3RvbWl6YXRpb25zLnB5JwogICAgICAgIF0sICJLdXN0b21pemF0aW9uIHNjaGVtYSB2YWxpZGF0aW9uIilbMF0KCiAgICBkZWYgdmFsaWRhdGVfc2NoZW1hX2FsaWdubWVudChzZWxmKSAtPiBib29sOgogICAgICAgICIiIlZhbGlkYXRlIHNjaGVtYS9hcGlWZXJzaW9uIGFsaWdubWVudCIiIgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cygnc2NyaXB0cy92YWxpZGF0ZS1zY2hlbWEtYWxpZ25tZW50LnB5Jyk6CiAgICAgICAgICAgIHNlbGYubG9nKCJTY2hlbWEgYWxpZ25tZW50IHZhbGlkYXRvciBub3QgZm91bmQiLCAiV0FSTklORyIpCiAgICAgICAgICAgIHJldHVybiBUcnVlCgogICAgICAgIHJldHVybiBzZWxmLnJ1bl9jb21tYW5kKFsKICAgICAgICAgICAgJ3B5dGhvbjMnLCAnc2NyaXB0cy92YWxpZGF0ZS1zY2hlbWEtYWxpZ25tZW50LnB5JwogICAgICAgIF0sICJTY2hlbWEgYWxpZ25tZW50IHZhbGlkYXRpb24iKVswXQoKICAgIGRlZiB2YWxpZGF0ZV9zZWN1cml0eShzZWxmKSAtPiBib29sOgogICAgICAgICIiIlJ1biBzZWN1cml0eSB2YWxpZGF0aW9ucyIiIgogICAgICAgIHNlbGYubG9nKCLwn5SSIFJ1bm5pbmcgc2VjdXJpdHkgdmFsaWRhdGlvbnMuLi4iKQoKICAgICAgICBzZWN1cml0eV9wYXNzZWQgPSBUcnVlCgogICAgICAgICMgRmlsZXMvZGlyZWN0b3JpZXMgdG8gZXhjbHVkZSBmcm9tIHNlY3JldCBjaGVja2luZwogICAgICAgIGV4Y2x1ZGVkX3BhdHRlcm5zID0gWwogICAgICAgICAgICAnZXh0ZXJuYWxzZWNyZXQnLAogICAgICAgICAgICAnY2x1c3RlcnNlY3JldHN0b3JlJywKICAgICAgICAgICAgJ3NlY3JldHN0b3JlJywKICAgICAgICAgICAgJ3RhbG9zL2NsdXN0ZXJjb25maWcnLCAgIyBUYWxvcyBjb25maWdzIGhhdmUgY2VydGlmaWNhdGVzL2tleXMKICAgICAgICBdCgogICAgICAgICMgU2FmZSBrZXkgcGF0dGVybnMgdGhhdCBhcmUgbm90IGFjdHVhbCBzZWNyZXRzCiAgICAgICAgc2FmZV9rZXlfcGF0dGVybnMgPSBbCiAgICAgICAgICAgICdzZWNyZXRuYW1lJywKICAgICAgICAgICAgJ3NlY3JldGtleXJlZicsCiAgICAgICAgICAgICdzZWNyZXRzdG9yZScsCiAgICAgICAgICAgICdzZWNyZXRzdG9yZXJlZicsCiAgICAgICAgICAgICdzZWNyZXRrZXknLAogICAgICAgICAgICAnc2VjcmV0a2V5c2VsZWN0b3InLAogICAgICAgICAgICAnc2VjcmV0YWNjZXNza2V5aWQnLCAgIyBBV1MgY29uZmlnIGtleSBuYW1lLCBub3QgdGhlIHNlY3JldCBpdHNlbGYKICAgICAgICAgICAgJ2V4dHJhdmFyc3NlY3JldCcsICAjIFJlZmVyZW5jZSB0byBzZWNyZXQsIG5vdCB0aGUgc2VjcmV0IGl0c2VsZgogICAgICAgICAgICAnZW52dmFyc3NlY3JldCcsCiAgICAgICAgICAgICdzZWNyZXRyZWYnLAogICAgICAgICAgICAnc2VjcmV0a2V5cmVmJywKICAgICAgICAgICAgJ3NlY3JldG5hbWUnLAogICAgICAgICAgICAnc2VjcmV0a2V5cmVmJywKICAgICAgICAgICAgIyBDb21tb24gSGVsbSB2YWx1ZXMgcGF0dGVybnMgdGhhdCBhcmUgcmVmZXJlbmNlcywgbm90IHZhbHVlcwogICAgICAgICAgICAnc2VjcmV0bmFtZScsCiAgICAgICAgICAgICdzZWNyZXRrZXknLAogICAgICAgICAgICAnZXhpc3RpbmdzZWNyZXQnLAogICAgICAgICAgICAnc2VjcmV0cmVmJywKICAgICAgICBdCgogICAgICAgICMgUGF0dGVybnMgdGhhdCBpbmRpY2F0ZSB0aGUgdmFsdWUgaXMgYSByZWZlcmVuY2UsIG5vdCBhIHNlY3JldAogICAgICAgIHJlZmVyZW5jZV9wYXR0ZXJucyA9IFsKICAgICAgICAgICAgcideXHMqIycsICAjIENvbW1lbnRzCiAgICAgICAgICAgIHInc2VjcmV0bmFtZScsCiAgICAgICAgICAgIHInc2VjcmV0a2V5cmVmJywKICAgICAgICAgICAgcidzZWNyZXRzdG9yZXJlZicsCiAgICAgICAgICAgIHInZXhpc3RpbmdzZWNyZXQnLAogICAgICAgICAgICByJ2Zyb21zZWNyZXQnLAogICAgICAgICAgICByJ3NlY3JldHJlZicsCiAgICAgICAgXQoKICAgICAgICAjIFBhdHRlcm5zIHRoYXQgaW5kaWNhdGUgYWN0dWFsIHNlY3JldCB2YWx1ZXMgKG5vdCBqdXN0IGtleXMpCiAgICAgICAgc2VjcmV0X3ZhbHVlX3BhdHRlcm5zID0gWwogICAgICAgICAgICByJ3Bhc3N3b3JkOlxzK1siXCddP1thLXpBLVowLTkrLz1dezIwLH0nLCAgIyBMb25nIGJhc2U2NC1saWtlIG9yIGFscGhhbnVtZXJpYwogICAgICAgICAgICByJ3Rva2VuOlxzK1siXCddP1thLXpBLVowLTkrLz1dezIwLH0nLAogICAgICAgICAgICByJ3NlY3JldDpccytbIlwnXT9bYS16QS1aMC05Ky89XXsyMCx9JywKICAgICAgICAgICAgcidrZXk6XHMrWyJcJ10/W2EtekEtWjAtOSsvPV17MjAsfScsCiAgICAgICAgICAgIHIncGFzc3dvcmQ6XHMrWyJcJ10/W14iXCdcc117MTIsfScsICAjIExvbmcgbm9uLXdoaXRlc3BhY2UgdmFsdWUKICAgICAgICAgICAgcid0b2tlbjpccytbIlwnXT9bXiJcJ1xzXXsxMix9JywKICAgICAgICAgICAgcidzZWNyZXQ6XHMrWyJcJ10/W14iXCdcc117MTIsfScsCiAgICAgICAgXQoKICAgICAgICB5YW1sX2ZpbGVzID0gbGlzdChQYXRoKCdrdWJlcm5ldGVzJykuZ2xvYignKiovKi55YW1sJykpCgogICAgICAgICMgQ2hlY2sgZm9yIGhhcmRjb2RlZCBzZWNyZXRzCiAgICAgICAgZm9yIHlhbWxfZmlsZSBpbiB5YW1sX2ZpbGVzOgogICAgICAgICAgICBmaWxlX3N0ciA9IHN0cih5YW1sX2ZpbGUpCgogICAgICAgICAgICAjIFNraXAgZXhjbHVkZWQgZmlsZXMKICAgICAgICAgICAgaWYgYW55KGV4Y2x1ZGVkIGluIGZpbGVfc3RyLmxvd2VyKCkgZm9yIGV4Y2x1ZGVkIGluIGV4Y2x1ZGVkX3BhdHRlcm5zKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oeWFtbF9maWxlLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIGY6CiAgICAgICAgICAgICAgICAgICAgbGluZXMgPSBmLnJlYWRsaW5lcygpCgogICAgICAgICAgICAgICAgIyBDaGVjayBlYWNoIGxpbmUgZm9yIHNlY3JldCBwYXR0ZXJucwogICAgICAgICAgICAgICAgZm9yIGxpbmVfbnVtLCBsaW5lIGluIGVudW1lcmF0ZShsaW5lcywgMSk6CiAgICAgICAgICAgICAgICAgICAgIyBTa2lwIGNvbW1lbnRzCiAgICAgICAgICAgICAgICAgICAgaWYgbGluZS5zdHJpcCgpLnN0YXJ0c3dpdGgoJyMnKToKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICAgICAgIyBTa2lwIGlmIGl0J3MgYSBrZXkgcmVmZXJlbmNlIChub3QgYSB2YWx1ZSkKICAgICAgICAgICAgICAgICAgICBsaW5lX2xvd2VyID0gbGluZS5sb3dlcigpCiAgICAgICAgICAgICAgICAgICAgaWYgYW55KHNhZmVfcGF0dGVybiBpbiBsaW5lX2xvd2VyIGZvciBzYWZlX3BhdHRlcm4gaW4gc2FmZV9rZXlfcGF0dGVybnMpOgogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgICAgICAgICAjIENoZWNrIGZvciBhY3R1YWwgc2VjcmV0IHZhbHVlcyAobG9uZyBzdHJpbmdzIHRoYXQgbG9vayBsaWtlIHNlY3JldHMpCiAgICAgICAgICAgICAgICAgICAgZm9yIHBhdHRlcm4gaW4gc2VjcmV0X3ZhbHVlX3BhdHRlcm5zOgogICAgICAgICAgICAgICAgICAgICAgICBpZiByZS5zZWFyY2gocGF0dGVybiwgbGluZSwgcmUuSUdOT1JFQ0FTRSk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIEFkZGl0aW9uYWwgY2hlY2s6IG1ha2Ugc3VyZSBpdCdzIG5vdCBqdXN0IGEgZmllbGQgbmFtZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBJZiBpdCdzIGZvbGxvd2VkIGJ5IGEgY29sb24gYW5kIHRoZW4gYSB2YWx1ZSwgaXQncyBsaWtlbHkgYSBzZWNyZXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICc6JyBpbiBsaW5lOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlX3BhcnQgPSBsaW5lLnNwbGl0KCc6JywgMSlbMV0uc3RyaXAoKQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIFJlbW92ZSBxdW90ZXMgaWYgcHJlc2VudAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlX3BhcnQgPSB2YWx1ZV9wYXJ0LnN0cmlwKCciXCcnKS5zdHJpcCgpCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgU2tpcCBpZiBpdCBsb29rcyBsaWtlIGEgdGVtcGxhdGUgdmFyaWFibGUgb3IgcmVmZXJlbmNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgYW55KHJlZiBpbiB2YWx1ZV9wYXJ0IGZvciByZWYgaW4gWycke3snLCAne3snLCAnJCR7JywgJ3JlZjonLCAnc2VjcmV0S2V5UmVmJywgJ3ZhbHVlRnJvbScsICduYW1lOicsICdrZXk6JywgJ2Zyb21TZWNyZXQnLCAnZXhpc3RpbmdTZWNyZXQnXSk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgU2tpcCBpZiB0aGUgbGluZSBjb250YWlucyByZWZlcmVuY2UgcGF0dGVybnMgKGxpa2Ugc2VjcmV0TmFtZSwgc2VjcmV0S2V5UmVmLCBldGMuKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGFueShyZWZfcGF0dGVybiBpbiBsaW5lX2xvd2VyIGZvciByZWZfcGF0dGVybiBpbiByZWZlcmVuY2VfcGF0dGVybnMpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIFNraXAgaWYgaXQncyBqdXN0IGEgc2VjcmV0IG5hbWUgKHNob3J0LCBubyBzcGVjaWFsIGNoYXJzLCBsb29rcyBsaWtlIGEgazhzIHJlc291cmNlIG5hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBCdXQgYmUgbW9yZSBzdHJpY3QgLSBpZiBpdCdzIGluIGEgdmFsdWVzLnlhbWwgb3Igc2VjcmV0cy55YW1sLCBpdCBtaWdodCBiZSBhIHJlYWwgc2VjcmV0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgcmUubWF0Y2gocideW2EtejAtOS1dKyQnLCB2YWx1ZV9wYXJ0KSBhbmQgbGVuKHZhbHVlX3BhcnQpIDwgNTA6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgU2tpcCBpZiB0aGUga2V5IG5hbWUgY29udGFpbnMgInNlY3JldCIsICJrZXkiLCAidG9rZW4iLCBvciAicGFzc3dvcmQiIC0gdGhlc2UgYXJlIGxpa2VseSByZWZlcmVuY2VzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleV9wYXJ0ID0gbGluZS5zcGxpdCgnOicsIDEpWzBdLnN0cmlwKCkubG93ZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAnc2VjcmV0JyBpbiBrZXlfcGFydCBvciAna2V5JyBpbiBrZXlfcGFydCBvciAndG9rZW4nIGluIGtleV9wYXJ0IG9yICdwYXNzd29yZCcgaW4ga2V5X3BhcnQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIEFsc28gc2tpcCBpZiB0aGUga2V5IG5hbWUgZW5kcyB3aXRoICJTZWNyZXQiIG9yICJLZXkiIChsaWtlIGdpdGh1YkNvbmZpZ1NlY3JldCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYga2V5X3BhcnQuZW5kc3dpdGgoJ3NlY3JldCcpIG9yIGtleV9wYXJ0LmVuZHN3aXRoKCdrZXknKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgU2tpcCBjb21tZW50ZWQgb3V0IGxpbmVzIChjb21tb24gaW4gdmFsdWVzLnlhbWwgZm9yIGV4YW1wbGVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGxpbmUuc3RyaXAoKS5zdGFydHN3aXRoKCcjJyk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgT25seSB3YXJuIGlmIGl0J3MgYSBsb25nIHZhbHVlIHRoYXQgbG9va3MgbGlrZSBhbiBhY3R1YWwgc2VjcmV0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBGb3IgdmFsdWVzLnlhbWwgYW5kIHNlY3JldHMueWFtbCwgYmUgbW9yZSBzdHJpY3QgLSByZXF1aXJlIGxvbmdlciB2YWx1ZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW5fbGVuZ3RoID0gMjAgaWYgJ3ZhbHVlcy55YW1sJyBpbiBmaWxlX3N0ciBvciAnc2VjcmV0cy55YW1sJyBpbiBmaWxlX3N0ciBlbHNlIDEyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgbGVuKHZhbHVlX3BhcnQpID4gbWluX2xlbmd0aDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2coZiJQb3RlbnRpYWwgaGFyZGNvZGVkIHNlY3JldCBpbiB7eWFtbF9maWxlfTp7bGluZV9udW19IiwgIldBUk5JTkciKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgIyBDaGVjayBmb3IgcHJpdmlsZWdlZCBjb250YWluZXJzCiAgICAgICAgcHJpdmlsZWdlZF9maWxlcyA9IFtdCiAgICAgICAgZm9yIHlhbWxfZmlsZSBpbiB5YW1sX2ZpbGVzOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oeWFtbF9maWxlLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIGY6CiAgICAgICAgICAgICAgICAgICAgY29udGVudCA9IGYucmVhZCgpCiAgICAgICAgICAgICAgICAgICAgaWYgJ3ByaXZpbGVnZWQ6IHRydWUnIGluIGNvbnRlbnQ6CiAgICAgICAgICAgICAgICAgICAgICAgIHByaXZpbGVnZWRfZmlsZXMuYXBwZW5kKHN0cih5YW1sX2ZpbGUpKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgaWYgcHJpdmlsZWdlZF9maWxlczoKICAgICAgICAgICAgZm9yIGZpbGUgaW4gcHJpdmlsZWdlZF9maWxlczoKICAgICAgICAgICAgICAgIHNlbGYubG9nKGYiUHJpdmlsZWdlZCBjb250YWluZXIgZm91bmQgaW4ge2ZpbGV9IiwgIldBUk5JTkciKQoKICAgICAgICByZXR1cm4gc2VjdXJpdHlfcGFzc2VkCgogICAgZGVmIHZhbGlkYXRlX2RvY3VtZW50YXRpb24oc2VsZikgLT4gYm9vbDoKICAgICAgICAiIiJWYWxpZGF0ZSBkb2N1bWVudGF0aW9uIGNvbXBsZXRlbmVzcyIiIgogICAgICAgIHNlbGYubG9nKCLwn5OaIFZhbGlkYXRpbmcgZG9jdW1lbnRhdGlvbi4uLiIpCgogICAgICAgIHJlcXVpcmVkX2RvY3MgPSBbJ1JFQURNRS5tZCcsICdDT05UUklCVVRJTkcubWQnLCAnU0VDVVJJVFkubWQnXQogICAgICAgIG1pc3NpbmdfZG9jcyA9IFtdCgogICAgICAgIGZvciBkb2MgaW4gcmVxdWlyZWRfZG9jczoKICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGRvYyk6CiAgICAgICAgICAgICAgICBtaXNzaW5nX2RvY3MuYXBwZW5kKGRvYykKCiAgICAgICAgaWYgbWlzc2luZ19kb2NzOgogICAgICAgICAgICBmb3IgZG9jIGluIG1pc3NpbmdfZG9jczoKICAgICAgICAgICAgICAgIHNlbGYubG9nKGYiTWlzc2luZyBkb2N1bWVudGF0aW9uOiB7ZG9jfSIsICJXQVJOSU5HIikKCiAgICAgICAgIyBDaGVjayBmb3IgVE9ETyBjb21tZW50cwogICAgICAgIHRvZG9fZmlsZXMgPSBbXQogICAgICAgIGZvciB5YW1sX2ZpbGUgaW4gUGF0aCgna3ViZXJuZXRlcycpLmdsb2IoJyoqLyoueWFtbCcpOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oeWFtbF9maWxlLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIGY6CiAgICAgICAgICAgICAgICAgICAgY29udGVudCA9IGYucmVhZCgpCiAgICAgICAgICAgICAgICAgICAgaWYgJ1RPRE8nIGluIGNvbnRlbnQgb3IgJ0ZJWE1FJyBpbiBjb250ZW50OgogICAgICAgICAgICAgICAgICAgICAgICB0b2RvX2ZpbGVzLmFwcGVuZChzdHIoeWFtbF9maWxlKSkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIGlmIHRvZG9fZmlsZXM6CiAgICAgICAgICAgIHNlbGYubG9nKGYiRm91bmQgVE9ETy9GSVhNRSBjb21tZW50cyBpbiB7bGVuKHRvZG9fZmlsZXMpfSBmaWxlcyIsICJXQVJOSU5HIikKICAgICAgICAgICAgaWYgc2VsZi52ZXJib3NlOgogICAgICAgICAgICAgICAgZm9yIGZpbGUgaW4gdG9kb19maWxlczoKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZyhmIiAgLSB7ZmlsZX0iLCAiSU5GTyIpCgogICAgICAgIHJldHVybiBUcnVlCgogICAgZGVmIHZhbGlkYXRlX3N0cnVjdHVyZShzZWxmKSAtPiBib29sOgogICAgICAgICIiIlZhbGlkYXRlIHJlcG9zaXRvcnkgc3RydWN0dXJlIiIiCiAgICAgICAgc2VsZi5sb2coIvCfj5fvuI8gIFZhbGlkYXRpbmcgcmVwb3NpdG9yeSBzdHJ1Y3R1cmUuLi4iKQoKICAgICAgICByZXF1aXJlZF9kaXJzID0gWwogICAgICAgICAgICAna3ViZXJuZXRlcy9hcHBzJywKICAgICAgICAgICAgJ2t1YmVybmV0ZXMvY2x1c3RlcnMnLAogICAgICAgICAgICAna3ViZXJuZXRlcy9jb21wb25lbnRzJywKICAgICAgICAgICAgJ3NjcmlwdHMnLAogICAgICAgICAgICAnLmdpdGh1Yi93b3JrZmxvd3MnCiAgICAgICAgXQoKICAgICAgICBtaXNzaW5nX2RpcnMgPSBbXQogICAgICAgIGZvciBkaXJfcGF0aCBpbiByZXF1aXJlZF9kaXJzOgogICAgICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoZGlyX3BhdGgpOgogICAgICAgICAgICAgICAgbWlzc2luZ19kaXJzLmFwcGVuZChkaXJfcGF0aCkKCiAgICAgICAgaWYgbWlzc2luZ19kaXJzOgogICAgICAgICAgICBmb3IgZGlyX3BhdGggaW4gbWlzc2luZ19kaXJzOgogICAgICAgICAgICAgICAgc2VsZi5sb2coZiJNaXNzaW5nIGRpcmVjdG9yeToge2Rpcl9wYXRofSIsICJFUlJPUiIpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgICAgICBzZWxmLmxvZygiUmVwb3NpdG9yeSBzdHJ1Y3R1cmUgdmFsaWRhdGlvbiBwYXNzZWQiLCAiU1VDQ0VTUyIpCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgcnVuX2FsbF92YWxpZGF0aW9ucyhzZWxmLCBza2lwOiBMaXN0W3N0cl0gPSBOb25lKSAtPiBib29sOgogICAgICAgICIiIlJ1biBhbGwgdmFsaWRhdGlvbiBjaGVja3MiIiIKICAgICAgICBpZiBza2lwIGlzIE5vbmU6CiAgICAgICAgICAgIHNraXAgPSBbXQoKICAgICAgICBwcmludCgi8J+agCBTdGFydGluZyBjb21wcmVoZW5zaXZlIHJlcG9zaXRvcnkgdmFsaWRhdGlvbi4uLiIpCiAgICAgICAgcHJpbnQoIj0iICogNjApCgogICAgICAgIHZhbGlkYXRpb25zID0gWwogICAgICAgICAgICAoJ3N0cnVjdHVyZScsIHNlbGYudmFsaWRhdGVfc3RydWN0dXJlKSwKICAgICAgICAgICAgKCd5YW1sJywgc2VsZi52YWxpZGF0ZV95YW1sX3N5bnRheCksCiAgICAgICAgICAgICgna3VzdG9taXphdGlvbnMnLCBzZWxmLnZhbGlkYXRlX2t1c3RvbWl6YXRpb25zKSwKICAgICAgICAgICAgKCdzY2hlbWFzJywgc2VsZi52YWxpZGF0ZV9zY2hlbWFfYWxpZ25tZW50KSwKICAgICAgICAgICAgKCdzZWN1cml0eScsIHNlbGYudmFsaWRhdGVfc2VjdXJpdHkpLAogICAgICAgICAgICAoJ2RvY3VtZW50YXRpb24nLCBzZWxmLnZhbGlkYXRlX2RvY3VtZW50YXRpb24pLAogICAgICAgIF0KCiAgICAgICAgcmVzdWx0cyA9IHt9CiAgICAgICAgZm9yIG5hbWUsIHZhbGlkYXRpb25fZnVuYyBpbiB2YWxpZGF0aW9uczoKICAgICAgICAgICAgaWYgbmFtZSBpbiBza2lwOgogICAgICAgICAgICAgICAgc2VsZi5sb2coZiJTa2lwcGluZyB7bmFtZX0gdmFsaWRhdGlvbiIsICJJTkZPIikKICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICByZXN1bHRzW25hbWVdID0gdmFsaWRhdGlvbl9mdW5jKCkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgc2VsZi5sb2coZiJWYWxpZGF0aW9uIHtuYW1lfSBmYWlsZWQgd2l0aCBleGNlcHRpb246IHtlfSIsICJFUlJPUiIpCiAgICAgICAgICAgICAgICByZXN1bHRzW25hbWVdID0gRmFsc2UKCiAgICAgICAgIyBQcmludCBzdW1tYXJ5CiAgICAgICAgcHJpbnQoIlxuIiArICI9IiAqIDYwKQogICAgICAgIHByaW50KCLwn5OKIFZhbGlkYXRpb24gU3VtbWFyeSIpCiAgICAgICAgcHJpbnQoIj0iICogNjApCgogICAgICAgIHBhc3NlZCA9IHN1bSgxIGZvciByZXN1bHQgaW4gcmVzdWx0cy52YWx1ZXMoKSBpZiByZXN1bHQpCiAgICAgICAgdG90YWwgPSBsZW4ocmVzdWx0cykKCiAgICAgICAgZm9yIG5hbWUsIHJlc3VsdCBpbiByZXN1bHRzLml0ZW1zKCk6CiAgICAgICAgICAgIHN0YXR1cyA9ICLinIUgUEFTU0VEIiBpZiByZXN1bHQgZWxzZSAi4p2MIEZBSUxFRCIKICAgICAgICAgICAgcHJpbnQoZiIgIHtuYW1lLmNhcGl0YWxpemUoKTo8MTV9IHtzdGF0dXN9IikKCiAgICAgICAgcHJpbnQoZiJcblJlc3VsdHM6IHtwYXNzZWR9L3t0b3RhbH0gdmFsaWRhdGlvbnMgcGFzc2VkIikKCiAgICAgICAgaWYgc2VsZi5lcnJvcnM6CiAgICAgICAgICAgIHByaW50KGYiXG7inYwgRXJyb3JzICh7bGVuKHNlbGYuZXJyb3JzKX0pOiIpCiAgICAgICAgICAgIGZvciBlcnJvciBpbiBzZWxmLmVycm9yczoKICAgICAgICAgICAgICAgIHByaW50KGYiICAtIHtlcnJvcn0iKQoKICAgICAgICBpZiBzZWxmLndhcm5pbmdzOgogICAgICAgICAgICBwcmludChmIlxu4pqg77iPICBXYXJuaW5ncyAoe2xlbihzZWxmLndhcm5pbmdzKX0pOiIpCiAgICAgICAgICAgIGZvciB3YXJuaW5nIGluIHNlbGYud2FybmluZ3M6CiAgICAgICAgICAgICAgICBwcmludChmIiAgLSB7d2FybmluZ30iKQoKICAgICAgICBzdWNjZXNzID0gYWxsKHJlc3VsdHMudmFsdWVzKCkpIGFuZCBsZW4oc2VsZi5lcnJvcnMpID09IDAKCiAgICAgICAgaWYgc3VjY2VzczoKICAgICAgICAgICAgcHJpbnQoIlxu8J+OiSBBbGwgdmFsaWRhdGlvbnMgcGFzc2VkISBSZXBvc2l0b3J5IGlzIGluIGdvb2Qgc2hhcGUuIikKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgiXG7wn5KlIFNvbWUgdmFsaWRhdGlvbnMgZmFpbGVkLiBQbGVhc2UgYWRkcmVzcyB0aGUgaXNzdWVzIGFib3ZlLiIpCgogICAgICAgIHJldHVybiBzdWNjZXNzCgoKZGVmIG1haW4oKToKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKAogICAgICAgIGRlc2NyaXB0aW9uPSdDb21wcmVoZW5zaXZlIHJlcG9zaXRvcnkgdmFsaWRhdGlvbicsCiAgICAgICAgZm9ybWF0dGVyX2NsYXNzPWFyZ3BhcnNlLlJhd0Rlc2NyaXB0aW9uSGVscEZvcm1hdHRlciwKICAgICAgICBlcGlsb2c9IiIiCkV4YW1wbGVzOgogICUocHJvZylzICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBSdW4gYWxsIHZhbGlkYXRpb25zCiAgJShwcm9nKXMgLS12ZXJib3NlICAgICAgICAgICAgICAgICAjIFJ1biB3aXRoIGRldGFpbGVkIG91dHB1dAogICUocHJvZylzIC0tc2tpcCBzZWN1cml0eSAgICAgICAgICAgIyBTa2lwIHNlY3VyaXR5IHZhbGlkYXRpb24KICAlKHByb2cpcyAtLWt1c3RvbWl6YXRpb25zIC0tc2NoZW1hcyAjIFJ1biBvbmx5IHNwZWNpZmljIHZhbGlkYXRpb25zCiAgICAgICAgIiIiCiAgICApCgogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS12ZXJib3NlJywgJy12JywgYWN0aW9uPSdzdG9yZV90cnVlJywgaGVscD0nRW5hYmxlIHZlcmJvc2Ugb3V0cHV0JykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tc2tpcCcsIG5hcmdzPScrJywgaGVscD0nU2tpcCBzcGVjaWZpYyB2YWxpZGF0aW9ucycsCiAgICAgICAgICAgICAgICAgICAgICAgY2hvaWNlcz1bJ3N0cnVjdHVyZScsICd5YW1sJywgJ2t1c3RvbWl6YXRpb25zJywgJ3NjaGVtYXMnLCAnc2VjdXJpdHknLCAnZG9jdW1lbnRhdGlvbiddKQoKICAgICMgSW5kaXZpZHVhbCB2YWxpZGF0aW9uIGZsYWdzCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLXN0cnVjdHVyZScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J1J1biBvbmx5IHN0cnVjdHVyZSB2YWxpZGF0aW9uJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0teWFtbCcsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J1J1biBvbmx5IFlBTUwgc3ludGF4IHZhbGlkYXRpb24nKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1rdXN0b21pemF0aW9ucycsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J1J1biBvbmx5IEt1c3RvbWl6YXRpb24gdmFsaWRhdGlvbicpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLXNjaGVtYXMnLCBhY3Rpb249J3N0b3JlX3RydWUnLCBoZWxwPSdSdW4gb25seSBzY2hlbWEgYWxpZ25tZW50IHZhbGlkYXRpb24nKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1zZWN1cml0eScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J1J1biBvbmx5IHNlY3VyaXR5IHZhbGlkYXRpb24nKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1kb2N1bWVudGF0aW9uJywgYWN0aW9uPSdzdG9yZV90cnVlJywgaGVscD0nUnVuIG9ubHkgZG9jdW1lbnRhdGlvbiB2YWxpZGF0aW9uJykKCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQoKICAgICMgQ2hlY2sgaWYgc3BlY2lmaWMgdmFsaWRhdGlvbnMgd2VyZSByZXF1ZXN0ZWQKICAgIHNwZWNpZmljX3ZhbGlkYXRpb25zID0gWwogICAgICAgIG5hbWUgZm9yIG5hbWUgaW4gWydzdHJ1Y3R1cmUnLCAneWFtbCcsICdrdXN0b21pemF0aW9ucycsICdzY2hlbWFzJywgJ3NlY3VyaXR5JywgJ2RvY3VtZW50YXRpb24nXQogICAgICAgIGlmIGdldGF0dHIoYXJncywgbmFtZSkKICAgIF0KCiAgICB2YWxpZGF0b3IgPSBSZXBvc2l0b3J5VmFsaWRhdG9yKHZlcmJvc2U9YXJncy52ZXJib3NlKQoKICAgIGlmIHNwZWNpZmljX3ZhbGlkYXRpb25zOgogICAgICAgICMgUnVuIG9ubHkgc3BlY2lmaWMgdmFsaWRhdGlvbnMKICAgICAgICBzdWNjZXNzID0gVHJ1ZQogICAgICAgIGZvciB2YWxpZGF0aW9uIGluIHNwZWNpZmljX3ZhbGlkYXRpb25zOgogICAgICAgICAgICB2YWxpZGF0aW9uX2Z1bmMgPSBnZXRhdHRyKHZhbGlkYXRvciwgZid2YWxpZGF0ZV97dmFsaWRhdGlvbn0nKQogICAgICAgICAgICBpZiBub3QgdmFsaWRhdGlvbl9mdW5jKCk6CiAgICAgICAgICAgICAgICBzdWNjZXNzID0gRmFsc2UKICAgIGVsc2U6CiAgICAgICAgIyBSdW4gYWxsIHZhbGlkYXRpb25zCiAgICAgICAgc3VjY2VzcyA9IHZhbGlkYXRvci5ydW5fYWxsX3ZhbGlkYXRpb25zKHNraXA9YXJncy5za2lwIG9yIFtdKQoKICAgIHN5cy5leGl0KDAgaWYgc3VjY2VzcyBlbHNlIDEpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""
+Comprehensive Repository Validator
+
+Runs all validation checks for the Kubernetes infrastructure repository.
+This script combines multiple validation tools to ensure repository quality,
+security, and consistency.
+
+Usage:
+    python3 scripts/validate-repository.py [options]
+
+Examples:
+    # Run all validations
+    python3 scripts/validate-repository.py
+
+    # Run specific validation types
+    python3 scripts/validate-repository.py --kustomizations --schemas
+
+    # Skip certain validations
+    python3 scripts/validate-repository.py --skip security
+"""
+
+import os
+import sys
+import argparse
+import subprocess
+import re
+from pathlib import Path
+from typing import List, Dict, Tuple
+
+
+class RepositoryValidator:
+    """Comprehensive repository validation"""
+
+    def __init__(self, verbose: bool = False):
+        self.verbose = verbose
+        self.errors = []
+        self.warnings = []
+
+    def log(self, message: str, level: str = "INFO"):
+        """Log messages with appropriate formatting"""
+        if level == "ERROR":
+            print(f"❌ {message}")
+            self.errors.append(message)
+        elif level == "WARNING":
+            print(f"⚠️  {message}")
+            self.warnings.append(message)
+        elif level == "SUCCESS":
+            print(f"✅ {message}")
+        else:
+            if self.verbose:
+                print(f"ℹ️  {message}")
+
+    def run_command(self, cmd: List[str], description: str) -> Tuple[bool, str]:
+        """Run a command and return success status and output"""
+        try:
+            self.log(f"Running: {description}", "INFO")
+            result = subprocess.run(
+                cmd,
+                capture_output=True,
+                text=True,
+                check=False
+            )
+
+            if result.returncode == 0:
+                self.log(f"{description} - PASSED", "SUCCESS")
+                return True, result.stdout
+            else:
+                self.log(f"{description} - FAILED", "ERROR")
+                if result.stderr:
+                    self.log(f"Error: {result.stderr.strip()}", "ERROR")
+                return False, result.stderr
+
+        except FileNotFoundError:
+            self.log(f"{description} - SKIPPED (command not found)", "WARNING")
+            return True, "Command not found"
+        except Exception as e:
+            self.log(f"{description} - ERROR: {e}", "ERROR")
+            return False, str(e)
+
+    def validate_yaml_syntax(self) -> bool:
+        """Validate YAML syntax for all files"""
+        self.log("🔍 Validating YAML syntax...")
+
+        yaml_files = []
+        for pattern in ['kubernetes/**/*.yaml', 'kubernetes/**/*.yml', '.github/**/*.yaml', '.github/**/*.yml']:
+            yaml_files.extend(Path('.').glob(pattern))
+
+        failed_files = []
+        for yaml_file in yaml_files:
+            try:
+                import yaml
+                with open(yaml_file, 'r', encoding='utf-8') as f:
+                    yaml.safe_load_all(f.read())
+            except yaml.YAMLError as e:
+                failed_files.append(f"{yaml_file}: {e}")
+            except Exception as e:
+                failed_files.append(f"{yaml_file}: {e}")
+
+        if failed_files:
+            for error in failed_files:
+                self.log(f"YAML syntax error: {error}", "ERROR")
+            return False
+
+        self.log(f"YAML syntax validation passed for {len(yaml_files)} files", "SUCCESS")
+        return True
+
+    def validate_kustomizations(self) -> bool:
+        """Validate Kustomization files against schema"""
+        if not os.path.exists('scripts/validate-kustomizations.py'):
+            self.log("Kustomization validator not found", "WARNING")
+            return True
+
+        return self.run_command([
+            'python3', 'scripts/validate-kustomizations.py'
+        ], "Kustomization schema validation")[0]
+
+    def validate_schema_alignment(self) -> bool:
+        """Validate schema/apiVersion alignment"""
+        if not os.path.exists('scripts/validate-schema-alignment.py'):
+            self.log("Schema alignment validator not found", "WARNING")
+            return True
+
+        return self.run_command([
+            'python3', 'scripts/validate-schema-alignment.py'
+        ], "Schema alignment validation")[0]
+
+    def validate_security(self) -> bool:
+        """Run security validations"""
+        self.log("🔒 Running security validations...")
+
+        security_passed = True
+
+        # Files/directories to exclude from secret checking
+        excluded_patterns = [
+            'externalsecret',
+            'clustersecretstore',
+            'secretstore',
+            'talos/clusterconfig',  # Talos configs have certificates/keys
+        ]
+
+        # Safe key patterns that are not actual secrets
+        safe_key_patterns = [
+            'secretname',
+            'secretkeyref',
+            'secretstore',
+            'secretstoreref',
+            'secretkey',
+            'secretkeyselector',
+            'secretaccesskeyid',  # AWS config key name, not the secret itself
+            'extravarssecret',  # Reference to secret, not the secret itself
+            'envvarssecret',
+            'secretref',
+            'secretkeyref',
+            'secretname',
+            'secretkeyref',
+            # Common Helm values patterns that are references, not values
+            'secretname',
+            'secretkey',
+            'existingsecret',
+            'secretref',
+        ]
+
+        # Patterns that indicate the value is a reference, not a secret
+        reference_patterns = [
+            r'^\s*#',  # Comments
+            r'secretname',
+            r'secretkeyref',
+            r'secretstoreref',
+            r'existingsecret',
+            r'fromsecret',
+            r'secretref',
+        ]
+
+        # Patterns that indicate actual secret values (not just keys)
+        secret_value_patterns = [
+            r'password:\s+["\']?[a-zA-Z0-9+/=]{20,}',  # Long base64-like or alphanumeric
+            r'token:\s+["\']?[a-zA-Z0-9+/=]{20,}',
+            r'secret:\s+["\']?[a-zA-Z0-9+/=]{20,}',
+            r'key:\s+["\']?[a-zA-Z0-9+/=]{20,}',
+            r'password:\s+["\']?[^"\'\s]{12,}',  # Long non-whitespace value
+            r'token:\s+["\']?[^"\'\s]{12,}',
+            r'secret:\s+["\']?[^"\'\s]{12,}',
+        ]
+
+        yaml_files = list(Path('kubernetes').glob('**/*.yaml'))
+
+        # Check for hardcoded secrets
+        for yaml_file in yaml_files:
+            file_str = str(yaml_file)
+
+            # Skip excluded files
+            if any(excluded in file_str.lower() for excluded in excluded_patterns):
+                continue
+
+            try:
+                with open(yaml_file, 'r', encoding='utf-8') as f:
+                    lines = f.readlines()
+
+                # Check each line for secret patterns
+                for line_num, line in enumerate(lines, 1):
+                    # Skip comments
+                    if line.strip().startswith('#'):
+                        continue
+
+                    # Skip if it's a key reference (not a value)
+                    line_lower = line.lower()
+                    if any(safe_pattern in line_lower for safe_pattern in safe_key_patterns):
+                        continue
+
+                    # Check for actual secret values (long strings that look like secrets)
+                    for pattern in secret_value_patterns:
+                        if re.search(pattern, line, re.IGNORECASE):
+                            # Additional check: make sure it's not just a field name
+                            # If it's followed by a colon and then a value, it's likely a secret
+                            if ':' in line:
+                                value_part = line.split(':', 1)[1].strip()
+
+                                # Remove quotes if present
+                                value_part = value_part.strip('"\'').strip()
+
+                                # Skip if it looks like a template variable or reference
+                                if any(ref in value_part for ref in ['${{', '{{', '$${', 'ref:', 'secretKeyRef', 'valueFrom', 'name:', 'key:', 'fromSecret', 'existingSecret']):
+                                    continue
+
+                                # Skip if the line contains reference patterns (like secretName, secretKeyRef, etc.)
+                                if any(ref_pattern in line_lower for ref_pattern in reference_patterns):
+                                    continue
+
+                                # Skip if it's just a secret name (short, no special chars, looks like a k8s resource name)
+                                # But be more strict - if it's in a values.yaml or secrets.yaml, it might be a real secret
+                                if re.match(r'^[a-z0-9-]+$', value_part) and len(value_part) < 50:
+                                    # Skip if the key name contains "secret", "key", "token", or "password" - these are likely references
+                                    key_part = line.split(':', 1)[0].strip().lower()
+                                    if 'secret' in key_part or 'key' in key_part or 'token' in key_part or 'password' in key_part:
+                                        continue
+                                    # Also skip if the key name ends with "Secret" or "Key" (like githubConfigSecret)
+                                    if key_part.endswith('secret') or key_part.endswith('key'):
+                                        continue
+
+                                # Skip commented out lines (common in values.yaml for examples)
+                                if line.strip().startswith('#'):
+                                    continue
+
+                                # Only warn if it's a long value that looks like an actual secret
+                                # For values.yaml and secrets.yaml, be more strict - require longer values
+                                min_length = 20 if 'values.yaml' in file_str or 'secrets.yaml' in file_str else 12
+                                if len(value_part) > min_length:
+                                    self.log(f"Potential hardcoded secret in {yaml_file}:{line_num}", "WARNING")
+                                    break
+            except Exception:
+                continue
+
+        # Check for privileged containers
+        privileged_files = []
+        for yaml_file in yaml_files:
+            try:
+                with open(yaml_file, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    if 'privileged: true' in content:
+                        privileged_files.append(str(yaml_file))
+            except Exception:
+                continue
+
+        if privileged_files:
+            for file in privileged_files:
+                self.log(f"Privileged container found in {file}", "WARNING")
+
+        return security_passed
+
+    def validate_documentation(self) -> bool:
+        """Validate documentation completeness"""
+        self.log("📚 Validating documentation...")
+
+        required_docs = ['README.md', 'CONTRIBUTING.md', 'SECURITY.md']
+        missing_docs = []
+
+        for doc in required_docs:
+            if not os.path.exists(doc):
+                missing_docs.append(doc)
+
+        if missing_docs:
+            for doc in missing_docs:
+                self.log(f"Missing documentation: {doc}", "WARNING")
+
+        # Check for TODO comments
+        todo_files = []
+        for yaml_file in Path('kubernetes').glob('**/*.yaml'):
+            try:
+                with open(yaml_file, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    if 'TODO' in content or 'FIXME' in content:
+                        todo_files.append(str(yaml_file))
+            except Exception:
+                continue
+
+        if todo_files:
+            self.log(f"Found TODO/FIXME comments in {len(todo_files)} files", "WARNING")
+            if self.verbose:
+                for file in todo_files:
+                    self.log(f"  - {file}", "INFO")
+
+        return True
+
+    def validate_structure(self) -> bool:
+        """Validate repository structure"""
+        self.log("🏗️  Validating repository structure...")
+
+        required_dirs = [
+            'kubernetes/apps',
+            'kubernetes/clusters',
+            'kubernetes/components',
+            'scripts',
+            '.github/workflows'
+        ]
+
+        missing_dirs = []
+        for dir_path in required_dirs:
+            if not os.path.exists(dir_path):
+                missing_dirs.append(dir_path)
+
+        if missing_dirs:
+            for dir_path in missing_dirs:
+                self.log(f"Missing directory: {dir_path}", "ERROR")
+            return False
+
+        self.log("Repository structure validation passed", "SUCCESS")
+        return True
+
+    def run_all_validations(self, skip: List[str] = None) -> bool:
+        """Run all validation checks"""
+        if skip is None:
+            skip = []
+
+        print("🚀 Starting comprehensive repository validation...")
+        print("=" * 60)
+
+        validations = [
+            ('structure', self.validate_structure),
+            ('yaml', self.validate_yaml_syntax),
+            ('kustomizations', self.validate_kustomizations),
+            ('schemas', self.validate_schema_alignment),
+            ('security', self.validate_security),
+            ('documentation', self.validate_documentation),
+        ]
+
+        results = {}
+        for name, validation_func in validations:
+            if name in skip:
+                self.log(f"Skipping {name} validation", "INFO")
+                continue
+
+            try:
+                results[name] = validation_func()
+            except Exception as e:
+                self.log(f"Validation {name} failed with exception: {e}", "ERROR")
+                results[name] = False
+
+        # Print summary
+        print("\n" + "=" * 60)
+        print("📊 Validation Summary")
+        print("=" * 60)
+
+        passed = sum(1 for result in results.values() if result)
+        total = len(results)
+
+        for name, result in results.items():
+            status = "✅ PASSED" if result else "❌ FAILED"
+            print(f"  {name.capitalize():<15} {status}")
+
+        print(f"\nResults: {passed}/{total} validations passed")
+
+        if self.errors:
+            print(f"\n❌ Errors ({len(self.errors)}):")
+            for error in self.errors:
+                print(f"  - {error}")
+
+        if self.warnings:
+            print(f"\n⚠️  Warnings ({len(self.warnings)}):")
+            for warning in self.warnings:
+                print(f"  - {warning}")
+
+        success = all(results.values()) and len(self.errors) == 0
+
+        if success:
+            print("\n🎉 All validations passed! Repository is in good shape.")
+        else:
+            print("\n💥 Some validations failed. Please address the issues above.")
+
+        return success
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description='Comprehensive repository validation',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  %(prog)s                           # Run all validations
+  %(prog)s --verbose                 # Run with detailed output
+  %(prog)s --skip security           # Skip security validation
+  %(prog)s --kustomizations --schemas # Run only specific validations
+        """
+    )
+
+    parser.add_argument('--verbose', '-v', action='store_true', help='Enable verbose output')
+    parser.add_argument('--skip', nargs='+', help='Skip specific validations',
+                       choices=['structure', 'yaml', 'kustomizations', 'schemas', 'security', 'documentation'])
+
+    # Individual validation flags
+    parser.add_argument('--structure', action='store_true', help='Run only structure validation')
+    parser.add_argument('--yaml', action='store_true', help='Run only YAML syntax validation')
+    parser.add_argument('--kustomizations', action='store_true', help='Run only Kustomization validation')
+    parser.add_argument('--schemas', action='store_true', help='Run only schema alignment validation')
+    parser.add_argument('--security', action='store_true', help='Run only security validation')
+    parser.add_argument('--documentation', action='store_true', help='Run only documentation validation')
+
+    args = parser.parse_args()
+
+    # Check if specific validations were requested
+    specific_validations = [
+        name for name in ['structure', 'yaml', 'kustomizations', 'schemas', 'security', 'documentation']
+        if getattr(args, name)
+    ]
+
+    validator = RepositoryValidator(verbose=args.verbose)
+
+    if specific_validations:
+        # Run only specific validations
+        success = True
+        for validation in specific_validations:
+            validation_func = getattr(validator, f'validate_{validation}')
+            if not validation_func():
+                success = False
+    else:
+        # Run all validations
+        success = validator.run_all_validations(skip=args.skip or [])
+
+    sys.exit(0 if success else 1)
+
+
+if __name__ == "__main__":
+    main()

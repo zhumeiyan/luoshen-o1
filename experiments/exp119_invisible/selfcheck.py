@@ -1,1 +1,60 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IHJhbmRvbSwgc3RyaW5nLCBmY250bCwgc3RydWN0LCBzdWJwcm9jZXNzLCBvcwpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpDT0RFID0gIiIuam9pbihyYW5kb20uY2hvaWNlKHN0cmluZy5hc2NpaV91cHBlcmNhc2UgKyBzdHJpbmcuZGlnaXRzKSBmb3IgXyBpbiByYW5nZSg2KSkKVywgSCwgQlBQID0gMTAyNCwgNzY4LCAzMgoKRk9OVCA9ICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIgpmX2JpZyAgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwgMjYpCmZfbWlkICA9IEltYWdlRm9udC50cnVldHlwZShGT05ULCAyMCkKZl9zbWFsbD0gSW1hZ2VGb250LnRydWV0eXBlKEZPTlQsIDE2KQoKaW1nID0gSW1hZ2UubmV3KCJSR0JBIiwgKFcsIEgpLCAoMjU1LCAyNTUsIDI1NSwgMjU1KSkKZCA9IEltYWdlRHJhdy5EcmF3KGltZykKCnJvd3MgPSBbCiAgICAoIkVPIElOVklTSUJMRSBTWVNURU1TIFYyICBDT0RFICIgKyBDT0RFLCBmX2JpZyksCiAgICAoIiIsIE5vbmUpLAogICAgKCJNMSBtdXRhdGlvbiB1bmlxdWUgICAgdjEgMW9mMjAgICB2MiAyMG9mMjAiLCBmX21pZCksCiAgICAoIk0yIGVuZXJneUEgYWZ0ZXI0MHggICB2MSAyMzczNy42IHYyIDE2MC4wIiwgZl9taWQpLAogICAgKCJNMiBnYXAgQSBtaW51cyBCICAgICAgdjEgMjM2MzcuNiB2MiA3Mi4wIiwgZl9taWQpLAogICAgKCJNMyBkaXN0aW5jdCBlbW90aW9ucyAgdjEgM29mNSAgICB2MiA0b2Y1IiwgZl9taWQpLAogICAgKCJNNCB0cmF1bWEgaGl0IHJhdGUgICAgdjEgMW9mNiAgICB2MiA1b2Y3IiwgZl9taWQpLAogICAgKCJNNSB0cmF1bWEgZmlyZSB0NTAxICAgdjEgVHJ1ZSAgICB2MiBGYWxzZSIsIGZfbWlkKSwKICAgICgiTTYgbGlhciBzZWxmcmVwb3J0MC4wIHYxIEtFRVAgICAgdjIgUFVSR0UiLCBmX21pZCksCiAgICAoIk03IHNvbG8gbm8gcGVlcnMgICAgICB2MSBLRUVQICAgIHYyIFVOVkVSSUZJQUJMRSIsIGZfbWlkKSwKICAgICgiIiwgTm9uZSksCiAgICAoIk5FVyBTQVQgSSBJTlRST0RVQ0VEIGNsYW1wIEFfTUlOIGFuZ3J5IGVxdWFscyBzYWQgNDAuMCIsIGZfc21hbGwpLAogICAgKCJORVcgU0FUIElJIEhUVFA0MjkgVG9vTWFueVJlcXVlc3RzIHN0aWxsIG1pc3NlZCIsIGZfc21hbGwpLApdCgp5ID0gNDAKZm9yIHRleHQsIGZvIGluIHJvd3M6CiAgICBpZiB0ZXh0OgogICAgICAgIGQudGV4dCgoNTAsIHkpLCB0ZXh0LCBmaWxsPSgwLCAwLCAwLCAyNTUpLCBmb250PWZvKQogICAgeSArPSA0NCBpZiBmbyBpcyBmX3NtYWxsIGVsc2UgNTAKCmltZy5zYXZlKCJyZW5kZXIucG5nIikKCiMgLS0tLSB3cml0ZSB0byByZWFsIGZyYW1lYnVmZmVyIChSR0JBLCAzMmJwcCkgLS0tLQpmYiA9IG9wZW4oIi9kZXYvZmIwIiwgIndiIikKcmF3ID0gaW1nLmNvbnZlcnQoIlJHQkEiKS50b2J5dGVzKCkKYXNzZXJ0IGxlbihyYXcpID09IFcgKiBIICogNCwgKGxlbihyYXcpLCBXICogSCAqIDQpCmZiLndyaXRlKHJhdykKZmIuZmx1c2goKQpvcy5zeXN0ZW0oInN5bmMiKQoKIyAtLS0tIHJlYWQgYmFjayBmcm9tIHRoZSByZWFsIGRldmljZSAtLS0tCndpdGggb3BlbigiL2Rldi9mYjAiLCAicmIiKSBhcyBmOgogICAgYmFjayA9IGYucmVhZChXICogSCAqIDQpCmJhY2tfaW1nID0gSW1hZ2UuZnJvbWJ5dGVzKCJSR0JBIiwgKFcsIEgpLCBiYWNrKS5jb252ZXJ0KCJSR0IiKQpiYWNrX2ltZy5zYXZlKCJjYXB0dXJlZC5wbmciKQoKIyAtLS0tIE9DUiB0aGUgY2FwdHVyZWQgaW1hZ2UsIG5vdCB0aGUgcmVuZGVyIC0tLS0KdHh0ID0gc3VicHJvY2Vzcy5ydW4oWyJ0ZXNzZXJhY3QiLCAiY2FwdHVyZWQucG5nIiwgInN0ZG91dCIsICItbCIsICJlbmciLCAiLS1wc20iLCAiNiJdLAogICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUpLnN0ZG91dApvcGVuKCJvY3IudHh0IiwgInciKS53cml0ZSh0eHQpCnByaW50KCJDT0RFOiIsIENPREUpCnByaW50KCItLS0tIE9DUiAoZnJvbSBjYXB0dXJlZC5wbmcpIC0tLS0iKQpwcmludCh0eHQpCg==
+# -*- coding: utf-8 -*-
+import random, string, fcntl, struct, subprocess, os
+from PIL import Image, ImageDraw, ImageFont
+
+CODE = "".join(random.choice(string.ascii_uppercase + string.digits) for _ in range(6))
+W, H, BPP = 1024, 768, 32
+
+FONT = "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+f_big  = ImageFont.truetype(FONT, 26)
+f_mid  = ImageFont.truetype(FONT, 20)
+f_small= ImageFont.truetype(FONT, 16)
+
+img = Image.new("RGBA", (W, H), (255, 255, 255, 255))
+d = ImageDraw.Draw(img)
+
+rows = [
+    ("EO INVISIBLE SYSTEMS V2  CODE " + CODE, f_big),
+    ("", None),
+    ("M1 mutation unique    v1 1of20   v2 20of20", f_mid),
+    ("M2 energyA after40x   v1 23737.6 v2 160.0", f_mid),
+    ("M2 gap A minus B      v1 23637.6 v2 72.0", f_mid),
+    ("M3 distinct emotions  v1 3of5    v2 4of5", f_mid),
+    ("M4 trauma hit rate    v1 1of6    v2 5of7", f_mid),
+    ("M5 trauma fire t501   v1 True    v2 False", f_mid),
+    ("M6 liar selfreport0.0 v1 KEEP    v2 PURGE", f_mid),
+    ("M7 solo no peers      v1 KEEP    v2 UNVERIFIABLE", f_mid),
+    ("", None),
+    ("NEW SAT I INTRODUCED clamp A_MIN angry equals sad 40.0", f_small),
+    ("NEW SAT II HTTP429 TooManyRequests still missed", f_small),
+]
+
+y = 40
+for text, fo in rows:
+    if text:
+        d.text((50, y), text, fill=(0, 0, 0, 255), font=fo)
+    y += 44 if fo is f_small else 50
+
+img.save("render.png")
+
+# ---- write to real framebuffer (RGBA, 32bpp) ----
+fb = open("/dev/fb0", "wb")
+raw = img.convert("RGBA").tobytes()
+assert len(raw) == W * H * 4, (len(raw), W * H * 4)
+fb.write(raw)
+fb.flush()
+os.system("sync")
+
+# ---- read back from the real device ----
+with open("/dev/fb0", "rb") as f:
+    back = f.read(W * H * 4)
+back_img = Image.frombytes("RGBA", (W, H), back).convert("RGB")
+back_img.save("captured.png")
+
+# ---- OCR the captured image, not the render ----
+txt = subprocess.run(["tesseract", "captured.png", "stdout", "-l", "eng", "--psm", "6"],
+                     capture_output=True, text=True).stdout
+open("ocr.txt", "w").write(txt)
+print("CODE:", CODE)
+print("---- OCR (from captured.png) ----")
+print(txt)

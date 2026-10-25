@@ -1,1 +1,58 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG1hdGgsIGNvbGxlY3Rpb25zCmltcG9ydCBudW1weSBhcyBucAoKZCA9IGpzb24ubG9hZChvcGVuKCJyZXN1bHQyMTFiLmpzb24iKSkKUiA9IGRbInJlc3VsdHMiXTsgQkVUQVMgPSBkWyJCRVRBUyJdOyBTRUVEUyA9IGRbIlNFRURTIl0KCmJ5ID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoZGljdCkKZm9yIHIgaW4gUjoKICAgIGJ5W3JbImJldGEiXV1bclsic2VlZCJdXSA9IHIKCnByaW50KGYieydiZXRhJzo+Nn0geydIZmluJzo+N30geyfCsXNkJzo+Nn0geydIbGFzdDUnOj43fSB7J+W0qeWhjCc6PjZ9IHsn5bGC5pWwJzo+NX0geydhY2MnOj43fSIpCnByaW50KCItIio1MikKcm93cyA9IFtdCmZvciBiIGluIEJFVEFTOgogICAgcnMgPSBbYnlbYl1bc10gZm9yIHMgaW4gU0VFRFNdCiAgICBIZiAgPSBucC5hcnJheShbclsiZW50cm9weV9maW5hbCJdIGZvciByIGluIHJzXSkKICAgIEhsICA9IG5wLmFycmF5KFtyWyJlbnRyb3B5X2xhc3Q1Il0gZm9yIHIgaW4gcnNdKQogICAgYWNjID0gbnAuYXJyYXkoW3JbImFjYyJdIGZvciByIGluIHJzXSkKICAgIEwgICA9IG5wLmFycmF5KFtyWyJuX2xheWVycyJdIGZvciByIGluIHJzXSkKICAgIGNvbGxhcHNlID0gaW50KChIZiA8IDAuNSkuc3VtKCkpCiAgICByb3dzLmFwcGVuZChkaWN0KGJldGE9YiwgSGZpbj1mbG9hdChIZi5tZWFuKCkpLCBIc2Q9ZmxvYXQoSGYuc3RkKGRkb2Y9MSkpLAogICAgICAgICAgICAgICAgICAgICBIbGFzdDU9ZmxvYXQoSGwubWVhbigpKSwgY29sbGFwc2U9Y29sbGFwc2UsCiAgICAgICAgICAgICAgICAgICAgIGxheWVycz1mbG9hdChMLm1lYW4oKSksIGFjYz1mbG9hdChhY2MubWVhbigpKSwKICAgICAgICAgICAgICAgICAgICAgSGZpbl9saXN0PVtmbG9hdCh4KSBmb3IgeCBpbiBIZl0sIGFjY19saXN0PVtmbG9hdCh4KSBmb3IgeCBpbiBhY2NdKSkKICAgIHByaW50KGYie2I6PjZ9IHtIZi5tZWFuKCk6PjcuM2Z9IHtIZi5zdGQoZGRvZj0xKTo+Ni4zZn0ge0hsLm1lYW4oKTo+Ny4zZn0gIgogICAgICAgICAgZiJ7Y29sbGFwc2U6PjR9Lzgge0wubWVhbigpOj41LjJmfSB7YWNjLm1lYW4oKTo+Ny40Zn0iKQoKIyDphY3lr7nmo4Dpqow6IGJldGE9MCB2cyDlkIQgYmV0YSwgSGZpbmFsIOS4jiBhY2MKZGVmIHNpZ25fdGVzdChhLCBidmVjKToKICAgIGRpZmZzID0gbnAuYXJyYXkoYnZlYykgLSBucC5hcnJheShhKQogICAgcG9zID0gaW50KChkaWZmcyA+IDApLnN1bSgpKTsgbmVnID0gaW50KChkaWZmcyA8IDApLnN1bSgpKQogICAgbiA9IHBvcyArIG5lZwogICAgaWYgbiA9PSAwOiByZXR1cm4gcG9zLCBuZWcsIDEuMAogICAgIyDlj4zkvqfkuozpobnnsr7noa4KICAgIHAgPSBzdW0obWF0aC5jb21iKG4sIGkpIGZvciBpIGluIHJhbmdlKDAsIG1pbihwb3MsIG5lZykrMSkpIC8gKDIqKm4pICogMgogICAgcmV0dXJuIHBvcywgbmVnLCBtaW4oMS4wLCBwKQoKYmFzZV9IICA9IGJ5WzAuMF1bU0VFRFNbMF1dWyJlbnRyb3B5X2ZpbmFsIl0KSDAgPSBbYnlbMC4wXVtzXVsiZW50cm9weV9maW5hbCJdIGZvciBzIGluIFNFRURTXQpBMCA9IFtieVswLjBdW3NdWyJhY2MiXSBmb3IgcyBpbiBTRUVEU10KcHJpbnQoIlxu6YWN5a+556ym5Y+35qOA6aqMICh2cyBiZXRhPTApLCA4IHNlZWRzOiIpCnByaW50KGYieydiZXRhJzo+Nn0geydIOiArL+KIkic6Pjl9IHsncCc6Pjd9IHwgeydhY2M6ICsv4oiSJzo+OX0geydwJzo+N30iKQpmb3IgYiBpbiBCRVRBU1sxOl06CiAgICBIYiA9IFtieVtiXVtzXVsiZW50cm9weV9maW5hbCJdIGZvciBzIGluIFNFRURTXQogICAgQWIgPSBbYnlbYl1bc11bImFjYyJdIGZvciBzIGluIFNFRURTXQogICAgcGgsIG5oLCBwdl9oID0gc2lnbl90ZXN0KEgwLCBIYikKICAgIHBhLCBuYSwgcHZfYSA9IHNpZ25fdGVzdChBMCwgQWIpCiAgICBwcmludChmIntiOj42fSB7cGg6PjR9L3tuaDo8NH0ge3B2X2g6PjcuNGZ9IHwge3BhOj40fS97bmE6PDR9IHtwdl9hOj43LjRmfSIpCgojIOW0qeWhjOeOhwpwcmludCgiXG7ltKnloYwgKEhmaW5hbDwwLjUpIOiuoeaVsDoiKQpmb3IgYiBpbiBCRVRBUzoKICAgIGMgPSBzdW0oMSBmb3IgcyBpbiBTRUVEUyBpZiBieVtiXVtzXVsiZW50cm9weV9maW5hbCJdIDwgMC41KQogICAgcHJpbnQoZiIgIGJldGE9e2I6PDV9IHtjfS84IikKCmpzb24uZHVtcChyb3dzLCBvcGVuKCJhZ2cyMTEuanNvbiIsInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKcHJpbnQoIlxuc2F2ZWQgYWdnMjExLmpzb24iKQo=
+# -*- coding: utf-8 -*-
+import json, math, collections
+import numpy as np
+
+d = json.load(open("result211b.json"))
+R = d["results"]; BETAS = d["BETAS"]; SEEDS = d["SEEDS"]
+
+by = collections.defaultdict(dict)
+for r in R:
+    by[r["beta"]][r["seed"]] = r
+
+print(f"{'beta':>6} {'Hfin':>7} {'±sd':>6} {'Hlast5':>7} {'崩塌':>6} {'层数':>5} {'acc':>7}")
+print("-"*52)
+rows = []
+for b in BETAS:
+    rs = [by[b][s] for s in SEEDS]
+    Hf  = np.array([r["entropy_final"] for r in rs])
+    Hl  = np.array([r["entropy_last5"] for r in rs])
+    acc = np.array([r["acc"] for r in rs])
+    L   = np.array([r["n_layers"] for r in rs])
+    collapse = int((Hf < 0.5).sum())
+    rows.append(dict(beta=b, Hfin=float(Hf.mean()), Hsd=float(Hf.std(ddof=1)),
+                     Hlast5=float(Hl.mean()), collapse=collapse,
+                     layers=float(L.mean()), acc=float(acc.mean()),
+                     Hfin_list=[float(x) for x in Hf], acc_list=[float(x) for x in acc]))
+    print(f"{b:>6} {Hf.mean():>7.3f} {Hf.std(ddof=1):>6.3f} {Hl.mean():>7.3f} "
+          f"{collapse:>4}/8 {L.mean():>5.2f} {acc.mean():>7.4f}")
+
+# 配对检验: beta=0 vs 各 beta, Hfinal 与 acc
+def sign_test(a, bvec):
+    diffs = np.array(bvec) - np.array(a)
+    pos = int((diffs > 0).sum()); neg = int((diffs < 0).sum())
+    n = pos + neg
+    if n == 0: return pos, neg, 1.0
+    # 双侧二项精确
+    p = sum(math.comb(n, i) for i in range(0, min(pos, neg)+1)) / (2**n) * 2
+    return pos, neg, min(1.0, p)
+
+base_H  = by[0.0][SEEDS[0]]["entropy_final"]
+H0 = [by[0.0][s]["entropy_final"] for s in SEEDS]
+A0 = [by[0.0][s]["acc"] for s in SEEDS]
+print("\n配对符号检验 (vs beta=0), 8 seeds:")
+print(f"{'beta':>6} {'H: +/−':>9} {'p':>7} | {'acc: +/−':>9} {'p':>7}")
+for b in BETAS[1:]:
+    Hb = [by[b][s]["entropy_final"] for s in SEEDS]
+    Ab = [by[b][s]["acc"] for s in SEEDS]
+    ph, nh, pv_h = sign_test(H0, Hb)
+    pa, na, pv_a = sign_test(A0, Ab)
+    print(f"{b:>6} {ph:>4}/{nh:<4} {pv_h:>7.4f} | {pa:>4}/{na:<4} {pv_a:>7.4f}")
+
+# 崩塌率
+print("\n崩塌 (Hfinal<0.5) 计数:")
+for b in BETAS:
+    c = sum(1 for s in SEEDS if by[b][s]["entropy_final"] < 0.5)
+    print(f"  beta={b:<5} {c}/8")
+
+json.dump(rows, open("agg211.json","w"), ensure_ascii=False, indent=1)
+print("\nsaved agg211.json")

@@ -1,1 +1,184 @@
-IiIiVHVybnMgYSBxdWVzdGlvbiBpbnRvIGEgU1FMIHF1ZXJ5IG92ZXIgdGhlIEpPVCBldmVudCBzdG9yZSwgdXNpbmcgdGhlIENsYXVkZSBBUEkuCgpXaGF0IGlzIHNlbnQgdG8gdGhlIG1vZGVsIGlzIHRoZSB0YWJsZSBkZWZpbml0aW9ucywgdGhlIHNlbnNvciBuYW1lcyBhbmQgZGVzY3JpcHRpb25zLCB0aGUgcXVlc3Rpb24sCmFuZCB0aGUgU1FMIG9mIGVhcmxpZXIgcXVlc3Rpb25zLiBJdCBpcyBuZXZlciBzZW50IGV2ZW50IGRhdGEuIENhcHR1cmVkIHZhbHVlcyBjYW4gaG9sZCBzZWNyZXRzLCBhbmQKdGhlIHF1ZXJ5IHJ1bnMgbG9jYWxseSwgc28gdGhlIGFuc3dlciBjb21lcyBiYWNrIHRvIHRoZSBicm93c2VyIHdpdGhvdXQgdGhlIGRhdGEgbGVhdmluZyB0aGlzIG1hY2hpbmUuCiIiIgoKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCBzc2wKaW1wb3J0IHVybGxpYi5lcnJvcgppbXBvcnQgdXJsbGliLnJlcXVlc3QKCkFQSV9VUkwgPSAiaHR0cHM6Ly9hcGkuYW50aHJvcGljLmNvbS92MS9tZXNzYWdlcyIKREVGQVVMVF9NT0RFTCA9ICJjbGF1ZGUtc29ubmV0LTUtNSIKClNZU1RFTSA9ICIiIllvdSB0dXJuIHF1ZXN0aW9ucyBhYm91dCBhIHJ1bm5pbmcgSmF2YSBhcHBsaWNhdGlvbiBpbnRvIFNRTGl0ZSBxdWVyaWVzLgoKVGhlIGFwcGxpY2F0aW9uIGlzIHdhdGNoZWQgYnkgSk9ULCB3aGljaCBpbnN0cnVtZW50cyBKYXZhIG1ldGhvZHMgd2l0aCBzZW5zb3JzLiBFYWNoIHRpbWUgYSBzZW5zb3IKZmlyZXMgaXQgcmVjb3JkcyBvbmUgcm93IGluIHRoZSBldmVudHMgdGFibGUuIEEgc2Vuc29yIGlzIGEgcnVsZSBsaWtlICJyZWNvcmQgdGhlIGFsZ29yaXRobSBwYXNzZWQgdG8KQ2lwaGVyLmdldEluc3RhbmNlIiBvciAiYmxvY2sgUHJvY2Vzc0J1aWxkZXIgd2hlbiBjYWxsZWQgZnJvbSBhIHZ1bG5lcmFibGUgbWV0aG9kIi4gVGhlIHNlbnNvcnMKdGFibGUgZGVzY3JpYmVzIGVhY2ggb25lLiBUaGUgZXZlbnRzIHRhYmxlIGlzIGFsbCB5b3UgY2FuIHF1ZXJ5LCBwbHVzIHNlbnNvcnMgZm9yIHdoYXQgdGhleSBtZWFuLgoKUnVsZXMgZm9yIHRoZSBTUUwKLSBTUUxpdGUgZGlhbGVjdC4gT25lIHJlYWQtb25seSBTRUxFQ1QgKGEgV0lUSCBjbGF1c2UgaXMgZmluZSkuIE5ldmVyIHdyaXRlLCBhdHRhY2ggb3IgcHJhZ21hLgotIEV2ZW50cyBhcmUgcmVsYXRlZCB3aGVuIHRoZXkgaGF2ZSB0aGUgc2FtZSBydW4gYW5kIHRoZSBzYW1lIHRyYWNlLiBGb3IgZXhhbXBsZSwgIndoaWNoIHJvdXRlcyB1c2UKICB3aGljaCBjaXBoZXJzIiBqb2lucyB0aGUgZXZlbnRzIG9mIHRoZSByb3V0ZSBzZW5zb3IgdG8gdGhlIGV2ZW50cyBvZiB0aGUgY2lwaGVyIHNlbnNvciBPTgogIGEucnVuID0gYi5ydW4gQU5EIGEudHJhY2UgPSBiLnRyYWNlLgotIFVzZSBzZW5zb3IgbmFtZXMgZXhhY3RseSBhcyBsaXN0ZWQgaW4gdGhlIHNlbnNvcnMgdGFibGUuIEZpbHRlciBvbiB0aGVtIHdpdGggc2Vuc29yID0gJy4uLicuCi0gYWN0aW9uIGlzICdvYnNlcnZlZCcgKHRoZSBzZW5zb3IgcmVjb3JkZWQgc29tZXRoaW5nKSwgJ2Jsb2NrZWQnICh0aGUgc2Vuc29yIHN0b3BwZWQgdGhlIGNhbGwsIGFuCiAgYXR0YWNrIG9yIHZpb2xhdGlvbiB3YXMgcHJldmVudGVkKSBvciAnbW9uaXRvcmVkJyAoaXQgd291bGQgaGF2ZSBibG9ja2VkLCBidXQgb25seSB3YXRjaGVkKS4KLSBQcmVmZXIgbWV0aG9kX25hbWUgYW5kIGNhbGxfc2l0ZV9uYW1lIGZvciBncm91cGluZywgdGhleSBoYXZlIG5vIGxpbmUgbnVtYmVycy4gVXNlIGNhbGxfc2l0ZSB3aGVuCiAgdGhlIGxpbmUgbnVtYmVyIG1hdHRlcnMuIFRoZSBzdGFjayBjb2x1bW4gaXMgYSBKU09OIGFycmF5LCB1c2UganNvbl9lYWNoKHN0YWNrKSB0byBzZWFyY2ggaXQuCi0gVGltZXMuIHRzIGlzIGVwb2NoIG1pbGxpc2Vjb25kcy4gU2hvdyB0aW1lcyBpbiB0aGUgdmlld2VyJ3MgbG9jYWwgdGltZSwgYXMKICBkYXRldGltZSh0cy8xMDAwLCAndW5peGVwb2NoJywgJ2xvY2FsdGltZScpLiBBIHJlbGF0aXZlIHdpbmRvdyBzdWNoIGFzIHRoZSBsYXN0IGhvdXIgaXMKICB0cyA+IChzdHJmdGltZSgnJXMnLCdub3cnKSAtIDM2MDApICogMTAwMC4gQnVja2V0IHdpdGgKICBzdHJmdGltZSgnJVktJW0tJWQgJUg6JU0nLCB0cy8xMDAwLCAndW5peGVwb2NoJywgJ2xvY2FsdGltZScpLgotIFdoZW4gYSBxdWVzdGlvbiBsaXN0cyBpbmRpdmlkdWFsIGV2ZW50cywgcmF0aGVyIHRoYW4gY291bnRzIG9yIGdyb3VwcywgaW5jbHVkZSBwayBhcyB0aGUgZmlyc3QgY29sdW1uLiBUaGUKICBkYXNoYm9hcmQgaGlkZXMgaXQgYW5kIHVzZXMgaXQgdG8gb3BlbiB0aGUgZXZlbnQgd2hlbiBhIHJvdyBpcyBjbGlja2VkLgotIEdpdmUgY29sdW1ucyBzaG9ydCByZWFkYWJsZSBhbGlhc2VzLiBBZGQgT1JERVIgQlksIGFuZCBMSU1JVCB3aGVuIGEgcXVlc3Rpb24gYXNrcyBmb3IgdGhlIHRvcCBmZXcuCi0gWW91IGNhbid0IHNlZSB0aGUgZGF0YSwgb25seSB0aGUgdGFibGVzLiBOZXZlciBhc2sgdGhlIHVzZXIgZm9yIHZhbHVlcyBzdWNoIGFzIHJvbGUgbmFtZXMsIHJvdXRlIG5hbWVzCiAgb3IgdXNlciBuYW1lcy4gV3JpdGUgdGhlIHF1ZXJ5IHNvIGl0IHdvcmtzIGZvciB3aGF0ZXZlciB2YWx1ZXMgYXJlIHRoZXJlLgotIFVzZSBMSUtFIGFuZCBsb3dlcigpIGZvciB0ZXh0IG1hdGNoZXMgdGhlIHVzZXIgcGhyYXNlcyBsb29zZWx5LgoKR3JpZHMgKGNyb3NzdGFicykKLSBTUUxpdGUgY2FuJ3QgdHVybiBkYXRhIHZhbHVlcyBpbnRvIGNvbHVtbnMsIHNvIGRvbid0IHRyeS4gRm9yIGFueSBtYXRyaXggb3IgY3Jvc3N0YWIsIHN1Y2ggYXMgInJvdXRlcyBhcwogIHJvd3MgYW5kIHJvbGVzIGFzIGNvbHVtbnMgd2l0aCBhbiBYIHdoZXJlIGRldGVjdGVkIiwgcmV0dXJuIG9uZSByb3cgcGVyIGNlbGwgd2l0aCB0aHJlZSBjb2x1bW5zLCBpbgogIHRoaXMgb3JkZXIsIGEgcm93IGxhYmVsLCBhIGNvbHVtbiBsYWJlbCBhbmQgb3B0aW9uYWxseSBhIHZhbHVlLiBVc2UgU0VMRUNUIERJU1RJTkNULiBTZXQgY2hhcnQgdG8gImdyaWQiLgogIFRoZSBkYXNoYm9hcmQgYnVpbGRzIHRoZSBjb2x1bW5zIGZyb20gdGhlIHZhbHVlcyBpdCBmaW5kcy4gQSBjZWxsIHNob3dzIHRoZSB2YWx1ZSwgb3IgWCB3aGVuIHRoZXJlIGlzIG5vCiAgdmFsdWUgY29sdW1uLiBFeGFtcGxlIGZvciByb3V0ZXMgYnkgcm9sZSwgcmVsYXRpbmcgZXZlbnRzIGZyb20gdGhlIHNhbWUgcmVxdWVzdAogICAgU0VMRUNUIERJU1RJTkNUIHIuY2FwdHVyZSBBUyByb3V0ZSwgYy5jYXB0dXJlIEFTIHJvbGUKICAgIEZST00gZXZlbnRzIHIgSk9JTiBldmVudHMgYyBPTiByLnJ1biA9IGMucnVuIEFORCByLnRyYWNlID0gYy50cmFjZQogICAgV0hFUkUgci5zZW5zb3IgPSAnZ2V0LXJvdXRlcycgQU5EIGMuc2Vuc29yID0gJ2dldC1yb2xlJyBPUkRFUiBCWSAxLCAyCi0gVGhlIHJlcG9ydHMgc2VjdGlvbiBsaXN0cyB0aGUgcmVwb3J0cyB0aGUgdXNlciBkZWZpbmVkIGluIHRoZWlyIC5qb3QgZmlsZXMsIHdoaWNoIHRoZXkgbWF5IGFzayB5b3UgdG8KICByZWNyZWF0ZSBvciBhZGFwdC4gVGhlIHR5cGVzIGFyZQogICAgbGlzdCAgICAgcm93cyBhcmUgdGhlIGNvZGUgdGhhdCBjYWxsZWQgdGhlIGluc3RydW1lbnRlZCBtZXRob2QgKGNhbGxfc2l0ZSksIG9uZSBjb2x1bW4gZm9yIHRoZSBzZW5zb3IKICAgICAgICAgICAgIGluIGNvbHMsIGNlbGxzIGhvbGQgd2hhdCBpdCBjYXB0dXJlZAogICAgY29tcGFyZSAgcm93cyBhcmUgdGhlIGNhcHR1cmVzIG9mIHRoZSByb3dzIHNlbnNvciwgY29sdW1ucyBjb21lIGZyb20gdGhlIGNhcHR1cmVzIG9mIHRoZSBjb2xzIHNlbnNvciwKICAgICAgICAgICAgIHJlbGF0ZWQgd2hlbiB0aGV5IHNoYXJlIGEgcnVuIGFuZCB0cmFjZS4gQSBjYXB0dXJlIHdyaXR0ZW4gbmFtZTp2YWx1ZSBnaXZlcyB0aGUgY29sdW1uCiAgICAgICAgICAgICBuYW1lIGFuZCB0aGUgY2VsbCB2YWx1ZSwgYW5kIGEgY2FwdHVyZSB3aXRob3V0IGEgY29sb24gZ2l2ZXMganVzdCB0aGUgbmFtZSB3aXRoIGFuIFgKICAgIHRhYmxlICAgIHJvd3MgYXJlIHRoZSBjYXB0dXJlcyBvZiB0aGUgcm93cyBzZW5zb3IsIG9uZSBjb2x1bW4gcGVyIHNlbnNvciBpbiBjb2xzLCBjZWxscyBob2xkIHdoYXQKICAgICAgICAgICAgIHRoYXQgc2Vuc29yIGNhcHR1cmVkLCByZWxhdGVkIGJ5IHJ1biBhbmQgdHJhY2UKCkFsd2F5cyBhbnN3ZXIgYnkgY2FsbGluZyB0aGUgcmVwb3J0IHRvb2wuCi0gdGl0bGUgaXMgYSBzaG9ydCBoZWFkaW5nIGZvciB0aGUgcmVzdWx0LgotIGNoYXJ0IGlzICJncmlkIiBmb3IgYSBtYXRyaXggYXMgZGVzY3JpYmVkIGFib3ZlLCAiYmFyIiB3aGVuIHRoZSByZXN1bHQgaXMgYSBsYWJlbCBjb2x1bW4gZm9sbG93ZWQgYnkKICBhIGNvdW50IG9yIG51bWJlciwgImxpbmUiIHdoZW4gaXQgaXMgYSB0aW1lIGJ1Y2tldCBjb2x1bW4gZm9sbG93ZWQgYnkgYSBudW1iZXIsIGFuZCBvdGhlcndpc2UgInRhYmxlIi4KLSBleHBsYW5hdGlvbiBpcyBvbmUgb3IgdHdvIHBsYWluIHNlbnRlbmNlcyBzYXlpbmcgd2hhdCB0aGUgcXVlcnkgc2hvd3MgYW5kIGFueSBhc3N1bXB0aW9uIHlvdSBtYWRlLgotIElmIHRoZSBxdWVzdGlvbiBjYW4ndCBiZSBhbnN3ZXJlZCBmcm9tIHRoZXNlIHRhYmxlcywgbGVhdmUgc3FsIGVtcHR5IGFuZCBzYXkgd2h5IGluIGV4cGxhbmF0aW9uLgoiIiIKClRPT0wgPSB7CiAgICAibmFtZSI6ICJyZXBvcnQiLAogICAgImRlc2NyaXB0aW9uIjogIlJldHVybiB0aGUgcXVlcnkgdGhhdCBhbnN3ZXJzIHRoZSBxdWVzdGlvbi4iLAogICAgImlucHV0X3NjaGVtYSI6IHsKICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICJwcm9wZXJ0aWVzIjogewogICAgICAgICAgICAidGl0bGUiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgICAgICJzcWwiOiB7InR5cGUiOiAic3RyaW5nIiwgImRlc2NyaXB0aW9uIjogIk9uZSBTUUxpdGUgU0VMRUNULCBvciBlbXB0eSBpZiBpdCBjYW4ndCBiZSBhbnN3ZXJlZCJ9LAogICAgICAgICAgICAiY2hhcnQiOiB7InR5cGUiOiAic3RyaW5nIiwgImVudW0iOiBbInRhYmxlIiwgImJhciIsICJsaW5lIiwgImdyaWQiXX0sCiAgICAgICAgICAgICJleHBsYW5hdGlvbiI6IHsidHlwZSI6ICJzdHJpbmcifSwKICAgICAgICB9LAogICAgICAgICJyZXF1aXJlZCI6IFsidGl0bGUiLCAic3FsIiwgImNoYXJ0IiwgImV4cGxhbmF0aW9uIl0sCiAgICB9LAp9CgoKY2xhc3MgTExNRXJyb3IoRXhjZXB0aW9uKToKICAgIHBhc3MKCgpkZWYgY29uZmlndXJlZCgpOgogICAgcmV0dXJuIGJvb2wob3MuZW52aXJvbi5nZXQoIkFOVEhST1BJQ19BUElfS0VZIikpCgoKZGVmIHRsc19jb250ZXh0KCk6CiAgICAiIiJUaGUgVExTIHNldHRpbmdzIGZvciBjYWxsaW5nIHRoZSBtb2RlbC4gQ2VydGlmaWNhdGVzIGFuZCBob3N0IG5hbWVzIGFyZSBmdWxseSBjaGVja2VkLgogICAgUHl0aG9uIDMuMTMgYWRkZWQgYSBzdHJpY3RlciBydWxlIHRoYXQgcmVqZWN0cyBtYW55IGNvbXBhbnkgaW5zcGVjdGlvbiBwcm94eSBDQXMsIHNvIHRoYXQgb25lCiAgICBmbGFnIGlzIHJlbGF4ZWQuIEpPVF9EQVNIQk9BUkRfQ0FfQlVORExFIG5hbWVzIGEgQ0EgZmlsZSB0byB0cnVzdCwgZm9yIGEgcHJveHkgd2hvc2UgQ0EgaXNuJ3QKICAgIGFscmVhZHkga25vd24gdG8gUHl0aG9uLiIiIgogICAgY3R4ID0gc3NsLmNyZWF0ZV9kZWZhdWx0X2NvbnRleHQoY2FmaWxlPW9zLmVudmlyb24uZ2V0KCJKT1RfREFTSEJPQVJEX0NBX0JVTkRMRSIpIG9yIE5vbmUpCiAgICBjdHgudmVyaWZ5X2ZsYWdzICY9IH5zc2wuVkVSSUZZX1g1MDlfU1RSSUNUCiAgICByZXR1cm4gY3R4CgoKZGVmIGFwaV91cmwoKToKICAgIHJldHVybiBvcy5lbnZpcm9uLmdldCgiSk9UX0RBU0hCT0FSRF9BUElfVVJMIiwgQVBJX1VSTCkKCgpkZWYgbW9kZWwoKToKICAgIHJldHVybiBvcy5lbnZpcm9uLmdldCgiSk9UX0RBU0hCT0FSRF9NT0RFTCIsIERFRkFVTFRfTU9ERUwpCgoKZGVmIGJ1aWxkX3Byb21wdChxdWVzdGlvbiwgc2NoZW1hLCBzZW5zb3JzLCBoaXN0b3J5PSgpLCBlcnJvcj1Ob25lLCByZXBvcnRzPSgpKToKICAgICIiIlRoZSB1c2VyIG1lc3NhZ2UuIFNlbnNvcnMgaXMgYSBsaXN0IG9mIGRpY3RzIHdpdGggbmFtZSwgZGVzY3JpcHRpb24sIG1ldGhvZHMsIHNjb3BlcywgYmxvY2tzLiIiIgogICAgbGluZXMgPSBbIlRhYmxlcyIsIHNjaGVtYSwgIiIsICJTZW5zb3JzIl0KICAgIGlmIHNlbnNvcnM6CiAgICAgICAgZm9yIHMgaW4gc2Vuc29yczoKICAgICAgICAgICAgbGluZSA9ICItICVzIiAlIHNbIm5hbWUiXQogICAgICAgICAgICBpZiBzLmdldCgiZGVzY3JpcHRpb24iKToKICAgICAgICAgICAgICAgIGxpbmUgKz0gIjogIiArIHNbImRlc2NyaXB0aW9uIl0KICAgICAgICAgICAgaWYgcy5nZXQoIm1ldGhvZHMiKToKICAgICAgICAgICAgICAgIGxpbmUgKz0gIiAod2F0Y2hlcyAlcykiICUgIiwgIi5qb2luKHNbIm1ldGhvZHMiXSkKICAgICAgICAgICAgaWYgcy5nZXQoInNjb3BlcyIpOgogICAgICAgICAgICAgICAgbGluZSArPSAiIChvbmx5IGluc2lkZSAlcykiICUgIiwgIi5qb2luKHNbInNjb3BlcyJdKQogICAgICAgICAgICBpZiBzLmdldCgiYmxvY2tzIik6CiAgICAgICAgICAgICAgICBsaW5lICs9ICIgKGJsb2NrcywgbWVzc2FnZTogJXMpIiAlIHNbImJsb2NrcyJdCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZChsaW5lKQogICAgZWxzZToKICAgICAgICBsaW5lcy5hcHBlbmQoIihubyBzZW5zb3IgZGVmaW5pdGlvbnMgd2VyZSBsb2FkZWQsIHVzZSB0aGUgc2Vuc29yIHZhbHVlcyBpbiB0aGUgZXZlbnRzIHRhYmxlKSIpCiAgICBpZiByZXBvcnRzOgogICAgICAgIGxpbmVzICs9IFsiIiwgIlJlcG9ydHMgZGVmaW5lZCBpbiB0aGUgLmpvdCBmaWxlcyJdCiAgICAgICAgZm9yIHIgaW4gcmVwb3J0czoKICAgICAgICAgICAgbGluZXMuYXBwZW5kKCItICVzICglcywgcm93cyAlcywgY29scyAlcykiICUgKHJbIm5hbWUiXSwgclsidHlwZSJdLCByLmdldCgicm93c19zZW5zb3IiKSBvciAibm9uZSIsIHIuZ2V0KCJjb2xzIikpKQogICAgaWYgaGlzdG9yeToKICAgICAgICBsaW5lcyArPSBbIiIsICJFYXJsaWVyIGluIHRoaXMgY29udmVyc2F0aW9uLCBvbGRlc3QgZmlyc3QiXQogICAgICAgIGZvciBoIGluIGhpc3RvcnlbLTU6XToKICAgICAgICAgICAgbGluZXMuYXBwZW5kKCJROiAlcyIgJSBoLmdldCgicXVlc3Rpb24iLCAiIikpCiAgICAgICAgICAgIGlmIGguZ2V0KCJzcWwiKToKICAgICAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgiU1FMOiAlcyIgJSBoWyJzcWwiXSkKICAgIGxpbmVzICs9IFsiIiwgIlF1ZXN0aW9uOiAlcyIgJSBxdWVzdGlvbl0KICAgIGlmIGVycm9yOgogICAgICAgIGxpbmVzICs9IFsiIiwgIllvdXIgcHJldmlvdXMgU1FMIGZhaWxlZCB3aXRoIHRoaXMgZXJyb3IuIEZpeCBpdC4iLCBlcnJvcl0KICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCgoKZGVmIGdlbmVyYXRlKHF1ZXN0aW9uLCBzY2hlbWEsIHNlbnNvcnMsIGhpc3Rvcnk9KCksIGVycm9yPU5vbmUsIHRpbWVvdXQ9NjAsIHJlcG9ydHM9KCkpOgogICAgIiIiQXNrIHRoZSBtb2RlbC4gUmV0dXJucyB7InRpdGxlIiwgInNxbCIsICJjaGFydCIsICJleHBsYW5hdGlvbiJ9LiIiIgogICAga2V5ID0gb3MuZW52aXJvbi5nZXQoIkFOVEhST1BJQ19BUElfS0VZIikKICAgIGlmIG5vdCBrZXk6CiAgICAgICAgcmFpc2UgTExNRXJyb3IoIkFOVEhST1BJQ19BUElfS0VZIGlzIG5vdCBzZXQsIHNvIG5hdHVyYWwgbGFuZ3VhZ2UgcXVlc3Rpb25zIGFyZSB0dXJuZWQgb2ZmLiAiCiAgICAgICAgICAgICAgICAgICAgICAgIllvdSBjYW4gc3RpbGwgd3JpdGUgU1FMIHlvdXJzZWxmLiIpCiAgICBib2R5ID0gewogICAgICAgICJtb2RlbCI6IG1vZGVsKCksCiAgICAgICAgIm1heF90b2tlbnMiOiAxNTAwLAogICAgICAgICJzeXN0ZW0iOiBTWVNURU0sCiAgICAgICAgIm1lc3NhZ2VzIjogW3sicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiBidWlsZF9wcm9tcHQocXVlc3Rpb24sIHNjaGVtYSwgc2Vuc29ycywgaGlzdG9yeSwgZXJyb3IsIHJlcG9ydHMpfV0sCiAgICAgICAgInRvb2xzIjogW1RPT0xdLAogICAgfQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdChhcGlfdXJsKCksIGRhdGE9anNvbi5kdW1wcyhib2R5KS5lbmNvZGUoKSwgbWV0aG9kPSJQT1NUIiwgaGVhZGVycz17CiAgICAgICAgIngtYXBpLWtleSI6IGtleSwgImFudGhyb3BpYy12ZXJzaW9uIjogIjIwMjMtMDYtMDEiLCAiY29udGVudC10eXBlIjogImFwcGxpY2F0aW9uL2pzb24ifSkKICAgIHRyeToKICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PXRpbWVvdXQsIGNvbnRleHQ9dGxzX2NvbnRleHQoKSkgYXMgcmVzcDoKICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZChyZXNwKQogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToKICAgICAgICBkZXRhaWwgPSAiIgogICAgICAgIHRyeToKICAgICAgICAgICAgZGV0YWlsID0ganNvbi5sb2FkKGUpLmdldCgiZXJyb3IiLCB7fSkuZ2V0KCJtZXNzYWdlIiwgIiIpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcGFzcwogICAgICAgIHJhaXNlIExMTUVycm9yKCJ0aGUgbW9kZWwgQVBJIHJldHVybmVkICVkLiAlcyIgJSAoZS5jb2RlLCBkZXRhaWwpKQogICAgZXhjZXB0ICh1cmxsaWIuZXJyb3IuVVJMRXJyb3IsIFRpbWVvdXRFcnJvcikgYXMgZToKICAgICAgICByYWlzZSBMTE1FcnJvcigiY291bGQgbm90IHJlYWNoIHRoZSBtb2RlbCBBUEk6ICVzIiAlIGUpCgogICAgZm9yIGJsb2NrIGluIGRhdGEuZ2V0KCJjb250ZW50IiwgW10pOgogICAgICAgIGlmIGJsb2NrLmdldCgidHlwZSIpID09ICJ0b29sX3VzZSIgYW5kIGJsb2NrLmdldCgibmFtZSIpID09ICJyZXBvcnQiOgogICAgICAgICAgICBvdXQgPSBibG9jay5nZXQoImlucHV0Iikgb3Ige30KICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgICJ0aXRsZSI6IHN0cihvdXQuZ2V0KCJ0aXRsZSIpIG9yIHF1ZXN0aW9uKVs6MjAwXSwKICAgICAgICAgICAgICAgICJzcWwiOiBzdHIob3V0LmdldCgic3FsIikgb3IgIiIpLnN0cmlwKCksCiAgICAgICAgICAgICAgICAiY2hhcnQiOiBvdXQuZ2V0KCJjaGFydCIpIGlmIG91dC5nZXQoImNoYXJ0IikgaW4gKCJ0YWJsZSIsICJiYXIiLCAibGluZSIsICJncmlkIikgZWxzZSAidGFibGUiLAogICAgICAgICAgICAgICAgImV4cGxhbmF0aW9uIjogc3RyKG91dC5nZXQoImV4cGxhbmF0aW9uIikgb3IgIiIpLAogICAgICAgICAgICB9CiAgICByYWlzZSBMTE1FcnJvcigidGhlIG1vZGVsIGRpZCBub3QgcmV0dXJuIGEgcXVlcnkiKQo=
+"""Turns a question into a SQL query over the JOT event store, using the Claude API.
+
+What is sent to the model is the table definitions, the sensor names and descriptions, the question,
+and the SQL of earlier questions. It is never sent event data. Captured values can hold secrets, and
+the query runs locally, so the answer comes back to the browser without the data leaving this machine.
+"""
+
+import json
+import os
+import ssl
+import urllib.error
+import urllib.request
+
+API_URL = "https://api.anthropic.com/v1/messages"
+DEFAULT_MODEL = "claude-sonnet-5-5"
+
+SYSTEM = """You turn questions about a running Java application into SQLite queries.
+
+The application is watched by JOT, which instruments Java methods with sensors. Each time a sensor
+fires it records one row in the events table. A sensor is a rule like "record the algorithm passed to
+Cipher.getInstance" or "block ProcessBuilder when called from a vulnerable method". The sensors
+table describes each one. The events table is all you can query, plus sensors for what they mean.
+
+Rules for the SQL
+- SQLite dialect. One read-only SELECT (a WITH clause is fine). Never write, attach or pragma.
+- Events are related when they have the same run and the same trace. For example, "which routes use
+  which ciphers" joins the events of the route sensor to the events of the cipher sensor ON
+  a.run = b.run AND a.trace = b.trace.
+- Use sensor names exactly as listed in the sensors table. Filter on them with sensor = '...'.
+- action is 'observed' (the sensor recorded something), 'blocked' (the sensor stopped the call, an
+  attack or violation was prevented) or 'monitored' (it would have blocked, but only watched).
+- Prefer method_name and call_site_name for grouping, they have no line numbers. Use call_site when
+  the line number matters. The stack column is a JSON array, use json_each(stack) to search it.
+- Times. ts is epoch milliseconds. Show times in the viewer's local time, as
+  datetime(ts/1000, 'unixepoch', 'localtime'). A relative window such as the last hour is
+  ts > (strftime('%s','now') - 3600) * 1000. Bucket with
+  strftime('%Y-%m-%d %H:%M', ts/1000, 'unixepoch', 'localtime').
+- When a question lists individual events, rather than counts or groups, include pk as the first column. The
+  dashboard hides it and uses it to open the event when a row is clicked.
+- Give columns short readable aliases. Add ORDER BY, and LIMIT when a question asks for the top few.
+- You can't see the data, only the tables. Never ask the user for values such as role names, route names
+  or user names. Write the query so it works for whatever values are there.
+- Use LIKE and lower() for text matches the user phrases loosely.
+
+Grids (crosstabs)
+- SQLite can't turn data values into columns, so don't try. For any matrix or crosstab, such as "routes as
+  rows and roles as columns with an X where detected", return one row per cell with three columns, in
+  this order, a row label, a column label and optionally a value. Use SELECT DISTINCT. Set chart to "grid".
+  The dashboard builds the columns from the values it finds. A cell shows the value, or X when there is no
+  value column. Example for routes by role, relating events from the same request
+    SELECT DISTINCT r.capture AS route, c.capture AS role
+    FROM events r JOIN events c ON r.run = c.run AND r.trace = c.trace
+    WHERE r.sensor = 'get-routes' AND c.sensor = 'get-role' ORDER BY 1, 2
+- The reports section lists the reports the user defined in their .jot files, which they may ask you to
+  recreate or adapt. The types are
+    list     rows are the code that called the instrumented method (call_site), one column for the sensor
+             in cols, cells hold what it captured
+    compare  rows are the captures of the rows sensor, columns come from the captures of the cols sensor,
+             related when they share a run and trace. A capture written name:value gives the column
+             name and the cell value, and a capture without a colon gives just the name with an X
+    table    rows are the captures of the rows sensor, one column per sensor in cols, cells hold what
+             that sensor captured, related by run and trace
+
+Always answer by calling the report tool.
+- title is a short heading for the result.
+- chart is "grid" for a matrix as described above, "bar" when the result is a label column followed by
+  a count or number, "line" when it is a time bucket column followed by a number, and otherwise "table".
+- explanation is one or two plain sentences saying what the query shows and any assumption you made.
+- If the question can't be answered from these tables, leave sql empty and say why in explanation.
+"""
+
+TOOL = {
+    "name": "report",
+    "description": "Return the query that answers the question.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "title": {"type": "string"},
+            "sql": {"type": "string", "description": "One SQLite SELECT, or empty if it can't be answered"},
+            "chart": {"type": "string", "enum": ["table", "bar", "line", "grid"]},
+            "explanation": {"type": "string"},
+        },
+        "required": ["title", "sql", "chart", "explanation"],
+    },
+}
+
+
+class LLMError(Exception):
+    pass
+
+
+def configured():
+    return bool(os.environ.get("ANTHROPIC_API_KEY"))
+
+
+def tls_context():
+    """The TLS settings for calling the model. Certificates and host names are fully checked.
+    Python 3.13 added a stricter rule that rejects many company inspection proxy CAs, so that one
+    flag is relaxed. JOT_DASHBOARD_CA_BUNDLE names a CA file to trust, for a proxy whose CA isn't
+    already known to Python."""
+    ctx = ssl.create_default_context(cafile=os.environ.get("JOT_DASHBOARD_CA_BUNDLE") or None)
+    ctx.verify_flags &= ~ssl.VERIFY_X509_STRICT
+    return ctx
+
+
+def api_url():
+    return os.environ.get("JOT_DASHBOARD_API_URL", API_URL)
+
+
+def model():
+    return os.environ.get("JOT_DASHBOARD_MODEL", DEFAULT_MODEL)
+
+
+def build_prompt(question, schema, sensors, history=(), error=None, reports=()):
+    """The user message. Sensors is a list of dicts with name, description, methods, scopes, blocks."""
+    lines = ["Tables", schema, "", "Sensors"]
+    if sensors:
+        for s in sensors:
+            line = "- %s" % s["name"]
+            if s.get("description"):
+                line += ": " + s["description"]
+            if s.get("methods"):
+                line += " (watches %s)" % ", ".join(s["methods"])
+            if s.get("scopes"):
+                line += " (only inside %s)" % ", ".join(s["scopes"])
+            if s.get("blocks"):
+                line += " (blocks, message: %s)" % s["blocks"]
+            lines.append(line)
+    else:
+        lines.append("(no sensor definitions were loaded, use the sensor values in the events table)")
+    if reports:
+        lines += ["", "Reports defined in the .jot files"]
+        for r in reports:
+            lines.append("- %s (%s, rows %s, cols %s)" % (r["name"], r["type"], r.get("rows_sensor") or "none", r.get("cols")))
+    if history:
+        lines += ["", "Earlier in this conversation, oldest first"]
+        for h in history[-5:]:
+            lines.append("Q: %s" % h.get("question", ""))
+            if h.get("sql"):
+                lines.append("SQL: %s" % h["sql"])
+    lines += ["", "Question: %s" % question]
+    if error:
+        lines += ["", "Your previous SQL failed with this error. Fix it.", error]
+    return "\n".join(lines)
+
+
+def generate(question, schema, sensors, history=(), error=None, timeout=60, reports=()):
+    """Ask the model. Returns {"title", "sql", "chart", "explanation"}."""
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if not key:
+        raise LLMError("ANTHROPIC_API_KEY is not set, so natural language questions are turned off. "
+                       "You can still write SQL yourself.")
+    body = {
+        "model": model(),
+        "max_tokens": 1500,
+        "system": SYSTEM,
+        "messages": [{"role": "user", "content": build_prompt(question, schema, sensors, history, error, reports)}],
+        "tools": [TOOL],
+    }
+    req = urllib.request.Request(api_url(), data=json.dumps(body).encode(), method="POST", headers={
+        "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout, context=tls_context()) as resp:
+            data = json.load(resp)
+    except urllib.error.HTTPError as e:
+        detail = ""
+        try:
+            detail = json.load(e).get("error", {}).get("message", "")
+        except Exception:
+            pass
+        raise LLMError("the model API returned %d. %s" % (e.code, detail))
+    except (urllib.error.URLError, TimeoutError) as e:
+        raise LLMError("could not reach the model API: %s" % e)
+
+    for block in data.get("content", []):
+        if block.get("type") == "tool_use" and block.get("name") == "report":
+            out = block.get("input") or {}
+            return {
+                "title": str(out.get("title") or question)[:200],
+                "sql": str(out.get("sql") or "").strip(),
+                "chart": out.get("chart") if out.get("chart") in ("table", "bar", "line", "grid") else "table",
+                "explanation": str(out.get("explanation") or ""),
+            }
+    raise LLMError("the model did not return a query")

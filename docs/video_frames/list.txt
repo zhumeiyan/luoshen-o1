@@ -1,1 +1,2 @@
-ZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvb3JpZ19hLm1wNCcKZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvbmV3c2VnX2EubXA0Jwo=
+file '/data/workspace/luoshen-o1/docs/video_frames/orig_a.mp4'
+file '/data/workspace/luoshen-o1/docs/video_frames/newseg_a.mp4'

@@ -1,1 +1,167 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKaW1wb3J0IHRlbXBmaWxlCmZyb20gdHlwaW5nIGltcG9ydCBMaXN0LCBEaWN0LCBjYXN0Cgpmcm9tIGFuc2libGUubW9kdWxlX3V0aWxzLmJhc2ljIGltcG9ydCBBbnNpYmxlTW9kdWxlCmZyb20gYW5zaWJsZS5tb2R1bGVfdXRpbHMuY29tcGF0LnZlcnNpb24gaW1wb3J0IExvb3NlVmVyc2lvbgoKZnJvbSAuY29uc3RhbnRzIGltcG9ydCBDT0xMRUNUSU9OX1ZFUlNJT04sIENPTExFQ1RJT05fTUlOX1NURVBfQ0xJX1ZFUlNJT04sIENPTExFQ1RJT05fUkVQTwoKCmNsYXNzIENsaUVycm9yKEV4Y2VwdGlvbik6CiAgICBwYXNzCgoKY2xhc3MgU3RlcENsaUV4ZWN1dGFibGU6CiAgICAiIiJSZXByZXNlbnRzIHRoZSBwcmVzZW5jZSBvZiBhIHN0ZXAtY2xpIGV4ZWN1dGFibGUgd2l0aCBhIGdpdmVuIHZlcnNpb24gb24gdGhlIHN5c3RlbQogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1vZHVsZTogQW5zaWJsZU1vZHVsZSwgZXhlY3V0YWJsZTogc3RyID0gInN0ZXAtY2xpIikgLT4gTm9uZToKICAgICAgICBzZWxmLl9leGVjID0gZXhlY3V0YWJsZQoKICAgICAgICByYywgc3Rkb3V0LCBzdGRlcnIgPSBtb2R1bGUucnVuX2NvbW1hbmQoW2V4ZWN1dGFibGUsICJ2ZXJzaW9uIl0pCiAgICAgICAgaWYgcmMgIT0gMDoKICAgICAgICAgICAgbW9kdWxlLmZhaWxfanNvbihtc2c9ZiJDb3VsZCBub3QgbGF1bmNoIHN0ZXAtY2xpIGV4ZWN1dGFibGUuIEVycm9yOiB7c3RkZXJyfSIpCgogICAgICAgICMgQ2hlY2sgd2hldGhlciB0aGUgQ0xJIHZlcnNpb24gaXMgc3VwcG9ydGVkIGJ5IHRoaXMgY29sbGVjdGlvbiB2ZXJzaW9uLgogICAgICAgICMgUGVyZm9ybXMgYSBiYXNpYyB2ZXJzaW9uIGNoZWNrLCBhcyBwYWNrYWdpbmcgbWF5IG5vdCBiZSBhdmFpbGFibGUgb24gdGFyZ2V0IHN5c3RlbXMuCiAgICAgICAgY2xpX3ZlcnNpb24gPSBMb29zZVZlcnNpb24oc3Rkb3V0LnNwbGl0KCIgIilbMV0uc3BsaXQoIi8iKVsxXSkKICAgICAgICBjb2xsZWN0aW9uX21pbl92ZXJzaW9uID0gTG9vc2VWZXJzaW9uKENPTExFQ1RJT05fTUlOX1NURVBfQ0xJX1ZFUlNJT04pCiAgICAgICAgaWYgY2xpX3ZlcnNpb24gPCBjb2xsZWN0aW9uX21pbl92ZXJzaW9uOgogICAgICAgICAgICBtb2R1bGUud2FybigKICAgICAgICAgICAgICAgIGYic3RlcC1jbGkgdmVyc2lvbiB7Y2xpX3ZlcnNpb259IGlzIG5vdCBzdXBwb3J0ZWQgYnkgdGhpcyBjb2xsZWN0aW9uIHZlcnNpb24gKHtDT0xMRUNUSU9OX1ZFUlNJT059KS4gIgogICAgICAgICAgICAgICAgZiJUaGUgbWluaW11bSBzdXBwb3J0ZWQgc3RlcC1jbGkgdmVyc2lvbiBpczoge0NPTExFQ1RJT05fTUlOX1NURVBfQ0xJX1ZFUlNJT059LiIKICAgICAgICAgICAgKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHBhdGgoc2VsZikgLT4gc3RyOgogICAgICAgIHJldHVybiBzZWxmLl9leGVjCgoKQGRhdGFjbGFzcwpjbGFzcyBDbGlDb21tYW5kUmVzdWx0OgogICAgIiIiVGhlIHJlc3VsdCBvZiBhIENsaUNvbW1hbmQgcnVuKCkgY29tbWFuZAogICAgIiIiCiAgICByYzogaW50CiAgICBzdGRvdXQ6IHN0cgogICAgc3RkZXJyOiBzdHIKCgpAZGF0YWNsYXNzCmNsYXNzIENsaUNvbW1hbmRBcmdzOgogICAgIiIiQXJndW1lbnRzIHRvIGJlIHBhc3NlZCB0byB0aGUgY29tbWFuZC4KCiAgICBhcmdzIGlzIGEgcGxhaW4gbGlzdCBvZiBhcmd1bWVudHMgdG8gYmUgcGFzc2VkIGluCiAgICBtb2R1bGVfcGFyYW1fYXJncyBpcyBhIHN0ci1zdHIgZGljdCB0aGF0IG1hcHMgbW9kdWxlIHBhcmFtcyB0byBjb21tYW5kLWxpbmUgYXJncy4KICAgICAgICBGb3IgZXhhbXBsZSwgeyJwcm92aXNpb25lciI6ICItLXByb3Zpc2lvbmVyIn0gd2lsbCBjYXVzZSB0aGUgbW9kdWxlIHBhcmFtICJwcm92aXNpb25lciIgdG8gYmUgcGFzc2VkIGluCiAgICAgICAgYXMgdGhlIHZhbHVlIHRvIHRoZSAiLS1wcm92aXNpb25lciIgYXJndW1lbnQuIFZhbHVlcyBhcmUgdHJhbnNmb3JtZWQgYWNjb3JkaW5nIHRvIHRoZWlyIHR5cGU6CiAgICAgICAgICAgIC0gYm9vbHMgb25seSBwYXNzIHRoZSBjb3JyZXNwb25kaW5nIGZsYWcgKGUuZy4gLS1mb3JjZSkKICAgICAgICAgICAgLSBsaXN0IGNhdXNlcyB0aGUgbWFwcGVkIGFyZyB0byBiZSByZXBlYXRlZCBmb3IgZWFjaCB2YWx1ZSAoZS5nLiAtLWluPTEgLS1pbj0yKQogICAgICAgICAgICAtIGFsbCBvdGhlciB0eXBlcyBhcmUgZm9ybWF0dGVkIGFuZCBwYXNzZWQgYXMtaXMKICAgIG1vZHVsZV90bXBmaWxlX2FyZ3MgaXMgdGhlIHNhbWUgYXMgbW9kdWxlX3BhcmFtX2FyZ3MsIGV4Y2VwdCB0aGF0IHRoZSB2YWx1ZSBpcyB3cml0dGVuIHRvIGEgdGVtcG9yYXJ5IGZpbGUKICAgICAgICBhdCBydW50aW1lIGFuZCB0aGUgcGF0aCB0byB0aGF0IGZpbGUgaXMgcGFzc2VkIGluc3RlYWQuIFRoaXMgaXMgcHJpbWFyaWx5IGludGVuZGVkIGZvciBwYXNzd29yZCBmaWxlcy4KICAgICIiIgogICAgYXJnczogTGlzdFtzdHJdCiAgICBtb2R1bGVfcGFyYW1fYXJnczogRGljdFtzdHIsIHN0cl0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9ZGljdCkKICAgIG1vZHVsZV90bXBmaWxlX2FyZ3M6IERpY3Rbc3RyLCBzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWRpY3QpCgogICAgZGVmIGpvaW4oc2VsZiwgb3RoZXI6IENsaUNvbW1hbmRBcmdzKSAtPiBDbGlDb21tYW5kQXJnczoKICAgICAgICAiIiJKb2lucyB0aGlzIEFyZ3Mgb2JqZWN0IHdpdGggYW5vdGhlciBvbmUgYW5kIHByb2R1Y2VzIGEgbmV3IG9iamVjdCBjb250YWluaW5nIHZhbHVlcyBmcm9tIGJvdGguCiAgICAgICAgYGFyZ3NgIGFyZSBhcHBlbmRlZCB3aGlsZSB0aGUgbW9kdWxlX3hfYXJncyB2YWx1ZXMgYXJlIG1lcmdlZC4gVGhlIG90aGVyIG9iamVjdCB0YWtlcyBwcmVjZWRlbmNlLgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBvdGhlciAoU2VsZik6IFRoZSBvdGhlciBvYmplY3QgdG8gbWVyZ2Ugd2l0aAoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBTZWxmOiBOZXcgQXJncyBvYmplY3QKICAgICAgICAiIiIKICAgICAgICByZXR1cm4gQ2xpQ29tbWFuZEFyZ3Moc2VsZi5hcmdzICsgb3RoZXIuYXJncywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyoqc2VsZi5tb2R1bGVfcGFyYW1fYXJncywgKipvdGhlci5tb2R1bGVfcGFyYW1fYXJnc30sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsqKnNlbGYubW9kdWxlX3RtcGZpbGVfYXJncywgKipvdGhlci5tb2R1bGVfdG1wZmlsZV9hcmdzfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCgogICAgZGVmIGJ1aWxkKHNlbGYsIG1vZHVsZTogQW5zaWJsZU1vZHVsZSwgdG1wZGlyOiBQYXRoKSAtPiBMaXN0W3N0cl06CiAgICAgICAgYXJncyA9IHNlbGYuYXJncwogICAgICAgIG1vZHVsZV9wYXJhbXMgPSBjYXN0KERpY3QsIG1vZHVsZS5wYXJhbXMpCgogICAgICAgICMgQ3JlYXRlIHRlbXBvcmFyeSBmaWxlcyBmb3IgYW55IHBhcmFtZXRlcnMgdGhhdCBuZWVkIHRvIHBvaW50IHRvIGZpbGVzLCBzdWNoIGFzIHBhc3N3b3JkLWZpbGUKICAgICAgICAjIFNpbmNlIHRoZXNlIGZpbGVzIG1heSBjb250YWluIHNlbnNpdGl2ZSBkYXRhLCB3ZSBmaXJzdCBjcmVhdGUgdGhlIGZkIHdpdGggbG9ja2VkLWRvd24gcGVybWlzc2lvbnMsCiAgICAgICAgIyB0aGVuIHdyaXRlIHRoZSBhY3R1YWwgY29udGVudAogICAgICAgIGZvciBtb2R1bGVfYXJnIGluIFthcmcgZm9yIGFyZyBpbiBzZWxmLm1vZHVsZV90bXBmaWxlX2FyZ3MgaWYgbW9kdWxlX3BhcmFtc1thcmddXToKICAgICAgICAgICAgcGF0aCA9IHRtcGRpciAvIG1vZHVsZV9hcmcKICAgICAgICAgICAgcGF0aC50b3VjaCgwbzcwMCwgZXhpc3Rfb2s9RmFsc2UpCiAgICAgICAgICAgIHdpdGggb3BlbihwYXRoLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgICAgICBmLndyaXRlKG1vZHVsZV9wYXJhbXNbbW9kdWxlX2FyZ10pCiAgICAgICAgICAgIGFyZ3MuZXh0ZW5kKFtzZWxmLm1vZHVsZV90bXBmaWxlX2FyZ3NbbW9kdWxlX2FyZ10sIHBhdGguYXNfcG9zaXgoKV0pCgogICAgICAgICMgdHJhbnNmb3JtIHRoZSB2YWx1ZXMgaW4gbW9kdWxlX3BhcmFtcyBpbnRvIHZhbGlkIHN0ZXAtY29pIGFyZ3VtZW50cyB1c2luZyBtb2R1bGVfYXJnc19wYXJhbXMgbWFwcGluZwogICAgICAgIGZvciBwYXJhbV9uYW1lIGluIFthcmcgZm9yIGFyZyBpbiBzZWxmLm1vZHVsZV9wYXJhbV9hcmdzIGlmIG1vZHVsZV9wYXJhbXNbYXJnXV06CiAgICAgICAgICAgIGlmIHBhcmFtX25hbWUgbm90IGluIG1vZHVsZV9wYXJhbXM6CiAgICAgICAgICAgICAgICByYWlzZSBDbGlFcnJvcihmIkNvdWxkIG5vdCBidWlsZCBjb21tYW5kIHBhcmFtZXRlcnM6ICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYicGFyYW0gJ3twYXJhbV9uYW1lfScgbm90IGluIG1vZHVsZSBhcmdzcGVjLCB0aGlzIGlzIG1vc3QgbGlrZWx5IGEgYnVnIikKCiAgICAgICAgICAgIHBhcmFtX3R5cGUgPSBtb2R1bGUuYXJndW1lbnRfc3BlY1twYXJhbV9uYW1lXS5nZXQoInR5cGUiLCAic3RyIikKICAgICAgICAgICAgaWYgcGFyYW1fdHlwZSA9PSAiYm9vbCIgYW5kIGJvb2wobW9kdWxlX3BhcmFtc1twYXJhbV9uYW1lXSk6CiAgICAgICAgICAgICAgICBhcmdzLmFwcGVuZChzZWxmLm1vZHVsZV9wYXJhbV9hcmdzW3BhcmFtX25hbWVdKQogICAgICAgICAgICBlbGlmIHBhcmFtX3R5cGUgPT0gImxpc3QiOgogICAgICAgICAgICAgICAgZm9yIGl0ZW0gaW4gY2FzdChMaXN0LCBtb2R1bGVfcGFyYW1zW3BhcmFtX25hbWVdKToKICAgICAgICAgICAgICAgICAgICBhcmdzLmV4dGVuZChbc2VsZi5tb2R1bGVfcGFyYW1fYXJnc1twYXJhbV9uYW1lXSwgc3RyKGl0ZW0pXSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICMgYWxsIG90aGVyIHR5cGVzCiAgICAgICAgICAgICAgICBhcmdzLmV4dGVuZChbc2VsZi5tb2R1bGVfcGFyYW1fYXJnc1twYXJhbV9uYW1lXSwgc3RyKG1vZHVsZV9wYXJhbXNbcGFyYW1fbmFtZV0pXSkKICAgICAgICByZXR1cm4gYXJncwoKCkBkYXRhY2xhc3MKY2xhc3MgQ2xpQ29tbWFuZDoKICAgICIiIkNsaUNvbW1hbmQgcmVwcmVzZW50cyBhIHNpbmdsZSBjb21tYW5kIHRvIGJlIHJ1biBieSBzdGVwLWNsaQoKICAgIEFyZ3M6CiAgICAgICAgZXhlY3V0YWJsZShTdGVwQ2xpRXhlY3V0YWJsZSk6IFRoZSBleGVjdXRhYmxlIHRvIHJ1biB0aGUgY29tbWFuZCB3aXRoCiAgICAgICAgYXJnc3BlYyAoQ2xpQ29tbWFuZEFyZ3MpOiBBcmd1bWVudHMgdG8gYmUgcGFzc2VkIHRvIHRoZSBleGVjdXRhYmxlCiAgICAgICAgcnVuX2luX2NoZWNrX21vZGUgKGJvb2wpOiBXaGV0aGVyIHRvIHJ1biB0aGlzIGNvbW1hbmQgZXZlbiBpZiBBbnNpYmxlcyBjaGVja19tb2RlIGlzIGVuYWJsZWQuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZiBmYWxzZSBhbmQgY2hlY2tfbW9kZSBpcyBlbmFibGVkLCB0aGUgaW52b2NhdGlvbiB3aWxsIGV4aXQgd2l0aCByYz0wIGFuZCBubyBvdXRwdXQuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPbmx5IHNldCB0aGlzIG9uIGludm9jYXRpb25zIHRoYXQgZG9uJ3QgY2hhbmdlIHRoZSBzeXN0ZW0gc3RhdGUhIERlZmF1bHQgaXMgZmFsc2UKICAgICAgICBmYWlsX29uX2Vycm9yKGJvb2wpOiBXaGV0aGVyIHRvIHJ1biBtb2R1bGVfZmFpbCBpZiB0aGlzIGludm9jYXRpb24gZmFpbHMuIERlZmF1bHQgaXMgdHJ1ZQogICAgIiIiCiAgICBleGVjdXRhYmxlOiBTdGVwQ2xpRXhlY3V0YWJsZQogICAgYXJnczogQ2xpQ29tbWFuZEFyZ3MKICAgIHJ1bl9pbl9jaGVja19tb2RlOiBib29sID0gRmFsc2UKICAgIGZhaWxfb25fZXJyb3I6IGJvb2wgPSBUcnVlCgogICAgZGVmIHJ1bihzZWxmLCBtb2R1bGU6IEFuc2libGVNb2R1bGUpIC0+IENsaUNvbW1hbmRSZXN1bHQ6CiAgICAgICAgIiIiRXhlY3V0ZSB0aGUgY29tbWFuZCB3aXRoIHRoZSBnaXZlbiBzdGVwLWNsaSBleGVjdXRhYmxlIGFuZCBBbnNpYmxlIG1vZHVsZQoKICAgICAgICBBcmdzOgogICAgICAgICAgICBtb2R1bGUgKEFuc2libGVNb2R1bGUpOiBUaGUgQW5zaWJsZSBtb2R1bGUKCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgQ2xpQ29tbWFuZFJlc3VsdDogUmVzdWx0IG9mIHRoZSBjb21tYW5kLgoKICAgICAgICBSYWlzZXM6CiAgICAgICAgICAgIENsaUVycm9yIGlmIHRoZSBtb2R1bGUgYXJncyBkb24ndCBtYXRjaCB3aXRoIHRoZSBwcm92aWRlZCBwYXJhbXMKICAgICAgICAiIiIKICAgICAgICAjIHVzZSBhIGNvbnRleHQgbWFuYWdlciB0byBlbnN1cmUgdGhhdCBvdXIgc2Vuc2l0aXZlIHRlbXBvcmFyeSBmaWxlcyBhcmUgKmFsd2F5cyogZGVsZXRlZAogICAgICAgIHdpdGggdGVtcGZpbGUuVGVtcG9yYXJ5RGlyZWN0b3J5KCItYW5zaWJsZS1zbWFsbHN0ZXAiKSBhcyB0bXBkaXI6CiAgICAgICAgICAgIGNtZCA9IFtzZWxmLmV4ZWN1dGFibGUucGF0aF0gKyBzZWxmLmFyZ3MuYnVpbGQobW9kdWxlLCBQYXRoKHRtcGRpcikpCgogICAgICAgICAgICBpZiBtb2R1bGUuY2hlY2tfbW9kZSBhbmQgbm90IHNlbGYucnVuX2luX2NoZWNrX21vZGU6CiAgICAgICAgICAgICAgICByZXR1cm4gQ2xpQ29tbWFuZFJlc3VsdCgwLCAiIiwgIiIpCgogICAgICAgICAgICByYywgc3Rkb3V0LCBzdGRlcnIgPSBtb2R1bGUucnVuX2NvbW1hbmQoY21kKQogICAgICAgICAgICBpZiByYyAhPSAwIGFuZCBzZWxmLmZhaWxfb25fZXJyb3I6CiAgICAgICAgICAgICAgICBpZiAoImVycm9yIGFsbG9jYXRpbmcgdGVybWluYWwiIGluIHN0ZGVyciBvciAib3BlbiAvZGV2L3R0eTogbm8gc3VjaCBkZXZpY2Ugb3IgYWRkcmVzcyIgaW4gc3RkZXJyKToKICAgICAgICAgICAgICAgICAgICBtb2R1bGUuZmFpbF9qc29uKAogICAgICAgICAgICAgICAgICAgICAgICAiRmFpbGVkIHRvIHJ1biBjb21tYW5kOiBzdGVwLWNsaSB0cmllZCB0byBvcGVuIGEgdGVybWluYWwgZm9yIGludGVyYWN0aXZlIGlucHV0LiAiCiAgICAgICAgICAgICAgICAgICAgICAgICJUaGlzIGhhcHBlbnMgd2hlbiBzdGVwLWNsaSBwcm9tcHRzIGZvciBhZGRpdGlvbmFsIHBhcmFtZXRlcnMgb3IgYXNrcyBmb3IgY29uZmlybWF0aW9uLiAiCiAgICAgICAgICAgICAgICAgICAgICAgICJZb3UgbWF5IGJlIG1pc3NpbmcgYSByZXF1aXJlZCBwYXJhbWV0ZXIgKHN1Y2ggYXMgJ2ZvcmNlJykuIENoZWNrIHRoZSBtb2R1bGUgZG9jdW1lbnRhdGlvbi4gIgogICAgICAgICAgICAgICAgICAgICAgICAiSWYgeW91IGFyZSBzdXJlIHRoYXQgeW91IHByb3ZpZGVkIGFsbCByZXF1aXJlZCBwYXJhbWV0ZXJzLCB5b3UgbWF5IGhhdmUgZW5jb3VudGVyZWQgYSBidWcuICIKICAgICAgICAgICAgICAgICAgICAgICAgZiJQbGVhc2UgZmlsZSBhbiBpc3N1ZSBhdCB7Q09MTEVDVElPTl9SRVBPfSBpZiB5b3UgdGhpbmsgdGhpcyBpcyB0aGUgY2FzZS4gIgogICAgICAgICAgICAgICAgICAgICAgICBmIkZhaWxlZCBjb21tYW5kOiBcJ3snICcuam9pbihjbWQpfVwnIgogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgbW9kdWxlLmZhaWxfanNvbihmIkVycm9yIHJ1bm5pbmcgY29tbWFuZCBcJ3snICcuam9pbihjbWQpfVwnLiBFcnJvcjoge3N0ZGVycn0iKQogICAgICAgICAgICByZXR1cm4gQ2xpQ29tbWFuZFJlc3VsdChyYywgc3Rkb3V0LCBzdGRlcnIpCg==
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from pathlib import Path
+import tempfile
+from typing import List, Dict, cast
+
+from ansible.module_utils.basic import AnsibleModule
+from ansible.module_utils.compat.version import LooseVersion
+
+from .constants import COLLECTION_VERSION, COLLECTION_MIN_STEP_CLI_VERSION, COLLECTION_REPO
+
+
+class CliError(Exception):
+    pass
+
+
+class StepCliExecutable:
+    """Represents the presence of a step-cli executable with a given version on the system
+    """
+
+    def __init__(self, module: AnsibleModule, executable: str = "step-cli") -> None:
+        self._exec = executable
+
+        rc, stdout, stderr = module.run_command([executable, "version"])
+        if rc != 0:
+            module.fail_json(msg=f"Could not launch step-cli executable. Error: {stderr}")
+
+        # Check whether the CLI version is supported by this collection version.
+        # Performs a basic version check, as packaging may not be available on target systems.
+        cli_version = LooseVersion(stdout.split(" ")[1].split("/")[1])
+        collection_min_version = LooseVersion(COLLECTION_MIN_STEP_CLI_VERSION)
+        if cli_version < collection_min_version:
+            module.warn(
+                f"step-cli version {cli_version} is not supported by this collection version ({COLLECTION_VERSION}). "
+                f"The minimum supported step-cli version is: {COLLECTION_MIN_STEP_CLI_VERSION}."
+            )
+
+    @property
+    def path(self) -> str:
+        return self._exec
+
+
+@dataclass
+class CliCommandResult:
+    """The result of a CliCommand run() command
+    """
+    rc: int
+    stdout: str
+    stderr: str
+
+
+@dataclass
+class CliCommandArgs:
+    """Arguments to be passed to the command.
+
+    args is a plain list of arguments to be passed in
+    module_param_args is a str-str dict that maps module params to command-line args.
+        For example, {"provisioner": "--provisioner"} will cause the module param "provisioner" to be passed in
+        as the value to the "--provisioner" argument. Values are transformed according to their type:
+            - bools only pass the corresponding flag (e.g. --force)
+            - list causes the mapped arg to be repeated for each value (e.g. --in=1 --in=2)
+            - all other types are formatted and passed as-is
+    module_tmpfile_args is the same as module_param_args, except that the value is written to a temporary file
+        at runtime and the path to that file is passed instead. This is primarily intended for password files.
+    """
+    args: List[str]
+    module_param_args: Dict[str, str] = field(default_factory=dict)
+    module_tmpfile_args: Dict[str, str] = field(default_factory=dict)
+
+    def join(self, other: CliCommandArgs) -> CliCommandArgs:
+        """Joins this Args object with another one and produces a new object containing values from both.
+        `args` are appended while the module_x_args values are merged. The other object takes precedence.
+
+        Args:
+            other (Self): The other object to merge with
+
+        Returns:
+            Self: New Args object
+        """
+        return CliCommandArgs(self.args + other.args,
+                              {**self.module_param_args, **other.module_param_args},
+                              {**self.module_tmpfile_args, **other.module_tmpfile_args}
+                              )
+
+    def build(self, module: AnsibleModule, tmpdir: Path) -> List[str]:
+        args = self.args
+        module_params = cast(Dict, module.params)
+
+        # Create temporary files for any parameters that need to point to files, such as password-file
+        # Since these files may contain sensitive data, we first create the fd with locked-down permissions,
+        # then write the actual content
+        for module_arg in [arg for arg in self.module_tmpfile_args if module_params[arg]]:
+            path = tmpdir / module_arg
+            path.touch(0o700, exist_ok=False)
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(module_params[module_arg])
+            args.extend([self.module_tmpfile_args[module_arg], path.as_posix()])
+
+        # transform the values in module_params into valid step-coi arguments using module_args_params mapping
+        for param_name in [arg for arg in self.module_param_args if module_params[arg]]:
+            if param_name not in module_params:
+                raise CliError(f"Could not build command parameters: "
+                               f"param '{param_name}' not in module argspec, this is most likely a bug")
+
+            param_type = module.argument_spec[param_name].get("type", "str")
+            if param_type == "bool" and bool(module_params[param_name]):
+                args.append(self.module_param_args[param_name])
+            elif param_type == "list":
+                for item in cast(List, module_params[param_name]):
+                    args.extend([self.module_param_args[param_name], str(item)])
+            else:
+                # all other types
+                args.extend([self.module_param_args[param_name], str(module_params[param_name])])
+        return args
+
+
+@dataclass
+class CliCommand:
+    """CliCommand represents a single command to be run by step-cli
+
+    Args:
+        executable(StepCliExecutable): The executable to run the command with
+        argspec (CliCommandArgs): Arguments to be passed to the executable
+        run_in_check_mode (bool): Whether to run this command even if Ansibles check_mode is enabled.
+                                  If false and check_mode is enabled, the invocation will exit with rc=0 and no output.
+                                  Only set this on invocations that don't change the system state! Default is false
+        fail_on_error(bool): Whether to run module_fail if this invocation fails. Default is true
+    """
+    executable: StepCliExecutable
+    args: CliCommandArgs
+    run_in_check_mode: bool = False
+    fail_on_error: bool = True
+
+    def run(self, module: AnsibleModule) -> CliCommandResult:
+        """Execute the command with the given step-cli executable and Ansible module
+
+        Args:
+            module (AnsibleModule): The Ansible module
+
+        Returns:
+            CliCommandResult: Result of the command.
+
+        Raises:
+            CliError if the module args don't match with the provided params
+        """
+        # use a context manager to ensure that our sensitive temporary files are *always* deleted
+        with tempfile.TemporaryDirectory("-ansible-smallstep") as tmpdir:
+            cmd = [self.executable.path] + self.args.build(module, Path(tmpdir))
+
+            if module.check_mode and not self.run_in_check_mode:
+                return CliCommandResult(0, "", "")
+
+            rc, stdout, stderr = module.run_command(cmd)
+            if rc != 0 and self.fail_on_error:
+                if ("error allocating terminal" in stderr or "open /dev/tty: no such device or address" in stderr):
+                    module.fail_json(
+                        "Failed to run command: step-cli tried to open a terminal for interactive input. "
+                        "This happens when step-cli prompts for additional parameters or asks for confirmation. "
+                        "You may be missing a required parameter (such as 'force'). Check the module documentation. "
+                        "If you are sure that you provided all required parameters, you may have encountered a bug. "
+                        f"Please file an issue at {COLLECTION_REPO} if you think this is the case. "
+                        f"Failed command: \'{' '.join(cmd)}\'"
+                    )
+                else:
+                    module.fail_json(f"Error running command \'{' '.join(cmd)}\'. Error: {stderr}")
+            return CliCommandResult(rc, stdout, stderr)

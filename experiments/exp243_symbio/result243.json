@@ -1,1 +1,91 @@
-ewogIuWfuue6vyI6IHsKICAi6ISRIjogMS4wLAogICLmr5LlipsiOiAwLjM1LAogICLlj5HnjrAiOiAwLjg1LAogICLljovliLYiOiAxLjAsCiAgIuWHgOWinumVvyI6IC0wLjM1LAogICJB57uI5oCBIjogLTAuMDAzLAogICLmr5LmgKfmi5DngrnmraUiOiA3LAogICLls7Dlh4Dlop7plb8iOiAwLjA1CiB9LAogInJlcD0wLjAwIjogewogICJB57uI5oCBIjogMy41ODIsCiAgIuWHgOWinumVvyI6IDAuNjUsCiAgIuWOi+WItiI6IDAuMAogfSwKICJyZXA9MC4wNSI6IHsKICAiQee7iOaAgSI6IDEuMzQ1LAogICLlh4Dlop7plb8iOiAwLjIyNSwKICAi5Y6L5Yi2IjogMC40MjUKIH0sCiAicmVwPTAuMTAiOiB7CiAgIkHnu4jmgIEiOiAtMC4wMDIsCiAgIuWHgOWinumVvyI6IC0wLjIsCiAgIuWOi+WItiI6IDAuODUKIH0sCiAicmVwPTAuMjUiOiB7CiAgIkHnu4jmgIEiOiAtMC4wMDMsCiAgIuWHgOWinumVvyI6IC0wLjM1LAogICLljovliLYiOiAxLjAKIH0sCiAicmVwPTAuNTAiOiB7CiAgIkHnu4jmgIEiOiAtMC4wMDMsCiAgIuWHgOWinumVvyI6IC0wLjM1LAogICLljovliLYiOiAxLjAKIH0sCiAicmVwPTEuMDAiOiB7CiAgIkHnu4jmgIEiOiAtMC4wMDMsCiAgIuWHgOWinumVvyI6IC0wLjM1LAogICLljovliLYiOiAxLjAKIH0sCiAiZ2Fpbj0wLjAiOiB7CiAgIuWPkeeOsCI6IDAuMCwKICAi5Y6L5Yi2IjogMC4wLAogICJB57uI5oCBIjogMy41ODIKIH0sCiAiZ2Fpbj0wLjIiOiB7CiAgIuWPkeeOsCI6IDAuMjEyLAogICLljovliLYiOiAwLjUzMSwKICAiQee7iOaAgSI6IDAuNzg2CiB9LAogImdhaW49MC41IjogewogICLlj5HnjrAiOiAwLjQyNSwKICAi5Y6L5Yi2IjogMS4wLAogICJB57uI5oCBIjogLTAuMDAzCiB9LAogImdhaW49MS4wIjogewogICLlj5HnjrAiOiAwLjg1LAogICLljovliLYiOiAxLjAsCiAgIkHnu4jmgIEiOiAtMC4wMDMKIH0sCiAiZ2Fpbj0yLjAiOiB7CiAgIuWPkeeOsCI6IDAuODUsCiAgIuWOi+WItiI6IDEuMCwKICAiQee7iOaAgSI6IC0wLjAwMwogfSwKICJ2aXIwPTAuMDAiOiB7CiAgIuavkuWKmyI6IDAuMCwKICAiQee7iOaAgSI6IDAuMDI0CiB9LAogInZpcjA9MC4xMCI6IHsKICAi5q+S5YqbIjogMC4xLAogICJB57uI5oCBIjogLTAuMDAxCiB9LAogInZpcjA9MC4yMCI6IHsKICAi5q+S5YqbIjogMC4yLAogICJB57uI5oCBIjogLTAuMDAyCiB9LAogInZpcjA9MC4zNSI6IHsKICAi5q+S5YqbIjogMC4zNSwKICAiQee7iOaAgSI6IC0wLjAwMwogfSwKICJ2aXIwPTAuNTAiOiB7CiAgIuavkuWKmyI6IDAuNSwKICAiQee7iOaAgSI6IC0wLjAwNQogfSwKICJ2aXIwPTAuODAiOiB7CiAgIuavkuWKmyI6IDAuOCwKICAiQee7iOaAgSI6IC0wLjAwOAogfQp9
+{
+ "基线": {
+  "脑": 1.0,
+  "毒力": 0.35,
+  "发现": 0.85,
+  "压制": 1.0,
+  "净增长": -0.35,
+  "A终态": -0.003,
+  "毒性拐点步": 7,
+  "峰净增长": 0.05
+ },
+ "rep=0.00": {
+  "A终态": 3.582,
+  "净增长": 0.65,
+  "压制": 0.0
+ },
+ "rep=0.05": {
+  "A终态": 1.345,
+  "净增长": 0.225,
+  "压制": 0.425
+ },
+ "rep=0.10": {
+  "A终态": -0.002,
+  "净增长": -0.2,
+  "压制": 0.85
+ },
+ "rep=0.25": {
+  "A终态": -0.003,
+  "净增长": -0.35,
+  "压制": 1.0
+ },
+ "rep=0.50": {
+  "A终态": -0.003,
+  "净增长": -0.35,
+  "压制": 1.0
+ },
+ "rep=1.00": {
+  "A终态": -0.003,
+  "净增长": -0.35,
+  "压制": 1.0
+ },
+ "gain=0.0": {
+  "发现": 0.0,
+  "压制": 0.0,
+  "A终态": 3.582
+ },
+ "gain=0.2": {
+  "发现": 0.212,
+  "压制": 0.531,
+  "A终态": 0.786
+ },
+ "gain=0.5": {
+  "发现": 0.425,
+  "压制": 1.0,
+  "A终态": -0.003
+ },
+ "gain=1.0": {
+  "发现": 0.85,
+  "压制": 1.0,
+  "A终态": -0.003
+ },
+ "gain=2.0": {
+  "发现": 0.85,
+  "压制": 1.0,
+  "A终态": -0.003
+ },
+ "vir0=0.00": {
+  "毒力": 0.0,
+  "A终态": 0.024
+ },
+ "vir0=0.10": {
+  "毒力": 0.1,
+  "A终态": -0.001
+ },
+ "vir0=0.20": {
+  "毒力": 0.2,
+  "A终态": -0.002
+ },
+ "vir0=0.35": {
+  "毒力": 0.35,
+  "A终态": -0.003
+ },
+ "vir0=0.50": {
+  "毒力": 0.5,
+  "A终态": -0.005
+ },
+ "vir0=0.80": {
+  "毒力": 0.8,
+  "A终态": -0.008
+ }
+}

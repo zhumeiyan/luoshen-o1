@@ -1,1 +1,65 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMTkyIOeos+WBpeaAp++8mumFjeWvueespuWPt+ajgOmqjCArIOmZjeS9juW5s+a7keW4uOaVsOeci+S/oeWPt+aYr+WQpueosyIiIgppbXBvcnQganNvbiwgbWF0aCwgcmFuZG9tLCByZSwgaGFzaGxpYiwgaXRlcnRvb2xzCmV4ZWMob3BlbigiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTkyX3NlZWRfZGVzaXJlL3J1bjE5MmIucHkiKS5yZWFkKCkuc3BsaXQoIlNFRURTPVsxMSIpWzBdKQpTRUVEUz1bMTEsMjIsMzMsNDQsNTUsNjYsNzcsODgsOTksMTExXQpTTU9PVEg9WzAuNSwwLjEsMC4wMl0KRlI9WzAuMSwwLjIsMC4zLDAuNV0KVz0yMDsgSz0zClZfYWxsPXNldCgiIi5qb2luKG1zZ3MpKQpvdXQ9e30KZm9yIHNtIGluIFNNT09USDoKICAgIGRlZiBwcm9iMihjbnQsY2N0eCxWLGN0eCxjaCxLKToKICAgICAgICBwPU5vbmUKICAgICAgICBmb3IgaiBpbiByYW5nZShLLDAsLTEpOgogICAgICAgICAgICBjPWN0eFstKGotMSk6XSBpZiBqPjEgZWxzZSAiIgogICAgICAgICAgICBuYz1jY3R4W2pdLmdldChjLDApOyBucHI9Y250W2pdLmdldCgoaixjLGNoKSwwKTsgVmo9bWF4KGxlbihWKSwxKQogICAgICAgICAgICBwaj0obnByK3NtKS8obmMrc20qVmopCiAgICAgICAgICAgIHA9cGogaWYgcCBpcyBOb25lIGVsc2UgKG5jLyhuYysxLjApKSpwaisoMS1uYy8obmMrMS4wKSkqcAogICAgICAgIHJldHVybiBwCiAgICBkZWYgYml0czIodHJhaW4sdGVzdCxWLEspOgogICAgICAgIGNudCxjY3R4PWJ1aWxkKHRyYWluLEspOyBiPTAuMAogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXN0KSk6CiAgICAgICAgICAgIGIrPS1tYXRoLmxvZzIobWF4KHByb2IyKGNudCxjY3R4LFYsdGVzdFttYXgoMCxpLUsrMSk6aV0sdGVzdFtpXSxLKSwxZS0xMikpCiAgICAgICAgcmV0dXJuIGIvbGVuKHRlc3QpCiAgICB0YWxseT17fQogICAgZm9yIEIgaW4gRlI6IHRhbGx5W3N0cihCKV09eyJzdXJwcmlzZS12cy1yYW5kb20iOltdLCAiZGVzaXJlLXZzLXJhbmRvbSI6W10sICJlYXN5LXZzLXJhbmRvbSI6W119CiAgICBhZ2c9e30KICAgIGZvciBzZCBpbiBTRUVEUzoKICAgICAgICByPXJhbmRvbS5SYW5kb20oc2QpOyBpZHg9bGlzdChyYW5nZShsZW4obXNncykpKTsgci5zaHVmZmxlKGlkeCkKICAgICAgICBudD1tYXgoMSxpbnQobGVuKGlkeCkqMC40KSk7IHRlc3RfaT1zb3J0ZWQoaWR4WzpudF0pOyB0cmFpbl9pPWlkeFtudDpdCiAgICAgICAgdGVzdF90eHQ9IiIuam9pbihtc2dzW2ldIGZvciBpIGluIHRlc3RfaSk7IHRyYWluX3R4dD0iIi5qb2luKG1zZ3NbaV0gZm9yIGkgaW4gdHJhaW5faSkKICAgICAgICB3aW5zPVt0cmFpbl90eHRbaTppK1ddIGZvciBpIGluIHJhbmdlKDAsbGVuKHRyYWluX3R4dCksVykgaWYgbGVuKHRyYWluX3R4dFtpOmkrV10pPj01XQogICAgICAgIG53PWxlbih3aW5zKQogICAgICAgIHN0PXRyYWluX3R4dFs6bWF4KDUwLGludChsZW4odHJhaW5fdHh0KSowLjEwKSldCiAgICAgICAgY250LGNjdHg9YnVpbGQoc3QsSyk7IHNjPVtdCiAgICAgICAgZm9yIHcgaW4gd2luczoKICAgICAgICAgICAgYj0wLjAKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHcpKToKICAgICAgICAgICAgICAgIGIrPS1tYXRoLmxvZzIobWF4KHByb2IyKGNudCxjY3R4LFZfYWxsLHdbbWF4KDAsaS1LKzEpOmldLHdbaV0sSyksMWUtMTIpKQogICAgICAgICAgICBzYy5hcHBlbmQoYi9sZW4odykpCiAgICAgICAgZm9yIEIgaW4gRlI6CiAgICAgICAgICAgIG5iPW1heCgxLGludChudypCKSk7IHJyPXJhbmRvbS5SYW5kb20oc2QqMTMraW50KEIqMTAwKSkKICAgICAgICAgICAgbz1saXN0KHJhbmdlKG53KSk7IHJyLnNodWZmbGUobyk7IG89b1s6bmJdCiAgICAgICAgICAgIHZfcmFuZD1iaXRzMigiIi5qb2luKHdpbnNbaV0gZm9yIGkgaW4gbyksdGVzdF90eHQsVl9hbGwsSykKICAgICAgICAgICAgb2Q9c29ydGVkKHJhbmdlKG53KSxrZXk9bGFtYmRhIGk6LWRzY29yZSh3aW5zW2ldKS9tYXgobGVuKHdpbnNbaV0pLDEpKVs6bmJdCiAgICAgICAgICAgIHZfZGVzPWJpdHMyKCIiLmpvaW4od2luc1tpXSBmb3IgaSBpbiBvZCksdGVzdF90eHQsVl9hbGwsSykKICAgICAgICAgICAgb3NfPXNvcnRlZChyYW5nZShudyksa2V5PWxhbWJkYSBpOi1zY1tpXSlbOm5iXQogICAgICAgICAgICB2X3N1cj1iaXRzMigiIi5qb2luKHdpbnNbaV0gZm9yIGkgaW4gb3NfKSx0ZXN0X3R4dCxWX2FsbCxLKQogICAgICAgICAgICBvbD1zb3J0ZWQocmFuZ2UobncpLGtleT1sYW1iZGEgaTpzY1tpXSlbOm5iXQogICAgICAgICAgICB2X2Vhc3k9Yml0czIoIiIuam9pbih3aW5zW2ldIGZvciBpIGluIG9sKSx0ZXN0X3R4dCxWX2FsbCxLKQogICAgICAgICAgICBmb3Igbm0sdiBpbiBbKCJzdXJwcmlzZS12cy1yYW5kb20iLHZfc3VyLXZfcmFuZCksKCJkZXNpcmUtdnMtcmFuZG9tIix2X2Rlcy12X3JhbmQpLCgiZWFzeS12cy1yYW5kb20iLHZfZWFzeS12X3JhbmQpXToKICAgICAgICAgICAgICAgIHRhbGx5W3N0cihCKV1bbm1dLmFwcGVuZCh2KQogICAgICAgICAgICBhZ2cuc2V0ZGVmYXVsdChzdHIoQikseyJyYW5kb20iOltdLCJkZXNpcmUiOltdLCJzdXJwcmlzZSI6W10sImVhc3kiOltdfSkKICAgICAgICAgICAgYWdnW3N0cihCKV1bInJhbmRvbSJdLmFwcGVuZCh2X3JhbmQpOyBhZ2dbc3RyKEIpXVsiZGVzaXJlIl0uYXBwZW5kKHZfZGVzKQogICAgICAgICAgICBhZ2dbc3RyKEIpXVsic3VycHJpc2UiXS5hcHBlbmQodl9zdXIpOyBhZ2dbc3RyKEIpXVsiZWFzeSJdLmFwcGVuZCh2X2Vhc3kpCiAgICBvdXRbc3RyKHNtKV09eyJtZWFuIjp7Qjp7azpzdW0odikvbGVuKHYpIGZvciBrLHYgaW4gYWdnW0JdLml0ZW1zKCl9IGZvciBCIGluIGFnZ30sCiAgICAgICAgICAgICAgICAgICJzaWduIjp7Qjp7azooc3VtKDEgZm9yIHggaW4gdiBpZiB4PDApLGxlbih2KSkgZm9yIGssdiBpbiB0YWxseVtCXS5pdGVtcygpfSBmb3IgQiBpbiB0YWxseX19CiAgICBwcmludChmIlxuIyMjIOW5s+a7kT17c219IikKICAgIGZvciBCIGluIEZSOgogICAgICAgIG09b3V0W3N0cihzbSldWyJtZWFuIl1bc3RyKEIpXTsgcz1vdXRbc3RyKHNtKV1bInNpZ24iXVtzdHIoQildCiAgICAgICAgcHJpbnQoZiIgQj17Qn06IHJhbmRvbT17bVsncmFuZG9tJ106LjRmfSBkZXNpcmU9e21bJ2Rlc2lyZSddOi40Zn0gc3VycHJpc2U9e21bJ3N1cnByaXNlJ106LjRmfSBlYXN5PXttWydlYXN5J106LjRmfSIpCiAgICAgICAgZm9yIG5tLChuZWcsbikgaW4gcy5pdGVtcygpOgogICAgICAgICAgICBwcmludChmIiAgICAgICAge25tOjIwc30g6LSfKOabtOWlvSkge25lZ30ve259IikKanNvbi5kdW1wKG91dCxvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxOTJfc2VlZF9kZXNpcmUvcm9idXN0MTkyLmpzb24iLCJ3IiksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQpwcmludCgiXG5bc2hhXSIsaGFzaGxpYi5zaGEyNTYob3BlbigiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTkyX3NlZWRfZGVzaXJlL3JvYnVzdDE5Mi5qc29uIiwncmInKS5yZWFkKCkpLmhleGRpZ2VzdCgpWzoxMl0pCg==
+# -*- coding: utf-8 -*-
+"""192 稳健性：配对符号检验 + 降低平滑常数看信号是否稳"""
+import json, math, random, re, hashlib, itertools
+exec(open("/data/workspace/luoshen-o1/experiments/exp192_seed_desire/run192b.py").read().split("SEEDS=[11")[0])
+SEEDS=[11,22,33,44,55,66,77,88,99,111]
+SMOOTH=[0.5,0.1,0.02]
+FR=[0.1,0.2,0.3,0.5]
+W=20; K=3
+V_all=set("".join(msgs))
+out={}
+for sm in SMOOTH:
+    def prob2(cnt,cctx,V,ctx,ch,K):
+        p=None
+        for j in range(K,0,-1):
+            c=ctx[-(j-1):] if j>1 else ""
+            nc=cctx[j].get(c,0); npr=cnt[j].get((j,c,ch),0); Vj=max(len(V),1)
+            pj=(npr+sm)/(nc+sm*Vj)
+            p=pj if p is None else (nc/(nc+1.0))*pj+(1-nc/(nc+1.0))*p
+        return p
+    def bits2(train,test,V,K):
+        cnt,cctx=build(train,K); b=0.0
+        for i in range(len(test)):
+            b+=-math.log2(max(prob2(cnt,cctx,V,test[max(0,i-K+1):i],test[i],K),1e-12))
+        return b/len(test)
+    tally={}
+    for B in FR: tally[str(B)]={"surprise-vs-random":[], "desire-vs-random":[], "easy-vs-random":[]}
+    agg={}
+    for sd in SEEDS:
+        r=random.Random(sd); idx=list(range(len(msgs))); r.shuffle(idx)
+        nt=max(1,int(len(idx)*0.4)); test_i=sorted(idx[:nt]); train_i=idx[nt:]
+        test_txt="".join(msgs[i] for i in test_i); train_txt="".join(msgs[i] for i in train_i)
+        wins=[train_txt[i:i+W] for i in range(0,len(train_txt),W) if len(train_txt[i:i+W])>=5]
+        nw=len(wins)
+        st=train_txt[:max(50,int(len(train_txt)*0.10))]
+        cnt,cctx=build(st,K); sc=[]
+        for w in wins:
+            b=0.0
+            for i in range(len(w)):
+                b+=-math.log2(max(prob2(cnt,cctx,V_all,w[max(0,i-K+1):i],w[i],K),1e-12))
+            sc.append(b/len(w))
+        for B in FR:
+            nb=max(1,int(nw*B)); rr=random.Random(sd*13+int(B*100))
+            o=list(range(nw)); rr.shuffle(o); o=o[:nb]
+            v_rand=bits2("".join(wins[i] for i in o),test_txt,V_all,K)
+            od=sorted(range(nw),key=lambda i:-dscore(wins[i])/max(len(wins[i]),1))[:nb]
+            v_des=bits2("".join(wins[i] for i in od),test_txt,V_all,K)
+            os_=sorted(range(nw),key=lambda i:-sc[i])[:nb]
+            v_sur=bits2("".join(wins[i] for i in os_),test_txt,V_all,K)
+            ol=sorted(range(nw),key=lambda i:sc[i])[:nb]
+            v_easy=bits2("".join(wins[i] for i in ol),test_txt,V_all,K)
+            for nm,v in [("surprise-vs-random",v_sur-v_rand),("desire-vs-random",v_des-v_rand),("easy-vs-random",v_easy-v_rand)]:
+                tally[str(B)][nm].append(v)
+            agg.setdefault(str(B),{"random":[],"desire":[],"surprise":[],"easy":[]})
+            agg[str(B)]["random"].append(v_rand); agg[str(B)]["desire"].append(v_des)
+            agg[str(B)]["surprise"].append(v_sur); agg[str(B)]["easy"].append(v_easy)
+    out[str(sm)]={"mean":{B:{k:sum(v)/len(v) for k,v in agg[B].items()} for B in agg},
+                  "sign":{B:{k:(sum(1 for x in v if x<0),len(v)) for k,v in tally[B].items()} for B in tally}}
+    print(f"\n### 平滑={sm}")
+    for B in FR:
+        m=out[str(sm)]["mean"][str(B)]; s=out[str(sm)]["sign"][str(B)]
+        print(f" B={B}: random={m['random']:.4f} desire={m['desire']:.4f} surprise={m['surprise']:.4f} easy={m['easy']:.4f}")
+        for nm,(neg,n) in s.items():
+            print(f"        {nm:20s} 负(更好) {neg}/{n}")
+json.dump(out,open("/data/workspace/luoshen-o1/experiments/exp192_seed_desire/robust192.json","w"),ensure_ascii=False,indent=1)
+print("\n[sha]",hashlib.sha256(open("/data/workspace/luoshen-o1/experiments/exp192_seed_desire/robust192.json",'rb').read()).hexdigest()[:12])

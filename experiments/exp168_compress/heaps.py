@@ -1,1 +1,47 @@
-aW1wb3J0IG9zLHJlLGpzb24sbWF0aCxjb2xsZWN0aW9ucwoKQkFTRT0iL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiCgpkZWYgbG9hZF96aCgpOgogICAgdD1vcGVuKGYie0JBU0V9L2V2aWRlbmNlL+Wksei0peaooeW8j+W6ky/liKTmja7moLgubWQiLGVuY29kaW5nPSJ1dGYtOCIsZXJyb3JzPSJpZ25vcmUiKS5yZWFkKCkKICAgIHJldHVybiBbYyBmb3IgYyBpbiB0IGlmICdcdTRlMDAnPD1jPD0nXHU5ZmZmJ10KCmRlZiBsb2FkX2NvZGUoKToKICAgIHR4dD1bXQogICAgZm9yIHJvb3QsXyxmcyBpbiBvcy53YWxrKEJBU0UpOgogICAgICAgIGZvciBmIGluIGZzOgogICAgICAgICAgICBpZiBmLmVuZHN3aXRoKCIucHkiKToKICAgICAgICAgICAgICAgIHRyeTogdHh0LmFwcGVuZChvcGVuKG9zLnBhdGguam9pbihyb290LGYpLGVuY29kaW5nPSJ1dGYtOCIsZXJyb3JzPSJpZ25vcmUiKS5yZWFkKCkpCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCiAgICByZXR1cm4gcmUuZmluZGFsbChyIltBLVphLXpfXVtBLVphLXowLTlfXSp8XGQrIiwiXG4iLmpvaW4odHh0KSkKCnpoPWxvYWRfemgoKTsgY3Q9bG9hZF9jb2RlKCkKcHJpbnQoZiLkuK3mlofmsYnlrZcgTl9tYXg9e2xlbih6aCl9ICAg5Luj56CB5qCH6K+G56ymIE5fbWF4PXtsZW4oY3QpfSIpCgpkZWYgY3VydmUoc2VxLG5hbWUscHRzKToKICAgIG91dD1bXQogICAgZm9yIG4gaW4gcHRzOgogICAgICAgIGlmIG4+bGVuKHNlcSk6IGNvbnRpbnVlCiAgICAgICAgVj1sZW4oc2V0KHNlcVs6bl0pKQogICAgICAgIG91dC5hcHBlbmQoKG4sVikpCiAgICAjIEhlYXBzIOaMh+aVsDogViA9IEsqTl5iICAtPiAgbG9nIFYgPSBsb2cgSyArIGIgbG9nIE4KICAgIGlmIGxlbihvdXQpPj0yOgogICAgICAgIHhzPVttYXRoLmxvZyhuKSBmb3IgbixfIGluIG91dF07IHlzPVttYXRoLmxvZyh2KSBmb3IgXyx2IGluIG91dF0KICAgICAgICBteD1zdW0oeHMpL2xlbih4cyk7IG15PXN1bSh5cykvbGVuKHlzKQogICAgICAgIGI9c3VtKCh4LW14KSooeS1teSkgZm9yIHgseSBpbiB6aXAoeHMseXMpKS9zdW0oKHgtbXgpKioyIGZvciB4IGluIHhzKQogICAgZWxzZTogYj1Ob25lCiAgICBwcmludChmIlxuW3tuYW1lfV0gIEhlYXBz5oyH5pWwIGI9e2I6LjNmfSIgaWYgYiBlbHNlIGYiXG5be25hbWV9XSIpCiAgICBwcmV2PU5vbmUKICAgIGZvciBuLFYgaW4gb3V0OgogICAgICAgIGc9ZiIgICjovoPkuIrmoaMgK3soVi1wcmV2KS9wcmV2KjEwMDouMWZ9JSkiIGlmIHByZXYgZWxzZSAiIgogICAgICAgIHByaW50KGYiICAgTj17bjo+OH0gIFY9e1Y6PjZ9e2d9IikKICAgICAgICBwcmV2PVYKICAgIHJldHVybiBkaWN0KG5hbWU9bmFtZSxjdXJ2ZT1vdXQsYj1iKQoKaW1wb3J0IG51bXB5IGFzIG5wCnB0cz1bNTAwMCwxMDAwMCwyMDAwMCw0MDAwMCw3OTM4Nl0KQT1jdXJ2ZSh6aCwi5Lit5paHwrfmsYnlrZfvvIjlsIHpl63pm4bvvIkiLHB0cykKcHRzMj1bNTAwMCwxMDAwMCw1MDAwMCwxMDAwMDAsMjAwMDAwLDUwMDAwMCwxMDAwMDAwXQpCPWN1cnZlKGN0LCLku6PnoIHCt+agh+ivhuespu+8iOmAoOivjcK35byA5pS+6ZuG77yJIixwdHMyKQoKanNvbi5kdW1wKGRpY3Qoemg9QSxjb2RlPUIpLG9wZW4oIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE2OF9jb21wcmVzcy9oZWFwcy5qc29uIiwidyIpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+import os,re,json,math,collections
+
+BASE="/data/workspace/luoshen-o1"
+
+def load_zh():
+    t=open(f"{BASE}/evidence/失败模式库/判据核.md",encoding="utf-8",errors="ignore").read()
+    return [c for c in t if '\u4e00'<=c<='\u9fff']
+
+def load_code():
+    txt=[]
+    for root,_,fs in os.walk(BASE):
+        for f in fs:
+            if f.endswith(".py"):
+                try: txt.append(open(os.path.join(root,f),encoding="utf-8",errors="ignore").read())
+                except Exception: pass
+    return re.findall(r"[A-Za-z_][A-Za-z0-9_]*|\d+","\n".join(txt))
+
+zh=load_zh(); ct=load_code()
+print(f"中文汉字 N_max={len(zh)}   代码标识符 N_max={len(ct)}")
+
+def curve(seq,name,pts):
+    out=[]
+    for n in pts:
+        if n>len(seq): continue
+        V=len(set(seq[:n]))
+        out.append((n,V))
+    # Heaps 指数: V = K*N^b  ->  log V = log K + b log N
+    if len(out)>=2:
+        xs=[math.log(n) for n,_ in out]; ys=[math.log(v) for _,v in out]
+        mx=sum(xs)/len(xs); my=sum(ys)/len(ys)
+        b=sum((x-mx)*(y-my) for x,y in zip(xs,ys))/sum((x-mx)**2 for x in xs)
+    else: b=None
+    print(f"\n[{name}]  Heaps指数 b={b:.3f}" if b else f"\n[{name}]")
+    prev=None
+    for n,V in out:
+        g=f"  (较上档 +{(V-prev)/prev*100:.1f}%)" if prev else ""
+        print(f"   N={n:>8}  V={V:>6}{g}")
+        prev=V
+    return dict(name=name,curve=out,b=b)
+
+import numpy as np
+pts=[5000,10000,20000,40000,79386]
+A=curve(zh,"中文·汉字（封闭集）",pts)
+pts2=[5000,10000,50000,100000,200000,500000,1000000]
+B=curve(ct,"代码·标识符（造词·开放集）",pts2)
+
+json.dump(dict(zh=A,code=B),open("/data/workspace/luoshen-o1/experiments/exp168_compress/heaps.json","w"),ensure_ascii=False,indent=1)

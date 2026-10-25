@@ -1,1 +1,132 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK55So55yf5aSq6Ziz6amx5Yqo5rSb56WeCj09PT09PT09PT09PT09PT0K5aSW6YOoIEFQSSDlhaggNDAz77yI5a6e5rWL77yab3Blbi1ub3RpZnkgLyBhbWFwIC8gd29ybGR0aW1lYXBpIOWdh+iiq+aMoe+8ie+8jArmiYDku6XkuI3ogZTnvZHmi7/mlbDmja7vvIzmlLnmiJDoh6rlt7Hnrpcg4oCU4oCUIOWkqeaWh+S9jee9ruaYr+e6r+eul+acr++8jOWPr+mqjOivgeOAgeWPr+Wkjeeul+OAggoK5YyX5Lqs5pe26Ze0ICA9IFVUQys4IOagh+WHhuaXtu+8iOWFqOWbveS4gOW8oOmSn++8iQrlqIHmtbfml7bpl7QgID0g5aiB5rW35Zyw5pa555yf5aSq6Ziz5pe277yI5oyJ57uP5bqm566X77yM5LiN5piv6KGM5pS/5pe26Ze077yJCgrlqIHmtbcgMTIyLjEwwrBFIC8gMzcuNTDCsE4K5YyX5LqsIDExNi40McKwRSAvIDM5LjkwwrBOCue7j+W6puW3riA1LjY5wrAg4oaSIOWcsOaWueaXtuW3riAyMi44IOWIhumSn+OAguWogea1t+eahOWkqumYs+avlOWMl+S6rOaXqeWIsCAyMi44IOWIhumSn+OAggoK5oqK5aSq6Ziz6auY5bqm6KeS5ZaC57uZ5rSb56We55qE5YWJ6YCa6YGT77yM55yL5a6D5piv5LiN5piv5Zyo6L2s44CCCiIiIgppbXBvcnQgc3lzLCBvcywgbWF0aCwganNvbiwgZGF0ZXRpbWUKaW1wb3J0IG51bXB5IGFzIG5wCgpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICdjb3JlJykpCmZyb20gbGlmZTUgaW1wb3J0IExpZmU1CgojIC0tLS0tLS0tLS0g5aSq6Ziz5L2N572u77yITk9BQSDnroDljJbnrpfms5XvvIznuq/nrpfmnK/vvIktLS0tLS0tLS0tCmRlZiBzb2xhcl9lbGV2YXRpb24obGF0LCBsb24sIGR0X3V0Yyk6CiAgICBkID0gZHRfdXRjLnRpbWV0dXBsZSgpLnRtX3lkYXkKICAgICMg5aSq6Ziz6LWk57qsCiAgICBkZWNsID0gMjMuNDQgKiBtYXRoLnNpbihtYXRoLnJhZGlhbnMoMzYwLjAvMzY1LjAgKiAoZCAtIDgxKSkpCiAgICBkZWNsID0gbWF0aC5yYWRpYW5zKGRlY2wpCiAgICAjIOWdh+aXtuW3ru+8iOWIhumSn++8iQogICAgQiA9IG1hdGgucmFkaWFucygzNjAuMC8zNjUuMCAqIChkIC0gODEpKQogICAgZW90ID0gOS44NyptYXRoLnNpbigyKkIpIC0gNy41MyptYXRoLmNvcyhCKSAtIDEuNSptYXRoLnNpbihCKQogICAgIyDnnJ/lpKrpmLPml7bvvIjliIbpkp/vvIkKICAgIGxzdCA9IGR0X3V0Yy5ob3VyKjYwICsgZHRfdXRjLm1pbnV0ZSArIGR0X3V0Yy5zZWNvbmQvNjAuMCArIGxvbio0LjAgKyBlb3QKICAgIGhhID0gbWF0aC5yYWRpYW5zKGxzdC80LjAgLSAxODAuMCkgICAjIOaXtuinkgogICAgbGF0X3IgPSBtYXRoLnJhZGlhbnMobGF0KQogICAgc2luX2FsdCA9IChtYXRoLnNpbihsYXRfcikqbWF0aC5zaW4oZGVjbCkgKwogICAgICAgICAgICAgICBtYXRoLmNvcyhsYXRfcikqbWF0aC5jb3MoZGVjbCkqbWF0aC5jb3MoaGEpKQogICAgYWx0ID0gbWF0aC5kZWdyZWVzKG1hdGguYXNpbihtYXgoLTEuMCwgbWluKDEuMCwgc2luX2FsdCkpKSkKICAgIHJldHVybiBhbHQKCmRlZiBsb2NhbF9zb2xhcl90aW1lKGxvbiwgZHRfdXRjLCB0el9vZmZzZXRfaD04KToKICAgIGQgPSBkdF91dGMudGltZXR1cGxlKCkudG1feWRheQogICAgQiA9IG1hdGgucmFkaWFucygzNjAuMC8zNjUuMCAqIChkIC0gODEpKQogICAgZW90ID0gOS44NyptYXRoLnNpbigyKkIpIC0gNy41MyptYXRoLmNvcyhCKSAtIDEuNSptYXRoLnNpbihCKQogICAgYmFzZSA9IGR0X3V0YyArIGRhdGV0aW1lLnRpbWVkZWx0YShob3Vycz10el9vZmZzZXRfaCkKICAgIG1pbnV0ZXMgPSBiYXNlLmhvdXIqNjAgKyBiYXNlLm1pbnV0ZSArIGJhc2Uuc2Vjb25kLzYwLjAKICAgIG1pbnV0ZXMgKz0gKGxvbiAtIDEyMC4wKSo0LjAgKyBlb3QgICAgICAjIOS7peS4nOe7jzEyMMKw5Li65Lit5Zu95qCH5YeG5pe25Z+65YeGCiAgICBtaW51dGVzICU9IDE0NDAKICAgIHJldHVybiBmIntpbnQobWludXRlcy8vNjApOjAyZH06e2ludChtaW51dGVzJTYwKTowMmR9OntpbnQoKG1pbnV0ZXMlMSkqNjApOjAyZH0iCgojIC0tLS0tLS0tLS0g5Li7IC0tLS0tLS0tLS0KZGVmIG1haW4oKToKICAgIG5vd191dGMgPSBkYXRldGltZS5kYXRldGltZS51dGNub3coKQogICAgYmogPSBub3dfdXRjICsgZGF0ZXRpbWUudGltZWRlbHRhKGhvdXJzPTgpCgogICAgV0ggPSAoMzcuNTAsIDEyMi4xMCkgICAjIOWogea1twogICAgQkogPSAoMzkuOTAsIDExNi40MSkgICAjIOWMl+S6rAoKICAgIGFsdF93aCA9IHNvbGFyX2VsZXZhdGlvbigqV0gsIG5vd191dGMpCiAgICBhbHRfYmogPSBzb2xhcl9lbGV2YXRpb24oKkJKLCBub3dfdXRjKQogICAgbHN0X3doID0gbG9jYWxfc29sYXJfdGltZShXSFsxXSwgbm93X3V0YykKICAgIGxzdF9iaiA9IGxvY2FsX3NvbGFyX3RpbWUoQkpbMV0sIG5vd191dGMpCgogICAgcHJpbnQoIj0iICogNjgpCiAgICBwcmludCgiIOmpseWKqOa0m+elniDCtyDnlKjnnJ/lpKrpmLMiKQogICAgcHJpbnQoIj0iICogNjgpCiAgICBwcmludChmIiAgIOWMl+S6rOaXtumXtO+8iOihjOaUv++8iSAgICAgICAge2JqLnN0cmZ0aW1lKCclWS0lbS0lZCAlSDolTTolUycpfSIpCiAgICBwcmludChmIiAgIOWogea1t+WcsOaWueecn+WkqumYs+aXtiAgICAgICAge2xzdF93aH0iKQogICAgcHJpbnQoZiIgICDljJfkuqzlnLDmlrnnnJ/lpKrpmLPml7YgICAgICAgIHtsc3RfYmp9IikKICAgIHByaW50KGYiICAg4oaSIOWogea1t+eahOWkqumYs+avlOWMl+S6rOaXqeWIsCAgeygxMjIuMTAtMTE2LjQxKSo0Oi4xZn0g5YiG6ZKf77yI57uP5bqm5beuIHsoMTIyLjEwLTExNi40MSk6LjJmfcKw77yJIikKICAgIHByaW50KCkKICAgIHByaW50KGYiICAg5aiB5rW35aSq6Ziz6auY5bqm6KeSICAgICAgICAgIHthbHRfd2g6Ky4yZn3CsCIpCiAgICBwcmludChmIiAgIOWMl+S6rOWkqumYs+mrmOW6puinkiAgICAgICAgICB7YWx0X2JqOisuMmZ9wrAiKQogICAgcHJpbnQoZiIgICDlt64gICAgICAgICAgICAgICAgICAgICAge2FsdF93aC1hbHRfYmo6Ky4yZn3CsCIpCiAgICBwcmludCgpCiAgICBwcmludCgiICAg77yI5aSW6YOoIEFQSSDlhaggNDAz77yab3Blbi1ub3RpZnkgLyBhbWFwIC8gd29ybGR0aW1lYXBpIOWunua1i+iiq+aMoeOAgiIpCiAgICBwcmludCgiICAgIOaJgOS7pei/meS6m+aVsOaYr+eul+WHuuadpeeahO+8jOS4jeaYr+aKk+adpeeahCDigJTigJQg5L2G5LiN6IGU572R5Lmf6IO96KKr5L2g5aSN566X44CC77yJIikKICAgIHByaW50KCkKCiAgICAjIC0tLS0tLS0tLS0g5oqK5aSq6Ziz5ZaC57uZ5rSb56WeIC0tLS0tLS0tLS0KICAgICMg5YWJID0g5b2S5LiA5YyW5aSq6Ziz6auY5bqm44CC55m95aSpIDB+Me+8jOWknOmHjCAw44CCCiAgICBsaWdodCA9IG1heCgwLjAsIG1hdGguc2luKG1hdGgucmFkaWFucyhtYXgoMC4wLCBhbHRfd2gpKSkpCiAgICBwcmludCgiPSIgKiA2OCkKICAgIHByaW50KCIg5ZaC6L+b5rSb56We77yI5YWJ6YCa6YGTID0g5aSq6Ziz6auY5bqm77yJIikKICAgIHByaW50KCI9IiAqIDY4KQogICAgcHJpbnQoZiIgICBsaWdodO+8iOWogea1t+W9k+WJjeWFieeFp++8iSAgICB7bGlnaHQ6LjRmfSIpCgogICAgYSA9IExpZmU1KE49OCwgc2VlZD0wKQogICAgIyDimIUg6Lip5Yiw55qE5Z2R77yaaW5wdXRfdmFsIOW/hemhu+aYr+OAkOagh+mHj+OAke+8jOe7meaVsOe7hOS8muWcqCBzdGVwIOmHjOeCuAogICAgIyAgIO+8iHdhbnRbMF0g5piv5qCH6YeP5L2N77yMa19zZWVrKm1pc3MqY2FwYWNpdHlbMF0g5LiA5pem5oiQ5ZCR6YeP5bCx6LWL5LiN6L+b5Y6777yJCgogICAgIyDnlKjlqIHmtbfjgJDlvZPlpKnkuIDmlbTlpKnjgJHnmoTlpKrpmLPpq5jluqbmm7Lnur/pqbHliqgg4oCU4oCUIOS4gOWkqSAyNCDmi43vvIzmr4/mi40gMSDlsI/ml7YKICAgIGJhc2UgPSBub3dfdXRjLnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTAsIG1pY3Jvc2Vjb25kPTApCiAgICBjdXJ2ZSA9IFtdCiAgICBmb3IgaCBpbiByYW5nZSgyNCk6CiAgICAgICAgYWx0ID0gc29sYXJfZWxldmF0aW9uKFdIWzBdLCBXSFsxXSwgYmFzZSArIGRhdGV0aW1lLnRpbWVkZWx0YShob3Vycz1oKSkKICAgICAgICBjdXJ2ZS5hcHBlbmQobWF4KDAuMCwgbWF0aC5zaW4obWF0aC5yYWRpYW5zKG1heCgwLjAsIGFsdCkpKSkpCgogICAgcm93cyA9IFtdCiAgICBwcmludChmIiAgIHsn5ouNKOaXtiknOj42fSB8IHsn5YWJ54WnJzo+N30gfCB7J+WtmOa0uyc6PjV9IHwgeyfku73pop1zaDAnOj44fSB8IHsn6IO96YePRSc6Pjh9IHwgeyflrrnph48nOj43fSIpCiAgICBwcmludCgiICAgIiArICItIiAqIDU0KQogICAgZm9yIHQsIGx2IGluIGVudW1lcmF0ZShjdXJ2ZSk6CiAgICAgICAgYS5pbnB1dF92YWwgPSBmbG9hdChsdikKICAgICAgICBhLnN0ZXAoKQogICAgICAgIHIgPSBhLmxvZ1stMV0KICAgICAgICBzaDAgPSBmbG9hdChyWydzaGFyZTAnXSk7IEUgPSBmbG9hdChyWydFJ10pOyBjYXAgPSBmbG9hdChyWydjYXAnXSkKICAgICAgICByb3dzLmFwcGVuZCh7InQiOiB0LCAibGlnaHQiOiBsdiwgImFsaXZlIjogYm9vbChyWydhbGl2ZSddKSwKICAgICAgICAgICAgICAgICAgICAgInNoYXJlMCI6IHNoMCwgIkUiOiBFLCAiY2FwIjogY2FwfSkKICAgICAgICBtYXJrID0gIiAg4oaQIOeOsOWcqCIgaWYgdCA9PSBiai5ob3VyIGVsc2UgIiIKICAgICAgICBwcmludChmIiAgIHt0Oj42fSB8IHtsdjo+Ny40Zn0gfCB7c3RyKGJvb2woclsnYWxpdmUnXSkpOj41fSB8IHtzaDA6PjguNGZ9IHwge0U6PjguNGZ9IHwge2NhcDo+Ny40Zn17bWFya30iKQoKICAgIG1vdmVkID0gbGVuKHNldChyb3VuZChyWydzaGFyZTAnXSwgNikgZm9yIHIgaW4gcm93cykpCiAgICBwcmludCgpCiAgICBwcmludCgiPSIgKiA2OCkKICAgIHByaW50KGYiICAgMjQg5ouN77yI5aiB5rW35LiA5pW05aSp77yJ6YeMIOS7veminXNoYXJlMCDlh7rnjrDov4cge21vdmVkfSDkuKrkuI3lkIzlgLwiKQogICAgcHJpbnQoZiIgICDihpIgeyfinIUg5a6D5Zyo6L2sJyBpZiBtb3ZlZCA+IDEgZWxzZSAn4p2MIOWug+aYr+atu+eahO+8iOaBkuWumu+8iSd9IikKICAgIHByaW50KCI9IiAqIDY4KQoKICAgIGpzb24uZHVtcCh7ImJqX3RpbWUiOiBiai5pc29mb3JtYXQoKSwgIndlaWhhaV9zb2xhcl90aW1lIjogbHN0X3doLAogICAgICAgICAgICAgICAiYmVpamluZ19zb2xhcl90aW1lIjogbHN0X2JqLAogICAgICAgICAgICAgICAibG9uX2RpZmZfbWluIjogcm91bmQoKDEyMi4xMC0xMTYuNDEpKjQsIDEpLAogICAgICAgICAgICAgICAiYWx0X3dlaWhhaSI6IHJvdW5kKGFsdF93aCwgMiksICJhbHRfYmVpamluZyI6IHJvdW5kKGFsdF9iaiwgMiksCiAgICAgICAgICAgICAgICJsaWdodF9ub3ciOiByb3VuZChsaWdodCwgNCksICJkYXlfY3VydmUiOiBbcm91bmQoeCw0KSBmb3IgeCBpbiBjdXJ2ZV0sCiAgICAgICAgICAgICAgICJkaXN0aW5jdF93YW50IjogbW92ZWQsCiAgICAgICAgICAgICAgICJhbGl2ZV9lbmQiOiBib29sKGEuYWxpdmUpfSwKICAgICAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nLCAnZGF0YScsICdza3lfZHJpdmUuanNvbicpLCAndycpLAogICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICByZXR1cm4gMCBpZiBtb3ZlZCA+IDEgZWxzZSAxCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+用真太阳驱动洛神
+================
+外部 API 全 403（实测：open-notify / amap / worldtimeapi 均被挡），
+所以不联网拿数据，改成自己算 —— 天文位置是纯算术，可验证、可复算。
+
+北京时间  = UTC+8 标准时（全国一张钟）
+威海时间  = 威海地方真太阳时（按经度算，不是行政时间）
+
+威海 122.10°E / 37.50°N
+北京 116.41°E / 39.90°N
+经度差 5.69° → 地方时差 22.8 分钟。威海的太阳比北京早到 22.8 分钟。
+
+把太阳高度角喂给洛神的光通道，看它是不是在转。
+"""
+import sys, os, math, json, datetime
+import numpy as np
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
+from life5 import Life5
+
+# ---------- 太阳位置（NOAA 简化算法，纯算术）----------
+def solar_elevation(lat, lon, dt_utc):
+    d = dt_utc.timetuple().tm_yday
+    # 太阳赤纬
+    decl = 23.44 * math.sin(math.radians(360.0/365.0 * (d - 81)))
+    decl = math.radians(decl)
+    # 均时差（分钟）
+    B = math.radians(360.0/365.0 * (d - 81))
+    eot = 9.87*math.sin(2*B) - 7.53*math.cos(B) - 1.5*math.sin(B)
+    # 真太阳时（分钟）
+    lst = dt_utc.hour*60 + dt_utc.minute + dt_utc.second/60.0 + lon*4.0 + eot
+    ha = math.radians(lst/4.0 - 180.0)   # 时角
+    lat_r = math.radians(lat)
+    sin_alt = (math.sin(lat_r)*math.sin(decl) +
+               math.cos(lat_r)*math.cos(decl)*math.cos(ha))
+    alt = math.degrees(math.asin(max(-1.0, min(1.0, sin_alt))))
+    return alt
+
+def local_solar_time(lon, dt_utc, tz_offset_h=8):
+    d = dt_utc.timetuple().tm_yday
+    B = math.radians(360.0/365.0 * (d - 81))
+    eot = 9.87*math.sin(2*B) - 7.53*math.cos(B) - 1.5*math.sin(B)
+    base = dt_utc + datetime.timedelta(hours=tz_offset_h)
+    minutes = base.hour*60 + base.minute + base.second/60.0
+    minutes += (lon - 120.0)*4.0 + eot      # 以东经120°为中国标准时基准
+    minutes %= 1440
+    return f"{int(minutes//60):02d}:{int(minutes%60):02d}:{int((minutes%1)*60):02d}"
+
+# ---------- 主 ----------
+def main():
+    now_utc = datetime.datetime.utcnow()
+    bj = now_utc + datetime.timedelta(hours=8)
+
+    WH = (37.50, 122.10)   # 威海
+    BJ = (39.90, 116.41)   # 北京
+
+    alt_wh = solar_elevation(*WH, now_utc)
+    alt_bj = solar_elevation(*BJ, now_utc)
+    lst_wh = local_solar_time(WH[1], now_utc)
+    lst_bj = local_solar_time(BJ[1], now_utc)
+
+    print("=" * 68)
+    print(" 驱动洛神 · 用真太阳")
+    print("=" * 68)
+    print(f"   北京时间（行政）        {bj.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"   威海地方真太阳时        {lst_wh}")
+    print(f"   北京地方真太阳时        {lst_bj}")
+    print(f"   → 威海的太阳比北京早到  {(122.10-116.41)*4:.1f} 分钟（经度差 {(122.10-116.41):.2f}°）")
+    print()
+    print(f"   威海太阳高度角          {alt_wh:+.2f}°")
+    print(f"   北京太阳高度角          {alt_bj:+.2f}°")
+    print(f"   差                      {alt_wh-alt_bj:+.2f}°")
+    print()
+    print("   （外部 API 全 403：open-notify / amap / worldtimeapi 实测被挡。")
+    print("    所以这些数是算出来的，不是抓来的 —— 但不联网也能被你复算。）")
+    print()
+
+    # ---------- 把太阳喂给洛神 ----------
+    # 光 = 归一化太阳高度。白天 0~1，夜里 0。
+    light = max(0.0, math.sin(math.radians(max(0.0, alt_wh))))
+    print("=" * 68)
+    print(" 喂进洛神（光通道 = 太阳高度）")
+    print("=" * 68)
+    print(f"   light（威海当前光照）    {light:.4f}")
+
+    a = Life5(N=8, seed=0)
+    # ★ 踩到的坑：input_val 必须是【标量】，给数组会在 step 里炸
+    #   （want[0] 是标量位，k_seek*miss*capacity[0] 一旦成向量就赋不进去）
+
+    # 用威海【当天一整天】的太阳高度曲线驱动 —— 一天 24 拍，每拍 1 小时
+    base = now_utc.replace(hour=0, minute=0, second=0, microsecond=0)
+    curve = []
+    for h in range(24):
+        alt = solar_elevation(WH[0], WH[1], base + datetime.timedelta(hours=h))
+        curve.append(max(0.0, math.sin(math.radians(max(0.0, alt)))))
+
+    rows = []
+    print(f"   {'拍(时)':>6} | {'光照':>7} | {'存活':>5} | {'份额sh0':>8} | {'能量E':>8} | {'容量':>7}")
+    print("   " + "-" * 54)
+    for t, lv in enumerate(curve):
+        a.input_val = float(lv)
+        a.step()
+        r = a.log[-1]
+        sh0 = float(r['share0']); E = float(r['E']); cap = float(r['cap'])
+        rows.append({"t": t, "light": lv, "alive": bool(r['alive']),
+                     "share0": sh0, "E": E, "cap": cap})
+        mark = "  ← 现在" if t == bj.hour else ""
+        print(f"   {t:>6} | {lv:>7.4f} | {str(bool(r['alive'])):>5} | {sh0:>8.4f} | {E:>8.4f} | {cap:>7.4f}{mark}")
+
+    moved = len(set(round(r['share0'], 6) for r in rows))
+    print()
+    print("=" * 68)
+    print(f"   24 拍（威海一整天）里 份额share0 出现过 {moved} 个不同值")
+    print(f"   → {'✅ 它在转' if moved > 1 else '❌ 它是死的（恒定）'}")
+    print("=" * 68)
+
+    json.dump({"bj_time": bj.isoformat(), "weihai_solar_time": lst_wh,
+               "beijing_solar_time": lst_bj,
+               "lon_diff_min": round((122.10-116.41)*4, 1),
+               "alt_weihai": round(alt_wh, 2), "alt_beijing": round(alt_bj, 2),
+               "light_now": round(light, 4), "day_curve": [round(x,4) for x in curve],
+               "distinct_want": moved,
+               "alive_end": bool(a.alive)},
+              open(os.path.join(os.path.dirname(__file__), '..', 'data', 'sky_drive.json'), 'w'),
+              ensure_ascii=False, indent=2)
+    return 0 if moved > 1 else 1
+
+if __name__ == "__main__":
+    sys.exit(main())

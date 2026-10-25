@@ -1,1 +1,81 @@
-IiIiUmVzdWx0IHR5cGVzIHNoYXJlZCBieSBldmVyeSBzb3VyY2UgYWRhcHRlci4KCkVhY2ggYWRhcHRlciByZXR1cm5zIGEgOmNsYXNzOmBTb3VyY2VSZXN1bHRgIGluc3RlYWQgb2YgYSBiYXJlIGpvYiBsaXN0IHNvIHRoYXQKcGVyLWNvbXBhbnkgZmFpbHVyZXMgKHRpbWVvdXRzLCA0MDMgY29vbGRvd25zLCBiYWQgcGF5bG9hZHMsIC4uLikgdHJhdmVsIHdpdGgKdGhlIGpvYnMgcmF0aGVyIHRoYW4gZGlzYXBwZWFyaW5nIGludG8gbG9nIGxpbmVzLiBIZWFsdGggcmVwb3J0aW5nIGJ1aWxkcyBvbgpgYFNvdXJjZVJlc3VsdC5lcnJvcnNgYC4KIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIGNvbGxlY3Rpb25zLmFiYyBpbXBvcnQgSXRlcmFibGUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCiMgU291cmNlRXJyb3Iua2luZCB2YWx1ZXMuIEtlcHQgYXMgcGxhaW4gc3RyaW5ncyBzbyB0aGV5IHNlcmlhbGl6ZSBkaXJlY3RseQojIGludG8gaGVhbHRoL3JlcG9ydCBKU09OLgpLSU5EX1RJTUVPVVQgPSAidGltZW91dCIgICAgICAgICAgIyByZXF1ZXN0IHRpbWVkIG91dCBvbiBldmVyeSBhdHRlbXB0CktJTkRfSFRUUCA9ICJodHRwIiAgICAgICAgICAgICAgICAjIG5vbi0yeHggc3RhdHVzIGFmdGVyIHJldHJpZXMgKHN0YXR1cyBzZXQpCktJTkRfRk9SQklEREVOID0gImZvcmJpZGRlbiIgICAgICAjIEhUVFAgNDAzOyBmZWVkcyB0aGUgcGVyLWRvbWFpbiBjb29sZG93bgpLSU5EX0NPT0xET1dOID0gImNvb2xkb3duIiAgICAgICAgIyBza2lwcGVkOiBkb21haW4gYWxyZWFkeSB0cmlwcGVkIHRoZSA0MDMgY29vbGRvd24KS0lORF9ORVRXT1JLID0gIm5ldHdvcmsiICAgICAgICAgICMgY29ubmVjdGlvbi9ETlMvb3RoZXIgdHJhbnNwb3J0IGVycm9yCktJTkRfUEFSU0UgPSAicGFyc2UiICAgICAgICAgICAgICAjIHJlc3BvbnNlIGJvZHkgd2FzIG5vdCB0aGUgZXhwZWN0ZWQgc2hhcGUvSlNPTgpLSU5EX0NPTkZJRyA9ICJjb25maWciICAgICAgICAgICAgIyB0aGUgY29uZmlndXJlZCBzb3VyY2UgZW50cnkgaXMgdW51c2FibGUKS0lORF9VTkFWQUlMQUJMRSA9ICJ1bmF2YWlsYWJsZSIgICMgb3B0aW9uYWwgZGVwZW5kZW5jeSBtaXNzaW5nIChlLmcuIEpvYlNweSkKS0lORF9VTkVYUEVDVEVEID0gInVuZXhwZWN0ZWQiICAgICMgYW55IG90aGVyIGV4Y2VwdGlvbgoKRVJST1JfS0lORFMgPSBmcm96ZW5zZXQoewogICAgS0lORF9USU1FT1VULCBLSU5EX0hUVFAsIEtJTkRfRk9SQklEREVOLCBLSU5EX0NPT0xET1dOLCBLSU5EX05FVFdPUkssCiAgICBLSU5EX1BBUlNFLCBLSU5EX0NPTkZJRywgS0lORF9VTkFWQUlMQUJMRSwgS0lORF9VTkVYUEVDVEVELAp9KQoKCkBkYXRhY2xhc3MoZnJvemVuPVRydWUpCmNsYXNzIFNvdXJjZUVycm9yOgogICAgIiIiT25lIGZhaWxlZCBmZXRjaCBmb3Igb25lIGNvbXBhbnkgKG9yIHNlYXJjaCB0YXNrKSBvZiBvbmUgc291cmNlLiIiIgoKICAgIGNvbXBhbnk6IHN0cgogICAgc291cmNlOiBzdHIKICAgIGtpbmQ6IHN0cgogICAgc3RhdHVzOiBpbnQgfCBOb25lCiAgICBtZXNzYWdlOiBzdHIKCgpAZGF0YWNsYXNzKGZyb3plbj1UcnVlKQpjbGFzcyBTb3VyY2VSZXN1bHQ6CiAgICAiIiJKb2JzIGZldGNoZWQgZnJvbSBhIHNvdXJjZSBwbHVzIHRoZSBwZXItY29tcGFueSBlcnJvcnMgaGl0IG9uIHRoZSB3YXkuCgogICAgYGByYXdfY291bnRgYCBpcyB0aGUgbnVtYmVyIG9mIHBvc3RpbmdzIHRoZSB1cHN0cmVhbSBBUEkgcmV0dXJuZWQgYmVmb3JlCiAgICBhbnkgYWRhcHRlci1zaWRlIGRyb3BwaW5nIChlLmcuIEpvYlNweSByb3dzIHdpdGhvdXQgYW4gaHR0cCBVUkwpLgogICAgIiIiCgogICAgam9iczogdHVwbGVbZGljdFtzdHIsIEFueV0sIC4uLl0gPSAoKQogICAgZXJyb3JzOiB0dXBsZVtTb3VyY2VFcnJvciwgLi4uXSA9ICgpCiAgICByYXdfY291bnQ6IGludCA9IDAKCiAgICBAcHJvcGVydHkKICAgIGRlZiBvayhzZWxmKSAtPiBib29sOgogICAgICAgIHJldHVybiBub3Qgc2VsZi5lcnJvcnMKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBmYWlsdXJlKAogICAgICAgIGNscywKICAgICAgICBjb21wYW55OiBzdHIsCiAgICAgICAgc291cmNlOiBzdHIsCiAgICAgICAga2luZDogc3RyLAogICAgICAgIG1lc3NhZ2U6IHN0ciwKICAgICAgICBzdGF0dXM6IGludCB8IE5vbmUgPSBOb25lLAogICAgKSAtPiBTb3VyY2VSZXN1bHQ6CiAgICAgICAgcmV0dXJuIGNscyhlcnJvcnM9KFNvdXJjZUVycm9yKGNvbXBhbnksIHNvdXJjZSwga2luZCwgc3RhdHVzLCBtZXNzYWdlKSwpKQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIG1lcmdlKGNscywgcmVzdWx0czogSXRlcmFibGVbU291cmNlUmVzdWx0XSkgLT4gU291cmNlUmVzdWx0OgogICAgICAgICIiIkNvbmNhdGVuYXRlIHJlc3VsdHMgaW4gaXRlcmF0aW9uIG9yZGVyLiIiIgogICAgICAgIGpvYnM6IGxpc3QgPSBbXQogICAgICAgIGVycm9yczogbGlzdCA9IFtdCiAgICAgICAgcmF3X2NvdW50ID0gMAogICAgICAgIGZvciByZXN1bHQgaW4gcmVzdWx0czoKICAgICAgICAgICAgam9icy5leHRlbmQocmVzdWx0LmpvYnMpCiAgICAgICAgICAgIGVycm9ycy5leHRlbmQocmVzdWx0LmVycm9ycykKICAgICAgICAgICAgcmF3X2NvdW50ICs9IHJlc3VsdC5yYXdfY291bnQKICAgICAgICByZXR1cm4gY2xzKGpvYnM9dHVwbGUoam9icyksIGVycm9ycz10dXBsZShlcnJvcnMpLCByYXdfY291bnQ9cmF3X2NvdW50KQo=
+"""Result types shared by every source adapter.
+
+Each adapter returns a :class:`SourceResult` instead of a bare job list so that
+per-company failures (timeouts, 403 cooldowns, bad payloads, ...) travel with
+the jobs rather than disappearing into log lines. Health reporting builds on
+``SourceResult.errors``.
+"""
+
+from __future__ import annotations
+
+from collections.abc import Iterable
+from dataclasses import dataclass
+from typing import Any
+
+# SourceError.kind values. Kept as plain strings so they serialize directly
+# into health/report JSON.
+KIND_TIMEOUT = "timeout"          # request timed out on every attempt
+KIND_HTTP = "http"                # non-2xx status after retries (status set)
+KIND_FORBIDDEN = "forbidden"      # HTTP 403; feeds the per-domain cooldown
+KIND_COOLDOWN = "cooldown"        # skipped: domain already tripped the 403 cooldown
+KIND_NETWORK = "network"          # connection/DNS/other transport error
+KIND_PARSE = "parse"              # response body was not the expected shape/JSON
+KIND_CONFIG = "config"            # the configured source entry is unusable
+KIND_UNAVAILABLE = "unavailable"  # optional dependency missing (e.g. JobSpy)
+KIND_UNEXPECTED = "unexpected"    # any other exception
+
+ERROR_KINDS = frozenset({
+    KIND_TIMEOUT, KIND_HTTP, KIND_FORBIDDEN, KIND_COOLDOWN, KIND_NETWORK,
+    KIND_PARSE, KIND_CONFIG, KIND_UNAVAILABLE, KIND_UNEXPECTED,
+})
+
+
+@dataclass(frozen=True)
+class SourceError:
+    """One failed fetch for one company (or search task) of one source."""
+
+    company: str
+    source: str
+    kind: str
+    status: int | None
+    message: str
+
+
+@dataclass(frozen=True)
+class SourceResult:
+    """Jobs fetched from a source plus the per-company errors hit on the way.
+
+    ``raw_count`` is the number of postings the upstream API returned before
+    any adapter-side dropping (e.g. JobSpy rows without an http URL).
+    """
+
+    jobs: tuple[dict[str, Any], ...] = ()
+    errors: tuple[SourceError, ...] = ()
+    raw_count: int = 0
+
+    @property
+    def ok(self) -> bool:
+        return not self.errors
+
+    @classmethod
+    def failure(
+        cls,
+        company: str,
+        source: str,
+        kind: str,
+        message: str,
+        status: int | None = None,
+    ) -> SourceResult:
+        return cls(errors=(SourceError(company, source, kind, status, message),))
+
+    @classmethod
+    def merge(cls, results: Iterable[SourceResult]) -> SourceResult:
+        """Concatenate results in iteration order."""
+        jobs: list = []
+        errors: list = []
+        raw_count = 0
+        for result in results:
+            jobs.extend(result.jobs)
+            errors.extend(result.errors)
+            raw_count += result.raw_count
+        return cls(jobs=tuple(jobs), errors=tuple(errors), raw_count=raw_count)

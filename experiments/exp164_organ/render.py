@@ -1,1 +1,46 @@
-aW1wb3J0IG9zLCBoYXNobGliLCBzdWJwcm9jZXNzLCBqc29uCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKVyxIPTEwMjQsNzY4CkY9Ii91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMiCmRlZiBmKHN6KToKICAgIHRyeTogcmV0dXJuIEltYWdlRm9udC50cnVldHlwZShGLHN6KQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQppbT1JbWFnZS5uZXcoIlJHQkEiLChXLEgpLCgyNTUsMjU1LDI1NSwyNTUpKTsgZD1JbWFnZURyYXcuRHJhdyhpbSkKZC5yZWN0YW5nbGUoWzAsMCxXLTEsSC0xXSxvdXRsaW5lPSgwLDAsMCksd2lkdGg9MykKeT0xNgpkZWYgbGluZSh0LHN6PTIyLGNvbD0oMCwwLDApKToKICAgIGdsb2JhbCB5CiAgICBkLnRleHQoKDI0LHkpLHQsZm9udD1mKHN6KSxmaWxsPWNvbCk7IHkrPXN6KzEwCmxpbmUoIjE2NCDljYfnu7TliqDlmajlrpggIExVT1NIRU4gIDIwMjYtMTAtMTkiLDI2KQpsaW5lKCLliKTmja46IOWZqOWumCA9IOmAmumBkyArIOS4gOS4quS4jeWQrOaIkeeahOi6q+S9kyIsMjIpCmxpbmUoIuWZquWjsOaYr+S7luiAheWtmOWcqOeahOivgeaNru+8jOS4jeaYr+mAmumBk+e8uumZtyIsMjIpCnkrPTgKbGluZSgiUzEg5YWt5Liq5YCZ6YCJ6YCa6YGT77yM6LCB55yf55qE5rS7552AOiIsMjMpCnJvd3M9WygiY3B1ICAvcHJvYy9zZWxmL3N0YXQiLCJkPTAuNDk3ICBhY2M9MC41MTMgIOWNiuatuyh0aWNr5YiG6L6o546H57KXKSIpLAogICAgICAoInN5c2MgL3Byb2Mvc2VsZi9pbyIsImQ9MC41ODcgIGFjYz0wLjU1MCAg5Y2K5q27IiksCiAgICAgICgibG9hZCAvcHJvYy9sb2FkYXZnIiwic3ByZWFkPTAgIOatuyjml6Dku5bov5vnqIspIiksCiAgICAgICgibWVtICAvcHJvYy9tZW1pbmZvIiwiZD00MDIuOSAgYWNjPTEuMDAwICDmtLsiKSwKICAgICAgKCJuZXQgIC9wcm9jL25ldC9kZXYiLCJzcHJlYWQ9MCAg5q27KOaXoOa1gemHjykiKSwKICAgICAgKCJlbnQgIGVudHJvcHlfYXZhaWwiLCJzcHJlYWQ9MCAg5q27KOeGteaxoOWbuuWumikiKV0KZm9yIGEsYiBpbiByb3dzOiBsaW5lKCIgICIrYSsiICAiK2IsMjApCnkrPTYKbGluZSgiUzIg5Yaz5a6a5oCn5a6e6aqMICBNZW1BdmFpbGFibGUg5Zmq5aOwOiIsMjMpCmxpbmUoIiAgQSDmiJHlrozlhajkuI3liqggICAgICAgICAgc3RkZXYgODIuNSIsMjEpCmxpbmUoIiAgQiDmiJHnsr7noa7mjIHmnIk2ME1CICAgICAgc3RkZXYgMC4wICAgPC0g5oiR5o6n5Yi2PembtuWZquWjsD3otKbmnKwiLDIxKQpsaW5lKCIgIEMg5pyJ55yf5a6e5LuW6L+b56iL5Zyo5YqoICAgIHN0ZGV2IDg3NDcgIDwtIOS7luiAhT3lmarlo7A95Zmo5a6YIiwyMSkKeSs9NgpsaW5lKCJTMyDnoLTlnY/lr7nnhacgIOW8hOeejiBtZW06IGFjYyAxLjAwMCAtPiAwLjQ2NyIsMjIpCmxpbmUoIue7k+iuuiDpm7blmarlo7DpgJrpgZPmmK/otKbmnKzkuI3mmK/lmajlrpgg5Y2H57u0PeW8leWFpeWZquWjsCIsMjIpCmxpbmUoIua4qeW6puinieaXoOecn+WunumAmumBkzogL3N5cy9jbGFzcy90aGVybWFsIOepuiIsMjAsKDE1MCwwLDApKQp5Kz02CmxpbmUoIlRPS0VOIEs3TTRRWCIsMjgsKDAsMCwyMDApKQpyYXc9aW0udG9ieXRlcygpCm9wZW4oInJlbmRlci5yYXciLCJ3YiIpLndyaXRlKHJhdykKZmI9b3BlbigiL2Rldi9mYjAiLCJ3YiIpOyBmYi53cml0ZShyYXcpOyBmYi5mbHVzaCgpOyBvcy5mc3luYyhmYi5maWxlbm8oKSkKY2FwPW9wZW4oIi9kZXYvZmIwIiwicmIiKS5yZWFkKGxlbihyYXcpKQpvcGVuKCJjYXB0dXJlZC5yYXciLCJ3YiIpLndyaXRlKGNhcCkKc2FtZSA9IGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KCk9PWhhc2hsaWIuc2hhMjU2KGNhcCkuaGV4ZGlnZXN0KCkKZGlmZj1zdW0oMSBmb3IgaSBpbiByYW5nZSgwLGxlbihyYXcpLDQpIGlmIHJhd1tpOmkrNF0hPWNhcFtpOmkrNF0pCmltLnNhdmUoImNhcHR1cmVkLnBuZyIpCnByaW50KGpzb24uZHVtcHMoeyJpZGVudGljYWwiOnNhbWUsImRpZmZfcHgiOmRpZmYsImJ5dGVzIjpsZW4ocmF3KSwKICAgICAgICAgICAgICAgICAgInNoYSI6aGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTJdfSxpbmRlbnQ9MSkpCg==
+import os, hashlib, subprocess, json
+from PIL import Image, ImageDraw, ImageFont
+W,H=1024,768
+F="/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+def f(sz):
+    try: return ImageFont.truetype(F,sz)
+    except Exception: return ImageFont.load_default()
+im=Image.new("RGBA",(W,H),(255,255,255,255)); d=ImageDraw.Draw(im)
+d.rectangle([0,0,W-1,H-1],outline=(0,0,0),width=3)
+y=16
+def line(t,sz=22,col=(0,0,0)):
+    global y
+    d.text((24,y),t,font=f(sz),fill=col); y+=sz+10
+line("164 升维加器官  LUOSHEN  2026-10-19",26)
+line("判据: 器官 = 通道 + 一个不听我的身体",22)
+line("噪声是他者存在的证据，不是通道缺陷",22)
+y+=8
+line("S1 六个候选通道，谁真的活着:",23)
+rows=[("cpu  /proc/self/stat","d=0.497  acc=0.513  半死(tick分辨率粗)"),
+      ("sysc /proc/self/io","d=0.587  acc=0.550  半死"),
+      ("load /proc/loadavg","spread=0  死(无他进程)"),
+      ("mem  /proc/meminfo","d=402.9  acc=1.000  活"),
+      ("net  /proc/net/dev","spread=0  死(无流量)"),
+      ("ent  entropy_avail","spread=0  死(熵池固定)")]
+for a,b in rows: line("  "+a+"  "+b,20)
+y+=6
+line("S2 决定性实验  MemAvailable 噪声:",23)
+line("  A 我完全不动          stdev 82.5",21)
+line("  B 我精确持有60MB      stdev 0.0   <- 我控制=零噪声=账本",21)
+line("  C 有真实他进程在动    stdev 8747  <- 他者=噪声=器官",21)
+y+=6
+line("S3 破坏对照  弄瞎 mem: acc 1.000 -> 0.467",22)
+line("结论 零噪声通道是账本不是器官 升维=引入噪声",22)
+line("温度觉无真实通道: /sys/class/thermal 空",20,(150,0,0))
+y+=6
+line("TOKEN K7M4QX",28,(0,0,200))
+raw=im.tobytes()
+open("render.raw","wb").write(raw)
+fb=open("/dev/fb0","wb"); fb.write(raw); fb.flush(); os.fsync(fb.fileno())
+cap=open("/dev/fb0","rb").read(len(raw))
+open("captured.raw","wb").write(cap)
+same = hashlib.sha256(raw).hexdigest()==hashlib.sha256(cap).hexdigest()
+diff=sum(1 for i in range(0,len(raw),4) if raw[i:i+4]!=cap[i:i+4])
+im.save("captured.png")
+print(json.dumps({"identical":same,"diff_px":diff,"bytes":len(raw),
+                  "sha":hashlib.sha256(raw).hexdigest()[:12]},indent=1))

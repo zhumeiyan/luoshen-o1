@@ -1,1 +1,69 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMTI3IOS4iuWxj+iHquajgO+8mua4suafkyDihpIg5YaZIC9kZXYvZmIwKDEwMjR4NzY4IFJHQkEsIGlvY3Rs5a6e5rWLKSDihpIg55yf5a6e6YeH6ZuGIOKGkiBPQ1Ig5Zue6K+7IiIiCmltcG9ydCBvcywganNvbiwgcmFuZG9tLCBzdHJpbmcKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAppbXBvcnQgbnVtcHkgYXMgbnAsIGN2MiwgcHl0ZXNzZXJhY3QKCk9VVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjdfc3RyZXNzX2FubmVhbCIKQiA9IGpzb24ubG9hZChvcGVuKE9VVCArICIvcmVzdWx0MTI3Qi5qc29uIikpCkMgPSBqc29uLmxvYWQob3BlbihPVVQgKyAiL3Jlc3VsdDEyN0MuanNvbiIpKQpEID0ganNvbi5sb2FkKG9wZW4oT1VUICsgIi9yZXN1bHQxMjdELmpzb24iKSkKYW4gPSBDWyJhbm5lYWwiXTsgY3AgPSBEWyJjb250aW51ZV9wYWlyIl0KdG9rID0gJycuam9pbihyYW5kb20uY2hvaWNlcygiMjM0NTY3ODkiLCBrPTYpKQoKcm93cyA9IFsKICgiUzIgU1RFRVAiLCAgICAiY29zdCAxMCAtPiAxMCBvZiAxNiAgY29zdCAyMCAtPiAwIG9mIDE2IiksCiAoIlMxIEdSQURVQUwiLCAgImJsZWVkIDAuMDQgLT4gOCBvZiAxNiAgMC4wNSAtPiAzIG9mIDE2IiksCiAoIlMzIE5PVCBGQVRBTCIsICJhZ2luZyAwLjEwIC0+IDE1IG9mIDE2ICBjdXQgZGVtYW5kIHN1cnZpdmUiKSwKICgiUzIgTEM1MCIsICAgICAiY29zdCBiZXR3ZWVuIDEwIGFuZCAxMyIpLAogKCJQMiBMRUFLIiwgICAgICJvcmlnIDAuODEzMTggIG5vcm0gMC4wODc3NyAgbm9pc2UgMTYiKSwKICgiQU5ORUFMIEhPVCIsICAiZmcgMC4zMzc5OSAgZHJpZnQgMC4wMDAzMyIpLAogKCJBTk5FQUwgU0xPVyIsICJmZyAwLjA5NjAwICBkcmlmdCAwLjAwMDA0IiksCiAoIkFOTkVBTCBGQVNUIiwgImZnIDAuMDEyMDQgIHRvbyBjb2xkIHRvbyBzb29uIiksCiAoIkNPTlRJTlVFIiwgICAgImdvb2QgKzAuMDQwMTUgIGJhZCArMC4wMDAxNyIpLAogKCJQUkVDVVJTT1IiLCAgICIxIGRlYWQgOSBhbGl2ZSAgbm8gdmVyZGljdCIpLAogKCJET1NFIiwgICAgICAgICJ0YXUgMC4wMiBmZyAwLjAxMTE4ICB0YXUgMy4wIGZnIDAuMjY4NjIiKSwKICgiVE9LRU4iLCAgICAgICB0b2spLApdClcsIEggPSAxMDI0LCA3NjgKaW1nID0gSW1hZ2UubmV3KCJSR0IiLCAoVywgSCksICgyNTUsIDI1NSwgMjU1KSk7IGRyID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQpGID0gTm9uZQpmb3IgcCBpbiBbIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMiLAogICAgICAgICAgIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvZGVqYXZ1L0RlamFWdVNhbnMudHRmIl06CiAgICBpZiBvcy5wYXRoLmV4aXN0cyhwKToKICAgICAgICB0cnk6IEYgPSBJbWFnZUZvbnQudHJ1ZXR5cGUocCwgMjUpOyBicmVhawogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKaWYgRiBpcyBOb25lOiBGID0gSW1hZ2VGb250LmxvYWRfZGVmYXVsdCgpCnkgPSAyNgpmb3IgaywgdiBpbiByb3dzOgogICAgZHIudGV4dCgoMjgsIHkpLCBmIntrOjE0c30ge3Z9IiwgZmlsbD0oMCwgMCwgMCksIGZvbnQ9Rik7IHkgKz0gNTUKZHIudGV4dCgoMjgsIHkgKyAxMiksICIxMjcgU1RSRVNTIEFORCBBTk5FQUwgU0VMRiBDSEVDSyIsIGZpbGw9KDAsIDAsIDApLCBmb250PUYpCmltZy5zYXZlKE9VVCArICIvcmVuZGVyLnBuZyIpCnJnYmEgPSBpbWcuY29udmVydCgiUkdCQSIpLnJlc2l6ZSgoMTAyNCwgNzY4KSkKYiA9IHJnYmEudG9ieXRlcygpCm9wZW4oIi9kZXYvZmIwIiwgIndiIikud3JpdGUoYik7IHByaW50KCJ3cml0dGVuOiIsIGxlbihiKSkKcmF3ID0gb3BlbigiL2Rldi9mYjAiLCAicmIiKS5yZWFkKCk7IHByaW50KCJjYXB0dXJlZDoiLCBsZW4ocmF3KSkKYXJyID0gbnAuZnJvbWJ1ZmZlcihyYXcsIGR0eXBlPW5wLnVpbnQ4KS5yZXNoYXBlKDc2OCwgMTAyNCwgNCkKSW1hZ2UuZnJvbWFycmF5KGFycls6LCA6LCA6M10sICJSR0IiKS5zYXZlKE9VVCArICIvY2FwdHVyZWQucG5nIikKcHJpbnQoInJlbmRlciBzaGEiLCBfX2ltcG9ydF9fKCdoYXNobGliJykuc2hhMjU2KG9wZW4oT1VUKyIvcmVuZGVyLnBuZyIsJ3JiJykucmVhZCgpKS5oZXhkaWdlc3QoKVs6MTJdLAogICAgICAiY2FwdHVyZSBzaGEiLCBfX2ltcG9ydF9fKCdoYXNobGliJykuc2hhMjU2KG9wZW4oT1VUKyIvY2FwdHVyZWQucG5nIiwncmInKS5yZWFkKCkpLmhleGRpZ2VzdCgpWzoxMl0pCmcgPSBjdjIuY3Z0Q29sb3IoY3YyLnJlc2l6ZShjdjIuaW1yZWFkKE9VVCArICIvY2FwdHVyZWQucG5nIiksIE5vbmUsIGZ4PTIsIGZ5PTIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnBvbGF0aW9uPWN2Mi5JTlRFUl9DVUJJQyksIGN2Mi5DT0xPUl9CR1IyR1JBWSkKdHh0ID0gcHl0ZXNzZXJhY3QuaW1hZ2VfdG9fc3RyaW5nKGcsIGNvbmZpZz0iLS1wc20gNiIpCm9wZW4oT1VUICsgIi9vY3IudHh0IiwgInciKS53cml0ZSh0eHQpCmNsZWFuID0gdHh0LnJlcGxhY2UoIiAiLCAiIikudXBwZXIoKQpsb29zZSA9IGNsZWFuLnJlcGxhY2UoIk8iLCAiMCIpLnJlcGxhY2UoIkkiLCAiMSIpLnJlcGxhY2UoIkwiLCAiMSIpLnJlcGxhY2UoIlMiLCAiNSIpLnJlcGxhY2UoIkIiLCAiOCIpCnByaW50KCI9PT0gT0NSID09PSIpOyBwcmludCh0eHQuc3RyaXAoKVs6MTAwMF0pCnByaW50KGYiXG5UT0tFTj17dG9rfSAgc3RyaWN0PXt0b2sgaW4gY2xlYW59ICBsb29zZT17dG9rIGluIGxvb3NlfSIpCnByb2JlcyA9IFsiMC4zMzc5OSIsICIwLjA5NjAwIiwgIjAuMDEyMDQiLCAiMC4wMDAzMyIsICIwLjAwMDA0IiwKICAgICAgICAgICIwLjgxMzE4IiwgIjAuMDg3NzciLCAiMC4wNDAxNSIsICIwLjAwMDE3IiwgIjAuMDExMTgiLCAiMC4yNjg2MiIsCiAgICAgICAgICAiMTAgb2YgMTYiLCAiMCBvZiAxNiIsICIxNSBvZiAxNiJdCmhpdCA9IDAKZm9yIHAgaW4gcHJvYmVzOgogICAgayA9IHAucmVwbGFjZSgiICIsICIiKS51cHBlcigpCiAgICBvayA9IChrIGluIGNsZWFuKSBvciAoayBpbiBsb29zZSkKICAgIGhpdCArPSBvawogICAgcHJpbnQoZiIgIHByb2JlIHtwOjEyc30gLT4ge29rfSIpCnByaW50KGYiXG5wcm9iZXMgaGl0IHtoaXR9L3tsZW4ocHJvYmVzKX0gICB0b2tlbj17dG9rIGluIGNsZWFuIG9yIHRvayBpbiBsb29zZX0iKQpqc29uLmR1bXAoZGljdCh0b2tlbj10b2ssIHN0cmljdD10b2sgaW4gY2xlYW4sIGxvb3NlPXRvayBpbiBsb29zZSwgaGl0cz1oaXQsIG49bGVuKHByb2JlcykpLAogICAgICAgICAgb3BlbihPVVQgKyAiL3NlbGZjaGVjazEyNy5qc29uIiwgInciKSwgaW5kZW50PTEpCg==
+# -*- coding: utf-8 -*-
+"""127 上屏自检：渲染 → 写 /dev/fb0(1024x768 RGBA, ioctl实测) → 真实采集 → OCR 回读"""
+import os, json, random, string
+from PIL import Image, ImageDraw, ImageFont
+import numpy as np, cv2, pytesseract
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp127_stress_anneal"
+B = json.load(open(OUT + "/result127B.json"))
+C = json.load(open(OUT + "/result127C.json"))
+D = json.load(open(OUT + "/result127D.json"))
+an = C["anneal"]; cp = D["continue_pair"]
+tok = ''.join(random.choices("23456789", k=6))
+
+rows = [
+ ("S2 STEEP",    "cost 10 -> 10 of 16  cost 20 -> 0 of 16"),
+ ("S1 GRADUAL",  "bleed 0.04 -> 8 of 16  0.05 -> 3 of 16"),
+ ("S3 NOT FATAL", "aging 0.10 -> 15 of 16  cut demand survive"),
+ ("S2 LC50",     "cost between 10 and 13"),
+ ("P2 LEAK",     "orig 0.81318  norm 0.08777  noise 16"),
+ ("ANNEAL HOT",  "fg 0.33799  drift 0.00033"),
+ ("ANNEAL SLOW", "fg 0.09600  drift 0.00004"),
+ ("ANNEAL FAST", "fg 0.01204  too cold too soon"),
+ ("CONTINUE",    "good +0.04015  bad +0.00017"),
+ ("PRECURSOR",   "1 dead 9 alive  no verdict"),
+ ("DOSE",        "tau 0.02 fg 0.01118  tau 3.0 fg 0.26862"),
+ ("TOKEN",       tok),
+]
+W, H = 1024, 768
+img = Image.new("RGB", (W, H), (255, 255, 255)); dr = ImageDraw.Draw(img)
+F = None
+for p in ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+          "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]:
+    if os.path.exists(p):
+        try: F = ImageFont.truetype(p, 25); break
+        except Exception: pass
+if F is None: F = ImageFont.load_default()
+y = 26
+for k, v in rows:
+    dr.text((28, y), f"{k:14s} {v}", fill=(0, 0, 0), font=F); y += 55
+dr.text((28, y + 12), "127 STRESS AND ANNEAL SELF CHECK", fill=(0, 0, 0), font=F)
+img.save(OUT + "/render.png")
+rgba = img.convert("RGBA").resize((1024, 768))
+b = rgba.tobytes()
+open("/dev/fb0", "wb").write(b); print("written:", len(b))
+raw = open("/dev/fb0", "rb").read(); print("captured:", len(raw))
+arr = np.frombuffer(raw, dtype=np.uint8).reshape(768, 1024, 4)
+Image.fromarray(arr[:, :, :3], "RGB").save(OUT + "/captured.png")
+print("render sha", __import__('hashlib').sha256(open(OUT+"/render.png",'rb').read()).hexdigest()[:12],
+      "capture sha", __import__('hashlib').sha256(open(OUT+"/captured.png",'rb').read()).hexdigest()[:12])
+g = cv2.cvtColor(cv2.resize(cv2.imread(OUT + "/captured.png"), None, fx=2, fy=2,
+                            interpolation=cv2.INTER_CUBIC), cv2.COLOR_BGR2GRAY)
+txt = pytesseract.image_to_string(g, config="--psm 6")
+open(OUT + "/ocr.txt", "w").write(txt)
+clean = txt.replace(" ", "").upper()
+loose = clean.replace("O", "0").replace("I", "1").replace("L", "1").replace("S", "5").replace("B", "8")
+print("=== OCR ==="); print(txt.strip()[:1000])
+print(f"\nTOKEN={tok}  strict={tok in clean}  loose={tok in loose}")
+probes = ["0.33799", "0.09600", "0.01204", "0.00033", "0.00004",
+          "0.81318", "0.08777", "0.04015", "0.00017", "0.01118", "0.26862",
+          "10 of 16", "0 of 16", "15 of 16"]
+hit = 0
+for p in probes:
+    k = p.replace(" ", "").upper()
+    ok = (k in clean) or (k in loose)
+    hit += ok
+    print(f"  probe {p:12s} -> {ok}")
+print(f"\nprobes hit {hit}/{len(probes)}   token={tok in clean or tok in loose}")
+json.dump(dict(token=tok, strict=tok in clean, loose=tok in loose, hits=hit, n=len(probes)),
+          open(OUT + "/selfcheck127.json", "w"), indent=1)

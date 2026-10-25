@@ -1,1 +1,258 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKZnJvbSBlbnVtIGltcG9ydCBFbnVtCmZyb20gdHlwaW5nIGltcG9ydCBMaXN0CgppbXBvcnQgcGFuZGFzIGFzIHBkCgpmcm9tIHp2dC5jb250cmFjdC5kYXRhX3R5cGUgaW1wb3J0IEJlYW4KZnJvbSB6dnQuY29udHJhY3QuZHJhd2VyIGltcG9ydCBSZWN0CmZyb20genZ0LmZhY3RvcnMuYWxnb3JpdGhtIGltcG9ydCBpbnRlcnNlY3QKZnJvbSB6dnQudXRpbHMudGltZV91dGlscyBpbXBvcnQgVElNRV9GT1JNQVRfSVNPODYwMSwgdG9fZGF0ZV90aW1lX3N0cgoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgoKY2xhc3MgRGlyZWN0aW9uKEVudW0pOgogICAgdXAgPSAidXAiCiAgICBkb3duID0gImRvd24iCgogICAgZGVmIG9wcG9zaXRlKHNlbGYpOgogICAgICAgIGlmIHNlbGYgPT0gRGlyZWN0aW9uLnVwOgogICAgICAgICAgICByZXR1cm4gRGlyZWN0aW9uLmRvd24KICAgICAgICBpZiBzZWxmID09IERpcmVjdGlvbi5kb3duOgogICAgICAgICAgICByZXR1cm4gRGlyZWN0aW9uLnVwCgoKY2xhc3MgRmVueGluZyhCZWFuKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzdGF0ZSwga2RhdGEsIGluZGV4KSAtPiBOb25lOgogICAgICAgIHNlbGYuc3RhdGUgPSBzdGF0ZQogICAgICAgIHNlbGYua2RhdGEgPSBrZGF0YQogICAgICAgIHNlbGYuaW5kZXggPSBpbmRleAoKCmRlZiBmZW54aW5nX3Bvd2VyKGxlZnQsIG1pZGRsZSwgcmlnaHQsIGZlbnhpbmc9InRtcF9kaW5nIik6CiAgICBpZiBmZW54aW5nID09ICJ0bXBfZGluZyI6CiAgICAgICAgYSA9IG1pZGRsZVsiaGlnaCJdIC0gbWlkZGxlWyJjbG9zZSJdCiAgICAgICAgYiA9IG1pZGRsZVsiaGlnaCJdIC0gbGVmdFsiaGlnaCJdCiAgICAgICAgYyA9IG1pZGRsZVsiaGlnaCJdIC0gcmlnaHRbImhpZ2giXQogICAgICAgIHJldHVybiAtKGEgKyBiICsgYykgLyBtaWRkbGVbImNsb3NlIl0KICAgIGlmIGZlbnhpbmcgPT0gInRtcF9kaSI6CiAgICAgICAgYSA9IGFicyhtaWRkbGVbImxvdyJdIC0gbWlkZGxlWyJjbG9zZSJdKQogICAgICAgIGIgPSBhYnMobWlkZGxlWyJsb3ciXSAtIGxlZnRbImxvdyJdKQogICAgICAgIGMgPSBhYnMobWlkZGxlWyJsb3ciXSAtIHJpZ2h0WyJsb3ciXSkKICAgICAgICByZXR1cm4gKGEgKyBiICsgYykgLyBtaWRkbGVbImNsb3NlIl0KCgpkZWYgYV9pbmNsdWRlX2IoYTogcGQuU2VyaWVzLCBiOiBwZC5TZXJpZXMpIC0+IGJvb2w6CiAgICAiIiIKICAgIGtkYXRhIGEgaW5jbHVkZXMga2RhdGEgYgoKICAgIDpwYXJhbSBhOgogICAgOnBhcmFtIGI6CiAgICA6cmV0dXJuOgogICAgIiIiCiAgICByZXR1cm4gKGFbImhpZ2giXSA+PSBiWyJoaWdoIl0pIGFuZCAoYVsibG93Il0gPD0gYlsibG93Il0pCgoKZGVmIGdldF9kaXJlY3Rpb24oa2RhdGEsIHByZV9rZGF0YSwgY3VycmVudD1EaXJlY3Rpb24udXApIC0+IERpcmVjdGlvbjoKICAgIGlmIGlzX3VwKGtkYXRhLCBwcmVfa2RhdGEpOgogICAgICAgIHJldHVybiBEaXJlY3Rpb24udXAKICAgIGlmIGlzX2Rvd24oa2RhdGEsIHByZV9rZGF0YSk6CiAgICAgICAgcmV0dXJuIERpcmVjdGlvbi5kb3duCgogICAgcmV0dXJuIGN1cnJlbnQKCgpkZWYgaXNfdXAoa2RhdGEsIHByZV9rZGF0YSk6CiAgICByZXR1cm4ga2RhdGFbImhpZ2giXSA+IHByZV9rZGF0YVsiaGlnaCJdCgoKZGVmIGlzX2Rvd24oa2RhdGEsIHByZV9rZGF0YSk6CiAgICByZXR1cm4ga2RhdGFbImxvdyJdIDwgcHJlX2tkYXRhWyJsb3ciXQoKCmRlZiBoYW5kbGVfZmlyc3RfZmVueGluZyhvbmVfZGYsIHN0ZXA9MTEpOgogICAgaWYgc3RlcCA+PSBsZW4ob25lX2RmKToKICAgICAgICBsb2dnZXIuaW5mbyhmImNvdWx0IG5vdCBnZXQgZmVueGluZyBieSBzdGVwIHtzdGVwfSwgbGVuIHtsZW4ob25lX2RmKX0iKQogICAgICAgIHJldHVybiBOb25lLCBOb25lLCBOb25lLCBOb25lCgogICAgbG9nZ2VyLmluZm8oZiJ0cnkgdG8gZ2V0IGZpcnN0IGZlbnhpbmcgYnkgc3RlcCB7c3RlcH0iKQoKICAgIGRmID0gb25lX2RmLmlsb2NbOnN0ZXBdCiAgICBkaW5nX2tkYXRhID0gZGZbZGZbImhpZ2giXS5tYXgoKSA9PSBkZlsiaGlnaCJdXQogICAgZGluZ19pbmRleCA9IGludChkaW5nX2tkYXRhLmluZGV4Wy0xXSkKCiAgICBkaV9rZGF0YSA9IGRmW2RmWyJsb3ciXS5taW4oKSA9PSBkZlsibG93Il1dCiAgICBkaV9pbmRleCA9IGludChkaV9rZGF0YS5pbmRleFstMV0pCgogICAgIyDnoa7lrprnrKzkuIDkuKrliIblnosKICAgIGlmIGFicyhkaW5nX2luZGV4IC0gZGlfaW5kZXgpID49IDQ6CiAgICAgICAgaWYgZGluZ19pbmRleCA+IGRpX2luZGV4OgogICAgICAgICAgICBmZW54aW5nID0gImJpX2RpIgogICAgICAgICAgICBmZW54aW5nX2luZGV4ID0gZGlfaW5kZXgKICAgICAgICAgICAgb25lX2RmLmxvY1tkaV9pbmRleCwgImJpX2RpIl0gPSBUcnVlCiAgICAgICAgICAgICMg56Gu5a6a56ys5LiA5Liq5YiG5Z6L5ZCO77yM5byA5aeL6YGN5Y6G55qE5L2N572uCiAgICAgICAgICAgIHN0YXJ0X2luZGV4ID0gZGluZ19pbmRleAogICAgICAgICAgICAjIOebruWJjeeahOeslOeahOaWueWQke+8jHVw5Luj6KGo5a+75om+IGNhbl9kaW5nO2Rvd27ku6Pooajlr7vmib5jYW5fZGkKICAgICAgICAgICAgZGlyZWN0aW9uID0gRGlyZWN0aW9uLnVwCiAgICAgICAgICAgIGludGVydmFsID0gZGluZ19pbmRleCAtIGRpX2luZGV4CiAgICAgICAgZWxzZToKICAgICAgICAgICAgZmVueGluZyA9ICJiaV9kaW5nIgogICAgICAgICAgICBmZW54aW5nX2luZGV4ID0gZGluZ19pbmRleAogICAgICAgICAgICBvbmVfZGYubG9jW2RpbmdfaW5kZXgsICJiaV9kaW5nIl0gPSBUcnVlCiAgICAgICAgICAgIHN0YXJ0X2luZGV4ID0gZGlfaW5kZXgKICAgICAgICAgICAgZGlyZWN0aW9uID0gRGlyZWN0aW9uLmRvd24KICAgICAgICAgICAgaW50ZXJ2YWwgPSBkaV9pbmRleCAtIGRpbmdfaW5kZXgKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICBGZW54aW5nKAogICAgICAgICAgICAgICAgc3RhdGU9ZmVueGluZywKICAgICAgICAgICAgICAgIGluZGV4PWZlbnhpbmdfaW5kZXgsCiAgICAgICAgICAgICAgICBrZGF0YT17CiAgICAgICAgICAgICAgICAgICAgImxvdyI6IGZsb2F0KG9uZV9kZi5sb2NbZmVueGluZ19pbmRleF1bImxvdyJdKSwKICAgICAgICAgICAgICAgICAgICAiaGlnaCI6IGZsb2F0KG9uZV9kZi5sb2NbZmVueGluZ19pbmRleF1bImhpZ2giXSksCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICApLAogICAgICAgICAgICBzdGFydF9pbmRleCwKICAgICAgICAgICAgZGlyZWN0aW9uLAogICAgICAgICAgICBpbnRlcnZhbCwKICAgICAgICApCiAgICBlbHNlOgogICAgICAgIGxvZ2dlci5pbmZvKCJuZWVkIGFkZCBzdGVwIikKICAgICAgICByZXR1cm4gaGFuZGxlX2ZpcnN0X2Zlbnhpbmcob25lX2RmLCBzdGVwPXN0ZXAgKyAxKQoKCmRlZiBoYW5kbGVfemhvbmdzaHUocG9pbnRzOiBsaXN0LCBhY2NfZGYsIGVuZF9pbmRleCwgemhvbmdzaHVfY29sPSJ6aG9uZ3NodSIsIHpob25nc2h1X2NoYW5nZV9jb2w9Inpob25nc2h1X2NoYW5nZSIpOgogICAgemhvbmdzaHUgPSBOb25lCiAgICB6aG9uZ3NodV9jaGFuZ2UgPSBOb25lCiAgICBpbnRlcnZhbCA9IE5vbmUKCiAgICBpZiBsZW4ocG9pbnRzKSA9PSA0OgogICAgICAgIHgxID0gcG9pbnRzWzBdWzBdCiAgICAgICAgeDIgPSBwb2ludHNbM11bMF0KCiAgICAgICAgaW50ZXJ2YWwgPSBwb2ludHNbM11bMl0gLSBwb2ludHNbMF1bMl0KCiAgICAgICAgaWYgcG9pbnRzWzBdWzFdIDwgcG9pbnRzWzFdWzFdOgogICAgICAgICAgICAjIOWQkeS4i+autQogICAgICAgICAgICByYW5nZSA9IGludGVyc2VjdCgocG9pbnRzWzBdWzFdLCBwb2ludHNbMV1bMV0pLCAocG9pbnRzWzJdWzFdLCBwb2ludHNbM11bMV0pKQogICAgICAgICAgICBpZiByYW5nZToKICAgICAgICAgICAgICAgIHkxLCB5MiA9IHJhbmdlCiAgICAgICAgICAgICAgICAjIOiusOW9leS4reaeogogICAgICAgICAgICAgICAgemhvbmdzaHUgPSBSZWN0KHgwPXgxLCB4MT14MiwgeTA9eTEsIHkxPXkyKQogICAgICAgICAgICAgICAgemhvbmdzaHVfY2hhbmdlID0gYWJzKHkxIC0geTIpIC8geTEKICAgICAgICAgICAgICAgIGFjY19kZi5sb2NbZW5kX2luZGV4LCB6aG9uZ3NodV9jb2xdID0gemhvbmdzaHUKICAgICAgICAgICAgICAgIGFjY19kZi5sb2NbZW5kX2luZGV4LCB6aG9uZ3NodV9jaGFuZ2VfY29sXSA9IHpob25nc2h1X2NoYW5nZQogICAgICAgICAgICAgICAgcG9pbnRzID0gcG9pbnRzWy0xOl0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHBvaW50cyA9IHBvaW50c1sxOl0KICAgICAgICBlbHNlOgogICAgICAgICAgICAjIOWQkeS4iuautQogICAgICAgICAgICByYW5nZSA9IGludGVyc2VjdCgocG9pbnRzWzFdWzFdLCBwb2ludHNbMF1bMV0pLCAocG9pbnRzWzNdWzFdLCBwb2ludHNbMl1bMV0pKQogICAgICAgICAgICBpZiByYW5nZToKICAgICAgICAgICAgICAgIHkxLCB5MiA9IHJhbmdlCiAgICAgICAgICAgICAgICAjIOiusOW9leS4reaeogogICAgICAgICAgICAgICAgemhvbmdzaHUgPSBSZWN0KHgwPXgxLCB4MT14MiwgeTA9eTEsIHkxPXkyKQogICAgICAgICAgICAgICAgemhvbmdzaHVfY2hhbmdlID0gYWJzKHkxIC0geTIpIC8geTEKCiAgICAgICAgICAgICAgICBhY2NfZGYubG9jW2VuZF9pbmRleCwgemhvbmdzaHVfY29sXSA9IHpob25nc2h1CiAgICAgICAgICAgICAgICBhY2NfZGYubG9jW2VuZF9pbmRleCwgemhvbmdzaHVfY2hhbmdlX2NvbF0gPSB6aG9uZ3NodV9jaGFuZ2UKICAgICAgICAgICAgICAgIHBvaW50cyA9IHBvaW50c1stMTpdCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwb2ludHMgPSBwb2ludHNbMTpdCiAgICByZXR1cm4gcG9pbnRzLCB6aG9uZ3NodSwgemhvbmdzaHVfY2hhbmdlLCBpbnRlcnZhbAoKCmRlZiBoYW5kbGVfZHVhbihmZW54aW5nX2xpc3Q6IExpc3RbRmVueGluZ10sIHByZV9kdWFuX3N0YXRlPSJ5aSIpOgogICAgc3RhdGUgPSBmZW54aW5nX2xpc3RbMF0uc3RhdGUKICAgICMgMeeslOWMuumXtAogICAgYmkxX3N0YXJ0ID0gZmVueGluZ19saXN0WzBdLmtkYXRhCiAgICBiaTFfZW5kID0gZmVueGluZ19saXN0WzFdLmtkYXRhCiAgICAjIDPnrJTljLrpl7QKICAgIGJpM19zdGFydCA9IGZlbnhpbmdfbGlzdFsyXS5rZGF0YQogICAgYmkzX2VuZCA9IGZlbnhpbmdfbGlzdFszXS5rZGF0YQoKICAgIGlmIHN0YXRlID09ICJiaV9kaW5nIjoKICAgICAgICAjIOWQkeS4i+autSzkuIst5LiKLeS4iwoKICAgICAgICAjIOesrOS4gOeslOWMuumXtAogICAgICAgIHJhbmdlMSA9IChiaTFfZW5kWyJsb3ciXSwgYmkxX3N0YXJ0WyJoaWdoIl0pCiAgICAgICAgIyDnrKzkuInnrJTljLrpl7QKICAgICAgICByYW5nZTMgPSAoYmkzX2VuZFsibG93Il0sIGJpM19zdGFydFsiaGlnaCJdKQoKICAgICAgICAjIDEsM+aciemHjeWPoO+8jOiupOS4uuesrOS4gOS4quauteWHuueOsAogICAgICAgIGlmIGludGVyc2VjdChyYW5nZTEsIHJhbmdlMyk6CiAgICAgICAgICAgIHJldHVybiAiZG93biIKCiAgICBlbHNlOgogICAgICAgICMg5ZCR5LiK5q6177yM5LiKLeS4iy3kuIoKCiAgICAgICAgIyDnrKzkuIDnrJTljLrpl7QKICAgICAgICByYW5nZTEgPSAoYmkxX3N0YXJ0WyJsb3ciXSwgYmkxX2VuZFsiaGlnaCJdKQogICAgICAgICMg56ys5LiJ56yU5Yy66Ze0CiAgICAgICAgcmFuZ2UzID0gKGJpM19zdGFydFsibG93Il0sIGJpM19lbmRbImhpZ2giXSkKCiAgICAgICAgIyAxLDPmnInph43lj6DvvIzorqTkuLrnrKzkuIDkuKrmrrXlh7rnjrAKICAgICAgICBpZiBpbnRlcnNlY3QocmFuZ2UxLCByYW5nZTMpOgogICAgICAgICAgICByZXR1cm4gInVwIgoKICAgIHJldHVybiBwcmVfZHVhbl9zdGF0ZQoKCmRlZiBoYW5kbGVfaW5jbHVkaW5nKG9uZV9kZiwgaW5kZXgsIGtkYXRhLCBwcmVfaW5kZXgsIHByZV9rZGF0YSwgdG1wX2RpcmVjdGlvbjogRGlyZWN0aW9uKToKICAgICMg5pS5a2RhdGEKICAgIGlmIGFfaW5jbHVkZV9iKGtkYXRhLCBwcmVfa2RhdGEpOgogICAgICAgICMg6ZW/55qEa2RhdGHlj5jnn60KICAgICAgICBpZiB0bXBfZGlyZWN0aW9uID09IERpcmVjdGlvbi51cDoKICAgICAgICAgICAgb25lX2RmLmxvY1tpbmRleCwgImxvdyJdID0gcHJlX2tkYXRhWyJsb3ciXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG9uZV9kZi5sb2NbaW5kZXgsICJoaWdoIl0gPSBwcmVfa2RhdGFbImhpZ2giXQogICAgIyDmlLlwcmVfa2RhdGEKICAgIGVsaWYgYV9pbmNsdWRlX2IocHJlX2tkYXRhLCBrZGF0YSk6CiAgICAgICAgIyDplb/nmoRwcmVfa2RhdGHlj5jnn60KICAgICAgICBpZiB0bXBfZGlyZWN0aW9uID09IERpcmVjdGlvbi5kb3duOgogICAgICAgICAgICBvbmVfZGYubG9jW3ByZV9pbmRleCwgImxvdyJdID0ga2RhdGFbImxvdyJdCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb25lX2RmLmxvY1twcmVfaW5kZXgsICJoaWdoIl0gPSBrZGF0YVsiaGlnaCJdCgoKY2xhc3MgRmFjdG9yU3RhdGVFbmNvZGVyKGpzb24uSlNPTkVuY29kZXIpOgogICAgZGVmIGRlZmF1bHQoc2VsZiwgb2JqZWN0KToKICAgICAgICBpZiBpc2luc3RhbmNlKG9iamVjdCwgcGQuU2VyaWVzKToKICAgICAgICAgICAgcmV0dXJuIG9iamVjdC50b19kaWN0KCkKICAgICAgICBlbGlmIGlzaW5zdGFuY2Uob2JqZWN0LCBwZC5UaW1lc3RhbXApOgogICAgICAgICAgICByZXR1cm4gdG9fZGF0ZV90aW1lX3N0cihvYmplY3QsIGZtdD1USU1FX0ZPUk1BVF9JU084NjAxKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShvYmplY3QsIEVudW0pOgogICAgICAgICAgICByZXR1cm4gb2JqZWN0LnZhbHVlCiAgICAgICAgZWxpZiBpc2luc3RhbmNlKG9iamVjdCwgQmVhbik6CiAgICAgICAgICAgIHJldHVybiBvYmplY3QuZGljdCgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIHN1cGVyKCkuZGVmYXVsdChvYmplY3QpCgoKZGVmIGRlY29kZV9yZWN0KGRjdCk6CiAgICByZXR1cm4gUmVjdCh4MD1kY3RbIngwIl0sIHkwPWRjdFsieTAiXSwgeDE9ZGN0WyJ4MSJdLCB5MT1kY3RbInkxIl0pCgoKZGVmIGRlY29kZV9mZW54aW5nKGRjdCk6CiAgICByZXR1cm4gRmVueGluZyhzdGF0ZT1kY3RbInN0YXRlIl0sIGtkYXRhPWRjdFsia2RhdGEiXSwgaW5kZXg9ZGN0WyJpbmRleCJdKQoKCiMgdGhlIF9fYWxsX18gaXMgZ2VuZXJhdGVkCl9fYWxsX18gPSBbCiAgICAiRGlyZWN0aW9uIiwKICAgICJGZW54aW5nIiwKICAgICJmZW54aW5nX3Bvd2VyIiwKICAgICJhX2luY2x1ZGVfYiIsCiAgICAiZ2V0X2RpcmVjdGlvbiIsCiAgICAiaXNfdXAiLAogICAgImlzX2Rvd24iLAogICAgImhhbmRsZV9maXJzdF9mZW54aW5nIiwKICAgICJoYW5kbGVfemhvbmdzaHUiLAogICAgImhhbmRsZV9kdWFuIiwKICAgICJoYW5kbGVfaW5jbHVkaW5nIiwKICAgICJGYWN0b3JTdGF0ZUVuY29kZXIiLAogICAgImRlY29kZV9yZWN0IiwKICAgICJkZWNvZGVfZmVueGluZyIsCl0K
+# -*- coding: utf-8 -*-
+import json
+import logging
+from enum import Enum
+from typing import List
+
+import pandas as pd
+
+from zvt.contract.data_type import Bean
+from zvt.contract.drawer import Rect
+from zvt.factors.algorithm import intersect
+from zvt.utils.time_utils import TIME_FORMAT_ISO8601, to_date_time_str
+
+logger = logging.getLogger(__name__)
+
+
+class Direction(Enum):
+    up = "up"
+    down = "down"
+
+    def opposite(self):
+        if self == Direction.up:
+            return Direction.down
+        if self == Direction.down:
+            return Direction.up
+
+
+class Fenxing(Bean):
+    def __init__(self, state, kdata, index) -> None:
+        self.state = state
+        self.kdata = kdata
+        self.index = index
+
+
+def fenxing_power(left, middle, right, fenxing="tmp_ding"):
+    if fenxing == "tmp_ding":
+        a = middle["high"] - middle["close"]
+        b = middle["high"] - left["high"]
+        c = middle["high"] - right["high"]
+        return -(a + b + c) / middle["close"]
+    if fenxing == "tmp_di":
+        a = abs(middle["low"] - middle["close"])
+        b = abs(middle["low"] - left["low"])
+        c = abs(middle["low"] - right["low"])
+        return (a + b + c) / middle["close"]
+
+
+def a_include_b(a: pd.Series, b: pd.Series) -> bool:
+    """
+    kdata a includes kdata b
+
+    :param a:
+    :param b:
+    :return:
+    """
+    return (a["high"] >= b["high"]) and (a["low"] <= b["low"])
+
+
+def get_direction(kdata, pre_kdata, current=Direction.up) -> Direction:
+    if is_up(kdata, pre_kdata):
+        return Direction.up
+    if is_down(kdata, pre_kdata):
+        return Direction.down
+
+    return current
+
+
+def is_up(kdata, pre_kdata):
+    return kdata["high"] > pre_kdata["high"]
+
+
+def is_down(kdata, pre_kdata):
+    return kdata["low"] < pre_kdata["low"]
+
+
+def handle_first_fenxing(one_df, step=11):
+    if step >= len(one_df):
+        logger.info(f"coult not get fenxing by step {step}, len {len(one_df)}")
+        return None, None, None, None
+
+    logger.info(f"try to get first fenxing by step {step}")
+
+    df = one_df.iloc[:step]
+    ding_kdata = df[df["high"].max() == df["high"]]
+    ding_index = int(ding_kdata.index[-1])
+
+    di_kdata = df[df["low"].min() == df["low"]]
+    di_index = int(di_kdata.index[-1])
+
+    # 确定第一个分型
+    if abs(ding_index - di_index) >= 4:
+        if ding_index > di_index:
+            fenxing = "bi_di"
+            fenxing_index = di_index
+            one_df.loc[di_index, "bi_di"] = True
+            # 确定第一个分型后，开始遍历的位置
+            start_index = ding_index
+            # 目前的笔的方向，up代表寻找 can_ding;down代表寻找can_di
+            direction = Direction.up
+            interval = ding_index - di_index
+        else:
+            fenxing = "bi_ding"
+            fenxing_index = ding_index
+            one_df.loc[ding_index, "bi_ding"] = True
+            start_index = di_index
+            direction = Direction.down
+            interval = di_index - ding_index
+        return (
+            Fenxing(
+                state=fenxing,
+                index=fenxing_index,
+                kdata={
+                    "low": float(one_df.loc[fenxing_index]["low"]),
+                    "high": float(one_df.loc[fenxing_index]["high"]),
+                },
+            ),
+            start_index,
+            direction,
+            interval,
+        )
+    else:
+        logger.info("need add step")
+        return handle_first_fenxing(one_df, step=step + 1)
+
+
+def handle_zhongshu(points: list, acc_df, end_index, zhongshu_col="zhongshu", zhongshu_change_col="zhongshu_change"):
+    zhongshu = None
+    zhongshu_change = None
+    interval = None
+
+    if len(points) == 4:
+        x1 = points[0][0]
+        x2 = points[3][0]
+
+        interval = points[3][2] - points[0][2]
+
+        if points[0][1] < points[1][1]:
+            # 向下段
+            range = intersect((points[0][1], points[1][1]), (points[2][1], points[3][1]))
+            if range:
+                y1, y2 = range
+                # 记录中枢
+                zhongshu = Rect(x0=x1, x1=x2, y0=y1, y1=y2)
+                zhongshu_change = abs(y1 - y2) / y1
+                acc_df.loc[end_index, zhongshu_col] = zhongshu
+                acc_df.loc[end_index, zhongshu_change_col] = zhongshu_change
+                points = points[-1:]
+            else:
+                points = points[1:]
+        else:
+            # 向上段
+            range = intersect((points[1][1], points[0][1]), (points[3][1], points[2][1]))
+            if range:
+                y1, y2 = range
+                # 记录中枢
+                zhongshu = Rect(x0=x1, x1=x2, y0=y1, y1=y2)
+                zhongshu_change = abs(y1 - y2) / y1
+
+                acc_df.loc[end_index, zhongshu_col] = zhongshu
+                acc_df.loc[end_index, zhongshu_change_col] = zhongshu_change
+                points = points[-1:]
+            else:
+                points = points[1:]
+    return points, zhongshu, zhongshu_change, interval
+
+
+def handle_duan(fenxing_list: List[Fenxing], pre_duan_state="yi"):
+    state = fenxing_list[0].state
+    # 1笔区间
+    bi1_start = fenxing_list[0].kdata
+    bi1_end = fenxing_list[1].kdata
+    # 3笔区间
+    bi3_start = fenxing_list[2].kdata
+    bi3_end = fenxing_list[3].kdata
+
+    if state == "bi_ding":
+        # 向下段,下-上-下
+
+        # 第一笔区间
+        range1 = (bi1_end["low"], bi1_start["high"])
+        # 第三笔区间
+        range3 = (bi3_end["low"], bi3_start["high"])
+
+        # 1,3有重叠，认为第一个段出现
+        if intersect(range1, range3):
+            return "down"
+
+    else:
+        # 向上段，上-下-上
+
+        # 第一笔区间
+        range1 = (bi1_start["low"], bi1_end["high"])
+        # 第三笔区间
+        range3 = (bi3_start["low"], bi3_end["high"])
+
+        # 1,3有重叠，认为第一个段出现
+        if intersect(range1, range3):
+            return "up"
+
+    return pre_duan_state
+
+
+def handle_including(one_df, index, kdata, pre_index, pre_kdata, tmp_direction: Direction):
+    # 改kdata
+    if a_include_b(kdata, pre_kdata):
+        # 长的kdata变短
+        if tmp_direction == Direction.up:
+            one_df.loc[index, "low"] = pre_kdata["low"]
+        else:
+            one_df.loc[index, "high"] = pre_kdata["high"]
+    # 改pre_kdata
+    elif a_include_b(pre_kdata, kdata):
+        # 长的pre_kdata变短
+        if tmp_direction == Direction.down:
+            one_df.loc[pre_index, "low"] = kdata["low"]
+        else:
+            one_df.loc[pre_index, "high"] = kdata["high"]
+
+
+class FactorStateEncoder(json.JSONEncoder):
+    def default(self, object):
+        if isinstance(object, pd.Series):
+            return object.to_dict()
+        elif isinstance(object, pd.Timestamp):
+            return to_date_time_str(object, fmt=TIME_FORMAT_ISO8601)
+        elif isinstance(object, Enum):
+            return object.value
+        elif isinstance(object, Bean):
+            return object.dict()
+        else:
+            return super().default(object)
+
+
+def decode_rect(dct):
+    return Rect(x0=dct["x0"], y0=dct["y0"], x1=dct["x1"], y1=dct["y1"])
+
+
+def decode_fenxing(dct):
+    return Fenxing(state=dct["state"], kdata=dct["kdata"], index=dct["index"])
+
+
+# the __all__ is generated
+__all__ = [
+    "Direction",
+    "Fenxing",
+    "fenxing_power",
+    "a_include_b",
+    "get_direction",
+    "is_up",
+    "is_down",
+    "handle_first_fenxing",
+    "handle_zhongshu",
+    "handle_duan",
+    "handle_including",
+    "FactorStateEncoder",
+    "decode_rect",
+    "decode_fenxing",
+]

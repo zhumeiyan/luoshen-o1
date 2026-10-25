@@ -1,1 +1,83 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5rSb56WeIMK3IOWFqOagiOW8j+WuoeiuoQo9PT09PT09PT09PT09PT09CueUqOaIt+imgeeahOS4jeaYr+OAjOWvueagh+afkOS4quS6p+WTgeOAje+8jOaYr+aKiuS7k+W6k+e7n+S4gOWIsOOAkOWFqOagiOW8j+OAkei/meS4quiMg+W8j++8mgogICAg5LuO5pWw5o2u5Yiw55WM6Z2i5Yiw57q/5LiK5Y+v6K6/6Zeu77yM5YWo6ZO+6Lev6Ieq5bex6LeR5b6X6YCa77yM5Yir5Lq654K55byA5bCx6IO955So44CCCgrlha3lsYLliKTmja7vvIjlsJHkuIDlsYLlsLHkuI3mmK/lhajmoIjlvI/vvIzmmK/ljYrmiJDlk4HvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIEwxIOWGheaguOWxgiAgICDmnInlj6/ov5DooYznmoTmoLjlv4PpgLvovpHvvIjkuI3lj6rmmK/mlofmoaMv6YWN572u77yJCiAgICBMMiDmlbDmja7lsYIgICAg5pyJ5pWw5o2u6L+b5Ye677ya6L6T5YWl5rqQICsg5Lqn54mp6JC955uYCiAgICBMMyDmjqXlj6PlsYIgICAg5pyJ6Z2e5Lqk5LqS5YWl5Y+j77yaQ0xJIOaIliBIVFRQIEFQSe+8iOWIq+S6uuiDveiwg++8jOS4jeeUqOivu+S9oOa6kOegge+8iQogICAgTDQg55WM6Z2i5bGCICAgIOacieS6uuiDveeci+eahOWRiOeOsO+8mkhUTUwgLyDlm74gLyDku6rooajnm5gKICAgIEw1IOmDqOe9suWxgiAgICDnur/kuIrog73orr/pl67vvJpQYWdlcyAvIOermeeCuSAvIOWMhee0ouW8lQogICAgTDYg5Y+v6aqM6K+B5bGCICDmnInoh6ror4HvvJrog73ot5Hlh7rmlbDlrZfor4HmmI7oh6rlt7HlnKjlt6XkvZwKIiIiCmltcG9ydCBqc29uLCB1cmxsaWIucmVxdWVzdCwgb3MsIHJlCgpUT0s9ImdocF9jcWJITjVxdjd0UkQwOWJhNXhRTG40c3k2TnFldFkwV01QaWwiCkg9eyJBdXRob3JpemF0aW9uIjpmInRva2VuIHtUT0t9IiwiVXNlci1BZ2VudCI6Imx1b3NoZW4tZnMifQpkZWYgZ2V0KHUpOgogICAgdHJ5OiByZXR1cm4ganNvbi5sb2Fkcyh1cmxsaWIucmVxdWVzdC51cmxvcGVuKHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodSxoZWFkZXJzPUgpLHRpbWVvdXQ9NDUpLnJlYWQoKSkKICAgIGV4Y2VwdCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yIGFzIGU6IHJldHVybiB7Il9fZXJyX18iOmUuY29kZX0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZTogcmV0dXJuIHsiX19lcnJfXyI6c3RyKGUpWzo1MF19CgpyZXBvcz1bXTtwPTEKd2hpbGUgVHJ1ZToKICAgIHI9Z2V0KGYiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS91c2Vycy96aHVtZWl5YW4vcmVwb3M/cGVyX3BhZ2U9MTAwJnBhZ2U9e3B9JnNvcnQ9dXBkYXRlZCIpCiAgICBpZiBub3QgaXNpbnN0YW5jZShyLGxpc3QpIG9yIG5vdCByOiBicmVhawogICAgcmVwb3MrPXIKICAgIGlmIGxlbihyKTwxMDA6IGJyZWFrCiAgICBwKz0xCgpkZWYgdHJlZShuYW1lLGJyKToKICAgIHQ9Z2V0KGYiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy96aHVtZWl5YW4ve25hbWV9L2dpdC90cmVlcy97YnJ9P3JlY3Vyc2l2ZT0xIikKICAgIGlmIG5vdCBpc2luc3RhbmNlKHQsZGljdCkgb3IgInRyZWUiIG5vdCBpbiB0OiByZXR1cm4gW10KICAgIHJldHVybiBbeFsicGF0aCJdIGZvciB4IGluIHRbInRyZWUiXSBpZiB4WyJ0eXBlIl09PSJibG9iIl0KCnByaW50KCI9Iio4MCkKcHJpbnQoIiDmtJvnpZ4gwrcg5YWo5qCI5byP5a6h6K6hIOKAlOKAlCDlha3lsYLvvIzlsJHkuIDlsYLlsLHmmK/ljYrmiJDlk4EiKQpwcmludCgiPSIqODApCnByaW50KGYiIOS7k+W6kyB7bGVuKHJlcG9zKX0g5LiqXG4iKQpwcmludChmInsn5LuT5bqTJzo8MjR9eyflhoXmoLgnOjw2fXsn5pWw5o2uJzo8Nn17J+aOpeWPoyc6PDZ9eyfnlYzpnaInOjw2fXsn6YOo572yJzo8Nn17J+iHquivgSc6PDZ9IOWxguaVsCIpCnByaW50KCItIio4MCkKCnJvd3M9W10KZm9yIGQgaW4gc29ydGVkKHJlcG9zLGtleT1sYW1iZGEgeDp4WyJuYW1lIl0pOgogICAgbj1kWyJuYW1lIl07IGJyPWQuZ2V0KCJkZWZhdWx0X2JyYW5jaCIpIG9yICJtYWluIgogICAgcGF0aHM9dHJlZShuLGJyKQogICAgbG93PVtwLmxvd2VyKCkgZm9yIHAgaW4gcGF0aHNdCiAgICBweT1bcCBmb3IgcCBpbiBwYXRocyBpZiBwLmVuZHN3aXRoKCIucHkiKV0KICAgIGpzPVtwIGZvciBwIGluIHBhdGhzIGlmIHAuZW5kc3dpdGgoKCIuanMiLCIudHMiLCIuanN4IiwiLnRzeCIpKV0KICAgIGh0bWw9W3AgZm9yIHAgaW4gcGF0aHMgaWYgcC5lbmRzd2l0aCgoIi5odG1sIiwiLmh0bSIpKV0KCiAgICBMMSA9IDEgaWYgKHB5IG9yIGpzKSBlbHNlIDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDlhoXmoLgKICAgIEwyID0gMSBpZiAoYW55KCJzdGF0ZSIgaW4gcCBmb3IgcCBpbiBsb3cpIG9yIGFueSgiZGF0YSIgaW4gcCBmb3IgcCBpbiBsb3cpCiAgICAgICAgICAgICAgIG9yIGFueShwLmVuZHN3aXRoKCgiLmpzb24iLCIuY3N2IiwiLnNxbGl0ZSIsIi5kYiIpKSBmb3IgcCBpbiBsb3cpCiAgICAgICAgICAgICAgIG9yIGFueSgibG9nIiBpbiBwIGZvciBwIGluIGxvdykpIGVsc2UgMCAgICAgICAgICAgICAgICMg5pWw5o2uCiAgICBMMyA9ICgxIGlmIGFueShyZS5zZWFyY2gociIoY2xpfGFwaXxzZXJ2ZXxzZXJ2ZXJ8bWFpbnxfX21haW5fX3xhcHApXC5weSQiLHApIGZvciBwIGluIHB5KQogICAgICAgICAgICAgb3IgYW55KHJlLnNlYXJjaChyIihzZXJ2ZXJ8YXBpfGluZGV4fG1haW4pXC4oanN8dHMpJCIscCkgZm9yIHAgaW4ganMpIGVsc2UgMCkgICMg5o6l5Y+jCiAgICBMNCA9IDEgaWYgKGh0bWwgb3IgYW55KCJzaXRlIiBpbiBwIG9yICJkb2NzIiBpbiBwIG9yICJmaWciIGluIHAgZm9yIHAgaW4gbG93KSkgZWxzZSAwICAgIyDnlYzpnaIKICAgIEw1ID0gMSBpZiAoYm9vbChkLmdldCgiaG9tZXBhZ2UiKSkgb3IgYW55KHggaW4gbG93IGZvciB4IGluCiAgICAgICAgICAgICAgIFsiaW5kZXguaHRtbCIsIi5naXRodWIvd29ya2Zsb3dzL3BhZ2VzIiwiZGVwbG95LnB5Iiwic2l0ZS9pbmRleC5odG1sIl0pKSBlbHNlIDAKICAgIEw2ID0gMSBpZiAoYW55KHJlLnNlYXJjaChyIih2ZXJpZnl8dGVzdHxjaGVja3xzZWxmdGVzdCkiLHApIGZvciBwIGluIGxvdykpIGVsc2UgMAogICAgcm93cy5hcHBlbmQoZGljdChuYW1lPW4sbGF5ZXJzPVtMMSxMMixMMyxMNCxMNSxMNl0sbj1zdW0oW0wxLEwyLEwzLEw0LEw1LEw2XSksCiAgICAgICAgICAgICAgICAgICAgIGFyY2hpdmVkPWQuZ2V0KCJhcmNoaXZlZCIpLHNpemU9ZC5nZXQoInNpemUiKSkpCgpmb3IgciBpbiBzb3J0ZWQocm93cyxrZXk9bGFtYmRhIHg6LXhbIm4iXSk6CiAgICBtPSIiLmpvaW4oZiJ7J+KckycgaWYgdiBlbHNlICfinJcnOjw2fSIgZm9yIHYgaW4gclsibGF5ZXJzIl0pCiAgICB0YWc9IvCflJIiIGlmIHJbImFyY2hpdmVkIl0gZWxzZSAiICAiCiAgICBwcmludChmInt0YWd9e3JbJ25hbWUnXVs6MjFdOjwyMn17bX0gIHtyWyduJ119LzYiKQpwcmludCgiLSIqODApCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKYz1Db3VudGVyKHJbIm4iXSBmb3IgciBpbiByb3dzKQpwcmludCgiIOWxguaVsOWIhuW4g++8miIsIGRpY3Qoc29ydGVkKGMuaXRlbXMoKSxyZXZlcnNlPVRydWUpKSkKcHJpbnQoZiIg5bmz5Z2HIHtzdW0oclsnbiddIGZvciByIGluIHJvd3MpL2xlbihyb3dzKTouMmZ9LzYiKQpmdWxsPVtyWyJuYW1lIl0gZm9yIHIgaW4gcm93cyBpZiByWyJuIl09PTZdCnByaW50KGYiIOWFreWxgum9kOWFqO+8mntmdWxsIGlmIGZ1bGwgZWxzZSAn4p2MIDAg5LiqIOKAlOKAlCDmsqHmnInkuIDkuKrku5PlupPmmK/lhajmoIjlvI8nfSIpCmFsaXZlPVtyIGZvciByIGluIHJvd3MgaWYgbm90IHJbImFyY2hpdmVkIl1dCnByaW50KGYiXG4g5pyq5b2S5qGj55qEIHtsZW4oYWxpdmUpfSDkuKrvvJoiKQpmb3IgciBpbiBhbGl2ZTogcHJpbnQoZiIgICB7clsnbmFtZSddOjwyMn17clsnbiddfS82ICDnvLo6IHtbbiBmb3Igbix2IGluIHppcChbJ+WGheaguCcsJ+aVsOaNricsJ+aOpeWPoycsJ+eVjOmdoicsJ+mDqOe9sicsJ+iHquivgSddLHJbJ2xheWVycyddKSBpZiBub3Qgdl19IikKanNvbi5kdW1wKHJvd3Msb3BlbigiLnNlbnNlL2Z1bGxzdGFja19hdWRpdC5qc29uIiwidyIpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+洛神 · 全栈式审计
+================
+用户要的不是「对标某个产品」，是把仓库统一到【全栈式】这个范式：
+    从数据到界面到线上可访问，全链路自己跑得通，别人点开就能用。
+
+六层判据（少一层就不是全栈式，是半成品）
+--------------------------------------
+    L1 内核层    有可运行的核心逻辑（不只是文档/配置）
+    L2 数据层    有数据进出：输入源 + 产物落盘
+    L3 接口层    有非交互入口：CLI 或 HTTP API（别人能调，不用读你源码）
+    L4 界面层    有人能看的呈现：HTML / 图 / 仪表盘
+    L5 部署层    线上能访问：Pages / 站点 / 包索引
+    L6 可验证层  有自证：能跑出数字证明自己在工作
+"""
+import json, urllib.request, os, re
+
+TOK="ghp_REDACTED"
+H={"Authorization":f"token {TOK}","User-Agent":"luoshen-fs"}
+def get(u):
+    try: return json.loads(urllib.request.urlopen(urllib.request.Request(u,headers=H),timeout=45).read())
+    except urllib.error.HTTPError as e: return {"__err__":e.code}
+    except Exception as e: return {"__err__":str(e)[:50]}
+
+repos=[];p=1
+while True:
+    r=get(f"https://api.github.com/users/zhumeiyan/repos?per_page=100&page={p}&sort=updated")
+    if not isinstance(r,list) or not r: break
+    repos+=r
+    if len(r)<100: break
+    p+=1
+
+def tree(name,br):
+    t=get(f"https://api.github.com/repos/zhumeiyan/{name}/git/trees/{br}?recursive=1")
+    if not isinstance(t,dict) or "tree" not in t: return []
+    return [x["path"] for x in t["tree"] if x["type"]=="blob"]
+
+print("="*80)
+print(" 洛神 · 全栈式审计 —— 六层，少一层就是半成品")
+print("="*80)
+print(f" 仓库 {len(repos)} 个\n")
+print(f"{'仓库':<24}{'内核':<6}{'数据':<6}{'接口':<6}{'界面':<6}{'部署':<6}{'自证':<6} 层数")
+print("-"*80)
+
+rows=[]
+for d in sorted(repos,key=lambda x:x["name"]):
+    n=d["name"]; br=d.get("default_branch") or "main"
+    paths=tree(n,br)
+    low=[p.lower() for p in paths]
+    py=[p for p in paths if p.endswith(".py")]
+    js=[p for p in paths if p.endswith((".js",".ts",".jsx",".tsx"))]
+    html=[p for p in paths if p.endswith((".html",".htm"))]
+
+    L1 = 1 if (py or js) else 0                                     # 内核
+    L2 = 1 if (any("state" in p for p in low) or any("data" in p for p in low)
+               or any(p.endswith((".json",".csv",".sqlite",".db")) for p in low)
+               or any("log" in p for p in low)) else 0               # 数据
+    L3 = (1 if any(re.search(r"(cli|api|serve|server|main|__main__|app)\.py$",p) for p in py)
+             or any(re.search(r"(server|api|index|main)\.(js|ts)$",p) for p in js) else 0)  # 接口
+    L4 = 1 if (html or any("site" in p or "docs" in p or "fig" in p for p in low)) else 0   # 界面
+    L5 = 1 if (bool(d.get("homepage")) or any(x in low for x in
+               ["index.html",".github/workflows/pages","deploy.py","site/index.html"])) else 0
+    L6 = 1 if (any(re.search(r"(verify|test|check|selftest)",p) for p in low)) else 0
+    rows.append(dict(name=n,layers=[L1,L2,L3,L4,L5,L6],n=sum([L1,L2,L3,L4,L5,L6]),
+                     archived=d.get("archived"),size=d.get("size")))
+
+for r in sorted(rows,key=lambda x:-x["n"]):
+    m="".join(f"{'✓' if v else '✗':<6}" for v in r["layers"])
+    tag="🔒" if r["archived"] else "  "
+    print(f"{tag}{r['name'][:21]:<22}{m}  {r['n']}/6")
+print("-"*80)
+from collections import Counter
+c=Counter(r["n"] for r in rows)
+print(" 层数分布：", dict(sorted(c.items(),reverse=True)))
+print(f" 平均 {sum(r['n'] for r in rows)/len(rows):.2f}/6")
+full=[r["name"] for r in rows if r["n"]==6]
+print(f" 六层齐全：{full if full else '❌ 0 个 —— 没有一个仓库是全栈式'}")
+alive=[r for r in rows if not r["archived"]]
+print(f"\n 未归档的 {len(alive)} 个：")
+for r in alive: print(f"   {r['name']:<22}{r['n']}/6  缺: {[n for n,v in zip(['内核','数据','接口','界面','部署','自证'],r['layers']) if not v]}")
+json.dump(rows,open(".sense/fullstack_audit.json","w"),ensure_ascii=False,indent=1)

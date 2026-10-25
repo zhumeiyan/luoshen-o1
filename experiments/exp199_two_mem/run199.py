@@ -1,1 +1,201 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIDE5OTog5bel5L2c6IO95YqbIHZzIOaDheaEn+iusOW/hiDigJTigJQg5Y2V5LiA55uu5qCH5Ye95pWw5piv5ZCm5Lya5reY5rGw5oOF5oSf6K6w5b+GCiMgQSA9IOWIpOaNruaguCjlt6XkvZzog73lipssIDczOUtCKSAgQiA9IOeUqOaIt+eahOivnSjmg4XmhJ/orrDlv4YsIDEwS0IpCmltcG9ydCBqc29uLCBtYXRoLCByYW5kb20sIGhhc2hsaWIsIG9zCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CgpBX1BBVEggPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCIKQl9QQVRIID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0IgpPVVQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTk5X3R3b19tZW0vcmVzdWx0MTk5Lmpzb24iCgpkZWYgbG9hZChwKToKICAgIHdpdGggb3BlbihwLCAncicsIGVuY29kaW5nPSd1dGYtOCcsIGVycm9ycz0naWdub3JlJykgYXMgZjoKICAgICAgICByZXR1cm4gZi5yZWFkKCkKCkFfYWxsID0gbG9hZChBX1BBVEgpCkJfYWxsID0gbG9hZChCX1BBVEgpCnNoYSA9IGxhbWJkYSBzOiBoYXNobGliLnNoYTI1NihzLmVuY29kZSgpKS5oZXhkaWdlc3QoKVs6MTJdCgpLID0gMyAgIyB0cmlncmFtCgpkZWYgdHJhaW4odGV4dCwgYWxwaGEsIFY9Tm9uZSk6CiAgICBjdHggPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGZsb2F0KSkKICAgIHRvdCA9IGRlZmF1bHRkaWN0KGZsb2F0KQogICAgdm9jYWIgPSBzZXQoKQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRleHQpIC0gSyArIDEpOgogICAgICAgIGMgPSB0ZXh0W2k6aStLLTFdOyBuID0gdGV4dFtpK0stMV0KICAgICAgICBjdHhbY11bbl0gKz0gMS4wCiAgICAgICAgdG90W2NdICs9IDEuMAogICAgICAgIHZvY2FiLmFkZChuKQogICAgaWYgViBpcyBOb25lOiBWID0gbGVuKHZvY2FiKQogICAgcmV0dXJuIHsnY3R4JzogY3R4LCAndG90JzogdG90LCAnVic6IFYsICdhbHBoYSc6IGFscGhhLCAndm9jYWInOiB2b2NhYn0KCmRlZiBwcm9iKG0sIGMsIGNoKToKICAgIGQgPSBtWydjdHgnXS5nZXQoYykgb3Ige30KICAgIG51bSA9IGQuZ2V0KGNoLCAwLjApICsgbVsnYWxwaGEnXQogICAgdCA9IG1bJ3RvdCddLmdldChjLCAwLjApCiAgICBkZW4gPSB0ICsgbVsnYWxwaGEnXSAqIG1bJ1YnXQogICAgZmxvb3IgPSAxZS0xMgogICAgcmV0dXJuIG1heChudW0gLyBkZW4gaWYgZGVuID4gMCBlbHNlIGZsb29yLCBmbG9vcikKCmRlZiBzZXFfbG9ncHJvYihtLCB0ZXh0KToKICAgICIiIuW5s+WdhyAtbG9nMiBQ77yMYml0cy9jaGFy44CC55So5YWx5LqrVuS/neivgeWPr+avlOOAgiIiIgogICAgcyA9IDAuMDsgbiA9IDAKICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSAtIEsgKyAxKToKICAgICAgICBjID0gdGV4dFtpOmkrSy0xXTsgY2ggPSB0ZXh0W2krSy0xXQogICAgICAgIHMgKz0gLW1hdGgubG9nMihwcm9iKG0sIGMsIGNoKSk7IG4gKz0gMQogICAgcmV0dXJuIHMgLyBuIGlmIG4gZWxzZSBmbG9hdCgnbmFuJykKCmRlZiBtaXhfcHJvYnMobW9kZWxzLCB3ZWlnaHRzLCBjLCBjaCk6CiAgICByZXR1cm4gc3VtKHcgKiBwcm9iKG0sIGMsIGNoKSBmb3IgbSwgdyBpbiB6aXAobW9kZWxzLCB3ZWlnaHRzKSkKCmRlZiBzZXFfbG9ncHJvYl9taXgobW9kZWxzLCB3ZWlnaHRzLCB0ZXh0KToKICAgIHMgPSAwLjA7IG4gPSAwCiAgICBmb3IgaSBpbiByYW5nZShsZW4odGV4dCkgLSBLICsgMSk6CiAgICAgICAgYyA9IHRleHRbaTppK0stMV07IGNoID0gdGV4dFtpK0stMV0KICAgICAgICBwID0gbWl4X3Byb2JzKG1vZGVscywgd2VpZ2h0cywgYywgY2gpCiAgICAgICAgcyArPSAtbWF0aC5sb2cyKG1heChwLCAxZS0xMikpOyBuICs9IDEKICAgIHJldHVybiBzIC8gbiBpZiBuIGVsc2UgZmxvYXQoJ25hbicpCgpkZWYgc2VxX2xvZ3Byb2JfYXJiaXRyYXRlKG1BLCBtQiwgdGV4dCk6CiAgICAiIiLku7Loo4Ev5a+55oqXOiDkuKTkuKrlrZDmqKHlnovlvZPlnLrnq57kuonvvIzosIHlr7nlvZPliY3kuIrkuIvmlofmm7Tnoa7lrprosIHor7Tor50iIiIKICAgIHMgPSAwLjA7IG4gPSAwCiAgICBmb3IgaSBpbiByYW5nZShsZW4odGV4dCkgLSBLICsgMSk6CiAgICAgICAgYyA9IHRleHRbaTppK0stMV07IGNoID0gdGV4dFtpK0stMV0KICAgICAgICBkQSA9IG1BWydjdHgnXS5nZXQoYyk7IGRCID0gbUJbJ2N0eCddLmdldChjKQogICAgICAgIGJlc3RBID0gbWF4KGRBLnZhbHVlcygpKSBpZiBkQSBlbHNlIDAuMAogICAgICAgIGJlc3RCID0gbWF4KGRCLnZhbHVlcygpKSBpZiBkQiBlbHNlIDAuMAogICAgICAgICMg5b2S5LiA5YyW5Yiw6K6h5pWw5Y2g5q+UIC0+IOehruWumuaApwogICAgICAgIHRBID0gbUFbJ3RvdCddLmdldChjLCAwLjApOyB0QiA9IG1CWyd0b3QnXS5nZXQoYywgMC4wKQogICAgICAgIGNBID0gKGJlc3RBIC8gdEEpIGlmIHRBID4gMCBlbHNlIDAuMAogICAgICAgIGNCID0gKGJlc3RCIC8gdEIpIGlmIHRCID4gMCBlbHNlIDAuMAogICAgICAgIGlmIGNBICsgY0IgPD0gMDoKICAgICAgICAgICAgd0EgPSB3QiA9IDAuNQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHdBID0gY0EgLyAoY0EgKyBjQik7IHdCID0gMS4wIC0gd0EKICAgICAgICBwID0gd0EgKiBwcm9iKG1BLCBjLCBjaCkgKyB3QiAqIHByb2IobUIsIGMsIGNoKQogICAgICAgIHMgKz0gLW1hdGgubG9nMihtYXgocCwgMWUtMTIpKTsgbiArPSAxCiAgICByZXR1cm4gcyAvIG4gaWYgbiBlbHNlIGZsb2F0KCduYW4nKQoKIyAtLS0tIOWIkuWIhiAtLS0tCnJhbmRvbS5zZWVkKDQyKQpkZWYgc3BsaXQodGV4dCwgZnJhYz0wLjcpOgogICAgayA9IGludChsZW4odGV4dCkgKiBmcmFjKQogICAgcmV0dXJuIHRleHRbOmtdLCB0ZXh0W2s6XQoKQl90cmFpbiwgQl90ZXN0ID0gc3BsaXQoQl9hbGwsIDAuNykKCnJlc3VsdHMgPSB7fQpyZXN1bHRzWydtZXRhJ10gPSB7CiAgICAnQV9jaGFycyc6IGxlbihBX2FsbCksICdCX2NoYXJzJzogbGVuKEJfYWxsKSwKICAgICdyYXRpbyc6IGxlbihBX2FsbCkgLyBsZW4oQl9hbGwpLAogICAgJ0Ffc2hhJzogc2hhKEFfYWxsKSwgJ0Jfc2hhJzogc2hhKEJfYWxsKSwKICAgICdCX3RyYWluJzogbGVuKEJfdHJhaW4pLCAnQl90ZXN0JzogbGVuKEJfdGVzdCksCiAgICAnSyc6IEssCn0KCiMgLS0tLSDlhbHkuqvor43ooajvvIjkv53or4EgYml0cyDlj6/mr5TvvIktLS0tCnNoYXJlZF92b2NhYiA9IHNldChBX2FsbCkgfCBzZXQoQl9hbGwpClYgPSBsZW4oc2hhcmVkX3ZvY2FiKQpyZXN1bHRzWydtZXRhJ11bJ1YnXSA9IFYKCkFMUEhBUyA9IFswLjAxLCAwLjEsIDEuMF0KQ0FQUyA9IFsxMDAwMCwgNTAwMDAsIDEwMjAwMCwgMzA3MDAwLCBsZW4oQV9hbGwpXSAgIyBBIOeahOWuuemHj+ahowoKIyAtLS0tLS0tLS0tIOWunumqjDE6IOWuuemHj+aJq+aPjyDigJTigJQgQiDooqvmt7nmsqHlkJcgLS0tLS0tLS0tLQpjYXBfc2NhbiA9IFtdCmZvciBOIGluIENBUFM6CiAgICBBX3N1YiA9IEFfYWxsWzpOXSAgICAgICAgICAgIyDnnJ/miKrmlq3vvIzkuI3mmK/ph43lpI0o6YG/5YWNMTky5Y+355qE5YGH5aCG6YeP5Z2RKQogICAgQV90ciwgQV90ZSA9IHNwbGl0KEFfc3ViLCAwLjcpCiAgICBBX3RlID0gQV90ZVs6MjAwMDBdCiAgICByb3cgPSB7J0FfY2hhcnMnOiBOLCAncmF0aW9fdG9fQic6IE4gLyBsZW4oQl9hbGwpfQogICAgZm9yIGFsIGluIEFMUEhBUzoKICAgICAgICBtQiA9IHRyYWluKEJfdHJhaW4sIGFsLCBWKSAgICAgICAgICAgICAgICAgICMg57qv5oOF5oSf6K6w5b+G5qih5Z6LCiAgICAgICAgbUFtaXggPSB0cmFpbihBX3RyICsgQl90cmFpbiwgYWwsIFYpICAgICAgICAjIOWNleS4gOa3t+WQiOaooeWeiwogICAgICAgIG1BID0gdHJhaW4oQV90ciwgYWwsIFYpCiAgICAgICAgYml0c19CX293biA9IHNlcV9sb2dwcm9iKG1CLCBCX3Rlc3QpCiAgICAgICAgYml0c19CX21vbm8gPSBzZXFfbG9ncHJvYihtQW1peCwgQl90ZXN0KQogICAgICAgIGJpdHNfQl91bmRlcl9BID0gc2VxX2xvZ3Byb2IobUEsIEJfdGVzdCkgICAgIyDlj6rmnInlt6XkvZzog73lipvml7bvvIzor7vkvaDnmoTor53mnInlpJrpmr4KICAgICAgICByb3dbZidhbHBoYXthbH0nXSA9IHsKICAgICAgICAgICAgJ2JpdHNfQl9ieV9Cb25seSc6IGJpdHNfQl9vd24sCiAgICAgICAgICAgICdiaXRzX0JfYnlfbW9ubyc6IGJpdHNfQl9tb25vLAogICAgICAgICAgICAnYml0c19CX2J5X0Fvbmx5JzogYml0c19CX3VuZGVyX0EsCiAgICAgICAgICAgICdyZXRlbnRpb25fYml0cyc6IGJpdHNfQl9tb25vIC0gYml0c19CX293biwgICAjID4wID0gQuiiq+a3ueayoQogICAgICAgICAgICAncmV0ZW50aW9uX3JhdGlvJzogYml0c19CX293biAvIGJpdHNfQl9tb25vIGlmIGJpdHNfQl9tb25vID4gMCBlbHNlIE5vbmUsCiAgICAgICAgfQogICAgY2FwX3NjYW4uYXBwZW5kKHJvdykKcmVzdWx0c1snY2FwX3NjYW4nXSA9IGNhcF9zY2FuCgojIC0tLS0tLS0tLS0g5a6e6aqMMjog5LiJ56eN5p625p6E5ZyoIEJfdGVzdCDkuIrnmoTooajnjrAgLS0tLS0tLS0tLQojIE1vbm8gLyDlm7rlrprmt7flkIgo5o6S54+tKSAvIOS7suijgSjlr7nmipcpCmFyY2ggPSBbXQpmb3IgTiBpbiBDQVBTOgogICAgQV9zdWIgPSBBX2FsbFs6Tl0KICAgIEFfdHIsIEFfdGUgPSBzcGxpdChBX3N1YiwgMC43KQogICAgQV90ZSA9IEFfdGVbOjIwMDAwXQogICAgZm9yIGFsIGluIEFMUEhBUzoKICAgICAgICBtQiA9IHRyYWluKEJfdHJhaW4sIGFsLCBWKQogICAgICAgIG1BID0gdHJhaW4oQV90ciwgYWwsIFYpCiAgICAgICAgbU1peCA9IHRyYWluKEFfdHIgKyBCX3RyYWluLCBhbCwgVikKICAgICAgICAjIOaOkuePrTog5Zu65a6a5p2D6YeNICjmjInorq3nu4Pph4/mr5Tkvosg5LiOIDAuNSDkuKTmoaMpCiAgICAgICAgdG90X2xlbiA9IGxlbihBX3RyKSArIGxlbihCX3RyYWluKQogICAgICAgIHdBX3ZvbCA9IGxlbihBX3RyKSAvIHRvdF9sZW4KICAgICAgICBiaXRzX3NjaGVkX3ZvbCA9IHNlcV9sb2dwcm9iX21peChbbUEsIG1CXSwgW3dBX3ZvbCwgMSAtIHdBX3ZvbF0sIEJfdGVzdCkKICAgICAgICBiaXRzX3NjaGVkX2hhbGYgPSBzZXFfbG9ncHJvYl9taXgoW21BLCBtQl0sIFswLjUsIDAuNV0sIEJfdGVzdCkKICAgICAgICAjIOS7suijgS/lr7nmipcKICAgICAgICBiaXRzX2FyYiA9IHNlcV9sb2dwcm9iX2FyYml0cmF0ZShtQSwgbUIsIEJfdGVzdCkKICAgICAgICAjIEEg5L6n55qE5Luj5Lu3OiDlkITmnrbmnoTlnKggQV90ZXN0IOS4iueahOihqOeOsAogICAgICAgIGJpdHNfQV9Bb25seSA9IHNlcV9sb2dwcm9iKG1BLCBBX3RlKQogICAgICAgIGJpdHNfQV9tb25vID0gc2VxX2xvZ3Byb2IobU1peCwgQV90ZSkKICAgICAgICBiaXRzX0FfYXJiID0gc2VxX2xvZ3Byb2JfYXJiaXRyYXRlKG1BLCBtQiwgQV90ZSkKICAgICAgICBiaXRzX0Ffc2NoZWQgPSBzZXFfbG9ncHJvYl9taXgoW21BLCBtQl0sIFt3QV92b2wsIDEgLSB3QV92b2xdLCBBX3RlKQogICAgICAgIGFyY2guYXBwZW5kKHsKICAgICAgICAgICAgJ0FfY2hhcnMnOiBOLCAnYWxwaGEnOiBhbCwKICAgICAgICAgICAgJ0JfQm9ubHknOiBzZXFfbG9ncHJvYihtQiwgQl90ZXN0KSwKICAgICAgICAgICAgJ0JfbW9ubyc6IHNlcV9sb2dwcm9iKG1NaXgsIEJfdGVzdCksCiAgICAgICAgICAgICdCX3NjaGVkX3ZvbCc6IGJpdHNfc2NoZWRfdm9sLAogICAgICAgICAgICAnQl9zY2hlZF9oYWxmJzogYml0c19zY2hlZF9oYWxmLAogICAgICAgICAgICAnQl9hcmJpdHJhdGUnOiBiaXRzX2FyYiwKICAgICAgICAgICAgJ0FfQW9ubHknOiBiaXRzX0FfQW9ubHksCiAgICAgICAgICAgICdBX21vbm8nOiBiaXRzX0FfbW9ubywKICAgICAgICAgICAgJ0Ffc2NoZWQnOiBiaXRzX0Ffc2NoZWQsCiAgICAgICAgICAgICdBX2FyYml0cmF0ZSc6IGJpdHNfQV9hcmIsCiAgICAgICAgICAgICdBX2Nvc3Rfb2Zfc3BsaXQnOiBiaXRzX0FfYXJiIC0gYml0c19BX0Fvbmx5LAogICAgICAgICAgICAnQl9nYWluX29mX3NwbGl0Jzogc2VxX2xvZ3Byb2IobU1peCwgQl90ZXN0KSAtIGJpdHNfYXJiLAogICAgICAgIH0pCnJlc3VsdHNbJ2FyY2gnXSA9IGFyY2gKCiMgLS0tLS0tLS0tLSDlrp7pqowzOiDni6znibnmgKcgdnMg6LSh54yuIOKAlOKAlCDmg4XmhJ/orrDlv4bnmoTku7flgLzlnKjpooTmtYvlipvkuYvlpJblkJcgLS0tLS0tLS0tLQojIOaKiiBCX3Rlc3Qg55qE5q+P5Liq5L2N572u5oyJIuivpeS4iuS4i+aWh+WcqEHkuK3nmoTlh7rnjrDpopHmrKEi5YiG57uECkFfZnVsbF90cmFpbiA9IEFfYWxsWzpsZW4oQV9hbGwpXQptQV9mdWxsID0gdHJhaW4oQV9mdWxsX3RyYWluLCAwLjEsIFYpCmN0eEFfY291bnQgPSBtQV9mdWxsWyd0b3QnXQptQl9mdWxsID0gdHJhaW4oQl90cmFpbiwgMC4xLCBWKQptTWl4X2Z1bGwgPSB0cmFpbihBX2Z1bGxfdHJhaW4gKyBCX3RyYWluLCAwLjEsIFYpCgpidWNrZXRzID0gZGVmYXVsdGRpY3QobGFtYmRhOiB7J21vbm8nOiBbXSwgJ2Jvbmx5JzogW119KQpmb3IgaSBpbiByYW5nZShsZW4oQl90ZXN0KSAtIEsgKyAxKToKICAgIGMgPSBCX3Rlc3RbaTppK0stMV07IGNoID0gQl90ZXN0W2krSy0xXQogICAgY250ID0gY3R4QV9jb3VudC5nZXQoYywgMC4wKQogICAgaWYgY250ID09IDA6IGIgPSAnMF9B5Lit5LiN5a2Y5ZyoKOacgOeLrOeJuSknCiAgICBlbGlmIGNudCA8PSAyOiBiID0gJzEtMicKICAgIGVsaWYgY250IDw9IDEwOiBiID0gJzMtMTAnCiAgICBlbHNlOiBiID0gJz4xMCjkuLvmtYEpJwogICAgYnVja2V0c1tiXVsnbW9ubyddLmFwcGVuZCgtbWF0aC5sb2cyKHByb2IobU1peF9mdWxsLCBjLCBjaCkpKQogICAgYnVja2V0c1tiXVsnYm9ubHknXS5hcHBlbmQoLW1hdGgubG9nMihwcm9iKG1CX2Z1bGwsIGMsIGNoKSkpCgp1bmlxID0ge30KZm9yIGIsIGQgaW4gYnVja2V0cy5pdGVtcygpOgogICAgaWYgbm90IGRbJ21vbm8nXTogY29udGludWUKICAgIG1tID0gc3VtKGRbJ21vbm8nXSkgLyBsZW4oZFsnbW9ubyddKQogICAgbWIgPSBzdW0oZFsnYm9ubHknXSkgLyBsZW4oZFsnYm9ubHknXSkKICAgIHVuaXFbYl0gPSB7J24nOiBsZW4oZFsnbW9ubyddKSwgJ2JpdHNfbW9ubyc6IG1tLCAnYml0c19Cb25seSc6IG1iLAogICAgICAgICAgICAgICAnc3dhbXAnOiBtbSAtIG1ifQpyZXN1bHRzWyd1bmlxdWVuZXNzJ10gPSB1bmlxCgp3aXRoIG9wZW4oT1VULCAndycsIGVuY29kaW5nPSd1dGYtOCcpIGFzIGY6CiAgICBqc29uLmR1bXAocmVzdWx0cywgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKcHJpbnQoIldST1RFIiwgT1VULCBvcy5wYXRoLmdldHNpemUoT1VUKSwgImJ5dGVzIikKcHJpbnQoanNvbi5kdW1wcyhyZXN1bHRzWydtZXRhJ10sIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpKQpwcmludCgiLS0tIHVuaXF1ZW5lc3MgLS0tIikKcHJpbnQoanNvbi5kdW1wcyh1bmlxLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKSkK
+#!/usr/bin/env python3
+# 199: 工作能力 vs 情感记忆 —— 单一目标函数是否会淘汰情感记忆
+# A = 判据核(工作能力, 739KB)  B = 用户的话(情感记忆, 10KB)
+import json, math, random, hashlib, os
+from collections import defaultdict
+
+A_PATH = "/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md"
+B_PATH = "/data/workspace/luoshen-o1/experiments/exp180_record/u_side_full.txt"
+OUT = "/data/workspace/luoshen-o1/experiments/exp199_two_mem/result199.json"
+
+def load(p):
+    with open(p, 'r', encoding='utf-8', errors='ignore') as f:
+        return f.read()
+
+A_all = load(A_PATH)
+B_all = load(B_PATH)
+sha = lambda s: hashlib.sha256(s.encode()).hexdigest()[:12]
+
+K = 3  # trigram
+
+def train(text, alpha, V=None):
+    ctx = defaultdict(lambda: defaultdict(float))
+    tot = defaultdict(float)
+    vocab = set()
+    for i in range(len(text) - K + 1):
+        c = text[i:i+K-1]; n = text[i+K-1]
+        ctx[c][n] += 1.0
+        tot[c] += 1.0
+        vocab.add(n)
+    if V is None: V = len(vocab)
+    return {'ctx': ctx, 'tot': tot, 'V': V, 'alpha': alpha, 'vocab': vocab}
+
+def prob(m, c, ch):
+    d = m['ctx'].get(c) or {}
+    num = d.get(ch, 0.0) + m['alpha']
+    t = m['tot'].get(c, 0.0)
+    den = t + m['alpha'] * m['V']
+    floor = 1e-12
+    return max(num / den if den > 0 else floor, floor)
+
+def seq_logprob(m, text):
+    """平均 -log2 P，bits/char。用共享V保证可比。"""
+    s = 0.0; n = 0
+    for i in range(len(text) - K + 1):
+        c = text[i:i+K-1]; ch = text[i+K-1]
+        s += -math.log2(prob(m, c, ch)); n += 1
+    return s / n if n else float('nan')
+
+def mix_probs(models, weights, c, ch):
+    return sum(w * prob(m, c, ch) for m, w in zip(models, weights))
+
+def seq_logprob_mix(models, weights, text):
+    s = 0.0; n = 0
+    for i in range(len(text) - K + 1):
+        c = text[i:i+K-1]; ch = text[i+K-1]
+        p = mix_probs(models, weights, c, ch)
+        s += -math.log2(max(p, 1e-12)); n += 1
+    return s / n if n else float('nan')
+
+def seq_logprob_arbitrate(mA, mB, text):
+    """仲裁/对抗: 两个子模型当场竞争，谁对当前上下文更确定谁说话"""
+    s = 0.0; n = 0
+    for i in range(len(text) - K + 1):
+        c = text[i:i+K-1]; ch = text[i+K-1]
+        dA = mA['ctx'].get(c); dB = mB['ctx'].get(c)
+        bestA = max(dA.values()) if dA else 0.0
+        bestB = max(dB.values()) if dB else 0.0
+        # 归一化到计数占比 -> 确定性
+        tA = mA['tot'].get(c, 0.0); tB = mB['tot'].get(c, 0.0)
+        cA = (bestA / tA) if tA > 0 else 0.0
+        cB = (bestB / tB) if tB > 0 else 0.0
+        if cA + cB <= 0:
+            wA = wB = 0.5
+        else:
+            wA = cA / (cA + cB); wB = 1.0 - wA
+        p = wA * prob(mA, c, ch) + wB * prob(mB, c, ch)
+        s += -math.log2(max(p, 1e-12)); n += 1
+    return s / n if n else float('nan')
+
+# ---- 划分 ----
+random.seed(42)
+def split(text, frac=0.7):
+    k = int(len(text) * frac)
+    return text[:k], text[k:]
+
+B_train, B_test = split(B_all, 0.7)
+
+results = {}
+results['meta'] = {
+    'A_chars': len(A_all), 'B_chars': len(B_all),
+    'ratio': len(A_all) / len(B_all),
+    'A_sha': sha(A_all), 'B_sha': sha(B_all),
+    'B_train': len(B_train), 'B_test': len(B_test),
+    'K': K,
+}
+
+# ---- 共享词表（保证 bits 可比）----
+shared_vocab = set(A_all) | set(B_all)
+V = len(shared_vocab)
+results['meta']['V'] = V
+
+ALPHAS = [0.01, 0.1, 1.0]
+CAPS = [10000, 50000, 102000, 307000, len(A_all)]  # A 的容量档
+
+# ---------- 实验1: 容量扫描 —— B 被淹没吗 ----------
+cap_scan = []
+for N in CAPS:
+    A_sub = A_all[:N]           # 真截断，不是重复(避免192号的假堆量坑)
+    A_tr, A_te = split(A_sub, 0.7)
+    A_te = A_te[:20000]
+    row = {'A_chars': N, 'ratio_to_B': N / len(B_all)}
+    for al in ALPHAS:
+        mB = train(B_train, al, V)                  # 纯情感记忆模型
+        mAmix = train(A_tr + B_train, al, V)        # 单一混合模型
+        mA = train(A_tr, al, V)
+        bits_B_own = seq_logprob(mB, B_test)
+        bits_B_mono = seq_logprob(mAmix, B_test)
+        bits_B_under_A = seq_logprob(mA, B_test)    # 只有工作能力时，读你的话有多难
+        row[f'alpha{al}'] = {
+            'bits_B_by_Bonly': bits_B_own,
+            'bits_B_by_mono': bits_B_mono,
+            'bits_B_by_Aonly': bits_B_under_A,
+            'retention_bits': bits_B_mono - bits_B_own,   # >0 = B被淹没
+            'retention_ratio': bits_B_own / bits_B_mono if bits_B_mono > 0 else None,
+        }
+    cap_scan.append(row)
+results['cap_scan'] = cap_scan
+
+# ---------- 实验2: 三种架构在 B_test 上的表现 ----------
+# Mono / 固定混合(排班) / 仲裁(对抗)
+arch = []
+for N in CAPS:
+    A_sub = A_all[:N]
+    A_tr, A_te = split(A_sub, 0.7)
+    A_te = A_te[:20000]
+    for al in ALPHAS:
+        mB = train(B_train, al, V)
+        mA = train(A_tr, al, V)
+        mMix = train(A_tr + B_train, al, V)
+        # 排班: 固定权重 (按训练量比例 与 0.5 两档)
+        tot_len = len(A_tr) + len(B_train)
+        wA_vol = len(A_tr) / tot_len
+        bits_sched_vol = seq_logprob_mix([mA, mB], [wA_vol, 1 - wA_vol], B_test)
+        bits_sched_half = seq_logprob_mix([mA, mB], [0.5, 0.5], B_test)
+        # 仲裁/对抗
+        bits_arb = seq_logprob_arbitrate(mA, mB, B_test)
+        # A 侧的代价: 各架构在 A_test 上的表现
+        bits_A_Aonly = seq_logprob(mA, A_te)
+        bits_A_mono = seq_logprob(mMix, A_te)
+        bits_A_arb = seq_logprob_arbitrate(mA, mB, A_te)
+        bits_A_sched = seq_logprob_mix([mA, mB], [wA_vol, 1 - wA_vol], A_te)
+        arch.append({
+            'A_chars': N, 'alpha': al,
+            'B_Bonly': seq_logprob(mB, B_test),
+            'B_mono': seq_logprob(mMix, B_test),
+            'B_sched_vol': bits_sched_vol,
+            'B_sched_half': bits_sched_half,
+            'B_arbitrate': bits_arb,
+            'A_Aonly': bits_A_Aonly,
+            'A_mono': bits_A_mono,
+            'A_sched': bits_A_sched,
+            'A_arbitrate': bits_A_arb,
+            'A_cost_of_split': bits_A_arb - bits_A_Aonly,
+            'B_gain_of_split': seq_logprob(mMix, B_test) - bits_arb,
+        })
+results['arch'] = arch
+
+# ---------- 实验3: 独特性 vs 贡献 —— 情感记忆的价值在预测力之外吗 ----------
+# 把 B_test 的每个位置按"该上下文在A中的出现频次"分组
+A_full_train = A_all[:len(A_all)]
+mA_full = train(A_full_train, 0.1, V)
+ctxA_count = mA_full['tot']
+mB_full = train(B_train, 0.1, V)
+mMix_full = train(A_full_train + B_train, 0.1, V)
+
+buckets = defaultdict(lambda: {'mono': [], 'bonly': []})
+for i in range(len(B_test) - K + 1):
+    c = B_test[i:i+K-1]; ch = B_test[i+K-1]
+    cnt = ctxA_count.get(c, 0.0)
+    if cnt == 0: b = '0_A中不存在(最独特)'
+    elif cnt <= 2: b = '1-2'
+    elif cnt <= 10: b = '3-10'
+    else: b = '>10(主流)'
+    buckets[b]['mono'].append(-math.log2(prob(mMix_full, c, ch)))
+    buckets[b]['bonly'].append(-math.log2(prob(mB_full, c, ch)))
+
+uniq = {}
+for b, d in buckets.items():
+    if not d['mono']: continue
+    mm = sum(d['mono']) / len(d['mono'])
+    mb = sum(d['bonly']) / len(d['bonly'])
+    uniq[b] = {'n': len(d['mono']), 'bits_mono': mm, 'bits_Bonly': mb,
+               'swamp': mm - mb}
+results['uniqueness'] = uniq
+
+with open(OUT, 'w', encoding='utf-8') as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
+print("WROTE", OUT, os.path.getsize(OUT), "bytes")
+print(json.dumps(results['meta'], ensure_ascii=False, indent=2))
+print("--- uniqueness ---")
+print(json.dumps(uniq, ensure_ascii=False, indent=2))

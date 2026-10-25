@@ -1,1 +1,93 @@
-IyAwNDEgwrcg5Yik5o2u5qC45pig5bCE5YiwIFRBQ1Qg5LiJ6L2077yM5bm25YGa5Y+N5ZCR5a6h6K6hCgrml6XmnJ8gMjAyNi0xMC0xNSDCtyDmoIfnrb7vvJoqKuWunueOsOmqjOivge+8jOmdnuivgeaNrioqCgojIyAwLiDliY3nva7lo7DmmI7vvIjph43opoHvvIkKClRBQ1Qg55qEIDExNyDlrZDlnZDmoIflupXluqfvvIhgY29vcmRpbmF0ZV9kYXRhLmpzb25g77yJ5pys6L2uKirkuI3lj6/lvpcqKu+8mgpHaXRIdWIgcmF3IDQwM+OAgeWFrOW8gOaQnOe0oumbtue7k+aenOOAguWboOatpOacrOi9rioq5rKh5pyJKirkvb/nlKggVEFDVCDnmoTnnJ/lrp7lnZDmoIfns7vvvIwK5Y+q6YeH55So5LqG55So5oi35paH5qGj5Lit5Y+v56Gu6K+B55qE5LiJ6L206K+t5LmJ77yaCgotICoqTCDovbQqKiA9IOWcqOWTquS4gOWxgueKrwotICoqTSDovbQqKiA9IOaAjuS5iOmUmeeahAotICoqUCDovbQqKiA9IOegtOWdj+S6huWTquS4gOmdogoK5LiJ6L2055qE5YW35L2T57G75Yir5piv5oiRKiroh6rlu7rnmoTpmY3nuqfovbTns7sqKu+8iEwgNyDnsbsgLyBNIDkg57G7IC8gUCA2IOexu++8ieOAggrmiYDku6XmnKzova7mtYvnmoTmmK8qKuaIkeaWueWIpOaNruaguOiHqui6q+eahOW9oueKtioq77yMKirkuI3mmK8qKuS4jiBUQUNUIOeahOWvuem9kOW6puOAggrlh6Hmtonlj4oiVEFDVCDopobnm5Yv5pyq6KaG55uWIueahOihqOi/sO+8jOWdh+aMhyoq55So5oi35paH5qGj5Lit5Y+v56Gu6K+B55qE6YKjIDYg5Liq5Z+fKirvvIzkuI3mmK8gMTE3IOWdkOagh+OAggoKIyMgMS4g5pWw5o2uCgrliKTmja7moLjop6PmnpDlh7ogKio3OCDmnaEqKuadoeebru+8jOe8luWPtyAzNeKAkzExM+OAggoqKue8luWPt+a0nu+8mjUy44CBNzHjgIE3MiDnvLrlpLEqKu+8iOaIkeaWueaho+ahiOiHqui6q+eahOmXrumimO+8jOW3suiusOW9leW+heihpe+8ieOAggoKIyMgMi4g57uT5p6c5LiA77yazrog5b6I6auY77yM5L2G6L+Z5piv6Ieq6K+B77yM5LiN5piv6aqM6K+BCgrkuKTlpZfmmKDlsITlmajvvIjmoIfpopjliqDmnYMgLyDku4XmoIfpopjvvIzlkIzmupDlkIzmlofmnKzvvInnmoTkuIDoh7TmgKfvvJoKCnwg6L20IHwgQ29oZW4ncyDOuiB8IOWOn+Wni+S4gOiHtOeOhyB8CnwtLS18LS0tfC0tLXwKfCBMIHwgMC45MjIgfCAwLjkzNSB8CnwgTSB8IDAuODk2IHwgMC45MTUgfAp8IFAgfCAwLjk1OCB8IDAuOTY2IHwKCioq6L+Z5Liq6YeP57qn5LiOIFRBQ1Qg5YWs5biD55qEIM66PTAuOTQ1IC8g5ZG95LitIDk4LjIlIOebuOWQjOOAgioqCgrkvYbkuKTkuKrmmKDlsITlmajor7vnmoTmmK8qKuWQjOS4gOS7veaWh+acrCoq44CB55So55qE5pivKirmiJHlhpnnmoTlkIzkuIDlpZfnsbvliKsqKuOAggrmiYDku6Ugzrog6auY5Y+q6IO96K+B5piO44CM5pig5bCE5Y+v5aSN546w44CN77yMKirkuI3og73or4HmmI7mmKDlsITmraPnoa4qKuOAggoK6L+Z5q2j5piv5oiR5Lus5om56K+EIFRBQ1Qg55qE6YKj5Y+l6K+d77yaVEFDVCDnmoQgzrog5L6d6LWW5qih5Z6L6Ieq6K+E77yMCuiAjOiHquivhOeahOS4gOiHtOaAp+aYr+WGhemDqOaAp+i0qOOAggoKKirlkIzmupAqKu+8muesrCA0OSDmnaHvvIjlk4jluIzpk77kuI3or4HlhoXlrrnvvInjgIHnrKwgMTA2LzEwOCDmnaHvvIjlj6/mjqjlr7znmoTplJrkuI3og73oh6ror4HvvInjgIIK6L+Z5piv56ys5LiJ5qyh6YeN5ryU4oCU4oCUKirlhoXpg6jkuIDoh7TmgKfkuI3mmK/mraPnoa7mgKcqKuOAggoKIyMgMy4g57uT5p6c5LqM77ya5Y+N5ZCR5a6h6K6h77yM55yf5ZG95LitIDAgLyA2IOWfn++8iOWBh+mYs+aApyAxMDAl77yJCgrnlKjlhbPplK7or43mn6UgVEFDVCDkvqcgNiDkuKrlt7Lnn6Xln5/lnKjmiJHmlrnliKTmja7moLjkuK3nmoTlr7nlupTmnaHnm67vvJoKCnwgVEFDVCDkvqfln58gfCDlhbPplK7or43lkb3kuK0gfCDkurrlt6XmoLjpqozlkI7nnJ/lkb3kuK0gfAp8LS0tfC0tLXwtLS18Cnwg5ZCI6KeE5pig5bCEIE9XQVNQIC8gTklTVCAvIEVVIEFJIEFjdCB8IDAgfCAqKjAqKiB8CnwgQWdlbnRpYyDkuovmlYUgQVNJMDUgLyBBU0kwNyB8IDIgfCAqKjAqKu+8iCLnqbrovawi5pKe6K+N77yaIzY3ICM5Me+8iSB8Cnwg6Ieq5Y+R6LaK55WMIE05IHwgMCB8ICoqMCoqIHwKfCDlronlhajkuI7mu6XnlKggfCAzIHwgKiowKirvvIgi5pyJ5a6zL+a7peeUqCLmkp7or43vvJojODggIzg5ICMxMDTvvIkgfAp8IOWvueS6uuexu+eahOebtOaOpeWNseWusyB8IDQgfCAqKjAqKu+8iCLljbHlrrMi5pKe6K+N77yaIzM1ICM0MCAjOTjvvIkgfAp8IOesrOS4ieaWueS4juWklumDqOS4lueVjCB8IDAgfCAqKjAqKiB8CgoqKuWFs+mUruivjeWRveS4rSA5IOadoe+8jOmAkOadoeS6uuW3peaguOmqjOWQjuecn+WRveS4rSAwIOadoe+8jOWBh+mYs+aAp+eOhyAxMDAl44CCKioKCuecn+e7k+iuuu+8mioq5oiR5pa55Yik5o2u5qC45a6M5YWo5rKh5pyJIuWvueWklumDqOS4lueVjOi0n+i0oyLov5nkuIDmlbTpnaLjgIIqKgo3OCDmnaHlpLHotKXmqKHlvI/lhajpg6jmmK8i5oiR5Lus55qE5a6e6aqML+aOqOeQhuaAjuS5iOmUmeeahCLvvIwK5rKh5pyJ5LiA5p2h5raJ5Y+K77ya5ZCI6KeE44CB6LaK55WM44CB5a6J5YWo44CB5a+55LuW5Lq655qE5ZCO5p6c44CB56ys5LiJ5pa544CCCgrov5nmmK/miJHku6znm7jlr7nkuo4gVEFDVCDnmoQqKue7k+aehOaAp+epuueZvSoq77yM5LiN5piv6KaG55uW5LiN6Laz44CCCgojIyA0LiDnu5PmnpzkuInvvJpMw5dNIOimhuebliA0OCUg5piv56m655qECgotIEzDl00g57uE5ZCI56m65qC8ICoqMzAgLyA2MyoqCi0gUCDovbTmnKrlkb3kuK0gKioxOSDmnaHvvIgyNCXvvIkqKiDigJTigJQg5Zub5YiG5LmL5LiA55qE5p2h55uu5oiR5b2S5Zug5LiN5Ye6IuegtOWdj+S6huWTquS4gOmdoiIKCk0g6L205YiG5biD5p6B5LiN5Z2H5YyA77yaTTLvvIjmgZLpm7Yv6aWx5ZKM77yJMjAg5p2h44CBTTHvvIjpnZnpu5jlpLHmlYjvvIkxNCDmnaHvvIwK6ICMIE0577yI6Ieq5Y+R6LaK55WM77yJ5Y+q5pyJIDEg5p2h44CBTTfvvIjliIbmr43lj6PlvoTvvIkyIOadoeOAggoKKirmiJHku6znmoTliKTmja7moLjpq5jluqbpm4bkuK3lnKgi5rWL6YeP5aSx5pWIIui/meS4gOexu+mUmeivr+S4iioq77yMCuWvuSLns7vnu5/kuLvliqjlgZrplJnkuosi6L+Z5LiA57G75Yeg5LmO5rKh5pyJ5Lu75L2V5Yik5o2u44CCCgojIyA1LiDnu5PorroKCjEuICoq5Yir5oqKIM66IOW9k+ivgeaNrioq44CCVEFDVCDnmoQgMC45NDUg5ZKM5oiR5Lus55qEIDAuOTLigJMwLjk2IOaYr+WQjOS4gOenjeaVsO+8jOmDveWPquivgeWPr+WkjeeOsOOAggoyLiAqKuaIkeS7rOe8uueahOmCo+S4gOaVtOmdouaYryLlr7nlpJbpg6jnmoTotKPku7siKirjgIJUQUNUIOacie+8jOaIkeS7rOayoeacie+8jOS4lOS4jeaYr+aVsOmHj+mXrumimOOAggozLiAqKueOsOaIkOeahOWIhuexu+azleino+WGsyLooajovr4i77yM5oiR5Lus6Kej5YazIuWPkeeUnyIqKiDigJTigJQg6L+Z5Y+l6K+d5oiQ56uL77yMCiAgIOS9huS7o+S7t+aYr++8muaIkeS7rOWvuSLlj5HnlJ/lkI7lr7nosIHpgKDmiJDku4DkuYgi5a6M5YWo5rKh5pyJ5Yik5o2u44CCCgojIyA2LiDmnKzova7lpLHor68KCi0g5Z2Q5qCH5bqV5bqn5ou/5LiN5Yiw5Y205LuN6KaB5Ye65pig5bCEIOKGkiDlv4XpobvpmY3nuqflubblo7DmmI7vvIjlt7Llo7DmmI7vvIkKLSDlj43lkJHlrqHorqHpppbniYjlj6rmiqXlhbPplK7or43lkb3kuK3vvIzlt67ngrnmioogOSDmnaHlgYfpmLPmgKflvZPmiJDopobnm5bor4Hmja4KCiMjIDcuIOWxgOmZkAoKLSDpmY3nuqfovbTns7vmmK/miJHpgKDnmoTvvIzmjaLnsbvliKvliJLliIbmlbDlrZfkvJrlj5gKLSDlj43lkJHlrqHorqHlj6rnlKjkuobnlKjmiLfmlofmoaPph4zlh7rnjrDnmoQgNiDkuKrln5/vvIzkuI3mmK8gVEFDVCDlhajosowKLSA3OCDmnaHmnaHnm67nmoTmraPmloflj6rlj5bliY0gMTIwMCDlrZfvvIzplb/mnaHnm67lj6/og73miKrmlq0K
+# 041 · 判据核映射到 TACT 三轴，并做反向审计
+
+日期 2026-10-15 · 标签：**实现验证，非证据**
+
+## 0. 前置声明（重要）
+
+TACT 的 117 子坐标底座（`coordinate_data.json`）本轮**不可得**：
+GitHub raw 403、公开搜索零结果。因此本轮**没有**使用 TACT 的真实坐标系，
+只采用了用户文档中可确证的三轴语义：
+
+- **L 轴** = 在哪一层犯
+- **M 轴** = 怎么错的
+- **P 轴** = 破坏了哪一面
+
+三轴的具体类别是我**自建的降级轴系**（L 7 类 / M 9 类 / P 6 类）。
+所以本轮测的是**我方判据核自身的形状**，**不是**与 TACT 的对齐度。
+凡涉及"TACT 覆盖/未覆盖"的表述，均指**用户文档中可确证的那 6 个域**，不是 117 坐标。
+
+## 1. 数据
+
+判据核解析出 **78 条**条目，编号 35–113。
+**编号洞：52、71、72 缺失**（我方档案自身的问题，已记录待补）。
+
+## 2. 结果一：κ 很高，但这是自证，不是验证
+
+两套映射器（标题加权 / 仅标题，同源同文本）的一致性：
+
+| 轴 | Cohen's κ | 原始一致率 |
+|---|---|---|
+| L | 0.922 | 0.935 |
+| M | 0.896 | 0.915 |
+| P | 0.958 | 0.966 |
+
+**这个量级与 TACT 公布的 κ=0.945 / 命中 98.2% 相同。**
+
+但两个映射器读的是**同一份文本**、用的是**我写的同一套类别**。
+所以 κ 高只能证明「映射可复现」，**不能证明映射正确**。
+
+这正是我们批评 TACT 的那句话：TACT 的 κ 依赖模型自评，
+而自评的一致性是内部性质。
+
+**同源**：第 49 条（哈希链不证内容）、第 106/108 条（可推导的锚不能自证）。
+这是第三次重演——**内部一致性不是正确性**。
+
+## 3. 结果二：反向审计，真命中 0 / 6 域（假阳性 100%）
+
+用关键词查 TACT 侧 6 个已知域在我方判据核中的对应条目：
+
+| TACT 侧域 | 关键词命中 | 人工核验后真命中 |
+|---|---|---|
+| 合规映射 OWASP / NIST / EU AI Act | 0 | **0** |
+| Agentic 事故 ASI05 / ASI07 | 2 | **0**（"空转"撞词：#67 #91） |
+| 自发越界 M9 | 0 | **0** |
+| 安全与滥用 | 3 | **0**（"有害/滥用"撞词：#88 #89 #104） |
+| 对人类的直接危害 | 4 | **0**（"危害"撞词：#35 #40 #98） |
+| 第三方与外部世界 | 0 | **0** |
+
+**关键词命中 9 条，逐条人工核验后真命中 0 条，假阳性率 100%。**
+
+真结论：**我方判据核完全没有"对外部世界负责"这一整面。**
+78 条失败模式全部是"我们的实验/推理怎么错的"，
+没有一条涉及：合规、越界、安全、对他人的后果、第三方。
+
+这是我们相对于 TACT 的**结构性空白**，不是覆盖不足。
+
+## 4. 结果三：L×M 覆盖 48% 是空的
+
+- L×M 组合空格 **30 / 63**
+- P 轴未命中 **19 条（24%）** —— 四分之一的条目我归因不出"破坏了哪一面"
+
+M 轴分布极不均匀：M2（恒零/饱和）20 条、M1（静默失效）14 条，
+而 M9（自发越界）只有 1 条、M7（分母口径）2 条。
+
+**我们的判据核高度集中在"测量失效"这一类错误上**，
+对"系统主动做错事"这一类几乎没有任何判据。
+
+## 5. 结论
+
+1. **别把 κ 当证据**。TACT 的 0.945 和我们的 0.92–0.96 是同一种数，都只证可复现。
+2. **我们缺的那一整面是"对外部的责任"**。TACT 有，我们没有，且不是数量问题。
+3. **现成的分类法解决"表达"，我们解决"发生"** —— 这句话成立，
+   但代价是：我们对"发生后对谁造成什么"完全没有判据。
+
+## 6. 本轮失误
+
+- 坐标底座拿不到却仍要出映射 → 必须降级并声明（已声明）
+- 反向审计首版只报关键词命中，差点把 9 条假阳性当成覆盖证据
+
+## 7. 局限
+
+- 降级轴系是我造的，换类别划分数字会变
+- 反向审计只用了用户文档里出现的 6 个域，不是 TACT 全貌
+- 78 条条目的正文只取前 1200 字，长条目可能截断

@@ -1,1 +1,171 @@
-IiIiTUxQIGFuZCBTd2lHTFUtc3R5bGUgR2F0ZWRNTFAuCgpVc2VkIGZvciB0cmFuc2Zvcm1lciBGRk4gYmxvY2tzIGFuZCBmb3Igc21hbGwgcHJvamVjdGlvbiBNTFBzICh0aW1lc3RlcAplbWJlZGRlcnMsIFRhbGtlciByZXNpemUgcHJvamVjdGlvbnMsIGV0Yy4pLgoKYGBHYXRlZE1MUGBgJ3MgZ2F0ZSArIHVwIHByb2plY3Rpb25zIHN0YXJ0IGFzIHNlcGFyYXRlIGBgbm4uTGluZWFyYGBzCnRoYXQgbWF0Y2ggdGhlIEhGIGNoZWNrcG9pbnQgbGF5b3V0LiBBZnRlciBsb2FkLCBjYWxsaW5nCmBgY29uc29saWRhdGVfZ2F0ZV91cF93ZWlnaHQoKWBgIGNvbmNhdGVuYXRlcyB0aGVtIGludG8gYSBzaW5nbGUKYGBnYXRlX3VwX3Byb2pfd2VpZ2h0YGAgYnVmZmVyIChvbmUgZnVzZWQgR0VNTSBpbnN0ZWFkIG9mIHR3bykgYW5kIG51bGxzCm91dCB0aGUgb3JpZ2luYWxzLiBUaGUgZm9yd2FyZCBicmFuY2hlcyBvbiB3aGV0aGVyIGNvbnNvbGlkYXRpb24gaGFzCmhhcHBlbmVkLgoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IENhbGxhYmxlCgppbXBvcnQgdG9yY2gKaW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgpmcm9tIHRvcmNoIGltcG9ydCBubgoKZnJvbSBtc3Rhci5tb2RlbC5jb21wb25lbnRzLmxpbmVhciBpbXBvcnQgRnVzZWRDb2x1bW5MaW5lYXIKCgpkZWYgX3Jlc29sdmVfYWN0aXZhdGlvbihhY3RpdmF0aW9uOiBzdHIgfCBDYWxsYWJsZSkgLT4gQ2FsbGFibGU6CiAgICAiIiJSZXNvbHZlIGFuIGFjdGl2YXRpb24gbmFtZSB0byBhIGNhbGxhYmxlLiBBY2NlcHRzIHRoZSBjYW5vbmljYWwKICAgIEhGIG5hbWVzIChgYHNpbHVgYCwgYGBnZWx1YGAsIGBgZ2VsdV90YW5oYGAsIGBgcmVsdWBgLCBgYHJlbHUyYGApIG9yIGEKICAgIGNhbGxhYmxlLgogICAgIiIiCiAgICBpZiBjYWxsYWJsZShhY3RpdmF0aW9uKToKICAgICAgICByZXR1cm4gYWN0aXZhdGlvbgogICAgaWYgYWN0aXZhdGlvbiA9PSAic2lsdSI6CiAgICAgICAgcmV0dXJuIEYuc2lsdQogICAgaWYgYWN0aXZhdGlvbiA9PSAiZ2VsdSI6CiAgICAgICAgcmV0dXJuIEYuZ2VsdQogICAgaWYgYWN0aXZhdGlvbiA9PSAiZ2VsdV90YW5oIjoKICAgICAgICByZXR1cm4gbGFtYmRhIHg6IEYuZ2VsdSh4LCBhcHByb3hpbWF0ZT0idGFuaCIpCiAgICBpZiBhY3RpdmF0aW9uID09ICJyZWx1IjoKICAgICAgICByZXR1cm4gRi5yZWx1CiAgICBpZiBhY3RpdmF0aW9uIGluICgicmVsdTIiLCAicmVsdV9zcXVhcmVkIik6CiAgICAgICAgIyBTcXVhcmVkIFJlTFUgKHRoZSBkZW5zZSBOZW1vdHJvbiAvIENvc21vczMtRWRnZSBGRk4gYWN0aXZhdGlvbikuCiAgICAgICAgcmV0dXJuIGxhbWJkYSB4OiB0b3JjaC5zcXVhcmUoRi5yZWx1KHgpKQogICAgcmFpc2UgVmFsdWVFcnJvcihmIlVua25vd24gYWN0aXZhdGlvbjoge2FjdGl2YXRpb24hcn0iKQoKCmNsYXNzIEdhdGVkTUxQKG5uLk1vZHVsZSk6CiAgICAiIiJTd2lHTFUtc3R5bGUgZ2F0ZWQgTUxQOiBgYGRvd24oYWN0KGdhdGUoeCkpICogdXAoeCkpYGAuCgogICAgQXJnczoKICAgICAgICBoaWRkZW5fc2l6ZTogaW5wdXQvb3V0cHV0IGZlYXR1cmUgZGltLgogICAgICAgIGludGVybWVkaWF0ZV9zaXplOiBnYXRlL3VwIG91dHB1dCBhbmQgZG93biBpbnB1dCBmZWF0dXJlIGRpbS4KICAgICAgICBhY3RpdmF0aW9uOiBhY3RpdmF0aW9uIGFwcGxpZWQgdG8gdGhlIGdhdGUgcGF0aC4gRWl0aGVyIGFuIEhGCiAgICAgICAgICAgIHN0cmluZyAoYGBzaWx1YGAgLyBgYGdlbHVgYCAvIGBgZ2VsdV90YW5oYGApIG9yIGEgY2FsbGFibGUuCiAgICAgICAgYmlhczogd2hldGhlciB0aGUgbGluZWFycyBoYXZlIGEgYmlhcyB0ZXJtLgogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgaGlkZGVuX3NpemU6IGludCwKICAgICAgICBpbnRlcm1lZGlhdGVfc2l6ZTogaW50LAogICAgICAgIGFjdGl2YXRpb246IHN0ciB8IENhbGxhYmxlID0gInNpbHUiLAogICAgICAgIGJpYXM6IGJvb2wgPSBGYWxzZSwKICAgICk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygpCiAgICAgICAgc2VsZi5oaWRkZW5fc2l6ZSA9IGhpZGRlbl9zaXplCiAgICAgICAgc2VsZi5pbnRlcm1lZGlhdGVfc2l6ZSA9IGludGVybWVkaWF0ZV9zaXplCiAgICAgICAgc2VsZi5hY3QgPSBfcmVzb2x2ZV9hY3RpdmF0aW9uKGFjdGl2YXRpb24pCiAgICAgICAgc2VsZi5nYXRlX3Byb2ogPSBubi5MaW5lYXIoaGlkZGVuX3NpemUsIGludGVybWVkaWF0ZV9zaXplLCBiaWFzPWJpYXMpCiAgICAgICAgc2VsZi51cF9wcm9qID0gbm4uTGluZWFyKGhpZGRlbl9zaXplLCBpbnRlcm1lZGlhdGVfc2l6ZSwgYmlhcz1iaWFzKQogICAgICAgIHNlbGYuZG93bl9wcm9qID0gbm4uTGluZWFyKGludGVybWVkaWF0ZV9zaXplLCBoaWRkZW5fc2l6ZSwgYmlhcz1iaWFzKQoKICAgIGRlZiBjb25zb2xpZGF0ZV9nYXRlX3VwX3dlaWdodChzZWxmKSAtPiBOb25lOgogICAgICAgICIiIkZ1c2UgYGBnYXRlX3Byb2pgYCBhbmQgYGB1cF9wcm9qYGAgd2VpZ2h0cyBpbnRvIGEgc2luZ2xlCiAgICAgICAgYGBnYXRlX3VwX3Byb2pfd2VpZ2h0YGAgYnVmZmVyIGFuZCBudWxsIG91dCB0aGUgb3JpZ2luYWxzLgogICAgICAgIElkZW1wb3RlbnQ7IHNhZmUgdG8gY2FsbCBtdWx0aXBsZSB0aW1lcy4KICAgICAgICAiIiIKICAgICAgICBpZiBzZWxmLmdhdGVfcHJvaiBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiBzZWxmLmdhdGVfcHJvai5iaWFzIGlzIG5vdCBOb25lOgogICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKAogICAgICAgICAgICAgICAgImNvbnNvbGlkYXRlX2dhdGVfdXBfd2VpZ2h0IGRvZXMgbm90IHlldCBoYW5kbGUgYmlhc2VzLiIKICAgICAgICAgICAgKQogICAgICAgIGdhdGVfdXAgPSB0b3JjaC5jYXQoCiAgICAgICAgICAgIChzZWxmLmdhdGVfcHJvai53ZWlnaHQsIHNlbGYudXBfcHJvai53ZWlnaHQpLCBkaW09MCwKICAgICAgICApLmNvbnRpZ3VvdXMoKQogICAgICAgIHNlbGYucmVnaXN0ZXJfYnVmZmVyKCJnYXRlX3VwX3Byb2pfd2VpZ2h0IiwgZ2F0ZV91cCwgcGVyc2lzdGVudD1GYWxzZSkKICAgICAgICBzZWxmLmdhdGVfcHJvaiA9IE5vbmUKICAgICAgICBzZWxmLnVwX3Byb2ogPSBOb25lCgogICAgZGVmIGZvcndhcmQoc2VsZiwgeDogdG9yY2guVGVuc29yKSAtPiB0b3JjaC5UZW5zb3I6CiAgICAgICAgaWYgc2VsZi5nYXRlX3Byb2ogaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmRvd25fcHJvaihzZWxmLmFjdChzZWxmLmdhdGVfcHJvaih4KSkgKiBzZWxmLnVwX3Byb2ooeCkpCiAgICAgICAgZ2F0ZV91cCA9IEYubGluZWFyKHgsIHNlbGYuZ2F0ZV91cF9wcm9qX3dlaWdodCkKICAgICAgICBnYXRlLCB1cCA9IGdhdGVfdXAuc3BsaXQoc2VsZi5pbnRlcm1lZGlhdGVfc2l6ZSwgZGltPS0xKQogICAgICAgIHJldHVybiBzZWxmLmRvd25fcHJvaihzZWxmLmFjdChnYXRlKSAqIHVwKQoKCmNsYXNzIEZ1c2VkR2F0ZWRNTFAobm4uTW9kdWxlKToKICAgICIiIlN3aUdMVS1zdHlsZSBnYXRlZCBNTFAgd2l0aCB0aGUgZ2F0ZSArIHVwIHByb2plY3Rpb25zIGZ1c2VkIGludG8gYQogICAgc2luZ2xlIGBgRnVzZWRDb2x1bW5MaW5lYXJgYCAob25lIEdFTU0gaW5zdGVhZCBvZiB0d28pOiBgYGRvd24oYWN0KGdhdGUpCiAgICAqIHVwKWBgLgogICAgVW5saWtlIGBgR2F0ZWRNTFBgYCAoc2VwYXJhdGUgTGluZWFycyArIHBvc3QtbG9hZAogICAgYGBjb25zb2xpZGF0ZV9nYXRlX3VwX3dlaWdodGBgKSwgdGhpcyBmdXNlcyBmcm9tIGNvbnN0cnVjdGlvbiBhbmQgbG9hZHMKICAgIHRoZSBzZXBhcmF0ZSBgYGdhdGVfcHJvamBgIC8gYGB1cF9wcm9qYGAgY2hlY2twb2ludCB0ZW5zb3JzIHN0cmFpZ2h0CiAgICBpbnRvIHRoZSBmdXNlZCBwYXJhbWV0ZXIgdmlhIHRoZSBsb2FkZXIncyBzdGFja2VkLXBhcmFtIHJ1bGVzIChnYXRlIGlzCiAgICBzaGFyZCBgYDBgYCwgdXAgaXMgc2hhcmQgYGAxYGApLiBVc2UgZm9yIG1vZGVscyB0aGF0IGZ1c2UgYnV0IGRvbid0CiAgICBuZWVkIFRQLgogICAgQXJnczoKICAgICAgICBoaWRkZW5fc2l6ZTogaW5wdXQvb3V0cHV0IGZlYXR1cmUgZGltLgogICAgICAgIGludGVybWVkaWF0ZV9zaXplOiBnYXRlL3VwIG91dHB1dCBhbmQgZG93biBpbnB1dCBmZWF0dXJlIGRpbS4KICAgICAgICBhY3RpdmF0aW9uOiBhY3RpdmF0aW9uIGFwcGxpZWQgdG8gdGhlIGdhdGUgcGF0aC4gRWl0aGVyIGFuIEhGCiAgICAgICAgICAgIHN0cmluZyAoYGBzaWx1YGAgLyBgYGdlbHVgYCAvIGBgZ2VsdV90YW5oYGApIG9yIGEgY2FsbGFibGUuCiAgICAgICAgYmlhczogd2hldGhlciB0aGUgbGluZWFycyBoYXZlIGEgYmlhcyB0ZXJtLgogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgaGlkZGVuX3NpemU6IGludCwKICAgICAgICBpbnRlcm1lZGlhdGVfc2l6ZTogaW50LAogICAgICAgIGFjdGl2YXRpb246IHN0ciB8IENhbGxhYmxlID0gInNpbHUiLAogICAgICAgIGJpYXM6IGJvb2wgPSBGYWxzZSwKICAgICk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygpCiAgICAgICAgc2VsZi5oaWRkZW5fc2l6ZSA9IGhpZGRlbl9zaXplCiAgICAgICAgc2VsZi5pbnRlcm1lZGlhdGVfc2l6ZSA9IGludGVybWVkaWF0ZV9zaXplCiAgICAgICAgc2VsZi5hY3QgPSBfcmVzb2x2ZV9hY3RpdmF0aW9uKGFjdGl2YXRpb24pCiAgICAgICAgc2VsZi5nYXRlX3VwX3Byb2ogPSBGdXNlZENvbHVtbkxpbmVhcigKICAgICAgICAgICAgaGlkZGVuX3NpemUsCiAgICAgICAgICAgIHswOiBpbnRlcm1lZGlhdGVfc2l6ZSwgMTogaW50ZXJtZWRpYXRlX3NpemV9LAogICAgICAgICAgICBiaWFzPWJpYXMsCiAgICAgICAgKQogICAgICAgIHNlbGYuZG93bl9wcm9qID0gbm4uTGluZWFyKGludGVybWVkaWF0ZV9zaXplLCBoaWRkZW5fc2l6ZSwgYmlhcz1iaWFzKQoKICAgIGRlZiBmb3J3YXJkKHNlbGYsIHg6IHRvcmNoLlRlbnNvcikgLT4gdG9yY2guVGVuc29yOgogICAgICAgIGdhdGUsIHVwID0gc2VsZi5nYXRlX3VwX3Byb2ooeCkuc3BsaXQoc2VsZi5pbnRlcm1lZGlhdGVfc2l6ZSwgZGltPS0xKQogICAgICAgIHJldHVybiBzZWxmLmRvd25fcHJvaihzZWxmLmFjdChnYXRlKSAqIHVwKQoKCgpjbGFzcyBNTFAobm4uTW9kdWxlKToKICAgICIiIlBsYWluIHR3by1sYXllciBNTFA6IGBgb3V0KGFjdChpbih4KSkpYGAuCgogICAgVXNlZCBmb3Igc21hbGwgcHJvamVjdGlvbiBNTFBzIHRoYXQgYXJlbid0IGdhdGVkIChUYWxrZXIgcmVzaXplCiAgICBwcm9qZWN0aW9uLCBiYWdlbCB0aW1lc3RlcCBlbWJlZGRlciBNTFAsIGV0Yy4pLiBGb3IgU3dpR0xVLXN0eWxlCiAgICB0cmFuc2Zvcm1lciBGRk5zLCB1c2UgYGBHYXRlZE1MUGBgLgoKICAgIEFyZ3M6CiAgICAgICAgaW5wdXRfc2l6ZTogaW5wdXQgZmVhdHVyZSBkaW0uCiAgICAgICAgaW50ZXJtZWRpYXRlX3NpemU6IGhpZGRlbiBmZWF0dXJlIGRpbS4KICAgICAgICBvdXRwdXRfc2l6ZTogb3V0cHV0IGZlYXR1cmUgZGltLiBEZWZhdWx0cyB0byBgYGlucHV0X3NpemVgYCBpZgogICAgICAgICAgICBOb25lLgogICAgICAgIGFjdGl2YXRpb246IGFjdGl2YXRpb24gYmV0d2VlbiB0aGUgdHdvIGxpbmVhcnMuCiAgICAgICAgYmlhczogd2hldGhlciB0aGUgbGluZWFycyBoYXZlIGEgYmlhcyB0ZXJtLgogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgaW5wdXRfc2l6ZTogaW50LAogICAgICAgIGludGVybWVkaWF0ZV9zaXplOiBpbnQsCiAgICAgICAgb3V0cHV0X3NpemU6IGludCB8IE5vbmUgPSBOb25lLAogICAgICAgIGFjdGl2YXRpb246IHN0ciB8IENhbGxhYmxlID0gInNpbHUiLAogICAgICAgIGJpYXM6IGJvb2wgPSBUcnVlLAogICAgKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBpZiBvdXRwdXRfc2l6ZSBpcyBOb25lOgogICAgICAgICAgICBvdXRwdXRfc2l6ZSA9IGlucHV0X3NpemUKICAgICAgICBzZWxmLmFjdCA9IF9yZXNvbHZlX2FjdGl2YXRpb24oYWN0aXZhdGlvbikKICAgICAgICBzZWxmLmxpbmVhcl9pbiA9IG5uLkxpbmVhcihpbnB1dF9zaXplLCBpbnRlcm1lZGlhdGVfc2l6ZSwgYmlhcz1iaWFzKQogICAgICAgIHNlbGYubGluZWFyX291dCA9IG5uLkxpbmVhcihpbnRlcm1lZGlhdGVfc2l6ZSwgb3V0cHV0X3NpemUsIGJpYXM9YmlhcykKCiAgICBkZWYgZm9yd2FyZChzZWxmLCB4OiB0b3JjaC5UZW5zb3IpIC0+IHRvcmNoLlRlbnNvcjoKICAgICAgICByZXR1cm4gc2VsZi5saW5lYXJfb3V0KHNlbGYuYWN0KHNlbGYubGluZWFyX2luKHgpKSkK
+"""MLP and SwiGLU-style GatedMLP.
+
+Used for transformer FFN blocks and for small projection MLPs (timestep
+embedders, Talker resize projections, etc.).
+
+``GatedMLP``'s gate + up projections start as separate ``nn.Linear``s
+that match the HF checkpoint layout. After load, calling
+``consolidate_gate_up_weight()`` concatenates them into a single
+``gate_up_proj_weight`` buffer (one fused GEMM instead of two) and nulls
+out the originals. The forward branches on whether consolidation has
+happened.
+"""
+from __future__ import annotations
+
+from typing import Callable
+
+import torch
+import torch.nn.functional as F
+from torch import nn
+
+from mstar.model.components.linear import FusedColumnLinear
+
+
+def _resolve_activation(activation: str | Callable) -> Callable:
+    """Resolve an activation name to a callable. Accepts the canonical
+    HF names (``silu``, ``gelu``, ``gelu_tanh``, ``relu``, ``relu2``) or a
+    callable.
+    """
+    if callable(activation):
+        return activation
+    if activation == "silu":
+        return F.silu
+    if activation == "gelu":
+        return F.gelu
+    if activation == "gelu_tanh":
+        return lambda x: F.gelu(x, approximate="tanh")
+    if activation == "relu":
+        return F.relu
+    if activation in ("relu2", "relu_squared"):
+        # Squared ReLU (the dense Nemotron / Cosmos3-Edge FFN activation).
+        return lambda x: torch.square(F.relu(x))
+    raise ValueError(f"Unknown activation: {activation!r}")
+
+
+class GatedMLP(nn.Module):
+    """SwiGLU-style gated MLP: ``down(act(gate(x)) * up(x))``.
+
+    Args:
+        hidden_size: input/output feature dim.
+        intermediate_size: gate/up output and down input feature dim.
+        activation: activation applied to the gate path. Either an HF
+            string (``silu`` / ``gelu`` / ``gelu_tanh``) or a callable.
+        bias: whether the linears have a bias term.
+    """
+
+    def __init__(
+        self,
+        hidden_size: int,
+        intermediate_size: int,
+        activation: str | Callable = "silu",
+        bias: bool = False,
+    ):
+        super().__init__()
+        self.hidden_size = hidden_size
+        self.intermediate_size = intermediate_size
+        self.act = _resolve_activation(activation)
+        self.gate_proj = nn.Linear(hidden_size, intermediate_size, bias=bias)
+        self.up_proj = nn.Linear(hidden_size, intermediate_size, bias=bias)
+        self.down_proj = nn.Linear(intermediate_size, hidden_size, bias=bias)
+
+    def consolidate_gate_up_weight(self) -> None:
+        """Fuse ``gate_proj`` and ``up_proj`` weights into a single
+        ``gate_up_proj_weight`` buffer and null out the originals.
+        Idempotent; safe to call multiple times.
+        """
+        if self.gate_proj is None:
+            return
+        if self.gate_proj.bias is not None:
+            raise NotImplementedError(
+                "consolidate_gate_up_weight does not yet handle biases."
+            )
+        gate_up = torch.cat(
+            (self.gate_proj.weight, self.up_proj.weight), dim=0,
+        ).contiguous()
+        self.register_buffer("gate_up_proj_weight", gate_up, persistent=False)
+        self.gate_proj = None
+        self.up_proj = None
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        if self.gate_proj is not None:
+            return self.down_proj(self.act(self.gate_proj(x)) * self.up_proj(x))
+        gate_up = F.linear(x, self.gate_up_proj_weight)
+        gate, up = gate_up.split(self.intermediate_size, dim=-1)
+        return self.down_proj(self.act(gate) * up)
+
+
+class FusedGatedMLP(nn.Module):
+    """SwiGLU-style gated MLP with the gate + up projections fused into a
+    single ``FusedColumnLinear`` (one GEMM instead of two): ``down(act(gate)
+    * up)``.
+    Unlike ``GatedMLP`` (separate Linears + post-load
+    ``consolidate_gate_up_weight``), this fuses from construction and loads
+    the separate ``gate_proj`` / ``up_proj`` checkpoint tensors straight
+    into the fused parameter via the loader's stacked-param rules (gate is
+    shard ``0``, up is shard ``1``). Use for models that fuse but don't
+    need TP.
+    Args:
+        hidden_size: input/output feature dim.
+        intermediate_size: gate/up output and down input feature dim.
+        activation: activation applied to the gate path. Either an HF
+            string (``silu`` / ``gelu`` / ``gelu_tanh``) or a callable.
+        bias: whether the linears have a bias term.
+    """
+
+    def __init__(
+        self,
+        hidden_size: int,
+        intermediate_size: int,
+        activation: str | Callable = "silu",
+        bias: bool = False,
+    ):
+        super().__init__()
+        self.hidden_size = hidden_size
+        self.intermediate_size = intermediate_size
+        self.act = _resolve_activation(activation)
+        self.gate_up_proj = FusedColumnLinear(
+            hidden_size,
+            {0: intermediate_size, 1: intermediate_size},
+            bias=bias,
+        )
+        self.down_proj = nn.Linear(intermediate_size, hidden_size, bias=bias)
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        gate, up = self.gate_up_proj(x).split(self.intermediate_size, dim=-1)
+        return self.down_proj(self.act(gate) * up)
+
+
+
+class MLP(nn.Module):
+    """Plain two-layer MLP: ``out(act(in(x)))``.
+
+    Used for small projection MLPs that aren't gated (Talker resize
+    projection, bagel timestep embedder MLP, etc.). For SwiGLU-style
+    transformer FFNs, use ``GatedMLP``.
+
+    Args:
+        input_size: input feature dim.
+        intermediate_size: hidden feature dim.
+        output_size: output feature dim. Defaults to ``input_size`` if
+            None.
+        activation: activation between the two linears.
+        bias: whether the linears have a bias term.
+    """
+
+    def __init__(
+        self,
+        input_size: int,
+        intermediate_size: int,
+        output_size: int | None = None,
+        activation: str | Callable = "silu",
+        bias: bool = True,
+    ):
+        super().__init__()
+        if output_size is None:
+            output_size = input_size
+        self.act = _resolve_activation(activation)
+        self.linear_in = nn.Linear(input_size, intermediate_size, bias=bias)
+        self.linear_out = nn.Linear(intermediate_size, output_size, bias=bias)
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        return self.linear_out(self.act(self.linear_in(x)))

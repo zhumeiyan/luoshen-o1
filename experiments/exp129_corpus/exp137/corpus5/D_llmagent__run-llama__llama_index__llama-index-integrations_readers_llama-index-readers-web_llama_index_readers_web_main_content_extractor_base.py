@@ -1,1 +1,49 @@
-ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QKCmltcG9ydCByZXF1ZXN0cwpmcm9tIGxsYW1hX2luZGV4LmNvcmUucmVhZGVycy5iYXNlIGltcG9ydCBCYXNlUmVhZGVyCmZyb20gbGxhbWFfaW5kZXguY29yZS5zY2hlbWEgaW1wb3J0IERvY3VtZW50CgoKY2xhc3MgTWFpbkNvbnRlbnRFeHRyYWN0b3JSZWFkZXIoQmFzZVJlYWRlcik6CiAgICAiIiIKICAgIE1haW5Db250ZW50RXh0cmFjdG9yIHdlYiBwYWdlIHJlYWRlci4KCiAgICBSZWFkcyBwYWdlcyBmcm9tIHRoZSB3ZWIuCgogICAgQXJnczoKICAgICAgICB0ZXh0X2Zvcm1hdCAoc3RyLCBvcHRpb25hbCk6IFRoZSBmb3JtYXQgb2YgdGhlIHRleHQuIERlZmF1bHRzIHRvICJtYXJrZG93biIuCiAgICAgICAgICAgIFJlcXVpcmVzIGBNYWluQ29udGVudEV4dHJhY3RvcmAgcGFja2FnZS4KCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdGV4dF9mb3JtYXQ6IHN0ciA9ICJtYXJrZG93biIpIC0+IE5vbmU6CiAgICAgICAgIiIiSW5pdGlhbGl6ZSB3aXRoIHBhcmFtZXRlcnMuIiIiCiAgICAgICAgc2VsZi50ZXh0X2Zvcm1hdCA9IHRleHRfZm9ybWF0CgogICAgZGVmIGxvYWRfZGF0YShzZWxmLCB1cmxzOiBMaXN0W3N0cl0pIC0+IExpc3RbRG9jdW1lbnRdOgogICAgICAgICIiIgogICAgICAgIExvYWQgZGF0YSBmcm9tIHRoZSBpbnB1dCBkaXJlY3RvcnkuCgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIHVybHMgKExpc3Rbc3RyXSk6IExpc3Qgb2YgVVJMcyB0byBzY3JhcGUuCgogICAgICAgIFJldHVybnM6CiAgICAgICAgICAgIExpc3RbRG9jdW1lbnRdOiBMaXN0IG9mIGRvY3VtZW50cy4KCiAgICAgICAgIiIiCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UodXJscywgbGlzdCk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInVybHMgbXVzdCBiZSBhIGxpc3Qgb2Ygc3RyaW5ncy4iKQoKICAgICAgICBmcm9tIG1haW5fY29udGVudF9leHRyYWN0b3IgaW1wb3J0IE1haW5Db250ZW50RXh0cmFjdG9yCgogICAgICAgIGRvY3VtZW50cyA9IFtdCiAgICAgICAgZm9yIHVybCBpbiB1cmxzOgogICAgICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCh1cmwpLnRleHQKICAgICAgICAgICAgcmVzcG9uc2UgPSBNYWluQ29udGVudEV4dHJhY3Rvci5leHRyYWN0KAogICAgICAgICAgICAgICAgcmVzcG9uc2UsIG91dHB1dF9mb3JtYXQ9c2VsZi50ZXh0X2Zvcm1hdCwgaW5jbHVkZV9saW5rcz1GYWxzZQogICAgICAgICAgICApCgogICAgICAgICAgICBkb2N1bWVudHMuYXBwZW5kKERvY3VtZW50KHRleHQ9cmVzcG9uc2UpKQoKICAgICAgICByZXR1cm4gZG9jdW1lbnRzCg==
+from typing import List
+
+import requests
+from llama_index.core.readers.base import BaseReader
+from llama_index.core.schema import Document
+
+
+class MainContentExtractorReader(BaseReader):
+    """
+    MainContentExtractor web page reader.
+
+    Reads pages from the web.
+
+    Args:
+        text_format (str, optional): The format of the text. Defaults to "markdown".
+            Requires `MainContentExtractor` package.
+
+    """
+
+    def __init__(self, text_format: str = "markdown") -> None:
+        """Initialize with parameters."""
+        self.text_format = text_format
+
+    def load_data(self, urls: List[str]) -> List[Document]:
+        """
+        Load data from the input directory.
+
+        Args:
+            urls (List[str]): List of URLs to scrape.
+
+        Returns:
+            List[Document]: List of documents.
+
+        """
+        if not isinstance(urls, list):
+            raise ValueError("urls must be a list of strings.")
+
+        from main_content_extractor import MainContentExtractor
+
+        documents = []
+        for url in urls:
+            response = requests.get(url).text
+            response = MainContentExtractor.extract(
+                response, output_format=self.text_format, include_links=False
+            )
+
+            documents.append(Document(text=response))
+
+        return documents

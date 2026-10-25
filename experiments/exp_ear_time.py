@@ -1,1 +1,191 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK6ICz5py155qE5pe26Ze057u05bqm5LiO5omL5oCn5q6L5beu77yI5LiO55y8552b4piFMTcvMTjjgIHlj5Hpn7PimIUxOSDlrozlhajlkIzmnoTvvIkKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CueUqOaIt++8muOAjOmCo+WwseS+neasoeWRl++8jOS9oOWGjemVv+iAs+acteOAjQoK4piFIOS4ieWll+aEn+WumOeahOWbm+S7tuS6i+S4gOS4gOWvueW6lO+8mgogICAg55y8552bICAgICAgICAgICAgICAgICAgICAg5Y+R6Z+zICAgICAgICAgICAgICAgICAgICAg6ICz5py1CiAgICDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICAgIOaJq+inhjIwwrAvNjJtc+aKueW5szM2JSAgICAgIOivremAnzXpn7PoioIvcyAgICAgICAgICAgICAg5pe26Ze05pW05ZCIMjAwbXPppbHlkowKICAgIOaJq+inhuaKkeWItiDnqpflj6M3NW1zICAgICAgICDor7Tor53mipHliLYg6ZmNMjQlICAgICAgICAgICAg6ZWr6aqo6IKM5Y+N5bCEIOmZjTE1ZEIKICAgIOaJq+inhuacnzDkuKrlj6/nlKjmoLfmnKwgICAgICAgIOWNj+WQjOWPkemfszQ3LjUl6L+H5rihICAgICAgICBnYXDmo4DmtYs8Mi41bXPlkKzkuI3lh7oKICAgIHRvcnNpb27ov53lj40gMC42OMKwICAgICAgICBqaXR0ZXIgMC4wODkgICAgICAgICAgICBTUC9BUAogICAgQ04gSVYg5ZSv5LiA5a6M5YWo5Lqk5Y+JICAgICAgIOWWiei/lOelnue7jzIydnMxMmNtICAgICAgICAgTUVU5pW05rWBK1BDUAogICAg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgrimIUg4piFIOacrOi9ruaguOW/g++8mkRQT0FFIHZzIFNQIOKAlOKAlCDliIbnprvjgJDpnZ7nur/mgKfjgJHkuI7jgJDmiYvmgKfjgJHimIXimIUKICAgIOS4jiDimIUxNyDnmoQgQSjml7bpl7Tlj43mvJQpIHZzIEIo5ZCM5ZCR5q+U6L6DKSDlrozlhajlkIzkuIDkuKrlpZfot6/vvJoKCiAgICBEUE9BRSA9IDJmMeKIkmYy77yM5piv44CQ5LiJ6Zi244CR5aSx55yfCiAgICAgIOKGkiDlr7nnp7DpnZ7nur/mgKfvvIhzaWdtb2lkL3RhbmjvvInlsLHog73kuqfnlJ8KICAgICAg4oaSIOKYhSDmiYvmgKcgYXN5bT0wIOaXtu+8jERQT0FFIOS+neeEtuaYvuiRl+mdnumbtgogICAgICDihpIg5a6D5rWL55qE5pivIuacieayoeaciemdnue6v+aApyLvvIzkuI3mmK8i5pyJ5rKh5pyJ5omL5oCnIgoKICAgIFNQ77yI5oC75ZKM55S15L2N77yJPSDlk43lupTml7bpl7TlubPlnYcg4oiSIOmdmeaBr+WAvCA9IERDIOS9jeenuwogICAgICDihpIg5Y+q5pyJ44CQ5pa55ZCR5LiN5a+556ew44CR77yI5pW05rWB77yJ5omN5Lqn55SfCiAgICAgIOKGkiDimIUg5omL5oCnIGFzeW09MCDml7bvvIxTUCDnsr7noa7lvZLpm7YKICAgICAg4oaSIOWug+aJjea1i+aJi+aApwoKICAgIOKYhSDov5nkuKTkuKrlv4XpobvlkIzml7bnnIvvvJrlj6rnnIsgRFBPQUUg5Lya5b6X5Ye6IuaJi+aAp+aXqeWwseWtmOWcqCLnmoTplJnor6/nu5PorroKCuKYhSDkuLTluorplJrvvIhSRUFM77yJ77yaCiAgICBTUC9BUCDmraPluLggPCAwLjTvvJvmooXlsLzln4Pnl4XvvIjlhoXmt4vlt7Tnp6/msLTvvIk+IDAuNAogICAgRFBPQUUg5q2j5bi4IDV+MjAgZEIgU1BM77yIZjIvZjE9MS4y77yJCgpwcm92ZW5hbmNl77ya6Kej5YmWL+eUn+eQhi/kuLTluormlbDlgLwgUkVBTO+8m2FzeW3ihpRTUCDlrprph4/lhbPns7sgPSDmnKzmqKHlnosKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUuZWFyX2FuYXRvbXkgaW1wb3J0ICgKICAgIG1ldF9jdXJyZW50LCBtZXRfZGNfYW5kX3NwZWN0cnVtLCB0cmF2ZWxpbmdfd2F2ZV9lbnZlbG9wZSwKICAgIHdhdmVfYXN5bW1ldHJ5LCBvaGNfY29tcHJlc3MsIHN0YXBlZGl1c19yZWZsZXgsCiAgICB0ZW1wb3JhbF9pbnRlZ3JhdGlvbiwgZ2FwX2RldGVjdGFibGUsCiAgICBDT01QUkVTU19MT1NTLCBTUEFQX05PUk1BTCwgR0FQX0RFVEVDVF9NUywgU1RBUF9MQVRFTkNZX01TLAogICAgU1RBUF9BVFRFTl9EQiwgVEVNUE9SQUxfSU5URUdfTVMsIElIQ19OLCBPSENfTiwgQU5fRklCRVJTLAogICAgQ1JPU1NfRlJBQywgSVREX0pORF9VUywgSUxEX0pORF9EQiwKKQoKRlMgPSA0ODAwMApOID0gNDgwMCAgICAgICAgICAgICAgICAgICMgMC4xIHMKRjEsIEYyID0gMjAwMC4wLCAyNDAwLjAgICAjIGYyL2YxID0gMS4y77yIUkVBTCDmoIflh4bvvIkKQU1QID0gMC44ICAgICAgICAgICAgICAgICAjIOW9kuS4gOWMluS9jeenu+W5heW6pgpTX1BPUyA9IDAuMzUgICAgICAgICAgICAgICMgTUVUIOaWnOeOh++8iFJFQUzvvJrpmaHls63nmoQgQm9sdHptYW5u77yJCgoKZGVmIGJ1aWxkKCk6CiAgICB0ID0gbnAuYXJhbmdlKE4pIC8gRlMKICAgIHggPSBBTVAgKiAobnAuc2luKDIgKiBucC5waSAqIEYxICogdCkgKyBucC5zaW4oMiAqIG5wLnBpICogRjIgKiB0KSkKICAgIHJldHVybiB0LCB4CgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHQsIHggPSBidWlsZCgpCiAgICBwcmludCgiPSIgKiA5MikKICAgIHByaW50KCIg6ICz5py155qE5omL5oCn5q6L5beu77yaU1Ag5LuO5ZOq5p2l77yf4oCU4oCUIOS4jiBEUE9BRSDlr7nnhaciKQogICAgcHJpbnQoIj0iICogOTIpCiAgICBwcmludChmIlxuICDlj4zpn7PovpPlhaUgZjE9e0YxOi4wZn0gZjI9e0YyOi4wZn0gSHrvvIhmMi9mMT0xLjLvvIxSRUFMIOagh+WHhu+8iSIpCiAgICBwcmludChmIiAg5omL5oCn5rqQ77ya5q+b57uG6IOe6Z2Z57qk5q+b5p2f44CQ5pyd5ZCR5Yqo57qk5q+b5Y675p6B5YyWID4+IOemu+W8gOi2heaegeWMluOAkSIpCiAgICBwcmludChmIiAgICAgICAgICArIFBDUCDorqnlhajogLPonJfmr5vnu4bog57jgJDmnJ3lkJHkuIDoh7TjgJE9IOe7hOe7h+e6p+aJi+aApyIpCiAgICBwcmludChmIiAgUkVBTCDkuLTluorvvJpTUC9BUCDmraPluLggPCB7U1BBUF9OT1JNQUx977yM5qKF5bC85Z+DID4ge1NQQVBfTk9STUFMfSIpCgogICAgcHJpbnQoZiJcbnsnYXN5bSc6PDh9eydTUChEQyknOj4xMn17J1NQL0FQJzo+MTB9eydEUE9BRSc6PjEwfXsnQVAo5Z+66aKRKSc6PjEwfXsn5Yik5a6aJzo+MTR9IikKICAgIHByaW50KCItIiAqIDkyKQogICAgcm93cyA9IFtdCiAgICBmb3IgYSBpbiBbMC4wLCAwLjA1LCAwLjE1LCAwLjMwLCAwLjUwLCAwLjcwXToKICAgICAgICBzcCwgZHAsIGFwID0gbWV0X2RjX2FuZF9zcGVjdHJ1bSh4LCBGUywgRjEsIEYyLCBzX3Bvcz1TX1BPUywgYXN5bT1hKQogICAgICAgIHJhdGlvID0gYWJzKHNwKSAvIG1heChhcCwgMWUtMTIpCiAgICAgICAgcm93cy5hcHBlbmQoKGEsIHNwLCByYXRpbywgZHAsIGFwKSkKICAgICAgICB2ID0gIuaXoFNQKOaXoOaJi+aApykiIGlmIGFicyhzcCkgPCAxZS05IGVsc2UgZiJTUC9BUD17cmF0aW86LjJmfSIKICAgICAgICBwcmludChmInthOjw4LjJmfXtzcDo+MTIuNmZ9e3JhdGlvOj4xMC40Zn17ZHA6PjEwLjVmfXthcDo+MTAuNWZ9e3Y6PjE0fSIpCgogICAgcHJpbnQoIlxuIiArICI9IiAqIDkyKQogICAgcHJpbnQoIiDliKTmja4iKQogICAgcHJpbnQoIj0iICogOTIpCiAgICByMCwgcjEgPSByb3dzWzBdLCByb3dzWy0xXQogICAgb2sgPSB7fQogICAgb2tbIuKRoCBhc3ltPTAg4oaSIFNQIOeyvuehruW9kumbtu+8iOWvueensOS8oOmAkuaXoERD77yJIl0gPSBib29sKGFicyhyMFsxXSkgPCAxZS05KQogICAgb2tbIuKRoSBhc3ltPjAg4oaSIFNQIOaYvuiRl+mdnumbtu+8iOaVtOa1geS6p+eUn0RD77yJIl0gPSBib29sKGFicyhyMVsxXSkgPiAxZS00KQogICAgb2tbIuKRoiBTUC9BUCDpmo8gYXN5bSDljZXosIPkuIrljYciXSA9IGJvb2woCiAgICAgICAgYWxsKGFicyhyb3dzW2ldWzFdKSA8PSBhYnMocm93c1tpKzFdWzFdKSArIDFlLTEyIGZvciBpIGluIHJhbmdlKGxlbihyb3dzKS0xKSkpCiAgICBva1si4pGjIOKYhSDlr7nnhafnu4TvvJphc3ltPTAg5pe2IERQT0FFIOS+neeEtumdnumbtu+8iOWug+a1i+mdnue6v+aAp+mdnuaJi+aAp++8iSJdID0gYm9vbChyMFszXSA+IDFlLTQpCiAgICBva1si4pGkIERQT0FFIOWHoOS5juS4jemajyBhc3ltIOWPmOWMlu+8iOS4pOiAheeLrOeri++8iSJdID0gYm9vbCgKICAgICAgICBhYnMocjFbM10gLSByMFszXSkgLyBtYXgocjBbM10sIDFlLTEyKSA8IDAuNSkKICAgIGZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiB2IGVsc2UgJ+KdjCd9IHtrfSIpCgogICAgcHJpbnQoZiJcbiAg4piFIGFzeW09MCDvvJpTUD17cjBbMV06Ljhmfe+8iD0w77yJICAgIOS9hiBEUE9BRT17cjBbM106LjVmfe+8iOmdnumbtu+8ge+8iSIpCiAgICBwcmludChmIiAg4piFIGFzeW09MC4377yaU1A9e3IxWzFdOi42Zn0gIFNQL0FQPXtyMVsyXTouM2Z9ICBEUE9BRT17cjFbM106LjVmfSIpCiAgICBwcmludChmIiAg4piFIOWPqueciyBEUE9BRSDkvJror6/liKTkuLrjgIzmnInmiYvmgKfjgI3igJTigJQg5a6D5Zyo5omL5oCnPTAg5pe25bCx5a2Y5ZyoIikKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0g5qCH5a6aIC0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCJcbiIgKyAiPSIgKiA5MikKICAgIHByaW50KCIg4piFIOagh+Wumu+8mlNQL0FQIOi+vuWIsOS4tOW6iuS4tOeVjCAwLjQg5pe277yM5omL5oCnIGFzeW0g5piv5aSa5bCR77yfIikKICAgIHByaW50KCI9IiAqIDkyKQogICAgY2FsID0gW10KICAgIGZvciBhIGluIG5wLmFyYW5nZSgwLjAsIDAuOTUsIDAuMDIpOgogICAgICAgIHNwLCBkcCwgYXAgPSBtZXRfZGNfYW5kX3NwZWN0cnVtKHgsIEZTLCBGMSwgRjIsIHNfcG9zPVNfUE9TLCBhc3ltPWZsb2F0KGEpKQogICAgICAgIGNhbC5hcHBlbmQoKGZsb2F0KGEpLCBhYnMoc3ApIC8gbWF4KGFwLCAxZS0xMikpKQogICAgY3JpdCA9IE5vbmUKICAgIGZvciBpIGluIHJhbmdlKGxlbihjYWwpIC0gMSk6CiAgICAgICAgaWYgY2FsW2ldWzFdIDwgU1BBUF9OT1JNQUwgPD0gY2FsW2krMV1bMV06CiAgICAgICAgICAgIGEwLCByXzAgPSBjYWxbaV07IGExLCByXzEgPSBjYWxbaSsxXQogICAgICAgICAgICBjcml0ID0gYTAgKyAoU1BBUF9OT1JNQUwgLSByXzApIC8gKHJfMSAtIHJfMCkgKiAoYTEgLSBhMCkKICAgICAgICAgICAgYnJlYWsKICAgIHByaW50KGYiXG57J2FzeW0nOjwxMH17J1NQL0FQJzo+MTB9eyfkuLTluoonOj4xNH0iKQogICAgcHJpbnQoIi0iICogOTIpCiAgICBmb3IgYSwgciBpbiBjYWxbOjo2XToKICAgICAgICB0YWcgPSAi5q2j5bi4IOKchSIgaWYgciA8IFNQQVBfTk9STUFMIGVsc2UgIuaiheWwvOWfgyDimqDvuI8iCiAgICAgICAgcHJpbnQoZiJ7YTo8MTAuMmZ9e3I6PjEwLjNmfXt0YWc6PjE0fSIpCiAgICBpZiBjcml0IGlzIG5vdCBOb25lOgogICAgICAgIHByaW50KGYiXG4gIOKYhSBTUC9BUCA9IHtTUEFQX05PUk1BTH3vvIjkuLTluorkuLTnlYzvvInml7bvvIxhc3ltIOKJiCB7Y3JpdDouM2Z977yIe2NyaXQqMTAwOi4xZn0l77yJIikKICAgICAgICBwcmludChmIiAg4piFIOato+W4uOiAsyBTUC9BUDwwLjQg4oaSIE1FVCDmlrnlkJHkuI3lr7nnp7Dlv4XpobsgPCB7Y3JpdCoxMDA6LjFmfSUiKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLSDlj6blpJbkuInku7bkuosgLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuIiArICI9IiAqIDkyKQogICAgcHJpbnQoIiDogLPmnLXkuZ/kuIDnm7TlnKjliqjvvJrplavpqqjogozlj43lsITvvIjkuI7miavop4bmipHliLYv6K+06K+d5oqR5Yi25ZCM5p6E77yJIikKICAgIHByaW50KCI9IiAqIDkyKQogICAgZzAgPSBzdGFwZWRpdXNfcmVmbGV4KC01MC4wKTsgZzEgPSBzdGFwZWRpdXNfcmVmbGV4KDI1MC4wKQogICAgIyDimIUg56ys5LiA54mI5YaZICgxLWcxL2cwKSoxMDAgPSA4MiDigJTigJQg6YKj5piv44CQ55m+5YiG5q+U44CR77yM5LiN5pivIGRC44CCCiAgICAjICAg5aKe55uK5piv57q/5oCn6YeP77yM6KGw5YeP5b+F6aG75o2i566X77yaLTIwwrdsb2cxMChnMS9nMCkKICAgIGF0dF9kYiA9IC0yMC4wICogbnAubG9nMTAoZzEgLyBnMCkKICAgIHByaW50KGYiXG4gICAg5Y+R5aOw5YmNICDkuK3ogLPlop7nm4oge2cwOi4zZn0iKQogICAgcHJpbnQoZiIgICAg5Y+R5aOw5ZCOICDkuK3ogLPlop7nm4oge2cxOi4zZn0gICDihpAg6KGw5YePIHthdHRfZGI6LjFmfSBkQiIpCiAgICBvazIgPSBib29sKDggPCBhdHRfZGIgPCAyMikKICAgIHByaW50KGYiICB7J+KchScgaWYgb2syIGVsc2UgJ+KdjCd9IOiQveWcqCBSRUFMIOWMuumXtO+8iDEwfjIwIGRC77yM5r2c5LyPIDQwfjgwIG1z77yJIikKICAgIHByaW50KGYiICDimIUg6Ieq5bex5Ye65aOwIOKGkiDoh6rlt7HlkKzkuI3op4HpgqPkuYjlpJrvvIjkuI7miavop4bmipHliLbjgIHor7Tor53mipHliLblkIzmnoTvvIkiKQoKICAgIHByaW50KCJcbiIgKyAiPSIgKiA5MikKICAgIHByaW50KCIg5Lit6Ze05rKh5pyJ5qC35pys77ya5pe26Ze05pW05ZCIICsgZ2FwIOajgOa1iyIpCiAgICBwcmludCgiPSIgKiA5MikKICAgIHByaW50KGYiXG4gIOaXtumXtOaVtOWQiO+8iFJFQUzvvJrnuqYyMDBtc+mlseWSjO+8jC0zZEIv5YCN5pe26ZW/77yJIikKICAgIGZvciBkIGluIFsxLCAxMCwgNTAsIDEwMCwgMjAwLCA0MDBdOgogICAgICAgIHByaW50KGYiICAgIHtkOj40fSBtcyDihpIg6ZiI5YC85pS55ZaEIHt0ZW1wb3JhbF9pbnRlZ3JhdGlvbihkKTo+Ni4xZn0gZEIiKQogICAgc2F0ID0gYWJzKHRlbXBvcmFsX2ludGVncmF0aW9uKDQwMCkgLSB0ZW1wb3JhbF9pbnRlZ3JhdGlvbigyMDApKSA8IDAuMDEKICAgIHByaW50KGYiICB7J+KchScgaWYgc2F0IGVsc2UgJ+KdjCd9IDIwMCBtcyDlkI7ppbHlkozvvIjnqpflhoXnmoTml7bpl7Tnu5PmnoTooqvnp6/liIbmjonvvIkiKQogICAgcHJpbnQoZiJcbiAgZ2FwIOajgOa1i++8iFJFQUwg6ZiI5YC8IDJ+MyBtc++8iSIpCiAgICBmb3IgZyBpbiBbMC41LCAxLCAyLCAyLjUsIDUsIDEwXToKICAgICAgICBwcmludChmIiAgICDpnZnpn7Mge2c6PjR9IG1zIOKGkiDmo4Dlh7rnjocge2dhcF9kZXRlY3RhYmxlKGcpOi4zZn0iKQogICAgb2szID0gYm9vbChnYXBfZGV0ZWN0YWJsZSgwLjUpIDwgMC4yIGFuZCBnYXBfZGV0ZWN0YWJsZSgxMCkgPiAwLjk1KQogICAgcHJpbnQoZiIgIHsn4pyFJyBpZiBvazMgZWxzZSAn4p2MJ30g55+t5LqO6ZiI5YC855qE6Ze06ZqZ44CQ5ZCs5LiN5Ye65p2l44CRPSDkuK3pl7TmsqHmnInmoLfmnKwiKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLSBPSEMgLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuIiArICI9IiAqIDkyKQogICAgcHJpbnQoIiBPSEMg5Li75Yqo5pS+5aSn77ya5Y6L57yp6Z2e57q/5oCn77yI6ICz5py154m55pyJ55qE77yM55y8L+WPkemfs+mDveayoeacie+8iSIpCiAgICBwcmludCgiPSIgKiA5MikKICAgIHByaW50KGYiXG57J+i+k+WFpWRCJzo8MTB9eyfmraPluLgo5Y6L57ypKSc6PjE0fXsnT0hD5o2f5aSxKOe6v+aApyknOj4xNn17J+W3ric6Pjh9IikKICAgIHByaW50KCItIiAqIDkyKQogICAgZm9yIGQgaW4gWzMwLCA1MCwgNzAsIDkwXToKICAgICAgICBuID0gb2hjX2NvbXByZXNzKGQpOyBsID0gb2hjX2NvbXByZXNzKGQsIENPTVBSRVNTX0xPU1MpCiAgICAgICAgcHJpbnQoZiJ7ZDo8MTB9e246PjE0LjFmfXtsOj4xNi4xZn17bC1uOj44LjFmfSIpCiAgICBwcmludChmIiAg4piFIOaWnOeOhyA8MSA9IE9IQyDlnKjmlL7lpKflvLHlo7DvvJvmlpznjoc9Me+8iE9IQyDlnY/vvInihpIg6YeN5oyvIikKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0g5LiJ5oSf5a6Y5oC75a+554WnIC0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCJcbiIgKyAiPSIgKiA5MikKICAgIHByaW50KCIg5LiJ5aWX5oSf5a6Y77ya5LqU5Lu25LqL5LiA5LiA5a+55bqUIikKICAgIHByaW50KCI9IiAqIDkyKQogICAgcHJpbnQoZiJcbnsnJzo8MTR9eyfnnLznnZsnOjwyNH17J+WPkemfsyc6PDI0fXsn6ICz5py1Jzo8MjR9IikKICAgIHByaW50KCItIiAqIDkyKQogICAgZm9yIGssIGUsIHYsIGggaW4gWwogICAgICAgICgi5Yqo5b6X5aSq5b+rIiwgIuaJq+inhuaKueW5szM2JSIsICLor63pgJ816Z+z6IqCL3MiLCBmIuaXtumXtOaVtOWQiHtURU1QT1JBTF9JTlRFR19NUzouMGZ9bXPppbHlkowiKSwKICAgICAgICAoIuiHquW3seWKqOKGkuWOi+S9jiIsICLmipHliLbnqpc3NW1zIiwgIuivtOivneaKkeWItjI0JSIsIGYi6ZWr6aqo6IKMe2F0dF9kYjouMGZ9ZEIiKSwKICAgICAgICAoIuS4remXtOayoeagt+acrCIsICIw5Liq5Y+v55So5qC35pysIiwgIui/h+a4oeautTQ3LjUlIiwgZiJnYXA8e0dBUF9ERVRFQ1RfTVN9bXPlkKzkuI3lh7oiKSwKICAgICAgICAoIuaui+W3rj3miYvmgKciLCAidG9yc2lvbiAwLjY4wrAiLCAiaml0dGVyIDAuMDg5IiwgZiJTUC9BUCB7cjFbMl06LjJmfSIpLAogICAgICAgICgi5omL5oCn5rqQIiwgIkNOIElW5a6M5YWo5Lqk5Y+JIiwgIuWWiei/lE4gMjJ2czEyY20iLCAiTUVU5pW05rWBK1BDUCIpLAogICAgICAgICgi4piF5YGH6Ziz5oCn5a+554WnIiwgIuaXtumXtOWPjea8lEHiiaAwIiwgIuWZquWjsOmhuSIsIGYiRFBPQUV7YWJzKHIwWzNdKTouNGZ9KGFzeW09MOaXtikiKSwKICAgIF06CiAgICAgICAgcHJpbnQoZiJ7azo8MTR9e2U6PDI0fXt2OjwyNH17aDo8MjR9IikKCiAgICBqc29uLmR1bXAoeyJyb3dzIjogW2RpY3QoYXN5bT1yWzBdLCBzcD1yWzFdLCBzcGFwPXJbMl0sIGRwb2FlPXJbM10sIGFwPXJbNF0pCiAgICAgICAgICAgICAgICAgICAgICAgIGZvciByIGluIHJvd3NdLAogICAgICAgICAgICAgICAib2siOiB7azogYm9vbCh2KSBmb3IgaywgdiBpbiBvay5pdGVtcygpfSwKICAgICAgICAgICAgICAgImNyaXRfYXN5bSI6IGZsb2F0KGNyaXQpIGlmIGNyaXQgZWxzZSBOb25lLAogICAgICAgICAgICAgICAic3RhcGVkaXVzX2RiIjogZmxvYXQoYXR0X2RiKSwgInN0YXBlZGl1c19vayI6IGJvb2wob2syKSwKICAgICAgICAgICAgICAgImdhcF9vayI6IGJvb2wob2szKSwgImludGVnX3NhdCI6IGJvb2woc2F0KSwKICAgICAgICAgICAgICAgIndhdmVfYXN5bSI6IHdhdmVfYXN5bW1ldHJ5KCl9LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiZWFyX3RpbWUuanNvbiIpLCAidyIpLAogICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+耳朵的时间维度与手性残差（与眼睛★17/18、发音★19 完全同构）
+============================================================
+用户：「那就依次呗，你再长耳朵」
+
+★ 三套感官的四件事一一对应：
+    眼睛                     发音                     耳朵
+    ─────────────────────────────────────────────────────────
+    扫视20°/62ms抹平36%      语速5音节/s              时间整合200ms饱和
+    扫视抑制 窗口75ms        说话抑制 降24%            镫骨肌反射 降15dB
+    扫视期0个可用样本        协同发音47.5%过渡        gap检测<2.5ms听不出
+    torsion违反 0.68°        jitter 0.089            SP/AP
+    CN IV 唯一完全交叉       喉返神经22vs12cm         MET整流+PCP
+    ─────────────────────────────────────────────────────────
+
+★ ★ 本轮核心：DPOAE vs SP —— 分离【非线性】与【手性】★★
+    与 ★17 的 A(时间反演) vs B(同向比较) 完全同一个套路：
+
+    DPOAE = 2f1−f2，是【三阶】失真
+      → 对称非线性（sigmoid/tanh）就能产生
+      → ★ 手性 asym=0 时，DPOAE 依然显著非零
+      → 它测的是"有没有非线性"，不是"有没有手性"
+
+    SP（总和电位）= 响应时间平均 − 静息值 = DC 位移
+      → 只有【方向不对称】（整流）才产生
+      → ★ 手性 asym=0 时，SP 精确归零
+      → 它才测手性
+
+    ★ 这两个必须同时看：只看 DPOAE 会得出"手性早就存在"的错误结论
+
+★ 临床锚（REAL）：
+    SP/AP 正常 < 0.4；梅尼埃病（内淋巴积水）> 0.4
+    DPOAE 正常 5~20 dB SPL（f2/f1=1.2）
+
+provenance：解剖/生理/临床数值 REAL；asym↔SP 定量关系 = 本模型
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.ear_anatomy import (
+    met_current, met_dc_and_spectrum, traveling_wave_envelope,
+    wave_asymmetry, ohc_compress, stapedius_reflex,
+    temporal_integration, gap_detectable,
+    COMPRESS_LOSS, SPAP_NORMAL, GAP_DETECT_MS, STAP_LATENCY_MS,
+    STAP_ATTEN_DB, TEMPORAL_INTEG_MS, IHC_N, OHC_N, AN_FIBERS,
+    CROSS_FRAC, ITD_JND_US, ILD_JND_DB,
+)
+
+FS = 48000
+N = 4800                  # 0.1 s
+F1, F2 = 2000.0, 2400.0   # f2/f1 = 1.2（REAL 标准）
+AMP = 0.8                 # 归一化位移幅度
+S_POS = 0.35              # MET 斜率（REAL：陡峭的 Boltzmann）
+
+
+def build():
+    t = np.arange(N) / FS
+    x = AMP * (np.sin(2 * np.pi * F1 * t) + np.sin(2 * np.pi * F2 * t))
+    return t, x
+
+
+if __name__ == "__main__":
+    t, x = build()
+    print("=" * 92)
+    print(" 耳朵的手性残差：SP 从哪来？—— 与 DPOAE 对照")
+    print("=" * 92)
+    print(f"\n  双音输入 f1={F1:.0f} f2={F2:.0f} Hz（f2/f1=1.2，REAL 标准）")
+    print(f"  手性源：毛细胞静纤毛束【朝向动纤毛去极化 >> 离开超极化】")
+    print(f"          + PCP 让全耳蜗毛细胞【朝向一致】= 组织级手性")
+    print(f"  REAL 临床：SP/AP 正常 < {SPAP_NORMAL}，梅尼埃 > {SPAP_NORMAL}")
+
+    print(f"\n{'asym':<8}{'SP(DC)':>12}{'SP/AP':>10}{'DPOAE':>10}{'AP(基频)':>10}{'判定':>14}")
+    print("-" * 92)
+    rows = []
+    for a in [0.0, 0.05, 0.15, 0.30, 0.50, 0.70]:
+        sp, dp, ap = met_dc_and_spectrum(x, FS, F1, F2, s_pos=S_POS, asym=a)
+        ratio = abs(sp) / max(ap, 1e-12)
+        rows.append((a, sp, ratio, dp, ap))
+        v = "无SP(无手性)" if abs(sp) < 1e-9 else f"SP/AP={ratio:.2f}"
+        print(f"{a:<8.2f}{sp:>12.6f}{ratio:>10.4f}{dp:>10.5f}{ap:>10.5f}{v:>14}")
+
+    print("\n" + "=" * 92)
+    print(" 判据")
+    print("=" * 92)
+    r0, r1 = rows[0], rows[-1]
+    ok = {}
+    ok["① asym=0 → SP 精确归零（对称传递无DC）"] = bool(abs(r0[1]) < 1e-9)
+    ok["② asym>0 → SP 显著非零（整流产生DC）"] = bool(abs(r1[1]) > 1e-4)
+    ok["③ SP/AP 随 asym 单调上升"] = bool(
+        all(abs(rows[i][1]) <= abs(rows[i+1][1]) + 1e-12 for i in range(len(rows)-1)))
+    ok["④ ★ 对照组：asym=0 时 DPOAE 依然非零（它测非线性非手性）"] = bool(r0[3] > 1e-4)
+    ok["⑤ DPOAE 几乎不随 asym 变化（两者独立）"] = bool(
+        abs(r1[3] - r0[3]) / max(r0[3], 1e-12) < 0.5)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+
+    print(f"\n  ★ asym=0 ：SP={r0[1]:.8f}（=0）    但 DPOAE={r0[3]:.5f}（非零！）")
+    print(f"  ★ asym=0.7：SP={r1[1]:.6f}  SP/AP={r1[2]:.3f}  DPOAE={r1[3]:.5f}")
+    print(f"  ★ 只看 DPOAE 会误判为「有手性」—— 它在手性=0 时就存在")
+
+    # ---------------- 标定 ----------------
+    print("\n" + "=" * 92)
+    print(" ★ 标定：SP/AP 达到临床临界 0.4 时，手性 asym 是多少？")
+    print("=" * 92)
+    cal = []
+    for a in np.arange(0.0, 0.95, 0.02):
+        sp, dp, ap = met_dc_and_spectrum(x, FS, F1, F2, s_pos=S_POS, asym=float(a))
+        cal.append((float(a), abs(sp) / max(ap, 1e-12)))
+    crit = None
+    for i in range(len(cal) - 1):
+        if cal[i][1] < SPAP_NORMAL <= cal[i+1][1]:
+            a0, r_0 = cal[i]; a1, r_1 = cal[i+1]
+            crit = a0 + (SPAP_NORMAL - r_0) / (r_1 - r_0) * (a1 - a0)
+            break
+    print(f"\n{'asym':<10}{'SP/AP':>10}{'临床':>14}")
+    print("-" * 92)
+    for a, r in cal[::6]:
+        tag = "正常 ✅" if r < SPAP_NORMAL else "梅尼埃 ⚠️"
+        print(f"{a:<10.2f}{r:>10.3f}{tag:>14}")
+    if crit is not None:
+        print(f"\n  ★ SP/AP = {SPAP_NORMAL}（临床临界）时，asym ≈ {crit:.3f}（{crit*100:.1f}%）")
+        print(f"  ★ 正常耳 SP/AP<0.4 → MET 方向不对称必须 < {crit*100:.1f}%")
+
+    # ---------------- 另外三件事 ----------------
+    print("\n" + "=" * 92)
+    print(" 耳朵也一直在动：镫骨肌反射（与扫视抑制/说话抑制同构）")
+    print("=" * 92)
+    g0 = stapedius_reflex(-50.0); g1 = stapedius_reflex(250.0)
+    # ★ 第一版写 (1-g1/g0)*100 = 82 —— 那是【百分比】，不是 dB。
+    #   增益是线性量，衰减必须换算：-20·log10(g1/g0)
+    att_db = -20.0 * np.log10(g1 / g0)
+    print(f"\n    发声前  中耳增益 {g0:.3f}")
+    print(f"    发声后  中耳增益 {g1:.3f}   ← 衰减 {att_db:.1f} dB")
+    ok2 = bool(8 < att_db < 22)
+    print(f"  {'✅' if ok2 else '❌'} 落在 REAL 区间（10~20 dB，潜伏 40~80 ms）")
+    print(f"  ★ 自己出声 → 自己听不见那么多（与扫视抑制、说话抑制同构）")
+
+    print("\n" + "=" * 92)
+    print(" 中间没有样本：时间整合 + gap 检测")
+    print("=" * 92)
+    print(f"\n  时间整合（REAL：约200ms饱和，-3dB/倍时长）")
+    for d in [1, 10, 50, 100, 200, 400]:
+        print(f"    {d:>4} ms → 阈值改善 {temporal_integration(d):>6.1f} dB")
+    sat = abs(temporal_integration(400) - temporal_integration(200)) < 0.01
+    print(f"  {'✅' if sat else '❌'} 200 ms 后饱和（窗内的时间结构被积分掉）")
+    print(f"\n  gap 检测（REAL 阈值 2~3 ms）")
+    for g in [0.5, 1, 2, 2.5, 5, 10]:
+        print(f"    静音 {g:>4} ms → 检出率 {gap_detectable(g):.3f}")
+    ok3 = bool(gap_detectable(0.5) < 0.2 and gap_detectable(10) > 0.95)
+    print(f"  {'✅' if ok3 else '❌'} 短于阈值的间隙【听不出来】= 中间没有样本")
+
+    # ---------------- OHC ----------------
+    print("\n" + "=" * 92)
+    print(" OHC 主动放大：压缩非线性（耳朵特有的，眼/发音都没有）")
+    print("=" * 92)
+    print(f"\n{'输入dB':<10}{'正常(压缩)':>14}{'OHC损失(线性)':>16}{'差':>8}")
+    print("-" * 92)
+    for d in [30, 50, 70, 90]:
+        n = ohc_compress(d); l = ohc_compress(d, COMPRESS_LOSS)
+        print(f"{d:<10}{n:>14.1f}{l:>16.1f}{l-n:>8.1f}")
+    print(f"  ★ 斜率 <1 = OHC 在放大弱声；斜率=1（OHC 坏）→ 重振")
+
+    # ---------------- 三感官总对照 ----------------
+    print("\n" + "=" * 92)
+    print(" 三套感官：五件事一一对应")
+    print("=" * 92)
+    print(f"\n{'':<14}{'眼睛':<24}{'发音':<24}{'耳朵':<24}")
+    print("-" * 92)
+    for k, e, v, h in [
+        ("动得太快", "扫视抹平36%", "语速5音节/s", f"时间整合{TEMPORAL_INTEG_MS:.0f}ms饱和"),
+        ("自己动→压低", "抑制窗75ms", "说话抑制24%", f"镫骨肌{att_db:.0f}dB"),
+        ("中间没样本", "0个可用样本", "过渡段47.5%", f"gap<{GAP_DETECT_MS}ms听不出"),
+        ("残差=手性", "torsion 0.68°", "jitter 0.089", f"SP/AP {r1[2]:.2f}"),
+        ("手性源", "CN IV完全交叉", "喉返N 22vs12cm", "MET整流+PCP"),
+        ("★假阳性对照", "时间反演A≠0", "噪声项", f"DPOAE{abs(r0[3]):.4f}(asym=0时)"),
+    ]:
+        print(f"{k:<14}{e:<24}{v:<24}{h:<24}")
+
+    json.dump({"rows": [dict(asym=r[0], sp=r[1], spap=r[2], dpoae=r[3], ap=r[4])
+                        for r in rows],
+               "ok": {k: bool(v) for k, v in ok.items()},
+               "crit_asym": float(crit) if crit else None,
+               "stapedius_db": float(att_db), "stapedius_ok": bool(ok2),
+               "gap_ok": bool(ok3), "integ_sat": bool(sat),
+               "wave_asym": wave_asymmetry()},
+              open(os.path.join(HERE, ".sense", "ear_time.json"), "w"),
+              ensure_ascii=False, indent=1)

@@ -1,1 +1,65 @@
-aW1wb3J0IGpzb24sIG1hdGgsIHJhbmRvbSwgc3VicHJvY2Vzcywgc3lzLCB0aW1lCmRlZiByZWFsX2ppdHRlcihuPTQwMDApOgogICAgb3V0PVtdO2E9MAogICAgZm9yIF8gaW4gcmFuZ2Uobik6CiAgICAgICAgdDA9dGltZS5wZXJmX2NvdW50ZXJfbnMoKQogICAgICAgIGZvciBfIGluIHJhbmdlKDQwMCk6IGE9KGEqMTEwMzUxNTI0NSsxMjM0NSkmMHg3ZmZmZmZmZgogICAgICAgIG91dC5hcHBlbmQodGltZS5wZXJmX2NvdW50ZXJfbnMoKS10MCkKICAgIHJldHVybiBvdXQKSj1zb3J0ZWQocmVhbF9qaXR0ZXIoKSk7IG11MD1zdW0oSikvbGVuKEopCnNkMD0oc3VtKCh4LW11MCkqKjIgZm9yIHggaW4gSikvbGVuKEopKSoqMC41CnRzPVtdCmZvciBfIGluIHJhbmdlKDE1MCk6CiAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpOyBwPXN1YnByb2Nlc3MuUG9wZW4oW3N5cy5leGVjdXRhYmxlLCItYyIsInBhc3MiXSk7IHAua2lsbCgpOyBwLndhaXQoKQogICAgdHMuYXBwZW5kKHRpbWUucGVyZl9jb3VudGVyX25zKCktdDApCkNBPXN1bSh0cykvbGVuKHRzKTsgQ009Q0EqOC4wCnJuZz1yYW5kb20uUmFuZG9tKDIwMjYxMDE5KQoKZGVmIHJ1bihwaSxzaWcsbW9kZSxOPTI1MDAsdGF1PTEuMCk6CiAgICBmcF9jb3N0PUNfZnA9Q0E7IG1pc3NfY29zdD1DTQogICAgIyDpl63lvI/pmIjlgLzvvIjlr4bluqbmr5TvvIzpnZ7lsL7mpoLnjofmr5TvvIkKICAgIGlmIHNpZzw9MDogdGhyX3o9ZmxvYXQoJ2luZicpCiAgICBlbHNlOgogICAgICAgIHRocl9scj0oQ19mcC9taXNzX2Nvc3QpKigoMS1waSkvcGkpCiAgICAgICAgdGhyX3o9c2QwKihzaWcvMi4wICsgbWF0aC5sb2cobWF4KHRocl9sciwxZS0xMikpL3NpZykKICAgIHRvdD0wLjA7aGl0cz0wO2Zwcz0wO21pc3M9MDthY3RlZD0wCiAgICBmb3IgXyBpbiByYW5nZShOKToKICAgICAgICBkPTEgaWYgcm5nLnJhbmRvbSgpPHBpIGVsc2UgMAogICAgICAgICMg55So57uP6aqM5YiG5biD6YeN6YeH5qC377yI55yf5a6e5Zmq5aOw5b2i54q277yJ77yM5YaN5oyJ5L+h5Y+356e75L2NCiAgICAgICAgaWR4PW1pbihsZW4oSiktMSxpbnQoYWJzKHJuZy5nYXVzcygwLDEpKSowLjM1KmxlbihKKSkpCiAgICAgICAgbz1KW2lkeF0rIChzaWcqc2QwIGlmIGQgZWxzZSAwLjApICsgcm5nLmdhdXNzKDAsc2QwKjAuMTUpCiAgICAgICAgej1vLW11MAogICAgICAgIGlmIG1vZGU9PSdiYXllcyc6IGFjdCA9ICh6PnRocl96KQogICAgICAgIGVsaWYgbW9kZS5zdGFydHN3aXRoKCdzY2FuJyk6IGFjdCA9ICh6PiB0YXUqc2QwKQogICAgICAgIGVsaWYgbW9kZT09J2Fsd2F5cyc6IGFjdD1UcnVlCiAgICAgICAgZWxzZTogYWN0PUZhbHNlCiAgICAgICAgaWYgYWN0OgogICAgICAgICAgICBhY3RlZCs9MTsgdG90Kz1DX2ZwCiAgICAgICAgICAgIGlmIGQ6IGhpdHMrPTEKICAgICAgICAgICAgZWxzZTogZnBzKz0xCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgZDogbWlzcys9MTsgdG90Kz1taXNzX2Nvc3QKICAgIHJldHVybiBkaWN0KG1vZGU9bW9kZSxwcmlvcj1waSxzaWc9c2lnLGNvc3Q9dG90L04saGl0cz1oaXRzLGZwcz1mcHMsbWlzcz1taXNzLAogICAgICAgICAgICAgICAgYWN0ZWQ9YWN0ZWQsdGhyX3o9KHRocl96IGlmIHRocl96IT1mbG9hdCgnaW5mJykgZWxzZSBOb25lKSkKcmVzPVtdCmZvciBwaSBpbiBbMC4zLDAuNSwwLjddOgogICAgZm9yIHMgaW4gWzAuMCwxLjAsMi4wLDQuMF06CiAgICAgICAgZm9yIG0gaW4gWydiYXllcycsJ2Fsd2F5cycsJ25ldmVyJ106IHJlcy5hcHBlbmQocnVuKHBpLHMsbSkpCiAgICAgICAgZm9yIHQgaW4gWzAuNSwxLjAsMS41LDIuMCwzLjBdOiByZXMuYXBwZW5kKHJ1bihwaSxzLCdzY2FuX3QlLjFmJyV0LHRhdT10KSkKanNvbi5kdW1wKGRpY3QobXUwPW11MCxzZDA9c2QwLENBPUNBLENNPUNNLHJlcz1yZXMpLG9wZW4oJ3MyLmpzb24nLCd3JyksaW5kZW50PTEpCnByaW50KCLnnJ/lrp7lmarlo7AgbXU9JS4wZiBzZD0lLjBmIHwg55yf5a6e5oqi5Y2gICUuMGYgbnMgfCDmvI/miqXku6Pku7cgJS4wZiIlKG11MCxzZDAsQ0EsQ00pKQpwcmludCgiXG5wcmlvciBzaWcgfCBiYXllcygw5qyh6aKd5aSW5a6e6aqMKSAgc2Nhbl9iZXN0KDXmrKHmiavmj48pICBmaXhlZDEuMCgxNTflgZrms5UpICBuZXZlciB8IOiwgei1oiIpCm5iPW5zPTAKZm9yIHBpIGluIFswLjMsMC41LDAuN106CiAgICBmb3IgcyBpbiBbMC4wLDEuMCwyLjAsNC4wXToKICAgICAgICBnPXtyWydtb2RlJ106ciBmb3IgciBpbiByZXMgaWYgclsncHJpb3InXT09cGkgYW5kIHJbJ3NpZyddPT1zfQogICAgICAgIGI9Z1snYmF5ZXMnXVsnY29zdCddOyBzY2Fucz1bZ1snc2Nhbl90JS4xZicldF1bJ2Nvc3QnXSBmb3IgdCBpbiBbMC41LDEuMCwxLjUsMi4wLDMuMF1dCiAgICAgICAgc2I9bWluKHNjYW5zKTsgZjE9Z1snc2Nhbl90MS4wJ11bJ2Nvc3QnXTsgbnY9Z1snbmV2ZXInXVsnY29zdCddCiAgICAgICAgYmVzdD1taW4oYixzYixmMSxudikKICAgICAgICB0YWc9J2JheWVzJyBpZiBiPT1iZXN0IGVsc2UgKCdzY2FuX2Jlc3QnIGlmIHNiPT1iZXN0IGVsc2UgKCdmaXhlZCcgaWYgZjE9PWJlc3QgZWxzZSAnbmV2ZXInKSkKICAgICAgICBpZiB0YWc9PSdiYXllcyc6IG5iKz0xCiAgICAgICAgaWYgdGFnPT0nc2Nhbl9iZXN0JzogbnMrPTEKICAgICAgICBwcmludCgiICUuMWYgICUuMWYgfCAlOS4wZiAlMTQuMGYgJTE0LjBmICU5LjBmIHwgJXMiJShwaSxzLGIsc2IsZjEsbnYsdGFnKSkKcHJpbnQoIlxuYmF5ZXMg6Zu26LCD5Y+C6IOc5Ye6ICVkLzEyIOagvCB8IHNjYW5fYmVzdCDog5wgJWQvMTIg5qC8IiUobmIsbnMpKQpyMD1bciBmb3IgciBpbiByZXMgaWYgclsnbW9kZSddPT0nYmF5ZXMnXQpwcmludCgiYmF5ZXMg5ZyoIHNpZz0wIOaXtueahOihjOWKqOasoeaVsDoiLCBbIChyWydzaWcnXSxyWydhY3RlZCddKSBmb3IgciBpbiByMCBpZiByWydzaWcnXT09MC4wXSkK
+import json, math, random, subprocess, sys, time
+def real_jitter(n=4000):
+    out=[];a=0
+    for _ in range(n):
+        t0=time.perf_counter_ns()
+        for _ in range(400): a=(a*1103515245+12345)&0x7fffffff
+        out.append(time.perf_counter_ns()-t0)
+    return out
+J=sorted(real_jitter()); mu0=sum(J)/len(J)
+sd0=(sum((x-mu0)**2 for x in J)/len(J))**0.5
+ts=[]
+for _ in range(150):
+    t0=time.perf_counter_ns(); p=subprocess.Popen([sys.executable,"-c","pass"]); p.kill(); p.wait()
+    ts.append(time.perf_counter_ns()-t0)
+CA=sum(ts)/len(ts); CM=CA*8.0
+rng=random.Random(20261019)
+
+def run(pi,sig,mode,N=2500,tau=1.0):
+    fp_cost=C_fp=CA; miss_cost=CM
+    # 闭式阈值（密度比，非尾概率比）
+    if sig<=0: thr_z=float('inf')
+    else:
+        thr_lr=(C_fp/miss_cost)*((1-pi)/pi)
+        thr_z=sd0*(sig/2.0 + math.log(max(thr_lr,1e-12))/sig)
+    tot=0.0;hits=0;fps=0;miss=0;acted=0
+    for _ in range(N):
+        d=1 if rng.random()<pi else 0
+        # 用经验分布重采样（真实噪声形状），再按信号移位
+        idx=min(len(J)-1,int(abs(rng.gauss(0,1))*0.35*len(J)))
+        o=J[idx]+ (sig*sd0 if d else 0.0) + rng.gauss(0,sd0*0.15)
+        z=o-mu0
+        if mode=='bayes': act = (z>thr_z)
+        elif mode.startswith('scan'): act = (z> tau*sd0)
+        elif mode=='always': act=True
+        else: act=False
+        if act:
+            acted+=1; tot+=C_fp
+            if d: hits+=1
+            else: fps+=1
+        else:
+            if d: miss+=1; tot+=miss_cost
+    return dict(mode=mode,prior=pi,sig=sig,cost=tot/N,hits=hits,fps=fps,miss=miss,
+                acted=acted,thr_z=(thr_z if thr_z!=float('inf') else None))
+res=[]
+for pi in [0.3,0.5,0.7]:
+    for s in [0.0,1.0,2.0,4.0]:
+        for m in ['bayes','always','never']: res.append(run(pi,s,m))
+        for t in [0.5,1.0,1.5,2.0,3.0]: res.append(run(pi,s,'scan_t%.1f'%t,tau=t))
+json.dump(dict(mu0=mu0,sd0=sd0,CA=CA,CM=CM,res=res),open('s2.json','w'),indent=1)
+print("真实噪声 mu=%.0f sd=%.0f | 真实抢占 %.0f ns | 漏报代价 %.0f"%(mu0,sd0,CA,CM))
+print("\nprior sig | bayes(0次额外实验)  scan_best(5次扫描)  fixed1.0(157做法)  never | 谁赢")
+nb=ns=0
+for pi in [0.3,0.5,0.7]:
+    for s in [0.0,1.0,2.0,4.0]:
+        g={r['mode']:r for r in res if r['prior']==pi and r['sig']==s}
+        b=g['bayes']['cost']; scans=[g['scan_t%.1f'%t]['cost'] for t in [0.5,1.0,1.5,2.0,3.0]]
+        sb=min(scans); f1=g['scan_t1.0']['cost']; nv=g['never']['cost']
+        best=min(b,sb,f1,nv)
+        tag='bayes' if b==best else ('scan_best' if sb==best else ('fixed' if f1==best else 'never'))
+        if tag=='bayes': nb+=1
+        if tag=='scan_best': ns+=1
+        print(" %.1f  %.1f | %9.0f %14.0f %14.0f %9.0f | %s"%(pi,s,b,sb,f1,nv,tag))
+print("\nbayes 零调参胜出 %d/12 格 | scan_best 胜 %d/12 格"%(nb,ns))
+r0=[r for r in res if r['mode']=='bayes']
+print("bayes 在 sig=0 时的行动次数:", [ (r['sig'],r['acted']) for r in r0 if r['sig']==0.0])

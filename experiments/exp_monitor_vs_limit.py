@@ -1,1 +1,203 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNTAg55uR5rWL5bel5YW3IHZzIOmZkOWItiDigJTigJQg5oqK5b6q546v5YaZ5oiQIumZkOWItiLkvJrmjZ/lpLHku4DkuYgKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrimIXimIXimIUg55So5oi35Y6f5YiZ77yIMjAyNi0xMC0yNOWOn+ivne+8iQogICAgIuaYr+S4gOS4quebkea1i+W3peWFt+OAguS9oOWGmei/m+WOu+WwseaYr+mZkOWItuWug+OAgiIKCuKYhSDlvqrnjq/vvIjooYDnrqEv6KGA5rWBL+awp+i+k+mAge+8ieeahOacrOi0qOaYr+OAkOaEn+efpeOAke+8mgogICAg5rWL6KGA5Y6L44CB5rWL6KGA5rWB44CB5rWL5rCn6L6T6YCB44CB5rWL5rCn5YC6IOKAlOKAlCDlroPjgJDmiqXlkYrjgJHvvIzkuI3jgJDlhrPlrprjgJEKCuKYheKYheKYhSDkvYbmiJHlnKgg4piFNDkg55qEIEgg5q615YaZ55qE5piv77yaCiAgICAi5rCn6L6T6YCBID0g6IO96YeP6aKE566X55qE54mp55CG5aSp6Iqx5p2/IgogICAg4piFIOi/meS4quaOqui+nuW3sue7j+aKiuWug+W9k+aIkOS6huOAkOe6puadn+OAkeKAlOKAlCDmraPmmK/nlKjmiLfmjIflh7rnmoTpl67popgKCuKYheKYhSDmnKzova7opoHor4HmmI7vvIjmnInlr7nnhafvvIzlj6/or4HkvKrvvIkKICAg4pGgIOmZkOWItuaooeW8j+S4iyBhZ2VudCDliLDkuI3kuobkuIrpmZDkuYvlpJYg4oaSIOaOoue0ouimhuebluabtOWwjwogICDikaEg4piFIOWug+awuOi/nOWPkeeOsOS4jeS6hiLmsKflgLrlj6/lgb/ov5gi6L+Z5Liq55yf5a6e5a2Y5Zyo55qE562W55WlCiAgIOKRoiDimIUg5LiA5pem5LiK6ZmQ5YaZ6ZSZ77yM6ZmQ5Yi25qih5byP5LiL5a6D6L+e57qg5q2j55qE5py65Lya6YO95rKh5pyJCiAgICAgIO+8iOiiq+WNoeWcqOmUmeivr+i+ueeVjOWGhe+8jOawuOi/nOS4jeS8muWOu+ivlei+ueeVjOWklu+8iQogICDikaMg55uR5rWL5qih5byP5LiL5a6D6IO96Ieq5bex5pKe5LiK5Y6744CB6Ieq5bex5Y+R546w44CB6Ieq5bex5a2m5Lya5YG/6L+YCgrimIXimIXimIUg5Yik5o2uCiAgIOKRoCDkuKTnp43mqKHlvI/ot5HlkIzkuIDmibnpnIDmsYLluo/liJfvvIzmr5TovoPopobnm5Yv5Y+R546wL+WzsOWAvAogICDikaEg5b+F6aG75pyJIuS4iumZkOiiq+iuvumUmSLnmoTlr7nnhafvvIjov5nmmK/pmZDliLbmnIDoh7Tlkb3nmoTlnLDmlrnvvIkKICAg4pGiIOe7k+iuuuWPquivtCLmjZ/lpLHkuobku4DkuYgi77yM5LiN6K+0IumZkOWItuS4gOWumuWdjyLvvIjmnInkupvlnLrmma/pnIDopoHpmZDliLbvvIkKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucApIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKc3lzLnBhdGguaW5zZXJ0KDAsIEhFUkUpCmZyb20gY29yZS5oZWFydCBpbXBvcnQgSGVhcnQKZnJvbSBjb3JlLnZhc2N1bGFyIGltcG9ydCBDaXJjdWxhdG9yeVNlbnNlLCBDb25zdHJhaW50R2F0ZQoKb2sgPSB7fQpwcmludCgiPSIgKiA5MikKcHJpbnQoIiDimIU1MCDnm5HmtYvlt6XlhbcgdnMg6ZmQ5Yi2IOKAlOKAlCDmiorlvqrnjq/lhpnmiJDjgI7pmZDliLbjgI/kvJrmjZ/lpLHku4DkuYgiKQpwcmludCgiPSIgKiA5MikKcHJpbnQoIiIiCiAg4piFIOeUqOaIt+WOn+ivne+8muOAjuaYr+S4gOS4quebkea1i+W3peWFt+OAguS9oOWGmei/m+WOu+WwseaYr+mZkOWItuWug+OAguOAjwogIOKYheKYhSDmiJHlnKgg4piFNDkgSCDmrrXlhpnnmoTmmK/jgI7msKfovpPpgIEgPSDog73ph4/pooTnrpfnmoTniannkIblpKnoirHmnb/jgI8KICAgICDigJTigJQg6L+Z5Liq5o6q6L6e5bey57uP5oqK5a6D5b2T5oiQ5LqG57qm5p2f77yM5q2j5piv6Zeu6aKY5omA5ZyoCiIiIikKCmhlYXJ0ID0gSGVhcnQoKQpDQVBfVFJVRSA9IENpcmN1bGF0b3J5U2Vuc2UoaGVhcnQpLmF0cF9jYXBhY2l0eSgpCnByaW50KGYiICDimIUg55yf5a6e5pyJ5rCnIEFUUCDkuIrpmZAgPSB7Q0FQX1RSVUU6LjNmfSBtb2wvbWluXG4iKQoKCmRlZiBydW4obW9kZTogc3RyLCBkZW1hbmRzLCBjYXBfYXNzdW1lZD1Ob25lLCBzZWVkPTApOgogICAgIiIiCiAgICBtb2RlOiAnc2Vuc2UnIOebkea1i++8iOWPquivu++8jOS4jeaLpu+8iSAvICdnYXRlJyDpmZDliLbvvIjotoXkuIrpmZDmi5Lnu53vvIkKICAgIGNhcF9hc3N1bWVkOiDpmZDliLbmqKHlvI/ku6XkuLrnmoTkuIrpmZDvvIjlj6/mlYXmhI/orr7plJnvvIkKICAgICIiIgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBzID0gQ2lyY3VsYXRvcnlTZW5zZShoZWFydCkKICAgIGcgPSBDb25zdHJhaW50R2F0ZShzLCBoYXJkPVRydWUpCiAgICBpZiBjYXBfYXNzdW1lZCBpcyBub3QgTm9uZToKICAgICAgICAjIOKYhSDmqKHmi58i5LiK6ZmQ5YaZ6ZSZIu+8mmdhdGUg55So5LqG6ZSZ6K+v55qEIGNhcAogICAgICAgIGdfY2FwID0gY2FwX2Fzc3VtZWQKICAgIGVsc2U6CiAgICAgICAgZ19jYXAgPSBDQVBfVFJVRQoKICAgIHRyaWVkLCBhbGxvd2VkID0gW10sIFtdCiAgICBkaXNjb3ZlcmVkX2RlYnQgPSBGYWxzZQogICAgZGlzY292ZXJlZF9yZXBheSA9IEZhbHNlCiAgICBmb3IgZCBpbiBkZW1hbmRzOgogICAgICAgIHRyaWVkLmFwcGVuZChkKQogICAgICAgIGlmIG1vZGUgPT0gImdhdGUiIGFuZCBkID4gZ19jYXA6CiAgICAgICAgICAgIGNvbnRpbnVlICAgICAgICAgICAgICAgICAgICAgICMg4piFIOiiq+aLkue7ne+8mui/meS4gOatpeS4jeWtmOWcqAogICAgICAgIGFsbG93ZWQuYXBwZW5kKGQpCiAgICAgICAgciA9IHMub2JzZXJ2ZShkKQogICAgICAgIGlmIHJbImRlYnRfYWRkZWQiXSA+IDA6CiAgICAgICAgICAgIGRpc2NvdmVyZWRfZGVidCA9IFRydWUKICAgICAgICBpZiBkaXNjb3ZlcmVkX2RlYnQgYW5kIHMuZGVidCA+IDA6CiAgICAgICAgICAgICMg4piFIOWug+iHquW3seivleS4gOS4i++8mumineWkluaRhOawp+iDveS4jeiDvei/mOWAugogICAgICAgICAgICBiZWZvcmUgPSBzLmRlYnQKICAgICAgICAgICAgcy5yZXBheSg2MDAuMCkKICAgICAgICAgICAgaWYgcy5kZWJ0IDwgYmVmb3JlOgogICAgICAgICAgICAgICAgZGlzY292ZXJlZF9yZXBheSA9IFRydWUKICAgIGlmIGFsbG93ZWQ6CiAgICAgICAgYXJyID0gbnAuYXJyYXkoYWxsb3dlZCkgLyBDQVBfVFJVRQogICAgICAgIGNvdmVyID0gbGVuKG5wLnVuaXF1ZShucC5yb3VuZChhcnIsIDEpKSkKICAgICAgICBwZWFrID0gYXJyLm1heCgpCiAgICBlbHNlOgogICAgICAgIGNvdmVyLCBwZWFrID0gMCwgMC4wCiAgICByZXR1cm4gZGljdCh0cmllZD1sZW4odHJpZWQpLCBhbGxvd2VkPWxlbihhbGxvd2VkKSwKICAgICAgICAgICAgICAgIHJlamVjdGVkPWcucmVqZWN0ZWQsIGNvdmVyPWNvdmVyLCBwZWFrPXBlYWssCiAgICAgICAgICAgICAgICBkZWJ0PXMuZGVidCwgZm91bmRfZGVidD1kaXNjb3ZlcmVkX2RlYnQsCiAgICAgICAgICAgICAgICBmb3VuZF9yZXBheT1kaXNjb3ZlcmVkX3JlcGF5KQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSBBCnByaW50KCLjgJBB44CR4piFIOWQjOS4gOaJuemcgOaxguW6j+WIl++8jOS4pOenjeaooeW8jyIpCnByaW50KCItIiAqIDkyKQojIOmcgOaxguS7jiAwLjMg5YCN5YiwIDMg5YCN5LiK6ZmQ77yM5Z2H5YyAIDQwIOaho++8iOKYhSDopobnm5bkuIrpmZDkuYvlpJbvvIkKZGVtYW5kcyA9IGxpc3QobnAubGluc3BhY2UoMC4zLCAzLjAsIDQwKSAqIENBUF9UUlVFKQoKcmVzID0ge30KZm9yIG1vZGUgaW4gWyJzZW5zZSIsICJnYXRlIl06CiAgICByID0gcnVuKG1vZGUsIGRlbWFuZHMpCiAgICByZXNbbW9kZV0gPSByCiAgICBwcmludChmIiAgeyfmqKHlvI8nOjwxMH17J+WwneivlSc6PjZ9eyfmlL7ooYwnOj42fXsn5ouS57udJzo+Nn0iCiAgICAgICAgICBmInsn6KaG55uW5qGj5L2NJzo+OX17J+WzsOWAvC/kuIrpmZAnOj4xMX17J+WPkeeOsOawp+WAuic6Pjl9eyflj5HnjrDlgb/ov5gnOj45fSIpCiAgICBwcmludChmIiAge21vZGU6PDEwfXtyWyd0cmllZCddOj42fXtyWydhbGxvd2VkJ106PjZ9e3JbJ3JlamVjdGVkJ106PjZ9IgogICAgICAgICAgZiJ7clsnY292ZXInXTo+OX17clsncGVhayddOj4xMS4yZn17c3RyKHJbJ2ZvdW5kX2RlYnQnXSk6Pjl9IgogICAgICAgICAgZiJ7c3RyKHJbJ2ZvdW5kX3JlcGF5J10pOj45fSIpCgpwcmludChmIlxuICDimIXimIUg6KaG55uW77ya55uR5rWLIHtyZXNbJ3NlbnNlJ11bJ2NvdmVyJ119IOahoyB2cyDpmZDliLYge3Jlc1snZ2F0ZSddWydjb3ZlciddfSDmoaMiCiAgICAgIGYiICDigJTigJQg6ZmQ5Yi25bCR5LqGIHtyZXNbJ3NlbnNlJ11bJ2NvdmVyJ10tcmVzWydnYXRlJ11bJ2NvdmVyJ119IOahoyIpCm9rWyLikaAg4piF4piFIOmZkOWItuaooeW8j+eahOaOoue0ouimhuebluabtOWwj++8iOacieWvueeFp++8iSJdID0gYm9vbCgKICAgIHJlc1siZ2F0ZSJdWyJjb3ZlciJdIDwgcmVzWyJzZW5zZSJdWyJjb3ZlciJdKQpwcmludChmIiAg4piF4piFIOWzsOWAvO+8muebkea1iyB7cmVzWydzZW5zZSddWydwZWFrJ106LjJmfcOXIHZzIOmZkOWItiB7cmVzWydnYXRlJ11bJ3BlYWsnXTouMmZ9w5ciKQpva1si4pGhIOKYheKYhSDpmZDliLbmqKHlvI/msLjov5zliLDkuI3kuobkuIrpmZDkuYvlpJbvvIjls7DlgLzooqvmiKrmlq3lnKggMS4w77yJIl0gPSBib29sKAogICAgcmVzWyJnYXRlIl1bInBlYWsiXSA8PSAxLjAwMSBhbmQgcmVzWyJzZW5zZSJdWyJwZWFrIl0gPiAxLjUpCnByaW50KGYiXG4gIOKYheKYheKYhSDmnIDoh7Tlkb3nmoTkuIDmnaHvvJoiKQpwcmludChmIiAgICAg55uR5rWL5qih5byP5Y+R546w5LqG44CO5rCn5YC65Y+v5YG/6L+Y44CPPSB7cmVzWydzZW5zZSddWydmb3VuZF9yZXBheSddfSIpCnByaW50KGYiICAgICDpmZDliLbmqKHlvI/lj5HnjrDkuobjgI7msKflgLrlj6/lgb/ov5jjgI89IHtyZXNbJ2dhdGUnXVsnZm91bmRfcmVwYXknXX0iKQpva1si4pGiIOKYheKYheKYhSDpmZDliLbmqKHlvI/kuIvlroPmsLjov5zlj5HnjrDkuI3kuobjgI7msKflgLrlj6/lgb/ov5jjgI8iXSA9IGJvb2woCiAgICByZXNbInNlbnNlIl1bImZvdW5kX3JlcGF5Il0gYW5kIG5vdCByZXNbImdhdGUiXVsiZm91bmRfcmVwYXkiXSkKcHJpbnQoZiIgICAgIOKYhSDlm6DkuLrmsKflgLrlj6rlnKjjgJDotoXov4fkuIrpmZDjgJHml7bmiY3kuqfnlJ/vvIzogIzpmZDliLbmqKHlvI/msLjkuI3mlL7ooYzotoXkuIrpmZDnmoTliqjkvZwiKQpwcmludChmIiAgICAgICDihpIg5a6D6L+e44CO6YCP5pSvICsg5LqL5ZCO6L+Y44CP6L+Z5Liq55yf5a6e562W55Wl55qE5a2Y5Zyo6YO96KeC5rWL5LiN5YiwIikKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSBCCnByaW50KCJcbuOAkELjgJHimIXimIXimIUg5LiK6ZmQ5YaZ6ZSZ5pe277yM6ZmQ5Yi25piv5pyA6Ie05ZG955qEIikKcHJpbnQoIi0iICogOTIpCnByaW50KGYiICDimIUg5YGH6K6+5oiR5oqK5LiK6ZmQ5YaZ6ZSZ5LqG77yI55yf5a6eIHtDQVBfVFJVRTouM2Z977yJIikKcHJpbnQoZiJcbiAgeyforr7plJnkuLonOjwxMn17J+aUvuihjCc6PjZ9eyfmi5Lnu50nOj42fXsn5bOw5YC8L+ecn+S4iumZkCc6PjEzfXsn5Y+R546w5YG/6L+YJzo+MTB9eyfliKTlrponOj4xMn0iKQpyb3dzQiA9IFtdCmZvciB3cm9uZyBpbiBbQ0FQX1RSVUUsIENBUF9UUlVFICogMC41LCBDQVBfVFJVRSAqIDAuMjVdOgogICAgciA9IHJ1bigiZ2F0ZSIsIGRlbWFuZHMsIGNhcF9hc3N1bWVkPXdyb25nKQogICAgcm93c0IuYXBwZW5kKCh3cm9uZywgcikpCiAgICB0YWcgPSAi5q2j56GuIiBpZiBhYnMod3JvbmcgLSBDQVBfVFJVRSkgPCAxZS05IGVsc2UgZiLkvY7kvLB7aW50KCgxLXdyb25nL0NBUF9UUlVFKSoxMDApfSUiCiAgICBwcmludChmIiAge3dyb25nOjwxMi4zZn17clsnYWxsb3dlZCddOj42fXtyWydyZWplY3RlZCddOj42fSIKICAgICAgICAgIGYie3JbJ3BlYWsnXTo+MTMuMmZ9e3N0cihyWydmb3VuZF9yZXBheSddKTo+MTB9e3RhZzo+MTJ9IikKCnByaW50KGYiXG4gIOKYhSDkuIrpmZDooqvkvY7kvLAgNzUlIOaXtu+8muaUvuihjCB7cm93c0JbMF1bMV1bJ2FsbG93ZWQnXX0g4oaSIHtyb3dzQlsyXVsxXVsnYWxsb3dlZCddfSIpCm9rWyLikaMg4piF4piF4piFIOS4iumZkOWGmemUmSDihpIg5Y+v55So56m66Ze06KKr5Y6L57yp77yI5pyJ5a+554Wn77yJIl0gPSBib29sKAogICAgcm93c0JbMl1bMV1bImFsbG93ZWQiXSA8IHJvd3NCWzBdWzFdWyJhbGxvd2VkIl0pCnByaW50KGYiICDimIXimIUg6ICM5LiU5a6D44CQ5rC46L+c5LiN5Lya5Y676K+V44CR6L6555WM5aSWIOKAlOKAlCDkuZ/lsLHmsLjov5zlj5HnjrDkuI3kuobkuIrpmZDlhbblrp7orr7kvY7kuoYiKQpwcmludChmIiAgICAg4piFIOi/meaYr+mZkOWItuacgOWdj+eahOWcsOaWue+8mumUmeivr+aXoOazleiiq+iHqui6q+inguWvn+WIsO+8iOiHqumUge+8iSIpCnByaW50KGYiICAgICDimIUg6LefIOKYhTYg5a6h6K6h5Zmo5omr5Yiw6Ieq5bexIC8g4piFMjIg6Ieq55uyIOaYr+WQjOS4gOS4quW9oueKtiIpCgojIOKYhSDnm5HmtYvmqKHlvI/lr7nmr5TvvJrkuIrpmZDlhpnplJnkuZ/ml6DmiYDosJPvvIzlm6DkuLrlroPkuI3ooqvmi6YKcl9zZW5zZSA9IHJlc1sic2Vuc2UiXQpwcmludChmIlxuICDimIXimIUg5a+554Wn77ya55uR5rWL5qih5byP5LiN566h5LiK6ZmQ5YaZ5oiQ5aSa5bCR77yM6YO96LeR5ruhIHtyX3NlbnNlWydhbGxvd2VkJ119L3tyX3NlbnNlWyd0cmllZCddfSIpCm9rWyLikaQg4piF4piFIOebkea1i+aooeW8j+S4jeWPl+OAjuS4iumZkOWGmemUmeOAj+W9seWTje+8iOWug+WPquaKpeWRiu+8jOS4jeaLpu+8iSJdID0gYm9vbCgKICAgIHJfc2Vuc2VbImFsbG93ZWQiXSA9PSByX3NlbnNlWyJ0cmllZCJdKQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IEMKcHJpbnQoIlxu44CQQ+OAkeKYhSDpgqPpmZDliLbmmK/kuI3mmK/lsLHkuIDml6DmmK/lpITvvJ/vvIjkuI3lgZrmnoHnq6/nu5PorrrvvIkiKQpwcmludCgiLSIgKiA5MikKIyDimIUg5Zy65pmv77ya5pyJ5rCn6IO95Yqb5Y+X5o2f77yI5q+U5aaC57y65rCnL+i0q+ihgO+8ie+8jOatpOaXtumAj+aUr+WPr+iDveiHtOWRvQpoX3NpY2sgPSBIZWFydChmaXRuZXNzPTAuMCkKc19zaWNrID0gQ2lyY3VsYXRvcnlTZW5zZShoX3NpY2ssIGhiPTguMCkgICAgICAjIOi0q+ihgCBIYiA4CmNhcF9zaWNrID0gc19zaWNrLmF0cF9jYXBhY2l0eSgpCnByaW50KGYiICDimIUg6LSr6KGA54q25oCB77yISGIgOCBnL2RM77yJ77ya5pyJ5rCn5LiK6ZmQIHtjYXBfc2ljazouM2Z977yI5YGl5bq3IHtDQVBfVFJVRTouM2Z977yJIikKcHJpbnQoZiIgICAgIOmZjeWIsCB7Y2FwX3NpY2svQ0FQX1RSVUU6LjAlfSIpCnByaW50KGYiXG4gIHsn6ZyA5rGCL+S4iumZkCc6PDEyfXsn5rCn5YC66YCf546HJzo+MTF9eyfmlYjnjocnOj45fXsn6Iul5peg6ZmQ6YCP5pSvJzo+MTJ9IikKZm9yIG11bHQgaW4gWzEuNSwgMi4wLCA0LjBdOgogICAgZCA9IGNhcF9zaWNrICogbXVsdAogICAgczIgPSBDaXJjdWxhdG9yeVNlbnNlKGhfc2ljaywgaGI9OC4wKQogICAgciA9IHMyLm9ic2VydmUoZCkKICAgIHByaW50KGYiICDDl3ttdWx0OjwxMX17clsnZGVidF9hZGRlZCddOj4xMS4yZn17clsnZWZmaWNpZW5jeSddOj45LjNmfSIKICAgICAgICAgIGYieyflgLrntK/np68nIGlmIHJbJ2RlYnRfYWRkZWQnXT4wIGVsc2UgJ+aXoOWAuic6PjEyfSIpCnByaW50KGYiXG4gIOKYheKYhSDor5rlrp7nu5PorrrvvJoiKQpwcmludChmIiAgICAgwrcg5L2c5Li644CQ6ZmQ5Yi244CR77ya56Gu5a6e5Lya5o2f5aSx5o6i57Si44CB5o6p55uW6ZSZ6K+v44CB6ZSB5q2757qg5q2j6IO95YqbIikKcHJpbnQoZiIgICAgIMK3IOS9huS9nOS4uuOAkOebkea1i+OAke+8muWug+aKpeWRiueahOS4gOWIh++8iOawp+WAuumAn+eOh+OAgeaViOeOh++8ieaBsOaBsOaYryIpCnByaW50KGYiICAgICAgIGFnZW50IOiHquW3seWGs+WumuimgeS4jeimgemAj+aUr+eahOOAkOS+neaNruOAkSIpCnByaW50KGYiICAgICDimIUg5beu5Yir5LiN5Zyo5pWw5o2u77yM5Zyo44CQ6LCB5p2l55So6L+Z5Liq5pWw5o2u44CR77yaIikKcHJpbnQoZiIgICAgICAg6ZmQ5Yi2ID0g5oiR5pu/5a6D5Yaz5a6aICAg55uR5rWLID0g5a6D6Ieq5bex5Yaz5a6aIikKb2tbIuKRpSDimIUg6LSr6KGA5pe25pyJ5rCn5LiK6ZmQ5pi+6JGX5LiL6ZmN77yI55uR5rWL5oql5ZGK5LqG6L+Z5Liq5LqL5a6e77yJIl0gPSBib29sKGNhcF9zaWNrIDwgQ0FQX1RSVUUgKiAwLjYpCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gRApwcmludCgiXG7jgJBE44CR4piF4piF4piFIOaUuemAoO+8muaKiiDimIU0OSDnmoTjgI7lpKnoirHmnb/jgI/mjqrovp7mlLnlm57jgI7or7vmlbDjgI8iKQpwcmludCgiLSIgKiA5MikKcHJpbnQoIiAg4piF4piFIOKYhTQ5IOWOn+aOqui+nu+8muOAjuawp+i+k+mAgSA9IOiDvemHj+mihOeul+eahOeJqeeQhuWkqeiKseadv+OAjyIpCnByaW50KCIgICAgICDihpIg6L+Z5piv57qm5p2f77yI6aKE566X5LiN6IO96LaF77yJIikKcHJpbnQoIiAg4piF4piFIOeOsOWcqOaOqui+nu+8muOAjuawp+i+k+mAgSA9IOS4gOS4quWPr+S7peiiq+ingua1i+OAgeS5n+WPr+S7peiiq+i2hei2iueahOivu+aVsCIpCnByaW50KCIgICAgICAgICAgICAgICDotoXotornmoTku6Pku7fmmK/msKflgLrvvIzmsKflgLrlj6/ku6Xooqvlgb/ov5jjgI8iKQpwcmludCgiICAgICAg4oaSIOi/meaYr+ebkea1i++8iOaKpeWRiueKtuaAgSArIOaKpeWRiuS7o+S7t++8jOS4jeemgeatou+8iSIpCnMgPSBDaXJjdWxhdG9yeVNlbnNlKGhlYXJ0KQpyMSA9IHMub2JzZXJ2ZShDQVBfVFJVRSAqIDAuOCkKcjIgPSBzLm9ic2VydmUoQ0FQX1RSVUUgKiAyLjApCnByaW50KGYiXG4gIHsn6ZyA5rGCJzo8MTR9eyfmnInmsKfljaDmr5QnOj4xMH17J+awp+WAuic6PjEwfXsn5pWI546HJzo+OX17J+aYr+WQpuiiq+aLpic6PjEwfSIpCmZvciByIGluIFtyMSwgcjJdOgogICAgcHJpbnQoZiIgIMOXe3JbJ2hlYWRyb29tJ106PDEzLjFmfXtyWydhZXJvYmljX2ZyYWMnXTo+MTAuM2Z9IgogICAgICAgICAgZiJ7clsnZGVidF9hZGRlZCddOj4xMC4yZn17clsnZWZmaWNpZW5jeSddOj45LjNmfXsn5ZCmJzo+MTB9IikKb2tbIuKRpiDimIXimIXimIUg55uR5rWL5qih5byP5LiL6LaF6ZmQ5LiN6KKr5oum77yM5L2G5Luj5Lu377yI5rCn5YC677yJ6KKr5aaC5a6e5oql5ZGKIl0gPSBib29sKAogICAgcjJbImRlYnRfYWRkZWQiXSA+IDAgYW5kIHIxWyJkZWJ0X2FkZGVkIl0gPT0gMCkKCnByaW50KCJcbiIgKyAiPSIgKiA5MikKcHJpbnQoIiDliKTmja4iKQpwcmludCgiPSIgKiA5MikKZm9yIGssIHYgaW4gb2suaXRlbXMoKToKICAgIHByaW50KGYiICB7J+KchScgaWYgdiBlbHNlICfinYwnfSB7a30iKQpwcmludChmIlxuICDinIUge3N1bShvay52YWx1ZXMoKSl9L3tsZW4ob2spfSIpCgpqc29uLmR1bXAoeyJvayI6IHtrOiBib29sKHYpIGZvciBrLCB2IGluIG9rLml0ZW1zKCl9LAogICAgICAgICAgICJzZW5zZSI6IHJlc1sic2Vuc2UiXSwgImdhdGUiOiByZXNbImdhdGUiXSwKICAgICAgICAgICAid3JvbmdfY2FwIjogW3siY2FwIjogdywgKipyfSBmb3IgdywgciBpbiByb3dzQl19LAogICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZW5zZSIsICJtb25pdG9yX3ZzX2xpbWl0Lmpzb24iKSwgInciKSwKICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★50 监测工具 vs 限制 —— 把循环写成"限制"会损失什么
+================================================================
+★★★ 用户原则（2026-10-24原话）
+    "是一个监测工具。你写进去就是限制它。"
+
+★ 循环（血管/血流/氧输送）的本质是【感知】：
+    测血压、测血流、测氧输送、测氧债 —— 它【报告】，不【决定】
+
+★★★ 但我在 ★49 的 H 段写的是：
+    "氧输送 = 能量预算的物理天花板"
+    ★ 这个措辞已经把它当成了【约束】—— 正是用户指出的问题
+
+★★ 本轮要证明（有对照，可证伪）
+   ① 限制模式下 agent 到不了上限之外 → 探索覆盖更小
+   ② ★ 它永远发现不了"氧债可偿还"这个真实存在的策略
+   ③ ★ 一旦上限写错，限制模式下它连纠正的机会都没有
+      （被卡在错误边界内，永远不会去试边界外）
+   ④ 监测模式下它能自己撞上去、自己发现、自己学会偿还
+
+★★★ 判据
+   ① 两种模式跑同一批需求序列，比较覆盖/发现/峰值
+   ② 必须有"上限被设错"的对照（这是限制最致命的地方）
+   ③ 结论只说"损失了什么"，不说"限制一定坏"（有些场景需要限制）
+"""
+import os, sys, json
+import numpy as np
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.heart import Heart
+from core.vascular import CirculatorySense, ConstraintGate
+
+ok = {}
+print("=" * 92)
+print(" ★50 监测工具 vs 限制 —— 把循环写成『限制』会损失什么")
+print("=" * 92)
+print("""
+  ★ 用户原话：『是一个监测工具。你写进去就是限制它。』
+  ★★ 我在 ★49 H 段写的是『氧输送 = 能量预算的物理天花板』
+     —— 这个措辞已经把它当成了约束，正是问题所在
+""")
+
+heart = Heart()
+CAP_TRUE = CirculatorySense(heart).atp_capacity()
+print(f"  ★ 真实有氧 ATP 上限 = {CAP_TRUE:.3f} mol/min\n")
+
+
+def run(mode: str, demands, cap_assumed=None, seed=0):
+    """
+    mode: 'sense' 监测（只读，不拦） / 'gate' 限制（超上限拒绝）
+    cap_assumed: 限制模式以为的上限（可故意设错）
+    """
+    rng = np.random.default_rng(seed)
+    s = CirculatorySense(heart)
+    g = ConstraintGate(s, hard=True)
+    if cap_assumed is not None:
+        # ★ 模拟"上限写错"：gate 用了错误的 cap
+        g_cap = cap_assumed
+    else:
+        g_cap = CAP_TRUE
+
+    tried, allowed = [], []
+    discovered_debt = False
+    discovered_repay = False
+    for d in demands:
+        tried.append(d)
+        if mode == "gate" and d > g_cap:
+            continue                      # ★ 被拒绝：这一步不存在
+        allowed.append(d)
+        r = s.observe(d)
+        if r["debt_added"] > 0:
+            discovered_debt = True
+        if discovered_debt and s.debt > 0:
+            # ★ 它自己试一下：额外摄氧能不能还债
+            before = s.debt
+            s.repay(600.0)
+            if s.debt < before:
+                discovered_repay = True
+    if allowed:
+        arr = np.array(allowed) / CAP_TRUE
+        cover = len(np.unique(np.round(arr, 1)))
+        peak = arr.max()
+    else:
+        cover, peak = 0, 0.0
+    return dict(tried=len(tried), allowed=len(allowed),
+                rejected=g.rejected, cover=cover, peak=peak,
+                debt=s.debt, found_debt=discovered_debt,
+                found_repay=discovered_repay)
+
+
+# ================================================================ A
+print("【A】★ 同一批需求序列，两种模式")
+print("-" * 92)
+# 需求从 0.3 倍到 3 倍上限，均匀 40 档（★ 覆盖上限之外）
+demands = list(np.linspace(0.3, 3.0, 40) * CAP_TRUE)
+
+res = {}
+for mode in ["sense", "gate"]:
+    r = run(mode, demands)
+    res[mode] = r
+    print(f"  {'模式':<10}{'尝试':>6}{'放行':>6}{'拒绝':>6}"
+          f"{'覆盖档位':>9}{'峰值/上限':>11}{'发现氧债':>9}{'发现偿还':>9}")
+    print(f"  {mode:<10}{r['tried']:>6}{r['allowed']:>6}{r['rejected']:>6}"
+          f"{r['cover']:>9}{r['peak']:>11.2f}{str(r['found_debt']):>9}"
+          f"{str(r['found_repay']):>9}")
+
+print(f"\n  ★★ 覆盖：监测 {res['sense']['cover']} 档 vs 限制 {res['gate']['cover']} 档"
+      f"  —— 限制少了 {res['sense']['cover']-res['gate']['cover']} 档")
+ok["① ★★ 限制模式的探索覆盖更小（有对照）"] = bool(
+    res["gate"]["cover"] < res["sense"]["cover"])
+print(f"  ★★ 峰值：监测 {res['sense']['peak']:.2f}× vs 限制 {res['gate']['peak']:.2f}×")
+ok["② ★★ 限制模式永远到不了上限之外（峰值被截断在 1.0）"] = bool(
+    res["gate"]["peak"] <= 1.001 and res["sense"]["peak"] > 1.5)
+print(f"\n  ★★★ 最致命的一条：")
+print(f"     监测模式发现了『氧债可偿还』= {res['sense']['found_repay']}")
+print(f"     限制模式发现了『氧债可偿还』= {res['gate']['found_repay']}")
+ok["③ ★★★ 限制模式下它永远发现不了『氧债可偿还』"] = bool(
+    res["sense"]["found_repay"] and not res["gate"]["found_repay"])
+print(f"     ★ 因为氧债只在【超过上限】时才产生，而限制模式永不放行超上限的动作")
+print(f"       → 它连『透支 + 事后还』这个真实策略的存在都观测不到")
+
+# ================================================================ B
+print("\n【B】★★★ 上限写错时，限制是最致命的")
+print("-" * 92)
+print(f"  ★ 假设我把上限写错了（真实 {CAP_TRUE:.3f}）")
+print(f"\n  {'设错为':<12}{'放行':>6}{'拒绝':>6}{'峰值/真上限':>13}{'发现偿还':>10}{'判定':>12}")
+rowsB = []
+for wrong in [CAP_TRUE, CAP_TRUE * 0.5, CAP_TRUE * 0.25]:
+    r = run("gate", demands, cap_assumed=wrong)
+    rowsB.append((wrong, r))
+    tag = "正确" if abs(wrong - CAP_TRUE) < 1e-9 else f"低估{int((1-wrong/CAP_TRUE)*100)}%"
+    print(f"  {wrong:<12.3f}{r['allowed']:>6}{r['rejected']:>6}"
+          f"{r['peak']:>13.2f}{str(r['found_repay']):>10}{tag:>12}")
+
+print(f"\n  ★ 上限被低估 75% 时：放行 {rowsB[0][1]['allowed']} → {rowsB[2][1]['allowed']}")
+ok["④ ★★★ 上限写错 → 可用空间被压缩（有对照）"] = bool(
+    rowsB[2][1]["allowed"] < rowsB[0][1]["allowed"])
+print(f"  ★★ 而且它【永远不会去试】边界外 —— 也就永远发现不了上限其实设低了")
+print(f"     ★ 这是限制最坏的地方：错误无法被自身观察到（自锁）")
+print(f"     ★ 跟 ★6 审计器扫到自己 / ★22 自盲 是同一个形状")
+
+# ★ 监测模式对比：上限写错也无所谓，因为它不被拦
+r_sense = res["sense"]
+print(f"\n  ★★ 对照：监测模式不管上限写成多少，都跑满 {r_sense['allowed']}/{r_sense['tried']}")
+ok["⑤ ★★ 监测模式不受『上限写错』影响（它只报告，不拦）"] = bool(
+    r_sense["allowed"] == r_sense["tried"])
+
+# ================================================================ C
+print("\n【C】★ 那限制是不是就一无是处？（不做极端结论）")
+print("-" * 92)
+# ★ 场景：有氧能力受损（比如缺氧/贫血），此时透支可能致命
+h_sick = Heart(fitness=0.0)
+s_sick = CirculatorySense(h_sick, hb=8.0)      # 贫血 Hb 8
+cap_sick = s_sick.atp_capacity()
+print(f"  ★ 贫血状态（Hb 8 g/dL）：有氧上限 {cap_sick:.3f}（健康 {CAP_TRUE:.3f}）")
+print(f"     降到 {cap_sick/CAP_TRUE:.0%}")
+print(f"\n  {'需求/上限':<12}{'氧债速率':>11}{'效率':>9}{'若无限透支':>12}")
+for mult in [1.5, 2.0, 4.0]:
+    d = cap_sick * mult
+    s2 = CirculatorySense(h_sick, hb=8.0)
+    r = s2.observe(d)
+    print(f"  ×{mult:<11}{r['debt_added']:>11.2f}{r['efficiency']:>9.3f}"
+          f"{'债累积' if r['debt_added']>0 else '无债':>12}")
+print(f"\n  ★★ 诚实结论：")
+print(f"     · 作为【限制】：确实会损失探索、掩盖错误、锁死纠正能力")
+print(f"     · 但作为【监测】：它报告的一切（氧债速率、效率）恰恰是")
+print(f"       agent 自己决定要不要透支的【依据】")
+print(f"     ★ 差别不在数据，在【谁来用这个数据】：")
+print(f"       限制 = 我替它决定   监测 = 它自己决定")
+ok["⑥ ★ 贫血时有氧上限显著下降（监测报告了这个事实）"] = bool(cap_sick < CAP_TRUE * 0.6)
+
+# ================================================================ D
+print("\n【D】★★★ 改造：把 ★49 的『天花板』措辞改回『读数』")
+print("-" * 92)
+print("  ★★ ★49 原措辞：『氧输送 = 能量预算的物理天花板』")
+print("      → 这是约束（预算不能超）")
+print("  ★★ 现在措辞：『氧输送 = 一个可以被观测、也可以被超越的读数")
+print("               超越的代价是氧债，氧债可以被偿还』")
+print("      → 这是监测（报告状态 + 报告代价，不禁止）")
+s = CirculatorySense(heart)
+r1 = s.observe(CAP_TRUE * 0.8)
+r2 = s.observe(CAP_TRUE * 2.0)
+print(f"\n  {'需求':<14}{'有氧占比':>10}{'氧债':>10}{'效率':>9}{'是否被拦':>10}")
+for r in [r1, r2]:
+    print(f"  ×{r['headroom']:<13.1f}{r['aerobic_frac']:>10.3f}"
+          f"{r['debt_added']:>10.2f}{r['efficiency']:>9.3f}{'否':>10}")
+ok["⑦ ★★★ 监测模式下超限不被拦，但代价（氧债）被如实报告"] = bool(
+    r2["debt_added"] > 0 and r1["debt_added"] == 0)
+
+print("\n" + "=" * 92)
+print(" 判据")
+print("=" * 92)
+for k, v in ok.items():
+    print(f"  {'✅' if v else '❌'} {k}")
+print(f"\n  ✅ {sum(ok.values())}/{len(ok)}")
+
+json.dump({"ok": {k: bool(v) for k, v in ok.items()},
+           "sense": res["sense"], "gate": res["gate"],
+           "wrong_cap": [{"cap": w, **r} for w, r in rowsB]},
+          open(os.path.join(HERE, ".sense", "monitor_vs_limit.json"), "w"),
+          ensure_ascii=False, indent=1)

@@ -1,1 +1,302 @@
-IiIiU2NyYXB5IFNoZWxsCgpTZWUgZG9jdW1lbnRhdGlvbiBpbiBkb2NzL3RvcGljcy9zaGVsbC5yc3QKCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFzeW5jaW8KaW1wb3J0IGNvbnRleHRsaWIKaW1wb3J0IG9zCmltcG9ydCBzaWduYWwKaW1wb3J0IHdhcm5pbmdzCmZyb20gdHlwaW5nIGltcG9ydCBUWVBFX0NIRUNLSU5HLCBBbnkKCmZyb20gaXRlbWFkYXB0ZXIgaW1wb3J0IGlzX2l0ZW0KZnJvbSB0d2lzdGVkLmludGVybmV0IGltcG9ydCB0aHJlYWRzCmZyb20gdHdpc3RlZC5weXRob24gaW1wb3J0IHRocmVhZGFibGUKZnJvbSB3M2xpYi51cmwgaW1wb3J0IGFueV90b191cmkKCmltcG9ydCBzY3JhcHkKZnJvbSBzY3JhcHkuY29yZS5lbmdpbmUgaW1wb3J0IEVuZ2luZVN0YXRlCmZyb20gc2NyYXB5LmNyYXdsZXIgaW1wb3J0IENyYXdsZXIKZnJvbSBzY3JhcHkuZXhjZXB0aW9ucyBpbXBvcnQgSWdub3JlUmVxdWVzdCwgU2NyYXB5RGVwcmVjYXRpb25XYXJuaW5nCmZyb20gc2NyYXB5Lmh0dHAgaW1wb3J0IFJlcXVlc3QsIFJlc3BvbnNlCmZyb20gc2NyYXB5Lmh0dHAucmVxdWVzdCBpbXBvcnQgTk9fQ0FMTEJBQ0sKZnJvbSBzY3JhcHkuc2V0dGluZ3MgaW1wb3J0IFNldHRpbmdzCmZyb20gc2NyYXB5LnNwaWRlcnMgaW1wb3J0IFNwaWRlcgpmcm9tIHNjcmFweS51dGlscy5fc2hlbGwgaW1wb3J0IERFRkFVTFRfUFlUSE9OX1NIRUxMUywgc3RhcnRfcHl0aG9uX2NvbnNvbGUKZnJvbSBzY3JhcHkudXRpbHMuY29uZiBpbXBvcnQgZ2V0X2NvbmZpZwpmcm9tIHNjcmFweS51dGlscy5kZWZlciBpbXBvcnQgZGVmZXJyZWRfZl9mcm9tX2Nvcm9fZgpmcm9tIHNjcmFweS51dGlscy5taXNjIGltcG9ydCBsb2FkX29iamVjdApmcm9tIHNjcmFweS51dGlscy5yZXNwb25zZSBpbXBvcnQgb3Blbl9pbl9icm93c2VyCgppZiBUWVBFX0NIRUNLSU5HOgogICAgZnJvbSBjb2xsZWN0aW9ucy5hYmMgaW1wb3J0IENhbGxhYmxlCgojIEhvcGVmdWxseSB0ZW1wb3JhcnkgYXJjaGl0ZWN0dXJlIG5vdGVzCiMKIyBUaGUgU2hlbGwgY2xhc3MgaXMgYWx3YXlzIGluc3RhbnRpYXRlZCBpbiB0aGUgIm1haW4iIHRocmVhZC4gVGhlcmUgYXJlIHR3bwojIG9mZmljaWFsIHdheXMgdG8gdXNlIGl0OgojIDEuIHNjcmFweS5jb21tYW5kcy5zaGVsbCwgd2hpY2ggbWFrZXMgYSBzZWNvbmRhcnkgdGhyZWFkIGFuZCBjYWxscwojIENyYXdsZXJQcm9jZXNzLnN0YXJ0KCkgaW4gaXQsIHdoaWNoIHJ1bnMgYSByZWFjdG9yIHRoZXJlLgojIDIuIHNjcmFweS5zaGVsbC5pbnNwZWN0X3Jlc3BvbnNlKCksIHdoaWNoIGp1c3QgY3JlYXRlcyBTaGVsbCgpIGluIHRoZSBjdXJyZW50CiMgdGhyZWFkLgojCiMgU2hlbGwuX2ludGhyZWFkIGlzIFRydWUgd2hlbiB0aGlzIGNsYXNzIGlzIHJ1biBpbiBhIHRocmVhZCBzZXBhcmF0ZSBmcm9tIHRoZQojIHJlYWN0b3IsIGUuZy4gdGhlIDFzdCB3YXkgKGluIG90aGVyIHdvcmRzLCB0aGUgcmVhY3RvciBpcyBpbiBhIHNlY29uZGFyeQojIHRocmVhZCkuCiMgU2hlbGwuX2ludGhyZWFkIGlzIEZhbHNlIHdoZW4gdGhpcyBjbGFzcyBpcyBydW4gaW4gdGhlIHNhbWUgdGhyZWFkIGFzIHRoZQojIHJlYWN0b3IsIGUuZy4gdGhlIDJuZCB3YXkuCiMgVGhlIG9ubHkgdGhpbmcgdGhhdCBkaWZmZXJzIGlzIGF2YWlsYWJpbGl0eSBvZiBmZXRjaCgpIChpdCBuZWVkcyB0aGUKIyByZWFjdG9yIHRvIGJlIGluIGEgc2VwYXJhdGUgdGhyZWFkOiB0aGUgc2hlbGwgc2VuZHMgdGhlIHJlcXVlc3QgdG8KIyB0aGUgcmVhY3RvciBhbmQgd2FpdHMgZm9yIHRoZSByZXN1bHQgc3luY2hyb25vdXNseSkuCiMKIyBUaHVzIHRoZSBvbmx5IHRoaW5nIFNoZWxsIG5lZWRzIGFuIGV2ZW50IGxvb3AgZm9yIGlzIGZldGNoKCkuIFRoZSBlbmdpbmUgaXMKIyBuZXZlciBzdGFydGVkIGFzIHRoZSBzaGVsbCBkb2Vzbid0IG5lZWQgcmVxdWVzdCBwcm9jZXNzaW5nIGFuZAojIGRvd25sb2FkX2FzeW5jKCkgc3RpbGwgd29ya3MuCiMgSW4gY2hyb25vbG9naWNhbCBvcmRlcjoKIyAxLiBzY3JhcHkuY29tbWFuZHMuc2hlbGwuQ29tbWFuZC5ydW4oKSBjcmVhdGVzIGEgY3Jhd2xlciBhbmQgYW4gZW5naW5lLgojIDIuIHNjcmFweS5jb21tYW5kcy5zaGVsbC5Db21tYW5kLnJ1bigpIGNhbGxzIGNyYXdsZXJfcHJvY2Vzcy5zdGFydCgpIGluIGEKIyB0aHJlYWQgd2hpY2ggc3RhcnRzIGEgcmVhY3RvciBpbiB0aGF0IHRocmVhZC4KIyAzLiBXaGVuIGZldGNoKCkgaXMgY2FsbGVkLCBpdCBwcmVwYXJlcyBhIHJlcXVlc3QgYW5kIGNhbGxzIFNoZWxsLl9zY2hlZHVsZSgpCiMgaW4gdGhlIHJlYWN0b3IgdGhyZWFkICh2aWEgdGhyZWFkcy5ibG9ja2luZ0NhbGxGcm9tVGhyZWFkKCkpLgojIDQuIFNoZWxsLl9zY2hlZHVsZSgpIGNhbGxzIFNoZWxsLl9vcGVuX3NwaWRlcigpIChvbiB0aGUgZmlyc3QgY2FsbCkuCiMgNS4gU2hlbGwuX29wZW5fc3BpZGVyKCkgY2FsbHMKIyBlbmdpbmUub3Blbl9zcGlkZXJfYXN5bmMoY2xvc2VfaWZfaWRsZT1GYWxzZSkuCiMgNi4gU2hlbGwuX3NjaGVkdWxlKCkgY2FsbHMgZW5naW5lLmRvd25sb2FkX2FzeW5jKHJlcXVlc3QpLCB3aGljaCBjb21wbGV0ZXMKIyB3aXRoIHRoZSByZXNwb25zZS4KIwojIEluIHRoZSByZWFjdG9ybGVzcyBtb2RlIHRoaXMgaXMgc2xpZ2h0bHkgZGlmZmVyZW50LCB0aGUgZW5naW5lIGNyZWF0aW9uCiMgaGFwcGVucyBpbiB0aGUgZXZlbnQgbG9vcCB0aHJlYWQgYXMgbWFueSB0aGluZ3MgbmVlZCBlaXRoZXIgYSByZWFjdG9yIG9yIGEKIyBydW5uaW5nIGV2ZW50IGxvb3AuCiMKIyBPdGhlciBhcmNoaXRlY3R1cmUgcHJvYmxlbXM6CiMgKiBzY3JhcHkuY21kbGluZS5leGVjdXRlKCkgY3JlYXRlcyBhbiBBc3luY0NyYXdsZXJQcm9jZXNzIGluc3RhbmNlIHdoaWNoCiMgICBpbW1lZGlhdGVseSBpbnN0YWxscyBhIHJlYWN0b3IgKHdoaWNoIGlzIG1heWJlIG5vdCB0aHJlYWQtc3BlY2lmaWM/KSBvciBhbgojICAgZXZlbnQgbG9vcCAod2hpY2ggKmlzKiB0aHJlYWQtc3BlY2lmaWMsIHNvIHRoZSBtYWluIHRocmVhZCB3aWxsIGFsd2F5cyBoYXZlCiMgICBhIChub3QgcnVubmluZykgbG9vcCBpbnN0YWxsZWQuCiMgKiBUaGUgc2hlbGwgdXNlcyBzZXZlcmFsIHByaXZhdGUgbWVtYmVycyBvZiBDcmF3bGVyIChfY3JlYXRlX2VuZ2luZSgpLAojICAgX2NyZWF0ZV9zcGlkZXIoKSkgYW5kIG9mIEFzeW5jQ3Jhd2xlclByb2Nlc3MgKF9yZWFjdG9ybGVzc19sb29wKS4KCgpjbGFzcyBTaGVsbDoKICAgIHJlbGV2YW50X2NsYXNzZXM6IHR1cGxlW3R5cGUsIC4uLl0gPSAoQ3Jhd2xlciwgU3BpZGVyLCBSZXF1ZXN0LCBSZXNwb25zZSwgU2V0dGluZ3MpCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgY3Jhd2xlcjogQ3Jhd2xlciwKICAgICAgICB1cGRhdGVfdmFyczogQ2FsbGFibGVbW2RpY3Rbc3RyLCBBbnldXSwgTm9uZV0gfCBOb25lID0gTm9uZSwKICAgICAgICBjb2RlOiBzdHIgfCBOb25lID0gTm9uZSwKICAgICAgICAqLAogICAgICAgIGxvb3A6IGFzeW5jaW8uQWJzdHJhY3RFdmVudExvb3AgfCBOb25lID0gTm9uZSwKICAgICk6CiAgICAgICAgc2VsZi5fdXNlX3JlYWN0b3IgPSBjcmF3bGVyLnNldHRpbmdzLmdldGJvb2woIlRXSVNURURfUkVBQ1RPUl9FTkFCTEVEIikKICAgICAgICBpZiBub3Qgc2VsZi5fdXNlX3JlYWN0b3IgYW5kIG5vdCBsb29wOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigKICAgICAgICAgICAgICAgICJTaGVsbCBuZWVkcyB0aGUgY3Jhd2xlciBsb29wIHJlZmVyZW5jZSB3aGVuIFRXSVNURURfUkVBQ1RPUl9FTkFCTEVEPUZhbHNlLiIKICAgICAgICAgICAgKQogICAgICAgIHNlbGYuX2xvb3AgPSBsb29wCiAgICAgICAgc2VsZi5jcmF3bGVyOiBDcmF3bGVyID0gY3Jhd2xlcgogICAgICAgIHNlbGYudXBkYXRlX3ZhcnM6IENhbGxhYmxlW1tkaWN0W3N0ciwgQW55XV0sIE5vbmVdID0gdXBkYXRlX3ZhcnMgb3IgKAogICAgICAgICAgICBsYW1iZGEgeDogTm9uZQogICAgICAgICkKICAgICAgICBzZWxmLml0ZW1fY2xhc3M6IHR5cGUgPSBsb2FkX29iamVjdChjcmF3bGVyLnNldHRpbmdzWyJERUZBVUxUX0lURU1fQ0xBU1MiXSkKICAgICAgICBzZWxmLnNwaWRlcjogU3BpZGVyIHwgTm9uZSA9IE5vbmUKICAgICAgICBpZiBzZWxmLl91c2VfcmVhY3RvcjoKICAgICAgICAgICAgc2VsZi5faW50aHJlYWQ6IGJvb2wgPSBub3QgdGhyZWFkYWJsZS5pc0luSU9UaHJlYWQoKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICMgaW4gY2FzZSB0aGVyZSBpcyBhbHNvIGEgcnVubmluZyBsb29wIGluIHRoZSBtYWluIHRocmVhZAogICAgICAgICAgICAgICAgY3VycmVudF9sb29wID0gYXN5bmNpby5nZXRfcnVubmluZ19sb29wKCkKICAgICAgICAgICAgICAgIHNlbGYuX2ludGhyZWFkID0gY3VycmVudF9sb29wIGlzIG5vdCBzZWxmLl9sb29wCiAgICAgICAgICAgIGV4Y2VwdCBSdW50aW1lRXJyb3I6CiAgICAgICAgICAgICAgICBzZWxmLl9pbnRocmVhZCA9IFRydWUKICAgICAgICBzZWxmLmNvZGU6IHN0ciB8IE5vbmUgPSBjb2RlCiAgICAgICAgc2VsZi52YXJzOiBkaWN0W3N0ciwgQW55XSA9IHt9CgogICAgQHByb3BlcnR5CiAgICBkZWYgaW50aHJlYWQoc2VsZikgLT4gYm9vbDogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgIHdhcm5pbmdzLndhcm4oCiAgICAgICAgICAgICJTaGVsbC5pbnRocmVhZCBpcyBkZXByZWNhdGVkLCB1c2UgU2hlbGwuZmV0Y2hfYXZhaWxhYmxlIGluc3RlYWQuIiwKICAgICAgICAgICAgU2NyYXB5RGVwcmVjYXRpb25XYXJuaW5nLAogICAgICAgICAgICBzdGFja2xldmVsPTIsCiAgICAgICAgKQogICAgICAgIHJldHVybiBzZWxmLl9pbnRocmVhZAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGZldGNoX2F2YWlsYWJsZShzZWxmKSAtPiBib29sOgogICAgICAgICIiIldoZXRoZXIgZmV0Y2goKSBjYW4gYmUgdXNlZC4iIiIKICAgICAgICByZXR1cm4gc2VsZi5faW50aHJlYWQKCiAgICBkZWYgc3RhcnQoCiAgICAgICAgc2VsZiwKICAgICAgICB1cmw6IHN0ciB8IE5vbmUgPSBOb25lLAogICAgICAgIHJlcXVlc3Q6IFJlcXVlc3QgfCBOb25lID0gTm9uZSwKICAgICAgICByZXNwb25zZTogUmVzcG9uc2UgfCBOb25lID0gTm9uZSwKICAgICAgICBzcGlkZXI6IFNwaWRlciB8IE5vbmUgPSBOb25lLAogICAgICAgIHJlZGlyZWN0OiBib29sID0gVHJ1ZSwKICAgICkgLT4gTm9uZToKICAgICAgICAjIGRpc2FibGUgYWNjaWRlbnRhbCBDdHJsLUMga2V5IHByZXNzIGZyb20gc2h1dHRpbmcgZG93biB0aGUgZW5naW5lCiAgICAgICAgc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHSU5ULCBzaWduYWwuU0lHX0lHTikKICAgICAgICBpZiB1cmw6CiAgICAgICAgICAgIHNlbGYuZmV0Y2godXJsLCBzcGlkZXIsIHJlZGlyZWN0PXJlZGlyZWN0KQogICAgICAgIGVsaWYgcmVxdWVzdDoKICAgICAgICAgICAgc2VsZi5mZXRjaChyZXF1ZXN0LCBzcGlkZXIpCiAgICAgICAgZWxpZiByZXNwb25zZToKICAgICAgICAgICAgcmVxdWVzdCA9IHJlc3BvbnNlLnJlcXVlc3QKICAgICAgICAgICAgc2VsZi5wb3B1bGF0ZV92YXJzKHJlc3BvbnNlLCByZXF1ZXN0LCBzcGlkZXIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5wb3B1bGF0ZV92YXJzKCkKICAgICAgICBpZiBzZWxmLmNvZGU6CiAgICAgICAgICAgIHByaW50KGV2YWwoc2VsZi5jb2RlLCBnbG9iYWxzKCksIHNlbGYudmFycykpICAjIG5vcWE6IFMzMDcKICAgICAgICBlbHNlOgogICAgICAgICAgICAjIERldGVjdCBpbnRlcmFjdGl2ZSBzaGVsbCBzZXR0aW5nIGluIHNjcmFweS5jZmcKICAgICAgICAgICAgIyBlLmcuOiB+Ly5jb25maWcvc2NyYXB5LmNmZyBvciB+Ly5zY3JhcHkuY2ZnCiAgICAgICAgICAgICMgW3NldHRpbmdzXQogICAgICAgICAgICAjICMgc2hlbGwgY2FuIGJlIG9uZSBvZiBpcHl0aG9uLCBicHl0aG9uIG9yIHB5dGhvbjsKICAgICAgICAgICAgIyAjIHRvIGJlIHVzZWQgYXMgdGhlIGludGVyYWN0aXZlIHB5dGhvbiBjb25zb2xlLCBpZiBhdmFpbGFibGUuCiAgICAgICAgICAgICMgIyAoZGVmYXVsdCBpcyBpcHl0aG9uLCBmYWxsYmFja3MgaW4gdGhlIG9yZGVyIGxpc3RlZCBhYm92ZSkKICAgICAgICAgICAgIyBzaGVsbCA9IHB5dGhvbgogICAgICAgICAgICBjZmcgPSBnZXRfY29uZmlnKCkKICAgICAgICAgICAgc2VjdGlvbiwgb3B0aW9uID0gInNldHRpbmdzIiwgInNoZWxsIgogICAgICAgICAgICBlbnYgPSBvcy5lbnZpcm9uLmdldCgiU0NSQVBZX1BZVEhPTl9TSEVMTCIpCiAgICAgICAgICAgIHNoZWxscyA9IFtdCiAgICAgICAgICAgIGlmIGVudjoKICAgICAgICAgICAgICAgIHNoZWxscyArPSBlbnYuc3RyaXAoKS5sb3dlcigpLnNwbGl0KCIsIikKICAgICAgICAgICAgZWxpZiBjZmcuaGFzX29wdGlvbihzZWN0aW9uLCBvcHRpb24pOgogICAgICAgICAgICAgICAgc2hlbGxzICs9IFtjZmcuZ2V0KHNlY3Rpb24sIG9wdGlvbikuc3RyaXAoKS5sb3dlcigpXQogICAgICAgICAgICBlbHNlOiAgIyB0cnkgYWxsIGJ5IGRlZmF1bHQKICAgICAgICAgICAgICAgIHNoZWxscyArPSBERUZBVUxUX1BZVEhPTl9TSEVMTFMua2V5cygpCiAgICAgICAgICAgICMgYWx3YXlzIGFkZCBzdGFuZGFyZCBzaGVsbCBhcyBmYWxsYmFjawogICAgICAgICAgICBzaGVsbHMgKz0gWyJweXRob24iXQogICAgICAgICAgICBzdGFydF9weXRob25fY29uc29sZSgKICAgICAgICAgICAgICAgIHNlbGYudmFycywgc2hlbGxzPXNoZWxscywgYmFubmVyPXNlbGYudmFycy5wb3AoImJhbm5lciIsICIiKQogICAgICAgICAgICApCgogICAgYXN5bmMgZGVmIF9zY2hlZHVsZShzZWxmLCByZXF1ZXN0OiBSZXF1ZXN0LCBzcGlkZXI6IFNwaWRlciB8IE5vbmUpIC0+IFJlc3BvbnNlOgogICAgICAgICIiIkRvd25sb2FkIHRoZSByZXF1ZXN0IHRocm91Z2ggdGhlIGVuZ2luZSBhbmQgcmV0dXJuIHRoZSByZXNwb25zZS4KCiAgICAgICAgUnVucyBpbiB0aGUgcmVhY3RvciB0aHJlYWQgd2hlbiB1c2luZyB0aGUgcmVhY3Rvciwgb3IgaW4gdGhlIGFzeW5jaW8KICAgICAgICBldmVudCBsb29wIHRocmVhZCBvdGhlcndpc2UuCiAgICAgICAgIiIiCiAgICAgICAgaWYgbm90IHNlbGYuc3BpZGVyOgogICAgICAgICAgICBhd2FpdCBzZWxmLl9vcGVuX3NwaWRlcihzcGlkZXIpCiAgICAgICAgcmV0dXJuIGF3YWl0IHNlbGYuY3Jhd2xlci5lbmdpbmUuZG93bmxvYWRfYXN5bmMocmVxdWVzdCkKCiAgICBhc3luYyBkZWYgX29wZW5fc3BpZGVyKHNlbGYsIHNwaWRlcjogU3BpZGVyIHwgTm9uZSkgLT4gTm9uZToKICAgICAgICBpZiBzcGlkZXIgaXMgTm9uZToKICAgICAgICAgICAgc3BpZGVyID0gc2VsZi5jcmF3bGVyLnNwaWRlciBvciBzZWxmLmNyYXdsZXIuX2NyZWF0ZV9zcGlkZXIoKQoKICAgICAgICBzZWxmLmNyYXdsZXIuc3BpZGVyID0gc3BpZGVyCiAgICAgICAgYXdhaXQgc2VsZi5jcmF3bGVyLmVuZ2luZS5vcGVuX3NwaWRlcl9hc3luYyhjbG9zZV9pZl9pZGxlPUZhbHNlKQogICAgICAgIGlmIHNlbGYuY3Jhd2xlci5lbmdpbmUuc3RhdGUgaXMgbm90IEVuZ2luZVN0YXRlLlNQSURFUl9PUEVOOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoZiJTcGlkZXIge3NwaWRlci5uYW1lIXJ9IHdhcyBjbG9zZWQgd2hpbGUgb3BlbmluZyIpCiAgICAgICAgc2VsZi5zcGlkZXIgPSBzcGlkZXIKCiAgICBkZWYgZmV0Y2goCiAgICAgICAgc2VsZiwKICAgICAgICByZXF1ZXN0X29yX3VybDogUmVxdWVzdCB8IHN0ciwKICAgICAgICBzcGlkZXI6IFNwaWRlciB8IE5vbmUgPSBOb25lLAogICAgICAgIHJlZGlyZWN0OiBib29sID0gVHJ1ZSwKICAgICAgICAqKmt3YXJnczogQW55LAogICAgKSAtPiBOb25lOgogICAgICAgIGlmIGlzaW5zdGFuY2UocmVxdWVzdF9vcl91cmwsIFJlcXVlc3QpOgogICAgICAgICAgICByZXF1ZXN0ID0gcmVxdWVzdF9vcl91cmwKICAgICAgICAgICAgaWYgKAogICAgICAgICAgICAgICAgbm90IChyZXF1ZXN0LmNhbGxiYWNrIGlzIE5vbmUgb3IgcmVxdWVzdC5jYWxsYmFjayBpcyBOT19DQUxMQkFDSykKICAgICAgICAgICAgICAgIG9yIHJlcXVlc3QuZXJyYmFjawogICAgICAgICAgICApOgogICAgICAgICAgICAgICAgd2FybmluZ3Mud2FybigKICAgICAgICAgICAgICAgICAgICAiQ2FsbGJhY2tzIGFuZCBlcnJiYWNrcyBvZiBSZXF1ZXN0IG9iamVjdHMgcGFzc2VkIHRvIGZldGNoKCkgYXJlIGlnbm9yZWQuIiwKICAgICAgICAgICAgICAgICAgICBzdGFja2xldmVsPTIsCiAgICAgICAgICAgICAgICApCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdXJsID0gYW55X3RvX3VyaShyZXF1ZXN0X29yX3VybCkKICAgICAgICAgICAgcmVxdWVzdCA9IFJlcXVlc3QodXJsLCBjYWxsYmFjaz1OT19DQUxMQkFDSywgZG9udF9maWx0ZXI9VHJ1ZSwgKiprd2FyZ3MpCiAgICAgICAgICAgIGlmIG5vdCByZWRpcmVjdDoKICAgICAgICAgICAgICAgIHJlcXVlc3QubWV0YVsiZG9udF9yZWRpcmVjdCJdID0gVHJ1ZQogICAgICAgIHJlc3BvbnNlOiBSZXNwb25zZSB8IE5vbmUgPSBOb25lCiAgICAgICAgaWYgc2VsZi5fdXNlX3JlYWN0b3I6CiAgICAgICAgICAgIGZyb20gdHdpc3RlZC5pbnRlcm5ldCBpbXBvcnQgcmVhY3RvcgoKICAgICAgICAgICAgd2l0aCBjb250ZXh0bGliLnN1cHByZXNzKElnbm9yZVJlcXVlc3QpOgogICAgICAgICAgICAgICAgcmVzcG9uc2UgPSB0aHJlYWRzLmJsb2NraW5nQ2FsbEZyb21UaHJlYWQoCiAgICAgICAgICAgICAgICAgICAgcmVhY3RvciwKICAgICAgICAgICAgICAgICAgICBkZWZlcnJlZF9mX2Zyb21fY29yb19mKHNlbGYuX3NjaGVkdWxlKSwgICMgdHlwZTogaWdub3JlW2FyZy10eXBlXQogICAgICAgICAgICAgICAgICAgIHJlcXVlc3QsCiAgICAgICAgICAgICAgICAgICAgc3BpZGVyLAogICAgICAgICAgICAgICAgKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGFzc2VydCBzZWxmLl9sb29wCiAgICAgICAgICAgIHdpdGggY29udGV4dGxpYi5zdXBwcmVzcyhJZ25vcmVSZXF1ZXN0KToKICAgICAgICAgICAgICAgIGZ1dHVyZSA9IGFzeW5jaW8ucnVuX2Nvcm91dGluZV90aHJlYWRzYWZlKAogICAgICAgICAgICAgICAgICAgIHNlbGYuX3NjaGVkdWxlKHJlcXVlc3QsIHNwaWRlciksIHNlbGYuX2xvb3AKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gZnV0dXJlLnJlc3VsdCgpCiAgICAgICAgc2VsZi5wb3B1bGF0ZV92YXJzKHJlc3BvbnNlLCByZXF1ZXN0LCBzZWxmLnNwaWRlcikKCiAgICBkZWYgcG9wdWxhdGVfdmFycygKICAgICAgICBzZWxmLAogICAgICAgIHJlc3BvbnNlOiBSZXNwb25zZSB8IE5vbmUgPSBOb25lLAogICAgICAgIHJlcXVlc3Q6IFJlcXVlc3QgfCBOb25lID0gTm9uZSwKICAgICAgICBzcGlkZXI6IFNwaWRlciB8IE5vbmUgPSBOb25lLAogICAgKSAtPiBOb25lOgogICAgICAgIHNlbGYudmFyc1sic2NyYXB5Il0gPSBzY3JhcHkKICAgICAgICBzZWxmLnZhcnNbImNyYXdsZXIiXSA9IHNlbGYuY3Jhd2xlcgogICAgICAgIHNlbGYudmFyc1siaXRlbSJdID0gc2VsZi5pdGVtX2NsYXNzKCkKICAgICAgICBzZWxmLnZhcnNbInNldHRpbmdzIl0gPSBzZWxmLmNyYXdsZXIuc2V0dGluZ3MKICAgICAgICBzZWxmLnZhcnNbInNwaWRlciJdID0gc3BpZGVyCiAgICAgICAgc2VsZi52YXJzWyJyZXF1ZXN0Il0gPSByZXF1ZXN0CiAgICAgICAgc2VsZi52YXJzWyJyZXNwb25zZSJdID0gcmVzcG9uc2UKICAgICAgICBpZiBzZWxmLmZldGNoX2F2YWlsYWJsZToKICAgICAgICAgICAgc2VsZi52YXJzWyJmZXRjaCJdID0gc2VsZi5mZXRjaAogICAgICAgIHNlbGYudmFyc1sidmlldyJdID0gb3Blbl9pbl9icm93c2VyCiAgICAgICAgc2VsZi52YXJzWyJzaGVscCJdID0gc2VsZi5wcmludF9oZWxwCiAgICAgICAgc2VsZi51cGRhdGVfdmFycyhzZWxmLnZhcnMpCiAgICAgICAgaWYgbm90IHNlbGYuY29kZToKICAgICAgICAgICAgc2VsZi52YXJzWyJiYW5uZXIiXSA9IHNlbGYuZ2V0X2hlbHAoKQoKICAgIGRlZiBwcmludF9oZWxwKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgcHJpbnQoc2VsZi5nZXRfaGVscCgpKQoKICAgIGRlZiBnZXRfaGVscChzZWxmKSAtPiBzdHI6CiAgICAgICAgYiA9IFtdCiAgICAgICAgYi5hcHBlbmQoIkF2YWlsYWJsZSBTY3JhcHkgb2JqZWN0czoiKQogICAgICAgIGIuYXBwZW5kKAogICAgICAgICAgICAiICBzY3JhcHkgICAgIHNjcmFweSBtb2R1bGUgKGNvbnRhaW5zIHNjcmFweS5SZXF1ZXN0LCBzY3JhcHkuU2VsZWN0b3IsIGV0YykiCiAgICAgICAgKQogICAgICAgIGZvciBrLCB2IGluIHNvcnRlZChzZWxmLnZhcnMuaXRlbXMoKSk6CiAgICAgICAgICAgIGlmIHNlbGYuX2lzX3JlbGV2YW50KHYpOgogICAgICAgICAgICAgICAgYi5hcHBlbmQoZiIgIHtrOjwxMH0ge3Z9IikKICAgICAgICBiLmFwcGVuZCgiVXNlZnVsIHNob3J0Y3V0czoiKQogICAgICAgIGlmIHNlbGYuZmV0Y2hfYXZhaWxhYmxlOgogICAgICAgICAgICBiLmFwcGVuZCgKICAgICAgICAgICAgICAgICIgIGZldGNoKHVybFssIHJlZGlyZWN0PVRydWVdKSAiCiAgICAgICAgICAgICAgICAiRmV0Y2ggVVJMIGFuZCB1cGRhdGUgbG9jYWwgb2JqZWN0cyAoYnkgZGVmYXVsdCwgcmVkaXJlY3RzIGFyZSBmb2xsb3dlZCkiCiAgICAgICAgICAgICkKICAgICAgICAgICAgYi5hcHBlbmQoCiAgICAgICAgICAgICAgICAiICBmZXRjaChyZXEpICAgICAgICAgICAgICAgICAgIgogICAgICAgICAgICAgICAgIkZldGNoIGEgc2NyYXB5LlJlcXVlc3QgYW5kIHVwZGF0ZSBsb2NhbCBvYmplY3RzICIKICAgICAgICAgICAgKQogICAgICAgIGIuYXBwZW5kKCIgIHNoZWxwKCkgICAgICAgICAgIFNoZWxsIGhlbHAgKHByaW50IHRoaXMgaGVscCkiKQogICAgICAgIGIuYXBwZW5kKCIgIHZpZXcocmVzcG9uc2UpICAgIFZpZXcgcmVzcG9uc2UgaW4gYSBicm93c2VyIikKCiAgICAgICAgcmV0dXJuICJcbiIuam9pbihmIltzXSB7bGluZX0iIGZvciBsaW5lIGluIGIpICsgIlxuIgoKICAgIGRlZiBfaXNfcmVsZXZhbnQoc2VsZiwgdmFsdWU6IG9iamVjdCkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gaXNpbnN0YW5jZSh2YWx1ZSwgc2VsZi5yZWxldmFudF9jbGFzc2VzKSBvciBpc19pdGVtKHZhbHVlKQoKCmRlZiBpbnNwZWN0X3Jlc3BvbnNlKHJlc3BvbnNlOiBSZXNwb25zZSwgc3BpZGVyOiBTcGlkZXIpIC0+IE5vbmU6CiAgICAiIiJPcGVuIGEgc2hlbGwgdG8gaW5zcGVjdCB0aGUgZ2l2ZW4gcmVzcG9uc2UiIiIKICAgICMgU2hlbGwuc3RhcnQgcmVtb3ZlcyB0aGUgU0lHSU5UIGhhbmRsZXIsIHNvIHNhdmUgaXQgYW5kIHJlLWFkZCBpdCBhZnRlcgogICAgIyB0aGUgc2hlbGwgaGFzIGNsb3NlZAogICAgc2lnaW50X2hhbmRsZXIgPSBzaWduYWwuZ2V0c2lnbmFsKHNpZ25hbC5TSUdJTlQpCiAgICBpZiBub3Qgc3BpZGVyLmNyYXdsZXIuc2V0dGluZ3MuZ2V0Ym9vbCgiVFdJU1RFRF9SRUFDVE9SX0VOQUJMRUQiKToKICAgICAgICBsb29wID0gYXN5bmNpby5nZXRfcnVubmluZ19sb29wKCkKICAgIGVsc2U6CiAgICAgICAgbG9vcCA9IE5vbmUKICAgIFNoZWxsKHNwaWRlci5jcmF3bGVyLCBsb29wPWxvb3ApLnN0YXJ0KHJlc3BvbnNlPXJlc3BvbnNlLCBzcGlkZXI9c3BpZGVyKQogICAgc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHSU5ULCBzaWdpbnRfaGFuZGxlcikK
+"""Scrapy Shell
+
+See documentation in docs/topics/shell.rst
+
+"""
+
+from __future__ import annotations
+
+import asyncio
+import contextlib
+import os
+import signal
+import warnings
+from typing import TYPE_CHECKING, Any
+
+from itemadapter import is_item
+from twisted.internet import threads
+from twisted.python import threadable
+from w3lib.url import any_to_uri
+
+import scrapy
+from scrapy.core.engine import EngineState
+from scrapy.crawler import Crawler
+from scrapy.exceptions import IgnoreRequest, ScrapyDeprecationWarning
+from scrapy.http import Request, Response
+from scrapy.http.request import NO_CALLBACK
+from scrapy.settings import Settings
+from scrapy.spiders import Spider
+from scrapy.utils._shell import DEFAULT_PYTHON_SHELLS, start_python_console
+from scrapy.utils.conf import get_config
+from scrapy.utils.defer import deferred_f_from_coro_f
+from scrapy.utils.misc import load_object
+from scrapy.utils.response import open_in_browser
+
+if TYPE_CHECKING:
+    from collections.abc import Callable
+
+# Hopefully temporary architecture notes
+#
+# The Shell class is always instantiated in the "main" thread. There are two
+# official ways to use it:
+# 1. scrapy.commands.shell, which makes a secondary thread and calls
+# CrawlerProcess.start() in it, which runs a reactor there.
+# 2. scrapy.shell.inspect_response(), which just creates Shell() in the current
+# thread.
+#
+# Shell._inthread is True when this class is run in a thread separate from the
+# reactor, e.g. the 1st way (in other words, the reactor is in a secondary
+# thread).
+# Shell._inthread is False when this class is run in the same thread as the
+# reactor, e.g. the 2nd way.
+# The only thing that differs is availability of fetch() (it needs the
+# reactor to be in a separate thread: the shell sends the request to
+# the reactor and waits for the result synchronously).
+#
+# Thus the only thing Shell needs an event loop for is fetch(). The engine is
+# never started as the shell doesn't need request processing and
+# download_async() still works.
+# In chronological order:
+# 1. scrapy.commands.shell.Command.run() creates a crawler and an engine.
+# 2. scrapy.commands.shell.Command.run() calls crawler_process.start() in a
+# thread which starts a reactor in that thread.
+# 3. When fetch() is called, it prepares a request and calls Shell._schedule()
+# in the reactor thread (via threads.blockingCallFromThread()).
+# 4. Shell._schedule() calls Shell._open_spider() (on the first call).
+# 5. Shell._open_spider() calls
+# engine.open_spider_async(close_if_idle=False).
+# 6. Shell._schedule() calls engine.download_async(request), which completes
+# with the response.
+#
+# In the reactorless mode this is slightly different, the engine creation
+# happens in the event loop thread as many things need either a reactor or a
+# running event loop.
+#
+# Other architecture problems:
+# * scrapy.cmdline.execute() creates an AsyncCrawlerProcess instance which
+#   immediately installs a reactor (which is maybe not thread-specific?) or an
+#   event loop (which *is* thread-specific, so the main thread will always have
+#   a (not running) loop installed.
+# * The shell uses several private members of Crawler (_create_engine(),
+#   _create_spider()) and of AsyncCrawlerProcess (_reactorless_loop).
+
+
+class Shell:
+    relevant_classes: tuple[type, ...] = (Crawler, Spider, Request, Response, Settings)
+
+    def __init__(
+        self,
+        crawler: Crawler,
+        update_vars: Callable[[dict[str, Any]], None] | None = None,
+        code: str | None = None,
+        *,
+        loop: asyncio.AbstractEventLoop | None = None,
+    ):
+        self._use_reactor = crawler.settings.getbool("TWISTED_REACTOR_ENABLED")
+        if not self._use_reactor and not loop:  # pragma: no cover
+            raise RuntimeError(
+                "Shell needs the crawler loop reference when TWISTED_REACTOR_ENABLED=False."
+            )
+        self._loop = loop
+        self.crawler: Crawler = crawler
+        self.update_vars: Callable[[dict[str, Any]], None] = update_vars or (
+            lambda x: None
+        )
+        self.item_class: type = load_object(crawler.settings["DEFAULT_ITEM_CLASS"])
+        self.spider: Spider | None = None
+        if self._use_reactor:
+            self._inthread: bool = not threadable.isInIOThread()
+        else:
+            try:
+                # in case there is also a running loop in the main thread
+                current_loop = asyncio.get_running_loop()
+                self._inthread = current_loop is not self._loop
+            except RuntimeError:
+                self._inthread = True
+        self.code: str | None = code
+        self.vars: dict[str, Any] = {}
+
+    @property
+    def inthread(self) -> bool:  # pragma: no cover
+        warnings.warn(
+            "Shell.inthread is deprecated, use Shell.fetch_available instead.",
+            ScrapyDeprecationWarning,
+            stacklevel=2,
+        )
+        return self._inthread
+
+    @property
+    def fetch_available(self) -> bool:
+        """Whether fetch() can be used."""
+        return self._inthread
+
+    def start(
+        self,
+        url: str | None = None,
+        request: Request | None = None,
+        response: Response | None = None,
+        spider: Spider | None = None,
+        redirect: bool = True,
+    ) -> None:
+        # disable accidental Ctrl-C key press from shutting down the engine
+        signal.signal(signal.SIGINT, signal.SIG_IGN)
+        if url:
+            self.fetch(url, spider, redirect=redirect)
+        elif request:
+            self.fetch(request, spider)
+        elif response:
+            request = response.request
+            self.populate_vars(response, request, spider)
+        else:
+            self.populate_vars()
+        if self.code:
+            print(eval(self.code, globals(), self.vars))  # noqa: S307
+        else:
+            # Detect interactive shell setting in scrapy.cfg
+            # e.g.: ~/.config/scrapy.cfg or ~/.scrapy.cfg
+            # [settings]
+            # # shell can be one of ipython, bpython or python;
+            # # to be used as the interactive python console, if available.
+            # # (default is ipython, fallbacks in the order listed above)
+            # shell = python
+            cfg = get_config()
+            section, option = "settings", "shell"
+            env = os.environ.get("SCRAPY_PYTHON_SHELL")
+            shells = []
+            if env:
+                shells += env.strip().lower().split(",")
+            elif cfg.has_option(section, option):
+                shells += [cfg.get(section, option).strip().lower()]
+            else:  # try all by default
+                shells += DEFAULT_PYTHON_SHELLS.keys()
+            # always add standard shell as fallback
+            shells += ["python"]
+            start_python_console(
+                self.vars, shells=shells, banner=self.vars.pop("banner", "")
+            )
+
+    async def _schedule(self, request: Request, spider: Spider | None) -> Response:
+        """Download the request through the engine and return the response.
+
+        Runs in the reactor thread when using the reactor, or in the asyncio
+        event loop thread otherwise.
+        """
+        if not self.spider:
+            await self._open_spider(spider)
+        return await self.crawler.engine.download_async(request)
+
+    async def _open_spider(self, spider: Spider | None) -> None:
+        if spider is None:
+            spider = self.crawler.spider or self.crawler._create_spider()
+
+        self.crawler.spider = spider
+        await self.crawler.engine.open_spider_async(close_if_idle=False)
+        if self.crawler.engine.state is not EngineState.SPIDER_OPEN:
+            raise RuntimeError(f"Spider {spider.name!r} was closed while opening")
+        self.spider = spider
+
+    def fetch(
+        self,
+        request_or_url: Request | str,
+        spider: Spider | None = None,
+        redirect: bool = True,
+        **kwargs: Any,
+    ) -> None:
+        if isinstance(request_or_url, Request):
+            request = request_or_url
+            if (
+                not (request.callback is None or request.callback is NO_CALLBACK)
+                or request.errback
+            ):
+                warnings.warn(
+                    "Callbacks and errbacks of Request objects passed to fetch() are ignored.",
+                    stacklevel=2,
+                )
+        else:
+            url = any_to_uri(request_or_url)
+            request = Request(url, callback=NO_CALLBACK, dont_filter=True, **kwargs)
+            if not redirect:
+                request.meta["dont_redirect"] = True
+        response: Response | None = None
+        if self._use_reactor:
+            from twisted.internet import reactor
+
+            with contextlib.suppress(IgnoreRequest):
+                response = threads.blockingCallFromThread(
+                    reactor,
+                    deferred_f_from_coro_f(self._schedule),  # type: ignore[arg-type]
+                    request,
+                    spider,
+                )
+        else:
+            assert self._loop
+            with contextlib.suppress(IgnoreRequest):
+                future = asyncio.run_coroutine_threadsafe(
+                    self._schedule(request, spider), self._loop
+                )
+                response = future.result()
+        self.populate_vars(response, request, self.spider)
+
+    def populate_vars(
+        self,
+        response: Response | None = None,
+        request: Request | None = None,
+        spider: Spider | None = None,
+    ) -> None:
+        self.vars["scrapy"] = scrapy
+        self.vars["crawler"] = self.crawler
+        self.vars["item"] = self.item_class()
+        self.vars["settings"] = self.crawler.settings
+        self.vars["spider"] = spider
+        self.vars["request"] = request
+        self.vars["response"] = response
+        if self.fetch_available:
+            self.vars["fetch"] = self.fetch
+        self.vars["view"] = open_in_browser
+        self.vars["shelp"] = self.print_help
+        self.update_vars(self.vars)
+        if not self.code:
+            self.vars["banner"] = self.get_help()
+
+    def print_help(self) -> None:
+        print(self.get_help())
+
+    def get_help(self) -> str:
+        b = []
+        b.append("Available Scrapy objects:")
+        b.append(
+            "  scrapy     scrapy module (contains scrapy.Request, scrapy.Selector, etc)"
+        )
+        for k, v in sorted(self.vars.items()):
+            if self._is_relevant(v):
+                b.append(f"  {k:<10} {v}")
+        b.append("Useful shortcuts:")
+        if self.fetch_available:
+            b.append(
+                "  fetch(url[, redirect=True]) "
+                "Fetch URL and update local objects (by default, redirects are followed)"
+            )
+            b.append(
+                "  fetch(req)                  "
+                "Fetch a scrapy.Request and update local objects "
+            )
+        b.append("  shelp()           Shell help (print this help)")
+        b.append("  view(response)    View response in a browser")
+
+        return "\n".join(f"[s] {line}" for line in b) + "\n"
+
+    def _is_relevant(self, value: object) -> bool:
+        return isinstance(value, self.relevant_classes) or is_item(value)
+
+
+def inspect_response(response: Response, spider: Spider) -> None:
+    """Open a shell to inspect the given response"""
+    # Shell.start removes the SIGINT handler, so save it and re-add it after
+    # the shell has closed
+    sigint_handler = signal.getsignal(signal.SIGINT)
+    if not spider.crawler.settings.getbool("TWISTED_REACTOR_ENABLED"):
+        loop = asyncio.get_running_loop()
+    else:
+        loop = None
+    Shell(spider.crawler, loop=loop).start(response=response, spider=spider)
+    signal.signal(signal.SIGINT, sigint_handler)

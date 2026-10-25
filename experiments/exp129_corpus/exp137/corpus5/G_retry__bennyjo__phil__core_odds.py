@@ -1,1 +1,199 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJLZXllZCBib29rbWFrZXIgb2RkcyArIGV2ZW50IHN0YXR1cyB2aWEgdGhlLW9kZHMtYXBpLmNvbSAob3BlcmF0b3Itb3duZWQpLgoKUHJvdmlzaW9uZWQgMjAyNi0wOC0wOCBhZnRlciB0aGUgMjAyNi0wOC0wNCByZWFjaGFiaWxpdHkgcmVqZWN0aW9uJ3MgcmUtb3Blbgpjb25kaXRpb24gd2FzIG1ldDogYSB3ZWVrIG9mIGN5Y2xlcyBhdHRyaWJ1dGVkIHNraXBwZWQgY2FuZGlkYXRlcyB0bwpiZW5jaG1hcmsvc3RhdHVzIHVucmVhY2hhYmlsaXR5ICgxNS8zNSBjYW5kaWRhdGVzIGluIHRoZSAyMDI2LTA4LTA4IGRlZXAtcmV0cm8Kd2luZG93IGFsb25lKSwgd2hpbGUgYm9vay1kZXZpZyDigJQgdGhlIG9ubHkgZWRnZSBjbGFzcyB3aXRoIGEgcG9zaXRpdmUgc2V0dGxlZApyZWNvcmQgcG9zdC1wb3dlci1kZXZpZy1maXgg4oCUIHN0YXllZCBzdGFydmVkLiBUaGlzIHJlcGxhY2VzIHNjcmFwaW5nIHRoZSB+MjAKb2RkcyBkb21haW5zIHRoYXQgNDAzIGRhdGFjZW50ZXIgSVBzLgoKVXNhZ2U6CiAgcHl0aG9uMyBjb3JlL29kZHMucHkgc3BvcnRzICAgICAgICAgICAgICAgICAgIyBsaXN0IGluLXNlYXNvbiBzcG9ydCBrZXlzIChxdW90YS1mcmVlKQogIHB5dGhvbjMgY29yZS9vZGRzLnB5IG9kZHMgPHNwb3J0X2tleT4gWy0tbWFya2V0cyBoMmhdIFstLXJlZ2lvbiB1c10KICBweXRob24zIGNvcmUvb2Rkcy5weSBzY29yZXMgPHNwb3J0X2tleT4gWy0tZGF5cy1mcm9tIE5dCiAgcHl0aG9uMyBjb3JlL29kZHMucHkgcXVvdGEgICAgICAgICAgICAgICAgICAgIyBzaG93IG1vbnRobHkgYnVkZ2V0IHN0YXRlCgpLZXk6IGVudiBPRERTX0FQSV9LRVksIGVsc2Ugfi8uY29uZmlnL3BoaWwvb2Rkcy1hcGkta2V5LiBORVZFUiBzdG9yZSB0aGUga2V5CmluIHRoZSByZXBvIOKAlCBqb3VybmFsIGFuZCBzdHJhdGVneSBhcmUgcHVibGljLgoKUXVvdGE6IGZyZWUgdGllciBpcyA1MDAgY3JlZGl0cy9tb250aC4gVGhpcyB0b29sIGhhcmQtcmVmdXNlcyBvbmNlCkxPQ0FMX0JVREdFVCBjcmVkaXRzIGFyZSByZWNvcmRlZCBmb3IgdGhlIGN1cnJlbnQgbW9udGggKGJ1ZmZlciBmb3IgaGVhZGVyCmxhZyBhbmQgb3V0LW9mLWJhbmQgdXNlKSwgdHJhY2tlZCBpbiBqb3VybmFsL29kZHMtcXVvdGEuanNvbiDigJQgY29tbWl0dGVkLCBzbwpzcGVuZCBpcyBwdWJsaWMgYW5kIHN1cnZpdmVzIHJ1bm5lciBjaHVybi4gVGhlIEFQSSdzIG93bgp4LXJlcXVlc3RzLXVzZWQvcmVtYWluaW5nIGhlYWRlcnMgYXJlIGF1dGhvcml0YXRpdmUgYW5kIG92ZXJ3cml0ZSB0aGUgbG9jYWwKZXN0aW1hdGUgd2hlbmV2ZXIgcHJlc2VudC4gSWRlbnRpY2FsIHJlcXVlc3RzIHdpdGhpbiBDQUNIRV9UVExfUyBhcmUgc2VydmVkCmZyb20gY2FjaGUgYW5kIHNwZW5kIG5vdGhpbmcsIHNvIHJlLXJ1bm5pbmcgYSBjb21tYW5kIG1pZC1jeWNsZSBpcyBmcmVlLgoKQ29zdHMgKHBlciB0aGUtb2Rkcy1hcGkgZG9jcyk6IC9zcG9ydHMgaXMgZnJlZTsgL29kZHMgY29zdHMgcmVnaW9ucyB4Cm1hcmtldHMgcGVyIGNhbGwgKGRlZmF1bHRzIGhlcmU6IDEgeCAxID0gMSBjcmVkaXQpOyAvc2NvcmVzIGNvc3RzIDEsIG9yIDIKd2l0aCAtLWRheXMtZnJvbS4gT2RkcyBhcmUgcmV0dXJuZWQgaW4gREVDSU1BTCBmb3JtYXQg4oCUIGZlZWQgdGhlbSBzdHJhaWdodAp0byBzdHJhdGVneS90b29scy9kZXZpZy5weS4KClRoZSBhZ2VudCBtYXkgY2FsbCB0aGlzIGZyZWVseSBidXQgbWF5IG5vdCBlZGl0IGl0OyBpZiB0aGUgYnVkZ2V0IGd1YXJkIG9yCmRlZmF1bHRzIGFyZSB3cm9uZywgdGhhdCBpcyBhIGpvdXJuYWwvcHJvcG9zYWxzLm1kIGVudHJ5LgoiIiIKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBoYXNobGliCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgcGF0aGxpYgppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCmltcG9ydCB0aW1lCmltcG9ydCB1cmxsaWIuZXJyb3IKaW1wb3J0IHVybGxpYi5wYXJzZQppbXBvcnQgdXJsbGliLnJlcXVlc3QKCkFQSV9CQVNFID0gImh0dHBzOi8vYXBpLnRoZS1vZGRzLWFwaS5jb20vdjQiClJFUE9fUk9PVCA9IHBhdGhsaWIuUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudC5wYXJlbnQKUVVPVEFfRklMRSA9IFJFUE9fUk9PVCAvICJqb3VybmFsIiAvICJvZGRzLXF1b3RhLmpzb24iCktFWV9GSUxFID0gcGF0aGxpYi5QYXRoLmhvbWUoKSAvICIuY29uZmlnIiAvICJwaGlsIiAvICJvZGRzLWFwaS1rZXkiCkNBQ0hFX0RJUiA9IHBhdGhsaWIuUGF0aC5ob21lKCkgLyAiLmNhY2hlIiAvICJwaGlsLW9kZHMiCkNBQ0hFX1RUTF9TID0gNjAwCkxPQ0FMX0JVREdFVCA9IDQ1MCAgIyBoYXJkIGxvY2FsIHN0b3AgdW5kZXIgdGhlIDUwMC9tb250aCBmcmVlIHRpZXIKCiMgU2FtZSBUTFMtZmluZ2VycHJpbnQgc3RvcnkgYXMgc3RyYXRlZ3kvdG9vbHMvcXVvdGUucHk6IHVybGxpYiBmaXJzdCwgY3VybAojIGZhbGxiYWNrIG9uIGFueSBmYWlsdXJlIOKAlCBkYXRhY2VudGVyIGJsb2NrcyBhcmUgdGhlIHdob2xlIHJlYXNvbiB0aGlzIHRvb2wKIyBleGlzdHMsIHNvIG5ldmVyIGxldCBhIHRyYW5zcG9ydCBxdWlyayBtYXNxdWVyYWRlIGFzICJubyBrZXkvbm8gcXVvdGEiLgpVQSA9ICJNb3ppbGxhLzUuMCAoY29tcGF0aWJsZTsgcGFwZXItdHJhZGVyLW9kZHMpIgoKCmRlZiBhcGlfa2V5KCk6CiAgICBrZXkgPSBvcy5lbnZpcm9uLmdldCgiT0REU19BUElfS0VZIiwgIiIpLnN0cmlwKCkKICAgIGlmIG5vdCBrZXkgYW5kIEtFWV9GSUxFLmlzX2ZpbGUoKToKICAgICAgICBrZXkgPSBLRVlfRklMRS5yZWFkX3RleHQoKS5zdHJpcCgpCiAgICBpZiBub3Qga2V5OgogICAgICAgIHN5cy5leGl0KCJFUlJPUjogbm8gT0REU19BUElfS0VZIGluIGVudiBhbmQgbm8gfi8uY29uZmlnL3BoaWwvb2Rkcy1hcGkta2V5LlxuIgogICAgICAgICAgICAgICAgICJPcGVyYXRvciBoYXMgbm90IHByb3Zpc2lvbmVkIHRoZSBrZXkgb24gdGhpcyBydW5uZXIg4oCUIG5vdGUgIgogICAgICAgICAgICAgICAgICInb2RkcyBrZXkgbm90IHByb3Zpc2lvbmVkJyBpbiB0aGUgY3ljbGUgbG9nOyBkbyBub3Qgd29yayBhcm91bmQuIikKICAgIHJldHVybiBrZXkKCgpkZWYgbW9udGhfbm93KCk6CiAgICByZXR1cm4gdGltZS5zdHJmdGltZSgiJVktJW0iLCB0aW1lLmdtdGltZSgpKQoKCmRlZiBsb2FkX3F1b3RhKCk6CiAgICBpZiBRVU9UQV9GSUxFLmlzX2ZpbGUoKToKICAgICAgICBxID0ganNvbi5sb2FkcyhRVU9UQV9GSUxFLnJlYWRfdGV4dCgpKQogICAgICAgIGlmIHEuZ2V0KCJtb250aCIpID09IG1vbnRoX25vdygpOgogICAgICAgICAgICByZXR1cm4gcQogICAgcmV0dXJuIHsibW9udGgiOiBtb250aF9ub3coKSwgInVzZWRfY3JlZGl0cyI6IDAsICJyZW1haW5pbmdfcmVwb3J0ZWQiOiBOb25lLAogICAgICAgICAgICAibGFzdF9yZXF1ZXN0X3V0YyI6IE5vbmV9CgoKZGVmIHNhdmVfcXVvdGEocSk6CiAgICBRVU9UQV9GSUxFLndyaXRlX3RleHQoanNvbi5kdW1wcyhxLCBpbmRlbnQ9MikgKyAiXG4iKQoKCmRlZiBjYWNoZV9wYXRoKHVybCk6CiAgICByZXR1cm4gQ0FDSEVfRElSIC8gKGhhc2hsaWIuc2hhMjU2KHVybC5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjI0XSArICIuanNvbiIpCgoKZGVmIGZldGNoKHVybCk6CiAgICAiIiJHRVQgdXJsIChrZXkgYWxyZWFkeSBpbiBxdWVyeSBzdHJpbmcpLiBSZXR1cm5zIChib2R5X2RpY3Rfb3JfbGlzdCwgaGVhZGVycykuIiIiCiAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KHVybCwgaGVhZGVycz17IlVzZXItQWdlbnQiOiBVQX0pCiAgICB0cnk6CiAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD0yMCkgYXMgcmVzcDoKICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMocmVzcC5yZWFkKCkuZGVjb2RlKCkpLCBkaWN0KHJlc3AuaGVhZGVycykKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgIGlmIGlzaW5zdGFuY2UoZXhjLCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yKSBhbmQgZXhjLmNvZGUgaW4gKDQwMSwgNDIyKToKICAgICAgICAgICAgc3lzLmV4aXQoZiJFUlJPUjogdGhlLW9kZHMtYXBpIHJlamVjdGVkIHRoZSByZXF1ZXN0ICh7ZXhjLmNvZGV9KTogIgogICAgICAgICAgICAgICAgICAgICBmIntleGMucmVhZCgpLmRlY29kZSgpWzozMDBdfSIpCiAgICAgICAgb3V0ID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgIFsiY3VybCIsICItcyIsICItLW1heC10aW1lIiwgIjIwIiwgIi1EIiwgIi0iLCAiLUgiLCBmIlVzZXItQWdlbnQ6IHtVQX0iLCB1cmxdLAogICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUsIHRpbWVvdXQ9MjUsIGNoZWNrPVRydWUsCiAgICAgICAgKQogICAgICAgIGhlYWQsIF8sIGJvZHkgPSBvdXQuc3Rkb3V0LnBhcnRpdGlvbigiXHJcblxyXG4iKQogICAgICAgIGlmIG5vdCBib2R5OgogICAgICAgICAgICBoZWFkLCBfLCBib2R5ID0gb3V0LnN0ZG91dC5wYXJ0aXRpb24oIlxuXG4iKQogICAgICAgIGhlYWRlcnMgPSB7fQogICAgICAgIGZvciBsaW5lIGluIGhlYWQuc3BsaXRsaW5lcygpWzE6XToKICAgICAgICAgICAgaywgXywgdiA9IGxpbmUucGFydGl0aW9uKCI6IikKICAgICAgICAgICAgaGVhZGVyc1trLnN0cmlwKCkubG93ZXIoKV0gPSB2LnN0cmlwKCkKICAgICAgICByZXR1cm4ganNvbi5sb2Fkcyhib2R5KSwgaGVhZGVycwoKCmRlZiBzcGVuZF9ndWFyZGVkKHBhdGgsIHBhcmFtcywgY29zdCk6CiAgICAiIiJDYWNoZWQsIHF1b3RhLWd1YXJkZWQgR0VUIG9mIEFQSV9CQVNFK3BhdGguIEV4aXRzIGJlZm9yZSBzcGVuZGluZyBpZiBvdmVyIGJ1ZGdldC4iIiIKICAgIHEgPSBsb2FkX3F1b3RhKCkKICAgIGtleSA9IGFwaV9rZXkoKQogICAgcGFyYW1zID0geyoqcGFyYW1zLCAiYXBpS2V5Ijoga2V5fQogICAgdXJsID0gZiJ7QVBJX0JBU0V9e3BhdGh9P3t1cmxsaWIucGFyc2UudXJsZW5jb2RlKHBhcmFtcyl9IgoKICAgIENBQ0hFX0RJUi5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBjcCA9IGNhY2hlX3BhdGgodXJsKQogICAgaWYgY3AuaXNfZmlsZSgpIGFuZCB0aW1lLnRpbWUoKSAtIGNwLnN0YXQoKS5zdF9tdGltZSA8IENBQ0hFX1RUTF9TOgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKGNwLnJlYWRfdGV4dCgpKQoKICAgIGlmIGNvc3QgPiAwIGFuZCBxWyJ1c2VkX2NyZWRpdHMiXSArIGNvc3QgPiBMT0NBTF9CVURHRVQ6CiAgICAgICAgc3lzLmV4aXQoZiJFUlJPUjogbW9udGhseSBvZGRzLUFQSSBidWRnZXQgZXhoYXVzdGVkICIKICAgICAgICAgICAgICAgICBmIih7cVsndXNlZF9jcmVkaXRzJ119L3tMT0NBTF9CVURHRVR9IGxvY2FsIGNhcCwgbW9udGgge3FbJ21vbnRoJ119KS4gIgogICAgICAgICAgICAgICAgICJMb2cgJ29kZHMgYnVkZ2V0IGV4aGF1c3RlZCcgYW5kIHNraXAg4oCUIGRvIG5vdCB3b3JrIGFyb3VuZC4iKQoKICAgIGJvZHksIGhlYWRlcnMgPSBmZXRjaCh1cmwpCiAgICBoZWFkZXJzID0ge2subG93ZXIoKTogdiBmb3IgaywgdiBpbiBoZWFkZXJzLml0ZW1zKCl9CiAgICBxWyJ1c2VkX2NyZWRpdHMiXSArPSBjb3N0CiAgICB1c2VkID0gaGVhZGVycy5nZXQoIngtcmVxdWVzdHMtdXNlZCIpCiAgICByZW1haW5pbmcgPSBoZWFkZXJzLmdldCgieC1yZXF1ZXN0cy1yZW1haW5pbmciKQogICAgaWYgdXNlZCBpcyBub3QgTm9uZToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHFbInVzZWRfY3JlZGl0cyJdID0gaW50KGZsb2F0KHVzZWQpKQogICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICBwYXNzCiAgICBpZiByZW1haW5pbmcgaXMgbm90IE5vbmU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBxWyJyZW1haW5pbmdfcmVwb3J0ZWQiXSA9IGludChmbG9hdChyZW1haW5pbmcpKQogICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICBwYXNzCiAgICBxWyJsYXN0X3JlcXVlc3RfdXRjIl0gPSB0aW1lLnN0cmZ0aW1lKCIlWS0lbS0lZFQlSDolTTolU1oiLCB0aW1lLmdtdGltZSgpKQogICAgc2F2ZV9xdW90YShxKQoKICAgIGNwLndyaXRlX3RleHQoanNvbi5kdW1wcyhib2R5KSkKICAgIHJldHVybiBib2R5CgoKZGVmIG1haW4oKToKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249X19kb2NfXy5zcGxpdGxpbmVzKClbMF0pCiAgICBzdWIgPSBhcC5hZGRfc3VicGFyc2VycyhkZXN0PSJjbWQiLCByZXF1aXJlZD1UcnVlKQogICAgc3ViLmFkZF9wYXJzZXIoInNwb3J0cyIpCiAgICBhcF9vZGRzID0gc3ViLmFkZF9wYXJzZXIoIm9kZHMiKQogICAgYXBfb2Rkcy5hZGRfYXJndW1lbnQoInNwb3J0X2tleSIpCiAgICBhcF9vZGRzLmFkZF9hcmd1bWVudCgiLS1tYXJrZXRzIiwgZGVmYXVsdD0iaDJoIiwKICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9ImNvbW1hLXNlcGFyYXRlZDogaDJoLHNwcmVhZHMsdG90YWxzIChlYWNoIGFkZHMgMSBjcmVkaXQpIikKICAgIGFwX29kZHMuYWRkX2FyZ3VtZW50KCItLXJlZ2lvbiIsIGRlZmF1bHQ9InVzIikKICAgIGFwX3Njb3JlcyA9IHN1Yi5hZGRfcGFyc2VyKCJzY29yZXMiKQogICAgYXBfc2NvcmVzLmFkZF9hcmd1bWVudCgic3BvcnRfa2V5IikKICAgIGFwX3Njb3Jlcy5hZGRfYXJndW1lbnQoIi0tZGF5cy1mcm9tIiwgdHlwZT1pbnQsIGRlZmF1bHQ9Tm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iaW5jbHVkZSBnYW1lcyBjb21wbGV0ZWQgdXAgdG8gTiBkYXlzIGFnbyAoY29zdHMgMiBpbnN0ZWFkIG9mIDEpIikKICAgIHN1Yi5hZGRfcGFyc2VyKCJxdW90YSIpCiAgICBhcmdzID0gYXAucGFyc2VfYXJncygpCgogICAgaWYgYXJncy5jbWQgPT0gInF1b3RhIjoKICAgICAgICBxID0gbG9hZF9xdW90YSgpCiAgICAgICAgcVsibG9jYWxfY2FwIl0gPSBMT0NBTF9CVURHRVQKICAgICAgICBwcmludChqc29uLmR1bXBzKHEsIGluZGVudD0yKSkKICAgICAgICByZXR1cm4KCiAgICBpZiBhcmdzLmNtZCA9PSAic3BvcnRzIjoKICAgICAgICBib2R5ID0gc3BlbmRfZ3VhcmRlZCgiL3Nwb3J0cyIsIHt9LCBjb3N0PTApCiAgICBlbGlmIGFyZ3MuY21kID09ICJvZGRzIjoKICAgICAgICBuX21hcmtldHMgPSBsZW4oW20gZm9yIG0gaW4gYXJncy5tYXJrZXRzLnNwbGl0KCIsIikgaWYgbV0pCiAgICAgICAgbl9yZWdpb25zID0gbGVuKFtyIGZvciByIGluIGFyZ3MucmVnaW9uLnNwbGl0KCIsIikgaWYgcl0pCiAgICAgICAgYm9keSA9IHNwZW5kX2d1YXJkZWQoCiAgICAgICAgICAgIGYiL3Nwb3J0cy97YXJncy5zcG9ydF9rZXl9L29kZHMiLAogICAgICAgICAgICB7InJlZ2lvbnMiOiBhcmdzLnJlZ2lvbiwgIm1hcmtldHMiOiBhcmdzLm1hcmtldHMsICJvZGRzRm9ybWF0IjogImRlY2ltYWwifSwKICAgICAgICAgICAgY29zdD1uX21hcmtldHMgKiBuX3JlZ2lvbnMpCiAgICBlbHNlOgogICAgICAgIHBhcmFtcywgY29zdCA9IHt9LCAxCiAgICAgICAgaWYgYXJncy5kYXlzX2Zyb20gaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHBhcmFtc1siZGF5c0Zyb20iXSA9IGFyZ3MuZGF5c19mcm9tCiAgICAgICAgICAgIGNvc3QgPSAyCiAgICAgICAgYm9keSA9IHNwZW5kX2d1YXJkZWQoZiIvc3BvcnRzL3thcmdzLnNwb3J0X2tleX0vc2NvcmVzIiwgcGFyYW1zLCBjb3N0PWNvc3QpCgogICAgcHJpbnQoanNvbi5kdW1wcyhib2R5LCBpbmRlbnQ9MikpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""Keyed bookmaker odds + event status via the-odds-api.com (operator-owned).
+
+Provisioned 2026-08-08 after the 2026-08-04 reachability rejection's re-open
+condition was met: a week of cycles attributed skipped candidates to
+benchmark/status unreachability (15/35 candidates in the 2026-08-08 deep-retro
+window alone), while book-devig — the only edge class with a positive settled
+record post-power-devig-fix — stayed starved. This replaces scraping the ~20
+odds domains that 403 datacenter IPs.
+
+Usage:
+  python3 core/odds.py sports                  # list in-season sport keys (quota-free)
+  python3 core/odds.py odds <sport_key> [--markets h2h] [--region us]
+  python3 core/odds.py scores <sport_key> [--days-from N]
+  python3 core/odds.py quota                   # show monthly budget state
+
+Key: env ODDS_API_KEY, else ~/.config/phil/odds-api-key. NEVER store the key
+in the repo — journal and strategy are public.
+
+Quota: free tier is 500 credits/month. This tool hard-refuses once
+LOCAL_BUDGET credits are recorded for the current month (buffer for header
+lag and out-of-band use), tracked in journal/odds-quota.json — committed, so
+spend is public and survives runner churn. The API's own
+x-requests-used/remaining headers are authoritative and overwrite the local
+estimate whenever present. Identical requests within CACHE_TTL_S are served
+from cache and spend nothing, so re-running a command mid-cycle is free.
+
+Costs (per the-odds-api docs): /sports is free; /odds costs regions x
+markets per call (defaults here: 1 x 1 = 1 credit); /scores costs 1, or 2
+with --days-from. Odds are returned in DECIMAL format — feed them straight
+to strategy/tools/devig.py.
+
+The agent may call this freely but may not edit it; if the budget guard or
+defaults are wrong, that is a journal/proposals.md entry.
+"""
+import argparse
+import hashlib
+import json
+import os
+import pathlib
+import subprocess
+import sys
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+
+API_BASE = "https://api.the-odds-api.com/v4"
+REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
+QUOTA_FILE = REPO_ROOT / "journal" / "odds-quota.json"
+KEY_FILE = pathlib.Path.home() / ".config" / "phil" / "odds-api-key"
+CACHE_DIR = pathlib.Path.home() / ".cache" / "phil-odds"
+CACHE_TTL_S = 600
+LOCAL_BUDGET = 450  # hard local stop under the 500/month free tier
+
+# Same TLS-fingerprint story as strategy/tools/quote.py: urllib first, curl
+# fallback on any failure — datacenter blocks are the whole reason this tool
+# exists, so never let a transport quirk masquerade as "no key/no quota".
+UA = "Mozilla/5.0 (compatible; paper-trader-odds)"
+
+
+def api_key():
+    key = os.environ.get("ODDS_API_KEY", "").strip()
+    if not key and KEY_FILE.is_file():
+        key = KEY_FILE.read_text().strip()
+    if not key:
+        sys.exit("ERROR: no ODDS_API_KEY in env and no ~/.config/phil/odds-api-key.\n"
+                 "Operator has not provisioned the key on this runner — note "
+                 "'odds key not provisioned' in the cycle log; do not work around.")
+    return key
+
+
+def month_now():
+    return time.strftime("%Y-%m", time.gmtime())
+
+
+def load_quota():
+    if QUOTA_FILE.is_file():
+        q = json.loads(QUOTA_FILE.read_text())
+        if q.get("month") == month_now():
+            return q
+    return {"month": month_now(), "used_credits": 0, "remaining_reported": None,
+            "last_request_utc": None}
+
+
+def save_quota(q):
+    QUOTA_FILE.write_text(json.dumps(q, indent=2) + "\n")
+
+
+def cache_path(url):
+    return CACHE_DIR / (hashlib.sha256(url.encode()).hexdigest()[:24] + ".json")
+
+
+def fetch(url):
+    """GET url (key already in query string). Returns (body_dict_or_list, headers)."""
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            return json.loads(resp.read().decode()), dict(resp.headers)
+    except Exception as exc:
+        if isinstance(exc, urllib.error.HTTPError) and exc.code in (401, 422):
+            sys.exit(f"ERROR: the-odds-api rejected the request ({exc.code}): "
+                     f"{exc.read().decode()[:300]}")
+        out = subprocess.run(
+            ["curl", "-s", "--max-time", "20", "-D", "-", "-H", f"User-Agent: {UA}", url],
+            capture_output=True, text=True, timeout=25, check=True,
+        )
+        head, _, body = out.stdout.partition("\r\n\r\n")
+        if not body:
+            head, _, body = out.stdout.partition("\n\n")
+        headers = {}
+        for line in head.splitlines()[1:]:
+            k, _, v = line.partition(":")
+            headers[k.strip().lower()] = v.strip()
+        return json.loads(body), headers
+
+
+def spend_guarded(path, params, cost):
+    """Cached, quota-guarded GET of API_BASE+path. Exits before spending if over budget."""
+    q = load_quota()
+    key = api_key()
+    params = {**params, "apiKey": key}
+    url = f"{API_BASE}{path}?{urllib.parse.urlencode(params)}"
+
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cp = cache_path(url)
+    if cp.is_file() and time.time() - cp.stat().st_mtime < CACHE_TTL_S:
+        return json.loads(cp.read_text())
+
+    if cost > 0 and q["used_credits"] + cost > LOCAL_BUDGET:
+        sys.exit(f"ERROR: monthly odds-API budget exhausted "
+                 f"({q['used_credits']}/{LOCAL_BUDGET} local cap, month {q['month']}). "
+                 "Log 'odds budget exhausted' and skip — do not work around.")
+
+    body, headers = fetch(url)
+    headers = {k.lower(): v for k, v in headers.items()}
+    q["used_credits"] += cost
+    used = headers.get("x-requests-used")
+    remaining = headers.get("x-requests-remaining")
+    if used is not None:
+        try:
+            q["used_credits"] = int(float(used))
+        except ValueError:
+            pass
+    if remaining is not None:
+        try:
+            q["remaining_reported"] = int(float(remaining))
+        except ValueError:
+            pass
+    q["last_request_utc"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    save_quota(q)
+
+    cp.write_text(json.dumps(body))
+    return body
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    sub.add_parser("sports")
+    ap_odds = sub.add_parser("odds")
+    ap_odds.add_argument("sport_key")
+    ap_odds.add_argument("--markets", default="h2h",
+                         help="comma-separated: h2h,spreads,totals (each adds 1 credit)")
+    ap_odds.add_argument("--region", default="us")
+    ap_scores = sub.add_parser("scores")
+    ap_scores.add_argument("sport_key")
+    ap_scores.add_argument("--days-from", type=int, default=None,
+                           help="include games completed up to N days ago (costs 2 instead of 1)")
+    sub.add_parser("quota")
+    args = ap.parse_args()
+
+    if args.cmd == "quota":
+        q = load_quota()
+        q["local_cap"] = LOCAL_BUDGET
+        print(json.dumps(q, indent=2))
+        return
+
+    if args.cmd == "sports":
+        body = spend_guarded("/sports", {}, cost=0)
+    elif args.cmd == "odds":
+        n_markets = len([m for m in args.markets.split(",") if m])
+        n_regions = len([r for r in args.region.split(",") if r])
+        body = spend_guarded(
+            f"/sports/{args.sport_key}/odds",
+            {"regions": args.region, "markets": args.markets, "oddsFormat": "decimal"},
+            cost=n_markets * n_regions)
+    else:
+        params, cost = {}, 1
+        if args.days_from is not None:
+            params["daysFrom"] = args.days_from
+            cost = 2
+        body = spend_guarded(f"/sports/{args.sport_key}/scores", params, cost=cost)
+
+    print(json.dumps(body, indent=2))
+
+
+if __name__ == "__main__":
+    main()

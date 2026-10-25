@@ -1,1 +1,84 @@
-ewogICJsN2EyIjogewogICAgIm9sZCI6IHsKICAgICAgImdlbmVyYWwiOiB7CiAgICAgICAgIm1lYW4iOiAwLjYyNzE0MTAyMDkxOTY4NTksCiAgICAgICAgImxvIjogMC42MDM4NDkwODYwNjg4MTM5LAogICAgICAgICJoaSI6IDAuNjUwNDMyOTU1NzcwNTU3OQogICAgICB9LAogICAgICAic3BlY2lmaWMiOiB7CiAgICAgICAgIm1lYW4iOiAwLjYyNzE0MTAyMDkxOTY4NTksCiAgICAgICAgImxvIjogMC42MDM4NDkwODYwNjg4MTM5LAogICAgICAgICJoaSI6IDAuNjUwNDMyOTU1NzcwNTU3OQogICAgICB9CiAgICB9LAogICAgInN0cmFuZ2VyIjogewogICAgICAiZ2VuZXJhbCI6IHsKICAgICAgICAibWVhbiI6IDAuMTMzMDMzMzAyNzM3NzQzNjYsCiAgICAgICAgImxvIjogMC4xMjE1ODE1MTg1NDk3NDI2NCwKICAgICAgICAiaGkiOiAwLjE0NDQ4NTA4NjkyNTc0NDcKICAgICAgfSwKICAgICAgInNwZWNpZmljIjogewogICAgICAgICJtZWFuIjogMC4xMTg4NjYxNTQzMTQ1OTY5LAogICAgICAgICJsbyI6IDAuMTA3NzYwNjIzNTMwMDgzOCwKICAgICAgICAiaGkiOiAwLjEyOTk3MTY4NTA5OTExCiAgICAgIH0KICAgIH0sCiAgICAiY2xvbmUiOiB7CiAgICAgICJnZW5lcmFsIjogewogICAgICAgICJtZWFuIjogMC42MTU3NjU0MTI1Mjc4NTg1LAogICAgICAgICJsbyI6IDAuNTkyNTgzNTIyODkyOTY5MSwKICAgICAgICAiaGkiOiAwLjYzODk0NzMwMjE2Mjc0OAogICAgICB9LAogICAgICAic3BlY2lmaWMiOiB7CiAgICAgICAgIm1lYW4iOiAwLjA1NjczNzYyOTgyMzcyMTc5LAogICAgICAgICJsbyI6IDAuMDQ1NTk2MDE4Mzg1MjY0ODgsCiAgICAgICAgImhpIjogMC4wNjc4NzkyNDEyNjIxNzg3CiAgICAgIH0KICAgIH0KICB9LAogICJsN2IyIjogewogICAgIm9sZCI6IHsKICAgICAgIm1hdGNoX0IiOiB7CiAgICAgICAgIm1lYW4iOiAwLjY5NTgzMzMzMzMzMzMzMzMsCiAgICAgICAgImxvIjogMC42NTg3OTg0MDcyNjYyNzc3LAogICAgICAgICJoaSI6IDAuNzMyODY4MjU5NDAwMzg4OQogICAgICB9LAogICAgICAibWF0Y2hfdHJ1dGgiOiB7CiAgICAgICAgIm1lYW4iOiAwLjgzNzUsCiAgICAgICAgImxvIjogMC44MTE0NTExMzI4Nzk1MTE0LAogICAgICAgICJoaSI6IDAuODYzNTQ4ODY3MTIwNDg4NgogICAgICB9CiAgICB9LAogICAgImNsb25lIjogewogICAgICAibWF0Y2hfQiI6IHsKICAgICAgICAibWVhbiI6IDAuMTI5MTY2NjY2NjY2NjY2NjgsCiAgICAgICAgImxvIjogMC4xMDYzODM4NDkzODUxMDUwMywKICAgICAgICAiaGkiOiAwLjE1MTk0OTQ4Mzk0ODIyODMzCiAgICAgIH0sCiAgICAgICJtYXRjaF90cnV0aCI6IHsKICAgICAgICAibWVhbiI6IDAuMTQwNjI1LAogICAgICAgICJsbyI6IDAuMTE4MzkzNzcwMTMwMjQ4MzIsCiAgICAgICAgImhpIjogMC4xNjI4NTYyMjk4Njk3NTE2OAogICAgICB9CiAgICB9LAogICAgImNsb25lX2ZlZCI6IHsKICAgICAgIm1hdGNoX0IiOiB7CiAgICAgICAgIm1lYW4iOiAwLjgxMTQ1ODMzMzMzMzMzMzQsCiAgICAgICAgImxvIjogMC43NzkyODY0MTE4MzAwNjM1LAogICAgICAgICJoaSI6IDAuODQzNjMwMjU0ODM2NjAzMwogICAgICB9LAogICAgICAibWF0Y2hfdHJ1dGgiOiB7CiAgICAgICAgIm1lYW4iOiAxLjAsCiAgICAgICAgImxvIjogMS4wLAogICAgICAgICJoaSI6IDEuMAogICAgICB9CiAgICB9CiAgfSwKICAicmVhbF9sb3NzIjogewogICAgInJlYWwiOiB0cnVlLAogICAgIm4iOiAxMjAsCiAgICAibG9zcyI6IDAuMDA4MzMzMzMzMzMzMzMzMzMzLAogICAgIm9ic2VydmVkIjogMC45OTE2NjY2NjY2NjY2NjY3CiAgfQp9
+{
+  "l7a2": {
+    "old": {
+      "general": {
+        "mean": 0.6271410209196859,
+        "lo": 0.6038490860688139,
+        "hi": 0.6504329557705579
+      },
+      "specific": {
+        "mean": 0.6271410209196859,
+        "lo": 0.6038490860688139,
+        "hi": 0.6504329557705579
+      }
+    },
+    "stranger": {
+      "general": {
+        "mean": 0.13303330273774366,
+        "lo": 0.12158151854974264,
+        "hi": 0.1444850869257447
+      },
+      "specific": {
+        "mean": 0.1188661543145969,
+        "lo": 0.1077606235300838,
+        "hi": 0.12997168509911
+      }
+    },
+    "clone": {
+      "general": {
+        "mean": 0.6157654125278585,
+        "lo": 0.5925835228929691,
+        "hi": 0.638947302162748
+      },
+      "specific": {
+        "mean": 0.05673762982372179,
+        "lo": 0.04559601838526488,
+        "hi": 0.0678792412621787
+      }
+    }
+  },
+  "l7b2": {
+    "old": {
+      "match_B": {
+        "mean": 0.6958333333333333,
+        "lo": 0.6587984072662777,
+        "hi": 0.7328682594003889
+      },
+      "match_truth": {
+        "mean": 0.8375,
+        "lo": 0.8114511328795114,
+        "hi": 0.8635488671204886
+      }
+    },
+    "clone": {
+      "match_B": {
+        "mean": 0.12916666666666668,
+        "lo": 0.10638384938510503,
+        "hi": 0.15194948394822833
+      },
+      "match_truth": {
+        "mean": 0.140625,
+        "lo": 0.11839377013024832,
+        "hi": 0.16285622986975168
+      }
+    },
+    "clone_fed": {
+      "match_B": {
+        "mean": 0.8114583333333334,
+        "lo": 0.7792864118300635,
+        "hi": 0.8436302548366033
+      },
+      "match_truth": {
+        "mean": 1.0,
+        "lo": 1.0,
+        "hi": 1.0
+      }
+    }
+  },
+  "real_loss": {
+    "real": true,
+    "n": 120,
+    "loss": 0.008333333333333333,
+    "observed": 0.9916666666666667
+  }
+}

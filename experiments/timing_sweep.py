@@ -1,1 +1,52 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiLlkIzmoLfnmoQgMjYg5ouN5bOw5YC877yM5pS+5Zyo5LiN5ZCM5pe25Yi777yM5o2f5Lyk5LiA5qC35ZCX77yf4oCU4oCUIOmqjOivgeS4iuS4gOatpeeahOWPjeebtOiniee7k+aenCIiIgppbXBvcnQgc3lzLG9zLGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCcuLicsJ2NvcmUnKSkKZnJvbSBsaWZlNSBpbXBvcnQgTGlmZTUKU1RFUFM9NjAwOyBDSD0wOyBTRUVEUz1yYW5nZSgxNikKCmRlZiBydW4ocGVha19hdCwgb3RoZXJzPTgsIHNlZWRzPVNFRURTKToKICAgIHB0PVs2MCppIGZvciBpIGluIHJhbmdlKDEsMTApXQogICAgc2NoZWQ9e30KICAgIGZvciBrIGluIHJhbmdlKDI2KTogc2NoZWRbcGVha19hdCtrXT1UcnVlCiAgICBmb3IgdCBpbiBwdDoKICAgICAgICBpZiBhYnModC1wZWFrX2F0KTw0MDogY29udGludWUgICAgICAjIOi3s+i/h+S4juWzsOWAvOmHjeWPoOeahOmCo+asoeaMiemUrgogICAgICAgIGZvciBrIGluIHJhbmdlKG90aGVycyk6IHNjaGVkW3Qra109VHJ1ZQogICAgcm93cz1bXQogICAgZm9yIHNkIGluIHNlZWRzOgogICAgICAgIGRlZiBhbGxvYyh3YW50LEIscyk6CiAgICAgICAgICAgIG89bnAuYXJnc29ydCgtd2FudCk7IGE9bnAuemVyb3Mocy5OKTsgbGVmdD1CCiAgICAgICAgICAgIGlmIHNjaGVkLmdldChzLnQsRmFsc2UpOgogICAgICAgICAgICAgICAgZm9yIGkgaW4gbzoKICAgICAgICAgICAgICAgICAgICBpZiBpPT1DSDogY29udGludWUKICAgICAgICAgICAgICAgICAgICB0az1taW4od2FudFtpXSxsZWZ0KTsgYVtpXT10azsgbGVmdC09dGsKICAgICAgICAgICAgICAgICAgICBpZiBsZWZ0PD0xZS0xMjogYnJlYWsKICAgICAgICAgICAgICAgIHJldHVybiBhCiAgICAgICAgICAgIGZvciBpIGluIG86CiAgICAgICAgICAgICAgICB0az1taW4od2FudFtpXSxsZWZ0KTsgYVtpXT10azsgbGVmdC09dGsKICAgICAgICAgICAgICAgIGlmIGxlZnQ8PTFlLTEyOiBicmVhawogICAgICAgICAgICByZXR1cm4gYQogICAgICAgIGxmPUxpZmU1KE49OCxzZWVkPXNkLGFsbG9jX2ZuPWFsbG9jKTsgbGYucnVuKFNURVBTKQogICAgICAgIHJvd3MuYXBwZW5kKGRpY3Qoc2VlZD1pbnQoc2QpLGNhcDA9ZmxvYXQobnAuYXNhcnJheShsZi5jYXBhY2l0eSlbMF0pLGFsaXZlPWJvb2wobGYuYWxpdmUpKSkKICAgIHJldHVybiByb3dzCgpkZWYgbWFpbigpOgogICAgcHJpbnQoIj0iKjcyKTsgcHJpbnQoIiDlkIzmoLfkuIDmrKEgMjYg5ouN5bOw5YC877yM6JC95Zyo5LiN5ZCM5pe25Yi7Iik7IHByaW50KCI9Iio3MikKICAgIHByaW50KGYiIHsn6JC954K5Jzo8MTJ9eyflrZjmtLsnOj43fXsnY2FwMCc6PjEwfSIpCiAgICByZXM9e30KICAgIGZvciBhdCBpbiBbMCw2MCwxMjAsMjQwLDM2MCw0ODBdOgogICAgICAgIHI9cnVuKGF0KTsgcmVzW2F0XT1yCiAgICAgICAgcHJpbnQoZiIg5ouNe2F0Ojw5fXtzdW0oeFsnYWxpdmUnXSBmb3IgeCBpbiByKX0ve2xlbihyKTo8NX17bnAubWVhbihbeFsnY2FwMCddIGZvciB4IGluIHJdKTo+MTAuNGZ9IikKICAgIHhzPVtucC5tZWFuKFt4WydjYXAwJ10gZm9yIHggaW4gcmVzW2FdXSkgZm9yIGEgaW4gcmVzXQogICAgcHJpbnQoKQogICAgcHJpbnQoZiIgICDmnIDml6ko5ouNMCkge3hzWzBdOi40Zn0gIOKGkiAg5pyA5pmaKOaLjTQ4MCkge3hzWy0xXTouNGZ9ICAg5beuIHt4c1stMV0teHNbMF06Ky40Zn0iKQogICAgaWYgeHNbLTFdPnhzWzBdOgogICAgICAgIHByaW50KCIgICDinIUg5Y2V6LCD77ya5ZCM5qC355qE5omT5Ye777yM6LaK5pma5oyo6LaK6L27IOKAlOKAlCDml6nmnJ/mnIDohIYiKQogICAgICAgIHByaW50KCIgICDihpIg6YKj5LmIJ+aKiuaIkOacrOaMquWIsOW8gOacuifmmK/mjKrliLDkuobjgJDmnIDohIbnmoTml7bliLvjgJHvvIzooaXkuIHmlrnlkJHplJnkuoYiKQogICAgZWxzZToKICAgICAgICBwcmludCgiICAg4qycIOmdnuWNleiwg++8jOiQveeCueaXtumXtOS4jeaYr+S4u+WboCIpCiAgICBqc29uLmR1bXAoe3N0cihhKTpyZXNbYV0gZm9yIGEgaW4gcmVzfSxvcGVuKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCcuLicsJ2RhdGEnLCd0aW1pbmdfc3dlZXAuanNvbicpLCd3JyksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQogICAgcmV0dXJuIDAKaWYgX19uYW1lX189PSJfX21haW5fXyI6IHN5cy5leGl0KG1haW4oKSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""同样的 26 拍峰值，放在不同时刻，损伤一样吗？—— 验证上一步的反直觉结果"""
+import sys,os,json
+import numpy as np
+sys.path.insert(0,os.path.join(os.path.dirname(__file__),'..','core'))
+from life5 import Life5
+STEPS=600; CH=0; SEEDS=range(16)
+
+def run(peak_at, others=8, seeds=SEEDS):
+    pt=[60*i for i in range(1,10)]
+    sched={}
+    for k in range(26): sched[peak_at+k]=True
+    for t in pt:
+        if abs(t-peak_at)<40: continue      # 跳过与峰值重叠的那次按键
+        for k in range(others): sched[t+k]=True
+    rows=[]
+    for sd in seeds:
+        def alloc(want,B,s):
+            o=np.argsort(-want); a=np.zeros(s.N); left=B
+            if sched.get(s.t,False):
+                for i in o:
+                    if i==CH: continue
+                    tk=min(want[i],left); a[i]=tk; left-=tk
+                    if left<=1e-12: break
+                return a
+            for i in o:
+                tk=min(want[i],left); a[i]=tk; left-=tk
+                if left<=1e-12: break
+            return a
+        lf=Life5(N=8,seed=sd,alloc_fn=alloc); lf.run(STEPS)
+        rows.append(dict(seed=int(sd),cap0=float(np.asarray(lf.capacity)[0]),alive=bool(lf.alive)))
+    return rows
+
+def main():
+    print("="*72); print(" 同样一次 26 拍峰值，落在不同时刻"); print("="*72)
+    print(f" {'落点':<12}{'存活':>7}{'cap0':>10}")
+    res={}
+    for at in [0,60,120,240,360,480]:
+        r=run(at); res[at]=r
+        print(f" 拍{at:<9}{sum(x['alive'] for x in r)}/{len(r):<5}{np.mean([x['cap0'] for x in r]):>10.4f}")
+    xs=[np.mean([x['cap0'] for x in res[a]]) for a in res]
+    print()
+    print(f"   最早(拍0) {xs[0]:.4f}  →  最晚(拍480) {xs[-1]:.4f}   差 {xs[-1]-xs[0]:+.4f}")
+    if xs[-1]>xs[0]:
+        print("   ✅ 单调：同样的打击，越晚挨越轻 —— 早期最脆")
+        print("   → 那么'把成本挪到开机'是挪到了【最脆的时刻】，补丁方向错了")
+    else:
+        print("   ⬜ 非单调，落点时间不是主因")
+    json.dump({str(a):res[a] for a in res},open(os.path.join(os.path.dirname(__file__),'..','data','timing_sweep.json'),'w'),ensure_ascii=False,indent=1)
+    return 0
+if __name__=="__main__": sys.exit(main())

@@ -1,1 +1,49 @@
-ewogImZiX3JlYWwiOiB0cnVlLAogImZiX21zZyI6ICI0MDk2LzQwOTYiLAogInJvd3MiOiBbCiAgewogICAiY2hpIjogMC4wLAogICAiUmEiOiAwLjAsCiAgICJScyI6IDAuNDk3Mzk3ODEzMTI4MzY0NCwKICAgInJhdGlvIjogMC4wCiAgfSwKICB7CiAgICJjaGkiOiAwLjE1LAogICAiUmEiOiAwLjAsCiAgICJScyI6IDAuNDk3MDI5NTMxODcxMTY3MzMsCiAgICJyYXRpbyI6IDAuMAogIH0sCiAgewogICAiY2hpIjogMC4zLAogICAiUmEiOiAwLjAsCiAgICJScyI6IDAuNDk4MDA3Nzc0OTY2MTg4MywKICAgInJhdGlvIjogMC4wCiAgfSwKICB7CiAgICJjaGkiOiAwLjUsCiAgICJSYSI6IDAuMCwKICAgIlJzIjogMC40OTg1ODUzNjM1Nzc3MTgyNywKICAgInJhdGlvIjogMC4wCiAgfSwKICB7CiAgICJjaGkiOiAwLjc1LAogICAiUmEiOiAwLjAsCiAgICJScyI6IDAuNDk5NDgwNjY4Njc0NTY5OSwKICAgInJhdGlvIjogMC4wCiAgfSwKICB7CiAgICJjaGkiOiAxLjAsCiAgICJSYSI6IDAuMCwKICAgIlJzIjogMC40OTk5NTQxMjg4NjQzNDAyLAogICAicmF0aW8iOiAwLjAKICB9CiBdLAogIm9rIjogewogICLikaAg55yf55y8552bIGZiMCDlhpnor7vkuIDoh7TvvIjkuI3mmK/mqKHmi5/vvIkiOiB0cnVlLAogICLikaEgz4c9MCDml7bpl7Tlj43mvJTmrovlt64g4omIIDDvvIjml6DmiYvmgKcg4oaSIOato+WPjeaJq+inhuWPr+mAhu+8iSI6IHRydWUsCiAgIuKRoiDPhz0xIOaXtumXtOWPjea8lOaui+W3ruaYvuiRlyA+IDDvvIjmiYvmgKcg4oaSIOS4jeWPr+mAhu+8iSI6IGZhbHNlLAogICLikaMgUmEg6ZqPIM+HIOWNleiwg+S4iuWNhyI6IHRydWUsCiAgIuKRpCDpnZnmgIHkuIvmn6XkuI3lh7rvvIjkuIrova4gNC81IOKdjO+8ie+8jOaXtumXtOe7tOW6puaJjeaYvuW9oiI6IGZhbHNlCiB9Cn0=
+{
+ "fb_real": true,
+ "fb_msg": "4096/4096",
+ "rows": [
+  {
+   "chi": 0.0,
+   "Ra": 0.0,
+   "Rs": 0.4973978131283644,
+   "ratio": 0.0
+  },
+  {
+   "chi": 0.15,
+   "Ra": 0.0,
+   "Rs": 0.49702953187116733,
+   "ratio": 0.0
+  },
+  {
+   "chi": 0.3,
+   "Ra": 0.0,
+   "Rs": 0.4980077749661883,
+   "ratio": 0.0
+  },
+  {
+   "chi": 0.5,
+   "Ra": 0.0,
+   "Rs": 0.49858536357771827,
+   "ratio": 0.0
+  },
+  {
+   "chi": 0.75,
+   "Ra": 0.0,
+   "Rs": 0.4994806686745699,
+   "ratio": 0.0
+  },
+  {
+   "chi": 1.0,
+   "Ra": 0.0,
+   "Rs": 0.4999541288643402,
+   "ratio": 0.0
+  }
+ ],
+ "ok": {
+  "① 真眼睛 fb0 写读一致（不是模拟）": true,
+  "② χ=0 时间反演残差 ≈ 0（无手性 → 正反扫视可逆）": true,
+  "③ χ=1 时间反演残差显著 > 0（手性 → 不可逆）": false,
+  "④ Ra 随 χ 单调上升": true,
+  "⑤ 静态下查不出（上轮 4/5 ❌），时间维度才显形": false
+ }
+}

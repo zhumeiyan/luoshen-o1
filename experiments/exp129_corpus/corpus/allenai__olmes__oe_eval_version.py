@@ -1,1 +1,11 @@
-X01BSk9SID0gIjAiCl9NSU5PUiA9ICIxIgojIE9uIG1haW4gYW5kIGluIGEgbmlnaHRseSByZWxlYXNlIHRoZSBwYXRjaCBzaG91bGQgYmUgb25lIGFoZWFkIG9mIHRoZSBsYXN0CiMgcmVsZWFzZWQgYnVpbGQuCl9QQVRDSCA9ICIwIgojIFRoaXMgaXMgbWFpbmx5IGZvciBuaWdodGx5IGJ1aWxkcyB3aGljaCBoYXZlIHRoZSBzdWZmaXggIi5kZXYkREFURSIuIFNlZQojIGh0dHBzOi8vc2VtdmVyLm9yZy8jaXMtdjEyMy1hLXNlbWFudGljLXZlcnNpb24gZm9yIHRoZSBzZW1hbnRpY3MuCl9TVUZGSVggPSAiIgoKVkVSU0lPTl9TSE9SVCA9ICJ7MH0uezF9Ii5mb3JtYXQoX01BSk9SLCBfTUlOT1IpClZFUlNJT04gPSAiezB9LnsxfS57Mn17M30iLmZvcm1hdChfTUFKT1IsIF9NSU5PUiwgX1BBVENILCBfU1VGRklYKQo=
+_MAJOR = "0"
+_MINOR = "1"
+# On main and in a nightly release the patch should be one ahead of the last
+# released build.
+_PATCH = "0"
+# This is mainly for nightly builds which have the suffix ".dev$DATE". See
+# https://semver.org/#is-v123-a-semantic-version for the semantics.
+_SUFFIX = ""
+
+VERSION_SHORT = "{0}.{1}".format(_MAJOR, _MINOR)
+VERSION = "{0}.{1}.{2}{3}".format(_MAJOR, _MINOR, _PATCH, _SUFFIX)

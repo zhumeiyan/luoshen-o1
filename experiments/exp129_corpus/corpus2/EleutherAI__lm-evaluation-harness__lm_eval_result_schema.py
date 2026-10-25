@@ -1,1 +1,217 @@
-ZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgR2VuZXJpYywgVHlwZVZhcgoKZnJvbSB0eXBpbmdfZXh0ZW5zaW9ucyBpbXBvcnQgTm90UmVxdWlyZWQsIFR5cGVkRGljdAoKClQgPSBUeXBlVmFyKCJUIiwgYm91bmQ9aW50IHwgZmxvYXQgfCBib29sIHwgdHVwbGUpCgoKIiIiRnVsbCBldmFsdWF0aW9uIHJlc3VsdHMgcmV0dXJuZWQgYnkgYGBzaW1wbGVfZXZhbHVhdGUoKWBgIGFuZCBgYGV2YWx1YXRlKClgYC4KCkFsbCBrZXlzIGFyZSBvcHRpb25hbCAoYGB0b3RhbD1GYWxzZWBgKSBiZWNhdXNlIHNldmVyYWwgYXJlIGNvbmRpdGlvbmFsbHkgcHJlc2VudDoKCi0gYGBncm91cHNgYCDigJQgb25seSBwcmVzZW50IHdoZW4gYXQgbGVhc3Qgb25lIGdyb3VwIGRlZmluZXMgYWdncmVnYXRpb24gbWV0cmljcwotIGBgc2FtcGxlc2BgIOKAlCBvbmx5IHdoZW4gbG9nX3NhbXBsZXMgaXMgVHJ1ZQotIGBgY29uZmlnYGAsIGBgZ2l0X2hhc2hgYCwgYGBkYXRlYGAsIGVudi90b2tlbml6ZXIgaW5mbyDigJQgb25seSBhZGRlZCBieQogIHNpbXBsZV9ldmFsdWF0ZSgpCiIiIgoKRXZhbFJlc3VsdHMgPSBUeXBlZERpY3QoCiAgICAiRXZhbFJlc3VsdHMiLAogICAgewogICAgICAgICMgLS0tIENvcmUgZXZhbHVhdGlvbiBvdXRwdXRzIChmcm9tIGV2YWx1YXRlKCkpIC0tLQogICAgICAgICMKICAgICAgICAjIFBlci10YXNrIG1ldHJpYyB2YWx1ZXMuCiAgICAgICAgInJlc3VsdHMiOiAiZGljdFtzdHIsIF9UYXNrTWV0cmljc10iLAogICAgICAgICMgQWdncmVnYXRlZCBncm91cC1sZXZlbCBtZXRyaWNzIChzYW1lIHNoYXBlIGFzICJyZXN1bHRzIikuCiAgICAgICAgIyBPbmx5IHByZXNlbnQgd2hlbiBncm91cHMgYXJlIGRlZmluZWQKICAgICAgICAiZ3JvdXBzIjogImRpY3Rbc3RyLCBfVGFza01ldHJpY3NdIiwKICAgICAgICAjIE1hcHMgZ3JvdXAvdGFzayBuYW1lcyB0byB0aGVpciBsaXN0IG9mIHN1YnRhc2sgbmFtZXMuCiAgICAgICAgImdyb3VwX3N1YnRhc2tzIjogZGljdFtzdHIsIGxpc3Rbc3RyXV0sCiAgICAgICAgIyBGdWxsIFlBTUwgdGFzayBjb25maWdzIGtleWVkIGJ5IHRhc2sgbmFtZS4KICAgICAgICAiY29uZmlncyI6IGRpY3Rbc3RyLCBkaWN0W3N0ciwgc3RyIHwgYm9vbCB8IE5vbmVdXSwKICAgICAgICAjIFRhc2sgdmVyc2lvbiBmcm9tIFlBTUwgbWV0YWRhdGEsIGtleWVkIGJ5IHRhc2sgbmFtZS4KICAgICAgICAidmVyc2lvbnMiOiBkaWN0W3N0ciwgc3RyIHwgZmxvYXQgfCBOb25lXSwKICAgICAgICAjIE51bWJlciBvZiBmZXctc2hvdCBleGFtcGxlcyB1c2VkIHBlciB0YXNrLgogICAgICAgICJuLXNob3QiOiBkaWN0W3N0ciwgaW50XSwKICAgICAgICAjIFBlci10YXNrIGRpY3QgbWFwcGluZyBtZXRyaWMgbmFtZSB0byB3aGV0aGVyIGhpZ2hlciBpcyBiZXR0ZXIuCiAgICAgICAgImhpZ2hlcl9pc19iZXR0ZXIiOiBkaWN0W3N0ciwgZGljdFtzdHIsIGJvb2wgfCBOb25lXV0sCiAgICAgICAgIyBPcmlnaW5hbCBhbmQgZWZmZWN0aXZlIChhZnRlciBsaW1pdCkgc2FtcGxlIGNvdW50cyBwZXIgdGFzay4KICAgICAgICAibi1zYW1wbGVzIjogImRpY3Rbc3RyLCBfU2FtcGxlQ291bnRdIiwKICAgICAgICAjIFBlci10YXNrIGxpc3Qgb2YgcGVyLWRvY3VtZW50IHNhbXBsZSByZXN1bHRzLgogICAgICAgICMgT25seSBwcmVzZW50IHdoZW4gbG9nX3NhbXBsZXMgaXMgVHJ1ZS4KICAgICAgICAic2FtcGxlcyI6ICJkaWN0W3N0ciwgbGlzdFtTYW1wbGVSZXN1bHRdXSIsCiAgICAgICAgIyAtLS0gTWV0YWRhdGEgYWRkZWQgYnkgc2ltcGxlX2V2YWx1YXRlKCkgLS0tCiAgICAgICAgIwogICAgICAgICMgTW9kZWwgYW5kIGV4ZWN1dGlvbiBjb25maWd1cmF0aW9uLgogICAgICAgICJjb25maWciOiAiX0V2YWxDb25maWciLAogICAgICAgICMgR2l0IGNvbW1pdCBoYXNoIGF0IGV2YWx1YXRpb24gdGltZS4KICAgICAgICAiZ2l0X2hhc2giOiBzdHIsCiAgICAgICAgIyBVTklYIHRpbWVzdGFtcCB3aGVuIGV2YWx1YXRpb24gc3RhcnRlZC4KICAgICAgICAiZGF0ZSI6IGZsb2F0LAogICAgICAgICMgLS0tIEVudmlyb25tZW50IGluZm8gKGFkZGVkIGJ5IGFkZF9lbnZfaW5mbygpKSAtLS0KICAgICAgICAjCiAgICAgICAgIyBQeVRvcmNoIGVudmlyb25tZW50IGluZm8gc3RyaW5nLgogICAgICAgICJwcmV0dHlfZW52X2luZm8iOiBzdHIsCiAgICAgICAgIyBJbnN0YWxsZWQgdHJhbnNmb3JtZXJzIGxpYnJhcnkgdmVyc2lvbi4KICAgICAgICAidHJhbnNmb3JtZXJzX3ZlcnNpb24iOiBzdHIsCiAgICAgICAgIyBJbnN0YWxsZWQgbG1fZXZhbCBsaWJyYXJ5IHZlcnNpb24uCiAgICAgICAgImxtX2V2YWxfdmVyc2lvbiI6IHN0ciwKICAgICAgICAjIEdpdCBoYXNoIG9mIHRoZSBwYXJlbnQgcmVwbywgaWYgdGhpcyByZXBvIGlzIGEgc3VibW9kdWxlLgogICAgICAgICJ1cHBlcl9naXRfaGFzaCI6IHN0ciB8IE5vbmUsCiAgICAgICAgIyAtLS0gVG9rZW5pemVyIGluZm8gKGFkZGVkIGJ5IGFkZF90b2tlbml6ZXJfaW5mbygpKSAtLS0KICAgICAgICAjCiAgICAgICAgIyBQYWQgdG9rZW4gYW5kIGl0cyBJRCBhcyBbdG9rZW4sIHRva2VuX2lkXS4KICAgICAgICAjIFtsbS50b2tlbml6ZXIucGFkX3Rva2VuLCBzdHIobG0udG9rZW5pemVyLnBhZF90b2tlbl9pZCldCiAgICAgICAgInRva2VuaXplcl9wYWRfdG9rZW4iOiBsaXN0W3N0cl0sCiAgICAgICAgIyBFT1MgdG9rZW4gYW5kIGl0cyBJRCBhcyBbdG9rZW4sIHRva2VuX2lkXS4KICAgICAgICAjIFtsbS50b2tlbml6ZXIuZW9zX3Rva2VuLCBzdHIobG0udG9rZW5pemVyLmVvc190b2tlbl9pZCldCiAgICAgICAgInRva2VuaXplcl9lb3NfdG9rZW4iOiBsaXN0W3N0cl0sCiAgICAgICAgIyBCT1MgdG9rZW4gYW5kIGl0cyBJRCBhcyBbdG9rZW4sIHRva2VuX2lkXS4KICAgICAgICAjIFtsbS50b2tlbml6ZXIuYm9zX3Rva2VuLCBzdHIobG0udG9rZW5pemVyLmJvc190b2tlbl9pZCldCiAgICAgICAgInRva2VuaXplcl9ib3NfdG9rZW4iOiBsaXN0W3N0cl0sCiAgICAgICAgIyBFbmQtb2YtdGV4dCB0b2tlbiBJRCB1c2VkIGJ5IHRoZSBtb2RlbC4KICAgICAgICAjIGdldGF0dHIobG0sICJlb3RfdG9rZW5faWQiLCBOb25lKQogICAgICAgICJlb3RfdG9rZW5faWQiOiBpbnQgfCBOb25lLAogICAgICAgICMgTWF4aW11bSBzZXF1ZW5jZSBsZW5ndGggdXNlZCBmb3IgZXZhbHVhdGlvbi4KICAgICAgICAjIGdldGF0dHIobG0sICJtYXhfbGVuZ3RoIiwgTm9uZSkgaW5zaWRlIGFkZF90b2tlbml6ZXJfaW5mbygpCiAgICAgICAgIm1heF9sZW5ndGgiOiBpbnQgfCBOb25lLAogICAgICAgICMgLS0tIE1vZGVsIGlkZW50aXR5IChhZGRlZCBieSBzaW1wbGVfZXZhbHVhdGUoKSkgLS0tCiAgICAgICAgIwogICAgICAgICMgTW9kZWwgc291cmNlIGlkZW50aWZpZXIgKGUuZy4gImhmIikuCiAgICAgICAgIm1vZGVsX3NvdXJjZSI6IHN0ciwKICAgICAgICAjIEZ1bGwgbW9kZWwgbmFtZSAoZS5nLiAiRWxldXRoZXJBSS9weXRoaWEtMTRtIikuCiAgICAgICAgIm1vZGVsX25hbWUiOiBzdHIsCiAgICAgICAgIyBTYW5pdGl6ZWQgbW9kZWwgbmFtZSBzYWZlIGZvciBmaWxlIHBhdGhzLgogICAgICAgICJtb2RlbF9uYW1lX3Nhbml0aXplZCI6IHN0ciwKICAgICAgICAjIC0tLSBDaGF0IC8gaW5zdHJ1Y3Rpb24gZmllbGRzIC0tLQogICAgICAgICMKICAgICAgICAjIFN5c3RlbSBpbnN0cnVjdGlvbiBwYXNzZWQgdG8gdGhlIG1vZGVsLCBpZiBhbnkuCiAgICAgICAgInN5c3RlbV9pbnN0cnVjdGlvbiI6IHN0ciB8IE5vbmUsCiAgICAgICAgIyBTSEEgb2YgdGhlIHN5c3RlbSBpbnN0cnVjdGlvbi4KICAgICAgICAic3lzdGVtX2luc3RydWN0aW9uX3NoYSI6IHN0ciB8IE5vbmUsCiAgICAgICAgIyBXaGV0aGVyIGZldy1zaG90IGV4YW1wbGVzIHdlcmUgZm9ybWF0dGVkIGFzIG11bHRpLXR1cm4uCiAgICAgICAgImZld3Nob3RfYXNfbXVsdGl0dXJuIjogYm9vbCB8IE5vbmUsCiAgICAgICAgIyBDaGF0IHRlbXBsYXRlIHN0cmluZywgaWYgYXBwbGljYWJsZS4KICAgICAgICAiY2hhdF90ZW1wbGF0ZSI6IHN0ciB8IE5vbmUsCiAgICAgICAgIyBTSEEgb2YgdGhlIGNoYXQgdGVtcGxhdGUuCiAgICAgICAgImNoYXRfdGVtcGxhdGVfc2hhIjogc3RyIHwgTm9uZSwKICAgICAgICAjIC0tLSBNaXNjIG1ldGFkYXRhIC0tLQogICAgICAgICMKICAgICAgICAjIFBlci10YXNrIGhhc2ggdmFsdWVzIGZvciByZXByb2R1Y2liaWxpdHkgdmVyaWZpY2F0aW9uLgogICAgICAgICJ0YXNrX2hhc2hlcyI6IGRpY3Rbc3RyLCBzdHJdLAogICAgICAgICMgV2FsbC1jbG9jayBldmFsdWF0aW9uIHRpbWUgaW4gc2Vjb25kcyAoc3RvcmVkIGFzIHN0cmluZykuCiAgICAgICAgInRvdGFsX2V2YWx1YXRpb25fdGltZV9zZWNvbmRzIjogc3RyLAogICAgfSwKICAgIHRvdGFsPUZhbHNlLAopCgoKY2xhc3MgX1Rhc2tNZXRyaWNzKFR5cGVkRGljdCwgR2VuZXJpY1tUXSwgZXh0cmFfaXRlbXM9VCk6CiAgICAiIiJQZXItdGFzayBtZXRyaWMgZGljdCBwYXNzZWQgdGhyb3VnaCBldmFsdWF0aW9uIGFuZCBkaXNwbGF5LgoKICAgIEZpeGVkIGtleXMgYXJlIGBgbmFtZWBgLCBgYGFsaWFzYGAgYW5kIGBgc2FtcGxlX2xlbmBgLiAgVGhlIHJlbWFpbmluZyBrZXlzIGFyZQogICAgZHluYW1pYyBgYG1ldHJpYyxmaWx0ZXJgYCBwYWlycyBsaWtlIGBgImFjYyxub25lImBgIGFuZCBgYCJhY2Nfc3RkZXJyLG5vbmUiYGAuCiAgICAiIiIKCiAgICBuYW1lOiBzdHIKICAgICIiIk5hbWUgb2YgdGhlIFRhc2suIiIiCgogICAgYWxpYXM6IHN0cgogICAgIiIiRGlzcGxheSBuYW1lIGZvciB0aGUgdGFzayAoZmFsbHMgYmFjayB0byB0YXNrIG5hbWUpLiIiIgoKICAgIHNhbXBsZV9sZW46IGludAogICAgIiIiTnVtYmVyIG9mIGRvY3VtZW50cyBldmFsdWF0ZWQgZm9yIHRoaXMgdGFzay4iIiIKCiAgICBzYW1wbGVfY291bnQ6IE5vdFJlcXVpcmVkW2RpY3Rbc3RyLCBpbnRdXQogICAgIiIiUGVyLW1ldHJpYyBzYW1wbGUgY291bnRzIChncm91cHMgb25seSkuIE1hcHMgbWV0cmljIGtleXMgbGlrZQogICAgYGAiYWNjLG5vbmUiYGAgdG8gdGhlIG51bWJlciBvZiBzYW1wbGVzIHVzZWQgZm9yIHRoYXQgbWV0cmljLiIiIgoKCmNsYXNzIF9TYW1wbGVDb3VudChUeXBlZERpY3QpOgogICAgIiIiTnVtYmVyIG9mIGV2YWx1YXRpb24gc2FtcGxlcyBmb3IgYSB0YXNrLiIiIgoKICAgIG9yaWdpbmFsOiBpbnQKICAgICIiIlRvdGFsIG51bWJlciBvZiBkb2N1bWVudHMgaW4gdGhlIGV2YWx1YXRpb24gc3BsaXQuIiIiCgogICAgZWZmZWN0aXZlOiBpbnQKICAgICIiIkFjdHVhbCBudW1iZXIgb2YgZG9jdW1lbnRzIGFjdHVhbGx5IGV2YWx1YXRlZCAoZS5nLiB1c2luZyBsaW1pdCkuIiIiCgoKY2xhc3MgX0V2YWxDb25maWcoVHlwZWREaWN0LCB0b3RhbD1GYWxzZSk6CiAgICAiIiJNb2RlbCBhbmQgZXhlY3V0aW9uIGNvbmZpZ3VyYXRpb24gc3RvcmVkIGluIHJlc3VsdHMuIiIiCgogICAgbW9kZWw6IHN0cgogICAgbW9kZWxfYXJnczogc3RyIHwgZGljdFtzdHIsIHN0ciB8IGludCB8IGZsb2F0XSB8IE5vbmUKICAgIG1vZGVsX251bV9wYXJhbWV0ZXJzOiBpbnQKICAgIG1vZGVsX2R0eXBlOiBzdHIKICAgIG1vZGVsX3JldmlzaW9uOiBzdHIKICAgIG1vZGVsX3NoYTogc3RyCiAgICBiYXRjaF9zaXplOiBzdHIgfCBOb25lCiAgICBiYXRjaF9zaXplczogbGlzdFtpbnRdCiAgICBkZXZpY2U6IHN0ciB8IE5vbmUKICAgIHVzZV9jYWNoZTogc3RyIHwgTm9uZQogICAgbGltaXQ6IGludCB8IGZsb2F0IHwgTm9uZQogICAgYm9vdHN0cmFwX2l0ZXJzOiBpbnQKICAgIGdlbl9rd2FyZ3M6IHN0ciB8IGRpY3QgfCBOb25lCiAgICByYW5kb21fc2VlZDogaW50CiAgICBudW1weV9zZWVkOiBpbnQKICAgIHRvcmNoX3NlZWQ6IGludAogICAgZmV3c2hvdF9zZWVkOiBpbnQKCgpjbGFzcyBTYW1wbGVSZXN1bHQoVHlwZWREaWN0LCBleHRyYV9pdGVtcz1mbG9hdCk6CiAgICAiIiJQZXItZG9jdW1lbnQgcmVzdWx0IHdyaXR0ZW4gdG8gYGBzYW1wbGVzXyouanNvbmxgYCB3aGVuIGBgbG9nX3NhbXBsZXM9VHJ1ZWBgLgoKICAgIFRoZXJlIGlzIG9uZSBlbnRyeSBwZXIgZmlsdGVyIChlLmcuIGBgIm5vbmUiYGAsIGBgInN0cmljdC1tYXRjaCJgYCkuCiAgICBGaXhlZCBrZXlzIGFyZSBjb21tb24gYWNyb3NzIGFsbCB0YXNrIHR5cGVzIChtdWx0aXBsZS1jaG9pY2UsIGdlbmVyYXRpb24sIGV0Yy4pLgogICAgRHluYW1pYyBrZXlzIGFyZSBwZXItc2FtcGxlIG1ldHJpYyBzY29yZXMgKGUuZy4gYGBhY2NgYCwgYGBhY2Nfbm9ybWBgLAogICAgYGBleGFjdF9tYXRjaGBgKSB3aG9zZSBuYW1lcyBhbmQgY291bnQgdmFyeSBieSB0YXNrIOKAlCB0aGVzZSBhcmUgZmxvYXRzLAogICAgYnV0IG5vdGUgdGhleSBhcmUgY29tbW9ubHkgYGBudW1weS5mbG9hdDY0YGAgKGEgYGBmbG9hdGBgIHN1YmNsYXNzIHRoYXQgaXMKICAgIE5PVCBKU09OLXNlcmlhbGl6YWJsZSkgaW4gbWVtb3J5IGFuZCBvbmx5IGJlY29tZSBwbGFpbiBgYGZsb2F0YGAgYWZ0ZXIgdGhlCiAgICBzYXZlLXBhdGggc2FuaXRpemF0aW9uIGluIGBgZXZhbHVhdGlvbl90cmFja2VyYGAuCiAgICAiIiIKCiAgICBkb2NfaWQ6IGludAogICAgIiIiWmVyby1iYXNlZCBpbmRleCBvZiB0aGUgZG9jdW1lbnQgd2l0aGluIHRoZSBldmFsdWF0aW9uIHNwbGl0LiIiIgoKICAgIGRvYzogZGljdFtzdHIsIEFueV0KICAgICIiIk9yaWdpbmFsIGRvY3VtZW50IGZyb20gdGhlIGRhdGFzZXQgZm9yIHRoaXMgc2FtcGxlLiIiIgoKICAgIHRhcmdldDogc3RyCiAgICAiIiJHb2xkLXN0YW5kYXJkIHRhcmdldCBzdHJpbmcuIiIiCgogICAgYXJndW1lbnRzOiBsaXN0W2xpc3RbQW55XV0KICAgICIiIlBlci1yZXF1ZXN0IG1vZGVsIGlucHV0cywgb25lIGVudHJ5IHBlciByZXF1ZXN0IChidWlsdCBhcwogICAgYGBbcmVxLmFyZ3MgZm9yIHJlcSBpbiByZXF1ZXN0c11gYCBpbiBgYGV2YWx1YXRvcmBgIOKAlCB0dXBsZXMgaW4gbWVtb3J5LAogICAgbGlzdHMgYWZ0ZXIgYSBKU09OIHJvdW5kLXRyaXApLgogICAgTXVsdGlwbGUtY2hvaWNlOiBvbmUgZW50cnkgcGVyIGNob2ljZSwgYGAoY29udGV4dCwgY29udGludWF0aW9uKWBgLgogICAgR2VuZXJhdGlvbjogc2luZ2xlIGVudHJ5LCBgYChwcm9tcHQsIGdlbl9rd2FyZ3MpYGAuCiAgICBOT1RFOiB0aGUgYGB7Imdlbl9hcmdzX04iOiB7ImFyZ18wIjogLi4uLCAiYXJnXzEiOiAuLi59fWBgIGRpY3Qgc2hhcGUgb25seQogICAgZXhpc3RzIGluIHNhbml0aXplZCBvbi1kaXNrIG91dHB1dCAoc2VlIGBgZXZhbHVhdGlvbl90cmFja2VyYGApLCBub3QgaW4KICAgIHRoZSBpbi1tZW1vcnkgc2FtcGxlcyB0aGlzIHNjaGVtYSBkZXNjcmliZXMuIiIiCgogICAgcmVzcHM6IGxpc3RbbGlzdFtzdHJdXSB8IGxpc3RbbGlzdFtsaXN0W3N0cl1dXQogICAgIiIiUmF3IG1vZGVsIHJlc3BvbnNlcy4gIE91dGVyIGxpc3QgaXMgcGVyLXJlcXVlc3QgKG9uZSBwZXIgYGBnZW5fYXJnc19OYGApLgogICAgR2VuZXJhdGlvbjogYGBsaXN0W2xpc3Rbc3RyXV1gYCDigJQgcmVxdWVzdHMgw5cgcmVwZWF0cyDDlyBnZW5lcmF0ZWQgdGV4dC4KICAgIE11bHRpcGxlLWNob2ljZTogYGBsaXN0W2xpc3RbbGlzdFtzdHJdXV1gYCDigJQgcmVxdWVzdHMgw5cgcmVwZWF0cyDDlyBgYFtsb2dfcHJvYiwgaXNfZ3JlZWR5XWBgLiIiIgoKICAgIGZpbHRlcmVkX3Jlc3BzOiBsaXN0W3N0cl0gfCBsaXN0W2xpc3Rbc3RyXV0KICAgICIiIlJlc3BvbnNlcyBhZnRlciBmaWx0ZXIgYXBwbGljYXRpb24uICBQZXItcmVxdWVzdC4KICAgIEdlbmVyYXRpb246IGBgbGlzdFtzdHJdYGAuCiAgICBNdWx0aXBsZS1jaG9pY2U6IGBgbGlzdFtsaXN0W3N0cl1dYGAg4oCUIHBlci1jaG9pY2UgYGBbbG9nX3Byb2IsIGlzX2dyZWVkeV1gYC4iIiIKCiAgICBmaWx0ZXI6IHN0cgogICAgIiIiTmFtZSBvZiB0aGUgZmlsdGVyIGFwcGxpZWQgKGUuZy4gYGAibm9uZSJgYCwgYGAic3RyaWN0LW1hdGNoImBgKS4iIiIKCiAgICBtZXRyaWNzOiBsaXN0W3N0cl0KICAgICIiIk5hbWVzIG9mIG1ldHJpY3MgY29tcHV0ZWQgZm9yIHRoaXMgc2FtcGxlIChlLmcuIGBgWyJhY2MiLCAiYWNjX25vcm0iXWBgKS4iIiIKCiAgICBkb2NfaGFzaDogc3RyCiAgICAiIiJTSEEgaGFzaCBvZiB0aGUgZG9jdW1lbnQgZm9yIHJlcHJvZHVjaWJpbGl0eSB2ZXJpZmljYXRpb24uIiIiCgogICAgcHJvbXB0X2hhc2g6IHN0cgogICAgIiIiU0hBIGhhc2ggb2YgdGhlIHByb21wdCBzZW50IHRvIHRoZSBtb2RlbC4iIiIKCiAgICB0YXJnZXRfaGFzaDogc3RyCiAgICAiIiJTSEEgaGFzaCBvZiB0aGUgdGFyZ2V0IHN0cmluZy4iIiIK
+from typing import Any, Generic, TypeVar
+
+from typing_extensions import NotRequired, TypedDict
+
+
+T = TypeVar("T", bound=int | float | bool | tuple)
+
+
+"""Full evaluation results returned by ``simple_evaluate()`` and ``evaluate()``.
+
+All keys are optional (``total=False``) because several are conditionally present:
+
+- ``groups`` — only present when at least one group defines aggregation metrics
+- ``samples`` — only when log_samples is True
+- ``config``, ``git_hash``, ``date``, env/tokenizer info — only added by
+  simple_evaluate()
+"""
+
+EvalResults = TypedDict(
+    "EvalResults",
+    {
+        # --- Core evaluation outputs (from evaluate()) ---
+        #
+        # Per-task metric values.
+        "results": "dict[str, _TaskMetrics]",
+        # Aggregated group-level metrics (same shape as "results").
+        # Only present when groups are defined
+        "groups": "dict[str, _TaskMetrics]",
+        # Maps group/task names to their list of subtask names.
+        "group_subtasks": dict[str, list[str]],
+        # Full YAML task configs keyed by task name.
+        "configs": dict[str, dict[str, str | bool | None]],
+        # Task version from YAML metadata, keyed by task name.
+        "versions": dict[str, str | float | None],
+        # Number of few-shot examples used per task.
+        "n-shot": dict[str, int],
+        # Per-task dict mapping metric name to whether higher is better.
+        "higher_is_better": dict[str, dict[str, bool | None]],
+        # Original and effective (after limit) sample counts per task.
+        "n-samples": "dict[str, _SampleCount]",
+        # Per-task list of per-document sample results.
+        # Only present when log_samples is True.
+        "samples": "dict[str, list[SampleResult]]",
+        # --- Metadata added by simple_evaluate() ---
+        #
+        # Model and execution configuration.
+        "config": "_EvalConfig",
+        # Git commit hash at evaluation time.
+        "git_hash": str,
+        # UNIX timestamp when evaluation started.
+        "date": float,
+        # --- Environment info (added by add_env_info()) ---
+        #
+        # PyTorch environment info string.
+        "pretty_env_info": str,
+        # Installed transformers library version.
+        "transformers_version": str,
+        # Installed lm_eval library version.
+        "lm_eval_version": str,
+        # Git hash of the parent repo, if this repo is a submodule.
+        "upper_git_hash": str | None,
+        # --- Tokenizer info (added by add_tokenizer_info()) ---
+        #
+        # Pad token and its ID as [token, token_id].
+        # [lm.tokenizer.pad_token, str(lm.tokenizer.pad_token_id)]
+        "tokenizer_pad_token": list[str],
+        # EOS token and its ID as [token, token_id].
+        # [lm.tokenizer.eos_token, str(lm.tokenizer.eos_token_id)]
+        "tokenizer_eos_token": list[str],
+        # BOS token and its ID as [token, token_id].
+        # [lm.tokenizer.bos_token, str(lm.tokenizer.bos_token_id)]
+        "tokenizer_bos_token": list[str],
+        # End-of-text token ID used by the model.
+        # getattr(lm, "eot_token_id", None)
+        "eot_token_id": int | None,
+        # Maximum sequence length used for evaluation.
+        # getattr(lm, "max_length", None) inside add_tokenizer_info()
+        "max_length": int | None,
+        # --- Model identity (added by simple_evaluate()) ---
+        #
+        # Model source identifier (e.g. "hf").
+        "model_source": str,
+        # Full model name (e.g. "EleutherAI/pythia-14m").
+        "model_name": str,
+        # Sanitized model name safe for file paths.
+        "model_name_sanitized": str,
+        # --- Chat / instruction fields ---
+        #
+        # System instruction passed to the model, if any.
+        "system_instruction": str | None,
+        # SHA of the system instruction.
+        "system_instruction_sha": str | None,
+        # Whether few-shot examples were formatted as multi-turn.
+        "fewshot_as_multiturn": bool | None,
+        # Chat template string, if applicable.
+        "chat_template": str | None,
+        # SHA of the chat template.
+        "chat_template_sha": str | None,
+        # --- Misc metadata ---
+        #
+        # Per-task hash values for reproducibility verification.
+        "task_hashes": dict[str, str],
+        # Wall-clock evaluation time in seconds (stored as string).
+        "total_evaluation_time_seconds": str,
+    },
+    total=False,
+)
+
+
+class _TaskMetrics(TypedDict, Generic[T], extra_items=T):
+    """Per-task metric dict passed through evaluation and display.
+
+    Fixed keys are ``name``, ``alias`` and ``sample_len``.  The remaining keys are
+    dynamic ``metric,filter`` pairs like ``"acc,none"`` and ``"acc_stderr,none"``.
+    """
+
+    name: str
+    """Name of the Task."""
+
+    alias: str
+    """Display name for the task (falls back to task name)."""
+
+    sample_len: int
+    """Number of documents evaluated for this task."""
+
+    sample_count: NotRequired[dict[str, int]]
+    """Per-metric sample counts (groups only). Maps metric keys like
+    ``"acc,none"`` to the number of samples used for that metric."""
+
+
+class _SampleCount(TypedDict):
+    """Number of evaluation samples for a task."""
+
+    original: int
+    """Total number of documents in the evaluation split."""
+
+    effective: int
+    """Actual number of documents actually evaluated (e.g. using limit)."""
+
+
+class _EvalConfig(TypedDict, total=False):
+    """Model and execution configuration stored in results."""
+
+    model: str
+    model_args: str | dict[str, str | int | float] | None
+    model_num_parameters: int
+    model_dtype: str
+    model_revision: str
+    model_sha: str
+    batch_size: str | None
+    batch_sizes: list[int]
+    device: str | None
+    use_cache: str | None
+    limit: int | float | None
+    bootstrap_iters: int
+    gen_kwargs: str | dict | None
+    random_seed: int
+    numpy_seed: int
+    torch_seed: int
+    fewshot_seed: int
+
+
+class SampleResult(TypedDict, extra_items=float):
+    """Per-document result written to ``samples_*.jsonl`` when ``log_samples=True``.
+
+    There is one entry per filter (e.g. ``"none"``, ``"strict-match"``).
+    Fixed keys are common across all task types (multiple-choice, generation, etc.).
+    Dynamic keys are per-sample metric scores (e.g. ``acc``, ``acc_norm``,
+    ``exact_match``) whose names and count vary by task — these are floats,
+    but note they are commonly ``numpy.float64`` (a ``float`` subclass that is
+    NOT JSON-serializable) in memory and only become plain ``float`` after the
+    save-path sanitization in ``evaluation_tracker``.
+    """
+
+    doc_id: int
+    """Zero-based index of the document within the evaluation split."""
+
+    doc: dict[str, Any]
+    """Original document from the dataset for this sample."""
+
+    target: str
+    """Gold-standard target string."""
+
+    arguments: list[list[Any]]
+    """Per-request model inputs, one entry per request (built as
+    ``[req.args for req in requests]`` in ``evaluator`` — tuples in memory,
+    lists after a JSON round-trip).
+    Multiple-choice: one entry per choice, ``(context, continuation)``.
+    Generation: single entry, ``(prompt, gen_kwargs)``.
+    NOTE: the ``{"gen_args_N": {"arg_0": ..., "arg_1": ...}}`` dict shape only
+    exists in sanitized on-disk output (see ``evaluation_tracker``), not in
+    the in-memory samples this schema describes."""
+
+    resps: list[list[str]] | list[list[list[str]]]
+    """Raw model responses.  Outer list is per-request (one per ``gen_args_N``).
+    Generation: ``list[list[str]]`` — requests × repeats × generated text.
+    Multiple-choice: ``list[list[list[str]]]`` — requests × repeats × ``[log_prob, is_greedy]``."""
+
+    filtered_resps: list[str] | list[list[str]]
+    """Responses after filter application.  Per-request.
+    Generation: ``list[str]``.
+    Multiple-choice: ``list[list[str]]`` — per-choice ``[log_prob, is_greedy]``."""
+
+    filter: str
+    """Name of the filter applied (e.g. ``"none"``, ``"strict-match"``)."""
+
+    metrics: list[str]
+    """Names of metrics computed for this sample (e.g. ``["acc", "acc_norm"]``)."""
+
+    doc_hash: str
+    """SHA hash of the document for reproducibility verification."""
+
+    prompt_hash: str
+    """SHA hash of the prompt sent to the model."""
+
+    target_hash: str
+    """SHA hash of the target string."""

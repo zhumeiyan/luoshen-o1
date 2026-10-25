@@ -1,1 +1,82 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDc4IOWHuuWbvu+8muihqOW+geW/heimgeaApyArIOaViOW6lOeJueW8guaApyArIOaXtumXtOe6vyIiIgppbXBvcnQganNvbiwgb3MKaW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliIGltcG9ydCBmb250X21hbmFnZXIKClJPT1QgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAnLi4nKQpGSUcgPSBvcy5wYXRoLmpvaW4oUk9PVCwgJ2ZpZycpOyBvcy5tYWtlZGlycyhGSUcsIGV4aXN0X29rPVRydWUpCmZvciBmIGluIFsiV2VuUXVhbllpIE1pY3JvIEhlaSIsICJTaW1IZWkiLCAiTm90byBTYW5zIENKSyBTQyJdOgogICAgdHJ5OgogICAgICAgIGZvbnRfbWFuYWdlci5maW5kZm9udChmLCBmYWxsYmFja190b19kZWZhdWx0PUZhbHNlKTsgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXSA9IFtmXTsgYnJlYWsKICAgIGV4Y2VwdCBFeGNlcHRpb246IGNvbnRpbnVlCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl0gPSBGYWxzZQoKZDc4ICA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihST09ULCAnZXZpZGVuY2UvcmF3X2RhdGEvcmVwcmVzZW50YXRpb25fMDc4Lmpzb24nKSkpCmQ3OGIgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oUk9PVCwgJ2V2aWRlbmNlL3Jhd19kYXRhL3JlcHJlc2VudGF0aW9uXzA3OGIuanNvbicpKSkKCmZpZywgYXggPSBwbHQuc3VicGxvdHMoMiwgMiwgZmlnc2l6ZT0oMTMsIDkuNSkpCgojIC0tLSAoMSkg6KGo5b6B57KS5bqm5YmC6YeP5Y+N5bqUIC0tLQphID0gYXhbMCwgMF0Kcm93cyA9IGQ3OFsicm93cyJdCnhzID0gW3JbIkwiXSBmb3IgciBpbiByb3dzXTsgeXMgPSBbclsibWVhbiJdIGZvciByIGluIHJvd3NdCmJhc2UgPSBkNzhbImNvbnRyb2xfbm9fc2Vuc2VfbWVhbiJdCmEuYXhobGluZShiYXNlLCBjb2xvcj0iZ3JheSIsIGxzPSItLSIsIGx3PTEuNSwgbGFiZWw9ZiLml6DmhJ/lrpjln7rnur8ge2Jhc2U6LjRmfSIpCmEucGxvdChbMCBpZiB4ID09IDAgZWxzZSB4IGZvciB4IGluIHhzXSwgeXMsICJvLSIsIGNvbG9yPSIjYzAzOTJiIiwgbHc9MiwgbXM9OSwKICAgICAgIGxhYmVsPSLmnInmhJ/nn6XvvIjnnJ/lrp7msJTosaHor7vmlbDvvIkiKQphLnNldF94c2NhbGUoInN5bWxvZyIsIGxpbnRocmVzaD0xKQphLnNldF94dGlja3MoWzAsIDIsIDUsIDIwLCAxMDBdKQphLnNldF94dGlja2xhYmVscyhbIjBcbuaXoOihqOW+gSIsICIyXG4xYml0IiwgIjVcbuS6uuexu+W4puWuvSIsICIyMCIsICIxMDAiXSkKYS5zZXRfeGxhYmVsKCLooajlvoHnspLluqYgTO+8iOemu+aVo+Wxgue6p+aVsO+8iSIpCmEuc2V0X3lsYWJlbCgi5a656YeP5YGP5bqm77yI5Y+W6IiN57uT5p6E77yJIikKYS5zZXRfdGl0bGUoIuKRoCDooajlvoHnspLluqbkuI3mlY/mhJ/vvJrml6DooajlvoHkuIvnu5PmnoTlt7LlnKhcbkgxIM6UPSswLjA1OTYgWyswLjAzNCwrMC4wODZd77yb5ZCEIEwg5LiOIEw9MCDlhajpg6jnrYnku7ciLCBmb250c2l6ZT0xMCkKYS5sZWdlbmQoZm9udHNpemU9OCk7IGEuZ3JpZChhbHBoYT0uMykKCiMgLS0tICgyKSDmlYjlupTnibnlvILmgKflr7nnhacgLS0tCmEgPSBheFswLCAxXQpvcmRlciA9IFsiY3RybF96ZXJvIiwgImN0cmxfY29uc3QiLCAicmVhbCIsICJjdHJsX3Blcm0iXQpsYmwgPSB7ImN0cmxfemVybyI6ICLml6DmhJ/nn6VcbihzYWw9MCkiLCAiY3RybF9jb25zdCI6ICLmnInovpPlhaVcbumbtue7k+aehCIsICJyZWFsIjogIuecn+Wunlxu5LiW55WM57uT5p6EIiwgImN0cmxfcGVybSI6ICLpmo/mnLrnva7mjaJcbijnu5PmnoTplJnkubEpIn0KbWVhbiA9IHtyWyJncm91cCJdOiByWyJtZWFuIl0gZm9yIHIgaW4gZDc4Ylsicm93cyJdfQptZWFuWyJjdHJsX3plcm8iXSA9IGQ3OGJbImJhc2VsaW5lX3plcm8iXQpjb2xzID0gWyIjOTVhNWE2IiwgIiM3ZjhjOGQiLCAiI2MwMzkyYiIsICIjMjk4MGI5Il0KYmFycyA9IGEuYmFyKFtsYmxba10gZm9yIGsgaW4gb3JkZXJdLCBbbWVhbltrXSBmb3IgayBpbiBvcmRlcl0sIGNvbG9yPWNvbHMpCmZvciBiLCBrIGluIHppcChiYXJzLCBvcmRlcik6CiAgICBhLnRleHQoYi5nZXRfeCgpICsgYi5nZXRfd2lkdGgoKS8yLCBiLmdldF9oZWlnaHQoKSArIC4wMDQsCiAgICAgICAgICAgZiJ7bWVhbltrXTouNGZ9IiwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTksIGZvbnR3ZWlnaHQ9ImJvbGQiKQphLmF4aGxpbmUobWVhblsiY3RybF96ZXJvIl0sIGNvbG9yPSJrIiwgbHM9IjoiLCBsdz0xKQphLnNldF95bGFiZWwoIuWuuemHj+WBj+W6piIpCmEuc2V0X3RpdGxlKCLikaEg5pWI5bqU54m55byC5oCn77ya55yf5a6eID4g6Zu257uT5p6E77yM5L2GIDwg6ZqP5py6572u5o2iXG7imIXns7vnu5/kuI3orqTnnJ/lrp7kuJbnlYznu5PmnoTvvIzlj6rlk43lupTmlbDlgLzkuI7pgJrpgZPogKblkIgiLCBmb250c2l6ZT0xMCkKYS5ncmlkKGFscGhhPS4zLCBheGlzPSJ5IikKCiMgLS0tICgzKSDml7bpl7Tnur/vvIjlr7nmlbDvvIktLS0KYSA9IGF4WzEsIDBdCnRsID0gZDc4WyJ0aW1lbGluZSJdCnlycyA9IFsoIueUn+WRvei1t+a6kFxufjM45Lq/5bm0IiwgMy44ZTkpLCAoIue7huiPjOi2i+WMluaAp1xuKOaXoOespuWPt+aEn+efpSkiLCAzLjBlOSksCiAgICAgICAoIuiuoeaVsOmZtuetuVxufuWFrOWFg+WJjTgwMDAiLCAxLjBlNCksICgi5qWU5b2i5pWw5a2XXG5+5YWs5YWD5YmNMzEwMCIsIDUuMWUzKSwKICAgICAgICgi546w5Luj5pWw5a2X5Luj56CBXG5+MTAw5bm0IiwgMTAwKV0KYS5iYXJoKFt5WzBdIGZvciB5IGluIHlyc10sIFt5WzFdIGZvciB5IGluIHlyc10sIGNvbG9yPVsiIzI3YWU2MCIsICIjMjdhZTYwIiwgIiNlNjdlMjIiLCAiI2U2N2UyMiIsICIjYzAzOTJiIl0pCmEuc2V0X3hzY2FsZSgibG9nIikKYS5zZXRfeGxhYmVsKCLot53ku4rlubTmlbDvvIjlr7nmlbDliLvluqbvvIkiKQphLnNldF90aXRsZShmIuKRoiDmhJ/nn6XlhYjkuo7nrKblj7cge3RsWydyYXRpb19sb3cnXTouMGV94oCTe3RsWydyYXRpb19oaWdoJ106LjBlfSDlgI1cbue7v+iJsj3ml6DnrKblj7fnmoTmhJ/nn6Ut5ZON5bqU77yb5qmZ6ImyL+e6ouiJsj3lkI7liqDnmoTnrKblj7flsYIiLCBmb250c2l6ZT0xMCkKYS5ncmlkKGFscGhhPS4zLCBheGlzPSJ4IikKCiMgLS0tICg0KSDnu5PmnoTmnaXmupDliIbop6MgLS0tCmEgPSBheFsxLCAxXQplbmRvZyA9IGQ3OGJbImJhc2VsaW5lX3plcm8iXQpzZW5zZSA9IGQ3OGJbInJvd3MiXVswXVsibWVhbiJdIC0gZW5kb2cKYS5waWUoW2VuZG9nLCBzZW5zZV0sIGxhYmVscz1bZiLlvJXmk47lhoXnlJ/noaznuqbmnZ9cbijnqIDnvLov5Y+W6IiNL+S4jeWPr+mAhilcbntlbmRvZzouNGZ9ICB7ZW5kb2cvKGVuZG9nK3NlbnNlKSoxMDA6LjBmfSUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmIuaEn+efpeiwg+WItlxue3NlbnNlOisuNGZ9ICB7c2Vuc2UvKGVuZG9nK3NlbnNlKSoxMDA6LjBmfSUiXSwKICAgICAgY29sb3JzPVsiIzJjM2U1MCIsICIjZTc0YzNjIl0sIHN0YXJ0YW5nbGU9OTAsCiAgICAgIHRleHRwcm9wcz1kaWN0KGZvbnRzaXplPTkpLCBleHBsb2RlPSgwLCAwLjA2KSkKYS5zZXRfdGl0bGUoIuKRoyDnu5PmnoTmnaXmupDliIbop6PvvJrmhJ/lrpjmmK/jgJDlop7lvLrjgJHkuI3mmK/jgJDliJvlu7rjgJFcbjgwJSDmnaXoh6rlhoXnlJ/noaznuqbmnZ8iLCBmb250c2l6ZT0xMCkKCnBsdC5zdXB0aXRsZSgi5a6e6aqMIDA3OCDCtyDooajlvoHlv4XopoHmgKfmo4DpqozvvJrmhJ/nn6XlhYjkuo7nrKblj7dcbiIKICAgICAgICAgICAgICLnnJ/lrp7mjaLog73lmajor7vmlbDvvIg4IOWfjuawlOixoeerme+8iXwgMTYgc2VlZHMgw5cgNjAwIOaLjSB8IOWFseWQjOWtmOa0u+WtkOmbhumYsuatu+S6oeetm+mAiSIsCiAgICAgICAgICAgICBmb250c2l6ZT0xMywgZm9udHdlaWdodD0iYm9sZCIsIHk9MC45OTUpCnBsdC50aWdodF9sYXlvdXQocmVjdD1bMCwgMCwgMSwgMC45NTVdKQpwID0gb3MucGF0aC5qb2luKEZJRywgIjA3OF9yZXByZXNlbnRhdGlvbi5wbmciKQpwbHQuc2F2ZWZpZyhwLCBkcGk9MTUwLCBiYm94X2luY2hlcz0idGlnaHQiKQpwcmludCgic2F2ZWQ6IiwgcCwgb3MucGF0aC5nZXRzaXplKHApKQo=
+# -*- coding: utf-8 -*-
+"""078 出图：表征必要性 + 效应特异性 + 时间线"""
+import json, os
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+FIG = os.path.join(ROOT, 'fig'); os.makedirs(FIG, exist_ok=True)
+for f in ["WenQuanYi Micro Hei", "SimHei", "Noto Sans CJK SC"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False); plt.rcParams["font.sans-serif"] = [f]; break
+    except Exception: continue
+plt.rcParams["axes.unicode_minus"] = False
+
+d78  = json.load(open(os.path.join(ROOT, 'evidence/raw_data/representation_078.json')))
+d78b = json.load(open(os.path.join(ROOT, 'evidence/raw_data/representation_078b.json')))
+
+fig, ax = plt.subplots(2, 2, figsize=(13, 9.5))
+
+# --- (1) 表征粒度剂量反应 ---
+a = ax[0, 0]
+rows = d78["rows"]
+xs = [r["L"] for r in rows]; ys = [r["mean"] for r in rows]
+base = d78["control_no_sense_mean"]
+a.axhline(base, color="gray", ls="--", lw=1.5, label=f"无感官基线 {base:.4f}")
+a.plot([0 if x == 0 else x for x in xs], ys, "o-", color="#c0392b", lw=2, ms=9,
+       label="有感知（真实气象读数）")
+a.set_xscale("symlog", linthresh=1)
+a.set_xticks([0, 2, 5, 20, 100])
+a.set_xticklabels(["0\n无表征", "2\n1bit", "5\n人类带宽", "20", "100"])
+a.set_xlabel("表征粒度 L（离散层级数）")
+a.set_ylabel("容量偏度（取舍结构）")
+a.set_title("① 表征粒度不敏感：无表征下结构已在\nH1 Δ=+0.0596 [+0.034,+0.086]；各 L 与 L=0 全部等价", fontsize=10)
+a.legend(fontsize=8); a.grid(alpha=.3)
+
+# --- (2) 效应特异性对照 ---
+a = ax[0, 1]
+order = ["ctrl_zero", "ctrl_const", "real", "ctrl_perm"]
+lbl = {"ctrl_zero": "无感知\n(sal=0)", "ctrl_const": "有输入\n零结构", "real": "真实\n世界结构", "ctrl_perm": "随机置换\n(结构错乱)"}
+mean = {r["group"]: r["mean"] for r in d78b["rows"]}
+mean["ctrl_zero"] = d78b["baseline_zero"]
+cols = ["#95a5a6", "#7f8c8d", "#c0392b", "#2980b9"]
+bars = a.bar([lbl[k] for k in order], [mean[k] for k in order], color=cols)
+for b, k in zip(bars, order):
+    a.text(b.get_x() + b.get_width()/2, b.get_height() + .004,
+           f"{mean[k]:.4f}", ha="center", fontsize=9, fontweight="bold")
+a.axhline(mean["ctrl_zero"], color="k", ls=":", lw=1)
+a.set_ylabel("容量偏度")
+a.set_title("② 效应特异性：真实 > 零结构，但 < 随机置换\n★系统不认真实世界结构，只响应数值与通道耦合", fontsize=10)
+a.grid(alpha=.3, axis="y")
+
+# --- (3) 时间线（对数）---
+a = ax[1, 0]
+tl = d78["timeline"]
+yrs = [("生命起源\n~38亿年", 3.8e9), ("细菌趋化性\n(无符号感知)", 3.0e9),
+       ("计数陶筹\n~公元前8000", 1.0e4), ("楔形数字\n~公元前3100", 5.1e3),
+       ("现代数字代码\n~100年", 100)]
+a.barh([y[0] for y in yrs], [y[1] for y in yrs], color=["#27ae60", "#27ae60", "#e67e22", "#e67e22", "#c0392b"])
+a.set_xscale("log")
+a.set_xlabel("距今年数（对数刻度）")
+a.set_title(f"③ 感知先于符号 {tl['ratio_low']:.0e}–{tl['ratio_high']:.0e} 倍\n绿色=无符号的感知-响应；橙色/红色=后加的符号层", fontsize=10)
+a.grid(alpha=.3, axis="x")
+
+# --- (4) 结构来源分解 ---
+a = ax[1, 1]
+endog = d78b["baseline_zero"]
+sense = d78b["rows"][0]["mean"] - endog
+a.pie([endog, sense], labels=[f"引擎内生硬约束\n(稀缺/取舍/不可逆)\n{endog:.4f}  {endog/(endog+sense)*100:.0f}%",
+                              f"感知调制\n{sense:+.4f}  {sense/(endog+sense)*100:.0f}%"],
+      colors=["#2c3e50", "#e74c3c"], startangle=90,
+      textprops=dict(fontsize=9), explode=(0, 0.06))
+a.set_title("④ 结构来源分解：感官是【增强】不是【创建】\n80% 来自内生硬约束", fontsize=10)
+
+plt.suptitle("实验 078 · 表征必要性检验：感知先于符号\n"
+             "真实换能器读数（8 城气象站）| 16 seeds × 600 拍 | 共同存活子集防死亡筛选",
+             fontsize=13, fontweight="bold", y=0.995)
+plt.tight_layout(rect=[0, 0, 1, 0.955])
+p = os.path.join(FIG, "078_representation.png")
+plt.savefig(p, dpi=150, bbox_inches="tight")
+print("saved:", p, os.path.getsize(p))

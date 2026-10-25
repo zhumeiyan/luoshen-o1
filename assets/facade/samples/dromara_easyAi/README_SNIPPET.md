@@ -1,1 +1,32 @@
-IyBlYXN5QWkKCmVhc3lBaSDigJQg5LiA5aWX5Y+v5aSN546w55qE5a6e6aqM5LiO6Ieq5qOA5p2Q5paZCgoKCj4g6KeG6KeJ5q+N6aKY77yaTGF0dGljZSBmaWVsZCAvIOaZtuagvOWcuiDCtyBETkEgYDJiY2U5YjE5NWZhN2AKPiDlvaLosaHnlLHku5PlupPmoIfor4blk4jluIznoa7lrprmgKfmtL7nlJ/vvIzlkIzkuIDku5PlupPmsLjov5zlkIzkuIDlvKDohLjjgIIKCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJhc3NldHMvaWRlbnRpdHkuc3ZnIiB3aWR0aD0iNjAwIiBhbHQ9ImlkZW50aXR5Ij4KPC9wPgoKIyMg54q25oCBCgp8IOeKtuaAgSB8IOiKguWljyB8IOWQq+S5iSB8CnwtLS18LS0tfC0tLXwKfCDpnZnnva4gwrcgYGlkbGVgIHwgNHMg5oWi5ZG85ZC4IHwg5Ya36Imy5L2O5Lqu5bqmIHwKfCDmjqjmvJQgwrcgYHRoaW5raW5nYCB8IDAuOHMg5b+r6ISJ5YayIHwg55Cl54+A5YGP56e7IHwKfCDmiafooYwgwrcgYGJ1c3lgIHwg5oyB57ut5peL6L2sIHwg5Lqu5bqm5ouJ6auYIHwKfCDlj5fpmLsgwrcgYGJsb2NrZWRgIHwg6ISJ5Yay5Ya757uTIHwg5L2O6aWx5ZKM57qiIHwKfCDlpLHotKUgwrcgYGVycm9yYCB8IOe6ouiJsiB8IOS4gOasoeaKveWKqOWQjumdmeatoiB8Cnwg6L6+5oiQIMK3IGBzdWNjZXNzYCB8IOefreaaguaaluiEieWGsiDihpIg5Zue6JC9IGlkbGUgfCDnn63mmoLmmpbohInlhrIg4oaSIOWbnuiQvSBpZGxlIHwKCiMjIOaKgOacr+e6puadnwoKLSDkuI3ot5EgSmF2YVNjcmlwdO+8jOWKqOeUu+WPqueUqCBTVkcg5YaF5bWMIENTUyBgQGtleWZyYW1lc2AKLSDkuI3kvp3otZblpJbpg6jlupPkuI7ov5DooYzml7bmjqXlj6MKLSBTVkcg5Y+v54mI5pys5YyW44CB5Y+v5Zue5ruaCi0g5peg6Z2i77ya5rKh5pyJ5Lq66IS4IC8g5ouf5Lq65Yqo54mpIC8g6KGo5oOF5YyFCgoK
+# easyAi
+
+easyAi — 一套可复现的实验与自检材料
+
+
+
+> 视觉母题：Lattice field / 晶格场 · DNA `2bce9b195fa7`
+> 形象由仓库标识哈希确定性派生，同一仓库永远同一张脸。
+
+<p align="center">
+  <img src="assets/identity.svg" width="600" alt="identity">
+</p>
+
+## 状态
+
+| 状态 | 节奏 | 含义 |
+|---|---|---|
+| 静置 · `idle` | 4s 慢呼吸 | 冷色低亮度 |
+| 推演 · `thinking` | 0.8s 快脉冲 | 琥珀偏移 |
+| 执行 · `busy` | 持续旋转 | 亮度拉高 |
+| 受阻 · `blocked` | 脉冲冻结 | 低饱和红 |
+| 失败 · `error` | 红色 | 一次抽动后静止 |
+| 达成 · `success` | 短暂暖脉冲 → 回落 idle | 短暂暖脉冲 → 回落 idle |
+
+## 技术约束
+
+- 不跑 JavaScript，动画只用 SVG 内嵌 CSS `@keyframes`
+- 不依赖外部库与运行时接口
+- SVG 可版本化、可回滚
+- 无面：没有人脸 / 拟人动物 / 表情包
+
+

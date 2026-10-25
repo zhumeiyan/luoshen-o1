@@ -1,1 +1,39 @@
-IyAxNTEg6aKE5rOo5YaM77ya5YWt5qC85pW05ZCICgojIyDpl67popgKMTQyLTE1MCDmr4/moLzljZXni6zot5HpgJrjgILku47mnKrlnKjkuIDotbfot5Hov4fjgILmnKzova7nrKzkuIDmrKHmlbTlkIjjgIIKCiMjIOS4lueVjArnnJ/lrp7nm67lvZXmoJEgL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzHvvIxzdGF0IOaJq+aPj++8iOWunua1iyAwLjA2M21z77yJ44CCCuiKgueCueW4puecn+WunuWxnuaAp++8mmRlcHRoIC8gc2l6ZSAvIG10aW1lIC8gbmNoaWxkcmVu44CCCgojIyDku7vliqEK5pyJ6ZmQ6aKE566XIFQg5q2l5YaF77yM5pyA5aSn5YyWIumrmOS7t+WAvOiKgueCuSLlj5HnjrDmlbDjgIIK5Lu35YC855Sx55yf5a6e5bGe5oCn5a6a5LmJ77yI5aSn5paH5Lu2ICsg5rex55uu5b2V77yJ77yM6Z2e6ZqP5py644CCCgojIyDlha3moLzlvIDlhbMKTDEg5rW36JG1ICBmYjAg55y8ICsgdWlucHV0IOaJiyArIHBpcGUg6ICzIOeahOmXreeOrwpMMiDooJXomasgIOWGhemDqOmihOa1i+ivr+W3rumpseWKqOeahOiHquWPkei1t+aEj+iwg+W6pgpMMyDpsbwgICAg55uu5b2V5qCR57Si5byVICsg5pyA55+t6Lev5b6ECkw0IOWTuuS5syAgZ19zZWxmIOaDhee7qumXqCArIOaipijnprvnur/ph43mlL4pICsg546pKOaXoOWlluWKseaOoue0oikKTDUg54G16ZW/ICDnrKzkuozov5vnqIsgVURQICsgc2VsZi9vdGhlciDlvZLlm6AKTDYg5Lq6ICAgIOeLrOeZvShwaXBlIOiHquivrSkgKyDoh6rkvKAo5Zug5p6c5Zu+KSArIOefpeatuyArIOaWh+WMlijkvKDnu5nmlrDlrp7kvospCgojIyDliKTmja7vvIjot5HliY3lhpnmrbvvvIkKRzAg57uT5p6E6aKE5qOA77ya5Lu75Yqh5b+F6aG75pyJ5Y+v5a2m57uT5p6E44CC6ZqP5py6562W55WlIHZzIOW4uOaVsOetlueVpemhu+acieW3ruW8gu+8jAogICDlkKbliJnlhajova7kvZzlup/vvIgxNDYg5pWZ6K6t77yJ44CCCkcxIOmUmueCue+8muWFqOW8gCDmmL7okZfkvJjkuo4g5YWo5YWz44CC5LiN6L+H5YiZ5YWo6L2u5L2c5bqf44CCCkcyIOmdnui0tOWbvu+8muavj+S4gOagvOaVsuaOieWQjumhu+aYvuiRl+S4i+mZjeOAguiLpeafkOagvOaVsuaOieWQjuaXoOWPmOWMliDihpIg6K+l5qC85piv6LS05Zu+44CCCkgxIOi2heWKoOaAp++8iOS4u+imgeWBh+iuvu+8ie+8muWFqOW8gCDmmL7okZfkvJjkuo4g5ZCE5qC85Y2V54us5pS255uK55qE57q/5oCn55u45Yqg44CCCiAgIOaIkOeriyA9IOWtmOWcqOiApuWQiO+8m+S4jeaIkOeriyA9IOWPquaYr+WPoOWKoOOAggpIMiDkvp3otZbpnZ7lr7nnp7DvvJrmlbLkvY7lsYIoTDEvTDIvTDMpIHZzIOaVsumrmOWxgihMNS9MNinvvIzmjZ/lrrPph4/kuI3lkIzjgIIKICAg5LiN6aKE5rWL5pa55ZCR77yM5Y+q5rWL5piv5ZCm5a2Y5Zyo6Z2e5a+556ew44CCCgojIyDlj43ppbHlkozlvLrliLYK5q+P5Liq5p2h5Lu25b+F6aG75oql5ZGK77ya5YWo5byA5YC844CB5YWo5YWz5YC844CB6ZqP5py65Z+657q/5YC844CB5bi45pWw5Z+657q/5YC844CCCuS7u+S9leadoeS7tuiLpeWbm+iAheWFqOebuOetiSDihpIg6K+l5p2h5Lu25peg5Yik5Yir5Yqb77yM54Wn5oql5LiN5L+u5oyH5qCH44CCCgojIyDlt7Lnn6Xnjq/looPnuqbmnZ/vvIgxNTAg5a6e5rWL77yJCi0gb3BlbigpIDE2NG1z77yMbW1hcCDmjILmrbvvvIxzaGFyZWRfbWVtb3J5IOaMguatuwotIGZiMCDlhpnlkI4gfjAuMnMg6KKrIGZiY29uIOimhuebliDihpIg5b+F6aG75ZCM6L+b56iL56uL5Y2z5Zue6YeHCi0g566h6YGT5YGa54us55m96K6w5b+G77yIVURQIOiHquWPkeiHquaUtuWPquWbnuaYvuWImuivtOeahOivne+8iQo=
+# 151 预注册：六格整合
+
+## 问题
+142-150 每格单独跑通。从未在一起跑过。本轮第一次整合。
+
+## 世界
+真实目录树 /data/workspace/luoshen-o1，stat 扫描（实测 0.063ms）。
+节点带真实属性：depth / size / mtime / nchildren。
+
+## 任务
+有限预算 T 步内，最大化"高价值节点"发现数。
+价值由真实属性定义（大文件 + 深目录），非随机。
+
+## 六格开关
+L1 海葵  fb0 眼 + uinput 手 + pipe 耳 的闭环
+L2 蠕虫  内部预测误差驱动的自发起意调度
+L3 鱼    目录树索引 + 最短路径
+L4 哺乳  g_self 情绪门 + 梦(离线重放) + 玩(无奖励探索)
+L5 灵长  第二进程 UDP + self/other 归因
+L6 人    独白(pipe 自语) + 自传(因果图) + 知死 + 文化(传给新实例)
+
+## 判据（跑前写死）
+G0 结构预检：任务必须有可学结构。随机策略 vs 常数策略须有差异，
+   否则全轮作废（146 教训）。
+G1 锚点：全开 显著优于 全关。不过则全轮作废。
+G2 非贴图：每一格敲掉后须显著下降。若某格敲掉后无变化 → 该格是贴图。
+H1 超加性（主要假设）：全开 显著优于 各格单独收益的线性相加。
+   成立 = 存在耦合；不成立 = 只是叠加。
+H2 依赖非对称：敲低层(L1/L2/L3) vs 敲高层(L5/L6)，损害量不同。
+   不预测方向，只测是否存在非对称。
+
+## 反饱和强制
+每个条件必须报告：全开值、全关值、随机基线值、常数基线值。
+任何条件若四者全相等 → 该条件无判别力，照报不修指标。
+
+## 已知环境约束（150 实测）
+- open() 164ms，mmap 挂死，shared_memory 挂死
+- fb0 写后 ~0.2s 被 fbcon 覆盖 → 必须同进程立即回采
+- 管道做独白记忆（UDP 自发自收只回显刚说的话）

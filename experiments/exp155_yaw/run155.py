@@ -1,1 +1,244 @@
-IiIiCjE1NSDml4vovawgdnMg56OB5Zy6IOKAlOKAlCDnnJ/pk77ot6/niYjmnKzjgIIKCuecn+WcqOWTqu+8mgogIOaJiyAvZGV2L3VpbnB1dCDms6jlhaXmjInplK4gLT4g5YaF5qC4IC0+IOS4lueVjOe6v+eoi+ecn+ivuyBpbnB1dF9ldmVudCDnu5PmnoQKICAtPiDnnJ/lhpkgL2Rldi9mYjAgLT4g5aW555So54us56uLIGZkIOecn+ivu+WbnuWtl+iKgiAtPiDku47lg4/ntKDop6PmnJ3lkJEKICDovazlkJHlmarlo7Dlj5boh6ogb3MudXJhbmRvbe+8iOecn+WGheaguOeGteaxoO+8ie+8jOS4jeaYr+S8qumaj+acuuOAggoK5Yik5o2u77yI5q+P5Liq6YO95b+F6aG76IO95ZCM5pe25Lqn55Sf55yf5ZKM5YGH77yJ77yaCiAgRzBhIOacieejgee6ue+8mui9rOWQkeWQjueUu+mdouWPmOWMliAgPj4g6Z2Z6buY5Z+657q/CiAgRzBiIOaXoOejgee6ue+8mui9rOWQkeWQjueUu+mdouWPmOWMliAg4omIIOmdmem7mOWfuue6vyAgIDwtLSDor4HmmI7lnIblvaLmiL/pl7Tph4zmnJ3lkJHop4bop4nkuI3lj6/op4LmtYsKICBHMSAg5Y+v6YCG77ya5peg5Zmq5aOw5LiLIOW3pui9rCBOIOWGjeWPs+i9rCBO77yM55S76Z2i6YCQ5L2N5Zue5Yiw5Yid5oCBCiAgRzIgIOWkhOWkhOWPr+ivu++8muaJq+S4gOWciOacneWQke+8jOejgee6ueebuOS9jeino+eggeaIkOWKn+eOh+S4juivr+W3rgogIEczYSDmrbvmjqjnrpco57qv56ev5YiGKeivr+W3rumaj+atpeaVsOWinumVv++8jOaWnOeOhyBDSSDkuI3ot6ggMAogIEczYiDno4HlnLrmoKHmraPlkI7or6/lt67mnInnlYzvvIzmlpznjofkuI3mmL7okZfljLrliKvkuo4gMAogIEczYyDkupLooaXvvJrlrZjlnKggTiDkvb8g57uE5ZCI6K+v5beuIDwg56ev5YiG6K+v5beu77yIQ0kg5LiN6LeoIDDvvIkKICBHM2Qg56OB5Zy65pyJ5bim5a6977ya5Zmq5aOw5aSn5Yiw5ryC5Ye6IFAvMiDml7bvvIzop6PmqKHns4rlpLHotKXvvIznu4TlkIjkuZ/ltKnvvIjlv4Xpobvog73lh7rnjrDvvIkKIiIiCmltcG9ydCBvcywgc3lzLCB0aW1lLCBzdHJ1Y3QsIGZjbnRsLCB0aHJlYWRpbmcsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCgpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQppbXBvcnQgd29ybGQxNTUgYXMgd20KClVJX1NFVF9FVkJJVCwgVUlfU0VUX0tFWUJJVCA9IDB4NDAwNDU1NjQsIDB4NDAwNDU1NjUKVUlfREVWX0NSRUFURSwgVUlfREVWX0RFU1RST1kgPSAweDU1MDEsIDB4NTUwMgpFVl9LRVkgPSAweDAxCktFWV9BLCBLRVlfRCA9IDMwLCAzMgpJTlBVVF9FVkVOVCA9ICJsbEhISSIgaWYgc3RydWN0LmNhbGNzaXplKCJsbEhISSIpID09IDI0IGVsc2UgInFxSEhJIgpTWiA9IHN0cnVjdC5jYWxjc2l6ZShJTlBVVF9FVkVOVCkKClJPVCA9IDAuMzAgICAgICAgICAgIyDlkI3kuYnmr4/mraXovazop5IocmFkKSDigJTigJQg5aW55Lul5Li655qE5q2l6ZW/Ck5fTUFYID0gMTIwCkNIRUNLX0VWRVJZID0gMTAKCgpkZWYgbWFrZV91aW5wdXQobmFtZT0ibHVvc2hlbl95YXciKToKICAgIGZkID0gb3Mub3BlbigiL2Rldi91aW5wdXQiLCBvcy5PX1dST05MWSB8IG9zLk9fTk9OQkxPQ0spCiAgICB1ZCA9IHN0cnVjdC5wYWNrKCI4MHMiLCBuYW1lLmVuY29kZSgpKSArIHN0cnVjdC5wYWNrKCJISEhIIiwgMHgwMywgMHgxMjM0LCAweDU2NzgsIDEpCiAgICB1ZCArPSBzdHJ1Y3QucGFjaygiSSIsIDApICsgYiJcMCIgKiAoNjQgKiA0ICogNCkKICAgIGFzc2VydCBsZW4odWQpID09IDExMTYKICAgIG9zLndyaXRlKGZkLCB1ZCkKICAgIGZjbnRsLmlvY3RsKGZkLCBVSV9TRVRfRVZCSVQsIEVWX0tFWSkKICAgIGZvciBrIGluIChLRVlfQSwgS0VZX0QpOgogICAgICAgIGZjbnRsLmlvY3RsKGZkLCBVSV9TRVRfS0VZQklULCBrKQogICAgZmNudGwuaW9jdGwoZmQsIFVJX0RFVl9DUkVBVEUpCiAgICB0aW1lLnNsZWVwKDAuNCkKICAgIGRldiA9IE5vbmUKICAgIGJhc2UgPSAiL3N5cy9kZXZpY2VzL3ZpcnR1YWwvaW5wdXQiCiAgICBpZiBvcy5wYXRoLmlzZGlyKGJhc2UpOgogICAgICAgIGZvciBkIGluIHNvcnRlZChvcy5saXN0ZGlyKGJhc2UpKToKICAgICAgICAgICAgcCA9IG9zLnBhdGguam9pbihiYXNlLCBkLCAibmFtZSIpCiAgICAgICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIGlmIG9wZW4ocCkucmVhZCgpLnN0cmlwKCkgPT0gbmFtZToKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGUgaW4gb3MubGlzdGRpcihvcy5wYXRoLmpvaW4oYmFzZSwgZCkpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgZS5zdGFydHN3aXRoKCJldmVudCIpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldiA9ICIvZGV2L2lucHV0LyIgKyBlCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgIHJldHVybiBmZCwgZGV2CgoKZGVmIHNlbmRfa2V5KGZkLCBjb2RlKToKICAgIGZvciB2IGluICgxLCAwKToKICAgICAgICBvcy53cml0ZShmZCwgc3RydWN0LnBhY2soSU5QVVRfRVZFTlQsIDAsIDAsIEVWX0tFWSwgY29kZSwgdikpCiAgICBvcy53cml0ZShmZCwgc3RydWN0LnBhY2soSU5QVVRfRVZFTlQsIDAsIDAsIDAsIDAsIDApKQoKCmRlZiB1cmFuZF91bml0KCk6CiAgICAiIiLnnJ/lhoXmoLjnhrUgLT4gWy0xLDFdIiIiCiAgICBiID0gb3MudXJhbmRvbSg0KQogICAgcmV0dXJuIChpbnQuZnJvbV9ieXRlcyhiLCAibGl0dGxlIikgLyA0Mjk0OTY3Mjk1LjApICogMi4wIC0gMS4wCgoKY2xhc3MgV29ybGRUaHJlYWQodGhyZWFkaW5nLlRocmVhZCk6CiAgICAiIiLnnJ/or7vlhoXmoLjkuovku7YgLT4g6L2s5ZCRKOW4puecn+WZquWjsCkgLT4g55yf5YaZIGZiMCIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGV2X2RldiwgZmJfZmQsIG1hZ25ldD1UcnVlLCBzaWdtYT0wLjApOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oZGFlbW9uPVRydWUpCiAgICAgICAgc2VsZi5ldiA9IG9zLm9wZW4oZXZfZGV2LCBvcy5PX1JET05MWSB8IG9zLk9fTk9OQkxPQ0spCiAgICAgICAgc2VsZi5mYiA9IGZiX2ZkCiAgICAgICAgc2VsZi5tYWduZXQgPSBtYWduZXQKICAgICAgICBzZWxmLnNpZ21hID0gc2lnbWEKICAgICAgICBzZWxmLmEgPSAwLjAKICAgICAgICBzZWxmLmFfdHJ1ZSA9IDAuMAogICAgICAgIHNlbGYuc3RlcHMgPSAwCiAgICAgICAgc2VsZi5kb25lID0gdGhyZWFkaW5nLkV2ZW50KCkKICAgICAgICBzZWxmLmRvbmUuc2V0KCkKICAgICAgICBzZWxmLnN0b3AgPSBGYWxzZQogICAgICAgIHNlbGYud3JpdGVfYnVmKHNlbGYuYV90cnVlKQoKICAgIGRlZiB3cml0ZV9idWYoc2VsZiwgYSk6CiAgICAgICAgYiA9IHdtLnRvX2ZiX2J5dGVzKHdtLnJlbmRlcigwLCAwLCBhLCBtYWduZXQ9c2VsZi5tYWduZXQpKQogICAgICAgIG9zLnB3cml0ZShzZWxmLmZiLCBiLCAwKQoKICAgIGRlZiBydW4oc2VsZik6CiAgICAgICAgd2hpbGUgbm90IHNlbGYuc3RvcDoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcmF3ID0gb3MucmVhZChzZWxmLmV2LCBTWikKICAgICAgICAgICAgZXhjZXB0IEJsb2NraW5nSU9FcnJvcjoKICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMDA1KQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBpZiBsZW4ocmF3KSA8IFNaOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgXywgXywgdHlwLCBjb2RlLCB2YWwgPSBzdHJ1Y3QudW5wYWNrKElOUFVUX0VWRU5ULCByYXdbOlNaXSkKICAgICAgICAgICAgaWYgdHlwID09IEVWX0tFWSBhbmQgdmFsID09IDE6CiAgICAgICAgICAgICAgICBpZiBjb2RlID09IEtFWV9BOgogICAgICAgICAgICAgICAgICAgIGQgPSAtUk9UCiAgICAgICAgICAgICAgICBlbGlmIGNvZGUgPT0gS0VZX0Q6CiAgICAgICAgICAgICAgICAgICAgZCA9ICtST1QKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIGlmIHNlbGYuc2lnbWEgPiAwOgogICAgICAgICAgICAgICAgICAgIGQgKz0gc2VsZi5zaWdtYSAqIHVyYW5kX3VuaXQoKQogICAgICAgICAgICAgICAgc2VsZi5hX3RydWUgKz0gZAogICAgICAgICAgICAgICAgc2VsZi5zdGVwcyArPSAxCiAgICAgICAgICAgICAgICBzZWxmLndyaXRlX2J1ZihzZWxmLmFfdHJ1ZSkKICAgICAgICAgICAgICAgIHNlbGYuZG9uZS5zZXQoKQoKCmRlZiByZWFkX3ZpZXcoZmJfZmQpOgogICAgcmF3ID0gb3MucHJlYWQoZmJfZmQsIHdtLkZCX0JZVEVTLCAwKQogICAgcmV0dXJuIHdtLmZiX2J5dGVzX3RvX3JnYihyYXcpLCByYXcKCgpkZWYgbWVhbl9hYnNfZGlmZihiMSwgYjIpOgogICAgcmV0dXJuIGZsb2F0KG5wLmFicyhiMS5hc3R5cGUobnAuaW50MTYpIC0gYjIuYXN0eXBlKG5wLmludDE2KSkubWVhbigpKQoKCmRlZiBtYWluKCk6CiAgICBmZCwgZGV2ID0gbWFrZV91aW5wdXQoKQogICAgYXNzZXJ0IGRldiwgInVpbnB1dCDkuovku7boioLngrnmnKrmib7liLAiCiAgICBmYl9mZCA9IG9zLm9wZW4oIi9kZXYvZmIwIiwgb3MuT19SRFdSKQogICAgcmVzID0geyJ1aW5wdXRfZGV2IjogZGV2LCAic2lnbWFfc2NhbiI6IHt9LCAicmVwcyI6IHt9fQoKICAgICMgLS0tLS0tLS0tLSDpnZnpu5jln7rnur/vvIhmYmNvbiDlhYnmoIcgMC4ycyDlkI7kvJrmsaHmn5PvvIzlv4Xpobvnq4vljbPlm57ph4fmr5Tlr7nvvIkgLS0tLS0tLS0tLQogICAgc2lsZW50ID0gW10KICAgIGZvciBfIGluIHJhbmdlKDYpOgogICAgICAgIHYxLCBfID0gcmVhZF92aWV3KGZiX2ZkKQogICAgICAgIHRpbWUuc2xlZXAoMC4wNSkKICAgICAgICB2MiwgXyA9IHJlYWRfdmlldyhmYl9mZCkKICAgICAgICBzaWxlbnQuYXBwZW5kKG1lYW5fYWJzX2RpZmYodjEsIHYyKSkKICAgIHJlc1sic2lsZW50X2Jhc2VsaW5lIl0gPSBmbG9hdChucC5tZWFuKHNpbGVudCkpCgogICAgIyAtLS0tLS0tLS0tIEcwYSAvIEcwYiAtLS0tLS0tLS0tCiAgICBmb3IgdGFnLCBtYWduZXQgaW4gKCgibWFnbmV0IiwgVHJ1ZSksICgibm9tYWduZXQiLCBGYWxzZSkpOgogICAgICAgIHd0ID0gV29ybGRUaHJlYWQoZGV2LCBmYl9mZCwgbWFnbmV0PW1hZ25ldCwgc2lnbWE9MC4wKQogICAgICAgIHd0LnN0YXJ0KCkKICAgICAgICB2MCwgXyA9IHJlYWRfdmlldyhmYl9mZCkKICAgICAgICB3dC5kb25lLmNsZWFyKCk7IHNlbmRfa2V5KGZkLCBLRVlfRCkKICAgICAgICBmb3IgXyBpbiByYW5nZSg0MDApOgogICAgICAgICAgICBpZiB3dC5kb25lLmlzX3NldCgpOgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAwMSkKICAgICAgICB2MSwgXyA9IHJlYWRfdmlldyhmYl9mZCkKICAgICAgICByZXNbIkcwXyIgKyB0YWddID0gbWVhbl9hYnNfZGlmZih2MCwgdjEpCiAgICAgICAgd3Quc3RvcCA9IFRydWUKICAgICAgICB0aW1lLnNsZWVwKDAuMDUpCgogICAgIyAtLS0tLS0tLS0tIEcxIOWPr+mAhiAtLS0tLS0tLS0tCiAgICB3dCA9IFdvcmxkVGhyZWFkKGRldiwgZmJfZmQsIG1hZ25ldD1UcnVlLCBzaWdtYT0wLjApCiAgICB3dC5zdGFydCgpCiAgICB2MCwgXyA9IHJlYWRfdmlldyhmYl9mZCkKICAgIGZvciBfIGluIHJhbmdlKDIwKToKICAgICAgICB3dC5kb25lLmNsZWFyKCk7IHNlbmRfa2V5KGZkLCBLRVlfRCkKICAgICAgICB3aGlsZSBub3Qgd3QuZG9uZS5pc19zZXQoKToKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAwMSkKICAgIGZvciBfIGluIHJhbmdlKDIwKToKICAgICAgICB3dC5kb25lLmNsZWFyKCk7IHNlbmRfa2V5KGZkLCBLRVlfQSkKICAgICAgICB3aGlsZSBub3Qgd3QuZG9uZS5pc19zZXQoKToKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAwMSkKICAgIHYxLCBfID0gcmVhZF92aWV3KGZiX2ZkKQogICAgcmVzWyJHMV9yZXR1cm5fZGlmZiJdID0gbWVhbl9hYnNfZGlmZih2MCwgdjEpCiAgICByZXNbIkcxX3N0ZXBzX2V4ZWN1dGVkIl0gPSB3dC5zdGVwcwogICAgd3Quc3RvcCA9IFRydWU7IHRpbWUuc2xlZXAoMC4wNSkKCiAgICAjIC0tLS0tLS0tLS0gRzIg5aSE5aSE5Y+v6K+7IC0tLS0tLS0tLS0KICAgIG9rX24sIGVycnMgPSAwLCBbXQogICAgZm9yIGEgaW4gbnAubGluc3BhY2UoLTMuMCwgMy4wLCA0MSk6CiAgICAgICAgYnVmID0gd20ucmVuZGVyKDAsIDAsIGEsIG1hZ25ldD1UcnVlKQogICAgICAgIG9rLCBlc3RzID0gd20uZGVjb2RlX3BoYXNlX2Zyb21fdmlldyhidWYpCiAgICAgICAgaWYgb2s6CiAgICAgICAgICAgIG9rX24gKz0gMQogICAgICAgICAgICBlcnJzLmFwcGVuZChtaW4oYWJzKHdtLndyYXAobSAtIG5wLm1vZChhLCB3bS5QKSkpIGZvciBtIGluIGVzdHMpKQogICAgcmVzWyJHMl9yZWFkYWJsZSJdID0gb2tfbiAvIDQxLjAKICAgIHJlc1siRzJfcGhhc2VfZXJyX21lYW4iXSA9IGZsb2F0KG5wLm1lYW4oZXJycykpIGlmIGVycnMgZWxzZSBOb25lCgogICAgIyAtLS0tLS0tLS0tIEczIOa8guenu++8mnNpZ21hIOaJq+aPjyAtLS0tLS0tLS0tCiAgICBSID0gOAogICAgZm9yIHNpZ21hIGluICgwLjAwNCwgMC4wMTIsIDAuMDM2KToKICAgICAgICBkZWFkX2UsIGNvbWJfZSA9IFtdLCBbXQogICAgICAgIGZvciByIGluIHJhbmdlKFIpOgogICAgICAgICAgICB3dCA9IFdvcmxkVGhyZWFkKGRldiwgZmJfZmQsIG1hZ25ldD1UcnVlLCBzaWdtYT1zaWdtYSkKICAgICAgICAgICAgd3Quc3RhcnQoKQogICAgICAgICAgICBuX2RlYWQgPSAwCiAgICAgICAgICAgIGFfZGVhZCA9IDAuMAogICAgICAgICAgICBjdXJ2ZV9kLCBjdXJ2ZV9jID0gW10sIFtdCiAgICAgICAgICAgIGZvciBuIGluIHJhbmdlKDEsIE5fTUFYICsgMSk6CiAgICAgICAgICAgICAgICB3dC5kb25lLmNsZWFyKCk7IHNlbmRfa2V5KGZkLCBLRVlfRCkKICAgICAgICAgICAgICAgIHdoaWxlIG5vdCB3dC5kb25lLmlzX3NldCgpOgogICAgICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMDA1KQogICAgICAgICAgICAgICAgbl9kZWFkICs9IDEKICAgICAgICAgICAgICAgIGFfZGVhZCArPSBST1QKICAgICAgICAgICAgICAgIGlmIG4gJSBDSEVDS19FVkVSWSA9PSAwOgogICAgICAgICAgICAgICAgICAgIHYsIF8gPSByZWFkX3ZpZXcoZmJfZmQpCiAgICAgICAgICAgICAgICAgICAgb2ssIGVzdHMgPSB3bS5kZWNvZGVfcGhhc2VfZnJvbV92aWV3KHYpCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IG9rOgogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgICAgIGFfbW9kID0gbWluKGVzdHMsIGtleT1sYW1iZGEgbTogYWJzKHdtLndyYXAobSAtIG5wLm1vZChhX2RlYWQsIHdtLlApKSkpCiAgICAgICAgICAgICAgICAgICAgYV9jb21iID0gd20ucmVzb2x2ZShhX2RlYWQsIGFfbW9kKQogICAgICAgICAgICAgICAgICAgIGN1cnZlX2QuYXBwZW5kKGFicyh3bS53cmFwKGFfZGVhZCAtIHd0LmFfdHJ1ZSkpKQogICAgICAgICAgICAgICAgICAgIGN1cnZlX2MuYXBwZW5kKGFicyh3bS53cmFwKGFfY29tYiAtIHd0LmFfdHJ1ZSkpKQogICAgICAgICAgICBpZiBjdXJ2ZV9kOgogICAgICAgICAgICAgICAgZGVhZF9lLmFwcGVuZChjdXJ2ZV9kKTsgY29tYl9lLmFwcGVuZChjdXJ2ZV9jKQogICAgICAgICAgICB3dC5zdG9wID0gVHJ1ZTsgdGltZS5zbGVlcCgwLjA1KQogICAgICAgIEwgPSBtaW4obGVuKGMpIGZvciBjIGluIGRlYWRfZSkKICAgICAgICBkZWFkX2UgPSBbY1s6TF0gZm9yIGMgaW4gZGVhZF9lXTsgY29tYl9lID0gW2NbOkxdIGZvciBjIGluIGNvbWJfZV0KICAgICAgICByZXNbInNpZ21hX3NjYW4iXVtzdHIoc2lnbWEpXSA9IHsKICAgICAgICAgICAgImRlYWQiOiBbZmxvYXQoeCkgZm9yIHggaW4gbnAubWVhbihkZWFkX2UsIGF4aXM9MCldLAogICAgICAgICAgICAiY29tYiI6IFtmbG9hdCh4KSBmb3IgeCBpbiBucC5tZWFuKGNvbWJfZSwgYXhpcz0wKV0sCiAgICAgICAgICAgICJjaGVja3BvaW50cyI6IFtDSEVDS19FVkVSWSAqIChpICsgMSkgZm9yIGkgaW4gcmFuZ2UoTCldLAogICAgICAgIH0KICAgICAgICByZXNbInJlcHMiXVtzdHIoc2lnbWEpXSA9IHsKICAgICAgICAgICAgImRlYWRfYWxsIjogZGVhZF9lLCAiY29tYl9hbGwiOiBjb21iX2UsCiAgICAgICAgICAgICJQX2hhbGYiOiBmbG9hdCh3bS5QIC8gMiksICJQIjogZmxvYXQod20uUCksCiAgICAgICAgfQoKICAgIHRyeToKICAgICAgICBmY250bC5pb2N0bChmZCwgVUlfREVWX0RFU1RST1kpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHBhc3MKICAgIG9zLmNsb3NlKGZiX2ZkKQogICAgd2l0aCBvcGVuKCJyZXN1bHQxNTUuanNvbiIsICJ3IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAocmVzLCBmLCBpbmRlbnQ9MiwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgcHJpbnQoanNvbi5kdW1wcyh7azogdiBmb3IgaywgdiBpbiByZXMuaXRlbXMoKQogICAgICAgICAgICAgICAgICAgICAgaWYgayBub3QgaW4gKCJzaWdtYV9zY2FuIiwgInJlcHMiKX0sIGluZGVudD0yLCBlbnN1cmVfYXNjaWk9RmFsc2UpKQogICAgZm9yIHMsIGQgaW4gcmVzWyJzaWdtYV9zY2FuIl0uaXRlbXMoKToKICAgICAgICBwcmludChmInNpZ21hPXtzfSAgZGVhZOacqz17ZFsnZGVhZCddWy0xXTouNGZ9ICBjb21i5pyrPXtkWydjb21iJ11bLTFdOi40Zn0iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""
+155 旋转 vs 磁场 —— 真链路版本。
+
+真在哪：
+  手 /dev/uinput 注入按键 -> 内核 -> 世界线程真读 input_event 结构
+  -> 真写 /dev/fb0 -> 她用独立 fd 真读回字节 -> 从像素解朝向
+  转向噪声取自 os.urandom（真内核熵池），不是伪随机。
+
+判据（每个都必须能同时产生真和假）：
+  G0a 有磁纹：转向后画面变化  >> 静默基线
+  G0b 无磁纹：转向后画面变化  ≈ 静默基线   <-- 证明圆形房间里朝向视觉不可观测
+  G1  可逆：无噪声下 左转 N 再右转 N，画面逐位回到初态
+  G2  处处可读：扫一圈朝向，磁纹相位解码成功率与误差
+  G3a 死推算(纯积分)误差随步数增长，斜率 CI 不跨 0
+  G3b 磁场校正后误差有界，斜率不显著区别于 0
+  G3c 互补：存在 N 使 组合误差 < 积分误差（CI 不跨 0）
+  G3d 磁场有带宽：噪声大到漂出 P/2 时，解模糊失败，组合也崩（必须能出现）
+"""
+import os, sys, time, struct, fcntl, threading, json
+import numpy as np
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import world155 as wm
+
+UI_SET_EVBIT, UI_SET_KEYBIT = 0x40045564, 0x40045565
+UI_DEV_CREATE, UI_DEV_DESTROY = 0x5501, 0x5502
+EV_KEY = 0x01
+KEY_A, KEY_D = 30, 32
+INPUT_EVENT = "llHHI" if struct.calcsize("llHHI") == 24 else "qqHHI"
+SZ = struct.calcsize(INPUT_EVENT)
+
+ROT = 0.30          # 名义每步转角(rad) —— 她以为的步长
+N_MAX = 120
+CHECK_EVERY = 10
+
+
+def make_uinput(name="luoshen_yaw"):
+    fd = os.open("/dev/uinput", os.O_WRONLY | os.O_NONBLOCK)
+    ud = struct.pack("80s", name.encode()) + struct.pack("HHHH", 0x03, 0x1234, 0x5678, 1)
+    ud += struct.pack("I", 0) + b"\0" * (64 * 4 * 4)
+    assert len(ud) == 1116
+    os.write(fd, ud)
+    fcntl.ioctl(fd, UI_SET_EVBIT, EV_KEY)
+    for k in (KEY_A, KEY_D):
+        fcntl.ioctl(fd, UI_SET_KEYBIT, k)
+    fcntl.ioctl(fd, UI_DEV_CREATE)
+    time.sleep(0.4)
+    dev = None
+    base = "/sys/devices/virtual/input"
+    if os.path.isdir(base):
+        for d in sorted(os.listdir(base)):
+            p = os.path.join(base, d, "name")
+            if os.path.exists(p):
+                try:
+                    if open(p).read().strip() == name:
+                        for e in os.listdir(os.path.join(base, d)):
+                            if e.startswith("event"):
+                                dev = "/dev/input/" + e
+                except Exception:
+                    pass
+    return fd, dev
+
+
+def send_key(fd, code):
+    for v in (1, 0):
+        os.write(fd, struct.pack(INPUT_EVENT, 0, 0, EV_KEY, code, v))
+    os.write(fd, struct.pack(INPUT_EVENT, 0, 0, 0, 0, 0))
+
+
+def urand_unit():
+    """真内核熵 -> [-1,1]"""
+    b = os.urandom(4)
+    return (int.from_bytes(b, "little") / 4294967295.0) * 2.0 - 1.0
+
+
+class WorldThread(threading.Thread):
+    """真读内核事件 -> 转向(带真噪声) -> 真写 fb0"""
+    def __init__(self, ev_dev, fb_fd, magnet=True, sigma=0.0):
+        super().__init__(daemon=True)
+        self.ev = os.open(ev_dev, os.O_RDONLY | os.O_NONBLOCK)
+        self.fb = fb_fd
+        self.magnet = magnet
+        self.sigma = sigma
+        self.a = 0.0
+        self.a_true = 0.0
+        self.steps = 0
+        self.done = threading.Event()
+        self.done.set()
+        self.stop = False
+        self.write_buf(self.a_true)
+
+    def write_buf(self, a):
+        b = wm.to_fb_bytes(wm.render(0, 0, a, magnet=self.magnet))
+        os.pwrite(self.fb, b, 0)
+
+    def run(self):
+        while not self.stop:
+            try:
+                raw = os.read(self.ev, SZ)
+            except BlockingIOError:
+                time.sleep(0.0005)
+                continue
+            except OSError:
+                break
+            if len(raw) < SZ:
+                continue
+            _, _, typ, code, val = struct.unpack(INPUT_EVENT, raw[:SZ])
+            if typ == EV_KEY and val == 1:
+                if code == KEY_A:
+                    d = -ROT
+                elif code == KEY_D:
+                    d = +ROT
+                else:
+                    continue
+                if self.sigma > 0:
+                    d += self.sigma * urand_unit()
+                self.a_true += d
+                self.steps += 1
+                self.write_buf(self.a_true)
+                self.done.set()
+
+
+def read_view(fb_fd):
+    raw = os.pread(fb_fd, wm.FB_BYTES, 0)
+    return wm.fb_bytes_to_rgb(raw), raw
+
+
+def mean_abs_diff(b1, b2):
+    return float(np.abs(b1.astype(np.int16) - b2.astype(np.int16)).mean())
+
+
+def main():
+    fd, dev = make_uinput()
+    assert dev, "uinput 事件节点未找到"
+    fb_fd = os.open("/dev/fb0", os.O_RDWR)
+    res = {"uinput_dev": dev, "sigma_scan": {}, "reps": {}}
+
+    # ---------- 静默基线（fbcon 光标 0.2s 后会污染，必须立即回采比对） ----------
+    silent = []
+    for _ in range(6):
+        v1, _ = read_view(fb_fd)
+        time.sleep(0.05)
+        v2, _ = read_view(fb_fd)
+        silent.append(mean_abs_diff(v1, v2))
+    res["silent_baseline"] = float(np.mean(silent))
+
+    # ---------- G0a / G0b ----------
+    for tag, magnet in (("magnet", True), ("nomagnet", False)):
+        wt = WorldThread(dev, fb_fd, magnet=magnet, sigma=0.0)
+        wt.start()
+        v0, _ = read_view(fb_fd)
+        wt.done.clear(); send_key(fd, KEY_D)
+        for _ in range(400):
+            if wt.done.is_set():
+                break
+            time.sleep(0.001)
+        v1, _ = read_view(fb_fd)
+        res["G0_" + tag] = mean_abs_diff(v0, v1)
+        wt.stop = True
+        time.sleep(0.05)
+
+    # ---------- G1 可逆 ----------
+    wt = WorldThread(dev, fb_fd, magnet=True, sigma=0.0)
+    wt.start()
+    v0, _ = read_view(fb_fd)
+    for _ in range(20):
+        wt.done.clear(); send_key(fd, KEY_D)
+        while not wt.done.is_set():
+            time.sleep(0.001)
+    for _ in range(20):
+        wt.done.clear(); send_key(fd, KEY_A)
+        while not wt.done.is_set():
+            time.sleep(0.001)
+    v1, _ = read_view(fb_fd)
+    res["G1_return_diff"] = mean_abs_diff(v0, v1)
+    res["G1_steps_executed"] = wt.steps
+    wt.stop = True; time.sleep(0.05)
+
+    # ---------- G2 处处可读 ----------
+    ok_n, errs = 0, []
+    for a in np.linspace(-3.0, 3.0, 41):
+        buf = wm.render(0, 0, a, magnet=True)
+        ok, ests = wm.decode_phase_from_view(buf)
+        if ok:
+            ok_n += 1
+            errs.append(min(abs(wm.wrap(m - np.mod(a, wm.P))) for m in ests))
+    res["G2_readable"] = ok_n / 41.0
+    res["G2_phase_err_mean"] = float(np.mean(errs)) if errs else None
+
+    # ---------- G3 漂移：sigma 扫描 ----------
+    R = 8
+    for sigma in (0.004, 0.012, 0.036):
+        dead_e, comb_e = [], []
+        for r in range(R):
+            wt = WorldThread(dev, fb_fd, magnet=True, sigma=sigma)
+            wt.start()
+            n_dead = 0
+            a_dead = 0.0
+            curve_d, curve_c = [], []
+            for n in range(1, N_MAX + 1):
+                wt.done.clear(); send_key(fd, KEY_D)
+                while not wt.done.is_set():
+                    time.sleep(0.0005)
+                n_dead += 1
+                a_dead += ROT
+                if n % CHECK_EVERY == 0:
+                    v, _ = read_view(fb_fd)
+                    ok, ests = wm.decode_phase_from_view(v)
+                    if not ok:
+                        continue
+                    a_mod = min(ests, key=lambda m: abs(wm.wrap(m - np.mod(a_dead, wm.P))))
+                    a_comb = wm.resolve(a_dead, a_mod)
+                    curve_d.append(abs(wm.wrap(a_dead - wt.a_true)))
+                    curve_c.append(abs(wm.wrap(a_comb - wt.a_true)))
+            if curve_d:
+                dead_e.append(curve_d); comb_e.append(curve_c)
+            wt.stop = True; time.sleep(0.05)
+        L = min(len(c) for c in dead_e)
+        dead_e = [c[:L] for c in dead_e]; comb_e = [c[:L] for c in comb_e]
+        res["sigma_scan"][str(sigma)] = {
+            "dead": [float(x) for x in np.mean(dead_e, axis=0)],
+            "comb": [float(x) for x in np.mean(comb_e, axis=0)],
+            "checkpoints": [CHECK_EVERY * (i + 1) for i in range(L)],
+        }
+        res["reps"][str(sigma)] = {
+            "dead_all": dead_e, "comb_all": comb_e,
+            "P_half": float(wm.P / 2), "P": float(wm.P),
+        }
+
+    try:
+        fcntl.ioctl(fd, UI_DEV_DESTROY)
+    except Exception:
+        pass
+    os.close(fb_fd)
+    with open("result155.json", "w") as f:
+        json.dump(res, f, indent=2, ensure_ascii=False)
+    print(json.dumps({k: v for k, v in res.items()
+                      if k not in ("sigma_scan", "reps")}, indent=2, ensure_ascii=False))
+    for s, d in res["sigma_scan"].items():
+        print(f"sigma={s}  dead末={d['dead'][-1]:.4f}  comb末={d['comb'][-1]:.4f}")
+
+
+if __name__ == "__main__":
+    main()

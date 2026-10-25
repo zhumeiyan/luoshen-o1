@@ -1,1 +1,148 @@
-aW1wb3J0IGpzb24sIHRpbWUsIG9zLCBzdWJwcm9jZXNzLCBoYXNobGliCmZyb20gcGxheXdyaWdodC5zeW5jX2FwaSBpbXBvcnQgc3luY19wbGF5d3JpZ2h0CgpCQVNFID0gImh0dHA6Ly8xMjcuMC4wLjE6ODczMSIKT1VUID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDA4OV9hZ2VuY3kiClJJR0hUX1VTRVIgPSAiemh1LW1laXlhbiIKUklHSFRfUEFTUyA9ICJzeW1iaW9udC0yMDI2IgpXUk9OR19QQVNTID0gIldST05HLVBBU1MtWFhYWCIKCnJlc3VsdHMgPSB7fQoKZGVmIGZyZXNoKHB3LCB0YWcpOgogICAgIiIi5byA5LiA5Liq5YWo5paw5rWP6KeI5Zmo5LiK5LiL5paH77yIPSDkuIDlj7DlubLlh4DnmoTmnLrlmagv5LiA5Liq5YWo5paw55qE6Lqr5L2T77yJIiIiCiAgICBiID0gcHcuY2hyb21pdW0ubGF1bmNoKGV4ZWN1dGFibGVfcGF0aD0iL3Vzci9iaW4vZ29vZ2xlLWNocm9tZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZ3M9WyItLW5vLXNhbmRib3giLCAiLS1kaXNhYmxlLWRldi1zaG0tdXNhZ2UiXSkKICAgIGN0eCA9IGIubmV3X2NvbnRleHQodmlld3BvcnQ9eyJ3aWR0aCI6IDEwMjQsICJoZWlnaHQiOiA3Njh9KQogICAgcGcgPSBjdHgubmV3X3BhZ2UoKQogICAgcmV0dXJuIGIsIGN0eCwgcGcKCmRlZiBlZmZlY3Rvcl9sb2cocGcsIHRhZyk6CiAgICAiIiLnnIvkuIDnnLzlvZPliY3pobXpnaLvvIzorrDlvZXmlYjlupTlmagv5oSf5Y+X5Zmo6K+75Yiw5LqG5LuA5LmIIiIiCiAgICB0cnk6CiAgICAgICAgdGl0bGUgPSBwZy50aXRsZSgpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHRpdGxlID0gIiIKICAgIHRyeToKICAgICAgICBib2R5ID0gcGcuaW5uZXJfdGV4dCgiYm9keSIpWzoyMDBdCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGJvZHkgPSAiIgogICAgcmV0dXJuIHsidGl0bGUiOiB0aXRsZSwgImJvZHlfaGVhZCI6IGJvZHkucmVwbGFjZSgiXG4iLCAiIHwgIil9Cgp3aXRoIHN5bmNfcGxheXdyaWdodCgpIGFzIHB3OgoKICAgICMgLS0tLS0tLS0tLSBBOiDlrozmlbTpvKDmoIfmk43kvZwgKyDmraPnoa7lh63or4EgLS0tLS0tLS0tLQogICAgYiwgY3R4LCBwZyA9IGZyZXNoKHB3LCAiQSIpCiAgICB0cmFjZSA9IFtdCiAgICBwZy5nb3RvKEJBU0UgKyAiLyIsIHdhaXRfdW50aWw9ImRvbWNvbnRlbnRsb2FkZWQiKQogICAgcGcud2FpdF9mb3Jfc2VsZWN0b3IoIiN1IiwgdGltZW91dD04MDAwKQogICAgYm94X3UgPSBwZy5sb2NhdG9yKCIjdSIpLmJvdW5kaW5nX2JveCgpCiAgICBib3hfcCA9IHBnLmxvY2F0b3IoIiNwIikuYm91bmRpbmdfYm94KCkKICAgIGJveF9nID0gcGcubG9jYXRvcigiI2dvIikuYm91bmRpbmdfYm94KCkKICAgICMg55yf6byg5qCH77ya56e75YqoIC0+IOeCueWHuyAtPiDpgJDlrZfnrKbplK7lhaUKICAgIHBnLm1vdXNlLm1vdmUoYm94X3VbIngiXSArIDUsIGJveF91WyJ5Il0gKyBib3hfdVsiaGVpZ2h0Il0gLyAyKQogICAgcGcubW91c2UuY2xpY2soYm94X3VbIngiXSArIDUsIGJveF91WyJ5Il0gKyBib3hfdVsiaGVpZ2h0Il0gLyAyKQogICAgdHJhY2UuYXBwZW5kKCgiY2xpY2tfdSIsIHJvdW5kKGJveF91WyJ4Il0pLCByb3VuZChib3hfdVsieSJdKSkpCiAgICBwZy5rZXlib2FyZC50eXBlKFJJR0hUX1VTRVIsIGRlbGF5PTEyKQogICAgdHJhY2UuYXBwZW5kKCgidHlwZV91c2VyIiwgbGVuKFJJR0hUX1VTRVIpKSkKICAgIHBnLm1vdXNlLm1vdmUoYm94X3BbIngiXSArIDUsIGJveF9wWyJ5Il0gKyBib3hfcFsiaGVpZ2h0Il0gLyAyKQogICAgcGcubW91c2UuY2xpY2soYm94X3BbIngiXSArIDUsIGJveF9wWyJ5Il0gKyBib3hfcFsiaGVpZ2h0Il0gLyAyKQogICAgdHJhY2UuYXBwZW5kKCgiY2xpY2tfcCIsIHJvdW5kKGJveF9wWyJ4Il0pLCByb3VuZChib3hfcFsieSJdKSkpCiAgICBwZy5rZXlib2FyZC50eXBlKFJJR0hUX1BBU1MsIGRlbGF5PTEyKQogICAgdHJhY2UuYXBwZW5kKCgidHlwZV9wYXNzIiwgbGVuKFJJR0hUX1BBU1MpKSkKICAgIHBnLm1vdXNlLm1vdmUoYm94X2dbIngiXSArIGJveF9nWyJ3aWR0aCJdIC8gMiwgYm94X2dbInkiXSArIGJveF9nWyJoZWlnaHQiXSAvIDIpCiAgICBwZy5tb3VzZS5jbGljayhib3hfZ1sieCJdICsgYm94X2dbIndpZHRoIl0gLyAyLCBib3hfZ1sieSJdICsgYm94X2dbImhlaWdodCJdIC8gMikKICAgIHRyYWNlLmFwcGVuZCgoImNsaWNrX2dvIiwgcm91bmQoYm94X2dbIngiXSksIHJvdW5kKGJveF9nWyJ5Il0pKSkKICAgIHBnLndhaXRfZm9yX2xvYWRfc3RhdGUoImRvbWNvbnRlbnRsb2FkZWQiKQogICAgdGltZS5zbGVlcCgwLjYpCiAgICByZWFkID0gZWZmZWN0b3JfbG9nKHBnLCAiQSIpCiAgICBlbnRlcmVkX0EgPSAiQVBQIElOVEVSSU9SIiBpbiByZWFkWyJib2R5X2hlYWQiXQogICAgcGcuc2NyZWVuc2hvdChwYXRoPU9VVCArICIvQV9vcGVyYXRlX3JpZ2h0LnBuZyIpCiAgICBjb29raWVfQSA9IGN0eC5jb29raWVzKCkKICAgIEFfb3BzID0gbGVuKHRyYWNlKQogICAgYi5jbG9zZSgpCgogICAgIyAtLS0tLS0tLS0tIEI6IOWQjOagt+eahOm8oOagh+aTjeS9nCArIOmUmeivr+WHreivgSAtLS0tLS0tLS0tCiAgICBiLCBjdHgsIHBnID0gZnJlc2gocHcsICJCIikKICAgIHRyYWNlQiA9IFtdCiAgICBwZy5nb3RvKEJBU0UgKyAiLyIsIHdhaXRfdW50aWw9ImRvbWNvbnRlbnRsb2FkZWQiKQogICAgcGcud2FpdF9mb3Jfc2VsZWN0b3IoIiN1IiwgdGltZW91dD04MDAwKQogICAgYm94X3UgPSBwZy5sb2NhdG9yKCIjdSIpLmJvdW5kaW5nX2JveCgpCiAgICBib3hfcCA9IHBnLmxvY2F0b3IoIiNwIikuYm91bmRpbmdfYm94KCkKICAgIGJveF9nID0gcGcubG9jYXRvcigiI2dvIikuYm91bmRpbmdfYm94KCkKICAgIHBnLm1vdXNlLm1vdmUoYm94X3VbIngiXSArIDUsIGJveF91WyJ5Il0gKyBib3hfdVsiaGVpZ2h0Il0gLyAyKQogICAgcGcubW91c2UuY2xpY2soYm94X3VbIngiXSArIDUsIGJveF91WyJ5Il0gKyBib3hfdVsiaGVpZ2h0Il0gLyAyKQogICAgdHJhY2VCLmFwcGVuZCgoImNsaWNrX3UiLCByb3VuZChib3hfdVsieCJdKSwgcm91bmQoYm94X3VbInkiXSkpKQogICAgcGcua2V5Ym9hcmQudHlwZShSSUdIVF9VU0VSLCBkZWxheT0xMikKICAgIHRyYWNlQi5hcHBlbmQoKCJ0eXBlX3VzZXIiLCBsZW4oUklHSFRfVVNFUikpKQogICAgcGcubW91c2UubW92ZShib3hfcFsieCJdICsgNSwgYm94X3BbInkiXSArIGJveF9wWyJoZWlnaHQiXSAvIDIpCiAgICBwZy5tb3VzZS5jbGljayhib3hfcFsieCJdICsgNSwgYm94X3BbInkiXSArIGJveF9wWyJoZWlnaHQiXSAvIDIpCiAgICB0cmFjZUIuYXBwZW5kKCgiY2xpY2tfcCIsIHJvdW5kKGJveF9wWyJ4Il0pLCByb3VuZChib3hfcFsieSJdKSkpCiAgICBwZy5rZXlib2FyZC50eXBlKFdST05HX1BBU1MsIGRlbGF5PTEyKQogICAgdHJhY2VCLmFwcGVuZCgoInR5cGVfcGFzcyIsIGxlbihXUk9OR19QQVNTKSkpCiAgICBwZy5tb3VzZS5tb3ZlKGJveF9nWyJ4Il0gKyBib3hfZ1sid2lkdGgiXSAvIDIsIGJveF9nWyJ5Il0gKyBib3hfZ1siaGVpZ2h0Il0gLyAyKQogICAgcGcubW91c2UuY2xpY2soYm94X2dbIngiXSArIGJveF9nWyJ3aWR0aCJdIC8gMiwgYm94X2dbInkiXSArIGJveF9nWyJoZWlnaHQiXSAvIDIpCiAgICB0cmFjZUIuYXBwZW5kKCgiY2xpY2tfZ28iLCByb3VuZChib3hfZ1sieCJdKSwgcm91bmQoYm94X2dbInkiXSkpKQogICAgcGcud2FpdF9mb3JfbG9hZF9zdGF0ZSgiZG9tY29udGVudGxvYWRlZCIpCiAgICB0aW1lLnNsZWVwKDAuNikKICAgIHJlYWQgPSBlZmZlY3Rvcl9sb2cocGcsICJCIikKICAgIGVudGVyZWRfQiA9ICJBUFAgSU5URVJJT1IiIGluIHJlYWRbImJvZHlfaGVhZCJdCiAgICBwZy5zY3JlZW5zaG90KHBhdGg9T1VUICsgIi9CX29wZXJhdGVfd3JvbmcucG5nIikKICAgIEJfb3BzID0gbGVuKHRyYWNlQikKICAgIGIuY2xvc2UoKQoKICAgICMgLS0tLS0tLS0tLSBDOiDpm7bmk43kvZwgKyDmraPnoa7lh63or4HvvIjnm7TmjqXmjIEgc2Vzc2lvbiDorr/pl67vvIkgLS0tLS0tLS0tLQogICAgc2VzcyA9IGhhc2hsaWIuc2hhMjU2KFJJR0hUX1VTRVIuZW5jb2RlKCkpLmhleGRpZ2VzdCgpWzoxNl0KICAgIGIsIGN0eCwgcGcgPSBmcmVzaChwdywgIkMiKQogICAgY3R4LmFkZF9jb29raWVzKFt7Im5hbWUiOiAic2Vzc2lvbiIsICJ2YWx1ZSI6IHNlc3MsCiAgICAgICAgICAgICAgICAgICAgICAiZG9tYWluIjogIjEyNy4wLjAuMSIsICJwYXRoIjogIi8ifV0pCiAgICBwZy5nb3RvKEJBU0UgKyAiL2FwcCIsIHdhaXRfdW50aWw9ImRvbWNvbnRlbnRsb2FkZWQiKQogICAgdGltZS5zbGVlcCgwLjUpCiAgICByZWFkID0gZWZmZWN0b3JfbG9nKHBnLCAiQyIpCiAgICBlbnRlcmVkX0MgPSAiQVBQIElOVEVSSU9SIiBpbiByZWFkWyJib2R5X2hlYWQiXQogICAgcGcuc2NyZWVuc2hvdChwYXRoPU9VVCArICIvQ196ZXJvb3BfcmlnaHQucG5nIikKICAgIENfb3BzID0gMAogICAgYi5jbG9zZSgpCgogICAgIyAtLS0tLS0tLS0tIEQ6IOmbtuaTjeS9nCArIOaXoOWHreivgSAtLS0tLS0tLS0tCiAgICBiLCBjdHgsIHBnID0gZnJlc2gocHcsICJEIikKICAgIHBnLmdvdG8oQkFTRSArICIvYXBwIiwgd2FpdF91bnRpbD0iZG9tY29udGVudGxvYWRlZCIpCiAgICB0aW1lLnNsZWVwKDAuNSkKICAgIHJlYWQgPSBlZmZlY3Rvcl9sb2cocGcsICJEIikKICAgIGVudGVyZWRfRCA9ICJBUFAgSU5URVJJT1IiIGluIHJlYWRbImJvZHlfaGVhZCJdCiAgICBwZy5zY3JlZW5zaG90KHBhdGg9T1VUICsgIi9EX3plcm9vcF9ub25lLnBuZyIpCiAgICBEX29wcyA9IDAKICAgIGIuY2xvc2UoKQoKIyAtLS0tLS0tLS0tIEU6IOaNouS4gOS4quWujOWFqOS4jeWQjOeahOi6q+S9k++8iGN1cmzvvIzpnZ7mtY/op4jlmajvvInmjIHlkIzkuIDlh63or4EgLS0tLS0tLS0tLQpyID0gc3VicHJvY2Vzcy5ydW4oWyJjdXJsIiwgIi1zIiwgIi1vIiwgIi90bXAvZS5odG1sIiwgIi13IiwgIiV7aHR0cF9jb2RlfSIsCiAgICAgICAgICAgICAgICAgICAgIi1IIiwgIkNvb2tpZTogc2Vzc2lvbj0iICsgc2VzcywgQkFTRSArICIvYXBwIl0sCiAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUpCmNvZGVfRSA9IHIuc3Rkb3V0LnN0cmlwKCkKYm9keV9FID0gb3BlbigiL3RtcC9lLmh0bWwiLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpLnJlYWQoKQplbnRlcmVkX0UgPSAiQVBQIElOVEVSSU9SIiBpbiBib2R5X0UKCiMgLS0tLS0tLS0tLSBGOiDkvKrpgKDlh63or4HvvIjkuI3mmK/mnI3liqHlmajnrb7lj5HnmoTvvIkgLS0tLS0tLS0tLQpyID0gc3VicHJvY2Vzcy5ydW4oWyJjdXJsIiwgIi1zIiwgIi1vIiwgIi90bXAvZi5odG1sIiwgIi13IiwgIiV7aHR0cF9jb2RlfSIsCiAgICAgICAgICAgICAgICAgICAgIi1IIiwgIkNvb2tpZTogc2Vzc2lvbj1kZWFkYmVlZmRlYWRiZWVmIiwgQkFTRSArICIvYXBwIl0sCiAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUpCmNvZGVfRiA9IHIuc3Rkb3V0LnN0cmlwKCkKYm9keV9GID0gb3BlbigiL3RtcC9mLmh0bWwiLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpLnJlYWQoKQplbnRlcmVkX0YgPSAiQVBQIElOVEVSSU9SIiBpbiBib2R5X0YKCm91dCA9IHsKICAgICJBX29wZXJhdGVfcmlnaHRfY3JlZCI6ICAgeyJvcHMiOiBBX29wcywgImVudGVyZWQiOiBib29sKGVudGVyZWRfQSl9LAogICAgIkJfb3BlcmF0ZV93cm9uZ19jcmVkIjogICB7Im9wcyI6IEJfb3BzLCAiZW50ZXJlZCI6IGJvb2woZW50ZXJlZF9CKX0sCiAgICAiQ196ZXJvb3BfcmlnaHRfY3JlZCI6ICAgIHsib3BzIjogQ19vcHMsICJlbnRlcmVkIjogYm9vbChlbnRlcmVkX0MpfSwKICAgICJEX3plcm9vcF9ub19jcmVkIjogICAgICAgeyJvcHMiOiBEX29wcywgImVudGVyZWQiOiBib29sKGVudGVyZWRfRCl9LAogICAgIkVfb3RoZXJib2R5X2N1cmxfY3JlZCI6ICB7Imh0dHAiOiBjb2RlX0UsICJlbnRlcmVkIjogZW50ZXJlZF9FfSwKICAgICJGX2ZvcmdlZF9jcmVkIjogICAgICAgICAgeyJodHRwIjogY29kZV9GLCAiZW50ZXJlZCI6IGVudGVyZWRfRn0sCn0Kb3V0WyJBX3RyYWNlIl0gPSB0cmFjZQpvdXRbIkJfdHJhY2UiXSA9IHRyYWNlQgpvdXRbIkFfb3BzIl0gPSBBX29wcwpvdXRbIkJfb3BzIl0gPSBCX29wcwpvdXRbInNhbWVfYWN0aW9uX3NlcXVlbmNlIl0gPSAoQV9vcHMgPT0gQl9vcHMpCgpwcmludChqc29uLmR1bXBzKG91dCwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCmpzb24uZHVtcChvdXQsIG9wZW4oT1VUICsgIi9yZXN1bHRfMDg5Lmpzb24iLCAidyIpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQo=
+import json, time, os, subprocess, hashlib
+from playwright.sync_api import sync_playwright
+
+BASE = "http://127.0.0.1:8731"
+OUT = "/data/workspace/luoshen-o1/experiments/exp089_agency"
+RIGHT_USER = "zhu-meiyan"
+RIGHT_PASS = "symbiont-2026"
+WRONG_PASS = "WRONG-PASS-XXXX"
+
+results = {}
+
+def fresh(pw, tag):
+    """开一个全新浏览器上下文（= 一台干净的机器/一个全新的身体）"""
+    b = pw.chromium.launch(executable_path="/usr/bin/google-chrome",
+                           args=["--no-sandbox", "--disable-dev-shm-usage"])
+    ctx = b.new_context(viewport={"width": 1024, "height": 768})
+    pg = ctx.new_page()
+    return b, ctx, pg
+
+def effector_log(pg, tag):
+    """看一眼当前页面，记录效应器/感受器读到了什么"""
+    try:
+        title = pg.title()
+    except Exception:
+        title = ""
+    try:
+        body = pg.inner_text("body")[:200]
+    except Exception:
+        body = ""
+    return {"title": title, "body_head": body.replace("\n", " | ")}
+
+with sync_playwright() as pw:
+
+    # ---------- A: 完整鼠标操作 + 正确凭证 ----------
+    b, ctx, pg = fresh(pw, "A")
+    trace = []
+    pg.goto(BASE + "/", wait_until="domcontentloaded")
+    pg.wait_for_selector("#u", timeout=8000)
+    box_u = pg.locator("#u").bounding_box()
+    box_p = pg.locator("#p").bounding_box()
+    box_g = pg.locator("#go").bounding_box()
+    # 真鼠标：移动 -> 点击 -> 逐字符键入
+    pg.mouse.move(box_u["x"] + 5, box_u["y"] + box_u["height"] / 2)
+    pg.mouse.click(box_u["x"] + 5, box_u["y"] + box_u["height"] / 2)
+    trace.append(("click_u", round(box_u["x"]), round(box_u["y"])))
+    pg.keyboard.type(RIGHT_USER, delay=12)
+    trace.append(("type_user", len(RIGHT_USER)))
+    pg.mouse.move(box_p["x"] + 5, box_p["y"] + box_p["height"] / 2)
+    pg.mouse.click(box_p["x"] + 5, box_p["y"] + box_p["height"] / 2)
+    trace.append(("click_p", round(box_p["x"]), round(box_p["y"])))
+    pg.keyboard.type(RIGHT_PASS, delay=12)
+    trace.append(("type_pass", len(RIGHT_PASS)))
+    pg.mouse.move(box_g["x"] + box_g["width"] / 2, box_g["y"] + box_g["height"] / 2)
+    pg.mouse.click(box_g["x"] + box_g["width"] / 2, box_g["y"] + box_g["height"] / 2)
+    trace.append(("click_go", round(box_g["x"]), round(box_g["y"])))
+    pg.wait_for_load_state("domcontentloaded")
+    time.sleep(0.6)
+    read = effector_log(pg, "A")
+    entered_A = "APP INTERIOR" in read["body_head"]
+    pg.screenshot(path=OUT + "/A_operate_right.png")
+    cookie_A = ctx.cookies()
+    A_ops = len(trace)
+    b.close()
+
+    # ---------- B: 同样的鼠标操作 + 错误凭证 ----------
+    b, ctx, pg = fresh(pw, "B")
+    traceB = []
+    pg.goto(BASE + "/", wait_until="domcontentloaded")
+    pg.wait_for_selector("#u", timeout=8000)
+    box_u = pg.locator("#u").bounding_box()
+    box_p = pg.locator("#p").bounding_box()
+    box_g = pg.locator("#go").bounding_box()
+    pg.mouse.move(box_u["x"] + 5, box_u["y"] + box_u["height"] / 2)
+    pg.mouse.click(box_u["x"] + 5, box_u["y"] + box_u["height"] / 2)
+    traceB.append(("click_u", round(box_u["x"]), round(box_u["y"])))
+    pg.keyboard.type(RIGHT_USER, delay=12)
+    traceB.append(("type_user", len(RIGHT_USER)))
+    pg.mouse.move(box_p["x"] + 5, box_p["y"] + box_p["height"] / 2)
+    pg.mouse.click(box_p["x"] + 5, box_p["y"] + box_p["height"] / 2)
+    traceB.append(("click_p", round(box_p["x"]), round(box_p["y"])))
+    pg.keyboard.type(WRONG_PASS, delay=12)
+    traceB.append(("type_pass", len(WRONG_PASS)))
+    pg.mouse.move(box_g["x"] + box_g["width"] / 2, box_g["y"] + box_g["height"] / 2)
+    pg.mouse.click(box_g["x"] + box_g["width"] / 2, box_g["y"] + box_g["height"] / 2)
+    traceB.append(("click_go", round(box_g["x"]), round(box_g["y"])))
+    pg.wait_for_load_state("domcontentloaded")
+    time.sleep(0.6)
+    read = effector_log(pg, "B")
+    entered_B = "APP INTERIOR" in read["body_head"]
+    pg.screenshot(path=OUT + "/B_operate_wrong.png")
+    B_ops = len(traceB)
+    b.close()
+
+    # ---------- C: 零操作 + 正确凭证（直接持 session 访问） ----------
+    sess = hashlib.sha256(RIGHT_USER.encode()).hexdigest()[:16]
+    b, ctx, pg = fresh(pw, "C")
+    ctx.add_cookies([{"name": "session", "value": sess,
+                      "domain": "127.0.0.1", "path": "/"}])
+    pg.goto(BASE + "/app", wait_until="domcontentloaded")
+    time.sleep(0.5)
+    read = effector_log(pg, "C")
+    entered_C = "APP INTERIOR" in read["body_head"]
+    pg.screenshot(path=OUT + "/C_zeroop_right.png")
+    C_ops = 0
+    b.close()
+
+    # ---------- D: 零操作 + 无凭证 ----------
+    b, ctx, pg = fresh(pw, "D")
+    pg.goto(BASE + "/app", wait_until="domcontentloaded")
+    time.sleep(0.5)
+    read = effector_log(pg, "D")
+    entered_D = "APP INTERIOR" in read["body_head"]
+    pg.screenshot(path=OUT + "/D_zeroop_none.png")
+    D_ops = 0
+    b.close()
+
+# ---------- E: 换一个完全不同的身体（curl，非浏览器）持同一凭证 ----------
+r = subprocess.run(["curl", "-s", "-o", "/tmp/e.html", "-w", "%{http_code}",
+                    "-H", "Cookie: session=" + sess, BASE + "/app"],
+                   capture_output=True, text=True)
+code_E = r.stdout.strip()
+body_E = open("/tmp/e.html", encoding="utf-8", errors="ignore").read()
+entered_E = "APP INTERIOR" in body_E
+
+# ---------- F: 伪造凭证（不是服务器签发的） ----------
+r = subprocess.run(["curl", "-s", "-o", "/tmp/f.html", "-w", "%{http_code}",
+                    "-H", "Cookie: session=deadbeefdeadbeef", BASE + "/app"],
+                   capture_output=True, text=True)
+code_F = r.stdout.strip()
+body_F = open("/tmp/f.html", encoding="utf-8", errors="ignore").read()
+entered_F = "APP INTERIOR" in body_F
+
+out = {
+    "A_operate_right_cred":   {"ops": A_ops, "entered": bool(entered_A)},
+    "B_operate_wrong_cred":   {"ops": B_ops, "entered": bool(entered_B)},
+    "C_zeroop_right_cred":    {"ops": C_ops, "entered": bool(entered_C)},
+    "D_zeroop_no_cred":       {"ops": D_ops, "entered": bool(entered_D)},
+    "E_otherbody_curl_cred":  {"http": code_E, "entered": entered_E},
+    "F_forged_cred":          {"http": code_F, "entered": entered_F},
+}
+out["A_trace"] = trace
+out["B_trace"] = traceB
+out["A_ops"] = A_ops
+out["B_ops"] = B_ops
+out["same_action_sequence"] = (A_ops == B_ops)
+
+print(json.dumps(out, ensure_ascii=False, indent=2))
+json.dump(out, open(OUT + "/result_089.json", "w"), ensure_ascii=False, indent=2)

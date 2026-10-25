@@ -1,1 +1,9 @@
-ewogIkHlubPlnYfor6/lt64lIjogNzQuMiwKICJC5bmz5Z2H6K+v5beuJSI6IDMyLjQsCiAiQeacgOWdjyUiOiAxMDAuMCwKICJC5pyA5Z2PJSI6IDg3LjAsCiAi5Yia6JCM6Iq95q61Qeivr+W3riUiOiA2MC45LAogIlppcGbor6/lt64lIjogODIuMiwKICLkuKTlpZfmoLzplJnkvY0lIjogODAKfQ==
+{
+ "A平均误差%": 74.2,
+ "B平均误差%": 32.4,
+ "A最坏%": 100.0,
+ "B最坏%": 87.0,
+ "刚萌芽段A误差%": 60.9,
+ "Zipf误差%": 82.2,
+ "两套格错位%": 80
+}

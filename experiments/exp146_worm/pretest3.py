@@ -1,1 +1,73 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIicHJldGVzdCB2M++8mnRvcC1sZXZlbCBvbmUtaG90IOS4uuS4u+eJueW+gSArIOiHquWKqOWJlOmZpOatu+e7tOW6piIiIgppbXBvcnQgb3MKaW1wb3J0IG51bXB5IGFzIG5wCkJBU0U9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xIgpUT1BTPVsiZXhwZXJpbWVudHMiLCJvdmVyc2VhcyIsImV2aWRlbmNlIiwicGFwZXIiLCJjb3JlIiwiZW9faW8iLCJkb2NzIiwidG9vbHMiLCJmaWciLCJjbG91ZCJdCgpkZWYgc2FtcGxlX25vZGVzKG1heF9ub2Rlcz05MCk6CiAgICBvdXQ9W10KICAgIGZvciB0IGluIFRPUFM6CiAgICAgICAgcm9vdD1vcy5wYXRoLmpvaW4oQkFTRSx0KQogICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHJvb3QpOiBjb250aW51ZQogICAgICAgIHN1Yj1bXQogICAgICAgIGZvciBkcCxkbixmbiBpbiBvcy53YWxrKHJvb3QpOgogICAgICAgICAgICBpZiBub3QgZG4gYW5kIG5vdCBmbjogY29udGludWUKICAgICAgICAgICAgc3ViLmFwcGVuZChkcCkKICAgICAgICAgICAgaWYgbGVuKHN1Yik+PTEyOiBicmVhawogICAgICAgIG91dCs9c3ViCiAgICByZXR1cm4gb3V0WzptYXhfbm9kZXNdCgpkZWYgY29udGVudF9mZWF0KHBhdGgpOgogICAgdHJ5OiBlPW9zLmxpc3RkaXIocGF0aCkKICAgIGV4Y2VwdCBPU0Vycm9yOiByZXR1cm4gTm9uZQogICAgbmY9bmQ9MDsgZXh0PXt9CiAgICBmb3IgeCBpbiBlOgogICAgICAgIHA9b3MucGF0aC5qb2luKHBhdGgseCkKICAgICAgICBpZiBvcy5wYXRoLmlzZGlyKHApOiBuZCs9MQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5mKz0xOyBrPW9zLnBhdGguc3BsaXRleHQoeClbMV0ubG93ZXIoKTsgZXh0W2tdPWV4dC5nZXQoaywwKSsxCiAgICBrZXlzPVsiLnB5IiwiLm1kIiwiLmpzb24iLCIucG5nIiwiLnR4dCIsIi56aXAiLCIuc2giLCIuaHRtbCJdCiAgICByZXR1cm4gW25mLzUwLjAsIG5kLzUuMF0rW2V4dC5nZXQoaywwKS81LjAgZm9yIGsgaW4ga2V5c10rW2xlbihleHQpLzguMF0KCmRlZiBwYXRoX2ZlYXQocGF0aCk6CiAgICByZWw9b3MucGF0aC5yZWxwYXRoKHBhdGgsQkFTRSk7IHBhcnRzPXJlbC5zcGxpdChvcy5zZXApCiAgICB0b3A9cGFydHNbMF0gaWYgcGFydHMgZWxzZSAiIgogICAgbmFtZT1vcy5wYXRoLmJhc2VuYW1lKHBhdGgpIG9yICIuIgogICAgb2g9WzEuMCBpZiB0b3A9PXQgZWxzZSAwLjAgZm9yIHQgaW4gVE9QU10KICAgIG1pc2M9W2Zsb2F0KGxlbihwYXJ0cykpLCBsZW4ocmVsKS82MC4wLAogICAgICAgICAgMS4wIGlmIGFueShjLmlzZGlnaXQoKSBmb3IgYyBpbiBuYW1lKSBlbHNlIDAuMF0KICAgIHJldHVybiBvaCttaXNjCgpub2Rlcz1zYW1wbGVfbm9kZXMoKQpYLFk9W10sW10KZm9yIHAgaW4gbm9kZXM6CiAgICBjPWNvbnRlbnRfZmVhdChwKQogICAgaWYgYyBpcyBOb25lOiBjb250aW51ZQogICAgWC5hcHBlbmQocGF0aF9mZWF0KHApKTsgWS5hcHBlbmQoYykKWD1ucC5hcnJheShYLGZsb2F0KTsgWT1ucC5hcnJheShZLGZsb2F0KQprZWVwPVtpIGZvciBpIGluIHJhbmdlKFguc2hhcGVbMV0pIGlmIFhbOixpXS5zdGQoKT4xZS05XQpwcmludChmIm5vZGVzPXtsZW4oWCl9IFhyYXc9e1guc2hhcGV9IGtlcHQ9e2xlbihrZWVwKX0gKGRyb3BwZWQge1guc2hhcGVbMV0tbGVuKGtlZXApfSBkZWFkKSIpClg9WFs6LGtlZXBdClhzPShYLVgubWVhbigwKSkvKFguc3RkKDApKzFlLTkpOyBZcz0oWS1ZLm1lYW4oMCkpLyhZLnN0ZCgwKSsxZS05KQoKZGVmIGxvbyhYcyxZcyxsYW09MS4wKToKICAgIG49bGVuKFhzKTsgZT1bXQogICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgaWR4PVtqIGZvciBqIGluIHJhbmdlKG4pIGlmIGohPWldCiAgICAgICAgQT1Yc1tpZHhdLlRAWHNbaWR4XStsYW0qbnAuZXllKFhzLnNoYXBlWzFdKQogICAgICAgIFc9bnAubGluYWxnLnNvbHZlKEEsWHNbaWR4XS5UQFlzW2lkeF0pCiAgICAgICAgZS5hcHBlbmQobnAubGluYWxnLm5vcm0oWHNbaV1AVy1Zc1tpXSkpCiAgICByZXR1cm4gZmxvYXQobnAubWVhbihlKSkKZGVmIG1sb28oWXMpOgogICAgbj1sZW4oWXMpOyBlPVtdCiAgICBmb3IgaSBpbiByYW5nZShuKToKICAgICAgICBtPVlzW1tqIGZvciBqIGluIHJhbmdlKG4pIGlmIGohPWldXS5tZWFuKDApCiAgICAgICAgZS5hcHBlbmQobnAubGluYWxnLm5vcm0obS1Zc1tpXSkpCiAgICByZXR1cm4gZmxvYXQobnAubWVhbihlKSkKcm5nPW5wLnJhbmRvbS5SYW5kb21TdGF0ZSg3KQpmb3Igbm0sWXQgaW4gWygicmVhbCIsWXMpLCgibm9pc2UiLHJuZy5yYW5kbigqWXMuc2hhcGUpKllzLnN0ZCgpKV06CiAgICByPWxvbyhYcyxZdCk7IG09bWxvbyhZdCkKICAgIHByaW50KGYiW3tubTo2c31dIHJpZGdlX0xPTz17cjouNGZ9IG1lYW5fTE9PPXttOi40Zn0gcmF0aW89e3IvbTouNGZ9ICIKICAgICAgICAgIGYibGVhcm5hYmxlPXsnWUVTJyBpZiByPG0qMC45MCBlbHNlICdOTyd9IikKbnAuc2F2ZSgiWDMubnB5IixYKTsgbnAuc2F2ZSgiWTMubnB5IixZKQo=
+# -*- coding: utf-8 -*-
+"""pretest v3：top-level one-hot 为主特征 + 自动剔除死维度"""
+import os
+import numpy as np
+BASE="/data/workspace/luoshen-o1"
+TOPS=["experiments","overseas","evidence","paper","core","eo_io","docs","tools","fig","cloud"]
+
+def sample_nodes(max_nodes=90):
+    out=[]
+    for t in TOPS:
+        root=os.path.join(BASE,t)
+        if not os.path.isdir(root): continue
+        sub=[]
+        for dp,dn,fn in os.walk(root):
+            if not dn and not fn: continue
+            sub.append(dp)
+            if len(sub)>=12: break
+        out+=sub
+    return out[:max_nodes]
+
+def content_feat(path):
+    try: e=os.listdir(path)
+    except OSError: return None
+    nf=nd=0; ext={}
+    for x in e:
+        p=os.path.join(path,x)
+        if os.path.isdir(p): nd+=1
+        else:
+            nf+=1; k=os.path.splitext(x)[1].lower(); ext[k]=ext.get(k,0)+1
+    keys=[".py",".md",".json",".png",".txt",".zip",".sh",".html"]
+    return [nf/50.0, nd/5.0]+[ext.get(k,0)/5.0 for k in keys]+[len(ext)/8.0]
+
+def path_feat(path):
+    rel=os.path.relpath(path,BASE); parts=rel.split(os.sep)
+    top=parts[0] if parts else ""
+    name=os.path.basename(path) or "."
+    oh=[1.0 if top==t else 0.0 for t in TOPS]
+    misc=[float(len(parts)), len(rel)/60.0,
+          1.0 if any(c.isdigit() for c in name) else 0.0]
+    return oh+misc
+
+nodes=sample_nodes()
+X,Y=[],[]
+for p in nodes:
+    c=content_feat(p)
+    if c is None: continue
+    X.append(path_feat(p)); Y.append(c)
+X=np.array(X,float); Y=np.array(Y,float)
+keep=[i for i in range(X.shape[1]) if X[:,i].std()>1e-9]
+print(f"nodes={len(X)} Xraw={X.shape} kept={len(keep)} (dropped {X.shape[1]-len(keep)} dead)")
+X=X[:,keep]
+Xs=(X-X.mean(0))/(X.std(0)+1e-9); Ys=(Y-Y.mean(0))/(Y.std(0)+1e-9)
+
+def loo(Xs,Ys,lam=1.0):
+    n=len(Xs); e=[]
+    for i in range(n):
+        idx=[j for j in range(n) if j!=i]
+        A=Xs[idx].T@Xs[idx]+lam*np.eye(Xs.shape[1])
+        W=np.linalg.solve(A,Xs[idx].T@Ys[idx])
+        e.append(np.linalg.norm(Xs[i]@W-Ys[i]))
+    return float(np.mean(e))
+def mloo(Ys):
+    n=len(Ys); e=[]
+    for i in range(n):
+        m=Ys[[j for j in range(n) if j!=i]].mean(0)
+        e.append(np.linalg.norm(m-Ys[i]))
+    return float(np.mean(e))
+rng=np.random.RandomState(7)
+for nm,Yt in [("real",Ys),("noise",rng.randn(*Ys.shape)*Ys.std())]:
+    r=loo(Xs,Yt); m=mloo(Yt)
+    print(f"[{nm:6s}] ridge_LOO={r:.4f} mean_LOO={m:.4f} ratio={r/m:.4f} "
+          f"learnable={'YES' if r<m*0.90 else 'NO'}")
+np.save("X3.npy",X); np.save("Y3.npy",Y)

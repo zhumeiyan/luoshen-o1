@@ -1,1 +1,45 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjEyNmUgwrcg5Y+Y5byC57uEIDExLzE2IOWtmOa0uyDigJTigJQg5L2G6YKj5piv5oiR5oqK5Y+Y5byC5bu65qih5oiQIuWPquiDveWPmOWlvSLnmoTnu5PmnpzjgIIK55yf5a6e5Y+Y5byC5aSn5qaC546H44CQ5pyJ5a6z44CR44CC5pys6L2u6K6pIGZnIOWPr+S4uui0n++8iOi0nyA9IOi2iuaUuei2iuezn++8ie+8jOeciyAjMTkg5Y+N54a15aKe6L+Y5Ymp5LuA5LmI44CCCiIiIgppbXBvcnQgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucApzeXMucGF0aC5pbnNlcnQoMCwnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvY29yZScpCmZyb20gbGlmZTUgaW1wb3J0IExpZmU1ClNFRURTPWxpc3QocmFuZ2UoMTYpKTsgVDEsVDIsRFJJUCxGQ0g9MTIwMCwxNTAwLDAuMDUsNwoKZGVmIHJ1bihtb2RlLCBzZWVkLCBzaWdtYT0wLjAwMDgsIFQxPVQxLCBUMj1UMik6CiAgICAiIiJtb2RlOiByZWZsZWN0KOWPquiDveWPmOWlvSkgLyBmcmVlKOWPr+WlveWPr+WdjykgLyBoYXJtZnVsX29ubHko5Y+q5Z2P5LiN5aW9KSIiIgogICAgbGY9TGlmZTUoTj04LHNlZWQ9c2VlZCxmZz0wLjApOyBybmc9bnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQqNzkxOSsxMykKICAgIGZnPTAuMAogICAgZm9yIHQgaW4gcmFuZ2UoVDEpOgogICAgICAgIGlmIG5vdCBsZi5hbGl2ZTogYnJlYWsKICAgICAgICBsZi5mZyA9IG1heCgwLjAsZmcpIGlmIG1vZGU9PSdyZWZsZWN0JyBlbHNlIGZnCiAgICAgICAgbGYuc3RlcCgpCiAgICAgICAgbGYuRT1taW4obGYuRW1heCxsZi5FK0RSSVApCiAgICAgICAgZD1zaWdtYSpybmcubm9ybWFsKCkKICAgICAgICBpZiBtb2RlPT0ncmVmbGVjdCc6ICAgZmc9bWF4KDAuMCxmZytkKQogICAgICAgIGVsaWYgbW9kZT09J2ZyZWUnOiAgICBmZz1mZytkCiAgICAgICAgZWxpZiBtb2RlPT0naGFybWZ1bCc6IGZnPWZnLWFicyhkKQogICAgZW5kID0gbWF4KDAuMCxmZykgaWYgbW9kZSE9J3JlZmxlY3QnIGVsc2UgZmcKICAgIGxmLmZnPWVuZDsgdDA9bGYudAogICAgd2hpbGUgbGYuYWxpdmUgYW5kIGxmLnQtdDA8VDI6IGxmLnN0ZXAoKQogICAgcmV0dXJuIGRpY3QoZmc9ZmxvYXQoZmcpLCBlbmQ9ZmxvYXQoZW5kKSwgYWxpdmU9Ym9vbChsZi5hbGl2ZSksIHRpY2tzPWludChsZi50LXQwKSkKCnByaW50KCI9PT0gMTI2ZSDCtyDlj5jlvILnmoTkuInnp43lu7rmqKHvvIjorq3nu4MxMjAwIOKGkiDmkqTpmaQxNTAw77yJPT09IikKcHJpbnQoZiJ7J+W7uuaooSc6PDE0fXsn5pyr5pyfZmcnOj4xMH17J+aSpOmZpOWQjua0uyc6PjEwfXsn5pKRKOaLjSknOj45fSIpCm91dD17fQpmb3IgbSBpbiBbJ3JlZmxlY3QnLCdmcmVlJywnaGFybWZ1bCddOgogICAgcnM9W3J1bihtLHNkKSBmb3Igc2QgaW4gU0VFRFNdCiAgICBmZz1ucC5hcnJheShbclsnZW5kJ10gZm9yIHIgaW4gcnNdLGZsb2F0KTsgYWw9bnAuYXJyYXkoW3JbJ2FsaXZlJ10gZm9yIHIgaW4gcnNdLGZsb2F0KQogICAgdGs9bnAuYXJyYXkoW3JbJ3RpY2tzJ10gZm9yIHIgaW4gcnNdLGZsb2F0KQogICAgb3V0W21dPWRpY3QoZmc9ZmxvYXQoZmcubWVhbigpKSxmZ19zZD1mbG9hdChmZy5zdGQoZGRvZj0xKSksYWxpdmU9ZmxvYXQoYWwubWVhbigpKSwKICAgICAgICAgICAgICAgIG49aW50KGFsLnN1bSgpKSx0aWNrcz1mbG9hdCh0ay5tZWFuKCkpLAogICAgICAgICAgICAgICAgZmdfbGlzdD1bclsnZmcnXSBmb3IgciBpbiByc10pCiAgICBwcmludChmInttOjwxNH17ZmcubWVhbigpOjEwLjVmfXtpbnQoYWwuc3VtKCkpOjdkfS8xNnt0ay5tZWFuKCk6OS4xZn0iKQpwcmludCgiXG7lj43lsITlo4HotKHnjK4gPSByZWZsZWN0IC0gZnJlZSDmnKvmnJ9mZzogJS41ZiIlKG91dFsncmVmbGVjdCddWydmZyddLW91dFsnZnJlZSddWydmZyddKSkKcHJpbnQoImZyZWUg57uEIGZnIOWdh+WAvCAlLjVmICDmoIflh4blt64gJS41Zu+8iOWvueensOmaj+acuua4uOi1sO+8jOacn+acm+W6lOS4ujDvvIkiJSgKICAgICAgb3V0WydmcmVlJ11bJ2ZnJ10sb3V0WydmcmVlJ11bJ2ZnX3NkJ10pKQpqc29uLmR1bXAob3V0LG9wZW4oJ3Jlc3VsdDEyNmUuanNvbicsJ3cnKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCnByaW50KCJcbltzYXZlZF0gcmVzdWx0MTI2ZS5qc29uIikK
+# -*- coding: utf-8 -*-
+"""
+126e · 变异组 11/16 存活 —— 但那是我把变异建模成"只能变好"的结果。
+真实变异大概率【有害】。本轮让 fg 可为负（负 = 越改越糟），看 #19 反熵增还剩什么。
+"""
+import sys, json
+import numpy as np
+sys.path.insert(0,'/data/workspace/luoshen-o1/core')
+from life5 import Life5
+SEEDS=list(range(16)); T1,T2,DRIP,FCH=1200,1500,0.05,7
+
+def run(mode, seed, sigma=0.0008, T1=T1, T2=T2):
+    """mode: reflect(只能变好) / free(可好可坏) / harmful_only(只坏不好)"""
+    lf=Life5(N=8,seed=seed,fg=0.0); rng=np.random.default_rng(seed*7919+13)
+    fg=0.0
+    for t in range(T1):
+        if not lf.alive: break
+        lf.fg = max(0.0,fg) if mode=='reflect' else fg
+        lf.step()
+        lf.E=min(lf.Emax,lf.E+DRIP)
+        d=sigma*rng.normal()
+        if mode=='reflect':   fg=max(0.0,fg+d)
+        elif mode=='free':    fg=fg+d
+        elif mode=='harmful': fg=fg-abs(d)
+    end = max(0.0,fg) if mode!='reflect' else fg
+    lf.fg=end; t0=lf.t
+    while lf.alive and lf.t-t0<T2: lf.step()
+    return dict(fg=float(fg), end=float(end), alive=bool(lf.alive), ticks=int(lf.t-t0))
+
+print("=== 126e · 变异的三种建模（训练1200 → 撤除1500）===")
+print(f"{'建模':<14}{'末期fg':>10}{'撤除后活':>10}{'撑(拍)':>9}")
+out={}
+for m in ['reflect','free','harmful']:
+    rs=[run(m,sd) for sd in SEEDS]
+    fg=np.array([r['end'] for r in rs],float); al=np.array([r['alive'] for r in rs],float)
+    tk=np.array([r['ticks'] for r in rs],float)
+    out[m]=dict(fg=float(fg.mean()),fg_sd=float(fg.std(ddof=1)),alive=float(al.mean()),
+                n=int(al.sum()),ticks=float(tk.mean()),
+                fg_list=[r['fg'] for r in rs])
+    print(f"{m:<14}{fg.mean():10.5f}{int(al.sum()):7d}/16{tk.mean():9.1f}")
+print("\n反射壁贡献 = reflect - free 末期fg: %.5f"%(out['reflect']['fg']-out['free']['fg']))
+print("free 组 fg 均值 %.5f  标准差 %.5f（对称随机游走，期望应为0）"%(
+      out['free']['fg'],out['free']['fg_sd']))
+json.dump(out,open('result126e.json','w'),ensure_ascii=False,indent=1)
+print("\n[saved] result126e.json")

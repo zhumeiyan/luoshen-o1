@@ -1,1 +1,169 @@
-IiIiQ29weSBhbmQgc2F2ZSB3aGF0IHRoZSBSZXN1bHRzIGFyZWEgc2hvd3M6IGEgcmlnaHQtY2xpY2sgbWVudSBvbiBzYXZlZApmaWd1cmVzIChjb3B5LCBzYXZlIGFzLCBvcGVuIGluIHRoZSB2aWV3ZXIsIHNob3cgaW4gZm9sZGVyKSwgb24gbGl2ZQptYXRwbG90bGliIGZpZ3VyZXMgKGNvcHksIHNhdmUgYXMgUE5HL1BERi9TVkcpIGFuZCBvbiB0YWJsZXMgKGNvcHkgYXMKdGFiLXNlcGFyYXRlZCB0ZXh0IHRoYXQgcGFzdGVzIGludG8gYSBzcHJlYWRzaGVldCwgZXhwb3J0IENTVikuIiIiCmltcG9ydCBjc3YKaW1wb3J0IGlvCmltcG9ydCBvcwppbXBvcnQgc2h1dGlsCgpmcm9tIFB5UXQ2LlF0Q29yZSBpbXBvcnQgUXQsIFFVcmwKZnJvbSBQeVF0Ni5RdEd1aSBpbXBvcnQgUURlc2t0b3BTZXJ2aWNlcywgUUd1aUFwcGxpY2F0aW9uLCBRSW1hZ2UKZnJvbSBQeVF0Ni5RdFdpZGdldHMgaW1wb3J0IFFGaWxlRGlhbG9nLCBRTWVudQoKCiMg4pSA4pSAIHNhdmVkIGZpZ3VyZXMgKGZpbGVzKSDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKZGVmIGNvcHlfaW1hZ2VfZmlsZShwYXRoKToKICAgIGltZyA9IFFJbWFnZShwYXRoKQogICAgaWYgaW1nLmlzTnVsbCgpOgogICAgICAgIHJldHVybiBGYWxzZQogICAgUUd1aUFwcGxpY2F0aW9uLmNsaXBib2FyZCgpLnNldEltYWdlKGltZykKICAgIHJldHVybiBUcnVlCgoKZGVmIHNhdmVfaW1hZ2VfZmlsZShwYXRoLCBwYXJlbnQ9Tm9uZSwgdGFyZ2V0PU5vbmUpOgogICAgIiIiU2F2ZSBhIGNvcHkgb2YgYSBmaWd1cmUgZmlsZTsgYSBkaWZmZXJlbnQgaW1hZ2UgZXh0ZW5zaW9uIGNvbnZlcnRzIGl0LiIiIgogICAgaWYgbm90IHBhdGggb3Igbm90IG9zLnBhdGguZXhpc3RzKHBhdGgpOgogICAgICAgIHJldHVybiBOb25lCiAgICBleHQgPSBvcy5wYXRoLnNwbGl0ZXh0KHBhdGgpWzFdLmxvd2VyKCkgb3IgIi5wbmciCiAgICBpZiB0YXJnZXQgaXMgTm9uZToKICAgICAgICBmaWx0ZXJzID0gIlBORyBpbWFnZSAoKi5wbmcpOztKUEVHIGltYWdlICgqLmpwZykiIGlmIGV4dCA9PSAiLnBuZyIgZWxzZSBmIntleHRbMTpdLnVwcGVyKCl9ICgqe2V4dH0pIgogICAgICAgIHRhcmdldCwgXyA9IFFGaWxlRGlhbG9nLmdldFNhdmVGaWxlTmFtZShwYXJlbnQsICJTYXZlIGltYWdlIGFzIiwgb3MucGF0aC5iYXNlbmFtZShwYXRoKSwgZmlsdGVycykKICAgIGlmIG5vdCB0YXJnZXQ6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGlmIG5vdCBvcy5wYXRoLnNwbGl0ZXh0KHRhcmdldClbMV06CiAgICAgICAgdGFyZ2V0ICs9IGV4dAogICAgaWYgb3MucGF0aC5zcGxpdGV4dCh0YXJnZXQpWzFdLmxvd2VyKCkgPT0gZXh0OgogICAgICAgIGlmIG9zLnBhdGguYWJzcGF0aCh0YXJnZXQpICE9IG9zLnBhdGguYWJzcGF0aChwYXRoKToKICAgICAgICAgICAgc2h1dGlsLmNvcHlmaWxlKHBhdGgsIHRhcmdldCkKICAgIGVsc2U6CiAgICAgICAgaWYgbm90IFFJbWFnZShwYXRoKS5zYXZlKHRhcmdldCk6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICByZXR1cm4gdGFyZ2V0CgoKZGVmIHNob3dfaW5fZm9sZGVyKHBhdGgpOgogICAgaWYgcGF0aDoKICAgICAgICBRRGVza3RvcFNlcnZpY2VzLm9wZW5VcmwoUVVybC5mcm9tTG9jYWxGaWxlKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgocGF0aCkpKSkKCgpkZWYgaW1hZ2VfbWVudShwYXJlbnQsIHBhdGgsIG9wZW5fdmlld2VyPU5vbmUpOgogICAgIiIiVGhlIHJpZ2h0LWNsaWNrIG1lbnUgZm9yIGEgc2F2ZWQgZmlndXJlLiIiIgogICAgbWVudSA9IFFNZW51KHBhcmVudCkKICAgIG9rID0gYm9vbChwYXRoKSBhbmQgb3MucGF0aC5leGlzdHMocGF0aCkKICAgIGEgPSBtZW51LmFkZEFjdGlvbigiQ29weSBpbWFnZSIpCiAgICBhLnNldEVuYWJsZWQob2spCiAgICBhLnRyaWdnZXJlZC5jb25uZWN0KGxhbWJkYTogY29weV9pbWFnZV9maWxlKHBhdGgpKQogICAgYSA9IG1lbnUuYWRkQWN0aW9uKCJTYXZlIGltYWdlIGFz4oCmIikKICAgIGEuc2V0RW5hYmxlZChvaykKICAgIGEudHJpZ2dlcmVkLmNvbm5lY3QobGFtYmRhOiBzYXZlX2ltYWdlX2ZpbGUocGF0aCwgcGFyZW50KSkKICAgIGlmIG9wZW5fdmlld2VyIGlzIG5vdCBOb25lOgogICAgICAgIGEgPSBtZW51LmFkZEFjdGlvbigiT3BlbiBpbiB2aWV3ZXIiKQogICAgICAgIGEuc2V0RW5hYmxlZChvayBhbmQgbm90IHBhdGgubG93ZXIoKS5lbmRzd2l0aCgiLmdpZiIpKQogICAgICAgIGEudHJpZ2dlcmVkLmNvbm5lY3Qob3Blbl92aWV3ZXIpCiAgICBhID0gbWVudS5hZGRBY3Rpb24oIlNob3cgaW4gZm9sZGVyIikKICAgIGEuc2V0RW5hYmxlZChvaykKICAgIGEudHJpZ2dlcmVkLmNvbm5lY3QobGFtYmRhOiBzaG93X2luX2ZvbGRlcihwYXRoKSkKICAgIHJldHVybiBtZW51CgoKZGVmIGF0dGFjaF9pbWFnZV9tZW51KHdpZGdldCwgcGF0aF9mbiwgb3Blbl92aWV3ZXI9Tm9uZSk6CiAgICAiIiJSaWdodC1jbGljayBvbiBgd2lkZ2V0YCAtPiB0aGUgZmlndXJlIG1lbnUgZm9yIHRoZSBmaWxlIGBwYXRoX2ZuKClgLiIiIgogICAgd2lkZ2V0LnNldENvbnRleHRNZW51UG9saWN5KFF0LkNvbnRleHRNZW51UG9saWN5LkN1c3RvbUNvbnRleHRNZW51KQoKICAgIGRlZiBzaG93KHBvcyk6CiAgICAgICAgbWVudSA9IGltYWdlX21lbnUod2lkZ2V0LCBwYXRoX2ZuKCksIG9wZW5fdmlld2VyKQogICAgICAgIG1lbnUuZXhlYyh3aWRnZXQubWFwVG9HbG9iYWwocG9zKSkKICAgIHdpZGdldC5jdXN0b21Db250ZXh0TWVudVJlcXVlc3RlZC5jb25uZWN0KHNob3cpCgoKIyDilIDilIAgbGl2ZSBtYXRwbG90bGliIGZpZ3VyZXMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmRlZiBjb3B5X2ZpZ3VyZShmaWcsIGRwaT0xNTApOgogICAgYnVmID0gaW8uQnl0ZXNJTygpCiAgICBmaWcuc2F2ZWZpZyhidWYsIGZvcm1hdD0icG5nIiwgZHBpPWRwaSwgZmFjZWNvbG9yPWZpZy5nZXRfZmFjZWNvbG9yKCkpCiAgICBpbWcgPSBRSW1hZ2UuZnJvbURhdGEoYnVmLmdldHZhbHVlKCksICJQTkciKQogICAgaWYgaW1nLmlzTnVsbCgpOgogICAgICAgIHJldHVybiBGYWxzZQogICAgUUd1aUFwcGxpY2F0aW9uLmNsaXBib2FyZCgpLnNldEltYWdlKGltZykKICAgIHJldHVybiBUcnVlCgoKZGVmIHNhdmVfZmlndXJlKGZpZywgcGFyZW50PU5vbmUsIG5hbWU9ImZpZ3VyZS5wbmciLCB0YXJnZXQ9Tm9uZSwgZHBpPTIwMCk6CiAgICBpZiB0YXJnZXQgaXMgTm9uZToKICAgICAgICB0YXJnZXQsIF8gPSBRRmlsZURpYWxvZy5nZXRTYXZlRmlsZU5hbWUocGFyZW50LCAiU2F2ZSBmaWd1cmUgYXMiLCBuYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUE5HIGltYWdlICgqLnBuZyk7O1BERiAoKi5wZGYpOztTVkcgKCouc3ZnKSIpCiAgICBpZiBub3QgdGFyZ2V0OgogICAgICAgIHJldHVybiBOb25lCiAgICBpZiBub3Qgb3MucGF0aC5zcGxpdGV4dCh0YXJnZXQpWzFdOgogICAgICAgIHRhcmdldCArPSAiLnBuZyIKICAgIGZpZy5zYXZlZmlnKHRhcmdldCwgZHBpPWRwaSwgZmFjZWNvbG9yPWZpZy5nZXRfZmFjZWNvbG9yKCkpCiAgICByZXR1cm4gdGFyZ2V0CgoKZGVmIGF0dGFjaF9maWd1cmVfbWVudShjYW52YXMsIGZpZ19mbiwgbmFtZT0iZmlndXJlLnBuZyIpOgogICAgY2FudmFzLnNldENvbnRleHRNZW51UG9saWN5KFF0LkNvbnRleHRNZW51UG9saWN5LkN1c3RvbUNvbnRleHRNZW51KQoKICAgIGRlZiBzaG93KHBvcyk6CiAgICAgICAgZmlnID0gZmlnX2ZuKCkKICAgICAgICBtZW51ID0gUU1lbnUoY2FudmFzKQogICAgICAgIG1lbnUuYWRkQWN0aW9uKCJDb3B5IGltYWdlIikudHJpZ2dlcmVkLmNvbm5lY3QobGFtYmRhOiBjb3B5X2ZpZ3VyZShmaWcpKQogICAgICAgIG1lbnUuYWRkQWN0aW9uKCJTYXZlIGltYWdlIGFz4oCmIikudHJpZ2dlcmVkLmNvbm5lY3QobGFtYmRhOiBzYXZlX2ZpZ3VyZShmaWcsIGNhbnZhcywgbmFtZSkpCiAgICAgICAgbWVudS5leGVjKGNhbnZhcy5tYXBUb0dsb2JhbChwb3MpKQogICAgY2FudmFzLmN1c3RvbUNvbnRleHRNZW51UmVxdWVzdGVkLmNvbm5lY3Qoc2hvdykKCgojIOKUgOKUgCB0YWJsZXMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmRlZiB0YWJsZV9yb3dzKHRhYmxlLCBzZWxlY3RlZF9vbmx5PVRydWUpOgogICAgIiIiW2hlYWRlciwgcm93LCByb3csIC4uLl0gYXMgdGV4dDsgdGhlIHNlbGVjdGVkIHJvd3MsIG9yIGFsbCBpZiBub25lIGlzLiIiIgogICAgY29scyA9IHRhYmxlLmNvbHVtbkNvdW50KCkKICAgIGhlYWRlciA9IFsodGFibGUuaG9yaXpvbnRhbEhlYWRlckl0ZW0oYykudGV4dCgpIGlmIHRhYmxlLmhvcml6b250YWxIZWFkZXJJdGVtKGMpIGVsc2UgIiIpIGZvciBjIGluIHJhbmdlKGNvbHMpXQogICAgcm93cyA9IGxpc3QocmFuZ2UodGFibGUucm93Q291bnQoKSkpCiAgICBpZiBzZWxlY3RlZF9vbmx5IGFuZCB0YWJsZS5zZWxlY3Rpb25Nb2RlbCgpIGlzIG5vdCBOb25lOgogICAgICAgIHNlbCA9IHNvcnRlZCh7aS5yb3coKSBmb3IgaSBpbiB0YWJsZS5zZWxlY3Rpb25Nb2RlbCgpLnNlbGVjdGVkSW5kZXhlcygpfSkKICAgICAgICBpZiBzZWw6CiAgICAgICAgICAgIHJvd3MgPSBzZWwKICAgIGRlZiBjZWxsKHIsIGMpOgogICAgICAgIGl0ID0gdGFibGUuaXRlbShyLCBjKQogICAgICAgIGlmIGl0IGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiAiIgogICAgICAgIGZ1bGwgPSBpdC5kYXRhKFF0Lkl0ZW1EYXRhUm9sZS5Vc2VyUm9sZSkgICAjIHRoZSB1bnJvdW5kZWQgdmFsdWUsIHdoZW4gdGhlIHRhYmxlIGtlZXBzIG9uZQogICAgICAgIHJldHVybiByZXByKGZ1bGwpIGlmIGlzaW5zdGFuY2UoZnVsbCwgZmxvYXQpIGVsc2UgaXQudGV4dCgpCiAgICBvdXQgPSBbaGVhZGVyXQogICAgZm9yIHIgaW4gcm93czoKICAgICAgICBvdXQuYXBwZW5kKFtjZWxsKHIsIGMpIGZvciBjIGluIHJhbmdlKGNvbHMpXSkKICAgIHJldHVybiBvdXQKCgpkZWYgY29weV90YWJsZSh0YWJsZSwgc2VsZWN0ZWRfb25seT1UcnVlKToKICAgIHRleHQgPSAiXG4iLmpvaW4oIlx0Ii5qb2luKHJvdykgZm9yIHJvdyBpbiB0YWJsZV9yb3dzKHRhYmxlLCBzZWxlY3RlZF9vbmx5KSkKICAgIFFHdWlBcHBsaWNhdGlvbi5jbGlwYm9hcmQoKS5zZXRUZXh0KHRleHQpCiAgICByZXR1cm4gdGV4dAoKCmRlZiBleHBvcnRfdGFibGVfY3N2KHRhYmxlLCBwYXJlbnQ9Tm9uZSwgbmFtZT0idGFibGUuY3N2IiwgdGFyZ2V0PU5vbmUpOgogICAgaWYgdGFyZ2V0IGlzIE5vbmU6CiAgICAgICAgdGFyZ2V0LCBfID0gUUZpbGVEaWFsb2cuZ2V0U2F2ZUZpbGVOYW1lKHBhcmVudCwgIkV4cG9ydCB0YWJsZSIsIG5hbWUsICJDU1YgKCouY3N2KSIpCiAgICBpZiBub3QgdGFyZ2V0OgogICAgICAgIHJldHVybiBOb25lCiAgICBpZiBub3QgdGFyZ2V0Lmxvd2VyKCkuZW5kc3dpdGgoIi5jc3YiKToKICAgICAgICB0YXJnZXQgKz0gIi5jc3YiCiAgICByb3dzID0gdGFibGVfcm93cyh0YWJsZSwgc2VsZWN0ZWRfb25seT1GYWxzZSkKICAgIHJvd3MgPSBbW2MucmVwbGFjZSgi4oCUIiwgIiIpIGZvciBjIGluIHJvd10gZm9yIHJvdyBpbiByb3dzXQogICAgd2l0aCBvcGVuKHRhcmdldCwgInciLCBuZXdsaW5lPSIiLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmaDoKICAgICAgICBjc3Yud3JpdGVyKGZoKS53cml0ZXJvd3Mocm93cykKICAgIHJldHVybiB0YXJnZXQKCgpkZWYgYXR0YWNoX3RhYmxlX21lbnUodGFibGUsIG5hbWU9InRhYmxlLmNzdiIpOgogICAgdGFibGUuc2V0Q29udGV4dE1lbnVQb2xpY3koUXQuQ29udGV4dE1lbnVQb2xpY3kuQ3VzdG9tQ29udGV4dE1lbnUpCgogICAgZGVmIHNob3cocG9zKToKICAgICAgICBtZW51ID0gUU1lbnUodGFibGUpCiAgICAgICAgaGFzX3NlbCA9IGJvb2wodGFibGUuc2VsZWN0aW9uTW9kZWwoKSBhbmQgdGFibGUuc2VsZWN0aW9uTW9kZWwoKS5zZWxlY3RlZEluZGV4ZXMoKSkKICAgICAgICBtZW51LmFkZEFjdGlvbigiQ29weSBzZWxlY3RlZCByb3dzIiBpZiBoYXNfc2VsIGVsc2UgIkNvcHkgdGFibGUiKS50cmlnZ2VyZWQuY29ubmVjdCgKICAgICAgICAgICAgbGFtYmRhOiBjb3B5X3RhYmxlKHRhYmxlKSkKICAgICAgICBpZiBoYXNfc2VsOgogICAgICAgICAgICBtZW51LmFkZEFjdGlvbigiQ29weSB3aG9sZSB0YWJsZSIpLnRyaWdnZXJlZC5jb25uZWN0KGxhbWJkYTogY29weV90YWJsZSh0YWJsZSwgRmFsc2UpKQogICAgICAgIG1lbnUuYWRkQWN0aW9uKCJFeHBvcnQgQ1NW4oCmIikudHJpZ2dlcmVkLmNvbm5lY3QobGFtYmRhOiBleHBvcnRfdGFibGVfY3N2KHRhYmxlLCB0YWJsZSwgbmFtZSkpCiAgICAgICAgbWVudS5leGVjKHRhYmxlLnZpZXdwb3J0KCkubWFwVG9HbG9iYWwocG9zKSkKICAgIHRhYmxlLmN1c3RvbUNvbnRleHRNZW51UmVxdWVzdGVkLmNvbm5lY3Qoc2hvdykK
+"""Copy and save what the Results area shows: a right-click menu on saved
+figures (copy, save as, open in the viewer, show in folder), on live
+matplotlib figures (copy, save as PNG/PDF/SVG) and on tables (copy as
+tab-separated text that pastes into a spreadsheet, export CSV)."""
+import csv
+import io
+import os
+import shutil
+
+from PyQt6.QtCore import Qt, QUrl
+from PyQt6.QtGui import QDesktopServices, QGuiApplication, QImage
+from PyQt6.QtWidgets import QFileDialog, QMenu
+
+
+# ── saved figures (files) ────────────────────────────────────────────────
+def copy_image_file(path):
+    img = QImage(path)
+    if img.isNull():
+        return False
+    QGuiApplication.clipboard().setImage(img)
+    return True
+
+
+def save_image_file(path, parent=None, target=None):
+    """Save a copy of a figure file; a different image extension converts it."""
+    if not path or not os.path.exists(path):
+        return None
+    ext = os.path.splitext(path)[1].lower() or ".png"
+    if target is None:
+        filters = "PNG image (*.png);;JPEG image (*.jpg)" if ext == ".png" else f"{ext[1:].upper()} (*{ext})"
+        target, _ = QFileDialog.getSaveFileName(parent, "Save image as", os.path.basename(path), filters)
+    if not target:
+        return None
+    if not os.path.splitext(target)[1]:
+        target += ext
+    if os.path.splitext(target)[1].lower() == ext:
+        if os.path.abspath(target) != os.path.abspath(path):
+            shutil.copyfile(path, target)
+    else:
+        if not QImage(path).save(target):
+            return None
+    return target
+
+
+def show_in_folder(path):
+    if path:
+        QDesktopServices.openUrl(QUrl.fromLocalFile(os.path.dirname(os.path.abspath(path))))
+
+
+def image_menu(parent, path, open_viewer=None):
+    """The right-click menu for a saved figure."""
+    menu = QMenu(parent)
+    ok = bool(path) and os.path.exists(path)
+    a = menu.addAction("Copy image")
+    a.setEnabled(ok)
+    a.triggered.connect(lambda: copy_image_file(path))
+    a = menu.addAction("Save image as…")
+    a.setEnabled(ok)
+    a.triggered.connect(lambda: save_image_file(path, parent))
+    if open_viewer is not None:
+        a = menu.addAction("Open in viewer")
+        a.setEnabled(ok and not path.lower().endswith(".gif"))
+        a.triggered.connect(open_viewer)
+    a = menu.addAction("Show in folder")
+    a.setEnabled(ok)
+    a.triggered.connect(lambda: show_in_folder(path))
+    return menu
+
+
+def attach_image_menu(widget, path_fn, open_viewer=None):
+    """Right-click on `widget` -> the figure menu for the file `path_fn()`."""
+    widget.setContextMenuPolicy(Qt.ContextMenuPolicy.CustomContextMenu)
+
+    def show(pos):
+        menu = image_menu(widget, path_fn(), open_viewer)
+        menu.exec(widget.mapToGlobal(pos))
+    widget.customContextMenuRequested.connect(show)
+
+
+# ── live matplotlib figures ──────────────────────────────────────────────
+def copy_figure(fig, dpi=150):
+    buf = io.BytesIO()
+    fig.savefig(buf, format="png", dpi=dpi, facecolor=fig.get_facecolor())
+    img = QImage.fromData(buf.getvalue(), "PNG")
+    if img.isNull():
+        return False
+    QGuiApplication.clipboard().setImage(img)
+    return True
+
+
+def save_figure(fig, parent=None, name="figure.png", target=None, dpi=200):
+    if target is None:
+        target, _ = QFileDialog.getSaveFileName(parent, "Save figure as", name,
+                                                "PNG image (*.png);;PDF (*.pdf);;SVG (*.svg)")
+    if not target:
+        return None
+    if not os.path.splitext(target)[1]:
+        target += ".png"
+    fig.savefig(target, dpi=dpi, facecolor=fig.get_facecolor())
+    return target
+
+
+def attach_figure_menu(canvas, fig_fn, name="figure.png"):
+    canvas.setContextMenuPolicy(Qt.ContextMenuPolicy.CustomContextMenu)
+
+    def show(pos):
+        fig = fig_fn()
+        menu = QMenu(canvas)
+        menu.addAction("Copy image").triggered.connect(lambda: copy_figure(fig))
+        menu.addAction("Save image as…").triggered.connect(lambda: save_figure(fig, canvas, name))
+        menu.exec(canvas.mapToGlobal(pos))
+    canvas.customContextMenuRequested.connect(show)
+
+
+# ── tables ───────────────────────────────────────────────────────────────
+def table_rows(table, selected_only=True):
+    """[header, row, row, ...] as text; the selected rows, or all if none is."""
+    cols = table.columnCount()
+    header = [(table.horizontalHeaderItem(c).text() if table.horizontalHeaderItem(c) else "") for c in range(cols)]
+    rows = list(range(table.rowCount()))
+    if selected_only and table.selectionModel() is not None:
+        sel = sorted({i.row() for i in table.selectionModel().selectedIndexes()})
+        if sel:
+            rows = sel
+    def cell(r, c):
+        it = table.item(r, c)
+        if it is None:
+            return ""
+        full = it.data(Qt.ItemDataRole.UserRole)   # the unrounded value, when the table keeps one
+        return repr(full) if isinstance(full, float) else it.text()
+    out = [header]
+    for r in rows:
+        out.append([cell(r, c) for c in range(cols)])
+    return out
+
+
+def copy_table(table, selected_only=True):
+    text = "\n".join("\t".join(row) for row in table_rows(table, selected_only))
+    QGuiApplication.clipboard().setText(text)
+    return text
+
+
+def export_table_csv(table, parent=None, name="table.csv", target=None):
+    if target is None:
+        target, _ = QFileDialog.getSaveFileName(parent, "Export table", name, "CSV (*.csv)")
+    if not target:
+        return None
+    if not target.lower().endswith(".csv"):
+        target += ".csv"
+    rows = table_rows(table, selected_only=False)
+    rows = [[c.replace("—", "") for c in row] for row in rows]
+    with open(target, "w", newline="", encoding="utf-8") as fh:
+        csv.writer(fh).writerows(rows)
+    return target
+
+
+def attach_table_menu(table, name="table.csv"):
+    table.setContextMenuPolicy(Qt.ContextMenuPolicy.CustomContextMenu)
+
+    def show(pos):
+        menu = QMenu(table)
+        has_sel = bool(table.selectionModel() and table.selectionModel().selectedIndexes())
+        menu.addAction("Copy selected rows" if has_sel else "Copy table").triggered.connect(
+            lambda: copy_table(table))
+        if has_sel:
+            menu.addAction("Copy whole table").triggered.connect(lambda: copy_table(table, False))
+        menu.addAction("Export CSV…").triggered.connect(lambda: export_table_csv(table, table, name))
+        menu.exec(table.viewport().mapToGlobal(pos))
+    table.customContextMenuRequested.connect(show)

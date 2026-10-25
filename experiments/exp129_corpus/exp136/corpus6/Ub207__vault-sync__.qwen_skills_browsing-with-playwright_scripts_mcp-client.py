@@ -1,1 +1,490 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKVW5pdmVyc2FsIE1DUCBDbGllbnQgLSBCdW5kbGUgd2l0aCBhbnkgc2tpbGwgdGhhdCBuZWVkcyBNQ1AgYWNjZXNzLgoKU3VwcG9ydHMgYm90aCBIVFRQIGFuZCBzdGRpbyB0cmFuc3BvcnRzIGZvciBjb25uZWN0aW5nIHRvIE1DUCBzZXJ2ZXJzLgoKVXNhZ2U6CiAgICAjIExpc3QgYXZhaWxhYmxlIHRvb2xzIGZyb20gYW4gSFRUUCBNQ1Agc2VydmVyCiAgICBweXRob24gbWNwLWNsaWVudC5weSBsaXN0IC0tdXJsIGh0dHA6Ly9sb2NhbGhvc3Q6ODA4MAoKICAgICMgTGlzdCB0b29scyBmcm9tIGEgc3RkaW8gTUNQIHNlcnZlcgogICAgcHl0aG9uIG1jcC1jbGllbnQucHkgbGlzdCAtLXN0ZGlvICJucHggLXkgQG1vZGVsY29udGV4dHByb3RvY29sL3NlcnZlci1naXRodWIiCgogICAgIyBDYWxsIGEgdG9vbAogICAgcHl0aG9uIG1jcC1jbGllbnQucHkgY2FsbCAtLXVybCBodHRwOi8vbG9jYWxob3N0OjgwODAgLS10b29sIGNyZWF0ZV9pc3N1ZSBcCiAgICAgICAgLS1wYXJhbXMgJ3sidGl0bGUiOiAiQnVnIHJlcG9ydCIsICJib2R5IjogIkRldGFpbHMuLi4ifScKCiAgICAjIEVtaXQgdG9vbCBzY2hlbWFzIGFzIG1hcmtkb3duIChmb3IgY2FjaGluZyBpbiByZWZlcmVuY2VzLykKICAgIHB5dGhvbiBtY3AtY2xpZW50LnB5IGVtaXQgLS11cmwgaHR0cDovL2xvY2FsaG9zdDo4MDgwCgogICAgIyBFbWl0IGFzIEpTT04gKGZvciBwcm9ncmFtbWF0aWMgdXNlKQogICAgcHl0aG9uIG1jcC1jbGllbnQucHkgZW1pdCAtLXVybCBodHRwOi8vbG9jYWxob3N0OjgwODAgLS1mb3JtYXQganNvbgoiIiIKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQganNvbgppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCmltcG9ydCB0aHJlYWRpbmcKaW1wb3J0IHF1ZXVlCmZyb20gdHlwaW5nIGltcG9ydCBPcHRpb25hbCwgQW55CmZyb20gdXJsbGliLnJlcXVlc3QgaW1wb3J0IFJlcXVlc3QsIHVybG9wZW4KZnJvbSB1cmxsaWIuZXJyb3IgaW1wb3J0IFVSTEVycm9yLCBIVFRQRXJyb3IKCgpjbGFzcyBNQ1BDbGllbnRFcnJvcihFeGNlcHRpb24pOgogICAgIiIiQmFzZSBleGNlcHRpb24gZm9yIE1DUCBjbGllbnQgZXJyb3JzLiIiIgogICAgcGFzcwoKCmNsYXNzIEhUVFBUcmFuc3BvcnQ6CiAgICAiIiJNQ1AgY2xpZW50IHVzaW5nIEhUVFAgdHJhbnNwb3J0IChzdHJlYW1hYmxlIEhUVFAgd2l0aCBzZXNzaW9uIHN1cHBvcnQpLiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB1cmw6IHN0ciwgaGVhZGVyczogT3B0aW9uYWxbZGljdF0gPSBOb25lKToKICAgICAgICB1cmwgPSB1cmwucnN0cmlwKCcvJykKICAgICAgICAjIFBsYXl3cmlnaHQgTUNQIGFuZCBvdGhlciBzdHJlYW1hYmxlIEhUVFAgc2VydmVycyB1c2UgL21jcCBlbmRwb2ludAogICAgICAgIGlmIG5vdCB1cmwuZW5kc3dpdGgoJy9tY3AnKToKICAgICAgICAgICAgdXJsID0gdXJsICsgJy9tY3AnCiAgICAgICAgc2VsZi51cmwgPSB1cmwKICAgICAgICBzZWxmLmhlYWRlcnMgPSBoZWFkZXJzIG9yIHt9CiAgICAgICAgc2VsZi5fcmVxdWVzdF9pZCA9IDAKICAgICAgICBzZWxmLl9zZXNzaW9uX2lkOiBPcHRpb25hbFtzdHJdID0gTm9uZQogICAgICAgIHNlbGYuX2luaXRpYWxpemVkID0gRmFsc2UKCiAgICBkZWYgX25leHRfaWQoc2VsZikgLT4gaW50OgogICAgICAgIHNlbGYuX3JlcXVlc3RfaWQgKz0gMQogICAgICAgIHJldHVybiBzZWxmLl9yZXF1ZXN0X2lkCgogICAgZGVmIF9lbnN1cmVfaW5pdGlhbGl6ZWQoc2VsZik6CiAgICAgICAgIiIiSW5pdGlhbGl6ZSB0aGUgc2Vzc2lvbiBpZiBub3QgYWxyZWFkeSBkb25lLiIiIgogICAgICAgIGlmIHNlbGYuX2luaXRpYWxpemVkOgogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgcGF5bG9hZCA9IHsKICAgICAgICAgICAgImpzb25ycGMiOiAiMi4wIiwKICAgICAgICAgICAgImlkIjogc2VsZi5fbmV4dF9pZCgpLAogICAgICAgICAgICAibWV0aG9kIjogImluaXRpYWxpemUiLAogICAgICAgICAgICAicGFyYW1zIjogewogICAgICAgICAgICAgICAgInByb3RvY29sVmVyc2lvbiI6ICIyMDI0LTExLTA1IiwKICAgICAgICAgICAgICAgICJjYXBhYmlsaXRpZXMiOiB7fSwKICAgICAgICAgICAgICAgICJjbGllbnRJbmZvIjogeyJuYW1lIjogIm1jcC1jbGllbnQiLCAidmVyc2lvbiI6ICIxLjAuMCJ9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGRhdGEgPSBqc29uLmR1bXBzKHBheWxvYWQpLmVuY29kZSgndXRmLTgnKQogICAgICAgIGhlYWRlcnMgPSB7CiAgICAgICAgICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIsCiAgICAgICAgICAgICJBY2NlcHQiOiAiYXBwbGljYXRpb24vanNvbiwgdGV4dC9ldmVudC1zdHJlYW0iLAogICAgICAgICAgICAqKnNlbGYuaGVhZGVycwogICAgICAgIH0KCiAgICAgICAgcmVxID0gUmVxdWVzdChzZWxmLnVybCwgZGF0YT1kYXRhLCBoZWFkZXJzPWhlYWRlcnMsIG1ldGhvZD0nUE9TVCcpCgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCB1cmxvcGVuKHJlcSwgdGltZW91dD0zMCkgYXMgcmVzcDoKICAgICAgICAgICAgICAgICMgQ2hlY2sgZm9yIHNlc3Npb24gSUQgaW4gcmVzcG9uc2UgaGVhZGVycwogICAgICAgICAgICAgICAgc2VsZi5fc2Vzc2lvbl9pZCA9IHJlc3AuaGVhZGVycy5nZXQoJ01jcC1TZXNzaW9uLUlkJykKICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gc2VsZi5fcGFyc2VfcmVzcG9uc2UocmVzcC5yZWFkKCkuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgIGV4Y2VwdCBIVFRQRXJyb3IgYXMgZToKICAgICAgICAgICAgYm9keSA9IGUucmVhZCgpLmRlY29kZSgndXRmLTgnKSBpZiBlLmZwIGVsc2Ugc3RyKGUpCiAgICAgICAgICAgIHJhaXNlIE1DUENsaWVudEVycm9yKGYiSFRUUCB7ZS5jb2RlfToge2JvZHl9IikKICAgICAgICBleGNlcHQgVVJMRXJyb3IgYXMgZToKICAgICAgICAgICAgcmFpc2UgTUNQQ2xpZW50RXJyb3IoZiJDb25uZWN0aW9uIGZhaWxlZDoge2UucmVhc29ufSIpCgogICAgICAgIGlmICJlcnJvciIgaW4gcmVzcG9uc2U6CiAgICAgICAgICAgIGVyciA9IHJlc3BvbnNlWyJlcnJvciJdCiAgICAgICAgICAgIHJhaXNlIE1DUENsaWVudEVycm9yKGYiSW5pdGlhbGl6ZSBmYWlsZWQ6IHtlcnIuZ2V0KCdtZXNzYWdlJyl9IikKCiAgICAgICAgc2VsZi5faW5pdGlhbGl6ZWQgPSBUcnVlCgogICAgICAgICMgU2VuZCBpbml0aWFsaXplZCBub3RpZmljYXRpb24KICAgICAgICBzZWxmLl9zZW5kX25vdGlmaWNhdGlvbigibm90aWZpY2F0aW9ucy9pbml0aWFsaXplZCIpCgogICAgZGVmIF9wYXJzZV9yZXNwb25zZShzZWxmLCBib2R5OiBzdHIpIC0+IGRpY3Q6CiAgICAgICAgIiIiUGFyc2UgcmVzcG9uc2UgYm9keSwgaGFuZGxpbmcgU1NFIGZvcm1hdCBpZiBuZWVkZWQuIiIiCiAgICAgICAgYm9keSA9IGJvZHkuc3RyaXAoKQoKICAgICAgICAjIEhhbmRsZSBTU0UgZm9ybWF0IChldmVudCBzdHJlYW0pCiAgICAgICAgaWYgYm9keS5zdGFydHN3aXRoKCdldmVudDonKSBvciBib2R5LnN0YXJ0c3dpdGgoJ2RhdGE6Jyk6CiAgICAgICAgICAgIGZvciBsaW5lIGluIGJvZHkuc3BsaXQoJ1xuJyk6CiAgICAgICAgICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoJ2RhdGE6Jyk6CiAgICAgICAgICAgICAgICAgICAganNvbl9kYXRhID0gbGluZVs1Ol0uc3RyaXAoKQogICAgICAgICAgICAgICAgICAgIGlmIGpzb25fZGF0YToKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMoanNvbl9kYXRhKQogICAgICAgICAgICByYWlzZSBNQ1BDbGllbnRFcnJvcigiTm8gZGF0YSBpbiBTU0UgcmVzcG9uc2UiKQoKICAgICAgICAjIFJlZ3VsYXIgSlNPTiByZXNwb25zZQogICAgICAgIHJldHVybiBqc29uLmxvYWRzKGJvZHkpCgogICAgZGVmIF9zZW5kX25vdGlmaWNhdGlvbihzZWxmLCBtZXRob2Q6IHN0ciwgcGFyYW1zOiBPcHRpb25hbFtkaWN0XSA9IE5vbmUpOgogICAgICAgICIiIlNlbmQgYSBub3RpZmljYXRpb24gKG5vIHJlc3BvbnNlIGV4cGVjdGVkKS4iIiIKICAgICAgICBwYXlsb2FkID0gewogICAgICAgICAgICAianNvbnJwYyI6ICIyLjAiLAogICAgICAgICAgICAibWV0aG9kIjogbWV0aG9kLAogICAgICAgIH0KICAgICAgICBpZiBwYXJhbXM6CiAgICAgICAgICAgIHBheWxvYWRbInBhcmFtcyJdID0gcGFyYW1zCgogICAgICAgIGRhdGEgPSBqc29uLmR1bXBzKHBheWxvYWQpLmVuY29kZSgndXRmLTgnKQogICAgICAgIGhlYWRlcnMgPSB7CiAgICAgICAgICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIsCiAgICAgICAgICAgICJBY2NlcHQiOiAiYXBwbGljYXRpb24vanNvbiwgdGV4dC9ldmVudC1zdHJlYW0iLAogICAgICAgICAgICAqKnNlbGYuaGVhZGVycwogICAgICAgIH0KICAgICAgICBpZiBzZWxmLl9zZXNzaW9uX2lkOgogICAgICAgICAgICBoZWFkZXJzWyJNY3AtU2Vzc2lvbi1JZCJdID0gc2VsZi5fc2Vzc2lvbl9pZAoKICAgICAgICByZXEgPSBSZXF1ZXN0KHNlbGYudXJsLCBkYXRhPWRhdGEsIGhlYWRlcnM9aGVhZGVycywgbWV0aG9kPSdQT1NUJykKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggdXJsb3BlbihyZXEsIHRpbWVvdXQ9MzApIGFzIHJlc3A6CiAgICAgICAgICAgICAgICBwYXNzICAjIE5vdGlmaWNhdGlvbnMgZG9uJ3QgcmV0dXJuIGRhdGEKICAgICAgICBleGNlcHQgKEhUVFBFcnJvciwgVVJMRXJyb3IpOgogICAgICAgICAgICBwYXNzICAjIElnbm9yZSBub3RpZmljYXRpb24gZXJyb3JzCgogICAgZGVmIHJlcXVlc3Qoc2VsZiwgbWV0aG9kOiBzdHIsIHBhcmFtczogT3B0aW9uYWxbZGljdF0gPSBOb25lKSAtPiBkaWN0OgogICAgICAgICIiIlNlbmQgYSBKU09OLVJQQyByZXF1ZXN0IHRvIHRoZSBNQ1Agc2VydmVyLiIiIgogICAgICAgIHNlbGYuX2Vuc3VyZV9pbml0aWFsaXplZCgpCgogICAgICAgIHBheWxvYWQgPSB7CiAgICAgICAgICAgICJqc29ucnBjIjogIjIuMCIsCiAgICAgICAgICAgICJpZCI6IHNlbGYuX25leHRfaWQoKSwKICAgICAgICAgICAgIm1ldGhvZCI6IG1ldGhvZCwKICAgICAgICB9CiAgICAgICAgaWYgcGFyYW1zOgogICAgICAgICAgICBwYXlsb2FkWyJwYXJhbXMiXSA9IHBhcmFtcwoKICAgICAgICBkYXRhID0ganNvbi5kdW1wcyhwYXlsb2FkKS5lbmNvZGUoJ3V0Zi04JykKICAgICAgICBoZWFkZXJzID0gewogICAgICAgICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICAgICAgICAiQWNjZXB0IjogImFwcGxpY2F0aW9uL2pzb24sIHRleHQvZXZlbnQtc3RyZWFtIiwKICAgICAgICAgICAgKipzZWxmLmhlYWRlcnMKICAgICAgICB9CiAgICAgICAgaWYgc2VsZi5fc2Vzc2lvbl9pZDoKICAgICAgICAgICAgaGVhZGVyc1siTWNwLVNlc3Npb24tSWQiXSA9IHNlbGYuX3Nlc3Npb25faWQKCiAgICAgICAgcmVxID0gUmVxdWVzdChzZWxmLnVybCwgZGF0YT1kYXRhLCBoZWFkZXJzPWhlYWRlcnMsIG1ldGhvZD0nUE9TVCcpCgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCB1cmxvcGVuKHJlcSwgdGltZW91dD0zMCkgYXMgcmVzcDoKICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gc2VsZi5fcGFyc2VfcmVzcG9uc2UocmVzcC5yZWFkKCkuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgIGV4Y2VwdCBIVFRQRXJyb3IgYXMgZToKICAgICAgICAgICAgYm9keSA9IGUucmVhZCgpLmRlY29kZSgndXRmLTgnKSBpZiBlLmZwIGVsc2Ugc3RyKGUpCiAgICAgICAgICAgIHJhaXNlIE1DUENsaWVudEVycm9yKGYiSFRUUCB7ZS5jb2RlfToge2JvZHl9IikKICAgICAgICBleGNlcHQgVVJMRXJyb3IgYXMgZToKICAgICAgICAgICAgcmFpc2UgTUNQQ2xpZW50RXJyb3IoZiJDb25uZWN0aW9uIGZhaWxlZDoge2UucmVhc29ufSIpCgogICAgICAgIGlmICJlcnJvciIgaW4gcmVzcG9uc2U6CiAgICAgICAgICAgIGVyciA9IHJlc3BvbnNlWyJlcnJvciJdCiAgICAgICAgICAgIHJhaXNlIE1DUENsaWVudEVycm9yKGYiTUNQIGVycm9yIHtlcnIuZ2V0KCdjb2RlJyl9OiB7ZXJyLmdldCgnbWVzc2FnZScpfSIpCgogICAgICAgIHJldHVybiByZXNwb25zZS5nZXQoInJlc3VsdCIsIHt9KQoKCmNsYXNzIFN0ZGlvVHJhbnNwb3J0OgogICAgIiIiTUNQIGNsaWVudCB1c2luZyBzdGRpbyB0cmFuc3BvcnQgKGZvciBsb2NhbCBNQ1Agc2VydmVycykuIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNvbW1hbmQ6IHN0cik6CiAgICAgICAgc2VsZi5jb21tYW5kID0gY29tbWFuZAogICAgICAgIHNlbGYuX3JlcXVlc3RfaWQgPSAwCiAgICAgICAgc2VsZi5fcHJvY2VzczogT3B0aW9uYWxbc3VicHJvY2Vzcy5Qb3Blbl0gPSBOb25lCiAgICAgICAgc2VsZi5fcmVzcG9uc2VfcXVldWU6IHF1ZXVlLlF1ZXVlID0gcXVldWUuUXVldWUoKQogICAgICAgIHNlbGYuX3JlYWRlcl90aHJlYWQ6IE9wdGlvbmFsW3RocmVhZGluZy5UaHJlYWRdID0gTm9uZQoKICAgIGRlZiBfbmV4dF9pZChzZWxmKSAtPiBpbnQ6CiAgICAgICAgc2VsZi5fcmVxdWVzdF9pZCArPSAxCiAgICAgICAgcmV0dXJuIHNlbGYuX3JlcXVlc3RfaWQKCiAgICBkZWYgX3N0YXJ0KHNlbGYpOgogICAgICAgICIiIlN0YXJ0IHRoZSBNQ1Agc2VydmVyIHByb2Nlc3MuIiIiCiAgICAgICAgaWYgc2VsZi5fcHJvY2VzcyBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIHNlbGYuX3Byb2Nlc3MgPSBzdWJwcm9jZXNzLlBvcGVuKAogICAgICAgICAgICBzZWxmLmNvbW1hbmQsCiAgICAgICAgICAgIHNoZWxsPVRydWUsCiAgICAgICAgICAgIHN0ZGluPXN1YnByb2Nlc3MuUElQRSwKICAgICAgICAgICAgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwKICAgICAgICAgICAgc3RkZXJyPXN1YnByb2Nlc3MuUElQRSwKICAgICAgICAgICAgdGV4dD1UcnVlLAogICAgICAgICAgICBidWZzaXplPTEKICAgICAgICApCgogICAgICAgICMgU3RhcnQgcmVhZGVyIHRocmVhZAogICAgICAgIHNlbGYuX3JlYWRlcl90aHJlYWQgPSB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1zZWxmLl9yZWFkX3Jlc3BvbnNlcywgZGFlbW9uPVRydWUpCiAgICAgICAgc2VsZi5fcmVhZGVyX3RocmVhZC5zdGFydCgpCgogICAgICAgICMgU2VuZCBpbml0aWFsaXplIHJlcXVlc3QKICAgICAgICBzZWxmLl9zZW5kKHsKICAgICAgICAgICAgImpzb25ycGMiOiAiMi4wIiwKICAgICAgICAgICAgImlkIjogc2VsZi5fbmV4dF9pZCgpLAogICAgICAgICAgICAibWV0aG9kIjogImluaXRpYWxpemUiLAogICAgICAgICAgICAicGFyYW1zIjogewogICAgICAgICAgICAgICAgInByb3RvY29sVmVyc2lvbiI6ICIyMDI0LTExLTA1IiwKICAgICAgICAgICAgICAgICJjYXBhYmlsaXRpZXMiOiB7fSwKICAgICAgICAgICAgICAgICJjbGllbnRJbmZvIjogeyJuYW1lIjogIm1jcC1jbGllbnQiLCAidmVyc2lvbiI6ICIxLjAuMCJ9CiAgICAgICAgICAgIH0KICAgICAgICB9KQoKICAgICAgICAjIFdhaXQgZm9yIGluaXRpYWxpemUgcmVzcG9uc2UKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlc3AgPSBzZWxmLl9yZXNwb25zZV9xdWV1ZS5nZXQodGltZW91dD0xMCkKICAgICAgICAgICAgaWYgImVycm9yIiBpbiByZXNwOgogICAgICAgICAgICAgICAgcmFpc2UgTUNQQ2xpZW50RXJyb3IoZiJJbml0aWFsaXplIGZhaWxlZDoge3Jlc3BbJ2Vycm9yJ119IikKICAgICAgICBleGNlcHQgcXVldWUuRW1wdHk6CiAgICAgICAgICAgIHJhaXNlIE1DUENsaWVudEVycm9yKCJUaW1lb3V0IHdhaXRpbmcgZm9yIHNlcnZlciBpbml0aWFsaXphdGlvbiIpCgogICAgICAgICMgU2VuZCBpbml0aWFsaXplZCBub3RpZmljYXRpb24KICAgICAgICBzZWxmLl9zZW5kKHsKICAgICAgICAgICAgImpzb25ycGMiOiAiMi4wIiwKICAgICAgICAgICAgIm1ldGhvZCI6ICJub3RpZmljYXRpb25zL2luaXRpYWxpemVkIgogICAgICAgIH0pCgogICAgZGVmIF9yZWFkX3Jlc3BvbnNlcyhzZWxmKToKICAgICAgICAiIiJCYWNrZ3JvdW5kIHRocmVhZCB0byByZWFkIHJlc3BvbnNlcyBmcm9tIHRoZSBzZXJ2ZXIuIiIiCiAgICAgICAgd2hpbGUgc2VsZi5fcHJvY2VzcyBhbmQgc2VsZi5fcHJvY2Vzcy5wb2xsKCkgaXMgTm9uZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgbGluZSA9IHNlbGYuX3Byb2Nlc3Muc3Rkb3V0LnJlYWRsaW5lKCkKICAgICAgICAgICAgICAgIGlmIG5vdCBsaW5lOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICBsaW5lID0gbGluZS5zdHJpcCgpCiAgICAgICAgICAgICAgICBpZiBsaW5lOgogICAgICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAgICAgbXNnID0ganNvbi5sb2FkcyhsaW5lKQogICAgICAgICAgICAgICAgICAgICAgICAjIE9ubHkgcXVldWUgcmVzcG9uc2VzIChtZXNzYWdlcyB3aXRoIGlkKSwgbm90IG5vdGlmaWNhdGlvbnMKICAgICAgICAgICAgICAgICAgICAgICAgaWYgImlkIiBpbiBtc2c6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9yZXNwb25zZV9xdWV1ZS5wdXQobXNnKQogICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBqc29uLkpTT05EZWNvZGVFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgcGFzcyAgIyBJZ25vcmUgbm9uLUpTT04gb3V0cHV0CiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBicmVhawoKICAgIGRlZiBfc2VuZChzZWxmLCBtZXNzYWdlOiBkaWN0KToKICAgICAgICAiIiJTZW5kIGEgbWVzc2FnZSB0byB0aGUgc2VydmVyLiIiIgogICAgICAgIGlmIHNlbGYuX3Byb2Nlc3MgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgTUNQQ2xpZW50RXJyb3IoIlByb2Nlc3Mgbm90IHN0YXJ0ZWQiKQogICAgICAgIGxpbmUgPSBqc29uLmR1bXBzKG1lc3NhZ2UpICsgIlxuIgogICAgICAgIHNlbGYuX3Byb2Nlc3Muc3RkaW4ud3JpdGUobGluZSkKICAgICAgICBzZWxmLl9wcm9jZXNzLnN0ZGluLmZsdXNoKCkKCiAgICBkZWYgcmVxdWVzdChzZWxmLCBtZXRob2Q6IHN0ciwgcGFyYW1zOiBPcHRpb25hbFtkaWN0XSA9IE5vbmUpIC0+IGRpY3Q6CiAgICAgICAgIiIiU2VuZCBhIEpTT04tUlBDIHJlcXVlc3QgYW5kIHdhaXQgZm9yIHJlc3BvbnNlLiIiIgogICAgICAgIHNlbGYuX3N0YXJ0KCkKCiAgICAgICAgcmVxX2lkID0gc2VsZi5fbmV4dF9pZCgpCiAgICAgICAgcGF5bG9hZCA9IHsKICAgICAgICAgICAgImpzb25ycGMiOiAiMi4wIiwKICAgICAgICAgICAgImlkIjogcmVxX2lkLAogICAgICAgICAgICAibWV0aG9kIjogbWV0aG9kLAogICAgICAgIH0KICAgICAgICBpZiBwYXJhbXM6CiAgICAgICAgICAgIHBheWxvYWRbInBhcmFtcyJdID0gcGFyYW1zCgogICAgICAgIHNlbGYuX3NlbmQocGF5bG9hZCkKCiAgICAgICAgIyBXYWl0IGZvciByZXNwb25zZSB3aXRoIG1hdGNoaW5nIGlkCiAgICAgICAgdHJ5OgogICAgICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICAgICAgcmVzcCA9IHNlbGYuX3Jlc3BvbnNlX3F1ZXVlLmdldCh0aW1lb3V0PTMwKQogICAgICAgICAgICAgICAgaWYgcmVzcC5nZXQoImlkIikgPT0gcmVxX2lkOgogICAgICAgICAgICAgICAgICAgIGlmICJlcnJvciIgaW4gcmVzcDoKICAgICAgICAgICAgICAgICAgICAgICAgZXJyID0gcmVzcFsiZXJyb3IiXQogICAgICAgICAgICAgICAgICAgICAgICByYWlzZSBNQ1BDbGllbnRFcnJvcihmIk1DUCBlcnJvciB7ZXJyLmdldCgnY29kZScpfToge2Vyci5nZXQoJ21lc3NhZ2UnKX0iKQogICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwLmdldCgicmVzdWx0Iiwge30pCiAgICAgICAgZXhjZXB0IHF1ZXVlLkVtcHR5OgogICAgICAgICAgICByYWlzZSBNQ1BDbGllbnRFcnJvcihmIlRpbWVvdXQgd2FpdGluZyBmb3IgcmVzcG9uc2UgdG8ge21ldGhvZH0iKQoKICAgIGRlZiBjbG9zZShzZWxmKToKICAgICAgICAiIiJTaHV0ZG93biB0aGUgc2VydmVyIHByb2Nlc3MuIiIiCiAgICAgICAgaWYgc2VsZi5fcHJvY2VzczoKICAgICAgICAgICAgc2VsZi5fcHJvY2Vzcy50ZXJtaW5hdGUoKQogICAgICAgICAgICBzZWxmLl9wcm9jZXNzLndhaXQodGltZW91dD01KQogICAgICAgICAgICBzZWxmLl9wcm9jZXNzID0gTm9uZQoKCmNsYXNzIE1DUENsaWVudDoKICAgICIiIkhpZ2gtbGV2ZWwgTUNQIGNsaWVudCB0aGF0IHdvcmtzIHdpdGggYW55IHRyYW5zcG9ydC4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdHJhbnNwb3J0KToKICAgICAgICBzZWxmLnRyYW5zcG9ydCA9IHRyYW5zcG9ydAoKICAgIGRlZiBsaXN0X3Rvb2xzKHNlbGYpIC0+IGxpc3RbZGljdF06CiAgICAgICAgIiIiR2V0IGxpc3Qgb2YgYXZhaWxhYmxlIHRvb2xzIGZyb20gdGhlIHNlcnZlci4iIiIKICAgICAgICByZXN1bHQgPSBzZWxmLnRyYW5zcG9ydC5yZXF1ZXN0KCJ0b29scy9saXN0IikKICAgICAgICByZXR1cm4gcmVzdWx0LmdldCgidG9vbHMiLCBbXSkKCiAgICBkZWYgY2FsbF90b29sKHNlbGYsIG5hbWU6IHN0ciwgYXJndW1lbnRzOiBPcHRpb25hbFtkaWN0XSA9IE5vbmUpIC0+IEFueToKICAgICAgICAiIiJDYWxsIGEgdG9vbCBhbmQgcmV0dXJuIHRoZSByZXN1bHQuIiIiCiAgICAgICAgcGFyYW1zID0geyJuYW1lIjogbmFtZX0KICAgICAgICBpZiBhcmd1bWVudHM6CiAgICAgICAgICAgIHBhcmFtc1siYXJndW1lbnRzIl0gPSBhcmd1bWVudHMKCiAgICAgICAgcmVzdWx0ID0gc2VsZi50cmFuc3BvcnQucmVxdWVzdCgidG9vbHMvY2FsbCIsIHBhcmFtcykKICAgICAgICByZXR1cm4gcmVzdWx0CgogICAgZGVmIGxpc3RfcmVzb3VyY2VzKHNlbGYpIC0+IGxpc3RbZGljdF06CiAgICAgICAgIiIiR2V0IGxpc3Qgb2YgYXZhaWxhYmxlIHJlc291cmNlcy4iIiIKICAgICAgICByZXN1bHQgPSBzZWxmLnRyYW5zcG9ydC5yZXF1ZXN0KCJyZXNvdXJjZXMvbGlzdCIpCiAgICAgICAgcmV0dXJuIHJlc3VsdC5nZXQoInJlc291cmNlcyIsIFtdKQoKICAgIGRlZiBsaXN0X3Byb21wdHMoc2VsZikgLT4gbGlzdFtkaWN0XToKICAgICAgICAiIiJHZXQgbGlzdCBvZiBhdmFpbGFibGUgcHJvbXB0cy4iIiIKICAgICAgICByZXN1bHQgPSBzZWxmLnRyYW5zcG9ydC5yZXF1ZXN0KCJwcm9tcHRzL2xpc3QiKQogICAgICAgIHJldHVybiByZXN1bHQuZ2V0KCJwcm9tcHRzIiwgW10pCgoKZGVmIGVtaXRfbWFya2Rvd24odG9vbHM6IGxpc3RbZGljdF0pIC0+IHN0cjoKICAgICIiIkdlbmVyYXRlIG1hcmtkb3duIGRvY3VtZW50YXRpb24gZm9yIHRvb2xzLiIiIgogICAgbGluZXMgPSBbIiMgTUNQIFNlcnZlciBUb29sc1xuIl0KICAgIGxpbmVzLmFwcGVuZChmIip7bGVuKHRvb2xzKX0gdG9vbHMgYXZhaWxhYmxlKlxuIikKCiAgICBmb3IgdG9vbCBpbiB0b29sczoKICAgICAgICBuYW1lID0gdG9vbC5nZXQoIm5hbWUiLCAidW5uYW1lZCIpCiAgICAgICAgZGVzYyA9IHRvb2wuZ2V0KCJkZXNjcmlwdGlvbiIsICJObyBkZXNjcmlwdGlvbiIpCiAgICAgICAgc2NoZW1hID0gdG9vbC5nZXQoImlucHV0U2NoZW1hIiwge30pCiAgICAgICAgYW5ub3RhdGlvbnMgPSB0b29sLmdldCgiYW5ub3RhdGlvbnMiLCB7fSkKCiAgICAgICAgbGluZXMuYXBwZW5kKGYiIyMgYHtuYW1lfWBcbiIpCiAgICAgICAgbGluZXMuYXBwZW5kKGYie2Rlc2N9XG4iKQoKICAgICAgICAjIEFkZCBhbm5vdGF0aW9ucyBpZiBwcmVzZW50CiAgICAgICAgaWYgYW5ub3RhdGlvbnM6CiAgICAgICAgICAgIGZsYWdzID0gW10KICAgICAgICAgICAgaWYgYW5ub3RhdGlvbnMuZ2V0KCJyZWFkT25seUhpbnQiKToKICAgICAgICAgICAgICAgIGZsYWdzLmFwcGVuZCgicmVhZC1vbmx5IikKICAgICAgICAgICAgaWYgYW5ub3RhdGlvbnMuZ2V0KCJkZXN0cnVjdGl2ZUhpbnQiKToKICAgICAgICAgICAgICAgIGZsYWdzLmFwcGVuZCgiZGVzdHJ1Y3RpdmUiKQogICAgICAgICAgICBpZiBhbm5vdGF0aW9ucy5nZXQoImlkZW1wb3RlbnRIaW50Iik6CiAgICAgICAgICAgICAgICBmbGFncy5hcHBlbmQoImlkZW1wb3RlbnQiKQogICAgICAgICAgICBpZiBmbGFnczoKICAgICAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmIipGbGFnczogeycsICcuam9pbihmbGFncyl9KlxuIikKCiAgICAgICAgIyBBZGQgaW5wdXQgc2NoZW1hCiAgICAgICAgaWYgc2NoZW1hLmdldCgicHJvcGVydGllcyIpOgogICAgICAgICAgICBsaW5lcy5hcHBlbmQoIiMjIyBQYXJhbWV0ZXJzXG4iKQogICAgICAgICAgICByZXF1aXJlZCA9IHNldChzY2hlbWEuZ2V0KCJyZXF1aXJlZCIsIFtdKSkKICAgICAgICAgICAgZm9yIHByb3BfbmFtZSwgcHJvcF9kZWYgaW4gc2NoZW1hWyJwcm9wZXJ0aWVzIl0uaXRlbXMoKToKICAgICAgICAgICAgICAgIHJlcV9tYXJrZXIgPSAiICoocmVxdWlyZWQpKiIgaWYgcHJvcF9uYW1lIGluIHJlcXVpcmVkIGVsc2UgIiIKICAgICAgICAgICAgICAgIHByb3BfdHlwZSA9IHByb3BfZGVmLmdldCgidHlwZSIsICJhbnkiKQogICAgICAgICAgICAgICAgcHJvcF9kZXNjID0gcHJvcF9kZWYuZ2V0KCJkZXNjcmlwdGlvbiIsICIiKQogICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYiLSAqKmB7cHJvcF9uYW1lfWAqKiAoYHtwcm9wX3R5cGV9YCl7cmVxX21hcmtlcn06IHtwcm9wX2Rlc2N9IikKICAgICAgICAgICAgbGluZXMuYXBwZW5kKCIiKQoKICAgICAgICAjIEFkZCBmdWxsIHNjaGVtYSBhcyBjb2xsYXBzaWJsZQogICAgICAgIGxpbmVzLmFwcGVuZCgiPGRldGFpbHM+IikKICAgICAgICBsaW5lcy5hcHBlbmQoIjxzdW1tYXJ5PkZ1bGwgU2NoZW1hPC9zdW1tYXJ5PlxuIikKICAgICAgICBsaW5lcy5hcHBlbmQoImBgYGpzb24iKQogICAgICAgIGxpbmVzLmFwcGVuZChqc29uLmR1bXBzKHNjaGVtYSwgaW5kZW50PTIpKQogICAgICAgIGxpbmVzLmFwcGVuZCgiYGBgIikKICAgICAgICBsaW5lcy5hcHBlbmQoIjwvZGV0YWlscz5cbiIpCgogICAgcmV0dXJuICJcbiIuam9pbihsaW5lcykKCgpkZWYgZW1pdF9qc29uKHRvb2xzOiBsaXN0W2RpY3RdKSAtPiBzdHI6CiAgICAiIiJHZW5lcmF0ZSBKU09OIG91dHB1dCBmb3IgdG9vbHMuIiIiCiAgICByZXR1cm4ganNvbi5kdW1wcyh7InRvb2xzIjogdG9vbHN9LCBpbmRlbnQ9MikKCgpkZWYgbWFpbigpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249IlVuaXZlcnNhbCBNQ1AgQ2xpZW50IC0gY29ubmVjdCB0byBhbnkgTUNQIHNlcnZlciIsCiAgICAgICAgZm9ybWF0dGVyX2NsYXNzPWFyZ3BhcnNlLlJhd0Rlc2NyaXB0aW9uSGVscEZvcm1hdHRlciwKICAgICAgICBlcGlsb2c9X19kb2NfXwogICAgKQoKICAgICMgQ29tbWFuZHMKICAgIHN1YnBhcnNlcnMgPSBwYXJzZXIuYWRkX3N1YnBhcnNlcnMoZGVzdD0iY29tbWFuZCIsIHJlcXVpcmVkPVRydWUpCgogICAgIyBsaXN0IGNvbW1hbmQKICAgIGxpc3RfcGFyc2VyID0gc3VicGFyc2Vycy5hZGRfcGFyc2VyKCJsaXN0IiwgaGVscD0iTGlzdCBhdmFpbGFibGUgdG9vbHMiKQogICAgbGlzdF9wYXJzZXIuYWRkX2FyZ3VtZW50KCItLXZlcmJvc2UiLCAiLXYiLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSJTaG93IGZ1bGwgdG9vbCBkZXRhaWxzIikKCiAgICAjIGNhbGwgY29tbWFuZAogICAgY2FsbF9wYXJzZXIgPSBzdWJwYXJzZXJzLmFkZF9wYXJzZXIoImNhbGwiLCBoZWxwPSJDYWxsIGEgdG9vbCIpCiAgICBjYWxsX3BhcnNlci5hZGRfYXJndW1lbnQoIi0tdG9vbCIsICItdCIsIHJlcXVpcmVkPVRydWUsIGhlbHA9IlRvb2wgbmFtZSIpCiAgICBjYWxsX3BhcnNlci5hZGRfYXJndW1lbnQoIi0tcGFyYW1zIiwgIi1wIiwgZGVmYXVsdD0ie30iLCBoZWxwPSJKU09OIHBhcmFtZXRlcnMiKQoKICAgICMgZW1pdCBjb21tYW5kCiAgICBlbWl0X3BhcnNlciA9IHN1YnBhcnNlcnMuYWRkX3BhcnNlcigiZW1pdCIsIGhlbHA9IkVtaXQgdG9vbCBzY2hlbWFzIGFzIGRvY3VtZW50YXRpb24iKQogICAgZW1pdF9wYXJzZXIuYWRkX2FyZ3VtZW50KCItLWZvcm1hdCIsICItZiIsIGNob2ljZXM9WyJtYXJrZG93biIsICJqc29uIl0sIGRlZmF1bHQ9Im1hcmtkb3duIikKCiAgICAjIHJlc291cmNlcyBjb21tYW5kCiAgICBzdWJwYXJzZXJzLmFkZF9wYXJzZXIoInJlc291cmNlcyIsIGhlbHA9Ikxpc3QgYXZhaWxhYmxlIHJlc291cmNlcyIpCgogICAgIyBwcm9tcHRzIGNvbW1hbmQKICAgIHN1YnBhcnNlcnMuYWRkX3BhcnNlcigicHJvbXB0cyIsIGhlbHA9Ikxpc3QgYXZhaWxhYmxlIHByb21wdHMiKQoKICAgICMgVHJhbnNwb3J0IG9wdGlvbnMgKGFkZGVkIHRvIGFsbCBzdWJwYXJzZXJzKQogICAgZm9yIHN1YiBpbiBbbGlzdF9wYXJzZXIsIGNhbGxfcGFyc2VyLCBlbWl0X3BhcnNlcl06CiAgICAgICAgdHJhbnNwb3J0X2dyb3VwID0gc3ViLmFkZF9tdXR1YWxseV9leGNsdXNpdmVfZ3JvdXAocmVxdWlyZWQ9VHJ1ZSkKICAgICAgICB0cmFuc3BvcnRfZ3JvdXAuYWRkX2FyZ3VtZW50KCItLXVybCIsICItdSIsIGhlbHA9IkhUVFAgVVJMIG9mIE1DUCBzZXJ2ZXIiKQogICAgICAgIHRyYW5zcG9ydF9ncm91cC5hZGRfYXJndW1lbnQoIi0tc3RkaW8iLCAiLXMiLCBoZWxwPSJDb21tYW5kIHRvIHN0YXJ0IHN0ZGlvIE1DUCBzZXJ2ZXIiKQogICAgICAgIHN1Yi5hZGRfYXJndW1lbnQoIi0taGVhZGVyIiwgIi1IIiwgYWN0aW9uPSJhcHBlbmQiLCBkZWZhdWx0PVtdLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSJIVFRQIGhlYWRlciAoZm9ybWF0OiAnTmFtZTogVmFsdWUnKSIpCgogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICAjIENyZWF0ZSB0cmFuc3BvcnQKICAgIHRyYW5zcG9ydCA9IE5vbmUKICAgIHRyeToKICAgICAgICBpZiBoYXNhdHRyKGFyZ3MsICd1cmwnKSBhbmQgYXJncy51cmw6CiAgICAgICAgICAgIGhlYWRlcnMgPSB7fQogICAgICAgICAgICBmb3IgaCBpbiBhcmdzLmhlYWRlcjoKICAgICAgICAgICAgICAgIGlmICc6JyBpbiBoOgogICAgICAgICAgICAgICAgICAgIGtleSwgdmFsdWUgPSBoLnNwbGl0KCc6JywgMSkKICAgICAgICAgICAgICAgICAgICBoZWFkZXJzW2tleS5zdHJpcCgpXSA9IHZhbHVlLnN0cmlwKCkKICAgICAgICAgICAgdHJhbnNwb3J0ID0gSFRUUFRyYW5zcG9ydChhcmdzLnVybCwgaGVhZGVycykKICAgICAgICBlbGlmIGhhc2F0dHIoYXJncywgJ3N0ZGlvJykgYW5kIGFyZ3Muc3RkaW86CiAgICAgICAgICAgIHRyYW5zcG9ydCA9IFN0ZGlvVHJhbnNwb3J0KGFyZ3Muc3RkaW8pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcGFyc2VyLmVycm9yKCJNdXN0IHNwZWNpZnkgLS11cmwgb3IgLS1zdGRpbyIpCgogICAgICAgIGNsaWVudCA9IE1DUENsaWVudCh0cmFuc3BvcnQpCgogICAgICAgICMgRXhlY3V0ZSBjb21tYW5kCiAgICAgICAgaWYgYXJncy5jb21tYW5kID09ICJsaXN0IjoKICAgICAgICAgICAgdG9vbHMgPSBjbGllbnQubGlzdF90b29scygpCiAgICAgICAgICAgIGlmIGFyZ3MudmVyYm9zZToKICAgICAgICAgICAgICAgIHByaW50KGpzb24uZHVtcHModG9vbHMsIGluZGVudD0yKSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGZvciB0b29sIGluIHRvb2xzOgogICAgICAgICAgICAgICAgICAgIGRlc2MgPSB0b29sLmdldCgiZGVzY3JpcHRpb24iLCAiIilbOjYwXQogICAgICAgICAgICAgICAgICAgIHByaW50KGYiICB7dG9vbFsnbmFtZSddfToge2Rlc2N9Li4uIikKCiAgICAgICAgZWxpZiBhcmdzLmNvbW1hbmQgPT0gImNhbGwiOgogICAgICAgICAgICBwYXJhbXMgPSBqc29uLmxvYWRzKGFyZ3MucGFyYW1zKQogICAgICAgICAgICByZXN1bHQgPSBjbGllbnQuY2FsbF90b29sKGFyZ3MudG9vbCwgcGFyYW1zKQogICAgICAgICAgICBwcmludChqc29uLmR1bXBzKHJlc3VsdCwgaW5kZW50PTIpKQoKICAgICAgICBlbGlmIGFyZ3MuY29tbWFuZCA9PSAiZW1pdCI6CiAgICAgICAgICAgIHRvb2xzID0gY2xpZW50Lmxpc3RfdG9vbHMoKQogICAgICAgICAgICBpZiBhcmdzLmZvcm1hdCA9PSAibWFya2Rvd24iOgogICAgICAgICAgICAgICAgcHJpbnQoZW1pdF9tYXJrZG93bih0b29scykpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwcmludChlbWl0X2pzb24odG9vbHMpKQoKICAgICAgICBlbGlmIGFyZ3MuY29tbWFuZCA9PSAicmVzb3VyY2VzIjoKICAgICAgICAgICAgcmVzb3VyY2VzID0gY2xpZW50Lmxpc3RfcmVzb3VyY2VzKCkKICAgICAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhyZXNvdXJjZXMsIGluZGVudD0yKSkKCiAgICAgICAgZWxpZiBhcmdzLmNvbW1hbmQgPT0gInByb21wdHMiOgogICAgICAgICAgICBwcm9tcHRzID0gY2xpZW50Lmxpc3RfcHJvbXB0cygpCiAgICAgICAgICAgIHByaW50KGpzb24uZHVtcHMocHJvbXB0cywgaW5kZW50PTIpKQoKICAgIGV4Y2VwdCBNQ1BDbGllbnRFcnJvciBhcyBlOgogICAgICAgIHByaW50KGYiRXJyb3I6IHtlfSIsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICBzeXMuZXhpdCgxKQogICAgZXhjZXB0IGpzb24uSlNPTkRlY29kZUVycm9yIGFzIGU6CiAgICAgICAgcHJpbnQoZiJJbnZhbGlkIEpTT046IHtlfSIsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICBzeXMuZXhpdCgxKQogICAgZXhjZXB0IEtleWJvYXJkSW50ZXJydXB0OgogICAgICAgIHN5cy5leGl0KDEzMCkKICAgIGZpbmFsbHk6CiAgICAgICAgaWYgdHJhbnNwb3J0IGFuZCBoYXNhdHRyKHRyYW5zcG9ydCwgJ2Nsb3NlJyk6CiAgICAgICAgICAgIHRyYW5zcG9ydC5jbG9zZSgpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Universal MCP Client - Bundle with any skill that needs MCP access.
+
+Supports both HTTP and stdio transports for connecting to MCP servers.
+
+Usage:
+    # List available tools from an HTTP MCP server
+    python mcp-client.py list --url http://localhost:8080
+
+    # List tools from a stdio MCP server
+    python mcp-client.py list --stdio "npx -y @modelcontextprotocol/server-github"
+
+    # Call a tool
+    python mcp-client.py call --url http://localhost:8080 --tool create_issue \
+        --params '{"title": "Bug report", "body": "Details..."}'
+
+    # Emit tool schemas as markdown (for caching in references/)
+    python mcp-client.py emit --url http://localhost:8080
+
+    # Emit as JSON (for programmatic use)
+    python mcp-client.py emit --url http://localhost:8080 --format json
+"""
+
+import argparse
+import json
+import subprocess
+import sys
+import threading
+import queue
+from typing import Optional, Any
+from urllib.request import Request, urlopen
+from urllib.error import URLError, HTTPError
+
+
+class MCPClientError(Exception):
+    """Base exception for MCP client errors."""
+    pass
+
+
+class HTTPTransport:
+    """MCP client using HTTP transport (streamable HTTP with session support)."""
+
+    def __init__(self, url: str, headers: Optional[dict] = None):
+        url = url.rstrip('/')
+        # Playwright MCP and other streamable HTTP servers use /mcp endpoint
+        if not url.endswith('/mcp'):
+            url = url + '/mcp'
+        self.url = url
+        self.headers = headers or {}
+        self._request_id = 0
+        self._session_id: Optional[str] = None
+        self._initialized = False
+
+    def _next_id(self) -> int:
+        self._request_id += 1
+        return self._request_id
+
+    def _ensure_initialized(self):
+        """Initialize the session if not already done."""
+        if self._initialized:
+            return
+
+        payload = {
+            "jsonrpc": "2.0",
+            "id": self._next_id(),
+            "method": "initialize",
+            "params": {
+                "protocolVersion": "2024-11-05",
+                "capabilities": {},
+                "clientInfo": {"name": "mcp-client", "version": "1.0.0"}
+            }
+        }
+
+        data = json.dumps(payload).encode('utf-8')
+        headers = {
+            "Content-Type": "application/json",
+            "Accept": "application/json, text/event-stream",
+            **self.headers
+        }
+
+        req = Request(self.url, data=data, headers=headers, method='POST')
+
+        try:
+            with urlopen(req, timeout=30) as resp:
+                # Check for session ID in response headers
+                self._session_id = resp.headers.get('Mcp-Session-Id')
+                response = self._parse_response(resp.read().decode('utf-8'))
+        except HTTPError as e:
+            body = e.read().decode('utf-8') if e.fp else str(e)
+            raise MCPClientError(f"HTTP {e.code}: {body}")
+        except URLError as e:
+            raise MCPClientError(f"Connection failed: {e.reason}")
+
+        if "error" in response:
+            err = response["error"]
+            raise MCPClientError(f"Initialize failed: {err.get('message')}")
+
+        self._initialized = True
+
+        # Send initialized notification
+        self._send_notification("notifications/initialized")
+
+    def _parse_response(self, body: str) -> dict:
+        """Parse response body, handling SSE format if needed."""
+        body = body.strip()
+
+        # Handle SSE format (event stream)
+        if body.startswith('event:') or body.startswith('data:'):
+            for line in body.split('\n'):
+                if line.startswith('data:'):
+                    json_data = line[5:].strip()
+                    if json_data:
+                        return json.loads(json_data)
+            raise MCPClientError("No data in SSE response")
+
+        # Regular JSON response
+        return json.loads(body)
+
+    def _send_notification(self, method: str, params: Optional[dict] = None):
+        """Send a notification (no response expected)."""
+        payload = {
+            "jsonrpc": "2.0",
+            "method": method,
+        }
+        if params:
+            payload["params"] = params
+
+        data = json.dumps(payload).encode('utf-8')
+        headers = {
+            "Content-Type": "application/json",
+            "Accept": "application/json, text/event-stream",
+            **self.headers
+        }
+        if self._session_id:
+            headers["Mcp-Session-Id"] = self._session_id
+
+        req = Request(self.url, data=data, headers=headers, method='POST')
+        try:
+            with urlopen(req, timeout=30) as resp:
+                pass  # Notifications don't return data
+        except (HTTPError, URLError):
+            pass  # Ignore notification errors
+
+    def request(self, method: str, params: Optional[dict] = None) -> dict:
+        """Send a JSON-RPC request to the MCP server."""
+        self._ensure_initialized()
+
+        payload = {
+            "jsonrpc": "2.0",
+            "id": self._next_id(),
+            "method": method,
+        }
+        if params:
+            payload["params"] = params
+
+        data = json.dumps(payload).encode('utf-8')
+        headers = {
+            "Content-Type": "application/json",
+            "Accept": "application/json, text/event-stream",
+            **self.headers
+        }
+        if self._session_id:
+            headers["Mcp-Session-Id"] = self._session_id
+
+        req = Request(self.url, data=data, headers=headers, method='POST')
+
+        try:
+            with urlopen(req, timeout=30) as resp:
+                response = self._parse_response(resp.read().decode('utf-8'))
+        except HTTPError as e:
+            body = e.read().decode('utf-8') if e.fp else str(e)
+            raise MCPClientError(f"HTTP {e.code}: {body}")
+        except URLError as e:
+            raise MCPClientError(f"Connection failed: {e.reason}")
+
+        if "error" in response:
+            err = response["error"]
+            raise MCPClientError(f"MCP error {err.get('code')}: {err.get('message')}")
+
+        return response.get("result", {})
+
+
+class StdioTransport:
+    """MCP client using stdio transport (for local MCP servers)."""
+
+    def __init__(self, command: str):
+        self.command = command
+        self._request_id = 0
+        self._process: Optional[subprocess.Popen] = None
+        self._response_queue: queue.Queue = queue.Queue()
+        self._reader_thread: Optional[threading.Thread] = None
+
+    def _next_id(self) -> int:
+        self._request_id += 1
+        return self._request_id
+
+    def _start(self):
+        """Start the MCP server process."""
+        if self._process is not None:
+            return
+
+        self._process = subprocess.Popen(
+            self.command,
+            shell=True,
+            stdin=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            bufsize=1
+        )
+
+        # Start reader thread
+        self._reader_thread = threading.Thread(target=self._read_responses, daemon=True)
+        self._reader_thread.start()
+
+        # Send initialize request
+        self._send({
+            "jsonrpc": "2.0",
+            "id": self._next_id(),
+            "method": "initialize",
+            "params": {
+                "protocolVersion": "2024-11-05",
+                "capabilities": {},
+                "clientInfo": {"name": "mcp-client", "version": "1.0.0"}
+            }
+        })
+
+        # Wait for initialize response
+        try:
+            resp = self._response_queue.get(timeout=10)
+            if "error" in resp:
+                raise MCPClientError(f"Initialize failed: {resp['error']}")
+        except queue.Empty:
+            raise MCPClientError("Timeout waiting for server initialization")
+
+        # Send initialized notification
+        self._send({
+            "jsonrpc": "2.0",
+            "method": "notifications/initialized"
+        })
+
+    def _read_responses(self):
+        """Background thread to read responses from the server."""
+        while self._process and self._process.poll() is None:
+            try:
+                line = self._process.stdout.readline()
+                if not line:
+                    break
+                line = line.strip()
+                if line:
+                    try:
+                        msg = json.loads(line)
+                        # Only queue responses (messages with id), not notifications
+                        if "id" in msg:
+                            self._response_queue.put(msg)
+                    except json.JSONDecodeError:
+                        pass  # Ignore non-JSON output
+            except Exception:
+                break
+
+    def _send(self, message: dict):
+        """Send a message to the server."""
+        if self._process is None:
+            raise MCPClientError("Process not started")
+        line = json.dumps(message) + "\n"
+        self._process.stdin.write(line)
+        self._process.stdin.flush()
+
+    def request(self, method: str, params: Optional[dict] = None) -> dict:
+        """Send a JSON-RPC request and wait for response."""
+        self._start()
+
+        req_id = self._next_id()
+        payload = {
+            "jsonrpc": "2.0",
+            "id": req_id,
+            "method": method,
+        }
+        if params:
+            payload["params"] = params
+
+        self._send(payload)
+
+        # Wait for response with matching id
+        try:
+            while True:
+                resp = self._response_queue.get(timeout=30)
+                if resp.get("id") == req_id:
+                    if "error" in resp:
+                        err = resp["error"]
+                        raise MCPClientError(f"MCP error {err.get('code')}: {err.get('message')}")
+                    return resp.get("result", {})
+        except queue.Empty:
+            raise MCPClientError(f"Timeout waiting for response to {method}")
+
+    def close(self):
+        """Shutdown the server process."""
+        if self._process:
+            self._process.terminate()
+            self._process.wait(timeout=5)
+            self._process = None
+
+
+class MCPClient:
+    """High-level MCP client that works with any transport."""
+
+    def __init__(self, transport):
+        self.transport = transport
+
+    def list_tools(self) -> list[dict]:
+        """Get list of available tools from the server."""
+        result = self.transport.request("tools/list")
+        return result.get("tools", [])
+
+    def call_tool(self, name: str, arguments: Optional[dict] = None) -> Any:
+        """Call a tool and return the result."""
+        params = {"name": name}
+        if arguments:
+            params["arguments"] = arguments
+
+        result = self.transport.request("tools/call", params)
+        return result
+
+    def list_resources(self) -> list[dict]:
+        """Get list of available resources."""
+        result = self.transport.request("resources/list")
+        return result.get("resources", [])
+
+    def list_prompts(self) -> list[dict]:
+        """Get list of available prompts."""
+        result = self.transport.request("prompts/list")
+        return result.get("prompts", [])
+
+
+def emit_markdown(tools: list[dict]) -> str:
+    """Generate markdown documentation for tools."""
+    lines = ["# MCP Server Tools\n"]
+    lines.append(f"*{len(tools)} tools available*\n")
+
+    for tool in tools:
+        name = tool.get("name", "unnamed")
+        desc = tool.get("description", "No description")
+        schema = tool.get("inputSchema", {})
+        annotations = tool.get("annotations", {})
+
+        lines.append(f"## `{name}`\n")
+        lines.append(f"{desc}\n")
+
+        # Add annotations if present
+        if annotations:
+            flags = []
+            if annotations.get("readOnlyHint"):
+                flags.append("read-only")
+            if annotations.get("destructiveHint"):
+                flags.append("destructive")
+            if annotations.get("idempotentHint"):
+                flags.append("idempotent")
+            if flags:
+                lines.append(f"*Flags: {', '.join(flags)}*\n")
+
+        # Add input schema
+        if schema.get("properties"):
+            lines.append("### Parameters\n")
+            required = set(schema.get("required", []))
+            for prop_name, prop_def in schema["properties"].items():
+                req_marker = " *(required)*" if prop_name in required else ""
+                prop_type = prop_def.get("type", "any")
+                prop_desc = prop_def.get("description", "")
+                lines.append(f"- **`{prop_name}`** (`{prop_type}`){req_marker}: {prop_desc}")
+            lines.append("")
+
+        # Add full schema as collapsible
+        lines.append("<details>")
+        lines.append("<summary>Full Schema</summary>\n")
+        lines.append("```json")
+        lines.append(json.dumps(schema, indent=2))
+        lines.append("```")
+        lines.append("</details>\n")
+
+    return "\n".join(lines)
+
+
+def emit_json(tools: list[dict]) -> str:
+    """Generate JSON output for tools."""
+    return json.dumps({"tools": tools}, indent=2)
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Universal MCP Client - connect to any MCP server",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=__doc__
+    )
+
+    # Commands
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    # list command
+    list_parser = subparsers.add_parser("list", help="List available tools")
+    list_parser.add_argument("--verbose", "-v", action="store_true", help="Show full tool details")
+
+    # call command
+    call_parser = subparsers.add_parser("call", help="Call a tool")
+    call_parser.add_argument("--tool", "-t", required=True, help="Tool name")
+    call_parser.add_argument("--params", "-p", default="{}", help="JSON parameters")
+
+    # emit command
+    emit_parser = subparsers.add_parser("emit", help="Emit tool schemas as documentation")
+    emit_parser.add_argument("--format", "-f", choices=["markdown", "json"], default="markdown")
+
+    # resources command
+    subparsers.add_parser("resources", help="List available resources")
+
+    # prompts command
+    subparsers.add_parser("prompts", help="List available prompts")
+
+    # Transport options (added to all subparsers)
+    for sub in [list_parser, call_parser, emit_parser]:
+        transport_group = sub.add_mutually_exclusive_group(required=True)
+        transport_group.add_argument("--url", "-u", help="HTTP URL of MCP server")
+        transport_group.add_argument("--stdio", "-s", help="Command to start stdio MCP server")
+        sub.add_argument("--header", "-H", action="append", default=[],
+                        help="HTTP header (format: 'Name: Value')")
+
+    args = parser.parse_args()
+
+    # Create transport
+    transport = None
+    try:
+        if hasattr(args, 'url') and args.url:
+            headers = {}
+            for h in args.header:
+                if ':' in h:
+                    key, value = h.split(':', 1)
+                    headers[key.strip()] = value.strip()
+            transport = HTTPTransport(args.url, headers)
+        elif hasattr(args, 'stdio') and args.stdio:
+            transport = StdioTransport(args.stdio)
+        else:
+            parser.error("Must specify --url or --stdio")
+
+        client = MCPClient(transport)
+
+        # Execute command
+        if args.command == "list":
+            tools = client.list_tools()
+            if args.verbose:
+                print(json.dumps(tools, indent=2))
+            else:
+                for tool in tools:
+                    desc = tool.get("description", "")[:60]
+                    print(f"  {tool['name']}: {desc}...")
+
+        elif args.command == "call":
+            params = json.loads(args.params)
+            result = client.call_tool(args.tool, params)
+            print(json.dumps(result, indent=2))
+
+        elif args.command == "emit":
+            tools = client.list_tools()
+            if args.format == "markdown":
+                print(emit_markdown(tools))
+            else:
+                print(emit_json(tools))
+
+        elif args.command == "resources":
+            resources = client.list_resources()
+            print(json.dumps(resources, indent=2))
+
+        elif args.command == "prompts":
+            prompts = client.list_prompts()
+            print(json.dumps(prompts, indent=2))
+
+    except MCPClientError as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(1)
+    except json.JSONDecodeError as e:
+        print(f"Invalid JSON: {e}", file=sys.stderr)
+        sys.exit(1)
+    except KeyboardInterrupt:
+        sys.exit(130)
+    finally:
+        if transport and hasattr(transport, 'close'):
+            transport.close()
+
+
+if __name__ == "__main__":
+    main()

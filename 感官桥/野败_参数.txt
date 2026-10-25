@@ -1,1 +1,2 @@
-ODQKL3Vzci9zaGFyZS9pY29ucy9BZHdhaXRhLzUxMng1MTIvbGVnYWN5L2FjY2Vzc29yaWVzLWNoYXJhY3Rlci1tYXAucG5nCg==
+84
+/usr/share/icons/Adwaita/512x512/legacy/accessories-character-map.png

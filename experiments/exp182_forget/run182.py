@@ -1,1 +1,224 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMTgyIOWPt++8muS4pOenjemBl+W/mAogIOWOi+aKkeWei++8iOWksei0peWkqueXm++8jOS4jeaDs+iusOW+l++8iSAgdnMgIOaPkOeCvOWei++8iOWOi+e8qeaOieWPr+aOqOWvvOeahOmDqOWIhu+8iQrliKTmja7vvJrlkIzmoLflv5jmjokgZiDmr5TkvovnmoTlhoXlrrnvvIzpooTmtYvmnKrmnaXnmoTmjZ/lpLHlt67lpJrlsJHjgIIKIiIiCmltcG9ydCByZSwgb3MsIGpzb24sIG1hdGgsIHJhbmRvbSwgaGFzaGxpYiwgc3RhdGlzdGljcwpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdAoKUEFUSCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxODBfcmVjb3JkL3Vfc2lkZV9mdWxsLnR4dCIKT1VUID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE4Ml9mb3JnZXQiCm9zLm1ha2VkaXJzKE9VVCwgZXhpc3Rfb2s9VHJ1ZSkKCk4gPSAzCkFMUEhBID0gMC4xNQoKIyAtLS0tLS0tLS0tIOivu+ivreaWmSAtLS0tLS0tLS0tCnJhdyA9IG9wZW4oUEFUSCwgZW5jb2Rpbmc9InV0Zi04IikucmVhZCgpLnNwbGl0bGluZXMoKQpidWYsIGN1ciA9IHt9LCBOb25lCmZvciBsaW5lIGluIHJhdzoKICAgIG0gPSByZS5tYXRjaChyJ14oVVxkezN9KTpccyooLiopJCcsIGxpbmUpCiAgICBpZiBtOgogICAgICAgIGN1ciA9IG0uZ3JvdXAoMSkKICAgICAgICBidWZbY3VyXSA9IFttLmdyb3VwKDIpXQogICAgZWxpZiBjdXIgYW5kIGxpbmUuc3RyaXAoKSBhbmQgbm90IGxpbmUuc3RhcnRzd2l0aCgnIycpOgogICAgICAgIGlmIGxpbmUuc3RyaXAoKS5zdGFydHN3aXRoKCdbJyk6ICAgICAgIyDlpJbpg6jmlofmoaPnmbvorrDooYzvvIzot7Pov4cKICAgICAgICAgICAgY29udGludWUKICAgICAgICBidWZbY3VyXS5hcHBlbmQobGluZS5zdHJpcCgpKQptc2dzID0ge2s6ICIiLmpvaW4odikuc3RyaXAoKSBmb3IgaywgdiBpbiBidWYuaXRlbXMoKSBpZiAiIi5qb2luKHYpLnN0cmlwKCl9CmtleXMgPSBzb3J0ZWQobXNncykKdGV4dHMgPSBbbXNnc1trXSBmb3IgayBpbiBrZXlzXQpNID0gbGVuKHRleHRzKQpwcmludChmIlvor63mlpldIHtNfSDmnaEsIHtzdW0obGVuKHQpIGZvciB0IGluIHRleHRzKX0g5a2X56ymIikKCiMgLS0tLS0tLS0tLSBuLWdyYW0gLS0tLS0tLS0tLQpkZWYgbmdyYW1zKHRleHQsIG4pOgogICAgcmV0dXJuIFsoIl4iICogKG4gLSAxKSArIHRleHQpW2k6aSArIG5dIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSldCgojIOivjeihqOWbuuWumuS4uuWFqOivreaWmeWtl+ihqO+8muWQpuWImSLlsJHorq3nu4PmlbDmja7ihpLor43ooajlj5jlsI/ihpLlubPmu5HotKjph4/lj5jlsI/ihpJiaXRzIOS4i+mZjSIKIyDkvJrmiJDkuLrkuLvlr7zpobnvvIzmiornnJ/lrp7nmoTpgZflv5jku6Pku7fnm5bmjonvvIgxNzkg5Y+35ZCM5LiA5Liq5Z2R77yJ44CCClZPQ0FCID0gc2V0KCIiLmpvaW4odGV4dHMpKQpWID0gbGVuKFZPQ0FCKSArIDEKCmRlZiB0cmFpbih0cyk6CiAgICBjdHggPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGZsb2F0KSkKICAgIGZvciB0IGluIHRzOgogICAgICAgIGZvciBnIGluIG5ncmFtcyh0LCBOKToKICAgICAgICAgICAgY3R4W2dbOk4gLSAxXV1bZ1tOIC0gMV1dICs9IDEKICAgIHJldHVybiBjdHgKCmRlZiBiaXRzKGN0eCwgdGVzdCk6CiAgICBzID0gIl4iICogKE4gLSAxKSArIHRlc3QKICAgIHRvdCwgY250LCBoaXQgPSAwLjAsIDAsIDAKICAgIGZvciBpIGluIHJhbmdlKGxlbihzKSAtIE4gKyAxKToKICAgICAgICBpZiBpICsgTiAtIDEgPCBOIC0gMTogICAgICAgICAgICAgICAgICMg6aKE5rWL55qE5piv5aGr5YWF5L2N77yM5LiN6K6hCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgYywgY2ggPSBzW2k6aSArIE4gLSAxXSwgc1tpICsgTiAtIDFdCiAgICAgICAgZGVuID0gc3VtKGN0eFtjXS52YWx1ZXMoKSkgKyBBTFBIQSAqIFYKICAgICAgICBwID0gKGN0eFtjXS5nZXQoY2gsIDAuMCkgKyBBTFBIQSkgLyBkZW4KICAgICAgICB0b3QgLT0gbWF0aC5sb2cyKHApOyBjbnQgKz0gMQogICAgICAgIGlmIGN0eFtjXSBhbmQgbWF4KGN0eFtjXSwga2V5PWN0eFtjXS5nZXQpID09IGNoOgogICAgICAgICAgICBoaXQgKz0gMQogICAgcmV0dXJuICh0b3QgLyBjbnQgaWYgY250IGVsc2UgZmxvYXQoIm5hbiIpKSwgKGhpdCAvIGNudCBpZiBjbnQgZWxzZSBmbG9hdCgibmFuIikpCgojIC0tLS0tLS0tLS0g5q+P5p2h5raI5oGv55qE5Lik5Liq5oyH5qCHIC0tLS0tLS0tLS0KIyAxKSDni6znibnmgKfvvJrnlZnkuIDms5XigJTigJTnlKjlhbblroPmiYDmnInmnaHpooTmtYvlroPvvIxiaXRzIOi2iumrmOi2iiLkuI3lj6/mjqjlr7wiCnVuaXEgPSBbXQpmb3IgaSBpbiByYW5nZShNKToKICAgIGN0eCA9IHRyYWluKFt0ZXh0c1tqXSBmb3IgaiBpbiByYW5nZShNKSBpZiBqICE9IGldKQogICAgYiwgXyA9IGJpdHMoY3R4LCB0ZXh0c1tpXSk7IHVuaXEuYXBwZW5kKGIpCnVuaXEgPSBbdSBpZiB1ID09IHUgZWxzZSBzdGF0aXN0aWNzLm1lYW4oW3ggZm9yIHggaW4gdW5pcSBpZiB4ID09IHhdKSBmb3IgdSBpbiB1bmlxXQoKIyAyKSDnl5vmhJ/lr4bluqbvvJrlpLHotKUv5Zue6YG/57G76K+N5Y2g5q+UCkFWRVJTSVZFID0gWyLplJkiLCAi5aSx6LSlIiwgIuaAlSIsICLlgrsiLCAi5Y2x6ZmpIiwgIuatuyIsICLlv5giLCAi5LiiIiwgIumqgiIsICLkuI3lr7kiLAogICAgICAgICAgICAi5LiN6KGMIiwgIue8uiIsICLnvKkiLCAi6YCDIiwgIue9miIsICLnga0iLCAi55ebIiwgIueWvCIsICLmjZ8iLCAi5a6zIiwKICAgICAgICAgICAgIuaUu+WHuyIsICLmi6YiLCAi5rK7IiwgIuWNseacuiIsICLmi4XotKMiLCAi5oCvIiwgIuebsiIsICLmi5IiLCAi5bCBIiwgIuWFsyJdCnBhaW4gPSBbXQpmb3IgdCBpbiB0ZXh0czoKICAgIGMgPSBzdW0odC5jb3VudCh3KSBmb3IgdyBpbiBBVkVSU0lWRSkKICAgIHBhaW4uYXBwZW5kKGMgLyBtYXgobGVuKHQpLCAxKSAqIDEwMCkKCmRlZiBwZWFyc29uKGEsIGIpOgogICAgbWEsIG1iID0gc3RhdGlzdGljcy5tZWFuKGEpLCBzdGF0aXN0aWNzLm1lYW4oYikKICAgIG51bSA9IHN1bSgoeCAtIG1hKSAqICh5IC0gbWIpIGZvciB4LCB5IGluIHppcChhLCBiKSkKICAgIGRhID0gbWF0aC5zcXJ0KHN1bSgoeCAtIG1hKSAqKiAyIGZvciB4IGluIGEpKQogICAgZGIgPSBtYXRoLnNxcnQoc3VtKCh5IC0gbWIpICoqIDIgZm9yIHkgaW4gYikpCiAgICByZXR1cm4gbnVtIC8gKGRhICogZGIpIGlmIGRhIGFuZCBkYiBlbHNlIGZsb2F0KCJuYW4iKQoKcl9wYWluX3VuaXEgPSBwZWFyc29uKHBhaW4sIHVuaXEpCgojIC0tLS0tLS0tLS0g6YGX5b+Y5a6e6aqMIC0tLS0tLS0tLS0KUkFURVMgPSBbMC4wLCAwLjIwLCAwLjM1LCAwLjUwLCAwLjY1XQpTRUVEUyA9IDUKCmRlZiBzcGxpdF90ZXN0KG1vZGUsIHNlZWQpOgogICAgaWR4ID0gbGlzdChyYW5nZShNKSkKICAgIGlmIG1vZGUgPT0gImNocm9ubyI6CiAgICAgICAgayA9IG1heCgyLCBpbnQoTSAqIDAuMikpCiAgICAgICAgcmV0dXJuIGlkeFs6LWtdLCBpZHhbLWs6XQogICAgcmFuZG9tLlJhbmRvbShzZWVkKS5zaHVmZmxlKGlkeCkKICAgIGsgPSBtYXgoMiwgaW50KE0gKiAwLjIpKQogICAgcmV0dXJuIGlkeFtrOl0sIGlkeFs6a10KCnJlc3VsdHMgPSB7fQpBQ0MgPSB7fQpCQVNFID0gWyJmdWxsIiwgIuWOi+aKkSIsICLmj5DngrwiLCAi5Y+N5o+Q54K8IiwgIumaj+acuiJdCmZvciBuYW1lIGluIEJBU0U6CiAgICByZXN1bHRzW25hbWVdID0ge2Y6IFtdIGZvciBmIGluIFJBVEVTfQogICAgQUNDW25hbWVdID0ge2Y6IFtdIGZvciBmIGluIFJBVEVTfQpyZW1vdmVkX2NoYXJzID0ge246IHtmOiBbXSBmb3IgZiBpbiBSQVRFU30gZm9yIG4gaW4gQkFTRX0KCmRlZiBzcGxpdF90ZXN0KG1vZGUsIHNlZWQpOgogICAgaWR4ID0gbGlzdChyYW5nZShNKSkKICAgIGlmIG1vZGUgPT0gImNocm9ubyI6CiAgICAgICAgayA9IG1heCgyLCBpbnQoTSAqIDAuMikpCiAgICAgICAgcmV0dXJuIGlkeFs6LWtdLCBpZHhbLWs6XQogICAgcmFuZG9tLlJhbmRvbShzZWVkKS5zaHVmZmxlKGlkeCkKICAgIGsgPSBtYXgoMiwgaW50KE0gKiAwLjIpKQogICAgcmV0dXJuIGlkeFtrOl0sIGlkeFs6a10KCnNwbGl0cyA9IFsoImNocm9ubyIsIDApXSArIFsoInJhbmQiLCBzKSBmb3IgcyBpbiByYW5nZShTRUVEUyldCmZvciBtb2RlLCBzZWVkIGluIHNwbGl0czoKICAgIHRyLCB0ZSA9IHNwbGl0X3Rlc3QobW9kZSwgc2VlZCkKICAgIHRlc3RfdGV4dCA9ICIiLmpvaW4odGV4dHNbaV0gZm9yIGkgaW4gdGUpCiAgICB0b3RfY2hhcnMgPSBzdW0obGVuKHRleHRzW2ldKSBmb3IgaSBpbiB0cikKICAgIGZvciBmIGluIFJBVEVTOgogICAgICAgICMg5oyJIuS4ouaOieeahOWtl+espumHjyLljLnphY3vvIzogIzkuI3mmK/mjInmnaHmlbDvvJrlkKbliJnkuKLnn63lj6Xlh6DkuY7msqHkuKLkuJzopb8KICAgICAgICB0YXJnZXQgPSBmICogdG90X2NoYXJzCiAgICAgICAgZGVmIG9yZGVyKHN0cmF0ZWd5KToKICAgICAgICAgICAgaWYgc3RyYXRlZ3kgPT0gIuWOi+aKkSI6ICAgIHJldHVybiBzb3J0ZWQodHIsIGtleT1sYW1iZGEgaTogLXBhaW5baV0pCiAgICAgICAgICAgIGlmIHN0cmF0ZWd5ID09ICLmj5DngrwiOiAgICByZXR1cm4gc29ydGVkKHRyLCBrZXk9bGFtYmRhIGk6IHVuaXFbaV0pCiAgICAgICAgICAgIGlmIHN0cmF0ZWd5ID09ICLlj43mj5DngrwiOiAgcmV0dXJuIHNvcnRlZCh0ciwga2V5PWxhbWJkYSBpOiAtdW5pcVtpXSkKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICBmb3IgbmFtZSBpbiBCQVNFOgogICAgICAgICAgICBpZiBuYW1lID09ICJmdWxsIjoKICAgICAgICAgICAgICAgIGtlZXAgPSB0cjsgcm0gPSAwCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBuYW1lID09ICLpmo/mnLoiOgogICAgICAgICAgICAgICAgICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCAqIDk3NyArIGludChmICogMTAwKSkKICAgICAgICAgICAgICAgICAgICBzZXEgPSB0cls6XTsgcm5nLnNodWZmbGUoc2VxKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZXEgPSBvcmRlcihuYW1lKQogICAgICAgICAgICAgICAgcm0sIGRyb3AgPSAwLCBbXQogICAgICAgICAgICAgICAgZm9yIGkgaW4gc2VxOgogICAgICAgICAgICAgICAgICAgIGlmIHJtID49IHRhcmdldDogYnJlYWsKICAgICAgICAgICAgICAgICAgICBkcm9wLmFwcGVuZChpKTsgcm0gKz0gbGVuKHRleHRzW2ldKQogICAgICAgICAgICAgICAgZHMgPSBzZXQoZHJvcCk7IGtlZXAgPSBbaSBmb3IgaSBpbiB0ciBpZiBpIG5vdCBpbiBkc10KICAgICAgICAgICAgcmVtb3ZlZF9jaGFyc1tuYW1lXVtmXS5hcHBlbmQocm0gLyB0b3RfY2hhcnMpCiAgICAgICAgICAgIGN0eCA9IHRyYWluKFt0ZXh0c1tpXSBmb3IgaSBpbiBrZWVwXSkKICAgICAgICAgICAgYiwgYSA9IGJpdHMoY3R4LCB0ZXN0X3RleHQpCiAgICAgICAgICAgIHJlc3VsdHNbbmFtZV1bZl0uYXBwZW5kKGIpOyBBQ0NbbmFtZV1bZl0uYXBwZW5kKGEpCgpzdW1tYXJ5ID0ge30KZm9yIG5hbWUgaW4gQkFTRToKICAgIHN1bW1hcnlbbmFtZV0gPSB7c3RyKGYpOiB7CiAgICAgICAgIm1lYW4iOiBzdGF0aXN0aWNzLm1lYW4ocmVzdWx0c1tuYW1lXVtmXSksCiAgICAgICAgInNkIjogc3RhdGlzdGljcy5wc3RkZXYocmVzdWx0c1tuYW1lXVtmXSkgaWYgbGVuKHJlc3VsdHNbbmFtZV1bZl0pID4gMSBlbHNlIDAuMCwKICAgICAgICAibiI6IGxlbihyZXN1bHRzW25hbWVdW2ZdKSwKICAgICAgICAiZnJhY19jaGFyc19yZW1vdmVkIjogc3RhdGlzdGljcy5tZWFuKHJlbW92ZWRfY2hhcnNbbmFtZV1bZl0pLAogICAgfSBmb3IgZiBpbiBSQVRFU30KCkRJU1BMQVkgPSB7ImZ1bGwiOiAi5LiN5b+Y77yI5Z+657q/77yJIiwgIuWOi+aKkSI6ICLljovmipHvvJrkuKLmnIDnl5vnmoQiLCAi5o+Q54K8IjogIuS4ouS4u+a1ge+8muS4ouacgOWPr+WkjeeOsOeahCIsCiAgICAgICAgICAgIuWPjeaPkOeCvCI6ICLmj5DngrzvvJrkuKLkuI3lj6/lpI3njrDnmoTmnYLotKgiLCAi6ZqP5py6IjogIumaj+acuuS4oiJ9CgojIOavj+S4ouW8gyAxJSDlhoXlrrnmjZ/lpLHlpJrlsJEgYml077yI5pWI546H77ya6LaK5L2O6LaK5aW977yJCmVmZiA9IHt9CmZvciBuYW1lIGluIFsi5Y6L5oqRIiwgIuaPkOeCvCIsICLlj43mj5DngrwiLCAi6ZqP5py6Il06CiAgICBiYXNlID0gc3VtbWFyeVsiZnVsbCJdWyIwLjAiXVsibWVhbiJdCiAgICBlZmZbbmFtZV0gPSB7c3RyKGYpOiAoc3VtbWFyeVtuYW1lXVtzdHIoZildWyJtZWFuIl0gLSBiYXNlKSAvIChzdW1tYXJ5W25hbWVdW3N0cihmKV1bImZyYWNfY2hhcnNfcmVtb3ZlZCJdICogMTAwKSBmb3IgZiBpbiBSQVRFUyBpZiBmID4gMCBhbmQgc3VtbWFyeVtuYW1lXVtzdHIoZildWyJmcmFjX2NoYXJzX3JlbW92ZWQiXSA+IDB9CgpESVNQTEFZID0geyJmdWxsIjogIuS4jeW/mO+8iOWfuue6v++8iSIsICLljovmipEiOiAi5Y6L5oqR77ya5Lii5pyA55eb55qEIiwgIuaPkOeCvCI6ICLkuKLkuLvmtYHvvJrkuKLmnIDlj6/lpI3njrDnmoQiLAogICAgICAgICAgICLlj43mj5DngrwiOiAi5o+Q54K877ya5Lii5LiN5Y+v5aSN546w55qE5p2C6LSoIiwgIumaj+acuiI6ICLpmo/mnLrkuKIifQpzdW1tYXJ5ID0ge0RJU1BMQVlba106IHYgZm9yIGssIHYgaW4gc3VtbWFyeS5pdGVtcygpfQplZmYgPSB7RElTUExBWVtrXTogdiBmb3IgaywgdiBpbiBlZmYuaXRlbXMoKX0Kcl91bmlxX2xlbiA9IHBlYXJzb24odW5pcSwgW2xlbih0KSBmb3IgdCBpbiB0ZXh0c10pCm91dCA9IHsKICAgICJyX3VuaXFfbGVuIjogcl91bmlxX2xlbiwKICAgICJuX21zZ3MiOiBNLCAibl9jaGFycyI6IHN1bShsZW4odCkgZm9yIHQgaW4gdGV4dHMpLAogICAgInJfcGFpbl91bmlxIjogcl9wYWluX3VuaXEsCiAgICAibWVhbl91bmlxIjogc3RhdGlzdGljcy5tZWFuKHVuaXEpLAogICAgIm1lYW5fcGFpbiI6IHN0YXRpc3RpY3MubWVhbihwYWluKSwKICAgICJ0b3BfcGFpbl91bmlxIjogc3RhdGlzdGljcy5tZWFuKFt1IGZvciBfLCB1IGluIHNvcnRlZCh6aXAocGFpbiwgdW5pcSksIGtleT1sYW1iZGEgejogLXpbMF0pWzoxMF1dKSwKICAgICJib3RfcGFpbl91bmlxIjogc3RhdGlzdGljcy5tZWFuKFt1IGZvciBfLCB1IGluIHNvcnRlZCh6aXAocGFpbiwgdW5pcSksIGtleT1sYW1iZGEgejogelswXSlbOjEwXV0pLAogICAgInN1bW1hcnkiOiBzdW1tYXJ5LAogICAgImxvc3NfcGVyXzFwY3RfZm9yZ290dGVuIjogZWZmLAogICAgInBlcl9tc2ciOiBbeyJpZCI6IGtleXNbaV0sICJ1bmlxIjogdW5pcVtpXSwgInBhaW4iOiBwYWluW2ldfSBmb3IgaSBpbiByYW5nZShNKV0sCn0KanMgPSBqc29uLmR1bXBzKG91dCwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKb3Blbihvcy5wYXRoLmpvaW4oT1VULCAicmVzdWx0MTgyLmpzb24iKSwgInciLCBlbmNvZGluZz0idXRmLTgiKS53cml0ZShqcykKcHJpbnQoIltzaGFdIiwgaGFzaGxpYi5zaGEyNTYoanMuZW5jb2RlKCkpLmhleGRpZ2VzdCgpWzoxMl0pCmZvciBuYW1lIGluIFsiZnVsbCIsICLljovmipEiLCAi5Y+N5o+Q54K8IiwgIuaPkOeCvCIsICLpmo/mnLoiXToKICAgIHJvdyA9ICIgICIuam9pbihmImY9e2Z9OntzdW1tYXJ5W0RJU1BMQVlbbmFtZV1dW3N0cihmKV1bJ21lYW4nXTouNGZ9IiBmb3IgZiBpbiBSQVRFUykKICAgIHByaW50KGYie0RJU1BMQVlbbmFtZV06PDIyc30ge3Jvd30iKQogICAgYWNjID0gW3N0YXRpc3RpY3MubWVhbihBQ0NbbmFtZV1bZl0pIGZvciBmIGluIFJBVEVTXQogICAgcHJpbnQoZiJ7Jyc6PjVzfSAg5YeG56Gu546HICIgKyAiICAiLmpvaW4oZiJ7YTouM2Z9IiBmb3IgYSBpbiBhY2MpKQpwcmludChmInIocGFpbix1bmlxKSA9IHtyX3BhaW5fdW5pcTouM2Z9ICAgcih1bmlxLGxlbikgPSB7cl91bmlxX2xlbjouM2Z9IikKcHJpbnQoZiLmnIDnl5sxMOadoeeahOeLrOeJueaApyB7b3V0Wyd0b3BfcGFpbl91bmlxJ106LjRmfSB8IOacgOS4jeeXmzEw5p2hIHtvdXRbJ2JvdF9wYWluX3VuaXEnXTouNGZ9IikKCnN1bW1hcnkgPSB7RElTUExBWS5nZXQoaywgayk6IHYgZm9yIGssIHYgaW4gc3VtbWFyeS5pdGVtcygpfQplZmYgPSB7RElTUExBWS5nZXQoaywgayk6IHYgZm9yIGssIHYgaW4gZWZmLml0ZW1zKCl9CgojIC0tLS0tLS0tLS0g5Zu+IC0tLS0tLS0tLS0KaW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKcGx0LnJjUGFyYW1zWyJmb250LmZhbWlseSJdID0gIldlblF1YW5ZaSBNaWNybyBIZWkiCmZpZywgYXggPSBwbHQuc3VicGxvdHMoMSwgMiwgZmlnc2l6ZT0oMTEsIDQuMikpCnN0eWxlID0geyJmdWxsIjogKCJrIiwgIi0tIiwgRElTUExBWVsiZnVsbCJdKSwgIuWOi+aKkSI6ICgiI2MwMzkyYiIsICJvLSIsIERJU1BMQVlbIuWOi+aKkSJdKSwKICAgICAgICAgIuWPjeaPkOeCvCI6ICgiIzI3YWU2MCIsICJzLSIsIERJU1BMQVlbIuWPjeaPkOeCvCJdKSwKICAgICAgICAgIuaPkOeCvCI6ICgiIzhlNDRhZCIsICJeLSIsIERJU1BMQVlbIuaPkOeCvCJdKSwKICAgICAgICAgIumaj+acuiI6ICgiIzdmOGM4ZCIsICJkLSIsIERJU1BMQVlbIumaj+acuiJdKX0KZm9yIG5hbWUsIChjLCBscywgbGFiKSBpbiBzdHlsZS5pdGVtcygpOgogICAgeHMgPSBbZiAqIDEwMCBmb3IgZiBpbiBSQVRFU10KICAgIHlzID0gW3N1bW1hcnlbRElTUExBWVtuYW1lXV1bc3RyKGYpXVsibWVhbiJdIGZvciBmIGluIFJBVEVTXQogICAgYXhbMF0ucGxvdCh4cywgeXMsIGxzLCBjb2xvcj1jLCBsYWJlbD1sYWIsIG1hcmtlcnNpemU9NSkKYXhbMF0uc2V0X3hsYWJlbCgi6YGX5b+Y5q+U5L6LICglKSIpOyBheFswXS5zZXRfeWxhYmVsKCLpooTmtYvmnKrmnaXnmoTku6Pku7cgKGJpdHMv5a2X56ymKSIpCmF4WzBdLnNldF90aXRsZSgi5b+Y5b6X6LaK5aSa6LaK5beu77yM5L2G5beu5aSa5bCR5Y+W5Yaz5LqO5b+Y55qE5piv5ZOq56eNIik7IGF4WzBdLmxlZ2VuZChmb250c2l6ZT04KTsgYXhbMF0uZ3JpZChhbHBoYT0uMykKYXhbMV0uc2NhdHRlcihwYWluLCB1bmlxLCBzPTI4LCBjb2xvcj0iIzJjM2U1MCIpCmF4WzFdLnNldF94bGFiZWwoIueXm+aEn+WvhuW6piAo5aSx6LSlL+WbnumBv+ivjSAlKSIpOyBheFsxXS5zZXRfeWxhYmVsKCLni6znibnmgKcgKOeVmeS4gOazlSBiaXRzL+Wtl+espikiKQpheFsxXS5zZXRfdGl0bGUoZiLnl5vmhJ8gdnMg5LiN5Y+v5aSN546w5oCnICByPXtyX3BhaW5fdW5pcTouMmZ977yI5pyq5pSv5oyB77yJIik7IGF4WzFdLmdyaWQoYWxwaGE9LjMpCnBsdC50aWdodF9sYXlvdXQoKQpwbHQuc2F2ZWZpZyhvcy5wYXRoLmpvaW4oT1VULCAicmVuZGVyMTgyLnBuZyIpLCBkcGk9MTMwKQpwcmludCgiW29rXSByZW5kZXIxODIucG5nIikK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+182 号：两种遗忘
+  压抑型（失败太痛，不想记得）  vs  提炼型（压缩掉可推导的部分）
+判据：同样忘掉 f 比例的内容，预测未来的损失差多少。
+"""
+import re, os, json, math, random, hashlib, statistics
+from collections import defaultdict
+
+PATH = "/data/workspace/luoshen-o1/experiments/exp180_record/u_side_full.txt"
+OUT = "/data/workspace/luoshen-o1/experiments/exp182_forget"
+os.makedirs(OUT, exist_ok=True)
+
+N = 3
+ALPHA = 0.15
+
+# ---------- 读语料 ----------
+raw = open(PATH, encoding="utf-8").read().splitlines()
+buf, cur = {}, None
+for line in raw:
+    m = re.match(r'^(U\d{3}):\s*(.*)$', line)
+    if m:
+        cur = m.group(1)
+        buf[cur] = [m.group(2)]
+    elif cur and line.strip() and not line.startswith('#'):
+        if line.strip().startswith('['):      # 外部文档登记行，跳过
+            continue
+        buf[cur].append(line.strip())
+msgs = {k: "".join(v).strip() for k, v in buf.items() if "".join(v).strip()}
+keys = sorted(msgs)
+texts = [msgs[k] for k in keys]
+M = len(texts)
+print(f"[语料] {M} 条, {sum(len(t) for t in texts)} 字符")
+
+# ---------- n-gram ----------
+def ngrams(text, n):
+    return [("^" * (n - 1) + text)[i:i + n] for i in range(len(text))]
+
+# 词表固定为全语料字表：否则"少训练数据→词表变小→平滑质量变小→bits 下降"
+# 会成为主导项，把真实的遗忘代价盖掉（179 号同一个坑）。
+VOCAB = set("".join(texts))
+V = len(VOCAB) + 1
+
+def train(ts):
+    ctx = defaultdict(lambda: defaultdict(float))
+    for t in ts:
+        for g in ngrams(t, N):
+            ctx[g[:N - 1]][g[N - 1]] += 1
+    return ctx
+
+def bits(ctx, test):
+    s = "^" * (N - 1) + test
+    tot, cnt, hit = 0.0, 0, 0
+    for i in range(len(s) - N + 1):
+        if i + N - 1 < N - 1:                 # 预测的是填充位，不计
+            continue
+        c, ch = s[i:i + N - 1], s[i + N - 1]
+        den = sum(ctx[c].values()) + ALPHA * V
+        p = (ctx[c].get(ch, 0.0) + ALPHA) / den
+        tot -= math.log2(p); cnt += 1
+        if ctx[c] and max(ctx[c], key=ctx[c].get) == ch:
+            hit += 1
+    return (tot / cnt if cnt else float("nan")), (hit / cnt if cnt else float("nan"))
+
+# ---------- 每条消息的两个指标 ----------
+# 1) 独特性：留一法——用其它所有条预测它，bits 越高越"不可推导"
+uniq = []
+for i in range(M):
+    ctx = train([texts[j] for j in range(M) if j != i])
+    b, _ = bits(ctx, texts[i]); uniq.append(b)
+uniq = [u if u == u else statistics.mean([x for x in uniq if x == x]) for u in uniq]
+
+# 2) 痛感密度：失败/回避类词占比
+AVERSIVE = ["错", "失败", "怕", "傻", "危险", "死", "忘", "丢", "骂", "不对",
+            "不行", "缺", "缩", "逃", "罚", "灭", "痛", "疼", "损", "害",
+            "攻击", "拦", "治", "危机", "担责", "怯", "盲", "拒", "封", "关"]
+pain = []
+for t in texts:
+    c = sum(t.count(w) for w in AVERSIVE)
+    pain.append(c / max(len(t), 1) * 100)
+
+def pearson(a, b):
+    ma, mb = statistics.mean(a), statistics.mean(b)
+    num = sum((x - ma) * (y - mb) for x, y in zip(a, b))
+    da = math.sqrt(sum((x - ma) ** 2 for x in a))
+    db = math.sqrt(sum((y - mb) ** 2 for y in b))
+    return num / (da * db) if da and db else float("nan")
+
+r_pain_uniq = pearson(pain, uniq)
+
+# ---------- 遗忘实验 ----------
+RATES = [0.0, 0.20, 0.35, 0.50, 0.65]
+SEEDS = 5
+
+def split_test(mode, seed):
+    idx = list(range(M))
+    if mode == "chrono":
+        k = max(2, int(M * 0.2))
+        return idx[:-k], idx[-k:]
+    random.Random(seed).shuffle(idx)
+    k = max(2, int(M * 0.2))
+    return idx[k:], idx[:k]
+
+results = {}
+ACC = {}
+BASE = ["full", "压抑", "提炼", "反提炼", "随机"]
+for name in BASE:
+    results[name] = {f: [] for f in RATES}
+    ACC[name] = {f: [] for f in RATES}
+removed_chars = {n: {f: [] for f in RATES} for n in BASE}
+
+def split_test(mode, seed):
+    idx = list(range(M))
+    if mode == "chrono":
+        k = max(2, int(M * 0.2))
+        return idx[:-k], idx[-k:]
+    random.Random(seed).shuffle(idx)
+    k = max(2, int(M * 0.2))
+    return idx[k:], idx[:k]
+
+splits = [("chrono", 0)] + [("rand", s) for s in range(SEEDS)]
+for mode, seed in splits:
+    tr, te = split_test(mode, seed)
+    test_text = "".join(texts[i] for i in te)
+    tot_chars = sum(len(texts[i]) for i in tr)
+    for f in RATES:
+        # 按"丢掉的字符量"匹配，而不是按条数：否则丢短句几乎没丢东西
+        target = f * tot_chars
+        def order(strategy):
+            if strategy == "压抑":    return sorted(tr, key=lambda i: -pain[i])
+            if strategy == "提炼":    return sorted(tr, key=lambda i: uniq[i])
+            if strategy == "反提炼":  return sorted(tr, key=lambda i: -uniq[i])
+            return None
+        for name in BASE:
+            if name == "full":
+                keep = tr; rm = 0
+            else:
+                if name == "随机":
+                    rng = random.Random(seed * 977 + int(f * 100))
+                    seq = tr[:]; rng.shuffle(seq)
+                else:
+                    seq = order(name)
+                rm, drop = 0, []
+                for i in seq:
+                    if rm >= target: break
+                    drop.append(i); rm += len(texts[i])
+                ds = set(drop); keep = [i for i in tr if i not in ds]
+            removed_chars[name][f].append(rm / tot_chars)
+            ctx = train([texts[i] for i in keep])
+            b, a = bits(ctx, test_text)
+            results[name][f].append(b); ACC[name][f].append(a)
+
+summary = {}
+for name in BASE:
+    summary[name] = {str(f): {
+        "mean": statistics.mean(results[name][f]),
+        "sd": statistics.pstdev(results[name][f]) if len(results[name][f]) > 1 else 0.0,
+        "n": len(results[name][f]),
+        "frac_chars_removed": statistics.mean(removed_chars[name][f]),
+    } for f in RATES}
+
+DISPLAY = {"full": "不忘（基线）", "压抑": "压抑：丢最痛的", "提炼": "丢主流：丢最可复现的",
+           "反提炼": "提炼：丢不可复现的杂质", "随机": "随机丢"}
+
+# 每丢弃 1% 内容损失多少 bit（效率：越低越好）
+eff = {}
+for name in ["压抑", "提炼", "反提炼", "随机"]:
+    base = summary["full"]["0.0"]["mean"]
+    eff[name] = {str(f): (summary[name][str(f)]["mean"] - base) / (summary[name][str(f)]["frac_chars_removed"] * 100) for f in RATES if f > 0 and summary[name][str(f)]["frac_chars_removed"] > 0}
+
+DISPLAY = {"full": "不忘（基线）", "压抑": "压抑：丢最痛的", "提炼": "丢主流：丢最可复现的",
+           "反提炼": "提炼：丢不可复现的杂质", "随机": "随机丢"}
+summary = {DISPLAY[k]: v for k, v in summary.items()}
+eff = {DISPLAY[k]: v for k, v in eff.items()}
+r_uniq_len = pearson(uniq, [len(t) for t in texts])
+out = {
+    "r_uniq_len": r_uniq_len,
+    "n_msgs": M, "n_chars": sum(len(t) for t in texts),
+    "r_pain_uniq": r_pain_uniq,
+    "mean_uniq": statistics.mean(uniq),
+    "mean_pain": statistics.mean(pain),
+    "top_pain_uniq": statistics.mean([u for _, u in sorted(zip(pain, uniq), key=lambda z: -z[0])[:10]]),
+    "bot_pain_uniq": statistics.mean([u for _, u in sorted(zip(pain, uniq), key=lambda z: z[0])[:10]]),
+    "summary": summary,
+    "loss_per_1pct_forgotten": eff,
+    "per_msg": [{"id": keys[i], "uniq": uniq[i], "pain": pain[i]} for i in range(M)],
+}
+js = json.dumps(out, ensure_ascii=False, indent=2)
+open(os.path.join(OUT, "result182.json"), "w", encoding="utf-8").write(js)
+print("[sha]", hashlib.sha256(js.encode()).hexdigest()[:12])
+for name in ["full", "压抑", "反提炼", "提炼", "随机"]:
+    row = "  ".join(f"f={f}:{summary[DISPLAY[name]][str(f)]['mean']:.4f}" for f in RATES)
+    print(f"{DISPLAY[name]:<22s} {row}")
+    acc = [statistics.mean(ACC[name][f]) for f in RATES]
+    print(f"{'':>5s}  准确率 " + "  ".join(f"{a:.3f}" for a in acc))
+print(f"r(pain,uniq) = {r_pain_uniq:.3f}   r(uniq,len) = {r_uniq_len:.3f}")
+print(f"最痛10条的独特性 {out['top_pain_uniq']:.4f} | 最不痛10条 {out['bot_pain_uniq']:.4f}")
+
+summary = {DISPLAY.get(k, k): v for k, v in summary.items()}
+eff = {DISPLAY.get(k, k): v for k, v in eff.items()}
+
+# ---------- 图 ----------
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+plt.rcParams["font.family"] = "WenQuanYi Micro Hei"
+fig, ax = plt.subplots(1, 2, figsize=(11, 4.2))
+style = {"full": ("k", "--", DISPLAY["full"]), "压抑": ("#c0392b", "o-", DISPLAY["压抑"]),
+         "反提炼": ("#27ae60", "s-", DISPLAY["反提炼"]),
+         "提炼": ("#8e44ad", "^-", DISPLAY["提炼"]),
+         "随机": ("#7f8c8d", "d-", DISPLAY["随机"])}
+for name, (c, ls, lab) in style.items():
+    xs = [f * 100 for f in RATES]
+    ys = [summary[DISPLAY[name]][str(f)]["mean"] for f in RATES]
+    ax[0].plot(xs, ys, ls, color=c, label=lab, markersize=5)
+ax[0].set_xlabel("遗忘比例 (%)"); ax[0].set_ylabel("预测未来的代价 (bits/字符)")
+ax[0].set_title("忘得越多越差，但差多少取决于忘的是哪种"); ax[0].legend(fontsize=8); ax[0].grid(alpha=.3)
+ax[1].scatter(pain, uniq, s=28, color="#2c3e50")
+ax[1].set_xlabel("痛感密度 (失败/回避词 %)"); ax[1].set_ylabel("独特性 (留一法 bits/字符)")
+ax[1].set_title(f"痛感 vs 不可复现性  r={r_pain_uniq:.2f}（未支持）"); ax[1].grid(alpha=.3)
+plt.tight_layout()
+plt.savefig(os.path.join(OUT, "render182.png"), dpi=130)
+print("[ok] render182.png")

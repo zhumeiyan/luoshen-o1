@@ -1,1 +1,77 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIyOWIg5L+u5q2j54mICuWJjeeJiOe8uumZt++8mueBvumavuaDqee9muS4uuS5mOaApyhuZXQqPTAuOCnvvIzlub/luqbooqvljovmrbvvvJtoYXphcmTku7flgLzDlzIg5a+86Ie0IuWumuWQkeW/hei4qembtyLjgIIK5L+u5q2j77yadiDlvZLkuIDljJYo5Z2H5YC8MSnvvJvngb7pmr49Y2Fw6ZmN5L2OK+WbuuWumuaNn+Wkse+8m2hhemFyZOS7t+WAvOeLrOeriyjlj6borr7or7Hmg5Hnu4Tlr7nnhacpCuaguOW/g+mXru+8muS7gOS5iOmDveeDp+S4gOeDp++8jOWAvOS4jeWAvO+8n+S7gOS5iOaXtuWAmeWAvO+8nwoiIiIKaW1wb3J0IG51bXB5IGFzIG5wCk0sIEIgPSA4MDAsIDEwMCAgICAgICAgICAjIOadkOaWmeaxoCA4MDDvvIzmgLvpooTnrpflj6rog73ng6cgMTAwIOS7tgoKZGVmIHdvcmxkKGFscGhhLCBzZWVkLCB0ZW1wdGluZz1GYWxzZSk6CiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIHYgPSBucC5jbGlwKHJuZy5wYXJldG8oYWxwaGEsIE0pICsgMSwgMCwgTm9uZSkKICAgIHYgPSB2IC8gdi5tZWFuKCkgICAgICAgICAgICAgICAgICAgICAgICMg5b2S5LiA5YyW77ya5Z2H5YC8IDEKICAgIGlzX2hheiA9IHJuZy5yYW5kb20oTSkgPCAwLjAgICAgICAgICAgICMg5Y2g5L2N77yM5LiL6Z2i5oyJIGgg6KaG55uWCiAgICByZXR1cm4gdiwgcm5nCgpkZWYgcnVuKGFscGhhLCBoLCBtb2RlLCBxLCBjLCBzZWVkLCB0ZW1wdGluZz1GYWxzZSwgc3RlcHM9Qik6CiAgICB2LCBybmcgPSB3b3JsZChhbHBoYSwgc2VlZCkKICAgIGlzX2hheiA9IHJuZy5yYW5kb20oTSkgPCBoCiAgICBpZiB0ZW1wdGluZzogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDor7Hmg5Hnu4TvvJrljbHpmannmoTmm7Tpq5jku7flgLwKICAgICAgICB2ID0gdiAqIG5wLndoZXJlKGlzX2hheiwgMi4wLCAxLjApOyB2ID0gdi92Lm1lYW4oKQogICAgZXN0ID0gdiArIHJuZy5ub3JtYWwoMCwgKDEuMC1xKSozLjAsIE0pCiAgICBvcmRlciA9IHJuZy5wZXJtdXRhdGlvbihNKQogICAgZ290ID0gMC4wOyBiZXN0ID0gMC4wOyBkaXMgPSAwOyBMID0gNS4wCiAgICBjYXAgPSAxLjA7IHNlZW4gPSAwCiAgICBmb3IgaSBpbiByYW5nZShtaW4oc3RlcHMsIE0pKToKICAgICAgICBpZiBtb2RlID09ICdleHBsb3JlJzoKICAgICAgICAgICAgaiA9IG9yZGVyW2ldCiAgICAgICAgZWxzZTogICMgZXhwbG9pdAogICAgICAgICAgICB1biA9IG9yZGVyW2k6XQogICAgICAgICAgICBqID0gdW5bbnAuYXJnbWF4KGVzdFt1bl0pXQogICAgICAgICAgICBvcmRlcltpOl0gPSB1blsgKG5wLmFyYW5nZShsZW4odW4pKSAhPSBucC5hcmdtYXgoZXN0W3VuXSkpIF0gICMg566A5YyWCiAgICAgICAgICAgICMg5LiK6Z2i5Lya5omT5Lmx77yM5pS555SoIG1hc2sg5pu056izCiAgICAgICAgZ290ICs9IHZbal0qY2FwOyBiZXN0ID0gbWF4KGJlc3QsIHZbal0qY2FwKTsgc2VlbiArPSAxCiAgICAgICAgaWYgaXNfaGF6W2pdOgogICAgICAgICAgICBkaXMgKz0gMTsgY2FwICo9IDAuODU7IGdvdCAtPSBMCiAgICByZXR1cm4gZGljdChuZXQ9Z290IC0gYypzZWVuLCBiZXN0PWJlc3QsIGRpcz1kaXMsIGNhcD1jYXApCgpkZWYgYXZnKG49OCwgKiprdyk6CiAgICBycyA9IFtydW4oc2VlZD1zLCAqKmt3KSBmb3IgcyBpbiByYW5nZShuKV0KICAgIHJldHVybiB7azogZmxvYXQobnAubWVhbihbcltrXSBmb3IgciBpbiByc10pKSBmb3IgayBpbiByc1swXX0KCnByaW50KCI9PT0gQSDljprlsL7luqYg4oaSIOWkp+WllumbhuS4reW6pu+8iHRvcDEl5Y2g5oC75Lu35YC85q+U77yJPT09IikKZm9yIGEgaW4gWzAuOCwxLjAsMS41LDIuMCwzLjAsNi4wLDEyLjBdOgogICAgY3M9W10KICAgIGZvciBzIGluIHJhbmdlKDgpOgogICAgICAgIHYsXyA9IHdvcmxkKGEscyk7IHY9bnAuc29ydCh2KVs6Oi0xXQogICAgICAgIGNzLmFwcGVuZCh2WzppbnQoTSowLjAxKV0uc3VtKCkvdi5zdW0oKSkKICAgIHByaW50KGYiYWxwaGE9e2E6NS4xZn0gIHRvcDEl5Y2g5q+UPXtucC5tZWFuKGNzKSoxMDA6NS4xZn0lIikKCnByaW50KCJcbj09PSBCIOS5seeDpyhleHBsb3JlKSDlh4DmlLbnm4ogdnMg5oiQ5pysIGMgw5cgYWxwaGEgPT09IikKcHJpbnQoImFscGhhXFxjICIgKyAiIi5qb2luKGYie2M6PjguMmZ9IiBmb3IgYyBpbiBbMC41LDAuOSwxLjAsMS4xXSkpCmZvciBhIGluIFswLjgsMS41LDMuMCw2LjAsMTIuMF06CiAgICByb3c9W2F2ZyhhbHBoYT1hLGg9MC4wLG1vZGU9J2V4cGxvcmUnLHE9MC4wLGM9YylbJ25ldCddIGZvciBjIGluIFswLjUsMC45LDEuMCwxLjFdXQogICAgcHJpbnQoZiJ7YTo1LjFmfSAgIiArICIiLmpvaW4oZiJ7eDo4LjFmfSIgZm9yIHggaW4gcm93KSkKCnByaW50KCJcbj09PSBDIOWFiOmqjCBxIOmXqOanm++8muWumuWQkSAtIOS5seeDpyDnmoTlh4DlgLzlt67vvIhhbHBoYT0xLjUsYz0wLjnvvIk9PT0iKQpwcmludCgiICBxICAgIOS5seeDpyAgICAg5a6a5ZCRICAgICDlt67lgLwiKQpiYXNlPU5vbmUKZm9yIHEgaW4gWzAuMCwwLjIsMC40LDAuNiwwLjgsMS4wXToKICAgIGU9YXZnKGFscGhhPTEuNSxoPTAuMTAsbW9kZT0nZXhwbG9yZScscT1xLGM9MC45KVsnbmV0J10KICAgIHg9YXZnKGFscGhhPTEuNSxoPTAuMTAsbW9kZT0nZXhwbG9pdCcscT1xLGM9MC45KVsnbmV0J10KICAgIHByaW50KGYie3E6NS4yZn0gIHtlOjcuMWZ9IHt4OjcuMWZ9ICB7eC1lOis3LjFmfSIpCgpwcmludCgiXG49PT0gRCDljbHpmanljaDmr5QgaCDDlyDlub/luqbvvIjng6flpJrlsJHku7bmiY3liJLnrpfvvIk9PT0iKQpwcmludCgiICBoICAg54OnMjAgICAg54OnMTAwICAg54OnNDAwIikKZm9yIGggaW4gWzAuMCwwLjA1LDAuMTAsMC4yMCwwLjQwXToKICAgIHJvdz1bYXZnKGFscGhhPTEuNSxoPWgsbW9kZT0nZXhwbG9yZScscT0wLjAsYz0wLjksc3RlcHM9cylbJ25ldCddIGZvciBzIGluIFsyMCwxMDAsNDAwXV0KICAgIHByaW50KGYie2g6NS4yZn0gIiArICIiLmpvaW4oZiJ7eDo4LjFmfSIgZm9yIHggaW4gcm93KSkKCnByaW50KCJcbj09PSBFIOivseaDkee7hOWvueeFp++8muWNsemZqeeahOabtOmrmOS7t+WAvCA9PT0iKQpmb3IgdGYgaW4gW0ZhbHNlLFRydWVdOgogICAgZT1hdmcoYWxwaGE9MS41LGg9MC4xNSxtb2RlPSdleHBsb3JlJyxxPTAuMCxjPTAuOSx0ZW1wdGluZz10ZikKICAgIHg9YXZnKGFscGhhPTEuNSxoPTAuMTUsbW9kZT0nZXhwbG9pdCcscT0wLjgsYz0wLjksdGVtcHRpbmc9dGYpCiAgICBwcmludChmInRlbXB0aW5nPXtzdHIodGYpOjVzfSDkubHng6flh4A9e2VbJ25ldCddOjcuMWZ9IOeBvumavj17ZVsnZGlzJ106NS4xZn0gfCAiCiAgICAgICAgICBmIuWumuWQkeWHgD17eFsnbmV0J106Ny4xZn0g54G+6Zq+PXt4WydkaXMnXTo1LjFmfSIpCg==
+# -*- coding: utf-8 -*-
+"""
+229b 修正版
+前版缺陷：灾难惩罚为乘性(net*=0.8)，广度被压死；hazard价值×2 导致"定向必踩雷"。
+修正：v 归一化(均值1)；灾难=cap降低+固定损失；hazard价值独立(另设诱惑组对照)
+核心问：什么都烧一烧，值不值？什么时候值？
+"""
+import numpy as np
+M, B = 800, 100          # 材料池 800，总预算只能烧 100 件
+
+def world(alpha, seed, tempting=False):
+    rng = np.random.default_rng(seed)
+    v = np.clip(rng.pareto(alpha, M) + 1, 0, None)
+    v = v / v.mean()                       # 归一化：均值 1
+    is_haz = rng.random(M) < 0.0           # 占位，下面按 h 覆盖
+    return v, rng
+
+def run(alpha, h, mode, q, c, seed, tempting=False, steps=B):
+    v, rng = world(alpha, seed)
+    is_haz = rng.random(M) < h
+    if tempting:                            # 诱惑组：危险的更高价值
+        v = v * np.where(is_haz, 2.0, 1.0); v = v/v.mean()
+    est = v + rng.normal(0, (1.0-q)*3.0, M)
+    order = rng.permutation(M)
+    got = 0.0; best = 0.0; dis = 0; L = 5.0
+    cap = 1.0; seen = 0
+    for i in range(min(steps, M)):
+        if mode == 'explore':
+            j = order[i]
+        else:  # exploit
+            un = order[i:]
+            j = un[np.argmax(est[un])]
+            order[i:] = un[ (np.arange(len(un)) != np.argmax(est[un])) ]  # 简化
+            # 上面会打乱，改用 mask 更稳
+        got += v[j]*cap; best = max(best, v[j]*cap); seen += 1
+        if is_haz[j]:
+            dis += 1; cap *= 0.85; got -= L
+    return dict(net=got - c*seen, best=best, dis=dis, cap=cap)
+
+def avg(n=8, **kw):
+    rs = [run(seed=s, **kw) for s in range(n)]
+    return {k: float(np.mean([r[k] for r in rs])) for k in rs[0]}
+
+print("=== A 厚尾度 → 大奖集中度（top1%占总价值比）===")
+for a in [0.8,1.0,1.5,2.0,3.0,6.0,12.0]:
+    cs=[]
+    for s in range(8):
+        v,_ = world(a,s); v=np.sort(v)[::-1]
+        cs.append(v[:int(M*0.01)].sum()/v.sum())
+    print(f"alpha={a:5.1f}  top1%占比={np.mean(cs)*100:5.1f}%")
+
+print("\n=== B 乱烧(explore) 净收益 vs 成本 c × alpha ===")
+print("alpha\\c " + "".join(f"{c:>8.2f}" for c in [0.5,0.9,1.0,1.1]))
+for a in [0.8,1.5,3.0,6.0,12.0]:
+    row=[avg(alpha=a,h=0.0,mode='explore',q=0.0,c=c)['net'] for c in [0.5,0.9,1.0,1.1]]
+    print(f"{a:5.1f}  " + "".join(f"{x:8.1f}" for x in row))
+
+print("\n=== C 先验 q 门槛：定向 - 乱烧 的净值差（alpha=1.5,c=0.9）===")
+print("  q    乱烧     定向     差值")
+base=None
+for q in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    e=avg(alpha=1.5,h=0.10,mode='explore',q=q,c=0.9)['net']
+    x=avg(alpha=1.5,h=0.10,mode='exploit',q=q,c=0.9)['net']
+    print(f"{q:5.2f}  {e:7.1f} {x:7.1f}  {x-e:+7.1f}")
+
+print("\n=== D 危险占比 h × 广度（烧多少件才划算）===")
+print("  h   烧20    烧100   烧400")
+for h in [0.0,0.05,0.10,0.20,0.40]:
+    row=[avg(alpha=1.5,h=h,mode='explore',q=0.0,c=0.9,steps=s)['net'] for s in [20,100,400]]
+    print(f"{h:5.2f} " + "".join(f"{x:8.1f}" for x in row))
+
+print("\n=== E 诱惑组对照：危险的更高价值 ===")
+for tf in [False,True]:
+    e=avg(alpha=1.5,h=0.15,mode='explore',q=0.0,c=0.9,tempting=tf)
+    x=avg(alpha=1.5,h=0.15,mode='exploit',q=0.8,c=0.9,tempting=tf)
+    print(f"tempting={str(tf):5s} 乱烧净={e['net']:7.1f} 灾难={e['dis']:5.1f} | "
+          f"定向净={x['net']:7.1f} 灾难={x['dis']:5.1f}")

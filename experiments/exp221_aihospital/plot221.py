@@ -1,1 +1,42 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXT1bIldlblF1YW5ZaSBNaWNybyBIZWkiXTsgcGx0LnJjUGFyYW1zWyJheGVzLnVuaWNvZGVfbWludXMiXT1GYWxzZQphPWpzb24ubG9hZChvcGVuKCJyZXN1bHQyMjEuanNvbiIpKTsgYj1qc29uLmxvYWQob3BlbigicmVzdWx0MjIxYi5qc29uIikpOyBjPWpzb24ubG9hZChvcGVuKCJyZXN1bHQyMjFjLmpzb24iKSkKCmZpZyxheD1wbHQuc3VicGxvdHMoMiwyLGZpZ3NpemU9KDEzLDkpKQojIDEg5rGh5p+T546H5omr5o+PCnJzPWFbInJob19zY2FuIl07IHJobz1bclsicmhvIl0gZm9yIHIgaW4gcnNdCmF4WzAsMF0ucGxvdChyaG8sW3JbImVycl9zZWxmIl0gZm9yIHIgaW4gcnNdLCJrLS0iLGx3PTIsbGFiZWw9IuiHquivhOWfuue6v++8iOS4jeW8gOWMu+mZou+8iSIpCmF4WzAsMF0ucGxvdChyaG8sW3JbImVycl9ob3NwaXRhbCJdIGZvciByIGluIHJzXSwiby0iLGNvbG9yPSIjYzAzOTJiIixsdz0yLGxhYmVsPSJBSeWMu+mZou+8iOaXoOa6r+a6kO+8iSIpCmF4WzAsMF0uYXh2c3BhbigwLjUsMS4wLGNvbG9yPSIjYzAzOTJiIixhbHBoYT0wLjA4KQpheFswLDBdLmFubm90YXRlKCLlpLHmlYjljLrvvJrljLvpmaI96Ieq6K+EIix4eT0oMC43NSwwLjEyKSxmb250c2l6ZT0xMCxjb2xvcj0iI2MwMzkyYiIpCmF4WzAsMF0uc2V0X3hsYWJlbCgi5rGh5p+T546HIM+B77yI5pCc5p2l55qE55eF5Y6G5LitIEFJIOmAoOeahOWNoOavlO+8iSIpOyBheFswLDBdLnNldF95bGFiZWwoIumUmeivr+eOhyIpCmF4WzAsMF0uc2V0X3RpdGxlKCLikaAg5Yy76Zmi5ZyoIM+BPjAuNSDlkI7pgIDljJbmiJDoh6ror4QiLGZvbnRzaXplPTEyKTsgYXhbMCwwXS5sZWdlbmQoKTsgYXhbMCwwXS5ncmlkKGFscGhhPS4zKQoKIyAyIOa6r+a6kOeyvuW6pumXqOanmwpxcz1jWyJxc2NhbiJdOyBxPVt4WyJxIl0gZm9yIHggaW4gcXNdCmF4WzAsMV0ucGxvdChxLFt4WyJlcnIiXSBmb3IgeCBpbiBxc10sIm8tIixjb2xvcj0iIzI5ODBiOSIsbHc9MixsYWJlbD0i6ZSZ6K+v546HIikKYXhbMCwxXS5wbG90KHEsW3hbImNvbmYiXSBmb3IgeCBpbiBxc10sInMtIixjb2xvcj0iI2U2N2UyMiIsbHc9MixsYWJlbD0i572u5L+h5bqmIikKYXhbMCwxXS5heHZsaW5lKDAuNyxjb2xvcj0iI2MwMzkyYiIsbHM9IjoiLGx3PTIpOyBheFswLDFdLmFubm90YXRlKCLpl6jmp5sgceKJiDAuNyIseHk9KDAuNzEsMC44NSksY29sb3I9IiNjMDM5MmIiLGZvbnRzaXplPTEwKQpheFswLDFdLnNldF94bGFiZWwoIua6r+a6kOagh+iusOeyvuW6piBxIik7IGF4WzAsMV0uc2V0X3lsYWJlbCgiIikKYXhbMCwxXS5zZXRfdGl0bGUoIuKRoSDmuq/mupDmmK/noazpl6jmp5vvvJpxPDAuNyDnmb3lgZoiLGZvbnRzaXplPTEyKTsgYXhbMCwxXS5sZWdlbmQoKTsgYXhbMCwxXS5ncmlkKGFscGhhPS4zKQoKIyAzIOW6k+inhOaooe+8mumUmeS4jeWPmO+8jOehruS/oemUmeaatOa2qApucz1jWyJuc2NhbiJdOyBOPVtzdHIoeFsiTiJdKSBmb3IgeCBpbiBuc10KYXhbMSwwXS5wbG90KE4sW3hbImVyciJdIGZvciB4IGluIG5zXSwiby0iLGNvbG9yPSIjN2Y4YzhkIixsdz0yLGxhYmVsPSLplJnor6/njofvvIjkuI3liqjvvIkiKQpheFsxLDBdLnBsb3QoTixbeFsiY2VyciJdIGZvciB4IGluIG5zXSwicy0iLGNvbG9yPSIjYzAzOTJiIixsdz0yLGxhYmVsPSLnoa7kv6HnmoTplJnor6/vvIjmtqg1NCXvvIkiKQpheFsxLDBdLnNldF94bGFiZWwoIueXheS+i+W6k+inhOaooSBO77yIz4E9MC4377yM5peg5rqv5rqQ77yJIikKYXhbMSwwXS5zZXRfdGl0bGUoIuKRoiDliqDlpKflupPvvJrkuI3pmY3plJnvvIzlj6rorqnkvaDmm7Tnoa7kv6HlnLDplJkiLGZvbnRzaXplPTEyKTsgYXhbMSwwXS5sZWdlbmQoKTsgYXhbMSwwXS5ncmlkKGFscGhhPS4zKQoKIyA0IOWkmuaooeWei+WFseivhumlseWSjApjcz1hWyJjb25zZW5zdXMiXTsgSz1beFsiSyJdIGZvciB4IGluIGNzXQpmb3IgcmMsY29sIGluIFsoMC4wLCIjMjdhZTYwIiksKDAuMSwiIzI5ODBiOSIpLCgwLjMsIiNlNjdlMjIiKSwoMC41LCIjYzAzOTJiIildOgogICAgYXhbMSwxXS5wbG90KEssW3hbZiJyY3tyY30iXSBmb3IgeCBpbiBjc10sIm8tIixjb2xvcj1jb2wsbHc9MixsYWJlbD1mIuWFseWQjOWBj+W3riDPgWM9e3JjfSIpCiAgICBheFsxLDFdLmF4aGxpbmUocmMsY29sb3I9Y29sLGxzPSI6IixhbHBoYT0uNikKYXhbMSwxXS5zZXRfeHNjYWxlKCJsb2ciLGJhc2U9Mik7IGF4WzEsMV0uc2V0X3hsYWJlbCgi5Y+C5LiO5YWx6K+G55qE5qih5Z6L5pWwIEvvvIjlr7nmlbDvvIkiKTsgYXhbMSwxXS5zZXRfeWxhYmVsKCLlpJrmlbDmipXnpajplJnor6/njociKQpheFsxLDFdLnNldF90aXRsZSgi4pGjIOWKoOaooeWei+aSnuWkqeiKseadv++8mumlseWSjOWcqCDPgWPvvIhUQUNUIM66PTAuOTQ1IOeahOino+mHiu+8iSIsZm9udHNpemU9MTIpCmF4WzEsMV0ubGVnZW5kKGZvbnRzaXplPTkpOyBheFsxLDFdLmdyaWQoYWxwaGE9LjMpCgpwbHQudGlnaHRfbGF5b3V0KCk7IHBsdC5zYXZlZmlnKCJyZW5kZXIyMjEucG5nIixkcGk9MTEwKTsgcHJpbnQoIltva10gcmVuZGVyMjIxLnBuZyIpCg==
+# -*- coding: utf-8 -*-
+import json, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+plt.rcParams["font.sans-serif"]=["WenQuanYi Micro Hei"]; plt.rcParams["axes.unicode_minus"]=False
+a=json.load(open("result221.json")); b=json.load(open("result221b.json")); c=json.load(open("result221c.json"))
+
+fig,ax=plt.subplots(2,2,figsize=(13,9))
+# 1 污染率扫描
+rs=a["rho_scan"]; rho=[r["rho"] for r in rs]
+ax[0,0].plot(rho,[r["err_self"] for r in rs],"k--",lw=2,label="自评基线（不开医院）")
+ax[0,0].plot(rho,[r["err_hospital"] for r in rs],"o-",color="#c0392b",lw=2,label="AI医院（无溯源）")
+ax[0,0].axvspan(0.5,1.0,color="#c0392b",alpha=0.08)
+ax[0,0].annotate("失效区：医院=自评",xy=(0.75,0.12),fontsize=10,color="#c0392b")
+ax[0,0].set_xlabel("污染率 ρ（搜来的病历中 AI 造的占比）"); ax[0,0].set_ylabel("错误率")
+ax[0,0].set_title("① 医院在 ρ>0.5 后退化成自评",fontsize=12); ax[0,0].legend(); ax[0,0].grid(alpha=.3)
+
+# 2 溯源精度门槛
+qs=c["qscan"]; q=[x["q"] for x in qs]
+ax[0,1].plot(q,[x["err"] for x in qs],"o-",color="#2980b9",lw=2,label="错误率")
+ax[0,1].plot(q,[x["conf"] for x in qs],"s-",color="#e67e22",lw=2,label="置信度")
+ax[0,1].axvline(0.7,color="#c0392b",ls=":",lw=2); ax[0,1].annotate("门槛 q≈0.7",xy=(0.71,0.85),color="#c0392b",fontsize=10)
+ax[0,1].set_xlabel("溯源标记精度 q"); ax[0,1].set_ylabel("")
+ax[0,1].set_title("② 溯源是硬门槛：q<0.7 白做",fontsize=12); ax[0,1].legend(); ax[0,1].grid(alpha=.3)
+
+# 3 库规模：错不变，确信错暴涨
+ns=c["nscan"]; N=[str(x["N"]) for x in ns]
+ax[1,0].plot(N,[x["err"] for x in ns],"o-",color="#7f8c8d",lw=2,label="错误率（不动）")
+ax[1,0].plot(N,[x["cerr"] for x in ns],"s-",color="#c0392b",lw=2,label="确信的错误（涨54%）")
+ax[1,0].set_xlabel("病例库规模 N（ρ=0.7，无溯源）")
+ax[1,0].set_title("③ 加大库：不降错，只让你更确信地错",fontsize=12); ax[1,0].legend(); ax[1,0].grid(alpha=.3)
+
+# 4 多模型共识饱和
+cs=a["consensus"]; K=[x["K"] for x in cs]
+for rc,col in [(0.0,"#27ae60"),(0.1,"#2980b9"),(0.3,"#e67e22"),(0.5,"#c0392b")]:
+    ax[1,1].plot(K,[x[f"rc{rc}"] for x in cs],"o-",color=col,lw=2,label=f"共同偏差 ρc={rc}")
+    ax[1,1].axhline(rc,color=col,ls=":",alpha=.6)
+ax[1,1].set_xscale("log",base=2); ax[1,1].set_xlabel("参与共识的模型数 K（对数）"); ax[1,1].set_ylabel("多数投票错误率")
+ax[1,1].set_title("④ 加模型撞天花板：饱和在 ρc（TACT κ=0.945 的解释）",fontsize=12)
+ax[1,1].legend(fontsize=9); ax[1,1].grid(alpha=.3)
+
+plt.tight_layout(); plt.savefig("render221.png",dpi=110); print("[ok] render221.png")

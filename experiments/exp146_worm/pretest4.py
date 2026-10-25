@@ -1,1 +1,74 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIicHJldGVzdCB2NO+8muWcsOW9okIgPSDnnJ/lrp7mlofku7bvvIzot6/lvoTnur/ntKIgLT4g5paH5Lu254mp55CG5bGe5oCnIiIiCmltcG9ydCBvcywgbWF0aCwgY29sbGVjdGlvbnMKaW1wb3J0IG51bXB5IGFzIG5wCkJBU0U9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xIgpST09UUz1bImV4cGVyaW1lbnRzIiwib3ZlcnNlYXMiLCJldmlkZW5jZSIsInBhcGVyIiwiY29yZSIsImVvX2lvIiwiZG9jcyIsInRvb2xzIl0KCmRlZiBzYW1wbGVfZmlsZXMobWF4X249OTApOgogICAgb3V0PVtdCiAgICBmb3IgciBpbiBST09UUzoKICAgICAgICByb290PW9zLnBhdGguam9pbihCQVNFLHIpCiAgICAgICAgaWYgbm90IG9zLnBhdGguaXNkaXIocm9vdCk6IGNvbnRpbnVlCiAgICAgICAgZm9yIGRwLGRuLGZuIGluIG9zLndhbGsocm9vdCk6CiAgICAgICAgICAgIGZvciBmIGluIGZuOgogICAgICAgICAgICAgICAgb3V0LmFwcGVuZChvcy5wYXRoLmpvaW4oZHAsZikpCiAgICAgICAgICAgICAgICBpZiBsZW4ob3V0KT49bWF4X24qMzogYnJlYWsKICAgICAgICAgICAgaWYgbGVuKG91dCk+PW1heF9uKjM6IGJyZWFrCiAgICByZXR1cm4gb3V0WzptYXhfbl0KCkVYVFM9WyIucHkiLCIubWQiLCIuanNvbiIsIi5wbmciLCIudHh0IiwiLnppcCIsIi5zaCIsIi5odG1sIl0KZGVmIHBhdGhfZmVhdChwKToKICAgIHJlbD1vcy5wYXRoLnJlbHBhdGgocCxCQVNFKTsgbmFtZT1vcy5wYXRoLmJhc2VuYW1lKHApCiAgICBleHQ9b3MucGF0aC5zcGxpdGV4dChuYW1lKVsxXS5sb3dlcigpCiAgICBvaD1bMS4wIGlmIGV4dD09ZSBlbHNlIDAuMCBmb3IgZSBpbiBFWFRTXQogICAgb2guYXBwZW5kKDEuMCBpZiBleHQgbm90IGluIEVYVFMgZWxzZSAwLjApCiAgICBtaXNjPVtyZWwuY291bnQob3Muc2VwKS82LjAsIGxlbihuYW1lKS8yNS4wLAogICAgICAgICAgMS4wIGlmIGFueShjLmlzZGlnaXQoKSBmb3IgYyBpbiBuYW1lKSBlbHNlIDAuMF0KICAgIHJldHVybiBvaCttaXNjCgpkZWYgY29udGVudF9mZWF0KHApOgogICAgdHJ5OgogICAgICAgIHN0PW9zLnN0YXQocCk7IHN6PXN0LnN0X3NpemUKICAgICAgICB3aXRoIG9wZW4ocCwncmInKSBhcyBmOiBoZWFkPWYucmVhZCg0MDk2KQogICAgZXhjZXB0IE9TRXJyb3I6IHJldHVybiBOb25lCiAgICBpZiBub3QgaGVhZDogcmV0dXJuIE5vbmUKICAgIGVudD0wLjAKICAgIGM9Y29sbGVjdGlvbnMuQ291bnRlcihoZWFkKQogICAgZm9yIGssdiBpbiBjLml0ZW1zKCk6CiAgICAgICAgcHI9di9sZW4oaGVhZCk7IGVudC09cHIqbWF0aC5sb2cyKHByKQogICAgcHJpbnRhYmxlPXN1bSgxIGZvciBiIGluIGhlYWQgaWYgMzI8PWI8MTI3IG9yIGIgaW4gKDksMTAsMTMpKS9sZW4oaGVhZCkKICAgIHJldHVybiBbbWF0aC5sb2coc3orMSkvMTIuMCwgZW50LzguMCwgcHJpbnRhYmxlLAogICAgICAgICAgICBzdW0oMSBmb3IgYiBpbiBoZWFkIGlmIDQ4PD1iPD01NykvbGVuKGhlYWQpXQoKZmlsZXM9c2FtcGxlX2ZpbGVzKCkKWCxZPVtdLFtdCmZvciBwIGluIGZpbGVzOgogICAgYz1jb250ZW50X2ZlYXQocCkKICAgIGlmIGMgaXMgTm9uZTogY29udGludWUKICAgIFguYXBwZW5kKHBhdGhfZmVhdChwKSk7IFkuYXBwZW5kKGMpClg9bnAuYXJyYXkoWCxmbG9hdCk7IFk9bnAuYXJyYXkoWSxmbG9hdCkKa2VlcD1baSBmb3IgaSBpbiByYW5nZShYLnNoYXBlWzFdKSBpZiBYWzosaV0uc3RkKCk+MWUtOV0KcHJpbnQoZiJmaWxlcz17bGVuKFgpfSBYcmF3PXtYLnNoYXBlfSBrZXB0PXtsZW4oa2VlcCl9IikKWD1YWzosa2VlcF0KWHM9KFgtWC5tZWFuKDApKS8oWC5zdGQoMCkrMWUtOSk7IFlzPShZLVkubWVhbigwKSkvKFkuc3RkKDApKzFlLTkpCmRlZiBsb28oWHMsWXMsbGFtPTEuMCk6CiAgICBuPWxlbihYcyk7ZT1bXQogICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgaWR4PVtqIGZvciBqIGluIHJhbmdlKG4pIGlmIGohPWldCiAgICAgICAgQT1Yc1tpZHhdLlRAWHNbaWR4XStsYW0qbnAuZXllKFhzLnNoYXBlWzFdKQogICAgICAgIFc9bnAubGluYWxnLnNvbHZlKEEsWHNbaWR4XS5UQFlzW2lkeF0pCiAgICAgICAgZS5hcHBlbmQobnAubGluYWxnLm5vcm0oWHNbaV1AVy1Zc1tpXSkpCiAgICByZXR1cm4gZmxvYXQobnAubWVhbihlKSkKZGVmIG1sb28oWXMpOgogICAgbj1sZW4oWXMpO2U9W10KICAgIGZvciBpIGluIHJhbmdlKG4pOgogICAgICAgIG09WXNbW2ogZm9yIGogaW4gcmFuZ2UobikgaWYgaiE9aV1dLm1lYW4oMCkKICAgICAgICBlLmFwcGVuZChucC5saW5hbGcubm9ybShtLVlzW2ldKSkKICAgIHJldHVybiBmbG9hdChucC5tZWFuKGUpKQpybmc9bnAucmFuZG9tLlJhbmRvbVN0YXRlKDcpCmZvciBubSxZdCBpbiBbKCJyZWFsIixZcyksKCJub2lzZSIscm5nLnJhbmRuKCpZcy5zaGFwZSkqWXMuc3RkKCkpXToKICAgIHI9bG9vKFhzLFl0KTsgbT1tbG9vKFl0KQogICAgcHJpbnQoZiJbe25tOjZzfV0gcmlkZ2VfTE9PPXtyOi40Zn0gbWVhbl9MT089e206LjRmfSByYXRpbz17ci9tOi40Zn0gIgogICAgICAgICAgZiJsZWFybmFibGU9eydZRVMnIGlmIHI8bSowLjkwIGVsc2UgJ05PJ30iKQpucC5zYXZlKCJYNC5ucHkiLFgpOyBucC5zYXZlKCJZNC5ucHkiLFkpCg==
+# -*- coding: utf-8 -*-
+"""pretest v4：地形B = 真实文件，路径线索 -> 文件物理属性"""
+import os, math, collections
+import numpy as np
+BASE="/data/workspace/luoshen-o1"
+ROOTS=["experiments","overseas","evidence","paper","core","eo_io","docs","tools"]
+
+def sample_files(max_n=90):
+    out=[]
+    for r in ROOTS:
+        root=os.path.join(BASE,r)
+        if not os.path.isdir(root): continue
+        for dp,dn,fn in os.walk(root):
+            for f in fn:
+                out.append(os.path.join(dp,f))
+                if len(out)>=max_n*3: break
+            if len(out)>=max_n*3: break
+    return out[:max_n]
+
+EXTS=[".py",".md",".json",".png",".txt",".zip",".sh",".html"]
+def path_feat(p):
+    rel=os.path.relpath(p,BASE); name=os.path.basename(p)
+    ext=os.path.splitext(name)[1].lower()
+    oh=[1.0 if ext==e else 0.0 for e in EXTS]
+    oh.append(1.0 if ext not in EXTS else 0.0)
+    misc=[rel.count(os.sep)/6.0, len(name)/25.0,
+          1.0 if any(c.isdigit() for c in name) else 0.0]
+    return oh+misc
+
+def content_feat(p):
+    try:
+        st=os.stat(p); sz=st.st_size
+        with open(p,'rb') as f: head=f.read(4096)
+    except OSError: return None
+    if not head: return None
+    ent=0.0
+    c=collections.Counter(head)
+    for k,v in c.items():
+        pr=v/len(head); ent-=pr*math.log2(pr)
+    printable=sum(1 for b in head if 32<=b<127 or b in (9,10,13))/len(head)
+    return [math.log(sz+1)/12.0, ent/8.0, printable,
+            sum(1 for b in head if 48<=b<=57)/len(head)]
+
+files=sample_files()
+X,Y=[],[]
+for p in files:
+    c=content_feat(p)
+    if c is None: continue
+    X.append(path_feat(p)); Y.append(c)
+X=np.array(X,float); Y=np.array(Y,float)
+keep=[i for i in range(X.shape[1]) if X[:,i].std()>1e-9]
+print(f"files={len(X)} Xraw={X.shape} kept={len(keep)}")
+X=X[:,keep]
+Xs=(X-X.mean(0))/(X.std(0)+1e-9); Ys=(Y-Y.mean(0))/(Y.std(0)+1e-9)
+def loo(Xs,Ys,lam=1.0):
+    n=len(Xs);e=[]
+    for i in range(n):
+        idx=[j for j in range(n) if j!=i]
+        A=Xs[idx].T@Xs[idx]+lam*np.eye(Xs.shape[1])
+        W=np.linalg.solve(A,Xs[idx].T@Ys[idx])
+        e.append(np.linalg.norm(Xs[i]@W-Ys[i]))
+    return float(np.mean(e))
+def mloo(Ys):
+    n=len(Ys);e=[]
+    for i in range(n):
+        m=Ys[[j for j in range(n) if j!=i]].mean(0)
+        e.append(np.linalg.norm(m-Ys[i]))
+    return float(np.mean(e))
+rng=np.random.RandomState(7)
+for nm,Yt in [("real",Ys),("noise",rng.randn(*Ys.shape)*Ys.std())]:
+    r=loo(Xs,Yt); m=mloo(Yt)
+    print(f"[{nm:6s}] ridge_LOO={r:.4f} mean_LOO={m:.4f} ratio={r/m:.4f} "
+          f"learnable={'YES' if r<m*0.90 else 'NO'}")
+np.save("X4.npy",X); np.save("Y4.npy",Y)

@@ -1,1 +1,33 @@
-ZnJvbSBtYWdlX2FpLnNldHRpbmdzLnJlcG8gaW1wb3J0IGdldF9yZXBvX3BhdGgKZnJvbSBtYWdlX2FpLmlvLmNvbmZpZyBpbXBvcnQgQ29uZmlnRmlsZUxvYWRlcgpmcm9tIG1hZ2VfYWkuaW8ucG9zdGdyZXMgaW1wb3J0IFBvc3RncmVzCmZyb20gb3MgaW1wb3J0IHBhdGgKCmlmICdzZW5zb3InIG5vdCBpbiBnbG9iYWxzKCk6CiAgICBmcm9tIG1hZ2VfYWkuZGF0YV9wcmVwYXJhdGlvbi5kZWNvcmF0b3JzIGltcG9ydCBzZW5zb3IKCgpAc2Vuc29yCmRlZiBxdWVyeV9wb3N0Z3Jlc19hbmRfY2hlY2tfY29uZGl0aW9uKCphcmdzLCAqKmt3YXJncykgLT4gYm9vbDoKICAgICIiIgogICAgVGVtcGxhdGUgY29kZSBmb3IgY2hlY2tpbmcgdGhlIHJlc3VsdHMgb2YgYSBQb3N0Z3JlcyBxdWVyeS4KICAgIFNwZWNpZnkgeW91ciBjb25maWd1cmF0aW9uIHNldHRpbmdzIGluICdpb19jb25maWcueWFtbCcuCgogICAgUmV0dXJuOiBUcnVlIGlmIHRoZSBzZW5zb3Igc2hvdWxkIGNvbXBsZXRlLCBGYWxzZSBpZiBpdCBzaG91bGQKICAgIGtlZXAgd2FpdGluZwogICAgIiIiCgogICAgY29uZmlnX3BhdGggPSBwYXRoLmpvaW4oZ2V0X3JlcG9fcGF0aCgpLCAnaW9fY29uZmlnLnlhbWwnKQogICAgY29uZmlnX3Byb2ZpbGUgPSAnZGVmYXVsdCcKCiAgICBxdWVyeSA9ICdZb3VyIFBvc3RncmVzIHF1ZXJ5JyAgIyBTcGVjaWZ5IHlvdXIgU1FMIHF1ZXJ5IGhlcmUKCiAgICB3aXRoIFBvc3RncmVzLndpdGhfY29uZmlnKAogICAgICAgICAgICBDb25maWdGaWxlTG9hZGVyKGNvbmZpZ19wYXRoLCBjb25maWdfcHJvZmlsZSkpIGFzIGxvYWRlcjoKICAgICAgICBkZiA9IGxvYWRlci5sb2FkKHF1ZXJ5KQoKICAgICAgICAjIEFkZCB5b3VyIGNoZWNrcyBoZXJlCiAgICAgICAgaWYgZGYuZW1wdHk6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgIHJldHVybiBUcnVlCg==
+from mage_ai.settings.repo import get_repo_path
+from mage_ai.io.config import ConfigFileLoader
+from mage_ai.io.postgres import Postgres
+from os import path
+
+if 'sensor' not in globals():
+    from mage_ai.data_preparation.decorators import sensor
+
+
+@sensor
+def query_postgres_and_check_condition(*args, **kwargs) -> bool:
+    """
+    Template code for checking the results of a Postgres query.
+    Specify your configuration settings in 'io_config.yaml'.
+
+    Return: True if the sensor should complete, False if it should
+    keep waiting
+    """
+
+    config_path = path.join(get_repo_path(), 'io_config.yaml')
+    config_profile = 'default'
+
+    query = 'Your Postgres query'  # Specify your SQL query here
+
+    with Postgres.with_config(
+            ConfigFileLoader(config_path, config_profile)) as loader:
+        df = loader.load(query)
+
+        # Add your checks here
+        if df.empty:
+            return False
+
+    return True

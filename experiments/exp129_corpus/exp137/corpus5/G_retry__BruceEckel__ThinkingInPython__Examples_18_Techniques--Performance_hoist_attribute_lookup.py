@@ -1,1 +1,30 @@
-IyBob2lzdF9hdHRyaWJ1dGVfbG9va3VwLnB5CmltcG9ydCB0aW1laXQKZnJvbSBiZW5jaG1hcmsgaW1wb3J0IHJlcG9ydAoKbiA9IDEwMF8wMDAKCmRlZiB3aXRoX2F0dHJpYnV0ZV9sb29rdXAoKSAtPiBsaXN0W2ludF06CiAgICBvdXQ6IGxpc3RbaW50XSA9IFtdCiAgICBmb3IgaSBpbiByYW5nZShuKToKICAgICAgICBvdXQuYXBwZW5kKGkpCiAgICByZXR1cm4gb3V0CgpkZWYgd2l0aF9ob2lzdGVkX2xvY2FsKCkgLT4gbGlzdFtpbnRdOgogICAgb3V0OiBsaXN0W2ludF0gPSBbXQogICAgYXBwZW5kID0gb3V0LmFwcGVuZAogICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgYXBwZW5kKGkpCiAgICByZXR1cm4gb3V0Cgphc3NlcnQgd2l0aF9hdHRyaWJ1dGVfbG9va3VwKCkgPT0gd2l0aF9ob2lzdGVkX2xvY2FsKCkKdF9hdHRyID0gbWluKHRpbWVpdC5yZXBlYXQoCiAgICB3aXRoX2F0dHJpYnV0ZV9sb29rdXAsIG51bWJlcj0xMDAsIHJlcGVhdD01CikpCnRfbG9jYWwgPSBtaW4odGltZWl0LnJlcGVhdCgKICAgIHdpdGhfaG9pc3RlZF9sb2NhbCwgbnVtYmVyPTEwMCwgcmVwZWF0PTUKKSkKcmVwb3J0KGF0dHJpYnV0ZV9sb29rdXA9dF9hdHRyLCBob2lzdGVkX2xvY2FsPXRfbG9jYWwpCnByaW50KGYiaG9pc3RpbmcgZGlkIG5vdCBoYWx2ZSB0aGUgdGltZTogIgogICAgICBmInt0X2xvY2FsICogMiA+IHRfYXR0cn0iKQojOiBob2lzdGluZyBkaWQgbm90IGhhbHZlIHRoZSB0aW1lOiBUcnVlCg==
+# hoist_attribute_lookup.py
+import timeit
+from benchmark import report
+
+n = 100_000
+
+def with_attribute_lookup() -> list[int]:
+    out: list[int] = []
+    for i in range(n):
+        out.append(i)
+    return out
+
+def with_hoisted_local() -> list[int]:
+    out: list[int] = []
+    append = out.append
+    for i in range(n):
+        append(i)
+    return out
+
+assert with_attribute_lookup() == with_hoisted_local()
+t_attr = min(timeit.repeat(
+    with_attribute_lookup, number=100, repeat=5
+))
+t_local = min(timeit.repeat(
+    with_hoisted_local, number=100, repeat=5
+))
+report(attribute_lookup=t_attr, hoisted_local=t_local)
+print(f"hoisting did not halve the time: "
+      f"{t_local * 2 > t_attr}")
+#: hoisting did not halve the time: True

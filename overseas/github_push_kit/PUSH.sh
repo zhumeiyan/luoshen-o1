@@ -1,1 +1,19 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIOWcqOS9oOiHquW3seeahOe9kee7nOS4i+i/kOihjO+8iOacrOaymeebkiBhcGkuZ2l0aHViLmNvbSDlj6/ovr7vvIzkvYbmsqHmnInkvaDnmoQgdG9rZW7vvInjgIIKIyDnlKjms5XvvJogIEdJVEhVQl9UT0tFTj1naHBfeHh4IC4vUFVTSC5zaApzZXQgLWUKOiAiJHtHSVRIVUJfVE9LRU46P+mcgOimgSBHSVRIVUJfVE9LRU59IgpSRVBPPSR7UkVQTzotZXZhbGd1YXJkfQpVU0VSPSQoY3VybCAtcyAtSCAiQXV0aG9yaXphdGlvbjogdG9rZW4gJEdJVEhVQl9UT0tFTiIgaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS91c2VyIHwgcHl0aG9uMyAtYyAiaW1wb3J0IHN5cyxqc29uO3ByaW50KGpzb24ubG9hZChzeXMuc3RkaW4pWydsb2dpbiddKSIpCmVjaG8gInVzZXI6ICRVU0VSIgpjdXJsIC1zIC1YIFBPU1QgLUggIkF1dGhvcml6YXRpb246IHRva2VuICRHSVRIVUJfVE9LRU4iIFwKICAgICAtZCAie1wibmFtZVwiOlwiJFJFUE9cIixcImRlc2NyaXB0aW9uXCI6XCJTdGF0aWMgbGludGVyIGZvciBMTE0vQWdlbnQgZXZhbHVhdGlvbiBzY3JpcHRzLiAyNiBydWxlcyB0cmFjZWQgdG8gYSAzNjgtZW50cnkgZW1waXJpY2FsIGZhaWx1cmUtbW9kZSBjYW5vbi5cIixcImxpY2Vuc2VfdGVtcGxhdGVcIjpcIm1pdFwifSIgXAogICAgIGh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vdXNlci9yZXBvcyA+L2Rldi9udWxsCmNkIGV2YWxndWFyZApnaXQgaW5pdCAtcSAyPi9kZXYvbnVsbCB8fCB0cnVlCmdpdCBhZGQgLUEgJiYgZ2l0IC1jIHVzZXIubmFtZT0iJFVTRVIiIC1jIHVzZXIuZW1haWw9IiRVU0VSQHVzZXJzLm5vcmVwbHkuZ2l0aHViLmNvbSIgY29tbWl0IC1xbSAiZXZhbGd1YXJkIHYwLjMuMCIKZ2l0IHJlbW90ZSByZW1vdmUgb3JpZ2luIDI+L2Rldi9udWxsIHx8IHRydWUKZ2l0IHJlbW90ZSBhZGQgb3JpZ2luICJodHRwczovLyRHSVRIVUJfVE9LRU5AZ2l0aHViLmNvbS8kVVNFUi8kUkVQTy5naXQiCmdpdCBicmFuY2ggLU0gbWFpbgpnaXQgcHVzaCAtdSAtcSBvcmlnaW4gbWFpbgplY2hvICJwdXNoZWQ6IGh0dHBzOi8vZ2l0aHViLmNvbS8kVVNFUi8kUkVQTyIK
+#!/usr/bin/env bash
+# 在你自己的网络下运行（本沙盒 api.github.com 可达，但没有你的 token）。
+# 用法：  GITHUB_TOKEN=ghp_xxx ./PUSH.sh
+set -e
+: "${GITHUB_TOKEN:?需要 GITHUB_TOKEN}"
+REPO=${REPO:-evalguard}
+USER=$(curl -s -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/user | python3 -c "import sys,json;print(json.load(sys.stdin)['login'])")
+echo "user: $USER"
+curl -s -X POST -H "Authorization: token $GITHUB_TOKEN" \
+     -d "{\"name\":\"$REPO\",\"description\":\"Static linter for LLM/Agent evaluation scripts. 26 rules traced to a 368-entry empirical failure-mode canon.\",\"license_template\":\"mit\"}" \
+     https://api.github.com/user/repos >/dev/null
+cd evalguard
+git init -q 2>/dev/null || true
+git add -A && git -c user.name="$USER" -c user.email="$USER@users.noreply.github.com" commit -qm "evalguard v0.3.0"
+git remote remove origin 2>/dev/null || true
+git remote add origin "https://$GITHUB_TOKEN@github.com/$USER/$REPO.git"
+git branch -M main
+git push -u -q origin main
+echo "pushed: https://github.com/$USER/$REPO"

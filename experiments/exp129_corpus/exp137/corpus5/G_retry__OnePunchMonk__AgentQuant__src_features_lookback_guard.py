@@ -1,1 +1,78 @@
-IiIiCkxvb2tiYWNrIEd1YXJkIOKAlCBMb29rLUFoZWFkIEJpYXMgUHJldmVudGlvbgo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKVXNlcyBkb21haW4gZXhjZXB0aW9ucyBmcm9tIHNyYy5leGNlcHRpb25zIGZvciBjbGVhciBlcnJvciBzZW1hbnRpY3MuCiIiIgoKaW1wb3J0IGxvZ2dpbmcKZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHdyYXBzCmZyb20gdHlwaW5nIGltcG9ydCBDYWxsYWJsZQoKaW1wb3J0IHBhbmRhcyBhcyBwZAoKZnJvbSBzcmMuZXhjZXB0aW9ucyBpbXBvcnQgSW5zdWZmaWNpZW50V2FybXVwRXJyb3IKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKCmRlZiBlbmZvcmNlX2xvb2tiYWNrKG1pbl9wZXJpb2RzOiBpbnQpOgogICAgIiIiCiAgICBEZWNvcmF0b3IgdGhhdCB2YWxpZGF0ZXMgYSBmZWF0dXJlIGZ1bmN0aW9uJ3Mgb3V0cHV0IGhhcyBhdCBsZWFzdAogICAgYG1pbl9wZXJpb2RzYCBub24tTmFOIHZhbHVlcy4KCiAgICBSYWlzZXMgSW5zdWZmaWNpZW50V2FybXVwRXJyb3IgaWYgdGhlIGNvbXB1dGVkIGZlYXR1cmUgZG9lcyBub3QgaGF2ZQogICAgZW5vdWdoIHZhbGlkIGhpc3Rvcnkg4oCUIGNhbGxlcnMgbXVzdCBoYW5kbGUgdGhpcyByYXRoZXIgdGhhbiBzaWxlbnRseQogICAgdHJhZGluZyBvbiBhbiB1bnJlbGlhYmxlIHdhcm11cCB3aW5kb3cuCgogICAgVXNhZ2U6CiAgICAgICAgQGVuZm9yY2VfbG9va2JhY2sobWluX3BlcmlvZHM9MjAwKQogICAgICAgIGRlZiBjb21wdXRlX3NtYTIwMChjbG9zZTogcGQuU2VyaWVzKSAtPiBwZC5TZXJpZXM6CiAgICAgICAgICAgIC4uLgogICAgIiIiCiAgICBkZWYgZGVjb3JhdG9yKGZ1bmM6IENhbGxhYmxlKSAtPiBDYWxsYWJsZToKICAgICAgICBAd3JhcHMoZnVuYykKICAgICAgICBkZWYgd3JhcHBlcigqYXJncywgKiprd2FyZ3MpOgogICAgICAgICAgICByZXN1bHQgPSBmdW5jKCphcmdzLCAqKmt3YXJncykKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyZXN1bHQsIHBkLlNlcmllcyk6CiAgICAgICAgICAgICAgICBuX3ZhbGlkID0gcmVzdWx0Lm5vdG5hKCkuc3VtKCkKICAgICAgICAgICAgICAgIGlmIG5fdmFsaWQgPCBtaW5fcGVyaW9kczoKICAgICAgICAgICAgICAgICAgICByYWlzZSBJbnN1ZmZpY2llbnRXYXJtdXBFcnJvcigKICAgICAgICAgICAgICAgICAgICAgICAgZiJ7ZnVuYy5fX25hbWVfX30gcHJvZHVjZWQgb25seSB7bl92YWxpZH0gdmFsaWQgdmFsdWVzICIKICAgICAgICAgICAgICAgICAgICAgICAgZiJidXQgcmVxdWlyZXMge21pbl9wZXJpb2RzfS4gUHJvdmlkZSBtb3JlIGhpc3RvcmljYWwgZGF0YS4iCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICByZXR1cm4gcmVzdWx0CiAgICAgICAgcmV0dXJuIHdyYXBwZXIKICAgIHJldHVybiBkZWNvcmF0b3IKCgpjbGFzcyBXYXJtdXBFbmZvcmNlcjoKICAgICIiIgogICAgVmFsaWRhdGVzIHRoYXQgYSBzaWduYWwgc2VyaWVzIGhhcyBzdWZmaWNpZW50IHdhcm11cCBiZWZvcmUgZXZhbF9zdGFydC4KCiAgICBVc2FnZToKICAgICAgICBlbmZvcmNlciA9IFdhcm11cEVuZm9yY2VyKG1pbl93YXJtdXBfcGVyaW9kcz0yMDApCiAgICAgICAgZW5mb3JjZXIuY2hlY2soZGYsIGV2YWxfc3RhcnQ9cGQuVGltZXN0YW1wKCIyMDIyLTAxLTAxIikpCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgbWluX3dhcm11cF9wZXJpb2RzOiBpbnQgPSAyNTIpOgogICAgICAgIHNlbGYubWluX3dhcm11cF9wZXJpb2RzID0gbWluX3dhcm11cF9wZXJpb2RzCgogICAgZGVmIGNoZWNrKHNlbGYsIGRmOiBwZC5EYXRhRnJhbWUsIGV2YWxfc3RhcnQ6IHBkLlRpbWVzdGFtcCwgbWluX3dpbmRvdzogaW50ID0gTm9uZSk6CiAgICAgICAgIiIiCiAgICAgICAgQ2hlY2sgdGhhdCBgZGZgIGhhcyBzdWZmaWNpZW50IGJhcnMgYmVmb3JlIGBldmFsX3N0YXJ0YC4KCiAgICAgICAgUmFpc2VzOgogICAgICAgICAgICBJbnN1ZmZpY2llbnRXYXJtdXBFcnJvcjogSWYgd2FybXVwIGlzIGluc3VmZmljaWVudC4KICAgICAgICAiIiIKICAgICAgICByZXF1aXJlZCA9IG1pbl93aW5kb3cgb3Igc2VsZi5taW5fd2FybXVwX3BlcmlvZHMKICAgICAgICBuX2JlZm9yZSA9IChkZi5pbmRleCA8IGV2YWxfc3RhcnQpLnN1bSgpCiAgICAgICAgaWYgbl9iZWZvcmUgPCByZXF1aXJlZDoKICAgICAgICAgICAgcmFpc2UgSW5zdWZmaWNpZW50V2FybXVwRXJyb3IoCiAgICAgICAgICAgICAgICBmIkluc3VmZmljaWVudCB3YXJtdXA6IG5lZWQge3JlcXVpcmVkfSBiYXJzIGJlZm9yZSB7ZXZhbF9zdGFydC5kYXRlKCl9LCAiCiAgICAgICAgICAgICAgICBmImdvdCB7bl9iZWZvcmV9LiBQcm92aWRlIG1vcmUgaGlzdG9yaWNhbCBkYXRhLiIKICAgICAgICAgICAgKQogICAgICAgIGxvZ2dlci5kZWJ1ZygKICAgICAgICAgICAgIldhcm11cCBjaGVjayBwYXNzZWQ6ICVkIGJhcnMgYmVmb3JlICVzIChyZXF1aXJlZCAlZCkuIiwKICAgICAgICAgICAgbl9iZWZvcmUsIGV2YWxfc3RhcnQuZGF0ZSgpLCByZXF1aXJlZCwKICAgICAgICApCg==
+"""
+Lookback Guard — Look-Ahead Bias Prevention
+============================================
+
+Uses domain exceptions from src.exceptions for clear error semantics.
+"""
+
+import logging
+from functools import wraps
+from typing import Callable
+
+import pandas as pd
+
+from src.exceptions import InsufficientWarmupError
+
+logger = logging.getLogger(__name__)
+
+
+def enforce_lookback(min_periods: int):
+    """
+    Decorator that validates a feature function's output has at least
+    `min_periods` non-NaN values.
+
+    Raises InsufficientWarmupError if the computed feature does not have
+    enough valid history — callers must handle this rather than silently
+    trading on an unreliable warmup window.
+
+    Usage:
+        @enforce_lookback(min_periods=200)
+        def compute_sma200(close: pd.Series) -> pd.Series:
+            ...
+    """
+    def decorator(func: Callable) -> Callable:
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            result = func(*args, **kwargs)
+            if isinstance(result, pd.Series):
+                n_valid = result.notna().sum()
+                if n_valid < min_periods:
+                    raise InsufficientWarmupError(
+                        f"{func.__name__} produced only {n_valid} valid values "
+                        f"but requires {min_periods}. Provide more historical data."
+                    )
+            return result
+        return wrapper
+    return decorator
+
+
+class WarmupEnforcer:
+    """
+    Validates that a signal series has sufficient warmup before eval_start.
+
+    Usage:
+        enforcer = WarmupEnforcer(min_warmup_periods=200)
+        enforcer.check(df, eval_start=pd.Timestamp("2022-01-01"))
+    """
+
+    def __init__(self, min_warmup_periods: int = 252):
+        self.min_warmup_periods = min_warmup_periods
+
+    def check(self, df: pd.DataFrame, eval_start: pd.Timestamp, min_window: int = None):
+        """
+        Check that `df` has sufficient bars before `eval_start`.
+
+        Raises:
+            InsufficientWarmupError: If warmup is insufficient.
+        """
+        required = min_window or self.min_warmup_periods
+        n_before = (df.index < eval_start).sum()
+        if n_before < required:
+            raise InsufficientWarmupError(
+                f"Insufficient warmup: need {required} bars before {eval_start.date()}, "
+                f"got {n_before}. Provide more historical data."
+            )
+        logger.debug(
+            "Warmup check passed: %d bars before %s (required %d).",
+            n_before, eval_start.date(), required,
+        )

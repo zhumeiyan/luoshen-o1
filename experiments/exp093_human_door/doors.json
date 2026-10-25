@@ -1,1 +1,62 @@
-ewogIm1haWwucXEuY29tIjogewogICJwcm90byI6IDIwMCwKICAiZ3VpIjogMjAwLAogICJwcm90b190IjogMC4xNiwKICAiZ3VpX3QiOiAwLjY1CiB9LAogImFwaS5naXRodWIuY29tIjogewogICJwcm90byI6IDIwMCwKICAiZ3VpIjogMjAwLAogICJwcm90b190IjogMC41MSwKICAiZ3VpX3QiOiAwLjQ1CiB9LAogImdpdGh1Yi5jb20iOiB7CiAgInByb3RvIjogNDAzLAogICJndWkiOiA0MDMsCiAgInByb3RvX3QiOiAwLjEsCiAgImd1aV90IjogMC4wNQogfSwKICJjYXB0Y2hhLmd0aW1nIjogewogICJwcm90byI6IDQwMywKICAiZ3VpIjogNDAzLAogICJwcm90b190IjogMC4wNiwKICAiZ3VpX3QiOiAwLjEKIH0sCiAiY2FwdGNoYS5xcS5jb20iOiB7CiAgInByb3RvIjogMjAwLAogICJndWkiOiAyMDAsCiAgInByb3RvX3QiOiAwLjEsCiAgImd1aV90IjogMC4xNwogfSwKICJnaXRlZS5jb20iOiB7CiAgInByb3RvIjogNDAzLAogICJndWkiOiA0MDMsCiAgInByb3RvX3QiOiAwLjA1LAogICJndWlfdCI6IDAuMQogfSwKICJpbS5xcS5jb20iOiB7CiAgInByb3RvIjogMjAwLAogICJndWkiOiAyMDAsCiAgInByb3RvX3QiOiAwLjI1LAogICJndWlfdCI6IDAuMTQKIH0sCiAiYmFpZHUuY29tIjogewogICJwcm90byI6IDIwMCwKICAiZ3VpIjogMjAwLAogICJwcm90b190IjogMC4xNywKICAiZ3VpX3QiOiAwLjUKIH0sCiAib3NjaGluYS5uZXQiOiB7CiAgInByb3RvIjogNDAzLAogICJndWkiOiA0MDMsCiAgInByb3RvX3QiOiAwLjEsCiAgImd1aV90IjogMC4xMQogfSwKICJxcS5jb20iOiB7CiAgInByb3RvIjogMjAwLAogICJndWkiOiAyMDAsCiAgInByb3RvX3QiOiAwLjE0LAogICJndWlfdCI6IDAuMjkKIH0KfQ==
+{
+ "mail.qq.com": {
+  "proto": 200,
+  "gui": 200,
+  "proto_t": 0.16,
+  "gui_t": 0.65
+ },
+ "api.github.com": {
+  "proto": 200,
+  "gui": 200,
+  "proto_t": 0.51,
+  "gui_t": 0.45
+ },
+ "github.com": {
+  "proto": 403,
+  "gui": 403,
+  "proto_t": 0.1,
+  "gui_t": 0.05
+ },
+ "captcha.gtimg": {
+  "proto": 403,
+  "gui": 403,
+  "proto_t": 0.06,
+  "gui_t": 0.1
+ },
+ "captcha.qq.com": {
+  "proto": 200,
+  "gui": 200,
+  "proto_t": 0.1,
+  "gui_t": 0.17
+ },
+ "gitee.com": {
+  "proto": 403,
+  "gui": 403,
+  "proto_t": 0.05,
+  "gui_t": 0.1
+ },
+ "im.qq.com": {
+  "proto": 200,
+  "gui": 200,
+  "proto_t": 0.25,
+  "gui_t": 0.14
+ },
+ "baidu.com": {
+  "proto": 200,
+  "gui": 200,
+  "proto_t": 0.17,
+  "gui_t": 0.5
+ },
+ "oschina.net": {
+  "proto": 403,
+  "gui": 403,
+  "proto_t": 0.1,
+  "gui_t": 0.11
+ },
+ "qq.com": {
+  "proto": 200,
+  "gui": 200,
+  "proto_t": 0.14,
+  "gui_t": 0.29
+ }
+}

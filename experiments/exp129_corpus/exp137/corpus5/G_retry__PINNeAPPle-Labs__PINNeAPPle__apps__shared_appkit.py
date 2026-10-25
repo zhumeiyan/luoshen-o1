@@ -1,1 +1,296 @@
-IiIiU2hhcmVkIHBsdW1iaW5nIGZvciB0aGUgUElOTmVBUFBsZSBhcHBzIChhcHBzLyopOiBsb2dpbiwgYnVzeSBsaW1pdGVyLCBzdGF0aWMgdmVuZG9yIGZpbGVzLCBhbmQgdGhlIHJ1bnRpbWUKKGpvYiBxdWV1ZSwgQVBJIGtleXMsIHVzYWdlIG1ldGVyaW5nLCB1cGxvYWRzKSB1bmRlciAvYXBpLgoKRWFjaCBhcHAgZG9lczo6CgogICAgZnJvbSBhcHBraXQgaW1wb3J0IGluc3RhbGwsIGluc3RhbGxfcnVudGltZSAgIyBhcHBzL19zaGFyZWQgb24gc3lzLnBhdGgKICAgIGluc3RhbGwoYXBwLCBwcmVmaXg9IkhTUyIpICAgICAgICAgICAgICAgICAgICAjIHJlYWRzIEhTU19VU0VSIC8gSFNTX1BBU1NXT1JECiAgICBydCA9IGluc3RhbGxfcnVudGltZShhcHAsIHByZWZpeD0iSFNTIiwgbmFtZT0iaGVhdHNpbmsiLCB1bml0cz17InJ1bnMiOiAyMDB9KQoKRW52aXJvbm1lbnQgKGFsbCBvcHRpb25hbCwgcGVyIGFwcCBwcmVmaXg7IHRoZSBmdWxsIGxpc3QgaXMgaW4gYXBwcy9fc2hhcmVkL1JFQURNRS5tZCk6CiAgPFBSRUZJWD5fVVNFUiAvIDxQUkVGSVg+X1BBU1NXT1JEICAgSFRUUCBCYXNpYyBhdXRoIG9uIGV2ZXJ5dGhpbmcgZXhjZXB0IC9oZWFsdGggKGFuIFgtQVBJLUtleSBhbHNvIHBhc3NlcykKICA8UFJFRklYPl9NQVhfSk9CUyAgICAgICAgICAgICAgICAgICBjb25jdXJyZW50IGpvYnMgb2YgdGhlIHF1ZXVlIChhbGwgc2VydmVyIHdvcmtlcnMgdG9nZXRoZXIpCiAgPFBSRUZJWD5fRlJFRV88VU5JVD4gICAgICAgICAgICAgICAgZnJlZSB1c2UgcGVyIHByaW5jaXBhbCBhbmQgbW9udGgsIGUuZy4gQ0FNUEFJR05fRlJFRV9DQVNFU19QTEFOTkVECiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYmFzZTY0CmltcG9ydCBvcwppbXBvcnQgc2VjcmV0cwppbXBvcnQgdGhyZWFkaW5nCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgQW55Cgpmcm9tIGZhc3RhcGkgaW1wb3J0IEFQSVJvdXRlciwgRmFzdEFQSSwgSFRUUEV4Y2VwdGlvbiwgUmVxdWVzdCwgVXBsb2FkRmlsZQpmcm9tIGZhc3RhcGkucmVzcG9uc2VzIGltcG9ydCBKU09OUmVzcG9uc2UsIFJlc3BvbnNlCmZyb20gZmFzdGFwaS5zdGF0aWNmaWxlcyBpbXBvcnQgU3RhdGljRmlsZXMKCmZyb20gcGlubmVhcHBsZV9jb3JlLnNlcnZpY2UgaW1wb3J0ICgKICAgIEFQSUtleVN0b3JlLAogICAgSm9iUXVldWUsCiAgICBVcGxvYWRSZWplY3RlZCwKICAgIFVwbG9hZFN0b3JlLAogICAgVXBsb2FkVG9vTGFyZ2UsCiAgICBVc2FnZUxpbWl0RXhjZWVkZWQsCiAgICBVc2FnZU1ldGVyLAogICAgZGF0YV9kaXIsCiAgICBsaW1pdHNfZnJvbV9lbnYsCikKCgpkZWYgX3ZlbmRvcl9kaXIoKSAtPiBzdHI6CiAgICAiIiJ0aHJlZS5qcyBzaGlwcyBvbmNlLCBpbnNpZGUgdGhlIGxpYnJhcnkgKHBpbm5lYXBwbGVfdG9vbHMvdmlzdWFsaXphdGlvbi9zdHVkaW8vd2ViL3ZlbmRvciksIHNvIHRoZSBhcHBzIGFuZAogICAgcHAudml6J3MgYnJvd3NlciB2aWV3ZXIgc2VydmUgdGhlIHNhbWUgY29weS4gTG9jYXRlZCB3aXRob3V0IGltcG9ydGluZyB0aGUgcGFja2FnZS4iIiIKICAgIGltcG9ydCBpbXBvcnRsaWIudXRpbAogICAgc3BlYyA9IGltcG9ydGxpYi51dGlsLmZpbmRfc3BlYygicGlubmVhcHBsZV90b29scyIpCiAgICByb290ID0gbGlzdChzcGVjLnN1Ym1vZHVsZV9zZWFyY2hfbG9jYXRpb25zKVswXQogICAgcmV0dXJuIG9zLnBhdGguam9pbihyb290LCAidmlzdWFsaXphdGlvbiIsICJzdHVkaW8iLCAid2ViIiwgInZlbmRvciIpCgoKVkVORE9SID0gX3ZlbmRvcl9kaXIoKQpTVFVESU8gPSBvcy5wYXRoLmRpcm5hbWUoVkVORE9SKSAgICAgICAgICAgICAgICAgICAgICAjIHN0dWRpby1jb3JlLmpzOiBjb2xvdXIgc2NhbGVzLCB0dWJlcywgc2xpY2VzLCBlZGdlcwpTSEFSRUQgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgInN0YXRpYyIsICJzaGFyZWQiKQoKCmRlZiBpbnN0YWxsKGFwcDogRmFzdEFQSSwgcHJlZml4OiBzdHIpIC0+IE5vbmU6CiAgICAiIiJPcHRpb25hbCBIVFRQIEJhc2ljIGxvZ2luICsgdGhlIHNoYXJlZCBzdGF0aWMgZmlsZXM6IGBgL3ZlbmRvcmBgICh0aHJlZS5qcyksIGBgL3N0dWRpb2BgICh0aGUgc3R1ZGlvIHZpZXdlcgogICAgY29yZSkgYW5kIGBgL3NoYXJlZGBgIChVSSBwaWVjZXMgY29tbW9uIHRvIGV2ZXJ5IGFwcCkuIiIiCiAgICBhcHAuc3RhdGUuYXV0aF91c2VyID0gb3MuZW52aXJvbi5nZXQoZiJ7cHJlZml4fV9VU0VSIikKICAgIGFwcC5zdGF0ZS5hdXRoX3Bhc3N3b3JkID0gb3MuZW52aXJvbi5nZXQoZiJ7cHJlZml4fV9QQVNTV09SRCIpCgogICAgQGFwcC5taWRkbGV3YXJlKCJodHRwIikKICAgIGFzeW5jIGRlZiBiYXNpY19hdXRoKHJlcXVlc3Q6IFJlcXVlc3QsIGNhbGxfbmV4dCk6CiAgICAgICAgdXNlciwgcGFzc3dvcmQgPSBhcHAuc3RhdGUuYXV0aF91c2VyLCBhcHAuc3RhdGUuYXV0aF9wYXNzd29yZAogICAgICAgIHJ0ID0gZ2V0YXR0cihhcHAuc3RhdGUsICJydW50aW1lIiwgTm9uZSkKICAgICAgICBsb2dpbiA9IF9iYXNpY191c2VyKHJlcXVlc3QsIHVzZXIsIHBhc3N3b3JkKSBpZiB1c2VyIGFuZCBwYXNzd29yZCBlbHNlIE5vbmUKICAgICAgICBrZXkgPSBydC5rZXlzLnZlcmlmeShyZXF1ZXN0LmhlYWRlcnMuZ2V0KCJ4LWFwaS1rZXkiKSkgaWYgcnQgaXMgbm90IE5vbmUgZWxzZSBOb25lCiAgICAgICAgaWYgcnQgaXMgbm90IE5vbmUgYW5kIHJlcXVlc3QuaGVhZGVycy5nZXQoIngtYXBpLWtleSIpIGFuZCBrZXkgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIEpTT05SZXNwb25zZSh7ImRldGFpbCI6ICJpbnZhbGlkIG9yIHJldm9rZWQgQVBJIGtleSJ9LCBzdGF0dXNfY29kZT00MDEpCiAgICAgICAgcmVxdWVzdC5zdGF0ZS5sb2dpbiA9IGxvZ2luCiAgICAgICAgcmVxdWVzdC5zdGF0ZS5hcGlfa2V5ID0ga2V5CiAgICAgICAgcmVxdWVzdC5zdGF0ZS5wcmluY2lwYWwgPSAoZiJrZXk6e2tleVsnaWQnXX0iIGlmIGtleSBlbHNlIGYidXNlcjp7bG9naW59IiBpZiBsb2dpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgZiJpcDp7Y2xpZW50X2lwKHJlcXVlc3QpfSIpCiAgICAgICAgaWYgcmVxdWVzdC51cmwucGF0aCAhPSAiL2hlYWx0aCI6CiAgICAgICAgICAgIGlmIHVzZXIgYW5kIHBhc3N3b3JkIGFuZCBub3QgKGxvZ2luIG9yIGtleSk6CiAgICAgICAgICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc3RhdHVzX2NvZGU9NDAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnM9eyJXV1ctQXV0aGVudGljYXRlIjogZidCYXNpYyByZWFsbT0ie2FwcC50aXRsZX0iJ30pCiAgICAgICAgICAgIGlmIHJ0IGlzIG5vdCBOb25lIGFuZCBydC5yZXF1aXJlX2tleSBhbmQgcmVxdWVzdC51cmwucGF0aC5zdGFydHN3aXRoKCIvYXBpLyIpIGFuZCBub3QgKGxvZ2luIG9yIGtleSk6CiAgICAgICAgICAgICAgICByZXR1cm4gSlNPTlJlc3BvbnNlKHsiZGV0YWlsIjogInRoaXMgc2VydmVyIHJlcXVpcmVzIGFuIFgtQVBJLUtleSBoZWFkZXIifSwgc3RhdHVzX2NvZGU9NDAxKQogICAgICAgIHJldHVybiBhd2FpdCBjYWxsX25leHQocmVxdWVzdCkKCiAgICBhcHAubW91bnQoIi92ZW5kb3IiLCBTdGF0aWNGaWxlcyhkaXJlY3Rvcnk9VkVORE9SKSwgbmFtZT0idmVuZG9yIikKICAgIGFwcC5tb3VudCgiL3N0dWRpbyIsIFN0YXRpY0ZpbGVzKGRpcmVjdG9yeT1TVFVESU8pLCBuYW1lPSJzdHVkaW8iKQogICAgYXBwLm1vdW50KCIvc2hhcmVkIiwgU3RhdGljRmlsZXMoZGlyZWN0b3J5PVNIQVJFRCksIG5hbWU9InNoYXJlZCIpCgoKY2xhc3MgQnVzeUxpbWl0ZXI6CiAgICAiIiJDYXBzIGNvbmN1cnJlbnQgaGVhdnkgcmVxdWVzdHMgcGVyIHdvcmtlcjsgdGhlIGV4Y2VzcyBnZXRzIDQyOSBpbnN0ZWFkIG9mIHF1ZXVlaW5nLiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBlbnZfdmFyOiBzdHIsIGRlZmF1bHQ6IGludCA9IDIpOgogICAgICAgIHNlbGYuc2xvdHMgPSB0aHJlYWRpbmcuQm91bmRlZFNlbWFwaG9yZShpbnQob3MuZW52aXJvbi5nZXQoZW52X3Zhcikgb3IgZGVmYXVsdCkpCgogICAgZGVmIF9fZW50ZXJfXyhzZWxmKToKICAgICAgICBpZiBub3Qgc2VsZi5zbG90cy5hY3F1aXJlKGJsb2NraW5nPUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbihzdGF0dXNfY29kZT00MjksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGV0YWlsPSJTZXJ2ZXIgYnVzeSB3aXRoIG90aGVyIHJ1bnMgLS0gcGxlYXNlIHJldHJ5IGluIGEgZmV3IHNlY29uZHMuIikKICAgICAgICByZXR1cm4gc2VsZgoKICAgIGRlZiBfX2V4aXRfXyhzZWxmLCAqZXhjKToKICAgICAgICBzZWxmLnNsb3RzLnJlbGVhc2UoKQogICAgICAgIHJldHVybiBGYWxzZQoKCmRlZiBfYmFzaWNfdXNlcihyZXF1ZXN0OiBSZXF1ZXN0LCB1c2VyOiBzdHIsIHBhc3N3b3JkOiBzdHIpIC0+IHN0ciB8IE5vbmU6CiAgICBoZWFkZXIgPSByZXF1ZXN0LmhlYWRlcnMuZ2V0KCJhdXRob3JpemF0aW9uIiwgIiIpCiAgICBpZiBoZWFkZXIubG93ZXIoKS5zdGFydHN3aXRoKCJiYXNpYyAiKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHUsIF8sIHAgPSBiYXNlNjQuYjY0ZGVjb2RlKGhlYWRlcls2Ol0pLmRlY29kZSgpLnBhcnRpdGlvbigiOiIpCiAgICAgICAgZXhjZXB0IChWYWx1ZUVycm9yLCBVbmljb2RlRGVjb2RlRXJyb3IpOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIGlmIHNlY3JldHMuY29tcGFyZV9kaWdlc3QodSwgdXNlcikgYW5kIHNlY3JldHMuY29tcGFyZV9kaWdlc3QocCwgcGFzc3dvcmQpOgogICAgICAgICAgICByZXR1cm4gdQogICAgcmV0dXJuIE5vbmUKCgpkZWYgY2xpZW50X2lwKHJlcXVlc3Q6IFJlcXVlc3QpIC0+IHN0cjoKICAgICIiIlRoZSBjbGllbnQgYWRkcmVzczsgYmVoaW5kIENhZGR5IHRoZSBsYXN0IFgtRm9yd2FyZGVkLUZvciBlbnRyeSAodGhlIG9uZSB0aGUgcHJveHkgaXRzZWxmIGFkZGVkKS4iIiIKICAgIGZ3ZCA9IHJlcXVlc3QuaGVhZGVycy5nZXQoIngtZm9yd2FyZGVkLWZvciIpCiAgICBpZiBmd2Q6CiAgICAgICAgcmV0dXJuIGZ3ZC5zcGxpdCgiLCIpWy0xXS5zdHJpcCgpCiAgICByZXR1cm4gcmVxdWVzdC5jbGllbnQuaG9zdCBpZiByZXF1ZXN0LmNsaWVudCBlbHNlICJ1bmtub3duIgoKCmRlZiBwcmluY2lwYWwocmVxdWVzdDogUmVxdWVzdCkgLT4gc3RyOgogICAgIiIiV2hvIHVzZSBpcyBjb3VudGVkIGFnYWluc3Q6IGBga2V5OjxpZD5gYCwgYGB1c2VyOjxsb2dpbj5gYCBvciBgYGlwOjxhZGRyPmBgLiIiIgogICAgcmV0dXJuIGdldGF0dHIocmVxdWVzdC5zdGF0ZSwgInByaW5jaXBhbCIsIE5vbmUpIG9yIGYiaXA6e2NsaWVudF9pcChyZXF1ZXN0KX0iCgoKY2xhc3MgUnVudGltZToKICAgICIiIlRoZSBqb2IgcXVldWUsIEFQSSBrZXlzLCB1c2FnZSBtZXRlciBhbmQgdXBsb2FkIHN0b3JlIG9mIG9uZSBhcHAgKGBgYXBwLnN0YXRlLnJ1bnRpbWVgYCkuIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG5hbWU6IHN0ciwgcHJlZml4OiBzdHIsIHJvb3Q6IFBhdGgsIGpvYnM6IEpvYlF1ZXVlLCBrZXlzOiBBUElLZXlTdG9yZSwgbWV0ZXI6IFVzYWdlTWV0ZXIsCiAgICAgICAgICAgICAgICAgdXBsb2FkczogVXBsb2FkU3RvcmUsIGFkbWluX3Rva2VuOiBzdHIgfCBOb25lLCByZXF1aXJlX2tleTogYm9vbCk6CiAgICAgICAgc2VsZi5uYW1lLCBzZWxmLnByZWZpeCwgc2VsZi5yb290ID0gbmFtZSwgcHJlZml4LCByb290CiAgICAgICAgc2VsZi5qb2JzLCBzZWxmLmtleXMsIHNlbGYubWV0ZXIsIHNlbGYudXBsb2FkcyA9IGpvYnMsIGtleXMsIG1ldGVyLCB1cGxvYWRzCiAgICAgICAgc2VsZi5hZG1pbl90b2tlbiwgc2VsZi5yZXF1aXJlX2tleSA9IGFkbWluX3Rva2VuLCByZXF1aXJlX2tleQoKICAgIGRlZiBpc19hZG1pbihzZWxmLCByZXF1ZXN0OiBSZXF1ZXN0KSAtPiBib29sOgogICAgICAgIGlmIGdldGF0dHIocmVxdWVzdC5zdGF0ZSwgImxvZ2luIiwgTm9uZSk6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgdG9rZW4gPSByZXF1ZXN0LmhlYWRlcnMuZ2V0KCJ4LWFkbWluLXRva2VuIikKICAgICAgICByZXR1cm4gYm9vbChzZWxmLmFkbWluX3Rva2VuIGFuZCB0b2tlbiBhbmQgc2VjcmV0cy5jb21wYXJlX2RpZ2VzdCh0b2tlbiwgc2VsZi5hZG1pbl90b2tlbikpCgogICAgZGVmIGNvbnN1bWUoc2VsZiwgcmVxdWVzdDogUmVxdWVzdCwgdW5pdDogc3RyLCBhbW91bnQ6IGZsb2F0ID0gMSwgcmVmOiBzdHIgPSAiIikgLT4gTm9uZToKICAgICAgICAiIiJDb3VudCBgYGFtb3VudGBgIG9mIGBgdW5pdGBgIGFnYWluc3QgdGhlIGNhbGxlcjsgYSA0MjkgcmVzcG9uc2UgaWYgaXQgcGFzc2VzIHRoZSBmcmVlIGxpbWl0LiIiIgogICAgICAgIHNlbGYubWV0ZXIuY29uc3VtZShwcmluY2lwYWwocmVxdWVzdCksIHVuaXQsIGFtb3VudCwgcmVmKQoKICAgIGRlZiBzdWJtaXQoc2VsZiwgcmVxdWVzdDogUmVxdWVzdCwga2luZDogc3RyLCBwYXJhbXM6IGRpY3Rbc3RyLCBBbnldIHwgTm9uZSA9IE5vbmUsICosCiAgICAgICAgICAgICAgIHVuaXRzOiBkaWN0W3N0ciwgZmxvYXRdIHwgTm9uZSA9IE5vbmUsIG1heF9yZXRyaWVzOiBpbnQgPSAwKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICAgICAiIiJDaGVjayB0aGUgZnJlZSBsaW1pdHMgZm9yIGBgdW5pdHNgYCwgcXVldWUgdGhlIGpvYiBvd25lZCBieSB0aGUgY2FsbGVyIGFuZCBjb3VudCB0aGUgdW5pdHMuIiIiCiAgICAgICAgd2hvID0gcHJpbmNpcGFsKHJlcXVlc3QpCiAgICAgICAgZm9yIHVuaXQsIGFtb3VudCBpbiAodW5pdHMgb3Ige30pLml0ZW1zKCk6CiAgICAgICAgICAgIHNlbGYubWV0ZXIuY2hlY2sod2hvLCB1bml0LCBhbW91bnQpCiAgICAgICAgam9iX2lkID0gc2VsZi5qb2JzLnN1Ym1pdChraW5kLCBwYXJhbXMsIG93bmVyPXdobywgbWF4X3JldHJpZXM9bWF4X3JldHJpZXMpCiAgICAgICAgZm9yIHVuaXQsIGFtb3VudCBpbiAodW5pdHMgb3Ige30pLml0ZW1zKCk6CiAgICAgICAgICAgIHNlbGYubWV0ZXIucmVjb3JkKHdobywgdW5pdCwgYW1vdW50LCByZWY9am9iX2lkKQogICAgICAgIHJldHVybiBzZWxmLmpvYnMuZ2V0KGpvYl9pZCkKCiAgICBkZWYgam9iX2ZvcihzZWxmLCByZXF1ZXN0OiBSZXF1ZXN0LCBqb2JfaWQ6IHN0cikgLT4gZGljdFtzdHIsIEFueV06CiAgICAgICAgIiIiVGhlIGpvYiBpZiB0aGUgY2FsbGVyIG93bnMgaXQgKG9yIGlzIGFkbWluKTsgNDA0IG90aGVyd2lzZS4iIiIKICAgICAgICB0cnk6CiAgICAgICAgICAgIGpvYiA9IHNlbGYuam9icy5nZXQoam9iX2lkKQogICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDQsIGYidW5rbm93biBqb2Ige2pvYl9pZH0iKSBmcm9tIE5vbmUKICAgICAgICBpZiBqb2JbIm93bmVyIl0gIT0gcHJpbmNpcGFsKHJlcXVlc3QpIGFuZCBub3Qgc2VsZi5pc19hZG1pbihyZXF1ZXN0KToKICAgICAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDQsIGYidW5rbm93biBqb2Ige2pvYl9pZH0iKQogICAgICAgIHJldHVybiBqb2IKCiAgICBkZWYgdXBsb2FkX3BhdGgoc2VsZiwgcmVxdWVzdDogUmVxdWVzdCwgdXBsb2FkX2lkOiBzdHIpIC0+IFBhdGg6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBtZXRhID0gc2VsZi51cGxvYWRzLmdldCh1cGxvYWRfaWQpCiAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKDQwNCwgZiJ1bmtub3duIHVwbG9hZCB7dXBsb2FkX2lkfSIpIGZyb20gTm9uZQogICAgICAgIGlmIG1ldGEuZ2V0KCJvd25lciIpICE9IHByaW5jaXBhbChyZXF1ZXN0KSBhbmQgbm90IHNlbGYuaXNfYWRtaW4ocmVxdWVzdCk6CiAgICAgICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oNDA0LCBmInVua25vd24gdXBsb2FkIHt1cGxvYWRfaWR9IikKICAgICAgICByZXR1cm4gc2VsZi51cGxvYWRzLnBhdGgodXBsb2FkX2lkKQoKICAgIGRlZiBkZXNjcmliZShzZWxmKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICAgICByZXR1cm4geyJhcHAiOiBzZWxmLm5hbWUsICJtYXhfY29uY3VycmVudF9qb2JzIjogc2VsZi5qb2JzLm1heF9jb25jdXJyZW50LCAiZXhlY3V0b3IiOiBzZWxmLmpvYnMuZXhlY3V0b3IsCiAgICAgICAgICAgICAgICAiam9iX2tpbmRzIjogc29ydGVkKHNlbGYuam9icy5zdGF0cygpWyJraW5kcyJdKSwgImZyZWVfbGltaXRzX3Blcl9tb250aCI6IHNlbGYubWV0ZXIubGltaXRzLAogICAgICAgICAgICAgICAgInVwbG9hZF9tYXhfbWIiOiBzZWxmLnVwbG9hZHMubWF4X2J5dGVzIC8gMioqMjAsCiAgICAgICAgICAgICAgICAidXBsb2FkX3N1ZmZpeGVzIjogc29ydGVkKHNlbGYudXBsb2Fkcy5hbGxvd2VkKSBpZiBzZWxmLnVwbG9hZHMuYWxsb3dlZCBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICAiYXBpX2tleV9yZXF1aXJlZCI6IHNlbGYucmVxdWlyZV9rZXl9CgoKZGVmIGluc3RhbGxfcnVudGltZShhcHA6IEZhc3RBUEksIHByZWZpeDogc3RyLCBuYW1lOiBzdHIsICosIHVuaXRzOiBkaWN0W3N0ciwgZmxvYXQgfCBOb25lXSB8IE5vbmUgPSBOb25lLAogICAgICAgICAgICAgICAgICAgIG1heF9qb2JzOiBpbnQgPSAyLCBleGVjdXRvcjogc3RyID0gInRocmVhZCIsIGpvYl9tYXhfc2Vjb25kczogZmxvYXQgfCBOb25lID0gTm9uZSwKICAgICAgICAgICAgICAgICAgICB1cGxvYWRfbWF4X21iOiBmbG9hdCA9IDUwLCB1cGxvYWRfc3VmZml4ZXM6IHNldFtzdHJdIHwgTm9uZSA9IE5vbmUpIC0+IFJ1bnRpbWU6CiAgICAiIiJKb2IgcXVldWUsIEFQSSBrZXlzLCB1c2FnZSBtZXRlcmluZyBhbmQgdXBsb2FkcyBmb3IgYW4gYXBwLCB3aXRoIHRoZWlyIHJvdXRlcyB1bmRlciBgYC9hcGlgYC4KCiAgICBgYHVuaXRzYGAgYXJlIHRoZSBtZXRlcmVkIHVuaXRzIGFuZCB0aGVpciBkZWZhdWx0IGZyZWUgbGltaXQgcGVyIHByaW5jaXBhbCBhbmQgbW9udGggKE5vbmUgPSB1bmxpbWl0ZWQpLgogICAgQ2FsbCBhZnRlciA6ZnVuYzpgaW5zdGFsbGAuIFJlZ2lzdGVyIGpvYiBmdW5jdGlvbnMgd2l0aCBgYHJ0LmpvYnMucmVnaXN0ZXIoa2luZCwgZm4pYGAuCiAgICAiIiIKICAgIGVudiA9IG9zLmVudmlyb24KICAgIHJvb3QgPSBkYXRhX2RpcihuYW1lLCBwcmVmaXgpCiAgICBkYiA9IHJvb3QgLyAicnVudGltZS5zcWxpdGUiCiAgICBqb2JzID0gSm9iUXVldWUoZGIsIGFwcD1uYW1lLCBtYXhfY29uY3VycmVudD1pbnQoZW52LmdldChmIntwcmVmaXh9X01BWF9KT0JTIikgb3IgbWF4X2pvYnMpLAogICAgICAgICAgICAgICAgICAgIGV4ZWN1dG9yPWVudi5nZXQoZiJ7cHJlZml4fV9KT0JfRVhFQ1VUT1IiKSBvciBleGVjdXRvciwgd29ya2Rpcj1yb290IC8gImpvYnMiLAogICAgICAgICAgICAgICAgICAgIG1heF9zZWNvbmRzPWZsb2F0KGVudi5nZXQoZiJ7cHJlZml4fV9KT0JfTUFYX1NFQ09ORFMiKSBvciAwKSBvciBqb2JfbWF4X3NlY29uZHMpCiAgICBtZXRlciA9IFVzYWdlTWV0ZXIoZGIsIGFwcD1uYW1lLCBsaW1pdHM9bGltaXRzX2Zyb21fZW52KHByZWZpeCwgZGljdCh1bml0cyBvciB7fSkpKQogICAgdXBsb2FkcyA9IFVwbG9hZFN0b3JlKHJvb3QgLyAidXBsb2FkcyIsIG1heF9ieXRlcz1pbnQoZmxvYXQoZW52LmdldChmIntwcmVmaXh9X1VQTE9BRF9NQVhfTUIiKSBvciB1cGxvYWRfbWF4X21iKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKiAyKioyMCksIGFsbG93ZWRfc3VmZml4ZXM9dXBsb2FkX3N1ZmZpeGVzKQogICAgcnQgPSBSdW50aW1lKG5hbWUsIHByZWZpeCwgcm9vdCwgam9icywgQVBJS2V5U3RvcmUoZGIsIGFwcD1uYW1lKSwgbWV0ZXIsIHVwbG9hZHMsCiAgICAgICAgICAgICAgICAgYWRtaW5fdG9rZW49ZW52LmdldChmIntwcmVmaXh9X0FETUlOX1RPS0VOIikgb3IgTm9uZSwKICAgICAgICAgICAgICAgICByZXF1aXJlX2tleT0oZW52LmdldChmIntwcmVmaXh9X1JFUVVJUkVfQVBJX0tFWSIpIG9yICIiKS5sb3dlcigpIGluICgiMSIsICJ0cnVlIiwgInllcyIpKQogICAgYXBwLnN0YXRlLnJ1bnRpbWUgPSBydAoKICAgIEBhcHAuZXhjZXB0aW9uX2hhbmRsZXIoVXNhZ2VMaW1pdEV4Y2VlZGVkKQogICAgYXN5bmMgZGVmIF9saW1pdChyZXF1ZXN0OiBSZXF1ZXN0LCBleGM6IFVzYWdlTGltaXRFeGNlZWRlZCk6CiAgICAgICAgcmV0dXJuIEpTT05SZXNwb25zZShleGMudG9fZGljdCgpLCBzdGF0dXNfY29kZT00MjkpCgogICAgYXBpID0gQVBJUm91dGVyKHByZWZpeD0iL2FwaSIsIHRhZ3M9WyJydW50aW1lIl0pCgogICAgZGVmIGFkbWluKHJlcXVlc3Q6IFJlcXVlc3QpIC0+IE5vbmU6CiAgICAgICAgaWYgbm90IHJ0LmlzX2FkbWluKHJlcXVlc3QpOgogICAgICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKDQwMywgZiJuZWVkcyB0aGUgYXBwIGxvZ2luIG9yIFgtQWRtaW4tVG9rZW4gKHtwcmVmaXh9X0FETUlOX1RPS0VOKSIpCgogICAgQGFwaS5nZXQoIi9ydW50aW1lIikKICAgIGRlZiBydW50aW1lX2luZm8oKToKICAgICAgICByZXR1cm4gcnQuZGVzY3JpYmUoKQoKICAgIEBhcGkuZ2V0KCIvam9icyIpCiAgICBkZWYgbGlzdF9qb2JzKHJlcXVlc3Q6IFJlcXVlc3QsIHN0YXR1czogc3RyIHwgTm9uZSA9IE5vbmUsIGtpbmQ6IHN0ciB8IE5vbmUgPSBOb25lLCBsaW1pdDogaW50ID0gNTApOgogICAgICAgIG93bmVyID0gTm9uZSBpZiBydC5pc19hZG1pbihyZXF1ZXN0KSBlbHNlIHByaW5jaXBhbChyZXF1ZXN0KQogICAgICAgIHJldHVybiBydC5qb2JzLmxpc3Qob3duZXI9b3duZXIsIHN0YXR1cz1zdGF0dXMsIGtpbmQ9a2luZCwgbGltaXQ9bWluKGxpbWl0LCA1MDApKQoKICAgIEBhcGkuZ2V0KCIvam9icy97am9iX2lkfSIpCiAgICBkZWYgZ2V0X2pvYihyZXF1ZXN0OiBSZXF1ZXN0LCBqb2JfaWQ6IHN0cik6CiAgICAgICAgcmV0dXJuIHJ0LmpvYl9mb3IocmVxdWVzdCwgam9iX2lkKQoKICAgIEBhcGkuZ2V0KCIvam9icy97am9iX2lkfS9sb2dzIikKICAgIGRlZiBqb2JfbG9ncyhyZXF1ZXN0OiBSZXF1ZXN0LCBqb2JfaWQ6IHN0ciwgc2luY2U6IGludCA9IDApOgogICAgICAgIHJ0LmpvYl9mb3IocmVxdWVzdCwgam9iX2lkKQogICAgICAgIHJldHVybiBydC5qb2JzLmxvZ3Moam9iX2lkLCBzaW5jZT1zaW5jZSkKCiAgICBAYXBpLnBvc3QoIi9qb2JzL3tqb2JfaWR9L2NhbmNlbCIpCiAgICBkZWYgY2FuY2VsX2pvYihyZXF1ZXN0OiBSZXF1ZXN0LCBqb2JfaWQ6IHN0cik6CiAgICAgICAgcnQuam9iX2ZvcihyZXF1ZXN0LCBqb2JfaWQpCiAgICAgICAgcmV0dXJuIHJ0LmpvYnMuY2FuY2VsKGpvYl9pZCkKCiAgICBAYXBpLnBvc3QoIi9qb2JzL3tqb2JfaWR9L3JldHJ5IikKICAgIGRlZiByZXRyeV9qb2IocmVxdWVzdDogUmVxdWVzdCwgam9iX2lkOiBzdHIpOgogICAgICAgIHJ0LmpvYl9mb3IocmVxdWVzdCwgam9iX2lkKQogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIHJ0LmpvYnMucmV0cnkoam9iX2lkKQogICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yIGFzIGV4YzoKICAgICAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDksIHN0cihleGMpKSBmcm9tIE5vbmUKCiAgICBAYXBpLmdldCgiL3VzYWdlIikKICAgIGRlZiB1c2FnZShyZXF1ZXN0OiBSZXF1ZXN0KToKICAgICAgICBvdXQgPSBydC5tZXRlci51c2FnZShwcmluY2lwYWwocmVxdWVzdCkpCiAgICAgICAgaWYgcnQuaXNfYWRtaW4ocmVxdWVzdCk6CiAgICAgICAgICAgIG91dFsidG90YWxzIl0gPSBydC5tZXRlci50b3RhbHMoKQogICAgICAgIHJldHVybiBvdXQKCiAgICBAYXBpLmdldCgiL2tleXMiKQogICAgZGVmIGxpc3Rfa2V5cyhyZXF1ZXN0OiBSZXF1ZXN0KToKICAgICAgICBhZG1pbihyZXF1ZXN0KQogICAgICAgIHJldHVybiBydC5rZXlzLmxpc3QoKQoKICAgIEBhcGkucG9zdCgiL2tleXMiKQogICAgZGVmIGNyZWF0ZV9rZXkocmVxdWVzdDogUmVxdWVzdCwgYm9keTogZGljdFtzdHIsIEFueV0pOgogICAgICAgIGFkbWluKHJlcXVlc3QpCiAgICAgICAgcmV0dXJuIHJ0LmtleXMuY3JlYXRlKHN0cihib2R5LmdldCgibmFtZSIpIG9yICJ1bm5hbWVkIiksIHNjb3Blcz1ib2R5LmdldCgic2NvcGVzIikpCgogICAgQGFwaS5kZWxldGUoIi9rZXlzL3trZXlfaWR9IikKICAgIGRlZiByZXZva2Vfa2V5KHJlcXVlc3Q6IFJlcXVlc3QsIGtleV9pZDogc3RyKToKICAgICAgICBhZG1pbihyZXF1ZXN0KQogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIHJ0LmtleXMucmV2b2tlKGtleV9pZCkKICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oNDA0LCBmInVua25vd24ga2V5IHtrZXlfaWR9IikgZnJvbSBOb25lCgogICAgQGFwaS5wb3N0KCIvdXBsb2FkcyIpCiAgICBhc3luYyBkZWYgdXBsb2FkKHJlcXVlc3Q6IFJlcXVlc3QsIGZpbGU6IFVwbG9hZEZpbGUpOgogICAgICAgIGxlbmd0aCA9IHJlcXVlc3QuaGVhZGVycy5nZXQoImNvbnRlbnQtbGVuZ3RoIikKICAgICAgICBpZiBsZW5ndGggYW5kIGxlbmd0aC5pc2RpZ2l0KCkgYW5kIGludChsZW5ndGgpID4gcnQudXBsb2Fkcy5tYXhfYnl0ZXMgKyA2NCAqIDEwMjQ6CiAgICAgICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oNDEzLCBmInVwbG9hZCBsYXJnZXIgdGhhbiB7cnQudXBsb2Fkcy5tYXhfYnl0ZXMgLyAyKioyMDpnfSBNQiIpCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gcnQudXBsb2Fkcy5zYXZlKGZpbGUuZmlsZW5hbWUgb3IgInVwbG9hZCIsIGZpbGUuZmlsZSwgb3duZXI9cHJpbmNpcGFsKHJlcXVlc3QpKQogICAgICAgIGV4Y2VwdCBVcGxvYWRUb29MYXJnZSBhcyBleGM6CiAgICAgICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oNDEzLCBzdHIoZXhjKSkgZnJvbSBOb25lCiAgICAgICAgZXhjZXB0IFVwbG9hZFJlamVjdGVkIGFzIGV4YzoKICAgICAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MTUsIHN0cihleGMpKSBmcm9tIE5vbmUKCiAgICBAYXBpLmdldCgiL3VwbG9hZHMiKQogICAgZGVmIGxpc3RfdXBsb2FkcyhyZXF1ZXN0OiBSZXF1ZXN0KToKICAgICAgICByZXR1cm4gcnQudXBsb2Fkcy5saXN0KG93bmVyPU5vbmUgaWYgcnQuaXNfYWRtaW4ocmVxdWVzdCkgZWxzZSBwcmluY2lwYWwocmVxdWVzdCkpCgogICAgQGFwaS5kZWxldGUoIi91cGxvYWRzL3t1cGxvYWRfaWR9IikKICAgIGRlZiBkZWxldGVfdXBsb2FkKHJlcXVlc3Q6IFJlcXVlc3QsIHVwbG9hZF9pZDogc3RyKToKICAgICAgICBydC51cGxvYWRfcGF0aChyZXF1ZXN0LCB1cGxvYWRfaWQpCiAgICAgICAgcnQudXBsb2Fkcy5kZWxldGUodXBsb2FkX2lkKQogICAgICAgIHJldHVybiB7ImRlbGV0ZWQiOiB1cGxvYWRfaWR9CgogICAgYXBwLmluY2x1ZGVfcm91dGVyKGFwaSkKICAgIHJldHVybiBydAo=
+"""Shared plumbing for the PINNeAPPle apps (apps/*): login, busy limiter, static vendor files, and the runtime
+(job queue, API keys, usage metering, uploads) under /api.
+
+Each app does::
+
+    from appkit import install, install_runtime  # apps/_shared on sys.path
+    install(app, prefix="HSS")                    # reads HSS_USER / HSS_PASSWORD
+    rt = install_runtime(app, prefix="HSS", name="heatsink", units={"runs": 200})
+
+Environment (all optional, per app prefix; the full list is in apps/_shared/README.md):
+  <PREFIX>_USER / <PREFIX>_PASSWORD   HTTP Basic auth on everything except /health (an X-API-Key also passes)
+  <PREFIX>_MAX_JOBS                   concurrent jobs of the queue (all server workers together)
+  <PREFIX>_FREE_<UNIT>                free use per principal and month, e.g. CAMPAIGN_FREE_CASES_PLANNED
+"""
+from __future__ import annotations
+
+import base64
+import os
+import secrets
+import threading
+from pathlib import Path
+from typing import Any
+
+from fastapi import APIRouter, FastAPI, HTTPException, Request, UploadFile
+from fastapi.responses import JSONResponse, Response
+from fastapi.staticfiles import StaticFiles
+
+from pinneapple_core.service import (
+    APIKeyStore,
+    JobQueue,
+    UploadRejected,
+    UploadStore,
+    UploadTooLarge,
+    UsageLimitExceeded,
+    UsageMeter,
+    data_dir,
+    limits_from_env,
+)
+
+
+def _vendor_dir() -> str:
+    """three.js ships once, inside the library (pinneapple_tools/visualization/studio/web/vendor), so the apps and
+    pp.viz's browser viewer serve the same copy. Located without importing the package."""
+    import importlib.util
+    spec = importlib.util.find_spec("pinneapple_tools")
+    root = list(spec.submodule_search_locations)[0]
+    return os.path.join(root, "visualization", "studio", "web", "vendor")
+
+
+VENDOR = _vendor_dir()
+STUDIO = os.path.dirname(VENDOR)                      # studio-core.js: colour scales, tubes, slices, edges
+SHARED = os.path.join(os.path.dirname(__file__), "static", "shared")
+
+
+def install(app: FastAPI, prefix: str) -> None:
+    """Optional HTTP Basic login + the shared static files: ``/vendor`` (three.js), ``/studio`` (the studio viewer
+    core) and ``/shared`` (UI pieces common to every app)."""
+    app.state.auth_user = os.environ.get(f"{prefix}_USER")
+    app.state.auth_password = os.environ.get(f"{prefix}_PASSWORD")
+
+    @app.middleware("http")
+    async def basic_auth(request: Request, call_next):
+        user, password = app.state.auth_user, app.state.auth_password
+        rt = getattr(app.state, "runtime", None)
+        login = _basic_user(request, user, password) if user and password else None
+        key = rt.keys.verify(request.headers.get("x-api-key")) if rt is not None else None
+        if rt is not None and request.headers.get("x-api-key") and key is None:
+            return JSONResponse({"detail": "invalid or revoked API key"}, status_code=401)
+        request.state.login = login
+        request.state.api_key = key
+        request.state.principal = (f"key:{key['id']}" if key else f"user:{login}" if login
+                                   else f"ip:{client_ip(request)}")
+        if request.url.path != "/health":
+            if user and password and not (login or key):
+                return Response(status_code=401,
+                                headers={"WWW-Authenticate": f'Basic realm="{app.title}"'})
+            if rt is not None and rt.require_key and request.url.path.startswith("/api/") and not (login or key):
+                return JSONResponse({"detail": "this server requires an X-API-Key header"}, status_code=401)
+        return await call_next(request)
+
+    app.mount("/vendor", StaticFiles(directory=VENDOR), name="vendor")
+    app.mount("/studio", StaticFiles(directory=STUDIO), name="studio")
+    app.mount("/shared", StaticFiles(directory=SHARED), name="shared")
+
+
+class BusyLimiter:
+    """Caps concurrent heavy requests per worker; the excess gets 429 instead of queueing."""
+
+    def __init__(self, env_var: str, default: int = 2):
+        self.slots = threading.BoundedSemaphore(int(os.environ.get(env_var) or default))
+
+    def __enter__(self):
+        if not self.slots.acquire(blocking=False):
+            raise HTTPException(status_code=429,
+                                detail="Server busy with other runs -- please retry in a few seconds.")
+        return self
+
+    def __exit__(self, *exc):
+        self.slots.release()
+        return False
+
+
+def _basic_user(request: Request, user: str, password: str) -> str | None:
+    header = request.headers.get("authorization", "")
+    if header.lower().startswith("basic "):
+        try:
+            u, _, p = base64.b64decode(header[6:]).decode().partition(":")
+        except (ValueError, UnicodeDecodeError):
+            return None
+        if secrets.compare_digest(u, user) and secrets.compare_digest(p, password):
+            return u
+    return None
+
+
+def client_ip(request: Request) -> str:
+    """The client address; behind Caddy the last X-Forwarded-For entry (the one the proxy itself added)."""
+    fwd = request.headers.get("x-forwarded-for")
+    if fwd:
+        return fwd.split(",")[-1].strip()
+    return request.client.host if request.client else "unknown"
+
+
+def principal(request: Request) -> str:
+    """Who use is counted against: ``key:<id>``, ``user:<login>`` or ``ip:<addr>``."""
+    return getattr(request.state, "principal", None) or f"ip:{client_ip(request)}"
+
+
+class Runtime:
+    """The job queue, API keys, usage meter and upload store of one app (``app.state.runtime``)."""
+
+    def __init__(self, name: str, prefix: str, root: Path, jobs: JobQueue, keys: APIKeyStore, meter: UsageMeter,
+                 uploads: UploadStore, admin_token: str | None, require_key: bool):
+        self.name, self.prefix, self.root = name, prefix, root
+        self.jobs, self.keys, self.meter, self.uploads = jobs, keys, meter, uploads
+        self.admin_token, self.require_key = admin_token, require_key
+
+    def is_admin(self, request: Request) -> bool:
+        if getattr(request.state, "login", None):
+            return True
+        token = request.headers.get("x-admin-token")
+        return bool(self.admin_token and token and secrets.compare_digest(token, self.admin_token))
+
+    def consume(self, request: Request, unit: str, amount: float = 1, ref: str = "") -> None:
+        """Count ``amount`` of ``unit`` against the caller; a 429 response if it passes the free limit."""
+        self.meter.consume(principal(request), unit, amount, ref)
+
+    def submit(self, request: Request, kind: str, params: dict[str, Any] | None = None, *,
+               units: dict[str, float] | None = None, max_retries: int = 0) -> dict[str, Any]:
+        """Check the free limits for ``units``, queue the job owned by the caller and count the units."""
+        who = principal(request)
+        for unit, amount in (units or {}).items():
+            self.meter.check(who, unit, amount)
+        job_id = self.jobs.submit(kind, params, owner=who, max_retries=max_retries)
+        for unit, amount in (units or {}).items():
+            self.meter.record(who, unit, amount, ref=job_id)
+        return self.jobs.get(job_id)
+
+    def job_for(self, request: Request, job_id: str) -> dict[str, Any]:
+        """The job if the caller owns it (or is admin); 404 otherwise."""
+        try:
+            job = self.jobs.get(job_id)
+        except KeyError:
+            raise HTTPException(404, f"unknown job {job_id}") from None
+        if job["owner"] != principal(request) and not self.is_admin(request):
+            raise HTTPException(404, f"unknown job {job_id}")
+        return job
+
+    def upload_path(self, request: Request, upload_id: str) -> Path:
+        try:
+            meta = self.uploads.get(upload_id)
+        except KeyError:
+            raise HTTPException(404, f"unknown upload {upload_id}") from None
+        if meta.get("owner") != principal(request) and not self.is_admin(request):
+            raise HTTPException(404, f"unknown upload {upload_id}")
+        return self.uploads.path(upload_id)
+
+    def describe(self) -> dict[str, Any]:
+        return {"app": self.name, "max_concurrent_jobs": self.jobs.max_concurrent, "executor": self.jobs.executor,
+                "job_kinds": sorted(self.jobs.stats()["kinds"]), "free_limits_per_month": self.meter.limits,
+                "upload_max_mb": self.uploads.max_bytes / 2**20,
+                "upload_suffixes": sorted(self.uploads.allowed) if self.uploads.allowed else None,
+                "api_key_required": self.require_key}
+
+
+def install_runtime(app: FastAPI, prefix: str, name: str, *, units: dict[str, float | None] | None = None,
+                    max_jobs: int = 2, executor: str = "thread", job_max_seconds: float | None = None,
+                    upload_max_mb: float = 50, upload_suffixes: set[str] | None = None) -> Runtime:
+    """Job queue, API keys, usage metering and uploads for an app, with their routes under ``/api``.
+
+    ``units`` are the metered units and their default free limit per principal and month (None = unlimited).
+    Call after :func:`install`. Register job functions with ``rt.jobs.register(kind, fn)``.
+    """
+    env = os.environ
+    root = data_dir(name, prefix)
+    db = root / "runtime.sqlite"
+    jobs = JobQueue(db, app=name, max_concurrent=int(env.get(f"{prefix}_MAX_JOBS") or max_jobs),
+                    executor=env.get(f"{prefix}_JOB_EXECUTOR") or executor, workdir=root / "jobs",
+                    max_seconds=float(env.get(f"{prefix}_JOB_MAX_SECONDS") or 0) or job_max_seconds)
+    meter = UsageMeter(db, app=name, limits=limits_from_env(prefix, dict(units or {})))
+    uploads = UploadStore(root / "uploads", max_bytes=int(float(env.get(f"{prefix}_UPLOAD_MAX_MB") or upload_max_mb)
+                                                          * 2**20), allowed_suffixes=upload_suffixes)
+    rt = Runtime(name, prefix, root, jobs, APIKeyStore(db, app=name), meter, uploads,
+                 admin_token=env.get(f"{prefix}_ADMIN_TOKEN") or None,
+                 require_key=(env.get(f"{prefix}_REQUIRE_API_KEY") or "").lower() in ("1", "true", "yes"))
+    app.state.runtime = rt
+
+    @app.exception_handler(UsageLimitExceeded)
+    async def _limit(request: Request, exc: UsageLimitExceeded):
+        return JSONResponse(exc.to_dict(), status_code=429)
+
+    api = APIRouter(prefix="/api", tags=["runtime"])
+
+    def admin(request: Request) -> None:
+        if not rt.is_admin(request):
+            raise HTTPException(403, f"needs the app login or X-Admin-Token ({prefix}_ADMIN_TOKEN)")
+
+    @api.get("/runtime")
+    def runtime_info():
+        return rt.describe()
+
+    @api.get("/jobs")
+    def list_jobs(request: Request, status: str | None = None, kind: str | None = None, limit: int = 50):
+        owner = None if rt.is_admin(request) else principal(request)
+        return rt.jobs.list(owner=owner, status=status, kind=kind, limit=min(limit, 500))
+
+    @api.get("/jobs/{job_id}")
+    def get_job(request: Request, job_id: str):
+        return rt.job_for(request, job_id)
+
+    @api.get("/jobs/{job_id}/logs")
+    def job_logs(request: Request, job_id: str, since: int = 0):
+        rt.job_for(request, job_id)
+        return rt.jobs.logs(job_id, since=since)
+
+    @api.post("/jobs/{job_id}/cancel")
+    def cancel_job(request: Request, job_id: str):
+        rt.job_for(request, job_id)
+        return rt.jobs.cancel(job_id)
+
+    @api.post("/jobs/{job_id}/retry")
+    def retry_job(request: Request, job_id: str):
+        rt.job_for(request, job_id)
+        try:
+            return rt.jobs.retry(job_id)
+        except ValueError as exc:
+            raise HTTPException(409, str(exc)) from None
+
+    @api.get("/usage")
+    def usage(request: Request):
+        out = rt.meter.usage(principal(request))
+        if rt.is_admin(request):
+            out["totals"] = rt.meter.totals()
+        return out
+
+    @api.get("/keys")
+    def list_keys(request: Request):
+        admin(request)
+        return rt.keys.list()
+
+    @api.post("/keys")
+    def create_key(request: Request, body: dict[str, Any]):
+        admin(request)
+        return rt.keys.create(str(body.get("name") or "unnamed"), scopes=body.get("scopes"))
+
+    @api.delete("/keys/{key_id}")
+    def revoke_key(request: Request, key_id: str):
+        admin(request)
+        try:
+            return rt.keys.revoke(key_id)
+        except KeyError:
+            raise HTTPException(404, f"unknown key {key_id}") from None
+
+    @api.post("/uploads")
+    async def upload(request: Request, file: UploadFile):
+        length = request.headers.get("content-length")
+        if length and length.isdigit() and int(length) > rt.uploads.max_bytes + 64 * 1024:
+            raise HTTPException(413, f"upload larger than {rt.uploads.max_bytes / 2**20:g} MB")
+        try:
+            return rt.uploads.save(file.filename or "upload", file.file, owner=principal(request))
+        except UploadTooLarge as exc:
+            raise HTTPException(413, str(exc)) from None
+        except UploadRejected as exc:
+            raise HTTPException(415, str(exc)) from None
+
+    @api.get("/uploads")
+    def list_uploads(request: Request):
+        return rt.uploads.list(owner=None if rt.is_admin(request) else principal(request))
+
+    @api.delete("/uploads/{upload_id}")
+    def delete_upload(request: Request, upload_id: str):
+        rt.upload_path(request, upload_id)
+        rt.uploads.delete(upload_id)
+        return {"deleted": upload_id}
+
+    app.include_router(api)
+    return rt

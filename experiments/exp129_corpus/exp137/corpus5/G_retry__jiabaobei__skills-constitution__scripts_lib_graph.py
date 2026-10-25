@@ -1,1 +1,466 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5oqA6IO95Zu+6LCxKHYyLjIzLjAp4oCU4oCUIOWcqOaKgOiDveagkeS5i+S4iuWPoOWKoOehruWumuaAp+WFs+ezu+WbvgoK5YCf6Ym0IEdpdE5leHVz44CM6aKE6K6h566X5YWz57O75pm66IO944CNOuWFs+ezu+WcqOe0ouW8leacn+eul+WlvSzov5DooYzml7bpm7bmjqjnkIbjgIIK5LiO5Luj56CB55+l6K+G5Zu+6LCx55qE5pig5bCEOgogIEdpdE5leHVzIOeahCBDQUxMUy9JTVBPUlRTIOi+uSAg4oaSIOacrOaooeWdl+eahCBjaGFpbnNfdG8gLyBjb19hbmNob3IgLyBhbHRlcm5hdGl2ZSDovrkKICBHaXROZXh1cyDnmoTnpL7ljLrmo4DmtYsoTGVpZGVuKSAgIOKGkiDmnKzmqKHlnZfnmoTnoa7lrprmgKfmoIfnrb7kvKDmkq3ogZrnsbso6Zu25L6d6LWWLOWujOWFqOWPr+WkjeeOsCkKICBHaXROZXh1cyDnmoQgZmlsZTpsaW5lIOa6r+a6kCAgICDihpIg5pys5qih5Z2X5q+P5p2h6L655b+F5bimIGV2aWRlbmNlKOS4uuS7gOS5iOebuOWFsykKCuS4ieenjei+uSjlhajpg6jnoa7lrprmgKfmir3lj5Ys6Zu2IExMTSk6CiAgY2hhaW5zX3RvICAgIEEg55qEIG91dHB1dF9zY2hlbWEg4oipIEIg55qEIGlucHV0X3NjaGVtYSDiiaAg4oiFKHJlZ2lzdHJ5Lmpzb24g5bey5pyJ5pWw5o2uLAogICAgICAgICAgICAgICDmraTliY3ku4Ugc3RlcDQg5Li05pe255SoLOeOsOWbuuWMlui/m+WbvuiwsSnigJTigJTmnInlkJEKICBjb19hbmNob3IgICAg5YWx5Lqr5a6e5L2T6ZSa54K5KOWQjOS4gOmihuWfn+ivjS/lt6XlhbflkI0v5paH5Lu25ZCNLOato+WImeaKveWPlizkuI3pnaDlrZfpnaLlt6flkIgpCiAgYWx0ZXJuYXRpdmUgIOWQjOWIhuexuyArIOaPj+i/sOmHjeWPoOW6pumrmCjkupLkuLrmm7/ku6PmlrnmoYgpCgrmmI7noa7kuI3lgJ8o5LiO5a6q5rOV6Zu25L6d6LWW5Y6f5YiZ5ZCM5p6EKTrlm77mlbDmja7lupPjgIFMTE0g5Y+C5LiO5bu66L6544CB5YWo6YePIEFTVOOAgQrmr4/mrKHosIPnlKjph43lu7rlm77jgILlm77kuLogSlNPTiDmlofku7Ys6ZqP5oqA6IO95qCR6YeN5bu66ICM6YeN5bu6KOenkue6p+WFqOmHj+WNs+WPrynjgIIKIiIiCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgcmUKaW1wb3J0IHN5cwpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCgp0cnk6CiAgICBmcm9tIC50ZXh0IGltcG9ydCBvdmVybGFwX3Njb3JlCmV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgIHRyeToKICAgICAgICBmcm9tIGxpYi50ZXh0IGltcG9ydCBvdmVybGFwX3Njb3JlCiAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKICAgICAgICBmcm9tIHRleHQgaW1wb3J0IG92ZXJsYXBfc2NvcmUgICMgdHlwZTogaWdub3JlCgojIOmUmueCueaKveWPljpBU0NJSSB0b2tlbijiiaUzIOWtl+espinjgILplJrngrnmmK8i5a6e5L2TIuiAjOS4jeaYryLomZror40iLAojIOWFseS6q+mUmueCuSA9IOS4pOS4quaKgOiDveiwiOiuuuWQjOS4gOWunuS9kyjlpoLpg73mtonlj4ogZ2l0IC8gZG9jeCAvIG1jcF9fcmgtZnJvbnRlbmQp44CCCl9BTkNIT1JfUkUgPSByZS5jb21waWxlKHIiW2EtejAtOV1bYS16MC05X1wtXC5dezIsfSIpCgojIOmUmueCueWBnOeUqOivjTrku7vmhI/mioDog73mj4/ov7Dph4zpg73kvJrlh7rnjrDnmoTpq5jpopHomZror40v5aWX6K+d5Yqo6K+NLOS4jeaehOaIkCLlkIzkuIDlrp7kvZMi6K+B5o2u44CCCiMg5a6e5rWL5pWZ6K6tOuS4jea7pOaOiei/meS6m+ivjSzlhajpg6jmioDog73kvJrnu48gInN1cHBvcnRzK3NlYXJjaCIvImNyZWF0ZSthc2tzIiDov5nnsbsKIyDlpZfor53or43lr7nov57miJDkuIDkuKrlt6jnsIco55yf5a6e5qGI5L6LOjI2OCDoioLngrnlt6jnsIcp44CCCkFOQ0hPUl9TVE9QV09SRFMgPSB7CiAgICAjIOiZmuivjQogICAgInRoZSIsICJhbmQiLCAiZm9yIiwgIndpdGgiLCAiZnJvbSIsICJ0aGF0IiwgInRoaXMiLCAiYXJlIiwgIndhcyIsCiAgICAid2VyZSIsICJiZWVuIiwgIndoZW4iLCAid2hhdCIsICJ3aGljaCIsICJ3aG8iLCAiaG93IiwgIndoeSIsCiAgICAidmlhIiwgImludG8iLCAib250byIsICJvdXQiLCAiY2FuIiwgImNvdWxkIiwgIndpbGwiLCAid291bGQiLAogICAgIm5vdCIsICJhbGwiLCAiYW55IiwgIm1vcmUiLCAibW9zdCIsICJvdGhlciIsICJzb21lIiwgInN1Y2giLAogICAgIm9ubHkiLCAiYWxzbyIsICJqdXN0IiwgImxpa2UiLCAidGhhbiIsICJ0aGVuIiwgInRoZW0iLCAidGhleSIsCiAgICAieW91IiwgInlvdXIiLCAiaXRzIiwgImhhcyIsICJoYXZlIiwgImhhZCIsICJkb2VzIiwgImRpZCIsICJkb25lIiwKICAgICMg5aWX6K+d5Yqo6K+NKOaPj+i/sOmHjCLnlKjkuo4v5pSv5oyBL+W4ruWKqSLnsbspCiAgICAidXNlIiwgInVzZWQiLCAidXNlcyIsICJ1c2luZyIsICJ1c2VmdWwiLCAiaGVscCIsICJoZWxwcyIsICJoZWxwZWQiLAogICAgInN1cHBvcnQiLCAic3VwcG9ydHMiLCAic3VwcG9ydGVkIiwgIm5lZWQiLCAibmVlZHMiLCAibmVlZGVkIiwKICAgICJ3YW50IiwgIndhbnRzIiwgIndhbnRlZCIsICJhc2siLCAiYXNrcyIsICJhc2tlZCIsICJsZXQiLCAibGV0cyIsCiAgICAibWFrZSIsICJtYWtlcyIsICJtYWtpbmciLCAibWFkZSIsICJnZXQiLCAiZ2V0cyIsICJnZXR0aW5nIiwKICAgICJjcmVhdGUiLCAiY3JlYXRlcyIsICJjcmVhdGVkIiwgImNyZWF0aW5nIiwgImNyZWF0aW9uIiwKICAgICJlZGl0IiwgImVkaXRzIiwgImVkaXRlZCIsICJlZGl0aW5nIiwgIndyaXRlIiwgIndyaXRlcyIsICJ3cml0aW5nIiwKICAgICJ3cml0dGVuIiwgInJlYWQiLCAicmVhZHMiLCAicmVhZGluZyIsICJidWlsZCIsICJidWlsZHMiLCAiYnVpbGRpbmciLAogICAgImJ1aWx0IiwgIm1hbmFnZSIsICJtYW5hZ2VzIiwgIm1hbmFnZWQiLCAibWFuYWdpbmciLCAibWFuYWdlbWVudCIsCiAgICAicHJvY2VzcyIsICJwcm9jZXNzZXMiLCAicHJvY2Vzc2VkIiwgInByb2Nlc3NpbmciLAogICAgImdlbmVyYXRlIiwgImdlbmVyYXRlcyIsICJnZW5lcmF0ZWQiLCAiZ2VuZXJhdGluZyIsICJnZW5lcmF0aW9uIiwKICAgICJoYW5kbGUiLCAiaGFuZGxlcyIsICJoYW5kbGVkIiwgImhhbmRsaW5nIiwgIndvcmsiLCAid29ya3MiLCAid29ya2luZyIsCiAgICAiY29udmVydCIsICJjb252ZXJ0cyIsICJjb252ZXJ0ZWQiLCAiY29udmVydGluZyIsICJjb252ZXJzaW9uIiwKICAgICJleHRyYWN0IiwgImV4dHJhY3RzIiwgImV4dHJhY3RlZCIsICJleHRyYWN0aW5nIiwgImV4dHJhY3Rpb24iLAogICAgImluY2x1ZGUiLCAiaW5jbHVkZXMiLCAiaW5jbHVkZWQiLCAiaW5jbHVkaW5nIiwgInByb3ZpZGUiLCAicHJvdmlkZXMiLAogICAgInByb3ZpZGVkIiwgInByb3ZpZGluZyIsICJlbmFibGUiLCAiZW5hYmxlcyIsICJlbmFibGVkIiwgImFsbG93IiwKICAgICJhbGxvd3MiLCAiYWxsb3dlZCIsICJlbnN1cmUiLCAiZW5zdXJlcyIsICJhcHBseSIsICJhcHBsaWVzIiwgImFwcGxpZWQiLAogICAgInJ1biIsICJydW5zIiwgInJ1bm5pbmciLCAic2V0IiwgInNldHMiLCAic2V0dXAiLCAic3RhcnQiLCAic3RhcnRzIiwKICAgICJzdG9wIiwgImFkZCIsICJhZGRzIiwgImFkZGVkIiwgImFkZGluZyIsICJmaW5kIiwgImZpbmRzIiwgImZpbmRpbmciLAogICAgImNoZWNrIiwgImNoZWNrcyIsICJjaGVja2VkIiwgImNoZWNraW5nIiwgInRyeSIsICJ0cmllcyIsICJrZWVwIiwKICAgICJrZWVwcyIsICJ0YWtlIiwgInRha2VzIiwgInRha2VuIiwgImdpdmUiLCAiZ2l2ZXMiLCAiZ2l2ZW4iLAogICAgIyDms5vljJblkI3or40o5LiN5oyH5Luj5YW35L2T5a6e5L2TKQogICAgInRvb2wiLCAidG9vbHMiLCAic2tpbGwiLCAic2tpbGxzIiwgInBsdWdpbiIsICJwbHVnaW5zIiwgImFnZW50IiwKICAgICJhZ2VudHMiLCAidGFzayIsICJ0YXNrcyIsICJ1c2VyIiwgInVzZXJzIiwgIm1vZGVsIiwgIm1vZGVscyIsCiAgICAic3lzdGVtIiwgInN5c3RlbXMiLCAic2VydmljZSIsICJzZXJ2aWNlcyIsICJhcHAiLCAiYXBwcyIsCiAgICAiYXBwbGljYXRpb24iLCAiYXBwbGljYXRpb25zIiwgImZlYXR1cmUiLCAiZmVhdHVyZXMiLCAiZnVuY3Rpb24iLAogICAgImZ1bmN0aW9ucyIsICJ3YXkiLCAid2F5cyIsICJ0eXBlIiwgInR5cGVzIiwgImZvcm1hdCIsICJmb3JtYXRzIiwKICAgICJjb250ZW50IiwgImNvbnRlbnRzIiwgImRhdGEiLCAiaW5mb3JtYXRpb24iLCAia25vd2xlZGdlIiwgImNvbnRleHQiLAogICAgImNvbnZlcnNhdGlvbiIsICJjdXJyZW50IiwgInByb2plY3QiLCAicHJvamVjdHMiLCAiZmlsZSIsICJmaWxlcyIsCiAgICAiZm9sZGVyIiwgImZvbGRlcnMiLCAicGFnZSIsICJwYWdlcyIsICJleGFtcGxlIiwgImV4YW1wbGVzIiwKICAgICJjYXNlIiwgImNhc2VzIiwgInJlc3VsdCIsICJyZXN1bHRzIiwgIm91dHB1dCIsICJvdXRwdXRzIiwKICAgICJpbnB1dCIsICJpbnB1dHMiLCAidmFsdWUiLCAidmFsdWVzIiwgImtleSIsICJrZXlzIiwgImxpc3QiLAogICAgImxldmVsIiwgImxldmVscyIsICJwYXJ0IiwgInBhcnRzIiwgInN0ZXAiLCAic3RlcHMiLAogICAgImRldmVsb3BtZW50IiwgImd1aWRlIiwgImd1aWRlcyIsICJ0dXRvcmlhbCIsICJkZXNpZ24iLCAibmF0aXZlIiwKICAgICJhZHZhbmNlZCIsICJwcm9mZXNzaW9uYWwiLCAic2ltcGxlIiwgImVhc3kiLCAiY29tcGxleCIsICJiYXNpYyIsCiAgICAidmFyaW91cyIsICJtdWx0aXBsZSIsICJkaWZmZXJlbnQiLCAic3BlY2lmaWMiLCAicmVsYXRlZCIsICJzaW1pbGFyIiwKICAgICJiYXNlZCIsICJiYXNlIiwgIm1haW4iLCAiY29tbW9uIiwgImdlbmVyYWwiLCAiY3VzdG9tIiwgInN0YW5kYXJkIiwKICAgICJhdXRvbWF0aWNhbGx5IiwgImF1dG9tYXRpYyIsICJlZmZpY2llbnQiLCAicG93ZXJmdWwiLCAiY29tcGxldGUiLAogICAgImRpcmVjdGx5IiwgInF1aWNrbHkiLCAiZWFzaWx5IiwgInByb3Blcmx5IiwgImNvcnJlY3RseSIsICJmdWxseSIsCiAgICAib25lIiwgInR3byIsICJuZXciLCAicGVyIiwgIm5vbiIsCiAgICAjIOa0u+WKqOivjSjmjpLpmpwv5rWL6K+VL+mDqOe9suetiSLlgZrku4DkuYgiLOS4jeaYryLlr7nku4DkuYjlrp7kvZPlgZoiKQogICAgImRlYnVnIiwgImRlYnVncyIsICJkZWJ1Z2dpbmciLCAiZGVidWdnZWQiLCAiZGlhZ25vc2UiLCAiZGlhZ25vc2luZyIsCiAgICAiZGlhZ25vc2lzIiwgImRpYWdub3N0aWMiLCAiZml4IiwgImZpeGVzIiwgImZpeGVkIiwgImZpeGluZyIsCiAgICAicHJvYmxlbSIsICJwcm9ibGVtcyIsICJlcnJvciIsICJlcnJvcnMiLCAiaXNzdWUiLCAiaXNzdWVzIiwKICAgICJidWciLCAiYnVncyIsICJ0cm91Ymxlc2hvb3QiLCAidHJvdWJsZXNob290aW5nIiwKICAgICJjb25maWd1cmUiLCAiY29uZmlndXJlcyIsICJjb25maWd1cmF0aW9uIiwgImNvbmZpZyIsCiAgICAiaW5zdGFsbCIsICJpbnN0YWxscyIsICJpbnN0YWxsZWQiLCAiaW5zdGFsbGF0aW9uIiwKICAgICJkZXBsb3kiLCAiZGVwbG95cyIsICJkZXBsb3llZCIsICJkZXBsb3ltZW50IiwKICAgICJ0ZXN0IiwgInRlc3RzIiwgInRlc3RlZCIsICJ0ZXN0aW5nIiwgInJldmlldyIsICJyZXZpZXdzIiwKICAgICJvcHRpbWl6ZSIsICJvcHRpbWl6ZXMiLCAib3B0aW1pemF0aW9uIiwgImltcHJvdmUiLCAiaW1wcm92ZXMiLAogICAgIm1vbml0b3IiLCAibW9uaXRvcnMiLCAibW9uaXRvcmluZyIsICJhbmFseXplIiwgImFuYWx5emVzIiwKICAgICJhbmFseXNpcyIsICJ3b3JrZmxvdyIsICJ3b3JrZmxvd3MiLCAicGlwZWxpbmUiLCAicGlwZWxpbmVzIiwKICAgICJpbnRlZ3JhdGlvbiIsICJ0ZW1wbGF0ZSIsICJ0ZW1wbGF0ZXMiLCAiYmVzdCIsICJwcmFjdGljZXMiLAogICAgIndlZWtseSIsICJkYWlseSIsICJtb250aGx5IiwgImhvdXJseSIsICJyZXBvcnQiLCAicmVwb3J0cyIsCiAgICAjIOS4reaWh+azm+ivjQogICAgIuaUr+aMgSIsICLlt6XlhbciLCAi5oqA6IO9IiwgIuS9v+eUqCIsICLnlKjkuo4iLCAi5Y+v5LulIiwgIui/m+ihjCIsICLnm7jlhbMiLAogICAgIuWGheWuuSIsICLmlbDmja4iLCAi5paH5Lu2IiwgIueUqOaItyIsICLku7vliqEiLCAi5Yqf6IO9IiwgIuiHquWKqCIsICLluK7liqkiLAogICAgIyB2Mi4yNC4wIOihpeWFhTrntKLlvJXmj4/ov7DkuIrpmZDmlL7lrr3lkI7lrp7mtYvpqbHliqggMTIzIOiKgueCueW3qOewh+eahOWNiuWll+ivneivjQogICAgIyAo57CH5YaF5YWx546wIGd1aWRhbmNlw5cyMzYgLyByb3V0aW5nw5cxOTcgLyByZWZlcmVuY2XDlzE5MCAvIGFmdGVyw5cxNTMKICAgICMgIC8gZXhwZXJ0w5cxMzQg4oCU4oCUIOaPj+i/sOaooeadv+WPpemHjOeahOivjSzkuI3mmK8i5ZCM5LiA5a6e5L2TIueahOivgeaNrikKICAgICJndWlkYW5jZSIsICJyb3V0aW5nIiwgInJlZmVyZW5jZSIsICJyZWZlcmVuY2VzIiwgImFmdGVyIiwgImJlZm9yZSIsCiAgICAiZXhwZXJ0IiwgImV4cGVydHMiLCAiaW1wbGVtZW50aW5nIiwgImltcGxlbWVudCIsICJpbXBsZW1lbnRzIiwKICAgICJpbXBsZW1lbnRhdGlvbiIsICJzZXJ2ZXIiLCAic2VydmVycyIsICJjbGllbnQiLCAiY2xpZW50cyIsCiAgICAiYXBwbGljYXRpb24iLCAiYXBwbGljYXRpb25zIiwgInBsYXRmb3JtIiwgInBsYXRmb3JtcyIsICJmcmFtZXdvcmsiLAogICAgImZyYW1ld29ya3MiLCAidG9vbCIsICJ0b29scyIsICJzeXN0ZW0iLCAic3lzdGVtcyIsICJzZXJ2aWNlIiwKICAgICJzZXJ2aWNlcyIsICJmZWF0dXJlIiwgImZlYXR1cmVzIiwgInByb2plY3QiLCAicHJvamVjdHMiLCAidGVhbSIsCiAgICAidGVhbSdzIiwgImFnZW50IiwgImFnZW50cyIsICJtb2RlbCIsICJtb2RlbHMiLCAicHJvdmlkZXIiLAogICAgInByb3ZpZGVycyIsICJlbmRwb2ludCIsICJlbmRwb2ludHMiLCAidG9rZW4iLCAidG9rZW5zIiwgInByb21wdCIsCiAgICAicHJvbXB0cyIsICJyZXNwb25zZSIsICJyZXNwb25zZXMiLCAicmVxdWVzdCIsICJyZXF1ZXN0cyIsCiAgICAjIHYyLjI0LjAg5LqM6L2u6KGl5YWFOumUgOWUri9DUk0g5Z+f5o+P6L+w6YCa55So5ZCN6K+NKOWunua1i+mpseWKqCAxMDR+MTIzIOiKgueCuQogICAgIyDlt6jnsIfnmoTnrKzkuoznu4Tor40g4oCU4oCUIGFjY291bnTDlzg4IC8gY29tcGFuecOXNzAgLyByZWNlbnTDlzYwIOetiSwKICAgICMg5Ye6546w5Zyo5aSn6YeP5LqS5LiN55u45YWz55qE6ZSA5ZSuL+aVsOaNruaKgOiDveaPj+i/sOmHjCzkuI3mmK8i5ZCM5LiA5a6e5L2TIuivgeaNrikKICAgICJhY2NvdW50IiwgImFjY291bnRzIiwgImNvbXBhbnkiLCAiY29tcGFuaWVzIiwgImNvbnRhY3QiLCAiY29udGFjdHMiLAogICAgInJlY2VudCIsICJpZGVudGlmeSIsICJlbmdhZ2VtZW50IiwgImVuZ2FnZW1lbnRzIiwgIm5hbWUiLCAiY2FsbCIsCiAgICAiY2FsbHMiLCAiZW1haWwiLCAiZW1haWxzIiwgImN1c3RvbWVyIiwgImN1c3RvbWVycyIsICJyZXZlbnVlIiwKICAgICJkZWFsIiwgImRlYWxzIiwgIm1lZXRpbmciLCAibWVldGluZ3MiLCAiY29udmVyc2F0aW9uIiwgIm1lc3NhZ2UiLAogICAgIm1lc3NhZ2VzIiwgImRhdGEiLCAiZGF0YWJhc2UiLCAicmVjb3JkIiwgInJlY29yZHMiLCAidXBkYXRlIiwKICAgICJ1cGRhdGVzIiwgImNyZWF0ZSIsICJjcmVhdGVzIiwgImNyZWF0aW5nIiwgImNyZWF0ZWQiLCAibWFuYWdlIiwKICAgICJtYW5hZ2VzIiwgIm1hbmFnaW5nIiwgImJ1aWxkIiwgImJ1aWxkcyIsICJidWlsZGluZyIsICJidWlsdCIsCiAgICAjIHYyLjI0LjAg5LiJ6L2u6KGl5YWFOuaKgOacr+mAmueUqOivjSjlrp7mtYvkvZzkuLoi5qGl5o6l6L65IuaKiuS6kuS4jeebuOWFs+eahOeUn+aAgQogICAgIyDljbfov5vlkIzkuIDlt6jnsIcg4oCU4oCUIHNka8OXMjYvYXV0aMOXMTMvdmlkZW/DlzI1L3dlYmhvb2vDlzExIOaKiiBzY3JhcGUvCiAgICAjIHRhdmlseS9iaWxpYmlsaS9nc2Qg562J5qGl5o6l6L+bIFpvb20g55Sf5oCB57CHO+Wug+S7rOS9jumikeWIsOi6sui/hyBERiDov4fmu6QsCiAgICAjIOS9huivreS5ieS4iuaYryLku7vkvZXpm4bmiJDmj4/ov7Dpg73kvJrlhpki55qE6K+NLOS4jiBndWlkYW5jZS9yZWZlcmVuY2Ug5ZCM57G7KQogICAgInNkayIsICJzZGtzIiwgImF1dGgiLCAiYXV0aGVudGljYXRpb24iLCAib2F1dGgiLCAid2ViaG9vayIsCiAgICAid2ViaG9va3MiLCAidmlkZW8iLCAidmlkZW9zIiwgImF1ZGlvIiwgImFwaSIsICJhcGlzIiwgImNsaSIsCiAgICAianNvbiIsICJodHRwIiwgInVybCIsICJ1cmxzIiwKfQoKCmRlZiBfbm9ybWFsaXplX2FuY2hvcih0b2spOgogICAgIiIi6ZSa54K55b2S5LiA5YyWOuiLseaWh+WkjeaVsOaKmOWbnuWNleaVsChpbWFnZXPihpJpbWFnZSks6YG/5YWN5ZCM5a6e5L2T566X5Lik5Liq6ZSa54K5CgogICAg5L+d5a6I6KeE5YiZOumVv+W6puKJpTTjgIHku6XljZXkuKogcyDnu5PlsL4o6Z2eIHNzKeaJjeWJpeemu+OAggogICAgIiIiCiAgICBpZiBsZW4odG9rKSA+PSA0IGFuZCB0b2suZW5kc3dpdGgoInMiKSBhbmQgbm90IHRvay5lbmRzd2l0aCgic3MiKToKICAgICAgICByZXR1cm4gdG9rWzotMV0KICAgIHJldHVybiB0b2sKCiMgYWx0ZXJuYXRpdmUg6L655Y+C5pWwKOmYsuWbvueIhueCuDrlhajlsYDlj6rkv53nlZnmnIDlvLrnmoQgTiDmnaEpCkFMVF9NSU5fU0NPUkUgPSAwLjM1CkFMVF9NQVhfRURHRVMgPSAyMDAKCiMg5Y+C5LiO6IGa57CH55qE6L6557G75Z6LKOehruWumuaAp+e6quW+iyzlkIwgR2l0TmV4dXMg5Y+q5a+557uT5p6E6L655YGa56S+5Yy65qOA5rWLKToKIyAi5LqS5Li65pu/5LujIuS4jeS7o+ihqCLlkIzkuIDmnaHku7vliqHnur8iLGFsdGVybmF0aXZlIOi+ueWPquS+m+afpeivoi/ms6jlhaUs5LiN5ZCI5bm257CHCkNMVVNURVJfRURHRV9LSU5EUyA9IHsiY2hhaW5zX3RvIiwgImNvX2FuY2hvciJ9CgojIGNvX2FuY2hvciDplJrngrnmlofmoaPpopHnjofkuIrpmZA65LiA5Liq6ZSa54K55Ye6546w5Zyo6LaF6L+H6K+l5q+U5L6L55qE5oqA6IO96YeMLAojIOivtOaYjuWug+aYryJjcmVhdGluZy93YW50cyLov5nnsbvmj4/ov7DlpZfor53ogIzkuI3mmK/lrp7kvZMs5YmU6ZmkKOehruWumuaApyBJREYg5oCd5oOzKQpBTkNIT1JfREZfUkFUSU8gPSAwLjAzNSAgIyB2Mi4yNC4wOiAwLjA14oaSMC4wMzUs6ZSA5ZSuL0NSTSDpgJrnlKjor43lrp7mtYvku43pqbHliqggMTE2IOW3qOewhwpBTkNIT1JfREZfTUlOX0NBUCA9IDgKCiMg57CH6KeE5qih5LiK6ZmQ5Y2g6IqC54K55oC75pWw55qE5q+U5L6L77yIdjIuMzIuMO+8ieOAgumUmueCuSBERiDov4fmu6Tlj6rog73mjKHjgIzljZXkuKrlpZfor53plJrngrnjgI3vvIwKIyDmjKHkuI3kvY/jgIzlpJrot7Ppk77lvI/lkJ7lubbjgI3igJTigJTmr4/kuIDot7Ppg73lkIjms5XvvIzntK/np6/otbfmnaXlsLHmmK/kuIDkuKrlt6jnsIfjgIIKIyDlrp7mtYvvvJo3Nzgg6IqC54K5IC8g5pyA5aSn5bqmIDIw77yM5pyA5aSn57CH5LuN6L6+IDg577yIMTEuNCXvvInjgII4JSDihpIg5LiK6ZmQIDYy44CCCkNMVVNURVJfU0laRV9DQVBfUkFUSU8gPSAwLjA4CgoKZGVmIGV4dHJhY3RfYW5jaG9ycyhuYW1lLCBkZXNjcmlwdGlvbik6CiAgICAiIiLku47kuIDkuKrmioDog73nmoTlkI3np7Ar5o+P6L+w5Lit5oq95Y+W5a6e5L2T6ZSa54K56ZuG5ZCIKOehruWumuaAp+ato+WImSzpm7bkvp3otZYpCgogICAg6ZSa54K5ID0g5b2S5LiA5YyW5ZCO55qEIEFTQ0lJIHRva2VuKOWOu+WBnOeUqOivjSnjgILmioDog73lkI3mnKzouqvmjIkgLS9fLy4g5ouG5a2Q6K+NLAogICAg5L+d6K+BIGBnaXQtd29ya2Zsb3ctYW5kLXZlcnNpb25pbmdgIOeahCBnaXQg5Lmf6IO95oiQ5Li66ZSa54K544CCCiAgICAiIiIKICAgIHRleHQgPSBmIntuYW1lIG9yICcnfSB7bmFtZSBvciAnJ30ge2Rlc2NyaXB0aW9uIG9yICcnfSIubG93ZXIoKQogICAgYW5jaG9ycyA9IHNldCgpCiAgICBmb3IgdG9rIGluIF9BTkNIT1JfUkUuZmluZGFsbCh0ZXh0KToKICAgICAgICBpZiB0b2sgaW4gQU5DSE9SX1NUT1BXT1JEUzoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBhbmNob3JzLmFkZChfbm9ybWFsaXplX2FuY2hvcih0b2sucnN0cmlwKCIuXyIpKSkKICAgIHJldHVybiB7YSBmb3IgYSBpbiBhbmNob3JzIGlmIGxlbihhKSA+PSAzIGFuZCBhIG5vdCBpbiBBTkNIT1JfU1RPUFdPUkRTfQoKCmRlZiBsb2FkX3JlZ2lzdHJ5KHJlZ2lzdHJ5X3BhdGgpOgogICAgIiIi6K+7IHJlZ2lzdHJ5Lmpzb24s6L+U5ZueIHvmioDog73lkI06IOadoeebrn0757y65aSxL+aNn+Wdj+i/lOWbniB7fSIiIgogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbihyZWdpc3RyeV9wYXRoLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICByZWcgPSBqc29uLmxvYWQoZikKICAgICAgICByZXR1cm4ge3NbIm5hbWUiXTogcyBmb3IgcyBpbiByZWcuZ2V0KCJza2lsbHMiLCBbXSkgaWYgcy5nZXQoIm5hbWUiKX0KICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuIHt9CgoKZGVmIGJ1aWxkX2dyYXBoKHNraWxscywgcmVnaXN0cnlfcGF0aCk6CiAgICAiIiLku47mioDog73muIXljZUgKyByZWdpc3RyeSDmnoTlu7rmioDog73lm77osLEo56Gu5a6a5oCnLOmbtuS+nei1likKCiAgICBza2lsbHM6IFt7bmFtZSwgZGVzY3JpcHRpb24sIGNhdGVnb3JpZXMsIHF1YWxpZmllZF9uYW1lP30sIC4uLl0KICAgICAgICAgICAgKOebtOaOpeWPliBidWlsZF9za2lsbF90cmVlIOeahOagkeWGheadoeebruWNs+WPrykKICAgIOi/lOWbniB7bm9kZV9jb3VudCwgZWRnZV9jb3VudCwgZWRnZXMsIGNsdXN0ZXJzfQogICAgIiIiCiAgICByZWdpc3RyeSA9IGxvYWRfcmVnaXN0cnkocmVnaXN0cnlfcGF0aCkKICAgIG5hbWVzID0gW10KICAgIHNlZW4gPSBzZXQoKQogICAgZm9yIHMgaW4gc2tpbGxzOgogICAgICAgIG4gPSBzLmdldCgibmFtZSIpIG9yICIiCiAgICAgICAgaWYgbiBhbmQgbiBub3QgaW4gc2VlbiBhbmQgbiAhPSAibGlicyI6CiAgICAgICAgICAgIHNlZW4uYWRkKG4pCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuKQogICAgYnlfbmFtZSA9IHtzWyJuYW1lIl06IHMgZm9yIHMgaW4gc2tpbGxzIGlmIHMuZ2V0KCJuYW1lIil9CgogICAgZWRnZXMgPSBbXQogICAgZWRnZV9rZXlzID0gc2V0KCkKCiAgICBkZWYgYWRkX2VkZ2UoYSwgYiwga2luZCwgZXZpZGVuY2UpOgogICAgICAgIGlmIGEgPT0gYjoKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAga2V5ID0gKGtpbmQsIGEsIGIpCiAgICAgICAgaWYga2V5IGluIGVkZ2Vfa2V5czoKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZWRnZV9rZXlzLmFkZChrZXkpCiAgICAgICAgZWRnZXMuYXBwZW5kKHsic291cmNlIjogYSwgInRhcmdldCI6IGIsICJraW5kIjoga2luZCwgImV2aWRlbmNlIjogZXZpZGVuY2V9KQoKICAgICMgMSkgY2hhaW5zX3RvOiByZWdpc3RyeSDnmoQgb3V0cHV0IOKIqSBpbnB1dChzY2hlbWEg5pWw5o2u5bey5pyJLOWbuuWMlui/m+WbvikKICAgIGZvciBhIGluIG5hbWVzOgogICAgICAgIHNhID0gcmVnaXN0cnkuZ2V0KGEpCiAgICAgICAgaWYgbm90IHNhIG9yIG5vdCBzYS5nZXQoIm91dHB1dF9zY2hlbWEiKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBvdXRfYSA9IHNldChzYVsib3V0cHV0X3NjaGVtYSJdKQogICAgICAgIGZvciBiIGluIG5hbWVzOgogICAgICAgICAgICBpZiBhID09IGI6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBzYiA9IHJlZ2lzdHJ5LmdldChiKQogICAgICAgICAgICBpZiBub3Qgc2Igb3Igbm90IHNiLmdldCgiaW5wdXRfc2NoZW1hIik6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBzaGFyZWQgPSBzb3J0ZWQob3V0X2EgJiBzZXQoc2JbImlucHV0X3NjaGVtYSJdKSkKICAgICAgICAgICAgaWYgc2hhcmVkOgogICAgICAgICAgICAgICAgYWRkX2VkZ2UoYSwgYiwgImNoYWluc190byIsICLovpPlh7rihpLovpPlhaU6ICIgKyAiLyIuam9pbihzaGFyZWRbOjRdKSkKCiAgICAjIDIpIGNvX2FuY2hvcjog5YWx5Lqr5a6e5L2T6ZSa54K5CiAgICAjIOWFiOWBmuaWh+aho+mikeeOh+i/h+a7pDrlh7rnjrDlnKjov4flpJrmioDog73ph4znmoTplJrngrnmmK/mj4/ov7DlpZfor50o5aaCIGNyZWF0aW5nKSwKICAgICMg5LiN5p6E5oiQIuWQjOS4gOWunuS9kyLor4Hmja4g4oCU4oCUIOWQpuWImeaJgOacieaKgOiDvee7j+Wll+ivnei/nuaIkOS4gOS4quW3qOewh+OAggogICAgIyB2Mi4yNC4wOumUmueCueaKveWPluWbuuWumueUqOaPj+i/sOWJjSAyMDAg5a2X56ymKOS4jiB2Mi4yMy4wIOW/q+eFp+WPo+W+hOS4gOiHtCnjgIIKICAgICMg57Si5byV5o+P6L+w5LiK6ZmQ5bey5LuOIDIwMCDmlL7lrr3liLAgMjAwMCjkv53op6blj5Hor43mo4DntKIpLOiLpemUmueCueS5n+eUqOWFqOaWhywKICAgICMg5q+P5oqA6IO96ZSa54K55pWw5pq05aKeIOKGkiDkuKTkuKTlhbHkuqvmpoLnjofmmrTlop4g4oaSIOWunua1i+S6p+eUnyA3NTIg6IqC54K55beo57CHLAogICAgIyDlh7vnqb8i5peg5beo57CHIue6quW+i+OAgumUmueCuSjlm77nu5PmnoQp5LiO5a2Y5YKoKOajgOe0oinogYzotKPliIbnprss5ZCE55So5ZCE55qE5Y+j5b6E44CCCiAgICBhbmNob3JfbWFwX3JhdyA9IHtuOiBleHRyYWN0X2FuY2hvcnMoCiAgICAgICAgbiwgKGJ5X25hbWVbbl0uZ2V0KCJkZXNjcmlwdGlvbiIsICIiKSBvciAiIilbOjIwMF0pCiAgICAgICAgZm9yIG4gaW4gbmFtZXN9CiAgICBkZiA9IENvdW50ZXIoKQogICAgZm9yIGFuY2hvcnMgaW4gYW5jaG9yX21hcF9yYXcudmFsdWVzKCk6CiAgICAgICAgZm9yIGEgaW4gYW5jaG9yczoKICAgICAgICAgICAgZGZbYV0gKz0gMQogICAgZGZfY2FwID0gbWF4KEFOQ0hPUl9ERl9NSU5fQ0FQLCBpbnQobGVuKG5hbWVzKSAqIEFOQ0hPUl9ERl9SQVRJTykpCiAgICBhbmNob3JfbWFwID0ge246IHthIGZvciBhIGluIGFuY2hvcnMgaWYgZGZbYV0gPD0gZGZfY2FwfQogICAgICAgICAgICAgICAgICBmb3IgbiwgYW5jaG9ycyBpbiBhbmNob3JfbWFwX3Jhdy5pdGVtcygpfQogICAgZm9yIGksIGEgaW4gZW51bWVyYXRlKG5hbWVzKToKICAgICAgICBmb3IgYiBpbiBuYW1lc1tpICsgMTpdOgogICAgICAgICAgICBzaGFyZWQgPSBhbmNob3JfbWFwW2FdICYgYW5jaG9yX21hcFtiXQogICAgICAgICAgICAjIOiHs+WwkSAyIOS4qui/h+a7pOWQjuS7jeWFseS6q+eahOmUmueCueaJjei/nui+uSjljZXplJrngrnor6/ov57njofpq5gpCiAgICAgICAgICAgIGlmIGxlbihzaGFyZWQpID49IDI6CiAgICAgICAgICAgICAgICBldiA9ICIsICIuam9pbihzb3J0ZWQoc2hhcmVkLCBrZXk9bGFtYmRhIHg6ICgtbGVuKHgpLCB4KSlbOjNdKQogICAgICAgICAgICAgICAgYWRkX2VkZ2UoKnNvcnRlZCgoYSwgYikpLCAiY29fYW5jaG9yIiwgIuWFseS6q+mUmueCuTogIiArIGV2KQoKICAgICMgMykgYWx0ZXJuYXRpdmU6IOWQjOWIhuexuyArIOaPj+i/sOmrmOmHjeWPoCjkv53nlZnlhajlsYDmnIDlvLrnmoTkuIDmibks6Ziy5Zu+54iG54K4KQogICAgYWx0X2NhbmRpZGF0ZXMgPSBbXQogICAgY2F0cyA9IHt9CiAgICBmb3IgbiBpbiBuYW1lczoKICAgICAgICBmb3IgYyBpbiBieV9uYW1lW25dLmdldCgiY2F0ZWdvcmllcyIsIFtdKToKICAgICAgICAgICAgY2F0cy5zZXRkZWZhdWx0KGMsIFtdKS5hcHBlbmQobikKICAgIHBhaXJfc2VlbiA9IHNldCgpCiAgICBmb3IgbWVtYmVycyBpbiBjYXRzLnZhbHVlcygpOgogICAgICAgIGZvciBpLCBhIGluIGVudW1lcmF0ZShtZW1iZXJzKToKICAgICAgICAgICAgZm9yIGIgaW4gbWVtYmVyc1tpICsgMTpdOgogICAgICAgICAgICAgICAgcGFpciA9IHR1cGxlKHNvcnRlZCgoYSwgYikpKQogICAgICAgICAgICAgICAgaWYgcGFpciBpbiBwYWlyX3NlZW46CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIHBhaXJfc2Vlbi5hZGQocGFpcikKICAgICAgICAgICAgICAgIHNjID0gb3ZlcmxhcF9zY29yZShieV9uYW1lW2FdLmdldCgiZGVzY3JpcHRpb24iLCAiIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnlfbmFtZVtiXS5nZXQoImRlc2NyaXB0aW9uIiwgIiIpKQogICAgICAgICAgICAgICAgaWYgc2MgPj0gQUxUX01JTl9TQ09SRToKICAgICAgICAgICAgICAgICAgICBhbHRfY2FuZGlkYXRlcy5hcHBlbmQoKHNjLCBwYWlyKSkKICAgIGFsdF9jYW5kaWRhdGVzLnNvcnQoa2V5PWxhbWJkYSB4OiAoLXhbMF0sIHhbMV0pKQogICAgZm9yIHNjLCAoYSwgYikgaW4gYWx0X2NhbmRpZGF0ZXNbOkFMVF9NQVhfRURHRVNdOgogICAgICAgIGFkZF9lZGdlKGEsIGIsICJhbHRlcm5hdGl2ZSIsIGYi5ZCM5YiG57G75pu/5Luj5pa55qGIKOaPj+i/sOmHjeWPoCB7c2M6LjJmfSkiKQoKICAgICMgNCkg6IGa57G7OuehruWumuaAp+agh+etvuS8oOaSrSjpm7bkvp3otZbnpL7ljLrmo4DmtYss5YCf6Ym0IEdpdE5leHVzIOeahOiBmuexu+aAneaDsykKICAgICMg5LiN55So6L+e6YCa5YiG6YePOui3qOWfn+ahpeaOpeaKgOiDvSjlkIzml7bmj5AgZ2l0aHViIOWSjCBleGNlbCnkvJrmiorkuKTkuKrln5/lubbmiJDlt6jnsIfjgIIKICAgICMg5qCH562+5Lyg5pKt6K6p56ig5a+G6L+e6YCa5Yy65Z+f5ZCE6Ieq5pS25pWb5Yiw6Ieq5bex55qE5qCH562+LOahpeaOpeaKgOiDveW9kuWkmuaVsOa0vuS4gOS+pywKICAgICMg5byx6L+e5o6l55qE5Yy65Z+f5Y2z5L2/5Zu+6K666L+e6YCa5Lmf5L+d5oyB5YiG56a744CCCiAgICBhZGpfcyA9IHt9CiAgICBmb3IgZSBpbiBlZGdlczoKICAgICAgICBpZiBlWyJraW5kIl0gbm90IGluIENMVVNURVJfRURHRV9LSU5EUzoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBhZGpfcy5zZXRkZWZhdWx0KGVbInNvdXJjZSJdLCBbXSkuYXBwZW5kKGVbInRhcmdldCJdKQogICAgICAgIGFkal9zLnNldGRlZmF1bHQoZVsidGFyZ2V0Il0sIFtdKS5hcHBlbmQoZVsic291cmNlIl0pCiAgICBsYWJlbHMgPSB7bjogbiBmb3IgbiBpbiBuYW1lc30KICAgIHNpemVzID0gQ291bnRlcihsYWJlbHMudmFsdWVzKCkpICAjIOWQhOagh+etvuW9k+WJjeS6uuaVsO+8iOWinumHj+e7tOaKpO+8iQogICAgIyBwb255dGFpbDog57CH6KeE5qih5LiK6ZmQID0g6IqC54K55pWwIMOXIDgl44CC5qCH562+5Lyg5pKt55qE57uP5YW45aSx6LSl5piv44CM6ZO+5byP5ZCe5bm244CN4oCU4oCUCiAgICAjIOS4reS9juW6puiKgueCuemAmui/h+WFseS6q+mUmueCueS4gOi3s+S4gOi3s+aKiuS4pOS4quS4jeebuOW5sumihuWfn+S4suaIkOS4gOewh++8jOavj+S4gOi3s+mDveWQiOazle+8jAogICAgIyDplJrngrkgREYg6L+H5ruk5oyh5LiN5L2P44CCdjIuMzIuMCDlrp7mtYvvvJo3Nzgg6IqC54K55pe25pyA5aSn57CHIDg577yI5Y2gIDExLjQl77yM6LaFIDgwIOmXqOemge+8ie+8jAogICAgIyDkvYblhajlm77mnIDlpKfluqbku4UgMjAg4oCU4oCUIOayoeacieWNleeCueaeoue6ve+8jOe6r+eyueaYr+mTvuW8j+aJqeW8oOOAguaVheWcqCoq6YeH57qz5pe2KirpmZDliLbnu4Top4TmqKHjgIIKICAgICMg5LiK6ZmQ6L+H5bCPIOKGkiDnsIfnoo7vvJvov4flpKcg4oaSIOW3qOewh+OAguWunua1iyA4JSDnu5nlh7ogfjYyIOS4iumZkOOAgeewh+eykuW6puS4jiB2Mi4yNC4wIOebuOW9k+OAggogICAgY2FwID0gbWF4KDEyLCBpbnQobGVuKG5hbWVzKSAqIENMVVNURVJfU0laRV9DQVBfUkFUSU8pKQogICAgZm9yIF8gaW4gcmFuZ2UoMjApOiAgIyDlm7rlrprova7mlbDkuIrpmZAs5L+d6K+B57uI5q2iCiAgICAgICAgY2hhbmdlZCA9IEZhbHNlCiAgICAgICAgZm9yIG4gaW4gbmFtZXM6ICAjIOaOkuW6j+mBjeWOhiArIOW5s+elqOWPluWtl+WFuOW6j+acgOWwjyDihpIg5a6M5YWo56Gu5a6a5oCnCiAgICAgICAgICAgIG5icl9sYWJlbHMgPSBbbGFiZWxzW21dIGZvciBtIGluIGFkal9zLmdldChuLCBbXSldCiAgICAgICAgICAgIGlmIG5vdCBuYnJfbGFiZWxzOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgY250ID0gQ291bnRlcihuYnJfbGFiZWxzKQogICAgICAgICAgICB0b3AgPSBtYXgoY250LnZhbHVlcygpKQogICAgICAgICAgICBmb3IgY2FuZCBpbiBzb3J0ZWQobCBmb3IgbCwgYyBpbiBjbnQuaXRlbXMoKSBpZiBjID09IHRvcCk6CiAgICAgICAgICAgICAgICBpZiBjYW5kID09IGxhYmVsc1tuXToKICAgICAgICAgICAgICAgICAgICBicmVhayAgIyDlt7LmmK/lpJrmlbDmtL4s5LiN5YqoCiAgICAgICAgICAgICAgICBpZiBzaXplc1tjYW5kXSA+PSBjYXA6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUgICMg6K+l57CH5bey5ruhLOaNouS4i+S4gOS4quW5s+elqOWAmemAiQogICAgICAgICAgICAgICAgc2l6ZXNbbGFiZWxzW25dXSAtPSAxCiAgICAgICAgICAgICAgICBzaXplc1tjYW5kXSArPSAxCiAgICAgICAgICAgICAgICBsYWJlbHNbbl0gPSBjYW5kCiAgICAgICAgICAgICAgICBjaGFuZ2VkID0gVHJ1ZQogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICBpZiBub3QgY2hhbmdlZDoKICAgICAgICAgICAgYnJlYWsKICAgIGdyb3VwcyA9IHt9CiAgICBmb3IgbiBpbiBuYW1lczoKICAgICAgICBncm91cHMuc2V0ZGVmYXVsdChsYWJlbHNbbl0sIFtdKS5hcHBlbmQobikKCiAgICBjbHVzdGVycyA9IHt9CiAgICB1c2VkX2xhYmVscyA9IHNldCgpCiAgICBmb3Igcm9vdCwgbWVtYmVycyBpbiBzb3J0ZWQoZ3JvdXBzLml0ZW1zKCkpOgogICAgICAgIGlmIGxlbihtZW1iZXJzKSA8IDI6CiAgICAgICAgICAgIGNvbnRpbnVlICAjIOWtpOeri+iKgueCueS4jeWFpeewhwogICAgICAgICMg57CH5qCH562+OuaIkOWRmOe7j+aWh+aho+mikeeOh+i/h+a7pOWQjueahOmUmueCuemHjOacgOmrmOmikeeahCjlpZfor53lt7Looqvmu6TmjokpCiAgICAgICAgdG9rZW5zID0gQ291bnRlcigpCiAgICAgICAgZm9yIG0gaW4gbWVtYmVyczoKICAgICAgICAgICAgZm9yIHRvayBpbiBhbmNob3JfbWFwLmdldChtLCBzZXQoKSk6CiAgICAgICAgICAgICAgICBpZiBsZW4odG9rKSA+PSA0OgogICAgICAgICAgICAgICAgICAgIHRva2Vuc1t0b2tdICs9IDEKICAgICAgICBsYWJlbCA9IHRva2Vucy5tb3N0X2NvbW1vbigxKVswXVswXSBpZiB0b2tlbnMgZWxzZSByb290CiAgICAgICAgYmFzZV9sYWJlbCA9IGxhYmVsCiAgICAgICAgayA9IDIKICAgICAgICB3aGlsZSBsYWJlbCBpbiB1c2VkX2xhYmVsczoKICAgICAgICAgICAgbGFiZWwgPSBmIntiYXNlX2xhYmVsfS17a30iCiAgICAgICAgICAgIGsgKz0gMQogICAgICAgIHVzZWRfbGFiZWxzLmFkZChsYWJlbCkKICAgICAgICBjbHVzdGVyc1tsYWJlbF0gPSB7Im1lbWJlcnMiOiBzb3J0ZWQobWVtYmVycyksICJzaXplIjogbGVuKG1lbWJlcnMpfQoKICAgIHJldHVybiB7CiAgICAgICAgIm5vZGVfY291bnQiOiBsZW4obmFtZXMpLAogICAgICAgICJlZGdlX2NvdW50IjogbGVuKGVkZ2VzKSwKICAgICAgICAiZWRnZXMiOiBlZGdlcywKICAgICAgICAiY2x1c3RlcnMiOiBjbHVzdGVycywKICAgIH0KCgpkZWYgbG9hZF9ncmFwaChncmFwaF9wYXRoKToKICAgICIiIuivuyBza2lsbF9ncmFwaC5qc29uO+e8uuWksS/mjZ/lnY/ov5Tlm54ge30oZmFpbC1vcGVuLOWbvue8uuWkseS4jemYu+aWreS7u+S9lemTvui3rykiIiIKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oZ3JhcGhfcGF0aCwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgZyA9IGpzb24ubG9hZChmKQogICAgICAgIGlmIGlzaW5zdGFuY2UoZywgZGljdCkgYW5kIGcuZ2V0KCJlZGdlcyIpIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gZwogICAgICAgIHJldHVybiB7fQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4ge30KCgpkZWYgYWRqYWNlbmN5KGdyYXBoLCBraW5kcz1Ob25lKToKICAgICIiIuS7jui+ueihqOaehOW7uumCu+aOpeihqCB75oqA6IO9OiBbKOmCu+WxhSwga2luZCwgZXZpZGVuY2UpLCAuLi5dfSjlj4zlkJEpCgogICAga2luZHM6IOWPquS/neeVmeaMh+Wumui+ueexu+WeiyjnvLrnnIHlhajpg6gp44CC6Zeo56aB6L+e6YCa5oCn5Yik5pat5Y+q5bqU5L2/55So57uT5p6E6L65CiAgICAoQ0xVU1RFUl9FREdFX0tJTkRTKeKAlOKAlCLkupLkuLrmm7/ku6Mi5LiN5p6E5oiQ5Lu75Yqh57q/6L+e6YCa55qE5Yet6K+B44CCCiAgICAiIiIKICAgIGFkaiA9IHt9CiAgICBmb3IgZSBpbiBncmFwaC5nZXQoImVkZ2VzIiwgW10pOgogICAgICAgIGlmIGtpbmRzIGlzIG5vdCBOb25lIGFuZCBlLmdldCgia2luZCIsICIiKSBub3QgaW4ga2luZHM6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgYSwgYiA9IGUuZ2V0KCJzb3VyY2UiLCAiIiksIGUuZ2V0KCJ0YXJnZXQiLCAiIikKICAgICAgICBhZGouc2V0ZGVmYXVsdChhLCBbXSkuYXBwZW5kKChiLCBlLmdldCgia2luZCIsICIiKSwgZS5nZXQoImV2aWRlbmNlIiwgIiIpKSkKICAgICAgICBhZGouc2V0ZGVmYXVsdChiLCBbXSkuYXBwZW5kKChhLCBlLmdldCgia2luZCIsICIiKSwgZS5nZXQoImV2aWRlbmNlIiwgIiIpKSkKICAgIHJldHVybiBhZGoKCgpkZWYgY2x1c3Rlcl9vZihncmFwaCwgc2tpbGxfbmFtZSk6CiAgICAiIiLmioDog73miYDlnKjnsIfmoIfnrb475LiN5Zyo5Lu75L2V57CH6L+U5ZueIE5vbmUiIiIKICAgIGZvciBsYWJlbCwgYyBpbiBncmFwaC5nZXQoImNsdXN0ZXJzIiwge30pLml0ZW1zKCk6CiAgICAgICAgaWYgc2tpbGxfbmFtZSBpbiBjLmdldCgibWVtYmVycyIsIFtdKToKICAgICAgICAgICAgcmV0dXJuIGxhYmVsCiAgICByZXR1cm4gTm9uZQoKCmRlZiBncmFwaF9leHBhbmQoZ3JhcGgsIGFuY2hvcl9za2lsbHMsIG1heF9uZWlnaGJvcnM9OCk6CiAgICAiIiLku47plJrngrnmioDog70o5oyJ55u45YWz5bqm5o6S5bqPKeaJqeWxleWHuuWbvuiwseebuOWFs+aKgOiDvTrlkIznsIfmiJDlkZggKyDkuIDot7PpgrvlsYUKCiAgICDova7ovazloavlhYU65q+P6L2u5q+P5Liq6ZSa54K55pyA5aSa6LSh54yuIDIg5Liq5YCZ6YCJLOWGjeaUvuWuvSDigJTigJQg6Ziy5q2i5o6S5ZCN6Z2g5YmN55qECiAgICDplJrngrnmiYDlnKjlpKfnsIflkIPlhYnmlbTkuKogdG9rZW4g6aKE566XLOS/neivgeWAmemAiei3qOmUmueCueWkmuagt+WMluOAggogICAg6L+U5ZueIFt7bmFtZSwgdmlhKOmUmueCueWQjSksIGtpbmQsIGV2aWRlbmNlLCBjbHVzdGVyfV0s5Y676YeN44CB5o6S6Zmk6ZSa54K56Ieq6Lqr44CCCiAgICAiIiIKICAgIGlmIG5vdCBncmFwaCBvciBub3QgYW5jaG9yX3NraWxsczoKICAgICAgICByZXR1cm4gW10KICAgIGFkaiA9IGFkamFjZW5jeShncmFwaCkKICAgIGFuY2hvcnMgPSBbYSBmb3IgYSBpbiBkaWN0LmZyb21rZXlzKGFuY2hvcl9za2lsbHMpIGlmIGFdCgogICAgIyDpooTnlJ/miJDmr4/kuKrplJrngrnnmoTlgJnpgInluo/liJco5YWI5ZCM57CH4oCU4oCU5pW05p2h5Lu75Yqh57q/LOWQjuS4gOi3s+mCu+WxhSkKICAgIHNlcXMgPSBbXQogICAgZm9yIGEgaW4gYW5jaG9yczoKICAgICAgICBzZXEgPSBbXQogICAgICAgIGxhYmVsID0gY2x1c3Rlcl9vZihncmFwaCwgYSkKICAgICAgICBpZiBsYWJlbDoKICAgICAgICAgICAgZm9yIG0gaW4gZ3JhcGhbImNsdXN0ZXJzIl1bbGFiZWxdLmdldCgibWVtYmVycyIsIFtdKToKICAgICAgICAgICAgICAgIGlmIG0gIT0gYToKICAgICAgICAgICAgICAgICAgICBzZXEuYXBwZW5kKChtLCAiY2x1c3RlciIsIGYi5LiOIHthfSDlkIznsIcoe2xhYmVsfSkiLCBsYWJlbCkpCiAgICAgICAgZm9yIG5iLCBraW5kLCBldiBpbiBhZGouZ2V0KGEsIFtdKToKICAgICAgICAgICAgc2VxLmFwcGVuZCgobmIsIGtpbmQsIGV2LCBjbHVzdGVyX29mKGdyYXBoLCBuYikpKQogICAgICAgIGlmIHNlcToKICAgICAgICAgICAgc2Vxcy5hcHBlbmQoKGEsIHNlcSkpCgogICAgb3V0LCBzZWVuID0gW10sIHNldChhbmNob3JzKQogICAgaWR4ID0gWzBdICogbGVuKHNlcXMpCiAgICBwZXJfcm91bmQgPSAyCiAgICB3aGlsZSBsZW4ob3V0KSA8IG1heF9uZWlnaGJvcnM6CiAgICAgICAgcHJvZ3Jlc3NlZCA9IEZhbHNlCiAgICAgICAgZm9yIGksIChhLCBzZXEpIGluIGVudW1lcmF0ZShzZXFzKToKICAgICAgICAgICAgdGFrZW4gPSAwCiAgICAgICAgICAgIHdoaWxlIGlkeFtpXSA8IGxlbihzZXEpIGFuZCB0YWtlbiA8IHBlcl9yb3VuZCBhbmQgbGVuKG91dCkgPCBtYXhfbmVpZ2hib3JzOgogICAgICAgICAgICAgICAgbSwga2luZCwgZXYsIGNsID0gc2VxW2lkeFtpXV0KICAgICAgICAgICAgICAgIGlkeFtpXSArPSAxCiAgICAgICAgICAgICAgICBpZiBtIGluIHNlZW46CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIHNlZW4uYWRkKG0pCiAgICAgICAgICAgICAgICB0YWtlbiArPSAxCiAgICAgICAgICAgICAgICBwcm9ncmVzc2VkID0gVHJ1ZQogICAgICAgICAgICAgICAgb3V0LmFwcGVuZCh7Im5hbWUiOiBtLCAidmlhIjogYSwgImtpbmQiOiBraW5kLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImV2aWRlbmNlIjogZXYgb3Iga2luZCwgImNsdXN0ZXIiOiBjbH0pCiAgICAgICAgaWYgbm90IHByb2dyZXNzZWQ6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgcGVyX3JvdW5kID0gbWF4X25laWdoYm9ycyAgIyDnrKzkuozova7otbfkuI3pmZDmr4/plJrngrnpop3luqYs5aGr5ruh5Li65q2iCiAgICByZXR1cm4gb3V0WzptYXhfbmVpZ2hib3JzXQoKCmRlZiBub2RlX3NldChncmFwaCk6CiAgICAiIiLlh7rnjrDlnKjovrnmiJbnsIfkuK3nmoToioLngrnpm4blkIgo5a2k56uL6IqC54K55LiN5Zyo5YW25LitKSIiIgogICAgbm9kZXMgPSBzZXQoKQogICAgZm9yIGUgaW4gZ3JhcGguZ2V0KCJlZGdlcyIsIFtdKToKICAgICAgICBub2Rlcy5hZGQoZS5nZXQoInNvdXJjZSIsICIiKSkKICAgICAgICBub2Rlcy5hZGQoZS5nZXQoInRhcmdldCIsICIiKSkKICAgIGZvciBjIGluIGdyYXBoLmdldCgiY2x1c3RlcnMiLCB7fSkudmFsdWVzKCk6CiAgICAgICAgbm9kZXMudXBkYXRlKGMuZ2V0KCJtZW1iZXJzIiwgW10pKQogICAgbm9kZXMuZGlzY2FyZCgiIikKICAgIHJldHVybiBub2RlcwoKCmRlZiBncmFwaF9yZWxldmFudF9zZXQoZ3JhcGgsIGFuY2hvcl9za2lsbHMpOgogICAgIiIi6ZSa54K55oqA6IO955qE5Zu+6LCx55u45YWz6ZuG5ZCIKOmUmueCueiHqui6qyArIOWQjOewhyArIOe7k+aehOi+ueS4gOi3syks5L6b6Zeo56aB5Zu+6K+B5o2u5qCh6aqMCgogICAg5rOo5oSPOuWPqueUqOe7k+aehOi+uShjaGFpbnNfdG8vY29fYW5jaG9yKeWIpOaWrei/numAmiDigJTigJQg5LiO6IGa57CH57qq5b6L5LiA6Ie0LAogICAgYWx0ZXJuYXRpdmUg6L655LiN5YGa5pS+6KGM5Yet6K+B44CCCiAgICAiIiIKICAgIHJlbGV2YW50ID0gc2V0KGEgZm9yIGEgaW4gYW5jaG9yX3NraWxscyBpZiBhKQogICAgaWYgbm90IGdyYXBoOgogICAgICAgIHJldHVybiByZWxldmFudAogICAgYWRqID0gYWRqYWNlbmN5KGdyYXBoLCBraW5kcz1DTFVTVEVSX0VER0VfS0lORFMpCiAgICBmb3IgYSBpbiBsaXN0KHJlbGV2YW50KToKICAgICAgICBsYWJlbCA9IGNsdXN0ZXJfb2YoZ3JhcGgsIGEpCiAgICAgICAgaWYgbGFiZWw6CiAgICAgICAgICAgIHJlbGV2YW50LnVwZGF0ZShncmFwaFsiY2x1c3RlcnMiXVtsYWJlbF0uZ2V0KCJtZW1iZXJzIiwgW10pKQogICAgICAgIGZvciBuYiwgX2tpbmQsIF9ldiBpbiBhZGouZ2V0KGEsIFtdKToKICAgICAgICAgICAgcmVsZXZhbnQuYWRkKG5iKQogICAgcmV0dXJuIHJlbGV2YW50Cg==
+# -*- coding: utf-8 -*-
+"""技能图谱(v2.23.0)—— 在技能树之上叠加确定性关系图
+
+借鉴 GitNexus「预计算关系智能」:关系在索引期算好,运行时零推理。
+与代码知识图谱的映射:
+  GitNexus 的 CALLS/IMPORTS 边  → 本模块的 chains_to / co_anchor / alternative 边
+  GitNexus 的社区检测(Leiden)   → 本模块的确定性标签传播聚类(零依赖,完全可复现)
+  GitNexus 的 file:line 溯源    → 本模块每条边必带 evidence(为什么相关)
+
+三种边(全部确定性抽取,零 LLM):
+  chains_to    A 的 output_schema ∩ B 的 input_schema ≠ ∅(registry.json 已有数据,
+               此前仅 step4 临时用,现固化进图谱)——有向
+  co_anchor    共享实体锚点(同一领域词/工具名/文件名,正则抽取,不靠字面巧合)
+  alternative  同分类 + 描述重叠度高(互为替代方案)
+
+明确不借(与宪法零依赖原则同构):图数据库、LLM 参与建边、全量 AST、
+每次调用重建图。图为 JSON 文件,随技能树重建而重建(秒级全量即可)。
+"""
+import json
+import os
+import re
+import sys
+from collections import Counter
+
+try:
+    from .text import overlap_score
+except ImportError:
+    try:
+        from lib.text import overlap_score
+    except ImportError:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        from text import overlap_score  # type: ignore
+
+# 锚点抽取:ASCII token(≥3 字符)。锚点是"实体"而不是"虚词",
+# 共享锚点 = 两个技能谈论同一实体(如都涉及 git / docx / mcp__rh-frontend)。
+_ANCHOR_RE = re.compile(r"[a-z0-9][a-z0-9_\-\.]{2,}")
+
+# 锚点停用词:任意技能描述里都会出现的高频虚词/套话动词,不构成"同一实体"证据。
+# 实测教训:不滤掉这些词,全部技能会经 "supports+search"/"create+asks" 这类
+# 套话词对连成一个巨簇(真实案例:268 节点巨簇)。
+ANCHOR_STOPWORDS = {
+    # 虚词
+    "the", "and", "for", "with", "from", "that", "this", "are", "was",
+    "were", "been", "when", "what", "which", "who", "how", "why",
+    "via", "into", "onto", "out", "can", "could", "will", "would",
+    "not", "all", "any", "more", "most", "other", "some", "such",
+    "only", "also", "just", "like", "than", "then", "them", "they",
+    "you", "your", "its", "has", "have", "had", "does", "did", "done",
+    # 套话动词(描述里"用于/支持/帮助"类)
+    "use", "used", "uses", "using", "useful", "help", "helps", "helped",
+    "support", "supports", "supported", "need", "needs", "needed",
+    "want", "wants", "wanted", "ask", "asks", "asked", "let", "lets",
+    "make", "makes", "making", "made", "get", "gets", "getting",
+    "create", "creates", "created", "creating", "creation",
+    "edit", "edits", "edited", "editing", "write", "writes", "writing",
+    "written", "read", "reads", "reading", "build", "builds", "building",
+    "built", "manage", "manages", "managed", "managing", "management",
+    "process", "processes", "processed", "processing",
+    "generate", "generates", "generated", "generating", "generation",
+    "handle", "handles", "handled", "handling", "work", "works", "working",
+    "convert", "converts", "converted", "converting", "conversion",
+    "extract", "extracts", "extracted", "extracting", "extraction",
+    "include", "includes", "included", "including", "provide", "provides",
+    "provided", "providing", "enable", "enables", "enabled", "allow",
+    "allows", "allowed", "ensure", "ensures", "apply", "applies", "applied",
+    "run", "runs", "running", "set", "sets", "setup", "start", "starts",
+    "stop", "add", "adds", "added", "adding", "find", "finds", "finding",
+    "check", "checks", "checked", "checking", "try", "tries", "keep",
+    "keeps", "take", "takes", "taken", "give", "gives", "given",
+    # 泛化名词(不指代具体实体)
+    "tool", "tools", "skill", "skills", "plugin", "plugins", "agent",
+    "agents", "task", "tasks", "user", "users", "model", "models",
+    "system", "systems", "service", "services", "app", "apps",
+    "application", "applications", "feature", "features", "function",
+    "functions", "way", "ways", "type", "types", "format", "formats",
+    "content", "contents", "data", "information", "knowledge", "context",
+    "conversation", "current", "project", "projects", "file", "files",
+    "folder", "folders", "page", "pages", "example", "examples",
+    "case", "cases", "result", "results", "output", "outputs",
+    "input", "inputs", "value", "values", "key", "keys", "list",
+    "level", "levels", "part", "parts", "step", "steps",
+    "development", "guide", "guides", "tutorial", "design", "native",
+    "advanced", "professional", "simple", "easy", "complex", "basic",
+    "various", "multiple", "different", "specific", "related", "similar",
+    "based", "base", "main", "common", "general", "custom", "standard",
+    "automatically", "automatic", "efficient", "powerful", "complete",
+    "directly", "quickly", "easily", "properly", "correctly", "fully",
+    "one", "two", "new", "per", "non",
+    # 活动词(排障/测试/部署等"做什么",不是"对什么实体做")
+    "debug", "debugs", "debugging", "debugged", "diagnose", "diagnosing",
+    "diagnosis", "diagnostic", "fix", "fixes", "fixed", "fixing",
+    "problem", "problems", "error", "errors", "issue", "issues",
+    "bug", "bugs", "troubleshoot", "troubleshooting",
+    "configure", "configures", "configuration", "config",
+    "install", "installs", "installed", "installation",
+    "deploy", "deploys", "deployed", "deployment",
+    "test", "tests", "tested", "testing", "review", "reviews",
+    "optimize", "optimizes", "optimization", "improve", "improves",
+    "monitor", "monitors", "monitoring", "analyze", "analyzes",
+    "analysis", "workflow", "workflows", "pipeline", "pipelines",
+    "integration", "template", "templates", "best", "practices",
+    "weekly", "daily", "monthly", "hourly", "report", "reports",
+    # 中文泛词
+    "支持", "工具", "技能", "使用", "用于", "可以", "进行", "相关",
+    "内容", "数据", "文件", "用户", "任务", "功能", "自动", "帮助",
+    # v2.24.0 补充:索引描述上限放宽后实测驱动 123 节点巨簇的半套话词
+    # (簇内共现 guidance×236 / routing×197 / reference×190 / after×153
+    #  / expert×134 —— 描述模板句里的词,不是"同一实体"的证据)
+    "guidance", "routing", "reference", "references", "after", "before",
+    "expert", "experts", "implementing", "implement", "implements",
+    "implementation", "server", "servers", "client", "clients",
+    "application", "applications", "platform", "platforms", "framework",
+    "frameworks", "tool", "tools", "system", "systems", "service",
+    "services", "feature", "features", "project", "projects", "team",
+    "team's", "agent", "agents", "model", "models", "provider",
+    "providers", "endpoint", "endpoints", "token", "tokens", "prompt",
+    "prompts", "response", "responses", "request", "requests",
+    # v2.24.0 二轮补充:销售/CRM 域描述通用名词(实测驱动 104~123 节点
+    # 巨簇的第二组词 —— account×88 / company×70 / recent×60 等,
+    # 出现在大量互不相关的销售/数据技能描述里,不是"同一实体"证据)
+    "account", "accounts", "company", "companies", "contact", "contacts",
+    "recent", "identify", "engagement", "engagements", "name", "call",
+    "calls", "email", "emails", "customer", "customers", "revenue",
+    "deal", "deals", "meeting", "meetings", "conversation", "message",
+    "messages", "data", "database", "record", "records", "update",
+    "updates", "create", "creates", "creating", "created", "manage",
+    "manages", "managing", "build", "builds", "building", "built",
+    # v2.24.0 三轮补充:技术通用词(实测作为"桥接边"把互不相关的生态
+    # 卷进同一巨簇 —— sdk×26/auth×13/video×25/webhook×11 把 scrape/
+    # tavily/bilibili/gsd 等桥接进 Zoom 生态簇;它们低频到躲过 DF 过滤,
+    # 但语义上是"任何集成描述都会写"的词,与 guidance/reference 同类)
+    "sdk", "sdks", "auth", "authentication", "oauth", "webhook",
+    "webhooks", "video", "videos", "audio", "api", "apis", "cli",
+    "json", "http", "url", "urls",
+}
+
+
+def _normalize_anchor(tok):
+    """锚点归一化:英文复数折回单数(images→image),避免同实体算两个锚点
+
+    保守规则:长度≥4、以单个 s 结尾(非 ss)才剥离。
+    """
+    if len(tok) >= 4 and tok.endswith("s") and not tok.endswith("ss"):
+        return tok[:-1]
+    return tok
+
+# alternative 边参数(防图爆炸:全局只保留最强的 N 条)
+ALT_MIN_SCORE = 0.35
+ALT_MAX_EDGES = 200
+
+# 参与聚簇的边类型(确定性纪律,同 GitNexus 只对结构边做社区检测):
+# "互为替代"不代表"同一条任务线",alternative 边只供查询/注入,不合并簇
+CLUSTER_EDGE_KINDS = {"chains_to", "co_anchor"}
+
+# co_anchor 锚点文档频率上限:一个锚点出现在超过该比例的技能里,
+# 说明它是"creating/wants"这类描述套话而不是实体,剔除(确定性 IDF 思想)
+ANCHOR_DF_RATIO = 0.035  # v2.24.0: 0.05→0.035,销售/CRM 通用词实测仍驱动 116 巨簇
+ANCHOR_DF_MIN_CAP = 8
+
+# 簇规模上限占节点总数的比例（v2.32.0）。锚点 DF 过滤只能挡「单个套话锚点」，
+# 挡不住「多跳链式吞并」——每一跳都合法，累积起来就是一个巨簇。
+# 实测：778 节点 / 最大度 20，最大簇仍达 89（11.4%）。8% → 上限 62。
+CLUSTER_SIZE_CAP_RATIO = 0.08
+
+
+def extract_anchors(name, description):
+    """从一个技能的名称+描述中抽取实体锚点集合(确定性正则,零依赖)
+
+    锚点 = 归一化后的 ASCII token(去停用词)。技能名本身按 -/_/. 拆子词,
+    保证 `git-workflow-and-versioning` 的 git 也能成为锚点。
+    """
+    text = f"{name or ''} {name or ''} {description or ''}".lower()
+    anchors = set()
+    for tok in _ANCHOR_RE.findall(text):
+        if tok in ANCHOR_STOPWORDS:
+            continue
+        anchors.add(_normalize_anchor(tok.rstrip("._")))
+    return {a for a in anchors if len(a) >= 3 and a not in ANCHOR_STOPWORDS}
+
+
+def load_registry(registry_path):
+    """读 registry.json,返回 {技能名: 条目};缺失/损坏返回 {}"""
+    try:
+        with open(registry_path, encoding="utf-8") as f:
+            reg = json.load(f)
+        return {s["name"]: s for s in reg.get("skills", []) if s.get("name")}
+    except Exception:
+        return {}
+
+
+def build_graph(skills, registry_path):
+    """从技能清单 + registry 构建技能图谱(确定性,零依赖)
+
+    skills: [{name, description, categories, qualified_name?}, ...]
+            (直接取 build_skill_tree 的树内条目即可)
+    返回 {node_count, edge_count, edges, clusters}
+    """
+    registry = load_registry(registry_path)
+    names = []
+    seen = set()
+    for s in skills:
+        n = s.get("name") or ""
+        if n and n not in seen and n != "libs":
+            seen.add(n)
+            names.append(n)
+    by_name = {s["name"]: s for s in skills if s.get("name")}
+
+    edges = []
+    edge_keys = set()
+
+    def add_edge(a, b, kind, evidence):
+        if a == b:
+            return
+        key = (kind, a, b)
+        if key in edge_keys:
+            return
+        edge_keys.add(key)
+        edges.append({"source": a, "target": b, "kind": kind, "evidence": evidence})
+
+    # 1) chains_to: registry 的 output ∩ input(schema 数据已有,固化进图)
+    for a in names:
+        sa = registry.get(a)
+        if not sa or not sa.get("output_schema"):
+            continue
+        out_a = set(sa["output_schema"])
+        for b in names:
+            if a == b:
+                continue
+            sb = registry.get(b)
+            if not sb or not sb.get("input_schema"):
+                continue
+            shared = sorted(out_a & set(sb["input_schema"]))
+            if shared:
+                add_edge(a, b, "chains_to", "输出→输入: " + "/".join(shared[:4]))
+
+    # 2) co_anchor: 共享实体锚点
+    # 先做文档频率过滤:出现在过多技能里的锚点是描述套话(如 creating),
+    # 不构成"同一实体"证据 —— 否则所有技能经套话连成一个巨簇。
+    # v2.24.0:锚点抽取固定用描述前 200 字符(与 v2.23.0 快照口径一致)。
+    # 索引描述上限已从 200 放宽到 2000(保触发词检索),若锚点也用全文,
+    # 每技能锚点数暴增 → 两两共享概率暴增 → 实测产生 752 节点巨簇,
+    # 击穿"无巨簇"纪律。锚点(图结构)与存储(检索)职责分离,各用各的口径。
+    anchor_map_raw = {n: extract_anchors(
+        n, (by_name[n].get("description", "") or "")[:200])
+        for n in names}
+    df = Counter()
+    for anchors in anchor_map_raw.values():
+        for a in anchors:
+            df[a] += 1
+    df_cap = max(ANCHOR_DF_MIN_CAP, int(len(names) * ANCHOR_DF_RATIO))
+    anchor_map = {n: {a for a in anchors if df[a] <= df_cap}
+                  for n, anchors in anchor_map_raw.items()}
+    for i, a in enumerate(names):
+        for b in names[i + 1:]:
+            shared = anchor_map[a] & anchor_map[b]
+            # 至少 2 个过滤后仍共享的锚点才连边(单锚点误连率高)
+            if len(shared) >= 2:
+                ev = ", ".join(sorted(shared, key=lambda x: (-len(x), x))[:3])
+                add_edge(*sorted((a, b)), "co_anchor", "共享锚点: " + ev)
+
+    # 3) alternative: 同分类 + 描述高重叠(保留全局最强的一批,防图爆炸)
+    alt_candidates = []
+    cats = {}
+    for n in names:
+        for c in by_name[n].get("categories", []):
+            cats.setdefault(c, []).append(n)
+    pair_seen = set()
+    for members in cats.values():
+        for i, a in enumerate(members):
+            for b in members[i + 1:]:
+                pair = tuple(sorted((a, b)))
+                if pair in pair_seen:
+                    continue
+                pair_seen.add(pair)
+                sc = overlap_score(by_name[a].get("description", ""),
+                                   by_name[b].get("description", ""))
+                if sc >= ALT_MIN_SCORE:
+                    alt_candidates.append((sc, pair))
+    alt_candidates.sort(key=lambda x: (-x[0], x[1]))
+    for sc, (a, b) in alt_candidates[:ALT_MAX_EDGES]:
+        add_edge(a, b, "alternative", f"同分类替代方案(描述重叠 {sc:.2f})")
+
+    # 4) 聚类:确定性标签传播(零依赖社区检测,借鉴 GitNexus 的聚类思想)
+    # 不用连通分量:跨域桥接技能(同时提 github 和 excel)会把两个域并成巨簇。
+    # 标签传播让稠密连通区域各自收敛到自己的标签,桥接技能归多数派一侧,
+    # 弱连接的区域即使图论连通也保持分离。
+    adj_s = {}
+    for e in edges:
+        if e["kind"] not in CLUSTER_EDGE_KINDS:
+            continue
+        adj_s.setdefault(e["source"], []).append(e["target"])
+        adj_s.setdefault(e["target"], []).append(e["source"])
+    labels = {n: n for n in names}
+    sizes = Counter(labels.values())  # 各标签当前人数（增量维护）
+    # ponytail: 簇规模上限 = 节点数 × 8%。标签传播的经典失败是「链式吞并」——
+    # 中低度节点通过共享锚点一跳一跳把两个不相干领域串成一簇，每一跳都合法，
+    # 锚点 DF 过滤挡不住。v2.32.0 实测：778 节点时最大簇 89（占 11.4%，超 80 门禁），
+    # 但全图最大度仅 20 —— 没有单点枢纽，纯粹是链式扩张。故在**采纳时**限制组规模。
+    # 上限过小 → 簇碎；过大 → 巨簇。实测 8% 给出 ~62 上限、簇粒度与 v2.24.0 相当。
+    cap = max(12, int(len(names) * CLUSTER_SIZE_CAP_RATIO))
+    for _ in range(20):  # 固定轮数上限,保证终止
+        changed = False
+        for n in names:  # 排序遍历 + 平票取字典序最小 → 完全确定性
+            nbr_labels = [labels[m] for m in adj_s.get(n, [])]
+            if not nbr_labels:
+                continue
+            cnt = Counter(nbr_labels)
+            top = max(cnt.values())
+            for cand in sorted(l for l, c in cnt.items() if c == top):
+                if cand == labels[n]:
+                    break  # 已是多数派,不动
+                if sizes[cand] >= cap:
+                    continue  # 该簇已满,换下一个平票候选
+                sizes[labels[n]] -= 1
+                sizes[cand] += 1
+                labels[n] = cand
+                changed = True
+                break
+        if not changed:
+            break
+    groups = {}
+    for n in names:
+        groups.setdefault(labels[n], []).append(n)
+
+    clusters = {}
+    used_labels = set()
+    for root, members in sorted(groups.items()):
+        if len(members) < 2:
+            continue  # 孤立节点不入簇
+        # 簇标签:成员经文档频率过滤后的锚点里最高频的(套话已被滤掉)
+        tokens = Counter()
+        for m in members:
+            for tok in anchor_map.get(m, set()):
+                if len(tok) >= 4:
+                    tokens[tok] += 1
+        label = tokens.most_common(1)[0][0] if tokens else root
+        base_label = label
+        k = 2
+        while label in used_labels:
+            label = f"{base_label}-{k}"
+            k += 1
+        used_labels.add(label)
+        clusters[label] = {"members": sorted(members), "size": len(members)}
+
+    return {
+        "node_count": len(names),
+        "edge_count": len(edges),
+        "edges": edges,
+        "clusters": clusters,
+    }
+
+
+def load_graph(graph_path):
+    """读 skill_graph.json;缺失/损坏返回 {}(fail-open,图缺失不阻断任何链路)"""
+    try:
+        with open(graph_path, encoding="utf-8") as f:
+            g = json.load(f)
+        if isinstance(g, dict) and g.get("edges") is not None:
+            return g
+        return {}
+    except Exception:
+        return {}
+
+
+def adjacency(graph, kinds=None):
+    """从边表构建邻接表 {技能: [(邻居, kind, evidence), ...]}(双向)
+
+    kinds: 只保留指定边类型(缺省全部)。门禁连通性判断只应使用结构边
+    (CLUSTER_EDGE_KINDS)——"互为替代"不构成任务线连通的凭证。
+    """
+    adj = {}
+    for e in graph.get("edges", []):
+        if kinds is not None and e.get("kind", "") not in kinds:
+            continue
+        a, b = e.get("source", ""), e.get("target", "")
+        adj.setdefault(a, []).append((b, e.get("kind", ""), e.get("evidence", "")))
+        adj.setdefault(b, []).append((a, e.get("kind", ""), e.get("evidence", "")))
+    return adj
+
+
+def cluster_of(graph, skill_name):
+    """技能所在簇标签;不在任何簇返回 None"""
+    for label, c in graph.get("clusters", {}).items():
+        if skill_name in c.get("members", []):
+            return label
+    return None
+
+
+def graph_expand(graph, anchor_skills, max_neighbors=8):
+    """从锚点技能(按相关度排序)扩展出图谱相关技能:同簇成员 + 一跳邻居
+
+    轮转填充:每轮每个锚点最多贡献 2 个候选,再放宽 —— 防止排名靠前的
+    锚点所在大簇吃光整个 token 预算,保证候选跨锚点多样化。
+    返回 [{name, via(锚点名), kind, evidence, cluster}],去重、排除锚点自身。
+    """
+    if not graph or not anchor_skills:
+        return []
+    adj = adjacency(graph)
+    anchors = [a for a in dict.fromkeys(anchor_skills) if a]
+
+    # 预生成每个锚点的候选序列(先同簇——整条任务线,后一跳邻居)
+    seqs = []
+    for a in anchors:
+        seq = []
+        label = cluster_of(graph, a)
+        if label:
+            for m in graph["clusters"][label].get("members", []):
+                if m != a:
+                    seq.append((m, "cluster", f"与 {a} 同簇({label})", label))
+        for nb, kind, ev in adj.get(a, []):
+            seq.append((nb, kind, ev, cluster_of(graph, nb)))
+        if seq:
+            seqs.append((a, seq))
+
+    out, seen = [], set(anchors)
+    idx = [0] * len(seqs)
+    per_round = 2
+    while len(out) < max_neighbors:
+        progressed = False
+        for i, (a, seq) in enumerate(seqs):
+            taken = 0
+            while idx[i] < len(seq) and taken < per_round and len(out) < max_neighbors:
+                m, kind, ev, cl = seq[idx[i]]
+                idx[i] += 1
+                if m in seen:
+                    continue
+                seen.add(m)
+                taken += 1
+                progressed = True
+                out.append({"name": m, "via": a, "kind": kind,
+                            "evidence": ev or kind, "cluster": cl})
+        if not progressed:
+            break
+        per_round = max_neighbors  # 第二轮起不限每锚点额度,填满为止
+    return out[:max_neighbors]
+
+
+def node_set(graph):
+    """出现在边或簇中的节点集合(孤立节点不在其中)"""
+    nodes = set()
+    for e in graph.get("edges", []):
+        nodes.add(e.get("source", ""))
+        nodes.add(e.get("target", ""))
+    for c in graph.get("clusters", {}).values():
+        nodes.update(c.get("members", []))
+    nodes.discard("")
+    return nodes
+
+
+def graph_relevant_set(graph, anchor_skills):
+    """锚点技能的图谱相关集合(锚点自身 + 同簇 + 结构边一跳),供门禁图证据校验
+
+    注意:只用结构边(chains_to/co_anchor)判断连通 —— 与聚簇纪律一致,
+    alternative 边不做放行凭证。
+    """
+    relevant = set(a for a in anchor_skills if a)
+    if not graph:
+        return relevant
+    adj = adjacency(graph, kinds=CLUSTER_EDGE_KINDS)
+    for a in list(relevant):
+        label = cluster_of(graph, a)
+        if label:
+            relevant.update(graph["clusters"][label].get("members", []))
+        for nb, _kind, _ev in adj.get(a, []):
+            relevant.add(nb)
+    return relevant

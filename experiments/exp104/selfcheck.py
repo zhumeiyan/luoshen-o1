@@ -1,1 +1,53 @@
-aW1wb3J0IHN1YnByb2Nlc3MsIHJhbmRvbSwgc3RydWN0LCB6bGliLCBvcwpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpGT05UUyA9IFsiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIsCiAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93ZW5xdWFueWkvd3F5LW1pY3JvaGVpLnR0YyIsCiAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL29wZW50eXBlL25vdG8vTm90b1NhbnNDSkstUmVndWxhci50dGMiXQpmID0gTm9uZQpmb3IgcCBpbiBGT05UUzoKICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOgogICAgICAgIHRyeTogZiA9IEltYWdlRm9udC50cnVldHlwZShwLCAzNCk7IGJyZWFrCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwppZiBmIGlzIE5vbmU6IGYgPSBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKCmNvZGUgPSAiIi5qb2luKHJhbmRvbS5jaG9pY2UoIkFCQ0RFRkdISktMTU5QUVJTVFVWV1hZWjIzNDU2Nzg5IikgZm9yIF8gaW4gcmFuZ2UoNikpCnZhbHMgPSBbKCJjYW5vbiBlbnRyaWVzIiwgMzY4KSwgKCJleGVjIHJ1bGVzIiwgMTApLCAoInBsYW50ZWQgY2F1Z2h0IiwgOSksCiAgICAgICAgKCJwbGFudGVkIHRvdGFsIiwgMTApLCAoImNsZWFuIGJsb2NrZXIiLCAwKSwgKCJjbGVhbiB3YXJuIiwgMCksCiAgICAgICAgKCJhY3Rpb25hYmxlIiwgMTQ0KSwgKCJ0aWVyMSB1c2QiLCAyOSksICgidGllcjIgdXNkIiwgOTkpLCAoInRpZXIzIHVzZCIsIDQ5OSldCgpXLCBIID0gMTAyNCwgNzY4CmltZyA9IEltYWdlLm5ldygiUkdCIiwgKFcsIEgpLCAid2hpdGUiKQpkID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQpkLnRleHQoKDQwLCAzMCksIGYiZXZhbGd1YXJkIHNlbGZjaGVjayAgIGNvZGUge2NvZGV9IiwgZm9udD1mLCBmaWxsPSJibGFjayIpCnkgPSAxMDAKZm9yIGssIHYgaW4gdmFsczoKICAgIGQudGV4dCgoNDAsIHkpLCBmIntrOjE2c30ge3Z9IiwgZm9udD1mLCBmaWxsPSJibGFjayIpOyB5ICs9IDUyCmQudGV4dCgoNDAsIHkrMjApLCAicmVuZGVyIC0+IC9kZXYvZmIwIC0+IGNhcHR1cmUgLT4gT0NSIiwgZm9udD1mLCBmaWxsPSJibGFjayIpCmltZy5zYXZlKCJleHBlcmltZW50cy9leHAxMDQvcmVuZGVyZWQucG5nIikKCiMg5YaZ5bin57yT5Yay77yIMzJicHAgQkdSQe+8iQpyYXcgPSBpbWcudG9ieXRlcygpCmJncmEgPSBieXRlYXJyYXkoKQpmb3IgaSBpbiByYW5nZSgwLCBsZW4ocmF3KSwgMyk6CiAgICByLCBnLCBiID0gcmF3W2ldLCByYXdbaSsxXSwgcmF3W2krMl0KICAgIGJncmEgKz0gYnl0ZXMoW2IsIGcsIHIsIDI1NV0pCmZiID0gb3BlbigiL2Rldi9mYjAiLCAid2IiKQp0cnk6CiAgICBmYi53cml0ZShieXRlcyhiZ3JhKSk7IGZiLmZsdXNoKCkKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcHJpbnQoImZiIHdyaXRlOiIsIGUpCmZiLmNsb3NlKCkKCiMg6YeH6ZuGCnN1YnByb2Nlc3MucnVuKFsicHl0aG9uMyIsICItYyIsICIiIgppbXBvcnQgc3lzCmRhdGEgPSBvcGVuKCcvZGV2L2ZiMCcsJ3JiJykucmVhZCgxMDI0Kjc2OCo0KQpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKaW0gPSBJbWFnZS5mcm9tYnl0ZXMoJ1JHQicsICgxMDI0LDc2OCksIGRhdGEsICdyYXcnLCAnQkdSWCcsIDAsIDEpCmltLnNhdmUoJ2V4cGVyaW1lbnRzL2V4cDEwNC9jYXB0dXJlZC5wbmcnKQpwcmludCgnY2FwdHVyZWQgYnl0ZXMnLCBsZW4oZGF0YSkpCiIiIl0sIGNoZWNrPUZhbHNlKQoKcHJpbnQoIkNPREUiLCBjb2RlKQpwcmludCgiRVhQRUNUIiwgdmFscykK
+import subprocess, random, struct, zlib, os
+from PIL import Image, ImageDraw, ImageFont
+
+FONTS = ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+         "/usr/share/fonts/truetype/wqy/wenquanyi/wqy-microhei.ttc",
+         "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc"]
+f = None
+for p in FONTS:
+    if os.path.exists(p):
+        try: f = ImageFont.truetype(p, 34); break
+        except Exception: pass
+if f is None: f = ImageFont.load_default()
+
+code = "".join(random.choice("ABCDEFGHJKLMNPQRSTUVWXYZ23456789") for _ in range(6))
+vals = [("canon entries", 368), ("exec rules", 10), ("planted caught", 9),
+        ("planted total", 10), ("clean blocker", 0), ("clean warn", 0),
+        ("actionable", 144), ("tier1 usd", 29), ("tier2 usd", 99), ("tier3 usd", 499)]
+
+W, H = 1024, 768
+img = Image.new("RGB", (W, H), "white")
+d = ImageDraw.Draw(img)
+d.text((40, 30), f"evalguard selfcheck   code {code}", font=f, fill="black")
+y = 100
+for k, v in vals:
+    d.text((40, y), f"{k:16s} {v}", font=f, fill="black"); y += 52
+d.text((40, y+20), "render -> /dev/fb0 -> capture -> OCR", font=f, fill="black")
+img.save("experiments/exp104/rendered.png")
+
+# 写帧缓冲（32bpp BGRA）
+raw = img.tobytes()
+bgra = bytearray()
+for i in range(0, len(raw), 3):
+    r, g, b = raw[i], raw[i+1], raw[i+2]
+    bgra += bytes([b, g, r, 255])
+fb = open("/dev/fb0", "wb")
+try:
+    fb.write(bytes(bgra)); fb.flush()
+except Exception as e:
+    print("fb write:", e)
+fb.close()
+
+# 采集
+subprocess.run(["python3", "-c", """
+import sys
+data = open('/dev/fb0','rb').read(1024*768*4)
+from PIL import Image
+im = Image.frombytes('RGB', (1024,768), data, 'raw', 'BGRX', 0, 1)
+im.save('experiments/exp104/captured.png')
+print('captured bytes', len(data))
+"""], check=False)
+
+print("CODE", code)
+print("EXPECT", vals)

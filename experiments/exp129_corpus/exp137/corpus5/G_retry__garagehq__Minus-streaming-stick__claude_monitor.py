@@ -1,1 +1,466 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKQ2xhdWRlIE1vbml0b3IgLSBJbnRlbGxpZ2VudCBhdXRvbm9tb3VzIG1vZGUgbW9uaXRvcmluZyBhbmQgaW50ZXJ2ZW50aW9uLgoKVGhpcyBzY3JpcHQgaXMgZGVzaWduZWQgdG8gYmUgcnVuIHBlcmlvZGljYWxseSAoZXZlcnkgNSBtaW51dGVzKSBieSBDbGF1ZGUKdG8gY2hlY2sgb24gYXV0b25vbW91cyBtb2RlIGhlYWx0aCBhbmQgdGFrZSBjb3JyZWN0aXZlIGFjdGlvbiB3aGVuIHN0dWNrLgoKS2V5IGZlYXR1cmVzOgotIE11bHRpLXNpZ25hbCBzdGF0ZSBkZXRlY3Rpb24gKE9DUiwgVkxNLCBhdWRpbywgZnJhbWUgY2hhbmdlKQotIFNtYXJ0IHJlY292ZXJ5IHdpdGggZXNjYWxhdGlvbiAoYXZvaWRzIHJlcGVhdGluZyBmYWlsZWQgc3RyYXRlZ2llcykKLSBTeXN0ZW0gaGVhbHRoIG1vbml0b3JpbmcgKG1lbW9yeSwgQ1BVLCBGRCBjb3VudCkKLSBEZXRhaWxlZCBsb2dnaW5nIGZvciBDbGF1ZGUgdG8gdW5kZXJzdGFuZCB3aGF0J3MgaGFwcGVuaW5nCiIiIgoKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKaW1wb3J0IHRpbWUKaW1wb3J0IGhhc2hsaWIKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgojIFN0YXRlIGZpbGUgZm9yIHRyYWNraW5nIHJlY292ZXJ5IGF0dGVtcHRzClNUQVRFX0ZJTEUgPSBQYXRoKCIvdG1wL2NsYXVkZV9tb25pdG9yX3N0YXRlLmpzb24iKQpMT0dfRklMRSA9IFBhdGgoIi90bXAvY2xhdWRlX21vbml0b3IubG9nIikKCmRlZiBsb2cobXNnLCBsZXZlbD0iSU5GTyIpOgogICAgIiIiTG9nIHdpdGggdGltZXN0YW1wLiIiIgogICAgdHMgPSBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJUg6JU06JVMiKQogICAgbGluZSA9IGYiW3t0c31dIFt7bGV2ZWx9XSB7bXNnfSIKICAgIHByaW50KGxpbmUpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKExPR19GSUxFLCAiYSIpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUobGluZSArICJcbiIpCiAgICBleGNlcHQ6CiAgICAgICAgcGFzcwoKZGVmIGFwaV9nZXQoZW5kcG9pbnQpOgogICAgIiIiR0VUIGZyb20gTWludXMgQVBJLiIiIgogICAgdHJ5OgogICAgICAgIHIgPSBzdWJwcm9jZXNzLnJ1bigKICAgICAgICAgICAgWyJjdXJsIiwgIi1zIiwgIi1tIiwgIjEwIiwgZiJodHRwOi8vbG9jYWxob3N0e2VuZHBvaW50fSJdLAogICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUsIHRpbWVvdXQ9MTUKICAgICAgICApCiAgICAgICAgaWYgci5yZXR1cm5jb2RlID09IDAgYW5kIHIuc3Rkb3V0OgogICAgICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhyLnN0ZG91dCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBsb2coZiJBUEkgR0VUIHtlbmRwb2ludH0gZmFpbGVkOiB7ZX0iLCAiRVJST1IiKQogICAgcmV0dXJuIE5vbmUKCmRlZiBhcGlfcG9zdChlbmRwb2ludCwgZGF0YT1Ob25lKToKICAgICIiIlBPU1QgdG8gTWludXMgQVBJLiIiIgogICAgdHJ5OgogICAgICAgIGNtZCA9IFsiY3VybCIsICItcyIsICItbSIsICIxMCIsICItWCIsICJQT1NUIiwgZiJodHRwOi8vbG9jYWxob3N0e2VuZHBvaW50fSJdCiAgICAgICAgaWYgZGF0YToKICAgICAgICAgICAgY21kLmV4dGVuZChbIi1IIiwgIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiIsICItZCIsIGpzb24uZHVtcHMoZGF0YSldKQogICAgICAgIHIgPSBzdWJwcm9jZXNzLnJ1bihjbWQsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgdGltZW91dD0xNSkKICAgICAgICBpZiByLnJldHVybmNvZGUgPT0gMCBhbmQgci5zdGRvdXQ6CiAgICAgICAgICAgIHJldHVybiBqc29uLmxvYWRzKHIuc3Rkb3V0KQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIGxvZyhmIkFQSSBQT1NUIHtlbmRwb2ludH0gZmFpbGVkOiB7ZX0iLCAiRVJST1IiKQogICAgcmV0dXJuIE5vbmUKCmRlZiByb2t1X2FwaShlbmRwb2ludCk6CiAgICAiIiJHRVQgZnJvbSBSb2t1IEVDUCBBUEkuIiIiCiAgICB0cnk6CiAgICAgICAgc3RhdHVzID0gYXBpX2dldCgiL2FwaS9yb2t1L3N0YXR1cyIpCiAgICAgICAgaWYgbm90IHN0YXR1cyBvciBub3Qgc3RhdHVzLmdldCgiY29ubmVjdGVkIik6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgaXAgPSBzdGF0dXMuZ2V0KCJkZXZpY2VfaW5mbyIsIHt9KS5nZXQoImlwIikKICAgICAgICBpZiBub3QgaXA6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgciA9IHN1YnByb2Nlc3MucnVuKAogICAgICAgICAgICBbImN1cmwiLCAiLXMiLCAiLW0iLCAiNSIsIGYiaHR0cDovL3tpcH06ODA2MHtlbmRwb2ludH0iXSwKICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTEwCiAgICAgICAgKQogICAgICAgIGlmIHIucmV0dXJuY29kZSA9PSAwOgogICAgICAgICAgICByZXR1cm4gci5zdGRvdXQKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBsb2coZiJSb2t1IEFQSSB7ZW5kcG9pbnR9IGZhaWxlZDoge2V9IiwgIkVSUk9SIikKICAgIHJldHVybiBOb25lCgpkZWYgc2VuZF9yb2t1X2NvbW1hbmQoY21kKToKICAgICIiIlNlbmQgY29tbWFuZCB0byBSb2t1LiIiIgogICAgdHJ5OgogICAgICAgIHJlc3VsdCA9IGFwaV9wb3N0KCIvYXBpL3Jva3UvY29tbWFuZCIsIHsiY29tbWFuZCI6IGNtZH0pCiAgICAgICAgcmV0dXJuIHJlc3VsdCBhbmQgcmVzdWx0LmdldCgic3VjY2VzcyIsIEZhbHNlKQogICAgZXhjZXB0OgogICAgICAgIHJldHVybiBGYWxzZQoKZGVmIGdldF9hdWRpb19zdGF0dXMoKToKICAgICIiIkNoZWNrIGlmIGF1ZGlvIGlzIGZsb3dpbmcuIiIiCiAgICB0cnk6CiAgICAgICAgIyBDaGVjayBBTFNBIGNhcHR1cmUgc3RhdHVzCiAgICAgICAgY2FwdHVyZSA9IHN1YnByb2Nlc3MucnVuKAogICAgICAgICAgICBbImNhdCIsICIvcHJvYy9hc291bmQvY2FyZDQvcGNtMGMvc3ViMC9zdGF0dXMiXSwKICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTUKICAgICAgICApCiAgICAgICAgY2FwdHVyZV9ydW5uaW5nID0gIlJVTk5JTkciIGluIGNhcHR1cmUuc3Rkb3V0CgogICAgICAgICMgQ2hlY2sgQUxTQSBwbGF5YmFjayBzdGF0dXMKICAgICAgICBwbGF5YmFjayA9IHN1YnByb2Nlc3MucnVuKAogICAgICAgICAgICBbImNhdCIsICIvcHJvYy9hc291bmQvY2FyZDAvcGNtMHAvc3ViMC9zdGF0dXMiXSwKICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTUKICAgICAgICApCiAgICAgICAgcGxheWJhY2tfcnVubmluZyA9ICJSVU5OSU5HIiBpbiBwbGF5YmFjay5zdGRvdXQKCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgImNhcHR1cmUiOiBjYXB0dXJlX3J1bm5pbmcsCiAgICAgICAgICAgICJwbGF5YmFjayI6IHBsYXliYWNrX3J1bm5pbmcsCiAgICAgICAgICAgICJmbG93aW5nIjogY2FwdHVyZV9ydW5uaW5nICAjIENhcHR1cmUgaXMgdGhlIGtleSBpbmRpY2F0b3IKICAgICAgICB9CiAgICBleGNlcHQ6CiAgICAgICAgcmV0dXJuIHsiY2FwdHVyZSI6IEZhbHNlLCAicGxheWJhY2siOiBGYWxzZSwgImZsb3dpbmciOiBGYWxzZX0KCmRlZiBnZXRfZnJhbWVfaGFzaCgpOgogICAgIiIiR2V0IGhhc2ggb2YgY3VycmVudCBmcmFtZSBmb3IgY2hhbmdlIGRldGVjdGlvbi4iIiIKICAgIHRyeToKICAgICAgICByID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgIFsiY3VybCIsICItcyIsICItbSIsICI1IiwgImh0dHA6Ly9sb2NhbGhvc3Q6OTA5MC9zbmFwc2hvdCIsICItbyIsICIvdG1wL2ZyYW1lX2NoZWNrLmpwZyJdLAogICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0aW1lb3V0PTEwCiAgICAgICAgKQogICAgICAgIGlmIHIucmV0dXJuY29kZSA9PSAwIGFuZCBvcy5wYXRoLmV4aXN0cygiL3RtcC9mcmFtZV9jaGVjay5qcGciKToKICAgICAgICAgICAgd2l0aCBvcGVuKCIvdG1wL2ZyYW1lX2NoZWNrLmpwZyIsICJyYiIpIGFzIGY6CiAgICAgICAgICAgICAgICByZXR1cm4gaGFzaGxpYi5tZDUoZi5yZWFkKCkpLmhleGRpZ2VzdCgpWzoxNl0KICAgIGV4Y2VwdDoKICAgICAgICBwYXNzCiAgICByZXR1cm4gTm9uZQoKZGVmIGlzX2ZyYW1lX2NoYW5naW5nKCk6CiAgICAiIiJDaGVjayBpZiBmcmFtZSBpcyBjaGFuZ2luZyAodmlkZW8gcGxheWluZyB2cyBzdGF0aWMpLiIiIgogICAgaGFzaDEgPSBnZXRfZnJhbWVfaGFzaCgpCiAgICBpZiBub3QgaGFzaDE6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHRpbWUuc2xlZXAoMikKICAgIGhhc2gyID0gZ2V0X2ZyYW1lX2hhc2goKQogICAgaWYgbm90IGhhc2gyOgogICAgICAgIHJldHVybiBOb25lCiAgICByZXR1cm4gaGFzaDEgIT0gaGFzaDIKCmRlZiBnZXRfc3lzdGVtX2hlYWx0aCgpOgogICAgIiIiR2V0IHN5c3RlbSBoZWFsdGggbWV0cmljcy4iIiIKICAgIGhlYWx0aCA9IHt9CgogICAgIyBNZW1vcnkKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oIi9wcm9jL21lbWluZm8iKSBhcyBmOgogICAgICAgICAgICBtZW0gPSB7fQogICAgICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgICAgICAgICAgcGFydHMgPSBsaW5lLnNwbGl0KCkKICAgICAgICAgICAgICAgIGlmIGxlbihwYXJ0cykgPj0gMjoKICAgICAgICAgICAgICAgICAgICBtZW1bcGFydHNbMF0ucnN0cmlwKCI6IildID0gaW50KHBhcnRzWzFdKQogICAgICAgICAgICB0b3RhbCA9IG1lbS5nZXQoIk1lbVRvdGFsIiwgMSkKICAgICAgICAgICAgYXZhaWxhYmxlID0gbWVtLmdldCgiTWVtQXZhaWxhYmxlIiwgMCkKICAgICAgICAgICAgaGVhbHRoWyJtZW1fcGVyY2VudCJdID0gcm91bmQoKHRvdGFsIC0gYXZhaWxhYmxlKSAvIHRvdGFsICogMTAwLCAxKQogICAgICAgICAgICBoZWFsdGhbIm1lbV9hdmFpbGFibGVfZ2IiXSA9IHJvdW5kKGF2YWlsYWJsZSAvIDEwMjQgLyAxMDI0LCAxKQogICAgZXhjZXB0OgogICAgICAgIHBhc3MKCiAgICAjIEZEIGNvdW50IGZvciBtaW51cyBwcm9jZXNzCiAgICB0cnk6CiAgICAgICAgciA9IHN1YnByb2Nlc3MucnVuKFsicGdyZXAiLCAiLWYiLCAibWludXMucHkiXSwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTUpCiAgICAgICAgaWYgci5yZXR1cm5jb2RlID09IDAgYW5kIHIuc3Rkb3V0LnN0cmlwKCk6CiAgICAgICAgICAgIHBpZCA9IHIuc3Rkb3V0LnN0cmlwKCkuc3BsaXQoKVswXQogICAgICAgICAgICBmZF9wYXRoID0gZiIvcHJvYy97cGlkfS9mZCIKICAgICAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoZmRfcGF0aCk6CiAgICAgICAgICAgICAgICBoZWFsdGhbImZkX2NvdW50Il0gPSBsZW4ob3MubGlzdGRpcihmZF9wYXRoKSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNzCgogICAgIyBDUFUgKGxvYWQgYXZlcmFnZSkKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oIi9wcm9jL2xvYWRhdmciKSBhcyBmOgogICAgICAgICAgICBsb2FkID0gZi5yZWFkKCkuc3BsaXQoKVswXQogICAgICAgICAgICBoZWFsdGhbImxvYWRfYXZnIl0gPSBmbG9hdChsb2FkKQogICAgZXhjZXB0OgogICAgICAgIHBhc3MKCiAgICByZXR1cm4gaGVhbHRoCgpkZWYgbG9hZF9zdGF0ZSgpOgogICAgIiIiTG9hZCBwZXJzaXN0ZW50IHN0YXRlLiIiIgogICAgdHJ5OgogICAgICAgIGlmIFNUQVRFX0ZJTEUuZXhpc3RzKCk6CiAgICAgICAgICAgIHdpdGggb3BlbihTVEFURV9GSUxFKSBhcyBmOgogICAgICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZChmKQogICAgZXhjZXB0OgogICAgICAgIHBhc3MKICAgIHJldHVybiB7CiAgICAgICAgImxhc3RfY2hlY2siOiBOb25lLAogICAgICAgICJyZWNvdmVyeV9hdHRlbXB0cyI6IDAsCiAgICAgICAgImxhc3RfcmVjb3ZlcnkiOiBOb25lLAogICAgICAgICJsYXN0X3N0cmF0ZWd5IjogTm9uZSwKICAgICAgICAiY29uc2VjdXRpdmVfc3R1Y2siOiAwLAogICAgICAgICJjb25zZWN1dGl2ZV9oZWFsdGh5IjogMCwKICAgIH0KCmRlZiBzYXZlX3N0YXRlKHN0YXRlKToKICAgICIiIlNhdmUgcGVyc2lzdGVudCBzdGF0ZS4iIiIKICAgIHRyeToKICAgICAgICBzdGF0ZVsibGFzdF9jaGVjayJdID0gZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCkKICAgICAgICB3aXRoIG9wZW4oU1RBVEVfRklMRSwgInciKSBhcyBmOgogICAgICAgICAgICBqc29uLmR1bXAoc3RhdGUsIGYpCiAgICBleGNlcHQ6CiAgICAgICAgcGFzcwoKZGVmIGFzc2Vzc19zY3JlZW5fc3RhdGUoKToKICAgICIiIgogICAgQXNzZXNzIGN1cnJlbnQgc2NyZWVuIHN0YXRlIHVzaW5nIG11bHRpcGxlIHNpZ25hbHMuCiAgICBSZXR1cm5zIGRpY3Qgd2l0aCBzdGF0ZSBhc3Nlc3NtZW50LgogICAgIiIiCiAgICByZXN1bHQgPSB7CiAgICAgICAgInlvdXR1YmVfYWN0aXZlIjogRmFsc2UsCiAgICAgICAgImF1ZGlvX2Zsb3dpbmciOiBGYWxzZSwKICAgICAgICAiZnJhbWVfY2hhbmdpbmciOiBOb25lLAogICAgICAgICJvY3JfaGludHMiOiBbXSwKICAgICAgICAidmxtX3N0YXRlIjogTm9uZSwKICAgICAgICAiaXNfc3R1Y2siOiBGYWxzZSwKICAgICAgICAic3R1Y2tfcmVhc29uIjogTm9uZSwKICAgIH0KCiAgICAjIENoZWNrIFJva3UgYWN0aXZlIGFwcAogICAgYWN0aXZlX2FwcCA9IHJva3VfYXBpKCIvcXVlcnkvYWN0aXZlLWFwcCIpCiAgICBpZiBhY3RpdmVfYXBwOgogICAgICAgIHJlc3VsdFsieW91dHViZV9hY3RpdmUiXSA9ICJZb3VUdWJlIiBpbiBhY3RpdmVfYXBwIGFuZCAnaWQ9IjgzNyInIGluIGFjdGl2ZV9hcHAKICAgICAgICAjIENoZWNrIGZvciBzY3JlZW5zYXZlcgogICAgICAgIGlmICI8c2NyZWVuc2F2ZXIiIGluIGFjdGl2ZV9hcHA6CiAgICAgICAgICAgIHJlc3VsdFsiaXNfc3R1Y2siXSA9IFRydWUKICAgICAgICAgICAgcmVzdWx0WyJzdHVja19yZWFzb24iXSA9ICJzY3JlZW5zYXZlcl9hY3RpdmUiCiAgICAgICAgICAgIHJldHVybiByZXN1bHQKCiAgICAjIENoZWNrIGF1ZGlvCiAgICBhdWRpbyA9IGdldF9hdWRpb19zdGF0dXMoKQogICAgcmVzdWx0WyJhdWRpb19mbG93aW5nIl0gPSBhdWRpby5nZXQoImZsb3dpbmciLCBGYWxzZSkKCiAgICAjIENoZWNrIGZyYW1lIGNoYW5naW5nCiAgICByZXN1bHRbImZyYW1lX2NoYW5naW5nIl0gPSBpc19mcmFtZV9jaGFuZ2luZygpCgogICAgIyBEZXRlcm1pbmUgaWYgc3R1Y2sKICAgIGlmIG5vdCByZXN1bHRbInlvdXR1YmVfYWN0aXZlIl06CiAgICAgICAgcmVzdWx0WyJpc19zdHVjayJdID0gVHJ1ZQogICAgICAgIHJlc3VsdFsic3R1Y2tfcmVhc29uIl0gPSAieW91dHViZV9ub3RfYWN0aXZlIgogICAgZWxpZiBub3QgcmVzdWx0WyJhdWRpb19mbG93aW5nIl0gYW5kIHJlc3VsdFsiZnJhbWVfY2hhbmdpbmciXSA9PSBGYWxzZToKICAgICAgICByZXN1bHRbImlzX3N0dWNrIl0gPSBUcnVlCiAgICAgICAgcmVzdWx0WyJzdHVja19yZWFzb24iXSA9ICJub19hdWRpb19zdGF0aWNfZnJhbWUiCiAgICBlbGlmIG5vdCByZXN1bHRbImF1ZGlvX2Zsb3dpbmciXSBhbmQgcmVzdWx0WyJmcmFtZV9jaGFuZ2luZyJdID09IFRydWU6CiAgICAgICAgIyBGcmFtZSBjaGFuZ2luZyBidXQgbm8gYXVkaW8gLSBtaWdodCBiZSBsb2FkaW5nIG9yIG11dGVkCiAgICAgICAgcGFzcwogICAgZWxpZiByZXN1bHRbImF1ZGlvX2Zsb3dpbmciXSBhbmQgcmVzdWx0WyJmcmFtZV9jaGFuZ2luZyJdID09IEZhbHNlOgogICAgICAgICMgQXVkaW8gZmxvd2luZyBidXQgc3RhdGljIGZyYW1lIC0gY291bGQgYmUgbXVzaWMgdmlkZW8gKE9LKSBvciBsb2ZpIHN0cmVhbSAoT0spCiAgICAgICAgcGFzcwoKICAgIHJldHVybiByZXN1bHQKCmRlZiBleGVjdXRlX3JlY292ZXJ5KHN0YXRlLCBzY3JlZW5fc3RhdGUpOgogICAgIiIiCiAgICBFeGVjdXRlIHJlY292ZXJ5IGJhc2VkIG9uIHNjcmVlbiBzdGF0ZSBhbmQgcHJldmlvdXMgYXR0ZW1wdHMuCiAgICBVc2VzIGVzY2FsYXRpbmcgc3RyYXRlZ2llcy4KICAgICIiIgogICAgcmVhc29uID0gc2NyZWVuX3N0YXRlLmdldCgic3R1Y2tfcmVhc29uIikKICAgIGF0dGVtcHRzID0gc3RhdGUuZ2V0KCJyZWNvdmVyeV9hdHRlbXB0cyIsIDApCiAgICBsYXN0X3N0cmF0ZWd5ID0gc3RhdGUuZ2V0KCJsYXN0X3N0cmF0ZWd5IikKCiAgICBsb2coZiJFeGVjdXRpbmcgcmVjb3Zlcnk6IHJlYXNvbj17cmVhc29ufSwgYXR0ZW1wdHM9e2F0dGVtcHRzfSwgbGFzdD17bGFzdF9zdHJhdGVneX0iKQoKICAgIGlmIHJlYXNvbiA9PSAic2NyZWVuc2F2ZXJfYWN0aXZlIjoKICAgICAgICAjIFdha2UgdXAgZnJvbSBzY3JlZW5zYXZlcgogICAgICAgIGxvZygiUmVjb3Zlcnk6IERpc21pc3Npbmcgc2NyZWVuc2F2ZXIiKQogICAgICAgIHNlbmRfcm9rdV9jb21tYW5kKCJzZWxlY3QiKQogICAgICAgIHRpbWUuc2xlZXAoMikKICAgICAgICBzdGF0ZVsibGFzdF9zdHJhdGVneSJdID0gImRpc21pc3Nfc2NyZWVuc2F2ZXIiCiAgICAgICAgc3RhdGVbInJlY292ZXJ5X2F0dGVtcHRzIl0gPSBhdHRlbXB0cyArIDEKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIGlmIHJlYXNvbiA9PSAieW91dHViZV9ub3RfYWN0aXZlIjoKICAgICAgICAjIExhdW5jaCBZb3VUdWJlCiAgICAgICAgbG9nKCJSZWNvdmVyeTogTGF1bmNoaW5nIFlvdVR1YmUiKQogICAgICAgIGFwaV9wb3N0KCIvYXBpL3Jva3UvbGF1bmNoL3lvdXR1YmUiKQogICAgICAgIHRpbWUuc2xlZXAoNCkKICAgICAgICBzdGF0ZVsibGFzdF9zdHJhdGVneSJdID0gImxhdW5jaF95b3V0dWJlIgogICAgICAgIHN0YXRlWyJyZWNvdmVyeV9hdHRlbXB0cyJdID0gYXR0ZW1wdHMgKyAxCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBpZiByZWFzb24gPT0gIm5vX2F1ZGlvX3N0YXRpY19mcmFtZSI6CiAgICAgICAgIyBFc2NhbGF0aW5nIHJlY292ZXJ5IHN0cmF0ZWdpZXMKICAgICAgICBzdHJhdGVnaWVzID0gWwogICAgICAgICAgICAoInBsYXlfcGF1c2UiLCBsYW1iZGE6IHNlbmRfcm9rdV9jb21tYW5kKCJwbGF5X3BhdXNlIikpLAogICAgICAgICAgICAoInNlbGVjdCIsIGxhbWJkYTogc2VuZF9yb2t1X2NvbW1hbmQoInNlbGVjdCIpKSwKICAgICAgICAgICAgKCJiYWNrX2FuZF9zZWxlY3QiLCBsYW1iZGE6IChzZW5kX3Jva3VfY29tbWFuZCgiYmFjayIpLCB0aW1lLnNsZWVwKDEuNSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbmRfcm9rdV9jb21tYW5kKCJkb3duIiksIHRpbWUuc2xlZXAoMC41KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VuZF9yb2t1X2NvbW1hbmQoInNlbGVjdCIpKSksCiAgICAgICAgICAgICgiaG9tZV95b3V0dWJlIiwgbGFtYmRhOiAoc2VuZF9yb2t1X2NvbW1hbmQoImhvbWUiKSwgdGltZS5zbGVlcCgyKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBpX3Bvc3QoIi9hcGkvcm9rdS9sYXVuY2gveW91dHViZSIpLCB0aW1lLnNsZWVwKDQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZW5kX3Jva3VfY29tbWFuZCgiZG93biIpLCB0aW1lLnNsZWVwKDAuNSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbmRfcm9rdV9jb21tYW5kKCJzZWxlY3QiKSkpLAogICAgICAgIF0KCiAgICAgICAgIyBQaWNrIG5leHQgc3RyYXRlZ3kgKGN5Y2xlIHRocm91Z2gpCiAgICAgICAgc3RyYXRlZ3lfaWR4ID0gYXR0ZW1wdHMgJSBsZW4oc3RyYXRlZ2llcykKICAgICAgICBzdHJhdGVneV9uYW1lLCBzdHJhdGVneV9mbiA9IHN0cmF0ZWdpZXNbc3RyYXRlZ3lfaWR4XQoKICAgICAgICBsb2coZiJSZWNvdmVyeTogVHJ5aW5nIHN0cmF0ZWd5ICd7c3RyYXRlZ3lfbmFtZX0nIChhdHRlbXB0IHthdHRlbXB0cyArIDF9KSIpCiAgICAgICAgc3RyYXRlZ3lfZm4oKQoKICAgICAgICBzdGF0ZVsibGFzdF9zdHJhdGVneSJdID0gc3RyYXRlZ3lfbmFtZQogICAgICAgIHN0YXRlWyJyZWNvdmVyeV9hdHRlbXB0cyJdID0gYXR0ZW1wdHMgKyAxCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICByZXR1cm4gRmFsc2UKCmRlZiBmaXhfYXV0b25vbW91c19kZXZpY2UoKToKICAgICIiIkZpeCBhdXRvbm9tb3VzIG1vZGUgZGV2aWNlIGNvbm5lY3Rpb24gaWYgbmVlZGVkLiIiIgogICAgYXV0byA9IGFwaV9nZXQoIi9hcGkvYXV0b25vbW91cyIpCiAgICByb2t1ID0gYXBpX2dldCgiL2FwaS9yb2t1L3N0YXR1cyIpCgogICAgaWYgbm90IGF1dG8gb3Igbm90IHJva3U6CiAgICAgICAgcmV0dXJuIEZhbHNlCgogICAgIyBDaGVjayBpZiBSb2t1IGlzIGNvbm5lY3RlZCBidXQgYXV0b25vbW91cyBkb2Vzbid0IGtub3cgYWJvdXQgaXQKICAgIGlmIHJva3UuZ2V0KCJjb25uZWN0ZWQiKSBhbmQgbm90IGF1dG8uZ2V0KCJkZXZpY2VfY29ubmVjdGVkIik6CiAgICAgICAgbG9nKCJGaXhpbmcgYXV0b25vbW91cyBtb2RlIGRldmljZSBjb25uZWN0aW9uLi4uIikKICAgICAgICAjIFJlY29ubmVjdCBSb2t1IHRvIHRyaWdnZXIgdGhlIGF1dG9ub21vdXMgbW9kZSB1cGRhdGUKICAgICAgICBpcCA9IHJva3UuZ2V0KCJkZXZpY2VfaW5mbyIsIHt9KS5nZXQoImlwIikKICAgICAgICBpZiBpcDoKICAgICAgICAgICAgcmVzdWx0ID0gYXBpX3Bvc3QoIi9hcGkvcm9rdS9jb25uZWN0IiwgeyJpcCI6IGlwfSkKICAgICAgICAgICAgaWYgcmVzdWx0IGFuZCByZXN1bHQuZ2V0KCJzdWNjZXNzIik6CiAgICAgICAgICAgICAgICBsb2coIkF1dG9ub21vdXMgbW9kZSBkZXZpY2UgY29ubmVjdGlvbiBmaXhlZCIpCiAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgcmV0dXJuIEZhbHNlCgpkZWYgcnVuX2NoZWNrKCk6CiAgICAiIiJSdW4gYSBzaW5nbGUgbW9uaXRvcmluZyBjaGVjay4iIiIKICAgIHByaW50KCJcbiIgKyAiPSIqNjApCiAgICBsb2coIkNsYXVkZSBNb25pdG9yIENoZWNrIFN0YXJ0aW5nIikKICAgIHByaW50KCI9Iio2MCkKCiAgICAjIEZpeCBkZXZpY2UgY29ubmVjdGlvbiBpZiBuZWVkZWQKICAgIGZpeF9hdXRvbm9tb3VzX2RldmljZSgpCgogICAgIyBMb2FkIHN0YXRlCiAgICBzdGF0ZSA9IGxvYWRfc3RhdGUoKQoKICAgICMgR2V0IG1haW4gc3RhdHVzCiAgICBzdGF0dXMgPSBhcGlfZ2V0KCIvYXBpL3N0YXR1cyIpCiAgICBpZiBub3Qgc3RhdHVzOgogICAgICAgIGxvZygiQ2Fubm90IHJlYWNoIE1pbnVzIEFQSSIsICJFUlJPUiIpCiAgICAgICAgcmV0dXJuCgogICAgIyBHZXQgYXV0b25vbW91cyBzdGF0dXMKICAgIGF1dG8gPSBhcGlfZ2V0KCIvYXBpL2F1dG9ub21vdXMiKQogICAgaWYgbm90IGF1dG86CiAgICAgICAgbG9nKCJDYW5ub3QgZ2V0IGF1dG9ub21vdXMgc3RhdHVzIiwgIkVSUk9SIikKICAgICAgICByZXR1cm4KCiAgICAjIEdldCBzeXN0ZW0gaGVhbHRoCiAgICBoZWFsdGggPSBnZXRfc3lzdGVtX2hlYWx0aCgpCgogICAgIyBQcmludCBzdGF0dXMgc3VtbWFyeQogICAgcHJpbnQoIlxuLS0tIFNZU1RFTSBTVEFUVVMgLS0tIikKICAgIHByaW50KGYiRlBTOiB7c3RhdHVzLmdldCgnZnBzJywgMCk6LjFmfSIpCiAgICBwcmludChmIkJsb2NraW5nOiB7c3RhdHVzLmdldCgnYmxvY2tpbmcnLCBGYWxzZSl9IikKICAgIHByaW50KGYiVXB0aW1lOiB7c3RhdHVzLmdldCgndXB0aW1lJywgMCkgLy8gNjB9bSIpCiAgICBwcmludChmIlZMTSBSZWFkeToge3N0YXR1cy5nZXQoJ3ZsbV9yZWFkeScsIEZhbHNlKX0iKQogICAgcHJpbnQoZiJNZW1vcnk6IHtoZWFsdGguZ2V0KCdtZW1fcGVyY2VudCcsICc/Jyl9JSAoYXZhaWw6IHtoZWFsdGguZ2V0KCdtZW1fYXZhaWxhYmxlX2diJywgJz8nKX1HQikiKQogICAgcHJpbnQoZiJGRCBDb3VudDoge2hlYWx0aC5nZXQoJ2ZkX2NvdW50JywgJz8nKX0iKQogICAgcHJpbnQoZiJMb2FkIEF2Zzoge2hlYWx0aC5nZXQoJ2xvYWRfYXZnJywgJz8nKX0iKQoKICAgIHByaW50KCJcbi0tLSBBVVRPTk9NT1VTIE1PREUgLS0tIikKICAgIHByaW50KGYiRW5hYmxlZDoge2F1dG8uZ2V0KCdlbmFibGVkJywgRmFsc2UpfSIpCiAgICBwcmludChmIkFjdGl2ZToge2F1dG8uZ2V0KCdhY3RpdmUnLCBGYWxzZSl9IikKICAgIHByaW50KGYiRGV2aWNlOiB7YXV0by5nZXQoJ2RldmljZV90eXBlJywgJz8nKX0iKQogICAgcHJpbnQoZiJDb25uZWN0ZWQ6IHthdXRvLmdldCgnZGV2aWNlX2Nvbm5lY3RlZCcsIEZhbHNlKX0iKQogICAgc3RhdHMgPSBhdXRvLmdldCgnc3RhdHMnLCB7fSkKICAgIHByaW50KGYiU2Vzc2lvbiBEdXJhdGlvbjoge3N0YXRzLmdldCgnZHVyYXRpb25fbWludXRlcycsIDApfW0iKQogICAgcHJpbnQoZiJWaWRlb3MgUGxheWVkOiB7c3RhdHMuZ2V0KCd2aWRlb3NfcGxheWVkJywgMCl9IikKICAgIHByaW50KGYiRXJyb3JzOiB7c3RhdHMuZ2V0KCdlcnJvcnMnLCAwKX0iKQoKICAgICMgQXNzZXNzIHNjcmVlbiBzdGF0ZQogICAgcHJpbnQoIlxuLS0tIFNDUkVFTiBTVEFURSAtLS0iKQogICAgc2NyZWVuID0gYXNzZXNzX3NjcmVlbl9zdGF0ZSgpCiAgICBwcmludChmIllvdVR1YmUgQWN0aXZlOiB7c2NyZWVuLmdldCgneW91dHViZV9hY3RpdmUnLCAnPycpfSIpCiAgICBwcmludChmIkF1ZGlvIEZsb3dpbmc6IHtzY3JlZW4uZ2V0KCdhdWRpb19mbG93aW5nJywgJz8nKX0iKQogICAgcHJpbnQoZiJGcmFtZSBDaGFuZ2luZzoge3NjcmVlbi5nZXQoJ2ZyYW1lX2NoYW5naW5nJywgJz8nKX0iKQogICAgcHJpbnQoZiJJcyBTdHVjazoge3NjcmVlbi5nZXQoJ2lzX3N0dWNrJywgRmFsc2UpfSIpCiAgICBpZiBzY3JlZW4uZ2V0KCJzdHVja19yZWFzb24iKToKICAgICAgICBwcmludChmIlN0dWNrIFJlYXNvbjoge3NjcmVlbi5nZXQoJ3N0dWNrX3JlYXNvbicpfSIpCgogICAgIyBDaGVjayBmb3IgaXNzdWVzCiAgICBpc3N1ZXMgPSBbXQoKICAgICMgTWVtb3J5IGxlYWsgZGV0ZWN0aW9uCiAgICBpZiBoZWFsdGguZ2V0KCJtZW1fcGVyY2VudCIsIDApID4gODU6CiAgICAgICAgaXNzdWVzLmFwcGVuZChmIkhJR0ggTUVNT1JZOiB7aGVhbHRoWydtZW1fcGVyY2VudCddfSUiKQoKICAgICMgRkQgbGVhayBkZXRlY3Rpb24KICAgIGlmIGhlYWx0aC5nZXQoImZkX2NvdW50IiwgMCkgPiA1MDA6CiAgICAgICAgaXNzdWVzLmFwcGVuZChmIkhJR0ggRkQgQ09VTlQ6IHtoZWFsdGhbJ2ZkX2NvdW50J119IikKCiAgICAjIFNjcmVlbiBzdHVjawogICAgaWYgc2NyZWVuLmdldCgiaXNfc3R1Y2siKToKICAgICAgICBpc3N1ZXMuYXBwZW5kKGYiU0NSRUVOIFNUVUNLOiB7c2NyZWVuLmdldCgnc3R1Y2tfcmVhc29uJyl9IikKCiAgICAjIERldmljZSBkaXNjb25uZWN0ZWQKICAgIGlmIGF1dG8uZ2V0KCJhY3RpdmUiKSBhbmQgbm90IGF1dG8uZ2V0KCJkZXZpY2VfY29ubmVjdGVkIik6CiAgICAgICAgaXNzdWVzLmFwcGVuZCgiREVWSUNFIERJU0NPTk5FQ1RFRCIpCgogICAgcHJpbnQoIlxuLS0tIElTU1VFUyAtLS0iKQogICAgaWYgaXNzdWVzOgogICAgICAgIGZvciBpc3N1ZSBpbiBpc3N1ZXM6CiAgICAgICAgICAgIHByaW50KGYiICAhIHtpc3N1ZX0iKQogICAgZWxzZToKICAgICAgICBwcmludCgiICBOb25lIGRldGVjdGVkIikKCiAgICAjIEhhbmRsZSBzdHVjayBzdGF0ZQogICAgaWYgc2NyZWVuLmdldCgiaXNfc3R1Y2siKToKICAgICAgICBzdGF0ZVsiY29uc2VjdXRpdmVfc3R1Y2siXSArPSAxCiAgICAgICAgc3RhdGVbImNvbnNlY3V0aXZlX2hlYWx0aHkiXSA9IDAKCiAgICAgICAgaWYgc3RhdGVbImNvbnNlY3V0aXZlX3N0dWNrIl0gPj0gMTogICMgQWN0IGltbWVkaWF0ZWx5IG9uIHN0dWNrCiAgICAgICAgICAgIHByaW50KCJcbi0tLSBSRUNPVkVSWSBBQ1RJT04gLS0tIikKICAgICAgICAgICAgaWYgZXhlY3V0ZV9yZWNvdmVyeShzdGF0ZSwgc2NyZWVuKToKICAgICAgICAgICAgICAgIHByaW50KGYiICBSZWNvdmVyeSBleGVjdXRlZDoge3N0YXRlLmdldCgnbGFzdF9zdHJhdGVneScpfSIpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwcmludCgiICBObyByZWNvdmVyeSBhY3Rpb24gYXZhaWxhYmxlIikKICAgIGVsc2U6CiAgICAgICAgc3RhdGVbImNvbnNlY3V0aXZlX2hlYWx0aHkiXSArPSAxCiAgICAgICAgaWYgc3RhdGVbImNvbnNlY3V0aXZlX2hlYWx0aHkiXSA+PSAyOgogICAgICAgICAgICAjIFJlc2V0IHJlY292ZXJ5IHN0YXRlIGFmdGVyIHN1c3RhaW5lZCBoZWFsdGgKICAgICAgICAgICAgc3RhdGVbInJlY292ZXJ5X2F0dGVtcHRzIl0gPSAwCiAgICAgICAgICAgIHN0YXRlWyJjb25zZWN1dGl2ZV9zdHVjayJdID0gMAoKICAgICMgU2F2ZSBzdGF0ZQogICAgc2F2ZV9zdGF0ZShzdGF0ZSkKCiAgICBwcmludCgiXG4tLS0gUkVDT1ZFUlkgU1RBVEUgLS0tIikKICAgIHByaW50KGYiQ29uc2VjdXRpdmUgU3R1Y2s6IHtzdGF0ZS5nZXQoJ2NvbnNlY3V0aXZlX3N0dWNrJywgMCl9IikKICAgIHByaW50KGYiQ29uc2VjdXRpdmUgSGVhbHRoeToge3N0YXRlLmdldCgnY29uc2VjdXRpdmVfaGVhbHRoeScsIDApfSIpCiAgICBwcmludChmIlJlY292ZXJ5IEF0dGVtcHRzOiB7c3RhdGUuZ2V0KCdyZWNvdmVyeV9hdHRlbXB0cycsIDApfSIpCiAgICBwcmludChmIkxhc3QgU3RyYXRlZ3k6IHtzdGF0ZS5nZXQoJ2xhc3Rfc3RyYXRlZ3knLCAnbm9uZScpfSIpCgogICAgcHJpbnQoIlxuIiArICI9Iio2MCkKICAgIGxvZygiQ2hlY2sgQ29tcGxldGUiKQogICAgcHJpbnQoIj0iKjYwICsgIlxuIikKCiAgICByZXR1cm4gewogICAgICAgICJzdGF0dXMiOiBzdGF0dXMsCiAgICAgICAgImF1dG8iOiBhdXRvLAogICAgICAgICJoZWFsdGgiOiBoZWFsdGgsCiAgICAgICAgInNjcmVlbiI6IHNjcmVlbiwKICAgICAgICAiaXNzdWVzIjogaXNzdWVzLAogICAgICAgICJzdGF0ZSI6IHN0YXRlLAogICAgfQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGlmIGxlbihzeXMuYXJndikgPiAxIGFuZCBzeXMuYXJndlsxXSA9PSAiLS1sb29wIjoKICAgICAgICBpbnRlcnZhbCA9IGludChzeXMuYXJndlsyXSkgaWYgbGVuKHN5cy5hcmd2KSA+IDIgZWxzZSAzMDAKICAgICAgICBsb2coZiJTdGFydGluZyBtb25pdG9yaW5nIGxvb3AgKGludGVydmFsOiB7aW50ZXJ2YWx9cykiKQogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJ1bl9jaGVjaygpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIGxvZyhmIkNoZWNrIGZhaWxlZDoge2V9IiwgIkVSUk9SIikKICAgICAgICAgICAgdGltZS5zbGVlcChpbnRlcnZhbCkKICAgIGVsc2U6CiAgICAgICAgcnVuX2NoZWNrKCkK
+#!/usr/bin/env python3
+"""
+Claude Monitor - Intelligent autonomous mode monitoring and intervention.
+
+This script is designed to be run periodically (every 5 minutes) by Claude
+to check on autonomous mode health and take corrective action when stuck.
+
+Key features:
+- Multi-signal state detection (OCR, VLM, audio, frame change)
+- Smart recovery with escalation (avoids repeating failed strategies)
+- System health monitoring (memory, CPU, FD count)
+- Detailed logging for Claude to understand what's happening
+"""
+
+import json
+import os
+import subprocess
+import sys
+import time
+import hashlib
+from datetime import datetime
+from pathlib import Path
+
+# State file for tracking recovery attempts
+STATE_FILE = Path("/tmp/claude_monitor_state.json")
+LOG_FILE = Path("/tmp/claude_monitor.log")
+
+def log(msg, level="INFO"):
+    """Log with timestamp."""
+    ts = datetime.now().strftime("%H:%M:%S")
+    line = f"[{ts}] [{level}] {msg}"
+    print(line)
+    try:
+        with open(LOG_FILE, "a") as f:
+            f.write(line + "\n")
+    except:
+        pass
+
+def api_get(endpoint):
+    """GET from Minus API."""
+    try:
+        r = subprocess.run(
+            ["curl", "-s", "-m", "10", f"http://localhost{endpoint}"],
+            capture_output=True, text=True, timeout=15
+        )
+        if r.returncode == 0 and r.stdout:
+            return json.loads(r.stdout)
+    except Exception as e:
+        log(f"API GET {endpoint} failed: {e}", "ERROR")
+    return None
+
+def api_post(endpoint, data=None):
+    """POST to Minus API."""
+    try:
+        cmd = ["curl", "-s", "-m", "10", "-X", "POST", f"http://localhost{endpoint}"]
+        if data:
+            cmd.extend(["-H", "Content-Type: application/json", "-d", json.dumps(data)])
+        r = subprocess.run(cmd, capture_output=True, text=True, timeout=15)
+        if r.returncode == 0 and r.stdout:
+            return json.loads(r.stdout)
+    except Exception as e:
+        log(f"API POST {endpoint} failed: {e}", "ERROR")
+    return None
+
+def roku_api(endpoint):
+    """GET from Roku ECP API."""
+    try:
+        status = api_get("/api/roku/status")
+        if not status or not status.get("connected"):
+            return None
+        ip = status.get("device_info", {}).get("ip")
+        if not ip:
+            return None
+        r = subprocess.run(
+            ["curl", "-s", "-m", "5", f"http://{ip}:8060{endpoint}"],
+            capture_output=True, text=True, timeout=10
+        )
+        if r.returncode == 0:
+            return r.stdout
+    except Exception as e:
+        log(f"Roku API {endpoint} failed: {e}", "ERROR")
+    return None
+
+def send_roku_command(cmd):
+    """Send command to Roku."""
+    try:
+        result = api_post("/api/roku/command", {"command": cmd})
+        return result and result.get("success", False)
+    except:
+        return False
+
+def get_audio_status():
+    """Check if audio is flowing."""
+    try:
+        # Check ALSA capture status
+        capture = subprocess.run(
+            ["cat", "/proc/asound/card4/pcm0c/sub0/status"],
+            capture_output=True, text=True, timeout=5
+        )
+        capture_running = "RUNNING" in capture.stdout
+
+        # Check ALSA playback status
+        playback = subprocess.run(
+            ["cat", "/proc/asound/card0/pcm0p/sub0/status"],
+            capture_output=True, text=True, timeout=5
+        )
+        playback_running = "RUNNING" in playback.stdout
+
+        return {
+            "capture": capture_running,
+            "playback": playback_running,
+            "flowing": capture_running  # Capture is the key indicator
+        }
+    except:
+        return {"capture": False, "playback": False, "flowing": False}
+
+def get_frame_hash():
+    """Get hash of current frame for change detection."""
+    try:
+        r = subprocess.run(
+            ["curl", "-s", "-m", "5", "http://localhost:9090/snapshot", "-o", "/tmp/frame_check.jpg"],
+            capture_output=True, timeout=10
+        )
+        if r.returncode == 0 and os.path.exists("/tmp/frame_check.jpg"):
+            with open("/tmp/frame_check.jpg", "rb") as f:
+                return hashlib.md5(f.read()).hexdigest()[:16]
+    except:
+        pass
+    return None
+
+def is_frame_changing():
+    """Check if frame is changing (video playing vs static)."""
+    hash1 = get_frame_hash()
+    if not hash1:
+        return None
+    time.sleep(2)
+    hash2 = get_frame_hash()
+    if not hash2:
+        return None
+    return hash1 != hash2
+
+def get_system_health():
+    """Get system health metrics."""
+    health = {}
+
+    # Memory
+    try:
+        with open("/proc/meminfo") as f:
+            mem = {}
+            for line in f:
+                parts = line.split()
+                if len(parts) >= 2:
+                    mem[parts[0].rstrip(":")] = int(parts[1])
+            total = mem.get("MemTotal", 1)
+            available = mem.get("MemAvailable", 0)
+            health["mem_percent"] = round((total - available) / total * 100, 1)
+            health["mem_available_gb"] = round(available / 1024 / 1024, 1)
+    except:
+        pass
+
+    # FD count for minus process
+    try:
+        r = subprocess.run(["pgrep", "-f", "minus.py"], capture_output=True, text=True, timeout=5)
+        if r.returncode == 0 and r.stdout.strip():
+            pid = r.stdout.strip().split()[0]
+            fd_path = f"/proc/{pid}/fd"
+            if os.path.exists(fd_path):
+                health["fd_count"] = len(os.listdir(fd_path))
+    except:
+        pass
+
+    # CPU (load average)
+    try:
+        with open("/proc/loadavg") as f:
+            load = f.read().split()[0]
+            health["load_avg"] = float(load)
+    except:
+        pass
+
+    return health
+
+def load_state():
+    """Load persistent state."""
+    try:
+        if STATE_FILE.exists():
+            with open(STATE_FILE) as f:
+                return json.load(f)
+    except:
+        pass
+    return {
+        "last_check": None,
+        "recovery_attempts": 0,
+        "last_recovery": None,
+        "last_strategy": None,
+        "consecutive_stuck": 0,
+        "consecutive_healthy": 0,
+    }
+
+def save_state(state):
+    """Save persistent state."""
+    try:
+        state["last_check"] = datetime.now().isoformat()
+        with open(STATE_FILE, "w") as f:
+            json.dump(state, f)
+    except:
+        pass
+
+def assess_screen_state():
+    """
+    Assess current screen state using multiple signals.
+    Returns dict with state assessment.
+    """
+    result = {
+        "youtube_active": False,
+        "audio_flowing": False,
+        "frame_changing": None,
+        "ocr_hints": [],
+        "vlm_state": None,
+        "is_stuck": False,
+        "stuck_reason": None,
+    }
+
+    # Check Roku active app
+    active_app = roku_api("/query/active-app")
+    if active_app:
+        result["youtube_active"] = "YouTube" in active_app and 'id="837"' in active_app
+        # Check for screensaver
+        if "<screensaver" in active_app:
+            result["is_stuck"] = True
+            result["stuck_reason"] = "screensaver_active"
+            return result
+
+    # Check audio
+    audio = get_audio_status()
+    result["audio_flowing"] = audio.get("flowing", False)
+
+    # Check frame changing
+    result["frame_changing"] = is_frame_changing()
+
+    # Determine if stuck
+    if not result["youtube_active"]:
+        result["is_stuck"] = True
+        result["stuck_reason"] = "youtube_not_active"
+    elif not result["audio_flowing"] and result["frame_changing"] == False:
+        result["is_stuck"] = True
+        result["stuck_reason"] = "no_audio_static_frame"
+    elif not result["audio_flowing"] and result["frame_changing"] == True:
+        # Frame changing but no audio - might be loading or muted
+        pass
+    elif result["audio_flowing"] and result["frame_changing"] == False:
+        # Audio flowing but static frame - could be music video (OK) or lofi stream (OK)
+        pass
+
+    return result
+
+def execute_recovery(state, screen_state):
+    """
+    Execute recovery based on screen state and previous attempts.
+    Uses escalating strategies.
+    """
+    reason = screen_state.get("stuck_reason")
+    attempts = state.get("recovery_attempts", 0)
+    last_strategy = state.get("last_strategy")
+
+    log(f"Executing recovery: reason={reason}, attempts={attempts}, last={last_strategy}")
+
+    if reason == "screensaver_active":
+        # Wake up from screensaver
+        log("Recovery: Dismissing screensaver")
+        send_roku_command("select")
+        time.sleep(2)
+        state["last_strategy"] = "dismiss_screensaver"
+        state["recovery_attempts"] = attempts + 1
+        return True
+
+    if reason == "youtube_not_active":
+        # Launch YouTube
+        log("Recovery: Launching YouTube")
+        api_post("/api/roku/launch/youtube")
+        time.sleep(4)
+        state["last_strategy"] = "launch_youtube"
+        state["recovery_attempts"] = attempts + 1
+        return True
+
+    if reason == "no_audio_static_frame":
+        # Escalating recovery strategies
+        strategies = [
+            ("play_pause", lambda: send_roku_command("play_pause")),
+            ("select", lambda: send_roku_command("select")),
+            ("back_and_select", lambda: (send_roku_command("back"), time.sleep(1.5),
+                                          send_roku_command("down"), time.sleep(0.5),
+                                          send_roku_command("select"))),
+            ("home_youtube", lambda: (send_roku_command("home"), time.sleep(2),
+                                       api_post("/api/roku/launch/youtube"), time.sleep(4),
+                                       send_roku_command("down"), time.sleep(0.5),
+                                       send_roku_command("select"))),
+        ]
+
+        # Pick next strategy (cycle through)
+        strategy_idx = attempts % len(strategies)
+        strategy_name, strategy_fn = strategies[strategy_idx]
+
+        log(f"Recovery: Trying strategy '{strategy_name}' (attempt {attempts + 1})")
+        strategy_fn()
+
+        state["last_strategy"] = strategy_name
+        state["recovery_attempts"] = attempts + 1
+        return True
+
+    return False
+
+def fix_autonomous_device():
+    """Fix autonomous mode device connection if needed."""
+    auto = api_get("/api/autonomous")
+    roku = api_get("/api/roku/status")
+
+    if not auto or not roku:
+        return False
+
+    # Check if Roku is connected but autonomous doesn't know about it
+    if roku.get("connected") and not auto.get("device_connected"):
+        log("Fixing autonomous mode device connection...")
+        # Reconnect Roku to trigger the autonomous mode update
+        ip = roku.get("device_info", {}).get("ip")
+        if ip:
+            result = api_post("/api/roku/connect", {"ip": ip})
+            if result and result.get("success"):
+                log("Autonomous mode device connection fixed")
+                return True
+    return False
+
+def run_check():
+    """Run a single monitoring check."""
+    print("\n" + "="*60)
+    log("Claude Monitor Check Starting")
+    print("="*60)
+
+    # Fix device connection if needed
+    fix_autonomous_device()
+
+    # Load state
+    state = load_state()
+
+    # Get main status
+    status = api_get("/api/status")
+    if not status:
+        log("Cannot reach Minus API", "ERROR")
+        return
+
+    # Get autonomous status
+    auto = api_get("/api/autonomous")
+    if not auto:
+        log("Cannot get autonomous status", "ERROR")
+        return
+
+    # Get system health
+    health = get_system_health()
+
+    # Print status summary
+    print("\n--- SYSTEM STATUS ---")
+    print(f"FPS: {status.get('fps', 0):.1f}")
+    print(f"Blocking: {status.get('blocking', False)}")
+    print(f"Uptime: {status.get('uptime', 0) // 60}m")
+    print(f"VLM Ready: {status.get('vlm_ready', False)}")
+    print(f"Memory: {health.get('mem_percent', '?')}% (avail: {health.get('mem_available_gb', '?')}GB)")
+    print(f"FD Count: {health.get('fd_count', '?')}")
+    print(f"Load Avg: {health.get('load_avg', '?')}")
+
+    print("\n--- AUTONOMOUS MODE ---")
+    print(f"Enabled: {auto.get('enabled', False)}")
+    print(f"Active: {auto.get('active', False)}")
+    print(f"Device: {auto.get('device_type', '?')}")
+    print(f"Connected: {auto.get('device_connected', False)}")
+    stats = auto.get('stats', {})
+    print(f"Session Duration: {stats.get('duration_minutes', 0)}m")
+    print(f"Videos Played: {stats.get('videos_played', 0)}")
+    print(f"Errors: {stats.get('errors', 0)}")
+
+    # Assess screen state
+    print("\n--- SCREEN STATE ---")
+    screen = assess_screen_state()
+    print(f"YouTube Active: {screen.get('youtube_active', '?')}")
+    print(f"Audio Flowing: {screen.get('audio_flowing', '?')}")
+    print(f"Frame Changing: {screen.get('frame_changing', '?')}")
+    print(f"Is Stuck: {screen.get('is_stuck', False)}")
+    if screen.get("stuck_reason"):
+        print(f"Stuck Reason: {screen.get('stuck_reason')}")
+
+    # Check for issues
+    issues = []
+
+    # Memory leak detection
+    if health.get("mem_percent", 0) > 85:
+        issues.append(f"HIGH MEMORY: {health['mem_percent']}%")
+
+    # FD leak detection
+    if health.get("fd_count", 0) > 500:
+        issues.append(f"HIGH FD COUNT: {health['fd_count']}")
+
+    # Screen stuck
+    if screen.get("is_stuck"):
+        issues.append(f"SCREEN STUCK: {screen.get('stuck_reason')}")
+
+    # Device disconnected
+    if auto.get("active") and not auto.get("device_connected"):
+        issues.append("DEVICE DISCONNECTED")
+
+    print("\n--- ISSUES ---")
+    if issues:
+        for issue in issues:
+            print(f"  ! {issue}")
+    else:
+        print("  None detected")
+
+    # Handle stuck state
+    if screen.get("is_stuck"):
+        state["consecutive_stuck"] += 1
+        state["consecutive_healthy"] = 0
+
+        if state["consecutive_stuck"] >= 1:  # Act immediately on stuck
+            print("\n--- RECOVERY ACTION ---")
+            if execute_recovery(state, screen):
+                print(f"  Recovery executed: {state.get('last_strategy')}")
+            else:
+                print("  No recovery action available")
+    else:
+        state["consecutive_healthy"] += 1
+        if state["consecutive_healthy"] >= 2:
+            # Reset recovery state after sustained health
+            state["recovery_attempts"] = 0
+            state["consecutive_stuck"] = 0
+
+    # Save state
+    save_state(state)
+
+    print("\n--- RECOVERY STATE ---")
+    print(f"Consecutive Stuck: {state.get('consecutive_stuck', 0)}")
+    print(f"Consecutive Healthy: {state.get('consecutive_healthy', 0)}")
+    print(f"Recovery Attempts: {state.get('recovery_attempts', 0)}")
+    print(f"Last Strategy: {state.get('last_strategy', 'none')}")
+
+    print("\n" + "="*60)
+    log("Check Complete")
+    print("="*60 + "\n")
+
+    return {
+        "status": status,
+        "auto": auto,
+        "health": health,
+        "screen": screen,
+        "issues": issues,
+        "state": state,
+    }
+
+if __name__ == "__main__":
+    if len(sys.argv) > 1 and sys.argv[1] == "--loop":
+        interval = int(sys.argv[2]) if len(sys.argv) > 2 else 300
+        log(f"Starting monitoring loop (interval: {interval}s)")
+        while True:
+            try:
+                run_check()
+            except Exception as e:
+                log(f"Check failed: {e}", "ERROR")
+            time.sleep(interval)
+    else:
+        run_check()

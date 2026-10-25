@@ -1,1 +1,160 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWRveS7pOeZveWQjeWNleacuuWItiDigJQg5Y+W5Luj5pen55qE6buR5ZCN5Y2V5qih5byPCgrlkb3ku6TliIbkuInnsbvvvJoKICAtIOWPquivuy/ml6DlrrPlkb3ku6Qg4oaSIOebtOaOpeaUvuihjAogIC0g5Y2x6Zmp5ZG95LukICAgICAgIOKGkiDpnIDnlKjmiLflrqHmibkKICAtIOS4jeWcqOeZveWQjeWNlSAgICAg4oaSIOmcgOeUqOaIt+WuoeaJuQoiIiIKCmltcG9ydCBvcwppbXBvcnQgcmUKaW1wb3J0IHNobGV4CgojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkAojIOeZveWQjeWNleWRveS7pOmbhgojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkAoKQUxMT1dFRF9SRUFET05MWV9DT01NQU5EUyA9IHsKICAgICMg5paH5Lu25rWP6KeI5LiO5L+h5oGvCiAgICAnbHMnLCAnZmluZCcsICd0cmVlJywgJ2ZpbGUnLCAnc3RhdCcsICdkdScsICdkZicsCiAgICAjIOaWh+acrOafpeeci+S4juaQnOe0ogogICAgJ2NhdCcsICdoZWFkJywgJ3RhaWwnLCAnbGVzcycsICdtb3JlJywgJ2dyZXAnLCAncmcnLAogICAgIyDmlofmnKznu5/orqHkuI7mr5TovoMKICAgICd3YycsICdzb3J0JywgJ3VuaXEnLCAnZGlmZicsICdjbXAnLCAnY29tbScsCiAgICAjIOi3r+W+hOS4juagh+ivhgogICAgJ3B3ZCcsICdkaXJuYW1lJywgJ2Jhc2VuYW1lJywgJ3JlYWxwYXRoJywgJ3JlYWRsaW5rJywgJ3doaWNoJywgJ3R5cGUnLAogICAgIyDnjq/looPkuI7ov5vnqIvkv6Hmga8KICAgICdlbnYnLCAncHJpbnRlbnYnLCAnZGF0ZScsICd3aG9hbWknLCAnaG9zdG5hbWUnLCAndW5hbWUnLCAnaWQnLAogICAgIyDln7rnoYDovpPlh7oKICAgICdlY2hvJywgJ3ByaW50ZicsICd0cnVlJywgJ2ZhbHNlJywgJ3Rlc3QnLCAnWycsICdzbGVlcCcsCiAgICAjIOe9kee7nOiviuaWre+8iOWPquivu++8iQogICAgJ2N1cmwnLCAnd2dldCcsCiAgICAjIFB5dGhvbgogICAgJ3B5dGhvbicsICdweXRob24zJywgJy52ZW52L2Jpbi9weXRob24nLAp9CgpBTExPV0VEX0RBTkdFUk9VU19DT01NQU5EUyA9IHsKICAgICdta2RpcicsICd0b3VjaCcsICdjcCcsICdtdicsICdybScsICdybWRpcicsCiAgICAnY2htb2QnLCAnY2hvd24nLCAnbG4nLCAndGFyJywgJ2d6aXAnLCAnZ3VuemlwJywgJ3ppcCcsICd1bnppcCcsCiAgICAnZGQnLCAnc2VkJywgJ2F3aycsICd0ZWUnLCAndHInLCAnY3V0JywKICAgICdwaXAnLCAncGlwMycsICducG0nLCAneWFybicsCiAgICAnZ2l0JywKfQoKR0lUX1NBRkVfU1VCQ09NTUFORFMgPSB7CiAgICAnc3RhdHVzJywgJ2xvZycsICdkaWZmJywgJ2JyYW5jaCcsICd0YWcnLCAnc2hvdycsCiAgICAncmV2LXBhcnNlJywgJ3Jldi1saXN0JywgJ2xzLWZpbGVzJywgJ2xzLXRyZWUnLAogICAgJ3JlbW90ZScsICdzdGFzaCcsCn0KCiMg5paH5Lu25L+u5pS56YeN5a6a5ZCR56ymIOKAlCDlkb3kuK3liJnop6blj5HlrqHmibkKUkVESVJFQ1RfUEFUVEVSTlMgPSBbCiAgICByJyg/PCFcXCk+Pj8oPyEmKScsICAgIyA+IOWSjCA+PiDvvIjmjpLpmaQgPibvvIkKICAgIHInKD88IVxcKVx8JywgICAgICAgICAjIOeuoemBkwogICAgcicoPzwhXFwpXCRcKCcsICAgICAgICMg5ZG95Luk5pu/5o2iCiAgICByJyg/PCFcXClgJywgICAgICAgICAgIyDlj43lvJXlj7flkb3ku6Tmm7/mjaIKXQoKIyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAKIyBzYWZlX2V4ZWMg5YWo5bGA5byA5YWzIOKAlCDnlLEgQ0xJIC0tc2FmZS1leGVjIOWPguaVsOaOp+WItgojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkAoKX3NhZmVfZXhlYyA9IEZhbHNlCgoKZGVmIHNldF9zYWZlX2V4ZWModmFsdWU6IGJvb2wpIC0+IE5vbmU6CiAgICAiIiLorr7nva7nmb3lkI3ljZXmqKHlvI/lvIDlhbPjgIJUcnVlID0g5ZCv55So55m95ZCN5Y2V5qOA5p+l77yMRmFsc2UgPSDmlL7ooYzmiYDmnInlkb3ku6TjgIIiIiIKICAgIGdsb2JhbCBfc2FmZV9leGVjCiAgICBfc2FmZV9leGVjID0gdmFsdWUKCgojIOeZveWQjeWNleajgOafpQoKZGVmIGNoZWNrX2FsbG93bGlzdChjb21tYW5kOiBzdHIpOgogICAgIiIi5qOA5p+l5ZG95Luk5piv5ZCm5Zyo55m95ZCN5Y2V5LitCgogICAgUmV0dXJuczoKICAgICAgICAoYWxsb3dlZCwgbmVlZHNfYXBwcm92YWwsIHJlYXNvbiwgcGFyc2VkX2NvbW1hbmQpCiAgICAgICAgLSBhbGxvd2VkOiBib29sICAgICAg5piv5ZCm5YWB6K645omn6KGMCiAgICAgICAgLSBuZWVkc19hcHByb3ZhbDogYm9vbCDmmK/lkKbpnIDopoHnlKjmiLflrqHmibkKICAgICAgICAtIHJlYXNvbjogc3RyICAgICAgICDmi5Lnu50v5a6h5om55Y6f5ZugCiAgICAgICAgLSBwYXJzZWRfY29tbWFuZDogc3RyIOino+aekOWHuueahOesrOS4gOWxguWRveS7pOWQjQogICAgIiIiCiAgICBjbWQgPSBjb21tYW5kLnN0cmlwKCkKICAgIGlmIG5vdCBjbWQ6CiAgICAgICAgcmV0dXJuIChGYWxzZSwgRmFsc2UsICLnqbrlkb3ku6QiLCAiIikKCiAgICBwYXJzZWQgPSBfcGFyc2VfY29tbWFuZF9uYW1lKGNtZCkKICAgIGlmIG5vdCBwYXJzZWQ6CiAgICAgICAgcmV0dXJuIChGYWxzZSwgRmFsc2UsICLml6Dms5Xop6PmnpDlkb3ku6QiLCAiIikKCiAgICAjIOeZveWQjeWNleaooeW8j+acquWQr+eUqO+8muaUvuihjOaJgOacieWRveS7pO+8jOS4jeWuoeaJuQogICAgaWYgbm90IF9zYWZlX2V4ZWM6CiAgICAgICAgcmV0dXJuIChUcnVlLCBGYWxzZSwgIiIsIHBhcnNlZCkKCiAgICAjIOajgOa1i+mHjeWumuWQkSDigJQg5paH5Lu25L+u5pS56KGM5Li6CiAgICBmb3IgcGF0dGVybiBpbiBSRURJUkVDVF9QQVRURVJOUzoKICAgICAgICBpZiByZS5zZWFyY2gocGF0dGVybiwgY21kKToKICAgICAgICAgICAgcmV0dXJuIChUcnVlLCBUcnVlLCBmIuWRveS7pOWMheWQq+mHjeWumuWQkS/nrqHpgZMv5ZG95Luk5pu/5o2i77yM5Y+v6IO95L+u5pS55paH5Lu2IiwgcGFyc2VkKQoKICAgICMgZ2l0IOeJueauiuWkhOeQhgogICAgaWYgcGFyc2VkID09ICJnaXQiOgogICAgICAgIHJldHVybiBfY2hlY2tfZ2l0X2NvbW1hbmQoY21kKQoKICAgICMg5Y+q6K+75ZG95LukIOKAlCDnm7TmjqXmlL7ooYwKICAgIGlmIHBhcnNlZCBpbiBBTExPV0VEX1JFQURPTkxZX0NPTU1BTkRTOgogICAgICAgIHJldHVybiAoVHJ1ZSwgRmFsc2UsICIiLCBwYXJzZWQpCgogICAgIyDljbHpmanlkb3ku6Qg4oCUIOmcgOWuoeaJuQogICAgaWYgcGFyc2VkIGluIEFMTE9XRURfREFOR0VST1VTX0NPTU1BTkRTOgogICAgICAgIHJldHVybiAoVHJ1ZSwgVHJ1ZSwgZiLlkb3ku6QgJ3twYXJzZWR9JyDlj6/og73kv67mlLnmlofku7bvvIzpnIDopoHlrqHmibkiLCBwYXJzZWQpCgogICAgIyDkuI3lnKjku7vkvZXnmb3lkI3ljZXkuK0g4oCUIOmcgOWuoeaJuQogICAgcmV0dXJuIChUcnVlLCBUcnVlLCBmIuWRveS7pCAne3BhcnNlZH0nIOS4jeWcqOWFgeiuuOWIl+ihqOS4re+8jOmcgOimgeWuoeaJuSIsIHBhcnNlZCkKCgpkZWYgX3BhcnNlX2NvbW1hbmRfbmFtZShjb21tYW5kOiBzdHIpIC0+IHN0cjoKICAgICIiIuaPkOWPluWRveS7pOeahOesrOS4gOWxguWQjeensCIiIgogICAgdHJ5OgogICAgICAgIHBhcnRzID0gc2hsZXguc3BsaXQoY29tbWFuZC5zdHJpcCgpKQogICAgICAgIGlmIG5vdCBwYXJ0czoKICAgICAgICAgICAgcmV0dXJuICIiCiAgICAgICAgbmFtZSA9IHBhcnRzWzBdLnJzdHJpcCgiO3wmIikKICAgICAgICAjIOWkhOeQhiBzdWRvIC8gZW52IC8g6Lev5b6E5YmN57yACiAgICAgICAgaWYgbmFtZSBpbiAoInN1ZG8iLCk6CiAgICAgICAgICAgIGlmIGxlbihwYXJ0cykgPiAxOgogICAgICAgICAgICAgICAgbmFtZSA9IHBhcnRzWzFdLnJzdHJpcCgiO3wmIikKICAgICAgICBuYW1lID0gb3MucGF0aC5iYXNlbmFtZShuYW1lKQogICAgICAgIHJldHVybiBuYW1lCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICBmaXJzdCA9IGNvbW1hbmQuc3RyaXAoKS5zcGxpdCgpWzBdIGlmIGNvbW1hbmQuc3RyaXAoKS5zcGxpdCgpIGVsc2UgIiIKICAgICAgICByZXR1cm4gb3MucGF0aC5iYXNlbmFtZShmaXJzdC5yc3RyaXAoIjt8JiIpKQoKCmRlZiBfY2hlY2tfZ2l0X2NvbW1hbmQoY29tbWFuZDogc3RyKToKICAgICIiImdpdCDlkb3ku6Tnu4bliIbmo4Dmn6UiIiIKICAgIHRyeToKICAgICAgICBwYXJ0cyA9IHNobGV4LnNwbGl0KGNvbW1hbmQuc3RyaXAoKSkKICAgICAgICBpZiBsZW4ocGFydHMpIDwgMjoKICAgICAgICAgICAgcmV0dXJuIChUcnVlLCBGYWxzZSwgIiIsICJnaXQiKQoKICAgICAgICBzdWJjbWQgPSBwYXJ0c1sxXQogICAgICAgIGlmIHN1YmNtZCBpbiBHSVRfU0FGRV9TVUJDT01NQU5EUzoKICAgICAgICAgICAgcmV0dXJuIChUcnVlLCBGYWxzZSwgIiIsICJnaXQiKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiAoVHJ1ZSwgVHJ1ZSwgZiJnaXQge3N1YmNtZH0g5Y+v6IO95L+u5pS55LuT5bqT54q25oCB77yM6ZyA6KaB5a6h5om5IiwgImdpdCIpCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICByZXR1cm4gKFRydWUsIFRydWUsICJnaXQg5ZG95Luk6ZyA6KaB5a6h5om5IiwgImdpdCIpCgoKZGVmIGlzX2ZpbGVfbW9kaWZ5aW5nKGNvbW1hbmQ6IHN0cikgLT4gYm9vbDoKICAgICIiIuWIpOaWreWRveS7pOaYr+WQpuS8muS/ruaUueaWh+S7tu+8iOWQkeWQjuWFvOWuueaOpeWPo++8iSIiIgogICAgYWxsb3dlZCwgXywgXywgXyA9IGNoZWNrX2FsbG93bGlzdChjb21tYW5kKQogICAgaWYgbm90IGFsbG93ZWQ6CiAgICAgICAgcmV0dXJuIFRydWUKICAgIF8sIG5lZWRzX2FwcHJvdmFsLCBfLCBfID0gY2hlY2tfYWxsb3dsaXN0KGNvbW1hbmQpCiAgICBpZiBuZWVkc19hcHByb3ZhbDoKICAgICAgICByZXR1cm4gVHJ1ZQogICAgcmV0dXJuIEZhbHNlCg==
+# -*- coding: utf-8 -*-
+"""
+命令白名单机制 — 取代旧的黑名单模式
+
+命令分三类：
+  - 只读/无害命令 → 直接放行
+  - 危险命令       → 需用户审批
+  - 不在白名单     → 需用户审批
+"""
+
+import os
+import re
+import shlex
+
+# ═══════════════════════════════════════════════════════════
+# 白名单命令集
+# ═══════════════════════════════════════════════════════════
+
+ALLOWED_READONLY_COMMANDS = {
+    # 文件浏览与信息
+    'ls', 'find', 'tree', 'file', 'stat', 'du', 'df',
+    # 文本查看与搜索
+    'cat', 'head', 'tail', 'less', 'more', 'grep', 'rg',
+    # 文本统计与比较
+    'wc', 'sort', 'uniq', 'diff', 'cmp', 'comm',
+    # 路径与标识
+    'pwd', 'dirname', 'basename', 'realpath', 'readlink', 'which', 'type',
+    # 环境与进程信息
+    'env', 'printenv', 'date', 'whoami', 'hostname', 'uname', 'id',
+    # 基础输出
+    'echo', 'printf', 'true', 'false', 'test', '[', 'sleep',
+    # 网络诊断（只读）
+    'curl', 'wget',
+    # Python
+    'python', 'python3', '.venv/bin/python',
+}
+
+ALLOWED_DANGEROUS_COMMANDS = {
+    'mkdir', 'touch', 'cp', 'mv', 'rm', 'rmdir',
+    'chmod', 'chown', 'ln', 'tar', 'gzip', 'gunzip', 'zip', 'unzip',
+    'dd', 'sed', 'awk', 'tee', 'tr', 'cut',
+    'pip', 'pip3', 'npm', 'yarn',
+    'git',
+}
+
+GIT_SAFE_SUBCOMMANDS = {
+    'status', 'log', 'diff', 'branch', 'tag', 'show',
+    'rev-parse', 'rev-list', 'ls-files', 'ls-tree',
+    'remote', 'stash',
+}
+
+# 文件修改重定向符 — 命中则触发审批
+REDIRECT_PATTERNS = [
+    r'(?<!\\)>>?(?!&)',   # > 和 >> （排除 >&）
+    r'(?<!\\)\|',         # 管道
+    r'(?<!\\)\$\(',       # 命令替换
+    r'(?<!\\)`',          # 反引号命令替换
+]
+
+# ═══════════════════════════════════════════════════════════════
+# safe_exec 全局开关 — 由 CLI --safe-exec 参数控制
+# ═══════════════════════════════════════════════════════════════
+
+_safe_exec = False
+
+
+def set_safe_exec(value: bool) -> None:
+    """设置白名单模式开关。True = 启用白名单检查，False = 放行所有命令。"""
+    global _safe_exec
+    _safe_exec = value
+
+
+# 白名单检查
+
+def check_allowlist(command: str):
+    """检查命令是否在白名单中
+
+    Returns:
+        (allowed, needs_approval, reason, parsed_command)
+        - allowed: bool      是否允许执行
+        - needs_approval: bool 是否需要用户审批
+        - reason: str        拒绝/审批原因
+        - parsed_command: str 解析出的第一层命令名
+    """
+    cmd = command.strip()
+    if not cmd:
+        return (False, False, "空命令", "")
+
+    parsed = _parse_command_name(cmd)
+    if not parsed:
+        return (False, False, "无法解析命令", "")
+
+    # 白名单模式未启用：放行所有命令，不审批
+    if not _safe_exec:
+        return (True, False, "", parsed)
+
+    # 检测重定向 — 文件修改行为
+    for pattern in REDIRECT_PATTERNS:
+        if re.search(pattern, cmd):
+            return (True, True, f"命令包含重定向/管道/命令替换，可能修改文件", parsed)
+
+    # git 特殊处理
+    if parsed == "git":
+        return _check_git_command(cmd)
+
+    # 只读命令 — 直接放行
+    if parsed in ALLOWED_READONLY_COMMANDS:
+        return (True, False, "", parsed)
+
+    # 危险命令 — 需审批
+    if parsed in ALLOWED_DANGEROUS_COMMANDS:
+        return (True, True, f"命令 '{parsed}' 可能修改文件，需要审批", parsed)
+
+    # 不在任何白名单中 — 需审批
+    return (True, True, f"命令 '{parsed}' 不在允许列表中，需要审批", parsed)
+
+
+def _parse_command_name(command: str) -> str:
+    """提取命令的第一层名称"""
+    try:
+        parts = shlex.split(command.strip())
+        if not parts:
+            return ""
+        name = parts[0].rstrip(";|&")
+        # 处理 sudo / env / 路径前缀
+        if name in ("sudo",):
+            if len(parts) > 1:
+                name = parts[1].rstrip(";|&")
+        name = os.path.basename(name)
+        return name
+    except ValueError:
+        first = command.strip().split()[0] if command.strip().split() else ""
+        return os.path.basename(first.rstrip(";|&"))
+
+
+def _check_git_command(command: str):
+    """git 命令细分检查"""
+    try:
+        parts = shlex.split(command.strip())
+        if len(parts) < 2:
+            return (True, False, "", "git")
+
+        subcmd = parts[1]
+        if subcmd in GIT_SAFE_SUBCOMMANDS:
+            return (True, False, "", "git")
+        else:
+            return (True, True, f"git {subcmd} 可能修改仓库状态，需要审批", "git")
+    except ValueError:
+        return (True, True, "git 命令需要审批", "git")
+
+
+def is_file_modifying(command: str) -> bool:
+    """判断命令是否会修改文件（向后兼容接口）"""
+    allowed, _, _, _ = check_allowlist(command)
+    if not allowed:
+        return True
+    _, needs_approval, _, _ = check_allowlist(command)
+    if needs_approval:
+        return True
+    return False

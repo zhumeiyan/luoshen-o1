@@ -1,1 +1,108 @@
-aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CmltcG9ydCBvcwpmcm9tIHR5cGluZyBpbXBvcnQgRGljdAoKZnJvbSBoZWxtLmNvbW1vbi5jYWNoZSBpbXBvcnQgKAogICAgS2V5VmFsdWVTdG9yZUNhY2hlQ29uZmlnLAogICAgTW9uZ29DYWNoZUNvbmZpZywKICAgIFNxbGl0ZUNhY2hlQ29uZmlnLAogICAgY3JlYXRlX2tleV92YWx1ZV9zdG9yZSwKKQpmcm9tIGhlbG0uY29tbW9uLmtleV92YWx1ZV9zdG9yZSBpbXBvcnQgcmVxdWVzdF90b19rZXkKZnJvbSBoZWxtLmNvbW1vbi5oaWVyYXJjaGljYWxfbG9nZ2VyIGltcG9ydCBobG9nLCBodHJhY2sKZnJvbSAuZXhwb3J0X3JlcXVlc3RzIGltcG9ydCBTVVBQT1JURURfT1JHUwoKCiIiIgpTY3JpcHQgdG8gdXBkYXRlIGNhY2hlIHdpdGggcmVzcG9uc2VzL3JlcXVlc3QgcmVzdWx0cy4KClVzYWdlOgoKICAgIHB5dGhvbjMgc2NyaXB0cy9vZmZsaW5lX2V2YWwvaW1wb3J0X3Jlc3VsdHMucHkgPE9yZ2FuaXphdGlvbj4gPFBhdGggdG8gcmVzdWx0cyBqc29ubCBmaWxlPgoKICAgIEV4YW1wbGVzOgoKICAgICAgICBweXRob24zIHNjcmlwdHMvb2ZmbGluZV9ldmFsL2ltcG9ydF9yZXN1bHRzLnB5IHRvZ2V0aGVyIHJlc3VsdHMuanNvbmwKIiIiCgoKQGh0cmFjaygiVXBkYXRpbmcgY2FjaGUgd2l0aCByZXF1ZXN0cyBhbmQgcmVzdWx0cyIpCmRlZiBpbXBvcnRfcmVzdWx0cyhjYWNoZV9jb25maWc6IEtleVZhbHVlU3RvcmVDYWNoZUNvbmZpZywgb3JnYW5pemF0aW9uOiBzdHIsIHJlcXVlc3RfcmVzdWx0c19wYXRoOiBzdHIsIGRyeV9ydW46IGJvb2wpOgogICAgIiIiCiAgICBHaXZlbiBhIGpzb25sIGZpbGUgd2l0aCByZXF1ZXN0IGFuZCByZXN1bHRzLCB1cGxvYWRzIHJlcXVlc3QvcmVzdWx0IHBhaXJzIHRvIHRoZSBjYWNoZSBhdCBgY2FjaGVfcGF0aGAuCiAgICBXZSBhc3N1bWUgZWFjaCBsaW5lIG9mIHRoZSBpbnB1dCBqc29ubCBmaWxlIGlzIHN0cnVjdHVyZWQge3JlcXVlc3Q6IC4uLiwgcmVzdWx0OiAuLi59LgogICAgIiIiCiAgICBjb3VudDogaW50ID0gMAoKICAgICMgRm9yIE1ULU5MRywgd2Ugc2VuZCB0aGUgc2FtZSByZXF1ZXN0IGBudW1fY29tcGxldGlvbnNgIHRpbWVzIGJlY2F1c2UgdGhlIEFQSSBkb2VzIG5vdCBzdXBwb3J0IHRoZSBPcGVuQUkKICAgICMgcGFyYW1ldGVyICduJy4gSW4gb3VyIGNhY2hlLCB3ZSB1c2UgYGNvbXBsZXRpb25faW5kZXhgIHRvIGRpZmZlcmVudGlhdGUgcmVzcG9uc2VzIGZvciB0aGUgc2FtZSByZXF1ZXN0LAogICAgIyBXZSBuZWVkIHRvIGtlZXAgdHJhY2sgb2YgaG93IG1hbnkgdGltZXMgd2UndmUgc2VlbiBhIHJlcXVlc3QgdG8gZGV0ZXJtaW5lIHRoZSB2YWx1ZSBvZiBgY29tcGxldGlvbl9pbmRleGAuCiAgICByZXF1ZXN0X2NvdW50czogRGljdFtzdHIsIGludF0gPSBkZWZhdWx0ZGljdChpbnQpCgogICAgIyBVcGRhdGVzIGNhY2hlIHdpdGggcmVxdWVzdC9yZXN1bHQgcGFpcnMgZnJvbSBpbnB1dCBqc29ubCBmaWxlIGF0IGByZXF1ZXN0X3Jlc3VsdHNfcGF0aGAKICAgIHdpdGggY3JlYXRlX2tleV92YWx1ZV9zdG9yZShjYWNoZV9jb25maWcpIGFzIHN0b3JlOgogICAgICAgIHdpdGggb3BlbihyZXF1ZXN0X3Jlc3VsdHNfcGF0aCwgInIiKSBhcyBmOgogICAgICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgICAgICAgICAgaWYgbGVuKGxpbmUuc3RyaXAoKSkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgICAgIHJlcXVlc3RfYW5kX3Jlc3VsdDogRGljdCA9IGpzb24ubG9hZHMobGluZSkKICAgICAgICAgICAgICAgIHJlcXVlc3Q6IERpY3QgPSByZXF1ZXN0X2FuZF9yZXN1bHRbInJlcXVlc3QiXQogICAgICAgICAgICAgICAgcmVzdWx0OiBEaWN0ID0gcmVxdWVzdF9hbmRfcmVzdWx0WyJyZXN1bHQiXQoKICAgICAgICAgICAgICAgIGlmIG9yZ2FuaXphdGlvbiA9PSAibWljcm9zb2Z0IjoKICAgICAgICAgICAgICAgICAgICAjIEdldCB0aGUgdmFsdWUgb2YgYGNvbXBsZXRpb25faW5kZXhgIHdoaWNoIGlzIHRoZSBjdXJyZW50IGNvdW50CiAgICAgICAgICAgICAgICAgICAga2V5OiBzdHIgPSByZXF1ZXN0X3RvX2tleShyZXF1ZXN0KQogICAgICAgICAgICAgICAgICAgIGNvbXBsZXRpb25faW5kZXg6IGludCA9IHJlcXVlc3RfY291bnRzW2tleV0KICAgICAgICAgICAgICAgICAgICByZXF1ZXN0X2NvdW50c1trZXldICs9IDEKICAgICAgICAgICAgICAgICAgICBjYWNoZV9rZXk6IGRpY3QgPSB7ImNvbXBsZXRpb25faW5kZXgiOiBjb21wbGV0aW9uX2luZGV4LCAqKnJlcXVlc3R9CiAgICAgICAgICAgICAgICAgICAgc3RvcmUucHV0KGNhY2hlX2tleSwgcmVzdWx0KQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzdG9yZS5wdXQocmVxdWVzdCwgcmVzdWx0KQoKICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICAgICAgICAgIGlmIGNvdW50ID4gMCBhbmQgY291bnQgJSAxMF8wMDAgPT0gMDoKICAgICAgICAgICAgICAgICAgICBobG9nKGYiUHJvY2Vzc2VkIHtjb3VudH0gZW50cmllcyIpCgogICAgICAgIGlmIGRyeV9ydW46CiAgICAgICAgICAgIGhsb2coZiItLWRyeS1ydW4gd2FzIHNldC4gU2tpcHBpbmcgd3JpdGluZyBvdXQge2NvdW50fSBlbnRyaWVzLiIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaGxvZyhmIldyb3RlIHtjb3VudH0gZW50cmllcyB0byBjYWNoZSBhdCB7Y2FjaGVfY29uZmlnLmNhY2hlX3N0YXRzX2tleX0uIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1jYWNoZS1kaXIiLCB0eXBlPXN0ciwgaGVscD0iRm9yIGEgU1FMaXRlIGNhY2hlLCBkaXJlY3RvcnkgZm9yIHRoZSAuc3FsaXRlIGZpbGVzIGNvbnRhaW5pbmcgdGhlIGNhY2hlIgogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1tb25nby11cmkiLAogICAgICAgIHR5cGU9c3RyLAogICAgICAgIGhlbHA9KAogICAgICAgICAgICAiRm9yIGEgTW9uZ29EQiBjYWNoZSwgTW9uZ28gVVJJIHRvIGNvcHkgaXRlbXMgdG8uICIKICAgICAgICAgICAgIkV4YW1wbGUgZm9ybWF0OiBtb25nb2RiOi8vW3VzZXJuYW1lOnBhc3N3b3JkQF1ob3N0MVs6cG9ydDFdL2RibmFtZSIKICAgICAgICApLAogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgib3JnYW5pemF0aW9uIiwgdHlwZT1zdHIsIGhlbHA9Ik9yZ2FuaXphdGlvbiB0byBpbXBvcnQgcmVxdWVzdHMgZm9yIiwgY2hvaWNlcz1TVVBQT1JURURfT1JHUykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoInJlcXVlc3RfcmVzdWx0c19wYXRoIiwgdHlwZT1zdHIsIGhlbHA9IlBhdGggdG8ganNvbmwgZmlsZSB3aXRoIHJlcXVlc3RzIGFuZCByZXN1bHRzLiIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItZCIsCiAgICAgICAgIi0tZHJ5LXJ1biIsCiAgICAgICAgYWN0aW9uPSJzdG9yZV90cnVlIiwKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgaGVscD0iU2tpcHMgcGVyc2lzdGluZyBjaGFuZ2VzIHRvIHNxbGl0ZSBmaWxlIGFuZCBwcmludHMgbG9nIG1lc3NhZ2VzIGluc3RlYWQuIiwKICAgICkKICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCgogICAgaWYgKGFyZ3MuY2FjaGVfZGlyIGFuZCBhcmdzLm1vbmdvX3VyaSkgb3IgKG5vdCBhcmdzLmNhY2hlX2RpciBhbmQgbm90IGFyZ3MubW9uZ29fdXJpKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJFeGFjdGx5IG9uZSBvZiAtLWNhY2hlLWRpciBvciAtLW1vbmdvLXVyaSBzaG91bGQgYmUgc3BlY2lmaWVkIikKICAgIGNhY2hlX2NvbmZpZzogS2V5VmFsdWVTdG9yZUNhY2hlQ29uZmlnCiAgICBpZiBhcmdzLmNhY2hlX2RpcjoKICAgICAgICBjYWNoZV9jb25maWcgPSBTcWxpdGVDYWNoZUNvbmZpZyhvcy5wYXRoLmpvaW4oYXJncy5jYWNoZV9kaXIsIGYie2FyZ3Mub3JnYW5pemF0aW9ufS5zcWxpdGUiKSkKICAgIGVsaWYgYXJncy5tb25nb191cmk6CiAgICAgICAgY2FjaGVfY29uZmlnID0gTW9uZ29DYWNoZUNvbmZpZyhhcmdzLm1vbmdvX3VyaSwgYXJncy5vcmdhbml6YXRpb24pCgogICAgaW1wb3J0X3Jlc3VsdHMoY2FjaGVfY29uZmlnLCBhcmdzLm9yZ2FuaXphdGlvbiwgYXJncy5yZXF1ZXN0X3Jlc3VsdHNfcGF0aCwgYXJncy5kcnlfcnVuKQogICAgaGxvZygiRG9uZS4iKQo=
+import argparse
+import json
+from collections import defaultdict
+import os
+from typing import Dict
+
+from helm.common.cache import (
+    KeyValueStoreCacheConfig,
+    MongoCacheConfig,
+    SqliteCacheConfig,
+    create_key_value_store,
+)
+from helm.common.key_value_store import request_to_key
+from helm.common.hierarchical_logger import hlog, htrack
+from .export_requests import SUPPORTED_ORGS
+
+
+"""
+Script to update cache with responses/request results.
+
+Usage:
+
+    python3 scripts/offline_eval/import_results.py <Organization> <Path to results jsonl file>
+
+    Examples:
+
+        python3 scripts/offline_eval/import_results.py together results.jsonl
+"""
+
+
+@htrack("Updating cache with requests and results")
+def import_results(cache_config: KeyValueStoreCacheConfig, organization: str, request_results_path: str, dry_run: bool):
+    """
+    Given a jsonl file with request and results, uploads request/result pairs to the cache at `cache_path`.
+    We assume each line of the input jsonl file is structured {request: ..., result: ...}.
+    """
+    count: int = 0
+
+    # For MT-NLG, we send the same request `num_completions` times because the API does not support the OpenAI
+    # parameter 'n'. In our cache, we use `completion_index` to differentiate responses for the same request,
+    # We need to keep track of how many times we've seen a request to determine the value of `completion_index`.
+    request_counts: Dict[str, int] = defaultdict(int)
+
+    # Updates cache with request/result pairs from input jsonl file at `request_results_path`
+    with create_key_value_store(cache_config) as store:
+        with open(request_results_path, "r") as f:
+            for line in f:
+                if len(line.strip()) == 0:
+                    continue
+
+                request_and_result: Dict = json.loads(line)
+                request: Dict = request_and_result["request"]
+                result: Dict = request_and_result["result"]
+
+                if organization == "microsoft":
+                    # Get the value of `completion_index` which is the current count
+                    key: str = request_to_key(request)
+                    completion_index: int = request_counts[key]
+                    request_counts[key] += 1
+                    cache_key: dict = {"completion_index": completion_index, **request}
+                    store.put(cache_key, result)
+                else:
+                    store.put(request, result)
+
+                count += 1
+                if count > 0 and count % 10_000 == 0:
+                    hlog(f"Processed {count} entries")
+
+        if dry_run:
+            hlog(f"--dry-run was set. Skipping writing out {count} entries.")
+        else:
+            hlog(f"Wrote {count} entries to cache at {cache_config.cache_stats_key}.")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--cache-dir", type=str, help="For a SQLite cache, directory for the .sqlite files containing the cache"
+    )
+    parser.add_argument(
+        "--mongo-uri",
+        type=str,
+        help=(
+            "For a MongoDB cache, Mongo URI to copy items to. "
+            "Example format: mongodb://[username:password@]host1[:port1]/dbname"
+        ),
+    )
+    parser.add_argument("organization", type=str, help="Organization to import requests for", choices=SUPPORTED_ORGS)
+    parser.add_argument("request_results_path", type=str, help="Path to jsonl file with requests and results.")
+    parser.add_argument(
+        "-d",
+        "--dry-run",
+        action="store_true",
+        default=None,
+        help="Skips persisting changes to sqlite file and prints log messages instead.",
+    )
+    args = parser.parse_args()
+
+    if (args.cache_dir and args.mongo_uri) or (not args.cache_dir and not args.mongo_uri):
+        raise ValueError("Exactly one of --cache-dir or --mongo-uri should be specified")
+    cache_config: KeyValueStoreCacheConfig
+    if args.cache_dir:
+        cache_config = SqliteCacheConfig(os.path.join(args.cache_dir, f"{args.organization}.sqlite"))
+    elif args.mongo_uri:
+        cache_config = MongoCacheConfig(args.mongo_uri, args.organization)
+
+    import_results(cache_config, args.organization, args.request_results_path, args.dry_run)
+    hlog("Done.")

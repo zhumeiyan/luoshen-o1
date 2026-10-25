@@ -1,1 +1,133 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGl0ZXJ0b29scwpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdApmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MKZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcsIEFueQoKaWYgVFlQRV9DSEVDS0lORzoKICAgIGZyb20gY29pbG1xLnNlcnZlciBpbXBvcnQgU3RvbXBDb25uZWN0aW9uCgpERUZBVUxUX1NVQlNDUklQVElPTl9JRCA9IDAKCgpAZGF0YWNsYXNzKGZyb3plbj1UcnVlKQpjbGFzcyBTdWJzY3JpcHRpb246CiAgICBjb25uZWN0aW9uOiBTdG9tcENvbm5lY3Rpb24KICAgIGlkOiBBbnkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBmYWN0b3J5KGNscywgY29ubmVjdGlvbiwgaWQ9Tm9uZSk6CiAgICAgICAgIiIiOnBhcmFtIGNvbm5lY3Rpb246IFRoZSBjb25uZWN0aW9uIHRvIHN1YnNjcmliZS4KICAgICAgICA6dHlwZSBjb25uZWN0aW9uOiBjb2lsbXEuc2VydmVyLlN0b21wQ29ubmVjdGlvbgogICAgICAgIDpwYXJhbSBpZDogVGhlIHN1YnNjcmlwdGlvbiBpZGVudGlmaWVyIChpbnRyb2R1Y2VkIGluIFNUT01QIDEuMSkuCiAgICAgICAgOnR5cGUgaWQ6IHR5cGluZy5BbnkKCiAgICAgICAgOnJldHVybnM6IFRoZSBzdWJzY3JpcHRpb24uCiAgICAgICAgOnJ0eXBlOiBTdWJzY3JpcHRpb24KICAgICAgICAiIiIKICAgICAgICBpZiBpZCBpcyBOb25lOgogICAgICAgICAgICBpZCA9IERFRkFVTFRfU1VCU0NSSVBUSU9OX0lECiAgICAgICAgcmV0dXJuIGNscyhjb25uZWN0aW9uPWNvbm5lY3Rpb24sIGlkPWlkKQoKCmNsYXNzIFN1YnNjcmlwdGlvbk1hbmFnZXI6CiAgICAiIiJNYW5hZ2Ugc3Vic2NyaXB0aW9ucyBhc3NvY2lhdGVkIHdpdGggY29ubmVjdGlvbnMuIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgICIiIjp2YXIgX3N1YnNjcmlwdGlvbnM6IEEgZGljdCBvZiByZWdpc3RlcmVkIHN1YnNjcmlwdGlvbnMsIGtleWVkIGJ5IGRlc3RpbmF0aW9uLgogICAgICAgIDp2YXJ0eXBlIF9zdWJzY3JpcHRpb25zOiBkaWN0W3N0ciwgc2V0W2NvaWxtcS5zdWJzY3JpcHRpb24uU3Vic2NyaXB0aW9uXV0uCiAgICAgICAgIiIiCiAgICAgICAgc2VsZi5fc3Vic2NyaXB0aW9ucyA9IGRlZmF1bHRkaWN0KHNldCkKCiAgICBkZWYgc3Vic2NyaWJlKHNlbGYsIGNvbm5lY3Rpb24sIGRlc3RpbmF0aW9uLCBpZD1Ob25lKToKICAgICAgICAiIiJTdWJzY3JpYmVzIGEgY29ubmVjdGlvbiB0byB0aGUgc3BlY2lmaWVkIGRlc3RpbmF0aW9uLgoKICAgICAgICA6cGFyYW0gZGVzdGluYXRpb246IFRoZSBkZXN0aW5hdGlvbiAoZS5nLiAnL3F1ZXVlL2ZvbycpCiAgICAgICAgOnR5cGUgZGVzdGluYXRpb246IHN0cgogICAgICAgIDpwYXJhbSBjb25uZWN0aW9uOiBUaGUgY29ubmVjdGlvbiB0byBzdWJzY3JpYmUuCiAgICAgICAgOnR5cGUgY29ubmVjdGlvbjogY29pbG1xLnNlcnZlci5TdG9tcENvbm5lY3Rpb24KICAgICAgICA6cGFyYW0gaWQ6IHN1YnNjcmlwdGlvbiBpZGVudGlmaWVyIChvcHRpb25hbCkKICAgICAgICA6dHlwZSBpZDogaW50CgogICAgICAgIDpyZXR1cm5zOiBUaGUgc3Vic2NyaXB0aW9uLgogICAgICAgIDpydHlwZTogU3Vic2NyaXB0aW9uCiAgICAgICAgIiIiCiAgICAgICAgaWYgaWQgaXMgTm9uZToKICAgICAgICAgICAgaWQgPSBERUZBVUxUX1NVQlNDUklQVElPTl9JRAogICAgICAgIHN1YnNjcmlwdGlvbiA9IFN1YnNjcmlwdGlvbihjb25uZWN0aW9uPWNvbm5lY3Rpb24sIGlkPWlkKQogICAgICAgIHNlbGYuX3N1YnNjcmlwdGlvbnNbZGVzdGluYXRpb25dLmFkZChzdWJzY3JpcHRpb24pCiAgICAgICAgcmV0dXJuIHN1YnNjcmlwdGlvbgoKICAgIGRlZiB1bnN1YnNjcmliZShzZWxmLCBjb25uZWN0aW9uLCBkZXN0aW5hdGlvbiwgaWQ9Tm9uZSk6CiAgICAgICAgIiIiVW5zdWJzY3JpYmVzIGEgY29ubmVjdGlvbiBmcm9tIGEgZGVzdGluYXRpb24uCgogICAgICAgIDpwYXJhbSBjb25uZWN0aW9uOiBUaGUgY2xpZW50IGNvbm5lY3Rpb24gdG8gdW5zdWJzY3JpYmUuCiAgICAgICAgOnR5cGUgY29ubmVjdGlvbjogY29pbG1xLnNlcnZlci5TdG9tcENvbm5lY3Rpb24KICAgICAgICA6cGFyYW0gZGVzdGluYXRpb246IFRoZSB0b3BpYy9xdWV1ZSBkZXN0aW5hdGlvbiAoZS5nLiAnL3F1ZXVlL2ZvbycpCiAgICAgICAgOnR5cGUgZGVzdGluYXRpb246IHN0cgogICAgICAgIDpwYXJhbSBpZDogc3Vic2NyaXB0aW9uIGlkZW50aWZpZXIgKG9wdGlvbmFsKQogICAgICAgIDp0eXBlIGlkOiBpbnQKCiAgICAgICAgIiIiCiAgICAgICAgc3Vic2NyaXB0aW9ucyA9IHNlbGYuX3N1YnNjcmlwdGlvbnMuZ2V0KGRlc3RpbmF0aW9uLCBOb25lKQogICAgICAgIGlmIHN1YnNjcmlwdGlvbnMgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgaWYgaWQgaXMgTm9uZToKICAgICAgICAgICAgaWQgPSBERUZBVUxUX1NVQlNDUklQVElPTl9JRAogICAgICAgIHN1YnNjcmlwdGlvbiA9IFN1YnNjcmlwdGlvbihjb25uZWN0aW9uPWNvbm5lY3Rpb24sIGlkPWlkKQogICAgICAgIHRyeToKICAgICAgICAgICAgc3Vic2NyaXB0aW9ucy5yZW1vdmUoc3Vic2NyaXB0aW9uKQogICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgcGFzcwogICAgICAgIGlmIG5vdCBzdWJzY3JpcHRpb25zOgogICAgICAgICAgICBkZWwgc2VsZi5fc3Vic2NyaXB0aW9uc1tkZXN0aW5hdGlvbl0KCiAgICBkZWYgZGlzY29ubmVjdChzZWxmLCBjb25uZWN0aW9uKToKICAgICAgICAiIiJSZW1vdmVzIGEgY2xpZW50IGNvbm5lY3Rpb24uCgogICAgICAgIDpwYXJhbSBjb25uZWN0aW9uOiBUaGUgY2xpZW50IGNvbm5lY3Rpb24gdG8gdW5zdWJzY3JpYmUuCiAgICAgICAgOnR5cGUgY29ubmVjdGlvbjogY29pbG1xLnNlcnZlci5TdG9tcENvbm5lY3Rpb24KICAgICAgICAiIiIKICAgICAgICBmb3IgZGVzdGluYXRpb24sIHN1YnNjcmlwdGlvbnMgaW4gbGlzdChzZWxmLl9zdWJzY3JpcHRpb25zLml0ZW1zKCkpOgogICAgICAgICAgICBzdWJzY3JpcHRpb25zID0gewogICAgICAgICAgICAgICAgc3Vic2NyaXB0aW9uCiAgICAgICAgICAgICAgICBmb3Igc3Vic2NyaXB0aW9uIGluIHN1YnNjcmlwdGlvbnMKICAgICAgICAgICAgICAgIGlmIHN1YnNjcmlwdGlvbi5jb25uZWN0aW9uICE9IGNvbm5lY3Rpb24KICAgICAgICAgICAgfQogICAgICAgICAgICBpZiBzdWJzY3JpcHRpb25zOgogICAgICAgICAgICAgICAgc2VsZi5fc3Vic2NyaXB0aW9uc1tkZXN0aW5hdGlvbl0gPSBzdWJzY3JpcHRpb25zCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBkZWwgc2VsZi5fc3Vic2NyaXB0aW9uc1tkZXN0aW5hdGlvbl0KCiAgICBkZWYgc3Vic2NyaWJlcl9jb3VudChzZWxmLCBkZXN0aW5hdGlvbj1Ob25lKToKICAgICAgICAiIiJSZXR1cm5zIGEgY291bnQgb2YgdGhlIG51bWJlciBvZiBzdWJzY3JpYmVycy4KCiAgICAgICAgSWYgZGVzdGluYXRpb24gaXMgc3BlY2lmaWVkIHRoZW4gaXQgb25seSByZXR1cm5zIGNvdW50IG9mIHN1YnNjcmliZXJzCiAgICAgICAgZm9yIHRoYXQgc3BlY2lmaWMgZGVzdGluYXRpb24uCgogICAgICAgIDpwYXJhbSBkZXN0aW5hdGlvbjogVGhlIG9wdGlvbmFsIHRvcGljL3F1ZXVlIGRlc3RpbmF0aW9uIChlLmcuICcvcXVldWUvZm9vJykKICAgICAgICA6dHlwZSBkZXN0aW5hdGlvbjogc3RyCgogICAgICAgIDpyZXR1cm5zOiBUaGUgbnVtYmVyIG9mIHN1YnNjcmliZXJzLgogICAgICAgIDpydHlwZTogaW50CiAgICAgICAgIiIiCiAgICAgICAgaWYgZGVzdGluYXRpb246CiAgICAgICAgICAgIHJldHVybiBsZW4oc2VsZi5fc3Vic2NyaXB0aW9ucy5nZXQoZGVzdGluYXRpb24sIHNldCgpKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gc3VtKG1hcChsZW4sIHNlbGYuX3N1YnNjcmlwdGlvbnMudmFsdWVzKCkpKQoKICAgIGRlZiBzdWJzY3JpYmVycyhzZWxmLCBkZXN0aW5hdGlvbik6CiAgICAgICAgIiIiUmV0dXJucyBzdWJzY3JpYmVycyB0byBhIHNpbmdsZSBkZXN0aW5hdGlvbi4KCiAgICAgICAgOnBhcmFtIGRlc3RpbmF0aW9uOiBUaGUgb3B0aW9uYWwgdG9waWMvcXVldWUgZGVzdGluYXRpb24gKGUuZy4gJy9xdWV1ZS9mb28nKQogICAgICAgIDp0eXBlIGRlc3RpbmF0aW9uOiBzdHIKCiAgICAgICAgOnJldHVybnM6IFRoZSBzdWJzY3JpYmVycy4KICAgICAgICA6cnR5cGU6IHNldAogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLl9zdWJzY3JpcHRpb25zLmdldChkZXN0aW5hdGlvbiwgc2V0KCkpCgogICAgZGVmIGFsbF9zdWJzY3JpYmVycyhzZWxmKToKICAgICAgICAiIiJZaWVsZHMgYWxsIHN1YnNjcmliZXJzLiIiIgogICAgICAgIHlpZWxkIGZyb20gaXRlcnRvb2xzLmNoYWluKHNlbGYuX3N1YnNjcmlwdGlvbnMuaXRlbXMoKSkK
+from __future__ import annotations
+
+import itertools
+from collections import defaultdict
+from dataclasses import dataclass
+from typing import TYPE_CHECKING, Any
+
+if TYPE_CHECKING:
+    from coilmq.server import StompConnection
+
+DEFAULT_SUBSCRIPTION_ID = 0
+
+
+@dataclass(frozen=True)
+class Subscription:
+    connection: StompConnection
+    id: Any
+
+    @classmethod
+    def factory(cls, connection, id=None):
+        """:param connection: The connection to subscribe.
+        :type connection: coilmq.server.StompConnection
+        :param id: The subscription identifier (introduced in STOMP 1.1).
+        :type id: typing.Any
+
+        :returns: The subscription.
+        :rtype: Subscription
+        """
+        if id is None:
+            id = DEFAULT_SUBSCRIPTION_ID
+        return cls(connection=connection, id=id)
+
+
+class SubscriptionManager:
+    """Manage subscriptions associated with connections."""
+
+    def __init__(self):
+        """:var _subscriptions: A dict of registered subscriptions, keyed by destination.
+        :vartype _subscriptions: dict[str, set[coilmq.subscription.Subscription]].
+        """
+        self._subscriptions = defaultdict(set)
+
+    def subscribe(self, connection, destination, id=None):
+        """Subscribes a connection to the specified destination.
+
+        :param destination: The destination (e.g. '/queue/foo')
+        :type destination: str
+        :param connection: The connection to subscribe.
+        :type connection: coilmq.server.StompConnection
+        :param id: subscription identifier (optional)
+        :type id: int
+
+        :returns: The subscription.
+        :rtype: Subscription
+        """
+        if id is None:
+            id = DEFAULT_SUBSCRIPTION_ID
+        subscription = Subscription(connection=connection, id=id)
+        self._subscriptions[destination].add(subscription)
+        return subscription
+
+    def unsubscribe(self, connection, destination, id=None):
+        """Unsubscribes a connection from a destination.
+
+        :param connection: The client connection to unsubscribe.
+        :type connection: coilmq.server.StompConnection
+        :param destination: The topic/queue destination (e.g. '/queue/foo')
+        :type destination: str
+        :param id: subscription identifier (optional)
+        :type id: int
+
+        """
+        subscriptions = self._subscriptions.get(destination, None)
+        if subscriptions is None:
+            return
+        if id is None:
+            id = DEFAULT_SUBSCRIPTION_ID
+        subscription = Subscription(connection=connection, id=id)
+        try:
+            subscriptions.remove(subscription)
+        except KeyError:
+            pass
+        if not subscriptions:
+            del self._subscriptions[destination]
+
+    def disconnect(self, connection):
+        """Removes a client connection.
+
+        :param connection: The client connection to unsubscribe.
+        :type connection: coilmq.server.StompConnection
+        """
+        for destination, subscriptions in list(self._subscriptions.items()):
+            subscriptions = {
+                subscription
+                for subscription in subscriptions
+                if subscription.connection != connection
+            }
+            if subscriptions:
+                self._subscriptions[destination] = subscriptions
+            else:
+                del self._subscriptions[destination]
+
+    def subscriber_count(self, destination=None):
+        """Returns a count of the number of subscribers.
+
+        If destination is specified then it only returns count of subscribers
+        for that specific destination.
+
+        :param destination: The optional topic/queue destination (e.g. '/queue/foo')
+        :type destination: str
+
+        :returns: The number of subscribers.
+        :rtype: int
+        """
+        if destination:
+            return len(self._subscriptions.get(destination, set()))
+        else:
+            return sum(map(len, self._subscriptions.values()))
+
+    def subscribers(self, destination):
+        """Returns subscribers to a single destination.
+
+        :param destination: The optional topic/queue destination (e.g. '/queue/foo')
+        :type destination: str
+
+        :returns: The subscribers.
+        :rtype: set
+        """
+        return self._subscriptions.get(destination, set())
+
+    def all_subscribers(self):
+        """Yields all subscribers."""
+        yield from itertools.chain(self._subscriptions.items())

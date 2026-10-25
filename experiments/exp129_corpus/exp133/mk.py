@@ -1,1 +1,74 @@
-aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKaW1wb3J0IGpzb24sIHBhdGhsaWIsIGNvbGxlY3Rpb25zCnBsdC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJXZW5RdWFuWWkgTWljcm8gSGVpIgpwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdID0gRmFsc2UKCkQgPSBwYXRobGliLlBhdGgoX19maWxlX18pLnBhcmVudApsYWIgPSBqc29uLmxvYWRzKChELyJsYWJlbHMxMzMuanNvbiIpLnJlYWRfdGV4dCgpKQphdWQgPSBqc29uLmxvYWRzKChELyJhdWRpdDEzMy5qc29uIikucmVhZF90ZXh0KCkpCgpmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKDIsIDMsIGZpZ3NpemU9KDE1LCA4LjQpKQpmaWcuc3VwdGl0bGUoImV4cDEzMyAg5aOw5piO5q+P5p2h6KeE5YiZ5oyH5o6n5LuA5LmI77yM54S25ZCO5oqK5q+P5Liq5Y+R546w5ou/5Y675a+56LSoIiwgZm9udHNpemU9MTQpCgojIDEgYW5jaG9yIHByb29mOiBiZWZvcmUgdnMgYWZ0ZXIKYTAgPSBheFswLDBdCm5hbWVzID0gWyJleHAxMzBcbijml6flkK/lj5HlvI8pIiwgImV4cDEzMyB2MVxuKOaVtOiKgueCueivgeaYjikiLCAiZXhwMTMzIHYzXG4o6KGM5paH5pys6K+B5piOKSJdCnZhbHMgPSBbMzUuMywgODMuOSwgOTEuN10KYiA9IGEwLmJhcihuYW1lcywgdmFscywgY29sb3I9WyIjYzAzOTJiIiwiI2U2N2UyMiIsIiMyN2FlNjAiXSkKYTAuYXhobGluZSg2MCwgbHM9Ii0tIiwgYz0iayIsIGx3PTEpCmEwLnNldF95bGltKDAsMTAwKTsgYTAuc2V0X3lsYWJlbCgiJSIpCmEwLnNldF90aXRsZSgi6ZSa54K56Ieq6K+B546H77yI5Y+q55So6K+76ICF5Lya55yL5Yiw55qE6YKj5LiA6KGM77yJIikKZm9yIHIsdiBpbiB6aXAoYix2YWxzKTogYTAudGV4dChyLmdldF94KCkrci5nZXRfd2lkdGgoKS8yLCB2KzIsIGYie3Z9JSIsIGhhPSJjZW50ZXIiKQoKIyAyIHN0cmljdCBwcmVjaXNpb24gYnkga2luZAphMSA9IGF4WzAsMV0KcHJlcyA9IFt4IGZvciB4IGluIGxhYiBpZiB4WyJraW5kIl09PSJwcmVzZW50Il0KYWJzdCA9IFt4IGZvciB4IGluIGxhYiBpZiB4WyJraW5kIl09PSJhYnNlbnQiXQp2YWxzID0gWzEwMCpzdW0oeFsic3RyaWN0Il0gZm9yIHggaW4gcHJlcykvbGVuKHByZXMpLAogICAgICAgIDEwMCpzdW0oeFsic3RyaWN0Il0gZm9yIHggaW4gYWJzdCkvbGVuKGFic3QpLAogICAgICAgIDEwMCpzdW0oeFsic3RyaWN0Il0gZm9yIHggaW4gbGFiKS9sZW4obGFiKV0KbmFtZXMgPSBbZiJwcmVzZW50XG5uPXtsZW4ocHJlcyl9IiwgZiJhYnNlbnRcbm49e2xlbihhYnN0KX0iLCBmIuWFqOmDqFxubj17bGVuKGxhYil9Il0KYiA9IGExLmJhcihuYW1lcywgdmFscywgY29sb3I9WyIjMjdhZTYwIiwiI2MwMzkyYiIsIiM3ZjhjOGQiXSkKYTEuYXhobGluZSg2MCwgbHM9Ii0tIiwgYz0iayIsIGx3PTEpCmExLnNldF95bGltKDAsMTAwKTsgYTEuc2V0X3lsYWJlbCgi5Lil5qC857K+5bqmICUiKQphMS5zZXRfdGl0bGUoIuS4peagvOeyvuW6pu+8mmFic2VudCDop4TliJnnu5PmnoTkuIrkuLogMCIpCmZvciByLHYgaW4gemlwKGIsdmFscyk6IGExLnRleHQoci5nZXRfeCgpK3IuZ2V0X3dpZHRoKCkvMiwgdisyLCBmInt2Oi4xZn0lIiwgaGE9ImNlbnRlciIpCgojIDMga2V5IHNhdHVyYXRpb24KYTIgPSBheFswLDJdCnJhdGVzID0geyJFRzAwNSI6MjMuNSwiRUcwMTEiOk5vbmUsIkVHMDEyIjo3LjIsIkVHMDEzIjoxMi4xLCJFR1AwOSI6NC4wLAogICAgICAgICAiRUcwMDYiOjEwMC4wLCJFR1AwOCI6MTAwLjAsIkVHMDAxIjoxLjcsIkVHMDE2IjowLjl9CmtzID0gbGlzdChyYXRlcykKdnYgPSBbcmF0ZXNba10gaWYgcmF0ZXNba10gaXMgbm90IE5vbmUgZWxzZSAwIGZvciBrIGluIGtzXQpjb2wgPSBbIiNlNjdlMjIiIGlmIHJhdGVzW2tdIGlzIE5vbmUgZWxzZSAoIiNjMDM5MmIiIGlmIHJhdGVzW2tdPjk1IGVsc2UgIiMyN2FlNjAiKSBmb3IgayBpbiBrc10KYiA9IGEyLmJhcihrcywgdnYsIGNvbG9yPWNvbCkKYTIuYXhobGluZSg5NSwgbHM9Ii0tIiwgYz0iciIsIGx3PTEpCmEyLnNldF95bGFiZWwoInBvb2wg5Lit5ZCrIGtleSDnmoTmr5TkvosgJSIpCmEyLnNldF90aXRsZSgia2V5IOeahOWMuuWIhuWKm++8iOapmT3mnKrlo7DmmI7vvIznuqI96aWx5ZKM77yJIikKYTIudGlja19wYXJhbXMoYXhpcz0ieCIsIHJvdGF0aW9uPTQ1LCBsYWJlbHNpemU9OCkKCiMgNCBFRzAxMSBhbmNob3IgbWlncmF0aW9uCmEzID0gYXhbMSwwXQphMy5iYXJoKFsib2xtZXMgTDcxMyIsIm9sbWVzIEw4NTciLCJoZWxtIEwxNzIiXSwgWzIsMywxOF0sIGNvbG9yPSIjYzAzOTJiIiwgbGFiZWw9IuS/ruWJje+8iOW+queOr+WktO+8iSIpCmEzLmJhcmgoWyJvbG1lcyBMNzE1Iiwib2xtZXMgTDg2MCIsImhlbG0gTDE5MCJdLCBbMCwwLDBdLCBjb2xvcj0iIzI3YWU2MCIsIGxhYmVsPSLkv67lkI7vvIhjb250aW51ZSDooYzvvIkiKQphMy5zZXRfeGxhYmVsKCLor4Hmja7ot53pkonkvY/ooYznmoTooYzmlbAiKTsgYTMuc2V0X3RpdGxlKCJFRzAxMe+8mumSieWtkOenu+WIsOecn+ato+i3s+i/h+eahOmCo+S4gOihjCIpCmEzLmxlZ2VuZChmb250c2l6ZT04KQoKIyA1IG1ldHJpY3MucHkgc3Vic3RyaW5nIGJ1ZwphNCA9IGF4WzEsMV0KYTQuYmFyKFsi5L+u5YmNIiwi5L+u5ZCOIl0sIFsxMiwyXSwgY29sb3I9WyIjYzAzOTJiIiwiIzI3YWU2MCJdKQphNC5zZXRfeWxhYmVsKCJvbG1lcyDkuK3ooqvliKTkuLrigJzmiqXlkYrmjIfmoIfigJ3nmoTor63lj6XmlbAiKQphNC5zZXRfdGl0bGUoIuWtkOS4suWMuemFje+8mm1lbW9yeSDlkKsgZW3vvIxkZWZlcnJlZCDlkKsgZXJyIikKZm9yIGksdiBpbiBlbnVtZXJhdGUoWzEyLDJdKTogYTQudGV4dChpLCB2KzAuMywgc3RyKHYpLCBoYT0iY2VudGVyIikKCiMgNiByZWNhbGwgcHJlc2VydmVkCmE1ID0gYXhbMSwyXQphNS5iYXIoWyLln4vpm7cgMTIiLCJwcm8gMTQiLCJjbGVhbiAwIl0sIFsxMiwxNCwwXSwgY29sb3I9IiMyOTgwYjkiKQphNS5zZXRfeWxhYmVsKCLlkb3kuK3mlbAiKTsgYTUuc2V0X3RpdGxlKCLlj6zlm57mnKrmjonvvIjmj5Dnsr7luqbkuI3og73pnaDliKDlj6zlm57vvIkiKQpmb3IgaSx2IGluIGVudW1lcmF0ZShbMTIsMTQsMF0pOiBhNS50ZXh0KGksIHYrMC4zLCBzdHIodiksIGhhPSJjZW50ZXIiKQoKcGx0LnRpZ2h0X2xheW91dChyZWN0PVswLDAsMSwwLjk1XSkKcGx0LnNhdmVmaWcoRC8iZmlnMTMzLnBuZyIsIGRwaT0xMTApCnByaW50KCJzYXZlZCIsIChELyJmaWcxMzMucG5nIikuc3RhdCgpLnN0X3NpemUpCg==
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+import json, pathlib, collections
+plt.rcParams["font.family"] = "WenQuanYi Micro Hei"
+plt.rcParams["axes.unicode_minus"] = False
+
+D = pathlib.Path(__file__).parent
+lab = json.loads((D/"labels133.json").read_text())
+aud = json.loads((D/"audit133.json").read_text())
+
+fig, ax = plt.subplots(2, 3, figsize=(15, 8.4))
+fig.suptitle("exp133  声明每条规则指控什么，然后把每个发现拿去对质", fontsize=14)
+
+# 1 anchor proof: before vs after
+a0 = ax[0,0]
+names = ["exp130\n(旧启发式)", "exp133 v1\n(整节点证明)", "exp133 v3\n(行文本证明)"]
+vals = [35.3, 83.9, 91.7]
+b = a0.bar(names, vals, color=["#c0392b","#e67e22","#27ae60"])
+a0.axhline(60, ls="--", c="k", lw=1)
+a0.set_ylim(0,100); a0.set_ylabel("%")
+a0.set_title("锚点自证率（只用读者会看到的那一行）")
+for r,v in zip(b,vals): a0.text(r.get_x()+r.get_width()/2, v+2, f"{v}%", ha="center")
+
+# 2 strict precision by kind
+a1 = ax[0,1]
+pres = [x for x in lab if x["kind"]=="present"]
+abst = [x for x in lab if x["kind"]=="absent"]
+vals = [100*sum(x["strict"] for x in pres)/len(pres),
+        100*sum(x["strict"] for x in abst)/len(abst),
+        100*sum(x["strict"] for x in lab)/len(lab)]
+names = [f"present\nn={len(pres)}", f"absent\nn={len(abst)}", f"全部\nn={len(lab)}"]
+b = a1.bar(names, vals, color=["#27ae60","#c0392b","#7f8c8d"])
+a1.axhline(60, ls="--", c="k", lw=1)
+a1.set_ylim(0,100); a1.set_ylabel("严格精度 %")
+a1.set_title("严格精度：absent 规则结构上为 0")
+for r,v in zip(b,vals): a1.text(r.get_x()+r.get_width()/2, v+2, f"{v:.1f}%", ha="center")
+
+# 3 key saturation
+a2 = ax[0,2]
+rates = {"EG005":23.5,"EG011":None,"EG012":7.2,"EG013":12.1,"EGP09":4.0,
+         "EG006":100.0,"EGP08":100.0,"EG001":1.7,"EG016":0.9}
+ks = list(rates)
+vv = [rates[k] if rates[k] is not None else 0 for k in ks]
+col = ["#e67e22" if rates[k] is None else ("#c0392b" if rates[k]>95 else "#27ae60") for k in ks]
+b = a2.bar(ks, vv, color=col)
+a2.axhline(95, ls="--", c="r", lw=1)
+a2.set_ylabel("pool 中含 key 的比例 %")
+a2.set_title("key 的区分力（橙=未声明，红=饱和）")
+a2.tick_params(axis="x", rotation=45, labelsize=8)
+
+# 4 EG011 anchor migration
+a3 = ax[1,0]
+a3.barh(["olmes L713","olmes L857","helm L172"], [2,3,18], color="#c0392b", label="修前（循环头）")
+a3.barh(["olmes L715","olmes L860","helm L190"], [0,0,0], color="#27ae60", label="修后（continue 行）")
+a3.set_xlabel("证据距钉住行的行数"); a3.set_title("EG011：钉子移到真正跳过的那一行")
+a3.legend(fontsize=8)
+
+# 5 metrics.py substring bug
+a4 = ax[1,1]
+a4.bar(["修前","修后"], [12,2], color=["#c0392b","#27ae60"])
+a4.set_ylabel("olmes 中被判为“报告指标”的语句数")
+a4.set_title("子串匹配：memory 含 em，deferred 含 err")
+for i,v in enumerate([12,2]): a4.text(i, v+0.3, str(v), ha="center")
+
+# 6 recall preserved
+a5 = ax[1,2]
+a5.bar(["埋雷 12","pro 14","clean 0"], [12,14,0], color="#2980b9")
+a5.set_ylabel("命中数"); a5.set_title("召回未掉（提精度不能靠删召回）")
+for i,v in enumerate([12,14,0]): a5.text(i, v+0.3, str(v), ha="center")
+
+plt.tight_layout(rect=[0,0,1,0.95])
+plt.savefig(D/"fig133.png", dpi=110)
+print("saved", (D/"fig133.png").stat().st_size)

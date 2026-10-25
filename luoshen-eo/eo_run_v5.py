@@ -1,1 +1,167 @@
-IiIiRU/mspnnm5Lov5DooYzlmahWNeKAlOKAlOmVv+acn+i/kOihjOinguWvn+OAggoK6K6p6ICm5ZCIRU/ot5ExMDAw5ouN77yM6KeC5a+f6ZW/5pyf5raM546w6KGM5Li677yaCjEuIOWkp+iEkeiDveWQpuaMgee7remAguW6lOeOr+Wig+WPmOWMlgoyLiDmtYHph4/og73lkKbplb/mnJ/nu7TmjIEKMy4g55ak6K6h5pWw5ZKMY2FwYWNpdHnnmoTplb/mnJ/otovlir8KNC4g5pWw5a2X5oSf5a6Y5o6i57Si55qE57Sv56ev5pWI5p6cCjUuIOeyvuWNq+WFrOW8j+eahOmVv+acn86U6LaL5Yq/CiIiIgoKaW1wb3J0IG1hdGgKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCByYW5kb20KCmZyb20gZW9fY29yZSBpbXBvcnQgRU/lrp7kvosKCgpkZWYg6L+Q6KGMX+mVv+acn+a2jOeOsOinguWvnyjmi43mlbA9MTAwMCk6CiAgICBwcmludChmIj09PSDplb/mnJ/mtoznjrDop4Llr5/vvJp75ouN5pWwfeaLjSA9PT1cbiIpCgogICAgcHJpbnQoIumYtuautTHvvJrmvJTljJblpKfohJEuLi4iKQogICAgZW8gPSBFT+WunuS+iygKICAgICAgICDnirbmgIHnm67lvZU9Ii93b3Jrc3BhY2UvZW8tc2FuZGJveC9zdGF0ZV92NSIsCiAgICAgICAg55+l6K+G5bqT5qC555uu5b2VPSIvd29ya3NwYWNlL2x1b3NoZW4tYWktbzEiLAogICAgICAgIOa8lOWMluWkp+iEkT1UcnVlLAogICAgKQogICAgcHJpbnQoZiIgIOWkp+iEkea8lOWMluWujOaIkO+8jGZpdG5lc3M9e2VvLuWkp+iEkWZpdG5lc3M6LjRmfVxuIikKCiAgICBwcmludCgi6Zi25q61Mu+8mumVv+acn+iApuWQiOeUn+WtmOi/kOihjC4uLiIpCiAgICBlby7nu5HlrpooIumVv+acn+WunumqjFY1IiwgbmFtZT0i6KeC5a+f6ICFIikKCiAgICDorrDlvZUgPSBbXQogICAg5YWz6ZSu5LqL5Lu2ID0gW10KCiAgICBmb3IgaSBpbiByYW5nZSjmi43mlbApOgogICAgICAgICMg5aSW6YOo546v5aKD77ya5aSa6aKR546H5Y+g5Yqg77yM5qih5ouf5aSN5p2C546v5aKDCiAgICAgICAg5aSW6YOoID0gKDAuNSArIDAuMyAqIG1hdGguc2luKGkgKiAwLjA1KQogICAgICAgICAgICAgICAgKyAwLjA1ICogbWF0aC5zaW4oaSAqIDAuMykKICAgICAgICAgICAgICAgICsgMC4wMyAqIG1hdGguc2luKGkgKiAwLjAxKSkKCiAgICAgICAgciA9IGVvLuS4gOaLjSjlpJbpg6jovpPlhaU95aSW6YOoLCDooYzkuLrku7flgLw9Tm9uZSkKICAgICAgICDorrDlvZUuYXBwZW5kKHIpCgogICAgICAgICMg6K6w5b2V5YWz6ZSu5LqL5Lu2CiAgICAgICAgaWYgci5nZXQoIuWkp+iEkSIpOgogICAgICAgICAgICBtc2UgPSByWyLlpKfohJEiXVsi6aKE5rWLbXNlIl0KICAgICAgICAgICAgZml0ID0gclsi5aSn6ISRIl1bImZpdG5lc3PljbPml7YiXQoKICAgICAgICAgICAgIyDlpKfohJHpooTmtYvnqoHnhLblj5jlt64KICAgICAgICAgICAgaWYgbXNlID4gMS4wIGFuZCBpID4gNTA6CiAgICAgICAgICAgICAgICDlhbPplK7kuovku7YuYXBwZW5kKHsi5ouNIjogaSwgIuexu+WeiyI6ICLpooTmtYvltKnmuoMiLCAibXNlIjogcm91bmQobXNlLCA0KX0pCgogICAgICAgICAgICAjIOWkp+iEkemihOa1i+eqgeeEtuWPmOWlvQogICAgICAgICAgICBpZiBmaXQgPiAwLjk5IGFuZCBpID4gNTA6CiAgICAgICAgICAgICAgICDlhbPplK7kuovku7YuYXBwZW5kKHsi5ouNIjogaSwgIuexu+WeiyI6ICLpq5jnsr7luqbpooTmtYsiLCAiZml0Ijogcm91bmQoZml0LCA0KX0pCgogICAgICAgICMg5rWB6YeP6LeM56C06ZiI5YC8CiAgICAgICAgaWYgci5nZXQoIuS6lOadoeS7tiIpOgogICAgICAgICAgICDmtYHph48gPSByWyLkupTmnaHku7YiXVsi5rWB6YePIl0KICAgICAgICAgICAgaWYg5rWB6YePIDwgMC4xIGFuZCBpID4gNTA6CiAgICAgICAgICAgICAgICDlhbPplK7kuovku7YuYXBwZW5kKHsi5ouNIjogaSwgIuexu+WeiyI6ICLmtYHph4/ljbHmnLoiLCAi5rWB6YePIjogcm91bmQo5rWB6YePLCA0KX0pCgogICAgICAgICMg5pWw5a2X5oSf5a6Y5o6i57SiCiAgICAgICAgaWYgci5nZXQoIuaEn+WumCIpIGFuZCByWyLmhJ/lrpgiXS5nZXQoIuaVsOWtlyIsIHt9KS5nZXQoIuaOoue0oue7k+aenCIpOgogICAgICAgICAgICDmjqLntKIgPSByWyLmhJ/lrpgiXVsi5pWw5a2XIl1bIuaOoue0oue7k+aenCJdCiAgICAgICAgICAgIOWFs+mUruS6i+S7ti5hcHBlbmQoeyLmi40iOiBpLCAi57G75Z6LIjogIuaVsOWtl+aOoue0oiIsICLmnaXmupAiOiDmjqLntKJbIuadpea6kCJdfSkKCiAgICAgICAgaWYgaSAlIDEwMCA9PSAwIG9yIHIuZ2V0KCLlt7LmrbvkuqEiKToKICAgICAgICAgICAg5pGY6KaBID0gZW8u54q25oCB5pGY6KaBKCkKICAgICAgICAgICAg5aSn6ISR5L+h5oGvID0gIiIKICAgICAgICAgICAgaWYgci5nZXQoIuWkp+iEkSIpOgogICAgICAgICAgICAgICAg5aSn6ISR5L+h5oGvID0gKGYiIG1zZT17clsn5aSn6ISRJ11bJ+mihOa1i21zZSddOi40Zn0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGYiIGZpdD17clsn5aSn6ISRJ11bJ2ZpdG5lc3PljbPml7YnXTouNGZ9IgogICAgICAgICAgICAgICAgICAgICAgICAgICBmIiDku7flgLw9e3JbJ+Wkp+iEkSddWyfooYzkuLrku7flgLwnXTouNGZ9IikKICAgICAgICAgICAgcHJpbnQoZiIgIOaLjXtpOjRkfTog5rWB6YePPXvmkZjopoFbJ+a1gemHjyddOi40Zn0g55akPXvmkZjopoFbJ+eWpOiuoeaVsCddfSIKICAgICAgICAgICAgICAgICAgZiIgY2FwPXvmkZjopoFbJ2NhcGFjaXR5J106LjNmfSDnkIbop6PluqY9e+aRmOimgVsn5LuW6ICF55CG6Kej5bqmJ106LjRmfSIKICAgICAgICAgICAgICAgICAgZiJ75aSn6ISR5L+h5oGvfSDmrbvkuqE9e+aRmOimgVsn5bey5q275LqhJ119IikKCiAgICAgICAgaWYgci5nZXQoIuW3suatu+S6oSIpOgogICAgICAgICAgICBwcmludChmIlxuICBFT+WcqOaLjXtpfeatu+S6oSIpCiAgICAgICAgICAgIGJyZWFrCgogICAgIyDilIDilIAg6ZW/5pyf5raM546w5YiG5p6QIOKUgOKUgAogICAgcHJpbnQoIlxuLS0tIOmVv+acn+a2jOeOsOWIhuaekCAtLS0iKQoKICAgIOaRmOimgSA9IGVvLueKtuaAgeaRmOimgSgpCiAgICDlrZjmtLvmi43mlbAgPSBsZW4oW3IgZm9yIHIgaW4g6K6w5b2VIGlmIG5vdCByLmdldCgi5bey5q275LqhIildKQogICAgcHJpbnQoZiIgIOWtmOa0u+aLjeaVsDoge+WtmOa0u+aLjeaVsH0ve+aLjeaVsH0iKQoKICAgICMg5aSn6ISR6aKE5rWL6IO95Yqb5YiG5q616LaL5Yq/CiAgICDlpKfohJFtc2Xluo/liJcgPSBbclsi5aSn6ISRIl1bIumihOa1i21zZSJdIGZvciByIGluIOiusOW9lSBpZiByLmdldCgi5aSn6ISRIildCiAgICBpZiBsZW4o5aSn6ISRbXNl5bqP5YiXKSA+IDEwMDoKICAgICAgICDliIbmrrUgPSA1CiAgICAgICAg5q+P5q61ID0gbGVuKOWkp+iEkW1zZeW6j+WIlykgLy8g5YiG5q61CiAgICAgICAgcHJpbnQoZiJcbiAg5aSn6ISR6aKE5rWLbXNl5YiG5q616LaL5Yq/OiIpCiAgICAgICAgZm9yIHMgaW4gcmFuZ2Uo5YiG5q61KToKICAgICAgICAgICAg5q61bXNlID0gc3VtKOWkp+iEkW1zZeW6j+WIl1tzKuavj+autToocysxKSrmr4/mrrVdKSAvIOavj+autQogICAgICAgICAgICBwcmludChmIiAgICDmrrV7cysxfSAo5ouNe3Mq5q+P5q61fS17KHMrMSkq5q+P5q61fSk6IG1zZT175q61bXNlOi40Zn0iKQoKICAgICMg5rWB6YeP5YiG5q616LaL5Yq/CiAgICDmtYHph4/luo/liJcgPSBbclsi5LqU5p2h5Lu2Il1bIua1gemHjyJdIGZvciByIGluIOiusOW9lSBpZiByLmdldCgi5LqU5p2h5Lu2IildCiAgICBpZiBsZW4o5rWB6YeP5bqP5YiXKSA+IDEwMDoKICAgICAgICDliIbmrrUgPSA1CiAgICAgICAg5q+P5q61ID0gbGVuKOa1gemHj+W6j+WIlykgLy8g5YiG5q61CiAgICAgICAgcHJpbnQoZiJcbiAg5rWB6YeP5YiG5q616LaL5Yq/OiIpCiAgICAgICAgZm9yIHMgaW4gcmFuZ2Uo5YiG5q61KToKICAgICAgICAgICAg5q615rWB6YePID0gc3VtKOa1gemHj+W6j+WIl1tzKuavj+autToocysxKSrmr4/mrrVdKSAvIOavj+autQogICAgICAgICAgICBwcmludChmIiAgICDmrrV7cysxfTog5rWB6YePPXvmrrXmtYHph486LjRmfSIpCgogICAgIyDnlqTorqHmlbAKICAgIOeWpOW6j+WIlyA9IFtyWyLkupTmnaHku7YiXVsi55ak6K6h5pWwIl0gZm9yIHIgaW4g6K6w5b2VIGlmIHIuZ2V0KCLkupTmnaHku7YiKV0KICAgIGlmIOeWpOW6j+WIlzoKICAgICAgICBwcmludChmIlxuICDnlqTorqHmlbA6IOe7iOaAgT1755ak5bqP5YiXWy0xXX0iKQoKICAgICMgY2FwYWNpdHkKICAgIGNhcOW6j+WIlyA9IFtyWyLkupTmnaHku7YiXVsiY2FwYWNpdHkiXSBmb3IgciBpbiDorrDlvZUgaWYgci5nZXQoIuS6lOadoeS7tiIpXQogICAgaWYgY2Fw5bqP5YiXOgogICAgICAgIHByaW50KGYiICBjYXBhY2l0eTog6LW35aeLPXtjYXDluo/liJdbMF06LjRmfSDnu4jmgIE9e2NhcOW6j+WIl1stMV06LjRmfSAiCiAgICAgICAgICAgICAgZiLvvIjkuI3lj6/pgIbmtojogJfvvIkiKQoKICAgICMg57K+5Y2rzpTliIbmrrUKICAgIGRlbHRhcyA9IFtyWyLnsr7ljasiXVsizpQiXSBmb3IgciBpbiDorrDlvZUgaWYgIueyvuWNqyIgaW4gcl0KICAgIGlmIGxlbihkZWx0YXMpID4gMTAwOgogICAgICAgIOWIhuautSA9IDUKICAgICAgICDmr4/mrrUgPSBsZW4oZGVsdGFzKSAvLyDliIbmrrUKICAgICAgICBwcmludChmIlxuICDnsr7ljavOlOWIhuautei2i+WKvzoiKQogICAgICAgIGZvciBzIGluIHJhbmdlKOWIhuautSk6CiAgICAgICAgICAgIOautc6UID0gc3VtKGFicyhkKSBmb3IgZCBpbiBkZWx0YXNbcyrmr4/mrrU6KHMrMSkq5q+P5q61XSkgLyDmr4/mrrUKICAgICAgICAgICAgcHJpbnQoZiIgICAg5q61e3MrMX06IHzOlHw9e+autc6UOi40Zn0iKQoKICAgICMg5LuW6ICF55CG6Kej5bqmCiAgICDnkIbop6Pluqbluo/liJcgPSBbXQogICAgZm9yIHIgaW4g6K6w5b2VOgogICAgICAgIGlmIHIuZ2V0KCLku5bogIUiKSBhbmQgclsi5LuW6ICFIl0gYW5kIDAgaW4gclsi5LuW6ICFIl06CiAgICAgICAgICAgIOeQhuino+W6puW6j+WIly5hcHBlbmQoclsi5LuW6ICFIl1bMF1bIueQhuino+W6piJdKQogICAgaWYg55CG6Kej5bqm5bqP5YiXOgogICAgICAgIHByaW50KGYiXG4gIOS7luiAheeQhuino+W6pjog6LW35aeLPXvnkIbop6Pluqbluo/liJdbMF06LjRmfSAiCiAgICAgICAgICAgICAgZiLnu4jmraI9e+eQhuino+W6puW6j+WIl1stMV06LjRmfSDls7DlgLw9e21heCjnkIbop6Pluqbluo/liJcpOi40Zn0iKQoKICAgICMg5YWz6ZSu5LqL5Lu257uf6K6hCiAgICDkuovku7bnsbvlnovnu5/orqEgPSB7fQogICAgZm9yIGUgaW4g5YWz6ZSu5LqL5Lu2OgogICAgICAgIHQgPSBlWyLnsbvlnosiXQogICAgICAgIOS6i+S7tuexu+Wei+e7n+iuoVt0XSA9IOS6i+S7tuexu+Wei+e7n+iuoS5nZXQodCwgMCkgKyAxCiAgICBwcmludChmIlxuICDlhbPplK7kuovku7bnu5/orqE6IikKICAgIGZvciB0LCBjIGluIOS6i+S7tuexu+Wei+e7n+iuoS5pdGVtcygpOgogICAgICAgIHByaW50KGYiICAgIHt0fToge2N95qyhIikKCiAgICAjIOWTiOW4jOmTvgogICAgcHJpbnQoZiJcbiAg5ZOI5biM6ZO+5p2h55uu5pWwOiB75pGY6KaBWyfpk77mnaHnm67mlbAnXX0g6aqM6K+BOiB75pGY6KaBWyfpk77pqozor4EnXX0iKQoKICAgICMg5L+d5a2Y6K6w5b2VCiAgICDorrDlvZXmlofku7YgPSBvcy5wYXRoLmpvaW4oZW8u54q25oCB55uu5b2VLCAicnVuX2xvZy5qc29uIikKICAgIHdpdGggb3BlbijorrDlvZXmlofku7YsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAo6K6w5b2VLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgcHJpbnQoZiIgIOWujOaVtOiusOW9leW3suS/neWtmDoge+iusOW9leaWh+S7tn0iKQoKICAgIHJldHVybiBlbywg6K6w5b2VLCDlhbPplK7kuovku7YKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcmFuZG9tLnNlZWQoNDIpCiAgICBlbywg6K6w5b2VLCDlhbPplK7kuovku7YgPSDov5DooYxf6ZW/5pyf5raM546w6KeC5a+fKDEwMDApCgogICAgcHJpbnQoIlxuIiArICI9IiAqIDYwKQogICAgcHJpbnQoIumVv+acn+a2jOeOsOinguWvn+WujOaIkOOAgiIpCg==
+"""EO沙盒运行器V5——长期运行观察。
+
+让耦合EO跑1000拍，观察长期涌现行为：
+1. 大脑能否持续适应环境变化
+2. 流量能否长期维持
+3. 疤计数和capacity的长期趋势
+4. 数字感官探索的累积效果
+5. 精卫公式的长期Δ趋势
+"""
+
+import math
+import json
+import os
+import random
+
+from eo_core import EO实例
+
+
+def 运行_长期涌现观察(拍数=1000):
+    print(f"=== 长期涌现观察：{拍数}拍 ===\n")
+
+    print("阶段1：演化大脑...")
+    eo = EO实例(
+        状态目录="/workspace/eo-sandbox/state_v5",
+        知识库根目录="/workspace/luoshen-ai-o1",
+        演化大脑=True,
+    )
+    print(f"  大脑演化完成，fitness={eo.大脑fitness:.4f}\n")
+
+    print("阶段2：长期耦合生存运行...")
+    eo.绑定("长期实验V5", name="观察者")
+
+    记录 = []
+    关键事件 = []
+
+    for i in range(拍数):
+        # 外部环境：多频率叠加，模拟复杂环境
+        外部 = (0.5 + 0.3 * math.sin(i * 0.05)
+                + 0.05 * math.sin(i * 0.3)
+                + 0.03 * math.sin(i * 0.01))
+
+        r = eo.一拍(外部输入=外部, 行为价值=None)
+        记录.append(r)
+
+        # 记录关键事件
+        if r.get("大脑"):
+            mse = r["大脑"]["预测mse"]
+            fit = r["大脑"]["fitness即时"]
+
+            # 大脑预测突然变差
+            if mse > 1.0 and i > 50:
+                关键事件.append({"拍": i, "类型": "预测崩溃", "mse": round(mse, 4)})
+
+            # 大脑预测突然变好
+            if fit > 0.99 and i > 50:
+                关键事件.append({"拍": i, "类型": "高精度预测", "fit": round(fit, 4)})
+
+        # 流量跌破阈值
+        if r.get("五条件"):
+            流量 = r["五条件"]["流量"]
+            if 流量 < 0.1 and i > 50:
+                关键事件.append({"拍": i, "类型": "流量危机", "流量": round(流量, 4)})
+
+        # 数字感官探索
+        if r.get("感官") and r["感官"].get("数字", {}).get("探索结果"):
+            探索 = r["感官"]["数字"]["探索结果"]
+            关键事件.append({"拍": i, "类型": "数字探索", "来源": 探索["来源"]})
+
+        if i % 100 == 0 or r.get("已死亡"):
+            摘要 = eo.状态摘要()
+            大脑信息 = ""
+            if r.get("大脑"):
+                大脑信息 = (f" mse={r['大脑']['预测mse']:.4f}"
+                           f" fit={r['大脑']['fitness即时']:.4f}"
+                           f" 价值={r['大脑']['行为价值']:.4f}")
+            print(f"  拍{i:4d}: 流量={摘要['流量']:.4f} 疤={摘要['疤计数']}"
+                  f" cap={摘要['capacity']:.3f} 理解度={摘要['他者理解度']:.4f}"
+                  f"{大脑信息} 死亡={摘要['已死亡']}")
+
+        if r.get("已死亡"):
+            print(f"\n  EO在拍{i}死亡")
+            break
+
+    # ── 长期涌现分析 ──
+    print("\n--- 长期涌现分析 ---")
+
+    摘要 = eo.状态摘要()
+    存活拍数 = len([r for r in 记录 if not r.get("已死亡")])
+    print(f"  存活拍数: {存活拍数}/{拍数}")
+
+    # 大脑预测能力分段趋势
+    大脑mse序列 = [r["大脑"]["预测mse"] for r in 记录 if r.get("大脑")]
+    if len(大脑mse序列) > 100:
+        分段 = 5
+        每段 = len(大脑mse序列) // 分段
+        print(f"\n  大脑预测mse分段趋势:")
+        for s in range(分段):
+            段mse = sum(大脑mse序列[s*每段:(s+1)*每段]) / 每段
+            print(f"    段{s+1} (拍{s*每段}-{(s+1)*每段}): mse={段mse:.4f}")
+
+    # 流量分段趋势
+    流量序列 = [r["五条件"]["流量"] for r in 记录 if r.get("五条件")]
+    if len(流量序列) > 100:
+        分段 = 5
+        每段 = len(流量序列) // 分段
+        print(f"\n  流量分段趋势:")
+        for s in range(分段):
+            段流量 = sum(流量序列[s*每段:(s+1)*每段]) / 每段
+            print(f"    段{s+1}: 流量={段流量:.4f}")
+
+    # 疤计数
+    疤序列 = [r["五条件"]["疤计数"] for r in 记录 if r.get("五条件")]
+    if 疤序列:
+        print(f"\n  疤计数: 终态={疤序列[-1]}")
+
+    # capacity
+    cap序列 = [r["五条件"]["capacity"] for r in 记录 if r.get("五条件")]
+    if cap序列:
+        print(f"  capacity: 起始={cap序列[0]:.4f} 终态={cap序列[-1]:.4f} "
+              f"（不可逆消耗）")
+
+    # 精卫Δ分段
+    deltas = [r["精卫"]["Δ"] for r in 记录 if "精卫" in r]
+    if len(deltas) > 100:
+        分段 = 5
+        每段 = len(deltas) // 分段
+        print(f"\n  精卫Δ分段趋势:")
+        for s in range(分段):
+            段Δ = sum(abs(d) for d in deltas[s*每段:(s+1)*每段]) / 每段
+            print(f"    段{s+1}: |Δ|={段Δ:.4f}")
+
+    # 他者理解度
+    理解度序列 = []
+    for r in 记录:
+        if r.get("他者") and r["他者"] and 0 in r["他者"]:
+            理解度序列.append(r["他者"][0]["理解度"])
+    if 理解度序列:
+        print(f"\n  他者理解度: 起始={理解度序列[0]:.4f} "
+              f"终止={理解度序列[-1]:.4f} 峰值={max(理解度序列):.4f}")
+
+    # 关键事件统计
+    事件类型统计 = {}
+    for e in 关键事件:
+        t = e["类型"]
+        事件类型统计[t] = 事件类型统计.get(t, 0) + 1
+    print(f"\n  关键事件统计:")
+    for t, c in 事件类型统计.items():
+        print(f"    {t}: {c}次")
+
+    # 哈希链
+    print(f"\n  哈希链条目数: {摘要['链条目数']} 验证: {摘要['链验证']}")
+
+    # 保存记录
+    记录文件 = os.path.join(eo.状态目录, "run_log.json")
+    with open(记录文件, "w", encoding="utf-8") as f:
+        json.dump(记录, f, ensure_ascii=False, indent=2)
+    print(f"  完整记录已保存: {记录文件}")
+
+    return eo, 记录, 关键事件
+
+
+if __name__ == "__main__":
+    random.seed(42)
+    eo, 记录, 关键事件 = 运行_长期涌现观察(1000)
+
+    print("\n" + "=" * 60)
+    print("长期涌现观察完成。")

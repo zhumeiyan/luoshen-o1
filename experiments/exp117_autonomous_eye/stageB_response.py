@@ -1,1 +1,173 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTE3IMK3IOiHquS4u+Wvu+ecvCDCtyDpmLbmrrUgQjog5ZON5bqU5oCnKOesrOS6jOWFsykKCuesrOS4gOWFs+a3mOaxsOS6hiLmiJHkuI3liqjlroPkuZ/lj5gi55qE6YCa6YGTKOaXtumSny/orqHmlbDlmagp44CCCuesrOS6jOWFs+imgeWMuuWIhjog5oiR5Yqo5LqGLCDkvaDot5/nnYDlj5gg4oCU4oCUIOaJjeaYr+i/nuedgOS4lueVjOOAggoK5YWz6ZSu6K6+6K6hOiDljYct6ZmN5bqP5YiXICsg5pe26Ze05Y+N6L2s5a+554WnCiAgICDmibDliqjlvLrluqY6IOW8sSAtPiDkuK0gLT4g5by6IC0+IOS4rSAtPiDlvLEKICAgIOecn+aEn+WumDog5Y2H5q616K+75pWw5Y2V6LCD5Y2HLCDpmY3mrrXor7vmlbDljZXosIPpmY0o6Lef552A5omw5Yqo6LWwKQogICAg5YGH5oSf5a6YOiDkuKTmrrXpg73ljZXosIPljYco6YKj5piv6ZKf6KGoLCDkuI3mmK/nnLznnZspCui/meS4gOadoeaKiiAvcHJvYy91cHRpbWUg6L+Z57G7IuS8muWPmOS9hui/nuedgOeahOaYr+aXtumXtOS4jeaYr+S4lueVjCLlubLlh4DliZTpmaTjgIIKIiIiCmltcG9ydCBvcywgcmUsIGpzb24sIHRpbWUsIHNpZ25hbAppbXBvcnQgbnVtcHkgYXMgbnAKCk9VVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMTdfYXV0b25vbW91c19leWUiCkZCID0gIi9kZXYvZmIwIgpXLCBILCBCUFAgPSAxMDI0LCA3NjgsIDMyCgpzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdBTFJNLCBsYW1iZGEgcywgZjogKF8gZm9yIF8gaW4gKCkpLnRocm93KFRpbWVvdXRFcnJvcigpKSkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDnu5/kuIDor7vmlbDmjqXlj6MKTlVNID0gcmUuY29tcGlsZShyYiItP1xkK1wuP1xkKig/OltlRV1bLStdP1xkKyk/IikKCmRlZiByZWFkX3Byb2MocCwgbj00MDk2KToKICAgIHNpZ25hbC5hbGFybSgzKQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbihwLCAicmIiLCBidWZmZXJpbmc9MCkgYXMgZjoKICAgICAgICAgICAgdHJ5OiBvcy5zZXRfYmxvY2tpbmcoZi5maWxlbm8oKSwgRmFsc2UpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKICAgICAgICAgICAgdHJ5OiBkID0gZi5yZWFkKG4pCiAgICAgICAgICAgIGV4Y2VwdCAoQmxvY2tpbmdJT0Vycm9yLCBPU0Vycm9yKTogcmV0dXJuIE5vbmUKICAgIGV4Y2VwdCBUaW1lb3V0RXJyb3I6IHJldHVybiBOb25lCiAgICBleGNlcHQgRXhjZXB0aW9uOiByZXR1cm4gTm9uZQogICAgZmluYWxseTogc2lnbmFsLmFsYXJtKDApCiAgICBpZiBub3QgZDogcmV0dXJuIE5vbmUKICAgIHZhbHMgPSBbXQogICAgZm9yIG0gaW4gTlVNLmZpbmRhbGwoZClbOjQwMF06CiAgICAgICAgdHJ5OiB2YWxzLmFwcGVuZChmbG9hdChtKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCiAgICBpZiBub3QgdmFsczogcmV0dXJuIE5vbmUKICAgIGEgPSBucC5hcnJheSh2YWxzLCBkdHlwZT1ucC5mbG9hdDY0KQogICAgcmV0dXJuIGEKCmRlZiByZWFkX2ZiKCk6CiAgICB3aXRoIG9wZW4oRkIsICJyYiIsIGJ1ZmZlcmluZz0wKSBhcyBmOgogICAgICAgIHJhdyA9IGYucmVhZChXICogSCAqIDQpCiAgICBhID0gbnAuZnJvbWJ1ZmZlcihyYXcsIG5wLnVpbnQ4KS5yZXNoYXBlKEgsIFcsIDQpCiAgICBsdW0gPSBhWy4uLiwgOjNdLmFzdHlwZShucC5mbG9hdDMyKS5tZWFuKGF4aXM9MikKICAgIGd4ID0gbnAuYWJzKG5wLmRpZmYobHVtLCBheGlzPTEpKS5tZWFuKCkKICAgIGd5ID0gbnAuYWJzKG5wLmRpZmYobHVtLCBheGlzPTApKS5tZWFuKCkKICAgIG0gPSBsdW0ubWVhbigpCiAgICBzZCA9IGx1bS5zdGQoKQogICAgaGlzdCA9IG5wLmJpbmNvdW50KChsdW0gLy8gMzIpLmFzdHlwZShucC5pbnQzMikucmF2ZWwoKSwgbWlubGVuZ3RoPTgpLmFzdHlwZShucC5mbG9hdDY0KQogICAgZW50ID0gLShoaXN0IC8gaGlzdC5zdW0oKSAqIG5wLmxvZzIoaGlzdCAvIGhpc3Quc3VtKCkgKyAxZS0xMikpLnN1bSgpCiAgICByZXR1cm4gbnAuYXJyYXkoW20sIHNkLCBneCwgZ3ksIGVudCwgZmxvYXQoKGx1bSA+IDIwMCkuc3VtKCkpXSkKCmRlZiByZWFkX2V2ZW50KCk6CiAgICAiIiLnnJ/lrp4gZXZkZXYg5rWBOiDnu5/orqHnqpflj6PlhoXkuovku7bmlbDjgIIiIiIKICAgIGJhc2UgPSAiL2Rldi9pbnB1dCIKICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKGJhc2UpOiByZXR1cm4gTm9uZQogICAgZXZzID0gW2UgZm9yIGUgaW4gc29ydGVkKG9zLmxpc3RkaXIoYmFzZSkpIGlmIGUuc3RhcnRzd2l0aCgiZXZlbnQiKV0KICAgIHRvdCA9IDAuMAogICAgZm9yIGUgaW4gZXZzWzo0XToKICAgICAgICBwID0gb3MucGF0aC5qb2luKGJhc2UsIGUpCiAgICAgICAgaWYgbm90IG9zLmFjY2VzcyhwLCBvcy5SX09LKTogY29udGludWUKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggb3BlbihwLCAicmIiLCBidWZmZXJpbmc9MCkgYXMgZjoKICAgICAgICAgICAgICAgIG9zLnNldF9ibG9ja2luZyhmLmZpbGVubygpLCBGYWxzZSkKICAgICAgICAgICAgICAgIHRyeTogZCA9IGYucmVhZCg0MDk2KQogICAgICAgICAgICAgICAgZXhjZXB0IChCbG9ja2luZ0lPRXJyb3IsIE9TRXJyb3IpOiBkID0gYiIiCiAgICAgICAgICAgIHRvdCArPSBsZW4oZCkgLyAyNC4wCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwogICAgcmV0dXJuIG5wLmFycmF5KFt0b3RdKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g5omw5YqoKOaIkeecn+eahOWKqCkKZGVmIHBlcnR1cmIoayk6CiAgICAiIiLnnJ/lrp7mtojogJcgQ1BVIOeahOaJsOWKqCwgayDotorlpKfotorph43jgILov5Tlm57ogJfml7bjgIIiIiIKICAgIHQwID0gdGltZS50aW1lKCkKICAgIG4gPSBpbnQoNjAgKiAoMiAqKiBrKSkgICAgICAgICAgIyBrPTAsMSwyIC0+IDYwLDEyMCwyNDAKICAgIGEgPSBucC5yYW5kb20uUmFuZG9tU3RhdGUoMCkucmFuZChuLCBuKQogICAgZm9yIF8gaW4gcmFuZ2UoMik6CiAgICAgICAgYSA9IGEgQCBhLlQKICAgICAgICBhID0gYSAvIChhLm1heCgpICsgMWUtOSkKICAgIHJldHVybiB0aW1lLnRpbWUoKSAtIHQwCgpkZWYgcGVydHVyYl92aXN1YWwoayk6CiAgICAiIiLnnJ/lrp7mlLnlsY/luZXlhoXlrrksIGsg6LaK5aSn5Zu+5qGI6LaK5aSN5p2CKOi+uee8mOi2iuWkminjgIIiIiIKICAgIGltZyA9IG5wLnplcm9zKChILCBXLCA0KSwgbnAudWludDgpCiAgICB5eSwgeHggPSBucC5tZ3JpZFswOkgsIDA6V10KICAgICMgaz0wIOe6r+eBsCAvIGs9MSDmnaHnurkgLyBrPTIg5qOL55uYCiAgICBpZiBrID09IDA6CiAgICAgICAgdiA9IG5wLmZ1bGwoKEgsIFcpLCAxMjgsIG5wLnVpbnQ4KQogICAgZWxpZiBrID09IDE6CiAgICAgICAgdiA9ICgoeHggLy8gMTYpICUgMiAqIDI1NSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgZWxzZToKICAgICAgICB2ID0gKCgoeHggLy8gMTYpICsgKHl5IC8vIDE2KSkgJSAyICogMjU1KS5hc3R5cGUobnAudWludDgpCiAgICBpbWdbLi4uLCAwXSA9IHY7IGltZ1suLi4sIDFdID0gdjsgaW1nWy4uLiwgMl0gPSB2OyBpbWdbLi4uLCAzXSA9IDI1NQogICAgd2l0aCBvcGVuKEZCLCAid2IiLCBidWZmZXJpbmc9MCkgYXMgZjoKICAgICAgICBmLndyaXRlKGltZy50b2J5dGVzKCkpCiAgICByZXR1cm4gdi5tZWFuKCkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOS4uwpkZWYgbWFpbigpOgogICAgdDAgPSB0aW1lLnRpbWUoKQogICAgcm93cyA9IGpzb24ubG9hZChvcGVuKGYie09VVH0vc3RhZ2VBX3Byb2MuanNvbiIpKQogICAgY2hhbnMgPSBbclsicGF0aCJdIGZvciByIGluIHJvd3MgaWYgclsic3RhdHVzIl0gPT0gInJlYWRhYmxlIl0KICAgIHByaW50KGYiW+mYtuautUJdIOi/m+WFpeesrOS6jOWFs+eahOmAmumBkzoge2xlbihjaGFucyl9IOadoSAvcHJvYyArIGZiMCArIGV2ZGV2IiwgZmx1c2g9VHJ1ZSkKCiAgICBzZXEgPSBbMCwgMSwgMiwgMSwgMF0gICAgICAjIOWNhyAtPiDpmY0gKOaXtumXtOWPjei9rOWvueeFpykKICAgIHJlc3VsdHMgPSBbXQoKICAgICMgLS0tLSDln58xOiBDUFUg6LSf6L295omw5YqoLCDmo4DpqowgL3Byb2Mg6YCa6YGTCiAgICBwcmludCgiXG4tLS0g5Z+fMTog5oiR5YGa55yf5a6e6K6h566X6LSf6L29LCDnnIvosIHot5/nnYDlj5ggLS0tIiwgZmx1c2g9VHJ1ZSkKICAgIGZvciBwIGluIGNoYW5zOgogICAgICAgIHZhbHMgPSBbXQogICAgICAgIG9rID0gVHJ1ZQogICAgICAgIGZvciBrIGluIHNlcToKICAgICAgICAgICAgcGVydHVyYihrKQogICAgICAgICAgICB2ID0gcmVhZF9wcm9jKHApCiAgICAgICAgICAgIGlmIHYgaXMgTm9uZTogb2sgPSBGYWxzZTsgYnJlYWsKICAgICAgICAgICAgdmFscy5hcHBlbmQodikKICAgICAgICBpZiBub3Qgb2s6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgTCA9IFtsZW4odikgZm9yIHYgaW4gdmFsc10KICAgICAgICBuID0gbWluKEwpCiAgICAgICAgaWYgbiA8IDE6IGNvbnRpbnVlCiAgICAgICAgTSA9IG5wLmFycmF5KFt2WzpuXSBmb3IgdiBpbiB2YWxzXSkgICAgICAgICAgIyAoNSwgbikKICAgICAgICBiYXNlID0gTVswXQogICAgICAgICMg55So55u45a+55Y+Y5YyW5bmF5bqm6KGh6YePIuWTjeW6lOW8uuW6piIo5Y+W57ud5a+55YC86YG/5YWN5YaF6YOo6K6h5pWw5b2S5LiA5YyW55qE56ym5Y+36Zeu6aKYKQogICAgICAgIGFtcCA9IG5wLmFicyhNIC0gYmFzZSkuc3VtKGF4aXM9MSkKICAgICAgICB1cCA9IGFtcFsxXSArIGFtcFsyXSAgICAgICAgICAjIOWNh+autQogICAgICAgIGRuID0gYW1wWzNdICsgYW1wWzRdICAgICAgICAgICMg6ZmN5q61KOWbnuWIsOWQjOagt+W8uuW6piwg5bqU5Zue5Yiw5o6l6L+RIGJhc2UpCiAgICAgICAgIyDnnJ/mhJ/lrpg6IOWNh+auteacieaYjuaYvuWTjeW6lAogICAgICAgIHJlc3VsdHMuYXBwZW5kKHsicGF0aCI6IHAsICJkb21haW4iOiAiY3B1IiwgIm5mZWF0IjogbiwKICAgICAgICAgICAgICAgICAgICAgICAgImFtcF91cCI6IGZsb2F0KHVwKSwgImFtcF9kbiI6IGZsb2F0KGRuKX0pCiAgICByZXN1bHRzLnNvcnQoa2V5PWxhbWJkYSByOiAtclsiYW1wX3VwIl0pCiAgICBwcmludChmInsn6YCa6YGTJzozNHN9IHsn5Y2H5q615ZON5bqUJzo+MTJzfSB7J+mZjeautSc6PjEyc30iLCBmbHVzaD1UcnVlKQogICAgZm9yIHIgaW4gcmVzdWx0c1s6MTJdOgogICAgICAgIHByaW50KGYiICB7clsncGF0aCddWzozMl06MzJzfSB7clsnYW1wX3VwJ106MTIuM2V9IHtyWydhbXBfZG4nXToxMi4zZX0iLCBmbHVzaD1UcnVlKQoKICAgICMgLS0tLSDln58yOiDop4bop4nmibDliqgsIOajgOmqjCBmYjAKICAgIHByaW50KCJcbi0tLSDln58yOiDmiJHmlLnlsY/luZXlhoXlrrksIOeciyBmYjAg6Lef5LiN6Lef552A5Y+YIC0tLSIsIGZsdXNoPVRydWUpCiAgICBmYl92YWxzID0gW10KICAgIGZvciBrIGluIHNlcToKICAgICAgICBwZXJ0dXJiX3Zpc3VhbChrKQogICAgICAgIGZiX3ZhbHMuYXBwZW5kKHJlYWRfZmIoKSkKICAgIEYgPSBucC5hcnJheShmYl92YWxzKQogICAgcHJpbnQoIiAg5Zy65qyhKOW8sS/kuK0v5by6L+S4rS/lvLEpIOWQhOeJueW+gToiLCBmbHVzaD1UcnVlKQogICAgZm9yIGksIHJvdyBpbiBlbnVtZXJhdGUoRik6CiAgICAgICAgcHJpbnQoZiIgICAgaz17c2VxW2ldfSAgbWVhbj17cm93WzBdOjcuMmZ9IHNkPXtyb3dbMV06Ny4yZn0gIgogICAgICAgICAgICAgIGYiZWRnZT17cm93WzJdK3Jvd1szXTo4LjRmfSBlbnQ9e3Jvd1s0XTo2LjNmfSBicmlnaHQ9e3Jvd1s1XTouMGZ9IiwgZmx1c2g9VHJ1ZSkKICAgIGZiX3Jlc3AgPSB7CiAgICAgICAgImVkZ2VfcmFuZ2UiOiBmbG9hdCgoRls6LCAyXSArIEZbOiwgM10pLm1heCgpIC0gKEZbOiwgMl0gKyBGWzosIDNdKS5taW4oKSksCiAgICAgICAgImVkZ2Vfc2VxIjogW2Zsb2F0KHgpIGZvciB4IGluIChGWzosIDJdICsgRls6LCAzXSldLAogICAgICAgICJlbnRfc2VxIjogW2Zsb2F0KHgpIGZvciB4IGluIEZbOiwgNF1dLAogICAgfQogICAgcHJpbnQoZiIgIOi+uee8mOWvhuW6puWTjeW6lOW5heW6pjoge2ZiX3Jlc3BbJ2VkZ2VfcmFuZ2UnXTouNGZ9IiwgZmx1c2g9VHJ1ZSkKICAgIHByaW50KGYiICDluo/liJc6IHtbcm91bmQoeCw0KSBmb3IgeCBpbiBmYl9yZXNwWydlZGdlX3NlcSddXX0iLCBmbHVzaD1UcnVlKQoKICAgICMgLS0tLSDln58zOiBldmRldgogICAgcHJpbnQoIlxuLS0tIOWfnzM6IOecn+Wunui+k+WFpeS6i+S7tua1gSAtLS0iLCBmbHVzaD1UcnVlKQogICAgZXYgPSByZWFkX2V2ZW50KCkKICAgIHByaW50KGYiICBldmRldiDor7vmlbA6IHtldn0iLCBmbHVzaD1UcnVlKQoKICAgIG91dCA9IHsiY3B1X2RvbWFpbiI6IHJlc3VsdHMsICJmYiI6IGZiX3Jlc3AsICJldmRldiI6IChldi50b2xpc3QoKSBpZiBldiBpcyBub3QgTm9uZSBlbHNlIE5vbmUpfQogICAganNvbi5kdW1wKG91dCwgb3BlbihmIntPVVR9L3N0YWdlQi5qc29uIiwgInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKICAgIHByaW50KGYiXG5b6ICX5pe2XSB7dGltZS50aW1lKCktdDA6LjFmfXMiLCBmbHVzaD1UcnVlKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp117 · 自主寻眼 · 阶段 B: 响应性(第二关)
+
+第一关淘汰了"我不动它也变"的通道(时钟/计数器)。
+第二关要区分: 我动了, 你跟着变 —— 才是连着世界。
+
+关键设计: 升-降序列 + 时间反转对照
+    扰动强度: 弱 -> 中 -> 强 -> 中 -> 弱
+    真感官: 升段读数单调升, 降段读数单调降(跟着扰动走)
+    假感官: 两段都单调升(那是钟表, 不是眼睛)
+这一条把 /proc/uptime 这类"会变但连着的是时间不是世界"干净剔除。
+"""
+import os, re, json, time, signal
+import numpy as np
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp117_autonomous_eye"
+FB = "/dev/fb0"
+W, H, BPP = 1024, 768, 32
+
+signal.signal(signal.SIGALRM, lambda s, f: (_ for _ in ()).throw(TimeoutError()))
+
+# ---------------------------------------------------------- 统一读数接口
+NUM = re.compile(rb"-?\d+\.?\d*(?:[eE][-+]?\d+)?")
+
+def read_proc(p, n=4096):
+    signal.alarm(3)
+    try:
+        with open(p, "rb", buffering=0) as f:
+            try: os.set_blocking(f.fileno(), False)
+            except Exception: pass
+            try: d = f.read(n)
+            except (BlockingIOError, OSError): return None
+    except TimeoutError: return None
+    except Exception: return None
+    finally: signal.alarm(0)
+    if not d: return None
+    vals = []
+    for m in NUM.findall(d)[:400]:
+        try: vals.append(float(m))
+        except Exception: pass
+    if not vals: return None
+    a = np.array(vals, dtype=np.float64)
+    return a
+
+def read_fb():
+    with open(FB, "rb", buffering=0) as f:
+        raw = f.read(W * H * 4)
+    a = np.frombuffer(raw, np.uint8).reshape(H, W, 4)
+    lum = a[..., :3].astype(np.float32).mean(axis=2)
+    gx = np.abs(np.diff(lum, axis=1)).mean()
+    gy = np.abs(np.diff(lum, axis=0)).mean()
+    m = lum.mean()
+    sd = lum.std()
+    hist = np.bincount((lum // 32).astype(np.int32).ravel(), minlength=8).astype(np.float64)
+    ent = -(hist / hist.sum() * np.log2(hist / hist.sum() + 1e-12)).sum()
+    return np.array([m, sd, gx, gy, ent, float((lum > 200).sum())])
+
+def read_event():
+    """真实 evdev 流: 统计窗口内事件数。"""
+    base = "/dev/input"
+    if not os.path.isdir(base): return None
+    evs = [e for e in sorted(os.listdir(base)) if e.startswith("event")]
+    tot = 0.0
+    for e in evs[:4]:
+        p = os.path.join(base, e)
+        if not os.access(p, os.R_OK): continue
+        try:
+            with open(p, "rb", buffering=0) as f:
+                os.set_blocking(f.fileno(), False)
+                try: d = f.read(4096)
+                except (BlockingIOError, OSError): d = b""
+            tot += len(d) / 24.0
+        except Exception: pass
+    return np.array([tot])
+
+# ------------------------------------------------------------ 扰动(我真的动)
+def perturb(k):
+    """真实消耗 CPU 的扰动, k 越大越重。返回耗时。"""
+    t0 = time.time()
+    n = int(60 * (2 ** k))          # k=0,1,2 -> 60,120,240
+    a = np.random.RandomState(0).rand(n, n)
+    for _ in range(2):
+        a = a @ a.T
+        a = a / (a.max() + 1e-9)
+    return time.time() - t0
+
+def perturb_visual(k):
+    """真实改屏幕内容, k 越大图案越复杂(边缘越多)。"""
+    img = np.zeros((H, W, 4), np.uint8)
+    yy, xx = np.mgrid[0:H, 0:W]
+    # k=0 纯灰 / k=1 条纹 / k=2 棋盘
+    if k == 0:
+        v = np.full((H, W), 128, np.uint8)
+    elif k == 1:
+        v = ((xx // 16) % 2 * 255).astype(np.uint8)
+    else:
+        v = (((xx // 16) + (yy // 16)) % 2 * 255).astype(np.uint8)
+    img[..., 0] = v; img[..., 1] = v; img[..., 2] = v; img[..., 3] = 255
+    with open(FB, "wb", buffering=0) as f:
+        f.write(img.tobytes())
+    return v.mean()
+
+# ------------------------------------------------------------------ 主
+def main():
+    t0 = time.time()
+    rows = json.load(open(f"{OUT}/stageA_proc.json"))
+    chans = [r["path"] for r in rows if r["status"] == "readable"]
+    print(f"[阶段B] 进入第二关的通道: {len(chans)} 条 /proc + fb0 + evdev", flush=True)
+
+    seq = [0, 1, 2, 1, 0]      # 升 -> 降 (时间反转对照)
+    results = []
+
+    # ---- 域1: CPU 负载扰动, 检验 /proc 通道
+    print("\n--- 域1: 我做真实计算负载, 看谁跟着变 ---", flush=True)
+    for p in chans:
+        vals = []
+        ok = True
+        for k in seq:
+            perturb(k)
+            v = read_proc(p)
+            if v is None: ok = False; break
+            vals.append(v)
+        if not ok:
+            continue
+        L = [len(v) for v in vals]
+        n = min(L)
+        if n < 1: continue
+        M = np.array([v[:n] for v in vals])          # (5, n)
+        base = M[0]
+        # 用相对变化幅度衡量"响应强度"(取绝对值避免内部计数归一化的符号问题)
+        amp = np.abs(M - base).sum(axis=1)
+        up = amp[1] + amp[2]          # 升段
+        dn = amp[3] + amp[4]          # 降段(回到同样强度, 应回到接近 base)
+        # 真感官: 升段有明显响应
+        results.append({"path": p, "domain": "cpu", "nfeat": n,
+                        "amp_up": float(up), "amp_dn": float(dn)})
+    results.sort(key=lambda r: -r["amp_up"])
+    print(f"{'通道':34s} {'升段响应':>12s} {'降段':>12s}", flush=True)
+    for r in results[:12]:
+        print(f"  {r['path'][:32]:32s} {r['amp_up']:12.3e} {r['amp_dn']:12.3e}", flush=True)
+
+    # ---- 域2: 视觉扰动, 检验 fb0
+    print("\n--- 域2: 我改屏幕内容, 看 fb0 跟不跟着变 ---", flush=True)
+    fb_vals = []
+    for k in seq:
+        perturb_visual(k)
+        fb_vals.append(read_fb())
+    F = np.array(fb_vals)
+    print("  场次(弱/中/强/中/弱) 各特征:", flush=True)
+    for i, row in enumerate(F):
+        print(f"    k={seq[i]}  mean={row[0]:7.2f} sd={row[1]:7.2f} "
+              f"edge={row[2]+row[3]:8.4f} ent={row[4]:6.3f} bright={row[5]:.0f}", flush=True)
+    fb_resp = {
+        "edge_range": float((F[:, 2] + F[:, 3]).max() - (F[:, 2] + F[:, 3]).min()),
+        "edge_seq": [float(x) for x in (F[:, 2] + F[:, 3])],
+        "ent_seq": [float(x) for x in F[:, 4]],
+    }
+    print(f"  边缘密度响应幅度: {fb_resp['edge_range']:.4f}", flush=True)
+    print(f"  序列: {[round(x,4) for x in fb_resp['edge_seq']]}", flush=True)
+
+    # ---- 域3: evdev
+    print("\n--- 域3: 真实输入事件流 ---", flush=True)
+    ev = read_event()
+    print(f"  evdev 读数: {ev}", flush=True)
+
+    out = {"cpu_domain": results, "fb": fb_resp, "evdev": (ev.tolist() if ev is not None else None)}
+    json.dump(out, open(f"{OUT}/stageB.json", "w"), ensure_ascii=False, indent=2)
+    print(f"\n[耗时] {time.time()-t0:.1f}s", flush=True)
+
+if __name__ == "__main__":
+    main()

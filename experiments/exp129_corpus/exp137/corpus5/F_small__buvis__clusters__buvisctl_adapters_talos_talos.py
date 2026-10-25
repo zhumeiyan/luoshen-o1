@@ -1,1 +1,284 @@
-aW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCBwbGF0Zm9ybQppbXBvcnQgcmUKaW1wb3J0IHN1YnByb2Nlc3MKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgppbXBvcnQgcmVxdWVzdHMKZnJvbSBhZGFwdGVycy5jb25maWcuY29uZmlnIGltcG9ydCBjZmcKZnJvbSBhZGFwdGVycy5yZXNwb25zZSBpbXBvcnQgQWRhcHRlclJlc3BvbnNlCmZyb20gYWRhcHRlcnMuc29ja2V0LnNvY2tldCBpbXBvcnQgU29ja2V0QWRhcHRlcgoKUE9SVF9UQUxPU19JTklUID0gNTAwMDAKUE9SVF9UQUxPU19BUEkgPSA1MDAwMQpQT1JUX0s4U19BUEkgPSA2NDQzCgoKY2xhc3MgVGFsb3NBZGFwdGVyOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuc29ja2V0ID0gU29ja2V0QWRhcHRlcigpCgogICAgZGVmIGdlbmVyYXRlX2NvbmZpZyhzZWxmKToKICAgICAgICBjbWQgPSBbCiAgICAgICAgICAgICJ0YWxvc2N0bCIsCiAgICAgICAgICAgICJnZW4iLAogICAgICAgICAgICAiY29uZmlnIiwKICAgICAgICAgICAgY2ZnLmNsdXN0ZXJfbmFtZSwKICAgICAgICAgICAgZiJodHRwczovL3tjZmcuaXBfbWFzdGVyfTp7UE9SVF9LOFNfQVBJfSIsCiAgICAgICAgICAgICItLWZvcmNlIiwKICAgICAgICAgICAgIi0tb3V0cHV0LWRpciIsCiAgICAgICAgICAgIGYie2NmZy50YWxvcy5kaXJfZ2VuZXJhdGVkX2NvbmZpZ3VyYXRpb259IiwKICAgICAgICAgICAgIi0tY29uZmlnLXBhdGNoIiwKICAgICAgICAgICAgZiJAe2NmZy50YWxvcy5wYXRoX3BhdGNoX2FsbH0iLAogICAgICAgICAgICAiLS1jb25maWctcGF0Y2gtY29udHJvbC1wbGFuZSIsCiAgICAgICAgICAgIGYiQHtjZmcudGFsb3MucGF0aF9wYXRjaF9jb250cm9scGxhbmV9IiwKICAgICAgICAgICAgIi0tY29uZmlnLXBhdGNoLXdvcmtlciIsCiAgICAgICAgICAgIGYiQHtjZmcudGFsb3MucGF0aF9wYXRjaF93b3JrZXJ9IiwKICAgICAgICBdCgogICAgICAgIHJlc3VsdHMgPSBzdWJwcm9jZXNzLnJ1bihjbWQsIGNhcHR1cmVfb3V0cHV0PVRydWUpCgogICAgICAgIGlmIHJlc3VsdHMucmV0dXJuY29kZSA9PSAwOgogICAgICAgICAgICByZXR1cm4gQWRhcHRlclJlc3BvbnNlKCkKICAgICAgICByZXR1cm4gQWRhcHRlclJlc3BvbnNlKAogICAgICAgICAgICBjb2RlPXJlc3VsdHMucmV0dXJuY29kZSwgbWVzc2FnZT1yZXN1bHRzLnN0ZGVyci5kZWNvZGUoKSwKICAgICAgICApCgogICAgZGVmIGNvbmZpZ3VyZV9ub2RlKHNlbGYsIG5vZGUpOgogICAgICAgIHJlcyA9IHNlbGYuc29ja2V0LmlzX29wZW4obm9kZS5pcCwgUE9SVF9UQUxPU19JTklUKQoKICAgICAgICBpZiByZXMuaXNfbm9rKCk6CiAgICAgICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoY29kZT1yZXMuY29kZSwgbWVzc2FnZT1yZXMubWVzc2FnZSkKCiAgICAgICAgY21kID0gWwogICAgICAgICAgICAidGFsb3NjdGwiLAogICAgICAgICAgICAiYXBwbHktY29uZmlnIiwKICAgICAgICAgICAgIi0taW5zZWN1cmUiLAogICAgICAgICAgICAiLS1ub2RlcyIsCiAgICAgICAgICAgIG5vZGUuaXAsCiAgICAgICAgICAgICItLWZpbGUiLAogICAgICAgICAgICBmIntjZmcudGFsb3MuZGlyX2dlbmVyYXRlZF9jb25maWd1cmF0aW9ufS97bm9kZS5yb2xlfS55YW1sIiwKICAgICAgICBdCiAgICAgICAgcmVzdWx0cyA9IHN1YnByb2Nlc3MucnVuKGNtZCwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSkKCiAgICAgICAgaWYgcmVzdWx0cy5yZXR1cm5jb2RlID09IDA6CiAgICAgICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoKQogICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoCiAgICAgICAgICAgIGNvZGU9cmVzdWx0cy5yZXR1cm5jb2RlLCBtZXNzYWdlPXJlc3VsdHMuc3RkZXJyLmRlY29kZSgpLAogICAgICAgICkKCiAgICBkZWYgYm9vdHN0cmFwX2NsdXN0ZXIoc2VsZik6CiAgICAgICAgcmVzID0gc2VsZi5zb2NrZXQuaXNfb3BlbihjZmcuaXBfbWFzdGVyLCBQT1JUX1RBTE9TX0FQSSkKCiAgICAgICAgaWYgcmVzLmlzX25vaygpOgogICAgICAgICAgICByZXR1cm4gQWRhcHRlclJlc3BvbnNlKGNvZGU9cmVzLmNvZGUsIG1lc3NhZ2U9cmVzLm1lc3NhZ2UpCgogICAgICAgIGNtZF9lbmRwb2ludF9jb25maWcgPSBbCiAgICAgICAgICAgICJ0YWxvc2N0bCIsCiAgICAgICAgICAgICJjb25maWciLAogICAgICAgICAgICAiZW5kcG9pbnQiLAogICAgICAgICAgICBjZmcuaXBfbWFzdGVyLAogICAgICAgIF0KICAgICAgICByZXN1bHRzID0gc3VicHJvY2Vzcy5ydW4oY21kX2VuZHBvaW50X2NvbmZpZykKCiAgICAgICAgaWYgcmVzdWx0cy5yZXR1cm5jb2RlID4gMDoKICAgICAgICAgICAgcmV0dXJuIEFkYXB0ZXJSZXNwb25zZSgKICAgICAgICAgICAgICAgIGNvZGU9cmVzdWx0cy5yZXR1cm5jb2RlLCBtZXNzYWdlPXJlc3VsdHMuc3RkZXJyLmRlY29kZSgpLAogICAgICAgICAgICApCgogICAgICAgIGNtZF9ub2RlX2NvbmZpZyA9IFsidGFsb3NjdGwiLCAiY29uZmlnIiwgIm5vZGUiLCBjZmcuaXBfbWFzdGVyXQogICAgICAgIHJlc3VsdHMgPSBzdWJwcm9jZXNzLnJ1bihjbWRfbm9kZV9jb25maWcpCgogICAgICAgIGlmIHJlc3VsdHMucmV0dXJuY29kZSA+IDA6CiAgICAgICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoCiAgICAgICAgICAgICAgICBjb2RlPXJlc3VsdHMucmV0dXJuY29kZSwgbWVzc2FnZT1yZXN1bHRzLnN0ZGVyci5kZWNvZGUoKSwKICAgICAgICAgICAgKQoKICAgICAgICBjbWRfYm9vdHN0cmFwID0gWyJ0YWxvc2N0bCIsICJib290c3RyYXAiXQogICAgICAgIHJlc3VsdHMgPSBzdWJwcm9jZXNzLnJ1bihjbWRfYm9vdHN0cmFwLCBjYXB0dXJlX291dHB1dD1UcnVlKQoKICAgICAgICBpZiByZXN1bHRzLnJldHVybmNvZGUgPiAwOgogICAgICAgICAgICByZXR1cm4gQWRhcHRlclJlc3BvbnNlKAogICAgICAgICAgICAgICAgY29kZT1yZXN1bHRzLnJldHVybmNvZGUsIG1lc3NhZ2U9cmVzdWx0cy5zdGRlcnIuZGVjb2RlKCksCiAgICAgICAgICAgICkKICAgICAgICByZXR1cm4gQWRhcHRlclJlc3BvbnNlKCkKCiAgICBkZWYgZ2V0X2t1YmVjb25maWcoc2VsZik6CiAgICAgICAgcmVzID0gc2VsZi5zb2NrZXQuaXNfb3BlbihjZmcuaXBfbWFzdGVyLCBQT1JUX0s4U19BUEkpCgogICAgICAgIGlmIHJlcy5pc19ub2soKToKICAgICAgICAgICAgcmV0dXJuIEFkYXB0ZXJSZXNwb25zZShjb2RlPXJlcy5jb2RlLCBtZXNzYWdlPXJlcy5tZXNzYWdlKQoKICAgICAgICBjbWRfZ2V0X2NvbmZpZyA9IFsKICAgICAgICAgICAgInRhbG9zY3RsIiwKICAgICAgICAgICAgImt1YmVjb25maWciLAogICAgICAgICAgICBjZmcucGF0aF9rdWJlY29uZmlnX2RpciwKICAgICAgICAgICAgIi0tZm9yY2UiLAogICAgICAgIF0KICAgICAgICByZXN1bHRzID0gc3VicHJvY2Vzcy5ydW4oY21kX2dldF9jb25maWcsIGNhcHR1cmVfb3V0cHV0PVRydWUpCgogICAgICAgIGlmIHJlc3VsdHMucmV0dXJuY29kZSA+IDA6CiAgICAgICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoCiAgICAgICAgICAgICAgICBjb2RlPXJlc3VsdHMucmV0dXJuY29kZSwgbWVzc2FnZT1yZXN1bHRzLnN0ZGVyci5kZWNvZGUoKSwKICAgICAgICAgICAgKQogICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoKQoKICAgIGRlZiBfZ2V0X2xhdGVzdF90YWxvc192ZXJzaW9uKHNlbGYpIC0+IHN0cjoKICAgICAgICAiIiIKICAgICAgICBHZXQgdGhlIGxhdGVzdCBUYWxvcyB2ZXJzaW9uIGZyb20gR2l0SHViIHJlbGVhc2VzIEFQSS4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgc3RyOiBUaGUgbGF0ZXN0IHZlcnNpb24gdGFnIChlLmcuLCAndjEuNy4wJykKCiAgICAgICAgUmFpc2VzOgogICAgICAgICAgICBTeXN0ZW1FeGl0OiBJZiB1bmFibGUgdG8gZmV0Y2ggdmVyc2lvbiBpbmZvcm1hdGlvbgogICAgICAgICIiIgogICAgICAgIHVybCA9ICJodHRwczovL2dpdGh1Yi5jb20vc2lkZXJvbGFicy90YWxvcy9yZWxlYXNlcy9sYXRlc3QiCiAgICAgICAgaGVhZGVycyA9IHsiQWNjZXB0IjogImFwcGxpY2F0aW9uL2pzb24ifQoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHVybCwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTMwKQogICAgICAgICAgICByZXNwb25zZS5yYWlzZV9mb3Jfc3RhdHVzKCkKICAgICAgICAgICAgZGF0YSA9IHJlc3BvbnNlLmpzb24oKQoKICAgICAgICAgICAgcmV0dXJuIGRhdGFbInRhZ19uYW1lIl0KICAgICAgICBleGNlcHQgKHJlcXVlc3RzLlJlcXVlc3RFeGNlcHRpb24sIEtleUVycm9yLCBqc29uLkpTT05EZWNvZGVFcnJvcik6CiAgICAgICAgICAgIHJldHVybiAiIgoKICAgIGRlZiBfdXBkYXRlX3RhbG9zX3ZlcnNpb25fZmlsZXMoc2VsZiwgdGFsb3NfdmVyc2lvbjogc3RyKSAtPiBOb25lOgogICAgICAgICIiIlVwZGF0ZSBUYWxvcyB2ZXJzaW9uIGluIC5lbnZyYywgLmVudnJjLnNhbXBsZSwgYW5kIGluZnJhc3RydWN0dXJlL3RhbG9zL3BhdGNoLWFsbC55YW1sIGZpbGVzLgoKICAgICAgICBBcmdzOgogICAgICAgICAgICB0YWxvc192ZXJzaW9uOiBUaGUgVGFsb3MgdmVyc2lvbiB0byBzZXQgaW4gdGhlIGZpbGVzLgogICAgICAgICIiIgoKICAgICAgICBlbnZfZmlsZXMgPSBbIi5lbnZyYyIsICIuZW52cmMuc2FtcGxlIl0KICAgICAgICBwYXRjaF9maWxlID0gUGF0aCgiaW5mcmFzdHJ1Y3R1cmUvdGFsb3MvcGF0Y2gtYWxsLnlhbWwiKQoKICAgICAgICAjIFJlZ2V4IHBhdHRlcm4gZm9yIC5lbnZyYyBhbmQgLmVudnJjLnNhbXBsZQogICAgICAgIGVudl9wYXR0ZXJuID0gcmUuY29tcGlsZShyIl5leHBvcnQgVEZfVkFSX3RhbG9zX3ZlcnNpb249LiokIiwgcmUuTVVMVElMSU5FKQogICAgICAgIGVudl9yZXBsYWNlbWVudCA9IGYiZXhwb3J0IFRGX1ZBUl90YWxvc192ZXJzaW9uPXt0YWxvc192ZXJzaW9ufSIKCiAgICAgICAgZm9yIGVudl9maWxlIGluIGVudl9maWxlczoKICAgICAgICAgICAgZmlsZV9wYXRoID0gUGF0aChlbnZfZmlsZSkKCiAgICAgICAgICAgIGlmIG5vdCBmaWxlX3BhdGguZXhpc3RzKCk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBjb250ZW50ID0gZmlsZV9wYXRoLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKQoKICAgICAgICAgICAgaWYgZW52X3BhdHRlcm4uc2VhcmNoKGNvbnRlbnQpOgogICAgICAgICAgICAgICAgdXBkYXRlZF9jb250ZW50ID0gZW52X3BhdHRlcm4uc3ViKGVudl9yZXBsYWNlbWVudCwgY29udGVudCkKICAgICAgICAgICAgICAgIGZpbGVfcGF0aC53cml0ZV90ZXh0KHVwZGF0ZWRfY29udGVudCwgZW5jb2Rpbmc9InV0Zi04IikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHVwZGF0ZWRfY29udGVudCA9IGNvbnRlbnQucnN0cmlwKCkgKyBmIlxue2Vudl9yZXBsYWNlbWVudH1cbiIKICAgICAgICAgICAgICAgIGZpbGVfcGF0aC53cml0ZV90ZXh0KHVwZGF0ZWRfY29udGVudCwgZW5jb2Rpbmc9InV0Zi04IikKCiAgICAgICAgaWYgcGF0Y2hfZmlsZS5leGlzdHMoKToKICAgICAgICAgICAgcGF0Y2hfY29udGVudCA9IHBhdGNoX2ZpbGUucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpCiAgICAgICAgICAgICMgUmVnZXggdG8gZmluZCB0aGUgbGluZSB3aXRoIHRoZSBpbWFnZSB2ZXJzaW9uIGFuZCByZXBsYWNlIG9ubHkgdGhlIHZlcnNpb24gcGFydCBhZnRlciBjb2xvbgogICAgICAgICAgICBwYXRjaF9wYXR0ZXJuID0gcmUuY29tcGlsZSgKICAgICAgICAgICAgICAgIHIiKGltYWdlOiBmYWN0b3J5XC50YWxvc1wuZGV2L21ldGFsLWluc3RhbGxlci9bYS1mMC05XSs6KSh2W1xkXC5dKykiLAogICAgICAgICAgICApCiAgICAgICAgICAgIHVwZGF0ZWRfcGF0Y2hfY29udGVudCA9IHBhdGNoX3BhdHRlcm4uc3ViKAogICAgICAgICAgICAgICAgbGFtYmRhIG06IG0uZ3JvdXAoMSkgKyB0YWxvc192ZXJzaW9uLCBwYXRjaF9jb250ZW50LAogICAgICAgICAgICApCiAgICAgICAgICAgIHBhdGNoX2ZpbGUud3JpdGVfdGV4dCh1cGRhdGVkX3BhdGNoX2NvbnRlbnQsIGVuY29kaW5nPSJ1dGYtOCIpCgogICAgZGVmIHVwZGF0ZV90YWxvc2N0bChzZWxmKToKICAgICAgICB0YWxvc192ZXJzaW9uID0gc2VsZi5fZ2V0X2xhdGVzdF90YWxvc192ZXJzaW9uKCkKCiAgICAgICAgaWYgbm90IHRhbG9zX3ZlcnNpb246CiAgICAgICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoCiAgICAgICAgICAgICAgICBjb2RlPTEsCiAgICAgICAgICAgICAgICBtZXNzYWdlPSJDb3VsZG4ndCBnZXQgdGhlIGxhdGVzdCBUYWxvcyB2ZXJzaW9uIHRhZyBmcm9tIEdpdEh1YiIsCiAgICAgICAgICAgICkKCiAgICAgICAgb3NfbmFtZSA9IHBsYXRmb3JtLnN5c3RlbSgpLmxvd2VyKCkKICAgICAgICBkb3dubG9hZF91cmwgPSAoCiAgICAgICAgICAgIGYiaHR0cHM6Ly9naXRodWIuY29tL3NpZGVyb2xhYnMvdGFsb3MvcmVsZWFzZXMvZG93bmxvYWQvIgogICAgICAgICAgICBmInt0YWxvc192ZXJzaW9ufS90YWxvc2N0bC17b3NfbmFtZX0tYW1kNjQiCiAgICAgICAgKQoKICAgICAgICBiaW5fZGlyID0gUGF0aC5ob21lKCkgLyAiLmxvY2FsIiAvICJiaW4iCiAgICAgICAgYmluX2Rpci5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCgogICAgICAgIHRhbG9zY3RsX3BhdGggPSBiaW5fZGlyIC8gInRhbG9zY3RsIgoKICAgICAgICBoZWFkZXJzID0gewogICAgICAgICAgICAiVXNlci1BZ2VudCI6ICJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiIsCiAgICAgICAgICAgICJBY2NlcHQiOiAiYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtLCovKiIsCiAgICAgICAgICAgICJBY2NlcHQtRW5jb2RpbmciOiAiZ3ppcCwgZGVmbGF0ZSwgYnIiLAogICAgICAgICAgICAiQ29ubmVjdGlvbiI6ICJrZWVwLWFsaXZlIiwKICAgICAgICB9CgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCByZXF1ZXN0cy5nZXQoCiAgICAgICAgICAgICAgICBkb3dubG9hZF91cmwsCiAgICAgICAgICAgICAgICBoZWFkZXJzPWhlYWRlcnMsCiAgICAgICAgICAgICAgICBzdHJlYW09VHJ1ZSwKICAgICAgICAgICAgICAgIHRpbWVvdXQ9MzAsCiAgICAgICAgICAgICkgYXMgcmVzcG9uc2U6CiAgICAgICAgICAgICAgICByZXNwb25zZS5yYWlzZV9mb3Jfc3RhdHVzKCkKCiAgICAgICAgICAgICAgICB3aXRoIHRhbG9zY3RsX3BhdGgub3Blbigid2IiKSBhcyBmOgogICAgICAgICAgICAgICAgICAgIGZvciBjaHVuayBpbiByZXNwb25zZS5pdGVyX2NvbnRlbnQoY2h1bmtfc2l6ZT04MTkyKToKICAgICAgICAgICAgICAgICAgICAgICAgaWYgY2h1bms6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmLndyaXRlKGNodW5rKQoKICAgICAgICAgICAgdGFsb3NjdGxfcGF0aC5jaG1vZCgwbzc1NSkKICAgICAgICAgICAgc2VsZi5fdXBkYXRlX3RhbG9zX3ZlcnNpb25fZmlsZXModGFsb3NfdmVyc2lvbikKCiAgICAgICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoKQoKICAgICAgICBleGNlcHQgcmVxdWVzdHMuUmVxdWVzdEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXR1cm4gQWRhcHRlclJlc3BvbnNlKAogICAgICAgICAgICAgICAgY29kZT0xLAogICAgICAgICAgICAgICAgbWVzc2FnZT1mIkVycm9yIGRvd25sb2FkaW5nIHRhbG9zY3RsOiB7ZX0iLAogICAgICAgICAgICApCgogICAgZGVmIHVwZGF0ZV9ub2RlKHNlbGYsIG5vZGVfaXApOgogICAgICAgIHRhbG9zX3ZlcnNpb24gPSBzZWxmLl9nZXRfbGF0ZXN0X3RhbG9zX3ZlcnNpb24oKQoKICAgICAgICBpZiBub3QgdGFsb3NfdmVyc2lvbjoKICAgICAgICAgICAgcmV0dXJuIEFkYXB0ZXJSZXNwb25zZSgKICAgICAgICAgICAgICAgIGNvZGU9MSwKICAgICAgICAgICAgICAgIG1lc3NhZ2U9IkNvdWxkbid0IGdldCB0aGUgbGF0ZXN0IFRhbG9zIHZlcnNpb24gdGFnIGZyb20gR2l0SHViIiwKICAgICAgICAgICAgKQoKICAgICAgICBzY2hlbWF0aWNfaWQgPSBvcy5nZXRlbnYoIlRGX1ZBUl90YWxvc19zY2hlbWF0aWNfaWQiKQoKICAgICAgICBpZiBub3Qgc2NoZW1hdGljX2lkOgogICAgICAgICAgICByZXR1cm4gQWRhcHRlclJlc3BvbnNlKAogICAgICAgICAgICAgICAgY29kZT0xLAogICAgICAgICAgICAgICAgbWVzc2FnZT0iVEZfVkFSX3RhbG9zX3NjaGVtYXRpY19pZCBlbnZpcm9ubWVudCB2YXJpYWJsZSBpcyBub3Qgc2V0IiwKICAgICAgICAgICAgKQoKICAgICAgICBjbWQgPSBbCiAgICAgICAgICAgICJ0YWxvc2N0bCIsCiAgICAgICAgICAgICJ1cGdyYWRlIiwKICAgICAgICAgICAgIi0tbm9kZXMiLAogICAgICAgICAgICBub2RlX2lwLAogICAgICAgICAgICAiLS1pbWFnZSIsCiAgICAgICAgICAgICMgbWV0YWwtaW5zdGFsbGVyIG11c3QgbWF0Y2ggdGhlIHBsYXRmb3JtL2luc3RhbGwgaW1hZ2UgaW4gcGF0Y2gtYWxsLnlhbWw7CiAgICAgICAgICAgICMgdGhlIGdlbmVyaWMgaW5zdGFsbGVyLyBwYXRoIGlzIHdyb25nIGZvciBhIG1ldGFsIG5vZGUgb24gVGFsb3MgMS4xMCsuCiAgICAgICAgICAgIGYiZmFjdG9yeS50YWxvcy5kZXYvbWV0YWwtaW5zdGFsbGVyL3tzY2hlbWF0aWNfaWR9Ont0YWxvc192ZXJzaW9ufSIsCiAgICAgICAgICAgICMgLS1wcmVzZXJ2ZSBrZWVwcyB0aGUgRVBIRU1FUkFMIHBhcnRpdGlvbiAoZXRjZCBvbiB0aGUgY29udHJvbCBwbGFuZSwKICAgICAgICAgICAgIyBMb25naG9ybiBkYXRhIG9uIHdvcmtlcnMpLiBEZXByZWNhdGVkLCBzbGF0ZWQgZm9yIHJlbW92YWwgaW4gVGFsb3MgMS4xOC4KICAgICAgICAgICAgIi0tcHJlc2VydmUiLAogICAgICAgIF0KCiAgICAgICAgdHJ5OgogICAgICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIGNoZWNrPVRydWUsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkKCiAgICAgICAgICAgIHJldHVybiBBZGFwdGVyUmVzcG9uc2UoCiAgICAgICAgICAgICAgICBjb2RlPTAsCiAgICAgICAgICAgICAgICBtZXNzYWdlPWYiTm9kZSB7bm9kZV9pcH0gdXBncmFkZSB0byBUYWxvcyB7dGFsb3NfdmVyc2lvbn0gc3VjY2Vzc2Z1bCIsCiAgICAgICAgICAgICkKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICAgICAgcmV0dXJuIEFkYXB0ZXJSZXNwb25zZSgKICAgICAgICAgICAgICAgIGNvZGU9MSwKICAgICAgICAgICAgICAgIG1lc3NhZ2U9ZiJFcnJvciB1cGdyYWRpbmcgbm9kZSB7bm9kZV9pcH06XG57ZS5zdGRlcnIuc3RyaXAoKX0iLAogICAgICAgICAgICApCiAgICAgICAgZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yOgogICAgICAgICAgICByZXR1cm4gQWRhcHRlclJlc3BvbnNlKGNvZGU9MSwgbWVzc2FnZT0idGFsb3NjdGwgY29tbWFuZCBub3QgZm91bmQiKQo=
+import json
+import os
+import platform
+import re
+import subprocess
+from pathlib import Path
+
+import requests
+from adapters.config.config import cfg
+from adapters.response import AdapterResponse
+from adapters.socket.socket import SocketAdapter
+
+PORT_TALOS_INIT = 50000
+PORT_TALOS_API = 50001
+PORT_K8S_API = 6443
+
+
+class TalosAdapter:
+    def __init__(self):
+        self.socket = SocketAdapter()
+
+    def generate_config(self):
+        cmd = [
+            "talosctl",
+            "gen",
+            "config",
+            cfg.cluster_name,
+            f"https://{cfg.ip_master}:{PORT_K8S_API}",
+            "--force",
+            "--output-dir",
+            f"{cfg.talos.dir_generated_configuration}",
+            "--config-patch",
+            f"@{cfg.talos.path_patch_all}",
+            "--config-patch-control-plane",
+            f"@{cfg.talos.path_patch_controlplane}",
+            "--config-patch-worker",
+            f"@{cfg.talos.path_patch_worker}",
+        ]
+
+        results = subprocess.run(cmd, capture_output=True)
+
+        if results.returncode == 0:
+            return AdapterResponse()
+        return AdapterResponse(
+            code=results.returncode, message=results.stderr.decode(),
+        )
+
+    def configure_node(self, node):
+        res = self.socket.is_open(node.ip, PORT_TALOS_INIT)
+
+        if res.is_nok():
+            return AdapterResponse(code=res.code, message=res.message)
+
+        cmd = [
+            "talosctl",
+            "apply-config",
+            "--insecure",
+            "--nodes",
+            node.ip,
+            "--file",
+            f"{cfg.talos.dir_generated_configuration}/{node.role}.yaml",
+        ]
+        results = subprocess.run(cmd, capture_output=True)
+
+        if results.returncode == 0:
+            return AdapterResponse()
+        return AdapterResponse(
+            code=results.returncode, message=results.stderr.decode(),
+        )
+
+    def bootstrap_cluster(self):
+        res = self.socket.is_open(cfg.ip_master, PORT_TALOS_API)
+
+        if res.is_nok():
+            return AdapterResponse(code=res.code, message=res.message)
+
+        cmd_endpoint_config = [
+            "talosctl",
+            "config",
+            "endpoint",
+            cfg.ip_master,
+        ]
+        results = subprocess.run(cmd_endpoint_config)
+
+        if results.returncode > 0:
+            return AdapterResponse(
+                code=results.returncode, message=results.stderr.decode(),
+            )
+
+        cmd_node_config = ["talosctl", "config", "node", cfg.ip_master]
+        results = subprocess.run(cmd_node_config)
+
+        if results.returncode > 0:
+            return AdapterResponse(
+                code=results.returncode, message=results.stderr.decode(),
+            )
+
+        cmd_bootstrap = ["talosctl", "bootstrap"]
+        results = subprocess.run(cmd_bootstrap, capture_output=True)
+
+        if results.returncode > 0:
+            return AdapterResponse(
+                code=results.returncode, message=results.stderr.decode(),
+            )
+        return AdapterResponse()
+
+    def get_kubeconfig(self):
+        res = self.socket.is_open(cfg.ip_master, PORT_K8S_API)
+
+        if res.is_nok():
+            return AdapterResponse(code=res.code, message=res.message)
+
+        cmd_get_config = [
+            "talosctl",
+            "kubeconfig",
+            cfg.path_kubeconfig_dir,
+            "--force",
+        ]
+        results = subprocess.run(cmd_get_config, capture_output=True)
+
+        if results.returncode > 0:
+            return AdapterResponse(
+                code=results.returncode, message=results.stderr.decode(),
+            )
+        return AdapterResponse()
+
+    def _get_latest_talos_version(self) -> str:
+        """
+        Get the latest Talos version from GitHub releases API.
+
+        Returns:
+            str: The latest version tag (e.g., 'v1.7.0')
+
+        Raises:
+            SystemExit: If unable to fetch version information
+        """
+        url = "https://github.com/siderolabs/talos/releases/latest"
+        headers = {"Accept": "application/json"}
+
+        try:
+            response = requests.get(url, headers=headers, timeout=30)
+            response.raise_for_status()
+            data = response.json()
+
+            return data["tag_name"]
+        except (requests.RequestException, KeyError, json.JSONDecodeError):
+            return ""
+
+    def _update_talos_version_files(self, talos_version: str) -> None:
+        """Update Talos version in .envrc, .envrc.sample, and infrastructure/talos/patch-all.yaml files.
+
+        Args:
+            talos_version: The Talos version to set in the files.
+        """
+
+        env_files = [".envrc", ".envrc.sample"]
+        patch_file = Path("infrastructure/talos/patch-all.yaml")
+
+        # Regex pattern for .envrc and .envrc.sample
+        env_pattern = re.compile(r"^export TF_VAR_talos_version=.*$", re.MULTILINE)
+        env_replacement = f"export TF_VAR_talos_version={talos_version}"
+
+        for env_file in env_files:
+            file_path = Path(env_file)
+
+            if not file_path.exists():
+                continue
+            content = file_path.read_text(encoding="utf-8")
+
+            if env_pattern.search(content):
+                updated_content = env_pattern.sub(env_replacement, content)
+                file_path.write_text(updated_content, encoding="utf-8")
+            else:
+                updated_content = content.rstrip() + f"\n{env_replacement}\n"
+                file_path.write_text(updated_content, encoding="utf-8")
+
+        if patch_file.exists():
+            patch_content = patch_file.read_text(encoding="utf-8")
+            # Regex to find the line with the image version and replace only the version part after colon
+            patch_pattern = re.compile(
+                r"(image: factory\.talos\.dev/metal-installer/[a-f0-9]+:)(v[\d\.]+)",
+            )
+            updated_patch_content = patch_pattern.sub(
+                lambda m: m.group(1) + talos_version, patch_content,
+            )
+            patch_file.write_text(updated_patch_content, encoding="utf-8")
+
+    def update_talosctl(self):
+        talos_version = self._get_latest_talos_version()
+
+        if not talos_version:
+            return AdapterResponse(
+                code=1,
+                message="Couldn't get the latest Talos version tag from GitHub",
+            )
+
+        os_name = platform.system().lower()
+        download_url = (
+            f"https://github.com/siderolabs/talos/releases/download/"
+            f"{talos_version}/talosctl-{os_name}-amd64"
+        )
+
+        bin_dir = Path.home() / ".local" / "bin"
+        bin_dir.mkdir(parents=True, exist_ok=True)
+
+        talosctl_path = bin_dir / "talosctl"
+
+        headers = {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
+            "Accept": "application/octet-stream,*/*",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+        }
+
+        try:
+            with requests.get(
+                download_url,
+                headers=headers,
+                stream=True,
+                timeout=30,
+            ) as response:
+                response.raise_for_status()
+
+                with talosctl_path.open("wb") as f:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        if chunk:
+                            f.write(chunk)
+
+            talosctl_path.chmod(0o755)
+            self._update_talos_version_files(talos_version)
+
+            return AdapterResponse()
+
+        except requests.RequestException as e:
+            return AdapterResponse(
+                code=1,
+                message=f"Error downloading talosctl: {e}",
+            )
+
+    def update_node(self, node_ip):
+        talos_version = self._get_latest_talos_version()
+
+        if not talos_version:
+            return AdapterResponse(
+                code=1,
+                message="Couldn't get the latest Talos version tag from GitHub",
+            )
+
+        schematic_id = os.getenv("TF_VAR_talos_schematic_id")
+
+        if not schematic_id:
+            return AdapterResponse(
+                code=1,
+                message="TF_VAR_talos_schematic_id environment variable is not set",
+            )
+
+        cmd = [
+            "talosctl",
+            "upgrade",
+            "--nodes",
+            node_ip,
+            "--image",
+            # metal-installer must match the platform/install image in patch-all.yaml;
+            # the generic installer/ path is wrong for a metal node on Talos 1.10+.
+            f"factory.talos.dev/metal-installer/{schematic_id}:{talos_version}",
+            # --preserve keeps the EPHEMERAL partition (etcd on the control plane,
+            # Longhorn data on workers). Deprecated, slated for removal in Talos 1.18.
+            "--preserve",
+        ]
+
+        try:
+            subprocess.run(cmd, check=True, capture_output=True, text=True)
+
+            return AdapterResponse(
+                code=0,
+                message=f"Node {node_ip} upgrade to Talos {talos_version} successful",
+            )
+        except subprocess.CalledProcessError as e:
+            return AdapterResponse(
+                code=1,
+                message=f"Error upgrading node {node_ip}:\n{e.stderr.strip()}",
+            )
+        except FileNotFoundError:
+            return AdapterResponse(code=1, message="talosctl command not found")

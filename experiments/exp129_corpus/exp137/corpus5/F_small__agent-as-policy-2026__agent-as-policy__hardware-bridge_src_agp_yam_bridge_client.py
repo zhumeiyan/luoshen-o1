@@ -1,1 +1,122 @@
-IiIiU3luY2hyb25vdXMgcmVhZC1vbmx5IGNsaWVudCBmb3IgdGhlIFlBTSBicmlkZ2UncyBvYnNlcnZhdGlvbiBzb2NrZXQuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgc29ja2V0CmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmZyb20gYWdwX3lhbV9icmlkZ2UucHJvdG9jb2wgaW1wb3J0ICgKICAgIFByb3RvY29sRXJyb3IsCiAgICByZWN2X2ZyYW1lZCwKICAgIHNlbmRfZnJhbWVkLAogICAgdmFsaWRhdGVfb2JzZXJ2YXRpb25fbWVzc2FnZSwKKQoKCmNsYXNzIEJyaWRnZURpc2Nvbm5lY3RlZChDb25uZWN0aW9uRXJyb3IpOgogICAgIiIiVGhlIGJyaWRnZSBzb2NrZXQgY2xvc2VkIG9yIHRpbWVkIG91dC4iIiIKCgpjbGFzcyBCcmlkZ2VSZXNwb25zZUVycm9yKFJ1bnRpbWVFcnJvcik6CiAgICAiIiJUaGUgYnJpZGdlIHJldHVybmVkIGEgc3RydWN0dXJlZCBwcm90b2NvbC9zb3VyY2UgZXJyb3IuIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNvZGU6IHN0ciwgbWVzc2FnZTogc3RyLCByZXRyeWFibGU6IGJvb2wpIC0+IE5vbmU6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhmIntjb2RlfToge21lc3NhZ2V9IikKICAgICAgICBzZWxmLmNvZGUgPSBjb2RlCiAgICAgICAgc2VsZi5yZXRyeWFibGUgPSByZXRyeWFibGUKCgpjbGFzcyBPdXRPZk9yZGVyT2JzZXJ2YXRpb25FcnJvcihSdW50aW1lRXJyb3IpOgogICAgIiIiQSByZXNwb25zZSBzZXF1ZW5jZSBkaWQgbm90IGFkdmFuY2Ugc3RyaWN0bHkuIiIiCgoKY2xhc3MgQnJpZGdlQ2xpZW50OgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgaG9zdDogc3RyLAogICAgICAgIHBvcnQ6IGludCwKICAgICAgICAqLAogICAgICAgIHJlcXVlc3RfdGltZW91dF9zOiBmbG9hdCA9IDEuMCwKICAgICAgICBzdGFsZV9hZnRlcl9zOiBmbG9hdCA9IDAuNSwKICAgICkgLT4gTm9uZToKICAgICAgICBzZWxmLmhvc3QgPSBob3N0CiAgICAgICAgc2VsZi5wb3J0ID0gcG9ydAogICAgICAgIHNlbGYucmVxdWVzdF90aW1lb3V0X3MgPSByZXF1ZXN0X3RpbWVvdXRfcwogICAgICAgIHNlbGYuc3RhbGVfYWZ0ZXJfbnMgPSBpbnQoc3RhbGVfYWZ0ZXJfcyAqIDFlOSkKICAgICAgICBzZWxmLl9zb2NrZXQ6IHNvY2tldC5zb2NrZXQgfCBOb25lID0gTm9uZQogICAgICAgIHNlbGYuX3JlcXVlc3RfaWQgPSAwCiAgICAgICAgc2VsZi5fbGFzdF9zZXF1ZW5jZTogaW50IHwgTm9uZSA9IE5vbmUKCiAgICBkZWYgY29ubmVjdChzZWxmKSAtPiBOb25lOgogICAgICAgIGlmIHNlbGYuX3NvY2tldCBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgdHJ5OgogICAgICAgICAgICBzZWxmLl9zb2NrZXQgPSBzb2NrZXQuY3JlYXRlX2Nvbm5lY3Rpb24oCiAgICAgICAgICAgICAgICAoc2VsZi5ob3N0LCBzZWxmLnBvcnQpLCB0aW1lb3V0PXNlbGYucmVxdWVzdF90aW1lb3V0X3MKICAgICAgICAgICAgKQogICAgICAgICAgICBzZWxmLl9zb2NrZXQuc2V0dGltZW91dChzZWxmLnJlcXVlc3RfdGltZW91dF9zKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yIGFzIGV4YzoKICAgICAgICAgICAgcmFpc2UgQnJpZGdlRGlzY29ubmVjdGVkKAogICAgICAgICAgICAgICAgZiJjb3VsZCBub3QgY29ubmVjdCB0byBZQU0gYnJpZGdlIGF0IHtzZWxmLmhvc3R9OntzZWxmLnBvcnR9OiB7ZXhjfSIKICAgICAgICAgICAgKSBmcm9tIGV4YwoKICAgIGRlZiBnZXRfb2JzZXJ2YXRpb24oc2VsZikgLT4gZGljdFtzdHIsIEFueV06CiAgICAgICAgc2VsZi5jb25uZWN0KCkKICAgICAgICBhc3NlcnQgc2VsZi5fc29ja2V0IGlzIG5vdCBOb25lCiAgICAgICAgcmVxdWVzdF9pZCA9IHNlbGYuX3JlcXVlc3RfaWQKICAgICAgICBzZWxmLl9yZXF1ZXN0X2lkICs9IDEKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbmRfZnJhbWVkKAogICAgICAgICAgICAgICAgc2VsZi5fc29ja2V0LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJzY2hlbWFfdmVyc2lvbiI6IDEsCiAgICAgICAgICAgICAgICAgICAgIm1lc3NhZ2VfdHlwZSI6ICJyZXF1ZXN0IiwKICAgICAgICAgICAgICAgICAgICAicmVxdWVzdF9pZCI6IHJlcXVlc3RfaWQsCiAgICAgICAgICAgICAgICAgICAgIm1ldGhvZCI6ICJnZXRfb2JzZXJ2YXRpb24iLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgKQogICAgICAgICAgICByZXNwb25zZSA9IHJlY3ZfZnJhbWVkKHNlbGYuX3NvY2tldCkKICAgICAgICBleGNlcHQgKEVPRkVycm9yLCBPU0Vycm9yLCBQcm90b2NvbEVycm9yKSBhcyBleGM6CiAgICAgICAgICAgIHNlbGYuY2xvc2UoKQogICAgICAgICAgICByYWlzZSBCcmlkZ2VEaXNjb25uZWN0ZWQoZiJZQU0gYnJpZGdlIGRpc2Nvbm5lY3RlZDoge2V4Y30iKSBmcm9tIGV4YwoKICAgICAgICBpZiByZXNwb25zZS5nZXQoInJlcXVlc3RfaWQiKSAhPSByZXF1ZXN0X2lkOgogICAgICAgICAgICByYWlzZSBCcmlkZ2VSZXNwb25zZUVycm9yKAogICAgICAgICAgICAgICAgIlJFUVVFU1RfTUlTTUFUQ0giLAogICAgICAgICAgICAgICAgZiJyZWNlaXZlZCByZXF1ZXN0X2lkIHtyZXNwb25zZS5nZXQoJ3JlcXVlc3RfaWQnKSFyfSwgZXhwZWN0ZWQge3JlcXVlc3RfaWR9IiwKICAgICAgICAgICAgICAgIEZhbHNlLAogICAgICAgICAgICApCiAgICAgICAgaWYgcmVzcG9uc2UuZ2V0KCJtZXNzYWdlX3R5cGUiKSA9PSAiZXJyb3IiOgogICAgICAgICAgICBlcnJvciA9IHJlc3BvbnNlLmdldCgiZXJyb3IiKQogICAgICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShlcnJvciwgZGljdCk6CiAgICAgICAgICAgICAgICByYWlzZSBCcmlkZ2VSZXNwb25zZUVycm9yKCJJTlZBTElEX0VSUk9SIiwgImVycm9yIHBheWxvYWQgbXVzdCBiZSBhIG1hcCIsIEZhbHNlKQogICAgICAgICAgICByYWlzZSBCcmlkZ2VSZXNwb25zZUVycm9yKAogICAgICAgICAgICAgICAgc3RyKGVycm9yLmdldCgiY29kZSIsICJVTktOT1dOIikpLAogICAgICAgICAgICAgICAgc3RyKGVycm9yLmdldCgibWVzc2FnZSIsICIiKSksCiAgICAgICAgICAgICAgICBib29sKGVycm9yLmdldCgicmV0cnlhYmxlIiwgRmFsc2UpKSwKICAgICAgICAgICAgKQoKICAgICAgICB2YWxpZGF0ZV9vYnNlcnZhdGlvbl9tZXNzYWdlKHJlc3BvbnNlLCBtYXhfYWdlX25zPXNlbGYuc3RhbGVfYWZ0ZXJfbnMpCiAgICAgICAgc2VxdWVuY2UgPSBpbnQocmVzcG9uc2VbInNlcXVlbmNlIl0pCiAgICAgICAgaWYgc2VsZi5fbGFzdF9zZXF1ZW5jZSBpcyBub3QgTm9uZSBhbmQgc2VxdWVuY2UgPD0gc2VsZi5fbGFzdF9zZXF1ZW5jZToKICAgICAgICAgICAgcmFpc2UgT3V0T2ZPcmRlck9ic2VydmF0aW9uRXJyb3IoCiAgICAgICAgICAgICAgICBmIm9ic2VydmF0aW9uIHNlcXVlbmNlIHtzZXF1ZW5jZX0gZGlkIG5vdCBhZHZhbmNlIGJleW9uZCB7c2VsZi5fbGFzdF9zZXF1ZW5jZX0iCiAgICAgICAgICAgICkKICAgICAgICBzZWxmLl9sYXN0X3NlcXVlbmNlID0gc2VxdWVuY2UKICAgICAgICByZXR1cm4gcmVzcG9uc2UKCiAgICBkZWYgY2xvc2Uoc2VsZikgLT4gTm9uZToKICAgICAgICBzb2NrLCBzZWxmLl9zb2NrZXQgPSBzZWxmLl9zb2NrZXQsIE5vbmUKICAgICAgICBpZiBzb2NrIGlzIG5vdCBOb25lOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzb2NrLnNodXRkb3duKHNvY2tldC5TSFVUX1JEV1IpCiAgICAgICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICBzb2NrLmNsb3NlKCkKCiAgICBkZWYgX19lbnRlcl9fKHNlbGYpIC0+IEJyaWRnZUNsaWVudDoKICAgICAgICBzZWxmLmNvbm5lY3QoKQogICAgICAgIHJldHVybiBzZWxmCgogICAgZGVmIF9fZXhpdF9fKHNlbGYsICpfOiBvYmplY3QpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5jbG9zZSgpCg==
+"""Synchronous read-only client for the YAM bridge's observation socket."""
+
+from __future__ import annotations
+
+import socket
+from typing import Any
+
+from agp_yam_bridge.protocol import (
+    ProtocolError,
+    recv_framed,
+    send_framed,
+    validate_observation_message,
+)
+
+
+class BridgeDisconnected(ConnectionError):
+    """The bridge socket closed or timed out."""
+
+
+class BridgeResponseError(RuntimeError):
+    """The bridge returned a structured protocol/source error."""
+
+    def __init__(self, code: str, message: str, retryable: bool) -> None:
+        super().__init__(f"{code}: {message}")
+        self.code = code
+        self.retryable = retryable
+
+
+class OutOfOrderObservationError(RuntimeError):
+    """A response sequence did not advance strictly."""
+
+
+class BridgeClient:
+    def __init__(
+        self,
+        host: str,
+        port: int,
+        *,
+        request_timeout_s: float = 1.0,
+        stale_after_s: float = 0.5,
+    ) -> None:
+        self.host = host
+        self.port = port
+        self.request_timeout_s = request_timeout_s
+        self.stale_after_ns = int(stale_after_s * 1e9)
+        self._socket: socket.socket | None = None
+        self._request_id = 0
+        self._last_sequence: int | None = None
+
+    def connect(self) -> None:
+        if self._socket is not None:
+            return
+        try:
+            self._socket = socket.create_connection(
+                (self.host, self.port), timeout=self.request_timeout_s
+            )
+            self._socket.settimeout(self.request_timeout_s)
+        except OSError as exc:
+            raise BridgeDisconnected(
+                f"could not connect to YAM bridge at {self.host}:{self.port}: {exc}"
+            ) from exc
+
+    def get_observation(self) -> dict[str, Any]:
+        self.connect()
+        assert self._socket is not None
+        request_id = self._request_id
+        self._request_id += 1
+        try:
+            send_framed(
+                self._socket,
+                {
+                    "schema_version": 1,
+                    "message_type": "request",
+                    "request_id": request_id,
+                    "method": "get_observation",
+                },
+            )
+            response = recv_framed(self._socket)
+        except (EOFError, OSError, ProtocolError) as exc:
+            self.close()
+            raise BridgeDisconnected(f"YAM bridge disconnected: {exc}") from exc
+
+        if response.get("request_id") != request_id:
+            raise BridgeResponseError(
+                "REQUEST_MISMATCH",
+                f"received request_id {response.get('request_id')!r}, expected {request_id}",
+                False,
+            )
+        if response.get("message_type") == "error":
+            error = response.get("error")
+            if not isinstance(error, dict):
+                raise BridgeResponseError("INVALID_ERROR", "error payload must be a map", False)
+            raise BridgeResponseError(
+                str(error.get("code", "UNKNOWN")),
+                str(error.get("message", "")),
+                bool(error.get("retryable", False)),
+            )
+
+        validate_observation_message(response, max_age_ns=self.stale_after_ns)
+        sequence = int(response["sequence"])
+        if self._last_sequence is not None and sequence <= self._last_sequence:
+            raise OutOfOrderObservationError(
+                f"observation sequence {sequence} did not advance beyond {self._last_sequence}"
+            )
+        self._last_sequence = sequence
+        return response
+
+    def close(self) -> None:
+        sock, self._socket = self._socket, None
+        if sock is not None:
+            try:
+                sock.shutdown(socket.SHUT_RDWR)
+            except OSError:
+                pass
+            sock.close()
+
+    def __enter__(self) -> BridgeClient:
+        self.connect()
+        return self
+
+    def __exit__(self, *_: object) -> None:
+        self.close()

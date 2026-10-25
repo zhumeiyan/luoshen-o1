@@ -1,1 +1,32 @@
-IyBleHAxMzQg6aKE5rOo5YaM77yI5YaZ5Zyo5rWL6YeP5LmL5YmN77yJCgojIyDog4zmma8KZXhwMTMzIOWPkeeOsCBwcmVzZW50L2Fic2VudCDmi4bliIbvvJpwcmVzZW50IOS4peagvOeyvuW6piA2Ni43JSgxMC8xNSnvvIxhYnNlbnQgMCUoMC85KeOAggoqKuS9humCo+S4quaLhuWIhuaYr+eci+WIsOaVsOaNruS5i+WQjuaJjeWBmueahCoq77yM5LiN6IO9566XIuS/ruWlveS6hiLjgILlv4XpobvlnKjni6znq4vor63mlpnkuIrlpI3njrDjgIIKZXhwMTMzIOeahOivreaWmShjb3JwdXMxLCA2MSDmlofku7YgLyA5IOS7k+W6kynmraPmmK/miYDmnIkgYnVnIOS/ruWkjeeahOadpea6kO+8jOW3suiiq+iwg+i/h+OAggpjb3JwdXMyIOaYr+WQjOagtyA5IOS7k+W6k+eahOeVmeWHuuaWh+S7tu+8jOS7jeWFseS6q+S7k+W6k+e6p+axoeafkyDihpIg5LiN566X54us56uL44CCCuacrOi9ruaWsOW7uiBjb3JwdXMzID0gNyDkuKrmraTliY3ku47mnKrnlKjov4fnmoTku5PlupPvvIwxMCDkuKrmlofku7bjgIIKCiMjIOaUueWKqO+8iOWFiOWunueOsO+8jOWGjea1i+mHj++8iQpSMToga2luZD09ImFic2VudCIg55qEIDUg5p2h6KeE5YiZKEVHMDAyL0VHMDEyL0VHUDA0L0VHUDA2L0VHUDA5KeaUueS4uioq5paH5Lu257qnKirovpPlh7rvvJoKICAgIGxpbmU9Tm9uZe+8jHNjb3BlPSJmaWxlIu+8jOaOqui+nuaUueS4uiLmnKzmlofku7bigKYi77yM5LiN5YaN6ZKJ6KGM44CCClIyOiBraW5kPT0ibW9kdWxlIiDnmoQgNiDmnaHop4TliJkoRUcwMDcvRUcwMDgvRUcwMTAvRUcwMTUvRUdQMDMvRUdQMDUp5ZCM5LiK44CCClIzOiBraW5kPT0icHJlc2VudCIg55qEIDE1IOadoeinhOWImeS/neaMgemSieihjO+8jOW/hemhu+i/h+mUmueCueiHquivgeOAggoKIyMg5Yik5o2u77yI6aKE5rOo5YaM77yM5LiN6ZqP57uT5p6c5pS577yJCkcxIOWPrOWbnu+8muWfi+mbtyAxMi8xMuOAgXBybyAxNC8xNO+8jOS4jeW+l+aOieOAggpHMiDop4TliJnltKnmuoMgPSAw44CCCkczIOWPkei0p+mXuO+8mnByZXNlbnQg5Y+R546w55qEKirkuKXmoLzooYznuqcqKiBUUCDnjocgPj0gNjAl44CCCkc0IGFic2VudC9tb2R1bGUg5ZyoKirmlofku7bnuqcqKuWIpOWumuS4i+eahCBUUCDnjocgPj0gNjAl44CCCiAgIOWIpOWumuagh+WHhu+8muaKiuaVtOS4quaWh+S7tuivu+S4gOmBje+8jOivpeaMh+aOp+aYr+WQpuaIkOeri+OAggpHNSDlr7nmr5TvvJphYnNlbnQg6Iul5LuN5oyJ6KGM57qn5Yik5a6a77yMVFAg546H5bqU5pi+6JGX5L2O5LqOIHByZXNlbnTvvIjlpI3njrAgZXhwMTMz77yJ44CCCgojIyDpooTmtYvvvIjlhpnlh7rmnaXvvIzot5Hlrozlr7notKjvvIkKSDE6IHByZXNlbnQg6KGM57qn5Lil5qC8IFRQID49IDYwJSAgICAgICAgICDihpIg6Iul5ZCm77yM6K+05piO6ZKJ6KGM6Zeu6aKY5pmu6YGN77yM5LiN5pivIGFic2VudCDni6zmnIkKSDI6IGFic2VudCDmlofku7bnuqcgVFAgPj0gNjAlICAgICAgICAgICAgIOKGkiDoi6XlkKbvvIzor7TmmI7nvLrlpLHlnovmjIfmjqfmnKzouqvlnKjnnJ/lrp7ku6PnoIHkuIrkuI3miJDnq4sKSDM6IGFic2VudCDooYznuqcgVFAgPCBwcmVzZW50IOihjOe6pyBUUCAgICAg4oaSIOWkjeeOsCBleHAxMzMg55qE5pa55ZCRCgojIyDlt7Lnn6XlsYDpmZDvvIjpooTlhYjlo7DmmI7vvIkKLSDliKTlrprogIXlj6rmnInmiJHkuIDkuKrvvIzlrZjnlpHkuIDlvovorrAgRlDvvIjkv53lrojmlrnlkJHvvInjgIIKLSBjb3JwdXMzIOWPquaciSAxMCDkuKrmlofku7bvvIzmoLfmnKzlsI/vvIzlj6rmiqXmlbDkuI3miqUgQ0njgIIKLSDoi6Xmn5DkuKrop4TliJnlnKggY29ycHVzMyDkuIogMCDlkb3kuK3vvIzliJnlroPkuI3ov5vlhaXliIbmr43vvIjml6Dor4Hmja7kuI3nrYnkuo7pgJrov4fvvInjgIIK
+# exp134 预注册（写在测量之前）
+
+## 背景
+exp133 发现 present/absent 拆分：present 严格精度 66.7%(10/15)，absent 0%(0/9)。
+**但那个拆分是看到数据之后才做的**，不能算"修好了"。必须在独立语料上复现。
+exp133 的语料(corpus1, 61 文件 / 9 仓库)正是所有 bug 修复的来源，已被调过。
+corpus2 是同样 9 仓库的留出文件，仍共享仓库级污染 → 不算独立。
+本轮新建 corpus3 = 7 个此前从未用过的仓库，10 个文件。
+
+## 改动（先实现，再测量）
+R1: kind=="absent" 的 5 条规则(EG002/EG012/EGP04/EGP06/EGP09)改为**文件级**输出：
+    line=None，scope="file"，措辞改为"本文件…"，不再钉行。
+R2: kind=="module" 的 6 条规则(EG007/EG008/EG010/EG015/EGP03/EGP05)同上。
+R3: kind=="present" 的 15 条规则保持钉行，必须过锚点自证。
+
+## 判据（预注册，不随结果改）
+G1 召回：埋雷 12/12、pro 14/14，不得掉。
+G2 规则崩溃 = 0。
+G3 发货闸：present 发现的**严格行级** TP 率 >= 60%。
+G4 absent/module 在**文件级**判定下的 TP 率 >= 60%。
+   判定标准：把整个文件读一遍，该指控是否成立。
+G5 对比：absent 若仍按行级判定，TP 率应显著低于 present（复现 exp133）。
+
+## 预测（写出来，跑完对质）
+H1: present 行级严格 TP >= 60%          → 若否，说明钉行问题普遍，不是 absent 独有
+H2: absent 文件级 TP >= 60%             → 若否，说明缺失型指控本身在真实代码上不成立
+H3: absent 行级 TP < present 行级 TP     → 复现 exp133 的方向
+
+## 已知局限（预先声明）
+- 判定者只有我一个，存疑一律记 FP（保守方向）。
+- corpus3 只有 10 个文件，样本小，只报数不报 CI。
+- 若某个规则在 corpus3 上 0 命中，则它不进入分母（无证据不等于通过）。

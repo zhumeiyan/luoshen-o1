@@ -1,1 +1,70 @@
-aW1wb3J0IG9zLCB0aW1lLCBqc29uLCBzdWJwcm9jZXNzLCBzaWduYWwKCmRlZiBtZWQoZiwgbj0zKToKICAgIHJldHVybiBzb3J0ZWQoZigpIGZvciBfIGluIHJhbmdlKG4pKVtuLy8yXQoKb3V0PXt9CgojID09PT09IOS7u+WKoUHvvJpDUFXorqHnrpfjgILkv6HmupA95bm25Y+R5b+Z6L+b56iLID09PT09CmRlZiB0YXNrX2NwdSgpOgogICAgdDA9dGltZS5wZXJmX2NvdW50ZXJfbnMoKTsgeD0wCiAgICBmb3IgaSBpbiByYW5nZSgyMDAwMDApOiB4Kz1pKmkKICAgIHJldHVybiB0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwCgojID09PT09IOS7u+WKoULvvJrmlofku7bor7vjgILkv6HmupA95bm25Y+R6K+76L+b56iLID09PT09Cm9wZW4oImYuYmluIiwid2IiKS53cml0ZShvcy51cmFuZG9tKDQqMTAyNCoxMDI0KSkKZGVmIHRhc2tfaW8oKToKICAgIHQwPXRpbWUucGVyZl9jb3VudGVyX25zKCkKICAgIHdpdGggb3BlbigiZi5iaW4iLCJyYiIpIGFzIGZoOgogICAgICAgIHdoaWxlIGZoLnJlYWQoMTw8MjApOiBwYXNzCiAgICByZXR1cm4gdGltZS5wZXJmX2NvdW50ZXJfbnMoKS10MAoKIyA9PT09PSDku7vliqFD77ya5YaF5a2Y5YiG6YWNK+inpueisOOAguS/oea6kD3pooTljaDnlKjlhoXlrZggPT09PT0KZGVmIHRhc2tfbWVtKCk6CiAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICBiPWJ5dGVhcnJheSgzMioxMDI0KjEwMjQpCiAgICBmb3IgaSBpbiByYW5nZSgwLGxlbihiKSw0MDk2KTogYltpXT0xCiAgICByZXR1cm4gdGltZS5wZXJmX2NvdW50ZXJfbnMoKS10MAoKZGVmIHN0cmVzc19jcHUobik6CiAgICBwcz1bc3VicHJvY2Vzcy5Qb3BlbihbInB5dGhvbjMiLCItYyIsIng9MFxud2hpbGUgMTogeCs9MSJdKSBmb3IgXyBpbiByYW5nZShuKV0KICAgIHRpbWUuc2xlZXAoMS4wKTsgcmV0dXJuIHBzCmRlZiBzdHJlc3NfaW8obik6CiAgICBwcz1bc3VicHJvY2Vzcy5Qb3BlbihbInB5dGhvbjMiLCItYyIsCiAgICAgICAgImltcG9ydCBvc1xud2hpbGUgMTpcbiBmPW9wZW4oJ2YuYmluJywncmInKVxuIHdoaWxlIGYucmVhZCgxPDwyMCk6IHBhc3NcbiBmLmNsb3NlKCkiXSkgZm9yIF8gaW4gcmFuZ2UobildCiAgICB0aW1lLnNsZWVwKDEuMCk7IHJldHVybiBwcwpkZWYgc3RyZXNzX21lbShtYik6CiAgICBiPWJ5dGVhcnJheShtYioxMDI0KjEwMjQpCiAgICBmb3IgaSBpbiByYW5nZSgwLGxlbihiKSw0MDk2KTogYltpXT0xCiAgICByZXR1cm4gYgoKZGVmIGtpbGwocHMpOgogICAgZm9yIHAgaW4gcHM6IHAuc2VuZF9zaWduYWwoc2lnbmFsLlNJR0tJTEwpOyBwLndhaXQoKQoKZm9yIG5hbWUsIHRhc2ssIGxldmVscywgc3QgaW4gWwogICAgKCJBX2NwdSIsIHRhc2tfY3B1LCBbMCwxLDIsM10sIHN0cmVzc19jcHUpLAogICAgKCJCX2lvIiwgIHRhc2tfaW8sICBbMCwxLDIsM10sIHN0cmVzc19pbyksCl06CiAgICBiYXNlID0gbWVkKHRhc2ssIDUpCiAgICBwdHM9W10KICAgIGZvciBsdiBpbiBsZXZlbHM6CiAgICAgICAgcHMgPSBzdChsdikgaWYgbHYgZWxzZSBbXQogICAgICAgIHIgPSBtZWQodGFzaykvYmFzZQogICAgICAgIGlmIHBzOiBraWxsKHBzKTsgdGltZS5zbGVlcCgwLjcpCiAgICAgICAgcHRzLmFwcGVuZCgobHYsIHJvdW5kKHIsMykpKQogICAgICAgIHByaW50KGYie25hbWV9IOW5suaJsHtsdn0gIOWAjeeOhyB7cjouM2Z9IikKICAgIG91dFtuYW1lXT17ImJhc2VfbnMiOmJhc2UsInB0cyI6cHRzfQoKIyDlhoXlrZjkv6HmupDvvJrpooTljaDnlKjkuI3lkIzph4/vvIznnIvku7vliqFD5Y+Y5oWiCmJhc2UgPSBtZWQodGFza19tZW0sNSkKcHRzPVtdCmZvciBtYiBpbiBbMCw2NCwxMjgsMTkyXToKICAgIGhvbGQgPSBzdHJlc3NfbWVtKG1iKSBpZiBtYiBlbHNlIE5vbmUKICAgIHIgPSBtZWQodGFza19tZW0pL2Jhc2UKICAgIGRlbCBob2xkCiAgICB0aW1lLnNsZWVwKDAuNykKICAgIHB0cy5hcHBlbmQoKG1iLCByb3VuZChyLDMpKSkKICAgIHByaW50KGYiQ19tZW0g6aKE5Y2ge21ifU1CICDlgI3njocge3I6LjNmfSIpCm91dFsiQ19tZW0iXT17ImJhc2VfbnMiOmJhc2UsInB0cyI6cHRzfQoKanNvbi5kdW1wKG91dCwgb3Blbigic2NhbjIuanNvbiIsInciKSwgaW5kZW50PTEpCg==
+import os, time, json, subprocess, signal
+
+def med(f, n=3):
+    return sorted(f() for _ in range(n))[n//2]
+
+out={}
+
+# ===== 任务A：CPU计算。信源=并发忙进程 =====
+def task_cpu():
+    t0=time.perf_counter_ns(); x=0
+    for i in range(200000): x+=i*i
+    return time.perf_counter_ns()-t0
+
+# ===== 任务B：文件读。信源=并发读进程 =====
+open("f.bin","wb").write(os.urandom(4*1024*1024))
+def task_io():
+    t0=time.perf_counter_ns()
+    with open("f.bin","rb") as fh:
+        while fh.read(1<<20): pass
+    return time.perf_counter_ns()-t0
+
+# ===== 任务C：内存分配+触碰。信源=预占用内存 =====
+def task_mem():
+    t0=time.perf_counter_ns()
+    b=bytearray(32*1024*1024)
+    for i in range(0,len(b),4096): b[i]=1
+    return time.perf_counter_ns()-t0
+
+def stress_cpu(n):
+    ps=[subprocess.Popen(["python3","-c","x=0\nwhile 1: x+=1"]) for _ in range(n)]
+    time.sleep(1.0); return ps
+def stress_io(n):
+    ps=[subprocess.Popen(["python3","-c",
+        "import os\nwhile 1:\n f=open('f.bin','rb')\n while f.read(1<<20): pass\n f.close()"]) for _ in range(n)]
+    time.sleep(1.0); return ps
+def stress_mem(mb):
+    b=bytearray(mb*1024*1024)
+    for i in range(0,len(b),4096): b[i]=1
+    return b
+
+def kill(ps):
+    for p in ps: p.send_signal(signal.SIGKILL); p.wait()
+
+for name, task, levels, st in [
+    ("A_cpu", task_cpu, [0,1,2,3], stress_cpu),
+    ("B_io",  task_io,  [0,1,2,3], stress_io),
+]:
+    base = med(task, 5)
+    pts=[]
+    for lv in levels:
+        ps = st(lv) if lv else []
+        r = med(task)/base
+        if ps: kill(ps); time.sleep(0.7)
+        pts.append((lv, round(r,3)))
+        print(f"{name} 干扰{lv}  倍率 {r:.3f}")
+    out[name]={"base_ns":base,"pts":pts}
+
+# 内存信源：预占用不同量，看任务C变慢
+base = med(task_mem,5)
+pts=[]
+for mb in [0,64,128,192]:
+    hold = stress_mem(mb) if mb else None
+    r = med(task_mem)/base
+    del hold
+    time.sleep(0.7)
+    pts.append((mb, round(r,3)))
+    print(f"C_mem 预占{mb}MB  倍率 {r:.3f}")
+out["C_mem"]={"base_ns":base,"pts":pts}
+
+json.dump(out, open("scan2.json","w"), indent=1)

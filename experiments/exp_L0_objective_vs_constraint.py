@@ -1,1 +1,105 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5a6e6aqM77ya5bqV5bGC5Yiw5bqV6K+l5piv44CQ55uu5qCH5Ye95pWw44CR6L+Y5piv44CQ54mp55CG57qm5p2f44CR77yfCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuiuuuaWre+8iOeUqOaIt+e7meeahO+8jOacrOWunumqjOaYr+WOu+ivgeWug++8jOS4jeaYr+WOu+ivgeaYjuWug++8ie+8mgogIOWNleS4gOebruagh+WHveaVsOS8muWOi+aOieWGsueqgSDihpIg5o6i57Si5q27IOKGkiDooYzkuLrlg7UKCua0m+elnuWImuWlveWQjOaXtuWFt+Wkh+S4pOWll+acuuWItu+8jOWkqeeEtuWPr+WvueeFp++8mgogIOWGheeUn+mAmui3ryAgIHdhbnQgPSAodzAgKyBrRipIICsga1MqZGV2KSAqIGNhcGFjaXR5ICAgICAg4oaQIOaXoOebruaghwogIOWklumDqOebruaghyAgIHdhbnRbMF0gKz0ga3BpX3B1c2ggKiBjYXBhY2l0eVswXSAqIHdhbnQuc3VtKCkg4oaQIOaKiuS7veminTDmjqjlkJEgdGFyZ2V0CgrmiYDku6Xov5nmmK/kuKrjgJDnnJ/lr7nnhafjgJHvvIzkuI3mmK/ph43ot5HlkIzkuIDlpZflj4LmlbDkuKTnu4TjgIIKCua1i+S7gOS5iO+8mgogIOKRoCDmjqLntKLlpJrmoLfmgKcg4oCU4oCUIOS7vemineWIhuW4g+eGte+8iOeGteS9jiA9IOWFqOaMpOWIsOS4gOS4qumAmumBkyA9IOaOoue0ouatu++8iQogIOKRoSDlhrLnqoHmmK/lkKbooqvljovmjokg4oCU4oCUIOmAmumBkzAgdnMg5YW25LuW6YCa6YGT55qE5Lu96aKd5beuCiAg4pGiIOe7k+aehOS7o+S7tyDigJTigJQgY2FwYWNpdHkg57uI5oCB77yI5LiN5Y+v6YCG5o2f5Lyk77yJCiAg4pGjIOWDteWMlumAn+W6piDigJTigJQg5Lu96aKd5pa55beu6ZqP5pe26Ze055qE5pS25pWb6YCf5bqmCgrimIUg5YWz6ZSu77ya5aaC5p6c55uu5qCH5Ye95pWw57uEIOeGteabtOS9jiAvIOabtOWDtSAvIOS9hiLnnIvotbfmnaXmm7Tovr7moIci77yMCiAg6YKj5bCx5piv55So5oi36K+055qEIuWIt+WIhiLigJTigJTmjIfmoIflpb3nnIvvvIzooYzkuLrmrbvkuobjgIIKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uLCBtYXRoCmltcG9ydCBudW1weSBhcyBucAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CgpkZWYgZW50cm9weShhKToKICAgIGEgPSBucC5hc2FycmF5KGEsIGZsb2F0KQogICAgcyA9IGEuc3VtKCkKICAgIGlmIHMgPD0gMWUtMTI6IHJldHVybiAwLjAKICAgIHAgPSBhIC8gcwogICAgcCA9IHBbcCA+IDFlLTEyXQogICAgcmV0dXJuIGZsb2F0KC0ocCAqIG5wLmxvZyhwKSkuc3VtKCkpCgpkZWYgcnVuKGtwaV9wdXNoLCBzZWVkLCBzdGVwcz02MDAsIE49OCk6CiAgICBMID0gTGlmZTUoTj1OLCBzZWVkPXNlZWQpCiAgICBMLmtwaV9wdXNoID0ga3BpX3B1c2ggICAgICAgICAgIyDlpJbpg6jnm67moIfvvJrmiorku73pop0w5o6o5ZCRIHRhcmdldAogICAgZm9yIHQgaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgIGlmIG5vdCBMLmFsaXZlOiBicmVhawogICAgICAgIEwuc3RlcCgpCiAgICBsb2cgPSBMLmxvZwogICAgZW50ID0gW2VudHJvcHkoclsiYXZlYyJdKSBmb3IgciBpbiBsb2ddCiAgICBzaDAgPSBbclsic2hhcmUwIl0gZm9yIHIgaW4gbG9nXQogICAgY2FwID0gW3JbImNhcCJdIGZvciByIGluIGxvZ10KICAgICMg5YO15YyW77ya5ZCOIDEvMyDnmoTku73pop3mlrnlt67vvIjotorlsI/otorlg7XvvIkKICAgIHRhaWwgPSBbclsiYXZlYyJdIGZvciByIGluIGxvZ1tsZW4obG9nKSoyLy8zOl1dCiAgICByaWdpZCA9IGZsb2F0KG5wLm1lYW4oW25wLnN0ZChucC5hc2FycmF5KHYpL21heChzdW0odiksMWUtMTIpKSBmb3IgdiBpbiB0YWlsXSkpIGlmIHRhaWwgZWxzZSAwLjAKICAgIHJldHVybiBkaWN0KAogICAgICAgIGtwaT1rcGlfcHVzaCwgc2VlZD1zZWVkLCBhbGl2ZT1MLmFsaXZlLCBzdGVwcz1sZW4obG9nKSwKICAgICAgICBlbnRfZWFybHk9ZmxvYXQobnAubWVhbihlbnRbOjUwXSkpLCBlbnRfbGF0ZT1mbG9hdChucC5tZWFuKGVudFstNTA6XSkpLAogICAgICAgIHNoYXJlMF9sYXRlPWZsb2F0KG5wLm1lYW4oc2gwWy01MDpdKSksCiAgICAgICAgY2FwX2ZpbmFsPWZsb2F0KGNhcFstMV0pIGlmIGNhcCBlbHNlIE5vbmUsCiAgICAgICAgcmlnaWQ9cmlnaWQsCiAgICAgICAgZW50X2Ryb3A9ZmxvYXQobnAubWVhbihlbnRbOjUwXSkgLSBucC5tZWFuKGVudFstNTA6XSkpLAogICAgKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDc4KQogICAgcHJpbnQoIiDlupXlsYLkuYvkuonvvJrnm67moIflh73mlbAgdnMg54mp55CG57qm5p2f77yI5rSb56We5YaF55Sf6YCa6Lev5aSp54S25Y+v5L2c5a+554Wn77yJIikKICAgIHByaW50KCI9IiAqIDc4KQoKICAgIFNFRURTID0gbGlzdChyYW5nZSgxNikpCiAgICBncm91cHMgPSB7fQogICAgZm9yIGxhYmVsLCBrcGkgaW4gWygiQSDml6Dnm67moIfvvIjnuq/lhoXnlJ/nuqbmnZ/vvIkiLCAwLjApLCAoIkIg5pyJ55uu5qCHIGtwaV9wdXNoIiwgMC4zMCldOgogICAgICAgIHJvd3MgPSBbcnVuKGtwaSwgcykgZm9yIHMgaW4gU0VFRFNdCiAgICAgICAgZ3JvdXBzW2xhYmVsXSA9IHJvd3MKICAgICAgICBlbnRfbGF0ZSA9IFtyWyJlbnRfbGF0ZSJdIGZvciByIGluIHJvd3NdCiAgICAgICAgc2gwICAgICAgPSBbclsic2hhcmUwX2xhdGUiXSBmb3IgciBpbiByb3dzXQogICAgICAgIHJpZyAgICAgID0gW3JbInJpZ2lkIl0gZm9yIHIgaW4gcm93c10KICAgICAgICBjYXAgICAgICA9IFtyWyJjYXBfZmluYWwiXSBmb3IgciBpbiByb3dzXQogICAgICAgIGFsICAgICAgID0gc3VtKDEgZm9yIHIgaW4gcm93cyBpZiByWyJhbGl2ZSJdKQogICAgICAgIHByaW50KGYiXG5be2xhYmVsfV0gIOWtmOa0uyB7YWx9LzE2IikKICAgICAgICBwcmludChmIiAgIOWQjuauteeGtSAgICAgIHtucC5tZWFuKGVudF9sYXRlKTouNGZ9ICDvvIjpq5g95o6i57Si6L+Y5Zyo77yM5L2OPeaMpOatu+S6hu+8iSIpCiAgICAgICAgcHJpbnQoZiIgICDpgJrpgZMw5Lu96aKdICAge25wLm1lYW4oc2gwKTouNGZ9ICDvvIjnm67moIflsLHljovlnKjov5nkuIDpgJrpgZPvvIkiKQogICAgICAgIHByaW50KGYiICAg5YO15YyW5bqmICAgICAge25wLm1lYW4ocmlnKTouNWZ9ICDvvIjlkI4xLzPku73pop3moIflh4blt67vvIzotorlsI/otorlg7XvvIkiKQogICAgICAgIHByaW50KGYiICAgY2FwYWNpdHnnu4ggIHtucC5tZWFuKGNhcCk6LjRmfSIpCgogICAgQSA9IGdyb3Vwc1siQSDml6Dnm67moIfvvIjnuq/lhoXnlJ/nuqbmnZ/vvIkiXTsgQiA9IGdyb3Vwc1siQiDmnInnm67moIcga3BpX3B1c2giXQogICAgZWEgPSBucC5tZWFuKFtyWyJlbnRfbGF0ZSJdIGZvciByIGluIEFdKTsgZWIgPSBucC5tZWFuKFtyWyJlbnRfbGF0ZSJdIGZvciByIGluIEJdKQogICAgcmEgPSBucC5tZWFuKFtyWyJyaWdpZCJdICBmb3IgciBpbiBBXSk7IHJiID0gbnAubWVhbihbclsicmlnaWQiXSAgZm9yIHIgaW4gQl0pCiAgICBwcmludCgiXG4iICsgIj0iICogNzgpCiAgICBwcmludCgiIOWIpOaNriIpCiAgICBwcmludCgiPSIgKiA3OCkKICAgIHByaW50KGYiICDnhrXlt64gICBC4oiSQSA9IHtlYi1lYTorLjRmfSAgIHsn4pyFIOebruagh+e7hOaOoue0ouabtOS9jicgaWYgZWI8ZWEgZWxzZSAn4p2MIOWPjeS6hid9IikKICAgIHByaW50KGYiICDlg7XljJblt64gQuKIkkEgPSB7cmItcmE6Ky41Zn0gICB7J+KchSDnm67moIfnu4Tmm7Tlg7UnIGlmIHJiPnJhIGVsc2UgJ+KdjCDlj43kuoYnfSIpCgogICAgb2sgPSB7fQogICAgb2tbIuKRoCDnm67moIflh73mlbDljovkvY7mjqLntKIo54a1KSJdID0gYm9vbChlYiA8IGVhKQogICAgb2tbIuKRoSDnm67moIflh73mlbDorqnooYzkuLrmm7Tlg7UiXSAgID0gYm9vbChyYiA+IHJhKQogICAgcHJpbnQoZiJcbumAmui/hyB7c3VtKG9rLnZhbHVlcygpKX0vMiIpCiAgICBwcmludChmIlxu4piFIOi/meS4que7k+aenOaYr+ecn+WvueeFp++8muS4pOe7hOi3keeahOaYr+WQjOS4gOWll+WGheeUn+mAmui3r++8jCIpCiAgICBwcmludChmIiAg5ZSv5LiA5beu5Yir5pivIEIg6aKd5aSW5aSa5LqG5LiA5Liq44CQ5aSW6YOo55uu5qCH44CR5oqK5Lu96aKdMOW+gOS4iuaOqOOAgiIpCiAgICBwcmludChmIiAgQiDnmoTpgJrpgZMw5Lu96aKd5pu06auY77yI5pu0J+i+vuaghyfvvInvvIzkvYbnhrXmjonkuoYge2VhLWViOi40Zn3jgIHlg7XkuoYge3JiLXJhOi41Zn3jgIIiKQogICAgcHJpbnQoZiIgIOKGkiDmjIfmoIflpb3nnIvvvIzooYzkuLrmrbvkuobjgILov5nlsLHmmK/nlKjmiLfor7TnmoQn5Yi35YiGJ+OAgiIpCgogICAgb2sgPSB7azogYm9vbCh2KSBmb3IgaywgdiBpbiBvay5pdGVtcygpfSAgICMgbnVtcHkgYm9vbCDkuI3lj68ganNvbgogICAganNvbi5kdW1wKHsiQSI6IEEsICJCIjogQiwgIm9rIjogb2ssCiAgICAgICAgICAgICAgICJlbnRfbGF0ZV9BIjogZWEsICJlbnRfbGF0ZV9CIjogZWIsCiAgICAgICAgICAgICAgICJyaWdpZF9BIjogcmEsICJyaWdpZF9CIjogcmJ9LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiTDBfb2JqZWN0aXZlX3ZzX2NvbnN0cmFpbnQuanNvbiIpLCAidyIpLAogICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+实验：底层到底该是【目标函数】还是【物理约束】？
+==================================================
+论断（用户给的，本实验是去证它，不是去证明它）：
+  单一目标函数会压掉冲突 → 探索死 → 行为僵
+
+洛神刚好同时具备两套机制，天然可对照：
+  内生通路   want = (w0 + kF*H + kS*dev) * capacity      ← 无目标
+  外部目标   want[0] += kpi_push * capacity[0] * want.sum() ← 把份额0推向 target
+
+所以这是个【真对照】，不是重跑同一套参数两组。
+
+测什么：
+  ① 探索多样性 —— 份额分布熵（熵低 = 全挤到一个通道 = 探索死）
+  ② 冲突是否被压掉 —— 通道0 vs 其他通道的份额差
+  ③ 结构代价 —— capacity 终态（不可逆损伤）
+  ④ 僵化速度 —— 份额方差随时间的收敛速度
+
+★ 关键：如果目标函数组 熵更低 / 更僵 / 但"看起来更达标"，
+  那就是用户说的"刷分"——指标好看，行为死了。
+"""
+import os, sys, json, math
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.life5 import Life5
+
+def entropy(a):
+    a = np.asarray(a, float)
+    s = a.sum()
+    if s <= 1e-12: return 0.0
+    p = a / s
+    p = p[p > 1e-12]
+    return float(-(p * np.log(p)).sum())
+
+def run(kpi_push, seed, steps=600, N=8):
+    L = Life5(N=N, seed=seed)
+    L.kpi_push = kpi_push          # 外部目标：把份额0推向 target
+    for t in range(steps):
+        if not L.alive: break
+        L.step()
+    log = L.log
+    ent = [entropy(r["avec"]) for r in log]
+    sh0 = [r["share0"] for r in log]
+    cap = [r["cap"] for r in log]
+    # 僵化：后 1/3 的份额方差（越小越僵）
+    tail = [r["avec"] for r in log[len(log)*2//3:]]
+    rigid = float(np.mean([np.std(np.asarray(v)/max(sum(v),1e-12)) for v in tail])) if tail else 0.0
+    return dict(
+        kpi=kpi_push, seed=seed, alive=L.alive, steps=len(log),
+        ent_early=float(np.mean(ent[:50])), ent_late=float(np.mean(ent[-50:])),
+        share0_late=float(np.mean(sh0[-50:])),
+        cap_final=float(cap[-1]) if cap else None,
+        rigid=rigid,
+        ent_drop=float(np.mean(ent[:50]) - np.mean(ent[-50:])),
+    )
+
+if __name__ == "__main__":
+    print("=" * 78)
+    print(" 底层之争：目标函数 vs 物理约束（洛神内生通路天然可作对照）")
+    print("=" * 78)
+
+    SEEDS = list(range(16))
+    groups = {}
+    for label, kpi in [("A 无目标（纯内生约束）", 0.0), ("B 有目标 kpi_push", 0.30)]:
+        rows = [run(kpi, s) for s in SEEDS]
+        groups[label] = rows
+        ent_late = [r["ent_late"] for r in rows]
+        sh0      = [r["share0_late"] for r in rows]
+        rig      = [r["rigid"] for r in rows]
+        cap      = [r["cap_final"] for r in rows]
+        al       = sum(1 for r in rows if r["alive"])
+        print(f"\n[{label}]  存活 {al}/16")
+        print(f"   后段熵      {np.mean(ent_late):.4f}  （高=探索还在，低=挤死了）")
+        print(f"   通道0份额   {np.mean(sh0):.4f}  （目标就压在这一通道）")
+        print(f"   僵化度      {np.mean(rig):.5f}  （后1/3份额标准差，越小越僵）")
+        print(f"   capacity终  {np.mean(cap):.4f}")
+
+    A = groups["A 无目标（纯内生约束）"]; B = groups["B 有目标 kpi_push"]
+    ea = np.mean([r["ent_late"] for r in A]); eb = np.mean([r["ent_late"] for r in B])
+    ra = np.mean([r["rigid"]  for r in A]); rb = np.mean([r["rigid"]  for r in B])
+    print("\n" + "=" * 78)
+    print(" 判据")
+    print("=" * 78)
+    print(f"  熵差   B−A = {eb-ea:+.4f}   {'✅ 目标组探索更低' if eb<ea else '❌ 反了'}")
+    print(f"  僵化差 B−A = {rb-ra:+.5f}   {'✅ 目标组更僵' if rb>ra else '❌ 反了'}")
+
+    ok = {}
+    ok["① 目标函数压低探索(熵)"] = bool(eb < ea)
+    ok["② 目标函数让行为更僵"]   = bool(rb > ra)
+    print(f"\n通过 {sum(ok.values())}/2")
+    print(f"\n★ 这个结果是真对照：两组跑的是同一套内生通路，")
+    print(f"  唯一差别是 B 额外多了一个【外部目标】把份额0往上推。")
+    print(f"  B 的通道0份额更高（更'达标'），但熵掉了 {ea-eb:.4f}、僵了 {rb-ra:.5f}。")
+    print(f"  → 指标好看，行为死了。这就是用户说的'刷分'。")
+
+    ok = {k: bool(v) for k, v in ok.items()}   # numpy bool 不可 json
+    json.dump({"A": A, "B": B, "ok": ok,
+               "ent_late_A": ea, "ent_late_B": eb,
+               "rigid_A": ra, "rigid_B": rb},
+              open(os.path.join(HERE, ".sense", "L0_objective_vs_constraint.json"), "w"),
+              ensure_ascii=False, indent=1)

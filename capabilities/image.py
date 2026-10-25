@@ -1,1 +1,168 @@
-IiIi5Zu+54mH55Sf5oiQ5bGC44CCCgror5rlrp7lrprkvY0KLS0tLS0tLS0K6L+Z5pivKirmuLLmn5MqKu+8jOS4jeaYr+aJqeaVo+aooeWei+OAguWug+iDveeos+WumuS6p+WHuueahOaYr++8muaVsOaNruWbvuOAgeekuuaEj+WbvuOAgeaOkueJiOWbvuOAgQrkv6Hmga/lm77jgILlroPkuI3og73kuqflh7oi5LiA5byg54Wn54mHIuaIliLkuIDkuKromZrmnoTlnLrmma/nmoTmj5LnlLsi44CCCgrov5nmnaHovrnnlYzlv4XpobvlhpnmrbvlnKjku6PnoIHph4zogIzkuI3mmK/mlofmoaPph4zigJTigJTlm6DkuLrmlofmoaPlj6/ku6XlkLnvvIzku6PnoIHkuI3og73jgIIKYHNwZWNgIOmHjOWmguaenOWHuueOsOS6hua4suafk+WxguWFkeeOsOS4jeS6hueahOivt+axguexu+Wei++8jOi/memHjOebtOaOpeaLkue7neW5tuivtOaYju+8jArogIzkuI3mmK/ov5Tlm57kuIDlvKAi55yL6LW35p2l5YOP6YKj5LmI5Zue5LqLIueahOWbvuOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IG9zCgpmcm9tIC5hcnRpZmFjdCBpbXBvcnQgQXJ0aWZhY3QsIEtpbmQKCkRFRkFVTFRfT1VUID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSwgIm91dCIpCgoKY2xhc3MgVW5zdXBwb3J0ZWRJbWFnZVJlcXVlc3QoVmFsdWVFcnJvcik6CiAgICAiIiLmuLLmn5PlsYLlhZHnjrDkuI3kuobnmoTor7fmsYLjgILlroHlj6/mi5Lnu53vvIzkuI3orrjns4rlvITjgIIiIiIKCgojOiDmuLLmn5PlsYLnnJ/mraPog73lhZHnjrDnmoTnsbvlnovjgILotoXlh7rov5nkuKrpm4blkIjnmoTor7fmsYLmi5Lnu53vvIzkuI3pnZnpu5jpmY3nuqfjgIIKU1VQUE9SVEVEID0geyJjaGFydCIsICJkaWFncmFtIiwgImluZm9ncmFwaGljIiwgImxheW91dCJ9CgojOiDov5nkupvmmK/muLLmn5PlsYLlgZrkuI3liLDnmoTvvIzpgYfliLDopoHmmI7noa7or7Tlh7rmnaXnlLHliKvnmoTlvJXmk47mjqXvvIwKIzog6ICM5LiN5piv5Ye65LiA5bygIuW3ruS4jeWkmiLnmoTlm77kuqTlt67jgIIKT1VUX09GX1NDT1BFID0gewogICAgInBob3RvIiwgInBob3RvcmVhbGlzdGljIiwgImlsbHVzdHJhdGlvbiIsICJwb3J0cmFpdCIsCiAgICAiYW5pbWUiLCAicGFpbnRpbmciLCAiM2RfcmVuZGVyIiwgInByb2R1Y3Rfc2hvdCIsCn0KCgpkZWYgcmVuZGVyKHNwZWM6IGRpY3QsIG91dF9kaXI6IHN0ciA9IERFRkFVTFRfT1VUKSAtPiBBcnRpZmFjdDoKICAgICIiIuaMiSBzcGVjIOa4suafk+S4gOW8oCBQTkfjgIIKCiAgICBzcGVjIOacgOWwj+Wtl+aute+8mmBraW5kYO+8iOWcqCBTVVBQT1JURUQg5YaF77yJ44CBYHRpdGxlYOOAgeS7peWPiuivpSBraW5kIOeahOaVsOaNruWtl+auteOAggogICAg6L+U5ZueIEFydGlmYWN077yb5ZCI5LiN5ZCI5qC855SxIHZlcmlmeS5pbWFnZSgpIOWIpOWumu+8jOacrOWHveaVsOS4jeWBmuWIpOWumuOAggogICAgIiIiCiAgICBraW5kID0gc3RyKHNwZWMuZ2V0KCJraW5kIiwgImNoYXJ0IikpLmxvd2VyKCkKICAgIGlmIGtpbmQgaW4gT1VUX09GX1NDT1BFOgogICAgICAgIHJhaXNlIFVuc3VwcG9ydGVkSW1hZ2VSZXF1ZXN0KAogICAgICAgICAgICBmIua4suafk+WxguWBmuS4jeWHuiB7a2luZCFyfeOAgui/meaYr+a4suafk+S4jeaYr+aJqeaVo+aooeWeiyDigJTigJQgIgogICAgICAgICAgICBmIuiDveWBmueahO+8mntzb3J0ZWQoU1VQUE9SVEVEKX0iKQogICAgaWYga2luZCBub3QgaW4gU1VQUE9SVEVEOgogICAgICAgIHJhaXNlIFVuc3VwcG9ydGVkSW1hZ2VSZXF1ZXN0KAogICAgICAgICAgICBmIuacquefpeWbvueJh+exu+WeiyB7a2luZCFyfe+8jOaUr+aMge+8mntzb3J0ZWQoU1VQUE9SVEVEKX0iKQoKICAgIG9zLm1ha2VkaXJzKG91dF9kaXIsIGV4aXN0X29rPVRydWUpCiAgICBuYW1lID0gc3BlYy5nZXQoIm5hbWUiKSBvciBmImltZ197YWJzKGhhc2goc3RyKHNvcnRlZChzcGVjLml0ZW1zKCkpKSkpICUgMTAqKjh9IgogICAgcGF0aCA9IG9zLnBhdGguam9pbihvdXRfZGlyLCBmIntuYW1lfS5wbmciKQoKICAgIGlmIGtpbmQgPT0gImNoYXJ0IjoKICAgICAgICBfcmVuZGVyX2NoYXJ0KHNwZWMsIHBhdGgpCiAgICBlbGlmIGtpbmQgPT0gImRpYWdyYW0iOgogICAgICAgIF9yZW5kZXJfZGlhZ3JhbShzcGVjLCBwYXRoKQogICAgZWxpZiBraW5kID09ICJpbmZvZ3JhcGhpYyI6CiAgICAgICAgX3JlbmRlcl9pbmZvZ3JhcGhpYyhzcGVjLCBwYXRoKQogICAgZWxzZTogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgbGF5b3V0CiAgICAgICAgX3JlbmRlcl9sYXlvdXQoc3BlYywgcGF0aCkKCiAgICByZXR1cm4gQXJ0aWZhY3Qoa2luZD1LaW5kLklNQUdFLCBwYXRoPXBhdGgsIG1ldGE9ZGljdChzcGVjKSkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgX3N0eWxlKHNwZWM6IGRpY3QpOgogICAgaW1wb3J0IG1hdHBsb3RsaWIKICAgIG1hdHBsb3RsaWIudXNlKCJBZ2ciKQogICAgaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAogICAgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXSA9IFsiV2VuUXVhbllpIE1pY3JvIEhlaSIsICJEZWphVnUgU2FucyJdCiAgICBwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdID0gRmFsc2UKICAgIHJldHVybiBwbHQKCgpkZWYgX3JlbmRlcl9jaGFydChzcGVjOiBkaWN0LCBwYXRoOiBzdHIpIC0+IE5vbmU6CiAgICBwbHQgPSBfc3R5bGUoc3BlYykKICAgIHNlcmllcyA9IHNwZWMuZ2V0KCJzZXJpZXMiKSBvciBbXQogICAgZmlnLCBheCA9IHBsdC5zdWJwbG90cyhmaWdzaXplPXNwZWMuZ2V0KCJmaWdzaXplIiwgKDgsIDQuNSkpLCBkcGk9c3BlYy5nZXQoImRwaSIsIDE1MCkpCiAgICBmb3IgcyBpbiBzZXJpZXM6CiAgICAgICAgYXgucGxvdChzLmdldCgieCIpIG9yIGxpc3QocmFuZ2UobGVuKHNbInkiXSkpKSwgc1sieSJdLAogICAgICAgICAgICAgICAgbWFya2VyPXMuZ2V0KCJtYXJrZXIiLCAibyIpLCBsYWJlbD1zLmdldCgibGFiZWwiLCAiIiksCiAgICAgICAgICAgICAgICBsaW5ld2lkdGg9cy5nZXQoImx3IiwgMiksCiAgICAgICAgICAgICAgICBjb2xvcj1zLmdldCgiY29sb3IiKSwgbGluZXN0eWxlPXMuZ2V0KCJscyIsICItIikpCiAgICBheC5zZXRfdGl0bGUoc3BlYy5nZXQoInRpdGxlIiwgIiIpLCBmb250c2l6ZT1zcGVjLmdldCgidGl0bGVfc2l6ZSIsIDE0KSkKICAgIGF4LnNldF94bGFiZWwoc3BlYy5nZXQoInhsYWJlbCIsICIiKSkKICAgIGF4LnNldF95bGFiZWwoc3BlYy5nZXQoInlsYWJlbCIsICIiKSkKICAgIGlmIGFueShzLmdldCgibGFiZWwiKSBmb3IgcyBpbiBzZXJpZXMpOgogICAgICAgIGF4LmxlZ2VuZCgpCiAgICBheC5ncmlkKGFscGhhPTAuMykKICAgIGZpZy50aWdodF9sYXlvdXQoKQogICAgZmlnLnNhdmVmaWcocGF0aCkKICAgIHBsdC5jbG9zZShmaWcpCgoKZGVmIF9yZW5kZXJfZGlhZ3JhbShzcGVjOiBkaWN0LCBwYXRoOiBzdHIpIC0+IE5vbmU6CiAgICAiIiLoioLngrkt6L6556S65oSP5Zu+44CC55So5LqO55S75YWz57O744CB5rWB56iL44CB57uT5p6E44CCIiIiCiAgICBwbHQgPSBfc3R5bGUoc3BlYykKICAgIG5vZGVzID0gc3BlYy5nZXQoIm5vZGVzIikgb3IgW10KICAgIGVkZ2VzID0gc3BlYy5nZXQoImVkZ2VzIikgb3IgW10KICAgIHBvcyA9IHtuWyJpZCJdOiB0dXBsZShuLmdldCgicG9zIiwgKGksIDApKSkgZm9yIGksIG4gaW4gZW51bWVyYXRlKG5vZGVzKX0KICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoZmlnc2l6ZT1zcGVjLmdldCgiZmlnc2l6ZSIsICg4LCA0LjUpKSwgZHBpPTE1MCkKICAgIGZvciBlIGluIGVkZ2VzOgogICAgICAgIGEsIGIgPSBwb3MuZ2V0KGVbMF0pLCBwb3MuZ2V0KGVbMV0pCiAgICAgICAgaWYgYSBpcyBOb25lIG9yIGIgaXMgTm9uZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBheC5hbm5vdGF0ZSgiIiwgeHk9YiwgeHl0ZXh0PWEsCiAgICAgICAgICAgICAgICAgICAgYXJyb3dwcm9wcz1kaWN0KGFycm93c3R5bGU9Ii0+IiwgbHc9MS42LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcj0iIzU1NSIsIHNocmlua0E9MTgsIHNocmlua0I9MTgpKQogICAgICAgIGlmIGxlbihlKSA+IDIgYW5kIGVbMl06CiAgICAgICAgICAgIGF4LnRleHQoKGFbMF0gKyBiWzBdKSAvIDIsIChhWzFdICsgYlsxXSkgLyAyLCBzdHIoZVsyXSksCiAgICAgICAgICAgICAgICAgICAgZm9udHNpemU9OSwgY29sb3I9IiMzMzMiLCBoYT0iY2VudGVyIiwKICAgICAgICAgICAgICAgICAgICBiYm94PWRpY3QoYm94c3R5bGU9InJvdW5kLHBhZD0wLjIiLCBmYz0id2hpdGUiLCBlYz0ibm9uZSIsIGFscGhhPTAuOSkpCiAgICBmb3IgbiBpbiBub2RlczoKICAgICAgICB4LCB5ID0gcG9zW25bImlkIl1dCiAgICAgICAgYXguc2NhdHRlcihbeF0sIFt5XSwgcz0xNDAwLCBjPW4uZ2V0KCJjb2xvciIsICIjNEM3OEE4IiksIHpvcmRlcj0zKQogICAgICAgIGF4LnRleHQoeCwgeSwgbi5nZXQoImxhYmVsIiwgblsiaWQiXSksIGhhPSJjZW50ZXIiLCB2YT0iY2VudGVyIiwKICAgICAgICAgICAgICAgIGZvbnRzaXplPW4uZ2V0KCJzaXplIiwgMTApLCBjb2xvcj0id2hpdGUiLCB6b3JkZXI9NCkKICAgIGF4LnNldF90aXRsZShzcGVjLmdldCgidGl0bGUiLCAiIiksIGZvbnRzaXplPTEzKQogICAgYXguc2V0X2F4aXNfb2ZmKCkKICAgIGF4LmF1dG9zY2FsZV92aWV3KCkKICAgIGZpZy50aWdodF9sYXlvdXQoKQogICAgZmlnLnNhdmVmaWcocGF0aCkKICAgIHBsdC5jbG9zZShmaWcpCgoKZGVmIF9yZW5kZXJfaW5mb2dyYXBoaWMoc3BlYzogZGljdCwgcGF0aDogc3RyKSAtPiBOb25lOgogICAgIiIi5pWw5a2X5p2hICsg6KaB54K55L+h5oGv5Zu+44CCIiIiCiAgICBwbHQgPSBfc3R5bGUoc3BlYykKICAgIHN0YXRzID0gc3BlYy5nZXQoInN0YXRzIikgb3IgW10KICAgIGJ1bGxldHMgPSBzcGVjLmdldCgiYnVsbGV0cyIpIG9yIFtdCiAgICBmaWcgPSBwbHQuZmlndXJlKGZpZ3NpemU9c3BlYy5nZXQoImZpZ3NpemUiLCAoOSwgNSkpLCBkcGk9MTUwKQogICAgZmlnLnN1cHRpdGxlKHNwZWMuZ2V0KCJ0aXRsZSIsICIiKSwgZm9udHNpemU9MTUsIHk9MC45NikKCiAgICBuID0gbWF4KDEsIGxlbihzdGF0cykpCiAgICBmb3IgaSwgcyBpbiBlbnVtZXJhdGUoc3RhdHMpOgogICAgICAgIGF4ID0gZmlnLmFkZF9zdWJwbG90KDEsIG4sIGkgKyAxKQogICAgICAgIGF4LnRleHQoMC41LCAwLjYyLCBzdHIocy5nZXQoInZhbHVlIiwgIiIpKSwgaGE9ImNlbnRlciIsIHZhPSJjZW50ZXIiLAogICAgICAgICAgICAgICAgZm9udHNpemU9MzQsIGZvbnR3ZWlnaHQ9ImJvbGQiLCBjb2xvcj1zLmdldCgiY29sb3IiLCAiIzIyMiIpLAogICAgICAgICAgICAgICAgdHJhbnNmb3JtPWF4LnRyYW5zQXhlcykKICAgICAgICBheC50ZXh0KDAuNSwgMC4yNiwgc3RyKHMuZ2V0KCJsYWJlbCIsICIiKSksIGhhPSJjZW50ZXIiLCB2YT0iY2VudGVyIiwKICAgICAgICAgICAgICAgIGZvbnRzaXplPTExLCBjb2xvcj0iIzU1NSIsIHRyYW5zZm9ybT1heC50cmFuc0F4ZXMpCiAgICAgICAgYXguc2V0X2F4aXNfb2ZmKCkKCiAgICBpZiBidWxsZXRzOgogICAgICAgIGF4ID0gZmlnLmFkZF9heGVzKFswLjA4LCAwLjA2LCAwLjg0LCAwLjE2XSkKICAgICAgICBheC50ZXh0KDAsIDEsICJcbiIuam9pbigi4oCiICIgKyBiIGZvciBiIGluIGJ1bGxldHMpLAogICAgICAgICAgICAgICAgdmE9InRvcCIsIGZvbnRzaXplPTEwLCBjb2xvcj0iIzMzMyIpCiAgICAgICAgYXguc2V0X2F4aXNfb2ZmKCkKICAgIGZpZy5zYXZlZmlnKHBhdGgpCiAgICBwbHQuY2xvc2UoZmlnKQoKCmRlZiBfcmVuZGVyX2xheW91dChzcGVjOiBkaWN0LCBwYXRoOiBzdHIpIC0+IE5vbmU6CiAgICAiIiLnuq/mjpLniYjlm77vvJrmoIfpopggKyDmraPmloflnZfjgILnlKjkuo7lsIHpnaLjgIHljaHniYfjgIIiIiIKICAgIHBsdCA9IF9zdHlsZShzcGVjKQogICAgZmlnID0gcGx0LmZpZ3VyZShmaWdzaXplPXNwZWMuZ2V0KCJmaWdzaXplIiwgKDgsIDQuNSkpLCBkcGk9MTUwKQogICAgZmlnLnBhdGNoLnNldF9mYWNlY29sb3Ioc3BlYy5nZXQoImJnIiwgIndoaXRlIikpCiAgICBmaWcudGV4dCgwLjUsIDAuNzIsIHNwZWMuZ2V0KCJ0aXRsZSIsICIiKSwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTIyLAogICAgICAgICAgICAgZm9udHdlaWdodD0iYm9sZCIsIGNvbG9yPXNwZWMuZ2V0KCJmZyIsICIjMTExIikpCiAgICBmaWcudGV4dCgwLjUsIDAuNDgsIHNwZWMuZ2V0KCJzdWJ0aXRsZSIsICIiKSwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTEyLAogICAgICAgICAgICAgY29sb3I9IiM2NjYiKQogICAgYm9keSA9IHNwZWMuZ2V0KCJib2R5Iikgb3IgW10KICAgIGZvciBpLCBsaW5lIGluIGVudW1lcmF0ZShib2R5KToKICAgICAgICBmaWcudGV4dCgwLjUsIDAuMzQgLSBpICogMC4wNywgbGluZSwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTExLCBjb2xvcj0iIzQ0NCIpCiAgICBmaWcuc2F2ZWZpZyhwYXRoKQogICAgcGx0LmNsb3NlKGZpZykK
+"""图片生成层。
+
+诚实定位
+--------
+这是**渲染**，不是扩散模型。它能稳定产出的是：数据图、示意图、排版图、
+信息图。它不能产出"一张照片"或"一个虚构场景的插画"。
+
+这条边界必须写死在代码里而不是文档里——因为文档可以吹，代码不能。
+`spec` 里如果出现了渲染层兑现不了的请求类型，这里直接拒绝并说明，
+而不是返回一张"看起来像那么回事"的图。
+"""
+from __future__ import annotations
+
+import os
+
+from .artifact import Artifact, Kind
+
+DEFAULT_OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "out")
+
+
+class UnsupportedImageRequest(ValueError):
+    """渲染层兑现不了的请求。宁可拒绝，不许糊弄。"""
+
+
+#: 渲染层真正能兑现的类型。超出这个集合的请求拒绝，不静默降级。
+SUPPORTED = {"chart", "diagram", "infographic", "layout"}
+
+#: 这些是渲染层做不到的，遇到要明确说出来由别的引擎接，
+#: 而不是出一张"差不多"的图交差。
+OUT_OF_SCOPE = {
+    "photo", "photorealistic", "illustration", "portrait",
+    "anime", "painting", "3d_render", "product_shot",
+}
+
+
+def render(spec: dict, out_dir: str = DEFAULT_OUT) -> Artifact:
+    """按 spec 渲染一张 PNG。
+
+    spec 最小字段：`kind`（在 SUPPORTED 内）、`title`、以及该 kind 的数据字段。
+    返回 Artifact；合不合格由 verify.image() 判定，本函数不做判定。
+    """
+    kind = str(spec.get("kind", "chart")).lower()
+    if kind in OUT_OF_SCOPE:
+        raise UnsupportedImageRequest(
+            f"渲染层做不出 {kind!r}。这是渲染不是扩散模型 —— "
+            f"能做的：{sorted(SUPPORTED)}")
+    if kind not in SUPPORTED:
+        raise UnsupportedImageRequest(
+            f"未知图片类型 {kind!r}，支持：{sorted(SUPPORTED)}")
+
+    os.makedirs(out_dir, exist_ok=True)
+    name = spec.get("name") or f"img_{abs(hash(str(sorted(spec.items())))) % 10**8}"
+    path = os.path.join(out_dir, f"{name}.png")
+
+    if kind == "chart":
+        _render_chart(spec, path)
+    elif kind == "diagram":
+        _render_diagram(spec, path)
+    elif kind == "infographic":
+        _render_infographic(spec, path)
+    else:                                   # layout
+        _render_layout(spec, path)
+
+    return Artifact(kind=Kind.IMAGE, path=path, meta=dict(spec))
+
+
+# ---------------------------------------------------------------------------
+def _style(spec: dict):
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+    plt.rcParams["font.sans-serif"] = ["WenQuanYi Micro Hei", "DejaVu Sans"]
+    plt.rcParams["axes.unicode_minus"] = False
+    return plt
+
+
+def _render_chart(spec: dict, path: str) -> None:
+    plt = _style(spec)
+    series = spec.get("series") or []
+    fig, ax = plt.subplots(figsize=spec.get("figsize", (8, 4.5)), dpi=spec.get("dpi", 150))
+    for s in series:
+        ax.plot(s.get("x") or list(range(len(s["y"]))), s["y"],
+                marker=s.get("marker", "o"), label=s.get("label", ""),
+                linewidth=s.get("lw", 2),
+                color=s.get("color"), linestyle=s.get("ls", "-"))
+    ax.set_title(spec.get("title", ""), fontsize=spec.get("title_size", 14))
+    ax.set_xlabel(spec.get("xlabel", ""))
+    ax.set_ylabel(spec.get("ylabel", ""))
+    if any(s.get("label") for s in series):
+        ax.legend()
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+    fig.savefig(path)
+    plt.close(fig)
+
+
+def _render_diagram(spec: dict, path: str) -> None:
+    """节点-边示意图。用于画关系、流程、结构。"""
+    plt = _style(spec)
+    nodes = spec.get("nodes") or []
+    edges = spec.get("edges") or []
+    pos = {n["id"]: tuple(n.get("pos", (i, 0))) for i, n in enumerate(nodes)}
+    fig, ax = plt.subplots(figsize=spec.get("figsize", (8, 4.5)), dpi=150)
+    for e in edges:
+        a, b = pos.get(e[0]), pos.get(e[1])
+        if a is None or b is None:
+            continue
+        ax.annotate("", xy=b, xytext=a,
+                    arrowprops=dict(arrowstyle="->", lw=1.6,
+                                    color="#555", shrinkA=18, shrinkB=18))
+        if len(e) > 2 and e[2]:
+            ax.text((a[0] + b[0]) / 2, (a[1] + b[1]) / 2, str(e[2]),
+                    fontsize=9, color="#333", ha="center",
+                    bbox=dict(boxstyle="round,pad=0.2", fc="white", ec="none", alpha=0.9))
+    for n in nodes:
+        x, y = pos[n["id"]]
+        ax.scatter([x], [y], s=1400, c=n.get("color", "#4C78A8"), zorder=3)
+        ax.text(x, y, n.get("label", n["id"]), ha="center", va="center",
+                fontsize=n.get("size", 10), color="white", zorder=4)
+    ax.set_title(spec.get("title", ""), fontsize=13)
+    ax.set_axis_off()
+    ax.autoscale_view()
+    fig.tight_layout()
+    fig.savefig(path)
+    plt.close(fig)
+
+
+def _render_infographic(spec: dict, path: str) -> None:
+    """数字条 + 要点信息图。"""
+    plt = _style(spec)
+    stats = spec.get("stats") or []
+    bullets = spec.get("bullets") or []
+    fig = plt.figure(figsize=spec.get("figsize", (9, 5)), dpi=150)
+    fig.suptitle(spec.get("title", ""), fontsize=15, y=0.96)
+
+    n = max(1, len(stats))
+    for i, s in enumerate(stats):
+        ax = fig.add_subplot(1, n, i + 1)
+        ax.text(0.5, 0.62, str(s.get("value", "")), ha="center", va="center",
+                fontsize=34, fontweight="bold", color=s.get("color", "#222"),
+                transform=ax.transAxes)
+        ax.text(0.5, 0.26, str(s.get("label", "")), ha="center", va="center",
+                fontsize=11, color="#555", transform=ax.transAxes)
+        ax.set_axis_off()
+
+    if bullets:
+        ax = fig.add_axes([0.08, 0.06, 0.84, 0.16])
+        ax.text(0, 1, "\n".join("• " + b for b in bullets),
+                va="top", fontsize=10, color="#333")
+        ax.set_axis_off()
+    fig.savefig(path)
+    plt.close(fig)
+
+
+def _render_layout(spec: dict, path: str) -> None:
+    """纯排版图：标题 + 正文块。用于封面、卡片。"""
+    plt = _style(spec)
+    fig = plt.figure(figsize=spec.get("figsize", (8, 4.5)), dpi=150)
+    fig.patch.set_facecolor(spec.get("bg", "white"))
+    fig.text(0.5, 0.72, spec.get("title", ""), ha="center", fontsize=22,
+             fontweight="bold", color=spec.get("fg", "#111"))
+    fig.text(0.5, 0.48, spec.get("subtitle", ""), ha="center", fontsize=12,
+             color="#666")
+    body = spec.get("body") or []
+    for i, line in enumerate(body):
+        fig.text(0.5, 0.34 - i * 0.07, line, ha="center", fontsize=11, color="#444")
+    fig.savefig(path)
+    plt.close(fig)

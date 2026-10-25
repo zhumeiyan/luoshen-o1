@@ -1,1 +1,156 @@
-ewogIuagh+WHhiI6IFsKICBbCiAgICJJU08gOTI0MS0zMDIiLAogICAi55S15a2Q6KeG6KeJ5pi+56S65ZmoIOacr+ivrSIsCiAgICLlhajpg6jmmL7npLoiLAogICAi5pyv6K+t77yI5YWJ5bqmL+iJsuW6pi/lh6DkvZUv6KeG6KeJ77yJIiwKICAgIuWumuS5iSIsCiAgICJJU08vVEMgMTU5L1NDIDQiLAogICAiMjAwOCIsCiAgICLmnoHpq5giCiAgXSwKICBbCiAgICJJU08gOTI0MS0zMDMiLAogICAi55S15a2Q6KeG6KeJ5pi+56S65ZmoIOimgeaxgiIsCiAgICLlhajpg6jmmL7npLoiLAogICAi5Zu+5YOP6LSo6YeP77ya5Lqu5bqmL+WvueavlOW6pi/lj43lsIQv6Imy5bqmL+WHoOS9lSIsCiAgICLmgKfog73op4TojIMo5oqA5pyv5peg5YWzKSIsCiAgICJJU08vVEMgMTU5L1NDIDQiLAogICAiMjAxMSgyMDIy56Gu6K6kKSIsCiAgICLmnoHpq5giCiAgXSwKICBbCiAgICJJU08gOTI0MS0zMDQiLAogICAi55So5oi35oCn6IO95rWL6K+V5pa55rOVIiwKICAgIuWFqOmDqOaYvuekuiIsCiAgICLlpoLkvZXnlKjkurrlgZrmtYvor5UiLAogICAi5pa55rOVIiwKICAgIklTTy9UQyAxNTkvU0MgNCIsCiAgICIyMDA4KDIwMjTnoa7orqQpIiwKICAgIuaegemrmCIKICBdLAogIFsKICAgIklTTyA5MjQxLTMwNSIsCiAgICLlhYnlrablrp7pqozlrqTmtYvor5Xmlrnms5UiLAogICAi5YWo6YOo5pi+56S6IiwKICAgIuaAjuS5iOa1i++8iDE4M+mhte+8iSIsCiAgICLmlrnms5UiLAogICAiSVNPL1RDIDE1OS9TQyA0IiwKICAgIjIwMDgoMjAyNOehruiupCkiLAogICAi5p6B6auYIgogIF0sCiAgWwogICAiSVNPIDkyNDEtMzA3IiwKICAgIuWIhuaekOS4juespuWQiOaAp+a1i+ivleaWueazlSIsCiAgICLlhajpg6jmmL7npLoiLAogICAi5Yik5a6a56ym5ZCI5LiO5ZCmIiwKICAgIuaWueazlSIsCiAgICJJU08vVEMgMTU5L1NDIDQiLAogICAiMjAwOCIsCiAgICLmnoHpq5giCiAgXSwKICBbCiAgICJJU08gOTI0MS0xNzEiLAogICAi6L2v5Lu25peg6Zqc56KNIiwKICAgIui9r+S7tiIsCiAgICLmnIDlub/ms5vouqvkvZMv5oSf5a6YL+iupOefpeiDveWKm+iAhSIsCiAgICLopoHmsYIr5oyH5Y2XIiwKICAgIklTTy9UQyAxNTkvU0MgNCIsCiAgICIyMDI1KOesrDLniYgpIiwKICAgIuaegemrmCIKICBdLAogIFsKICAgIklTTyAxNTAwOCIsCiAgICLovabovb3op4bop4nlkYjnjrAg6KeE6IyD5LiO5rWL6K+VIiwKICAgIui9puWGheWKqOaAgeS/oeaBryIsCiAgICLlrZfnrKbpq5jluqYgMjAnKOaOqOiNkCkvMTInKOacgOS9jikiLAogICAi44CQ6KeS5bqm44CRIiwKICAgIklTTy9UQyAyMi9TQyAzOSIsCiAgICIyMDE3KDIwMjXnoa7orqQpIiwKICAgIuaegemrmCIKICBdLAogIFsKICAgIklTTyAxNTAwOCIsCiAgICLovabovb3op4bop4nlkYjnjrAg6KeE6IyD5LiO5rWL6K+VIiwKICAgIui9puWGheWKqOaAgeS/oeaBryIsCiAgICLlr7nmr5TluqYg5pelMzoxIOWknDU6MSDnm7TlsITpmLPlhYkyOjEiLAogICAi5q+U5YC8IiwKICAgIklTTy9UQyAyMi9TQyAzOSIsCiAgICIyMDE3IiwKICAgIuaegemrmCIKICBdLAogIFsKICAgIklTTy9DSUUgMTE2NjQtNSIsCiAgICLoibLluqblraYgQ0lFIDE5NzYgTCp1KnYqIC8gdSd2JyIsCiAgICLoh6rlj5HlhYnmmL7npLrnrYkiLAogICAi6Imy5beu6K6h566X5pa55byPIiwKICAgIuaVsOWtpuWumuS5iSIsCiAgICJDSUUiLAogICAiMjAyNCIsCiAgICLmnoHpq5giCiAgXSwKICBbCiAgICJJVFUtUiBCVC4yMDIwIiwKICAgIui2hemrmOa4heeUteinhiDlj4LmlbDlgLwiLAogICAiVUhEIOiKguebruS6pOaNoiIsCiAgICLkuInljp/oibIgeHk6IFIuNzA4Ly4yOTIgRy4xNzAvLjc5NyBCLjEzMS8uMDQ2IiwKICAgIuiJsuW6puWdkOaghyIsCiAgICJJVFUtUiIsCiAgICIyMDE1IiwKICAgIuaegemrmCIKICBdLAogIFsKICAgIklUVS1SIEJULjIxMDAiLAogICAiSERSIOeUteinhiDlm77lg4/lj4LmlbAiLAogICAiSERSIOiKguebruS6pOaNoiIsCiAgICJQUS9ITEfvvIzls7DlgLziiaUxMDAwIGNkL23Csu+8jOm7keKJpDAuMDA1IiwKICAgIuS8oOmAkuWHveaVsCvkuq7luqYiLAogICAiSVRVLVIiLAogICAiMjAxNiIsCiAgICLmnoHpq5giCiAgXQogXSwKICLljoLllYYiOiBbCiAgWwogICAiQXBwbGUgSElHIiwKICAgIjQ0IHB0IiwKICAgIuiuvuWkh+WNleS9jSgxcHQ9MS8xNjMgaW5jaCkiLAogICAi5p6B6auYIgogIF0sCiAgWwogICAiTWF0ZXJpYWwgMyIsCiAgICI0OCBkcCIsCiAgICLorr7lpIfljZXkvY0oMWRwPTEvMTYwIGluY2gpIiwKICAgIuaegemrmCIKICBdLAogIFsKICAgIldDQUcgMi4yIiwKICAgIjI0LzQ0IENTUyBweCIsCiAgICLorr7lpIfljZXkvY0oMXB4PTEvOTYgaW5jaCkiLAogICAi5p6B6auYIgogIF0sCiAgWwogICAiTWljcm9zb2Z0IiwKICAgIjd+OSBtbSIsCiAgICLniannkIbljZXkvY0iLAogICAi5p6B6auYIgogIF0KIF0sCiAiaXNvMTUwMDhfcHgiOiB7CiAgIuWNjuS4uiBQNTAgUHJv77yI5L2g77yJIjogMTkuMCwKICAiaVBob25lIDE2IFBybyBNYXgiOiAxOS4yLAogICJHYWxheHkgUzI1IFVsdHJhIjogMjEuMCwKICAiTWFjQm9vayBQcm8gMTYiOiAxNS44LAogICJNYWNCb29rIEFpciAxNSI6IDE2LjAsCiAgIlN0dWRpbyBEaXNwbGF5IDI3IjogMTkuNCwKICAiRGVsbCBVMjcyM1FFIDI3IjogMTQuNiwKICAiTEcgQzMgT0xFRCA2NSI6IDI0LjAsCiAgIuWwj+exs+eUteinhiBTODUiOiAyMi4wLAogICJpUGFkIFBybyAxMyI6IDEzLjQsCiAgIkFwcGxlIFZpc2lvbiBQcm8iOiAxNS4yLAogICJQaWNvIDQgVWx0cmEiOiA1LjgsCiAgIkFwcGxlIFdhdGNoIFMxMCI6IDExLjQsCiAgIktpbmRsZSBQYXBlcndoaXRlIDUiOiAxMi42CiB9Cn0=
+{
+ "标准": [
+  [
+   "ISO 9241-302",
+   "电子视觉显示器 术语",
+   "全部显示",
+   "术语（光度/色度/几何/视觉）",
+   "定义",
+   "ISO/TC 159/SC 4",
+   "2008",
+   "极高"
+  ],
+  [
+   "ISO 9241-303",
+   "电子视觉显示器 要求",
+   "全部显示",
+   "图像质量：亮度/对比度/反射/色度/几何",
+   "性能规范(技术无关)",
+   "ISO/TC 159/SC 4",
+   "2011(2022确认)",
+   "极高"
+  ],
+  [
+   "ISO 9241-304",
+   "用户性能测试方法",
+   "全部显示",
+   "如何用人做测试",
+   "方法",
+   "ISO/TC 159/SC 4",
+   "2008(2024确认)",
+   "极高"
+  ],
+  [
+   "ISO 9241-305",
+   "光学实验室测试方法",
+   "全部显示",
+   "怎么测（183页）",
+   "方法",
+   "ISO/TC 159/SC 4",
+   "2008(2024确认)",
+   "极高"
+  ],
+  [
+   "ISO 9241-307",
+   "分析与符合性测试方法",
+   "全部显示",
+   "判定符合与否",
+   "方法",
+   "ISO/TC 159/SC 4",
+   "2008",
+   "极高"
+  ],
+  [
+   "ISO 9241-171",
+   "软件无障碍",
+   "软件",
+   "最广泛身体/感官/认知能力者",
+   "要求+指南",
+   "ISO/TC 159/SC 4",
+   "2025(第2版)",
+   "极高"
+  ],
+  [
+   "ISO 15008",
+   "车载视觉呈现 规范与测试",
+   "车内动态信息",
+   "字符高度 20'(推荐)/12'(最低)",
+   "【角度】",
+   "ISO/TC 22/SC 39",
+   "2017(2025确认)",
+   "极高"
+  ],
+  [
+   "ISO 15008",
+   "车载视觉呈现 规范与测试",
+   "车内动态信息",
+   "对比度 日3:1 夜5:1 直射阳光2:1",
+   "比值",
+   "ISO/TC 22/SC 39",
+   "2017",
+   "极高"
+  ],
+  [
+   "ISO/CIE 11664-5",
+   "色度学 CIE 1976 L*u*v* / u'v'",
+   "自发光显示等",
+   "色差计算方式",
+   "数学定义",
+   "CIE",
+   "2024",
+   "极高"
+  ],
+  [
+   "ITU-R BT.2020",
+   "超高清电视 参数值",
+   "UHD 节目交换",
+   "三原色 xy: R.708/.292 G.170/.797 B.131/.046",
+   "色度坐标",
+   "ITU-R",
+   "2015",
+   "极高"
+  ],
+  [
+   "ITU-R BT.2100",
+   "HDR 电视 图像参数",
+   "HDR 节目交换",
+   "PQ/HLG，峰值≥1000 cd/m²，黑≤0.005",
+   "传递函数+亮度",
+   "ITU-R",
+   "2016",
+   "极高"
+  ]
+ ],
+ "厂商": [
+  [
+   "Apple HIG",
+   "44 pt",
+   "设备单位(1pt=1/163 inch)",
+   "极高"
+  ],
+  [
+   "Material 3",
+   "48 dp",
+   "设备单位(1dp=1/160 inch)",
+   "极高"
+  ],
+  [
+   "WCAG 2.2",
+   "24/44 CSS px",
+   "设备单位(1px=1/96 inch)",
+   "极高"
+  ],
+  [
+   "Microsoft",
+   "7~9 mm",
+   "物理单位",
+   "极高"
+  ]
+ ],
+ "iso15008_px": {
+  "华为 P50 Pro（你）": 19.0,
+  "iPhone 16 Pro Max": 19.2,
+  "Galaxy S25 Ultra": 21.0,
+  "MacBook Pro 16": 15.8,
+  "MacBook Air 15": 16.0,
+  "Studio Display 27": 19.4,
+  "Dell U2723QE 27": 14.6,
+  "LG C3 OLED 65": 24.0,
+  "小米电视 S85": 22.0,
+  "iPad Pro 13": 13.4,
+  "Apple Vision Pro": 15.2,
+  "Pico 4 Ultra": 5.8,
+  "Apple Watch S10": 11.4,
+  "Kindle Paperwhite 5": 12.6
+ }
+}

@@ -1,1 +1,108 @@
-IyAxNjggwrcg5rGJ5a2X5piv5aSp54S25Y6L57yp5YyF77yaSGVhcHMg5oyH5pWw5Yik5a6aCgojIyDpl67popgK55So5oi35o+Q5Ye677ya5rGJ5a2X5piv5aSp54S25Y6L57yp5YyF77yI5bCB6Zet56ym5Y+36ZuG77yJ77yb6Iux5paHL+S7o+eggemdoOS4jeaWremAoOaWsOivje+8jOivjeaxh+mHj+eIhueCuOWIsArkurrorrDkuI3kvY/jgILpl67ov5nkuKrnm7Top4nog73lkKbph4/ljJbjgIIKCiMjIOivreaWmQotIOS4reaWh++8mmBldmlkZW5jZS/lpLHotKXmqKHlvI/lupMv5Yik5o2u5qC4Lm1kYO+8jOWPquWPluaxieWtl++8iFUrNEUwMOKAk1UrOUZGRu+8ie+8jE49NzkzODYKLSDpgKDor43vvJrmspnnm5LlhoUgMTAyMiDkuKogLnB5IOaWh+S7tu+8jOWPluagh+ivhuespivlhbPplK7lrZcr5pWw5a2XIHRva2Vu77yMTj0xMDEwMzQ1Cgrku6PnoIHmoIfor4bnrKbmmK8i6YCg6K+NIueahOaegeerr+agt+acrO+8muavj+S4quaWsOWPmOmHj+WQjemDveaYr+S4gOS4quaWsOmAoOeahOivjeOAggroi7Hmlofoh6rnhLbor63oqIDku4vkuo7msYnlrZfkuI7ku6PnoIHkuYvpl7TvvIzmnKzlrp7pqozmnKrmtYvvvIjop4HovrnnlYzvvInjgIIKCi0tLQoKIyMg5LiA44CBSGVhcHMg5a6a5b6L77yaViDpmo8gTiDlpoLkvZXlop7plb8KCmBWID0gS8K3Tl5iYAoKfCDor63mlpkgfCBIZWFwcyDmjIfmlbAgYiB8IE4g5aKe6ZW/IHwgViDlop7plb8gfAp8LS0tfC0tLXwtLS18LS0tfAp8ICoq5rGJ5a2XKirvvIjlsIHpl63pm4bvvIkgfCAqKjAuMjg1KiogfCA1MDAw4oaSNzkzODbvvIgxNS45w5fvvIkgfCA2NzHihpIxNDc577yIKioyLjLDlyoq77yJIHwKfCAqKumAoOivjeagh+ivhuespioq77yI5byA5pS+6ZuG77yJIHwgKiowLjc0OSoqIHwgNTAwMOKGkjEwMDAwMDDvvIgyMDDDl++8iSB8IDEwMzTihpI1NDEzNu+8iCoqNTLDlyoq77yJIHwKCuaxieWtl+aVsOaNrumHj+e/uyAxNiDlgI3vvIzor43ooajlj6rmtqggMi4yIOWAjSDihpIgViDmlLbmlZvjgIIK6YCg6K+N5pWw5o2u6YeP57+7IDIwMCDlgI3vvIzor43ooajmtqggNTIg5YCNIOKGkiBWIOWPkeaVo+OAggoKIyMg5LqM44CB5q+P56ym5Y+357uP6aqMIE4vViDnmoTlop7plb/mjIfmlbDvvIg9IDHiiJJi77yJCgpgTi9WID0gTiAvIChLwrdOXmIpID0gTl4oMeKIkmIpL0tgCgp8IOivreaWmSB8IOWunua1i+aMh+aVsCB8IOeQhuiuuiAx4oiSYiB8IOaVsOaNrumHjyB8IOavj+espuWPt+e7j+mqjCB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IOaxieWtlyB8ICoqMC43MTQqKiB8IDAuNzE1IHwgw5cxNS45IHwgNy41IOKGkiA1My4377yIKirDlzcuMioq77yJIHwKfCDpgKDor40gfCAqKjAuMjUzKiogfCAwLjI1MSB8IMOXMjAwIHwgNC44IOKGkiAxOC4177yIKirDlzMuOCoq77yJIHwKCuWunua1i+S4jueQhuiuuuWQu+WQiOWIsOWwj+aVsOeCueWQjuS4pOS9jeOAggoKKirliIbnlYznur8gYiA9IDAuNSoq77yaCi0gYiA8IDAuNe+8iOaxieWtlyAwLjI4Ne+8ie+8mui2iuWtpui2iuecgeWKm++8jOWOi+e8qeacieaViAotIGIgPiAwLjXvvIjpgKDor40gMC43NDnvvInvvJrotorlrabotorotLnlipvvvIzljovnvKnlpLHmlYgKCui/meWwseaYryLpgKDor43pgKDliLDlh6DljYHkuIfvvIzoh6rlt7Hpg73orrDkuI3kvY8i55qE5pWw5a2m6KGo6L6+4oCU4oCUCioq5pWw5o2u57+7IDIwMCDlgI3vvIzmr4/kuKrnrKblj7fnmoTnu4/pqozlj6rnv7sgMy44IOWAjeOAgioqCgojIyDkuInjgIHmuJDov5HmnInmlYjpmLbvvIgxNjEg5Y+35YWs5byPIGsqID0gbG9nIE4gLyBsb2cgViDihpIgMS9i77yJCgp8IOivreaWmSB8IGIgfCBrKiDmuJDov5EgfAp8LS0tfC0tLXwtLS18Cnwg5rGJ5a2XIHwgMC4yODUgfCAqKjMuNTEqKiB8Cnwg6YCg6K+NIHwgMC43NDkgfCAqKjEuMzQqKiB8CgrmsYnlrZfnmoTmuJDov5HorrDlv4bpmLbmlbAgMy41Me+8jOaOpei/keeUqOaIt+aPkOWHuueahOS4ieazoumCo+WlkSBrPTPjgIIKCiMjIOWbm+OAgemYtOaAp+e7k+aenO+8muWunua1i+WzsOWAvOi/nOS9juS6jua4kOi/keWAvO+8iOaIkemihOa1i+mUmeS6hu+8iQoK57uf5LiAIE49NzkzODbvvIzpobrluo/pmo/mnLrljJbliIfliIbvvIjpmLIgMTU2IOWPt+mhuuW6j+a8guenu+WkjeWPke+8ie+8jGhlbGQtb3V0IOmihOa1i++8mgoKfCDor63mlpkgfCBrPTEgfCBrPTIgfCBrPTMgfCBrPTQgfCBrPTUgfCDls7DlgLwgfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8IOaxieWtlyB8ICoqKzAuMjAwNCoqIHwgKzAuMTM0OSB8ICswLjA1NjIgfCArMC4wMDc5IHwg4oiSMC4wMDY5IHwgKiprPTEqKiB8Cnwg6YCg6K+NIHwgKzAuMTUyNSB8ICoqKzAuMjI4NyoqIHwgKzAuMTg3NyB8ICswLjE0NDMgfCArMC4xMDcxIHwgKiprPTIqKiB8Cgropobnm5bnjofvvJoKYGBgCuaxieWtlyAgIGs9MSAwLjk5NiAgaz0yIDAuNjc2ICBrPTMgMC4yNzEgIGs9NCAwLjA5NQrpgKDor40gICBrPTEgMC45NzIgIGs9MiAwLjY2OCAgaz0zIDAuNDEyICBrPTQgMC4yODcKYGBgCgoqKuaIkemihOa1iyLmsYnlrZfog73mlK/mkpHpq5jpmLborrDlv4bvvIhrKuKJiDMuNe+8iSLvvIzlrp7mtYvmsYnlrZflnKggaz0xIOWwsemlseWSjO+8jGs9MiDlj43ogIzkuIvpmY3jgIIqKgoK5Y6f5Zug77yaYFZeayA+PiBOYOOAguaxieWtlyBWPTE0NznvvIxrPTIg5pe2IFbCsj0yLjE5Te+8jOiAjCBOPTc5Mzg277yM5Lil6YeN56iA55aP77ybCms9MyDml7YgVsKz4omIMy4yZTnvvIzopobnm5bnjoflj6rliakgMC4yNzHjgIIKCioqayo9MS9iIOaYryBO4oaS4oieIOeahOa4kOi/keaegemZkO+8jOacrOWunumqjOeahCBOIOi/nOi+vuS4jeWIsOa4kOi/keWMuuOAgioqCuS4jeiDveaLv+a4kOi/keWAvOmihOa1i+WunumZheWPr+i+vumYtuaVsOOAggoK6YCg6K+N77yI5Luj56CB77yJ5ZyoIGs9MiDlj43ogIzmm7Tlpb3vvIzmmK/lm6DkuLrku6PnoIHpq5jluqbmqKHmnb/ljJbph43lpI3vvIzpq5jpmLbku43mnInopobnm5bnjocK77yIaz0zIOimhuebliAwLjQxMiA+IOaxieWtlyAwLjI3Me+8ieOAgui/meaYr+S7o+eggee7k+aehOeahOeJueaAp++8jOS4jeaYr+mAoOivjeeahOS8mOWKv+OAggoKLS0tCgojIyDkupTjgIHnu5PorrrvvJrnlKjmiLfnmoTmtJ7lr5/miJDnq4vvvIzkvYbmnLrliLbopoHkv67mraMKCioq5oiQ56uL55qE6YOo5YiGKirvvJrmsYnlrZfmmK/ljovnvKnljIUg4oCU4oCUIGI9MC4yODUgPCAwLjXvvIxWIOaUtuaVm++8jOWtpuS5oOaIkOacrOmaj+aVsOaNrumHjwrlop7plb/ov5zmhaLkuo7opobnm5bojIPlm7TjgIIi6YCg6K+N6K6w5LiN5L2PIiDigJTigJQgYj0wLjc0OSA+IDAuNe+8jOavj+espuWPt+e7j+mqjOWHoOS5juS4jeWinumVv+OAggoKKiropoHkv67mraPnmoTpg6jliIYqKu+8muWOi+e8qeWMheeahOWlveWkhOaYryoq5a2m5Lmg5oiQ5pys5pS25pWbKirvvIzkuI3mmK8i6IO95pSv5pKR5pu06auY6Zi26K6w5b+GIuOAggrpq5jpmLborrDlv4blj5cgVl5rIHZzIE4g57qm5p2f77yM5rGJ5a2XIFYg6Jm95bCP5L2GIGsg5LiA5aSn5LuN54S254iG54K444CCCgojIyDlha3jgIHmnKzova7plJnor68KCjEuICoq6aKE5rWL6ZSZ6K+vKirvvJrmi7/muJDov5Egayo9MS9iIOmihOa1i+WunumZheWPr+i+vumYtuaVsO+8jOWunua1i+aOqOe/u+OAguW3suWmguWunuiusOWFpeOAggoyLiDpppbmrKHkuIrlsY/ohJrmnKznlKjplJnliIbovqjnjofvvIgxMDgww5cxOTIw77yJ77yMZmIg5a6e5Li6IDEwMjTDlzc2OCBSR0JBCiAgIO+8iDMxNDU3MjggPSAxMDI0w5c3NjjDlzTvvInvvIzmlq3oqIDlpLHotKXlkI7kv67mraPjgIIKCiMjIOS4g+OAgei+ueeVjAoKLSDku6PnoIHmoIfor4bnrKbmmK8i6YCg6K+NIueahOaegeerr+S7o+eQhu+8jCoq6Iux5paH6Ieq54S26K+t6KiA5pyq5rWLKirvvIznnJ/lrp7lgLzlupTku4vkuo4gMC4yODUg5LiOIDAuNzQ5CiAg5LmL6Ze077yM5pys5a6e6aqM5LiN6IO95o6o5Ye66Iux5paH55qE5YW35L2TIGIg5YC844CCCi0g5Lit5paH6K+t5paZ5LuF5Yik5o2u5qC45LiA5Lu977yITj03OTM4Nu+8ie+8jE4g5Y+X6ZmQ77yMayog5riQ6L+R5Yy65pyq6Kem5Y+K44CCCi0g5Y+q5rWL5a2X56ymL3Rva2VuIOe6p++8jOacqua1i+ivreS5ieWvhuW6pu+8iCLooajovr7lkIzkuIDlkKvkuYnmiYDpnIDnrKblj7fmlbAi6ZyA5bmz6KGM6K+t5paZ77yM5pys6L2u5peg77yJ44CCCi0gSGVhcHMg5oyH5pWw55SxIDV+NyDkuKrph4fmoLfngrnmi5/lkIjvvIzngrnmlbDlsJHjgIIKLSDmlbDmja7lhajpg6jnnJ/lrp7vvIjnnJ/mlofku7bor7vlj5bjgIHnnJ8gdG9rZW5pemVy77yJ77yM5peg5bu65qih44CCCgojIyDoh6rmo4AK5YaZIDMsMTQ1LDcyOCDlrZfoioLjgIHnq4vljbPlm57ph4fvvJoqKklERU5USUNBTCBUcnVlKirvvIwKcmF3IHNoYSA9PSBjYXAgc2hhIGA3ODRjYzZlOTJmY2Ng44CCT0NSIOeLrOeri+ivu+WHuuWFqOmDqOaVsOWtl+S4jiBUT0tFTiBgSzdNNFFYYOOAggo=
+# 168 · 汉字是天然压缩包：Heaps 指数判定
+
+## 问题
+用户提出：汉字是天然压缩包（封闭符号集）；英文/代码靠不断造新词，词汇量爆炸到
+人记不住。问这个直觉能否量化。
+
+## 语料
+- 中文：`evidence/失败模式库/判据核.md`，只取汉字（U+4E00–U+9FFF），N=79386
+- 造词：沙盒内 1022 个 .py 文件，取标识符+关键字+数字 token，N=1010345
+
+代码标识符是"造词"的极端样本：每个新变量名都是一个新造的词。
+英文自然语言介于汉字与代码之间，本实验未测（见边界）。
+
+---
+
+## 一、Heaps 定律：V 随 N 如何增长
+
+`V = K·N^b`
+
+| 语料 | Heaps 指数 b | N 增长 | V 增长 |
+|---|---|---|---|
+| **汉字**（封闭集） | **0.285** | 5000→79386（15.9×） | 671→1479（**2.2×**） |
+| **造词标识符**（开放集） | **0.749** | 5000→1000000（200×） | 1034→54136（**52×**） |
+
+汉字数据量翻 16 倍，词表只涨 2.2 倍 → V 收敛。
+造词数据量翻 200 倍，词表涨 52 倍 → V 发散。
+
+## 二、每符号经验 N/V 的增长指数（= 1−b）
+
+`N/V = N / (K·N^b) = N^(1−b)/K`
+
+| 语料 | 实测指数 | 理论 1−b | 数据量 | 每符号经验 |
+|---|---|---|---|---|
+| 汉字 | **0.714** | 0.715 | ×15.9 | 7.5 → 53.7（**×7.2**） |
+| 造词 | **0.253** | 0.251 | ×200 | 4.8 → 18.5（**×3.8**） |
+
+实测与理论吻合到小数点后两位。
+
+**分界线 b = 0.5**：
+- b < 0.5（汉字 0.285）：越学越省力，压缩有效
+- b > 0.5（造词 0.749）：越学越费力，压缩失效
+
+这就是"造词造到几十万，自己都记不住"的数学表达——
+**数据翻 200 倍，每个符号的经验只翻 3.8 倍。**
+
+## 三、渐近有效阶（161 号公式 k* = log N / log V → 1/b）
+
+| 语料 | b | k* 渐近 |
+|---|---|---|
+| 汉字 | 0.285 | **3.51** |
+| 造词 | 0.749 | **1.34** |
+
+汉字的渐近记忆阶数 3.51，接近用户提出的三波那契 k=3。
+
+## 四、阴性结果：实测峰值远低于渐近值（我预测错了）
+
+统一 N=79386，顺序随机化切分（防 156 号顺序漂移复发），held-out 预测：
+
+| 语料 | k=1 | k=2 | k=3 | k=4 | k=5 | 峰值 |
+|---|---|---|---|---|---|---|
+| 汉字 | **+0.2004** | +0.1349 | +0.0562 | +0.0079 | −0.0069 | **k=1** |
+| 造词 | +0.1525 | **+0.2287** | +0.1877 | +0.1443 | +0.1071 | **k=2** |
+
+覆盖率：
+```
+汉字   k=1 0.996  k=2 0.676  k=3 0.271  k=4 0.095
+造词   k=1 0.972  k=2 0.668  k=3 0.412  k=4 0.287
+```
+
+**我预测"汉字能支撑高阶记忆（k*≈3.5）"，实测汉字在 k=1 就饱和，k=2 反而下降。**
+
+原因：`V^k >> N`。汉字 V=1479，k=2 时 V²=2.19M，而 N=79386，严重稀疏；
+k=3 时 V³≈3.2e9，覆盖率只剩 0.271。
+
+**k*=1/b 是 N→∞ 的渐近极限，本实验的 N 远达不到渐近区。**
+不能拿渐近值预测实际可达阶数。
+
+造词（代码）在 k=2 反而更好，是因为代码高度模板化重复，高阶仍有覆盖率
+（k=3 覆盖 0.412 > 汉字 0.271）。这是代码结构的特性，不是造词的优势。
+
+---
+
+## 五、结论：用户的洞察成立，但机制要修正
+
+**成立的部分**：汉字是压缩包 —— b=0.285 < 0.5，V 收敛，学习成本随数据量
+增长远慢于覆盖范围。"造词记不住" —— b=0.749 > 0.5，每符号经验几乎不增长。
+
+**要修正的部分**：压缩包的好处是**学习成本收敛**，不是"能支撑更高阶记忆"。
+高阶记忆受 V^k vs N 约束，汉字 V 虽小但 k 一大仍然爆炸。
+
+## 六、本轮错误
+
+1. **预测错误**：拿渐近 k*=1/b 预测实际可达阶数，实测推翻。已如实记入。
+2. 首次上屏脚本用错分辨率（1080×1920），fb 实为 1024×768 RGBA
+   （3145728 = 1024×768×4），断言失败后修正。
+
+## 七、边界
+
+- 代码标识符是"造词"的极端代理，**英文自然语言未测**，真实值应介于 0.285 与 0.749
+  之间，本实验不能推出英文的具体 b 值。
+- 中文语料仅判据核一份（N=79386），N 受限，k* 渐近区未触及。
+- 只测字符/token 级，未测语义密度（"表达同一含义所需符号数"需平行语料，本轮无）。
+- Heaps 指数由 5~7 个采样点拟合，点数少。
+- 数据全部真实（真文件读取、真 tokenizer），无建模。
+
+## 自检
+写 3,145,728 字节、立即回采：**IDENTICAL True**，
+raw sha == cap sha `784cc6e92fcc`。OCR 独立读出全部数字与 TOKEN `K7M4QX`。

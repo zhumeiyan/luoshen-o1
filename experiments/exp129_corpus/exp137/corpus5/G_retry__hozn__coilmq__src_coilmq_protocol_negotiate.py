@@ -1,1 +1,84 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcsIEZpbmFsCgpmcm9tIGNvaWxtcS5leGNlcHRpb24gaW1wb3J0IFByb3RvY29sRXJyb3IKZnJvbSBjb2lsbXEucHJvdG9jb2wuYWRhcHRvciBpbXBvcnQgU1RPTVAxMCwgU1RPTVAxMSwgU1RPTVAxMgpmcm9tIGNvaWxtcS5wcm90b2NvbC52ZXJzaW9uIGltcG9ydCBWZXJzaW9uCmZyb20gY29pbG1xLnV0aWwuZnJhbWVzIGltcG9ydCBDT05ORUNULCBTVE9NUF9DTUQKCmlmIFRZUEVfQ0hFQ0tJTkc6CiAgICBmcm9tIGNvaWxtcS5wcm90b2NvbC5hZGFwdG9yIGltcG9ydCBTVE9NUAogICAgZnJvbSBjb2lsbXEudXRpbC5mcmFtZXMgaW1wb3J0IEZyYW1lCgpTVVBQT1JURURfVkVSU0lPTlM6IEZpbmFsW2RpY3RbVmVyc2lvbiwgdHlwZVtTVE9NUF1dXSA9IHsKICAgIFZlcnNpb24uZnJvbV9zdHIoIjEuMCIpOiBTVE9NUDEwLAogICAgVmVyc2lvbi5mcm9tX3N0cigiMS4xIik6IFNUT01QMTEsCiAgICBWZXJzaW9uLmZyb21fc3RyKCIxLjIiKTogU1RPTVAxMiwKfQoKCmRlZiBwcm90b2NvbF9jbGFzc19mcm9tX2ZpcnN0X2ZyYW1lKGZyYW1lOiBGcmFtZSkgLT4gdHlwZVtTVE9NUF06CiAgICAiIiJSZXR1cm4gdGhlIGxhdGVzdCBjb21wYXRpYmxlIHByb3RvY29sIGZvciBhIGdpdmVuIGBgQ09OTkVDVGBgIGZyYW1lLgoKICAgIFNUT01QIHJlcXVpcmVzIGEgY2xpZW50IHRvIHNlbmQgYSBgYENPTk5FQ1RgYCBmcmFtZSBhZnRlciB0aGUgc29ja2V0CiAgICBjb25uZWN0aW9uIGlzIGVzdGFibGlzaGVkLiAgKFRoaXMgZnVuY3Rpb24gYWxzbyByZWNvZ25pemVzIHRoZSBgYFNUT01QYGAKICAgIGNvbW1hbmQsIGludHJvZHVjZWQgaW4gU1RPTVAgMS4xLCBhcyBhbiBhbGlhcyBmb3IgdGhlIGBgQ09OTkVDVGBgIGNvbW1hbmQuKQogICAgVGhpcyBmdW5jdGlvbiBpbnNwZWN0cyB0aGUgY29udGVudHMgb2YgdGhlIGZpcnN0IGZyYW1lIGFuZCByZXR1cm5zIGFuCiAgICBpbnN0YW5jZSBvZiBhIDpjbGFzczpgU1RPTVBgIGNvbmNyZXRlIGltcGxlbWVudGF0aW9uIHRoYXQgaGFuZGxlcyB0aGUgbGF0ZXN0CiAgICBwcm90b2NvbCB2ZXJzaW9uIHN1cHBvcnRlZCBieSBib3RoIHRoZSBjbGllbnQgYW5kIHRoZSBzZXJ2ZXIuCgogICAgOnBhcmFtIGZyYW1lOiB0aGUgZmlyc3QgZnJhbWUgcmVjZWl2ZWQgZnJvbSBhIG5ldyBjb25uZWN0aW9uCgogICAgOnJldHVybnM6IEEgOmNsYXNzOmBTVE9NUGAgc3ViY2xhc3Mgd2hvc2UgdmVyc2lvbiBjb3JyZXNwb25kcyB0byB0aGUgbWF4aW11bQogICAgICAgIGNvbW1vbiB2ZXJzaW9uIGFjY2VwdGVkIGJ5IHRoZSBjbGllbnQuCgogICAgOnJhaXNlczogOmNsYXNzOmBQcm90b2NvbEVycm9yYCBpZiB0aGUgZnJhbWUncyBjb21tYW5kIGlzIG5vdCBvbmUgb2YKICAgICAgICBgYENPTk5FQ1RgYCBvciBgYFNUT01QYGAsIGlmIGEgYGBTVE9NUGBgIGZyYW1lIGlzIG1pc3NpbmcgdGhlIGBgYWNjZXB0LXZlcnNpb25gYAogICAgICAgIGhlYWRlciwgaWYgdGhlIGZyYW1lJ3MgYGBhY2NlcHQtdmVyc2lvbmBgIGhlYWRlciBpcyBtYWxmb3JtZWQsIG9yIGlmIHRoZQogICAgICAgIGBgYWNjZXB0LXZlcnNpb25gYCBoZWFkZXIgZG9lcyBub3QgY29udGFpbiBhbnkgdmVyc2lvbiBpbiBjb21tb24gd2l0aCB0aGUKICAgICAgICB2ZXJzaW9ucyBzdXBwb3J0ZWQgYnkgdGhlIHNlcnZlci4KCiAgICAiIiIKICAgIGlmIGZyYW1lLmNtZCBpbiAoQ09OTkVDVCwgU1RPTVBfQ01EKSBhbmQgImFjY2VwdC12ZXJzaW9uIiBpbiBmcmFtZS5oZWFkZXJzOgogICAgICAgICMgQ29udmVydCBhIHZhbHVlIGxpa2UgYGAiMS4wLDEuMSwxLjIiYGAgaW50bwogICAgICAgICMgYGB7VmVyc2lvbigxLCAwKSwgVmVyc2lvbigxLCAxKSwgVmVyc2lvbigxLCAyKX1gYC4KICAgICAgICB0cnk6CiAgICAgICAgICAgIGNsaWVudF92ZXJzaW9ucyA9IHsKICAgICAgICAgICAgICAgIFZlcnNpb24uZnJvbV9zdHIodikKICAgICAgICAgICAgICAgIGZvciB2IGluIHNldChmcmFtZS5oZWFkZXJzWyJhY2NlcHQtdmVyc2lvbiJdLnNwbGl0KCIsIikpCiAgICAgICAgICAgIH0KICAgICAgICBleGNlcHQgVmFsdWVFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIG1zZyA9ICJNYWxmb3JtZWQgJ2FjY2VwdC12ZXJzaW9uJyIKICAgICAgICAgICAgcmFpc2UgUHJvdG9jb2xFcnJvcihtc2cpIGZyb20gZXJyCgogICAgICAgIGNvbW1vbiA9IGNsaWVudF92ZXJzaW9ucyAmIFNVUFBPUlRFRF9WRVJTSU9OUy5rZXlzKCkKCiAgICAgICAgaWYgbm90IGNvbW1vbjoKICAgICAgICAgICAgc2VydmVyX3ZlcnNpb25zID0gIiAiLmpvaW4oCiAgICAgICAgICAgICAgICBzdHIodikgZm9yIHYgaW4gc29ydGVkKFNVUFBPUlRFRF9WRVJTSU9OUy5rZXlzKCkpCiAgICAgICAgICAgICkKICAgICAgICAgICAgbXNnID0gZiJTdXBwb3J0ZWQgcHJvdG9jb2wgdmVyc2lvbnMgYXJlIHtzZXJ2ZXJfdmVyc2lvbnN9IgogICAgICAgICAgICByYWlzZSBQcm90b2NvbEVycm9yKG1zZykKCiAgICAgICAgdmVyc2lvbiA9IG1heChjb21tb24pCgogICAgICAgIHByb3RvY29sX2NsYXNzID0gU1VQUE9SVEVEX1ZFUlNJT05TW3ZlcnNpb25dCgogICAgZWxpZiBmcmFtZS5jbWQgPT0gQ09OTkVDVDoKICAgICAgICAjIEEgYGBDT05ORUNUYGAgZnJhbWUgd2l0aG91dCBgYGFjY2VwdC12ZXJzaW9uYGAgaXMgaW5kaWNhdGl2ZSBvZiBhCiAgICAgICAgIyBTVE9NUCAxLjAgY2xpZW50LgogICAgICAgIHByb3RvY29sX2NsYXNzID0gU1RPTVAxMAoKICAgIGVsaWYgZnJhbWUuY21kID09IFNUT01QX0NNRDoKICAgICAgICAjIFRoZSBgYFNUT01QYGAgY29tbWFuZCwgb24gdGhlIG90aGVyIGhhbmQsIHJlcXVpcmVzIHRoZQogICAgICAgICMgYGBhY2NlcHQtdmVyc2lvbmBgIGhlYWRlci4KICAgICAgICBtc2cgPSAiTm8gJ2FjY2VwdC12ZXJzaW9uJyBzcGVjaWZpZWQgZm9yIFNUT01QIGNvbW1hbmQiCiAgICAgICAgcmFpc2UgUHJvdG9jb2xFcnJvcihtc2cpCgogICAgZWxzZToKICAgICAgICAjIEEgY2xpZW50J3MgZmlyc3QgZnJhbWUgbXVzdCBiZSBhIGBgQ09OTkVDVGBgIG9yIGBgU1RPTVBgYCBjb21tYW5kLgogICAgICAgIG1zZyA9ICJFeHBlY3RlZCBDT05ORUNUIG9yIFNUT01QIGNvbW1hbmQiCiAgICAgICAgcmFpc2UgUHJvdG9jb2xFcnJvcihtc2cpCgogICAgcmV0dXJuIHByb3RvY29sX2NsYXNzCg==
+from __future__ import annotations
+
+from typing import TYPE_CHECKING, Final
+
+from coilmq.exception import ProtocolError
+from coilmq.protocol.adaptor import STOMP10, STOMP11, STOMP12
+from coilmq.protocol.version import Version
+from coilmq.util.frames import CONNECT, STOMP_CMD
+
+if TYPE_CHECKING:
+    from coilmq.protocol.adaptor import STOMP
+    from coilmq.util.frames import Frame
+
+SUPPORTED_VERSIONS: Final[dict[Version, type[STOMP]]] = {
+    Version.from_str("1.0"): STOMP10,
+    Version.from_str("1.1"): STOMP11,
+    Version.from_str("1.2"): STOMP12,
+}
+
+
+def protocol_class_from_first_frame(frame: Frame) -> type[STOMP]:
+    """Return the latest compatible protocol for a given ``CONNECT`` frame.
+
+    STOMP requires a client to send a ``CONNECT`` frame after the socket
+    connection is established.  (This function also recognizes the ``STOMP``
+    command, introduced in STOMP 1.1, as an alias for the ``CONNECT`` command.)
+    This function inspects the contents of the first frame and returns an
+    instance of a :class:`STOMP` concrete implementation that handles the latest
+    protocol version supported by both the client and the server.
+
+    :param frame: the first frame received from a new connection
+
+    :returns: A :class:`STOMP` subclass whose version corresponds to the maximum
+        common version accepted by the client.
+
+    :raises: :class:`ProtocolError` if the frame's command is not one of
+        ``CONNECT`` or ``STOMP``, if a ``STOMP`` frame is missing the ``accept-version``
+        header, if the frame's ``accept-version`` header is malformed, or if the
+        ``accept-version`` header does not contain any version in common with the
+        versions supported by the server.
+
+    """
+    if frame.cmd in (CONNECT, STOMP_CMD) and "accept-version" in frame.headers:
+        # Convert a value like ``"1.0,1.1,1.2"`` into
+        # ``{Version(1, 0), Version(1, 1), Version(1, 2)}``.
+        try:
+            client_versions = {
+                Version.from_str(v)
+                for v in set(frame.headers["accept-version"].split(","))
+            }
+        except ValueError as err:
+            msg = "Malformed 'accept-version'"
+            raise ProtocolError(msg) from err
+
+        common = client_versions & SUPPORTED_VERSIONS.keys()
+
+        if not common:
+            server_versions = " ".join(
+                str(v) for v in sorted(SUPPORTED_VERSIONS.keys())
+            )
+            msg = f"Supported protocol versions are {server_versions}"
+            raise ProtocolError(msg)
+
+        version = max(common)
+
+        protocol_class = SUPPORTED_VERSIONS[version]
+
+    elif frame.cmd == CONNECT:
+        # A ``CONNECT`` frame without ``accept-version`` is indicative of a
+        # STOMP 1.0 client.
+        protocol_class = STOMP10
+
+    elif frame.cmd == STOMP_CMD:
+        # The ``STOMP`` command, on the other hand, requires the
+        # ``accept-version`` header.
+        msg = "No 'accept-version' specified for STOMP command"
+        raise ProtocolError(msg)
+
+    else:
+        # A client's first frame must be a ``CONNECT`` or ``STOMP`` command.
+        msg = "Expected CONNECT or STOMP command"
+        raise ProtocolError(msg)
+
+    return protocol_class

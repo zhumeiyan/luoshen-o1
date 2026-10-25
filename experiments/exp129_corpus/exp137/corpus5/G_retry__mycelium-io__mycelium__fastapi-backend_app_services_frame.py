@@ -1,1 +1,512 @@
-IyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogQXBhY2hlLTIuMAojIENvcHlyaWdodCAyMDI2IE15Y2VsaXVtIENvbnRyaWJ1dG9ycwoKIiIiVGhlIHNoYXJlZCBmcmFtZSBhIHRlYW0gYnVpbGRzIGJlZm9yZSB3b3JrIHN0YXJ0cywgbWVyZ2VkIGluIGNvZGUuCgpNZW1iZXJzIHdyaXRlIHdoYXQgdGhleSB1bmRlcnN0YW5kIGEgdGFzayB0byBiZSwgYW5kIGxhYmVsIGl0IHdpdGggbWFya2VycwooOm1vZDpgYXBwLnNlcnZpY2VzLm1hcmtlcnNgKTogcG9pbnRzLCB0aGUgbWVhbmluZyBvZiBhIHdvcmQsIGhvdyBhIHBvaW50CndvdWxkIGJlIGNoZWNrZWQuIFRoaXMgbW9kdWxlIGZvbGRzIHRob3NlIGxhYmVsbGVkIHBpZWNlcyBpbnRvIG9uZSBmcmFtZSBmb3IKdGhlIGNvbmR1Y3Rvciwgd2l0aCBubyBtb2RlbCBhbmQgbm8gdm90ZToKCi0gKipQb2ludHMgZm9sZCoqIHdoZW4gdGhleSBhcmUgdGhlIHNhbWUgdHlwZSBhbmQgc2F5IHRoZSBzYW1lIHRoaW5nOiBlcXVhbAogIHRleHQsIG9yIGNsb3NlIGVub3VnaCBieSB0aGUgaHViJ3MgZW1iZWRkaW5nIG1vZGVsIHdoZW4gaXQgaXMgdGhlcmUuIEVhY2gKICBwb2ludCBrZWVwcyB3aG8gc3RhdGVkIGl0LiBOb3RoaW5nIGlzIGRyb3BwZWQsIGF2ZXJhZ2VkIG9yIHJld3JpdHRlbi4KLSAqKlByb2JsZW1zIGFyZSBmbGFnZ2VkLCBuZXZlciByZXNvbHZlZC4qKiBBIHBvaW50IG9ubHkgb25lIG1lbWJlciBzdGF0ZWQsIHR3bwogIG1lbWJlcnMgc2F5aW5nIGRpZmZlcmVudCB0aGluZ3MgYWJvdXQgdGhlIHNhbWUgc3ViamVjdCwgYSB3b3JkIHVzZWQgaW4KICBkaWZmZXJlbnQgc2Vuc2VzLCBhIHBvaW50IG5vdGhpbmcgY2hlY2tzLCBhIG1lbWJlciB3aG8gbmV2ZXIgYW5zd2VyZWQuCi0gKipUaGUgcmVzdWx0IGlzIGEgY29udHJhY3QqKjogb25lIGRpY3QgYSBtZW1vcnkgY2FuIGNhcnJ5IGluIGZyb250bWF0dGVyIGFuZAogIGEgcGVyc29uIGNhbiByZWFkIHJlbmRlcmVkIGFzIG1hcmtkb3duICg6ZnVuYzpgcmVuZGVyYCkuCgpTYW1lIHJlcGxpZXMgaW4gdGhlIHNhbWUgY2FzdCBvcmRlciBnaXZlIHRoZSBzYW1lIGZyYW1lLCBpZHMgYW5kIGZsYWdzLiBUaGUKc2ltaWxhcml0eSBmdW5jdGlvbiBpcyBwYXNzZWQgaW4sIHNvIHRlc3RzIG5ldmVyIGRlcGVuZCBvbiB0aGUgcmVhbCBtb2RlbCwKYW5kIGEgZmFpbGluZyBvbmUgZmFsbHMgYmFjayB0byBlcXVhbCB0ZXh0IGZvciB0aGUgcmVzdCBvZiB0aGUgcnVuLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBsb2dnaW5nCmltcG9ydCByZQpmcm9tIGNvbGxlY3Rpb25zLmFiYyBpbXBvcnQgQ2FsbGFibGUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIHR5cGluZyBpbXBvcnQgQW55Cgpmcm9tIGFwcC5zZXJ2aWNlcyBpbXBvcnQgbWFya2Vycwpmcm9tIGFwcC5zZXJ2aWNlcy50dXJucyBpbXBvcnQgbmV1dHJhbGl6ZV9tZW50aW9ucwoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgojOiBgYHNpbWlsYXIoYSwgYilgYCDihpIgY29zaW5lIHNpbWlsYXJpdHksIC0xLi4xLiBNYXkgcmFpc2U7IGEgcmFpc2UgbWVhbnMKIzogc2ltaWxhcml0eSBpcyB1bmF2YWlsYWJsZSBmb3IgdGhlIHJlc3Qgb2YgdGhlIHJ1bi4KU2ltaWxhciA9IENhbGxhYmxlW1tzdHIsIHN0cl0sIGZsb2F0XQoKIzogSG93IGFsaWtlIHR3byB0ZXh0cyBtdXN0IGJlIHRvIGNvdW50IGFzIG9uZSwgYnkgZW1iZWRkaW5nLiBEZWxpYmVyYXRlbHkKIzogaGlnaDogZm9sZGluZyB0d28gZGlmZmVyZW50IHBvaW50cyBpbnRvIG9uZSBoaWRlcyBhIGRpc2FncmVlbWVudCwgd2hpbGUKIzogbGVhdmluZyBhIG5lYXItZHVwbGljYXRlIHVuZm9sZGVkIGNvc3RzIG9uZSBleHRyYSBsaW5lLgpTSU1JTEFSSVRZX1RIUkVTSE9MRCA9IDAuOTIKCiM6IEJvdW5kcyBvbiB3aGF0IG9uZSBydW4ga2VlcHMuIE92ZXIgYSBib3VuZCBpcyBkcm9wcGVkIHdpdGggYSBub3RlLgpQRVJfUkVQTFkgPSAxMgpJVEVNX0NIQVJTID0gNjAwClBFUl9SVU4gPSA4MAoKIzogQSByZXBseSB3aXRoIHRleHQgYW5kIG5vIGxhYmVsLCBrZXB0IHdob2xlIHNvIGl0IGlzIG5ldmVyIGxvc3QuClNUQVRFTUVOVCA9ICJzdGF0ZW1lbnQiCgojOiBQb2ludCB0eXBlcyBhIGNoZWNrIGlzIGV4cGVjdGVkIHRvIGNvdmVyLgpDSEVDS0FCTEUgPSAoIm9iamVjdGl2ZSIsICJjb25zdHJhaW50IiwgImRlbGl2ZXJhYmxlIikKCiM6IEhvdyBlYWNoIGtpbmQgb2YgcG9pbnQgaXMgaGVhZGVkIHdoZW4gdGhlIGZyYW1lIGlzIHNob3duIHRvIHBlb3BsZS4KSEVBRElOR1MgPSB7CiAgICAib2JqZWN0aXZlIjogIldoYXQgaXQncyBmb3IiLAogICAgImNvbnN0cmFpbnQiOiAiQ29uc3RyYWludHMiLAogICAgImFzc3VtcHRpb24iOiAiQXNzdW1wdGlvbnMiLAogICAgInN1Yl9nb2FsIjogIlBhcnRzIG9mIHRoZSB3b3JrIiwKICAgICJkZWxpdmVyYWJsZSI6ICJXaGF0IGdldHMgZGVsaXZlcmVkIiwKICAgICJvdXRfb2Zfc2NvcGUiOiAiT3V0IG9mIHNjb3BlIiwKICAgIFNUQVRFTUVOVDogIlNhaWQgd2l0aG91dCBhIGxhYmVsIiwKfQoKCmRlZiBfbm9ybSh0ZXh0OiBzdHIpIC0+IHN0cjoKICAgIHJldHVybiAiICIuam9pbih0ZXh0LnNwbGl0KCkpLmNhc2Vmb2xkKCkKCgpkZWYgX2NsZWFuKHRleHQ6IHN0cikgLT4gc3RyOgogICAgIiIiVGV4dCBhcyBpdCBpcyBzdG9yZWQ6IG5vIG1hcmtlciBvZiBpdHMgb3duLCBubyBtZW50aW9uIHRoYXQgd291bGQgc3VtbW9uLiIiIgogICAgcmV0dXJuIG1hcmtlcnMuZGVmYW5nKG5ldXRyYWxpemVfbWVudGlvbnModGV4dC5zdHJpcCgpKSkKCgpAZGF0YWNsYXNzCmNsYXNzIFBvaW50OgogICAgaWQ6IHN0cgogICAgdHlwZTogc3RyCiAgICB0ZXh0OiBzdHIKICAgIGF1dGhvcnM6IGxpc3Rbc3RyXQogICAgYWJvdXQ6IHN0ciA9ICIiCgogICAgQHByb3BlcnR5CiAgICBkZWYgc3VwcG9ydChzZWxmKSAtPiBpbnQ6CiAgICAgICAgcmV0dXJuIGxlbihzZWxmLmF1dGhvcnMpCgoKQGRhdGFjbGFzcwpjbGFzcyBDaGVjazoKICAgIHRleHQ6IHN0cgogICAgY292ZXJzOiBsaXN0W3N0cl0KICAgIG93bmVyOiBzdHIKCgpAZGF0YWNsYXNzCmNsYXNzIEZyYW1lOgogICAgIiIiV2hhdCBhIHJ1biBoYXMgZ2F0aGVyZWQgc28gZmFyLiIiIgoKICAgIHBvaW50czogbGlzdFtQb2ludF0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKICAgICM6IG5vcm1hbGlzZWQgd29yZCDihpIgKHRoZSB3b3JkIGFzIGZpcnN0IHdyaXR0ZW4sIHttZW1iZXI6IG1lYW5pbmd9KS4gQQogICAgIzogbWVtYmVyJ3MgbGF0ZXIgbWVhbmluZyBmb3IgYSB3b3JkIHJlcGxhY2VzIGl0cyBlYXJsaWVyIG9uZS4KICAgIHRlcm1zOiBkaWN0W3N0ciwgdHVwbGVbc3RyLCBkaWN0W3N0ciwgc3RyXV1dID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWRpY3QpCiAgICBjaGVja3M6IGxpc3RbQ2hlY2tdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpCiAgICAjOiBNZW1iZXJzIHdobyBhbnN3ZXJlZCBhbnkgc3RlcCB0aGF0IGdhdGhlcnMgcGllY2VzLgogICAgYW5zd2VyZWQ6IHNldFtzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PXNldCkKICAgICM6IGBgRmFsc2VgYCBvbmNlIHNpbWlsYXJpdHkgZmFpbGVkIG9yIHdhcyBuZXZlciB0aGVyZTogZXF1YWwgdGV4dCBvbmx5LgogICAgc2ltaWxhcml0eTogYm9vbCA9IFRydWUKICAgICM6IFRoZSBmcmFtZS1yb3VuZCBjYXAgd2FzIHJlYWNoZWQgd2hpbGUgcG9pbnRzIHdlcmUgc3RpbGwgYmVpbmcgYWRkZWQuCiAgICBjYXBwZWQ6IGJvb2wgPSBGYWxzZQogICAgIzogUGFpcnMgYWxyZWFkeSBjb21wYXJlZCwgc28gYSByb3VuZCBuZXZlciBhc2tzIHRoZSBtb2RlbCB0d2ljZS4KICAgIF9zZWVuOiBkaWN0W3R1cGxlW3N0ciwgc3RyXSwgZmxvYXRdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWRpY3QpCgogICAgZGVmIGl0ZW1zKHNlbGYpIC0+IGludDoKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICBsZW4oc2VsZi5wb2ludHMpCiAgICAgICAgICAgICsgc3VtKGxlbihtZWFuaW5ncykgZm9yIF93LCBtZWFuaW5ncyBpbiBzZWxmLnRlcm1zLnZhbHVlcygpKQogICAgICAgICAgICArIGxlbihzZWxmLmNoZWNrcykKICAgICAgICApCgogICAgZGVmIGFsaWtlKHNlbGYsIGE6IHN0ciwgYjogc3RyLCBzaW1pbGFyOiBTaW1pbGFyIHwgTm9uZSkgLT4gYm9vbDoKICAgICAgICAiIiJXaGV0aGVyIHR3byB0ZXh0cyBzYXkgdGhlIHNhbWUgdGhpbmc6IGVxdWFsLCBvciBzaW1pbGFyIGVub3VnaC4iIiIKICAgICAgICBpZiBfbm9ybShhKSA9PSBfbm9ybShiKToKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBpZiBzaW1pbGFyIGlzIE5vbmUgb3Igbm90IHNlbGYuc2ltaWxhcml0eToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcGFpciA9IChhLCBiKSBpZiBhIDw9IGIgZWxzZSAoYiwgYSkKICAgICAgICBpZiBwYWlyIG5vdCBpbiBzZWxmLl9zZWVuOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzZWxmLl9zZWVuW3BhaXJdID0gZmxvYXQoc2ltaWxhcigqcGFpcikpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBsb2dnZXIud2FybmluZygic2ltaWxhcml0eSB1bmF2YWlsYWJsZTsgZm9sZGluZyBlcXVhbCB0ZXh0IG9ubHkiLCBleGNfaW5mbz1UcnVlKQogICAgICAgICAgICAgICAgc2VsZi5zaW1pbGFyaXR5ID0gRmFsc2UKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIHJldHVybiBzZWxmLl9zZWVuW3BhaXJdID49IFNJTUlMQVJJVFlfVEhSRVNIT0xECgoKQGRhdGFjbGFzcwpjbGFzcyBGb2xkZWQ6CiAgICAiIiJXaGF0IG9uZSByb3VuZCBhZGRlZCwgYW5kIGFueXRoaW5nIGEgYm91bmQgZHJvcHBlZC4iIiIKCiAgICBhZGRlZDogbGlzdFtzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpCiAgICBub3RlczogbGlzdFtzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpCiAgICAjOiBNZW1iZXJzIHdob3NlIHJlcGx5IGNhcnJpZWQgYXQgbGVhc3Qgb25lIGxhYmVsbGVkIHBpZWNlLgogICAgbGFiZWxsZWQ6IHNldFtzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PXNldCkKCgpkZWYgX2N1dCh0ZXh0OiBzdHIsIHdobzogc3RyLCBub3RlczogbGlzdFtzdHJdKSAtPiBzdHI6CiAgICBpZiBsZW4odGV4dCkgPD0gSVRFTV9DSEFSUzoKICAgICAgICByZXR1cm4gdGV4dAogICAgbm90ZXMuYXBwZW5kKGYiQ3V0IGEgcG9pbnQgZnJvbSB7d2hvfSB0byB7SVRFTV9DSEFSU30gY2hhcmFjdGVycy4iKQogICAgcmV0dXJuIHRleHRbOklURU1fQ0hBUlNdLnJzdHJpcCgpICsgIuKApiIKCgpkZWYgX2FkZF9wb2ludCgKICAgIGZyYW1lOiBGcmFtZSwga2luZDogc3RyLCB0ZXh0OiBzdHIsIGFib3V0OiBzdHIsIHdobzogc3RyLCBzaW1pbGFyOiBTaW1pbGFyIHwgTm9uZQopIC0+IHN0ciB8IE5vbmU6CiAgICAiIiJGb2xkIG9uZSBwb2ludCBpbjsgdGhlIG5ldyBwb2ludCdzIGlkLCBvciBgYE5vbmVgYCB3aGVuIGl0IGpvaW5lZCBvbmUuIiIiCiAgICBmb3IgcG9pbnQgaW4gZnJhbWUucG9pbnRzOgogICAgICAgIGlmIHBvaW50LnR5cGUgPT0ga2luZCBhbmQgZnJhbWUuYWxpa2UocG9pbnQudGV4dCwgdGV4dCwgc2ltaWxhcik6CiAgICAgICAgICAgIGlmIHdobyBub3QgaW4gcG9pbnQuYXV0aG9yczoKICAgICAgICAgICAgICAgIHBvaW50LmF1dGhvcnMuYXBwZW5kKHdobykKICAgICAgICAgICAgaWYgYWJvdXQgYW5kIG5vdCBwb2ludC5hYm91dDoKICAgICAgICAgICAgICAgIHBvaW50LmFib3V0ID0gYWJvdXQKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgIHBvaW50ID0gUG9pbnQoaWQ9ZiJwe2xlbihmcmFtZS5wb2ludHMpICsgMX0iLCB0eXBlPWtpbmQsIHRleHQ9dGV4dCwgYXV0aG9ycz1bd2hvXSwgYWJvdXQ9YWJvdXQpCiAgICBmcmFtZS5wb2ludHMuYXBwZW5kKHBvaW50KQogICAgcmV0dXJuIHBvaW50LmlkCgoKZGVmIGZvbGQoCiAgICBmcmFtZTogRnJhbWUsCiAgICByZXBsaWVzOiBsaXN0W3R1cGxlW3N0ciwgbGlzdFtkaWN0W3N0ciwgQW55XV1dXSwKICAgICosCiAgICBzaW1pbGFyOiBTaW1pbGFyIHwgTm9uZSwKKSAtPiBGb2xkZWQ6CiAgICAiIiJGb2xkIGVhY2ggbWVtYmVyJ3MgbGFiZWxsZWQgcGllY2VzIGludG8gdGhlIGZyYW1lLCBpbiB0aGUgb3JkZXIgZ2l2ZW4KICAgICh0aGUgY29uZHVjdG9yIGdpdmVzIGNhc3Qgb3JkZXIsIHdoYXRldmVyIG9yZGVyIHRoZSByZXBsaWVzIGFycml2ZWQgaW4pLiIiIgogICAgb3V0ID0gRm9sZGVkKCkKICAgIGZvciB3aG8sIHBpZWNlcyBpbiByZXBsaWVzOgogICAgICAgIGZyYW1lLmFuc3dlcmVkLmFkZCh3aG8pCiAgICAgICAgaWYgcGllY2VzOgogICAgICAgICAgICBvdXQubGFiZWxsZWQuYWRkKHdobykKICAgICAgICBpZiBsZW4ocGllY2VzKSA+IFBFUl9SRVBMWToKICAgICAgICAgICAgb3V0Lm5vdGVzLmFwcGVuZCgKICAgICAgICAgICAgICAgIGYiS2VwdCB0aGUgZmlyc3Qge1BFUl9SRVBMWX0gb2Yge2xlbihwaWVjZXMpfSBsYWJlbGxlZCBwaWVjZXMgZnJvbSB7d2hvfS4iCiAgICAgICAgICAgICkKICAgICAgICAgICAgcGllY2VzID0gcGllY2VzWzpQRVJfUkVQTFldCiAgICAgICAgZm9yIHBpZWNlIGluIHBpZWNlczoKICAgICAgICAgICAgaWYgZnJhbWUuaXRlbXMoKSA+PSBQRVJfUlVOOgogICAgICAgICAgICAgICAgb3V0Lm5vdGVzLmFwcGVuZChmIlRoaXMgcnVuIGtlZXBzIHtQRVJfUlVOfSBwaWVjZXM7IGRyb3BwZWQgdGhlIHJlc3QgZnJvbSB7d2hvfS4iKQogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgdGV4dCA9IF9jdXQoX2NsZWFuKHBpZWNlWyJ0ZXh0Il0pLCB3aG8sIG91dC5ub3RlcykKICAgICAgICAgICAgbGFiZWwgPSBwaWVjZVsibGFiZWwiXQogICAgICAgICAgICBpZiBsYWJlbCA9PSAidGVybSI6CiAgICAgICAgICAgICAgICB3b3JkID0gX2NsZWFuKHBpZWNlWyJ0ZXJtIl0pCiAgICAgICAgICAgICAgICBzaG93biwgbWVhbmluZ3MgPSBmcmFtZS50ZXJtcy5nZXQoX25vcm0od29yZCksICh3b3JkLCB7fSkpCiAgICAgICAgICAgICAgICBtZWFuaW5nc1t3aG9dID0gdGV4dAogICAgICAgICAgICAgICAgZnJhbWUudGVybXNbX25vcm0od29yZCldID0gKHNob3duLCBtZWFuaW5ncykKICAgICAgICAgICAgZWxpZiBsYWJlbCA9PSAiY2hlY2siOgogICAgICAgICAgICAgICAgaWYgbm90IGFueShfbm9ybShjLnRleHQpID09IF9ub3JtKHRleHQpIGZvciBjIGluIGZyYW1lLmNoZWNrcyk6CiAgICAgICAgICAgICAgICAgICAgZnJhbWUuY2hlY2tzLmFwcGVuZChDaGVjayh0ZXh0PXRleHQsIGNvdmVycz1saXN0KHBpZWNlWyJjb3ZlcnMiXSksIG93bmVyPXdobykpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBhYm91dCA9IF9jbGVhbihwaWVjZS5nZXQoImFib3V0Iikgb3IgIiIpCiAgICAgICAgICAgICAgICBhZGRlZCA9IF9hZGRfcG9pbnQoZnJhbWUsIGxhYmVsLCB0ZXh0LCBhYm91dCwgd2hvLCBzaW1pbGFyKQogICAgICAgICAgICAgICAgaWYgYWRkZWQ6CiAgICAgICAgICAgICAgICAgICAgb3V0LmFkZGVkLmFwcGVuZChhZGRlZCkKICAgIHJldHVybiBvdXQKCgpkZWYgYWRkX3N0YXRlbWVudChmcmFtZTogRnJhbWUsIHdobzogc3RyLCB0ZXh0OiBzdHIsICosIHNpbWlsYXI6IFNpbWlsYXIgfCBOb25lKSAtPiBGb2xkZWQ6CiAgICAiIiJLZWVwIGEgcmVwbHkgdGhhdCBjYXJyaWVkIG5vIGxhYmVsIGFzIG9uZSB1bmxhYmVsbGVkIHN0YXRlbWVudCBieSBgYHdob2BgLiIiIgogICAgb3V0ID0gRm9sZGVkKCkKICAgIHRleHQgPSBfY3V0KF9jbGVhbih0ZXh0KSwgd2hvLCBvdXQubm90ZXMpCiAgICBpZiB0ZXh0IGFuZCBmcmFtZS5pdGVtcygpIDwgUEVSX1JVTjoKICAgICAgICBhZGRlZCA9IF9hZGRfcG9pbnQoZnJhbWUsIFNUQVRFTUVOVCwgdGV4dCwgIiIsIHdobywgc2ltaWxhcikKICAgICAgICBpZiBhZGRlZDoKICAgICAgICAgICAgb3V0LmFkZGVkLmFwcGVuZChhZGRlZCkKICAgIHJldHVybiBvdXQKCgojIOKUgOKUgCB0aGUgd29yZHMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgoKZGVmIHNlbnNlcyhmcmFtZTogRnJhbWUsIHdvcmQ6IHN0ciwgc2ltaWxhcjogU2ltaWxhciB8IE5vbmUpIC0+IGxpc3RbdHVwbGVbc3RyLCBsaXN0W3N0cl1dXToKICAgICIiIkEgd29yZCdzIG1lYW5pbmdzIGdyb3VwZWQgYnkgc2Vuc2U6IGBgWyhtZWFuaW5nLCBbbWVtYmVyc10pXWBgLCBpbiBjYXN0CiAgICBvcmRlciBvZiBmaXJzdCB1c2UuIE1vcmUgdGhhbiBvbmUgZ3JvdXAgbWVhbnMgdGhlIHdvcmQgaXMgY29udGVzdGVkLiIiIgogICAgX3Nob3duLCBtZWFuaW5ncyA9IGZyYW1lLnRlcm1zW3dvcmRdCiAgICBncm91cHM6IGxpc3RbdHVwbGVbc3RyLCBsaXN0W3N0cl1dXSA9IFtdCiAgICBmb3Igd2hvLCBtZWFuaW5nIGluIG1lYW5pbmdzLml0ZW1zKCk6CiAgICAgICAgZm9yIHRleHQsIG1lbWJlcnMgaW4gZ3JvdXBzOgogICAgICAgICAgICBpZiBmcmFtZS5hbGlrZSh0ZXh0LCBtZWFuaW5nLCBzaW1pbGFyKToKICAgICAgICAgICAgICAgIG1lbWJlcnMuYXBwZW5kKHdobykKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZ3JvdXBzLmFwcGVuZCgobWVhbmluZywgW3dob10pKQogICAgcmV0dXJuIGdyb3VwcwoKCmRlZiBjb250ZXN0ZWQoZnJhbWU6IEZyYW1lLCBzaW1pbGFyOiBTaW1pbGFyIHwgTm9uZSkgLT4gbGlzdFtzdHJdOgogICAgIiIiVGhlIHdvcmRzIG1lbWJlcnMgYXJlIHVzaW5nIGluIGRpZmZlcmVudCBzZW5zZXMsIGluIHRoZSBvcmRlciBmaXJzdCB3cml0dGVuLiIiIgogICAgcmV0dXJuIFt3b3JkIGZvciB3b3JkIGluIGZyYW1lLnRlcm1zIGlmIGxlbihzZW5zZXMoZnJhbWUsIHdvcmQsIHNpbWlsYXIpKSA+IDFdCgoKZGVmIGNvbnRlc3RlZF9tZW1iZXJzKGZyYW1lOiBGcmFtZSwgY2FzdDogbGlzdFtzdHJdLCBzaW1pbGFyOiBTaW1pbGFyIHwgTm9uZSkgLT4gbGlzdFtzdHJdOgogICAgIiIiRXZlcnlvbmUgd2hvIGdhdmUgYSBtZWFuaW5nIHRvIGEgY29udGVzdGVkIHdvcmQsIGluIGNhc3Qgb3JkZXIuIiIiCiAgICBpbnZvbHZlZCA9IHt3aG8gZm9yIHdvcmQgaW4gY29udGVzdGVkKGZyYW1lLCBzaW1pbGFyKSBmb3Igd2hvIGluIGZyYW1lLnRlcm1zW3dvcmRdWzFdfQogICAgcmV0dXJuIFtoIGZvciBoIGluIGNhc3QgaWYgaCBpbiBpbnZvbHZlZF0KCgojIOKUgOKUgCB3aGF0IHRoZSBwcm9tcHRzIHNob3cg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgoKZGVmIHNob3dfcG9pbnRzKGZyYW1lOiBGcmFtZSwgY2FzdDogbGlzdFtzdHJdKSAtPiBzdHI6CiAgICBpZiBub3QgZnJhbWUucG9pbnRzOgogICAgICAgIHJldHVybiAiKG5vdGhpbmcgeWV0KSIKICAgIHRvdGFsID0gbGVuKGNhc3QpCiAgICByZXR1cm4gIlxuIi5qb2luKAogICAgICAgIGYie3AuaWR9ICh7cC50eXBlLnJlcGxhY2UoJ18nLCAnICcpfSwgc3RhdGVkIGJ5IHtwLnN1cHBvcnR9IG9mIHt0b3RhbH0pOiB7cC50ZXh0fSIKICAgICAgICBmb3IgcCBpbiBmcmFtZS5wb2ludHMKICAgICkKCgpkZWYgc2hvd190ZXJtcyhmcmFtZTogRnJhbWUsIHNpbWlsYXI6IFNpbWlsYXIgfCBOb25lKSAtPiBzdHI6CiAgICBpZiBub3QgZnJhbWUudGVybXM6CiAgICAgICAgcmV0dXJuICIobm8gd29yZHMgZGVmaW5lZCB5ZXQpIgogICAgbGluZXMgPSBbXQogICAgZm9yIHdvcmQsIChzaG93biwgX21lYW5pbmdzKSBpbiBmcmFtZS50ZXJtcy5pdGVtcygpOgogICAgICAgIGdyb3VwcyA9IHNlbnNlcyhmcmFtZSwgd29yZCwgc2ltaWxhcikKICAgICAgICBpZiBsZW4oZ3JvdXBzKSA9PSAxOgogICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiJ7c2hvd259OiB7Z3JvdXBzWzBdWzBdfSAoeycsICcuam9pbihncm91cHNbMF1bMV0pfSkiKQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGxpbmVzLmFwcGVuZChmIntzaG93bn0gaXMgdXNlZCBpbiBkaWZmZXJlbnQgc2Vuc2VzOiIpCiAgICAgICAgbGluZXMgKz0gW2YiICB7JywgJy5qb2luKG1lbWJlcnMpfToge3RleHR9IiBmb3IgdGV4dCwgbWVtYmVycyBpbiBncm91cHNdCiAgICByZXR1cm4gIlxuIi5qb2luKGxpbmVzKQoKCmRlZiBzaG93X2NoZWNrcyhmcmFtZTogRnJhbWUpIC0+IHN0cjoKICAgIGlmIG5vdCBmcmFtZS5jaGVja3M6CiAgICAgICAgcmV0dXJuICIobm8gY2hlY2tzIHlldCkiCiAgICByZXR1cm4gIlxuIi5qb2luKAogICAgICAgIGYie2MudGV4dH0gKHtjLm93bmVyfXsnOyBjb3ZlcnMgJyArICcsICcuam9pbihjLmNvdmVycykgaWYgYy5jb3ZlcnMgZWxzZSAnJ30pIgogICAgICAgIGZvciBjIGluIGZyYW1lLmNoZWNrcwogICAgKQoKCiMg4pSA4pSAIHRoZSBjb250cmFjdCDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCgpkZWYgX2ZsYWcoa2luZDogc3RyLCB0ZXh0OiBzdHIsICoqYWJvdXQ6IEFueSkgLT4gZGljdFtzdHIsIEFueV06CiAgICByZXR1cm4geyJraW5kIjoga2luZCwgInRleHQiOiB0ZXh0LCAqKmFib3V0fQoKCiM6IEhvdyBtYW55IHBvaW50IGlkcyBhbiBvcGVuIGl0ZW0gbmFtZXMgYmVmb3JlIGl0IGdpdmVzIGEgY291bnQgaW5zdGVhZC4gQW4KIzogb3BlbiBpdGVtIGlzIG9uZSBsaW5lIGEgcGVyc29uIHJlYWRzLCBzbyBhIHJ1biB3aGVyZSBtb3N0IHBvaW50cyB3ZXJlIHN0YXRlZAojOiBvbmNlIHNheXMgdGhhdCBvbmNlIHJhdGhlciB0aGFuIG9uY2UgcGVyIHBvaW50LgpMSVNURUQgPSA4CgoKZGVmIF9pZHMoaWRzOiBsaXN0W3N0cl0pIC0+IHN0cjoKICAgIHJldHVybiAoCiAgICAgICAgIiwgIi5qb2luKGlkcykKICAgICAgICBpZiBsZW4oaWRzKSA8PSBMSVNURUQKICAgICAgICBlbHNlIGYieycsICcuam9pbihpZHNbOkxJU1RFRF0pfSBhbmQge2xlbihpZHMpIC0gTElTVEVEfSBtb3JlIgogICAgKQoKCmRlZiBjb250cmFjdCgKICAgIGZyYW1lOiBGcmFtZSwKICAgICosCiAgICBjYXN0OiBsaXN0W3N0cl0sCiAgICBhc2s6IHN0ciwKICAgIHRhc2s6IHN0ciwKICAgIHRpdGxlOiBzdHIsCiAgICBzaW1pbGFyOiBTaW1pbGFyIHwgTm9uZSwKKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICIiIkV2ZXJ5dGhpbmcgdGhlIGZyYW1lIGhvbGRzLCB3aXRoIGV2ZXJ5IHByb2JsZW0gZmxhZ2dlZCwgYXMgcGxhaW4gZGF0YS4iIiIKICAgIHRvdGFsID0gbGVuKGNhc3QpCiAgICBmbGFnczogbGlzdFtkaWN0W3N0ciwgQW55XV0gPSBbXQogICAgYnlfYWJvdXQ6IGRpY3RbdHVwbGVbc3RyLCBzdHJdLCBsaXN0W1BvaW50XV0gPSB7fQogICAgZm9yIHAgaW4gZnJhbWUucG9pbnRzOgogICAgICAgIGlmIHAuYWJvdXQ6CiAgICAgICAgICAgIGJ5X2Fib3V0LnNldGRlZmF1bHQoKHAudHlwZSwgX25vcm0ocC5hYm91dCkpLCBbXSkuYXBwZW5kKHApCiAgICAjIERpZmZlcmVudCB0aGluZ3Mgc2FpZCBhYm91dCBvbmUgc3ViamVjdCwgYnkgbW9yZSB0aGFuIG9uZSBwZXJzb246IG9uZQogICAgIyBwZXJzb24ncyB0d28gcG9pbnRzIGFib3V0IHByaWNpbmcgYXJlIGRldGFpbCwgbm90IGEgZGlzYWdyZWVtZW50LgogICAgY2xhc2hlcyA9IFsKICAgICAgICBncm91cAogICAgICAgIGZvciBncm91cCBpbiBieV9hYm91dC52YWx1ZXMoKQogICAgICAgIGlmIGxlbihncm91cCkgPiAxIGFuZCBsZW4oe2EgZm9yIHAgaW4gZ3JvdXAgZm9yIGEgaW4gcC5hdXRob3JzfSkgPiAxCiAgICBdCiAgICBjb25mbGljdGluZyA9IHtwLmlkIGZvciBncm91cCBpbiBjbGFzaGVzIGZvciBwIGluIGdyb3VwfQogICAgY292ZXJlZCA9IHtwaWQgZm9yIGMgaW4gZnJhbWUuY2hlY2tzIGZvciBwaWQgaW4gYy5jb3ZlcnN9CiAgICB1bmNoZWNrZWQgPSBbcC5pZCBmb3IgcCBpbiBmcmFtZS5wb2ludHMgaWYgcC50eXBlIGluIENIRUNLQUJMRSBhbmQgcC5pZCBub3QgaW4gY292ZXJlZF0KICAgIHNpbmdsZSA9IFtwLmlkIGZvciBwIGluIGZyYW1lLnBvaW50cyBpZiBwLnN1cHBvcnQgPT0gMSBhbmQgdG90YWwgPiAxXQogICAgaWYgc2luZ2xlOgogICAgICAgIHRleHQgPSAoCiAgICAgICAgICAgIGYiRXZlcnkgcG9pbnQgd2FzIHN0YXRlZCBieSBvbmx5IG9uZSBwZXJzb24gKHtsZW4oc2luZ2xlKX0gcG9pbnRzKSIKICAgICAgICAgICAgaWYgbGVuKHNpbmdsZSkgPT0gbGVuKGZyYW1lLnBvaW50cykgYW5kIGxlbihzaW5nbGUpID4gMQogICAgICAgICAgICBlbHNlIGYiT25seSBvbmUgcGVyc29uIHNhaWQgdGhpczoge19pZHMoc2luZ2xlKX0iCiAgICAgICAgKQogICAgICAgIGZsYWdzLmFwcGVuZChfZmxhZygic2luZ2xlIiwgdGV4dCwgcG9pbnRzPXNpbmdsZSkpCgogICAgcG9pbnRzID0gW10KICAgIGZvciBwIGluIGZyYW1lLnBvaW50czoKICAgICAgICBtaW5lID0gW10KICAgICAgICBpZiBwLmlkIGluIHNpbmdsZToKICAgICAgICAgICAgbWluZS5hcHBlbmQoInNpbmdsZSIpCiAgICAgICAgaWYgcC5pZCBpbiBjb25mbGljdGluZzoKICAgICAgICAgICAgbWluZS5hcHBlbmQoImNvbmZsaWN0IikKICAgICAgICBpZiBwLmlkIGluIHVuY2hlY2tlZDoKICAgICAgICAgICAgbWluZS5hcHBlbmQoInVuY2hlY2tlZCIpCiAgICAgICAgZW50cnk6IGRpY3Rbc3RyLCBBbnldID0gewogICAgICAgICAgICAiaWQiOiBwLmlkLAogICAgICAgICAgICAidHlwZSI6IHAudHlwZSwKICAgICAgICAgICAgInRleHQiOiBwLnRleHQsCiAgICAgICAgICAgICJzdXBwb3J0IjogcC5zdXBwb3J0LAogICAgICAgICAgICAiYXV0aG9ycyI6IGxpc3QocC5hdXRob3JzKSwKICAgICAgICAgICAgImZsYWdzIjogbWluZSwKICAgICAgICB9CiAgICAgICAgaWYgcC5hYm91dDoKICAgICAgICAgICAgZW50cnlbImFib3V0Il0gPSBwLmFib3V0CiAgICAgICAgcG9pbnRzLmFwcGVuZChlbnRyeSkKICAgIGZvciBncm91cCBpbiBjbGFzaGVzOgogICAgICAgIGZsYWdzLmFwcGVuZCgKICAgICAgICAgICAgX2ZsYWcoCiAgICAgICAgICAgICAgICAiY29uZmxpY3QiLAogICAgICAgICAgICAgICAgZiJQZW9wbGUgc2FpZCBkaWZmZXJlbnQgdGhpbmdzIGFib3V0IHtncm91cFswXS5hYm91dH06ICIKICAgICAgICAgICAgICAgIGYie19pZHMoW3AuaWQgZm9yIHAgaW4gZ3JvdXBdKX0iLAogICAgICAgICAgICAgICAgcG9pbnRzPVtwLmlkIGZvciBwIGluIGdyb3VwXSwKICAgICAgICAgICAgKQogICAgICAgICkKCiAgICBnbG9zc2FyeSA9IFtdCiAgICBmb3Igd29yZCwgKHNob3duLCBfbWVhbmluZ3MpIGluIGZyYW1lLnRlcm1zLml0ZW1zKCk6CiAgICAgICAgZ3JvdXBzID0gc2Vuc2VzKGZyYW1lLCB3b3JkLCBzaW1pbGFyKQogICAgICAgIHN0YXR1cyA9ICJhZ3JlZWQiIGlmIGxlbihncm91cHMpID09IDEgZWxzZSAiY29udGVzdGVkIgogICAgICAgIGdsb3NzYXJ5LmFwcGVuZCgKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInRlcm0iOiBzaG93biwKICAgICAgICAgICAgICAgICJzdGF0dXMiOiBzdGF0dXMsCiAgICAgICAgICAgICAgICAibWVhbmluZ3MiOiBbeyJ0ZXh0IjogdGV4dCwgIm1lbWJlcnMiOiBtZW1iZXJzfSBmb3IgdGV4dCwgbWVtYmVycyBpbiBncm91cHNdLAogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIGlmIHN0YXR1cyA9PSAiY29udGVzdGVkIjoKICAgICAgICAgICAgZmxhZ3MuYXBwZW5kKAogICAgICAgICAgICAgICAgX2ZsYWcoImFtYmlndW91cyIsIGYiQSB3b3JkIHVzZWQgaW4gZGlmZmVyZW50IHNlbnNlczoge3Nob3dufSIsIHRlcm09c2hvd24pCiAgICAgICAgICAgICkKCiAgICBpZiB1bmNoZWNrZWQ6CiAgICAgICAgZmxhZ3MuYXBwZW5kKAogICAgICAgICAgICBfZmxhZygKICAgICAgICAgICAgICAgICJ1bmNoZWNrZWQiLAogICAgICAgICAgICAgICAgZiJOb3RoaW5nIGNoZWNrcyB0aGlzIHlldDoge19pZHModW5jaGVja2VkKX0iLAogICAgICAgICAgICAgICAgcG9pbnRzPXVuY2hlY2tlZCwKICAgICAgICAgICAgKQogICAgICAgICkKICAgIHF1aWV0ID0gW2ggZm9yIGggaW4gY2FzdCBpZiBoIG5vdCBpbiBmcmFtZS5hbnN3ZXJlZF0KICAgIGlmIHF1aWV0OgogICAgICAgIGZsYWdzLmFwcGVuZChfZmxhZygicXVpZXRfbWVtYmVyIiwgZiJObyBhbnN3ZXIgZnJvbSB7JywgJy5qb2luKHF1aWV0KX0iLCBtZW1iZXJzPXF1aWV0KSkKICAgIGlmIGZyYW1lLmNhcHBlZDoKICAgICAgICBmbGFncy5hcHBlbmQoCiAgICAgICAgICAgIF9mbGFnKCJmcmFtZV9jYXBfcmVhY2hlZCIsICJQb2ludHMgd2VyZSBzdGlsbCBiZWluZyBhZGRlZCB3aGVuIHRoZSByb3VuZHMgcmFuIG91dCIpCiAgICAgICAgKQogICAgaWYgbm90IGZyYW1lLnNpbWlsYXJpdHk6CiAgICAgICAgZmxhZ3MuYXBwZW5kKAogICAgICAgICAgICBfZmxhZygKICAgICAgICAgICAgICAgICJzaW1pbGFyaXR5X3VuYXZhaWxhYmxlIiwKICAgICAgICAgICAgICAgICJPbmx5IGlkZW50aWNhbCB3b3JkaW5nIHdhcyBtZXJnZWQ7IHNpbWlsYXIgcG9pbnRzIG1heSBiZSBsaXN0ZWQgdHdpY2UiLAogICAgICAgICAgICApCiAgICAgICAgKQogICAgcmV0dXJuIHsKICAgICAgICAidGFzayI6IHRhc2ssCiAgICAgICAgInRpdGxlIjogdGl0bGUsCiAgICAgICAgImFzayI6IGFzaywKICAgICAgICAiY2FzdCI6IGxpc3QoY2FzdCksCiAgICAgICAgInBvaW50cyI6IHBvaW50cywKICAgICAgICAiZ2xvc3NhcnkiOiBnbG9zc2FyeSwKICAgICAgICAiY2hlY2tzIjogW3sidGV4dCI6IGMudGV4dCwgImNvdmVycyI6IGMuY292ZXJzLCAib3duZXIiOiBjLm93bmVyfSBmb3IgYyBpbiBmcmFtZS5jaGVja3NdLAogICAgICAgICJ1bmNoZWNrZWQiOiB1bmNoZWNrZWQsCiAgICAgICAgImZsYWdzIjogZmxhZ3MsCiAgICB9CgoKZGVmIGNvdW50cyhtYWRlOiBkaWN0W3N0ciwgQW55XSkgLT4gZGljdFtzdHIsIEFueV06CiAgICAiIiJUaGUgbnVtYmVycyBhIHBlcnNvbiByZWFkcyBhYm91dCBhIGNvbnRyYWN0LCBhbmQgdGhlIGFwcCBkcmF3cy4iIiIKICAgIHBvaW50cyA9IG1hZGUuZ2V0KCJwb2ludHMiKSBvciBbXQogICAgcmV0dXJuIHsKICAgICAgICAicG9pbnRzIjogbGVuKHBvaW50cyksCiAgICAgICAgInNoYXJlZCI6IHN1bSgxIGZvciBwIGluIHBvaW50cyBpZiBwLmdldCgic3VwcG9ydCIsIDApID4gMSksCiAgICAgICAgImNvbnRlc3RlZCI6IHN1bSgxIGZvciBnIGluIG1hZGUuZ2V0KCJnbG9zc2FyeSIpIG9yIFtdIGlmIGcuZ2V0KCJzdGF0dXMiKSA9PSAiY29udGVzdGVkIiksCiAgICAgICAgImNoZWNrcyI6IGxlbihtYWRlLmdldCgiY2hlY2tzIikgb3IgW10pLAogICAgICAgICJmbGFnZ2VkIjogbGVuKG1hZGUuZ2V0KCJmbGFncyIpIG9yIFtdKSwKICAgICAgICAicXVpZXQiOiBuZXh0KAogICAgICAgICAgICAoZi5nZXQoIm1lbWJlcnMiLCBbXSkgZm9yIGYgaW4gbWFkZS5nZXQoImZsYWdzIikgb3IgW10gaWYgZlsia2luZCJdID09ICJxdWlldF9tZW1iZXIiKSwKICAgICAgICAgICAgW10sCiAgICAgICAgKSwKICAgIH0KCgpkZWYgcmVuZGVyKG1hZGU6IGRpY3Rbc3RyLCBBbnldKSAtPiBzdHI6CiAgICAiIiJUaGUgY29udHJhY3QgYXMgdGhlIG1hcmtkb3duIGEgcGVyc29uIHJlYWRzIGluIHRoZSBtZW1vcnkuIiIiCiAgICB0b3RhbCA9IGxlbihtYWRlLmdldCgiY2FzdCIpIG9yIFtdKQogICAgbGluZXMgPSBbZiIjIFNoYXJlZCBzdW1tYXJ5OiB7bWFkZS5nZXQoJ3RpdGxlJykgb3IgbWFkZS5nZXQoJ3Rhc2snKSBvciAndGhpcyB0YXNrJ30iLCAiIl0KICAgIGlmIG1hZGUuZ2V0KCJhc2siKToKICAgICAgICBsaW5lcyArPSBbZiJUaGUgYXNrOiB7bWFkZVsnYXNrJ119IiwgIiJdCiAgICBpZiBtYWRlLmdldCgiY2FzdCIpOgogICAgICAgIGxpbmVzICs9IFtmIldvcmtlZCBvdXQgYnkgeycsICcuam9pbihtYWRlWydjYXN0J10pfS4iLCAiIl0KICAgIHBvaW50cyA9IG1hZGUuZ2V0KCJwb2ludHMiKSBvciBbXQogICAgZm9yIGtpbmQgaW4gKCptYXJrZXJzLlBPSU5UX1RZUEVTLCBTVEFURU1FTlQpOgogICAgICAgIG1pbmUgPSBbcCBmb3IgcCBpbiBwb2ludHMgaWYgcFsidHlwZSJdID09IGtpbmRdCiAgICAgICAgaWYgbm90IG1pbmU6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbGluZXMgKz0gW2YiIyMge0hFQURJTkdTW2tpbmRdfSIsICIiXQogICAgICAgIGZvciBwIGluIG1pbmU6CiAgICAgICAgICAgIGJ5ID0gIiwgIi5qb2luKHBbImF1dGhvcnMiXSkKICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYiLSAqKntwWydpZCddfSoqIHtwWyd0ZXh0J119IChzdGF0ZWQgYnkge3BbJ3N1cHBvcnQnXX0gb2Yge3RvdGFsfToge2J5fSkiKQogICAgICAgIGxpbmVzLmFwcGVuZCgiIikKICAgIGdsb3NzYXJ5ID0gbWFkZS5nZXQoImdsb3NzYXJ5Iikgb3IgW10KICAgIGlmIGdsb3NzYXJ5OgogICAgICAgIGxpbmVzICs9IFsiIyMgV29yZHMiLCAiIl0KICAgICAgICBmb3IgZyBpbiBnbG9zc2FyeToKICAgICAgICAgICAgaWYgZ1sic3RhdHVzIl0gPT0gImFncmVlZCI6CiAgICAgICAgICAgICAgICAob25seSwpID0gZ1sibWVhbmluZ3MiXQogICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYiLSAqKntnWyd0ZXJtJ119Kio6IHtvbmx5Wyd0ZXh0J119ICh7JywgJy5qb2luKG9ubHlbJ21lbWJlcnMnXSl9KSIpCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiItICoqe2dbJ3Rlcm0nXX0qKiBpcyB1c2VkIGluIGRpZmZlcmVudCBzZW5zZXM6IikKICAgICAgICAgICAgbGluZXMgKz0gW2YiICAtIHsnLCAnLmpvaW4obVsnbWVtYmVycyddKX06IHttWyd0ZXh0J119IiBmb3IgbSBpbiBnWyJtZWFuaW5ncyJdXQogICAgICAgIGxpbmVzLmFwcGVuZCgiIikKICAgIGNoZWNrcyA9IG1hZGUuZ2V0KCJjaGVja3MiKSBvciBbXQogICAgaWYgY2hlY2tzOgogICAgICAgIGxpbmVzICs9IFsiIyMgSG93IHdlJ2xsIGNoZWNrIiwgIiJdCiAgICAgICAgZm9yIGMgaW4gY2hlY2tzOgogICAgICAgICAgICBjb3ZlcnMgPSBmIjsgY292ZXJzIHsnLCAnLmpvaW4oY1snY292ZXJzJ10pfSIgaWYgY1siY292ZXJzIl0gZWxzZSAiIgogICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiItIHtjWyd0ZXh0J119ICh7Y1snb3duZXInXX17Y292ZXJzfSkiKQogICAgICAgIGxpbmVzLmFwcGVuZCgiIikKICAgIGxpbmVzICs9IFsiIyMgT3BlbiBpdGVtcyIsICIiXQogICAgZmxhZ3MgPSBtYWRlLmdldCgiZmxhZ3MiKSBvciBbXQogICAgbGluZXMgKz0gW2YiLSB7ZlsndGV4dCddfSIgZm9yIGYgaW4gZmxhZ3NdIG9yIFsiLSBOb25lLiJdCiAgICByZXR1cm4gIlxuIi5qb2luKGxpbmVzKS5yc3RyaXAoKSArICJcbiIKCgpkZWYgZW1iZWRkaW5nX3NpbWlsYXJpdHkoKSAtPiBTaW1pbGFyIHwgTm9uZToKICAgICIiIlNpbWlsYXJpdHkgYnkgdGhlIGh1YidzIG93biBlbWJlZGRpbmcgbW9kZWwsIG9yIGBgTm9uZWBgIHdoZW4gaXQgaGFzIG5vbmUKICAgIHdvcnRoIHVzaW5nIChzdHViIHZlY3RvcnMgaW4gQ0kgc2F5IG5vdGhpbmcgYWJvdXQgbWVhbmluZykuIiIiCiAgICBmcm9tIGFwcC5zZXJ2aWNlcyBpbXBvcnQgZW1iZWRkaW5nCiAgICBmcm9tIGFwcC5zZXJ2aWNlcy5zZWFyY2hfaW5kZXggaW1wb3J0IGNvc2luZV9zaW1pbGFyaXR5CgogICAgaWYgZW1iZWRkaW5nLl9TVFVCOgogICAgICAgIHJldHVybiBOb25lCiAgICB2ZWN0b3JzOiBkaWN0W3N0ciwgbGlzdFtmbG9hdF1dID0ge30KCiAgICBkZWYgc2ltaWxhcihhOiBzdHIsIGI6IHN0cikgLT4gZmxvYXQ6CiAgICAgICAgZm9yIHRleHQgaW4gKGEsIGIpOgogICAgICAgICAgICBpZiB0ZXh0IG5vdCBpbiB2ZWN0b3JzOgogICAgICAgICAgICAgICAgdmVjdG9yc1t0ZXh0XSA9IGVtYmVkZGluZy5lbWJlZF90ZXh0KHRleHQpCiAgICAgICAgcmV0dXJuIGNvc2luZV9zaW1pbGFyaXR5KHZlY3RvcnNbYV0sIHZlY3RvcnNbYl0pCgogICAgcmV0dXJuIHNpbWlsYXIKCgpfSURfUkUgPSByZS5jb21waWxlKHIiXnBcZCskIikKCgpkZWYga25vd25fY292ZXJzKGZyYW1lOiBGcmFtZSkgLT4gTm9uZToKICAgICIiIkRyb3AgaWRzIGEgY2hlY2sgbmFtZXMgdGhhdCBhcmUgbm8gcG9pbnQgaW4gdGhlIGZyYW1lLCBzbyBjb3ZlcmFnZSBpcyBuZXZlcgogICAgY2xhaW1lZCBmb3Igc29tZXRoaW5nIHRoYXQgZG9lcyBub3QgZXhpc3QuIiIiCiAgICBpZHMgPSB7cC5pZCBmb3IgcCBpbiBmcmFtZS5wb2ludHN9CiAgICBmb3IgY2hlY2sgaW4gZnJhbWUuY2hlY2tzOgogICAgICAgIGNoZWNrLmNvdmVycyA9IFtjIGZvciBjIGluIGNoZWNrLmNvdmVycyBpZiBfSURfUkUubWF0Y2goYykgYW5kIGMgaW4gaWRzXQo=
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 Mycelium Contributors
+
+"""The shared frame a team builds before work starts, merged in code.
+
+Members write what they understand a task to be, and label it with markers
+(:mod:`app.services.markers`): points, the meaning of a word, how a point
+would be checked. This module folds those labelled pieces into one frame for
+the conductor, with no model and no vote:
+
+- **Points fold** when they are the same type and say the same thing: equal
+  text, or close enough by the hub's embedding model when it is there. Each
+  point keeps who stated it. Nothing is dropped, averaged or rewritten.
+- **Problems are flagged, never resolved.** A point only one member stated, two
+  members saying different things about the same subject, a word used in
+  different senses, a point nothing checks, a member who never answered.
+- **The result is a contract**: one dict a memory can carry in frontmatter and
+  a person can read rendered as markdown (:func:`render`).
+
+Same replies in the same cast order give the same frame, ids and flags. The
+similarity function is passed in, so tests never depend on the real model,
+and a failing one falls back to equal text for the rest of the run.
+"""
+
+from __future__ import annotations
+
+import logging
+import re
+from collections.abc import Callable
+from dataclasses import dataclass, field
+from typing import Any
+
+from app.services import markers
+from app.services.turns import neutralize_mentions
+
+logger = logging.getLogger(__name__)
+
+#: ``similar(a, b)`` → cosine similarity, -1..1. May raise; a raise means
+#: similarity is unavailable for the rest of the run.
+Similar = Callable[[str, str], float]
+
+#: How alike two texts must be to count as one, by embedding. Deliberately
+#: high: folding two different points into one hides a disagreement, while
+#: leaving a near-duplicate unfolded costs one extra line.
+SIMILARITY_THRESHOLD = 0.92
+
+#: Bounds on what one run keeps. Over a bound is dropped with a note.
+PER_REPLY = 12
+ITEM_CHARS = 600
+PER_RUN = 80
+
+#: A reply with text and no label, kept whole so it is never lost.
+STATEMENT = "statement"
+
+#: Point types a check is expected to cover.
+CHECKABLE = ("objective", "constraint", "deliverable")
+
+#: How each kind of point is headed when the frame is shown to people.
+HEADINGS = {
+    "objective": "What it's for",
+    "constraint": "Constraints",
+    "assumption": "Assumptions",
+    "sub_goal": "Parts of the work",
+    "deliverable": "What gets delivered",
+    "out_of_scope": "Out of scope",
+    STATEMENT: "Said without a label",
+}
+
+
+def _norm(text: str) -> str:
+    return " ".join(text.split()).casefold()
+
+
+def _clean(text: str) -> str:
+    """Text as it is stored: no marker of its own, no mention that would summon."""
+    return markers.defang(neutralize_mentions(text.strip()))
+
+
+@dataclass
+class Point:
+    id: str
+    type: str
+    text: str
+    authors: list[str]
+    about: str = ""
+
+    @property
+    def support(self) -> int:
+        return len(self.authors)
+
+
+@dataclass
+class Check:
+    text: str
+    covers: list[str]
+    owner: str
+
+
+@dataclass
+class Frame:
+    """What a run has gathered so far."""
+
+    points: list[Point] = field(default_factory=list)
+    #: normalised word → (the word as first written, {member: meaning}). A
+    #: member's later meaning for a word replaces its earlier one.
+    terms: dict[str, tuple[str, dict[str, str]]] = field(default_factory=dict)
+    checks: list[Check] = field(default_factory=list)
+    #: Members who answered any step that gathers pieces.
+    answered: set[str] = field(default_factory=set)
+    #: ``False`` once similarity failed or was never there: equal text only.
+    similarity: bool = True
+    #: The frame-round cap was reached while points were still being added.
+    capped: bool = False
+    #: Pairs already compared, so a round never asks the model twice.
+    _seen: dict[tuple[str, str], float] = field(default_factory=dict)
+
+    def items(self) -> int:
+        return (
+            len(self.points)
+            + sum(len(meanings) for _w, meanings in self.terms.values())
+            + len(self.checks)
+        )
+
+    def alike(self, a: str, b: str, similar: Similar | None) -> bool:
+        """Whether two texts say the same thing: equal, or similar enough."""
+        if _norm(a) == _norm(b):
+            return True
+        if similar is None or not self.similarity:
+            return False
+        pair = (a, b) if a <= b else (b, a)
+        if pair not in self._seen:
+            try:
+                self._seen[pair] = float(similar(*pair))
+            except Exception:
+                logger.warning("similarity unavailable; folding equal text only", exc_info=True)
+                self.similarity = False
+                return False
+        return self._seen[pair] >= SIMILARITY_THRESHOLD
+
+
+@dataclass
+class Folded:
+    """What one round added, and anything a bound dropped."""
+
+    added: list[str] = field(default_factory=list)
+    notes: list[str] = field(default_factory=list)
+    #: Members whose reply carried at least one labelled piece.
+    labelled: set[str] = field(default_factory=set)
+
+
+def _cut(text: str, who: str, notes: list[str]) -> str:
+    if len(text) <= ITEM_CHARS:
+        return text
+    notes.append(f"Cut a point from {who} to {ITEM_CHARS} characters.")
+    return text[:ITEM_CHARS].rstrip() + "…"
+
+
+def _add_point(
+    frame: Frame, kind: str, text: str, about: str, who: str, similar: Similar | None
+) -> str | None:
+    """Fold one point in; the new point's id, or ``None`` when it joined one."""
+    for point in frame.points:
+        if point.type == kind and frame.alike(point.text, text, similar):
+            if who not in point.authors:
+                point.authors.append(who)
+            if about and not point.about:
+                point.about = about
+            return None
+    point = Point(id=f"p{len(frame.points) + 1}", type=kind, text=text, authors=[who], about=about)
+    frame.points.append(point)
+    return point.id
+
+
+def fold(
+    frame: Frame,
+    replies: list[tuple[str, list[dict[str, Any]]]],
+    *,
+    similar: Similar | None,
+) -> Folded:
+    """Fold each member's labelled pieces into the frame, in the order given
+    (the conductor gives cast order, whatever order the replies arrived in)."""
+    out = Folded()
+    for who, pieces in replies:
+        frame.answered.add(who)
+        if pieces:
+            out.labelled.add(who)
+        if len(pieces) > PER_REPLY:
+            out.notes.append(
+                f"Kept the first {PER_REPLY} of {len(pieces)} labelled pieces from {who}."
+            )
+            pieces = pieces[:PER_REPLY]
+        for piece in pieces:
+            if frame.items() >= PER_RUN:
+                out.notes.append(f"This run keeps {PER_RUN} pieces; dropped the rest from {who}.")
+                break
+            text = _cut(_clean(piece["text"]), who, out.notes)
+            label = piece["label"]
+            if label == "term":
+                word = _clean(piece["term"])
+                shown, meanings = frame.terms.get(_norm(word), (word, {}))
+                meanings[who] = text
+                frame.terms[_norm(word)] = (shown, meanings)
+            elif label == "check":
+                if not any(_norm(c.text) == _norm(text) for c in frame.checks):
+                    frame.checks.append(Check(text=text, covers=list(piece["covers"]), owner=who))
+            else:
+                about = _clean(piece.get("about") or "")
+                added = _add_point(frame, label, text, about, who, similar)
+                if added:
+                    out.added.append(added)
+    return out
+
+
+def add_statement(frame: Frame, who: str, text: str, *, similar: Similar | None) -> Folded:
+    """Keep a reply that carried no label as one unlabelled statement by ``who``."""
+    out = Folded()
+    text = _cut(_clean(text), who, out.notes)
+    if text and frame.items() < PER_RUN:
+        added = _add_point(frame, STATEMENT, text, "", who, similar)
+        if added:
+            out.added.append(added)
+    return out
+
+
+# ── the words ────────────────────────────────────────────────────────────────
+
+
+def senses(frame: Frame, word: str, similar: Similar | None) -> list[tuple[str, list[str]]]:
+    """A word's meanings grouped by sense: ``[(meaning, [members])]``, in cast
+    order of first use. More than one group means the word is contested."""
+    _shown, meanings = frame.terms[word]
+    groups: list[tuple[str, list[str]]] = []
+    for who, meaning in meanings.items():
+        for text, members in groups:
+            if frame.alike(text, meaning, similar):
+                members.append(who)
+                break
+        else:
+            groups.append((meaning, [who]))
+    return groups
+
+
+def contested(frame: Frame, similar: Similar | None) -> list[str]:
+    """The words members are using in different senses, in the order first written."""
+    return [word for word in frame.terms if len(senses(frame, word, similar)) > 1]
+
+
+def contested_members(frame: Frame, cast: list[str], similar: Similar | None) -> list[str]:
+    """Everyone who gave a meaning to a contested word, in cast order."""
+    involved = {who for word in contested(frame, similar) for who in frame.terms[word][1]}
+    return [h for h in cast if h in involved]
+
+
+# ── what the prompts show ─────────────────────────────────────────────────────
+
+
+def show_points(frame: Frame, cast: list[str]) -> str:
+    if not frame.points:
+        return "(nothing yet)"
+    total = len(cast)
+    return "\n".join(
+        f"{p.id} ({p.type.replace('_', ' ')}, stated by {p.support} of {total}): {p.text}"
+        for p in frame.points
+    )
+
+
+def show_terms(frame: Frame, similar: Similar | None) -> str:
+    if not frame.terms:
+        return "(no words defined yet)"
+    lines = []
+    for word, (shown, _meanings) in frame.terms.items():
+        groups = senses(frame, word, similar)
+        if len(groups) == 1:
+            lines.append(f"{shown}: {groups[0][0]} ({', '.join(groups[0][1])})")
+            continue
+        lines.append(f"{shown} is used in different senses:")
+        lines += [f"  {', '.join(members)}: {text}" for text, members in groups]
+    return "\n".join(lines)
+
+
+def show_checks(frame: Frame) -> str:
+    if not frame.checks:
+        return "(no checks yet)"
+    return "\n".join(
+        f"{c.text} ({c.owner}{'; covers ' + ', '.join(c.covers) if c.covers else ''})"
+        for c in frame.checks
+    )
+
+
+# ── the contract ──────────────────────────────────────────────────────────────
+
+
+def _flag(kind: str, text: str, **about: Any) -> dict[str, Any]:
+    return {"kind": kind, "text": text, **about}
+
+
+#: How many point ids an open item names before it gives a count instead. An
+#: open item is one line a person reads, so a run where most points were stated
+#: once says that once rather than once per point.
+LISTED = 8
+
+
+def _ids(ids: list[str]) -> str:
+    return (
+        ", ".join(ids)
+        if len(ids) <= LISTED
+        else f"{', '.join(ids[:LISTED])} and {len(ids) - LISTED} more"
+    )
+
+
+def contract(
+    frame: Frame,
+    *,
+    cast: list[str],
+    ask: str,
+    task: str,
+    title: str,
+    similar: Similar | None,
+) -> dict[str, Any]:
+    """Everything the frame holds, with every problem flagged, as plain data."""
+    total = len(cast)
+    flags: list[dict[str, Any]] = []
+    by_about: dict[tuple[str, str], list[Point]] = {}
+    for p in frame.points:
+        if p.about:
+            by_about.setdefault((p.type, _norm(p.about)), []).append(p)
+    # Different things said about one subject, by more than one person: one
+    # person's two points about pricing are detail, not a disagreement.
+    clashes = [
+        group
+        for group in by_about.values()
+        if len(group) > 1 and len({a for p in group for a in p.authors}) > 1
+    ]
+    conflicting = {p.id for group in clashes for p in group}
+    covered = {pid for c in frame.checks for pid in c.covers}
+    unchecked = [p.id for p in frame.points if p.type in CHECKABLE and p.id not in covered]
+    single = [p.id for p in frame.points if p.support == 1 and total > 1]
+    if single:
+        text = (
+            f"Every point was stated by only one person ({len(single)} points)"
+            if len(single) == len(frame.points) and len(single) > 1
+            else f"Only one person said this: {_ids(single)}"
+        )
+        flags.append(_flag("single", text, points=single))
+
+    points = []
+    for p in frame.points:
+        mine = []
+        if p.id in single:
+            mine.append("single")
+        if p.id in conflicting:
+            mine.append("conflict")
+        if p.id in unchecked:
+            mine.append("unchecked")
+        entry: dict[str, Any] = {
+            "id": p.id,
+            "type": p.type,
+            "text": p.text,
+            "support": p.support,
+            "authors": list(p.authors),
+            "flags": mine,
+        }
+        if p.about:
+            entry["about"] = p.about
+        points.append(entry)
+    for group in clashes:
+        flags.append(
+            _flag(
+                "conflict",
+                f"People said different things about {group[0].about}: "
+                f"{_ids([p.id for p in group])}",
+                points=[p.id for p in group],
+            )
+        )
+
+    glossary = []
+    for word, (shown, _meanings) in frame.terms.items():
+        groups = senses(frame, word, similar)
+        status = "agreed" if len(groups) == 1 else "contested"
+        glossary.append(
+            {
+                "term": shown,
+                "status": status,
+                "meanings": [{"text": text, "members": members} for text, members in groups],
+            }
+        )
+        if status == "contested":
+            flags.append(
+                _flag("ambiguous", f"A word used in different senses: {shown}", term=shown)
+            )
+
+    if unchecked:
+        flags.append(
+            _flag(
+                "unchecked",
+                f"Nothing checks this yet: {_ids(unchecked)}",
+                points=unchecked,
+            )
+        )
+    quiet = [h for h in cast if h not in frame.answered]
+    if quiet:
+        flags.append(_flag("quiet_member", f"No answer from {', '.join(quiet)}", members=quiet))
+    if frame.capped:
+        flags.append(
+            _flag("frame_cap_reached", "Points were still being added when the rounds ran out")
+        )
+    if not frame.similarity:
+        flags.append(
+            _flag(
+                "similarity_unavailable",
+                "Only identical wording was merged; similar points may be listed twice",
+            )
+        )
+    return {
+        "task": task,
+        "title": title,
+        "ask": ask,
+        "cast": list(cast),
+        "points": points,
+        "glossary": glossary,
+        "checks": [{"text": c.text, "covers": c.covers, "owner": c.owner} for c in frame.checks],
+        "unchecked": unchecked,
+        "flags": flags,
+    }
+
+
+def counts(made: dict[str, Any]) -> dict[str, Any]:
+    """The numbers a person reads about a contract, and the app draws."""
+    points = made.get("points") or []
+    return {
+        "points": len(points),
+        "shared": sum(1 for p in points if p.get("support", 0) > 1),
+        "contested": sum(1 for g in made.get("glossary") or [] if g.get("status") == "contested"),
+        "checks": len(made.get("checks") or []),
+        "flagged": len(made.get("flags") or []),
+        "quiet": next(
+            (f.get("members", []) for f in made.get("flags") or [] if f["kind"] == "quiet_member"),
+            [],
+        ),
+    }
+
+
+def render(made: dict[str, Any]) -> str:
+    """The contract as the markdown a person reads in the memory."""
+    total = len(made.get("cast") or [])
+    lines = [f"# Shared summary: {made.get('title') or made.get('task') or 'this task'}", ""]
+    if made.get("ask"):
+        lines += [f"The ask: {made['ask']}", ""]
+    if made.get("cast"):
+        lines += [f"Worked out by {', '.join(made['cast'])}.", ""]
+    points = made.get("points") or []
+    for kind in (*markers.POINT_TYPES, STATEMENT):
+        mine = [p for p in points if p["type"] == kind]
+        if not mine:
+            continue
+        lines += [f"## {HEADINGS[kind]}", ""]
+        for p in mine:
+            by = ", ".join(p["authors"])
+            lines.append(f"- **{p['id']}** {p['text']} (stated by {p['support']} of {total}: {by})")
+        lines.append("")
+    glossary = made.get("glossary") or []
+    if glossary:
+        lines += ["## Words", ""]
+        for g in glossary:
+            if g["status"] == "agreed":
+                (only,) = g["meanings"]
+                lines.append(f"- **{g['term']}**: {only['text']} ({', '.join(only['members'])})")
+                continue
+            lines.append(f"- **{g['term']}** is used in different senses:")
+            lines += [f"  - {', '.join(m['members'])}: {m['text']}" for m in g["meanings"]]
+        lines.append("")
+    checks = made.get("checks") or []
+    if checks:
+        lines += ["## How we'll check", ""]
+        for c in checks:
+            covers = f"; covers {', '.join(c['covers'])}" if c["covers"] else ""
+            lines.append(f"- {c['text']} ({c['owner']}{covers})")
+        lines.append("")
+    lines += ["## Open items", ""]
+    flags = made.get("flags") or []
+    lines += [f"- {f['text']}" for f in flags] or ["- None."]
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def embedding_similarity() -> Similar | None:
+    """Similarity by the hub's own embedding model, or ``None`` when it has none
+    worth using (stub vectors in CI say nothing about meaning)."""
+    from app.services import embedding
+    from app.services.search_index import cosine_similarity
+
+    if embedding._STUB:
+        return None
+    vectors: dict[str, list[float]] = {}
+
+    def similar(a: str, b: str) -> float:
+        for text in (a, b):
+            if text not in vectors:
+                vectors[text] = embedding.embed_text(text)
+        return cosine_similarity(vectors[a], vectors[b])
+
+    return similar
+
+
+_ID_RE = re.compile(r"^p\d+$")
+
+
+def known_covers(frame: Frame) -> None:
+    """Drop ids a check names that are no point in the frame, so coverage is never
+    claimed for something that does not exist."""
+    ids = {p.id for p in frame.points}
+    for check in frame.checks:
+        check.covers = [c for c in check.covers if _ID_RE.match(c) and c in ids]

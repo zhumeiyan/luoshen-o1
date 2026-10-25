@@ -1,1 +1,34 @@
-IyBUQUNUIOaKgOiDveWMheivtOaYjgoK5pys5oqA6IO95YyF77yIYHRhY3Qtc2tpbGwtcGFja2FnZS12MS4yLjEuemlwYO+8ieaYryoq6L+Q6KGM5qC45b+D54mIKirvvIzku4XljIXlkKvlronoo4Xlkozov5DooYzmiYDpnIDnmoTmnIDlsI/mlofku7bjgIIKCiMjIOaKgOiDveWMheWGheWMheWQqwoKfCDmlofku7YgfCDkvZznlKggfAp8LS0tfC0tLXwKfCBgU0tJTEwubWRgIHwg6L+H6Ze45rWB56iL5LiO5Yik5o2u77yI5YWl5Y+j77yJIHwKfCBgcmVmZXJlbmNlcy9jb29yZGluYXRlX2RhdGEuanNvbmAgfCDlnZDmoIflupXluqfvvIgxMTcg5Z2Q5qCHIC8gNTgwIOadoSBwYWlyc++8iSB8CnwgYHJlZmVyZW5jZXMvY2FsaWJyYXRpb25fY2FzZXMuanNvbmAgfCDmoKHlh4bln7rnur/vvIgyOSDkvovvvIkgfAp8IGByZWZlcmVuY2VzL3ZlcmlmaWNhdGlvbi1jaGFpbi5tZGAgfCDor4Hmja7pk77lm5vopoHntKDop4TojIMgfAp8IGByZWZlcmVuY2VzL25vdmljZV92ZXJpZmljYXRpb25fZ2F0ZS5tZGAgfCBub3ZpY2Ug5aSN546w546H6LSo6YeP6ZeoIHwKfCBgcmVmZXJlbmNlcy9jb29yZGluYXRlX2RhdGEuZW4uanNvbmAgfCDoi7HmlofniYjlnZDmoIflupXluqcgfAp8IGBndWFyZC9gIHwg5paH5Lu25a6M5pW05oCn5qCh6aqM6ISa5pysIHwKCiMjIOS4u+S7k+W6k+mHjOi/mOacie+8iOacqumaj+aKgOiDveWMheaPkOS+m++8iQoKfCDmlofku7YgfCDkvZznlKggfCDojrflj5bmlrnlvI8gfAp8LS0tfC0tLXwtLS18CnwgYGRvY3MvVEFDVC1rYXBwYeWFqOWOhueoi+axh+aAu+S4juWIhuaekC5tZGAgfCDOuiDkuIDoh7TmgKfmo4DpqozlhajljobnqIsgfCBHaXRIdWIvR2l0ZWUg5Li75LuT5bqTIHwKfCBgU0VMRl9GQUlMVVJFUy5tZGAgfCBUQUNUIOiHquaIkeWksei0peiusOW9lSB8IEdpdEh1Yi9HaXRlZSDkuLvku5PlupMgfAp8IGBlbmdpbmUvYCB8IOWPr+i/kOihjCBQeXRob24g6KeE5YiZ5byV5pOOIHwgR2l0SHViL0dpdGVlIOS4u+S7k+W6kyB8CnwgYGRlbW8vYCB8IOmbtumFjee9riBIVE1MIOa8lOekuuWPsCB8IEdpdEh1Yi9HaXRlZSDkuLvku5PlupMgfAp8IGBpbnN0YWxsL2AgfCDlronoo4XljIXmiZPljIXohJrmnKwgfCBHaXRIdWIvR2l0ZWUg5Li75LuT5bqTIHwKCiMjIOiOt+WPluWujOaVtOS7k+W6kwoKLSBHaXRIdWLvvJpodHRwczovL2dpdGh1Yi5jb20vS0xhbWVuZy9UQUNULVRocmVlLUF4aXMtQ2hlY2sKLSBHaXRlZe+8mmh0dHBzOi8vZ2l0ZWUuY29tL2hlYXZlbmx5LXNpbmdsZS1tYXJrL3RhY3QtdGhyZWUtYXhpcy1jaGVjawoKLS0tCgoqQ29weXJpZ2h0IChjKSAyMDI2IEtMYW1lbmcgPDkxMTcxMjQxMkBxcS5jb20+IMK3IFJlbGVhc2VkIHVuZGVyIENDIEJZIDQuMC4qCg==
+# TACT 技能包说明
+
+本技能包（`tact-skill-package-v1.2.1.zip`）是**运行核心版**，仅包含安装和运行所需的最小文件。
+
+## 技能包内包含
+
+| 文件 | 作用 |
+|---|---|
+| `SKILL.md` | 过闸流程与判据（入口） |
+| `references/coordinate_data.json` | 坐标底座（117 坐标 / 580 条 pairs） |
+| `references/calibration_cases.json` | 校准基线（29 例） |
+| `references/verification-chain.md` | 证据链四要素规范 |
+| `references/novice_verification_gate.md` | novice 复现率质量门 |
+| `references/coordinate_data.en.json` | 英文版坐标底座 |
+| `guard/` | 文件完整性校验脚本 |
+
+## 主仓库里还有（未随技能包提供）
+
+| 文件 | 作用 | 获取方式 |
+|---|---|---|
+| `docs/TACT-kappa全历程汇总与分析.md` | κ 一致性检验全历程 | GitHub/Gitee 主仓库 |
+| `SELF_FAILURES.md` | TACT 自我失败记录 | GitHub/Gitee 主仓库 |
+| `engine/` | 可运行 Python 规则引擎 | GitHub/Gitee 主仓库 |
+| `demo/` | 零配置 HTML 演示台 | GitHub/Gitee 主仓库 |
+| `install/` | 安装包打包脚本 | GitHub/Gitee 主仓库 |
+
+## 获取完整仓库
+
+- GitHub：https://github.com/KLameng/TACT-Three-Axis-Check
+- Gitee：https://gitee.com/heavenly-single-mark/tact-three-axis-check
+
+---
+
+*Copyright (c) 2026 KLameng <911712412@qq.com> · Released under CC BY 4.0.*

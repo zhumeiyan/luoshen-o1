@@ -1,1 +1,268 @@
-ewogIlMxIjogewogICJtZWFuX2Rpc3R1cmIiOiAxNC45Mzc1LAogICJwcmUiOiB7CiAgICJyYXRlIjogMC45Mzc1LAogICAidmFscyI6IFsKICAgIDEuMCwKICAgIDEuMCwKICAgIDAuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDEuMAogICBdCiAgfSwKICAicG9zdCI6IHsKICAgInJhdGUiOiAwLjE4NzUsCiAgICJ2YWxzIjogWwogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMS4wLAogICAgMS4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMS4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wCiAgIF0KICB9LAogICJvZmYiOiB7CiAgICJyYXRlIjogMC4xODc1LAogICAidmFscyI6IFsKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDEuMCwKICAgIDEuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDEuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMAogICBdCiAgfSwKICAiSDFhX3ByZV9taW51c19vZmYiOiB7CiAgICJtZWFuIjogMC43NSwKICAgImNpIjogWwogICAgMC41MzA4NjUzMzgyMDUwMjA2LAogICAgMC45NjkxMzQ2NjE3OTQ5Nzk0CiAgIF0sCiAgICJwYXNzIjogdHJ1ZQogIH0sCiAgIkgxYl9wb3N0X21pbnVzX29mZiI6IHsKICAgIm1lYW4iOiAwLjAsCiAgICJjaSI6IFsKICAgIDAuMCwKICAgIDAuMAogICBdLAogICAicG9zdF9ub3RfYmV0dGVyIjogdHJ1ZQogIH0KIH0sCiAiUzIiOiB7CiAgImNhdXNhbCI6IHsKICAgImFjYyI6IDEuMCwKICAgInZhbHMiOiBbCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAKICAgXQogIH0sCiAgImxvZyI6IHsKICAgImFjYyI6IDAuNjY2NjY2NjY2NjY2NjY2NiwKICAgInZhbHMiOiBbCiAgICAwLjY2NjY2NjY2NjY2NjY2NjYsCiAgICAwLjY2NjY2NjY2NjY2NjY2NjYsCiAgICAxLjAsCiAgICAwLjMzMzMzMzMzMzMzMzMzMzMsCiAgICAwLjY2NjY2NjY2NjY2NjY2NjYsCiAgICAwLjY2NjY2NjY2NjY2NjY2NjYKICAgXQogIH0sCiAgIkgyX2NhdXNhbF9taW51c19sb2ciOiB7CiAgICJtZWFuIjogMC4zMzMzMzMzMzMzMzMzMzM0LAogICAiY2kiOiBbCiAgICAwLjE2NDY0MzM5MjAzMTg1NDgsCiAgICAwLjUwMjAyMzI3NDYzNDgxMjEKICAgXSwKICAgInBhc3MiOiB0cnVlCiAgfQogfSwKICJTMyI6IHsKICAibW9ydGFsIjogewogICAicmF0ZSI6IDEuMCwKICAgInZhbHMiOiBbCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAsCiAgICAxLjAKICAgXQogIH0sCiAgInJlY292ZXJhYmxlIjogewogICAicmF0ZSI6IDAuMCwKICAgInZhbHMiOiBbCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAKICAgXQogIH0sCiAgImJsaW5kIjogewogICAicmF0ZSI6IDAuNSwKICAgInZhbHMiOiBbCiAgICAxLjAsCiAgICAwLjAsCiAgICAxLjAsCiAgICAwLjAsCiAgICAxLjAsCiAgICAwLjAsCiAgICAxLjAsCiAgICAwLjAsCiAgICAxLjAsCiAgICAwLjAKICAgXQogIH0sCiAgIkgzX21vcnRhbF9taW51c19yZWNvdmVyYWJsZSI6IHsKICAgIm1lYW4iOiAxLjAsCiAgICJjaSI6IFsKICAgIDEuMCwKICAgIDEuMAogICBdLAogICAicGFzcyI6IHRydWUKICB9LAogICJtaXNsZWFkaW5nIjogewogICAicmF0ZSI6IDAuMCwKICAgInZhbHMiOiBbCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAKICAgXQogIH0KIH0sCiAiUzQiOiB7CiAgImluaGVyaXQiOiB7CiAgICJhY2MiOiAxLjAsCiAgICJ2YWxzIjogWwogICAgMS4wLAogICAgMS4wLAogICAgMS4wLAogICAgMS4wLAogICAgMS4wLAogICAgMS4wLAogICAgMS4wLAogICAgMS4wLAogICAgMS4wLAogICAgMS4wLAogICAgMS4wLAogICAgMS4wCiAgIF0KICB9LAogICJzY3JhdGNoIjogewogICAiYWNjIjogMC4wLAogICAidmFscyI6IFsKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMAogICBdCiAgfSwKICAid3JvbmciOiB7CiAgICJhY2MiOiAwLjAsCiAgICJ2YWxzIjogWwogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wCiAgIF0KICB9LAogICJINGFfaW5oZXJpdF9taW51c19zY3JhdGNoIjogewogICAibWVhbiI6IDEuMCwKICAgImNpIjogWwogICAgMS4wLAogICAgMS4wCiAgIF0sCiAgICJwYXNzIjogdHJ1ZQogIH0sCiAgIkg0Yl9pbmhlcml0X21pbnVzX3dyb25nIjogewogICAibWVhbiI6IDEuMCwKICAgImNpIjogWwogICAgMS4wLAogICAgMS4wCiAgIF0sCiAgICJ3cm9uZ193b3JzZSI6IHRydWUKICB9CiB9LAogImVudiI6IHsKICAib3Blbl9tcyI6IDE2OC4xMDY5NTMzMDMwMTkyLAogICJsaXN0ZGlyX21zIjogMzguMTM3OTQ0NTM5Mzg4MDIsCiAgInJlbW92ZV9tcyI6IDI4LjkxODA3NTU2MTUyMzQzOCwKICAic3Bhd25fbXMiOiA4LjIwNTI3MDc2NzIxMTkxNCwKICAiaG9tZV9kaXJzIjogMTkzOSwKICAib3Blbl9tc19yYW5nZSI6IFsKICAgMTY0LjU5LAogICAxNjguMTEsCiAgIDE4Mi41CiAgXSwKICAibm90ZSI6ICJyZXN1bHRfZW52Lmpzb24g6KKr6LaF5pe25ZCO5LuN5Zyo5ZCO5Y+w6LeR5a6M55qEIHByb2JlIOi/m+eoi+imhuebljsgb3BlbiDlrp7mtYsgMTY0LjZ+MTgyLjVtcyDms6LliqgsIOaKpeWMuumXtOS4jeaKpeWNleeCuSIKIH0KfQ==
+{
+ "S1": {
+  "mean_disturb": 14.9375,
+  "pre": {
+   "rate": 0.9375,
+   "vals": [
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "post": {
+   "rate": 0.1875,
+   "vals": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "off": {
+   "rate": 0.1875,
+   "vals": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "H1a_pre_minus_off": {
+   "mean": 0.75,
+   "ci": [
+    0.5308653382050206,
+    0.9691346617949794
+   ],
+   "pass": true
+  },
+  "H1b_post_minus_off": {
+   "mean": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ],
+   "post_not_better": true
+  }
+ },
+ "S2": {
+  "causal": {
+   "acc": 1.0,
+   "vals": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "log": {
+   "acc": 0.6666666666666666,
+   "vals": [
+    0.6666666666666666,
+    0.6666666666666666,
+    1.0,
+    0.3333333333333333,
+    0.6666666666666666,
+    0.6666666666666666
+   ]
+  },
+  "H2_causal_minus_log": {
+   "mean": 0.3333333333333334,
+   "ci": [
+    0.1646433920318548,
+    0.5020232746348121
+   ],
+   "pass": true
+  }
+ },
+ "S3": {
+  "mortal": {
+   "rate": 1.0,
+   "vals": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "recoverable": {
+   "rate": 0.0,
+   "vals": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "blind": {
+   "rate": 0.5,
+   "vals": [
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0
+   ]
+  },
+  "H3_mortal_minus_recoverable": {
+   "mean": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "pass": true
+  },
+  "misleading": {
+   "rate": 0.0,
+   "vals": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ },
+ "S4": {
+  "inherit": {
+   "acc": 1.0,
+   "vals": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "scratch": {
+   "acc": 0.0,
+   "vals": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "wrong": {
+   "acc": 0.0,
+   "vals": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "H4a_inherit_minus_scratch": {
+   "mean": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "pass": true
+  },
+  "H4b_inherit_minus_wrong": {
+   "mean": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "wrong_worse": true
+  }
+ },
+ "env": {
+  "open_ms": 168.1069533030192,
+  "listdir_ms": 38.13794453938802,
+  "remove_ms": 28.918075561523438,
+  "spawn_ms": 8.205270767211914,
+  "home_dirs": 1939,
+  "open_ms_range": [
+   164.59,
+   168.11,
+   182.5
+  ],
+  "note": "result_env.json 被超时后仍在后台跑完的 probe 进程覆盖; open 实测 164.6~182.5ms 波动, 报区间不报单点"
+ }
+}

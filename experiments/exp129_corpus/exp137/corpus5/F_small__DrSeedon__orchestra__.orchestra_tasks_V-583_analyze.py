@@ -1,1 +1,87 @@
-IiIiVi01ODM6IHR1cm4gYSByYXcgQ0RQIGNhcHR1cmUgaW50byBwZXItcGhhc2UgcmVxdWVzdCB0YWJsZXMuIiIiCgppbXBvcnQganNvbgppbXBvcnQgc3lzCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CgoKZGVmIHNob3J0KHVybCk6CiAgICByZXR1cm4gdXJsLnJlcGxhY2UoImh0dHA6Ly8xMjcuMC4wLjE6ODg4OCIsICIiKQoKCmRlZiBsb2FkKHBhdGgpOgogICAgZCA9IGpzb24ubG9hZChvcGVuKHBhdGgpKQogICAgcm93cyA9IFtdCiAgICBmb3IgciBpbiBkWyJyZXF1ZXN0cyJdOgogICAgICAgIGlmIG5vdCByLmdldCgidXJsIik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgY2h1bmtzID0gci5nZXQoImNodW5rcyIpIG9yIFtdCiAgICAgICAgZW5jID0gci5nZXQoImVuY29kZWRfdG90YWwiKQogICAgICAgIGlmIG5vdCBlbmM6CiAgICAgICAgICAgICMgU3RyZWFtaW5nIHJlc3BvbnNlcyAoRXZlbnRTb3VyY2UpIHJlcG9ydCBlbmNvZGVkRGF0YUxlbmd0aD0wIHBlciBjaHVuazsKICAgICAgICAgICAgIyBvbmx5IGRhdGFMZW5ndGggaXMgYXZhaWxhYmxlLCBzbyB3aXJlIGJ5dGVzIOKJiCBoZWFkZXJzICsgZGVjb2RlZCBib2R5LgogICAgICAgICAgICBlbmMgPSByLmdldCgiaGVhZGVyc19ieXRlcyIsIDApICsgc3VtKGNbMl0gZm9yIGMgaW4gY2h1bmtzKQogICAgICAgIHN0YXJ0ID0gci5nZXQoInN0YXJ0IikKICAgICAgICBmaW4gPSByLmdldCgiZmluaXNoIikgb3IgKGNodW5rc1stMV1bMF0gaWYgY2h1bmtzIGVsc2Ugci5nZXQoInJlc3BvbnNlX2F0IikpCiAgICAgICAgZHVyID0gKGZpbiAtIHN0YXJ0KSAqIDEwMDAgaWYgKHN0YXJ0IGFuZCBmaW4pIGVsc2UgTm9uZQogICAgICAgIHJvd3MuYXBwZW5kKHsKICAgICAgICAgICAgInBoYXNlIjogci5nZXQoInBoYXNlIiwgIj8iKSwKICAgICAgICAgICAgIm1ldGhvZCI6IHIuZ2V0KCJtZXRob2QiLCAiPyIpLAogICAgICAgICAgICAidXJsIjogc2hvcnQoclsidXJsIl0pLAogICAgICAgICAgICAic3RhdHVzIjogci5nZXQoInN0YXR1cyIpLAogICAgICAgICAgICAiYnl0ZXMiOiBlbmMsCiAgICAgICAgICAgICJib2R5X2J5dGVzIjogc3VtKGNbMl0gZm9yIGMgaW4gY2h1bmtzKSwKICAgICAgICAgICAgIm1zIjogZHVyLAogICAgICAgICAgICAic3RhcnQiOiBzdGFydCwKICAgICAgICAgICAgImNhY2hlIjogYm9vbChyLmdldCgiZnJvbV9kaXNrX2NhY2hlIikgb3Igci5nZXQoInNlcnZlZF9mcm9tX21lbW9yeV9jYWNoZSIpKSwKICAgICAgICAgICAgImZhaWxlZCI6IHIuZ2V0KCJmYWlsZWQiKSwKICAgICAgICAgICAgImNodW5rcyI6IGNodW5rcywKICAgICAgICB9KQogICAgcm93cy5zb3J0KGtleT1sYW1iZGEgeDogeFsic3RhcnQiXSBvciAwKQogICAgcmV0dXJuIGQsIHJvd3MKCgpkZWYgdGFibGUocm93cywgcGhhc2VfZmlsdGVyPU5vbmUpOgogICAgb3V0ID0gW10KICAgIHQwID0gTm9uZQogICAgZm9yIHIgaW4gcm93czoKICAgICAgICBpZiBwaGFzZV9maWx0ZXIgYW5kIHJbInBoYXNlIl0gIT0gcGhhc2VfZmlsdGVyOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIHQwIGlzIE5vbmU6CiAgICAgICAgICAgIHQwID0gclsic3RhcnQiXQogICAgICAgIG91dC5hcHBlbmQoCiAgICAgICAgICAgICIlLTZzICUtNzJzICUtNHMgJTlzICU4cyAlN3MgJXMiCiAgICAgICAgICAgICUgKAogICAgICAgICAgICAgICAgclsibWV0aG9kIl0sCiAgICAgICAgICAgICAgICByWyJ1cmwiXVs6NzJdLAogICAgICAgICAgICAgICAgclsic3RhdHVzIl0gaWYgclsic3RhdHVzIl0gZWxzZSAiLSIsCiAgICAgICAgICAgICAgICByWyJieXRlcyJdLAogICAgICAgICAgICAgICAgKCIlLjBmIiAlIHJbIm1zIl0pIGlmIHJbIm1zIl0gaXMgbm90IE5vbmUgZWxzZSAiLSIsCiAgICAgICAgICAgICAgICAiJS4yZiIgJSAoKHJbInN0YXJ0Il0gLSB0MCkpIGlmIHQwIGVsc2UgIjAiLAogICAgICAgICAgICAgICAgKCJDQUNIRSIgaWYgclsiY2FjaGUiXSBlbHNlICIiKSArICgiIEZBSUw6IiArIHN0cihyWyJmYWlsZWQiXSkgaWYgclsiZmFpbGVkIl0gZWxzZSAiIiksCiAgICAgICAgICAgICkKICAgICAgICApCiAgICByZXR1cm4gIlxuIi5qb2luKG91dCkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcGF0aCA9IHN5cy5hcmd2WzFdCiAgICBkLCByb3dzID0gbG9hZChwYXRoKQogICAgcGhhc2VzID0gW10KICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgaWYgclsicGhhc2UiXSBub3QgaW4gcGhhc2VzOgogICAgICAgICAgICBwaGFzZXMuYXBwZW5kKHJbInBoYXNlIl0pCiAgICBwcmludCgiPT0gJXMgKCVzKSA9PSIgJSAocGF0aCwgZC5nZXQoImNhcHR1cmVkX2F0IikpKQogICAgcHJpbnQoIiUtNnMgJS03MnMgJS00cyAlOXMgJThzICU3cyIgJSAoIk1FVEhPRCIsICJVUkwiLCAiU1QiLCAiQllURVMiLCAiTVMiLCAiVCsiKSkKICAgIGZvciBwaCBpbiBwaGFzZXM6CiAgICAgICAgc3ViID0gW3IgZm9yIHIgaW4gcm93cyBpZiByWyJwaGFzZSJdID09IHBoXQogICAgICAgIHRvdCA9IHN1bShyWyJieXRlcyJdIGZvciByIGluIHN1YikKICAgICAgICBwcmludCgiXG4tLS0gcGhhc2UgJXM6ICVkIHJlcXVlc3RzLCAlZCBieXRlcyAtLS0iICUgKHBoLCBsZW4oc3ViKSwgdG90KSkKICAgICAgICBwcmludCh0YWJsZShyb3dzLCBwaCkpCiAgICBwcmludCgiXG49PT0gdG90YWxzIGJ5IHBoYXNlID09PSIpCiAgICBhZ2cgPSBkZWZhdWx0ZGljdChsYW1iZGE6IFswLCAwXSkKICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgYWdnW3JbInBoYXNlIl1dWzBdICs9IDEKICAgICAgICBhZ2dbclsicGhhc2UiXV1bMV0gKz0gclsiYnl0ZXMiXQogICAgZm9yIHBoIGluIHBoYXNlczoKICAgICAgICBwcmludCgiJS0zMnMgJTNkIHJlcSAlOWQgYnl0ZXMiICUgKHBoLCBhZ2dbcGhdWzBdLCBhZ2dbcGhdWzFdKSkK
+"""V-583: turn a raw CDP capture into per-phase request tables."""
+
+import json
+import sys
+from collections import defaultdict
+
+
+def short(url):
+    return url.replace("http://127.0.0.1:8888", "")
+
+
+def load(path):
+    d = json.load(open(path))
+    rows = []
+    for r in d["requests"]:
+        if not r.get("url"):
+            continue
+        chunks = r.get("chunks") or []
+        enc = r.get("encoded_total")
+        if not enc:
+            # Streaming responses (EventSource) report encodedDataLength=0 per chunk;
+            # only dataLength is available, so wire bytes ≈ headers + decoded body.
+            enc = r.get("headers_bytes", 0) + sum(c[2] for c in chunks)
+        start = r.get("start")
+        fin = r.get("finish") or (chunks[-1][0] if chunks else r.get("response_at"))
+        dur = (fin - start) * 1000 if (start and fin) else None
+        rows.append({
+            "phase": r.get("phase", "?"),
+            "method": r.get("method", "?"),
+            "url": short(r["url"]),
+            "status": r.get("status"),
+            "bytes": enc,
+            "body_bytes": sum(c[2] for c in chunks),
+            "ms": dur,
+            "start": start,
+            "cache": bool(r.get("from_disk_cache") or r.get("served_from_memory_cache")),
+            "failed": r.get("failed"),
+            "chunks": chunks,
+        })
+    rows.sort(key=lambda x: x["start"] or 0)
+    return d, rows
+
+
+def table(rows, phase_filter=None):
+    out = []
+    t0 = None
+    for r in rows:
+        if phase_filter and r["phase"] != phase_filter:
+            continue
+        if t0 is None:
+            t0 = r["start"]
+        out.append(
+            "%-6s %-72s %-4s %9s %8s %7s %s"
+            % (
+                r["method"],
+                r["url"][:72],
+                r["status"] if r["status"] else "-",
+                r["bytes"],
+                ("%.0f" % r["ms"]) if r["ms"] is not None else "-",
+                "%.2f" % ((r["start"] - t0)) if t0 else "0",
+                ("CACHE" if r["cache"] else "") + (" FAIL:" + str(r["failed"]) if r["failed"] else ""),
+            )
+        )
+    return "\n".join(out)
+
+
+if __name__ == "__main__":
+    path = sys.argv[1]
+    d, rows = load(path)
+    phases = []
+    for r in rows:
+        if r["phase"] not in phases:
+            phases.append(r["phase"])
+    print("== %s (%s) ==" % (path, d.get("captured_at")))
+    print("%-6s %-72s %-4s %9s %8s %7s" % ("METHOD", "URL", "ST", "BYTES", "MS", "T+"))
+    for ph in phases:
+        sub = [r for r in rows if r["phase"] == ph]
+        tot = sum(r["bytes"] for r in sub)
+        print("\n--- phase %s: %d requests, %d bytes ---" % (ph, len(sub), tot))
+        print(table(rows, ph))
+    print("\n=== totals by phase ===")
+    agg = defaultdict(lambda: [0, 0])
+    for r in rows:
+        agg[r["phase"]][0] += 1
+        agg[r["phase"]][1] += r["bytes"]
+    for ph in phases:
+        print("%-32s %3d req %9d bytes" % (ph, agg[ph][0], agg[ph][1]))

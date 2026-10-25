@@ -1,1 +1,28 @@
-IyBleHAxNDgg5ZO65Lmz5Yqo54mp5qC877yI5oOF57uq6ZeoIC8g5qKmIC8g546p77yJ4oCU4oCUIOmihOazqOWGjAoKIyMg57uP6aqM5p2l5rqQ77ya55yf5a6eCuecn+WuniBDUFUg566X5Yqb56ue5LqJ5pe25bqP77yM5ZCO5Y+w6LSf6L2957q/56iL55yf5a6e5oqi5Y2g77yM5rWL6YeP5Zu65a6a6K6h566X6YeP6ICX5pe244CCCuS4ieenjeecn+WunuS4lueVjOW9oueKtu+8iOeUseecn+Wunui0n+i9veabsue6v+S6p+eUn++8jOmdnuWQiOaIkO+8ie+8mgotIHN0YWJsZe+8muaXoOWQjuWPsOi0n+i9ve+8iOecn+WunumihOeDrea8guenu++8iQotIGRyaWZ0IO+8muWQjuWPsOi0n+i9vee6v+aAp+mAkuWingotIHNxdWFyZe+8muWQjuWPsOi0n+i9veaWueazou+8iOecn+WunuWRqOacn++8iQoKIyMg5Lu75YqhCuWcqOe6v+mihOa1i+S4i+S4gOaLjeiAl+aXtuOAgueJueW+gSA9IFsxLCB4X3t0LTEuLnQtM31d77yM5Zyo57q/IFNHROOAggrnmb3lpKkgMTUwIOaLje+8iOWtpuS5oCArIOe7j+mqjOWFpSBidWZmZXLvvInihpIg552h55yg77yI56a757q/5aSE55CG77yJ4oaSIOa1i+ivlSAxNTAg5ouN77yI57un57ut5a2m5Lmg77yM6K+E5LywIE1BRe+8ieOAggoKIyMg6aKE5rOo5YaM5YGH6K6+CkgxIOaipu+8muecn+aipu+8iOS/neW6j+mHjeaUvuecn+Wunue7j+mqjO+8iU1BRSDkvY7kuo7kuI3moqbvvJvkuJTlgYfmoqbvvIjmiZPkubHpobrluo/vvInkuI3kvJjkuo7kuI3moqbjgIIKICAgICAgIOKAlOKAlCDoi6XmiZPkubHkuZ/mnInmlYjvvIzliJnor7TmmI4i5qKmIueahOaUtuebiuadpeiHqiLlpJrmm7TmlrDlh6Dova4i6ICM6Z2eIumHjeaUvue7j+mqjCLvvIxIMSDkuI3miJDnq4vjgIIKSDIg5oOF57uq6Zeo77ya5ZyoIGRyaWZ0L3NxdWFyZe+8iOS4lueVjOWcqOWPmO+8ieS4iuaDhee7qumXqOS8mOS6juWbuuWumiBscu+8m+WcqCBzdGFibGXvvIjkuJbnlYzlubPnqLPvvInkuIrml6Dlt67lvILmiJbmm7Tlt67jgIIKICAgICAgIOKAlOKAlCDpmLTmgKflr7nnhafvvJrlubPnqLPkuJbnlYzkuI3lupTmnInmlLbnm4rjgIIKSDMg546p77ya5peg5aSW6YOo5aWW5Yqx5pe25q615LuN5pyJ6Ieq5Y+R5Yqo5L2c77yI546HPjDvvInvvJvkuJToh6rlj5HmjqLntKLpmY3kvY7lkI7nu63nnJ/lrp7ku7vliqHnmoTor6/lt67jgIIKCiMjIOW/hei/h+eahOmYtOaAp+WvueeFpwotIOWBh+e7j+mqjO+8mumHjeaUvuetiemVv+mrmOaWr+WZquWjsO+8iOWMuemFjeWdh+WAvOaWueW3ru+8ieKGkiDkuI3lupTkvJjkuo7kuI3moqYKLSDlubPnqLPkuJbnlYwg4oaSIOaDhee7qumXqOS4jeW6lOS8mOS6juWbuuWumiBscgotIGJhc2VsaW5l77yacHJlZGljdF9sYXN077yI6aKE5rWL5LiK5LiA5ouN77yJ5L2c5Li65Y+C6ICD77yM5LiN5by65Yi26IOc6L+HCgojIyDliKTlrpoK6YWN5a+5IGRlbHRh77yI5ZCM5LiA55yf5a6e5bqP5YiX44CB5ZCM5LiA6ZqP5py656eN5a2Q77yJ77yMbj0477yMMS45NipTRe+8jENJIOS4jei3qCAwIOaJjeeul+OAggpDSSDot6ggMCDkuIDlvovmiqUi5pyq5qOA5Ye6Iu+8jOS4jeaNouaMh+agh+e/u+ato+OAggo=
+# exp148 哺乳动物格（情绪门 / 梦 / 玩）—— 预注册
+
+## 经验来源：真实
+真实 CPU 算力竞争时序，后台负载线程真实抢占，测量固定计算量耗时。
+三种真实世界形状（由真实负载曲线产生，非合成）：
+- stable：无后台负载（真实预热漂移）
+- drift ：后台负载线性递增
+- square：后台负载方波（真实周期）
+
+## 任务
+在线预测下一拍耗时。特征 = [1, x_{t-1..t-3}]，在线 SGD。
+白天 150 拍（学习 + 经验入 buffer）→ 睡眠（离线处理）→ 测试 150 拍（继续学习，评估 MAE）。
+
+## 预注册假设
+H1 梦：真梦（保序重放真实经验）MAE 低于不梦；且假梦（打乱顺序）不优于不梦。
+       —— 若打乱也有效，则说明"梦"的收益来自"多更新几轮"而非"重放经验"，H1 不成立。
+H2 情绪门：在 drift/square（世界在变）上情绪门优于固定 lr；在 stable（世界平稳）上无差异或更差。
+       —— 阴性对照：平稳世界不应有收益。
+H3 玩：无外部奖励时段仍有自发动作（率>0）；且自发探索降低后续真实任务的误差。
+
+## 必过的阴性对照
+- 假经验：重放等长高斯噪声（匹配均值方差）→ 不应优于不梦
+- 平稳世界 → 情绪门不应优于固定 lr
+- baseline：predict_last（预测上一拍）作为参考，不强制胜过
+
+## 判定
+配对 delta（同一真实序列、同一随机种子），n=8，1.96*SE，CI 不跨 0 才算。
+CI 跨 0 一律报"未检出"，不换指标翻正。

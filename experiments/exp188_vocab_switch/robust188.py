@@ -1,1 +1,130 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIxODgg56iz5YGl5oCnOiBQYXJ0IEEg5aSa56eN5YiS5YiGIC8gUGFydCBCIOWkmuenjei1t+eCueS4jumihOeulyIiIgppbXBvcnQganNvbiwgbWF0aCwgcmFuZG9tLCBvcywgc3lzCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCmZyb20gcnVuMTg4IGltcG9ydCBsb2FkLCBjb21wcmVzcywgZXZhbHVhdGUsIGhlYXBzLCBmaXRfcG93ZXIKCk9VVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxODhfdm9jYWJfc3dpdGNoIgpzZXEgPSBsb2FkKCkKTXMgPSBbNTI4LCA0MDAsIDIwMCwgMTAwLCA1MCwgMzAsIDE2LCA4LCA0LCAyXQpNcyA9IFttIGZvciBtIGluIE1zIGlmIG0gPD0gbGVuKHNldChzZXEpKV0KCmRlZiBwYXJ0QV9zcGxpdChmcmFjKToKICAgIHNwbGl0ID0gaW50KGxlbihzZXEpICogZnJhYykKICAgIHJvd3MgPSBbXQogICAgZm9yIE0gaW4gTXM6CiAgICAgICAgY3NlcSwgdm9jYWIgPSBjb21wcmVzcyhzZXEsIE0pCiAgICAgICAgdHIsIHRlID0gY3NlcVs6c3BsaXRdLCBjc2VxW3NwbGl0Ol0KICAgICAgICBiZXN0ID0gTm9uZQogICAgICAgIGZvciBrIGluIHJhbmdlKDEsIDcpOgogICAgICAgICAgICByID0gZXZhbHVhdGUodHIsIHRlLCBrLCB2b2NhYikKICAgICAgICAgICAgaWYgciBpcyBOb25lOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgclsiayJdID0gawogICAgICAgICAgICByWyJyZWR1Y3Rpb24iXSA9IG1hdGgubG9nMihNKSAtIHJbImJpdHMiXQogICAgICAgICAgICBpZiBiZXN0IGlzIE5vbmUgb3IgclsiYWNjIl0gPiBiZXN0WyJhY2MiXToKICAgICAgICAgICAgICAgIGJlc3QgPSByCiAgICAgICAgaWYgYmVzdDoKICAgICAgICAgICAgcm93cy5hcHBlbmQoeyJNIjogTSwgIlYiOiBsZW4oc2V0KGNzZXEpKSwgImsiOiBiZXN0WyJrIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAiYWNjIjogYmVzdFsiYWNjIl0sICJiaXRzIjogYmVzdFsiYml0cyJdLAogICAgICAgICAgICAgICAgICAgICAgICAgInJlZHVjdGlvbiI6IGJlc3RbInJlZHVjdGlvbiJdfSkKICAgIHJldHVybiByb3dzCgpyZXNBID0ge30KZm9yIGZyYWMgaW4gWzAuNywgMC44LCAwLjldOgogICAgcm93cyA9IHBhcnRBX3NwbGl0KGZyYWMpCiAgICBwZWFrID0gbWF4KHJvd3MsIGtleT1sYW1iZGEgcjogclsicmVkdWN0aW9uIl0pCiAgICByZXNBWyJzcGxpdF8lLjFmIiAlIGZyYWNdID0gewogICAgICAgICJyb3dzIjogcm93cywKICAgICAgICAicGVha19yZWR1Y3Rpb25fViI6IHBlYWtbIlYiXSwKICAgICAgICAicGVha19yZWR1Y3Rpb24iOiBwZWFrWyJyZWR1Y3Rpb24iXSwKICAgICAgICAibWF4Vl9yZWR1Y3Rpb24iOiByb3dzWzBdWyJyZWR1Y3Rpb24iXSwKICAgICAgICAia19hdF9tYXhWIjogcm93c1swXVsiayJdLAogICAgICAgICJrX2F0X1YzMCI6IG5leHQoKHJbImsiXSBmb3IgciBpbiByb3dzIGlmIHJbIlYiXSA8PSAzMiksIE5vbmUpLAogICAgfQoKIyBQYXJ0IEIg56iz5YGl5oCnCkssIGJldGEsIF8gPSBmaXRfcG93ZXIoaGVhcHMoc2VxKSkKVk1BWCA9IGZsb2F0KGxlbihzZXQoc2VxKSkpCmZwdHNfYWxsID0gc29ydGVkKFsoclsiViJdLCByWyJyZWR1Y3Rpb24iXSkgZm9yIHIgaW4gcGFydEFfc3BsaXQoMC44KV0sIGtleT1sYW1iZGEgeDogeFswXSkKCmRlZiBmKFYsIGZwdHMpOgogICAgaWYgViA8PSBmcHRzWzBdWzBdOiByZXR1cm4gZnB0c1swXVsxXQogICAgaWYgViA+PSBmcHRzWy0xXVswXTogcmV0dXJuIGZwdHNbLTFdWzFdCiAgICBmb3IgaSBpbiByYW5nZShsZW4oZnB0cykgLSAxKToKICAgICAgICBhLCBiID0gZnB0c1tpXSwgZnB0c1tpICsgMV0KICAgICAgICBpZiBhWzBdIDw9IFYgPD0gYlswXToKICAgICAgICAgICAgdyA9IChWIC0gYVswXSkgLyAoYlswXSAtIGFbMF0pIGlmIGJbMF0gPiBhWzBdIGVsc2UgMAogICAgICAgICAgICByZXR1cm4gYVsxXSArIHcgKiAoYlsxXSAtIGFbMV0pCiAgICByZXR1cm4gZnB0c1stMV1bMV0KCmRlZiBzaW0oc3RyYXRlZ3ksIGJ1ZGdldCwgVjAsIHBhcmFtPU5vbmUpOgogICAgTl9zZWVuID0gKFYwIC8gSykgKiogKDEuMCAvIGJldGEpCiAgICBWID0gVjA7IGdhaW4gPSAwLjA7IHN0ZXBzID0gMAogICAgd2hpbGUgc3RlcHMgPCBidWRnZXQ6CiAgICAgICAgaWYgc3RyYXRlZ3kgPT0gInB1cmVfZXhwbG9pdCI6CiAgICAgICAgICAgIGFjdCA9ICJleHBsb2l0IgogICAgICAgIGVsaWYgc3RyYXRlZ3kgPT0gInB1cmVfZXhwbG9yZSI6CiAgICAgICAgICAgIGFjdCA9ICJleHBsb3JlIgogICAgICAgIGVsaWYgc3RyYXRlZ3kgPT0gImFsdGVybmF0ZSI6CiAgICAgICAgICAgIGFjdCA9ICJleHBsb3JlIiBpZiAoc3RlcHMgJSAocGFyYW0gKyAxKSkgPT0gMCBlbHNlICJleHBsb2l0IgogICAgICAgIGVsaWYgc3RyYXRlZ3kgPT0gImdyZWVkeV9zd2l0Y2giOgogICAgICAgICAgICBWX2FmdGVyID0gbWluKFZNQVgsIEsgKiAoKE5fc2VlbiArIDEuMCkgKiogYmV0YSkpCiAgICAgICAgICAgIGZ1dHVyZSA9IChmKFZfYWZ0ZXIsIGZwdHNfYWxsKSAtIGYoViwgZnB0c19hbGwpKSAqIChidWRnZXQgLSBzdGVwcyAtIDEpCiAgICAgICAgICAgIGFjdCA9ICJleHBsb3JlIiBpZiBmdXR1cmUgPiBmKFYsIGZwdHNfYWxsKSBlbHNlICJleHBsb2l0IgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGFjdCA9ICJleHBsb2l0IgogICAgICAgIGlmIGFjdCA9PSAiZXhwbG9yZSI6CiAgICAgICAgICAgIE5fc2VlbiArPSAxLjAKICAgICAgICAgICAgViA9IG1pbihWTUFYLCBLICogKE5fc2VlbiAqKiBiZXRhKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBnYWluICs9IGYoViwgZnB0c19hbGwpCiAgICAgICAgc3RlcHMgKz0gMQogICAgcmV0dXJuIHsiZ2FpbiI6IGdhaW4sICJmaW5hbF9WIjogVn0KCnJlc0IgPSB7fQpmb3IgYnVkZ2V0IGluIFsxNDAwMCwgNTAwMCwgMTAwMF06CiAgICBmb3IgVjAgaW4gWzQuMCwgOC4wLCAzMC4wXToKICAgICAgICByID0ge30KICAgICAgICByWyJwdXJlX2V4cGxvaXQiXSA9IHNpbSgicHVyZV9leHBsb2l0IiwgYnVkZ2V0LCBWMCkKICAgICAgICByWyJwdXJlX2V4cGxvcmUiXSA9IHNpbSgicHVyZV9leHBsb3JlIiwgYnVkZ2V0LCBWMCkKICAgICAgICByWyJncmVlZHkiXSA9IHNpbSgiZ3JlZWR5X3N3aXRjaCIsIGJ1ZGdldCwgVjApCiAgICAgICAgYmVzdF9hbHQgPSBOb25lCiAgICAgICAgZm9yIGEgaW4gWzEsIDIsIDMsIDUsIDgsIDEzLCAyMSwgMzRdOgogICAgICAgICAgICBnID0gc2ltKCJhbHRlcm5hdGUiLCBidWRnZXQsIFYwLCBhKQogICAgICAgICAgICBpZiBiZXN0X2FsdCBpcyBOb25lIG9yIGdbImdhaW4iXSA+IGJlc3RfYWx0WyJnYWluIl06CiAgICAgICAgICAgICAgICBiZXN0X2FsdCA9IHsiYSI6IGEsICoqZ30KICAgICAgICByWyJiZXN0X2FsdGVybmF0ZSJdID0gYmVzdF9hbHQKICAgICAgICB3aW5uZXIgPSBtYXgoci5pdGVtcygpLCBrZXk9bGFtYmRhIGt2OiBrdlsxXVsiZ2FpbiJdKQogICAgICAgIHJlc0JbIkIlZF9WMCUuMGYiICUgKGJ1ZGdldCwgVjApXSA9IHsKICAgICAgICAgICAgInB1cmVfZXhwbG9pdCI6IHJbInB1cmVfZXhwbG9pdCJdWyJnYWluIl0sCiAgICAgICAgICAgICJwdXJlX2V4cGxvcmUiOiByWyJwdXJlX2V4cGxvcmUiXVsiZ2FpbiJdLAogICAgICAgICAgICAiZ3JlZWR5IjogclsiZ3JlZWR5Il1bImdhaW4iXSwKICAgICAgICAgICAgImJlc3RfYWx0ZXJuYXRlIjogYmVzdF9hbHRbImdhaW4iXSwKICAgICAgICAgICAgImJlc3RfYSI6IGJlc3RfYWx0WyJhIl0sCiAgICAgICAgICAgICJncmVlZHlfZmluYWxWIjogclsiZ3JlZWR5Il1bImZpbmFsX1YiXSwKICAgICAgICAgICAgIndpbm5lciI6IHdpbm5lclswXSwKICAgICAgICAgICAgInN3aXRjaF9vdmVyX2V4cGxvaXQiOiByWyJncmVlZHkiXVsiZ2FpbiJdIC8gbWF4KHJbInB1cmVfZXhwbG9pdCJdWyJnYWluIl0sIDFlLTkpLAogICAgICAgIH0KCmpzb24uZHVtcCh7InBhcnRBIjogcmVzQSwgInBhcnRCIjogcmVzQn0sCiAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihPVVQsICJyb2J1c3QxODguanNvbiIpLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpLAogICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKCnByaW50KCI9PT0gUGFydCBBIOeos+WBpeaApzogcmVkdWN0aW9uIOWzsOWAvOWcqOWTqumHjCA9PT0iKQpmb3IgaywgdiBpbiByZXNBLml0ZW1zKCk6CiAgICBwcmludCgiJXM6IOWzsOWAvFY9JWQgKCUuNGYpIHwg5pyA5aSnVj01Mjgg5pe2ICUuNGYgfCBrQFY1Mjg9JXMga0BWPD0zMD0lcyIgJSAoCiAgICAgICAgaywgdlsicGVha19yZWR1Y3Rpb25fViJdLCB2WyJwZWFrX3JlZHVjdGlvbiJdLCB2WyJtYXhWX3JlZHVjdGlvbiJdLAogICAgICAgIHZbImtfYXRfbWF4ViJdLCB2WyJrX2F0X1YzMCJdKSkKcHJpbnQoKQpwcmludCgiPT09IFBhcnQgQiDnqLPlgaXmgKc6IOiwgei1oiA9PT0iKQpwcmludCgiJS0xNHMgJTEwcyAlMTBzICUxMHMgJTEwcyAlNnMgJThzIiAlICgi5Zy65pmvIiwgIue6r+WIqeeUqCIsICLnuq/mjqLntKIiLCAi6LSq5b+D5YiH5o2iIiwgIuacgOS9s+S6pOabvyIsICJhIiwgIuWIh+aNoi/nuq/liKnnlKgiKSkKZm9yIGssIHYgaW4gcmVzQi5pdGVtcygpOgogICAgcHJpbnQoIiUtMTRzICUxMC4xZiAlMTAuMWYgJTEwLjFmICUxMC4xZiAlNnMgJTguMmZ4IiAlICgKICAgICAgICBrLCB2WyJwdXJlX2V4cGxvaXQiXSwgdlsicHVyZV9leHBsb3JlIl0sIHZbImdyZWVkeSJdLAogICAgICAgIHZbImJlc3RfYWx0ZXJuYXRlIl0sIHZbImJlc3RfYSJdLCB2WyJzd2l0Y2hfb3Zlcl9leHBsb2l0Il0pKQpwcmludCgpCndpbnMgPSBbdlsid2lubmVyIl0gZm9yIHYgaW4gcmVzQi52YWx1ZXMoKV0KcHJpbnQoIui1ouWutuWIhuW4gzoiLCB7dzogd2lucy5jb3VudCh3KSBmb3IgdyBpbiBzZXQod2lucyl9KQpwcmludCgi6LSq5b+D5piv5ZCm5oC7ID4g57qv5Yip55SoOiIsIGFsbCh2WyJzd2l0Y2hfb3Zlcl9leHBsb2l0Il0gPiAxIGZvciB2IGluIHJlc0IudmFsdWVzKCkpKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""188 稳健性: Part A 多种划分 / Part B 多种起点与预算"""
+import json, math, random, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from run188 import load, compress, evaluate, heaps, fit_power
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp188_vocab_switch"
+seq = load()
+Ms = [528, 400, 200, 100, 50, 30, 16, 8, 4, 2]
+Ms = [m for m in Ms if m <= len(set(seq))]
+
+def partA_split(frac):
+    split = int(len(seq) * frac)
+    rows = []
+    for M in Ms:
+        cseq, vocab = compress(seq, M)
+        tr, te = cseq[:split], cseq[split:]
+        best = None
+        for k in range(1, 7):
+            r = evaluate(tr, te, k, vocab)
+            if r is None:
+                continue
+            r["k"] = k
+            r["reduction"] = math.log2(M) - r["bits"]
+            if best is None or r["acc"] > best["acc"]:
+                best = r
+        if best:
+            rows.append({"M": M, "V": len(set(cseq)), "k": best["k"],
+                         "acc": best["acc"], "bits": best["bits"],
+                         "reduction": best["reduction"]})
+    return rows
+
+resA = {}
+for frac in [0.7, 0.8, 0.9]:
+    rows = partA_split(frac)
+    peak = max(rows, key=lambda r: r["reduction"])
+    resA["split_%.1f" % frac] = {
+        "rows": rows,
+        "peak_reduction_V": peak["V"],
+        "peak_reduction": peak["reduction"],
+        "maxV_reduction": rows[0]["reduction"],
+        "k_at_maxV": rows[0]["k"],
+        "k_at_V30": next((r["k"] for r in rows if r["V"] <= 32), None),
+    }
+
+# Part B 稳健性
+K, beta, _ = fit_power(heaps(seq))
+VMAX = float(len(set(seq)))
+fpts_all = sorted([(r["V"], r["reduction"]) for r in partA_split(0.8)], key=lambda x: x[0])
+
+def f(V, fpts):
+    if V <= fpts[0][0]: return fpts[0][1]
+    if V >= fpts[-1][0]: return fpts[-1][1]
+    for i in range(len(fpts) - 1):
+        a, b = fpts[i], fpts[i + 1]
+        if a[0] <= V <= b[0]:
+            w = (V - a[0]) / (b[0] - a[0]) if b[0] > a[0] else 0
+            return a[1] + w * (b[1] - a[1])
+    return fpts[-1][1]
+
+def sim(strategy, budget, V0, param=None):
+    N_seen = (V0 / K) ** (1.0 / beta)
+    V = V0; gain = 0.0; steps = 0
+    while steps < budget:
+        if strategy == "pure_exploit":
+            act = "exploit"
+        elif strategy == "pure_explore":
+            act = "explore"
+        elif strategy == "alternate":
+            act = "explore" if (steps % (param + 1)) == 0 else "exploit"
+        elif strategy == "greedy_switch":
+            V_after = min(VMAX, K * ((N_seen + 1.0) ** beta))
+            future = (f(V_after, fpts_all) - f(V, fpts_all)) * (budget - steps - 1)
+            act = "explore" if future > f(V, fpts_all) else "exploit"
+        else:
+            act = "exploit"
+        if act == "explore":
+            N_seen += 1.0
+            V = min(VMAX, K * (N_seen ** beta))
+        else:
+            gain += f(V, fpts_all)
+        steps += 1
+    return {"gain": gain, "final_V": V}
+
+resB = {}
+for budget in [14000, 5000, 1000]:
+    for V0 in [4.0, 8.0, 30.0]:
+        r = {}
+        r["pure_exploit"] = sim("pure_exploit", budget, V0)
+        r["pure_explore"] = sim("pure_explore", budget, V0)
+        r["greedy"] = sim("greedy_switch", budget, V0)
+        best_alt = None
+        for a in [1, 2, 3, 5, 8, 13, 21, 34]:
+            g = sim("alternate", budget, V0, a)
+            if best_alt is None or g["gain"] > best_alt["gain"]:
+                best_alt = {"a": a, **g}
+        r["best_alternate"] = best_alt
+        winner = max(r.items(), key=lambda kv: kv[1]["gain"])
+        resB["B%d_V0%.0f" % (budget, V0)] = {
+            "pure_exploit": r["pure_exploit"]["gain"],
+            "pure_explore": r["pure_explore"]["gain"],
+            "greedy": r["greedy"]["gain"],
+            "best_alternate": best_alt["gain"],
+            "best_a": best_alt["a"],
+            "greedy_finalV": r["greedy"]["final_V"],
+            "winner": winner[0],
+            "switch_over_exploit": r["greedy"]["gain"] / max(r["pure_exploit"]["gain"], 1e-9),
+        }
+
+json.dump({"partA": resA, "partB": resB},
+          open(os.path.join(OUT, "robust188.json"), "w", encoding="utf-8"),
+          ensure_ascii=False, indent=2)
+
+print("=== Part A 稳健性: reduction 峰值在哪里 ===")
+for k, v in resA.items():
+    print("%s: 峰值V=%d (%.4f) | 最大V=528 时 %.4f | k@V528=%s k@V<=30=%s" % (
+        k, v["peak_reduction_V"], v["peak_reduction"], v["maxV_reduction"],
+        v["k_at_maxV"], v["k_at_V30"]))
+print()
+print("=== Part B 稳健性: 谁赢 ===")
+print("%-14s %10s %10s %10s %10s %6s %8s" % ("场景", "纯利用", "纯探索", "贪心切换", "最佳交替", "a", "切换/纯利用"))
+for k, v in resB.items():
+    print("%-14s %10.1f %10.1f %10.1f %10.1f %6s %8.2fx" % (
+        k, v["pure_exploit"], v["pure_explore"], v["greedy"],
+        v["best_alternate"], v["best_a"], v["switch_over_exploit"]))
+print()
+wins = [v["winner"] for v in resB.values()]
+print("赢家分布:", {w: wins.count(w) for w in set(wins)})
+print("贪心是否总 > 纯利用:", all(v["switch_over_exploit"] > 1 for v in resB.values()))

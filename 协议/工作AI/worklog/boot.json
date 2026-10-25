@@ -1,1 +1,21 @@
-ewogIuWksei0pSI6IHsKICAi5LuA5LmIIjogIuWunua1i+WIsCBbJ+mfs+mikeWQiOaIkCddIOS4jeWPr+eUqCIsCiAgIuW9seWTjSI6ICLmtonlj4rov5nkupvog73lipvnmoTmtLvmiJHmjqXkuI3kuobvvIzkvJrnm7Tor7QiLAogICLmnaXmupAiOiAi5a6e5rWL5o6o5a+8IiwKICAi6K+B5o2uIjogInByb2JlIOi/lOWbnumdnjDvvIzku7vmhI/mnLrlmajlj6/ph43ot5HvvJvlrp7kvosgY3ViZWJveC06MTAzODoxNzkyNDg2NjAzIgogfSwKICLml7bpl7QiOiAiMjAyNi0xMC0yMFQxNjo1Njo0My4zNDU1NDUiLAogIuayoeaciSI6IFsKICAi6Z+z6aKR5ZCI5oiQIgogXSwKICLog73lipsiOiB7CiAgIuWGmeaWh+S7tiI6IHRydWUsCiAgIuWbvuWDj+eUn+aIkCI6IHRydWUsCiAgIuiBlOe9keivuyI6IHRydWUsCiAgIuivu+aWh+S7tiI6IHRydWUsCiAgIui3kXNoZWxsIjogdHJ1ZSwKICAi6LeR5Luj56CBIjogdHJ1ZSwKICAi6Z+z6aKR5ZCI5oiQIjogZmFsc2UKIH0KfQ==
+{
+ "失败": {
+  "什么": "实测到 ['音频合成'] 不可用",
+  "影响": "涉及这些能力的活我接不了，会直说",
+  "来源": "实测推导",
+  "证据": "probe 返回非0，任意机器可重跑；实例 cubebox-:1038:1792486603"
+ },
+ "时间": "2026-10-20T16:56:43.345545",
+ "没有": [
+  "音频合成"
+ ],
+ "能力": {
+  "写文件": true,
+  "图像生成": true,
+  "联网读": true,
+  "读文件": true,
+  "跑shell": true,
+  "跑代码": true,
+  "音频合成": false
+ }
+}

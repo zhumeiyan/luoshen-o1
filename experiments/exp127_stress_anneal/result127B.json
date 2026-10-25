@@ -1,1 +1,268 @@
-ewogIlAyIjogewogICIwLjQiOiBbCiAgIDAuMDkzMDk0NzIyOTI1OTI0ODgsCiAgIDAuMTA0NTk2OTI1MTQ2MjYyNzMKICBdLAogICIxLjAiOiBbCiAgIDAuMTIwNzc1NTkyNzYxNjIzMTcsCiAgIDAuMTAxNzE1ODk4NDcyMTA3MzgKICBdLAogICIyLjAiOiBbCiAgIDAuMTY2OTEwMzc1ODIxMTIwMiwKICAgMC4wOTc4MjE1Njk5OTA2ODk1NgogIF0sCiAgIjQuMCI6IFsKICAgMC4yNTkyMTQ3NTU2MjcxNzQ2NiwKICAgMC4wOTM1MTcwMTA1Mzk3NjY2NwogIF0sCiAgIjguMCI6IFsKICAgMC40NDM4NjgzOTEwNTAxOTc2LAogICAwLjA5MDA0MDM1NjQxMDcyMTcKICBdLAogICIxNi4wIjogWwogICAwLjgxMzE3NTY2MTg5NjI0NDksCiAgIDAuMDg3NzcxMDgwNDA5NDI2MwogIF0KIH0sCiAiUzEg5aSx6KGAIjogWwogIHsKICAgImxldmVsIjogMC4wLAogICAiYWxpdmUiOiAwLjkzNzUsCiAgICJuIjogMTUsCiAgICJ0aWNrcyI6IDE0MjIuNzUsCiAgICJjYXAiOiAwLjE1Mzg2MDc2ODk2MDk2NDkKICB9LAogIHsKICAgImxldmVsIjogMC4wMSwKICAgImFsaXZlIjogMC42ODc1LAogICAibiI6IDExLAogICAidGlja3MiOiAxMDgyLjkzNzUsCiAgICJjYXAiOiAwLjE2MzgzOTU1NTIwMzA4NzkKICB9LAogIHsKICAgImxldmVsIjogMC4wMiwKICAgImFsaXZlIjogMC42MjUsCiAgICJuIjogMTAsCiAgICJ0aWNrcyI6IDk4MS40Mzc1LAogICAiY2FwIjogMC4xNjY4NDAxNjY4MTc1NDI4NQogIH0sCiAgewogICAibGV2ZWwiOiAwLjA0LAogICAiYWxpdmUiOiAwLjUsCiAgICJuIjogOCwKICAgInRpY2tzIjogOTUyLjM3NSwKICAgImNhcCI6IDAuMTY3NDcyMzc1OTkwNTY0NTMKICB9LAogIHsKICAgImxldmVsIjogMC4wNiwKICAgImFsaXZlIjogMC4xMjUsCiAgICJuIjogMiwKICAgInRpY2tzIjogNjg3LjkzNzUsCiAgICJjYXAiOiAwLjE3MTA1NjA4ODIxNDc1MTc3CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuMSwKICAgImFsaXZlIjogMC4wLAogICAibiI6IDAsCiAgICJ0aWNrcyI6IDgyLjkzNzUsCiAgICJjYXAiOiAwLjE5NTQ0NDcwNzUyMjQ3NjA2CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuMTYsCiAgICJhbGl2ZSI6IDAuMCwKICAgIm4iOiAwLAogICAidGlja3MiOiA3MC4wNjI1LAogICAiY2FwIjogMC4xOTYzMzM0NTcyOTUzMjkyCiAgfSwKICB7CiAgICJsZXZlbCI6IDAuMjQsCiAgICJhbGl2ZSI6IDAuMCwKICAgIm4iOiAwLAogICAidGlja3MiOiA2Ni42MjUsCiAgICJjYXAiOiAwLjE5NjU3OTY3NDYyMTUxODg1CiAgfQogXSwKICJTMiDlj5Hng6ciOiBbCiAgewogICAibGV2ZWwiOiAxLAogICAiYWxpdmUiOiAwLjkzNzUsCiAgICJuIjogMTUsCiAgICJ0aWNrcyI6IDE0MjIuNzUsCiAgICJjYXAiOiAwLjE1Mzg2MDc2ODk2MDk2NDkKICB9LAogIHsKICAgImxldmVsIjogNSwKICAgImFsaXZlIjogMC42MjUsCiAgICJuIjogMTAsCiAgICJ0aWNrcyI6IDk5MS43NSwKICAgImNhcCI6IDAuMTY2MzQ3NDA1NzY0Mjc5MjUKICB9LAogIHsKICAgImxldmVsIjogMTAsCiAgICJhbGl2ZSI6IDAuNjI1LAogICAibiI6IDEwLAogICAidGlja3MiOiA5NzEuMDYyNSwKICAgImNhcCI6IDAuMTY3NDAxOTExMzQ0NTk1MTQKICB9LAogIHsKICAgImxldmVsIjogMjAsCiAgICJhbGl2ZSI6IDAuMCwKICAgIm4iOiAwLAogICAidGlja3MiOiAyMzguMzc1LAogICAiY2FwIjogMC4xODc0MDMzNDIxNTIzMzY5OAogIH0sCiAgewogICAibGV2ZWwiOiAzNSwKICAgImFsaXZlIjogMC4wLAogICAibiI6IDAsCiAgICJ0aWNrcyI6IDcyLjgxMjUsCiAgICJjYXAiOiAwLjE5NjE0MTcyMDk3ODUyNjkKICB9LAogIHsKICAgImxldmVsIjogNTAsCiAgICJhbGl2ZSI6IDAuMCwKICAgIm4iOiAwLAogICAidGlja3MiOiA2Ny44NzUsCiAgICJjYXAiOiAwLjE5NjQ5MjI1Mzg0NDA1NzQ0CiAgfSwKICB7CiAgICJsZXZlbCI6IDcwLAogICAiYWxpdmUiOiAwLjAsCiAgICJuIjogMCwKICAgInRpY2tzIjogNjUuNjI1LAogICAiY2FwIjogMC4xOTY2NDUzNjQyMjc2NjYyNAogIH0sCiAgewogICAibGV2ZWwiOiAxMDAsCiAgICJhbGl2ZSI6IDAuMCwKICAgIm4iOiAwLAogICAidGlja3MiOiA2NC4wNjI1LAogICAiY2FwIjogMC4xOTY3NTczOTMwOTkyODI5CiAgfQogXSwKICJTMyDogIHljJYiOiBbCiAgewogICAibGV2ZWwiOiAxLjAsCiAgICJhbGl2ZSI6IDAuOTM3NSwKICAgIm4iOiAxNSwKICAgInRpY2tzIjogMTQyMi43NSwKICAgImNhcCI6IDAuMTUzODYwNzY4OTYwOTY0OQogIH0sCiAgewogICAibGV2ZWwiOiAwLjk5OSwKICAgImFsaXZlIjogMC45Mzc1LAogICAibiI6IDE1LAogICAidGlja3MiOiAxNDIyLjkzNzUsCiAgICJjYXAiOiAwLjE1MjA0NTUxMTIxNjIyMTQKICB9LAogIHsKICAgImxldmVsIjogMC45OTUsCiAgICJhbGl2ZSI6IDEuMCwKICAgIm4iOiAxNiwKICAgInRpY2tzIjogMTUwMC4wLAogICAiY2FwIjogMC4xNDkyNQogIH0sCiAgewogICAibGV2ZWwiOiAwLjk5LAogICAiYWxpdmUiOiAxLjAsCiAgICJuIjogMTYsCiAgICJ0aWNrcyI6IDE1MDAuMCwKICAgImNhcCI6IDAuMTQ4NQogIH0sCiAgewogICAibGV2ZWwiOiAwLjk4LAogICAiYWxpdmUiOiAxLjAsCiAgICJuIjogMTYsCiAgICJ0aWNrcyI6IDE1MDAuMCwKICAgImNhcCI6IDAuMTQ3CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuOTYsCiAgICJhbGl2ZSI6IDEuMCwKICAgIm4iOiAxNiwKICAgInRpY2tzIjogMTUwMC4wLAogICAiY2FwIjogMC4xNDQKICB9LAogIHsKICAgImxldmVsIjogMC45MywKICAgImFsaXZlIjogMS4wLAogICAibiI6IDE2LAogICAidGlja3MiOiAxNTAwLjAsCiAgICJjYXAiOiAwLjEzOTUKICB9LAogIHsKICAgImxldmVsIjogMC45LAogICAiYWxpdmUiOiAxLjAsCiAgICJuIjogMTYsCiAgICJ0aWNrcyI6IDE1MDAuMCwKICAgImNhcCI6IDAuMTM1CiAgfQogXSwKICJQMyI6IFsKICB7CiAgICJsZXZlbCI6IDEuMCwKICAgImFsaXZlIjogMC44NzUsCiAgICJjYXAiOiAwLjE1NzY5NDE3NDU1NjA2ODUKICB9LAogIHsKICAgImxldmVsIjogMC45OSwKICAgImFsaXZlIjogMS4wLAogICAiY2FwIjogMC4xNDg1CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuOTYsCiAgICJhbGl2ZSI6IDEuMCwKICAgImNhcCI6IDAuMTQ0CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuOTMsCiAgICJhbGl2ZSI6IDEuMCwKICAgImNhcCI6IDAuMTM5NQogIH0sCiAgewogICAibGV2ZWwiOiAwLjksCiAgICJhbGl2ZSI6IDEuMCwKICAgImNhcCI6IDAuMTM1CiAgfSwKICB7CiAgICJsZXZlbCI6IDAuODUsCiAgICJhbGl2ZSI6IDEuMCwKICAgImNhcCI6IDAuMTI3NQogIH0sCiAgewogICAibGV2ZWwiOiAwLjgsCiAgICJhbGl2ZSI6IDEuMCwKICAgImNhcCI6IDAuMTIKICB9CiBdLAogInByZWN1cnNvciI6IHsKICAiUzEiOiB7CiAgICJsZXZlbCI6IDAuMSwKICAgIm5fZGVhZCI6IDE2LAogICAibl9hbGl2ZSI6IDAsCiAgICJF5Z2H5YC8IjogTmFOLAogICAiReaWueW3riI6IE5hTiwKICAgIkXmlpznjociOiBOYU4sCiAgICLlrrnph4/mlpznjociOiBOYU4KICB9LAogICJTMiI6IHsKICAgImxldmVsIjogNTAsCiAgICJuX2RlYWQiOiAxNiwKICAgIm5fYWxpdmUiOiAwLAogICAiReWdh+WAvCI6IE5hTiwKICAgIkXmlrnlt64iOiBOYU4sCiAgICJF5pac546HIjogTmFOLAogICAi5a656YeP5pac546HIjogTmFOCiAgfSwKICAiUzMiOiB7CiAgICJsZXZlbCI6IDAuOSwKICAgIm5fZGVhZCI6IDAsCiAgICJuX2FsaXZlIjogMTYsCiAgICJF5Z2H5YC8IjogTmFOLAogICAiReaWueW3riI6IE5hTiwKICAgIkXmlpznjociOiBOYU4sCiAgICLlrrnph4/mlpznjociOiBOYU4KICB9CiB9Cn0=
+{
+ "P2": {
+  "0.4": [
+   0.09309472292592488,
+   0.10459692514626273
+  ],
+  "1.0": [
+   0.12077559276162317,
+   0.10171589847210738
+  ],
+  "2.0": [
+   0.1669103758211202,
+   0.09782156999068956
+  ],
+  "4.0": [
+   0.25921475562717466,
+   0.09351701053976667
+  ],
+  "8.0": [
+   0.4438683910501976,
+   0.0900403564107217
+  ],
+  "16.0": [
+   0.8131756618962449,
+   0.0877710804094263
+  ]
+ },
+ "S1 失血": [
+  {
+   "level": 0.0,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.75,
+   "cap": 0.1538607689609649
+  },
+  {
+   "level": 0.01,
+   "alive": 0.6875,
+   "n": 11,
+   "ticks": 1082.9375,
+   "cap": 0.1638395552030879
+  },
+  {
+   "level": 0.02,
+   "alive": 0.625,
+   "n": 10,
+   "ticks": 981.4375,
+   "cap": 0.16684016681754285
+  },
+  {
+   "level": 0.04,
+   "alive": 0.5,
+   "n": 8,
+   "ticks": 952.375,
+   "cap": 0.16747237599056453
+  },
+  {
+   "level": 0.06,
+   "alive": 0.125,
+   "n": 2,
+   "ticks": 687.9375,
+   "cap": 0.17105608821475177
+  },
+  {
+   "level": 0.1,
+   "alive": 0.0,
+   "n": 0,
+   "ticks": 82.9375,
+   "cap": 0.19544470752247606
+  },
+  {
+   "level": 0.16,
+   "alive": 0.0,
+   "n": 0,
+   "ticks": 70.0625,
+   "cap": 0.1963334572953292
+  },
+  {
+   "level": 0.24,
+   "alive": 0.0,
+   "n": 0,
+   "ticks": 66.625,
+   "cap": 0.19657967462151885
+  }
+ ],
+ "S2 发烧": [
+  {
+   "level": 1,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.75,
+   "cap": 0.1538607689609649
+  },
+  {
+   "level": 5,
+   "alive": 0.625,
+   "n": 10,
+   "ticks": 991.75,
+   "cap": 0.16634740576427925
+  },
+  {
+   "level": 10,
+   "alive": 0.625,
+   "n": 10,
+   "ticks": 971.0625,
+   "cap": 0.16740191134459514
+  },
+  {
+   "level": 20,
+   "alive": 0.0,
+   "n": 0,
+   "ticks": 238.375,
+   "cap": 0.18740334215233698
+  },
+  {
+   "level": 35,
+   "alive": 0.0,
+   "n": 0,
+   "ticks": 72.8125,
+   "cap": 0.1961417209785269
+  },
+  {
+   "level": 50,
+   "alive": 0.0,
+   "n": 0,
+   "ticks": 67.875,
+   "cap": 0.19649225384405744
+  },
+  {
+   "level": 70,
+   "alive": 0.0,
+   "n": 0,
+   "ticks": 65.625,
+   "cap": 0.19664536422766624
+  },
+  {
+   "level": 100,
+   "alive": 0.0,
+   "n": 0,
+   "ticks": 64.0625,
+   "cap": 0.1967573930992829
+  }
+ ],
+ "S3 老化": [
+  {
+   "level": 1.0,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.75,
+   "cap": 0.1538607689609649
+  },
+  {
+   "level": 0.999,
+   "alive": 0.9375,
+   "n": 15,
+   "ticks": 1422.9375,
+   "cap": 0.1520455112162214
+  },
+  {
+   "level": 0.995,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "cap": 0.14925
+  },
+  {
+   "level": 0.99,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "cap": 0.1485
+  },
+  {
+   "level": 0.98,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "cap": 0.147
+  },
+  {
+   "level": 0.96,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "cap": 0.144
+  },
+  {
+   "level": 0.93,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "cap": 0.1395
+  },
+  {
+   "level": 0.9,
+   "alive": 1.0,
+   "n": 16,
+   "ticks": 1500.0,
+   "cap": 0.135
+  }
+ ],
+ "P3": [
+  {
+   "level": 1.0,
+   "alive": 0.875,
+   "cap": 0.1576941745560685
+  },
+  {
+   "level": 0.99,
+   "alive": 1.0,
+   "cap": 0.1485
+  },
+  {
+   "level": 0.96,
+   "alive": 1.0,
+   "cap": 0.144
+  },
+  {
+   "level": 0.93,
+   "alive": 1.0,
+   "cap": 0.1395
+  },
+  {
+   "level": 0.9,
+   "alive": 1.0,
+   "cap": 0.135
+  },
+  {
+   "level": 0.85,
+   "alive": 1.0,
+   "cap": 0.1275
+  },
+  {
+   "level": 0.8,
+   "alive": 1.0,
+   "cap": 0.12
+  }
+ ],
+ "precursor": {
+  "S1": {
+   "level": 0.1,
+   "n_dead": 16,
+   "n_alive": 0,
+   "E均值": NaN,
+   "E方差": NaN,
+   "E斜率": NaN,
+   "容量斜率": NaN
+  },
+  "S2": {
+   "level": 50,
+   "n_dead": 16,
+   "n_alive": 0,
+   "E均值": NaN,
+   "E方差": NaN,
+   "E斜率": NaN,
+   "容量斜率": NaN
+  },
+  "S3": {
+   "level": 0.9,
+   "n_dead": 0,
+   "n_alive": 16,
+   "E均值": NaN,
+   "E方差": NaN,
+   "E斜率": NaN,
+   "容量斜率": NaN
+  }
+ }
+}

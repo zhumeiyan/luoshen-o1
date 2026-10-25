@@ -1,1 +1,7 @@
-ewogInByb3RlY3Q9MC4wMCI6IDAuMDAxLAogInByb3RlY3Q9MC4yNSI6IDAuMDAxLAogInByb3RlY3Q9MC41MCI6IDAuMDAxLAogInByb3RlY3Q9MC43NSI6IDAuMDAxLAogInByb3RlY3Q9MS4wMCI6IDAuMQp9
+{
+ "protect=0.00": 0.001,
+ "protect=0.25": 0.001,
+ "protect=0.50": 0.001,
+ "protect=0.75": 0.001,
+ "protect=1.00": 0.1
+}

@@ -1,1 +1,27 @@
-ewogImtzIjogWwogIDcsCiAgNSwKICA1LAogIDcsCiAgNCwKICA2LAogIDYsCiAgMQogXSwKICJoYW5kZXllIjogewogICJtYXRjaCI6IDgsCiAgIm4iOiA4LAogICJyYXRlIjogMS4wCiB9LAogImJsaW5kIjogewogICJtYXRjaCI6IDAsCiAgIm4iOiA4LAogICJyYXRlIjogMC4wCiB9LAogIm5vaGFuZCI6IHsKICAibWF0Y2giOiAwLAogICJuIjogOCwKICAicmF0ZSI6IDAuMAogfQp9
+{
+ "ks": [
+  7,
+  5,
+  5,
+  7,
+  4,
+  6,
+  6,
+  1
+ ],
+ "handeye": {
+  "match": 8,
+  "n": 8,
+  "rate": 1.0
+ },
+ "blind": {
+  "match": 0,
+  "n": 8,
+  "rate": 0.0
+ },
+ "nohand": {
+  "match": 0,
+  "n": 8,
+  "rate": 0.0
+ }
+}

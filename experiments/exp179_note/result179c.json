@@ -1,1 +1,62 @@
-WwogewogICJBTFBIQSI6IDAuMDEsCiAgImJhc2VsaW5lIjogNy43MjY2LAogICJsYW0wLjAiOiA2LjU1NDYsCiAgImxhbTAuMF9hbGxkZWNheSI6IDYuNTU0NiwKICAibGFtMC4xIjogNi42ODUxLAogICJsYW0wLjFfYWxsZGVjYXkiOiA2LjY0OCwKICAibGFtMC41IjogNy41MDQ0LAogICJsYW0wLjVfYWxsZGVjYXkiOiA3LjQ2NDIsCiAgImxhbTIuMCI6IDguMTE4OSwKICAibGFtMi4wX2FsbGRlY2F5IjogOC4xMjgzCiB9LAogewogICJBTFBIQSI6IDAuMDUsCiAgImJhc2VsaW5lIjogNy41MzM3LAogICJsYW0wLjAiOiA2LjQyMDIsCiAgImxhbTAuMF9hbGxkZWNheSI6IDYuNDIwMiwKICAibGFtMC4xIjogNi44ODAyLAogICJsYW0wLjFfYWxsZGVjYXkiOiA2Ljg0MzYsCiAgImxhbTAuNSI6IDcuNjk3NSwKICAibGFtMC41X2FsbGRlY2F5IjogNy42NTA1LAogICJsYW0yLjAiOiA4LjEyMDcsCiAgImxhbTIuMF9hbGxkZWNheSI6IDguMDkyNgogfSwKIHsKICAiQUxQSEEiOiAwLjEsCiAgImJhc2VsaW5lIjogNy40NTE1LAogICJsYW0wLjAiOiA2LjUwNzcsCiAgImxhbTAuMF9hbGxkZWNheSI6IDYuNTA3NywKICAibGFtMC4xIjogNy4wODQsCiAgImxhbTAuMV9hbGxkZWNheSI6IDcuMDQ4MSwKICAibGFtMC41IjogNy44NTg1LAogICJsYW0wLjVfYWxsZGVjYXkiOiA3LjgxMDUsCiAgImxhbTIuMCI6IDguMTk5NiwKICAibGFtMi4wX2FsbGRlY2F5IjogOC4xNjIxCiB9LAogewogICJBTFBIQSI6IDAuNSwKICAiYmFzZWxpbmUiOiA3LjI3MjMsCiAgImxhbTAuMCI6IDcuMDI2NiwKICAibGFtMC4wX2FsbGRlY2F5IjogNy4wMjY2LAogICJsYW0wLjEiOiA3LjY5NjcsCiAgImxhbTAuMV9hbGxkZWNheSI6IDcuNjY3MiwKICAibGFtMC41IjogOC4yNDczLAogICJsYW0wLjVfYWxsZGVjYXkiOiA4LjIxNSwKICAibGFtMi4wIjogOC40MTc4LAogICJsYW0yLjBfYWxsZGVjYXkiOiA4LjM5NAogfSwKIHsKICAiQUxQSEEiOiAxLjAsCiAgImJhc2VsaW5lIjogNy4yMTMzLAogICJsYW0wLjAiOiA3LjMzNDYsCiAgImxhbTAuMF9hbGxkZWNheSI6IDcuMzM0NiwKICAibGFtMC4xIjogNy45NTA2LAogICJsYW0wLjFfYWxsZGVjYXkiOiA3LjkyODcsCiAgImxhbTAuNSI6IDguMzc3NiwKICAibGFtMC41X2FsbGRlY2F5IjogOC4zNjM0LAogICJsYW0yLjAiOiA4LjQ5MiwKICAibGFtMi4wX2FsbGRlY2F5IjogOC40ODg4CiB9Cl0=
+[
+ {
+  "ALPHA": 0.01,
+  "baseline": 7.7266,
+  "lam0.0": 6.5546,
+  "lam0.0_alldecay": 6.5546,
+  "lam0.1": 6.6851,
+  "lam0.1_alldecay": 6.648,
+  "lam0.5": 7.5044,
+  "lam0.5_alldecay": 7.4642,
+  "lam2.0": 8.1189,
+  "lam2.0_alldecay": 8.1283
+ },
+ {
+  "ALPHA": 0.05,
+  "baseline": 7.5337,
+  "lam0.0": 6.4202,
+  "lam0.0_alldecay": 6.4202,
+  "lam0.1": 6.8802,
+  "lam0.1_alldecay": 6.8436,
+  "lam0.5": 7.6975,
+  "lam0.5_alldecay": 7.6505,
+  "lam2.0": 8.1207,
+  "lam2.0_alldecay": 8.0926
+ },
+ {
+  "ALPHA": 0.1,
+  "baseline": 7.4515,
+  "lam0.0": 6.5077,
+  "lam0.0_alldecay": 6.5077,
+  "lam0.1": 7.084,
+  "lam0.1_alldecay": 7.0481,
+  "lam0.5": 7.8585,
+  "lam0.5_alldecay": 7.8105,
+  "lam2.0": 8.1996,
+  "lam2.0_alldecay": 8.1621
+ },
+ {
+  "ALPHA": 0.5,
+  "baseline": 7.2723,
+  "lam0.0": 7.0266,
+  "lam0.0_alldecay": 7.0266,
+  "lam0.1": 7.6967,
+  "lam0.1_alldecay": 7.6672,
+  "lam0.5": 8.2473,
+  "lam0.5_alldecay": 8.215,
+  "lam2.0": 8.4178,
+  "lam2.0_alldecay": 8.394
+ },
+ {
+  "ALPHA": 1.0,
+  "baseline": 7.2133,
+  "lam0.0": 7.3346,
+  "lam0.0_alldecay": 7.3346,
+  "lam0.1": 7.9506,
+  "lam0.1_alldecay": 7.9287,
+  "lam0.5": 8.3776,
+  "lam0.5_alldecay": 8.3634,
+  "lam2.0": 8.492,
+  "lam2.0_alldecay": 8.4888
+ }
+]

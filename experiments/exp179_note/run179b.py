@@ -1,1 +1,204 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMTc4YiDorrDnrJTorrDvvIjkv67mraPniYjvvIkK5L+uIDE3OCDnmoTkuInkuKrplJnvvJoKICAxKSDmtYvor5Xpm4YgT09WIOacquWkhOeQhiAtPiDmqKHlnovnq5/mr5QgdW5pZ3JhbSDln7rnur/ov5jlt67vvIg4LjU4IHZzIDcuNTLvvInjgILliqAgPHVuaz7jgIIKICAyKSDml6Dlm57pgIAgLT4gSz0zIOWcqCAyOTE1IOWtl+iuree7g+ivreaWmeS4iuWHoOS5juWFqCBtaXNz44CC5pS55Li6IEsgKyBiYWNrb2Zm44CCCiAgMykg56yU6K6w5a2X6IqC5Y+j5b6E5LiN5LiA6Ie077yI5Y6f5paH5oqE5pysIHZzIG5ncmFtIOihqOa3t+eul++8ieOAgue7n+S4gOS4uiLor6XlvaLlvI/nnJ/lrp7ljaDlpJrlsJHlrZfoioIi44CCCiIiIgppbXBvcnQgb3MsIGpzb24sIG1hdGgKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QsIENvdW50ZXIKCkQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTc5X25vdGUiClNSQyA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNzVfYWxpZ24vdV9zaWRlLnR4dCIKQUxQSEEgPSAwLjEKCmxpbmVzID0gW2wuc3RyaXAoKSBmb3IgbCBpbiBvcGVuKFNSQywgZW5jb2Rpbmc9InV0Zi04IikgaWYgbC5zdHJpcCgpXQpuX3Rlc3QgPSA4CnRyYWluLCB0ZXN0ID0gbGluZXNbOi1uX3Rlc3RdLCBsaW5lc1stbl90ZXN0Ol0KdHJhaW5fdGV4dCA9ICIiLmpvaW4odHJhaW4pCnRlc3RfdGV4dCA9ICIiLmpvaW4odGVzdCkKCnZvY2FiID0gc29ydGVkKHNldCh0cmFpbl90ZXh0KSkKViA9IGxlbih2b2NhYikgKyAxICAgICAgICAgICAgICAgICAgICAgICMgKzEgPSA8dW5rPgpVTksgPSAiPHVuaz4iCmlkeCA9IHtjOiBpIGZvciBpLCBjIGluIGVudW1lcmF0ZSh2b2NhYil9CmVuY190ciA9IFtpZHguZ2V0KGMsIFYgLSAxKSBmb3IgYyBpbiB0cmFpbl90ZXh0XQplbmNfdGUgPSBbaWR4LmdldChjLCBWIC0gMSkgZm9yIGMgaW4gdGVzdF90ZXh0XQpvb3YgPSBzdW0oMSBmb3IgYyBpbiB0ZXN0X3RleHQgaWYgYyBub3QgaW4gaWR4KQoKbXNnX29mID0gW10KZm9yIGkyLCBsIGluIGVudW1lcmF0ZSh0cmFpbik6CiAgICBtc2dfb2YgKz0gW2kyXSAqIGxlbihsKQpsYXN0ID0gbGVuKHRyYWluKSAtIDEKCnByaW50KCJ0cmFpbl9jaGFycz0lZCB0ZXN0X2NoYXJzPSVkIHZvY2FiPSVkIFY9JWQgIHRlc3RfT09WPSVkKCUuMWYlJSkiCiAgICAgICUgKGxlbih0cmFpbl90ZXh0KSwgbGVuKHRlc3RfdGV4dCksIGxlbih2b2NhYiksIFYsIG9vdiwKICAgICAgICAgMTAwLjAgKiBvb3YgLyBsZW4odGVzdF90ZXh0KSkpCgoKZGVmIGJ1aWxkKGVuYywgd2VpZ2h0X2ZuPU5vbmUsIGtlZXBfbWluPTEsIGRyb3BfY291bnRzPUZhbHNlLCBLPTIpOgogICAgbSA9IGRlZmF1bHRkaWN0KENvdW50ZXIpCiAgICBmb3IgaSBpbiByYW5nZShsZW4oZW5jKSAtIEspOgogICAgICAgIHcgPSAxLjAgaWYgd2VpZ2h0X2ZuIGlzIE5vbmUgZWxzZSB3ZWlnaHRfZm4oaSkKICAgICAgICBtW3R1cGxlKGVuY1tpOmkgKyBLXSldW2VuY1tpICsgS11dICs9IHcKICAgIG91dCA9IHt9CiAgICBmb3IgYywgY250IGluIG0uaXRlbXMoKToKICAgICAgICBpZiBzdW0oY250LnZhbHVlcygpKSA8IGtlZXBfbWluOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIG91dFtjXSA9IENvdW50ZXIoe2s6IDEuMCBmb3IgayBpbiBjbnR9KSBpZiBkcm9wX2NvdW50cyBlbHNlIGNudAogICAgcmV0dXJuIG91dAoKCmRlZiBuZ3JhbXMoZW5jLCBLKToKICAgICIiIuW7uiBLIOmYtuWbnumAgOaooeWei++8mkssIEstMSwgLi4uLCAxLCB1bmlncmFtIiIiCiAgICBsZXZlbHMgPSBbXQogICAgZm9yIGsgaW4gcmFuZ2UoSywgMCwgLTEpOgogICAgICAgIGxldmVscy5hcHBlbmQoYnVpbGQoZW5jLCBLPWspKQogICAgdW5pID0gQ291bnRlcihlbmMpCiAgICBsZXZlbHMuYXBwZW5kKHsiX191bmlfXyI6IHVuaX0pCiAgICByZXR1cm4gbGV2ZWxzCgoKZGVmIGJpdHNfcGVyX2NoYXIobGV2ZWxzLCBlbmNfdGUsIEspOgogICAgdW5pID0gbGV2ZWxzWy0xXVsiX191bmlfXyJdCiAgICB0b3RfdSA9IHN1bSh1bmkudmFsdWVzKCkpCiAgICB0b3QsIG4gPSAwLjAsIDAKICAgIGZvciBpIGluIHJhbmdlKGxlbihlbmNfdGUpIC0gMSk6CiAgICAgICAgbnggPSBlbmNfdGVbaSArIDFdCiAgICAgICAgcCA9IE5vbmUKICAgICAgICBmb3IgbGkgaW4gcmFuZ2UoSyk6CiAgICAgICAgICAgIGsgPSBLIC0gbGkKICAgICAgICAgICAgaWYgayA8IDE6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBjdHggPSB0dXBsZShlbmNfdGVbaSAtIGsgKyAxOmkgKyAxXSkKICAgICAgICAgICAgaWYgbGVuKGN0eCkgPCBrOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgY250ID0gbGV2ZWxzW2xpXS5nZXQoY3R4KQogICAgICAgICAgICBpZiBjbnQ6CiAgICAgICAgICAgICAgICBzID0gc3VtKGNudC52YWx1ZXMoKSkKICAgICAgICAgICAgICAgIHAgPSAoY250LmdldChueCwgMC4wKSArIEFMUEhBKSAvIChzICsgQUxQSEEgKiBWKQogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICBpZiBwIGlzIE5vbmU6CiAgICAgICAgICAgIHAgPSAodW5pLmdldChueCwgMCkgKyBBTFBIQSkgLyAodG90X3UgKyBBTFBIQSAqIFYpCiAgICAgICAgdG90IC09IG1hdGgubG9nMihwKQogICAgICAgIG4gKz0gMQogICAgcmV0dXJuIHRvdCAvIG4KCgojIC0tLS0tLS0tLS0g6YCJ5pyA5LyYIEvvvIjlr7nlupQgMTc2IOWPtyLnnLzmt7Ei77yJIC0tLS0tLS0tLS0KcHJpbnQoIlxuPT09IDA6IOecvOa3se+8iOS4iuS4i+aWhyBL77yJ5omr5o+PID09PSIpCmtzY2FuID0gW10KYmVzdEssIGJlc3RCID0gTm9uZSwgMWU5CmZvciBLIGluIFsxLCAyLCAzLCA0XToKICAgIGx2ID0gbmdyYW1zKGVuY190ciwgSykKICAgIGIgPSBiaXRzX3Blcl9jaGFyKGx2LCBlbmNfdGUsIEspCiAgICBrc2Nhbi5hcHBlbmQoeyJLIjogSywgImJpdHMiOiByb3VuZChiLCA0KX0pCiAgICBpZiBiIDwgYmVzdEI6CiAgICAgICAgYmVzdEIsIGJlc3RLID0gYiwgSwogICAgcHJpbnQoIiAgSz0lZCAgYml0cz0lLjRmIiAlIChLLCBiKSkKSyA9IGJlc3RLCnByaW50KCIgIC0+IOacgOS8mCBLPSVkIiAlIEspCgojIC0tLS0tLS0tLS0g5Z+657q/77ya5LiN6K6w56yU6K6w77yI5Y+q55WZ5a2X56ym6aKR546H77yM5peg6aG65bqP77yJIC0tLS0tLS0tLS0KdW5pID0gQ291bnRlcihlbmNfdHIpCnR1ID0gc3VtKHVuaS52YWx1ZXMoKSkKdGIsIHRuID0gMC4wLCAwCmZvciBpIGluIHJhbmdlKGxlbihlbmNfdGUpIC0gMSk6CiAgICBueCA9IGVuY190ZVtpICsgMV0KICAgIHAgPSAodW5pLmdldChueCwgMCkgKyBBTFBIQSkgLyAodHUgKyBBTFBIQSAqIFYpCiAgICB0YiAtPSBtYXRoLmxvZzIocCk7IHRuICs9IDEKQkFTRSA9IHRiIC8gdG4KcHJpbnQoIlxu5peg56yU6K6w5Z+657q/77yI5Y+q6K6w5a2X56ym6aKR546HL+aXoOmhuuW6j++8iWJpdHM9JS40ZiIgJSBCQVNFKQoKIyAtLS0tLS0tLS0tIEE6IOWGheWMluihsOWHjyB2cyDlpJbljJbnrJTorrAgLS0tLS0tLS0tLQpwcmludCgiXG49PT0gQTog5YaF5YyW77yI6K6w5b+G6KGw5YeP77yJIHZzIOWkluWMlu+8iOeslOiusOS4jeihsOWHj++8iSA9PT0iKQpsdjAgPSBuZ3JhbXMoZW5jX3RyLCBLKQpOT1RFX0JJVFMgPSBiaXRzX3Blcl9jaGFyKGx2MCwgZW5jX3RlLCBLKQpjdXJ2ZUEgPSBbXQpmb3IgbGFtIGluIFswLjAsIDAuMDIsIDAuMDUsIDAuMSwgMC4yLCAwLjUsIDEuMCwgMi4wXToKICAgIHdmID0gTm9uZSBpZiBsYW0gPT0gMCBlbHNlIChsYW1iZGEgTDogKGxhbWJkYSBpOiBtYXRoLmV4cCgtTCAqIChsYXN0IC0gbXNnX29mW2ldKSkpKShsYW0pCiAgICBsdiA9IFtdCiAgICBmb3IgayBpbiByYW5nZShLLCAwLCAtMSk6CiAgICAgICAgbHYuYXBwZW5kKGJ1aWxkKGVuY190ciwgd2VpZ2h0X2ZuPXdmLCBLPWspKQogICAgbHYuYXBwZW5kKHsiX191bmlfXyI6IENvdW50ZXIoZW5jX3RyKX0pCiAgICBiID0gYml0c19wZXJfY2hhcihsdiwgZW5jX3RlLCBLKQogICAgZW50ID0gc3VtKGxlbih2KSBmb3IgdiBpbiBsdlswXS52YWx1ZXMoKSkKICAgIGN1cnZlQS5hcHBlbmQoeyJsYW1iZGEiOiBsYW0sICJiaXRzIjogcm91bmQoYiwgNCksICJlbnRyaWVzIjogZW50LAogICAgICAgICAgICAgICAgICAgImRlbHRhX3ZzX25vdGUiOiByb3VuZChiIC0gTk9URV9CSVRTLCA0KX0pCiAgICBwcmludCgiICBsYW09JS01cyBiaXRzPSUuNGYgZW50cmllcz0lLTZkIM6UdnPnrJTorrA9JSsuNGYiICUgKGxhbSwgYiwgZW50LCBiIC0gTk9URV9CSVRTKSkKCiMgLS0tLS0tLS0tLSBBMjog5a656YeP5Y+X6ZmQIC0tLS0tLS0tLS0KcHJpbnQoIlxuPT09IEEyOiDlrrnph4/lj5fpmZDvvIjlhoXljJblj6roo4XlvpfkuIsgdG9wLU0g5p2h77yJID09PSIpCmZ1bGwwID0gbHYwWzBdCmZsYXQgPSBzb3J0ZWQoKCh3LCBjLCBueCkgZm9yIGMsIGNudCBpbiBmdWxsMC5pdGVtcygpIGZvciBueCwgdyBpbiBjbnQuaXRlbXMoKSksCiAgICAgICAgICAgICAga2V5PWxhbWJkYSB4OiAteFswXSkKdG90X2VudHJpZXMgPSBsZW4oZmxhdCkKY3VydmVBMiA9IFtdCmZvciBmcmFjIGluIFswLjAyLCAwLjA1LCAwLjEsIDAuMjUsIDAuNSwgMS4wXToKICAgIE0gPSBtYXgoMSwgaW50KHRvdF9lbnRyaWVzICogZnJhYykpCiAgICBtbSA9IGRlZmF1bHRkaWN0KENvdW50ZXIpCiAgICBmb3IgdywgYywgbnggaW4gZmxhdFs6TV06CiAgICAgICAgbW1bY11bbnhdID0gdwogICAgbHYgPSBbbW1dCiAgICBmb3IgayBpbiByYW5nZShLIC0gMSwgMCwgLTEpOgogICAgICAgIGx2LmFwcGVuZChidWlsZChlbmNfdHIsIEs9aykpCiAgICBsdi5hcHBlbmQoeyJfX3VuaV9fIjogQ291bnRlcihlbmNfdHIpfSkKICAgIGIgPSBiaXRzX3Blcl9jaGFyKGx2LCBlbmNfdGUsIEspCiAgICBjdXJ2ZUEyLmFwcGVuZCh7ImZyYWMiOiBmcmFjLCAiTSI6IE0sICJiaXRzIjogcm91bmQoYiwgNCksCiAgICAgICAgICAgICAgICAgICAgImRlbHRhX3ZzX25vdGUiOiByb3VuZChiIC0gTk9URV9CSVRTLCA0KX0pCiAgICBwcmludCgiICBNPSUtNmQgKCUuMmYpIGJpdHM9JS40ZiDOlD0lKy40ZiIgJSAoTSwgZnJhYywgYiwgYiAtIE5PVEVfQklUUykpCgojIC0tLS0tLS0tLS0gQjog56yU6K6w5b2i5byPIC0tLS0tLS0tLS0KcHJpbnQoIlxuPT09IEI6IOeslOiusOW9ouW8j++8iOWQjOagt+WGheWuue+8jOS4jeWQjOi9veS9k++8iSA9PT0iKQpyYXdfYnl0ZXMgPSBsZW4odHJhaW5fdGV4dC5lbmNvZGUoInV0Zi04IikpCmZvcm1zID0gW10KCiMgMSDmioTmnKzvvJrljp/mlofnhafmioTvvIjnlKjml7bph43or7vph43lu7rvvInigJTigJTkurrnsbvmnIDlj6TogIHnmoTlvaLlvI8KZm9ybXMuYXBwZW5kKCgi5oqE5pyswrfljp/mlofnhafmioQiLCBOb25lLCByYXdfYnl0ZXMpKQoKIyAyIOaRmOaKhO+8muWPquaKhOWkjeeOsOKJpTIg55qE5LiK5LiL5paH77yIbmdyYW0g6KGo77yMM0Iv56ym77yJCm0yID0gYnVpbGQoZW5jX3RyLCBrZWVwX21pbj0yLCBLPUspCmZvcm1zLmFwcGVuZCgoIuaRmOaKhMK35Y+q55WZ5aSN546w4omlMiIsIG0yLCBsZW4obTIpICogKChLICsgMSkgKiAzICsgNCkpKQoKIyAzIOe8luWPt++8muespuWPt+KGkuaVtOaVsO+8jDJCL+espu+8iOaVsOWtly/nrKblj7forrDkuovvvIkKbTMgPSBidWlsZChlbmNfdHIsIEs9SykKZm9ybXMuYXBwZW5kKCgi56ym5Y+3wrfmlbDlrZfnvJblj7coMkIv56ymKSIsIG0zLCBsZW4obTMpICogKChLICsgMSkgKiAyICsgNCkpKQoKIyA0IOe8luWPtyvmkZjmioQKbTQgPSBidWlsZChlbmNfdHIsIGtlZXBfbWluPTIsIEs9SykKZm9ybXMuYXBwZW5kKCgi56ym5Y+3wrfnvJblj7cr5pGY5oqEIiwgbTQsIGxlbihtNCkgKiAoKEsgKyAxKSAqIDIgKyA0KSkpCgojIDUg55S777ya5Y+q5a2Y57uT5p6E6L6577yM5LiN5a2Y6aKR5qyh77yIPeWbvi/mi5PmiZHvvIkKbTUgPSBidWlsZChlbmNfdHIsIGRyb3BfY291bnRzPVRydWUsIEs9SykKZm9ybXMuYXBwZW5kKCgi55S7wrfnu5PmnoTlm74o5Y+q5a2Y6L65KSIsIG01LCBsZW4obTUpICogKChLICsgMSkgKiAyKSkpCgpjdXJ2ZUIgPSBbXQpmb3IgbmFtZSwgbSwgbmIgaW4gZm9ybXM6CiAgICBpZiBtIGlzIE5vbmU6CiAgICAgICAgYiA9IE5PVEVfQklUUyAgICAgICAgICAjIOaKhOacrOWPr+WujOaVtOmHjeW7ugogICAgZWxzZToKICAgICAgICBsdiA9IFttXQogICAgICAgIGZvciBrIGluIHJhbmdlKEsgLSAxLCAwLCAtMSk6CiAgICAgICAgICAgIGx2LmFwcGVuZChidWlsZChlbmNfdHIsIEs9aykpCiAgICAgICAgbHYuYXBwZW5kKHsiX191bmlfXyI6IENvdW50ZXIoZW5jX3RyKX0pCiAgICAgICAgYiA9IGJpdHNfcGVyX2NoYXIobHYsIGVuY190ZSwgSykKICAgIHNhdmVkID0gQkFTRSAtIGIKICAgIGN1cnZlQi5hcHBlbmQoeyJmb3JtIjogbmFtZSwgImJpdHMiOiByb3VuZChiLCA0KSwgIm5vdGVfYnl0ZXMiOiBuYiwKICAgICAgICAgICAgICAgICAgICJub3RlX2tiIjogcm91bmQobmIgLyAxMDI0LjAsIDMpLAogICAgICAgICAgICAgICAgICAgInNhdmVkX3ZzX25vdGVfYWJzZW50Ijogcm91bmQoc2F2ZWQsIDQpLAogICAgICAgICAgICAgICAgICAgImJpdHNfcGVyX2tiIjogcm91bmQoc2F2ZWQgLyAobmIgLyAxMDI0LjApLCA0KX0pCiAgICBwcmludCgiICAlLTIycyBiaXRzPSUuNGYg56yU6K6wPSU4ZCBCKCU2LjJmIEtCKSDnnIElKy40ZiAtPiAlKy40ZiBiaXRzL0tCIgogICAgICAgICAgJSAobmFtZSwgYiwgbmIsIG5iIC8gMTAyNC4wLCBzYXZlZCwgc2F2ZWQgLyAobmIgLyAxMDI0LjApKSkKCnJlcyA9IHsibWV0YSI6IHsiSyI6IEssICJWIjogViwgInZvY2FiIjogbGVuKHZvY2FiKSwKICAgICAgICAgICAgICAgICJ0cmFpbl9jaGFycyI6IGxlbih0cmFpbl90ZXh0KSwgInRlc3RfY2hhcnMiOiBsZW4odGVzdF90ZXh0KSwKICAgICAgICAgICAgICAgICJ0ZXN0X09PViI6IG9vdiwgInJhd19ieXRlcyI6IHJhd19ieXRlc30sCiAgICAgICAia3NjYW4iOiBrc2NhbiwgImJhc2VsaW5lX25vX25vdGUiOiByb3VuZChCQVNFLCA0KSwKICAgICAgICJub3RlX2JpdHMiOiByb3VuZChOT1RFX0JJVFMsIDQpLAogICAgICAgIkFfZGVjYXkiOiBjdXJ2ZUEsICJBMl9jYXBhY2l0eSI6IGN1cnZlQTIsCiAgICAgICAiQl9mb3JtcyI6IHNvcnRlZChjdXJ2ZUIsIGtleT1sYW1iZGEgeDogLXhbImJpdHNfcGVyX2tiIl0pfQpqc29uLmR1bXAocmVzLCBvcGVuKG9zLnBhdGguam9pbihELCAicmVzdWx0MTc5Yi5qc29uIiksICJ3IiwgZW5jb2Rpbmc9InV0Zi04IiksCiAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQpwcmludCgiXG53cm90ZSByZXN1bHQxNzliLmpzb24iKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+178b 记笔记（修正版）
+修 178 的三个错：
+  1) 测试集 OOV 未处理 -> 模型竟比 unigram 基线还差（8.58 vs 7.52）。加 <unk>。
+  2) 无回退 -> K=3 在 2915 字训练语料上几乎全 miss。改为 K + backoff。
+  3) 笔记字节口径不一致（原文抄本 vs ngram 表混算）。统一为"该形式真实占多少字节"。
+"""
+import os, json, math
+from collections import defaultdict, Counter
+
+D = "/data/workspace/luoshen-o1/experiments/exp179_note"
+SRC = "/data/workspace/luoshen-o1/experiments/exp175_align/u_side.txt"
+ALPHA = 0.1
+
+lines = [l.strip() for l in open(SRC, encoding="utf-8") if l.strip()]
+n_test = 8
+train, test = lines[:-n_test], lines[-n_test:]
+train_text = "".join(train)
+test_text = "".join(test)
+
+vocab = sorted(set(train_text))
+V = len(vocab) + 1                      # +1 = <unk>
+UNK = "<unk>"
+idx = {c: i for i, c in enumerate(vocab)}
+enc_tr = [idx.get(c, V - 1) for c in train_text]
+enc_te = [idx.get(c, V - 1) for c in test_text]
+oov = sum(1 for c in test_text if c not in idx)
+
+msg_of = []
+for i2, l in enumerate(train):
+    msg_of += [i2] * len(l)
+last = len(train) - 1
+
+print("train_chars=%d test_chars=%d vocab=%d V=%d  test_OOV=%d(%.1f%%)"
+      % (len(train_text), len(test_text), len(vocab), V, oov,
+         100.0 * oov / len(test_text)))
+
+
+def build(enc, weight_fn=None, keep_min=1, drop_counts=False, K=2):
+    m = defaultdict(Counter)
+    for i in range(len(enc) - K):
+        w = 1.0 if weight_fn is None else weight_fn(i)
+        m[tuple(enc[i:i + K])][enc[i + K]] += w
+    out = {}
+    for c, cnt in m.items():
+        if sum(cnt.values()) < keep_min:
+            continue
+        out[c] = Counter({k: 1.0 for k in cnt}) if drop_counts else cnt
+    return out
+
+
+def ngrams(enc, K):
+    """建 K 阶回退模型：K, K-1, ..., 1, unigram"""
+    levels = []
+    for k in range(K, 0, -1):
+        levels.append(build(enc, K=k))
+    uni = Counter(enc)
+    levels.append({"__uni__": uni})
+    return levels
+
+
+def bits_per_char(levels, enc_te, K):
+    uni = levels[-1]["__uni__"]
+    tot_u = sum(uni.values())
+    tot, n = 0.0, 0
+    for i in range(len(enc_te) - 1):
+        nx = enc_te[i + 1]
+        p = None
+        for li in range(K):
+            k = K - li
+            if k < 1:
+                break
+            ctx = tuple(enc_te[i - k + 1:i + 1])
+            if len(ctx) < k:
+                continue
+            cnt = levels[li].get(ctx)
+            if cnt:
+                s = sum(cnt.values())
+                p = (cnt.get(nx, 0.0) + ALPHA) / (s + ALPHA * V)
+                break
+        if p is None:
+            p = (uni.get(nx, 0) + ALPHA) / (tot_u + ALPHA * V)
+        tot -= math.log2(p)
+        n += 1
+    return tot / n
+
+
+# ---------- 选最优 K（对应 176 号"眼深"） ----------
+print("\n=== 0: 眼深（上下文 K）扫描 ===")
+kscan = []
+bestK, bestB = None, 1e9
+for K in [1, 2, 3, 4]:
+    lv = ngrams(enc_tr, K)
+    b = bits_per_char(lv, enc_te, K)
+    kscan.append({"K": K, "bits": round(b, 4)})
+    if b < bestB:
+        bestB, bestK = b, K
+    print("  K=%d  bits=%.4f" % (K, b))
+K = bestK
+print("  -> 最优 K=%d" % K)
+
+# ---------- 基线：不记笔记（只留字符频率，无顺序） ----------
+uni = Counter(enc_tr)
+tu = sum(uni.values())
+tb, tn = 0.0, 0
+for i in range(len(enc_te) - 1):
+    nx = enc_te[i + 1]
+    p = (uni.get(nx, 0) + ALPHA) / (tu + ALPHA * V)
+    tb -= math.log2(p); tn += 1
+BASE = tb / tn
+print("\n无笔记基线（只记字符频率/无顺序）bits=%.4f" % BASE)
+
+# ---------- A: 内化衰减 vs 外化笔记 ----------
+print("\n=== A: 内化（记忆衰减） vs 外化（笔记不衰减） ===")
+lv0 = ngrams(enc_tr, K)
+NOTE_BITS = bits_per_char(lv0, enc_te, K)
+curveA = []
+for lam in [0.0, 0.02, 0.05, 0.1, 0.2, 0.5, 1.0, 2.0]:
+    wf = None if lam == 0 else (lambda L: (lambda i: math.exp(-L * (last - msg_of[i]))))(lam)
+    lv = []
+    for k in range(K, 0, -1):
+        lv.append(build(enc_tr, weight_fn=wf, K=k))
+    lv.append({"__uni__": Counter(enc_tr)})
+    b = bits_per_char(lv, enc_te, K)
+    ent = sum(len(v) for v in lv[0].values())
+    curveA.append({"lambda": lam, "bits": round(b, 4), "entries": ent,
+                   "delta_vs_note": round(b - NOTE_BITS, 4)})
+    print("  lam=%-5s bits=%.4f entries=%-6d Δvs笔记=%+.4f" % (lam, b, ent, b - NOTE_BITS))
+
+# ---------- A2: 容量受限 ----------
+print("\n=== A2: 容量受限（内化只装得下 top-M 条） ===")
+full0 = lv0[0]
+flat = sorted(((w, c, nx) for c, cnt in full0.items() for nx, w in cnt.items()),
+              key=lambda x: -x[0])
+tot_entries = len(flat)
+curveA2 = []
+for frac in [0.02, 0.05, 0.1, 0.25, 0.5, 1.0]:
+    M = max(1, int(tot_entries * frac))
+    mm = defaultdict(Counter)
+    for w, c, nx in flat[:M]:
+        mm[c][nx] = w
+    lv = [mm]
+    for k in range(K - 1, 0, -1):
+        lv.append(build(enc_tr, K=k))
+    lv.append({"__uni__": Counter(enc_tr)})
+    b = bits_per_char(lv, enc_te, K)
+    curveA2.append({"frac": frac, "M": M, "bits": round(b, 4),
+                    "delta_vs_note": round(b - NOTE_BITS, 4)})
+    print("  M=%-6d (%.2f) bits=%.4f Δ=%+.4f" % (M, frac, b, b - NOTE_BITS))
+
+# ---------- B: 笔记形式 ----------
+print("\n=== B: 笔记形式（同样内容，不同载体） ===")
+raw_bytes = len(train_text.encode("utf-8"))
+forms = []
+
+# 1 抄本：原文照抄（用时重读重建）——人类最古老的形式
+forms.append(("抄本·原文照抄", None, raw_bytes))
+
+# 2 摘抄：只抄复现≥2 的上下文（ngram 表，3B/符）
+m2 = build(enc_tr, keep_min=2, K=K)
+forms.append(("摘抄·只留复现≥2", m2, len(m2) * ((K + 1) * 3 + 4)))
+
+# 3 编号：符号→整数，2B/符（数字/符号记事）
+m3 = build(enc_tr, K=K)
+forms.append(("符号·数字编号(2B/符)", m3, len(m3) * ((K + 1) * 2 + 4)))
+
+# 4 编号+摘抄
+m4 = build(enc_tr, keep_min=2, K=K)
+forms.append(("符号·编号+摘抄", m4, len(m4) * ((K + 1) * 2 + 4)))
+
+# 5 画：只存结构边，不存频次（=图/拓扑）
+m5 = build(enc_tr, drop_counts=True, K=K)
+forms.append(("画·结构图(只存边)", m5, len(m5) * ((K + 1) * 2)))
+
+curveB = []
+for name, m, nb in forms:
+    if m is None:
+        b = NOTE_BITS          # 抄本可完整重建
+    else:
+        lv = [m]
+        for k in range(K - 1, 0, -1):
+            lv.append(build(enc_tr, K=k))
+        lv.append({"__uni__": Counter(enc_tr)})
+        b = bits_per_char(lv, enc_te, K)
+    saved = BASE - b
+    curveB.append({"form": name, "bits": round(b, 4), "note_bytes": nb,
+                   "note_kb": round(nb / 1024.0, 3),
+                   "saved_vs_note_absent": round(saved, 4),
+                   "bits_per_kb": round(saved / (nb / 1024.0), 4)})
+    print("  %-22s bits=%.4f 笔记=%8d B(%6.2f KB) 省%+.4f -> %+.4f bits/KB"
+          % (name, b, nb, nb / 1024.0, saved, saved / (nb / 1024.0)))
+
+res = {"meta": {"K": K, "V": V, "vocab": len(vocab),
+                "train_chars": len(train_text), "test_chars": len(test_text),
+                "test_OOV": oov, "raw_bytes": raw_bytes},
+       "kscan": kscan, "baseline_no_note": round(BASE, 4),
+       "note_bits": round(NOTE_BITS, 4),
+       "A_decay": curveA, "A2_capacity": curveA2,
+       "B_forms": sorted(curveB, key=lambda x: -x["bits_per_kb"])}
+json.dump(res, open(os.path.join(D, "result179b.json"), "w", encoding="utf-8"),
+          ensure_ascii=False, indent=1)
+print("\nwrote result179b.json")

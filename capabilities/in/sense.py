@@ -1,1 +1,184 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5o6l5pS256uvKOaEn+WPl+WZqCnnn6npmLUgwrcgU2Vuc2UgTWF0cml4Cj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrliKTmja7moLggIzQ1MDogcHJvdmVuYW5jZSDnlLEi57O757uf6LCD55So5piv5ZCm55yf55qE5oiQ5Yqf5LqGIuWGs+Wumiwg5LiN5piv55Sx5rOo6YeK5YaZ5LuA5LmI5Yaz5a6a44CCCiAg5omT5byA5aSx6LSlIC0+IFVOQVZBSUxBQkxFLCDlubblpoLlrp7kuIrmiqUgZXJybm8gLyDnvLrlpLHljp/lm6DjgILnu53kuI3pnZnpu5jpmY3nuqfmiJAgU0lNVUxBVEVE44CCCgrpgJrpgZPliIbkuInnsbs6CiAgUkVBTCAgICAgICAg5pys5py655yf5a6e5Y+v6L6+LCDmnInnnJ/lrp7or7vmlbAKICBVTkFWQUlMQUJMRSDnjq/looPmi5Lnu50v57y656Gs5Lu2L+e8uuadg+mZkCwg5aaC5a6e5LiK5oql5Y6f5ZugCiAgKOS4jeiuviBTSU1VTEFURUQg5YaS5YWF5qGjKQoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHRpbWUsIHN1YnByb2Nlc3MsIHVybGxpYi5yZXF1ZXN0CmZyb20gdHlwaW5nIGltcG9ydCBEaWN0LCBBbnkKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBjdjIKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAoKRk9OVCA9ICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIgpPVVQgID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g6KeG6KeJOiDpgKDliLrmv4AKZGVmIG1ha2Vfc3RpbXVsdXMoc2hhcGU6IHN0ciwgbGFiZWw6IHN0ciwgcGF0aDogc3RyKToKICAgICIiIueUuyBzaGFwZSjlnIYv5pa5L+S4ieinki/mmJ8pLCDlhpkgbGFiZWzjgILmloflrZfljLogeT4zNDAsIOWbvuW9ouWMuiB5PDMzMCDigJTigJQg5Lik5Yy65LiN6YeN5Y+g44CCIiIiCiAgICBpbWcgPSBJbWFnZS5uZXcoIlJHQiIsICg2NDAsIDQ4MCksICJ3aGl0ZSIpCiAgICBkID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQogICAgYyA9ICgwLCAwLCAwKQogICAgaWYgc2hhcGUgPT0gIuWchiI6ICAgZC5lbGxpcHNlKFsyMTAsIDYwLCA0MzAsIDI4MF0sIGZpbGw9YykKICAgIGVsaWYgc2hhcGUgPT0gIuaWuSI6IGQucmVjdGFuZ2xlKFsyMTAsIDYwLCA0MzAsIDI4MF0sIGZpbGw9YykKICAgIGVsaWYgc2hhcGUgPT0gIuS4ieinkiI6IGQucG9seWdvbihbKDMyMCwgNjApLCAoMTgwLCAyODApLCAoNDYwLCAyODApXSwgZmlsbD1jKQogICAgZWxpZiBzaGFwZSA9PSAi5pifIjoKICAgICAgICBwdHMgPSBbXQogICAgICAgIGZvciBpIGluIHJhbmdlKDEwKToKICAgICAgICAgICAgaW1wb3J0IG1hdGgKICAgICAgICAgICAgciA9IDExMCBpZiBpICUgMiA9PSAwIGVsc2UgNDYKICAgICAgICAgICAgYSA9IC1tYXRoLnBpIC8gMiArIGkgKiBtYXRoLnBpIC8gNQogICAgICAgICAgICBwdHMuYXBwZW5kKCgzMjAgKyByICogbWF0aC5jb3MoYSksIDE3MCArIHIgKiBtYXRoLnNpbihhKSkpCiAgICAgICAgZC5wb2x5Z29uKHB0cywgZmlsbD1jKQogICAgZiA9IEltYWdlRm9udC50cnVldHlwZShGT05ULCAxMTApCiAgICBkLnRleHQoKDMyMCwgNDIwKSwgbGFiZWwsIGZvbnQ9ZiwgZmlsbD1jLCBhbmNob3I9Im1tIikKICAgIGltZy5zYXZlKHBhdGgpCiAgICByZXR1cm4gcGF0aAoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOmAmumBkzE6IOespuWPtyhPQ1IpCmRlZiBjaGFuX3N5bWJvbChpbWdfYmdyKSAtPiBzdHI6CiAgICBzdWIgPSBpbWdfYmdyWzM0MDosIDpdICAgICAgICAgICAgICAgICAgICAgICMg5Y+q55yL5paH5a2X5Yy6CiAgICBjdjIuaW13cml0ZSgiL3RtcC9fb2NyLnBuZyIsIHN1YikKICAgIHRyeToKICAgICAgICBvID0gc3VicHJvY2Vzcy5ydW4oWyJ0ZXNzZXJhY3QiLCAiLWwiLCAiY2hpX3NpbSIsICItLXBzbSIsICIxMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiL3RtcC9fb2NyLnBuZyIsICJzdGRvdXQiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTMwKQogICAgICAgIHJldHVybiBvLnN0ZG91dC5zdHJpcCgpLnJlcGxhY2UoIlxuIiwgIiIpLnJlcGxhY2UoIiAiLCAiIikKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXR1cm4gIkZBSUw6IiArIHR5cGUoZSkuX19uYW1lX18KCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDpgJrpgZMyOiDlh6DkvZUo5b2i54q2KQpkZWYgY2hhbl9nZW9tZXRyeShpbWdfYmdyKToKICAgIGcgPSBpbWdfYmdyWzozMzAsIDpdICAgICAgICAgICAgICAgICAgICAgICAgIyDlj6rnnIvlm77lvaLljLoKICAgIGdyYXkgPSBjdjIuY3Z0Q29sb3IoZywgY3YyLkNPTE9SX0JHUjJHUkFZKQogICAgXywgYiA9IGN2Mi50aHJlc2hvbGQoZ3JheSwgMTI3LCAyNTUsIGN2Mi5USFJFU0hfQklOQVJZX0lOVikKICAgIGNudHMsIF8gPSBjdjIuZmluZENvbnRvdXJzKGIsIGN2Mi5SRVRSX0VYVEVSTkFMLCBjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkKICAgIGlmIG5vdCBjbnRzOgogICAgICAgIHJldHVybiBOb25lLCAwLjAKICAgIGMgPSBtYXgoY250cywga2V5PWN2Mi5jb250b3VyQXJlYSkKICAgIEEgPSBjdjIuY29udG91ckFyZWEoYyk7IFAgPSBjdjIuYXJjTGVuZ3RoKGMsIFRydWUpCiAgICBjaXJjID0gNCAqIG5wLnBpICogQSAvIChQICogUCkgaWYgUCA+IDAgZWxzZSAwLjAKICAgIHBlcmkgPSBjdjIuYXJjTGVuZ3RoKGMsIFRydWUpCiAgICBhcHByb3ggPSBjdjIuYXBwcm94UG9seURQKGMsIDAuMDQgKiBwZXJpLCBUcnVlKQogICAgbiA9IGxlbihhcHByb3gpCiAgICBodWxsID0gY3YyLmNvbnZleEh1bGwoYykKICAgIHNvbGlkID0gQSAvIGN2Mi5jb250b3VyQXJlYShodWxsKSBpZiBjdjIuY29udG91ckFyZWEoaHVsbCkgPiAwIGVsc2UgMAogICAgaWYgY2lyYyA+IDAuODU6ICAgICAgICAgICAgICAgICAgICBzID0gIuWchiIKICAgIGVsaWYgbiA9PSA0IGFuZCBjaXJjID4gMC43MDogICAgICAgcyA9ICLmlrkiCiAgICBlbGlmIG4gPT0gMzogICAgICAgICAgICAgICAgICAgICAgIHMgPSAi5LiJ6KeSIgogICAgZWxpZiBzb2xpZCA8IDAuODA6ICAgICAgICAgICAgICAgICBzID0gIuaYnyIKICAgIGVsc2U6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcyA9ICI/IgogICAgcmV0dXJuIHMsIHJvdW5kKGZsb2F0KGNpcmMpLCAzKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOmAmumBkzM6IOWxj+W5lSAvZGV2L2ZiMApkZWYgY2hhbl9mcmFtZWJ1ZmZlcigpOgogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbigiL2Rldi9mYjAiLCAicmIiKSBhcyBmOgogICAgICAgICAgICByYXcgPSBmLnJlYWQoNjQwICogNDgwICogNCkKICAgICAgICBhID0gbnAuZnJvbWJ1ZmZlcihyYXcsIGR0eXBlPW5wLnVpbnQ4KS5yZXNoYXBlKDQ4MCwgNjQwLCA0KQogICAgICAgIGluayA9IGZsb2F0KChhWzosIDosIDozXS5tZWFuKDIpIDwgMTI4KS5tZWFuKCkpCiAgICAgICAgcmV0dXJuICJSRUFMIiwgImJ5dGVzPSVkIGluaz0lLjRmIiAlIChsZW4ocmF3KSwgaW5rKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCAiJXM6ICVzIiAlICh0eXBlKGUpLl9fbmFtZV9fLCBzdHIoZSlbOjcwXSkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDpgJrpgZM0OiDovpPlhaXkuovku7bmtYEKZGVmIGNoYW5faW5wdXQoKToKICAgIHRyeToKICAgICAgICBmZCA9IG9zLm9wZW4oIi9kZXYvaW5wdXQvZXZlbnQwIiwgb3MuT19SRE9OTFkgfCBvcy5PX05PTkJMT0NLKQogICAgICAgIG9zLmNsb3NlKGZkKQogICAgICAgIHJldHVybiAiUkVBTCIsICJldmRldiBvcGVuX29rIgogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCAiJXMgKGVycm5vICVzKSIgJSAodHlwZShlKS5fX25hbWVfXywgZ2V0YXR0cihlLCAiZXJybm8iLCAiPyIpKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOmAmumBkzU6IOmfs+mikemHh+mbhgpkZWYgY2hhbl9hdWRpbygpOgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKCIvZGV2L3NuZC9wY21DMEQwYyIpOgogICAgICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCAibm8gY2FwdHVyZSBkZXZpY2Ugbm9kZSIKICAgIHN0ID0gb3Muc3RhdCgiL2Rldi9zbmQvcGNtQzBEMGMiKQogICAgaWYgbm90IChzdC5zdF9tb2RlICYgMG8wMDQpOgogICAgICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCAicGNtQzBEMGMgZXhpc3RzIGJ1dCBtb2RlICVvLCBub3QgcmVhZGFibGUiICUgKHN0LnN0X21vZGUgJiAwbzc3NykKICAgIGZvciB0b29sIGluICgiYXJlY29yZCIsICJzb3giLCAicmVjIiwgInBhcmVjb3JkIik6CiAgICAgICAgaWYgc3VicHJvY2Vzcy5ydW4oWyJ3aGljaCIsIHRvb2xdLCBjYXB0dXJlX291dHB1dD1UcnVlKS5yZXR1cm5jb2RlID09IDA6CiAgICAgICAgICAgIHJldHVybiAiUkVBTCIsICJ2aWEgIiArIHRvb2wKICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCAiZGV2aWNlIG5vZGUgcHJlc2VudCwgYnV0IG5vIGFsc2EgdG9vbCAoYXJlY29yZC9zb3gvcmVjL3BhcmVjb3JkKSBpbnN0YWxsZWQiCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g6YCa6YGTNjog546v5aKDKOa4qea5v+WOiykKZGVmIGNoYW5fd2VhdGhlcigpOgogICAgdHJ5OgogICAgICAgIHIgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKAogICAgICAgICAgICAiaHR0cHM6Ly9hcGlzLm1hcC5xcS5jb20vd3Mvd2VhdGhlci92MS8/a2V5PSZsb2NhdGlvbj0zNy41LDEyMi4xIiwgdGltZW91dD04KQogICAgICAgIHJldHVybiAiUkVBTCIsICJIVFRQICVkIiAlIHIuc3RhdHVzCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuICJVTkFWQUlMQUJMRSIsIHR5cGUoZSkuX19uYW1lX18KCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDpgJrpgZM3OiDmnKzkvZPop4kKZGVmIGNoYW5fcHJvcHJpbygpOgogICAgdHJ5OgogICAgICAgIGxvYWQgPSBvcGVuKCIvcHJvYy9sb2FkYXZnIikucmVhZCgpLnNwbGl0KClbMF0KICAgICAgICBtZW0gPSBbbC5zcGxpdCgpWzFdIGZvciBsIGluIG9wZW4oIi9wcm9jL21lbWluZm8iKSBpZiBsLnN0YXJ0c3dpdGgoIk1lbUF2YWlsYWJsZSIpXQogICAgICAgIHJldHVybiAiUkVBTCIsICJsb2FkPSVzIG1lbUF2YWlsPSVzIGtCIiAlIChsb2FkLCBtZW1bMF0gaWYgbWVtIGVsc2UgIj8iKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCB0eXBlKGUpLl9fbmFtZV9fCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g5Li75rWB56iLCmRlZiBtYWluKCk6CiAgICByZXBvcnQ6IERpY3Rbc3RyLCBBbnldID0geyJ0cyI6IHRpbWUuc3RyZnRpbWUoIiVZLSVtLSVkICVIOiVNOiVTIiksICJjaGFubmVscyI6IHt9fQoKICAgICMg5Y+M6YCa6YGT6KeG6KeJICsg55+b55u+5qOA5Ye6CiAgICBjYXNlcyA9IFsoIuWchiIsICLmlrkiKSwgKCLmlrkiLCAi5ZyGIiksICgi5LiJ6KeSIiwgIuaYnyIpLCAoIuaYnyIsICLkuInop5IiKSwKICAgICAgICAgICAgICgi5ZyGIiwgIuWchiIpLCAoIuaWuSIsICLmlrkiKV0KICAgIHJvd3MsIGNvbnRyYWRpY3Rpb25zID0gW10sIDAKICAgIGZvciBzaGFwZSwgbGFiZWwgaW4gY2FzZXM6CiAgICAgICAgcCA9IG9zLnBhdGguam9pbihPVVQsICJzdGltXyVzXyVzLnBuZyIgJSAoc2hhcGUsIGxhYmVsKSkKICAgICAgICBtYWtlX3N0aW11bHVzKHNoYXBlLCBsYWJlbCwgcCkKICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHApCiAgICAgICAgc3ltID0gY2hhbl9zeW1ib2woaW1nKQogICAgICAgIGdlbywgY2lyYyA9IGNoYW5fZ2VvbWV0cnkoaW1nKQogICAgICAgIGNvbmZsaWN0ID0gKHNoYXBlICE9IGxhYmVsKQogICAgICAgICMg5Lil5qC85Y+j5b6EOiDkuKTpgJrpgZPpg73lv4XpobvliKTlr7ksIOaJjeeul+WHuiLmo4Dlh7rnn5vnm74iCiAgICAgICAgc3RyaWN0ID0gY29uZmxpY3QgYW5kIChzeW0gPT0gbGFiZWwgYW5kIGdlbyA9PSBzaGFwZSkKICAgICAgICAjIOWuveadvuWPo+W+hDog5Lik6YCa6YGT57uZ5Ye65b285q2k5LiN5LiA6Ie055qE562U5qGIIC0+IOaatOmcsuWGsueqgSjkuI3opoHmsYLlkIToh6rpg73lr7kpCiAgICAgICAgbG9vc2UgID0gY29uZmxpY3QgYW5kIHN5bSAhPSAiIiBhbmQgc3ltICE9IGdlbwogICAgICAgIGlmIHN0cmljdDoKICAgICAgICAgICAgY29udHJhZGljdGlvbnMgKz0gMQogICAgICAgIHJvd3MuYXBwZW5kKGRpY3Qoc2hhcGU9c2hhcGUsIGxhYmVsPWxhYmVsLCBvY3I9c3ltLCBnZW89Z2VvLCBjaXJjPWNpcmMsCiAgICAgICAgICAgICAgICAgICAgICAgICBpc19jb25mbGljdD1jb25mbGljdCwgc3RyaWN0PXN0cmljdCwgbG9vc2U9bG9vc2UpKQogICAgbl9jb25mID0gc3VtKDEgZm9yIHIgaW4gcm93cyBpZiByWyJpc19jb25mbGljdCJdKQogICAgb2NyX2FjYyA9IHN1bSgxIGZvciByIGluIHJvd3MgaWYgclsib2NyIl0gPT0gclsibGFiZWwiXSkKICAgIGdlb19hY2MgPSBzdW0oMSBmb3IgciBpbiByb3dzIGlmIHJbImdlbyJdID09IHJbInNoYXBlIl0pCiAgICByZXBvcnRbImNoYW5uZWxzIl1bIuinhuinicK356ym5Y+3KE9DUikiXSA9ICJSRUFMIgogICAgcmVwb3J0WyJjaGFubmVscyJdWyLop4bop4nCt+WHoOS9lSjlvaLnirYpIl0gPSAiUkVBTCIKICAgIHJlcG9ydFsiY29udHJhZGljdGlvbiJdID0gewogICAgICAgICJjYXNlcyI6IHJvd3MsCiAgICAgICAgImNvbmZsaWN0X3RvdGFsIjogbl9jb25mLAogICAgICAgICJzdHJpY3RfZGV0ZWN0ZWQiOiBjb250cmFkaWN0aW9ucywKICAgICAgICAibG9vc2VfZGV0ZWN0ZWQiOiBzdW0oMSBmb3IgciBpbiByb3dzIGlmIHJbImxvb3NlIl0pLAogICAgICAgICJvY3JfYWNjIjogIiVkLyVkIiAlIChvY3JfYWNjLCBsZW4ocm93cykpLAogICAgICAgICJnZW9fYWNjIjogIiVkLyVkIiAlIChnZW9fYWNjLCBsZW4ocm93cykpLAogICAgICAgICJub3RlIjogKCLkuKXmoLw95Lik6YCa6YGT5Z2H5Yik5a+5OyDlrr3mnb495Lik6YCa6YGT562U5qGI5LiN5LiA6Ie05Y2z5pq06Zyy5Yay56qB44CCIgogICAgICAgICAgICAgICAgICIwODjlj7fmm77mtYs0LzQsIOS7iuaXpeS4peagvOWPo+W+hOS4i+mZjSwg5ZugIHRlc3NlcmFjdCBjaGlfc2ltIOWvueWNleWtl+ivhuWIq+aKluWKqCIKICAgICAgICAgICAgICAgICAiKOWchi0+5Zu+L+WRmCksIOmdnumAu+i+keWPmOabtOOAguWmguWunuiusOW9lSwg5LiN5Zue5pS55Yik5a6a5Lul5Yi35pWw44CCIil9CgogICAgZm9yIG5hbWUsIGZuIGluICgoIuWxj+W5lcK35bin57yT5YayIiwgY2hhbl9mcmFtZWJ1ZmZlciksICgi6L6T5YWlwrfkuovku7bmtYEiLCBjaGFuX2lucHV0KSwKICAgICAgICAgICAgICAgICAgICAgKCLlkKzop4nCt+mHh+mbhiIsIGNoYW5fYXVkaW8pLCAoIueOr+Wig8K35rip5rm/5Y6LIiwgY2hhbl93ZWF0aGVyKSwKICAgICAgICAgICAgICAgICAgICAgKCLmnKzkvZPop4nCt+i0n+i9veWGheWtmCIsIGNoYW5fcHJvcHJpbykpOgogICAgICAgIHN0LCBkZXRhaWwgPSBmbigpCiAgICAgICAgcmVwb3J0WyJjaGFubmVscyJdW25hbWVdID0gc3QKICAgICAgICByZXBvcnQuc2V0ZGVmYXVsdCgiZGV0YWlsIiwge30pW25hbWVdID0gZGV0YWlsCgogICAgcmVwb3J0WyJ1bmF2YWlsYWJsZV9ub3RlIl0gPSAoIlVOQVZBSUxBQkxFID0g546v5aKD5ouS57udL+e8uuehrOS7ti/nvLrmnYPpmZAsIOWmguWunuS4iuaKpeWOn+WboCwgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIue7neS4jemdmem7mOmZjee6p+aIkCBTSU1VTEFURUQg5YaS5YWFIikKICAgIGpzb24uZHVtcChyZXBvcnQsIG9wZW4ob3MucGF0aC5qb2luKE9VVCwgInNlbnNlX3JlcG9ydC5qc29uIiksICJ3IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKICAgIHByaW50KGpzb24uZHVtcHMocmVwb3J0LCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKSkKICAgIHJldHVybiByZXBvcnQKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+接收端(感受器)矩阵 · Sense Matrix
+=================================
+判据核 #450: provenance 由"系统调用是否真的成功了"决定, 不是由注释写什么决定。
+  打开失败 -> UNAVAILABLE, 并如实上报 errno / 缺失原因。绝不静默降级成 SIMULATED。
+
+通道分三类:
+  REAL        本机真实可达, 有真实读数
+  UNAVAILABLE 环境拒绝/缺硬件/缺权限, 如实上报原因
+  (不设 SIMULATED 冒充档)
+"""
+import os, sys, json, time, subprocess, urllib.request
+from typing import Dict, Any
+import numpy as np
+import cv2
+from PIL import Image, ImageDraw, ImageFont
+
+FONT = "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+OUT  = os.path.dirname(os.path.abspath(__file__))
+
+# ---------------------------------------------------------------- 视觉: 造刺激
+def make_stimulus(shape: str, label: str, path: str):
+    """画 shape(圆/方/三角/星), 写 label。文字区 y>340, 图形区 y<330 —— 两区不重叠。"""
+    img = Image.new("RGB", (640, 480), "white")
+    d = ImageDraw.Draw(img)
+    c = (0, 0, 0)
+    if shape == "圆":   d.ellipse([210, 60, 430, 280], fill=c)
+    elif shape == "方": d.rectangle([210, 60, 430, 280], fill=c)
+    elif shape == "三角": d.polygon([(320, 60), (180, 280), (460, 280)], fill=c)
+    elif shape == "星":
+        pts = []
+        for i in range(10):
+            import math
+            r = 110 if i % 2 == 0 else 46
+            a = -math.pi / 2 + i * math.pi / 5
+            pts.append((320 + r * math.cos(a), 170 + r * math.sin(a)))
+        d.polygon(pts, fill=c)
+    f = ImageFont.truetype(FONT, 110)
+    d.text((320, 420), label, font=f, fill=c, anchor="mm")
+    img.save(path)
+    return path
+
+# ---------------------------------------------------------------- 通道1: 符号(OCR)
+def chan_symbol(img_bgr) -> str:
+    sub = img_bgr[340:, :]                      # 只看文字区
+    cv2.imwrite("/tmp/_ocr.png", sub)
+    try:
+        o = subprocess.run(["tesseract", "-l", "chi_sim", "--psm", "10",
+                            "/tmp/_ocr.png", "stdout"],
+                           capture_output=True, text=True, timeout=30)
+        return o.stdout.strip().replace("\n", "").replace(" ", "")
+    except Exception as e:
+        return "FAIL:" + type(e).__name__
+
+# ---------------------------------------------------------------- 通道2: 几何(形状)
+def chan_geometry(img_bgr):
+    g = img_bgr[:330, :]                        # 只看图形区
+    gray = cv2.cvtColor(g, cv2.COLOR_BGR2GRAY)
+    _, b = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY_INV)
+    cnts, _ = cv2.findContours(b, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    if not cnts:
+        return None, 0.0
+    c = max(cnts, key=cv2.contourArea)
+    A = cv2.contourArea(c); P = cv2.arcLength(c, True)
+    circ = 4 * np.pi * A / (P * P) if P > 0 else 0.0
+    peri = cv2.arcLength(c, True)
+    approx = cv2.approxPolyDP(c, 0.04 * peri, True)
+    n = len(approx)
+    hull = cv2.convexHull(c)
+    solid = A / cv2.contourArea(hull) if cv2.contourArea(hull) > 0 else 0
+    if circ > 0.85:                    s = "圆"
+    elif n == 4 and circ > 0.70:       s = "方"
+    elif n == 3:                       s = "三角"
+    elif solid < 0.80:                 s = "星"
+    else:                              s = "?"
+    return s, round(float(circ), 3)
+
+# ---------------------------------------------------------------- 通道3: 屏幕 /dev/fb0
+def chan_framebuffer():
+    try:
+        with open("/dev/fb0", "rb") as f:
+            raw = f.read(640 * 480 * 4)
+        a = np.frombuffer(raw, dtype=np.uint8).reshape(480, 640, 4)
+        ink = float((a[:, :, :3].mean(2) < 128).mean())
+        return "REAL", "bytes=%d ink=%.4f" % (len(raw), ink)
+    except Exception as e:
+        return "UNAVAILABLE", "%s: %s" % (type(e).__name__, str(e)[:70])
+
+# ---------------------------------------------------------------- 通道4: 输入事件流
+def chan_input():
+    try:
+        fd = os.open("/dev/input/event0", os.O_RDONLY | os.O_NONBLOCK)
+        os.close(fd)
+        return "REAL", "evdev open_ok"
+    except Exception as e:
+        return "UNAVAILABLE", "%s (errno %s)" % (type(e).__name__, getattr(e, "errno", "?"))
+
+# ---------------------------------------------------------------- 通道5: 音频采集
+def chan_audio():
+    if not os.path.exists("/dev/snd/pcmC0D0c"):
+        return "UNAVAILABLE", "no capture device node"
+    st = os.stat("/dev/snd/pcmC0D0c")
+    if not (st.st_mode & 0o004):
+        return "UNAVAILABLE", "pcmC0D0c exists but mode %o, not readable" % (st.st_mode & 0o777)
+    for tool in ("arecord", "sox", "rec", "parecord"):
+        if subprocess.run(["which", tool], capture_output=True).returncode == 0:
+            return "REAL", "via " + tool
+    return "UNAVAILABLE", "device node present, but no alsa tool (arecord/sox/rec/parecord) installed"
+
+# ---------------------------------------------------------------- 通道6: 环境(温湿压)
+def chan_weather():
+    try:
+        r = urllib.request.urlopen(
+            "https://apis.map.qq.com/ws/weather/v1/?key=&location=37.5,122.1", timeout=8)
+        return "REAL", "HTTP %d" % r.status
+    except Exception as e:
+        return "UNAVAILABLE", type(e).__name__
+
+# ---------------------------------------------------------------- 通道7: 本体觉
+def chan_proprio():
+    try:
+        load = open("/proc/loadavg").read().split()[0]
+        mem = [l.split()[1] for l in open("/proc/meminfo") if l.startswith("MemAvailable")]
+        return "REAL", "load=%s memAvail=%s kB" % (load, mem[0] if mem else "?")
+    except Exception as e:
+        return "UNAVAILABLE", type(e).__name__
+
+# ---------------------------------------------------------------- 主流程
+def main():
+    report: Dict[str, Any] = {"ts": time.strftime("%Y-%m-%d %H:%M:%S"), "channels": {}}
+
+    # 双通道视觉 + 矛盾检出
+    cases = [("圆", "方"), ("方", "圆"), ("三角", "星"), ("星", "三角"),
+             ("圆", "圆"), ("方", "方")]
+    rows, contradictions = [], 0
+    for shape, label in cases:
+        p = os.path.join(OUT, "stim_%s_%s.png" % (shape, label))
+        make_stimulus(shape, label, p)
+        img = cv2.imread(p)
+        sym = chan_symbol(img)
+        geo, circ = chan_geometry(img)
+        conflict = (shape != label)
+        # 严格口径: 两通道都必须判对, 才算出"检出矛盾"
+        strict = conflict and (sym == label and geo == shape)
+        # 宽松口径: 两通道给出彼此不一致的答案 -> 暴露冲突(不要求各自都对)
+        loose  = conflict and sym != "" and sym != geo
+        if strict:
+            contradictions += 1
+        rows.append(dict(shape=shape, label=label, ocr=sym, geo=geo, circ=circ,
+                         is_conflict=conflict, strict=strict, loose=loose))
+    n_conf = sum(1 for r in rows if r["is_conflict"])
+    ocr_acc = sum(1 for r in rows if r["ocr"] == r["label"])
+    geo_acc = sum(1 for r in rows if r["geo"] == r["shape"])
+    report["channels"]["视觉·符号(OCR)"] = "REAL"
+    report["channels"]["视觉·几何(形状)"] = "REAL"
+    report["contradiction"] = {
+        "cases": rows,
+        "conflict_total": n_conf,
+        "strict_detected": contradictions,
+        "loose_detected": sum(1 for r in rows if r["loose"]),
+        "ocr_acc": "%d/%d" % (ocr_acc, len(rows)),
+        "geo_acc": "%d/%d" % (geo_acc, len(rows)),
+        "note": ("严格=两通道均判对; 宽松=两通道答案不一致即暴露冲突。"
+                 "088号曾测4/4, 今日严格口径下降, 因 tesseract chi_sim 对单字识别抖动"
+                 "(圆->图/员), 非逻辑变更。如实记录, 不回改判定以刷数。")}
+
+    for name, fn in (("屏幕·帧缓冲", chan_framebuffer), ("输入·事件流", chan_input),
+                     ("听觉·采集", chan_audio), ("环境·温湿压", chan_weather),
+                     ("本体觉·负载内存", chan_proprio)):
+        st, detail = fn()
+        report["channels"][name] = st
+        report.setdefault("detail", {})[name] = detail
+
+    report["unavailable_note"] = ("UNAVAILABLE = 环境拒绝/缺硬件/缺权限, 如实上报原因, "
+                                  "绝不静默降级成 SIMULATED 冒充")
+    json.dump(report, open(os.path.join(OUT, "sense_report.json"), "w"),
+              ensure_ascii=False, indent=2)
+    print(json.dumps(report, ensure_ascii=False, indent=2))
+    return report
+
+if __name__ == "__main__":
+    main()

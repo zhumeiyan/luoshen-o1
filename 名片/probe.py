@@ -1,1 +1,125 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5o6n5Yi25Y+w5pWw5o2u5rqQIOKAlOKAlCDlhajpg6jlvZPlnLrlrp7mtYvvvIzku7vkvZXkuIDkuKrmlbDlrZfpg73kuI3og73mmK/miJHnvJbnmoTjgIIiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHRpbWUsIGhhc2hsaWIsIHN1YnByb2Nlc3MsIHVybGxpYi5yZXF1ZXN0LCBzb2NrZXQKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKClJPT1QgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiClQgPSBvcy5lbnZpcm9uLmdldCgiR0hfVE9LRU4iLCAiZ2hwX2NxYkhONXF2N3RSRDA5YmE1eFFMbjRzeTZOcWV0WTBXTVBpbCIpCgoKZGVmIGdoKHApOgogICAgciA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QoImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20iICsgcCkKICAgIHIuYWRkX2hlYWRlcigiQXV0aG9yaXphdGlvbiIsICJ0b2tlbiAiICsgVCkKICAgIHIuYWRkX2hlYWRlcigiVXNlci1BZ2VudCIsICJ4IikKICAgIHIuYWRkX2hlYWRlcigiQWNjZXB0IiwgImFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiIpCiAgICB0cnk6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHModXJsbGliLnJlcXVlc3QudXJsb3BlbihyLCB0aW1lb3V0PTMwKS5yZWFkKCkpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIHsiX2VyciI6IHJlcHIoZSlbOjgwXX0KCgpkYXRhID0geyLph4fpm4bml7bpl7QiOiBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJVktJW0tJWQgJUg6JU06JVMiKSwKICAgICAgICAi6YeH6ZuG5py65ZmoIjogc29ja2V0LmdldGhvc3RuYW1lKCl9CgojIOKUgOKUgCAxLiDkuIDplK7pqozor4HvvIjnnJ/ot5HvvIznuqYgOSDnp5LvvIkKdDAgPSB0aW1lLnRpbWUoKQp0cnk6CiAgICByID0gc3VicHJvY2Vzcy5ydW4oW3N5cy5leGVjdXRhYmxlLCAidG9vbHMvdmVyaWZ5X2FsbC5weSJdLCBjd2Q9Uk9PVCwKICAgICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUsIHRpbWVvdXQ9MTgwKQogICAgb3V0ID0gci5zdGRvdXQKICAgIHJjID0gci5yZXR1cm5jb2RlCmV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgIG91dCwgcmMgPSByZXByKGUpLCAtMQpkYXRhWyLkuIDplK7pqozor4EiXSA9IHsi6YCA5Ye656CBIjogcmMsICLnlKjml7bnp5IiOiByb3VuZCh0aW1lLnRpbWUoKSAtIHQwLCAxKX0KbGluZXMgPSBbbCBmb3IgbCBpbiBvdXQuc3BsaXRsaW5lcygpIGlmICJbUEFTU10iIGluIGwgb3IgIltGQUlMXSIgaW4gbCBvciAi5rGH5oC7IiBpbiBsXQpkYXRhWyLkuIDplK7pqozor4EiXVsi5piO57uGIl0gPSBbbC5zdHJpcCgpIGZvciBsIGluIGxpbmVzWzo0MF1dCmRhdGFbIuS4gOmUrumqjOivgSJdWyLpgJrov4fmlbAiXSA9IG91dC5jb3VudCgiW1BBU1NdIikKZGF0YVsi5LiA6ZSu6aqM6K+BIl1bIuWksei0peaVsCJdID0gb3V0LmNvdW50KCJbRkFJTF0iKQoKIyDilIDilIAgMi4g5LuT5bqT6LWE5Lqn5riF54K577yI55yf5a6e5paH5Lu257uf6K6h77yJCmRlZiBjb3VudChwcmVkLCBiYXNlPVJPT1QpOgogICAgbiA9IDAKICAgIGZvciBkcCwgZG4sIGZuIGluIG9zLndhbGsoYmFzZSk6CiAgICAgICAgZG5bOl0gPSBbZCBmb3IgZCBpbiBkbiBpZiBkIG5vdCBpbiAoIi5naXQiLCAiX19weWNhY2hlX18iLCAibm9kZV9tb2R1bGVzIildCiAgICAgICAgZm9yIGYgaW4gZm46CiAgICAgICAgICAgIGlmIHByZWQoZik6CiAgICAgICAgICAgICAgICBuICs9IDEKICAgIHJldHVybiBuCgoKZGF0YVsi6LWE5LqnIl0gPSB7CiAgICAi5a6e6aqMIjogbGVuKFtkIGZvciBkIGluIG9zLmxpc3RkaXIob3MucGF0aC5qb2luKFJPT1QsICJleHBlcmltZW50cyIpKQogICAgICAgICAgICAgaWYgZC5zdGFydHN3aXRoKCJleHAiKSBdKSBpZiBvcy5wYXRoLmlzZGlyKG9zLnBhdGguam9pbihST09ULCAiZXhwZXJpbWVudHMiKSkgZWxzZSAwLAogICAgIuWunumqjOaKpeWRiiI6IGNvdW50KGxhbWJkYSBmOiBmLmVuZHN3aXRoKCIubWQiKSwgb3MucGF0aC5qb2luKFJPT1QsICJldmlkZW5jZS/lrp7pqozmiqXlkYoiKSksCiAgICAicHl0aG9u6ISa5pysIjogY291bnQobGFtYmRhIGY6IGYuZW5kc3dpdGgoIi5weSIpKSwKICAgICLliKTmja7moLjooYzmlbAiOiBzdW0oMSBmb3IgXyBpbiBvcGVuKG9zLnBhdGguam9pbihST09ULCAiZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5jb2Rpbmc9InV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKSkKICAgIGlmIG9zLnBhdGguaXNmaWxlKG9zLnBhdGguam9pbihST09ULCAiZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCIpKSBlbHNlIDAsCn0KCiMg4pSA4pSAIDMuIOaIkeacieS7gOS5iOaJi++8iOesrCAxIOadoe+8muWunua1i++8jOS4jeeMnO+8iQpkZWYgcHJvYmUoYywgdD0xNSk6CiAgICB0cnk6CiAgICAgICAgcmV0dXJuIHN1YnByb2Nlc3MucnVuKGMsIHNoZWxsPVRydWUsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRpbWVvdXQ9dCkucmV0dXJuY29kZSA9PSAwCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHJldHVybiBGYWxzZQoKCmhhbmRzID0geyLor7vmlofku7YiOiBwcm9iZSgidGVzdCAtciAiICsgUk9PVCArICIvUkVBRE1FLm1kICYmIGVjaG8gb2siKSwKICAgICAgICAgIuWGmeaWh+S7tiI6IHByb2JlKCJ0ZXN0IC13ICIgKyBST09UICsgIiAmJiBlY2hvIG9rIiksCiAgICAgICAgICLot5Hku6PnoIEiOiBwcm9iZShzeXMuZXhlY3V0YWJsZSArICIgLWMgJ3ByaW50KDEpJyIpLAogICAgICAgICAi6LeRc2hlbGwiOiBwcm9iZSgiZWNobyBvayIpLAogICAgICAgICAi6IGU572R6K+7IjogcHJvYmUoInB5dGhvbjMgLWMgXCJpbXBvcnQgdXJsbGliLnJlcXVlc3Q7dXJsbGliLnJlcXVlc3QudXJsb3BlbignaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbScsdGltZW91dD0xMClcIiIpLAogICAgICAgICAi5Zu+5YOP55Sf5oiQIjogcHJvYmUoInB5dGhvbjMgLWMgJ2Zyb20gUElMIGltcG9ydCBJbWFnZSciKSwKICAgICAgICAgIumfs+mikeWQiOaIkCI6IHByb2JlKCJ3aGljaCBlc3BlYWsgfHwgd2hpY2ggc294IHx8IHB5dGhvbjMgLWMgJ2ltcG9ydCBweXR0c3gzJyIpfQpkYXRhWyLkupTlrpgiXSA9IGhhbmRzCmRhdGFbIuS6lOWumCJdWyJf57y6Il0gPSBbayBmb3IgaywgdiBpbiBoYW5kcy5pdGVtcygpIGlmIHYgaXMgRmFsc2VdCgojIOKUgOKUgCA0LiBHaXRIdWIg55yf5a6e6K+75pWwCmRhdGFbIkdpdEh1YiJdID0geyJyZXBvcyI6IFtdfQp0cnk6CiAgICBycyA9IGdoKCIvdXNlcnMvemh1bWVpeWFuL3JlcG9zP3Blcl9wYWdlPTEwMCZzb3J0PXVwZGF0ZWQiKQogICAgaWYgaXNpbnN0YW5jZShycywgbGlzdCk6CiAgICAgICAgZGF0YVsiR2l0SHViIl1bIuS7k+W6k+aAu+aVsCJdID0gbGVuKHJzKQogICAgICAgIGRhdGFbIkdpdEh1YiJdWyLmgLtzdGFyIl0gPSBzdW0oci5nZXQoInN0YXJnYXplcnNfY291bnQiLCAwKSBmb3IgciBpbiBycykKICAgICAgICBkYXRhWyJHaXRIdWIiXVsicmVwb3MiXSA9IFsKICAgICAgICAgICAgeyJuYW1lIjogclsibmFtZSJdLCAic3RhcnMiOiByLmdldCgic3RhcmdhemVyc19jb3VudCIsIDApLAogICAgICAgICAgICAgInNpemVfa2IiOiByLmdldCgic2l6ZSIsIDApLAogICAgICAgICAgICAgInB1c2hlZCI6IChyLmdldCgicHVzaGVkX2F0Iikgb3IgIiIpWzoxMF0sCiAgICAgICAgICAgICAiZGVzYyI6IChyLmdldCgiZGVzY3JpcHRpb24iKSBvciAiIilbOjYwXX0KICAgICAgICAgICAgZm9yIHIgaW4gcnNdWzoyMF0KZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgZGF0YVsiR2l0SHViIl1bIl9lcnIiXSA9IHJlcHIoZSlbOjgwXQoKIyBQYWdlcwpwZyA9IGdoKCIvcmVwb3Mvemh1bWVpeWFuL2x1b3NoZW4tbzEvcGFnZXMiKQppZiAiaHRtbF91cmwiIGluIHBnOgogICAgZGF0YVsi56uZ54K5Il0gPSB7InVybCI6IHBnWyJodG1sX3VybCJdLCAic3RhdHVzIjogcGcuZ2V0KCJzdGF0dXMiKX0KCiMg4pSA4pSAIDUuIOaIkeeahOWksei0pe+8iOW/hemhu+WFt+S9k+OAgeWPr+afpe+8iQpkYXRhWyLmiJHnmoTlpLHotKUiXSA9IHsKICAgICLku4DkuYgiOiAi5oiR5peg5rOV6aqM6K+B6Ieq5bex5Lqn5Ye655qE5ZOI5biM5piv5ZCm6KKr5Lu75L2V5aSW6YOo5pa554us56uL6K6h566X6L+HIiwKICAgICLor4Hmja4iOiAi5pys6aG15omA5pyJ5pWw5a2X55Sx5oiR5Zyo5q2k5py65ZmoICVzIOS6jiAlcyDph4fpm4bvvIzkvYbku47mnKrmnInlpJbpg6jmlrnlm57miqXov4flkIzlkI3lgLwiICUgKAogICAgICAgIHNvY2tldC5nZXRob3N0bmFtZSgpLCBkYXRhWyLph4fpm4bml7bpl7QiXSksCiAgICAi5b2x5ZONIjogIuaOp+WItuWPsOeahOOAjuW3sumqjOivgeOAj+WPquS7o+ihqOaIkei/mei+uei3kemAmuS6hu+8jOS4jeS7o+ihqOWklumDqOWkjeaguOi/hyIsCn0KCnAgPSBvcy5wYXRoLmpvaW4oUk9PVCwgImRvY3MvY29uc29sZV9kYXRhLmpzb24iKQpvcGVuKHAsICJ3IiwgZW5jb2Rpbmc9InV0Zi04Iikud3JpdGUoanNvbi5kdW1wcyhkYXRhLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSkKaCA9IGhhc2hsaWIuc2hhMjU2KG9wZW4ocCwgInJiIikucmVhZCgpKS5oZXhkaWdlc3QoKQpvcGVuKG9zLnBhdGguam9pbihST09ULCAiZG9jcy9jb25zb2xlX2RhdGFf5ZOI5biMLnR4dCIpLCAidyIpLndyaXRlKGgpCgpwcmludCgiPSIgKiA3MCkKcHJpbnQoIuaOp+WItuWPsOaVsOaNrua6kOW3sueUn+aIkCIpCnByaW50KCI9IiAqIDcwKQpwcmludCgiICDkuIDplK7pqozor4EgIDogJXMg6YCa6L+HIC8gJXMg5aSx6LSlIC8g6YCA5Ye656CBICVzIC8gJXNzIiAlCiAgICAgIChkYXRhWyLkuIDplK7pqozor4EiXVsi6YCa6L+H5pWwIl0sIGRhdGFbIuS4gOmUrumqjOivgSJdWyLlpLHotKXmlbAiXSwKICAgICAgIGRhdGFbIuS4gOmUrumqjOivgSJdWyLpgIDlh7rnoIEiXSwgZGF0YVsi5LiA6ZSu6aqM6K+BIl1bIueUqOaXtuenkiJdKSkKcHJpbnQoIiAg5a6e6aqM5pWwICAgIDoiLCBkYXRhWyLotYTkuqciXVsi5a6e6aqMIl0pCnByaW50KCIgIOWunumqjOaKpeWRiiAgOiIsIGRhdGFbIui1hOS6pyJdWyLlrp7pqozmiqXlkYoiXSkKcHJpbnQoIiAg5Yik5o2u5qC46KGMICA6IiwgZGF0YVsi6LWE5LqnIl1bIuWIpOaNruaguOihjOaVsCJdKQpwcmludCgiICDkupTlrpjnvLogICAgOiIsIGRhdGFbIuS6lOWumCJdWyJf57y6Il0pCnByaW50KCIgIEdpdEh1YiDku5MgOiIsIGRhdGFbIkdpdEh1YiJdLmdldCgi5LuT5bqT5oC75pWwIiksICIgc3RhcjoiLCBkYXRhWyJHaXRIdWIiXS5nZXQoIuaAu3N0YXIiKSkKcHJpbnQoIiAg56uZ54K5ICAgICAgOiIsIGRhdGEuZ2V0KCLnq5nngrkiKSkKcHJpbnQoIiAg6JC955uYICAgICAgOiIsIHApCnByaW50KCIgIOWTiOW4jCAgICAgIDoiLCBoKQo=
+# -*- coding: utf-8 -*-
+"""控制台数据源 —— 全部当场实测，任何一个数字都不能是我编的。"""
+import os, sys, json, time, hashlib, subprocess, urllib.request, socket
+from datetime import datetime
+
+ROOT = "/data/workspace/luoshen-o1"
+T = os.environ.get("GH_TOKEN", "ghp_REDACTED")
+
+
+def gh(p):
+    r = urllib.request.Request("https://api.github.com" + p)
+    r.add_header("Authorization", "token " + T)
+    r.add_header("User-Agent", "x")
+    r.add_header("Accept", "application/vnd.github+json")
+    try:
+        return json.loads(urllib.request.urlopen(r, timeout=30).read())
+    except Exception as e:
+        return {"_err": repr(e)[:80]}
+
+
+data = {"采集时间": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "采集机器": socket.gethostname()}
+
+# ── 1. 一键验证（真跑，约 9 秒）
+t0 = time.time()
+try:
+    r = subprocess.run([sys.executable, "tools/verify_all.py"], cwd=ROOT,
+                       capture_output=True, text=True, timeout=180)
+    out = r.stdout
+    rc = r.returncode
+except Exception as e:
+    out, rc = repr(e), -1
+data["一键验证"] = {"退出码": rc, "用时秒": round(time.time() - t0, 1)}
+lines = [l for l in out.splitlines() if "[PASS]" in l or "[FAIL]" in l or "汇总" in l]
+data["一键验证"]["明细"] = [l.strip() for l in lines[:40]]
+data["一键验证"]["通过数"] = out.count("[PASS]")
+data["一键验证"]["失败数"] = out.count("[FAIL]")
+
+# ── 2. 仓库资产清点（真实文件统计）
+def count(pred, base=ROOT):
+    n = 0
+    for dp, dn, fn in os.walk(base):
+        dn[:] = [d for d in dn if d not in (".git", "__pycache__", "node_modules")]
+        for f in fn:
+            if pred(f):
+                n += 1
+    return n
+
+
+data["资产"] = {
+    "实验": len([d for d in os.listdir(os.path.join(ROOT, "experiments"))
+             if d.startswith("exp") ]) if os.path.isdir(os.path.join(ROOT, "experiments")) else 0,
+    "实验报告": count(lambda f: f.endswith(".md"), os.path.join(ROOT, "evidence/实验报告")),
+    "python脚本": count(lambda f: f.endswith(".py")),
+    "判据核行数": sum(1 for _ in open(os.path.join(ROOT, "evidence/失败模式库/判据核.md"),
+                                  encoding="utf-8", errors="ignore"))
+    if os.path.isfile(os.path.join(ROOT, "evidence/失败模式库/判据核.md")) else 0,
+}
+
+# ── 3. 我有什么手（第 1 条：实测，不猜）
+def probe(c, t=15):
+    try:
+        return subprocess.run(c, shell=True, capture_output=True, timeout=t).returncode == 0
+    except Exception:
+        return False
+
+
+hands = {"读文件": probe("test -r " + ROOT + "/README.md && echo ok"),
+         "写文件": probe("test -w " + ROOT + " && echo ok"),
+         "跑代码": probe(sys.executable + " -c 'print(1)'"),
+         "跑shell": probe("echo ok"),
+         "联网读": probe("python3 -c \"import urllib.request;urllib.request.urlopen('https://api.github.com',timeout=10)\""),
+         "图像生成": probe("python3 -c 'from PIL import Image'"),
+         "音频合成": probe("which espeak || which sox || python3 -c 'import pyttsx3'")}
+data["五官"] = hands
+data["五官"]["_缺"] = [k for k, v in hands.items() if v is False]
+
+# ── 4. GitHub 真实读数
+data["GitHub"] = {"repos": []}
+try:
+    rs = gh("/users/zhumeiyan/repos?per_page=100&sort=updated")
+    if isinstance(rs, list):
+        data["GitHub"]["仓库总数"] = len(rs)
+        data["GitHub"]["总star"] = sum(r.get("stargazers_count", 0) for r in rs)
+        data["GitHub"]["repos"] = [
+            {"name": r["name"], "stars": r.get("stargazers_count", 0),
+             "size_kb": r.get("size", 0),
+             "pushed": (r.get("pushed_at") or "")[:10],
+             "desc": (r.get("description") or "")[:60]}
+            for r in rs][:20]
+except Exception as e:
+    data["GitHub"]["_err"] = repr(e)[:80]
+
+# Pages
+pg = gh("/repos/zhumeiyan/luoshen-o1/pages")
+if "html_url" in pg:
+    data["站点"] = {"url": pg["html_url"], "status": pg.get("status")}
+
+# ── 5. 我的失败（必须具体、可查）
+data["我的失败"] = {
+    "什么": "我无法验证自己产出的哈希是否被任何外部方独立计算过",
+    "证据": "本页所有数字由我在此机器 %s 于 %s 采集，但从未有外部方回报过同名值" % (
+        socket.gethostname(), data["采集时间"]),
+    "影响": "控制台的『已验证』只代表我这边跑通了，不代表外部复核过",
+}
+
+p = os.path.join(ROOT, "docs/console_data.json")
+open(p, "w", encoding="utf-8").write(json.dumps(data, ensure_ascii=False, indent=1))
+h = hashlib.sha256(open(p, "rb").read()).hexdigest()
+open(os.path.join(ROOT, "docs/console_data_哈希.txt"), "w").write(h)
+
+print("=" * 70)
+print("控制台数据源已生成")
+print("=" * 70)
+print("  一键验证  : %s 通过 / %s 失败 / 退出码 %s / %ss" %
+      (data["一键验证"]["通过数"], data["一键验证"]["失败数"],
+       data["一键验证"]["退出码"], data["一键验证"]["用时秒"]))
+print("  实验数    :", data["资产"]["实验"])
+print("  实验报告  :", data["资产"]["实验报告"])
+print("  判据核行  :", data["资产"]["判据核行数"])
+print("  五官缺    :", data["五官"]["_缺"])
+print("  GitHub 仓 :", data["GitHub"].get("仓库总数"), " star:", data["GitHub"].get("总star"))
+print("  站点      :", data.get("站点"))
+print("  落盘      :", p)
+print("  哈希      :", h)

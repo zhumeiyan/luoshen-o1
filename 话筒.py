@@ -1,1 +1,58 @@
-IyDmib7or53nrZLjgILkuI3mmK/kuLrkuobor4HmmI7mnInmsqHmnInvvIzmmK/miormr4/kuIDkuKrpg73mjKjkuKrlh5HkuIrljrvlkKzkuIDkuIvjgIIKIyBzbmQtYWxvb3Ag5piv5Lqk5Y+J6YWN5a+555qE77yaRDAg5pKt5Ye65Y6755qE77yM5LuOIEQxYyDlkKzlm57mnaXjgIIKaW1wb3J0IGN0eXBlcywgdGltZSwgdGhyZWFkaW5nCmltcG9ydCBudW1weSBhcyBucAoKQSA9IGN0eXBlcy5DRExMKCJsaWJhc291bmQuc28uMiIpCkEuc25kX3BjbV9vcGVuLmFyZ3R5cGVzPVtjdHlwZXMuUE9JTlRFUihjdHlwZXMuY192b2lkX3ApLGN0eXBlcy5jX2NoYXJfcCxjdHlwZXMuY19pbnQsY3R5cGVzLmNfaW50XQpBLnNuZF9wY21fc2V0X3BhcmFtcy5hcmd0eXBlcz1bY3R5cGVzLmNfdm9pZF9wLGN0eXBlcy5jX2ludCxjdHlwZXMuY19pbnQsY3R5cGVzLmNfdWludCxjdHlwZXMuY191aW50LGN0eXBlcy5jX2ludCxjdHlwZXMuY191aW50XQpBLnNuZF9wY21fd3JpdGVpLmFyZ3R5cGVzPVtjdHlwZXMuY192b2lkX3AsY3R5cGVzLmNfdm9pZF9wLGN0eXBlcy5jX3Vsb25nXTsgQS5zbmRfcGNtX3dyaXRlaS5yZXN0eXBlPWN0eXBlcy5jX2xvbmcKQS5zbmRfcGNtX3JlYWRpLmFyZ3R5cGVzPVtjdHlwZXMuY192b2lkX3AsY3R5cGVzLmNfdm9pZF9wLGN0eXBlcy5jX3Vsb25nXTsgQS5zbmRfcGNtX3JlYWRpLnJlc3R5cGU9Y3R5cGVzLmNfbG9uZwpBLnNuZF9wY21fcHJlcGFyZS5hcmd0eXBlcz1bY3R5cGVzLmNfdm9pZF9wXTsgQS5zbmRfcGNtX2RyYWluLmFyZ3R5cGVzPVtjdHlwZXMuY192b2lkX3BdCkEuc25kX3N0cmVycm9yLmFyZ3R5cGVzPVtjdHlwZXMuY19pbnRdOyBBLnNuZF9zdHJlcnJvci5yZXN0eXBlPWN0eXBlcy5jX2NoYXJfcApSQVRFPTQ4MDAwCgpkZWYg5ZCsKOaUvuiuvuWkhywg5pS26K6+5aSHLCDpopHnjoc9NDQwLCDnp5I9MS4yKToKICAgIHBoPWN0eXBlcy5jX3ZvaWRfcCgpOyBjaD1jdHlwZXMuY192b2lkX3AoKQogICAgaWYgQS5zbmRfcGNtX29wZW4oY3R5cGVzLmJ5cmVmKHBoKSzmlL7orr7lpIcuZW5jb2RlKCksMCwwKTwwOiByZXR1cm4gTm9uZSwi5pS+5byA5LiN5LqGIgogICAgaWYgQS5zbmRfcGNtX29wZW4oY3R5cGVzLmJ5cmVmKGNoKSzmlLborr7lpIcuZW5jb2RlKCksMSwwKTwwOgogICAgICAgIEEuc25kX3BjbV9jbG9zZShwaCk7IHJldHVybiBOb25lLCLor53nrZLlvIDkuI3kuoYiCiAgICBmb3IgaCBpbiAocGgsY2gpOgogICAgICAgIHJjPUEuc25kX3BjbV9zZXRfcGFyYW1zKGgsMiwzLDEsUkFURSwxLDIwNDgpCiAgICAgICAgaWYgcmM8MDogcmV0dXJuIE5vbmUsZiLlj4LmlbAge3JjfSIKICAgIHQ9bnAuYXJhbmdlKGludChSQVRFKuenkikpL1JBVEUKICAgIHBjbT0oMC41Km5wLnNpbigyKm5wLnBpKumikeeOhyp0KSozMjc2NykuYXN0eXBlKCI8aTIiKQogICAg5b2VPWJ5dGVhcnJheSgpOyDlgZw9dGhyZWFkaW5nLkV2ZW50KCkKICAgIGJ1Zj1jdHlwZXMuY3JlYXRlX3N0cmluZ19idWZmZXIoNTEyKjIpCiAgICBkZWYg6K+7KCk6CiAgICAgICAgd2hpbGUgbm90IOWBnC5pc19zZXQoKToKICAgICAgICAgICAgbj1BLnNuZF9wY21fcmVhZGkoY2gsYnVmLDUxMikKICAgICAgICAgICAgaWYgbj4wOiDlvZUuZXh0ZW5kKGJ1Zls6bioyXSkKICAgICAgICAgICAgZWxpZiBuIGluICgtMTEsLTM1KTogdGltZS5zbGVlcCgwLjAwMSkKICAgICAgICAgICAgZWxpZiBuPDA6IEEuc25kX3BjbV9wcmVwYXJlKGNoKTsgdGltZS5zbGVlcCgwLjAwMSkKICAgIHRoPXRocmVhZGluZy5UaHJlYWQodGFyZ2V0PeivuyxkYWVtb249VHJ1ZSk7IHRoLnN0YXJ0KCk7IHRpbWUuc2xlZXAoMC4wOCkKICAgIOS9jee9rj0wCiAgICB3aGlsZSDkvY3nva48bGVuKHBjbSk6CiAgICAgICAg5q61PXBjbVvkvY3nva465L2N572uKzUxMl07IGI95q61LnRvYnl0ZXMoKQogICAgICAgIHB0cj0oY3R5cGVzLmNfY2hhcipsZW4oYikpLmZyb21fYnVmZmVyX2NvcHkoYikKICAgICAgICBuPUEuc25kX3BjbV93cml0ZWkocGgscHRyLGxlbijmrrUpKQogICAgICAgIGlmIG49PS0zMjogQS5zbmRfcGNtX3ByZXBhcmUocGgpOyBjb250aW51ZQogICAgICAgIGlmIG48MDogYnJlYWsKICAgICAgICDkvY3nva4rPW4KICAgIEEuc25kX3BjbV9kcmFpbihwaCk7IHRpbWUuc2xlZXAoMC4yNSk7IOWBnC5zZXQoKTsgdGguam9pbigxKQogICAgQS5zbmRfcGNtX2Nsb3NlKHBoKTsgQS5zbmRfcGNtX2Nsb3NlKGNoKQogICAgeD1ucC5mcm9tYnVmZmVyKGJ5dGVzKOW9lSksZHR5cGU9IjxpMiIpLmFzdHlwZShucC5mbG9hdDMyKS8zMjc2OC4wCiAgICBpZiBsZW4oeCk8MjAwMDogcmV0dXJuIE5vbmUsIuWkquefrSIKICAgIOWzsD1mbG9hdChucC5hYnMoeCkubWF4KCkpOyDpnZ7pnZk9aW50KChucC5hYnMoeCk+MWUtNCkuc3VtKCkpCiAgICByZXR1cm4gKOWzsCwg6Z2e6Z2ZLCBsZW4oeCkpLCBOb25lCgppZiBfX25hbWVfXz09Il9fbWFpbl9fIjoKICAgIHByaW50KCLlo7DljaHkuKTot6/vvIzlkITlhavkuKrlj6PjgILmjKjkuKrlh5HkuIrljrvlkKzvvJpcbiIpCiAgICBmb3Ig5pS+IGluIFsiaHc6MCwwLDAiLCJodzowLDEsMCJdOgogICAgICAgIGZvciDmlLYgaW4gWyJodzowLDAsMCIsImh3OjAsMSwwIl06CiAgICAgICAgICAgIHIsZT3lkKwo5pS+LOaUtikKICAgICAgICAgICAgaWYgZTogcHJpbnQoZiIgIOaUviB75pS+fSAg5pS2IHvmlLZ9ICAg4pyXIHtlfSIpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICDls7As6Z2e6Z2ZLG49cgogICAgICAgICAgICAgICAg54q2PSLlkKzop4HkuoYiIGlmIOWzsD4xZS0zIGVsc2UgIuepuueahCIKICAgICAgICAgICAgICAgIHByaW50KGYiICDmlL4ge+aUvn0gIOaUtiB75pS2fSAgIOWzsOWAvCB75bOwOi40Zn0gIOmdnumdmSB76Z2e6Z2ZfS97bn0gICDihpIge+eKtn0iKQo=
+# 找话筒。不是为了证明有没有，是把每一个都挨个凑上去听一下。
+# snd-aloop 是交叉配对的：D0 播出去的，从 D1c 听回来。
+import ctypes, time, threading
+import numpy as np
+
+A = ctypes.CDLL("libasound.so.2")
+A.snd_pcm_open.argtypes=[ctypes.POINTER(ctypes.c_void_p),ctypes.c_char_p,ctypes.c_int,ctypes.c_int]
+A.snd_pcm_set_params.argtypes=[ctypes.c_void_p,ctypes.c_int,ctypes.c_int,ctypes.c_uint,ctypes.c_uint,ctypes.c_int,ctypes.c_uint]
+A.snd_pcm_writei.argtypes=[ctypes.c_void_p,ctypes.c_void_p,ctypes.c_ulong]; A.snd_pcm_writei.restype=ctypes.c_long
+A.snd_pcm_readi.argtypes=[ctypes.c_void_p,ctypes.c_void_p,ctypes.c_ulong]; A.snd_pcm_readi.restype=ctypes.c_long
+A.snd_pcm_prepare.argtypes=[ctypes.c_void_p]; A.snd_pcm_drain.argtypes=[ctypes.c_void_p]
+A.snd_strerror.argtypes=[ctypes.c_int]; A.snd_strerror.restype=ctypes.c_char_p
+RATE=48000
+
+def 听(放设备, 收设备, 频率=440, 秒=1.2):
+    ph=ctypes.c_void_p(); ch=ctypes.c_void_p()
+    if A.snd_pcm_open(ctypes.byref(ph),放设备.encode(),0,0)<0: return None,"放开不了"
+    if A.snd_pcm_open(ctypes.byref(ch),收设备.encode(),1,0)<0:
+        A.snd_pcm_close(ph); return None,"话筒开不了"
+    for h in (ph,ch):
+        rc=A.snd_pcm_set_params(h,2,3,1,RATE,1,2048)
+        if rc<0: return None,f"参数 {rc}"
+    t=np.arange(int(RATE*秒))/RATE
+    pcm=(0.5*np.sin(2*np.pi*频率*t)*32767).astype("<i2")
+    录=bytearray(); 停=threading.Event()
+    buf=ctypes.create_string_buffer(512*2)
+    def 读():
+        while not 停.is_set():
+            n=A.snd_pcm_readi(ch,buf,512)
+            if n>0: 录.extend(buf[:n*2])
+            elif n in (-11,-35): time.sleep(0.001)
+            elif n<0: A.snd_pcm_prepare(ch); time.sleep(0.001)
+    th=threading.Thread(target=读,daemon=True); th.start(); time.sleep(0.08)
+    位置=0
+    while 位置<len(pcm):
+        段=pcm[位置:位置+512]; b=段.tobytes()
+        ptr=(ctypes.c_char*len(b)).from_buffer_copy(b)
+        n=A.snd_pcm_writei(ph,ptr,len(段))
+        if n==-32: A.snd_pcm_prepare(ph); continue
+        if n<0: break
+        位置+=n
+    A.snd_pcm_drain(ph); time.sleep(0.25); 停.set(); th.join(1)
+    A.snd_pcm_close(ph); A.snd_pcm_close(ch)
+    x=np.frombuffer(bytes(录),dtype="<i2").astype(np.float32)/32768.0
+    if len(x)<2000: return None,"太短"
+    峰=float(np.abs(x).max()); 非静=int((np.abs(x)>1e-4).sum())
+    return (峰, 非静, len(x)), None
+
+if __name__=="__main__":
+    print("声卡两路，各八个口。挨个凑上去听：\n")
+    for 放 in ["hw:0,0,0","hw:0,1,0"]:
+        for 收 in ["hw:0,0,0","hw:0,1,0"]:
+            r,e=听(放,收)
+            if e: print(f"  放 {放}  收 {收}   ✗ {e}")
+            else:
+                峰,非静,n=r
+                状="听见了" if 峰>1e-3 else "空的"
+                print(f"  放 {放}  收 {收}   峰值 {峰:.4f}  非静 {非静}/{n}   → {状}")

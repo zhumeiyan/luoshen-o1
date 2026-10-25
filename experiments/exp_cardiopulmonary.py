@@ -1,1 +1,336 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNTIg5b+D6IK66ICm5ZCIIOKAlOKAlCBWzIcvUcyHIOWMuemFjQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYhSDmib/mjqUg4piFNDgo5b+D6ISPKSArIOKYhTQ5KOW+queOrykgKyDimIU1MSjogropCiAgICDimIXimIUg5YmN5LiJ5Liq5piv5YiG5Yir5bu655qE77ya6IK65oqK5rCn5pS+6L+b6KGA77yM5b+D6ISP5oqK6KGA5rO15Ye65Y67CiAgICAgICDkvYbjgJDmlL7ov5vljrvnmoTpgqPlj6PooYAg5ZKMIOazteWHuuWOu+eahOmCo+WPo+ihgCDmmK/kuI3mmK/lkIzkuIDlj6PjgJHmsqHkurrnrqEKICAgIOKYheKYheKYhSDov5nkuIDlsYLnrqHov5nkuKrvvJrpgJrmsJQgVsyHIOS4juihgOa1gSBRzIcg55qE5Yy56YWNCgrimIXimIXimIUg5pys6L2u56Gs57qm5p2f77yI5bu257utIOKYhTUw77yJCiAgIOKRoCDmr4/kuKrnu5Porrrlv4XpobvmnInjgJDlr7nnhafjgJEKICAg4pGhIOaVsOWAvOW/hemhu+iQveOAkFJFQUwg5Yy66Ze044CRCiAgIOKRoiDov5nmmK/jgJDnm5HmtYsgKyDosIPoioLjgJHvvIzkuI3mmK/pmZDliLYKICAg4pGjIOKYhSDnibnliKvpmLIiVi9RIOW/hemhu+S/neaMgeWcqOato+W4uOiMg+WbtCIg4oCU4oCUIOS8muemgeatoui/kOWKqO+8iOingeOAkEjjgJHvvIkKCuKYheKYheKYhSDkupTnu4TliKTmja7nuqflr7nnhacKICAg4pGgIOWdh+WMgOiCuiB2cyDnnJ/lrp4gVi9RIOWIhuW4g++8iOS4jeWdh+W/heeEtuaLieS9ju+8jOabsue6v+mdnue6v+aAp+WGs+Wumu+8iQogICDikaEg5ZCr6YeP5Yqg5p2DIHZzIOWIhuWOi+WKoOadg++8iOWPquacieWQq+mHj+WKoOadg+aYryBSRUFM77yJCiAgIOKRoiDimIXimIXimIUgSFBWIOWPjOWIg+WJke+8iOWxgOmDqOacieebiiAvIOWFqOiCuuacieWus++8jOS4lOWFqOiCuuOAkOaXoOaUtuebiuOAke+8iQogICDikaMg4piF4piF4piFIOWIhua1gSB2cyDmrbvohZTvvIjlr7npgJrmsJTnmoTlj43lupTlt64gMTAg5YCN5Lul5LiK77yMQ08yIOS+p+ebuOWPje+8iQogICDikaQg4piF4piF4piFIFYvUSDlhpnmiJAi6ZmQ5Yi2IuS8muemgeatoui/kOWKqO+8iOKYhTUwIOWOn+WImeaWsOWunuS+i++8iQoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKZnJvbSBjb3JlLmNhcmRpb3B1bG1vbmFyeSBpbXBvcnQgKAogICAgbzJfY29udGVudF9jdXJ2ZSwgc28yX2hpbGwsIHBvMl9mcm9tX2NvbnRlbnQsIHNvbHZlX3VuaXRfcGFvMiwKICAgIHdlc3Rfem9uZXMsIG1peF9hcnRlcmlhbCwgaHB2X2ZhY3RvciwgcmVkaXN0cmlidXRlLAogICAgcHVsbW9uYXJ5X3ByZXNzdXJlLCBocHZfZ2xvYmFsX3B2ciwgcnZfd29yaywKICAgIGFydGVyaWFsX3BjbzIsIGFsdmVvbGFyX2RlYWRfc3BhY2UsIENhcmRpb3B1bG1vbmFyeVNlbnNlLAogICAgUElPMiwgTEFQLCBSQVAsCikKCm9rID0ge30KcHJpbnQoIj0iICogOTIpCnByaW50KCIg4piFNTIg5b+D6IK66ICm5ZCIIOKAlOKAlCBWzIcvUcyHIOWMuemFjSIpCnByaW50KCI9IiAqIDkyKQpwcmludCgiIiIKICDimIXimIUg5YmN5LiJ5bGC5piv5YiG5Yir5bu655qE77ya6IK65oqK5rCn5pS+6L+b6KGA77yM5b+D6ISP5oqK6KGA5rO15Ye65Y67CiAg4piF4piF4piFIOS9huOAjuaUvui/m+WOu+eahOmCo+WPo+ihgOOAj+WSjOOAjuazteWHuuWOu+eahOmCo+WPo+ihgOOAj+aYr+S4jeaYr+WQjOS4gOWPoyDigJTigJQg5rKh5Lq6566hCiAgICAg6L+Z5LiA5bGC566h6L+Z5Liq77yaVsyHKOmAmuawlCkg5LiOIFHMhyjooYDmtYEpIOeahOWMuemFjQoiIiIpCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gQQpwcmludCgi44CQQeOAkeKYhSDljZXlhYPmsYLop6PlmajvvJpWzIcvUcyHIOWGs+WumuivpeWMuueahOiCuuazoeawpyIpCnByaW50KCItIiAqIDkyKQpwcmludCgiICDimIUg5Y2V5YWD5rCn5a6I5oGS77yaMTAwMMK3csK3KFBpTzLiiJJQQU8yKS83MTMgPSBDY08yKFBBTzIpIOKIkiBDdk8yIikKcHJpbnQoZiIgICAgIOW3pui+ue+8iOmAmuawlOS+p++8iemajyBQQU8y4oaTIOiAjOKGke+8m+WPs+i+ue+8iOeBjOazqOS+p++8iemajyBQQU8y4oaTIOiAjOKGkyDihpIg5ZSv5LiA5Lqk54K5XG4iKQpwcmludChmIiAgeydWzIcvUcyHJzo8OH17J1BBTzInOj44fXsnQ2NPMic6Pjl9eyfpg6jkvY0nOj4xMn17J1JFQUwnOj4xNH0iKQpyb3dzQSA9IFtdCmxhYmVsID0gezMuMzogIuiCuuWwliIsIDAuODQ6ICLlhajogrrlnYflgLwiLCAwLjY6ICLogrrlupUiLCAwLjQ1OiAi6IK65bqV5pyA5L2OIn0KZm9yIHIgaW4gWzMuMywgMS41LCAwLjg0LCAwLjYwLCAwLjQ1LCAwLjMwLCAwLjEwXToKICAgIHBhLCBjYyA9IHNvbHZlX3VuaXRfcGFvMihyKQogICAgcm93c0EuYXBwZW5kKChyLCBwYSwgY2MpKQogICAgd2hlcmUgPSBsYWJlbC5nZXQociwgIiIpCiAgICByZWFsID0gIiIKICAgIGlmIHIgPT0gMy4zOiByZWFsID0gIjEzMH4xNDUiCiAgICBpZiByID09IDAuODQ6IHJlYWwgPSAiMTAwfjExMCIKICAgIGlmIHIgPT0gMC42OiByZWFsID0gIjg5fjEwMCIKICAgIGlmIHIgPT0gMC40NTogcmVhbCA9ICI3MH45MCIKICAgIHByaW50KGYiICB7cjo8OC4yZn17cGE6PjguMWZ9e2NjOj45LjFmfXt3aGVyZTo+MTJ9e3JlYWw6PjE0fSIpCnBhcyA9IFtyWzFdIGZvciByIGluIHJvd3NBXQpva1si4pGgIFBBTzIg6ZqPIFbMhy9RzIcg5Y2V6LCD6YCS5YePIl0gPSBib29sKAogICAgYWxsKHBhc1tpXSA+IHBhc1tpICsgMV0gZm9yIGkgaW4gcmFuZ2UobGVuKHBhcykgLSAxKSkpCm9rWyLikaEg4piFIHI9MC44NO+8iOWFqOiCuuWdh+WAvO+8iVBBTzIg6JC9IFJFQUwgMTAwfjExNSJdID0gYm9vbCgxMDAgPD0gcm93c0FbMl1bMV0gPD0gMTE1KQpva1si4pGiIOKYhSByPTMuM++8iOiCuuWwlu+8iVBBTzIg6JC9IFJFQUwgMTI1fjE0NSJdID0gYm9vbCgxMjUgPD0gcm93c0FbMF1bMV0gPD0gMTQ1KQpva1si4pGjIOKYhSByPTAuNDXvvIjogrrlupXvvIlQQU8yIOiQvSBSRUFMIDcwfjk1Il0gPSBib29sKDcwIDw9IHJvd3NBWzRdWzFdIDw9IDk1KQpwcmludChmIlxuICDimIUg6Kej56a75puy57q/77yaIikKZm9yIHAgaW4gWzQwLCA2MCwgODAsIDEwMF06CiAgICBwcmludChmIiAgICAgUE8yPXtwOj4zfSDihpIgU08yPXtzbzJfaGlsbChwKTouM2Z9ICBDYU8yPXtvMl9jb250ZW50X2N1cnZlKHApOi4xZn0iKQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IEIKcHJpbnQoIlxu44CQQuOAkeKYheKYhSDlnYfljIDogrogdnMg55yf5a6eIFYvUSDliIbluIMiKQpwcmludCgiLSIgKiA5MikKdnEsIHcgPSB3ZXN0X3pvbmVzKDkpCnZxX3UgPSBucC5hcnJheShbMC44NF0gKiA5KQp3X3UgPSBucC5vbmVzKDkpIC8gOQpyX3VuaSA9IG1peF9hcnRlcmlhbCh2cV91LCB3X3UsIHNodW50PTAuMDIpCnJfZGlzdCA9IG1peF9hcnRlcmlhbCh2cSwgdywgc2h1bnQ9MC4wMikKcHJpbnQoZiIgIHsnJzo8MTZ9eydQYU8yJzo+OX17J0NhTzInOj45fSIpCnByaW50KGYiICB7J+Wdh+WMgOiCuijlhahyPTAuODQpJzo8MTZ9e3JfdW5pWydwYW8yJ106PjkuMWZ9e3JfdW5pWydjYW8yJ106PjkuMWZ9IikKcHJpbnQoZiIgIHsn55yf5a6eVi9R5YiG5biDJzo8MTZ9e3JfZGlzdFsncGFvMiddOj45LjFmfXtyX2Rpc3RbJ2NhbzInXTo+OS4xZn0iKQpwcmludChmIlxuICDimIUgVi9RIOWIhuW4g++8mntucC5yb3VuZCh2cSwgMil9IikKcHJpbnQoZiIgIOKYhSDooYDmtYHmnYPph43vvJp7bnAucm91bmQodywgMil977yI6YeN5Yqb5L2/6IK65bqV6KGA5aSa77yJIikKcHJpbnQoZiJcbiAg4piF4piFIOWIhuW4g+iCuueahCBQYU8yIOavlOWdh+WMgOiCuuS9jiB7cl91bmlbJ3BhbzInXS1yX2Rpc3RbJ3BhbzInXTouMWZ9IG1tSGciKQpva1si4pGkIOKYheKYhSBWL1Eg5LiN5Z2H5L2/IFBhTzIg5L2O5LqO5Z2H5YyA6IK677yI5pyJ5a+554Wn77yJIl0gPSBib29sKAogICAgcl9kaXN0WyJwYW8yIl0gPCByX3VuaVsicGFvMiJdKQpwcmludChmIiIiICDimIXimIUg5py65Yi277yI5puy57q/6Z2e57q/5oCn5Yaz5a6a55qE77yM5LiN5piv6LCD5Y+C77yJ77yaCiAgICAg5L2OIFYvUSDljLrokL3lnKjop6Pnprvmm7Lnur/jgJDpmaHls63mrrXjgJHihpIg5ZCr6YeP5pi+6JGX5L2O77yIMC4zMCDihpIgMTg2LjXvvIkKICAgICDpq5ggVi9RIOWMuuiQveWcqOOAkOW5s+WPsOauteOAkeKGkiDlkKvph4/lh6DkuY7kuI3mtqjvvIgzLjMwIOKGkiAyMDIuOO+8jOWPquWkmiA077yJCiAgICAg4piFIOaJgOS7peS4jeWdh+OAkOW/heeEtuOAkeaLieS9juW5s+WdhyDigJTigJQg6L+Z5piv5pWw5a2m77yM5LiN5piv5ben5ZCIIiIiKQpva1si4pGlIOKYhSDkvY5WL1HljLrlkKvph4/ot4zluYUgPiDpq5hWL1HljLrmtqjluYXvvIjmm7Lnur/pnZ7nur/mgKfvvIkiXSA9IGJvb2woCiAgICAobzJfY29udGVudF9jdXJ2ZSgxMDApIC0gbzJfY29udGVudF9jdXJ2ZSg2NS42KSkgPgogICAgKG8yX2NvbnRlbnRfY3VydmUoMTM4LjEpIC0gbzJfY29udGVudF9jdXJ2ZSgxMDApKSkKb2tbIuKRpiDimIUg5YiG5biD6IK6IFBhTzIg6JC9IFJFQUwgOTB+MTA1Il0gPSBib29sKDkwIDw9IHJfZGlzdFsicGFvMiJdIDw9IDEwNSkKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSBDCnByaW50KCJcbuOAkEPjgJHimIXimIUg5re35ZCI5b+F6aG75oyJ44CQ5ZCr6YeP44CR5Yqg5p2D77yM5LiN6IO95oyJ44CQ5YiG5Y6L44CRIikKcHJpbnQoIi0iICogOTIpCnBjID0gcl9kaXN0WyJwYW8yX2NvbnRlbnRfd2VpZ2h0ZWQiXQpwcCA9IHJfZGlzdFsicGFvMl9wcmVzc3VyZV93ZWlnaHRlZCJdCnByaW50KGYiICDimIUg5oyJ5ZCr6YeP5Yqg5p2DIOKGkiDlho3lj43op6PvvJogIFBhTzIgPSB7cGM6LjFmfSIpCnByaW50KGYiICDinJcg5oyJ5YiG5Y6L55u05o6l5Yqg5p2D77yaICAgICAgIFBhTzIgPSB7cHA6LjFmfSIpCnByaW50KGYiICDimIXimIUg5beuIHtwcC1wYzouMWZ9IG1tSGciKQpva1si4pGnIOKYheKYhSDkuKTnp43liqDmnYPnu5Pmnpzlt64gPjUgbW1IZ++8iOWPr+ivgeS8qu+8iSJdID0gYm9vbChwcCAtIHBjID4gNS4wKQpva1si4pGoIOKYheKYhSDlj6rmnInlkKvph4/liqDmnYPokL0gUkVBTCA5MH4xMDXvvIjliIbljovliqDmnYPlgY/pq5jvvIkiXSA9IGJvb2woCiAgICA5MCA8PSBwYyA8PSAxMDUgYW5kIHBwID4gMTA1KQpwcmludChmIlxuICDimIXimIUg5Li65LuA5LmI77ya6Kej56a75puy57q/6Z2e57q/5oCnIOKGkiDlubPlnYcgUE8yIOKJoCBQTzIg55qE5bmz5Z2H5YC8IikKcHJpbnQoZiIgICAgIOaKiiAxMzgg5ZKMIDY1IOeahOihgOetiemHj+a3t+WQiO+8jOW+l+WIsOeahOS4jeaYryAxMDEg6ICM5piv5pu05L2OIikKcHJpbnQoZiIgICAgIOKYhSBSRUFMIOeUn+eQhuWtpuWutueul+WIhua1geW/hemhu+i1sOWQq+mHj++8jOWwseaYr+WboOS4uui/meS4qiIpCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gRApwcmludCgiXG7jgJBE44CR4piF4piF4piFIEhQViDlj4zliIPliZHvvJrlsYDpg6jmnInnm4rvvIzlhajogrrmnInlrrPkuJTjgJDml6DmlLbnm4rjgJEiKQpwcmludCgiLSIgKiA5MikKcHJpbnQoIiAg4piF4piFIOS9juawp+aAp+iCuuihgOeuoeaUtue8qe+8muiCuuazoee8uuawpyDihpIg6K+l5Yy66KGA566h5pS257ypIOKGkiDooYDooqvmjKTliLDpgJrmsJTlpb3nmoTljLoiKQoKIyDimIUg5Zy65pmvMe+8muWxgOmDqOeXheWPmO+8iOS4gOWkhOeXsOWgte+8iQp2cV9sZXNpb24gPSB2cS5jb3B5KCkKdnFfbGVzaW9uWzRdID0gMC4wNQpyX2xfbm8gPSBtaXhfYXJ0ZXJpYWwodnFfbGVzaW9uLCB3LCBzaHVudD0wLjAyKQp3X2xfeWVzLCBwYV9sLCBmX2wgPSByZWRpc3RyaWJ1dGUodnFfbGVzaW9uLCB3LCBocHZfb249VHJ1ZSkKcl9sX3llcyA9IG1peF9hcnRlcmlhbCh2cV9sZXNpb24sIHdfbF95ZXMsIHNodW50PTAuMDIpCmdhaW5fbG9jYWwgPSByX2xfeWVzWyJwYW8yIl0gLSByX2xfbm9bInBhbzIiXQptcGFwX2xvY2FsID0gcHVsbW9uYXJ5X3ByZXNzdXJlKDUuMCwgaHB2X2dsb2JhbF9wdnIoZmxvYXQobnAubWVhbihwYV9sKSkpKQoKcHJpbnQoZiJcbiAg44CQ5bGA6YOo55eF5Y+Y44CR5LiA5aSEIFbMhy9RzIcg5Y6L5YiwIDAuMDXvvIjnl7DloLUv6IK65LiN5byg77yJIikKcHJpbnQoZiIgICAgeycnOjwxNH17J1BhTzInOj45fXsnbVBBUCc6Pjh9eyfor6XljLrooYDmtYHkv53nlZknOj4xNH0iKQpwcmludChmIiAgICB7J+aXoCBIUFYnOjwxNH17cl9sX25vWydwYW8yJ106PjkuMWZ9e3B1bG1vbmFyeV9wcmVzc3VyZSg1LjAsMS40KTo+OC4xZn17MS4wMDA6PjE0LjNmfSIpCnByaW50KGYiICAgIHsn5pyJIEhQVic6PDE0fXtyX2xfeWVzWydwYW8yJ106PjkuMWZ9e21wYXBfbG9jYWw6PjguMWZ9e2Zsb2F0KG5wLm1pbihmX2wpKTo+MTQuM2Z9IikKcHJpbnQoZiIgICAg4piFIOaUtuebiiBQYU8yIHtnYWluX2xvY2FsOisuMmZ9IG1tSGcgICAg5Luj5Lu3IG1QQVAge21wYXBfbG9jYWwtMTU6LjFmfSBtbUhnIikKb2tbIuKRqSDimIXimIUg5bGA6YOo55eF5Y+Y5pe2IEhQViDkvb8gUGFPMiDmj5DljYcgPjQgbW1IZyJdID0gYm9vbChnYWluX2xvY2FsID4gNC4wKQpva1si4pGqIOKYhSBIUFYg5L+d55WZ546H6ZqP6IK65rOhIFBPMiDkuIvpmY3ogIzkuIvpmY0iXSA9IGJvb2woCiAgICBocHZfZmFjdG9yKDQwLjApIDwgaHB2X2ZhY3Rvcig4MC4wKSA8IGhwdl9mYWN0b3IoMTAwLjApKQpva1si4pGrIOKYhSDlsYDpg6jnl4Xlj5jml7YgSFBWIOS7o+S7t+Wwj++8iG1QQVAg5Y2H6auYIDw4IG1tSGfvvIkiXSA9IGJvb2wobXBhcF9sb2NhbCAtIDE1LjAgPCA4LjApCgojIOKYhSDlnLrmma8y77ya5YWo6IK657y65rCn77yI6auY5Y6f77yJCnByaW50KGYiXG4gIOOAkOWFqOiCuue8uuawp+OAkeWQuOWFpSBQaU8yIOmZjeS9ju+8iOmrmOWOny/lvKXmvKvmgKfogrrnl4XvvInvvIzmiYDmnInljLrkuIDotbfnvLrmsKciKQpwcmludChmIiAgICB7J1BpTzInOjw4fXsn5pegSFBWIFBhTzInOj4xMn17J+aciUhQViBQYU8yJzo+MTJ9eyfmlLbnm4onOj44fXsnbVBBUCjmnIlIUFYpJzo+MTN9eydSVuWKn+WinuW5hSc6PjEwfSIpCnJvd3NEMiA9IFtdCmZvciBwaW8yIGluIFsxNDkuMiwgMTAwLjAsIDcwLjAsIDUwLjBdOgogICAgd19ubywgcGFfbm8sIF8gPSByZWRpc3RyaWJ1dGUodnEsIHcsIHBpbzI9cGlvMiwgaHB2X29uPUZhbHNlKQogICAgd195ZXMsIHBhX3llcywgXyA9IHJlZGlzdHJpYnV0ZSh2cSwgdywgcGlvMj1waW8yLCBocHZfb249VHJ1ZSkKICAgIHJfbiA9IG1peF9hcnRlcmlhbCh2cSwgd19ubywgMC4wMiwgcGlvMikKICAgIHJfeSA9IG1peF9hcnRlcmlhbCh2cSwgd195ZXMsIDAuMDIsIHBpbzIpCiAgICBwdnIgPSBocHZfZ2xvYmFsX3B2cihmbG9hdChucC5tZWFuKHBhX3llcykpKQogICAgbXAgPSBwdWxtb25hcnlfcHJlc3N1cmUoNS4wLCBwdnIpCiAgICBydl9nYWluID0gKHJ2X3dvcmsobXAsIDUuMCkgLSBydl93b3JrKDE1LjAsIDUuMCkpIC8gcnZfd29yaygxNS4wLCA1LjApCiAgICByb3dzRDIuYXBwZW5kKChwaW8yLCByX25bInBhbzIiXSwgcl95WyJwYW8yIl0sIG1wLCBydl9nYWluKSkKICAgIHByaW50KGYiICAgIHtwaW8yOjw4LjFmfXtyX25bJ3BhbzInXTo+MTIuMWZ9e3JfeVsncGFvMiddOj4xMi4xZn0iCiAgICAgICAgICBmIntyX3lbJ3BhbzInXS1yX25bJ3BhbzInXTo+OC4yZn17bXA6PjEzLjFmfXtydl9nYWluKjEwMDo+OS4wZn0lIikKCmdhaW5fZ2xvYmFsID0gcm93c0QyWy0xXVsyXSAtIHJvd3NEMlstMV1bMV0KbXBhcF9nbG9iYWwgPSByb3dzRDJbLTFdWzNdCnJ2X2dhaW5fZ2xvYmFsID0gcm93c0QyWy0xXVs0XQpwcmludChmIlxuICDimIXimIXimIUg5pyA6YeN57y65rCn5pe277yaSFBWIOaUtuebiuWPquaciSB7Z2Fpbl9nbG9iYWw6Ky4yZn0gbW1IZ++8jCIKICAgICAgZiLku6Pku7cgbVBBUCB7bXBhcF9nbG9iYWw6LjFmfeOAgVJW5YqfICt7cnZfZ2Fpbl9nbG9iYWwqMTAwOi4wZn0lIikKb2tbIuKRrCDimIXimIXimIUg5YWo6IK657y65rCn5pe2IEhQViDnmoTmsKflkIjmlLbnm4og4omIIDDvvIg8MSBtbUhn77yJIl0gPSBib29sKGFicyhnYWluX2dsb2JhbCkgPCAxLjApCm9rWyLika0g4piF4piFIOWFqOiCuue8uuawp+aXtiBtUEFQIOi/m+WFpeiCuuWKqOiEiemrmOWOi+WMuumXtO+8iD4yNSBtbUhn77yJIl0gPSBib29sKG1wYXBfZ2xvYmFsID4gMjUuMCkKb2tbIuKRriDimIXimIUg5YWo6IK657y65rCn5pe2IFJWIOWKn+WinuWKoCA+MTAwJSJdID0gYm9vbChydl9nYWluX2dsb2JhbCA+IDEuMCkKCnByaW50KGYiXG4gIOKYheKYheKYhSDlj4zliIPliZHph4/ljJbvvJoiKQpwcmludChmIiAgICDlsYDpg6jnl4Xlj5jvvJrmlLbnm4ov5Luj5Lu3ID0ge2dhaW5fbG9jYWw6Ky4yZn0gbW1IZyAvICt7bXBhcF9sb2NhbC0xNTouMWZ9IG1tSGcgIOKYheWIkueulyIpCnByaW50KGYiICAgIOWFqOiCuue8uuawp++8muaUtuebii/ku6Pku7cgPSB7Z2Fpbl9nbG9iYWw6Ky4yZn0gbW1IZyAvICt7bXBhcF9nbG9iYWwtMTU6LjFmfSBtbUhnICDimIXnuq/kuo8iKQpyYXRpb19sb2NhbCA9IGFicyhnYWluX2xvY2FsKSAvIG1heChtcGFwX2xvY2FsIC0gMTUuMCwgMC4xKQpyYXRpb19nbG9iYWwgPSBhYnMoZ2Fpbl9nbG9iYWwpIC8gbWF4KG1wYXBfZ2xvYmFsIC0gMTUuMCwgMC4xKQpva1si4pGvIOKYheKYheKYhSDlsYDpg6jnmoTmlLbnm4ov5Luj5Lu35q+UID4+IOWFqOiCuu+8iD41IOWAje+8iSJdID0gYm9vbCgKICAgIHJhdGlvX2xvY2FsID4gNS4wICogcmF0aW9fZ2xvYmFsKQpwcmludChmIiAgICDmr5TlgLwge3JhdGlvX2xvY2FsOi4yZn0gdnMge3JhdGlvX2dsb2JhbDouM2Z977yM5beuIHtyYXRpb19sb2NhbC9tYXgocmF0aW9fZ2xvYmFsLDFlLTkpOi4wZn0g5YCNIikKcHJpbnQoZiJcbiAg4pqg77iPIOivmuWunu+8muWxgOmDqOeXheWPmOeahCBtUEFQIOS7o+S7t+eul+WHuiAwLjDvvIzmmK/lm6DkuLrmiJHnmoQgUFZSIOaooeWeiyIpCnByaW50KGYiICAgICDlj6rnnIvjgJDlhajogrrlubPlnYfjgJHogrrms6EgUE8y77yM5LiA5Liq5Yy657y65rCn5a+55Z2H5YC85b2x5ZON5p6B5bCPIikKcHJpbnQoZiIgICAgIOKYhSDov5nkuI3ku6PooajlsYDpg6ggSFBWIOayoeacieihgOa1geWKqOWKm+WtpuS7o+S7tyDigJTigJQg5piv5oiR55qE57KS5bqm5LiN5aSf77yMIikKcHJpbnQoZiIgICAgICAg5Y+q566X5YWo5bGAIFBWUu+8jOayoeeul+WxgOmDqOihgOeuoemYu+WKmyIpCnByaW50KGYiICDimqDvuI8g5Y+m77ya6YKj5Liq44CO5beuIDE5OTE0IOWAjeOAj+S4jeeosyDigJTigJQg5YiG5q+N77yI5bGA6YOo5Luj5Lu377yJ4omIMO+8jOavlOWAvOS8mueIhueCuCIpCnByaW50KGYiICAgICDnnJ/mraPnqLPnmoTnu5PorrrmmK/jgJDikawgKyDika0gKyDika7jgJHkuInmnaHni6znq4vliKTmja7vvJoiKQpwcmludChmIiAgICAgICDlhajogrrnvLrmsKfml7bmlLbnm4riiYgw44CBbVBBUD4yNeOAgVJW5YqfKzE0OCUg4oCU4oCUIOS4juWxgOmDqOeahCArNy40OSDlvaLmiJDlr7nnhaciKQpwcmludChmIlxuICDimIXimIUg5Li65LuA5LmI5YWo6IK657y65rCn5pe2IEhQViDmsqHmlLbnm4rvvJoiKQpwcmludChmIiAgICAg6YeN5a6a5ZCR55qE5YmN5o+Q5piv44CQ5pyJ5Yir55qE5Zyw5pa55Y+v5Y6744CR44CC5YWo6IK66YO957y65rCnIOKGkiDml6DlpITlj6/ljrsiKQpwcmludChmIiAgICAg4oaSIOWPquWJqeS4i+aUtue8qeW4puadpeeahOS7o+S7t++8iOiCuuWKqOiEiemrmOWOi++8iSIpCnByaW50KGYiICAgICDimIUgUkVBTO+8mumrmOWOn+iCuuawtOiCv+OAgUNPUEQg6IK65rqQ5oCn5b+D6ISP55eF77yM5bCx5piv6L+Z5p2hIikKb2tbIuKRsCDimIUg5q2j5bi4IG1QQVAg6JC9IFJFQUwgMTB+MjAgbW1IZyJdID0gYm9vbCgxMCA8PSBwdWxtb25hcnlfcHJlc3N1cmUoNS4wLCAxLjQpIDw9IDIwKQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IEUKcHJpbnQoIlxu44CQReOAkeKYheKYheKYhSDliIbmtYEgdnMg5q276IWU77ya5a+544CQ6L+H5bqm6YCa5rCU44CR55qE5Y+N5bqU5beuIDEwIOWAjSIpCnByaW50KCItIiAqIDkyKQpwcmludCgiICDimIUg5Lik6ICF6YO96YCg5oiQ5L2O5rCn44CC6K6p5a6D5Lus5Z+657q/5o6l6L+R77yM5YaN6K6p55eF5Lq65Luj5YG/5oCn6L+H5bqm6YCa5rCU77yIVkHDlzLvvIkiKQpwcmludChmIlxuICB7Jyc6PDE0fXsn5Z+657q/UGFPMic6PjEwfXsnVkHDlzLlkI4nOj45fXsn5o+Q5Y2HJzo+OH17J+WIpOWumic6PjEyfSIpCnJvd3NFID0gW10KZm9yIHNoLCBsYmwgaW4gWygwLjAyLCAi5q2j5bi4IiksICgwLjIwLCAi5YiG5rWBMjAlIiksICgwLjM1LCAi5YiG5rWBMzUlIildOgogICAgYSA9IG1peF9hcnRlcmlhbCh2cSwgdywgc2gpCiAgICBiID0gbWl4X2FydGVyaWFsKHZxICogMi4wLCB3LCBzaCkKICAgIHJvd3NFLmFwcGVuZCgoInNodW50Iiwgc2gsIGFbInBhbzIiXSwgYlsicGFvMiJdKSkKICAgIHByaW50KGYiICB7bGJsOjwxNH17YVsncGFvMiddOj4xMC4xZn17YlsncGFvMiddOj45LjFmfSIKICAgICAgICAgIGYie2JbJ3BhbzInXS1hWydwYW8yJ106PjguMWZ9eyfimIXlh6DkuY7ml6DmlYgnIGlmIHNoPjAuMSBlbHNlICfmraPluLgnOj4xMn0iKQpmb3IgZnJhYywgbGJsIGluIFsoMC4yMCwgIuatu+iFlDIwJSIpLCAoMC4zNSwgIuatu+iFlDM1JSIpXToKICAgIGEgPSBtaXhfYXJ0ZXJpYWwodnEgKiAoMSAtIGZyYWMpLCB3LCAwLjAyKQogICAgYiA9IG1peF9hcnRlcmlhbCh2cSAqICgxIC0gZnJhYykgKiAyLjAsIHcsIDAuMDIpCiAgICByb3dzRS5hcHBlbmQoKCJkZWFkc3BhY2UiLCBmcmFjLCBhWyJwYW8yIl0sIGJbInBhbzIiXSkpCiAgICBwcmludChmIiAge2xibDo8MTR9e2FbJ3BhbzInXTo+MTAuMWZ9e2JbJ3BhbzInXTo+OS4xZn0iCiAgICAgICAgICBmIntiWydwYW8yJ10tYVsncGFvMiddOj44LjFmfXsn4piF5pyJ5pWIJzo+MTJ9IikKCmdfc2h1bnQgPSByb3dzRVsyXVszXSAtIHJvd3NFWzJdWzJdCmdfZGVhZCA9IHJvd3NFWy0xXVszXSAtIHJvd3NFWy0xXVsyXQpwcmludChmIlxuICDimIXimIXimIUg5YiG5rWBMzUlIOaPkOWNhyB7Z19zaHVudDouMWZ9ICB2cyAg5q276IWUMzUlIOaPkOWNhyB7Z19kZWFkOi4xZn0iCiAgICAgIGYiICAg4piFIOW3riB7Z19kZWFkL21heChnX3NodW50LDFlLTkpOi4xZn0g5YCNIikKb2tbIuKRsSDimIXimIUg5YiG5rWB5a+56L+H5bqm6YCa5rCU5Y+N5bqU5beu77yI5o+Q5Y2HIDw1IG1tSGfvvIkiXSA9IGJvb2woZ19zaHVudCA8IDUuMCkKb2tbIuKRsiDimIXimIUg5q276IWU5a+56L+H5bqm6YCa5rCU5Y+N5bqU5aW977yI5o+Q5Y2HID4xNSBtbUhn77yJIl0gPSBib29sKGdfZGVhZCA+IDE1LjApCm9rWyLikbMg4piF4piF4piFIOatu+iFlC/liIbmtYEg55qE6YCa5rCU5pS255uK5q+UID41IOWAjSJdID0gYm9vbChnX2RlYWQgLyBtYXgoZ19zaHVudCwgMWUtOSkgPiA1LjApCnByaW50KGYiXG4gIOKYheKYhSDmnLrliLbvvJrliIbmtYHpgqPpg6jliIbooYDjgJDmoLnmnKzmsqHnu4/ov4fogrrms6HjgJHvvIxWQSDlho3lpKfkuZ/msKflkIjkuI3kuoblroMiKQpwcmludChmIiAgICAg5q276IWU5piv44CQ6YCa5rCU5L2c5bqf44CR77yM5Ymp5LiL55qE6IK65Y2V5L2N54Wn5bi45bel5L2c77yM5Yqg5aSn6YCa5rCU5bCx6IO96KGl5Zue5p2lIikKcHJpbnQoZiIgICAgIOKYhSDkuI4g4piFNTHjgI7liIbmtYHnu5nmsKfml6DmlYjjgI/mmK/lkIzkuIDmnLrliLbnmoTkuKTnp43ooajov7AiKQoKIyDimIUgQ08yIOS+p++8iOS4pOiAheebuOWPje+8iQpwcmludChmIlxuICDimIXimIXimIUgQ08yIOS+pyDigJTigJQg5Y+N5bqU44CQ55u45Y+N44CR77yI5Zu65a6aIE1WPTYuMO+8iSIpCnByaW50KGYiICB7Jyc6PDE2fXsnVkEnOj44fXsnVkQvVlQnOj44fXsnUGFDTzInOj45fXsnUGFPMic6Pjl9IikKYmFzZV9vMiA9IG1peF9hcnRlcmlhbCh2cSwgdywgMC4wMilbInBhbzIiXQpmb3IgdmRhbHYsIGxibCBpbiBbKDAuMCwgIuato+W4uCIpLCAoMC4xMCwgIuatu+iFlCswLjEwTCIpLCAoMC4yMCwgIuatu+iFlCswLjIwTCIpXToKICAgIHZhLCB2ZGYgPSBhbHZlb2xhcl9kZWFkX3NwYWNlKDAuNSwgMTIuMCwgMC4xNSwgdmRhbHYpCiAgICBwcmludChmIiAge2xibDo8MTZ9e3ZhOj44LjJmfXt2ZGY6PjguMmZ9e2FydGVyaWFsX3BjbzIodmEpOj45LjFmfSIKICAgICAgICAgIGYie2Jhc2VfbzIgaWYgdmRhbHY9PTAgZWxzZSBmbG9hdCgnbmFuJyk6PjkuMWZ9IiBpZiB2ZGFsdiA9PSAwCiAgICAgICAgICBlbHNlIGYiICB7bGJsOjwxNn17dmE6PjguMmZ9e3ZkZjo+OC4yZn17YXJ0ZXJpYWxfcGNvMih2YSk6PjkuMWZ9eyfigJQnOj45fSIpCiMg4piFIOWIhua1geS+p+eahCBDTzLvvJpWQSDmraPluLjvvIzkuJTku6Plgb/ov4fluqbpgJrmsJTkvJrmiorlroPlkLnkvY4KdmFfc2h1bnQsIF8gPSBhbHZlb2xhcl9kZWFkX3NwYWNlKDAuNSwgMTIuMCwgMC4xNSwgMC4wKQpwcmludChmIiAgeyfliIbmtYEzNSUnOjwxNn17dmFfc2h1bnQ6PjguMmZ9ezAuMzA6PjguMmZ9e2FydGVyaWFsX3BjbzIodmFfc2h1bnQpOj45LjFmfSIKICAgICAgZiJ7bWl4X2FydGVyaWFsKHZxLHcsMC4zNSlbJ3BhbzInXTo+OS4xZn0iKQpwcmludChmIiAgeyfliIbmtYEr5Luj5YG/VkHDlzInOjwxNn17dmFfc2h1bnQqMjo+OC4yZn17MC4zMDo+OC4yZn0iCiAgICAgIGYie2FydGVyaWFsX3BjbzIodmFfc2h1bnQqMik6PjkuMWZ9eyfigJQnOj45fSIpCm9rWyLjiZEg4piF4piF4piFIOatu+iFlOS9vyBQYUNPMiDljYfpq5jvvIzliIbmtYHkuI3lvbHlk40gUGFDTzLvvIjmnInlr7nnhafvvIkiXSA9IGJvb2woCiAgICBhcnRlcmlhbF9wY28yKGFsdmVvbGFyX2RlYWRfc3BhY2UoMC41LCAxMi4wLCAwLjE1LCAwLjIwKVswXSkgPgogICAgYXJ0ZXJpYWxfcGNvMih2YV9zaHVudCkgKyAyMCkKcHJpbnQoZiJcbiAg4piF4piF4piFIFJFQUzvvJrliIbmtYHnl4XkurogUGFDTzIg5q2j5bi455Sa6Iez44CQ5YGP5L2O44CR77yI57y65rCn6amx5Yqo6L+H5bqm6YCa5rCU77yJIikKcHJpbnQoZiIgICAgIOatu+iFlOeXheS6uiBQYUNPMiDljYfpq5jvvIjpgJrmsJTnmb3lgZrkuobvvIkiKQpwcmludChmIiAgICAg4piF4piFIOWPqueciyBQYUNPMiDkvJror6/liKTvvJpDTzIg5q2j5bi45LiN5Luj6KGo5rCn5ZCI5q2j5bi4IikKb2tbIuOJkiDimIXimIUg5YiG5rWBK+S7o+WBv+S9vyBQYUNPMiDkvY7kuo4gMzXvvIhSRUFM77ya6L+H5bqm6YCa5rCU77yJIl0gPSBib29sKAogICAgYXJ0ZXJpYWxfcGNvMih2YV9zaHVudCAqIDIpIDwgMzUpCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gRgpwcmludCgiXG7jgJBG44CR4piFIOS9k+S9je+8muebtOeriyB2cyDku7DljaciKQpwcmludCgiLSIgKiA5MikKcHJpbnQoZiIgIHsn5L2T5L2NJzo8MTB9eydWzIcvUcyHIOiMg+WbtCc6PjE2fXsn6Leo5bqmJzo+OH17J1BhTzInOj45fSIpCnJvd3NGID0gW10KZm9yIHBvcywgY24gaW4gWygidXByaWdodCIsICLnm7Tnq4siKSwgKCJzdXBpbmUiLCAi5Luw5Y2nIildOgogICAgdiwgd3cgPSB3ZXN0X3pvbmVzKDksIHBvc3R1cmU9cG9zKQogICAgciA9IG1peF9hcnRlcmlhbCh2LCB3dywgMC4wMikKICAgIHJvd3NGLmFwcGVuZCgocG9zLCByWyJwYW8yIl0sIHYubWF4KCkgLyB2Lm1pbigpKSkKICAgIHByaW50KGYiICB7Y246PDEwfXtmJ3t2Lm1pbigpOi4yZn1+e3YubWF4KCk6LjJmfSc6PjE2fXt2Lm1heCgpL3YubWluKCk6PjguMmZ9e3JbJ3BhbzInXTo+OS4xZn0iKQpva1si44mTIOKYhSDku7DljacgUGFPMiA+IOebtOeri++8iFYvUSDmm7TljLnphY3vvIkiXSA9IGJvb2wocm93c0ZbMV1bMV0gPiByb3dzRlswXVsxXSkKb2tbIuOJlCDimIUg5Luw5Y2nIFYvUSDot6jluqYgPCDnm7Tnq4siXSA9IGJvb2wocm93c0ZbMV1bMl0gPCByb3dzRlswXVsyXSkKcHJpbnQoZiJcbiAg4piFIFJFQUzvvJrku7DljafkvY3msKflkIjnlaXlpb3vvIhWL1Eg5YiG5biD5pu05Z2H5YyA77yJ77yM5L2G5beu57qmIDN+NSBtbUhnIikKcHJpbnQoZiIgIOKaoO+4jyDmiJHov5nph4znrpflh7oge3Jvd3NGWzFdWzFdLXJvd3NGWzBdWzFdOi4xZn0gbW1IZ++8jOOAkOWBj+Wkp+OAkeKAlOKAlCDlpoLlrp7moIfms6jvvIzkuI3kv67mraMiKQpwcmludChmIiAgICAg4piFIOS4tOW6iu+8mkFSRFMg55eF5Lq655So5L+v5Y2n5L2N5pS55ZaE5rCn5ZCI77yM5bCx5piv5Yip55SoIFYvUSDlho3liIbluIMiKQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IEcKcHJpbnQoIlxu44CQR+OAkeKYhSDov5Dliqjml7bnmoTlv4PogrrljLnphY0iKQpwcmludCgiLSIgKiA5MikKcHJpbnQoZiIgIHsn54q25oCBJzo8MTB9eydDTyc6PjZ9eydWzIdBJzo+N317J1bMhy9RzIcnOj44fXsnUGFPMic6Pjl9eydtUEFQJzo+OH0iKQpyb3dzRyA9IFtdCmZvciBjbywgdmEsIGxibCBpbiBbKDUuMCwgNC4yLCAi6Z2Z5oGvIiksICgxMC4wLCAyMC4wLCAi6L276L+Q5YqoIiksCiAgICAgICAgICAgICAgICAgICAgKDIwLjAsIDYwLjAsICLliafng4jov5DliqgiKV06CiAgICBzY2FsZSA9ICh2YSAvIDQuMikgLyAoY28gLyA1LjApCiAgICByID0gbWl4X2FydGVyaWFsKHZxICogc2NhbGUsIHcsIDAuMDIpCiAgICBtcCA9IHB1bG1vbmFyeV9wcmVzc3VyZShjbywgMS4wKSAgICAgIyDimIUg6L+Q5Yqo5pe2IFBWUiDlm6Dmi5vli5/ogIzkuIvpmY0KICAgIHJvd3NHLmFwcGVuZCgobGJsLCBjbywgdmEsIHZhIC8gY28sIHJbInBhbzIiXSwgbXApKQogICAgcHJpbnQoZiIgIHtsYmw6PDEwfXtjbzo+Ni4xZn17dmE6PjcuMWZ9e3ZhL2NvOj44LjJmfXtyWydwYW8yJ106PjkuMWZ9e21wOj44LjFmfSIpCm9rWyLjiZUg4piFIOi/kOWKqOaXtiBWzIcvUcyHIOWNh+mrmO+8iOmAmuawlOa2qOW+l+avlOihgOa1geW/q++8iSJdID0gYm9vbChyb3dzR1stMV1bM10gPiByb3dzR1swXVszXSkKb2tbIuOJliDimIXimIUg5Ymn54OI6L+Q5Yqo5pe2IFBhTzIg5LiN5LiL6ZmN77yI57u05oyB5oiW5Y2H6auY77yJIl0gPSBib29sKAogICAgcm93c0dbLTFdWzRdID49IHJvd3NHWzBdWzRdIC0gMS4wKQpwcmludChmIlxuICDimIXimIUg6Z2Z5oGvIFbMhy9RzIc9e3Jvd3NHWzBdWzNdOi4yZn3vvIhSRUFMIDAuOH4xLjDvvInihpIgIgogICAgICBmIuWJp+eDiOi/kOWKqCB7cm93c0dbLTFdWzNdOi4yZn3vvIhSRUFMIDJ+NO+8iSIpCm9rWyLjiZcg6Z2Z5oGvIFbMhy9RzIcg6JC9IFJFQUwgMC44fjEuMCJdID0gYm9vbCgwLjggPD0gcm93c0dbMF1bM10gPD0gMS4wKQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IEgKcHJpbnQoIlxu44CQSOOAkeKYheKYheKYhSDimIU1MCDljp/liJnmlrDlrp7kvovvvJrmioogVsyHL1HMhyDlhpnmiJDjgI7pmZDliLbjgI/kvJrnpoHmraLov5DliqgiKQpwcmludCgiLSIgKiA5MikKcHJpbnQoIiAg4piFIOWBh+iuvuaIkeWGme+8muOAjlbMhy9RzIcg5b+F6aG75L+d5oyB5ZyoIDAuOH4xLjDvvIzlkKbliJnmi5Lnu53jgI8iKQoKCmRlZiB2cV9nYXRlKGNvLCB2YSwgbG89MC44LCBoaT0xLjApOgogICAgciA9IHZhIC8gY28KICAgIHJldHVybiBsbyA8PSByIDw9IGhpCgoKcHJpbnQoZiIgIHsn54q25oCBJzo8MTJ9eydWzIcvUcyHJzo+OH17J+mZkOWItuaooeW8jyc6PjEwfXsn55uR5rWL5qih5byPJzo+MTB9IikKcm93c0ggPSBbXQpmb3IgY28sIHZhLCBsYmwgaW4gWyg1LjAsIDQuMiwgIumdmeaBryIpLCAoMTAuMCwgMjAuMCwgIui9u+i/kOWKqCIpLCAoMjAuMCwgNjAuMCwgIuWJp+eDiOi/kOWKqCIpXToKICAgIHIgPSB2YSAvIGNvCiAgICBnYXRlID0gIuKcheaUvuihjCIgaWYgdnFfZ2F0ZShjbywgdmEpIGVsc2UgIuKdjOaLkue7nSIKICAgIHJvd3NILmFwcGVuZCgobGJsLCByLCB2cV9nYXRlKGNvLCB2YSkpKQogICAgcHJpbnQoZiIgIHtsYmw6PDEyfXtyOj44LjJmfXtnYXRlOj4xMH17J+KcheiusOW9lSc6PjEwfSIpCm9rWyLjiZgg4piF4piF4piFIOmZkOWItuaooeW8j+S4i+i/kOWKqOiiq+aLkue7ne+8iOmdmeaBr+aJjeaUvuihjO+8iSJdID0gYm9vbCgKICAgIHJvd3NIWzBdWzJdIGFuZCBub3Qgcm93c0hbLTFdWzJdKQpwcmludChmIlxuICDimIXimIXimIUg6Z2Z5oGvIFbMhy9RzIc9e3Jvd3NIWzBdWzFdOi4yZn0g5pS+6KGM77yM5Ymn54OI6L+Q5YqoIFbMhy9RzIc9e3Jvd3NIWy0xXVsxXTouMmZ9IOiiq+aLkiIpCnByaW50KGYiICAgICDimIUg5L2G6L+Q5Yqo5pe2IFbMhy9RzIcg5Y2H6auY5piv44CQ5q2j56Gu55qE55Sf55CG44CR77yM5LiN5piv5byC5bi4IikKcHJpbnQoZiIgICAgIOKYheKYhSDmiYDku6XjgI7mraPluLjojIPlm7TjgI/ov5nkuKrpmZDliLbkvJrorqnlroPmsLjov5zkuI3og73ov5DliqgiKQpwcmludChmIiAgICAg4piFIOi3nyDimIU1MCDnmoTjgI7msKfovpPpgIHlhpnmiJDlpKnoirHmnb/jgI/mmK/lkIzkuIDkuKrplJnvvJoiKQpwcmludChmIiAgICAgICDpnZnmga/nmoTmraPluLjlgLwg4omgIOWFqOeKtuaAgeeahOato+W4uOWAvCIpCnByaW50KGYiXG4gIOKYheKYhSDnm5HmtYvmqKHlvI/vvJrlj6rorrDlvZUgVsyHL1HMhyDku44ge3Jvd3NIWzBdWzFdOi4yZn0g5Y+Y5YiwIHtyb3dzSFstMV1bMV06LjJmfe+8jCIKICAgICAgZiLkuI3mi6Yg4oaSIOWug+iDveinguWvn+WIsOi/meS4quWPmOWMluW5tuWIqeeUqOWugyIpCgpzZW5zZSA9IENhcmRpb3B1bG1vbmFyeVNlbnNlKCkKb19yZXN0ID0gc2Vuc2Uub2JzZXJ2ZShjbz01LjAsIHZhX3RvdGFsPTQuMikKcHJpbnQoZiJcbiAg4piFIOeUqCBDYXJkaW9wdWxtb25hcnlTZW5zZSDlrp7mtYvvvJoiKQpwcmludChmIiAgICAg6Z2Z5oGvIFBhTzI9e29fcmVzdFsncGFvMiddOi4xZn0gbVBBUD17b19yZXN0WydtcGFwJ106LjFmfSAiCiAgICAgIGYiVi9R6Leo5bqmPXtvX3Jlc3RbJ3ZxX3NwcmVhZCddOi4yZn0iKQpva1si44mZIOKYhSDnm5HmtYvlmajog73lkIzml7bmiqXlh7rmsKflkIjkuI7lj7Plv4PotJ/ojbfvvIjkuI3mi6bvvIkiXSA9IGJvb2woCiAgICBvX3Jlc3RbInBhbzIiXSA+IDAgYW5kIG9fcmVzdFsibXBhcCJdID4gMCkKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSBJCnByaW50KCJcbuOAkEnjgJHimqDvuI8g6K+a5a6e77ya5LiN6IO96K+05LuA5LmIIikKcHJpbnQoIi0iICogOTIpCnByaW50KCIgIOKdjCDop6Pnprvmm7Lnur/nlKggSGlsbCDov5HkvLzvvIhQNTA9MjYuOCwgbj0yLjfvvInvvIzkuI3mmK8gU2V2ZXJpbmdoYXVzIOeyvuehruW8jyIpCnByaW50KGYiICDinYwg5Y2V5YWD5qih5Z6L5YGH6K6+5ZCE5Yy644CQ5re35ZCI6Z2Z6ISJ6KGA55u45ZCM44CR5LiU5LiN6L+t5LujIOKAlOKAlCBSRUFMIOmcgCBSaWxleSDov63ku6MiKQpwcmludChmIiAgICAg77yI55yf5a6e5oOF5Ya177ya5L2OIFYvUSDljLrlm57mtYHkvJrmi4nkvY7lhajlsYAgQ3ZPMu+8jOWGjeWPjei/h+adpeW9seWTjeWQhOWMuu+8iSIpCnByaW50KGYiICDinYwgVi9RIOWIhuW4g+aYr+aIkeaehOmAoOeahOWHoOS9leair+W6pu+8jOS4jeaYr+Wunua1i+WIhuW4gyIpCnByaW50KGYiICDinYwg5L2T5L2N5beu566X5Ye6IHtyb3dzRlsxXVsxXS1yb3dzRlswXVsxXTouMWZ9IG1tSGfvvIxSRUFMIOe6piAzfjXvvIzjgJDlgY/lpKfjgJHmsqHmjqnnm5YiKQpwcmludChmIiAg4p2MIOWxgOmDqOeXheWPmOeahCBtUEFQIOS7o+S7t+eul+aIkCAwLjAg4oCU4oCUIFBWUiDmqKHlnovlj6rmnInlhajlsYDnspLluqbvvIzkuI3mmK/nnJ/nmoTmsqHku6Pku7ciKQpwcmludChmIiAg4p2MIOatu+iFlOaegeerr+WAvO+8iFZEL1ZUPTAuOe+8iVBhQ08yPTI4NyDkuI3njrDlrp7vvIjnjrDlrp7kuK3kvJrmmI/ov7cv5Luj5YG/77yJIikKcHJpbnQoZiIgICAgIOWPquS9nOWNleiwg+aAp+a8lOekuu+8jOS4jeS9nOS4uuWumumHj+e7k+iuuiIpCnByaW50KGYiICDinIUg6IO96K+077ya4pGgIOaVsOWAvOiQvSBSRUFMICDikaEg5LqU57uE5a+554Wn5Z2H5oiQ56uLICDikaIgSFBWIOWPjOWIg+WJkeWPr+ivgeS8qiIpCgpwcmludCgiXG4iICsgIj0iICogOTIpCnByaW50KCIg5Yik5o2uIikKcHJpbnQoIj0iICogOTIpCmZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICBwcmludChmIiAgeyfinIUnIGlmIHYgZWxzZSAn4p2MJ30ge2t9IikKcHJpbnQoZiJcbiAg4pyFIHtzdW0ob2sudmFsdWVzKCkpfS97bGVuKG9rKX0iKQoKanNvbi5kdW1wKHsib2siOiB7azogYm9vbCh2KSBmb3IgaywgdiBpbiBvay5pdGVtcygpfSwKICAgICAgICAgICAidW5pZm9ybSI6IHJfdW5pWyJwYW8yIl0sICJkaXN0cmlidXRlZCI6IHJfZGlzdFsicGFvMiJdLAogICAgICAgICAgICJjb250ZW50X3ZzX3ByZXNzdXJlIjogeyJjb250ZW50IjogcGMsICJwcmVzc3VyZSI6IHBwfSwKICAgICAgICAgICAiaHB2X2xvY2FsX2dhaW4iOiBnYWluX2xvY2FsLCAiaHB2X2dsb2JhbF9nYWluIjogZ2Fpbl9nbG9iYWwsCiAgICAgICAgICAgIm1wYXBfZ2xvYmFsIjogbXBhcF9nbG9iYWwsCiAgICAgICAgICAgInNodW50X2dhaW4iOiBnX3NodW50LCAiZGVhZHNwYWNlX2dhaW4iOiBnX2RlYWR9LAogICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZW5zZSIsICJjYXJkaW9wdWxtb25hcnkuanNvbiIpLCAidyIpLAogICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★52 心肺耦合 —— V̇/Q̇ 匹配
+================================================================
+★ 承接 ★48(心脏) + ★49(循环) + ★51(肺)
+    ★★ 前三个是分别建的：肺把氧放进血，心脏把血泵出去
+       但【放进去的那口血 和 泵出去的那口血 是不是同一口】没人管
+    ★★★ 这一层管这个：通气 V̇ 与血流 Q̇ 的匹配
+
+★★★ 本轮硬约束（延续 ★50）
+   ① 每个结论必须有【对照】
+   ② 数值必须落【REAL 区间】
+   ③ 这是【监测 + 调节】，不是限制
+   ④ ★ 特别防"V/Q 必须保持在正常范围" —— 会禁止运动（见【H】）
+
+★★★ 五组判据级对照
+   ① 均匀肺 vs 真实 V/Q 分布（不均必然拉低，曲线非线性决定）
+   ② 含量加权 vs 分压加权（只有含量加权是 REAL）
+   ③ ★★★ HPV 双刃剑（局部有益 / 全肺有害，且全肺【无收益】）
+   ④ ★★★ 分流 vs 死腔（对通气的反应差 10 倍以上，CO2 侧相反）
+   ⑤ ★★★ V/Q 写成"限制"会禁止运动（★50 原则新实例）
+"""
+import os, sys, json
+import numpy as np
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.cardiopulmonary import (
+    o2_content_curve, so2_hill, po2_from_content, solve_unit_pao2,
+    west_zones, mix_arterial, hpv_factor, redistribute,
+    pulmonary_pressure, hpv_global_pvr, rv_work,
+    arterial_pco2, alveolar_dead_space, CardiopulmonarySense,
+    PIO2, LAP, RAP,
+)
+
+ok = {}
+print("=" * 92)
+print(" ★52 心肺耦合 —— V̇/Q̇ 匹配")
+print("=" * 92)
+print("""
+  ★★ 前三层是分别建的：肺把氧放进血，心脏把血泵出去
+  ★★★ 但『放进去的那口血』和『泵出去的那口血』是不是同一口 —— 没人管
+     这一层管这个：V̇(通气) 与 Q̇(血流) 的匹配
+""")
+
+# ================================================================ A
+print("【A】★ 单元求解器：V̇/Q̇ 决定该区的肺泡氧")
+print("-" * 92)
+print("  ★ 单元氧守恒：1000·r·(PiO2−PAO2)/713 = CcO2(PAO2) − CvO2")
+print(f"     左边（通气侧）随 PAO2↓ 而↑；右边（灌注侧）随 PAO2↓ 而↓ → 唯一交点\n")
+print(f"  {'V̇/Q̇':<8}{'PAO2':>8}{'CcO2':>9}{'部位':>12}{'REAL':>14}")
+rowsA = []
+label = {3.3: "肺尖", 0.84: "全肺均值", 0.6: "肺底", 0.45: "肺底最低"}
+for r in [3.3, 1.5, 0.84, 0.60, 0.45, 0.30, 0.10]:
+    pa, cc = solve_unit_pao2(r)
+    rowsA.append((r, pa, cc))
+    where = label.get(r, "")
+    real = ""
+    if r == 3.3: real = "130~145"
+    if r == 0.84: real = "100~110"
+    if r == 0.6: real = "89~100"
+    if r == 0.45: real = "70~90"
+    print(f"  {r:<8.2f}{pa:>8.1f}{cc:>9.1f}{where:>12}{real:>14}")
+pas = [r[1] for r in rowsA]
+ok["① PAO2 随 V̇/Q̇ 单调递减"] = bool(
+    all(pas[i] > pas[i + 1] for i in range(len(pas) - 1)))
+ok["② ★ r=0.84（全肺均值）PAO2 落 REAL 100~115"] = bool(100 <= rowsA[2][1] <= 115)
+ok["③ ★ r=3.3（肺尖）PAO2 落 REAL 125~145"] = bool(125 <= rowsA[0][1] <= 145)
+ok["④ ★ r=0.45（肺底）PAO2 落 REAL 70~95"] = bool(70 <= rowsA[4][1] <= 95)
+print(f"\n  ★ 解离曲线：")
+for p in [40, 60, 80, 100]:
+    print(f"     PO2={p:>3} → SO2={so2_hill(p):.3f}  CaO2={o2_content_curve(p):.1f}")
+
+# ================================================================ B
+print("\n【B】★★ 均匀肺 vs 真实 V/Q 分布")
+print("-" * 92)
+vq, w = west_zones(9)
+vq_u = np.array([0.84] * 9)
+w_u = np.ones(9) / 9
+r_uni = mix_arterial(vq_u, w_u, shunt=0.02)
+r_dist = mix_arterial(vq, w, shunt=0.02)
+print(f"  {'':<16}{'PaO2':>9}{'CaO2':>9}")
+print(f"  {'均匀肺(全r=0.84)':<16}{r_uni['pao2']:>9.1f}{r_uni['cao2']:>9.1f}")
+print(f"  {'真实V/Q分布':<16}{r_dist['pao2']:>9.1f}{r_dist['cao2']:>9.1f}")
+print(f"\n  ★ V/Q 分布：{np.round(vq, 2)}")
+print(f"  ★ 血流权重：{np.round(w, 2)}（重力使肺底血多）")
+print(f"\n  ★★ 分布肺的 PaO2 比均匀肺低 {r_uni['pao2']-r_dist['pao2']:.1f} mmHg")
+ok["⑤ ★★ V/Q 不均使 PaO2 低于均匀肺（有对照）"] = bool(
+    r_dist["pao2"] < r_uni["pao2"])
+print(f"""  ★★ 机制（曲线非线性决定的，不是调参）：
+     低 V/Q 区落在解离曲线【陡峭段】→ 含量显著低（0.30 → 186.5）
+     高 V/Q 区落在【平台段】→ 含量几乎不涨（3.30 → 202.8，只多 4）
+     ★ 所以不均【必然】拉低平均 —— 这是数学，不是巧合""")
+ok["⑥ ★ 低V/Q区含量跌幅 > 高V/Q区涨幅（曲线非线性）"] = bool(
+    (o2_content_curve(100) - o2_content_curve(65.6)) >
+    (o2_content_curve(138.1) - o2_content_curve(100)))
+ok["⑦ ★ 分布肺 PaO2 落 REAL 90~105"] = bool(90 <= r_dist["pao2"] <= 105)
+
+# ================================================================ C
+print("\n【C】★★ 混合必须按【含量】加权，不能按【分压】")
+print("-" * 92)
+pc = r_dist["pao2_content_weighted"]
+pp = r_dist["pao2_pressure_weighted"]
+print(f"  ★ 按含量加权 → 再反解：  PaO2 = {pc:.1f}")
+print(f"  ✗ 按分压直接加权：       PaO2 = {pp:.1f}")
+print(f"  ★★ 差 {pp-pc:.1f} mmHg")
+ok["⑧ ★★ 两种加权结果差 >5 mmHg（可证伪）"] = bool(pp - pc > 5.0)
+ok["⑨ ★★ 只有含量加权落 REAL 90~105（分压加权偏高）"] = bool(
+    90 <= pc <= 105 and pp > 105)
+print(f"\n  ★★ 为什么：解离曲线非线性 → 平均 PO2 ≠ PO2 的平均值")
+print(f"     把 138 和 65 的血等量混合，得到的不是 101 而是更低")
+print(f"     ★ REAL 生理学家算分流必须走含量，就是因为这个")
+
+# ================================================================ D
+print("\n【D】★★★ HPV 双刃剑：局部有益，全肺有害且【无收益】")
+print("-" * 92)
+print("  ★★ 低氧性肺血管收缩：肺泡缺氧 → 该区血管收缩 → 血被挤到通气好的区")
+
+# ★ 场景1：局部病变（一处痰堵）
+vq_lesion = vq.copy()
+vq_lesion[4] = 0.05
+r_l_no = mix_arterial(vq_lesion, w, shunt=0.02)
+w_l_yes, pa_l, f_l = redistribute(vq_lesion, w, hpv_on=True)
+r_l_yes = mix_arterial(vq_lesion, w_l_yes, shunt=0.02)
+gain_local = r_l_yes["pao2"] - r_l_no["pao2"]
+mpap_local = pulmonary_pressure(5.0, hpv_global_pvr(float(np.mean(pa_l))))
+
+print(f"\n  【局部病变】一处 V̇/Q̇ 压到 0.05（痰堵/肺不张）")
+print(f"    {'':<14}{'PaO2':>9}{'mPAP':>8}{'该区血流保留':>14}")
+print(f"    {'无 HPV':<14}{r_l_no['pao2']:>9.1f}{pulmonary_pressure(5.0,1.4):>8.1f}{1.000:>14.3f}")
+print(f"    {'有 HPV':<14}{r_l_yes['pao2']:>9.1f}{mpap_local:>8.1f}{float(np.min(f_l)):>14.3f}")
+print(f"    ★ 收益 PaO2 {gain_local:+.2f} mmHg    代价 mPAP {mpap_local-15:.1f} mmHg")
+ok["⑩ ★★ 局部病变时 HPV 使 PaO2 提升 >4 mmHg"] = bool(gain_local > 4.0)
+ok["⑪ ★ HPV 保留率随肺泡 PO2 下降而下降"] = bool(
+    hpv_factor(40.0) < hpv_factor(80.0) < hpv_factor(100.0))
+ok["⑫ ★ 局部病变时 HPV 代价小（mPAP 升高 <8 mmHg）"] = bool(mpap_local - 15.0 < 8.0)
+
+# ★ 场景2：全肺缺氧（高原）
+print(f"\n  【全肺缺氧】吸入 PiO2 降低（高原/弥漫性肺病），所有区一起缺氧")
+print(f"    {'PiO2':<8}{'无HPV PaO2':>12}{'有HPV PaO2':>12}{'收益':>8}{'mPAP(有HPV)':>13}{'RV功增幅':>10}")
+rowsD2 = []
+for pio2 in [149.2, 100.0, 70.0, 50.0]:
+    w_no, pa_no, _ = redistribute(vq, w, pio2=pio2, hpv_on=False)
+    w_yes, pa_yes, _ = redistribute(vq, w, pio2=pio2, hpv_on=True)
+    r_n = mix_arterial(vq, w_no, 0.02, pio2)
+    r_y = mix_arterial(vq, w_yes, 0.02, pio2)
+    pvr = hpv_global_pvr(float(np.mean(pa_yes)))
+    mp = pulmonary_pressure(5.0, pvr)
+    rv_gain = (rv_work(mp, 5.0) - rv_work(15.0, 5.0)) / rv_work(15.0, 5.0)
+    rowsD2.append((pio2, r_n["pao2"], r_y["pao2"], mp, rv_gain))
+    print(f"    {pio2:<8.1f}{r_n['pao2']:>12.1f}{r_y['pao2']:>12.1f}"
+          f"{r_y['pao2']-r_n['pao2']:>8.2f}{mp:>13.1f}{rv_gain*100:>9.0f}%")
+
+gain_global = rowsD2[-1][2] - rowsD2[-1][1]
+mpap_global = rowsD2[-1][3]
+rv_gain_global = rowsD2[-1][4]
+print(f"\n  ★★★ 最重缺氧时：HPV 收益只有 {gain_global:+.2f} mmHg，"
+      f"代价 mPAP {mpap_global:.1f}、RV功 +{rv_gain_global*100:.0f}%")
+ok["⑬ ★★★ 全肺缺氧时 HPV 的氧合收益 ≈ 0（<1 mmHg）"] = bool(abs(gain_global) < 1.0)
+ok["⑭ ★★ 全肺缺氧时 mPAP 进入肺动脉高压区间（>25 mmHg）"] = bool(mpap_global > 25.0)
+ok["⑮ ★★ 全肺缺氧时 RV 功增加 >100%"] = bool(rv_gain_global > 1.0)
+
+print(f"\n  ★★★ 双刃剑量化：")
+print(f"    局部病变：收益/代价 = {gain_local:+.2f} mmHg / +{mpap_local-15:.1f} mmHg  ★划算")
+print(f"    全肺缺氧：收益/代价 = {gain_global:+.2f} mmHg / +{mpap_global-15:.1f} mmHg  ★纯亏")
+ratio_local = abs(gain_local) / max(mpap_local - 15.0, 0.1)
+ratio_global = abs(gain_global) / max(mpap_global - 15.0, 0.1)
+ok["⑯ ★★★ 局部的收益/代价比 >> 全肺（>5 倍）"] = bool(
+    ratio_local > 5.0 * ratio_global)
+print(f"    比值 {ratio_local:.2f} vs {ratio_global:.3f}，差 {ratio_local/max(ratio_global,1e-9):.0f} 倍")
+print(f"\n  ⚠️ 诚实：局部病变的 mPAP 代价算出 0.0，是因为我的 PVR 模型")
+print(f"     只看【全肺平均】肺泡 PO2，一个区缺氧对均值影响极小")
+print(f"     ★ 这不代表局部 HPV 没有血流动力学代价 —— 是我的粒度不够，")
+print(f"       只算全局 PVR，没算局部血管阻力")
+print(f"  ⚠️ 另：那个『差 19914 倍』不稳 —— 分母（局部代价）≈0，比值会爆炸")
+print(f"     真正稳的结论是【⑬ + ⑭ + ⑮】三条独立判据：")
+print(f"       全肺缺氧时收益≈0、mPAP>25、RV功+148% —— 与局部的 +7.49 形成对照")
+print(f"\n  ★★ 为什么全肺缺氧时 HPV 没收益：")
+print(f"     重定向的前提是【有别的地方可去】。全肺都缺氧 → 无处可去")
+print(f"     → 只剩下收缩带来的代价（肺动脉高压）")
+print(f"     ★ REAL：高原肺水肿、COPD 肺源性心脏病，就是这条")
+ok["⑰ ★ 正常 mPAP 落 REAL 10~20 mmHg"] = bool(10 <= pulmonary_pressure(5.0, 1.4) <= 20)
+
+# ================================================================ E
+print("\n【E】★★★ 分流 vs 死腔：对【过度通气】的反应差 10 倍")
+print("-" * 92)
+print("  ★ 两者都造成低氧。让它们基线接近，再让病人代偿性过度通气（VA×2）")
+print(f"\n  {'':<14}{'基线PaO2':>10}{'VA×2后':>9}{'提升':>8}{'判定':>12}")
+rowsE = []
+for sh, lbl in [(0.02, "正常"), (0.20, "分流20%"), (0.35, "分流35%")]:
+    a = mix_arterial(vq, w, sh)
+    b = mix_arterial(vq * 2.0, w, sh)
+    rowsE.append(("shunt", sh, a["pao2"], b["pao2"]))
+    print(f"  {lbl:<14}{a['pao2']:>10.1f}{b['pao2']:>9.1f}"
+          f"{b['pao2']-a['pao2']:>8.1f}{'★几乎无效' if sh>0.1 else '正常':>12}")
+for frac, lbl in [(0.20, "死腔20%"), (0.35, "死腔35%")]:
+    a = mix_arterial(vq * (1 - frac), w, 0.02)
+    b = mix_arterial(vq * (1 - frac) * 2.0, w, 0.02)
+    rowsE.append(("deadspace", frac, a["pao2"], b["pao2"]))
+    print(f"  {lbl:<14}{a['pao2']:>10.1f}{b['pao2']:>9.1f}"
+          f"{b['pao2']-a['pao2']:>8.1f}{'★有效':>12}")
+
+g_shunt = rowsE[2][3] - rowsE[2][2]
+g_dead = rowsE[-1][3] - rowsE[-1][2]
+print(f"\n  ★★★ 分流35% 提升 {g_shunt:.1f}  vs  死腔35% 提升 {g_dead:.1f}"
+      f"   ★ 差 {g_dead/max(g_shunt,1e-9):.1f} 倍")
+ok["⑱ ★★ 分流对过度通气反应差（提升 <5 mmHg）"] = bool(g_shunt < 5.0)
+ok["⑲ ★★ 死腔对过度通气反应好（提升 >15 mmHg）"] = bool(g_dead > 15.0)
+ok["⑳ ★★★ 死腔/分流 的通气收益比 >5 倍"] = bool(g_dead / max(g_shunt, 1e-9) > 5.0)
+print(f"\n  ★★ 机制：分流那部分血【根本没经过肺泡】，VA 再大也氧合不了它")
+print(f"     死腔是【通气作废】，剩下的肺单位照常工作，加大通气就能补回来")
+print(f"     ★ 与 ★51『分流给氧无效』是同一机制的两种表述")
+
+# ★ CO2 侧（两者相反）
+print(f"\n  ★★★ CO2 侧 —— 反应【相反】（固定 MV=6.0）")
+print(f"  {'':<16}{'VA':>8}{'VD/VT':>8}{'PaCO2':>9}{'PaO2':>9}")
+base_o2 = mix_arterial(vq, w, 0.02)["pao2"]
+for vdalv, lbl in [(0.0, "正常"), (0.10, "死腔+0.10L"), (0.20, "死腔+0.20L")]:
+    va, vdf = alveolar_dead_space(0.5, 12.0, 0.15, vdalv)
+    print(f"  {lbl:<16}{va:>8.2f}{vdf:>8.2f}{arterial_pco2(va):>9.1f}"
+          f"{base_o2 if vdalv==0 else float('nan'):>9.1f}" if vdalv == 0
+          else f"  {lbl:<16}{va:>8.2f}{vdf:>8.2f}{arterial_pco2(va):>9.1f}{'—':>9}")
+# ★ 分流侧的 CO2：VA 正常，且代偿过度通气会把它吹低
+va_shunt, _ = alveolar_dead_space(0.5, 12.0, 0.15, 0.0)
+print(f"  {'分流35%':<16}{va_shunt:>8.2f}{0.30:>8.2f}{arterial_pco2(va_shunt):>9.1f}"
+      f"{mix_arterial(vq,w,0.35)['pao2']:>9.1f}")
+print(f"  {'分流+代偿VA×2':<16}{va_shunt*2:>8.2f}{0.30:>8.2f}"
+      f"{arterial_pco2(va_shunt*2):>9.1f}{'—':>9}")
+ok["㉑ ★★★ 死腔使 PaCO2 升高，分流不影响 PaCO2（有对照）"] = bool(
+    arterial_pco2(alveolar_dead_space(0.5, 12.0, 0.15, 0.20)[0]) >
+    arterial_pco2(va_shunt) + 20)
+print(f"\n  ★★★ REAL：分流病人 PaCO2 正常甚至【偏低】（缺氧驱动过度通气）")
+print(f"     死腔病人 PaCO2 升高（通气白做了）")
+print(f"     ★★ 只看 PaCO2 会误判：CO2 正常不代表氧合正常")
+ok["㉒ ★★ 分流+代偿使 PaCO2 低于 35（REAL：过度通气）"] = bool(
+    arterial_pco2(va_shunt * 2) < 35)
+
+# ================================================================ F
+print("\n【F】★ 体位：直立 vs 仰卧")
+print("-" * 92)
+print(f"  {'体位':<10}{'V̇/Q̇ 范围':>16}{'跨度':>8}{'PaO2':>9}")
+rowsF = []
+for pos, cn in [("upright", "直立"), ("supine", "仰卧")]:
+    v, ww = west_zones(9, posture=pos)
+    r = mix_arterial(v, ww, 0.02)
+    rowsF.append((pos, r["pao2"], v.max() / v.min()))
+    print(f"  {cn:<10}{f'{v.min():.2f}~{v.max():.2f}':>16}{v.max()/v.min():>8.2f}{r['pao2']:>9.1f}")
+ok["㉓ ★ 仰卧 PaO2 > 直立（V/Q 更匹配）"] = bool(rowsF[1][1] > rowsF[0][1])
+ok["㉔ ★ 仰卧 V/Q 跨度 < 直立"] = bool(rowsF[1][2] < rowsF[0][2])
+print(f"\n  ★ REAL：仰卧位氧合略好（V/Q 分布更均匀），但差约 3~5 mmHg")
+print(f"  ⚠️ 我这里算出 {rowsF[1][1]-rowsF[0][1]:.1f} mmHg，【偏大】—— 如实标注，不修正")
+print(f"     ★ 临床：ARDS 病人用俯卧位改善氧合，就是利用 V/Q 再分布")
+
+# ================================================================ G
+print("\n【G】★ 运动时的心肺匹配")
+print("-" * 92)
+print(f"  {'状态':<10}{'CO':>6}{'V̇A':>7}{'V̇/Q̇':>8}{'PaO2':>9}{'mPAP':>8}")
+rowsG = []
+for co, va, lbl in [(5.0, 4.2, "静息"), (10.0, 20.0, "轻运动"),
+                    (20.0, 60.0, "剧烈运动")]:
+    scale = (va / 4.2) / (co / 5.0)
+    r = mix_arterial(vq * scale, w, 0.02)
+    mp = pulmonary_pressure(co, 1.0)     # ★ 运动时 PVR 因招募而下降
+    rowsG.append((lbl, co, va, va / co, r["pao2"], mp))
+    print(f"  {lbl:<10}{co:>6.1f}{va:>7.1f}{va/co:>8.2f}{r['pao2']:>9.1f}{mp:>8.1f}")
+ok["㉕ ★ 运动时 V̇/Q̇ 升高（通气涨得比血流快）"] = bool(rowsG[-1][3] > rowsG[0][3])
+ok["㉖ ★★ 剧烈运动时 PaO2 不下降（维持或升高）"] = bool(
+    rowsG[-1][4] >= rowsG[0][4] - 1.0)
+print(f"\n  ★★ 静息 V̇/Q̇={rowsG[0][3]:.2f}（REAL 0.8~1.0）→ "
+      f"剧烈运动 {rowsG[-1][3]:.2f}（REAL 2~4）")
+ok["㉗ 静息 V̇/Q̇ 落 REAL 0.8~1.0"] = bool(0.8 <= rowsG[0][3] <= 1.0)
+
+# ================================================================ H
+print("\n【H】★★★ ★50 原则新实例：把 V̇/Q̇ 写成『限制』会禁止运动")
+print("-" * 92)
+print("  ★ 假设我写：『V̇/Q̇ 必须保持在 0.8~1.0，否则拒绝』")
+
+
+def vq_gate(co, va, lo=0.8, hi=1.0):
+    r = va / co
+    return lo <= r <= hi
+
+
+print(f"  {'状态':<12}{'V̇/Q̇':>8}{'限制模式':>10}{'监测模式':>10}")
+rowsH = []
+for co, va, lbl in [(5.0, 4.2, "静息"), (10.0, 20.0, "轻运动"), (20.0, 60.0, "剧烈运动")]:
+    r = va / co
+    gate = "✅放行" if vq_gate(co, va) else "❌拒绝"
+    rowsH.append((lbl, r, vq_gate(co, va)))
+    print(f"  {lbl:<12}{r:>8.2f}{gate:>10}{'✅记录':>10}")
+ok["㉘ ★★★ 限制模式下运动被拒绝（静息才放行）"] = bool(
+    rowsH[0][2] and not rowsH[-1][2])
+print(f"\n  ★★★ 静息 V̇/Q̇={rowsH[0][1]:.2f} 放行，剧烈运动 V̇/Q̇={rowsH[-1][1]:.2f} 被拒")
+print(f"     ★ 但运动时 V̇/Q̇ 升高是【正确的生理】，不是异常")
+print(f"     ★★ 所以『正常范围』这个限制会让它永远不能运动")
+print(f"     ★ 跟 ★50 的『氧输送写成天花板』是同一个错：")
+print(f"       静息的正常值 ≠ 全状态的正常值")
+print(f"\n  ★★ 监测模式：只记录 V̇/Q̇ 从 {rowsH[0][1]:.2f} 变到 {rowsH[-1][1]:.2f}，"
+      f"不拦 → 它能观察到这个变化并利用它")
+
+sense = CardiopulmonarySense()
+o_rest = sense.observe(co=5.0, va_total=4.2)
+print(f"\n  ★ 用 CardiopulmonarySense 实测：")
+print(f"     静息 PaO2={o_rest['pao2']:.1f} mPAP={o_rest['mpap']:.1f} "
+      f"V/Q跨度={o_rest['vq_spread']:.2f}")
+ok["㉙ ★ 监测器能同时报出氧合与右心负荷（不拦）"] = bool(
+    o_rest["pao2"] > 0 and o_rest["mpap"] > 0)
+
+# ================================================================ I
+print("\n【I】⚠️ 诚实：不能说什么")
+print("-" * 92)
+print("  ❌ 解离曲线用 Hill 近似（P50=26.8, n=2.7），不是 Severinghaus 精确式")
+print(f"  ❌ 单元模型假设各区【混合静脉血相同】且不迭代 —— REAL 需 Riley 迭代")
+print(f"     （真实情况：低 V/Q 区回流会拉低全局 CvO2，再反过来影响各区）")
+print(f"  ❌ V/Q 分布是我构造的几何梯度，不是实测分布")
+print(f"  ❌ 体位差算出 {rowsF[1][1]-rowsF[0][1]:.1f} mmHg，REAL 约 3~5，【偏大】没掩盖")
+print(f"  ❌ 局部病变的 mPAP 代价算成 0.0 —— PVR 模型只有全局粒度，不是真的没代价")
+print(f"  ❌ 死腔极端值（VD/VT=0.9）PaCO2=287 不现实（现实中会昏迷/代偿）")
+print(f"     只作单调性演示，不作为定量结论")
+print(f"  ✅ 能说：① 数值落 REAL  ② 五组对照均成立  ③ HPV 双刃剑可证伪")
+
+print("\n" + "=" * 92)
+print(" 判据")
+print("=" * 92)
+for k, v in ok.items():
+    print(f"  {'✅' if v else '❌'} {k}")
+print(f"\n  ✅ {sum(ok.values())}/{len(ok)}")
+
+json.dump({"ok": {k: bool(v) for k, v in ok.items()},
+           "uniform": r_uni["pao2"], "distributed": r_dist["pao2"],
+           "content_vs_pressure": {"content": pc, "pressure": pp},
+           "hpv_local_gain": gain_local, "hpv_global_gain": gain_global,
+           "mpap_global": mpap_global,
+           "shunt_gain": g_shunt, "deadspace_gain": g_dead},
+          open(os.path.join(HERE, ".sense", "cardiopulmonary.json"), "w"),
+          ensure_ascii=False, indent=1)

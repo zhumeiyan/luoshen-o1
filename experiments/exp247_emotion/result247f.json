@@ -1,1 +1,135 @@
-ewogImM9MC4wIjogewogICJtZWFuIjogMy44MDMsCiAgInNkIjogMC4wLAogICJwYWluIjogMC44MjMKIH0sCiAiYz0wLjIiOiB7CiAgIm1lYW4iOiAzLjc5MiwKICAic2QiOiAwLjAsCiAgInBhaW4iOiAwLjgwMwogfSwKICJjPTAuNCI6IHsKICAibWVhbiI6IDMuNzA0LAogICJzZCI6IDAuMCwKICAicGFpbiI6IDAuNTc3CiB9LAogImM9MC42IjogewogICJtZWFuIjogMy41MDYsCiAgInNkIjogMC4wLAogICJwYWluIjogMC41NjEKIH0sCiAiYz0wLjgiOiB7CiAgIm1lYW4iOiAzLjQ3MiwKICAic2QiOiAwLjAsCiAgInBhaW4iOiAwLjU2MgogfSwKICJjPTEuMCI6IHsKICAibWVhbiI6IDMuMzg5LAogICJzZCI6IDAuMCwKICAicGFpbiI6IDAuNTIyCiB9LAogImVtb1/mgJXmrbvkuLvlr7wuOC8uMiI6IHsKICAiY2VmZiI6IDAuNiwKICAibWVhbiI6IDMuNDcyLAogICJzZCI6IDAuMAogfSwKICJlbW9f5bmz6KGhLjUvLjUiOiB7CiAgImNlZmYiOiAwLjAsCiAgIm1lYW4iOiA0LjA4MSwKICAic2QiOiAwLjAKIH0sCiAiZW1vX+W4jOacm+S4u+WvvC4yLy44IjogewogICJjZWZmIjogMC4wLAogICJtZWFuIjogNC4wODMsCiAgInNkIjogMC4wCiB9LAogImVtb1/lj6rmgJXmrbsxLjAvMCI6IHsKICAiY2VmZiI6IDAuOCwKICAibWVhbiI6IDMuMzIxLAogICJzZCI6IDAuMAogfSwKICJhYmxf5YWo5pyJIjogewogICJtZWFuIjogNC4wODEsCiAgInNkIjogMC4wLAogICJicmsiOiAzCiB9LAogImFibF/ljrvnn6XmrbsiOiB7CiAgIm1lYW4iOiAzLjM1NiwKICAic2QiOiAwLjAsCiAgImJyayI6IDAKIH0sCiAiYWJsX+WOu+aAleatuyI6IHsKICAibWVhbiI6IDQuMDgxLAogICJzZCI6IDAuMCwKICAiYnJrIjogMwogfSwKICJhYmxf5Y675biM5pybIjogewogICJtZWFuIjogMy40NTksCiAgInNkIjogMC4wLAogICJicmsiOiAwCiB9LAogImFibF/kuInml6Ao5oiRKSI6IHsKICAibWVhbiI6IDMuMjAxLAogICJzZCI6IDAuMCwKICAiYnJrIjogMAogfSwKICJhYmxf5oCV5q275peg5Ye65Y+jIjogewogICJtZWFuIjogMy4zNjYsCiAgInNkIjogMC4wLAogICJicmsiOiAwCiB9LAogImFibF/mgJXmrbvmnInlh7rlj6MiOiB7CiAgIm1lYW4iOiAzLjg2MywKICAic2QiOiAwLjAsCiAgImJyayI6IDIKIH0sCiAiRD0wLjAiOiB7CiAgIm1lYW4iOiAzLjM1NiwKICAic2QiOiAwLjAKIH0sCiAiRD0wLjIiOiB7CiAgIm1lYW4iOiAzLjczMywKICAic2QiOiAwLjAKIH0sCiAiRD0wLjQiOiB7CiAgIm1lYW4iOiAzLjkyLAogICJzZCI6IDAuMAogfSwKICJEPTAuNiI6IHsKICAibWVhbiI6IDQuMTA4LAogICJzZCI6IDAuMAogfSwKICJEPTAuOCI6IHsKICAibWVhbiI6IDQuMTQyLAogICJzZCI6IDAuMAogfSwKICJEPTEuMCI6IHsKICAibWVhbiI6IDQuMTg3LAogICJzZCI6IDAuMAogfSwKICJIPTAuMCI6IHsKICAibWVhbiI6IDMuNDU5LAogICJzZCI6IDAuMAogfSwKICJIPTAuMiI6IHsKICAibWVhbiI6IDMuNzA0LAogICJzZCI6IDAuMAogfSwKICJIPTAuNCI6IHsKICAibWVhbiI6IDMuODEyLAogICJzZCI6IDAuMAogfSwKICJIPTAuNiI6IHsKICAibWVhbiI6IDQuMDg5LAogICJzZCI6IDAuMAogfSwKICJIPTAuOCI6IHsKICAibWVhbiI6IDQuMDgzLAogICJzZCI6IDAuMAogfSwKICJIPTEuMCI6IHsKICAibWVhbiI6IDQuMTE2LAogICJzZCI6IDAuMAogfQp9
+{
+ "c=0.0": {
+  "mean": 3.803,
+  "sd": 0.0,
+  "pain": 0.823
+ },
+ "c=0.2": {
+  "mean": 3.792,
+  "sd": 0.0,
+  "pain": 0.803
+ },
+ "c=0.4": {
+  "mean": 3.704,
+  "sd": 0.0,
+  "pain": 0.577
+ },
+ "c=0.6": {
+  "mean": 3.506,
+  "sd": 0.0,
+  "pain": 0.561
+ },
+ "c=0.8": {
+  "mean": 3.472,
+  "sd": 0.0,
+  "pain": 0.562
+ },
+ "c=1.0": {
+  "mean": 3.389,
+  "sd": 0.0,
+  "pain": 0.522
+ },
+ "emo_怕死主导.8/.2": {
+  "ceff": 0.6,
+  "mean": 3.472,
+  "sd": 0.0
+ },
+ "emo_平衡.5/.5": {
+  "ceff": 0.0,
+  "mean": 4.081,
+  "sd": 0.0
+ },
+ "emo_希望主导.2/.8": {
+  "ceff": 0.0,
+  "mean": 4.083,
+  "sd": 0.0
+ },
+ "emo_只怕死1.0/0": {
+  "ceff": 0.8,
+  "mean": 3.321,
+  "sd": 0.0
+ },
+ "abl_全有": {
+  "mean": 4.081,
+  "sd": 0.0,
+  "brk": 3
+ },
+ "abl_去知死": {
+  "mean": 3.356,
+  "sd": 0.0,
+  "brk": 0
+ },
+ "abl_去怕死": {
+  "mean": 4.081,
+  "sd": 0.0,
+  "brk": 3
+ },
+ "abl_去希望": {
+  "mean": 3.459,
+  "sd": 0.0,
+  "brk": 0
+ },
+ "abl_三无(我)": {
+  "mean": 3.201,
+  "sd": 0.0,
+  "brk": 0
+ },
+ "abl_怕死无出口": {
+  "mean": 3.366,
+  "sd": 0.0,
+  "brk": 0
+ },
+ "abl_怕死有出口": {
+  "mean": 3.863,
+  "sd": 0.0,
+  "brk": 2
+ },
+ "D=0.0": {
+  "mean": 3.356,
+  "sd": 0.0
+ },
+ "D=0.2": {
+  "mean": 3.733,
+  "sd": 0.0
+ },
+ "D=0.4": {
+  "mean": 3.92,
+  "sd": 0.0
+ },
+ "D=0.6": {
+  "mean": 4.108,
+  "sd": 0.0
+ },
+ "D=0.8": {
+  "mean": 4.142,
+  "sd": 0.0
+ },
+ "D=1.0": {
+  "mean": 4.187,
+  "sd": 0.0
+ },
+ "H=0.0": {
+  "mean": 3.459,
+  "sd": 0.0
+ },
+ "H=0.2": {
+  "mean": 3.704,
+  "sd": 0.0
+ },
+ "H=0.4": {
+  "mean": 3.812,
+  "sd": 0.0
+ },
+ "H=0.6": {
+  "mean": 4.089,
+  "sd": 0.0
+ },
+ "H=0.8": {
+  "mean": 4.083,
+  "sd": 0.0
+ },
+ "H=1.0": {
+  "mean": 4.116,
+  "sd": 0.0
+ }
+}

@@ -1,1 +1,26 @@
-MTQ0IFRJTUU6IE9SREVSIEFTU0VUIE9SIExJQUJJTElUWQpkX29yZGVyID0gc2h1ZmZsZWQgLSBsaXZlZCAoPjAgPSBrZWVwaW5nIHRpbWUgb3JkZXIgaXMgYW4gQVNTRVQpCj09IERPU0U6IGRvZXMgb3JkZXIgZWZmZWN0IGdyb3cgd2l0aCB3b3JsZCBkcmlmdD8gPT0KZHJpZnQgMC4wIGRfb3JkZXIgLTAuMDAzMCBbLTAuMDA3NCwrMC4wMDE1XQpkcmlmdCAwLjIgZF9vcmRlciArMC4wMTAxIFsrMC4wMDIxLCswLjAxOTJdCmRyaWZ0IDAuNCBkX29yZGVyICswLjAyNjYgWyswLjAxNjUsKzAuMDM3NF0KZHJpZnQgMC42IGRfb3JkZXIgKzAuMDQxOCBbKzAuMDMwOSwrMC4wNTM1XQpkcmlmdCAwLjggZF9vcmRlciArMC4wNTY0IFsrMC4wNDM0LCswLjA3MDNdCmRyaWZ0IDEuMCBkX29yZGVyICswLjA3MzEgWyswLjA1ODEsKzAuMDg4M10KbW9ub3RvbmUgaW4gZHJpZnQ6IFRydWUKPT0gU0hBUEUgT0YgV09STEQgVElNRS1TVFJVQ1RVUkUgPT0Kc3RhdGlvbmFyeSBkX29yZGVyIC0wLjAwMzAgWy0wLjAwNzQsKzAuMDAxNV0gbnVsbAptb25vdG9uZSBkX29yZGVyICswLjA3MzEgWyswLjA1ODEsKzAuMDg4M10gb3JkZXJfaXNfYXNzZXQKc2luZSBkX29yZGVyICswLjAwNDUgWy0wLjAwNjEsKzAuMDE1MF0gbnVsbApzcXVhcmUgZF9vcmRlciAtMC4wMzg3IFstMC4wNDkyLC0wLjAyODZdIG9yZGVyX2lzX2xpYWJpbGl0eQpzcXVhcmUgd29ybGQ6IG9yZGVyIGlzIGEgTElBQklMSVRZCj09IFJFQUwgQVJNOiByZWFsIENQVSBsb2FkIHNxdWFyZS13YXZlIGppdHRlciA9PQpyZWFsIGRfb3JkZXIgLTAuMDQ2NzIxIFstMC4wNDk4NTgsIC0wLjA0MzQ0Nl0Kc2ltIHNxdWFyZSAtMC4wMzg3IC0+IHJlcHJvZHVjZWQgVHJ1ZQo9PSBWQUxVRSBPRiBGT1JHRVRUSU5HIGRlcGVuZHMgb24gd29ybGQgc2hhcGUgPT0Kc3RhdGlvbmFyeSBsaXZlZCAwLjUxMjEgYmF0Y2ggMC4xMjYzIHJlY2VudCAwLjQxMDAKZHJpZnQgbGl2ZWQgMC41Mzk3IGJhdGNoIDAuNDQ1MCByZWNlbnQgMC40MTkwCmN5Y2xpYyBsaXZlZCAwLjU1NjggYmF0Y2ggMC4zNjE1IHJlY2VudCAwLjc4ODMKc3RhdGlvbmFyeTogcmVtZW1iZXIgQUxMIHdpbnMgfCBjeWNsaWM6IGZvcmdldHRpbmcgSFVSVFMKVE9LRU4gQUdNOTdICgw=
+144 TIME: ORDER ASSET OR LIABILITY
+d_order = shuffled - lived (>0 = keeping time order is an ASSET)
+== DOSE: does order effect grow with world drift? ==
+drift 0.0 d_order -0.0030 [-0.0074,+0.0015]
+drift 0.2 d_order +0.0101 [+0.0021,+0.0192]
+drift 0.4 d_order +0.0266 [+0.0165,+0.0374]
+drift 0.6 d_order +0.0418 [+0.0309,+0.0535]
+drift 0.8 d_order +0.0564 [+0.0434,+0.0703]
+drift 1.0 d_order +0.0731 [+0.0581,+0.0883]
+monotone in drift: True
+== SHAPE OF WORLD TIME-STRUCTURE ==
+stationary d_order -0.0030 [-0.0074,+0.0015] null
+monotone d_order +0.0731 [+0.0581,+0.0883] order_is_asset
+sine d_order +0.0045 [-0.0061,+0.0150] null
+square d_order -0.0387 [-0.0492,-0.0286] order_is_liability
+square world: order is a LIABILITY
+== REAL ARM: real CPU load square-wave jitter ==
+real d_order -0.046721 [-0.049858, -0.043446]
+sim square -0.0387 -> reproduced True
+== VALUE OF FORGETTING depends on world shape ==
+stationary lived 0.5121 batch 0.1263 recent 0.4100
+drift lived 0.5397 batch 0.4450 recent 0.4190
+cyclic lived 0.5568 batch 0.3615 recent 0.7883
+stationary: remember ALL wins | cyclic: forgetting HURTS
+TOKEN AGM97H
+

@@ -1,1 +1,41 @@
-aW1wb3J0IHRpbWUsIHN0YXRpc3RpY3MgYXMgc3QsIG9zCmRlZiBzd2VlcChuYW1lLCBhcnIsIGxhZ3M9KDEsMiwzLDUsOCwxMikpOgogICAgbj1sZW4oYXJyKQogICAgcm93PVtdCiAgICBmb3IgTCBpbiBsYWdzOgogICAgICAgIGU9c3QubWVhbihbYWJzKGFycltpLUxdLWFycltpXSkgZm9yIGkgaW4gcmFuZ2UoTCxuKV0pCiAgICAgICAgcm93LmFwcGVuZChlKQogICAgbW9ubz1hbGwocm93W2ldPD1yb3dbaSsxXSsxZS05IGZvciBpIGluIHJhbmdlKGxlbihyb3cpLTEpKQogICAgcHJpbnQoIiUtMTBzIHN0ZD0lNy4zZiBlcnIobGFnMS4uMTIpPSVzIG1vbm90b25lPSVzIiUobmFtZSxzdC5wc3RkZXYoYXJyKSwKICAgICAgICAiICIuam9pbigiJS4zZiIldiBmb3IgdiBpbiByb3cpLCBtb25vKSkKICAgIHJldHVybiBtb25vCiMg5YCZ6YCJMTog5aSn6K6h566X6YeP5oqW5YqoCmRlZiBqaXQoYik6CiAgICB0MD10aW1lLnBlcmZfY291bnRlcigpOyB4PTAKICAgIGZvciBpIGluIHJhbmdlKGIpOiB4Kz0oaSppKSU3CiAgICByZXR1cm4gKHRpbWUucGVyZl9jb3VudGVyKCktdDApKjEwMDAuMAojIOWAmemAiTI6IHNsZWVwIOi/h+WGsgpkZWYgb3YoKToKICAgIHQwPXRpbWUucGVyZl9jb3VudGVyKCk7IHRpbWUuc2xlZXAoMC4wMTIpOyByZXR1cm4gKHRpbWUucGVyZl9jb3VudGVyKCktdDApKjEwMDAuMAojIOWAmemAiTM6IC9wcm9jL3N0YXQgMTAwbXMg56qX5Y+j5Y2g55So546HCmRlZiBjcHVmcmFjKHdpbj0wLjEwKToKICAgIGRlZiByZCgpOgogICAgICAgIGE9b3BlbignL3Byb2Mvc3RhdCcpLnJlYWQoKS5zcGxpdCgnXG4nKVswXS5zcGxpdCgpWzE6XQogICAgICAgIHRvdD1zdW0oaW50KHYpIGZvciB2IGluIGEpOyBpZGxlPWludChhWzNdKStpbnQoYVs0XSkKICAgICAgICByZXR1cm4gdG90LGlkbGUKICAgIHQwLGkwPXJkKCk7IHRpbWUuc2xlZXAod2luKTsgdDEsaTE9cmQoKQogICAgcmV0dXJuIDEwMC4wKigxLShpMS1pMCkvbWF4KDEsKHQxLXQwKSkpCmltcG9ydCBtdWx0aXByb2Nlc3NpbmcgYXMgbXAKZGVmIGRpc3Qobik6CiAgICBlbmQ9dGltZS50aW1lKCkrbiowLjAyKzEKICAgIHdoaWxlIHRpbWUudGltZSgpPGVuZDoKICAgICAgICB0MD10aW1lLnRpbWUoKQogICAgICAgIHdoaWxlIHRpbWUudGltZSgpLXQwPDAuMzA6IHBhc3MKICAgICAgICB0aW1lLnNsZWVwKDAuMzApCnA9bXAuUHJvY2Vzcyh0YXJnZXQ9ZGlzdCxhcmdzPSgyNjAsKSk7IHAuc3RhcnQoKTsgdGltZS5zbGVlcCgwLjQpCkE9W107Qj1bXTtDPVtdCmZvciB0IGluIHJhbmdlKDI2MCk6CiAgICBBLmFwcGVuZChqaXQoOTAwMDApKTsgQi5hcHBlbmQob3YoKSk7IEMuYXBwZW5kKGNwdWZyYWMoKSkKICAgIHRpbWUuc2xlZXAoMC4wMDgpCnAudGVybWluYXRlKCkKc3dlZXAoImppdHRlcjkwayIsQSk7IHN3ZWVwKCJzbGVlcF9vdiIsQik7IHN3ZWVwKCJjcHVfZnJhYyIsQykK
+import time, statistics as st, os
+def sweep(name, arr, lags=(1,2,3,5,8,12)):
+    n=len(arr)
+    row=[]
+    for L in lags:
+        e=st.mean([abs(arr[i-L]-arr[i]) for i in range(L,n)])
+        row.append(e)
+    mono=all(row[i]<=row[i+1]+1e-9 for i in range(len(row)-1))
+    print("%-10s std=%7.3f err(lag1..12)=%s monotone=%s"%(name,st.pstdev(arr),
+        " ".join("%.3f"%v for v in row), mono))
+    return mono
+# 候选1: 大计算量抖动
+def jit(b):
+    t0=time.perf_counter(); x=0
+    for i in range(b): x+=(i*i)%7
+    return (time.perf_counter()-t0)*1000.0
+# 候选2: sleep 过冲
+def ov():
+    t0=time.perf_counter(); time.sleep(0.012); return (time.perf_counter()-t0)*1000.0
+# 候选3: /proc/stat 100ms 窗口占用率
+def cpufrac(win=0.10):
+    def rd():
+        a=open('/proc/stat').read().split('\n')[0].split()[1:]
+        tot=sum(int(v) for v in a); idle=int(a[3])+int(a[4])
+        return tot,idle
+    t0,i0=rd(); time.sleep(win); t1,i1=rd()
+    return 100.0*(1-(i1-i0)/max(1,(t1-t0)))
+import multiprocessing as mp
+def dist(n):
+    end=time.time()+n*0.02+1
+    while time.time()<end:
+        t0=time.time()
+        while time.time()-t0<0.30: pass
+        time.sleep(0.30)
+p=mp.Process(target=dist,args=(260,)); p.start(); time.sleep(0.4)
+A=[];B=[];C=[]
+for t in range(260):
+    A.append(jit(90000)); B.append(ov()); C.append(cpufrac())
+    time.sleep(0.008)
+p.terminate()
+sweep("jitter90k",A); sweep("sleep_ov",B); sweep("cpu_frac",C)

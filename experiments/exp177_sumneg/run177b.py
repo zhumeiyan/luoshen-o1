@@ -1,1 +1,68 @@
-aW1wb3J0IGpzb24sIG1hdGgsIGNvbGxlY3Rpb25zLCByYW5kb20KU1JDPSIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNzVfYWxpZ24vdV9zaWRlLnR4dCIKcmF3PW9wZW4oU1JDLGVuY29kaW5nPSJ1dGYtOCIsZXJyb3JzPSJpZ25vcmUiKS5yZWFkKCkKc2VxPSJcbiIuam9pbihbbC5zdHJpcCgpIGZvciBsIGluIHJhdy5zcGxpdGxpbmVzKCkgaWYgbC5zdHJpcCgpXSkKbj1sZW4oc2VxKTsgY3V0PWludChuKjAuOCk7IHRyLHRlPXNlcVs6Y3V0XSxzZXFbY3V0Ol0KdW5pPWNvbGxlY3Rpb25zLkNvdW50ZXIodHIpOyBOPXN1bSh1bmkudmFsdWVzKCkpOyBWPWxlbih1bmkpCmJpPWNvbGxlY3Rpb25zLkNvdW50ZXIoemlwKHRyLHRyWzE6XSkpOyBiaXByZXY9Y29sbGVjdGlvbnMuQ291bnRlcih0cls6LTFdKQpkZWYgbHBfdW5pKGMpOiByZXR1cm4gbWF0aC5sb2coKHVuaVtjXSswLjUpLyhOKzAuNSpWKSkKZGVmIGxwX2JpKGEsYik6CiAgICBwYmk9KGJpWyhhLGIpXSswLjUpLyhiaXByZXZbYV0rMC41KlYpCiAgICByZXR1cm4gbWF0aC5sb2coMC44KnBiaSswLjIqbWF0aC5leHAobHBfdW5pKGIpKSkKIyBvbmx5IFBPU0lUSVZFLXN1cnByaXNlIHRyYW5zaXRpb25zICh0aG9zZSB0aGF0IGFjdHVhbGx5IGNvbnRyYWRpY3QgdGhlIHN1bW1hcnkpCnN1cnA9e30KZm9yIChhLGIpLGMgaW4gYmkuaXRlbXMoKToKICAgIGlmIGM8MjogY29udGludWUKICAgIHBiaT0oYmlbKGEsYildKzAuNSkvKGJpcHJldlthXSswLjUqVik7IHB1PW1hdGguZXhwKGxwX3VuaShiKSkKICAgIHM9YyptYXRoLmxvZygoMC44KnBiaSswLjIqcHUpL3B1KQogICAgaWYgcz4wOiBzdXJwWyhhLGIpXT1zCnJhbmtlZD1zb3J0ZWQoc3VycC5pdGVtcygpLGtleT1sYW1iZGEga3Y6LWt2WzFdKQpUT1Q9c3VtKHYgZm9yIF8sdiBpbiByYW5rZWQpCnByaW50KCJwb3NpdGl2ZS1zdXJwcmlzZSB0cmFuc2l0aW9uczoiLGxlbihyYW5rZWQpLCJ0b3RhbCBtYXNzICUuM2YiJVRPVCkKCmRlZiBiaXRzKGtlZXApOgogICAgbGw9MC4wO3RvdD0wCiAgICBmb3IgaSBpbiByYW5nZShsZW4odGUpKToKICAgICAgICBjdHggPSB0clstMV0gaWYgaT09MCBlbHNlIHRlW2ktMV07IGM9dGVbaV0KICAgICAgICBsbCArPSBscF9iaShjdHgsYykgaWYgKGN0eCxjKSBpbiBrZWVwIGVsc2UgbHBfdW5pKGMpOyB0b3QrPTEKICAgIHJldHVybiAtbGwvdG90CmRlZiBhY2Moa2VlcCk6CiAgICBvaz0wO3RvdD0wCiAgICBmb3IgaSBpbiByYW5nZShsZW4odGUpKToKICAgICAgICBjdHggPSB0clstMV0gaWYgaT09MCBlbHNlIHRlW2ktMV07IGM9dGVbaV0KICAgICAgICBidj0tMWUxODtiYz1Ob25lCiAgICAgICAgZm9yIHggaW4gdW5pOgogICAgICAgICAgICB2ID0gbHBfYmkoY3R4LHgpIGlmIChjdHgseCkgaW4ga2VlcCBlbHNlIGxwX3VuaSh4KQogICAgICAgICAgICBpZiB2PmJ2OiBidj12O2JjPXgKICAgICAgICBvays9IChiYz09Yyk7IHRvdCs9MQogICAgcmV0dXJuIG9rL3RvdAoKc3VtX2JpdHM9Yml0cyhzZXQoKSk7IGZ1bGxfYWxsPXNldChiaS5rZXlzKCkpOyBmdWxsX2JpdHM9Yml0cyhmdWxsX2FsbCkKcHJpbnQoIlNVTU1BUlkgIGJpdHM9JS40ZiIlc3VtX2JpdHMpCnByaW50KCJGVUxMLUFMTCBiaXRzPSUuNGYgIChldmVyeSB0cmFuc2l0aW9uLCBpbmNsLiBuZWdhdGl2ZS1zdXJwcmlzZSkiJWZ1bGxfYml0cykKYmVzdD1iaXRzKHNldChrIGZvciBrLF8gaW4gcmFua2VkKSkKcHJpbnQoIlNFTC1GVUxMIGJpdHM9JS40ZiAgKG9ubHkgcG9zaXRpdmUtc3VycHJpc2UpIiViZXN0KQoKZ3JpZD1bMCwxLDIsMyw1LDgsMTIsMjAsMzAsNTAsODAsMTIwLDE4MCwyNTAsbGVuKHJhbmtlZCldCmN1cnZlPVtdCmZvciBOayBpbiBncmlkOgogICAga2VlcD1zZXQoayBmb3IgayxfIGluIHJhbmtlZFs6TmtdKQogICAgbT1zdW0odiBmb3IgXyx2IGluIHJhbmtlZFs6TmtdKS9UT1QKICAgIGN1cnZlLmFwcGVuZCh7Ik4iOk5rLCJiaXRzIjpiaXRzKGtlZXApLCJhY2MiOmFjYyhrZWVwKSwibWFzcyI6cm91bmQobSwzKX0pCiAgICBwcmludCgiTj0lNGQgIGJpdHM9JS40ZiAgYWNjPSUuNGYgIG1hc3M9JS4zZiIlKE5rLGN1cnZlWy0xXVsiYml0cyJdLGN1cnZlWy0xXVsiYWNjIl0sbSkpCgojIHJhbmRvbS1uZWdhdGlvbiBjb250cm9sIGF0IG1hdGNoZWQgTgpybmQ9e30KcmFuZG9tLnNlZWQoNykKZm9yIE5rIGluIFs1LDIwLDUwLDEyMCwyNTBdOgogICAgdmFscz1bXQogICAgZm9yIF8gaW4gcmFuZ2UoNSk6CiAgICAgICAga2VlcD1zZXQocmFuZG9tLnNhbXBsZShsaXN0KHN1cnAua2V5cygpKSxtaW4oTmssbGVuKHN1cnApKSkpCiAgICAgICAgdmFscy5hcHBlbmQoYml0cyhrZWVwKSkKICAgIHJuZFtOa109c3VtKHZhbHMpL2xlbih2YWxzKQogICAgcHJpbnQoInJhbmRvbSBOPSUzZCBiaXRzPSUuNGYiJShOayxybmRbTmtdKSkKanNvbi5kdW1wKHsibl9jaGFycyI6biwidHJhaW4iOmxlbih0ciksInRlc3QiOmxlbih0ZSksIlYiOlYsCiAgInN1bW1hcnlfYml0cyI6c3VtX2JpdHMsImZ1bGxfYWxsX2JpdHMiOmZ1bGxfYml0cywic2VsZWN0aXZlX2Z1bGxfYml0cyI6YmVzdCwKICAibl9wb3MiOmxlbihyYW5rZWQpLCJjdXJ2ZSI6Y3VydmUsInJhbmRvbV9jb250cm9sIjpybmR9LAogIG9wZW4oIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE3N19zdW1uZWcvcmVzdWx0MTc3Yi5qc29uIiwidyIpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkKcHJpbnQoIldST1RFIGIiKQo=
+import json, math, collections, random
+SRC="/data/workspace/luoshen-o1/experiments/exp175_align/u_side.txt"
+raw=open(SRC,encoding="utf-8",errors="ignore").read()
+seq="\n".join([l.strip() for l in raw.splitlines() if l.strip()])
+n=len(seq); cut=int(n*0.8); tr,te=seq[:cut],seq[cut:]
+uni=collections.Counter(tr); N=sum(uni.values()); V=len(uni)
+bi=collections.Counter(zip(tr,tr[1:])); biprev=collections.Counter(tr[:-1])
+def lp_uni(c): return math.log((uni[c]+0.5)/(N+0.5*V))
+def lp_bi(a,b):
+    pbi=(bi[(a,b)]+0.5)/(biprev[a]+0.5*V)
+    return math.log(0.8*pbi+0.2*math.exp(lp_uni(b)))
+# only POSITIVE-surprise transitions (those that actually contradict the summary)
+surp={}
+for (a,b),c in bi.items():
+    if c<2: continue
+    pbi=(bi[(a,b)]+0.5)/(biprev[a]+0.5*V); pu=math.exp(lp_uni(b))
+    s=c*math.log((0.8*pbi+0.2*pu)/pu)
+    if s>0: surp[(a,b)]=s
+ranked=sorted(surp.items(),key=lambda kv:-kv[1])
+TOT=sum(v for _,v in ranked)
+print("positive-surprise transitions:",len(ranked),"total mass %.3f"%TOT)
+
+def bits(keep):
+    ll=0.0;tot=0
+    for i in range(len(te)):
+        ctx = tr[-1] if i==0 else te[i-1]; c=te[i]
+        ll += lp_bi(ctx,c) if (ctx,c) in keep else lp_uni(c); tot+=1
+    return -ll/tot
+def acc(keep):
+    ok=0;tot=0
+    for i in range(len(te)):
+        ctx = tr[-1] if i==0 else te[i-1]; c=te[i]
+        bv=-1e18;bc=None
+        for x in uni:
+            v = lp_bi(ctx,x) if (ctx,x) in keep else lp_uni(x)
+            if v>bv: bv=v;bc=x
+        ok+= (bc==c); tot+=1
+    return ok/tot
+
+sum_bits=bits(set()); full_all=set(bi.keys()); full_bits=bits(full_all)
+print("SUMMARY  bits=%.4f"%sum_bits)
+print("FULL-ALL bits=%.4f  (every transition, incl. negative-surprise)"%full_bits)
+best=bits(set(k for k,_ in ranked))
+print("SEL-FULL bits=%.4f  (only positive-surprise)"%best)
+
+grid=[0,1,2,3,5,8,12,20,30,50,80,120,180,250,len(ranked)]
+curve=[]
+for Nk in grid:
+    keep=set(k for k,_ in ranked[:Nk])
+    m=sum(v for _,v in ranked[:Nk])/TOT
+    curve.append({"N":Nk,"bits":bits(keep),"acc":acc(keep),"mass":round(m,3)})
+    print("N=%4d  bits=%.4f  acc=%.4f  mass=%.3f"%(Nk,curve[-1]["bits"],curve[-1]["acc"],m))
+
+# random-negation control at matched N
+rnd={}
+random.seed(7)
+for Nk in [5,20,50,120,250]:
+    vals=[]
+    for _ in range(5):
+        keep=set(random.sample(list(surp.keys()),min(Nk,len(surp))))
+        vals.append(bits(keep))
+    rnd[Nk]=sum(vals)/len(vals)
+    print("random N=%3d bits=%.4f"%(Nk,rnd[Nk]))
+json.dump({"n_chars":n,"train":len(tr),"test":len(te),"V":V,
+  "summary_bits":sum_bits,"full_all_bits":full_bits,"selective_full_bits":best,
+  "n_pos":len(ranked),"curve":curve,"random_control":rnd},
+  open("/data/workspace/luoshen-o1/experiments/exp177_sumneg/result177b.json","w"),ensure_ascii=False,indent=1)
+print("WROTE b")

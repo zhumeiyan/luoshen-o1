@@ -1,1 +1,24 @@
-aW1wb3J0IG51bXB5IGFzIG5wLCBqc29uLCBpbXBvcnRsaWIudXRpbCwgb3MKc3BlYz1pbXBvcnRsaWIudXRpbC5zcGVjX2Zyb21fZmlsZV9sb2NhdGlvbigncicsJ3JlYWwxNDUucHknKTsgbT1pbXBvcnRsaWIudXRpbC5tb2R1bGVfZnJvbV9zcGVjKHNwZWMpCmltcG9ydCBzeXM7IHN5cy5tb2R1bGVzWydyJ109bQojIOWPquWAn+eUqOWHveaVsCwg5LiN6LeRIG1haW4KZXhlYyhvcGVuKCdyZWFsMTQ1LnB5JykucmVhZCgpLnNwbGl0KCdkZWYgbWFpbicpWzBdLCBtLl9fZGljdF9fKQpPVVQ9b3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCnJlcz17fQpmb3Iga2luZCBpbiBbJ3N1c3RhaW4nLCdjeWNsZSddOgogICAgej1tLmNvbGxlY3Qoa2luZCkKICAgIHp6PSh6LXoubWVhbigpKS8oei5zdGQoKSBpZiB6LnN0ZCgpPjFlLTEyIGVsc2UgMS4wKQogICAgcm93PXt9CiAgICBmb3IgbGFnIGluIFsxLDMsNiwxMF06CiAgICAgICAgWCxZPW0ubWFrZV9mZWF0dXJlcyh6eixsYWc9bGFnKQogICAgICAgIHJfYWxsPW0ucnVuKFgsWSwnQUxMJyk7IHJfcmVjPW0ucnVuKFgsWSwnUkVDRU5UJykKICAgICAgICBpZGVudD1yX2FsbFsnaWRlbnQnXQogICAgICAgIHJvd1tsYWddPXsnQUxMJzpyX2FsbFsnZXJyJ10sJ1JFQ0VOVCc6cl9yZWNbJ2VyciddLCdpZGVudCc6aWRlbnQsCiAgICAgICAgICAgICAgICAgICdiZXN0X2JlYXRzX2lkZW50JzogYm9vbChtaW4ocl9hbGxbJ2VyciddLHJfcmVjWydlcnInXSk8aWRlbnQpfQogICAgcmVzW2tpbmRdPXJvdwogICAgcHJpbnQoJz09JyxraW5kKQogICAgZm9yIGxhZyBpbiBzb3J0ZWQocm93KToKICAgICAgICByPXJvd1tsYWddCiAgICAgICAgcHJpbnQoJyAgbGFnICUyZCAgQUxMICUuNGYgIFJFQ0VOVCAlLjRmICBpZGVudCAlLjRmICBiZWF0cz0lcyclKGxhZyxyWydBTEwnXSxyWydSRUNFTlQnXSxyWydpZGVudCddLHJbJ2Jlc3RfYmVhdHNfaWRlbnQnXSkpCmpzb24uZHVtcChyZXMsb3Blbihvcy5wYXRoLmpvaW4oT1VULCdyZXN1bHRfMTQ1X3N1cC5qc29uJyksJ3cnKSxpbmRlbnQ9MikKcHJpbnQoJ1dST1RFIHJlc3VsdF8xNDVfc3VwLmpzb24nKQo=
+import numpy as np, json, importlib.util, os
+spec=importlib.util.spec_from_file_location('r','real145.py'); m=importlib.util.module_from_spec(spec)
+import sys; sys.modules['r']=m
+# 只借用函数, 不跑 main
+exec(open('real145.py').read().split('def main')[0], m.__dict__)
+OUT=os.path.dirname(os.path.abspath(__file__))
+res={}
+for kind in ['sustain','cycle']:
+    z=m.collect(kind)
+    zz=(z-z.mean())/(z.std() if z.std()>1e-12 else 1.0)
+    row={}
+    for lag in [1,3,6,10]:
+        X,Y=m.make_features(zz,lag=lag)
+        r_all=m.run(X,Y,'ALL'); r_rec=m.run(X,Y,'RECENT')
+        ident=r_all['ident']
+        row[lag]={'ALL':r_all['err'],'RECENT':r_rec['err'],'ident':ident,
+                  'best_beats_ident': bool(min(r_all['err'],r_rec['err'])<ident)}
+    res[kind]=row
+    print('==',kind)
+    for lag in sorted(row):
+        r=row[lag]
+        print('  lag %2d  ALL %.4f  RECENT %.4f  ident %.4f  beats=%s'%(lag,r['ALL'],r['RECENT'],r['ident'],r['best_beats_ident']))
+json.dump(res,open(os.path.join(OUT,'result_145_sup.json'),'w'),indent=2)
+print('WROTE result_145_sup.json')

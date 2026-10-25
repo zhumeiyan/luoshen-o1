@@ -1,1 +1,210 @@
-ewogImdzIjogWwogIDAuMCwKICAwLjI1LAogIDAuNSwKICAwLjc1LAogIDEuMAogXSwKICJwZXJfdGhyZWF0IjogewogICJUMeWZquWjsCI6IHsKICAgInYxX+S6i+WunuS4juagh+WHhiI6IFsKICAgIDAuMDc5OCwKICAgIDAuMTYwOSwKICAgIDAuMjM5MSwKICAgIDAuMzIwNywKICAgIDAuNDA0OQogICBdLAogICAidjJfQUnljLvpmaIiOiBbCiAgICAwLjA2MjQsCiAgICAwLjEzNjYsCiAgICAwLjIxMTIsCiAgICAwLjI4NjksCiAgICAwLjM2MjYKICAgXSwKICAgInYzX+mYtOmYs+aJoyI6IFsKICAgIDAuMDcxNywKICAgIDAuMTQ1OCwKICAgIDAuMjIxLAogICAgMC4yOTMsCiAgICAwLjM2NjgKICAgXSwKICAgInY0X+eBsOW6puepuumXtCI6IFsKICAgIDAuMTM3NiwKICAgIDAuMTYxMywKICAgIDAuMTg1OCwKICAgIDAuMjExMiwKICAgIDAuMjM0NwogICBdLAogICAidjVf5YWs5byP5Y2H57qnIjogWwogICAgMC4xNDIzLAogICAgMC4xNjYyLAogICAgMC4xODkzLAogICAgMC4yMTQ1LAogICAgMC4yMzc2CiAgIF0KICB9LAogICJUMue/u+mdoiI6IHsKICAgInYxX+S6i+WunuS4juagh+WHhiI6IFsKICAgIDAuMzAyMiwKICAgIDAuMzM0OSwKICAgIDAuMzYzNCwKICAgIDAuMzk1NiwKICAgIDAuNDI4MgogICBdLAogICAidjJfQUnljLvpmaIiOiBbCiAgICAwLjI2NzEsCiAgICAwLjI5NjMsCiAgICAwLjMyNDgsCiAgICAwLjM1NTYsCiAgICAwLjM4NjgKICAgXSwKICAgInYzX+mYtOmYs+aJoyI6IFsKICAgIDAuMCwKICAgIDAuMDc0LAogICAgMC4xNDcyLAogICAgMC4yMTk2LAogICAgMC4yOTQzCiAgIF0sCiAgICJ2NF/ngbDluqbnqbrpl7QiOiBbCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAKICAgXSwKICAgInY1X+WFrOW8j+WNh+e6pyI6IFsKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMCwKICAgIDAuMAogICBdCiAgfSwKICAiVDPngbDluqYiOiB7CiAgICJ2MV/kuovlrp7kuI7moIflh4YiOiBbCiAgICAwLjAsCiAgICAwLjA4NzEsCiAgICAwLjE2NSwKICAgIDAuMjQ1MiwKICAgIDAuMzI2NgogICBdLAogICAidjJfQUnljLvpmaIiOiBbCiAgICAwLjAsCiAgICAwLjA3NTYsCiAgICAwLjE0ODcsCiAgICAwLjIyMjUsCiAgICAwLjI5NDYKICAgXSwKICAgInYzX+mYtOmYs+aJoyI6IFsKICAgIDAuMCwKICAgIDAuMDc0NSwKICAgIDAuMTQ2OCwKICAgIDAuMjIxMiwKICAgIDAuMjkzNgogICBdLAogICAidjRf54Gw5bqm56m66Ze0IjogWwogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wCiAgIF0sCiAgICJ2NV/lhazlvI/ljYfnuqciOiBbCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAsCiAgICAwLjAKICAgXQogIH0sCiAgIlQ05aSW5o6oIjogewogICAidjFf5LqL5a6e5LiO5qCH5YeGIjogWwogICAgMC4yNSwKICAgIDAuMjQ5OCwKICAgIDAuMjUxNywKICAgIDAuMjQ3MiwKICAgIDAuMjQ5NQogICBdLAogICAidjJfQUnljLvpmaIiOiBbCiAgICAwLjIyNDYsCiAgICAwLjIyNiwKICAgIDAuMjI0OSwKICAgIDAuMjI0NSwKICAgIDAuMjI2CiAgIF0sCiAgICJ2M1/pmLTpmLPmiaMiOiBbCiAgICAwLjIzMDEsCiAgICAwLjIzMDksCiAgICAwLjIyOTYsCiAgICAwLjIyNDYsCiAgICAwLjIyMjgKICAgXSwKICAgInY0X+eBsOW6puepuumXtCI6IFsKICAgIDAuMjQ5MiwKICAgIDAuMjEwNCwKICAgIDAuMTY3NiwKICAgIDAuMTI1MiwKICAgIDAuMDg1NgogICBdLAogICAidjVf5YWs5byP5Y2H57qnIjogWwogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wLAogICAgMC4wCiAgIF0KICB9CiB9LAogIm1lYW4iOiB7CiAgInYxX+S6i+WunuS4juagh+WHhiI6IFsKICAgMC4xNTgsCiAgIDAuMjA4MiwKICAgMC4yNTQ4LAogICAwLjMwMjIsCiAgIDAuMzUyMwogIF0sCiAgInYyX0FJ5Yy76ZmiIjogWwogICAwLjEzODUsCiAgIDAuMTgzNiwKICAgMC4yMjc0LAogICAwLjI3MjQsCiAgIDAuMzE3NQogIF0sCiAgInYzX+mYtOmYs+aJoyI6IFsKICAgMC4wNzU1LAogICAwLjEzMTMsCiAgIDAuMTg2MiwKICAgMC4yMzk2LAogICAwLjI5NDQKICBdLAogICJ2NF/ngbDluqbnqbrpl7QiOiBbCiAgIDAuMDk2NywKICAgMC4wOTI5LAogICAwLjA4ODMsCiAgIDAuMDg0MSwKICAgMC4wODAxCiAgXSwKICAidjVf5YWs5byP5Y2H57qnIjogWwogICAwLjAzNTYsCiAgIDAuMDQxNSwKICAgMC4wNDczLAogICAwLjA1MzYsCiAgIDAuMDU5NAogIF0KIH0sCiAiYmVzdF9kb21haW4iOiB7CiAgImc9MC4wMCI6ICJ2NV/lhazlvI/ljYfnuqciLAogICJnPTAuMjUiOiAidjVf5YWs5byP5Y2H57qnIiwKICAiZz0wLjUwIjogInY1X+WFrOW8j+WNh+e6pyIsCiAgImc9MC43NSI6ICJ2NV/lhazlvI/ljYfnuqciLAogICJnPTEuMDAiOiAidjVf5YWs5byP5Y2H57qnIgogfSwKICJza2lwX3YxX3RvX3Y1IjogWwogIDAuMTA4MSwKICAwLjEwMywKICAwLjA5NywKICAwLjA5MDEsCiAgMC4wODQ3CiBdCn0=
+{
+ "gs": [
+  0.0,
+  0.25,
+  0.5,
+  0.75,
+  1.0
+ ],
+ "per_threat": {
+  "T1噪声": {
+   "v1_事实与标准": [
+    0.0798,
+    0.1609,
+    0.2391,
+    0.3207,
+    0.4049
+   ],
+   "v2_AI医院": [
+    0.0624,
+    0.1366,
+    0.2112,
+    0.2869,
+    0.3626
+   ],
+   "v3_阴阳扣": [
+    0.0717,
+    0.1458,
+    0.221,
+    0.293,
+    0.3668
+   ],
+   "v4_灰度空间": [
+    0.1376,
+    0.1613,
+    0.1858,
+    0.2112,
+    0.2347
+   ],
+   "v5_公式升级": [
+    0.1423,
+    0.1662,
+    0.1893,
+    0.2145,
+    0.2376
+   ]
+  },
+  "T2翻面": {
+   "v1_事实与标准": [
+    0.3022,
+    0.3349,
+    0.3634,
+    0.3956,
+    0.4282
+   ],
+   "v2_AI医院": [
+    0.2671,
+    0.2963,
+    0.3248,
+    0.3556,
+    0.3868
+   ],
+   "v3_阴阳扣": [
+    0.0,
+    0.074,
+    0.1472,
+    0.2196,
+    0.2943
+   ],
+   "v4_灰度空间": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "v5_公式升级": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "T3灰度": {
+   "v1_事实与标准": [
+    0.0,
+    0.0871,
+    0.165,
+    0.2452,
+    0.3266
+   ],
+   "v2_AI医院": [
+    0.0,
+    0.0756,
+    0.1487,
+    0.2225,
+    0.2946
+   ],
+   "v3_阴阳扣": [
+    0.0,
+    0.0745,
+    0.1468,
+    0.2212,
+    0.2936
+   ],
+   "v4_灰度空间": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "v5_公式升级": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "T4外推": {
+   "v1_事实与标准": [
+    0.25,
+    0.2498,
+    0.2517,
+    0.2472,
+    0.2495
+   ],
+   "v2_AI医院": [
+    0.2246,
+    0.226,
+    0.2249,
+    0.2245,
+    0.226
+   ],
+   "v3_阴阳扣": [
+    0.2301,
+    0.2309,
+    0.2296,
+    0.2246,
+    0.2228
+   ],
+   "v4_灰度空间": [
+    0.2492,
+    0.2104,
+    0.1676,
+    0.1252,
+    0.0856
+   ],
+   "v5_公式升级": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ },
+ "mean": {
+  "v1_事实与标准": [
+   0.158,
+   0.2082,
+   0.2548,
+   0.3022,
+   0.3523
+  ],
+  "v2_AI医院": [
+   0.1385,
+   0.1836,
+   0.2274,
+   0.2724,
+   0.3175
+  ],
+  "v3_阴阳扣": [
+   0.0755,
+   0.1313,
+   0.1862,
+   0.2396,
+   0.2944
+  ],
+  "v4_灰度空间": [
+   0.0967,
+   0.0929,
+   0.0883,
+   0.0841,
+   0.0801
+  ],
+  "v5_公式升级": [
+   0.0356,
+   0.0415,
+   0.0473,
+   0.0536,
+   0.0594
+  ]
+ },
+ "best_domain": {
+  "g=0.00": "v5_公式升级",
+  "g=0.25": "v5_公式升级",
+  "g=0.50": "v5_公式升级",
+  "g=0.75": "v5_公式升级",
+  "g=1.00": "v5_公式升级"
+ },
+ "skip_v1_to_v5": [
+  0.1081,
+  0.103,
+  0.097,
+  0.0901,
+  0.0847
+ ]
+}

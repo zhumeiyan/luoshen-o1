@@ -1,1 +1,14 @@
-WwogewogICJmaWxlIjogIlJvbGxpbmdTdG9uaWVfX01pZ2h0eU9TX19zeW5jX2xlYWRfd2F0Y2hlci5weSIsCiAgImVnIjogIkVHMDA2IiwKICAibGluZSI6IDEwMywKICAiaGl0IjogImJhcmUvc2lsZW50IGV4Y2VwdCIKIH0sCiB7CiAgImZpbGUiOiAiYXhpb21hbnRpY19fc3BlbGxib29rX19pbnN0YWxsZXJfY29uZmlnLnB5IiwKICAiZWciOiAiRUcwMDYiLAogICJsaW5lIjogMzksCiAgImhpdCI6ICJiYXJlL3NpbGVudCBleGNlcHQiCiB9Cl0=
+[
+ {
+  "file": "RollingStonie__MightyOS__sync_lead_watcher.py",
+  "eg": "EG006",
+  "line": 103,
+  "hit": "bare/silent except"
+ },
+ {
+  "file": "axiomantic__spellbook__installer_config.py",
+  "eg": "EG006",
+  "line": 39,
+  "hit": "bare/silent except"
+ }
+]

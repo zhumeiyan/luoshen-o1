@@ -1,1 +1,273 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTE3IMK3IOiHquS4u+Wvu+ecvArkuI3nu5nlroPmuIXljZXjgILorqnlroPoh6rlt7Hmiavlh7rlgJnpgInpgJrpgZPvvIzoh6rlt7Horr7orqHmo4DpqozvvIzoh6rlt7HliKTlrprlk6rmnaHmmK/nnLznnZvjgIIKCuecvOedm+eahOaTjeS9nOWMluWumuS5ie+8iOS4jeaYr+aIkeivtOS6hueul++8jOaYr+Wug+iHquW3seeUqOWunumqjOWumuWHuuadpeeahO+8ie+8mgogICAg5LiA5p2h6YCa6YGTIEMg5piv55y8552b77yM5b2T5LiU5LuF5b2TCiAgICAgICgxKSDlj6/or4HkvKo6IOS4lueVjOS4pOenjeeKtuaAgeS4iywgQyDnmoTor7vmlbDog73ooqvmn5DkuKrliKTmja7ljLrliIblvIAo55yfL+WBh+mDveimgeWHuueOsCkKICAgICAgKDIpIOi/nuedgOS4lueVjDog5oiR5Yqo55qE5pe25YCZLCBDIOeahOivu+aVsOi3n+edgOWPmCjkuI3mmK/oh6ror7Toh6ror50pCiAgICAgICgzKSDlm6Dmnpzlv4XopoE6IOmBruaWrSBDKOWWguW4uOaVsCksIOmXreeOr+S7u+WKoeaIkOWKn+eOh+aYvuiRl+S4i+mZjQogICAg5LiJ5p2h5YWo6L+H5omN566X55y8552b44CC57y65LiA5p2h6ZmN57qn5Li6IuS8quaEn+WumCLjgIIKIiIiCmltcG9ydCBvcywgaW8sIHRpbWUsIGpzb24sIG1hdGgsIHJhbmRvbSwgc3RydWN0LCBmY250bCwgaGFzaGxpYgppbXBvcnQgbnVtcHkgYXMgbnAKCkZCID0gIi9kZXYvZmIwIgpXID0gSCA9IE5vbmUKCmRlZiBmYl9nZW9tZXRyeSgpOgogICAgIiIi6Ieq5bex6Zeu6K6+5aSH6KaB5bC65a+4LCDkuI3lh63ljbDosaHlhpnjgIIiIiIKICAgIEZCSU9HRVRfVlNDUkVFTklORk8gPSAweDQ2MDAKICAgIGJ1ZiA9IGJ5dGVhcnJheSgxNjApCiAgICB3aXRoIG9wZW4oRkIsICJyYiIsIGJ1ZmZlcmluZz0wKSBhcyBmOgogICAgICAgIGZjbnRsLmlvY3RsKGYsIEZCSU9HRVRfVlNDUkVFTklORk8sIGJ1ZikKICAgIHcsIGggPSBzdHJ1Y3QudW5wYWNrX2Zyb20oIjxJSSIsIGJ1ZiwgMCkKICAgIGJwcCA9IHN0cnVjdC51bnBhY2tfZnJvbSgiPEkiLCBidWYsIDI0KVswXQogICAgcmV0dXJuIHcsIGgsIGJwcAoKVywgSCwgQlBQID0gZmJfZ2VvbWV0cnkoKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIDEuIOWAmemAieWPkeeOsApkZWYgZGlzY292ZXJfY2FuZGlkYXRlcygpOgogICAgIiIi6Ieq5bex5omr44CC5LiN6aKE6K6+5riF5Y2VIOKAlOKAlCDmiavliLDku4DkuYjnrpfku4DkuYjjgIIiIiIKICAgIGNhbmRzID0gW10KICAgICMgL2RldiDkuIvmiYDmnInlj6/or7vlrZfnrKborr7lpIfmiJblnZforr7lpIcKICAgIGZvciBuYW1lIGluIHNvcnRlZChvcy5saXN0ZGlyKCIvZGV2IikpOgogICAgICAgIHAgPSAiL2Rldi8iICsgbmFtZQogICAgICAgIGlmIG9zLnBhdGguaXNkaXIocCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgdHJ5OgogICAgICAgICAgICBpZiBub3Qgb3MuYWNjZXNzKHAsIG9zLlJfT0spOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgc3QgPSBvcy5zdGF0KHApCiAgICAgICAgICAgIGltcG9ydCBzdGF0IGFzIFMKICAgICAgICAgICAga2luZCA9ICJjaHIiIGlmIFMuU19JU0NIUihzdC5zdF9tb2RlKSBlbHNlICgiYmxrIiBpZiBTLlNfSVNCTEsoc3Quc3RfbW9kZSkgZWxzZSAicmVnIikKICAgICAgICAgICAgY2FuZHMuYXBwZW5kKHsicGF0aCI6IHAsICJraW5kIjoga2luZH0pCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcGFzcwogICAgIyAvcHJvYyDkuIvlj6/or7vnmoTkvKrmlofku7YKICAgIGZvciBuYW1lIGluIHNvcnRlZChvcy5saXN0ZGlyKCIvcHJvYyIpKToKICAgICAgICBwID0gIi9wcm9jLyIgKyBuYW1lCiAgICAgICAgaWYgbm90IG9zLnBhdGguaXNmaWxlKHApOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIG5vdCBvcy5hY2Nlc3MocCwgb3MuUl9PSyk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgY2FuZHMuYXBwZW5kKHsicGF0aCI6IHAsICJraW5kIjogInByb2MifSkKICAgICMgL3N5cy9jbGFzcyDkuIvkuKTlsYIKICAgIGZvciByb290LCBkaXJzLCBmaWxlcyBpbiBvcy53YWxrKCIvc3lzL2NsYXNzIik6CiAgICAgICAgaWYgcm9vdC5jb3VudCgiLyIpID4gNDoKICAgICAgICAgICAgZGlyc1s6XSA9IFtdCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZm9yIGZuIGluIGZpbGVzOgogICAgICAgICAgICBwID0gb3MucGF0aC5qb2luKHJvb3QsIGZuKQogICAgICAgICAgICBpZiBvcy5hY2Nlc3MocCwgb3MuUl9PSyk6CiAgICAgICAgICAgICAgICBjYW5kcy5hcHBlbmQoeyJwYXRoIjogcCwgImtpbmQiOiAic3lzIn0pCiAgICByZXR1cm4gY2FuZHMKCmRlZiBwcm9iZV9yZWFkYWJsZShjLCBuYnl0ZXM9NDA5Nik6CiAgICAiIiLor5XnnYDnnJ/or7vkuIDmrKHjgILor7vkuI3liqjlsLHmt5jmsbAsIOS4jeeMnOOAgiIiIgogICAgcCwga2luZCA9IGNbInBhdGgiXSwgY1sia2luZCJdCiAgICB0cnk6CiAgICAgICAgaWYga2luZCBpbiAoImNociIsICJibGsiKToKICAgICAgICAgICAgd2l0aCBvcGVuKHAsICJyYiIsIGJ1ZmZlcmluZz0wKSBhcyBmOgogICAgICAgICAgICAgICAgb3Muc2V0X2Jsb2NraW5nKGYuZmlsZW5vKCksIEZhbHNlKQogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIGRhdGEgPSBmLnJlYWQobmJ5dGVzKQogICAgICAgICAgICAgICAgZXhjZXB0IEJsb2NraW5nSU9FcnJvcjoKICAgICAgICAgICAgICAgICAgICBkYXRhID0gYiIiICAgICAgIyDpnZ7pmLvloZ7ml6DmlbDmja4g4omgIOS4jeWPr+ivuwogICAgICAgICAgICAgICAgZXhjZXB0IE9TRXJyb3IgYXMgZToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gTm9uZSwgZiJvc2Vycm9yOntlLmVycm5vfSIKICAgICAgICAgICAgICAgIGlmIGRhdGEgaXMgTm9uZToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gTm9uZSwgIm5vbmUiCiAgICAgICAgICAgICAgICByZXR1cm4gZGF0YSwgIm9rIgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHdpdGggb3BlbihwLCAicmIiKSBhcyBmOgogICAgICAgICAgICAgICAgZGF0YSA9IGYucmVhZChuYnl0ZXMpCiAgICAgICAgICAgIGlmIGRhdGEgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJldHVybiBOb25lLCAibm9uZSIKICAgICAgICAgICAgcmV0dXJuIGRhdGEsICJvayIKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXR1cm4gTm9uZSwgZiJleGM6e3R5cGUoZSkuX19uYW1lX199IgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIDIuIOS4lueVjCjlj6/ooqvnnJ/lrp7mlLnliqgpCmNsYXNzIFdvcmxkOgogICAgIiIiCiAgICDkuIDkuKrmiJHoh6rlt7HpgKDnmoTjgIHkvYbpgJrov4fnnJ/lrp7luKfnvJPlhrLmmL7npLrnmoTkuJbnlYzjgIIKICAgIOaIkeaUueWugyAtPiDluKfnvJPlhrLlg4/ntKDlj5ggLT4g6YCa6YGT6IO95LiN6IO955yL6KeB6L+Z5Liq5Y+Y5YyWLCDmmK/mo4DpqoznmoTmoLjlv4PjgIIKICAgICIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHNlZWQ9MCk6CiAgICAgICAgc2VsZi5ybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICAgICAgc2VsZi50YXJnZXQgPSBucC5hcnJheShbMC41LCAwLjVdKQogICAgICAgIHNlbGYuaW1nID0gbnAuemVyb3MoKEgsIFcsIDQpLCBucC51aW50OCkKICAgIGRlZiBzZXRfdGFyZ2V0KHNlbGYsIHgsIHkpOgogICAgICAgIHNlbGYudGFyZ2V0ID0gbnAuYXJyYXkoW3gsIHldKQogICAgZGVmIHJlbmRlcihzZWxmKToKICAgICAgICBpbWcgPSBucC56ZXJvcygoSCwgVywgNCksIG5wLnVpbnQ4KQogICAgICAgIHl5LCB4eCA9IG5wLm1ncmlkWzA6SCwgMDpXXQogICAgICAgICMg5bmz5ruR5riQ5Y+Y6IOM5pmvKOmBv+WFjeWZqueCuea3ueayoeebruagh+i+uee8mCkKICAgICAgICBiZyA9ICg2MCArIDQwICogKHh4IC8gbWF4KFctMSwxKSkgKyAzMCAqICh5eSAvIG1heChILTEsMSkpKS5hc3R5cGUobnAudWludDgpCiAgICAgICAgaW1nWy4uLiwgMF0gPSBiZzsgaW1nWy4uLiwgMV0gPSBiZzsgaW1nWy4uLiwgMl0gPSBiZzsgaW1nWy4uLiwgM10gPSAyNTUKICAgICAgICAjIOebruaghzog5a6e5b+D5pa55Z2XLCDljYrlvoQgNDAgcHgKICAgICAgICB0eCwgdHkgPSBpbnQoc2VsZi50YXJnZXRbMF0gKiBXKSwgaW50KHNlbGYudGFyZ2V0WzFdICogSCkKICAgICAgICByID0gNDAKICAgICAgICBpbWdbbWF4KDAsdHktcik6dHkrciwgbWF4KDAsdHgtcik6dHgrciwgMDozXSA9IDI1NQogICAgICAgIGltZ1ttYXgoMCx0eS1yKTp0eStyLCBtYXgoMCx0eC1yKTp0eCtyLCAzXSA9IDI1NQogICAgICAgIHNlbGYuaW1nID0gaW1nCiAgICAgICAgcmV0dXJuIGltZwogICAgZGVmIHRvX3NjcmVlbihzZWxmKToKICAgICAgICB3aXRoIG9wZW4oRkIsICJ3YiIsIGJ1ZmZlcmluZz0wKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKHNlbGYuaW1nLnRvYnl0ZXMoKSkKCmRlZiByZWFkX3NjcmVlbigpOgogICAgd2l0aCBvcGVuKEZCLCAicmIiLCBidWZmZXJpbmc9MCkgYXMgZjoKICAgICAgICByYXcgPSBmLnJlYWQoVyAqIEggKiA0KQogICAgcmV0dXJuIG5wLmZyb21idWZmZXIocmF3LCBucC51aW50OCkucmVzaGFwZShILCBXLCA0KQoKZGVmIGxvY2F0ZShhKToKICAgICIiIuS7juecn+Wunuivu+WbnueahOWDj+e0oOmHjOWumuS9jeS6ruWdl+i0qOW/g+OAgui/lOWbniBOb25lIOihqOekuuayoeeci+ingeOAgiIiIgogICAgbHVtID0gYVsuLi4sIDozXS5hc3R5cGUobnAuZmxvYXQzMikubWVhbihheGlzPTIpCiAgICBtYXNrID0gbHVtID4gMjAwCiAgICBuID0gaW50KG1hc2suc3VtKCkpCiAgICBpZiBuIDwgNTA6CiAgICAgICAgcmV0dXJuIE5vbmUsIG4KICAgIHlzLCB4cyA9IG5wLm5vbnplcm8obWFzaykKICAgIHJldHVybiBucC5hcnJheShbeHMubWVhbigpIC8gVywgeXMubWVhbigpIC8gSF0pLCBuCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAzLiDkuInpobnmo4DpqowKZGVmIHRlc3RfZmFsc2lmaWFibGUod29ybGQpOgogICAgIiIiKDEpIOWPr+ivgeS8qjog55uu5qCH5a2Y5ZyoIC8g55uu5qCH5LiN5a2Y5ZyoLCDpgJrpgZPor7vmlbDog73lkKbljLrliIYsIOS4lOecn+WSjOWBh+mDveimgeWHuueOsOOAgiIiIgogICAgcmVzID0geyJ0cnVlIjogMCwgImZhbHNlIjogMH0KICAgIGZvciBwcmVzZW50IGluIChUcnVlLCBGYWxzZSk6CiAgICAgICAgZm9yIGsgaW4gcmFuZ2UoMTApOgogICAgICAgICAgICB4LCB5ID0gd29ybGQucm5nLnVuaWZvcm0oMC4xNSwgMC44NSksIHdvcmxkLnJuZy51bmlmb3JtKDAuMTUsIDAuODUpCiAgICAgICAgICAgIGlmIHByZXNlbnQ6CiAgICAgICAgICAgICAgICB3b3JsZC5zZXRfdGFyZ2V0KHgsIHkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICB3b3JsZC5zZXRfdGFyZ2V0KC0xLCAtMSkgICAgICAjIOenu+WHuueUu+mdogogICAgICAgICAgICB3b3JsZC5yZW5kZXIoKTsgd29ybGQudG9fc2NyZWVuKCkKICAgICAgICAgICAgYSA9IHJlYWRfc2NyZWVuKCkKICAgICAgICAgICAgY2VuLCBuID0gbG9jYXRlKGEpCiAgICAgICAgICAgIGhpdCA9IChjZW4gaXMgbm90IE5vbmUpIGFuZCAobiA+IDQwMDApCiAgICAgICAgICAgIGlmIHByZXNlbnQ6CiAgICAgICAgICAgICAgICByZXNbInRydWUiIGlmIGhpdCBlbHNlICJmYWxzZSJdICs9IDEKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICMg5LiN5a2Y5Zyo5pe25pyf5pyb5Yik5Li6Iuayoeeci+ingSIgLT4g6K6w5Li6IGZhbHNlIOS+p+ato+ehrgogICAgICAgICAgICAgICAgcmVzWyJmYWxzZSIgaWYgbm90IGhpdCBlbHNlICJ0cnVlIl0gKz0gMQogICAgcmV0dXJuIHJlcwoKZGVmIHRlc3RfY291cGxlZCh3b3JsZCk6CiAgICAiIiIoMikg6L+e552A5LiW55WMOiDmiJHnp7vliqjnm67moIcsIOivu+aVsOaYr+WQpui3n+edgOenu+WKqCjnm7jlhbMp44CCIiIiCiAgICB4cywgb2JzID0gW10sIFtdCiAgICBmb3IgayBpbiByYW5nZSgxMik6CiAgICAgICAgeCA9IDAuMTUgKyAwLjcgKiAoayAvIDExLjApCiAgICAgICAgd29ybGQuc2V0X3RhcmdldCh4LCAwLjUpOyB3b3JsZC5yZW5kZXIoKTsgd29ybGQudG9fc2NyZWVuKCkKICAgICAgICBjZW4sIG4gPSBsb2NhdGUocmVhZF9zY3JlZW4oKSkKICAgICAgICB4cy5hcHBlbmQoeCkKICAgICAgICBvYnMuYXBwZW5kKGNlblswXSBpZiBjZW4gaXMgbm90IE5vbmUgZWxzZSBmbG9hdCgibmFuIikpCiAgICB4cyA9IG5wLmFycmF5KHhzKTsgb2JzID0gbnAuYXJyYXkob2JzKQogICAgb2sgPSBucC5pc2Zpbml0ZShvYnMpCiAgICBpZiBvay5zdW0oKSA8IDQ6CiAgICAgICAgcmV0dXJuIHsiY29yciI6IGZsb2F0KCJuYW4iKSwgIm5fb2siOiBpbnQob2suc3VtKCkpfQogICAgY29yciA9IGZsb2F0KG5wLmNvcnJjb2VmKHhzW29rXSwgb2JzW29rXSlbMCwgMV0pCiAgICByZXR1cm4geyJjb3JyIjogY29yciwgIm5fb2siOiBpbnQob2suc3VtKCkpfQoKZGVmIHRlc3RfbmVjZXNzYXJ5KHdvcmxkLCBudHJpYWw9MjQsIHNlZWQ9MSk6CiAgICAiIiIKICAgICgzKSDlm6Dmnpzlv4XopoE6IOmBruaWrei/meadoemAmumBkyjlloLluLjmlbApLCDpl63njq/ku7vliqHmiJDlip/njofmmK/lkKbmmL7okZfkuIvpmY3jgIIKICAgIOWvueeFpzog6YCa6YGT6YCa55WF55qE6Zet546vIHZzIOmAmumBk+iiq+mBruaWreeahCLnm7Lpl63njq8i44CCCiAgICAiIiIKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIGRlZiBydW4oYmxpbmQpOgogICAgICAgIGhpdHMgPSAwCiAgICAgICAgZm9yIHQgaW4gcmFuZ2UobnRyaWFsKToKICAgICAgICAgICAgd29ybGQuc2V0X3RhcmdldChybmcudW5pZm9ybSgwLjIsIDAuOCksIHJuZy51bmlmb3JtKDAuMiwgMC44KSkKICAgICAgICAgICAgd29ybGQucmVuZGVyKCk7IHdvcmxkLnRvX3NjcmVlbigpCiAgICAgICAgICAgICMg6LW354K55Zu65a6a5Zyo5Lit5b+DCiAgICAgICAgICAgIHBvcyA9IG5wLmFycmF5KFswLjUsIDAuNV0pCiAgICAgICAgICAgIGZvciBzdGVwIGluIHJhbmdlKDgpOgogICAgICAgICAgICAgICAgaWYgYmxpbmQ6CiAgICAgICAgICAgICAgICAgICAgY2VuID0gTm9uZSAgICAgICAgICAgICAgICAgIyDpga7mlq06IOawuOi/nOeci+S4jeingSjlloLluLjmlbApCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGNlbiwgXyA9IGxvY2F0ZShyZWFkX3NjcmVlbigpKQogICAgICAgICAgICAgICAgaWYgY2VuIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgZCA9IHJuZy51bmlmb3JtKC0wLjA1LCAwLjA1LCAyKSAgICAgICMg55yL5LiN6KeB5bCx556O6LWwCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGQgPSAoY2VuIC0gcG9zKSAqIDAuOQogICAgICAgICAgICAgICAgcG9zID0gbnAuY2xpcChwb3MgKyBkLCAwLjAyLCAwLjk4KQogICAgICAgICAgICAgICAgd29ybGQuc2V0X3RhcmdldCh3b3JsZC50YXJnZXRbMF0sIHdvcmxkLnRhcmdldFsxXSkKICAgICAgICAgICAgICAgIHdvcmxkLnJlbmRlcigpOyB3b3JsZC50b19zY3JlZW4oKQogICAgICAgICAgICBjZW5fZiwgXyA9IGxvY2F0ZShyZWFkX3NjcmVlbigpKQogICAgICAgICAgICBpZiBjZW5fZiBpcyBub3QgTm9uZSBhbmQgbnAubGluYWxnLm5vcm0oY2VuX2YgLSB3b3JsZC50YXJnZXQpIDwgMC4wNjoKICAgICAgICAgICAgICAgIGhpdHMgKz0gMQogICAgICAgIHJldHVybiBoaXRzCiAgICBjbG9zZWQgPSBydW4oRmFsc2UpCiAgICBibGluZCAgPSBydW4oVHJ1ZSkKICAgIHJldHVybiB7ImNsb3NlZCI6IGNsb3NlZCwgImJsaW5kIjogYmxpbmQsICJuIjogbnRyaWFsfQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g5Li75rWB56iLCmRlZiBtYWluKCk6CiAgICB0MCA9IHRpbWUudGltZSgpCiAgICBsb2cgPSBbXQogICAgZGVmIFAocyk6CiAgICAgICAgcHJpbnQocywgZmx1c2g9VHJ1ZSk7IGxvZy5hcHBlbmQocykKCiAgICBQKCI9IiAqIDcyKQogICAgUCgiZXhwMTE3IMK3IOiHquS4u+Wvu+ecvCAgKOS4jeaYr+aIkee7meWug+ecvOedmywg5piv5a6D6Ieq5bex5Y675om+KSIpCiAgICBQKCI9IiAqIDcyKQogICAgUChmIlvorr7lpIddIOW4p+e8k+WGsuiHqui/sDoge1d9eHtIfSBicHA9e0JQUH0gIChpb2N0bCDlrp7mtYssIOmdnuWBh+iuvikiKQoKICAgIFAoIlxuLS0tIOmYtuautTE6IOWAmemAieWPkeeOsCjoh6rlt7HmiassIOS4jeafpea4heWNlSkgLS0tIikKICAgIGNhbmRzID0gZGlzY292ZXJfY2FuZGlkYXRlcygpCiAgICBQKGYi5omr5o+P5Yiw5YCZ6YCJIHtsZW4oY2FuZHMpfSDmnaEgKC9kZXYgKyAvcHJvYyArIC9zeXMvY2xhc3MpIikKCiAgICBQKCJcbi0tLSDpmLbmrrUyOiDor5XnnYDnnJ/or7vkuIDmrKEsIOivu+S4jeWKqOWwsea3mOaxsCAtLS0iKQogICAgcmVhZGFibGUgPSBbXQogICAgZm9yIGMgaW4gY2FuZHM6CiAgICAgICAgZGF0YSwgc3QgPSBwcm9iZV9yZWFkYWJsZShjKQogICAgICAgIGlmIHN0ICE9ICJvayIgb3Igbm90IGRhdGE6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgIyDnqbrlhoXlrrnmiJblhajpm7blhoXlrrnkuI3nrpfpgJrpgZMKICAgICAgICBpZiBsZW4oc2V0KGRhdGFbOjI1Nl0pKSA8PSAxOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHJlYWRhYmxlLmFwcGVuZCgoYywgZGF0YSkpCiAgICBQKGYi5Y+v6K+75LiU5YaF5a656Z2e5oGS5a6aOiB7bGVuKHJlYWRhYmxlKX0g5p2hIikKICAgIGZvciBjLCBkIGluIHJlYWRhYmxlWzoxMl06CiAgICAgICAgUChmIiAgICB7Y1sna2luZCddOjRzfSB7Y1sncGF0aCddWzo1Ml06NTJzfSB7bGVuKGQpOjVkfUIiKQoKICAgIFAoIlxuLS0tIOmYtuautTM6IOS4iemhueajgOmqjCjoh6rlt7Horr7orqEsIOiHquW3seWIpOWumikgLS0tIikKICAgIHdvcmxkID0gV29ybGQoc2VlZD03KQogICAgd29ybGQucmVuZGVyKCk7IHdvcmxkLnRvX3NjcmVlbigpCiAgICBQKCJb5LiW55WMXSDlt7Llu7rnq4vlubbkuIrlsY8sIOebruagh+WPr+iiq+aIkeecn+Wunuenu+WKqCIpCgogICAgZiA9IHRlc3RfZmFsc2lmaWFibGUod29ybGQpCiAgICB0b3QgPSBmWyJ0cnVlIl0gKyBmWyJmYWxzZSJdCiAgICBQKGYiKDEpIOWPr+ivgeS8qiAgIDog55yfIHtmWyd0cnVlJ119L3t0b3R9ICDlgYcge2ZbJ2ZhbHNlJ119L3t0b3R9IgogICAgICArICgiICAtPiDlj4zlkJHlj6/kuqfnlJ8sIOS4jemlseWSjCIgaWYgbWluKGZbInRydWUiXSwgZlsiZmFsc2UiXSkgPiAwCiAgICAgICAgIGVsc2UgIiAgLT4g6aWx5ZKMISDor6XliKTmja7mgZLnnJ/miJbmgZLlgYciKSkKCiAgICBjID0gdGVzdF9jb3VwbGVkKHdvcmxkKQogICAgUChmIigyKSDov57nnYDkuJbnlYwgOiDnm7jlhbMgcj17Y1snY29yciddOi40Zn0gIOacieaViOagt+acrCB7Y1snbl9vayddfS8xMiIKICAgICAgKyAoIiAgLT4g6Lef552A5LiW55WM5YqoIiBpZiAoY1snY29yciddID09IGNbJ2NvcnInXSkgYW5kIGNbJ2NvcnInXSA+IDAuOSBlbHNlICIiKSkKCiAgICBuID0gdGVzdF9uZWNlc3Nhcnkod29ybGQpCiAgICBQKGYiKDMpIOWboOaenOW/heimgSA6IOmAmueVhSB7blsnY2xvc2VkJ119L3tuWyduJ119ICDpga7mlq0ge25bJ2JsaW5kJ119L3tuWyduJ119IikKICAgIGRyb3AgPSAoblsnY2xvc2VkJ10gLSBuWydibGluZCddKSAvIG1heChuWyduJ10sIDEpCiAgICBQKGYiICAgICAgICAgICAgICDpga7mlq3lr7zoh7TkuIvpmY0ge2Ryb3AqMTAwOi4xZn0g5Liq55m+5YiG54K5IikKCiAgICB2ZXJkaWN0ID0gKG1pbihmWyJ0cnVlIl0sIGZbImZhbHNlIl0pID4gMAogICAgICAgICAgICAgICBhbmQgKGNbImNvcnIiXSA9PSBjWyJjb3JyIl0pIGFuZCBjWyJjb3JyIl0gPiAwLjkKICAgICAgICAgICAgICAgYW5kIG5bImNsb3NlZCJdIC0gblsiYmxpbmQiXSA+PSBuWyJuIl0gKiAwLjMpCiAgICBQKGYiXG4+Pj4g6Ieq5Li75Yik5a6aOiB7J+i/meaYr+ecvOedmycgaWYgdmVyZGljdCBlbHNlICfkuI3lpJ/moLwsIOmZjee6p+S4uuS8quaEn+WumCd9IikKCiAgICBvdXQgPSB7Imdlb21ldHJ5IjogW1csIEgsIEJQUF0sICJuX2NhbmRpZGF0ZXMiOiBsZW4oY2FuZHMpLAogICAgICAgICAgICJuX3JlYWRhYmxlIjogbGVuKHJlYWRhYmxlKSwgImZhbHNpZmlhYmxlIjogZiwKICAgICAgICAgICAiY291cGxlZCI6IGMsICJuZWNlc3NhcnkiOiBuLCAidmVyZGljdF9leWUiOiBib29sKHZlcmRpY3QpfQogICAgd2l0aCBvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMTdfYXV0b25vbW91c19leWUvcmVzdWx0Lmpzb24iLCAidyIpIGFzIGZwOgogICAgICAgIGpzb24uZHVtcChvdXQsIGZwLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgUChmIlxuW+iAl+aXtl0ge3RpbWUudGltZSgpLXQwOi4xZn1zIikKICAgIHJldHVybiBvdXQKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp117 · 自主寻眼
+不给它清单。让它自己扫出候选通道，自己设计检验，自己判定哪条是眼睛。
+
+眼睛的操作化定义（不是我说了算，是它自己用实验定出来的）：
+    一条通道 C 是眼睛，当且仅当
+      (1) 可证伪: 世界两种状态下, C 的读数能被某个判据区分开(真/假都要出现)
+      (2) 连着世界: 我动的时候, C 的读数跟着变(不是自说自话)
+      (3) 因果必要: 遮断 C(喂常数), 闭环任务成功率显著下降
+    三条全过才算眼睛。缺一条降级为"伪感官"。
+"""
+import os, io, time, json, math, random, struct, fcntl, hashlib
+import numpy as np
+
+FB = "/dev/fb0"
+W = H = None
+
+def fb_geometry():
+    """自己问设备要尺寸, 不凭印象写。"""
+    FBIOGET_VSCREENINFO = 0x4600
+    buf = bytearray(160)
+    with open(FB, "rb", buffering=0) as f:
+        fcntl.ioctl(f, FBIOGET_VSCREENINFO, buf)
+    w, h = struct.unpack_from("<II", buf, 0)
+    bpp = struct.unpack_from("<I", buf, 24)[0]
+    return w, h, bpp
+
+W, H, BPP = fb_geometry()
+
+# ---------------------------------------------------------------- 1. 候选发现
+def discover_candidates():
+    """自己扫。不预设清单 —— 扫到什么算什么。"""
+    cands = []
+    # /dev 下所有可读字符设备或块设备
+    for name in sorted(os.listdir("/dev")):
+        p = "/dev/" + name
+        if os.path.isdir(p):
+            continue
+        try:
+            if not os.access(p, os.R_OK):
+                continue
+            st = os.stat(p)
+            import stat as S
+            kind = "chr" if S.S_ISCHR(st.st_mode) else ("blk" if S.S_ISBLK(st.st_mode) else "reg")
+            cands.append({"path": p, "kind": kind})
+        except Exception:
+            pass
+    # /proc 下可读的伪文件
+    for name in sorted(os.listdir("/proc")):
+        p = "/proc/" + name
+        if not os.path.isfile(p):
+            continue
+        if not os.access(p, os.R_OK):
+            continue
+        cands.append({"path": p, "kind": "proc"})
+    # /sys/class 下两层
+    for root, dirs, files in os.walk("/sys/class"):
+        if root.count("/") > 4:
+            dirs[:] = []
+            continue
+        for fn in files:
+            p = os.path.join(root, fn)
+            if os.access(p, os.R_OK):
+                cands.append({"path": p, "kind": "sys"})
+    return cands
+
+def probe_readable(c, nbytes=4096):
+    """试着真读一次。读不动就淘汰, 不猜。"""
+    p, kind = c["path"], c["kind"]
+    try:
+        if kind in ("chr", "blk"):
+            with open(p, "rb", buffering=0) as f:
+                os.set_blocking(f.fileno(), False)
+                try:
+                    data = f.read(nbytes)
+                except BlockingIOError:
+                    data = b""      # 非阻塞无数据 ≠ 不可读
+                except OSError as e:
+                    return None, f"oserror:{e.errno}"
+                if data is None:
+                    return None, "none"
+                return data, "ok"
+        else:
+            with open(p, "rb") as f:
+                data = f.read(nbytes)
+            if data is None:
+                return None, "none"
+            return data, "ok"
+    except Exception as e:
+        return None, f"exc:{type(e).__name__}"
+
+# ------------------------------------------------------- 2. 世界(可被真实改动)
+class World:
+    """
+    一个我自己造的、但通过真实帧缓冲显示的世界。
+    我改它 -> 帧缓冲像素变 -> 通道能不能看见这个变化, 是检验的核心。
+    """
+    def __init__(self, seed=0):
+        self.rng = random.Random(seed)
+        self.target = np.array([0.5, 0.5])
+        self.img = np.zeros((H, W, 4), np.uint8)
+    def set_target(self, x, y):
+        self.target = np.array([x, y])
+    def render(self):
+        img = np.zeros((H, W, 4), np.uint8)
+        yy, xx = np.mgrid[0:H, 0:W]
+        # 平滑渐变背景(避免噪点淹没目标边缘)
+        bg = (60 + 40 * (xx / max(W-1,1)) + 30 * (yy / max(H-1,1))).astype(np.uint8)
+        img[..., 0] = bg; img[..., 1] = bg; img[..., 2] = bg; img[..., 3] = 255
+        # 目标: 实心方块, 半径 40 px
+        tx, ty = int(self.target[0] * W), int(self.target[1] * H)
+        r = 40
+        img[max(0,ty-r):ty+r, max(0,tx-r):tx+r, 0:3] = 255
+        img[max(0,ty-r):ty+r, max(0,tx-r):tx+r, 3] = 255
+        self.img = img
+        return img
+    def to_screen(self):
+        with open(FB, "wb", buffering=0) as f:
+            f.write(self.img.tobytes())
+
+def read_screen():
+    with open(FB, "rb", buffering=0) as f:
+        raw = f.read(W * H * 4)
+    return np.frombuffer(raw, np.uint8).reshape(H, W, 4)
+
+def locate(a):
+    """从真实读回的像素里定位亮块质心。返回 None 表示没看见。"""
+    lum = a[..., :3].astype(np.float32).mean(axis=2)
+    mask = lum > 200
+    n = int(mask.sum())
+    if n < 50:
+        return None, n
+    ys, xs = np.nonzero(mask)
+    return np.array([xs.mean() / W, ys.mean() / H]), n
+
+# ------------------------------------------------------------ 3. 三项检验
+def test_falsifiable(world):
+    """(1) 可证伪: 目标存在 / 目标不存在, 通道读数能否区分, 且真和假都要出现。"""
+    res = {"true": 0, "false": 0}
+    for present in (True, False):
+        for k in range(10):
+            x, y = world.rng.uniform(0.15, 0.85), world.rng.uniform(0.15, 0.85)
+            if present:
+                world.set_target(x, y)
+            else:
+                world.set_target(-1, -1)      # 移出画面
+            world.render(); world.to_screen()
+            a = read_screen()
+            cen, n = locate(a)
+            hit = (cen is not None) and (n > 4000)
+            if present:
+                res["true" if hit else "false"] += 1
+            else:
+                # 不存在时期望判为"没看见" -> 记为 false 侧正确
+                res["false" if not hit else "true"] += 1
+    return res
+
+def test_coupled(world):
+    """(2) 连着世界: 我移动目标, 读数是否跟着移动(相关)。"""
+    xs, obs = [], []
+    for k in range(12):
+        x = 0.15 + 0.7 * (k / 11.0)
+        world.set_target(x, 0.5); world.render(); world.to_screen()
+        cen, n = locate(read_screen())
+        xs.append(x)
+        obs.append(cen[0] if cen is not None else float("nan"))
+    xs = np.array(xs); obs = np.array(obs)
+    ok = np.isfinite(obs)
+    if ok.sum() < 4:
+        return {"corr": float("nan"), "n_ok": int(ok.sum())}
+    corr = float(np.corrcoef(xs[ok], obs[ok])[0, 1])
+    return {"corr": corr, "n_ok": int(ok.sum())}
+
+def test_necessary(world, ntrial=24, seed=1):
+    """
+    (3) 因果必要: 遮断这条通道(喂常数), 闭环任务成功率是否显著下降。
+    对照: 通道通畅的闭环 vs 通道被遮断的"盲闭环"。
+    """
+    rng = random.Random(seed)
+    def run(blind):
+        hits = 0
+        for t in range(ntrial):
+            world.set_target(rng.uniform(0.2, 0.8), rng.uniform(0.2, 0.8))
+            world.render(); world.to_screen()
+            # 起点固定在中心
+            pos = np.array([0.5, 0.5])
+            for step in range(8):
+                if blind:
+                    cen = None                 # 遮断: 永远看不见(喂常数)
+                else:
+                    cen, _ = locate(read_screen())
+                if cen is None:
+                    d = rng.uniform(-0.05, 0.05, 2)      # 看不见就瞎走
+                else:
+                    d = (cen - pos) * 0.9
+                pos = np.clip(pos + d, 0.02, 0.98)
+                world.set_target(world.target[0], world.target[1])
+                world.render(); world.to_screen()
+            cen_f, _ = locate(read_screen())
+            if cen_f is not None and np.linalg.norm(cen_f - world.target) < 0.06:
+                hits += 1
+        return hits
+    closed = run(False)
+    blind  = run(True)
+    return {"closed": closed, "blind": blind, "n": ntrial}
+
+# --------------------------------------------------------------- 主流程
+def main():
+    t0 = time.time()
+    log = []
+    def P(s):
+        print(s, flush=True); log.append(s)
+
+    P("=" * 72)
+    P("exp117 · 自主寻眼  (不是我给它眼睛, 是它自己去找)")
+    P("=" * 72)
+    P(f"[设备] 帧缓冲自述: {W}x{H} bpp={BPP}  (ioctl 实测, 非假设)")
+
+    P("\n--- 阶段1: 候选发现(自己扫, 不查清单) ---")
+    cands = discover_candidates()
+    P(f"扫描到候选 {len(cands)} 条 (/dev + /proc + /sys/class)")
+
+    P("\n--- 阶段2: 试着真读一次, 读不动就淘汰 ---")
+    readable = []
+    for c in cands:
+        data, st = probe_readable(c)
+        if st != "ok" or not data:
+            continue
+        # 空内容或全零内容不算通道
+        if len(set(data[:256])) <= 1:
+            continue
+        readable.append((c, data))
+    P(f"可读且内容非恒定: {len(readable)} 条")
+    for c, d in readable[:12]:
+        P(f"    {c['kind']:4s} {c['path'][:52]:52s} {len(d):5d}B")
+
+    P("\n--- 阶段3: 三项检验(自己设计, 自己判定) ---")
+    world = World(seed=7)
+    world.render(); world.to_screen()
+    P("[世界] 已建立并上屏, 目标可被我真实移动")
+
+    f = test_falsifiable(world)
+    tot = f["true"] + f["false"]
+    P(f"(1) 可证伪   : 真 {f['true']}/{tot}  假 {f['false']}/{tot}"
+      + ("  -> 双向可产生, 不饱和" if min(f["true"], f["false"]) > 0
+         else "  -> 饱和! 该判据恒真或恒假"))
+
+    c = test_coupled(world)
+    P(f"(2) 连着世界 : 相关 r={c['corr']:.4f}  有效样本 {c['n_ok']}/12"
+      + ("  -> 跟着世界动" if (c['corr'] == c['corr']) and c['corr'] > 0.9 else ""))
+
+    n = test_necessary(world)
+    P(f"(3) 因果必要 : 通畅 {n['closed']}/{n['n']}  遮断 {n['blind']}/{n['n']}")
+    drop = (n['closed'] - n['blind']) / max(n['n'], 1)
+    P(f"              遮断导致下降 {drop*100:.1f} 个百分点")
+
+    verdict = (min(f["true"], f["false"]) > 0
+               and (c["corr"] == c["corr"]) and c["corr"] > 0.9
+               and n["closed"] - n["blind"] >= n["n"] * 0.3)
+    P(f"\n>>> 自主判定: {'这是眼睛' if verdict else '不够格, 降级为伪感官'}")
+
+    out = {"geometry": [W, H, BPP], "n_candidates": len(cands),
+           "n_readable": len(readable), "falsifiable": f,
+           "coupled": c, "necessary": n, "verdict_eye": bool(verdict)}
+    with open("/data/workspace/luoshen-o1/experiments/exp117_autonomous_eye/result.json", "w") as fp:
+        json.dump(out, fp, ensure_ascii=False, indent=2)
+    P(f"\n[耗时] {time.time()-t0:.1f}s")
+    return out
+
+if __name__ == "__main__":
+    main()

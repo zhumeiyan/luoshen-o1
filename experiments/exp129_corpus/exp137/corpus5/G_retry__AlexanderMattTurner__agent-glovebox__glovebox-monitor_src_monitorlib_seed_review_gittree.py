@@ -1,1 +1,234 @@
-IiIiV2hhdCB0aGUgYnJhbmNoJ3MgdHJlZSBzYXlzOiB0aGUgcmF3IGRpZmYsIGVhY2ggYmxvYidzIHRleHQsIGFuZCB3aGVyZSBhIGxpbmsgbGVhZHMuCgpFdmVyeSByZWFkIGdvZXMgdGhyb3VnaCBnaXQsIG5ldmVyIHRoZSBob3N0IGZpbGVzeXN0ZW0uIFRoZSBicmFuY2ggdW5kZXIgcmV2aWV3IGlzCmFnZW50LXdyaXR0ZW4sIHNvIGl0cyB3b3JraW5nIHRyZWUgaXMgbm90IHdoYXQgdGhpcyBzY2FuIG1heSB0cnVzdCDigJQgYW5kIGEgdHJpZ2dlcgpjb21taXR0ZWQgYXMgYSBzeW1saW5rIHN0b3JlcyBpdHMgVEFSR0VUIE5BTUUgYXMgdGhlIGJsb2IsIHdoaWNoIG5hbWVzIG5vIGNvbW1hbmRzIGF0CmFsbCwgc28gdGhlIGNoYWluIHdhbGsgaGVyZSBpcyB3aGF0IHN0b3BzIGEgbGluayBiZWluZyB0aGUgd2F5IHBhc3QgYSB0cmlnZ2VyIHJ1bGUuCiIiIgoKaW1wb3J0IG9zCmltcG9ydCBwb3NpeHBhdGgKaW1wb3J0IHN1YnByb2Nlc3MKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCgpmcm9tIG1vbml0b3JsaWIuc2VlZF9yZXZpZXdfYXV0b3J1biBpbXBvcnQgYXV0b3J1bl90cmlnZ2VyX3BhdGgKCiMgVGhlIGBnaXQgZGlmZiAtLXJhd2AgZmlsZSBtb2RlcyB0aGlzIHNjYW4gYnJhbmNoZXMgb24uCkVYRUNfTU9ERSA9ICIxMDA3NTUiClNZTUxJTktfTU9ERSA9ICIxMjAwMDAiCgoKZGVmIGdpdF9yYXcocmVwbzogc3RyLCBiYXNlOiBzdHIsIGJyYW5jaDogc3RyKSAtPiBieXRlczoKICAgICIiImBgZ2l0IGRpZmYgLS1yYXcgLXpgYCBieXRlcyBmb3IgYmFzZS4uYnJhbmNoIChOVUwtZGVsaW1pdGVkLCB3aXRoIGZpbGUgbW9kZXMpLiIiIgogICAgcmV0dXJuIHN1YnByb2Nlc3MucnVuKAogICAgICAgIFsiZ2l0IiwgIi1DIiwgcmVwbywgImRpZmYiLCAiLS1yYXciLCAiLXoiLCBiYXNlLCBicmFuY2hdLAogICAgICAgIGNoZWNrPVRydWUsCiAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwKICAgICkuc3Rkb3V0CgoKZGVmIGdpdF9zaG93KHJlcG86IHN0ciwgYnJhbmNoOiBzdHIsIHBhdGg6IHN0cikgLT4gc3RyOgogICAgIiIiVGhlIGZ1bGwgY29udGVudCBvZiBgYHBhdGhgYCBvbiBgYGJyYW5jaGBgIChgYGdpdCBzaG93IGJyYW5jaDpwYXRoYGApOiBhCiAgICB0cmlnZ2VyJ3MgdGV4dCBmb3IgdGhlIHJlYWNoYWJpbGl0eSB0cmFjZSwgb3Igb25lIHNpZGUgb2YgYSBtYW5pZmVzdCBjb21wYXJlLgoKICAgIGBgc3Vycm9nYXRlZXNjYXBlYGAsIG5vdCBgYHJlcGxhY2VgYDogY2FuZGlkYXRlIHBhdGhzIGFyZSBkZWNvZGVkIHRoYXQgd2F5LCBzbyBhCiAgICB0cmlnZ2VyIGludm9raW5nIGBgLi9iYWRcXHhmZi5zaGBgIG1hdGNoZXMgb25seSB3aGVuIGl0cyBibG9iICAjIGFsbG93LWRhbmdsaW5nLXBhdGg6IGFuIGlsbHVzdHJhdGl2ZSBiYXNlbmFtZQogICAga2VlcHMgdGhlIHNhbWUKICAgIGxvbmUtc3Vycm9nYXRlIHNwZWxsaW5nLiBgYHJlcGxhY2VgYCB0dXJuZWQgdGhlIGJ5dGUgaW50byBVK0ZGRkQgYW5kIHRoZSB0cmFjZQogICAgbWlzc2VkIHRoZSBmaWxlIHRoZSB0cmlnZ2VyIHJ1bnMuIiIiCiAgICByZXR1cm4gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgWyJnaXQiLCAiLUMiLCByZXBvLCAic2hvdyIsIGYie2JyYW5jaH06e3BhdGh9Il0sCiAgICAgICAgY2hlY2s9VHJ1ZSwKICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLAogICAgICAgIGVuY29kaW5nPSJ1dGYtOCIsCiAgICAgICAgZXJyb3JzPSJzdXJyb2dhdGVlc2NhcGUiLAogICAgKS5zdGRvdXQKCgpAZGF0YWNsYXNzKGZyb3plbj1UcnVlLCBrd19vbmx5PVRydWUsIHNsb3RzPVRydWUpCmNsYXNzIEJyYW5jaFRyaWdnZXJzOgogICAgIiIiV2hhdCB0aGUgYnJhbmNoJ3Mgb3duIHRyZWUgc2F5cyBhYm91dCBhdXRvLXJ1biB0cmlnZ2VycyBhbmQgc3ltbGluayBuYW1lcy4KCiAgICBgYHJlYWRhYmxlYGAgcGFpcnMgZWFjaCB0cmlnZ2VyIHdpdGggdGhlIHBhdGggd2hvc2UgYmxvYiBob2xkcyBpdHMgdGV4dC4KICAgIGBgdW5yZWFkYWJsZWBgIG1hcHMgZWFjaCB0cmlnZ2VyIGNvbW1pdHRlZCBhcyBhIGxpbmsgdGhpcyBzY2FuIGNhbm5vdCBmb2xsb3cgdG8gdGhlCiAgICBwYXRoIHRoZSB3YWxrIGdvdCB0aHJvdWdoLCBzbyBhIGNhbGxlciBjYW4gYXNrIHdoZXRoZXIgdGhlIERJRkYgaXMgd2hhdCBicm9rZSBpdC4KICAgIGBgYWxpYXNlc2BgIG1hcHMgYSByZWFsIHBhdGggdG8gZXZlcnkgbGluayBuYW1lIHRoYXQgcmVhY2hlcyBpdCwgYmVjYXVzZSBhIHRyaWdnZXIKICAgIGludm9rZXMgYSBzY3JpcHQgYnkgd2hpY2hldmVyIG5hbWUgaXQgd2FzIGdpdmVuLiBgYGNoYWluc2BgIGhvbGRzIGVhY2ggcmVhZGFibGUKICAgIHRyaWdnZXIncyB3aG9sZSBwYXRoIHRvIHRoYXQgYmxvYiwgc28gYSByZXBvaW50ZWQgbGluayBpbiB0aGUgTUlERExFIG9mIG9uZSBpcyBhCiAgICBjaGFuZ2UgdG8gdGhlIHRyaWdnZXIgYW5kIG5vdCBhbiBlZGl0IHRvIHNvbWUgdW5yZWxhdGVkIGZpbGUuIGBgYnJva2VuX2xpbmtzYGAKICAgIG1hcHMgZWFjaCB0cmFja2VkIGxpbmsgd2hvc2UgY2hhaW4gbmV2ZXIgcmVhY2hlcyBhIHRyYWNrZWQgcmVndWxhciBmaWxlIHRvIHRoZQogICAgcGF0aHMgdGhhdCB3YWxrIHBhc3NlZCDigJQgd2hhdCBydW5zIHVuZGVyIHN1Y2ggYSBuYW1lIGlzIG91dHNpZGUgdGhpcyBzY2FuJ3MKICAgIHNpZ2h0LCBhbmQgdGhlIHdhbGsgaXMgd2hhdCBzYXlzIHdoZXRoZXIgdGhlIERJRkYgYnJva2UgaXQuIiIiCgogICAgcmVhZGFibGU6IGxpc3RbdHVwbGVbc3RyLCBzdHJdXQogICAgdW5yZWFkYWJsZTogZGljdFtzdHIsIGxpc3Rbc3RyXV0KICAgIGFsaWFzZXM6IGRpY3Rbc3RyLCBsaXN0W3N0cl1dCiAgICBjaGFpbnM6IGRpY3Rbc3RyLCBsaXN0W3N0cl1dCiAgICBicm9rZW5fbGlua3M6IGRpY3Rbc3RyLCBsaXN0W3N0cl1dCgoKZGVmIGdpdF90cmlnZ2VyX3BhdGhzKHJlcG86IHN0ciwgYnJhbmNoOiBzdHIpIC0+IEJyYW5jaFRyaWdnZXJzOgogICAgIiIiRXZlcnkgYXV0by1ydW4gY29uZmlnIHRoYXQgRVhJU1RTIG9uIHRoZSBicmFuY2gsIGNoYW5nZWQgYnkgdGhpcyBkaWZmIG9yIG5vdCwKICAgIHBhaXJlZCB3aXRoIHRoZSBwYXRoIHdob3NlIGJsb2IgaG9sZHMgaXRzIHRleHQuCgogICAgVGhlIHR3byBkaWZmZXIgZm9yIGEgdHJpZ2dlciBjb21taXR0ZWQgYXMgYSBTWU1MSU5LOiBnaXQgc3RvcmVzIHRoZSB0YXJnZXQncyBOQU1FCiAgICBhcyB0aGUgbGluaydzIGJsb2IsIHNvIHJlYWRpbmcgdGhlIGxpbmsgeWllbGRzIGEgcGF0aCBzdHJpbmcgYW5kIG5vIGNvbW1hbmRzIGF0CiAgICBhbGwuIFJlYWRpbmcgdGhlIHRhcmdldCBpbnN0ZWFkIGlzIHdoYXQgc3RvcHMgYSBsaW5rIGJlaW5nIHRoZSB3YXkgcGFzdCBhIHRyaWdnZXIKICAgIHRoZSBkaWZmIG5ldmVyIHRvdWNoZWQuIEEgdGFyZ2V0IHRoZSBicmFuY2ggZG9lcyBub3QgY2Fycnkga2VlcHMgdGhlIGxpbmssIHdob3NlCiAgICByZWFsIHRleHQgdGhpcyBzY2FuIGNhbm5vdCBzZWUg4oCUIGl0IHJlYWRzIHRoZSB0cmVlLCBuZXZlciB0aGUgaG9zdCBmaWxlc3lzdGVtLCBzbwogICAgdGhhdCB0cmlnZ2VyIGlzIFJFUE9SVEVEIHJhdGhlciB0aGFuIGNsZWFyZWQuCiAgICAiIiIKICAgIGxpc3RpbmcgPSBzdWJwcm9jZXNzLnJ1bigKICAgICAgICBbImdpdCIsICItQyIsIHJlcG8sICJscy10cmVlIiwgIi1yIiwgIi16IiwgYnJhbmNoXSwKICAgICAgICBjaGVjaz1UcnVlLAogICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsCiAgICAgICAgZW5jb2Rpbmc9InV0Zi04IiwKICAgICAgICAjIEEgcGF0aCBnaXQgaG9sZHMgaXMgYnl0ZXMsIGFuZCBub3QgZXZlcnkgYnl0ZSBzZXF1ZW5jZSBpcyBVVEYtOC4gYHJlcGxhY2VgCiAgICAgICAgIyB3b3VsZCB0dXJuIGFuIHVuZGVjb2RhYmxlIGJ5dGUgaW50byBVK0ZGRkQsIGFuZCB0aGUgYGdpdCBzaG93YCBidWlsdCBmcm9tCiAgICAgICAgIyB0aGF0IG5hbWUgdGhlbiBuYW1lcyBubyBmaWxlIGFuZCBleGl0cyBub24temVybywgZW5kaW5nIHRoZSB3aG9sZSBzY2FuLgogICAgICAgICMgYHN1cnJvZ2F0ZWVzY2FwZWAgcm91bmQtdHJpcHMgdGhvc2UgYnl0ZXMgYmFjayB0aHJvdWdoIGBvcy5mc2VuY29kZWAuCiAgICAgICAgZXJyb3JzPSJzdXJyb2dhdGVlc2NhcGUiLAogICAgKS5zdGRvdXQKICAgIG1vZGVzOiBkaWN0W3N0ciwgc3RyXSA9IHt9CiAgICAjIGAtemAgaXMgd2hhdCBtYWtlcyB0aGUgYmFzZW5hbWUgdGVzdCBiZWxvdyB0cnVlLiBXaXRob3V0IGl0IGBjb3JlLnF1b3RlUGF0aGAKICAgICMgKG9uIGJ5IGRlZmF1bHQpIHdyYXBzIGFueSBwYXRoIGhvbGRpbmcgYSBub24tQVNDSUkgb3IgY29udHJvbCBieXRlIGluIHF1b3RlcwogICAgIyB3aXRoIGJhY2tzbGFzaCBlc2NhcGVzLCBzbyBgcGtnw6kvcGFja2FnZS5qc29uYCBhcnJpdmVzIGFzIGBwYWNrYWdlLmpzb24iYCBhbmQKICAgICMgbWF0Y2hlcyBubyB0cmlnZ2VyIG5hbWUg4oCUIGV2ZXJ5IHRyaWdnZXIgdW5kZXIgc3VjaCBhIGRpcmVjdG9yeSBkcm9wcyBvdXQgb2YKICAgICMgdGhlIHNldCwgd2hpY2ggaXMgdGhpcyB0cmFjZSdzIG93biBibGluZCBzcG90IHJlc3RvcmVkIHVuZGVyIGFub3RoZXIgaW5wdXQuCiAgICBmb3IgcmVjb3JkIGluIGxpc3Rpbmcuc3BsaXQoIlwwIik6CiAgICAgICAgaWYgbm90IHJlY29yZDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBtZXRhLCBfLCBwYXRoID0gcmVjb3JkLnBhcnRpdGlvbigiXHQiKQogICAgICAgIG1vZGVzW3BhdGhdID0gbWV0YS5zcGxpdCgiICIsIDEpWzBdCiAgICB0YXJnZXRzID0gX2xpbmtfdGFyZ2V0cyhyZXBvLCBicmFuY2gsIG1vZGVzKQogICAgZGlycyA9IF90cmFja2VkX2RpcnMobW9kZXMpCiAgICByZWFkYWJsZTogbGlzdFt0dXBsZVtzdHIsIHN0cl1dID0gW10KICAgIHVucmVhZGFibGU6IGRpY3Rbc3RyLCBsaXN0W3N0cl1dID0ge30KICAgIGNoYWluczogZGljdFtzdHIsIGxpc3Rbc3RyXV0gPSB7fQogICAgZm9yIHBhdGggaW4gbW9kZXM6CiAgICAgICAgaWYgbm90IGF1dG9ydW5fdHJpZ2dlcl9wYXRoKHBhdGgpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGNoYWluLCByZXNvbHZlZCA9IF9yZXNvbHZlZF9jaGFpbihwYXRoLCBtb2RlcywgdGFyZ2V0cywgZGlycykKICAgICAgICAjIEEgY2hhaW4gZW5kaW5nIG9uIGEgRElSRUNUT1JZIHJlc29sdmVzIGZvciB0aGUgYWxpYXMgbWFwIGJlbG93LCBidXQgdGhlcmUgaXMKICAgICAgICAjIG5vIGJsb2IgdG8gcmVhZCB0aGVyZSwgc28gYSB0cmlnZ2VyIHRoYXQgcmVhY2hlcyBvbmUgaXMgc3RpbGwgdW5yZWFkYWJsZS4KICAgICAgICBpZiBub3QgcmVzb2x2ZWQgb3IgY2hhaW5bLTFdIG5vdCBpbiBtb2RlczoKICAgICAgICAgICAgdW5yZWFkYWJsZVtwYXRoXSA9IGNoYWluCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVhZGFibGUuYXBwZW5kKChwYXRoLCBjaGFpblstMV0pKQogICAgICAgICAgICBjaGFpbnNbcGF0aF0gPSBjaGFpbgogICAgIyBBIGxpbmsncyBvd24gbmFtZSBpcyB3aGF0IGEgdHJpZ2dlciB3cml0ZXMsIHNvIHRoZSBleGVjdXRhYmxlIGl0IHJlYWNoZXMgaGFzIHRvCiAgICAjIGJlIGZpbmRhYmxlIHVuZGVyIHRoYXQgbmFtZSB0b28uCiAgICBhbGlhc2VzOiBkaWN0W3N0ciwgbGlzdFtzdHJdXSA9IHt9CiAgICBicm9rZW46IGRpY3Rbc3RyLCBsaXN0W3N0cl1dID0ge30KICAgIGZvciBwYXRoIGluIHRhcmdldHM6CiAgICAgICAgIyBBIHJlc29sdmVkIGxpbmsncyBjaGFpbiBhbHdheXMgZW5kcyBvbiBhIHJlZ3VsYXIgZmlsZSBvciBhIHRyYWNrZWQgZGlyZWN0b3J5LAogICAgICAgICMgbmV2ZXIgb24gdGhlIGxpbmsgaXRzZWxmIOKAlCBhIHNlbGYtbG9vcCByZXR1cm5zIHVucmVzb2x2ZWQuCiAgICAgICAgY2hhaW4sIHJlc29sdmVkID0gX3Jlc29sdmVkX2NoYWluKHBhdGgsIG1vZGVzLCB0YXJnZXRzLCBkaXJzKQogICAgICAgIGlmIG5vdCByZXNvbHZlZDoKICAgICAgICAgICAgYnJva2VuW3BhdGhdID0gY2hhaW4KICAgICAgICBlbGlmIGNoYWluWy0xXSBpbiBkaXJzOgogICAgICAgICAgICBfYWxpYXNfdW5kZXJfZGlyKGFsaWFzZXMsIHBhdGgsIGNoYWluWy0xXSwgbW9kZXMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYWxpYXNlcy5zZXRkZWZhdWx0KGNoYWluWy0xXSwgW10pLmFwcGVuZChwYXRoKQogICAgcmV0dXJuIEJyYW5jaFRyaWdnZXJzKAogICAgICAgIHJlYWRhYmxlPXJlYWRhYmxlLAogICAgICAgIHVucmVhZGFibGU9dW5yZWFkYWJsZSwKICAgICAgICBhbGlhc2VzPWFsaWFzZXMsCiAgICAgICAgY2hhaW5zPWNoYWlucywKICAgICAgICBicm9rZW5fbGlua3M9YnJva2VuLAogICAgKQoKCmRlZiBfdHJhY2tlZF9kaXJzKG1vZGVzOiBkaWN0W3N0ciwgc3RyXSkgLT4gc2V0W3N0cl06CiAgICAiIiJFdmVyeSBkaXJlY3RvcnkgdGhlIGJyYW5jaCdzIHRyYWNrZWQgcGF0aHMgc2l0IHVuZGVyLiBgYGdpdCBscy10cmVlIC1yYGAgbGlzdHMKICAgIGJsb2JzIGFsb25lLCBzbyBhIGxpbmsgdGhhdCB0YXJnZXRzIGEgZGlyZWN0b3J5IHJlYWNoZXMgYSBuYW1lIG5vIGxpc3RpbmcgY2FycmllcyDigJQKICAgIGFuZCByZWFkaW5nIHRoYXQgYXMgYSBicm9rZW4gY2hhaW4gbG9zZXMgZXZlcnkgZmlsZSB1bmRlciBpdC4iIiIKICAgIG91dDogc2V0W3N0cl0gPSBzZXQoKQogICAgZm9yIHBhdGggaW4gbW9kZXM6CiAgICAgICAgcGFyZW50ID0gcG9zaXhwYXRoLmRpcm5hbWUocGF0aCkKICAgICAgICB3aGlsZSBwYXJlbnQgYW5kIHBhcmVudCBub3QgaW4gb3V0OgogICAgICAgICAgICBvdXQuYWRkKHBhcmVudCkKICAgICAgICAgICAgcGFyZW50ID0gcG9zaXhwYXRoLmRpcm5hbWUocGFyZW50KQogICAgcmV0dXJuIG91dAoKCmRlZiBfYWxpYXNfdW5kZXJfZGlyKAogICAgYWxpYXNlczogZGljdFtzdHIsIGxpc3Rbc3RyXV0sIGxpbms6IHN0ciwgdGFyZ2V0OiBzdHIsIG1vZGVzOiBkaWN0W3N0ciwgc3RyXQopIC0+IE5vbmU6CiAgICAiIiJSZWNvcmQgdGhlIG5hbWUgZWFjaCBmaWxlIHVuZGVyIGBgdGFyZ2V0YGAgYWxzbyBhbnN3ZXJzIHRvIHRocm91Z2ggYGBsaW5rYGAuCgogICAgQSBsaW5rIHRvIGEgZGlyZWN0b3J5IHJlbmFtZXMgdGhlIHdob2xlIHN1YnRyZWU6IHdpdGggYGBiaW4gLT4gdG9vbHNgYCB0cmFja2VkLCBhCiAgICAjIGFsbG93LWRhbmdsaW5nLXBhdGg6IGlsbHVzdHJhdGl2ZSBvcGVyYW5kcwogICAgdHJpZ2dlciB0aGF0IHJ1bnMgYGBiaW4vYS5zaGBgIHJ1bnMgdGhlIGZpbGUgdGhlIGRpZmYgbmFtZXMgYGB0b29scy9hLnNoYGAsIGFuZCBhbgogICAgYWxpYXMgbWFwIGhvbGRpbmcgb25seSBgYGJpbmBgIG1hdGNoZXMgbmVpdGhlci4iIiIKICAgIGZvciBwYXRoIGluIG1vZGVzOgogICAgICAgIGlmIHBhdGguc3RhcnRzd2l0aCh0YXJnZXQgKyAiLyIpOgogICAgICAgICAgICBhbGlhc2VzLnNldGRlZmF1bHQocGF0aCwgW10pLmFwcGVuZCgKICAgICAgICAgICAgICAgIHBvc2l4cGF0aC5qb2luKGxpbmssIHBhdGhbbGVuKHRhcmdldCkgKyAxIDpdKQogICAgICAgICAgICApCgoKZGVmIF9saW5rX3RhcmdldHMocmVwbzogc3RyLCBicmFuY2g6IHN0ciwgbW9kZXM6IGRpY3Rbc3RyLCBzdHJdKSAtPiBkaWN0W3N0ciwgc3RyXToKICAgICIiIkV2ZXJ5IHRyYWNrZWQgc3ltbGluaydzIGJsb2IgdGV4dCDigJQgdGhlIHRhcmdldCBuYW1lIGl0IGhvbGRzLgoKICAgIFJlYWQgaW4gT05FIGBnaXQgY2F0LWZpbGUgLS1iYXRjaGA6IHJlc29sdmluZyBhIGNoYWluIG5lZWRzIGVhY2ggbGluaydzIHRleHQsIGFuZCBhCiAgICBwcm9jZXNzIHBlciBsaW5rIG1hZGUgYSB0cmVlIGNhcnJ5aW5nIG1hbnkgbGlua3MgcGF5IGEgc3VicHJvY2VzcyBlYWNoIGF0IHRlYXJkb3duLgogICAgYC16YCB0YWtlcyB0aGUgcmVxdWVzdCBuYW1lcyBOVUwtc2VwYXJhdGVkLCBzbyBhIHBhdGggaG9sZGluZyBhIG5ld2xpbmUgc3RpbGwgYXNrcwogICAgZm9yIHRoZSBvYmplY3QgaXQgbmFtZXMuIiIiCiAgICBsaW5rcyA9IFtwIGZvciBwLCBtb2RlIGluIG1vZGVzLml0ZW1zKCkgaWYgbW9kZSA9PSBTWU1MSU5LX01PREVdCiAgICBpZiBub3QgbGlua3M6CiAgICAgICAgcmV0dXJuIHt9CiAgICBvdXQgPSBzdWJwcm9jZXNzLnJ1bigKICAgICAgICBbImdpdCIsICItQyIsIHJlcG8sICJjYXQtZmlsZSIsICItLWJhdGNoIiwgIi16Il0sCiAgICAgICAgaW5wdXQ9b3MuZnNlbmNvZGUoIiIuam9pbihmInticmFuY2h9OntwfVwwIiBmb3IgcCBpbiBsaW5rcykpLAogICAgICAgIGNoZWNrPVRydWUsCiAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwKICAgICkuc3Rkb3V0CiAgICAjIEVhY2ggYW5zd2VyIGlzIGA8b2lkPiA8dHlwZT4gPHNpemU+XG5gLCB0aGVuIGV4YWN0bHkgPHNpemU+IGJ5dGVzLCB0aGVuIGEgbmV3bGluZS4KICAgICMgZ2l0IGFuc3dlcnMgaW4gcmVxdWVzdCBvcmRlciwgd2hpY2ggaXMgd2hhdCBwYWlycyBhIGJvZHkgYmFjayB3aXRoIGl0cyBsaW5rLgogICAgdGFyZ2V0czogZGljdFtzdHIsIHN0cl0gPSB7fQogICAgYXQgPSAwCiAgICBmb3IgcGF0aCBpbiBsaW5rczoKICAgICAgICBlbmQgPSBvdXQuaW5kZXgoYiJcbiIsIGF0KQogICAgICAgIHNpemUgPSBpbnQob3V0W2F0OmVuZF0uc3BsaXQoYiIgIilbMl0pCiAgICAgICAgYm9keSA9IG91dFtlbmQgKyAxIDogZW5kICsgMSArIHNpemVdCiAgICAgICAgdGFyZ2V0c1twYXRoXSA9IG9zLmZzZGVjb2RlKGJvZHkpCiAgICAgICAgYXQgPSBlbmQgKyAxICsgc2l6ZSArIDEKICAgIHJldHVybiB0YXJnZXRzCgoKZGVmIF9yZXNvbHZlZF9jaGFpbigKICAgIHBhdGg6IHN0ciwgbW9kZXM6IGRpY3Rbc3RyLCBzdHJdLCB0YXJnZXRzOiBkaWN0W3N0ciwgc3RyXSwgZGlyczogc2V0W3N0cl0KKSAtPiB0dXBsZVtsaXN0W3N0cl0sIGJvb2xdOgogICAgIiIiRXZlcnkgcGF0aCBhIGNoYWluIG9mIHN5bWxpbmtzIGZyb20gYGBwYXRoYGAgcGFzc2VzIHRocm91Z2gsIGFuZCB3aGV0aGVyIHRoZSB3YWxrCiAgICByZWFjaGVkIGEgcmVndWxhciBmaWxlIG9yIGEgdHJhY2tlZCBkaXJlY3RvcnkuCgogICAgVGhlIHdob2xlIGNoYWluLCBub3Qgb25seSBpdHMgZW5kOiByZXBvaW50aW5nIGEgbGluayBpbiB0aGUgTUlERExFIGNoYW5nZXMgd2hhdCB0aGUKICAgIHJvb3QgcnVucywgYW5kIGdpdCByZWNvcmRzIHRoYXQgZWRpdCBhZ2FpbnN0IHRoZSBtaWRkbGUgbGluaydzIG93biBuYW1lLiBBIHdhbGsgdGhhdAogICAgc3RvcHMgY2FycmllcyB0aGUgbmFtZSBpdCBzdG9wcGVkIE9OLCB3aGljaCBpcyB0aGUgcGF0aCBhIGRpZmYgd291bGQgbmFtZSBpZiB0aGUKICAgIGJyYW5jaCBpcyB3aGF0IGJyb2tlIHRoZSBjaGFpbi4KCiAgICBPbmUgaG9wIGlzIG5vdCBlbm91Z2g6IGEgbGluayB0byBhIGxpbmsgcGFyc2VzIGFzIHRoZSBTRUNPTkQgbGluaydzIHRhcmdldCBuYW1lLAogICAgd2hpY2ggbmFtZXMgbm8gY29tbWFuZHMsIHNvIGEgdHdvLWxpbmsgY2hhaW4gaXMgdGhlIHNhbWUgd2F5IHBhc3QgYSB0cmlnZ2VyIHRoYXQKICAgIG9uZSBob3AgY2xvc2VzLiBBIGNoYWluIHRoYXQgbGVhdmVzIHRoZSBicmFuY2ggb3IgcmVwZWF0cyBpdHNlbGYgcmVzb2x2ZXMgdG8KICAgIE5PVEhJTkcsIG5vdCB0byB0aGUgbGluayBpdCBzdG9wcGVkIG9uIOKAlCB0aGlzIHNjYW4gcmVhZHMgdGhlIHRyZWUsIG5ldmVyIHRoZSBob3N0CiAgICBmaWxlc3lzdGVtLCBzbyBpdCBjYW5ub3Qgc2VlIHRoYXQgdGV4dC4gUmVhZGluZyB0aGUgc3R1Y2sgbGluayB3b3VsZCBsZXQgdGhlIGNhbGxlcgogICAgdGFrZSBhIGhhcm1sZXNzIHRhcmdldCBOQU1FIGZvciB0aGUgdHJpZ2dlcidzIHRleHQuIEV2ZXJ5IGhvcCBhZGRzIGEgcGF0aCB0bwogICAgYGBzZWVuYGAsIHNvIHRoZSB3YWxrIGFsd2F5cyB0ZXJtaW5hdGVzLiIiIgogICAgc2VlbiA9IHtwYXRofQogICAgY2hhaW4gPSBbcGF0aF0KICAgIHdoaWxlIG1vZGVzLmdldChwYXRoKSA9PSBTWU1MSU5LX01PREU6CiAgICAgICAgIyBUaGUgYmxvYiBJUyB0aGUgdGFyZ2V0IG5hbWUsIGJ5dGUgZm9yIGJ5dGUgYW5kIHdpdGggbm8gdHJhaWxpbmcgbmV3bGluZSwgc28KICAgICAgICAjIHN0cmlwcGluZyBpdCByZW5hbWVzIGEgdGFyZ2V0IHdob3NlIG93biBuYW1lIGNhcnJpZXMgbGVhZGluZyBvciB0cmFpbGluZwogICAgICAgICMgd2hpdGVzcGFjZSDigJQgdGhlIGxvb2t1cCB0aGVuIG1pc3NlcyBhbmQgdGhlIGxpbmsgc3RheXMgdW5yZWFkLgogICAgICAgIHRhcmdldCA9IHBvc2l4cGF0aC5ub3JtcGF0aCgKICAgICAgICAgICAgcG9zaXhwYXRoLmpvaW4ocG9zaXhwYXRoLmRpcm5hbWUocGF0aCksIHRhcmdldHNbcGF0aF0pCiAgICAgICAgKQogICAgICAgIGNoYWluLmFwcGVuZCh0YXJnZXQpCiAgICAgICAgaWYgdGFyZ2V0IGluIGRpcnM6CiAgICAgICAgICAgIHJldHVybiBjaGFpbiwgVHJ1ZQogICAgICAgIGlmIHRhcmdldCBub3QgaW4gbW9kZXMgb3IgdGFyZ2V0IGluIHNlZW46CiAgICAgICAgICAgIHJldHVybiBjaGFpbiwgRmFsc2UKICAgICAgICBzZWVuLmFkZCh0YXJnZXQpCiAgICAgICAgcGF0aCA9IHRhcmdldAogICAgcmV0dXJuIGNoYWluLCBUcnVlCg==
+"""What the branch's tree says: the raw diff, each blob's text, and where a link leads.
+
+Every read goes through git, never the host filesystem. The branch under review is
+agent-written, so its working tree is not what this scan may trust — and a trigger
+committed as a symlink stores its TARGET NAME as the blob, which names no commands at
+all, so the chain walk here is what stops a link being the way past a trigger rule.
+"""
+
+import os
+import posixpath
+import subprocess
+from dataclasses import dataclass
+
+from monitorlib.seed_review_autorun import autorun_trigger_path
+
+# The `git diff --raw` file modes this scan branches on.
+EXEC_MODE = "100755"
+SYMLINK_MODE = "120000"
+
+
+def git_raw(repo: str, base: str, branch: str) -> bytes:
+    """``git diff --raw -z`` bytes for base..branch (NUL-delimited, with file modes)."""
+    return subprocess.run(
+        ["git", "-C", repo, "diff", "--raw", "-z", base, branch],
+        check=True,
+        capture_output=True,
+    ).stdout
+
+
+def git_show(repo: str, branch: str, path: str) -> str:
+    """The full content of ``path`` on ``branch`` (``git show branch:path``): a
+    trigger's text for the reachability trace, or one side of a manifest compare.
+
+    ``surrogateescape``, not ``replace``: candidate paths are decoded that way, so a
+    trigger invoking ``./bad\\xff.sh`` matches only when its blob  # allow-dangling-path: an illustrative basename
+    keeps the same
+    lone-surrogate spelling. ``replace`` turned the byte into U+FFFD and the trace
+    missed the file the trigger runs."""
+    return subprocess.run(
+        ["git", "-C", repo, "show", f"{branch}:{path}"],
+        check=True,
+        capture_output=True,
+        encoding="utf-8",
+        errors="surrogateescape",
+    ).stdout
+
+
+@dataclass(frozen=True, kw_only=True, slots=True)
+class BranchTriggers:
+    """What the branch's own tree says about auto-run triggers and symlink names.
+
+    ``readable`` pairs each trigger with the path whose blob holds its text.
+    ``unreadable`` maps each trigger committed as a link this scan cannot follow to the
+    path the walk got through, so a caller can ask whether the DIFF is what broke it.
+    ``aliases`` maps a real path to every link name that reaches it, because a trigger
+    invokes a script by whichever name it was given. ``chains`` holds each readable
+    trigger's whole path to that blob, so a repointed link in the MIDDLE of one is a
+    change to the trigger and not an edit to some unrelated file. ``broken_links``
+    maps each tracked link whose chain never reaches a tracked regular file to the
+    paths that walk passed — what runs under such a name is outside this scan's
+    sight, and the walk is what says whether the DIFF broke it."""
+
+    readable: list[tuple[str, str]]
+    unreadable: dict[str, list[str]]
+    aliases: dict[str, list[str]]
+    chains: dict[str, list[str]]
+    broken_links: dict[str, list[str]]
+
+
+def git_trigger_paths(repo: str, branch: str) -> BranchTriggers:
+    """Every auto-run config that EXISTS on the branch, changed by this diff or not,
+    paired with the path whose blob holds its text.
+
+    The two differ for a trigger committed as a SYMLINK: git stores the target's NAME
+    as the link's blob, so reading the link yields a path string and no commands at
+    all. Reading the target instead is what stops a link being the way past a trigger
+    the diff never touched. A target the branch does not carry keeps the link, whose
+    real text this scan cannot see — it reads the tree, never the host filesystem, so
+    that trigger is REPORTED rather than cleared.
+    """
+    listing = subprocess.run(
+        ["git", "-C", repo, "ls-tree", "-r", "-z", branch],
+        check=True,
+        capture_output=True,
+        encoding="utf-8",
+        # A path git holds is bytes, and not every byte sequence is UTF-8. `replace`
+        # would turn an undecodable byte into U+FFFD, and the `git show` built from
+        # that name then names no file and exits non-zero, ending the whole scan.
+        # `surrogateescape` round-trips those bytes back through `os.fsencode`.
+        errors="surrogateescape",
+    ).stdout
+    modes: dict[str, str] = {}
+    # `-z` is what makes the basename test below true. Without it `core.quotePath`
+    # (on by default) wraps any path holding a non-ASCII or control byte in quotes
+    # with backslash escapes, so `pkgé/package.json` arrives as `package.json"` and
+    # matches no trigger name — every trigger under such a directory drops out of
+    # the set, which is this trace's own blind spot restored under another input.
+    for record in listing.split("\0"):
+        if not record:
+            continue
+        meta, _, path = record.partition("\t")
+        modes[path] = meta.split(" ", 1)[0]
+    targets = _link_targets(repo, branch, modes)
+    dirs = _tracked_dirs(modes)
+    readable: list[tuple[str, str]] = []
+    unreadable: dict[str, list[str]] = {}
+    chains: dict[str, list[str]] = {}
+    for path in modes:
+        if not autorun_trigger_path(path):
+            continue
+        chain, resolved = _resolved_chain(path, modes, targets, dirs)
+        # A chain ending on a DIRECTORY resolves for the alias map below, but there is
+        # no blob to read there, so a trigger that reaches one is still unreadable.
+        if not resolved or chain[-1] not in modes:
+            unreadable[path] = chain
+        else:
+            readable.append((path, chain[-1]))
+            chains[path] = chain
+    # A link's own name is what a trigger writes, so the executable it reaches has to
+    # be findable under that name too.
+    aliases: dict[str, list[str]] = {}
+    broken: dict[str, list[str]] = {}
+    for path in targets:
+        # A resolved link's chain always ends on a regular file or a tracked directory,
+        # never on the link itself — a self-loop returns unresolved.
+        chain, resolved = _resolved_chain(path, modes, targets, dirs)
+        if not resolved:
+            broken[path] = chain
+        elif chain[-1] in dirs:
+            _alias_under_dir(aliases, path, chain[-1], modes)
+        else:
+            aliases.setdefault(chain[-1], []).append(path)
+    return BranchTriggers(
+        readable=readable,
+        unreadable=unreadable,
+        aliases=aliases,
+        chains=chains,
+        broken_links=broken,
+    )
+
+
+def _tracked_dirs(modes: dict[str, str]) -> set[str]:
+    """Every directory the branch's tracked paths sit under. ``git ls-tree -r`` lists
+    blobs alone, so a link that targets a directory reaches a name no listing carries —
+    and reading that as a broken chain loses every file under it."""
+    out: set[str] = set()
+    for path in modes:
+        parent = posixpath.dirname(path)
+        while parent and parent not in out:
+            out.add(parent)
+            parent = posixpath.dirname(parent)
+    return out
+
+
+def _alias_under_dir(
+    aliases: dict[str, list[str]], link: str, target: str, modes: dict[str, str]
+) -> None:
+    """Record the name each file under ``target`` also answers to through ``link``.
+
+    A link to a directory renames the whole subtree: with ``bin -> tools`` tracked, a
+    # allow-dangling-path: illustrative operands
+    trigger that runs ``bin/a.sh`` runs the file the diff names ``tools/a.sh``, and an
+    alias map holding only ``bin`` matches neither."""
+    for path in modes:
+        if path.startswith(target + "/"):
+            aliases.setdefault(path, []).append(
+                posixpath.join(link, path[len(target) + 1 :])
+            )
+
+
+def _link_targets(repo: str, branch: str, modes: dict[str, str]) -> dict[str, str]:
+    """Every tracked symlink's blob text — the target name it holds.
+
+    Read in ONE `git cat-file --batch`: resolving a chain needs each link's text, and a
+    process per link made a tree carrying many links pay a subprocess each at teardown.
+    `-z` takes the request names NUL-separated, so a path holding a newline still asks
+    for the object it names."""
+    links = [p for p, mode in modes.items() if mode == SYMLINK_MODE]
+    if not links:
+        return {}
+    out = subprocess.run(
+        ["git", "-C", repo, "cat-file", "--batch", "-z"],
+        input=os.fsencode("".join(f"{branch}:{p}\0" for p in links)),
+        check=True,
+        capture_output=True,
+    ).stdout
+    # Each answer is `<oid> <type> <size>\n`, then exactly <size> bytes, then a newline.
+    # git answers in request order, which is what pairs a body back with its link.
+    targets: dict[str, str] = {}
+    at = 0
+    for path in links:
+        end = out.index(b"\n", at)
+        size = int(out[at:end].split(b" ")[2])
+        body = out[end + 1 : end + 1 + size]
+        targets[path] = os.fsdecode(body)
+        at = end + 1 + size + 1
+    return targets
+
+
+def _resolved_chain(
+    path: str, modes: dict[str, str], targets: dict[str, str], dirs: set[str]
+) -> tuple[list[str], bool]:
+    """Every path a chain of symlinks from ``path`` passes through, and whether the walk
+    reached a regular file or a tracked directory.
+
+    The whole chain, not only its end: repointing a link in the MIDDLE changes what the
+    root runs, and git records that edit against the middle link's own name. A walk that
+    stops carries the name it stopped ON, which is the path a diff would name if the
+    branch is what broke the chain.
+
+    One hop is not enough: a link to a link parses as the SECOND link's target name,
+    which names no commands, so a two-link chain is the same way past a trigger that
+    one hop closes. A chain that leaves the branch or repeats itself resolves to
+    NOTHING, not to the link it stopped on — this scan reads the tree, never the host
+    filesystem, so it cannot see that text. Reading the stuck link would let the caller
+    take a harmless target NAME for the trigger's text. Every hop adds a path to
+    ``seen``, so the walk always terminates."""
+    seen = {path}
+    chain = [path]
+    while modes.get(path) == SYMLINK_MODE:
+        # The blob IS the target name, byte for byte and with no trailing newline, so
+        # stripping it renames a target whose own name carries leading or trailing
+        # whitespace — the lookup then misses and the link stays unread.
+        target = posixpath.normpath(
+            posixpath.join(posixpath.dirname(path), targets[path])
+        )
+        chain.append(target)
+        if target in dirs:
+            return chain, True
+        if target not in modes or target in seen:
+            return chain, False
+        seen.add(target)
+        path = target
+    return chain, True

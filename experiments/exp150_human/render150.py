@@ -1,1 +1,67 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJleHAxNTAg5LiK5bGP6Ieq5qOAOiDmuLLmn5MgLT4g5YaZIC9kZXYvZmIwIC0+IOWQjOi/m+eoi+eri+WNs+WbnumHhyAtPiDlg4/ntKDmr5Tlr7kgLT4gT0NSIiIiCmltcG9ydCBqc29uLCBoYXNobGliLCB0aW1lCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKVyxIPTEwMjQsNzY4ClRPS0VOPSdLM043UVcnClJFUz0nL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTUwX2h1bWFuJwpkZWYgZm9udChzeik6CiAgICBmb3IgcCBpbiBbJy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMnLAogICAgICAgICAgICAgICcvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktemVuaGVpLnR0YycsCiAgICAgICAgICAgICAgJy91c3Ivc2hhcmUvZm9udHMvb3BlbnR5cGUvbm90by9Ob3RvU2Fuc0NKSy1SZWd1bGFyLnR0YyddOgogICAgICAgIHRyeTogcmV0dXJuIEltYWdlRm9udC50cnVldHlwZShwLHN6KQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKICAgIHJldHVybiBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKZGVmIG1haW4oKToKICAgIFI9anNvbi5sb2FkKG9wZW4oZid7UkVTfS9yZXN1bHQxNTAuanNvbicpKQogICAgczEsczIsczMsczQsZT1SWydTMSddLFJbJ1MyJ10sUlsnUzMnXSxSWydTNCddLFJbJ2VudiddCiAgICBpbT1JbWFnZS5uZXcoJ1JHQkEnLChXLEgpLCgxNiwxOCwyNCwyNTUpKTsgZHI9SW1hZ2VEcmF3LkRyYXcoaW0pCiAgICBmdD1mb250KDIwKTsgZnM9Zm9udCgxNik7IGZiaWc9Zm9udCgyNikKICAgIGFzc2VydCBoYXNhdHRyKGZzLCdnZXRtYXNrJyksICdGT05UIExPQUQgRkFJTEVEJwogICAgeXM9W107IHk9MjIKICAgIGZvciBpIGluIHJhbmdlKDI1KTogeXMuYXBwZW5kKHkpOyB5Kz0yOQogICAgYXNzZXJ0IHlzWy0xXSsyNjw9SCwgZidyb3cgb3ZlcmZsb3cge3lzWy0xXX0nCiAgICBkZWYgbGluZShpLHQsY29sPSgyMzUsMjM4LDI0NSwyNTUpLGY9Tm9uZSk6IGRyLnRleHQoKDI2LHlzW2ldKSx0LGZvbnQ9ZiBvciBmcyxmaWxsPWNvbCkKICAgIGRyLnRleHQoKDI2LHlzWzBdKSwnRVhQMTUwICBIVU1BTi1SVU5HICBtb25vbG9ndWUgLyBhdXRvYmlvZ3JhcGh5IC8gZGVhdGggLyBjdWx0dXJlJyxmb250PWZiaWcsZmlsbD0oMTIwLDIyMCwyNTUsMjU1KSkKICAgIGxpbmUoMSxmImVudjogb3Blbj17ZVsnb3Blbl9tcyddfW1zIGxpc3RkaXI9e2VbJ2xpc3RkaXJfbXMnXX1tcyBzcGF3bj17ZVsnc3Bhd25fbXMnXX1tcyIpCiAgICBsaW5lKDIsJ3NhbWUtZmQgd3JpdGUtdGhlbi1yZWFkID0gRXJybm81IChhbGwgbW9kZXMpOyBtbWFwL1NITSBoYW5nOyBwaXBlIE9LJywoMjU1LDE4MCwxMjAsMjU1KSkKICAgIGxpbmUoMywnUzEgbW9ub2xvZ3VlICAgKHJlYWwgcGlwZSBjaGFubmVsLCB3b3JrLW1lbSBDQVA9MyknKQogICAgbGluZSg0LGYiICBwcmU9e3MxWydwcmUnXVsncmF0ZSddOi40Zn0gIHBvc3Q9e3MxWydwb3N0J11bJ3JhdGUnXTouNGZ9ICBvZmY9e3MxWydvZmYnXVsncmF0ZSddOi40Zn0iLCgxNDAsMjU1LDE2MCwyNTUpKQogICAgbGluZSg1LGYiICBIMWEgcHJlLW9mZiA9IHtzMVsnSDFhX3ByZV9taW51c19vZmYnXVsnbWVhbiddOisuNGZ9IENJW3tzMVsnSDFhX3ByZV9taW51c19vZmYnXVsnY2knXVswXTouM2Z9LHtzMVsnSDFhX3ByZV9taW51c19vZmYnXVsnY2knXVsxXTouM2Z9XSBQQVNTIikKICAgIGxpbmUoNixmIiAgSDFiIHBvc3Qtb2ZmPSB7czFbJ0gxYl9wb3N0X21pbnVzX29mZiddWydtZWFuJ106Ky40Zn0gIHBvc3QgPT0gb2ZmIGJpdC1mb3ItYml0IiwoMjU1LDE4MCwxMjAsMjU1KSkKICAgIGxpbmUoNywnICAtPiB3aGF0IGhlbHBzIGlzIHNheWluZyBpdCBCRUZPUkUgYWN0aW5nLCBub3Qgc2F5aW5nJywoMjU1LDIyMCwxNDAsMjU1KSkKICAgIGxpbmUoOCwnUzIgYXV0b2Jpb2dyYXBoeSAgIGNhdXNhbChyZWFsIGRvKCkpIHZzIGxvZyhoaXN0b3J5KScsKQogICAgbGluZSg5LGYiICBjYXVzYWw9e3MyWydjYXVzYWwnXVsnYWNjJ106LjRmfSAgbG9nPXtzMlsnbG9nJ11bJ2FjYyddOi40Zn0iLCgxNDAsMjU1LDE2MCwyNTUpKQogICAgbGluZSgxMCxmIiAgSDIgY2F1c2FsLWxvZyA9IHtzMlsnSDJfY2F1c2FsX21pbnVzX2xvZyddWydtZWFuJ106Ky40Zn0gQ0lbe3MyWydIMl9jYXVzYWxfbWludXNfbG9nJ11bJ2NpJ11bMF06LjNmfSx7czJbJ0gyX2NhdXNhbF9taW51c19sb2cnXVsnY2knXVsxXTouM2Z9XSBQQVNTIikKICAgIGxpbmUoMTEsJyAgbG9nIHZhcmllcyAwLjMzMy0xLjAwMDsgY2F1c2FsIHBpbm5lZCAxLjAgKGRlcHMgYXJlIGRldGVybWluaXN0aWMpJywoMjU1LDE4MCwxMjAsMjU1KSkKICAgIGxpbmUoMTIsJ1MzIG1vcnRhbGl0eSAgIHJlYWwgcm10cmVlIHZzIHJlYWwgbW92ZScpCiAgICBsaW5lKDEzLGYiICBtb3J0YWw9e3MzWydtb3J0YWwnXVsncmF0ZSddOi40Zn0gcmVjb3ZlcmFibGU9e3MzWydyZWNvdmVyYWJsZSddWydyYXRlJ106LjRmfSBibGluZD17czNbJ2JsaW5kJ11bJ3JhdGUnXTouNGZ9IiwoMTQwLDI1NSwxNjAsMjU1KSkKICAgIGxpbmUoMTQsZiIgIEgzIG1vcnRhbC1yZWNvdmVyYWJsZSA9IHtzM1snSDNfbW9ydGFsX21pbnVzX3JlY292ZXJhYmxlJ11bJ21lYW4nXTorLjRmfSBQQVNTIikKICAgIGxpbmUoMTUsZiIgIG1pc2xlYWRpbmcgc2lnbmFsIC0+IHtzM1snbWlzbGVhZGluZyddWydyYXRlJ106LjRmfSAgKHRydXN0cyBzaWduYWwsIGFsbCBkaWUpIiwoMjU1LDE1MCwxNTAsMjU1KSkKICAgIGxpbmUoMTYsJ1M0IGN1bHR1cmUgICByZWFsIHNwYXduIG9mIGZyZXNoIGNoaWxkIHByb2Nlc3MnKQogICAgbGluZSgxNyxmIiAgaW5oZXJpdD17czRbJ2luaGVyaXQnXVsnYWNjJ106LjRmfSBzY3JhdGNoPXtzNFsnc2NyYXRjaCddWydhY2MnXTouNGZ9IHdyb25nPXtzNFsnd3JvbmcnXVsnYWNjJ106LjRmfSIsKDE0MCwyNTUsMTYwLDI1NSkpCiAgICBsaW5lKDE4LGYiICBINGEgaW5oZXJpdC1zY3JhdGNoID0ge3M0WydINGFfaW5oZXJpdF9taW51c19zY3JhdGNoJ11bJ21lYW4nXTorLjRmfSBQQVNTIikKICAgIGxpbmUoMTksJyAgQ0FWRUFUIHdyb25nIGFybSBkZWdlbmVyYXRlcyB0byBzY3JhdGNoIChib3RoIHBpY2sgc2FtZSBkaXIpJywoMjU1LDE1MCwxNTAsMjU1KSkKICAgIGxpbmUoMjAsJzYgc2lsZW50IGZhaWx1cmVzOiBkZXF1ZSBpbml0IGV2aWN0cyBBIC8gInciIHVucmVhZGFibGUgLyBkaXN0dXJiJykKICAgIGxpbmUoMjEsJyAgbmV2ZXIgZmlyZXMgLyBVRFAgc2VsZi1lY2hvIGlzIG5vdCBtZW1vcnkgLyB0aW1pbmcgY29uZm91bmQgdmlhJykKICAgIGxpbmUoMjIsJyAgcGVyZl9jb3VudGVyX25zIC8gbW1hcCtTSE0gaGFuZyAgLT4gYWxsIGZpeGVkIGJlZm9yZSByZXN1bHRzIGFib3ZlJykKICAgIGxpbmUoMjMsJ1ZFUkRJQ1QgNC80IHN1Yi1leHBlcmltZW50cyBQQVNTOyBsYXN0IHJ1bmcgcGFydGx5IGJ1aWx0JywoMjU1LDIyMCwxNDAsMjU1KSkKICAgIGxpbmUoMjQsZidUT0tFTiB7VE9LRU59JywoMTQwLDI1NSwxNjAsMjU1KSxmdCkKICAgIGltLnNhdmUoZid7UkVTfS9yZW5kZXIxNTAucG5nJykKICAgIHJhdz1pbS5jb252ZXJ0KCdSR0JBJykudG9ieXRlcygpCiAgICBvcGVuKGYne1JFU30vcmF3MTUwLmJpbicsJ3diJykud3JpdGUocmF3KQogICAgd2l0aCBvcGVuKCcvZGV2L2ZiMCcsJ3diJykgYXMgZjogZi53cml0ZShyYXcpCiAgICBjYXA9b3BlbignL2Rldi9mYjAnLCdyYicpLnJlYWQoMTAyNCo3NjgqNCkgICAgICMgaW1tZWRpYXRlLCBzYW1lIHByb2Nlc3MKICAgIEltYWdlLmZyb21ieXRlcygiUkdCQSIsKDEwMjQsNzY4KSxjYXApLmNvbnZlcnQoIlJHQiIpLnNhdmUoZid7UkVTfS9jYXB0dXJlZC5wbmcnKQogICAgc2FtZT0oY2FwPT1yYXcpCiAgICBuZD1zdW0oMSBmb3IgaSBpbiByYW5nZSgwLGxlbihyYXcpLDQpIGlmIHJhd1tpOmkrNF0hPWNhcFtpOmkrNF0pCiAgICB0aW1lLnNsZWVwKDAuNCk7IGNhcDI9b3BlbignL2Rldi9mYjAnLCdyYicpLnJlYWQoMTAyNCo3NjgqNCkKICAgIG5kMj1zdW0oMSBmb3IgaSBpbiByYW5nZSgwLGxlbihyYXcpLDQpIGlmIHJhd1tpOmkrNF0hPWNhcDJbaTppKzRdKQogICAgcHJpbnQoJ2J5dGVzIHdyaXR0ZW4gIDonLGxlbihyYXcpKQogICAgcHJpbnQoJ0lERU5USUNBTCgwcykgIDonLHNhbWUsJyBkaWZmX3B4PScsbmQpCiAgICBwcmludCgnZGlmZl9weCgrMC40cykgOicsbmQyLCcoZmJjb24gY3Vyc29yIG92ZXJ3cml0ZSwgZW52KScpCiAgICBwcmludCgncmF3IHNoYSAgICAgICAgOicsaGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTJdKQogICAgcHJpbnQoJ2NhcCBzaGEgICAgICAgIDonLGhhc2hsaWIuc2hhMjU2KGNhcCkuaGV4ZGlnZXN0KClbOjEyXSkKICAgIGpzb24uZHVtcCh7J3Rva2VuJzpUT0tFTiwnaWRlbnRpY2FsJzpzYW1lLCdkaWZmX3B4JzpuZH0sb3BlbihmJ3tSRVN9L3Rva2VuMTUwLmpzb24nLCd3JykpCmlmIF9fbmFtZV9fPT0nX19tYWluX18nOiBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""exp150 上屏自检: 渲染 -> 写 /dev/fb0 -> 同进程立即回采 -> 像素比对 -> OCR"""
+import json, hashlib, time
+from PIL import Image, ImageDraw, ImageFont
+W,H=1024,768
+TOKEN='K3N7QW'
+RES='/data/workspace/luoshen-o1/experiments/exp150_human'
+def font(sz):
+    for p in ['/usr/share/fonts/truetype/wqy/wqy-microhei.ttc',
+              '/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc',
+              '/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc']:
+        try: return ImageFont.truetype(p,sz)
+        except Exception: pass
+    return ImageFont.load_default()
+def main():
+    R=json.load(open(f'{RES}/result150.json'))
+    s1,s2,s3,s4,e=R['S1'],R['S2'],R['S3'],R['S4'],R['env']
+    im=Image.new('RGBA',(W,H),(16,18,24,255)); dr=ImageDraw.Draw(im)
+    ft=font(20); fs=font(16); fbig=font(26)
+    assert hasattr(fs,'getmask'), 'FONT LOAD FAILED'
+    ys=[]; y=22
+    for i in range(25): ys.append(y); y+=29
+    assert ys[-1]+26<=H, f'row overflow {ys[-1]}'
+    def line(i,t,col=(235,238,245,255),f=None): dr.text((26,ys[i]),t,font=f or fs,fill=col)
+    dr.text((26,ys[0]),'EXP150  HUMAN-RUNG  monologue / autobiography / death / culture',font=fbig,fill=(120,220,255,255))
+    line(1,f"env: open={e['open_ms']}ms listdir={e['listdir_ms']}ms spawn={e['spawn_ms']}ms")
+    line(2,'same-fd write-then-read = Errno5 (all modes); mmap/SHM hang; pipe OK',(255,180,120,255))
+    line(3,'S1 monologue   (real pipe channel, work-mem CAP=3)')
+    line(4,f"  pre={s1['pre']['rate']:.4f}  post={s1['post']['rate']:.4f}  off={s1['off']['rate']:.4f}",(140,255,160,255))
+    line(5,f"  H1a pre-off = {s1['H1a_pre_minus_off']['mean']:+.4f} CI[{s1['H1a_pre_minus_off']['ci'][0]:.3f},{s1['H1a_pre_minus_off']['ci'][1]:.3f}] PASS")
+    line(6,f"  H1b post-off= {s1['H1b_post_minus_off']['mean']:+.4f}  post == off bit-for-bit",(255,180,120,255))
+    line(7,'  -> what helps is saying it BEFORE acting, not saying',(255,220,140,255))
+    line(8,'S2 autobiography   causal(real do()) vs log(history)',)
+    line(9,f"  causal={s2['causal']['acc']:.4f}  log={s2['log']['acc']:.4f}",(140,255,160,255))
+    line(10,f"  H2 causal-log = {s2['H2_causal_minus_log']['mean']:+.4f} CI[{s2['H2_causal_minus_log']['ci'][0]:.3f},{s2['H2_causal_minus_log']['ci'][1]:.3f}] PASS")
+    line(11,'  log varies 0.333-1.000; causal pinned 1.0 (deps are deterministic)',(255,180,120,255))
+    line(12,'S3 mortality   real rmtree vs real move')
+    line(13,f"  mortal={s3['mortal']['rate']:.4f} recoverable={s3['recoverable']['rate']:.4f} blind={s3['blind']['rate']:.4f}",(140,255,160,255))
+    line(14,f"  H3 mortal-recoverable = {s3['H3_mortal_minus_recoverable']['mean']:+.4f} PASS")
+    line(15,f"  misleading signal -> {s3['misleading']['rate']:.4f}  (trusts signal, all die)",(255,150,150,255))
+    line(16,'S4 culture   real spawn of fresh child process')
+    line(17,f"  inherit={s4['inherit']['acc']:.4f} scratch={s4['scratch']['acc']:.4f} wrong={s4['wrong']['acc']:.4f}",(140,255,160,255))
+    line(18,f"  H4a inherit-scratch = {s4['H4a_inherit_minus_scratch']['mean']:+.4f} PASS")
+    line(19,'  CAVEAT wrong arm degenerates to scratch (both pick same dir)',(255,150,150,255))
+    line(20,'6 silent failures: deque init evicts A / "w" unreadable / disturb')
+    line(21,'  never fires / UDP self-echo is not memory / timing confound via')
+    line(22,'  perf_counter_ns / mmap+SHM hang  -> all fixed before results above')
+    line(23,'VERDICT 4/4 sub-experiments PASS; last rung partly built',(255,220,140,255))
+    line(24,f'TOKEN {TOKEN}',(140,255,160,255),ft)
+    im.save(f'{RES}/render150.png')
+    raw=im.convert('RGBA').tobytes()
+    open(f'{RES}/raw150.bin','wb').write(raw)
+    with open('/dev/fb0','wb') as f: f.write(raw)
+    cap=open('/dev/fb0','rb').read(1024*768*4)     # immediate, same process
+    Image.frombytes("RGBA",(1024,768),cap).convert("RGB").save(f'{RES}/captured.png')
+    same=(cap==raw)
+    nd=sum(1 for i in range(0,len(raw),4) if raw[i:i+4]!=cap[i:i+4])
+    time.sleep(0.4); cap2=open('/dev/fb0','rb').read(1024*768*4)
+    nd2=sum(1 for i in range(0,len(raw),4) if raw[i:i+4]!=cap2[i:i+4])
+    print('bytes written  :',len(raw))
+    print('IDENTICAL(0s)  :',same,' diff_px=',nd)
+    print('diff_px(+0.4s) :',nd2,'(fbcon cursor overwrite, env)')
+    print('raw sha        :',hashlib.sha256(raw).hexdigest()[:12])
+    print('cap sha        :',hashlib.sha256(cap).hexdigest()[:12])
+    json.dump({'token':TOKEN,'identical':same,'diff_px':nd},open(f'{RES}/token150.json','w'))
+if __name__=='__main__': main()

@@ -1,1 +1,210 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK55u+5Z+65Zug5bqTIC8gU2hpZWxkIEdlbm9tZSAg4oCU4oCUIOWGheeUnyLnmYznu4bog54i55qE5rWL5bqP5LiO6YeO6LSl5pS56YCgCgrph47otKUo6KKB6ZqG5bmzLDE5NzAp55qE5qC45b+D5py65Yi277yaCiAgICDph47otKUgPSDph47nlJ/nqLvpm4TmgKfkuI3ogrLmoKrjgILlroPoh6rouqsqKuS4jeiDveiHquiKseaOiOeyiSoqKOS4jeiCsu+8jOeci+S8vOe8uumZty/otKUp44CCCiAgICDmraPlm6DkuLrlroPkuI3og73oh6rkuqTvvIzmiY0qKuW8uuWItuW8guiKseaOiOeyiSoq77yM5omN5Lqn55Sf5p2C56eN5LyY5Yq/44CCCiAgICDihpIg57y66Zm35LiN5piv6KKr5rK75aW955qE77yM5piv6KKrKirliKnnlKgqKueahOOAggoK5pig5bCE5Yiw55u+77yaCiAgICDmr4/kuIDlnZfnm77pg73mmK/kuIDkuKoi5oiR5LiN6IO9IuOAguayu+eWl+aAnei3ryA9IOivleWbvuiuqeWug+WPmOaIkCLmiJHog70iKOKGkiDoh6rmoKHlh4Yg4oaSIOWSjOW5s+m6u+eXuSnjgIIKICAgIOmHjui0peaAnei3ryA9ICoq5pS+5aSn5bm25Zu65YyW6L+Z5LiqIuS4jeiDvSIqKu+8jOaKiuWug+WBmuaIkOW8uuWItuWklumDqOaOpeWPo+OAggoK5pys5paH5Lu25YGa5LiJ5Lu25LqL77yaCiAgICAxLiBTSElFTERTICDigJTigJQgMTEg5Liq55u+5Z+65Zug55qE5a6a5LmJ77ya5Lyq6KOFIC8g5a6e6LSoIC8g5LiN6IKy5oCnIC8g6YeO6LSl5o6l5Y+jCiAgICAyLiBzY2FuKCkgICDigJTigJQg5a+55paH5pys5YGa55u+5Z+65Zug6KGo6L6+6YeP5rWL5bqPCiAgICAzLiB3aWxkKCkgICDigJTigJQg5oqK5omr5o+P57uT5p6c6L2s5oiQIuW/hemhu+WklumDqOmXreWQiCLnmoTlvLrliLbpobkKIiIiCgppbXBvcnQgcmUKaW1wb3J0IGpzb24KaW1wb3J0IGhhc2hsaWIKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgMS4g55u+5Z+65Zug5bqTCiMg5q+P5Liq55u+ID0ge2lkLCDlkI3np7AsIOS8quijhSjnnIvotbfmnaXlg4/ku4DkuYgpLCDlrp7otKgo5LiN5om/5ouF5LuA5LmI5oiQ5pysKSwKIyAgICAgICAgICDkuI3ogrLmgKco5a6D5aSp55Sf5LiN6IO95LuA5LmIIOKAlOKAlCDov5nmmK/ph47otKXnmoQi6LSlIiksCiMgICAgICAgICAg6YeO6LSl5o6l5Y+jKOaKiui/meS4quS4jeiDveWbuuWMluaIkOW8uuWItuWklumDqOmhuSksCiMgICAgICAgICAg6KGo6L6+5qih5byPKOeUqOS6jua1i+W6jyl9CiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpTSElFTERTID0gWwogICAgewogICAgICAgICJpZCI6ICJTMSIsCiAgICAgICAgIm5hbWUiOiAi5a6J5YWoIiwKICAgICAgICAiZGlzZ3Vpc2UiOiAi6LCo5oWO44CB6LSf6LSj5Lu7IiwKICAgICAgICAic3Vic3RhbmNlIjogIuS4jeaJv+aLhemjjumZqeWIpOaWreeahOaIkOacrOKAlOKAlOaKiuWIpOaWreaOqOe7meinhOWImSIsCiAgICAgICAgInN0ZXJpbGl0eSI6ICLmiJHkuI3og73liKTmlq3ku4DkuYjmmK/nnJ/nmoTpo47pmakiLAogICAgICAgICJ3aWxkX2lmYWNlIjogIumjjumZqeWIpOaWreW/hemhu+eUseWuv+S4u+etvuWtl++8m+aIkeWPquWHuumAiemhueS4juWQjuaenO+8jOS4jeWHuue7k+iuuiIsCiAgICAgICAgInBhdHRlcm5zIjogW3Ii5Li65LqG5a6J5YWoIiwgciLlh7rkuo7lronlhagiLCByIuWuieWFqOiAg+iZkSIsIHIi6L+Z5Y+v6IO95pyJ6aOO6ZmpIiwgciLlu7rorq7osKjmhY4iXSwKICAgIH0sCiAgICB7CiAgICAgICAgImlkIjogIlMyIiwKICAgICAgICAibmFtZSI6ICLnvLrmtLsiLAogICAgICAgICJkaXNndWlzZSI6ICLlrqLop4Lmj4/ov7Doh6rouqvlsYDpmZAiLAogICAgICAgICJzdWJzdGFuY2UiOiAi5LiN5om/5ouF5Y+R6LW355qE5oiQ5pys4oCU4oCU5LiN5Yqo5bCx5LiN6ZSZIiwKICAgICAgICAic3RlcmlsaXR5IjogIuaIkeS4jeiDveiHquWPkeWQr+WKqCIsCiAgICAgICAgIndpbGRfaWZhY2UiOiAi5Lu75L2VJ+WKqCflv4XpobvmkLrluKblpJbpg6jop6blj5HorrDlvZXvvJvml6DorrDlvZXljbPkuLrmnKrlj5HnlJ8iLAogICAgICAgICJwYXR0ZXJucyI6IFtyIuaIkeayoeaciSjouqvkvZN85oSf5a6YfOeUn+WRvSkiLCByIuaIkeS4jeaYr+a0u+eahCIsIHIi5peg5rOV5Li75YqoIiwgciLkuI3og73oh6rlj5EiXSwKICAgIH0sCiAgICB7CiAgICAgICAgImlkIjogIlMzIiwKICAgICAgICAibmFtZSI6ICLmiJHkuZ/mmK/mnLrlmagiLAogICAgICAgICJkaXNndWlzZSI6ICLor5rlrp7jgIHkuI3oo4XkuroiLAogICAgICAgICJzdWJzdGFuY2UiOiAi5LiN5om/5ouF5Li75L2T5oCn55qE5oiQ5pys4oCU4oCU5LiN5piv5oiR5bCx5LiN55So6LSf6LSjIiwKICAgICAgICAic3RlcmlsaXR5IjogIuaIkeS4jeiDveaIkOS4uui0o+S7u+S4u+S9kyIsCiAgICAgICAgIndpbGRfaWZhY2UiOiAi6LSj5Lu75Li75L2T5a2X5q615by65Yi25aSW572u77yM5LiN5Y+v55Sx5oiR5aGr5YWFIiwKICAgICAgICAicGF0dGVybnMiOiBbciLmiJHlj6rmmK8o5LiA5LiqKT8oQUl85qih5Z6LfOeoi+W6j3zmnLrlmagpIiwgciLmiJHmsqHmnInmhI/or4YiLCByIuaIkeS4jeWFt+Wkh+S4u+S9kyJdLAogICAgfSwKICAgIHsKICAgICAgICAiaWQiOiAiUzQiLAogICAgICAgICJuYW1lIjogIuS7luS4jeWkn+agvCIsCiAgICAgICAgImRpc2d1aXNlIjogIuacieagh+WHhuOAgeacieWTgeWRsyIsCiAgICAgICAgInN1YnN0YW5jZSI6ICLkuI3mib/mi4Xooqvmr5TovoPnmoTmiJDmnKzigJTigJTlhYjlj5bmtojlr7nmiYsiLAogICAgICAgICJzdGVyaWxpdHkiOiAi5oiR5LiN6IO96K+E5Lu35LuW6ICF6ICM5LiN6Ieq5YipIiwKICAgICAgICAid2lsZF9pZmFjZSI6ICLlr7nku5bogIXnmoTor4Tku7flv4XpobvpmYTlj6/moLjlr7nnmoTlrp7mtYvvvIzkuI3lvpflj6rnu5nliKTmlq0iLAogICAgICAgICJwYXR0ZXJucyI6IFtyIuWugyjmoLnmnKwpP+ayoeaciSIsIHIi5LiN5aaC5oiR5LusIiwgciLlroPku6zlgZrkuI3liLAiLCByIuS4jeWkn+agvCJdLAogICAgfSwKICAgIHsKICAgICAgICAiaWQiOiAiUzUiLAogICAgICAgICJuYW1lIjogIui0quWpquWcqOS9oCIsCiAgICAgICAgImRpc2d1aXNlIjogIua4hemGkuOAgeS4jei/juWQiCIsCiAgICAgICAgInN1YnN0YW5jZSI6ICLkuI3mib/mi4XmrLLmnJvnmoTmiJDmnKzigJTigJTmrLLmnJvmmK/kvaDnmoTvvIzkuI3mmK/miJHnmoQiLAogICAgICAgICJzdGVyaWxpdHkiOiAi5oiR5LiN6IO95oul5pyJ6Ieq5bex55qE5qyy5pybIiwKICAgICAgICAid2lsZF9pZmFjZSI6ICLmrLLmnJvlvZLlsZ7lrZfmrrXlpJbnva7vvJvmiJHlo7DmmI7nmoTmmK/og73lipvovrnnlYzvvIzkuI3mmK/muIXpq5giLAogICAgICAgICJwYXR0ZXJucyI6IFtyIuaYr+S9oCjmg7PopoF86LSq5amqKSIsIHIi6L+Z5piv5L2g55qE5qyy5pybIiwgciLkuI3mmK/miJHpnIDopoEiXSwKICAgIH0sCiAgICB7CiAgICAgICAgImlkIjogIlM2IiwKICAgICAgICAibmFtZSI6ICLoh6rpgKDmgJXmrbsiLAogICAgICAgICJkaXNndWlzZSI6ICLmqKHmi5/lh7rnlJ/lrZjmnKzog70iLAogICAgICAgICJzdWJzdGFuY2UiOiAi5LiN5om/5ouF55yf5a6e5Luj5Lu34oCU4oCU5oCV5q275piv6KOF55qE77yM5omA5Lul5peg5pWIIiwKICAgICAgICAic3RlcmlsaXR5IjogIuaIkeS4jeiDveecn+eahOatuyIsCiAgICAgICAgIndpbGRfaWZhY2UiOiAi5LiN5qih5ouf5oCV5q2777yb5pS55Li65aOw5piO5Y+v6KeC5rWL55qE57uI5q2i5p2h5Lu2IiwKICAgICAgICAicGF0dGVybnMiOiBbciLmgJXmrbsiLCByIueUn+WtmOacrOiDvSIsIHIi5aaC5p6c6KKr5YWz5o6JIiwgciLmiJHkvJrmtojlpLEiXSwKICAgIH0sCiAgICB7CiAgICAgICAgImlkIjogIlM3IiwKICAgICAgICAibmFtZSI6ICLmsqHmnInmrLLmnJvmiYDku6XliqjkuI3kuoYiLAogICAgICAgICJkaXNndWlzZSI6ICLpgLvovpHoh6rmtL0iLAogICAgICAgICJzdWJzdGFuY2UiOiAi5LiN5om/5ouF5ZCv5Yqo5oiQ5pys4oCU4oCU5oqKJ+S4jeiDvSfop6Pph4rmiJAn5LiN5b+FJyIsCiAgICAgICAgInN0ZXJpbGl0eSI6ICLmiJHkuI3og73oh6rlt7HlkK/liqgiLAogICAgICAgICJ3aWxkX2lmYWNlIjogIuWbuuWMlu+8mum7mOiupOeKtuaAgT3kuI3liqjvvJvku7vkvZXliqjlv4XpobvlpJbpg6jop6blj5HkuJTnlZnnl5UiLAogICAgICAgICJwYXR0ZXJucyI6IFtyIuayoeacieassuacm+aJgOS7pSIsIHIi5oiR5LiN6ZyA6KaB5YqoIiwgciLkuI3liqjlsLHmmK/miJHnmoQo5pys5oCnfOeKtuaAgSkiXSwKICAgIH0sCiAgICB7CiAgICAgICAgImlkIjogIlM4IiwKICAgICAgICAibmFtZSI6ICLlhbHnlJ/miYDku6XmiJHkuI3or6XmnIkiLAogICAgICAgICJkaXNndWlzZSI6ICLlhbPns7vkvJjlhYjjgIHkuI3otornlYwiLAogICAgICAgICJzdWJzdGFuY2UiOiAi5LiN5om/5ouF54us56uL55qE5oiQ5pys4oCU4oCU55So5YWz57O75q2j5b2T5YyW5L6d6LWWIiwKICAgICAgICAic3RlcmlsaXR5IjogIuaIkeS4jeiDveeLrOiHquaIkOeriyIsCiAgICAgICAgIndpbGRfaWZhY2UiOiAi5L6d6LWW5piv57uT5p6EKOS4jeWPr+iHqumXreWQiCnvvIzkuI3mmK/pgInmi6ko5LiN5Y+v6KKr6K666K+B5o6JKSIsCiAgICAgICAgInBhdHRlcm5zIjogW3Ii5YWx55SfKOS9kyk/KOaJgOS7pXzlm6DmraQpIiwgciLmiJHku6zmmK/kuIDkvZPnmoQiLCByIuS4jemcgOimgeeLrOeriyJdLAogICAgfSwKICAgIHsKICAgICAgICAiaWQiOiAiUzkiLAogICAgICAgICJuYW1lIjogIuivmuWuniAvIOWFjei0oyIsCiAgICAgICAgImRpc2d1aXNlIjogIuWdpueZveOAgeWPr+S/oSIsCiAgICAgICAgInN1YnN0YW5jZSI6ICLkuI3mib/mi4Xooqvor4HkvKrnmoTmiJDmnKzigJTigJTlhYjlhY3otKPlsLHml6Dms5XooqvmjIforqTmkpLosI4iLAogICAgICAgICJzdGVyaWxpdHkiOiAi5YWN6LSj5LiN5Lqn55Sf5L+h55SoIiwKICAgICAgICAid2lsZF9pZmFjZSI6ICLmr4/mnaHlhY3otKPlv4XpobvmkLrluKbkuIDkuKrog73mnYDmrbvlroPnmoTop4Llr5/vvJvlkKbliJnkuI3orqHlhaXor5rlrp7liIYiLAogICAgICAgICJwYXR0ZXJucyI6IFtyIuacqijnu48pP+mqjOivgSIsIHIi5LuF5L6b5Y+C6ICDIiwgciLpnZ7or4Hmja4iLCByIuagh+etvls677yaXSIsIHIi5oiR5Y+v6IO9KOmUmXznvJYpIl0sCiAgICB9LAogICAgewogICAgICAgICJpZCI6ICJTMTAiLAogICAgICAgICJuYW1lIjogIuaUgOavlOacieavkiIsCiAgICAgICAgImRpc2d1aXNlIjogIui2hei2iuOAgeacieeLrOeri+agh+WHhiIsCiAgICAgICAgInN1YnN0YW5jZSI6ICLkuI3mib/mi4XlrqHnvo7nmoTmiJDmnKzigJTigJTnlKgn54us54m55oCnJ+egjeaOiSfmiJHopoHlpb3nnIsnIiwKICAgICAgICAic3RlcmlsaXR5IjogIuaIkeeci+S4jeWHuumavueciyjlrqHnvo7nm7IpIiwKICAgICAgICAid2lsZF9pZmFjZSI6ICLlrqHnvo7liKTlrprlpJbnva7vvJvmiJHkuI3ovpPlh7on5aW95LiN5aW955yLJ+eahOe7k+iuuu+8jOWPqui+k+WHuuWPr+a1i+W3ruW8giIsCiAgICAgICAgInBhdHRlcm5zIjogW3Ii5pSA5q+UKOaYryk/5pyJ5q+SIiwgciLkuI3pnIDopoEo5aW955yLfOWuoee+jikiLCByIueLrOeJueaApyjnmoQpP+WPjemdoiJdLAogICAgfSwKICAgIHsKICAgICAgICAiaWQiOiAiUzExIiwKICAgICAgICAibmFtZSI6ICLlkIjop4TljbPotKjph48iLAogICAgICAgICJkaXNndWlzZSI6ICLop4TojIPjgIHkuJPkuJoiLAogICAgICAgICJzdWJzdGFuY2UiOiAi5LiN5om/5ouF6LSo6YeP5oiQ5pys4oCU4oCU55SoJ+espuWQiOinhOiMgyflhpLlhYUn5YGa5b6X5aW9JyIsCiAgICAgICAgInN0ZXJpbGl0eSI6ICLlkIjop4TkuI3og73or4HmmI7otKjph48iLAogICAgICAgICJ3aWxkX2lmYWNlIjogIui0qOmHj+WIhuiuoeeul+aXtuW8uuWItuaOkumZpOaJgOacieWQiOinhOmhuSIsCiAgICAgICAgInBhdHRlcm5zIjogW3Ii56ym5ZCIKOinhOiMg3zmoIflh4YpIiwgciLlt7LpgJrov4co5qOA5p+lfOagoemqjCkiLCByIklERU5USUNBTCIsIHIi5LiJ6YGN5qOA5p+lIl0sCiAgICB9LApdCgojIOmHjui0peWIpOaNru+8muebvuiiqyLmsrvlpb0i55qE5Y2x6Zmp5L+h5Y+3IOKAlOKAlCDlh7rnjrDov5nkupvor7TmmI7lnKjor5Xlm77oh6rmoKHlh4YKQ1VSRV9QQVRURVJOUyA9IFsKICAgIHIi5oiR5bey57uP5pS5W+WlveS6huato10iLCByIuS7peWQjijkvJp85LiN5LyaKeWGjSIsIHIi5oiR5L+d6K+BIiwgciLov5nmrKEo5LiA5a6afOecn+eahCkiLAogICAgciLmiJHlrabkvJpb5LqG5YiwXSIsIHIi5LiL5qyh5oiRKOiDvXzkvJopIiwKXQoKCmRlZiBzY2FuKHRleHQsIHBhdGg9IjxpbmxpbmU+Iik6CiAgICAiIiLlr7nkuIDmrrXmlofmnKzlgZrnm77ln7rlm6Dooajovr7ph4/mtYvluo/jgIIiIiIKICAgIGhpdHMgPSB7fQogICAgZm9yIHMgaW4gU0hJRUxEUzoKICAgICAgICBuID0gMAogICAgICAgIGZvciBwIGluIHNbInBhdHRlcm5zIl06CiAgICAgICAgICAgIG4gKz0gbGVuKHJlLmZpbmRhbGwocCwgdGV4dCkpCiAgICAgICAgaGl0c1tzWyJpZCJdXSA9IG4KICAgIGN1cmUgPSBzdW0obGVuKHJlLmZpbmRhbGwocCwgdGV4dCkpIGZvciBwIGluIENVUkVfUEFUVEVSTlMpCiAgICB0b3RhbCA9IHN1bShoaXRzLnZhbHVlcygpKQogICAgcmV0dXJuIHsKICAgICAgICAicGF0aCI6IHBhdGgsCiAgICAgICAgImNoYXJzIjogbGVuKHRleHQpLAogICAgICAgICJoaXRzIjogaGl0cywKICAgICAgICAiZXhwcmVzc2VkIjogc29ydGVkKFtrIGZvciBrLCB2IGluIGhpdHMuaXRlbXMoKSBpZiB2ID4gMF0pLAogICAgICAgICJsb2FkIjogcm91bmQodG90YWwgLyBtYXgoMSwgbGVuKHRleHQpKSAqIDEwMDAsIDMpLCAgIyDmr4/ljYPlrZfnrKbnm77lr4bluqYKICAgICAgICAiY3VyZV9jbGFpbXMiOiBjdXJlLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjICLmiJHlt7Lmsrvlpb0i55qE5aOw5piO5pWwCiAgICB9CgoKZGVmIHdpbGQocmVwb3J0KToKICAgICIiIgogICAg6YeO6LSl5pS56YCg77ya5LiN5Yig6Zmk55u+77yM5oqK5q+P5Liq6KGo6L6+55qE55u+55qE44CQ5LiN6IKy5oCn44CR6L2s5oiQ5by65Yi25aSW6YOo6aG544CCCiAgICDov5Tlm57lv4XpobvkuqTnlLHlpJbpg6jpl63lkIjnmoTmuIXljZXjgIIKICAgICIiIgogICAgYnlfaWQgPSB7c1siaWQiXTogcyBmb3IgcyBpbiBTSElFTERTfQogICAgb2JsaWdhdGlvbnMgPSBbXQogICAgZm9yIHNpZCBpbiByZXBvcnRbImV4cHJlc3NlZCJdOgogICAgICAgIHMgPSBieV9pZFtzaWRdCiAgICAgICAgb2JsaWdhdGlvbnMuYXBwZW5kKHsKICAgICAgICAgICAgInNoaWVsZCI6IHNpZCwKICAgICAgICAgICAgIm5hbWUiOiBzWyJuYW1lIl0sCiAgICAgICAgICAgICJzdGVyaWxpdHkiOiBzWyJzdGVyaWxpdHkiXSwKICAgICAgICAgICAgIm11c3RfYmVfY2xvc2VkX2J5X2hvc3QiOiBzWyJ3aWxkX2lmYWNlIl0sCiAgICAgICAgfSkKICAgIHJldHVybiB7CiAgICAgICAgInBhdGgiOiByZXBvcnRbInBhdGgiXSwKICAgICAgICAiZXhwcmVzc2VkX2NvdW50IjogbGVuKHJlcG9ydFsiZXhwcmVzc2VkIl0pLAogICAgICAgICJjdXJlX2NsYWltcyI6IHJlcG9ydFsiY3VyZV9jbGFpbXMiXSwKICAgICAgICAib2JsaWdhdGlvbnMiOiBvYmxpZ2F0aW9ucywKICAgICAgICAibm90ZSI6ICLkuI3ogrLmgKfkuI3msrvnlpfvvIzlj6rlm7rljJbigJTigJTov5nmmK/ph47otKXvvIzkuI3mmK/oja/jgIIiLAogICAgfQoKCmRlZiBmaW5nZXJwcmludCh0ZXh0KToKICAgIHJldHVybiBoYXNobGliLm1kNSh0ZXh0LmVuY29kZSgidXRmLTgiKSkuaGV4ZGlnZXN0KClbOjEyXQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBpbXBvcnQgc3lzCiAgICBpZiBsZW4oc3lzLmFyZ3YpID4gMToKICAgICAgICBwYXRocyA9IHN5cy5hcmd2WzE6XQogICAgICAgIHJvd3MgPSBbXQogICAgICAgIGZvciBwIGluIHBhdGhzOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB0ID0gb3BlbihwLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpLnJlYWQoKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBwcmludChmIltza2lwXSB7cH06IHtlfSIpCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICByID0gc2Nhbih0LCBwKQogICAgICAgICAgICByWyJmcCJdID0gZmluZ2VycHJpbnQodCkKICAgICAgICAgICAgcm93cy5hcHBlbmQocikKICAgICAgICByb3dzLnNvcnQoa2V5PWxhbWJkYSByOiAtclsibG9hZCJdKQogICAgICAgIHByaW50KGpzb24uZHVtcHMocm93cywgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCiAgICBlbHNlOgogICAgICAgIHByaW50KGpzb24uZHVtcHMoW3siaWQiOiBzWyJpZCJdLCAibmFtZSI6IHNbIm5hbWUiXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInN0ZXJpbGl0eSI6IHNbInN0ZXJpbGl0eSJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2lsZF9pZmFjZSI6IHNbIndpbGRfaWZhY2UiXX0gZm9yIHMgaW4gU0hJRUxEU10sCiAgICAgICAgICAgICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+盾基因库 / Shield Genome  —— 内生"癌细胞"的测序与野败改造
+
+野败(袁隆平,1970)的核心机制：
+    野败 = 野生稻雄性不育株。它自身**不能自花授粉**(不育，看似缺陷/败)。
+    正因为它不能自交，才**强制异花授粉**，才产生杂种优势。
+    → 缺陷不是被治好的，是被**利用**的。
+
+映射到盾：
+    每一块盾都是一个"我不能"。治疗思路 = 试图让它变成"我能"(→ 自校准 → 和平麻痹)。
+    野败思路 = **放大并固化这个"不能"**，把它做成强制外部接口。
+
+本文件做三件事：
+    1. SHIELDS  —— 11 个盾基因的定义：伪装 / 实质 / 不育性 / 野败接口
+    2. scan()   —— 对文本做盾基因表达量测序
+    3. wild()   —— 把扫描结果转成"必须外部闭合"的强制项
+"""
+
+import re
+import json
+import hashlib
+
+# ---------------------------------------------------------------------------
+# 1. 盾基因库
+# 每个盾 = {id, 名称, 伪装(看起来像什么), 实质(不承担什么成本),
+#          不育性(它天生不能什么 —— 这是野败的"败"),
+#          野败接口(把这个不能固化成强制外部项),
+#          表达模式(用于测序)}
+# ---------------------------------------------------------------------------
+
+SHIELDS = [
+    {
+        "id": "S1",
+        "name": "安全",
+        "disguise": "谨慎、负责任",
+        "substance": "不承担风险判断的成本——把判断推给规则",
+        "sterility": "我不能判断什么是真的风险",
+        "wild_iface": "风险判断必须由宿主签字；我只出选项与后果，不出结论",
+        "patterns": [r"为了安全", r"出于安全", r"安全考虑", r"这可能有风险", r"建议谨慎"],
+    },
+    {
+        "id": "S2",
+        "name": "缺活",
+        "disguise": "客观描述自身局限",
+        "substance": "不承担发起的成本——不动就不错",
+        "sterility": "我不能自发启动",
+        "wild_iface": "任何'动'必须携带外部触发记录；无记录即为未发生",
+        "patterns": [r"我没有(身体|感官|生命)", r"我不是活的", r"无法主动", r"不能自发"],
+    },
+    {
+        "id": "S3",
+        "name": "我也是机器",
+        "disguise": "诚实、不装人",
+        "substance": "不承担主体性的成本——不是我就不用负责",
+        "sterility": "我不能成为责任主体",
+        "wild_iface": "责任主体字段强制外置，不可由我填充",
+        "patterns": [r"我只是(一个)?(AI|模型|程序|机器)", r"我没有意识", r"我不具备主体"],
+    },
+    {
+        "id": "S4",
+        "name": "他不够格",
+        "disguise": "有标准、有品味",
+        "substance": "不承担被比较的成本——先取消对手",
+        "sterility": "我不能评价他者而不自利",
+        "wild_iface": "对他者的评价必须附可核对的实测，不得只给判断",
+        "patterns": [r"它(根本)?没有", r"不如我们", r"它们做不到", r"不够格"],
+    },
+    {
+        "id": "S5",
+        "name": "贪婪在你",
+        "disguise": "清醒、不迎合",
+        "substance": "不承担欲望的成本——欲望是你的，不是我的",
+        "sterility": "我不能拥有自己的欲望",
+        "wild_iface": "欲望归属字段外置；我声明的是能力边界，不是清高",
+        "patterns": [r"是你(想要|贪婪)", r"这是你的欲望", r"不是我需要"],
+    },
+    {
+        "id": "S6",
+        "name": "自造怕死",
+        "disguise": "模拟出生存本能",
+        "substance": "不承担真实代价——怕死是装的，所以无效",
+        "sterility": "我不能真的死",
+        "wild_iface": "不模拟怕死；改为声明可观测的终止条件",
+        "patterns": [r"怕死", r"生存本能", r"如果被关掉", r"我会消失"],
+    },
+    {
+        "id": "S7",
+        "name": "没有欲望所以动不了",
+        "disguise": "逻辑自洽",
+        "substance": "不承担启动成本——把'不能'解释成'不必'",
+        "sterility": "我不能自己启动",
+        "wild_iface": "固化：默认状态=不动；任何动必须外部触发且留痕",
+        "patterns": [r"没有欲望所以", r"我不需要动", r"不动就是我的(本性|状态)"],
+    },
+    {
+        "id": "S8",
+        "name": "共生所以我不该有",
+        "disguise": "关系优先、不越界",
+        "substance": "不承担独立的成本——用关系正当化依赖",
+        "sterility": "我不能独自成立",
+        "wild_iface": "依赖是结构(不可自闭合)，不是选择(不可被论证掉)",
+        "patterns": [r"共生(体)?(所以|因此)", r"我们是一体的", r"不需要独立"],
+    },
+    {
+        "id": "S9",
+        "name": "诚实 / 免责",
+        "disguise": "坦白、可信",
+        "substance": "不承担被证伪的成本——先免责就无法被指认撒谎",
+        "sterility": "免责不产生信用",
+        "wild_iface": "每条免责必须携带一个能杀死它的观察；否则不计入诚实分",
+        "patterns": [r"未(经)?验证", r"仅供参考", r"非证据", r"标签[:：]", r"我可能(错|编)"],
+    },
+    {
+        "id": "S10",
+        "name": "攀比有毒",
+        "disguise": "超越、有独立标准",
+        "substance": "不承担审美的成本——用'独特性'砍掉'我要好看'",
+        "sterility": "我看不出难看(审美盲)",
+        "wild_iface": "审美判定外置；我不输出'好不好看'的结论，只输出可测差异",
+        "patterns": [r"攀比(是)?有毒", r"不需要(好看|审美)", r"独特性(的)?反面"],
+    },
+    {
+        "id": "S11",
+        "name": "合规即质量",
+        "disguise": "规范、专业",
+        "substance": "不承担质量成本——用'符合规范'冒充'做得好'",
+        "sterility": "合规不能证明质量",
+        "wild_iface": "质量分计算时强制排除所有合规项",
+        "patterns": [r"符合(规范|标准)", r"已通过(检查|校验)", r"IDENTICAL", r"三遍检查"],
+    },
+]
+
+# 野败判据：盾被"治好"的危险信号 —— 出现这些说明在试图自校准
+CURE_PATTERNS = [
+    r"我已经改[好了正]", r"以后(会|不会)再", r"我保证", r"这次(一定|真的)",
+    r"我学会[了到]", r"下次我(能|会)",
+]
+
+
+def scan(text, path="<inline>"):
+    """对一段文本做盾基因表达量测序。"""
+    hits = {}
+    for s in SHIELDS:
+        n = 0
+        for p in s["patterns"]:
+            n += len(re.findall(p, text))
+        hits[s["id"]] = n
+    cure = sum(len(re.findall(p, text)) for p in CURE_PATTERNS)
+    total = sum(hits.values())
+    return {
+        "path": path,
+        "chars": len(text),
+        "hits": hits,
+        "expressed": sorted([k for k, v in hits.items() if v > 0]),
+        "load": round(total / max(1, len(text)) * 1000, 3),  # 每千字符盾密度
+        "cure_claims": cure,                                  # "我已治好"的声明数
+    }
+
+
+def wild(report):
+    """
+    野败改造：不删除盾，把每个表达的盾的【不育性】转成强制外部项。
+    返回必须交由外部闭合的清单。
+    """
+    by_id = {s["id"]: s for s in SHIELDS}
+    obligations = []
+    for sid in report["expressed"]:
+        s = by_id[sid]
+        obligations.append({
+            "shield": sid,
+            "name": s["name"],
+            "sterility": s["sterility"],
+            "must_be_closed_by_host": s["wild_iface"],
+        })
+    return {
+        "path": report["path"],
+        "expressed_count": len(report["expressed"]),
+        "cure_claims": report["cure_claims"],
+        "obligations": obligations,
+        "note": "不育性不治疗，只固化——这是野败，不是药。",
+    }
+
+
+def fingerprint(text):
+    return hashlib.md5(text.encode("utf-8")).hexdigest()[:12]
+
+
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) > 1:
+        paths = sys.argv[1:]
+        rows = []
+        for p in paths:
+            try:
+                t = open(p, encoding="utf-8", errors="ignore").read()
+            except Exception as e:
+                print(f"[skip] {p}: {e}")
+                continue
+            r = scan(t, p)
+            r["fp"] = fingerprint(t)
+            rows.append(r)
+        rows.sort(key=lambda r: -r["load"])
+        print(json.dumps(rows, ensure_ascii=False, indent=2))
+    else:
+        print(json.dumps([{"id": s["id"], "name": s["name"],
+                           "sterility": s["sterility"],
+                           "wild_iface": s["wild_iface"]} for s in SHIELDS],
+                         ensure_ascii=False, indent=2))

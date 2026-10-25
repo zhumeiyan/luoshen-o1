@@ -1,1 +1,291 @@
-ewogInJvd3MiOiBbCiAgewogICAic3RlcCI6IDAsCiAgICJhbGxvY19tYiI6IDgsCiAgICJhdmFpbF9tYiI6IDE4MTAuNSwKICAgImppdF9tZWFuIjogMTA5LjAsCiAgICJqaXRfcDk1IjogMTMwCiAgfSwKICB7CiAgICJzdGVwIjogMSwKICAgImFsbG9jX21iIjogMTYsCiAgICJhdmFpbF9tYiI6IDE4MDIuNCwKICAgImppdF9tZWFuIjogOTcuMCwKICAgImppdF9wOTUiOiAxMzAKICB9LAogIHsKICAgInN0ZXAiOiAyLAogICAiYWxsb2NfbWIiOiAyNCwKICAgImF2YWlsX21iIjogMTc5NC41LAogICAiaml0X21lYW4iOiA5Ni4wLAogICAiaml0X3A5NSI6IDEzMAogIH0sCiAgewogICAic3RlcCI6IDMsCiAgICJhbGxvY19tYiI6IDMyLAogICAiYXZhaWxfbWIiOiAxNzg2LjQsCiAgICJqaXRfbWVhbiI6IDk1LjksCiAgICJqaXRfcDk1IjogMTIwCiAgfSwKICB7CiAgICJzdGVwIjogNCwKICAgImFsbG9jX21iIjogNDAsCiAgICJhdmFpbF9tYiI6IDE3NzguNiwKICAgImppdF9tZWFuIjogMTAwLjQsCiAgICJqaXRfcDk1IjogMTQwCiAgfSwKICB7CiAgICJzdGVwIjogNSwKICAgImFsbG9jX21iIjogNDgsCiAgICJhdmFpbF9tYiI6IDE3NzAuNCwKICAgImppdF9tZWFuIjogMTI2LjgsCiAgICJqaXRfcDk1IjogMTQwCiAgfSwKICB7CiAgICJzdGVwIjogNiwKICAgImFsbG9jX21iIjogNTYsCiAgICJhdmFpbF9tYiI6IDE3NjIuNiwKICAgImppdF9tZWFuIjogOTkuOCwKICAgImppdF9wOTUiOiAxMzAKICB9LAogIHsKICAgInN0ZXAiOiA3LAogICAiYWxsb2NfbWIiOiA2NCwKICAgImF2YWlsX21iIjogMTc1NC40LAogICAiaml0X21lYW4iOiA5OC44LAogICAiaml0X3A5NSI6IDEzMQogIH0sCiAgewogICAic3RlcCI6IDgsCiAgICJhbGxvY19tYiI6IDcyLAogICAiYXZhaWxfbWIiOiAxNzQ2LjYsCiAgICJqaXRfbWVhbiI6IDk5LjMsCiAgICJqaXRfcDk1IjogMTIwCiAgfSwKICB7CiAgICJzdGVwIjogOSwKICAgImFsbG9jX21iIjogODAsCiAgICJhdmFpbF9tYiI6IDE3MzguNCwKICAgImppdF9tZWFuIjogOTkuNiwKICAgImppdF9wOTUiOiAxMjAKICB9LAogIHsKICAgInN0ZXAiOiAxMCwKICAgImFsbG9jX21iIjogODgsCiAgICJhdmFpbF9tYiI6IDE3MzAuNiwKICAgImppdF9tZWFuIjogOTkuMSwKICAgImppdF9wOTUiOiAxMjAKICB9LAogIHsKICAgInN0ZXAiOiAxMSwKICAgImFsbG9jX21iIjogOTYsCiAgICJhdmFpbF9tYiI6IDE3MjIuNCwKICAgImppdF9tZWFuIjogMTAwLjQsCiAgICJqaXRfcDk1IjogMTMwCiAgfSwKICB7CiAgICJzdGVwIjogMTIsCiAgICJhbGxvY19tYiI6IDEwNCwKICAgImF2YWlsX21iIjogMTcxNC42LAogICAiaml0X21lYW4iOiA5OS45LAogICAiaml0X3A5NSI6IDEzMAogIH0sCiAgewogICAic3RlcCI6IDEzLAogICAiYWxsb2NfbWIiOiAxMTIsCiAgICJhdmFpbF9tYiI6IDE3MDYuNCwKICAgImppdF9tZWFuIjogMTI2LjcsCiAgICJqaXRfcDk1IjogMTM5CiAgfSwKICB7CiAgICJzdGVwIjogMTQsCiAgICJhbGxvY19tYiI6IDEyMCwKICAgImF2YWlsX21iIjogMTY5OC42LAogICAiaml0X21lYW4iOiA5OS41LAogICAiaml0X3A5NSI6IDEyOQogIH0sCiAgewogICAic3RlcCI6IDE1LAogICAiYWxsb2NfbWIiOiAxMjgsCiAgICJhdmFpbF9tYiI6IDE2OTAuNCwKICAgImppdF9tZWFuIjogOTkuOCwKICAgImppdF9wOTUiOiAxMzAKICB9LAogIHsKICAgInN0ZXAiOiAxNiwKICAgImFsbG9jX21iIjogMTM2LAogICAiYXZhaWxfbWIiOiAxNjgyLjYsCiAgICJqaXRfbWVhbiI6IDk5LjEsCiAgICJqaXRfcDk1IjogMTMwCiAgfSwKICB7CiAgICJzdGVwIjogMTcsCiAgICJhbGxvY19tYiI6IDE0NCwKICAgImF2YWlsX21iIjogMTY3NC41LAogICAiaml0X21lYW4iOiA5OC44LAogICAiaml0X3A5NSI6IDEzMAogIH0sCiAgewogICAic3RlcCI6IDE4LAogICAiYWxsb2NfbWIiOiAxNTIsCiAgICJhdmFpbF9tYiI6IDE2NjYuNiwKICAgImppdF9tZWFuIjogOTkuMiwKICAgImppdF9wOTUiOiAxMzAKICB9LAogIHsKICAgInN0ZXAiOiAxOSwKICAgImFsbG9jX21iIjogMTYwLAogICAiYXZhaWxfbWIiOiAxNjU4LjUsCiAgICJqaXRfbWVhbiI6IDk4LjUsCiAgICJqaXRfcDk1IjogMTMwCiAgfSwKICB7CiAgICJzdGVwIjogMjAsCiAgICJhbGxvY19tYiI6IDE2OCwKICAgImF2YWlsX21iIjogMTY1MC4zLAogICAiaml0X21lYW4iOiA5OS4yLAogICAiaml0X3A5NSI6IDEyMAogIH0sCiAgewogICAic3RlcCI6IDIxLAogICAiYWxsb2NfbWIiOiAxNzYsCiAgICJhdmFpbF9tYiI6IDE2NDIuNiwKICAgImppdF9tZWFuIjogMTAwLjUsCiAgICJqaXRfcDk1IjogMTI5CiAgfSwKICB7CiAgICJzdGVwIjogMjIsCiAgICJhbGxvY19tYiI6IDE4NCwKICAgImF2YWlsX21iIjogMTYzNC41LAogICAiaml0X21lYW4iOiA5OS4yLAogICAiaml0X3A5NSI6IDEyOQogIH0sCiAgewogICAic3RlcCI6IDIzLAogICAiYWxsb2NfbWIiOiAxOTIsCiAgICJhdmFpbF9tYiI6IDE2MjYuNiwKICAgImppdF9tZWFuIjogOTUuNywKICAgImppdF9wOTUiOiAxMjkKICB9LAogIHsKICAgInN0ZXAiOiAyNCwKICAgImFsbG9jX21iIjogMjAwLAogICAiYXZhaWxfbWIiOiAxNjE4LjMsCiAgICJqaXRfbWVhbiI6IDk1LjEsCiAgICJqaXRfcDk1IjogMTMwCiAgfSwKICB7CiAgICJzdGVwIjogMjUsCiAgICJhbGxvY19tYiI6IDIwOCwKICAgImF2YWlsX21iIjogMTYxMC40LAogICAiaml0X21lYW4iOiA5NC4yLAogICAiaml0X3A5NSI6IDEyMAogIH0sCiAgewogICAic3RlcCI6IDI2LAogICAiYWxsb2NfbWIiOiAyMTYsCiAgICJhdmFpbF9tYiI6IDE2MDIuMywKICAgImppdF9tZWFuIjogOTUuNCwKICAgImppdF9wOTUiOiAxMjAKICB9LAogIHsKICAgInN0ZXAiOiAyNywKICAgImFsbG9jX21iIjogMjI0LAogICAiYXZhaWxfbWIiOiAxNTk0LjQsCiAgICJqaXRfbWVhbiI6IDk1LjAsCiAgICJqaXRfcDk1IjogMTIwCiAgfSwKICB7CiAgICJzdGVwIjogMjgsCiAgICJhbGxvY19tYiI6IDIzMiwKICAgImF2YWlsX21iIjogMTU4Ni4zLAogICAiaml0X21lYW4iOiA5NC44LAogICAiaml0X3A5NSI6IDEyOQogIH0sCiAgewogICAic3RlcCI6IDI5LAogICAiYWxsb2NfbWIiOiAyNDAsCiAgICJhdmFpbF9tYiI6IDE1NzguNCwKICAgImppdF9tZWFuIjogOTYuMSwKICAgImppdF9wOTUiOiAxMjAKICB9LAogIHsKICAgInN0ZXAiOiAzMCwKICAgImFsbG9jX21iIjogMjQ4LAogICAiYXZhaWxfbWIiOiAxNTcwLjMsCiAgICJqaXRfbWVhbiI6IDk0LjgsCiAgICJqaXRfcDk1IjogMTIwCiAgfSwKICB7CiAgICJzdGVwIjogMzEsCiAgICJhbGxvY19tYiI6IDI1NiwKICAgImF2YWlsX21iIjogMTU2Mi40LAogICAiaml0X21lYW4iOiA5NC41LAogICAiaml0X3A5NSI6IDEyMAogIH0sCiAgewogICAic3RlcCI6IDMyLAogICAiYWxsb2NfbWIiOiAyNjQsCiAgICJhdmFpbF9tYiI6IDE1NTQuMywKICAgImppdF9tZWFuIjogOTQuNiwKICAgImppdF9wOTUiOiAxMjAKICB9LAogIHsKICAgInN0ZXAiOiAzMywKICAgImFsbG9jX21iIjogMjcyLAogICAiYXZhaWxfbWIiOiAxNTQ2LjQsCiAgICJqaXRfbWVhbiI6IDEwNi43LAogICAiaml0X3A5NSI6IDE0MAogIH0sCiAgewogICAic3RlcCI6IDM0LAogICAiYWxsb2NfbWIiOiAyODAsCiAgICJhdmFpbF9tYiI6IDE1MzguMywKICAgImppdF9tZWFuIjogOTQuMywKICAgImppdF9wOTUiOiAxMjAKICB9LAogIHsKICAgInN0ZXAiOiAzNSwKICAgImFsbG9jX21iIjogMjg4LAogICAiYXZhaWxfbWIiOiAxNTMwLjQsCiAgICJqaXRfbWVhbiI6IDk2LjEsCiAgICJqaXRfcDk1IjogMTIwCiAgfSwKICB7CiAgICJzdGVwIjogMzYsCiAgICJhbGxvY19tYiI6IDI5NiwKICAgImF2YWlsX21iIjogMTUyMi4zLAogICAiaml0X21lYW4iOiA5NS4yLAogICAiaml0X3A5NSI6IDEyMAogIH0sCiAgewogICAic3RlcCI6IDM3LAogICAiYWxsb2NfbWIiOiAzMDQsCiAgICJhdmFpbF9tYiI6IDE1MTQuNCwKICAgImppdF9tZWFuIjogOTUuMiwKICAgImppdF9wOTUiOiAxMjAKICB9LAogIHsKICAgInN0ZXAiOiAzOCwKICAgImFsbG9jX21iIjogMzEyLAogICAiYXZhaWxfbWIiOiAxNTA2LjMsCiAgICJqaXRfbWVhbiI6IDk1LjcsCiAgICJqaXRfcDk1IjogMTIwCiAgfSwKICB7CiAgICJzdGVwIjogMzksCiAgICJhbGxvY19tYiI6IDMyMCwKICAgImF2YWlsX21iIjogMTQ5OC4yLAogICAiaml0X21lYW4iOiA5NS4wLAogICAiaml0X3A5NSI6IDEyMAogIH0KIF0sCiAiZF9lYXJseSI6IDEuMDk5NzU0MDk0MTE5Mzc2NiwKICJkX2xhdGUiOiAwLjE4MzI2ODk5MTkyNzExMDMzLAogImJhc2VfbWVhbiI6IDk1LjU2NSwKICJhZnRlcl9tZWFuIjogMTAwLjAwMjMzMzMzMzMzMzM0LAogImF2MCI6IDE4MTAuNSwKICJhdk4iOiAxNDk4LjIsCiAiYXZfYWZ0ZXIiOiAxODEwLjk2ODc1Cn0=
+{
+ "rows": [
+  {
+   "step": 0,
+   "alloc_mb": 8,
+   "avail_mb": 1810.5,
+   "jit_mean": 109.0,
+   "jit_p95": 130
+  },
+  {
+   "step": 1,
+   "alloc_mb": 16,
+   "avail_mb": 1802.4,
+   "jit_mean": 97.0,
+   "jit_p95": 130
+  },
+  {
+   "step": 2,
+   "alloc_mb": 24,
+   "avail_mb": 1794.5,
+   "jit_mean": 96.0,
+   "jit_p95": 130
+  },
+  {
+   "step": 3,
+   "alloc_mb": 32,
+   "avail_mb": 1786.4,
+   "jit_mean": 95.9,
+   "jit_p95": 120
+  },
+  {
+   "step": 4,
+   "alloc_mb": 40,
+   "avail_mb": 1778.6,
+   "jit_mean": 100.4,
+   "jit_p95": 140
+  },
+  {
+   "step": 5,
+   "alloc_mb": 48,
+   "avail_mb": 1770.4,
+   "jit_mean": 126.8,
+   "jit_p95": 140
+  },
+  {
+   "step": 6,
+   "alloc_mb": 56,
+   "avail_mb": 1762.6,
+   "jit_mean": 99.8,
+   "jit_p95": 130
+  },
+  {
+   "step": 7,
+   "alloc_mb": 64,
+   "avail_mb": 1754.4,
+   "jit_mean": 98.8,
+   "jit_p95": 131
+  },
+  {
+   "step": 8,
+   "alloc_mb": 72,
+   "avail_mb": 1746.6,
+   "jit_mean": 99.3,
+   "jit_p95": 120
+  },
+  {
+   "step": 9,
+   "alloc_mb": 80,
+   "avail_mb": 1738.4,
+   "jit_mean": 99.6,
+   "jit_p95": 120
+  },
+  {
+   "step": 10,
+   "alloc_mb": 88,
+   "avail_mb": 1730.6,
+   "jit_mean": 99.1,
+   "jit_p95": 120
+  },
+  {
+   "step": 11,
+   "alloc_mb": 96,
+   "avail_mb": 1722.4,
+   "jit_mean": 100.4,
+   "jit_p95": 130
+  },
+  {
+   "step": 12,
+   "alloc_mb": 104,
+   "avail_mb": 1714.6,
+   "jit_mean": 99.9,
+   "jit_p95": 130
+  },
+  {
+   "step": 13,
+   "alloc_mb": 112,
+   "avail_mb": 1706.4,
+   "jit_mean": 126.7,
+   "jit_p95": 139
+  },
+  {
+   "step": 14,
+   "alloc_mb": 120,
+   "avail_mb": 1698.6,
+   "jit_mean": 99.5,
+   "jit_p95": 129
+  },
+  {
+   "step": 15,
+   "alloc_mb": 128,
+   "avail_mb": 1690.4,
+   "jit_mean": 99.8,
+   "jit_p95": 130
+  },
+  {
+   "step": 16,
+   "alloc_mb": 136,
+   "avail_mb": 1682.6,
+   "jit_mean": 99.1,
+   "jit_p95": 130
+  },
+  {
+   "step": 17,
+   "alloc_mb": 144,
+   "avail_mb": 1674.5,
+   "jit_mean": 98.8,
+   "jit_p95": 130
+  },
+  {
+   "step": 18,
+   "alloc_mb": 152,
+   "avail_mb": 1666.6,
+   "jit_mean": 99.2,
+   "jit_p95": 130
+  },
+  {
+   "step": 19,
+   "alloc_mb": 160,
+   "avail_mb": 1658.5,
+   "jit_mean": 98.5,
+   "jit_p95": 130
+  },
+  {
+   "step": 20,
+   "alloc_mb": 168,
+   "avail_mb": 1650.3,
+   "jit_mean": 99.2,
+   "jit_p95": 120
+  },
+  {
+   "step": 21,
+   "alloc_mb": 176,
+   "avail_mb": 1642.6,
+   "jit_mean": 100.5,
+   "jit_p95": 129
+  },
+  {
+   "step": 22,
+   "alloc_mb": 184,
+   "avail_mb": 1634.5,
+   "jit_mean": 99.2,
+   "jit_p95": 129
+  },
+  {
+   "step": 23,
+   "alloc_mb": 192,
+   "avail_mb": 1626.6,
+   "jit_mean": 95.7,
+   "jit_p95": 129
+  },
+  {
+   "step": 24,
+   "alloc_mb": 200,
+   "avail_mb": 1618.3,
+   "jit_mean": 95.1,
+   "jit_p95": 130
+  },
+  {
+   "step": 25,
+   "alloc_mb": 208,
+   "avail_mb": 1610.4,
+   "jit_mean": 94.2,
+   "jit_p95": 120
+  },
+  {
+   "step": 26,
+   "alloc_mb": 216,
+   "avail_mb": 1602.3,
+   "jit_mean": 95.4,
+   "jit_p95": 120
+  },
+  {
+   "step": 27,
+   "alloc_mb": 224,
+   "avail_mb": 1594.4,
+   "jit_mean": 95.0,
+   "jit_p95": 120
+  },
+  {
+   "step": 28,
+   "alloc_mb": 232,
+   "avail_mb": 1586.3,
+   "jit_mean": 94.8,
+   "jit_p95": 129
+  },
+  {
+   "step": 29,
+   "alloc_mb": 240,
+   "avail_mb": 1578.4,
+   "jit_mean": 96.1,
+   "jit_p95": 120
+  },
+  {
+   "step": 30,
+   "alloc_mb": 248,
+   "avail_mb": 1570.3,
+   "jit_mean": 94.8,
+   "jit_p95": 120
+  },
+  {
+   "step": 31,
+   "alloc_mb": 256,
+   "avail_mb": 1562.4,
+   "jit_mean": 94.5,
+   "jit_p95": 120
+  },
+  {
+   "step": 32,
+   "alloc_mb": 264,
+   "avail_mb": 1554.3,
+   "jit_mean": 94.6,
+   "jit_p95": 120
+  },
+  {
+   "step": 33,
+   "alloc_mb": 272,
+   "avail_mb": 1546.4,
+   "jit_mean": 106.7,
+   "jit_p95": 140
+  },
+  {
+   "step": 34,
+   "alloc_mb": 280,
+   "avail_mb": 1538.3,
+   "jit_mean": 94.3,
+   "jit_p95": 120
+  },
+  {
+   "step": 35,
+   "alloc_mb": 288,
+   "avail_mb": 1530.4,
+   "jit_mean": 96.1,
+   "jit_p95": 120
+  },
+  {
+   "step": 36,
+   "alloc_mb": 296,
+   "avail_mb": 1522.3,
+   "jit_mean": 95.2,
+   "jit_p95": 120
+  },
+  {
+   "step": 37,
+   "alloc_mb": 304,
+   "avail_mb": 1514.4,
+   "jit_mean": 95.2,
+   "jit_p95": 120
+  },
+  {
+   "step": 38,
+   "alloc_mb": 312,
+   "avail_mb": 1506.3,
+   "jit_mean": 95.7,
+   "jit_p95": 120
+  },
+  {
+   "step": 39,
+   "alloc_mb": 320,
+   "avail_mb": 1498.2,
+   "jit_mean": 95.0,
+   "jit_p95": 120
+  }
+ ],
+ "d_early": 1.0997540941193766,
+ "d_late": 0.18326899192711033,
+ "base_mean": 95.565,
+ "after_mean": 100.00233333333334,
+ "av0": 1810.5,
+ "avN": 1498.2,
+ "av_after": 1810.96875
+}

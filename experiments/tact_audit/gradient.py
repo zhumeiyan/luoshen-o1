@@ -1,1 +1,38 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5YmC6YePLeWPjeW6lOair+W6pu+8muWvueavj+adoeaMieWRveS4reWFs+mUruivjeaVsOe0r+enr+abv+aNoiBrPTEuLkvvvIzmtYvnv7vovaznjofjgIIK5oqKIuWNleivjeabv+aNoiAyNSUi5LiOIuWFqOmDqOabv+aNoiAxMDAlIue7n+S4gOS4uuS4gOadoeabsue6v+OAgiIiIgppbXBvcnQganNvbiwgb3MsIHN1YnByb2Nlc3MsIHN5cywgc2h1dGlsLCByZSwgaW1wb3J0bGliLnV0aWwsIHRpbWUKZnJvbSBtaW5pbWFsIGltcG9ydCBTWU4sIGhpdHMsIGJhc2UsIElEUywgcnVuX3dpdGgsIG9yaWcsIG9rX2lkcwoKcmVzID0ge30KcHJpbnQoZiJ7J0lEJzo8OX17J+WRveS4reivjeaVsCc6PDEwfee/u+i9rOaJgOmcgOacgOWwkeabv+aNouaVsCIpCm5lZWQgPSBbXQpmb3IgY2lkIGluIG9rX2lkczoKICAgIHRleHQgPSBuZXh0KGMgZm9yIGMgaW4gYmFzZVsiY2FzZXMiXSBpZiBjWyJpZCJdID09IGNpZClbInBoZW5vbWVub24iXQogICAgY2FuZCA9IFtrIGZvciBrIGluIGhpdHModGV4dCkgaWYgayBpbiBTWU5dCiAgICBLID0gbGVuKGNhbmQpCiAgICBjdXJ2ZSA9IFtdCiAgICBmaXJzdCA9IE5vbmUKICAgIGZvciBrIGluIHJhbmdlKDEsIEsgKyAxKToKICAgICAgICB0ID0gdGV4dAogICAgICAgIGZvciBrdyBpbiBjYW5kWzprXToKICAgICAgICAgICAgdCA9IHQucmVwbGFjZShrdywgU1lOW2t3XSkKICAgICAgICBhZnRlciA9IHJ1bl93aXRoKHtjaWQ6IHR9KVtjaWRdCiAgICAgICAgZmxpcHBlZCA9IChhZnRlciAhPSAiT0siKQogICAgICAgIGlmIGZsaXBwZWQgYW5kIGZpcnN0IGlzIE5vbmU6CiAgICAgICAgICAgIGZpcnN0ID0gawogICAgICAgIGN1cnZlLmFwcGVuZCh7ImsiOiBrLCAiZmxpcHBlZCI6IGZsaXBwZWR9KQogICAgbmVlZC5hcHBlbmQoeyJpZCI6IGNpZCwgIksiOiBLLCAiZmlyc3QiOiBmaXJzdCwgImN1cnZlIjogY3VydmV9KQogICAgcHJpbnQoZiJ7Y2lkOjw5fXtLOjwxMH17Zmlyc3QgaWYgZmlyc3QgZWxzZSAnPksnfSIpCgpyZXNbInBlcl9jYXNlIl0gPSBuZWVkCm1heEsgPSBtYXgoblsiSyJdIGZvciBuIGluIG5lZWQpCnByaW50KGYiXG7ntK/np6/mm7/mjaIgayDkuKrlhbPplK7or43ml7bnmoTmlbTkvZPnv7vovaznjofvvIjliIbmr409e2xlbihva19pZHMpfSDmnaHljp/mnKwgT0sg55qE5qC35L6L77yJIikKYWdnID0gW10KZm9yIGsgaW4gcmFuZ2UoMSwgbWF4SyArIDEpOgogICAgdG90ID0gc3VtKDEgZm9yIG4gaW4gbmVlZCBpZiBuWyJLIl0gPj0gaykKICAgIGZsID0gc3VtKDEgZm9yIG4gaW4gbmVlZCBpZiBuWyJLIl0gPj0gayBhbmQgblsiY3VydmUiXVtrLTFdWyJmbGlwcGVkIl0pCiAgICBhZ2cuYXBwZW5kKHsiayI6IGssICJuIjogdG90LCAiZmxpcHBlZCI6IGZsLCAicmF0ZSI6IGZsL3RvdCBpZiB0b3QgZWxzZSBOb25lfSkKICAgIHByaW50KGYiICBrPXtrOjwyfSAg5Y+v5rWLIHt0b3Q6PjJ9IOadoSAgIOe/u+i9rCB7Zmw6PjJ9IOadoSAgID0ge2ZsL3RvdDouNGZ9IiBpZiB0b3QgZWxzZSBmIiAgaz17a30gIG49MCIpCnJlc1siYWdncmVnYXRlIl0gPSBhZ2cKanNvbi5kdW1wKHJlcywgb3BlbigicmVzdWx0XzA3MGQuanNvbiIsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+# -*- coding: utf-8 -*-
+"""剂量-反应梯度：对每条按命中关键词数累积替换 k=1..K，测翻转率。
+把"单词替换 25%"与"全部替换 100%"统一为一条曲线。"""
+import json, os, subprocess, sys, shutil, re, importlib.util, time
+from minimal import SYN, hits, base, IDS, run_with, orig, ok_ids
+
+res = {}
+print(f"{'ID':<9}{'命中词数':<10}翻转所需最少替换数")
+need = []
+for cid in ok_ids:
+    text = next(c for c in base["cases"] if c["id"] == cid)["phenomenon"]
+    cand = [k for k in hits(text) if k in SYN]
+    K = len(cand)
+    curve = []
+    first = None
+    for k in range(1, K + 1):
+        t = text
+        for kw in cand[:k]:
+            t = t.replace(kw, SYN[kw])
+        after = run_with({cid: t})[cid]
+        flipped = (after != "OK")
+        if flipped and first is None:
+            first = k
+        curve.append({"k": k, "flipped": flipped})
+    need.append({"id": cid, "K": K, "first": first, "curve": curve})
+    print(f"{cid:<9}{K:<10}{first if first else '>K'}")
+
+res["per_case"] = need
+maxK = max(n["K"] for n in need)
+print(f"\n累积替换 k 个关键词时的整体翻转率（分母={len(ok_ids)} 条原本 OK 的样例）")
+agg = []
+for k in range(1, maxK + 1):
+    tot = sum(1 for n in need if n["K"] >= k)
+    fl = sum(1 for n in need if n["K"] >= k and n["curve"][k-1]["flipped"])
+    agg.append({"k": k, "n": tot, "flipped": fl, "rate": fl/tot if tot else None})
+    print(f"  k={k:<2}  可测 {tot:>2} 条   翻转 {fl:>2} 条   = {fl/tot:.4f}" if tot else f"  k={k}  n=0")
+res["aggregate"] = agg
+json.dump(res, open("result_070d.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)

@@ -1,1 +1,174 @@
-IyBldmFsZ3VhcmQgwrcg5o6l5Y+j5paH5qGjCgrkuInnp43mjqXlhaXmlrnlvI/vvIzmjInkvaDmnInlpJrlsJHml7bpl7TmjpLliJfjgILlhajpg6jpm7bkvp3otZbvvIjku4UgUHl0aG9uIOagh+WHhuW6kyArIG51bXB5IOWPr+mAie+8ie+8jArkuI3ogZTnvZHjgIHkuI3osIPnlKjku7vkvZUgTExN44CB5LiN5omn6KGM6KKr5omr5o+P55qE5Luj56CB4oCU4oCU5Y+q5YGaIEFTVCDop6PmnpDjgIIKCi0tLQoKIyMgMCDCtyDkuInljYHnp5LvvJrlkb3ku6TooYwKCmBgYGJhc2gKcHl0aG9uMyAtbSBldmFsZ3VhcmQgZXZhbC5weSAgICAgICAgICAgICAgICAgICAgIyDmiavkuIDkuKrmlofku7YKcHl0aG9uMyAtbSBldmFsZ3VhcmQgZXZhbHMvIHRlc3RzLyAgICAgICAgICAgICAgIyDmiavnm67lvZUKcHl0aG9uMyAtbSBldmFsZ3VhcmQgLiAtLWZvcm1hdCBzYXJpZiA+IHIuc2FyaWYgIyDovpPlh7ogU0FSSUYKcHl0aG9uMyAtbSBldmFsZ3VhcmQgLiAtLXJlcG9ydCBvdXQuaHRtbCAgICAgICAgIyDovpPlh7ogSFRNTCDmiqXlkYoKcHl0aG9uMyAtbSBldmFsZ3VhcmQgc2VydmUgICAgICAgICAgICAgICAgICAgICAgIyDotbfmnKzlnLAgSFRUUCBBUEkKYGBgCgrpgIDlh7rnoIHvvJpgMWAg6KGo56S65a2Y5ZyoIGJsb2NrZXLvvIxgMGAg6KGo56S65rKh5pyJ44CC6L+Z5pivIENJIOeahOWUr+S4gOWIpOaNruOAggoKLS0tCgojIyAxIMK3IFB5dGhvbiBBUEkKCmBgYHB5dGhvbgpmcm9tIGV2YWxndWFyZCBpbXBvcnQgc2Nhbl9zb3VyY2UsIHNjYW5fZmlsZSwgc2Nhbl9wYXRocwoKIyDmiavlhoXlrZjph4znmoTku6PnoIHvvIjkuI3nlKjokL3nm5jvvIkKciA9IHNjYW5fc291cmNlKHNvdXJjZV9jb2RlX3N0cmluZywgcGF0aD0iZXZhbC5weSIpCgojIOaJq+aWh+S7tiAvIOebruW9lQpyID0gc2Nhbl9wYXRocyhbImV2YWxzLyIsICJ0ZXN0cy8iXSkKCnIub2sgICAgICAgICAgICAjIFRydWUgPSDmsqHmnIkgYmxvY2tlcu+8jENJIOWIpOaNrgpyLmNvdW50cyAgICAgICAgIyB7J2Jsb2NrZXInOiAwLCAnd2Fybic6IDIsICdpbmZvJzogMX0Kci5ibG9ja2VycyAgICAgICMgIGJsb2NrZXIg57qn5Y+R546w5YiX6KGoCnIuZmluZGluZ3MgICAgICAjICDlhajpg6jlj5HnjrAKci5hdWRpdHMgICAgICAgICMgIOmXqOaOp+iHqui6q+eahOiusOi0pu+8iOS4jeaYr+WPkeeOsO+8jOWNleeLrOWtmOaUvu+8iQpyLnRvX3RleHQoKSAgICAgIyAg5Lq66K+7CnIudG9fanNvbigpICAgICAjICDmnLror7sKci50b19zYXJpZigpICAgICMgIFNBUklGIDIuMS4wCmBgYAoKYEZpbmRpbmdgIOWtl+aute+8mmBlZ19pZCAvIHNldmVyaXR5IC8gdGl0bGUgLyBmaWxlIC8gbGluZSAvIGhpdCAvIHdoeSAvIGZpeCAvIGNhbm9uIC8Kc2NvcGUgLyBraW5kYOOAggoKKipgbGluZWAg5YWB6K645Li6IGBOb25lYCoq77yM6L+Z5LiN5piv57y65aSx5YC844CC5aOw5piO5Li6IGBhYnNlbnRgIOexu+eahOinhOWImeaMh+aOp+eahOaYryLmn5DkuKrkuJzopb8K5LiN5a2Y5ZyoIu+8iOS7juadpeayoeaciSBiYXNlbGluZeOAgeS7juadpeayoeaciSBoZWxkLW91dCBzZXTvvInvvIzogIzkuI3lrZjlnKjnmoTkuovnianmsqHmnInooYzlj7flj6/ku6UK5bGV56S644CCZXhwMTMzIOWunua1i++8muW8uuihjOe7mei/meexu+WPkeeOsOWuieS4gOS4quihjOWPt++8jOecn+WAvOeOhyAwLznjgILmiYDku6UgYE5vbmVgIOaYr+ivmuWunueahArnrZTmoYjvvIxgc2NvcGUgPT0gImZpbGUiYCDkvJror7TmmI7ov5nkuIDngrnjgIIKCiMjIyDku44gQWdlbnQg6YeM6LCD55So77yI55Sf5oiQ5Luj56CB5ZCO44CB5YaZ5YWl56OB55uY5YmN77yJCgpgYGBweXRob24KZnJvbSBldmFsZ3VhcmQgaW1wb3J0IHNjYW5fc291cmNlCgpkZWYgc2FmZV93cml0ZShjb2RlLCBwYXRoKToKICAgIHIgPSBzY2FuX3NvdXJjZShjb2RlLCBwYXRoPXBhdGgpCiAgICBpZiBub3Qgci5vazoKICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoInJlZnVzaW5nIHRvIHdyaXRlIGNvZGUgdGhhdCBjYW4gbGllOlxuIiArIHIudG9fdGV4dCgpKQogICAgb3BlbihwYXRoLCAidyIpLndyaXRlKGNvZGUpCmBgYAoKLS0tCgojIyAyIMK3IEhUVFAgQVBJCgpgYGBiYXNoCnB5dGhvbjMgLW0gZXZhbGd1YXJkIHNlcnZlICAgICAgICAgICAgIyBodHRwOi8vMTI3LjAuMC4xOjg3ODcKYGBgCgp8IOaWueazlSB8IOi3r+W+hCB8IOivtOaYjiB8CnwtLS18LS0tfC0tLXwKfCBHRVQgfCBgL2hlYWx0aGAgfCDlrZjmtLsgKyDop4TliJnmlbAgfAp8IEdFVCB8IGAvcnVsZXNgIHwg6KeE5YiZ55uu5b2V77yIMjYg5p2h77yM5ZCrIHNoaXBwZWQg5qCH6K6w77yJIHwKfCBQT1NUIHwgYC9zY2FuYCB8IGJvZHkgYHtzb3VyY2VcfHBhdGhcfHBhdGhzLCBwcm8/LCBzZXZlcml0eT99YCB8CnwgUE9TVCB8IGAvc2Nhbi9zYXJpZmAgfCDlkIzkuIrvvIzov5Tlm54gU0FSSUYgMi4xLjAgfAoKYGBgYmFzaApjdXJsIC1zIGxvY2FsaG9zdDo4Nzg3L3NjYW4gLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgXAogIC1kICd7InNvdXJjZSI6ImFjYz0xLzBcbiIsInBhdGgiOiJ4LnB5In0nCmBgYAoK6K6+6K6h57qm5p2f77yM6K+05riF5qWa77yaKirov5nmmK/mnKzlnLDmnI3liqEqKuOAgum7mOiupOWPque7kSBgMTI3LjAuMC4xYO+8jOivt+axguS9k+S4iumZkCA0IE1pQu+8jArlj6rmjqXlj5cgYC9zY2FuKmDvvIzkuJQqKuS7juS4jeaJp+ihjCoq5Lqk57uZ5a6D55qE5Luj56CB77yI5Y+q6Kej5p6Q5oiQIEFTVCDlkI7or7vlj5bvvInjgIIK5a6D5pyq6ZKI5a+55YWs572R5pq06Zyy5YGa5Yqg5Zu677yMYC0taG9zdCAwLjAuMC4wYCDnmoTluK7liqnmlofmnKzph4zlhpnkuobov5nkuIDngrnjgIIKCi0tLQoKIyMgMyDCtyDku5PlupPmjqXlj6PvvIjmioogZXZhbGd1YXJkIOaOpei/m+S9oOiHquW3seeahOS7k+W6k++8iQoKIyMjIDMuMSBHaXRIdWIgQWN0aW9uIOKAlCDlj5HnjrDnm7TmjqXlh7rnjrDlnKggUFIgZGlmZiDkuIoKCmBgYHlhbWwKLSB1c2VzOiB6aHVtZWl5YW4vbHVvc2hlbi1vMS9vdmVyc2Vhcy9ldmFsZ3VhcmRAbWFpbgogIHdpdGg6CiAgICBwYXRoczogImV2YWxzIHRlc3RzIgogICAgc2V2ZXJpdHk6IHdhcm4KICAgIGZhaWwtb246IGJsb2NrZXIgICAgICAjIOWtmOmHj+S7k+W6k+WFiOeUqCAibm9uZSIg6KeC5a+fCmBgYAoK6L6T5Ye677yaYGJsb2NrZXJzYCAvIGB3YXJuc2AgLyBgZmluZGluZ3NgIC8gYHNhcmlmLWZpbGVg44CCCuWujOaVtCB3b3JrZmxvd++8iOWQqyBTQVJJRiDkuIrkvKDvvInop4EgYGV4YW1wbGVzL2NpLnltbGDvvIzpnIDopoEgYHNlY3VyaXR5LWV2ZW50czogd3JpdGVg44CCCgoqKuS4uuS7gOS5iOimgeS4iuS8oCBTQVJJRioq77yaQ0kg55qEIGpvYiBsb2cg5Zyo5Y+m5LiA5Liq6aG16Z2i77yM6ICMIGRpZmYg5piv5byA5Y+R6ICF5bey57uP5Zyo55yL55qE5Zyw5pa544CCCuWRiuitpuS4jeWHuueOsOWcqOS7luecvOedm+aJgOWcqOeahOS9jee9ru+8jOWwseetieS6juayoeacieWRiuitpuOAggoKIyMjIDMuMiBwcmUtY29tbWl0IOKAlCDlnKjlhpnkuIvnmoTpgqPkuIDliLvmi6bkvY8KCuingSBgZXhhbXBsZXMvcHJlLWNvbW1pdC1jb25maWcueWFtbGDjgILlu7rorq7lj6rlr7kgYGV2YWxzfHRlc3RzfGJlbmNobWFya3N8ZXhwZXJpbWVudHNgCui3r+W+hOeUn+aViO+8muWFs+S6jiBiYXNlbGluZSDlkowgaGVsZC1vdXQgc2V0IOeahOinhOWIme+8jOaUvuWcqOW6lOeUqOS7o+eggemHjOaYr+WZquWjsOOAggoKIyMjIDMuMyDkuI4gQ0kg6ZuG5oiQ55qE5pyA5bCP5Yik5o2uCgpgYGBiYXNoCnB5dGhvbjMgLW0gZXZhbGd1YXJkIGV2YWxzLyAtLXNldmVyaXR5IGJsb2NrZXIgJiYgZWNobyAib2sgdG8gc2hpcCIKYGBgCgotLS0KCiMjIDQgwrcgMjYg5p2h6KeE5YiZ5LiO5Ye66LSn562W55WlCgrop4TliJnliIbkuKTnsbvvvIzov5nmmK8gZXhwMTM0IOWcqCA3IOS4quS7juacquWPguS4juW8gOWPkeeahOS7k+W6k+S4iua1i+WHuuadpeeahO+8jOS4jeaYr+iuvuiuoeWBj+Wlve+8mgoKfCDnsbvliKsgfCDkuKXmoLznnJ/lgLznjocgfCDmmK/lkKblh7rotKcgfAp8LS0tfC0tLXwtLS18CnwgKiror63ms5XnsbsqKu+8iEVHMDA1IEVHMDA2IEVHUDAx77yJIHwgMTUvMTYgPSAqKjkzLjglKiogfCDinIUg5Ye66LSnIHwKfCAqKuaWueazleiuuuexuyoq77yI5YW25L2Z77yJIHwgMS8yOSA9ICoqMy40JSoqIHwg4p2MIOS4jeWHuui0pyB8Cgrmlrnms5Xorrrop4TliJnnmoTmjIfmjqflnKjnnJ/lrp7ku6PnoIHkuIrlvoDlvoDmmK8qKuWtl+mdouecn+OAgeWunumZheWBhyoq4oCU4oCU5a6D5Lus5aSn6YeP5ZG95Lit5oyH5qCH5bqT5LiO5qGG5p62CueuoemBk++8jOiAjOiiq+aMh+aOp+eahOWvueixoe+8iGJhc2VsaW5l44CBaGVsZC1vdXQgc2V077yJ5Zyo6YKj6YeM5qC55pys5LiN5a2Y5Zyo44CCCgoqKuaJgOS7pem7mOiupOWPqui3kSAzIOadoeOAgioqIOWFtuS9mSAyMyDmnaHkv53nlZnlnKggYC0tcHJvYCDkuI7noJTnqbbmqKHlvI/kuIvvvIzkuI3ov5vlhaXlh7rotKfpl6jjgIIK6L+Z5piv5pys5bel5YW35LiOIuinhOWImei2iuWkmui2iuWlvSLnmoQgbGludGVyIOeahOagueacrOWIhuatp+eCue+8muS4gOadoSAzLjQlIOecn+WAvOeahOinhOWIme+8jArkuI3mmK8gMy40JSDnmoTluK7miYvvvIzmmK8gOTYuNiUg55qE5Zmq5aOw4oCU4oCU6ICM5Zmq5aOw5Lya6K6t57uD5L2g5b+955Wl5ZGK6K2m44CCCgrmn6Xor6Lmn5DmnaHop4TliJnmmK/lkKblh7rotKfvvJpgR0VUIC9ydWxlc2Ag6YeM55qEIGBzaGlwcGVkYCDlrZfmrrXjgIIKCi0tLQoKIyMgNSDCtyDkuI4gcnVmZiDnmoTlhbPns7vvvIjlrp7mtYvvvIzkuI3mmK/lrprkvY3lo7DmmI7vvIkKCuWQjOagtyA1IOS4quacgOWwj+agt+S+i++8jGBydWZmIDAuMTcuMSAtLXNlbGVjdCBBTExgIHZzIGV2YWxndWFyZCDpu5jorqTpm4bvvJoKCnwgfCBydWZmIGAtLXNlbGVjdCBBTExgIHwgZXZhbGd1YXJk77yI6buY6K6k77yJIHwKfC0tLXwtLS18LS0tfAp8IOWRveS4reaAu+aVsCB8ICoqNDIqKiB8ICoqNioqIHwKfCDkuI4i6K+E5rWL6Z2Z6buY5Ye66ZSZIuWunui0qOebuOWFsyB8ICoq57qmIDMqKiB8ICoqNioqIHwKCnJ1ZmYg55qEIDQyIOadoeiQveWcqO+8mue8uuexu+Wei+azqOinoyA344CB6ZqQ5byP5ZG95ZCN56m66Ze05YyFIDXjgIHnvLrniYjmnYPlo7DmmI4gNeOAgee8uui/lOWbnuexu+WeiyA144CBCuacquaWh+aho+WMluWHveaVsCAxMOOAgWltcG9ydCDmnKrmjpLluo8gM+OAgXByaW50IDHigKbigKYqKui/meS6m+aYr+S7o+eggeinhOiMg++8jOS4jeaYr+e7k+iuuuWPr+S/oeW6puOAgioqCgrkuKTlpITph43lj6DvvIzkuJTliIbmrafmr5Tph43lj6Dmm7TmnInkv6Hmga/ph4/vvJoKCi0gYEJMRTAwMWAgKyBgUzExMGAgKyBgU0lNMTA1YCDpg73mjIflkJHlkIzkuIDooYwgYGV4Y2VwdCBFeGNlcHRpb246IHBhc3Ng44CCCiAgcnVmZiDor7TnmoTmmK/nsbvlnovlpKrlrr3jgIHlu7rorq7mlLnnlKggYGNvbnRleHRsaWIuc3VwcHJlc3Ng4oCU4oCUKirov5nkuKrkv67lpI3mlrnlkJHkuI7miJHku6znm7jlj40qKu+8mgogIGBzdXBwcmVzc2Ag6K6p5ZCe5o6J5byC5bi45Y+Y5b6X5pu05a6J6Z2Z44CB5pu05L2T6Z2i44CC5ZCM5LiA6KGM5Luj56CB77yMcnVmZiDmg7PorqnlroPmm7TkvJjpm4XvvIwKICBldmFsZ3VhcmQg5Yik5a6D5Li6IGJsb2NrZXLvvIzlm6DkuLrlroPlkJ7mjonnmoTmmK/mnKzor6XkuIrmiqXooajpnaLnmoTlpLHotKXjgIIKLSBgUzMxMWDvvIjkvKrpmo/mnLrmlbDvvInlnKggYHMxLnB5YCDkuIrmmK8qKuivr+aKpSoq77ya6YKj6YeM55SoIGByYW5kb21gIOaYr+WunumqjOmaj+acuuaAp++8jAogIOS4jeaYr+WvhueggeWtpueUqOmAlOOAggoKKirnu5PorrrvvJrkvaDor6XnlKggcnVmZuOAguaIkeS7rOi3keWcqOWug+aXgei+ueOAgioqIHJ1ZmYg566hIuS7o+eggeWlveS4jeWlveeciyLvvIxldmFsZ3VhcmQg566hCiLov5nkuKrnu5PorrrmmK/kuI3mmK/pnZnpu5jplJnnmoQi44CC5Lik6ICF5Lqk6ZuG5Y+q5pyJ5LiA6KGM44CCCgotLS0KCiMjIDYgwrcg5bey55+l6L6555WMCgotICoq5Y+q5YGa6Z2Z5oCB5YiG5p6QKirjgILkuI3og73lj5HnjrAiYmFzZWxpbmUg5pWw5a2X566X6ZSZ5LqGIu+8jOWPquiDveWPkeeOsCLmoLnmnKzmsqHmnIkgYmFzZWxpbmUi44CCCi0gKirlj6ropobnm5YgUHl0aG9u44CCKioKLSAqKuaWueazleiuuuinhOWImeS4jeWHuui0pyoq77yI6KeB56ysIDQg6IqC77yJ44CC6L+Z5oSP5ZGz552A5pys5bel5YW3KirkuI3kvJoqKuWRiuivieS9oCLkvaDmsqHlgZoKICBoZWxkLW91dCBzcGxpdCLigJTigJTpmaTpnZ7kvaDlvIAgYC0tcHJvYCDlubboh6rlt7Hmib/mi4UgMy40JSDnmoTnnJ/lgLznjofjgIIKLSAqKuazqOmHiuixgeWFjemcgOimgeivreS5iSoq77yIZXhwMTM477yJ77ya5Lu75oSPIGAjYCDkuI3lho3osYHlhY3vvIzms6jph4rlv4XpobvnnJ/nmoTlo7Dnp7DpnZnpu5jmmK/lronlhajnmoQKICDvvIhgc2FmZSAvIGludGVudGlvbmFsIC8gZmFsbGJhY2sgLyBub3QgY3JpdGljYWwgLyDlj6/lv73nlaVgIOetie+8ieOAguWQpuWImSLlhpnkuKrms6jph4rlsLHog70KICDlhbPmjonlkYroraYi562J5LqO57uZIGxpbnRlciDoo4XkuobkuIDkuKrkuI3pnIDopoHnkIbnlLHnmoTlvIDlhbPjgIIK
+# evalguard · 接口文档
+
+三种接入方式，按你有多少时间排列。全部零依赖（仅 Python 标准库 + numpy 可选），
+不联网、不调用任何 LLM、不执行被扫描的代码——只做 AST 解析。
+
+---
+
+## 0 · 三十秒：命令行
+
+```bash
+python3 -m evalguard eval.py                    # 扫一个文件
+python3 -m evalguard evals/ tests/              # 扫目录
+python3 -m evalguard . --format sarif > r.sarif # 输出 SARIF
+python3 -m evalguard . --report out.html        # 输出 HTML 报告
+python3 -m evalguard serve                      # 起本地 HTTP API
+```
+
+退出码：`1` 表示存在 blocker，`0` 表示没有。这是 CI 的唯一判据。
+
+---
+
+## 1 · Python API
+
+```python
+from evalguard import scan_source, scan_file, scan_paths
+
+# 扫内存里的代码（不用落盘）
+r = scan_source(source_code_string, path="eval.py")
+
+# 扫文件 / 目录
+r = scan_paths(["evals/", "tests/"])
+
+r.ok            # True = 没有 blocker，CI 判据
+r.counts        # {'blocker': 0, 'warn': 2, 'info': 1}
+r.blockers      #  blocker 级发现列表
+r.findings      #  全部发现
+r.audits        #  门控自身的记账（不是发现，单独存放）
+r.to_text()     #  人读
+r.to_json()     #  机读
+r.to_sarif()    #  SARIF 2.1.0
+```
+
+`Finding` 字段：`eg_id / severity / title / file / line / hit / why / fix / canon /
+scope / kind`。
+
+**`line` 允许为 `None`**，这不是缺失值。声明为 `absent` 类的规则指控的是"某个东西
+不存在"（从来没有 baseline、从来没有 held-out set），而不存在的事物没有行号可以
+展示。exp133 实测：强行给这类发现安一个行号，真值率 0/9。所以 `None` 是诚实的
+答案，`scope == "file"` 会说明这一点。
+
+### 从 Agent 里调用（生成代码后、写入磁盘前）
+
+```python
+from evalguard import scan_source
+
+def safe_write(code, path):
+    r = scan_source(code, path=path)
+    if not r.ok:
+        raise RuntimeError("refusing to write code that can lie:\n" + r.to_text())
+    open(path, "w").write(code)
+```
+
+---
+
+## 2 · HTTP API
+
+```bash
+python3 -m evalguard serve            # http://127.0.0.1:8787
+```
+
+| 方法 | 路径 | 说明 |
+|---|---|---|
+| GET | `/health` | 存活 + 规则数 |
+| GET | `/rules` | 规则目录（26 条，含 shipped 标记） |
+| POST | `/scan` | body `{source\|path\|paths, pro?, severity?}` |
+| POST | `/scan/sarif` | 同上，返回 SARIF 2.1.0 |
+
+```bash
+curl -s localhost:8787/scan -H 'Content-Type: application/json' \
+  -d '{"source":"acc=1/0\n","path":"x.py"}'
+```
+
+设计约束，说清楚：**这是本地服务**。默认只绑 `127.0.0.1`，请求体上限 4 MiB，
+只接受 `/scan*`，且**从不执行**交给它的代码（只解析成 AST 后读取）。
+它未针对公网暴露做加固，`--host 0.0.0.0` 的帮助文本里写了这一点。
+
+---
+
+## 3 · 仓库接口（把 evalguard 接进你自己的仓库）
+
+### 3.1 GitHub Action — 发现直接出现在 PR diff 上
+
+```yaml
+- uses: zhumeiyan/luoshen-o1/overseas/evalguard@main
+  with:
+    paths: "evals tests"
+    severity: warn
+    fail-on: blocker      # 存量仓库先用 "none" 观察
+```
+
+输出：`blockers` / `warns` / `findings` / `sarif-file`。
+完整 workflow（含 SARIF 上传）见 `examples/ci.yml`，需要 `security-events: write`。
+
+**为什么要上传 SARIF**：CI 的 job log 在另一个页面，而 diff 是开发者已经在看的地方。
+告警不出现在他眼睛所在的位置，就等于没有告警。
+
+### 3.2 pre-commit — 在写下的那一刻拦住
+
+见 `examples/pre-commit-config.yaml`。建议只对 `evals|tests|benchmarks|experiments`
+路径生效：关于 baseline 和 held-out set 的规则，放在应用代码里是噪声。
+
+### 3.3 与 CI 集成的最小判据
+
+```bash
+python3 -m evalguard evals/ --severity blocker && echo "ok to ship"
+```
+
+---
+
+## 4 · 26 条规则与出货策略
+
+规则分两类，这是 exp134 在 7 个从未参与开发的仓库上测出来的，不是设计偏好：
+
+| 类别 | 严格真值率 | 是否出货 |
+|---|---|---|
+| **语法类**（EG005 EG006 EGP01） | 15/16 = **93.8%** | ✅ 出货 |
+| **方法论类**（其余） | 1/29 = **3.4%** | ❌ 不出货 |
+
+方法论规则的指控在真实代码上往往是**字面真、实际假**——它们大量命中指标库与框架
+管道，而被指控的对象（baseline、held-out set）在那里根本不存在。
+
+**所以默认只跑 3 条。** 其余 23 条保留在 `--pro` 与研究模式下，不进入出货门。
+这是本工具与"规则越多越好"的 linter 的根本分歧点：一条 3.4% 真值的规则，
+不是 3.4% 的帮手，是 96.6% 的噪声——而噪声会训练你忽略告警。
+
+查询某条规则是否出货：`GET /rules` 里的 `shipped` 字段。
+
+---
+
+## 5 · 与 ruff 的关系（实测，不是定位声明）
+
+同样 5 个最小样例，`ruff 0.17.1 --select ALL` vs evalguard 默认集：
+
+| | ruff `--select ALL` | evalguard（默认） |
+|---|---|---|
+| 命中总数 | **42** | **6** |
+| 与"评测静默出错"实质相关 | **约 3** | **6** |
+
+ruff 的 42 条落在：缺类型注解 7、隐式命名空间包 5、缺版权声明 5、缺返回类型 5、
+未文档化函数 10、import 未排序 3、print 1……**这些是代码规范，不是结论可信度。**
+
+两处重叠，且分歧比重叠更有信息量：
+
+- `BLE001` + `S110` + `SIM105` 都指向同一行 `except Exception: pass`。
+  ruff 说的是类型太宽、建议改用 `contextlib.suppress`——**这个修复方向与我们相反**：
+  `suppress` 让吞掉异常变得更安静、更体面。同一行代码，ruff 想让它更优雅，
+  evalguard 判它为 blocker，因为它吞掉的是本该上报表面的失败。
+- `S311`（伪随机数）在 `s1.py` 上是**误报**：那里用 `random` 是实验随机性，
+  不是密码学用途。
+
+**结论：你该用 ruff。我们跑在它旁边。** ruff 管"代码好不好看"，evalguard 管
+"这个结论是不是静默错的"。两者交集只有一行。
+
+---
+
+## 6 · 已知边界
+
+- **只做静态分析**。不能发现"baseline 数字算错了"，只能发现"根本没有 baseline"。
+- **只覆盖 Python。**
+- **方法论规则不出货**（见第 4 节）。这意味着本工具**不会**告诉你"你没做
+  held-out split"——除非你开 `--pro` 并自己承担 3.4% 的真值率。
+- **注释豁免需要语义**（exp138）：任意 `#` 不再豁免，注释必须真的声称静默是安全的
+  （`safe / intentional / fallback / not critical / 可忽略` 等）。否则"写个注释就能
+  关掉告警"等于给 linter 装了一个不需要理由的开关。

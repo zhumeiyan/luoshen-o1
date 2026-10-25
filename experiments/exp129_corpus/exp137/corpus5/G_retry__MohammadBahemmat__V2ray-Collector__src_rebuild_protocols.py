@@ -1,1 +1,50 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLYqNin2LLYs9in2LLbjCDZgdin24zZhOKAjNmH2KfbjCDZvtix2YjYqtqp2YQg2KfYsiDYsdmI24wgYWxsX3NlcnZlcnMudHh0INm+2KfZhNin24zYtOKAjNi02K/Zhy4iIiIKaW1wb3J0IG9zCmltcG9ydCBsb2dnaW5nCgpsb2dnaW5nLmJhc2ljQ29uZmlnKGxldmVsPWxvZ2dpbmcuSU5GTywgZm9ybWF0PSclKGFzY3RpbWUpcyAtICUobGV2ZWxuYW1lKXMgLSAlKG1lc3NhZ2UpcycpCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKQUxMX1NFUlZFUlMgPSAiYWxsX3NlcnZlcnMudHh0IgoKZGVmIG1haW4oKToKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhBTExfU0VSVkVSUyk6CiAgICAgICAgbG9nZ2VyLmVycm9yKGYie0FMTF9TRVJWRVJTfSBub3QgZm91bmQhIikKICAgICAgICByZXR1cm4KCiAgICB3aXRoIG9wZW4oQUxMX1NFUlZFUlMsICJyIiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBjb25maWdzID0gc29ydGVkKHtsaW5lLnN0cmlwKCkgZm9yIGxpbmUgaW4gZiBpZiBsaW5lLnN0cmlwKCl9KQoKICAgICMgLS0g2Ybar9in2LTYqiDZhtin2YXigIzZh9in24wg2LrbjNix2KfYs9iq2KfZhtiv2KfYsdivINio2Ycg2KfYs9iq2KfZhtiv2KfYsdivIC0tCiAgICBQUk9UT19NQVAgPSB7CiAgICAgICAgImh5MiI6ICJoeXN0ZXJpYTIiLAogICAgICAgICJWTEVTUyI6ICJ2bGVzcyIKICAgIH0KCiAgICAjINiz2KfYrtiqINm+2YjYtNmHIHNlcnZlcnMg2Kfar9ixINmI2KzZiNivINmG2K/Yp9ix2K8KICAgIG9zLm1ha2VkaXJzKCJzZXJ2ZXJzIiwgZXhpc3Rfb2s9VHJ1ZSkKCiAgICBwcm90b2NvbHMgPSB7fQogICAgZm9yIGNmZyBpbiBjb25maWdzOgogICAgICAgIGlmICc6Ly8nIG5vdCBpbiBjZmc6CiAgICAgICAgICAgIHByb3RvID0gJ290aGVyJwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG9yaWdpbmFsX3Byb3RvID0gY2ZnLnNwbGl0KCc6Ly8nKVswXS5zdHJpcCgpLmxvd2VyKCkKICAgICAgICAgICAgIyDYqtix2KzZhdmHINmG2KfZheKAjNmH2KfbjCDYrtin2LUKICAgICAgICAgICAgcHJvdG8gPSBQUk9UT19NQVAuZ2V0KG9yaWdpbmFsX3Byb3RvLCBvcmlnaW5hbF9wcm90bykKCiAgICAgICAgICAgICMg2Kfar9ixINm+2LHZiNiq2qnZhCDYqtix2KzZhdmHINi02K/Zh9iMINmE24zZhtqpINix2Kcg2YfZhSDYp9i12YTYp9itINqp2YYKICAgICAgICAgICAgaWYgb3JpZ2luYWxfcHJvdG8gIT0gcHJvdG86CiAgICAgICAgICAgICAgICBjZmcgPSBjZmcucmVwbGFjZShmIntvcmlnaW5hbF9wcm90b306Ly8iLCBmIntwcm90b306Ly8iLCAxKQoKICAgICAgICBwcm90b2NvbHMuc2V0ZGVmYXVsdChwcm90bywgW10pLmFwcGVuZChjZmcpCgogICAgZm9yIHByb3RvLCBpdGVtcyBpbiBwcm90b2NvbHMuaXRlbXMoKToKICAgICAgICBmbmFtZSA9IGYic2VydmVycy97cHJvdG99X3NlcnZlcnMudHh0IgogICAgICAgIHdpdGggb3BlbihmbmFtZSwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKCJcbiIuam9pbihpdGVtcykgKyAiXG4iKQogICAgICAgIGxvZ2dlci5pbmZvKGYiUmVidWlsdCB7Zm5hbWV9IHdpdGgge2xlbihpdGVtcyl9IGNvbmZpZ3MiKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""بازسازی فایل‌های پروتکل از روی all_servers.txt پالایش‌شده."""
+import os
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
+ALL_SERVERS = "all_servers.txt"
+
+def main():
+    if not os.path.exists(ALL_SERVERS):
+        logger.error(f"{ALL_SERVERS} not found!")
+        return
+
+    with open(ALL_SERVERS, "r", encoding="utf-8") as f:
+        configs = sorted({line.strip() for line in f if line.strip()})
+
+    # -- نگاشت نام‌های غیراستاندارد به استاندارد --
+    PROTO_MAP = {
+        "hy2": "hysteria2",
+        "VLESS": "vless"
+    }
+
+    # ساخت پوشه servers اگر وجود ندارد
+    os.makedirs("servers", exist_ok=True)
+
+    protocols = {}
+    for cfg in configs:
+        if '://' not in cfg:
+            proto = 'other'
+        else:
+            original_proto = cfg.split('://')[0].strip().lower()
+            # ترجمه نام‌های خاص
+            proto = PROTO_MAP.get(original_proto, original_proto)
+
+            # اگر پروتکل ترجمه شده، لینک را هم اصلاح کن
+            if original_proto != proto:
+                cfg = cfg.replace(f"{original_proto}://", f"{proto}://", 1)
+
+        protocols.setdefault(proto, []).append(cfg)
+
+    for proto, items in protocols.items():
+        fname = f"servers/{proto}_servers.txt"
+        with open(fname, "w", encoding="utf-8") as f:
+            f.write("\n".join(items) + "\n")
+        logger.info(f"Rebuilt {fname} with {len(items)} configs")
+
+if __name__ == "__main__":
+    main()

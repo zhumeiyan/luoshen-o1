@@ -1,1 +1,8 @@
-X19weWNhY2hlX18vCioucHljCnN0YXRlLwpzdGF0ZV92Mi8Kc3RhdGVfdjMvCnN0YXRlX3Y0LwpzdGF0ZV92NS8KLkRTX1N0b3JlCg==
+__pycache__/
+*.pyc
+state/
+state_v2/
+state_v3/
+state_v4/
+state_v5/
+.DS_Store

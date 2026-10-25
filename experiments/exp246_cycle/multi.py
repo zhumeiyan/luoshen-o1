@@ -1,1 +1,29 @@
-aW1wb3J0IGpzb24sIHN0YXRpc3RpY3MgYXMgc3QsIGltcG9ydGxpYi51dGlsCnNwZWM9aW1wb3J0bGliLnV0aWwuc3BlY19mcm9tX2ZpbGVfbG9jYXRpb24oJ20nLCdzaW0yNDZkLnB5JykKIyDnm7TmjqXlpI3liLZzaW3lh73mlbAo6YG/5YWN5omn6KGM5omT5Y2wKQpleGVjKG9wZW4oJ3NpbTI0NmQucHknKS5yZWFkKCkuc3BsaXQoIm91dD17fSIpWzBdKQpyZXM9e30KcHJpbnQoIj09IOWkmnNlZWQoNeS4qikg6aqM6K+BID09IikKcHJpbnQoIlsxXSDlrabkuaDmipXlhaUgbGVhcm4gKGM9MC41LFQ9MTIwKSIpCmZvciBscyBpbiBbMC4wLDAuMDUsMC4xLDAuMiwwLjUsMS4wXToKICAgIHY9W3NpbShjPTAuNSxsZWFybj1scyxzZWVkPXMpWyfmgLvog73lipsnXSBmb3IgcyBpbiByYW5nZSg1KV0KICAgIGI9W3NpbShjPTAuNSxsZWFybj1scyxzZWVkPXMpWyfmlLvnoLQnXSBmb3IgcyBpbiByYW5nZSg1KV0KICAgIHJlc1snbGVhcm49JS4yZiclbHNdPXsnbWVhbic6cm91bmQoc3QubWVhbih2KSwzKSwnc2QnOnJvdW5kKHN0LnBzdGRldih2KSwzKSwnYnJrJzpyb3VuZChzdC5tZWFuKGIpLDEpfQogICAgcHJpbnQoIiAgbGVhcm49JS01LjJmICU2LjNmIMKxJS4zZiAg5pS756C0JS4xZiIlKGxzLHN0Lm1lYW4odiksc3QucHN0ZGV2KHYpLHN0Lm1lYW4oYikpKQpwcmludCgiXG5bMl0g5a+/5ZG9VDog562W55Wl5beu5byC5piv5ZCm5pS25pWbIChjPTAuMykiKQpmb3IgVCBpbiBbMzAsNjAsMTIwLDI1MCw1MDAsMTAwMF06CiAgICBhPVtzaW0oYz0wLjMsVD1ULHNlZWQ9cylbJ+aAu+iDveWKmyddIGZvciBzIGluIHJhbmdlKDUpXQogICAgZD1bc2ltKGM9MC4zLG1vZGU9J3N0cm9uZycsVD1ULHNlZWQ9cylbJ+aAu+iDveWKmyddIGZvciBzIGluIHJhbmdlKDUpXQogICAgcmVzWydUPSVkJyVUXT17J2N5Y2xlJzpyb3VuZChzdC5tZWFuKGEpLDMpLCdzZCc6cm91bmQoc3QucHN0ZGV2KGEpLDMpLCdzdHJvbmcnOnJvdW5kKHN0Lm1lYW4oZCksMyl9CiAgICBwcmludCgiICBUPSUtNWQgY3ljbGUgJS4zZsKxJS4zZiAgc3Ryb25nICUuM2YgIOW3riUuM2YiJShULHN0Lm1lYW4oYSksc3QucHN0ZGV2KGEpLHN0Lm1lYW4oZCksYWJzKHN0Lm1lYW4oYSktc3QubWVhbihkKSkpKQpwcmludCgiXG5bM10g5oem5byx5oCnIGMgKGM9MC4zKSDigJTigJQg5qOA6aqM5piv5ZCm5rWL5b6X5Ye6IikKZm9yIGNjIGluIFswLjAsMC41LDEuMF06CiAgICB2PVtzaW0oYz1jYyxzZWVkPXMpWyfmgLvog73lipsnXSBmb3IgcyBpbiByYW5nZSg1KV0KICAgIHJlc1snYz0lLjFmJyVjY109eydtZWFuJzpyb3VuZChzdC5tZWFuKHYpLDMpLCdzZCc6cm91bmQoc3QucHN0ZGV2KHYpLDMpfQogICAgcHJpbnQoIiAgYz0lLTQuMWYgJS4zZiDCsSUuM2YiJShjYyxzdC5tZWFuKHYpLHN0LnBzdGRldih2KSkpCnByaW50KCJcbls0XSDmtojono0g5o2i5pa55ZCRIChjPTAuMyxUPTEyMCkiKQpmb3Igcm8gaW4gW1RydWUsRmFsc2VdOgogICAgdj1bc2ltKGM9MC4zLHJlb3JpZW50PXJvLHNlZWQ9cylbJ+aAu+iDveWKmyddIGZvciBzIGluIHJhbmdlKDUpXQogICAgcmVzWydyZW9yaWVudD0lcyclcm9dPXsnbWVhbic6cm91bmQoc3QubWVhbih2KSwzKSwnc2QnOnJvdW5kKHN0LnBzdGRldih2KSwzKX0KICAgIHByaW50KCIgICUtNnMgJS4zZiDCsSUuM2YiJSgn5pyJJyBpZiBybyBlbHNlICfml6AnLHN0Lm1lYW4odiksc3QucHN0ZGV2KHYpKSkKanNvbi5kdW1wKHJlcyxvcGVuKCdtdWx0aTI0Ni5qc29uJywndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+import json, statistics as st, importlib.util
+spec=importlib.util.spec_from_file_location('m','sim246d.py')
+# 直接复制sim函数(避免执行打印)
+exec(open('sim246d.py').read().split("out={}")[0])
+res={}
+print("== 多seed(5个) 验证 ==")
+print("[1] 学习投入 learn (c=0.5,T=120)")
+for ls in [0.0,0.05,0.1,0.2,0.5,1.0]:
+    v=[sim(c=0.5,learn=ls,seed=s)['总能力'] for s in range(5)]
+    b=[sim(c=0.5,learn=ls,seed=s)['攻破'] for s in range(5)]
+    res['learn=%.2f'%ls]={'mean':round(st.mean(v),3),'sd':round(st.pstdev(v),3),'brk':round(st.mean(b),1)}
+    print("  learn=%-5.2f %6.3f ±%.3f  攻破%.1f"%(ls,st.mean(v),st.pstdev(v),st.mean(b)))
+print("\n[2] 寿命T: 策略差异是否收敛 (c=0.3)")
+for T in [30,60,120,250,500,1000]:
+    a=[sim(c=0.3,T=T,seed=s)['总能力'] for s in range(5)]
+    d=[sim(c=0.3,mode='strong',T=T,seed=s)['总能力'] for s in range(5)]
+    res['T=%d'%T]={'cycle':round(st.mean(a),3),'sd':round(st.pstdev(a),3),'strong':round(st.mean(d),3)}
+    print("  T=%-5d cycle %.3f±%.3f  strong %.3f  差%.3f"%(T,st.mean(a),st.pstdev(a),st.mean(d),abs(st.mean(a)-st.mean(d))))
+print("\n[3] 懦弱性 c (c=0.3) —— 检验是否测得出")
+for cc in [0.0,0.5,1.0]:
+    v=[sim(c=cc,seed=s)['总能力'] for s in range(5)]
+    res['c=%.1f'%cc]={'mean':round(st.mean(v),3),'sd':round(st.pstdev(v),3)}
+    print("  c=%-4.1f %.3f ±%.3f"%(cc,st.mean(v),st.pstdev(v)))
+print("\n[4] 消融 换方向 (c=0.3,T=120)")
+for ro in [True,False]:
+    v=[sim(c=0.3,reorient=ro,seed=s)['总能力'] for s in range(5)]
+    res['reorient=%s'%ro]={'mean':round(st.mean(v),3),'sd':round(st.pstdev(v),3)}
+    print("  %-6s %.3f ±%.3f"%('有' if ro else '无',st.mean(v),st.pstdev(v)))
+json.dump(res,open('multi246.json','w'),ensure_ascii=False,indent=1)

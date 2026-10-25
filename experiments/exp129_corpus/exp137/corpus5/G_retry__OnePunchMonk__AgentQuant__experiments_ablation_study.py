@@ -1,1 +1,81 @@
-aW1wb3J0IHN5cwppbXBvcnQgb3MKaW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSB0cWRtIGltcG9ydCB0cWRtCgojIEFkZCBwcm9qZWN0IHJvb3QgdG8gcGF0aApzeXMucGF0aC5hcHBlbmQob3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nKSkpCgpmcm9tIHNyYy5kYXRhLmluZ2VzdCBpbXBvcnQgZmV0Y2hfb2hsY3ZfZGF0YQpmcm9tIHNyYy5mZWF0dXJlcy5lbmdpbmUgaW1wb3J0IGNvbXB1dGVfZmVhdHVyZXMKZnJvbSBzcmMuZmVhdHVyZXMucmVnaW1lIGltcG9ydCBkZXRlY3RfcmVnaW1lCmZyb20gc3JjLmFnZW50LmxhbmdjaGFpbl9wbGFubmVyIGltcG9ydCBnZW5lcmF0ZV9zdHJhdGVneV9wcm9wb3NhbHMKZnJvbSBzcmMuYmFja3Rlc3QucnVubmVyIGltcG9ydCBydW5fYmFja3Rlc3QKZnJvbSBzcmMudXRpbHMuY29uZmlnIGltcG9ydCBjb25maWcKZnJvbSBkb3RlbnYgaW1wb3J0IGxvYWRfZG90ZW52CgpkZWYgcnVuX2FibGF0aW9uX3N0dWR5KG51bV9ydW5zPTUpOgogICAgbG9hZF9kb3RlbnYoKQogICAgcHJpbnQoIkxvYWRpbmcgZGF0YS4uLiIpCiAgICBvaGxjdl9kYXRhID0gZmV0Y2hfb2hsY3ZfZGF0YSgpCiAgICByZWZfYXNzZXQgPSBjb25maWdbJ3JlZmVyZW5jZV9hc3NldCddCiAgICBmZWF0dXJlc19kZiA9IGNvbXB1dGVfZmVhdHVyZXMob2hsY3ZfZGF0YSwgcmVmX2Fzc2V0LCBjb25maWdbJ3ZpeF90aWNrZXInXSkKICAgIHJlYWxfcmVnaW1lID0gZGV0ZWN0X3JlZ2ltZShmZWF0dXJlc19kZikKICAgIAogICAgcmVzdWx0cyA9IFtdCiAgICAKICAgIHByaW50KGYiUnVubmluZyBBYmxhdGlvbiBTdHVkeSAoe251bV9ydW5zfSBydW5zIGVhY2gpLi4uIikKICAgIAogICAgIyAxLiBXaXRoIENvbnRleHQgKENvbnRyb2wpCiAgICBwcmludCgiUnVubmluZyBXSVRIIENvbnRleHQuLi4iKQogICAgZm9yIGkgaW4gdHFkbShyYW5nZShudW1fcnVucykpOgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJvcG9zYWxzID0gZ2VuZXJhdGVfc3RyYXRlZ3lfcHJvcG9zYWxzKAogICAgICAgICAgICAgICAgcmVnaW1lX2RhdGE9cmVhbF9yZWdpbWUsCiAgICAgICAgICAgICAgICBmZWF0dXJlc19kZj1mZWF0dXJlc19kZiwKICAgICAgICAgICAgICAgIGJhc2VsaW5lX3N0YXRzPXBkLlNlcmllcygpLAogICAgICAgICAgICAgICAgc3RyYXRlZ3lfdHlwZXM9Wydtb21lbnR1bSddLAogICAgICAgICAgICAgICAgYXZhaWxhYmxlX2Fzc2V0cz1bcmVmX2Fzc2V0XSwKICAgICAgICAgICAgICAgIG51bV9wcm9wb3NhbHM9MQogICAgICAgICAgICApCiAgICAgICAgICAgIHAgPSBwcm9wb3NhbHNbMF0KICAgICAgICAgICAgcmVzID0gcnVuX2JhY2t0ZXN0KG9obGN2X2RhdGFbcmVmX2Fzc2V0XSwgW3JlZl9hc3NldF0sIHBbJ3N0cmF0ZWd5X3R5cGUnXSwgcFsncGFyYW1zJ10pCiAgICAgICAgICAgIGlmIHJlczoKICAgICAgICAgICAgICAgIHJlc3VsdHMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICAgICAndHlwZSc6ICdXaXRoIENvbnRleHQnLAogICAgICAgICAgICAgICAgICAgICdzaGFycGUnOiByZXNbJ21ldHJpY3MnXVsnc2hhcnBlX3JhdGlvJ10KICAgICAgICAgICAgICAgIH0pCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChmIkVycm9yOiB7ZX0iKQoKICAgICMgMi4gV2l0aG91dCBDb250ZXh0IChBYmxhdGlvbikKICAgIHByaW50KCJSdW5uaW5nIFdJVEhPVVQgQ29udGV4dC4uLiIpCiAgICBmb3IgaSBpbiB0cWRtKHJhbmdlKG51bV9ydW5zKSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICAjIFBhc3MgZHVtbXkgcmVnaW1lIGFuZCBlbXB0eSBmZWF0dXJlcyB0byBoaWRlIGNvbnRleHQKICAgICAgICAgICAgcHJvcG9zYWxzID0gZ2VuZXJhdGVfc3RyYXRlZ3lfcHJvcG9zYWxzKAogICAgICAgICAgICAgICAgcmVnaW1lX2RhdGE9IlVua25vd24iLAogICAgICAgICAgICAgICAgZmVhdHVyZXNfZGY9cGQuRGF0YUZyYW1lKCksICMgSGlkZSB0ZWNobmljYWxzCiAgICAgICAgICAgICAgICBiYXNlbGluZV9zdGF0cz1wZC5TZXJpZXMoKSwKICAgICAgICAgICAgICAgIHN0cmF0ZWd5X3R5cGVzPVsnbW9tZW50dW0nXSwKICAgICAgICAgICAgICAgIGF2YWlsYWJsZV9hc3NldHM9W3JlZl9hc3NldF0sCiAgICAgICAgICAgICAgICBudW1fcHJvcG9zYWxzPTEKICAgICAgICAgICAgKQogICAgICAgICAgICBwID0gcHJvcG9zYWxzWzBdCiAgICAgICAgICAgIHJlcyA9IHJ1bl9iYWNrdGVzdChvaGxjdl9kYXRhW3JlZl9hc3NldF0sIFtyZWZfYXNzZXRdLCBwWydzdHJhdGVneV90eXBlJ10sIHBbJ3BhcmFtcyddKQogICAgICAgICAgICBpZiByZXM6CiAgICAgICAgICAgICAgICByZXN1bHRzLmFwcGVuZCh7CiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnTm8gQ29udGV4dCcsCiAgICAgICAgICAgICAgICAgICAgJ3NoYXJwZSc6IHJlc1snbWV0cmljcyddWydzaGFycGVfcmF0aW8nXQogICAgICAgICAgICAgICAgfSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KGYiRXJyb3I6IHtlfSIpCiAgICAgICAgICAgIAogICAgZGYgPSBwZC5EYXRhRnJhbWUocmVzdWx0cykKICAgIHByaW50KCJcbkFibGF0aW9uIFJlc3VsdHMgKEF2ZXJhZ2UgU2hhcnBlKToiKQogICAgcHJpbnQoZGYuZ3JvdXBieSgndHlwZScpWydzaGFycGUnXS5tZWFuKCkpCiAgICBkZi50b19jc3YoJ2V4cGVyaW1lbnRzL2FibGF0aW9uX3Jlc3VsdHMuY3N2JywgaW5kZXg9RmFsc2UpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcnVuX2FibGF0aW9uX3N0dWR5KCkK
+import sys
+import os
+import pandas as pd
+import numpy as np
+from tqdm import tqdm
+
+# Add project root to path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from src.data.ingest import fetch_ohlcv_data
+from src.features.engine import compute_features
+from src.features.regime import detect_regime
+from src.agent.langchain_planner import generate_strategy_proposals
+from src.backtest.runner import run_backtest
+from src.utils.config import config
+from dotenv import load_dotenv
+
+def run_ablation_study(num_runs=5):
+    load_dotenv()
+    print("Loading data...")
+    ohlcv_data = fetch_ohlcv_data()
+    ref_asset = config['reference_asset']
+    features_df = compute_features(ohlcv_data, ref_asset, config['vix_ticker'])
+    real_regime = detect_regime(features_df)
+    
+    results = []
+    
+    print(f"Running Ablation Study ({num_runs} runs each)...")
+    
+    # 1. With Context (Control)
+    print("Running WITH Context...")
+    for i in tqdm(range(num_runs)):
+        try:
+            proposals = generate_strategy_proposals(
+                regime_data=real_regime,
+                features_df=features_df,
+                baseline_stats=pd.Series(),
+                strategy_types=['momentum'],
+                available_assets=[ref_asset],
+                num_proposals=1
+            )
+            p = proposals[0]
+            res = run_backtest(ohlcv_data[ref_asset], [ref_asset], p['strategy_type'], p['params'])
+            if res:
+                results.append({
+                    'type': 'With Context',
+                    'sharpe': res['metrics']['sharpe_ratio']
+                })
+        except Exception as e:
+            print(f"Error: {e}")
+
+    # 2. Without Context (Ablation)
+    print("Running WITHOUT Context...")
+    for i in tqdm(range(num_runs)):
+        try:
+            # Pass dummy regime and empty features to hide context
+            proposals = generate_strategy_proposals(
+                regime_data="Unknown",
+                features_df=pd.DataFrame(), # Hide technicals
+                baseline_stats=pd.Series(),
+                strategy_types=['momentum'],
+                available_assets=[ref_asset],
+                num_proposals=1
+            )
+            p = proposals[0]
+            res = run_backtest(ohlcv_data[ref_asset], [ref_asset], p['strategy_type'], p['params'])
+            if res:
+                results.append({
+                    'type': 'No Context',
+                    'sharpe': res['metrics']['sharpe_ratio']
+                })
+        except Exception as e:
+            print(f"Error: {e}")
+            
+    df = pd.DataFrame(results)
+    print("\nAblation Results (Average Sharpe):")
+    print(df.groupby('type')['sharpe'].mean())
+    df.to_csv('experiments/ablation_results.csv', index=False)
+
+if __name__ == "__main__":
+    run_ablation_study()

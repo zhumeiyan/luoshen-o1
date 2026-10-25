@@ -1,1 +1,256 @@
-IiIiUXVldWUgc3RvcmFnZSBtb2R1bGUgdGhhdCBzdG9yZXMgdGhlIHF1ZXVlIGluZm9ybWF0aW9uIGFuZCBmcmFtZXMgaW4gYSBEQk0tc3R5bGUgZGF0YWJhc2UuCgpUaGUgY3VycmVudCBpbXBsZW1lbnRhdGlvbiB1c2VzIDpweTptb2Q6YHNoZWx2ZWAgd2hpY2gsIGluIHR1cm4sIHVzZXMgYSBEQk0gaW1wbGVtZW50YXRpb24KdW5kZXIgdGhlIGhvb2QgZnJvbSA6cHk6bW9kOmBkYm1gLgoKQmVjYXVzZSBvZiBob3cgdGhlIDpweTptb2Q6YHNoZWx2ZWAgbW9kdWxlIHdvcmtzIChhbmQgaG93IHdlJ3JlIHVzaW5nIGl0KSBhbmQgY2F2ZWF0cyBpbiB0aGUgUHl0aG9uCmRvY3VtZW50YXRpb24gdGhpcyBpcyBsaWtlbHkgYSBCQUQgc3RvcmFnZSBtb2R1bGUgdG8gdXNlIGlmIHlvdSBhcmUgZXhwZWN0aW5nIHRvIHRyYWZmaWMgaW4KbGFyZ2UgZnJhbWVzLgoiIiIKCmltcG9ydCBvcwppbXBvcnQgb3MucGF0aAppbXBvcnQgc2hlbHZlCmltcG9ydCB0aHJlYWRpbmcKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVxdWUKZnJvbSBjb25maWdwYXJzZXIgaW1wb3J0IE5vT3B0aW9uRXJyb3IKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZnJvbSBjb2lsbXEuY29uZmlnIGltcG9ydCBjb25maWcKZnJvbSBjb2lsbXEuZXhjZXB0aW9uIGltcG9ydCBDb25maWdFcnJvcgpmcm9tIGNvaWxtcS5zdG9yZSBpbXBvcnQgUXVldWVTdG9yZQpmcm9tIGNvaWxtcS51dGlsLmNvbmN1cnJlbmN5IGltcG9ydCBzeW5jaHJvbml6ZWQKCl9fYXV0aG9yc19fID0gWyciSGFucyBMZWxsZWxpZCIgPGhhbnNAeG1wbC5vcmc+J10KX19jb3B5cmlnaHRfXyA9ICJDb3B5cmlnaHQgMjAwOSBIYW5zIExlbGxlbGlkIgpfX2xpY2Vuc2VfXyA9ICIiIkxpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwp5b3UgbWF5IG5vdCB1c2UgdGhpcyBmaWxlIGV4Y2VwdCBpbiBjb21wbGlhbmNlIHdpdGggdGhlIExpY2Vuc2UuCllvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdAoKICBodHRwczovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCgpVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCmRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCldJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgpTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCmxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLiIiIgoKbG9jayA9IHRocmVhZGluZy5STG9jaygpCgoKZGVmIG1ha2VfZGJtKCk6CiAgICAiIiJDcmVhdGVzIGEgREJNIHF1ZXVlIHN0b3JlLCBwdWxsaW5nIGNvbmZpZyB2YWx1ZXMgZnJvbSB0aGUgQ29pbE1RIGNvbmZpZ3VyYXRpb24uIiIiCiAgICB0cnk6CiAgICAgICAgZGF0YV9kaXIgPSBjb25maWcuZ2V0KCJjb2lsbXEiLCAicXN0b3JlLmRibS5kYXRhX2RpciIpCiAgICAgICAgY3Bfb3BzID0gY29uZmlnLmdldGludCgiY29pbG1xIiwgInFzdG9yZS5kYm0uY2hlY2twb2ludF9vcGVyYXRpb25zIikKICAgICAgICBjcF90aW1lb3V0ID0gY29uZmlnLmdldGludCgiY29pbG1xIiwgInFzdG9yZS5kYm0uY2hlY2twb2ludF90aW1lb3V0IikKICAgIGV4Y2VwdCBOb09wdGlvbkVycm9yIGFzIGU6CiAgICAgICAgcmFpc2UgQ29uZmlnRXJyb3IoZiJNaXNzaW5nIGNvbmZpZ3VyYXRpb24gcGFyYW1ldGVyOiB7ZX0iKSBmcm9tIGUKCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoZGF0YV9kaXIpOgogICAgICAgIHJhaXNlIENvbmZpZ0Vycm9yKGYiREJNIGRpcmVjdG9yeSBkb2VzIG5vdCBleGlzdDoge2RhdGFfZGlyfSIpCiAgICAjIEZJWE1FOiBob3cgZG8gdGhlc2UgZ2V0IGFwcGxpZWQ/IElzIE9SIGFwcHJvcHJpYXRlPwogICAgaWYgbm90IG9zLmFjY2VzcyhkYXRhX2Rpciwgb3MuV19PSyB8IG9zLlJfT0spOgogICAgICAgIHJhaXNlIENvbmZpZ0Vycm9yKGYiQ2Fubm90IHJlYWQgYW5kIHdyaXRlIERCTSBkaXJlY3Rvcnk6IHtkYXRhX2Rpcn0iKQoKICAgIHN0b3JlID0gRGJtUXVldWUoCiAgICAgICAgZGF0YV9kaXIsIGNoZWNrcG9pbnRfb3BlcmF0aW9ucz1jcF9vcHMsIGNoZWNrcG9pbnRfdGltZW91dD1jcF90aW1lb3V0CiAgICApCiAgICByZXR1cm4gc3RvcmUKCgpjbGFzcyBEYm1RdWV1ZShRdWV1ZVN0b3JlKToKICAgICIiIkEgUXVldWVTdG9yZSBpbXBsZW1lbnRhdGlvbiB0aGF0IHN0b3JlcyBtZXNzYWdlcyBhbmQgcXVldWUgaW5mb3JtYXRpb24gaW4gREJNLXN0eWxlCiAgICBkYXRhYmFzZS4KCiAgICBTZXZlcmFsIGRhdGFiYXNlIGZpbGVzIHdpbGwgYmUgdXNlZCB0byBzdXBwb3J0IHRoaXMgZnVuY3Rpb25hbGl0eTogbWV0YWRhdGEgYWJvdXQgdGhlCiAgICBxdWV1ZXMgd2lsbCBiZSBzdG9yZWQgaW4gaXRzIG93biBkYXRhYmFzZSBhbmQgZWFjaCBxdWV1ZSB3aWxsIGFsc28gaGF2ZSBpdHMgb3duCiAgICBkYXRhYmFzZSBmaWxlLgoKICAgIFRoaXMgY2xhc3MgdXNlcyBhIDpweTpjbGFzczpgdGhyZWFkaW5nLlJMb2NrYCB0byBndWFyZCBhY2Nlc3MgdG8gdGhlIG1lbW9yeSBzdG9yZSwgc2luY2UgaXQKICAgIGFwcGVhcnMgdGhhdCBhdCBsZWFzdCBzb21lIG9mIHRoZSB1bmRlcmx5aW5nIGltcGxlbWVudGF0aW9ucyB0aGF0IDpweTptb2Q6YGRibWAgdXNlcyBhcmUgbm90CiAgICB0aHJlYWQtc2FmZS4KCiAgICBEdWUgdG8gc29tZSBpbXBlZGFuY2UgbWlzbWF0Y2ggYmV0d2VlbiB0aGUgdHlwZXMgb2YgZGF0YSB3ZSBuZWVkIHRvIHN0b3JlIGluIHF1ZXVlcwogICAgKHNwZWNpZmljYWxseSBsaXN0cykgYW5kIHRoZSB0eXBlcyBvZiBkYXRhIHRoYXQgYXJlIGJlc3Qgc3RvcmVkIGluIERCTSBkYXRhYmFzZXMKICAgIChzcGVjaWZpY2FsbHkgZGljdHMpLCB0aGlzIGNsYXNzIHVzZXMgOnB5Om1vZDpgc2hlbHZlYCB0byBhYnN0cmFjdCBhd2F5IHNvbWUKICAgIG9mIHRoZSB1Z2xpbmVzcy4gIFRoZSBjb25zZXF1ZW5jZSBvZiB0aGlzIGlzIHRoYXQgd2Ugb25seSBwZXJzaXN0IG9iamVjdHMgcGVyaW9kaWNhbGx5CiAgICB0byB0aGUgZGF0YXN0b3JlLCBmb3IgcGVyZm9ybWFuY2UgcmVhc29ucy4gIEhvdyBwZXJpb2RpYyBpcyBkZXRlcm1pbmVkIGJ5IHRoZQogICAgOnBhcmFtcmVmOmBjaGVja3BvaW50X29wZXJhdGlvbnNgIGFuZCA6cGFyYW1yZWY6YGNoZWNrcG9pbnRfdGltZW91dGAgaW5zdGFuY2UgdmFyaWFibGVzLgoKICAgIDp2YXIgZGF0YV9kaXI6IFRoZSBkaXJlY3Rvcnkgd2hlcmUgREJNIGZpbGVzIHdpbGwgYmUgc3RvcmVkLgogICAgOnZhcnR5cGUgZGF0YV9kaXI6IHN0cgogICAgOnZhciBxdWV1ZV9tZXRhZGF0YTogQSBTaGVsZiAoREJNKSBkYXRhYmFzZSB0aGF0IHRyYWNrcyBzdGF0cyAmIGRlbGl2ZXJlZCBtZXNzYWdlCiAgICAgICAgaWRzIGZvciBhbGwgdGhlIHF1ZXVlcy4KICAgIDp2YXJ0eXBlIHF1ZXVlX21ldGFkYXRhOiBzaGVsdmUuU2hlbGYKICAgIDp2YXIgZnJhbWVfc3RvcmU6IEEgU2hlbGYgKERCTSkgZGF0YWJhc2UgdGhhdCBjb250YWlucyBmcmFtZSBjb250ZW50cyBpbmRleGVkIGJ5CiAgICAgICAgbWVzc2FnZSBpZC4KICAgIDp2YXJ0eXBlIGZyYW1lX3N0b3JlOiBzaGVsdmUuU2hlbGYKICAgIDp2YXIgX29wY291bnQ6IEludGVybmFsIGNvdW50ZXIgZm9yIGtlZXBpbmcgdHJhY2sgb2YgdW5wZXJzaXN0ZWQgb3BlcmF0aW9ucy4KICAgIDp2YXJ0eXBlIF9vcGNvdW50OiBpbnQKICAgIDp2YXIgY2hlY2twb2ludF9vcGVyYXRpb25zOiBOdW1iZXIgb2Ygb3BlcmF0aW9ucyBiZXR3ZWVuIHN5bmNzLgogICAgOnZhcnR5cGUgY2hlY2twb2ludF9vcGVyYXRpb25zOiBpbnQKICAgIDp2YXIgY2hlY2twb2ludF90aW1lb3V0OiBNYXggdGltZSAoaW4gc2Vjb25kcykgdGhhdCBjYW4gZWxhcHNlIGJldHdlZW4gc3luYyBvZgogICAgICAgIGNhY2hlLgogICAgOnZhcnR5cGUgY2hlY2twb2ludF90aW1lb3V0OiBkYXRldGltZS50aW1lZGVsdGEKCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgZGF0YV9kaXIsIGNoZWNrcG9pbnRfb3BlcmF0aW9ucz0xMDAsIGNoZWNrcG9pbnRfdGltZW91dD0zMCk6CiAgICAgICAgIiIiOnBhcmFtIGRhdGFfZGlyOiA6cHk6Y2xhc3M6YHN0cmAKICAgICAgICA6cGFyYW0gY2hlY2twb2ludF9vcGVyYXRpb25zOiBOdW1iZXIgb2Ygb3BlcmF0aW9ucyBiZXR3ZWVuIHN5bmNzLgogICAgICAgIDp0eXBlIGNoZWNrcG9pbnRfb3BlcmF0aW9uczogaW50CiAgICAgICAgOnBhcmFtIGNoZWNrcG9pbnRfdGltZW91dDogTWF4IHRpbWUgKGluIHNlY29uZHMpIHRoYXQgY2FuIGVsYXBzZSBiZXR3ZWVuIHN5bmMgb2YKICAgICAgICAgICAgY2FjaGUuCiAgICAgICAgOnR5cGUgY2hlY2twb2ludF90aW1lb3V0OiBmbG9hdAoKICAgICAgICAiIiIKICAgICAgICBRdWV1ZVN0b3JlLl9faW5pdF9fKHNlbGYpCgogICAgICAgIHNlbGYuX29wY291bnQgPSAwCiAgICAgICAgc2VsZi5fbGFzdF9zeW5jID0gZGF0ZXRpbWUubm93KCkKCiAgICAgICAgc2VsZi5kYXRhX2RpciA9IGRhdGFfZGlyCiAgICAgICAgc2VsZi5jaGVja3BvaW50X29wZXJhdGlvbnMgPSBjaGVja3BvaW50X29wZXJhdGlvbnMKICAgICAgICBzZWxmLmNoZWNrcG9pbnRfdGltZW91dCA9IHRpbWVkZWx0YShzZWNvbmRzPWNoZWNrcG9pbnRfdGltZW91dCkKCiAgICAgICAgIyBTaG91bGQgdGhpcyBiZSBpbiBjb25zdHJ1Y3Rvcj8KCiAgICAgICAgIyBUaGUgcXVldWUgbWV0YWRhdGEgc3RvcmVzIG11dGFibGUgKGRpY3QpIG9iamVjdHMuICBGb3IgdGhpcyByZWFzb24gd2Ugc2V0CiAgICAgICAgIyB3cml0ZWJhY2s9VHJ1ZSBhbmQgcmVseSBvbiB0aGUgc3luYygpIG1ldGhvZCB0byBrZWVwIHRoZSBjYWNoZSAmIGRpc2sKICAgICAgICAjIGluLXN5bmMuCiAgICAgICAgc2VsZi5xdWV1ZV9tZXRhZGF0YSA9IHNoZWx2ZS5vcGVuKCAgIyBub3FhOiBTSU0xMTUKICAgICAgICAgICAgb3MucGF0aC5qb2luKHNlbGYuZGF0YV9kaXIsICJtZXRhZGF0YSIpLAogICAgICAgICAgICB3cml0ZWJhY2s9VHJ1ZSwKICAgICAgICApCgogICAgICAgICMgU2luY2Ugd2UgZG8gbm90IG5lZWQgbXV0YWJsZSBvYmplY3RzIG9uIHRoZSBmcmFtZSBzdG9yZXMgKHdlIGRvbid0IG1vZGlmeSB0aGVtLCB3ZSBqdXN0CiAgICAgICAgIyBwdXQvZ2V0IHZhbHVlcyksIHdlIGRvIE5PVCB1c2Ugd3JpdGViYWNrPVRydWUgaGVyZS4gIFRoaXMgc2hvdWxkIGFsc28gY29uc2VydmUgb24gbWVtb3J5CiAgICAgICAgIyB1c2FnZSwgc2luY2UgYXBwYXJlbnRseSB0aGF0IGNhbiBnZXQgaGVmdHkgd2l0aCB0aGUgY2FjaGluZyB3aGVuCiAgICAgICAgIyB3cml0ZWJhY2s9VHJ1ZS4KICAgICAgICBzZWxmLmZyYW1lX3N0b3JlID0gc2hlbHZlLm9wZW4oICAjIG5vcWE6IFNJTTExNQogICAgICAgICAgICBvcy5wYXRoLmpvaW4oc2VsZi5kYXRhX2RpciwgImZyYW1lcyIpLAogICAgICAgICAgICB3cml0ZWJhY2s9RmFsc2UsCiAgICAgICAgKQoKICAgIEBzeW5jaHJvbml6ZWQobG9jaykKICAgIGRlZiBlbnF1ZXVlKHNlbGYsIGRlc3RpbmF0aW9uLCBmcmFtZSk6CiAgICAgICAgIiIiU3RvcmUgbWVzc2FnZSAoZnJhbWUpIGZvciBzcGVjaWZpZWQgZGVzdGluYXRpb24uCgogICAgICAgIDpwYXJhbSBkZXN0aW5hdGlvbjogVGhlIGRlc3RpbmF0aW9uIHF1ZXVlIG5hbWUgZm9yIHRoaXMgbWVzc2FnZSAoZnJhbWUpLgogICAgICAgIDp0eXBlIGRlc3RpbmF0aW9uOiBzdHIKICAgICAgICA6cGFyYW0gZnJhbWU6IFRoZSBtZXNzYWdlIChmcmFtZSkgdG8gc2VuZCB0byBzcGVjaWZpZWQgZGVzdGluYXRpb24uCiAgICAgICAgOnR5cGUgZnJhbWU6IGNvaWxtcS51dGlsLmZyYW1lcy5GcmFtZQoKICAgICAgICAiIiIKICAgICAgICBtZXNzYWdlX2lkID0gZnJhbWUuaGVhZGVycy5nZXQoIm1lc3NhZ2UtaWQiKQogICAgICAgIGlmIG5vdCBtZXNzYWdlX2lkOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJDYW5ub3QgcXVldWUgYSBmcmFtZSB3aXRob3V0IG1lc3NhZ2UtaWQgc2V0LiIpCgogICAgICAgIGlmIG5vdCBkZXN0aW5hdGlvbiBpbiBzZWxmLnF1ZXVlX21ldGFkYXRhOgogICAgICAgICAgICBzZWxmLmxvZy5pbmZvKAogICAgICAgICAgICAgICAgIkRlc3RpbmF0aW9uICVzIG5vdCBpbiBtZXRhZGF0YTsgY3JlYXRpbmcgbmV3IGVudHJ5IGFuZCBxdWV1ZSBkYXRhYmFzZS4iLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb24sCiAgICAgICAgICAgICkKICAgICAgICAgICAgc2VsZi5xdWV1ZV9tZXRhZGF0YVtkZXN0aW5hdGlvbl0gPSB7CiAgICAgICAgICAgICAgICAiZnJhbWVzIjogZGVxdWUoKSwKICAgICAgICAgICAgICAgICJlbnF1ZXVlZCI6IDAsCiAgICAgICAgICAgICAgICAiZGVxdWV1ZWQiOiAwLAogICAgICAgICAgICAgICAgInNpemUiOiAwLAogICAgICAgICAgICB9CgogICAgICAgIHNlbGYucXVldWVfbWV0YWRhdGFbZGVzdGluYXRpb25dWyJmcmFtZXMiXS5hcHBlbmRsZWZ0KG1lc3NhZ2VfaWQpCiAgICAgICAgc2VsZi5xdWV1ZV9tZXRhZGF0YVtkZXN0aW5hdGlvbl1bImVucXVldWVkIl0gKz0gMQoKICAgICAgICBzZWxmLmZyYW1lX3N0b3JlW21lc3NhZ2VfaWRdID0gZnJhbWUKCiAgICAgICAgc2VsZi5fb3Bjb3VudCArPSAxCiAgICAgICAgc2VsZi5fc3luYygpCgogICAgQHN5bmNocm9uaXplZChsb2NrKQogICAgZGVmIGRlcXVldWUoc2VsZiwgZGVzdGluYXRpb24pOgogICAgICAgICIiIlJlbW92ZXMgYW5kIHJldHVybnMgYW4gaXRlbSBmcm9tIHRoZSBxdWV1ZSAob3IgOnB5Om9iajpgTm9uZWAgaWYgbm8gaXRlbXMgaW4gcXVldWUpLgoKICAgICAgICA6cGFyYW0gZGVzdGluYXRpb246IFRoZSBxdWV1ZSBuYW1lIChkZXN0aW5hdGlvbikuCiAgICAgICAgOnR5cGUgZGVzdGluYXRpb246IHN0cgoKICAgICAgICA6cmV0dXJuczogVGhlIGZpcnN0IGZyYW1lIGluIHRoZSBzcGVjaWZpZWQgcXVldWUsIG9yIDpweTpvYmo6YE5vbmVgIGlmIHRoZXJlIGFyZQogICAgICAgICAgICBub25lLgogICAgICAgIDpydHlwZTogY29pbG1xLnV0aWwuZnJhbWVzLkZyYW1lCiAgICAgICAgIiIiCiAgICAgICAgaWYgbm90IHNlbGYuaGFzX2ZyYW1lcyhkZXN0aW5hdGlvbik6CiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgIG1lc3NhZ2VfaWQgPSBzZWxmLnF1ZXVlX21ldGFkYXRhW2Rlc3RpbmF0aW9uXVsiZnJhbWVzIl0ucG9wKCkKICAgICAgICBzZWxmLnF1ZXVlX21ldGFkYXRhW2Rlc3RpbmF0aW9uXVsiZGVxdWV1ZWQiXSArPSAxCgogICAgICAgIGZyYW1lID0gc2VsZi5mcmFtZV9zdG9yZVttZXNzYWdlX2lkXQogICAgICAgIGRlbCBzZWxmLmZyYW1lX3N0b3JlW21lc3NhZ2VfaWRdCgogICAgICAgIHNlbGYuX29wY291bnQgKz0gMQogICAgICAgIHNlbGYuX3N5bmMoKQoKICAgICAgICByZXR1cm4gZnJhbWUKCiAgICBAc3luY2hyb25pemVkKGxvY2spCiAgICBkZWYgaGFzX2ZyYW1lcyhzZWxmLCBkZXN0aW5hdGlvbik6CiAgICAgICAgIiIiV2hldGhlciBzcGVjaWZpZWQgcXVldWUgaGFzIGFueSBmcmFtZXMuCgogICAgICAgIDpwYXJhbSBkZXN0aW5hdGlvbjogVGhlIHF1ZXVlIG5hbWUgKGRlc3RpbmF0aW9uKS4KICAgICAgICA6dHlwZSBkZXN0aW5hdGlvbjogc3RyCgogICAgICAgIDpyZXR1cm5zOiBXaGV0aGVyIHRoZXJlIGFyZSBhbnkgZnJhbWVzIGluIHRoZSBzcGVjaWZpZWQgcXVldWUuCiAgICAgICAgOnJ0eXBlOiBib29sCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIChkZXN0aW5hdGlvbiBpbiBzZWxmLnF1ZXVlX21ldGFkYXRhKSBhbmQgYm9vbCgKICAgICAgICAgICAgc2VsZi5xdWV1ZV9tZXRhZGF0YVtkZXN0aW5hdGlvbl1bImZyYW1lcyJdCiAgICAgICAgKQoKICAgIEBzeW5jaHJvbml6ZWQobG9jaykKICAgIGRlZiBzaXplKHNlbGYsIGRlc3RpbmF0aW9uKToKICAgICAgICAiIiJTaXplIG9mIHRoZSBxdWV1ZSBmb3Igc3BlY2lmaWVkIGRlc3RpbmF0aW9uLgoKICAgICAgICA6cGFyYW0gZGVzdGluYXRpb246IFRoZSBxdWV1ZSBkZXN0aW5hdGlvbiAoZS5nLiAvcXVldWUvZm9vKQogICAgICAgIDp0eXBlIGRlc3RpbmF0aW9uOiBzdHIKCiAgICAgICAgOnJldHVybnM6IFRoZSBudW1iZXIgb2YgZnJhbWVzIGluIHNwZWNpZmllZCBxdWV1ZS4KICAgICAgICA6cnR5cGU6IGludAogICAgICAgICIiIgogICAgICAgIGlmIG5vdCBkZXN0aW5hdGlvbiBpbiBzZWxmLnF1ZXVlX21ldGFkYXRhOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBsZW4oc2VsZi5xdWV1ZV9tZXRhZGF0YVtkZXN0aW5hdGlvbl1bImZyYW1lcyJdKQoKICAgIEBzeW5jaHJvbml6ZWQobG9jaykKICAgIGRlZiBjbG9zZShzZWxmKToKICAgICAgICAiIiJDbG9zZXMgdGhlIGRhdGFiYXNlcywgZnJlZWluZyBhbnkgcmVzb3VyY2VzIChhbmQgZmx1c2hpbmcgYW55IHVuc2F2ZWQgY2hhbmdlcyB0byBkaXNrKS4iIiIKICAgICAgICBzZWxmLnF1ZXVlX21ldGFkYXRhLmNsb3NlKCkKICAgICAgICBzZWxmLmZyYW1lX3N0b3JlLmNsb3NlKCkKCiAgICBAc3luY2hyb25pemVkKGxvY2spCiAgICBkZWYgZGVzdGluYXRpb25zKHNlbGYpOgogICAgICAgICIiIlByb3ZpZGVzIGEgbGlzdCBvZiBkZXN0aW5hdGlvbnMgKHF1ZXVlICJhZGRyZXNzZXMiKSBhdmFpbGFibGUuCgogICAgICAgIDpyZXR1cm5zOiBBIGxpc3Qgb2YgdGhlIGRlc3RpbmF0aW9ucyBhdmFpbGFibGUuCiAgICAgICAgOnJ0eXBlOiBzZXQKICAgICAgICAiIiIKICAgICAgICByZXR1cm4gc2V0KHNlbGYucXVldWVfbWV0YWRhdGEua2V5cygpKQoKICAgIGRlZiBfc3luYyhzZWxmKToKICAgICAgICAiIiJTeW5jaHJvbml6ZSB0aGUgY2FjaGVkIGRhdGEgd2l0aCB0aGUgdW5kZXJseWluZyBkYXRhYmFzZS4KCiAgICAgICAgVXNlcyBhbiBpbnRlcm5hbCB0cmFuc2FjdGlvbiBjb3VudGVyIGFuZCBjb21wYXJlcyB0byB0aGUgY2hlY2twb2ludF9vcGVyYXRpb25zCiAgICAgICAgYW5kIGNoZWNrcG9pbnRfdGltZW91dCBwYXJhbWV0ZXJzIHRvIGRldGVybWluZSB3aGV0aGVyIHRvIHBlcnNpc3QgdGhlIG1lbW9yeSBzdG9yZS4KCiAgICAgICAgSW4gdGhpcyBpbXBsZW1lbnRhdGlvbiwgdGhpcyBtZXRob2Qgd3JhcHMgY2FsbHMgdG8gOnB5Om1ldGg6YHNoZWx2ZS5TaGVsZi5zeW5jYC4KICAgICAgICAiIiIKICAgICAgICBpZiAoCiAgICAgICAgICAgIHNlbGYuX29wY291bnQgPiBzZWxmLmNoZWNrcG9pbnRfb3BlcmF0aW9ucwogICAgICAgICAgICBvciBkYXRldGltZS5ub3coKSA+IHNlbGYuX2xhc3Rfc3luYyArIHNlbGYuY2hlY2twb2ludF90aW1lb3V0CiAgICAgICAgKToKICAgICAgICAgICAgc2VsZi5sb2cuZGVidWcoIlN5bmNocm9uaXppbmcgcXVldWUgbWV0YWRhdGEuIikKICAgICAgICAgICAgc2VsZi5xdWV1ZV9tZXRhZGF0YS5zeW5jKCkKICAgICAgICAgICAgc2VsZi5fbGFzdF9zeW5jID0gZGF0ZXRpbWUubm93KCkKICAgICAgICAgICAgc2VsZi5fb3Bjb3VudCA9IDAKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmxvZy5kZWJ1ZygiTk9UIHN5bmNocm9uaXppbmcgcXVldWUgbWV0YWRhdGEuIikK
+"""Queue storage module that stores the queue information and frames in a DBM-style database.
+
+The current implementation uses :py:mod:`shelve` which, in turn, uses a DBM implementation
+under the hood from :py:mod:`dbm`.
+
+Because of how the :py:mod:`shelve` module works (and how we're using it) and caveats in the Python
+documentation this is likely a BAD storage module to use if you are expecting to traffic in
+large frames.
+"""
+
+import os
+import os.path
+import shelve
+import threading
+from collections import deque
+from configparser import NoOptionError
+from datetime import datetime, timedelta
+
+from coilmq.config import config
+from coilmq.exception import ConfigError
+from coilmq.store import QueueStore
+from coilmq.util.concurrency import synchronized
+
+__authors__ = ['"Hans Lellelid" <hans@xmpl.org>']
+__copyright__ = "Copyright 2009 Hans Lellelid"
+__license__ = """Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License."""
+
+lock = threading.RLock()
+
+
+def make_dbm():
+    """Creates a DBM queue store, pulling config values from the CoilMQ configuration."""
+    try:
+        data_dir = config.get("coilmq", "qstore.dbm.data_dir")
+        cp_ops = config.getint("coilmq", "qstore.dbm.checkpoint_operations")
+        cp_timeout = config.getint("coilmq", "qstore.dbm.checkpoint_timeout")
+    except NoOptionError as e:
+        raise ConfigError(f"Missing configuration parameter: {e}") from e
+
+    if not os.path.exists(data_dir):
+        raise ConfigError(f"DBM directory does not exist: {data_dir}")
+    # FIXME: how do these get applied? Is OR appropriate?
+    if not os.access(data_dir, os.W_OK | os.R_OK):
+        raise ConfigError(f"Cannot read and write DBM directory: {data_dir}")
+
+    store = DbmQueue(
+        data_dir, checkpoint_operations=cp_ops, checkpoint_timeout=cp_timeout
+    )
+    return store
+
+
+class DbmQueue(QueueStore):
+    """A QueueStore implementation that stores messages and queue information in DBM-style
+    database.
+
+    Several database files will be used to support this functionality: metadata about the
+    queues will be stored in its own database and each queue will also have its own
+    database file.
+
+    This class uses a :py:class:`threading.RLock` to guard access to the memory store, since it
+    appears that at least some of the underlying implementations that :py:mod:`dbm` uses are not
+    thread-safe.
+
+    Due to some impedance mismatch between the types of data we need to store in queues
+    (specifically lists) and the types of data that are best stored in DBM databases
+    (specifically dicts), this class uses :py:mod:`shelve` to abstract away some
+    of the ugliness.  The consequence of this is that we only persist objects periodically
+    to the datastore, for performance reasons.  How periodic is determined by the
+    :paramref:`checkpoint_operations` and :paramref:`checkpoint_timeout` instance variables.
+
+    :var data_dir: The directory where DBM files will be stored.
+    :vartype data_dir: str
+    :var queue_metadata: A Shelf (DBM) database that tracks stats & delivered message
+        ids for all the queues.
+    :vartype queue_metadata: shelve.Shelf
+    :var frame_store: A Shelf (DBM) database that contains frame contents indexed by
+        message id.
+    :vartype frame_store: shelve.Shelf
+    :var _opcount: Internal counter for keeping track of unpersisted operations.
+    :vartype _opcount: int
+    :var checkpoint_operations: Number of operations between syncs.
+    :vartype checkpoint_operations: int
+    :var checkpoint_timeout: Max time (in seconds) that can elapse between sync of
+        cache.
+    :vartype checkpoint_timeout: datetime.timedelta
+
+    """
+
+    def __init__(self, data_dir, checkpoint_operations=100, checkpoint_timeout=30):
+        """:param data_dir: :py:class:`str`
+        :param checkpoint_operations: Number of operations between syncs.
+        :type checkpoint_operations: int
+        :param checkpoint_timeout: Max time (in seconds) that can elapse between sync of
+            cache.
+        :type checkpoint_timeout: float
+
+        """
+        QueueStore.__init__(self)
+
+        self._opcount = 0
+        self._last_sync = datetime.now()
+
+        self.data_dir = data_dir
+        self.checkpoint_operations = checkpoint_operations
+        self.checkpoint_timeout = timedelta(seconds=checkpoint_timeout)
+
+        # Should this be in constructor?
+
+        # The queue metadata stores mutable (dict) objects.  For this reason we set
+        # writeback=True and rely on the sync() method to keep the cache & disk
+        # in-sync.
+        self.queue_metadata = shelve.open(  # noqa: SIM115
+            os.path.join(self.data_dir, "metadata"),
+            writeback=True,
+        )
+
+        # Since we do not need mutable objects on the frame stores (we don't modify them, we just
+        # put/get values), we do NOT use writeback=True here.  This should also conserve on memory
+        # usage, since apparently that can get hefty with the caching when
+        # writeback=True.
+        self.frame_store = shelve.open(  # noqa: SIM115
+            os.path.join(self.data_dir, "frames"),
+            writeback=False,
+        )
+
+    @synchronized(lock)
+    def enqueue(self, destination, frame):
+        """Store message (frame) for specified destination.
+
+        :param destination: The destination queue name for this message (frame).
+        :type destination: str
+        :param frame: The message (frame) to send to specified destination.
+        :type frame: coilmq.util.frames.Frame
+
+        """
+        message_id = frame.headers.get("message-id")
+        if not message_id:
+            raise ValueError("Cannot queue a frame without message-id set.")
+
+        if not destination in self.queue_metadata:
+            self.log.info(
+                "Destination %s not in metadata; creating new entry and queue database.",
+                destination,
+            )
+            self.queue_metadata[destination] = {
+                "frames": deque(),
+                "enqueued": 0,
+                "dequeued": 0,
+                "size": 0,
+            }
+
+        self.queue_metadata[destination]["frames"].appendleft(message_id)
+        self.queue_metadata[destination]["enqueued"] += 1
+
+        self.frame_store[message_id] = frame
+
+        self._opcount += 1
+        self._sync()
+
+    @synchronized(lock)
+    def dequeue(self, destination):
+        """Removes and returns an item from the queue (or :py:obj:`None` if no items in queue).
+
+        :param destination: The queue name (destination).
+        :type destination: str
+
+        :returns: The first frame in the specified queue, or :py:obj:`None` if there are
+            none.
+        :rtype: coilmq.util.frames.Frame
+        """
+        if not self.has_frames(destination):
+            return None
+
+        message_id = self.queue_metadata[destination]["frames"].pop()
+        self.queue_metadata[destination]["dequeued"] += 1
+
+        frame = self.frame_store[message_id]
+        del self.frame_store[message_id]
+
+        self._opcount += 1
+        self._sync()
+
+        return frame
+
+    @synchronized(lock)
+    def has_frames(self, destination):
+        """Whether specified queue has any frames.
+
+        :param destination: The queue name (destination).
+        :type destination: str
+
+        :returns: Whether there are any frames in the specified queue.
+        :rtype: bool
+        """
+        return (destination in self.queue_metadata) and bool(
+            self.queue_metadata[destination]["frames"]
+        )
+
+    @synchronized(lock)
+    def size(self, destination):
+        """Size of the queue for specified destination.
+
+        :param destination: The queue destination (e.g. /queue/foo)
+        :type destination: str
+
+        :returns: The number of frames in specified queue.
+        :rtype: int
+        """
+        if not destination in self.queue_metadata:
+            return 0
+        else:
+            return len(self.queue_metadata[destination]["frames"])
+
+    @synchronized(lock)
+    def close(self):
+        """Closes the databases, freeing any resources (and flushing any unsaved changes to disk)."""
+        self.queue_metadata.close()
+        self.frame_store.close()
+
+    @synchronized(lock)
+    def destinations(self):
+        """Provides a list of destinations (queue "addresses") available.
+
+        :returns: A list of the destinations available.
+        :rtype: set
+        """
+        return set(self.queue_metadata.keys())
+
+    def _sync(self):
+        """Synchronize the cached data with the underlying database.
+
+        Uses an internal transaction counter and compares to the checkpoint_operations
+        and checkpoint_timeout parameters to determine whether to persist the memory store.
+
+        In this implementation, this method wraps calls to :py:meth:`shelve.Shelf.sync`.
+        """
+        if (
+            self._opcount > self.checkpoint_operations
+            or datetime.now() > self._last_sync + self.checkpoint_timeout
+        ):
+            self.log.debug("Synchronizing queue metadata.")
+            self.queue_metadata.sync()
+            self._last_sync = datetime.now()
+            self._opcount = 0
+        else:
+            self.log.debug("NOT synchronizing queue metadata.")

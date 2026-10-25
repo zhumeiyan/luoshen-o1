@@ -1,1 +1,37 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0LCBqc29uCmZyb20gbWF0cGxvdGxpYiBpbXBvcnQgZm9udF9tYW5hZ2VyCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl09RmFsc2UKcGx0LnJjUGFyYW1zWyJmb250LmZhbWlseSJdPSJXZW5RdWFuWWkgTWljcm8gSGVpIgpCRz0iIzBiMGIwYyI7IE9SPSIjRkY2QjFBIjsgVz0iI2YyZjJmMiI7IEc9IiM4YThhOGEiCnJvd3M9anNvbi5sb2FkKG9wZW4oIuWPguaVsOW6ky/orr7lpIfosLHns7suanNvbiIpKQpwaWNrPVsi5Y2O5Li6IFA1MCBQcm/vvIjkvaDvvIkiLCJpUGhvbmUgMTYgUHJvIE1heCIsIk1hY0Jvb2sgUHJvIDE2IiwiU3R1ZGlvIERpc3BsYXkgMjciLAogICAgICAiTEcgQzMgT0xFRCA2NSIsImlQYWQgUHJvIDEzIiwiUGljbyA0IFVsdHJhIiwiQXBwbGUgV2F0Y2ggUzEwIl0KcnM9W3IgZm9yIHIgaW4gcm93cyBpZiByWyLlkI3np7AiXSBpbiBwaWNrXQpmaWcsYXg9cGx0LnN1YnBsb3RzKDIsMSxmaWdzaXplPSg5LjYsOC4yKSxmYWNlY29sb3I9QkcpCmZpZy5zdWJwbG90c19hZGp1c3QobGVmdD0uMzAscmlnaHQ9Ljk1LHRvcD0uOTAsYm90dG9tPS4wOCxoc3BhY2U9LjQyKQojIOS4iu+8muWDj+e0oC/luqYgdnMg5Lq655y85p6B6ZmQCmF4WzBdLnNldF9mYWNlY29sb3IoQkcpCm5hbWVzPVtyWyLlkI3np7AiXSBmb3IgciBpbiByc107IHZhbHM9W3JbIuWDj+e0oOavj+W6piJdIGZvciByIGluIHJzXQpiPWF4WzBdLmJhcmgocmFuZ2UobGVuKHJzKSlbOjotMV0sdmFscyxjb2xvcj1PUixoZWlnaHQ9LjYyKQpheFswXS5heHZsaW5lKDEyMCxjb2xvcj0iI2QwZDBkMCIsbHM9Ii0tIixsdz0xLjYpCmF4WzBdLnRleHQoMTIwLGxlbihycyktLjIsIiDkurrnnLzmnoHpmZAgMTIwIixjb2xvcj0iI2QwZDBkMCIsZm9udHNpemU9MTEsdmE9ImJvdHRvbSIpCmF4WzBdLnNldF95dGlja3MocmFuZ2UobGVuKHJzKSlbOjotMV0pOyBheFswXS5zZXRfeXRpY2tsYWJlbHMobmFtZXMsY29sb3I9Vyxmb250c2l6ZT0xMikKZm9yIGksKGJiLHYscHBpKSBpbiBlbnVtZXJhdGUoemlwKGIsdmFscyxbclsiUFBJIl0gZm9yIHIgaW4gcnNdKSk6CiAgICBheFswXS50ZXh0KHYrMixpLGYie3Y6LjBmfSAgKFBQSSB7cHBpOi4wZn0pIixjb2xvcj1HLGZvbnRzaXplPTEwLHZhPSJjZW50ZXIiKQpheFswXS5zZXRfeGxpbSgwLDE1MCk7IGF4WzBdLnNldF94bGFiZWwoIuWDj+e0oC/luqYiLGNvbG9yPUcsZm9udHNpemU9MTApCmF4WzBdLnNldF90aXRsZSgi5rKh5pyJ5LiA5Y+w6K6+5aSH55qE6KeS5YiG6L6o546H6LaF6L+H5Lq655y8Iixjb2xvcj1XLGZvbnRzaXplPTE1LHBhZD0xMCkKYXhbMF0udGlja19wYXJhbXMoY29sb3JzPUcpOyBbcy5zZXRfY29sb3IoIiMyYTJhMmMiKSBmb3IgcyBpbiBheFswXS5zcGluZXMudmFsdWVzKCldCiMg5LiL77ya5Lit5aSu5Ye55Y2g5bGPCmF4WzFdLnNldF9mYWNlY29sb3IoQkcpCnBjdD1bclsi5Lit5aSu5Ye55Y2g5bGPIl0gZm9yIHIgaW4gcnNdCmIyPWF4WzFdLmJhcmgocmFuZ2UobGVuKHJzKSlbOjotMV0scGN0LGNvbG9yPVcsaGVpZ2h0PS42MikKYXhbMV0uc2V0X3l0aWNrcyhyYW5nZShsZW4ocnMpKVs6Oi0xXSk7IGF4WzFdLnNldF95dGlja2xhYmVscyhuYW1lcyxjb2xvcj1XLGZvbnRzaXplPTEyKQpmb3IgaSwoYmIsdikgaW4gZW51bWVyYXRlKHppcChiMixwY3QpKToKICAgIGF4WzFdLnRleHQodisuMDIsaSxmInt2Oi4zZn0lIixjb2xvcj1HLGZvbnRzaXplPTEwLHZhPSJjZW50ZXIiKQpheFsxXS5zZXRfeGxpbSgwLDIuMyk7IGF4WzFdLnNldF94bGFiZWwoIuS4reWkruWHueWNoOWxjyAl77yI5a+55pWw5oSf77ya5pyA5aSn5pyA5bCP5beuIDI1IOWAje+8iSIsY29sb3I9Ryxmb250c2l6ZT0xMCkKYXhbMV0uc2V0X3RpdGxlKCLkvaDog73nnIvmuIXnmoTpgqPkuIDlsI/lnZfvvIzlnKjkuI3lkIzorr7lpIfkuIrlt64gMjUg5YCNIixjb2xvcj1XLGZvbnRzaXplPTE1LHBhZD0xMCkKYXhbMV0udGlja19wYXJhbXMoY29sb3JzPUcpOyBbcy5zZXRfY29sb3IoIiMyYTJhMmMiKSBmb3IgcyBpbiBheFsxXS5zcGluZXMudmFsdWVzKCldCnBsdC5zYXZlZmlnKCLmhJ/lrpjmoaUv56ym5Y+3X3YyNV/orr7lpIfosLHns7sucG5nIixkcGk9MTEwLGZhY2Vjb2xvcj1CRykKcHJpbnQoIm9rIikK
+# -*- coding: utf-8 -*-
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt, json
+from matplotlib import font_manager
+plt.rcParams["axes.unicode_minus"]=False
+plt.rcParams["font.family"]="WenQuanYi Micro Hei"
+BG="#0b0b0c"; OR="#FF6B1A"; W="#f2f2f2"; G="#8a8a8a"
+rows=json.load(open("参数库/设备谱系.json"))
+pick=["华为 P50 Pro（你）","iPhone 16 Pro Max","MacBook Pro 16","Studio Display 27",
+      "LG C3 OLED 65","iPad Pro 13","Pico 4 Ultra","Apple Watch S10"]
+rs=[r for r in rows if r["名称"] in pick]
+fig,ax=plt.subplots(2,1,figsize=(9.6,8.2),facecolor=BG)
+fig.subplots_adjust(left=.30,right=.95,top=.90,bottom=.08,hspace=.42)
+# 上：像素/度 vs 人眼极限
+ax[0].set_facecolor(BG)
+names=[r["名称"] for r in rs]; vals=[r["像素每度"] for r in rs]
+b=ax[0].barh(range(len(rs))[::-1],vals,color=OR,height=.62)
+ax[0].axvline(120,color="#d0d0d0",ls="--",lw=1.6)
+ax[0].text(120,len(rs)-.2," 人眼极限 120",color="#d0d0d0",fontsize=11,va="bottom")
+ax[0].set_yticks(range(len(rs))[::-1]); ax[0].set_yticklabels(names,color=W,fontsize=12)
+for i,(bb,v,ppi) in enumerate(zip(b,vals,[r["PPI"] for r in rs])):
+    ax[0].text(v+2,i,f"{v:.0f}  (PPI {ppi:.0f})",color=G,fontsize=10,va="center")
+ax[0].set_xlim(0,150); ax[0].set_xlabel("像素/度",color=G,fontsize=10)
+ax[0].set_title("没有一台设备的角分辨率超过人眼",color=W,fontsize=15,pad=10)
+ax[0].tick_params(colors=G); [s.set_color("#2a2a2c") for s in ax[0].spines.values()]
+# 下：中央凹占屏
+ax[1].set_facecolor(BG)
+pct=[r["中央凹占屏"] for r in rs]
+b2=ax[1].barh(range(len(rs))[::-1],pct,color=W,height=.62)
+ax[1].set_yticks(range(len(rs))[::-1]); ax[1].set_yticklabels(names,color=W,fontsize=12)
+for i,(bb,v) in enumerate(zip(b2,pct)):
+    ax[1].text(v+.02,i,f"{v:.3f}%",color=G,fontsize=10,va="center")
+ax[1].set_xlim(0,2.3); ax[1].set_xlabel("中央凹占屏 %（对数感：最大最小差 25 倍）",color=G,fontsize=10)
+ax[1].set_title("你能看清的那一小块，在不同设备上差 25 倍",color=W,fontsize=15,pad=10)
+ax[1].tick_params(colors=G); [s.set_color("#2a2a2c") for s in ax[1].spines.values()]
+plt.savefig("感官桥/符号_v25_设备谱系.png",dpi=110,facecolor=BG)
+print("ok")

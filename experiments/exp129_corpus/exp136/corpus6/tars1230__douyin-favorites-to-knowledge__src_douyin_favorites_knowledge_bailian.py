@@ -1,1 +1,70 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGltcG9ydGxpYi51dGlsCmltcG9ydCBvcwpmcm9tIHR5cGluZyBpbXBvcnQgQW55Cgpmcm9tIC5tZWRpYV9raW5kIGltcG9ydCBpc19pbWFnZV9wb3N0LCBza2lwcGVkX2ltYWdlCgoKS0VZX05BTUUgPSAiREFTSFNDT1BFX0FQSV9LRVkiCk1PREVMID0gInF3ZW4zLWFzci1mbGFzaCIKCgpkZWYgY2hlY2tfZW52aXJvbm1lbnQoKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICIiIkNoZWNrIGRpcmVjdCBCYWlsaWFuIEFTUiBwcmVyZXF1aXNpdGVzIHdpdGhvdXQgY2FsbGluZyB0aGUgc2VydmljZS4iIiIKICAgIG1pc3Npbmc6IGxpc3Rbc3RyXSA9IFtdCiAgICBpZiBub3Qgb3MuZW52aXJvbi5nZXQoS0VZX05BTUUsICIiKS5zdHJpcCgpOgogICAgICAgIG1pc3NpbmcuYXBwZW5kKEtFWV9OQU1FKQogICAgaWYgaW1wb3J0bGliLnV0aWwuZmluZF9zcGVjKCJkYXNoc2NvcGUiKSBpcyBOb25lOgogICAgICAgIG1pc3NpbmcuYXBwZW5kKCJkYXNoc2NvcGUgKGluc3RhbGwgLltiYWlsaWFuLWFzcl0pIikKICAgIHJldHVybiB7InJlYWR5Ijogbm90IG1pc3NpbmcsICoqKHsibWlzc2luZyI6IG1pc3Npbmd9IGlmIG1pc3NpbmcgZWxzZSB7fSl9CgoKZGVmIF9mYWlsZWQoc3RhdHVzOiBzdHIpIC0+IGRpY3Rbc3RyLCBzdHJdOgogICAgcmV0dXJuIHsidHJhbnNjcmlwdCI6ICIiLCAidHJhbnNjcmlwdF9zb3VyY2UiOiAiYmFpbGlhbl9xd2VuM19hc3JfZmxhc2giLCAidHJhbnNjcmlwdF9zdGF0dXMiOiBzdGF0dXN9CgoKZGVmIF9yZXNwb25zZV90ZXh0KHJlc3BvbnNlOiBBbnkpIC0+IHN0cjoKICAgIHRyeToKICAgICAgICBjb250ZW50ID0gcmVzcG9uc2Uub3V0cHV0LmNob2ljZXNbMF0ubWVzc2FnZS5jb250ZW50CiAgICBleGNlcHQgKEF0dHJpYnV0ZUVycm9yLCBJbmRleEVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgIHJldHVybiAiIgogICAgaWYgaXNpbnN0YW5jZShjb250ZW50LCBsaXN0KToKICAgICAgICByZXR1cm4gIlxuIi5qb2luKHN0cihwYXJ0LmdldCgidGV4dCIsICIiKSkuc3RyaXAoKSBmb3IgcGFydCBpbiBjb250ZW50IGlmIGlzaW5zdGFuY2UocGFydCwgZGljdCkpLnN0cmlwKCkKICAgIHJldHVybiAiIgoKCmRlZiB0cmFuc2NyaWJlKGl0ZW06IGRpY3Rbc3RyLCBBbnldLCBjb250ZXh0OiBkaWN0W3N0ciwgQW55XSkgLT4gZGljdFtzdHIsIHN0cl06CiAgICAiIiJTZW5kIHBsYXkgVVJMIHRvIERhc2hTY29wZSBVUkwtQVNSIChubyBsb2NhbCBkb3dubG9hZCkuCgogICAgV2FybmluZzogRG91eWluIENETiAoKi5kb3V5aW52b2QuY29tKSBpcyBvZnRlbiB1bnJlYWNoYWJsZSBmcm9tIEJhaWxpYW4gc2VydmVycy4KICAgIFByZWZlciBzaWxpY29uZmxvdy50cmFuc2NyaWJlIGZvciBEb3V5aW4gbWVkaWEuCiAgICAiIiIKICAgIGlmIGlzX2ltYWdlX3Bvc3QoaXRlbSk6CiAgICAgICAgcmV0dXJuIHNraXBwZWRfaW1hZ2UoImJhaWxpYW5fcXdlbjNfYXNyX2ZsYXNoIikKICAgIHJlYWRpbmVzcyA9IGNoZWNrX2Vudmlyb25tZW50KCkKICAgIGlmIG5vdCByZWFkaW5lc3NbInJlYWR5Il06CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIkJhaWxpYW4gdHJhbnNjcmlwdGlvbiBpcyBub3QgcmVhZHk6IHsnLCAnLmpvaW4ocmVhZGluZXNzWydtaXNzaW5nJ10pfSIpCiAgICBwbGF5X3VybCA9IHN0cihpdGVtLmdldCgicGxheV91cmwiKSBvciAiIikuc3RyaXAoKQogICAgaWYgbm90IHBsYXlfdXJsOgogICAgICAgIHJldHVybiBfZmFpbGVkKCJ1bmF2YWlsYWJsZSIpCiAgICB0cnk6CiAgICAgICAgaW1wb3J0IGRhc2hzY29wZQoKICAgICAgICByZXNwb25zZSA9IGRhc2hzY29wZS5NdWx0aU1vZGFsQ29udmVyc2F0aW9uLmNhbGwoCiAgICAgICAgICAgIGFwaV9rZXk9b3MuZW52aXJvbltLRVlfTkFNRV0sCiAgICAgICAgICAgIG1vZGVsPXN0cihjb250ZXh0LmdldCgibW9kZWwiKSBvciBNT0RFTCksCiAgICAgICAgICAgIG1lc3NhZ2VzPVsKICAgICAgICAgICAgICAgIHsicm9sZSI6ICJzeXN0ZW0iLCAiY29udGVudCI6IFt7InRleHQiOiAiIn1dfSwKICAgICAgICAgICAgICAgIHsicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiBbeyJhdWRpbyI6IHBsYXlfdXJsfV19LAogICAgICAgICAgICBdLAogICAgICAgICAgICByZXN1bHRfZm9ybWF0PSJtZXNzYWdlIiwKICAgICAgICAgICAgYXNyX29wdGlvbnM9eyJlbmFibGVfbGlkIjogVHJ1ZSwgImVuYWJsZV9pdG4iOiBGYWxzZX0sCiAgICAgICAgKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gX2ZhaWxlZCgiZmFpbGVkIikKICAgIHRyYW5zY3JpcHQgPSBfcmVzcG9uc2VfdGV4dChyZXNwb25zZSkKICAgIGlmIG5vdCB0cmFuc2NyaXB0OgogICAgICAgIHJldHVybiBfZmFpbGVkKCJ1bmF2YWlsYWJsZSIpCiAgICByZXR1cm4geyJ0cmFuc2NyaXB0IjogdHJhbnNjcmlwdCwgInRyYW5zY3JpcHRfc291cmNlIjogImJhaWxpYW5fcXdlbjNfYXNyX2ZsYXNoIiwgInRyYW5zY3JpcHRfc3RhdHVzIjogInN1Y2Nlc3MifQo=
+from __future__ import annotations
+
+import importlib.util
+import os
+from typing import Any
+
+from .media_kind import is_image_post, skipped_image
+
+
+KEY_NAME = "DASHSCOPE_API_KEY"
+MODEL = "qwen3-asr-flash"
+
+
+def check_environment() -> dict[str, Any]:
+    """Check direct Bailian ASR prerequisites without calling the service."""
+    missing: list[str] = []
+    if not os.environ.get(KEY_NAME, "").strip():
+        missing.append(KEY_NAME)
+    if importlib.util.find_spec("dashscope") is None:
+        missing.append("dashscope (install .[bailian-asr])")
+    return {"ready": not missing, **({"missing": missing} if missing else {})}
+
+
+def _failed(status: str) -> dict[str, str]:
+    return {"transcript": "", "transcript_source": "bailian_qwen3_asr_flash", "transcript_status": status}
+
+
+def _response_text(response: Any) -> str:
+    try:
+        content = response.output.choices[0].message.content
+    except (AttributeError, IndexError, TypeError):
+        return ""
+    if isinstance(content, list):
+        return "\n".join(str(part.get("text", "")).strip() for part in content if isinstance(part, dict)).strip()
+    return ""
+
+
+def transcribe(item: dict[str, Any], context: dict[str, Any]) -> dict[str, str]:
+    """Send play URL to DashScope URL-ASR (no local download).
+
+    Warning: Douyin CDN (*.douyinvod.com) is often unreachable from Bailian servers.
+    Prefer siliconflow.transcribe for Douyin media.
+    """
+    if is_image_post(item):
+        return skipped_image("bailian_qwen3_asr_flash")
+    readiness = check_environment()
+    if not readiness["ready"]:
+        raise ValueError(f"Bailian transcription is not ready: {', '.join(readiness['missing'])}")
+    play_url = str(item.get("play_url") or "").strip()
+    if not play_url:
+        return _failed("unavailable")
+    try:
+        import dashscope
+
+        response = dashscope.MultiModalConversation.call(
+            api_key=os.environ[KEY_NAME],
+            model=str(context.get("model") or MODEL),
+            messages=[
+                {"role": "system", "content": [{"text": ""}]},
+                {"role": "user", "content": [{"audio": play_url}]},
+            ],
+            result_format="message",
+            asr_options={"enable_lid": True, "enable_itn": False},
+        )
+    except Exception:
+        return _failed("failed")
+    transcript = _response_text(response)
+    if not transcript:
+        return _failed("unavailable")
+    return {"transcript": transcript, "transcript_source": "bailian_qwen3_asr_flash", "transcript_status": "success"}

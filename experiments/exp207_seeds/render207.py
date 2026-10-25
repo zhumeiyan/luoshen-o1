@@ -1,1 +1,33 @@
-aW1wb3J0IGpzb24sIG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliIGltcG9ydCBmb250X21hbmFnZXIKZm9yIGYgaW4gWyJXZW5RdWFuWWkgTWljcm8gSGVpIiwiTm90byBTYW5zIENKSyBTQyIsIlNpbUhlaSJdOgogICAgdHJ5OgogICAgICAgIGZvbnRfbWFuYWdlci5maW5kZm9udChmLCBmYWxsYmFja190b19kZWZhdWx0PUZhbHNlKTsgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXT1bZl07IGJyZWFrCiAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl09RmFsc2UKcj1qc29uLmxvYWQob3BlbigicmVzdWx0MjA3Lmpzb24iKSkKTnM9W3hbIk4iXSBmb3IgeCBpbiByWyJwZXJOIl1dCmtpbGw9W3hbImtpbGxfYml0cyJdIGZvciB4IGluIHJbInBlck4iXV0KZW5zPVt4WyJlbnNfYml0cyJdIGZvciB4IGluIHJbInBlck4iXV0KYXZnPVt4WyJhdmdfYml0cyJdIGZvciB4IGluIHJbInBlck4iXV0KYWc9W3hbInRvcDFfYWdyZWUiXSBmb3IgeCBpbiByWyJwZXJOIl1dCmpzPVt4WyJtZWFuX2pzIl0gZm9yIHggaW4gclsicGVyTiJdXQpmaWcsYXg9cGx0LnN1YnBsb3RzKDEsMixmaWdzaXplPSgxMiw0LjQpKQpheFswXS5wbG90KE5zLGtpbGwsIm8tIixjb2xvcj0iI2MwMzkyYiIsbGFiZWw9IuWOruadgO+8iOmqjOivgembhuaMkeacgOS8mO+8jOWFtuS9meadgOaOie+8iSIpCmF4WzBdLnBsb3QoTnMsZW5zLCJzLSIsY29sb3I9IiMyN2FlNjAiLGxhYmVsPSLljY/kvZzvvIjlhajkvZPpm4bmiJDvvIkiKQpheFswXS5wbG90KE5zLGF2ZywiXi0tIixjb2xvcj0iIzk1YTVhNiIsbGFiZWw9IuW5s+Wdh+WNleenjeWtkCIpCmF4WzBdLmF4aGxpbmUoclsiZnVsbF9wb29sX2JpdHMiXSxjb2xvcj0iIzJjM2U1MCIsbHM9IjoiLGx3PTIsbGFiZWw9ZiLkuI3mkpLnp43lrZDvvJrlhajph4/ljZXmqKHlnosge3JbJ2Z1bGxfcG9vbF9iaXRzJ106LjNmfSIpCmF4WzBdLmF4aGxpbmUoclsidW5pZm9ybV9iaXRzIl0sY29sb3I9IiNiZGMzYzciLGxzPSItLSIsbGFiZWw9ZiLlnYfljIDnno7njJwge3JbJ3VuaWZvcm1fYml0cyddOi4zZn0iKQpheFswXS5zZXRfeHNjYWxlKCJsb2ciLGJhc2U9Mik7IGF4WzBdLnNldF94dGlja3MoTnMpOyBheFswXS5zZXRfeHRpY2tsYWJlbHMoTnMpCmF4WzBdLnNldF94bGFiZWwoIuenjeWtkOaVsCBOIik7IGF4WzBdLnNldF95bGFiZWwoImJpdHMv5a2X56ym77yI6LaK5L2O6LaK5aW977yJIikKYXhbMF0uc2V0X3RpdGxlKCLmkpIgTiDkuKrnp43lrZDvvJrljq7mnYAgdnMg5Y2P5L2cIHZzIOS4jeaSkuenjeWtkCIpOyBheFswXS5sZWdlbmQoZm9udHNpemU9OCk7IGF4WzBdLmdyaWQoYWxwaGE9LjMpCmF4WzFdLnBsb3QoTnMsYWcsIm8tIixjb2xvcj0iIzI5ODBiOSIsbGFiZWw9InRvcC0xIOS4gOiHtOeOhyIpCmF4WzFdLmF4aGxpbmUoclsicmFuZG9tX3RvcDFfYWdyZWUiXSxjb2xvcj0iI2JkYzNjNyIsbHM9Ii0tIixsYWJlbD1mIumaj+acuuWfuue6vyB7clsncmFuZG9tX3RvcDFfYWdyZWUnXTouNGZ9IikKYXhbMV0uc2V0X3hsYWJlbCgi56eN5a2Q5pWwIE4iKTsgYXhbMV0uc2V0X3lsYWJlbCgi5LiA6Ie0546HIik7IGF4WzFdLnNldF95bGltKDAsMS4wNSkKYXhbMV0uc2V0X3RpdGxlKCLnp43lrZDmmK/otovlkIzvvIzkuI3mmK/ljq7mnYAiKTsgYXhbMV0ubGVnZW5kKGZvbnRzaXplPTgpOyBheFsxXS5ncmlkKGFscGhhPS4zKQpheDFiPWF4WzFdLnR3aW54KCk7IGF4MWIucGxvdChOcyxqcywieC0tIixjb2xvcj0iIzhlNDRhZCIsbGFiZWw9IuWIhuW4gyBKUyIpOyBheDFiLnNldF95bGFiZWwoIuW5s+WdhyBKUyIpCmF4MWIubGVnZW5kKGxvYz0ibG93ZXIgcmlnaHQiLGZvbnRzaXplPTgpCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoInJlbmRlcjIwNy5wbmciLGRwaT0xMzApCnByaW50KCJvayIpCg==
+import json, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+for f in ["WenQuanYi Micro Hei","Noto Sans CJK SC","SimHei"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False); plt.rcParams["font.sans-serif"]=[f]; break
+    except Exception: pass
+plt.rcParams["axes.unicode_minus"]=False
+r=json.load(open("result207.json"))
+Ns=[x["N"] for x in r["perN"]]
+kill=[x["kill_bits"] for x in r["perN"]]
+ens=[x["ens_bits"] for x in r["perN"]]
+avg=[x["avg_bits"] for x in r["perN"]]
+ag=[x["top1_agree"] for x in r["perN"]]
+js=[x["mean_js"] for x in r["perN"]]
+fig,ax=plt.subplots(1,2,figsize=(12,4.4))
+ax[0].plot(Ns,kill,"o-",color="#c0392b",label="厮杀（验证集挑最优，其余杀掉）")
+ax[0].plot(Ns,ens,"s-",color="#27ae60",label="协作（全体集成）")
+ax[0].plot(Ns,avg,"^--",color="#95a5a6",label="平均单种子")
+ax[0].axhline(r["full_pool_bits"],color="#2c3e50",ls=":",lw=2,label=f"不撒种子：全量单模型 {r['full_pool_bits']:.3f}")
+ax[0].axhline(r["uniform_bits"],color="#bdc3c7",ls="--",label=f"均匀瞎猜 {r['uniform_bits']:.3f}")
+ax[0].set_xscale("log",base=2); ax[0].set_xticks(Ns); ax[0].set_xticklabels(Ns)
+ax[0].set_xlabel("种子数 N"); ax[0].set_ylabel("bits/字符（越低越好）")
+ax[0].set_title("撒 N 个种子：厮杀 vs 协作 vs 不撒种子"); ax[0].legend(fontsize=8); ax[0].grid(alpha=.3)
+ax[1].plot(Ns,ag,"o-",color="#2980b9",label="top-1 一致率")
+ax[1].axhline(r["random_top1_agree"],color="#bdc3c7",ls="--",label=f"随机基线 {r['random_top1_agree']:.4f}")
+ax[1].set_xlabel("种子数 N"); ax[1].set_ylabel("一致率"); ax[1].set_ylim(0,1.05)
+ax[1].set_title("种子是趋同，不是厮杀"); ax[1].legend(fontsize=8); ax[1].grid(alpha=.3)
+ax1b=ax[1].twinx(); ax1b.plot(Ns,js,"x--",color="#8e44ad",label="分布 JS"); ax1b.set_ylabel("平均 JS")
+ax1b.legend(loc="lower right",fontsize=8)
+plt.tight_layout(); plt.savefig("render207.png",dpi=130)
+print("ok")

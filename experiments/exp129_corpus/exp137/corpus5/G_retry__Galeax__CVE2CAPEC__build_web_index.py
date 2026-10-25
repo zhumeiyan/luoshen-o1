@@ -1,1 +1,72 @@
-IiIiQnVpbGQgdGhlIGxpZ2h0d2VpZ2h0IENWRSAtPiBDV0UgaW5kZXggdXNlZCBieSB0aGUgd2ViIGludGVyZmFjZSAoZG9jcy8pLgoKVGhlIGZ1bGwgeWVhcmx5IGRhdGFiYXNlcyBlbWJlZCBDQVBFQywgdGVjaG5pcXVlcywgRDNGRU5EIGFuZCBBVExBUyBkYXRhIGZvcgpldmVyeSBDVkUgKGh1bmRyZWRzIG9mIE1CIG9uY2UgZGVjb21wcmVzc2VkKS4gVGhlIHdlYiBwYWdlIG9ubHkgbmVlZHMgdGhlIENXRQpsaXN0IHBlciBDVkUsIGV2ZXJ5dGhpbmcgZWxzZSBpcyBkZXJpdmVkIGNsaWVudC1zaWRlIGZyb20gcmVzb3VyY2VzLyouanNvbi4KCk91dHB1dDogZG9jcy9kYXRhL2N3ZS9DVkUtPHllYXI+LnR4dCwgb25lICJDVkUtSUQ8VEFCPmN3ZSxjd2UsLi4uIiBsaW5lIHBlciBDVkUuCgpVc2FnZToKICAgIHB5dGhvbiBidWlsZF93ZWJfaW5kZXgucHkgICAgICAgICAgICMgeWVhcnMgcHJlc2VudCBpbiByZXN1bHRzL25ld19jdmVzLmpzb25sCiAgICBweXRob24gYnVpbGRfd2ViX2luZGV4LnB5IC0tYWxsICAgICAjIGV2ZXJ5IGRhdGFiYXNlL0NWRS0qLmpzb25sLmd6CiAgICBweXRob24gYnVpbGRfd2ViX2luZGV4LnB5IDIwMjQgMjAyNSAjIHNwZWNpZmljIHllYXJzCiIiIgppbXBvcnQgZ2xvYgppbXBvcnQgZ3ppcAppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHJlCmltcG9ydCBzeXMKCkRCX0RJUiA9ICJkYXRhYmFzZSIKT1VUX0RJUiA9ICJkb2NzL2RhdGEvY3dlIgpORVdfQ1ZFU19GSUxFID0gInJlc3VsdHMvbmV3X2N2ZXMuanNvbmwiCgoKZGVmIHllYXJzX2Zyb21fbmV3X2N2ZXMoKToKICAgIHllYXJzID0gc2V0KCkKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhORVdfQ1ZFU19GSUxFKToKICAgICAgICByZXR1cm4geWVhcnMKICAgIHdpdGggb3BlbihORVdfQ1ZFU19GSUxFLCAiciIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgZm9yIGxpbmUgaW4gZjoKICAgICAgICAgICAgaWYgbGluZS5zdHJpcCgpOgogICAgICAgICAgICAgICAgZm9yIGN2ZSBpbiBqc29uLmxvYWRzKGxpbmUpOgogICAgICAgICAgICAgICAgICAgIHllYXJzLmFkZChjdmUuc3BsaXQoIi0iKVsxXSkKICAgIHJldHVybiB5ZWFycwoKCmRlZiBidWlsZF95ZWFyKHllYXIpOgogICAgc291cmNlID0gb3MucGF0aC5qb2luKERCX0RJUiwgZiJDVkUte3llYXJ9Lmpzb25sLmd6IikKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhzb3VyY2UpOgogICAgICAgIHByaW50KGYiWy1dIE1pc3Npbmcge3NvdXJjZX0sIHNraXBwZWQiKQogICAgICAgIHJldHVybgoKICAgIHJvd3MgPSBbXQogICAgd2l0aCBnemlwLm9wZW4oc291cmNlLCAicnQiLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGZvciBsaW5lIGluIGY6CiAgICAgICAgICAgIGlmIG5vdCBsaW5lLnN0cmlwKCk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBmb3IgY3ZlLCBkYXRhIGluIGpzb24ubG9hZHMobGluZSkuaXRlbXMoKToKICAgICAgICAgICAgICAgIHJvd3MuYXBwZW5kKGYie2N2ZX1cdHsnLCcuam9pbihkYXRhLmdldCgnQ1dFJykgb3IgW10pfSIpCgogICAgcm93cy5zb3J0KCkKICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihPVVRfRElSLCBmIkNWRS17eWVhcn0udHh0IikKICAgIHdpdGggb3Blbih0YXJnZXQsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IiwgbmV3bGluZT0iXG4iKSBhcyBmOgogICAgICAgIGYud3JpdGUoIlxuIi5qb2luKHJvd3MpICsgIlxuIikKICAgIHByaW50KGYiWytdIHt0YXJnZXR9OiB7bGVuKHJvd3MpfSBDVkVzIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgb3MubWFrZWRpcnMoT1VUX0RJUiwgZXhpc3Rfb2s9VHJ1ZSkKICAgIGFyZ3MgPSBzeXMuYXJndlsxOl0KICAgIGlmICItLWFsbCIgaW4gYXJnczoKICAgICAgICB5ZWFycyA9IHtyZS5zZWFyY2gociJDVkUtKFxkezR9KSIsIHApLmdyb3VwKDEpIGZvciBwIGluIGdsb2IuZ2xvYihvcy5wYXRoLmpvaW4oREJfRElSLCAiQ1ZFLSouanNvbmwuZ3oiKSl9CiAgICBlbGlmIGFyZ3M6CiAgICAgICAgeWVhcnMgPSBzZXQoYXJncykKICAgIGVsc2U6CiAgICAgICAgeWVhcnMgPSB5ZWFyc19mcm9tX25ld19jdmVzKCkKCiAgICBpZiBub3QgeWVhcnM6CiAgICAgICAgcHJpbnQoIlstXSBObyB5ZWFyIHRvIGJ1aWxkIikKICAgIGZvciB5ZWFyIGluIHNvcnRlZCh5ZWFycyk6CiAgICAgICAgYnVpbGRfeWVhcih5ZWFyKQo=
+"""Build the lightweight CVE -> CWE index used by the web interface (docs/).
+
+The full yearly databases embed CAPEC, techniques, D3FEND and ATLAS data for
+every CVE (hundreds of MB once decompressed). The web page only needs the CWE
+list per CVE, everything else is derived client-side from resources/*.json.
+
+Output: docs/data/cwe/CVE-<year>.txt, one "CVE-ID<TAB>cwe,cwe,..." line per CVE.
+
+Usage:
+    python build_web_index.py           # years present in results/new_cves.jsonl
+    python build_web_index.py --all     # every database/CVE-*.jsonl.gz
+    python build_web_index.py 2024 2025 # specific years
+"""
+import glob
+import gzip
+import json
+import os
+import re
+import sys
+
+DB_DIR = "database"
+OUT_DIR = "docs/data/cwe"
+NEW_CVES_FILE = "results/new_cves.jsonl"
+
+
+def years_from_new_cves():
+    years = set()
+    if not os.path.exists(NEW_CVES_FILE):
+        return years
+    with open(NEW_CVES_FILE, "r", encoding="utf-8") as f:
+        for line in f:
+            if line.strip():
+                for cve in json.loads(line):
+                    years.add(cve.split("-")[1])
+    return years
+
+
+def build_year(year):
+    source = os.path.join(DB_DIR, f"CVE-{year}.jsonl.gz")
+    if not os.path.exists(source):
+        print(f"[-] Missing {source}, skipped")
+        return
+
+    rows = []
+    with gzip.open(source, "rt", encoding="utf-8") as f:
+        for line in f:
+            if not line.strip():
+                continue
+            for cve, data in json.loads(line).items():
+                rows.append(f"{cve}\t{','.join(data.get('CWE') or [])}")
+
+    rows.sort()
+    target = os.path.join(OUT_DIR, f"CVE-{year}.txt")
+    with open(target, "w", encoding="utf-8", newline="\n") as f:
+        f.write("\n".join(rows) + "\n")
+    print(f"[+] {target}: {len(rows)} CVEs")
+
+
+if __name__ == "__main__":
+    os.makedirs(OUT_DIR, exist_ok=True)
+    args = sys.argv[1:]
+    if "--all" in args:
+        years = {re.search(r"CVE-(\d{4})", p).group(1) for p in glob.glob(os.path.join(DB_DIR, "CVE-*.jsonl.gz"))}
+    elif args:
+        years = set(args)
+    else:
+        years = years_from_new_cves()
+
+    if not years:
+        print("[-] No year to build")
+    for year in sorted(years):
+        build_year(year)

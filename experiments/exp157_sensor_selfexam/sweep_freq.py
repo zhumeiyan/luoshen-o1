@@ -1,1 +1,59 @@
-IiIiMTU3QSDmiavpopHlkKzlipvlm77vvJrnrYnog73ph4/mibDliqjkuIvvvIznn63nqpflj6PkvKDmhJ/lmajnmoTliKTliKvlipsgdnMg6aKR546HIiIiCmltcG9ydCB0aW1lLCBzdGF0aXN0aWNzLCBqc29uLCBtYXRoCgpkZWYgbG9hZChrKToKICAgIHg9MAogICAgZm9yIGkgaW4gcmFuZ2Uoayk6IHgrPWkqaQogICAgcmV0dXJuIHgKCmRlZiBvYnNlcnZlKFcsIGR0KToKICAgICIiIuS8oOaEn+WZqO+8muWcqOaXtumVv1flhoXku6Xpl7TpmpRkdOeogOeWj+mHh+agt+aKluWKqCjngrnph4fmoLfvvIzpnZ7ov57nu60pIiIiCiAgICBzPVtdOyB0PXRpbWUucGVyZl9jb3VudGVyX25zKCk7IGVuZD10K1cqMWU5CiAgICB3aGlsZSBUcnVlOgogICAgICAgIG5vdz10aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICAgICAgaWYgbm93Pj1lbmQ6IGJyZWFrCiAgICAgICAgcy5hcHBlbmQobm93LXQpOyB0PW5vdwogICAgICAgICMg56iA55aP77ya552h5Yiw5LiL5LiA5Liq6YeH5qC354K5CiAgICAgICAgbnh0PXQrZHQqMWU5CiAgICAgICAgd2hpbGUgdGltZS5wZXJmX2NvdW50ZXJfbnMoKTxueHQ6IHBhc3MKICAgIHJldHVybiBzCgpkZWYgdHJpYWwoVCwgVywgZHQsIGssIG5wdWxzZSwgdGFnKToKICAgICIiIuaWveWKoG5wdWxzZeS4quWRqOacn1TnmoTohInlhrLvvJvov5Tlm54o5Lyg5oSf5Zmo6K+75pWwLCDnnJ/lrp7ohInlhrLmlbAsIOaAu+WimemSn25zKSIiIgogICAgaGl0cz0wOyB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICAjIOaJsOWKqOmYtuautQogICAgZm9yIGkgaW4gcmFuZ2UobnB1bHNlKToKICAgICAgICBsb2FkKGspOyBoaXRzKz0xCiAgICAgICAgaWYgVD4wOgogICAgICAgICAgICBueHQ9dGltZS5wZXJmX2NvdW50ZXJfbnMoKStUKjFlOQogICAgICAgICAgICB3aGlsZSB0aW1lLnBlcmZfY291bnRlcl9ucygpPG54dDogcGFzcwogICAgdDE9dGltZS5wZXJmX2NvdW50ZXJfbnMoKQogICAgcz1vYnNlcnZlKFcsIGR0KSAgICAgICAgICAjIOingua1i+eql+WPo+WcqOaJsOWKqOS5i+WQjgogICAgcmV0dXJuIChtYXgocykgaWYgcyBlbHNlIDAuMCksIGhpdHMsICh0MS10MCkKCmRlZiBkX3ByaW1lKGEsIGIpOgogICAgIiIi5Yik5Yir5Yqb77yaYT3mnInmibDliqjor7vmlbAsIGI95peg5omw5Yqo6K+75pWwIiIiCiAgICBtYSwgbWIgPSBzdGF0aXN0aWNzLm1lYW4oYSksIHN0YXRpc3RpY3MubWVhbihiKQogICAgc2EsIHNiID0gc3RhdGlzdGljcy5wc3RkZXYoYSksIHN0YXRpc3RpY3MucHN0ZGV2KGIpCiAgICBzcCA9IG1hdGguc3FydCgoc2Eqc2Erc2Iqc2IpLzIpIGlmIChzYStzYik+MCBlbHNlIDFlLTkKICAgIHJldHVybiAobWEtbWIpL3NwIGlmIHNwPjAgZWxzZSAwLjAKClI9MTI7IFc9MC4xNTsgZHQ9MC4wMDA1OyBLPTMwMDAKIyDnrYnog73ph4/vvJrmgLvohInlhrLmlbAq5by65bqm5oGS5a6aIC0+IOWbuuWumuaAu+iEieWGsuaVsCwg5Y+Y5ZGo5pyfCk5QVUxTRT02CnByaW50KCI9PT0gMTU3QSDmiavpopEgKOingua1i+eql+WPo1c9JS4yZnMg6YeH5qC36Ze06ZqUZHQ9JS40ZnMg6ISJ5Yay5pWwPSVkIOW8uuW6pms9JWQpID09PSIlKFcsZHQsTlBVTFNFLEspKQpyb3dzPVtdCmZvciBUIGluICgwLjAsIDAuMDA1LCAwLjA1LCAwLjIsIDAuOCk6CiAgICBzaWc9W107IGJhc2U9W107IHdhbGw9W10KICAgIGZvciByIGluIHJhbmdlKFIpOgogICAgICAgIG0saCx3ID0gdHJpYWwoVCwgVywgZHQsIEssIE5QVUxTRSwgInNpZyIpOyBzaWcuYXBwZW5kKG0pOyB3YWxsLmFwcGVuZCh3KQogICAgICAgIG0wLGgwLHcwID0gdHJpYWwoVCwgVywgZHQsIDAsICAwLCAgICAgImJhc2UiKTsgYmFzZS5hcHBlbmQobTApCiAgICBkID0gZF9wcmltZShzaWcsIGJhc2UpCiAgICB3bSA9IHN0YXRpc3RpY3MubWVhbih3YWxsKTsgdzBtID0gc3RhdGlzdGljcy5tZWFuKFswXSoxKQogICAgcm93cy5hcHBlbmQoZGljdChUPVQsIGRfcHJpbWU9cm91bmQoZCw0KSwKICAgICAgICAgICAgICAgICAgICAgc2lnX21lZD1yb3VuZChzdGF0aXN0aWNzLm1lZGlhbihzaWcpLDEpLAogICAgICAgICAgICAgICAgICAgICBiYXNlX21lZD1yb3VuZChzdGF0aXN0aWNzLm1lZGlhbihiYXNlKSwxKSwKICAgICAgICAgICAgICAgICAgICAgd2FsbF9zPXJvdW5kKHdtLzFlOSw0KSkpCiAgICBwcmludCgiVD0lLTZzIGQnPSU4LjRmICBzaWfkuK3kvY09JTkuMWYgIGJhc2XkuK3kvY09JTkuMWYgIOaJsOWKqOWimemSnz0lLjRmcyIgJSAoCiAgICAgICAgVCwgZCwgc3RhdGlzdGljcy5tZWRpYW4oc2lnKSwgc3RhdGlzdGljcy5tZWRpYW4oYmFzZSksIHdtLzFlOSkpCmpzb24uZHVtcChyb3dzLCBvcGVuKCJmcmVxX3Jvd3MuanNvbiIsInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+"""157A 扫频听力图：等能量扰动下，短窗口传感器的判别力 vs 频率"""
+import time, statistics, json, math
+
+def load(k):
+    x=0
+    for i in range(k): x+=i*i
+    return x
+
+def observe(W, dt):
+    """传感器：在时长W内以间隔dt稀疏采样抖动(点采样，非连续)"""
+    s=[]; t=time.perf_counter_ns(); end=t+W*1e9
+    while True:
+        now=time.perf_counter_ns()
+        if now>=end: break
+        s.append(now-t); t=now
+        # 稀疏：睡到下一个采样点
+        nxt=t+dt*1e9
+        while time.perf_counter_ns()<nxt: pass
+    return s
+
+def trial(T, W, dt, k, npulse, tag):
+    """施加npulse个周期T的脉冲；返回(传感器读数, 真实脉冲数, 总墙钟ns)"""
+    hits=0; t0=time.perf_counter_ns()
+    # 扰动阶段
+    for i in range(npulse):
+        load(k); hits+=1
+        if T>0:
+            nxt=time.perf_counter_ns()+T*1e9
+            while time.perf_counter_ns()<nxt: pass
+    t1=time.perf_counter_ns()
+    s=observe(W, dt)          # 观测窗口在扰动之后
+    return (max(s) if s else 0.0), hits, (t1-t0)
+
+def d_prime(a, b):
+    """判别力：a=有扰动读数, b=无扰动读数"""
+    ma, mb = statistics.mean(a), statistics.mean(b)
+    sa, sb = statistics.pstdev(a), statistics.pstdev(b)
+    sp = math.sqrt((sa*sa+sb*sb)/2) if (sa+sb)>0 else 1e-9
+    return (ma-mb)/sp if sp>0 else 0.0
+
+R=12; W=0.15; dt=0.0005; K=3000
+# 等能量：总脉冲数*强度恒定 -> 固定总脉冲数, 变周期
+NPULSE=6
+print("=== 157A 扫频 (观测窗口W=%.2fs 采样间隔dt=%.4fs 脉冲数=%d 强度k=%d) ==="%(W,dt,NPULSE,K))
+rows=[]
+for T in (0.0, 0.005, 0.05, 0.2, 0.8):
+    sig=[]; base=[]; wall=[]
+    for r in range(R):
+        m,h,w = trial(T, W, dt, K, NPULSE, "sig"); sig.append(m); wall.append(w)
+        m0,h0,w0 = trial(T, W, dt, 0,  0,     "base"); base.append(m0)
+    d = d_prime(sig, base)
+    wm = statistics.mean(wall); w0m = statistics.mean([0]*1)
+    rows.append(dict(T=T, d_prime=round(d,4),
+                     sig_med=round(statistics.median(sig),1),
+                     base_med=round(statistics.median(base),1),
+                     wall_s=round(wm/1e9,4)))
+    print("T=%-6s d'=%8.4f  sig中位=%9.1f  base中位=%9.1f  扰动墙钟=%.4fs" % (
+        T, d, statistics.median(sig), statistics.median(base), wm/1e9))
+json.dump(rows, open("freq_rows.json","w"), ensure_ascii=False, indent=1)

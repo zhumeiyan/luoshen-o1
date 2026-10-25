@@ -1,1 +1,108 @@
-IiIiCkJ1aWxkIHNjcmlwdCDigJQgY29tcGlsZSBQeUNoZW0tUHJvIGludG8gYSBuYXRpdmUgc3RhbmRhbG9uZSBiaW5hcnkgd2l0aCBOdWl0a2EuCgpQcm9kdWNlczoKICBtYWNPUyAgIOKGkiBkaXN0L1B5Q2hlbS1Qcm8uYXBwICAgICAod3JhcCB3aXRoIGBweXRob24gcGFja2FnZV9kbWcucHlgIHRvIGdldCBhIC5kbWcpCiAgV2luZG93cyDihpIgZGlzdC9QeUNoZW0tUHJvLmV4ZSAgICAgKHNpbmdsZS1maWxlKQogIExpbnV4ICAg4oaSIGRpc3QvUHlDaGVtLVBybyAgICAgICAgIChzaW5nbGUtZmlsZSkKClVzYWdlOgogICAgcHl0aG9uIGJ1aWxkLnB5ICAgICAgICAgICAgICAgICAjIG9uZWZpbGUvYXBwLWJ1bmRsZQogICAgcHl0aG9uIGJ1aWxkLnB5IC0tZGlyICAgICAgICAgICAjIHN0YW5kYWxvbmUgZGlyZWN0b3J5IChmYXN0ZXIgaXRlcmF0aW9uKQoiIiIKCmltcG9ydCBvcwppbXBvcnQgc3lzCmltcG9ydCBwbGF0Zm9ybQppbXBvcnQgc3VicHJvY2Vzcwpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKClJPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50CkFQUF9OQU1FID0gIlB5Q2hlbS1Qcm8iClZFUlNJT04gPSAiMS4wLjAiCkNPTVBBTlkgPSAiUHlDaGVtIgpERVNDUklQVElPTiA9ICJQeUNoZW0tUHJvIC0gTW9sZWN1bGFyIFZpc3VhbGl6YXRpb24gU29mdHdhcmUiCgoKZGVmIGJ1aWxkKG9uZWZpbGU6IGJvb2wgPSBUcnVlKSAtPiBOb25lOgogICAgc3lzdGVtID0gcGxhdGZvcm0uc3lzdGVtKCkKICAgIGljb25faWNucyA9IFJPT1QgLyAiYXNzZXRzIiAvICJpY29uLmljbnMiCiAgICBpY29uX2ljbyA9IFJPT1QgLyAiYXNzZXRzIiAvICJpY29uLmljbyIKCiAgICBjbWQgPSBbCiAgICAgICAgc3lzLmV4ZWN1dGFibGUsICItbSIsICJudWl0a2EiLAogICAgICAgICItLXN0YW5kYWxvbmUiLAogICAgICAgICItLWVuYWJsZS1wbHVnaW49cHlzaWRlNiIsCiAgICAgICAgIi0tcmVtb3ZlLW91dHB1dCIsCiAgICAgICAgIi0tYXNzdW1lLXllcy1mb3ItZG93bmxvYWRzIiwKICAgICAgICAiLS1vdXRwdXQtZGlyPWRpc3QiLAogICAgICAgIGYiLS1vdXRwdXQtZmlsZW5hbWU9e0FQUF9OQU1FfSIsCiAgICAgICAgZiItLWNvbXBhbnktbmFtZT17Q09NUEFOWX0iLAogICAgICAgIGYiLS1wcm9kdWN0LW5hbWU9e0FQUF9OQU1FfSIsCiAgICAgICAgZiItLWZpbGUtdmVyc2lvbj17VkVSU0lPTn0iLAogICAgICAgIGYiLS1wcm9kdWN0LXZlcnNpb249e1ZFUlNJT059IiwKICAgICAgICBmIi0tZmlsZS1kZXNjcmlwdGlvbj17REVTQ1JJUFRJT059IiwKICAgICAgICAiLS1pbmNsdWRlLXBhY2thZ2U9c3JjIiwKICAgICAgICAiLS1pbmNsdWRlLXBhY2thZ2U9cHljaGVtIiwKICAgICAgICAiLS1pbmNsdWRlLXBhY2thZ2U9cGRieCIsCiAgICAgICAgIi0taW5jbHVkZS1wYWNrYWdlPXBsdWdpbnMiLAogICAgICAgICMgLS1pbmNsdWRlLXBhY2thZ2UgYnVuZGxlcyBvbmx5IC5weSBtb2R1bGVzOyB0aGUgTk9OLWNvZGUgZGF0YSBmaWxlcwogICAgICAgICMgdGhhdCBsaXZlIGluc2lkZSB0aGVzZSBwYWNrYWdlcyAoTU1GRjk0IHBhcmFtZXRlciB0YWJsZXMgYXQKICAgICAgICAjIHNyYy9zZXJ2aWNlcy9mb3JjZWZpZWxkL2RhdGEvKi50eHQsIHRoZSBSYW1hY2hhbmRyYW4gS0RFIG1hcCBhdAogICAgICAgICMgc3JjL2RhdGEva2RlLmRhdCwgdGhlIE9BU0EgbmFtZS9zdHJ1Y3R1cmUgZGF0YWJhc2VzLCDigKYpIG11c3QgYmUKICAgICAgICAjIHJlcXVlc3RlZCBleHBsaWNpdGx5LiAgV2l0aG91dCB0aGlzIHRoZSBmcm96ZW4gb25lZmlsZSBhcHAgZmFpbHMgYXQKICAgICAgICAjIHJ1bnRpbWUgd2l0aCBlLmcuICJObyBzdWNoIGZpbGUgb3IgZGlyZWN0b3J5OgogICAgICAgICMg4oCmL29uZWZpbGVfeHh4L3NyYy9zZXJ2aWNlcy9mb3JjZWZpZWxkL2RhdGEvbW1mZjk0LnBhci50eHQiLgogICAgICAgICItLWluY2x1ZGUtcGFja2FnZS1kYXRhPXNyYyIsCiAgICAgICAgIi0taW5jbHVkZS1wYWNrYWdlLWRhdGE9cHljaGVtIiwKICAgICAgICAiLS1pbmNsdWRlLXBhY2thZ2UtZGF0YT1wZGJ4IiwKICAgICAgICAiLS1pbmNsdWRlLWRhdGEtZmlsZXM9cGx1Z2lucy8qLnB5PXBsdWdpbnMvIiwKICAgICAgICAiLS1pbmNsdWRlLWRhdGEtZGlyPXBsdWdpbnM9cGx1Z2lucyIsCiAgICAgICAgIi0taW5jbHVkZS1kYXRhLWRpcj1hc3NldHM9YXNzZXRzIiwKICAgICAgICAiLS1pbmNsdWRlLXF0LXBsdWdpbnM9c2Vuc2libGUsaWNvbmVuZ2luZXMsaW1hZ2Vmb3JtYXRzIiwKICAgICAgICAiLS1pbmNsdWRlLW1vZHVsZT1QeVNpZGU2LlF0U3ZnIiwKICAgIF0KCiAgICBpZiBvbmVmaWxlOgogICAgICAgIGlmIHN5c3RlbSA9PSAiRGFyd2luIjoKICAgICAgICAgICAgIyBtYWNPUyBhcHAgYnVuZGxlcyBhcmUgc2VsZi1jb250YWluZWQ7IG9uZWZpbGUgYnJlYWtzIC5hcHAgc3RydWN0dXJlCiAgICAgICAgICAgIHBhc3MKICAgICAgICBlbHNlOgogICAgICAgICAgICBjbWQuYXBwZW5kKCItLW9uZWZpbGUiKQoKICAgIGlmIHN5c3RlbSA9PSAiV2luZG93cyI6CiAgICAgICAgY21kLmFwcGVuZCgiLS13aW5kb3dzLWNvbnNvbGUtbW9kZT1kaXNhYmxlIikKICAgICAgICBpZiBpY29uX2ljby5leGlzdHMoKToKICAgICAgICAgICAgY21kLmFwcGVuZChmIi0td2luZG93cy1pY29uLWZyb20taWNvPXtpY29uX2ljb30iKQogICAgZWxpZiBzeXN0ZW0gPT0gIkRhcndpbiI6CiAgICAgICAgY21kLmFwcGVuZCgiLS1tYWNvcy1jcmVhdGUtYXBwLWJ1bmRsZSIpCiAgICAgICAgY21kLmFwcGVuZChmIi0tbWFjb3MtYXBwLW5hbWU9e0FQUF9OQU1FfSIpCiAgICAgICAgY21kLmFwcGVuZChmIi0tbWFjb3MtYXBwLXZlcnNpb249e1ZFUlNJT059IikKICAgICAgICBpZiBpY29uX2ljbnMuZXhpc3RzKCk6CiAgICAgICAgICAgIGNtZC5hcHBlbmQoZiItLW1hY29zLWFwcC1pY29uPXtpY29uX2ljbnN9IikKICAgIGVsaWYgc3lzdGVtID09ICJMaW51eCI6CiAgICAgICAgaWYgaWNvbl9pY28uZXhpc3RzKCk6CiAgICAgICAgICAgIGNtZC5hcHBlbmQoZiItLWxpbnV4LWljb249e2ljb25faWNvfSIpCgogICAgY21kLmFwcGVuZCgibWFpbi5weSIpCgogICAgcHJpbnQoIj0iICogNjApCiAgICBwcmludChmIkJ1aWxkaW5nIHtBUFBfTkFNRX0gdntWRVJTSU9OfSIpCiAgICBwcmludChmIlBsYXRmb3JtOiB7c3lzdGVtfSAoe3BsYXRmb3JtLm1hY2hpbmUoKX0pIikKICAgIHByaW50KGYiTW9kZTogeydvbmVmaWxlIC8gYXBwIGJ1bmRsZScgaWYgb25lZmlsZSBlbHNlICdzdGFuZGFsb25lIGRpcmVjdG9yeSd9IikKICAgIHByaW50KCI9IiAqIDYwKQogICAgcHJpbnQoIkNvbW1hbmQ6IiwgIiAiLmpvaW4oc3RyKGMpIGZvciBjIGluIGNtZCksICJcbiIpCgogICAgcmVzdWx0ID0gc3VicHJvY2Vzcy5ydW4oY21kLCBjd2Q9Uk9PVCkKICAgIGlmIHJlc3VsdC5yZXR1cm5jb2RlICE9IDA6CiAgICAgICAgcHJpbnQoZiJcbkJ1aWxkIGZhaWxlZCAoZXhpdCB7cmVzdWx0LnJldHVybmNvZGV9KSIpCiAgICAgICAgc3lzLmV4aXQocmVzdWx0LnJldHVybmNvZGUpCiAgICBwcmludCgiXG5CdWlsZCBjb21wbGV0ZSAtPiBkaXN0LyIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGltcG9ydCBhcmdwYXJzZQogICAgcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHAuYWRkX2FyZ3VtZW50KCItLWRpciIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsIGhlbHA9InN0YW5kYWxvbmUgZGlyIChubyBvbmVmaWxlKSIpCiAgICBhcmdzID0gcC5wYXJzZV9hcmdzKCkKICAgIGJ1aWxkKG9uZWZpbGU9bm90IGFyZ3MuZGlyKQo=
+"""
+Build script — compile PyChem-Pro into a native standalone binary with Nuitka.
+
+Produces:
+  macOS   → dist/PyChem-Pro.app     (wrap with `python package_dmg.py` to get a .dmg)
+  Windows → dist/PyChem-Pro.exe     (single-file)
+  Linux   → dist/PyChem-Pro         (single-file)
+
+Usage:
+    python build.py                 # onefile/app-bundle
+    python build.py --dir           # standalone directory (faster iteration)
+"""
+
+import os
+import sys
+import platform
+import subprocess
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+APP_NAME = "PyChem-Pro"
+VERSION = "1.0.0"
+COMPANY = "PyChem"
+DESCRIPTION = "PyChem-Pro - Molecular Visualization Software"
+
+
+def build(onefile: bool = True) -> None:
+    system = platform.system()
+    icon_icns = ROOT / "assets" / "icon.icns"
+    icon_ico = ROOT / "assets" / "icon.ico"
+
+    cmd = [
+        sys.executable, "-m", "nuitka",
+        "--standalone",
+        "--enable-plugin=pyside6",
+        "--remove-output",
+        "--assume-yes-for-downloads",
+        "--output-dir=dist",
+        f"--output-filename={APP_NAME}",
+        f"--company-name={COMPANY}",
+        f"--product-name={APP_NAME}",
+        f"--file-version={VERSION}",
+        f"--product-version={VERSION}",
+        f"--file-description={DESCRIPTION}",
+        "--include-package=src",
+        "--include-package=pychem",
+        "--include-package=pdbx",
+        "--include-package=plugins",
+        # --include-package bundles only .py modules; the NON-code data files
+        # that live inside these packages (MMFF94 parameter tables at
+        # src/services/forcefield/data/*.txt, the Ramachandran KDE map at
+        # src/data/kde.dat, the OASA name/structure databases, …) must be
+        # requested explicitly.  Without this the frozen onefile app fails at
+        # runtime with e.g. "No such file or directory:
+        # …/onefile_xxx/src/services/forcefield/data/mmff94.par.txt".
+        "--include-package-data=src",
+        "--include-package-data=pychem",
+        "--include-package-data=pdbx",
+        "--include-data-files=plugins/*.py=plugins/",
+        "--include-data-dir=plugins=plugins",
+        "--include-data-dir=assets=assets",
+        "--include-qt-plugins=sensible,iconengines,imageformats",
+        "--include-module=PySide6.QtSvg",
+    ]
+
+    if onefile:
+        if system == "Darwin":
+            # macOS app bundles are self-contained; onefile breaks .app structure
+            pass
+        else:
+            cmd.append("--onefile")
+
+    if system == "Windows":
+        cmd.append("--windows-console-mode=disable")
+        if icon_ico.exists():
+            cmd.append(f"--windows-icon-from-ico={icon_ico}")
+    elif system == "Darwin":
+        cmd.append("--macos-create-app-bundle")
+        cmd.append(f"--macos-app-name={APP_NAME}")
+        cmd.append(f"--macos-app-version={VERSION}")
+        if icon_icns.exists():
+            cmd.append(f"--macos-app-icon={icon_icns}")
+    elif system == "Linux":
+        if icon_ico.exists():
+            cmd.append(f"--linux-icon={icon_ico}")
+
+    cmd.append("main.py")
+
+    print("=" * 60)
+    print(f"Building {APP_NAME} v{VERSION}")
+    print(f"Platform: {system} ({platform.machine()})")
+    print(f"Mode: {'onefile / app bundle' if onefile else 'standalone directory'}")
+    print("=" * 60)
+    print("Command:", " ".join(str(c) for c in cmd), "\n")
+
+    result = subprocess.run(cmd, cwd=ROOT)
+    if result.returncode != 0:
+        print(f"\nBuild failed (exit {result.returncode})")
+        sys.exit(result.returncode)
+    print("\nBuild complete -> dist/")
+
+
+if __name__ == "__main__":
+    import argparse
+    p = argparse.ArgumentParser()
+    p.add_argument("--dir", action="store_true", help="standalone dir (no onefile)")
+    args = p.parse_args()
+    build(onefile=not args.dir)

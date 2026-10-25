@@ -1,1 +1,93 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJleHAxNjQg5LiK5bGP6Ieq5qOAOiDmuLLmn5MgLT4g5YaZIC9kZXYvZmIwIC0+IOWQjOi/m+eoi+eri+WNs+WbnumHhyAtPiDpgJDlrZfoioLmr5Tlr7kgLT4gT0NSIiIiCmltcG9ydCBvcywgZ2xvYiwgaGFzaGxpYgppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAoKT1VUID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE2NF9tZWFzdXJlbWVudF9saW1pdCIKRkIgPSAiL2Rldi9mYjAiClcsIEggPSAxMDI0LCA3NjgKTkIgPSBXKkgqNApUT0tFTiA9ICJUOUsyTVoiCgpjYW5kcyA9IFsiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIsCiAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktemVuaGVpLnR0YyIsCiAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL29wZW50eXBlL25vdG8vTm90b1NhbnNDSkstUmVndWxhci50dGMiLAogICAgICAgICAiL3Vzci9zaGFyZS9mb250cy9vcGVudHlwZS9ub3RvL05vdG9TYW5zQ0pLLUJsYWNrLnR0YyIsCiAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL29wZW50eXBlL25vdG8vTm90b1NlcmlmQ0pLLUJvbGQudHRjIl0KZm9udF9wYXRoID0gTm9uZQpmb3IgYyBpbiBjYW5kczoKICAgIGlmIG9zLnBhdGguZXhpc3RzKGMpOgogICAgICAgIGZvbnRfcGF0aCA9IGMKICAgICAgICBicmVhawppZiBmb250X3BhdGggaXMgTm9uZToKICAgIGcgPSBzb3J0ZWQoZ2xvYi5nbG9iKCIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS8qIikgKwogICAgICAgICAgICAgICBnbG9iLmdsb2IoIi91c3Ivc2hhcmUvZm9udHMvb3BlbnR5cGUvbm90by8qQ0pLKiIpKQogICAgaWYgZzoKICAgICAgICBmb250X3BhdGggPSBnWzBdCmFzc2VydCBmb250X3BhdGgsICLmnKrmib7liLDkuK3mloflrZfkvZMo56aB5q2i6Z2Z6buY6ZmN57qnKSIKcHJpbnQoImZvbnQgPSIsIGZvbnRfcGF0aCkKCmltZyA9IEltYWdlLm5ldygiUkdCQSIsIChXLCBIKSwgKDI1NSwgMjU1LCAyNTUsIDI1NSkpCmQgPSBJbWFnZURyYXcuRHJhdyhpbWcpCmYgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoZm9udF9wYXRoLCAyMykKZmIgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoZm9udF9wYXRoLCAzMCkKCkxJTkVTID0gWwogICAgIjE2NCDmtYvph4/mnoHpmZA6IOeBteaVj+W6pueahOe7iOeCueaYr+Wdjee8qSIsCiAgICAiIiwKICAgICJBIOWNleWIhuaUr+S6kuS/oeaBryBJKEE7WCk9MC4wMDAwMCAgSShCO1gpPTAuMDAwMDEiLAogICAgIkEg5YWz6IGUIEFeQiDmgaLlpI0gWCDlh4bnoa7njocgPSAxLjAwMDAiLAogICAgIkEg6KeC5rWL5omw5YqoIHA6IDAuMDAtPjEuMDAwMCAgMC4yMC0+MC43OTkwICAwLjM1LT4wLjY1MzciLAogICAgIkEgcD0wLjUwIC0+IDAuNDk5NiAg5a6M5YWo5Z2N57ypICjljZXliIbmlK/kupLkv6Hmga/lp4vnu4jkuLowKSIsCiAgICAiIiwKICAgICJBMiDnu4/lhbjlhbPogZTlj6/lpI3liLYgLT4g5aSa5pWw5oqV56Wo57qg6ZSZIChtPTIxLHA9MC4yMCAtPiAwLjk5OTApIiwKICAgICJBMiDnm7jlj5jngrkgcD0wLjUwOiBtPTEuLjIxIOaBkiAwLjUwICDlpJrloIblhbPogZTml6DmlYgiLAogICAgIiIsCiAgICAiQzIgQ1BV6ZmN6aKROiDov57nu60gNTg0MiBucyAgc2xlZXDlkI7pppbmrKEgNDAzODggbnMgIOavlOWAvCA2LjkxMyIsCiAgICAiQzMg6KeC5rWL5by65bqmIGs9NC4uMjU2IOa8guenu+aXoOWNleiwg+i2i+WKvyAo57uP5YW45omw5Yqo5piv5py65Yi25L6d6LWWKSIsCiAgICAiIiwKICAgICLph4/lrZA6IFNRTCAxL3NxcnQoTikgLT4gSEwgMS9OICjnuqDnvKAsIOaPkOWNhyBzcXJ0KE4pIOWAjSkiLAogICAgIumHj+WtkDog57qg57yg5LiN5Y+v5YWL6ZqGIC0+IOi2iuWkp+i2iumavuS/neaKpCAtPiDop4LmtYvljbPlnY3nvKkiLAogICAgIiIsCiAgICAiVE9LRU4gIiArIFRPS0VOLApdCgojIOWbuuWumuihjOS9jeihqCjpgb/lhY3mnKvooYzotorlh7rnlLvluIMpCnkwLCBsaCA9IDU1LCA0MApmb3IgaSwgdCBpbiBlbnVtZXJhdGUoTElORVMpOgogICAgeSA9IHkwICsgaSpsaAogICAgYXNzZXJ0IHkgKyBsaCA8PSBIIC0gMTAsIGYi6KGMIHtpfSDotorlh7rnlLvluIM6IHk9e3l9IgogICAgZC50ZXh0KCg0NSwgeSksIHQsIGZvbnQ9KGZiIGlmIGkgPT0gMCBlbHNlIGYpLCBmaWxsPSgwLCAwLCAwLCAyNTUpKQoKaW1nLmNvbnZlcnQoIlJHQiIpLnNhdmUob3MucGF0aC5qb2luKE9VVCwgInJlbmRlcjE2NC5wbmciKSkKCnJhdyA9IGltZy50b2J5dGVzKCkKYXNzZXJ0IGxlbihyYXcpID09IE5CLCBmIuWtl+iKguaVsOS4jeespiB7bGVuKHJhdyl9ICE9IHtOQn0iCndpdGggb3BlbihGQiwgIndiIikgYXMgZzoKICAgIGcud3JpdGUocmF3KQp3aXRoIG9wZW4oRkIsICJyYiIpIGFzIGc6ICAgICAgICAgICMg5ZCM6L+b56iL56uL5Y2z5Zue6YeHKOmBv+W8gCBmYmNvbiAwLjJzIOimhueblikKICAgIGNhcCA9IGcucmVhZChOQikKCmlkZW50aWNhbCA9IChyYXcgPT0gY2FwKQpwcmludCgi5YaZ5YWl5a2X6IqCID0iLCBsZW4ocmF3KSkKcHJpbnQoIklERU5USUNBTCA9IiwgaWRlbnRpY2FsLCAiIGRpZmZfcHggPSIsIGludCgobnAuZnJvbWJ1ZmZlcihyYXcsIG5wLnVpbnQ4KSAhPSBucC5mcm9tYnVmZmVyKGNhcCwgbnAudWludDgpKS5zdW0oKSkpCnByaW50KCJyYXcgc2hhID0iLCBoYXNobGliLnNoYTI1NihyYXcpLmhleGRpZ2VzdCgpWzoxNl0pCnByaW50KCJjYXAgc2hhID0iLCBoYXNobGliLnNoYTI1NihjYXApLmhleGRpZ2VzdCgpWzoxNl0pCgpjaSA9IEltYWdlLmZyb21ieXRlcygiUkdCQSIsIChXLCBIKSwgY2FwKS5jb252ZXJ0KCJSR0IiKQpjaS5zYXZlKG9zLnBhdGguam9pbihPVVQsICJjYXB0dXJlZC5wbmciKSkKcHJpbnQoInNhdmVkIGNhcHR1cmVkLnBuZyIpCgojIE9DUiDni6znq4vor7vlh7oKdHJ5OgogICAgaW1wb3J0IHB5dGVzc2VyYWN0CiAgICB0eHQgPSBweXRlc3NlcmFjdC5pbWFnZV90b19zdHJpbmcoY2ksIGxhbmc9ImNoaV9zaW0iKQogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJvY3IxNjQudHh0IiksICJ3IikgYXMgZzoKICAgICAgICBnLndyaXRlKHR4dCkKICAgIGhpdCA9IFRPS0VOIGluIHR4dC5yZXBsYWNlKCIgIiwgIiIpCiAgICBwcmludCgiT0NSIOWtl+espuaVsCA9IiwgbGVuKHR4dCksICIgVE9LRU4g5ZG95LitID0iLCBoaXQpCiAgICBwcmludCgiLS0tLSBPQ1IgLS0tLSIpCiAgICBwcmludCh0eHQuc3RyaXAoKVs6OTAwXSkKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcHJpbnQoIk9DUiDkuI3lj6/nlKg6IiwgZSkK
+#!/usr/bin/env python3
+"""exp164 上屏自检: 渲染 -> 写 /dev/fb0 -> 同进程立即回采 -> 逐字节比对 -> OCR"""
+import os, glob, hashlib
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp164_measurement_limit"
+FB = "/dev/fb0"
+W, H = 1024, 768
+NB = W*H*4
+TOKEN = "T9K2MZ"
+
+cands = ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+         "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+         "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+         "/usr/share/fonts/opentype/noto/NotoSansCJK-Black.ttc",
+         "/usr/share/fonts/opentype/noto/NotoSerifCJK-Bold.ttc"]
+font_path = None
+for c in cands:
+    if os.path.exists(c):
+        font_path = c
+        break
+if font_path is None:
+    g = sorted(glob.glob("/usr/share/fonts/truetype/wqy/*") +
+               glob.glob("/usr/share/fonts/opentype/noto/*CJK*"))
+    if g:
+        font_path = g[0]
+assert font_path, "未找到中文字体(禁止静默降级)"
+print("font =", font_path)
+
+img = Image.new("RGBA", (W, H), (255, 255, 255, 255))
+d = ImageDraw.Draw(img)
+f = ImageFont.truetype(font_path, 23)
+fb = ImageFont.truetype(font_path, 30)
+
+LINES = [
+    "164 测量极限: 灵敏度的终点是坍缩",
+    "",
+    "A 单分支互信息 I(A;X)=0.00000  I(B;X)=0.00001",
+    "A 关联 A^B 恢复 X 准确率 = 1.0000",
+    "A 观测扰动 p: 0.00->1.0000  0.20->0.7990  0.35->0.6537",
+    "A p=0.50 -> 0.4996  完全坍缩 (单分支互信息始终为0)",
+    "",
+    "A2 经典关联可复制 -> 多数投票纠错 (m=21,p=0.20 -> 0.9990)",
+    "A2 相变点 p=0.50: m=1..21 恒 0.50  多堆关联无效",
+    "",
+    "C2 CPU降频: 连续 5842 ns  sleep后首次 40388 ns  比值 6.913",
+    "C3 观测强度 k=4..256 漂移无单调趋势 (经典扰动是机制依赖)",
+    "",
+    "量子: SQL 1/sqrt(N) -> HL 1/N (纠缠, 提升 sqrt(N) 倍)",
+    "量子: 纠缠不可克隆 -> 越大越难保护 -> 观测即坍缩",
+    "",
+    "TOKEN " + TOKEN,
+]
+
+# 固定行位表(避免末行越出画布)
+y0, lh = 55, 40
+for i, t in enumerate(LINES):
+    y = y0 + i*lh
+    assert y + lh <= H - 10, f"行 {i} 越出画布: y={y}"
+    d.text((45, y), t, font=(fb if i == 0 else f), fill=(0, 0, 0, 255))
+
+img.convert("RGB").save(os.path.join(OUT, "render164.png"))
+
+raw = img.tobytes()
+assert len(raw) == NB, f"字节数不符 {len(raw)} != {NB}"
+with open(FB, "wb") as g:
+    g.write(raw)
+with open(FB, "rb") as g:          # 同进程立即回采(避开 fbcon 0.2s 覆盖)
+    cap = g.read(NB)
+
+identical = (raw == cap)
+print("写入字节 =", len(raw))
+print("IDENTICAL =", identical, " diff_px =", int((np.frombuffer(raw, np.uint8) != np.frombuffer(cap, np.uint8)).sum()))
+print("raw sha =", hashlib.sha256(raw).hexdigest()[:16])
+print("cap sha =", hashlib.sha256(cap).hexdigest()[:16])
+
+ci = Image.frombytes("RGBA", (W, H), cap).convert("RGB")
+ci.save(os.path.join(OUT, "captured.png"))
+print("saved captured.png")
+
+# OCR 独立读出
+try:
+    import pytesseract
+    txt = pytesseract.image_to_string(ci, lang="chi_sim")
+    with open(os.path.join(OUT, "ocr164.txt"), "w") as g:
+        g.write(txt)
+    hit = TOKEN in txt.replace(" ", "")
+    print("OCR 字符数 =", len(txt), " TOKEN 命中 =", hit)
+    print("---- OCR ----")
+    print(txt.strip()[:900])
+except Exception as e:
+    print("OCR 不可用:", e)

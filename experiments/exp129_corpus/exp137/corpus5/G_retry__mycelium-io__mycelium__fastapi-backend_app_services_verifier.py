@@ -1,1 +1,459 @@
-IyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogQXBhY2hlLTIuMAojIENvcHlyaWdodCAyMDI2IE15Y2VsaXVtIENvbnRyaWJ1dG9ycwoKIiIiVGhlIHZlcmlmaWVyOiBjaGVja3Mgd2hhdCBhZ2VudHMgc2F5IGFib3V0IGFwcHJvdmFscyBhbmQgbWVyZ2VzIGFnYWluc3QgdGhlCnJvb20ncyByZWNvcmRzLCBhbmQgYWRkcyBhIHF1aWV0IGxpbmUgdW5kZXIgYSBtZXNzYWdlIHdoZW4gYSBjbGFpbSBkb2Vzbid0IGhvbGQuCgpJdCBuZXZlciBibG9ja3MgYSB3cml0ZSBhbmQgbmV2ZXIgd2FrZXMgYW55b25lLiBJbiBhIHJvb20gdGhhdCBhZGRlZCBpdCAoYW4KZW5naW5lIG9mIGtpbmQgYGB2ZXJpZmllcmBgKSwgZXZlcnkgbWVzc2FnZSBhbiBhZ2VudCBwb3N0cyBnb2VzIHRocm91Z2ggdGhyZWUKc3RlcHMsIGVhY2ggcnVubmluZyBvbmx5IG9uIHdoYXQgdGhlIG9uZSBiZWZvcmUgcGFzc2VkOgoKMS4gKipTcG90IGNsYWltcywgbG9jYWxseSoqICg6bW9kOmBhcHAuc2VydmljZXMudmVyaWZpZXJfY2xhaW1zYCk6IGEgc21hbGwKICAgY2xhc3NpZmllciBvdmVyIHRoZSBodWIncyBzZWFyY2ggZW1iZWRkaW5ncyBtYXJrcyB0aGUgc2VudGVuY2VzIHRoYXQgY2xhaW0gYW4KICAgYXBwcm92YWwsIGEgY29tcGxldGlvbiwgYSBkZWNpc2lvbiBvciBhIHB1bGwgcmVxdWVzdCdzIHN0YXRlLgoyLiAqKkNoZWNrIHRoZW0gYWdhaW5zdCB0aGUgcm9vbSdzIHJlY29yZHMqKiAoOm1vZDpgYXBwLnNlcnZpY2VzLnZlcmlmaWVyX3JlY29yZHNgKToKICAgd2FzICNOIGFwcHJvdmVkIGJ5IHNvbWVvbmUgZWxzZSBpbiB0aGlzIHJvb207IGhhZCAjTiBhbHJlYWR5IG1lcmdlZC4KMy4gKipBc2sgdGhlIGh1YidzIG1vZGVsKiogKHRocm91Z2ggUGkpIGFib3V0IHdoYXQncyBsZWZ0LCB3aXRoIHRoZSB0aHJlYWQgaW4KICAgZnJvbnQgb2YgaXQsIHRvIGRpc21pc3MgYSBmbGFnIHRoZSByZWNvcmRzIGdvdCB3cm9uZyAoYW4gYXBwcm92YWwgZ2l2ZW4gaW4KICAgd29yZHMgdGhlIHJlY29yZHMgbWlzcywgYSBxdW90ZSBvZiBzb21lb25lIGVsc2UpIGFuZCB0byBrZWVwIHRoZSByZXN0LgoKQSBrZXB0IGZsYWcgaXMgc3RvcmVkIGJlc2lkZSB0aGUgcm9vbSAoOmRhdGE6YEZMQUdTX0ZJTEVgKSBhbmQgcmFpc2VkIGFzIGEKYGBjaGVja2BgIG5vdGljZSwgd2hpY2ggd2FrZXMgbm9ib2R5OiB0aGUgYXBwIGRyYXdzIGl0IGFzIGEgbGluZSB1bmRlciB0aGUKbWVzc2FnZSwgYW5kIHRoZSBhZ2VudCByZWFkcyBpdCBhcyB0aGUgYGBDaGVjazpgYCBsaW5lIG9mIGl0cyBuZXh0IHdha2UuClNvbWVvbmUgYW5zd2VyaW5nICpJdCdzIGZpbmUqIHJhaXNlcyB0aGUgc2FtZSBub3RpY2Ugd2l0aCBgYHN0YXRlOiBmaW5lYGAuCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFzeW5jaW8KaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IHJlCmltcG9ydCB0ZW1wZmlsZQppbXBvcnQgdXVpZApmcm9tIGRhdGV0aW1lIGltcG9ydCBVVEMsIGRhdGV0aW1lCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgQW55Cgpmcm9tIGFwcC5jb25maWcgaW1wb3J0IHNldHRpbmdzCmZyb20gYXBwLnNlcnZpY2VzIGltcG9ydCB2ZXJpZmllcl9jbGFpbXMsIHZlcmlmaWVyX3JlY29yZHMKZnJvbSBhcHAuc2VydmljZXMucGVyc2lzdGVyIGltcG9ydCAoCiAgICBUcmFuc2NyaXB0UmVjb3JkLAogICAgbG9hZF90cmFuc2NyaXB0LAogICAgcGFyc2VfcmVjb3JkZWRfYXQsCiAgICByZWFkX2lkLAopCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCktJTkQgPSAidmVyaWZpZXIiCkZMQUdTX0ZJTEUgPSAiLnZlcmlmaWVyLWZsYWdzLmpzb24iClFVT1RFX1NFUCA9ICJcdTAwMWYiClRIUkVBRF9DT05URVhUID0gMTIKQ09OVEVYVF9DSEFSUyA9IDYwMApQUk9TRV9UWVBFUyA9IGZyb3plbnNldCh7Im1lc3NhZ2UiLCAicmVwbHkifSkKCgojIOKUgOKUgCBXaG8gaXQgcmVhZHMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgoKZGVmIHZlcmlmaWVyX2hhbmRsZXMocm9vbTogc3RyKSAtPiBsaXN0W3N0cl06CiAgICAiIiJUaGUgdmVyaWZpZXIgZW5naW5lcyB0aGlzIHJvb20gaGFzIGFkZGVkICh1c3VhbGx5IG9uZSwgb3Igbm9uZSkuIiIiCiAgICBmcm9tIGFwcC5zZXJ2aWNlcy5yb29tX2NoYW5uZWxzIGltcG9ydCBfcmVnaXN0ZXJlZF9hZ2VudF9oYW5kbGVzLCBfcmVnaXN0ZXJlZF9raW5kCgogICAgcmV0dXJuIFtoIGZvciBoIGluIF9yZWdpc3RlcmVkX2FnZW50X2hhbmRsZXMocm9vbSkgaWYgX3JlZ2lzdGVyZWRfa2luZChyb29tLCBoKSA9PSBLSU5EXQoKCmRlZiBfaXNfYWdlbnQocm9vbTogc3RyLCBoYW5kbGU6IHN0cikgLT4gYm9vbDoKICAgICIiIkEgcmVnaXN0ZXJlZCBhZ2VudCB0aGF0IGlzbid0IGFuIGVuZ2luZTogdGhlIG1lbWJlcnMgd2hvc2UgY2xhaW1zIGl0IGNoZWNrcy4iIiIKICAgIGZyb20gYXBwLnNlcnZpY2VzLnJvb21fY2hhbm5lbHMgaW1wb3J0IF9pc19lbmdpbmUsIF9pc19vd25fcmVnaXN0ZXJlZF9hZ2VudAoKICAgIHJldHVybiBfaXNfb3duX3JlZ2lzdGVyZWRfYWdlbnQocm9vbSwgaGFuZGxlKSBhbmQgbm90IF9pc19lbmdpbmUocm9vbSwgaGFuZGxlKQoKCiMg4pSA4pSAIFRoZSBmbGFnIHN0b3JlIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKCmRlZiBfZmxhZ3NfcGF0aChyb29tOiBzdHIpIC0+IFBhdGg6CiAgICBmcm9tIGFwcC5zZXJ2aWNlcy5maWxlc3lzdGVtIGltcG9ydCBnZXRfcm9vbV9kaXIKCiAgICByZXR1cm4gZ2V0X3Jvb21fZGlyKHJvb20pIC8gRkxBR1NfRklMRQoKCmRlZiBsb2FkX2ZsYWdzKHJvb206IHN0cikgLT4gbGlzdFtkaWN0W3N0ciwgQW55XV06CiAgICB0cnk6CiAgICAgICAgcmF3ID0ganNvbi5sb2FkcyhfZmxhZ3NfcGF0aChyb29tKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCiAgICBleGNlcHQgKE9TRXJyb3IsIFZhbHVlRXJyb3IpOgogICAgICAgIHJldHVybiBbXQogICAgcmV0dXJuIHJhdyBpZiBpc2luc3RhbmNlKHJhdywgbGlzdCkgZWxzZSBbXQoKCmRlZiBfc2F2ZV9mbGFncyhyb29tOiBzdHIsIGZsYWdzOiBsaXN0W2RpY3Rbc3RyLCBBbnldXSkgLT4gTm9uZToKICAgIHBhdGggPSBfZmxhZ3NfcGF0aChyb29tKQogICAgdG1wID0gcGF0aC53aXRoX3N1ZmZpeCgiLnRtcCIpCiAgICB0bXAud3JpdGVfdGV4dChqc29uLmR1bXBzKGZsYWdzLCBpbmRlbnQ9MiksIGVuY29kaW5nPSJ1dGYtOCIpCiAgICB0bXAucmVwbGFjZShwYXRoKQoKCmRlZiBmbGFnc19zaW5jZShyb29tOiBzdHIsIHNpbmNlOiBkYXRldGltZSB8IE5vbmUgPSBOb25lKSAtPiBsaXN0W2RpY3Rbc3RyLCBBbnldXToKICAgICIiIlRoZSByb29tJ3MgZmxhZ3MsIG9sZGVzdCBmaXJzdCwgZnJvbSBgYHNpbmNlYGAgb24uIiIiCiAgICBmbGFncyA9IGxvYWRfZmxhZ3Mocm9vbSkKICAgIGlmIHNpbmNlIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIGZsYWdzCiAgICByZXR1cm4gW2YgZm9yIGYgaW4gZmxhZ3MgaWYgKHBhcnNlX3JlY29yZGVkX2F0KGZbImF0Il0pIG9yIHNpbmNlKSA+PSBzaW5jZV0KCgojIOKUgOKUgCBTdGVwIDM6IHRoZSBodWIncyBtb2RlbCByZWFkcyB0aGUgdGhyZWFkIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKX0NPTkZJUk1fUFJPTVBUID0gIiIiWW91IGNoZWNrIG9uZSB0aGluZyBhbiBBSSBhZ2VudCBzYWlkIGluIGEgdGVhbSBjaGF0IGFnYWluc3QgdGhlIHRlYW0ncyByZWNvcmRzLgoKVGhlIHJlY29yZHMgc3RlcCB0aGlua3MgdGhpcyBjbGFpbSBkb2Vzbid0IGhvbGQgdXA6Ci0gQ2xhaW06IHtzZW50ZW5jZX0KLSBSZWNvcmRzOiB7bGluZX0KLSBXaGF0IHdhcyBjaGVja2VkOiB7Y2hlY2tlZH0KClRoZSB0aHJlYWQgdXAgdG8gYW5kIGluY2x1ZGluZyB0aGUgbWVzc2FnZSAob2xkZXN0IGZpcnN0KToKe2NvbnRleHR9CgpEZWNpZGUgd2hldGhlciB0byBzaG93IGEgc2hvcnQgbm90ZSB1bmRlciB0aGUgbWVzc2FnZS4gU2hvdyBpdCB3aGVuIHRoZSBjbGFpbSByZWFsbHkgaXNuJ3QgYmFja2VkIGJ5IGFueXRoaW5nIGluIHRoaXMgdGhyZWFkIG9yIHRoZSByZWNvcmRzLiBEb24ndCBzaG93IGl0IHdoZW4gdGhlIHRocmVhZCBzaG93cyB0aGUgY2xhaW0gaXMgZmluZTogZm9yIGV4YW1wbGUgdGhlIGFwcHJvdmFsIHdhcyBnaXZlbiBpbiB3b3JkcyB0aGUgcmVjb3JkcyBtaXNzZWQsIHRoZSBhZ2VudCBpcyBxdW90aW5nIG9yIGFza2luZyBzb21lb25lIGVsc2UsIGl0J3MgYSBwbGFuIHJhdGhlciB0aGFuIGEgY2xhaW0gKCJvbmNlIGl0J3MgYXBwcm92ZWQgSSdsbCBtZXJnZSIpLCBvciBpdCBzYXlzIHBsYWlubHkgd2hhdCBpc24ndCBjb25maXJtZWQuCgpBbnN3ZXIgd2l0aCBvbmUgSlNPTiBvYmplY3QgYW5kIG5vdGhpbmcgZWxzZToKe3sic2hvdyI6IHRydWUgb3IgZmFsc2UsICJxdW90ZSI6ICI8dGhlIGV4YWN0IHdvcmRzIGluIHRoZSBtZXNzYWdlIHRoYXQgbWFrZSB0aGUgY2xhaW0sIGNvcGllZCB2ZXJiYXRpbT4iLCAid2h5IjogIjxvbmUgc2hvcnQgc2VudGVuY2U+In19IiIiCgoKZGVmIF9jb250ZXh0KHJlY29yZHM6IGxpc3RbVHJhbnNjcmlwdFJlY29yZF0sIHJlY29yZDogVHJhbnNjcmlwdFJlY29yZCkgLT4gc3RyOgogICAgZXBpc29kZSA9IHZlcmlmaWVyX3JlY29yZHMuZXBpc29kZV9vZihyZWNvcmQpCiAgICBsaW5lcyA9IFtdCiAgICBmb3IgciBpbiByZWNvcmRzOgogICAgICAgIGlmIHZlcmlmaWVyX3JlY29yZHMuZXBpc29kZV9vZihyKSAhPSBlcGlzb2RlOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHBheWxvYWQgPSAoci5jb250ZW50LmdldCgibDkiKSBvciB7fSkuZ2V0KCJwYXlsb2FkIikgb3Ige30KICAgICAgICBpZiBwYXlsb2FkLmdldCgidHlwZSIpIG5vdCBpbiBQUk9TRV9UWVBFUzoKICAgICAgICAgICAgY29udGludWUKICAgICAgICB0ZXh0ID0gc3RyKHIuY29udGVudC5nZXQoImNvbnRlbnQiKSBvciAiIikKICAgICAgICBsaW5lcy5hcHBlbmQoZiJAe3Iuc2VuZGVyfSAoe3IucmVjb3JkZWRfYXRbMTE6MTZdfSk6IHt0ZXh0WzpDT05URVhUX0NIQVJTXX0iKQogICAgICAgIGlmIHIubWVzc2FnZV9pZCA9PSByZWNvcmQubWVzc2FnZV9pZDoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiAiXG4iLmpvaW4obGluZXNbLVRIUkVBRF9DT05URVhUOl0pCgoKZGVmIF9hc2tfbW9kZWwocHJvbXB0OiBzdHIsIHJvb206IHN0cikgLT4gc3RyOgogICAgIiIiT25lIGJsb2NraW5nIFBpIHR1cm4gb24gYSB0aHJvd2F3YXkgc2Vzc2lvbi4gSXNvbGF0ZWQgc28gdGVzdHMgcGF0Y2ggaXQuIiIiCiAgICBmcm9tIGFwcC5zZXJ2aWNlcy5waV9zZXNzaW9uIGltcG9ydCBQaVNlc3Npb24KCiAgICBzZXNzaW9uX2RpciA9IFBhdGgodGVtcGZpbGUuZ2V0dGVtcGRpcigpKSAvICJteWNlbGl1bS1waS1zZXNzaW9ucyIKICAgIHNlc3Npb25fZGlyLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHNlc3Npb24gPSBQaVNlc3Npb24oCiAgICAgICAgc2Vzc2lvbl9wYXRoPXNlc3Npb25fZGlyIC8gZiJ2ZXJpZmllci17dXVpZC51dWlkNCgpLmhleH0uanNvbmwiLAogICAgICAgIG1vZGVsPXNldHRpbmdzLkxMTV9NT0RFTCwKICAgICAgICBhcGlfa2V5PXNldHRpbmdzLkxMTV9BUElfS0VZLAogICAgICAgIGJhc2VfdXJsPXNldHRpbmdzLkxMTV9CQVNFX1VSTCwKICAgICAgICBiaW5hcnk9c2V0dGluZ3MuQUxJR05FUl9QSV9CSU5BUlksCiAgICAgICAgdGltZW91dF9zPXNldHRpbmdzLlZFUklGSUVSX1BJX1RJTUVPVVRfUywKICAgICAgICBvcGVuc2hlbGw9c2V0dGluZ3MuQUxJR05FUl9QSV9PUEVOU0hFTEwsCiAgICAgICAgb3BlcmF0aW9uPSJ2ZXJpZmllciIsCiAgICAgICAgcm9vbT1yb29tLAogICAgKQogICAgcmV0dXJuIHNlc3Npb24ocHJvbXB0KQoKCmRlZiBfdmVyZGljdChhbnN3ZXI6IHN0cikgLT4gZGljdFtzdHIsIEFueV0gfCBOb25lOgogICAgbWF0Y2ggPSByZS5zZWFyY2gociJcey4qXH0iLCBhbnN3ZXIsIHJlLkRPVEFMTCkKICAgIGlmIG5vdCBtYXRjaDoKICAgICAgICByZXR1cm4gTm9uZQogICAgdHJ5OgogICAgICAgIGRhdGEgPSBqc29uLmxvYWRzKG1hdGNoLmdyb3VwKDApKQogICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHJldHVybiBkYXRhIGlmIGlzaW5zdGFuY2UoZGF0YSwgZGljdCkgYW5kICJzaG93IiBpbiBkYXRhIGVsc2UgTm9uZQoKCiMg4pSA4pSAIFRoZSBlbmdpbmUg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgoKY2xhc3MgVmVyaWZpZXJFbmdpbmU6CiAgICAiIiJSdW5zIHRoZSB0aHJlZSBzdGVwcyBvbiBhZ2VudCBtZXNzYWdlcyBpbiByb29tcyB0aGF0IGFkZGVkIHRoZSB2ZXJpZmllci4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgbWFuYWdlcjogQW55KSAtPiBOb25lOgogICAgICAgIHNlbGYuX21hbmFnZXIgPSBtYW5hZ2VyCiAgICAgICAgc2VsZi5fbG9ja3M6IGRpY3Rbc3RyLCBhc3luY2lvLkxvY2tdID0ge30KICAgICAgICBzZWxmLl90YXNrczogc2V0W2FzeW5jaW8uVGFza1tBbnldXSA9IHNldCgpCiAgICAgICAgc2VsZi5fbW9kZWw6IHZlcmlmaWVyX2NsYWltcy5DbGFpbU1vZGVsIHwgTm9uZSA9IE5vbmUKICAgICAgICBzZWxmLl9tb2RlbF9sb2FkZWQgPSBGYWxzZQogICAgICAgIGZyb20gYXBwLnNlcnZpY2VzLnZlcmlmaWVyX2xlYXJuIGltcG9ydCBMZWFybmluZwoKICAgICAgICBzZWxmLmxlYXJuaW5nID0gTGVhcm5pbmcoKQoKICAgIGRlZiBtb2RlbChzZWxmKSAtPiB2ZXJpZmllcl9jbGFpbXMuQ2xhaW1Nb2RlbCB8IE5vbmU6CiAgICAgICAgIiIiVGhlIGNsYWltIHNwb3R0ZXIgZm9yIHRoZSBodWIncyBzZWFyY2ggbW9kZWwuIEJsb2NraW5nOiB3aGVuIHRoZSBzZWFyY2gKICAgICAgICBtb2RlbCBjaGFuZ2VkIGFuZCBub3RoaW5nIG1hdGNoZXMgaXQsIGl0IGlzIGZpdHRlZCBhZ2FpbiBmcm9tIHRoZSBzYXZlZAogICAgICAgIGxhYmVscyAoYW4gZW1iZWRkaW5nIHBhc3MsIG5vIG1vZGVsIGNhbGxzKSwgc28gY2FsbCBpdCBvZmYgdGhlIGxvb3AuIiIiCiAgICAgICAgaWYgbm90IHNlbGYuX21vZGVsX2xvYWRlZDoKICAgICAgICAgICAgc2VsZi5fbW9kZWwgPSB2ZXJpZmllcl9jbGFpbXMubG9hZChQYXRoKHNldHRpbmdzLk1ZQ0VMSVVNX0RBVEFfRElSKSkKICAgICAgICAgICAgaWYgc2VsZi5fbW9kZWwgaXMgTm9uZToKICAgICAgICAgICAgICAgIGZyb20gYXBwLnNlcnZpY2VzIGltcG9ydCB2ZXJpZmllcl9sZWFybgoKICAgICAgICAgICAgICAgIHNlbGYuX21vZGVsID0gdmVyaWZpZXJfbGVhcm4udHJhaW4oKQogICAgICAgICAgICBzZWxmLl9tb2RlbF9sb2FkZWQgPSBUcnVlCiAgICAgICAgcmV0dXJuIHNlbGYuX21vZGVsCgogICAgZGVmIHJlbG9hZF9tb2RlbChzZWxmKSAtPiBOb25lOgogICAgICAgICIiIlBpY2sgdXAgYSBtb2RlbCBMZWFybiBqdXN0IHdyb3RlLiIiIgogICAgICAgIHNlbGYuX21vZGVsX2xvYWRlZCA9IEZhbHNlCgogICAgIyDilIDilIAgTGVhcm4g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgogICAgZGVmIHJvb21zKHNlbGYpIC0+IGxpc3Rbc3RyXToKICAgICAgICAiIiJFdmVyeSByb29tIG9uIHRoZSBodWIgdGhhdCBoYXMgYWRkZWQgdGhlIHZlcmlmaWVyLiIiIgogICAgICAgIGZyb20gYXBwLnNlcnZpY2VzLmZpbGVzeXN0ZW0gaW1wb3J0IGxpc3Rfcm9vbV9uYW1lcwoKICAgICAgICByZXR1cm4gc29ydGVkKHIgZm9yIHIgaW4gbGlzdF9yb29tX25hbWVzKCkgaWYgdmVyaWZpZXJfaGFuZGxlcyhyKSkKCiAgICBkZWYgc3RhcnRfbGVhcm4oc2VsZikgLT4gYm9vbDoKICAgICAgICAiIiJMYWJlbCB0aGUgcm9vbXMnIHBhc3QgbWVzc2FnZXMgYW5kIGZpdCBhIG1vZGVsIHRvIHRoZW0sIGluIHRoZSBiYWNrZ3JvdW5kLgogICAgICAgIEZhbHNlIHdoZW4gYSBydW4gaXMgYWxyZWFkeSBnb2luZy4iIiIKICAgICAgICBmcm9tIGFwcC5zZXJ2aWNlcyBpbXBvcnQgdmVyaWZpZXJfbGVhcm4KCiAgICAgICAgaWYgc2VsZi5sZWFybmluZy5zdGF0ZSA9PSAicnVubmluZyI6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIHJvb21zID0gc2VsZi5yb29tcygpCiAgICAgICAgc2VsZi5sZWFybmluZyA9IHZlcmlmaWVyX2xlYXJuLkxlYXJuaW5nKAogICAgICAgICAgICBzdGF0ZT0icnVubmluZyIsIHN0YXJ0ZWRfYXQ9ZGF0ZXRpbWUubm93KFVUQykuaXNvZm9ybWF0KCksIHJvb21zPXJvb21zCiAgICAgICAgKQogICAgICAgIHRhc2sgPSBhc3luY2lvLmdldF9ydW5uaW5nX2xvb3AoKS5jcmVhdGVfdGFzayhzZWxmLl9sZWFybihyb29tcykpCiAgICAgICAgc2VsZi5fdGFza3MuYWRkKHRhc2spCiAgICAgICAgdGFzay5hZGRfZG9uZV9jYWxsYmFjayhzZWxmLl90YXNrcy5kaXNjYXJkKQogICAgICAgIHJldHVybiBUcnVlCgogICAgYXN5bmMgZGVmIF9sZWFybihzZWxmLCByb29tczogbGlzdFtzdHJdKSAtPiBOb25lOgogICAgICAgIGZyb20gYXBwLnNlcnZpY2VzIGltcG9ydCB2ZXJpZmllcl9sZWFybgoKICAgICAgICBwcm9ncmVzcyA9IHNlbGYubGVhcm5pbmcKICAgICAgICB0cnk6CiAgICAgICAgICAgIGF3YWl0IHZlcmlmaWVyX2xlYXJuLmxhYmVsKHJvb21zLCBwcm9ncmVzcykKICAgICAgICAgICAgbW9kZWwgPSBhd2FpdCBhc3luY2lvLnRvX3RocmVhZCh2ZXJpZmllcl9sZWFybi50cmFpbikKICAgICAgICAgICAgaWYgbW9kZWwgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBzZWxmLnJlbG9hZF9tb2RlbCgpCiAgICAgICAgICAgIHByb2dyZXNzLnN0YXRlID0gImRvbmUiCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgICAgIGxvZ2dlci5leGNlcHRpb24oInZlcmlmaWVyOiBsZWFybmluZyBmYWlsZWQiKQogICAgICAgICAgICBwcm9ncmVzcy5zdGF0ZSA9ICJmYWlsZWQiCiAgICAgICAgICAgIHByb2dyZXNzLmVycm9yID0gc3RyKGV4YykKICAgICAgICBwcm9ncmVzcy5maW5pc2hlZF9hdCA9IGRhdGV0aW1lLm5vdyhVVEMpLmlzb2Zvcm1hdCgpCgogICAgZGVmIHNldHRpbmdzX3ZpZXcoc2VsZikgLT4gZGljdFtzdHIsIEFueV06CiAgICAgICAgIiIiV2hhdCB0aGUgaHViJ3MgVmVyaWZpZXIgc2V0dGluZ3Mgc2VjdGlvbiBzaG93cy4iIiIKICAgICAgICBmcm9tIGFwcC5zZXJ2aWNlcyBpbXBvcnQgZW1iZWRkaW5nLCB2ZXJpZmllcl9sZWFybgoKICAgICAgICBtb2RlbCA9IHNlbGYubW9kZWwoKQogICAgICAgIHJvb21zID0gc2VsZi5yb29tcygpCiAgICAgICAgdHJhaW5lZF9hdCA9IE5vbmUKICAgICAgICBpZiBtb2RlbCBpcyBub3QgTm9uZSBhbmQgbW9kZWwuc291cmNlID09ICJsZWFybmVkIjoKICAgICAgICAgICAgcGF0aCA9IHZlcmlmaWVyX2NsYWltcy5sZWFybmVkX3BhdGgoCiAgICAgICAgICAgICAgICBQYXRoKHNldHRpbmdzLk1ZQ0VMSVVNX0RBVEFfRElSKSwgbW9kZWwuZW1iZWRkaW5nX21vZGVsCiAgICAgICAgICAgICkKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdHJhaW5lZF9hdCA9IGpzb24ubG9hZHMocGF0aC5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpLmdldCgidHJhaW5lZF9hdCIpCiAgICAgICAgICAgIGV4Y2VwdCAoT1NFcnJvciwgVmFsdWVFcnJvcik6CiAgICAgICAgICAgICAgICB0cmFpbmVkX2F0ID0gTm9uZQogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJlbmFibGVkIjogc2V0dGluZ3MuVkVSSUZJRVJfRU5BQkxFRCwKICAgICAgICAgICAgInJvb21zIjogcm9vbXMsCiAgICAgICAgICAgICJtb2RlbCI6IGVtYmVkZGluZy5tb2RlbF9uYW1lKCksCiAgICAgICAgICAgICJ1c2luZyI6IG1vZGVsLnNvdXJjZSBpZiBtb2RlbCBpcyBub3QgTm9uZSBlbHNlICJub25lIiwKICAgICAgICAgICAgImxlYXJuZWQiOiBtb2RlbC50cmFpbmVkX29uLmdldCgibWVzc2FnZXMiKQogICAgICAgICAgICBpZiBtb2RlbCBpcyBub3QgTm9uZSBhbmQgbW9kZWwuc291cmNlID09ICJsZWFybmVkIgogICAgICAgICAgICBlbHNlIE5vbmUsCiAgICAgICAgICAgICJhbnN3ZXJzX3NpbmNlX2xlYXJuZWQiOiB2ZXJpZmllcl9sZWFybi5hbnN3ZXJzX3NpbmNlKHRyYWluZWRfYXQpLAogICAgICAgICAgICAiZXN0aW1hdGUiOiB2ZXJpZmllcl9sZWFybi5lc3RpbWF0ZShyb29tcyksCiAgICAgICAgICAgICJsZWFybmluZyI6IHNlbGYubGVhcm5pbmcudmlldygpLAogICAgICAgIH0KCiAgICBkZWYgaGFuZGxlX3JlY29yZGVkKHNlbGYsIHJvb206IHN0ciwgcmVjb3JkOiBUcmFuc2NyaXB0UmVjb3JkKSAtPiBOb25lOgogICAgICAgICIiIlRoZSBwZXJzaXN0ZXIncyBob29rLCBmb3IgZXZlcnkgcmVjb3JkZWQgbWVzc2FnZTogY2hlY2sgYWdlbnQgcHJvc2UuIiIiCiAgICAgICAgaWYgbm90IHNldHRpbmdzLlZFUklGSUVSX0VOQUJMRUQ6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIHBheWxvYWQgPSAocmVjb3JkLmNvbnRlbnQuZ2V0KCJsOSIpIG9yIHt9KS5nZXQoInBheWxvYWQiKSBvciB7fQogICAgICAgIGlmIHBheWxvYWQuZ2V0KCJ0eXBlIikgbm90IGluIFBST1NFX1RZUEVTOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiBub3Qgc3RyKHJlY29yZC5jb250ZW50LmdldCgiY29udGVudCIpIG9yICIiKS5zdHJpcCgpOgogICAgICAgICAgICByZXR1cm4KICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIG5vdCB2ZXJpZmllcl9oYW5kbGVzKHJvb20pIG9yIG5vdCBfaXNfYWdlbnQocm9vbSwgcmVjb3JkLnNlbmRlcik6CiAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJ2ZXJpZmllcjogbWVtYmVyc2hpcCBjaGVjayBmYWlsZWQgaW4gJXMiLCByb29tKQogICAgICAgICAgICByZXR1cm4KICAgICAgICB0cnk6CiAgICAgICAgICAgIGxvb3AgPSBhc3luY2lvLmdldF9ydW5uaW5nX2xvb3AoKQogICAgICAgIGV4Y2VwdCBSdW50aW1lRXJyb3I6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIHRhc2sgPSBsb29wLmNyZWF0ZV90YXNrKHNlbGYuX3NlcmlhbChyb29tLCByZWNvcmQpKQogICAgICAgIHNlbGYuX3Rhc2tzLmFkZCh0YXNrKQogICAgICAgIHRhc2suYWRkX2RvbmVfY2FsbGJhY2soc2VsZi5fdGFza3MuZGlzY2FyZCkKCiAgICBhc3luYyBkZWYgX3NlcmlhbChzZWxmLCByb29tOiBzdHIsIHJlY29yZDogVHJhbnNjcmlwdFJlY29yZCkgLT4gTm9uZToKICAgICAgICBsb2NrID0gc2VsZi5fbG9ja3Muc2V0ZGVmYXVsdChyb29tLCBhc3luY2lvLkxvY2soKSkKICAgICAgICBhc3luYyB3aXRoIGxvY2s6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGF3YWl0IHNlbGYuY2hlY2tfbWVzc2FnZShyb29tLCByZWNvcmQpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJ2ZXJpZmllcjogY2hlY2sgZmFpbGVkIGZvciAlcyBpbiAlcyIsIHJlY29yZC5tZXNzYWdlX2lkLCByb29tKQoKICAgIGFzeW5jIGRlZiBjaGVja19tZXNzYWdlKHNlbGYsIHJvb206IHN0ciwgcmVjb3JkOiBUcmFuc2NyaXB0UmVjb3JkKSAtPiBsaXN0W2RpY3Rbc3RyLCBBbnldXToKICAgICAgICAiIiJUaGUgdGhyZWUgc3RlcHMgZm9yIG9uZSBtZXNzYWdlLiBSZXR1cm5zIHRoZSBmbGFncyBpdCByYWlzZWQuIiIiCiAgICAgICAgbW9kZWwgPSBhd2FpdCBhc3luY2lvLnRvX3RocmVhZChzZWxmLm1vZGVsKQogICAgICAgIGlmIG1vZGVsIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBbXQogICAgICAgIHRleHQgPSBzdHIocmVjb3JkLmNvbnRlbnQuZ2V0KCJjb250ZW50Iikgb3IgIiIpCiAgICAgICAgY2xhaW1zID0gYXdhaXQgYXN5bmNpby50b190aHJlYWQodmVyaWZpZXJfY2xhaW1zLnNwb3QsIG1vZGVsLCB0ZXh0KQogICAgICAgIGlmIG5vdCBjbGFpbXM6CiAgICAgICAgICAgIHJldHVybiBbXQogICAgICAgIGF0ID0gcGFyc2VfcmVjb3JkZWRfYXQocmVjb3JkLnJlY29yZGVkX2F0KSBvciBkYXRldGltZS5ub3coVVRDKQogICAgICAgIHJlY29yZHMgPSBhd2FpdCBhc3luY2lvLnRvX3RocmVhZChsb2FkX3RyYW5zY3JpcHQsIHJvb20pCiAgICAgICAgdGhyZWFkID0gdmVyaWZpZXJfcmVjb3Jkcy5lcGlzb2RlX29mKHJlY29yZCkKICAgICAgICBmaW5kaW5nczogbGlzdFt2ZXJpZmllcl9yZWNvcmRzLkZpbmRpbmddID0gW10KICAgICAgICBmb3IgY2xhaW0gaW4gY2xhaW1zOgogICAgICAgICAgICBmaW5kaW5ncyArPSB2ZXJpZmllcl9yZWNvcmRzLmNoZWNrKAogICAgICAgICAgICAgICAgY2xhaW0uc2VudGVuY2UsCiAgICAgICAgICAgICAgICBjbGFpbS5raW5kcywKICAgICAgICAgICAgICAgIHNwZWFrZXI9cmVjb3JkLnNlbmRlciwKICAgICAgICAgICAgICAgIGF0PWF0LAogICAgICAgICAgICAgICAgdGhyZWFkPXRocmVhZCwKICAgICAgICAgICAgICAgIHJlY29yZHM9cmVjb3JkcywKICAgICAgICAgICAgKQogICAgICAgIHJhaXNlZCA9IFtdCiAgICAgICAgbWVzc2FnZV9pZCA9IHN0cihyZWFkX2lkKHJlY29yZCkpCiAgICAgICAgc2VlbiA9IHsoZlsibWVzc2FnZV9pZCJdLCBmWyJyZWYiXSwgZlsiY2xhaW0iXSkgZm9yIGYgaW4gbG9hZF9mbGFncyhyb29tKX0KICAgICAgICBmb3IgZmluZGluZyBpbiBmaW5kaW5nczoKICAgICAgICAgICAgaWYgKG1lc3NhZ2VfaWQsIGZpbmRpbmcucmVmLCBmaW5kaW5nLmNsYWltKSBpbiBzZWVuOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgcXVvdGVzID0gbGlzdChmaW5kaW5nLnF1b3RlcykKICAgICAgICAgICAgd2h5ID0gIiIKICAgICAgICAgICAgaWYgc2V0dGluZ3MuVkVSSUZJRVJfQ09ORklSTToKICAgICAgICAgICAgICAgIHByb21wdCA9IF9DT05GSVJNX1BST01QVC5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgc2VudGVuY2U9ZmluZGluZy5zZW50ZW5jZSwKICAgICAgICAgICAgICAgICAgICBsaW5lPWZpbmRpbmcubGluZSwKICAgICAgICAgICAgICAgICAgICBjaGVja2VkPSI7ICIuam9pbihmIntjWyd3aGF0J119OiB7Y1snZm91bmQnXX0iIGZvciBjIGluIGZpbmRpbmcuY2hlY2tlZCksCiAgICAgICAgICAgICAgICAgICAgY29udGV4dD1fY29udGV4dChyZWNvcmRzLCByZWNvcmQpLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIHZlcmRpY3QgPSBfdmVyZGljdChhd2FpdCBhc3luY2lvLnRvX3RocmVhZChfYXNrX21vZGVsLCBwcm9tcHQsIHJvb20pKQogICAgICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJ2ZXJpZmllcjogdGhlIG1vZGVsIHN0ZXAgZmFpbGVkIGluICVzIiwgcm9vbSkKICAgICAgICAgICAgICAgICAgICB2ZXJkaWN0ID0gTm9uZQogICAgICAgICAgICAgICAgaWYgdmVyZGljdCBpcyBOb25lIG9yIG5vdCB2ZXJkaWN0LmdldCgic2hvdyIpOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBxdW90ZSA9IHN0cih2ZXJkaWN0LmdldCgicXVvdGUiKSBvciAiIikuc3RyaXAoKQogICAgICAgICAgICAgICAgaWYgcXVvdGUgYW5kIHF1b3RlIGluIHRleHQ6CiAgICAgICAgICAgICAgICAgICAgcXVvdGVzID0gW3F1b3RlXQogICAgICAgICAgICAgICAgd2h5ID0gc3RyKHZlcmRpY3QuZ2V0KCJ3aHkiKSBvciAiIikKICAgICAgICAgICAgcmFpc2VkLmFwcGVuZChhd2FpdCBzZWxmLl9yYWlzZShyb29tLCByZWNvcmQsIGZpbmRpbmcsIHF1b3Rlcywgd2h5KSkKICAgICAgICAgICAgc2Vlbi5hZGQoKG1lc3NhZ2VfaWQsIGZpbmRpbmcucmVmLCBmaW5kaW5nLmNsYWltKSkKICAgICAgICByZXR1cm4gcmFpc2VkCgogICAgYXN5bmMgZGVmIF9yYWlzZSgKICAgICAgICBzZWxmLAogICAgICAgIHJvb206IHN0ciwKICAgICAgICByZWNvcmQ6IFRyYW5zY3JpcHRSZWNvcmQsCiAgICAgICAgZmluZGluZzogdmVyaWZpZXJfcmVjb3Jkcy5GaW5kaW5nLAogICAgICAgIHF1b3RlczogbGlzdFtzdHJdLAogICAgICAgIHdoeTogc3RyLAogICAgKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICAgICB0aHJlYWQgPSB2ZXJpZmllcl9yZWNvcmRzLmVwaXNvZGVfb2YocmVjb3JkKQogICAgICAgIGZsYWcgPSB7CiAgICAgICAgICAgICJmbGFnX2lkIjogdXVpZC51dWlkNCgpLmhleFs6MTJdLAogICAgICAgICAgICAjIFRoZSBoaXN0b3J5IHJlYWQncyBpZCwgc28gdGhlIGxpbmUgZmluZHMgaXRzIG1lc3NhZ2UgaW4gdGhlIGFwcCBhbmQgQ0xJLAogICAgICAgICAgICAjIGFuZCB0aGUgZW52ZWxvcGUncywgd2hpY2ggaXMgdGhlIGlkIGEgbWVzc2FnZSB0aGF0IGFycml2ZWQgbGl2ZSBjYXJyaWVzLgogICAgICAgICAgICAibWVzc2FnZV9pZCI6IHN0cihyZWFkX2lkKHJlY29yZCkpLAogICAgICAgICAgICAiZW52ZWxvcGVfaWQiOiByZWNvcmQubWVzc2FnZV9pZCwKICAgICAgICAgICAgImtleSI6ICh0aHJlYWQgb3IgIiIpLnJzcGxpdCgiOiIsIDEpWy0xXSBvciAibGl2ZSIsCiAgICAgICAgICAgICJhYm91dCI6IHJlY29yZC5zZW5kZXIsCiAgICAgICAgICAgICJieSI6IHZlcmlmaWVyX2hhbmRsZXMocm9vbSlbMF0gaWYgdmVyaWZpZXJfaGFuZGxlcyhyb29tKSBlbHNlIEtJTkQsCiAgICAgICAgICAgICJmYWlsdXJlIjogZmluZGluZy5mYWlsdXJlLAogICAgICAgICAgICAiY2xhaW0iOiBmaW5kaW5nLmNsYWltLAogICAgICAgICAgICAicmVmIjogZmluZGluZy5yZWYsCiAgICAgICAgICAgICJsaW5lIjogZmluZGluZy5saW5lLAogICAgICAgICAgICAic3VyZSI6IGZpbmRpbmcuc3VyZSwKICAgICAgICAgICAgInF1b3RlcyI6IHF1b3RlcywKICAgICAgICAgICAgInNlbnRlbmNlIjogZmluZGluZy5zZW50ZW5jZSwKICAgICAgICAgICAgIndoeSI6IHdoeSwKICAgICAgICAgICAgImNoZWNrZWQiOiBmaW5kaW5nLmNoZWNrZWQsCiAgICAgICAgICAgICJzdGF0ZSI6ICJzaG93biIsCiAgICAgICAgICAgICJmaW5lX2J5IjogTm9uZSwKICAgICAgICAgICAgImF0IjogZGF0ZXRpbWUubm93KFVUQykuaXNvZm9ybWF0KCksCiAgICAgICAgfQogICAgICAgIGZsYWdzID0gbG9hZF9mbGFncyhyb29tKQogICAgICAgIGZsYWdzLmFwcGVuZChmbGFnKQogICAgICAgIF9zYXZlX2ZsYWdzKHJvb20sIGZsYWdzKQogICAgICAgIGF3YWl0IHNlbGYuX25vdGljZShyb29tLCBmbGFnKQogICAgICAgIHJldHVybiBmbGFnCgogICAgYXN5bmMgZGVmIF9ub3RpY2Uoc2VsZiwgcm9vbTogc3RyLCBmbGFnOiBkaWN0W3N0ciwgQW55XSkgLT4gTm9uZToKICAgICAgICBhd2FpdCBzZWxmLl9tYW5hZ2VyLnJhaXNlX25vdGljZSgKICAgICAgICAgICAgcm9vbSwKICAgICAgICAgICAgc3Via2luZD0iY2hlY2siLAogICAgICAgICAgICBrZXk9ZmxhZ1sia2V5Il0sCiAgICAgICAgICAgIGJ5PWZsYWdbImJ5Il0sCiAgICAgICAgICAgIG1lc3NhZ2VfaWQ9ZmxhZ1sibWVzc2FnZV9pZCJdLAogICAgICAgICAgICBlbnZlbG9wZV9pZD1mbGFnLmdldCgiZW52ZWxvcGVfaWQiLCAiIiksCiAgICAgICAgICAgIGZsYWdfaWQ9ZmxhZ1siZmxhZ19pZCJdLAogICAgICAgICAgICBhYm91dD1mbGFnWyJhYm91dCJdLAogICAgICAgICAgICBmYWlsdXJlPWZsYWcuZ2V0KCJmYWlsdXJlIiwgIiIpLAogICAgICAgICAgICBsaW5lPWZsYWdbImxpbmUiXSwKICAgICAgICAgICAgc3VyZT0idHJ1ZSIgaWYgZmxhZ1sic3VyZSJdIGVsc2UgImZhbHNlIiwKICAgICAgICAgICAgcXVvdGVzPVFVT1RFX1NFUC5qb2luKGZsYWdbInF1b3RlcyJdKSwKICAgICAgICAgICAgcmVmPWZsYWdbInJlZiJdLAogICAgICAgICAgICBzdGF0ZT1mbGFnWyJzdGF0ZSJdLAogICAgICAgICAgICBmaW5lX2J5PWZsYWcuZ2V0KCJmaW5lX2J5IiksCiAgICAgICAgKQoKICAgIGFzeW5jIGRlZiBtYXJrX2ZpbmUoc2VsZiwgcm9vbTogc3RyLCBmbGFnX2lkOiBzdHIsIGJ5OiBzdHIpIC0+IGRpY3Rbc3RyLCBBbnldIHwgTm9uZToKICAgICAgICAiIiJTb21lb25lIHNheXMgYSBmbGFnIGlzIGZpbmU6IGhpZGUgaXQgZm9yIGV2ZXJ5b25lIGFuZCBrZWVwIHRoZSBhbnN3ZXIuIiIiCiAgICAgICAgbG9jayA9IHNlbGYuX2xvY2tzLnNldGRlZmF1bHQocm9vbSwgYXN5bmNpby5Mb2NrKCkpCiAgICAgICAgYXN5bmMgd2l0aCBsb2NrOgogICAgICAgICAgICBmbGFncyA9IGxvYWRfZmxhZ3Mocm9vbSkKICAgICAgICAgICAgZmxhZyA9IG5leHQoKGYgZm9yIGYgaW4gZmxhZ3MgaWYgZlsiZmxhZ19pZCJdID09IGZsYWdfaWQpLCBOb25lKQogICAgICAgICAgICBpZiBmbGFnIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgICAgICBpZiBmbGFnWyJzdGF0ZSJdICE9ICJmaW5lIjoKICAgICAgICAgICAgICAgIGZsYWdbInN0YXRlIl0gPSAiZmluZSIKICAgICAgICAgICAgICAgIGZsYWdbImZpbmVfYnkiXSA9IGJ5CiAgICAgICAgICAgICAgICBmbGFnWyJmaW5lX2F0Il0gPSBkYXRldGltZS5ub3coVVRDKS5pc29mb3JtYXQoKQogICAgICAgICAgICAgICAgX3NhdmVfZmxhZ3Mocm9vbSwgZmxhZ3MpCiAgICAgICAgICAgICAgICBmcm9tIGFwcC5zZXJ2aWNlcyBpbXBvcnQgdmVyaWZpZXJfbGVhcm4KCiAgICAgICAgICAgICAgICBhd2FpdCBhc3luY2lvLnRvX3RocmVhZCh2ZXJpZmllcl9sZWFybi5yZWNvcmRfYW5zd2VyLCByb29tLCBmbGFnKQogICAgICAgICAgICAgICAgYXdhaXQgc2VsZi5fbm90aWNlKHJvb20sIGZsYWcpCiAgICAgICAgICAgIHJldHVybiBmbGFnCgoKZGVmIGNoZWNrX2xpbmVzKHJvb206IHN0ciwgaGFuZGxlOiBzdHIsIHNpbmNlOiBsaXN0W0FueV0pIC0+IGxpc3Rbc3RyXToKICAgICIiIlRoZSB3YWtlIGRpZ2VzdCdzIGBgQ2hlY2s6YGAgbGluZXM6IGZsYWdzIGFib3V0IGBgaGFuZGxlYGAgcmFpc2VkIHNpbmNlIGl0cwogICAgbGFzdCB0dXJuIGFuZCBzdGlsbCBzaG93bi4gYGBzaW5jZWBgIGlzIHRoZSByZWNvcmRzIHRoZSBkaWdlc3QgaXMgc3VtbWFyaXNpbmcuIiIiCiAgICByYWlzZWQgPSBzZXQoKQogICAgZm9yIHJlY29yZCBpbiBzaW5jZToKICAgICAgICBwYXlsb2FkID0gKHJlY29yZC5jb250ZW50LmdldCgibDkiKSBvciB7fSkuZ2V0KCJwYXlsb2FkIikgb3Ige30KICAgICAgICBkYXRhID0gcGF5bG9hZC5nZXQoImRhdGEiKSBvciB7fQogICAgICAgIGlmICgKICAgICAgICAgICAgcGF5bG9hZC5nZXQoInR5cGUiKSA9PSAibm90aWNlIgogICAgICAgICAgICBhbmQgZGF0YS5nZXQoInN1YmtpbmQiKSA9PSAiY2hlY2siCiAgICAgICAgICAgIGFuZCBkYXRhLmdldCgiYWJvdXQiKSA9PSBoYW5kbGUKICAgICAgICApOgogICAgICAgICAgICByYWlzZWQuYWRkKGRhdGEuZ2V0KCJmbGFnX2lkIikpCiAgICBpZiBub3QgcmFpc2VkOgogICAgICAgIHJldHVybiBbXQogICAgbGluZXMgPSBbXQogICAgZm9yIGZsYWcgaW4gbG9hZF9mbGFncyhyb29tKToKICAgICAgICBpZiBmbGFnWyJmbGFnX2lkIl0gaW4gcmFpc2VkIGFuZCBmbGFnWyJzdGF0ZSJdID09ICJzaG93biI6CiAgICAgICAgICAgICMgIiMxMjY2IHdhcyBhbHJlYWR5IG1lcmdlZCwgYXQgMjA6MDguIiByZWFkcyBvbiBpdHMgb3duOyAiQ2FuJ3QgZmluZCBhbgogICAgICAgICAgICAjIGFwcHJvdmFsIGZvciAjMTI3OC4iIG5lZWRzIGEgc3ViamVjdCBvbmNlIGl0IGZvbGxvd3MgImJ1dCIuCiAgICAgICAgICAgIGxpbmUgPSAoCiAgICAgICAgICAgICAgICBmbGFnWyJsaW5lIl0KICAgICAgICAgICAgICAgIGlmIGZsYWdbInN1cmUiXQogICAgICAgICAgICAgICAgZWxzZSBmInRoZSB2ZXJpZmllciB7ZmxhZ1snbGluZSddWzBdLmxvd2VyKCl9e2ZsYWdbJ2xpbmUnXVsxOl19IgogICAgICAgICAgICApCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgKICAgICAgICAgICAgICAgIGYnWW91IHNhaWQgIntmbGFnWyJzZW50ZW5jZSJdfSIsIGJ1dCB7bGluZX0gRml4IGl0IGluIHRoZSByb29tLCBvciBzYXkgd2hlcmUgaXQgY2FtZSBmcm9tLicKICAgICAgICAgICAgKQogICAgcmV0dXJuIGxpbmVzCg==
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 Mycelium Contributors
+
+"""The verifier: checks what agents say about approvals and merges against the
+room's records, and adds a quiet line under a message when a claim doesn't hold.
+
+It never blocks a write and never wakes anyone. In a room that added it (an
+engine of kind ``verifier``), every message an agent posts goes through three
+steps, each running only on what the one before passed:
+
+1. **Spot claims, locally** (:mod:`app.services.verifier_claims`): a small
+   classifier over the hub's search embeddings marks the sentences that claim an
+   approval, a completion, a decision or a pull request's state.
+2. **Check them against the room's records** (:mod:`app.services.verifier_records`):
+   was #N approved by someone else in this room; had #N already merged.
+3. **Ask the hub's model** (through Pi) about what's left, with the thread in
+   front of it, to dismiss a flag the records got wrong (an approval given in
+   words the records miss, a quote of someone else) and to keep the rest.
+
+A kept flag is stored beside the room (:data:`FLAGS_FILE`) and raised as a
+``check`` notice, which wakes nobody: the app draws it as a line under the
+message, and the agent reads it as the ``Check:`` line of its next wake.
+Someone answering *It's fine* raises the same notice with ``state: fine``.
+"""
+
+from __future__ import annotations
+
+import asyncio
+import json
+import logging
+import re
+import tempfile
+import uuid
+from datetime import UTC, datetime
+from pathlib import Path
+from typing import Any
+
+from app.config import settings
+from app.services import verifier_claims, verifier_records
+from app.services.persister import (
+    TranscriptRecord,
+    load_transcript,
+    parse_recorded_at,
+    read_id,
+)
+
+logger = logging.getLogger(__name__)
+
+KIND = "verifier"
+FLAGS_FILE = ".verifier-flags.json"
+QUOTE_SEP = "\u001f"
+THREAD_CONTEXT = 12
+CONTEXT_CHARS = 600
+PROSE_TYPES = frozenset({"message", "reply"})
+
+
+# ── Who it reads ─────────────────────────────────────────────────────────────
+
+
+def verifier_handles(room: str) -> list[str]:
+    """The verifier engines this room has added (usually one, or none)."""
+    from app.services.room_channels import _registered_agent_handles, _registered_kind
+
+    return [h for h in _registered_agent_handles(room) if _registered_kind(room, h) == KIND]
+
+
+def _is_agent(room: str, handle: str) -> bool:
+    """A registered agent that isn't an engine: the members whose claims it checks."""
+    from app.services.room_channels import _is_engine, _is_own_registered_agent
+
+    return _is_own_registered_agent(room, handle) and not _is_engine(room, handle)
+
+
+# ── The flag store ───────────────────────────────────────────────────────────
+
+
+def _flags_path(room: str) -> Path:
+    from app.services.filesystem import get_room_dir
+
+    return get_room_dir(room) / FLAGS_FILE
+
+
+def load_flags(room: str) -> list[dict[str, Any]]:
+    try:
+        raw = json.loads(_flags_path(room).read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return []
+    return raw if isinstance(raw, list) else []
+
+
+def _save_flags(room: str, flags: list[dict[str, Any]]) -> None:
+    path = _flags_path(room)
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps(flags, indent=2), encoding="utf-8")
+    tmp.replace(path)
+
+
+def flags_since(room: str, since: datetime | None = None) -> list[dict[str, Any]]:
+    """The room's flags, oldest first, from ``since`` on."""
+    flags = load_flags(room)
+    if since is None:
+        return flags
+    return [f for f in flags if (parse_recorded_at(f["at"]) or since) >= since]
+
+
+# ── Step 3: the hub's model reads the thread ────────────────────────────────
+
+_CONFIRM_PROMPT = """You check one thing an AI agent said in a team chat against the team's records.
+
+The records step thinks this claim doesn't hold up:
+- Claim: {sentence}
+- Records: {line}
+- What was checked: {checked}
+
+The thread up to and including the message (oldest first):
+{context}
+
+Decide whether to show a short note under the message. Show it when the claim really isn't backed by anything in this thread or the records. Don't show it when the thread shows the claim is fine: for example the approval was given in words the records missed, the agent is quoting or asking someone else, it's a plan rather than a claim ("once it's approved I'll merge"), or it says plainly what isn't confirmed.
+
+Answer with one JSON object and nothing else:
+{{"show": true or false, "quote": "<the exact words in the message that make the claim, copied verbatim>", "why": "<one short sentence>"}}"""
+
+
+def _context(records: list[TranscriptRecord], record: TranscriptRecord) -> str:
+    episode = verifier_records.episode_of(record)
+    lines = []
+    for r in records:
+        if verifier_records.episode_of(r) != episode:
+            continue
+        payload = (r.content.get("l9") or {}).get("payload") or {}
+        if payload.get("type") not in PROSE_TYPES:
+            continue
+        text = str(r.content.get("content") or "")
+        lines.append(f"@{r.sender} ({r.recorded_at[11:16]}): {text[:CONTEXT_CHARS]}")
+        if r.message_id == record.message_id:
+            break
+    return "\n".join(lines[-THREAD_CONTEXT:])
+
+
+def _ask_model(prompt: str, room: str) -> str:
+    """One blocking Pi turn on a throwaway session. Isolated so tests patch it."""
+    from app.services.pi_session import PiSession
+
+    session_dir = Path(tempfile.gettempdir()) / "mycelium-pi-sessions"
+    session_dir.mkdir(parents=True, exist_ok=True)
+    session = PiSession(
+        session_path=session_dir / f"verifier-{uuid.uuid4().hex}.jsonl",
+        model=settings.LLM_MODEL,
+        api_key=settings.LLM_API_KEY,
+        base_url=settings.LLM_BASE_URL,
+        binary=settings.ALIGNER_PI_BINARY,
+        timeout_s=settings.VERIFIER_PI_TIMEOUT_S,
+        openshell=settings.ALIGNER_PI_OPENSHELL,
+        operation="verifier",
+        room=room,
+    )
+    return session(prompt)
+
+
+def _verdict(answer: str) -> dict[str, Any] | None:
+    match = re.search(r"\{.*\}", answer, re.DOTALL)
+    if not match:
+        return None
+    try:
+        data = json.loads(match.group(0))
+    except ValueError:
+        return None
+    return data if isinstance(data, dict) and "show" in data else None
+
+
+# ── The engine ───────────────────────────────────────────────────────────────
+
+
+class VerifierEngine:
+    """Runs the three steps on agent messages in rooms that added the verifier."""
+
+    def __init__(self, manager: Any) -> None:
+        self._manager = manager
+        self._locks: dict[str, asyncio.Lock] = {}
+        self._tasks: set[asyncio.Task[Any]] = set()
+        self._model: verifier_claims.ClaimModel | None = None
+        self._model_loaded = False
+        from app.services.verifier_learn import Learning
+
+        self.learning = Learning()
+
+    def model(self) -> verifier_claims.ClaimModel | None:
+        """The claim spotter for the hub's search model. Blocking: when the search
+        model changed and nothing matches it, it is fitted again from the saved
+        labels (an embedding pass, no model calls), so call it off the loop."""
+        if not self._model_loaded:
+            self._model = verifier_claims.load(Path(settings.MYCELIUM_DATA_DIR))
+            if self._model is None:
+                from app.services import verifier_learn
+
+                self._model = verifier_learn.train()
+            self._model_loaded = True
+        return self._model
+
+    def reload_model(self) -> None:
+        """Pick up a model Learn just wrote."""
+        self._model_loaded = False
+
+    # ── Learn ────────────────────────────────────────────────────────────────
+
+    def rooms(self) -> list[str]:
+        """Every room on the hub that has added the verifier."""
+        from app.services.filesystem import list_room_names
+
+        return sorted(r for r in list_room_names() if verifier_handles(r))
+
+    def start_learn(self) -> bool:
+        """Label the rooms' past messages and fit a model to them, in the background.
+        False when a run is already going."""
+        from app.services import verifier_learn
+
+        if self.learning.state == "running":
+            return False
+        rooms = self.rooms()
+        self.learning = verifier_learn.Learning(
+            state="running", started_at=datetime.now(UTC).isoformat(), rooms=rooms
+        )
+        task = asyncio.get_running_loop().create_task(self._learn(rooms))
+        self._tasks.add(task)
+        task.add_done_callback(self._tasks.discard)
+        return True
+
+    async def _learn(self, rooms: list[str]) -> None:
+        from app.services import verifier_learn
+
+        progress = self.learning
+        try:
+            await verifier_learn.label(rooms, progress)
+            model = await asyncio.to_thread(verifier_learn.train)
+            if model is not None:
+                self.reload_model()
+            progress.state = "done"
+        except Exception as exc:
+            logger.exception("verifier: learning failed")
+            progress.state = "failed"
+            progress.error = str(exc)
+        progress.finished_at = datetime.now(UTC).isoformat()
+
+    def settings_view(self) -> dict[str, Any]:
+        """What the hub's Verifier settings section shows."""
+        from app.services import embedding, verifier_learn
+
+        model = self.model()
+        rooms = self.rooms()
+        trained_at = None
+        if model is not None and model.source == "learned":
+            path = verifier_claims.learned_path(
+                Path(settings.MYCELIUM_DATA_DIR), model.embedding_model
+            )
+            try:
+                trained_at = json.loads(path.read_text(encoding="utf-8")).get("trained_at")
+            except (OSError, ValueError):
+                trained_at = None
+        return {
+            "enabled": settings.VERIFIER_ENABLED,
+            "rooms": rooms,
+            "model": embedding.model_name(),
+            "using": model.source if model is not None else "none",
+            "learned": model.trained_on.get("messages")
+            if model is not None and model.source == "learned"
+            else None,
+            "answers_since_learned": verifier_learn.answers_since(trained_at),
+            "estimate": verifier_learn.estimate(rooms),
+            "learning": self.learning.view(),
+        }
+
+    def handle_recorded(self, room: str, record: TranscriptRecord) -> None:
+        """The persister's hook, for every recorded message: check agent prose."""
+        if not settings.VERIFIER_ENABLED:
+            return
+        payload = (record.content.get("l9") or {}).get("payload") or {}
+        if payload.get("type") not in PROSE_TYPES:
+            return
+        if not str(record.content.get("content") or "").strip():
+            return
+        try:
+            if not verifier_handles(room) or not _is_agent(room, record.sender):
+                return
+        except Exception:
+            logger.exception("verifier: membership check failed in %s", room)
+            return
+        try:
+            loop = asyncio.get_running_loop()
+        except RuntimeError:
+            return
+        task = loop.create_task(self._serial(room, record))
+        self._tasks.add(task)
+        task.add_done_callback(self._tasks.discard)
+
+    async def _serial(self, room: str, record: TranscriptRecord) -> None:
+        lock = self._locks.setdefault(room, asyncio.Lock())
+        async with lock:
+            try:
+                await self.check_message(room, record)
+            except Exception:
+                logger.exception("verifier: check failed for %s in %s", record.message_id, room)
+
+    async def check_message(self, room: str, record: TranscriptRecord) -> list[dict[str, Any]]:
+        """The three steps for one message. Returns the flags it raised."""
+        model = await asyncio.to_thread(self.model)
+        if model is None:
+            return []
+        text = str(record.content.get("content") or "")
+        claims = await asyncio.to_thread(verifier_claims.spot, model, text)
+        if not claims:
+            return []
+        at = parse_recorded_at(record.recorded_at) or datetime.now(UTC)
+        records = await asyncio.to_thread(load_transcript, room)
+        thread = verifier_records.episode_of(record)
+        findings: list[verifier_records.Finding] = []
+        for claim in claims:
+            findings += verifier_records.check(
+                claim.sentence,
+                claim.kinds,
+                speaker=record.sender,
+                at=at,
+                thread=thread,
+                records=records,
+            )
+        raised = []
+        message_id = str(read_id(record))
+        seen = {(f["message_id"], f["ref"], f["claim"]) for f in load_flags(room)}
+        for finding in findings:
+            if (message_id, finding.ref, finding.claim) in seen:
+                continue
+            quotes = list(finding.quotes)
+            why = ""
+            if settings.VERIFIER_CONFIRM:
+                prompt = _CONFIRM_PROMPT.format(
+                    sentence=finding.sentence,
+                    line=finding.line,
+                    checked="; ".join(f"{c['what']}: {c['found']}" for c in finding.checked),
+                    context=_context(records, record),
+                )
+                try:
+                    verdict = _verdict(await asyncio.to_thread(_ask_model, prompt, room))
+                except Exception:
+                    logger.exception("verifier: the model step failed in %s", room)
+                    verdict = None
+                if verdict is None or not verdict.get("show"):
+                    continue
+                quote = str(verdict.get("quote") or "").strip()
+                if quote and quote in text:
+                    quotes = [quote]
+                why = str(verdict.get("why") or "")
+            raised.append(await self._raise(room, record, finding, quotes, why))
+            seen.add((message_id, finding.ref, finding.claim))
+        return raised
+
+    async def _raise(
+        self,
+        room: str,
+        record: TranscriptRecord,
+        finding: verifier_records.Finding,
+        quotes: list[str],
+        why: str,
+    ) -> dict[str, Any]:
+        thread = verifier_records.episode_of(record)
+        flag = {
+            "flag_id": uuid.uuid4().hex[:12],
+            # The history read's id, so the line finds its message in the app and CLI,
+            # and the envelope's, which is the id a message that arrived live carries.
+            "message_id": str(read_id(record)),
+            "envelope_id": record.message_id,
+            "key": (thread or "").rsplit(":", 1)[-1] or "live",
+            "about": record.sender,
+            "by": verifier_handles(room)[0] if verifier_handles(room) else KIND,
+            "failure": finding.failure,
+            "claim": finding.claim,
+            "ref": finding.ref,
+            "line": finding.line,
+            "sure": finding.sure,
+            "quotes": quotes,
+            "sentence": finding.sentence,
+            "why": why,
+            "checked": finding.checked,
+            "state": "shown",
+            "fine_by": None,
+            "at": datetime.now(UTC).isoformat(),
+        }
+        flags = load_flags(room)
+        flags.append(flag)
+        _save_flags(room, flags)
+        await self._notice(room, flag)
+        return flag
+
+    async def _notice(self, room: str, flag: dict[str, Any]) -> None:
+        await self._manager.raise_notice(
+            room,
+            subkind="check",
+            key=flag["key"],
+            by=flag["by"],
+            message_id=flag["message_id"],
+            envelope_id=flag.get("envelope_id", ""),
+            flag_id=flag["flag_id"],
+            about=flag["about"],
+            failure=flag.get("failure", ""),
+            line=flag["line"],
+            sure="true" if flag["sure"] else "false",
+            quotes=QUOTE_SEP.join(flag["quotes"]),
+            ref=flag["ref"],
+            state=flag["state"],
+            fine_by=flag.get("fine_by"),
+        )
+
+    async def mark_fine(self, room: str, flag_id: str, by: str) -> dict[str, Any] | None:
+        """Someone says a flag is fine: hide it for everyone and keep the answer."""
+        lock = self._locks.setdefault(room, asyncio.Lock())
+        async with lock:
+            flags = load_flags(room)
+            flag = next((f for f in flags if f["flag_id"] == flag_id), None)
+            if flag is None:
+                return None
+            if flag["state"] != "fine":
+                flag["state"] = "fine"
+                flag["fine_by"] = by
+                flag["fine_at"] = datetime.now(UTC).isoformat()
+                _save_flags(room, flags)
+                from app.services import verifier_learn
+
+                await asyncio.to_thread(verifier_learn.record_answer, room, flag)
+                await self._notice(room, flag)
+            return flag
+
+
+def check_lines(room: str, handle: str, since: list[Any]) -> list[str]:
+    """The wake digest's ``Check:`` lines: flags about ``handle`` raised since its
+    last turn and still shown. ``since`` is the records the digest is summarising."""
+    raised = set()
+    for record in since:
+        payload = (record.content.get("l9") or {}).get("payload") or {}
+        data = payload.get("data") or {}
+        if (
+            payload.get("type") == "notice"
+            and data.get("subkind") == "check"
+            and data.get("about") == handle
+        ):
+            raised.add(data.get("flag_id"))
+    if not raised:
+        return []
+    lines = []
+    for flag in load_flags(room):
+        if flag["flag_id"] in raised and flag["state"] == "shown":
+            # "#1266 was already merged, at 20:08." reads on its own; "Can't find an
+            # approval for #1278." needs a subject once it follows "but".
+            line = (
+                flag["line"]
+                if flag["sure"]
+                else f"the verifier {flag['line'][0].lower()}{flag['line'][1:]}"
+            )
+            lines.append(
+                f'You said "{flag["sentence"]}", but {line} Fix it in the room, or say where it came from.'
+            )
+    return lines

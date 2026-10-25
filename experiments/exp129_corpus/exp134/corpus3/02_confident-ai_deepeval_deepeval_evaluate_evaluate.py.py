@@ -1,1 +1,421 @@
-aW1wb3J0IHdhcm5pbmdzCmZyb20gdHlwaW5nIGltcG9ydCAoCiAgICBUWVBFX0NIRUNLSU5HLAogICAgTGlzdCwKICAgIE9wdGlvbmFsLAogICAgVW5pb24sCiAgICBEaWN0LAopCmZyb20gcmljaC5jb25zb2xlIGltcG9ydCBDb25zb2xlCmltcG9ydCB0aW1lCgpmcm9tIGRlZXBldmFsLmNvbmZpZGVudC5hcGkgaW1wb3J0IEFwaSwgRW5kcG9pbnRzLCBIdHRwTWV0aG9kcwpmcm9tIGRlZXBldmFsLmV2YWx1YXRlLmFwaSBpbXBvcnQgQVBJRXZhbHVhdGUKZnJvbSBkZWVwZXZhbC5ldmFsdWF0ZS5jb25maWdzIGltcG9ydCAoCiAgICBBc3luY0NvbmZpZywKICAgIERpc3BsYXlDb25maWcsCiAgICBDYWNoZUNvbmZpZywKICAgIEVycm9yQ29uZmlnLAopCmZyb20gZGVlcGV2YWwuZXZhbHVhdGUudXRpbHMgaW1wb3J0ICgKICAgIHZhbGlkYXRlX2Fzc2VydF90ZXN0X2lucHV0cywKICAgIHZhbGlkYXRlX2V2YWx1YXRlX2lucHV0cywKKQpmcm9tIGRlZXBldmFsLmV2YWx1YXRlLmNvbnNvbGVfcmVwb3J0IGltcG9ydCBFdmFsdWF0aW9uQ29uc29sZVJlcG9ydApmcm9tIGRlZXBldmFsLmRhdGFzZXQgaW1wb3J0IEdvbGRlbgpmcm9tIGRlZXBldmFsLnByb21wdCBpbXBvcnQgUHJvbXB0CmZyb20gZGVlcGV2YWwudGVzdF9jYXNlLnV0aWxzIGltcG9ydCAoCiAgICBjaGVja192YWxpZF90ZXN0X2Nhc2VzX3R5cGUsCiAgICBwcm9jZXNzX21jcF9zZXJ2ZXJzLAopCmZyb20gZGVlcGV2YWwudGVzdF9ydW4uaHlwZXJwYXJhbWV0ZXJzIGltcG9ydCAoCiAgICBwcm9jZXNzX2h5cGVycGFyYW1ldGVycywKICAgIHByb2Nlc3NfcHJvbXB0cywKKQpmcm9tIGRlZXBldmFsLnRlc3RfcnVuLnRlc3RfcnVuIGltcG9ydCBURU1QX0ZJTEVfUEFUSApmcm9tIGRlZXBldmFsLnV0aWxzIGltcG9ydCAoCiAgICBnZXRfb3JfY3JlYXRlX2V2ZW50X2xvb3AsCiAgICBvcGVuX2Jyb3dzZXIsCiAgICBzZXRfdGVzdF9ydW5fb2ZmaWNpYWwsCiAgICBzaG91bGRfaWdub3JlX2Vycm9ycywKICAgIHNob3VsZF9za2lwX29uX21pc3NpbmdfcGFyYW1zLAogICAgc2hvdWxkX3VzZV9jYWNoZSwKICAgIHNob3VsZF92ZXJib3NlX3ByaW50LAogICAgZ2V0X2lkZW50aWZpZXIsCikKZnJvbSBkZWVwZXZhbC50ZWxlbWV0cnkgaW1wb3J0IEVudHJ5cG9pbnQsIGNhcHR1cmVfZXZhbHVhdGlvbl9ydW4KZnJvbSBkZWVwZXZhbC5tZXRyaWNzIGltcG9ydCAoCiAgICBCYXNlTWV0cmljLAogICAgQmFzZUNvbnZlcnNhdGlvbmFsTWV0cmljLAopCmZyb20gZGVlcGV2YWwubWV0cmljcy51dGlscyBpbXBvcnQgY2hlY2tfYXRfbGVhc3Rfb25lX21ldHJpY19oYXNfdGhyZXNob2xkCmZyb20gZGVlcGV2YWwubWV0cmljcy5pbmRpY2F0b3IgaW1wb3J0ICgKICAgIGZvcm1hdF9tZXRyaWNfZGVzY3JpcHRpb24sCiAgICBmb3JtYXRfY2xhc3NpZmllcl9kZXNjcmlwdGlvbiwKKQpmcm9tIGRlZXBldmFsLmNsYXNzaWZpZXJzLmJhc2VfY2xhc3NpZmllciBpbXBvcnQgQmFzZUNsYXNzaWZpZXIKZnJvbSBkZWVwZXZhbC5jbGFzc2lmaWVycy51dGlscyBpbXBvcnQgdmFsaWRhdGVfY2xhc3NpZmllcnMKZnJvbSBkZWVwZXZhbC50ZXN0X2Nhc2UgaW1wb3J0ICgKICAgIExMTVRlc3RDYXNlLAogICAgQ29udmVyc2F0aW9uYWxUZXN0Q2FzZSwKICAgIE1DUFNlcnZlciwKKQpmcm9tIGRlZXBldmFsLnRlc3RfY2FzZS5tY3AgaW1wb3J0ICgKICAgIG5vcm1hbGl6ZV9tY3Bfc2VydmVycywKICAgIHZhbGlkYXRlX21jcF9zZXJ2ZXJzLAopCmZyb20gZGVlcGV2YWwudGVzdF9ydW4gaW1wb3J0ICgKICAgIGdsb2JhbF90ZXN0X3J1bl9tYW5hZ2VyLAogICAgTWV0cmljRGF0YSwKICAgIENsYXNzaWZpY2F0aW9uLAopCmZyb20gZGVlcGV2YWwudXRpbHMgaW1wb3J0IGdldF9pc19ydW5uaW5nX2RlZXBldmFsCmZyb20gZGVlcGV2YWwuZXZhbHVhdGUudHlwZXMgaW1wb3J0IEV2YWx1YXRpb25SZXN1bHQKZnJvbSBkZWVwZXZhbC5ldmFsdWF0ZS5leGVjdXRlIGltcG9ydCAoCiAgICBhX2V4ZWN1dGVfdGVzdF9jYXNlcywKICAgIF9hc3NlcnRfdGVzdF9mcm9tX2N1cnJlbnRfdHJhY2UsCiAgICBleGVjdXRlX3Rlc3RfY2FzZXMsCikKCmlmIFRZUEVfQ0hFQ0tJTkc6CiAgICBmcm9tIG1jcC5zZXJ2ZXIgaW1wb3J0IE1DUFNlcnZlciBhcyBPZmZpY2lhbE1DUFNlcnZlcgoKCmRlZiBhc3NlcnRfdGVzdCgKICAgIHRlc3RfY2FzZTogT3B0aW9uYWxbVW5pb25bTExNVGVzdENhc2UsIENvbnZlcnNhdGlvbmFsVGVzdENhc2VdXSA9IE5vbmUsCiAgICBtZXRyaWNzOiBPcHRpb25hbFsKICAgICAgICBVbmlvblsKICAgICAgICAgICAgTGlzdFtCYXNlTWV0cmljXSwKICAgICAgICAgICAgTGlzdFtCYXNlQ29udmVyc2F0aW9uYWxNZXRyaWNdLAogICAgICAgIF0KICAgIF0gPSBOb25lLAogICAgZ29sZGVuOiBPcHRpb25hbFtHb2xkZW5dID0gTm9uZSwKICAgIHJ1bl9hc3luYzogYm9vbCA9IFRydWUsCiAgICBjbGFzc2lmaWVyczogT3B0aW9uYWxbTGlzdFtCYXNlQ2xhc3NpZmllcl1dID0gTm9uZSwKKToKICAgIHZhbGlkYXRlX2Fzc2VydF90ZXN0X2lucHV0cygKICAgICAgICBnb2xkZW49Z29sZGVuLAogICAgICAgIHRlc3RfY2FzZT10ZXN0X2Nhc2UsCiAgICAgICAgbWV0cmljcz1tZXRyaWNzLAogICAgICAgIGNsYXNzaWZpZXJzPWNsYXNzaWZpZXJzLAogICAgKQogICAgaWYgY2xhc3NpZmllcnM6CiAgICAgICAgdmFsaWRhdGVfY2xhc3NpZmllcnMoCiAgICAgICAgICAgIFt0ZXN0X2Nhc2VdIGlmIHRlc3RfY2FzZSBpcyBub3QgTm9uZSBlbHNlIE5vbmUsIGNsYXNzaWZpZXJzCiAgICAgICAgKQoKICAgIGFzeW5jX2NvbmZpZyA9IEFzeW5jQ29uZmlnKHRocm90dGxlX3ZhbHVlPTAsIG1heF9jb25jdXJyZW50PTEwMCkKICAgIGRpc3BsYXlfY29uZmlnID0gRGlzcGxheUNvbmZpZygKICAgICAgICB2ZXJib3NlX21vZGU9c2hvdWxkX3ZlcmJvc2VfcHJpbnQoKSwgc2hvd19pbmRpY2F0b3I9VHJ1ZQogICAgKQogICAgZXJyb3JfY29uZmlnID0gRXJyb3JDb25maWcoCiAgICAgICAgaWdub3JlX2Vycm9ycz1zaG91bGRfaWdub3JlX2Vycm9ycygpLAogICAgICAgIHNraXBfb25fbWlzc2luZ19wYXJhbXM9c2hvdWxkX3NraXBfb25fbWlzc2luZ19wYXJhbXMoKSwKICAgICkKICAgIGNhY2hlX2NvbmZpZyA9IENhY2hlQ29uZmlnKAogICAgICAgIHdyaXRlX2NhY2hlPWdldF9pc19ydW5uaW5nX2RlZXBldmFsKCksIHVzZV9jYWNoZT1zaG91bGRfdXNlX2NhY2hlKCkKICAgICkKCiAgICBpZiBnb2xkZW4gYW5kIG5vdCB0ZXN0X2Nhc2U6CiAgICAgICAgIyBUcmFjZS1zY29wZWQgYXNzZXJ0X3Rlc3Q6IHJlYWQgdGhlIGFjdGl2ZSB0cmFjZSBzZXQgYnkgdGhlIHBsdWdpbi4KICAgICAgICB0ZXN0X3Jlc3VsdCA9IF9hc3NlcnRfdGVzdF9mcm9tX2N1cnJlbnRfdHJhY2UoCiAgICAgICAgICAgIGdvbGRlbj1nb2xkZW4sCiAgICAgICAgICAgIG1ldHJpY3M9bWV0cmljcywKICAgICAgICAgICAgZXJyb3JfY29uZmlnPWVycm9yX2NvbmZpZywKICAgICAgICAgICAgZGlzcGxheV9jb25maWc9ZGlzcGxheV9jb25maWcsCiAgICAgICAgKQoKICAgIGVsaWYgdGVzdF9jYXNlIGFuZCAobWV0cmljcyBvciBjbGFzc2lmaWVycyBvciB0ZXN0X2Nhc2UuZXhwZWN0YXRpb25zKToKICAgICAgICBpZiBtZXRyaWNzIGFuZCBub3QgdGVzdF9jYXNlLmV4cGVjdGF0aW9uczoKICAgICAgICAgICAgY2hlY2tfYXRfbGVhc3Rfb25lX21ldHJpY19oYXNfdGhyZXNob2xkKG1ldHJpY3MpCiAgICAgICAgaWYgcnVuX2FzeW5jOgogICAgICAgICAgICBsb29wID0gZ2V0X29yX2NyZWF0ZV9ldmVudF9sb29wKCkKICAgICAgICAgICAgdGVzdF9yZXN1bHQgPSBsb29wLnJ1bl91bnRpbF9jb21wbGV0ZSgKICAgICAgICAgICAgICAgIGFfZXhlY3V0ZV90ZXN0X2Nhc2VzKAogICAgICAgICAgICAgICAgICAgIFt0ZXN0X2Nhc2VdLAogICAgICAgICAgICAgICAgICAgIG1ldHJpY3Mgb3IgW10sCiAgICAgICAgICAgICAgICAgICAgZXJyb3JfY29uZmlnPWVycm9yX2NvbmZpZywKICAgICAgICAgICAgICAgICAgICBkaXNwbGF5X2NvbmZpZz1kaXNwbGF5X2NvbmZpZywKICAgICAgICAgICAgICAgICAgICBhc3luY19jb25maWc9YXN5bmNfY29uZmlnLAogICAgICAgICAgICAgICAgICAgIGNhY2hlX2NvbmZpZz1jYWNoZV9jb25maWcsCiAgICAgICAgICAgICAgICAgICAgaWRlbnRpZmllcj1nZXRfaWRlbnRpZmllcigpLAogICAgICAgICAgICAgICAgICAgIF91c2VfYmFyX2luZGljYXRvcj1UcnVlLAogICAgICAgICAgICAgICAgICAgIF9pc19hc3NlcnRfdGVzdD1UcnVlLAogICAgICAgICAgICAgICAgICAgIGNsYXNzaWZpZXJzPWNsYXNzaWZpZXJzLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApWzBdCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdGVzdF9yZXN1bHQgPSBleGVjdXRlX3Rlc3RfY2FzZXMoCiAgICAgICAgICAgICAgICBbdGVzdF9jYXNlXSwKICAgICAgICAgICAgICAgIG1ldHJpY3Mgb3IgW10sCiAgICAgICAgICAgICAgICBlcnJvcl9jb25maWc9ZXJyb3JfY29uZmlnLAogICAgICAgICAgICAgICAgZGlzcGxheV9jb25maWc9ZGlzcGxheV9jb25maWcsCiAgICAgICAgICAgICAgICBjYWNoZV9jb25maWc9Y2FjaGVfY29uZmlnLAogICAgICAgICAgICAgICAgaWRlbnRpZmllcj1nZXRfaWRlbnRpZmllcigpLAogICAgICAgICAgICAgICAgX3VzZV9iYXJfaW5kaWNhdG9yPUZhbHNlLAogICAgICAgICAgICAgICAgX2lzX2Fzc2VydF90ZXN0PVRydWUsCiAgICAgICAgICAgICAgICBjbGFzc2lmaWVycz1jbGFzc2lmaWVycywKICAgICAgICAgICAgKVswXQoKICAgICMgYHN1Y2Nlc3MgaXMgTm9uZWAgbWVhbnMgbm90aGluZyBwcm9kdWNlZCBhIHZlcmRpY3QgKGUuZy4gY2xhc3NpZmllcnMgd2l0aAogICAgIyBubyBleHBlY3RlZCBsYWJlbHMpOyB0aGF0IGlzIG5vdCBhIGZhaWx1cmUuCiAgICBpZiB0ZXN0X3Jlc3VsdC5zdWNjZXNzIGlzIEZhbHNlOgogICAgICAgIGZhaWxlZF9tZXRyaWNzX2RhdGE6IExpc3RbTWV0cmljRGF0YV0gPSBbXQogICAgICAgICMgZXZlbiBmb3IgY29udmVyc2F0aW9ucywgdGVzdF9yZXN1bHQgcmlnaHQgbm93IGlzIGp1c3QgdGhlCiAgICAgICAgIyByZXN1bHQgZm9yIHRoZSBsYXN0IG1lc3NhZ2UKICAgICAgICBmb3IgbWV0cmljX2RhdGEgaW4gdGVzdF9yZXN1bHQubWV0cmljc19kYXRhIG9yIFtdOgogICAgICAgICAgICBpZiBtZXRyaWNfZGF0YS5lcnJvciBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIGZhaWxlZF9tZXRyaWNzX2RhdGEuYXBwZW5kKG1ldHJpY19kYXRhKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgIyBUaGlzIHRyeSBibG9jayBpcyBmb3IgdXNlciBkZWZpbmVkIGN1c3RvbSBtZXRyaWNzLAogICAgICAgICAgICAgICAgIyB3aGljaCBtaWdodCBub3QgaGFuZGxlIHRoZSBzY29yZSA9PSB1bmRlZmluZWQgY2FzZSBlbGVnYW50bHkKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBpZiBub3QgbWV0cmljX2RhdGEuc3VjY2VzczoKICAgICAgICAgICAgICAgICAgICAgICAgZmFpbGVkX21ldHJpY3NfZGF0YS5hcHBlbmQobWV0cmljX2RhdGEpCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgIGZhaWxlZF9tZXRyaWNzX2RhdGEuYXBwZW5kKG1ldHJpY19kYXRhKQoKICAgICAgICBmYWlsZWRfY2xhc3NpZmljYXRpb25zOiBMaXN0W0NsYXNzaWZpY2F0aW9uXSA9IFsKICAgICAgICAgICAgY2xhc3NpZmljYXRpb24KICAgICAgICAgICAgZm9yIGNsYXNzaWZpY2F0aW9uIGluIHRlc3RfcmVzdWx0LmNsYXNzaWZpY2F0aW9ucyBvciBbXQogICAgICAgICAgICBpZiBjbGFzc2lmaWNhdGlvbi5zdWNjZXNzIGlzIEZhbHNlCiAgICAgICAgXQoKICAgICAgICBmYWlsZWRfcGFydHMgPSBbCiAgICAgICAgICAgIGYie21ldHJpY3NfZGF0YS5uYW1lfSAoc2NvcmU6IHttZXRyaWNzX2RhdGEuc2NvcmV9LCB0aHJlc2hvbGQ6IHttZXRyaWNzX2RhdGEudGhyZXNob2xkfSwgc3RyaWN0OiB7bWV0cmljc19kYXRhLnN0cmljdF9tb2RlfSwgZXJyb3I6IHttZXRyaWNzX2RhdGEuZXJyb3J9LCByZWFzb246IHttZXRyaWNzX2RhdGEucmVhc29ufSkiCiAgICAgICAgICAgIGZvciBtZXRyaWNzX2RhdGEgaW4gZmFpbGVkX21ldHJpY3NfZGF0YQogICAgICAgIF0KICAgICAgICBmYWlsZWRfcGFydHMgKz0gWwogICAgICAgICAgICBmIntjbGFzc2lmaWNhdGlvbi5uYW1lfSAobGFiZWw6IHtjbGFzc2lmaWNhdGlvbi5sYWJlbH0sIGV4cGVjdGVkOiB7Y2xhc3NpZmljYXRpb24uZXhwZWN0ZWRfbGFiZWx9LCBlcnJvcjoge2NsYXNzaWZpY2F0aW9uLmVycm9yfSwgcmVhc29uOiB7Y2xhc3NpZmljYXRpb24ucmVhc29ufSkiCiAgICAgICAgICAgIGZvciBjbGFzc2lmaWNhdGlvbiBpbiBmYWlsZWRfY2xhc3NpZmljYXRpb25zCiAgICAgICAgXQogICAgICAgIGZhaWxlZF9tZXRyaWNzX3N0ciA9ICIsICIuam9pbihmYWlsZWRfcGFydHMpCgogICAgICAgIGlmIGZhaWxlZF9tZXRyaWNzX2RhdGEgYW5kIGZhaWxlZF9jbGFzc2lmaWNhdGlvbnM6CiAgICAgICAgICAgIHN1YmplY3QgPSAiTWV0cmljcyBhbmQgY2xhc3NpZmllcnMiCiAgICAgICAgZWxpZiBmYWlsZWRfY2xhc3NpZmljYXRpb25zOgogICAgICAgICAgICBzdWJqZWN0ID0gIkNsYXNzaWZpZXJzIgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHN1YmplY3QgPSAiTWV0cmljcyIKCiAgICAgICAgaWYgdGVzdF9jYXNlIGlzIG5vdCBOb25lIGFuZCB0ZXN0X2Nhc2UuZmxha3k6CiAgICAgICAgICAgICMgRmxha3kgdGVzdCBjYXNlcyBkb24ndCBibG9jayBDSTogd2FybiAoc2hvd3MgdXAgaW4gcHl0ZXN0J3MKICAgICAgICAgICAgIyB3YXJuaW5ncyBzdW1tYXJ5KSBidXQgZG9uJ3QgcmFpc2UKICAgICAgICAgICAgd2FybmluZ3Mud2FybigKICAgICAgICAgICAgICAgIGYiRmxha3kgdGVzdCBjYXNlIGZhaWxlZCAobm8gYXNzZXJ0aW9uIHJhaXNlZCk6ICIKICAgICAgICAgICAgICAgIGYie3N1YmplY3R9OiB7ZmFpbGVkX21ldHJpY3Nfc3RyfSBmYWlsZWQuIgogICAgICAgICAgICApCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgQXNzZXJ0aW9uRXJyb3IoZiJ7c3ViamVjdH06IHtmYWlsZWRfbWV0cmljc19zdHJ9IGZhaWxlZC4iKQoKCmRlZiBldmFsdWF0ZSgKICAgIHRlc3RfY2FzZXM6IFVuaW9uW0xpc3RbTExNVGVzdENhc2VdLCBMaXN0W0NvbnZlcnNhdGlvbmFsVGVzdENhc2VdXSwKICAgIG1ldHJpY3M6IE9wdGlvbmFsWwogICAgICAgIFVuaW9uWwogICAgICAgICAgICBMaXN0W0Jhc2VNZXRyaWNdLAogICAgICAgICAgICBMaXN0W0Jhc2VDb252ZXJzYXRpb25hbE1ldHJpY10sCiAgICAgICAgXQogICAgXSA9IE5vbmUsCiAgICBjbGFzc2lmaWVyczogT3B0aW9uYWxbTGlzdFtCYXNlQ2xhc3NpZmllcl1dID0gTm9uZSwKICAgICMgRXZhbHMgb24gQ29uZmlkZW50IEFJCiAgICBtZXRyaWNfY29sbGVjdGlvbjogT3B0aW9uYWxbc3RyXSA9IE5vbmUsCiAgICBoeXBlcnBhcmFtZXRlcnM6IE9wdGlvbmFsW0RpY3Rbc3RyLCBVbmlvbltzdHIsIGludCwgZmxvYXQsIFByb21wdF1dXSA9IE5vbmUsCiAgICAjIGFnbm9zdGljCiAgICBtY3Bfc2VydmVyczogT3B0aW9uYWxbTGlzdFtVbmlvbltNQ1BTZXJ2ZXIsICJPZmZpY2lhbE1DUFNlcnZlciJdXV0gPSBOb25lLAogICAgaWRlbnRpZmllcjogT3B0aW9uYWxbc3RyXSA9IE5vbmUsCiAgICBvZmZpY2lhbDogYm9vbCA9IEZhbHNlLAogICAgX3NraXBfcmVzZXQ6IGJvb2wgPSBGYWxzZSwKICAgICMgQ29uZmlncwogICAgYXN5bmNfY29uZmlnOiBPcHRpb25hbFtBc3luY0NvbmZpZ10gPSBBc3luY0NvbmZpZygpLAogICAgZGlzcGxheV9jb25maWc6IE9wdGlvbmFsW0Rpc3BsYXlDb25maWddID0gRGlzcGxheUNvbmZpZygpLAogICAgY2FjaGVfY29uZmlnOiBPcHRpb25hbFtDYWNoZUNvbmZpZ10gPSBDYWNoZUNvbmZpZygpLAogICAgZXJyb3JfY29uZmlnOiBPcHRpb25hbFtFcnJvckNvbmZpZ10gPSBFcnJvckNvbmZpZygpLAopIC0+IEV2YWx1YXRpb25SZXN1bHQ6CiAgICB2YWxpZGF0ZV9ldmFsdWF0ZV9pbnB1dHMoCiAgICAgICAgdGVzdF9jYXNlcz10ZXN0X2Nhc2VzLAogICAgICAgIG1ldHJpY3M9bWV0cmljcywKICAgICAgICBtZXRyaWNfY29sbGVjdGlvbj1tZXRyaWNfY29sbGVjdGlvbiwKICAgICAgICBjbGFzc2lmaWVycz1jbGFzc2lmaWVycywKICAgICkKICAgIGNoZWNrX3ZhbGlkX3Rlc3RfY2FzZXNfdHlwZSh0ZXN0X2Nhc2VzKQogICAgaWYgY2xhc3NpZmllcnM6CiAgICAgICAgdmFsaWRhdGVfY2xhc3NpZmllcnModGVzdF9jYXNlcywgY2xhc3NpZmllcnMpCgogICAgaWYgbWNwX3NlcnZlcnMgaXMgbm90IE5vbmU6CiAgICAgICAgbWNwX3NlcnZlcnMgPSBub3JtYWxpemVfbWNwX3NlcnZlcnMobWNwX3NlcnZlcnMpCiAgICAgICAgdmFsaWRhdGVfbWNwX3NlcnZlcnMobWNwX3NlcnZlcnMpCiAgICBwcm9jZXNzX21jcF9zZXJ2ZXJzKHRlc3RfY2FzZXMsIG1jcF9zZXJ2ZXJzKQoKICAgIGhhc19leHBlY3RhdGlvbnMgPSBhbnkoY2FzZS5leHBlY3RhdGlvbnMgZm9yIGNhc2UgaW4gdGVzdF9jYXNlcykKICAgIGlmIG1ldHJpY3Mgb3IgY2xhc3NpZmllcnMgb3IgaGFzX2V4cGVjdGF0aW9uczoKICAgICAgICBpZiBtZXRyaWNzIGFuZCBub3QgaGFzX2V4cGVjdGF0aW9uczoKICAgICAgICAgICAgY2hlY2tfYXRfbGVhc3Rfb25lX21ldHJpY19oYXNfdGhyZXNob2xkKG1ldHJpY3MpCgogICAgICAgIGlmIG5vdCBfc2tpcF9yZXNldCBhbmQgbm90IGdldF9pc19ydW5uaW5nX2RlZXBldmFsKCk6CiAgICAgICAgICAgIGdsb2JhbF90ZXN0X3J1bl9tYW5hZ2VyLnJlc2V0KCkKICAgICAgICBzZXRfdGVzdF9ydW5fb2ZmaWNpYWwob2ZmaWNpYWwpCiAgICAgICAgc3RhcnRfdGltZSA9IHRpbWUucGVyZl9jb3VudGVyKCkKCiAgICAgICAgaWYgZGlzcGxheV9jb25maWcuc2hvd19pbmRpY2F0b3I6CiAgICAgICAgICAgIGNvbnNvbGUgPSBDb25zb2xlKCkKICAgICAgICAgICAgZm9yIG1ldHJpYyBpbiBtZXRyaWNzIG9yIFtdOgogICAgICAgICAgICAgICAgY29uc29sZS5wcmludCgKICAgICAgICAgICAgICAgICAgICBmb3JtYXRfbWV0cmljX2Rlc2NyaXB0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICBtZXRyaWMsIGFzeW5jX21vZGU9YXN5bmNfY29uZmlnLnJ1bl9hc3luYwogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZm9yIGNsYXNzaWZpZXIgaW4gY2xhc3NpZmllcnMgb3IgW106CiAgICAgICAgICAgICAgICBjb25zb2xlLnByaW50KAogICAgICAgICAgICAgICAgICAgIGZvcm1hdF9jbGFzc2lmaWVyX2Rlc2NyaXB0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc2lmaWVyLCBhc3luY19tb2RlPWFzeW5jX2NvbmZpZy5ydW5fYXN5bmMKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICApCgogICAgICAgIHdpdGggY2FwdHVyZV9ldmFsdWF0aW9uX3J1bihFbnRyeXBvaW50LkVWQUxVQVRFKToKICAgICAgICAgICAgaWYgYXN5bmNfY29uZmlnLnJ1bl9hc3luYzoKICAgICAgICAgICAgICAgIGxvb3AgPSBnZXRfb3JfY3JlYXRlX2V2ZW50X2xvb3AoKQogICAgICAgICAgICAgICAgdGVzdF9yZXN1bHRzID0gbG9vcC5ydW5fdW50aWxfY29tcGxldGUoCiAgICAgICAgICAgICAgICAgICAgYV9leGVjdXRlX3Rlc3RfY2FzZXMoCiAgICAgICAgICAgICAgICAgICAgICAgIHRlc3RfY2FzZXMsCiAgICAgICAgICAgICAgICAgICAgICAgIG1ldHJpY3Mgb3IgW10sCiAgICAgICAgICAgICAgICAgICAgICAgIGlkZW50aWZpZXI9aWRlbnRpZmllciwKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JfY29uZmlnPWVycm9yX2NvbmZpZywKICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGxheV9jb25maWc9ZGlzcGxheV9jb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgIGNhY2hlX2NvbmZpZz1jYWNoZV9jb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgIGFzeW5jX2NvbmZpZz1hc3luY19jb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzaWZpZXJzPWNsYXNzaWZpZXJzLAogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHRlc3RfcmVzdWx0cyA9IGV4ZWN1dGVfdGVzdF9jYXNlcygKICAgICAgICAgICAgICAgICAgICB0ZXN0X2Nhc2VzLAogICAgICAgICAgICAgICAgICAgIG1ldHJpY3Mgb3IgW10sCiAgICAgICAgICAgICAgICAgICAgaWRlbnRpZmllcj1pZGVudGlmaWVyLAogICAgICAgICAgICAgICAgICAgIGVycm9yX2NvbmZpZz1lcnJvcl9jb25maWcsCiAgICAgICAgICAgICAgICAgICAgZGlzcGxheV9jb25maWc9ZGlzcGxheV9jb25maWcsCiAgICAgICAgICAgICAgICAgICAgY2FjaGVfY29uZmlnPWNhY2hlX2NvbmZpZywKICAgICAgICAgICAgICAgICAgICBjbGFzc2lmaWVycz1jbGFzc2lmaWVycywKICAgICAgICAgICAgICAgICkKCiAgICAgICAgZW5kX3RpbWUgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICAgICAgcnVuX2R1cmF0aW9uID0gZW5kX3RpbWUgLSBzdGFydF90aW1lCiAgICAgICAgaWYgZGlzcGxheV9jb25maWcucHJpbnRfcmVzdWx0czoKICAgICAgICAgICAgY29uc29sZV9yZXBvcnQgPSBFdmFsdWF0aW9uQ29uc29sZVJlcG9ydCh0ZXN0X3Jlc3VsdHMpCiAgICAgICAgICAgIGNvbnNvbGVfcmVwb3J0LnJlbmRlcl90b190ZXJtaW5hbCgKICAgICAgICAgICAgICAgIHRydW5jYXRlX3Bhc3NpbmdfY2FzZXM9ZGlzcGxheV9jb25maWcudHJ1bmNhdGVfcGFzc2luZ19jYXNlcywKICAgICAgICAgICAgICAgIGRpc3BsYXlfb3B0aW9uPWRpc3BsYXlfY29uZmlnLmRpc3BsYXlfb3B0aW9uLAogICAgICAgICAgICApCgogICAgICAgICAgICAjIEhhbmRsZSBmdWxsLCB1bi10cnVuY2F0ZWQgZmlsZSBleHBvcnRzCiAgICAgICAgICAgIGlmIGRpc3BsYXlfY29uZmlnLmZpbGVfb3V0cHV0X2RpciBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIGlmIGRpc3BsYXlfY29uZmlnLmZpbGVfdHlwZSA9PSAiaHRtbCI6CiAgICAgICAgICAgICAgICAgICAgY29uc29sZV9yZXBvcnQuZXhwb3J0X3RvX2h0bWwoCiAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dF9kaXI9ZGlzcGxheV9jb25maWcuZmlsZV9vdXRwdXRfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICBldmFsdWF0aW9uX25hbWU9aWRlbnRpZmllciwKICAgICAgICAgICAgICAgICAgICAgICAgdGhlbWVfbW9kZT0iZGFyayIsCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgZWxpZiBkaXNwbGF5X2NvbmZpZy5maWxlX3R5cGUgPT0gIm1kIjoKICAgICAgICAgICAgICAgICAgICBjb25zb2xlX3JlcG9ydC5leHBvcnRfdG9fbWFya2Rvd24oCiAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dF9kaXI9ZGlzcGxheV9jb25maWcuZmlsZV9vdXRwdXRfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICBldmFsdWF0aW9uX25hbWU9aWRlbnRpZmllciwKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAgICAgICAgIGYiSW52YWxpZCBmaWxlIHR5cGU6IHtkaXNwbGF5X2NvbmZpZy5maWxlX3R5cGV9IgogICAgICAgICAgICAgICAgICAgICkKCiAgICAgICAgdGVzdF9ydW4gPSBnbG9iYWxfdGVzdF9ydW5fbWFuYWdlci5nZXRfdGVzdF9ydW4oKQogICAgICAgIGlmIGh5cGVycGFyYW1ldGVycyBpcyBub3QgTm9uZSBvciB0ZXN0X3J1bi5oeXBlcnBhcmFtZXRlcnMgaXMgTm9uZToKICAgICAgICAgICAgdGVzdF9ydW4uaHlwZXJwYXJhbWV0ZXJzID0gcHJvY2Vzc19oeXBlcnBhcmFtZXRlcnMoaHlwZXJwYXJhbWV0ZXJzKQogICAgICAgICAgICB0ZXN0X3J1bi5wcm9tcHRzID0gcHJvY2Vzc19wcm9tcHRzKGh5cGVycGFyYW1ldGVycykKCiAgICAgICAgZ2xvYmFsX3Rlc3RfcnVuX21hbmFnZXIuY29uZmlndXJlX2xvY2FsX3N0b3JlKAogICAgICAgICAgICByZXN1bHRzX2ZvbGRlcj1kaXNwbGF5X2NvbmZpZy5yZXN1bHRzX2ZvbGRlciwKICAgICAgICAgICAgcmVzdWx0c19zdWJmb2xkZXI9ZGlzcGxheV9jb25maWcucmVzdWx0c19zdWJmb2xkZXIsCiAgICAgICAgKQoKICAgICAgICBpZiBfc2tpcF9yZXNldDoKICAgICAgICAgICAgdGVzdF9ydW4ucnVuX2R1cmF0aW9uICs9IHJ1bl9kdXJhdGlvbgogICAgICAgICAgICBnbG9iYWxfdGVzdF9ydW5fbWFuYWdlci5zYXZlX3Rlc3RfcnVuKFRFTVBfRklMRV9QQVRIKQogICAgICAgICAgICByZXR1cm4gRXZhbHVhdGlvblJlc3VsdCgKICAgICAgICAgICAgICAgIHRlc3RfcmVzdWx0cz10ZXN0X3Jlc3VsdHMsCiAgICAgICAgICAgICAgICBjb25maWRlbnRfbGluaz1Ob25lLAogICAgICAgICAgICAgICAgdGVzdF9ydW5faWQ9Tm9uZSwKICAgICAgICAgICAgKQoKICAgICAgICBpZiBub3QgbWV0cmljcyBhbmQgbm90IGhhc19leHBlY3RhdGlvbnM6CiAgICAgICAgICAgICMgQ2xhc3NpZmllci1vbmx5IHJ1bjogY2xhc3NpZmljYXRpb25zIGFyZSBsb2NhbC1vbmx5IGZvciBub3csIHNvCiAgICAgICAgICAgICMgdGhlcmUgaXMgbm8gdGVzdCBydW4gdG8gZmluYWxpemUgb3IgdXBsb2FkLgogICAgICAgICAgICByZXR1cm4gRXZhbHVhdGlvblJlc3VsdCgKICAgICAgICAgICAgICAgIHRlc3RfcmVzdWx0cz10ZXN0X3Jlc3VsdHMsCiAgICAgICAgICAgICAgICBjb25maWRlbnRfbGluaz1Ob25lLAogICAgICAgICAgICAgICAgdGVzdF9ydW5faWQ9Tm9uZSwKICAgICAgICAgICAgKQoKICAgICAgICBnbG9iYWxfdGVzdF9ydW5fbWFuYWdlci5zYXZlX3Rlc3RfcnVuKFRFTVBfRklMRV9QQVRIKQoKICAgICAgICAjIEluIENMSSBtb2RlIChgZGVlcGV2YWwgdGVzdCBydW5gKSwgdGhlIENMSSBvd25zIGZpbmFsaXphdGlvbiBhbmQgd2lsbAogICAgICAgICMgY2FsbCBgd3JhcF91cF90ZXN0X3J1bigpYCBvbmNlIGFmdGVyIHB5dGVzdCBmaW5pc2hlcy4gRmluYWxpemluZyBoZXJlCiAgICAgICAgIyBhcyB3ZWxsIHdvdWxkIGRvdWJsZSBmaW5hbGl6ZSB0aGUgcnVuIGFuZCBjb25zZXF1ZW50bHkgcmVzdWx0IGluCiAgICAgICAgIyBkdXBsaWNhdGUgdXBsb2FkcyAvIGxvY2FsIHNhdmVzIGFuZCB0ZW1wIGZpbGUgcmFjZXMsIHNvIG9ubHkKICAgICAgICAjIGRvIGl0IHdoZW4gd2UncmUgTk9UIGluIENMSSBtb2RlLgogICAgICAgIGlmIGdldF9pc19ydW5uaW5nX2RlZXBldmFsKCk6CiAgICAgICAgICAgIHJldHVybiBFdmFsdWF0aW9uUmVzdWx0KAogICAgICAgICAgICAgICAgdGVzdF9yZXN1bHRzPXRlc3RfcmVzdWx0cywKICAgICAgICAgICAgICAgIGNvbmZpZGVudF9saW5rPU5vbmUsCiAgICAgICAgICAgICAgICB0ZXN0X3J1bl9pZD1Ob25lLAogICAgICAgICAgICApCgogICAgICAgIHJlcyA9IGdsb2JhbF90ZXN0X3J1bl9tYW5hZ2VyLndyYXBfdXBfdGVzdF9ydW4oCiAgICAgICAgICAgIHJ1bl9kdXJhdGlvbiwgZGlzcGxheV90YWJsZT1GYWxzZQogICAgICAgICkKICAgICAgICBpZiBpc2luc3RhbmNlKHJlcywgdHVwbGUpOgogICAgICAgICAgICBjb25maWRlbnRfbGluaywgdGVzdF9ydW5faWQgPSByZXMKICAgICAgICBlbHNlOgogICAgICAgICAgICBjb25maWRlbnRfbGluayA9IHRlc3RfcnVuX2lkID0gTm9uZQoKICAgICAgICAjIEFsbCBvdGhlciBzaWRlLWVmZmVjdHMgKHNhdmluZyBsb2NhbGx5LCBwb3N0aW5nIHRvIENvbmZpZGVudCBBSSwKICAgICAgICAjIHJlbmRlcmluZyB0aGUgdGFibGUpIGhhdmUgYWxyZWFkeSBoYXBwZW5lZCBpbnNpZGUgd3JhcF91cF90ZXN0X3J1bi4KICAgICAgICAjIE9mZmVyIHRvIG9wZW4gdGhlIGluc3BlY3QgVFVJIGFzIHRoZSB2ZXJ5IGxhc3QgdGhpbmcgdGhlIHVzZXIgc2VlcywKICAgICAgICAjIHNvIGl0IG5ldmVyIGNvbXBldGVzIHdpdGggdGhlIHJ1biBvdXRwdXQgZm9yIGF0dGVudGlvbi4KICAgICAgICBmcm9tIGRlZXBldmFsLmV2YWx1YXRlLmluc3BlY3RfcHJvbXB0IGltcG9ydCBtYXliZV9vZmZlcl9pbnNwZWN0X3R1aQoKICAgICAgICBtYXliZV9vZmZlcl9pbnNwZWN0X3R1aShnbG9iYWxfdGVzdF9ydW5fbWFuYWdlciwgZGlzcGxheV9jb25maWcpCgogICAgICAgIHJldHVybiBFdmFsdWF0aW9uUmVzdWx0KAogICAgICAgICAgICB0ZXN0X3Jlc3VsdHM9dGVzdF9yZXN1bHRzLAogICAgICAgICAgICBjb25maWRlbnRfbGluaz1jb25maWRlbnRfbGluaywKICAgICAgICAgICAgdGVzdF9ydW5faWQ9dGVzdF9ydW5faWQsCiAgICAgICAgKQogICAgZWxpZiBtZXRyaWNfY29sbGVjdGlvbjoKICAgICAgICBhcGkgPSBBcGkoKQogICAgICAgIGFwaV9ldmFsdWF0ZSA9IEFQSUV2YWx1YXRlKAogICAgICAgICAgICBtZXRyaWNDb2xsZWN0aW9uPW1ldHJpY19jb2xsZWN0aW9uLAogICAgICAgICAgICBsbG1UZXN0Q2FzZXM9KAogICAgICAgICAgICAgICAgdGVzdF9jYXNlcyBpZiBpc2luc3RhbmNlKHRlc3RfY2FzZXNbMF0sIExMTVRlc3RDYXNlKSBlbHNlIE5vbmUKICAgICAgICAgICAgKSwKICAgICAgICAgICAgY29udmVyc2F0aW9uYWxUZXN0Q2FzZXM9KAogICAgICAgICAgICAgICAgdGVzdF9jYXNlcwogICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh0ZXN0X2Nhc2VzWzBdLCBDb252ZXJzYXRpb25hbFRlc3RDYXNlKQogICAgICAgICAgICAgICAgZWxzZSBOb25lCiAgICAgICAgICAgICksCiAgICAgICAgKQogICAgICAgIHRyeToKICAgICAgICAgICAgYm9keSA9IGFwaV9ldmFsdWF0ZS5tb2RlbF9kdW1wKGJ5X2FsaWFzPVRydWUsIGV4Y2x1ZGVfbm9uZT1UcnVlKQogICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvcjoKICAgICAgICAgICAgIyBQeWRhbnRpYyB2ZXJzaW9uIGJlbG93IDIuMAogICAgICAgICAgICBib2R5ID0gYXBpX2V2YWx1YXRlLmRpY3QoYnlfYWxpYXM9VHJ1ZSwgZXhjbHVkZV9ub25lPVRydWUpCgogICAgICAgIF8sIGxpbmsgPSBhcGkuc2VuZF9yZXF1ZXN0KAogICAgICAgICAgICBtZXRob2Q9SHR0cE1ldGhvZHMuUE9TVCwKICAgICAgICAgICAgZW5kcG9pbnQ9RW5kcG9pbnRzLkVWQUxVQVRFX0VORFBPSU5ULAogICAgICAgICAgICBib2R5PWJvZHksCiAgICAgICAgKQogICAgICAgIGlmIGxpbms6CiAgICAgICAgICAgIGNvbnNvbGUgPSBDb25zb2xlKCkKICAgICAgICAgICAgY29uc29sZS5wcmludCgKICAgICAgICAgICAgICAgICLinIUgRXZhbHVhdGlvbiBzdWNjZXNzZnVsbHkgcHVzaGVkIHRvIENvbmZpZGVudCBBSSEgVmlldyBhdCAiCiAgICAgICAgICAgICAgICBmIltsaW5rPXtsaW5rfV17bGlua31bL2xpbmtdIgogICAgICAgICAgICApCiAgICAgICAgICAgIG9wZW5fYnJvd3NlcihsaW5rKQo=
+import warnings
+from typing import (
+    TYPE_CHECKING,
+    List,
+    Optional,
+    Union,
+    Dict,
+)
+from rich.console import Console
+import time
+
+from deepeval.confident.api import Api, Endpoints, HttpMethods
+from deepeval.evaluate.api import APIEvaluate
+from deepeval.evaluate.configs import (
+    AsyncConfig,
+    DisplayConfig,
+    CacheConfig,
+    ErrorConfig,
+)
+from deepeval.evaluate.utils import (
+    validate_assert_test_inputs,
+    validate_evaluate_inputs,
+)
+from deepeval.evaluate.console_report import EvaluationConsoleReport
+from deepeval.dataset import Golden
+from deepeval.prompt import Prompt
+from deepeval.test_case.utils import (
+    check_valid_test_cases_type,
+    process_mcp_servers,
+)
+from deepeval.test_run.hyperparameters import (
+    process_hyperparameters,
+    process_prompts,
+)
+from deepeval.test_run.test_run import TEMP_FILE_PATH
+from deepeval.utils import (
+    get_or_create_event_loop,
+    open_browser,
+    set_test_run_official,
+    should_ignore_errors,
+    should_skip_on_missing_params,
+    should_use_cache,
+    should_verbose_print,
+    get_identifier,
+)
+from deepeval.telemetry import Entrypoint, capture_evaluation_run
+from deepeval.metrics import (
+    BaseMetric,
+    BaseConversationalMetric,
+)
+from deepeval.metrics.utils import check_at_least_one_metric_has_threshold
+from deepeval.metrics.indicator import (
+    format_metric_description,
+    format_classifier_description,
+)
+from deepeval.classifiers.base_classifier import BaseClassifier
+from deepeval.classifiers.utils import validate_classifiers
+from deepeval.test_case import (
+    LLMTestCase,
+    ConversationalTestCase,
+    MCPServer,
+)
+from deepeval.test_case.mcp import (
+    normalize_mcp_servers,
+    validate_mcp_servers,
+)
+from deepeval.test_run import (
+    global_test_run_manager,
+    MetricData,
+    Classification,
+)
+from deepeval.utils import get_is_running_deepeval
+from deepeval.evaluate.types import EvaluationResult
+from deepeval.evaluate.execute import (
+    a_execute_test_cases,
+    _assert_test_from_current_trace,
+    execute_test_cases,
+)
+
+if TYPE_CHECKING:
+    from mcp.server import MCPServer as OfficialMCPServer
+
+
+def assert_test(
+    test_case: Optional[Union[LLMTestCase, ConversationalTestCase]] = None,
+    metrics: Optional[
+        Union[
+            List[BaseMetric],
+            List[BaseConversationalMetric],
+        ]
+    ] = None,
+    golden: Optional[Golden] = None,
+    run_async: bool = True,
+    classifiers: Optional[List[BaseClassifier]] = None,
+):
+    validate_assert_test_inputs(
+        golden=golden,
+        test_case=test_case,
+        metrics=metrics,
+        classifiers=classifiers,
+    )
+    if classifiers:
+        validate_classifiers(
+            [test_case] if test_case is not None else None, classifiers
+        )
+
+    async_config = AsyncConfig(throttle_value=0, max_concurrent=100)
+    display_config = DisplayConfig(
+        verbose_mode=should_verbose_print(), show_indicator=True
+    )
+    error_config = ErrorConfig(
+        ignore_errors=should_ignore_errors(),
+        skip_on_missing_params=should_skip_on_missing_params(),
+    )
+    cache_config = CacheConfig(
+        write_cache=get_is_running_deepeval(), use_cache=should_use_cache()
+    )
+
+    if golden and not test_case:
+        # Trace-scoped assert_test: read the active trace set by the plugin.
+        test_result = _assert_test_from_current_trace(
+            golden=golden,
+            metrics=metrics,
+            error_config=error_config,
+            display_config=display_config,
+        )
+
+    elif test_case and (metrics or classifiers or test_case.expectations):
+        if metrics and not test_case.expectations:
+            check_at_least_one_metric_has_threshold(metrics)
+        if run_async:
+            loop = get_or_create_event_loop()
+            test_result = loop.run_until_complete(
+                a_execute_test_cases(
+                    [test_case],
+                    metrics or [],
+                    error_config=error_config,
+                    display_config=display_config,
+                    async_config=async_config,
+                    cache_config=cache_config,
+                    identifier=get_identifier(),
+                    _use_bar_indicator=True,
+                    _is_assert_test=True,
+                    classifiers=classifiers,
+                )
+            )[0]
+        else:
+            test_result = execute_test_cases(
+                [test_case],
+                metrics or [],
+                error_config=error_config,
+                display_config=display_config,
+                cache_config=cache_config,
+                identifier=get_identifier(),
+                _use_bar_indicator=False,
+                _is_assert_test=True,
+                classifiers=classifiers,
+            )[0]
+
+    # `success is None` means nothing produced a verdict (e.g. classifiers with
+    # no expected labels); that is not a failure.
+    if test_result.success is False:
+        failed_metrics_data: List[MetricData] = []
+        # even for conversations, test_result right now is just the
+        # result for the last message
+        for metric_data in test_result.metrics_data or []:
+            if metric_data.error is not None:
+                failed_metrics_data.append(metric_data)
+            else:
+                # This try block is for user defined custom metrics,
+                # which might not handle the score == undefined case elegantly
+                try:
+                    if not metric_data.success:
+                        failed_metrics_data.append(metric_data)
+                except Exception:
+                    failed_metrics_data.append(metric_data)
+
+        failed_classifications: List[Classification] = [
+            classification
+            for classification in test_result.classifications or []
+            if classification.success is False
+        ]
+
+        failed_parts = [
+            f"{metrics_data.name} (score: {metrics_data.score}, threshold: {metrics_data.threshold}, strict: {metrics_data.strict_mode}, error: {metrics_data.error}, reason: {metrics_data.reason})"
+            for metrics_data in failed_metrics_data
+        ]
+        failed_parts += [
+            f"{classification.name} (label: {classification.label}, expected: {classification.expected_label}, error: {classification.error}, reason: {classification.reason})"
+            for classification in failed_classifications
+        ]
+        failed_metrics_str = ", ".join(failed_parts)
+
+        if failed_metrics_data and failed_classifications:
+            subject = "Metrics and classifiers"
+        elif failed_classifications:
+            subject = "Classifiers"
+        else:
+            subject = "Metrics"
+
+        if test_case is not None and test_case.flaky:
+            # Flaky test cases don't block CI: warn (shows up in pytest's
+            # warnings summary) but don't raise
+            warnings.warn(
+                f"Flaky test case failed (no assertion raised): "
+                f"{subject}: {failed_metrics_str} failed."
+            )
+        else:
+            raise AssertionError(f"{subject}: {failed_metrics_str} failed.")
+
+
+def evaluate(
+    test_cases: Union[List[LLMTestCase], List[ConversationalTestCase]],
+    metrics: Optional[
+        Union[
+            List[BaseMetric],
+            List[BaseConversationalMetric],
+        ]
+    ] = None,
+    classifiers: Optional[List[BaseClassifier]] = None,
+    # Evals on Confident AI
+    metric_collection: Optional[str] = None,
+    hyperparameters: Optional[Dict[str, Union[str, int, float, Prompt]]] = None,
+    # agnostic
+    mcp_servers: Optional[List[Union[MCPServer, "OfficialMCPServer"]]] = None,
+    identifier: Optional[str] = None,
+    official: bool = False,
+    _skip_reset: bool = False,
+    # Configs
+    async_config: Optional[AsyncConfig] = AsyncConfig(),
+    display_config: Optional[DisplayConfig] = DisplayConfig(),
+    cache_config: Optional[CacheConfig] = CacheConfig(),
+    error_config: Optional[ErrorConfig] = ErrorConfig(),
+) -> EvaluationResult:
+    validate_evaluate_inputs(
+        test_cases=test_cases,
+        metrics=metrics,
+        metric_collection=metric_collection,
+        classifiers=classifiers,
+    )
+    check_valid_test_cases_type(test_cases)
+    if classifiers:
+        validate_classifiers(test_cases, classifiers)
+
+    if mcp_servers is not None:
+        mcp_servers = normalize_mcp_servers(mcp_servers)
+        validate_mcp_servers(mcp_servers)
+    process_mcp_servers(test_cases, mcp_servers)
+
+    has_expectations = any(case.expectations for case in test_cases)
+    if metrics or classifiers or has_expectations:
+        if metrics and not has_expectations:
+            check_at_least_one_metric_has_threshold(metrics)
+
+        if not _skip_reset and not get_is_running_deepeval():
+            global_test_run_manager.reset()
+        set_test_run_official(official)
+        start_time = time.perf_counter()
+
+        if display_config.show_indicator:
+            console = Console()
+            for metric in metrics or []:
+                console.print(
+                    format_metric_description(
+                        metric, async_mode=async_config.run_async
+                    )
+                )
+            for classifier in classifiers or []:
+                console.print(
+                    format_classifier_description(
+                        classifier, async_mode=async_config.run_async
+                    )
+                )
+
+        with capture_evaluation_run(Entrypoint.EVALUATE):
+            if async_config.run_async:
+                loop = get_or_create_event_loop()
+                test_results = loop.run_until_complete(
+                    a_execute_test_cases(
+                        test_cases,
+                        metrics or [],
+                        identifier=identifier,
+                        error_config=error_config,
+                        display_config=display_config,
+                        cache_config=cache_config,
+                        async_config=async_config,
+                        classifiers=classifiers,
+                    )
+                )
+            else:
+                test_results = execute_test_cases(
+                    test_cases,
+                    metrics or [],
+                    identifier=identifier,
+                    error_config=error_config,
+                    display_config=display_config,
+                    cache_config=cache_config,
+                    classifiers=classifiers,
+                )
+
+        end_time = time.perf_counter()
+        run_duration = end_time - start_time
+        if display_config.print_results:
+            console_report = EvaluationConsoleReport(test_results)
+            console_report.render_to_terminal(
+                truncate_passing_cases=display_config.truncate_passing_cases,
+                display_option=display_config.display_option,
+            )
+
+            # Handle full, un-truncated file exports
+            if display_config.file_output_dir is not None:
+                if display_config.file_type == "html":
+                    console_report.export_to_html(
+                        output_dir=display_config.file_output_dir,
+                        evaluation_name=identifier,
+                        theme_mode="dark",
+                    )
+                elif display_config.file_type == "md":
+                    console_report.export_to_markdown(
+                        output_dir=display_config.file_output_dir,
+                        evaluation_name=identifier,
+                    )
+                else:
+                    raise ValueError(
+                        f"Invalid file type: {display_config.file_type}"
+                    )
+
+        test_run = global_test_run_manager.get_test_run()
+        if hyperparameters is not None or test_run.hyperparameters is None:
+            test_run.hyperparameters = process_hyperparameters(hyperparameters)
+            test_run.prompts = process_prompts(hyperparameters)
+
+        global_test_run_manager.configure_local_store(
+            results_folder=display_config.results_folder,
+            results_subfolder=display_config.results_subfolder,
+        )
+
+        if _skip_reset:
+            test_run.run_duration += run_duration
+            global_test_run_manager.save_test_run(TEMP_FILE_PATH)
+            return EvaluationResult(
+                test_results=test_results,
+                confident_link=None,
+                test_run_id=None,
+            )
+
+        if not metrics and not has_expectations:
+            # Classifier-only run: classifications are local-only for now, so
+            # there is no test run to finalize or upload.
+            return EvaluationResult(
+                test_results=test_results,
+                confident_link=None,
+                test_run_id=None,
+            )
+
+        global_test_run_manager.save_test_run(TEMP_FILE_PATH)
+
+        # In CLI mode (`deepeval test run`), the CLI owns finalization and will
+        # call `wrap_up_test_run()` once after pytest finishes. Finalizing here
+        # as well would double finalize the run and consequently result in
+        # duplicate uploads / local saves and temp file races, so only
+        # do it when we're NOT in CLI mode.
+        if get_is_running_deepeval():
+            return EvaluationResult(
+                test_results=test_results,
+                confident_link=None,
+                test_run_id=None,
+            )
+
+        res = global_test_run_manager.wrap_up_test_run(
+            run_duration, display_table=False
+        )
+        if isinstance(res, tuple):
+            confident_link, test_run_id = res
+        else:
+            confident_link = test_run_id = None
+
+        # All other side-effects (saving locally, posting to Confident AI,
+        # rendering the table) have already happened inside wrap_up_test_run.
+        # Offer to open the inspect TUI as the very last thing the user sees,
+        # so it never competes with the run output for attention.
+        from deepeval.evaluate.inspect_prompt import maybe_offer_inspect_tui
+
+        maybe_offer_inspect_tui(global_test_run_manager, display_config)
+
+        return EvaluationResult(
+            test_results=test_results,
+            confident_link=confident_link,
+            test_run_id=test_run_id,
+        )
+    elif metric_collection:
+        api = Api()
+        api_evaluate = APIEvaluate(
+            metricCollection=metric_collection,
+            llmTestCases=(
+                test_cases if isinstance(test_cases[0], LLMTestCase) else None
+            ),
+            conversationalTestCases=(
+                test_cases
+                if isinstance(test_cases[0], ConversationalTestCase)
+                else None
+            ),
+        )
+        try:
+            body = api_evaluate.model_dump(by_alias=True, exclude_none=True)
+        except AttributeError:
+            # Pydantic version below 2.0
+            body = api_evaluate.dict(by_alias=True, exclude_none=True)
+
+        _, link = api.send_request(
+            method=HttpMethods.POST,
+            endpoint=Endpoints.EVALUATE_ENDPOINT,
+            body=body,
+        )
+        if link:
+            console = Console()
+            console.print(
+                "✅ Evaluation successfully pushed to Confident AI! View at "
+                f"[link={link}]{link}[/link]"
+            )
+            open_browser(link)

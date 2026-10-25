@@ -1,1 +1,148 @@
-IiIiUGVyLWNoYW5uZWwgbW9kZWwgYWxpYXNlcy4KClVzZXIgbWFwcyBvdmVybGF5IGVhY2ggY2hhbm5lbCdzIGJ1aWx0LWluIG1hcCBhbmQgbmV2ZXIgY3Jvc3MgY2hhbm5lbHMuCkxlZ2FjeSBmbGF0IGBtb2RlbF9hbGlhc2VzYCBzZXR0aW5ncyBhcmUgdHJlYXRlZCBhcyBXb3JrQnVkZHktb25seS4KIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgc3FsaXRlMwoKaW1wb3J0IGRhdGFiYXNlIGFzIGRiCgpTRVRUSU5HID0gIm1vZGVsX2FsaWFzZXMiCgoKY2xhc3MgQWxpYXNFcnJvcihWYWx1ZUVycm9yKToKICAgICIiIkludmFsaWQgYWxpYXMgcGF5bG9hZC4iIiIKCgpkZWYgX2J1aWx0aW5fYWxpYXNlcyhjaGFubmVsOiBzdHIpIC0+IGRpY3Rbc3RyLCBzdHJdOgogICAgaWYgY2hhbm5lbCA9PSAid29ya2J1ZGR5IjoKICAgICAgICBpbXBvcnQgcHJveHkKCiAgICAgICAgcmV0dXJuIGRpY3QocHJveHkuX0JVSUxUSU5fQUxJQVNFUykKICAgIGlmIGNoYW5uZWwgPT0gInFjbGF3IjoKICAgICAgICBmcm9tIHByb3ZpZGVycy5xY2xhdy5jb25zdGFudHMgaW1wb3J0IEFMSUFTRVMKCiAgICAgICAgcmV0dXJuIGRpY3QoQUxJQVNFUykKICAgIGlmIGNoYW5uZWwgPT0gInF3ZW53b3JrIjoKICAgICAgICBmcm9tIHByb3ZpZGVycy5xd2Vud29yay5jb25zdGFudHMgaW1wb3J0IEFMSUFTRVMKCiAgICAgICAgcmV0dXJuIGRpY3QoQUxJQVNFUykKICAgIGlmIGNoYW5uZWwgPT0gInRyYWV3b3JrIjoKICAgICAgICBmcm9tIHByb3ZpZGVycy50cmFld29yay5jb25zdGFudHMgaW1wb3J0IEFMSUFTRVMKCiAgICAgICAgcmV0dXJuIGRpY3QoQUxJQVNFUykKICAgIGlmIGNoYW5uZWwgPT0gImxvb215IjoKICAgICAgICBmcm9tIHByb3ZpZGVycy5sb29teS5jb25zdGFudHMgaW1wb3J0IEFMSUFTRVMKCiAgICAgICAgcmV0dXJuIGRpY3QoQUxJQVNFUykKICAgIGlmIGNoYW5uZWwgPT0gInhpYW9odWFueGlvbmciOgogICAgICAgIGZyb20gcHJvdmlkZXJzLnhpYW9odWFueGlvbmcuY29uc3RhbnRzIGltcG9ydCBBTElBU0VTCgogICAgICAgIHJldHVybiBkaWN0KEFMSUFTRVMpCiAgICByZXR1cm4ge30KCgpkZWYgX2NsZWFuX21hcChyYXcpIC0+IGRpY3Rbc3RyLCBzdHJdOgogICAgaWYgbm90IGlzaW5zdGFuY2UocmF3LCBkaWN0KToKICAgICAgICByZXR1cm4ge30KICAgIG91dDogZGljdFtzdHIsIHN0cl0gPSB7fQogICAgZm9yIGtleSwgdmFsdWUgaW4gcmF3Lml0ZW1zKCk6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2Uoa2V5LCBzdHIpIG9yIG5vdCBpc2luc3RhbmNlKHZhbHVlLCBzdHIpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGFsaWFzID0ga2V5LnN0cmlwKCkKICAgICAgICB0YXJnZXQgPSB2YWx1ZS5zdHJpcCgpCiAgICAgICAgaWYgbm90IGFsaWFzIG9yIG5vdCB0YXJnZXQ6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgb3V0W2FsaWFzXSA9IHRhcmdldAogICAgcmV0dXJuIG91dAoKCmRlZiBsb2FkX3VzZXJfYWxpYXNlcygpIC0+IGRpY3Rbc3RyLCBkaWN0W3N0ciwgc3RyXV06CiAgICB0cnk6CiAgICAgICAgcmF3ID0gZGIuZ2V0X3NldHRpbmcoU0VUVElORywge30pIG9yIHt9CiAgICBleGNlcHQgc3FsaXRlMy5PcGVyYXRpb25hbEVycm9yOgogICAgICAgIHJldHVybiB7fQogICAgaWYgbm90IGlzaW5zdGFuY2UocmF3LCBkaWN0KSBvciBub3QgcmF3OgogICAgICAgIHJldHVybiB7fQogICAgaWYgYW55KGlzaW5zdGFuY2UodmFsdWUsIGRpY3QpIGZvciB2YWx1ZSBpbiByYXcudmFsdWVzKCkpOgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIHN0cihjaGFubmVsKTogX2NsZWFuX21hcChtYXBwaW5nKQogICAgICAgICAgICBmb3IgY2hhbm5lbCwgbWFwcGluZyBpbiByYXcuaXRlbXMoKQogICAgICAgICAgICBpZiBpc2luc3RhbmNlKG1hcHBpbmcsIGRpY3QpCiAgICAgICAgfQogICAgcmV0dXJuIHsid29ya2J1ZGR5IjogX2NsZWFuX21hcChyYXcpfQoKCmRlZiB1c2VyX2FsaWFzZXNfZm9yKGNoYW5uZWw6IHN0cikgLT4gZGljdFtzdHIsIHN0cl06CiAgICByZXR1cm4gZGljdChsb2FkX3VzZXJfYWxpYXNlcygpLmdldChjaGFubmVsKSBvciB7fSkKCgpkZWYgbWVyZ2VkX21hcChjaGFubmVsOiBzdHIpIC0+IGRpY3Rbc3RyLCBzdHJdOgogICAgcmV0dXJuIHsqKl9idWlsdGluX2FsaWFzZXMoY2hhbm5lbCksICoqdXNlcl9hbGlhc2VzX2ZvcihjaGFubmVsKX0KCgpkZWYgcmVzb2x2ZShjaGFubmVsOiBzdHIsIG1vZGVsOiBzdHIpIC0+IHN0cjoKICAgIHZhbHVlID0gKG1vZGVsIG9yICIiKS5zdHJpcCgpCiAgICBpZiBub3QgdmFsdWU6CiAgICAgICAgcmV0dXJuIHZhbHVlCiAgICByZXR1cm4gbWVyZ2VkX21hcChjaGFubmVsKS5nZXQodmFsdWUsIHZhbHVlKQoKCmRlZiBidWlsdGluX2tleXMoY2hhbm5lbDogc3RyKSAtPiBzZXRbc3RyXToKICAgIHJldHVybiBzZXQoX2J1aWx0aW5fYWxpYXNlcyhjaGFubmVsKSkKCgpkZWYgc2F2ZV91c2VyX2FsaWFzZXMoZGF0YTogZGljdCkgLT4gZGljdFtzdHIsIGRpY3Rbc3RyLCBzdHJdXToKICAgIGlmIG5vdCBpc2luc3RhbmNlKGRhdGEsIGRpY3QpOgogICAgICAgIHJhaXNlIEFsaWFzRXJyb3IoImFsaWFzZXMgbXVzdCBiZSBhbiBvYmplY3QiKQogICAgcGF5bG9hZCA9IHsid29ya2J1ZGR5IjogZGF0YX0gaWYgZGF0YSBhbmQgYWxsKGlzaW5zdGFuY2UodmFsdWUsIHN0cikgZm9yIHZhbHVlIGluIGRhdGEudmFsdWVzKCkpIGVsc2UgZGF0YQoKICAgIGltcG9ydCBwcm92aWRlcnMKCiAgICBzdG9yZWQgPSBsb2FkX3VzZXJfYWxpYXNlcygpCiAgICBmb3IgY2hhbm5lbCwgbWFwcGluZyBpbiBwYXlsb2FkLml0ZW1zKCk6CiAgICAgICAgbmFtZSA9IHN0cihjaGFubmVsIG9yICIiKS5zdHJpcCgpCiAgICAgICAgaWYgbm90IG5hbWU6CiAgICAgICAgICAgIHJhaXNlIEFsaWFzRXJyb3IoImNoYW5uZWwgaXMgcmVxdWlyZWQiKQogICAgICAgIGlmIG5vdCBwcm92aWRlcnMuaXNfa25vd25fY2hhbm5lbChuYW1lKToKICAgICAgICAgICAgcmFpc2UgQWxpYXNFcnJvcihmInVua25vd24gY2hhbm5lbCAne25hbWV9JyIpCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UobWFwcGluZywgZGljdCk6CiAgICAgICAgICAgIHJhaXNlIEFsaWFzRXJyb3IoZiJhbGlhc2VzIGZvciAne25hbWV9JyBtdXN0IGJlIGFuIG9iamVjdCIpCiAgICAgICAgaWYgbm90IGFsbChpc2luc3RhbmNlKGtleSwgc3RyKSBhbmQgaXNpbnN0YW5jZSh2YWx1ZSwgc3RyKSBmb3Iga2V5LCB2YWx1ZSBpbiBtYXBwaW5nLml0ZW1zKCkpOgogICAgICAgICAgICByYWlzZSBBbGlhc0Vycm9yKCJhbGlhc2VzIG11c3QgbWFwIHN0cmluZyBuYW1lcyB0byBzdHJpbmcgbW9kZWwgSURzIikKICAgICAgICBza2lwID0gYnVpbHRpbl9rZXlzKG5hbWUpCiAgICAgICAgY2xlYW46IGRpY3Rbc3RyLCBzdHJdID0ge30KICAgICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBtYXBwaW5nLml0ZW1zKCk6CiAgICAgICAgICAgIGFsaWFzID0ga2V5LnN0cmlwKCkKICAgICAgICAgICAgdGFyZ2V0ID0gdmFsdWUuc3RyaXAoKQogICAgICAgICAgICBpZiBub3QgYWxpYXMgb3Igbm90IHRhcmdldDoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlmICIvIiBpbiBhbGlhczoKICAgICAgICAgICAgICAgIHJhaXNlIEFsaWFzRXJyb3IoImFsaWFzIG11c3Qgbm90IGNvbnRhaW4gJy8nIikKICAgICAgICAgICAgaWYgYWxpYXMgaW4gc2tpcDoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGNsZWFuW2FsaWFzXSA9IHRhcmdldAogICAgICAgIHN0b3JlZFtuYW1lXSA9IGNsZWFuCiAgICBkYi5zZXRfc2V0dGluZyhTRVRUSU5HLCBzdG9yZWQpCiAgICByZXR1cm4gc3RvcmVkCgoKZGVmIHNuYXBzaG90KCkgLT4gZGljdDoKICAgIGltcG9ydCBwcm92aWRlcnMKCiAgICBzb3VyY2VzID0gW10KICAgIGZvciBjaGFubmVsIGluIHByb3ZpZGVycy5lbmFibGVkX3Byb3ZpZGVyX2lkcygpOgogICAgICAgIHByb3ZpZGVyID0gcHJvdmlkZXJzLmdldF9wcm92aWRlcihjaGFubmVsKQogICAgICAgIGJ1aWx0aW4gPSBfYnVpbHRpbl9hbGlhc2VzKGNoYW5uZWwpCiAgICAgICAgc291cmNlcy5hcHBlbmQoCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJjaGFubmVsIjogY2hhbm5lbCwKICAgICAgICAgICAgICAgICJkaXNwbGF5X25hbWUiOiBnZXRhdHRyKHByb3ZpZGVyLCAiZGlzcGxheV9uYW1lIiwgY2hhbm5lbCkgaWYgcHJvdmlkZXIgZWxzZSBjaGFubmVsLAogICAgICAgICAgICAgICAgImFsaWFzZXMiOiBtZXJnZWRfbWFwKGNoYW5uZWwpLAogICAgICAgICAgICAgICAgImJ1aWx0aW5fa2V5cyI6IGxpc3QoYnVpbHRpbi5rZXlzKCkpLAogICAgICAgICAgICB9CiAgICAgICAgKQogICAgcmV0dXJuIHsic291cmNlcyI6IHNvdXJjZXN9Cg==
+"""Per-channel model aliases.
+
+User maps overlay each channel's built-in map and never cross channels.
+Legacy flat `model_aliases` settings are treated as WorkBuddy-only.
+"""
+
+from __future__ import annotations
+
+import sqlite3
+
+import database as db
+
+SETTING = "model_aliases"
+
+
+class AliasError(ValueError):
+    """Invalid alias payload."""
+
+
+def _builtin_aliases(channel: str) -> dict[str, str]:
+    if channel == "workbuddy":
+        import proxy
+
+        return dict(proxy._BUILTIN_ALIASES)
+    if channel == "qclaw":
+        from providers.qclaw.constants import ALIASES
+
+        return dict(ALIASES)
+    if channel == "qwenwork":
+        from providers.qwenwork.constants import ALIASES
+
+        return dict(ALIASES)
+    if channel == "traework":
+        from providers.traework.constants import ALIASES
+
+        return dict(ALIASES)
+    if channel == "loomy":
+        from providers.loomy.constants import ALIASES
+
+        return dict(ALIASES)
+    if channel == "xiaohuanxiong":
+        from providers.xiaohuanxiong.constants import ALIASES
+
+        return dict(ALIASES)
+    return {}
+
+
+def _clean_map(raw) -> dict[str, str]:
+    if not isinstance(raw, dict):
+        return {}
+    out: dict[str, str] = {}
+    for key, value in raw.items():
+        if not isinstance(key, str) or not isinstance(value, str):
+            continue
+        alias = key.strip()
+        target = value.strip()
+        if not alias or not target:
+            continue
+        out[alias] = target
+    return out
+
+
+def load_user_aliases() -> dict[str, dict[str, str]]:
+    try:
+        raw = db.get_setting(SETTING, {}) or {}
+    except sqlite3.OperationalError:
+        return {}
+    if not isinstance(raw, dict) or not raw:
+        return {}
+    if any(isinstance(value, dict) for value in raw.values()):
+        return {
+            str(channel): _clean_map(mapping)
+            for channel, mapping in raw.items()
+            if isinstance(mapping, dict)
+        }
+    return {"workbuddy": _clean_map(raw)}
+
+
+def user_aliases_for(channel: str) -> dict[str, str]:
+    return dict(load_user_aliases().get(channel) or {})
+
+
+def merged_map(channel: str) -> dict[str, str]:
+    return {**_builtin_aliases(channel), **user_aliases_for(channel)}
+
+
+def resolve(channel: str, model: str) -> str:
+    value = (model or "").strip()
+    if not value:
+        return value
+    return merged_map(channel).get(value, value)
+
+
+def builtin_keys(channel: str) -> set[str]:
+    return set(_builtin_aliases(channel))
+
+
+def save_user_aliases(data: dict) -> dict[str, dict[str, str]]:
+    if not isinstance(data, dict):
+        raise AliasError("aliases must be an object")
+    payload = {"workbuddy": data} if data and all(isinstance(value, str) for value in data.values()) else data
+
+    import providers
+
+    stored = load_user_aliases()
+    for channel, mapping in payload.items():
+        name = str(channel or "").strip()
+        if not name:
+            raise AliasError("channel is required")
+        if not providers.is_known_channel(name):
+            raise AliasError(f"unknown channel '{name}'")
+        if not isinstance(mapping, dict):
+            raise AliasError(f"aliases for '{name}' must be an object")
+        if not all(isinstance(key, str) and isinstance(value, str) for key, value in mapping.items()):
+            raise AliasError("aliases must map string names to string model IDs")
+        skip = builtin_keys(name)
+        clean: dict[str, str] = {}
+        for key, value in mapping.items():
+            alias = key.strip()
+            target = value.strip()
+            if not alias or not target:
+                continue
+            if "/" in alias:
+                raise AliasError("alias must not contain '/'")
+            if alias in skip:
+                continue
+            clean[alias] = target
+        stored[name] = clean
+    db.set_setting(SETTING, stored)
+    return stored
+
+
+def snapshot() -> dict:
+    import providers
+
+    sources = []
+    for channel in providers.enabled_provider_ids():
+        provider = providers.get_provider(channel)
+        builtin = _builtin_aliases(channel)
+        sources.append(
+            {
+                "channel": channel,
+                "display_name": getattr(provider, "display_name", channel) if provider else channel,
+                "aliases": merged_map(channel),
+                "builtin_keys": list(builtin.keys()),
+            }
+        )
+    return {"sources": sources}

@@ -1,1 +1,57 @@
-IiIiUzEg5Lmg5oOv5YyW6LGB5YWN77ya55a85b+F6aG76LGB5YWN5Lmg5oOv5YyW77yM5Luj5Lu35piv5oWi5oCn6K+v5oql44CCCuS4pOiHguWFseeUqOWQjOS4gOasoeecn+WunumHh+agt++8iGR3YWl0X21z77yJ77yM5Y+q6K+75Ye65pa55byP5LiN5ZCM77yaCiAgaGFiaXQg6IeC77ya6ZiI5YC85oyH5pWw6L+96Liq6L+R5pyf6K+75pWw77yI5Lya5Lmg5oOv5YyW77yJCiAgcGFpbiAg6IeC77ya6ZiI5YC85Zu65a6a77yI6LGB5YWN5Lmg5oOv5YyW77yJCuS4pOadoeS7tu+8mgogIEEg5pyJ5a6z5oyB57ut77yIY3B1IDMsIGR3YWl0fjEybXPvvIkKICBCIOaXoOWus+aMgee7re+8iGNwdSAxLCBkd2FpdH4wLjA1bXPvvIkKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uLCB0aW1lCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCmZyb20gaGFybmVzcyBpbXBvcnQgd29yaywgc3Bhd25fY3B1X2J1c3ksIGtpbGxhbGwKCk4gPSAyNApBTFBIQSA9IDAuMjUgICAgICAjIOmYiOWAvOi/vei4qumAn+eOhwpNQVJHSU4gPSAxLjUgICAgICAjIOmYiOWAvOS9memHjyhtcykKRklYX1RIUiA9IDEuMCAgICAgIyDlm7rlrprpmIjlgLwobXMp77ya5Z+657q/5LmL5LiK44CB5peg5a6z5LmL5LiLCgoKZGVmIHNjaGVkX3dhaXRfY3VtKCk6CiAgICByZXR1cm4gaW50KG9wZW4oIi9wcm9jL3NlbGYvc2NoZWRzdGF0IikucmVhZCgpLnNwbGl0KClbMV0pCgoKb3V0ID0ge30KZm9yIGNvbmQsIGx2bCBpbiBbKCJBX2h1cnRmdWwiLCAzKSwgKCJCX2hhcm1sZXNzIiwgMSldOgogICAgcGlkcyA9IHNwYXduX2NwdV9idXN5KGx2bCkKICAgIHRpbWUuc2xlZXAoMC4zKQogICAgdGhyX2ggPSBGSVhfVEhSCiAgICByZWFkcywgZmlyZV9oLCBmaXJlX3AgPSBbXSwgW10sIFtdCiAgICBmb3IgaSBpbiByYW5nZShOKToKICAgICAgICB3MCA9IHNjaGVkX3dhaXRfY3VtKCkKICAgICAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICB3b3JrKCkKICAgICAgICBsYXQgPSB0aW1lLnBlcmZfY291bnRlcigpIC0gdDAKICAgICAgICBkdyA9IChzY2hlZF93YWl0X2N1bSgpIC0gdzApIC8gMWU2CiAgICAgICAgcmVhZHMuYXBwZW5kKGR3KQogICAgICAgICMgcGFpbiDoh4LvvJrlm7rlrprpmIjlgLwKICAgICAgICBmaXJlX3AuYXBwZW5kKDEgaWYgZHcgPiBGSVhfVEhSIGVsc2UgMCkKICAgICAgICAjIGhhYml0IOiHgu+8mumYiOWAvOi/vei4qgogICAgICAgIGZpcmVfaC5hcHBlbmQoMSBpZiBkdyA+IHRocl9oICsgTUFSR0lOIGVsc2UgMCkKICAgICAgICB0aHJfaCA9IEFMUEhBICogdGhyX2ggKyAoMSAtIEFMUEhBKSAqIGR3CiAgICBraWxsYWxsKHBpZHMpCiAgICB0aW1lLnNsZWVwKDAuMykKICAgIG91dFtjb25kXSA9IHsicmVhZHMiOiByZWFkcywgImZpcmVfaGFiaXQiOiBmaXJlX2gsICJmaXJlX3BhaW4iOiBmaXJlX3AsCiAgICAgICAgICAgICAgICAgImxhdF9tcyI6IGxhdCAqIDEwMDAsICJ0aHJfZW5kIjogdGhyX2h9Cgpqc29uLmR1bXAob3V0LCBvcGVuKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICJzMS5qc29uIiksICJ3IikpCgpmb3IgY29uZCBpbiBvdXQ6CiAgICByID0gb3V0W2NvbmRdCiAgICBoLCBwID0gclsiZmlyZV9oYWJpdCJdLCByWyJmaXJlX3BhaW4iXQogICAgcSA9IE4gLy8gNAogICAgcHJpbnQoZiJcbj09IHtjb25kfSA9PSAgZHdhaXTkuK3kvY09e3NvcnRlZChyWydyZWFkcyddKVtOLy8yXTouM2Z9bXMgICIKICAgICAgICAgIGYi5pyr6ZiI5YC8PXtyWyd0aHJfZW5kJ106LjJmfW1zIikKICAgIHByaW50KGYiICBoYWJpdOiHgiDmo4Dlh7rnjoc6IOWJjTEvNCB7c3VtKGhbOnFdKS9xOi4yZn0g4oaSIOWQjjEvNCB7c3VtKGhbLXE6XSkvcTouMmZ9IikKICAgIHByaW50KGYiICBwYWlu6IeCICDmo4Dlh7rnjoc6IOWJjTEvNCB7c3VtKHBbOnFdKS9xOi4yZn0g4oaSIOWQjjEvNCB7c3VtKHBbLXE6XSkvcTouMmZ9IikKICAgIHByaW50KGYiICBoYWJpdCDpgJDova46IHsnJy5qb2luKHN0cih4KSBmb3IgeCBpbiBoKX0iKQogICAgcHJpbnQoZiIgIHBhaW4gIOmAkOi9rjogeycnLmpvaW4oc3RyKHgpIGZvciB4IGluIHApfSIpCg==
+"""S1 习惯化豁免：疼必须豁免习惯化，代价是慢性误报。
+两臂共用同一次真实采样（dwait_ms），只读出方式不同：
+  habit 臂：阈值指数追踪近期读数（会习惯化）
+  pain  臂：阈值固定（豁免习惯化）
+两条件：
+  A 有害持续（cpu 3, dwait~12ms）
+  B 无害持续（cpu 1, dwait~0.05ms）
+"""
+import os, sys, json, time
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from harness import work, spawn_cpu_busy, killall
+
+N = 24
+ALPHA = 0.25      # 阈值追踪速率
+MARGIN = 1.5      # 阈值余量(ms)
+FIX_THR = 1.0     # 固定阈值(ms)：基线之上、无害之下
+
+
+def sched_wait_cum():
+    return int(open("/proc/self/schedstat").read().split()[1])
+
+
+out = {}
+for cond, lvl in [("A_hurtful", 3), ("B_harmless", 1)]:
+    pids = spawn_cpu_busy(lvl)
+    time.sleep(0.3)
+    thr_h = FIX_THR
+    reads, fire_h, fire_p = [], [], []
+    for i in range(N):
+        w0 = sched_wait_cum()
+        t0 = time.perf_counter()
+        work()
+        lat = time.perf_counter() - t0
+        dw = (sched_wait_cum() - w0) / 1e6
+        reads.append(dw)
+        # pain 臂：固定阈值
+        fire_p.append(1 if dw > FIX_THR else 0)
+        # habit 臂：阈值追踪
+        fire_h.append(1 if dw > thr_h + MARGIN else 0)
+        thr_h = ALPHA * thr_h + (1 - ALPHA) * dw
+    killall(pids)
+    time.sleep(0.3)
+    out[cond] = {"reads": reads, "fire_habit": fire_h, "fire_pain": fire_p,
+                 "lat_ms": lat * 1000, "thr_end": thr_h}
+
+json.dump(out, open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "s1.json"), "w"))
+
+for cond in out:
+    r = out[cond]
+    h, p = r["fire_habit"], r["fire_pain"]
+    q = N // 4
+    print(f"\n== {cond} ==  dwait中位={sorted(r['reads'])[N//2]:.3f}ms  "
+          f"末阈值={r['thr_end']:.2f}ms")
+    print(f"  habit臂 检出率: 前1/4 {sum(h[:q])/q:.2f} → 后1/4 {sum(h[-q:])/q:.2f}")
+    print(f"  pain臂  检出率: 前1/4 {sum(p[:q])/q:.2f} → 后1/4 {sum(p[-q:])/q:.2f}")
+    print(f"  habit 逐轮: {''.join(str(x) for x in h)}")
+    print(f"  pain  逐轮: {''.join(str(x) for x in p)}")

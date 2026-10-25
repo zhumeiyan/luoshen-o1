@@ -1,1 +1,58 @@
-aW1wb3J0IHJhbmRvbSwganNvbiwgc3RhdGlzdGljcyBhcyBzdAoKZGVmIHJ1bihmLCBLLCBUPTQwMCwgcF9kaXM9MC4wMiwgc2VlZHM9MTIsIHNoYXJlPVRydWUsIHByb3RlY3Q9MC4wKToKICAgICIiIgogICAgZjog5o6i57Si6ICF5Y2g5q+UICAgSzog5aSH5Lu954K55pWwCiAgICBzaGFyZT1UcnVlOiDmjqLntKLmiJDmnpzlhajlkZjlhbHkuqso5oqA5pyv5omp5pWjKQogICAgcHJvdGVjdDog5o6i57Si5Luj5Lu356S+5Lya5YyW5q+U5L6LKDA96Ieq5ombLCAxPeWFqOWRmOaRiikKICAgICIiIgogICAgc3VydiwgZml0LCB0ZWNoID0gW10sIFtdLCBbXQogICAgZm9yIHMgaW4gcmFuZ2Uoc2VlZHMpOgogICAgICAgIHIgPSByYW5kb20uUmFuZG9tKHMqMTMxKzcpCiAgICAgICAgTiA9IDIwMAogICAgICAgIG5leCA9IG1heCgxLCBpbnQoTipmKSkKICAgICAgICBhbGl2ZSA9IFRydWUKICAgICAgICB0ZWNoX2xldmVsID0gMS4wICAgICAjIOWOmuWwvuaKgOacr++8muiDvemZjeS9jueBvumavuiHtOatu+eOhwogICAgICAgIHdlYWx0aCA9IDEuMAogICAgICAgIGJhY2t1cHNfYWxpdmUgPSBbVHJ1ZV0qSwogICAgICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgICAgICAjIOaOoue0ouiAhe+8muWwj+amgueOh+WHuuWOmuWwvuaKgOacr++8jOS7o+S7t+iHquaJmygxLXByb3RlY3Qg6YOo5YiGKQogICAgICAgICAgICBmb3IgXyBpbiByYW5nZShuZXggaWYgYWxpdmUgZWxzZSAwKToKICAgICAgICAgICAgICAgIGNvc3QgPSAwLjMwKigxLXByb3RlY3QpCiAgICAgICAgICAgICAgICB3ZWFsdGggLT0gY29zdC9mbG9hdChOKSAgICMg5Luj5Lu3CiAgICAgICAgICAgICAgICBpZiByLnJhbmRvbSgpIDwgMC4wMTI6CiAgICAgICAgICAgICAgICAgICAgdGVjaF9sZXZlbCAqPSAoMSArIHIucGFyZXRvdmFyaWF0ZSgxLjQpLzQuMCkgICMg5Y6a5bC+56qB56C0CiAgICAgICAgICAgIGlmIGFsaXZlOgogICAgICAgICAgICAgICAgd2VhbHRoICs9IDAuMzUqKDEtZikgICAgICAjIOWuiOaIkOS6p+WHugogICAgICAgICAgICAjIOeBvumavgogICAgICAgICAgICBpZiByLnJhbmRvbSgpIDwgcF9kaXM6CiAgICAgICAgICAgICAgICBraWxsX3Byb2IgPSBtYXgoMC4wNSwgMC45NS90ZWNoX2xldmVsKQogICAgICAgICAgICAgICAgaWYgci5yYW5kb20oKSA8IGtpbGxfcHJvYjoKICAgICAgICAgICAgICAgICAgICBhbGl2ZSA9IEZhbHNlCiAgICAgICAgICAgIGlmIG5vdCBhbGl2ZToKICAgICAgICAgICAgICAgIGlmIGFueShiYWNrdXBzX2FsaXZlKToKICAgICAgICAgICAgICAgICAgICBmb3IgaSBpbiByYW5nZShLKToKICAgICAgICAgICAgICAgICAgICAgICAgaWYgYmFja3Vwc19hbGl2ZVtpXSBhbmQgci5yYW5kb20oKSA8IDAuMDI6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYWNrdXBzX2FsaXZlW2ldID0gRmFsc2UKICAgICAgICAgICAgICAgICAgICBpZiBhbnkoYmFja3Vwc19hbGl2ZSk6CiAgICAgICAgICAgICAgICAgICAgICAgIGFsaXZlID0gVHJ1ZSAgICAgIyDku47lpIfku73mgaLlpI0KICAgICAgICAgICAgICAgICAgICAgICAgd2VhbHRoICo9IDAuNAogICAgICAgIHN1cnYuYXBwZW5kKDEuMCBpZiBhbGl2ZSBlbHNlIDAuMCkKICAgICAgICBmaXQuYXBwZW5kKHdlYWx0aCkKICAgICAgICB0ZWNoLmFwcGVuZCh0ZWNoX2xldmVsKQogICAgcmV0dXJuIGRpY3Qoc3Vydj1zdC5tZWFuKHN1cnYpLCBmaXQ9c3QubWVhbihmaXQpLCB0ZWNoPXN0Lm1lYW4odGVjaCkpCgpvdXQgPSB7fQojIDEpIOaOoue0ouiAheavlOS+i+aJq+aPjyAoSz0xKQpwcmludCgiPT0gZiDmiavmj48gKEs9MSwgc2hhcmU9VHJ1ZSkgPT0iKQpmb3IgZiBpbiBbMC4wLDAuMDIsMC4wNSwwLjEwLDAuMjAsMC4zNSwwLjUwLDAuODAsMS4wXToKICAgIG8gPSBydW4oZiwgMSk7IG91dFsnZj0lLjJmJyVmXT17J3N1cnYnOnJvdW5kKG9bJ3N1cnYnXSwzKSwnZml0Jzpyb3VuZChvWydmaXQnXSwyKSwndGVjaCc6cm91bmQob1sndGVjaCddLDIpfQogICAgcHJpbnQoIiBmPSUuMmYgIHN1cnY9JS4zZiAgZml0PSUuMmYgIHRlY2g9JS4yZiIlKGYsb1snc3VydiddLG9bJ2ZpdCddLG9bJ3RlY2gnXSkpCgojIDIpIOWkh+S7veaVsOaJq+aPjyAoZj0wLjEwKQpwcmludCgiPT0gSyDmiavmj48gKGY9MC4xMCkgPT0iKQpmb3IgSyBpbiBbMCwxLDIsMyw1LDgsMTJdOgogICAgbyA9IHJ1bigwLjEwLCBLKTsgb3V0WydLPSVkJyVLXT17J3N1cnYnOnJvdW5kKG9bJ3N1cnYnXSwzKSwnZml0Jzpyb3VuZChvWydmaXQnXSwyKX0KICAgIHByaW50KCIgSz0lZCAgc3Vydj0lLjNmICBmaXQ9JS4yZiIlKEssb1snc3VydiddLG9bJ2ZpdCddKSkKCmpzb24uZHVtcChvdXQsIG9wZW4oJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDIzM19jaXZpbGl6YXRpb24vcmVzdWx0MjMzYS5qc29uJywndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+import random, json, statistics as st
+
+def run(f, K, T=400, p_dis=0.02, seeds=12, share=True, protect=0.0):
+    """
+    f: 探索者占比   K: 备份点数
+    share=True: 探索成果全员共享(技术扩散)
+    protect: 探索代价社会化比例(0=自扛, 1=全员摊)
+    """
+    surv, fit, tech = [], [], []
+    for s in range(seeds):
+        r = random.Random(s*131+7)
+        N = 200
+        nex = max(1, int(N*f))
+        alive = True
+        tech_level = 1.0     # 厚尾技术：能降低灾难致死率
+        wealth = 1.0
+        backups_alive = [True]*K
+        for t in range(T):
+            # 探索者：小概率出厚尾技术，代价自扛(1-protect 部分)
+            for _ in range(nex if alive else 0):
+                cost = 0.30*(1-protect)
+                wealth -= cost/float(N)   # 代价
+                if r.random() < 0.012:
+                    tech_level *= (1 + r.paretovariate(1.4)/4.0)  # 厚尾突破
+            if alive:
+                wealth += 0.35*(1-f)      # 守成产出
+            # 灾难
+            if r.random() < p_dis:
+                kill_prob = max(0.05, 0.95/tech_level)
+                if r.random() < kill_prob:
+                    alive = False
+            if not alive:
+                if any(backups_alive):
+                    for i in range(K):
+                        if backups_alive[i] and r.random() < 0.02:
+                            backups_alive[i] = False
+                    if any(backups_alive):
+                        alive = True     # 从备份恢复
+                        wealth *= 0.4
+        surv.append(1.0 if alive else 0.0)
+        fit.append(wealth)
+        tech.append(tech_level)
+    return dict(surv=st.mean(surv), fit=st.mean(fit), tech=st.mean(tech))
+
+out = {}
+# 1) 探索者比例扫描 (K=1)
+print("== f 扫描 (K=1, share=True) ==")
+for f in [0.0,0.02,0.05,0.10,0.20,0.35,0.50,0.80,1.0]:
+    o = run(f, 1); out['f=%.2f'%f]={'surv':round(o['surv'],3),'fit':round(o['fit'],2),'tech':round(o['tech'],2)}
+    print(" f=%.2f  surv=%.3f  fit=%.2f  tech=%.2f"%(f,o['surv'],o['fit'],o['tech']))
+
+# 2) 备份数扫描 (f=0.10)
+print("== K 扫描 (f=0.10) ==")
+for K in [0,1,2,3,5,8,12]:
+    o = run(0.10, K); out['K=%d'%K]={'surv':round(o['surv'],3),'fit':round(o['fit'],2)}
+    print(" K=%d  surv=%.3f  fit=%.2f"%(K,o['surv'],o['fit']))
+
+json.dump(out, open('/data/workspace/luoshen-o1/experiments/exp233_civilization/result233a.json','w'), ensure_ascii=False, indent=1)

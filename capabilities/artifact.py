@@ -1,1 +1,98 @@
-IiIiQXJ0aWZhY3Qg4oCUIOaJgOacieaooeaAgeS6p+eJqeeahOe7n+S4gOWuueWZqOOAggoK5Li65LuA5LmI6KaB57uf5LiA5a655ZmoCi0tLS0tLS0tLS0tLS0tLS0K5aaC5p6c5LiN57uf5LiA77yM5q+P5Liq5qih5oCB5ZCE5pyJ5ZCE55qE6L+U5Zue57G75Z6L77yM6LCD55So5pa55bCx6KaB5Li65q+P5Liq5qih5oCB5YaZ5LiA5aWXCiLmlofku7blnKjlk6ogLyDmiJDlip/kuobmsqEgLyDmgI7kuYjliKTlrpoi44CC6ICM5Yik5a6a5bGC6KaB6IO96Leo5qih5oCB5aSN55So77yM5bCx5b+F6aG75YWI5pyJCuS4gOS4quaJgOacieaooeaAgemDvemBteWuiOeahOW9oueKtuOAggoK6K6+6K6h5LiK5Yi75oSP5YGa5LqG5Lik5Lu25LqL77yaCgoxLiAqKuS6p+eJqeS4juWIpOWumuWIhuemu+OAgioqIGBBcnRpZmFjdGAg5Y+q5o+P6L+wIuS6p+WHuuS6huS7gOS5iCLvvIzlrozlhajkuI3nn6XpgZPoh6rlt7EKICAg5ZCI5LiN5ZCI5qC844CC5Yik5a6a5pivIGB2ZXJpZnlgIOaooeWdl+WvueS6p+eJqeWBmueahOS6i++8jOS4jeaYr+S6p+eJqeiHquW4pueahOWxnuaAp+OAggogICDov5nmoLci55Sf5oiQ5bGC6Ieq5bex57uZ6Ieq5bex5Y+R5ZCI5qC86K+BIui/meadoei3r+iiq+Wgteatu+S6huOAggoKMi4gKipgbWV0YWAg5piv55Sf5oiQ5pe255qE6L6T5YWl77yMYHByb2JlZGAg5piv5Yik5a6a6K+75Ye65p2l55qE5LqL5a6e44CCKiog5Lik6ICF5YiG5byA5a2Y44CCCiAgIOWIpOWumuWxguWPquivu+WQjuiAheOAgui/meadoeaYr+WIpOWumuWxguiDveaIkOeri+eahOWJjeaPkOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IG9zCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IEFueQoKCmNsYXNzIEtpbmQ6CiAgICBJTUFHRSA9ICJpbWFnZSIKICAgIFZJREVPID0gInZpZGVvIgogICAgQVVESU8gPSAiYXVkaW8iCiAgICBURVhUID0gInRleHQiCgoKQGRhdGFjbGFzcwpjbGFzcyBWZXJkaWN0OgogICAgIiIi5LiA5qyh5Yik5a6a55qE57uT5p6c44CCCgogICAgYG9rYCDmmK/nu5kgQ0kg55So55qE5biD5bCU77ybYG1ldHJpY3NgIOaYr+e7meS6uueUqOeahOivgeaNruOAguS4pOiAhee8uuS4gOS4jeWPr++8mgogICAg5Y+q5pyJ5biD5bCU77yM5aSx6LSl5pe25peg5rOV5a6a5L2N77yb5Y+q5pyJ5oyH5qCH77yM5peg5rOV5b2T5Yik5o2u55So44CCCiAgICAiIiIKICAgIGtpbmQ6IHN0cgogICAgb2s6IGJvb2wKICAgIG1ldHJpY3M6IGRpY3QgPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9ZGljdCkKICAgIHJlYXNvbnM6IGxpc3QgPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKCiAgICBkZWYgcmVwb3J0KHNlbGYpIC0+IHN0cjoKICAgICAgICBoZWFkID0gZiJbe3NlbGYua2luZH1dIHsnT0snIGlmIHNlbGYub2sgZWxzZSAnRkFJTCd9IgogICAgICAgIG1zID0gIiAgIi5qb2luKGYie2t9PXt2fSIgZm9yIGssIHYgaW4gc2VsZi5tZXRyaWNzLml0ZW1zKCkpCiAgICAgICAgb3V0ID0gW2Yie2hlYWR9ICB7bXN9Il0KICAgICAgICBvdXQgKz0gW2YiICAgIC0ge3J9IiBmb3IgciBpbiBzZWxmLnJlYXNvbnNdCiAgICAgICAgcmV0dXJuICJcbiIuam9pbihvdXQpCgogICAgZGVmIHRvX2RpY3Qoc2VsZikgLT4gZGljdDoKICAgICAgICByZXR1cm4geyJraW5kIjogc2VsZi5raW5kLCAib2siOiBzZWxmLm9rLAogICAgICAgICAgICAgICAgIm1ldHJpY3MiOiBzZWxmLm1ldHJpY3MsICJyZWFzb25zIjogc2VsZi5yZWFzb25zfQoKCkBkYXRhY2xhc3MKY2xhc3MgQXJ0aWZhY3Q6CiAgICAiIiLkuIDkuKrlt7LokL3nm5jnmoTkuqfnianjgIIiIiIKICAgIGtpbmQ6IHN0cgogICAgcGF0aDogc3RyCiAgICAjOiDnlJ/miJDml7bnmoTovpPlhaXorrDlvZXjgILliKTlrprlsYIqKuS4jeiuuCoq6K+76L+Z5Liq5a2X5q6144CCCiAgICBtZXRhOiBkaWN0ID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWRpY3QpCiAgICAjOiDliKTlrprlsYLor7vlh7rmnaXnmoTkuovlrp7vvIznlLEgdmVyaWZ5IOaooeWdl+WbnuWhq+OAggogICAgcHJvYmVkOiBkaWN0ID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWRpY3QpCgogICAgQHByb3BlcnR5CiAgICBkZWYgZXhpc3RzKHNlbGYpIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIG9zLnBhdGguZXhpc3RzKHNlbGYucGF0aCkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBzaXplKHNlbGYpIC0+IGludDoKICAgICAgICByZXR1cm4gb3MucGF0aC5nZXRzaXplKHNlbGYucGF0aCkgaWYgc2VsZi5leGlzdHMgZWxzZSAwCgogICAgQHByb3BlcnR5CiAgICBkZWYgc2hhMjU2KHNlbGYpIC0+IHN0cjoKICAgICAgICBpZiBub3Qgc2VsZi5leGlzdHM6CiAgICAgICAgICAgIHJldHVybiAiIgogICAgICAgIGggPSBoYXNobGliLnNoYTI1NigpCiAgICAgICAgd2l0aCBvcGVuKHNlbGYucGF0aCwgInJiIikgYXMgZmg6CiAgICAgICAgICAgIGZvciBjaHVuayBpbiBpdGVyKGxhbWJkYTogZmgucmVhZCgxIDw8IDE2KSwgYiIiKToKICAgICAgICAgICAgICAgIGgudXBkYXRlKGNodW5rKQogICAgICAgIHJldHVybiBoLmhleGRpZ2VzdCgpCgogICAgQHByb3BlcnR5CiAgICBkZWYgZXh0KHNlbGYpIC0+IHN0cjoKICAgICAgICByZXR1cm4gb3MucGF0aC5zcGxpdGV4dChzZWxmLnBhdGgpWzFdLmxzdHJpcCgiLiIpLmxvd2VyKCkKCiAgICBkZWYgdG9fZGljdChzZWxmKSAtPiBkaWN0OgogICAgICAgIHJldHVybiB7ImtpbmQiOiBzZWxmLmtpbmQsICJwYXRoIjogc2VsZi5wYXRoLCAiZXhpc3RzIjogc2VsZi5leGlzdHMsCiAgICAgICAgICAgICAgICAic2l6ZSI6IHNlbGYuc2l6ZSwgInNoYTI1NiI6IHNlbGYuc2hhMjU2WzoxNl0sCiAgICAgICAgICAgICAgICAiZXh0Ijogc2VsZi5leHQsICJtZXRhIjogc2VsZi5tZXRhLCAicHJvYmVkIjogc2VsZi5wcm9iZWR9CgoKZGVmIHZlcmRpY3Qoa2luZDogc3RyLCBvazogYm9vbCwgbWV0cmljczogZGljdCB8IE5vbmUgPSBOb25lLAogICAgICAgICAgICByZWFzb25zOiBsaXN0IHwgTm9uZSA9IE5vbmUpIC0+IFZlcmRpY3Q6CiAgICByZXR1cm4gVmVyZGljdChraW5kPWtpbmQsIG9rPWJvb2wob2spLCBtZXRyaWNzPW1ldHJpY3Mgb3Ige30sCiAgICAgICAgICAgICAgICAgICByZWFzb25zPWxpc3QocmVhc29ucyBvciBbXSkpCg==
+"""Artifact — 所有模态产物的统一容器。
+
+为什么要统一容器
+----------------
+如果不统一，每个模态各有各的返回类型，调用方就要为每个模态写一套
+"文件在哪 / 成功了没 / 怎么判定"。而判定层要能跨模态复用，就必须先有
+一个所有模态都遵守的形状。
+
+设计上刻意做了两件事：
+
+1. **产物与判定分离。** `Artifact` 只描述"产出了什么"，完全不知道自己
+   合不合格。判定是 `verify` 模块对产物做的事，不是产物自带的属性。
+   这样"生成层自己给自己发合格证"这条路被堵死了。
+
+2. **`meta` 是生成时的输入，`probed` 是判定读出来的事实。** 两者分开存。
+   判定层只读后者。这条是判定层能成立的前提。
+"""
+from __future__ import annotations
+
+import hashlib
+import os
+from dataclasses import dataclass, field
+from typing import Any
+
+
+class Kind:
+    IMAGE = "image"
+    VIDEO = "video"
+    AUDIO = "audio"
+    TEXT = "text"
+
+
+@dataclass
+class Verdict:
+    """一次判定的结果。
+
+    `ok` 是给 CI 用的布尔；`metrics` 是给人用的证据。两者缺一不可：
+    只有布尔，失败时无法定位；只有指标，无法当判据用。
+    """
+    kind: str
+    ok: bool
+    metrics: dict = field(default_factory=dict)
+    reasons: list = field(default_factory=list)
+
+    def report(self) -> str:
+        head = f"[{self.kind}] {'OK' if self.ok else 'FAIL'}"
+        ms = "  ".join(f"{k}={v}" for k, v in self.metrics.items())
+        out = [f"{head}  {ms}"]
+        out += [f"    - {r}" for r in self.reasons]
+        return "\n".join(out)
+
+    def to_dict(self) -> dict:
+        return {"kind": self.kind, "ok": self.ok,
+                "metrics": self.metrics, "reasons": self.reasons}
+
+
+@dataclass
+class Artifact:
+    """一个已落盘的产物。"""
+    kind: str
+    path: str
+    #: 生成时的输入记录。判定层**不许**读这个字段。
+    meta: dict = field(default_factory=dict)
+    #: 判定层读出来的事实，由 verify 模块回填。
+    probed: dict = field(default_factory=dict)
+
+    @property
+    def exists(self) -> bool:
+        return os.path.exists(self.path)
+
+    @property
+    def size(self) -> int:
+        return os.path.getsize(self.path) if self.exists else 0
+
+    @property
+    def sha256(self) -> str:
+        if not self.exists:
+            return ""
+        h = hashlib.sha256()
+        with open(self.path, "rb") as fh:
+            for chunk in iter(lambda: fh.read(1 << 16), b""):
+                h.update(chunk)
+        return h.hexdigest()
+
+    @property
+    def ext(self) -> str:
+        return os.path.splitext(self.path)[1].lstrip(".").lower()
+
+    def to_dict(self) -> dict:
+        return {"kind": self.kind, "path": self.path, "exists": self.exists,
+                "size": self.size, "sha256": self.sha256[:16],
+                "ext": self.ext, "meta": self.meta, "probed": self.probed}
+
+
+def verdict(kind: str, ok: bool, metrics: dict | None = None,
+            reasons: list | None = None) -> Verdict:
+    return Verdict(kind=kind, ok=bool(ok), metrics=metrics or {},
+                   reasons=list(reasons or []))

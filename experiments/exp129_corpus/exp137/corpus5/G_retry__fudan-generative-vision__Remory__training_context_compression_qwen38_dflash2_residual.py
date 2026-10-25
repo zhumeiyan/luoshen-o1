@@ -1,1 +1,190 @@
-IiIiU3VtbWFyeS1jb25kaXRpb25lZCByZXNpZHVhbCBjb21wcmVzc29yOyByZXBlYXQgYmFja2JvbmUga2V5cyBzdGF5IHVuY2hhbmdlZC4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBtYXRoCgppbXBvcnQgdG9yY2gKZnJvbSB0b3JjaCBpbXBvcnQgbm4KZnJvbSB0b3JjaC5ubiBpbXBvcnQgZnVuY3Rpb25hbCBhcyBGCmZyb20gdG9yY2gudXRpbHMuY2hlY2twb2ludCBpbXBvcnQgY2hlY2twb2ludApmcm9tIHRyYW5zZm9ybWVycy5tb2RlbHMucXdlbjMubW9kZWxpbmdfcXdlbjMgaW1wb3J0IFF3ZW4zUk1TTm9ybQoKZnJvbSBjb250ZXh0X2NvbXByZXNzaW9uLmdyZXBzZWVrX21vZGVsaW5nIGltcG9ydCAoCiAgICBDb21wcmVzc2VkQ29udGV4dE91dHB1dCwKICAgIEdyZXBTZWVrREZsYXNoQ29tcHJlc3NvciwKICAgIGJ1aWxkX2xvY2FsX2NvbXByZXNzaW9uX2xheW91dCwKKQoKCmZyb20gY29udGV4dF9jb21wcmVzc2lvbi5xd2VuMzhfcmVzaWR1YWxfbW9kZWxpbmcgaW1wb3J0IFN1bW1hcnlDcm9zc0F0dGVudGlvbgpmcm9tIGNvbnRleHRfY29tcHJlc3Npb24ucXdlbjM4X2RmbGFzaDJfY29tcHJlc3NvciBpbXBvcnQgREZsYXNoMkNvbXByZXNzb3IsIFRBUkdFVF9MQVlFUl9JRFMKCgpjbGFzcyBERmxhc2gyU3VtbWFyeVJlc2lkdWFsQ29tcHJlc3NvcihERmxhc2gyQ29tcHJlc3Nvcik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsIG1heF9kZXB0aD04LCBzdW1tYXJ5X2dhdGVfaW5pdD0xZS0zLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCiAgICAgICAgaWYgbWF4X2RlcHRoIDwgMSBvciBub3QgbWF0aC5pc2Zpbml0ZShzdW1tYXJ5X2dhdGVfaW5pdCk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImludmFsaWQgcmVzaWR1YWwgZGVwdGgvZ2F0ZSIpCiAgICAgICAgaWYgZmxvYXQoZ2V0YXR0cihzZWxmLmNvbmZpZywgImF0dGVudGlvbl9kcm9wb3V0IiwgMCkpICE9IDA6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImRldGFjaGVkIGZyb250aWVyIFZKUCByZXBsYXkgcmVxdWlyZXMgZHJvcG91dD0wIikKICAgICAgICBzZWxmLm1heF9kZXB0aCA9IGludChtYXhfZGVwdGgpCiAgICAgICAgc2VsZi5zdW1tYXJ5X2dhdGVfaW5pdCA9IGZsb2F0KHN1bW1hcnlfZ2F0ZV9pbml0KQogICAgICAgIHNlbGYuc3VtbWFyeV9hdHRlbnRpb24gPSBubi5Nb2R1bGVMaXN0KFsKICAgICAgICAgICAgU3VtbWFyeUNyb3NzQXR0ZW50aW9uKHNlbGYuY29uZmlnLCBzdW1tYXJ5X2dhdGVfaW5pdCkgZm9yIF8gaW4gc2VsZi5sYXllcnNbOi0xXQogICAgICAgIF0pCiAgICAgICAgc2VsZi5zdW1tYXJ5X2F0dGVudGlvbi5hcHBseSgKICAgICAgICAgICAgbGFtYmRhIG1vZHVsZTogc2VsZi5faW5pdGlhbGl6ZV9tb2R1bGUobW9kdWxlLCBzZWxmLmNvbmZpZy5pbml0aWFsaXplcl9yYW5nZSkKICAgICAgICApCiAgICAgICAgIyBEZXB0aCBkZW5vdGVzIElOUFVUIGRlcHRoOiByYXc9MCwgZmlyc3QtZ2VuZXJhdGlvbiBzb2Z0IHRva2Vucz0xLCAuLi4KICAgICAgICBzZWxmLmRlcHRoX2VtYmVkZGluZyA9IG5uLkVtYmVkZGluZyhtYXhfZGVwdGgsIHNlbGYuY29uZmlnLmhpZGRlbl9zaXplKQogICAgICAgIG5uLmluaXQuemVyb3NfKHNlbGYuZGVwdGhfZW1iZWRkaW5nLndlaWdodCkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgaXNfbmV3X3BhcmFtZXRlcihuYW1lKToKICAgICAgICByZXR1cm4gbmFtZS5zdGFydHN3aXRoKCgic3VtbWFyeV9hdHRlbnRpb24uIiwgImRlcHRoX2VtYmVkZGluZy4iKSkKCiAgICBkZWYgbG9hZF9yZXBlYXRfc3RhdGUoc2VsZiwgc3RhdGUpOgogICAgICAgIGV4cGVjdGVkID0ge2sgZm9yIGsgaW4gc2VsZi5zdGF0ZV9kaWN0KCkgaWYgbm90IHNlbGYuaXNfbmV3X3BhcmFtZXRlcihrKX0KICAgICAgICBpZiBzZXQoc3RhdGUpICE9IGV4cGVjdGVkOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYicmVwZWF0IHN0YXRlIGtleXMgZGlmZmVyOiBtaXNzaW5nPXtleHBlY3RlZC1zZXQoc3RhdGUpfSwgZXh0cmE9e3NldChzdGF0ZSktZXhwZWN0ZWR9IikKICAgICAgICByZXN1bHQgPSBzZWxmLmxvYWRfc3RhdGVfZGljdChzdGF0ZSwgc3RyaWN0PUZhbHNlKQogICAgICAgIGlmIHJlc3VsdC51bmV4cGVjdGVkX2tleXMgb3IgYW55KG5vdCBzZWxmLmlzX25ld19wYXJhbWV0ZXIoaykgZm9yIGsgaW4gcmVzdWx0Lm1pc3Npbmdfa2V5cyk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIm5vbi1yZXNpZHVhbCBwYXJhbWV0ZXJzIG1pc3NpbmcgZnJvbSByZXBlYXQgaW5pdGlhbGl6YXRpb24iKQogICAgICAgIHJldHVybiByZXN1bHQKCiAgICBkZWYgZXhwb3J0X2NvbmZpZyhzZWxmKToKICAgICAgICByZXR1cm4geyoqc3VwZXIoKS5leHBvcnRfY29uZmlnKCksICJhcmNoaXRlY3R1cmUiOiAiREZsYXNoMlN1bW1hcnlSZXNpZHVhbENvbXByZXNzb3IiLCAibWF4X2RlcHRoIjogc2VsZi5tYXhfZGVwdGgsCiAgICAgICAgICAgICAgICAic3VtbWFyeV9nYXRlX2luaXQiOiBzZWxmLnN1bW1hcnlfZ2F0ZV9pbml0LAogICAgICAgICAgICAgICAgInN1bW1hcnlfY29uZGl0aW9uaW5nIjogImluZGVwZW5kZW50X3Nsb3RfUV9zdW1tYXJ5X0tWX2FmdGVyX3NvdXJjZV9hdHRlbnRpb24iLAogICAgICAgICAgICAgICAgImRlcHRoX2Nvb3JkaW5hdGUiOiAiaW5wdXRfZGVwdGhfcmF3X2lzX3plcm8ifQoKICAgIGRlZiBmb3J3YXJkKHNlbGYsIHNvdXJjZV9mZWF0dXJlcywgc291cmNlX2F0dGVudGlvbl9tYXNrLCBzb3VyY2VfdG9rZW5fbGVuZ3Rocz1Ob25lLAogICAgICAgICAgICAgICAgc2xvdF90b2tlbl9sZW5ndGhzPU5vbmUsICosIHN1bW1hcnlfZmVhdHVyZXMsIHN1bW1hcnlfYXR0ZW50aW9uX21hc2ssCiAgICAgICAgICAgICAgICBpbnB1dF9kZXB0aD0wKToKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShpbnB1dF9kZXB0aCwgaW50KSBvciBub3QgMCA8PSBpbnB1dF9kZXB0aCA8IHNlbGYubWF4X2RlcHRoOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJpbnB1dCBkZXB0aCBleGNlZWRzIGNvbmZpZ3VyZWQgcmVzaWR1YWwgcHlyYW1pZCIpCiAgICAgICAgd2lkdGggPSBsZW4oc2VsZi50YXJnZXRfbGF5ZXJfaWRzKSAqIHNlbGYudGFyZ2V0X2hpZGRlbl9zaXplCiAgICAgICAgaWYgc291cmNlX2ZlYXR1cmVzLm5kaW0gIT0gMyBvciBzb3VyY2VfZmVhdHVyZXMuc2hhcGVbLTFdICE9IHdpZHRoOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJpbnZhbGlkIHJlc2lkdWFsIHNvdXJjZSBmZWF0dXJlcyIpCiAgICAgICAgaWYgc291cmNlX2F0dGVudGlvbl9tYXNrLnNoYXBlICE9IHNvdXJjZV9mZWF0dXJlcy5zaGFwZVs6Ml06CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInNvdXJjZSBtYXNrIHNoYXBlIG1pc21hdGNoIikKICAgICAgICBpZiAoc3VtbWFyeV9mZWF0dXJlcy5uZGltICE9IDMgb3Igc3VtbWFyeV9mZWF0dXJlcy5zaGFwZVswXSAhPSBzb3VyY2VfZmVhdHVyZXMuc2hhcGVbMF0KICAgICAgICAgICAgICAgIG9yIHN1bW1hcnlfZmVhdHVyZXMuc2hhcGVbLTFdICE9IHNlbGYudGFyZ2V0X2hpZGRlbl9zaXplCiAgICAgICAgICAgICAgICBvciBzdW1tYXJ5X2F0dGVudGlvbl9tYXNrLnNoYXBlICE9IHN1bW1hcnlfZmVhdHVyZXMuc2hhcGVbOjJdCiAgICAgICAgICAgICAgICBvciBzdW1tYXJ5X2F0dGVudGlvbl9tYXNrLmR0eXBlICE9IHRvcmNoLmJvb2wKICAgICAgICAgICAgICAgIG9yIG5vdCBib29sKHN1bW1hcnlfYXR0ZW50aW9uX21hc2suYW55KC0xKS5hbGwoKSkpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJlYWNoIHNvdXJjZSBuZWVkcyBhIG5vbmVtcHR5IHN1bW1hcnkgd2l0aCBhIGJvb2xlYW4gbWFzayIpCiAgICAgICAgZmVhdHVyZXMgPSBzb3VyY2VfZmVhdHVyZXMuZGV0YWNoKCkudG8oc2VsZi5mYy53ZWlnaHQpCiAgICAgICAgc3RyZWFtX3N1bW1hcnkgPSAobm90IHNlbGYudHJhaW5pbmcgYW5kIG5vdCB0b3JjaC5pc19ncmFkX2VuYWJsZWQoKQogICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBzdW1tYXJ5X2ZlYXR1cmVzLmRldmljZS50eXBlID09ICJjcHUiIGFuZCBzdW1tYXJ5X2ZlYXR1cmVzLnNoYXBlWzFdID4gNDA5NikKICAgICAgICBzdW1tYXJ5ID0gKHN1bW1hcnlfZmVhdHVyZXMuZGV0YWNoKCkudG8oZHR5cGU9c2VsZi5mYy53ZWlnaHQuZHR5cGUpIGlmIHN0cmVhbV9zdW1tYXJ5CiAgICAgICAgICAgICAgICAgICBlbHNlIHN1bW1hcnlfZmVhdHVyZXMuZGV0YWNoKCkudG8oc2VsZi5mYy53ZWlnaHQpKQogICAgICAgIG1hc2sgPSBzdW1tYXJ5X2F0dGVudGlvbl9tYXNrLnRvKHN1bW1hcnkuZGV2aWNlKQogICAgICAgIGxheW91dCA9IGJ1aWxkX2xvY2FsX2NvbXByZXNzaW9uX2xheW91dCgKICAgICAgICAgICAgc291cmNlX2F0dGVudGlvbl9tYXNrLCBjb21wcmVzc2lvbl9yYXRpbz1zZWxmLmNvbXByZXNzaW9uX3JhdGlvLAogICAgICAgICAgICBsb2NhbF93aW5kb3c9c2VsZi5sb2NhbF93aW5kb3csIHNvdXJjZV90b2tlbl9sZW5ndGhzPXNvdXJjZV90b2tlbl9sZW5ndGhzLAogICAgICAgICAgICBzbG90X3Rva2VuX2xlbmd0aHM9c2xvdF90b2tlbl9sZW5ndGhzLAogICAgICAgICkKICAgICAgICBiLCBzbG90cyA9IGxheW91dC5zbG90X2F0dGVudGlvbl9tYXNrLnNoYXBlCiAgICAgICAgaWYgbm90IHNsb3RzOgogICAgICAgICAgICByZXR1cm4gQ29tcHJlc3NlZENvbnRleHRPdXRwdXQoZmVhdHVyZXMubmV3X3plcm9zKGIsIDAsIHNlbGYudGFyZ2V0X2hpZGRlbl9zaXplKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheW91dC5zbG90X2F0dGVudGlvbl9tYXNrLCBsYXlvdXQuc2xvdF9jb3VudHMpCiAgICAgICAgc291cmNlID0gc2VsZi5oaWRkZW5fbm9ybShzZWxmLmZjKGZlYXR1cmVzKSkKICAgICAgICBoaWRkZW4gPSBzZWxmLm1hc2tfZW1iZWRkaW5nLmV4cGFuZChiLCBzbG90cywgLTEpICsgc2VsZi5kZXB0aF9lbWJlZGRpbmcud2VpZ2h0W2lucHV0X2RlcHRoXQogICAgICAgIHNsb3RfY29zLCBzbG90X3NpbiA9IHNlbGYucm90YXJ5X2VtYihoaWRkZW4sIGxheW91dC5zbG90X3Bvc2l0aW9uX2lkcykKICAgICAgICBzb3VyY2VfY29zLCBzb3VyY2Vfc2luID0gc2VsZi5yb3RhcnlfZW1iKHNvdXJjZSwgbGF5b3V0LnNvdXJjZV9wb3NpdGlvbl9pZHMpCiAgICAgICAgcm93cyA9IGxheW91dC5zbG90X2F0dGVudGlvbl9tYXNrLnVuc3F1ZWV6ZSgtMSkKCiAgICAgICAgZGVmIGxvY2FsX2xheWVyKGhpZGRlbiwgc291cmNlLCBzdW1tYXJ5LCBsYXllciwgY3Jvc3MpOgogICAgICAgICAgICByZXNpZHVhbCA9IGhpZGRlbgogICAgICAgICAgICBoaWRkZW4sIGtlcm5lbCA9IGxheWVyLmF0dGVudGlvbl9jb252LnByZXBhcmUobGF5ZXIuaW5wdXRfbGF5ZXJub3JtKGhpZGRlbikpCiAgICAgICAgICAgIGhpZGRlbiA9IGxheWVyLnNlbGZfYXR0bihoaWRkZW4sIHNvdXJjZSwgbGF5b3V0LmxvY2FsX2tlZXBfbWFzaywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNsb3RfY29zLCBzbG90X3Npbiwgc291cmNlX2Nvcywgc291cmNlX3NpbikKICAgICAgICAgICAgaGlkZGVuID0gcmVzaWR1YWwgKyBsYXllci5hdHRlbnRpb25fY29udi5maW5pc2goaGlkZGVuLCBrZXJuZWwpCiAgICAgICAgICAgIGhpZGRlbiA9IGNyb3NzKGhpZGRlbiwgc3VtbWFyeSwgbWFzaywgc3RyZWFtX3N1bW1hcnk9c3RyZWFtX3N1bW1hcnkpCiAgICAgICAgICAgIHJlc2lkdWFsID0gaGlkZGVuCiAgICAgICAgICAgIGhpZGRlbiwga2VybmVsID0gbGF5ZXIubWxwX2NvbnYucHJlcGFyZShsYXllci5wb3N0X2F0dGVudGlvbl9sYXllcm5vcm0oaGlkZGVuKSkKICAgICAgICAgICAgcmV0dXJuIHJlc2lkdWFsICsgbGF5ZXIubWxwX2NvbnYuZmluaXNoKGxheWVyLm1scChoaWRkZW4pLCBrZXJuZWwpCgogICAgICAgIGZvciBsYXllciwgY3Jvc3MgaW4gemlwKHNlbGYubGF5ZXJzWzotMV0sIHNlbGYuc3VtbWFyeV9hdHRlbnRpb24pOgogICAgICAgICAgICAjIEJpbmQgbW9kdWxlcyBhcyBhcmd1bWVudHMsIG5ldmVyIGxhdGUtYmluZCBsb29wIHZhcmlhYmxlcyBpbiBhIGNoZWNrcG9pbnQgY2xvc3VyZS4KICAgICAgICAgICAgaWYgc2VsZi5ncmFkaWVudF9jaGVja3BvaW50aW5nIGFuZCBzZWxmLnRyYWluaW5nIGFuZCB0b3JjaC5pc19ncmFkX2VuYWJsZWQoKToKICAgICAgICAgICAgICAgIGhpZGRlbiA9IGNoZWNrcG9pbnQobG9jYWxfbGF5ZXIsIGhpZGRlbiwgc291cmNlLCBzdW1tYXJ5LCBsYXllciwgY3Jvc3MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZV9yZWVudHJhbnQ9RmFsc2UpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBoaWRkZW4gPSBsb2NhbF9sYXllcihoaWRkZW4sIHNvdXJjZSwgc3VtbWFyeSwgbGF5ZXIsIGNyb3NzKQogICAgICAgICAgICBoaWRkZW4gPSBoaWRkZW4gKiByb3dzCiAgICAgICAgZmluYWxfYXJncyA9IChoaWRkZW4sIE5vbmUsIGxheW91dC5nbG9iYWxfa2VlcF9tYXNrLCBzbG90X2Nvcywgc2xvdF9zaW4sIE5vbmUsIE5vbmUpCiAgICAgICAgaWYgc2VsZi5ncmFkaWVudF9jaGVja3BvaW50aW5nIGFuZCBzZWxmLnRyYWluaW5nIGFuZCB0b3JjaC5pc19ncmFkX2VuYWJsZWQoKToKICAgICAgICAgICAgaGlkZGVuID0gY2hlY2twb2ludChzZWxmLmxheWVyc1stMV0sICpmaW5hbF9hcmdzLCB1c2VfcmVlbnRyYW50PUZhbHNlKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGhpZGRlbiA9IHNlbGYubGF5ZXJzWy0xXSgqZmluYWxfYXJncykKICAgICAgICBlbWJlZGRpbmdzID0gc2VsZi5ub3JtKGhpZGRlbiAqIHJvd3MpICogc2VsZi5vdXRwdXRfZW1iZWRkaW5nX3Jtcy50byhoaWRkZW4pICogcm93cwogICAgICAgIHJldHVybiBDb21wcmVzc2VkQ29udGV4dE91dHB1dChlbWJlZGRpbmdzLCBsYXlvdXQuc2xvdF9hdHRlbnRpb25fbWFzaywgbGF5b3V0LnNsb3RfY291bnRzKQoKCmRlZiBidWlsZF9yZXNpZHVhbChjb25maWdfcGF0aCwgKiwgb3V0cHV0X2VtYmVkZGluZ19ybXMsIGdyYWRpZW50X2NoZWNrcG9pbnRpbmc9RmFsc2UpOgogICAgaW1wb3J0IGpzb24KICAgIGZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAogICAgZnJvbSB0cmFuc2Zvcm1lcnMgaW1wb3J0IFF3ZW4zQ29uZmlnCiAgICBkYXRhID0ganNvbi5sb2FkcyhQYXRoKGNvbmZpZ19wYXRoKS5yZWFkX3RleHQoKSkKICAgIGlmIChkYXRhWydoaWRkZW5fc2l6ZSddLCBkYXRhWydudW1faGlkZGVuX2xheWVycyddLCBkYXRhWydpbnRlcm1lZGlhdGVfc2l6ZSddKSAhPSAoNTEyMCwgNSwgMTc0MDgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ3VuZXhwZWN0ZWQgcHJldHJhaW5lZCBERmxhc2gyIGdlb21ldHJ5JykKICAgIGlmIHR1cGxlKGRhdGFbJ2RmbGFzaF9jb25maWcnXVsndGFyZ2V0X2xheWVyX2lkcyddKSAhPSBUQVJHRVRfTEFZRVJfSURTOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ3VuZXhwZWN0ZWQgREZsYXNoMiBmZWF0dXJlIGxheWVycycpCiAgICBjb25maWcgPSBRd2VuM0NvbmZpZy5mcm9tX2RpY3QoZGF0YSkKICAgIGNvbmZpZy5sYXllcl90eXBlcyA9IFsnc2xpZGluZ19hdHRlbnRpb24nXSAqIDQgKyBbJ2Z1bGxfYXR0ZW50aW9uJ10KICAgIHJldHVybiBERmxhc2gyU3VtbWFyeVJlc2lkdWFsQ29tcHJlc3Nvcihjb25maWcsIHRhcmdldF9oaWRkZW5fc2l6ZT01MTIwLAogICAgICAgIHRhcmdldF9sYXllcl9pZHM9VEFSR0VUX0xBWUVSX0lEUywgb3V0cHV0X2VtYmVkZGluZ19ybXM9b3V0cHV0X2VtYmVkZGluZ19ybXMsCiAgICAgICAgZ3JhZGllbnRfY2hlY2twb2ludGluZz1ncmFkaWVudF9jaGVja3BvaW50aW5nKQoKCmRlZiBsb2FkX3ByZXRyYWluZWRfcmVzaWR1YWwobW9kZWwsIGNoZWNrcG9pbnQsIHRhcmdldF9wYXRoKToKICAgIGZyb20gc2FmZXRlbnNvcnMgaW1wb3J0IHNhZmVfb3BlbgogICAgZnJvbSBjb250ZXh0X2NvbXByZXNzaW9uLnF3ZW4zOF9kZmxhc2gyX2NvbXByZXNzb3IgaW1wb3J0IFNFTEVDVE9SX0tFWVMsIGxvYWRfdGFyZ2V0X21hc2tfZW1iZWRkaW5nCiAgICBvd24gPSBtb2RlbC5zdGF0ZV9kaWN0KCkKICAgIGV4cGVjdGVkID0ge2sgZm9yIGsgaW4gb3duIGlmIG5vdCBtb2RlbC5pc19uZXdfcGFyYW1ldGVyKGspfSAtIHsnbWFza19lbWJlZGRpbmcnLCAnb3V0cHV0X2VtYmVkZGluZ19ybXMnfQogICAgbG9hZGVkID0gW10KICAgIHdpdGggc2FmZV9vcGVuKHN0cihjaGVja3BvaW50KSwgZnJhbWV3b3JrPSdwdCcsIGRldmljZT0nY3B1JykgYXMgc291cmNlOgogICAgICAgIGtleXMgPSBzZXQoc291cmNlLmtleXMoKSkKICAgICAgICBpZiBrZXlzICE9IGV4cGVjdGVkIHwgU0VMRUNUT1JfS0VZUzoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmJ3ByZXRyYWluZWQga2V5cyBkaWZmZXI6IG1pc3Npbmc9e2V4cGVjdGVkLWtleXN9LCBleHRyYT17a2V5cy1leHBlY3RlZC1TRUxFQ1RPUl9LRVlTfScpCiAgICAgICAgd2l0aCB0b3JjaC5ub19ncmFkKCk6CiAgICAgICAgICAgIGZvciBuYW1lIGluIHNvcnRlZChleHBlY3RlZCk6CiAgICAgICAgICAgICAgICB2YWx1ZSA9IHNvdXJjZS5nZXRfdGVuc29yKG5hbWUpCiAgICAgICAgICAgICAgICBpZiB2YWx1ZS5zaGFwZSAhPSBvd25bbmFtZV0uc2hhcGU6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmJ3ByZXRyYWluZWQgc2hhcGUgbWlzbWF0Y2g6IHtuYW1lfScpCiAgICAgICAgICAgICAgICBvd25bbmFtZV0uY29weV8odmFsdWUpCiAgICAgICAgICAgICAgICBpZiBub3QgdG9yY2guZXF1YWwob3duW25hbWVdLCB2YWx1ZS50byhvd25bbmFtZV0pKToKICAgICAgICAgICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoZidwcmV0cmFpbmVkIGNvcHkgbWlzbWF0Y2g6IHtuYW1lfScpCiAgICAgICAgICAgICAgICBsb2FkZWQuYXBwZW5kKGRpY3QobmFtZT1uYW1lLCBwYXJhbWV0ZXJzPXZhbHVlLm51bWVsKCksIHNoYXBlPWxpc3QodmFsdWUuc2hhcGUpKSkKICAgICAgICAgICAgbWFzayA9IGxvYWRfdGFyZ2V0X21hc2tfZW1iZWRkaW5nKHRhcmdldF9wYXRoLCAyNDgwNzApCiAgICAgICAgICAgIG1vZGVsLm1hc2tfZW1iZWRkaW5nLmNvcHlfKG1hc2spCiAgICAgICAgICAgIGlmIG5vdCB0b3JjaC5lcXVhbChtb2RlbC5tYXNrX2VtYmVkZGluZywgbWFzay50byhtb2RlbC5tYXNrX2VtYmVkZGluZykpOgogICAgICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCd0YXJnZXQgbWFzayBlbWJlZGRpbmcgY29weSBtaXNtYXRjaCcpCiAgICByZXR1cm4gZGljdChhbGxfYmFja2JvbmVfdGVuc29yc19sb2FkZWRfZXhhY3RseT1UcnVlLCBsb2FkZWQ9bG9hZGVkLAogICAgICAgIGxvYWRlZF9wYXJhbWV0ZXJzPXN1bSh4WydwYXJhbWV0ZXJzJ10gZm9yIHggaW4gbG9hZGVkKSwKICAgICAgICBleGNsdWRlZD1zb3J0ZWQoU0VMRUNUT1JfS0VZUyksIG1hc2tfZW1iZWRkaW5nX2VxdWFsX3RhcmdldD1UcnVlLAogICAgICAgIG5ld19yZXNpZHVhbF9wYXJhbWV0ZXJzPVtrIGZvciBrIGluIG93biBpZiBtb2RlbC5pc19uZXdfcGFyYW1ldGVyKGspXSwKICAgICAgICBzdGFnZTFfY2hlY2twb2ludF91c2VkPUZhbHNlKQoKCmRlZiBsb2FkX3N0YWdlMV9yZXNpZHVhbChtb2RlbCwgY2hlY2twb2ludCk6CiAgICAiIiJUcmFuc2ZlciB0aGUgY29tcGxldGUgcmVjb25zdHJ1Y3Rpb24gYmFja2JvbmU7IGtlZXAgbmV3IHJlc2lkdWFsIG1vZHVsZXMgZnJlc2guIiIiCiAgICBmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKICAgIGNoZWNrcG9pbnQgPSBQYXRoKGNoZWNrcG9pbnQpCiAgICBzdGF0ZSA9IHRvcmNoLmxvYWQoY2hlY2twb2ludCAvICJtb2RlbC5wdCIsIG1hcF9sb2NhdGlvbj0iY3B1Iiwgd2VpZ2h0c19vbmx5PVRydWUsIG1tYXA9VHJ1ZSkKICAgIHJlc3VsdCA9IG1vZGVsLmxvYWRfcmVwZWF0X3N0YXRlKHN0YXRlKQogICAgb3duID0gbW9kZWwuc3RhdGVfZGljdCgpCiAgICBsb2FkZWQgPSBbXQogICAgZm9yIG5hbWUsIHZhbHVlIGluIHN0YXRlLml0ZW1zKCk6CiAgICAgICAgaWYgbm90IHRvcmNoLmlzZmluaXRlKHZhbHVlKS5hbGwoKSBvciBub3QgdG9yY2guZXF1YWwob3duW25hbWVdLCB2YWx1ZS50byhvd25bbmFtZV0pKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIlN0YWdlIEkgdGVuc29yIHRyYW5zZmVyIGZhaWxlZDoge25hbWV9IikKICAgICAgICBsb2FkZWQuYXBwZW5kKGRpY3QobmFtZT1uYW1lLCBwYXJhbWV0ZXJzPXZhbHVlLm51bWVsKCksIHNoYXBlPWxpc3QodmFsdWUuc2hhcGUpKSkKICAgIHJldHVybiBkaWN0KHN0YWdlMV9jaGVja3BvaW50X3VzZWQ9VHJ1ZSwgc291cmNlX2NoZWNrcG9pbnQ9c3RyKGNoZWNrcG9pbnQpLAogICAgICAgIGFsbF9zdGFnZTFfdGVuc29yc19sb2FkZWRfZXhhY3RseT1UcnVlLCBsb2FkZWQ9bG9hZGVkLAogICAgICAgIGxvYWRlZF9wYXJhbWV0ZXJzPXN1bSh2YWx1ZS5udW1lbCgpIGZvciBuYW1lLCB2YWx1ZSBpbiBzdGF0ZS5pdGVtcygpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIG5hbWUgIT0gIm91dHB1dF9lbWJlZGRpbmdfcm1zIiksCiAgICAgICAgbWFza19lbWJlZGRpbmdfY29waWVkX2Zyb21fc3RhZ2UxPVRydWUsCiAgICAgICAgbmV3X3Jlc2lkdWFsX3BhcmFtZXRlcnM9c29ydGVkKHJlc3VsdC5taXNzaW5nX2tleXMpKQo=
+"""Summary-conditioned residual compressor; repeat backbone keys stay unchanged."""
+
+from __future__ import annotations
+
+import math
+
+import torch
+from torch import nn
+from torch.nn import functional as F
+from torch.utils.checkpoint import checkpoint
+from transformers.models.qwen3.modeling_qwen3 import Qwen3RMSNorm
+
+from context_compression.grepseek_modeling import (
+    CompressedContextOutput,
+    GrepSeekDFlashCompressor,
+    build_local_compression_layout,
+)
+
+
+from context_compression.qwen38_residual_modeling import SummaryCrossAttention
+from context_compression.qwen38_dflash2_compressor import DFlash2Compressor, TARGET_LAYER_IDS
+
+
+class DFlash2SummaryResidualCompressor(DFlash2Compressor):
+    def __init__(self, *args, max_depth=8, summary_gate_init=1e-3, **kwargs):
+        super().__init__(*args, **kwargs)
+        if max_depth < 1 or not math.isfinite(summary_gate_init):
+            raise ValueError("invalid residual depth/gate")
+        if float(getattr(self.config, "attention_dropout", 0)) != 0:
+            raise ValueError("detached frontier VJP replay requires dropout=0")
+        self.max_depth = int(max_depth)
+        self.summary_gate_init = float(summary_gate_init)
+        self.summary_attention = nn.ModuleList([
+            SummaryCrossAttention(self.config, summary_gate_init) for _ in self.layers[:-1]
+        ])
+        self.summary_attention.apply(
+            lambda module: self._initialize_module(module, self.config.initializer_range)
+        )
+        # Depth denotes INPUT depth: raw=0, first-generation soft tokens=1, ...
+        self.depth_embedding = nn.Embedding(max_depth, self.config.hidden_size)
+        nn.init.zeros_(self.depth_embedding.weight)
+
+    @staticmethod
+    def is_new_parameter(name):
+        return name.startswith(("summary_attention.", "depth_embedding."))
+
+    def load_repeat_state(self, state):
+        expected = {k for k in self.state_dict() if not self.is_new_parameter(k)}
+        if set(state) != expected:
+            raise ValueError(f"repeat state keys differ: missing={expected-set(state)}, extra={set(state)-expected}")
+        result = self.load_state_dict(state, strict=False)
+        if result.unexpected_keys or any(not self.is_new_parameter(k) for k in result.missing_keys):
+            raise ValueError("non-residual parameters missing from repeat initialization")
+        return result
+
+    def export_config(self):
+        return {**super().export_config(), "architecture": "DFlash2SummaryResidualCompressor", "max_depth": self.max_depth,
+                "summary_gate_init": self.summary_gate_init,
+                "summary_conditioning": "independent_slot_Q_summary_KV_after_source_attention",
+                "depth_coordinate": "input_depth_raw_is_zero"}
+
+    def forward(self, source_features, source_attention_mask, source_token_lengths=None,
+                slot_token_lengths=None, *, summary_features, summary_attention_mask,
+                input_depth=0):
+        if not isinstance(input_depth, int) or not 0 <= input_depth < self.max_depth:
+            raise ValueError("input depth exceeds configured residual pyramid")
+        width = len(self.target_layer_ids) * self.target_hidden_size
+        if source_features.ndim != 3 or source_features.shape[-1] != width:
+            raise ValueError("invalid residual source features")
+        if source_attention_mask.shape != source_features.shape[:2]:
+            raise ValueError("source mask shape mismatch")
+        if (summary_features.ndim != 3 or summary_features.shape[0] != source_features.shape[0]
+                or summary_features.shape[-1] != self.target_hidden_size
+                or summary_attention_mask.shape != summary_features.shape[:2]
+                or summary_attention_mask.dtype != torch.bool
+                or not bool(summary_attention_mask.any(-1).all())):
+            raise ValueError("each source needs a nonempty summary with a boolean mask")
+        features = source_features.detach().to(self.fc.weight)
+        stream_summary = (not self.training and not torch.is_grad_enabled()
+                          and summary_features.device.type == "cpu" and summary_features.shape[1] > 4096)
+        summary = (summary_features.detach().to(dtype=self.fc.weight.dtype) if stream_summary
+                   else summary_features.detach().to(self.fc.weight))
+        mask = summary_attention_mask.to(summary.device)
+        layout = build_local_compression_layout(
+            source_attention_mask, compression_ratio=self.compression_ratio,
+            local_window=self.local_window, source_token_lengths=source_token_lengths,
+            slot_token_lengths=slot_token_lengths,
+        )
+        b, slots = layout.slot_attention_mask.shape
+        if not slots:
+            return CompressedContextOutput(features.new_zeros(b, 0, self.target_hidden_size),
+                                           layout.slot_attention_mask, layout.slot_counts)
+        source = self.hidden_norm(self.fc(features))
+        hidden = self.mask_embedding.expand(b, slots, -1) + self.depth_embedding.weight[input_depth]
+        slot_cos, slot_sin = self.rotary_emb(hidden, layout.slot_position_ids)
+        source_cos, source_sin = self.rotary_emb(source, layout.source_position_ids)
+        rows = layout.slot_attention_mask.unsqueeze(-1)
+
+        def local_layer(hidden, source, summary, layer, cross):
+            residual = hidden
+            hidden, kernel = layer.attention_conv.prepare(layer.input_layernorm(hidden))
+            hidden = layer.self_attn(hidden, source, layout.local_keep_mask,
+                                     slot_cos, slot_sin, source_cos, source_sin)
+            hidden = residual + layer.attention_conv.finish(hidden, kernel)
+            hidden = cross(hidden, summary, mask, stream_summary=stream_summary)
+            residual = hidden
+            hidden, kernel = layer.mlp_conv.prepare(layer.post_attention_layernorm(hidden))
+            return residual + layer.mlp_conv.finish(layer.mlp(hidden), kernel)
+
+        for layer, cross in zip(self.layers[:-1], self.summary_attention):
+            # Bind modules as arguments, never late-bind loop variables in a checkpoint closure.
+            if self.gradient_checkpointing and self.training and torch.is_grad_enabled():
+                hidden = checkpoint(local_layer, hidden, source, summary, layer, cross,
+                                    use_reentrant=False)
+            else:
+                hidden = local_layer(hidden, source, summary, layer, cross)
+            hidden = hidden * rows
+        final_args = (hidden, None, layout.global_keep_mask, slot_cos, slot_sin, None, None)
+        if self.gradient_checkpointing and self.training and torch.is_grad_enabled():
+            hidden = checkpoint(self.layers[-1], *final_args, use_reentrant=False)
+        else:
+            hidden = self.layers[-1](*final_args)
+        embeddings = self.norm(hidden * rows) * self.output_embedding_rms.to(hidden) * rows
+        return CompressedContextOutput(embeddings, layout.slot_attention_mask, layout.slot_counts)
+
+
+def build_residual(config_path, *, output_embedding_rms, gradient_checkpointing=False):
+    import json
+    from pathlib import Path
+    from transformers import Qwen3Config
+    data = json.loads(Path(config_path).read_text())
+    if (data['hidden_size'], data['num_hidden_layers'], data['intermediate_size']) != (5120, 5, 17408):
+        raise ValueError('unexpected pretrained DFlash2 geometry')
+    if tuple(data['dflash_config']['target_layer_ids']) != TARGET_LAYER_IDS:
+        raise ValueError('unexpected DFlash2 feature layers')
+    config = Qwen3Config.from_dict(data)
+    config.layer_types = ['sliding_attention'] * 4 + ['full_attention']
+    return DFlash2SummaryResidualCompressor(config, target_hidden_size=5120,
+        target_layer_ids=TARGET_LAYER_IDS, output_embedding_rms=output_embedding_rms,
+        gradient_checkpointing=gradient_checkpointing)
+
+
+def load_pretrained_residual(model, checkpoint, target_path):
+    from safetensors import safe_open
+    from context_compression.qwen38_dflash2_compressor import SELECTOR_KEYS, load_target_mask_embedding
+    own = model.state_dict()
+    expected = {k for k in own if not model.is_new_parameter(k)} - {'mask_embedding', 'output_embedding_rms'}
+    loaded = []
+    with safe_open(str(checkpoint), framework='pt', device='cpu') as source:
+        keys = set(source.keys())
+        if keys != expected | SELECTOR_KEYS:
+            raise ValueError(f'pretrained keys differ: missing={expected-keys}, extra={keys-expected-SELECTOR_KEYS}')
+        with torch.no_grad():
+            for name in sorted(expected):
+                value = source.get_tensor(name)
+                if value.shape != own[name].shape:
+                    raise ValueError(f'pretrained shape mismatch: {name}')
+                own[name].copy_(value)
+                if not torch.equal(own[name], value.to(own[name])):
+                    raise RuntimeError(f'pretrained copy mismatch: {name}')
+                loaded.append(dict(name=name, parameters=value.numel(), shape=list(value.shape)))
+            mask = load_target_mask_embedding(target_path, 248070)
+            model.mask_embedding.copy_(mask)
+            if not torch.equal(model.mask_embedding, mask.to(model.mask_embedding)):
+                raise RuntimeError('target mask embedding copy mismatch')
+    return dict(all_backbone_tensors_loaded_exactly=True, loaded=loaded,
+        loaded_parameters=sum(x['parameters'] for x in loaded),
+        excluded=sorted(SELECTOR_KEYS), mask_embedding_equal_target=True,
+        new_residual_parameters=[k for k in own if model.is_new_parameter(k)],
+        stage1_checkpoint_used=False)
+
+
+def load_stage1_residual(model, checkpoint):
+    """Transfer the complete reconstruction backbone; keep new residual modules fresh."""
+    from pathlib import Path
+    checkpoint = Path(checkpoint)
+    state = torch.load(checkpoint / "model.pt", map_location="cpu", weights_only=True, mmap=True)
+    result = model.load_repeat_state(state)
+    own = model.state_dict()
+    loaded = []
+    for name, value in state.items():
+        if not torch.isfinite(value).all() or not torch.equal(own[name], value.to(own[name])):
+            raise ValueError(f"Stage I tensor transfer failed: {name}")
+        loaded.append(dict(name=name, parameters=value.numel(), shape=list(value.shape)))
+    return dict(stage1_checkpoint_used=True, source_checkpoint=str(checkpoint),
+        all_stage1_tensors_loaded_exactly=True, loaded=loaded,
+        loaded_parameters=sum(value.numel() for name, value in state.items()
+                              if name != "output_embedding_rms"),
+        mask_embedding_copied_from_stage1=True,
+        new_residual_parameters=sorted(result.missing_keys))

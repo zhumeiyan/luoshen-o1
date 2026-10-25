@@ -1,1 +1,168 @@
-IiIiRU/mtoznjrDop4Llr59WOCDigJTigJQg5qyy5pyb4oaS6KGM5Li66ICm5ZCI6aqM6K+B44CCCgrpqozor4HkuInkuKrogKblkIjvvJoKMS4g5qyy5pyb6YCJ5Lit6YCa6YGTIOKGkiDlpKfohJHlhbPms6jmlrnlkJHvvIjms6jmhI/lipvpqbHliqjvvIkKMi4g5qyy5pybYm9yZWRvbSDihpIg5oSf5a6Y5o6i57Si5aKe5by677yI5peg6IGK6amx5Yqo5o6i57Si77yJCjMuIOassuacm2dhcCDihpIg6KGM5Li65Lu35YC85Yqg5oiQ77yI5ri05pyb6amx5Yqo55Sf5a2Y77yJCgrlr7nmr5Tlrp7pqozvvJoKLSBB57uE77ya5a6M5pW0RU/vvIjlkKvmrLLmnJvogKblkIjvvIkKLSBC57uE77ya5peg5qyy5pybRU/vvIjmrLLmnJvns7vnu5/orr7kuLpOb25l77yM5LiN5Y+C5LiO6KGM5Li65Yaz562W77yJCuS4pOe7hOWFseeUqOWQjOS4gOS4qua8lOWMluWlveeahOWkp+iEke+8jOmBv+WFjemHjeWkjea8lOWMluOAggoiIiIKCmltcG9ydCBzeXMKaW1wb3J0IG1hdGgKaW1wb3J0IHJhbmRvbQppbXBvcnQgY29weQppbXBvcnQgb3MKaW1wb3J0IGpzb24KCmZyb20gZW9fY29yZSBpbXBvcnQgRU/lrp7kvossIOeyvuWNq+S4gOatpQoKCmRlZiDot5FFTyjmi43mlbA9NTAwLCBzZWVkPTQyLCDnpoHnlKjmrLLmnJs9RmFsc2UpOgogICAgcmFuZG9tLnNlZWQoc2VlZCkKICAgIGVvID0gRU/lrp7kvoso5ryU5YyW5aSn6ISRPVRydWUpCiAgICBlby7nu5HlrpooIua1i+ivlSIsIG5hbWU9Iua1i+ivleiAhSIpCgogICAgaWYg56aB55So5qyy5pybOgogICAgICAgIGVvLuassuacmyA9IE5vbmUKICAgICAgICBlby5f5qyy5pyb6YCJ5Lit6YCa6YGTID0gLTEKCiAgICDorrDlvZUgPSBbXQogICAgcmVnaW9u5Y6G5Y+yID0gW10KCiAgICBmb3IgaSBpbiByYW5nZSjmi43mlbApOgogICAgICAgIOWklumDqCA9IDAuNSArIDAuMiAqIG1hdGguc2luKGkgKiAwLjA1KSArIDAuMSAqIHJhbmRvbS5nYXVzcygwLCAxKQogICAgICAgIHIgPSBlby7kuIDmi40o5aSW6YOo6L6T5YWlPeWklumDqCkKICAgICAgICDmkZjopoEgPSBlby7nirbmgIHmkZjopoEoKQoKICAgICAgICByZWdpb27ljoblj7IuYXBwZW5kKGVvLl9jdXJyZW50X3JlZ2lvbiBpZiBoYXNhdHRyKGVvLCAnX2N1cnJlbnRfcmVnaW9uJykgZWxzZSAwKQoKICAgICAgICBpZiBpICUgNTAgPT0gMCBvciBpID09IOaLjeaVsCAtIDE6CiAgICAgICAgICAgIOiusOW9lS5hcHBlbmQoewogICAgICAgICAgICAgICAgIuaLjSI6IGksCiAgICAgICAgICAgICAgICAi5rWB6YePIjog5pGY6KaBWyLmtYHph48iXSwKICAgICAgICAgICAgICAgICLlpKfohJFmaXRuZXNzIjog5pGY6KaBLmdldCgi5aSn6ISRZml0bmVzcyIsIDApLAogICAgICAgICAgICAgICAgIuassuacm2JvcmVkb20iOiDmkZjopoEuZ2V0KCLmrLLmnJtib3JlZG9tIiwgMCksCiAgICAgICAgICAgICAgICAi5qyy5pybZ2FwIjog5pGY6KaBLmdldCgi5qyy5pybZ2Fw5Z2H5YC8IiwgMCksCiAgICAgICAgICAgICAgICAi5qyy5pyb5Li75a+86YCa6YGTIjog5pGY6KaBLmdldCgi5qyy5pyb5Li75a+86YCa6YGTIiwgLTEpLAogICAgICAgICAgICAgICAgIuaVsOWtl+aOoue0ouaAu+aVsCI6IOaRmOimgS5nZXQoIuaVsOWtl+aOoue0ouaAu+aVsCIsIDApLAogICAgICAgICAgICAgICAgIua0u+i3g+amguW/teaVsCI6IOaRmOimgS5nZXQoIua0u+i3g+amguW/teaVsCIsIDApLAogICAgICAgICAgICAgICAgIuW3suatu+S6oSI6IOaRmOimgVsi5bey5q275LqhIl0sCiAgICAgICAgICAgIH0pCgogICAgICAgIGlmIOaRmOimgVsi5bey5q275LqhIl06CiAgICAgICAgICAgIGJyZWFrCgogICAgcmV0dXJuIHsKICAgICAgICAi6K6w5b2VIjog6K6w5b2VLAogICAgICAgICJyZWdpb27ljoblj7IiOiByZWdpb27ljoblj7IsCiAgICAgICAgIuacgOe7iOaRmOimgSI6IGVvLueKtuaAgeaRmOimgSgpLAogICAgICAgICLlrZjmtLvmi43mlbAiOiBlby7mi40sCiAgICB9CgoKZGVmIOWIhuaekHJlZ2lvbuWIhuW4gyhyZWdpb27ljoblj7IpOgogICAgZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgogICAgYyA9IENvdW50ZXIocmVnaW9u5Y6G5Y+yKQogICAg5oC75pWwID0gbGVuKHJlZ2lvbuWOhuWPsikKICAgIOWIhuW4gyA9IHtrOiByb3VuZCh2IC8g5oC75pWwLCAzKSBmb3IgaywgdiBpbiBzb3J0ZWQoYy5pdGVtcygpKX0KICAgIOS4u+WvvCA9IGMubW9zdF9jb21tb24oMykKICAgIHJldHVybiDliIbluIMsIOS4u+WvvAoKCmRlZiBtYWluKCk6CiAgICBwcmludCgiPSIgKiA3MCkKICAgIHByaW50KCJFT+a2jOeOsOinguWvn1Y4IOKAlOKAlCDmrLLmnJvihpLooYzkuLrogKblkIjpqozor4EiKQogICAgcHJpbnQoIj0iICogNzApCgogICAgIyDilIDilIAgQee7hO+8muWujOaVtEVP77yI5ZCr5qyy5pyb6ICm5ZCI77yJ4pSA4pSACiAgICBwcmludCgiXG4tLS0gQee7hO+8muWujOaVtEVP77yI5ZCr5qyy5pyb6ICm5ZCI77yJIC0tLSIpCiAgICBBID0g6LeRRU8o5ouN5pWwPTUwMCwgc2VlZD00Miwg56aB55So5qyy5pybPUZhbHNlKQogICAgcHJpbnQoZiIgIOWtmOa0u+aLjeaVsDoge0FbJ+WtmOa0u+aLjeaVsCddfSIpCiAgICBwcmludChmIiAg5pyA57uI5rWB6YePOiB7QVsn5pyA57uI5pGY6KaBJ11bJ+a1gemHjyddOi40Zn0iKQogICAgcHJpbnQoZiIgIOWkp+iEkWZpdG5lc3M6IHtBWyfmnIDnu4jmkZjopoEnXS5nZXQoJ+Wkp+iEkWZpdG5lc3MnLCAwKTouNGZ9IikKICAgIHByaW50KGYiICDmrLLmnJtib3JlZG9tOiB7QVsn5pyA57uI5pGY6KaBJ10uZ2V0KCfmrLLmnJtib3JlZG9tJywgMCk6LjRmfSIpCiAgICBwcmludChmIiAg5qyy5pybZ2Fw5Z2H5YC8OiB7QVsn5pyA57uI5pGY6KaBJ10uZ2V0KCfmrLLmnJtnYXDlnYflgLwnLCAwKTouNGZ9IikKICAgIHByaW50KGYiICDmrLLmnJvkuLvlr7zpgJrpgZM6IHtBWyfmnIDnu4jmkZjopoEnXS5nZXQoJ+assuacm+S4u+WvvOmAmumBkycsIC0xKX0iKQogICAgcHJpbnQoZiIgIOaVsOWtl+aOoue0ouaAu+aVsDoge0FbJ+acgOe7iOaRmOimgSddLmdldCgn5pWw5a2X5o6i57Si5oC75pWwJywgMCl9IikKICAgIHByaW50KGYiICDmtLvot4PmpoLlv7XmlbA6IHtBWyfmnIDnu4jmkZjopoEnXS5nZXQoJ+a0u+i3g+amguW/teaVsCcsIDApfSIpCgogICAgQeWIhuW4gywgQeS4u+WvvCA9IOWIhuaekHJlZ2lvbuWIhuW4gyhBWydyZWdpb27ljoblj7InXSkKICAgIHByaW50KGYiICBSZWdpb27liIbluIM6IHtB5YiG5biDfSIpCiAgICBwcmludChmIiAgUmVnaW9u5Li75a+8KHRvcDMpOiB7QeS4u+WvvH0iKQoKICAgIHByaW50KCJcbiAg5ryU5YyW6L2o6L+5OiIpCiAgICBmb3IgciBpbiBBWyforrDlvZUnXToKICAgICAgICBwcmludChmIiAgICDmi417clsn5ouNJ106NGR9IOa1gemHjz17clsn5rWB6YePJ106LjNmfSAiCiAgICAgICAgICAgICAgZiJmaXRuZXNzPXtyWyflpKfohJFmaXRuZXNzJ106LjNmfSAiCiAgICAgICAgICAgICAgZiJib3JlZG9tPXtyWyfmrLLmnJtib3JlZG9tJ106LjNmfSAiCiAgICAgICAgICAgICAgZiJnYXA9e3JbJ+assuacm2dhcCddOi4zZn0gIgogICAgICAgICAgICAgIGYi6YCa6YGTPXtyWyfmrLLmnJvkuLvlr7zpgJrpgZMnXX0gIgogICAgICAgICAgICAgIGYi5o6i57SiPXtyWyfmlbDlrZfmjqLntKLmgLvmlbAnXX0gIgogICAgICAgICAgICAgIGYi5qaC5b+1PXtyWyfmtLvot4PmpoLlv7XmlbAnXX0gIgogICAgICAgICAgICAgIGYi5q275LqhPXtyWyflt7LmrbvkuqEnXX0iKQoKICAgICMg4pSA4pSAIELnu4TvvJrml6DmrLLmnJtFT++8iOWvueavlO+8ieKUgOKUgAogICAgcHJpbnQoIlxuLS0tIELnu4TvvJrml6DmrLLmnJtFT++8iOWvueavlO+8iSAtLS0iKQogICAgQiA9IOi3kUVPKOaLjeaVsD01MDAsIHNlZWQ9NDIsIOemgeeUqOassuacmz1UcnVlKQogICAgcHJpbnQoZiIgIOWtmOa0u+aLjeaVsDoge0JbJ+WtmOa0u+aLjeaVsCddfSIpCiAgICBwcmludChmIiAg5pyA57uI5rWB6YePOiB7Qlsn5pyA57uI5pGY6KaBJ11bJ+a1gemHjyddOi40Zn0iKQogICAgcHJpbnQoZiIgIOWkp+iEkWZpdG5lc3M6IHtCWyfmnIDnu4jmkZjopoEnXS5nZXQoJ+Wkp+iEkWZpdG5lc3MnLCAwKTouNGZ9IikKICAgIHByaW50KGYiICDmlbDlrZfmjqLntKLmgLvmlbA6IHtCWyfmnIDnu4jmkZjopoEnXS5nZXQoJ+aVsOWtl+aOoue0ouaAu+aVsCcsIDApfSIpCiAgICBwcmludChmIiAg5rS76LeD5qaC5b+15pWwOiB7Qlsn5pyA57uI5pGY6KaBJ10uZ2V0KCfmtLvot4PmpoLlv7XmlbAnLCAwKX0iKQoKICAgIELliIbluIMsIELkuLvlr7wgPSDliIbmnpByZWdpb27liIbluIMoQlsncmVnaW9u5Y6G5Y+yJ10pCiAgICBwcmludChmIiAgUmVnaW9u5YiG5biDOiB7QuWIhuW4g30iKQogICAgcHJpbnQoZiIgIFJlZ2lvbuS4u+WvvCh0b3AzKToge0LkuLvlr7x9IikKCiAgICBwcmludCgiXG4gIOa8lOWMlui9qOi/uToiKQogICAgZm9yIHIgaW4gQlsn6K6w5b2VJ106CiAgICAgICAgcHJpbnQoZiIgICAg5ouNe3JbJ+aLjSddOjRkfSDmtYHph489e3JbJ+a1gemHjyddOi4zZn0gIgogICAgICAgICAgICAgIGYiZml0bmVzcz17clsn5aSn6ISRZml0bmVzcyddOi4zZn0gIgogICAgICAgICAgICAgIGYi5o6i57SiPXtyWyfmlbDlrZfmjqLntKLmgLvmlbAnXX0gIgogICAgICAgICAgICAgIGYi5qaC5b+1PXtyWyfmtLvot4PmpoLlv7XmlbAnXX0gIgogICAgICAgICAgICAgIGYi5q275LqhPXtyWyflt7LmrbvkuqEnXX0iKQoKICAgICMg4pSA4pSAIOWvueavlOWIhuaekCDilIDilIAKICAgIHByaW50KCJcbiIgKyAiPSIgKiA3MCkKICAgIHByaW50KCLlr7nmr5TliIbmnpAiKQogICAgcHJpbnQoIj0iICogNzApCiAgICBwcmludChmIiAg5a2Y5rS75ouN5pWwOiAgICBBPXtBWyflrZjmtLvmi43mlbAnXX0gIEI9e0JbJ+WtmOa0u+aLjeaVsCddfSIpCiAgICBwcmludChmIiAg5aSn6ISRZml0bmVzczogQT17QVsn5pyA57uI5pGY6KaBJ10uZ2V0KCflpKfohJFmaXRuZXNzJywgMCk6LjRmfSAgIgogICAgICAgICAgZiJCPXtCWyfmnIDnu4jmkZjopoEnXS5nZXQoJ+Wkp+iEkWZpdG5lc3MnLCAwKTouNGZ9IikKICAgIHByaW50KGYiICDmlbDlrZfmjqLntKI6ICAgIEE9e0FbJ+acgOe7iOaRmOimgSddLmdldCgn5pWw5a2X5o6i57Si5oC75pWwJywgMCl9ICAiCiAgICAgICAgICBmIkI9e0JbJ+acgOe7iOaRmOimgSddLmdldCgn5pWw5a2X5o6i57Si5oC75pWwJywgMCl9IikKICAgIHByaW50KGYiICDmtLvot4PmpoLlv7U6ICAgIEE9e0FbJ+acgOe7iOaRmOimgSddLmdldCgn5rS76LeD5qaC5b+15pWwJywgMCl9ICAiCiAgICAgICAgICBmIkI9e0JbJ+acgOe7iOaRmOimgSddLmdldCgn5rS76LeD5qaC5b+15pWwJywgMCl9IikKCiAgICBBX3RvcF9yZWdpb24gPSBB5Li75a+8WzBdIGlmIEHkuLvlr7wgZWxzZSAoLTEsIDApCiAgICBCX3RvcF9yZWdpb24gPSBC5Li75a+8WzBdIGlmIELkuLvlr7wgZWxzZSAoLTEsIDApCiAgICBB6ZuG5Lit5bqmID0gQV90b3BfcmVnaW9uWzFdIC8gbWF4KDEsIGxlbihBWydyZWdpb27ljoblj7InXSkpIGlmIEHkuLvlr7wgZWxzZSAwCiAgICBC6ZuG5Lit5bqmID0gQl90b3BfcmVnaW9uWzFdIC8gbWF4KDEsIGxlbihCWydyZWdpb27ljoblj7InXSkpIGlmIELkuLvlr7wgZWxzZSAwCiAgICBwcmludChmIiAgQee7hFJlZ2lvbuS4u+WvvDog6YCa6YGTe0FfdG9wX3JlZ2lvblswXX0g5Y2g5q+Ue0Hpm4bkuK3luqY6LjNmfSIpCiAgICBwcmludChmIiAgQue7hFJlZ2lvbuS4u+WvvDog6YCa6YGTe0JfdG9wX3JlZ2lvblswXX0g5Y2g5q+Ue0Lpm4bkuK3luqY6LjNmfSIpCgogICAgcHJpbnQoIlxuLS0tIOiApuWQiOmqjOivgSAtLS0iKQogICAgcHJpbnQoZiIgIOiApuWQiDRh77yI5qyy5pyb4oaS5rOo5oSP5Yqb77yJOiBB57uEcmVnaW9u6ZuG5Lit5bqmPXtB6ZuG5Lit5bqmOi4zZn0gdnMgQue7hD17QumbhuS4reW6pjouM2Z9ICIKICAgICAgICAgIGYieyfinJMg5qyy5pyb6amx5Yqo5rOo5oSP5YqbJyBpZiBB6ZuG5Lit5bqmID4gQumbhuS4reW6piBlbHNlICfDlyDmnKrmmL7njrAnfSIpCgogICAgQeaOoue0oiA9IEFbJ+acgOe7iOaRmOimgSddLmdldCgn5pWw5a2X5o6i57Si5oC75pWwJywgMCkKICAgIELmjqLntKIgPSBCWyfmnIDnu4jmkZjopoEnXS5nZXQoJ+aVsOWtl+aOoue0ouaAu+aVsCcsIDApCiAgICBwcmludChmIiAg6ICm5ZCINGLvvIhib3JlZG9t4oaS5o6i57Si77yJOiBB57uE5o6i57SiPXtB5o6i57SifSB2cyBC57uE5o6i57SiPXtC5o6i57SifSAiCiAgICAgICAgICBmInsn4pyTIGJvcmVkb23pqbHliqjmjqLntKInIGlmIEHmjqLntKIgPiBC5o6i57SiIGVsc2UgJ8OXIOacquaYvueOsCd9IikKCiAgICBB5rWB6YePID0gQVsn5pyA57uI5pGY6KaBJ11bJ+a1gemHjyddCiAgICBC5rWB6YePID0gQlsn5pyA57uI5pGY6KaBJ11bJ+a1gemHjyddCiAgICBwcmludChmIiAg6ICm5ZCINGPvvIhnYXDihpLooYzkuLrku7flgLzvvIk6IEHnu4TmtYHph489e0HmtYHph486LjRmfSB2cyBC57uE5rWB6YePPXtC5rWB6YePOi40Zn0gIgogICAgICAgICAgZiJ7J+KckyBnYXDpqbHliqjnlJ/lrZgnIGlmIEHmtYHph48gPj0gQua1gemHjyAqIDAuOTUgZWxzZSAnw5cg5pyq5pi+546wJ30iKQoKICAgIHByaW50KCJcbiIgKyAiPSIgKiA3MCkKICAgIHByaW50KCLlrp7pqozlrozmiJAiKQogICAgcHJpbnQoIj0iICogNzApCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""EO涌现观察V8 —— 欲望→行为耦合验证。
+
+验证三个耦合：
+1. 欲望选中通道 → 大脑关注方向（注意力驱动）
+2. 欲望boredom → 感官探索增强（无聊驱动探索）
+3. 欲望gap → 行为价值加成（渴望驱动生存）
+
+对比实验：
+- A组：完整EO（含欲望耦合）
+- B组：无欲望EO（欲望系统设为None，不参与行为决策）
+两组共用同一个演化好的大脑，避免重复演化。
+"""
+
+import sys
+import math
+import random
+import copy
+import os
+import json
+
+from eo_core import EO实例, 精卫一步
+
+
+def 跑EO(拍数=500, seed=42, 禁用欲望=False):
+    random.seed(seed)
+    eo = EO实例(演化大脑=True)
+    eo.绑定("测试", name="测试者")
+
+    if 禁用欲望:
+        eo.欲望 = None
+        eo._欲望选中通道 = -1
+
+    记录 = []
+    region历史 = []
+
+    for i in range(拍数):
+        外部 = 0.5 + 0.2 * math.sin(i * 0.05) + 0.1 * random.gauss(0, 1)
+        r = eo.一拍(外部输入=外部)
+        摘要 = eo.状态摘要()
+
+        region历史.append(eo._current_region if hasattr(eo, '_current_region') else 0)
+
+        if i % 50 == 0 or i == 拍数 - 1:
+            记录.append({
+                "拍": i,
+                "流量": 摘要["流量"],
+                "大脑fitness": 摘要.get("大脑fitness", 0),
+                "欲望boredom": 摘要.get("欲望boredom", 0),
+                "欲望gap": 摘要.get("欲望gap均值", 0),
+                "欲望主导通道": 摘要.get("欲望主导通道", -1),
+                "数字探索总数": 摘要.get("数字探索总数", 0),
+                "活跃概念数": 摘要.get("活跃概念数", 0),
+                "已死亡": 摘要["已死亡"],
+            })
+
+        if 摘要["已死亡"]:
+            break
+
+    return {
+        "记录": 记录,
+        "region历史": region历史,
+        "最终摘要": eo.状态摘要(),
+        "存活拍数": eo.拍,
+    }
+
+
+def 分析region分布(region历史):
+    from collections import Counter
+    c = Counter(region历史)
+    总数 = len(region历史)
+    分布 = {k: round(v / 总数, 3) for k, v in sorted(c.items())}
+    主导 = c.most_common(3)
+    return 分布, 主导
+
+
+def main():
+    print("=" * 70)
+    print("EO涌现观察V8 —— 欲望→行为耦合验证")
+    print("=" * 70)
+
+    # ── A组：完整EO（含欲望耦合）──
+    print("\n--- A组：完整EO（含欲望耦合） ---")
+    A = 跑EO(拍数=500, seed=42, 禁用欲望=False)
+    print(f"  存活拍数: {A['存活拍数']}")
+    print(f"  最终流量: {A['最终摘要']['流量']:.4f}")
+    print(f"  大脑fitness: {A['最终摘要'].get('大脑fitness', 0):.4f}")
+    print(f"  欲望boredom: {A['最终摘要'].get('欲望boredom', 0):.4f}")
+    print(f"  欲望gap均值: {A['最终摘要'].get('欲望gap均值', 0):.4f}")
+    print(f"  欲望主导通道: {A['最终摘要'].get('欲望主导通道', -1)}")
+    print(f"  数字探索总数: {A['最终摘要'].get('数字探索总数', 0)}")
+    print(f"  活跃概念数: {A['最终摘要'].get('活跃概念数', 0)}")
+
+    A分布, A主导 = 分析region分布(A['region历史'])
+    print(f"  Region分布: {A分布}")
+    print(f"  Region主导(top3): {A主导}")
+
+    print("\n  演化轨迹:")
+    for r in A['记录']:
+        print(f"    拍{r['拍']:4d} 流量={r['流量']:.3f} "
+              f"fitness={r['大脑fitness']:.3f} "
+              f"boredom={r['欲望boredom']:.3f} "
+              f"gap={r['欲望gap']:.3f} "
+              f"通道={r['欲望主导通道']} "
+              f"探索={r['数字探索总数']} "
+              f"概念={r['活跃概念数']} "
+              f"死亡={r['已死亡']}")
+
+    # ── B组：无欲望EO（对比）──
+    print("\n--- B组：无欲望EO（对比） ---")
+    B = 跑EO(拍数=500, seed=42, 禁用欲望=True)
+    print(f"  存活拍数: {B['存活拍数']}")
+    print(f"  最终流量: {B['最终摘要']['流量']:.4f}")
+    print(f"  大脑fitness: {B['最终摘要'].get('大脑fitness', 0):.4f}")
+    print(f"  数字探索总数: {B['最终摘要'].get('数字探索总数', 0)}")
+    print(f"  活跃概念数: {B['最终摘要'].get('活跃概念数', 0)}")
+
+    B分布, B主导 = 分析region分布(B['region历史'])
+    print(f"  Region分布: {B分布}")
+    print(f"  Region主导(top3): {B主导}")
+
+    print("\n  演化轨迹:")
+    for r in B['记录']:
+        print(f"    拍{r['拍']:4d} 流量={r['流量']:.3f} "
+              f"fitness={r['大脑fitness']:.3f} "
+              f"探索={r['数字探索总数']} "
+              f"概念={r['活跃概念数']} "
+              f"死亡={r['已死亡']}")
+
+    # ── 对比分析 ──
+    print("\n" + "=" * 70)
+    print("对比分析")
+    print("=" * 70)
+    print(f"  存活拍数:    A={A['存活拍数']}  B={B['存活拍数']}")
+    print(f"  大脑fitness: A={A['最终摘要'].get('大脑fitness', 0):.4f}  "
+          f"B={B['最终摘要'].get('大脑fitness', 0):.4f}")
+    print(f"  数字探索:    A={A['最终摘要'].get('数字探索总数', 0)}  "
+          f"B={B['最终摘要'].get('数字探索总数', 0)}")
+    print(f"  活跃概念:    A={A['最终摘要'].get('活跃概念数', 0)}  "
+          f"B={B['最终摘要'].get('活跃概念数', 0)}")
+
+    A_top_region = A主导[0] if A主导 else (-1, 0)
+    B_top_region = B主导[0] if B主导 else (-1, 0)
+    A集中度 = A_top_region[1] / max(1, len(A['region历史'])) if A主导 else 0
+    B集中度 = B_top_region[1] / max(1, len(B['region历史'])) if B主导 else 0
+    print(f"  A组Region主导: 通道{A_top_region[0]} 占比{A集中度:.3f}")
+    print(f"  B组Region主导: 通道{B_top_region[0]} 占比{B集中度:.3f}")
+
+    print("\n--- 耦合验证 ---")
+    print(f"  耦合4a（欲望→注意力）: A组region集中度={A集中度:.3f} vs B组={B集中度:.3f} "
+          f"{'✓ 欲望驱动注意力' if A集中度 > B集中度 else '× 未显现'}")
+
+    A探索 = A['最终摘要'].get('数字探索总数', 0)
+    B探索 = B['最终摘要'].get('数字探索总数', 0)
+    print(f"  耦合4b（boredom→探索）: A组探索={A探索} vs B组探索={B探索} "
+          f"{'✓ boredom驱动探索' if A探索 > B探索 else '× 未显现'}")
+
+    A流量 = A['最终摘要']['流量']
+    B流量 = B['最终摘要']['流量']
+    print(f"  耦合4c（gap→行为价值）: A组流量={A流量:.4f} vs B组流量={B流量:.4f} "
+          f"{'✓ gap驱动生存' if A流量 >= B流量 * 0.95 else '× 未显现'}")
+
+    print("\n" + "=" * 70)
+    print("实验完成")
+    print("=" * 70)
+
+
+if __name__ == "__main__":
+    main()

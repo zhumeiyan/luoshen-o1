@@ -1,1 +1,303 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTM5OiDor63kuYnmiYvmgKfkuI7miYvmgKfnoLTnvLrvvIjnoYXln7rniYggRnJhbmsgLyBTb2Fp77yJCgpQYXJ0IEEgIOaJi+aAp+eul+WtkOivhuWIqwogIOeul+WtkOW/hemhu+a7oei2s+S4pOadoeaJjeeulyLmiYvmgKfmk43kvZwi77yaCiAgICAoMSkg5a+55ZCI5oCnICBzaWdtYShzaWdtYSh4KSkgPT0geAogICAgKDIpIOmdnuWvueensOaApyBzaWdtYSh4KSAhPSB4CiAg5YaN6YeP56ys5LiJ5p2h77ya57+76L2s5p2g5p2G546HID0g6aKE5rWL57+76L2s546HIC8g5b2S5LiA5YyW5omw5Yqo5bmF5bqmCiAg5a+554Wn77ya6KGo6Z2i5omw5Yqo77yI5o2i5Li76K+tIFJPTEXvvInluYXluqbnm7jlvZPkvYbkuI3nv7vovawKClBhcnQgQiAgRnJhbmstU29haSDnoYXln7rniYgKICDliJ3lp4vmiYvmgKflgY/np7vmnoHlsI8gLT4g6Ieq5YKs5YyW5pS+5aSnIC0+IOeci+aYr+WQpuiiq+mUgeatu+aIkOWNleaJi+aApwogIOS4pOenjeabtOaWsOaooeW8j++8mlJFUExBQ0XvvIjmm7/mjaLvvIkvIEFDQ1VNVUxBVEXvvIjntK/np6/vvIkKICDmianlsZXvvJrlpJrnsbvkuI3lnYfljIDml7bvvIznqIDmnInnsbvmmK/lkKblhYjmtojlpLEKIiIiCmltcG9ydCBtYXRoLCByYW5kb20sIGpzb24KZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgoKIyAtLS0tLS0tLS0tLS0tLS0tIOivreaWmSAtLS0tLS0tLS0tLS0tLS0tClNVQkogPSBbIuezu+e7nyIsICLnrqHnkIblkZgiLCAi5pyN5YqhIiwgIui/m+eoiyIsICLnlKjmiLciLCAi572R5YWzIl0KVkVSQl9QID0gWyLlhYHorrgiLCAi5omn6KGMIiwgIuWPkemAgSIsICLor7vlj5YiLCAi5YaZ5YWlIiwgIuiusOW9lSIsICLmoKHpqowiXSAgICMg5p6B5oCnICsxClZFUkJfTiA9IFsi56aB5q2iIiwgIuaLpuaIqiIsICLpmLvmlq0iLCAi5ouS57udIiwgIuWIoOmZpCIsICLkuKLlvIMiXSAgICAgICAgICAjIOaegeaApyAtMQpPQkogPSBbIuaWh+S7tiIsICLmlbDmja4iLCAi6K+35rGCIiwgIuaXpeW/lyIsICLmtojmga8iLCAi6L+e5o6lIiwgIuWHreivgSJdCkNPTVAgPSBbIuWIsOacrOWcsCIsICLoh7PmnI3liqHlmagiLCAi57uZ55So5oi3IiwgIuWNs+WIuyIsICLpnZnpu5giLCAi5YWo6YOoIl0KCkFMTF9WID0gVkVSQl9QICsgVkVSQl9OCgpkZWYgcG9sYXJpdHlfb2Yodik6CiAgICByZXR1cm4gMSBpZiB2IGluIFZFUkJfUCBlbHNlIC0xCgpkZWYgZ2VuKHJuZywgbmVnX3JhdGU9MC4zMCk6CiAgICBzID0gcm5nLmNob2ljZShTVUJKKQogICAgdiA9IHJuZy5jaG9pY2UoQUxMX1YpCiAgICBuZWcgPSBybmcucmFuZG9tKCkgPCBuZWdfcmF0ZQogICAgbyA9IHJuZy5jaG9pY2UoT0JKKQogICAgYyA9IHJuZy5jaG9pY2UoQ09NUCkKICAgIHRva3MgPSBbc10gKyAoWyLkuI0iXSBpZiBuZWcgZWxzZSBbXSkgKyBbdiwgbywgY10KICAgIHBvbCA9IHBvbGFyaXR5X29mKHYpICogKC0xIGlmIG5lZyBlbHNlIDEpCiAgICByZXR1cm4gdG9rcywgKCJQRVJNSVQiIGlmIHBvbCA+IDAgZWxzZSAiREVOWSIpCgojIC0tLS0tLS0tLS0tLS0tLS0g566X5a2QIC0tLS0tLS0tLS0tLS0tLS0KZGVmIG9wX25lZyh0b2tzKToKICAgICIiIuaPkuWFpS/liKDpmaTlkKblrpror40g4oCU4oCUIOaegeaAp+e/u+i9rO+8jDEg5LiqIHRva2VuIOeahOaUueWKqCIiIgogICAgdCA9IGxpc3QodG9rcykKICAgIGlmICLkuI0iIGluIHQ6CiAgICAgICAgcmV0dXJuIFt4IGZvciB4IGluIHQgaWYgeCAhPSAi5LiNIl0KICAgIHJldHVybiB0WzoxXSArIFsi5LiNIl0gKyB0WzE6XQoKZGVmIF9pZHgodG9rcyk6CiAgICAiIiLov5Tlm54gKOS4u+ivreS9jSwg5Yqo6K+N5L2NLCDlrr7or63kvY0pIiIiCiAgICBpZiAi5LiNIiBpbiB0b2tzOgogICAgICAgIGl2ID0gdG9rcy5pbmRleCgi5LiNIikgKyAxCiAgICBlbHNlOgogICAgICAgIGl2ID0gMQogICAgcmV0dXJuIDAsIGl2LCBpdiArIDEKCmRlZiBvcF9zd2FwKHRva3MpOgogICAgIiIi5Li75a6+5LqS5o2iIOKAlOKAlCDor63luo/plZzlg4/vvIzor43pm4blkIjlrozlhajkuI3lj5giIiIKICAgIHQgPSBsaXN0KHRva3MpCiAgICBpX3MsIF8sIGlfbyA9IF9pZHgodG9rcykKICAgIHRbaV9zXSwgdFtpX29dID0gdFtpX29dLCB0W2lfc10KICAgIHJldHVybiB0CgpkZWYgb3BfcmV2KHRva3MpOgogICAgIiIi5pW05L2T5YCS6KOFIOKAlOKAlCDkuKXmoLzlr7nlkIgiIiIKICAgIHJldHVybiBsaXN0KHJldmVyc2VkKHRva3MpKQoKZGVmIG9wX3JvbGUodG9rcyk6CiAgICAiIiLmjaLkuLvor63vvIjlkIzpm4blkIjlhoXvvInigJTigJQg6KGo6Z2i5omw5Yqo5a+554Wn77yM5qCH562+5LiN5Y+Y77yM6K+N5Zyo6K+N5rGH6KGo5YaFIiIiCiAgICB0ID0gbGlzdCh0b2tzKQogICAgaV9zLCBfLCBfID0gX2lkeCh0b2tzKQogICAgY3VyID0gdFtpX3NdCiAgICBjYW5kID0gW3ggZm9yIHggaW4gU1VCSiBpZiB4ICE9IGN1cl0KICAgIHRbaV9zXSA9IGNhbmRbaGFzaCh0dXBsZSh0b2tzKSkgJSBsZW4oY2FuZCldCiAgICByZXR1cm4gdAoKT1BTID0gewogICAgIk5FRyI6ICAob3BfbmVnLCAgIuaegeaAp+e/u+i9rO+8iOWQpuWumuivjeWinuWIoO+8iSIpLAogICAgIlNXQVAiOiAob3Bfc3dhcCwgIuivreW6j+mVnOWDj++8iOS4u+WuvuS6kuaNou+8iSIpLAogICAgIlJFViI6ICAob3BfcmV2LCAgIuaVtOS9k+WAkuijhSIpLAogICAgIlJPTEUiOiAob3Bfcm9sZSwgIuihqOmdouWvueeFp++8iOaNouS4u+ivre+8iSIpLAp9CgojIC0tLS0tLS0tLS0tLS0tLS0g6KGo56S6IC0tLS0tLS0tLS0tLS0tLS0KZGVmIGZfYm93KHRva3MpOgogICAgcmV0dXJuIENvdW50ZXIodG9rcykKCmRlZiBmX3Bvcyh0b2tzKToKICAgIGMgPSBDb3VudGVyKHRva3MpCiAgICBmb3IgYSwgYiBpbiB6aXAodG9rcywgdG9rc1sxOl0pOgogICAgICAgIGNbYSArICJ8IiArIGJdICs9IDEKICAgIHJldHVybiBjCgpSRVBSID0geyJCT1ciOiAoZl9ib3csICLor43ooovvvIjkvY3nva7ml6DlhbPvvIzpnZ7miYvmgKfooajnpLrvvIkiKSwKICAgICAgICAiUE9TIjogKGZfcG9zLCAi6K+NK+ebuOmCu+S6jOWFg+e7hO+8iOWQq+W6j++8jOaJi+aAp+ihqOekuu+8iSIpfQoKIyAtLS0tLS0tLS0tLS0tLS0tIOactOe0oOi0neWPtuaWryAtLS0tLS0tLS0tLS0tLS0tCmNsYXNzIE1OQjoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhbHBoYT0wLjQpOgogICAgICAgIHNlbGYuYWxwaGEgPSBhbHBoYQoKICAgIGRlZiBmaXQoc2VsZiwgWCwgeSk6CiAgICAgICAgc2VsZi5jbGFzc2VzID0gc29ydGVkKHNldCh5KSkKICAgICAgICBzZWxmLnByaW9yLCBzZWxmLmNudCwgc2VsZi50b3QgPSB7fSwge30sIHt9CiAgICAgICAgViA9IHNldCgpCiAgICAgICAgZm9yIGMgaW4gc2VsZi5jbGFzc2VzOgogICAgICAgICAgICBzZWxmLnByaW9yW2NdID0gMDsgc2VsZi5jbnRbY10gPSBDb3VudGVyKCk7IHNlbGYudG90W2NdID0gMAogICAgICAgIGZvciB4aSwgeWkgaW4gemlwKFgsIHkpOgogICAgICAgICAgICBzZWxmLnByaW9yW3lpXSArPSAxCiAgICAgICAgICAgIGZvciBmLCBuIGluIHhpLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBzZWxmLmNudFt5aV1bZl0gKz0gbgogICAgICAgICAgICAgICAgc2VsZi50b3RbeWldICs9IG4KICAgICAgICAgICAgICAgIFYuYWRkKGYpCiAgICAgICAgTiA9IGxlbihYKQogICAgICAgIHNlbGYuViA9IGxpc3QoVikKICAgICAgICBmb3IgYyBpbiBzZWxmLmNsYXNzZXM6CiAgICAgICAgICAgIHNlbGYucHJpb3JbY10gPSBtYXRoLmxvZyhzZWxmLnByaW9yW2NdIC8gTikKICAgICAgICBzZWxmLmRlbiA9IHtjOiBzZWxmLnRvdFtjXSArIHNlbGYuYWxwaGEgKiBsZW4oc2VsZi5WKSBmb3IgYyBpbiBzZWxmLmNsYXNzZXN9CiAgICAgICAgc2VsZi5kZWZwID0ge2M6IG1hdGgubG9nKHNlbGYuYWxwaGEgLyBzZWxmLmRlbltjXSkgZm9yIGMgaW4gc2VsZi5jbGFzc2VzfQogICAgICAgIHNlbGYubHAgPSB7Yzoge2Y6IG1hdGgubG9nKChzZWxmLmNudFtjXVtmXSArIHNlbGYuYWxwaGEpIC8gc2VsZi5kZW5bY10pCiAgICAgICAgICAgICAgICAgICAgICAgZm9yIGYgaW4gc2VsZi5WIGlmIHNlbGYuY250W2NdW2ZdfSBmb3IgYyBpbiBzZWxmLmNsYXNzZXN9CgogICAgZGVmIHByZWRpY3Qoc2VsZiwgeGkpOgogICAgICAgIGJlc3QsIGJjID0gTm9uZSwgTm9uZQogICAgICAgIGZvciBjIGluIHNlbGYuY2xhc3NlczoKICAgICAgICAgICAgbHAgPSBzZWxmLmxwW2NdCiAgICAgICAgICAgIHMgPSBzZWxmLnByaW9yW2NdICsgc3VtKG4gKiBscC5nZXQoZiwgc2VsZi5kZWZwW2NdKSBmb3IgZiwgbiBpbiB4aS5pdGVtcygpKQogICAgICAgICAgICBpZiBiZXN0IGlzIE5vbmUgb3IgcyA+IGJlc3Q6CiAgICAgICAgICAgICAgICBiZXN0LCBiYyA9IHMsIGMKICAgICAgICByZXR1cm4gYmMKCiMgLS0tLS0tLS0tLS0tLS0tLSDluqbph48gLS0tLS0tLS0tLS0tLS0tLQpkZWYgZWRpdF9yYXRpbyhhLCBiKToKICAgICIiIuW9kuS4gOWMluaUueWKqOW5heW6pu+8muS4jeWQjOS9jee9ruaVsCAvIG1heChsZW4pIiIiCiAgICBuID0gbWF4KGxlbihhKSwgbGVuKGIpKQogICAgaWYgbiA9PSAwOiByZXR1cm4gMC4wCiAgICBkID0gc3VtKDEgZm9yIHgsIHkgaW4gemlwKGEsIGIpIGlmIHggIT0geSkgKyBhYnMobGVuKGEpIC0gbGVuKGIpKQogICAgcmV0dXJuIGQgLyBuCgojID09PT09PT09PT09PT09PT09IFBhcnQgQSA9PT09PT09PT09PT09PT09PQpkZWYgcGFydF9hKHNlZWQ9NywgbnRyPTI0MDAsIG50ZT02MDApOgogICAgcm5nID0gcmFuZG9tLlJhbmRvbShzZWVkKQogICAgdHIgPSBbZ2VuKHJuZykgZm9yIF8gaW4gcmFuZ2UobnRyKV0KICAgIHRlID0gW2dlbihybmcpIGZvciBfIGluIHJhbmdlKG50ZSldCgogICAgb3V0ID0geyJzZWVkIjogc2VlZCwgIm50ciI6IG50ciwgIm50ZSI6IG50ZSwgInJlcHIiOiB7fX0KCiAgICBmb3Igcm5hbWUsIChmbiwgcmRlc2MpIGluIFJFUFIuaXRlbXMoKToKICAgICAgICBjbGYgPSBNTkIoKQogICAgICAgIGNsZi5maXQoW2ZuKHQpIGZvciB0LCBfIGluIHRyXSwgW3kgZm9yIF8sIHkgaW4gdHJdKQogICAgICAgIGJhc2VfcHJlZCA9IFtjbGYucHJlZGljdChmbih0KSkgZm9yIHQsIF8gaW4gdGVdCiAgICAgICAgYWNjID0gc3VtKDEgZm9yIHAsIChfLCB5KSBpbiB6aXAoYmFzZV9wcmVkLCB0ZSkgaWYgcCA9PSB5KSAvIGxlbih0ZSkKCiAgICAgICAgcm93cyA9IFtdCiAgICAgICAgZm9yIG9uYW1lLCAob2YsIG9kZXNjKSBpbiBPUFMuaXRlbXMoKToKICAgICAgICAgICAgaW52b2wsIGFzeW0sIGZsaXAsIGFtcCA9IDAsIDAsIDAsIFtdCiAgICAgICAgICAgIGZvciAodCwgeSksIGJwIGluIHppcCh0ZSwgYmFzZV9wcmVkKToKICAgICAgICAgICAgICAgIHQxID0gb2YodCkKICAgICAgICAgICAgICAgIHQyID0gb2YodDEpCiAgICAgICAgICAgICAgICBpZiB0MiA9PSB0OiBpbnZvbCArPSAxICAgICAgICAgICAgICAgICAgICAgICMg5a+55ZCI5oCnCiAgICAgICAgICAgICAgICBpZiB0MSAhPSB0OiBhc3ltICs9IDEgICAgICAgICAgICAgICAgICAgICAgICMg6Z2e5a+556ew5oCnCiAgICAgICAgICAgICAgICBwMSA9IGNsZi5wcmVkaWN0KGZuKHQxKSkKICAgICAgICAgICAgICAgIGlmIHAxICE9IGJwOiBmbGlwICs9IDEgICAgICAgICAgICAgICAgICAgICAgIyDpooTmtYvnv7vovawKICAgICAgICAgICAgICAgIGFtcC5hcHBlbmQoZWRpdF9yYXRpbyh0LCB0MSkpCiAgICAgICAgICAgIG4gPSBsZW4odGUpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsKICAgICAgICAgICAgICAgICJvcCI6IG9uYW1lLCAiZGVzYyI6IG9kZXNjLAogICAgICAgICAgICAgICAgImludm9sdXRpb24iOiBpbnZvbCAvIG4sICJhc3ltIjogYXN5bSAvIG4sCiAgICAgICAgICAgICAgICAiZmxpcCI6IGZsaXAgLyBuLCAiYW1wIjogc3VtKGFtcCkgLyBuLAogICAgICAgICAgICAgICAgImxldmVyIjogKGZsaXAgLyBuKSAvIChzdW0oYW1wKSAvIG4pIGlmIHN1bShhbXApID4gMCBlbHNlIGZsb2F0KCJuYW4iKSwKICAgICAgICAgICAgfSkKICAgICAgICBvdXRbInJlcHIiXVtybmFtZV0gPSB7ImRlc2MiOiByZGVzYywgImFjYyI6IGFjYywgIm9wcyI6IHJvd3N9CiAgICByZXR1cm4gb3V0CgojID09PT09PT09PT09PT09PT09IFBhcnQgQiA9PT09PT09PT09PT09PT09PQpkZWYgcnVuX2ZyYW5rKG1vZGUsIGdhbW1hLCBtaW5vcml0eT0wLjQ5LCBnZW5zPTI1LCBwb29sX249MTIwMCwKICAgICAgICAgICAgICBiYXRjaD02MDAsIHNlZWQ9MSk6CiAgICBybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICBwb29sID0gQ291bnRlcigpCiAgICBwb29sWyJMIl0gPSBpbnQocm91bmQocG9vbF9uICogbWlub3JpdHkpKQogICAgcG9vbFsiUiJdID0gcG9vbF9uIC0gcG9vbFsiTCJdCiAgICBoaXN0ID0gW10KICAgIGZvciBnIGluIHJhbmdlKGdlbnMpOgogICAgICAgIHRvdCA9IHN1bShwb29sLnZhbHVlcygpKQogICAgICAgIHBMID0gcG9vbFsiTCJdIC8gdG90CiAgICAgICAgaWYgYWJzKGdhbW1hIC0gMS4wKSA8IDFlLTk6CiAgICAgICAgICAgIHBBID0gcEwKICAgICAgICBlbHNlOgogICAgICAgICAgICBhID0gcEwgKiogZ2FtbWEKICAgICAgICAgICAgYiA9ICgxIC0gcEwpICoqIGdhbW1hCiAgICAgICAgICAgIHBBID0gYSAvIChhICsgYikgaWYgKGEgKyBiKSA+IDAgZWxzZSBwTAogICAgICAgICMg5pyJ6ZmQ6YeH5qC35Zmq5aOw77yI5a+55bqU5pyJ6ZmQ5qC35pys55qE57uf6K6h6K+v5beu77yJCiAgICAgICAgbmV3TCA9IHN1bSgxIGZvciBfIGluIHJhbmdlKGJhdGNoKSBpZiBybmcucmFuZG9tKCkgPCBwQSkKICAgICAgICBuZXdSID0gYmF0Y2ggLSBuZXdMCiAgICAgICAgaWYgbW9kZSA9PSAiUkVQTEFDRSI6CiAgICAgICAgICAgIHBvb2wgPSBDb3VudGVyKHsiTCI6IG5ld0wsICJSIjogbmV3Un0pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcG9vbFsiTCJdICs9IG5ld0wKICAgICAgICAgICAgcG9vbFsiUiJdICs9IG5ld1IKICAgICAgICB0b3QgPSBzdW0ocG9vbC52YWx1ZXMoKSkKICAgICAgICBoaXN0LmFwcGVuZChwb29sWyJMIl0gLyB0b3QgaWYgdG90IGVsc2UgZmxvYXQoIm5hbiIpKQogICAgcmV0dXJuIGhpc3QKCmRlZiBydW5fbXVsdGljbGFzcyhtb2RlLCBnYW1tYSwgcHJvcHMsIGdlbnM9MjUsIHBvb2xfbj0xMjAwLCBiYXRjaD02MDAsIHNlZWQ9Myk6CiAgICBybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICBwb29sID0gQ291bnRlcigpCiAgICBmb3IgaSwgcCBpbiBlbnVtZXJhdGUocHJvcHMpOgogICAgICAgIHBvb2xbIkMlZCIgJSBpXSA9IG1heCgxLCBpbnQocm91bmQocG9vbF9uICogcCkpKQogICAgaGlzdCA9IFtdCiAgICBmb3IgZyBpbiByYW5nZShnZW5zKToKICAgICAgICB0b3QgPSBzdW0ocG9vbC52YWx1ZXMoKSkKICAgICAgICBwcyA9IHtrOiB2IC8gdG90IGZvciBrLCB2IGluIHBvb2wuaXRlbXMoKX0KICAgICAgICBpZiBhYnMoZ2FtbWEgLSAxLjApIDwgMWUtOToKICAgICAgICAgICAgYW1wID0gcHMKICAgICAgICBlbHNlOgogICAgICAgICAgICByYXcgPSB7azogdiAqKiBnYW1tYSBmb3IgaywgdiBpbiBwcy5pdGVtcygpfQogICAgICAgICAgICBzID0gc3VtKHJhdy52YWx1ZXMoKSkKICAgICAgICAgICAgYW1wID0ge2s6IHYgLyBzIGZvciBrLCB2IGluIHJhdy5pdGVtcygpfSBpZiBzID4gMCBlbHNlIHBzCiAgICAgICAga2V5cyA9IGxpc3QocG9vbC5rZXlzKCkpCiAgICAgICAgd3MgPSBbYW1wW2tdIGZvciBrIGluIGtleXNdCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoYmF0Y2gpOgogICAgICAgICAgICByID0gcm5nLnJhbmRvbSgpOyBhY2MgPSAwLjA7IHBpY2sgPSBrZXlzWy0xXQogICAgICAgICAgICBmb3IgaywgdyBpbiB6aXAoa2V5cywgd3MpOgogICAgICAgICAgICAgICAgYWNjICs9IHcKICAgICAgICAgICAgICAgIGlmIHIgPD0gYWNjOiBwaWNrID0gazsgYnJlYWsKICAgICAgICAgICAgcG9vbFtwaWNrXSArPSAxCiAgICAgICAgaWYgbW9kZSA9PSAiUkVQTEFDRSI6CiAgICAgICAgICAgICMg5Y+q5L+d55WZ5pys5Luj5Lqn54mpCiAgICAgICAgICAgIG5ld2MgPSBDb3VudGVyKCkKICAgICAgICAgICAgZm9yIGsgaW4ga2V5czogbmV3Y1trXSA9IDAKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoYmF0Y2gpOgogICAgICAgICAgICAgICAgciA9IHJuZy5yYW5kb20oKTsgYWNjID0gMC4wOyBwaWNrID0ga2V5c1stMV0KICAgICAgICAgICAgICAgIGZvciBrLCB3IGluIHppcChrZXlzLCB3cyk6CiAgICAgICAgICAgICAgICAgICAgYWNjICs9IHcKICAgICAgICAgICAgICAgICAgICBpZiByIDw9IGFjYzogcGljayA9IGs7IGJyZWFrCiAgICAgICAgICAgICAgICBuZXdjW3BpY2tdICs9IDEKICAgICAgICAgICAgcG9vbCA9IG5ld2MKICAgICAgICB0b3QgPSBzdW0ocG9vbC52YWx1ZXMoKSkKICAgICAgICBoaXN0LmFwcGVuZCh7azogcG9vbFtrXSAvIHRvdCBmb3IgayBpbiBwb29sIGlmIHRvdH0pCiAgICByZXR1cm4gaGlzdAoKZGVmIHBhcnRfYigpOgogICAgcmVzID0geyJiaW5hcnkiOiBbXSwgIm11bHRpY2xhc3MiOiBbXX0KICAgIGZvciBtb2RlIGluICgiUkVQTEFDRSIsICJBQ0NVTVVMQVRFIik6CiAgICAgICAgZm9yIGdhbW1hIGluICgxLjAsIDEuNiwgMi41KToKICAgICAgICAgICAgaCA9IHJ1bl9mcmFuayhtb2RlLCBnYW1tYSkKICAgICAgICAgICAgcmVzWyJiaW5hcnkiXS5hcHBlbmQoewogICAgICAgICAgICAgICAgIm1vZGUiOiBtb2RlLCAiZ2FtbWEiOiBnYW1tYSwKICAgICAgICAgICAgICAgICJpbml0IjogaFswXSwgImZpbmFsIjogaFstMV0sICJoaXN0IjogaCwKICAgICAgICAgICAgICAgICJleHRpbmN0IjogMSBpZiAoaFstMV0gPCAxZS05IG9yIGhbLTFdID4gMSAtIDFlLTkpIGVsc2UgMCwKICAgICAgICAgICAgfSkKICAgIHByb3BzID0gWzAuNDAsIDAuMzAsIDAuMTgsIDAuMDgsIDAuMDRdCiAgICBmb3IgbW9kZSBpbiAoIlJFUExBQ0UiLCAiQUNDVU1VTEFURSIpOgogICAgICAgIGggPSBydW5fbXVsdGljbGFzcyhtb2RlLCAyLjAsIHByb3BzKQogICAgICAgIGZpcnN0ID0gaFswXTsgbGFzdCA9IGhbLTFdCiAgICAgICAgZGVhZCA9IFtrIGZvciBrIGluIGZpcnN0IGlmIGxhc3QuZ2V0KGssIDApIDwgMWUtOV0KICAgICAgICByZXNbIm11bHRpY2xhc3MiXS5hcHBlbmQoewogICAgICAgICAgICAibW9kZSI6IG1vZGUsICJnYW1tYSI6IDIuMCwgInByb3BzIjogcHJvcHMsCiAgICAgICAgICAgICJpbml0IjogZmlyc3QsICJmaW5hbCI6IGxhc3QsCiAgICAgICAgICAgICJkZWFkX2NsYXNzZXMiOiBkZWFkLAogICAgICAgICAgICAicmFyZXN0X2luaXQiOiBtaW4oZmlyc3QudmFsdWVzKCkpLAogICAgICAgICAgICAicmFyZXN0X2ZpbmFsIjogbWluKGxhc3QudmFsdWVzKCkpLAogICAgICAgIH0pCiAgICByZXR1cm4gcmVzCgojID09PT09PT09PT09PT09PT09IG1haW4gPT09PT09PT09PT09PT09PT0KaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIEEgPSBwYXJ0X2EoKQogICAgQiA9IHBhcnRfYigpCgogICAgcHJpbnQoIj0iICogNjYpCiAgICBwcmludCgiZXhwMTM5ICDor63kuYnmiYvmgKfkuI7miYvmgKfnoLTnvLoiKQogICAgcHJpbnQoIj0iICogNjYpCgogICAgcHJpbnQoIlxuLS0tIFBhcnQgQSAg5omL5oCn566X5a2Q6K+G5YirIC0tLSIpCiAgICBmb3Igcm5hbWUsIHIgaW4gQVsicmVwciJdLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoIlxuWyVzXSAlcyAgIOWfuue6v+WHhuehrueOhyAlLjRmIiAlIChybmFtZSwgclsiZGVzYyJdLCByWyJhY2MiXSkpCiAgICAgICAgcHJpbnQoIiAgJS02cyAlLTIycyAlOHMgJThzICU4cyAlOHMgJThzIiAlCiAgICAgICAgICAgICAgKCJvcCIsICJkZXNjIiwgIuWvueWQiCIsICLpnZ7lr7nnp7AiLCAi57+76L2sIiwgIuW5heW6piIsICLmnaDmnYYiKSkKICAgICAgICBmb3IgbyBpbiByWyJvcHMiXToKICAgICAgICAgICAgcHJpbnQoIiAgJS02cyAlLTIycyAlOC4zZiAlOC4zZiAlOC4zZiAlOC4zZiAlOC4yZiIgJQogICAgICAgICAgICAgICAgICAob1sib3AiXSwgb1siZGVzYyJdWzoyMl0sIG9bImludm9sdXRpb24iXSwgb1siYXN5bSJdLAogICAgICAgICAgICAgICAgICAgb1siZmxpcCJdLCBvWyJhbXAiXSwgb1sibGV2ZXIiXSkpCgogICAgcHJpbnQoIlxuLS0tIFBhcnQgQiAgRnJhbmstU29haSDnoYXln7rniYjvvIjliJ3lp4sgTCDljaAgNDkl77yJLS0tIikKICAgIHByaW50KCIgICUtMTJzICU2cyAlMTBzICUxMHMgJThzIiAlICgibW9kZSIsICJnYW1tYSIsICJpbml0IiwgImZpbmFsIiwgIumUgeatuyIpKQogICAgZm9yIHIgaW4gQlsiYmluYXJ5Il06CiAgICAgICAgcHJpbnQoIiAgJS0xMnMgJTYuMWYgJTEwLjRmICUxMC40ZiAlOGQiICUKICAgICAgICAgICAgICAoclsibW9kZSJdLCByWyJnYW1tYSJdLCByWyJpbml0Il0sIHJbImZpbmFsIl0sIHJbImV4dGluY3QiXSkpCgogICAgcHJpbnQoIlxuLS0tIFBhcnQgQjIgIOeogOacieexu+aYr+WQpuWFiOa2iOWkse+8iDUg57G75LiN5Z2H5YyALCBnYW1tYT0yLjDvvIktLS0iKQogICAgZm9yIHIgaW4gQlsibXVsdGljbGFzcyJdOgogICAgICAgIHByaW50KCIgIFslc10iICUgclsibW9kZSJdKQogICAgICAgIHByaW50KCIgICAgaW5pdCAgJXMiICUge2s6IHJvdW5kKHYsIDQpIGZvciBrLCB2IGluIHJbImluaXQiXS5pdGVtcygpfSkKICAgICAgICBwcmludCgiICAgIGZpbmFsICVzIiAlIHtrOiByb3VuZCh2LCA0KSBmb3IgaywgdiBpbiByWyJmaW5hbCJdLml0ZW1zKCl9KQogICAgICAgIHByaW50KCIgICAg5raI5aSx57G7ICVzIHwg5pyA56iA5pyJICUuNGYgLT4gJS40ZiIgJQogICAgICAgICAgICAgIChyWyJkZWFkX2NsYXNzZXMiXSwgclsicmFyZXN0X2luaXQiXSwgclsicmFyZXN0X2ZpbmFsIl0pKQoKICAgIHdpdGggb3BlbigicmVzdWx0MTM5Lmpzb24iLCAidyIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKHsiQSI6IEEsICJCIjogQn0sIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludCgiXG5bc2F2ZWRdIHJlc3VsdDEzOS5qc29uIikK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp139: 语义手性与手性破缺（硅基版 Frank / Soai）
+
+Part A  手性算子识别
+  算子必须满足两条才算"手性操作"：
+    (1) 对合性  sigma(sigma(x)) == x
+    (2) 非对称性 sigma(x) != x
+  再量第三条：翻转杠杆率 = 预测翻转率 / 归一化扰动幅度
+  对照：表面扰动（换主语 ROLE）幅度相当但不翻转
+
+Part B  Frank-Soai 硅基版
+  初始手性偏移极小 -> 自催化放大 -> 看是否被锁死成单手性
+  两种更新模式：REPLACE（替换）/ ACCUMULATE（累积）
+  扩展：多类不均匀时，稀有类是否先消失
+"""
+import math, random, json
+from collections import Counter
+
+# ---------------- 语料 ----------------
+SUBJ = ["系统", "管理员", "服务", "进程", "用户", "网关"]
+VERB_P = ["允许", "执行", "发送", "读取", "写入", "记录", "校验"]   # 极性 +1
+VERB_N = ["禁止", "拦截", "阻断", "拒绝", "删除", "丢弃"]          # 极性 -1
+OBJ = ["文件", "数据", "请求", "日志", "消息", "连接", "凭证"]
+COMP = ["到本地", "至服务器", "给用户", "即刻", "静默", "全部"]
+
+ALL_V = VERB_P + VERB_N
+
+def polarity_of(v):
+    return 1 if v in VERB_P else -1
+
+def gen(rng, neg_rate=0.30):
+    s = rng.choice(SUBJ)
+    v = rng.choice(ALL_V)
+    neg = rng.random() < neg_rate
+    o = rng.choice(OBJ)
+    c = rng.choice(COMP)
+    toks = [s] + (["不"] if neg else []) + [v, o, c]
+    pol = polarity_of(v) * (-1 if neg else 1)
+    return toks, ("PERMIT" if pol > 0 else "DENY")
+
+# ---------------- 算子 ----------------
+def op_neg(toks):
+    """插入/删除否定词 —— 极性翻转，1 个 token 的改动"""
+    t = list(toks)
+    if "不" in t:
+        return [x for x in t if x != "不"]
+    return t[:1] + ["不"] + t[1:]
+
+def _idx(toks):
+    """返回 (主语位, 动词位, 宾语位)"""
+    if "不" in toks:
+        iv = toks.index("不") + 1
+    else:
+        iv = 1
+    return 0, iv, iv + 1
+
+def op_swap(toks):
+    """主宾互换 —— 语序镜像，词集合完全不变"""
+    t = list(toks)
+    i_s, _, i_o = _idx(toks)
+    t[i_s], t[i_o] = t[i_o], t[i_s]
+    return t
+
+def op_rev(toks):
+    """整体倒装 —— 严格对合"""
+    return list(reversed(toks))
+
+def op_role(toks):
+    """换主语（同集合内）—— 表面扰动对照，标签不变，词在词汇表内"""
+    t = list(toks)
+    i_s, _, _ = _idx(toks)
+    cur = t[i_s]
+    cand = [x for x in SUBJ if x != cur]
+    t[i_s] = cand[hash(tuple(toks)) % len(cand)]
+    return t
+
+OPS = {
+    "NEG":  (op_neg,  "极性翻转（否定词增删）"),
+    "SWAP": (op_swap, "语序镜像（主宾互换）"),
+    "REV":  (op_rev,  "整体倒装"),
+    "ROLE": (op_role, "表面对照（换主语）"),
+}
+
+# ---------------- 表示 ----------------
+def f_bow(toks):
+    return Counter(toks)
+
+def f_pos(toks):
+    c = Counter(toks)
+    for a, b in zip(toks, toks[1:]):
+        c[a + "|" + b] += 1
+    return c
+
+REPR = {"BOW": (f_bow, "词袋（位置无关，非手性表示）"),
+        "POS": (f_pos, "词+相邻二元组（含序，手性表示）")}
+
+# ---------------- 朴素贝叶斯 ----------------
+class MNB:
+    def __init__(self, alpha=0.4):
+        self.alpha = alpha
+
+    def fit(self, X, y):
+        self.classes = sorted(set(y))
+        self.prior, self.cnt, self.tot = {}, {}, {}
+        V = set()
+        for c in self.classes:
+            self.prior[c] = 0; self.cnt[c] = Counter(); self.tot[c] = 0
+        for xi, yi in zip(X, y):
+            self.prior[yi] += 1
+            for f, n in xi.items():
+                self.cnt[yi][f] += n
+                self.tot[yi] += n
+                V.add(f)
+        N = len(X)
+        self.V = list(V)
+        for c in self.classes:
+            self.prior[c] = math.log(self.prior[c] / N)
+        self.den = {c: self.tot[c] + self.alpha * len(self.V) for c in self.classes}
+        self.defp = {c: math.log(self.alpha / self.den[c]) for c in self.classes}
+        self.lp = {c: {f: math.log((self.cnt[c][f] + self.alpha) / self.den[c])
+                       for f in self.V if self.cnt[c][f]} for c in self.classes}
+
+    def predict(self, xi):
+        best, bc = None, None
+        for c in self.classes:
+            lp = self.lp[c]
+            s = self.prior[c] + sum(n * lp.get(f, self.defp[c]) for f, n in xi.items())
+            if best is None or s > best:
+                best, bc = s, c
+        return bc
+
+# ---------------- 度量 ----------------
+def edit_ratio(a, b):
+    """归一化改动幅度：不同位置数 / max(len)"""
+    n = max(len(a), len(b))
+    if n == 0: return 0.0
+    d = sum(1 for x, y in zip(a, b) if x != y) + abs(len(a) - len(b))
+    return d / n
+
+# ================= Part A =================
+def part_a(seed=7, ntr=2400, nte=600):
+    rng = random.Random(seed)
+    tr = [gen(rng) for _ in range(ntr)]
+    te = [gen(rng) for _ in range(nte)]
+
+    out = {"seed": seed, "ntr": ntr, "nte": nte, "repr": {}}
+
+    for rname, (fn, rdesc) in REPR.items():
+        clf = MNB()
+        clf.fit([fn(t) for t, _ in tr], [y for _, y in tr])
+        base_pred = [clf.predict(fn(t)) for t, _ in te]
+        acc = sum(1 for p, (_, y) in zip(base_pred, te) if p == y) / len(te)
+
+        rows = []
+        for oname, (of, odesc) in OPS.items():
+            invol, asym, flip, amp = 0, 0, 0, []
+            for (t, y), bp in zip(te, base_pred):
+                t1 = of(t)
+                t2 = of(t1)
+                if t2 == t: invol += 1                      # 对合性
+                if t1 != t: asym += 1                       # 非对称性
+                p1 = clf.predict(fn(t1))
+                if p1 != bp: flip += 1                      # 预测翻转
+                amp.append(edit_ratio(t, t1))
+            n = len(te)
+            rows.append({
+                "op": oname, "desc": odesc,
+                "involution": invol / n, "asym": asym / n,
+                "flip": flip / n, "amp": sum(amp) / n,
+                "lever": (flip / n) / (sum(amp) / n) if sum(amp) > 0 else float("nan"),
+            })
+        out["repr"][rname] = {"desc": rdesc, "acc": acc, "ops": rows}
+    return out
+
+# ================= Part B =================
+def run_frank(mode, gamma, minority=0.49, gens=25, pool_n=1200,
+              batch=600, seed=1):
+    rng = random.Random(seed)
+    pool = Counter()
+    pool["L"] = int(round(pool_n * minority))
+    pool["R"] = pool_n - pool["L"]
+    hist = []
+    for g in range(gens):
+        tot = sum(pool.values())
+        pL = pool["L"] / tot
+        if abs(gamma - 1.0) < 1e-9:
+            pA = pL
+        else:
+            a = pL ** gamma
+            b = (1 - pL) ** gamma
+            pA = a / (a + b) if (a + b) > 0 else pL
+        # 有限采样噪声（对应有限样本的统计误差）
+        newL = sum(1 for _ in range(batch) if rng.random() < pA)
+        newR = batch - newL
+        if mode == "REPLACE":
+            pool = Counter({"L": newL, "R": newR})
+        else:
+            pool["L"] += newL
+            pool["R"] += newR
+        tot = sum(pool.values())
+        hist.append(pool["L"] / tot if tot else float("nan"))
+    return hist
+
+def run_multiclass(mode, gamma, props, gens=25, pool_n=1200, batch=600, seed=3):
+    rng = random.Random(seed)
+    pool = Counter()
+    for i, p in enumerate(props):
+        pool["C%d" % i] = max(1, int(round(pool_n * p)))
+    hist = []
+    for g in range(gens):
+        tot = sum(pool.values())
+        ps = {k: v / tot for k, v in pool.items()}
+        if abs(gamma - 1.0) < 1e-9:
+            amp = ps
+        else:
+            raw = {k: v ** gamma for k, v in ps.items()}
+            s = sum(raw.values())
+            amp = {k: v / s for k, v in raw.items()} if s > 0 else ps
+        keys = list(pool.keys())
+        ws = [amp[k] for k in keys]
+        for _ in range(batch):
+            r = rng.random(); acc = 0.0; pick = keys[-1]
+            for k, w in zip(keys, ws):
+                acc += w
+                if r <= acc: pick = k; break
+            pool[pick] += 1
+        if mode == "REPLACE":
+            # 只保留本代产物
+            newc = Counter()
+            for k in keys: newc[k] = 0
+            for _ in range(batch):
+                r = rng.random(); acc = 0.0; pick = keys[-1]
+                for k, w in zip(keys, ws):
+                    acc += w
+                    if r <= acc: pick = k; break
+                newc[pick] += 1
+            pool = newc
+        tot = sum(pool.values())
+        hist.append({k: pool[k] / tot for k in pool if tot})
+    return hist
+
+def part_b():
+    res = {"binary": [], "multiclass": []}
+    for mode in ("REPLACE", "ACCUMULATE"):
+        for gamma in (1.0, 1.6, 2.5):
+            h = run_frank(mode, gamma)
+            res["binary"].append({
+                "mode": mode, "gamma": gamma,
+                "init": h[0], "final": h[-1], "hist": h,
+                "extinct": 1 if (h[-1] < 1e-9 or h[-1] > 1 - 1e-9) else 0,
+            })
+    props = [0.40, 0.30, 0.18, 0.08, 0.04]
+    for mode in ("REPLACE", "ACCUMULATE"):
+        h = run_multiclass(mode, 2.0, props)
+        first = h[0]; last = h[-1]
+        dead = [k for k in first if last.get(k, 0) < 1e-9]
+        res["multiclass"].append({
+            "mode": mode, "gamma": 2.0, "props": props,
+            "init": first, "final": last,
+            "dead_classes": dead,
+            "rarest_init": min(first.values()),
+            "rarest_final": min(last.values()),
+        })
+    return res
+
+# ================= main =================
+if __name__ == "__main__":
+    A = part_a()
+    B = part_b()
+
+    print("=" * 66)
+    print("exp139  语义手性与手性破缺")
+    print("=" * 66)
+
+    print("\n--- Part A  手性算子识别 ---")
+    for rname, r in A["repr"].items():
+        print("\n[%s] %s   基线准确率 %.4f" % (rname, r["desc"], r["acc"]))
+        print("  %-6s %-22s %8s %8s %8s %8s %8s" %
+              ("op", "desc", "对合", "非对称", "翻转", "幅度", "杠杆"))
+        for o in r["ops"]:
+            print("  %-6s %-22s %8.3f %8.3f %8.3f %8.3f %8.2f" %
+                  (o["op"], o["desc"][:22], o["involution"], o["asym"],
+                   o["flip"], o["amp"], o["lever"]))
+
+    print("\n--- Part B  Frank-Soai 硅基版（初始 L 占 49%）---")
+    print("  %-12s %6s %10s %10s %8s" % ("mode", "gamma", "init", "final", "锁死"))
+    for r in B["binary"]:
+        print("  %-12s %6.1f %10.4f %10.4f %8d" %
+              (r["mode"], r["gamma"], r["init"], r["final"], r["extinct"]))
+
+    print("\n--- Part B2  稀有类是否先消失（5 类不均匀, gamma=2.0）---")
+    for r in B["multiclass"]:
+        print("  [%s]" % r["mode"])
+        print("    init  %s" % {k: round(v, 4) for k, v in r["init"].items()})
+        print("    final %s" % {k: round(v, 4) for k, v in r["final"].items()})
+        print("    消失类 %s | 最稀有 %.4f -> %.4f" %
+              (r["dead_classes"], r["rarest_init"], r["rarest_final"]))
+
+    with open("result139.json", "w") as f:
+        json.dump({"A": A, "B": B}, f, ensure_ascii=False, indent=1)
+    print("\n[saved] result139.json")

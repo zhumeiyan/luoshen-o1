@@ -1,1 +1,224 @@
-LyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQogICBldmFsZ3VhcmQgSlMgZW5naW5lIOKAlCDpobXpnaLlhoXltYzniYjvvIjkuI4gZG9jcy9kZW1vLmh0bWwg5ZCM5rqQ77yM5Yu/5omL5pS55Ymv5pys77yJCiAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAg6K6+6K6h5Y6f5YiZ77yI5a+55bqU5oiR5Lus6Ieq5bex55qE5aSx6LSl5qih5byP5bqT77yJ77yaCiAgICAgMS4g5Y+q5a6e546w44CQ6K+t5rOV57G744CR6KeE5YiZIOKAlOKAlCAxMjkg5Y+35a6e5rWL77ya6K+t5rOV57G75ZG95LitIDE4LzIw77yMCiAgICAgICAg5pa55rOV6K6657G7IDEvNTXjgILmlrnms5Xorrrnsbvlt7LlhbPlgZzvvIzmraTlpITpu5jorqTkuI3lkK/nlKjjgIIKICAgICAyLiDmr4/mnaHop4TliJnpg73og73or7TmuIXjgIzlroPmipPnmoTmmK/ku4DkuYjpnZnpu5jlpLHotKXjgI3vvIzkuI3mmK/po47moLzmhI/op4HjgIIKICAgICAzLiDlhbPlgZznmoTop4TliJnku43nhLbliJflh7rmnaXjgIHku43nhLblj6/li77pgIkg4oCU4oCUIOiuqeS9oOeci+ingeaIkeWFs+S6huS7gOS5iOOAggogICA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCid1c2Ugc3RyaWN0JzsKCnZhciBFR19SVUxFUyA9IFsKICB7CiAgICBpZDogJ0VHMDA2Jywgc2V2OiAnYmxvY2tlcicsIGNsczogJ3N5bnRheCcsIG9uOiB0cnVlLAogICAgdGl0bGU6ICdCYXJlIC8gc2lsZW50IGV4Y2VwdCDlkJ7mjonkuobmnKzor6XmiqXlkYrnmoTlpLHotKUnLAogICAgd2h5OiAn5byC5bi46KKr5ZCD5o6J5LmL5ZCO77yM6ISa5pys54Wn5qC36YCA5Ye656CBIDDjgILkvaDnnIvliLDnmoTmmK8i6LeR5a6M5LqGIu+8jOS4jeaYryLot5HpgJrkuoYi44CCJywKICAgIGZpeDogJ+aNouaIkCBleGNlcHQgU3BlY2lmaWNFcnJvcu+8jOW5tuiusOW9leaIlumHjeaKm+OAgicsCiAgICBydW46IGZ1bmN0aW9uIChMKSB7CiAgICAgIHZhciBvdXQgPSBbXTsKICAgICAgTC5mb3JFYWNoKGZ1bmN0aW9uIChzLCBpKSB7CiAgICAgICAgaWYgKC9eXHMqZXhjZXB0XHMqOi8udGVzdChzKSB8fCAvZXhjZXB0XHMqOj9ccyoocGFzc3xcLlwuXC4pXHMqJC8udGVzdChzKSkKICAgICAgICAgIG91dC5wdXNoKHsgbGluZTogaSArIDEsIGNvZGU6IHMudHJpbSgpIH0pOwogICAgICB9KTsKICAgICAgcmV0dXJuIG91dDsKICAgIH0KICB9LAogIHsKICAgIGlkOiAnRUcwMDUnLCBzZXY6ICd3YXJuJywgY2xzOiAnc3ludGF4Jywgb246IHRydWUsCiAgICB0aXRsZTogJ+mZpOazleayoeacieWIhuavjeS/neaKpCcsCiAgICB3aHk6ICfliIbmr43kuLogMCDml7bvvIzlpJrmlbDov5DooYzml7bkuI3mipvlvILluLjogIzmmK/kuqflh7ogaW5mL05hTu+8jOaMh+agh+eFp+agt+aJk+WNsOWHuuadpeOAgicsCiAgICBmaXg6ICfpmaTliY3liKTnqbrvvIzmiJbnlKggbWF4KGRlbiwgMSkg5pi+5byP5YWc5bqV44CCJywKICAgIHJ1bjogZnVuY3Rpb24gKEwpIHsKICAgICAgdmFyIG91dCA9IFtdOwogICAgICAvLyDlhYjmiavkuIDpgY0i6KKr5L+d5oqk6L+H55qE5ZCN5a2XIu+8mmFzc2VydCBuPjAgLyBpZiBub3QgbiAvIGlmIG49PTAgLyBtYXgobiwxKQogICAgICAvLyDvvIjpqozor4Hml7bmkp7liLDnmoTnnJ/lrp7lgYfpmLPmgKfvvJpjbGVhbl9vay5weSDmnIkgYXNzZXJ0IGxlbihnb2xkKT4wIOS7jeiiq+aKpe+8jAogICAgICAvLyAgIOi/meato+aYryAxMjkg5Y+36K6w6L+H55qE6ICB5q+b55eF4oCU4oCU5oqK44CM5L+u5aW955qE5qC35a2Q44CN5b2T5oiQ6Zeu6aKY77yJCiAgICAgIHZhciBndWFyZGVkID0ge307CiAgICAgIHZhciBhbGwgPSBMLmpvaW4oJ1xuJyk7CiAgICAgIHZhciBnbSA9IGFsbC5tYXRjaCgvKD86YXNzZXJ0fGlmKVxzKyg/Om5vdFxzKyk/KFtBLVphLXpfXVtBLVphLXowLTlfLl0qKVxzKig/Oj09XHMqMHw+XHMqMHw8PVxzKjB8aXNccytOb25lKT8vZykgfHwgW107CiAgICAgIGdtLmZvckVhY2goZnVuY3Rpb24gKGcpIHsKICAgICAgICB2YXIgbSA9IGcubWF0Y2goLyhbQS1aYS16X11bQS1aYS16MC05Xy5dKilccyooPzo9PVxzKjB8PlxzKjB8PD1ccyowfGlzXHMrTm9uZSk/XHMqJC8pOwogICAgICAgIGlmIChtKSBndWFyZGVkW21bMV1dID0gdHJ1ZTsKICAgICAgfSk7CiAgICAgIChhbGwubWF0Y2goL21heFxzKlwoXHMqKFtBLVphLXpfXVtBLVphLXowLTlfLl0qKVxzKiwvZykgfHwgW10pLmZvckVhY2goZnVuY3Rpb24gKGcpIHsKICAgICAgICB2YXIgbSA9IGcubWF0Y2goL21heFxzKlwoXHMqKFtBLVphLXpfXVtBLVphLXowLTlfLl0qKS8pOyBpZiAobSkgZ3VhcmRlZFttWzFdXSA9IHRydWU7CiAgICAgIH0pOwogICAgICBMLmZvckVhY2goZnVuY3Rpb24gKHMsIGkpIHsKICAgICAgICAvLyDlhYjliaXmjonms6jph4rvvIzlho3liaXmjonlrZfnrKbkuLLlrZfpnaLph48g4oCU4oCUIFVSTCAvIOi3r+W+hOmHjOeahCAiLyIg5LiN5piv6Zmk5rOVCiAgICAgICAgLy8g77yI6aqM6K+B5pe25pKe5Yiw55qE55yf5a6e5YGH6Ziz5oCn77yaZmV0Y2goImh0dHBzOi8vYS5iL2MuanNvbiIpIOiiq+W9k+aIkOmZpOazle+8iQogICAgICAgIHZhciB0ID0gcy5yZXBsYWNlKC8jW15cbl0qLywgJycpCiAgICAgICAgICAgICAgICAgLnJlcGxhY2UoLyIiIltcc1xTXSo/IiIiL2csICciIicpCiAgICAgICAgICAgICAgICAgLnJlcGxhY2UoLycnJ1tcc1xTXSo/JycnL2csICInJyIpCiAgICAgICAgICAgICAgICAgLnJlcGxhY2UoLyhbJyJdKSg/OlxcLnwoPyFcMSlbXlxcXSkqXDEvZywgJyIiJyk7CiAgICAgICAgdmFyIG0gPSB0Lm1hdGNoKC9cL1xzKlwoP1xzKihbQS1aYS16X11bQS1aYS16MC05Xy5dKikvZyk7CiAgICAgICAgaWYgKCFtKSByZXR1cm47CiAgICAgICAgLy8g5YiG5q+N5piv57qv5pWw5a2X5bi46YeP5YiZ5LiN566X77yIMC41IOi/meexu+W4uOmHj+mZpOazleaYr+WuieWFqOeahO+8iQogICAgICAgIHZhciBiYXJlID0gbS5maWx0ZXIoZnVuY3Rpb24gKHgpIHsgcmV0dXJuICEvXlwvXHMqXCg/XHMqXGQvLnRlc3QoeCk7IH0pCiAgICAgICAgICAgICAgICAgICAgLm1hcChmdW5jdGlvbiAoeCkgeyB2YXIgcSA9IHgubWF0Y2goLyhbQS1aYS16X11bQS1aYS16MC05Xy5dKilccyokLyk7IHJldHVybiBxID8gcVsxXSA6ICcnOyB9KQogICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoZnVuY3Rpb24gKHYpIHsgcmV0dXJuIHYgJiYgIWd1YXJkZWRbdl07IH0pOwogICAgICAgIGlmIChiYXJlLmxlbmd0aCkgb3V0LnB1c2goeyBsaW5lOiBpICsgMSwgY29kZTogcy50cmltKCkgfSk7CiAgICAgIH0pOwogICAgICByZXR1cm4gb3V0OwogICAgfQogIH0sCiAgewogICAgaWQ6ICdFRzAwMScsIHNldjogJ3dhcm4nLCBjbHM6ICdzeW50YXgnLCBvbjogdHJ1ZSwKICAgIHRpdGxlOiAn55So5LqG6ZqP5py6IEFQSe+8jOS9huWFqOeoi+ayoeaciSBzZWVkJywKICAgIHdoeTogJ+avj+asoei3keWHuuadpeeahOaVsOWtl+mDveS4jeS4gOagt++8jOS9oOaXoOazleWMuuWIhiLmlrnms5XmnInmlYgi5ZKMIui/measoei/kOawlOWlvSLjgIInLAogICAgZml4OiAn5YWl5Y+j5aSE5Zu65a6aIHNlZWTvvIzlubbmioogc2VlZCDlhpnov5vnu5Pmnpzmlofku7bjgIInLAogICAgcnVuOiBmdW5jdGlvbiAoTCkgewogICAgICB2YXIgc3JjID0gTC5qb2luKCdcbicpOwogICAgICB2YXIgdXNlcyA9IC8oXGJyYW5kb21cLnxcYm5wXC5yYW5kb21cLnxcYm51bXB5XC5yYW5kb21cLnxcYnRvcmNoXC5yYW5kfFxic2h1ZmZsZVxzKlwoKS8udGVzdChzcmMpOwogICAgICB2YXIgc2VlZCA9IC8oc2VlZFxzKlwofG1hbnVhbF9zZWVkfHJhbmRvbV9zdGF0ZVxzKj0pLy50ZXN0KHNyYyk7CiAgICAgIGlmICh1c2VzICYmICFzZWVkKSB7CiAgICAgICAgdmFyIGhpdCA9IFtdOwogICAgICAgIEwuZm9yRWFjaChmdW5jdGlvbiAocywgaSkgewogICAgICAgICAgaWYgKC8oXGJyYW5kb21cLnxcYm5wXC5yYW5kb21cLnxcYm51bXB5XC5yYW5kb21cLnxcYnRvcmNoXC5yYW5kfFxic2h1ZmZsZVxzKlwoKS8udGVzdChzKSkKICAgICAgICAgICAgaGl0LnB1c2goeyBsaW5lOiBpICsgMSwgY29kZTogcy50cmltKCkgfSk7CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIGhpdC5zbGljZSgwLCA1KTsKICAgICAgfQogICAgICByZXR1cm4gW107CiAgICB9CiAgfSwKICB7CiAgICBpZDogJ0VHMDA5Jywgc2V2OiAnd2FybicsIGNsczogJ3N5bnRheCcsIG9uOiB0cnVlLAogICAgdGl0bGU6ICfotYvlgLzlkI7lho3msqHooqvnlKjov4fvvIjpnZnpu5jmrbvlj5jph4/vvIknLAogICAgd2h5OiAn5pyA5bi46KeB55qE5oOF5Ya15pivIueul+S6huS4gOWNiuW/mOS6huaOpeS4iiLvvIzohJrmnKznhafmoLfot5HlrozjgIHnhafmoLflh7rmlbDjgIInLAogICAgZml4OiAn5o6l5LiK5a6D77yM5oiW6ICF5Yig5o6J44CC5Yir6K6p5a6D55WZ5Zyo6YKj6YeM5YGH6KOF5bel5L2c5bey5a6M5oiQ44CCJywKICAgIHJ1bjogZnVuY3Rpb24gKEwpIHsKICAgICAgdmFyIHNyYyA9IEwuam9pbignXG4nKSwgb3V0ID0gW107CiAgICAgIEwuZm9yRWFjaChmdW5jdGlvbiAocywgaSkgewogICAgICAgIHZhciBtID0gcy5tYXRjaCgvXlxzKihbYS16X11bQS1aYS16MC05X117Mix9KVxzKj1ccyooPyE9PSkvKTsKICAgICAgICBpZiAoIW0pIHJldHVybjsKICAgICAgICB2YXIgdiA9IG1bMV07CiAgICAgICAgaWYgKC9eKHNlbGZ8Y2xzKSQvLnRlc3QodikpIHJldHVybjsKICAgICAgICB2YXIgbiA9IChzcmMubWF0Y2gobmV3IFJlZ0V4cCgnKD88IVtBLVphLXowLTlfXSknICsgdiArICcoPyFbQS1aYS16MC05X10pJywgJ2cnKSkgfHwgW10pLmxlbmd0aDsKICAgICAgICBpZiAobiA8PSAxKSBvdXQucHVzaCh7IGxpbmU6IGkgKyAxLCBjb2RlOiBzLnRyaW0oKSB9KTsKICAgICAgfSk7CiAgICAgIHJldHVybiBvdXQ7CiAgICB9CiAgfSwKICB7CiAgICBpZDogJ0VHMDA3Jywgc2V2OiAnd2FybicsIGNsczogJ3N5bnRheCcsIG9uOiB0cnVlLAogICAgdGl0bGU6ICflo7Dnp7Ai5bey5L+d5a2YL+W3suW9kuahoyLvvIzkvYblhajmlofmsqHmnInlhpnosIPnlKgnLAogICAgd2h5OiAn5rGH5oql6YeM6K+057uT5p6c6JC955uY5LqG77yM5Luj56CB6YeM5rKh5pyJIG9wZW4oLi4uLCJ3IikgLyBqc29uLmR1bXAgLyB0b19jc3bjgIInLAogICAgZml4OiAn6KGl5LiK55yf5a6e55qE5YaZ6LCD55So77yM5oiW5pS55o6J5o6q6L6e44CCJywKICAgIHJ1bjogZnVuY3Rpb24gKEwpIHsKICAgICAgdmFyIHNyYyA9IEwuam9pbignXG4nKTsKICAgICAgdmFyIGNsYWltcyA9IC8oc2F2ZWR8YXJjaGl2ZWR8ZHVtcGVkfHBlcnNpc3RlZHx3cml0dGVuIHRvfOW3suS/neWtmHzlt7LlvZLmoaN85bey6JC955uYfOW3suWGmeWFpSkvaS50ZXN0KHNyYyk7CiAgICAgIHZhciB3cml0ZXMgPSAvKG9wZW5ccypcKFteKV0qWyciXVt3YV18anNvblwuZHVtcHxcLndyaXRlXHMqXCh8dG9fY3N2fHRvX2V4Y2VsfHRvX2pzb258c2F2ZVxzKlwofG5wXC5zYXZlfHRvcmNoXC5zYXZlKS8udGVzdChzcmMpOwogICAgICBpZiAoY2xhaW1zICYmICF3cml0ZXMpIHsKICAgICAgICB2YXIgaGl0ID0gW107CiAgICAgICAgTC5mb3JFYWNoKGZ1bmN0aW9uIChzLCBpKSB7CiAgICAgICAgICBpZiAoLyhzYXZlZHxhcmNoaXZlZHxkdW1wZWR8cGVyc2lzdGVkfHdyaXR0ZW4gdG985bey5L+d5a2YfOW3suW9kuaho3zlt7LokL3nm5h85bey5YaZ5YWlKS9pLnRlc3QocykpCiAgICAgICAgICAgIGhpdC5wdXNoKHsgbGluZTogaSArIDEsIGNvZGU6IHMudHJpbSgpIH0pOwogICAgICAgIH0pOwogICAgICAgIHJldHVybiBoaXQuc2xpY2UoMCwgNCk7CiAgICAgIH0KICAgICAgcmV0dXJuIFtdOwogICAgfQogIH0sCiAgewogICAgaWQ6ICdFRzAwMycsIHNldjogJ3dhcm4nLCBjbHM6ICdzeW50YXgnLCBvbjogdHJ1ZSwKICAgIHRpdGxlOiAn5Yik5a6a6ZiI5YC856Gs57yW56CB5oiQIG1hZ2ljIG51bWJlcicsCiAgICB3aHk6ICfpmIjlgLzmnaXmupDor7TkuI3muIXvvIznu5PorrrlsLHkuI3lj6/lpI3moLjvvJvmjaLkuKrmlbDmja7pm4bov5jmmK/ov5nkuKrmlbDjgIInLAogICAgZml4OiAn5o+Q5Yiw5YW35ZCN5bi46YePL+mFjee9ru+8jOW5tuazqOaYjuWug+aYr+aAjuS5iOWumueahOOAgicsCiAgICBydW46IGZ1bmN0aW9uIChMKSB7CiAgICAgIHZhciBvdXQgPSBbXTsKICAgICAgTC5mb3JFYWNoKGZ1bmN0aW9uIChzLCBpKSB7CiAgICAgICAgdmFyIHQgPSBzLnJlcGxhY2UoLyNbXlxuXSovLCAnJyk7CiAgICAgICAgLy8g5YiG5oiQ44CM6LWL57uZ5YW35ZCN5bi46YeP44CN5ZKM44CM55u05o6l5YaF6IGU5Zyo5q+U6L6D6YeM44CN5Lik56eN44CCCiAgICAgICAgLy8g5YmN6ICF5oGw5oGw5piv5pys6KeE5YiZ6KaB5rGC55qE5L+u5aW95b2i5oCBIOKAlOKAlCDmiqXlroPlsLHmmK/mg6nnvZrlpb3ku6PnoIEKICAgICAgICAvLyDvvIjpqozor4Hml7bmkp7liLDnmoTnnJ/lrp7lgYfpmLPmgKfvvJpUSFJFU0hPTEQgPSAwLjUg6KKr5b2TIG1hZ2ljIG51bWJlcu+8jAogICAgICAgIC8vICAg5LiOIDEyOSDlj7cgRUcwMDIg55qE5pen55eF5ZCM5Z6L77yad2VsbC1uYW1lZCBjb2RlIOWPjeiAjOS4reaLm++8iQogICAgICAgIHZhciBuYW1lZCA9IC9eXHMqW0EtWl1bQS1aMC05X10qXHMqPVxzKlswLTkuXSsvLnRlc3QodCk7CiAgICAgICAgdmFyIGlubGluZU1hZ2ljID0gL1s8Pl09P1xzKjBcLlxkezIsfS8udGVzdCh0KSAmJiAhbmFtZWQ7CiAgICAgICAgdmFyIGFub25Bc3NpZ24gPSAvKHRocmVzaG9sZHx0aHJlc2h8Y3V0b2ZmfGN1dF9vZmZ8dG9sZXJhbmNlKVxzKls6PV1ccypbMC05Ll0rL2kudGVzdCh0KSAmJiAhbmFtZWQ7CiAgICAgICAgaWYgKGlubGluZU1hZ2ljIHx8IGFub25Bc3NpZ24pIG91dC5wdXNoKHsgbGluZTogaSArIDEsIGNvZGU6IHMudHJpbSgpIH0pOwogICAgICB9KTsKICAgICAgcmV0dXJuIG91dDsKICAgIH0KICB9LAoKICAvKiAtLS0tLS0tLS0tIOS7peS4i+S4uuOAkOaWueazleiuuuexu+OAke+8mjEyOSDlj7flrp7mtYsgMS81Ne+8jOW3suWFs+WBnCAtLS0tLS0tLS0tICovCiAgewogICAgaWQ6ICdFRzAwMicsIHNldjogJ2Jsb2NrZXInLCBjbHM6ICdtZXRob2QnLCBvbjogZmFsc2UsCiAgICB0aXRsZTogJ+aKpeS6hiBhY2N1cmFjeS9yZWNhbGzvvIzkvYbmsqHmnInpmo/mnLrln7rnur8nLAogICAgd2h5OiAn5rKh5pyJ5Z+657q/77yM5L2g5peg5rOV5Yik5patIDAuNzIg5piv5aW95piv5Z2P4oCU4oCU5aSa5pWw57G76Zeu6aKY6YeMIG1ham9yaXR5IOWwseiDveWIsCAwLjfjgIInLAogICAgZml4OiAn5ZCM5pe25oqlIG1ham9yaXR5IC8gcmFuZG9tIOWfuue6v++8jOiuqeaPkOWNh+mHj+WPr+ino+mHiuOAgicsCiAgICBydW46IGZ1bmN0aW9uIChMKSB7CiAgICAgIHZhciBzcmMgPSBMLmpvaW4oJ1xuJyk7CiAgICAgIHZhciByZXAgPSAvXGIoYWNjfGFjY3VyYWN5fHJlY2FsbHxwcmVjaXNpb258ZjEpXGIvaS50ZXN0KHNyYyk7CiAgICAgIHZhciBiYXNlID0gLyhiYXNlbGluZXxtYWpvcml0eXxkdW1teXxyYW5kb218Y2hhbmNlfG1vc3RfY29tbW9uKS9pLnRlc3Qoc3JjKTsKICAgICAgaWYgKHJlcCAmJiAhYmFzZSkgewogICAgICAgIHZhciBoaXQgPSBbXTsKICAgICAgICBMLmZvckVhY2goZnVuY3Rpb24gKHMsIGkpIHsKICAgICAgICAgIGlmICgvXGIoYWNjfGFjY3VyYWN5fHJlY2FsbHxwcmVjaXNpb258ZjEpXGIvaS50ZXN0KHMpKSBoaXQucHVzaCh7IGxpbmU6IGkgKyAxLCBjb2RlOiBzLnRyaW0oKSB9KTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gaGl0LnNsaWNlKDAsIDQpOwogICAgICB9CiAgICAgIHJldHVybiBbXTsKICAgIH0KICB9LAogIHsKICAgIGlkOiAnRUcwMTMnLCBzZXY6ICd3YXJuJywgY2xzOiAnbWV0aG9kJywgb246IGZhbHNlLAogICAgdGl0bGU6ICfmr5TnjofmjIfmoIfmsqHluKbliIblrZDliIbmr40nLAogICAgd2h5OiAnIuaIkOWKn+eOhyA5MyUiIOWcqCBuPTE0IOWSjCBuPTE0MDAwIOS4iuWQq+S5ieWujOWFqOS4jeWQjO+8jOayoeaciSBuIOWwseaYr+S4jeWPr+WIpOWumueahOOAgicsCiAgICBmaXg6ICfmiorliIblrZDkuI7liIbmr43kuIDotbflhpnov5vnu5PmnpzjgIInLAogICAgcnVuOiBmdW5jdGlvbiAoTCkgewogICAgICB2YXIgc3JjID0gTC5qb2luKCdcbicpOwogICAgICB2YXIgcmVwID0gLyhyYXRlfHJhdGlvfHBlcmNlbnR8cGN0fGFjY3VyYWN5KS9pLnRlc3Qoc3JjKTsKICAgICAgdmFyIGNudCA9IC8oY291bnR8bl98bnVtX3x0b3RhbHxkZW5vbWluYXRvcnxsZW5ccypcKCkvaS50ZXN0KHNyYyk7CiAgICAgIGlmIChyZXAgJiYgIWNudCkgewogICAgICAgIHZhciBoaXQgPSBbXTsKICAgICAgICBMLmZvckVhY2goZnVuY3Rpb24gKHMsIGkpIHsKICAgICAgICAgIGlmICgvKHJhdGV8cmF0aW98cGVyY2VudHxwY3QpL2kudGVzdChzKSkgaGl0LnB1c2goeyBsaW5lOiBpICsgMSwgY29kZTogcy50cmltKCkgfSk7CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIGhpdC5zbGljZSgwLCAzKTsKICAgICAgfQogICAgICByZXR1cm4gW107CiAgICB9CiAgfSwKICB7CiAgICBpZDogJ0VHMDE2Jywgc2V2OiAnYmxvY2tlcicsIGNsczogJ21ldGhvZCcsIG9uOiBmYWxzZSwKICAgIHRpdGxlOiAn57uT6K665L6d6LWW5aSW6YOo6YCa6YGT77yM5LiU5rKh5pyJ5Y+v6L6+5oCn6YeN5rWLJywKICAgIHdoeTogJ+Wklue9keWPluaVsOWksei0peaXtuS9oOeahOWIhuaUr+S8mumdmem7mOi1sOepuuWAvO+8jOe7k+iuuuW7uueri+WcqOS4gOasoeayoeS6uuWkjeaguOeahOaKk+WPluS4iuOAgicsCiAgICBmaXg6ICfmipPlj5blkI7ph43mtYvlj6/ovr7mgKcv6Z2e56m677yM5aSx6LSl5Y2z5Lit5q2i6ICM5LiN5piv6ZmN57qn44CCJywKICAgIHJ1bjogZnVuY3Rpb24gKEwpIHsKICAgICAgdmFyIHNyYyA9IEwuam9pbignXG4nKTsKICAgICAgdmFyIG5ldCA9IC8odXJsb3BlbnxyZXF1ZXN0c1wufGh0dHB4XC58Y3VybHxmZXRjaFxzKlwoKS8udGVzdChzcmMpOwogICAgICB2YXIgcmVjaGsgPSAvKHJldHVybmNvZGV8c3RhdHVzX2NvZGV8cmFpc2VfZm9yX3N0YXR1c3xcLm9rXGJ8cmVhY2hhYnxpc19yZWFjaGFibGUpLy50ZXN0KHNyYyk7CiAgICAgIGlmIChuZXQgJiYgIXJlY2hrKSB7CiAgICAgICAgdmFyIGhpdCA9IFtdOwogICAgICAgIEwuZm9yRWFjaChmdW5jdGlvbiAocywgaSkgewogICAgICAgICAgaWYgKC8odXJsb3BlbnxyZXF1ZXN0c1wufGh0dHB4XC58ZmV0Y2hccypcKCkvLnRlc3QocykpIGhpdC5wdXNoKHsgbGluZTogaSArIDEsIGNvZGU6IHMudHJpbSgpIH0pOwogICAgICAgIH0pOwogICAgICAgIHJldHVybiBoaXQuc2xpY2UoMCwgMyk7CiAgICAgIH0KICAgICAgcmV0dXJuIFtdOwogICAgfQogIH0KXTsKCmZ1bmN0aW9uIGVnU2NhbihzcmMsIG9wdHMpIHsKICBvcHRzID0gb3B0cyB8fCB7fTsKICB2YXIgTCA9IFN0cmluZyhzcmMgPT0gbnVsbCA/ICcnIDogc3JjKS5zcGxpdCgvXHI/XG4vKTsKICB2YXIgb3V0ID0gW107CiAgRUdfUlVMRVMuZm9yRWFjaChmdW5jdGlvbiAocikgewogICAgdmFyIG9uID0gKG9wdHNbci5pZF0gPT09IHVuZGVmaW5lZCkgPyByLm9uIDogISFvcHRzW3IuaWRdOwogICAgaWYgKCFvbikgcmV0dXJuOwogICAgdmFyIGhpdHMgPSBbXTsKICAgIHRyeSB7IGhpdHMgPSByLnJ1bihMKSB8fCBbXTsgfSBjYXRjaCAoZSkgeyBoaXRzID0gW107IH0KICAgIGlmIChoaXRzLmxlbmd0aCkgb3V0LnB1c2goeyBpZDogci5pZCwgc2V2OiByLnNldiwgY2xzOiByLmNscywgdGl0bGU6IHIudGl0bGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2h5OiByLndoeSwgZml4OiByLmZpeCwgaGl0czogaGl0cyB9KTsKICB9KTsKICB2YXIgYyA9IHsgYmxvY2tlcjogMCwgd2FybjogMCwgaW5mbzogMCB9OwogIG91dC5mb3JFYWNoKGZ1bmN0aW9uIChmKSB7IGNbZi5zZXZdICs9IGYuaGl0cy5sZW5ndGg7IH0pOwogIHJldHVybiB7IGZpbmRpbmdzOiBvdXQsIGNvdW50czogYywgbGluZXM6IEwubGVuZ3RoIH07Cn0KCmlmICh0eXBlb2YgbW9kdWxlICE9PSAndW5kZWZpbmVkJyAmJiBtb2R1bGUuZXhwb3J0cykgewogIG1vZHVsZS5leHBvcnRzID0geyBlZ1NjYW46IGVnU2NhbiwgRUdfUlVMRVM6IEVHX1JVTEVTIH07Cn0K
+/* ================================================================
+   evalguard JS engine — 页面内嵌版（与 docs/demo.html 同源，勿手改副本）
+   ----------------------------------------------------------------
+   设计原则（对应我们自己的失败模式库）：
+     1. 只实现【语法类】规则 —— 129 号实测：语法类命中 18/20，
+        方法论类 1/55。方法论类已关停，此处默认不启用。
+     2. 每条规则都能说清「它抓的是什么静默失败」，不是风格意见。
+     3. 关停的规则仍然列出来、仍然可勾选 —— 让你看见我关了什么。
+   ================================================================ */
+'use strict';
+
+var EG_RULES = [
+  {
+    id: 'EG006', sev: 'blocker', cls: 'syntax', on: true,
+    title: 'Bare / silent except 吞掉了本该报告的失败',
+    why: '异常被吃掉之后，脚本照样退出码 0。你看到的是"跑完了"，不是"跑通了"。',
+    fix: '换成 except SpecificError，并记录或重抛。',
+    run: function (L) {
+      var out = [];
+      L.forEach(function (s, i) {
+        if (/^\s*except\s*:/.test(s) || /except\s*:?\s*(pass|\.\.\.)\s*$/.test(s))
+          out.push({ line: i + 1, code: s.trim() });
+      });
+      return out;
+    }
+  },
+  {
+    id: 'EG005', sev: 'warn', cls: 'syntax', on: true,
+    title: '除法没有分母保护',
+    why: '分母为 0 时，多数运行时不抛异常而是产出 inf/NaN，指标照样打印出来。',
+    fix: '除前判空，或用 max(den, 1) 显式兜底。',
+    run: function (L) {
+      var out = [];
+      // 先扫一遍"被保护过的名字"：assert n>0 / if not n / if n==0 / max(n,1)
+      // （验证时撞到的真实假阳性：clean_ok.py 有 assert len(gold)>0 仍被报，
+      //   这正是 129 号记过的老毛病——把「修好的样子」当成问题）
+      var guarded = {};
+      var all = L.join('\n');
+      var gm = all.match(/(?:assert|if)\s+(?:not\s+)?([A-Za-z_][A-Za-z0-9_.]*)\s*(?:==\s*0|>\s*0|<=\s*0|is\s+None)?/g) || [];
+      gm.forEach(function (g) {
+        var m = g.match(/([A-Za-z_][A-Za-z0-9_.]*)\s*(?:==\s*0|>\s*0|<=\s*0|is\s+None)?\s*$/);
+        if (m) guarded[m[1]] = true;
+      });
+      (all.match(/max\s*\(\s*([A-Za-z_][A-Za-z0-9_.]*)\s*,/g) || []).forEach(function (g) {
+        var m = g.match(/max\s*\(\s*([A-Za-z_][A-Za-z0-9_.]*)/); if (m) guarded[m[1]] = true;
+      });
+      L.forEach(function (s, i) {
+        // 先剥掉注释，再剥掉字符串字面量 —— URL / 路径里的 "/" 不是除法
+        // （验证时撞到的真实假阳性：fetch("https://a.b/c.json") 被当成除法）
+        var t = s.replace(/#[^\n]*/, '')
+                 .replace(/"""[\s\S]*?"""/g, '""')
+                 .replace(/'''[\s\S]*?'''/g, "''")
+                 .replace(/(['"])(?:\\.|(?!\1)[^\\])*\1/g, '""');
+        var m = t.match(/\/\s*\(?\s*([A-Za-z_][A-Za-z0-9_.]*)/g);
+        if (!m) return;
+        // 分母是纯数字常量则不算（0.5 这类常量除法是安全的）
+        var bare = m.filter(function (x) { return !/^\/\s*\(?\s*\d/.test(x); })
+                    .map(function (x) { var q = x.match(/([A-Za-z_][A-Za-z0-9_.]*)\s*$/); return q ? q[1] : ''; })
+                    .filter(function (v) { return v && !guarded[v]; });
+        if (bare.length) out.push({ line: i + 1, code: s.trim() });
+      });
+      return out;
+    }
+  },
+  {
+    id: 'EG001', sev: 'warn', cls: 'syntax', on: true,
+    title: '用了随机 API，但全程没有 seed',
+    why: '每次跑出来的数字都不一样，你无法区分"方法有效"和"这次运气好"。',
+    fix: '入口处固定 seed，并把 seed 写进结果文件。',
+    run: function (L) {
+      var src = L.join('\n');
+      var uses = /(\brandom\.|\bnp\.random\.|\bnumpy\.random\.|\btorch\.rand|\bshuffle\s*\()/.test(src);
+      var seed = /(seed\s*\(|manual_seed|random_state\s*=)/.test(src);
+      if (uses && !seed) {
+        var hit = [];
+        L.forEach(function (s, i) {
+          if (/(\brandom\.|\bnp\.random\.|\bnumpy\.random\.|\btorch\.rand|\bshuffle\s*\()/.test(s))
+            hit.push({ line: i + 1, code: s.trim() });
+        });
+        return hit.slice(0, 5);
+      }
+      return [];
+    }
+  },
+  {
+    id: 'EG009', sev: 'warn', cls: 'syntax', on: true,
+    title: '赋值后再没被用过（静默死变量）',
+    why: '最常见的情况是"算了一半忘了接上"，脚本照样跑完、照样出数。',
+    fix: '接上它，或者删掉。别让它留在那里假装工作已完成。',
+    run: function (L) {
+      var src = L.join('\n'), out = [];
+      L.forEach(function (s, i) {
+        var m = s.match(/^\s*([a-z_][A-Za-z0-9_]{2,})\s*=\s*(?!==)/);
+        if (!m) return;
+        var v = m[1];
+        if (/^(self|cls)$/.test(v)) return;
+        var n = (src.match(new RegExp('(?<![A-Za-z0-9_])' + v + '(?![A-Za-z0-9_])', 'g')) || []).length;
+        if (n <= 1) out.push({ line: i + 1, code: s.trim() });
+      });
+      return out;
+    }
+  },
+  {
+    id: 'EG007', sev: 'warn', cls: 'syntax', on: true,
+    title: '声称"已保存/已归档"，但全文没有写调用',
+    why: '汇报里说结果落盘了，代码里没有 open(...,"w") / json.dump / to_csv。',
+    fix: '补上真实的写调用，或改掉措辞。',
+    run: function (L) {
+      var src = L.join('\n');
+      var claims = /(saved|archived|dumped|persisted|written to|已保存|已归档|已落盘|已写入)/i.test(src);
+      var writes = /(open\s*\([^)]*['"][wa]|json\.dump|\.write\s*\(|to_csv|to_excel|to_json|save\s*\(|np\.save|torch\.save)/.test(src);
+      if (claims && !writes) {
+        var hit = [];
+        L.forEach(function (s, i) {
+          if (/(saved|archived|dumped|persisted|written to|已保存|已归档|已落盘|已写入)/i.test(s))
+            hit.push({ line: i + 1, code: s.trim() });
+        });
+        return hit.slice(0, 4);
+      }
+      return [];
+    }
+  },
+  {
+    id: 'EG003', sev: 'warn', cls: 'syntax', on: true,
+    title: '判定阈值硬编码成 magic number',
+    why: '阈值来源说不清，结论就不可复核；换个数据集还是这个数。',
+    fix: '提到具名常量/配置，并注明它是怎么定的。',
+    run: function (L) {
+      var out = [];
+      L.forEach(function (s, i) {
+        var t = s.replace(/#[^\n]*/, '');
+        // 分成「赋给具名常量」和「直接内联在比较里」两种。
+        // 前者恰恰是本规则要求的修好形态 —— 报它就是惩罚好代码
+        // （验证时撞到的真实假阳性：THRESHOLD = 0.5 被当 magic number，
+        //   与 129 号 EG002 的旧病同型：well-named code 反而中招）
+        var named = /^\s*[A-Z][A-Z0-9_]*\s*=\s*[0-9.]+/.test(t);
+        var inlineMagic = /[<>]=?\s*0\.\d{2,}/.test(t) && !named;
+        var anonAssign = /(threshold|thresh|cutoff|cut_off|tolerance)\s*[:=]\s*[0-9.]+/i.test(t) && !named;
+        if (inlineMagic || anonAssign) out.push({ line: i + 1, code: s.trim() });
+      });
+      return out;
+    }
+  },
+
+  /* ---------- 以下为【方法论类】：129 号实测 1/55，已关停 ---------- */
+  {
+    id: 'EG002', sev: 'blocker', cls: 'method', on: false,
+    title: '报了 accuracy/recall，但没有随机基线',
+    why: '没有基线，你无法判断 0.72 是好是坏——多数类问题里 majority 就能到 0.7。',
+    fix: '同时报 majority / random 基线，让提升量可解释。',
+    run: function (L) {
+      var src = L.join('\n');
+      var rep = /\b(acc|accuracy|recall|precision|f1)\b/i.test(src);
+      var base = /(baseline|majority|dummy|random|chance|most_common)/i.test(src);
+      if (rep && !base) {
+        var hit = [];
+        L.forEach(function (s, i) {
+          if (/\b(acc|accuracy|recall|precision|f1)\b/i.test(s)) hit.push({ line: i + 1, code: s.trim() });
+        });
+        return hit.slice(0, 4);
+      }
+      return [];
+    }
+  },
+  {
+    id: 'EG013', sev: 'warn', cls: 'method', on: false,
+    title: '比率指标没带分子分母',
+    why: '"成功率 93%" 在 n=14 和 n=14000 上含义完全不同，没有 n 就是不可判定的。',
+    fix: '把分子与分母一起写进结果。',
+    run: function (L) {
+      var src = L.join('\n');
+      var rep = /(rate|ratio|percent|pct|accuracy)/i.test(src);
+      var cnt = /(count|n_|num_|total|denominator|len\s*\()/i.test(src);
+      if (rep && !cnt) {
+        var hit = [];
+        L.forEach(function (s, i) {
+          if (/(rate|ratio|percent|pct)/i.test(s)) hit.push({ line: i + 1, code: s.trim() });
+        });
+        return hit.slice(0, 3);
+      }
+      return [];
+    }
+  },
+  {
+    id: 'EG016', sev: 'blocker', cls: 'method', on: false,
+    title: '结论依赖外部通道，且没有可达性重测',
+    why: '外网取数失败时你的分支会静默走空值，结论建立在一次没人复核的抓取上。',
+    fix: '抓取后重测可达性/非空，失败即中止而不是降级。',
+    run: function (L) {
+      var src = L.join('\n');
+      var net = /(urlopen|requests\.|httpx\.|curl|fetch\s*\()/.test(src);
+      var rechk = /(returncode|status_code|raise_for_status|\.ok\b|reachab|is_reachable)/.test(src);
+      if (net && !rechk) {
+        var hit = [];
+        L.forEach(function (s, i) {
+          if (/(urlopen|requests\.|httpx\.|fetch\s*\()/.test(s)) hit.push({ line: i + 1, code: s.trim() });
+        });
+        return hit.slice(0, 3);
+      }
+      return [];
+    }
+  }
+];
+
+function egScan(src, opts) {
+  opts = opts || {};
+  var L = String(src == null ? '' : src).split(/\r?\n/);
+  var out = [];
+  EG_RULES.forEach(function (r) {
+    var on = (opts[r.id] === undefined) ? r.on : !!opts[r.id];
+    if (!on) return;
+    var hits = [];
+    try { hits = r.run(L) || []; } catch (e) { hits = []; }
+    if (hits.length) out.push({ id: r.id, sev: r.sev, cls: r.cls, title: r.title,
+                                why: r.why, fix: r.fix, hits: hits });
+  });
+  var c = { blocker: 0, warn: 0, info: 0 };
+  out.forEach(function (f) { c[f.sev] += f.hits.length; });
+  return { findings: out, counts: c, lines: L.length };
+}
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = { egScan: egScan, EG_RULES: EG_RULES };
+}

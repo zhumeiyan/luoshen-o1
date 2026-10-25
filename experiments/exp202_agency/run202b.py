@@ -1,1 +1,236 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMjAyOiDkuLvop4Log73liqjmgKcg4oCU4oCUIOi6uuW5s+aYr+WQpuetieS6jueBree7ne+8nwrmoLjlv4Plr7nnhafvvJrlm5vnp40i5o6i57Si6YCJ5oup5ZmoIuWcqOWbuuWumumihOeul+S4i++8jOiwgeiuqeaIkeabtOiDvemihOa1i+eUqOaIt+OAggoKICBzZWRlbnRhcnkgIOi6uu+8muawuOS4jeaOoue0ou+8iOWPquWuiOenjeWtkO+8iQogIHJhbmRvbSAgICAg6ZqP5py65o6i57SiCiAgc3VycHJpc2UgICDmhI/lpJbpqbHliqjvvJrmjJHlvZPliY3or6/lt67mnIDlpKfnmoTlnZfvvIg9MTkyIOWPt+a1i+eahCLnno7otKrlqaoi77yJCiAgcHJvZ3Jlc3MgICDlrabkuaDov5vmraXpqbHliqjvvJrmjJHor6/lt67kuIvpmY3mnIDlv6vnmoTlnZfvvIg95YaF5Zyo5Yqo5py655qE5q2j56Gu5b2i5byP77yJCgrlhbPplK7vvJpzdXJwcmlzZSDnlKgi6K+v5beu5rC05bmzIu+8jHByb2dyZXNzIOeUqCLor6/lt67kuIvpmY3pgJ/njoci44CC5Lik6ICF5piv5LiN5ZCM6YeP44CCCuWbuuWumuivjeihqO+8iOmBv+WFjSAxNzkvMTgyIOi4qei/h+eahOW5s+a7keWcsOadv+S8quW9se+8ieOAggoiIiIKaW1wb3J0IGpzb24sIG1hdGgsIHJhbmRvbSwgb3MsIGhhc2hsaWIKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKCkJLID0gJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V2aWRlbmNlL+Wksei0peaooeW8j+W6ky/liKTmja7moLgubWQnClVGID0gJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0JwpPVVQgPSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMjAyX2FnZW5jeScKCksgPSAzICAgICAgICAgICMgbi1ncmFtIOS4iuS4i+aWh+mVv+W6pgpBTFBIQSA9IDAuMTUgICAjIOW5s+a7kQpLQ0hVTksgPSAxMiAgICAjIOS4lueVjOiiq+WIh+aIkOWkmuWwkSLmlrnlkJEiClBST0JFID0gNjAwICAgICMg5q+P5Z2X55WZ5Ye65aSa5bCR5YGa5o6i6ZKIClNfUEVSID0gNDAwMCAgICMg5q+P6L2u6YeH5qC35a2X56ym5pWwCldBUk0gPSBLQ0hVTksgICMg54Ot6Lqr6L2u77ya5q+P5Z2X5ZCE6YeH5LiA5qyhClJPVU5EUyA9IDI0ICAgICMg54Ot6Lqr5LmL5ZCO55qE5Li75Yqo6YCJ5oup6L2u5pWwCkVQUyA9IDAuMiAgICAgICMgcHJvZ3Jlc3Mg6IeC55qEIGVwc2lsb24tZ3JlZWR5CgoKZGVmIGxvYWQocCk6CiAgICB3aXRoIG9wZW4ocCwgJ3InLCBlbmNvZGluZz0ndXRmLTgnLCBlcnJvcnM9J2lnbm9yZScpIGFzIGY6CiAgICAgICAgcmV0dXJuIGYucmVhZCgpCgoKZGVmIGNsZWFuKHQpOgogICAgcmV0dXJuICcnLmpvaW4oY2ggZm9yIGNoIGluIHQgaWYgY2ggbm90IGluICdcblxyXHTjgIAgJykKCgpjbGFzcyBOR3JhbToKICAgICIiIuWinumHj+W8j+Wtl+espiBuLWdyYW3jgILlm7rlrpror43ooaggKyDliqDmgKflubPmu5HjgIIiIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB2b2NhYiwgaz1LLCBhbHBoYT1BTFBIQSk6CiAgICAgICAgc2VsZi5rID0gawogICAgICAgIHNlbGYuYWxwaGEgPSBhbHBoYQogICAgICAgIHNlbGYuViA9IGxlbih2b2NhYikKICAgICAgICBzZWxmLm5nID0gZGVmYXVsdGRpY3QoaW50KSAgICMgKGN0eCxjKSAtPiBuCiAgICAgICAgc2VsZi5jdCA9IGRlZmF1bHRkaWN0KGludCkgICAjIGN0eCAtPiBuCgogICAgZGVmIGZlZWQoc2VsZiwgdGV4dCk6CiAgICAgICAgayA9IHNlbGYuawogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSAtIGspOgogICAgICAgICAgICBjdHggPSB0ZXh0W2k6aSArIGtdCiAgICAgICAgICAgIGMgPSB0ZXh0W2kgKyBrXQogICAgICAgICAgICBzZWxmLm5nWyhjdHgsIGMpXSArPSAxCiAgICAgICAgICAgIHNlbGYuY3RbY3R4XSArPSAxCgogICAgZGVmIGNlKHNlbGYsIHRleHQpOgogICAgICAgICIiImJpdHMgcGVyIGNoYXJhY3Rlcu+8jOWbuuWumuivjeihqO+8jOacquingSBjdHgg6Ieq54S26YCA5YyW5Li65Z2H5YyAIiIiCiAgICAgICAgayA9IHNlbGYuawogICAgICAgIGEsIFYgPSBzZWxmLmFscGhhLCBzZWxmLlYKICAgICAgICB0b3QgPSAwLjAKICAgICAgICBuID0gMAogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSAtIGspOgogICAgICAgICAgICBjdHggPSB0ZXh0W2k6aSArIGtdCiAgICAgICAgICAgIGMgPSB0ZXh0W2kgKyBrXQogICAgICAgICAgICBpZiBjdHggaW4gc2VsZi5jdDoKICAgICAgICAgICAgICAgIGRlbm9tID0gc2VsZi5jdFtjdHhdICsgYSAqIFYKICAgICAgICAgICAgICAgIHAgPSAoc2VsZi5uZ1soY3R4LCBjKV0gKyBhKSAvIGRlbm9tCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwID0gMS4wIC8gVgogICAgICAgICAgICB0b3QgLT0gbWF0aC5sb2cyKHApCiAgICAgICAgICAgIG4gKz0gMQogICAgICAgIHJldHVybiB0b3QgLyBuIGlmIG4gZWxzZSBmbG9hdCgnbmFuJykKCgpOT0lTRV9GUkFDID0gZmxvYXQoX19pbXBvcnRfXygnb3MnKS5lbnZpcm9uLmdldCgnTk9JU0VfRlJBQycsICcwLjMzJykpCgpkZWYgbWFrZV9jaHVua3ModGV4dCwgbiwgcm5nKToKICAgICIiIuWIh+Wdl++8muavj+WdlyA5MCUg5rGgICsgMTAlIOaOoumSiO+8m+WJjSBOT0lTRV9GUkFDIOavlOS+i+abv+aNouS4uuS4jeWPr+WtpueahOWZquWjsOWdlyIiIgogICAgTCA9IGxlbih0ZXh0KQogICAgc3RlcCA9IEwgLy8gbgogICAgbm5vaXNlID0gaW50KHJvdW5kKG4gKiBOT0lTRV9GUkFDKSkKICAgIGNodW5rcyA9IFtdCiAgICBmb3IgaSBpbiByYW5nZShuKToKICAgICAgICBzZWcgPSB0ZXh0W2kgKiBzdGVwOihpICsgMSkgKiBzdGVwXSBpZiBpIDwgbiAtIDEgZWxzZSB0ZXh0W2kgKiBzdGVwOl0KICAgICAgICBpZiBpIDwgbm5vaXNlOgogICAgICAgICAgICBsc3QgPSBsaXN0KHNlZykKICAgICAgICAgICAgcm5nLnNodWZmbGUobHN0KQogICAgICAgICAgICBzZWcgPSAnJy5qb2luKGxzdCkKICAgICAgICBjdXQgPSBpbnQobGVuKHNlZykgKiAwLjkpCiAgICAgICAgcG9vbCA9IHNlZ1s6Y3V0XQogICAgICAgIHByb2JlID0gc2VnW2N1dDpjdXQgKyBQUk9CRV0KICAgICAgICBjaHVua3MuYXBwZW5kKHsncG9vbCc6IHBvb2wsICdwcm9iZSc6IHByb2JlLCAncG9zJzogMH0pCiAgICByZXR1cm4gY2h1bmtzCgoKZGVmIHRha2UoY2h1bmssIHMpOgogICAgcG9vbCA9IGNodW5rWydwb29sJ10KICAgIHN0YXJ0ID0gY2h1bmtbJ3BvcyddCiAgICBpZiBzdGFydCArIHMgPiBsZW4ocG9vbCk6CiAgICAgICAgcyA9IG1heCgwLCBsZW4ocG9vbCkgLSBzdGFydCkKICAgIHNlZyA9IHBvb2xbc3RhcnQ6c3RhcnQgKyBzXQogICAgY2h1bmtbJ3BvcyddICs9IHMKICAgIHJldHVybiBzZWcKCgpkZWYgcnVuX2FybShhcm0sIGNodW5rcywgc2VlZF90ZXh0LCB0ZXN0X3RleHQsIHZvY2FiLCBybmcpOgogICAgbSA9IE5HcmFtKHZvY2FiKQogICAgbS5mZWVkKHNlZWRfdGV4dCkKICAgIGN1cnZlID0gW20uY2UodGVzdF90ZXh0KV0KICAgIGVyciA9IFttLmNlKGNbJ3Byb2JlJ10pIGZvciBjIGluIGNodW5rc10KICAgIHByb2cgPSBbTm9uZV0gKiBsZW4oY2h1bmtzKSAgICAgIyDop4LmtYvliLDnmoTkuIvpmY3pgJ/njocKICAgIHZpc2l0cyA9IFswXSAqIGxlbihjaHVua3MpCiAgICBwaWNrcyA9IFtdCgogICAgdG90YWxfcm91bmRzID0gV0FSTSArIFJPVU5EUwogICAgZm9yIHQgaW4gcmFuZ2UodG90YWxfcm91bmRzKToKICAgICAgICBpZiBhcm0gPT0gJ3NlZGVudGFyeSc6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgaWYgdCA8IFdBUk06CiAgICAgICAgICAgIGlkeCA9IHQgJSBsZW4oY2h1bmtzKQogICAgICAgIGVsaWYgYXJtID09ICdyYW5kb20nOgogICAgICAgICAgICBpZHggPSBybmcucmFuZHJhbmdlKGxlbihjaHVua3MpKQogICAgICAgIGVsaWYgYXJtID09ICdzdXJwcmlzZSc6CiAgICAgICAgICAgIGlkeCA9IG1heChyYW5nZShsZW4oY2h1bmtzKSksIGtleT1sYW1iZGEgaTogZXJyW2ldKQogICAgICAgIGVsaWYgYXJtID09ICdwcm9ncmVzcyc6CiAgICAgICAgICAgIGlmIHJuZy5yYW5kb20oKSA8IEVQUzoKICAgICAgICAgICAgICAgIGlkeCA9IHJuZy5yYW5kcmFuZ2UobGVuKGNodW5rcykpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBjYW5kID0gW2kgZm9yIGkgaW4gcmFuZ2UobGVuKGNodW5rcykpIGlmIHByb2dbaV0gaXMgbm90IE5vbmVdCiAgICAgICAgICAgICAgICBpZHggPSBtYXgoY2FuZCwga2V5PWxhbWJkYSBpOiBwcm9nW2ldKSBpZiBjYW5kIGVsc2Ugcm5nLnJhbmRyYW5nZShsZW4oY2h1bmtzKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGFybSkKCiAgICAgICAgYmVmb3JlID0gZXJyW2lkeF0KICAgICAgICBzZWcgPSB0YWtlKGNodW5rc1tpZHhdLCBTX1BFUikKICAgICAgICBpZiBub3Qgc2VnOgogICAgICAgICAgICAjIOaxoOiAl+Wwve+8jOaUueaMkei/mOaciei0p+eahAogICAgICAgICAgICBhdmFpbCA9IFtpIGZvciBpIGluIHJhbmdlKGxlbihjaHVua3MpKSBpZiBjaHVua3NbaV1bJ3BvcyddIDwgbGVuKGNodW5rc1tpXVsncG9vbCddKV0KICAgICAgICAgICAgaWYgbm90IGF2YWlsOgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWR4ID0gYXZhaWxbMF0KICAgICAgICAgICAgYmVmb3JlID0gZXJyW2lkeF0KICAgICAgICAgICAgc2VnID0gdGFrZShjaHVua3NbaWR4XSwgU19QRVIpCiAgICAgICAgbS5mZWVkKHNlZykKICAgICAgICBhZnRlciA9IG0uY2UoY2h1bmtzW2lkeF1bJ3Byb2JlJ10pCiAgICAgICAgZXJyW2lkeF0gPSBhZnRlcgogICAgICAgIHByb2dbaWR4XSA9IChiZWZvcmUgLSBhZnRlcikgICAgICAjIOacrOasoemHh+agt+eahOi/m+atpemHjwogICAgICAgIHZpc2l0c1tpZHhdICs9IDEKICAgICAgICBwaWNrcy5hcHBlbmQoaWR4KQogICAgICAgIGN1cnZlLmFwcGVuZChtLmNlKHRlc3RfdGV4dCkpCgogICAgcmV0dXJuIHsnZmluYWwnOiBtLmNlKHRlc3RfdGV4dCksICdjdXJ2ZSc6IGN1cnZlLCAncGlja3MnOiBwaWNrcywKICAgICAgICAgICAgJ3Zpc2l0cyc6IHZpc2l0cywgJ3Byb2cnOiBwcm9nfQoKCmRlZiBtYWluKCk6CiAgICBBID0gY2xlYW4obG9hZChCSykpCiAgICBVID0gY2xlYW4obG9hZChVRikpCiAgICBwcmludChmJ0Eo5bel5L2c6IO95YqbKSB7bGVuKEEpfSDlrZfnrKYgICBCKOaDheaEn+iusOW/hi/nlKjmiLcpIHtsZW4oVSl9IOWtl+espicpCgogICAgY3V0ID0gaW50KGxlbihVKSAqIDAuOCkKICAgIHNlZWRfdGV4dCwgdGVzdF90ZXh0ID0gVVs6Y3V0XSwgVVtjdXQ6XQogICAgdm9jYWIgPSBzb3J0ZWQoc2V0KEEpIHwgc2V0KFUpKQogICAgcHJpbnQoZiflm7rlrpror43ooaggVj17bGVuKHZvY2FiKX0gICDnp43lrZAge2xlbihzZWVkX3RleHQpfSAgIOa1i+ivlSB7bGVuKHRlc3RfdGV4dCl9JykKICAgIHByaW50KGYn5LiW55WM5YiH5oiQIHtLQ0hVTkt9IOWdl++8jOavj+Wdl+axoCB+e2xlbihBKS8vS0NIVU5LfSDlrZfnrKYnKQogICAgcHJpbnQoZifpooTnrpfvvJrng63ouqsge1dBUk19IOi9riArIOS4u+WKqCB7Uk9VTkRTfSDova7vvIzmr4/ova4ge1NfUEVSfSDlrZfnrKZcbicpCgogICAgYXJtcyA9IFsnc2VkZW50YXJ5JywgJ3JhbmRvbScsICdzdXJwcmlzZScsICdwcm9ncmVzcyddCiAgICBzZWVkcyA9IFs0MiwgNywgMjAyNl0KICAgIGFsbHJlcyA9IHthOiBbXSBmb3IgYSBpbiBhcm1zfQoKICAgIGZvciBzZCBpbiBzZWVkczoKICAgICAgICBybmcgPSByYW5kb20uUmFuZG9tKHNkKQogICAgICAgIGNodW5rcyA9IG1ha2VfY2h1bmtzKEEsIEtDSFVOSywgcm5nKQogICAgICAgIGZvciBhIGluIGFybXM6CiAgICAgICAgICAgIGNoID0gbWFrZV9jaHVua3MoQSwgS0NIVU5LLCByYW5kb20uUmFuZG9tKHNkKSkgICMg5q+P6IeC6YeN572u5rGgCiAgICAgICAgICAgIHIgPSBydW5fYXJtKGEsIGNoLCBzZWVkX3RleHQsIHRlc3RfdGV4dCwgdm9jYWIsIHJhbmRvbS5SYW5kb20oc2QgKyBoYXNoKGEpICUgOTcpKQogICAgICAgICAgICBhbGxyZXNbYV0uYXBwZW5kKHIpCgogICAgcHJpbnQoJz09PSDmnIDnu4ggYml0cy/lrZfnrKbvvIjotorkvY7otorlpb3vvIwzIOenjeWtkOWdh+WAvO+8iT09PScpCiAgICBzdW1tYXJ5ID0ge30KICAgIGZvciBhIGluIGFybXM6CiAgICAgICAgdmFscyA9IFtyWydmaW5hbCddIGZvciByIGluIGFsbHJlc1thXV0KICAgICAgICBtID0gc3VtKHZhbHMpIC8gbGVuKHZhbHMpCiAgICAgICAgc2RfID0gKHN1bSgodiAtIG0pICoqIDIgZm9yIHYgaW4gdmFscykgLyBsZW4odmFscykpICoqIDAuNQogICAgICAgIHN1bW1hcnlbYV0gPSB7J21lYW4nOiBtLCAnc3RkJzogc2RfLCAndmFscyc6IHZhbHN9CiAgICAgICAgcHJpbnQoZicgIHthOjEwc30ge206LjRmfSAgwrF7c2RfOi40Zn0gICB7W3JvdW5kKHYsNCkgZm9yIHYgaW4gdmFsc119JykKCiAgICBiYXNlID0gc3VtbWFyeVsnc2VkZW50YXJ5J11bJ21lYW4nXQogICAgcHJpbnQoZidcbj09PSDnm7jlr7ki6Lq65bmzIueahOaUueWWhCA9PT0nKQogICAgZm9yIGEgaW4gYXJtczoKICAgICAgICBkID0gc3VtbWFyeVthXVsnbWVhbiddIC0gYmFzZQogICAgICAgIHByaW50KGYnICB7YToxMHN9IHtkOisuNGZ9JykKCiAgICAjIOmFjeWvueespuWPt+ajgOmqjO+8mnByb2dyZXNzIHZzIHN1cnByaXNlIC8gcmFuZG9tCiAgICBkZWYgc2lnbl90ZXN0KHgsIHksIGxhYmVsKToKICAgICAgICB3aW5zID0gc3VtKDEgZm9yIGkgaW4gcmFuZ2UobGVuKHgpKSBpZiAoeFtpXSAtIHlbaV0pIDwgMCkKICAgICAgICBwcmludChmJyAge2xhYmVsfTogcHJvZ3Jlc3Mg6LWiIHt3aW5zfS97bGVuKHgpfScpCiAgICAgICAgcmV0dXJuIHdpbnMKCiAgICBwcmludCgnXG49PT0g6YWN5a+556ym5Y+35qOA6aqM77yIcHJvZ3Jlc3Mg5piv5ZCm5LyY5LqO77yJPT09JykKICAgIHB2ID0ge2E6IFtyWydmaW5hbCddIGZvciByIGluIGFsbHJlc1thXV0gZm9yIGEgaW4gYXJtc30KICAgIHN0ID0ge30KICAgIGZvciBhIGluIFsncmFuZG9tJywgJ3N1cnByaXNlJ106CiAgICAgICAgc3RbYV0gPSBzaWduX3Rlc3QocHZbJ3Byb2dyZXNzJ10sIHB2W2FdLCBmJ3ZzIHthfScpCgogICAgIyBwcm9ncmVzcyDoh4LmiorpooTnrpfoirHlnKjlk6rvvJrov5vmraXph48gdnMg6K+v5beu5rC05bmzIOeahOaOkuW6j+ebuOWFswogICAgcHJpbnQoJ1xuPT09IHN1cnByaXNlIOS4jiBwcm9ncmVzcyDmjJHnmoTlnZfmmK/lkKbkuI3lkIwgPT09JykKICAgIGZvciBzZF9pLCBzZCBpbiBlbnVtZXJhdGUoc2VlZHMpOgogICAgICAgIHBzID0gYWxscmVzWydzdXJwcmlzZSddW3NkX2ldWydwaWNrcyddW1dBUk06XQogICAgICAgIHBwID0gYWxscmVzWydwcm9ncmVzcyddW3NkX2ldWydwaWNrcyddW1dBUk06XQogICAgICAgIHNhbWUgPSBzdW0oMSBmb3IgeCwgeSBpbiB6aXAocHMsIHBwKSBpZiB4ID09IHkpCiAgICAgICAgcHJpbnQoZicgIHNlZWQge3NkfTogMjQg6L2u5Lit55u45ZCMIHtzYW1lfS8yNCcpCgogICAgb3V0ID0gewogICAgICAgICdjb25maWcnOiB7J0FfbGVuJzogbGVuKEEpLCAnQl9sZW4nOiBsZW4oVSksICdWJzogbGVuKHZvY2FiKSwKICAgICAgICAgICAgICAgICAgICdLQ0hVTksnOiBLQ0hVTkssICdTX1BFUic6IFNfUEVSLCAnV0FSTSc6IFdBUk0sCiAgICAgICAgICAgICAgICAgICAnUk9VTkRTJzogUk9VTkRTLCAnRVBTJzogRVBTLCAnc2VlZHMnOiBzZWVkcywKICAgICAgICAgICAgICAgICAgICdzZWVkX2xlbic6IGxlbihzZWVkX3RleHQpLCAndGVzdF9sZW4nOiBsZW4odGVzdF90ZXh0KX0sCiAgICAgICAgJ3N1bW1hcnknOiBzdW1tYXJ5LAogICAgICAgICdzaWduX3Rlc3QnOiBzdCwKICAgICAgICAnY3VydmVzJzoge2E6IFtyWydjdXJ2ZSddIGZvciByIGluIGFsbHJlc1thXV0gZm9yIGEgaW4gYXJtc30sCiAgICAgICAgJ3Byb2dfYnlfYXJtJzoge2E6IFtyWydwcm9nJ10gZm9yIHIgaW4gYWxscmVzW2FdXSBmb3IgYSBpbiBhcm1zfSwKICAgIH0KICAgIHAgPSBvcy5wYXRoLmpvaW4oT1VULCAncmVzdWx0MjAyYl8nK3N0cihOT0lTRV9GUkFDKSsnLmpzb24nKQogICAgcCA9IG9zLnBhdGguam9pbihPVVQsICdyZXN1bHQyMDJiXycrc3RyKE5PSVNFX0ZSQUMpKycuanNvbicpCiAgICB3aXRoIG9wZW4ocCwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChvdXQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICB3aXRoIG9wZW4ocCwgJ3JiJykgYXMgZjoKICAgICAgICBwcmludChmJ1xu6JC955uYIHtwfSAgc2hhIHtoYXNobGliLnNoYTI1NihmLnJlYWQoKSkuaGV4ZGlnZXN0KClbOjEyXX0nKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+202: 主观能动性 —— 躺平是否等于灭绝？
+核心对照：四种"探索选择器"在固定预算下，谁让我更能预测用户。
+
+  sedentary  躺：永不探索（只守种子）
+  random     随机探索
+  surprise   意外驱动：挑当前误差最大的块（=192 号测的"瞎贪婪"）
+  progress   学习进步驱动：挑误差下降最快的块（=内在动机的正确形式）
+
+关键：surprise 用"误差水平"，progress 用"误差下降速率"。两者是不同量。
+固定词表（避免 179/182 踩过的平滑地板伪影）。
+"""
+import json, math, random, os, hashlib
+from collections import defaultdict
+
+BK = '/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md'
+UF = '/data/workspace/luoshen-o1/experiments/exp180_record/u_side_full.txt'
+OUT = '/data/workspace/luoshen-o1/experiments/exp202_agency'
+
+K = 3          # n-gram 上下文长度
+ALPHA = 0.15   # 平滑
+KCHUNK = 12    # 世界被切成多少"方向"
+PROBE = 600    # 每块留出多少做探针
+S_PER = 4000   # 每轮采样字符数
+WARM = KCHUNK  # 热身轮：每块各采一次
+ROUNDS = 24    # 热身之后的主动选择轮数
+EPS = 0.2      # progress 臂的 epsilon-greedy
+
+
+def load(p):
+    with open(p, 'r', encoding='utf-8', errors='ignore') as f:
+        return f.read()
+
+
+def clean(t):
+    return ''.join(ch for ch in t if ch not in '\n\r\t　 ')
+
+
+class NGram:
+    """增量式字符 n-gram。固定词表 + 加性平滑。"""
+    def __init__(self, vocab, k=K, alpha=ALPHA):
+        self.k = k
+        self.alpha = alpha
+        self.V = len(vocab)
+        self.ng = defaultdict(int)   # (ctx,c) -> n
+        self.ct = defaultdict(int)   # ctx -> n
+
+    def feed(self, text):
+        k = self.k
+        for i in range(len(text) - k):
+            ctx = text[i:i + k]
+            c = text[i + k]
+            self.ng[(ctx, c)] += 1
+            self.ct[ctx] += 1
+
+    def ce(self, text):
+        """bits per character，固定词表，未见 ctx 自然退化为均匀"""
+        k = self.k
+        a, V = self.alpha, self.V
+        tot = 0.0
+        n = 0
+        for i in range(len(text) - k):
+            ctx = text[i:i + k]
+            c = text[i + k]
+            if ctx in self.ct:
+                denom = self.ct[ctx] + a * V
+                p = (self.ng[(ctx, c)] + a) / denom
+            else:
+                p = 1.0 / V
+            tot -= math.log2(p)
+            n += 1
+        return tot / n if n else float('nan')
+
+
+NOISE_FRAC = float(__import__('os').environ.get('NOISE_FRAC', '0.33'))
+
+def make_chunks(text, n, rng):
+    """切块：每块 90% 池 + 10% 探针；前 NOISE_FRAC 比例替换为不可学的噪声块"""
+    L = len(text)
+    step = L // n
+    nnoise = int(round(n * NOISE_FRAC))
+    chunks = []
+    for i in range(n):
+        seg = text[i * step:(i + 1) * step] if i < n - 1 else text[i * step:]
+        if i < nnoise:
+            lst = list(seg)
+            rng.shuffle(lst)
+            seg = ''.join(lst)
+        cut = int(len(seg) * 0.9)
+        pool = seg[:cut]
+        probe = seg[cut:cut + PROBE]
+        chunks.append({'pool': pool, 'probe': probe, 'pos': 0})
+    return chunks
+
+
+def take(chunk, s):
+    pool = chunk['pool']
+    start = chunk['pos']
+    if start + s > len(pool):
+        s = max(0, len(pool) - start)
+    seg = pool[start:start + s]
+    chunk['pos'] += s
+    return seg
+
+
+def run_arm(arm, chunks, seed_text, test_text, vocab, rng):
+    m = NGram(vocab)
+    m.feed(seed_text)
+    curve = [m.ce(test_text)]
+    err = [m.ce(c['probe']) for c in chunks]
+    prog = [None] * len(chunks)     # 观测到的下降速率
+    visits = [0] * len(chunks)
+    picks = []
+
+    total_rounds = WARM + ROUNDS
+    for t in range(total_rounds):
+        if arm == 'sedentary':
+            break
+        if t < WARM:
+            idx = t % len(chunks)
+        elif arm == 'random':
+            idx = rng.randrange(len(chunks))
+        elif arm == 'surprise':
+            idx = max(range(len(chunks)), key=lambda i: err[i])
+        elif arm == 'progress':
+            if rng.random() < EPS:
+                idx = rng.randrange(len(chunks))
+            else:
+                cand = [i for i in range(len(chunks)) if prog[i] is not None]
+                idx = max(cand, key=lambda i: prog[i]) if cand else rng.randrange(len(chunks))
+        else:
+            raise ValueError(arm)
+
+        before = err[idx]
+        seg = take(chunks[idx], S_PER)
+        if not seg:
+            # 池耗尽，改挑还有货的
+            avail = [i for i in range(len(chunks)) if chunks[i]['pos'] < len(chunks[i]['pool'])]
+            if not avail:
+                break
+            idx = avail[0]
+            before = err[idx]
+            seg = take(chunks[idx], S_PER)
+        m.feed(seg)
+        after = m.ce(chunks[idx]['probe'])
+        err[idx] = after
+        prog[idx] = (before - after)      # 本次采样的进步量
+        visits[idx] += 1
+        picks.append(idx)
+        curve.append(m.ce(test_text))
+
+    return {'final': m.ce(test_text), 'curve': curve, 'picks': picks,
+            'visits': visits, 'prog': prog}
+
+
+def main():
+    A = clean(load(BK))
+    U = clean(load(UF))
+    print(f'A(工作能力) {len(A)} 字符   B(情感记忆/用户) {len(U)} 字符')
+
+    cut = int(len(U) * 0.8)
+    seed_text, test_text = U[:cut], U[cut:]
+    vocab = sorted(set(A) | set(U))
+    print(f'固定词表 V={len(vocab)}   种子 {len(seed_text)}   测试 {len(test_text)}')
+    print(f'世界切成 {KCHUNK} 块，每块池 ~{len(A)//KCHUNK} 字符')
+    print(f'预算：热身 {WARM} 轮 + 主动 {ROUNDS} 轮，每轮 {S_PER} 字符\n')
+
+    arms = ['sedentary', 'random', 'surprise', 'progress']
+    seeds = [42, 7, 2026]
+    allres = {a: [] for a in arms}
+
+    for sd in seeds:
+        rng = random.Random(sd)
+        chunks = make_chunks(A, KCHUNK, rng)
+        for a in arms:
+            ch = make_chunks(A, KCHUNK, random.Random(sd))  # 每臂重置池
+            r = run_arm(a, ch, seed_text, test_text, vocab, random.Random(sd + hash(a) % 97))
+            allres[a].append(r)
+
+    print('=== 最终 bits/字符（越低越好，3 种子均值）===')
+    summary = {}
+    for a in arms:
+        vals = [r['final'] for r in allres[a]]
+        m = sum(vals) / len(vals)
+        sd_ = (sum((v - m) ** 2 for v in vals) / len(vals)) ** 0.5
+        summary[a] = {'mean': m, 'std': sd_, 'vals': vals}
+        print(f'  {a:10s} {m:.4f}  ±{sd_:.4f}   {[round(v,4) for v in vals]}')
+
+    base = summary['sedentary']['mean']
+    print(f'\n=== 相对"躺平"的改善 ===')
+    for a in arms:
+        d = summary[a]['mean'] - base
+        print(f'  {a:10s} {d:+.4f}')
+
+    # 配对符号检验：progress vs surprise / random
+    def sign_test(x, y, label):
+        wins = sum(1 for i in range(len(x)) if (x[i] - y[i]) < 0)
+        print(f'  {label}: progress 赢 {wins}/{len(x)}')
+        return wins
+
+    print('\n=== 配对符号检验（progress 是否优于）===')
+    pv = {a: [r['final'] for r in allres[a]] for a in arms}
+    st = {}
+    for a in ['random', 'surprise']:
+        st[a] = sign_test(pv['progress'], pv[a], f'vs {a}')
+
+    # progress 臂把预算花在哪：进步量 vs 误差水平 的排序相关
+    print('\n=== surprise 与 progress 挑的块是否不同 ===')
+    for sd_i, sd in enumerate(seeds):
+        ps = allres['surprise'][sd_i]['picks'][WARM:]
+        pp = allres['progress'][sd_i]['picks'][WARM:]
+        same = sum(1 for x, y in zip(ps, pp) if x == y)
+        print(f'  seed {sd}: 24 轮中相同 {same}/24')
+
+    out = {
+        'config': {'A_len': len(A), 'B_len': len(U), 'V': len(vocab),
+                   'KCHUNK': KCHUNK, 'S_PER': S_PER, 'WARM': WARM,
+                   'ROUNDS': ROUNDS, 'EPS': EPS, 'seeds': seeds,
+                   'seed_len': len(seed_text), 'test_len': len(test_text)},
+        'summary': summary,
+        'sign_test': st,
+        'curves': {a: [r['curve'] for r in allres[a]] for a in arms},
+        'prog_by_arm': {a: [r['prog'] for r in allres[a]] for a in arms},
+    }
+    p = os.path.join(OUT, 'result202b_'+str(NOISE_FRAC)+'.json')
+    p = os.path.join(OUT, 'result202b_'+str(NOISE_FRAC)+'.json')
+    with open(p, 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+    with open(p, 'rb') as f:
+        print(f'\n落盘 {p}  sha {hashlib.sha256(f.read()).hexdigest()[:12]}')
+
+
+if __name__ == '__main__':
+    main()

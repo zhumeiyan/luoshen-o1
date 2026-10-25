@@ -1,1 +1,108 @@
-ewogICJBMV9zaGFyZWRfdjEiOiB0cnVlLAogICJBMV9zaGFyZWRfdjIiOiBmYWxzZSwKICAiQTJfdW5pcXVlX2dlbm9tZV92MSI6IDEsCiAgIkEyX3VuaXF1ZV9nZW5vbWVfdjIiOiAyMCwKICAiQTJfdW5pcXVlX2hhc2hfdjIiOiAyMCwKICAiQTNfcG9wX3YxIjogMSwKICAiQTNfZW5lcmd5X3YxIjogMTAwLjAsCiAgIkEzX3BvcF92MiI6IDIwLAogICJBM19lbmVyZ3lfdjIiOiAxNTIuNywKICAiQTNfYmlydGhzX3YyIjogNDcsCiAgIkEzX2RlYXRoc192MiI6IDI4LAogICJBNF9rZXB0X3YxIjogWwogICAgImxpYXIiCiAgXSwKICAiQTRfa2VwdF92MiI6IFsKICAgICJob25lc3QiCiAgXSwKICAiQTRfZml0X2xpYXJfYXVkaXRlZCI6IDAuMDUyOSwKICAiQTRfZml0X2hvbmVzdF9hdWRpdGVkIjogMS4wLAogICJCX3VuaXF1ZV9zaW5nbGUiOiAyMCwKICAiQl9zaW1wc29uX3NpbmdsZSI6IDAuOTUsCiAgIkJfbl9zaW5nbGUiOiAyMCwKICAiQl91bmlxdWVfbXVsdGkiOiAyMCwKICAiQl9zaW1wc29uX211bHRpIjogMC45NSwKICAiQl9uX211bHRpIjogMjAsCiAgIkNfbXVfc2NhbiI6IHsKICAgICIwLjAiOiBbCiAgICAgIDIwLAogICAgICAxLAogICAgICAwLjAKICAgIF0sCiAgICAiMC4wMSI6IFsKICAgICAgMjAsCiAgICAgIDE3LAogICAgICAwLjkzNDk5OTk5OTk5OTk5OTkKICAgIF0sCiAgICAiMC4wNSI6IFsKICAgICAgMjAsCiAgICAgIDIwLAogICAgICAwLjk1CiAgICBdLAogICAgIjAuMSI6IFsKICAgICAgMjAsCiAgICAgIDIwLAogICAgICAwLjk1CiAgICBdLAogICAgIjAuMyI6IFsKICAgICAgMjAsCiAgICAgIDIwLAogICAgICAwLjk1CiAgICBdLAogICAgIjAuNSI6IFsKICAgICAgMjAsCiAgICAgIDIwLAogICAgICAwLjk1CiAgICBdLAogICAgIjEuMCI6IFsKICAgICAgMjAsCiAgICAgIDE2LAogICAgICAwLjkxNDk5OTk5OTk5OTk5OTkKICAgIF0KICB9LAogICJEX0tfc2NhbiI6IHsKICAgICIyIjogWwogICAgICAyLAogICAgICAyLAogICAgICAwLjUKICAgIF0sCiAgICAiNSI6IFsKICAgICAgNSwKICAgICAgNSwKICAgICAgMC43OTk5OTk5OTk5OTk5OTk5CiAgICBdLAogICAgIjEwIjogWwogICAgICAxMCwKICAgICAgMTAsCiAgICAgIDAuODk5OTk5OTk5OTk5OTk5OQogICAgXSwKICAgICIyMCI6IFsKICAgICAgMjAsCiAgICAgIDIwLAogICAgICAwLjk1CiAgICBdLAogICAgIjUwIjogWwogICAgICA1MCwKICAgICAgNTAsCiAgICAgIDAuOTgKICAgIF0KICB9LAogICJFX2VuZXJneV90cmFqIjogWwogICAgOTguMCwKICAgIDk3LjEsCiAgICA5Ni45LAogICAgOTcuNiwKICAgIDk3LjIsCiAgICAxMDAuMSwKICAgIDEwMy44LAogICAgMTEyLjUsCiAgICAxMTUuOSwKICAgIDExNS42LAogICAgMTE2LjcsCiAgICA4NC4xCiAgXSwKICAiRV9ib3VuZGVkIjogdHJ1ZSwKICAiRl9tdTBfdW5pcXVlIjogMSwKICAiRl9tdTAzX3VuaXF1ZSI6IDIwCn0=
+{
+  "A1_shared_v1": true,
+  "A1_shared_v2": false,
+  "A2_unique_genome_v1": 1,
+  "A2_unique_genome_v2": 20,
+  "A2_unique_hash_v2": 20,
+  "A3_pop_v1": 1,
+  "A3_energy_v1": 100.0,
+  "A3_pop_v2": 20,
+  "A3_energy_v2": 152.7,
+  "A3_births_v2": 47,
+  "A3_deaths_v2": 28,
+  "A4_kept_v1": [
+    "liar"
+  ],
+  "A4_kept_v2": [
+    "honest"
+  ],
+  "A4_fit_liar_audited": 0.0529,
+  "A4_fit_honest_audited": 1.0,
+  "B_unique_single": 20,
+  "B_simpson_single": 0.95,
+  "B_n_single": 20,
+  "B_unique_multi": 20,
+  "B_simpson_multi": 0.95,
+  "B_n_multi": 20,
+  "C_mu_scan": {
+    "0.0": [
+      20,
+      1,
+      0.0
+    ],
+    "0.01": [
+      20,
+      17,
+      0.9349999999999999
+    ],
+    "0.05": [
+      20,
+      20,
+      0.95
+    ],
+    "0.1": [
+      20,
+      20,
+      0.95
+    ],
+    "0.3": [
+      20,
+      20,
+      0.95
+    ],
+    "0.5": [
+      20,
+      20,
+      0.95
+    ],
+    "1.0": [
+      20,
+      16,
+      0.9149999999999999
+    ]
+  },
+  "D_K_scan": {
+    "2": [
+      2,
+      2,
+      0.5
+    ],
+    "5": [
+      5,
+      5,
+      0.7999999999999999
+    ],
+    "10": [
+      10,
+      10,
+      0.8999999999999999
+    ],
+    "20": [
+      20,
+      20,
+      0.95
+    ],
+    "50": [
+      50,
+      50,
+      0.98
+    ]
+  },
+  "E_energy_traj": [
+    98.0,
+    97.1,
+    96.9,
+    97.6,
+    97.2,
+    100.1,
+    103.8,
+    112.5,
+    115.9,
+    115.6,
+    116.7,
+    84.1
+  ],
+  "E_bounded": true,
+  "F_mu0_unique": 1,
+  "F_mu03_unique": 20
+}

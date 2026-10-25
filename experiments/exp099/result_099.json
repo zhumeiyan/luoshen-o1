@@ -1,1 +1,156 @@
-ewogIuWOn+aWhyI6IHsKICAiZXhhY3QiOiBbCiAgIDE0LAogICAyOQogIF0sCiAgInNraXBwZWQiOiAwLAogICJMIjogWwogICA3Ny44LAogICAyMSwKICAgMjcKICBdLAogICJNIjogWwogICA5NS41LAogICAyMSwKICAgMjIKICBdLAogICJQIjogWwogICA4NS43LAogICAxOCwKICAgMjEKICBdCiB9LAogIuacq+WwvuWKoOWPpeWPtyI6IHsKICAiZXhhY3QiOiBbCiAgIDE0LAogICAyOQogIF0sCiAgInNraXBwZWQiOiAwLAogICJMIjogWwogICA3Ny44LAogICAyMSwKICAgMjcKICBdLAogICJNIjogWwogICA5NS41LAogICAyMSwKICAgMjIKICBdLAogICJQIjogWwogICA4NS43LAogICAxOCwKICAgMjEKICBdCiB9LAogIuWOu+epuuagvCI6IHsKICAiZXhhY3QiOiBbCiAgIDE0LAogICAyOQogIF0sCiAgInNraXBwZWQiOiAwLAogICJMIjogWwogICA3Ny44LAogICAyMSwKICAgMjcKICBdLAogICJNIjogWwogICA5NS41LAogICAyMSwKICAgMjIKICBdLAogICJQIjogWwogICA4NS43LAogICAxOCwKICAgMjEKICBdCiB9LAogIuWPpeW6j+aJk+S5sSI6IHsKICAiZXhhY3QiOiBbCiAgIDE0LAogICAyOQogIF0sCiAgInNraXBwZWQiOiAwLAogICJMIjogWwogICA3Ny44LAogICAyMSwKICAgMjcKICBdLAogICJNIjogWwogICA5NS41LAogICAyMSwKICAgMjIKICBdLAogICJQIjogWwogICA4NS43LAogICAxOCwKICAgMjEKICBdCiB9LAogIui/veWKoOaXoOWFs+WPpSI6IHsKICAiZXhhY3QiOiBbCiAgIDE0LAogICAyOQogIF0sCiAgInNraXBwZWQiOiAwLAogICJMIjogWwogICA3Ny44LAogICAyMSwKICAgMjcKICBdLAogICJNIjogWwogICA5NS41LAogICAyMSwKICAgMjIKICBdLAogICJQIjogWwogICA4NS43LAogICAxOCwKICAgMjEKICBdCiB9LAogIuaNojHkuKrlhbPplK7or40iOiB7CiAgImV4YWN0IjogWwogICA2LAogICAxOAogIF0sCiAgInNraXBwZWQiOiAxMSwKICAiTCI6IFsKICAgNjYuNywKICAgMTIsCiAgIDE4CiAgXSwKICAiTSI6IFsKICAgOTMuOCwKICAgMTUsCiAgIDE2CiAgXSwKICAiUCI6IFsKICAgNjguOCwKICAgMTEsCiAgIDE2CiAgXQogfSwKICLmjaLlhajpg6jlhbPplK7or40iOiB7CiAgImV4YWN0IjogWwogICAxNCwKICAgMjkKICBdLAogICJza2lwcGVkIjogMCwKICAiTCI6IFsKICAgNjMuMCwKICAgMTcsCiAgIDI3CiAgXSwKICAiTSI6IFsKICAgOTUuNSwKICAgMjEsCiAgIDIyCiAgXSwKICAiUCI6IFsKICAgNjYuNywKICAgMTQsCiAgIDIxCiAgXQogfQp9
+{
+ "原文": {
+  "exact": [
+   14,
+   29
+  ],
+  "skipped": 0,
+  "L": [
+   77.8,
+   21,
+   27
+  ],
+  "M": [
+   95.5,
+   21,
+   22
+  ],
+  "P": [
+   85.7,
+   18,
+   21
+  ]
+ },
+ "末尾加句号": {
+  "exact": [
+   14,
+   29
+  ],
+  "skipped": 0,
+  "L": [
+   77.8,
+   21,
+   27
+  ],
+  "M": [
+   95.5,
+   21,
+   22
+  ],
+  "P": [
+   85.7,
+   18,
+   21
+  ]
+ },
+ "去空格": {
+  "exact": [
+   14,
+   29
+  ],
+  "skipped": 0,
+  "L": [
+   77.8,
+   21,
+   27
+  ],
+  "M": [
+   95.5,
+   21,
+   22
+  ],
+  "P": [
+   85.7,
+   18,
+   21
+  ]
+ },
+ "句序打乱": {
+  "exact": [
+   14,
+   29
+  ],
+  "skipped": 0,
+  "L": [
+   77.8,
+   21,
+   27
+  ],
+  "M": [
+   95.5,
+   21,
+   22
+  ],
+  "P": [
+   85.7,
+   18,
+   21
+  ]
+ },
+ "追加无关句": {
+  "exact": [
+   14,
+   29
+  ],
+  "skipped": 0,
+  "L": [
+   77.8,
+   21,
+   27
+  ],
+  "M": [
+   95.5,
+   21,
+   22
+  ],
+  "P": [
+   85.7,
+   18,
+   21
+  ]
+ },
+ "换1个关键词": {
+  "exact": [
+   6,
+   18
+  ],
+  "skipped": 11,
+  "L": [
+   66.7,
+   12,
+   18
+  ],
+  "M": [
+   93.8,
+   15,
+   16
+  ],
+  "P": [
+   68.8,
+   11,
+   16
+  ]
+ },
+ "换全部关键词": {
+  "exact": [
+   14,
+   29
+  ],
+  "skipped": 0,
+  "L": [
+   63.0,
+   17,
+   27
+  ],
+  "M": [
+   95.5,
+   21,
+   22
+  ],
+  "P": [
+   66.7,
+   14,
+   21
+  ]
+ }
+}

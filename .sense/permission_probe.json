@@ -1,1 +1,16 @@
-ewogImNoZWNrZWQiOiAxMywKICJmYWtlIjogW10sCiAibWlzbWF0Y2giOiBbCiAgWwogICAi6IGU572Rwrfor7siLAogICAi6IO9IiwKICAgIuS4jeiDvSIKICBdCiBdLAogIm9rIjogewogICLikaAg5q+P5p2h6YO955yf6LeR6L+HIjogdHJ1ZSwKICAi4pGhIOW9k+WJjeaXoOawuOecn+aOoumSiCjkv67lpI3lkI7lupTkuLowKSI6IHRydWUsCiAgIuKRoiDml6DnnJ/ov4fmnJ/pobko5p2h5Lu26aG56Zmk5aSWKSI6IGZhbHNlCiB9Cn0=
+{
+ "checked": 13,
+ "fake": [],
+ "mismatch": [
+  [
+   "联网·读",
+   "能",
+   "不能"
+  ]
+ ],
+ "ok": {
+  "① 每条都真跑过": true,
+  "② 当前无永真探针(修复后应为0)": true,
+  "③ 无真过期项(条件项除外)": false
+ }
+}

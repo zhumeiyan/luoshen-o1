@@ -1,1 +1,77 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5YGa5a6M6Ieq5bex55yL77ya5riy5p+T5qC45b+D57uT6K66IC0+IOWGmeW4p+e8k+WGsiAtPiBmZm1wZWcg6YeH6ZuGIC0+IE9DUiDor7vlm57moLjlr7njgIIK5pWZ6K6tKDA4OCnvvJrluKfnvJPlhrLmmK8gMzJicHDvvIzmjIkgUkdCIOWGmeS8mumUmeS9je+8m+W/hemhu+W5s+a7keaPkuWAvCvnrYnmr5TlsYXkuK3jgIIiIiIKaW1wb3J0IG9zLCBqc29uLCBzZWNyZXRzLCBoYXNobGliLCBzdWJwcm9jZXNzCmltcG9ydCBudW1weSBhcyBucApmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpGQiA9ICcvZGV2L2ZiMCcKVywgSCA9IDEwMjQsIDc2OAoKZGVmIGZvbnQoc3opOgogICAgZm9yIHAgaW4gWycvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjJywKICAgICAgICAgICAgICAnL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LXplbmhlaS50dGMnLAogICAgICAgICAgICAgICcvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTYW5zLnR0ZiddOgogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOgogICAgICAgICAgICB0cnk6IHJldHVybiBJbWFnZUZvbnQudHJ1ZXR5cGUocCwgc3opCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKICAgIHJldHVybiBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKCmNoZWNrID0gc2VjcmV0cy50b2tlbl9oZXgoMykudXBwZXIoKQp0cnV0aCA9IHsKICAgICdldGFfdGhyJzogJzAuMzInLCAgICAgICAgIyDov5Tlm57mlYjnjofpmIjlgLwKICAgICdkbWF4JzogJzknLCAgICAgICAgICAgICAgIyDluKfpl7TkvY3np7vkuIrpmZAKICAgICdiYXNlJzogJzAuNTY2MicsCiAgICAnZXllJzogJzAuNzI1NCcsCiAgICAnaGJpYXMnOiAnMC41NjQxJywKICAgICdocmFuZCc6ICcwLjcwMjgnLAogICAgJ2ZsaXBfbG8nOiAnMTQuNScsCiAgICAnZmxpcF9oaSc6ICcxOTAuOScsCn0KYmxvYiA9IGpzb24uZHVtcHModHJ1dGgsIHNvcnRfa2V5cz1UcnVlKQpzaGEgPSBoYXNobGliLnNoYTI1NihibG9iLmVuY29kZSgpKS5oZXhkaWdlc3QoKVs6MTZdCmpzb24uZHVtcChkaWN0KHRydXRoPXRydXRoLCBjaGVjaz1jaGVjaywgc2hhMjU2PXNoYSksCiAgICAgICAgICBvcGVuKCdzY3JlZW5fdHJ1dGgwOTEuanNvbicsICd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCgppbWcgPSBJbWFnZS5uZXcoJ1JHQicsIChXLCBIKSwgJ3doaXRlJykKZCA9IEltYWdlRHJhdy5EcmF3KGltZykKZiA9IGZvbnQoMzApOyBmcyA9IGZvbnQoMjIpCmxpbmVzID0gWwogICAgJzA5MSDmlYjlupTlmajkuI7mhJ/lj5flmajvvJrmiYvlkoznnLzlnKjniannkIblupXlsYLmmK/lkIzkuIDnsbvkuJzopb8nLAogICAgJycsCiAgICBmJ+i/lOWbnuaViOeOh+mYiOWAvCBldGEgPSB7dHJ1dGhbImV0YV90aHIiXX0gICDkvY7kuo7lroMgPT4g546755KD5LiK5LiN5YqoJywKICAgIGYn5bin6Ze05L2N56e75LiK6ZmQIGRtYXggPSB7dHJ1dGhbImRtYXgiXX0gICDotoXov4flroMgPT4g55Sp5aSq5b+r5Lii5binJywKICAgICcnLAogICAgZifml6Dor6/lt64gICAgICB7dHJ1dGhbImJhc2UiXX0gICDnv7vovawge3RydXRoWyJmbGlwX2xvIl19JywKICAgIGYn55y85Zmq55yL6ZSZICAgIHt0cnV0aFsiZXllIl19ICAg57+76L2sIHt0cnV0aFsiZmxpcF9oaSJdfScsCiAgICBmJ+aJi+aAu+WBj+S4gOi+uSAge3RydXRoWyJoYmlhcyJdfSAgIOe/u+i9rCB7dHJ1dGhbImZsaXBfbG8iXX0gIDw9IOWPr+mihOa1i+WImeaXoOaViOW6lCcsCiAgICBmJ+aJi+avj+aLjeaKliAgICB7dHJ1dGhbImhyYW5kIl19ICAg57+76L2sIHt0cnV0aFsiZmxpcF9oaSJdfSAgPD0g5LiN5Y+v6aKE5rWL5omN5pyJ5pWI5bqUJywKICAgICcnLAogICAgZidTRUUgVEhJUyBMSU5FICAgQ0hFQ0sge2NoZWNrfScsCl0KeSA9IDYwCmZvciBpLCB0IGluIGVudW1lcmF0ZShsaW5lcyk6CiAgICBkLnRleHQoKDUwLCB5KSwgdCwgZmlsbD0nYmxhY2snLCBmb250PWYgaWYgaSBlbHNlIGZzKQogICAgeSArPSA1OAppbWcuc2F2ZSgncmVuZGVyZWQwOTEucG5nJykKCiMgMzJicHAgQkdSQSAtPiDluKfnvJPlhrIKYXJyID0gbnAuYXJyYXkoaW1nLmNvbnZlcnQoJ1JHQicpKQpiZ3JhID0gbnAuemVyb3MoKEgsIFcsIDQpLCBkdHlwZT1ucC51aW50OCkKYmdyYVsuLi4sIDBdID0gYXJyWy4uLiwgMl07IGJncmFbLi4uLCAxXSA9IGFyclsuLi4sIDFdCmJncmFbLi4uLCAyXSA9IGFyclsuLi4sIDBdOyBiZ3JhWy4uLiwgM10gPSAyNTUKIyDnrYnmr5TlsYXkuK3vvIzlubPmu5Hmj5LlgLwKc2NhbGUgPSBtaW4oVyAvIGFyci5zaGFwZVsxXSwgSCAvIGFyci5zaGFwZVswXSkKbncsIG5oID0gbWF4KDEsIGludChhcnIuc2hhcGVbMV0gKiBzY2FsZSkpLCBtYXgoMSwgaW50KGFyci5zaGFwZVswXSAqIHNjYWxlKSkKc21hbGwgPSBucC5hcnJheShpbWcuY29udmVydCgnUkdCJykucmVzaXplKChudywgbmgpLCBJbWFnZS5MQU5DWk9TKSkKY2FudmFzID0gbnAuZnVsbCgoSCwgVywgMyksIDI1NSwgZHR5cGU9bnAudWludDgpCm95LCBveCA9IChIIC0gbmgpIC8vIDIsIChXIC0gbncpIC8vIDIKY2FudmFzW295Om95K25oLCBveDpveCtud10gPSBzbWFsbApiZ3JhID0gbnAuemVyb3MoKEgsIFcsIDQpLCBkdHlwZT1ucC51aW50OCkKYmdyYVsuLi4sIDBdID0gY2FudmFzWy4uLiwgMl07IGJncmFbLi4uLCAxXSA9IGNhbnZhc1suLi4sIDFdCmJncmFbLi4uLCAyXSA9IGNhbnZhc1suLi4sIDBdOyBiZ3JhWy4uLiwgM10gPSAyNTUKYmdyYS50b2ZpbGUoRkIpCgpzdWJwcm9jZXNzLnJ1bihbJ2ZmbXBlZycsICcteScsICctbG9nbGV2ZWwnLCAnZXJyb3InLCAnLWYnLCAnZmJkZXYnLAogICAgICAgICAgICAgICAgJy1pJywgRkIsICctZnJhbWVzOnYnLCAnMScsICdjYXB0dXJlZDA5MS5wbmcnXSwgY2hlY2s9RmFsc2UpCnByaW50KCdjYXB0dXJlZCBvazonLCBvcy5wYXRoLmV4aXN0cygnY2FwdHVyZWQwOTEucG5nJykpCg==
+# -*- coding: utf-8 -*-
+"""做完自己看：渲染核心结论 -> 写帧缓冲 -> ffmpeg 采集 -> OCR 读回核对。
+教训(088)：帧缓冲是 32bpp，按 RGB 写会错位；必须平滑插值+等比居中。"""
+import os, json, secrets, hashlib, subprocess
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+FB = '/dev/fb0'
+W, H = 1024, 768
+
+def font(sz):
+    for p in ['/usr/share/fonts/truetype/wqy/wqy-microhei.ttc',
+              '/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc',
+              '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf']:
+        if os.path.exists(p):
+            try: return ImageFont.truetype(p, sz)
+            except Exception: pass
+    return ImageFont.load_default()
+
+check = secrets.token_hex(3).upper()
+truth = {
+    'eta_thr': '0.32',        # 返回效率阈值
+    'dmax': '9',              # 帧间位移上限
+    'base': '0.5662',
+    'eye': '0.7254',
+    'hbias': '0.5641',
+    'hrand': '0.7028',
+    'flip_lo': '14.5',
+    'flip_hi': '190.9',
+}
+blob = json.dumps(truth, sort_keys=True)
+sha = hashlib.sha256(blob.encode()).hexdigest()[:16]
+json.dump(dict(truth=truth, check=check, sha256=sha),
+          open('screen_truth091.json', 'w'), ensure_ascii=False, indent=1)
+
+img = Image.new('RGB', (W, H), 'white')
+d = ImageDraw.Draw(img)
+f = font(30); fs = font(22)
+lines = [
+    '091 效应器与感受器：手和眼在物理底层是同一类东西',
+    '',
+    f'返回效率阈值 eta = {truth["eta_thr"]}   低于它 => 玻璃上不动',
+    f'帧间位移上限 dmax = {truth["dmax"]}   超过它 => 甩太快丢帧',
+    '',
+    f'无误差      {truth["base"]}   翻转 {truth["flip_lo"]}',
+    f'眼噪看错    {truth["eye"]}   翻转 {truth["flip_hi"]}',
+    f'手总偏一边  {truth["hbias"]}   翻转 {truth["flip_lo"]}  <= 可预测则无效应',
+    f'手每拍抖    {truth["hrand"]}   翻转 {truth["flip_hi"]}  <= 不可预测才有效应',
+    '',
+    f'SEE THIS LINE   CHECK {check}',
+]
+y = 60
+for i, t in enumerate(lines):
+    d.text((50, y), t, fill='black', font=f if i else fs)
+    y += 58
+img.save('rendered091.png')
+
+# 32bpp BGRA -> 帧缓冲
+arr = np.array(img.convert('RGB'))
+bgra = np.zeros((H, W, 4), dtype=np.uint8)
+bgra[..., 0] = arr[..., 2]; bgra[..., 1] = arr[..., 1]
+bgra[..., 2] = arr[..., 0]; bgra[..., 3] = 255
+# 等比居中，平滑插值
+scale = min(W / arr.shape[1], H / arr.shape[0])
+nw, nh = max(1, int(arr.shape[1] * scale)), max(1, int(arr.shape[0] * scale))
+small = np.array(img.convert('RGB').resize((nw, nh), Image.LANCZOS))
+canvas = np.full((H, W, 3), 255, dtype=np.uint8)
+oy, ox = (H - nh) // 2, (W - nw) // 2
+canvas[oy:oy+nh, ox:ox+nw] = small
+bgra = np.zeros((H, W, 4), dtype=np.uint8)
+bgra[..., 0] = canvas[..., 2]; bgra[..., 1] = canvas[..., 1]
+bgra[..., 2] = canvas[..., 0]; bgra[..., 3] = 255
+bgra.tofile(FB)
+
+subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'fbdev',
+                '-i', FB, '-frames:v', '1', 'captured091.png'], check=False)
+print('captured ok:', os.path.exists('captured091.png'))

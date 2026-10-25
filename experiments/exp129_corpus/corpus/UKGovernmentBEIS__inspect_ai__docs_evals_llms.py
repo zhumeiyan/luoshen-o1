@@ -1,1 +1,91 @@
-IiIiRW1pdCBhIE1hcmtkb3duIGxpc3Rpbmcgb2YgSW5zcGVjdCBldmFscyB0byBzdGRvdXQuCgpJbnZva2VkIGJ5IGluc3BlY3QtZG9jcyBwb3N0LXJlbmRlciBhcyB0aGUgYGxsbXMtc2NyaXB0YCBmb3IKYGV2YWxzL2luZGV4LnFtZGAgKHNlZSBmcm9udG1hdHRlcikuIFRoZSBzY3JpcHQgcmVjZWl2ZXMgdGhlIHBhZ2UncyBtYWluCkhUTUwgb24gc3RkaW4gYW5kIGlnbm9yZXMgaXQg4oCUIHRoZSBTUEEgcGxhY2Vob2xkZXIgaGFzIG5vIHVzZWZ1bApjb250ZW50LiBXZSBpbnN0ZWFkIHJlYWQgdGhlIGNvbW1pdHRlZCBgZXZhbHMuanNvbmAgKHByb2R1Y2VkIGJ5CmBzeW5jX2FsbC5weWApIGFuZCBlbWl0IGEgY2F0ZWdvcml6ZWQgbGlzdGluZy4KIiIiCgppbXBvcnQganNvbgppbXBvcnQgc3lzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKUEFUSCA9IFBhdGgoX19maWxlX18pLnBhcmVudApzeXMucGF0aC5pbnNlcnQoMCwgc3RyKFBBVEgpKQoKZnJvbSBzeW5jIGltcG9ydCBDQVRFR09SWV9PUkRFUiAgIyBub3FhOiBFNDAyCgoKZGVmIF9mb3JtYXRfcmVjb3JkKHI6IGRpY3QpIC0+IGxpc3Rbc3RyXToKICAgIG5hbWUgPSByWyJuYW1lIl0KICAgIHVybCA9IHIuZ2V0KCJ1cmwiKSBvciAiIgogICAgbGluayA9IGYiW3tuYW1lfV0oe3VybH0pIiBpZiB1cmwgZWxzZSBuYW1lCgogICAgZmFjZXRzOiBsaXN0W3N0cl0gPSBbXQogICAgY2F0cyA9IHIuZ2V0KCJjYXRlZ29yaWVzIikgb3IgW10KICAgIGlmIGNhdHM6CiAgICAgICAgZmFjZXRzLmFwcGVuZCgiLCAiLmpvaW4oY2F0cykpCgogICAgIyBNZXJnZSBraW5kICsgbW9kYWxpdGllcywgZGVkdXBlZCB3aGlsZSBwcmVzZXJ2aW5nIG9yZGVyLiBraW5kIG9mdGVuCiAgICAjIHJlcGVhdHMgYSBtb2RhbGl0eSAoZS5nLiBraW5kPWFnZW50LCBtb2RhbGl0aWVzPVthZ2VudCwgc2FuZGJveF0pLgogICAgdHJhaXRzOiBsaXN0W3N0cl0gPSBbXQogICAgc2Vlbl90cmFpdHM6IHNldFtzdHJdID0gc2V0KCkKICAgIGZvciB0IGluIFtyLmdldCgia2luZCIpIG9yICIiLCAqKHIuZ2V0KCJtb2RhbGl0aWVzIikgb3IgW10pXToKICAgICAgICBpZiB0IGFuZCB0IG5vdCBpbiBzZWVuX3RyYWl0czoKICAgICAgICAgICAgdHJhaXRzLmFwcGVuZCh0KQogICAgICAgICAgICBzZWVuX3RyYWl0cy5hZGQodCkKICAgIGlmIHRyYWl0czoKICAgICAgICBmYWNldHMuYXBwZW5kKCIsICIuam9pbih0cmFpdHMpKQoKICAgIHNhbXBsZXMgPSByLmdldCgic2FtcGxlcyIpCiAgICBpZiBpc2luc3RhbmNlKHNhbXBsZXMsIGludCk6CiAgICAgICAgZmFjZXRzLmFwcGVuZChmIntzYW1wbGVzfSBzYW1wbGVzIikKICAgIGNvZGUgPSByLmdldCgiY29kZSIpCiAgICBpZiBjb2RlOgogICAgICAgIGZhY2V0cy5hcHBlbmQoZiJge2NvZGV9YCIpCiAgICBwYXBlciA9IHIuZ2V0KCJwYXBlciIpCiAgICBpZiBwYXBlcjoKICAgICAgICBmYWNldHMuYXBwZW5kKGYiW3BhcGVyXSh7cGFwZXJ9KSIpCgogICAgaGVhZGVyID0gZiItICoqe2xpbmt9Kiog4oCUICIgKyAiIMK3ICIuam9pbihmYWNldHMpIGlmIGZhY2V0cyBlbHNlIGYiLSAqKntsaW5rfSoqIgogICAgZGVzYyA9IHIuZ2V0KCJkZXNjIikgb3IgIiIKICAgIHJldHVybiBbaGVhZGVyLCBmIiAge2Rlc2N9Il0gaWYgZGVzYyBlbHNlIFtoZWFkZXJdCgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgIyBEcmFpbiBzdGRpbiBzbyB0aGUgcGFyZW50IHByb2Nlc3MgZG9lc24ndCBibG9jayBvbiBhIGJyb2tlbiBwaXBlLgogICAgc3lzLnN0ZGluLnJlYWQoKQoKICAgIGRhdGEgPSBqc29uLmxvYWRzKChQQVRIIC8gImV2YWxzLmpzb24iKS5yZWFkX3RleHQoKSkKCiAgICBieV9jYXQ6IGRpY3Rbc3RyLCBsaXN0W2RpY3RdXSA9IHt9CiAgICBmb3IgciBpbiBkYXRhOgogICAgICAgIGNhdCA9IChyLmdldCgiY2F0ZWdvcmllcyIpIG9yIFsiT3RoZXIiXSlbMF0KICAgICAgICBieV9jYXQuc2V0ZGVmYXVsdChjYXQsIFtdKS5hcHBlbmQocikKCiAgICBvdXQ6IGxpc3Rbc3RyXSA9IFsiIyBFdmFscyIsICIiXQoKICAgIHNlZW5fY2F0czogc2V0W3N0cl0gPSBzZXQoKQogICAgZm9yIGNhdCBpbiBDQVRFR09SWV9PUkRFUjoKICAgICAgICByb3dzID0gYnlfY2F0LmdldChjYXQpIG9yIFtdCiAgICAgICAgaWYgbm90IHJvd3M6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgc2Vlbl9jYXRzLmFkZChjYXQpCiAgICAgICAgb3V0LmFwcGVuZChmIiMjIHtjYXR9IikKICAgICAgICBvdXQuYXBwZW5kKCIiKQogICAgICAgIGZvciByIGluIHNvcnRlZChyb3dzLCBrZXk9bGFtYmRhIHg6IHhbIm5hbWUiXS5sb3dlcigpKToKICAgICAgICAgICAgb3V0LmV4dGVuZChfZm9ybWF0X3JlY29yZChyKSkKICAgICAgICBvdXQuYXBwZW5kKCIiKQoKICAgIGZvciBjYXQgaW4gc29ydGVkKHNldChieV9jYXQpIC0gc2Vlbl9jYXRzKToKICAgICAgICBvdXQuYXBwZW5kKGYiIyMge2NhdH0iKQogICAgICAgIG91dC5hcHBlbmQoIiIpCiAgICAgICAgZm9yIHIgaW4gc29ydGVkKGJ5X2NhdFtjYXRdLCBrZXk9bGFtYmRhIHg6IHhbIm5hbWUiXS5sb3dlcigpKToKICAgICAgICAgICAgb3V0LmV4dGVuZChfZm9ybWF0X3JlY29yZChyKSkKICAgICAgICBvdXQuYXBwZW5kKCIiKQoKICAgIHN5cy5zdGRvdXQud3JpdGUoIlxuIi5qb2luKG91dCkucnN0cmlwKCkgKyAiXG4iKQoKCm1haW4oKQo=
+"""Emit a Markdown listing of Inspect evals to stdout.
+
+Invoked by inspect-docs post-render as the `llms-script` for
+`evals/index.qmd` (see frontmatter). The script receives the page's main
+HTML on stdin and ignores it — the SPA placeholder has no useful
+content. We instead read the committed `evals.json` (produced by
+`sync_all.py`) and emit a categorized listing.
+"""
+
+import json
+import sys
+from pathlib import Path
+
+PATH = Path(__file__).parent
+sys.path.insert(0, str(PATH))
+
+from sync import CATEGORY_ORDER  # noqa: E402
+
+
+def _format_record(r: dict) -> list[str]:
+    name = r["name"]
+    url = r.get("url") or ""
+    link = f"[{name}]({url})" if url else name
+
+    facets: list[str] = []
+    cats = r.get("categories") or []
+    if cats:
+        facets.append(", ".join(cats))
+
+    # Merge kind + modalities, deduped while preserving order. kind often
+    # repeats a modality (e.g. kind=agent, modalities=[agent, sandbox]).
+    traits: list[str] = []
+    seen_traits: set[str] = set()
+    for t in [r.get("kind") or "", *(r.get("modalities") or [])]:
+        if t and t not in seen_traits:
+            traits.append(t)
+            seen_traits.add(t)
+    if traits:
+        facets.append(", ".join(traits))
+
+    samples = r.get("samples")
+    if isinstance(samples, int):
+        facets.append(f"{samples} samples")
+    code = r.get("code")
+    if code:
+        facets.append(f"`{code}`")
+    paper = r.get("paper")
+    if paper:
+        facets.append(f"[paper]({paper})")
+
+    header = f"- **{link}** — " + " · ".join(facets) if facets else f"- **{link}**"
+    desc = r.get("desc") or ""
+    return [header, f"  {desc}"] if desc else [header]
+
+
+def main() -> None:
+    # Drain stdin so the parent process doesn't block on a broken pipe.
+    sys.stdin.read()
+
+    data = json.loads((PATH / "evals.json").read_text())
+
+    by_cat: dict[str, list[dict]] = {}
+    for r in data:
+        cat = (r.get("categories") or ["Other"])[0]
+        by_cat.setdefault(cat, []).append(r)
+
+    out: list[str] = ["# Evals", ""]
+
+    seen_cats: set[str] = set()
+    for cat in CATEGORY_ORDER:
+        rows = by_cat.get(cat) or []
+        if not rows:
+            continue
+        seen_cats.add(cat)
+        out.append(f"## {cat}")
+        out.append("")
+        for r in sorted(rows, key=lambda x: x["name"].lower()):
+            out.extend(_format_record(r))
+        out.append("")
+
+    for cat in sorted(set(by_cat) - seen_cats):
+        out.append(f"## {cat}")
+        out.append("")
+        for r in sorted(by_cat[cat], key=lambda x: x["name"].lower()):
+            out.extend(_format_record(r))
+        out.append("")
+
+    sys.stdout.write("\n".join(out).rstrip() + "\n")
+
+
+main()

@@ -1,1 +1,20 @@
-ewogIm9rIjogewogICLikaAgR1NEQDEwMG0g6JC9IFJFQUwg5Yy66Ze0IDIuN340IjogdHJ1ZSwKICAi4pGhIOijuOecvCAxbSDokL0gUkVBTCDljLrpl7TvvIgwLjUwwrEwLjE177yJIjogdHJ1ZSwKICAi4pGiIOKYheKYhSDoo7jnnLzlrZjlnKjlpKnoirHmnb8g4omkMC41Ne+8iOS4suihjOeTtumiiO+8iSI6IHRydWUsCiAgIuKRoyDorr7lpIfvvIjpq5jluKfnjocr5aKe55uK77yJ6JC9IFJFQUwgNzB+ODUlIjogdHJ1ZSwKICAi4pGkIOKYheKYhSDlhYnlrablop7nm4rlv4XpobvmmL7okZfmj5DljYfmo4Dlh7rnjofvvIjiiaUyMCXvvIkiOiB0cnVlLAogICLikaUg4piF4piFIEFVNiDljZXosIPmiqzljYfnnJ/nrJHliIbvvIjlj6/or4HkvKrvvIkiOiB0cnVlLAogICLikaYg4piF4piFIOWPquWKqCBBVTEyIOW/hemhu+WIpOWBh+eskSI6IHRydWUsCiAgIuKRpyBBVTYg6L+c6Zq+6ZqP5oSP5o6n5Yi277yI6K+a5a6e5qCH6K6w55qE5YmN5o+Q77yJIjogdHJ1ZSwKICAi4pGoIOW4p+eOh+WGhemDqOacgOS8mO+8muino+aekOKJiOaJq+aPjyDkuJTpmo/mipbliqjljZXosIPlop4iOiB0cnVlLAogICLikakg4piF4piFIOWFs+aOieS6keWPsOaKluWKqOW/hemhu+aYvuiRl+WPmOWkp++8iOKJpTXDl++8iSI6IHRydWUsCiAgIuKRqiDimIXimIUg5pWw5a2X5Zu+5Lyg5LiN6IO95pSv5pKR5a6e5pe25a+56K+d77yM5L2G6IO96YGl5pON5L2cIjogdHJ1ZSwKICAi4pGrIOS4ieexu+aJqeWxlem9kOWFqCI6IHRydWUsCiAgIuKRrCDimIXimIUg5YWz5o6J6K6+5aSH6IO95Yqb5b+F6aG75LiL6ZmN77yI6Z2e5oyC5Lu277yJIjogdHJ1ZQogfSwKICJuYXRpdmVfY2VpbGluZyI6IDAuNTI1MDAwMDAwMDAwMDAwMiwKICJnc2QxMDAiOiAzLjc1LAogImRldGVjdF8xbSI6IDAuMzY5MzI5NTM0MjgwMDY3NQp9
+{
+ "ok": {
+  "① GSD@100m 落 REAL 区间 2.7~4": true,
+  "② 裸眼 1m 落 REAL 区间（0.50±0.15）": true,
+  "③ ★★ 裸眼存在天花板 ≤0.55（串行瓶颈）": true,
+  "④ 设备（高帧率+增益）落 REAL 70~85%": true,
+  "⑤ ★★ 光学增益必须显著提升检出率（≥20%）": true,
+  "⑥ ★★ AU6 单调抬升真笑分（可证伪）": true,
+  "⑦ ★★ 只动 AU12 必须判假笑": true,
+  "⑧ AU6 远难随意控制（诚实标记的前提）": true,
+  "⑨ 帧率内部最优：解析≈扫描 且随抖动单调增": true,
+  "⑩ ★★ 关掉云台抖动必须显著变大（≥5×）": true,
+  "⑪ ★★ 数字图传不能支撑实时对话，但能遥操作": true,
+  "⑫ 三类扩展齐全": true,
+  "⑬ ★★ 关掉设备能力必须下降（非挂件）": true
+ },
+ "native_ceiling": 0.5250000000000002,
+ "gsd100": 3.75,
+ "detect_1m": 0.3693295342800675
+}

@@ -1,1 +1,522 @@
-IiIiClJlZnJlc2ggdGhlIGZyZWUtcHJveHktbGlzdCBtaXJyb3IgZnJvbSB0aGUgUHJveHlTY3JhcGUgdjQgcHVibGljIEFQSS4KCldyaXRlczoKICBwcm94aWVzL2FsbC9kYXRhLnt0eHQsanNvbixjc3Z9CiAgcHJveGllcy9wcm90b2NvbHMve2h0dHAsaHR0cHMsc29ja3M0LHNvY2tzNX0vZGF0YS57dHh0LGpzb24sY3N2fQogIHByb3hpZXMvY291bnRyaWVzL3tJU099L2RhdGEue3R4dCxqc29uLGNzdn0gICAgICAgICAgICAgICAgIChJU08tMzE2NiBhbHBoYS0yLCBsb3dlcmNhc2VkKQogIHByb3hpZXMvY291bnRyaWVzL3tJU099L3twcm90b2NvbH0vZGF0YS57dHh0LGpzb24sY3N2fSAgICAgIChvbmx5IHdoZW4gbm9uLWVtcHR5KQogIHByb3hpZXMvc3RhdHMuanNvbgoKVGhlICJhbGwiIHNoYXJkIGlzIGZldGNoZWQgaW4gb25lIGNhbGwgKHdpdGggYSBnZW5lcm91cyBsaW1pdCkuIFByb3RvY29sIGFuZApjb3VudHJ5IHNoYXJkcyBhcmUgZGVyaXZlZCBmcm9tIHRoYXQgcmVzcG9uc2UgYnkgZmlsdGVyaW5nIOKAlCBrZWVwaW5nIG9uZSBBUEkKY2FsbCBwZXIgcnVuIGFuZCBndWFyYW50ZWVpbmcgdGhlIHNoYXJkcyBzdGF5IGludGVybmFsbHkgY29uc2lzdGVudCAobm8KaW50ZXItc2hhcmQgc2tldyBmcm9tIHVwc3RyZWFtIGNodXJuIGJldHdlZW4gY2FsbHMpLgoKU2NoZW1hIG5vdGVzICh1cHN0cmVhbSk6CiAgLSBwcm90b2NvbCDiiIgge2h0dHAsIHNvY2tzNCwgc29ja3M1fSAgKEhUVFBTIGlzIGEgQ0FQQUJJTElUWSBmbGFnIG9uIEhUVFAsCiAgICBub3QgaXRzIG93biBwcm90b2NvbCB2YWx1ZSDigJQgZXhwb3NlZCB2aWEgYHNzbDogdHJ1ZWApCiAgLSB1cHRpbWUgaXMgcmVwb3J0ZWQgYXMgYSAw4oCTMTAwIHBlcmNlbnRhZ2UgYnkgUHJveHlTY3JhcGU7IHdlIHJvdW5kIHRvIDJkcAogIC0gdGltZXNfYWxpdmUgLyB0aW1lc19kZWFkIGV4cG9zZSB0aGUgdW5kZXJseWluZyBjaGVjayBoaXN0b3J5CgpQdWJsaXNoZWQgY29sdW1ucyAoQ1NWIC8gSlNPTik6CiAgcHJvdG9jb2wsIGlwLCBwb3J0LCBjb3VudHJ5LCBjb3VudHJ5X2NvZGUsIGNpdHksIGFub255bWl0eSwgc3NsLAogIHVwdGltZV9wZXJjZW50LCBhc24sIGlzcCwgbGF0ZW5jeV9tcywgbGFzdF9jaGVja2VkCgpUWFQgZm9ybWF0OiBwcm90b2NvbDovL2lwOnBvcnQgIChvbmUgcGVyIGxpbmUpCgpFeGl0cyBub24temVybyBvbiBhbnkgSFRUUC9wYXJzZSBmYWlsdXJlIHNvIHRoZSB3b3JrZmxvdyBzdXJmYWNlcyBpdC4KIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBjc3YKaW1wb3J0IGlvCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgc3lzCmltcG9ydCBzaHV0aWwKaW1wb3J0IHRpbWUKaW1wb3J0IHVybGxpYi5lcnJvcgppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgSXRlcmFibGUKCiMgVGhlIEFQSSBjYXBzIGVhY2ggY2FsbCBhdCAyMDAwIHByb3hpZXMgcmVnYXJkbGVzcyBvZiB0aGUgcmVxdWVzdGVkIGxpbWl0LAojIHNvIHdlIHBhZ2luYXRlIHdpdGggc2tpcCB1bnRpbCBuZXh0cGFnZSBpcyBmYWxzZS4gUEFHRV9TSVpFIGlzIHRoZSBwZXItY2FsbAojIGNhcDsgTUFYX1BBR0VTIGlzIGEgc2FmZXR5IHN0b3AgdG8gYXZvaWQgcnVuYXdheSBsb29wcyBpZiB0aGUgQVBJCiMgbWlzcmVwb3J0cyBuZXh0cGFnZS4KUEFHRV9TSVpFID0gMjAwMApNQVhfUEFHRVMgPSAzMCAgIyAzMCAqIDIwMDAgPSA2MGsgaGVhZHJvb20gb3ZlciB0aGUgY3VycmVudCB+MjJrIHBvb2wKCkFQSV9CQVNFID0gKAogICAgImh0dHBzOi8vYXBpLnByb3h5c2NyYXBlLmNvbS92NC9mcmVlLXByb3h5LWxpc3QvZ2V0IgogICAgIj9yZXF1ZXN0PWdldF9wcm94aWVzJnByb3h5X2Zvcm1hdD1wcm90b2NvbGlwcG9ydCZmb3JtYXQ9anNvbiIKICAgIGYiJmxpbWl0PXtQQUdFX1NJWkV9IgopCgpSRVBPX1JPT1QgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpKQpQUk9YSUVTX1JPT1QgPSBvcy5wYXRoLmpvaW4oUkVQT19ST09ULCAicHJveGllcyIpCgojICdodHRwcycgaGVyZSBtZWFucyAiSFRUUCBwcm94aWVzIHdpdGggc3NsPXRydWUiIOKAlCB0aGUgc3Vic2V0IHRoYXQgY2FuCiMgdHVubmVsIEhUVFBTIHZpYSBDT05ORUNULiBNaXJyb3JlZCBhcyBhIHNlcGFyYXRlIHNoYXJkIHNvIGNvbnN1bWVycyBjYW4gcHVsbAojIEhUVFBTLWNhcGFibGUgcHJveGllcyB3aXRob3V0IHBhcnNpbmcgZmxhZ3MgdGhlbXNlbHZlcy4KUFJPVE9DT0xfU0hBUkRTID0gKCJodHRwIiwgImh0dHBzIiwgInNvY2tzNCIsICJzb2NrczUiKQoKQ1NWX0hFQURFUiA9IFsKICAgICJwcm90b2NvbCIsCiAgICAiaXAiLAogICAgInBvcnQiLAogICAgImNvdW50cnkiLAogICAgImNvdW50cnlfY29kZSIsCiAgICAiY2l0eSIsCiAgICAiYW5vbnltaXR5IiwKICAgICJzc2wiLAogICAgInVwdGltZV9wZXJjZW50IiwKICAgICJhc24iLAogICAgImlzcCIsCiAgICAibGF0ZW5jeV9tcyIsCiAgICAibGFzdF9jaGVja2VkIiwKXQoKClJFUVVFU1RfREVMQVlfUyA9IDEuNSAgIyBwb2xpdGUgZGVsYXkgYmV0d2VlbiBwYWdlcyB0byBhdm9pZCB1cHN0cmVhbSA1eHgKTUFYX1JFVFJJRVMgPSA0CgoKZGVmIGZldGNoX3BhZ2Uoc2tpcDogaW50KSAtPiBkaWN0W3N0ciwgQW55XToKICAgIHVybCA9IGYie0FQSV9CQVNFfSZza2lwPXtza2lwfSIKICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QoCiAgICAgICAgdXJsLAogICAgICAgIGhlYWRlcnM9ewogICAgICAgICAgICAiVXNlci1BZ2VudCI6ICJwcm94eXNjcmFwZS1mcmVlLXByb3h5LWxpc3QtbWlycm9yLzEuMCAoK2h0dHBzOi8vZ2l0aHViLmNvbS9wcm94eXNjcmFwZS9mcmVlLXByb3h5LWxpc3QpIgogICAgICAgIH0sCiAgICApCiAgICBsYXN0X2VycjogRXhjZXB0aW9uIHwgTm9uZSA9IE5vbmUKICAgIGZvciBhdHRlbXB0IGluIHJhbmdlKE1BWF9SRVRSSUVTKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9MTIwKSBhcyByZXNwOgogICAgICAgICAgICAgICAgaWYgcmVzcC5zdGF0dXMgIT0gMjAwOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoZiJBUEkgcmV0dXJuZWQgSFRUUCB7cmVzcC5zdGF0dXN9IChza2lwPXtza2lwfSkiKQogICAgICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMocmVzcC5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIpKQogICAgICAgIGV4Y2VwdCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yIGFzIGU6CiAgICAgICAgICAgICMgNXh4IC8gNDI5IOKAlCByZXRyeSB3aXRoIGV4cG9uZW50aWFsIGJhY2tvZmYuIDR4eCBvdGhlciB0aGFuIDQyOQogICAgICAgICAgICAjIGlzIGEgcmVhbCBjbGllbnQgZXJyb3IsIG5vIHBvaW50IHJldHJ5aW5nLgogICAgICAgICAgICBpZiBlLmNvZGUgaW4gKDQyOSwgNTAwLCA1MDIsIDUwMywgNTA0KToKICAgICAgICAgICAgICAgIGxhc3RfZXJyID0gZQogICAgICAgICAgICAgICAgYmFja29mZiA9IDIgKiogYXR0ZW1wdAogICAgICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICAgICAgICAgZiJbdXBkYXRlXSBza2lwPXtza2lwfSBnb3QgSFRUUCB7ZS5jb2RlfTsgcmV0cnkgaW4ge2JhY2tvZmZ9cyAiCiAgICAgICAgICAgICAgICAgICAgZiIoYXR0ZW1wdCB7YXR0ZW1wdCArIDF9L3tNQVhfUkVUUklFU30pIiwKICAgICAgICAgICAgICAgICAgICBmaWxlPXN5cy5zdGRlcnIsCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKGJhY2tvZmYpCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICByYWlzZQogICAgICAgIGV4Y2VwdCB1cmxsaWIuZXJyb3IuVVJMRXJyb3IgYXMgZToKICAgICAgICAgICAgbGFzdF9lcnIgPSBlCiAgICAgICAgICAgIGJhY2tvZmYgPSAyICoqIGF0dGVtcHQKICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICAgICBmIlt1cGRhdGVdIHNraXA9e3NraXB9IG5ldHdvcmsgZXJyb3I6IHtlfTsgcmV0cnkgaW4ge2JhY2tvZmZ9cyIsCiAgICAgICAgICAgICAgICBmaWxlPXN5cy5zdGRlcnIsCiAgICAgICAgICAgICkKICAgICAgICAgICAgdGltZS5zbGVlcChiYWNrb2ZmKQogICAgcmFpc2UgU3lzdGVtRXhpdChmIkFQSSBmYWlsZWQgYWZ0ZXIge01BWF9SRVRSSUVTfSByZXRyaWVzIChza2lwPXtza2lwfSk6IHtsYXN0X2Vycn0iKQoKCmRlZiBmZXRjaF9hbGwoKSAtPiBsaXN0W2RpY3Rbc3RyLCBBbnldXToKICAgICIiIlBhZ2UgdGhyb3VnaCB0aGUgQVBJIHVudGlsIG5leHRwYWdlIGlzIGZhbHNlIChvciBNQVhfUEFHRVMgc2FmZXR5KS4KCiAgICBUaGUgdXBzdHJlYW0gQVBJIGhhcyBhIGRlZXAtcGFnaW5hdGlvbiBpc3N1ZSB3aGVyZSByZXF1ZXN0cyBiZXlvbmQKICAgIHNraXAg4omIIDEwLDAwMCBjdXJyZW50bHkgcmV0dXJuIDUwMCBkdWUgdG8gYSBxdWVyeS1vcmRlcmluZyBidWcKICAgIChvcmRlckJ5IGFwcGxpZWQgYWZ0ZXIgc2tpcC9saW1pdCkuIElmIHdlIGhpdCB0aGF0IHdhbGwgcGFydHdheQogICAgdGhyb3VnaCwgd2Uga2VlcCB3aGF0ZXZlciB3YXMgZmV0Y2hlZCBmcm9tIHN1Y2Nlc3NmdWwgcGFnZXMgcmF0aGVyCiAgICB0aGFuIGFib3J0aW5nIHRoZSBlbnRpcmUgcnVuLiBBIHNuYXBzaG90IG9mIH4xMGsgcHJveGllcyBpcyBzdGlsbAogICAgdXNlZnVsIOKAlCBiZXR0ZXIgdGhhbiBmYWlsaW5nIHRoZSB3b3JrZmxvdyBhbmQgc2hpcHBpbmcgbm8gdXBkYXRlLgogICAgRmlyc3QtcGFnZSBmYWlsdXJlcyBhcmUgcmVhbCBvdXRhZ2VzIGFuZCByZS1yYWlzZS4KICAgICIiIgogICAgb3V0OiBsaXN0W2RpY3Rbc3RyLCBBbnldXSA9IFtdCiAgICBza2lwID0gMAogICAgZm9yIHBhZ2UgaW4gcmFuZ2UoTUFYX1BBR0VTKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBheWxvYWQgPSBmZXRjaF9wYWdlKHNraXApCiAgICAgICAgZXhjZXB0IFN5c3RlbUV4aXQgYXMgZXJyOgogICAgICAgICAgICBpZiBub3Qgb3V0OgogICAgICAgICAgICAgICAgcmFpc2UKICAgICAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICAgICBmIlt1cGRhdGVdIFBhZ2luYXRpb24gZW5kZWQgYXQgcGFnZSB7cGFnZSArIDF9IChza2lwPXtza2lwfSkg4oCUIHtlcnJ9LiAiCiAgICAgICAgICAgICAgICBmIktlZXBpbmcge2xlbihvdXQpfSBwcm94aWVzIGZldGNoZWQgc28gZmFyLiIsCiAgICAgICAgICAgICAgICBmaWxlPXN5cy5zdGRlcnIsCiAgICAgICAgICAgICkKICAgICAgICAgICAgYnJlYWsKICAgICAgICBwcm94aWVzID0gcGF5bG9hZC5nZXQoInByb3hpZXMiKQogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHByb3hpZXMsIGxpc3QpOgogICAgICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCJBUEkgcmVzcG9uc2UgbWlzc2luZyAncHJveGllcycgYXJyYXkiKQogICAgICAgIGlmIG5vdCBwcm94aWVzOgogICAgICAgICAgICBicmVhawogICAgICAgIG91dC5leHRlbmQocHJveGllcykKICAgICAgICBpZiBub3QgcGF5bG9hZC5nZXQoIm5leHRwYWdlIik6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgc2tpcCArPSBQQUdFX1NJWkUKICAgICAgICBwcmludCgKICAgICAgICAgICAgZiJbdXBkYXRlXSBQYWdlIHtwYWdlICsgMX06IHtsZW4ocHJveGllcyl9IChydW5uaW5nIHRvdGFsIHtsZW4ob3V0KX0pIiwKICAgICAgICAgICAgZmlsZT1zeXMuc3RkZXJyLAogICAgICAgICkKICAgICAgICB0aW1lLnNsZWVwKFJFUVVFU1RfREVMQVlfUykKICAgIHJldHVybiBvdXQKCgpkZWYgcm91bmRfdXB0aW1lKHVwdGltZTogQW55KSAtPiBmbG9hdCB8IE5vbmU6CiAgICB0cnk6CiAgICAgICAgdiA9IGZsb2F0KHVwdGltZSkKICAgIGV4Y2VwdCAoVHlwZUVycm9yLCBWYWx1ZUVycm9yKToKICAgICAgICByZXR1cm4gTm9uZQogICAgcmV0dXJuIHJvdW5kKHYsIDIpCgoKZGVmIGZsYXR0ZW4ocHJveHk6IGRpY3Rbc3RyLCBBbnldKSAtPiBkaWN0W3N0ciwgQW55XToKICAgICIiIlJlZHVjZSB1cHN0cmVhbSBzaGFwZSB0byB0aGUgZmxhdCByZWNvcmQgd2UgcHVibGlzaC4iIiIKICAgIGlwX2RhdGEgPSBwcm94eS5nZXQoImlwX2RhdGEiKSBvciB7fQogICAgIyBgaXBfZGF0YS5hc2AgaXMgYSBzdHJpbmcgbGlrZSAiQVMxMzEyOTMgVE9UIFB1YmxpYyBDb21wYW55IExpbWl0ZWQiLgogICAgIyBXZSBzcGxpdCBpdCBpbnRvIEFTTiArIEFTTiBvcmcgdG8gbWF0Y2ggdGhlIGNvbnZlbnRpb25zIHVzZWQgYnkKICAgICMgR2VvTm9kZSBhbmQgUHJveHlEQi4KICAgIGFzX2ZpZWxkID0gaXBfZGF0YS5nZXQoImFzIikgb3IgIiIKICAgIGFzbiA9ICIiCiAgICBpZiBhc19maWVsZC5zdGFydHN3aXRoKCJBUyIpOgogICAgICAgIGFzbiA9IGFzX2ZpZWxkLnNwbGl0KCIgIiwgMSlbMF0gICMgIkFTMTMxMjkzIgogICAgcmV0dXJuIHsKICAgICAgICAicHJvdG9jb2wiOiAocHJveHkuZ2V0KCJwcm90b2NvbCIpIG9yICIiKS5sb3dlcigpLAogICAgICAgICJpcCI6IHByb3h5LmdldCgiaXAiKSBvciAiIiwKICAgICAgICAicG9ydCI6IHByb3h5LmdldCgicG9ydCIpLAogICAgICAgICJjb3VudHJ5IjogaXBfZGF0YS5nZXQoImNvdW50cnkiKSBvciAiIiwKICAgICAgICAiY291bnRyeV9jb2RlIjogKGlwX2RhdGEuZ2V0KCJjb3VudHJ5Q29kZSIpIG9yICIiKS51cHBlcigpLAogICAgICAgICJjaXR5IjogaXBfZGF0YS5nZXQoImNpdHkiKSBvciAiIiwKICAgICAgICAiYW5vbnltaXR5IjogKHByb3h5LmdldCgiYW5vbnltaXR5Iikgb3IgIiIpLmxvd2VyKCksCiAgICAgICAgInNzbCI6IGJvb2wocHJveHkuZ2V0KCJzc2wiKSksCiAgICAgICAgInVwdGltZV9wZXJjZW50Ijogcm91bmRfdXB0aW1lKHByb3h5LmdldCgidXB0aW1lIikpLAogICAgICAgICJhc24iOiBhc24sCiAgICAgICAgImlzcCI6IGlwX2RhdGEuZ2V0KCJpc3AiKSBvciAiIiwKICAgICAgICAibGF0ZW5jeV9tcyI6ICgKICAgICAgICAgICAgcm91bmQoZmxvYXQocHJveHlbInRpbWVvdXQiXSksIDIpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UocHJveHkuZ2V0KCJ0aW1lb3V0IiksIChpbnQsIGZsb2F0KSkKICAgICAgICAgICAgZWxzZSBOb25lCiAgICAgICAgKSwKICAgICAgICAibGFzdF9jaGVja2VkIjogcHJveHkuZ2V0KCJsYXN0X3NlZW4iKSwKICAgIH0KCgpkZWYgcmVuZGVyX3R4dChyb3dzOiBJdGVyYWJsZVtkaWN0W3N0ciwgQW55XV0pIC0+IHN0cjoKICAgIGxpbmVzID0gW10KICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgaWYgbm90IHJbImlwIl0gb3Igbm90IHJbInBvcnQiXSBvciBub3QgclsicHJvdG9jb2wiXToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBsaW5lcy5hcHBlbmQoZiJ7clsncHJvdG9jb2wnXX06Ly97clsnaXAnXX06e3JbJ3BvcnQnXX0iKQogICAgcmV0dXJuICJcbiIuam9pbihsaW5lcykgKyAoIlxuIiBpZiBsaW5lcyBlbHNlICIiKQoKCmRlZiByZW5kZXJfanNvbihyb3dzOiBsaXN0W2RpY3Rbc3RyLCBBbnldXSkgLT4gc3RyOgogICAgcmV0dXJuIGpzb24uZHVtcHMocm93cywgaW5kZW50PTIsIGVuc3VyZV9hc2NpaT1GYWxzZSkgKyAiXG4iCgoKZGVmIHJlbmRlcl9jc3Yocm93czogSXRlcmFibGVbZGljdFtzdHIsIEFueV1dKSAtPiBzdHI6CiAgICBidWYgPSBpby5TdHJpbmdJTygpCiAgICB3cml0ZXIgPSBjc3YuRGljdFdyaXRlcihidWYsIGZpZWxkbmFtZXM9Q1NWX0hFQURFUiwgZXh0cmFzYWN0aW9uPSJpZ25vcmUiKQogICAgd3JpdGVyLndyaXRlaGVhZGVyKCkKICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgIyBjc3YgbW9kdWxlIHJlbmRlcnMgTm9uZSBhcyBlbXB0eSBzdHJpbmc7IGNvbnZlcnQgYm9vbCB0byBsb3dlcmNhc2UKICAgICAgICAjIGZvciBjcm9zcy1sYW5ndWFnZSBmcmllbmRsaW5lc3MuCiAgICAgICAgb3V0ID0gZGljdChyKQogICAgICAgIG91dFsic3NsIl0gPSAidHJ1ZSIgaWYgclsic3NsIl0gZWxzZSAiZmFsc2UiCiAgICAgICAgd3JpdGVyLndyaXRlcm93KG91dCkKICAgIHJldHVybiBidWYuZ2V0dmFsdWUoKQoKCmRlZiB3cml0ZV9zaGFyZChkaXJwYXRoOiBzdHIsIHJvd3M6IGxpc3RbZGljdFtzdHIsIEFueV1dKSAtPiBOb25lOgogICAgb3MubWFrZWRpcnMoZGlycGF0aCwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oZGlycGF0aCwgImRhdGEudHh0IiksICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBmLndyaXRlKHJlbmRlcl90eHQocm93cykpCiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKGRpcnBhdGgsICJkYXRhLmpzb24iKSwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGYud3JpdGUocmVuZGVyX2pzb24ocm93cykpCiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKGRpcnBhdGgsICJkYXRhLmNzdiIpLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgZi53cml0ZShyZW5kZXJfY3N2KHJvd3MpKQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIHByaW50KGYiW3VwZGF0ZV0gRmV0Y2hpbmcgZnJvbSB7QVBJX0JBU0V9IiwgZmlsZT1zeXMuc3RkZXJyKQogICAgcmF3ID0gZmV0Y2hfYWxsKCkKICAgIHJvd3MgPSBbZmxhdHRlbihwKSBmb3IgcCBpbiByYXddCiAgICByb3dzID0gW3IgZm9yIHIgaW4gcm93cyBpZiByWyJpcCJdIGFuZCByWyJwb3J0Il0gYW5kIHJbInByb3RvY29sIl1dCgogICAgIyBEZWR1cGUgb24gKHByb3RvY29sLCBpcCwgcG9ydCkuIFVwc3RyZWFtIHBhZ2luYXRpb24gY3VycmVudGx5IGlzbid0CiAgICAjIHN0YWJsZSAob3JkZXJCeSBpcyBhcHBsaWVkIGFmdGVyIHNraXAvbGltaXQgc2VydmVyLXNpZGUpLCBzbyB0aGUgc2FtZQogICAgIyBwcm94eSBjYW4gYXBwZWFyIG9uIG11bHRpcGxlIHBhZ2VzLiBLZWVwaW5nIHRoZSBmaXJzdCBvY2N1cnJlbmNlIGlzCiAgICAjIGZpbmUg4oCUIGFsbCBkdXBsaWNhdGVzIGNhcnJ5IGlkZW50aWNhbCBpZGVudGlmeWluZyBmaWVsZHMuCiAgICBzZWVuOiBzZXRbdHVwbGVbc3RyLCBzdHIsIEFueV1dID0gc2V0KCkKICAgIGRlZHVwZWQ6IGxpc3RbZGljdFtzdHIsIEFueV1dID0gW10KICAgIGZvciByIGluIHJvd3M6CiAgICAgICAga2V5ID0gKHJbInByb3RvY29sIl0sIHJbImlwIl0sIHJbInBvcnQiXSkKICAgICAgICBpZiBrZXkgaW4gc2VlbjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzZWVuLmFkZChrZXkpCiAgICAgICAgZGVkdXBlZC5hcHBlbmQocikKICAgIGlmIGxlbihkZWR1cGVkKSAhPSBsZW4ocm93cyk6CiAgICAgICAgcHJpbnQoCiAgICAgICAgICAgIGYiW3VwZGF0ZV0gRGVkdXBlZCB7bGVuKHJvd3MpIC0gbGVuKGRlZHVwZWQpfSBkdXBsaWNhdGUgcHJveGllcyIsCiAgICAgICAgICAgIGZpbGU9c3lzLnN0ZGVyciwKICAgICAgICApCiAgICByb3dzID0gZGVkdXBlZAogICAgcHJpbnQoZiJbdXBkYXRlXSBGaW5hbCB1bmlxdWUgcHJveHkgY291bnQ6IHtsZW4ocm93cyl9IiwgZmlsZT1zeXMuc3RkZXJyKQoKICAgICMgQWxsCiAgICB3cml0ZV9zaGFyZChvcy5wYXRoLmpvaW4oUFJPWElFU19ST09ULCAiYWxsIiksIHJvd3MpCgogICAgIyBQZXIgcHJvdG9jb2wg4oCUICdodHRwcycgaXMgdGhlIEhUVFAtd2l0aC1zc2wgc3Vic2V0LCBub3QgYSBzZXBhcmF0ZQogICAgIyB1cHN0cmVhbSBwcm90b2NvbCB2YWx1ZS4KICAgIGJ5X3Byb3RvOiBkaWN0W3N0ciwgbGlzdFtkaWN0W3N0ciwgQW55XV1dID0gZGVmYXVsdGRpY3QobGlzdCkKICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgYnlfcHJvdG9bclsicHJvdG9jb2wiXV0uYXBwZW5kKHIpCiAgICAgICAgaWYgclsicHJvdG9jb2wiXSA9PSAiaHR0cCIgYW5kIHJbInNzbCJdOgogICAgICAgICAgICBieV9wcm90b1siaHR0cHMiXS5hcHBlbmQocikKICAgIGZvciBwcm90byBpbiBQUk9UT0NPTF9TSEFSRFM6CiAgICAgICAgd3JpdGVfc2hhcmQoCiAgICAgICAgICAgIG9zLnBhdGguam9pbihQUk9YSUVTX1JPT1QsICJwcm90b2NvbHMiLCBwcm90byksCiAgICAgICAgICAgIGJ5X3Byb3RvLmdldChwcm90bywgW10pLAogICAgICAgICkKCiAgICAjIFdpcGUgYW55IHN0YWxlIGNvdW50cnkgc2hhcmRzIGZyb20gcHJldmlvdXMgcnVucyBiZWZvcmUgcmVidWlsZGluZyDigJQKICAgICMgdGhlIGxvb3AgYmVsb3cgb25seSB3cml0ZXMgc2hhcmRzIHRoYXQgaGF2ZSBkYXRhIHRoaXMgcnVuLCBzbyBhbnl0aGluZwogICAgIyBsZWZ0IGJlaGluZCBmcm9tIGEgcHJldmlvdXMgcnVuIHdvdWxkIHNpbGVudGx5IHNlcnZlIGRlYWQgcHJveGllcy4KICAgIGNvdW50cmllc19yb290ID0gb3MucGF0aC5qb2luKFBST1hJRVNfUk9PVCwgImNvdW50cmllcyIpCiAgICBpZiBvcy5wYXRoLmlzZGlyKGNvdW50cmllc19yb290KToKICAgICAgICBzaHV0aWwucm10cmVlKGNvdW50cmllc19yb290KQoKICAgICMgUGVyIGNvdW50cnksIHdpdGggcGVyLXByb3RvY29sIGJyZWFrZG93biBuZXN0ZWQgaW5zaWRlIGVhY2ggY291bnRyeSBkaXIuCiAgICAjIFByb3RvY29sIHN1YnNoYXJkcyBhcmUgb25seSBlbWl0dGVkIHdoZW4gbm9uLWVtcHR5IOKAlCBhIDQwNCBvbgogICAgIyBjb3VudHJpZXMvenovc29ja3M1L2RhdGEudHh0IGlzIHRoZSBjYW5vbmljYWwgIm5vIFNPQ0tTNSBpbiBaWiIgc2lnbmFsLAogICAgIyBhbmQgYXZvaWRzIGNsdXR0ZXJpbmcgdGhlIHRyZWUgd2l0aCBlbXB0eSBmaWxlcyBpbiBsb3ctdm9sdW1lIGNvdW50cmllcy4KICAgIGJ5X2NvdW50cnk6IGRpY3Rbc3RyLCBsaXN0W2RpY3Rbc3RyLCBBbnldXV0gPSBkZWZhdWx0ZGljdChsaXN0KQogICAgZm9yIHIgaW4gcm93czoKICAgICAgICBjYyA9IHJbImNvdW50cnlfY29kZSJdCiAgICAgICAgaWYgbm90IGNjIG9yIGxlbihjYykgIT0gMjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBieV9jb3VudHJ5W2NjXS5hcHBlbmQocikKCiAgICBjb3VudHJ5X3Byb3RvY29sX3N1YnNoYXJkcyA9IDAKICAgIGZvciBjYywgY291bnRyeV9yb3dzIGluIGJ5X2NvdW50cnkuaXRlbXMoKToKICAgICAgICBjb3VudHJ5X2RpciA9IG9zLnBhdGguam9pbihQUk9YSUVTX1JPT1QsICJjb3VudHJpZXMiLCBjYy5sb3dlcigpKQogICAgICAgIHdyaXRlX3NoYXJkKGNvdW50cnlfZGlyLCBjb3VudHJ5X3Jvd3MpCgogICAgICAgIGNvdW50cnlfYnlfcHJvdG86IGRpY3Rbc3RyLCBsaXN0W2RpY3Rbc3RyLCBBbnldXV0gPSBkZWZhdWx0ZGljdChsaXN0KQogICAgICAgIGZvciByIGluIGNvdW50cnlfcm93czoKICAgICAgICAgICAgY291bnRyeV9ieV9wcm90b1tyWyJwcm90b2NvbCJdXS5hcHBlbmQocikKICAgICAgICAgICAgaWYgclsicHJvdG9jb2wiXSA9PSAiaHR0cCIgYW5kIHJbInNzbCJdOgogICAgICAgICAgICAgICAgY291bnRyeV9ieV9wcm90b1siaHR0cHMiXS5hcHBlbmQocikKICAgICAgICBmb3IgcHJvdG8gaW4gUFJPVE9DT0xfU0hBUkRTOgogICAgICAgICAgICBwcm90b19yb3dzID0gY291bnRyeV9ieV9wcm90by5nZXQocHJvdG8sIFtdKQogICAgICAgICAgICBpZiBub3QgcHJvdG9fcm93czoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHdyaXRlX3NoYXJkKG9zLnBhdGguam9pbihjb3VudHJ5X2RpciwgcHJvdG8pLCBwcm90b19yb3dzKQogICAgICAgICAgICBjb3VudHJ5X3Byb3RvY29sX3N1YnNoYXJkcyArPSAxCgogICAgIyBTdGF0cyBzdW1tYXJ5IGNvbW1pdHRlZCBhbG9uZ3NpZGUgdGhlIGRhdGEgc28gUkVBRE1FIGJhZGdlcyBhbmQKICAgICMgZG93bnN0cmVhbSBjb25zdW1lcnMgY2FuIHJlYWQgY291bnRzIHdpdGhvdXQgcGFyc2luZyBkYXRhLmpzb24uCiAgICBzdGF0cyA9IHsKICAgICAgICAidG90YWwiOiBsZW4ocm93cyksCiAgICAgICAgImJ5X3Byb3RvY29sIjoge3A6IGxlbihieV9wcm90by5nZXQocCwgW10pKSBmb3IgcCBpbiBQUk9UT0NPTF9TSEFSRFN9LAogICAgICAgICJjb3VudHJpZXMiOiBzb3J0ZWQoYnlfY291bnRyeS5rZXlzKCkpLAogICAgICAgICJjb3VudHJ5X2NvdW50IjogbGVuKGJ5X2NvdW50cnkpLAogICAgICAgICJjb3VudHJ5X3Byb3RvY29sX3NoYXJkcyI6IGNvdW50cnlfcHJvdG9jb2xfc3Vic2hhcmRzLAogICAgICAgICJieV9jb3VudHJ5Ijoge2NjOiBsZW4oYnlfY291bnRyeVtjY10pIGZvciBjYyBpbiBzb3J0ZWQoYnlfY291bnRyeS5rZXlzKCkpfSwKICAgIH0KICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oUFJPWElFU19ST09ULCAic3RhdHMuanNvbiIpLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgZi53cml0ZShqc29uLmR1bXBzKHN0YXRzLCBpbmRlbnQ9MikgKyAiXG4iKQoKICAgICMgU2lkZS1lZmZlY3RzOiByZWZyZXNoIHNoaWVsZHMuaW8gZW5kcG9pbnQgYmFkZ2VzIGFuZCBSRUFETUUgc3RhdHMKICAgICMgYmxvY2suIEJvdGggYXJlIGRlcml2ZWQgZnJvbSB0aGUgc2FtZSBzdGF0cyBkaWN0LgogICAgd3JpdGVfYmFkZ2VzKHN0YXRzKQogICAgdXBkYXRlX3JlYWRtZV9zdGF0cygKICAgICAgICBzdGF0cywKICAgICAgICBnZW5lcmF0ZWRfYXRfdXRjPXRpbWUuc3RyZnRpbWUoIiVZLSVtLSVkICVIOiVNOiVTIFVUQyIsIHRpbWUuZ210aW1lKCkpLAogICAgKQogICAgdXBkYXRlX3JlYWRtZV9kb3dubG9hZHMoc3RhdHMpCgogICAgcHJpbnQoCiAgICAgICAgZiJbdXBkYXRlXSBXcm90ZSBzaGFyZHM6IDEgYWxsLCB7bGVuKFBST1RPQ09MX1NIQVJEUyl9IHByb3RvY29scywgIgogICAgICAgIGYie2xlbihieV9jb3VudHJ5KX0gY291bnRyaWVzLCB7Y291bnRyeV9wcm90b2NvbF9zdWJzaGFyZHN9IGNvdW50cnktcHJvdG9jb2wgc3Vic2hhcmRzLiIsCiAgICAgICAgZmlsZT1zeXMuc3RkZXJyLAogICAgKQoKCgojIC0tLS0gTGl2ZSBzdGF0czogc2hpZWxkcy5pbyBiYWRnZSBKU09OICsgUkVBRE1FIG1hcmtlciBpbmplY3Rpb24gLS0tLS0tLS0tLQoKQkFER0VfQ09MT1JTID0gewogICAgImJsdWUiOiAiYmx1ZSIsCiAgICAiZ3JlZW4iOiAiYnJpZ2h0Z3JlZW4iLAogICAgIm9yYW5nZSI6ICJvcmFuZ2UiLAogICAgImdyZXkiOiAibGlnaHRncmV5IiwKfQoKCmRlZiBfZm10X2NvdW50KG46IGludCkgLT4gc3RyOgogICAgcmV0dXJuIGYie246LH0iCgoKZGVmIHdyaXRlX2JhZGdlcyhzdGF0czogZGljdCkgLT4gTm9uZToKICAgICIiIkVtaXQgc2hpZWxkcy5pbyBlbmRwb2ludC1mb3JtYXQgSlNPTiBmb3IgZXZlcnkgcGVyLXJ1biBtZXRyaWMuCgogICAgRWFjaCBmaWxlIG1hdGNoZXMgdGhlIHNoYXBlIGh0dHBzOi8vc2hpZWxkcy5pby9lbmRwb2ludCBleHBlY3RzLCBzbyB0aGUKICAgIFJFQURNRSBjYW4gcmVuZGVyIHRoZW0gdmlhOgogICAgICAgICFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2VuZHBvaW50P3VybD08anNkZWxpdnI+L2JhZGdlcy90b3RhbC5qc29uKQogICAgIiIiCiAgICBiYWRnZXNfZGlyID0gb3MucGF0aC5qb2luKFBST1hJRVNfUk9PVCwgImJhZGdlcyIpCiAgICBpZiBvcy5wYXRoLmlzZGlyKGJhZGdlc19kaXIpOgogICAgICAgIHNodXRpbC5ybXRyZWUoYmFkZ2VzX2RpcikKICAgIG9zLm1ha2VkaXJzKGJhZGdlc19kaXIsIGV4aXN0X29rPVRydWUpCgogICAgIyAidXBkYXRlZCIgdXNlcyB0aGUgbW9tZW50IHRoaXMgcnVuIGNvbW1pdHRlZCDigJQgc3RhYmxlLCBkZXRlcm1pbmlzdGljLAogICAgIyBhbmQgYXZvaWRzIHRoZSBzaGllbGRzLmlvLW1hbmFnZWQgR2l0SHViIHRva2VuIHBvb2wgdGhhdCB0aGUKICAgICMgaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2xhc3QtY29tbWl0IGVuZHBvaW50IGRlcGVuZHMgb24gKGFuZCB3aGljaAogICAgIyBwZXJpb2RpY2FsbHkgcmV0dXJucyAiVW5hYmxlIHRvIHNlbGVjdCBuZXh0IEdpdEh1YiB0b2tlbiBmcm9tIHBvb2wiCiAgICAjIHdoZW4gaXRzIHNoYXJlZCBwb29sIGlzIHRocm90dGxlZCkuCiAgICB1cGRhdGVkX2xhYmVsID0gdGltZS5zdHJmdGltZSgiJUg6JU0gVVRDIiwgdGltZS5nbXRpbWUoKSkKICAgIGJhZGdlX3NwZWNzID0gWwogICAgICAgICgidG90YWwiLCAicHJveGllcyIsIF9mbXRfY291bnQoc3RhdHNbInRvdGFsIl0pLCAiYmx1ZSIpLAogICAgICAgICgiY291bnRyaWVzIiwgImNvdW50cmllcyIsIHN0cihzdGF0c1siY291bnRyeV9jb3VudCJdKSwgImdyZWVuIiksCiAgICAgICAgKCJ1cGRhdGVkIiwgImxhc3QgdXBkYXRlIiwgdXBkYXRlZF9sYWJlbCwgImdyZWVuIiksCiAgICAgICAgKCJodHRwIiwgImh0dHAiLCBfZm10X2NvdW50KHN0YXRzWyJieV9wcm90b2NvbCJdWyJodHRwIl0pLCAiYmx1ZSIpLAogICAgICAgICgiaHR0cHMiLCAiaHR0cHMiLCBfZm10X2NvdW50KHN0YXRzWyJieV9wcm90b2NvbCJdWyJodHRwcyJdKSwgImJsdWUiKSwKICAgICAgICAoInNvY2tzNCIsICJzb2NrczQiLCBfZm10X2NvdW50KHN0YXRzWyJieV9wcm90b2NvbCJdWyJzb2NrczQiXSksICJibHVlIiksCiAgICAgICAgKCJzb2NrczUiLCAic29ja3M1IiwgX2ZtdF9jb3VudChzdGF0c1siYnlfcHJvdG9jb2wiXVsic29ja3M1Il0pLCAiYmx1ZSIpLAogICAgXQogICAgZm9yIG5hbWUsIGxhYmVsLCBtZXNzYWdlLCBjb2xvciBpbiBiYWRnZV9zcGVjczoKICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKGJhZGdlc19kaXIsIGYie25hbWV9Lmpzb24iKSwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBiZjoKICAgICAgICAgICAganNvbi5kdW1wKAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJzY2hlbWFWZXJzaW9uIjogMSwKICAgICAgICAgICAgICAgICAgICAibGFiZWwiOiBsYWJlbCwKICAgICAgICAgICAgICAgICAgICAibWVzc2FnZSI6IG1lc3NhZ2UsCiAgICAgICAgICAgICAgICAgICAgImNvbG9yIjogQkFER0VfQ09MT1JTLmdldChjb2xvciwgY29sb3IpLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGJmLAogICAgICAgICAgICApCiAgICAgICAgICAgIGJmLndyaXRlKCJcbiIpCgoKIyBNYXJrZXJzIGluIFJFQURNRS5tZCB0aGF0IHdyYXAgdGhlIGxpdmUgc3RhdHMgdGFibGUuIElmIHRoZXNlIGFyZSBhYnNlbnQKIyB0aGUgUkVBRE1FIGlzIGxlZnQgdW50b3VjaGVkIOKAlCB0aGF0IHdheSBhIGZvcmsgdGhhdCByZW1vdmVzIHRoZSBtYXJrZXJzCiMgc3RpbGwgcnVucyB0aGUgc2NyaXB0IGNsZWFubHkuClJFQURNRV9TVEFUU19TVEFSVCA9ICI8IS0tIFNUQVRTOlNUQVJUIC0tPiIKUkVBRE1FX1NUQVRTX0VORCA9ICI8IS0tIFNUQVRTOkVORCAtLT4iCgoKZGVmIHVwZGF0ZV9yZWFkbWVfc3RhdHMoc3RhdHM6IGRpY3QsIGdlbmVyYXRlZF9hdF91dGM6IHN0cikgLT4gTm9uZToKICAgIGltcG9ydCByZSBhcyBfcmUKCiAgICByZWFkbWVfcGF0aCA9IG9zLnBhdGguam9pbihSRVBPX1JPT1QsICJSRUFETUUubWQiKQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbihyZWFkbWVfcGF0aCwgInIiLCBlbmNvZGluZz0idXRmLTgiKSBhcyByZjoKICAgICAgICAgICAgY29udGVudCA9IHJmLnJlYWQoKQogICAgZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yOgogICAgICAgIHJldHVybgoKICAgIGlmIFJFQURNRV9TVEFUU19TVEFSVCBub3QgaW4gY29udGVudCBvciBSRUFETUVfU1RBVFNfRU5EIG5vdCBpbiBjb250ZW50OgogICAgICAgIHJldHVybgoKICAgIGJ5ID0gc3RhdHNbImJ5X3Byb3RvY29sIl0KICAgIGJsb2NrID0gKAogICAgICAgIGYie1JFQURNRV9TVEFUU19TVEFSVH1cbiIKICAgICAgICBmIjwhLS0gQXV0by1nZW5lcmF0ZWQgYnkgc2NyaXB0cy91cGRhdGUucHkg4oCUIGRvIG5vdCBlZGl0IGJ5IGhhbmQuIC0tPlxuIgogICAgICAgIGYiXG4iCiAgICAgICAgZiIqKkxhc3QgdXBkYXRlOioqIGB7Z2VuZXJhdGVkX2F0X3V0Y31gXG4iCiAgICAgICAgZiJcbiIKICAgICAgICBmInwgVG90YWwgfCBIVFRQIHwgSFRUUFMgfCBTT0NLUzQgfCBTT0NLUzUgfCBDb3VudHJpZXMgfCBDb3VudHJ5JnRpbWVzO1Byb3RvY29sIHNoYXJkcyB8XG4iCiAgICAgICAgZiJ8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfFxuIgogICAgICAgIGYifCAqKntfZm10X2NvdW50KHN0YXRzWyd0b3RhbCddKX0qKiAiCiAgICAgICAgZiJ8IHtfZm10X2NvdW50KGJ5WydodHRwJ10pfSAiCiAgICAgICAgZiJ8IHtfZm10X2NvdW50KGJ5WydodHRwcyddKX0gIgogICAgICAgIGYifCB7X2ZtdF9jb3VudChieVsnc29ja3M0J10pfSAiCiAgICAgICAgZiJ8IHtfZm10X2NvdW50KGJ5Wydzb2NrczUnXSl9ICIKICAgICAgICBmInwge3N0YXRzWydjb3VudHJ5X2NvdW50J119ICIKICAgICAgICBmInwge3N0YXRzWydjb3VudHJ5X3Byb3RvY29sX3NoYXJkcyddfSB8XG4iCiAgICAgICAgZiJ7UkVBRE1FX1NUQVRTX0VORH0iCiAgICApCgogICAgcGF0dGVybiA9IF9yZS5jb21waWxlKAogICAgICAgIF9yZS5lc2NhcGUoUkVBRE1FX1NUQVRTX1NUQVJUKSArIHIiLio/IiArIF9yZS5lc2NhcGUoUkVBRE1FX1NUQVRTX0VORCksCiAgICAgICAgX3JlLkRPVEFMTCwKICAgICkKICAgIG5ld19jb250ZW50ID0gcGF0dGVybi5zdWIoYmxvY2ssIGNvbnRlbnQsIGNvdW50PTEpCiAgICBpZiBuZXdfY29udGVudCAhPSBjb250ZW50OgogICAgICAgIHdpdGggb3BlbihyZWFkbWVfcGF0aCwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyByZjoKICAgICAgICAgICAgcmYud3JpdGUobmV3X2NvbnRlbnQpCgoKIyBNYXJrZXJzIHdyYXBwaW5nIHRoZSBjbGlja2FibGUgZG93bmxvYWQgdGFibGUuIFNhbWUgb3B0LWluIGNvbnRyYWN0IGFzIHRoZQojIHN0YXRzIGJsb2NrOiBhYnNlbnQgbWFya2VycyBsZWF2ZSB0aGUgUkVBRE1FIHVudG91Y2hlZC4KUkVBRE1FX0RPV05MT0FEU19TVEFSVCA9ICI8IS0tIERPV05MT0FEUzpTVEFSVCAtLT4iClJFQURNRV9ET1dOTE9BRFNfRU5EID0gIjwhLS0gRE9XTkxPQURTOkVORCAtLT4iCl9DRE5fQkFTRSA9ICJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvcHJveHlzY3JhcGUvZnJlZS1wcm94eS1saXN0QG1haW4vcHJveGllcyIKX0NPVU5UUklFU19UUkVFID0gImh0dHBzOi8vZ2l0aHViLmNvbS9wcm94eXNjcmFwZS9mcmVlLXByb3h5LWxpc3QvdHJlZS9tYWluL3Byb3hpZXMvY291bnRyaWVzIgoKCmRlZiBfZGxfcm93KGxhYmVsOiBzdHIsIGNvdW50OiBpbnQsIHBhdGg6IHN0cikgLT4gc3RyOgogICAgYmFzZSA9IGYie19DRE5fQkFTRX0ve3BhdGh9IgogICAgcmV0dXJuICgKICAgICAgICBmInwge2xhYmVsfSB8IHtfZm10X2NvdW50KGNvdW50KX0gIgogICAgICAgIGYifCBbSlNPTl0oe2Jhc2V9L2RhdGEuanNvbikgIgogICAgICAgIGYifCBbVFhUXSh7YmFzZX0vZGF0YS50eHQpICIKICAgICAgICBmInwgW0NTVl0oe2Jhc2V9L2RhdGEuY3N2KSB8IgogICAgKQoKCmRlZiB1cGRhdGVfcmVhZG1lX2Rvd25sb2FkcyhzdGF0czogZGljdCkgLT4gTm9uZToKICAgIGltcG9ydCByZSBhcyBfcmUKCiAgICByZWFkbWVfcGF0aCA9IG9zLnBhdGguam9pbihSRVBPX1JPT1QsICJSRUFETUUubWQiKQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbihyZWFkbWVfcGF0aCwgInIiLCBlbmNvZGluZz0idXRmLTgiKSBhcyByZjoKICAgICAgICAgICAgY29udGVudCA9IHJmLnJlYWQoKQogICAgZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yOgogICAgICAgIHJldHVybgoKICAgIGlmIFJFQURNRV9ET1dOTE9BRFNfU1RBUlQgbm90IGluIGNvbnRlbnQgb3IgUkVBRE1FX0RPV05MT0FEU19FTkQgbm90IGluIGNvbnRlbnQ6CiAgICAgICAgcmV0dXJuCgogICAgYnkgPSBzdGF0c1siYnlfcHJvdG9jb2wiXQogICAgcm93cyA9IFsKICAgICAgICBfZGxfcm93KCIqKkFsbCBwcm94aWVzKioiLCBzdGF0c1sidG90YWwiXSwgImFsbCIpLAogICAgICAgIF9kbF9yb3coIkhUVFAiLCBieVsiaHR0cCJdLCAicHJvdG9jb2xzL2h0dHAiKSwKICAgICAgICBfZGxfcm93KCJIVFRQUyIsIGJ5WyJodHRwcyJdLCAicHJvdG9jb2xzL2h0dHBzIiksCiAgICAgICAgX2RsX3JvdygiU09DS1M0IiwgYnlbInNvY2tzNCJdLCAicHJvdG9jb2xzL3NvY2tzNCIpLAogICAgICAgIF9kbF9yb3coIlNPQ0tTNSIsIGJ5WyJzb2NrczUiXSwgInByb3RvY29scy9zb2NrczUiKSwKICAgIF0KICAgIHVzX2NvdW50ID0gc3RhdHMuZ2V0KCJieV9jb3VudHJ5Iiwge30pLmdldCgiVVMiKQogICAgaWYgdXNfY291bnQ6CiAgICAgICAgcm93cy5hcHBlbmQoX2RsX3JvdygiVW5pdGVkIFN0YXRlcyIsIHVzX2NvdW50LCAiY291bnRyaWVzL3VzIikpCgogICAgYmxvY2sgPSAoCiAgICAgICAgZiJ7UkVBRE1FX0RPV05MT0FEU19TVEFSVH1cbiIKICAgICAgICBmIjwhLS0gQXV0by1nZW5lcmF0ZWQgYnkgc2NyaXB0cy91cGRhdGUucHkg4oCUIGRvIG5vdCBlZGl0IGJ5IGhhbmQuIC0tPlxuIgogICAgICAgIGYiXG4iCiAgICAgICAgZiJ8IFR5cGUgfCBDb3VudCB8IEpTT04gfCBUWFQgfCBDU1YgfFxuIgogICAgICAgIGYifC0tLXwtLS18LS0tfC0tLXwtLS18XG4iCiAgICAgICAgKyAiXG4iLmpvaW4ocm93cykgKyAiXG4iCiAgICAgICAgZiJcbiIKICAgICAgICBmIltCcm93c2UgYWxsIHtzdGF0c1snY291bnRyeV9jb3VudCddfSBjb3VudHJpZXMgJnJhcnI7XSh7X0NPVU5UUklFU19UUkVFfSlcbiIKICAgICAgICBmIntSRUFETUVfRE9XTkxPQURTX0VORH0iCiAgICApCgogICAgcGF0dGVybiA9IF9yZS5jb21waWxlKAogICAgICAgIF9yZS5lc2NhcGUoUkVBRE1FX0RPV05MT0FEU19TVEFSVCkgKyByIi4qPyIgKyBfcmUuZXNjYXBlKFJFQURNRV9ET1dOTE9BRFNfRU5EKSwKICAgICAgICBfcmUuRE9UQUxMLAogICAgKQogICAgbmV3X2NvbnRlbnQgPSBwYXR0ZXJuLnN1YihibG9jaywgY29udGVudCwgY291bnQ9MSkKICAgIGlmIG5ld19jb250ZW50ICE9IGNvbnRlbnQ6CiAgICAgICAgd2l0aCBvcGVuKHJlYWRtZV9wYXRoLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIHJmOgogICAgICAgICAgICByZi53cml0ZShuZXdfY29udGVudCkKCgojIC0tLS0gZW5kIGxpdmUgc3RhdHMgaGVscGVycyAtLS0tCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""
+Refresh the free-proxy-list mirror from the ProxyScrape v4 public API.
+
+Writes:
+  proxies/all/data.{txt,json,csv}
+  proxies/protocols/{http,https,socks4,socks5}/data.{txt,json,csv}
+  proxies/countries/{ISO}/data.{txt,json,csv}                 (ISO-3166 alpha-2, lowercased)
+  proxies/countries/{ISO}/{protocol}/data.{txt,json,csv}      (only when non-empty)
+  proxies/stats.json
+
+The "all" shard is fetched in one call (with a generous limit). Protocol and
+country shards are derived from that response by filtering — keeping one API
+call per run and guaranteeing the shards stay internally consistent (no
+inter-shard skew from upstream churn between calls).
+
+Schema notes (upstream):
+  - protocol ∈ {http, socks4, socks5}  (HTTPS is a CAPABILITY flag on HTTP,
+    not its own protocol value — exposed via `ssl: true`)
+  - uptime is reported as a 0–100 percentage by ProxyScrape; we round to 2dp
+  - times_alive / times_dead expose the underlying check history
+
+Published columns (CSV / JSON):
+  protocol, ip, port, country, country_code, city, anonymity, ssl,
+  uptime_percent, asn, isp, latency_ms, last_checked
+
+TXT format: protocol://ip:port  (one per line)
+
+Exits non-zero on any HTTP/parse failure so the workflow surfaces it.
+"""
+from __future__ import annotations
+
+import csv
+import io
+import json
+import os
+import sys
+import shutil
+import time
+import urllib.error
+import urllib.request
+from collections import defaultdict
+from typing import Any, Iterable
+
+# The API caps each call at 2000 proxies regardless of the requested limit,
+# so we paginate with skip until nextpage is false. PAGE_SIZE is the per-call
+# cap; MAX_PAGES is a safety stop to avoid runaway loops if the API
+# misreports nextpage.
+PAGE_SIZE = 2000
+MAX_PAGES = 30  # 30 * 2000 = 60k headroom over the current ~22k pool
+
+API_BASE = (
+    "https://api.proxyscrape.com/v4/free-proxy-list/get"
+    "?request=get_proxies&proxy_format=protocolipport&format=json"
+    f"&limit={PAGE_SIZE}"
+)
+
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+PROXIES_ROOT = os.path.join(REPO_ROOT, "proxies")
+
+# 'https' here means "HTTP proxies with ssl=true" — the subset that can
+# tunnel HTTPS via CONNECT. Mirrored as a separate shard so consumers can pull
+# HTTPS-capable proxies without parsing flags themselves.
+PROTOCOL_SHARDS = ("http", "https", "socks4", "socks5")
+
+CSV_HEADER = [
+    "protocol",
+    "ip",
+    "port",
+    "country",
+    "country_code",
+    "city",
+    "anonymity",
+    "ssl",
+    "uptime_percent",
+    "asn",
+    "isp",
+    "latency_ms",
+    "last_checked",
+]
+
+
+REQUEST_DELAY_S = 1.5  # polite delay between pages to avoid upstream 5xx
+MAX_RETRIES = 4
+
+
+def fetch_page(skip: int) -> dict[str, Any]:
+    url = f"{API_BASE}&skip={skip}"
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "proxyscrape-free-proxy-list-mirror/1.0 (+https://github.com/proxyscrape/free-proxy-list)"
+        },
+    )
+    last_err: Exception | None = None
+    for attempt in range(MAX_RETRIES):
+        try:
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                if resp.status != 200:
+                    raise SystemExit(f"API returned HTTP {resp.status} (skip={skip})")
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            # 5xx / 429 — retry with exponential backoff. 4xx other than 429
+            # is a real client error, no point retrying.
+            if e.code in (429, 500, 502, 503, 504):
+                last_err = e
+                backoff = 2 ** attempt
+                print(
+                    f"[update] skip={skip} got HTTP {e.code}; retry in {backoff}s "
+                    f"(attempt {attempt + 1}/{MAX_RETRIES})",
+                    file=sys.stderr,
+                )
+                time.sleep(backoff)
+                continue
+            raise
+        except urllib.error.URLError as e:
+            last_err = e
+            backoff = 2 ** attempt
+            print(
+                f"[update] skip={skip} network error: {e}; retry in {backoff}s",
+                file=sys.stderr,
+            )
+            time.sleep(backoff)
+    raise SystemExit(f"API failed after {MAX_RETRIES} retries (skip={skip}): {last_err}")
+
+
+def fetch_all() -> list[dict[str, Any]]:
+    """Page through the API until nextpage is false (or MAX_PAGES safety).
+
+    The upstream API has a deep-pagination issue where requests beyond
+    skip ≈ 10,000 currently return 500 due to a query-ordering bug
+    (orderBy applied after skip/limit). If we hit that wall partway
+    through, we keep whatever was fetched from successful pages rather
+    than aborting the entire run. A snapshot of ~10k proxies is still
+    useful — better than failing the workflow and shipping no update.
+    First-page failures are real outages and re-raise.
+    """
+    out: list[dict[str, Any]] = []
+    skip = 0
+    for page in range(MAX_PAGES):
+        try:
+            payload = fetch_page(skip)
+        except SystemExit as err:
+            if not out:
+                raise
+            print(
+                f"[update] Pagination ended at page {page + 1} (skip={skip}) — {err}. "
+                f"Keeping {len(out)} proxies fetched so far.",
+                file=sys.stderr,
+            )
+            break
+        proxies = payload.get("proxies")
+        if not isinstance(proxies, list):
+            raise SystemExit("API response missing 'proxies' array")
+        if not proxies:
+            break
+        out.extend(proxies)
+        if not payload.get("nextpage"):
+            break
+        skip += PAGE_SIZE
+        print(
+            f"[update] Page {page + 1}: {len(proxies)} (running total {len(out)})",
+            file=sys.stderr,
+        )
+        time.sleep(REQUEST_DELAY_S)
+    return out
+
+
+def round_uptime(uptime: Any) -> float | None:
+    try:
+        v = float(uptime)
+    except (TypeError, ValueError):
+        return None
+    return round(v, 2)
+
+
+def flatten(proxy: dict[str, Any]) -> dict[str, Any]:
+    """Reduce upstream shape to the flat record we publish."""
+    ip_data = proxy.get("ip_data") or {}
+    # `ip_data.as` is a string like "AS131293 TOT Public Company Limited".
+    # We split it into ASN + ASN org to match the conventions used by
+    # GeoNode and ProxyDB.
+    as_field = ip_data.get("as") or ""
+    asn = ""
+    if as_field.startswith("AS"):
+        asn = as_field.split(" ", 1)[0]  # "AS131293"
+    return {
+        "protocol": (proxy.get("protocol") or "").lower(),
+        "ip": proxy.get("ip") or "",
+        "port": proxy.get("port"),
+        "country": ip_data.get("country") or "",
+        "country_code": (ip_data.get("countryCode") or "").upper(),
+        "city": ip_data.get("city") or "",
+        "anonymity": (proxy.get("anonymity") or "").lower(),
+        "ssl": bool(proxy.get("ssl")),
+        "uptime_percent": round_uptime(proxy.get("uptime")),
+        "asn": asn,
+        "isp": ip_data.get("isp") or "",
+        "latency_ms": (
+            round(float(proxy["timeout"]), 2)
+            if isinstance(proxy.get("timeout"), (int, float))
+            else None
+        ),
+        "last_checked": proxy.get("last_seen"),
+    }
+
+
+def render_txt(rows: Iterable[dict[str, Any]]) -> str:
+    lines = []
+    for r in rows:
+        if not r["ip"] or not r["port"] or not r["protocol"]:
+            continue
+        lines.append(f"{r['protocol']}://{r['ip']}:{r['port']}")
+    return "\n".join(lines) + ("\n" if lines else "")
+
+
+def render_json(rows: list[dict[str, Any]]) -> str:
+    return json.dumps(rows, indent=2, ensure_ascii=False) + "\n"
+
+
+def render_csv(rows: Iterable[dict[str, Any]]) -> str:
+    buf = io.StringIO()
+    writer = csv.DictWriter(buf, fieldnames=CSV_HEADER, extrasaction="ignore")
+    writer.writeheader()
+    for r in rows:
+        # csv module renders None as empty string; convert bool to lowercase
+        # for cross-language friendliness.
+        out = dict(r)
+        out["ssl"] = "true" if r["ssl"] else "false"
+        writer.writerow(out)
+    return buf.getvalue()
+
+
+def write_shard(dirpath: str, rows: list[dict[str, Any]]) -> None:
+    os.makedirs(dirpath, exist_ok=True)
+    with open(os.path.join(dirpath, "data.txt"), "w", encoding="utf-8") as f:
+        f.write(render_txt(rows))
+    with open(os.path.join(dirpath, "data.json"), "w", encoding="utf-8") as f:
+        f.write(render_json(rows))
+    with open(os.path.join(dirpath, "data.csv"), "w", encoding="utf-8") as f:
+        f.write(render_csv(rows))
+
+
+def main() -> None:
+    print(f"[update] Fetching from {API_BASE}", file=sys.stderr)
+    raw = fetch_all()
+    rows = [flatten(p) for p in raw]
+    rows = [r for r in rows if r["ip"] and r["port"] and r["protocol"]]
+
+    # Dedupe on (protocol, ip, port). Upstream pagination currently isn't
+    # stable (orderBy is applied after skip/limit server-side), so the same
+    # proxy can appear on multiple pages. Keeping the first occurrence is
+    # fine — all duplicates carry identical identifying fields.
+    seen: set[tuple[str, str, Any]] = set()
+    deduped: list[dict[str, Any]] = []
+    for r in rows:
+        key = (r["protocol"], r["ip"], r["port"])
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(r)
+    if len(deduped) != len(rows):
+        print(
+            f"[update] Deduped {len(rows) - len(deduped)} duplicate proxies",
+            file=sys.stderr,
+        )
+    rows = deduped
+    print(f"[update] Final unique proxy count: {len(rows)}", file=sys.stderr)
+
+    # All
+    write_shard(os.path.join(PROXIES_ROOT, "all"), rows)
+
+    # Per protocol — 'https' is the HTTP-with-ssl subset, not a separate
+    # upstream protocol value.
+    by_proto: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for r in rows:
+        by_proto[r["protocol"]].append(r)
+        if r["protocol"] == "http" and r["ssl"]:
+            by_proto["https"].append(r)
+    for proto in PROTOCOL_SHARDS:
+        write_shard(
+            os.path.join(PROXIES_ROOT, "protocols", proto),
+            by_proto.get(proto, []),
+        )
+
+    # Wipe any stale country shards from previous runs before rebuilding —
+    # the loop below only writes shards that have data this run, so anything
+    # left behind from a previous run would silently serve dead proxies.
+    countries_root = os.path.join(PROXIES_ROOT, "countries")
+    if os.path.isdir(countries_root):
+        shutil.rmtree(countries_root)
+
+    # Per country, with per-protocol breakdown nested inside each country dir.
+    # Protocol subshards are only emitted when non-empty — a 404 on
+    # countries/zz/socks5/data.txt is the canonical "no SOCKS5 in ZZ" signal,
+    # and avoids cluttering the tree with empty files in low-volume countries.
+    by_country: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for r in rows:
+        cc = r["country_code"]
+        if not cc or len(cc) != 2:
+            continue
+        by_country[cc].append(r)
+
+    country_protocol_subshards = 0
+    for cc, country_rows in by_country.items():
+        country_dir = os.path.join(PROXIES_ROOT, "countries", cc.lower())
+        write_shard(country_dir, country_rows)
+
+        country_by_proto: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        for r in country_rows:
+            country_by_proto[r["protocol"]].append(r)
+            if r["protocol"] == "http" and r["ssl"]:
+                country_by_proto["https"].append(r)
+        for proto in PROTOCOL_SHARDS:
+            proto_rows = country_by_proto.get(proto, [])
+            if not proto_rows:
+                continue
+            write_shard(os.path.join(country_dir, proto), proto_rows)
+            country_protocol_subshards += 1
+
+    # Stats summary committed alongside the data so README badges and
+    # downstream consumers can read counts without parsing data.json.
+    stats = {
+        "total": len(rows),
+        "by_protocol": {p: len(by_proto.get(p, [])) for p in PROTOCOL_SHARDS},
+        "countries": sorted(by_country.keys()),
+        "country_count": len(by_country),
+        "country_protocol_shards": country_protocol_subshards,
+        "by_country": {cc: len(by_country[cc]) for cc in sorted(by_country.keys())},
+    }
+    with open(os.path.join(PROXIES_ROOT, "stats.json"), "w", encoding="utf-8") as f:
+        f.write(json.dumps(stats, indent=2) + "\n")
+
+    # Side-effects: refresh shields.io endpoint badges and README stats
+    # block. Both are derived from the same stats dict.
+    write_badges(stats)
+    update_readme_stats(
+        stats,
+        generated_at_utc=time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime()),
+    )
+    update_readme_downloads(stats)
+
+    print(
+        f"[update] Wrote shards: 1 all, {len(PROTOCOL_SHARDS)} protocols, "
+        f"{len(by_country)} countries, {country_protocol_subshards} country-protocol subshards.",
+        file=sys.stderr,
+    )
+
+
+
+# ---- Live stats: shields.io badge JSON + README marker injection ----------
+
+BADGE_COLORS = {
+    "blue": "blue",
+    "green": "brightgreen",
+    "orange": "orange",
+    "grey": "lightgrey",
+}
+
+
+def _fmt_count(n: int) -> str:
+    return f"{n:,}"
+
+
+def write_badges(stats: dict) -> None:
+    """Emit shields.io endpoint-format JSON for every per-run metric.
+
+    Each file matches the shape https://shields.io/endpoint expects, so the
+    README can render them via:
+        ![](https://img.shields.io/endpoint?url=<jsdelivr>/badges/total.json)
+    """
+    badges_dir = os.path.join(PROXIES_ROOT, "badges")
+    if os.path.isdir(badges_dir):
+        shutil.rmtree(badges_dir)
+    os.makedirs(badges_dir, exist_ok=True)
+
+    # "updated" uses the moment this run committed — stable, deterministic,
+    # and avoids the shields.io-managed GitHub token pool that the
+    # img.shields.io/github/last-commit endpoint depends on (and which
+    # periodically returns "Unable to select next GitHub token from pool"
+    # when its shared pool is throttled).
+    updated_label = time.strftime("%H:%M UTC", time.gmtime())
+    badge_specs = [
+        ("total", "proxies", _fmt_count(stats["total"]), "blue"),
+        ("countries", "countries", str(stats["country_count"]), "green"),
+        ("updated", "last update", updated_label, "green"),
+        ("http", "http", _fmt_count(stats["by_protocol"]["http"]), "blue"),
+        ("https", "https", _fmt_count(stats["by_protocol"]["https"]), "blue"),
+        ("socks4", "socks4", _fmt_count(stats["by_protocol"]["socks4"]), "blue"),
+        ("socks5", "socks5", _fmt_count(stats["by_protocol"]["socks5"]), "blue"),
+    ]
+    for name, label, message, color in badge_specs:
+        with open(os.path.join(badges_dir, f"{name}.json"), "w", encoding="utf-8") as bf:
+            json.dump(
+                {
+                    "schemaVersion": 1,
+                    "label": label,
+                    "message": message,
+                    "color": BADGE_COLORS.get(color, color),
+                },
+                bf,
+            )
+            bf.write("\n")
+
+
+# Markers in README.md that wrap the live stats table. If these are absent
+# the README is left untouched — that way a fork that removes the markers
+# still runs the script cleanly.
+README_STATS_START = "<!-- STATS:START -->"
+README_STATS_END = "<!-- STATS:END -->"
+
+
+def update_readme_stats(stats: dict, generated_at_utc: str) -> None:
+    import re as _re
+
+    readme_path = os.path.join(REPO_ROOT, "README.md")
+    try:
+        with open(readme_path, "r", encoding="utf-8") as rf:
+            content = rf.read()
+    except FileNotFoundError:
+        return
+
+    if README_STATS_START not in content or README_STATS_END not in content:
+        return
+
+    by = stats["by_protocol"]
+    block = (
+        f"{README_STATS_START}\n"
+        f"<!-- Auto-generated by scripts/update.py — do not edit by hand. -->\n"
+        f"\n"
+        f"**Last update:** `{generated_at_utc}`\n"
+        f"\n"
+        f"| Total | HTTP | HTTPS | SOCKS4 | SOCKS5 | Countries | Country&times;Protocol shards |\n"
+        f"|---|---|---|---|---|---|---|\n"
+        f"| **{_fmt_count(stats['total'])}** "
+        f"| {_fmt_count(by['http'])} "
+        f"| {_fmt_count(by['https'])} "
+        f"| {_fmt_count(by['socks4'])} "
+        f"| {_fmt_count(by['socks5'])} "
+        f"| {stats['country_count']} "
+        f"| {stats['country_protocol_shards']} |\n"
+        f"{README_STATS_END}"
+    )
+
+    pattern = _re.compile(
+        _re.escape(README_STATS_START) + r".*?" + _re.escape(README_STATS_END),
+        _re.DOTALL,
+    )
+    new_content = pattern.sub(block, content, count=1)
+    if new_content != content:
+        with open(readme_path, "w", encoding="utf-8") as rf:
+            rf.write(new_content)
+
+
+# Markers wrapping the clickable download table. Same opt-in contract as the
+# stats block: absent markers leave the README untouched.
+README_DOWNLOADS_START = "<!-- DOWNLOADS:START -->"
+README_DOWNLOADS_END = "<!-- DOWNLOADS:END -->"
+_CDN_BASE = "https://cdn.jsdelivr.net/gh/proxyscrape/free-proxy-list@main/proxies"
+_COUNTRIES_TREE = "https://github.com/proxyscrape/free-proxy-list/tree/main/proxies/countries"
+
+
+def _dl_row(label: str, count: int, path: str) -> str:
+    base = f"{_CDN_BASE}/{path}"
+    return (
+        f"| {label} | {_fmt_count(count)} "
+        f"| [JSON]({base}/data.json) "
+        f"| [TXT]({base}/data.txt) "
+        f"| [CSV]({base}/data.csv) |"
+    )
+
+
+def update_readme_downloads(stats: dict) -> None:
+    import re as _re
+
+    readme_path = os.path.join(REPO_ROOT, "README.md")
+    try:
+        with open(readme_path, "r", encoding="utf-8") as rf:
+            content = rf.read()
+    except FileNotFoundError:
+        return
+
+    if README_DOWNLOADS_START not in content or README_DOWNLOADS_END not in content:
+        return
+
+    by = stats["by_protocol"]
+    rows = [
+        _dl_row("**All proxies**", stats["total"], "all"),
+        _dl_row("HTTP", by["http"], "protocols/http"),
+        _dl_row("HTTPS", by["https"], "protocols/https"),
+        _dl_row("SOCKS4", by["socks4"], "protocols/socks4"),
+        _dl_row("SOCKS5", by["socks5"], "protocols/socks5"),
+    ]
+    us_count = stats.get("by_country", {}).get("US")
+    if us_count:
+        rows.append(_dl_row("United States", us_count, "countries/us"))
+
+    block = (
+        f"{README_DOWNLOADS_START}\n"
+        f"<!-- Auto-generated by scripts/update.py — do not edit by hand. -->\n"
+        f"\n"
+        f"| Type | Count | JSON | TXT | CSV |\n"
+        f"|---|---|---|---|---|\n"
+        + "\n".join(rows) + "\n"
+        f"\n"
+        f"[Browse all {stats['country_count']} countries &rarr;]({_COUNTRIES_TREE})\n"
+        f"{README_DOWNLOADS_END}"
+    )
+
+    pattern = _re.compile(
+        _re.escape(README_DOWNLOADS_START) + r".*?" + _re.escape(README_DOWNLOADS_END),
+        _re.DOTALL,
+    )
+    new_content = pattern.sub(block, content, count=1)
+    if new_content != content:
+        with open(readme_path, "w", encoding="utf-8") as rf:
+            rf.write(new_content)
+
+
+# ---- end live stats helpers ----
+
+if __name__ == "__main__":
+    main()

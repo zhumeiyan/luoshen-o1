@@ -1,1 +1,36 @@
-IyBMaWNlbnNlZCB0byB0aGUgQXBhY2hlIFNvZnR3YXJlIEZvdW5kYXRpb24gKEFTRikgdW5kZXIgb25lCiMgb3IgbW9yZSBjb250cmlidXRvciBsaWNlbnNlIGFncmVlbWVudHMuICBTZWUgdGhlIE5PVElDRSBmaWxlCiMgZGlzdHJpYnV0ZWQgd2l0aCB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24KIyByZWdhcmRpbmcgY29weXJpZ2h0IG93bmVyc2hpcC4gIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlCiMgdG8geW91IHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZQojICJMaWNlbnNlIik7IHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2UKIyB3aXRoIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiMKIyAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAojCiMgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLAojIHNvZnR3YXJlIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuCiMgIkFTIElTIiBCQVNJUywgV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZCiMgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4gIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlCiMgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZCBsaW1pdGF0aW9ucwojIHVuZGVyIHRoZSBMaWNlbnNlLgojCiMgW1NUQVJUIHF1aWNrc3RhcnRfcmVzcG9uc2VdCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCiMgVGhpcyBpcyBmb3IgQWlyZmxvdyAyLjExLiBGb3IgQWlyZmxvdyAzKywgdXNlIGBmcm9tIGFpcmZsb3cuc2RrIGltcG9ydCBkYWdgCmZyb20gYWlyZmxvdy5wcm92aWRlcnMuY29tbW9uLmNvbXBhdC5zZGsgaW1wb3J0IGRhZwpmcm9tIGFpcmZsb3cucHJvdmlkZXJzLm9wZW5haS5vcGVyYXRvcnMub3BlbmFpIGltcG9ydCBPcGVuQUlSZXNwb25zZU9wZXJhdG9yCgoKQGRhZyh0YWdzPVsiZXhhbXBsZSJdKQpkZWYgcXVpY2tzdGFydF9vcGVuYWkoKToKICAgIE9wZW5BSVJlc3BvbnNlT3BlcmF0b3IoCiAgICAgICAgdGFza19pZD0iZ2VuZXJhdGVfcmVzcG9uc2UiLAogICAgICAgIGNvbm5faWQ9Im9wZW5haV9kZWZhdWx0IiwKICAgICAgICBpbnB1dF90ZXh0PSJXcml0ZSBhIG9uZS1zZW50ZW5jZSBzdW1tYXJ5IG9mIEFwYWNoZSBBaXJmbG93LiIsCiAgICApCgoKcXVpY2tzdGFydF9vcGVuYWkoKQojIFtFTkQgcXVpY2tzdGFydF9yZXNwb25zZV0K
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#   http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+#
+# [START quickstart_response]
+from __future__ import annotations
+
+# This is for Airflow 2.11. For Airflow 3+, use `from airflow.sdk import dag`
+from airflow.providers.common.compat.sdk import dag
+from airflow.providers.openai.operators.openai import OpenAIResponseOperator
+
+
+@dag(tags=["example"])
+def quickstart_openai():
+    OpenAIResponseOperator(
+        task_id="generate_response",
+        conn_id="openai_default",
+        input_text="Write a one-sentence summary of Apache Airflow.",
+    )
+
+
+quickstart_openai()
+# [END quickstart_response]

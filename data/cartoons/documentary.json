@@ -1,1 +1,9 @@
-ewogInN0YXR1cyI6IDQwMywKICJmaW5hbF91cmwiOiAiaHR0cHM6Ly9iMjMudHYvdzl5aEZUYSIsCiAidGl0bGUiOiAiIiwKICJjaGFycyI6IDMwMywKICJzaG90IjogImRhdGEvY2FydG9vbnMvZG9jdW1lbnRhcnkucG5nIiwKICJieXRlcyI6IDIyNDY3LAogInRleHQiOiAie1widGl0bGVcIjpcIlJlcXVlc3QgZGVuaWVkXCIsXCJzdGF0dXNcIjo0MDMsXCJkZXRhaWxcIjpcIk5vIHBvbGljeSBydWxlIG1hdGNoZWQgdGhlIHJlcXVlc3RcIixcInJlcXVlc3RfaWRcIjpcIjJlNjY2MDRmLTdmMWMtNDU5NC1hMTE3LTEzYWE3NTUxY2I4NFwiLFwicmVhc29uXCI6XCJwb2xpY3lfZGVmYXVsdF9kZW5pZWRcIixcInNvdXJjZVwiOntcInR5cGVcIjpcInBvbGljeVwiLFwicG9saWN5X25hbWVcIjpcIm1haW4tcG9saWN5XCJ9LFwicmVxdWVzdFwiOntcIm1ldGhvZFwiOlwiR0VUXCIsXCJzY2hlbWVcIjpcImh0dHBzXCIsXCJob3N0XCI6XCJiMjMudHZcIixcInBhdGhcIjpcIi93OXloRlRhXCJ9fSIKfQ==
+{
+ "status": 403,
+ "final_url": "https://b23.tv/w9yhFTa",
+ "title": "",
+ "chars": 303,
+ "shot": "data/cartoons/documentary.png",
+ "bytes": 22467,
+ "text": "{\"title\":\"Request denied\",\"status\":403,\"detail\":\"No policy rule matched the request\",\"request_id\":\"2e66604f-7f1c-4594-a117-13aa7551cb84\",\"reason\":\"policy_default_denied\",\"source\":{\"type\":\"policy\",\"policy_name\":\"main-policy\"},\"request\":{\"method\":\"GET\",\"scheme\":\"https\",\"host\":\"b23.tv\",\"path\":\"/w9yhFTa\"}}"
+}

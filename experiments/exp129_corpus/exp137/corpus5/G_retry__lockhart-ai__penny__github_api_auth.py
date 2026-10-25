@@ -1,1 +1,131 @@
-IiIiR2l0SHViIEFwcCBhdXRoZW50aWNhdGlvbiBmb3IgYWdlbnQgb3BlcmF0aW9ucy4KCkdlbmVyYXRlcyBpbnN0YWxsYXRpb24gYWNjZXNzIHRva2VucyBzbyBhZ2VudCBQUnMgYW5kIGNvbW1pdHMKY29tZSBmcm9tIHRoZSBib3QgaWRlbnRpdHkgaW5zdGVhZCBvZiBhIHBlcnNvbmFsIGFjY291bnQuCiIiIgoKIyAvLy8gc2NyaXB0CiMgcmVxdWlyZXMtcHl0aG9uID0gIj49My4xMiIKIyBkZXBlbmRlbmNpZXMgPSBbIlB5SldUW2NyeXB0b10iLCAicHl0aG9uLWRvdGVudiJdCiMgLy8vCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgppbXBvcnQgbG9nZ2luZwppbXBvcnQgdGltZQppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgojIEdpdEh1YiBBUEkgY29uc3RhbnRzCkdJVEhVQl9BUEkgPSAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbSIKQVBJX0FQUCA9ICIvYXBwIgpBUElfQUNDRVNTX1RPS0VOUyA9ICIvYXBwL2luc3RhbGxhdGlvbnMve2luc3RhbGxfaWR9L2FjY2Vzc190b2tlbnMiCkpXVF9BTEdPUklUSE0gPSAiUlMyNTYiCkJPVF9TVUZGSVggPSAiW2JvdF0iCk5PUkVQTFlfRE9NQUlOID0gInVzZXJzLm5vcmVwbHkuZ2l0aHViLmNvbSIKCiMgRW52aXJvbm1lbnQgdmFyaWFibGUga2V5cwpFTlZfR0hfVE9LRU4gPSAiR0hfVE9LRU4iCkVOVl9HSVRfQVVUSE9SX05BTUUgPSAiR0lUX0FVVEhPUl9OQU1FIgpFTlZfR0lUX0FVVEhPUl9FTUFJTCA9ICJHSVRfQVVUSE9SX0VNQUlMIgpFTlZfR0lUX0NPTU1JVFRFUl9OQU1FID0gIkdJVF9DT01NSVRURVJfTkFNRSIKRU5WX0dJVF9DT01NSVRURVJfRU1BSUwgPSAiR0lUX0NPTU1JVFRFUl9FTUFJTCIKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKCmNsYXNzIEdpdEh1YkF1dGg6CiAgICBkZWYgX19pbml0X18oc2VsZiwgYXBwX2lkOiBpbnQsIHByaXZhdGVfa2V5X3BhdGg6IFBhdGgsIGluc3RhbGxhdGlvbl9pZDogaW50KToKICAgICAgICBzZWxmLmFwcF9pZCA9IGFwcF9pZAogICAgICAgIHNlbGYucHJpdmF0ZV9rZXlfcGF0aCA9IHByaXZhdGVfa2V5X3BhdGgKICAgICAgICBzZWxmLmluc3RhbGxhdGlvbl9pZCA9IGluc3RhbGxhdGlvbl9pZAogICAgICAgIHNlbGYuX3Rva2VuOiBzdHIgfCBOb25lID0gTm9uZQogICAgICAgIHNlbGYuX3Rva2VuX2V4cGlyZXM6IGZsb2F0ID0gMAogICAgICAgIHNlbGYuX3NsdWc6IHN0ciB8IE5vbmUgPSBOb25lCgogICAgZGVmIF9tYWtlX2p3dChzZWxmKSAtPiBzdHI6CiAgICAgICAgaW1wb3J0IGp3dCAgIyBQeUpXVFtjcnlwdG9dCgogICAgICAgIG5vdyA9IGludCh0aW1lLnRpbWUoKSkKICAgICAgICBwYXlsb2FkID0gewogICAgICAgICAgICAiaWF0Ijogbm93IC0gNjAsCiAgICAgICAgICAgICJleHAiOiBub3cgKyA2MDAsCiAgICAgICAgICAgICJpc3MiOiBzdHIoc2VsZi5hcHBfaWQpLAogICAgICAgIH0KICAgICAgICBwcml2YXRlX2tleSA9IHNlbGYucHJpdmF0ZV9rZXlfcGF0aC5yZWFkX3RleHQoKQogICAgICAgIHJldHVybiBqd3QuZW5jb2RlKHBheWxvYWQsIHByaXZhdGVfa2V5LCBhbGdvcml0aG09SldUX0FMR09SSVRITSkKCiAgICBkZWYgX2FwaV9yZXF1ZXN0KHNlbGYsIG1ldGhvZDogc3RyLCBwYXRoOiBzdHIsIHRva2VuOiBzdHIpIC0+IGRpY3Q6CiAgICAgICAgdXJsID0gZiJ7R0lUSFVCX0FQSX17cGF0aH0iCiAgICAgICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIG1ldGhvZD1tZXRob2QpCiAgICAgICAgcmVxLmFkZF9oZWFkZXIoIkF1dGhvcml6YXRpb24iLCBmIkJlYXJlciB7dG9rZW59IikKICAgICAgICByZXEuYWRkX2hlYWRlcigiQWNjZXB0IiwgImFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiIpCiAgICAgICAgaWYgbWV0aG9kID09ICJQT1NUIjoKICAgICAgICAgICAgcmVxLmRhdGEgPSBiInt9IgogICAgICAgICAgICByZXEuYWRkX2hlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQogICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEpIGFzIHJlc3A6CiAgICAgICAgICAgIHJldHVybiBqc29uLmxvYWRzKHJlc3AucmVhZCgpKQoKICAgIGRlZiBfZmV0Y2hfc2x1ZyhzZWxmKSAtPiBzdHI6CiAgICAgICAgaWYgc2VsZi5fc2x1ZyBpcyBOb25lOgogICAgICAgICAgICBqd3RfdG9rZW4gPSBzZWxmLl9tYWtlX2p3dCgpCiAgICAgICAgICAgIGRhdGEgPSBzZWxmLl9hcGlfcmVxdWVzdCgiR0VUIiwgQVBJX0FQUCwgand0X3Rva2VuKQogICAgICAgICAgICBzZWxmLl9zbHVnID0gZGF0YVsic2x1ZyJdCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKGYiR2l0SHViIEFwcDoge3NlbGYuX3NsdWd9IChpZD17c2VsZi5hcHBfaWR9KSIpCiAgICAgICAgcmV0dXJuIHNlbGYuX3NsdWcKCiAgICBkZWYgZ2V0X3Rva2VuKHNlbGYpIC0+IHN0cjoKICAgICAgICAiIiJHZXQgYSB2YWxpZCBpbnN0YWxsYXRpb24gYWNjZXNzIHRva2VuLCByZWZyZXNoaW5nIGlmIGV4cGlyZWQuIiIiCiAgICAgICAgaWYgc2VsZi5fdG9rZW4gYW5kIHRpbWUudGltZSgpIDwgc2VsZi5fdG9rZW5fZXhwaXJlczoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3Rva2VuCgogICAgICAgIGp3dF90b2tlbiA9IHNlbGYuX21ha2Vfand0KCkKICAgICAgICBkYXRhID0gc2VsZi5fYXBpX3JlcXVlc3QoCiAgICAgICAgICAgICJQT1NUIiwKICAgICAgICAgICAgQVBJX0FDQ0VTU19UT0tFTlMuZm9ybWF0KGluc3RhbGxfaWQ9c2VsZi5pbnN0YWxsYXRpb25faWQpLAogICAgICAgICAgICBqd3RfdG9rZW4sCiAgICAgICAgKQogICAgICAgIHNlbGYuX3Rva2VuID0gZGF0YVsidG9rZW4iXQogICAgICAgICMgSW5zdGFsbGF0aW9uIHRva2VucyBsYXN0IDEgaG91cjsgZXhwaXJlIDUgbWluIGVhcmx5CiAgICAgICAgc2VsZi5fdG9rZW5fZXhwaXJlcyA9IHRpbWUudGltZSgpICsgMzMwMAogICAgICAgIGxvZ2dlci5pbmZvKCJHaXRIdWIgQXBwOiByZWZyZXNoZWQgaW5zdGFsbGF0aW9uIHRva2VuIikKICAgICAgICByZXR1cm4gc2VsZi5fdG9rZW4KCiAgICBAcHJvcGVydHkKICAgIGRlZiBib3RfbmFtZShzZWxmKSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIGYie3NlbGYuX2ZldGNoX3NsdWcoKX17Qk9UX1NVRkZJWH0iCgogICAgQHByb3BlcnR5CiAgICBkZWYgYm90X2VtYWlsKHNlbGYpIC0+IHN0cjoKICAgICAgICByZXR1cm4gZiJ7c2VsZi5hcHBfaWR9K3tzZWxmLl9mZXRjaF9zbHVnKCl9e0JPVF9TVUZGSVh9QHtOT1JFUExZX0RPTUFJTn0iCgogICAgZGVmIGdldF9lbnYoc2VsZikgLT4gZGljdFtzdHIsIHN0cl06CiAgICAgICAgIiIiRW52aXJvbm1lbnQgdmFyaWFibGVzIGZvciBzdWJwcm9jZXNzIHRvIHVzZSBib3QgaWRlbnRpdHkuIiIiCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgRU5WX0dIX1RPS0VOOiBzZWxmLmdldF90b2tlbigpLAogICAgICAgICAgICBFTlZfR0lUX0FVVEhPUl9OQU1FOiBzZWxmLmJvdF9uYW1lLAogICAgICAgICAgICBFTlZfR0lUX0FVVEhPUl9FTUFJTDogc2VsZi5ib3RfZW1haWwsCiAgICAgICAgICAgIEVOVl9HSVRfQ09NTUlUVEVSX05BTUU6IHNlbGYuYm90X25hbWUsCiAgICAgICAgICAgIEVOVl9HSVRfQ09NTUlUVEVSX0VNQUlMOiBzZWxmLmJvdF9lbWFpbCwKICAgICAgICB9CgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGltcG9ydCBvcwoKICAgIGZyb20gZG90ZW52IGltcG9ydCBsb2FkX2RvdGVudgoKICAgIHByb2plY3Rfcm9vdCA9IFBhdGguY3dkKCkKICAgIGxvYWRfZG90ZW52KHByb2plY3Rfcm9vdCAvICIuZW52IikKCiAgICBrZXlfcGF0aCA9IFBhdGgob3MuZW52aXJvblsiR0lUSFVCX0FQUF9QUklWQVRFX0tFWV9QQVRIIl0pCiAgICBpZiBub3Qga2V5X3BhdGguaXNfYWJzb2x1dGUoKToKICAgICAgICBrZXlfcGF0aCA9IHByb2plY3Rfcm9vdCAvIGtleV9wYXRoCgogICAgYXBwID0gR2l0SHViQXV0aCgKICAgICAgICBhcHBfaWQ9aW50KG9zLmVudmlyb25bIkdJVEhVQl9BUFBfSUQiXSksCiAgICAgICAgcHJpdmF0ZV9rZXlfcGF0aD1rZXlfcGF0aCwKICAgICAgICBpbnN0YWxsYXRpb25faWQ9aW50KG9zLmVudmlyb25bIkdJVEhVQl9BUFBfSU5TVEFMTEFUSU9OX0lEIl0pLAogICAgKQogICAgcHJpbnQoYXBwLmdldF90b2tlbigpKQo=
+"""GitHub App authentication for agent operations.
+
+Generates installation access tokens so agent PRs and commits
+come from the bot identity instead of a personal account.
+"""
+
+# /// script
+# requires-python = ">=3.12"
+# dependencies = ["PyJWT[crypto]", "python-dotenv"]
+# ///
+
+from __future__ import annotations
+
+import json
+import logging
+import time
+import urllib.request
+from pathlib import Path
+
+# GitHub API constants
+GITHUB_API = "https://api.github.com"
+API_APP = "/app"
+API_ACCESS_TOKENS = "/app/installations/{install_id}/access_tokens"
+JWT_ALGORITHM = "RS256"
+BOT_SUFFIX = "[bot]"
+NOREPLY_DOMAIN = "users.noreply.github.com"
+
+# Environment variable keys
+ENV_GH_TOKEN = "GH_TOKEN"
+ENV_GIT_AUTHOR_NAME = "GIT_AUTHOR_NAME"
+ENV_GIT_AUTHOR_EMAIL = "GIT_AUTHOR_EMAIL"
+ENV_GIT_COMMITTER_NAME = "GIT_COMMITTER_NAME"
+ENV_GIT_COMMITTER_EMAIL = "GIT_COMMITTER_EMAIL"
+
+logger = logging.getLogger(__name__)
+
+
+class GitHubAuth:
+    def __init__(self, app_id: int, private_key_path: Path, installation_id: int):
+        self.app_id = app_id
+        self.private_key_path = private_key_path
+        self.installation_id = installation_id
+        self._token: str | None = None
+        self._token_expires: float = 0
+        self._slug: str | None = None
+
+    def _make_jwt(self) -> str:
+        import jwt  # PyJWT[crypto]
+
+        now = int(time.time())
+        payload = {
+            "iat": now - 60,
+            "exp": now + 600,
+            "iss": str(self.app_id),
+        }
+        private_key = self.private_key_path.read_text()
+        return jwt.encode(payload, private_key, algorithm=JWT_ALGORITHM)
+
+    def _api_request(self, method: str, path: str, token: str) -> dict:
+        url = f"{GITHUB_API}{path}"
+        req = urllib.request.Request(url, method=method)
+        req.add_header("Authorization", f"Bearer {token}")
+        req.add_header("Accept", "application/vnd.github+json")
+        if method == "POST":
+            req.data = b"{}"
+            req.add_header("Content-Type", "application/json")
+        with urllib.request.urlopen(req) as resp:
+            return json.loads(resp.read())
+
+    def _fetch_slug(self) -> str:
+        if self._slug is None:
+            jwt_token = self._make_jwt()
+            data = self._api_request("GET", API_APP, jwt_token)
+            self._slug = data["slug"]
+            logger.info(f"GitHub App: {self._slug} (id={self.app_id})")
+        return self._slug
+
+    def get_token(self) -> str:
+        """Get a valid installation access token, refreshing if expired."""
+        if self._token and time.time() < self._token_expires:
+            return self._token
+
+        jwt_token = self._make_jwt()
+        data = self._api_request(
+            "POST",
+            API_ACCESS_TOKENS.format(install_id=self.installation_id),
+            jwt_token,
+        )
+        self._token = data["token"]
+        # Installation tokens last 1 hour; expire 5 min early
+        self._token_expires = time.time() + 3300
+        logger.info("GitHub App: refreshed installation token")
+        return self._token
+
+    @property
+    def bot_name(self) -> str:
+        return f"{self._fetch_slug()}{BOT_SUFFIX}"
+
+    @property
+    def bot_email(self) -> str:
+        return f"{self.app_id}+{self._fetch_slug()}{BOT_SUFFIX}@{NOREPLY_DOMAIN}"
+
+    def get_env(self) -> dict[str, str]:
+        """Environment variables for subprocess to use bot identity."""
+        return {
+            ENV_GH_TOKEN: self.get_token(),
+            ENV_GIT_AUTHOR_NAME: self.bot_name,
+            ENV_GIT_AUTHOR_EMAIL: self.bot_email,
+            ENV_GIT_COMMITTER_NAME: self.bot_name,
+            ENV_GIT_COMMITTER_EMAIL: self.bot_email,
+        }
+
+
+if __name__ == "__main__":
+    import os
+
+    from dotenv import load_dotenv
+
+    project_root = Path.cwd()
+    load_dotenv(project_root / ".env")
+
+    key_path = Path(os.environ["GITHUB_APP_PRIVATE_KEY_PATH"])
+    if not key_path.is_absolute():
+        key_path = project_root / key_path
+
+    app = GitHubAuth(
+        app_id=int(os.environ["GITHUB_APP_ID"]),
+        private_key_path=key_path,
+        installation_id=int(os.environ["GITHUB_APP_INSTALLATION_ID"]),
+    )
+    print(app.get_token())

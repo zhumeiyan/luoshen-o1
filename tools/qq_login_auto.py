@@ -1,1 +1,55 @@
-aW1wb3J0IGFzeW5jaW8sIGpzb24sIG9zCmZyb20gcGxheXdyaWdodC5hc3luY19hcGkgaW1wb3J0IGFzeW5jX3BsYXl3cmlnaHQKClUgPSAiNzc4MTMxNDAwIjsgUCA9ICJ6NDU3MDI4NSIKCmFzeW5jIGRlZiBtYWluKCk6CiAgICBhc3luYyB3aXRoIGFzeW5jX3BsYXl3cmlnaHQoKSBhcyBwOgogICAgICAgIGIgPSBhd2FpdCBwLmNocm9taXVtLmxhdW5jaChoZWFkbGVzcz1UcnVlLCBleGVjdXRhYmxlX3BhdGg9Ii91c3IvbG9jYWwvYmluL2Nocm9taXVtIiwgYXJncz1bIi0tbm8tc2FuZGJveCIsIi0tZGlzYWJsZS1ibGluay1mZWF0dXJlcz1BdXRvbWF0aW9uQ29udHJvbGxlZCJdKQogICAgICAgIGN0eCA9IGF3YWl0IGIubmV3X2NvbnRleHQodmlld3BvcnQ9eyJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo5MDB9LAogICAgICAgICAgICB1c2VyX2FnZW50PSJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTIwLjAuMC4wIFNhZmFyaS81MzcuMzYiKQogICAgICAgIHBnID0gYXdhaXQgY3R4Lm5ld19wYWdlKCkKICAgICAgICBsb2c9W10KICAgICAgICBwZy5vbigiY29uc29sZSIsIGxhbWJkYSBtOiBsb2cuYXBwZW5kKCgiY29uc29sZSIsbS50ZXh0WzoyMDBdKSkpCiAgICAgICAgcGcub24oInJlc3BvbnNlIiwgbGFtYmRhIHI6IGxvZy5hcHBlbmQoKCJyZXNwIiwgZiJ7ci5zdGF0dXN9IHtyLnVybFs6MTIwXX0iKSkgaWYgYW55KGsgaW4gci51cmwgZm9yIGsgaW4gWyJwdGxvZ2luIiwidmVyaWZ5IiwiY2FwIiwibG9naW4iLCJzYWZlIl0pIGVsc2UgTm9uZSkKCiAgICAgICAgYXdhaXQgcGcuZ290bygiaHR0cHM6Ly9tYWlsLnFxLmNvbS8iLCB3YWl0X3VudGlsPSJkb21jb250ZW50bG9hZGVkIiwgdGltZW91dD02MDAwMCkKICAgICAgICBhd2FpdCBwZy53YWl0X2Zvcl90aW1lb3V0KDMwMDApCiAgICAgICAgcHJpbnQoIlVSTDoiLCBwZy51cmwpCiAgICAgICAgIyDliIfliLDotKblj7flr4bnoIHnmbvlvZUKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBhc3MKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KCJubyBwd2QgdGFiOiIsIGUpCiAgICAgICAgYXdhaXQgcGcud2FpdF9mb3JfdGltZW91dCgxNTAwKQogICAgICAgICMg5om+IGZyYW1lCiAgICAgICAgZm9yIGYgaW4gcGcuZnJhbWVzOgogICAgICAgICAgICBpZiAieGxvZ2luIiBpbiBmLnVybCBvciAicHRsb2dpbiIgaW4gZi51cmw6CiAgICAgICAgICAgICAgICBwcmludCgiRlJBTUU6IiwgZi51cmxbOjEyMF0pCiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgYXdhaXQgZi5jbGljaygidGV4dD3lr4bnoIHnmbvlvZUiLCB0aW1lb3V0PTUwMDApCiAgICAgICAgICAgICAgICAgICAgYXdhaXQgZi53YWl0X2Zvcl90aW1lb3V0KDIwMDApCiAgICAgICAgICAgICAgICAgICAgYXdhaXQgZi5maWxsKCIjdSIsIFUsIHRpbWVvdXQ9ODAwMCkKICAgICAgICAgICAgICAgICAgICBhd2FpdCBmLmZpbGwoIiNwIiwgUCwgdGltZW91dD01MDAwKQogICAgICAgICAgICAgICAgICAgIHByaW50KCJmaWxsZWQgdS9wIikKICAgICAgICAgICAgICAgICAgICBhd2FpdCBmLmNsaWNrKCIjbG9naW5fYnV0dG9uIiwgdGltZW91dD01MDAwKQogICAgICAgICAgICAgICAgICAgIHByaW50KCJjbGlja2VkIikKICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgICAgICBwcmludCgiZmlsbCBlcnI6IiwgZSkKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgYXdhaXQgcGcud2FpdF9mb3JfdGltZW91dCg2MDAwKQogICAgICAgIHByaW50KCJVUkwgYWZ0ZXI6IiwgcGcudXJsKQogICAgICAgIGF3YWl0IHBnLnNjcmVlbnNob3QocGF0aD0iLmF1dGgvYWZ0ZXJfbG9naW4ucG5nIiwgZnVsbF9wYWdlPVRydWUpCiAgICAgICAgIyDmipPpqozor4Hnm7jlhbMKICAgICAgICBmb3IgZiBpbiBwZy5mcmFtZXM6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHR4dCA9IGF3YWl0IGYuZXZhbHVhdGUoIigpPT5kb2N1bWVudC5ib2R5LmlubmVyVGV4dC5zbGljZSgwLDUwMCkiKQogICAgICAgICAgICAgICAgaWYgdHh0LnN0cmlwKCk6IHByaW50KCJGUkFNRSBURVhUIiwgZi51cmxbOjgwXSwgIjo6IiwgdHh0LnJlcGxhY2UoIlxuIiwiIHwgIilbOjMwMF0pCiAgICAgICAgICAgIGV4Y2VwdDogcGFzcwogICAgICAgIHByaW50KCItLS0gcmVsZXZhbnQgcmVzcG9uc2VzIC0tLSIpCiAgICAgICAgZm9yIGssdiBpbiBsb2dbLTQwOl06CiAgICAgICAgICAgIHByaW50KGssIHYpCiAgICAgICAgYXdhaXQgY3R4LnN0b3JhZ2Vfc3RhdGUocGF0aD0iLmF1dGgvc3RhdGUyLmpzb24iKQogICAgICAgIGF3YWl0IGIuY2xvc2UoKQoKYXN5bmNpby5ydW4obWFpbigpKQo=
+import asyncio, json, os
+from playwright.async_api import async_playwright
+
+U = "778131400"; P = "z4570285"
+
+async def main():
+    async with async_playwright() as p:
+        b = await p.chromium.launch(headless=True, executable_path="/usr/local/bin/chromium", args=["--no-sandbox","--disable-blink-features=AutomationControlled"])
+        ctx = await b.new_context(viewport={"width":1280,"height":900},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+        pg = await ctx.new_page()
+        log=[]
+        pg.on("console", lambda m: log.append(("console",m.text[:200])))
+        pg.on("response", lambda r: log.append(("resp", f"{r.status} {r.url[:120]}")) if any(k in r.url for k in ["ptlogin","verify","cap","login","safe"]) else None)
+
+        await pg.goto("https://mail.qq.com/", wait_until="domcontentloaded", timeout=60000)
+        await pg.wait_for_timeout(3000)
+        print("URL:", pg.url)
+        # 切到账号密码登录
+        try:
+            pass
+        except Exception as e:
+            print("no pwd tab:", e)
+        await pg.wait_for_timeout(1500)
+        # 找 frame
+        for f in pg.frames:
+            if "xlogin" in f.url or "ptlogin" in f.url:
+                print("FRAME:", f.url[:120])
+                try:
+                    await f.click("text=密码登录", timeout=5000)
+                    await f.wait_for_timeout(2000)
+                    await f.fill("#u", U, timeout=8000)
+                    await f.fill("#p", P, timeout=5000)
+                    print("filled u/p")
+                    await f.click("#login_button", timeout=5000)
+                    print("clicked")
+                except Exception as e:
+                    print("fill err:", e)
+                break
+        await pg.wait_for_timeout(6000)
+        print("URL after:", pg.url)
+        await pg.screenshot(path=".auth/after_login.png", full_page=True)
+        # 抓验证相关
+        for f in pg.frames:
+            try:
+                txt = await f.evaluate("()=>document.body.innerText.slice(0,500)")
+                if txt.strip(): print("FRAME TEXT", f.url[:80], "::", txt.replace("\n"," | ")[:300])
+            except: pass
+        print("--- relevant responses ---")
+        for k,v in log[-40:]:
+            print(k, v)
+        await ctx.storage_state(path=".auth/state2.json")
+        await b.close()
+
+asyncio.run(main())

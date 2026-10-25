@@ -1,1 +1,40 @@
-IiIiZXhwMTMxOiBkdW1wIGV2ZXJ5IGZpbmRpbmcgb24gdGhlIHJlYWwgY29ycHVzIHdpdGggZnVsbCBldmlkZW5jZSwgZm9yIGhhbmQgdHJpYWdlLgoKUHJldmlvdXMgaGFuZC10cmlhZ2UgKDIvMzUpIHdhcyBkb25lIG9uIHRoZSBmaWxlLWxldmVsIGJ1aWxkLiBUaGUgc3RhdGVtZW50LWxldmVsCnJld3JpdGUgY2hhbmdlZCB3aGljaCBmaW5kaW5ncyBleGlzdCwgc28gb2xkIGxhYmVscyBkbyBub3QgdHJhbnNmZXIuIFJlLWR1bXAgYW5kCnJlLXRyaWFnZSBmcm9tIHNjcmF0Y2g6IGZvciBlYWNoIGZpbmRpbmcsIHJlYWQgdGhlIGFjdHVhbCBzb3VyY2UgbGluZSBhbmQgZGVjaWRlClRQIChhIHJlYWwgZGVmZWN0IGEgcmV2aWV3ZXIgd291bGQgYWNjZXB0KSBvciBGUCAoc3RhbmRhcmQvaWRpb21hdGljIGNvZGUpLgpBbnl0aGluZyBJIGNhbm5vdCBkZWNpZGUgaXMgcmVjb3JkZWQgRlAg4oCUIGNvbnNlcnZhdGl2ZSwgYmlhc2VzIEFHQUlOU1Qgc2hpcHBpbmcuCiIiIgppbXBvcnQgc3lzLCBqc29uLCBwYXRobGliCgpzeXMucGF0aC5pbnNlcnQoMCwgIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL292ZXJzZWFzIikKZnJvbSBldmFsZ3VhcmQgaW1wb3J0IGNsaQpmcm9tIGV2YWxndWFyZC5jbGkgaW1wb3J0IHNjYW4KCkNPUlAgPSBwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyOV9jb3JwdXMvY29ycHVzMiIpCgpjbGkuUFJPX09OWzBdID0gVHJ1ZQpyb3dzID0gW10KbiA9IDAKZm9yIGYgaW4gc29ydGVkKENPUlAuZ2xvYigiKi5weSIpKToKICAgIGZvciByIGluIHNjYW4oc3RyKGYpKToKICAgICAgICBuICs9IDEKICAgICAgICBzcmMgPSBmLnJlYWRfdGV4dChlcnJvcnM9InJlcGxhY2UiKS5zcGxpdGxpbmVzKCkKICAgICAgICBsbiA9IChyLmdldCgiaGl0cyIpIG9yIFt7fV0pWzBdLmdldCgibGluZSIsIDApCiAgICAgICAgY3R4ID0gc3JjW2xuIC0gMV0uc3RyaXAoKSBpZiAxIDw9IGxuIDw9IGxlbihzcmMpIGVsc2UgIjxubyBsaW5lPiIKICAgICAgICByb3dzLmFwcGVuZCh7CiAgICAgICAgICAgICJuIjogbiwKICAgICAgICAgICAgImVnIjogclsiZWdfaWQiXSwKICAgICAgICAgICAgInNldiI6IHJbInNldmVyaXR5Il0sCiAgICAgICAgICAgICJ0aXRsZSI6IHJbInRpdGxlIl0sCiAgICAgICAgICAgICJmaWxlIjogZi5uYW1lLAogICAgICAgICAgICAibGluZSI6IGxuLAogICAgICAgICAgICAiaGl0IjogclsiaGl0cyJdWzBdWyJoaXQiXSBpZiByLmdldCgiaGl0cyIpIGVsc2UgIiIsCiAgICAgICAgICAgICJzcmNfbGluZSI6IGN0eFs6MTYwXSwKICAgICAgICB9KQoKcHJpbnQoZiJ0b3RhbCBmaW5kaW5nczoge2xlbihyb3dzKX0iKQpwcmludChqc29uLmR1bXBzKHJvd3MsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpKQpwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyOV9jb3JwdXMvZXhwMTMxL2R1bXAxMzEuanNvbiIpLndyaXRlX3RleHQoCiAgICBqc29uLmR1bXBzKHJvd3MsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpKQo=
+"""exp131: dump every finding on the real corpus with full evidence, for hand triage.
+
+Previous hand-triage (2/35) was done on the file-level build. The statement-level
+rewrite changed which findings exist, so old labels do not transfer. Re-dump and
+re-triage from scratch: for each finding, read the actual source line and decide
+TP (a real defect a reviewer would accept) or FP (standard/idiomatic code).
+Anything I cannot decide is recorded FP — conservative, biases AGAINST shipping.
+"""
+import sys, json, pathlib
+
+sys.path.insert(0, "/data/workspace/luoshen-o1/overseas")
+from evalguard import cli
+from evalguard.cli import scan
+
+CORP = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/corpus2")
+
+cli.PRO_ON[0] = True
+rows = []
+n = 0
+for f in sorted(CORP.glob("*.py")):
+    for r in scan(str(f)):
+        n += 1
+        src = f.read_text(errors="replace").splitlines()
+        ln = (r.get("hits") or [{}])[0].get("line", 0)
+        ctx = src[ln - 1].strip() if 1 <= ln <= len(src) else "<no line>"
+        rows.append({
+            "n": n,
+            "eg": r["eg_id"],
+            "sev": r["severity"],
+            "title": r["title"],
+            "file": f.name,
+            "line": ln,
+            "hit": r["hits"][0]["hit"] if r.get("hits") else "",
+            "src_line": ctx[:160],
+        })
+
+print(f"total findings: {len(rows)}")
+print(json.dumps(rows, ensure_ascii=False, indent=1))
+pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp131/dump131.json").write_text(
+    json.dumps(rows, ensure_ascii=False, indent=1))

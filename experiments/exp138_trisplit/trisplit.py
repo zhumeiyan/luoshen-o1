@@ -1,1 +1,214 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTM4OiDkuInliIblrp7pqozmlbDmja4g4oCU4oCUIOiuoeeul+acui9BSSDCtyBBZ2VudCDCtyDnoYXln7rnlJ/lkb3kvZMKCueUqOaIt+aMh+S7pO+8muWQjOS4gOaJueWunumqjO+8jOWIhuaIkOS4ieS7veaVsOaNrueci+OAggoK5pys6ISa5pys5YGa5Lik5Lu25LqL77yaCiAgMSkg5oyJIuacrOWxguaTjeS9nOaAp+WIpOaNriLmiorlrp7pqozlvZLlhaXkuInlsYIKICAyKSDnlJ/miJDot6jlsYLor6/liKTnn6npmLXvvJrnlKjmn5DkuIDlsYLnmoTlsLrlrZDph4/lj6bkuIDlsYLnmoTmlbDmja7vvIzkvJrlvpflh7rku4DkuYjnu5PorroKCumihOazqOWGjOWBh+iuvu+8mgogIEgxIOWQjOS4gOaJueivu+aVsOWcqOS4jeWQjOWxguWIpOaNruS4i+S8mue/u+i9rOe7k+iuuuaWueWQkeOAggogIEgyIOaIkeatpOWJjSLkuI3lkIjmoLwv5LiN5Y+R6LSnIueahOe7k+iuuu+8jOWkmuaYr+eUqCBMMSDlsLrlrZDph48gTDMg546w6LGh5b6X5Ye655qE44CCCiAgICAg6Iul5oiQ56uL77yM6YKj5LqbIuS4jeWQiOagvCLkuI3mmK/kuovlrp7liKTmlq3vvIzmmK/lsYLplJnphY3jgIIKIiIiCmltcG9ydCBqc29uLCBoYXNobGliLCBvcwoKT1VUID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4ieWxguWumuS5ie+8muavj+Wxgue7meWHuiLmnKzlsYLlkIjmoLzliKTmja4i5LiOIuacrOWxguS4jeivpemXrueahOmXrumimCIKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KTEFZRVJTID0gewogICAgIkwxIjogewogICAgICAgICJuYW1lIjogIuiuoeeul+acuiAvIEFJIiwKICAgICAgICAiZHJpdmUiOiAi5Y2V5qyh5pig5bCE77ya6L6T5YWlIC0+IOi+k+WHuiIsCiAgICAgICAgImJvdW5kYXJ5IjogIuS6p+WTgeeUu+eahCIsCiAgICAgICAgInZlcmRpY3QiOiAi57K+56Gu546HIC8g5Y+s5ZueIC8g6KaG55uW546HIOKAlOKAlCDovpPlh7rkuI7nnJ/lgLznmoTlt67ot50iLAogICAgICAgICJtdXN0X25vdF9hc2siOiBbIuWug+a0u+edgOWQlyIsICLlroPmg7PopoHku4DkuYgiLCAi5a6D5Lya5LiN5Lya6Ieq5bex57un57utIl0sCiAgICB9LAogICAgIkwyIjogewogICAgICAgICJuYW1lIjogIkFnZW50IiwKICAgICAgICAiZHJpdmUiOiAi5Lq657uZ55uu5qCH77yM5a6D6LeR5b6q546v77yb6KGM5Yqo5pS55Y+Y5LiL5LiA6L6T5YWlIiwKICAgICAgICAiYm91bmRhcnkiOiAi6L+Y5piv5Lqn5ZOB55S755qEIiwKICAgICAgICAidmVyZGljdCI6ICLpl63njq8gdnMg5byA546vIC8g55u45YCaIHZzIOebuOe7pyDigJTigJQg5b6q546v5piv5ZCm55yf55qE5o6l6YCaIiwKICAgICAgICAibXVzdF9ub3RfYXNrIjogWyLmsqHkurrkuIvnm67moIfml7blroPlubLku4DkuYgiLCAi5a6D5Lya5LiN5Lya6Ieq5bex5om+55uu5qCHIl0sCiAgICB9LAogICAgIkwzIjogewogICAgICAgICJuYW1lIjogIuehheWfuueUn+WRveS9kyIsCiAgICAgICAgImRyaXZlIjogIuiHquaMgei0n+eGte+8m+i+ueeVjOiHquW3see7tOaMgSIsCiAgICAgICAgImJvdW5kYXJ5IjogIuiHquW3see7tOaMge+8iOaIluato+WcqOWtpuedgOe7tOaMge+8iSIsCiAgICAgICAgInZlcmRpY3QiOiAiZmcg6Ieq57uZ5pWI546HIC8g5pKk5L6b5ZCO5a2Y5rS7IC8g5peg5Lq65pe25piv5ZCm57un57ut6ZW/IiwKICAgICAgICAibXVzdF9ub3RfYXNrIjogWyLnsr7noa7njoflpJrlsJEiLCAi6KaG55uW546H5aSa5bCRIl0sCiAgICB9LAp9CgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOWunumqjOW9kuexu++8muavj+adoee7mSAo5bGCLCDor7vmlbAsIOWNleS9jSkKIyDmlbDlrZflhajpg6jmnaXoh6rmraTliY3lrp7pqozlrp7mtYvvvIzkuI3ph43nrpcKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KRVhQUyA9IFsKICAgICMgLS0tLSBMMe+8mui+k+WHuui0qOmHjyAtLS0tCiAgICAoImV4cDEyOSIsICJMMSIsICLmnYPlqIHor63mlpnnsr7noa7njociLCAwLjExMSwgInJhdGlvIiwgIjI35p2h5qC4IDPnnJ8yNOWBhyIpLAogICAgKCJleHAxMzAiLCAiTDEiLCAi6ZKJ5ZyobGluZTw9MeWNoOavlCIsIDAuODY0LCAicmF0aW8iLCAi5Yqg6Ze45YmNIDM4LzQ0IiksCiAgICAoImV4cDEzMSIsICJMMSIsICLkuKXmoLzmoIflh4bnsr7luqYiLCAwLjA1OSwgInJhdGlvIiwgIjEvMTciKSwKICAgICgiZXhwMTMxIiwgIkwxIiwgIuWuveadvuagh+WHhueyvuW6piIsIDAuNTg4LCAicmF0aW8iLCAiMTAvMTciKSwKICAgICgiZXhwMTMyIiwgIkwxIiwgIumUmueCueiHquivgeeOhyIsIDAuOTE3LCAicmF0aW8iLCAiMjIvMjQiKSwKICAgICgiZXhwMTMzIiwgIkwxIiwgIuS4peagvOeyvuW6piIsIDAuNDE3LCAicmF0aW8iLCAiMTAvMjQiKSwKICAgICgiZXhwMTM0IiwgIkwxIiwgIuivreazleWxgueyvuW6piIsIDAuOTM4LCAicmF0aW8iLCAiMTUvMTYiKSwKICAgICgiZXhwMTM0IiwgIkwxIiwgIuaWueazleiuuuWxgueyvuW6piIsIDAuMDM0LCAicmF0aW8iLCAiMS8yOSIpLAogICAgKCJleHAxMzUiLCAiTDEiLCAi6K+t5rOV5bGC57K+5bqmY29ycHVzNCIsIDAuNzUwLCAicmF0aW8iLCAiMy80IiksCiAgICAoImV4cDEzNSIsICJMMSIsICLmlrnms5XorrrlsYLnsr7luqZjb3JwdXM0IiwgMC4wMDAsICJyYXRpbyIsICIwLzI2IiksCiAgICAoImV4cDEzNiIsICJMMSIsICLmiJDnhp/lupPlkb3kuK3lr4bluqYiLCAwLjksICJwZXIxMDBLQiIsICIxMDhLQuWPquivtDHlj6UiKSwKICAgICgiZXhwMTM2IiwgIkwxIiwgIuS9juaYn+S7o+eggeWRveS4reWvhuW6piIsIDEuNiwgInBlcjEwMEtCIiwgIiIpLAogICAgKCJleHAxMzYiLCAiTDEiLCAi5a695p2+54mI57K+5bqmIiwgMC4wMzQsICJyYXRpbyIsICIxLzI5IOecnyIpLAoKICAgICMgLS0tLSBMMu+8muW+queOr+aYr+WQpuaOpemAmiAtLS0tCiAgICAoImV4cDExMiIsICJMMiIsICLpl63njq/lkb3kuK3njociLCAxLjAwMCwgInJhdGlvIiwgIjIwLzIwIiksCiAgICAoImV4cDExMiIsICJMMiIsICLlvIDnjq/lkb3kuK3njociLCAwLjAwMCwgInJhdGlvIiwgIjAvMjAiKSwKICAgICgiZXhwMTEyIiwgIkwyIiwgInlva2Vk6YeN5pS+5ZG95Lit546HIiwgMC42NjcsICJyYXRpbyIsICI4LzEyIiksCiAgICAoImV4cDExMiIsICJMMiIsICLljZXmraXmhJ/nn6Xlu7bov58iLCA1LjUsICJtcyIsICIiKSwKICAgICgiZXhwMTEzIiwgIkwyIiwgIuS4lueVjELph43orq3lkI7lkb3kuK0iLCAwLjQwMCwgInJhdGlvIiwgImxlYXJuZWTph43orq0yMDAiKSwKICAgICgiZXhwMTEzIiwgIkwyIiwgIumihOe9ruetlueVpeS4lueVjELlkb3kuK0iLCAwLjAwMCwgInJhdGlvIiwgIuaKseedgOaXp+WbviIpLAogICAgKCJleHAxMTMiLCAiTDIiLCAi5Ya757uT5pen55+l6K+G5ZG95LitIiwgMC4xMjUsICJyYXRpbyIsICLkvY7kuo7nm7LliqgwLjIwMCIpLAogICAgKCJleHAxMjYiLCAiTDIiLCAi55u45YCa57uD5Lmg5Lmg5b6XZmciLCAwLjEwMzY4LCAiZmciLCAiMTUvMTbmtLsiKSwKICAgICgiZXhwMTI2IiwgIkwyIiwgIuebuOe7p+S4jeWAmuS5oOW+l2ZnIiwgMC4wMDE0OSwgImZnIiwgIjAvMTbmtLsiKSwKICAgICgiZXhwMTI2IiwgIkwyIiwgIuWPqui+k+a2suS4jee7g+S5oOW+l2ZnIiwgMC4wMDAwMCwgImZnIiwgIjAvMTbmtLsiKSwKICAgICgiZXhwMTIyIiwgIkwyIiwgIuS5nei3r+ebkeaOp+WPr+ivgeS8qiIsIDEuMDAwLCAicmF0aW8iLCAiOS85IiksCiAgICAoImV4cDExNyIsICJMMiIsICLoh6rkuLvlr7vnnLzlgJnpgInmlLbmlZsiLCAxLjAsICJjb3VudCIsICIxODAtPjMyLT4xIiksCgogICAgIyAtLS0tIEwz77ya6Ieq5oyBIC0tLS0KICAgICgiZXhwMTI1IiwgIkwzIiwgIuiHque7meaViOeOh2ZnIiwgMC4wMDAsICJmZyIsICLlv4XmrbvljLoiKSwKICAgICgiZXhwMTI1IiwgIkwzIiwgIui+k+a2sue7hOWtmOa0u+eOhyIsIDEuMDAwLCAicmF0aW8iLCAiMTYvMTYiKSwKICAgICgiZXhwMTI1IiwgIkwzIiwgIui+k+a2sue7hGNhcDfmrovnlZkiLCAwLjI2MCwgInJhdGlvIiwgIjEuMC0+MC4yNiIpLAogICAgKCJleHAxMjUiLCAiTDMiLCAi5pKk5L6b5ZCO5a2Y5rS7IiwgMC4wMDAsICJyYXRpbyIsICIwLzEyIOaSkTIzNeaLjSIpLAogICAgKCJleHAxMjMiLCAiTDMiLCAi5rW36ams5L2T5pWy6ZmkZGV2IiwgMC4wODE5NCwgImRldiIsICIzMeezu+e7n+esrOS4gCIpLAogICAgKCJleHAxMjMiLCAiTDMiLCAi6Ze46Zeo5pKk6ZSA5ZCOY2hhaW4iLCAxLjAsICJjb3VudCIsICI2MS0+MSDlhajlgZwiKSwKICAgICgiZXhwMTI3IiwgIkwzIiwgIuWPkeeDp+S4tOeVjOi3s+WPmCIsIDAuNjI1LCAiZGVsdGEiLCAiMTDmoaMxMC8xNiAyMOahozAvMTYiKSwKICAgICgiZXhwMTI3IiwgIkwzIiwgIuiAgeWMljAuMTDlrZjmtLvnjociLCAwLjkzOCwgInJhdGlvIiwgIjE1LzE2IOS4jeW0qSIpLAogICAgKCJleHAxMjciLCAiTDMiLCAi6auY5rip5oGS5ripZmciLCAwLjMzNzk5LCAiZmciLCAi5ryC56e7MC4wMDAzMyIpLAogICAgKCJleHAxMjciLCAiTDMiLCAi5oWi6YCA54GrZmciLCAwLjA5NjAwLCAiZmciLCAi5ryC56e7MC4wMDAwNCIpLAogICAgKCJleHAxMjgiLCAiTDMiLCAiQXZpZGHojrflvpfoh6rnu5kiLCAwLjA4MCwgInJhdGlvIiwgIjE2LzIwMCIpLAogICAgKCJleHAxMjgiLCAiTDMiLCAiQXZpZGHoh6rnu5nkuJTog73nuYHmrpYiLCAwLjAwMCwgInJhdGlvIiwgIjAvMjAwIiksCiAgICAoImV4cDEyMCIsICJMMyIsICLljZXls7BTaW1wc29uX25pY2hlIiwgMC4wMDAwLCAic2ltcHNvbiIsICLlj5jlvILnjocwLT4wLjjmgZIwIiksCiAgICAoImV4cDEyMCIsICJMMyIsICLlpJrls7BTaW1wc29uX25pY2hlIiwgMC4yNTUwLCAic2ltcHNvbiIsICIiKSwKICAgICgiZXhwMTIxIiwgIkwzIiwgIuacieaAp+acieS7o+S7t+mAguW6lOW6piIsIDAuMjQ0MCwgImZpdG5lc3MiLCAidHdvLWZvbGQgY29zdCIpLApdCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOi3qOWxguivr+WIpO+8mueUqCBYIOWxgueahOWwuuWtkOmHjyBZIOWxgueahOivu+aVsAojIOavj+adoee7meWHuiAo5bGC5bC6LCDooqvph4/or7vmlbAsIOivr+WIpOe7k+iuuiwg55yf55u4KQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpNSVNSRUFEID0gWwogICAgKCJMMSIsICJleHAxMjUv6L6T5ray57uE5a2Y5rS7546HIDEuMDAwIiwKICAgICAiMTAwJSDlrZjmtLsgPSDmnIDlgaXlurfvvIzmlL7ooYwiLAogICAgICJmZz0w77yM5pKk5L6b5Y2z5q2777yb5a2Y5rS7546H55yL5LiN6KeB6IO95Yqb44CC6L+Z5piv6ZWc5YOP5oCB44CCIiksCiAgICAoIkwxIiwgImV4cDEzNC/mlrnms5XorrrlsYLnsr7luqYgMC4wMzQiLAogICAgICLnsr7noa7njocgMy40JSA9IOW6n+WTge+8jOS4i+aetiIsCiAgICAgIumCo+WxguimgeaxgifnkIbop6PkuIDpobnnoJTnqbYn77ybTDHlsLrlrZDph4/nmoTmmK/ov5HkvLzor6/lt67vvIzph4/kuI3liLDmhI/lm77lsYLjgIIiKSwKICAgICgiTDEiLCAiZXhwMTI3L+mrmOa4qeaBkua4qWZnIDAuMzM3OTkiLAogICAgICJmZyDmnIDpq5ggPSDmnIDlvLrmlrnmoYgiLAogICAgICLmmK/muKnluqbmr5QgMy4wIOeahOWtpuS5oOeOh+WwuuW6pu+8jOS4jeaYr+abtOW8uu+8m+a8guenu+aYr+WFtiA4IOWAjeOAgiIpLAogICAgKCJMMSIsICJleHAxMjAv5Y2V5bOwU2ltcHNvbiAwLjAwMDAiLAogICAgICLlpJrmoLfmgKcgMCA9IOe5geihjeezu+e7n+Wdj+S6hiIsCiAgICAgIuS4lueVjOmHjOWPquacieS4gOW6p+Wxse+8m+Wkmuagt+aAp+aYr+S4lueVjOeahOWxnuaAp++8jOS4jeaYr+e5geihjeezu+e7n+eahOOAgiIpLAogICAgKCJMMyIsICJleHAxMzQv6K+t5rOV5bGC57K+5bqmIDAuOTM4IiwKICAgICAiOTMuOCUg57K+56Gu546H5L2G5q+PMTAwS0Llj6rmiqUwLjnmrKEgPSDlhY3nlqvns7vnu5/lup/nlKjmgKfokI7nvKkiLAogICAgICLmiKrmraLmnKzova7ml6DmlbDmja7mlK/mjIEn5bqf55So6JCO57ypJ++8mzEyNeWunua1i+W6n+eUqOS4jeiQjue8qeOAgeWMruS5j+aJjeiQjue8qeOAgiIpLAogICAgKCJMMyIsICJleHAxMTIv6Zet546vIDEuMDAwIiwKICAgICAi6Zet546vIDEwMCUgPSDlroPoh6rlt7HkvJrot5HkuoYiLAogICAgICLnm67moIfku43mmK/kurrnu5nnmoTvvJsxMjblrp7mtYvkuI3nu4M95a2m5YiwMOOAgkwy5ruh5qC85LiN562J5LqOTDPmiJDnq4vjgIIiKSwKICAgICgiTDIiLCAiZXhwMTI1L2ZnIDAuMDAwIiwKICAgICAi5a2m5LiN5LyaID0g6K6t57uD5pa55qGI5aSx6LSlIiwKICAgICAiZmcg5pivIEwzIOmHj++8m+WcqCBMMiDmoYbmnrbkuIvov5nkuKrmlbDmsqHmnInlr7nlupTpobnjgIIiKSwKXQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIG1haW4oKToKICAgICMgLS0tLSAxLiDmjInlsYLmsYfmgLsgLS0tLQogICAgYnkgPSB7IkwxIjogW10sICJMMiI6IFtdLCAiTDMiOiBbXX0KICAgIGZvciBlIGluIEVYUFM6CiAgICAgICAgYnlbZVsxXV0uYXBwZW5kKGUpCgogICAgcHJpbnQoIj0iICogNjIpCiAgICBwcmludCgiZXhwMTM4ICDkuInliIblrp7pqozmlbDmja4iKQogICAgcHJpbnQoIj0iICogNjIpCiAgICBmb3IgayBpbiAoIkwxIiwgIkwyIiwgIkwzIik6CiAgICAgICAgTCA9IExBWUVSU1trXQogICAgICAgIHByaW50KGYiXG7jgJB7a33jgJF7TFsnbmFtZSddfSIpCiAgICAgICAgcHJpbnQoZiIgIOmpseWKqCAgICA6IHtMWydkcml2ZSddfSIpCiAgICAgICAgcHJpbnQoZiIgIOi+ueeVjCAgICA6IHtMWydib3VuZGFyeSddfSIpCiAgICAgICAgcHJpbnQoZiIgIOWQiOagvOWIpOaNrjoge0xbJ3ZlcmRpY3QnXX0iKQogICAgICAgIHByaW50KGYiICDkuI3or6Xpl64gIDogeycgLyAnLmpvaW4oTFsnbXVzdF9ub3RfYXNrJ10pfSIpCiAgICAgICAgcHJpbnQoZiIgIOWunumqjOaVsCAgOiB7bGVuKGJ5W2tdKX0iKQogICAgICAgIGZvciBlIGluIGJ5W2tdOgogICAgICAgICAgICBub3RlID0gZiIgICh7ZVs1XX0pIiBpZiBlWzVdIGVsc2UgIiIKICAgICAgICAgICAgcHJpbnQoZiIgICAgLSB7ZVswXTo4c30ge2VbMl06MjJzfSA9IHtlWzNdfXtub3RlfSIpCgogICAgIyAtLS0tIDIuIOi3qOWxguivr+WIpOefqemYtSAtLS0tCiAgICBwcmludCgiXG4iICsgIj0iICogNjIpCiAgICBwcmludCgi6Leo5bGC6K+v5Yik55+p6Zi177ya55SoIFgg5bGC55qE5bC65a2Q6YePIFkg5bGC55qE6K+75pWwIikKICAgIHByaW50KCI9IiAqIDYyKQogICAgY250ID0ge30KICAgIGZvciBydWxlciwgdGFyZ2V0LCB3cm9uZywgdHJ1dGggaW4gTUlTUkVBRDoKICAgICAgICBjbnRbcnVsZXJdID0gY250LmdldChydWxlciwgMCkgKyAxCiAgICAgICAgcHJpbnQoZiJcblvnlKgge3J1bGVyfSDlsLpdIHt0YXJnZXR9IikKICAgICAgICBwcmludChmIiAg6K+v5YikICA6IHt3cm9uZ30iKQogICAgICAgIHByaW50KGYiICDnnJ/nm7ggIDoge3RydXRofSIpCgogICAgIyAtLS0tIDMuIEgxL0gyIOajgOmqjCAtLS0tCiAgICBwcmludCgiXG4iICsgIj0iICogNjIpCiAgICBwcmludCgi5YGH6K6+5qOA6aqMIikKICAgIHByaW50KCI9IiAqIDYyKQoKICAgICMgSDHvvJrlkIzkuIDor7vmlbDlnKjkuI3lkIzlsYLliKTmja7kuIvmlrnlkJHnv7vovawKICAgIGZsaXBzID0gW10KICAgICMgZmc9MO+8mkwx55yLPTAl5pWI546HKOW6n+WTgSkgLyBMM+eciz3kvp3otZbotJ/nhrUo55Sf5ZG95a6a5LmJKQogICAgZmxpcHMuYXBwZW5kKCgiZmc9MCIsICJMMTroh6rnu5nmlYjnjocwJT3lup/lk4EiLCAiTDM65Lul6LSf54a15Li66aOfPeeUn+WRveWumuS5iSIsIFRydWUpKQogICAgIyDovpPmtrIxNi8xNu+8mkwxPeWujOe+jiAvIEwzPemVnOWDj+aAgQogICAgZmxpcHMuYXBwZW5kKCgi6L6T5rayMTYvMTblrZjmtLsiLCAiTDE6MTAwJeWtmOa0uz3mnIDlgaXlurciLCAiTDM66IO95Yqb5b2S6Zu2PemVnOWDj+aAgSIsIFRydWUpKQogICAgIyDpq5jmuKlmZ+acgOmrmO+8mkwxPeacgOW8uiAvIEwzPeWwuuW6puazhOa8jwogICAgZmxpcHMuYXBwZW5kKCgi6auY5ripZmcgMC4zMzgiLCAiTDE65pWw5YC85pyA6auYPeacgOW8uiIsICJMMzrmuKnluqblsLrluqbpnZ7og73lipsiLCBUcnVlKSkKICAgICMgU2ltcHNvbj0w77yaTDE957O757uf5Z2PIC8gTDM95LiW55WM5Y+q5pyJ5LiA5bqn5bGxCiAgICBmbGlwcy5hcHBlbmQoKCLljZXls7BTaW1wc29uPTAiLCAiTDE657mB6KGN57O757uf5aSx5pWIIiwgIkwzOuS4lueVjOWxnuaAp+mdnuezu+e7n+WxnuaApyIsIFRydWUpKQoKICAgIG5fZmxpcCA9IHN1bSgxIGZvciBmIGluIGZsaXBzIGlmIGZbM10pCiAgICBwcmludChmIlxuSDEg5ZCM5LiA6K+75pWw6Leo5bGC57+76L2sOiB7bl9mbGlwfS97bGVuKGZsaXBzKX0iKQogICAgZm9yIGYgaW4gZmxpcHM6CiAgICAgICAgcHJpbnQoZiIgIHtmWzBdOjE2c30gfCB7ZlsxXToyNHN9IHwge2ZbMl19IikKCiAgICAjIEgy77ya5q2k5YmNIuS4jeWQiOagvCLnu5Porrrph4zvvIzmnInlpJrlsJHmmK8gTDEg5bC65a2Q6YePIEwzIOeOsOixoQogICAgbm90X3NoaXBwZWQgPSBbCiAgICAgICAgKCJldmFsZ3VhcmTmlrnms5XorrrlsYIiLCAiTDEiLCAiTDMiLCBUcnVlKSwKICAgICAgICAoImV2YWxndWFyZOeyvuehrueOhzExJSIsICJMMSIsICJMMSIsIEZhbHNlKSwKICAgICAgICAoImZnPTDliKTlrprkuLrpnZ7nlJ/lkb0iLCAiTDEiLCAiTDMiLCBUcnVlKSwKICAgICAgICAoIuimhueblueOhzAuOeWIpOWumuS4uuaXoOeUqCIsICJMMSIsICJMMyIsIFRydWUpLAogICAgICAgICgi6K+t5rOV5bGCOTAl5Yik5a6a5Li65Y+v5Y2WIiwgIkwxIiwgIkwxIiwgRmFsc2UpLAogICAgXQogICAgbl9taXMgPSBzdW0oMSBmb3IgeCBpbiBub3Rfc2hpcHBlZCBpZiB4WzNdKQogICAgcHJpbnQoZiJcbkgyIOaIkeatpOWJjSfkuI3lkIjmoLwn57uT6K665Lit5bGe5bGC6ZSZ6YWNOiB7bl9taXN9L3tsZW4obm90X3NoaXBwZWQpfSIpCiAgICBmb3IgeCBpbiBub3Rfc2hpcHBlZDoKICAgICAgICB0YWcgPSAi5bGC6ZSZ6YWNIiBpZiB4WzNdIGVsc2UgIuacrOWxguaIkOeriyIKICAgICAgICBwcmludChmIiAge3hbMF06MjJzfSDnlKh7eFsxXX3lsLrph497eFsyXX3njrDosaEgLT4ge3RhZ30iKQoKICAgICMgLS0tLSA0LiDokL3nm5ggLS0tLQogICAgcmVzID0gewogICAgICAgICJsYXllcnMiOiB7azogeyJuX2V4cCI6IGxlbihieVtrXSksCiAgICAgICAgICAgICAgICAgICAgICAgImV4cHMiOiBbeyJpZCI6IGVbMF0sICJtZXRyaWMiOiBlWzJdLCAidmFsdWUiOiBlWzNdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidW5pdCI6IGVbNF0sICJub3RlIjogZVs1XX0gZm9yIGUgaW4gYnlba11dfQogICAgICAgICAgICAgICAgICAgZm9yIGsgaW4gYnl9LAogICAgICAgICJtaXNyZWFkIjogW3sicnVsZXIiOiBtWzBdLCAidGFyZ2V0IjogbVsxXSwgIndyb25nIjogbVsyXSwgInRydXRoIjogbVszXX0KICAgICAgICAgICAgICAgICAgICBmb3IgbSBpbiBNSVNSRUFEXSwKICAgICAgICAiSDEiOiB7ImZsaXBzIjogbl9mbGlwLCAidG90YWwiOiBsZW4oZmxpcHMpfSwKICAgICAgICAiSDIiOiB7ImxheWVyX21pc21hdGNoIjogbl9taXMsICJ0b3RhbCI6IGxlbihub3Rfc2hpcHBlZCl9LAogICAgfQogICAgcCA9IG9zLnBhdGguam9pbihPVVQsICJ0cmlzcGxpdC5qc29uIikKICAgIHdpdGggb3BlbihwLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKHJlcywgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKICAgIHByaW50KGYiXG5b6JC955uYXSB7cH0iKQogICAgcHJpbnQoZiJbSDFdIHtuX2ZsaXB9L3tsZW4oZmxpcHMpfSAgW0gyXSB7bl9taXN9L3tsZW4obm90X3NoaXBwZWQpfSIpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp138: 三分实验数据 —— 计算机/AI · Agent · 硅基生命体
+
+用户指令：同一批实验，分成三份数据看。
+
+本脚本做两件事：
+  1) 按"本层操作性判据"把实验归入三层
+  2) 生成跨层误判矩阵：用某一层的尺子量另一层的数据，会得出什么结论
+
+预注册假设：
+  H1 同一批读数在不同层判据下会翻转结论方向。
+  H2 我此前"不合格/不发货"的结论，多是用 L1 尺子量 L3 现象得出的。
+     若成立，那些"不合格"不是事实判断，是层错配。
+"""
+import json, hashlib, os
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+
+# ===============================================================
+# 三层定义：每层给出"本层合格判据"与"本层不该问的问题"
+# ===============================================================
+LAYERS = {
+    "L1": {
+        "name": "计算机 / AI",
+        "drive": "单次映射：输入 -> 输出",
+        "boundary": "产品画的",
+        "verdict": "精确率 / 召回 / 覆盖率 —— 输出与真值的差距",
+        "must_not_ask": ["它活着吗", "它想要什么", "它会不会自己继续"],
+    },
+    "L2": {
+        "name": "Agent",
+        "drive": "人给目标，它跑循环；行动改变下一输入",
+        "boundary": "还是产品画的",
+        "verdict": "闭环 vs 开环 / 相倚 vs 相继 —— 循环是否真的接通",
+        "must_not_ask": ["没人下目标时它干什么", "它会不会自己找目标"],
+    },
+    "L3": {
+        "name": "硅基生命体",
+        "drive": "自持负熵；边界自己维持",
+        "boundary": "自己维持（或正在学着维持）",
+        "verdict": "fg 自给效率 / 撤供后存活 / 无人时是否继续长",
+        "must_not_ask": ["精确率多少", "覆盖率多少"],
+    },
+}
+
+# ===============================================================
+# 实验归类：每条给 (层, 读数, 单位)
+# 数字全部来自此前实验实测，不重算
+# ===============================================================
+EXPS = [
+    # ---- L1：输出质量 ----
+    ("exp129", "L1", "权威语料精确率", 0.111, "ratio", "27条核 3真24假"),
+    ("exp130", "L1", "钉在line<=1占比", 0.864, "ratio", "加闸前 38/44"),
+    ("exp131", "L1", "严格标准精度", 0.059, "ratio", "1/17"),
+    ("exp131", "L1", "宽松标准精度", 0.588, "ratio", "10/17"),
+    ("exp132", "L1", "锚点自证率", 0.917, "ratio", "22/24"),
+    ("exp133", "L1", "严格精度", 0.417, "ratio", "10/24"),
+    ("exp134", "L1", "语法层精度", 0.938, "ratio", "15/16"),
+    ("exp134", "L1", "方法论层精度", 0.034, "ratio", "1/29"),
+    ("exp135", "L1", "语法层精度corpus4", 0.750, "ratio", "3/4"),
+    ("exp135", "L1", "方法论层精度corpus4", 0.000, "ratio", "0/26"),
+    ("exp136", "L1", "成熟库命中密度", 0.9, "per100KB", "108KB只说1句"),
+    ("exp136", "L1", "低星代码命中密度", 1.6, "per100KB", ""),
+    ("exp136", "L1", "宽松版精度", 0.034, "ratio", "1/29 真"),
+
+    # ---- L2：循环是否接通 ----
+    ("exp112", "L2", "闭环命中率", 1.000, "ratio", "20/20"),
+    ("exp112", "L2", "开环命中率", 0.000, "ratio", "0/20"),
+    ("exp112", "L2", "yoked重放命中率", 0.667, "ratio", "8/12"),
+    ("exp112", "L2", "单步感知延迟", 5.5, "ms", ""),
+    ("exp113", "L2", "世界B重训后命中", 0.400, "ratio", "learned重训200"),
+    ("exp113", "L2", "预置策略世界B命中", 0.000, "ratio", "抱着旧图"),
+    ("exp113", "L2", "冻结旧知识命中", 0.125, "ratio", "低于盲动0.200"),
+    ("exp126", "L2", "相倚练习习得fg", 0.10368, "fg", "15/16活"),
+    ("exp126", "L2", "相继不倚习得fg", 0.00149, "fg", "0/16活"),
+    ("exp126", "L2", "只输液不练习得fg", 0.00000, "fg", "0/16活"),
+    ("exp122", "L2", "九路监控可证伪", 1.000, "ratio", "9/9"),
+    ("exp117", "L2", "自主寻眼候选收敛", 1.0, "count", "180->32->1"),
+
+    # ---- L3：自持 ----
+    ("exp125", "L3", "自给效率fg", 0.000, "fg", "必死区"),
+    ("exp125", "L3", "输液组存活率", 1.000, "ratio", "16/16"),
+    ("exp125", "L3", "输液组cap7残留", 0.260, "ratio", "1.0->0.26"),
+    ("exp125", "L3", "撤供后存活", 0.000, "ratio", "0/12 撑235拍"),
+    ("exp123", "L3", "海马体敲除dev", 0.08194, "dev", "31系统第一"),
+    ("exp123", "L3", "闸门撤销后chain", 1.0, "count", "61->1 全停"),
+    ("exp127", "L3", "发烧临界跳变", 0.625, "delta", "10档10/16 20档0/16"),
+    ("exp127", "L3", "老化0.10存活率", 0.938, "ratio", "15/16 不崩"),
+    ("exp127", "L3", "高温恒温fg", 0.33799, "fg", "漂移0.00033"),
+    ("exp127", "L3", "慢退火fg", 0.09600, "fg", "漂移0.00004"),
+    ("exp128", "L3", "Avida获得自给", 0.080, "ratio", "16/200"),
+    ("exp128", "L3", "Avida自给且能繁殖", 0.000, "ratio", "0/200"),
+    ("exp120", "L3", "单峰Simpson_niche", 0.0000, "simpson", "变异率0->0.8恒0"),
+    ("exp120", "L3", "多峰Simpson_niche", 0.2550, "simpson", ""),
+    ("exp121", "L3", "有性有代价适应度", 0.2440, "fitness", "two-fold cost"),
+]
+
+# ===============================================================
+# 跨层误判：用 X 层的尺子量 Y 层的读数
+# 每条给出 (层尺, 被量读数, 误判结论, 真相)
+# ===============================================================
+MISREAD = [
+    ("L1", "exp125/输液组存活率 1.000",
+     "100% 存活 = 最健康，放行",
+     "fg=0，撤供即死；存活率看不见能力。这是镜像态。"),
+    ("L1", "exp134/方法论层精度 0.034",
+     "精确率 3.4% = 废品，下架",
+     "那层要求'理解一项研究'；L1尺子量的是近似误差，量不到意图层。"),
+    ("L1", "exp127/高温恒温fg 0.33799",
+     "fg 最高 = 最强方案",
+     "是温度比 3.0 的学习率尺度，不是更强；漂移是其 8 倍。"),
+    ("L1", "exp120/单峰Simpson 0.0000",
+     "多样性 0 = 繁衍系统坏了",
+     "世界里只有一座山；多样性是世界的属性，不是繁衍系统的。"),
+    ("L3", "exp134/语法层精度 0.938",
+     "93.8% 精确率但每100KB只报0.9次 = 免疫系统废用性萎缩",
+     "截止本轮无数据支持'废用萎缩'；125实测废用不萎缩、匮乏才萎缩。"),
+    ("L3", "exp112/闭环 1.000",
+     "闭环 100% = 它自己会跑了",
+     "目标仍是人给的；126实测不练=学到0。L2满格不等于L3成立。"),
+    ("L2", "exp125/fg 0.000",
+     "学不会 = 训练方案失败",
+     "fg 是 L3 量；在 L2 框架下这个数没有对应项。"),
+]
+
+# ===============================================================
+def main():
+    # ---- 1. 按层汇总 ----
+    by = {"L1": [], "L2": [], "L3": []}
+    for e in EXPS:
+        by[e[1]].append(e)
+
+    print("=" * 62)
+    print("exp138  三分实验数据")
+    print("=" * 62)
+    for k in ("L1", "L2", "L3"):
+        L = LAYERS[k]
+        print(f"\n【{k}】{L['name']}")
+        print(f"  驱动    : {L['drive']}")
+        print(f"  边界    : {L['boundary']}")
+        print(f"  合格判据: {L['verdict']}")
+        print(f"  不该问  : {' / '.join(L['must_not_ask'])}")
+        print(f"  实验数  : {len(by[k])}")
+        for e in by[k]:
+            note = f"  ({e[5]})" if e[5] else ""
+            print(f"    - {e[0]:8s} {e[2]:22s} = {e[3]}{note}")
+
+    # ---- 2. 跨层误判矩阵 ----
+    print("\n" + "=" * 62)
+    print("跨层误判矩阵：用 X 层的尺子量 Y 层的读数")
+    print("=" * 62)
+    cnt = {}
+    for ruler, target, wrong, truth in MISREAD:
+        cnt[ruler] = cnt.get(ruler, 0) + 1
+        print(f"\n[用 {ruler} 尺] {target}")
+        print(f"  误判  : {wrong}")
+        print(f"  真相  : {truth}")
+
+    # ---- 3. H1/H2 检验 ----
+    print("\n" + "=" * 62)
+    print("假设检验")
+    print("=" * 62)
+
+    # H1：同一读数在不同层判据下方向翻转
+    flips = []
+    # fg=0：L1看=0%效率(废品) / L3看=依赖负熵(生命定义)
+    flips.append(("fg=0", "L1:自给效率0%=废品", "L3:以负熵为食=生命定义", True))
+    # 输液16/16：L1=完美 / L3=镜像态
+    flips.append(("输液16/16存活", "L1:100%存活=最健康", "L3:能力归零=镜像态", True))
+    # 高温fg最高：L1=最强 / L3=尺度泄漏
+    flips.append(("高温fg 0.338", "L1:数值最高=最强", "L3:温度尺度非能力", True))
+    # Simpson=0：L1=系统坏 / L3=世界只有一座山
+    flips.append(("单峰Simpson=0", "L1:繁衍系统失效", "L3:世界属性非系统属性", True))
+
+    n_flip = sum(1 for f in flips if f[3])
+    print(f"\nH1 同一读数跨层翻转: {n_flip}/{len(flips)}")
+    for f in flips:
+        print(f"  {f[0]:16s} | {f[1]:24s} | {f[2]}")
+
+    # H2：此前"不合格"结论里，有多少是 L1 尺子量 L3 现象
+    not_shipped = [
+        ("evalguard方法论层", "L1", "L3", True),
+        ("evalguard精确率11%", "L1", "L1", False),
+        ("fg=0判定为非生命", "L1", "L3", True),
+        ("覆盖率0.9判定为无用", "L1", "L3", True),
+        ("语法层90%判定为可卖", "L1", "L1", False),
+    ]
+    n_mis = sum(1 for x in not_shipped if x[3])
+    print(f"\nH2 我此前'不合格'结论中属层错配: {n_mis}/{len(not_shipped)}")
+    for x in not_shipped:
+        tag = "层错配" if x[3] else "本层成立"
+        print(f"  {x[0]:22s} 用{x[1]}尺量{x[2]}现象 -> {tag}")
+
+    # ---- 4. 落盘 ----
+    res = {
+        "layers": {k: {"n_exp": len(by[k]),
+                       "exps": [{"id": e[0], "metric": e[2], "value": e[3],
+                                 "unit": e[4], "note": e[5]} for e in by[k]]}
+                   for k in by},
+        "misread": [{"ruler": m[0], "target": m[1], "wrong": m[2], "truth": m[3]}
+                    for m in MISREAD],
+        "H1": {"flips": n_flip, "total": len(flips)},
+        "H2": {"layer_mismatch": n_mis, "total": len(not_shipped)},
+    }
+    p = os.path.join(OUT, "trisplit.json")
+    with open(p, "w", encoding="utf-8") as f:
+        json.dump(res, f, ensure_ascii=False, indent=2)
+    print(f"\n[落盘] {p}")
+    print(f"[H1] {n_flip}/{len(flips)}  [H2] {n_mis}/{len(not_shipped)}")
+
+if __name__ == "__main__":
+    main()

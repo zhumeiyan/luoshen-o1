@@ -1,1 +1,176 @@
-aW1wb3J0IGRvY2tlcgppbXBvcnQganNvbgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKZnJvbSB0eXBpbmcgaW1wb3J0IE9wdGlvbmFsCgpmcm9tIHN3ZWJlbmNoLmhhcm5lc3MuY29uc3RhbnRzIGltcG9ydCAoCiAgICBSVU5fRVZBTFVBVElPTl9MT0dfRElSLAogICAgTE9HX0lOU1RBTkNFLAogICAgTE9HX1JFUE9SVCwKICAgIExPR19URVNUX09VVFBVVCwKKQpmcm9tIHN3ZWJlbmNoLmhhcm5lc3MuaW5mcmFfZmFpbHVyZSBpbXBvcnQgVElFUl9FTlZJUk9OTUVOVCwgY2xhc3NpZnlfbG9ncwpmcm9tIHN3ZWJlbmNoLmltYWdlX2J1aWxkZXIuZG9ja2VyX3V0aWxzIGltcG9ydCBsaXN0X2ltYWdlcwoKCmRlZiBtYWtlX3J1bl9yZXBvcnQoCiAgICBwcmVkaWN0aW9uczogZGljdCwKICAgIGZ1bGxfZGF0YXNldDogbGlzdCwKICAgIHJ1bl9pZDogc3RyLAogICAgY2xpZW50OiBPcHRpb25hbFtkb2NrZXIuRG9ja2VyQ2xpZW50XSA9IE5vbmUsCikgLT4gUGF0aDoKICAgICIiIgogICAgTWFrZSBhIGZpbmFsIGV2YWx1YXRpb24gYW5kIHJ1biByZXBvcnQgb2YgdGhlIGluc3RhbmNlcyB0aGF0IGhhdmUgYmVlbiBydW4uCiAgICBBbHNvIHJlcG9ydHMgb24gaW1hZ2VzIGFuZCBjb250YWluZXJzIHRoYXQgbWF5IHN0aWxsIHJ1bm5pbmcgaWYgY2xpZW50IGlzIHByb3ZpZGVkLgoKICAgIEFyZ3M6CiAgICAgICAgcHJlZGljdGlvbnMgKGRpY3QpOiBQcmVkaWN0aW9ucyBkaWN0IGdlbmVyYXRlZCBieSB0aGUgbW9kZWwKICAgICAgICBmdWxsX2RhdGFzZXQgKGxpc3QpOiBMaXN0IG9mIGFsbCBpbnN0YW5jZXMKICAgICAgICBydW5faWQgKHN0cik6IFJ1biBJRAogICAgICAgIGNsaWVudCAoZG9ja2VyLkRvY2tlckNsaWVudCk6IERvY2tlciBjbGllbnQgKG9wdGlvbmFsKQoKICAgIFJldHVybnM6CiAgICAgICAgUGF0aCB0byByZXBvcnQgZmlsZQogICAgIiIiCiAgICAjIGluc3RhbnRpYXRlIHNldHMgdG8gc3RvcmUgSURzIG9mIGRpZmZlcmVudCBvdXRjb21lcwogICAgY29tcGxldGVkX2lkcyA9IHNldCgpCiAgICByZXNvbHZlZF9pZHMgPSBzZXQoKQogICAgZXJyb3JfaWRzID0gc2V0KCkKICAgIHVuc3RvcHBlZF9jb250YWluZXJzID0gc2V0KCkKICAgIHVucmVtb3ZlZF9pbWFnZXMgPSBzZXQoKQogICAgdW5yZXNvbHZlZF9pZHMgPSBzZXQoKQogICAgaW5jb21wbGV0ZV9pZHMgPSBzZXQoKQogICAgaW5mcmFfZmFpbHVyZV9pZHMgPSBzZXQoKQogICAgYW1iaWd1b3VzX2ZhaWx1cmVfaWRzID0gc2V0KCkKICAgICMgZ2V0IGluc3RhbmNlcyB3aXRoIGVtcHR5IHBhdGNoZXMKICAgIGVtcHR5X3BhdGNoX2lkcyA9IHNldCgpCgogICAgIyBpdGVyYXRlIHRocm91Z2ggZGF0YXNldCBhbmQgY2hlY2sgaWYgdGhlIGluc3RhbmNlIGhhcyBiZWVuIHJ1bgogICAgZm9yIGluc3RhbmNlIGluIGZ1bGxfZGF0YXNldDoKICAgICAgICBpbnN0YW5jZV9pZCA9IGluc3RhbmNlWyJpbnN0YW5jZV9pZCJdCiAgICAgICAgaWYgaW5zdGFuY2VfaWQgbm90IGluIHByZWRpY3Rpb25zOgogICAgICAgICAgICAjIHNraXAgaW5zdGFuY2VzIHdpdGhvdXQgcHJlZGljdGlvbnMKICAgICAgICAgICAgaW5jb21wbGV0ZV9pZHMuYWRkKGluc3RhbmNlX2lkKQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0aW9uc1tpbnN0YW5jZV9pZF0KICAgICAgICBpZiBwcmVkaWN0aW9uLmdldCgibW9kZWxfcGF0Y2giLCBOb25lKSBpbiBbIiIsIE5vbmVdOgogICAgICAgICAgICBlbXB0eV9wYXRjaF9pZHMuYWRkKGluc3RhbmNlX2lkKQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHJlcG9ydF9maWxlID0gKAogICAgICAgICAgICBSVU5fRVZBTFVBVElPTl9MT0dfRElSCiAgICAgICAgICAgIC8gcnVuX2lkCiAgICAgICAgICAgIC8gcHJlZGljdGlvblsibW9kZWxfbmFtZV9vcl9wYXRoIl0ucmVwbGFjZSgiLyIsICJfXyIpCiAgICAgICAgICAgIC8gcHJlZGljdGlvblsiaW5zdGFuY2VfaWQiXQogICAgICAgICAgICAvIExPR19SRVBPUlQKICAgICAgICApCiAgICAgICAgaWYgcmVwb3J0X2ZpbGUuZXhpc3RzKCk6CiAgICAgICAgICAgICMgSWYgcmVwb3J0IGZpbGUgZXhpc3RzLCB0aGVuIHRoZSBpbnN0YW5jZSBoYXMgYmVlbiBydW4KICAgICAgICAgICAgY29tcGxldGVkX2lkcy5hZGQoaW5zdGFuY2VfaWQpCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGNvbnRlbnQgPSByZXBvcnRfZmlsZS5yZWFkX3RleHQoKS5zdHJpcCgpCiAgICAgICAgICAgICAgICBpZiBub3QgY29udGVudDogICMgRW1wdHkgZmlsZQogICAgICAgICAgICAgICAgICAgIGVycm9yX2lkcy5hZGQoaW5zdGFuY2VfaWQpCiAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICByZXBvcnQgPSBqc29uLmxvYWRzKGNvbnRlbnQpCiAgICAgICAgICAgICAgICBpZiByZXBvcnRbaW5zdGFuY2VfaWRdWyJyZXNvbHZlZCJdOgogICAgICAgICAgICAgICAgICAgICMgUmVjb3JkIGlmIHRoZSBpbnN0YW5jZSB3YXMgcmVzb2x2ZWQKICAgICAgICAgICAgICAgICAgICByZXNvbHZlZF9pZHMuYWRkKGluc3RhbmNlX2lkKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB1bnJlc29sdmVkX2lkcy5hZGQoaW5zdGFuY2VfaWQpCiAgICAgICAgICAgIGV4Y2VwdCAoanNvbi5KU09ORGVjb2RlRXJyb3IsIEtleUVycm9yKToKICAgICAgICAgICAgICAgICMgSWYgdGhlIHJlcG9ydCBmaWxlIGlzIG5vdCB2YWxpZCBKU09OIG9yIG1pc3Npbmcga2V5cywgdHJlYXQgYXMgZXJyb3IKICAgICAgICAgICAgICAgIGVycm9yX2lkcy5hZGQoaW5zdGFuY2VfaWQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBPdGhlcndpc2UsIHRoZSBpbnN0YW5jZSB3YXMgbm90IHJ1biBzdWNjZXNzZnVsbHkKICAgICAgICAgICAgZXJyb3JfaWRzLmFkZChpbnN0YW5jZV9pZCkKCiAgICAjIENsYXNzaWZ5IHdoeSB0aGUgbm9uLXJlc29sdmVkIGluc3RhbmNlcyBmYWlsZWQgKCM1ODYpLiBQdXJlbHkgYWRkaXRpdmU6CiAgICAjIHRoZXNlIGlkcyBzdGF5IGluIHVucmVzb2x2ZWRfaWRzL2Vycm9yX2lkcywgc28gdGhlIGRlbm9taW5hdG9yIGlzIHVuY2hhbmdlZC4KICAgIGluZnJhX2ZhaWx1cmVfcmVhc29ucyA9IHt9CiAgICBmb3IgaW5zdGFuY2VfaWQgaW4gdW5yZXNvbHZlZF9pZHMgfCBlcnJvcl9pZHM6CiAgICAgICAgcHJlZGljdGlvbiA9IHByZWRpY3Rpb25zW2luc3RhbmNlX2lkXQogICAgICAgIGluc3RhbmNlX2xvZ19kaXIgPSAoCiAgICAgICAgICAgIFJVTl9FVkFMVUFUSU9OX0xPR19ESVIKICAgICAgICAgICAgLyBydW5faWQKICAgICAgICAgICAgLyBwcmVkaWN0aW9uWyJtb2RlbF9uYW1lX29yX3BhdGgiXS5yZXBsYWNlKCIvIiwgIl9fIikKICAgICAgICAgICAgLyBpbnN0YW5jZV9pZAogICAgICAgICkKICAgICAgICBjbGFzc2lmaWNhdGlvbiA9IGNsYXNzaWZ5X2xvZ3MoCiAgICAgICAgICAgIGluc3RhbmNlX2xvZ19kaXIgLyBMT0dfVEVTVF9PVVRQVVQsIGluc3RhbmNlX2xvZ19kaXIgLyBMT0dfSU5TVEFOQ0UKICAgICAgICApCiAgICAgICAgaWYgY2xhc3NpZmljYXRpb246CiAgICAgICAgICAgIHJlYXNvbiwgdGllciA9IGNsYXNzaWZpY2F0aW9uCiAgICAgICAgICAgIGluZnJhX2ZhaWx1cmVfcmVhc29uc1tpbnN0YW5jZV9pZF0gPSByZWFzb24KICAgICAgICAgICAgaWYgdGllciA9PSBUSUVSX0VOVklST05NRU5UOgogICAgICAgICAgICAgICAgaW5mcmFfZmFpbHVyZV9pZHMuYWRkKGluc3RhbmNlX2lkKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgYW1iaWd1b3VzX2ZhaWx1cmVfaWRzLmFkZChpbnN0YW5jZV9pZCkKCiAgICBpZiBjbGllbnQ6CiAgICAgICAgIyBnZXQgcmVtYWluaW5nIGltYWdlcyBhbmQgY29udGFpbmVycwogICAgICAgIGltYWdlcyA9IGxpc3RfaW1hZ2VzKGNsaWVudCkKICAgICAgICBmb3IgaW5zdGFuY2UgaW4gZnVsbF9kYXRhc2V0OgogICAgICAgICAgICBpbWFnZV9uYW1lID0gaW5zdGFuY2UuZ2V0KCJpbWFnZSIsICIiKQogICAgICAgICAgICBpZiBpbWFnZV9uYW1lIGluIGltYWdlczoKICAgICAgICAgICAgICAgIHVucmVtb3ZlZF9pbWFnZXMuYWRkKGltYWdlX25hbWUpCiAgICAgICAgY29udGFpbmVycyA9IGNsaWVudC5jb250YWluZXJzLmxpc3QoYWxsPVRydWUpCiAgICAgICAgZm9yIGNvbnRhaW5lciBpbiBjb250YWluZXJzOgogICAgICAgICAgICBpZiBydW5faWQgaW4gY29udGFpbmVyLm5hbWU6CiAgICAgICAgICAgICAgICB1bnN0b3BwZWRfY29udGFpbmVycy5hZGQoY29udGFpbmVyLm5hbWUpCgogICAgIyBwcmludCBmaW5hbCByZXBvcnQKICAgIGRhdGFzZXRfaWRzID0ge2lbImluc3RhbmNlX2lkIl0gZm9yIGkgaW4gZnVsbF9kYXRhc2V0fQogICAgcHJpbnQoZiJUb3RhbCBpbnN0YW5jZXM6IHtsZW4oZnVsbF9kYXRhc2V0KX0iKQogICAgcHJpbnQoZiJJbnN0YW5jZXMgc3VibWl0dGVkOiB7bGVuKHNldChwcmVkaWN0aW9ucy5rZXlzKCkpICYgZGF0YXNldF9pZHMpfSIpCiAgICBwcmludChmIkluc3RhbmNlcyBjb21wbGV0ZWQ6IHtsZW4oY29tcGxldGVkX2lkcyl9IikKICAgIHByaW50KGYiSW5zdGFuY2VzIGluY29tcGxldGU6IHtsZW4oaW5jb21wbGV0ZV9pZHMpfSIpCiAgICBwcmludChmIkluc3RhbmNlcyByZXNvbHZlZDoge2xlbihyZXNvbHZlZF9pZHMpfSIpCiAgICBwcmludChmIkluc3RhbmNlcyB1bnJlc29sdmVkOiB7bGVuKHVucmVzb2x2ZWRfaWRzKX0iKQogICAgcHJpbnQoZiJJbnN0YW5jZXMgd2l0aCBsaWtlbHkgaW5mcmFzdHJ1Y3R1cmUgZmFpbHVyZXM6IHtsZW4oaW5mcmFfZmFpbHVyZV9pZHMpfSIpCiAgICBwcmludChmIkluc3RhbmNlcyB3aXRoIGFtYmlndW91cyBmYWlsdXJlczoge2xlbihhbWJpZ3VvdXNfZmFpbHVyZV9pZHMpfSIpCiAgICBwcmludChmIkluc3RhbmNlcyB3aXRoIGVtcHR5IHBhdGNoZXM6IHtsZW4oZW1wdHlfcGF0Y2hfaWRzKX0iKQogICAgcHJpbnQoZiJJbnN0YW5jZXMgd2l0aCBlcnJvcnM6IHtsZW4oZXJyb3JfaWRzKX0iKQogICAgaWYgY2xpZW50OgogICAgICAgIHByaW50KGYiVW5zdG9wcGVkIGNvbnRhaW5lcnM6IHtsZW4odW5zdG9wcGVkX2NvbnRhaW5lcnMpfSIpCiAgICAgICAgcHJpbnQoZiJVbnJlbW92ZWQgaW1hZ2VzOiB7bGVuKHVucmVtb3ZlZF9pbWFnZXMpfSIpCgogICAgIyB3cml0ZSByZXBvcnQgdG8gZmlsZQogICAgcmVwb3J0ID0gewogICAgICAgICJ0b3RhbF9pbnN0YW5jZXMiOiBsZW4oZnVsbF9kYXRhc2V0KSwKICAgICAgICAic3VibWl0dGVkX2luc3RhbmNlcyI6IGxlbihwcmVkaWN0aW9ucyksCiAgICAgICAgImNvbXBsZXRlZF9pbnN0YW5jZXMiOiBsZW4oY29tcGxldGVkX2lkcyksCiAgICAgICAgInJlc29sdmVkX2luc3RhbmNlcyI6IGxlbihyZXNvbHZlZF9pZHMpLAogICAgICAgICJ1bnJlc29sdmVkX2luc3RhbmNlcyI6IGxlbih1bnJlc29sdmVkX2lkcyksCiAgICAgICAgImluZnJhX2ZhaWx1cmVfaW5zdGFuY2VzIjogbGVuKGluZnJhX2ZhaWx1cmVfaWRzKSwKICAgICAgICAiYW1iaWd1b3VzX2ZhaWx1cmVfaW5zdGFuY2VzIjogbGVuKGFtYmlndW91c19mYWlsdXJlX2lkcyksCiAgICAgICAgImVtcHR5X3BhdGNoX2luc3RhbmNlcyI6IGxlbihlbXB0eV9wYXRjaF9pZHMpLAogICAgICAgICJlcnJvcl9pbnN0YW5jZXMiOiBsZW4oZXJyb3JfaWRzKSwKICAgICAgICAiY29tcGxldGVkX2lkcyI6IGxpc3Qoc29ydGVkKGNvbXBsZXRlZF9pZHMpKSwKICAgICAgICAiaW5jb21wbGV0ZV9pZHMiOiBsaXN0KHNvcnRlZChpbmNvbXBsZXRlX2lkcykpLAogICAgICAgICJlbXB0eV9wYXRjaF9pZHMiOiBsaXN0KHNvcnRlZChlbXB0eV9wYXRjaF9pZHMpKSwKICAgICAgICAic3VibWl0dGVkX2lkcyI6IGxpc3Qoc29ydGVkKHByZWRpY3Rpb25zLmtleXMoKSkpLAogICAgICAgICJyZXNvbHZlZF9pZHMiOiBsaXN0KHNvcnRlZChyZXNvbHZlZF9pZHMpKSwKICAgICAgICAidW5yZXNvbHZlZF9pZHMiOiBsaXN0KHNvcnRlZCh1bnJlc29sdmVkX2lkcykpLAogICAgICAgICJpbmZyYV9mYWlsdXJlX2lkcyI6IGxpc3Qoc29ydGVkKGluZnJhX2ZhaWx1cmVfaWRzKSksCiAgICAgICAgImFtYmlndW91c19mYWlsdXJlX2lkcyI6IGxpc3Qoc29ydGVkKGFtYmlndW91c19mYWlsdXJlX2lkcykpLAogICAgICAgICJmYWlsdXJlX3JlYXNvbnMiOiBkaWN0KHNvcnRlZChpbmZyYV9mYWlsdXJlX3JlYXNvbnMuaXRlbXMoKSkpLAogICAgICAgICJlcnJvcl9pZHMiOiBsaXN0KHNvcnRlZChlcnJvcl9pZHMpKSwKICAgICAgICAic2NoZW1hX3ZlcnNpb24iOiAyLAogICAgfQogICAgaWYgY2xpZW50OgogICAgICAgIHJlcG9ydC51cGRhdGUoCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJ1bnN0b3BwZWRfaW5zdGFuY2VzIjogbGVuKHVuc3RvcHBlZF9jb250YWluZXJzKSwKICAgICAgICAgICAgICAgICJ1bnN0b3BwZWRfY29udGFpbmVycyI6IGxpc3Qoc29ydGVkKHVuc3RvcHBlZF9jb250YWluZXJzKSksCiAgICAgICAgICAgICAgICAidW5yZW1vdmVkX2ltYWdlcyI6IGxpc3Qoc29ydGVkKHVucmVtb3ZlZF9pbWFnZXMpKSwKICAgICAgICAgICAgfQogICAgICAgICkKICAgICMgVGhlIHJlcG9ydCBiZWxvbmdzIHdpdGggdGhlIHJ1bidzIG90aGVyIGFydGlmYWN0cywgYW5kIGFsd2F5cyBnb2VzIHRoZXJlLgogICAgcmVwb3J0X2RpciA9IFJVTl9FVkFMVUFUSU9OX0xPR19ESVIgLyBydW5faWQKICAgIHJlcG9ydF9kaXIubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgcmVwb3J0X2ZpbGUgPSByZXBvcnRfZGlyIC8gInJlc3VsdHMuanNvbiIKICAgIHdpdGggb3BlbihyZXBvcnRfZmlsZSwgInciKSBhcyBmOgogICAgICAgIHByaW50KGpzb24uZHVtcHMocmVwb3J0LCBpbmRlbnQ9NCksIGZpbGU9ZikKICAgIHByaW50KGYiUmVwb3J0IHdyaXR0ZW4gdG8ge3JlcG9ydF9maWxlfSIpCiAgICByZXR1cm4gcmVwb3J0X2ZpbGUK
+import docker
+import json
+from pathlib import Path
+from typing import Optional
+
+from swebench.harness.constants import (
+    RUN_EVALUATION_LOG_DIR,
+    LOG_INSTANCE,
+    LOG_REPORT,
+    LOG_TEST_OUTPUT,
+)
+from swebench.harness.infra_failure import TIER_ENVIRONMENT, classify_logs
+from swebench.image_builder.docker_utils import list_images
+
+
+def make_run_report(
+    predictions: dict,
+    full_dataset: list,
+    run_id: str,
+    client: Optional[docker.DockerClient] = None,
+) -> Path:
+    """
+    Make a final evaluation and run report of the instances that have been run.
+    Also reports on images and containers that may still running if client is provided.
+
+    Args:
+        predictions (dict): Predictions dict generated by the model
+        full_dataset (list): List of all instances
+        run_id (str): Run ID
+        client (docker.DockerClient): Docker client (optional)
+
+    Returns:
+        Path to report file
+    """
+    # instantiate sets to store IDs of different outcomes
+    completed_ids = set()
+    resolved_ids = set()
+    error_ids = set()
+    unstopped_containers = set()
+    unremoved_images = set()
+    unresolved_ids = set()
+    incomplete_ids = set()
+    infra_failure_ids = set()
+    ambiguous_failure_ids = set()
+    # get instances with empty patches
+    empty_patch_ids = set()
+
+    # iterate through dataset and check if the instance has been run
+    for instance in full_dataset:
+        instance_id = instance["instance_id"]
+        if instance_id not in predictions:
+            # skip instances without predictions
+            incomplete_ids.add(instance_id)
+            continue
+        prediction = predictions[instance_id]
+        if prediction.get("model_patch", None) in ["", None]:
+            empty_patch_ids.add(instance_id)
+            continue
+        report_file = (
+            RUN_EVALUATION_LOG_DIR
+            / run_id
+            / prediction["model_name_or_path"].replace("/", "__")
+            / prediction["instance_id"]
+            / LOG_REPORT
+        )
+        if report_file.exists():
+            # If report file exists, then the instance has been run
+            completed_ids.add(instance_id)
+            try:
+                content = report_file.read_text().strip()
+                if not content:  # Empty file
+                    error_ids.add(instance_id)
+                    continue
+
+                report = json.loads(content)
+                if report[instance_id]["resolved"]:
+                    # Record if the instance was resolved
+                    resolved_ids.add(instance_id)
+                else:
+                    unresolved_ids.add(instance_id)
+            except (json.JSONDecodeError, KeyError):
+                # If the report file is not valid JSON or missing keys, treat as error
+                error_ids.add(instance_id)
+        else:
+            # Otherwise, the instance was not run successfully
+            error_ids.add(instance_id)
+
+    # Classify why the non-resolved instances failed (#586). Purely additive:
+    # these ids stay in unresolved_ids/error_ids, so the denominator is unchanged.
+    infra_failure_reasons = {}
+    for instance_id in unresolved_ids | error_ids:
+        prediction = predictions[instance_id]
+        instance_log_dir = (
+            RUN_EVALUATION_LOG_DIR
+            / run_id
+            / prediction["model_name_or_path"].replace("/", "__")
+            / instance_id
+        )
+        classification = classify_logs(
+            instance_log_dir / LOG_TEST_OUTPUT, instance_log_dir / LOG_INSTANCE
+        )
+        if classification:
+            reason, tier = classification
+            infra_failure_reasons[instance_id] = reason
+            if tier == TIER_ENVIRONMENT:
+                infra_failure_ids.add(instance_id)
+            else:
+                ambiguous_failure_ids.add(instance_id)
+
+    if client:
+        # get remaining images and containers
+        images = list_images(client)
+        for instance in full_dataset:
+            image_name = instance.get("image", "")
+            if image_name in images:
+                unremoved_images.add(image_name)
+        containers = client.containers.list(all=True)
+        for container in containers:
+            if run_id in container.name:
+                unstopped_containers.add(container.name)
+
+    # print final report
+    dataset_ids = {i["instance_id"] for i in full_dataset}
+    print(f"Total instances: {len(full_dataset)}")
+    print(f"Instances submitted: {len(set(predictions.keys()) & dataset_ids)}")
+    print(f"Instances completed: {len(completed_ids)}")
+    print(f"Instances incomplete: {len(incomplete_ids)}")
+    print(f"Instances resolved: {len(resolved_ids)}")
+    print(f"Instances unresolved: {len(unresolved_ids)}")
+    print(f"Instances with likely infrastructure failures: {len(infra_failure_ids)}")
+    print(f"Instances with ambiguous failures: {len(ambiguous_failure_ids)}")
+    print(f"Instances with empty patches: {len(empty_patch_ids)}")
+    print(f"Instances with errors: {len(error_ids)}")
+    if client:
+        print(f"Unstopped containers: {len(unstopped_containers)}")
+        print(f"Unremoved images: {len(unremoved_images)}")
+
+    # write report to file
+    report = {
+        "total_instances": len(full_dataset),
+        "submitted_instances": len(predictions),
+        "completed_instances": len(completed_ids),
+        "resolved_instances": len(resolved_ids),
+        "unresolved_instances": len(unresolved_ids),
+        "infra_failure_instances": len(infra_failure_ids),
+        "ambiguous_failure_instances": len(ambiguous_failure_ids),
+        "empty_patch_instances": len(empty_patch_ids),
+        "error_instances": len(error_ids),
+        "completed_ids": list(sorted(completed_ids)),
+        "incomplete_ids": list(sorted(incomplete_ids)),
+        "empty_patch_ids": list(sorted(empty_patch_ids)),
+        "submitted_ids": list(sorted(predictions.keys())),
+        "resolved_ids": list(sorted(resolved_ids)),
+        "unresolved_ids": list(sorted(unresolved_ids)),
+        "infra_failure_ids": list(sorted(infra_failure_ids)),
+        "ambiguous_failure_ids": list(sorted(ambiguous_failure_ids)),
+        "failure_reasons": dict(sorted(infra_failure_reasons.items())),
+        "error_ids": list(sorted(error_ids)),
+        "schema_version": 2,
+    }
+    if client:
+        report.update(
+            {
+                "unstopped_instances": len(unstopped_containers),
+                "unstopped_containers": list(sorted(unstopped_containers)),
+                "unremoved_images": list(sorted(unremoved_images)),
+            }
+        )
+    # The report belongs with the run's other artifacts, and always goes there.
+    report_dir = RUN_EVALUATION_LOG_DIR / run_id
+    report_dir.mkdir(parents=True, exist_ok=True)
+    report_file = report_dir / "results.json"
+    with open(report_file, "w") as f:
+        print(json.dumps(report, indent=4), file=f)
+    print(f"Report written to {report_file}")
+    return report_file

@@ -1,1 +1,374 @@
-IyBiYWNrZW5kL2lwZGIvX2FsZXJ0cy5weSDigJQg5rqQ5rS75oCn5ZGK6K2mOuWtmOWCqOWxgiArIOiKguWlj+iuoeeulyArIOWIpOWumueKtuaAgeacuiArIOaOqOmAgeWHuuWPoyhUYXNrIDEtNCkKIiIidXBkYXRlX2V2ZW50cyDkuovku7booajjgIHoioLlpY/mjqjlr7zkuI4gZXZhbHVhdGUg54q25oCB5py6KHN0ZGxpYiBzcWxpdGUzIOWQjOatpSzmr4/mrKHmk43kvZzmlrDov57mjqUp44CCCgrkuovku7bljoblj7LmgZLlvIAs5LiO6YCa55+l5peg5YWzKOe6puadnyAyKTpzY2hlZHVsZXIg5q+P6KeB5YaF5a655pu05paw5bCxIHJlY29yZF9ldmVudCwKb2JzZXJ2ZWRfaW50ZXJ2YWxfaCDnlKjov5EgOTAg5aSp55u46YK76Ze06ZqU5Lit5L2N5pWw5Zue562UIuivpea6kOW5s+aXtuWkmuS5heabtOS4gOasoSLjgIIKZXZhbHVhdGUg5raI6LS5IHNjaGVkdWxlciDmr4/ova7lv6vnhacscGVyIChzb3VyY2UsIGNvbmRpdGlvbikg5o6o6L+bIGFsZXJ0X3N0YXRlCijovazlhaUvMjRoIOmHjeWPkS/mgaLlpI0v6Z2Z6buY5riF55CGKeW5tue7hOijheWQiOW5tua2iOaBryjnuqbmnZ8gNC82LOS4reaWh+ehrOe8lueggSnjgIIKSVBfUkFEQVJfQUxFUlRTX0RCIOWPr+imhuebliBkYiDot6/lvoQo5rWL6K+V6YCQ55So5L6L6ZqU56a7KTvnvLrnnIHokL3lnKggX3JlZ2lzdHJ5CuaVsOaNruebruW9lShfU1RBVEVfUEFUSC5wYXJlbnQpLOS4jiBhdXRoLmRiIOWQjOe6p+OAgui/nuaOpeW3peWOguaMieino+aekOWHuueahOi3r+W+hArlrZfnrKbkuLLnvJPlrZgo5b6qIF9hdXRoLl9lbmdpbmUg5oOv5L6L5L2G5ZCM5q2l54mIKTrnlJ/kuqfljZXot6/lvoTljZXlt6XljoIsZW52IOWIhwp0bXAg5Y2z5paw6ZSuLOS6kuS4jeS4suWPsOOAguaXtumXtOe7n+S4gCBlcG9jaCDnp5LokL3lupMoYXQgUkVBTCks5a+55aSWIEFQSSDkuIDlvovlsI/ml7bjgIIKCnB1c2gg5piv5ZSv5LiA5Ye656uZ5Ye65Y+jKOe6puadnyA1KTphcHByaXNlIOWkmiBVUkwg5o6o6YCBLGVudiBJUF9SQURBUl9BTEVSVF9VUkxTCuepuiA9IOWujOWFqOS4jemAmuefpTthcHByaXNlIOaDsOaApyBpbXBvcnQoZW52IOepuuS4jSBpbXBvcnQpLOS7u+S9leW8guW4uCB3YXJuaW5nCuWQnuaOieawuOS4jSByYWlzZeKAlOKAlOi3keWcqCBzY2hlZHVsZXIg5a6I5oqk57q/56iL6YeMLOaOqOmAgeWksei0peS4jeW+l+adgOatu+iwg+W6puOAggoiIiIKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IG1hdGgKaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgc3FsaXRlMwpmcm9tIGNvbnRleHRsaWIgaW1wb3J0IGNsb3NpbmcKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gdHlwaW5nIGltcG9ydCBDYWxsYWJsZQoKZnJvbSAuIGltcG9ydCBfcmVnaXN0cnkKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKIyDlm7rlrprlj4LmlbDkuI3orr7ml4vpkq4o57qm5p2fIDgpOjkwZCDmu5rliqjnqpflj6Mv5riF55CG44CBbWluIGV2ZW50cz0144CBSz0044CBZmFpbOKJpTPjgIEyNGgg6YeN5Y+RCl9XSU5ET1dfUyA9IDkwICogODY0MDAKX01JTl9FVkVOVFMgPSA1Cl9JTlRFUlZBTF9GQUNUT1IgPSA0Cl9GQUlMX0NPVU5UID0gMwpfUkVfTk9USUZZX1MgPSA4NjQwMAoKIyBhbGVydF9zdGF0ZSDnmoQgY29uZGl0aW9uIOWPluWAvApfU1RBTEUgPSAic3RhbGUiCl9GQUlMID0gImZhaWwiCl9SRUFERVIgPSAicmVhZGVyIiAgICMgT0wtNDpwdHIg5ZyoKOW6k+W3suW7uuaIkCnkvYYgcmVhZGVyIOacquWKoOi9vShsb2FkIOaKmy9lcG9jaCDmjZ/lnY8pCl9FVkFMX1JPVU5EID0gImV2YWxfcm91bmQiICAgICAgICAjIFM2OuaciOi9ruW/g+i3s+i/h+acny/nvLrlpLEo6ZiI5YC8IDM1ZCxRMTApCl9FVkFMX1NPVVJDRSA9ICJtb250aGx5LWV2YWwiICAgICAjIFM2OuaciOi9ruW/g+i3s+WcqCBhbGVydF9zdGF0ZSDnmoTkvKrmupDlkI0KX0VWQUxfUk9VTkRfVEhSRVNIT0xEX0ggPSAzNSAqIDI0ICAjIOmYiOWAvCAzNS4wZDrmnIjova7lkajmnJ8gMzBkICsgNWQg5a655beuCgpfU0NIRU1BID0gIiIiCkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIHVwZGF0ZV9ldmVudHMgKAogIGlkIElOVEVHRVIgUFJJTUFSWSBLRVkgQVVUT0lOQ1JFTUVOVCwKICBzb3VyY2UgVEVYVCBOT1QgTlVMTCwgYXQgUkVBTCBOT1QgTlVMTCwgcmVjb3JkX2NvdW50IElOVEVHRVIpOwpDUkVBVEUgSU5ERVggSUYgTk9UIEVYSVNUUyBpeF91cGRhdGVfZXZlbnRzX3NvdXJjZV9hdCBPTiB1cGRhdGVfZXZlbnRzKHNvdXJjZSwgYXQpOwpDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBhbGVydF9zdGF0ZSAoCiAgc291cmNlIFRFWFQgTk9UIE5VTEwsIGNvbmRpdGlvbiBURVhUIE5PVCBOVUxMLCAgIC0tICdzdGFsZScgfCAnZmFpbCcgfCAncmVhZGVyJwogIGFjdGl2ZV9zaW5jZSBSRUFMIE5PVCBOVUxMLCBsYXN0X25vdGlmaWVkIFJFQUwgTk9UIE5VTEwsCiAgUFJJTUFSWSBLRVkgKHNvdXJjZSwgY29uZGl0aW9uKSk7CiIiIgoKCmRlZiBfZGJfcGF0aCgpIC0+IFBhdGg6CiAgICBlbnYgPSBvcy5lbnZpcm9uLmdldCgiSVBfUkFEQVJfQUxFUlRTX0RCIikKICAgIGlmIGVudjoKICAgICAgICByZXR1cm4gUGF0aChlbnYpCiAgICByZXR1cm4gX3JlZ2lzdHJ5Ll9TVEFURV9QQVRILnBhcmVudCAvICJhbGVydHMuZGIiCgoKZGVmIF9oZWFydGJlYXRfcGF0aCgpIC0+IFBhdGggfCBOb25lOgogICAgIiIiUzY6ZW52IElQX1JBREFSX0VWQUxfSEVBUlRCRUFUIOe7meeUn+S6p+S+p+W/g+i3s+aWh+S7tui3r+W+hOaJjeWQr+eUqOajgOafpTsKICAgIOacquiuvi/nqbog4oaSIE5vbmUgPSDkuI3mo4Dmn6Uo5paw6YOo572y6Ziy6K+v5oqlKeOAgnNjaGVkdWxlciDmr4/ova7osIPnlKjml7bop6PmnpDjgIIiIiIKICAgIGVudiA9IG9zLmVudmlyb24uZ2V0KCJJUF9SQURBUl9FVkFMX0hFQVJUQkVBVCIsICIiKQogICAgcmV0dXJuIFBhdGgoZW52KSBpZiBlbnYgZWxzZSBOb25lCgoKZGVmIGV2YWxfaGVhcnRiZWF0X2FnZV9oKGhlYXJ0YmVhdF9wYXRoOiBQYXRoIHwgTm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICBub3c6IGZsb2F0KSAtPiBmbG9hdCB8IE5vbmU6CiAgICAiIiLlv4Pot7Pmlofku7blubTpvoQo5bCP5pe2KTvot6/lvoQgTm9uZSDmiJbmlofku7bnvLov5LiN5Y+v6K+7IOKGkiBOb25l44CCCgogICAg5pe25Z+654us56uLKFM2KTrlj6rnnIvmnKzmnLogc3RhdCDnmoQgbXRpbWUg4oCU4oCUIOeUn+S6p+S+p+WRiuitpuS4jemHh+S/oeaciOi9rueuoee6vwogICAg55qE6Ieq5oql5pe26Ze044CCTm9uZSDnmoTor63kuYnnlLHosIPnlKjmlrnmjInlhaXlj4LljLrliIY66Lev5b6EIE5vbmUgPSDkuI3mo4Dmn6UKICAgIChldmFsdWF0ZSDkvY3nrYnku7fnuqLnur8pLOi3r+W+hOWcqOiAjOaWh+S7tue8uiA9IOW/g+i3s+e8uuWkseWRiuitpuOAggogICAgIiIiCiAgICBpZiBoZWFydGJlYXRfcGF0aCBpcyBOb25lOgogICAgICAgIHJldHVybiBOb25lCiAgICB0cnk6CiAgICAgICAgbXRpbWUgPSBoZWFydGJlYXRfcGF0aC5zdGF0KCkuc3RfbXRpbWUKICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIHJldHVybiBOb25lCiAgICByZXR1cm4gKG5vdyAtIG10aW1lKSAvIDM2MDAuMAoKCiMg5oyJ6Lev5b6E5a2X56ym5Liy57yT5a2Y6L+e5o6l5bel5Y6CKOS4jeaYr+i/nuaOpeacrOi6qyk657qm5p2fIDMg6KaB5rGC5q+P5qyh5pON5L2c5paw5bu6CiMgc3FsaXRlMyDov57mjqUs6YG/5YWN6Leo57q/56iL5aSN55SoO3NjaGVkdWxlciDnur/nqIvkuI4gQVBJIOe6v+eoi+S6kuS4jeWFseS6q+WPpeafhOOAggpfZmFjdG9yaWVzOiBkaWN0W3N0ciwgQ2FsbGFibGVbW10sIHNxbGl0ZTMuQ29ubmVjdGlvbl1dID0ge30KCgpkZWYgX21ha2VfZmFjdG9yeShwYXRoOiBQYXRoKSAtPiBDYWxsYWJsZVtbXSwgc3FsaXRlMy5Db25uZWN0aW9uXToKICAgIGRlZiBmYWN0b3J5KCkgLT4gc3FsaXRlMy5Db25uZWN0aW9uOgogICAgICAgIGNvbm4gPSBzcWxpdGUzLmNvbm5lY3Qoc3RyKHBhdGgpKQogICAgICAgICMg5oOw5oCn5bu66KGoOummluasoeS9v+eUqOWNs+W7uixJRiBOT1QgRVhJU1RTIOW5guetiSjnqbrlupMv5a2Y6YeP5bqT5ZCM6Lev5b6EKQogICAgICAgIGNvbm4uZXhlY3V0ZXNjcmlwdChfU0NIRU1BKQogICAgICAgIHJldHVybiBjb25uCgogICAgcmV0dXJuIGZhY3RvcnkKCgpkZWYgX2Nvbm5lY3QoKSAtPiBzcWxpdGUzLkNvbm5lY3Rpb246CiAgICBwYXRoID0gX2RiX3BhdGgoKQogICAga2V5ID0gc3RyKHBhdGgpCiAgICBmYWN0b3J5ID0gX2ZhY3Rvcmllcy5nZXQoa2V5KQogICAgaWYgZmFjdG9yeSBpcyBOb25lOgogICAgICAgIHBhdGgucGFyZW50Lm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICBmYWN0b3J5ID0gX21ha2VfZmFjdG9yeShwYXRoKQogICAgICAgIF9mYWN0b3JpZXNba2V5XSA9IGZhY3RvcnkKICAgIHJldHVybiBmYWN0b3J5KCkKCgpkZWYgcmVjb3JkX2V2ZW50KHNvdXJjZTogc3RyLCBhdDogZmxvYXQsIHJlY29yZF9jb3VudDogaW50IHwgTm9uZSA9IE5vbmUpIC0+IE5vbmU6CiAgICAiIiLorrDkuIDmrKHmupDlhoXlrrnmm7TmlrA7cmVjb3JkX2NvdW50IOe8uuecgSBOVUxMKOenjeWtkOS6i+S7tuaXoOiuoeaVsCnjgIIiIiIKICAgIHdpdGggY2xvc2luZyhfY29ubmVjdCgpKSBhcyBjb25uLCBjb25uOgogICAgICAgIGNvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgIklOU0VSVCBJTlRPIHVwZGF0ZV9ldmVudHMgKHNvdXJjZSwgYXQsIHJlY29yZF9jb3VudCkiCiAgICAgICAgICAgICIgVkFMVUVTICg/LCA/LCA/KSIsCiAgICAgICAgICAgIChzb3VyY2UsIGF0LCByZWNvcmRfY291bnQpLAogICAgICAgICkKCgpkZWYgZXZlbnRfY291bnQoc291cmNlOiBzdHIpIC0+IGludDoKICAgICIiIuivpea6kCB1cGRhdGVfZXZlbnRzIOihjOaVsOOAgnNjaGVkdWxlciDnp43lrZDliKTlrprnlKg6MCA9IOS7juacquingua1i+WIsAogICAg5q2k5rqQ55qE5YaF5a655pu05pawKHBydW5lIOa4heepuuWQjuWbnuWIsCAwLOmHjeaJq+aXtuaMieW9k+WJjSBtdGltZSDph43np40p44CCIiIiCiAgICB3aXRoIGNsb3NpbmcoX2Nvbm5lY3QoKSkgYXMgY29ubjoKICAgICAgICAobiwpID0gY29ubi5leGVjdXRlKAogICAgICAgICAgICAiU0VMRUNUIENPVU5UKCopIEZST00gdXBkYXRlX2V2ZW50cyBXSEVSRSBzb3VyY2UgPSA/IiwKICAgICAgICAgICAgKHNvdXJjZSwpKS5mZXRjaG9uZSgpCiAgICByZXR1cm4gbgoKCmRlZiBvYnNlcnZlZF9pbnRlcnZhbF9oKHNvdXJjZTogc3RyLCBub3c6IGZsb2F0KSAtPiBmbG9hdCB8IE5vbmU6CiAgICAiIiLov5EgOTAg5aSp56qX5Y+j5YaF55u46YK75LqL5Lu26Ze06ZqU5Lit5L2N5pWwKOWwj+aXtik75LqL5Lu2IDw1IOKGkiBOb25l44CCCgogICAg56qX5Y+j5LiL55WMIGF0ID49IG5vdy05MGQg5LiOIHBydW5lIOeahCBhdCA8IG5vdy05MGQg5LqS6KGlOuS6i+S7tuS4jeS8muS4gOi+uQogICAg6K6h5YWl6IqC5aWP5LiA6L656KKr5riF5o6J44CCCiAgICAiIiIKICAgIHdpdGggY2xvc2luZyhfY29ubmVjdCgpKSBhcyBjb25uOgogICAgICAgIHJvd3MgPSBjb25uLmV4ZWN1dGUoCiAgICAgICAgICAgICJTRUxFQ1QgYXQgRlJPTSB1cGRhdGVfZXZlbnRzIFdIRVJFIHNvdXJjZSA9ID8gQU5EIGF0ID49ID8iCiAgICAgICAgICAgICIgT1JERVIgQlkgYXQiLAogICAgICAgICAgICAoc291cmNlLCBub3cgLSBfV0lORE9XX1MpLAogICAgICAgICkuZmV0Y2hhbGwoKQogICAgYXRzID0gW3JbMF0gZm9yIHIgaW4gcm93c10KICAgIGlmIGxlbihhdHMpIDwgX01JTl9FVkVOVFM6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGdhcHMgPSBzb3J0ZWQoYiAtIGEgZm9yIGEsIGIgaW4gemlwKGF0cywgYXRzWzE6XSkpCiAgICBuID0gbGVuKGdhcHMpCiAgICBtaWQgPSBuIC8vIDIKICAgIG1lZGlhbl9zID0gZ2Fwc1ttaWRdIGlmIG4gJSAyIGVsc2UgKGdhcHNbbWlkIC0gMV0gKyBnYXBzW21pZF0pIC8gMgogICAgcmV0dXJuIG1lZGlhbl9zIC8gMzYwMC4wCgoKZGVmIHN0YWxsX3RocmVzaG9sZF9oKHN0YWxlX2RheXM6IGludCwgb2JzZXJ2ZWRfaDogZmxvYXQgfCBOb25lKSAtPiBmbG9hdDoKICAgICIiIm1heChzdGFsZV9kYXlzw5cyNCwgb2JzZXJ2ZWTDlzQpO29ic2VydmVkPU5vbmUg4oaSIOe6ryBzdGFsZV9kYXlzKOe6puadnyAxKeOAgiIiIgogICAgb2JzZXJ2ZWRfc2lkZSA9IG9ic2VydmVkX2ggKiBfSU5URVJWQUxfRkFDVE9SIGlmIG9ic2VydmVkX2ggaXMgbm90IE5vbmUgZWxzZSAwLjAKICAgIHJldHVybiBmbG9hdChtYXgoc3RhbGVfZGF5cyAqIDI0LCBvYnNlcnZlZF9zaWRlKSkKCgpkZWYgcHJ1bmUobm93OiBmbG9hdCkgLT4gTm9uZToKICAgICIiIjkwIOWkqea7muWKqOa4heeQhijnuqbmnZ8gMik75YigIGF0IDwgbm93LTkwZCzkuI7nqpflj6PlkIznlYzkupLooaXjgIIiIiIKICAgIHdpdGggY2xvc2luZyhfY29ubmVjdCgpKSBhcyBjb25uLCBjb25uOgogICAgICAgIGNvbm4uZXhlY3V0ZSgiREVMRVRFIEZST00gdXBkYXRlX2V2ZW50cyBXSEVSRSBhdCA8ID8iLCAobm93IC0gX1dJTkRPV19TLCkpCgoKZGVmIF9mbXRfaG91cnMoaG91cnM6IGZsb2F0KSAtPiBzdHI6CiAgICAiIiLml7bplb/kuKTmoaMo57qm5p2fIDYpOjw0OGgg4oaSIOWQkeS4iuWPluaVtOaVtOaVsCArICJoIjviiaU0OGgg4oaSIOS4gOS9jeWwj+aVsCArICJkIuOAgiIiIgogICAgaWYgaG91cnMgPCA0ODoKICAgICAgICByZXR1cm4gZiJ7bWF0aC5jZWlsKGhvdXJzKX1oIgogICAgcmV0dXJuIGYie2hvdXJzIC8gMjQ6LjFmfWQiCgoKZGVmIGV2YWx1YXRlKHNuYXBzaG90czogbGlzdFtkaWN0XSwgbm93OiBmbG9hdCwKICAgICAgICAgICAgIGV2YWxfaGVhcnRiZWF0OiBQYXRoIHwgTm9uZSA9IE5vbmUpIC0+IGRpY3QgfCBOb25lOgogICAgIiIi5raI6LS5IHNjaGVkdWxlciDmr4/ova7lv6vnhacs5o6o6L+bIGFsZXJ0X3N0YXRlIOW5tue7hOijheacrOi9ruWQiOW5tua2iOaBr+OAggoKICAgIHNuYXBzaG90IOavj+mhuTp7Im5hbWUiLCAic3RhbGVfZGF5cyIsICJjb250ZW50X2FnZV9oIihOb25lPeaXoOaWh+S7tuKGkuinhuS4uiDiiJ4pLAogICAgImZhaWxfY291bnQiKOe8uuecgSAwKSwgImZhaWxfa2luZCIo57y655yBICIiPeaXp+OAjOi/nue7reWksei0pSDDl07jgI3pgJrnlKgKICAgIOaWh+ahiDsiZG93bmxvYWQiLyJyZWJ1aWxkIiDliIbmiqXkuIvovb0v5p6E5bu65aSx6LSlLDIwMjYtMTAtMTcg55So5oi36KOB5a6aKSwKICAgICJmYWlsX2tpbmRfY291bnQiKOe8uuecgSA9IGZhaWxfY291bnQ66YCQIGtpbmQg6L+e6LSl5pWw5Y+q6amx5YqoIMOXTiDmlofmoYgsCiAgICDiiaUzIOWRiuitpuadoeS7tuS7jeeciyBmYWlsX2NvdW50IOaAu+aVsOKAlOKAlOijgeWumuS/rjpraW5kIOWIh+aNouS4jeS4i+WBh+OAjOW3suaBouWkjeOAjSksCiAgICAicmVhZGVyX2Vycm9yIijnvLrnnIEgRmFsc2U6cHRyIOWcqOiAjCByZWFkZXIg5pyq5Yqg6L29LAogICAgT0wtNCBlcG9jaCDmjZ/lnY/pmY3nuqfkv6Hlj7cpfeOAgnBlciAoc291cmNlLCBjb25kaXRpb24pIOeKtuaAgeacuijnuqbmnZ8gNCk6CiAgICDovazlhaXlnY8g4oaSIElOU0VSVCBhY3RpdmVfc2luY2UvbGFzdF9ub3RpZmllZD1ub3cg5bm26K6h5YWlO+aMgee7reWdj+S4lAogICAgbm93LWxhc3Rfbm90aWZpZWQg4omlIDI0aCDihpIg5Yi35pawIGxhc3Rfbm90aWZpZWQg5bm26K6h5YWlKOmHjeWPkSk75oGi5aSNIOKGkgogICAgREVMRVRFLOa6kOWQjeWFpeaBouWkjeautTvlv6vnhafkuK3mtojlpLHnmoTmupAo6KKr56aB55SoKeKGkiDpnZnpu5ggREVMRVRF44CCCiAgICDmnKzova7ml6DorqHlhaXkuJTml6DmgaLlpI0g4oaSIE5vbmUo5LiN5Lqn55Sf56m65raI5oGvKTvmgaLlpI0tb25seSDova7moIfpopgKICAgICJpcHJhZGFyOiB7a30g5rqQ5bey5oGi5aSNIuOAgueKtuaAgeWPque7jyBEQiDkvKDpgJIs6L+b56iL6YeN5ZCv6Ieq54S257ut6LeR44CCCgogICAgZXZhbF9oZWFydGJlYXQoUzYvUTEwKTrnlJ/kuqfkvqfmnIjova7lv4Pot7Pmlofku7bot6/lvoQ7Tm9uZSjnvLrnnIEpPQogICAg5pW05q615LiN5qOA5p+lLOihjOS4uuS4juWOhuWPsumAkOS9jeWQjCjkvY3nrYnku7fnuqLnur8s5pei5pyJ5rWL6K+V6Zu25pS55YqoKeOAggogICAg57uZ6Lev5b6E5omN5p+lOj4zNWQg5oiW5paH5Lu257y6IOKGkiDkvKrmupAgIm1vbnRobHktZXZhbCIg6K6h5YWlIF9FVkFMX1JPVU5ECiAgICDooYws6YeN5Y+R5oqR5Yi25b6q5ZCM5LiAIDI0aCDmnLrliLY75bm06b6E5Y+q6K6k5paH5Lu2IG10aW1lLOS4jeS/oeeuoee6v+iHquaKpeOAggogICAgIiIiCiAgICBpbnNlcnRzOiBsaXN0W3R1cGxlW3N0ciwgc3RyXV0gPSBbXQogICAgcmVmaXJlczogbGlzdFt0dXBsZVtzdHIsIHN0cl1dID0gW10KICAgIGRlbGV0ZXM6IGxpc3RbdHVwbGVbc3RyLCBzdHJdXSA9IFtdCiAgICBzdGFsZV9saW5lczogbGlzdFt0dXBsZVtzdHIsIHN0cl1dID0gW10gICMgKOa6kOWQjSwg6KGMKeKAlOKAlOe7hOWGheaMiea6kOWQjeaOkuW6jwogICAgZmFpbF9saW5lczogbGlzdFt0dXBsZVtzdHIsIHN0cl1dID0gW10KICAgIHJlYWRlcl9saW5lczogbGlzdFt0dXBsZVtzdHIsIHN0cl1dID0gW10KICAgIHJlY292ZXJlZDogc2V0W3N0cl0gPSBzZXQoKQogICAgZXZhbF9saW5lOiBzdHIgfCBOb25lID0gTm9uZSAgIyBTNjrmnKzova7orqHlhaXmtojmga/nmoTmnIjova7lv4Pot7PooYwo5peg6K6h5YWlPU5vbmUpCgogICAgd2l0aCBjbG9zaW5nKF9jb25uZWN0KCkpIGFzIGNvbm46CiAgICAgICAgZXhpc3RpbmcgPSB7CiAgICAgICAgICAgIChzb3VyY2UsIGNvbmQpOiBsYXN0X25vdGlmaWVkCiAgICAgICAgICAgIGZvciBzb3VyY2UsIGNvbmQsIGxhc3Rfbm90aWZpZWQgaW4gY29ubi5leGVjdXRlKAogICAgICAgICAgICAgICAgIlNFTEVDVCBzb3VyY2UsIGNvbmRpdGlvbiwgbGFzdF9ub3RpZmllZCBGUk9NIGFsZXJ0X3N0YXRlIikKICAgICAgICB9CiAgICAgICAgc2Vlbjogc2V0W3N0cl0gPSBzZXQoKQogICAgICAgIGZvciBzbmFwIGluIHNuYXBzaG90czoKICAgICAgICAgICAgbmFtZSA9IHNuYXBbIm5hbWUiXQogICAgICAgICAgICBpZiBuYW1lIGluIHNlZW46ICAjIOWQjOWQjeW/q+eFp+WPquWPlummluS4qizpmLLph43lpI0gSU5TRVJUIOaSnuS4u+mUrgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgc2Vlbi5hZGQobmFtZSkKICAgICAgICAgICAgc3RhbGVfZGF5cyA9IHNuYXBbInN0YWxlX2RheXMiXQogICAgICAgICAgICBhZ2VfaCA9IHNuYXAuZ2V0KCJjb250ZW50X2FnZV9oIikKICAgICAgICAgICAgZmFpbF9jb3VudCA9IHNuYXAuZ2V0KCJmYWlsX2NvdW50IiwgMCkKICAgICAgICAgICAgIyBvYnNlcnZlZCDotbDni6znq4vlj6ror7vov57mjqU65pys6L+e5o6l5q2k5Yi75pyq5byA5YaZ5LqL5YqhLOS6kuS4jemYu+WhngogICAgICAgICAgICBvYnNlcnZlZCA9IG9ic2VydmVkX2ludGVydmFsX2gobmFtZSwgbm93KQogICAgICAgICAgICB0aHIgPSBzdGFsbF90aHJlc2hvbGRfaChzdGFsZV9kYXlzLCBvYnNlcnZlZCkKCiAgICAgICAgICAgIGNvdW50ZWQgPSBzZXQoKSAgIyDmnKzmupDmnKzova7orqHlhaXmtojmga/nmoTmnaHku7YKICAgICAgICAgICAgZm9yIGNvbmQsIGJhZCBpbiAoCiAgICAgICAgICAgICAgICAoX1NUQUxFLCBhZ2VfaCBpcyBOb25lIG9yIGFnZV9oID4gdGhyKSwgICMgTm9uZSA9IOaXoOaWh+S7tiDihpIg4oieIOW/heinpuWPkQogICAgICAgICAgICAgICAgKF9GQUlMLCBmYWlsX2NvdW50ID49IF9GQUlMX0NPVU5UKSwKICAgICAgICAgICAgICAgIChfUkVBREVSLCBzbmFwLmdldCgicmVhZGVyX2Vycm9yIiwgRmFsc2UpKSwKICAgICAgICAgICAgKToKICAgICAgICAgICAgICAgIGtleSA9IChuYW1lLCBjb25kKQogICAgICAgICAgICAgICAgaWYgYmFkOgogICAgICAgICAgICAgICAgICAgIGlmIGtleSBub3QgaW4gZXhpc3Rpbmc6CiAgICAgICAgICAgICAgICAgICAgICAgIGluc2VydHMuYXBwZW5kKGtleSkKICAgICAgICAgICAgICAgICAgICAgICAgY291bnRlZC5hZGQoY29uZCkKICAgICAgICAgICAgICAgICAgICBlbGlmIG5vdyAtIGV4aXN0aW5nW2tleV0gPj0gX1JFX05PVElGWV9TOgogICAgICAgICAgICAgICAgICAgICAgICByZWZpcmVzLmFwcGVuZChrZXkpCiAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50ZWQuYWRkKGNvbmQpCiAgICAgICAgICAgICAgICBlbGlmIGtleSBpbiBleGlzdGluZzoKICAgICAgICAgICAgICAgICAgICBkZWxldGVzLmFwcGVuZChrZXkpCiAgICAgICAgICAgICAgICAgICAgcmVjb3ZlcmVkLmFkZChuYW1lKQoKICAgICAgICAgICAgaWYgX1NUQUxFIGluIGNvdW50ZWQ6CiAgICAgICAgICAgICAgICBhZ2Vfc3RyID0gIuS7juacqiIgaWYgYWdlX2ggaXMgTm9uZSBlbHNlIF9mbXRfaG91cnMoYWdlX2gpCiAgICAgICAgICAgICAgICBpZiBvYnNlcnZlZCBpcyBub3QgTm9uZSBhbmQgXAogICAgICAgICAgICAgICAgICAgICAgICBvYnNlcnZlZCAqIF9JTlRFUlZBTF9GQUNUT1IgPiBzdGFsZV9kYXlzICogMjQ6CiAgICAgICAgICAgICAgICAgICAgbGluZSA9IChmIntuYW1lfTog5YGc5pu05auM55aRKHthZ2Vfc3RyfSDmnKrlj5gsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZiLlrp7mtYsge19mbXRfaG91cnMob2JzZXJ2ZWQpfS/mrKEpIikKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgbGluZSA9IChmIntuYW1lfTog6L+H5pyfKOS4iuasoeWGheWuueabtOaWsCB7YWdlX3N0cn0sIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZiLpmIjlgLwge19mbXRfaG91cnModGhyKX0pIikKICAgICAgICAgICAgICAgIHN0YWxlX2xpbmVzLmFwcGVuZCgobmFtZSwgbGluZSkpCiAgICAgICAgICAgIGlmIF9GQUlMIGluIGNvdW50ZWQ6CiAgICAgICAgICAgICAgICAjIDIwMjYtMTAtMTcg55So5oi36KOB5a6aOua6kOebkeaOp+WRiuitpumhu+ivtOa4heaMgueahOaYr+WTquS4gOeOr+KAlOKAlOS4i+i9vQogICAgICAgICAgICAgICAgIyDlpLHotKXlsLHmiqXkuIvovb3lpLHotKUs5p6E5bu65aSx6LSl5bCx5oql5p6E5bu65aSx6LSl44CCw5dOIOWPo+W+hCjoo4Hlrprkv64sCiAgICAgICAgICAgICAgICAjIOWPjOiuoeaVsCk6a2luZCDlnKgg4oaSIOmAkCBraW5kIOi/nui0peaVsCBmYWlsX2tpbmRfY291bnQo5YiH5o2i6YeN5b2SCiAgICAgICAgICAgICAgICAjIDE74omlMyDmnaHku7bku43nnIsgZmFpbF9jb3VudCDmgLvmlbAsa2luZCDkuK3pgJTliIfmjaLkuI3kuIvlgYfjgIzlt7LmgaLlpI3jgI0pOwogICAgICAgICAgICAgICAgIyBraW5kIOepui/nvLrplK4g4oaSIOaXpyBmYWlsX2NvdW50IOWPo+W+hCjkvY3nrYnku7flm57pgIAp44CCY29uZGl0aW9uCiAgICAgICAgICAgICAgICAjIOS7jeS4uiAiZmFpbCIoREIg5YW85a65OueUn+S6p+WtmOmHjyAoc291cmNlLCdmYWlsJykg6KGM5peg6L+B56e7LOmmluasoQogICAgICAgICAgICAgICAgIyAyNGgg6YeN5Y+R5Y2z5oyJ5b2T5YmNIGtpbmQg5riy5p+TKTvmnKrnn6Uv57y655yBIGtpbmQg5Zue6YCA5pen6YCa55SoCiAgICAgICAgICAgICAgICAjIOaWh+ahiCjml6LmnInosIPnlKjmlrkv5rWL6K+V5L2N562J5Lu3KeOAggogICAgICAgICAgICAgICAga2luZCA9IHNuYXAuZ2V0KCJmYWlsX2tpbmQiLCAiIikKICAgICAgICAgICAgICAgIG4gPSBzbmFwLmdldCgiZmFpbF9raW5kX2NvdW50IiwgZmFpbF9jb3VudCkgaWYga2luZCBlbHNlIGZhaWxfY291bnQKICAgICAgICAgICAgICAgIGlmIGtpbmQgPT0gImRvd25sb2FkIjoKICAgICAgICAgICAgICAgICAgICBmYWlsX2xpbmVzLmFwcGVuZCgobmFtZSwgZiJ7bmFtZX06IOS4i+i9vei/nue7reWksei0pSDDl3tufSIpKQogICAgICAgICAgICAgICAgZWxpZiBraW5kID09ICJyZWJ1aWxkIjoKICAgICAgICAgICAgICAgICAgICBmYWlsX2xpbmVzLmFwcGVuZCgobmFtZSwgZiJ7bmFtZX06IOaehOW7uui/nue7reWksei0pSDDl3tufSIpKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBmYWlsX2xpbmVzLmFwcGVuZCgobmFtZSwgZiJ7bmFtZX06IOi/nue7reWksei0pSDDl3tmYWlsX2NvdW50fSIpKQogICAgICAgICAgICBpZiBfUkVBREVSIGluIGNvdW50ZWQ6CiAgICAgICAgICAgICAgICByZWFkZXJfbGluZXMuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgIChuYW1lLCBmIntuYW1lfTog5pWw5o2u5bqT5pyq5Yqg6L29KOeWkSBlcG9jaCDmjZ/lnY8pLOafpeivouerr+mdmem7mOe8uuW4rSIpKQoKICAgICAgICAjIOKUgOKUgCBTNihRMTApOuaciOi9ruW/g+i3s+adoeS7tiDigJTigJQg5Lyq5rqQICJtb250aGx5LWV2YWwiIOWNleadoeS7tueKtuaAgeacuiDilIDilIAKICAgICAgICAjIOaXtuWfuueLrOerizrlj6rorqTnlJ/kuqfkvqfmlofku7YgbXRpbWUoZXZhbF9oZWFydGJlYXRfYWdlX2gpLOS4jeS/oQogICAgICAgICMg5pyI6L2u6Ieq5oqlO2VudiDmnKrorr4o6Lev5b6EIE5vbmUp5pW05q616Lez6L+HID0g5paw6YOo572y6Zu26K+v5oql44CCCiAgICAgICAgaWYgZXZhbF9oZWFydGJlYXQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGFnZV9oID0gZXZhbF9oZWFydGJlYXRfYWdlX2goZXZhbF9oZWFydGJlYXQsIG5vdykKICAgICAgICAgICAga2V5ID0gKF9FVkFMX1NPVVJDRSwgX0VWQUxfUk9VTkQpCiAgICAgICAgICAgIGNvdW50ZWQgPSBGYWxzZQogICAgICAgICAgICBpZiBhZ2VfaCBpcyBOb25lIG9yIGFnZV9oID4gX0VWQUxfUk9VTkRfVEhSRVNIT0xEX0g6CiAgICAgICAgICAgICAgICBpZiBrZXkgbm90IGluIGV4aXN0aW5nOgogICAgICAgICAgICAgICAgICAgIGluc2VydHMuYXBwZW5kKGtleSkKICAgICAgICAgICAgICAgICAgICBjb3VudGVkID0gVHJ1ZQogICAgICAgICAgICAgICAgZWxpZiBub3cgLSBleGlzdGluZ1trZXldID49IF9SRV9OT1RJRllfUzoKICAgICAgICAgICAgICAgICAgICByZWZpcmVzLmFwcGVuZChrZXkpCiAgICAgICAgICAgICAgICAgICAgY291bnRlZCA9IFRydWUKICAgICAgICAgICAgICAgICMgZWxzZToyNGgg5oqR5Yi25pyfLOeKtuaAgeS/neeVmeS9huacrOi9ruS4jeWFpea2iOaBrwogICAgICAgICAgICBlbGlmIGtleSBpbiBleGlzdGluZzoKICAgICAgICAgICAgICAgIGRlbGV0ZXMuYXBwZW5kKGtleSkKICAgICAgICAgICAgICAgIHJlY292ZXJlZC5hZGQoX0VWQUxfU09VUkNFKQogICAgICAgICAgICBpZiBjb3VudGVkOgogICAgICAgICAgICAgICAgZXZhbF9saW5lID0gKAogICAgICAgICAgICAgICAgICAgICLmnIjova7lv4Pot7PnvLrlpLEo6ZiI5YC8IDM1LjBkKSIgaWYgYWdlX2ggaXMgTm9uZQogICAgICAgICAgICAgICAgICAgIGVsc2UgZiLmnIjova7ov4fmnJ8oe19mbXRfaG91cnMoYWdlX2gpfSDmnKrlv4Pot7Ms6ZiI5YC8IDM1LjBkKSIpCgogICAgICAgICMg5b+r54Wn6YeM5raI5aSx55qE5rqQKOiiq+emgeeUqCk66Z2Z6buY5riF54q25oCBLOS4jeWFpeaBouWkjeauteOAgmV2YWxfaGVhcnRiZWF0CiAgICAgICAgIyA9Tm9uZSDml7bpobrluKbpgIDlvbnpgZfnlZkgZXZhbF9yb3VuZCDooYwoZW52IOaSpOS4i+WNs+a4heeQhik75o+Q5L6b5pe26K+l6KGMCiAgICAgICAgIyDlvZLkuIrpnaLnirbmgIHmnLrnrqHovpYs5LiN5b6X6KKr5b2TIua2iOWksea6kCLor6/liKAo5ZCm5YiZ5oqR5Yi26KKr6YCQ6L2u6YeN572uKeOAggogICAgICAgIGlmIGV2YWxfaGVhcnRiZWF0IGlzIE5vbmU6CiAgICAgICAgICAgIGRlbGV0ZXMuZXh0ZW5kKGsgZm9yIGsgaW4gZXhpc3RpbmcgaWYga1swXSBub3QgaW4gc2VlbikKICAgICAgICBlbHNlOgogICAgICAgICAgICBkZWxldGVzLmV4dGVuZChrIGZvciBrIGluIGV4aXN0aW5nCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGtbMF0gbm90IGluIHNlZW4gYW5kIGsgIT0gKF9FVkFMX1NPVVJDRSwgX0VWQUxfUk9VTkQpKQoKICAgICAgICAjIOadoeS7tuWFqOmDqOeul+WujOaJjeiQveWGmTrlhYjor7vlkI7lhpks5LiA5LqL5Yqh5o+Q5LqkKOe6puadnyAzOuacrOaTjeS9nOWNlei/nuaOpSkKICAgICAgICB3aXRoIGNvbm46CiAgICAgICAgICAgIGZvciBzb3VyY2UsIGNvbmQgaW4gaW5zZXJ0czoKICAgICAgICAgICAgICAgIGNvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgICAgICAgICAiSU5TRVJUIElOVE8gYWxlcnRfc3RhdGUgKHNvdXJjZSwgY29uZGl0aW9uLCBhY3RpdmVfc2luY2UsIgogICAgICAgICAgICAgICAgICAgICIgbGFzdF9ub3RpZmllZCkgVkFMVUVTICg/LCA/LCA/LCA/KSIsIChzb3VyY2UsIGNvbmQsIG5vdywgbm93KSkKICAgICAgICAgICAgZm9yIHNvdXJjZSwgY29uZCBpbiByZWZpcmVzOgogICAgICAgICAgICAgICAgY29ubi5leGVjdXRlKAogICAgICAgICAgICAgICAgICAgICJVUERBVEUgYWxlcnRfc3RhdGUgU0VUIGxhc3Rfbm90aWZpZWQgPSA/IgogICAgICAgICAgICAgICAgICAgICIgV0hFUkUgc291cmNlID0gPyBBTkQgY29uZGl0aW9uID0gPyIsIChub3csIHNvdXJjZSwgY29uZCkpCiAgICAgICAgICAgIGZvciBzb3VyY2UsIGNvbmQgaW4gZGVsZXRlczoKICAgICAgICAgICAgICAgIGNvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgICAgICAgICAiREVMRVRFIEZST00gYWxlcnRfc3RhdGUgV0hFUkUgc291cmNlID0gPyBBTkQgY29uZGl0aW9uID0gPyIsCiAgICAgICAgICAgICAgICAgICAgKHNvdXJjZSwgY29uZCkpCgogICAgYmFkX3NvdXJjZXMgPSAoe25hbWUgZm9yIG5hbWUsIF8gaW4gc3RhbGVfbGluZXN9IHwge25hbWUgZm9yIG5hbWUsIF8gaW4gZmFpbF9saW5lc30KICAgICAgICAgICAgICAgICAgIHwge25hbWUgZm9yIG5hbWUsIF8gaW4gcmVhZGVyX2xpbmVzfSkKICAgIGlmIG5vdCBiYWRfc291cmNlcyBhbmQgbm90IHJlY292ZXJlZCBhbmQgZXZhbF9saW5lIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGxpbmVzID0gW2xpbmUgZm9yIF8sIGxpbmUgaW4gc29ydGVkKHN0YWxlX2xpbmVzKV0gXAogICAgICAgICsgW2xpbmUgZm9yIF8sIGxpbmUgaW4gc29ydGVkKGZhaWxfbGluZXMpXSBcCiAgICAgICAgKyBbbGluZSBmb3IgXywgbGluZSBpbiBzb3J0ZWQocmVhZGVyX2xpbmVzKV0KICAgIGlmIGV2YWxfbGluZSBpcyBub3QgTm9uZToKICAgICAgICBsaW5lcy5hcHBlbmQoZXZhbF9saW5lKQogICAgaWYgcmVjb3ZlcmVkOgogICAgICAgIGxpbmVzLmFwcGVuZCgi4oCU4oCU5bey5oGi5aSNOiAiICsgIiwgIi5qb2luKHNvcnRlZChyZWNvdmVyZWQpKSkKICAgIGlmIGJhZF9zb3VyY2VzOgogICAgICAgIHRpdGxlID0gZiJpcHJhZGFyOiB7bGVuKGJhZF9zb3VyY2VzKX0g5rqQ5byC5bi4IiAgIyBOPeW8guW4uOa6kOaVsCzlj4zmnaHku7blkIzmupDnrpcgMQogICAgZWxpZiBldmFsX2xpbmUgaXMgbm90IE5vbmU6CiAgICAgICAgdGl0bGUgPSAiaXByYWRhcjog5pyI6L2u5b+D6Lez5byC5bi4IiAgICMgUzY657qv5pyI6L2u6L+H5pyf6L2uKOaXoOa6kOW8guW4uCkKICAgIGVsc2U6CiAgICAgICAgdGl0bGUgPSBmImlwcmFkYXI6IHtsZW4ocmVjb3ZlcmVkKX0g5rqQ5bey5oGi5aSNIgogICAgcmV0dXJuIHsidGl0bGUiOiB0aXRsZSwgImJvZHkiOiAiXG4iLmpvaW4obGluZXMpfQoKCmRlZiBfcmVkYWN0X3VybCh1cmw6IHN0cikgLT4gc3RyOgogICAgIiIiVVJMIOiEseaVjyjnu4jlrqEgUDItMSk65Y+q55WZIHNjaGVtZSArIOWwviA0IOWtl+espuKAlOKAlGxhcms6Ly88dG9rZW4+CiAgICDnrYnlh63mja7kuI3lvpfokL3ml6Xlv5c75pegICI6Ly8iIOaIluS9meautei/h+efrSjiiaQ4KeWPqueVmSBzY2hlbWU6Ly8qKirjgIIiIiIKICAgIHNjaGVtZSwgc2VwLCByZXN0ID0gdXJsLnBhcnRpdGlvbigiOi8vIikKICAgIGlmIG5vdCBzZXA6CiAgICAgICAgcmV0dXJuICIqKioiCiAgICB0YWlsID0gZiLigKZ7cmVzdFstNDpdfSIgaWYgbGVuKHJlc3QpID4gOCBlbHNlICIqKioiCiAgICByZXR1cm4gZiJ7c2NoZW1lfTovL3t0YWlsfSIKCgpkZWYgcHVzaCh0aXRsZTogc3RyLCBib2R5OiBzdHIpIC0+IGJvb2w6CiAgICAiIiJhcHByaXNlIOaOqOmAgeWHuuWPoyjnuqbmnZ8gNSk6bm90aWZ5IOe7k+aenCBib29sKCkg5YyW6YCP5LygLOS7u+S9leW8guW4uCBGYWxzZSDkuI3mipvjgIIKCiAgICDlrp7mtYsgYXBwcmlzZSAyLjAg55qEIG5vdGlmeSgpIOi/lOWbniBBcHByaXNlUmVzdWx0IOWvueixoSzkuI3mmK8gYm9vbDsKICAgIGJvb2woKSDlj5blhbYgX19ib29sX18oc3RhdHVzPT1TVUNDRVNTKSzkuI7nrb7lkI0gLT4gYm9vbCDkuIDoh7TjgIIKCiAgICBJUF9SQURBUl9BTEVSVF9VUkxTIOmAl+WPty/nqbrnmb3liIbpmpTlpJrkuKogVVJMO+epui/mnKrorr4g4oaSIEZhbHNlIOS4lOS4jSBpbXBvcnQKICAgIGFwcHJpc2Uo5Y6G5Y+y54Wn6K6wLOWPquaYr+S4jemAmuefpSnjgILljZUgVVJMIGFkZCDlpLHotKXku4UgbG9nLmRlYnVnKOe7jwogICAgX3JlZGFjdF91cmwg6ISx5pWPKei3s+i/hyxub3RpZnkg5a+55YW25L2ZIFVSTCDnhaflj5HjgILmnKzlh73mlbDkvJrot5HlnKggc2NoZWR1bGVyIOWuiOaKpOe6v+eoi+mHjCzmlYXlhajot6/lvoQKICAgIOWQnuW8guW4uCjlkKsgYXBwcmlzZSDmnKrlronoo4XnmoQgSW1wb3J0RXJyb3IpLHdhcm5pbmcg5ZCO6L+U5ZueIEZhbHNl44CCCiAgICAiIiIKICAgIHVybHMgPSBbdSBmb3IgdSBpbiByZS5zcGxpdChyIixccyp8XHMrIiwgb3MuZW52aXJvbi5nZXQoIklQX1JBREFSX0FMRVJUX1VSTFMiLCAiIikpIGlmIHVdCiAgICBpZiBub3QgdXJsczoKICAgICAgICByZXR1cm4gRmFsc2UKICAgIHRyeToKICAgICAgICBpbXBvcnQgYXBwcmlzZSAgIyDmg7DmgKc65LuFIGVudiDpnZ7nqbrmiY0gaW1wb3J0KOe6puadnyA1KQogICAgICAgIGFwID0gYXBwcmlzZS5BcHByaXNlKCkKICAgICAgICBmb3IgdXJsIGluIHVybHM6CiAgICAgICAgICAgIGlmIG5vdCBhcC5hZGQodXJsKToKICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiYXBwcmlzZSBhZGQg5aSx6LSlLOi3s+i/h+ivpSBVUkw6ICVzIiwgX3JlZGFjdF91cmwodXJsKSkKICAgICAgICByZXR1cm4gYm9vbChhcC5ub3RpZnkodGl0bGU9dGl0bGUsIGJvZHk9Ym9keSkpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGxvZ2dlci53YXJuaW5nKCJhcHByaXNlIOaOqOmAgeWksei0pSh0aXRsZT0lcikiLCB0aXRsZSwgZXhjX2luZm89VHJ1ZSkKICAgICAgICByZXR1cm4gRmFsc2UK
+# backend/ipdb/_alerts.py — 源活性告警:存储层 + 节奏计算 + 判定状态机 + 推送出口(Task 1-4)
+"""update_events 事件表、节奏推导与 evaluate 状态机(stdlib sqlite3 同步,每次操作新连接)。
+
+事件历史恒开,与通知无关(约束 2):scheduler 每见内容更新就 record_event,
+observed_interval_h 用近 90 天相邻间隔中位数回答"该源平时多久更一次"。
+evaluate 消费 scheduler 每轮快照,per (source, condition) 推进 alert_state
+(转入/24h 重发/恢复/静默清理)并组装合并消息(约束 4/6,中文硬编码)。
+IP_RADAR_ALERTS_DB 可覆盖 db 路径(测试逐用例隔离);缺省落在 _registry
+数据目录(_STATE_PATH.parent),与 auth.db 同级。连接工厂按解析出的路径
+字符串缓存(循 _auth._engine 惯例但同步版):生产单路径单工厂,env 切
+tmp 即新键,互不串台。时间统一 epoch 秒落库(at REAL),对外 API 一律小时。
+
+push 是唯一出站出口(约束 5):apprise 多 URL 推送,env IP_RADAR_ALERT_URLS
+空 = 完全不通知;apprise 惰性 import(env 空不 import),任何异常 warning
+吞掉永不 raise——跑在 scheduler 守护线程里,推送失败不得杀死调度。
+"""
+import logging
+import math
+import os
+import re
+import sqlite3
+from contextlib import closing
+from pathlib import Path
+from typing import Callable
+
+from . import _registry
+
+logger = logging.getLogger(__name__)
+
+# 固定参数不设旋钮(约束 8):90d 滚动窗口/清理、min events=5、K=4、fail≥3、24h 重发
+_WINDOW_S = 90 * 86400
+_MIN_EVENTS = 5
+_INTERVAL_FACTOR = 4
+_FAIL_COUNT = 3
+_RE_NOTIFY_S = 86400
+
+# alert_state 的 condition 取值
+_STALE = "stale"
+_FAIL = "fail"
+_READER = "reader"   # OL-4:ptr 在(库已建成)但 reader 未加载(load 抛/epoch 损坏)
+_EVAL_ROUND = "eval_round"        # S6:月轮心跳过期/缺失(阈值 35d,Q10)
+_EVAL_SOURCE = "monthly-eval"     # S6:月轮心跳在 alert_state 的伪源名
+_EVAL_ROUND_THRESHOLD_H = 35 * 24  # 阈值 35.0d:月轮周期 30d + 5d 容差
+
+_SCHEMA = """
+CREATE TABLE IF NOT EXISTS update_events (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  source TEXT NOT NULL, at REAL NOT NULL, record_count INTEGER);
+CREATE INDEX IF NOT EXISTS ix_update_events_source_at ON update_events(source, at);
+CREATE TABLE IF NOT EXISTS alert_state (
+  source TEXT NOT NULL, condition TEXT NOT NULL,   -- 'stale' | 'fail' | 'reader'
+  active_since REAL NOT NULL, last_notified REAL NOT NULL,
+  PRIMARY KEY (source, condition));
+"""
+
+
+def _db_path() -> Path:
+    env = os.environ.get("IP_RADAR_ALERTS_DB")
+    if env:
+        return Path(env)
+    return _registry._STATE_PATH.parent / "alerts.db"
+
+
+def _heartbeat_path() -> Path | None:
+    """S6:env IP_RADAR_EVAL_HEARTBEAT 给生产侧心跳文件路径才启用检查;
+    未设/空 → None = 不检查(新部署防误报)。scheduler 每轮调用时解析。"""
+    env = os.environ.get("IP_RADAR_EVAL_HEARTBEAT", "")
+    return Path(env) if env else None
+
+
+def eval_heartbeat_age_h(heartbeat_path: Path | None,
+                          now: float) -> float | None:
+    """心跳文件年龄(小时);路径 None 或文件缺/不可读 → None。
+
+    时基独立(S6):只看本机 stat 的 mtime —— 生产侧告警不采信月轮管线
+    的自报时间。None 的语义由调用方按入参区分:路径 None = 不检查
+    (evaluate 位等价红线),路径在而文件缺 = 心跳缺失告警。
+    """
+    if heartbeat_path is None:
+        return None
+    try:
+        mtime = heartbeat_path.stat().st_mtime
+    except OSError:
+        return None
+    return (now - mtime) / 3600.0
+
+
+# 按路径字符串缓存连接工厂(不是连接本身):约束 3 要求每次操作新建
+# sqlite3 连接,避免跨线程复用;scheduler 线程与 API 线程互不共享句柄。
+_factories: dict[str, Callable[[], sqlite3.Connection]] = {}
+
+
+def _make_factory(path: Path) -> Callable[[], sqlite3.Connection]:
+    def factory() -> sqlite3.Connection:
+        conn = sqlite3.connect(str(path))
+        # 惰性建表:首次使用即建,IF NOT EXISTS 幂等(空库/存量库同路径)
+        conn.executescript(_SCHEMA)
+        return conn
+
+    return factory
+
+
+def _connect() -> sqlite3.Connection:
+    path = _db_path()
+    key = str(path)
+    factory = _factories.get(key)
+    if factory is None:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        factory = _make_factory(path)
+        _factories[key] = factory
+    return factory()
+
+
+def record_event(source: str, at: float, record_count: int | None = None) -> None:
+    """记一次源内容更新;record_count 缺省 NULL(种子事件无计数)。"""
+    with closing(_connect()) as conn, conn:
+        conn.execute(
+            "INSERT INTO update_events (source, at, record_count)"
+            " VALUES (?, ?, ?)",
+            (source, at, record_count),
+        )
+
+
+def event_count(source: str) -> int:
+    """该源 update_events 行数。scheduler 种子判定用:0 = 从未观测到
+    此源的内容更新(prune 清空后回到 0,重扫时按当前 mtime 重种)。"""
+    with closing(_connect()) as conn:
+        (n,) = conn.execute(
+            "SELECT COUNT(*) FROM update_events WHERE source = ?",
+            (source,)).fetchone()
+    return n
+
+
+def observed_interval_h(source: str, now: float) -> float | None:
+    """近 90 天窗口内相邻事件间隔中位数(小时);事件 <5 → None。
+
+    窗口下界 at >= now-90d 与 prune 的 at < now-90d 互补:事件不会一边
+    计入节奏一边被清掉。
+    """
+    with closing(_connect()) as conn:
+        rows = conn.execute(
+            "SELECT at FROM update_events WHERE source = ? AND at >= ?"
+            " ORDER BY at",
+            (source, now - _WINDOW_S),
+        ).fetchall()
+    ats = [r[0] for r in rows]
+    if len(ats) < _MIN_EVENTS:
+        return None
+    gaps = sorted(b - a for a, b in zip(ats, ats[1:]))
+    n = len(gaps)
+    mid = n // 2
+    median_s = gaps[mid] if n % 2 else (gaps[mid - 1] + gaps[mid]) / 2
+    return median_s / 3600.0
+
+
+def stall_threshold_h(stale_days: int, observed_h: float | None) -> float:
+    """max(stale_days×24, observed×4);observed=None → 纯 stale_days(约束 1)。"""
+    observed_side = observed_h * _INTERVAL_FACTOR if observed_h is not None else 0.0
+    return float(max(stale_days * 24, observed_side))
+
+
+def prune(now: float) -> None:
+    """90 天滚动清理(约束 2);删 at < now-90d,与窗口同界互补。"""
+    with closing(_connect()) as conn, conn:
+        conn.execute("DELETE FROM update_events WHERE at < ?", (now - _WINDOW_S,))
+
+
+def _fmt_hours(hours: float) -> str:
+    """时长两档(约束 6):<48h → 向上取整整数 + "h";≥48h → 一位小数 + "d"。"""
+    if hours < 48:
+        return f"{math.ceil(hours)}h"
+    return f"{hours / 24:.1f}d"
+
+
+def evaluate(snapshots: list[dict], now: float,
+             eval_heartbeat: Path | None = None) -> dict | None:
+    """消费 scheduler 每轮快照,推进 alert_state 并组装本轮合并消息。
+
+    snapshot 每项:{"name", "stale_days", "content_age_h"(None=无文件→视为 ∞),
+    "fail_count"(缺省 0), "fail_kind"(缺省 ""=旧「连续失败 ×N」通用
+    文案;"download"/"rebuild" 分报下载/构建失败,2026-10-17 用户裁定),
+    "fail_kind_count"(缺省 = fail_count:逐 kind 连败数只驱动 ×N 文案,
+    ≥3 告警条件仍看 fail_count 总数——裁定修:kind 切换不下假「已恢复」),
+    "reader_error"(缺省 False:ptr 在而 reader 未加载,
+    OL-4 epoch 损坏降级信号)}。per (source, condition) 状态机(约束 4):
+    转入坏 → INSERT active_since/last_notified=now 并计入;持续坏且
+    now-last_notified ≥ 24h → 刷新 last_notified 并计入(重发);恢复 →
+    DELETE,源名入恢复段;快照中消失的源(被禁用)→ 静默 DELETE。
+    本轮无计入且无恢复 → None(不产生空消息);恢复-only 轮标题
+    "ipradar: {k} 源已恢复"。状态只经 DB 传递,进程重启自然续跑。
+
+    eval_heartbeat(S6/Q10):生产侧月轮心跳文件路径;None(缺省)=
+    整段不检查,行为与历史逐位同(位等价红线,既有测试零改动)。
+    给路径才查:>35d 或文件缺 → 伪源 "monthly-eval" 计入 _EVAL_ROUND
+    行,重发抑制循同一 24h 机制;年龄只认文件 mtime,不信管线自报。
+    """
+    inserts: list[tuple[str, str]] = []
+    refires: list[tuple[str, str]] = []
+    deletes: list[tuple[str, str]] = []
+    stale_lines: list[tuple[str, str]] = []  # (源名, 行)——组内按源名排序
+    fail_lines: list[tuple[str, str]] = []
+    reader_lines: list[tuple[str, str]] = []
+    recovered: set[str] = set()
+    eval_line: str | None = None  # S6:本轮计入消息的月轮心跳行(无计入=None)
+
+    with closing(_connect()) as conn:
+        existing = {
+            (source, cond): last_notified
+            for source, cond, last_notified in conn.execute(
+                "SELECT source, condition, last_notified FROM alert_state")
+        }
+        seen: set[str] = set()
+        for snap in snapshots:
+            name = snap["name"]
+            if name in seen:  # 同名快照只取首个,防重复 INSERT 撞主键
+                continue
+            seen.add(name)
+            stale_days = snap["stale_days"]
+            age_h = snap.get("content_age_h")
+            fail_count = snap.get("fail_count", 0)
+            # observed 走独立只读连接:本连接此刻未开写事务,互不阻塞
+            observed = observed_interval_h(name, now)
+            thr = stall_threshold_h(stale_days, observed)
+
+            counted = set()  # 本源本轮计入消息的条件
+            for cond, bad in (
+                (_STALE, age_h is None or age_h > thr),  # None = 无文件 → ∞ 必触发
+                (_FAIL, fail_count >= _FAIL_COUNT),
+                (_READER, snap.get("reader_error", False)),
+            ):
+                key = (name, cond)
+                if bad:
+                    if key not in existing:
+                        inserts.append(key)
+                        counted.add(cond)
+                    elif now - existing[key] >= _RE_NOTIFY_S:
+                        refires.append(key)
+                        counted.add(cond)
+                elif key in existing:
+                    deletes.append(key)
+                    recovered.add(name)
+
+            if _STALE in counted:
+                age_str = "从未" if age_h is None else _fmt_hours(age_h)
+                if observed is not None and \
+                        observed * _INTERVAL_FACTOR > stale_days * 24:
+                    line = (f"{name}: 停更嫌疑({age_str} 未变,"
+                            f"实测 {_fmt_hours(observed)}/次)")
+                else:
+                    line = (f"{name}: 过期(上次内容更新 {age_str},"
+                            f"阈值 {_fmt_hours(thr)})")
+                stale_lines.append((name, line))
+            if _FAIL in counted:
+                # 2026-10-17 用户裁定:源监控告警须说清挂的是哪一环——下载
+                # 失败就报下载失败,构建失败就报构建失败。×N 口径(裁定修,
+                # 双计数):kind 在 → 逐 kind 连败数 fail_kind_count(切换重归
+                # 1;≥3 条件仍看 fail_count 总数,kind 中途切换不下假「已恢复」);
+                # kind 空/缺键 → 旧 fail_count 口径(位等价回退)。condition
+                # 仍为 "fail"(DB 兼容:生产存量 (source,'fail') 行无迁移,首次
+                # 24h 重发即按当前 kind 渲染);未知/缺省 kind 回退旧通用
+                # 文案(既有调用方/测试位等价)。
+                kind = snap.get("fail_kind", "")
+                n = snap.get("fail_kind_count", fail_count) if kind else fail_count
+                if kind == "download":
+                    fail_lines.append((name, f"{name}: 下载连续失败 ×{n}"))
+                elif kind == "rebuild":
+                    fail_lines.append((name, f"{name}: 构建连续失败 ×{n}"))
+                else:
+                    fail_lines.append((name, f"{name}: 连续失败 ×{fail_count}"))
+            if _READER in counted:
+                reader_lines.append(
+                    (name, f"{name}: 数据库未加载(疑 epoch 损坏),查询端静默缺席"))
+
+        # ── S6(Q10):月轮心跳条件 —— 伪源 "monthly-eval" 单条件状态机 ──
+        # 时基独立:只认生产侧文件 mtime(eval_heartbeat_age_h),不信
+        # 月轮自报;env 未设(路径 None)整段跳过 = 新部署零误报。
+        if eval_heartbeat is not None:
+            age_h = eval_heartbeat_age_h(eval_heartbeat, now)
+            key = (_EVAL_SOURCE, _EVAL_ROUND)
+            counted = False
+            if age_h is None or age_h > _EVAL_ROUND_THRESHOLD_H:
+                if key not in existing:
+                    inserts.append(key)
+                    counted = True
+                elif now - existing[key] >= _RE_NOTIFY_S:
+                    refires.append(key)
+                    counted = True
+                # else:24h 抑制期,状态保留但本轮不入消息
+            elif key in existing:
+                deletes.append(key)
+                recovered.add(_EVAL_SOURCE)
+            if counted:
+                eval_line = (
+                    "月轮心跳缺失(阈值 35.0d)" if age_h is None
+                    else f"月轮过期({_fmt_hours(age_h)} 未心跳,阈值 35.0d)")
+
+        # 快照里消失的源(被禁用):静默清状态,不入恢复段。eval_heartbeat
+        # =None 时顺带退役遗留 eval_round 行(env 撤下即清理);提供时该行
+        # 归上面状态机管辖,不得被当"消失源"误删(否则抑制被逐轮重置)。
+        if eval_heartbeat is None:
+            deletes.extend(k for k in existing if k[0] not in seen)
+        else:
+            deletes.extend(k for k in existing
+                           if k[0] not in seen and k != (_EVAL_SOURCE, _EVAL_ROUND))
+
+        # 条件全部算完才落写:先读后写,一事务提交(约束 3:本操作单连接)
+        with conn:
+            for source, cond in inserts:
+                conn.execute(
+                    "INSERT INTO alert_state (source, condition, active_since,"
+                    " last_notified) VALUES (?, ?, ?, ?)", (source, cond, now, now))
+            for source, cond in refires:
+                conn.execute(
+                    "UPDATE alert_state SET last_notified = ?"
+                    " WHERE source = ? AND condition = ?", (now, source, cond))
+            for source, cond in deletes:
+                conn.execute(
+                    "DELETE FROM alert_state WHERE source = ? AND condition = ?",
+                    (source, cond))
+
+    bad_sources = ({name for name, _ in stale_lines} | {name for name, _ in fail_lines}
+                   | {name for name, _ in reader_lines})
+    if not bad_sources and not recovered and eval_line is None:
+        return None
+    lines = [line for _, line in sorted(stale_lines)] \
+        + [line for _, line in sorted(fail_lines)] \
+        + [line for _, line in sorted(reader_lines)]
+    if eval_line is not None:
+        lines.append(eval_line)
+    if recovered:
+        lines.append("——已恢复: " + ", ".join(sorted(recovered)))
+    if bad_sources:
+        title = f"ipradar: {len(bad_sources)} 源异常"  # N=异常源数,双条件同源算 1
+    elif eval_line is not None:
+        title = "ipradar: 月轮心跳异常"   # S6:纯月轮过期轮(无源异常)
+    else:
+        title = f"ipradar: {len(recovered)} 源已恢复"
+    return {"title": title, "body": "\n".join(lines)}
+
+
+def _redact_url(url: str) -> str:
+    """URL 脱敏(终审 P2-1):只留 scheme + 尾 4 字符——lark://<token>
+    等凭据不得落日志;无 "://" 或余段过短(≤8)只留 scheme://***。"""
+    scheme, sep, rest = url.partition("://")
+    if not sep:
+        return "***"
+    tail = f"…{rest[-4:]}" if len(rest) > 8 else "***"
+    return f"{scheme}://{tail}"
+
+
+def push(title: str, body: str) -> bool:
+    """apprise 推送出口(约束 5):notify 结果 bool() 化透传,任何异常 False 不抛。
+
+    实测 apprise 2.0 的 notify() 返回 AppriseResult 对象,不是 bool;
+    bool() 取其 __bool__(status==SUCCESS),与签名 -> bool 一致。
+
+    IP_RADAR_ALERT_URLS 逗号/空白分隔多个 URL;空/未设 → False 且不 import
+    apprise(历史照记,只是不通知)。单 URL add 失败仅 log.debug(经
+    _redact_url 脱敏)跳过,notify 对其余 URL 照发。本函数会跑在 scheduler 守护线程里,故全路径
+    吞异常(含 apprise 未安装的 ImportError),warning 后返回 False。
+    """
+    urls = [u for u in re.split(r",\s*|\s+", os.environ.get("IP_RADAR_ALERT_URLS", "")) if u]
+    if not urls:
+        return False
+    try:
+        import apprise  # 惰性:仅 env 非空才 import(约束 5)
+        ap = apprise.Apprise()
+        for url in urls:
+            if not ap.add(url):
+                logger.debug("apprise add 失败,跳过该 URL: %s", _redact_url(url))
+        return bool(ap.notify(title=title, body=body))
+    except Exception:
+        logger.warning("apprise 推送失败(title=%r)", title, exc_info=True)
+        return False

@@ -1,1 +1,80 @@
-IiIiUzcg5oWi5oCn55eb55qE5py65Yi277ya6YCa6YGT5LiO5ZCO5p6c6ISx6ZKp5pe277yM5Zu65a6a6ZiI5YC85Lya5LiA55u06K+v5oql44CCCuWvueeFp+S4pOe7hO+8jOWQhCAyNCDova7mjIHnu63liLrmv4DvvJoKICBBICBjcHUzICDpgJrpgZM9ZHdhaXQo6KKr5aS66LWw55qE5pe26Ze0KSAgIOWQjuaenD3lu7bov5/nnJ/nmoTmtqggMyDlgI0gIOKGkiDpgJrpgZPkuI7lkI7mnpznu5HlrpoKICBCICBtZW0xMDAwIOmAmumBkz1NZW1BdmFpbGFibGXkuIvpmY0gICAgIOWQjuaenD3lkJ7lkJDml6Dlj5jljJYgICAgICAg4oaSIOmAmumBk+S4juWQjuaenOiEsemSqQrkuKToh4LvvJrlm7rlrprpmIjlgLwgdnMg6Ieq6YCC5bqU6ZiI5YC844CCCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgdGltZQpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpmcm9tIGhhcm5lc3MgaW1wb3J0IHdvcmssIHNwYXduX2NwdV9idXN5LCBzcGF3bl9tZW1faG9sZGVyLCBraWxsYWxsCgpOID0gMjQKQUxQSEEsIE1BUkdJTiA9IDAuMjUsIDAuMTUKCgpkZWYgc2NoZWRfd2FpdCgpOgogICAgcmV0dXJuIGludChvcGVuKCIvcHJvYy9zZWxmL3NjaGVkc3RhdCIpLnJlYWQoKS5zcGxpdCgpWzFdKQoKCmRlZiBtZW1fYXZhaWwoKToKICAgIHJldHVybiBpbnQoW2wgZm9yIGwgaW4gb3BlbigiL3Byb2MvbWVtaW5mbyIpCiAgICAgICAgICAgICAgICBpZiBsLnN0YXJ0c3dpdGgoIk1lbUF2YWlsYWJsZSIpXVswXS5zcGxpdCgpWzFdKQoKCm91dCA9IHt9CmZvciBjb25kLCBraW5kLCBsdmwgaW4gWygiQV9jcHUzIiwgImNwdSIsIDMpLCAoIkJfbWVtMTAwMCIsICJtZW0iLCAxMDAwKV06CiAgICAjIOWfuue6vwogICAgYmxhdCwgYm1lbSA9IFtdLCBbXQogICAgZm9yIF8gaW4gcmFuZ2UoNSk6CiAgICAgICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpOyB3b3JrKCk7IGJsYXQuYXBwZW5kKHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MCkKICAgICAgICBibWVtLmFwcGVuZChtZW1fYXZhaWwoKSkKICAgIGJsYXQuc29ydCgpOyBCQVNFID0gYmxhdFsyXQogICAgQk1FTSA9IHNvcnRlZChibWVtKVsyXQoKICAgIHBpZHMgPSBzcGF3bl9jcHVfYnVzeShsdmwpIGlmIGtpbmQgPT0gImNwdSIgZWxzZSBbc3Bhd25fbWVtX2hvbGRlcihsdmwpXQogICAgdGltZS5zbGVlcCgwLjQpCgogICAgIyDmoKHlh4blm7rlrprpmIjlgLzvvJrlj5bliY0gMyDova7or7vmlbDkuK3kvY0gKiAy77yI5Z+657q/5LmL5LiK77yJCiAgICB3YXJtID0gW10KICAgIGZvciBfIGluIHJhbmdlKDMpOgogICAgICAgIGlmIGtpbmQgPT0gImNwdSI6CiAgICAgICAgICAgIHcwID0gc2NoZWRfd2FpdCgpOyB3b3JrKCk7IHdhcm0uYXBwZW5kKChzY2hlZF93YWl0KCkgLSB3MCkgLyAxZTYpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgd29yaygpOyB3YXJtLmFwcGVuZCgoQk1FTSAtIG1lbV9hdmFpbCgpKSAvIDEwMjQuMCkKICAgIEZJWF9USFIgPSBzb3J0ZWQod2FybSlbMV0gKiAyICsgMC41CgogICAgdGhyX2ggPSBGSVhfVEhSCiAgICByZWFkcywgZmlyZV9oLCBmaXJlX3AsIGxhdHMgPSBbXSwgW10sIFtdLCBbXQogICAgZm9yIGkgaW4gcmFuZ2UoTik6CiAgICAgICAgaWYga2luZCA9PSAiY3B1IjoKICAgICAgICAgICAgdzAgPSBzY2hlZF93YWl0KCkKICAgICAgICAgICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpOyB3b3JrKCk7IGxhdCA9IHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MAogICAgICAgICAgICByID0gKHNjaGVkX3dhaXQoKSAtIHcwKSAvIDFlNgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXIoKTsgd29yaygpOyBsYXQgPSB0aW1lLnBlcmZfY291bnRlcigpIC0gdDAKICAgICAgICAgICAgciA9IChCTUVNIC0gbWVtX2F2YWlsKCkpIC8gMTAyNC4wCiAgICAgICAgcmVhZHMuYXBwZW5kKHIpOyBsYXRzLmFwcGVuZChsYXQpCiAgICAgICAgZmlyZV9wLmFwcGVuZCgxIGlmIHIgPiBGSVhfVEhSIGVsc2UgMCkKICAgICAgICBmaXJlX2guYXBwZW5kKDEgaWYgciA+IHRocl9oICogKDEgKyBNQVJHSU4pIGVsc2UgMCkKICAgICAgICB0aHJfaCA9IEFMUEhBICogdGhyX2ggKyAoMSAtIEFMUEhBKSAqIHIKICAgIGtpbGxhbGwocGlkcyk7IHRpbWUuc2xlZXAoMC40KQoKICAgIGxhdHMuc29ydCgpCiAgICBvdXRbY29uZF0gPSB7CiAgICAgICAgInJlYWRzIjogcmVhZHMsICJmaXJlX2hhYml0IjogZmlyZV9oLCAiZmlyZV9wYWluIjogZmlyZV9wLAogICAgICAgICJGSVhfVEhSIjogRklYX1RIUiwgInRocl9lbmQiOiB0aHJfaCwKICAgICAgICAibGF0X3JhdGlvIjogbGF0c1tOIC8vIDJdIC8gQkFTRSwgIkJBU0VfbXMiOiBCQVNFICogMTAwMCwKICAgIH0KCmpzb24uZHVtcChvdXQsIG9wZW4ob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSwgInM3Lmpzb24iKSwgInciKSkKCmZvciBjIGluIG91dDoKICAgIHIgPSBvdXRbY10KICAgIGgsIHAgPSByWyJmaXJlX2hhYml0Il0sIHJbImZpcmVfcGFpbiJdCiAgICBxID0gTiAvLyA0CiAgICBwcmludChmIlxuPT0ge2N9ID09ICDlm7rlrprpmIjlgLw9e3JbJ0ZJWF9USFInXTouM2Z9ICDmnKvpmIjlgLw9e3JbJ3Rocl9lbmQnXTouM2Z9ICAiCiAgICAgICAgICBmIuivu+aVsOS4reS9jT17c29ydGVkKHJbJ3JlYWRzJ10pW04vLzJdOi4zZn0iKQogICAgcHJpbnQoZiIgIOOAkOecn+WunuWQjuaenOOAkeW7tui/n+WAjeeOhyA9IHtyWydsYXRfcmF0aW8nXTouM2Z9ICAiCiAgICAgICAgICBmIih7J+acieWusycgaWYgclsnbGF0X3JhdGlvJ10gPiAxLjMgZWxzZSAn5peg5a6zJ30pIikKICAgIHByaW50KGYiICBwYWlu6IeCKEZJWCkgIOWJjTEvNCB7c3VtKHBbOnFdKS9xOi4yZn0g4oaSIOWQjjEvNCB7c3VtKHBbLXE6XSkvcTouMmZ9ICAgeycnLmpvaW4obWFwKHN0cixwKSl9IikKICAgIHByaW50KGYiICBoYWJpdOiHgihBREFQVCkg5YmNMS80IHtzdW0oaFs6cV0pL3E6LjJmfSDihpIg5ZCOMS80IHtzdW0oaFstcTpdKS9xOi4yZn0gICB7Jycuam9pbihtYXAoc3RyLGgpKX0iKQo=
+"""S7 慢性痛的机制：通道与后果脱钩时，固定阈值会一直误报。
+对照两组，各 24 轮持续刺激：
+  A  cpu3  通道=dwait(被夺走的时间)   后果=延迟真的涨 3 倍  → 通道与后果绑定
+  B  mem1000 通道=MemAvailable下降     后果=吞吐无变化       → 通道与后果脱钩
+两臂：固定阈值 vs 自适应阈值。
+"""
+import os, sys, json, time
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from harness import work, spawn_cpu_busy, spawn_mem_holder, killall
+
+N = 24
+ALPHA, MARGIN = 0.25, 0.15
+
+
+def sched_wait():
+    return int(open("/proc/self/schedstat").read().split()[1])
+
+
+def mem_avail():
+    return int([l for l in open("/proc/meminfo")
+                if l.startswith("MemAvailable")][0].split()[1])
+
+
+out = {}
+for cond, kind, lvl in [("A_cpu3", "cpu", 3), ("B_mem1000", "mem", 1000)]:
+    # 基线
+    blat, bmem = [], []
+    for _ in range(5):
+        t0 = time.perf_counter(); work(); blat.append(time.perf_counter() - t0)
+        bmem.append(mem_avail())
+    blat.sort(); BASE = blat[2]
+    BMEM = sorted(bmem)[2]
+
+    pids = spawn_cpu_busy(lvl) if kind == "cpu" else [spawn_mem_holder(lvl)]
+    time.sleep(0.4)
+
+    # 校准固定阈值：取前 3 轮读数中位 * 2（基线之上）
+    warm = []
+    for _ in range(3):
+        if kind == "cpu":
+            w0 = sched_wait(); work(); warm.append((sched_wait() - w0) / 1e6)
+        else:
+            work(); warm.append((BMEM - mem_avail()) / 1024.0)
+    FIX_THR = sorted(warm)[1] * 2 + 0.5
+
+    thr_h = FIX_THR
+    reads, fire_h, fire_p, lats = [], [], [], []
+    for i in range(N):
+        if kind == "cpu":
+            w0 = sched_wait()
+            t0 = time.perf_counter(); work(); lat = time.perf_counter() - t0
+            r = (sched_wait() - w0) / 1e6
+        else:
+            t0 = time.perf_counter(); work(); lat = time.perf_counter() - t0
+            r = (BMEM - mem_avail()) / 1024.0
+        reads.append(r); lats.append(lat)
+        fire_p.append(1 if r > FIX_THR else 0)
+        fire_h.append(1 if r > thr_h * (1 + MARGIN) else 0)
+        thr_h = ALPHA * thr_h + (1 - ALPHA) * r
+    killall(pids); time.sleep(0.4)
+
+    lats.sort()
+    out[cond] = {
+        "reads": reads, "fire_habit": fire_h, "fire_pain": fire_p,
+        "FIX_THR": FIX_THR, "thr_end": thr_h,
+        "lat_ratio": lats[N // 2] / BASE, "BASE_ms": BASE * 1000,
+    }
+
+json.dump(out, open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "s7.json"), "w"))
+
+for c in out:
+    r = out[c]
+    h, p = r["fire_habit"], r["fire_pain"]
+    q = N // 4
+    print(f"\n== {c} ==  固定阈值={r['FIX_THR']:.3f}  末阈值={r['thr_end']:.3f}  "
+          f"读数中位={sorted(r['reads'])[N//2]:.3f}")
+    print(f"  【真实后果】延迟倍率 = {r['lat_ratio']:.3f}  "
+          f"({'有害' if r['lat_ratio'] > 1.3 else '无害'})")
+    print(f"  pain臂(FIX)  前1/4 {sum(p[:q])/q:.2f} → 后1/4 {sum(p[-q:])/q:.2f}   {''.join(map(str,p))}")
+    print(f"  habit臂(ADAPT) 前1/4 {sum(h[:q])/q:.2f} → 后1/4 {sum(h[-q:])/q:.2f}   {''.join(map(str,h))}")

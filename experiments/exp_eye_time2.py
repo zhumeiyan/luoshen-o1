@@ -1,1 +1,127 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5b6A44CQ5pe26Ze057u05bqm44CR5om+5omL5oCn5q6L5beu77ya55yf55y855CD6L+Q5YqoCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrnlKjmiLfvvJrjgIzku5bnnLznnZvlnKjliqjjgILkvaDlvoDkuIvmib7vvIzlvoDpgqPkuKrml7bpl7Tnu7TluqbkuIrmib7jgILjgI0KCuKYhSDliY3kuKTova7lnKjpnZnmgIHkuIrmib7vvIzliKTmja4gNC81IOKdjOOAgui/mei9ruaMieecn+ecvOeQg+i/kOWKqOadpeaJvuOAggrimIUg56ys5LiJ54mI5Zyo44CQ5pe26Ze05Y+N5ryU44CR5LiK5om+77yM5Y+I6ZSZ5LqGIOKAlOKAlCDpgqPmipPliLDnmoTmmK/ohInlhrLlvaLnirbkuI3lr7nnp7DvvIzkuI3mmK/miYvmgKfjgIIKCuKYhSDmiYvmgKflnKjjgJDml7bpl7TjgJHph4znmoTokL3ngrnvvIhSRUFMIOino+WJlu+8ie+8mgogICAg5LiK5pac6IKMIOKGkCDmu5HovabnpZ7nu48gQ04gSVYg4oCU4oCUIOWUr+S4gOOAkOWujOWFqOS6pOWPieOAkeeahOiEkeelnue7jwogICAg5LiL5pac6IKMIOKGkCDliqjnnLznpZ7nu48gQ04gSUlJIOKAlOKAlCDkuI3kuqTlj4kKICAgIOKGkiDmlK/phY3kuI3lr7nnp7Ag4oaSIOaJq+inhiB0b3JzaW9uIOi/neWPjSBMaXN0aW5nIOeahOW5heW6puOAkOaWueWQkeS+nei1luOAkQogICAg4oaSIOWQkeWPs+aJqyDlkowg5ZCR5bem5omrIOeahOi/neWPjeW5heW6puS4jeWQjAoK4piFIOWIpOaNruW/hemhu+iDveWIhuemuyLlvaLnirYi5ZKMIuaJi+aApyLvvJoKICAgIHRvcnNpb24gPSBBKGRpcmVjdGlvbikgw5cgc2hhcGUodCkKICAgIOKRoCDml7bpl7Tlj43mvJQgIHzPhF9md2QodCkgLSDPhF9yZXYoVC0xLXQpfAogICAgICAgICDihpIg5re36L+b5LqGIHNoYXBlIOeahOaXtumXtOS4jeWvueensO+8iOWFiOW/q+WNh+WQjuaFoumZje+8ie+8jOS7u+S9leiEieWGsumDveaciQogICAg4pGhIOOAkOWQjOWQkeaXtumXtOavlOi+g+OAkSB8z4RfZndkKHQpIC0gz4RfcmV2KHQpfAogICAgICAgICDihpIgc2hhcGUodCkg55u45ZCM6KKr5oq15raI77yM5Y+q5YmpIChBX2Z3ZCAtIEFfcmV2KcOXc2hhcGUodCkKICAgICAgICAg4oaSIOKYhSDov5nmiY3mmK/nuq/miYvmgKfliKTmja4KCnByb3ZlbmFuY2XvvJrop6PliZYv55Sf55CGIFJFQUzvvJvov53lj43luYXluqbkuLrmqKHlnovlj4LmlbAKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUuZXllX2FuYXRvbXkgaW1wb3J0IChTYWNjYWRlLCBzYWNjYWRlX2R1cmF0aW9uX21zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cm94bGVyX2ZhZGUpCgpUX01TID0gNjAwMApkdCA9IDEuMAp0ID0gbnAuYXJhbmdlKDAsIFRfTVMsIGR0KQoKCmRlZiBwYWlyKGFzeW0sIGFtcD0yMC4wKToKICAgIGZ3ZCA9IFNhY2NhZGUoLWFtcCAvIDIsICthbXAgLyAyLCBhc3ltPWFzeW0pCiAgICByZXYgPSBTYWNjYWRlKCthbXAgLyAyLCAtYW1wIC8gMiwgYXN5bT1hc3ltKQogICAgcmV0dXJuIGZ3ZCwgcmV2CgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDkwKQogICAgcHJpbnQoIiDml7bpl7Tnu7TluqbnmoTmiYvmgKfmrovlt67vvJrliIbnprvjgJDlvaLnirbpobnjgJHkuI7jgJDmiYvmgKfpobnjgJEiKQogICAgcHJpbnQoIj0iICogOTApCiAgICBwcmludChmIlxuICDmiavop4YgwrExMMKw77yI5bmF5bqmMjDCsO+8ie+8jOaMgee7rSB7c2FjY2FkZV9kdXJhdGlvbl9tcygyMCk6LjBmfSBtcyIpCiAgICBwcmludChmIiAg5Lik56eN5Yik5o2u5a+55q+U77yaIikKICAgIHByaW50KGYiICAgIEEg5pe26Ze05Y+N5ryUICAgfM+EX2Z3ZCh0KSAtIM+EX3JldihULTEtdCl8ICAg4oaQIOa3t+i/m+W9oueKtuS4jeWvueensCIpCiAgICBwcmludChmIiAgICBCIOWQjOWQkeavlOi+gyAgIHzPhF9md2QodCkgLSDPhF9yZXYodCl8ICAgICAgIOKGkCDlvaLnirbmirXmtojvvIznuq/miYvmgKciKQoKICAgIHByaW50KGYiXG57J2FzeW0nOjw3fXsnQSDml7bpl7Tlj43mvJQnOj4xM317J0Ig5ZCM5ZCRKOaJi+aApyknOj4xNH17J0Lls7DlgLwnOj4xMH0iCiAgICAgICAgICBmInsnQi9BJzo+OX17J+WIpOWumic6PjEyfSIpCiAgICBwcmludCgiLSIgKiA5MCkKICAgIHJvd3MgPSBbXQogICAgZm9yIGEgaW4gWzAuMCwgMC4xNSwgMC4zMCwgMC40NSwgMC42MCwgMC44MF06CiAgICAgICAgZndkLCByZXYgPSBwYWlyKGEpCiAgICAgICAgdGYsIHRyID0gZndkLnRvcnNpb24odCksIHJldi50b3JzaW9uKHQpCiAgICAgICAgQSA9IGZsb2F0KG5wLmFicyh0ZiAtIHRyWzo6LTFdKS5tZWFuKCkpICAgICAgIyDml7bpl7Tlj43mvJTvvIjlhajnqIvvvIkKICAgICAgICAjIOKYhSBCIOeUqOOAkOaJq+inhueql+WPo+WGheOAkeWdh+WAvO+8mui/neWPjeWPquWcqOaJq+inhuacn+WtmOWcqO+8jAogICAgICAgICMgICDpmaTku6XlhajnqIsgNjAwMG1zIOS8muiiq+W5s+aRiuWIsOeci+S4jeinge+8iOesrOWbm+eJiOi4qei/h++8iQogICAgICAgIHdpbiA9IHQgPD0gKGZ3ZC5kdXIgKiAzICsgMjAwKQogICAgICAgIEIgPSBmbG9hdChucC5hYnModGYgLSB0cilbd2luXS5tZWFuKCkpCiAgICAgICAgQnAgPSBmbG9hdChucC5hYnModGYgLSB0cikubWF4KCkpCiAgICAgICAgcm93cy5hcHBlbmQoKGEsIEEsIEIsIEJwKSkKICAgICAgICB2ID0gIuaXoOaJi+aApyIgaWYgQiA8IDAuMDA1IGVsc2UgIuacieaJi+aApyIKICAgICAgICBwcmludChmInthOjw3LjJmfXtBOj4xMy41Zn17Qjo+MTQuNWZ9e0JwOj4xMC41Zn0iCiAgICAgICAgICAgICAgZiJ7Qi9tYXgoQSwxZS05KTo+OS4zZn17djo+MTJ9IikKCiAgICBwcmludCgiXG4iICsgIj0iICogOTApCiAgICBwcmludCgiIOWIpOaNru+8iOeUqCBC77ya5ZCM5ZCR5q+U6L6D77yM5b2i54q25bey5oq15raI77yJIikKICAgIHByaW50KCI9IiAqIDkwKQogICAgYTAsIGExID0gcm93c1swXSwgcm93c1stMV0KICAgIG9rID0ge30KICAgIG9rWyLikaAgYXN5bT0wIOKGkiBCPTDvvIjlr7nnp7DmlK/phY3vvIzmraPlj43miavop4bml6Dlt67liKvvvIkiXSA9IGJvb2woYTBbMl0gPCAwLjAwNSkKICAgIG9rWyLikaEgYXN5bT4wIOKGkiBCIOaYvuiRlyA+MO+8iOS6pOWPieaUr+mFjeW4puadpeaJi+aAp++8iSJdID0gYm9vbChhMVsyXSA+IDAuMDUpCiAgICBva1si4pGiIEIg6ZqPIGFzeW0g5Y2V6LCD5LiK5Y2HIl0gPSBib29sKGFsbChyb3dzW2ldWzJdIDw9IHJvd3NbaSsxXVsyXSArIDFlLTkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJvd3MpIC0gMSkpKQogICAgIyDikaMg5Y6f5Yik5o2u77yI5bOw5YC8L+eql+WPo+Wdh+WAvD4177yJ5Zyo56qX5Y+j5pS256qE5ZCO5aSx5pWI77ybCiAgICAjICAg5pS55oiQ5p+l44CQ556s5oCB5oCn44CR77ya5omr6KeG57uT5p2f5b6I5LmF5ZCO6L+d5Y+N5bqU5bey5raI6YCA5YiwIDAKICAgIGZ3ZDEsIHJldjEgPSBwYWlyKDAuODApCiAgICBsYXRlID0gZmxvYXQobnAuYWJzKGZ3ZDEudG9yc2lvbih0KSAtIHJldjEudG9yc2lvbih0KSlbdCA+IDMwMDBdLm1lYW4oKSkKICAgIG9rWyLikaMgQiDmmK/nnqzmgIHnmoTvvIjmiavop4blkI4gM3Mg5bey5raI6YCA5YiwIH4w77yJIl0gPSBib29sKGxhdGUgPCAwLjAxKQogICAgb2tbIuKRpCDimIUg5a+554Wn77yaQSDlnKggYXN5bT0wIOaXtuWwsemdnumbtiDihpIgQSDmipPnmoTkuI3mmK/miYvmgKciXSA9IGJvb2woYTBbMV0gPiAwLjA1KQogICAgZm9yIGssIHYgaW4gb2suaXRlbXMoKToKICAgICAgICBwcmludChmIiAgeyfinIUnIGlmIHYgZWxzZSAn4p2MJ30ge2t9IikKCiAgICBwcmludChmIlxuICDimIUgYXN5bT0wIO+8mkE9e2EwWzFdOi41Zn3vvIjpnZ7pm7bvvIHor7TmmI4gQSDlkKvlvaLnirbpobnvvIkgIEI9e2EwWzJdOi41Zn3vvIg9MO+8jOaXoOaJi+aAp++8iSIpCiAgICBwcmludChmIiAg4piFIGFzeW09MC4477yaQT17YTFbMV06LjVmfSAgICAgICAgICAgICAgICBCPXthMVsyXTouNWZ9ICDls7DlgLwge2ExWzNdOi41Zn3CsCIpCiAgICBwcmludChmIiAg4piFIOeerOaAgeaAp++8muaJq+inhuWQjiAzIHMg5q6L5beuIHtsYXRlOi42Zn3CsCDihpIg6L+d5Y+N5bey5raI6YCA77yM5piv5LqL5Lu25LiN5piv5bi45oCBIikKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0g5omr6KeG5oqR5Yi2IC0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCJcbiIgKyAiPSIgKiA5MCkKICAgIHByaW50KCIg5omr6KeG5oqR5Yi277yIUkVBTO+8muaJq+inhuacn+mXtOinhuinieiiq+WOi+WItu+8iSIpCiAgICBwcmludCgiPSIgKiA5MCkKICAgIGZ3ZCwgXyA9IHBhaXIoMC40NSkKICAgIHN1cCA9IGZ3ZC5zdXBwcmVzc2lvbih0KQogICAgIyDimIUg56ys5Zub54mIIGJ1Z++8mnN1cFtzdXA8MC41XS5zdW0oKSDmsYLnmoTmmK/jgJDmlY/mhJ/luqblgLzkuYvlkozjgJHvvIwKICAgICMgICDkuI3mmK/nrKblkIjmnaHku7bnmoTjgJDmr6vnp5LmlbDjgJHjgILlv4XpobvnlKggKHN1cDwwLjUpLnN1bSgpCiAgICBsbyA9IGZsb2F0KChzdXAgPCAwLjUpLnN1bSgpKQogICAgcHJpbnQoZiJcbiAg5pWP5oSf5bqm5pyA5L2OIHtzdXAubWluKCk6LjNmfe+8iOWcqCB0PXt0W25wLmFyZ21pbihzdXApXTouMGZ9IG1z77yM5omr6KeG5q2j5Lit77yJIikKICAgIHByaW50KGYiICDkvY7kuo4gMC41IOeahOeql+WPoyB7bG86LjBmfSBtcyAgIOKGkCDnnJ/lrp4gNTB+MTAwIG1zIikKICAgIG9rMiA9IGJvb2woNDAgPCBsbyA8IDE0MCkKICAgIHByaW50KGYiICB7J+KchScgaWYgb2syIGVsc2UgJ+KdjCd9IOiQveWcqOecn+WunuWMuumXtCIpCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tIFRyb3hsZXIgLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuIiArICI9IiAqIDkwKQogICAgcHJpbnQoIiBUcm94bGVyIOWbuuWumuWDj+a2iOmAgO+8iOecvOedm+WujOWFqOS4jeWKqOS8muaAjuagt++8iSIpCiAgICBwcmludCgiPSIgKiA5MCkKICAgIGZhZGUgPSB0cm94bGVyX2ZhZGUodCkKICAgIGZvciB0dCBpbiBbMCwgNTAwLCAxMDAwLCAyMDAwLCAzMDAwLCA1MDAwXToKICAgICAgICBwcmludChmIiAg56iz5a6aIHt0dDo+NX0gbXMg4oaSIOWPr+ingeW6piB7ZmFkZVtpbnQodHQpXTouM2Z9IikKICAgIG9rMyA9IGJvb2woZmFkZVswXSA+IDAuOTkgYW5kIGZhZGVbMzAwMF0gPCAwLjIpCiAgICBwcmludChmIiAgeyfinIUnIGlmIG9rMyBlbHNlICfinYwnfSDku47muIXmmbDliLDmtojpgIDvvIhSRUFMIDF+MyBz77yJIikKICAgIHByaW50KGYiICDimIUg5omA5Lul44CQ5LiN5Yqo5bCx55yL5LiN6KeB44CR4oCU4oCUIOW+ruWKqOS4jeaYr+WZquWjsO+8jOaYr+eUn+eQhuW/hemcgCIpCiAgICBwcmludChmIiAg4piFIOi/meino+mHiuS6huWJjeWHoOi9ruS4uuS7gOS5iOafpeS4jeWHuu+8mumdmeaAgeW/q+eFpyA9IOiuqeecvOedm+WIq+WKqCA9IOiuqeWug+eejiIpCgogICAganNvbi5kdW1wKHsicm93cyI6IFtkaWN0KGFzeW09clswXSwgQV90aW1lcmV2PXJbMV0sIEJfc2FtZT1yWzJdLCBCX3BlYWs9clszXSkKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHIgaW4gcm93c10sCiAgICAgICAgICAgICAgICJvayI6IHtrOiBib29sKHYpIGZvciBrLCB2IGluIG9rLml0ZW1zKCl9LAogICAgICAgICAgICAgICAic3VwcHJlc3NfaGFsZl9tcyI6IGxvLCAic3VwcHJlc3NfbWluIjogZmxvYXQoc3VwLm1pbigpKSwKICAgICAgICAgICAgICAgInN1cHByZXNzX29rIjogYm9vbChvazIpLCAidHJveGxlcl9vayI6IGJvb2wob2szKX0sCiAgICAgICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZW5zZSIsICJleWVfdGltZTIuanNvbiIpLCAidyIpLAogICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+往【时间维度】找手性残差：真眼球运动
+====================================
+用户：「他眼睛在动。你往下找，往那个时间维度上找。」
+
+★ 前两轮在静态上找，判据 4/5 ❌。这轮按真眼球运动来找。
+★ 第三版在【时间反演】上找，又错了 —— 那抓到的是脉冲形状不对称，不是手性。
+
+★ 手性在【时间】里的落点（REAL 解剖）：
+    上斜肌 ← 滑车神经 CN IV —— 唯一【完全交叉】的脑神经
+    下斜肌 ← 动眼神经 CN III —— 不交叉
+    → 支配不对称 → 扫视 torsion 违反 Listing 的幅度【方向依赖】
+    → 向右扫 和 向左扫 的违反幅度不同
+
+★ 判据必须能分离"形状"和"手性"：
+    torsion = A(direction) × shape(t)
+    ① 时间反演  |τ_fwd(t) - τ_rev(T-1-t)|
+         → 混进了 shape 的时间不对称（先快升后慢降），任何脉冲都有
+    ② 【同向时间比较】 |τ_fwd(t) - τ_rev(t)|
+         → shape(t) 相同被抵消，只剩 (A_fwd - A_rev)×shape(t)
+         → ★ 这才是纯手性判据
+
+provenance：解剖/生理 REAL；违反幅度为模型参数
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.eye_anatomy import (Saccade, saccade_duration_ms,
+                              troxler_fade)
+
+T_MS = 6000
+dt = 1.0
+t = np.arange(0, T_MS, dt)
+
+
+def pair(asym, amp=20.0):
+    fwd = Saccade(-amp / 2, +amp / 2, asym=asym)
+    rev = Saccade(+amp / 2, -amp / 2, asym=asym)
+    return fwd, rev
+
+
+if __name__ == "__main__":
+    print("=" * 90)
+    print(" 时间维度的手性残差：分离【形状项】与【手性项】")
+    print("=" * 90)
+    print(f"\n  扫视 ±10°（幅度20°），持续 {saccade_duration_ms(20):.0f} ms")
+    print(f"  两种判据对比：")
+    print(f"    A 时间反演   |τ_fwd(t) - τ_rev(T-1-t)|   ← 混进形状不对称")
+    print(f"    B 同向比较   |τ_fwd(t) - τ_rev(t)|       ← 形状抵消，纯手性")
+
+    print(f"\n{'asym':<7}{'A 时间反演':>13}{'B 同向(手性)':>14}{'B峰值':>10}"
+          f"{'B/A':>9}{'判定':>12}")
+    print("-" * 90)
+    rows = []
+    for a in [0.0, 0.15, 0.30, 0.45, 0.60, 0.80]:
+        fwd, rev = pair(a)
+        tf, tr = fwd.torsion(t), rev.torsion(t)
+        A = float(np.abs(tf - tr[::-1]).mean())      # 时间反演（全程）
+        # ★ B 用【扫视窗口内】均值：违反只在扫视期存在，
+        #   除以全程 6000ms 会被平摊到看不见（第四版踩过）
+        win = t <= (fwd.dur * 3 + 200)
+        B = float(np.abs(tf - tr)[win].mean())
+        Bp = float(np.abs(tf - tr).max())
+        rows.append((a, A, B, Bp))
+        v = "无手性" if B < 0.005 else "有手性"
+        print(f"{a:<7.2f}{A:>13.5f}{B:>14.5f}{Bp:>10.5f}"
+              f"{B/max(A,1e-9):>9.3f}{v:>12}")
+
+    print("\n" + "=" * 90)
+    print(" 判据（用 B：同向比较，形状已抵消）")
+    print("=" * 90)
+    a0, a1 = rows[0], rows[-1]
+    ok = {}
+    ok["① asym=0 → B=0（对称支配，正反扫视无差别）"] = bool(a0[2] < 0.005)
+    ok["② asym>0 → B 显著 >0（交叉支配带来手性）"] = bool(a1[2] > 0.05)
+    ok["③ B 随 asym 单调上升"] = bool(all(rows[i][2] <= rows[i+1][2] + 1e-9
+                                          for i in range(len(rows) - 1)))
+    # ④ 原判据（峰值/窗口均值>5）在窗口收窄后失效；
+    #   改成查【瞬态性】：扫视结束很久后违反应已消退到 0
+    fwd1, rev1 = pair(0.80)
+    late = float(np.abs(fwd1.torsion(t) - rev1.torsion(t))[t > 3000].mean())
+    ok["④ B 是瞬态的（扫视后 3s 已消退到 ~0）"] = bool(late < 0.01)
+    ok["⑤ ★ 对照：A 在 asym=0 时就非零 → A 抓的不是手性"] = bool(a0[1] > 0.05)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+
+    print(f"\n  ★ asym=0 ：A={a0[1]:.5f}（非零！说明 A 含形状项）  B={a0[2]:.5f}（=0，无手性）")
+    print(f"  ★ asym=0.8：A={a1[1]:.5f}                B={a1[2]:.5f}  峰值 {a1[3]:.5f}°")
+    print(f"  ★ 瞬态性：扫视后 3 s 残差 {late:.6f}° → 违反已消退，是事件不是常态")
+
+    # ---------------- 扫视抑制 ----------------
+    print("\n" + "=" * 90)
+    print(" 扫视抑制（REAL：扫视期间视觉被压制）")
+    print("=" * 90)
+    fwd, _ = pair(0.45)
+    sup = fwd.suppression(t)
+    # ★ 第四版 bug：sup[sup<0.5].sum() 求的是【敏感度值之和】，
+    #   不是符合条件的【毫秒数】。必须用 (sup<0.5).sum()
+    lo = float((sup < 0.5).sum())
+    print(f"\n  敏感度最低 {sup.min():.3f}（在 t={t[np.argmin(sup)]:.0f} ms，扫视正中）")
+    print(f"  低于 0.5 的窗口 {lo:.0f} ms   ← 真实 50~100 ms")
+    ok2 = bool(40 < lo < 140)
+    print(f"  {'✅' if ok2 else '❌'} 落在真实区间")
+
+    # ---------------- Troxler ----------------
+    print("\n" + "=" * 90)
+    print(" Troxler 固定像消退（眼睛完全不动会怎样）")
+    print("=" * 90)
+    fade = troxler_fade(t)
+    for tt in [0, 500, 1000, 2000, 3000, 5000]:
+        print(f"  稳定 {tt:>5} ms → 可见度 {fade[int(tt)]:.3f}")
+    ok3 = bool(fade[0] > 0.99 and fade[3000] < 0.2)
+    print(f"  {'✅' if ok3 else '❌'} 从清晰到消退（REAL 1~3 s）")
+    print(f"  ★ 所以【不动就看不见】—— 微动不是噪声，是生理必需")
+    print(f"  ★ 这解释了前几轮为什么查不出：静态快照 = 让眼睛别动 = 让它瞎")
+
+    json.dump({"rows": [dict(asym=r[0], A_timerev=r[1], B_same=r[2], B_peak=r[3])
+                        for r in rows],
+               "ok": {k: bool(v) for k, v in ok.items()},
+               "suppress_half_ms": lo, "suppress_min": float(sup.min()),
+               "suppress_ok": bool(ok2), "troxler_ok": bool(ok3)},
+              open(os.path.join(HERE, ".sense", "eye_time2.json"), "w"),
+              ensure_ascii=False, indent=1)

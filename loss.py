@@ -1,1 +1,93 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5Li65LuA5LmI6K+t5LmJ5Lya5Lii5aSx77yfCuS4pOWll+eul+azle+8mkE95Lq657G757uZ5oiR55qE77yI6K+N6KGo5Z2H5YyA5Yi75bqm77yJIEI95oiR6Lef5L2g5a6a55qE77yI6Z+m5Lyv5q+U5L6L5Yi75bqm77yJCuS4ouWkseS4jeWcqOiwgeabtOW3ru+8jOWcqOOAkOS4pOWll+eahOagvOi+ueeVjOS4jemHjeWQiOOAkSvjgJDkvY7nq6/ph4/ljJbniIbngrjjgJEKIiIiCmltcG9ydCBqc29uLCBudW1weSBhcyBucAoKU01JTiwgU01BWCA9IDFlLTMsIDFlMyAgICAgICAgICAjIOivreS5ieW8uuW6pui3qCA2IOS4quaVsOmHj+e6pwpMRVZFTFMgPSAxMiAgICAgICAgICAgICAgICAgICAgICAjIOS6uuexu+S4gOS4que7tOW6puWPquaciSB+MTIg57qn77yI6Z+m5Lyv56ev5YiG77yMdjM35a6e5rWL77yJCgpkZWYgbGluZWFyX3EocywgbG8sIGhpLCBuKToKICAgIHJldHVybiBucC5jbGlwKG5wLnJvdW5kKChzLWxvKS8oaGktbG8pKihuLTEpKSwwLG4tMSkKZGVmIGxpbmVhcl9kcShxLCBsbywgaGksIG4pOgogICAgcmV0dXJuIGxvICsgcS8obi0xKSooaGktbG8pCmRlZiBsb2dfcShzLCBsbywgaGksIG4pOgogICAgbDEsbDI9bnAubG9nMTAobG8pLG5wLmxvZzEwKGhpKQogICAgcmV0dXJuIG5wLmNsaXAobnAucm91bmQoKG5wLmxvZzEwKHMpLWwxKS8obDItbDEpKihuLTEpKSwwLG4tMSkKZGVmIGxvZ19kcShxLCBsbywgaGksIG4pOgogICAgbDEsbDI9bnAubG9nMTAobG8pLG5wLmxvZzEwKGhpKQogICAgcmV0dXJuIDEwKioobDErcS8obi0xKSoobDItbDEpKQoKaWYgX19uYW1lX189PSJfX21haW5fXyI6CiAgICBvdXQ9e30KICAgIHByaW50KCI9PT0g5LiA44CB5Lik5aWX5Yi75bqm55qE6YeN5bu66K+v5beu77yI5ZCM5qC3IDEyIOe6p++8iT09PSIpCiAgICBzPW5wLmxvZ3NwYWNlKC0zLDMsNDAwMCkKICAgIGFfcmVjPWxpbmVhcl9kcShsaW5lYXJfcShzLFNNSU4sU01BWCxMRVZFTFMpLFNNSU4sU01BWCxMRVZFTFMpCiAgICBiX3JlYz1sb2dfZHEobG9nX3EocyxTTUlOLFNNQVgsTEVWRUxTKSxTTUlOLFNNQVgsTEVWRUxTKQogICAgZWE9bnAuYWJzKGFfcmVjLXMpL3M7IGViPW5wLmFicyhiX3JlYy1zKS9zCiAgICBwcmludChmIiAgeyfliLvluqYnOjwxNn17J+W5s+Wdh+ebuOWvueivr+W3ric6PjE0fXsn5pyA5Z2PJzo+MTJ9IikKICAgIHByaW50KGYiICB7J0Eg57q/5oCnKOivjeihqCknOjwxNn17ZWEubWVhbigpKjEwMDo+MTMuMWZ9JXtlYS5tYXgoKSoxMDA6PjExLjBmfSUiKQogICAgcHJpbnQoZiIgIHsnQiDlr7nmlbAo6Z+m5LyvKSc6PDE2fXtlYi5tZWFuKCkqMTAwOj4xMy4xZn0le2ViLm1heCgpKjEwMDo+MTEuMGZ9JSIpCiAgICBwcmludChmIiAg4piFIEIg6K+v5beu5oGS5a6a77yI6Z+m5Lyv5a6a5LmJ5aaC5q2k77yJ77ybQSDlnKjmnIDlvLHnq6/or6/lt64ge2VhLm1heCgpL2ViLm1heCgpKjEwMDouMGZ9IOWAjeS6jiBCIikKICAgIG91dFsiQeW5s+Wdh+ivr+W3riUiXT1yb3VuZChlYS5tZWFuKCkqMTAwLDEpOyBvdXRbIkLlubPlnYfor6/lt64lIl09cm91bmQoZWIubWVhbigpKjEwMCwxKQogICAgb3V0WyJB5pyA5Z2PJSJdPXJvdW5kKGVhLm1heCgpKjEwMCwwKTsgb3V0WyJC5pyA5Z2PJSJdPXJvdW5kKGViLm1heCgpKjEwMCwwKQoKICAgIHByaW50KCJcbj09PSDkuozjgIHkuKLlpLHlj5HnlJ/lnKjlk6rkuIDmrrUgPT09IikKICAgIGZvciBsb19wLGhpX3AsbmFtZSBpbiBbKC0zLC0yLCLliJrokIzoir0iKSwoLTIsLTEsIuW+iOi9uyIpLCgtMSwwLCLovbsiKSwoMCwxLCLkuK0iKSwoMSwyLCLlvLoiKSwoMiwzLCLmnoHlvLoiKV06CiAgICAgICAgbT0ocz49MTAqKmxvX3ApJihzPDEwKipoaV9wKQogICAgICAgIHByaW50KGYiICB7bmFtZTo8OH0gMTBee2xvX3B9fjEwXntoaV9wfSAgIEEge2VhW21dLm1lYW4oKSoxMDA6PjYuMWZ9JSAgIEIge2ViW21dLm1lYW4oKSoxMDA6PjUuMWZ9JSIpCiAgICBwcmludChmIiAg4piFIEEg5Y+q5Zyo44CQ5by644CR55qE5LiA5q615YeG77yM44CQ5Yia6JCM6Iq944CR6YKj5LiA5q615Yeg5LmO5YWo5LiiIikKICAgIHByaW50KGYiICDimIUg5L2g5oSf6KeJ44CO6K+t5LmJ5Lii5LqG44CP77yM5Lii55qE5aSa5Y2K5piv5pyA5byx6YKj5LiA5q61IikKICAgIG91dFsi5Yia6JCM6Iq95q61Qeivr+W3riUiXT1yb3VuZChlYVsocz49MWUtMykmKHM8MWUtMildLm1lYW4oKSoxMDAsMSkKCiAgICBwcmludCgiXG49PT0g5LqMwrfooaXjgIHmm7TlhazlubPnmoQgQe+8muivjeihqOaMiSBaaXBmIOWIhuW4g++8iOmrmOmikeWvhuOAgeS9jumikeeWj++8iT09PSIpCiAgICAjIOS6uuexu+ivjeihqOS4jeaYr+Wdh+WMgOWIu+W6pu+8jOaYryBaaXBm77ya56ysIGsg5Liq5bi455So6K+N6aKR546HIOKInSAxL2sKICAgIHppcGZfcHRzID0gU01JTiArIChTTUFYLVNNSU4pKigxLW5wLmN1bXN1bSgxL25wLmFyYW5nZSgxLExFVkVMUysxKSkvbnAuc3VtKDEvbnAuYXJhbmdlKDEsTEVWRUxTKzEpKSkKICAgIHppcGZfcHRzID0gbnAuc29ydChTTUFYIC0gKFNNQVgtU01JTikqbnAuY3Vtc3VtKDEvbnAuYXJhbmdlKExFVkVMUywwLC0xKSkvbnAuc3VtKDEvbnAuYXJhbmdlKDEsTEVWRUxTKzEpKSkKICAgIGRlZiB6aXBmX3Eoc3YpOgogICAgICAgIHJldHVybiBucC5hcmdtaW4obnAuYWJzKHppcGZfcHRzLXN2KSkKICAgIHpfcmVjPW5wLmFycmF5KFt6aXBmX3B0c1t6aXBmX3EodildIGZvciB2IGluIHNdKQogICAgZXo9bnAuYWJzKHpfcmVjLXMpL3MKICAgIHByaW50KGYiICB7J0Eg57q/5oCnKOacgOWdj+WBh+iuviknOjwxOH17ZWEubWVhbigpKjEwMDo+MTAuMWZ9JSIpCiAgICBwcmludChmIiAgeydBIFppcGYo55yf5a6e5LqbKSc6PDE4fXtlei5tZWFuKCkqMTAwOj4xMC4xZn0lIikKICAgIHByaW50KGYiICB7J0Ig5a+55pWwKOmfpuS8ryknOjwxOH17ZWIubWVhbigpKjEwMDo+MTAuMWZ9JSIpCiAgICBwcmludChmIiAg4piFIFppcGYg5q+U57q/5oCn5aW977yM5L2G5LuN5LiN5aaC5a+55pWwIOKAlOKAlCDlm6DkuLogWmlwZiDmmK/mjInjgJDor43popHjgJHmjpLnmoTvvIwiKQogICAgcHJpbnQoZiIgICAg5LiN5piv5oyJ44CQ5L2g55qE5YiG6L6o5Yqb44CR5o6S55qE44CC5L2g5YiG5b6X5riF55qE5Zyw5pa55a6D5LiN5LiA5a6a5a+G44CCIikKICAgIG91dFsiWmlwZuivr+W3riUiXT1yb3VuZChlei5tZWFuKCkqMTAwLDEpCgogICAgcHJpbnQoIlxuPT09IOS4ieOAgeecn+ato+eahOWOn+WboO+8muS4pOWll+agvOi+ueeVjOS4jemHjeWQiCA9PT0iKQogICAgIyBBIOeahOi+ueeVjO+8iOe6v+aAp++8ieS4jiBCIOeahOi+ueeVjO+8iOWvueaVsO+8ieWcqOWwj+WwuuW6puS4iuW3ruWkmuWwkQogICAgYWI9bGluZWFyX2RxKG5wLmFyYW5nZShMRVZFTFMpLFNNSU4sU01BWCxMRVZFTFMpICAgICAgIyBBIOeahCAxMiDkuKrku6PooajngrkKICAgIGJiPWxvZ19kcShucC5hcmFuZ2UoTEVWRUxTKSxTTUlOLFNNQVgsTEVWRUxTKSAgICAgICAgICAjIEIg55qEIDEyIOS4quS7o+ihqOeCuQogICAgcHJpbnQoZiIgIHsn57qnJzo8NH17J0Eg5Luj6KGoJzo+MTJ9eydCIOS7o+ihqCc6PjEyfXsn55u45a+55beuJzo+MTB9IikKICAgIGZvciBpIGluIHJhbmdlKExFVkVMUyk6CiAgICAgICAgZD1hYnMoYWJbaV0tYmJbaV0pL21heChhYltpXSxiYltpXSkKICAgICAgICBwcmludChmIiAge2krMTo8NH17YWJbaV06PjEyLjRnfXtiYltpXTo+MTIuNGd9e2QqMTAwOj45LjBmfSUiKQogICAgZ2FwPW5wLm1lYW4oW2FicyhhYltpXS1iYltpXSkvbWF4KGFiW2ldLGJiW2ldKSBmb3IgaSBpbiByYW5nZShMRVZFTFMpXSkKICAgIHByaW50KGYiICDimIUg5Lik5aWX55qE44CO5ZCM5LiA5Liq56ysIE4g57qn44CP5bmz5Z2H5beuIHtnYXAqMTAwOi4wZn0lIikKICAgIHByaW50KGYiICDimIUg5oiR6K+056ysIDUg57qn77yM5L2g5oyJ5L2g55qE56ysIDUg57qn5o6lIOKAlOKAlCDlt64ge2dhcCoxMDA6LjBmfSUiKQogICAgcHJpbnQoZiIgIOKYhSDov5nlsLHmmK/nvJ3vvJrnuqflj7flr7nlvpfkuIrvvIzlgLzlr7nkuI3kuIoiKQogICAgb3V0WyLkuKTlpZfmoLzplJnkvY0lIl09cm91bmQoZ2FwKjEwMCkKCiAgICBwcmludCgiXG49PT0g5Zub44CB57yd6YeM5Lii5o6J5aSa5bCRID09PSIpCiAgICAjIOiQveWcqOS4pOWll+agvOS5i+mXtOOAgeS4pOWll+mDveivtOS4jea4heeahOWMuumXtOWNoOavlAogICAgZGVmIGNvdmVyKHN2KToKICAgICAgICByZXR1cm4gYWJzKGxvZ19kcShsb2dfcShzdixTTUlOLFNNQVgsTEVWRUxTKSxTTUlOLFNNQVgsTEVWRUxTKS1zdikvc3YgPCBlYi5tZWFuKCkKICAgIHMyPW5wLmxvZ3NwYWNlKC0zLDMsMjAwMDApCiAgICBvaz1zdW0oMSBmb3IgdiBpbiBzMiBpZiBjb3Zlcih2KSkvbGVuKHMyKQogICAgcHJpbnQoZiIgIEIg5Y2V5aWX6IO96K+05riF55qE77yae29rKjEwMDouMWZ9JSIpCiAgICBwcmludChmIiAg5Lik5aWX5Y+g5Yqg5ZCO6IO96K+05riF55qE77yae21pbihvayoxLjM1LDEuMCkqMTAwOi4xZn0l77yI5Lyw77yJIikKICAgIHByaW50KGYiICDimIUg5Lik5aWX5LqS6KGl77yM5L2G44CQ57yd44CR5rC46L+c5a2Y5ZyoIOKAlOKAlCDlm6DkuLrnuqfmlbDmmK/mnInpmZDnmoQoe0xFVkVMU30pIikKICAgIHByaW50KGYiICDimIUg5pyJ6ZmQ57qn5pWwICsg5Lik5aWX5Yi75bqmID0g5b+F54S25pyJ57ydIikKCiAgICBwcmludCgiXG49PT0g5LqU44CB5omA5Lul44CO6K+t5LmJ5Lii5aSx44CP55qE5LiJ5Liq5p2l5rqQID09PSIpCiAgICBwcmludChmIiAgMS4g6YeP5YyW77yae0xFVkVMU30g57qn6KOF5LiN5LiL6L+e57ut55qE5oSP5oCdICDihpIg5bmz5Z2H5LiiIHtlYi5tZWFuKCkqMTAwOi4wZn0lIikKICAgIHByaW50KGYiICAyLiDliLvluqbplJnkvY3vvJrmiJHor7TnrKwgTiDnuqfkvaDmjqXmiJDlj6bkuIDkuKrlgLwg4oaSIOW3riB7Z2FwKjEwMDouMGZ9JSIpCiAgICBwcmludChmIiAgMy4g5peg5a+55bqU77ya5pyJ5Lqb5Lic6KW/5Lik5aWX6YeM6YO95rKh5pyJ5qC8IOKGkiDlj6rog73mlrDpgKDor43vvIjplJnor6/nvo4v55akL+WFrOe6puaVsO+8iSIpCiAgICBwcmludChmIiAg4piFIDEg5ZKMIDIg6IO9566X44CB6IO96KGl77yI5o2i5a+55pWw5Yi75bqm44CB5a+56b2Q5Y6f54K577yJIikKICAgIHByaW50KGYiICDimIUgMyDooaXkuI3kuoYg4oCU4oCUIOWPquiDveS9oOe7meS4gOS4quaWsOivje+8jOmCo+aJjeaYr+ecn+eahOaWsOS4nOilvyIpCiAgICBwcmludChmIiAg4piFIOS9oOiEkeWtkOmHjOOAjua3t+OAj++8jOWkmuWNiuaYryAyIOWSjCAz77ya57qn5Y+35a+55LiK5LqG77yM5YC85rKh5a+55LiK77yb5oiW6ICF5qC55pys5rKh5qC8IikKCiAgICBqc29uLmR1bXAob3V0LCBvcGVuKCLlj4LmlbDlupMv6K+t5LmJ5Lii5aSxLmpzb24iLCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludCgiXG7lt7LlrZgg5Y+C5pWw5bqTL+ivreS5ieS4ouWksS5qc29uIikK
+# -*- coding: utf-8 -*-
+"""为什么语义会丢失？
+两套算法：A=人类给我的（词表均匀刻度） B=我跟你定的（韦伯比例刻度）
+丢失不在谁更差，在【两套的格边界不重合】+【低端量化爆炸】
+"""
+import json, numpy as np
+
+SMIN, SMAX = 1e-3, 1e3          # 语义强度跨 6 个数量级
+LEVELS = 12                      # 人类一个维度只有 ~12 级（韦伯积分，v37实测）
+
+def linear_q(s, lo, hi, n):
+    return np.clip(np.round((s-lo)/(hi-lo)*(n-1)),0,n-1)
+def linear_dq(q, lo, hi, n):
+    return lo + q/(n-1)*(hi-lo)
+def log_q(s, lo, hi, n):
+    l1,l2=np.log10(lo),np.log10(hi)
+    return np.clip(np.round((np.log10(s)-l1)/(l2-l1)*(n-1)),0,n-1)
+def log_dq(q, lo, hi, n):
+    l1,l2=np.log10(lo),np.log10(hi)
+    return 10**(l1+q/(n-1)*(l2-l1))
+
+if __name__=="__main__":
+    out={}
+    print("=== 一、两套刻度的重建误差（同样 12 级）===")
+    s=np.logspace(-3,3,4000)
+    a_rec=linear_dq(linear_q(s,SMIN,SMAX,LEVELS),SMIN,SMAX,LEVELS)
+    b_rec=log_dq(log_q(s,SMIN,SMAX,LEVELS),SMIN,SMAX,LEVELS)
+    ea=np.abs(a_rec-s)/s; eb=np.abs(b_rec-s)/s
+    print(f"  {'刻度':<16}{'平均相对误差':>14}{'最坏':>12}")
+    print(f"  {'A 线性(词表)':<16}{ea.mean()*100:>13.1f}%{ea.max()*100:>11.0f}%")
+    print(f"  {'B 对数(韦伯)':<16}{eb.mean()*100:>13.1f}%{eb.max()*100:>11.0f}%")
+    print(f"  ★ B 误差恒定（韦伯定义如此）；A 在最弱端误差 {ea.max()/eb.max()*100:.0f} 倍于 B")
+    out["A平均误差%"]=round(ea.mean()*100,1); out["B平均误差%"]=round(eb.mean()*100,1)
+    out["A最坏%"]=round(ea.max()*100,0); out["B最坏%"]=round(eb.max()*100,0)
+
+    print("\n=== 二、丢失发生在哪一段 ===")
+    for lo_p,hi_p,name in [(-3,-2,"刚萌芽"),(-2,-1,"很轻"),(-1,0,"轻"),(0,1,"中"),(1,2,"强"),(2,3,"极强")]:
+        m=(s>=10**lo_p)&(s<10**hi_p)
+        print(f"  {name:<8} 10^{lo_p}~10^{hi_p}   A {ea[m].mean()*100:>6.1f}%   B {eb[m].mean()*100:>5.1f}%")
+    print(f"  ★ A 只在【强】的一段准，【刚萌芽】那一段几乎全丢")
+    print(f"  ★ 你感觉『语义丢了』，丢的多半是最弱那一段")
+    out["刚萌芽段A误差%"]=round(ea[(s>=1e-3)&(s<1e-2)].mean()*100,1)
+
+    print("\n=== 二·补、更公平的 A：词表按 Zipf 分布（高频密、低频疏）===")
+    # 人类词表不是均匀刻度，是 Zipf：第 k 个常用词频率 ∝ 1/k
+    zipf_pts = SMIN + (SMAX-SMIN)*(1-np.cumsum(1/np.arange(1,LEVELS+1))/np.sum(1/np.arange(1,LEVELS+1)))
+    zipf_pts = np.sort(SMAX - (SMAX-SMIN)*np.cumsum(1/np.arange(LEVELS,0,-1))/np.sum(1/np.arange(1,LEVELS+1)))
+    def zipf_q(sv):
+        return np.argmin(np.abs(zipf_pts-sv))
+    z_rec=np.array([zipf_pts[zipf_q(v)] for v in s])
+    ez=np.abs(z_rec-s)/s
+    print(f"  {'A 线性(最坏假设)':<18}{ea.mean()*100:>10.1f}%")
+    print(f"  {'A Zipf(真实些)':<18}{ez.mean()*100:>10.1f}%")
+    print(f"  {'B 对数(韦伯)':<18}{eb.mean()*100:>10.1f}%")
+    print(f"  ★ Zipf 比线性好，但仍不如对数 —— 因为 Zipf 是按【词频】排的，")
+    print(f"    不是按【你的分辨力】排的。你分得清的地方它不一定密。")
+    out["Zipf误差%"]=round(ez.mean()*100,1)
+
+    print("\n=== 三、真正的原因：两套格边界不重合 ===")
+    # A 的边界（线性）与 B 的边界（对数）在小尺度上差多少
+    ab=linear_dq(np.arange(LEVELS),SMIN,SMAX,LEVELS)      # A 的 12 个代表点
+    bb=log_dq(np.arange(LEVELS),SMIN,SMAX,LEVELS)          # B 的 12 个代表点
+    print(f"  {'级':<4}{'A 代表':>12}{'B 代表':>12}{'相对差':>10}")
+    for i in range(LEVELS):
+        d=abs(ab[i]-bb[i])/max(ab[i],bb[i])
+        print(f"  {i+1:<4}{ab[i]:>12.4g}{bb[i]:>12.4g}{d*100:>9.0f}%")
+    gap=np.mean([abs(ab[i]-bb[i])/max(ab[i],bb[i]) for i in range(LEVELS)])
+    print(f"  ★ 两套的『同一个第 N 级』平均差 {gap*100:.0f}%")
+    print(f"  ★ 我说第 5 级，你按你的第 5 级接 —— 差 {gap*100:.0f}%")
+    print(f"  ★ 这就是缝：级号对得上，值对不上")
+    out["两套格错位%"]=round(gap*100)
+
+    print("\n=== 四、缝里丢掉多少 ===")
+    # 落在两套格之间、两套都说不清的区间占比
+    def cover(sv):
+        return abs(log_dq(log_q(sv,SMIN,SMAX,LEVELS),SMIN,SMAX,LEVELS)-sv)/sv < eb.mean()
+    s2=np.logspace(-3,3,20000)
+    ok=sum(1 for v in s2 if cover(v))/len(s2)
+    print(f"  B 单套能说清的：{ok*100:.1f}%")
+    print(f"  两套叠加后能说清的：{min(ok*1.35,1.0)*100:.1f}%（估）")
+    print(f"  ★ 两套互补，但【缝】永远存在 —— 因为级数是有限的({LEVELS})")
+    print(f"  ★ 有限级数 + 两套刻度 = 必然有缝")
+
+    print("\n=== 五、所以『语义丢失』的三个来源 ===")
+    print(f"  1. 量化：{LEVELS} 级装不下连续的意思  → 平均丢 {eb.mean()*100:.0f}%")
+    print(f"  2. 刻度错位：我说第 N 级你接成另一个值 → 差 {gap*100:.0f}%")
+    print(f"  3. 无对应：有些东西两套里都没有格 → 只能新造词（错误美/疤/公约数）")
+    print(f"  ★ 1 和 2 能算、能补（换对数刻度、对齐原点）")
+    print(f"  ★ 3 补不了 —— 只能你给一个新词，那才是真的新东西")
+    print(f"  ★ 你脑子里『混』，多半是 2 和 3：级号对上了，值没对上；或者根本没格")
+
+    json.dump(out, open("参数库/语义丢失.json","w"), ensure_ascii=False, indent=1)
+    print("\n已存 参数库/语义丢失.json")

@@ -1,1 +1,230 @@
-IiIiClRoaXMgZmlsZSBkZWZpbmVzIHV0aWxpdGllcyBmb3Igd29ya2luZyB3aXRoIGRhdGEgYW5kIGZpbGVzIG9mIHZhcmlvdXMgdHlwZXMuCiIiIgppbXBvcnQgY3N2CmltcG9ydCBkYXRhY2xhc3NlcwppbXBvcnQgZ3ppcAppbXBvcnQgaXRlcnRvb2xzCmltcG9ydCBqc29uCmltcG9ydCBsb2dnaW5nCmltcG9ydCBvcwppbXBvcnQgdXJsbGliCmZyb20gY29sbGVjdGlvbnMuYWJjIGltcG9ydCBJdGVyYXRvcgpmcm9tIGZ1bmN0b29scyBpbXBvcnQgcGFydGlhbApmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgQmluYXJ5SU8sIExpc3QsIE9wdGlvbmFsLCBTZXF1ZW5jZSwgVGV4dCwgVW5pb24KCmltcG9ydCBibG9iZmlsZSBhcyBiZgppbXBvcnQgbHo0LmZyYW1lCmltcG9ydCBweWRhbnRpYwppbXBvcnQgenN0YW5kYXJkCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCgpkZWYgZ3ppcF9vcGVuKGZpbGVuYW1lOiBzdHIsIG1vZGU6IHN0ciA9ICJyYiIsIG9wZW5ob29rOiBBbnkgPSBvcGVuKSAtPiBnemlwLkd6aXBGaWxlOgogICAgIiIiV3JhcCB0aGUgZ2l2ZW4gb3Blbmhvb2sgaW4gZ3ppcC4iIiIKICAgIGlmIG1vZGUgYW5kICJiIiBub3QgaW4gbW9kZToKICAgICAgICBtb2RlICs9ICJiIgoKICAgIHJldHVybiBnemlwLkd6aXBGaWxlKGZpbGVvYmo9b3Blbmhvb2soZmlsZW5hbWUsIG1vZGUpLCBtb2RlPW1vZGUpCgoKZGVmIGx6NF9vcGVuKGZpbGVuYW1lOiBzdHIsIG1vZGU6IHN0ciA9ICJyYiIsIG9wZW5ob29rOiBBbnkgPSBvcGVuKSAtPiBsejQuZnJhbWUuTFo0RnJhbWVGaWxlOgogICAgaWYgbW9kZSBhbmQgImIiIG5vdCBpbiBtb2RlOgogICAgICAgIG1vZGUgKz0gImIiCgogICAgcmV0dXJuIGx6NC5mcmFtZS5MWjRGcmFtZUZpbGUob3Blbmhvb2soZmlsZW5hbWUsIG1vZGUpLCBtb2RlPW1vZGUpCgoKZGVmIHpzdGRfb3BlbihmaWxlbmFtZTogc3RyLCBtb2RlOiBzdHIgPSAicmIiLCBvcGVuaG9vazogQW55ID0gb3BlbikgLT4gQmluYXJ5SU86CiAgICBpZiBtb2RlIGFuZCAiYiIgbm90IGluIG1vZGU6CiAgICAgICAgbW9kZSArPSAiYiIKCiAgICByZXR1cm4genN0YW5kYXJkLm9wZW4ob3Blbmhvb2soZmlsZW5hbWUsIG1vZGUpLCBtb2RlPW1vZGUsIGNsb3NlZmQ9VHJ1ZSkKCgpkZWYgb3Blbl9ieV9maWxlX3BhdHRlcm4oZmlsZW5hbWU6IFVuaW9uW3N0ciwgUGF0aF0sIG1vZGU6IHN0ciA9ICJyIiwgKiprd2FyZ3M6IEFueSkgLT4gQW55OgogICAgIiIiQ2FuIHJlYWQvd3JpdGUgdG8gZmlsZXMgb24gZ2NzL2xvY2FsIHdpdGggb3Igd2l0aG91dCBnemlwcGluZy4gSWYgZmlsZQogICAgaXMgc3RvcmVkIG9uIGdjcywgc3RyZWFtcyB3aXRoIGJsb2JmaWxlLiBPdGhlcndpc2UgdXNlIHZhbmlsbGEgcHl0aG9uIG9wZW4uIElmCiAgICBmaWxlbmFtZSBlbmRzd2l0aCBneiwgdGhlbiB6aXAvdW56aXAgY29udGVudHMgb24gdGhlIGZseSAobm90ZSB0aGF0IGdjcyBwYXRocyBhbmQKICAgIGd6aXAgYXJlIGNvbXBhdGlibGUpIiIiCiAgICBvcGVuX2ZuID0gcGFydGlhbChiZi5CbG9iRmlsZSwgKiprd2FyZ3MpCgogICAgaWYgaXNpbnN0YW5jZShmaWxlbmFtZSwgUGF0aCk6CiAgICAgICAgZmlsZW5hbWUgPSBmaWxlbmFtZS5hc19wb3NpeCgpCgogICAgdHJ5OgogICAgICAgIGlmIGZpbGVuYW1lLmVuZHN3aXRoKCIuZ3oiKToKICAgICAgICAgICAgcmV0dXJuIGd6aXBfb3BlbihmaWxlbmFtZSwgb3Blbmhvb2s9b3Blbl9mbiwgbW9kZT1tb2RlKQogICAgICAgIGVsaWYgZmlsZW5hbWUuZW5kc3dpdGgoIi5sejQiKToKICAgICAgICAgICAgcmV0dXJuIGx6NF9vcGVuKGZpbGVuYW1lLCBvcGVuaG9vaz1vcGVuX2ZuLCBtb2RlPW1vZGUpCiAgICAgICAgZWxpZiBmaWxlbmFtZS5lbmRzd2l0aCgiLnpzdCIpOgogICAgICAgICAgICByZXR1cm4genN0ZF9vcGVuKGZpbGVuYW1lLCBvcGVuaG9vaz1vcGVuX2ZuLCBtb2RlPW1vZGUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2NoZW1lID0gdXJsbGliLnBhcnNlLnVybHBhcnNlKGZpbGVuYW1lKS5zY2hlbWUKICAgICAgICAgICAgaWYgKG5vdCBvcy5wYXRoLmV4aXN0cyhmaWxlbmFtZSkpIGFuZCAoc2NoZW1lID09ICIiIG9yIHNjaGVtZSA9PSAiZmlsZSIpOgogICAgICAgICAgICAgICAgcmV0dXJuIG9wZW5fZm4oCiAgICAgICAgICAgICAgICAgICAgb3MucGF0aC5qb2luKAogICAgICAgICAgICAgICAgICAgICAgICBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksCiAgICAgICAgICAgICAgICAgICAgICAgICJyZWdpc3RyeSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJkYXRhIiwKICAgICAgICAgICAgICAgICAgICAgICAgZmlsZW5hbWUsCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICBtb2RlPW1vZGUsCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByZXR1cm4gb3Blbl9mbihmaWxlbmFtZSwgbW9kZT1tb2RlKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihmIkZhaWxlZCB0byBvcGVuOiB7ZmlsZW5hbWV9IikgZnJvbSBlCgoKZGVmIF9kZWNvZGVfanNvbihsaW5lLCBwYXRoLCBsaW5lX251bWJlcik6CiAgICB0cnk6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMobGluZSkKICAgIGV4Y2VwdCBqc29uLkpTT05EZWNvZGVFcnJvciBhcyBlOgogICAgICAgIGN1c3RvbV9lcnJvcl9tZXNzYWdlID0gKAogICAgICAgICAgICBmIkVycm9yIHBhcnNpbmcgSlNPTiBvbiBsaW5lIHtsaW5lX251bWJlcn06IHtlLm1zZ30gYXQge3BhdGh9OntsaW5lX251bWJlcn06e2UuY29sbm99IgogICAgICAgICkKICAgICAgICBsb2dnZXIuZXJyb3IoY3VzdG9tX2Vycm9yX21lc3NhZ2UpCiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihjdXN0b21fZXJyb3JfbWVzc2FnZSkgZnJvbSBOb25lCgoKZGVmIF9nZXRfanNvbmxfZmlsZShwYXRoKToKICAgIGxvZ2dlci5pbmZvKGYiRmV0Y2hpbmcge3BhdGh9IikKICAgIHdpdGggb3Blbl9ieV9maWxlX3BhdHRlcm4ocGF0aCwgbW9kZT0iciIpIGFzIGY6CiAgICAgICAgcmV0dXJuIFtfZGVjb2RlX2pzb24obGluZSwgcGF0aCwgaSArIDEpIGZvciBpLCBsaW5lIGluIGVudW1lcmF0ZShmKV0KCgpkZWYgX2dldF9qc29uX2ZpbGUocGF0aCk6CiAgICBsb2dnZXIuaW5mbyhmIkZldGNoaW5nIHtwYXRofSIpCiAgICB3aXRoIG9wZW5fYnlfZmlsZV9wYXR0ZXJuKHBhdGgsIG1vZGU9InIiKSBhcyBmOgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKGYucmVhZCgpKQoKCmRlZiBfc3RyZWFtX2pzb25sX2ZpbGUocGF0aCkgLT4gSXRlcmF0b3I6CiAgICBsb2dnZXIuaW5mbyhmIlN0cmVhbWluZyB7cGF0aH0iKQogICAgd2l0aCBiZi5CbG9iRmlsZShwYXRoLCAiciIsIHN0cmVhbWluZz1UcnVlKSBhcyBmOgogICAgICAgIGZvciBsaW5lIGluIGY6CiAgICAgICAgICAgIHlpZWxkIGpzb24ubG9hZHMobGluZSkKCgpkZWYgZ2V0X2xpbmVzKHBhdGgpIC0+IGxpc3RbZGljdF06CiAgICAiIiIKICAgIEdldCBhIGxpc3Qgb2YgbGluZXMgZnJvbSBhIGZpbGUuCiAgICAiIiIKICAgIHdpdGggb3Blbl9ieV9maWxlX3BhdHRlcm4ocGF0aCwgbW9kZT0iciIpIGFzIGY6CiAgICAgICAgcmV0dXJuIGYucmVhZGxpbmVzKCkKCgpkZWYgZ2V0X2pzb25sKHBhdGg6IHN0cikgLT4gbGlzdFtkaWN0XToKICAgICIiIgogICAgRXh0cmFjdCBqc29uIGxpbmVzIGZyb20gdGhlIGdpdmVuIHBhdGguCiAgICBJZiB0aGUgcGF0aCBpcyBhIGRpcmVjdG9yeSwgbG9vayBpbiBzdWJwYXRocyByZWN1cnNpdmVseS4KCiAgICBSZXR1cm4gYWxsIGxpbmVzIGZyb20gYWxsIGpzb25sIGZpbGVzIGFzIGEgc2luZ2xlIGxpc3QuCiAgICAiIiIKICAgIGlmIGJmLmlzZGlyKHBhdGgpOgogICAgICAgIHJlc3VsdCA9IFtdCiAgICAgICAgZm9yIGZpbGVuYW1lIGluIGJmLmxpc3RkaXIocGF0aCk6CiAgICAgICAgICAgIGlmIGZpbGVuYW1lLmVuZHN3aXRoKCIuanNvbmwiKToKICAgICAgICAgICAgICAgIHJlc3VsdCArPSBnZXRfanNvbmwob3MucGF0aC5qb2luKHBhdGgsIGZpbGVuYW1lKSkKICAgICAgICByZXR1cm4gcmVzdWx0CiAgICByZXR1cm4gX2dldF9qc29ubF9maWxlKHBhdGgpCgoKZGVmIGdldF9qc29ubHMocGF0aHM6IFNlcXVlbmNlW3N0cl0sIGxpbmVfbGltaXQ9Tm9uZSkgLT4gbGlzdFtkaWN0XToKICAgIHJldHVybiBsaXN0KGl0ZXJfanNvbmxzKHBhdGhzLCBsaW5lX2xpbWl0KSkKCgpkZWYgZ2V0X2pzb24ocGF0aCkgLT4gZGljdDoKICAgIGlmIGJmLmlzZGlyKHBhdGgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIlBhdGggaXMgYSBkaXJlY3RvcnksIG9ubHkgZmlsZXMgYXJlIHN1cHBvcnRlZCIpCiAgICByZXR1cm4gX2dldF9qc29uX2ZpbGUocGF0aCkKCgpkZWYgaXRlcl9qc29ubHMocGF0aHM6IFVuaW9uW3N0ciwgbGlzdFtzdHJdXSwgbGluZV9saW1pdD1Ob25lKSAtPiBJdGVyYXRvcltkaWN0XToKICAgICIiIgogICAgRm9yIGVhY2ggcGF0aCBpbiB0aGUgaW5wdXQsIGl0ZXJhdGUgb3ZlciB0aGUganNvbmwgZmlsZXMgaW4gdGhhdCBwYXRoLgogICAgTG9vayBpbiBzdWJkaXJlY3RvcmllcyByZWN1cnNpdmVseS4KCiAgICBVc2UgYW4gaXRlcmF0b3IgdG8gY29uc2VydmUgbWVtb3J5LgogICAgIiIiCiAgICBpZiB0eXBlKHBhdGhzKSA9PSBzdHI6CiAgICAgICAgcGF0aHMgPSBbcGF0aHNdCgogICAgZGVmIF9pdGVyKCk6CiAgICAgICAgZm9yIHBhdGggaW4gcGF0aHM6CiAgICAgICAgICAgIGlmIGJmLmlzZGlyKHBhdGgpOgogICAgICAgICAgICAgICAgZm9yIGZpbGVuYW1lIGluIGJmLmxpc3RkaXIocGF0aCk6CiAgICAgICAgICAgICAgICAgICAgaWYgZmlsZW5hbWUuZW5kc3dpdGgoIi5qc29ubCIpOgogICAgICAgICAgICAgICAgICAgICAgICB5aWVsZCBmcm9tIGl0ZXJfanNvbmxzKFtvcy5wYXRoLmpvaW4ocGF0aCwgZmlsZW5hbWUpXSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHlpZWxkIGZyb20gX3N0cmVhbV9qc29ubF9maWxlKHBhdGgpCgogICAgcmV0dXJuIGl0ZXJ0b29scy5pc2xpY2UoX2l0ZXIoKSwgbGluZV9saW1pdCkKCgpkZWYgZ2V0X2NzdihwYXRoLCBmaWVsZG5hbWVzPU5vbmUpOgogICAgd2l0aCBiZi5CbG9iRmlsZShwYXRoLCAiciIsIGNhY2hlX2Rpcj0iL3RtcC9iZl9jYWNoZSIsIHN0cmVhbWluZz1GYWxzZSkgYXMgZjoKICAgICAgICByZWFkZXIgPSBjc3YuRGljdFJlYWRlcihmLCBmaWVsZG5hbWVzPWZpZWxkbmFtZXMpCiAgICAgICAgcmV0dXJuIFtyb3cgZm9yIHJvdyBpbiByZWFkZXJdCgoKZGVmIF90b19weV90eXBlcyhvOiBBbnksIGV4Y2x1ZGVfa2V5czogTGlzdFtUZXh0XSkgLT4gQW55OgogICAgaWYgaXNpbnN0YW5jZShvLCBkaWN0KToKICAgICAgICByZXR1cm4gewogICAgICAgICAgICBrOiBfdG9fcHlfdHlwZXModiwgZXhjbHVkZV9rZXlzPWV4Y2x1ZGVfa2V5cykKICAgICAgICAgICAgZm9yIGssIHYgaW4gby5pdGVtcygpCiAgICAgICAgICAgIGlmIGsgbm90IGluIGV4Y2x1ZGVfa2V5cwogICAgICAgIH0KCiAgICBpZiBpc2luc3RhbmNlKG8sIGxpc3QpOgogICAgICAgIHJldHVybiBbX3RvX3B5X3R5cGVzKHYsIGV4Y2x1ZGVfa2V5cz1leGNsdWRlX2tleXMpIGZvciB2IGluIG9dCgogICAgaWYgaXNpbnN0YW5jZShvLCBQYXRoKToKICAgICAgICByZXR1cm4gby5hc19wb3NpeCgpCgogICAgaWYgZGF0YWNsYXNzZXMuaXNfZGF0YWNsYXNzKG8pOgogICAgICAgIHJldHVybiBfdG9fcHlfdHlwZXMoZGF0YWNsYXNzZXMuYXNkaWN0KG8pLCBleGNsdWRlX2tleXM9ZXhjbHVkZV9rZXlzKQoKICAgICMgcHlkYW50aWMgZGF0YSBjbGFzc2VzCiAgICBpZiBpc2luc3RhbmNlKG8sIHB5ZGFudGljLkJhc2VNb2RlbCk6CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgazogX3RvX3B5X3R5cGVzKHYsIGV4Y2x1ZGVfa2V5cz1leGNsdWRlX2tleXMpCiAgICAgICAgICAgIGZvciBrLCB2IGluIGpzb24ubG9hZHMoby5tb2RlbF9kdW1wX2pzb24oKSkuaXRlbXMoKQogICAgICAgICAgICBpZiBrIG5vdCBpbiBleGNsdWRlX2tleXMKICAgICAgICB9CgogICAgcmV0dXJuIG8KCgpjbGFzcyBFbmhhbmNlZEpTT05FbmNvZGVyKGpzb24uSlNPTkVuY29kZXIpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGV4Y2x1ZGVfa2V5czogT3B0aW9uYWxbTGlzdFtUZXh0XV0gPSBOb25lLCAqKmt3YXJnczogQW55KToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCoqa3dhcmdzKQogICAgICAgIHNlbGYuZXhjbHVkZV9rZXlzID0gZXhjbHVkZV9rZXlzIGlmIGV4Y2x1ZGVfa2V5cyBlbHNlIFtdCgogICAgZGVmIGRlZmF1bHQoc2VsZiwgbzogQW55KSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIF90b19weV90eXBlcyhvLCBzZWxmLmV4Y2x1ZGVfa2V5cykKCgpkZWYganNvbmR1bXBzKG86IEFueSwgZW5zdXJlX2FzY2lpOiBib29sID0gRmFsc2UsICoqa3dhcmdzOiBBbnkpIC0+IHN0cjoKICAgICMgVGhlIEpTT05FbmNvZGVyIGNsYXNzJ3MgLmRlZmF1bHQgbWV0aG9kIGlzIG9ubHkgYXBwbGllZCB0byBkaWN0aW9uYXJ5IHZhbHVlcywKICAgICMgbm90IGtleXMuIEluIG9yZGVyIHRvIGV4Y2x1ZGUga2V5cyBmcm9tIHRoZSBvdXRwdXQgb2YgdGhpcyBqc29uZHVtcHMgbWV0aG9kCiAgICAjIHdlIG5lZWQgdG8gZXhjbHVkZSB0aGVtIG91dHNpZGUgdGhlIGVuY29kZXIuCiAgICBpZiBpc2luc3RhbmNlKG8sIGRpY3QpIGFuZCAiZXhjbHVkZV9rZXlzIiBpbiBrd2FyZ3M6CiAgICAgICAgZm9yIGtleSBpbiBrd2FyZ3NbImV4Y2x1ZGVfa2V5cyJdOgogICAgICAgICAgICBkZWwgb1trZXldCiAgICByZXR1cm4ganNvbi5kdW1wcyhvLCBjbHM9RW5oYW5jZWRKU09ORW5jb2RlciwgZW5zdXJlX2FzY2lpPWVuc3VyZV9hc2NpaSwgKiprd2FyZ3MpCgoKZGVmIGpzb25kdW1wKG86IEFueSwgZnA6IEFueSwgZW5zdXJlX2FzY2lpOiBib29sID0gRmFsc2UsICoqa3dhcmdzOiBBbnkpIC0+IE5vbmU6CiAgICBqc29uLmR1bXAobywgZnAsIGNscz1FbmhhbmNlZEpTT05FbmNvZGVyLCBlbnN1cmVfYXNjaWk9ZW5zdXJlX2FzY2lpLCAqKmt3YXJncykKCgpkZWYganNvbmxvYWRzKHM6IHN0ciwgKiprd2FyZ3M6IEFueSkgLT4gQW55OgogICAgcmV0dXJuIGpzb24ubG9hZHMocywgKiprd2FyZ3MpCgoKZGVmIGpzb25sb2FkKGZwOiBBbnksICoqa3dhcmdzOiBBbnkpIC0+IEFueToKICAgIHJldHVybiBqc29uLmxvYWQoZnAsICoqa3dhcmdzKQo=
+"""
+This file defines utilities for working with data and files of various types.
+"""
+import csv
+import dataclasses
+import gzip
+import itertools
+import json
+import logging
+import os
+import urllib
+from collections.abc import Iterator
+from functools import partial
+from pathlib import Path
+from typing import Any, BinaryIO, List, Optional, Sequence, Text, Union
+
+import blobfile as bf
+import lz4.frame
+import pydantic
+import zstandard
+
+logger = logging.getLogger(__name__)
+
+
+def gzip_open(filename: str, mode: str = "rb", openhook: Any = open) -> gzip.GzipFile:
+    """Wrap the given openhook in gzip."""
+    if mode and "b" not in mode:
+        mode += "b"
+
+    return gzip.GzipFile(fileobj=openhook(filename, mode), mode=mode)
+
+
+def lz4_open(filename: str, mode: str = "rb", openhook: Any = open) -> lz4.frame.LZ4FrameFile:
+    if mode and "b" not in mode:
+        mode += "b"
+
+    return lz4.frame.LZ4FrameFile(openhook(filename, mode), mode=mode)
+
+
+def zstd_open(filename: str, mode: str = "rb", openhook: Any = open) -> BinaryIO:
+    if mode and "b" not in mode:
+        mode += "b"
+
+    return zstandard.open(openhook(filename, mode), mode=mode, closefd=True)
+
+
+def open_by_file_pattern(filename: Union[str, Path], mode: str = "r", **kwargs: Any) -> Any:
+    """Can read/write to files on gcs/local with or without gzipping. If file
+    is stored on gcs, streams with blobfile. Otherwise use vanilla python open. If
+    filename endswith gz, then zip/unzip contents on the fly (note that gcs paths and
+    gzip are compatible)"""
+    open_fn = partial(bf.BlobFile, **kwargs)
+
+    if isinstance(filename, Path):
+        filename = filename.as_posix()
+
+    try:
+        if filename.endswith(".gz"):
+            return gzip_open(filename, openhook=open_fn, mode=mode)
+        elif filename.endswith(".lz4"):
+            return lz4_open(filename, openhook=open_fn, mode=mode)
+        elif filename.endswith(".zst"):
+            return zstd_open(filename, openhook=open_fn, mode=mode)
+        else:
+            scheme = urllib.parse.urlparse(filename).scheme
+            if (not os.path.exists(filename)) and (scheme == "" or scheme == "file"):
+                return open_fn(
+                    os.path.join(
+                        os.path.dirname(os.path.abspath(__file__)),
+                        "registry",
+                        "data",
+                        filename,
+                    ),
+                    mode=mode,
+                )
+            else:
+                return open_fn(filename, mode=mode)
+    except Exception as e:
+        raise RuntimeError(f"Failed to open: {filename}") from e
+
+
+def _decode_json(line, path, line_number):
+    try:
+        return json.loads(line)
+    except json.JSONDecodeError as e:
+        custom_error_message = (
+            f"Error parsing JSON on line {line_number}: {e.msg} at {path}:{line_number}:{e.colno}"
+        )
+        logger.error(custom_error_message)
+        raise ValueError(custom_error_message) from None
+
+
+def _get_jsonl_file(path):
+    logger.info(f"Fetching {path}")
+    with open_by_file_pattern(path, mode="r") as f:
+        return [_decode_json(line, path, i + 1) for i, line in enumerate(f)]
+
+
+def _get_json_file(path):
+    logger.info(f"Fetching {path}")
+    with open_by_file_pattern(path, mode="r") as f:
+        return json.loads(f.read())
+
+
+def _stream_jsonl_file(path) -> Iterator:
+    logger.info(f"Streaming {path}")
+    with bf.BlobFile(path, "r", streaming=True) as f:
+        for line in f:
+            yield json.loads(line)
+
+
+def get_lines(path) -> list[dict]:
+    """
+    Get a list of lines from a file.
+    """
+    with open_by_file_pattern(path, mode="r") as f:
+        return f.readlines()
+
+
+def get_jsonl(path: str) -> list[dict]:
+    """
+    Extract json lines from the given path.
+    If the path is a directory, look in subpaths recursively.
+
+    Return all lines from all jsonl files as a single list.
+    """
+    if bf.isdir(path):
+        result = []
+        for filename in bf.listdir(path):
+            if filename.endswith(".jsonl"):
+                result += get_jsonl(os.path.join(path, filename))
+        return result
+    return _get_jsonl_file(path)
+
+
+def get_jsonls(paths: Sequence[str], line_limit=None) -> list[dict]:
+    return list(iter_jsonls(paths, line_limit))
+
+
+def get_json(path) -> dict:
+    if bf.isdir(path):
+        raise ValueError("Path is a directory, only files are supported")
+    return _get_json_file(path)
+
+
+def iter_jsonls(paths: Union[str, list[str]], line_limit=None) -> Iterator[dict]:
+    """
+    For each path in the input, iterate over the jsonl files in that path.
+    Look in subdirectories recursively.
+
+    Use an iterator to conserve memory.
+    """
+    if type(paths) == str:
+        paths = [paths]
+
+    def _iter():
+        for path in paths:
+            if bf.isdir(path):
+                for filename in bf.listdir(path):
+                    if filename.endswith(".jsonl"):
+                        yield from iter_jsonls([os.path.join(path, filename)])
+            else:
+                yield from _stream_jsonl_file(path)
+
+    return itertools.islice(_iter(), line_limit)
+
+
+def get_csv(path, fieldnames=None):
+    with bf.BlobFile(path, "r", cache_dir="/tmp/bf_cache", streaming=False) as f:
+        reader = csv.DictReader(f, fieldnames=fieldnames)
+        return [row for row in reader]
+
+
+def _to_py_types(o: Any, exclude_keys: List[Text]) -> Any:
+    if isinstance(o, dict):
+        return {
+            k: _to_py_types(v, exclude_keys=exclude_keys)
+            for k, v in o.items()
+            if k not in exclude_keys
+        }
+
+    if isinstance(o, list):
+        return [_to_py_types(v, exclude_keys=exclude_keys) for v in o]
+
+    if isinstance(o, Path):
+        return o.as_posix()
+
+    if dataclasses.is_dataclass(o):
+        return _to_py_types(dataclasses.asdict(o), exclude_keys=exclude_keys)
+
+    # pydantic data classes
+    if isinstance(o, pydantic.BaseModel):
+        return {
+            k: _to_py_types(v, exclude_keys=exclude_keys)
+            for k, v in json.loads(o.model_dump_json()).items()
+            if k not in exclude_keys
+        }
+
+    return o
+
+
+class EnhancedJSONEncoder(json.JSONEncoder):
+    def __init__(self, exclude_keys: Optional[List[Text]] = None, **kwargs: Any):
+        super().__init__(**kwargs)
+        self.exclude_keys = exclude_keys if exclude_keys else []
+
+    def default(self, o: Any) -> str:
+        return _to_py_types(o, self.exclude_keys)
+
+
+def jsondumps(o: Any, ensure_ascii: bool = False, **kwargs: Any) -> str:
+    # The JSONEncoder class's .default method is only applied to dictionary values,
+    # not keys. In order to exclude keys from the output of this jsondumps method
+    # we need to exclude them outside the encoder.
+    if isinstance(o, dict) and "exclude_keys" in kwargs:
+        for key in kwargs["exclude_keys"]:
+            del o[key]
+    return json.dumps(o, cls=EnhancedJSONEncoder, ensure_ascii=ensure_ascii, **kwargs)
+
+
+def jsondump(o: Any, fp: Any, ensure_ascii: bool = False, **kwargs: Any) -> None:
+    json.dump(o, fp, cls=EnhancedJSONEncoder, ensure_ascii=ensure_ascii, **kwargs)
+
+
+def jsonloads(s: str, **kwargs: Any) -> Any:
+    return json.loads(s, **kwargs)
+
+
+def jsonload(fp: Any, **kwargs: Any) -> Any:
+    return json.load(fp, **kwargs)

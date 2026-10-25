@@ -1,1 +1,80 @@
-aW1wb3J0IGpzb24sIG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBQSUwgaW1wb3J0IEltYWdlCmltcG9ydCBvcywgc3VicHJvY2VzcwpwbHQucmNQYXJhbXNbJ2ZvbnQuc2Fucy1zZXJpZiddPVsnV2VuUXVhbllpIE1pY3JvIEhlaScsJ0RlamFWdSBTYW5zJ10KcGx0LnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXT1GYWxzZQpUT0tFTj0nSzdNNFFYJwpyPWpzb24ubG9hZChvcGVuKCdyZXN1bHQxNTIuanNvbicpKTsgZz1qc29uLmxvYWQob3BlbigncmVzdWx0MTUyYi5qc29uJykpCnN0ZXBzX2M9c29ydGVkKHJbJ2N1bHR1cmUnXSwga2V5PWxhbWJkYSBrOmludChrKSk7IHN0ZXBzX3M9c29ydGVkKHJbJ3NvbG8nXSwga2V5PWxhbWJkYSBrOmludChrKSkKeHM9W2ludChyWydzb2xvJ11ba11bJ3N0ZXBzJ10pIGZvciBrIGluIHN0ZXBzX3NdCmZpZyxheD1wbHQuc3VicGxvdHMoMiwzLGZpZ3NpemU9KDE1LDkpKQpkZWYgZ3JhYihkLGssZik6IAogICAgcmV0dXJuIFtyW2RdW3N0cihrayldW2ZdIGZvciBrayBpbiBrXQojMSBkZWF0aCBPTiBzb2xvIHZzIGN1bHQKYT1heFswLDBdCmZvciBkZWF0aCxjb2wsbWsgaW4gWygnT04nLCdyZWQnLCdvJyldOgogICAga3M9W2sgZm9yIGsgaW4gZ1snZ3JpZCddIGlmIGdbJ2dyaWQnXVtrXVsnZGVhdGgnXV0KICAgIGtzLnNvcnQoa2V5PWxhbWJkYSBrOmdbJ2dyaWQnXVtrXVsnc3RlcHMnXSkKICAgIFg9W2dbJ2dyaWQnXVtrXVsnc3RlcHMnXSBmb3IgayBpbiBrc10KICAgIGEucGxvdChYLFtnWydncmlkJ11ba11bJ3NvbG8nXSBmb3IgayBpbiBrc10sJ28tJyxjb2xvcj0ncmVkJyxsYWJlbD0nc29sbyDljZXkurrplb/ot5EnKQogICAgYS5wbG90KFgsW2dbJ2dyaWQnXVtrXVsnY3VsdCddIGZvciBrIGluIGtzXSwncy0nLGNvbG9yPSdibHVlJyxsYWJlbD0nY3VsdHVyZSDlpJrku6Pnu6fmib8nKQphLnNldF94c2NhbGUoJ2xvZycpOyBhLnNldF90aXRsZSgn5q275Lqh5rWBIE9O77yac29sbyDlgJJVIHZzIGN1bHR1cmUg5bmz5Y+wJyxmb250c2l6ZT0xMSkKYS5zZXRfeGxhYmVsKCfmgLvmraXmlbAnKTsgYS5zZXRfeWxhYmVsKCfkv53kvY/nmoQgdGFyZ2V0Jyk7IGEubGVnZW5kKGZvbnRzaXplPTgpOyBhLmdyaWQoYWxwaGE9LjMpCmEuYXhobGluZSg3NSxscz0nOicsYz0nZ3JheScpCiMyIGRlYXRoIE9GRgphPWF4WzAsMV0Ka3M9W2sgZm9yIGsgaW4gZ1snZ3JpZCddIGlmIG5vdCBnWydncmlkJ11ba11bJ2RlYXRoJ11dOyBrcy5zb3J0KGtleT1sYW1iZGEgazpnWydncmlkJ11ba11bJ3N0ZXBzJ10pClg9W2dbJ2dyaWQnXVtrXVsnc3RlcHMnXSBmb3IgayBpbiBrc10KYS5wbG90KFgsW2dbJ2dyaWQnXVtrXVsnc29sbyddIGZvciBrIGluIGtzXSwnby0nLGNvbG9yPSdyZWQnLGxhYmVsPSdzb2xvJykKYS5wbG90KFgsW2dbJ2dyaWQnXVtrXVsnY3VsdCddIGZvciBrIGluIGtzXSwncy0nLGNvbG9yPSdibHVlJyxsYWJlbD0nY3VsdHVyZScpCmEuc2V0X3hzY2FsZSgnbG9nJyk7IGEuc2V0X3RpdGxlKCfmrbvkuqHmtYEgT0ZG77yac29sbyDnm7TmjqXmu6HliIY3Ne+8jGN1bHR1cmUg5Y+N6ICM5LiN5aaCJyxmb250c2l6ZT0xMSkKYS5zZXRfeGxhYmVsKCfmgLvmraXmlbAnKTsgYS5sZWdlbmQoZm9udHNpemU9OCk7IGEuZ3JpZChhbHBoYT0uMyk7IGEuYXhobGluZSg3NSxscz0nOicsYz0nZ3JheScpCiMzIGRlbHRhCmE9YXhbMCwyXQpmb3IgZGVhdGggaW4gW1RydWUsRmFsc2VdOgogICAga3M9W2sgZm9yIGsgaW4gZ1snZ3JpZCddIGlmIGdbJ2dyaWQnXVtrXVsnZGVhdGgnXT09ZGVhdGhdOyBrcy5zb3J0KGtleT1sYW1iZGEgazpnWydncmlkJ11ba11bJ3N0ZXBzJ10pCiAgICBYPVtnWydncmlkJ11ba11bJ3N0ZXBzJ10gZm9yIGsgaW4ga3NdCiAgICBhLnBsb3QoWCxbZ1snZ3JpZCddW2tdWydkZWx0YV9jdWx0X21pbnVzX3NvbG8nXSBmb3IgayBpbiBrc10sJ28tJywKICAgICAgICAgICBjb2xvcj0ncmVkJyBpZiBkZWF0aCBlbHNlICdncmVlbicsbGFiZWw9J+atu+S6oU9OJyBpZiBkZWF0aCBlbHNlICfmrbvkuqFPRkYnKQphLmF4aGxpbmUoMCxjb2xvcj0naycsbHc9MSk7IGEuc2V0X3hzY2FsZSgnbG9nJykKYS5zZXRfdGl0bGUoJ2N1bHR1cmUg4oiSIHNvbG/vvJrnrKblj7fnlLHkuJbnlYzmmK/lkKbmrbvkuqHlhrPlrponLGZvbnRzaXplPTExKQphLnNldF94bGFiZWwoJ+aAu+atpeaVsCcpOyBhLnNldF95bGFiZWwoJ+W3ruWAvCcpOyBhLmxlZ2VuZChmb250c2l6ZT04KTsgYS5ncmlkKGFscGhhPS4zKQojNCBzb2xvX3NlZyDpmLTmgKflr7nnhacKYT1heFsxLDBdCmdnPXNvcnRlZChyWydzb2xvX3NlZyddLGtleT1sYW1iZGEgazppbnQoaykpCmEucGxvdChbaW50KHJbJ3NvbG9fc2VnJ11ba11bJ3N0ZXBzJ10pIGZvciBrIGluIGdnXSxbclsnc29sb19zZWcnXVtrXVsnbWVhbiddIGZvciBrIGluIGdnXSwnby0nLGNvbG9yPSdncmF5JyxsYWJlbD0nc29sb19zZWcg5YiG5Luj5L2G5LiN57un5om/JykKYS5wbG90KFtpbnQoclsnY3VsdHVyZSddW2tdWydzdGVwcyddKSBmb3IgayBpbiBzdGVwc19jXSxbclsnY3VsdHVyZSddW2tdWydtZWFuJ10gZm9yIGsgaW4gc3RlcHNfY10sJ3MtJyxjb2xvcj0nYmx1ZScsbGFiZWw9J2N1bHR1cmUg5YiG5LujK+e7p+aJvycpCmEuc2V0X3hzY2FsZSgnbG9nJyk7IGEuc2V0X3RpdGxlKCfpmLTmgKflr7nnhafvvJrliIbku6PmnKzouqvml6Dku7flgLwo5oGS5a6afjM4Ke+8jOS7t+WAvOWcqOe7p+aJvycsZm9udHNpemU9MTEpCmEuc2V0X3hsYWJlbCgn5oC75q2l5pWwJyk7IGEubGVnZW5kKGZvbnRzaXplPTgpOyBhLmdyaWQoYWxwaGE9LjMpCiM1IGNyb3Nzb3ZlciB6b29tCmE9YXhbMSwxXQprcz1bayBmb3IgayBpbiBnWydncmlkJ10gaWYgZ1snZ3JpZCddW2tdWydkZWF0aCddIGFuZCBnWydncmlkJ11ba11bJ3N0ZXBzJ108PTI0MDBdCmtzLnNvcnQoa2V5PWxhbWJkYSBrOmdbJ2dyaWQnXVtrXVsnc3RlcHMnXSkKWD1bZ1snZ3JpZCddW2tdWydzdGVwcyddIGZvciBrIGluIGtzXQphLnBsb3QoWCxbZ1snZ3JpZCddW2tdWydzb2xvJ10gZm9yIGsgaW4ga3NdLCdvLScsY29sb3I9J3JlZCcsbGFiZWw9J3NvbG8g5bOw5YC8NzIuNUA2MDAnKQphLnBsb3QoWCxbZ1snZ3JpZCddW2tdWydjdWx0J10gZm9yIGsgaW4ga3NdLCdzLScsY29sb3I9J2JsdWUnLGxhYmVsPSdjdWx0dXJlJykKYS5zZXRfdGl0bGUoJ+S6pOWPieeCue+8mjYwMH4yNDAwIOatpeS5i+mXtCBzb2xvIOeUseS8mOi9rOWKoycsZm9udHNpemU9MTEpCmEuc2V0X3hsYWJlbCgn5oC75q2l5pWwJyk7IGEubGVnZW5kKGZvbnRzaXplPTgpOyBhLmdyaWQoYWxwaGE9LjMpCiM2IGtub3duIHNhdHVyYXRpb24KYT1heFsxLDJdCmEucGxvdChbaW50KHJbJ2N1bHR1cmUnXVtrXVsnc3RlcHMnXSkgZm9yIGsgaW4gc3RlcHNfY10sW3JbJ2N1bHR1cmUnXVtrXVsna25vd24nXSBmb3IgayBpbiBzdGVwc19jXSwncy0nLGNvbG9yPSdwdXJwbGUnKQphLnNldF94c2NhbGUoJ2xvZycpOyBhLnNldF90aXRsZSgn5paH5YyW5bqTIGtub3duIOmlseWSjOS6jiA3Ne+8iOWFqOmDqHRhcmdldO+8iScsZm9udHNpemU9MTEpCmEuc2V0X3hsYWJlbCgn5oC75q2l5pWwJyk7IGEuc2V0X3lsYWJlbCgna25vd24nKTsgYS5ncmlkKGFscGhhPS4zKTsgYS5heGhsaW5lKDc1LGxzPSc6JyxjPSdncmF5JykKZmlnLnN1cHRpdGxlKCcxNTIg5paH5YyWIHZzIOaXtumXtO+8muetiemihOeul+S4i+iwgeabtOW8uiAgIFRPS0VOICcrVE9LRU4sZm9udHNpemU9MTQpCmZpZy50aWdodF9sYXlvdXQocmVjdD1bMCwwLDEsMC45NV0pCnBsdC5zYXZlZmlnKCdyZW5kZXIxNTIucG5nJyxkcGk9MTAwKQppbT1JbWFnZS5vcGVuKCdyZW5kZXIxNTIucG5nJykuY29udmVydCgnUkdCQScpLnJlc2l6ZSgoMTAyNCw3NjgpKQpyYXc9aW0udG9ieXRlcygpOyBwcmludCgncmF3IGJ5dGVzJyxsZW4ocmF3KSkKRkI9Jy9kZXYvZmIwJwpmZD1vcy5vcGVuKEZCLG9zLk9fUkRXUikKb3MubHNlZWsoZmQsMCwwKTsgb3Mud3JpdGUoZmQscmF3KQpvcy5sc2VlayhmZCwwLDApOyBjYXA9b3MucmVhZChmZCxsZW4ocmF3KSkgICAjIOeri+WNs+WbnumHhygxNDfmlZnorq0pCm9zLmNsb3NlKGZkKQpwcmludCgnSURFTlRJQ0FMJywgcmF3PT1jYXAsICdsZW5fY2FwJywgbGVuKGNhcCkpCm9wZW4oJ2NhcHR1cmVkLmJpbicsJ3diJykud3JpdGUoY2FwKQpJbWFnZS5mcm9tYnl0ZXMoJ1JHQkEnLCgxMDI0LDc2OCksY2FwKS5zYXZlKCdjYXB0dXJlZC5wbmcnKQppbXBvcnQgaGFzaGxpYgpwcmludCgnc2hhX3JhdycsaGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTJdKQpwcmludCgnc2hhX2NhcCcsaGFzaGxpYi5zaGEyNTYoY2FwKS5oZXhkaWdlc3QoKVs6MTJdKQo=
+import json, matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from PIL import Image
+import os, subprocess
+plt.rcParams['font.sans-serif']=['WenQuanYi Micro Hei','DejaVu Sans']
+plt.rcParams['axes.unicode_minus']=False
+TOKEN='K7M4QX'
+r=json.load(open('result152.json')); g=json.load(open('result152b.json'))
+steps_c=sorted(r['culture'], key=lambda k:int(k)); steps_s=sorted(r['solo'], key=lambda k:int(k))
+xs=[int(r['solo'][k]['steps']) for k in steps_s]
+fig,ax=plt.subplots(2,3,figsize=(15,9))
+def grab(d,k,f): 
+    return [r[d][str(kk)][f] for kk in k]
+#1 death ON solo vs cult
+a=ax[0,0]
+for death,col,mk in [('ON','red','o')]:
+    ks=[k for k in g['grid'] if g['grid'][k]['death']]
+    ks.sort(key=lambda k:g['grid'][k]['steps'])
+    X=[g['grid'][k]['steps'] for k in ks]
+    a.plot(X,[g['grid'][k]['solo'] for k in ks],'o-',color='red',label='solo 单人长跑')
+    a.plot(X,[g['grid'][k]['cult'] for k in ks],'s-',color='blue',label='culture 多代继承')
+a.set_xscale('log'); a.set_title('死亡流 ON：solo 倒U vs culture 平台',fontsize=11)
+a.set_xlabel('总步数'); a.set_ylabel('保住的 target'); a.legend(fontsize=8); a.grid(alpha=.3)
+a.axhline(75,ls=':',c='gray')
+#2 death OFF
+a=ax[0,1]
+ks=[k for k in g['grid'] if not g['grid'][k]['death']]; ks.sort(key=lambda k:g['grid'][k]['steps'])
+X=[g['grid'][k]['steps'] for k in ks]
+a.plot(X,[g['grid'][k]['solo'] for k in ks],'o-',color='red',label='solo')
+a.plot(X,[g['grid'][k]['cult'] for k in ks],'s-',color='blue',label='culture')
+a.set_xscale('log'); a.set_title('死亡流 OFF：solo 直接满分75，culture 反而不如',fontsize=11)
+a.set_xlabel('总步数'); a.legend(fontsize=8); a.grid(alpha=.3); a.axhline(75,ls=':',c='gray')
+#3 delta
+a=ax[0,2]
+for death in [True,False]:
+    ks=[k for k in g['grid'] if g['grid'][k]['death']==death]; ks.sort(key=lambda k:g['grid'][k]['steps'])
+    X=[g['grid'][k]['steps'] for k in ks]
+    a.plot(X,[g['grid'][k]['delta_cult_minus_solo'] for k in ks],'o-',
+           color='red' if death else 'green',label='死亡ON' if death else '死亡OFF')
+a.axhline(0,color='k',lw=1); a.set_xscale('log')
+a.set_title('culture − solo：符号由世界是否死亡决定',fontsize=11)
+a.set_xlabel('总步数'); a.set_ylabel('差值'); a.legend(fontsize=8); a.grid(alpha=.3)
+#4 solo_seg 阴性对照
+a=ax[1,0]
+gg=sorted(r['solo_seg'],key=lambda k:int(k))
+a.plot([int(r['solo_seg'][k]['steps']) for k in gg],[r['solo_seg'][k]['mean'] for k in gg],'o-',color='gray',label='solo_seg 分代但不继承')
+a.plot([int(r['culture'][k]['steps']) for k in steps_c],[r['culture'][k]['mean'] for k in steps_c],'s-',color='blue',label='culture 分代+继承')
+a.set_xscale('log'); a.set_title('阴性对照：分代本身无价值(恒定~38)，价值在继承',fontsize=11)
+a.set_xlabel('总步数'); a.legend(fontsize=8); a.grid(alpha=.3)
+#5 crossover zoom
+a=ax[1,1]
+ks=[k for k in g['grid'] if g['grid'][k]['death'] and g['grid'][k]['steps']<=2400]
+ks.sort(key=lambda k:g['grid'][k]['steps'])
+X=[g['grid'][k]['steps'] for k in ks]
+a.plot(X,[g['grid'][k]['solo'] for k in ks],'o-',color='red',label='solo 峰值72.5@600')
+a.plot(X,[g['grid'][k]['cult'] for k in ks],'s-',color='blue',label='culture')
+a.set_title('交叉点：600~2400 步之间 solo 由优转劣',fontsize=11)
+a.set_xlabel('总步数'); a.legend(fontsize=8); a.grid(alpha=.3)
+#6 known saturation
+a=ax[1,2]
+a.plot([int(r['culture'][k]['steps']) for k in steps_c],[r['culture'][k]['known'] for k in steps_c],'s-',color='purple')
+a.set_xscale('log'); a.set_title('文化库 known 饱和于 75（全部target）',fontsize=11)
+a.set_xlabel('总步数'); a.set_ylabel('known'); a.grid(alpha=.3); a.axhline(75,ls=':',c='gray')
+fig.suptitle('152 文化 vs 时间：等预算下谁更强   TOKEN '+TOKEN,fontsize=14)
+fig.tight_layout(rect=[0,0,1,0.95])
+plt.savefig('render152.png',dpi=100)
+im=Image.open('render152.png').convert('RGBA').resize((1024,768))
+raw=im.tobytes(); print('raw bytes',len(raw))
+FB='/dev/fb0'
+fd=os.open(FB,os.O_RDWR)
+os.lseek(fd,0,0); os.write(fd,raw)
+os.lseek(fd,0,0); cap=os.read(fd,len(raw))   # 立即回采(147教训)
+os.close(fd)
+print('IDENTICAL', raw==cap, 'len_cap', len(cap))
+open('captured.bin','wb').write(cap)
+Image.frombytes('RGBA',(1024,768),cap).save('captured.png')
+import hashlib
+print('sha_raw',hashlib.sha256(raw).hexdigest()[:12])
+print('sha_cap',hashlib.sha256(cap).hexdigest()[:12])

@@ -1,1 +1,153 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCueOu+eSg++8jOS4jeaYr+e6uCDigJTigJQg5YiG5bGC5Y+g5Yqg44CCCgrnurjvvJphbHBoYSBvdmVy77yM5LiK5bGC55uW5o6J5LiL5bGC44CC5Yqg5LiA5bGC77yM5bCR5LiA5bGC44CCCueOu+eSg++8muWKoOiJsu+8jOavj+WxgumDveeVmeedgOOAguWPoOi1t+adpeaYr+aWsOeahOS4nOilv++8jOS4jeaYr+abv+aNouOAggoK5omA5Lul5Y+v5Lul5YiG5bel77ya5q+P5bGC5Y+q5bmy5LiA5Lu25LqL77yM5ZCE55S75ZCE55qE77yM5pyA5ZCO5Y+g5Yqg44CCCuavj+WxgueLrOeri+a4suafk+OAgeeLrOeri+WTiOW4jOOAgeWPr+WNleeLrOabv+aNoiDigJTigJQg5o2i5LiA5bGC5LiN55So6YeN55S75YWo6YOo44CCCgogICAgcHl0aG9uMyBsYXllci5weSDlj6AgICAgICAgICAgIyDkuInlsYLliIblt6Xlj6DliqDvvIzlh7rkuIDlvKAKICAgIHB5dGhvbjMgbGF5ZXIucHkg5q+UICAgICAgICAgICMg57q4IHZzIOeOu+eSg++8muWQjOagt+eahOWxgu+8jOWPoOWHuuadpeW3ruWkmuWwkQogICAgcHl0aG9uMyBsYXllci5weSDljZUg5bGC5ZCNICAgICAjIOWPqueci+afkOS4gOWxggoiIiIKaW1wb3J0IG9zLCBzeXMsIG1hdGgsIHRpbWUsIGhhc2hsaWIsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYi5wYXRjaGVzIGltcG9ydCBDaXJjbGUsIFJlY3RhbmdsZQpwbHQucmNQYXJhbXNbImZvbnQuc2Fucy1zZXJpZiJdID0gWyJXZW5RdWFuWWkgTWljcm8gSGVpIl0KcGx0LnJjUGFyYW1zWyJheGVzLnVuaWNvZGVfbWludXMiXSA9IEZhbHNlCmZyb20gUElMIGltcG9ydCBJbWFnZQoKUk9PVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpzeXMucGF0aC5pbnNlcnQoMCwgUk9PVCkKaW1wb3J0IGV5ZQoKVyA9IEggPSA1MTIKT1JBTkdFID0gbnAuYXJyYXkoWzEuMCwgMC40MiwgMC4wXSkKCgpkZWYgYmxhbmsoKToKICAgIHJldHVybiBucC56ZXJvcygoSCwgVywgMykpCgoKZGVmIHl5eHgoKToKICAgIHl5LCB4eCA9IG5wLm1ncmlkWzA6SCwgMDpXXS5hc3R5cGUoZmxvYXQpCiAgICByZXR1cm4geXksIHh4CgoKIyAtLS0tLS0tLS0tIOS4ieWxguWIhuW3pSAtLS0tLS0tLS0tCmRlZiBsYXllcl9ncm91bmQoKToKICAgICIiIuW6leWxgu+8muS9oOeahOecvOedm++8iOihsOWHj+Wcuu+8ieOAguiwgemDveiDveaNou+8jOS9huWug+aYr+aJgOacieS4nOilv+eahOW6leOAgiIiIgogICAgeXksIHh4ID0geXl4eCgpCiAgICBweF9wZXJfZGVnID0gVyAvIGV5ZS5TQ1JFRU5fV19ERUcKICAgIGVjYyA9IG5wLnNxcnQoKHl5IC0gSC8yKSoqMiArICh4eCAtIFcvMikqKjIpIC8gcHhfcGVyX2RlZwogICAgYSA9IG5wLnZlY3Rvcml6ZShleWUuYWN1aXR5KShlY2MpCiAgICBvdXQgPSBucC56ZXJvcygoSCwgVywgMykpCiAgICBvdXRbLi4uLCAwXSA9IG5wLmNsaXAoYSwgMCwgMSkgKiAwLjU1CiAgICBvdXRbLi4uLCAxXSA9IG5wLmNsaXAoYSwgMCwgMSkgKiAwLjIxCiAgICByZXR1cm4gb3V0CgoKZGVmIGxheWVyX2JvZHkoKToKICAgICIiIuS4reWxgu+8mui6q+S9k++8iOaEn+WumOW4pu+8ieOAguWPqueUu+ecvC/lj6Mv5omLL+iusO+8jOS4jeeUu+e7k+iuuuOAgiIiIgogICAgb3V0ID0gYmxhbmsoKQogICAgeXksIHh4ID0geXl4eCgpCiAgICAjIOWbm+adoeaEn+WumOW4pu+8jOaoquWQkQogICAgYmFuZHMgPSBbKCLnnLwiLCAwLjMwLCAxLjAwKSwgKCLlj6MiLCAwLjQ0LCAwLjYyKSwKICAgICAgICAgICAgICgi5omLIiwgMC41OCwgMC44NiksICgi6K6wIiwgMC43MiwgMC4yMCldCiAgICBmb3IgXywgY3ksIHcgaW4gYmFuZHM6CiAgICAgICAgbSA9IChucC5hYnMoeXkgLSBjeSAqIEgpIDwgOSkgJiAoeHggPCB3ICogVykgJiAoeHggPiAwLjEwICogVykKICAgICAgICBvdXRbbV0gPSBPUkFOR0UgKiAwLjU1CiAgICByZXR1cm4gb3V0CgoKZGVmIGxheWVyX3BvaW50KCk6CiAgICAiIiLpobblsYLvvJrkuLvnu5PorrrjgILlj6rmnInkuIDlnZfvvIzokL3lnKjkuK3lv4PjgIIiIiIKICAgIG91dCA9IGJsYW5rKCkKICAgIHl5LCB4eCA9IHl5eHgoKQogICAgciA9IG5wLnNxcnQoKHl5IC0gSC8yKSoqMiArICh4eCAtIFcvMikqKjIpCiAgICBtID0gciA8IChleWUuRk9WRUFfREVHIC8gMikgLyBleWUuU0NSRUVOX1dfREVHICogVwogICAgb3V0W21dID0gT1JBTkdFCiAgICByZXR1cm4gb3V0CgoKTEFZRVJTID0gWygi5bqV5bGCwrfkvaDnmoTnnLznnZsiLCBsYXllcl9ncm91bmQpLAogICAgICAgICAgKCLkuK3lsYLCt+i6q+S9kyIsIGxheWVyX2JvZHkpLAogICAgICAgICAgKCLpobblsYLCt+S4u+e7k+iuuiIsIGxheWVyX3BvaW50KV0KCgpkZWYgZ2xhc3MobHMsIHdlaWdodHM9Tm9uZSk6CiAgICAiIiLnjrvnkoPvvJrliqDoibLvvIzmr4/lsYLpg73nlZnnnYAiIiIKICAgIHdlaWdodHMgPSB3ZWlnaHRzIG9yIFsxLjBdICogbGVuKGxzKQogICAgb3V0ID0gbnAuemVyb3NfbGlrZShsc1swXSkKICAgIGZvciBMLCB3IGluIHppcChscywgd2VpZ2h0cyk6CiAgICAgICAgb3V0ID0gb3V0ICsgTCAqIHcKICAgIHJldHVybiBucC5jbGlwKG91dCwgMCwgMSkKCgpkZWYgcGFwZXIobHMpOgogICAgIiIi57q477yaYWxwaGEgb3Zlcu+8jOS4iuWxguebluaOieS4i+WxgiIiIgogICAgb3V0ID0gbnAuemVyb3NfbGlrZShsc1swXSkKICAgIGZvciBMIGluIGxzOgogICAgICAgIGEgPSBucC5jbGlwKEwubWF4KGF4aXM9Miwga2VlcGRpbXM9VHJ1ZSksIDAsIDEpCiAgICAgICAgb3V0ID0gTCAqIGEgKyBvdXQgKiAoMSAtIGEpCiAgICByZXR1cm4gbnAuY2xpcChvdXQsIDAsIDEpCgoKZGVmIHNoYShhKToKICAgIHJldHVybiBoYXNobGliLnNoYTI1NihucC5yb3VuZChhLCA2KS50b2J5dGVzKCkpLmhleGRpZ2VzdCgpWzoxMl0KCgpkZWYgc2F2ZShhLCBuYW1lKToKICAgIHAgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIuaEn+WumOahpSIsIG5hbWUpCiAgICBJbWFnZS5mcm9tYXJyYXkoKG5wLmNsaXAoYSwgMCwgMSkgKiAyNTUpLmFzdHlwZShucC51aW50OCkpLnNhdmUocCkKICAgIHJldHVybiBwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGNtZCA9IHN5cy5hcmd2WzFdIGlmIGxlbihzeXMuYXJndikgPiAxIGVsc2UgIuWPoCIKICAgIGlmIGNtZCA9PSAi5Y2VIjoKICAgICAgICB3YW50ID0gc3lzLmFyZ3ZbMl0KICAgICAgICBmb3IgbiwgZiBpbiBMQVlFUlM6CiAgICAgICAgICAgIGlmIHdhbnQgaW4gbjoKICAgICAgICAgICAgICAgIHByaW50KHNhdmUoZigpLCAiX+Wxgl8lcy5wbmciICUgd2FudCkpCiAgICAgICAgICAgICAgICBicmVhawogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCLlsYLlkI3msqHljLnphY3liLDvvJvlj6/nlKjvvJoiLCBbbiBmb3IgbiwgXyBpbiBMQVlFUlNdKQogICAgZWxpZiBjbWQgPT0gIuavlCI6CiAgICAgICAgbHMgPSBbZigpIGZvciBfLCBmIGluIExBWUVSU10KICAgICAgICBnLCBwID0gZ2xhc3MobHMpLCBwYXBlcihscykKICAgICAgICBwcmludCgiICDkuInlsYLkuIDmoLfvvIzlkIjmiJDmlrnlvI/kuI3lkIzvvJpcbiIpCiAgICAgICAgcHJpbnQoIiAgJS0xMHMgJS0xNHMgJS0xNHMgJXMiICUgKCLlkIjmiJAiLCAi5oC75Lqu5bqmIiwgIuWTiOW4jCIsICLlkKvkuYkiKSkKICAgICAgICBwcmludCgiICAlLTEwcyAlLTE0cyAlLTE0cyAlcyIgJSAoIue6uCjopobnm5YpIiwgIiUuMWYiICUgcC5zdW0oKSwgc2hhKHApLCAi5LiK5bGC5ZCD5o6J5LiL5bGCIikpCiAgICAgICAgcHJpbnQoIiAgJS0xMHMgJS0xNHMgJS0xNHMgJXMiICUgKCLnjrvnkoMo5Yqg6ImyKSIsICIlLjFmIiAlIGcuc3VtKCksIHNoYShnKSwgIuS4ieWxgumDveWcqCIpKQogICAgICAgIGRpZmYgPSBucC5hYnMoZyAtIHApLm1lYW4oKQogICAgICAgIHByaW50KCJcbiAg5bmz5Z2H5beuICUuNGYgIOKGkiDlj6Dlh7rmnaXkuI3mmK/lkIzkuIDlvKDlm74iICUgZGlmZikKICAgICAgICBzYXZlKGcsICLnrKblj7dfdjEyX+eOu+eSg1/lj6DliqAucG5nIikKICAgICAgICBzYXZlKHAsICJf57q4X+WvueeFpy5wbmciKQogICAgICAgIHByaW50KCJcbiAg5bey5a2Y77ya56ym5Y+3X3YxMl/njrvnkoNf5Y+g5YqgLnBuZyAvIF/nurhf5a+554WnLnBuZyIpCiAgICBlbHNlOgogICAgICAgIHQwID0gdGltZS50aW1lKCkKICAgICAgICBscywgbmFtZXMgPSBbXSwgW10KICAgICAgICBwcmludCgiICDliIblt6XvvJpcbiIpCiAgICAgICAgZm9yIG4sIGYgaW4gTEFZRVJTOgogICAgICAgICAgICB0ID0gdGltZS50aW1lKCkKICAgICAgICAgICAgTCA9IGYoKQogICAgICAgICAgICBscy5hcHBlbmQoTCk7IG5hbWVzLmFwcGVuZChuKQogICAgICAgICAgICBwcmludCgiICAgICUtMTRzICUtNnMg5Lqu5bqmICUtOC4xZiDlk4jluIwgJXMiCiAgICAgICAgICAgICAgICAgICUgKG4sICIlLjNmcyIgJSAodGltZS50aW1lKCktdCksIEwuc3VtKCksIHNoYShMKSkpCiAgICAgICAgdDEgPSB0aW1lLnRpbWUoKQogICAgICAgIG91dCA9IGdsYXNzKGxzKQogICAgICAgIHQyID0gdGltZS50aW1lKCkKICAgICAgICBwID0gc2F2ZShvdXQsICLnrKblj7dfdjEyX+eOu+eSg1/lj6DliqAucG5nIikKICAgICAgICBwcmludCgiXG4gIOWPoOWKoCAlLjNmcyAg5oC7ICUuM2ZzIiAlICh0MiAtIHQxLCB0MiAtIHQwKSkKICAgICAgICBwcmludCgiICDlkIjmiJDlkI7kuq7luqYgJS4xZu+8iOS4ieWxguS5i+WSjCAlLjFm77yJIiAlIChvdXQuc3VtKCksIHN1bShMLnN1bSgpIGZvciBMIGluIGxzKSkpCiAgICAgICAgcHJpbnQoIiAg5L+d5a2YICVzIiAlIHApCiAgICAgICAgaW1wb3J0IHN5bWJvbAogICAgICAgIHIgPSBzeW1ib2wuanVkZ2UocCk7IGUgPSBleWUuZWNjX29mX21haW4ocCkKICAgICAgICBwcmludCgiICDlnZfmlbAgJWQgwrcg5a2Y5rS7ICVzIMK3IOemu+W/gyAlLjJmwrAgwrcg5Lit5aSu5Ye55YaFICVzIgogICAgICAgICAgICAgICUgKHJbIuWdl+aVsCJdLCByWyLpmY3ph4fmoLflrZjmtLsiXSwgZSwgZSA8PSBleWUuRk9WRUFfREVHIC8gMikpCg==
+# -*- coding: utf-8 -*-
+"""
+玻璃，不是纸 —— 分层叠加。
+
+纸：alpha over，上层盖掉下层。加一层，少一层。
+玻璃：加色，每层都留着。叠起来是新的东西，不是替换。
+
+所以可以分工：每层只干一件事，各画各的，最后叠加。
+每层独立渲染、独立哈希、可单独替换 —— 换一层不用重画全部。
+
+    python3 layer.py 叠          # 三层分工叠加，出一张
+    python3 layer.py 比          # 纸 vs 玻璃：同样的层，叠出来差多少
+    python3 layer.py 单 层名     # 只看某一层
+"""
+import os, sys, math, time, hashlib, json
+import numpy as np
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Circle, Rectangle
+plt.rcParams["font.sans-serif"] = ["WenQuanYi Micro Hei"]
+plt.rcParams["axes.unicode_minus"] = False
+from PIL import Image
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, ROOT)
+import eye
+
+W = H = 512
+ORANGE = np.array([1.0, 0.42, 0.0])
+
+
+def blank():
+    return np.zeros((H, W, 3))
+
+
+def yyxx():
+    yy, xx = np.mgrid[0:H, 0:W].astype(float)
+    return yy, xx
+
+
+# ---------- 三层分工 ----------
+def layer_ground():
+    """底层：你的眼睛（衰减场）。谁都能换，但它是所有东西的底。"""
+    yy, xx = yyxx()
+    px_per_deg = W / eye.SCREEN_W_DEG
+    ecc = np.sqrt((yy - H/2)**2 + (xx - W/2)**2) / px_per_deg
+    a = np.vectorize(eye.acuity)(ecc)
+    out = np.zeros((H, W, 3))
+    out[..., 0] = np.clip(a, 0, 1) * 0.55
+    out[..., 1] = np.clip(a, 0, 1) * 0.21
+    return out
+
+
+def layer_body():
+    """中层：身体（感官带）。只画眼/口/手/记，不画结论。"""
+    out = blank()
+    yy, xx = yyxx()
+    # 四条感官带，横向
+    bands = [("眼", 0.30, 1.00), ("口", 0.44, 0.62),
+             ("手", 0.58, 0.86), ("记", 0.72, 0.20)]
+    for _, cy, w in bands:
+        m = (np.abs(yy - cy * H) < 9) & (xx < w * W) & (xx > 0.10 * W)
+        out[m] = ORANGE * 0.55
+    return out
+
+
+def layer_point():
+    """顶层：主结论。只有一块，落在中心。"""
+    out = blank()
+    yy, xx = yyxx()
+    r = np.sqrt((yy - H/2)**2 + (xx - W/2)**2)
+    m = r < (eye.FOVEA_DEG / 2) / eye.SCREEN_W_DEG * W
+    out[m] = ORANGE
+    return out
+
+
+LAYERS = [("底层·你的眼睛", layer_ground),
+          ("中层·身体", layer_body),
+          ("顶层·主结论", layer_point)]
+
+
+def glass(ls, weights=None):
+    """玻璃：加色，每层都留着"""
+    weights = weights or [1.0] * len(ls)
+    out = np.zeros_like(ls[0])
+    for L, w in zip(ls, weights):
+        out = out + L * w
+    return np.clip(out, 0, 1)
+
+
+def paper(ls):
+    """纸：alpha over，上层盖掉下层"""
+    out = np.zeros_like(ls[0])
+    for L in ls:
+        a = np.clip(L.max(axis=2, keepdims=True), 0, 1)
+        out = L * a + out * (1 - a)
+    return np.clip(out, 0, 1)
+
+
+def sha(a):
+    return hashlib.sha256(np.round(a, 6).tobytes()).hexdigest()[:12]
+
+
+def save(a, name):
+    p = os.path.join(ROOT, "感官桥", name)
+    Image.fromarray((np.clip(a, 0, 1) * 255).astype(np.uint8)).save(p)
+    return p
+
+
+if __name__ == "__main__":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "叠"
+    if cmd == "单":
+        want = sys.argv[2]
+        for n, f in LAYERS:
+            if want in n:
+                print(save(f(), "_层_%s.png" % want))
+                break
+        else:
+            print("层名没匹配到；可用：", [n for n, _ in LAYERS])
+    elif cmd == "比":
+        ls = [f() for _, f in LAYERS]
+        g, p = glass(ls), paper(ls)
+        print("  三层一样，合成方式不同：\n")
+        print("  %-10s %-14s %-14s %s" % ("合成", "总亮度", "哈希", "含义"))
+        print("  %-10s %-14s %-14s %s" % ("纸(覆盖)", "%.1f" % p.sum(), sha(p), "上层吃掉下层"))
+        print("  %-10s %-14s %-14s %s" % ("玻璃(加色)", "%.1f" % g.sum(), sha(g), "三层都在"))
+        diff = np.abs(g - p).mean()
+        print("\n  平均差 %.4f  → 叠出来不是同一张图" % diff)
+        save(g, "符号_v12_玻璃_叠加.png")
+        save(p, "_纸_对照.png")
+        print("\n  已存：符号_v12_玻璃_叠加.png / _纸_对照.png")
+    else:
+        t0 = time.time()
+        ls, names = [], []
+        print("  分工：\n")
+        for n, f in LAYERS:
+            t = time.time()
+            L = f()
+            ls.append(L); names.append(n)
+            print("    %-14s %-6s 亮度 %-8.1f 哈希 %s"
+                  % (n, "%.3fs" % (time.time()-t), L.sum(), sha(L)))
+        t1 = time.time()
+        out = glass(ls)
+        t2 = time.time()
+        p = save(out, "符号_v12_玻璃_叠加.png")
+        print("\n  叠加 %.3fs  总 %.3fs" % (t2 - t1, t2 - t0))
+        print("  合成后亮度 %.1f（三层之和 %.1f）" % (out.sum(), sum(L.sum() for L in ls)))
+        print("  保存 %s" % p)
+        import symbol
+        r = symbol.judge(p); e = eye.ecc_of_main(p)
+        print("  块数 %d · 存活 %s · 离心 %.2f° · 中央凹内 %s"
+              % (r["块数"], r["降采样存活"], e, e <= eye.FOVEA_DEG / 2))

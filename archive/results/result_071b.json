@@ -1,1 +1,26 @@
-ewogIm9yYWNsZV9ubiI6IHsKICAiZXhhY3QiOiAwLjA4NzkzMTAzNDQ4Mjc1ODYyLAogICJncm91cCI6IDAuMjM0NDgyNzU4NjIwNjg5NjUsCiAgIm4iOiA1ODAsCiAgInJhbmRvbV9leGFjdCI6IDAuMDA4NjU1MTcyNDEzNzkzMDk4CiB9LAogIm9yYWNsZV92b2NhYiI6IHsKICAiZXhhY3QiOiAwLjAzOTY1NTE3MjQxMzc5MzEwNiwKICAiZ3JvdXAiOiAwLjA3NTg2MjA2ODk2NTUxNzI0LAogICJuIjogNTgwCiB9LAogIm9yYWNsZV9sZWFybiI6IHsKICAiaGl0IjogNiwKICAidG90IjogMjM4CiB9LAogInNlbGZfYXVkaXQiOiB7CiAgIm4iOiAxNTcsCiAgImZhbHNpZmlhYmxlIjogMTM3LAogICJmcmFjIjogMC44NzI2MTE0NjQ5NjgxNTI5LAogICJ3aXRoX251bWJlciI6IDEwOCwKICAibmVhcmR1cF9wYWlycyI6IDAsCiAgIm5lYXJkdXBfdG90YWwiOiAxMjI0NiwKICAibmVhcmR1cF9mcmFjIjogMC4wCiB9Cn0=
+{
+ "oracle_nn": {
+  "exact": 0.08793103448275862,
+  "group": 0.23448275862068965,
+  "n": 580,
+  "random_exact": 0.008655172413793098
+ },
+ "oracle_vocab": {
+  "exact": 0.039655172413793106,
+  "group": 0.07586206896551724,
+  "n": 580
+ },
+ "oracle_learn": {
+  "hit": 6,
+  "tot": 238
+ },
+ "self_audit": {
+  "n": 157,
+  "falsifiable": 137,
+  "frac": 0.8726114649681529,
+  "with_number": 108,
+  "neardup_pairs": 0,
+  "neardup_total": 12246,
+  "neardup_frac": 0.0
+ }
+}

@@ -1,1 +1,264 @@
-IyBteXB5OiBjaGVja191bnR5cGVkX2RlZnMgPSBGYWxzZQoiIiIKU3RhcnRzIGEgbG9jYWwgSFRUUCBzZXJ2ZXIgdG8gZGlzcGxheSBiZW5jaG1hcmtpbmcgYXNzZXRzLgoiIiIKCmltcG9ydCBhcmdwYXJzZQpmcm9tIGltcG9ydGxpYiBpbXBvcnQgcmVzb3VyY2VzCmltcG9ydCBqc29uCmltcG9ydCBvcwpmcm9tIG9zIGltcG9ydCBwYXRoCmltcG9ydCBzaHV0aWwKZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsLCBUdXBsZQppbXBvcnQgdXJsbGliCgpmcm9tIGJvdHRsZSBpbXBvcnQgQm90dGxlLCBzdGF0aWNfZmlsZSwgSFRUUFJlc3BvbnNlLCByZXNwb25zZQppbXBvcnQgeWFtbAoKZnJvbSBoZWxtLmJlbmNobWFyay5wcmVzZW50YXRpb24uc2NoZW1hIGltcG9ydCBTQ0hFTUFfQ0xBU1NJQ19ZQU1MX0ZJTEVOQU1FCmZyb20gaGVsbS5jb21tb24uZ2VuZXJhbCBpbXBvcnQgZW5zdXJlX2RpcmVjdG9yeV9leGlzdHMsIHNlcmlhbGl6ZV9kYXRlcwoKCmFwcCA9IEJvdHRsZSgpCgoKQGFwcC5nZXQoIi9jb25maWcuanMiKQpkZWYgc2VydmVfY29uZmlnKCk6CiAgICByZXNwb25zZS5jb250ZW50X3R5cGUgPSAiYXBwbGljYXRpb24vamF2YXNjcmlwdDsgY2hhcnNldD1VVEYtOCIKICAgIGlmIGFwcC5jb25maWdbImhlbG0ucmVsZWFzZSJdOgogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIGYnd2luZG93LkJFTkNITUFSS19PVVRQVVRfQkFTRV9VUkwgPSAie2FwcC5jb25maWdbImhlbG0ub3V0cHV0dXJsIl19IjtcbicKICAgICAgICAgICAgZid3aW5kb3cuUkVMRUFTRSA9ICJ7YXBwLmNvbmZpZ1siaGVsbS5yZWxlYXNlIl19IjtcbicKICAgICAgICAgICAgZid3aW5kb3cuUFJPSkVDVF9JRCA9ICJ7YXBwLmNvbmZpZ1siaGVsbS5wcm9qZWN0Il19IjtcbicKICAgICAgICApCiAgICBlbHNlOgogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIGYnd2luZG93LkJFTkNITUFSS19PVVRQVVRfQkFTRV9VUkwgPSAie2FwcC5jb25maWdbImhlbG0ub3V0cHV0dXJsIl19IjtcbicKICAgICAgICAgICAgZid3aW5kb3cuU1VJVEUgPSAie2FwcC5jb25maWdbImhlbG0uc3VpdGUiXX0iO1xuJwogICAgICAgICAgICBmJ3dpbmRvdy5QUk9KRUNUX0lEID0gInthcHAuY29uZmlnWyJoZWxtLnByb2plY3QiXX0iO1xuJwogICAgICAgICkKCgojIFNoaW0gZm9yIHJ1bm5pbmcgaGVsbS1zZXJ2ZXIgZm9yIG9sZCBzdWl0ZXMgZnJvbSBvbGQgdmVyc2lvbiBvZiBoZWxtLXN1bW1hcml6ZQojIHRoYXQgZG8gbm90IGNvbnRhaW4gc2NoZW1hLmpzb24uCiMKIyBUaGUgSEVMTSB3ZWIgZnJvbnRlbmQgZXhwZWN0cyB0byBmaW5kIGEgc2NoZW1hLmpzb24gYXQgL2JlbmNobWFya19vdXRwdXQvcnVucy88dmVyc2lvbj4vc2NoZW1hLmpzb24KIyB3aGljaCBpcyBwcm9kdWNlZCBieSB0aGUgbmV3IHZlcnNpb24gb2YgaGVsbS1zdW1tYXJpemUgYnV0IG5vdCB0aGUgb2xkIHZlcnNpb24uCiMgV2hlbiBzZXJ2aW5nIGEgc3VpdGUgcHJvZHVjZWQgYnkgdGhlIG9sZCB2ZXJzaW9uIG9mIGhlbG0tc3VtbWFyaXplLCB0aGUgc2NoZW5hLmpzb24gd2lsbCBiZSBtaXNzaW5nLgojIFRoaXMgc2hpbSBzdXBwb3J0cyB0aG9zZSBzdWl0ZXMgYnkgc2VydmluZyBhIHNjaGVuYS5qc29uIHRoYXQgaXMgZHluYW1pY2FsbHkgY29tcHV0ZWQgZnJvbSBzY2hlbWFfY2xhc3NpYy55YW1sCiMKIyBXZSB3aWxsIHJlbW92ZSB0aGlzIGluIGEgZmV3IG1vbnRocyBhZnRlciBtb3N0IHVzZXJzIGhhdmUgbW92ZWQgdG8gdGhlIG5ldyB2ZXJzaW9uIG9mIGhlbG0tc3VtbWFyaXplLgojCiMgVE9ETygyMDI0LTAzLTAxKTogUmVtb3ZlIHRoaXMuCkBhcHAuZ2V0KCIvYmVuY2htYXJrX291dHB1dC88cnVuc19vcl9yZWxlYXNlczpyZTpydW5zfHJlbGVhc2VzPi88dmVyc2lvbj4vc2NoZW1hLmpzb24iKQpkZWYgc2VydmVyX3NjaGVtYShydW5zX29yX3JlbGVhc2VzLCB2ZXJzaW9uKToKICAgIHJlbGF0aXZlX3NjaGVtYV9wYXRoID0gcGF0aC5qb2luKHJ1bnNfb3JfcmVsZWFzZXMsIHZlcnNpb24sICJzY2hlbWEuanNvbiIpCiAgICBhYnNvbHV0ZV9zY2hlbWFfcGF0aCA9IHBhdGguam9pbihhcHAuY29uZmlnWyJoZWxtLm91dHB1dHBhdGgiXSwgcmVsYXRpdmVfc2NoZW1hX3BhdGgpCiAgICBpZiBwYXRoLmlzZmlsZShhYnNvbHV0ZV9zY2hlbWFfcGF0aCk6CiAgICAgICAgcmVzcG9uc2UgPSBzdGF0aWNfZmlsZShyZWxhdGl2ZV9zY2hlbWFfcGF0aCwgcm9vdD1hcHAuY29uZmlnWyJoZWxtLm91dHB1dHBhdGgiXSkKICAgIGVsc2U6CiAgICAgICAgIyBTdWl0ZSBkb2VzIG5vdCBjb250YWluIHNjaGVtYS5qc29uCiAgICAgICAgIyBGYWxsIGJhY2sgdG8gc2NoZW1hX2NsYXNzaWMueWFtbCBmcm9tIHRoZSBzdGF0aWMgZGlyZWN0b3J5CiAgICAgICAgY2xhc3NpY19zY2hlbWFfcGF0aCA9IHBhdGguam9pbihhcHAuY29uZmlnWyJoZWxtLnN0YXRpY3BhdGgiXSwgU0NIRU1BX0NMQVNTSUNfWUFNTF9GSUxFTkFNRSkKICAgICAgICB3aXRoIG9wZW4oY2xhc3NpY19zY2hlbWFfcGF0aCwgInIiKSBhcyBmOgogICAgICAgICAgICByZXNwb25zZSA9IEhUVFBSZXNwb25zZShqc29uLmR1bXBzKHlhbWwuc2FmZV9sb2FkKGYpLCBpbmRlbnQ9MiwgZGVmYXVsdD1zZXJpYWxpemVfZGF0ZXMpKQogICAgcmVzcG9uc2Uuc2V0X2hlYWRlcigiQ2FjaGUtQ29udHJvbCIsICJuby1jYWNoZSwgbm8tc3RvcmUsIG11c3QtcmV2YWxpZGF0ZSIpCiAgICByZXNwb25zZS5zZXRfaGVhZGVyKCJFeHBpcmVzIiwgIjAiKQogICAgcmVzcG9uc2UuY29udGVudF90eXBlID0gImFwcGxpY2F0aW9uL2pzb24iCiAgICByZXR1cm4gcmVzcG9uc2UKCgpAYXBwLmdldCgiL2JlbmNobWFya19vdXRwdXQvPGZpbGVuYW1lOnBhdGg+IikKZGVmIHNlcnZlX2JlbmNobWFya19vdXRwdXQoZmlsZW5hbWUpOgogICAgcmVzcG9uc2UgPSBzdGF0aWNfZmlsZShmaWxlbmFtZSwgcm9vdD1hcHAuY29uZmlnWyJoZWxtLm91dHB1dHBhdGgiXSkKICAgIHJlc3BvbnNlLnNldF9oZWFkZXIoIkNhY2hlLUNvbnRyb2wiLCAibm8tY2FjaGUsIG5vLXN0b3JlLCBtdXN0LXJldmFsaWRhdGUiKQogICAgcmVzcG9uc2Uuc2V0X2hlYWRlcigiRXhwaXJlcyIsICIwIikKICAgIHJldHVybiByZXNwb25zZQoKCkBhcHAuZ2V0KCIvY2FjaGUvb3V0cHV0LzxmaWxlbmFtZTpwYXRoPiIpCmRlZiBzZXJ2ZV9jYWNoZV9vdXRwdXQoZmlsZW5hbWUpOgogICAgcmVzcG9uc2UgPSBzdGF0aWNfZmlsZShmaWxlbmFtZSwgcm9vdD1hcHAuY29uZmlnWyJoZWxtLmNhY2hlb3V0cHV0cGF0aCJdKQogICAgcmVzcG9uc2Uuc2V0X2hlYWRlcigiQ2FjaGUtQ29udHJvbCIsICJuby1jYWNoZSwgbm8tc3RvcmUsIG11c3QtcmV2YWxpZGF0ZSIpCiAgICByZXNwb25zZS5zZXRfaGVhZGVyKCJFeHBpcmVzIiwgIjAiKQogICAgcmV0dXJuIHJlc3BvbnNlCgoKQGFwcC5nZXQoIi8iKQpAYXBwLmdldCgiLzxmaWxlbmFtZTpwYXRoPiIpCmRlZiBzZXJ2ZV9zdGF0aWMoZmlsZW5hbWU9ImluZGV4Lmh0bWwiKToKICAgIHJlc3BvbnNlID0gc3RhdGljX2ZpbGUoZmlsZW5hbWUsIHJvb3Q9YXBwLmNvbmZpZ1siaGVsbS5zdGF0aWNwYXRoIl0pCiAgICByZXR1cm4gcmVzcG9uc2UKCgpkZWYgX2dldF9sYXRlc3Rfc3VtbWFyeShydW5zX29yX3JlbGVhc2VzX3BhdGg6IHN0cikgLT4gT3B0aW9uYWxbVHVwbGVbc3RyLCBmbG9hdF1dOgogICAgaWYgbm90IHBhdGguaXNkaXIocnVuc19vcl9yZWxlYXNlc19wYXRoKToKICAgICAgICByZXR1cm4gTm9uZQogICAgbW9kaWZpZWRfYW5kX25hbWU6IExpc3RbVHVwbGVbZmxvYXQsIHN0cl1dID0gW10KICAgIGZvciBzdWl0ZSBpbiBvcy5saXN0ZGlyKHJ1bnNfb3JfcmVsZWFzZXNfcGF0aCk6CiAgICAgICAgc3VtbWFyeV9wYXRoID0gcGF0aC5qb2luKHJ1bnNfb3JfcmVsZWFzZXNfcGF0aCwgc3VpdGUsICJzdW1tYXJ5Lmpzb24iKQogICAgICAgIGlmIHBhdGguaXNmaWxlKHN1bW1hcnlfcGF0aCk6CiAgICAgICAgICAgIG1vZGlmaWVkX2FuZF9uYW1lLmFwcGVuZCgocGF0aC5nZXRtdGltZShzdW1tYXJ5X3BhdGgpLCBzdWl0ZSkpCiAgICBpZiBub3QgbW9kaWZpZWRfYW5kX25hbWU6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGxhdGVzdF9tb2RpZmllZF9hbmRfbmFtZSA9IG1heChtb2RpZmllZF9hbmRfbmFtZSkKICAgIHJldHVybiAobGF0ZXN0X21vZGlmaWVkX2FuZF9uYW1lWzFdLCBsYXRlc3RfbW9kaWZpZWRfYW5kX25hbWVbMF0pCgoKZGVmIGV4cG9ydF93ZWJzaXRlKGV4cG9ydF9wYXRoOiBzdHIpIC0+IE5vbmU6CiAgICBpZiBvcy5wYXRoLmV4aXN0cyhleHBvcnRfcGF0aCk6CiAgICAgICAgaWYgb3MucGF0aC5pc2RpcihleHBvcnRfcGF0aCkgYW5kIG5vdCBvcy5saXN0ZGlyKGV4cG9ydF9wYXRoKToKICAgICAgICAgICAgb3Mucm1kaXIoZXhwb3J0X3BhdGgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGYiT3V0cHV0IHBhdGgge2V4cG9ydF9wYXRofSBhbHJlYWR5IGV4aXN0cyIpCgogICAgc2h1dGlsLmNvcHl0cmVlKGFwcC5jb25maWdbImhlbG0uc3RhdGljcGF0aCJdLCBleHBvcnRfcGF0aCkKCiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKGV4cG9ydF9wYXRoLCAiY29uZmlnLmpzIiksICJ3IikgYXMgZjoKICAgICAgICBmLndyaXRlKHNlcnZlX2NvbmZpZygpKQoKICAgIGJlbmNobWFya19vdXRwdXRfZXhwb3J0X3BhdGggPSBvcy5wYXRoLmpvaW4oZXhwb3J0X3BhdGgsICJiZW5jaG1hcmtfb3V0cHV0IikKICAgIGVuc3VyZV9kaXJlY3RvcnlfZXhpc3RzKGJlbmNobWFya19vdXRwdXRfZXhwb3J0X3BhdGgpCgogICAgcnVuc19wYXRoID0gb3MucGF0aC5qb2luKGFwcC5jb25maWdbImhlbG0ub3V0cHV0cGF0aCJdLCAicnVucyIpCiAgICBydW5zX2V4cG9ydF9wYXRoID0gb3MucGF0aC5qb2luKGJlbmNobWFya19vdXRwdXRfZXhwb3J0X3BhdGgsICJydW5zIikKCiAgICByZWxlYXNlc19wYXRoID0gb3MucGF0aC5qb2luKGFwcC5jb25maWdbImhlbG0ub3V0cHV0cGF0aCJdLCAicmVsZWFzZXMiKQogICAgcmVsZWFzZXNfZXhwb3J0X3BhdGggPSBvcy5wYXRoLmpvaW4oYmVuY2htYXJrX291dHB1dF9leHBvcnRfcGF0aCwgInJlbGVhc2VzIikKCiAgICBzdWl0ZXMgPSBbXQogICAgaWYgYXBwLmNvbmZpZ1siaGVsbS5zdWl0ZSJdOgogICAgICAgIHN1aXRlcyA9IFthcHAuY29uZmlnWyJoZWxtLnN1aXRlIl1dCiAgICBlbGlmIGFwcC5jb25maWdbImhlbG0ucmVsZWFzZSJdOgogICAgICAgIHJlbGVhc2Vfc3VtbWFyeV9wYXRoID0gb3MucGF0aC5qb2luKHJlbGVhc2VzX3BhdGgsIGFwcC5jb25maWdbImhlbG0ucmVsZWFzZSJdLCAic3VtbWFyeS5qc29uIikKICAgICAgICB3aXRoIG9wZW4ocmVsZWFzZV9zdW1tYXJ5X3BhdGgsICJyIikgYXMgZjoKICAgICAgICAgICAgc3VpdGVzID0ganNvbi5sb2FkKGYpWyJzdWl0ZXMiXQoKICAgIGZvciBzdWl0ZSBpbiBzdWl0ZXM6CiAgICAgICAgc3VpdGVfcGF0aCA9IG9zLnBhdGguam9pbihydW5zX3BhdGgsIHN1aXRlKQogICAgICAgIHN1aXRlX2V4cG9ydF9wYXRoID0gb3MucGF0aC5qb2luKHJ1bnNfZXhwb3J0X3BhdGgsIHN1aXRlKQogICAgICAgIHNodXRpbC5jb3B5dHJlZShzdWl0ZV9wYXRoLCBzdWl0ZV9leHBvcnRfcGF0aCkKCiAgICBpZiBhcHAuY29uZmlnWyJoZWxtLnJlbGVhc2UiXToKICAgICAgICByZWxlYXNlX3BhdGggPSBvcy5wYXRoLmpvaW4ocmVsZWFzZXNfcGF0aCwgYXBwLmNvbmZpZ1siaGVsbS5yZWxlYXNlIl0pCiAgICAgICAgcmVsZWFzZV9leHBvcnRfcGF0aCA9IG9zLnBhdGguam9pbihyZWxlYXNlc19leHBvcnRfcGF0aCwgYXBwLmNvbmZpZ1siaGVsbS5yZWxlYXNlIl0pCiAgICAgICAgc2h1dGlsLmNvcHl0cmVlKHJlbGVhc2VfcGF0aCwgcmVsZWFzZV9leHBvcnRfcGF0aCkKCgpkZWYgbWFpbigpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLXAiLCAiLS1wb3J0IiwgdHlwZT1pbnQsIGhlbHA9IldoYXQgcG9ydCB0byBsaXN0ZW4gb24iLCBkZWZhdWx0PTgwMDApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItbyIsCiAgICAgICAgIi0tb3V0cHV0LXBhdGgiLAogICAgICAgIHR5cGU9c3RyLAogICAgICAgIGhlbHA9IlRoZSBsb2NhdGlvbiBvZiB0aGUgb3V0cHV0IHBhdGggKGZpbGVzeXN0ZW0gcGF0aCBvciBVUkwpIiwKICAgICAgICBkZWZhdWx0PSJiZW5jaG1hcmtfb3V0cHV0IiwKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tY2FjaGUtb3V0cHV0LXBhdGgiLAogICAgICAgIHR5cGU9c3RyLAogICAgICAgIGhlbHA9IlRoZSBsb2NhdGlvbiBvZiB0aGUgZmlsZXN5c3RlbSBjYWNoZSBvdXRwdXQgZm9sZGVyIChmaWxlc3lzdGVtIHBhdGggb3IgVVJMKSIsCiAgICAgICAgZGVmYXVsdD0icHJvZF9lbnYvY2FjaGUvb3V0cHV0IiwKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tc3VpdGUiLAogICAgICAgIHR5cGU9c3RyLAogICAgICAgIGRlZmF1bHQ9Tm9uZSwKICAgICAgICBoZWxwPSJOYW1lIG9mIHRoZSBzdWl0ZSB0byBzZXJ2ZS4iLAogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1yZWxlYXNlIiwKICAgICAgICB0eXBlPXN0ciwKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgaGVscD0iTmFtZSBvZiB0aGUgcmVsZWFzZSB0byBzZXJ2ZS4iLAogICAgKQoKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tcHJvamVjdCIsCiAgICAgICAgdHlwZT1zdHIsCiAgICAgICAgZGVmYXVsdD1Ob25lLAogICAgICAgIGhlbHA9IkV4cGVyaW1lbnRhbDogVGhlIG5hbWUgb2YgdGhlIHByb2plY3QgdG8gZGlzcGxheSBvbiB0aGUgbGFuZGluZyBwYWdlLiIsCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLWV4cG9ydC1wYXRoIiwKICAgICAgICB0eXBlPXN0ciwKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgaGVscD0iRXhwb3J0IHRvIHRoZSBsb2NhdGlvbiBhcyBhIHN0YXRpYyB3ZWJzaXRlLiIsCiAgICApCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQoKICAgIGlmIGFyZ3Muc3VpdGUgYW5kIGFyZ3MucmVsZWFzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJBdCBtb3N0IG9uZSBvZiAtLXJlbGVhc2UgYW5kIC0tc3VpdGUgbWF5IGJlIHNldC4iKQoKICAgICMgRGV0ZXJtaW5lIHRoZSBsb2NhdGlvbiBvZiB0aGUgc3RhdGljIGRpcmVjdG9yeS4KICAgICMgVGhpcyBpcyBhIGhhY2s6IGl0IGFzc3VtZXMgdGhhdCB0aGUgc3RhdGljIGRpcmVjdG9yeSBoYXMgYSBwaHlzaWNhbCBsb2NhdGlvbiwKICAgICMgd2hpY2ggaXMgbm90IGFsd2F5cyB0aGUgY2FzZSAoZS5nLiB3aGVuIHVzaW5nIHppcGltcG9ydCkuCiAgICBzdGF0aWNfcGFja2FnZV9uYW1lID0gImhlbG0uYmVuY2htYXJrLnN0YXRpY19idWlsZCIKICAgIHJlc291cmNlX3BhdGggPSByZXNvdXJjZXMuZmlsZXMoc3RhdGljX3BhY2thZ2VfbmFtZSkuam9pbnBhdGgoImluZGV4Lmh0bWwiKQogICAgd2l0aCByZXNvdXJjZXMuYXNfZmlsZShyZXNvdXJjZV9wYXRoKSBhcyByZXNvdXJjZV9maWxlbmFtZToKICAgICAgICBzdGF0aWNfcGF0aCA9IHN0cihyZXNvdXJjZV9maWxlbmFtZS5wYXJlbnQpCgogICAgYXBwLmNvbmZpZ1siaGVsbS5zdGF0aWNwYXRoIl0gPSBzdGF0aWNfcGF0aAogICAgYXBwLmNvbmZpZ1siaGVsbS5wcm9qZWN0Il0gPSBhcmdzLnByb2plY3Qgb3IgImxpdGUiCgogICAgaWYgdXJsbGliLnBhcnNlLnVybHBhcnNlKGFyZ3Mub3V0cHV0X3BhdGgpLnNjaGVtZSBpbiBbImh0dHAiLCAiaHR0cHMiXToKICAgICAgICAjIE91dHB1dCBwYXRoIGlzIGEgVVJMLCBzbyBzZXQgdGhlIG91dHB1dCBwYXRoIGJhc2UgVVJMIGluIHRoZSBmcm9udGVuZCB0byB0aGF0IFVSTAogICAgICAgICMgc28gdGhhdCB0aGUgZnJvbnRlbmQgcmVhZHMgZnJvbSB0aGF0IFVSTCBkaXJlY3RseS4KICAgICAgICBhcHAuY29uZmlnWyJoZWxtLm91dHB1dHBhdGgiXSA9IE5vbmUKICAgICAgICAjIFRPRE86IGZpZ3VyZSBvdXQgaGVsbS5jYWNoZW91dHB1dHBhdGgKICAgICAgICBhcHAuY29uZmlnWyJoZWxtLm91dHB1dHVybCJdID0gYXJncy5vdXRwdXRfcGF0aAogICAgZWxzZToKICAgICAgICAjIE91dHB1dCBwYXRoIGlzIGEgbG9jYXRpb24gb24gZGlzaywgc28gc2V0IHRoZSBvdXRwdXQgcGF0aCBiYXNlIFVSTCB0byAvYmVuY2htYXJrX291dHB1dAogICAgICAgICMgYW5kIHRoZW4gc2VydmUgZmlsZXMgZnJvbSB0aGUgbG9jYXRpb24gb24gZGlzayBhdCB0aGF0IFVSTC4KICAgICAgICBhcHAuY29uZmlnWyJoZWxtLm91dHB1dHBhdGgiXSA9IHBhdGguYWJzcGF0aChhcmdzLm91dHB1dF9wYXRoKQogICAgICAgIGFwcC5jb25maWdbImhlbG0uY2FjaGVvdXRwdXRwYXRoIl0gPSBwYXRoLmFic3BhdGgoYXJncy5jYWNoZV9vdXRwdXRfcGF0aCkKICAgICAgICBhcHAuY29uZmlnWyJoZWxtLm91dHB1dHVybCJdID0gImJlbmNobWFya19vdXRwdXQiCgogICAgaWYgYXJncy5zdWl0ZToKICAgICAgICBhcHAuY29uZmlnWyJoZWxtLnN1aXRlIl0gPSBhcmdzLnN1aXRlCiAgICAgICAgYXBwLmNvbmZpZ1siaGVsbS5yZWxlYXNlIl0gPSBOb25lCiAgICBlbGlmIGFyZ3MucmVsZWFzZToKICAgICAgICBhcHAuY29uZmlnWyJoZWxtLnN1aXRlIl0gPSBOb25lCiAgICAgICAgYXBwLmNvbmZpZ1siaGVsbS5yZWxlYXNlIl0gPSBhcmdzLnJlbGVhc2UKICAgIGVsc2U6CiAgICAgICAgaWYgbm90IGFwcC5jb25maWdbImhlbG0ub3V0cHV0cGF0aCJdOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJPbmUgb2YgYC0tc3VpdGVgIG9yIGAtLXJlbGVhc2VgIG11c3QgYmUgc2V0IGlmIGAtLW91dHB1dF9wYXRoYCBpcyBhIFVSTCIpCiAgICAgICAgbGF0ZXN0X3N1aXRlX2FuZF9tb2RpZmllZF90aW1lID0gX2dldF9sYXRlc3Rfc3VtbWFyeShwYXRoLmpvaW4oYXBwLmNvbmZpZ1siaGVsbS5vdXRwdXRwYXRoIl0sICJydW5zIikpCiAgICAgICAgbGF0ZXN0X3JlbGVhc2VfYW5kX21vZGlmaWVkX3RpbWUgPSBfZ2V0X2xhdGVzdF9zdW1tYXJ5KHBhdGguam9pbihhcHAuY29uZmlnWyJoZWxtLm91dHB1dHBhdGgiXSwgInJlbGVhc2VzIikpCgogICAgICAgIGlmIGxhdGVzdF9zdWl0ZV9hbmRfbW9kaWZpZWRfdGltZSBhbmQgbGF0ZXN0X3JlbGVhc2VfYW5kX21vZGlmaWVkX3RpbWU6CiAgICAgICAgICAgIGlmIGxhdGVzdF9zdWl0ZV9hbmRfbW9kaWZpZWRfdGltZVsxXSA+IGxhdGVzdF9yZWxlYXNlX2FuZF9tb2RpZmllZF90aW1lWzFdOgogICAgICAgICAgICAgICAgYXBwLmNvbmZpZ1siaGVsbS5zdWl0ZSJdID0gbGF0ZXN0X3N1aXRlX2FuZF9tb2RpZmllZF90aW1lWzBdCiAgICAgICAgICAgICAgICBhcHAuY29uZmlnWyJoZWxtLnJlbGVhc2UiXSA9IE5vbmUKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGFwcC5jb25maWdbImhlbG0uc3VpdGUiXSA9IE5vbmUKICAgICAgICAgICAgICAgIGFwcC5jb25maWdbImhlbG0ucmVsZWFzZSJdID0gbGF0ZXN0X3JlbGVhc2VfYW5kX21vZGlmaWVkX3RpbWVbMF0KICAgICAgICBlbGlmIGxhdGVzdF9zdWl0ZV9hbmRfbW9kaWZpZWRfdGltZSBhbmQgbm90IGxhdGVzdF9yZWxlYXNlX2FuZF9tb2RpZmllZF90aW1lOgogICAgICAgICAgICBhcHAuY29uZmlnWyJoZWxtLnN1aXRlIl0gPSBsYXRlc3Rfc3VpdGVfYW5kX21vZGlmaWVkX3RpbWVbMF0KICAgICAgICAgICAgYXBwLmNvbmZpZ1siaGVsbS5yZWxlYXNlIl0gPSBOb25lCiAgICAgICAgZWxpZiBub3QgbGF0ZXN0X3N1aXRlX2FuZF9tb2RpZmllZF90aW1lIGFuZCBsYXRlc3RfcmVsZWFzZV9hbmRfbW9kaWZpZWRfdGltZToKICAgICAgICAgICAgYXBwLmNvbmZpZ1siaGVsbS5zdWl0ZSJdID0gTm9uZQogICAgICAgICAgICBhcHAuY29uZmlnWyJoZWxtLnJlbGVhc2UiXSA9IGxhdGVzdF9yZWxlYXNlX2FuZF9tb2RpZmllZF90aW1lWzBdCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIk5vIHN1aXRlcyBvciByZWxlYXNlcyBmb3VuZCBpbiB7YXBwLmNvbmZpZ1snaGVsbS5vdXRwdXRwYXRoJ119IikKCiAgICBpZiBhcHAuY29uZmlnWyJoZWxtLnN1aXRlIl06CiAgICAgICAgcHJpbnQoZiJTZXJ2aW5nIHN1aXRlICd7YXBwLmNvbmZpZ1snaGVsbS5zdWl0ZSddfSciKQogICAgaWYgYXBwLmNvbmZpZ1siaGVsbS5yZWxlYXNlIl06CiAgICAgICAgcHJpbnQoZiJTZXJ2aW5nIHJlbGVhc2UgJ3thcHAuY29uZmlnWydoZWxtLnJlbGVhc2UnXX0nIikKCiAgICBpZiBhcmdzLmV4cG9ydF9wYXRoOgogICAgICAgIHByaW50KGYiRXhwb3J0aW5nIHN0YXRpYyB3ZWJzaXRlIHRvICd7YXJncy5leHBvcnRfcGF0aH0nLi4uIikKICAgICAgICBleHBvcnRfd2Vic2l0ZShhcmdzLmV4cG9ydF9wYXRoKQogICAgICAgIHByaW50KGYiRXhwb3J0ZWQgc3RhdGljIHdlYnNpdGUgdG8gJ3thcmdzLmV4cG9ydF9wYXRofSciKQogICAgICAgIHByaW50KGYiVG8gZGVwbG95IHlvdXIgd2Vic2l0ZSwgdXBsb2FkIHRoZSAne2FyZ3MuZXhwb3J0X3BhdGh9JyBkaXJlY3RvcnkgdG8geW91ciB3ZWIgc2VydmVyIikKICAgICAgICBwcmludChmIlRvIHByZXZpZXcgeW91ciB3ZWJzaXRlLCBydW4gYHB5dGhvbiAtbSBodHRwLnNlcnZlciAtZCAne2FyZ3MuZXhwb3J0X3BhdGh9J2AiKQogICAgICAgIHJldHVybgoKICAgIHByaW50KGYiQWZ0ZXIgdGhlIHdlYiBzZXJ2ZXIgaGFzIHN0YXJ0ZWQsIGdvIHRvIGh0dHA6Ly9sb2NhbGhvc3Q6e2FyZ3MucG9ydH0gdG8gdmlldyB5b3VyIHdlYnNpdGUuXG4iKQogICAgYXBwLnJ1bihob3N0PSIwLjAuMC4wIiwgcG9ydD1hcmdzLnBvcnQpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+# mypy: check_untyped_defs = False
+"""
+Starts a local HTTP server to display benchmarking assets.
+"""
+
+import argparse
+from importlib import resources
+import json
+import os
+from os import path
+import shutil
+from typing import List, Optional, Tuple
+import urllib
+
+from bottle import Bottle, static_file, HTTPResponse, response
+import yaml
+
+from helm.benchmark.presentation.schema import SCHEMA_CLASSIC_YAML_FILENAME
+from helm.common.general import ensure_directory_exists, serialize_dates
+
+
+app = Bottle()
+
+
+@app.get("/config.js")
+def serve_config():
+    response.content_type = "application/javascript; charset=UTF-8"
+    if app.config["helm.release"]:
+        return (
+            f'window.BENCHMARK_OUTPUT_BASE_URL = "{app.config["helm.outputurl"]}";\n'
+            f'window.RELEASE = "{app.config["helm.release"]}";\n'
+            f'window.PROJECT_ID = "{app.config["helm.project"]}";\n'
+        )
+    else:
+        return (
+            f'window.BENCHMARK_OUTPUT_BASE_URL = "{app.config["helm.outputurl"]}";\n'
+            f'window.SUITE = "{app.config["helm.suite"]}";\n'
+            f'window.PROJECT_ID = "{app.config["helm.project"]}";\n'
+        )
+
+
+# Shim for running helm-server for old suites from old version of helm-summarize
+# that do not contain schema.json.
+#
+# The HELM web frontend expects to find a schema.json at /benchmark_output/runs/<version>/schema.json
+# which is produced by the new version of helm-summarize but not the old version.
+# When serving a suite produced by the old version of helm-summarize, the schena.json will be missing.
+# This shim supports those suites by serving a schena.json that is dynamically computed from schema_classic.yaml
+#
+# We will remove this in a few months after most users have moved to the new version of helm-summarize.
+#
+# TODO(2024-03-01): Remove this.
+@app.get("/benchmark_output/<runs_or_releases:re:runs|releases>/<version>/schema.json")
+def server_schema(runs_or_releases, version):
+    relative_schema_path = path.join(runs_or_releases, version, "schema.json")
+    absolute_schema_path = path.join(app.config["helm.outputpath"], relative_schema_path)
+    if path.isfile(absolute_schema_path):
+        response = static_file(relative_schema_path, root=app.config["helm.outputpath"])
+    else:
+        # Suite does not contain schema.json
+        # Fall back to schema_classic.yaml from the static directory
+        classic_schema_path = path.join(app.config["helm.staticpath"], SCHEMA_CLASSIC_YAML_FILENAME)
+        with open(classic_schema_path, "r") as f:
+            response = HTTPResponse(json.dumps(yaml.safe_load(f), indent=2, default=serialize_dates))
+    response.set_header("Cache-Control", "no-cache, no-store, must-revalidate")
+    response.set_header("Expires", "0")
+    response.content_type = "application/json"
+    return response
+
+
+@app.get("/benchmark_output/<filename:path>")
+def serve_benchmark_output(filename):
+    response = static_file(filename, root=app.config["helm.outputpath"])
+    response.set_header("Cache-Control", "no-cache, no-store, must-revalidate")
+    response.set_header("Expires", "0")
+    return response
+
+
+@app.get("/cache/output/<filename:path>")
+def serve_cache_output(filename):
+    response = static_file(filename, root=app.config["helm.cacheoutputpath"])
+    response.set_header("Cache-Control", "no-cache, no-store, must-revalidate")
+    response.set_header("Expires", "0")
+    return response
+
+
+@app.get("/")
+@app.get("/<filename:path>")
+def serve_static(filename="index.html"):
+    response = static_file(filename, root=app.config["helm.staticpath"])
+    return response
+
+
+def _get_latest_summary(runs_or_releases_path: str) -> Optional[Tuple[str, float]]:
+    if not path.isdir(runs_or_releases_path):
+        return None
+    modified_and_name: List[Tuple[float, str]] = []
+    for suite in os.listdir(runs_or_releases_path):
+        summary_path = path.join(runs_or_releases_path, suite, "summary.json")
+        if path.isfile(summary_path):
+            modified_and_name.append((path.getmtime(summary_path), suite))
+    if not modified_and_name:
+        return None
+    latest_modified_and_name = max(modified_and_name)
+    return (latest_modified_and_name[1], latest_modified_and_name[0])
+
+
+def export_website(export_path: str) -> None:
+    if os.path.exists(export_path):
+        if os.path.isdir(export_path) and not os.listdir(export_path):
+            os.rmdir(export_path)
+        else:
+            raise Exception(f"Output path {export_path} already exists")
+
+    shutil.copytree(app.config["helm.staticpath"], export_path)
+
+    with open(os.path.join(export_path, "config.js"), "w") as f:
+        f.write(serve_config())
+
+    benchmark_output_export_path = os.path.join(export_path, "benchmark_output")
+    ensure_directory_exists(benchmark_output_export_path)
+
+    runs_path = os.path.join(app.config["helm.outputpath"], "runs")
+    runs_export_path = os.path.join(benchmark_output_export_path, "runs")
+
+    releases_path = os.path.join(app.config["helm.outputpath"], "releases")
+    releases_export_path = os.path.join(benchmark_output_export_path, "releases")
+
+    suites = []
+    if app.config["helm.suite"]:
+        suites = [app.config["helm.suite"]]
+    elif app.config["helm.release"]:
+        release_summary_path = os.path.join(releases_path, app.config["helm.release"], "summary.json")
+        with open(release_summary_path, "r") as f:
+            suites = json.load(f)["suites"]
+
+    for suite in suites:
+        suite_path = os.path.join(runs_path, suite)
+        suite_export_path = os.path.join(runs_export_path, suite)
+        shutil.copytree(suite_path, suite_export_path)
+
+    if app.config["helm.release"]:
+        release_path = os.path.join(releases_path, app.config["helm.release"])
+        release_export_path = os.path.join(releases_export_path, app.config["helm.release"])
+        shutil.copytree(release_path, release_export_path)
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-p", "--port", type=int, help="What port to listen on", default=8000)
+    parser.add_argument(
+        "-o",
+        "--output-path",
+        type=str,
+        help="The location of the output path (filesystem path or URL)",
+        default="benchmark_output",
+    )
+    parser.add_argument(
+        "--cache-output-path",
+        type=str,
+        help="The location of the filesystem cache output folder (filesystem path or URL)",
+        default="prod_env/cache/output",
+    )
+    parser.add_argument(
+        "--suite",
+        type=str,
+        default=None,
+        help="Name of the suite to serve.",
+    )
+    parser.add_argument(
+        "--release",
+        type=str,
+        default=None,
+        help="Name of the release to serve.",
+    )
+
+    parser.add_argument(
+        "--project",
+        type=str,
+        default=None,
+        help="Experimental: The name of the project to display on the landing page.",
+    )
+    parser.add_argument(
+        "--export-path",
+        type=str,
+        default=None,
+        help="Export to the location as a static website.",
+    )
+    args = parser.parse_args()
+
+    if args.suite and args.release:
+        raise ValueError("At most one of --release and --suite may be set.")
+
+    # Determine the location of the static directory.
+    # This is a hack: it assumes that the static directory has a physical location,
+    # which is not always the case (e.g. when using zipimport).
+    static_package_name = "helm.benchmark.static_build"
+    resource_path = resources.files(static_package_name).joinpath("index.html")
+    with resources.as_file(resource_path) as resource_filename:
+        static_path = str(resource_filename.parent)
+
+    app.config["helm.staticpath"] = static_path
+    app.config["helm.project"] = args.project or "lite"
+
+    if urllib.parse.urlparse(args.output_path).scheme in ["http", "https"]:
+        # Output path is a URL, so set the output path base URL in the frontend to that URL
+        # so that the frontend reads from that URL directly.
+        app.config["helm.outputpath"] = None
+        # TODO: figure out helm.cacheoutputpath
+        app.config["helm.outputurl"] = args.output_path
+    else:
+        # Output path is a location on disk, so set the output path base URL to /benchmark_output
+        # and then serve files from the location on disk at that URL.
+        app.config["helm.outputpath"] = path.abspath(args.output_path)
+        app.config["helm.cacheoutputpath"] = path.abspath(args.cache_output_path)
+        app.config["helm.outputurl"] = "benchmark_output"
+
+    if args.suite:
+        app.config["helm.suite"] = args.suite
+        app.config["helm.release"] = None
+    elif args.release:
+        app.config["helm.suite"] = None
+        app.config["helm.release"] = args.release
+    else:
+        if not app.config["helm.outputpath"]:
+            raise ValueError("One of `--suite` or `--release` must be set if `--output_path` is a URL")
+        latest_suite_and_modified_time = _get_latest_summary(path.join(app.config["helm.outputpath"], "runs"))
+        latest_release_and_modified_time = _get_latest_summary(path.join(app.config["helm.outputpath"], "releases"))
+
+        if latest_suite_and_modified_time and latest_release_and_modified_time:
+            if latest_suite_and_modified_time[1] > latest_release_and_modified_time[1]:
+                app.config["helm.suite"] = latest_suite_and_modified_time[0]
+                app.config["helm.release"] = None
+            else:
+                app.config["helm.suite"] = None
+                app.config["helm.release"] = latest_release_and_modified_time[0]
+        elif latest_suite_and_modified_time and not latest_release_and_modified_time:
+            app.config["helm.suite"] = latest_suite_and_modified_time[0]
+            app.config["helm.release"] = None
+        elif not latest_suite_and_modified_time and latest_release_and_modified_time:
+            app.config["helm.suite"] = None
+            app.config["helm.release"] = latest_release_and_modified_time[0]
+        else:
+            raise ValueError(f"No suites or releases found in {app.config['helm.outputpath']}")
+
+    if app.config["helm.suite"]:
+        print(f"Serving suite '{app.config['helm.suite']}'")
+    if app.config["helm.release"]:
+        print(f"Serving release '{app.config['helm.release']}'")
+
+    if args.export_path:
+        print(f"Exporting static website to '{args.export_path}'...")
+        export_website(args.export_path)
+        print(f"Exported static website to '{args.export_path}'")
+        print(f"To deploy your website, upload the '{args.export_path}' directory to your web server")
+        print(f"To preview your website, run `python -m http.server -d '{args.export_path}'`")
+        return
+
+    print(f"After the web server has started, go to http://localhost:{args.port} to view your website.\n")
+    app.run(host="0.0.0.0", port=args.port)
+
+
+if __name__ == "__main__":
+    main()

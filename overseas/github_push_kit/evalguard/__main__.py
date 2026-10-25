@@ -1,1 +1,3 @@
-aW1wb3J0IHN5cwpmcm9tIC5jbGkgaW1wb3J0IG1haW4Kc3lzLmV4aXQobWFpbigpKQo=
+import sys
+from .cli import main
+sys.exit(main())

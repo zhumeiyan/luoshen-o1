@@ -1,1 +1,68 @@
-IiIi5YWJ55S16byg5qCH5o2i6IO95Zmo77yaTEVEL+a/gOWFieeFp+aYjiAtPiBDTU9TIOmAkOW4p+mHh+mbhiAtPiDkupLnm7jlhbPmsYLkvY3np7vjgIIK5LiN5oqE5Lu75L2V6amx5Yqo5Luj56CB77yM5Y+q5oyJ54mp55CG5Y6f55CG6YeN5bu677ya54Wn5piO44CB6KGo6Z2i5Y+N5bCE44CB5YOP57Sg56ev5YiG44CB5LqS55u45YWz5bOw5YC844CCIiIiCmltcG9ydCBudW1weSBhcyBucAoKZGVmIG1ha2Vfc3VyZmFjZShraW5kLCBIPTEyOCwgVz0xMjgsIHJuZz1Ob25lKToKICAgICIiIuihqOmdouW+ruinguW9ouiyjC/lj43lsITnjoflnLoiIiIKICAgIHJuZyA9IHJuZyBvciBucC5yYW5kb20uZGVmYXVsdF9ybmcoMCkKICAgIGlmIGtpbmQgPT0gJ2Rlc2snOiAgICAgICAgIyDmnKjotKjmoYzpnaLvvJrlrr3luKbnspfns5nnurnnkIYKICAgICAgICBmID0gcm5nLnJhbmRvbSgoSCwgVykpCiAgICAgICAgZiA9IGYgKyAwLjUqcm5nLnJhbmRvbSgoSC8vNCwgVy8vNCkpLnJlcGVhdCg0LCAwKS5yZXBlYXQoNCwgMSlbOkgsIDpXXQogICAgZWxpZiBraW5kID09ICdwYXBlcic6ICAgICAjIOe6uO+8mue7huWvhuS9huS9juWvueavlAogICAgICAgIGYgPSBybmcubm9ybWFsKDAuNSwgMC4wNSwgKEgsIFcpKQogICAgZWxpZiBraW5kID09ICdnbGFzcyc6ICAgICAjIOeOu+eSg++8mui/keS5juWdh+WMgCArIOaegeeogOeWj+e8uumZtwogICAgICAgIGYgPSBucC5mdWxsKChILCBXKSwgMC41KQogICAgICAgIGYgKz0gcm5nLm5vcm1hbCgwLCAwLjAwNCwgKEgsIFcpKQogICAgICAgIGZvciBfIGluIHJhbmdlKDYpOgogICAgICAgICAgICB5LCB4ID0gcm5nLmludGVnZXJzKDAsIEgpLCBybmcuaW50ZWdlcnMoMCwgVykKICAgICAgICAgICAgZlt5LCB4XSArPSAwLjA1CiAgICBlbGlmIGtpbmQgPT0gJ21pcnJvcic6ICAgICMg6ZWc6Z2i77ya5a6M576O5Z2H5YyA77yM6Zu257q555CGCiAgICAgICAgZiA9IG5wLmZ1bGwoKEgsIFcpLCAwLjUpCiAgICBlbGlmIGtpbmQgPT0gJ3BhZCc6ICAgICAgICMg6byg5qCH5Z6r77ya5by66auY6aKR57q555CG77yI55CG5oOz77yJCiAgICAgICAgZiA9IHJuZy5yYW5kb20oKEgsIFcpKSAqIDAuNiArIDAuMipybmcucmFuZG9tKChILCBXKSkKICAgIGVsc2U6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihraW5kKQogICAgcmV0dXJuIG5wLmNsaXAoZiwgMCwgMSkKCmRlZiBjbW9zX2ZyYW1lKHN1cmYsIGN5LCBjeCwgd2luLCBsZWQ9MS4wLCBkYXJrPTAuMCwgbm9pc2U9MC4wLCBybmc9Tm9uZSk6CiAgICAiIiJDTU9TIOmHh+mbhuS4gOW4p++8mueFp+aYjiAtPiDlj43lsIQgLT4g5YOP57Sg56ev5YiGIC0+IOaal+eUtea1gSArIOivu+WHuuWZquWjsCIiIgogICAgcm5nID0gcm5nIG9yIG5wLnJhbmRvbS5kZWZhdWx0X3JuZygxKQogICAgSCwgVyA9IHN1cmYuc2hhcGUKICAgIHlzID0gKG5wLmFyYW5nZSh3aW4pICsgY3kpICUgSAogICAgeHMgPSAobnAuYXJhbmdlKHdpbikgKyBjeCkgJSBXCiAgICBwYXRjaCA9IHN1cmZbbnAuaXhfKHlzLCB4cyldCiAgICBmcmFtZSA9IGxlZCAqIHBhdGNoICsgZGFyawogICAgaWYgbm9pc2UgPiAwOgogICAgICAgIGZyYW1lID0gZnJhbWUgKyBybmcubm9ybWFsKDAsIG5vaXNlLCBmcmFtZS5zaGFwZSkKICAgIHJldHVybiBucC5jbGlwKGZyYW1lLCAwLCAxKQoKZGVmIGVzdGltYXRlX3NoaWZ0KGYwLCBmMSwgbWF4X3NoaWZ0PU5vbmUpOgogICAgIiIi5LqS55u45YWz5bOw5YC85a6a5L2N77yaRkZUIOiuoeeul+W9kuS4gOWMluS6kuebuOWFs++8jOWPluWzsOWAvOWBj+enu++8iOWRqOacn+aAp++8jOaUr+aMgei0n+S9jeenu++8iSIiIgogICAgd2luID0gZjAuc2hhcGVbMF0KICAgIGEgPSBmMCAtIGYwLm1lYW4oKQogICAgYiA9IGYxIC0gZjEubWVhbigpCiAgICBkZW5vbSA9IG5wLnNxcnQoKGEqKjIpLnN1bSgpICogKGIqKjIpLnN1bSgpKQogICAgaWYgZGVub20gPCAxZS0xMjoKICAgICAgICByZXR1cm4gTm9uZSwgMC4wICAgICAgIyDpm7bmlrnlt64gPT4g5LqS55u45YWz5peg5a6a5LmJ77yI546755KDL+mVnOmdou+8iQogICAgRiA9IG5wLmZmdC5mZnQyKGEpCiAgICBHID0gbnAuZmZ0LmZmdDIoYikKICAgIGNjID0gbnAucmVhbChucC5mZnQuaWZmdDIoRi5jb25qKCkgKiBHKSkgLyBkZW5vbQogICAgayA9IG5wLnVucmF2ZWxfaW5kZXgobnAuYXJnbWF4KGNjKSwgY2Muc2hhcGUpCiAgICBkeSA9IChrWzBdICsgd2luLy8yKSAlIHdpbiAtIHdpbi8vMgogICAgZHggPSAoa1sxXSArIHdpbi8vMikgJSB3aW4gLSB3aW4vLzIKICAgIHBlYWsgPSBjY1trXQogICAgcmV0dXJuIChpbnQoZHkpLCBpbnQoZHgpKSwgZmxvYXQocGVhaykKCmRlZiBydW5fdHJpYWwoa2luZCwgdHJ1ZV9zaGlmdCwgd2luPTE4LCBub2lzZT0wLjAsIGxlZD0xLjAsIHNlZWQ9MCk6CiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIHN1cmYgPSBtYWtlX3N1cmZhY2Uoa2luZCwgcm5nPW5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKSkKICAgIGN5LCBjeCA9IDQwLCA0MAogICAgZjAgPSBjbW9zX2ZyYW1lKHN1cmYsIGN5LCBjeCwgd2luLCBsZWQ9bGVkLCBub2lzZT1ub2lzZSwgcm5nPXJuZykKICAgIGYxID0gY21vc19mcmFtZShzdXJmLCBjeSArIHRydWVfc2hpZnRbMF0sIGN4ICsgdHJ1ZV9zaGlmdFsxXSwgd2luLAogICAgICAgICAgICAgICAgICAgIGxlZD1sZWQsIG5vaXNlPW5vaXNlLCBybmc9cm5nKQogICAgZXN0LCBwZWFrID0gZXN0aW1hdGVfc2hpZnQoZjAsIGYxKQogICAgaWYgZXN0IGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIHsnb2snOiBGYWxzZSwgJ3BlYWsnOiAwLjAsICdlcnInOiBOb25lfQogICAgZXJyID0gbnAuaHlwb3QoZXN0WzBdIC0gdHJ1ZV9zaGlmdFswXSwgZXN0WzFdIC0gdHJ1ZV9zaGlmdFsxXSkKICAgIHJldHVybiB7J29rJzogZXN0ID09IHR1cGxlKHRydWVfc2hpZnQpLCAncGVhayc6IHBlYWssICdlcnInOiBmbG9hdChlcnIpLAogICAgICAgICAgICAnZXN0JzogZXN0LCAndHJ1ZSc6IHR1cGxlKHRydWVfc2hpZnQpfQo=
+"""光电鼠标换能器：LED/激光照明 -> CMOS 逐帧采集 -> 互相关求位移。
+不抄任何驱动代码，只按物理原理重建：照明、表面反射、像素积分、互相关峰值。"""
+import numpy as np
+
+def make_surface(kind, H=128, W=128, rng=None):
+    """表面微观形貌/反射率场"""
+    rng = rng or np.random.default_rng(0)
+    if kind == 'desk':        # 木质桌面：宽带粗糙纹理
+        f = rng.random((H, W))
+        f = f + 0.5*rng.random((H//4, W//4)).repeat(4, 0).repeat(4, 1)[:H, :W]
+    elif kind == 'paper':     # 纸：细密但低对比
+        f = rng.normal(0.5, 0.05, (H, W))
+    elif kind == 'glass':     # 玻璃：近乎均匀 + 极稀疏缺陷
+        f = np.full((H, W), 0.5)
+        f += rng.normal(0, 0.004, (H, W))
+        for _ in range(6):
+            y, x = rng.integers(0, H), rng.integers(0, W)
+            f[y, x] += 0.05
+    elif kind == 'mirror':    # 镜面：完美均匀，零纹理
+        f = np.full((H, W), 0.5)
+    elif kind == 'pad':       # 鼠标垫：强高频纹理（理想）
+        f = rng.random((H, W)) * 0.6 + 0.2*rng.random((H, W))
+    else:
+        raise ValueError(kind)
+    return np.clip(f, 0, 1)
+
+def cmos_frame(surf, cy, cx, win, led=1.0, dark=0.0, noise=0.0, rng=None):
+    """CMOS 采集一帧：照明 -> 反射 -> 像素积分 -> 暗电流 + 读出噪声"""
+    rng = rng or np.random.default_rng(1)
+    H, W = surf.shape
+    ys = (np.arange(win) + cy) % H
+    xs = (np.arange(win) + cx) % W
+    patch = surf[np.ix_(ys, xs)]
+    frame = led * patch + dark
+    if noise > 0:
+        frame = frame + rng.normal(0, noise, frame.shape)
+    return np.clip(frame, 0, 1)
+
+def estimate_shift(f0, f1, max_shift=None):
+    """互相关峰值定位：FFT 计算归一化互相关，取峰值偏移（周期性，支持负位移）"""
+    win = f0.shape[0]
+    a = f0 - f0.mean()
+    b = f1 - f1.mean()
+    denom = np.sqrt((a**2).sum() * (b**2).sum())
+    if denom < 1e-12:
+        return None, 0.0      # 零方差 => 互相关无定义（玻璃/镜面）
+    F = np.fft.fft2(a)
+    G = np.fft.fft2(b)
+    cc = np.real(np.fft.ifft2(F.conj() * G)) / denom
+    k = np.unravel_index(np.argmax(cc), cc.shape)
+    dy = (k[0] + win//2) % win - win//2
+    dx = (k[1] + win//2) % win - win//2
+    peak = cc[k]
+    return (int(dy), int(dx)), float(peak)
+
+def run_trial(kind, true_shift, win=18, noise=0.0, led=1.0, seed=0):
+    rng = np.random.default_rng(seed)
+    surf = make_surface(kind, rng=np.random.default_rng(seed))
+    cy, cx = 40, 40
+    f0 = cmos_frame(surf, cy, cx, win, led=led, noise=noise, rng=rng)
+    f1 = cmos_frame(surf, cy + true_shift[0], cx + true_shift[1], win,
+                    led=led, noise=noise, rng=rng)
+    est, peak = estimate_shift(f0, f1)
+    if est is None:
+        return {'ok': False, 'peak': 0.0, 'err': None}
+    err = np.hypot(est[0] - true_shift[0], est[1] - true_shift[1])
+    return {'ok': est == tuple(true_shift), 'peak': peak, 'err': float(err),
+            'est': est, 'true': tuple(true_shift)}

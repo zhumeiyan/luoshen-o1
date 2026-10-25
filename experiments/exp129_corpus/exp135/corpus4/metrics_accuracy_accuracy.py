@@ -1,1 +1,106 @@
-IyBDb3B5cmlnaHQgMjAyMCBUaGUgSHVnZ2luZ0ZhY2UgRGF0YXNldHMgQXV0aG9ycyBhbmQgdGhlIGN1cnJlbnQgZGF0YXNldCBzY3JpcHQgY29udHJpYnV0b3IuCiMKIyBMaWNlbnNlZCB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wICh0aGUgIkxpY2Vuc2UiKTsKIyB5b3UgbWF5IG5vdCB1c2UgdGhpcyBmaWxlIGV4Y2VwdCBpbiBjb21wbGlhbmNlIHdpdGggdGhlIExpY2Vuc2UuCiMgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiMKIyAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiMKIyBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiMgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKIyBXSVRIT1VUIFdBUlJBTlRJRVMgT1IgQ09ORElUSU9OUyBPRiBBTlkgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4KIyBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiMgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiIiIkFjY3VyYWN5IG1ldHJpYy4iIiIKCmltcG9ydCBkYXRhc2V0cwpmcm9tIHNrbGVhcm4ubWV0cmljcyBpbXBvcnQgYWNjdXJhY3lfc2NvcmUKCmltcG9ydCBldmFsdWF0ZQoKCl9ERVNDUklQVElPTiA9ICIiIgpBY2N1cmFjeSBpcyB0aGUgcHJvcG9ydGlvbiBvZiBjb3JyZWN0IHByZWRpY3Rpb25zIGFtb25nIHRoZSB0b3RhbCBudW1iZXIgb2YgY2FzZXMgcHJvY2Vzc2VkLiBJdCBjYW4gYmUgY29tcHV0ZWQgd2l0aDoKQWNjdXJhY3kgPSAoVFAgKyBUTikgLyAoVFAgKyBUTiArIEZQICsgRk4pCiBXaGVyZToKVFA6IFRydWUgcG9zaXRpdmUKVE46IFRydWUgbmVnYXRpdmUKRlA6IEZhbHNlIHBvc2l0aXZlCkZOOiBGYWxzZSBuZWdhdGl2ZQoiIiIKCgpfS1dBUkdTX0RFU0NSSVBUSU9OID0gIiIiCkFyZ3M6CiAgICBwcmVkaWN0aW9ucyAoYGxpc3RgIG9mIGBpbnRgKTogUHJlZGljdGVkIGxhYmVscy4KICAgIHJlZmVyZW5jZXMgKGBsaXN0YCBvZiBgaW50YCk6IEdyb3VuZCB0cnV0aCBsYWJlbHMuCiAgICBub3JtYWxpemUgKGBib29sZWFuYCk6IElmIHNldCB0byBGYWxzZSwgcmV0dXJucyB0aGUgbnVtYmVyIG9mIGNvcnJlY3RseSBjbGFzc2lmaWVkIHNhbXBsZXMuIE90aGVyd2lzZSwgcmV0dXJucyB0aGUgZnJhY3Rpb24gb2YgY29ycmVjdGx5IGNsYXNzaWZpZWQgc2FtcGxlcy4gRGVmYXVsdHMgdG8gVHJ1ZS4KICAgIHNhbXBsZV93ZWlnaHQgKGBsaXN0YCBvZiBgZmxvYXRgKTogU2FtcGxlIHdlaWdodHMgRGVmYXVsdHMgdG8gTm9uZS4KClJldHVybnM6CiAgICBhY2N1cmFjeSAoYGZsb2F0YCBvciBgaW50YCk6IEFjY3VyYWN5IHNjb3JlLiBNaW5pbXVtIHBvc3NpYmxlIHZhbHVlIGlzIDAuIE1heGltdW0gcG9zc2libGUgdmFsdWUgaXMgMS4wLCBvciB0aGUgbnVtYmVyIG9mIGV4YW1wbGVzIGlucHV0LCBpZiBgbm9ybWFsaXplYCBpcyBzZXQgdG8gYFRydWVgLi4gQSBoaWdoZXIgc2NvcmUgbWVhbnMgaGlnaGVyIGFjY3VyYWN5LgoKRXhhbXBsZXM6CgogICAgRXhhbXBsZSAxLUEgc2ltcGxlIGV4YW1wbGUKICAgICAgICA+Pj4gYWNjdXJhY3lfbWV0cmljID0gZXZhbHVhdGUubG9hZCgiYWNjdXJhY3kiKQogICAgICAgID4+PiByZXN1bHRzID0gYWNjdXJhY3lfbWV0cmljLmNvbXB1dGUocmVmZXJlbmNlcz1bMCwgMSwgMiwgMCwgMSwgMl0sIHByZWRpY3Rpb25zPVswLCAxLCAxLCAyLCAxLCAwXSkKICAgICAgICA+Pj4gcHJpbnQocmVzdWx0cykKICAgICAgICB7J2FjY3VyYWN5JzogMC41fQoKICAgIEV4YW1wbGUgMi1UaGUgc2FtZSBhcyBFeGFtcGxlIDEsIGV4Y2VwdCB3aXRoIGBub3JtYWxpemVgIHNldCB0byBgRmFsc2VgLgogICAgICAgID4+PiBhY2N1cmFjeV9tZXRyaWMgPSBldmFsdWF0ZS5sb2FkKCJhY2N1cmFjeSIpCiAgICAgICAgPj4+IHJlc3VsdHMgPSBhY2N1cmFjeV9tZXRyaWMuY29tcHV0ZShyZWZlcmVuY2VzPVswLCAxLCAyLCAwLCAxLCAyXSwgcHJlZGljdGlvbnM9WzAsIDEsIDEsIDIsIDEsIDBdLCBub3JtYWxpemU9RmFsc2UpCiAgICAgICAgPj4+IHByaW50KHJlc3VsdHMpCiAgICAgICAgeydhY2N1cmFjeSc6IDMuMH0KCiAgICBFeGFtcGxlIDMtVGhlIHNhbWUgYXMgRXhhbXBsZSAxLCBleGNlcHQgd2l0aCBgc2FtcGxlX3dlaWdodGAgc2V0LgogICAgICAgID4+PiBhY2N1cmFjeV9tZXRyaWMgPSBldmFsdWF0ZS5sb2FkKCJhY2N1cmFjeSIpCiAgICAgICAgPj4+IHJlc3VsdHMgPSBhY2N1cmFjeV9tZXRyaWMuY29tcHV0ZShyZWZlcmVuY2VzPVswLCAxLCAyLCAwLCAxLCAyXSwgcHJlZGljdGlvbnM9WzAsIDEsIDEsIDIsIDEsIDBdLCBzYW1wbGVfd2VpZ2h0PVswLjUsIDIsIDAuNywgMC41LCA5LCAwLjRdKQogICAgICAgID4+PiBwcmludChyZXN1bHRzKQogICAgICAgIHsnYWNjdXJhY3knOiAwLjg3Nzg2MjU5NTQxOTg0NzN9CiIiIgoKCl9DSVRBVElPTiA9ICIiIgpAYXJ0aWNsZXtzY2lraXQtbGVhcm4sCiAgdGl0bGU9e1NjaWtpdC1sZWFybjogTWFjaGluZSBMZWFybmluZyBpbiB7UH15dGhvbn0sCiAgYXV0aG9yPXtQZWRyZWdvc2EsIEYuIGFuZCBWYXJvcXVhdXgsIEcuIGFuZCBHcmFtZm9ydCwgQS4gYW5kIE1pY2hlbCwgVi4KICAgICAgICAgYW5kIFRoaXJpb24sIEIuIGFuZCBHcmlzZWwsIE8uIGFuZCBCbG9uZGVsLCBNLiBhbmQgUHJldHRlbmhvZmVyLCBQLgogICAgICAgICBhbmQgV2Vpc3MsIFIuIGFuZCBEdWJvdXJnLCBWLiBhbmQgVmFuZGVycGxhcywgSi4gYW5kIFBhc3NvcywgQS4gYW5kCiAgICAgICAgIENvdXJuYXBlYXUsIEQuIGFuZCBCcnVjaGVyLCBNLiBhbmQgUGVycm90LCBNLiBhbmQgRHVjaGVzbmF5LCBFLn0sCiAgam91cm5hbD17Sm91cm5hbCBvZiBNYWNoaW5lIExlYXJuaW5nIFJlc2VhcmNofSwKICB2b2x1bWU9ezEyfSwKICBwYWdlcz17MjgyNS0tMjgzMH0sCiAgeWVhcj17MjAxMX0KfQoiIiIKCgpAZXZhbHVhdGUudXRpbHMuZmlsZV91dGlscy5hZGRfc3RhcnRfZG9jc3RyaW5ncyhfREVTQ1JJUFRJT04sIF9LV0FSR1NfREVTQ1JJUFRJT04pCmNsYXNzIEFjY3VyYWN5KGV2YWx1YXRlLk1ldHJpYyk6CiAgICBkZWYgX2luZm8oc2VsZik6CiAgICAgICAgcmV0dXJuIGV2YWx1YXRlLk1ldHJpY0luZm8oCiAgICAgICAgICAgIGRlc2NyaXB0aW9uPV9ERVNDUklQVElPTiwKICAgICAgICAgICAgY2l0YXRpb249X0NJVEFUSU9OLAogICAgICAgICAgICBpbnB1dHNfZGVzY3JpcHRpb249X0tXQVJHU19ERVNDUklQVElPTiwKICAgICAgICAgICAgZmVhdHVyZXM9ZGF0YXNldHMuRmVhdHVyZXMoCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgInByZWRpY3Rpb25zIjogZGF0YXNldHMuU2VxdWVuY2UoZGF0YXNldHMuVmFsdWUoImludDMyIikpLAogICAgICAgICAgICAgICAgICAgICJyZWZlcmVuY2VzIjogZGF0YXNldHMuU2VxdWVuY2UoZGF0YXNldHMuVmFsdWUoImludDMyIikpLAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgc2VsZi5jb25maWdfbmFtZSA9PSAibXVsdGlsYWJlbCIKICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgICJwcmVkaWN0aW9ucyI6IGRhdGFzZXRzLlZhbHVlKCJpbnQzMiIpLAogICAgICAgICAgICAgICAgICAgICJyZWZlcmVuY2VzIjogZGF0YXNldHMuVmFsdWUoImludDMyIiksCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICksCiAgICAgICAgICAgIHJlZmVyZW5jZV91cmxzPVsiaHR0cHM6Ly9zY2lraXQtbGVhcm4ub3JnL3N0YWJsZS9tb2R1bGVzL2dlbmVyYXRlZC9za2xlYXJuLm1ldHJpY3MuYWNjdXJhY3lfc2NvcmUuaHRtbCJdLAogICAgICAgICkKCiAgICBkZWYgX2NvbXB1dGUoc2VsZiwgcHJlZGljdGlvbnMsIHJlZmVyZW5jZXMsIG5vcm1hbGl6ZT1UcnVlLCBzYW1wbGVfd2VpZ2h0PU5vbmUpOgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJhY2N1cmFjeSI6IGZsb2F0KAogICAgICAgICAgICAgICAgYWNjdXJhY3lfc2NvcmUocmVmZXJlbmNlcywgcHJlZGljdGlvbnMsIG5vcm1hbGl6ZT1ub3JtYWxpemUsIHNhbXBsZV93ZWlnaHQ9c2FtcGxlX3dlaWdodCkKICAgICAgICAgICAgKQogICAgICAgIH0K
+# Copyright 2020 The HuggingFace Datasets Authors and the current dataset script contributor.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+"""Accuracy metric."""
+
+import datasets
+from sklearn.metrics import accuracy_score
+
+import evaluate
+
+
+_DESCRIPTION = """
+Accuracy is the proportion of correct predictions among the total number of cases processed. It can be computed with:
+Accuracy = (TP + TN) / (TP + TN + FP + FN)
+ Where:
+TP: True positive
+TN: True negative
+FP: False positive
+FN: False negative
+"""
+
+
+_KWARGS_DESCRIPTION = """
+Args:
+    predictions (`list` of `int`): Predicted labels.
+    references (`list` of `int`): Ground truth labels.
+    normalize (`boolean`): If set to False, returns the number of correctly classified samples. Otherwise, returns the fraction of correctly classified samples. Defaults to True.
+    sample_weight (`list` of `float`): Sample weights Defaults to None.
+
+Returns:
+    accuracy (`float` or `int`): Accuracy score. Minimum possible value is 0. Maximum possible value is 1.0, or the number of examples input, if `normalize` is set to `True`.. A higher score means higher accuracy.
+
+Examples:
+
+    Example 1-A simple example
+        >>> accuracy_metric = evaluate.load("accuracy")
+        >>> results = accuracy_metric.compute(references=[0, 1, 2, 0, 1, 2], predictions=[0, 1, 1, 2, 1, 0])
+        >>> print(results)
+        {'accuracy': 0.5}
+
+    Example 2-The same as Example 1, except with `normalize` set to `False`.
+        >>> accuracy_metric = evaluate.load("accuracy")
+        >>> results = accuracy_metric.compute(references=[0, 1, 2, 0, 1, 2], predictions=[0, 1, 1, 2, 1, 0], normalize=False)
+        >>> print(results)
+        {'accuracy': 3.0}
+
+    Example 3-The same as Example 1, except with `sample_weight` set.
+        >>> accuracy_metric = evaluate.load("accuracy")
+        >>> results = accuracy_metric.compute(references=[0, 1, 2, 0, 1, 2], predictions=[0, 1, 1, 2, 1, 0], sample_weight=[0.5, 2, 0.7, 0.5, 9, 0.4])
+        >>> print(results)
+        {'accuracy': 0.8778625954198473}
+"""
+
+
+_CITATION = """
+@article{scikit-learn,
+  title={Scikit-learn: Machine Learning in {P}ython},
+  author={Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V.
+         and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P.
+         and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and
+         Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.},
+  journal={Journal of Machine Learning Research},
+  volume={12},
+  pages={2825--2830},
+  year={2011}
+}
+"""
+
+
+@evaluate.utils.file_utils.add_start_docstrings(_DESCRIPTION, _KWARGS_DESCRIPTION)
+class Accuracy(evaluate.Metric):
+    def _info(self):
+        return evaluate.MetricInfo(
+            description=_DESCRIPTION,
+            citation=_CITATION,
+            inputs_description=_KWARGS_DESCRIPTION,
+            features=datasets.Features(
+                {
+                    "predictions": datasets.Sequence(datasets.Value("int32")),
+                    "references": datasets.Sequence(datasets.Value("int32")),
+                }
+                if self.config_name == "multilabel"
+                else {
+                    "predictions": datasets.Value("int32"),
+                    "references": datasets.Value("int32"),
+                }
+            ),
+            reference_urls=["https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html"],
+        )
+
+    def _compute(self, predictions, references, normalize=True, sample_weight=None):
+        return {
+            "accuracy": float(
+                accuracy_score(references, predictions, normalize=normalize, sample_weight=sample_weight)
+            )
+        }

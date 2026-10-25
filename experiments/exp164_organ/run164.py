@@ -1,1 +1,168 @@
-IiIiMTY0IOWNh+e7tOWKoOWZqOWumO+8muWZqOWumCA9IOaEn+WPl+WZqCArIOWug+WvueW6lOeahOi6q+S9k+OAguWFiOmAoOi6q+S9k++8jOWGjeijheWZqOWumOOAgiIiIgppbXBvcnQgb3MsIHRpbWUsIGpzb24sIHN0YXRpc3RpY3MsIG1hdGgsIHJhbmRvbQoKZGVmIHJkKHApOgogICAgd2l0aCBvcGVuKHApIGFzIGY6IHJldHVybiBmLnJlYWQoKQoKZGVmIG9fY3B1KCk6CiAgICBzID0gcmQoJy9wcm9jL3NlbGYvc3RhdCcpLnNwbGl0KCk7IHJldHVybiBpbnQoc1sxM10pICsgaW50KHNbMTRdKQpkZWYgb19zeXNjKCk6CiAgICB2ID0ge30KICAgIGZvciBsaW5lIGluIHJkKCcvcHJvYy9zZWxmL2lvJykuc3BsaXRsaW5lcygpOgogICAgICAgIGssIHggPSBsaW5lLnNwbGl0KCc6Jyk7IHZbay5zdHJpcCgpXSA9IGludCh4KQogICAgcmV0dXJuIHZbJ3N5c2NyJ10gKyB2WydzeXNjdyddCmRlZiBvX2xvYWQoKTogIHJldHVybiBmbG9hdChyZCgnL3Byb2MvbG9hZGF2ZycpLnNwbGl0KClbMF0pICogMTAwMApkZWYgb19tZW0oKToKICAgIGZvciBsaW5lIGluIHJkKCcvcHJvYy9tZW1pbmZvJykuc3BsaXRsaW5lcygpOgogICAgICAgIGlmIGxpbmUuc3RhcnRzd2l0aCgnTWVtQXZhaWxhYmxlJyk6IHJldHVybiBpbnQobGluZS5zcGxpdCgpWzFdKQogICAgcmV0dXJuIDAKZGVmIG9fbmV0KCk6CiAgICB0b3QgPSAwCiAgICBmb3IgbGluZSBpbiByZCgnL3Byb2MvbmV0L2RldicpLnNwbGl0bGluZXMoKVsyOl06CiAgICAgICAgcCA9IGxpbmUuc3BsaXQoJzonLCAxKVsxXS5zcGxpdCgpOyB0b3QgKz0gaW50KHBbMF0pICsgaW50KHBbOF0pCiAgICByZXR1cm4gdG90CmRlZiBvX2VudCgpOiAgIHJldHVybiBpbnQocmQoJy9wcm9jL3N5cy9rZXJuZWwvcmFuZG9tL2VudHJvcHlfYXZhaWwnKSkKCk9SR0FOUyA9IHsnY3B1Jzogb19jcHUsICdzeXNjJzogb19zeXNjLCAnbG9hZCc6IG9fbG9hZCwKICAgICAgICAgICdtZW0nOiBvX21lbSwgJ25ldCc6IG9fbmV0LCAnZW50Jzogb19lbnR9Ck5BTUVTID0gbGlzdChPUkdBTlMpCgojIC0tLS0tLS0tLS0g6Lqr5L2T77ya55yf5a6e5Zmo5a6Y6KKr5oSf5Y+X55qE5a+56LGhIC0tLS0tLS0tLS0KX2J1Zl9ob2xkZXIgPSBbXQpkZWYgYm9keV9jcHUobik6CiAgICB4ID0gMAogICAgZm9yIGkgaW4gcmFuZ2Uobik6IHggPSAoeCArIGkgKiBpKSAlIDEwMDAwMDMKICAgIHJldHVybiB4CmRlZiBib2R5X21lbV9hbGxvYyhrYik6ICAgICAgICAgICMg55yf5YiG6YWN5bm26Kem56KwIC0+IOecn+aUueWPmCBNZW1BdmFpbGFibGUKICAgIGIgPSBieXRlYXJyYXkoa2IgKiAxMDI0KQogICAgZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKGIpLCA0MDk2KTogYltpXSA9IDEKICAgIF9idWZfaG9sZGVyLmFwcGVuZChiKQpkZWYgYm9keV9tZW1fZnJlZSgpOiAgICAgICAgICAgICAjIOecn+mHiuaUvgogICAgd2hpbGUgX2J1Zl9ob2xkZXI6IF9idWZfaG9sZGVyLnBvcCgpCmRlZiBib2R5X2NpcmMoYnl0ZXNfbiwgcGlwZXMpOiAgICMg55yf566h6YGTIElP77yb5YiG5Z2X77yM57ud5LiN6Zi75aGe566h6YGT57yT5YayCiAgICBDSCA9IDE2Mzg0CiAgICBwZXIgPSBtYXgoQ0gsIGJ5dGVzX24gLy8gbGVuKHBpcGVzKSkKICAgIGZvciByLCB3IGluIHBpcGVzOgogICAgICAgIGxlZnQgPSBwZXIKICAgICAgICB3aGlsZSBsZWZ0ID4gMDoKICAgICAgICAgICAgayA9IG1pbihDSCwgbGVmdCkKICAgICAgICAgICAgb3Mud3JpdGUodywgYid4JyAqIGspOyBvcy5yZWFkKHIsIGspOyBsZWZ0IC09IGsKCiMg5YeG5aSH55yf5a6e566h6YGT77yI5b6q546v57O757uf77yJClBJUEVTID0gW10KZm9yIF8gaW4gcmFuZ2UoNCk6CiAgICByLCB3ID0gb3MucGlwZSgpOyBQSVBFUy5hcHBlbmQoKHIsIHcpKQoKTUVNX0NBUF9LQiA9IDEyMCAqIDEwMjQgICAjIOWuieWFqOS4iumZkO+8jOe7neS4jei2iui/hwpfYWxsb2NhdGVkID0gWzBdCgpkZWYgc2V0X2JvZHkobW9kZSk6CiAgICAiIiLmiorouqvkvZPmkYbliLDmn5DkuKrnnJ/lrp7ku6PosKLnirbmgIEiIiIKICAgIGlmIG1vZGUgPT0gJ2xvdyc6CiAgICAgICAgYm9keV9jcHUoNTAwMCk7IGJvZHlfbWVtX2ZyZWUoKTsgX2FsbG9jYXRlZFswXSA9IDAKICAgIGVsaWYgbW9kZSA9PSAnaGlnaCc6CiAgICAgICAgYm9keV9jcHUoNjAwMDApCiAgICAgICAgd2FudCA9IDEyMCAqIDEwMjQKICAgICAgICBpZiBfYWxsb2NhdGVkWzBdIDwgd2FudCBhbmQgX2FsbG9jYXRlZFswXSArIDIwMDAwIDw9IE1FTV9DQVBfS0I6CiAgICAgICAgICAgIGJvZHlfbWVtX2FsbG9jKDIwMDAwKTsgX2FsbG9jYXRlZFswXSArPSAyMDAwMAogICAgICAgIGJvZHlfY2lyYygxMzEwNzIsIFBJUEVTKQoKZGVmIHJlYWRvdXQoKToKICAgIHJldHVybiB7bjogZigpIGZvciBuLCBmIGluIE9SR0FOUy5pdGVtcygpfQoKZGVmIGRwcmltZShhLCBiKToKICAgIG1hLCBtYiA9IHN0YXRpc3RpY3MubWVhbihhKSwgc3RhdGlzdGljcy5tZWFuKGIpCiAgICBzYSwgc2IgPSBzdGF0aXN0aWNzLnBzdGRldihhKSwgc3RhdGlzdGljcy5wc3RkZXYoYikKICAgIHAgPSAoKHNhICoqIDIgKyBzYiAqKiAyKSAvIDIpICoqIDAuNQogICAgcmV0dXJuIChtYiAtIG1hKSAvIHAgaWYgcCA+IDAgZWxzZSAwLjAKClJORyA9IHJhbmRvbS5SYW5kb20oMjAyNjEwMTkpCnJlcyA9IHt9CgojIC0tLS0tLS0tLS0gUzEg5Zmo5a6Y5r+A5rS777ya6Lqr5L2T5Yqo6LW35p2l5LmL5ZCO77yM6LCB5rS75LqGIC0tLS0tLS0tLS0KIyDnlKjmoq/luqbor7vlh7rvvIjnm7jpgrvlt67vvInvvIznu53lr7nlgLzlkKvlhbHmqKHmvILnp7sKc2VxLCBsYWJlbHMgPSBbXSwgW10KZm9yIGkgaW4gcmFuZ2UoMTYpOgogICAgbSA9ICdsb3cnIGlmIGkgJSAyID09IDAgZWxzZSAnaGlnaCcKICAgIHNldF9ib2R5KG0pCiAgICBzZXEuYXBwZW5kKHJlYWRvdXQoKSk7IGxhYmVscy5hcHBlbmQobSkKCmFjdCA9IHt9CmZvciBuIGluIE5BTUVTOgogICAgZF9sbyA9IFtzZXFbaSArIDJdW25dIC0gc2VxW2ldW25dIGZvciBpIGluIHJhbmdlKDAsIGxlbihzZXEpIC0gMiwgMildCiAgICBkX2hpID0gW3NlcVtpICsgMl1bbl0gLSBzZXFbaV1bbl0gZm9yIGkgaW4gcmFuZ2UoMSwgbGVuKHNlcSkgLSAyLCAyKV0KICAgIGFjdFtuXSA9IHsnZCc6IGRwcmltZShkX2hpLCBkX2xvKSwKICAgICAgICAgICAgICAnc3ByZWFkJzogbWF4KHNbbl0gZm9yIHMgaW4gc2VxKSAtIG1pbihzW25dIGZvciBzIGluIHNlcSl9CnJlc1snUzFfYWN0aXZhdGlvbiddID0gYWN0CgojIC0tLS0tLS0tLS0gUzIg5q2j5Lqk5oCn77ya5Zmo5a6Y5LmL6Ze05piv5LiN5piv5Zyo6K+05ZCM5LiA5Lu25LqLIC0tLS0tLS0tLS0KbGl2ZSA9IFtuIGZvciBuIGluIE5BTUVTIGlmIGFicyhhY3Rbbl1bJ2QnXSkgPiAwLjMgYW5kIGFjdFtuXVsnc3ByZWFkJ10gPiAwXQpjb2xzID0ge246IFtzW25dIGZvciBzIGluIHNlcV0gZm9yIG4gaW4gbGl2ZX0KZGVmIGNvcnIoYSwgYik6CiAgICBtYSwgbWIgPSBzdGF0aXN0aWNzLm1lYW4oYSksIHN0YXRpc3RpY3MubWVhbihiKQogICAgbnVtID0gc3VtKCh4IC0gbWEpICogKHkgLSBtYikgZm9yIHgsIHkgaW4gemlwKGEsIGIpKQogICAgZGEgPSBzdW0oKHggLSBtYSkgKiogMiBmb3IgeCBpbiBhKSAqKiAwLjUKICAgIGRiID0gc3VtKCh5IC0gbWIpICoqIDIgZm9yIHkgaW4gYikgKiogMC41CiAgICByZXR1cm4gbnVtIC8gKGRhICogZGIpIGlmIGRhID4gMCBhbmQgZGIgPiAwIGVsc2UgMC4wCm9ydCA9IHt9CmZvciBpIGluIHJhbmdlKGxlbihsaXZlKSk6CiAgICBmb3IgaiBpbiByYW5nZShpICsgMSwgbGVuKGxpdmUpKToKICAgICAgICBvcnRbZid7bGl2ZVtpXX1+e2xpdmVbal19J10gPSBjb3JyKGNvbHNbbGl2ZVtpXV0sIGNvbHNbbGl2ZVtqXV0pCnJlc1snUzJfb3J0aG9nb25hbGl0eSddID0geydsaXZlX29yZ2Fucyc6IGxpdmUsICdwYWlyd2lzZV9jb3JyJzogb3J0fQoKIyAtLS0tLS0tLS0tIFMzIOe7tOW6pueBvumavu+8muWKoOWZqOWumOaYr+WQpuS4gOebtOacieaUtuebiiAtLS0tLS0tLS0tCiMg6YeH54us56uL5qC35pys77yMRCDku44gMSDliqDliLAgbGVuKGxpdmUp77yM55yLIGhlbGQtb3V0IOWIpOWIq+WKmwpkZWYgY29sbGVjdChuX3Blcik6CiAgICByb3dzID0geydsb3cnOiBbXSwgJ2hpZ2gnOiBbXX0KICAgIGZvciBpIGluIHJhbmdlKG5fcGVyICogMik6CiAgICAgICAgbSA9ICdsb3cnIGlmIGkgJSAyID09IDAgZWxzZSAnaGlnaCcKICAgICAgICBzZXRfYm9keShtKTsgcm93c1ttXS5hcHBlbmQocmVhZG91dCgpKQogICAgcmV0dXJuIHJvd3MKCiMg55So5pyA6L+R6LSo5b+DICsg55WZ5Ye677yM54m55b6B5Li65qKv5bqm5b2i5byPCmRlZiBldmFsX0Qocm93cywgZmVhdHMsIG5fdHJhaW4pOgogICAgdHJfbG8gPSByb3dzWydsb3cnXVs6bl90cmFpbl07IHRyX2hpID0gcm93c1snaGlnaCddWzpuX3RyYWluXQogICAgdGVfbG8gPSByb3dzWydsb3cnXVtuX3RyYWluOl07IHRlX2hpID0gcm93c1snaGlnaCddW25fdHJhaW46XQogICAgaWYgbm90IHRlX2xvIG9yIG5vdCB0ZV9oaTogcmV0dXJuIE5vbmUKICAgIGNsID0gW3N0YXRpc3RpY3MubWVhbihyW2ZdIGZvciByIGluIHRyX2xvKSBmb3IgZiBpbiBmZWF0c10KICAgIGNoID0gW3N0YXRpc3RpY3MubWVhbihyW2ZdIGZvciByIGluIHRyX2hpKSBmb3IgZiBpbiBmZWF0c10KICAgIHNkID0gW10KICAgIGZvciBrLCBmIGluIGVudW1lcmF0ZShmZWF0cyk6CiAgICAgICAgdiA9IFtyW2ZdIGZvciByIGluIHRyX2xvXSArIFtyW2ZdIGZvciByIGluIHRyX2hpXQogICAgICAgIHNkLmFwcGVuZChzdGF0aXN0aWNzLnBzdGRldih2KSBvciAxLjApCiAgICBkZWYgZGNsKHIpOgogICAgICAgIGEgPSBzdW0oKChyW2ZdIC0gY2xba10pIC8gc2Rba10pICoqIDIgZm9yIGssIGYgaW4gZW51bWVyYXRlKGZlYXRzKSkKICAgICAgICBiID0gc3VtKCgocltmXSAtIGNoW2tdKSAvIHNkW2tdKSAqKiAyIGZvciBrLCBmIGluIGVudW1lcmF0ZShmZWF0cykpCiAgICAgICAgcmV0dXJuICdsb3cnIGlmIGEgPCBiIGVsc2UgJ2hpZ2gnCiAgICBjb3JyZWN0ID0gc3VtKDEgZm9yIHIgaW4gdGVfbG8gaWYgZGNsKHIpID09ICdsb3cnKQogICAgY29ycmVjdCArPSBzdW0oMSBmb3IgciBpbiB0ZV9oaSBpZiBkY2wocikgPT0gJ2hpZ2gnKQogICAgcmV0dXJuIGNvcnJlY3QgLyAobGVuKHRlX2xvKSArIGxlbih0ZV9oaSkpCgpOX1BFUiA9IDEwCnJvd3MgPSBjb2xsZWN0KE5fUEVSKQpjdXJ2ZSA9IHt9CmlmIGxpdmU6CiAgICBvcmRlciA9IHNvcnRlZChsaXZlLCBrZXk9bGFtYmRhIG46IC1hYnMoYWN0W25dWydkJ10pKSAgICMg5oyJ5Y2V5Zmo5a6Y5by65bqm5o6S5bqP5Yqg5YWlCiAgICBmb3IgRCBpbiByYW5nZSgxLCBsZW4ob3JkZXIpICsgMSk6CiAgICAgICAgY3VydmVbRF0gPSB7J2ZlYXRzJzogb3JkZXJbOkRdLCAnYWNjJzogZXZhbF9EKHJvd3MsIG9yZGVyWzpEXSwgTl9QRVIgLy8gMil9CnJlc1snUzNfZGltZW5zaW9uYWxpdHknXSA9IHsnb3JkZXInOiBzb3J0ZWQobGl2ZSwga2V5PWxhbWJkYSBuOiAtYWJzKGFjdFtuXVsnZCddKSkgaWYgbGl2ZSBlbHNlIFtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2N1cnZlJzogY3VydmUsICduX3Blcl9jbGFzcyc6IE5fUEVSfQoKIyAtLS0tLS0tLS0tIFM0IOegtOWdj+WvueeFp++8muW8hOeejuacgOW8uueahOmCo+S4quWZqOWumO+8jOWIpOWIq+WKm+ivpeaOiSAtLS0tLS0tLS0tCmJsaW5kID0ge30KaWYgbGl2ZToKICAgIGJlc3QgPSBzb3J0ZWQobGl2ZSwga2V5PWxhbWJkYSBuOiAtYWJzKGFjdFtuXVsnZCddKSlbMF0KICAgIGJhc2UgPSBldmFsX0Qocm93cywgbGl2ZSwgTl9QRVIgLy8gMikKICAgIGZvciByZXAgaW4gcmFuZ2UoNik6CiAgICAgICAgcm93czIgPSB7J2xvdyc6IFtkaWN0KHIpIGZvciByIGluIHJvd3NbJ2xvdyddXSwgJ2hpZ2gnOiBbZGljdChyKSBmb3IgciBpbiByb3dzWydoaWdoJ11dfQogICAgICAgIGFsbHYgPSBbcltiZXN0XSBmb3IgciBpbiByb3dzMlsnbG93J11dICsgW3JbYmVzdF0gZm9yIHIgaW4gcm93czJbJ2hpZ2gnXV0KICAgICAgICBSTkcuc2h1ZmZsZShhbGx2KQogICAgICAgIGZvciBpLCByIGluIGVudW1lcmF0ZShyb3dzMlsnbG93J10pOiByW2Jlc3RdID0gYWxsdltpXQogICAgICAgIGZvciBpLCByIGluIGVudW1lcmF0ZShyb3dzMlsnaGlnaCddKTogcltiZXN0XSA9IGFsbHZbbGVuKHJvd3MyWydsb3cnXSkgKyBpXQogICAgICAgIGJsaW5kLnNldGRlZmF1bHQoJ2JsaW5kZWQnLCBbXSkuYXBwZW5kKGV2YWxfRChyb3dzMiwgbGl2ZSwgTl9QRVIgLy8gMikpCiAgICBibGluZFsnaW50YWN0J10gPSBiYXNlCiAgICBibGluZFsnb3JnYW4nXSA9IGJlc3QKcmVzWydTNF9ibGluZCddID0gYmxpbmQKCmJvZHlfbWVtX2ZyZWUoKQpwcmludChqc29uLmR1bXBzKHJlcywgaW5kZW50PTEsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCg==
+"""164 升维加器官：器官 = 感受器 + 它对应的身体。先造身体，再装器官。"""
+import os, time, json, statistics, math, random
+
+def rd(p):
+    with open(p) as f: return f.read()
+
+def o_cpu():
+    s = rd('/proc/self/stat').split(); return int(s[13]) + int(s[14])
+def o_sysc():
+    v = {}
+    for line in rd('/proc/self/io').splitlines():
+        k, x = line.split(':'); v[k.strip()] = int(x)
+    return v['syscr'] + v['syscw']
+def o_load():  return float(rd('/proc/loadavg').split()[0]) * 1000
+def o_mem():
+    for line in rd('/proc/meminfo').splitlines():
+        if line.startswith('MemAvailable'): return int(line.split()[1])
+    return 0
+def o_net():
+    tot = 0
+    for line in rd('/proc/net/dev').splitlines()[2:]:
+        p = line.split(':', 1)[1].split(); tot += int(p[0]) + int(p[8])
+    return tot
+def o_ent():   return int(rd('/proc/sys/kernel/random/entropy_avail'))
+
+ORGANS = {'cpu': o_cpu, 'sysc': o_sysc, 'load': o_load,
+          'mem': o_mem, 'net': o_net, 'ent': o_ent}
+NAMES = list(ORGANS)
+
+# ---------- 身体：真实器官被感受的对象 ----------
+_buf_holder = []
+def body_cpu(n):
+    x = 0
+    for i in range(n): x = (x + i * i) % 1000003
+    return x
+def body_mem_alloc(kb):          # 真分配并触碰 -> 真改变 MemAvailable
+    b = bytearray(kb * 1024)
+    for i in range(0, len(b), 4096): b[i] = 1
+    _buf_holder.append(b)
+def body_mem_free():             # 真释放
+    while _buf_holder: _buf_holder.pop()
+def body_circ(bytes_n, pipes):   # 真管道 IO；分块，绝不阻塞管道缓冲
+    CH = 16384
+    per = max(CH, bytes_n // len(pipes))
+    for r, w in pipes:
+        left = per
+        while left > 0:
+            k = min(CH, left)
+            os.write(w, b'x' * k); os.read(r, k); left -= k
+
+# 准备真实管道（循环系统）
+PIPES = []
+for _ in range(4):
+    r, w = os.pipe(); PIPES.append((r, w))
+
+MEM_CAP_KB = 120 * 1024   # 安全上限，绝不越过
+_allocated = [0]
+
+def set_body(mode):
+    """把身体摆到某个真实代谢状态"""
+    if mode == 'low':
+        body_cpu(5000); body_mem_free(); _allocated[0] = 0
+    elif mode == 'high':
+        body_cpu(60000)
+        want = 120 * 1024
+        if _allocated[0] < want and _allocated[0] + 20000 <= MEM_CAP_KB:
+            body_mem_alloc(20000); _allocated[0] += 20000
+        body_circ(131072, PIPES)
+
+def readout():
+    return {n: f() for n, f in ORGANS.items()}
+
+def dprime(a, b):
+    ma, mb = statistics.mean(a), statistics.mean(b)
+    sa, sb = statistics.pstdev(a), statistics.pstdev(b)
+    p = ((sa ** 2 + sb ** 2) / 2) ** 0.5
+    return (mb - ma) / p if p > 0 else 0.0
+
+RNG = random.Random(20261019)
+res = {}
+
+# ---------- S1 器官激活：身体动起来之后，谁活了 ----------
+# 用梯度读出（相邻差），绝对值含共模漂移
+seq, labels = [], []
+for i in range(16):
+    m = 'low' if i % 2 == 0 else 'high'
+    set_body(m)
+    seq.append(readout()); labels.append(m)
+
+act = {}
+for n in NAMES:
+    d_lo = [seq[i + 2][n] - seq[i][n] for i in range(0, len(seq) - 2, 2)]
+    d_hi = [seq[i + 2][n] - seq[i][n] for i in range(1, len(seq) - 2, 2)]
+    act[n] = {'d': dprime(d_hi, d_lo),
+              'spread': max(s[n] for s in seq) - min(s[n] for s in seq)}
+res['S1_activation'] = act
+
+# ---------- S2 正交性：器官之间是不是在说同一件事 ----------
+live = [n for n in NAMES if abs(act[n]['d']) > 0.3 and act[n]['spread'] > 0]
+cols = {n: [s[n] for s in seq] for n in live}
+def corr(a, b):
+    ma, mb = statistics.mean(a), statistics.mean(b)
+    num = sum((x - ma) * (y - mb) for x, y in zip(a, b))
+    da = sum((x - ma) ** 2 for x in a) ** 0.5
+    db = sum((y - mb) ** 2 for y in b) ** 0.5
+    return num / (da * db) if da > 0 and db > 0 else 0.0
+ort = {}
+for i in range(len(live)):
+    for j in range(i + 1, len(live)):
+        ort[f'{live[i]}~{live[j]}'] = corr(cols[live[i]], cols[live[j]])
+res['S2_orthogonality'] = {'live_organs': live, 'pairwise_corr': ort}
+
+# ---------- S3 维度灾难：加器官是否一直有收益 ----------
+# 采独立样本，D 从 1 加到 len(live)，看 held-out 判别力
+def collect(n_per):
+    rows = {'low': [], 'high': []}
+    for i in range(n_per * 2):
+        m = 'low' if i % 2 == 0 else 'high'
+        set_body(m); rows[m].append(readout())
+    return rows
+
+# 用最近质心 + 留出，特征为梯度形式
+def eval_D(rows, feats, n_train):
+    tr_lo = rows['low'][:n_train]; tr_hi = rows['high'][:n_train]
+    te_lo = rows['low'][n_train:]; te_hi = rows['high'][n_train:]
+    if not te_lo or not te_hi: return None
+    cl = [statistics.mean(r[f] for r in tr_lo) for f in feats]
+    ch = [statistics.mean(r[f] for r in tr_hi) for f in feats]
+    sd = []
+    for k, f in enumerate(feats):
+        v = [r[f] for r in tr_lo] + [r[f] for r in tr_hi]
+        sd.append(statistics.pstdev(v) or 1.0)
+    def dcl(r):
+        a = sum(((r[f] - cl[k]) / sd[k]) ** 2 for k, f in enumerate(feats))
+        b = sum(((r[f] - ch[k]) / sd[k]) ** 2 for k, f in enumerate(feats))
+        return 'low' if a < b else 'high'
+    correct = sum(1 for r in te_lo if dcl(r) == 'low')
+    correct += sum(1 for r in te_hi if dcl(r) == 'high')
+    return correct / (len(te_lo) + len(te_hi))
+
+N_PER = 10
+rows = collect(N_PER)
+curve = {}
+if live:
+    order = sorted(live, key=lambda n: -abs(act[n]['d']))   # 按单器官强度排序加入
+    for D in range(1, len(order) + 1):
+        curve[D] = {'feats': order[:D], 'acc': eval_D(rows, order[:D], N_PER // 2)}
+res['S3_dimensionality'] = {'order': sorted(live, key=lambda n: -abs(act[n]['d'])) if live else [],
+                            'curve': curve, 'n_per_class': N_PER}
+
+# ---------- S4 破坏对照：弄瞎最强的那个器官，判别力该掉 ----------
+blind = {}
+if live:
+    best = sorted(live, key=lambda n: -abs(act[n]['d']))[0]
+    base = eval_D(rows, live, N_PER // 2)
+    for rep in range(6):
+        rows2 = {'low': [dict(r) for r in rows['low']], 'high': [dict(r) for r in rows['high']]}
+        allv = [r[best] for r in rows2['low']] + [r[best] for r in rows2['high']]
+        RNG.shuffle(allv)
+        for i, r in enumerate(rows2['low']): r[best] = allv[i]
+        for i, r in enumerate(rows2['high']): r[best] = allv[len(rows2['low']) + i]
+        blind.setdefault('blinded', []).append(eval_D(rows2, live, N_PER // 2))
+    blind['intact'] = base
+    blind['organ'] = best
+res['S4_blind'] = blind
+
+body_mem_free()
+print(json.dumps(res, indent=1, ensure_ascii=False))

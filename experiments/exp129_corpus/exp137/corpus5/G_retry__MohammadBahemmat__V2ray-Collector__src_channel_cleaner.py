@@ -1,1 +1,37 @@
-IyBjaGFubmVsX2NsZWFuZXIucHkKaW1wb3J0IHJlcXVlc3RzLCB0aW1lCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKSU5QVVRfRklMRSA9ICJkYXRhL2NoYW5uZWxzLnR4dCIKVkFMSURfRklMRSA9ICJkYXRhL2NoYW5uZWxzX2NsZWFuZWQudHh0IgpJTlZBTElEX0ZJTEUgPSAiZGF0YS9pbnZhbGlkX2NoYW5uZWxzLnR4dCIKVUEgPSAiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkiClRJTUVPVVQgPSA1CgpkZWYgbWFpbigpOgogICAgaWYgbm90IFBhdGgoSU5QVVRfRklMRSkuZXhpc3RzKCk6CiAgICAgICAgcHJpbnQoZiLinYwge0lOUFVUX0ZJTEV9IG5vdCBmb3VuZCIpCiAgICAgICAgcmV0dXJuCiAgICB3aXRoIG9wZW4oSU5QVVRfRklMRSkgYXMgZjoKICAgICAgICBjaGFubmVscyA9IFtsLnN0cmlwKCkgZm9yIGwgaW4gZiBpZiBsLnN0cmlwKCkgYW5kIG5vdCBsLnN0YXJ0c3dpdGgoJyMnKV0KICAgIHByaW50KGYiQ2hlY2tpbmcge2xlbihjaGFubmVscyl9IGNoYW5uZWxzLi4uIikKICAgIHZhbGlkLCBpbnZhbGlkID0gW10sIFtdCiAgICBmb3IgaSwgY2ggaW4gZW51bWVyYXRlKGNoYW5uZWxzLCAxKToKICAgICAgICB1cmwgPSBmImh0dHBzOi8vdC5tZS9zL3tjaH0iCiAgICAgICAgdHJ5OgogICAgICAgICAgICByID0gcmVxdWVzdHMuaGVhZCh1cmwsIGhlYWRlcnM9eyJVc2VyLUFnZW50IjogVUF9LCB0aW1lb3V0PVRJTUVPVVQsIGFsbG93X3JlZGlyZWN0cz1UcnVlKQogICAgICAgICAgICBpZiByLnN0YXR1c19jb2RlID09IDIwMDoKICAgICAgICAgICAgICAgIHZhbGlkLmFwcGVuZChjaCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGludmFsaWQuYXBwZW5kKGYie2NofSAjIEhUVFAge3Iuc3RhdHVzX2NvZGV9IikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGludmFsaWQuYXBwZW5kKGYie2NofSAjIHtlfSIpCiAgICAgICAgaWYgaSAlIDUwID09IDA6CiAgICAgICAgICAgIHByaW50KGYiICB7aX0ve2xlbihjaGFubmVscyl9IGNoZWNrZWQuLi4iKQogICAgICAgIHRpbWUuc2xlZXAoMC4yKQogICAgUGF0aChWQUxJRF9GSUxFKS53cml0ZV90ZXh0KCJcbiIuam9pbih2YWxpZCkpCiAgICBQYXRoKElOVkFMSURfRklMRSkud3JpdGVfdGV4dCgiXG4iLmpvaW4oaW52YWxpZCkpCiAgICBwcmludChmIkRvbmUuIFZhbGlkOiB7bGVuKHZhbGlkKX0sIEludmFsaWQ6IHtsZW4oaW52YWxpZCl9IikKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+# channel_cleaner.py
+import requests, time
+from pathlib import Path
+
+INPUT_FILE = "data/channels.txt"
+VALID_FILE = "data/channels_cleaned.txt"
+INVALID_FILE = "data/invalid_channels.txt"
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+TIMEOUT = 5
+
+def main():
+    if not Path(INPUT_FILE).exists():
+        print(f"❌ {INPUT_FILE} not found")
+        return
+    with open(INPUT_FILE) as f:
+        channels = [l.strip() for l in f if l.strip() and not l.startswith('#')]
+    print(f"Checking {len(channels)} channels...")
+    valid, invalid = [], []
+    for i, ch in enumerate(channels, 1):
+        url = f"https://t.me/s/{ch}"
+        try:
+            r = requests.head(url, headers={"User-Agent": UA}, timeout=TIMEOUT, allow_redirects=True)
+            if r.status_code == 200:
+                valid.append(ch)
+            else:
+                invalid.append(f"{ch} # HTTP {r.status_code}")
+        except Exception as e:
+            invalid.append(f"{ch} # {e}")
+        if i % 50 == 0:
+            print(f"  {i}/{len(channels)} checked...")
+        time.sleep(0.2)
+    Path(VALID_FILE).write_text("\n".join(valid))
+    Path(INVALID_FILE).write_text("\n".join(invalid))
+    print(f"Done. Valid: {len(valid)}, Invalid: {len(invalid)}")
+
+if __name__ == "__main__":
+    main()

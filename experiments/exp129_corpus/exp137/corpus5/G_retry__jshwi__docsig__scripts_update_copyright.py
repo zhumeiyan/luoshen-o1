@@ -1,1 +1,96 @@
-IiIiVXBkYXRlIGNvcHlyaWdodCB5ZWFyIGluIGxpY2Vuc2UgYW5kIGRvY3MuIiIiCgppbXBvcnQgcmUKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gcmUgaW1wb3J0IE1hdGNoCgppbXBvcnQgcHl0ZXN0CgpSRVBPID0gUGF0aChfX2ZpbGVfXykucGFyZW50LnBhcmVudApQQVRURVJOUyA9IHsKICAgIFBhdGgoIkxJQ0VOU0UiKTogcmUuY29tcGlsZShyIkNvcHlyaWdodCBcKGNcKSAoXGR7NH0pIiksCiAgICBQYXRoKCJkb2NzIikgLyAiY29uZi5weSI6IHJlLmNvbXBpbGUocidjb3B5cmlnaHQgPSAiKFxkezR9KScpLAp9CgoKZGVmIF9yZXBsYWNlX3llYXIobWF0Y2g6IE1hdGNoKSAtPiBzdHI6CiAgICByZXR1cm4gZiJ7bWF0Y2guZ3JvdXAoKVs6LTRdfXtkYXRldGltZS5ub3coKS55ZWFyfSIKCgpkZWYgX21haW4oKSAtPiBOb25lOgogICAgZm9yIHJlbHBhdGgsIHBhdHRlcm4gaW4gUEFUVEVSTlMuaXRlbXMoKToKICAgICAgICBmaWxlID0gUkVQTyAvIHJlbHBhdGgKICAgICAgICB0ZXh0ID0gZmlsZS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikKICAgICAgICBuZXcgPSBwYXR0ZXJuLnN1YihfcmVwbGFjZV95ZWFyLCB0ZXh0KQogICAgICAgIGlmIHRleHQgIT0gbmV3OgogICAgICAgICAgICBmaWxlLndyaXRlX3RleHQobmV3LCBlbmNvZGluZz0idXRmLTgiKQoKCmNsYXNzIFRlc3Q6CiAgICAiIiJUZXN0cyBmb3IgdGhpcyBzY3JpcHQuIiIiCgogICAgeWVhcjogaW50CiAgICBsaWNlbnNlX2ZpbGU6IFBhdGgKICAgIGNvbmY6IFBhdGgKCiAgICBAcHl0ZXN0LmZpeHR1cmUoYXV0b3VzZT1UcnVlKQogICAgZGVmIHNldHVwKAogICAgICAgIHNlbGYsCiAgICAgICAgdG1wX3BhdGg6IFBhdGgsCiAgICAgICAgbW9ua2V5cGF0Y2g6IHB5dGVzdC5Nb25rZXlQYXRjaCwKICAgICkgLT4gTm9uZToKICAgICAgICAiIiJTZXQgdXAgdGhlIHRlc3QgZW52aXJvbm1lbnQuCgogICAgICAgIDpwYXJhbSB0bXBfcGF0aDogQ3JlYXRlIGFuZCByZXR1cm4gYSB0ZW1wb3JhcnkgZGlyZWN0b3J5LgogICAgICAgIDpwYXJhbSBtb25rZXlwYXRjaDogTW9jayBwYXRjaCBlbnZpcm9ubWVudCBhbmQgYXR0cmlidXRlcy4KICAgICAgICAiIiIKICAgICAgICBtb25rZXlwYXRjaC5zZXRhdHRyKGYie19fbmFtZV9ffS5SRVBPIiwgdG1wX3BhdGgpCiAgICAgICAgc2VsZi55ZWFyID0gZGF0ZXRpbWUubm93KCkueWVhcgogICAgICAgIHNlbGYubGljZW5zZV9maWxlID0gdG1wX3BhdGggLyAiTElDRU5TRSIKICAgICAgICBzZWxmLmNvbmYgPSB0bXBfcGF0aCAvICJkb2NzIiAvICJjb25mLnB5IgogICAgICAgIHNlbGYuY29uZi5wYXJlbnQubWtkaXIoKQoKICAgIGRlZiB0ZXN0X3N0YWxlX2xpY2Vuc2VfeWVhcihzZWxmKSAtPiBOb25lOgogICAgICAgICIiIlRlc3QgYW4gb3V0LW9mLWRhdGUgbGljZW5zZSB5ZWFyIGlzIHJlcGxhY2VkLiIiIgogICAgICAgIHNlbGYubGljZW5zZV9maWxlLndyaXRlX3RleHQoIkNvcHlyaWdodCAoYykgMTk5OSBTIiwgZW5jb2Rpbmc9InV0Zi04IikKICAgICAgICBzZWxmLmNvbmYud3JpdGVfdGV4dCgnY29weXJpZ2h0ID0gIjE5OTkiJywgZW5jb2Rpbmc9InV0Zi04IikKICAgICAgICBfbWFpbigpCiAgICAgICAgYXNzZXJ0IHNlbGYubGljZW5zZV9maWxlLnJlYWRfdGV4dCgidXRmLTgiKSA9PSAoCiAgICAgICAgICAgIGYiQ29weXJpZ2h0IChjKSB7c2VsZi55ZWFyfSBTIgogICAgICAgICkKCiAgICBkZWYgdGVzdF9zdGFsZV9kb2NzX3llYXIoc2VsZikgLT4gTm9uZToKICAgICAgICAiIiJUZXN0IGFuIG91dC1vZi1kYXRlIGRvY3MgeWVhciBpcyByZXBsYWNlZC4iIiIKICAgICAgICBzZWxmLmxpY2Vuc2VfZmlsZS53cml0ZV90ZXh0KCJDb3B5cmlnaHQgKGMpIDE5OTkgUyIsIGVuY29kaW5nPSJ1dGYtOCIpCiAgICAgICAgc2VsZi5jb25mLndyaXRlX3RleHQoJ2NvcHlyaWdodCA9ICIxOTk5IicsIGVuY29kaW5nPSJ1dGYtOCIpCiAgICAgICAgX21haW4oKQogICAgICAgIGFzc2VydCBzZWxmLmNvbmYucmVhZF90ZXh0KCJ1dGYtOCIpID09IGYnY29weXJpZ2h0ID0gIntzZWxmLnllYXJ9IicKCiAgICBkZWYgdGVzdF9jdXJyZW50X3llYXJfdW50b3VjaGVkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgIiIiVGVzdCBhIGZpbGUgYWxyZWFkeSBvbiB0aGUgY3VycmVudCB5ZWFyIGlzIG5vdCByZXdyaXR0ZW4uIiIiCiAgICAgICAgc2VsZi5saWNlbnNlX2ZpbGUud3JpdGVfdGV4dCgKICAgICAgICAgICAgZiJDb3B5cmlnaHQgKGMpIHtzZWxmLnllYXJ9IFMiLAogICAgICAgICAgICBlbmNvZGluZz0idXRmLTgiLAogICAgICAgICkKICAgICAgICBzZWxmLmNvbmYud3JpdGVfdGV4dCgKICAgICAgICAgICAgZidjb3B5cmlnaHQgPSAie3NlbGYueWVhcn0iJywKICAgICAgICAgICAgZW5jb2Rpbmc9InV0Zi04IiwKICAgICAgICApCiAgICAgICAgYmVmb3JlID0gc2VsZi5saWNlbnNlX2ZpbGUuc3RhdCgpLnN0X210aW1lX25zCiAgICAgICAgX21haW4oKQogICAgICAgIGFzc2VydCBzZWxmLmxpY2Vuc2VfZmlsZS5zdGF0KCkuc3RfbXRpbWVfbnMgPT0gYmVmb3JlCgogICAgZGVmIHRlc3RfdW5yZWxhdGVkX3llYXJfdW50b3VjaGVkKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgIiIiVGVzdCBhIHllYXIgb3V0c2lkZSB0aGUgY29weXJpZ2h0IG5vdGljZSBpcyBsZWZ0IGFsb25lLiIiIgogICAgICAgIHNlbGYubGljZW5zZV9maWxlLndyaXRlX3RleHQoCiAgICAgICAgICAgICJDb3B5cmlnaHQgKGMpIDE5OTkgU1xucmVsZWFzZWQgaW4gMTk5OCIsCiAgICAgICAgICAgIGVuY29kaW5nPSJ1dGYtOCIsCiAgICAgICAgKQogICAgICAgIHNlbGYuY29uZi53cml0ZV90ZXh0KCdjb3B5cmlnaHQgPSAiMTk5OSInLCBlbmNvZGluZz0idXRmLTgiKQogICAgICAgIF9tYWluKCkKICAgICAgICBhc3NlcnQgInJlbGVhc2VkIGluIDE5OTgiIGluIHNlbGYubGljZW5zZV9maWxlLnJlYWRfdGV4dCgidXRmLTgiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBfbWFpbigpCg==
+"""Update copyright year in license and docs."""
+
+import re
+from datetime import datetime
+from pathlib import Path
+from re import Match
+
+import pytest
+
+REPO = Path(__file__).parent.parent
+PATTERNS = {
+    Path("LICENSE"): re.compile(r"Copyright \(c\) (\d{4})"),
+    Path("docs") / "conf.py": re.compile(r'copyright = "(\d{4})'),
+}
+
+
+def _replace_year(match: Match) -> str:
+    return f"{match.group()[:-4]}{datetime.now().year}"
+
+
+def _main() -> None:
+    for relpath, pattern in PATTERNS.items():
+        file = REPO / relpath
+        text = file.read_text(encoding="utf-8")
+        new = pattern.sub(_replace_year, text)
+        if text != new:
+            file.write_text(new, encoding="utf-8")
+
+
+class Test:
+    """Tests for this script."""
+
+    year: int
+    license_file: Path
+    conf: Path
+
+    @pytest.fixture(autouse=True)
+    def setup(
+        self,
+        tmp_path: Path,
+        monkeypatch: pytest.MonkeyPatch,
+    ) -> None:
+        """Set up the test environment.
+
+        :param tmp_path: Create and return a temporary directory.
+        :param monkeypatch: Mock patch environment and attributes.
+        """
+        monkeypatch.setattr(f"{__name__}.REPO", tmp_path)
+        self.year = datetime.now().year
+        self.license_file = tmp_path / "LICENSE"
+        self.conf = tmp_path / "docs" / "conf.py"
+        self.conf.parent.mkdir()
+
+    def test_stale_license_year(self) -> None:
+        """Test an out-of-date license year is replaced."""
+        self.license_file.write_text("Copyright (c) 1999 S", encoding="utf-8")
+        self.conf.write_text('copyright = "1999"', encoding="utf-8")
+        _main()
+        assert self.license_file.read_text("utf-8") == (
+            f"Copyright (c) {self.year} S"
+        )
+
+    def test_stale_docs_year(self) -> None:
+        """Test an out-of-date docs year is replaced."""
+        self.license_file.write_text("Copyright (c) 1999 S", encoding="utf-8")
+        self.conf.write_text('copyright = "1999"', encoding="utf-8")
+        _main()
+        assert self.conf.read_text("utf-8") == f'copyright = "{self.year}"'
+
+    def test_current_year_untouched(self) -> None:
+        """Test a file already on the current year is not rewritten."""
+        self.license_file.write_text(
+            f"Copyright (c) {self.year} S",
+            encoding="utf-8",
+        )
+        self.conf.write_text(
+            f'copyright = "{self.year}"',
+            encoding="utf-8",
+        )
+        before = self.license_file.stat().st_mtime_ns
+        _main()
+        assert self.license_file.stat().st_mtime_ns == before
+
+    def test_unrelated_year_untouched(self) -> None:
+        """Test a year outside the copyright notice is left alone."""
+        self.license_file.write_text(
+            "Copyright (c) 1999 S\nreleased in 1998",
+            encoding="utf-8",
+        )
+        self.conf.write_text('copyright = "1999"', encoding="utf-8")
+        _main()
+        assert "released in 1998" in self.license_file.read_text("utf-8")
+
+
+if __name__ == "__main__":
+    _main()

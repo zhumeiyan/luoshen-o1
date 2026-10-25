@@ -1,1 +1,111 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIxNDUg5riy5p+TIC0+IOWGmSAvZGV2L2ZiMCAtPiDlm57ph4fmr5Tlr7kgLT4gT0NSIiIiCmltcG9ydCBvcywganNvbiwgaGFzaGxpYiwgcmFuZG9tCk9VVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpXLCBIID0gMTAyNCwgNzY4CgoKZGVmIGxvYWRfZm9udChzeik6CiAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2VGb250CiAgICBmb3IgcCBpbiAoIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMiLAogICAgICAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktemVuaGVpLnR0YyIsCiAgICAgICAgICAgICAgIi91c3Ivc2hhcmUvZm9udHMvb3BlbnR5cGUvbm90by9Ob3RvU2Fuc0NKSy1SZWd1bGFyLnR0YyIsCiAgICAgICAgICAgICAgIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvZGVqYXZ1L0RlamFWdVNhbnMudHRmIik6CiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMocCk6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiBJbWFnZUZvbnQudHJ1ZXR5cGUocCwgc3opCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBwYXNzCiAgICByZXR1cm4gSW1hZ2VGb250LmxvYWRfZGVmYXVsdCgpCgoKZGVmIG1haW4oKToKICAgIGZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3CiAgICB2MSA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHRfMTQ1Lmpzb24iKSkpCiAgICBiID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKE9VVCwgInJlc3VsdF8xNDViLmpzb24iKSkpCiAgICByZWFsID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKE9VVCwgInJlc3VsdF8xNDVfcmVhbC5qc29uIikpKQogICAgc3VwID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKE9VVCwgInJlc3VsdF8xNDVfc3VwLmpzb24iKSkpCgogICAgaW1nID0gSW1hZ2UubmV3KCJSR0IiLCAoVywgSCksICJ3aGl0ZSIpCiAgICBkID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQogICAgZnQgPSBsb2FkX2ZvbnQoMjkpOyBmcyA9IGxvYWRfZm9udCgyMCk7IGZiID0gbG9hZF9mb250KDIyKQogICAgeSA9IDIwCgogICAgZGVmIGxpbmUodCwgZj1Ob25lLCBwYWQ9MjUpOgogICAgICAgIG5vbmxvY2FsIHkKICAgICAgICBkLnRleHQoKDM0LCB5KSwgdCwgZmlsbD0iYmxhY2siLCBmb250PWYgb3IgZnMpOyB5ICs9IHBhZAoKICAgIGQudGV4dCgoMzQsIHkpLCAiMTQ1IE9OTElORSBTSEFQRSBKVURHRTogREVURUNUIFRIRU4gQURBUFQiLCBmaWxsPSJibGFjayIsIGZvbnQ9ZnQpCiAgICB5ICs9IDQxCgogICAgbGluZSgiPT0gVjEgRkFJTEVEOiBqdWRnZWQgdGhlIFdST05HIHF1YW50aXR5ID09IiwgZmIpCiAgICBsaW5lKCJqdWRnZSB0cmVuZCBvZiBZIC0+IGRyaWZ0IGRldGVjdGVkIG9ubHkgJS4zZiAobW9ub3RvbmUpIiAlCiAgICAgICAgIHYxWyJ3b3JsZHMiXVsibW9ub3RvbmUiXVsiQURBUFRJVkUiXVsiZHJpZnRfcmF0ZSJdKQogICAgbGluZSgiWSBzdGQgMi4yNCBjb21lcyBmcm9tIHJhbmRvbSBYLCB3LWRyaWZ0IGludmlzaWJsZSBpbiBZOiB0PTAuMTQiLCBmcykKICAgIGxpbmUoIm5vIHRocmVzaG9sZCBmaXhlcyB0aGlzOyBWMSBhYmFuZG9uZWQsIHJlcG9ydGVkIGFzLWlzIiwgZnMpCiAgICB5ICs9IDMKCiAgICBsaW5lKCI9PSBWMyBFWFBFUlQ6IHBpY2sgQUxMIG9yIFJFQ0VOVCBieSByZWNlbnQgbG9zcyA9PSIsIGZiKQogICAgZm9yIHcsIHRhZyBpbiBbKCJzdGF0aW9uYXJ5IiwgInN0YXQiKSwgKCJtb25vdG9uZSIsICJtb25vIiksCiAgICAgICAgICAgICAgICAgICAoInNpbmUiLCAic2luZSIpLCAoInNxdWFyZSIsICJzcXIiKV06CiAgICAgICAgciA9IGJbIndvcmxkcyJdW3ddCiAgICAgICAgbGluZSgiJS01cyBBTEwgJS4zZiAgUkVDRU5UICUuM2YgIFYzICUuM2YgIHBpY2tfUiAlLjJmIiAlICgKICAgICAgICAgICAgdGFnLCByWyJBTEwiXVsiZXJyIl0sIHJbIlJFQ0VOVCJdWyJlcnIiXSwKICAgICAgICAgICAgclsiVjNfRVhQRVJUIl1bImVyciJdLCByWyJWM19FWFBFUlQiXVsicmVjZW50X3JhdGUiXSkpCiAgICBsaW5lKCJWMyBiZWF0cyBCT1RIIGZpeGVkIHBvbGljaWVzIG9uIHNpbmUgYW5kIHNxdWFyZSIsIGZzKQogICAgbGluZSgiVjIgcmVzaWR1YWwtdHJlbmQgYWxzbyBmYWlsZWQgKHBpY2tfUiAwLjAyLTAuMTEpIiwgZnMpCiAgICB5ICs9IDMKCiAgICBsaW5lKCI9PSBHQVRFUyA9PSIsIGZiKQogICAgbGluZSgiRzEgc2VsZWN0aXZpdHkgJXMgKHN0YXQgJS4yZiAtPiBtb25vICUuMmYpIiAlICgKICAgICAgICBiWyJ2ZXJkaWN0Il1bIkcxX3NlbGVjdGl2aXR5Il0sIGJbInZlcmRpY3QiXVsicmF0ZV9zdGF0aW9uYXJ5Il0sCiAgICAgICAgYlsidmVyZGljdCJdWyJyYXRlX21vbm90b25lIl0pKQogICAgbGluZSgiRzIgVjMgbm90IHdvcnNlIHRoYW4gYmVzdCBmaXhlZDogJXMiICUgYlsidmVyZGljdCJdWyJHMiJdKQogICAgbGluZSgiRzMgcmFuZG9tLXBpY2sgd29yc2UgJSsuNGYgWyUrLjRmLCUrLjRmXSAgJXMiICUgKAogICAgICAgIGJbInZlcmRpY3QiXVsiRzNfZGlmZiJdLCBiWyJ2ZXJkaWN0Il1bIkczX2NpIl1bMF0sCiAgICAgICAgYlsidmVyZGljdCJdWyJHM19jaSJdWzFdLCBiWyJ2ZXJkaWN0Il1bIkczIl0pKQogICAgbGluZSgic2hhcGUgc3dpdGNoOiBtb25vLWhhbGYgJS4yZiAtPiBzcXItaGFsZiAlLjJmICh0cmFja3MpIiAlICgKICAgICAgICBiWyJzd2l0Y2giXVsiZmlyc3RfaGFsZl9yYXRlIl1bMF0sIGJbInN3aXRjaCJdWyJzZWNvbmRfaGFsZl9yYXRlIl1bMF0pKQogICAgeSArPSAzCgogICAgbGluZSgiPT0gUkVBTCBBUk06IHJlYWwgQ1BVIGppdHRlciA9PSIsIGZiKQogICAgbGluZSgic3VzdGFpbiBwaWNrX1IgJS4yZiB8IGN5Y2xlIHBpY2tfUiAlLjJmICBkaXN0aW5jdD0lcyIgJSAoCiAgICAgICAgcmVhbFsidmVyZGljdCJdWyJzdXN0YWluX3JhdGUiXSwgcmVhbFsidmVyZGljdCJdWyJjeWNsZV9yYXRlIl0sCiAgICAgICAgcmVhbFsidmVyZGljdCJdWyJkaXN0aW5jdCJdKSkKICAgIGxpbmUoInN1c3RhaW46IFJFQ0VOVCB3aW5zIHwgY3ljbGU6IEFMTCB3aW5zICAobWF0Y2hlcyAxNDQgc2ltKSIsIGZzKQogICAgbGluZSgiYnV0IGFsbCBsZWFybmVycyBMT1NFIHRvIGlkZW50aXR5IGJhc2VsaW5lIG9uIGN5Y2xlOiAlcyIgJQogICAgICAgICBzdXBbImN5Y2xlIl1bIjMiXVsiYmVzdF9iZWF0c19pZGVudCJdKQogICAgbGluZSgic3VzdGFpbiBiZWF0cyBpZGVudGl0eTogJXMiICUgc3VwWyJzdXN0YWluIl1bIjMiXVsiYmVzdF9iZWF0c19pZGVudCJdKQogICAgeSArPSAzCgogICAgbGluZSgiQ0FWRUFUOiByZWFsIGFybSBuPTEgdHJhY2U7IDYgcmVwcyBhcmUgcHNldWRvLXJlcGxpY2F0aW9uIiwgZnMpCiAgICBsaW5lKCJhYnNvbHV0ZSB2YWx1ZXMgc3dpbmcgYmV0d2VlbiBjb2xsZWN0aW9uczsgb25seSB0aGUiLCBmcykKICAgIGxpbmUoIlJFTEFUSVZFIHBvbGljeSBvcmRlcmluZyByZXByb2R1Y2VkIHR3aWNlIiwgZnMpCgogICAgdG9rID0gIiIuam9pbihyYW5kb20uY2hvaWNlKCJBQkNERUZHSEpLTE1OUFFSU1RVVldYWVoyMzQ1Njc4OSIpIGZvciBfIGluIHJhbmdlKDYpKQogICAgZC50ZXh0KCgzNCwgeSksICJUT0tFTiAiICsgdG9rLCBmaWxsPSJibGFjayIsIGZvbnQ9ZnQpCgogICAgaW1nLnNhdmUob3MucGF0aC5qb2luKE9VVCwgInJlbmRlcjE0NS5wbmciKSkKICAgIHJhdyA9IGltZy5jb252ZXJ0KCJSR0JBIikudG9ieXRlcygpCiAgICBzaCA9IGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KClbOjEyXQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbigiL2Rldi9mYjAiLCAid2IiKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKHJhdyk7IGYuZmx1c2goKQogICAgICAgIHdpdGggb3BlbigiL2Rldi9mYjAiLCAicmIiKSBhcyBmOgogICAgICAgICAgICBjYXAgPSBmLnJlYWQobGVuKHJhdykpCiAgICAgICAgb2sgPSAoY2FwID09IHJhdykKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXg6CiAgICAgICAgcHJpbnQoIkZCIEVSUiIsIGV4KTsgb2sgPSBGYWxzZTsgY2FwID0gYiIiCiAgICBwcmludCgiV1JJVEUiLCBsZW4ocmF3KSwgIkNBUFRVUkUiLCBsZW4oY2FwKSwgIklERU5USUNBTCIsIG9rKQogICAgcHJpbnQoIlJFTkRFUl9TSEEiLCBzaCk7IHByaW50KCJUT0tFTiIsIHRvaykKICAgICMg5bin57yT5Yay5Zue6YeH55qE5piv5Y6f5aeLIFJHQkEg5a2X6IqCLCDkuI3mmK8gUE5HOyDlv4XpobvmjInlsLrlr7jph43lu7rmiY3og73nu5kgT0NSIOS4juiCieecvOivuwogICAgY2FwaW1nID0gSW1hZ2UuZnJvbWJ5dGVzKCJSR0JBIiwgKFcsIEgpLCBjYXApCiAgICBjYXBpbWcuc2F2ZShvcy5wYXRoLmpvaW4oT1VULCAiY2FwdHVyZWQucG5nIikpCiAgICBjYXBfc2hhID0gaGFzaGxpYi5zaGEyNTYoY2FwKS5oZXhkaWdlc3QoKVs6MTJdCiAgICBwcmludCgiQ0FQVFVSRV9TSEEiLCBjYXBfc2hhLCAiTUFUQ0giLCBjYXBfc2hhID09IHNoKQogICAganNvbi5kdW1wKGRpY3Qoc2hhPXNoLCBjYXBfc2hhPWNhcF9zaGEsIHRva2VuPXRvaywgaWRlbnRpY2FsPWJvb2wob2spKSwKICAgICAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihPVVQsICJzY3JlZW4uanNvbiIpLCAidyIpKQoKCm1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""145 渲染 -> 写 /dev/fb0 -> 回采比对 -> OCR"""
+import os, json, hashlib, random
+OUT = os.path.dirname(os.path.abspath(__file__))
+W, H = 1024, 768
+
+
+def load_font(sz):
+    from PIL import ImageFont
+    for p in ("/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+              "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+              "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+              "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"):
+        if os.path.exists(p):
+            try:
+                return ImageFont.truetype(p, sz)
+            except Exception:
+                pass
+    return ImageFont.load_default()
+
+
+def main():
+    from PIL import Image, ImageDraw
+    v1 = json.load(open(os.path.join(OUT, "result_145.json")))
+    b = json.load(open(os.path.join(OUT, "result_145b.json")))
+    real = json.load(open(os.path.join(OUT, "result_145_real.json")))
+    sup = json.load(open(os.path.join(OUT, "result_145_sup.json")))
+
+    img = Image.new("RGB", (W, H), "white")
+    d = ImageDraw.Draw(img)
+    ft = load_font(29); fs = load_font(20); fb = load_font(22)
+    y = 20
+
+    def line(t, f=None, pad=25):
+        nonlocal y
+        d.text((34, y), t, fill="black", font=f or fs); y += pad
+
+    d.text((34, y), "145 ONLINE SHAPE JUDGE: DETECT THEN ADAPT", fill="black", font=ft)
+    y += 41
+
+    line("== V1 FAILED: judged the WRONG quantity ==", fb)
+    line("judge trend of Y -> drift detected only %.3f (monotone)" %
+         v1["worlds"]["monotone"]["ADAPTIVE"]["drift_rate"])
+    line("Y std 2.24 comes from random X, w-drift invisible in Y: t=0.14", fs)
+    line("no threshold fixes this; V1 abandoned, reported as-is", fs)
+    y += 3
+
+    line("== V3 EXPERT: pick ALL or RECENT by recent loss ==", fb)
+    for w, tag in [("stationary", "stat"), ("monotone", "mono"),
+                   ("sine", "sine"), ("square", "sqr")]:
+        r = b["worlds"][w]
+        line("%-5s ALL %.3f  RECENT %.3f  V3 %.3f  pick_R %.2f" % (
+            tag, r["ALL"]["err"], r["RECENT"]["err"],
+            r["V3_EXPERT"]["err"], r["V3_EXPERT"]["recent_rate"]))
+    line("V3 beats BOTH fixed policies on sine and square", fs)
+    line("V2 residual-trend also failed (pick_R 0.02-0.11)", fs)
+    y += 3
+
+    line("== GATES ==", fb)
+    line("G1 selectivity %s (stat %.2f -> mono %.2f)" % (
+        b["verdict"]["G1_selectivity"], b["verdict"]["rate_stationary"],
+        b["verdict"]["rate_monotone"]))
+    line("G2 V3 not worse than best fixed: %s" % b["verdict"]["G2"])
+    line("G3 random-pick worse %+.4f [%+.4f,%+.4f]  %s" % (
+        b["verdict"]["G3_diff"], b["verdict"]["G3_ci"][0],
+        b["verdict"]["G3_ci"][1], b["verdict"]["G3"]))
+    line("shape switch: mono-half %.2f -> sqr-half %.2f (tracks)" % (
+        b["switch"]["first_half_rate"][0], b["switch"]["second_half_rate"][0]))
+    y += 3
+
+    line("== REAL ARM: real CPU jitter ==", fb)
+    line("sustain pick_R %.2f | cycle pick_R %.2f  distinct=%s" % (
+        real["verdict"]["sustain_rate"], real["verdict"]["cycle_rate"],
+        real["verdict"]["distinct"]))
+    line("sustain: RECENT wins | cycle: ALL wins  (matches 144 sim)", fs)
+    line("but all learners LOSE to identity baseline on cycle: %s" %
+         sup["cycle"]["3"]["best_beats_ident"])
+    line("sustain beats identity: %s" % sup["sustain"]["3"]["best_beats_ident"])
+    y += 3
+
+    line("CAVEAT: real arm n=1 trace; 6 reps are pseudo-replication", fs)
+    line("absolute values swing between collections; only the", fs)
+    line("RELATIVE policy ordering reproduced twice", fs)
+
+    tok = "".join(random.choice("ABCDEFGHJKLMNPQRSTUVWXYZ23456789") for _ in range(6))
+    d.text((34, y), "TOKEN " + tok, fill="black", font=ft)
+
+    img.save(os.path.join(OUT, "render145.png"))
+    raw = img.convert("RGBA").tobytes()
+    sh = hashlib.sha256(raw).hexdigest()[:12]
+    try:
+        with open("/dev/fb0", "wb") as f:
+            f.write(raw); f.flush()
+        with open("/dev/fb0", "rb") as f:
+            cap = f.read(len(raw))
+        ok = (cap == raw)
+    except Exception as ex:
+        print("FB ERR", ex); ok = False; cap = b""
+    print("WRITE", len(raw), "CAPTURE", len(cap), "IDENTICAL", ok)
+    print("RENDER_SHA", sh); print("TOKEN", tok)
+    # 帧缓冲回采的是原始 RGBA 字节, 不是 PNG; 必须按尺寸重建才能给 OCR 与肉眼读
+    capimg = Image.frombytes("RGBA", (W, H), cap)
+    capimg.save(os.path.join(OUT, "captured.png"))
+    cap_sha = hashlib.sha256(cap).hexdigest()[:12]
+    print("CAPTURE_SHA", cap_sha, "MATCH", cap_sha == sh)
+    json.dump(dict(sha=sh, cap_sha=cap_sha, token=tok, identical=bool(ok)),
+              open(os.path.join(OUT, "screen.json"), "w"))
+
+
+main()

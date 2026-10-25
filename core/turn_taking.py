@@ -1,1 +1,312 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNTUg6L2u5rWB77yIdHVybi10YWtpbmfvvInigJTigJQg5a+56K+d6IWU55yf5q2j55qE5omA5ZyoCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K4piF4piFIOS4uuS7gOS5iOW7uui/meS4gOWxggogICAg4piFNTMv4piFNTQg5a2m55qE6YO95piv44CQ6Z+z6Imy44CR77ya5YGc6aG/546H44CBaml0dGVy44CBRjAg6Leo5bqmCiAgICDkvYbmjaLor63mlpnmupDmjaLmnaXnmoTov5jmmK8i5pyX6K+7IiDigJTigJQg5Zug5Li65pyX6K+75ZKM5a+56K+d55qE5beu5YirCiAgICDjgJDkuI3lnKjpn7PoibLvvIzlnKjnu5PmnoTjgJHvvJrmnInmsqHmnInova7mtYHjgIHmnInmsqHmnInph43lj6DjgIHmnInmsqHmnInpmYTlkowKCiAgICDmnJfor7sgPSDkuIDkuKrkurror7TvvIzor7Tlrozmi4nlgJIKICAgIOWvueivnSA9IOS4pOS4quS6uuaKouivnei9ru+8jOmXtOmalCAxMDBtc++8jOmHjeWPoCA8NSXvvIwxOSUg5pivIuWXry/lr7kiCgrimIXimIXimIUg5qC45b+D55+b55u+77yI5pys5bGC55qE5Y+v6K+B5Lyq6ZSa77yJCiAgICDor63pn7PkuqfnlJ/mvZzkvI8gPiA2MDAgbXPvvIhSRUFM77yMTGV2aW5zb24gMjAxNu+8iQogICAg6K+d6L2u6Ze06ZqU5Lit5L2N5Y+q5pyJIDEwMCBtc++8iFJFQUzvvIxTdGl2ZXJzIDIwMDkg5Y2B6K+t6KiA77yJCiAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOKYhSDkuI3pooTmtYvvvIzpl7TpmpTlv4XnhLYgPj0gNjAwbXPvvIzmsLjov5zlgZrkuI3liLAgMTAwbXMKICAgIOKYhSDmiYDku6XjgJDmipXlvbEgcHJvamVjdGlvbuOAkeaYr+W/hemcgOeahO+8jOS4jeaYr+WPr+mAieeahAogICAg55yf5py65Yi277ya5ZCs6ICF6Z2g5Y+l5rOV5a6M5oiQ5bqmICsg6Z+15b6L5a6M5oiQ5bqm6aKE5rWL6K+d6L2u5L2V5pe257uT5p2fCiAgICAgICAgICAgIEVFRyDlrp7or4HvvJror53ova7nu5PmnZ/liY0gMTIwMG1zIOWwseWHuueOsCBiZXRhIOWOu+WQjOatpe+8iE1hZ3lhcmkgMjAxNO+8iQoK4piF4piFIOecn+mUmueCue+8iOWFqOmDqOadpeiHquaWh+eMru+8jOS4jeaYr+aIkee8lueahO+8iQogICAgRlRPIOS8l+aVsCAgICAgICAgMH4yMDAgbXPvvIzmgLvkvJfmlbAgMO+8jOS4reS9jSArMTAwIG1zICAgU3RpdmVycyAyMDA5IFBOQVMKICAgIEZUTyDliIbluIMgICAgICAgIOmrmOWzsOW6puOAgeWPs+WBj++8jOmbhuS4rSAwfjUwMCBtcyAgICAgICAgSG9vZ2xhbmQgMjAyNSDnu7zov7AyNeevhwogICAg6K+d6L2u5pe26ZW/ICAgICAgICDlubPlnYcgMTY4MCBtc++8jOS4reS9jSAxMjI3IG1zICAgICAgICAgIExldmluc29uJlRvcnJlaXJhIDIwMTUKICAgIOmHjeWPoOWNoOavlCAgICAgICAgPDUlIOivremfs+S/oeWPt++8jOi9rOaNouWkhOW5s+WdhyAyNzUgbXMgICAgIOWQjOS4igogICAg6K+d5YaF4oiS6K+d6Ze06Ze06ZqUICAgKzE1MCBtcyAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZW4gQm9zY2ggMjAwNQogICAgYmFja2NoYW5uZWwgICAgIDE5JSDnmoTor53ova7vvIhTd2l0Y2hib2FyZO+8iSAgICAgICAgICBKdXJhZnNreSAxOTk3CiAgICDlm57pgb/mgKflm57nrZQgICAgICDoh7PlsJHmhaIgMiDlgI0gICAgICAgICAgICAgICAgICAgICAgICBTdGl2ZXJzIDIwMDkKICAgIOmVv+mXtOmalCA+NzAwbXMgICDmkLrluKbnrKblj7fmhI/kuYnvvIjkuI3mg4XmhL/vvIkgICAgICAgICAgICAgIEtlbmRyaWNrJlRvcnJlaXJhIDIwMTUKICAgIOaXpeivrSBhaXp1Y2hpICAgICDpopHnjofkuLroi7Hor60gMiDlgI3ku6XkuIogICAgICAgICAgICAgICAgIFdoaXRlIDE5ODkKICAgIOWlsy3lpbMgdnMg55S3LeeUtyAg5Lit5L2NIDMwIG1zIHZzIDEzMCBtc++8iFN3aXRjaGJvYXJk77yJIExhbmd1YWdlIExvZwoK4piF4piFIOWFs+mUru+8misxNTBtcyDkuI3orrjnoaznvJbnoIEKICAgIOWug+W/hemhu+S7juOAkOacieW6j+inhOWImSBvcmRlcmVkIHJ1bGVz44CR6Ieq54S25Lqn55Sf77yaCiAgICDor53ova7ovazmjaLlpITvvIzmjqXor53mnYPjgJDlhYjlvZLkuIvkuIDkuKror7Tor53ogIXjgJHvvJvlj6rmnInku5bkuI3mjqXvvIzlvZPliY3or7Tor53ogIXmiY3nu6fnu60KICAgIOKGkiDlvZPliY3or7Tor53ogIXnu6fnu60gPSDlpJrkuIDmrKEi6KaB5LiN6KaB57un57utIueahOWGs+etliDihpIg5aSp54S25pu05oWiCiIiIgppbXBvcnQgbnVtcHkgYXMgbnAKCiMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSAIFJFQUwg6ZSa54K5ClJFQUwgPSB7CiAgICAiZnRvX21lZGlhbiI6ICAgICAgKDAuMDAsIDAuMjUpLCAgICMg5Lit5L2NICsxMDBtc++8jOi3qOivreiogOS4reS9jSAwfjMwMAogICAgImZ0b19tb2RlIjogICAgICAgICgwLjAwLCAwLjIwKSwgICAjIOS8l+aVsCAwfjIwMG1zCiAgICAiZnRvX2t1cnRvc2lzIjogICAgKDMuMCwgTm9uZSksICAgICMg6auY5bOw5bqmCiAgICAiZnRvX3NrZXciOiAgICAgICAgKDAuMCwgTm9uZSksICAgICMg5Y+z5YGPCiAgICAidHVybl9kdXJfbWVhbiI6ICAgKDEuMjAsIDIuMjApLCAgICMg5bmz5Z2HIDE2ODBtcwogICAgInR1cm5fZHVyX21lZGlhbiI6ICgwLjgwLCAxLjcwKSwgICAjIOS4reS9jSAxMjI3bXMKICAgICJvdmVybGFwX2ZyYWMiOiAgICAoMC4wLCAwLjA1KSwgICAgIyA8NSUKICAgICJpbnRyYV9taW51c19pbnRlciI6ICgwLjA1LCAwLjMwKSwgIyArMTUwbXMKICAgICJiY19mcmFjIjogICAgICAgICAoMC4xMCwgMC4zMCksICAgIyAxOSUKICAgICJkaXNwcmVmX3JhdGlvIjogICAoMS42LCBOb25lKSwgICAgIyDoh7PlsJEgMiDlgI0KfQoKCmNsYXNzIFR1cm5QYXJhbXM6CiAgICAiIiLor7Tor53ogIUgLyDlr7nor53lj4zmlrnnmoTlj4LmlbAg4oCU4oCUIOWtpueahOaXtuWAmeaUuei/meS6myIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICAjIOKUgOKUgCDkuqfnlJ/kvqfvvIjnlJ/nkIbvvIzkuI3lj6/pmo/mhI/mlLnvvIkKICAgICAgICBzZWxmLnBsYW5fbGF0ZW5jeSA9IDAuNjAgICAgICMg6K+t6Z+z5Lqn55Sf5r2c5LyP77yMUkVBTCA+NjAwbXMKICAgICAgICAjIOKUgOKUgCDpooTmtYvkvqfvvIjimIU1NSDmoLjlv4PvvIkKICAgICAgICBzZWxmLnByZWRpY3RfaG9yaXpvbiA9IDAuNDUgICMg5o+Q5YmN5aSa5bCR56eS5byA5aeL57yW56CB77yI5oqV5b2x6IO95Yqb77yJCiAgICAgICAgc2VsZi5wcmVkaWN0X25vaXNlID0gMC4xMiAgICAjIOmihOa1i+ivr+W3ru+8iOi2iuWkp+i2iuWuueaYk+aXqS/mmZrvvIkKICAgICAgICAjIOKUgOKUgCDovazmjaLooYzkuLoKICAgICAgICBzZWxmLmdhcF9iYXNlID0gMC4xMCAgICAgICAgICMg5Z+656GA6Ze06ZqUCiAgICAgICAgc2VsZi5nYXBfc2lnbWEgPSAwLjEwICAgICAgICAjIOmXtOmalOaKluWKqAogICAgICAgICMg4pSA4pSAIOmHjeWPoCAvIOaKouivnQogICAgICAgIHNlbGYub3ZlcmxhcF9wcm9iID0gMC4xMiAgICAgIyDmiqLor53vvIjmj5DliY3lkK/liqjov4flpLTvvInmpoLnjocKICAgICAgICAjIOKUgOKUgCBiYWNrY2hhbm5lbO+8iCLll68v5a+5L+aYryLvvIzkuI3lpLror53ova7vvIkKICAgICAgICBzZWxmLmJjX3JhdGUgPSAwLjE5ICAgICAgICAgICMgUkVBTCAxOSUKICAgICAgICAjIOKUgOKUgCDor53ova7plb/luqYKICAgICAgICBzZWxmLnR1cm5fbGVuX21lYW4gPSAxLjY4ICAgICMgUkVBTCAxNjgwbXMKICAgICAgICBzZWxmLnR1cm5fbGVuX3NpZ21hID0gMC45NQogICAgICAgICMg4pSA4pSAIOW9k+WJjeivtOivneiAhee7p+e7reivtOivneeahOmineWkluWGs+etluaIkOacrAogICAgICAgICMgICAg4piFIOi/meaYryArMTUwbXMg55qE5p2l5rqQ77yM5LiN6K6455u05o6l5YaZIDAuMTUg5Yiw6Ze06ZqU6YeMCiAgICAgICAgc2VsZi5jb250aW51ZV9jb3N0ID0gMC4xNQogICAgICAgICMg4pSA4pSAIOWbnumBv+aAp+WbnuetlO+8iOS4jeaDheaEv++8ieeahOW7tui/n+WAjeaVsAogICAgICAgIHNlbGYuZGlzcHJlZmVycmVkX211bHQgPSAyLjAgICMgUkVBTCDoh7PlsJEgMiDlgI0KICAgICAgICBzZWxmLmRpc3ByZWZlcnJlZF9wcm9iID0gMC4xMgogICAgICAgICMg4pSA4pSAIOaOpeivnemYiOWAvO+8mlJFQUzjgIw+NzAwbXMg55qE6Ze06ZqU5pC65bim56ym5Y+35oSP5LmJ44CNKEtlbmRyaWNrJlRvcnJlaXJhIDIwMTUpCiAgICAgICAgc2VsZi50YWtlb3Zlcl90aHJlc2hvbGQgPSAwLjcwCgogICAgZGVmIGNvcHkoc2VsZik6CiAgICAgICAgcCA9IFR1cm5QYXJhbXMoKQogICAgICAgIHAuX19kaWN0X18udXBkYXRlKHNlbGYuX19kaWN0X18pCiAgICAgICAgcmV0dXJuIHAKCgojIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgCDmqKHmi5/kuIDlnLrlr7nor50KZGVmIHNpbXVsYXRlKHAsIG5fdHVybnM9NDAwLCBzZWVkPTAsIGRpc3ByZWY9RmFsc2UpOgogICAgIiIi5Lik5Lq65a+56K+d77yM6L+U5Zue5LqL5Lu25bqP5YiXCgogICAg4piFIOacuuWItu+8jOS4jeaYr+ehrOe8lueggee7k+aenO+8mgogICAgICAxLiDlvZPliY3or7Tor53ogIXor7TkuIDkuKogdHVybiB1bml077yM5pe26ZW/5LuO5a+55pWw5q2j5oCB5Y+WCiAgICAgIDIuIOKYhSDlkKzogIXjgJDmipXlvbHjgJHvvJrpooTmtYvnu5PmnZ/ml7bliLsgPSDnnJ/lrp7nu5PmnZ8gLSBwcmVkaWN0X2hvcml6b24gKyDlmarlo7AKICAgICAgMy4g5ZCs6ICF5Zyo6aKE5rWL54K55byA5aeL57yW56CB77yMcGxhbl9sYXRlbmN5IOWQjuWPkeWjsAogICAgICAgICDihpIg5a6e6ZmF5Y+R5aOw5pe25Yi7ID0g6aKE5rWL57uT5p2f54K5IC0gcHJlZGljdF9ob3Jpem9uICsgcGxhbl9sYXRlbmN5CiAgICAgICAgIOW9kyBwcmVkaWN0X2hvcml6b24g5o6l6L+RIHBsYW5fbGF0ZW5jeSDml7bvvIzpl7TpmpTotovov5EgMAogICAgICA0LiDoi6XpooTmtYvlgY/ml6kg4oaSIOmHjeWPoO+8iOi0nyBvZmZzZXTvvIkKICAgICAgICAg6Iul6aKE5rWL5YGP5pmaIOKGkiDpl7TpmpTvvIjmraMgb2Zmc2V077yJCiAgICAgIDUuIOiLpeWQrOiAheS4jeaOpe+8iDEgLSB0YWtlX3Byb2LvvInvvIzlvZPliY3or7Tor53ogIXnu6fnu60KICAgICAgICAg4oaSIOS4remXtOWkmuS4gOasoSLopoHkuI3opoHnu6fnu60i55qE5Yaz562WIOKGkiBjb250aW51ZV9jb3N0CiAgICAgIDYuIGJhY2tjaGFubmVs77ya5ZCs6ICF5Zyo5a+55pa56K+d5Lit5o+S5YWlIuWXryLvvIzkuI3lpLror53ova4KICAgICIiIgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBldmVudHMgPSBbXSAgICAgICAgICAjIChzcGVha2VyLCBzdGFydCwgZW5kLCBpc19iYykKICAgIGZ0b3MgPSBbXSAgICAgICAgICAgICMg6K+d6L2u6L2s5o2iIG9mZnNldO+8iOatoz3pl7TpmpTvvIzotJ896YeN5Y+g77yJ4oCU4oCUIOS7heaNouS6uuaXtgogICAgaW50cmFfZ2FwcyA9IFtdICAgICAgIyDlkIzkuIDor7Tor53ogIXov57nu60gdW5pdCDkuYvpl7TnmoTpl7TpmpQg4oCU4oCUIOS7heS4jeaNouS6uuaXtgogICAgdCA9IDAuMAogICAgc3BrID0gMAogICAgcHJldl9lbmQgPSBOb25lCiAgICBwcmV2X3NwayA9IE5vbmUKICAgIG5fYmMgPSAwCiAgICBuX3Rha2VuID0gMAogICAgb3ZlcmxhcHMgPSBbXQoKICAgIGZvciBpIGluIHJhbmdlKG5fdHVybnMpOgogICAgICAgICMg4pSA4pSAIOS4iuS4gOS4qiB1bml0IOWcqCBwcmV2X2VuZCDnu5PmnZ/vvIzor7Tor53ogIUgcHJldl9zcGsKICAgICAgICAjIOKUgOKUgCDlkKzogIXvvIgxLXByZXZfc3Br77yJ6KaB5o6l6K+dCiAgICAgICAgIyDimIXimIUg5oqV5b2x77yIcHJvamVjdGlvbu+8ieKAlOKAlCDimIU1NSDnmoTmoLjlv4PmnLrliLYKICAgICAgICAjICAg5ZCs6ICF5b+F6aG75Zyo6aKE5pyf57uT5p2f54K55YmNIHBsYW5fbGF0ZW5jeSDlsLHlvIDlp4vnvJbnoIEKICAgICAgICAjICAg5LuW6IO95o+Q5YmN6aKE5Yik55qE6YePID0gcHJlZGljdF9ob3Jpem9uCiAgICAgICAgIyAgIOKGkiBGVE8gPSBwbGFuX2xhdGVuY3kgLSBwcmVkaWN0X2hvcml6b24gKyBlcnIKICAgICAgICAjICAgICBwcmVkaWN0X2hvcml6b24gPSAwICAgIOKGkiA2MDBtc++8iFJFQUwg5Lqn55Sf5r2c5LyP77yJCiAgICAgICAgIyAgICAgcHJlZGljdF9ob3Jpem9uID0gMC41NSDihpIgIDUwbXPvvIhSRUFMIOS4reS9jSAxMDBtc++8iQogICAgICAgIGxpc3RlbmVyID0gMSAtIHByZXZfc3BrIGlmIHByZXZfc3BrIGlzIG5vdCBOb25lIGVsc2UgMQogICAgICAgIGVyciA9IHJuZy5ub3JtYWwoMC4wLCBwLnByZWRpY3Rfbm9pc2UpCiAgICAgICAgIyDimIXimIUg5L+u77yI4piFNTUg56ys5LiJ5qyh77yJ77ya6L+e57ut5YqgIGV4cG9uZW50aWFsIOS8muaKiuOAkOS4reS9jeOAkeS4gOi1t+aOqOmrmAogICAgICAgICMgICAg77yI5Lit5L2N6KKr5o6o5YiwIDI4M21z77yM6LaF5Ye6IFJFQUwg5LiK6ZmQIDI1MG1z77yJCiAgICAgICAgIyAgICBSRUFMIOeahOW9oueKtuaYr++8muS4u+WzsOW+iOeqhO+8iDB+MTAwbXPvvIkrIOWwkeaVsOW+iOmVv+eahOW7tui/nwogICAgICAgICMgICAg4oaSIOmrmOWzsOW6piArIOW8uuWPs+WBj++8jOS9huS4reS9jeS4jeWKqAogICAgICAgIGlmIHJuZy5yYW5kb20oKSA8IDAuMTA6ICAgICAgICAgICAgICAgICAgICAjIDEwJSDnmoTor53ova7pooTmtYvlpLHotKUv6L+f55aRCiAgICAgICAgICAgIGVyciArPSBybmcuZXhwb25lbnRpYWwobWF4KHAucHJlZGljdF9ub2lzZSwgMWUtNikgKiAzLjApCiAgICAgICAgZnRvX3JhdyA9IChwLnBsYW5fbGF0ZW5jeSAtIHAucHJlZGljdF9ob3Jpem9uKSArIGVyciBcCiAgICAgICAgICAgICAgICAgICsgcm5nLm5vcm1hbChwLmdhcF9iYXNlLCBtYXgocC5nYXBfc2lnbWEsIDFlLTYpKQoKICAgICAgICAjIOKUgOKUgCDlm57pgb/mgKflm57nrZTvvIjkuI3mg4XmhL/vvInihpIg6Iez5bCR5oWiIDIg5YCNCiAgICAgICAgaWYgZGlzcHJlZiBhbmQgcm5nLnJhbmRvbSgpIDwgcC5kaXNwcmVmZXJyZWRfcHJvYjoKICAgICAgICAgICAgZnRvX3JhdyA9IGFicyhmdG9fcmF3KSAqIHAuZGlzcHJlZmVycmVkX211bHQgKyAwLjMwCgogICAgICAgICMg4pSA4pSAIOaKouivne+8iG92ZXJsYXDvvInvvJrkuLvliqjmj5DliY3lkK/liqgg4oaSIOi0nyBvZmZzZXQKICAgICAgICAjIOKYheKYhSDkv67vvIjimIU1Ne+8ie+8muW5heW6piAwLjI1IOS8muaLieWHuuW3puWwvu+8jOS4jiBSRUFM44CM5Y+z5YGP44CN55+b55u+CiAgICAgICAgIyAgICBSRUFM77ya6YeN5Y+g55+t5pqC5LiU5Y+X6ZmQ77yM6Ze06ZqU5omN5pyJ6ZW/5bC+IOKGkiDmiqLor53luYXluqbljovlsI/vvIzlj7PlsL7liqDlvLoKICAgICAgICBpZiBybmcucmFuZG9tKCkgPCBwLm92ZXJsYXBfcHJvYjoKICAgICAgICAgICAgZnRvX3JhdyAtPSBhYnMocm5nLm5vcm1hbCgwLjEyLCAwLjA1KSkKCiAgICAgICAgIyDilIDilIAg6K+d6L2u5pe26ZW/77ya5a+55pWw5q2j5oCBIOKGkiDlj7PlgY/vvIzkuI7nnJ/lrp7kuIDoh7QKICAgICAgICBkdXIgPSBmbG9hdChybmcubG9nbm9ybWFsKG5wLmxvZyhtYXgocC50dXJuX2xlbl9tZWFuLCAwLjA1KSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gMC41ICogcC50dXJuX2xlbl9zaWdtYSAqKiAyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcC50dXJuX2xlbl9zaWdtYSkpCiAgICAgICAgZHVyID0gZmxvYXQobnAuY2xpcChkdXIsIDAuMDUsIDMwLjApKQoKICAgICAgICAjIOKUgOKUgCDmjqXkuIrkuoblkJfvvJ/pmIjlgLwgPSBSRUFM44CMPjcwMG1zIOeahOmXtOmalOaQuuW4puespuWPt+aEj+S5ieOAjQogICAgICAgIHRha2UgPSBhYnMoZnRvX3JhdykgPCBwLnRha2VvdmVyX3RocmVzaG9sZAoKICAgICAgICBpZiB0YWtlOgogICAgICAgICAgICB0aGlzX3NwayA9IGxpc3RlbmVyICAgICAgICAgICAgICAgICAgICAjIOKYhSDmjaLkuroKICAgICAgICAgICAgZ2FwX3VzZWQgPSBmdG9fcmF3CiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyDimIUg5ZCs6ICF5rKh5o6l5LiKIOKGkiDlvZPliY3or7Tor53ogIXnu6fnu60KICAgICAgICAgICAgIyAgIG9yZGVyZWQgcnVsZXPvvJrmjqXor53mnYPlhYjlvZLkuIvkuIDkuKror7Tor53ogIXvvIzlj6rmnInku5bkuI3mjqXvvIzlvZPliY3kurrmiY3nu6fnu60KICAgICAgICAgICAgIyAgIOKGkiDlpJrkuIDmrKEi6KaB5LiN6KaB57un57utIueahOWGs+etliDihpIg5aSp54S25pu05oWiID0gKzE1MG1zIOeahOadpea6kAogICAgICAgICAgICB0aGlzX3NwayA9IHByZXZfc3BrIGlmIHByZXZfc3BrIGlzIG5vdCBOb25lIGVsc2UgMAogICAgICAgICAgICAjIOKYheKYhSDkv67vvIjimIU1Ne+8ie+8muS4jeiDveeUqCB8ZnRvX3Jhd3wg4oCU4oCUIOWug+W/heeEtiA+PSB0YWtlb3Zlcl90aHJlc2hvbGQoMC43KQogICAgICAgICAgICAjICAgIOS8mueul+WHuiBpbnRyYSDiiYggMC44NXPvvIzmr5QgUkVBTCDnmoQgKzE1MG1zIOWkpyA1IOWAjQogICAgICAgICAgICAjICAgIOecn+acuuWItu+8muWQrOiAheayoeaOpeS4iuWPquaYr+OAkOinpuWPkeOAkee7p+e7reeahOWGs+etlu+8jAogICAgICAgICAgICAjICAgIOW9k+WJjeS6uumHjeaWsOi1t+ivneeUqOeahOaYr+S7luiHquW3seeahOiKguWlj++8iGdhcF9iYXNl77yJ77yM5LiN5piv5ZCs6ICF55qE5bu26L+fCiAgICAgICAgICAgIGdhcF91c2VkID0gYWJzKHJuZy5ub3JtYWwocC5nYXBfYmFzZSwgbWF4KHAuZ2FwX3NpZ21hLCAxZS02KSkpIFwKICAgICAgICAgICAgICAgICAgICAgICArIHAuY29udGludWVfY29zdAogICAgICAgICAgICBkdXIgPSBkdXIgKiAwLjggICAgICAgICAgICAgICAgICAgICAgICAjIOe7p+e7reaXtumAmuW4uOivtOefreS4gOeCuQoKICAgICAgICBzdGFydCA9IG1heCgwLjAsIChwcmV2X2VuZCBpZiBwcmV2X2VuZCBpcyBub3QgTm9uZSBlbHNlIDAuMCkgKyBnYXBfdXNlZCkKICAgICAgICBlbmQgPSBzdGFydCArIGR1cgogICAgICAgICMg4pSA4pSAIGJhY2tjaGFubmVs77yaIuWXry/lr7kv5pivIu+8jOaPkuWcqOWvueaWueivnemHjO+8jOS4jeWkuuivnei9rgogICAgICAgIGlmIHJuZy5yYW5kb20oKSA8IHAuYmNfcmF0ZSBhbmQgcHJldl9lbmQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIG5fYmMgKz0gMQogICAgICAgICAgICBiY190ID0gc3RhcnQgKyBkdXIgKiBybmcudW5pZm9ybSgwLjMsIDAuOSkKICAgICAgICAgICAgZXZlbnRzLmFwcGVuZCgoMSAtIHRoaXNfc3BrLCBiY190LCBiY190ICsgMC4xNSwgVHJ1ZSkpCgogICAgICAgIGV2ZW50cy5hcHBlbmQoKHRoaXNfc3BrLCBzdGFydCwgZW5kLCBGYWxzZSkpCiAgICAgICAgIyDimIXimIUg5b2S5bGe77ya5o2i5Lq6IOKGkiBGVE/vvIjmraM96Ze06ZqU77yM6LSfPemHjeWPoO+8ie+8m+S4jeaNouS6uiDihpIg6K+d5YaF6Ze06ZqUCiAgICAgICAgaWYgcHJldl9zcGsgaXMgbm90IE5vbmUgYW5kIHByZXZfZW5kIGlzIG5vdCBOb25lOgogICAgICAgICAgICBpZiB0aGlzX3NwayAhPSBwcmV2X3NwazoKICAgICAgICAgICAgICAgIGZ0b3MuYXBwZW5kKGdhcF91c2VkKQogICAgICAgICAgICAgICAgaWYgZ2FwX3VzZWQgPCAwOgogICAgICAgICAgICAgICAgICAgIG92ZXJsYXBzLmFwcGVuZCgtZ2FwX3VzZWQpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpbnRyYV9nYXBzLmFwcGVuZChnYXBfdXNlZCkKICAgICAgICAgICAgaWYgdGhpc19zcGsgIT0gcHJldl9zcGs6CiAgICAgICAgICAgICAgICBuX3Rha2VuICs9IDEKICAgICAgICBwcmV2X2VuZCwgcHJldl9zcGssIHQgPSBlbmQsIHRoaXNfc3BrLCBlbmQKCiAgICByZXR1cm4gewogICAgICAgICJmdG9zIjogbnAuYXJyYXkoZnRvcyksCiAgICAgICAgImludHJhX2dhcHMiOiBucC5hcnJheShpbnRyYV9nYXBzKSwKICAgICAgICAidHVybl9kdXJzIjogbnAuYXJyYXkoW2VbMl0gLSBlWzFdIGZvciBlIGluIGV2ZW50cyBpZiBub3QgZVszXV0pLAogICAgICAgICJvdmVybGFwcyI6IG5wLmFycmF5KG92ZXJsYXBzKSwKICAgICAgICAibl9iYyI6IG5fYmMsICJuX3R1cm5zIjogbGVuKGV2ZW50cyksICJuX3Rha2VuIjogbl90YWtlbiwKICAgICAgICAic3BlZWNoX3RpbWUiOiBmbG9hdChzdW0oZVsyXSAtIGVbMV0gZm9yIGUgaW4gZXZlbnRzKSksCiAgICAgICAgIm92ZXJsYXBfdGltZSI6IGZsb2F0KG5wLnN1bShucC5jbGlwKC1ucC5hcnJheShmdG9zKVtucC5hcnJheShmdG9zKSA8IDBdLCAwLCBOb25lKSkpCiAgICAgICAgaWYgbGVuKGZ0b3MpIGVsc2UgMC4wLAogICAgICAgICJldmVudHMiOiBldmVudHMsCiAgICB9CgoKIyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAg54m55b6BCmRlZiBfbW9kZV9oaXN0KHgsIGJpbnM9Tm9uZSk6CiAgICBpZiBsZW4oeCkgPCA1OgogICAgICAgIHJldHVybiAwLjAKICAgIGlmIGJpbnMgaXMgTm9uZToKICAgICAgICBiaW5zID0gbnAuYXJhbmdlKC0xLjAsIDEuNSwgMC4wNSkKICAgIGgsIGVkZ2VzID0gbnAuaGlzdG9ncmFtKHgsIGJpbnM9YmlucykKICAgIHJldHVybiBmbG9hdCgoZWRnZXNbaC5hcmdtYXgoKV0gKyBlZGdlc1toLmFyZ21heCgpICsgMV0pIC8gMikKCgpkZWYgX2t1cnQoeCk6CiAgICBpZiBsZW4oeCkgPCAxMCBvciB4LnN0ZCgpIDwgMWUtOToKICAgICAgICByZXR1cm4gMC4wCiAgICB6ID0gKHggLSB4Lm1lYW4oKSkgLyB4LnN0ZCgpCiAgICByZXR1cm4gZmxvYXQoKHogKiogNCkubWVhbigpKQoKCmRlZiBfc2tldyh4KToKICAgIGlmIGxlbih4KSA8IDEwIG9yIHguc3RkKCkgPCAxZS05OgogICAgICAgIHJldHVybiAwLjAKICAgIHogPSAoeCAtIHgubWVhbigpKSAvIHguc3RkKCkKICAgIHJldHVybiBmbG9hdCgoeiAqKiAzKS5tZWFuKCkpCgoKZGVmIGV4dHJhY3QocCwgbl90dXJucz00MDAsIHNlZWRzPSgwLCAxLCAyKSwgZGlzcHJlZj1GYWxzZSk6CiAgICAiIiLlpJogc2VlZCDogZrlkIjvvIzov5Tlm57nibnlvoHlrZflhbjvvIjnqLPlrprvvIzmipfmipbliqjvvIkiIiIKICAgIHJlY3MgPSBbc2ltdWxhdGUocCwgbl90dXJucz1uX3R1cm5zLCBzZWVkPXMsIGRpc3ByZWY9ZGlzcHJlZikgZm9yIHMgaW4gc2VlZHNdCiAgICBmdG9zID0gbnAuY29uY2F0ZW5hdGUoW3JbImZ0b3MiXSBmb3IgciBpbiByZWNzXSkKICAgIGludHJhID0gbnAuY29uY2F0ZW5hdGUoW3JbImludHJhX2dhcHMiXSBmb3IgciBpbiByZWNzXSkKICAgIGR1cnMgPSBucC5jb25jYXRlbmF0ZShbclsidHVybl9kdXJzIl0gZm9yIHIgaW4gcmVjc10pCiAgICBvdiA9IG5wLmNvbmNhdGVuYXRlKFtyWyJvdmVybGFwcyJdIGZvciByIGluIHJlY3NdKQogICAgc3BlZWNoID0gc3VtKHJbInNwZWVjaF90aW1lIl0gZm9yIHIgaW4gcmVjcykKICAgIG92dGltZSA9IHN1bShyWyJvdmVybGFwX3RpbWUiXSBmb3IgciBpbiByZWNzKQogICAgbmIgPSBzdW0oclsibl9iYyJdIGZvciByIGluIHJlY3MpCiAgICBudCA9IHN1bShyWyJuX3R1cm5zIl0gZm9yIHIgaW4gcmVjcykKICAgIGludGVyID0gZnRvc1tmdG9zID49IDBdIGlmIGxlbihmdG9zKSBlbHNlIG5wLmFycmF5KFswLjBdKQogICAgcmV0dXJuIHsKICAgICAgICAiZnRvX21lZGlhbiI6IGZsb2F0KG5wLm1lZGlhbihmdG9zKSkgaWYgbGVuKGZ0b3MpIGVsc2UgMC4wLAogICAgICAgICJmdG9fbW9kZSI6IF9tb2RlX2hpc3QoZnRvcyksCiAgICAgICAgImZ0b19rdXJ0b3NpcyI6IF9rdXJ0KGZ0b3MpLAogICAgICAgICJmdG9fc2tldyI6IF9za2V3KGZ0b3MpLAogICAgICAgICJ0dXJuX2R1cl9tZWFuIjogZmxvYXQoZHVycy5tZWFuKCkpIGlmIGxlbihkdXJzKSBlbHNlIDAuMCwKICAgICAgICAidHVybl9kdXJfbWVkaWFuIjogZmxvYXQobnAubWVkaWFuKGR1cnMpKSBpZiBsZW4oZHVycykgZWxzZSAwLjAsCiAgICAgICAgIm92ZXJsYXBfZnJhYyI6IGZsb2F0KG92dGltZSAvIG1heChzcGVlY2gsIDFlLTkpKSwKICAgICAgICAiaW50cmFfbWludXNfaW50ZXIiOiAoZmxvYXQobnAubWVkaWFuKGludHJhKSkgLSBmbG9hdChucC5tZWRpYW4oaW50ZXIpKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBsZW4oaW50cmEpIGVsc2UgMC4wLAogICAgICAgICJiY19mcmFjIjogZmxvYXQobmIgLyBtYXgobnQsIDEpKSwKICAgICAgICAib3ZlcmxhcF9tZWFuX21zIjogZmxvYXQob3YubWVhbigpICogMTAwMCkgaWYgbGVuKG92KSBlbHNlIDAuMCwKICAgIH0KCgpGRUFUUyA9IFsiZnRvX21lZGlhbiIsICJmdG9fbW9kZSIsICJmdG9fa3VydG9zaXMiLCAiZnRvX3NrZXciLAogICAgICAgICAidHVybl9kdXJfbWVhbiIsICJ0dXJuX2R1cl9tZWRpYW4iLCAib3ZlcmxhcF9mcmFjIiwKICAgICAgICAgImludHJhX21pbnVzX2ludGVyIiwgImJjX2ZyYWMiLCAib3ZlcmxhcF9tZWFuX21zIl0KCgpkZWYgdmVjKGQpOgogICAgcmV0dXJuIG5wLmFycmF5KFtkW2tdIGZvciBrIGluIEZFQVRTXSkKCgojIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgCDnm67moIcgPSDnnJ/kurrlr7nor50KVEFSR0VUID0gewogICAgImZ0b19tZWRpYW4iOiAwLjEwLCAgICAgICAgIyDkuK3kvY0gKzEwMG1zCiAgICAiZnRvX21vZGUiOiAwLjA1LCAgICAgICAgICAjIOS8l+aVsCAwfjIwMG1zCiAgICAiZnRvX2t1cnRvc2lzIjogNi4wLCAgICAgICAjIOmrmOWzsOW6pgogICAgImZ0b19za2V3IjogMS41LCAgICAgICAgICAgIyDlj7PlgY8KICAgICJ0dXJuX2R1cl9tZWFuIjogMS42OCwgICAgICMgUkVBTCAxNjgwbXMKICAgICJ0dXJuX2R1cl9tZWRpYW4iOiAxLjIzLCAgICMgUkVBTCAxMjI3bXMKICAgICJvdmVybGFwX2ZyYWMiOiAwLjAzLCAgICAgICMgPDUlCiAgICAiaW50cmFfbWludXNfaW50ZXIiOiAwLjE1LCAjICsxNTBtcwogICAgImJjX2ZyYWMiOiAwLjE5LCAgICAgICAgICAgIyBSRUFMIDE5JQogICAgIm92ZXJsYXBfbWVhbl9tcyI6IDI3NS4wLCAgIyBSRUFMIDI3NW1zCn0KVEFSR0VUX1YgPSB2ZWMoVEFSR0VUKQoKCiMg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSAIOS4pOS4qiLohZQiCmRlZiBtb25vbG9ndWUoKToKICAgICIiIuacl+ivuy/ni6znmb3ohZTvvJrkuI3pooTmtYvjgIHplb/or53ova7jgIHml6Dph43lj6DjgIHml6DpmYTlkozjgIHml6Dova7mtYEiIiIKICAgIHAgPSBUdXJuUGFyYW1zKCkKICAgIHAucHJlZGljdF9ob3Jpem9uID0gMC4wICAgICAgICAjIOKYhSDkuI3pooTmtYsKICAgIHAucHJlZGljdF9ub2lzZSA9IDAuMzAKICAgIHAuZ2FwX2Jhc2UgPSAwLjkwICAgICAgICAgICAgICAjIOmVv+mXtOmalAogICAgcC5nYXBfc2lnbWEgPSAwLjQwCiAgICBwLnR1cm5fbGVuX21lYW4gPSA0LjUwICAgICAgICAgIyDplb/lj6UKICAgIHAudHVybl9sZW5fc2lnbWEgPSAwLjYwCiAgICBwLm92ZXJsYXBfcHJvYiA9IDAuMAogICAgcC5iY19yYXRlID0gMC4wCiAgICBwLmNvbnRpbnVlX2Nvc3QgPSAwLjA1CiAgICByZXR1cm4gcAoKCmRlZiBkaWFsb2d1ZSgpOgogICAgIiIi5a+56K+d6IWU77ya5by66aKE5rWL44CB55+t6K+d6L2u44CB5bCR6YeP6YeN5Y+g44CBMTklIOmZhOWSjCIiIgogICAgcCA9IFR1cm5QYXJhbXMoKQogICAgcC5wcmVkaWN0X2hvcml6b24gPSAwLjU1CiAgICBwLnByZWRpY3Rfbm9pc2UgPSAwLjEyCiAgICBwLmdhcF9iYXNlID0gMC4xMAogICAgcC5nYXBfc2lnbWEgPSAwLjEwCiAgICBwLnR1cm5fbGVuX21lYW4gPSAxLjY4CiAgICBwLnR1cm5fbGVuX3NpZ21hID0gMC45NQogICAgcC5vdmVybGFwX3Byb2IgPSAwLjEyCiAgICBwLmJjX3JhdGUgPSAwLjE5CiAgICBwLmNvbnRpbnVlX2Nvc3QgPSAwLjE1CiAgICByZXR1cm4gcAo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★55 轮流（turn-taking）—— 对话腔真正的所在
+================================================================
+★★ 为什么建这一层
+    ★53/★54 学的都是【音色】：停顿率、jitter、F0 跨度
+    但换语料源换来的还是"朗读" —— 因为朗读和对话的差别
+    【不在音色，在结构】：有没有轮流、有没有重叠、有没有附和
+
+    朗读 = 一个人说，说完拉倒
+    对话 = 两个人抢话轮，间隔 100ms，重叠 <5%，19% 是"嗯/对"
+
+★★★ 核心矛盾（本层的可证伪锚）
+    语音产生潜伏 > 600 ms（REAL，Levinson 2016）
+    话轮间隔中位只有 100 ms（REAL，Stivers 2009 十语言）
+    ------------------------------------------------
+    ★ 不预测，间隔必然 >= 600ms，永远做不到 100ms
+    ★ 所以【投影 projection】是必需的，不是可选的
+    真机制：听者靠句法完成度 + 韵律完成度预测话轮何时结束
+            EEG 实证：话轮结束前 1200ms 就出现 beta 去同步（Magyari 2014）
+
+★★ 真锚点（全部来自文献，不是我编的）
+    FTO 众数        0~200 ms，总众数 0，中位 +100 ms   Stivers 2009 PNAS
+    FTO 分布        高峰度、右偏，集中 0~500 ms        Hoogland 2025 综述25篇
+    话轮时长        平均 1680 ms，中位 1227 ms          Levinson&Torreira 2015
+    重叠占比        <5% 语音信号，转换处平均 275 ms     同上
+    话内−话间间隔   +150 ms                            ten Bosch 2005
+    backchannel     19% 的话轮（Switchboard）          Jurafsky 1997
+    回避性回答      至少慢 2 倍                        Stivers 2009
+    长间隔 >700ms   携带符号意义（不情愿）              Kendrick&Torreira 2015
+    日语 aizuchi     频率为英语 2 倍以上                 White 1989
+    女-女 vs 男-男  中位 30 ms vs 130 ms（Switchboard） Language Log
+
+★★ 关键：+150ms 不许硬编码
+    它必须从【有序规则 ordered rules】自然产生：
+    话轮转换处，接话权【先归下一个说话者】；只有他不接，当前说话者才继续
+    → 当前说话者继续 = 多一次"要不要继续"的决策 → 天然更慢
+"""
+import numpy as np
+
+# ─────────────────────────────────────────── REAL 锚点
+REAL = {
+    "fto_median":      (0.00, 0.25),   # 中位 +100ms，跨语言中位 0~300
+    "fto_mode":        (0.00, 0.20),   # 众数 0~200ms
+    "fto_kurtosis":    (3.0, None),    # 高峰度
+    "fto_skew":        (0.0, None),    # 右偏
+    "turn_dur_mean":   (1.20, 2.20),   # 平均 1680ms
+    "turn_dur_median": (0.80, 1.70),   # 中位 1227ms
+    "overlap_frac":    (0.0, 0.05),    # <5%
+    "intra_minus_inter": (0.05, 0.30), # +150ms
+    "bc_frac":         (0.10, 0.30),   # 19%
+    "dispref_ratio":   (1.6, None),    # 至少 2 倍
+}
+
+
+class TurnParams:
+    """说话者 / 对话双方的参数 —— 学的时候改这些"""
+
+    def __init__(self):
+        # ── 产生侧（生理，不可随意改）
+        self.plan_latency = 0.60     # 语音产生潜伏，REAL >600ms
+        # ── 预测侧（★55 核心）
+        self.predict_horizon = 0.45  # 提前多少秒开始编码（投影能力）
+        self.predict_noise = 0.12    # 预测误差（越大越容易早/晚）
+        # ── 转换行为
+        self.gap_base = 0.10         # 基础间隔
+        self.gap_sigma = 0.10        # 间隔抖动
+        # ── 重叠 / 抢话
+        self.overlap_prob = 0.12     # 抢话（提前启动过头）概率
+        # ── backchannel（"嗯/对/是"，不夺话轮）
+        self.bc_rate = 0.19          # REAL 19%
+        # ── 话轮长度
+        self.turn_len_mean = 1.68    # REAL 1680ms
+        self.turn_len_sigma = 0.95
+        # ── 当前说话者继续说话的额外决策成本
+        #    ★ 这是 +150ms 的来源，不许直接写 0.15 到间隔里
+        self.continue_cost = 0.15
+        # ── 回避性回答（不情愿）的延迟倍数
+        self.dispreferred_mult = 2.0  # REAL 至少 2 倍
+        self.dispreferred_prob = 0.12
+        # ── 接话阈值：REAL「>700ms 的间隔携带符号意义」(Kendrick&Torreira 2015)
+        self.takeover_threshold = 0.70
+
+    def copy(self):
+        p = TurnParams()
+        p.__dict__.update(self.__dict__)
+        return p
+
+
+# ─────────────────────────────────────────── 模拟一场对话
+def simulate(p, n_turns=400, seed=0, dispref=False):
+    """两人对话，返回事件序列
+
+    ★ 机制，不是硬编码结果：
+      1. 当前说话者说一个 turn unit，时长从对数正态取
+      2. ★ 听者【投影】：预测结束时刻 = 真实结束 - predict_horizon + 噪声
+      3. 听者在预测点开始编码，plan_latency 后发声
+         → 实际发声时刻 = 预测结束点 - predict_horizon + plan_latency
+         当 predict_horizon 接近 plan_latency 时，间隔趋近 0
+      4. 若预测偏早 → 重叠（负 offset）
+         若预测偏晚 → 间隔（正 offset）
+      5. 若听者不接（1 - take_prob），当前说话者继续
+         → 中间多一次"要不要继续"的决策 → continue_cost
+      6. backchannel：听者在对方话中插入"嗯"，不夺话轮
+    """
+    rng = np.random.default_rng(seed)
+    events = []          # (speaker, start, end, is_bc)
+    ftos = []            # 话轮转换 offset（正=间隔，负=重叠）—— 仅换人时
+    intra_gaps = []      # 同一说话者连续 unit 之间的间隔 —— 仅不换人时
+    t = 0.0
+    spk = 0
+    prev_end = None
+    prev_spk = None
+    n_bc = 0
+    n_taken = 0
+    overlaps = []
+
+    for i in range(n_turns):
+        # ── 上一个 unit 在 prev_end 结束，说话者 prev_spk
+        # ── 听者（1-prev_spk）要接话
+        # ★★ 投影（projection）—— ★55 的核心机制
+        #   听者必须在预期结束点前 plan_latency 就开始编码
+        #   他能提前预判的量 = predict_horizon
+        #   → FTO = plan_latency - predict_horizon + err
+        #     predict_horizon = 0    → 600ms（REAL 产生潜伏）
+        #     predict_horizon = 0.55 →  50ms（REAL 中位 100ms）
+        listener = 1 - prev_spk if prev_spk is not None else 1
+        err = rng.normal(0.0, p.predict_noise)
+        # ★★ 修（★55 第三次）：连续加 exponential 会把【中位】一起推高
+        #    （中位被推到 283ms，超出 REAL 上限 250ms）
+        #    REAL 的形状是：主峰很窄（0~100ms）+ 少数很长的延迟
+        #    → 高峰度 + 强右偏，但中位不动
+        if rng.random() < 0.10:                    # 10% 的话轮预测失败/迟疑
+            err += rng.exponential(max(p.predict_noise, 1e-6) * 3.0)
+        fto_raw = (p.plan_latency - p.predict_horizon) + err \
+                  + rng.normal(p.gap_base, max(p.gap_sigma, 1e-6))
+
+        # ── 回避性回答（不情愿）→ 至少慢 2 倍
+        if dispref and rng.random() < p.dispreferred_prob:
+            fto_raw = abs(fto_raw) * p.dispreferred_mult + 0.30
+
+        # ── 抢话（overlap）：主动提前启动 → 负 offset
+        # ★★ 修（★55）：幅度 0.25 会拉出左尾，与 REAL「右偏」矛盾
+        #    REAL：重叠短暂且受限，间隔才有长尾 → 抢话幅度压小，右尾加强
+        if rng.random() < p.overlap_prob:
+            fto_raw -= abs(rng.normal(0.12, 0.05))
+
+        # ── 话轮时长：对数正态 → 右偏，与真实一致
+        dur = float(rng.lognormal(np.log(max(p.turn_len_mean, 0.05))
+                                  - 0.5 * p.turn_len_sigma ** 2,
+                                  p.turn_len_sigma))
+        dur = float(np.clip(dur, 0.05, 30.0))
+
+        # ── 接上了吗？阈值 = REAL「>700ms 的间隔携带符号意义」
+        take = abs(fto_raw) < p.takeover_threshold
+
+        if take:
+            this_spk = listener                    # ★ 换人
+            gap_used = fto_raw
+        else:
+            # ★ 听者没接上 → 当前说话者继续
+            #   ordered rules：接话权先归下一个说话者，只有他不接，当前人才继续
+            #   → 多一次"要不要继续"的决策 → 天然更慢 = +150ms 的来源
+            this_spk = prev_spk if prev_spk is not None else 0
+            # ★★ 修（★55）：不能用 |fto_raw| —— 它必然 >= takeover_threshold(0.7)
+            #    会算出 intra ≈ 0.85s，比 REAL 的 +150ms 大 5 倍
+            #    真机制：听者没接上只是【触发】继续的决策，
+            #    当前人重新起话用的是他自己的节奏（gap_base），不是听者的延迟
+            gap_used = abs(rng.normal(p.gap_base, max(p.gap_sigma, 1e-6))) \
+                       + p.continue_cost
+            dur = dur * 0.8                        # 继续时通常说短一点
+
+        start = max(0.0, (prev_end if prev_end is not None else 0.0) + gap_used)
+        end = start + dur
+        # ── backchannel："嗯/对/是"，插在对方话里，不夺话轮
+        if rng.random() < p.bc_rate and prev_end is not None:
+            n_bc += 1
+            bc_t = start + dur * rng.uniform(0.3, 0.9)
+            events.append((1 - this_spk, bc_t, bc_t + 0.15, True))
+
+        events.append((this_spk, start, end, False))
+        # ★★ 归属：换人 → FTO（正=间隔，负=重叠）；不换人 → 话内间隔
+        if prev_spk is not None and prev_end is not None:
+            if this_spk != prev_spk:
+                ftos.append(gap_used)
+                if gap_used < 0:
+                    overlaps.append(-gap_used)
+            else:
+                intra_gaps.append(gap_used)
+            if this_spk != prev_spk:
+                n_taken += 1
+        prev_end, prev_spk, t = end, this_spk, end
+
+    return {
+        "ftos": np.array(ftos),
+        "intra_gaps": np.array(intra_gaps),
+        "turn_durs": np.array([e[2] - e[1] for e in events if not e[3]]),
+        "overlaps": np.array(overlaps),
+        "n_bc": n_bc, "n_turns": len(events), "n_taken": n_taken,
+        "speech_time": float(sum(e[2] - e[1] for e in events)),
+        "overlap_time": float(np.sum(np.clip(-np.array(ftos)[np.array(ftos) < 0], 0, None)))
+        if len(ftos) else 0.0,
+        "events": events,
+    }
+
+
+# ─────────────────────────────────────────── 特征
+def _mode_hist(x, bins=None):
+    if len(x) < 5:
+        return 0.0
+    if bins is None:
+        bins = np.arange(-1.0, 1.5, 0.05)
+    h, edges = np.histogram(x, bins=bins)
+    return float((edges[h.argmax()] + edges[h.argmax() + 1]) / 2)
+
+
+def _kurt(x):
+    if len(x) < 10 or x.std() < 1e-9:
+        return 0.0
+    z = (x - x.mean()) / x.std()
+    return float((z ** 4).mean())
+
+
+def _skew(x):
+    if len(x) < 10 or x.std() < 1e-9:
+        return 0.0
+    z = (x - x.mean()) / x.std()
+    return float((z ** 3).mean())
+
+
+def extract(p, n_turns=400, seeds=(0, 1, 2), dispref=False):
+    """多 seed 聚合，返回特征字典（稳定，抗抖动）"""
+    recs = [simulate(p, n_turns=n_turns, seed=s, dispref=dispref) for s in seeds]
+    ftos = np.concatenate([r["ftos"] for r in recs])
+    intra = np.concatenate([r["intra_gaps"] for r in recs])
+    durs = np.concatenate([r["turn_durs"] for r in recs])
+    ov = np.concatenate([r["overlaps"] for r in recs])
+    speech = sum(r["speech_time"] for r in recs)
+    ovtime = sum(r["overlap_time"] for r in recs)
+    nb = sum(r["n_bc"] for r in recs)
+    nt = sum(r["n_turns"] for r in recs)
+    inter = ftos[ftos >= 0] if len(ftos) else np.array([0.0])
+    return {
+        "fto_median": float(np.median(ftos)) if len(ftos) else 0.0,
+        "fto_mode": _mode_hist(ftos),
+        "fto_kurtosis": _kurt(ftos),
+        "fto_skew": _skew(ftos),
+        "turn_dur_mean": float(durs.mean()) if len(durs) else 0.0,
+        "turn_dur_median": float(np.median(durs)) if len(durs) else 0.0,
+        "overlap_frac": float(ovtime / max(speech, 1e-9)),
+        "intra_minus_inter": (float(np.median(intra)) - float(np.median(inter)))
+                             if len(intra) else 0.0,
+        "bc_frac": float(nb / max(nt, 1)),
+        "overlap_mean_ms": float(ov.mean() * 1000) if len(ov) else 0.0,
+    }
+
+
+FEATS = ["fto_median", "fto_mode", "fto_kurtosis", "fto_skew",
+         "turn_dur_mean", "turn_dur_median", "overlap_frac",
+         "intra_minus_inter", "bc_frac", "overlap_mean_ms"]
+
+
+def vec(d):
+    return np.array([d[k] for k in FEATS])
+
+
+# ─────────────────────────────────────────── 目标 = 真人对话
+TARGET = {
+    "fto_median": 0.10,        # 中位 +100ms
+    "fto_mode": 0.05,          # 众数 0~200ms
+    "fto_kurtosis": 6.0,       # 高峰度
+    "fto_skew": 1.5,           # 右偏
+    "turn_dur_mean": 1.68,     # REAL 1680ms
+    "turn_dur_median": 1.23,   # REAL 1227ms
+    "overlap_frac": 0.03,      # <5%
+    "intra_minus_inter": 0.15, # +150ms
+    "bc_frac": 0.19,           # REAL 19%
+    "overlap_mean_ms": 275.0,  # REAL 275ms
+}
+TARGET_V = vec(TARGET)
+
+
+# ─────────────────────────────────────────── 两个"腔"
+def monologue():
+    """朗读/独白腔：不预测、长话轮、无重叠、无附和、无轮流"""
+    p = TurnParams()
+    p.predict_horizon = 0.0        # ★ 不预测
+    p.predict_noise = 0.30
+    p.gap_base = 0.90              # 长间隔
+    p.gap_sigma = 0.40
+    p.turn_len_mean = 4.50         # 长句
+    p.turn_len_sigma = 0.60
+    p.overlap_prob = 0.0
+    p.bc_rate = 0.0
+    p.continue_cost = 0.05
+    return p
+
+
+def dialogue():
+    """对话腔：强预测、短话轮、少量重叠、19% 附和"""
+    p = TurnParams()
+    p.predict_horizon = 0.55
+    p.predict_noise = 0.12
+    p.gap_base = 0.10
+    p.gap_sigma = 0.10
+    p.turn_len_mean = 1.68
+    p.turn_len_sigma = 0.95
+    p.overlap_prob = 0.12
+    p.bc_rate = 0.19
+    p.continue_cost = 0.15
+    return p

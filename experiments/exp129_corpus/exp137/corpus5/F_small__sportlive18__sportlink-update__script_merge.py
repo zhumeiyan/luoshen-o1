@@ -1,1 +1,275 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwppbXBvcnQgcmVxdWVzdHMKaW1wb3J0IHJlCmltcG9ydCBvcwpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0gQ09ORklHVVJBVElPTiAtLS0tLS0tLS0tLS0tLS0tLS0KUExBWUxJU1RTID0gWwogICAgeyJuYW1lIjogIkZBTkNPREUiLCAgICAgImljb24iOiAi8J+PjyIsICJ1cmwiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RvY3Rvci04dHJhbmdlL3p5cGh4OC9yZWZzL2hlYWRzL21haW4vZGF0YS9mYW5jb2RlLm0zdSJ9LAogICAgeyJuYW1lIjogIlNPTllMSVYiLCAgICAgImljb24iOiAi8J+TuiIsICJ1cmwiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RybWxpdmUvc2xpdi1saXZlLWV2ZW50cy9yZWZzL2hlYWRzL21haW4vc29ueWxpdi5tM3UifSwKICAgIHsibmFtZSI6ICJXSUxMT1ciLCAgICAgICJpY29uIjogIvCfj48iLCAidXJsIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zcmhhZHkvd2lsbG93LWV2ZW50L3JlZnMvaGVhZHMvbWFpbi9saXZlX3Nwb3J0cy5tM3UifSwKICAgIHsibmFtZSI6ICJQUklNRVZJREVPIiwgICJpY29uIjogIvCfk7oiLCAidXJsIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zcmhhZHkvd2lsbG93LWV2ZW50L3JlZnMvaGVhZHMvbWFpbi9wcmltZXZpZGVvX3Nwb3J0cy5tM3UifSwKICAgIHsibmFtZSI6ICJWWlkiLCAgICAgICAgICJpY29uIjogIvCfjqwiLCAidXJsIjogImh0dHBzOi8vcHJlbWl1bXBsdWd4Lm1lL3Z6eS9wbGF5bGlzdC5waHAifSwKICAgIHsibmFtZSI6ICJKSU8tVFYiLCAgICAgICJpY29uIjogIvCfk6EiLCAidXJsIjogImh0dHBzOi8vc3BvcnRsaW5rLXBsYXlsaXN0LnBhZ2VzLmRldi96aW8ubTN1In0sCiAgICB7Im5hbWUiOiAiWkVFIiwgICAgICAgICAiaWNvbiI6ICLwn5O6IiwgInVybCI6ICJodHRwczovL3ZrLXBsYXlsaXN0LnBhZ2VzLmRldi96ZWUzLm0zdSJ9LAogICAgeyJuYW1lIjogIlNPTlkiLCAgICAgICAgImljb24iOiAi8J+TuiIsICJ1cmwiOiAiaHR0cHM6Ly92ay1wbGF5bGlzdC5wYWdlcy5kZXYvc29ueS5tM3UifSwKICAgIHsibmFtZSI6ICJTVU4iLCAgICAgICAgICJpY29uIjogIuKYgO+4jyIsICJ1cmwiOiAiaHR0cHM6Ly92ay1wbGF5bGlzdC5wYWdlcy5kZXYvc3VuLm0zdSJ9LAogICAgeyJuYW1lIjogIkppbyBIb3RzdGFyIiwgImljb24iOiAi4q2QIiwgInVybCI6ICJodHRwczovL3Nwb3J0bGluay1wbGF5bGlzdC5wYWdlcy5kZXYvdHN0YXIubTN1In0sCl0KCk9VVFBVVF9GSUxFID0gIkNvbWJpbmVkLm0zdSIKRVBHX1VSTCA9ICJodHRwczovL3d3dy50c2VwZy5jZi9lcGcueG1sLmd6IgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0gQlJBTkRJTkcgU1VGRklYRVMgLS0tLS0tLS0tLS0tLS0tLS0tClNQT1JUTElOS19TVUZGSVggPSAiIHwgU3BvcnRsaW5rIgpWSVJBVDEwX1NVRkZJWCA9ICIgQHZpcmF0MTAiCgojIC0tLS0tLS0tLS0tLS0tLS0tLSBDQVRFR09SWSBPVkVSUklERSBQRVIgU09VUkNFIC0tLS0tLS0tLS0tLS0tLS0tLQojIElmIGEgc291cmNlIGlzIGxpc3RlZCBoZXJlLCBBTEwgaXRzIGNoYW5uZWxzIGdvIGludG8gdGhhdCBzaW5nbGUgY2F0ZWdvcnkuCiMgSWYgTk9UIGxpc3RlZCwgdGhlIHNjcmlwdCB3aWxsOgojICAgMS4gVXNlIHRoZSBjaGFubmVsJ3Mgb3duIGdyb3VwLXRpdGxlIGZyb20gdGhlIHBsYXlsaXN0IChpZiBwcmVzZW50KSwgT1IKIyAgIDIuIEZhbGwgYmFjayB0byBrZXl3b3JkIGNhdGVnb3JpemF0aW9uIChjYXRlZ29yaXplX2NoYW5uZWwpIGlmIG5vIGdyb3VwLXRpdGxlLgpTT1VSQ0VfQ0FURUdPUllfT1ZFUlJJREUgPSB7CiAgICAiRkFOQ09ERSI6ICAgICAiRmFuY29kZSIsCiAgICAiU09OWUxJViI6ICAgICAiU29ueUxJViIsCiAgICAiSmlvIEhvdHN0YXIiOiAiSmlvIEhvdHN0YXIiLAogICAgIldJTExPVyI6ICAgICAgIldpbGxvdyIsCiAgICAiUFJJTUVWSURFTyI6ICAiUHJpbWUgVmlkZW8iLAogICAgIkhPVFNUQVIiOiAgICAgIkhvdHN0YXIiLAogICAgIlNwb3J0cyBTcGVjaWFsIjogIlNwb3J0cyBTcGVjaWFsIiwKfQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0gS0VZV09SRCBDQVRFR09SWSBNQVBQSU5HIChmYWxsYmFjayBvbmx5KSAtLS0tLS0tLS0tLS0tLS0tLS0KQ0FURUdPUllfTUFQID0gewogICAgIkFzc2FtZXNlIjogICBbImFzc2FtZXNlIiwgImFzb21peWEiXSwKICAgICJCZW5nYWxpIjogICAgWyJiZW5nYWxpIiwgImJhbmdsYSIsICJibiJdLAogICAgIkJob2pwdXJpIjogICBbImJob2pwdXJpIiwgImJobyJdLAogICAgIkd1amFyYXRpIjogICBbImd1amFyYXRpIiwgImd1aiJdLAogICAgIkhhcnlhbnZpIjogICBbImhhcnlhbnZpIl0sCiAgICAiS2FubmFkYSI6ICAgIFsia2FubmFkYSIsICJrbiJdLAogICAgIk1hbGF5YWxhbSI6ICBbIm1hbGF5YWxhbSIsICJtbCJdLAogICAgIk1hcmF0aGkiOiAgICBbIm1hcmF0aGkiLCAibXIiXSwKICAgICJPZGlhIjogICAgICAgWyJvZGlhIiwgIm9yaXlhIl0sCiAgICAiUHVuamFiaSI6ICAgIFsicHVuamFiaSIsICJwYSJdLAogICAgIlRhbWlsIjogICAgICBbInRhbWlsIiwgInRhIl0sCiAgICAiVGVsdWd1IjogICAgIFsidGVsdWd1IiwgInRlIl0sCiAgICAiVXJkdSI6ICAgICAgIFsidXJkdSJdLAogICAgIkVuZ2xpc2giOiAgICBbImVuZ2xpc2giLCAiZW4iXSwKICAgICJGcmVuY2giOiAgICAgWyJmcmVuY2giLCAiZnIiXSwKICAgICJTdW4iOiAgICAgICAgWyJzdW4gdHYiLCAic3VyeWEiLCAic3VuIG11c2ljIiwgInN1biBuZXdzIiwgInN1biBhY3Rpb24iLCAic3VuIGxpZmUiXSwKICAgICJaZWUiOiAgICAgICAgWyJ6ZWUiLCAiemVlIHR2IiwgInplZSBjaW5lbWEiLCAiemVlIG5ld3MiLCAiemVlIG1hcmF0aGkiLCAiemVlIGJhbmdsYSJdLAogICAgIlNvbnkiOiAgICAgICBbInNvbnkiLCAic2V0IiwgInNhYiIsICJzb255IGxpdiIsICJzb255IG1heCJdLAogICAgIlN0YXIiOiAgICAgICBbInN0YXIiLCAic3RhciBwbHVzIiwgInN0YXIgc3BvcnRzIiwgInN0YXIgbW92aWVzIiwgInN0YXIgZ29sZCJdLAogICAgIkNvbG9ycyI6ICAgICBbImNvbG9ycyIsICJ2aWFjb20iLCAibXR2Il0sCiAgICAiRGlzY292ZXJ5IjogIFsiZGlzY292ZXJ5IiwgImRjaSJdLAogICAgIk5hdCBHZW8iOiAgICBbIm5hdCBnZW8iLCAibmF0aW9uYWwgZ2VvZ3JhcGhpYyJdLAogICAgIkNhcnRvb24iOiAgICBbImNhcnRvb24iLCAiY24iLCAicG9nbyIsICJuaWNrIl0sCiAgICAiTmV3cyI6ICAgICAgIFsibmV3cyIsICJuZHR2IiwgInJlcHVibGljIiwgInRpbWVzIG5vdyIsICJjbm4iLCAiYmJjIl0sCiAgICAiQ3JpY2tldCI6ICAgIFsiY3JpY2tldCJdLAogICAgIkZvb3RiYWxsIjogICBbImZvb3RiYWxsIiwgInNvY2NlciJdLAogICAgIkJveGluZyI6ICAgICBbImJveGluZyJdLAogICAgIkJhc2ViYWxsIjogICBbImJhc2ViYWxsIl0sCiAgICAiQnVzaW5lc3MiOiAgIFsiYnVzaW5lc3MiLCAiZmluYW5jZSIsICJjbmJjIiwgImJsb29tYmVyZyJdLAogICAgIkRldm90aW9uYWwiOiBbImRldm90aW9uYWwiLCAiYmhha3RpIiwgImdvZCJdLAogICAgIkVudGVydGFpbm1lbnQiOiBbImVudGVydGFpbm1lbnQiLCAiZW50IiwgInR2IiwgIm1vdmllcyIsICJzZXJpZXMiXSwKICAgICJJbmZvdGFpbm1lbnQiOiAgWyJpbmZvdGFpbm1lbnQiLCAiZG9jdW1lbnRhcnkiLCAiaGlzdG9yeSIsICJkaXNjb3ZlcnkiLCAibmF0aW9uYWwgZ2VvZ3JhcGhpYyJdLAogICAgIktub3dsZWRnZSI6ICAgICBbImtub3dsZWRnZSIsICJsZWFybmluZyIsICJlZHVjYXRpb24iXSwKfQpERUZBVUxUX0NBVEVHT1JZID0gIk90aGVyIgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0gQ0FURUdPUlkgT1JERVIgKGZpcnN0ID0gdG9wKSAtLS0tLS0tLS0tLS0tLS0tLS0KQ0FURUdPUllfT1JERVIgPSBbCiAgICAiU3BvcnRzIFNwZWNpYWwgfCBTcG9ydGxpbmsiLAogICAgIkxpdmUgRXZlbnRzIHwgU3BvcnRsaW5rIiwKICAgICJGYW5jb2RlIHwgU3BvcnRsaW5rIiwKICAgICJTb255TElWIHwgU3BvcnRsaW5rIiwKICAgICJXaWxsb3cgfCBTcG9ydGxpbmsiLAogICAgIlByaW1lIFZpZGVvIHwgU3BvcnRsaW5rIiwKICAgICJIb3RzdGFyIHwgU3BvcnRsaW5rIiwKICAgICJKaW8gSG90c3RhciB8IFNwb3J0bGluayIsCiAgICAjIFZaWSdzIG93biBncm91cHMgYXBwZWFyIGJlbG93IChNb3ZpZXMsIEVudGVydGFpbm1lbnQsIE11c2ljLCBOZXdzLCBTcG9ydHMpCiAgICAiTW92aWVzIHwgU3BvcnRsaW5rIiwKICAgICJFbnRlcnRhaW5tZW50IHwgU3BvcnRsaW5rIiwKICAgICJNdXNpYyB8IFNwb3J0bGluayIsCiAgICAiTmV3cyB8IFNwb3J0bGluayIsCiAgICAiU3BvcnRzIHwgU3BvcnRsaW5rIiwKXQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0gSEVMUEVSIEZVTkNUSU9OUyAtLS0tLS0tLS0tLS0tLS0tLS0KZGVmIGZldGNoX3BsYXlsaXN0KHVybCk6CiAgICB0cnk6CiAgICAgICAgcHJpbnQoZiIgIPCfk6UgRmV0Y2hpbmc6IHt1cmx9IikKICAgICAgICByZXNwID0gcmVxdWVzdHMuZ2V0KHVybCwgdGltZW91dD0yMCkKICAgICAgICByZXNwLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgICAgIGxpbmVzID0gcmVzcC50ZXh0LnJlcGxhY2UoJ1xyXG4nLCAnXG4nKS5zcGxpdCgnXG4nKQogICAgICAgIHByaW50KGYiICDinIUgRmV0Y2hlZCB7bGVuKGxpbmVzKX0gbGluZXMiKQogICAgICAgIHJldHVybiBsaW5lcwogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KGYiICDinYwgRmFpbGVkOiB7ZX0iKQogICAgICAgIHJldHVybiBbXQoKZGVmIGNsZWFuX2xpbmUobGluZSk6CiAgICByZXR1cm4gbGluZS5zdHJpcCgpCgpkZWYgZXh0cmFjdF9jaGFubmVsX2Jsb2NrcyhsaW5lcyk6CiAgICBibG9jayA9IFtdCiAgICBmb3IgbGluZSBpbiBsaW5lczoKICAgICAgICBsaW5lID0gY2xlYW5fbGluZShsaW5lKQogICAgICAgIGlmIG5vdCBsaW5lOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIGxpbmUuc3RhcnRzd2l0aCgnI0VYVE0zVScpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIGxpbmUuc3RhcnRzd2l0aCgnI0VYVElORicpIGFuZCBibG9jazoKICAgICAgICAgICAgeWllbGQgYmxvY2sKICAgICAgICAgICAgYmxvY2sgPSBbXQogICAgICAgIGJsb2NrLmFwcGVuZChsaW5lKQogICAgaWYgYmxvY2s6CiAgICAgICAgeWllbGQgYmxvY2sKCmRlZiBnZXRfY2hhbm5lbF90aXRsZShibG9jayk6CiAgICBmb3IgbGluZSBpbiBibG9jazoKICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoJyNFWFRJTkYnKToKICAgICAgICAgICAgcGFydHMgPSBsaW5lLnJzcGxpdCgnLCcsIDEpCiAgICAgICAgICAgIGlmIGxlbihwYXJ0cykgPiAxOgogICAgICAgICAgICAgICAgcmV0dXJuIHBhcnRzWzFdLnN0cmlwKCkKICAgIHJldHVybiBOb25lCgpkZWYgZ2V0X2dyb3VwX3RpdGxlKGJsb2NrKToKICAgICIiIkV4dHJhY3QgdGhlIGV4aXN0aW5nIGdyb3VwLXRpdGxlPSIuLi4iIHZhbHVlIGZyb20gdGhlICNFWFRJTkYgbGluZS4iIiIKICAgIGZvciBsaW5lIGluIGJsb2NrOgogICAgICAgIGlmIGxpbmUuc3RhcnRzd2l0aCgnI0VYVElORicpOgogICAgICAgICAgICBtID0gcmUuc2VhcmNoKHInZ3JvdXAtdGl0bGU9IihbXiJdKikiJywgbGluZSkKICAgICAgICAgICAgaWYgbToKICAgICAgICAgICAgICAgIHZhbCA9IG0uZ3JvdXAoMSkuc3RyaXAoKQogICAgICAgICAgICAgICAgcmV0dXJuIHZhbCBpZiB2YWwgZWxzZSBOb25lCiAgICByZXR1cm4gTm9uZQoKZGVmIGNhdGVnb3JpemVfY2hhbm5lbCh0aXRsZSk6CiAgICBpZiBub3QgdGl0bGU6CiAgICAgICAgcmV0dXJuIERFRkFVTFRfQ0FURUdPUlkKICAgIHRpdGxlX2xvd2VyID0gdGl0bGUubG93ZXIoKQogICAgZm9yIGNhdGVnb3J5LCBrZXl3b3JkcyBpbiBDQVRFR09SWV9NQVAuaXRlbXMoKToKICAgICAgICBmb3Iga3cgaW4ga2V5d29yZHM6CiAgICAgICAgICAgIGlmIGt3IGluIHRpdGxlX2xvd2VyOgogICAgICAgICAgICAgICAgcmV0dXJuIGNhdGVnb3J5CiAgICByZXR1cm4gREVGQVVMVF9DQVRFR09SWQoKZGVmIGZpeF9jaGFubmVsX2Jsb2NrKGJsb2NrLCBjYXRlZ29yeSk6CiAgICAiIiJBcHBseSBicmFuZGluZyBzdWZmaXhlcyBhbmQgc2V0IGNvcnJlY3QgZ3JvdXAtdGl0bGUuIiIiCiAgICBuZXdfYmxvY2sgPSBbXQogICAgZm9yIGxpbmUgaW4gYmxvY2s6CiAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCcjRVhUSU5GJyk6CiAgICAgICAgICAgICMgLS0tIDEuIEFwcGVuZCBAdmlyYXQxMCB0byB0dmctbmFtZSAob3IgYWRkIGl0IGlmIG1pc3NpbmcpIC0tLQogICAgICAgICAgICBpZiAndHZnLW5hbWU9JyBpbiBsaW5lOgogICAgICAgICAgICAgICAgbGluZSA9IHJlLnN1YigKICAgICAgICAgICAgICAgICAgICByJ3R2Zy1uYW1lPSIoW14iXSopIicsCiAgICAgICAgICAgICAgICAgICAgbGFtYmRhIG06IGYndHZnLW5hbWU9InttLmdyb3VwKDEpLnN0cmlwKCl9e1ZJUkFUMTBfU1VGRklYfSInLAogICAgICAgICAgICAgICAgICAgIGxpbmUKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICMgTm8gdHZnLW5hbWUg4oCUIGNyZWF0ZSBvbmUgZnJvbSB0aGUgY2hhbm5lbCB0aXRsZQogICAgICAgICAgICAgICAgcGFydHMgPSBsaW5lLnJzcGxpdCgnLCcsIDEpCiAgICAgICAgICAgICAgICBpZiBsZW4ocGFydHMpID4gMToKICAgICAgICAgICAgICAgICAgICB0aXRsZSA9IHBhcnRzWzFdLnN0cmlwKCkKICAgICAgICAgICAgICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoJyNFWFRJTkY6LTEgJyk6CiAgICAgICAgICAgICAgICAgICAgICAgIGxpbmUgPSBsaW5lLnJlcGxhY2UoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnI0VYVElORjotMSAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZicjRVhUSU5GOi0xIHR2Zy1uYW1lPSJ7dGl0bGV9e1ZJUkFUMTBfU1VGRklYfSIgJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEKICAgICAgICAgICAgICAgICAgICAgICAgKQoKICAgICAgICAgICAgIyAtLS0gMi4gU2V0IGdyb3VwLXRpdGxlIHRvIHRoZSBjYXRlZ29yeSAod2hpY2ggYWxyZWFkeSBoYXMgfCBTcG9ydGxpbmspIC0tLQogICAgICAgICAgICBpZiAnZ3JvdXAtdGl0bGU9JyBpbiBsaW5lOgogICAgICAgICAgICAgICAgbGluZSA9IHJlLnN1YihyJ2dyb3VwLXRpdGxlPSJbXiJdKiInLCBmJ2dyb3VwLXRpdGxlPSJ7Y2F0ZWdvcnl9IicsIGxpbmUpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsaW5lID0gcmUuc3ViKHInKCNFWFRJTkY6W14sXSspJywgcidcMSBncm91cC10aXRsZT0iJyArIGNhdGVnb3J5ICsgJyInLCBsaW5lKQoKICAgICAgICAgICAgbmV3X2Jsb2NrLmFwcGVuZChsaW5lKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5ld19ibG9jay5hcHBlbmQobGluZSkKICAgIHJldHVybiBuZXdfYmxvY2sKCiMgLS0tLS0tLS0tLS0tLS0tLS0tIE1BSU4gLS0tLS0tLS0tLS0tLS0tLS0tCmRlZiBtYWluKCk6CiAgICBwcmludCgi8J+agCBTdGFydGluZyBwbGF5bGlzdCBtZXJnZSB3aXRoIGNhdGVnb3J5IGdyb3VwaW5nLi4uIikKICAgIHByaW50KCI9IiAqIDUwKQoKICAgIGFsbF9jaGFubmVscyA9IFtdCgogICAgZm9yIHBsYXlsaXN0IGluIFBMQVlMSVNUUzoKICAgICAgICBuYW1lID0gcGxheWxpc3RbIm5hbWUiXQogICAgICAgIGljb24gPSBwbGF5bGlzdFsiaWNvbiJdCiAgICAgICAgdXJsID0gcGxheWxpc3RbInVybCJdCiAgICAgICAgcHJpbnQoZiJcbvCfk7ogUHJvY2Vzc2luZzoge2ljb259IHtuYW1lfSIpCiAgICAgICAgbGluZXMgPSBmZXRjaF9wbGF5bGlzdCh1cmwpCiAgICAgICAgaWYgbm90IGxpbmVzOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBvdmVycmlkZV9jYXQgPSBTT1VSQ0VfQ0FURUdPUllfT1ZFUlJJREUuZ2V0KG5hbWUpCgogICAgICAgIGZvciBibG9jayBpbiBleHRyYWN0X2NoYW5uZWxfYmxvY2tzKGxpbmVzKToKICAgICAgICAgICAgaWYgb3ZlcnJpZGVfY2F0OgogICAgICAgICAgICAgICAgIyBIYXJkIG92ZXJyaWRlIOKAlCBhbGwgY2hhbm5lbHMgZ28gaW50byBvbmUgY2F0ZWdvcnkKICAgICAgICAgICAgICAgIGJhc2VfY2F0ZWdvcnkgPSBvdmVycmlkZV9jYXQKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICMgUHJlZmVyIHRoZSBjaGFubmVsJ3Mgb3duIGdyb3VwLXRpdGxlIGZyb20gdGhlIHBsYXlsaXN0CiAgICAgICAgICAgICAgICBvd25fZ3JvdXAgPSBnZXRfZ3JvdXBfdGl0bGUoYmxvY2spCiAgICAgICAgICAgICAgICBpZiBvd25fZ3JvdXA6CiAgICAgICAgICAgICAgICAgICAgYmFzZV9jYXRlZ29yeSA9IG93bl9ncm91cAogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAjIEZhbGwgYmFjayB0byBrZXl3b3JkIGNhdGVnb3JpemF0aW9uCiAgICAgICAgICAgICAgICAgICAgdGl0bGUgPSBnZXRfY2hhbm5lbF90aXRsZShibG9jaykKICAgICAgICAgICAgICAgICAgICBiYXNlX2NhdGVnb3J5ID0gY2F0ZWdvcml6ZV9jaGFubmVsKHRpdGxlKQoKICAgICAgICAgICAgIyBBcHBlbmQgU3BvcnRsaW5rIHN1ZmZpeCB0byBldmVyeSBjYXRlZ29yeQogICAgICAgICAgICBjYXRlZ29yeSA9IGYie2Jhc2VfY2F0ZWdvcnl9e1NQT1JUTElOS19TVUZGSVh9IgogICAgICAgICAgICBhbGxfY2hhbm5lbHMuYXBwZW5kKChjYXRlZ29yeSwgYmxvY2spKQoKICAgICMgR3JvdXAgYnkgY2F0ZWdvcnkKICAgIGdyb3VwcyA9IHt9CiAgICBmb3IgY2F0LCBibG9jayBpbiBhbGxfY2hhbm5lbHM6CiAgICAgICAgZ3JvdXBzLnNldGRlZmF1bHQoY2F0LCBbXSkuYXBwZW5kKGJsb2NrKQoKICAgICMgT3JkZXIgY2F0ZWdvcmllcwogICAgb3JkZXJlZF9jYXRzID0gW10KICAgIGZvciBjYXQgaW4gQ0FURUdPUllfT1JERVI6CiAgICAgICAgaWYgY2F0IGluIGdyb3VwczoKICAgICAgICAgICAgb3JkZXJlZF9jYXRzLmFwcGVuZChjYXQpCiAgICByZW1haW5pbmcgPSBzb3J0ZWQoW2NhdCBmb3IgY2F0IGluIGdyb3Vwcy5rZXlzKCkgaWYgY2F0IG5vdCBpbiBDQVRFR09SWV9PUkRFUl0pCiAgICBvcmRlcmVkX2NhdHMuZXh0ZW5kKHJlbWFpbmluZykKCiAgICAjIEJ1aWxkIG91dHB1dAogICAgb3V0X2xpbmVzID0gW2YnI0VYVE0zVSB4LXR2Zy11cmw9IntFUEdfVVJMfSInXQoKICAgIHRvdGFsID0gMAogICAgZm9yIGNhdCBpbiBvcmRlcmVkX2NhdHM6CiAgICAgICAgYmxvY2tzID0gZ3JvdXBzW2NhdF0KICAgICAgICBjb3VudCA9IGxlbihibG9ja3MpCiAgICAgICAgdG90YWwgKz0gY291bnQKICAgICAgICBvdXRfbGluZXMuYXBwZW5kKGYnIz09PT09IHtjYXR9ICh7Y291bnR9IGNoYW5uZWxzKSA9PT09PScpCiAgICAgICAgZm9yIGJsb2NrIGluIGJsb2NrczoKICAgICAgICAgICAgZml4ZWQgPSBmaXhfY2hhbm5lbF9ibG9jayhibG9jaywgY2F0KQogICAgICAgICAgICBvdXRfbGluZXMuZXh0ZW5kKGZpeGVkKQogICAgICAgICAgICBvdXRfbGluZXMuYXBwZW5kKCcnKSAgICMgb25lIGJsYW5rIGxpbmUgYWZ0ZXIgZWFjaCBjaGFubmVsCgogICAgIyBSZW1vdmUgdHJhaWxpbmcgYmxhbmsgbGluZXMKICAgIHdoaWxlIG91dF9saW5lcyBhbmQgb3V0X2xpbmVzWy0xXSA9PSAnJzoKICAgICAgICBvdXRfbGluZXMucG9wKCkKCiAgICAjIFdyaXRlIGZpbGUKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oT1VUUFVUX0ZJTEUsICd3JywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZjoKICAgICAgICAgICAgZi53cml0ZSgnXG4nLmpvaW4ob3V0X2xpbmVzKSkKICAgICAgICAgICAgZi53cml0ZSgnXG4nKSAgIyBmaW5hbCBuZXdsaW5lCiAgICAgICAgcHJpbnQoIlxuIiArICI9IiAqIDUwKQogICAgICAgIHByaW50KGYi4pyFIFN1Y2Nlc3NmdWxseSBjcmVhdGVkIHtPVVRQVVRfRklMRX0iKQogICAgICAgIHByaW50KGYi8J+TiiBUb3RhbCBjaGFubmVsczoge3RvdGFsfSIpCiAgICAgICAgcHJpbnQoZiLwn5OFIFVwZGF0ZWQ6IHtkYXRldGltZS5ub3coKS5zdHJmdGltZSgnJVktJW0tJWQgJUg6JU06JVMgVVRDJyl9IikKICAgICAgICBwcmludChmIvCfk4EgRmlsZSBzaXplOiB7b3MucGF0aC5nZXRzaXplKE9VVFBVVF9GSUxFKX0gYnl0ZXMiKQogICAgICAgIHByaW50KGYiXG7wn5OCIENhdGVnb3JpZXMgKGluIG9yZGVyKTogeycsICcuam9pbihvcmRlcmVkX2NhdHMpfSIpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZiLinYwgRXJyb3Igd3JpdGluZyBmaWxlOiB7ZX0iKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+import requests
+import re
+import os
+from datetime import datetime
+
+# ------------------ CONFIGURATION ------------------
+PLAYLISTS = [
+    {"name": "FANCODE",     "icon": "🏏", "url": "https://raw.githubusercontent.com/doctor-8trange/zyphx8/refs/heads/main/data/fancode.m3u"},
+    {"name": "SONYLIV",     "icon": "📺", "url": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"},
+    {"name": "WILLOW",      "icon": "🏏", "url": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"},
+    {"name": "PRIMEVIDEO",  "icon": "📺", "url": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"},
+    {"name": "VZY",         "icon": "🎬", "url": "https://premiumplugx.me/vzy/playlist.php"},
+    {"name": "JIO-TV",      "icon": "📡", "url": "https://sportlink-playlist.pages.dev/zio.m3u"},
+    {"name": "ZEE",         "icon": "📺", "url": "https://vk-playlist.pages.dev/zee3.m3u"},
+    {"name": "SONY",        "icon": "📺", "url": "https://vk-playlist.pages.dev/sony.m3u"},
+    {"name": "SUN",         "icon": "☀️", "url": "https://vk-playlist.pages.dev/sun.m3u"},
+    {"name": "Jio Hotstar", "icon": "⭐", "url": "https://sportlink-playlist.pages.dev/tstar.m3u"},
+]
+
+OUTPUT_FILE = "Combined.m3u"
+EPG_URL = "https://www.tsepg.cf/epg.xml.gz"
+
+# ------------------ BRANDING SUFFIXES ------------------
+SPORTLINK_SUFFIX = " | Sportlink"
+VIRAT10_SUFFIX = " @virat10"
+
+# ------------------ CATEGORY OVERRIDE PER SOURCE ------------------
+# If a source is listed here, ALL its channels go into that single category.
+# If NOT listed, the script will:
+#   1. Use the channel's own group-title from the playlist (if present), OR
+#   2. Fall back to keyword categorization (categorize_channel) if no group-title.
+SOURCE_CATEGORY_OVERRIDE = {
+    "FANCODE":     "Fancode",
+    "SONYLIV":     "SonyLIV",
+    "Jio Hotstar": "Jio Hotstar",
+    "WILLOW":      "Willow",
+    "PRIMEVIDEO":  "Prime Video",
+    "HOTSTAR":     "Hotstar",
+    "Sports Special": "Sports Special",
+}
+
+# ------------------ KEYWORD CATEGORY MAPPING (fallback only) ------------------
+CATEGORY_MAP = {
+    "Assamese":   ["assamese", "asomiya"],
+    "Bengali":    ["bengali", "bangla", "bn"],
+    "Bhojpuri":   ["bhojpuri", "bho"],
+    "Gujarati":   ["gujarati", "guj"],
+    "Haryanvi":   ["haryanvi"],
+    "Kannada":    ["kannada", "kn"],
+    "Malayalam":  ["malayalam", "ml"],
+    "Marathi":    ["marathi", "mr"],
+    "Odia":       ["odia", "oriya"],
+    "Punjabi":    ["punjabi", "pa"],
+    "Tamil":      ["tamil", "ta"],
+    "Telugu":     ["telugu", "te"],
+    "Urdu":       ["urdu"],
+    "English":    ["english", "en"],
+    "French":     ["french", "fr"],
+    "Sun":        ["sun tv", "surya", "sun music", "sun news", "sun action", "sun life"],
+    "Zee":        ["zee", "zee tv", "zee cinema", "zee news", "zee marathi", "zee bangla"],
+    "Sony":       ["sony", "set", "sab", "sony liv", "sony max"],
+    "Star":       ["star", "star plus", "star sports", "star movies", "star gold"],
+    "Colors":     ["colors", "viacom", "mtv"],
+    "Discovery":  ["discovery", "dci"],
+    "Nat Geo":    ["nat geo", "national geographic"],
+    "Cartoon":    ["cartoon", "cn", "pogo", "nick"],
+    "News":       ["news", "ndtv", "republic", "times now", "cnn", "bbc"],
+    "Cricket":    ["cricket"],
+    "Football":   ["football", "soccer"],
+    "Boxing":     ["boxing"],
+    "Baseball":   ["baseball"],
+    "Business":   ["business", "finance", "cnbc", "bloomberg"],
+    "Devotional": ["devotional", "bhakti", "god"],
+    "Entertainment": ["entertainment", "ent", "tv", "movies", "series"],
+    "Infotainment":  ["infotainment", "documentary", "history", "discovery", "national geographic"],
+    "Knowledge":     ["knowledge", "learning", "education"],
+}
+DEFAULT_CATEGORY = "Other"
+
+# ------------------ CATEGORY ORDER (first = top) ------------------
+CATEGORY_ORDER = [
+    "Sports Special | Sportlink",
+    "Live Events | Sportlink",
+    "Fancode | Sportlink",
+    "SonyLIV | Sportlink",
+    "Willow | Sportlink",
+    "Prime Video | Sportlink",
+    "Hotstar | Sportlink",
+    "Jio Hotstar | Sportlink",
+    # VZY's own groups appear below (Movies, Entertainment, Music, News, Sports)
+    "Movies | Sportlink",
+    "Entertainment | Sportlink",
+    "Music | Sportlink",
+    "News | Sportlink",
+    "Sports | Sportlink",
+]
+
+# ------------------ HELPER FUNCTIONS ------------------
+def fetch_playlist(url):
+    try:
+        print(f"  📥 Fetching: {url}")
+        resp = requests.get(url, timeout=20)
+        resp.raise_for_status()
+        lines = resp.text.replace('\r\n', '\n').split('\n')
+        print(f"  ✅ Fetched {len(lines)} lines")
+        return lines
+    except Exception as e:
+        print(f"  ❌ Failed: {e}")
+        return []
+
+def clean_line(line):
+    return line.strip()
+
+def extract_channel_blocks(lines):
+    block = []
+    for line in lines:
+        line = clean_line(line)
+        if not line:
+            continue
+        if line.startswith('#EXTM3U'):
+            continue
+        if line.startswith('#EXTINF') and block:
+            yield block
+            block = []
+        block.append(line)
+    if block:
+        yield block
+
+def get_channel_title(block):
+    for line in block:
+        if line.startswith('#EXTINF'):
+            parts = line.rsplit(',', 1)
+            if len(parts) > 1:
+                return parts[1].strip()
+    return None
+
+def get_group_title(block):
+    """Extract the existing group-title="..." value from the #EXTINF line."""
+    for line in block:
+        if line.startswith('#EXTINF'):
+            m = re.search(r'group-title="([^"]*)"', line)
+            if m:
+                val = m.group(1).strip()
+                return val if val else None
+    return None
+
+def categorize_channel(title):
+    if not title:
+        return DEFAULT_CATEGORY
+    title_lower = title.lower()
+    for category, keywords in CATEGORY_MAP.items():
+        for kw in keywords:
+            if kw in title_lower:
+                return category
+    return DEFAULT_CATEGORY
+
+def fix_channel_block(block, category):
+    """Apply branding suffixes and set correct group-title."""
+    new_block = []
+    for line in block:
+        if line.startswith('#EXTINF'):
+            # --- 1. Append @virat10 to tvg-name (or add it if missing) ---
+            if 'tvg-name=' in line:
+                line = re.sub(
+                    r'tvg-name="([^"]*)"',
+                    lambda m: f'tvg-name="{m.group(1).strip()}{VIRAT10_SUFFIX}"',
+                    line
+                )
+            else:
+                # No tvg-name — create one from the channel title
+                parts = line.rsplit(',', 1)
+                if len(parts) > 1:
+                    title = parts[1].strip()
+                    if line.startswith('#EXTINF:-1 '):
+                        line = line.replace(
+                            '#EXTINF:-1 ',
+                            f'#EXTINF:-1 tvg-name="{title}{VIRAT10_SUFFIX}" ',
+                            1
+                        )
+
+            # --- 2. Set group-title to the category (which already has | Sportlink) ---
+            if 'group-title=' in line:
+                line = re.sub(r'group-title="[^"]*"', f'group-title="{category}"', line)
+            else:
+                line = re.sub(r'(#EXTINF:[^,]+)', r'\1 group-title="' + category + '"', line)
+
+            new_block.append(line)
+        else:
+            new_block.append(line)
+    return new_block
+
+# ------------------ MAIN ------------------
+def main():
+    print("🚀 Starting playlist merge with category grouping...")
+    print("=" * 50)
+
+    all_channels = []
+
+    for playlist in PLAYLISTS:
+        name = playlist["name"]
+        icon = playlist["icon"]
+        url = playlist["url"]
+        print(f"\n📺 Processing: {icon} {name}")
+        lines = fetch_playlist(url)
+        if not lines:
+            continue
+
+        override_cat = SOURCE_CATEGORY_OVERRIDE.get(name)
+
+        for block in extract_channel_blocks(lines):
+            if override_cat:
+                # Hard override — all channels go into one category
+                base_category = override_cat
+            else:
+                # Prefer the channel's own group-title from the playlist
+                own_group = get_group_title(block)
+                if own_group:
+                    base_category = own_group
+                else:
+                    # Fall back to keyword categorization
+                    title = get_channel_title(block)
+                    base_category = categorize_channel(title)
+
+            # Append Sportlink suffix to every category
+            category = f"{base_category}{SPORTLINK_SUFFIX}"
+            all_channels.append((category, block))
+
+    # Group by category
+    groups = {}
+    for cat, block in all_channels:
+        groups.setdefault(cat, []).append(block)
+
+    # Order categories
+    ordered_cats = []
+    for cat in CATEGORY_ORDER:
+        if cat in groups:
+            ordered_cats.append(cat)
+    remaining = sorted([cat for cat in groups.keys() if cat not in CATEGORY_ORDER])
+    ordered_cats.extend(remaining)
+
+    # Build output
+    out_lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"']
+
+    total = 0
+    for cat in ordered_cats:
+        blocks = groups[cat]
+        count = len(blocks)
+        total += count
+        out_lines.append(f'#===== {cat} ({count} channels) =====')
+        for block in blocks:
+            fixed = fix_channel_block(block, cat)
+            out_lines.extend(fixed)
+            out_lines.append('')   # one blank line after each channel
+
+    # Remove trailing blank lines
+    while out_lines and out_lines[-1] == '':
+        out_lines.pop()
+
+    # Write file
+    try:
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(out_lines))
+            f.write('\n')  # final newline
+        print("\n" + "=" * 50)
+        print(f"✅ Successfully created {OUTPUT_FILE}")
+        print(f"📊 Total channels: {total}")
+        print(f"📅 Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}")
+        print(f"📁 File size: {os.path.getsize(OUTPUT_FILE)} bytes")
+        print(f"\n📂 Categories (in order): {', '.join(ordered_cats)}")
+    except Exception as e:
+        print(f"❌ Error writing file: {e}")
+
+if __name__ == "__main__":
+    main()

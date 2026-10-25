@@ -1,1 +1,200 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrkuJbnlYzlsYLvvJrmjInkurrnsbvnpL7kvJrnmoTnnJ/lrp7oioLlvovnu5nliLrmv4DvvIjkuI3mmK/mnLrmorDova7mjaLjgIHkuI3mmK/pmo/mnLrvvIkKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrnlKjmiLfljp/or53vvJrjgIzlnLrmma/ova7mjaLlsLHmjInnhafkurrnsbvnpL7kvJrnmoTvvIzlpKnmsJTllYrpgqPkupvkuJzopb/pgqPkuYjmjInjgI0KCuKYhSDliKTmja7moLggIzQ1MO+8mnByb3ZlbmFuY2Ug55SxIuezu+e7n+iwg+eUqOaYr+WQpuecn+eahOaIkOWKn+S6hiLlhrPlrpoKICAgIOacrOaymeebkuWunua1i++8iDIwMjYtMTAtMjTvvInvvJoKICAgICAg55yf5a6e5pe26ZKfIC9wcm9j44CBdGltZS50aW1lKCkgICDinIUgUkVBTAogICAgICDnu4/nuqzluqbvvIjnlKjmiLfkvY3nva4g5aiB5rW3IDM3LjUxTiAxMjIuMTJF77yJICDinIUgUkVBTAogICAgICB3dHRyLmluIC8gb3Blbi1tZXRlbyAgICAgICAgIOKdjCA0MDMg4oaSIOWkqeawlOWPquiDvSBTSU1VTEFURUTvvIzlpoLlrp7moIcKCuKYhSDmiYDku6XmnKzmlofku7blm5vnnJ/kuIDlgYfvvJoKICAgIOKRoCDlhYkgICAgICAgUkVBTCAgIOecn+WkqumYs+mrmOW6puinku+8iOecn+aXtumSnyArIOecn+e7j+e6rOW6pu+8iQogICAg4pGhIOekvuS8muS6uue+pCAgUkVBTCAgIOecn+aXtuaute+8iOmAmuWLpC/lt6XkvZwv5Y2I5LyRL+WknO+8iQogICAg4pGiIOWRqOiKguW+iyAgICBSRUFMICAg55yf5pif5pyf77yI5bel5L2c5pel5Ye65YukIC8g5ZGo5pyr5p2+5byb77yJCiAgICDikaMg5a2j6IqCICAgICAgUkVBTCAgIOecn+aXpeacn++8iOaXpeeFp+mVv+W6piArIOa4qeW6puW4pu+8iQogICAg4pGkIOWkqeawlCAgICAgIFNJTVVMQVRFRCAg5ou/5LiN5Yiw77yM55So5bim5oOv5oCn55qE6ams5bCU5Y+v5aSr77yM5aaC5a6e5qCHCgrimIUg5YWz6ZSu6K6+6K6h77yI6L+Z5piv6LefIuacuuaisOi9ruaNoiB0JU4i55qE5pys6LSo5Yy65Yir77yJ77yaCiAgICDmnLrmorDova7mjaIgPSDljZXkuIDpopHnjofjgIHlroznvo7lkajmnJ/jgIHlj6/pooTmtYsKICAgIOecn+WunuekvuS8miA9IOOAkOWkmuS4quS4jeWQjOmikeeOh+WPoOWKoOOAkQogICAgICAgIOWFiSAgICDlkajmnJ8gMjRoCiAgICAgICAg5Lq6576kICDlkajmnJ8gMjRo77yI5L2G5b2i54q25LiN5ZCM77yJCiAgICAgICAg5ZGoICAgIOWRqOacnyAxNjhoCiAgICAgICAg5a2j6IqCICDlkajmnJ8gODc2MGgKICAgICAgICDlpKnmsJQgIOaXoOWbuuWumuWRqOacn++8jOacieaDr+aApyArIOWBtuWPkeeqgeWPmAogICAg5a6D5Lus5LiA5Lya5YS/5ZCM55u444CB5LiA5Lya5YS/6ZSZ55u4IOKAlOKAlCDlnLrmma/oh6rnhLblsLHmjaLkuobvvIwKICAgIOS4jemcgOimgeiwgeWOuyLmjpLnj60i44CCCgrimIUg6YCa6YGT5pig5bCE5Lmf5Lya57yT5oWi5ryC56e777yaCiAgICDnnJ/lrp7kuJbnlYzph4zkvaDms6jmhI/nmoTkuJzopb/kuIDnm7TlnKjnvJPmhaLmlLnlj5jjgIIKICAgIOiLpSA1IOS4quaooeaAgeWbuuWumuimhuebluWbuuWumumAmumBkyDihpIg6KKr6KaG55uW55qE5rC46L+c6KKr5o6oID0g5paw6ZSB5q2744CCCiAgICDmiYDku6XmnYPph43pmo/lraPoioLnvJPmhaLmvILnp7vvvIjnnJ/lrp7kuJbnlYznmoQi5YW06Laj6L+B56e7Iu+8ieOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgbWF0aCwgZGF0ZXRpbWUsIHRpbWUKCiMg5aiB5rW377yI55So5oi35L2N572u77yJCkxBVCwgTE9OID0gMzcuNTEsIDEyMi4xMgoKIyDlpKnmsJTnirbmgIHvvIjluKbmg6/mgKfvvJrlpKfmpoLnjofnu7TmjIHvvIzlsI/mpoLnjofliIfmjaLvvIkKV0VBVEhFUiA9IHsKICAgICLmmbQiOiAgICAoMC45MCwgeyLmmbQiOiAwLjgwLCAi5aSa5LqRIjogMC4xNSwgIumbqCI6IDAuMDV9KSwKICAgICLlpJrkupEiOiAgKDAuNTUsIHsi5aSa5LqRIjogMC42MCwgIuaZtCI6IDAuMjUsICLpm6giOiAwLjE1fSksCiAgICAi6ZuoIjogICAgKDAuMjAsIHsi6ZuoIjogMC43MCwgIuWkmuS6kSI6IDAuMjUsICLmmbQiOiAwLjA1fSksCn0KV19TVU4gPSB7IuaZtCI6IDEuMCwgIuWkmuS6kSI6IDAuNTUsICLpm6giOiAwLjIwfQoKCmNsYXNzIFdvcmxkUmh5dGhtOgogICAgIiIi5oyJ55yf5a6e56S+5Lya6IqC5b6L55Sf5oiQ5Yi65r+A5ZCR6YeP44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIE49OCwgbWludXRlc19wZXJfdGljaz02MC4wLAogICAgICAgICAgICAgICAgIHQwPU5vbmUsIHNlZWQ9NywgbGF0PUxBVCwgbG9uPUxPTiwgZm9yYWdlX2NoPTcsIHVzZV9tZWFsPVRydWUpOgogICAgICAgIHNlbGYuTiA9IGludChOKQogICAgICAgIHNlbGYubXB0ID0gZmxvYXQobWludXRlc19wZXJfdGljaykgICAgICAjIOS4gOaLjSA9IOWkmuWwkeecn+WunuWIhumSnwogICAgICAgIHNlbGYubGF0LCBzZWxmLmxvbiA9IGxhdCwgbG9uCiAgICAgICAgIyDotbflp4vnnJ/lrp7ml7bliLvvvIjpu5jorqTnjrDlnKjvvIkKICAgICAgICBzZWxmLnQwID0gdDAgaWYgdDAgaXMgbm90IE5vbmUgZWxzZSBkYXRldGltZS5kYXRldGltZS5ub3coKQogICAgICAgIHNlbGYucm5nID0gX19pbXBvcnRfXygibnVtcHkiKS5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgICAgICBzZWxmLndlYXRoZXIgPSAi5pm0IgogICAgICAgIHNlbGYuZm9yYWdlX2NoID0gaW50KGZvcmFnZV9jaCkKICAgICAgICBzZWxmLnVzZV9tZWFsID0gYm9vbCh1c2VfbWVhbCkKICAgICAgICBzZWxmLnQgPSAwCiAgICAgICAgc2VsZi5sb2cgPSBbXQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBkZWYgbm93KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnQwICsgZGF0ZXRpbWUudGltZWRlbHRhKG1pbnV0ZXM9c2VsZi5tcHQgKiBzZWxmLnQpCgogICAgZGVmIHNvbGFyX2FsdGl0dWRlKHNlbGYsIGR0KToKICAgICAgICAiIiLnnJ/lpKrpmLPpq5jluqbop5LvvIjnroDljJYgTk9BQSDlhazlvI/vvInjgILov5Tlm54gMH4x77yIMD3lnLDlubPnur/kuIvvvInjgIIiIiIKICAgICAgICBkb3kgPSBkdC50aW1ldHVwbGUoKS50bV95ZGF5CiAgICAgICAgIyDotaTnuqwKICAgICAgICBkZWMgPSAyMy40NCAqIG1hdGguc2luKG1hdGgucmFkaWFucygzNjAuMCAvIDM2NS4wICogKGRveSAtIDgxKSkpCiAgICAgICAgZGVjID0gbWF0aC5yYWRpYW5zKGRlYykKICAgICAgICBsYXQgPSBtYXRoLnJhZGlhbnMoc2VsZi5sYXQpCiAgICAgICAgIyDml7bop5LvvJpkdCDmmK/jgJDmnKzlnLDml7bpl7TjgJEoQ1NULCDmoIflh4blrZDljYjnur8gMTIwRSkKICAgICAgICAjICAg55yf5aSq6Ziz5pe2ID0g5pys5Zyw5pe2ICsgKOe7j+W6piAtIDEyMCkvMTUKICAgICAgICAjICAg5pe26KeSID0gKOecn+WkqumYs+aXtiAtIDEyKSAqIDE1IOW6pgogICAgICAgICMgICDimIUg5LiK5LiA54mI6ZSZ5Zyo6L+Z6YeM77ya5oqK5pys5Zyw5pe25Y+I5YeP5LqGIDgg5b2T5oiQIFVUQ++8jAogICAgICAgICMgICAgIOe7k+aenOWogea1t+ato+WNiCgxMjowMCnooqvnrpfmiJAgaGE9LTEyMMKwIOKGkiDnmb3lpKnlhajpu5HvvIjlrp7mtYsgMTAtMjUg55m95aSp5oGSIDDvvIkKICAgICAgICBsb2NhbF9oID0gZHQuaG91ciArIGR0Lm1pbnV0ZSAvIDYwLjAKICAgICAgICB0cnVlX3NvbGFyX2ggPSBsb2NhbF9oICsgKHNlbGYubG9uIC0gMTIwLjApIC8gMTUuMAogICAgICAgIGhhID0gbWF0aC5yYWRpYW5zKCh0cnVlX3NvbGFyX2ggLSAxMi4wKSAqIDE1LjApCiAgICAgICAgc2luX2FsdCA9IChtYXRoLnNpbihsYXQpICogbWF0aC5zaW4oZGVjKSArCiAgICAgICAgICAgICAgICAgICBtYXRoLmNvcyhsYXQpICogbWF0aC5jb3MoZGVjKSAqIG1hdGguY29zKGhhKSkKICAgICAgICByZXR1cm4gbWF4KDAuMCwgbWluKDEuMCwgc2luX2FsdCAqIDEuNikpICAgICAjIDB+MQoKICAgIGRlZiBjcm93ZChzZWxmLCBkdCk6CiAgICAgICAgIiIi56S+5Lya5Lq6576k5a+G5bqm77ya6YCa5Yuk5Y+M5bOwICsg5Y2I5LyRICsg5rex5aSc5L2O6LC344CCUkVBTO+8iOecn+aXtumSn++8ieOAgiIiIgogICAgICAgIGggPSBkdC5ob3VyICsgZHQubWludXRlIC8gNjAuMAogICAgICAgIG1vcm5pbmcgPSBtYXRoLmV4cCgtKChoIC0gOC4wKSAqKiAyKSAvIDIuMCkKICAgICAgICBldmVuaW5nID0gbWF0aC5leHAoLSgoaCAtIDE4LjApICoqIDIpIC8gMi41KQogICAgICAgIG5vb24gICAgPSAwLjU1ICogbWF0aC5leHAoLSgoaCAtIDEyLjUpICoqIDIpIC8gMS41KQogICAgICAgIGJhc2UgICAgPSAwLjE1IGlmIDcgPD0gaCA8PSAyMiBlbHNlIDAuMDMKICAgICAgICByZXR1cm4gbWF4KDAuMCwgbWluKDEuMCwgYmFzZSArIDAuNDUgKiBtb3JuaW5nICsgMC40NSAqIGV2ZW5pbmcgKyBub29uKSkKCiAgICBkZWYgd2VlayhzZWxmLCBkdCk6CiAgICAgICAgIiIi5ZGo6IqC5b6L77ya5bel5L2c5pelIDEuMO+8jOWRqOacq+advuW8m+OAglJFQUzjgIIiIiIKICAgICAgICB3ZCA9IGR0LndlZWtkYXkoKSAgICAgICAgICAjIDA9TW9uCiAgICAgICAgcmV0dXJuIDEuMCBpZiB3ZCA8IDUgZWxzZSAwLjM1CgogICAgZGVmIHNlYXNvbihzZWxmLCBkdCk6CiAgICAgICAgIiIi5a2j6IqC77ya5pel54Wn6ZW/5bqmICsg5rip5bqm5bim44CCUkVBTO+8iOecn+aXpeacn++8ieOAgiIiIgogICAgICAgIGRveSA9IGR0LnRpbWV0dXBsZSgpLnRtX3lkYXkKICAgICAgICAjIOaXpeeFp+mVv+W6pu+8iOWMl+WNiueQg+Wkj+iHs+acgOmVv++8iQogICAgICAgIGRheWxlbiA9IDAuNSArIDAuNSAqIG1hdGguY29zKG1hdGgucmFkaWFucygzNjAuMCAvIDM2NS4wICogKGRveSAtIDE3MikpKQogICAgICAgIHJldHVybiBtYXgoMC4wLCBtaW4oMS4wLCBkYXlsZW4pKQoKICAgIGRlZiBtZWFsKHNlbGYsIGR0KToKICAgICAgICAiIiLppa3ngrnvvJrkurrnsbvnpL7kvJrnnJ/lrp7nmoTlvLrohInlhrLvvIjml6kv5Y2IL+aZmuS4iemkkO+8ieOAglJFQUzvvIjnnJ/ml7bpkp/vvInjgIIKCiAgICAgICAg4piFIOS4uuS7gOS5iOW/hemhu+WKoOi/meS4qu+8muS4iuS4gOeJiOWPquacieW8peaVo+eahOWkqeawlC/lhYkv5Lq6576k77yMCiAgICAgICAgICDlrp7mtYvlrZjmtLsgMC8yNCDigJTigJQg5rOo5oSP5Yqb6KKr5bim6LWw5LqG77yM5L2G5rKh5Y676KeF6aOfID0g6aW/5q2744CCCiAgICAgICAgICDnnJ/lrp7npL7kvJroioLlvovph4zmnKzmnaXlsLHmnInppa3ngrnvvIzmmK/miJHmvI/kuobjgIIKICAgICAgICAiIiIKICAgICAgICBoID0gZHQuaG91ciArIGR0Lm1pbnV0ZSAvIDYwLjAKICAgICAgICBicmVha2Zhc3QgPSBtYXRoLmV4cCgtKChoIC0gNy41KSAqKiAyKSAvIDAuNCkKICAgICAgICBsdW5jaCAgICAgPSBtYXRoLmV4cCgtKChoIC0gMTIuMCkgKiogMikgLyAwLjUpCiAgICAgICAgZGlubmVyICAgID0gbWF0aC5leHAoLSgoaCAtIDE4LjUpICoqIDIpIC8gMC42KQogICAgICAgIHJldHVybiBtYXgoMC4wLCBtaW4oMS4wLCBtYXgoYnJlYWtmYXN0LCBsdW5jaCwgZGlubmVyKSkpCgogICAgZGVmIHN0ZXBfd2VhdGhlcihzZWxmKToKICAgICAgICAiIiLlpKnmsJTvvJrluKbmg6/mgKfpqazlsJTlj6/lpKsgKyDlgbblj5HnqoHlj5jjgIJTSU1VTEFURUTvvIjmi7/kuI3liLDnnJ/nmoTvvInjgIIiIiIKICAgICAgICBfLCB0cmFucyA9IFdFQVRIRVJbc2VsZi53ZWF0aGVyXQogICAgICAgIGtzID0gbGlzdCh0cmFucy5rZXlzKCkpOyBwcyA9IFt0cmFuc1trXSBmb3IgayBpbiBrc10KICAgICAgICBzZWxmLndlYXRoZXIgPSBzZWxmLnJuZy5jaG9pY2Uoa3MsIHA9cHMpCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGRlZiBtb2RhbGl0aWVzKHNlbGYpOgogICAgICAgICIiIui/lOWbniA1IOS4quaooeaAgeeahOW8uuW6pu+8iOWQhOiHquS4jeWQjOmikeeOh++8jOiHqueEtumUmeebuO+8ieOAgiIiIgogICAgICAgIGR0ID0gc2VsZi5ub3coKQogICAgICAgIGFsdCA9IHNlbGYuc29sYXJfYWx0aXR1ZGUoZHQpCiAgICAgICAgc3VuID0gYWx0ICogV19TVU5bc2VsZi53ZWF0aGVyXQogICAgICAgIHJldHVybiBkaWN0KAogICAgICAgICAgICBsaWdodD0oc3VuLCAiUkVBTCIpLAogICAgICAgICAgICBjcm93ZD0oc2VsZi5jcm93ZChkdCkgKiBzZWxmLndlZWsoZHQpLCAiUkVBTCIpLAogICAgICAgICAgICB3ZWVrPShzZWxmLndlZWsoZHQpLCAiUkVBTCIpLAogICAgICAgICAgICBzZWFzb249KHNlbGYuc2Vhc29uKGR0KSwgIlJFQUwiKSwKICAgICAgICAgICAgd2VhdGhlcj0oMS4wIC0gV19TVU5bc2VsZi53ZWF0aGVyXSwgIlNJTVVMQVRFRCIpLCAgIyDlnY/lpKnmsJTlj43ogIzkv6Hlj7flvLoKICAgICAgICAgICAgbWVhbD0oc2VsZi5tZWFsKHNlbGYubm93KCkpICogKDEuMCBpZiBzZWxmLnVzZV9tZWFsIGVsc2UgMC4wKSwgIlJFQUwiKSwKICAgICAgICApCgogICAgZGVmIHZlY3RvcihzZWxmLCBhbXA9Mi4wLCBmb2N1c2VkPUZhbHNlKToKICAgICAgICAiIiLmiormqKHmgIHmmKDlsITliLAgTiDkuKrpgJrpgZPjgIIKCiAgICAgICAg4piFIOS4pOenjeaYoOWwhO+8jOW3ruWIq+W+iOWkp++8iOWunua1i+WHuuadpeeahO+8jOS4jeaYr+iuvuiuoeeahO+8ie+8mgogICAgICAgICAgZm9jdXNlZD1GYWxzZSAg6auY5pav5byl5pWjIOKGkiDmiYDmnInpgJrpgZPlkIzml7booqvmjqgKICAgICAgICAgICAgICAgICAgICAgICAgIOKGkiDmkYroloQg4oaSIOaRhOmjn+mAmumBk+aLv+S4jeWIsOi2s+Wkn+e7neWvuemHjyDihpIg6aW/5q27CiAgICAgICAgICBmb2N1c2VkPVRydWUgICDmr4/kuKrmqKHmgIHpm4bkuK3miZPjgJDkuIDkuKrjgJHkuLvpgJrpgZPvvIzkuLvpgJrpgZPpmo/lraPoioLnvJPmhaLmvILnp7sKICAgICAgICAgICAgICAgICAgICAgICAgIOKGkiDlkIzkuIDml7bliLvlj6rmnInlsJHmlbDpgJrpgZPooqvmjqggPSDnnJ/lrp7nmoQi5rOo5oSP5Yqb6ZuG5LitIgogICAgICAgICAgICAgICAgICAgICAgICAg4oaSIOiiq+aOqOWIsOeahOmAmumBk+iDveaLv+WIsOi2s+Wkn+e7neWvuemHjwogICAgICAgICIiIgogICAgICAgIG0gPSBzZWxmLm1vZGFsaXRpZXMoKQogICAgICAgIG5hbWVzID0gbGlzdChtLmtleXMoKSkKICAgICAgICB3ID0gbnAuemVyb3Moc2VsZi5OKQogICAgICAgIGlmIGZvY3VzZWQ6CiAgICAgICAgICAgIGZvciBpLCBubSBpbiBlbnVtZXJhdGUobmFtZXMpOgogICAgICAgICAgICAgICAgdiA9IG1bbm1dWzBdCiAgICAgICAgICAgICAgICBpZiB2IDwgMC4wNToKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgZHJpZnQgPSAoc2VsZi5zZWFzb25fdmFsICogMi4wICsgc2VsZi50IC8gNDAwLjApICogbWF0aC5waQogICAgICAgICAgICAgICAgY2VudGVyID0gKGkgLyBsZW4obmFtZXMpKSAqIHNlbGYuTiArIG1hdGguc2luKGRyaWZ0ICsgaSkgKiAxLjIKICAgICAgICAgICAgICAgIGMgPSBpbnQocm91bmQoY2VudGVyKSkgJSBzZWxmLk4KICAgICAgICAgICAgICAgIHdbY10gKz0gdgogICAgICAgICAgICAjIOmlreeCueiEieWGsuWNleeLrOWKoOadg++8muWug+aYr+eUn+WtmOebuOWFs++8jOS4jeivpeiiq+aRiuiWhAogICAgICAgICAgICBtdiA9IG0uZ2V0KCJtZWFsIiwgKDAuMCwgIiIpKVswXQogICAgICAgICAgICBpZiBtdiA+IDAuMzoKICAgICAgICAgICAgICAgIHdbc2VsZi5mb3JhZ2VfY2hdICs9IG12ICogMi4wCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZm9yIGksIG5tIGluIGVudW1lcmF0ZShuYW1lcyk6CiAgICAgICAgICAgICAgICB2ID0gbVtubV1bMF0KICAgICAgICAgICAgICAgIGRyaWZ0ID0gKHNlbGYuc2Vhc29uX3ZhbCAqIDIuMCArIHNlbGYudCAvIDQwMC4wKSAqIG1hdGgucGkKICAgICAgICAgICAgICAgIGNlbnRlciA9IChpIC8gbGVuKG5hbWVzKSkgKiBzZWxmLk4gKyBtYXRoLnNpbihkcmlmdCArIGkpICogMS4yCiAgICAgICAgICAgICAgICBmb3IgYyBpbiByYW5nZShzZWxmLk4pOgogICAgICAgICAgICAgICAgICAgIGQgPSBhYnMoYyAtIGNlbnRlcikKICAgICAgICAgICAgICAgICAgICBkID0gbWluKGQsIHNlbGYuTiAtIGQpCiAgICAgICAgICAgICAgICAgICAgd1tjXSArPSB2ICogbWF0aC5leHAoLShkICoqIDIpIC8gMS44KQogICAgICAgIHcgPSB3IC8gKHcubWF4KCkgKyAxZS05KQogICAgICAgIHJldHVybiB3ICogYW1wCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGRlZiBzdGVwKHNlbGYsIGFtcD0yLjAsIGZvY3VzZWQ9RmFsc2UpOgogICAgICAgIHNlbGYuc2Vhc29uX3ZhbCA9IHNlbGYuc2Vhc29uKHNlbGYubm93KCkpCiAgICAgICAgc2VsZi5zdGVwX3dlYXRoZXIoKQogICAgICAgIHYgPSBzZWxmLnZlY3RvcihhbXAsIGZvY3VzZWQ9Zm9jdXNlZCkKICAgICAgICByZWMgPSBkaWN0KHQ9c2VsZi50LCB3aGVuPXNlbGYubm93KCkuc3RyZnRpbWUoIiVtLSVkICVIOiVNIiksCiAgICAgICAgICAgICAgICAgICB3PXNlbGYud2VhdGhlcikKICAgICAgICBmb3IgaywgdmFsIGluIHNlbGYubW9kYWxpdGllcygpLml0ZW1zKCk6CiAgICAgICAgICAgIHJlY1sibV8iICsga10gPSByb3VuZCh2YWxbMF0sIDQpCiAgICAgICAgc2VsZi5sb2cuYXBwZW5kKHJlYykKICAgICAgICBzZWxmLnQgKz0gMQogICAgICAgIHJldHVybiB2CgoKaW1wb3J0IG51bXB5IGFzIG5wICAgIyBub3FhOiBFNDAyICAo5pS+5Zyo5pyr5bC+6YG/5YWN5LiK6Z2iIF9faW1wb3J0X18g5re35LmxKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+世界层：按人类社会的真实节律给刺激（不是机械轮换、不是随机）
+================================================================
+用户原话：「场景轮换就按照人类社会的，天气啊那些东西那么按」
+
+★ 判据核 #450：provenance 由"系统调用是否真的成功了"决定
+    本沙盒实测（2026-10-24）：
+      真实时钟 /proc、time.time()   ✅ REAL
+      经纬度（用户位置 威海 37.51N 122.12E）  ✅ REAL
+      wttr.in / open-meteo         ❌ 403 → 天气只能 SIMULATED，如实标
+
+★ 所以本文件四真一假：
+    ① 光       REAL   真太阳高度角（真时钟 + 真经纬度）
+    ② 社会人群  REAL   真时段（通勤/工作/午休/夜）
+    ③ 周节律    REAL   真星期（工作日出勤 / 周末松弛）
+    ④ 季节      REAL   真日期（日照长度 + 温度带）
+    ⑤ 天气      SIMULATED  拿不到，用带惯性的马尔可夫，如实标
+
+★ 关键设计（这是跟"机械轮换 t%N"的本质区别）：
+    机械轮换 = 单一频率、完美周期、可预测
+    真实社会 = 【多个不同频率叠加】
+        光    周期 24h
+        人群  周期 24h（但形状不同）
+        周    周期 168h
+        季节  周期 8760h
+        天气  无固定周期，有惯性 + 偶发突变
+    它们一会儿同相、一会儿错相 —— 场景自然就换了，
+    不需要谁去"排班"。
+
+★ 通道映射也会缓慢漂移：
+    真实世界里你注意的东西一直在缓慢改变。
+    若 5 个模态固定覆盖固定通道 → 被覆盖的永远被推 = 新锁死。
+    所以权重随季节缓慢漂移（真实世界的"兴趣迁移"）。
+"""
+from __future__ import annotations
+import math, datetime, time
+
+# 威海（用户位置）
+LAT, LON = 37.51, 122.12
+
+# 天气状态（带惯性：大概率维持，小概率切换）
+WEATHER = {
+    "晴":    (0.90, {"晴": 0.80, "多云": 0.15, "雨": 0.05}),
+    "多云":  (0.55, {"多云": 0.60, "晴": 0.25, "雨": 0.15}),
+    "雨":    (0.20, {"雨": 0.70, "多云": 0.25, "晴": 0.05}),
+}
+W_SUN = {"晴": 1.0, "多云": 0.55, "雨": 0.20}
+
+
+class WorldRhythm:
+    """按真实社会节律生成刺激向量。"""
+
+    def __init__(self, N=8, minutes_per_tick=60.0,
+                 t0=None, seed=7, lat=LAT, lon=LON, forage_ch=7, use_meal=True):
+        self.N = int(N)
+        self.mpt = float(minutes_per_tick)      # 一拍 = 多少真实分钟
+        self.lat, self.lon = lat, lon
+        # 起始真实时刻（默认现在）
+        self.t0 = t0 if t0 is not None else datetime.datetime.now()
+        self.rng = __import__("numpy").random.default_rng(seed)
+        self.weather = "晴"
+        self.forage_ch = int(forage_ch)
+        self.use_meal = bool(use_meal)
+        self.t = 0
+        self.log = []
+
+    # ------------------------------------------------------------------
+    def now(self):
+        return self.t0 + datetime.timedelta(minutes=self.mpt * self.t)
+
+    def solar_altitude(self, dt):
+        """真太阳高度角（简化 NOAA 公式）。返回 0~1（0=地平线下）。"""
+        doy = dt.timetuple().tm_yday
+        # 赤纬
+        dec = 23.44 * math.sin(math.radians(360.0 / 365.0 * (doy - 81)))
+        dec = math.radians(dec)
+        lat = math.radians(self.lat)
+        # 时角：dt 是【本地时间】(CST, 标准子午线 120E)
+        #   真太阳时 = 本地时 + (经度 - 120)/15
+        #   时角 = (真太阳时 - 12) * 15 度
+        #   ★ 上一版错在这里：把本地时又减了 8 当成 UTC，
+        #     结果威海正午(12:00)被算成 ha=-120° → 白天全黑（实测 10-25 白天恒 0）
+        local_h = dt.hour + dt.minute / 60.0
+        true_solar_h = local_h + (self.lon - 120.0) / 15.0
+        ha = math.radians((true_solar_h - 12.0) * 15.0)
+        sin_alt = (math.sin(lat) * math.sin(dec) +
+                   math.cos(lat) * math.cos(dec) * math.cos(ha))
+        return max(0.0, min(1.0, sin_alt * 1.6))     # 0~1
+
+    def crowd(self, dt):
+        """社会人群密度：通勤双峰 + 午休 + 深夜低谷。REAL（真时钟）。"""
+        h = dt.hour + dt.minute / 60.0
+        morning = math.exp(-((h - 8.0) ** 2) / 2.0)
+        evening = math.exp(-((h - 18.0) ** 2) / 2.5)
+        noon    = 0.55 * math.exp(-((h - 12.5) ** 2) / 1.5)
+        base    = 0.15 if 7 <= h <= 22 else 0.03
+        return max(0.0, min(1.0, base + 0.45 * morning + 0.45 * evening + noon))
+
+    def week(self, dt):
+        """周节律：工作日 1.0，周末松弛。REAL。"""
+        wd = dt.weekday()          # 0=Mon
+        return 1.0 if wd < 5 else 0.35
+
+    def season(self, dt):
+        """季节：日照长度 + 温度带。REAL（真日期）。"""
+        doy = dt.timetuple().tm_yday
+        # 日照长度（北半球夏至最长）
+        daylen = 0.5 + 0.5 * math.cos(math.radians(360.0 / 365.0 * (doy - 172)))
+        return max(0.0, min(1.0, daylen))
+
+    def meal(self, dt):
+        """饭点：人类社会真实的强脉冲（早/午/晚三餐）。REAL（真时钟）。
+
+        ★ 为什么必须加这个：上一版只有弥散的天气/光/人群，
+          实测存活 0/24 —— 注意力被带走了，但没去觅食 = 饿死。
+          真实社会节律里本来就有饭点，是我漏了。
+        """
+        h = dt.hour + dt.minute / 60.0
+        breakfast = math.exp(-((h - 7.5) ** 2) / 0.4)
+        lunch     = math.exp(-((h - 12.0) ** 2) / 0.5)
+        dinner    = math.exp(-((h - 18.5) ** 2) / 0.6)
+        return max(0.0, min(1.0, max(breakfast, lunch, dinner)))
+
+    def step_weather(self):
+        """天气：带惯性马尔可夫 + 偶发突变。SIMULATED（拿不到真的）。"""
+        _, trans = WEATHER[self.weather]
+        ks = list(trans.keys()); ps = [trans[k] for k in ks]
+        self.weather = self.rng.choice(ks, p=ps)
+
+    # ------------------------------------------------------------------
+    def modalities(self):
+        """返回 5 个模态的强度（各自不同频率，自然错相）。"""
+        dt = self.now()
+        alt = self.solar_altitude(dt)
+        sun = alt * W_SUN[self.weather]
+        return dict(
+            light=(sun, "REAL"),
+            crowd=(self.crowd(dt) * self.week(dt), "REAL"),
+            week=(self.week(dt), "REAL"),
+            season=(self.season(dt), "REAL"),
+            weather=(1.0 - W_SUN[self.weather], "SIMULATED"),  # 坏天气反而信号强
+            meal=(self.meal(self.now()) * (1.0 if self.use_meal else 0.0), "REAL"),
+        )
+
+    def vector(self, amp=2.0, focused=False):
+        """把模态映射到 N 个通道。
+
+        ★ 两种映射，差别很大（实测出来的，不是设计的）：
+          focused=False  高斯弥散 → 所有通道同时被推
+                         → 摊薄 → 摄食通道拿不到足够绝对量 → 饿死
+          focused=True   每个模态集中打【一个】主通道，主通道随季节缓慢漂移
+                         → 同一时刻只有少数通道被推 = 真实的"注意力集中"
+                         → 被推到的通道能拿到足够绝对量
+        """
+        m = self.modalities()
+        names = list(m.keys())
+        w = np.zeros(self.N)
+        if focused:
+            for i, nm in enumerate(names):
+                v = m[nm][0]
+                if v < 0.05:
+                    continue
+                drift = (self.season_val * 2.0 + self.t / 400.0) * math.pi
+                center = (i / len(names)) * self.N + math.sin(drift + i) * 1.2
+                c = int(round(center)) % self.N
+                w[c] += v
+            # 饭点脉冲单独加权：它是生存相关，不该被摊薄
+            mv = m.get("meal", (0.0, ""))[0]
+            if mv > 0.3:
+                w[self.forage_ch] += mv * 2.0
+        else:
+            for i, nm in enumerate(names):
+                v = m[nm][0]
+                drift = (self.season_val * 2.0 + self.t / 400.0) * math.pi
+                center = (i / len(names)) * self.N + math.sin(drift + i) * 1.2
+                for c in range(self.N):
+                    d = abs(c - center)
+                    d = min(d, self.N - d)
+                    w[c] += v * math.exp(-(d ** 2) / 1.8)
+        w = w / (w.max() + 1e-9)
+        return w * amp
+
+    # ------------------------------------------------------------------
+    def step(self, amp=2.0, focused=False):
+        self.season_val = self.season(self.now())
+        self.step_weather()
+        v = self.vector(amp, focused=focused)
+        rec = dict(t=self.t, when=self.now().strftime("%m-%d %H:%M"),
+                   w=self.weather)
+        for k, val in self.modalities().items():
+            rec["m_" + k] = round(val[0], 4)
+        self.log.append(rec)
+        self.t += 1
+        return v
+
+
+import numpy as np   # noqa: E402  (放在末尾避免上面 __import__ 混乱)

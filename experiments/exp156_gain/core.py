@@ -1,1 +1,34 @@
-aW1wb3J0IHRpbWUsc3RhdGlzdGljcyBhcyBzdCxqc29uLG1hdGgscmFuZG9tCmRlZiBvbmUod29yayk6CiAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpOyBzPTAKICAgIGZvciBpIGluIHJhbmdlKHdvcmspOiBzKz1pKmkKICAgIHJldHVybiB0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwCmRlZiBkcChBLEIpOgogICAgbWEsbWI9c3QubWVhbihBKSxzdC5tZWFuKEIpOyBzYSxzYj1zdC5wc3RkZXYoQSksc3QucHN0ZGV2KEIpCiAgICBzcD0oKHNhKioyK3NiKioyKS8yKSoqMC41CiAgICByZXR1cm4gKG1iLW1hKS9zcCBpZiBzcD4wIGVsc2UgMC4wCnJhbmRvbS5zZWVkKDExKQpCQVNFPTMwMApERUxUQVM9WzIwLDYwLDE1MF0KTlM9WzEsMiw0LDgsMTYsMzIsNjQsMTI4XQpUUklBTFM9MTYwCnByaW50KCdCQVNFIHdvcms9JWQgIOS6pOe7h+a1i+mHjyAg5Yik5o2uOiBkXCcg6ZqP56ev5YiG6ZW/5bqmIE4g55qE5Y+Y5YyWJyVCQVNFKQpwcmludCgnKEFsbGFuIOmihOa1izogTiDlop7lpKflhYjlj5fnm4osIOi2iui/h+mXqueDgWZsb29y5ZCO5LiN5YaN5pS55ZaEKScpCnJlcz17fQpmb3IgZGwgaW4gREVMVEFTOgogICAgcHJpbnQoJy0tLSDkv6Hlj7flvLrluqYgzrQ9KyVkIOaMh+S7pCAtLS0nJWRsKQogICAgZm9yIE4gaW4gTlM6CiAgICAgICAgQT1bXTtCPVtdCiAgICAgICAgZm9yIHQgaW4gcmFuZ2UoVFJJQUxTKToKICAgICAgICAgICAgYT1bb25lKEJBU0UpIGZvciBfIGluIHJhbmdlKE4pXQogICAgICAgICAgICBiPVtvbmUoQkFTRStkbCkgZm9yIF8gaW4gcmFuZ2UoTildCiAgICAgICAgICAgIEEuYXBwZW5kKHN0Lm1lYW4oYSkpOyBCLmFwcGVuZChzdC5tZWFuKGIpKQogICAgICAgIGQ9ZHAoQSxCKQogICAgICAgIHJlc1snZCVkX04lZCclKGRsLE4pXT1kCiAgICAgICAgcHJpbnQoJyAgIE49JTRkICAgZFwnPSUrLjRmJyUoTixkKSkKanNvbi5kdW1wKHJlcyxvcGVuKCdjb3JlLmpzb24nLCd3JyksaW5kZW50PTEpCnByaW50KCkKcHJpbnQoJz09PSDmsYfmgLs6IGRcJyB2cyBOID09PScpCnByaW50KCclOHMnJSgnTicpKycnLmpvaW4oJyUxMHMnJSgnzrQrJWQnJWQpIGZvciBkIGluIERFTFRBUykpCmZvciBOIGluIE5TOgogICAgcHJpbnQoJyU4ZCclTisnJy5qb2luKCclMTAuNGYnJXJlc1snZCVkX04lZCclKGRsLE4pXSBmb3IgZGwgaW4gREVMVEFTKSkK
+import time,statistics as st,json,math,random
+def one(work):
+    t0=time.perf_counter_ns(); s=0
+    for i in range(work): s+=i*i
+    return time.perf_counter_ns()-t0
+def dp(A,B):
+    ma,mb=st.mean(A),st.mean(B); sa,sb=st.pstdev(A),st.pstdev(B)
+    sp=((sa**2+sb**2)/2)**0.5
+    return (mb-ma)/sp if sp>0 else 0.0
+random.seed(11)
+BASE=300
+DELTAS=[20,60,150]
+NS=[1,2,4,8,16,32,64,128]
+TRIALS=160
+print('BASE work=%d  交织测量  判据: d\' 随积分长度 N 的变化'%BASE)
+print('(Allan 预测: N 增大先受益, 越过闪烁floor后不再改善)')
+res={}
+for dl in DELTAS:
+    print('--- 信号强度 δ=+%d 指令 ---'%dl)
+    for N in NS:
+        A=[];B=[]
+        for t in range(TRIALS):
+            a=[one(BASE) for _ in range(N)]
+            b=[one(BASE+dl) for _ in range(N)]
+            A.append(st.mean(a)); B.append(st.mean(b))
+        d=dp(A,B)
+        res['d%d_N%d'%(dl,N)]=d
+        print('   N=%4d   d\'=%+.4f'%(N,d))
+json.dump(res,open('core.json','w'),indent=1)
+print()
+print('=== 汇总: d\' vs N ===')
+print('%8s'%('N')+''.join('%10s'%('δ+%d'%d) for d in DELTAS))
+for N in NS:
+    print('%8d'%N+''.join('%10.4f'%res['d%d_N%d'%(dl,N)] for dl in DELTAS))

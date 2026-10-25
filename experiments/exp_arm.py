@@ -1,1 +1,197 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5omL6IeC5LiO6IKp6IaAIOKAlOKAlCDmiormiYvjgJDpgIHliLDjgJHnqbrpl7Tph4zljrsKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrimIUg5omL77yI4piFMzTvvInmmK/mnKvnq6/miafooYzlmajvvIzkvYblroPoh6rlt7HliLDkuI3kuobku7vkvZXlnLDmlrkK4piFIOaJi+iHgui0n+i0o+OAkOWumuS9jeOAke+8jOiCqeiGgOi0n+i0o+OAkOacneWQkeOAkQoK4piFIOehrOWIpOaNru+8iOWPr+ivgeS8qu+8iQogICAg4pGgIOiCqeiCseiKguW+iyAyOjHvvIzlkIjorqEgMTgwwrAKICAgIOKRoSDimIXimIUg6IKp6IOb5Ya757uTIOKGkiDlpJblsZXlj6rliakgMTIwwrAKICAgIOKRoiDlsYjkvLjkuI7ml4vliY3ml4vlkI7mmK/jgJDkuKTmoLnkuI3lkIznmoTovbTjgJEKICAgIOKRoyDimIUg6IWV55qE5bC65YGPID4g5qGh5YGP77yI5LiN5a+556ewIDE1wrDvvIkKICAgIOKRpCDohZXkuK3nq4vkvY3mj6HlipvmnIDlpKcKICAgIOKRpSDimIXimIUgNyBET0Yg5o6n5Yi2IDYgRE9GIOKGkiDoh6rov5DliqjlrZjlnKjvvIjogpjog73mkYbvvIzmiYvkuI3liqjvvIkKICAgIOKRpiDimIXimIUg5oOv5oCn5ZCE5ZCR5byC5oCn77yM5LiU5Zyo5omL6IeC5o6l6L+R5Ly455u05pe244CQ54iG54K444CRCiAgICDikacg4piFIOWQhOWQkeW8guaAp+WPqumaj+iCmOinkuWPmO+8jOS4jemaj+iCqeinkuWPmO+8iOaXi+i9rOS4jeWPmOaAp+WvueeFp++8iQogICAg4pGoIOWPjOWFs+iKguiCjO+8muiCqeWnv+WKv+aUueWPmOiCmOiDveWPkeWHuueahOWKmwoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKZnJvbSBjb3JlLmFybSBpbXBvcnQgKAogICAgR0hfQ09WRVJBR0UsIFNIT1VMREVSX0RJU0xPQ0FUSU9OX1NIQVJFLAogICAgR0hfQUJEVUNUX01BWCwgU0NBUFVMQV9VUFJPVF9NQVgsIFNIT1VMREVSX0NPTVBMRVgsCiAgICBFTEJPV19GTEVYX1JBTkdFLCBQUk9OQVRJT05fREVHLCBTVVBJTkFUSU9OX0RFRywgQ0FSUllJTkdfQU5HTEUsCiAgICBXUklTVF9GTEVYX0RFRywgV1JJU1RfUkFESUFMX0RFRywgV1JJU1RfVUxOQVJfREVHLAogICAgUkFESUFMX1NUWUxPSURfTE9XRVJfTU0sCiAgICBET0ZfQVJNLCBUT1RBTF9BUk1fRE9GLCBCSUFSVElDVUxBUiwKICAgIGdoX3N0YWJpbGl0eSwgc2hvdWxkZXJfY29tcGxleCwgc2NhcHVsb2h1bWVyYWwsIHNjYXB1bGFfZnJvemVuLAogICAgZWxib3dfZmxleGlvbiwgZm9yZWFybV9yb3RhdGlvbiwgcm90YXRpb25fYXhpc19jaGVjaywKICAgIGNhcnJ5aW5nX2FuZ2xlLCBjYXJyeWluZ19jaGVjaywKICAgIHdyaXN0X2RldmlhdGlvbiwgZ3JpcF92c193cmlzdCwgd3Jpc3RfbmV1dHJhbF9iZXN0LAogICAgYXJtX2RvZiwgc2VsZl9tb3Rpb24sIHJlZHVuZGFuY3lfY2hlY2ssIGJlcm5zdGVpbl9wcm9ibGVtLAogICAgZW5kcG9pbnRfbWFzc19tYXRyaXgsIGFuaXNvdHJvcHksIGFuaXNvdHJvcHlfc2NhbiwKICAgIGJpYXJ0aWN1bGF0ZV9jb3VwbGluZywgYmlhcnRpY3VsYXRlX2NoZWNrLAogICAgY2hhaW5fdG9fc3BhY2UsIGNvb3JkaW5hdGVfZXJyb3IsCikKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiPSIqODgpOyBwcmludCgiIOaJi+iHguS4juiCqeiGgO+8muaKiuaJi+mAgeWIsOepuumXtOmHjOWOuyIpOyBwcmludCgiPSIqODgpCiAgICBvayA9IHt9CgogICAgIyAtLS0tLS0tLS0tIDEg4piFIOiCqSAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqowx44CR4piFIOiCqe+8mua0u+WKqOW6puacgOWkp++8jOeos+WumuaAp+acgOW3riIpCiAgICBwcmludCgiLSIqODgpCiAgICBnID0gZ2hfc3RhYmlsaXR5KCkKICAgIHByaW50KGYiICDlhbPoioLnm4Llj6ropobnm5bogrHpqqjlpLQge2dbJ2NvdmVyYWdlJ106LjAlfSIpCiAgICBwcmludChmIiAg4oaSIOiCqeiEseS9jeWNoOWFqOmDqOWFs+iKguiEseS9jSB7Z1snZGlzbG9jYXRpb25fc2hhcmUnXTouMCV977yIUkVBTO+8iSIpCiAgICBwcmludChmIiAg4piFIOadg+ihoe+8mntnWyd0cmFkZW9mZiddfSIpCiAgICBwcmludChmIlxuICDimIUg6IKp5LiN5piv5Y2V5LiA5YWz6IqC77yM5piv5Zub5Liq5Y2P5ZCM77yae3Nob3VsZGVyX2NvbXBsZXgoKX0iKQogICAgb2tbIuKRoCDimIUg5YWz6IqC55uC6KaG55uW57qmIDEvM++8iOa1hSDihpIg6IO96L2s5pyA5aSa77yM5Lmf5pyA5a655piT6ISx5L2N77yJIl0gPSBib29sKAogICAgICAgIDAuMjUgPD0gR0hfQ09WRVJBR0UgPD0gMC40MCkKICAgIG9rWyLikaEg4piFIOiCqeaYr+Wbm+WFs+iKguWkjeWQiOS9k++8jOS4jeaYr+WNleS4gOWFs+iKgiJdID0gYm9vbChsZW4oU0hPVUxERVJfQ09NUExFWCkgPT0gNCkKCiAgICAjIC0tLS0tLS0tLS0gMiDimIXimIUg6IKp6IKx6IqC5b6LIC0tLS0tLS0tLS0KICAgIHByaW50KCJcbuOAkOWunumqjDLjgJHimIXimIUg6IKp6IKx6IqC5b6L77yIUkVBTCAyOjHvvIkiKQogICAgcHJpbnQoIi0iKjg4KQogICAgc3IgPSBzY2FwdWxvaHVtZXJhbCgpCiAgICBwcmludChmIiAg5aSW5bGVIHtzclsndG90YWxfZGVnJ106LjBmfcKwID0g55uC6IKxIHtzclsnZ2hfZGVnJ106LjBmfcKwICIKICAgICAgICAgIGYiKyDogqnog5vkuIrml4sge3NyWydzY2FwdWxhX2RlZyddOi4wZn3CsCAgIOavlOS+iyB7c3JbJ3JhdGlvJ106LjBmfToxIikKICAgIHByaW50KGYiICBSRUFM77yaR0gge0dIX0FCRFVDVF9NQVh9wrAgKyDogqnog5sge1NDQVBVTEFfVVBST1RfTUFYfcKwIikKICAgIHNmID0gc2NhcHVsYV9mcm96ZW4oKQogICAgcHJpbnQoZiJcbiAg4piF4piFIOiCqeiDm+mqqOWGu+e7kyDihpIg5Y+q6IO95oqs5YiwIHtzZlsnbWF4X2Zyb3plbiddOi4wZn3CsO+8jOS4oiAiCiAgICAgICAgICBmIntzZlsnbG9zc19kZWcnXTouMGZ9wrAiKQogICAgcHJpbnQoZiIgIOKYhSDog7jplb/npZ7nu4/mjZ/kvKTvvIjnv7znirbogqnvvInlsLHmmK/ov5nkuKrlkI7mnpwiKQogICAgb2tbIuKRoiDimIXimIUg6IKp6IKx6IqC5b6LIDI6MSDkuJQgR0g9MTIwwrAiXSA9IGJvb2woCiAgICAgICAgYWJzKHNyWyJnaF9kZWciXSAtIDEyMC4wKSA8IDEuMCBhbmQgYWJzKHNyWyJzY2FwdWxhX2RlZyJdIC0gNjAuMCkgPCAxLjApCiAgICBva1si4pGjIOKYheKYhSDogqnog5vlhrvnu5Mg4oaSIOWkluWxleWPquWJqSAxMjDCsCJdID0gYm9vbChzZlsibWF4X2Zyb3plbiJdID09IEdIX0FCRFVDVF9NQVgpCiAgICBva1si4pGkIOKYhSBHSCDkuI7ogqnog5vkuYvlkowgPSAxODDCsCJdID0gYm9vbCgKICAgICAgICBhYnMoR0hfQUJEVUNUX01BWCArIFNDQVBVTEFfVVBST1RfTUFYIC0gMTgwLjApIDwgMWUtNikKCiAgICAjIC0tLS0tLS0tLS0gMyDimIUg6IKYIC0tLS0tLS0tLS0KICAgIHByaW50KCJcbuOAkOWunumqjDPjgJHimIUg6IKY77ya5bGI5Ly45LiO5peL6L2s44CQ5YiG56a744CRIikKICAgIHByaW50KCItIio4OCkKICAgIGxvLCBoaSA9IEVMQk9XX0ZMRVhfUkFOR0UKICAgIHByaW50KGYiICDlsYjkvLgge2xvOi4wZn1+e2hpOi4wZn3CsCAgIO+8iOecn+ato+eahOmTsOmTvu+8iSIpCiAgICBwcmludChmIiAg5peL5YmNIHtQUk9OQVRJT05fREVHWzFdOi4wZn3CsCAgIOaXi+WQjiB7U1VQSU5BVElPTl9ERUdbMV06LjBmfcKwIikKICAgIHJhID0gcm90YXRpb25fYXhpc19jaGVjaygpCiAgICBwcmludChmIlxuICDimIUg5bGI5Ly45LiO5peL5YmN5peL5ZCO5ZCM6L2077yfe3JhWydzYW1lX2F4aXMnXX0iKQogICAgcHJpbnQoZiIgIOKYhSDml4vliY0v5peL5ZCO44CQ5LiN5Zyo6IKY44CR77yM5piv5qGh6aqo57uV5bC66aqo6L2sIOKAlOKAlCDlj6bkuIDmoLnovbQiKQogICAgcHJpbnQoZiIgIOaPkOaQuuinku+8mueUtyB7Y2FycnlpbmdfYW5nbGUoJ+eUtycpfSAg5aWzIHtjYXJyeWluZ19hbmdsZSgn5aWzJyl9IikKICAgIGNjID0gY2FycnlpbmdfY2hlY2soKQogICAgcHJpbnQoZiIgIOKYhSDlpbPmgKfmj5DmkLrop5Lmm7TlpKfvvIhSRUFM77yJ77yae2NjWydmZW1hbGVfbGFyZ2VyJ119IikKICAgIG9rWyLikaUg4piFIOWxiOS8uOS4juaXi+WJjeaXi+WQjuaYr+S4pOagueS4jeWQjOeahOi9tCJdID0gYm9vbChub3QgcmFbInNhbWVfYXhpcyJdKQogICAgb2tbIuKRpiDimIUg6IKY5bGI5Ly46IyD5Zu0IDB+MTQ1wrAiXSA9IGJvb2woaGkgPT0gMTQ1LjApCiAgICBva1si4pGnIOKYhSDlpbPmgKfmj5DmkLrop5IgPiDnlLfmgKciXSA9IGJvb2woY2NbImZlbWFsZV9sYXJnZXIiXSkKICAgIG9rWyLikagg4piFIOaXi+WJjeaXi+WQjuWQhOe6piA4MH45MMKwIl0gPSBib29sKAogICAgICAgIDc1IDw9IFBST05BVElPTl9ERUdbMV0gPD0gOTUgYW5kIDc1IDw9IFNVUElOQVRJT05fREVHWzFdIDw9IDk1KQoKICAgICMgLS0tLS0tLS0tLSA0IOKYhSDohZXkuI3lr7nnp7AgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMNOOAkeKYhSDohZXvvJrlsLrlgY8gPiDmoaHlgY/vvIjkuI3lr7nnp7DvvIkiKQogICAgcHJpbnQoIi0iKjg4KQogICAgdyA9IHdyaXN0X2RldmlhdGlvbigpCiAgICBwcmludChmIiAg5qGh5YGPIHt3WydyYWRpYWxfZGVnJ106LjBmfcKwICAg5bC65YGPIHt3Wyd1bG5hcl9kZWcnXTouMGZ9wrAgICAiCiAgICAgICAgICBmIuS4jeWvueensCB7d1snYXN5bW1ldHJ5X2RlZyddOi4wZn3CsCIpCiAgICBwcmludChmIiAg4piFIOWOn+WboO+8muahoemqqOiMjueqgeavlOWwuumqqOiMjueqgeS9jue6piB7d1snY2F1c2VfbW0nXX0gbW0g4oaSIOahoeS+p+WFiOaSnuS4iiIpCiAgICB3biA9IHdyaXN0X25ldXRyYWxfYmVzdCgpCiAgICBwcmludChmIlxuICDimIUg5o+h5Yqb77ya5Lit56uLIHt3blsnbmV1dHJhbF9OJ106LjBmfSBOIC8g5bGIMzDCsCB7d25bJ2ZsZXgzMF9OJ106LjBmfSBOICIKICAgICAgICAgIGYiLyDkvLgzMMKwIHt3blsnZXh0MzBfTiddOi4wZn0gTiIpCiAgICBwcmludChmIiAg4piFIOS4reeri+S9jeacgOWkp++8iFJFQUwg5bGI5Ly4MzDCsOaOiSAyMH4zMCXvvInvvJp7d25bJ25ldXRyYWxfYmVzdCddfSIpCiAgICBva1si4pGpIOKYheKYhSDlsLrlgY8gPiDmoaHlgY/vvIzlt67nuqYgMTXCsCJdID0gYm9vbCh3WyJhc3ltbWV0cnlfZGVnIl0gPT0gMTUuMCkKICAgIG9rWyLikaog4piFIOiFleS4reeri+S9jeaPoeWKm+acgOWkpyJdID0gYm9vbCh3blsibmV1dHJhbF9iZXN0Il0pCiAgICBva1si4pGrIOKYhSDlsYjkvLgzMMKwIOaPoeWKm+aOiSAyMH4zMCUiXSA9IGJvb2woCiAgICAgICAgMC4xNSA8PSAxIC0gd25bImZsZXgzMF9OIl0gLyB3blsibmV1dHJhbF9OIl0gPD0gMC4zNSkKCiAgICAjIC0tLS0tLS0tLS0gNSDimIXimIUg5LiD6Ieq55Sx5bqm6Ieq6L+Q5YqoIC0tLS0tLS0tLS0KICAgIHByaW50KCJcbuOAkOWunumqjDXjgJHimIXimIUg5LiD6Ieq55Sx5bqm77ya5omL5LiN5Yqo77yM6IKY6L+Y6IO95pGGIikKICAgIHByaW50KCItIio4OCkKICAgIGQgPSBhcm1fZG9mKCkKICAgIGZvciBrLCB2IGluIGQuaXRlbXMoKToKICAgICAgICBpZiBrICE9ICJf5ZCI6K6hIjoKICAgICAgICAgICAgcHJpbnQoZiIgICAge2s6PDEyfXt2fSBET0YiKQogICAgcHJpbnQoZiIgICAgeyflkIjorqEnOjwxMn17ZFsnX+WQiOiuoSddfSBET0YiKQogICAgciA9IHJlZHVuZGFuY3lfY2hlY2soKQogICAgcHJpbnQoZiJcbiAg4piFIHtyWydhcm1fZG9mJ119IERPRiDmjqfliLYge3JbJ3Rhc2tfZG9mJ119IERPRiDihpIg5YaX5L2ZIHtyWydyZWR1bmRhbmN5J119IOe7tCIpCiAgICBzbSA9IHNlbGZfbW90aW9uKDgpCiAgICBwcmludChmIiAg4piF4piFIOiHqui/kOWKqO+8iOWQjOS4gOaJi+S9jeWnv+S4i+eahCA4IOS4quiCmOinku+8ie+8miIpCiAgICBwcmludChmIiAgICAgIHtbcm91bmQoeCwgMikgZm9yIHggaW4gc21dfSIpCiAgICBwcmludChmIiAgICAgIOaegeWAvOW3riB7bWF4KHNtKS1taW4oc20pOi4yZn0g4oCU4oCUIOiCmOecn+eahOiDveaRhiIpCiAgICBicCA9IGJlcm5zdGVpbl9wcm9ibGVtKCkKICAgIHByaW50KGYiXG4gIOKYhSBCZXJuc3RlaW4g6Zeu6aKY77ya6IeCIHticFsnYXJtX2RvZiddfSBET0YgKyDmiYsge2JwWydoYW5kX2RvZiddfSBET0YgIgogICAgICAgICAgZiI9IHticFsndG90YWxfZG9mJ119IERPRiIpCiAgICBwcmludChmIiAgICDihpIg6Ieq55Sx5bqm6L+c6LaF5Lu75Yqh6ZyA5rGC77yM5b+F6aG76Z2g44CQ5Y2P5ZCM44CR57qm5p2fIikKICAgIG9rWyLikawg4piFIOaJi+iHgiA3IERPRu+8iOiCqTMr6IKYMSvliY3oh4Lml4sxK+iFlTLvvIkiXSA9IGJvb2woVE9UQUxfQVJNX0RPRiA9PSA3KQogICAgb2tbIuKRrSDimIXimIUg5YaX5L2ZIDEg57u0IOKGkiDoh6rov5DliqjlrZjlnKgiXSA9IGJvb2woclsicmVkdW5kYW5jeSJdID09IDEpCiAgICBva1si4pGuIOKYheKYhSDmiYvkvY3lp7/kuI3lj5jml7bogpjop5Llj6/lj5blpJrkuKrkuI3lkIzlgLwiXSA9IGJvb2wobWF4KHNtKSAtIG1pbihzbSkgPiAxLjApCiAgICBva1si4pGvIOKYhSBET0Yg5YiG6Kej6Ieq5rS9Il0gPSBib29sKGRbIl/lkIjorqEiXSA9PSBUT1RBTF9BUk1fRE9GKQoKICAgICMgLS0tLS0tLS0tLSA2IOKYheKYhSDmg6/mgKflkITlkJHlvILmgKcgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMNuOAkeKYheKYhSDmg6/mgKflkITlkJHlvILmgKfvvIjnq6/ngrnotKjph4/nn6npmLXvvIkiKQogICAgcHJpbnQoIi0iKjg4KQogICAgcHJpbnQoZiIgIHsn6IKp6KeSJzo+Nn17J+iCmOinkic6Pjh9eyflkITlkJHlvILmgKfmr5QnOj4xNH0iKQogICAgcm93cyA9IGFuaXNvdHJvcHlfc2NhbigpCiAgICBmb3Igc2gsIGVsLCByYV8gaW4gcm93czoKICAgICAgICBtYXJrID0gIiAg4oaQIOaOpei/keS8uOebtO+8jOaOpei/keWlh+W8giIgaWYgZWwgPT0gMjAuMCBlbHNlICIiCiAgICAgICAgcHJpbnQoZiIgIHtzaDo+Ni4wZn17ZWw6PjguMGZ9e3JhXzo+MTQuMmZ9e21hcmt9IikKICAgIGEyMCA9IGFuaXNvdHJvcHkoMCwgMjApWyJyYXRpbyJdCiAgICBhOTAgPSBhbmlzb3Ryb3B5KDAsIDkwKVsicmF0aW8iXQogICAgYTEzNSA9IGFuaXNvdHJvcHkoMCwgMTM1KVsicmF0aW8iXQogICAgcHJpbnQoZiJcbiAg4piF4piFIOiCmCAyMMKw77yI6L+R5Ly455u077yJ5ZCE5ZCR5byC5oCnIHthMjA6LjFmfSDihpIg6IKYIDEzNcKw77yI5byv5puy77yJe2ExMzU6LjJmfSIpCiAgICBwcmludChmIiAg4piFIOaJi+iHgui2iuS8uOebtO+8jOi2iuaOpei/keOAkOWlh+W8guS9jeW9ouOAkeKAlOKAlCDmsr/oh4LmlrnlkJHliqjkuI3kuoYiKQogICAgb2tbIuKRsCDimIXimIUg5ZCE5ZCR5byC5oCn5q+UID4gMS4177yI5LiN5piv5ZCE5ZCR5ZCM5oCn77yJIl0gPSBib29sKGE5MCA+IDEuNSkKICAgIG9rWyLikbEg4piF4piFIOi2iuS8uOebtOWQhOWQkeW8guaAp+i2iuWkp++8iOaOpei/keWlh+W8gu+8iSJdID0gYm9vbChhMjAgPiBhOTAgPiBhMTM1KQoKICAgICMg4piF4piFIOaXi+i9rOS4jeWPmOaAp+WvueeFpwogICAgc2FtZV9zaG91bGRlciA9IFtyXyBmb3Igc2gsIGVsLCByXyBpbiByb3dzIGlmIGVsID09IDkwLjBdCiAgICByb3RfaW52YXJpYW50ID0gbWF4KHNhbWVfc2hvdWxkZXIpIC0gbWluKHNhbWVfc2hvdWxkZXIpIDwgMWUtNgogICAgcHJpbnQoZiJcbiAg4piF4piFIOaXi+i9rOS4jeWPmOaAp+WvueeFp++8muiCmOinkuWbuuWumiA5MMKwIOaXtu+8jOS4ieS4quS4jeWQjOiCqeinkiIpCiAgICBwcmludChmIiAgICAgIOeahOWQhOWQkeW8guaAp+avlCA9IHtbcm91bmQoeCw0KSBmb3IgeCBpbiBzYW1lX3Nob3VsZGVyXX0iKQogICAgcHJpbnQoZiIgICAgICDlrozlhajnm7jlkIzvvJp7cm90X2ludmFyaWFudH0iKQogICAgcHJpbnQoZiIgIOKYhSDov5nmmK/jgJDmraPnoa7jgJHnmoTvvJrmlbTkvZPml4vovazkuI3mlLnlj5jotKjph4/nn6npmLXnibnlvoHlgLwiKQogICAgcHJpbnQoZiIgICAg4pqg77iPIOesrOS4gOeJiOaIkeS7peS4uui/meaYryBidWfvvIzlhbblrp7kuI3mmK8g4oCU4oCUIOi/meaYr+aXi+i9rOS4jeWPmOaApyIpCiAgICBva1si4pGyIOKYheKYhSDlkITlkJHlvILmgKflj6rpmo/ogpjop5Llj5jvvIzkuI3pmo/ogqnop5Llj5jvvIjml4vovazkuI3lj5jvvIzpnZ4gYnVn77yJIl0gPSBib29sKAogICAgICAgIHJvdF9pbnZhcmlhbnQpCgogICAgIyAtLS0tLS0tLS0tIDcg4piFIOWPjOWFs+iKguiCjCAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqow344CR4piFIOWPjOWFs+iKguiCjO+8muS4gOS4quiCjOiCieeuoeS4pOS4quWFs+iKgiIpCiAgICBwcmludCgiLSIqODgpCiAgICBwcmludChmIiAgeyfogozogoknOjwxNH17J+i3qOWFs+iKgic6PDE2fXsn6IKpMMKw5pe26IKY5Yqb55+pJzo+MTR9eyfogqk5MMKw5pe2Jzo+MTB9IikKICAgIGZvciBtIGluIFsi6IKx5LqM5aS06IKMIiwgIuiCseS4ieWktOiCjOmVv+WktCJdOgogICAgICAgIGEgPSBiaWFydGljdWxhdGVfY291cGxpbmcobSwgMC4wLCA5MC4wKQogICAgICAgIGIgPSBiaWFydGljdWxhdGVfY291cGxpbmcobSwgOTAuMCwgOTAuMCkKICAgICAgICBwcmludChmIiAge206PDE0fXtzdHIoQklBUlRJQ1VMQVJbbV0pOjwxNn0iCiAgICAgICAgICAgICAgZiJ7YVsnZWxib3dfdG9ycXVlX2ZhY3RvciddOj4xNC4yZn17YlsnZWxib3dfdG9ycXVlX2ZhY3RvciddOj4xMC4yZn0iKQogICAgYmMgPSBiaWFydGljdWxhdGVfY2hlY2soKQogICAgcHJpbnQoZiJcbiAg4piFIOiCqeeahOinkuW6puWPmOS6hiDihpIg6IKY6IO95Y+R5Ye655qE5Yqb55yf55qE5Y+Y5LqG77yae2JjWydkaWZmZXJzJ119IikKICAgIHByaW50KGYiICDimIUg5Zug5Li66IKM6IKJ6Leo5Lik5Liq5YWz6IqC77yM5LiA56uv5L2N572u5Y+Y5LqG77yM6IKM57qk57u06ZW/5bqm5bCx5Y+Y5LqGIikKICAgIG9rWyLikbMg4piFIOWPjOWFs+iKguiCjO+8muiCqeWnv+WKv+W9seWTjeiCmOWKm+efqSJdID0gYm9vbChiY1siZGlmZmVycyJdKQoKICAgICMgLS0tLS0tLS0tLSA4IOKYhSDlnZDmoIfpk74gLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMOOOAkeKYhSDmiYvlnKjnqbrpl7Tph4wgPSDkuIDkuLLlnZDmoIfns7vkuLLogZQiKQogICAgcHJpbnQoIi0iKjg4KQogICAgYyA9IGNoYWluX3RvX3NwYWNlKCkKICAgIHByaW50KGYiICB7JyDihpIgJy5qb2luKGNbJ2NoYWluJ10pfSIpCiAgICBwcmludChmIlxuICDkvY3nva7op4nvvJp7Y1sncG9zaXRpb25fc2Vuc2UnXX0iKQogICAgcHJpbnQoZiIgIOWktOacneWQke+8mntjWydoZWFkX29yaWVudGF0aW9uJ119IikKICAgIHByaW50KGYiICDnnLzvvJp7Y1snZXllJ119IikKICAgIHByaW50KGYiICDimIUge2NbJ25vdGUnXX0iKQogICAgZXJyID0gY29vcmRpbmF0ZV9lcnJvcigxLjAsIDcsIDAuNikKICAgIHByaW50KGYiXG4gIOKYhSDmr4/oioIgMcKwIOivr+W3ru+8iOmaj+acuue0r+enr++8ieKGkiDmiYvnq6/lgY8ge2VycjouMWZ9IG1tIikKICAgIHByaW50KGYiICDimIUg6L+Z5bCx5piv5Li65LuA5LmI44CQ6Zet546v6KeG6KeJ44CR5b+F6aG75a2Y5ZyoIOKAlOKAlCDlvIDpk77or6/lt67ntK/np6/lpKrlpKciKQogICAgb2tbIjIxIOKYhSDlnZDmoIfpk74gN344IOiKguS4suiBlCJdID0gYm9vbChsZW4oY1siY2hhaW4iXSkgPj0gNykKICAgIG9rWyIyMiDimIUg5q+P6IqCMcKw6K+v5beuIOKGkiDmiYvnq6/or6/lt64gPiAxMG1t77yI5byA6ZO+5LiN5Y+v6Z2g77yJIl0gPSBib29sKGVyciA+IDEwLjApCgogICAgcHJpbnQoIlxuIisiPSIqODgpOyBwcmludCgiIOWIpOaNruaxh+aAuyIpOyBwcmludCgiPSIqODgpCiAgICBmb3IgaywgdiBpbiBvay5pdGVtcygpOgogICAgICAgIHByaW50KGYiICB7J+KchScgaWYgdiBlbHNlICfinYwnfSB7a30iKQogICAgcHJpbnQoZiJcbiAg4pyFIHtzdW0ob2sudmFsdWVzKCkpfS97bGVuKG9rKX0iKQogICAgcHJpbnQoIlxuICDinYwg5pyq5bu65qih77ya6IKp6KKW5Zub6IKM55qE5Y2P5ZCM56iz5a6a77yI5Yqo5oCB56iz5a6a5Zmo77yJIikKICAgIHByaW50KCIgIOKdjCDmnKrlu7rmqKHvvJrogozohbEv6Z+n5bim55qE57KY5by55oCnIikKICAgIHByaW50KCIgIOKdjCDmnKrlu7rmqKHvvJrkuInnu7Togqnog5vov5DliqjvvIjlj6rlgZrkuoYgMkQg5bmz6Z2i5Lik6L+e5p2G77yJIikKICAgIHByaW50KCIgIOKaoO+4jyDlkITlkJHlvILmgKfnlKjnmoTmmK/nroDljJblubPpnaLkuKTov57mnYbvvIzpnZ7nnJ/lrp7kuInnu7TmiYvoh4IiKQogICAganNvbi5kdW1wKHtrOiBib29sKHYpIGZvciBrLCB2IGluIG9rLml0ZW1zKCl9LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiYXJtLmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+手臂与肩膀 —— 把手【送到】空间里去
+==========================================================
+★ 手（★34）是末端执行器，但它自己到不了任何地方
+★ 手臂负责【定位】，肩膀负责【朝向】
+
+★ 硬判据（可证伪）
+    ① 肩肱节律 2:1，合计 180°
+    ② ★★ 肩胛冻结 → 外展只剩 120°
+    ③ 屈伸与旋前旋后是【两根不同的轴】
+    ④ ★ 腕的尺偏 > 桡偏（不对称 15°）
+    ⑤ 腕中立位握力最大
+    ⑥ ★★ 7 DOF 控制 6 DOF → 自运动存在（肘能摆，手不动）
+    ⑦ ★★ 惯性各向异性，且在手臂接近伸直时【爆炸】
+    ⑧ ★ 各向异性只随肘角变，不随肩角变（旋转不变性对照）
+    ⑨ 双关节肌：肩姿势改变肘能发出的力
+"""
+import os, sys, json
+import numpy as np
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.arm import (
+    GH_COVERAGE, SHOULDER_DISLOCATION_SHARE,
+    GH_ABDUCT_MAX, SCAPULA_UPROT_MAX, SHOULDER_COMPLEX,
+    ELBOW_FLEX_RANGE, PRONATION_DEG, SUPINATION_DEG, CARRYING_ANGLE,
+    WRIST_FLEX_DEG, WRIST_RADIAL_DEG, WRIST_ULNAR_DEG,
+    RADIAL_STYLOID_LOWER_MM,
+    DOF_ARM, TOTAL_ARM_DOF, BIARTICULAR,
+    gh_stability, shoulder_complex, scapulohumeral, scapula_frozen,
+    elbow_flexion, forearm_rotation, rotation_axis_check,
+    carrying_angle, carrying_check,
+    wrist_deviation, grip_vs_wrist, wrist_neutral_best,
+    arm_dof, self_motion, redundancy_check, bernstein_problem,
+    endpoint_mass_matrix, anisotropy, anisotropy_scan,
+    biarticulate_coupling, biarticulate_check,
+    chain_to_space, coordinate_error,
+)
+
+if __name__ == "__main__":
+    print("="*88); print(" 手臂与肩膀：把手送到空间里去"); print("="*88)
+    ok = {}
+
+    # ---------- 1 ★ 肩 ----------
+    print("\n【实验1】★ 肩：活动度最大，稳定性最差")
+    print("-"*88)
+    g = gh_stability()
+    print(f"  关节盂只覆盖肱骨头 {g['coverage']:.0%}")
+    print(f"  → 肩脱位占全部关节脱位 {g['dislocation_share']:.0%}（REAL）")
+    print(f"  ★ 权衡：{g['tradeoff']}")
+    print(f"\n  ★ 肩不是单一关节，是四个协同：{shoulder_complex()}")
+    ok["① ★ 关节盂覆盖约 1/3（浅 → 能转最多，也最容易脱位）"] = bool(
+        0.25 <= GH_COVERAGE <= 0.40)
+    ok["② ★ 肩是四关节复合体，不是单一关节"] = bool(len(SHOULDER_COMPLEX) == 4)
+
+    # ---------- 2 ★★ 肩肱节律 ----------
+    print("\n【实验2】★★ 肩肱节律（REAL 2:1）")
+    print("-"*88)
+    sr = scapulohumeral()
+    print(f"  外展 {sr['total_deg']:.0f}° = 盂肱 {sr['gh_deg']:.0f}° "
+          f"+ 肩胛上旋 {sr['scapula_deg']:.0f}°   比例 {sr['ratio']:.0f}:1")
+    print(f"  REAL：GH {GH_ABDUCT_MAX}° + 肩胛 {SCAPULA_UPROT_MAX}°")
+    sf = scapula_frozen()
+    print(f"\n  ★★ 肩胛骨冻结 → 只能抬到 {sf['max_frozen']:.0f}°，丢 "
+          f"{sf['loss_deg']:.0f}°")
+    print(f"  ★ 胸长神经损伤（翼状肩）就是这个后果")
+    ok["③ ★★ 肩肱节律 2:1 且 GH=120°"] = bool(
+        abs(sr["gh_deg"] - 120.0) < 1.0 and abs(sr["scapula_deg"] - 60.0) < 1.0)
+    ok["④ ★★ 肩胛冻结 → 外展只剩 120°"] = bool(sf["max_frozen"] == GH_ABDUCT_MAX)
+    ok["⑤ ★ GH 与肩胛之和 = 180°"] = bool(
+        abs(GH_ABDUCT_MAX + SCAPULA_UPROT_MAX - 180.0) < 1e-6)
+
+    # ---------- 3 ★ 肘 ----------
+    print("\n【实验3】★ 肘：屈伸与旋转【分离】")
+    print("-"*88)
+    lo, hi = ELBOW_FLEX_RANGE
+    print(f"  屈伸 {lo:.0f}~{hi:.0f}°   （真正的铰链）")
+    print(f"  旋前 {PRONATION_DEG[1]:.0f}°   旋后 {SUPINATION_DEG[1]:.0f}°")
+    ra = rotation_axis_check()
+    print(f"\n  ★ 屈伸与旋前旋后同轴？{ra['same_axis']}")
+    print(f"  ★ 旋前/旋后【不在肘】，是桡骨绕尺骨转 —— 另一根轴")
+    print(f"  提携角：男 {carrying_angle('男')}  女 {carrying_angle('女')}")
+    cc = carrying_check()
+    print(f"  ★ 女性提携角更大（REAL）：{cc['female_larger']}")
+    ok["⑥ ★ 屈伸与旋前旋后是两根不同的轴"] = bool(not ra["same_axis"])
+    ok["⑦ ★ 肘屈伸范围 0~145°"] = bool(hi == 145.0)
+    ok["⑧ ★ 女性提携角 > 男性"] = bool(cc["female_larger"])
+    ok["⑨ ★ 旋前旋后各约 80~90°"] = bool(
+        75 <= PRONATION_DEG[1] <= 95 and 75 <= SUPINATION_DEG[1] <= 95)
+
+    # ---------- 4 ★ 腕不对称 ----------
+    print("\n【实验4】★ 腕：尺偏 > 桡偏（不对称）")
+    print("-"*88)
+    w = wrist_deviation()
+    print(f"  桡偏 {w['radial_deg']:.0f}°   尺偏 {w['ulnar_deg']:.0f}°   "
+          f"不对称 {w['asymmetry_deg']:.0f}°")
+    print(f"  ★ 原因：桡骨茎突比尺骨茎突低约 {w['cause_mm']} mm → 桡侧先撞上")
+    wn = wrist_neutral_best()
+    print(f"\n  ★ 握力：中立 {wn['neutral_N']:.0f} N / 屈30° {wn['flex30_N']:.0f} N "
+          f"/ 伸30° {wn['ext30_N']:.0f} N")
+    print(f"  ★ 中立位最大（REAL 屈伸30°掉 20~30%）：{wn['neutral_best']}")
+    ok["⑩ ★★ 尺偏 > 桡偏，差约 15°"] = bool(w["asymmetry_deg"] == 15.0)
+    ok["⑪ ★ 腕中立位握力最大"] = bool(wn["neutral_best"])
+    ok["⑫ ★ 屈伸30° 握力掉 20~30%"] = bool(
+        0.15 <= 1 - wn["flex30_N"] / wn["neutral_N"] <= 0.35)
+
+    # ---------- 5 ★★ 七自由度自运动 ----------
+    print("\n【实验5】★★ 七自由度：手不动，肘还能摆")
+    print("-"*88)
+    d = arm_dof()
+    for k, v in d.items():
+        if k != "_合计":
+            print(f"    {k:<12}{v} DOF")
+    print(f"    {'合计':<12}{d['_合计']} DOF")
+    r = redundancy_check()
+    print(f"\n  ★ {r['arm_dof']} DOF 控制 {r['task_dof']} DOF → 冗余 {r['redundancy']} 维")
+    sm = self_motion(8)
+    print(f"  ★★ 自运动（同一手位姿下的 8 个肘角）：")
+    print(f"      {[round(x, 2) for x in sm]}")
+    print(f"      极值差 {max(sm)-min(sm):.2f} —— 肘真的能摆")
+    bp = bernstein_problem()
+    print(f"\n  ★ Bernstein 问题：臂 {bp['arm_dof']} DOF + 手 {bp['hand_dof']} DOF "
+          f"= {bp['total_dof']} DOF")
+    print(f"    → 自由度远超任务需求，必须靠【协同】约束")
+    ok["⑬ ★ 手臂 7 DOF（肩3+肘1+前臂旋1+腕2）"] = bool(TOTAL_ARM_DOF == 7)
+    ok["⑭ ★★ 冗余 1 维 → 自运动存在"] = bool(r["redundancy"] == 1)
+    ok["⑮ ★★ 手位姿不变时肘角可取多个不同值"] = bool(max(sm) - min(sm) > 1.0)
+    ok["⑯ ★ DOF 分解自洽"] = bool(d["_合计"] == TOTAL_ARM_DOF)
+
+    # ---------- 6 ★★ 惯性各向异性 ----------
+    print("\n【实验6】★★ 惯性各向异性（端点质量矩阵）")
+    print("-"*88)
+    print(f"  {'肩角':>6}{'肘角':>8}{'各向异性比':>14}")
+    rows = anisotropy_scan()
+    for sh, el, ra_ in rows:
+        mark = "  ← 接近伸直，接近奇异" if el == 20.0 else ""
+        print(f"  {sh:>6.0f}{el:>8.0f}{ra_:>14.2f}{mark}")
+    a20 = anisotropy(0, 20)["ratio"]
+    a90 = anisotropy(0, 90)["ratio"]
+    a135 = anisotropy(0, 135)["ratio"]
+    print(f"\n  ★★ 肘 20°（近伸直）各向异性 {a20:.1f} → 肘 135°（弯曲）{a135:.2f}")
+    print(f"  ★ 手臂越伸直，越接近【奇异位形】—— 沿臂方向动不了")
+    ok["⑰ ★★ 各向异性比 > 1.5（不是各向同性）"] = bool(a90 > 1.5)
+    ok["⑱ ★★ 越伸直各向异性越大（接近奇异）"] = bool(a20 > a90 > a135)
+
+    # ★★ 旋转不变性对照
+    same_shoulder = [r_ for sh, el, r_ in rows if el == 90.0]
+    rot_invariant = max(same_shoulder) - min(same_shoulder) < 1e-6
+    print(f"\n  ★★ 旋转不变性对照：肘角固定 90° 时，三个不同肩角")
+    print(f"      的各向异性比 = {[round(x,4) for x in same_shoulder]}")
+    print(f"      完全相同：{rot_invariant}")
+    print(f"  ★ 这是【正确】的：整体旋转不改变质量矩阵特征值")
+    print(f"    ⚠️ 第一版我以为这是 bug，其实不是 —— 这是旋转不变性")
+    ok["⑲ ★★ 各向异性只随肘角变，不随肩角变（旋转不变，非 bug）"] = bool(
+        rot_invariant)
+
+    # ---------- 7 ★ 双关节肌 ----------
+    print("\n【实验7】★ 双关节肌：一个肌肉管两个关节")
+    print("-"*88)
+    print(f"  {'肌肉':<14}{'跨关节':<16}{'肩0°时肘力矩':>14}{'肩90°时':>10}")
+    for m in ["肱二头肌", "肱三头肌长头"]:
+        a = biarticulate_coupling(m, 0.0, 90.0)
+        b = biarticulate_coupling(m, 90.0, 90.0)
+        print(f"  {m:<14}{str(BIARTICULAR[m]):<16}"
+              f"{a['elbow_torque_factor']:>14.2f}{b['elbow_torque_factor']:>10.2f}")
+    bc = biarticulate_check()
+    print(f"\n  ★ 肩的角度变了 → 肘能发出的力真的变了：{bc['differs']}")
+    print(f"  ★ 因为肌肉跨两个关节，一端位置变了，肌纤维长度就变了")
+    ok["⑳ ★ 双关节肌：肩姿势影响肘力矩"] = bool(bc["differs"])
+
+    # ---------- 8 ★ 坐标链 ----------
+    print("\n【实验8】★ 手在空间里 = 一串坐标系串联")
+    print("-"*88)
+    c = chain_to_space()
+    print(f"  {' → '.join(c['chain'])}")
+    print(f"\n  位置觉：{c['position_sense']}")
+    print(f"  头朝向：{c['head_orientation']}")
+    print(f"  眼：{c['eye']}")
+    print(f"  ★ {c['note']}")
+    err = coordinate_error(1.0, 7, 0.6)
+    print(f"\n  ★ 每节 1° 误差（随机累积）→ 手端偏 {err:.1f} mm")
+    print(f"  ★ 这就是为什么【闭环视觉】必须存在 —— 开链误差累积太大")
+    ok["21 ★ 坐标链 7~8 节串联"] = bool(len(c["chain"]) >= 7)
+    ok["22 ★ 每节1°误差 → 手端误差 > 10mm（开链不可靠）"] = bool(err > 10.0)
+
+    print("\n"+"="*88); print(" 判据汇总"); print("="*88)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n  ✅ {sum(ok.values())}/{len(ok)}")
+    print("\n  ❌ 未建模：肩袖四肌的协同稳定（动态稳定器）")
+    print("  ❌ 未建模：肌腱/韧带的粘弹性")
+    print("  ❌ 未建模：三维肩胛运动（只做了 2D 平面两连杆）")
+    print("  ⚠️ 各向异性用的是简化平面两连杆，非真实三维手臂")
+    json.dump({k: bool(v) for k, v in ok.items()},
+              open(os.path.join(HERE, ".sense", "arm.json"), "w"),
+              ensure_ascii=False, indent=1)

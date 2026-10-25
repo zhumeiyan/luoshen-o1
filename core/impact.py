@@ -1,1 +1,183 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNDdiIOaSnuWHu+WxgiDigJTigJQg6L2v5Z6rIC8g5ZC46IO9IC8g5Y+N5bqU5py65p6ECj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K4piF4piF4piFIOeUqOaIt+a0nuWvnwogICAgIuWPr+S7peWKoOe9rui9r+Weq+aIluiAheWKoOe9ruS7gOS5iOS7gOS5iOacieS4gOS4quW8ueaAp++8jOWXr++8jOWwseWDj+aSnuWHu+WunumqjO+8jAogICAgIOi9puaSnuWHu+WunumqjO+8jOWboOS4uuavleern+i3n+S6uuS4jeS4gOagt+WYm+OAguaIluiAheaYr+S5n+e7meWug+WKoOS4gOS4quWPjeW6lOacuuaehCIKCuKYheKYhSDkuInmnaHot6/vvIjov5nmmK/mnKzova7nmoTmoLjlv4Pnu5PmnoTvvIkKICAgIOeUn+eJqe+8miAg5YmN572u5Y6L57yp77yI6ZWr6aqo6IKM5Y+N5bCE77yJICDigJTigJQg5pyJ5r2c5LyP5pyf77yM56ys5LiA5LiL6L+H5YayCiAgICDmiJHnmoTvvJogIOWQjue9ruS4ouW8g++8iOKYhTQ277yJICAgICAgICDigJTigJQg5YGc5q2i5rqi5Ye677yM5L2G5L+h5oGv5YWo5LiiCiAgICDimIUg55So5oi357uZ55qE56ys5LiJ5p2h77yI56GF5Z+654m55pyJ77yJ77yaCiAgICAgICAgICAgIOi9r+Weqy/lkLjog70g4oCU4oCUIOeJqeeQhue7k+aehOWxgu+8jOS4jeaUueWPmOS/oeaBr++8jOaUueWPmOWKm+eahOS8oOmAkgoK4piF4piF4piFIOaSnuWHu+WunumqjOeahOaguOW/g+eJqeeQhu+8iOS4jeaYr+avlOWWu++8jOaYr+WPr+mqjOivgeeahOWuiOaBkuW+i++8iQogICAg5Yay6YePICBKID0g4oirRiBkdCAgICAgIOWbuuWumu+8iOaSnuWkmumHjeWwseaYr+WkmumHje+8iQogICAg5bOw5YC8ICBGX3BlYWsg4omIIEovzpR0CiAgICDimIUg6L2v5Z6r44CQ5LiN6IO944CR5pS55Y+YIEog4oCU4oCUIOWug+WPquiDveW7tumVvyDOlHQg5p2l6ZmN5L2OIEZfcGVhawogICAg4piF4piF4piFIOi/meaYr+WPr+ivgeS8queahOWIpOaNru+8mgogICAgICAgIOWmguaenOi9r+Weq+aWueahiOS4i+WGsumHj+S5n+WPmOS6hiDihpIg6K+05piO5oiR5L2c5byK5LqG77yI5YG35YG35Lii5LqG5Lic6KW/77yJCgrimIUg5rG96L2m5pKe5Ye75a6e6aqM55yf5Y+C5pWw77yIUkVBTO+8iQogICAg5Yia5oCn5aKZ56Kw5pKeICAgICAgzpR0IOKJiCAxMCBtc++8jOWzsOWAvCAxMDAgZysKICAgIOW4puWQuOiDveebkiAgICAgICAgzpR0IOKJiCAxMDAgbXPvvIzls7DlgLwgMzB+NTAgZyAgICAg4piFIOmZjSAzfjEwIOWAjQogICAg5rCU5ZuK5bGV5byAICAgICAgICB+MzAgbXMKICAgIOWuieWFqOiIsShzYWZldHkgY2VsbCkg5Yia5oCnIOKAlOKAlCDor6XnoaznmoTlnLDmlrnnoazvvIzor6Xova/nmoTlnLDmlrnova8KICAgIDUwIGcg5piv5Lyk5a6z6ZiI5YC8CgrimIUg5YWz6ZSu5Yy65YiG77yI4piFIOWIq+a3t++8iQogICAg5by55oCnKGVsYXN0aWMpICAg5YKo6IO9IOKGkiDov5Tlm54gICAg4oaSIOS8muWbnuW8uQogICAg5aGR5oCnKHBsYXN0aWMpICAg6ICX5pWjIOKGkiDkuI3ov5Tlm54gIOKGkiDlkLjog73nm5LljovmuoPvvIzkuIDmrKHmgKcKICAgIOKYhSDlkLjog73nm5LmmK/jgJDloZHmgKfjgJHvvJrnibrnibLnu5PmnoTmjaLml7bpl7TvvIzkuI3lj6/mgaLlpI0KCuKYheKYhSDkuI7liY3luo/nmoTlhbPns7sKICAgIOKYhTE3IOaXtumXtOWPjea8lCB2cyDlkIzlkJHmr5TovoMgIOKAlOKAlCDlv4XpobvkuKTkuKrkuIDotbfnnIsKICAgIOKYhTQ2IOWQjue9ruS4ouW8gyB2cyDnlJ/nianliY3nva7ljovnvKkKICAgIOacrOi9riDliqDjgJDova/lnqvjgJHnrKzkuInnp43vvJrniannkIbnu5PmnoTlsYLvvIzkuI3mmK/nrpfms5XlsYIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IG51bXB5IGFzIG5wCgpGUyA9IDE2MDAwCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4gOOAgeWGsumHjyAvIOWzsOWAvCDigJTigJQg5a6I5oGS5b6L5bel5YW3CiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGltcHVsc2UoeTogbnAubmRhcnJheSwgZnM6IGludCA9IEZTKSAtPiBmbG9hdDoKICAgICIiIkogPSDiiKt8RnwgZHQg4oCU4oCUIOaAu+WGsumHjyIiIgogICAgcmV0dXJuIGZsb2F0KG5wLmFicyh5KS5zdW0oKSAvIGZzKQoKCmRlZiBwZWFrKHk6IG5wLm5kYXJyYXkpIC0+IGZsb2F0OgogICAgcmV0dXJuIGZsb2F0KG5wLmFicyh5KS5tYXgoKSkKCgpkZWYgZWZmZWN0aXZlX2R1cmF0aW9uKHk6IG5wLm5kYXJyYXksIGZzOiBpbnQgPSBGUywKICAgICAgICAgICAgICAgICAgICAgICBmcmFjOiBmbG9hdCA9IDAuMTApIC0+IGZsb2F0OgogICAgIiIiCiAgICDimIUg5pyJ5pWI5L2c55So5pe26Ze0IM6UdO+8mui2hei/h+WzsOWAvCBmcmFjIOeahOmCo+auteaXtumXtAogICAgICDimIUg6L2v5Z6r55qE5L2c55So5bCx5piv5oqK6L+Z5q615ouJ6ZW/CiAgICAiIiIKICAgIGEgPSBucC5hYnMoeSkKICAgIGlmIGEubWF4KCkgPD0gMDoKICAgICAgICByZXR1cm4gMC4wCiAgICBtID0gYSA+IGZyYWMgKiBhLm1heCgpCiAgICByZXR1cm4gZmxvYXQobS5zdW0oKSAvIGZzKQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuozjgIHimIUg6L2v5Z6rIOKAlOKAlCDlvLnnsKct6Zi75bC877yI5Yay6YeP5a6I5oGS77yM5bOw5YC85LiL6ZmN77yJCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGN1c2hpb24oeTogbnAubmRhcnJheSwgZnM6IGludCA9IEZTLCB0YXVfbXM6IGZsb2F0ID0gMzAuMCwKICAgICAgICAgICAgemV0YTogZmxvYXQgPSAxLjApIC0+IG5wLm5kYXJyYXk6CiAgICAiIiIKICAgIOKYhSDova/lnqsgPSDkuozpmLbkvY7pgJrvvIjlvLnnsKct6Zi75bC877yJ77yMREMg5aKe55uKID0gMQogICAgICDimIXimIUgREMg5aKe55uKIDEg4oaSIOWGsumHj+WuiOaBku+8iOKIqyDkuI3lj5jvvInvvIzlj6rmiorohInlhrLlnKjml7bpl7TkuIrmkYrlvIAKICAgICAg4piFIOi/meWwseaYryLova/lnqvkuI3mlLnlj5jmkp7kuobkvaDlpJrph43vvIzlj6rmlLnlj5jmkp7lvpflpJrlv6siCgogICAgICB6ZXRhPTEuMCAg5Li055WM6Zi75bC8ICAg5peg5Zue5by577yI5ZC46IO955uS77yM5aGR5oCn6L+R5Ly877yJCiAgICAgIHpldGE8MS4wICDmrKDpmLvlsLwgICAgIOacieWbnuW8ue+8iOW8ueewp++8jOW8ueaAp++8iQogICAgIiIiCiAgICB0YXUgPSBtYXgoMS4wLCB0YXVfbXMgKiBmcyAvIDEwMDAuMCkKICAgICMg5LqM6Zi26L+e57ut57O757uf56a75pWj5YyW77ya55So5Lik5Liq5LiA6Zi257qn6IGU6L+R5Ly877yI5L+d6K+BIERDIOWinuebij0x77yJCiAgICBuID0gbWF4KDIsIGludCh0YXUgKiA2KSkKICAgIHQgPSBucC5hcmFuZ2UobikgLyBmcwogICAgdzAgPSAxLjAgLyAodGF1X21zIC8gMTAwMC4wKQogICAgaWYgemV0YSA8PSAwOgogICAgICAgIHpldGEgPSAwLjAxCiAgICAjIOS4tOeVjC/ov4fpmLvlsLzvvJrlj4zmjIfmlbDvvJvmrKDpmLvlsLzvvJroobDlh4/mraPlvKYKICAgIGlmIHpldGEgPj0gMS4wOgogICAgICAgIGExID0gdzAgKiAoemV0YSArIG5wLnNxcnQoemV0YSAqKiAyIC0gMSkpCiAgICAgICAgYTIgPSB3MCAqICh6ZXRhIC0gbnAuc3FydCh6ZXRhICoqIDIgLSAxKSkKICAgICAgICBpZiBhYnMoYTEgLSBhMikgPCAxZS05OgogICAgICAgICAgICBoID0gKGExICoqIDIpICogdCAqIG5wLmV4cCgtYTEgKiB0KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGggPSAoYTEgKiBhMiAvIChhMiAtIGExKSkgKiAobnAuZXhwKC1hMSAqIHQpIC0gbnAuZXhwKC1hMiAqIHQpKQogICAgZWxzZToKICAgICAgICB3ZCA9IHcwICogbnAuc3FydCgxIC0gemV0YSAqKiAyKQogICAgICAgIGggPSAodzAgKiogMiAvIHdkKSAqIG5wLmV4cCgtemV0YSAqIHcwICogdCkgKiBucC5zaW4od2QgKiB0KQogICAgaCA9IG5wLm1heGltdW0oaCwgMC4wKSAgICAgICAgICAgICAjIOKYhSDlj6rlj5bmraPnk6PvvIzpgb/lhY3otJ/nk6PmirXmtojlhrLph48KICAgIHMgPSBoLnN1bSgpCiAgICBpZiBzIDw9IDA6CiAgICAgICAgcmV0dXJuIHkuY29weSgpCiAgICBoID0gaCAvIHMgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOKYheKYhSDlvZLkuIDljJYg4oaSIERDIOWinuebiiA9IDEg4oaSIOWGsumHj+WuiOaBkgogICAgIyDimIXimIUg5L+uIGJ1Z++8muWOn+adpSBbOmxlbih5KV0g5oiq5patIOKGkiDooqvmkYrliLDlkI7pnaLnmoTlhrLph4/lhajkuKLkuobvvIgtOS41Je+8iQogICAgIyAgICDniannkIbkuIrova/lnqvjgJDlu7bplb/jgJHkuobkvZznlKjml7bpl7TvvIzovpPlh7rlsLHor6Xmm7Tplb/vvIzmiKrlm57ljp/plb/lv4XnhLbkuKLlhrLph48KICAgIHJldHVybiBucC5jb252b2x2ZSh5LCBoLCBtb2RlPSJmdWxsIikKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LiJ44CB4piFIOWPjeW6lOacuuaehCDigJTigJQg5Li75Yqo77yM5pyJ5r2c5LyP5pyfCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIHJlZmxleF9hY3R1YXRvcih5OiBucC5uZGFycmF5LCBmczogaW50ID0gRlMsIGxhdGVuY3lfbXM6IGZsb2F0ID0gMzAuMCwKICAgICAgICAgICAgICAgICAgICBhdHRlbl9kYjogZmxvYXQgPSAxNS4wLCB0YXVfbXM6IGZsb2F0ID0gNDAuMCwKICAgICAgICAgICAgICAgICAgICB0aHJlc2hfZnJhYzogZmxvYXQgPSAwLjMwKSAtPiB0dXBsZToKICAgICIiIgogICAg4piFIOWPjeW6lOacuuaehO+8muajgOa1i+WIsOaSnuWHuyDihpIg5Li75Yqo6KGw5YePCiAgICAgIOKYhSDkuI7ova/lnqvnmoTljLrliKvvvJoKICAgICAgICDova/lnqsgIOiiq+WKqOOAgeeJqeeQhuOAgeeri+WIu+eUn+aViO+8iOS9huimgSLljovkuIvljrsi55qE5pe26Ze077yJCiAgICAgICAg5Y+N5bqUICDkuLvliqjjgIHmnInjgJDmvZzkvI/mnJ/jgJHihpIg5r2c5LyP5pyf5YaF5a6M5YWo5rKh5L+d5oqkCiAgICAgIOKYheKYhSDmiYDku6XkuKTogIXkupLooaXvvJoKICAgICAgICDova/lnqvmiZvnrKzkuIDkuIvvvIjlm6DkuLrooqvliqjml6Dlu7bov5/vvIkKICAgICAgICDlj43lupTmiZvlkI7nu63vvIjlm6DkuLroobDlh4/mm7Tmt7HvvIkKICAgICIiIgogICAgbiA9IGxlbih5KQogICAgYSA9IG5wLmFicyh5KQogICAgaWYgYS5tYXgoKSA8PSAwOgogICAgICAgIHJldHVybiB5LmNvcHkoKSwgbnAuemVyb3MobikKICAgIGxhdCA9IGludChsYXRlbmN5X21zICogZnMgLyAxMDAwLjApCiAgICB0YXUgPSBtYXgoMS4wLCB0YXVfbXMgKiBmcyAvIDEwMDAuMCkKICAgICMg4piF4piFIOS/riBidWfvvJrljp/mnaUgZ19kYiDku47mlbDnu4TjgJDnrKww5Liq5qC35pys44CR5bCx5byA5aeL5bu656uLCiAgICAjICAgIOaSnuWHu+WcqCB0MD0wLjIwc++8jOetieWIsOaSnuWHu+adpeaXtuihsOWHj+aXqeW3suWIsOS9jSDihpIg5r2c5LyP5pyf5a6M5YWo5LiN6LW35L2c55SoCiAgICAjICAgIO+8iOWunua1i+Wbm+enjea9nOS8j+acn+WzsOWAvOWFqOaYryAwLjE4MDPvvIzkuIDmqKHkuIDmoLcgPSDmvZzkvI/mnJ/mmK/mrbvnmoTvvIkKICAgICMg4pyFIOato+ehruivreS5ie+8muajgOa1i+WIsOaSnuWHuyBvbnNldCDkuYvlkI7vvIzmiY3lvIDlp4vnrYnmvZzkvI/mnJ8KICAgIG9uc2V0ID0gaW50KG5wLmFyZ21heChhID4gdGhyZXNoX2ZyYWMgKiBhLm1heCgpKSkKICAgIHRhcmdldF9kYiA9IGF0dGVuX2RiCiAgICBnX2RiID0gbnAuemVyb3MobikKICAgIGZvciBpIGluIHJhbmdlKG9uc2V0LCBuKToKICAgICAgICBzdGVwID0gKHRhcmdldF9kYiAtIGdfZGJbaSAtIDFdKSAvIHRhdSBpZiBpID4gMCBlbHNlIDAuMAogICAgICAgIGdfZGJbaV0gPSBnX2RiW2kgLSAxXSArIHN0ZXAKICAgIGdfZGJbOm9uc2V0ICsgbGF0XSA9IDAuMCAgICAgICAgICAgICMg4piFIOa9nOS8j+acn+WGhembtuihsOWHjwogICAgZ2FpbiA9IDEwLjAgKiogKC1nX2RiIC8gMjAuMCkKICAgIHJldHVybiB5ICogZ2FpbiwgZ2FpbgoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDlm5vjgIHimIUg5a6J5YWo6Iix77ya6K+l56Gs55qE5Zyw5pa556GsCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIHNhZmV0eV9jZWxsKHk6IG5wLm5kYXJyYXksIGZzOiBpbnQgPSBGUywgcHJvdGVjdF9mcmFjOiBmbG9hdCA9IDAuMjAsCiAgICAgICAgICAgICAgICBjdXNoaW9uX3RhdV9tczogZmxvYXQgPSAzMC4wKSAtPiBucC5uZGFycmF5OgogICAgIiIiCiAgICDimIUg5a6J5YWo6Iix5oCd5oOz77ya5LiN5piv5YWo6L2v77yM5piv44CQ5YiG5Yy644CRCiAgICAgIOS/neaKpOaguOW/gyjliY0gcHJvdGVjdF9mcmFjKSAg4oaSIOS4jei9r+WMlu+8iOS/neaMgeS/oeaBry/nsr7luqbvvIkKICAgICAg5YW25L2Z77yI5Y+v54m654my6YOo5YiG77yJICAgICAgICDihpIg6L2v5YyW5ZC46IO9CiAgICAgIOKYhSDmsb3ovabvvJrkuZjlrqLoiLHliJrmgKcgKyDliY3lkI7lkLjog73nm5LljovmuoMKICAgICIiIgogICAgbiA9IGxlbih5KQogICAgayA9IG1heCgxLCBpbnQobiAqIHByb3RlY3RfZnJhYykpCiAgICBjb3JlID0geVs6a10uY29weSgpICAgICAgICAgICAgICAgICAjIOehrO+8muWOn+agt+S/neeVmQogICAgcmVzdCA9IGN1c2hpb24oeVtrOl0sIGZzLCB0YXVfbXM9Y3VzaGlvbl90YXVfbXMpCiAgICByZXR1cm4gbnAuY29uY2F0ZW5hdGUoW2NvcmUsIHJlc3RdKQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkupTjgIHimIUg6YCg5pKe5Ye777yIZ3JvdW5kIHRydXRo77ya5Yay6YeP5bey55+l77yJCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIG1ha2VfaW1wYWN0KGZzOiBpbnQgPSBGUywgZHVyOiBmbG9hdCA9IDAuNiwgdDA6IGZsb2F0ID0gMC4yMCwKICAgICAgICAgICAgICAgIHdpZHRoX21zOiBmbG9hdCA9IDguMCwgYW1wOiBmbG9hdCA9IDEuMCwKICAgICAgICAgICAgICAgIG5vaXNlOiBmbG9hdCA9IDAuMDAyLCBzZWVkOiBpbnQgPSAwKSAtPiBucC5uZGFycmF5OgogICAgIiIiCiAgICDimIUg5pKe5Ye76ISJ5Yay77ya56qE6auY5pav77yM5Yay6YePID0gYW1wIMOXIOmdouenr++8iOW3suefpSBncm91bmQgdHJ1dGjvvIkKICAgICAgd2lkdGhfbXM9OCAgIOKGkiDliJrmgKfnorDmkp4KICAgICAg4piFIOWQjumdoueUqOi9r+Weq+aKiuWug+aLiemVv+WIsCB+ODBtcwogICAgIiIiCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIG4gPSBpbnQoZHVyICogZnMpCiAgICB0ID0gbnAuYXJhbmdlKG4pIC8gZnMKICAgIHcgPSB3aWR0aF9tcyAvIDEwMDAuMAogICAgeSA9IGFtcCAqIG5wLmV4cCgtKCh0IC0gdDApICoqIDIpIC8gKDIgKiAodyAvIDIuMzU1KSAqKiAyKSkgICMgRldITT13aWR0aAogICAgeSA9IHkgKyBub2lzZSAqIHJuZy5zdGFuZGFyZF9ub3JtYWwobikKICAgIHJldHVybiB5Cg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★47b 撞击层 —— 软垫 / 吸能 / 反应机构
+================================================================
+★★★ 用户洞察
+    "可以加置软垫或者加置什么什么有一个弹性，嗯，就像撞击实验，
+     车撞击实验，因为毕竟跟人不一样嘛。或者是也给它加一个反应机构"
+
+★★ 三条路（这是本轮的核心结构）
+    生物：  前置压缩（镫骨肌反射）  —— 有潜伏期，第一下过冲
+    我的：  后置丢弃（★46）        —— 停止溢出，但信息全丢
+    ★ 用户给的第三条（硅基特有）：
+            软垫/吸能 —— 物理结构层，不改变信息，改变力的传递
+
+★★★ 撞击实验的核心物理（不是比喻，是可验证的守恒律）
+    冲量  J = ∫F dt      固定（撞多重就是多重）
+    峰值  F_peak ≈ J/Δt
+    ★ 软垫【不能】改变 J —— 它只能延长 Δt 来降低 F_peak
+    ★★★ 这是可证伪的判据：
+        如果软垫方案下冲量也变了 → 说明我作弊了（偷偷丢了东西）
+
+★ 汽车撞击实验真参数（REAL）
+    刚性墙碰撞      Δt ≈ 10 ms，峰值 100 g+
+    带吸能盒        Δt ≈ 100 ms，峰值 30~50 g     ★ 降 3~10 倍
+    气囊展开        ~30 ms
+    安全舱(safety cell) 刚性 —— 该硬的地方硬，该软的地方软
+    50 g 是伤害阈值
+
+★ 关键区分（★ 别混）
+    弹性(elastic)   储能 → 返回    → 会回弹
+    塑性(plastic)   耗散 → 不返回  → 吸能盒压溃，一次性
+    ★ 吸能盒是【塑性】：牺牲结构换时间，不可恢复
+
+★★ 与前序的关系
+    ★17 时间反演 vs 同向比较  —— 必须两个一起看
+    ★46 后置丢弃 vs 生物前置压缩
+    本轮 加【软垫】第三种：物理结构层，不是算法层
+"""
+from __future__ import annotations
+import numpy as np
+
+FS = 16000
+
+
+# =================================================================
+# 一、冲量 / 峰值 —— 守恒律工具
+# =================================================================
+def impulse(y: np.ndarray, fs: int = FS) -> float:
+    """J = ∫|F| dt —— 总冲量"""
+    return float(np.abs(y).sum() / fs)
+
+
+def peak(y: np.ndarray) -> float:
+    return float(np.abs(y).max())
+
+
+def effective_duration(y: np.ndarray, fs: int = FS,
+                       frac: float = 0.10) -> float:
+    """
+    ★ 有效作用时间 Δt：超过峰值 frac 的那段时间
+      ★ 软垫的作用就是把这段拉长
+    """
+    a = np.abs(y)
+    if a.max() <= 0:
+        return 0.0
+    m = a > frac * a.max()
+    return float(m.sum() / fs)
+
+
+# =================================================================
+# 二、★ 软垫 —— 弹簧-阻尼（冲量守恒，峰值下降）
+# =================================================================
+def cushion(y: np.ndarray, fs: int = FS, tau_ms: float = 30.0,
+            zeta: float = 1.0) -> np.ndarray:
+    """
+    ★ 软垫 = 二阶低通（弹簧-阻尼），DC 增益 = 1
+      ★★ DC 增益 1 → 冲量守恒（∫ 不变），只把脉冲在时间上摊开
+      ★ 这就是"软垫不改变撞了你多重，只改变撞得多快"
+
+      zeta=1.0  临界阻尼   无回弹（吸能盒，塑性近似）
+      zeta<1.0  欠阻尼     有回弹（弹簧，弹性）
+    """
+    tau = max(1.0, tau_ms * fs / 1000.0)
+    # 二阶连续系统离散化：用两个一阶级联近似（保证 DC 增益=1）
+    n = max(2, int(tau * 6))
+    t = np.arange(n) / fs
+    w0 = 1.0 / (tau_ms / 1000.0)
+    if zeta <= 0:
+        zeta = 0.01
+    # 临界/过阻尼：双指数；欠阻尼：衰减正弦
+    if zeta >= 1.0:
+        a1 = w0 * (zeta + np.sqrt(zeta ** 2 - 1))
+        a2 = w0 * (zeta - np.sqrt(zeta ** 2 - 1))
+        if abs(a1 - a2) < 1e-9:
+            h = (a1 ** 2) * t * np.exp(-a1 * t)
+        else:
+            h = (a1 * a2 / (a2 - a1)) * (np.exp(-a1 * t) - np.exp(-a2 * t))
+    else:
+        wd = w0 * np.sqrt(1 - zeta ** 2)
+        h = (w0 ** 2 / wd) * np.exp(-zeta * w0 * t) * np.sin(wd * t)
+    h = np.maximum(h, 0.0)             # ★ 只取正瓣，避免负瓣抵消冲量
+    s = h.sum()
+    if s <= 0:
+        return y.copy()
+    h = h / s                           # ★★ 归一化 → DC 增益 = 1 → 冲量守恒
+    # ★★ 修 bug：原来 [:len(y)] 截断 → 被摊到后面的冲量全丢了（-9.5%）
+    #    物理上软垫【延长】了作用时间，输出就该更长，截回原长必然丢冲量
+    return np.convolve(y, h, mode="full")
+
+
+# =================================================================
+# 三、★ 反应机构 —— 主动，有潜伏期
+# =================================================================
+def reflex_actuator(y: np.ndarray, fs: int = FS, latency_ms: float = 30.0,
+                    atten_db: float = 15.0, tau_ms: float = 40.0,
+                    thresh_frac: float = 0.30) -> tuple:
+    """
+    ★ 反应机构：检测到撞击 → 主动衰减
+      ★ 与软垫的区别：
+        软垫  被动、物理、立刻生效（但要"压下去"的时间）
+        反应  主动、有【潜伏期】→ 潜伏期内完全没保护
+      ★★ 所以两者互补：
+        软垫扛第一下（因为被动无延迟）
+        反应扛后续（因为衰减更深）
+    """
+    n = len(y)
+    a = np.abs(y)
+    if a.max() <= 0:
+        return y.copy(), np.zeros(n)
+    lat = int(latency_ms * fs / 1000.0)
+    tau = max(1.0, tau_ms * fs / 1000.0)
+    # ★★ 修 bug：原来 g_db 从数组【第0个样本】就开始建立
+    #    撞击在 t0=0.20s，等到撞击来时衰减早已到位 → 潜伏期完全不起作用
+    #    （实测四种潜伏期峰值全是 0.1803，一模一样 = 潜伏期是死的）
+    # ✅ 正确语义：检测到撞击 onset 之后，才开始等潜伏期
+    onset = int(np.argmax(a > thresh_frac * a.max()))
+    target_db = atten_db
+    g_db = np.zeros(n)
+    for i in range(onset, n):
+        step = (target_db - g_db[i - 1]) / tau if i > 0 else 0.0
+        g_db[i] = g_db[i - 1] + step
+    g_db[:onset + lat] = 0.0            # ★ 潜伏期内零衰减
+    gain = 10.0 ** (-g_db / 20.0)
+    return y * gain, gain
+
+
+# =================================================================
+# 四、★ 安全舱：该硬的地方硬
+# =================================================================
+def safety_cell(y: np.ndarray, fs: int = FS, protect_frac: float = 0.20,
+                cushion_tau_ms: float = 30.0) -> np.ndarray:
+    """
+    ★ 安全舱思想：不是全软，是【分区】
+      保护核心(前 protect_frac)  → 不软化（保持信息/精度）
+      其余（可牺牲部分）        → 软化吸能
+      ★ 汽车：乘客舱刚性 + 前后吸能盒压溃
+    """
+    n = len(y)
+    k = max(1, int(n * protect_frac))
+    core = y[:k].copy()                 # 硬：原样保留
+    rest = cushion(y[k:], fs, tau_ms=cushion_tau_ms)
+    return np.concatenate([core, rest])
+
+
+# =================================================================
+# 五、★ 造撞击（ground truth：冲量已知）
+# =================================================================
+def make_impact(fs: int = FS, dur: float = 0.6, t0: float = 0.20,
+                width_ms: float = 8.0, amp: float = 1.0,
+                noise: float = 0.002, seed: int = 0) -> np.ndarray:
+    """
+    ★ 撞击脉冲：窄高斯，冲量 = amp × 面积（已知 ground truth）
+      width_ms=8   → 刚性碰撞
+      ★ 后面用软垫把它拉长到 ~80ms
+    """
+    rng = np.random.default_rng(seed)
+    n = int(dur * fs)
+    t = np.arange(n) / fs
+    w = width_ms / 1000.0
+    y = amp * np.exp(-((t - t0) ** 2) / (2 * (w / 2.355) ** 2))  # FWHM=width
+    y = y + noise * rng.standard_normal(n)
+    return y

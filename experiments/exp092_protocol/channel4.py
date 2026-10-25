@@ -1,1 +1,84 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDkyIHYzIOKAlOKAlCDnlKjjgJDnnJ/lrp7mtYvlvpfnmoTlj6/ovr7mgKfnn6npmLXjgJHpqbHliqgK5a6e5rWL77yaR2l0SHViICBHVUkgMC84IOatuyDCtyDljY/orq4gOC84IOa0uwogICAgICBRUemCrueusSAgR1VJIDgvOCDmtLsgwrcg5Y2P6K6uIDAvOCDmrbsK5a6e5rWL5bu26L+f77yaR1VJKOa4suafkyvkuIrlsY8r6YeH6ZuGK09DUikgMS4zOTFzIMK3IOWNj+iurijnm7Tov55BUEkpIDAuMTI2cyDihpIgMTEuMXgg4oaSIDEx5ouNIHZzIDHmi40K5LiW55WM77ya5bmz5ruR5q2j5bym77yI5bey6aqM6K+B5Y+v5rS777yJCuadoeS7tu+8muWNlUdVSSAvIOWNleWNj+iuriAvIOWPjOmAmumBkyDDlyDnm67moIcoR2l0SHViLCBRUemCrueusSkKIiIiCmltcG9ydCBzeXMsIG9zLCBqc29uCmltcG9ydCBudW1weSBhcyBucApzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksJy4uJywnLi4nKSkKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQoKU1RFUFMsIFBFUklPRCA9IDYwMCwgODAKRExfRywgRExfUCA9IDExLCAxICAgICAgICAgICAgIyDlrp7mtYsgMTEuMXgKCiMg55yf5a6e5rWL5b6X55qE5Y+v6L6+5oCn77yIMD3pl6jlhbMgMT3pl6jlvIDvvIkKUkVBQ0ggPSB7ICAjICh0YXJnZXQpOiAoZ3VpX29rLCBwcm90b19vaykKICAgICdnaXRodWInOiAoMCwgMSksCiAgICAncXFtYWlsJzogKDEsIDApLAp9CgpkZWYgcnVuKHNlZWQsIHRhcmdldCwgY2hhbiwga19zZWVrX2Fycj0wLjYsIGFycl90aHI9MC41MCwgc2lnbWFfaW49MC4xMCwKICAgICAgICBrX2FjdD0wLjA1LCBkZWNheT0wLjA1KToKICAgIGd1aV9vaywgcHJvdG9fb2sgPSBSRUFDSFt0YXJnZXRdCiAgICBsaWZlPUxpZmU1KHNlZWQ9c2VlZCwgc2lnbWFfaW49c2lnbWFfaW4sIGtfc2Vlaz0wLjAsCiAgICAgICAgICAgICAgIGtfc2Vla19hcnI9a19zZWVrX2FyciwgYXJyX3Rocj1hcnJfdGhyKQogICAgYnVmPVswLjVdKihETF9HKzIpOyBmcm96ZW49Tm9uZTsgYWN0PTAuMAogICAgZm9yIHQgaW4gcmFuZ2UoU1RFUFMpOgogICAgICAgIHc9MC41KzAuMypucC5zaW4oMipucC5waSp0L1BFUklPRCkKICAgICAgICBidWYuYXBwZW5kKGZsb2F0KHcpKQogICAgICAgIGd2ID0gYnVmWy0xLURMX0ddIGlmIGd1aV9vayAgIGVsc2UgTm9uZQogICAgICAgIHB2ID0gYnVmWy0xLURMX1BdIGlmIHByb3RvX29rIGVsc2UgTm9uZQogICAgICAgIGlmICAgY2hhbj09J2d1aSc6ICAgIHYgPSBndgogICAgICAgIGVsaWYgY2hhbj09J3Byb3RvJzogIHYgPSBwdgogICAgICAgIGVsaWYgY2hhbj09J2R1YWwnOiAgIHYgPSBwdiBpZiBwdiBpcyBub3QgTm9uZSBlbHNlIGd2ICAgIyDljY/orq7kvJjlhYgo5L2O5bu26L+fKQogICAgICAgIGVsaWYgY2hhbj09J25vbmUnOiAgIHYgPSBOb25lCiAgICAgICAgZWxzZTogcmFpc2UgVmFsdWVFcnJvcihjaGFuKQogICAgICAgIGlmIHYgaXMgTm9uZTogICAgICAgICAgICAgICAgICAgICAgICMg6Zeo5YWz77ya5ou/5LiN5Yiw5paw5pWw5o2uIOKGkiDlhrvnu5MKICAgICAgICAgICAgdiA9IGZyb3plbiBpZiBmcm96ZW4gaXMgbm90IE5vbmUgZWxzZSAwLjUKICAgICAgICAgICAgZnJvemVuID0gdgogICAgICAgIGxpZmUuaW5wdXRfdmFsPWZsb2F0KHYpK2FjdCAgICAgICAgICAjIOKYheaViOW6lOWZqOWbnui3r++8muaJi+aUueWPmOaIkeiDveeci+WIsOS7gOS5iAogICAgICAgIHI9bGlmZS5zdGVwKCkKICAgICAgICBpZiByIGlzIE5vbmU6IGJyZWFrCiAgICAgICAgdGVuPWZsb2F0KGxpZmUuc3BbMF0tbGlmZS55WzBdKQogICAgICAgIGE9ZmxvYXQobnAuY2xpcChrX2FjdCp0ZW4sMC4wLDAuMTApKQogICAgICAgIGFjdD1mbG9hdChucC5jbGlwKGFjdCthLWRlY2F5KmFjdCwtMC41LDAuNSkpCiAgICBjYXA9bGlmZS5jYXBhY2l0eQogICAgcmV0dXJuIGRpY3Qoc2VlZD1pbnQoc2VlZCksIGFsaXZlPWJvb2wobGlmZS5hbGl2ZSksCiAgICAgICAgICAgICAgICBkZWF0aF90PShpbnQobGlmZS5kZWF0aF90KSBpZiBsaWZlLmRlYXRoX3QgaXMgbm90IE5vbmUgZWxzZSBOb25lKSwKICAgICAgICAgICAgICAgIHNrZXc9ZmxvYXQobnAuc3RkKGNhcCkvbWF4KG5wLm1lYW4oY2FwKSwxZS0xMikpKQoKZGVmIGNlbGwodGFyZ2V0LCBjaGFuLCBuPTE2KToKICAgIHJzPVtydW4ocyx0YXJnZXQsY2hhbikgZm9yIHMgaW4gcmFuZ2UobildCiAgICByZXR1cm4gZGljdCh0YXJnZXQ9dGFyZ2V0LCBjaGFuPWNoYW4sCiAgICAgICAgICAgICAgICBza2V3PWZsb2F0KG5wLm1lYW4oW3JbJ3NrZXcnXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgIGFsaXZlPWZsb2F0KG5wLm1lYW4oW3JbJ2FsaXZlJ10gZm9yIHIgaW4gcnNdKSksCiAgICAgICAgICAgICAgICBza2V3cz1bclsnc2tldyddIGZvciByIGluIHJzXSwgYWxpdmV2PVtyWydhbGl2ZSddIGZvciByIGluIHJzXSwgcnM9cnMpCgpkZWYgcGFpcmVkKGEsYixuYj00MDAwKToKICAgIGE9bnAuYXNhcnJheShhKTsgYj1ucC5hc2FycmF5KGIpOyBkPWEtYjsgbj1sZW4oZCkKICAgIHJuZz1ucC5yYW5kb20uZGVmYXVsdF9ybmcoMCkKICAgIGJzPW5wLmFycmF5KFtucC5tZWFuKHJuZy5jaG9pY2UoZCxuLFRydWUpKSBmb3IgXyBpbiByYW5nZShuYildKQogICAgbG8saGk9ZmxvYXQobnAucGVyY2VudGlsZShicywyLjUpKSxmbG9hdChucC5wZXJjZW50aWxlKGJzLDk3LjUpKQogICAgcmV0dXJuIGRpY3QoZGlmZj1mbG9hdChkLm1lYW4oKSksY2k9W2xvLGhpXSxzaWc9Ym9vbCgobG8+MCk9PShoaT4wKSksbj1pbnQobikpCgppZiBfX25hbWVfXz09J19fbWFpbl9fJzoKICAgIHJlcz17fQogICAgcHJpbnQoJz09PSDlrp7mtYvlj6/ovr7mgKfnn6npmLXpqbHliqggPT09JykKICAgIGZvciB0ZyBpbiAoJ2dpdGh1YicsJ3FxbWFpbCcpOgogICAgICAgIGZvciBjaCBpbiAoJ25vbmUnLCdndWknLCdwcm90bycsJ2R1YWwnKToKICAgICAgICAgICAgYz1jZWxsKHRnLGNoKTsgcmVzWyh0ZyxjaCldPWMKICAgICAgICAgICAgcHJpbnQoZid7dGc6OHN9IHtjaDo2c30gc2tldz17Y1sic2tldyJdOi42Zn0gYWxpdmU9e2NbImFsaXZlIl06LjNmfScpCiAgICBwcmludCgnXG49PT0g6YWN5a+5IGJvb3RzdHJhcO+8iOe7k+aehOWBj+W6pu+8iT09PScpCiAgICB0ZXN0cz1bKCgnZ2l0aHViJywnZ3VpJyksKCdnaXRodWInLCdkdWFsJyksJ+WGl+S9meaYr+WQpuaVkeWRvShHaXRIdWI6R1VJ6Zeo5YWzKScpLAogICAgICAgICAgICgoJ3FxbWFpbCcsJ3Byb3RvJyksKCdxcW1haWwnLCdkdWFsJyksJ+WGl+S9meaYr+WQpuaVkeWRvShRUTrljY/orq7pl6jlhbMpJyksCiAgICAgICAgICAgKCgnZ2l0aHViJywncHJvdG8nKSwoJ3FxbWFpbCcsJ2d1aScpLCfpgJrpgZPlvaLmgIE65Y2P6K6u5L2O5bu26L+fIHZzIEdVSemrmOW7tui/nycpLAogICAgICAgICAgICgoJ2dpdGh1YicsJ2d1aScpLCgnZ2l0aHViJywnbm9uZScpLCdHVUnpl6jlhbMg4omhIOaXoOmAmumBkz8nKSwKICAgICAgICAgICAoKCdxcW1haWwnLCdwcm90bycpLCgncXFtYWlsJywnbm9uZScpLCfljY/orq7pl6jlhbMg4omhIOaXoOmAmumBkz8nKV0KICAgIGZvciBhLGIsbGFiIGluIHRlc3RzOgogICAgICAgIHA9cGFpcmVkKHJlc1thXVsnc2tld3MnXSxyZXNbYl1bJ3NrZXdzJ10pCiAgICAgICAgcHJpbnQoZid7bGFiOjM4c30gZGlmZj17cFsiZGlmZiJdOisuNmZ9IENJPVt7cFsiY2kiXVswXTorLjRmfSx7cFsiY2kiXVsxXTorLjRmfV0gc2lnPXtwWyJzaWciXX0nKQogICAganNvbi5kdW1wKHtmJ3trWzBdfXx7a1sxXX0nOntrazp2diBmb3Iga2ssdnYgaW4gdi5pdGVtcygpIGlmIGtrIT0ncnMnfSBmb3Igayx2IGluIHJlcy5pdGVtcygpfSwKICAgICAgICAgICAgICBvcGVuKCdjaGFubmVsM19yZXN1bHQuanNvbicsJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+# -*- coding: utf-8 -*-
+"""092 v3 —— 用【真实测得的可达性矩阵】驱动
+实测：GitHub  GUI 0/8 死 · 协议 8/8 活
+      QQ邮箱  GUI 8/8 活 · 协议 0/8 死
+实测延迟：GUI(渲染+上屏+采集+OCR) 1.391s · 协议(直连API) 0.126s → 11.1x → 11拍 vs 1拍
+世界：平滑正弦（已验证可活）
+条件：单GUI / 单协议 / 双通道 × 目标(GitHub, QQ邮箱)
+"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__),'..','..'))
+from core.life5 import Life5
+
+STEPS, PERIOD = 600, 80
+DL_G, DL_P = 11, 1            # 实测 11.1x
+
+# 真实测得的可达性（0=门关 1=门开）
+REACH = {  # (target): (gui_ok, proto_ok)
+    'github': (0, 1),
+    'qqmail': (1, 0),
+}
+
+def run(seed, target, chan, k_seek_arr=0.6, arr_thr=0.50, sigma_in=0.10,
+        k_act=0.05, decay=0.05):
+    gui_ok, proto_ok = REACH[target]
+    life=Life5(seed=seed, sigma_in=sigma_in, k_seek=0.0,
+               k_seek_arr=k_seek_arr, arr_thr=arr_thr)
+    buf=[0.5]*(DL_G+2); frozen=None; act=0.0
+    for t in range(STEPS):
+        w=0.5+0.3*np.sin(2*np.pi*t/PERIOD)
+        buf.append(float(w))
+        gv = buf[-1-DL_G] if gui_ok   else None
+        pv = buf[-1-DL_P] if proto_ok else None
+        if   chan=='gui':    v = gv
+        elif chan=='proto':  v = pv
+        elif chan=='dual':   v = pv if pv is not None else gv   # 协议优先(低延迟)
+        elif chan=='none':   v = None
+        else: raise ValueError(chan)
+        if v is None:                       # 门关：拿不到新数据 → 冻结
+            v = frozen if frozen is not None else 0.5
+            frozen = v
+        life.input_val=float(v)+act          # ★效应器回路：手改变我能看到什么
+        r=life.step()
+        if r is None: break
+        ten=float(life.sp[0]-life.y[0])
+        a=float(np.clip(k_act*ten,0.0,0.10))
+        act=float(np.clip(act+a-decay*act,-0.5,0.5))
+    cap=life.capacity
+    return dict(seed=int(seed), alive=bool(life.alive),
+                death_t=(int(life.death_t) if life.death_t is not None else None),
+                skew=float(np.std(cap)/max(np.mean(cap),1e-12)))
+
+def cell(target, chan, n=16):
+    rs=[run(s,target,chan) for s in range(n)]
+    return dict(target=target, chan=chan,
+                skew=float(np.mean([r['skew'] for r in rs])),
+                alive=float(np.mean([r['alive'] for r in rs])),
+                skews=[r['skew'] for r in rs], alivev=[r['alive'] for r in rs], rs=rs)
+
+def paired(a,b,nb=4000):
+    a=np.asarray(a); b=np.asarray(b); d=a-b; n=len(d)
+    rng=np.random.default_rng(0)
+    bs=np.array([np.mean(rng.choice(d,n,True)) for _ in range(nb)])
+    lo,hi=float(np.percentile(bs,2.5)),float(np.percentile(bs,97.5))
+    return dict(diff=float(d.mean()),ci=[lo,hi],sig=bool((lo>0)==(hi>0)),n=int(n))
+
+if __name__=='__main__':
+    res={}
+    print('=== 实测可达性矩阵驱动 ===')
+    for tg in ('github','qqmail'):
+        for ch in ('none','gui','proto','dual'):
+            c=cell(tg,ch); res[(tg,ch)]=c
+            print(f'{tg:8s} {ch:6s} skew={c["skew"]:.6f} alive={c["alive"]:.3f}')
+    print('\n=== 配对 bootstrap（结构偏度）===')
+    tests=[(('github','gui'),('github','dual'),'冗余是否救命(GitHub:GUI门关)'),
+           (('qqmail','proto'),('qqmail','dual'),'冗余是否救命(QQ:协议门关)'),
+           (('github','proto'),('qqmail','gui'),'通道形态:协议低延迟 vs GUI高延迟'),
+           (('github','gui'),('github','none'),'GUI门关 ≡ 无通道?'),
+           (('qqmail','proto'),('qqmail','none'),'协议门关 ≡ 无通道?')]
+    for a,b,lab in tests:
+        p=paired(res[a]['skews'],res[b]['skews'])
+        print(f'{lab:38s} diff={p["diff"]:+.6f} CI=[{p["ci"][0]:+.4f},{p["ci"][1]:+.4f}] sig={p["sig"]}')
+    json.dump({f'{k[0]}|{k[1]}':{kk:vv for kk,vv in v.items() if kk!='rs'} for k,v in res.items()},
+              open('channel3_result.json','w'), ensure_ascii=False, indent=1)

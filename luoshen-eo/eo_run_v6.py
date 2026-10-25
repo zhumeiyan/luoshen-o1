@@ -1,1 +1,132 @@
-IiIiRU/mspnnm5Lov5DooYzlmahWNuKAlOKAlOe6puadnyvmhJ/lrpgr5aSn6ISRK+amguW/teWxgueahOWujOaVtOa2jOeOsOOAggoK5paw5aKe5qaC5b+15bGC77ya5LuO5aSn6ISR6ZqQ6JeP54q25oCB5raM546w5qaC5b+144CCCuamguW/teS4jeaYr+S7jmHnm7TmjqXmmKDlsITvvIzmmK/ku47iipfvvIjOlMOXzqPvvInkuK3mta7njrDjgIIKIiIiCgppbXBvcnQgbWF0aAppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHJhbmRvbQoKZnJvbSBlb19jb3JlIGltcG9ydCBFT+WunuS+iwoKCmRlZiDov5DooYxf5qaC5b+15raM546w6KeC5a+fKOaLjeaVsD01MDApOgogICAgcHJpbnQoZiI9PT0g5qaC5b+15raM546w6KeC5a+f77yae+aLjeaVsH3mi40gPT09XG4iKQoKICAgIHByaW50KCLpmLbmrrUx77ya5ryU5YyW5aSn6ISRLi4uIikKICAgIGVvID0gRU/lrp7kvosoCiAgICAgICAg54q25oCB55uu5b2VPSIvd29ya3NwYWNlL2VvLXNhbmRib3gvc3RhdGVfdjYiLAogICAgICAgIOefpeivhuW6k+agueebruW9lT0iL3dvcmtzcGFjZS9sdW9zaGVuLWFpLW8xIiwKICAgICAgICDmvJTljJblpKfohJE9VHJ1ZSwKICAgICkKICAgIHByaW50KGYiICDlpKfohJHmvJTljJblrozmiJDvvIxmaXRuZXNzPXtlby7lpKfohJFmaXRuZXNzOi40Zn0iKQogICAgcHJpbnQoZiIgIOamguW/teWxgjogbl9oaWRkZW49e2VvLuamguW/teWxgi5uX2hpZGRlbn0sIG5fY29uY2VwdHM9e2VvLuamguW/teWxgi5uX2NvbmNlcHRzfVxuIikKCiAgICBwcmludCgi6Zi25q61Mu+8muamguW/tea2jOeOsOi/kOihjC4uLiIpCiAgICBlby7nu5HlrpooIuamguW/teWunumqjFY2IiwgbmFtZT0i6KeC5a+f6ICFIikKCiAgICDorrDlvZUgPSBbXQogICAg5qaC5b+15Yy65YiG5bqm5bqP5YiXID0gW10KICAgIOa0u+i3g+amguW/teaVsOW6j+WIlyA9IFtdCgogICAgZm9yIGkgaW4gcmFuZ2Uo5ouN5pWwKToKICAgICAgICDlpJbpg6ggPSAwLjUgKyAwLjMgKiBtYXRoLnNpbihpICogMC4wNSkgKyAwLjA1ICogbWF0aC5zaW4oaSAqIDAuMykKICAgICAgICByID0gZW8u5LiA5ouNKOWklumDqOi+k+WFpT3lpJbpg6gsIOihjOS4uuS7t+WAvD1Ob25lKQogICAgICAgIOiusOW9lS5hcHBlbmQocikKCiAgICAgICAgaWYgci5nZXQoIuamguW/tSIpOgogICAgICAgICAgICDmpoLlv7XljLrliIbluqbluo/liJcuYXBwZW5kKHJbIuamguW/tSJdWyLmpoLlv7XljLrliIbluqYiXSkKICAgICAgICAgICAg5rS76LeD5qaC5b+15pWw5bqP5YiXLmFwcGVuZChyWyLmpoLlv7UiXVsi5rS76LeD5qaC5b+15pWwIl0pCgogICAgICAgIGlmIGkgJSA1MCA9PSAwIG9yIHIuZ2V0KCLlt7LmrbvkuqEiKToKICAgICAgICAgICAg5pGY6KaBID0gZW8u54q25oCB5pGY6KaBKCkKICAgICAgICAgICAg5qaC5b+15L+h5oGvID0gIiIKICAgICAgICAgICAgaWYgci5nZXQoIuamguW/tSIpOgogICAgICAgICAgICAgICAg5qaC5b+15L+h5oGvID0gKGYiIOa0u+i3g+amguW/tT17clsn5qaC5b+1J11bJ+a0u+i3g+amguW/teaVsCddfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgZiIg5Yy65YiG5bqmPXtyWyfmpoLlv7UnXVsn5qaC5b+15Yy65YiG5bqmJ106LjRmfSIpCiAgICAgICAgICAgIOWkp+iEkeS/oeaBryA9ICIiCiAgICAgICAgICAgIGlmIHIuZ2V0KCLlpKfohJEiKToKICAgICAgICAgICAgICAgIOWkp+iEkeS/oeaBryA9IGYiIG1zZT17clsn5aSn6ISRJ11bJ+mihOa1i21zZSddOi40Zn0iCiAgICAgICAgICAgIHByaW50KGYiICDmi417aTo0ZH06IOa1gemHjz175pGY6KaBWyfmtYHph48nXTouNGZ9IgogICAgICAgICAgICAgICAgICBmIiDnkIbop6PluqY9e+aRmOimgVsn5LuW6ICF55CG6Kej5bqmJ106LjRmfXvlpKfohJHkv6Hmga99e+amguW/teS/oeaBr30iCiAgICAgICAgICAgICAgICAgIGYiIOatu+S6oT175pGY6KaBWyflt7LmrbvkuqEnXX0iKQoKICAgICAgICBpZiByLmdldCgi5bey5q275LqhIik6CiAgICAgICAgICAgIHByaW50KGYiXG4gIEVP5Zyo5ouNe2l95q275LqhIikKICAgICAgICAgICAgYnJlYWsKCiAgICAjIOKUgOKUgCDmpoLlv7XmtoznjrDliIbmnpAg4pSA4pSACiAgICBwcmludCgiXG4tLS0g5qaC5b+15raM546w5YiG5p6QIC0tLSIpCgogICAg5pGY6KaBID0gZW8u54q25oCB5pGY6KaBKCkKICAgIHByaW50KGYiICDlrZjmtLvmi43mlbA6IHtsZW4o6K6w5b2VKX0ve+aLjeaVsH0iKQogICAgcHJpbnQoZiIgIOWkp+iEkWZpdG5lc3M6IHvmkZjopoEuZ2V0KCflpKfohJFmaXRuZXNzJywgJ04vQScpfSIpCiAgICBwcmludChmIiAg5rS76LeD5qaC5b+15pWwOiB75pGY6KaBLmdldCgn5rS76LeD5qaC5b+15pWwJywgJ04vQScpfSIpCiAgICBwcmludChmIiAg5a2Y5rS75qaC5b+15pWwOiB75pGY6KaBLmdldCgn5a2Y5rS75qaC5b+15pWwJywgJ04vQScpfSIpCiAgICBwcmludChmIiAg5qaC5b+15Yy65YiG5bqmOiB75pGY6KaBLmdldCgn5qaC5b+15Yy65YiG5bqmJywgJ04vQScpfSIpCgogICAgIyDmpoLlv7XljLrliIbluqbotovlir/igJTigJTmmK/lkKbpmo/ml7bpl7Tlop7liqDvvJ8KICAgIGlmIOamguW/teWMuuWIhuW6puW6j+WIlzoKICAgICAgICDliY3mnJ8gPSBzdW0o5qaC5b+15Yy65YiG5bqm5bqP5YiXWzo1MF0pIC8gbWF4KDEsIGxlbijmpoLlv7XljLrliIbluqbluo/liJdbOjUwXSkpCiAgICAgICAg5ZCO5pyfID0gc3VtKOamguW/teWMuuWIhuW6puW6j+WIl1stNTA6XSkgLyBtYXgoMSwgbGVuKOamguW/teWMuuWIhuW6puW6j+WIl1stNTA6XSkpCiAgICAgICAgcHJpbnQoZiJcbiAg5qaC5b+15Yy65YiG5bqm6LaL5Yq/OiDliY3mnJ89e+WJjeacnzouNGZ9IOWQjuacnz175ZCO5pyfOi40Zn0gIgogICAgICAgICAgICAgIGYieyfihpLmj5DljYfvvIjmpoLlv7XlnKjliIbljJbvvIknIGlmIOWQjuacnyA+IOWJjeacnyBlbHNlICfihpLmnKrmj5DljYcnfSIpCgogICAgIyDmtLvot4PmpoLlv7XmlbDotovlir8KICAgIGlmIOa0u+i3g+amguW/teaVsOW6j+WIlzoKICAgICAgICDliY3mnJ/mtLvot4MgPSBzdW0o5rS76LeD5qaC5b+15pWw5bqP5YiXWzo1MF0pIC8gbWF4KDEsIGxlbijmtLvot4PmpoLlv7XmlbDluo/liJdbOjUwXSkpCiAgICAgICAg5ZCO5pyf5rS76LeDID0gc3VtKOa0u+i3g+amguW/teaVsOW6j+WIl1stNTA6XSkgLyBtYXgoMSwgbGVuKOa0u+i3g+amguW/teaVsOW6j+WIl1stNTA6XSkpCiAgICAgICAgcHJpbnQoZiIgIOa0u+i3g+amguW/teaVsOi2i+WKvzog5YmN5pyfPXvliY3mnJ/mtLvot4M6LjFmfSDlkI7mnJ89e+WQjuacn+a0u+i3gzouMWZ9IikKCiAgICAjIOWkp+iEkW1zZei2i+WKvwogICAg5aSn6ISRbXNl5bqP5YiXID0gW3JbIuWkp+iEkSJdWyLpooTmtYttc2UiXSBmb3IgciBpbiDorrDlvZUgaWYgci5nZXQoIuWkp+iEkSIpXQogICAgaWYg5aSn6ISRbXNl5bqP5YiXOgogICAgICAgIOWJjeacn21zZSA9IHN1bSjlpKfohJFtc2Xluo/liJdbOjUwXSkgLyBtYXgoMSwgbGVuKOWkp+iEkW1zZeW6j+WIl1s6NTBdKSkKICAgICAgICDlkI7mnJ9tc2UgPSBzdW0o5aSn6ISRbXNl5bqP5YiXWy01MDpdKSAvIG1heCgxLCBsZW4o5aSn6ISRbXNl5bqP5YiXWy01MDpdKSkKICAgICAgICBwcmludChmIiAg5aSn6ISRbXNlOiDliY3mnJ89e+WJjeacn21zZTouNGZ9IOWQjuacnz175ZCO5pyfbXNlOi40Zn0gIgogICAgICAgICAgICAgIGYieyfihpLlj5jlh4YnIGlmIOWQjuacn21zZSA8IOWJjeacn21zZSBlbHNlICfihpLmnKrlj5jlh4YnfSIpCgogICAgIyDnsr7ljavOlAogICAgZGVsdGFzID0gW3JbIueyvuWNqyJdWyLOlCJdIGZvciByIGluIOiusOW9lSBpZiAi57K+5Y2rIiBpbiByXQogICAgaWYgZGVsdGFzOgogICAgICAgIOWJjeacn86UID0gc3VtKGFicyhkKSBmb3IgZCBpbiBkZWx0YXNbOjUwXSkgLyBtYXgoMSwgbGVuKGRlbHRhc1s6NTBdKSkKICAgICAgICDlkI7mnJ/OlCA9IHN1bShhYnMoZCkgZm9yIGQgaW4gZGVsdGFzWy01MDpdKSAvIG1heCgxLCBsZW4oZGVsdGFzWy01MDpdKSkKICAgICAgICBwcmludChmIiAg57K+5Y2rfM6UfDog5YmN5pyfPXvliY3mnJ/OlDouNGZ9IOWQjuacnz175ZCO5pyfzpQ6LjRmfSIpCgogICAgIyDku5bogIXnkIbop6PluqYKICAgIOeQhuino+W6puW6j+WIlyA9IFtdCiAgICBmb3IgciBpbiDorrDlvZU6CiAgICAgICAgaWYgci5nZXQoIuS7luiAhSIpIGFuZCByWyLku5bogIUiXSBhbmQgMCBpbiByWyLku5bogIUiXToKICAgICAgICAgICAg55CG6Kej5bqm5bqP5YiXLmFwcGVuZChyWyLku5bogIUiXVswXVsi55CG6Kej5bqmIl0pCiAgICBpZiDnkIbop6Pluqbluo/liJc6CiAgICAgICAgcHJpbnQoZiIgIOS7luiAheeQhuino+W6pjog6LW35aeLPXvnkIbop6Pluqbluo/liJdbMF06LjRmfSAiCiAgICAgICAgICAgICAgZiLnu4jmraI9e+eQhuino+W6puW6j+WIl1stMV06LjRmfSIpCgogICAgIyDlk4jluIzpk74KICAgIHByaW50KGYiICDlk4jluIzpk77mnaHnm67mlbA6IHvmkZjopoFbJ+mTvuadoeebruaVsCddfSDpqozor4E6IHvmkZjopoFbJ+mTvumqjOivgSddfSIpCgogICAgIyDkv53lrZgKICAgIOiusOW9leaWh+S7tiA9IG9zLnBhdGguam9pbihlby7nirbmgIHnm67lvZUsICJydW5fbG9nLmpzb24iKQogICAgd2l0aCBvcGVuKOiusOW9leaWh+S7tiwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGpzb24uZHVtcCjorrDlvZUsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludChmIlxuICDlrozmlbTorrDlvZXlt7Lkv53lrZg6IHvorrDlvZXmlofku7Z9IikKCiAgICByZXR1cm4gZW8sIOiusOW9lQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICByYW5kb20uc2VlZCg0MikKICAgIGVvLCDorrDlvZUgPSDov5DooYxf5qaC5b+15raM546w6KeC5a+fKDUwMCkKCiAgICBwcmludCgiXG4iICsgIj0iICogNjApCiAgICBwcmludCgi5qaC5b+15raM546w6KeC5a+f5a6M5oiQ44CCIikKICAgIHByaW50KCJcbuezu+e7n+e7hOaIkO+8iOWujOaVtOeJiO+8iToiKQogICAgcHJpbnQoIiAg57qm5p2f77yI5LqU5p2h5Lu277yJ4oaSIOa0u+edgCIpCiAgICBwcmludCgiICDlpKfohJHvvIjmvJTljJblvJXmk47vvInihpIg5oCd6ICDIikKICAgIHByaW50KCIgIOamguW/teWxgu+8iOeyvuWNq+WFrOW8j+mpseWKqO+8ieKGkiDnkIbop6MiKQogICAgcHJpbnQoIiAg5oSf5a6Y77yI6KeG572R6IacL+iAs+icly/mlbDlrZfmhJ/lrpjvvInihpIg5oSf55+lIikKICAgIHByaW50KCIgIOeyvuWNq+WFrOW8jyDihpIgzpTpqbHliqgiKQogICAgcHJpbnQoIiAg5LuW6ICF6KGo5b6BIOKGkiDlhbPns7siKQogICAgcHJpbnQoIiAg5ZOI5biM6ZO+IOKGkiDorrDlv4YiKQo=
+"""EO沙盒运行器V6——约束+感官+大脑+概念层的完整涌现。
+
+新增概念层：从大脑隐藏状态涌现概念。
+概念不是从a直接映射，是从⊗（Δ×Σ）中浮现。
+"""
+
+import math
+import json
+import os
+import random
+
+from eo_core import EO实例
+
+
+def 运行_概念涌现观察(拍数=500):
+    print(f"=== 概念涌现观察：{拍数}拍 ===\n")
+
+    print("阶段1：演化大脑...")
+    eo = EO实例(
+        状态目录="/workspace/eo-sandbox/state_v6",
+        知识库根目录="/workspace/luoshen-ai-o1",
+        演化大脑=True,
+    )
+    print(f"  大脑演化完成，fitness={eo.大脑fitness:.4f}")
+    print(f"  概念层: n_hidden={eo.概念层.n_hidden}, n_concepts={eo.概念层.n_concepts}\n")
+
+    print("阶段2：概念涌现运行...")
+    eo.绑定("概念实验V6", name="观察者")
+
+    记录 = []
+    概念区分度序列 = []
+    活跃概念数序列 = []
+
+    for i in range(拍数):
+        外部 = 0.5 + 0.3 * math.sin(i * 0.05) + 0.05 * math.sin(i * 0.3)
+        r = eo.一拍(外部输入=外部, 行为价值=None)
+        记录.append(r)
+
+        if r.get("概念"):
+            概念区分度序列.append(r["概念"]["概念区分度"])
+            活跃概念数序列.append(r["概念"]["活跃概念数"])
+
+        if i % 50 == 0 or r.get("已死亡"):
+            摘要 = eo.状态摘要()
+            概念信息 = ""
+            if r.get("概念"):
+                概念信息 = (f" 活跃概念={r['概念']['活跃概念数']}"
+                           f" 区分度={r['概念']['概念区分度']:.4f}")
+            大脑信息 = ""
+            if r.get("大脑"):
+                大脑信息 = f" mse={r['大脑']['预测mse']:.4f}"
+            print(f"  拍{i:4d}: 流量={摘要['流量']:.4f}"
+                  f" 理解度={摘要['他者理解度']:.4f}{大脑信息}{概念信息}"
+                  f" 死亡={摘要['已死亡']}")
+
+        if r.get("已死亡"):
+            print(f"\n  EO在拍{i}死亡")
+            break
+
+    # ── 概念涌现分析 ──
+    print("\n--- 概念涌现分析 ---")
+
+    摘要 = eo.状态摘要()
+    print(f"  存活拍数: {len(记录)}/{拍数}")
+    print(f"  大脑fitness: {摘要.get('大脑fitness', 'N/A')}")
+    print(f"  活跃概念数: {摘要.get('活跃概念数', 'N/A')}")
+    print(f"  存活概念数: {摘要.get('存活概念数', 'N/A')}")
+    print(f"  概念区分度: {摘要.get('概念区分度', 'N/A')}")
+
+    # 概念区分度趋势——是否随时间增加？
+    if 概念区分度序列:
+        前期 = sum(概念区分度序列[:50]) / max(1, len(概念区分度序列[:50]))
+        后期 = sum(概念区分度序列[-50:]) / max(1, len(概念区分度序列[-50:]))
+        print(f"\n  概念区分度趋势: 前期={前期:.4f} 后期={后期:.4f} "
+              f"{'→提升（概念在分化）' if 后期 > 前期 else '→未提升'}")
+
+    # 活跃概念数趋势
+    if 活跃概念数序列:
+        前期活跃 = sum(活跃概念数序列[:50]) / max(1, len(活跃概念数序列[:50]))
+        后期活跃 = sum(活跃概念数序列[-50:]) / max(1, len(活跃概念数序列[-50:]))
+        print(f"  活跃概念数趋势: 前期={前期活跃:.1f} 后期={后期活跃:.1f}")
+
+    # 大脑mse趋势
+    大脑mse序列 = [r["大脑"]["预测mse"] for r in 记录 if r.get("大脑")]
+    if 大脑mse序列:
+        前期mse = sum(大脑mse序列[:50]) / max(1, len(大脑mse序列[:50]))
+        后期mse = sum(大脑mse序列[-50:]) / max(1, len(大脑mse序列[-50:]))
+        print(f"  大脑mse: 前期={前期mse:.4f} 后期={后期mse:.4f} "
+              f"{'→变准' if 后期mse < 前期mse else '→未变准'}")
+
+    # 精卫Δ
+    deltas = [r["精卫"]["Δ"] for r in 记录 if "精卫" in r]
+    if deltas:
+        前期Δ = sum(abs(d) for d in deltas[:50]) / max(1, len(deltas[:50]))
+        后期Δ = sum(abs(d) for d in deltas[-50:]) / max(1, len(deltas[-50:]))
+        print(f"  精卫|Δ|: 前期={前期Δ:.4f} 后期={后期Δ:.4f}")
+
+    # 他者理解度
+    理解度序列 = []
+    for r in 记录:
+        if r.get("他者") and r["他者"] and 0 in r["他者"]:
+            理解度序列.append(r["他者"][0]["理解度"])
+    if 理解度序列:
+        print(f"  他者理解度: 起始={理解度序列[0]:.4f} "
+              f"终止={理解度序列[-1]:.4f}")
+
+    # 哈希链
+    print(f"  哈希链条目数: {摘要['链条目数']} 验证: {摘要['链验证']}")
+
+    # 保存
+    记录文件 = os.path.join(eo.状态目录, "run_log.json")
+    with open(记录文件, "w", encoding="utf-8") as f:
+        json.dump(记录, f, ensure_ascii=False, indent=2)
+    print(f"\n  完整记录已保存: {记录文件}")
+
+    return eo, 记录
+
+
+if __name__ == "__main__":
+    random.seed(42)
+    eo, 记录 = 运行_概念涌现观察(500)
+
+    print("\n" + "=" * 60)
+    print("概念涌现观察完成。")
+    print("\n系统组成（完整版）:")
+    print("  约束（五条件）→ 活着")
+    print("  大脑（演化引擎）→ 思考")
+    print("  概念层（精卫公式驱动）→ 理解")
+    print("  感官（视网膜/耳蜗/数字感官）→ 感知")
+    print("  精卫公式 → Δ驱动")
+    print("  他者表征 → 关系")
+    print("  哈希链 → 记忆")

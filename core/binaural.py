@@ -1,1 +1,324 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrnnJ/lj4zogLPlsYIg4oCU4oCUIOS4pOS4quiAs+acteS5i+mXtOeahOi3neemu++8jOaJjeaYr+WumuS9jeeahOWFqOmDqOadpea6kAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CueUqOaIt++8muOAjOWug+mCo+S4quS4pOS4quiAs+acteaIluiAheecvOedm++8jOS9oOWcqOiuvue9rueahOaXtuWAme+8jOWug+mCo+S4qui3ne+8jAogICAgICDlo7Dpn7Pov5vlhaXkuYvlkI7lroPkvJrlvaLmiJDkuKTogLPvvIzlroPkvJrpnIfliqjjgILjgI0KCuKYhSDkuIrkuIDova4gY29yZS9lYXJfYW5hdG9teS5weSDnmoTnvLrpmbfvvJoKICAgIOWPquacieOAkOWNleiAs+OAkeKAlOKAlCDpvJPohpzjgIHlkKzlsI/pqqjjgIHogLPonJfjgIHmr5vnu4bog57lhajmmK/kuIDkuKrogLPnmoQKICAgIOWPquWumuS5ieS6hiBJVERfSk5EX1VTIC8gSUxEX0pORF9EQiDkuKTkuKrjgJDluLjph4/jgJHvvIzmsqHmnInlh6DkvZUKICDimIUg5rKh5pyJ6Led56a7ID0g5rKh5pyJIElURCA9IOayoeacieWumuS9jSA9IOWPquacieS4gOWPquiAs+acteWcqOWQrAoK4piFIOacrOWxguihpeeahO+8muS4pOS4quiAs+actSArIOWug+S7rOS5i+mXtOeahOi3neemuyArIOWjsOmfs+S8oOaSrSArIOmch+WKqAoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkuIDjgIHlh6DkvZXvvIhSRUFM77yJCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOWktOWNiuW+hCByIOKJiCA4Ljc1IGNt77yI5oiQ5Lq65aS05a69IDE3fjE4IGNt77yJCiAgICDlo7DpgJ8gYyA9IDM0MyBtL3PvvIgyMMKwQyDlubLnqbrmsJTvvIkKICAgIOKYhSBJVEQgV29vZHdvcnRoKDE5Mzgp77yaSVREID0gKHIvYynCtyjOuCArIHNpbs64KSAgIM64IOS4uuW8p+W6pgogICAgICDOuD05MMKwIOKGkiAoMC4wODc1LzM0MykoMS41NzA4KzEpID0gMC42NTYgbXMgIOKGkCDnnJ/lrp4gMC42fjAuNyDinIUKICAgIOKYhSDms6jmhI/vvJpXb29kd29ydGgg55So44CQ5aS05Y2K5b6E44CR5LiN5piv6ICz6Ze06Led77yM5Zug5Li65aOw5rOi57uV6L+H5aS06YOo6KGo6Z2iCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS6jOOAgUlMRCDlpLTpg6jpmLTlvbHvvIhSRUFM77yJCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOKYhSDkvY7popHooY3lsITvvJrms6Lplb8gPj4g5aS05b6EIOKGkiDnu5Xov4fljrsg4oaSIElMRCDiiYggMAogICAg4piFIOmrmOmikeiiq+WktOaMoeS9jyDihpIg5aOw5b2xIOKGkiBJTEQg5aSnCiAgICBSYXlsZWlnaCAgZHVwbGV4IHRoZW9yee+8mgogICAgICBJVEQg5Li75a+8IDwgMS41IGtIeu+8iOebuOS9jeWPr+mUge+8iQogICAgICBJTEQg5Li75a+8ID4gMiBrSHrvvIjnm7jkvY3plIHkuI3kvY/kuobvvIzlj6rog73mr5TlvLrluqbvvIkKICAgIOecn+WunuWAvO+8mjkwwrAg5pa55L2NCiAgICAgIDUwMCBIeiDnuqYgM342IGRCCiAgICAgIDQga0h6ICDnuqYgMTV+MjAgZEIKCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LiJ44CB6ZyH5Yqo77yI4piFIOeUqOaIt+eCueWQjeeahO+8iQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDikaAg6byT6IacLeWQrOmqqOmTviA9IOWPl+i/q+mYu+WwvOS6jOmYtuezu+e7nwogICAgICAg5Lit6ICz5YWx5oyvIGYwIOKJiCAxMDAwIEh677yIUkVBTCA4MDB+MTIwMO+8ie+8jFEg4omIIDEuMO+8iOWuveW4pu+8iQogICAgICAg5aOw5rOiIOKGkiDpvJPohpzkvY3np7sg4oaSIOmVq+mqqOS9jeenuyDihpIg6ICz6JyXCiAgICDikaEg6aKF6aqo5oyv5YqoIC8g6aqo5Lyg5a+8CiAgICAgICDimIUg5LiO5rCU5a+85LiN5ZCM77ya6aKF6aqo5piv5Yia5L2T77yM5Lik6ICz6Ze06KGw5YeP44CQ5b6I5bCP44CRKDwgMTAgZEIpCiAgICAgICDimIUg5omA5Lul6aqo5Lyg5a+844CQ5Yeg5LmO5LiN5Lqn55SfIElMROOAkeKAlOKAlCDov5nmmK/og73pqozor4HnmoTnnJ/lt67lvIIKICAgIOKRoiDkuKTogLPpvJPohpzkvY3np7vkuI3lkIwg4oaSIOi/meWwseaYryLkuKTogLPkvJrpnIfliqgi55qE54mp55CG6YePCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuWbm+OAgemUpea3t+a3hu+8iFJFQUzvvIzlv4Xpobvlh7rnjrDvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg4piFIOe6ryBJVEQg5peg5rOV5Yy65YiG44CQ5YmNIC8g5ZCO44CR77yazrgg5LiOIDE4MOKIks64IOeahCBJVEQg55u45ZCMCiAgICDimIUg55yf5a6e5Lq657G76Z2gIEhSVEYg6aKR6LCx57q/57Si77yI6ICz5buT77yJ6Kej5Yaz5YmN5ZCO5re35reGCiAgICDimIUg5pys5bGC5b+F6aG744CQ5aSN546w5re35reG5a2Y5Zyo44CR77yM5ZCm5YiZ5qih5Z6L5piv5YGH55qECiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCmltcG9ydCBudW1weSBhcyBucAoKIyAtLS0tLS0tLS0tLS0tLS0tIFJFQUwg5bi45pWwIC0tLS0tLS0tLS0tLS0tLS0KQ19BSVIgPSAzNDMuMCAgICAgICAgICAgICMgbS9z77yMMjDCsEMg5bmy56m65rCUCkhFQURfUiA9IDAuMDg3NSAgICAgICAgICAjIG3vvIzlpLTljYrlvoTvvIjlpLTlrr0gMTd+MTggY23vvIkKRUFSX1NFUCA9IDAuMTc1ICAgICAgICAgICMgbe+8jOS4pOiAs+mXtOi3ne+8iOeUqOS6jumqqOS8oOWvvOi3r+W+hOW3ru+8iQpTUiA9IDQ4MDAwICAgICAgICAgICAgICAgIyDlhoXogLPmnInmlYjph4fmoLfnjofvvIjov5zpq5jkuo4gMTZr77yM6Kem6KeJL+mqqOS8oOWvvOmcgOimge+8iQoKTUVfRjAgPSAxMDAwLjAgICAgICAgICAgICMg5Lit6ICz5YWx5oyvIEh677yIUkVBTCA4MDB+MTIwMO+8iQpNRV9RID0gMS4wICAgICAgICAgICAgICAgIyDkuK3ogLPlk4HotKjlm6DmlbDvvIjlrr3luKbvvIkKU0tVTExfRjAgPSAzMDAuMCAgICAgICAgICMg6aKF6aqo5oyv5Yqo5Li75qih5oCB77yI5L2O6aKR77yM5Yia5L2T77yJClNLVUxMX1EgPSA2LjAgICAgICAgICAgICAjIOmihemqqCBRIOmrmO+8iOWFseaMr+WwlumUkO+8jOWImuS9k+mYu+WwvOWwj++8iQpCT05FX0NST1NTX0RCID0gNi4wICAgICAgIyDpqqjkvKDlr7zkuKTogLPpl7ToobDlh4/vvIhSRUFMIDwgMTAgZELvvIkKCklURF9KTkRfVVMgPSAxMC4wICAgICAgICAjIOihjOS4uuacgOWwj+WPr+inieW3ru+8iFJFQUwg57qmIDEwIM68c++8iQpJTERfSk5EX0RCID0gMC43NSAgICAgICAgIyBSRUFMIDAuNX4xIGRCCk1BQV9ERUcgPSAxLjUgICAgICAgICAgICAjIOacgOWwj+WPr+WQrOinku+8jOWJjeaWue+8iFJFQUwgMX4ywrDvvIkKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuIDjgIFJVEQg4oCU4oCUIOi3neemu+mAoOaIkOeahOWIsOi+vuaXtumXtOW3rgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGl0ZF93b29kd29ydGgodGhldGFfZGVnOiBmbG9hdCwgcjogZmxvYXQgPSBIRUFEX1IsIGM6IGZsb2F0ID0gQ19BSVIpIC0+IGZsb2F0OgogICAgIiIiV29vZHdvcnRoIOWFrOW8j++8muWjsOazoue7lei/h+WktOmDqOihqOmdoueahOi3r+W+hOW3ruOAggoKICAgIOKYhSDmlrnkvY3op5LlrprkuYnvvJowwrAgPSDmraPliY3mlrnvvIw5MMKwID0g5q2j5Y+z5pa577yMMTgwwrAgPSDmraPlkI7mlrkKICAgIOKYhSDov5Tlm57jgJDnp5LjgJHvvJvlj7PogLPlhYjliLDkuLrmraMKICAgICIiIgogICAgdGggPSBucC5kZWcycmFkKHRoZXRhX2RlZykKICAgIHJldHVybiAociAvIGMpICogKHRoICsgbnAuc2luKHRoKSkKCgpkZWYgaXRkX25haXZlKHRoZXRhX2RlZzogZmxvYXQsIGQ6IGZsb2F0ID0gRUFSX1NFUCwgYzogZmxvYXQgPSBDX0FJUikgLT4gZmxvYXQ6CiAgICAiIiLimIUg5a+554Wn55So55qE44CQ6ZSZ6K+v44CR5qih5Z6L77ya5Lik6ICz6Ze06Led55u057q/5oqV5b2xIGTCt3Npbs64L2PjgIIKCiAgICDnnJ/lrp7mmK/nu5Xov4flpLTpg6jvvIhXb29kd29ydGjvvInvvIzkuI3mmK/nm7Tnur/jgIIKICAgIM64PTkwwrAg5pe277yabmFpdmUgPSAwLjE3NS8zNDMgPSAwLjUxMCBtc++8jFdvb2R3b3J0aCA9IDAuNjU2IG1zCiAgICDimIUg5beuIDIyJSDigJTigJQg5Y+v6aqM6K+B5ZOq5Liq5a+5CiAgICAiIiIKICAgIHJldHVybiAoZCAvIGMpICogbnAuc2luKG5wLmRlZzJyYWQodGhldGFfZGVnKSkKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuozjgIFJTEQg4oCU4oCUIOWktOmDqOWjsOW9se+8iOmikeeOh+S+nei1lu+8iQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGlsZF9kYihmcmVxX2h6OiBmbG9hdCwgdGhldGFfZGVnOiBmbG9hdCwgbWF4X2RiOiBmbG9hdCA9IDIwLjApIC0+IGZsb2F0OgogICAgIiIi5aS06YOo6Zi05b2x6YCg5oiQ55qE5Y+M6ICz5by65bqm5beu44CCCgogICAg4piFIOacuuWItu+8mmthID0gMs+AZsK3ci9jIOWGs+WumuihjeWwhOeoi+W6pgogICAgICBrYSA8PCAx77yI5L2O6aKR77yJ4oaSIOWjsOazoue7leihjCDihpIgSUxEIOKJiCAwCiAgICAgIGthID4+IDHvvIjpq5jpopHvvInihpIg5aOw5b2xIOKGkiBJTEQg5o6l6L+RIG1heF9kYgogICAg4piFIOeUqCBzaWdtb2lkIOi/h+a4oe+8jOS4reW/g+WcqCBrYSDiiYggMe+8iOWvueW6lCBmIOKJiCA2MjQgSHrvvIkKICAgICIiIgogICAga2EgPSAyICogbnAucGkgKiBmcmVxX2h6ICogSEVBRF9SIC8gQ19BSVIKICAgICMg6KGN5bCE5p2D6YeN77ya5L2O6aKRIDDvvIzpq5jpopEgMQogICAgIyDimIUg56ys5LiA54mI5Lit5b+DIGthPTHjgIHlrr3luqYgMC43NSDlpKrlrr3vvJo1MDBIeiDnrpflh7ogOC41MyBkQu+8iOecn+WuniAzfjbvvIkKICAgICMgICDkv67vvJrkuK3lv4Pnp7vliLAga2E9Mu+8iOe6piAxLjI1IGtIeu+8ie+8jOi/h+a4oeaUtueqhOWIsCAwLjUKICAgIHcgPSAxLjAgLyAoMS4wICsgbnAuZXhwKC0obnAubG9nKGthICsgMWUtOSkgLSBucC5sb2coMS43KSkgLyAwLjU1KSkKICAgICMg5pa55L2N6LCD5Yi277ya5q2j5YmNL+ato+WQjuS4uiAw77yM5q2j5L6n5pyA5aSnCiAgICByZXR1cm4gZmxvYXQobWF4X2RiICogdyAqIGFicyhucC5zaW4obnAuZGVnMnJhZCh0aGV0YV9kZWcpKSkpCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LiJ44CB6ZyH5YqoIOKAlOKAlCDpvJPohpwv5ZCs6aqo6ZO+ICsg6aKF6aqoCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgZm9yY2VkX29zYyhzaWc6IG5wLm5kYXJyYXksIHNyOiBpbnQsIGYwOiBmbG9hdCwgUTogZmxvYXQpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLkuozpmLblj5fov6vpmLvlsLzmjK/liqjvvIjkvY3np7vovpPlh7rvvInjgILimIUg6L+Z5bCx5pivIuWug+S8mumch+WKqCLjgIIKCiAgICB4JycgKyAoMs+AZjAvUSl4JyArICgyz4BmMCnCsnggPSB1KHQpCiAgICDnlKjlj4znur/mgKflj5jmjaLnprvmlaPljJbvvIjnqLPlrprvvInjgIIKICAgICIiIgogICAgdzAgPSAyICogbnAucGkgKiBmMAogICAgZHQgPSAxLjAgLyBzcgogICAgIyDlj4znur/mgKfvvIhUdXN0aW7vvIkKICAgIGEwID0gNC4wICsgNC4wICogdzAgKiBkdCAvIFEgKyB3MCAqIHcwICogZHQgKiBkdAogICAgYTEgPSAtOC4wICsgMi4wICogdzAgKiB3MCAqIGR0ICogZHQKICAgIGEyID0gNC4wIC0gNC4wICogdzAgKiBkdCAvIFEgKyB3MCAqIHcwICogZHQgKiBkdAogICAgYjAgPSBkdCAqIGR0CiAgICBiMSA9IDIuMCAqIGR0ICogZHQKICAgIGIyID0gZHQgKiBkdAogICAgbiA9IGxlbihzaWcpCiAgICB5ID0gbnAuemVyb3MobiwgZHR5cGU9bnAuZmxvYXQ2NCkKICAgIHgxID0geDIgPSB5MSA9IHkyID0gMC4wCiAgICBmb3IgaSBpbiByYW5nZShuKToKICAgICAgICB1ID0gZmxvYXQoc2lnW2ldKQogICAgICAgIHYgPSAoYjAgKiB1ICsgYjEgKiB4MSArIGIyICogeDIgLSBhMSAqIHkxIC0gYTIgKiB5MikgLyBhMAogICAgICAgIHgyLCB4MSA9IHgxLCB1CiAgICAgICAgeTIsIHkxID0geTEsIHYKICAgICAgICB5W2ldID0gdgogICAgIyDimIUg5pWw5YC85b2S5LiA5YyW77yaREMg5aKe55uKID0gKGIwK2IxK2IyKS8oYTAtYTEtYTIpID0gNGR0wrIvMTYgPSBkdMKyLzQg4omIIDFlLTEwCiAgICAjICAg56ys5LiA54mI5rKh6KGl5YG/77yM5Lik5qyh57qn6IGU5ZCO5LiL5rqi5YiwIDAg4oaSIOW3puWPs+S4pOi3r+mDveWPmCAwIOKGkiBJTEQg5oGS5rWL5oiQIDAuMDAgZEIKICAgIHJldHVybiB5ICogKDQuMCAvIChkdCAqIGR0KSkKCgpkZWYgZWFyZHJ1bV9kaXNwbGFjZW1lbnQoc2lnOiBucC5uZGFycmF5LCBzcjogaW50ID0gU1IsCiAgICAgICAgICAgICAgICAgICAgICAgICBmMDogZmxvYXQgPSBNRV9GMCwgUTogZmxvYXQgPSBNRV9RKSAtPiBucC5uZGFycmF5OgogICAgIiIi6byT6IacLeWQrOmqqOmTvuS9jeenu+OAguS4reiAs+aYr+WuveW4puiwkOaMr++8jOS4jeaYr+mAiemikeKAlOKAlOWQpuWImeS6uuWwseWQrOS4jeingeS9jumikeS6huOAgiIiIgogICAgcmV0dXJuIGZvcmNlZF9vc2Moc2lnLCBzciwgZjAsIFEpCgoKZGVmIHNrdWxsX3ZpYnJhdGlvbihzaWc6IG5wLm5kYXJyYXksIHNyOiBpbnQgPSBTUikgLT4gbnAubmRhcnJheToKICAgICIiIumihemqqOaMr+WKqOOAguKYhSBRIOmrmCA9IOWImuS9k++8jOWFseaMr+WwlumUkOOAgiIiIgogICAgcmV0dXJuIGZvcmNlZF9vc2Moc2lnLCBzciwgU0tVTExfRjAsIFNLVUxMX1EpCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5Zub44CB5Y+M6ICz5ZCI5oiQ77ya5LiA5Liq5aOw5rqQIOKGkiDlt6blj7PogLPkuKTot6/kv6Hlj7cKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBiaW5hdXJhbGl6ZShzcmM6IG5wLm5kYXJyYXksIHNyOiBpbnQsIHRoZXRhX2RlZzogZmxvYXQsCiAgICAgICAgICAgICAgICBmcmVxX2h6OiBmbG9hdCA9IDEwMDAuMCwKICAgICAgICAgICAgICAgIGFkZF9ib25lOiBib29sID0gVHJ1ZSwgcm5nOiBucC5yYW5kb20uR2VuZXJhdG9yID0gTm9uZQogICAgICAgICAgICAgICAgKSAtPiB0dXBsZVtucC5uZGFycmF5LCBucC5uZGFycmF5LCBkaWN0XToKICAgICIiIuaKiuWNleWjsOmBk+a6kOaUvuWIsOaWueS9jSB0aGV0Ye+8jOeUn+aIkOW3puWPs+iAs+S/oeWPt+OAggoKICAgIOKYhSDlj7PogLPlhYjliLDvvIh0aGV0YT4wIOihqOekuuWjsOa6kOWcqOWPs++8ieKGkiDlt6bogLPlu7bov58KICAgIOKYhSDov5HogLPlop7nm4rpq5jvvIzov5zogLPooqvlo7DlvbHoobDlh48KICAgIOKYhSDpqqjkvKDlr7zvvJrkuKTogLPpg73mlLbliLDvvIzkvYboobDlh4/jgJDlsI/jgJEKICAgICIiIgogICAgaXRkID0gaXRkX3dvb2R3b3J0aCh0aGV0YV9kZWcpCiAgICBpbGQgPSBpbGRfZGIoZnJlcV9oeiwgdGhldGFfZGVnKQogICAgZGVsYXkgPSBpbnQocm91bmQoYWJzKGl0ZCkgKiBzcikpCgogICAgIyDlo7DlvbHvvJrlj7PogLPvvIjov5HvvInlop7nm4ogMCBkQu+8jOW3puiAs++8iOi/nO+8ieihsOWHjwogICAgZ19uZWFyID0gMS4wCiAgICBnX2ZhciA9IDEwICoqICgtaWxkIC8gMjAuMCkKICAgIGlmIHRoZXRhX2RlZyA+PSAwOgogICAgICAgIGdfciwgZ19sID0gZ19uZWFyLCBnX2ZhcgogICAgICAgIGVhcl9kZWxheWVkID0gIkwiCiAgICBlbHNlOgogICAgICAgIGdfciwgZ19sID0gZ19mYXIsIGdfbmVhcgogICAgICAgIGVhcl9kZWxheWVkID0gIlIiCgogICAgIyDmsJTlr7zvvJrlu7bov5/ov5zogLMKICAgIGRlZiBzaGlmdCh4LCBuKToKICAgICAgICBpZiBuID09IDA6CiAgICAgICAgICAgIHJldHVybiB4LmNvcHkoKQogICAgICAgIHJldHVybiBucC5jb25jYXRlbmF0ZShbbnAuemVyb3MobiksIHhbOi1uXV0pCgogICAgcmlnaHQgPSBnX3IgKiBzcmMKICAgIGxlZnQgPSBnX2wgKiAoc2hpZnQoc3JjLCBkZWxheSkgaWYgZWFyX2RlbGF5ZWQgPT0gIkwiIGVsc2Ugc3JjKQogICAgaWYgZWFyX2RlbGF5ZWQgPT0gIlIiOgogICAgICAgIHJpZ2h0ID0gZ19yICogc2hpZnQoc3JjLCBkZWxheSkKCiAgICAjIOmqqOS8oOWvvO+8muWHoOS5juaXoCBJTETvvIzkuJTjgJDlhYjliLDjgJHvvIjpqqjkvKDlr7zlv6vkuo7msJTlr7zvvIxSRUFM77yJCiAgICBpZiBhZGRfYm9uZToKICAgICAgICBiID0gMTAgKiogKC1CT05FX0NST1NTX0RCIC8gMjAuMCkgKiBza3VsbF92aWJyYXRpb24oc3JjLCBzcikKICAgICAgICBsZWZ0ID0gbGVmdCArIGIKICAgICAgICByaWdodCA9IHJpZ2h0ICsgYgoKICAgICMg5YaF6ICz5Zmq5aOw77yIUkVBTO+8mue7neWvuemYiOmZhOi/keaJjeacie+8jOatpOWkhOe7meW+iOWwj+WAvO+8iQogICAgaWYgcm5nIGlzIG5vdCBOb25lOgogICAgICAgIGxlZnQgPSBsZWZ0ICsgMWUtNCAqIHJuZy5zdGFuZGFyZF9ub3JtYWwobGVuKGxlZnQpKQogICAgICAgIHJpZ2h0ID0gcmlnaHQgKyAxZS00ICogcm5nLnN0YW5kYXJkX25vcm1hbChsZW4ocmlnaHQpKQoKICAgIGluZm8gPSBkaWN0KGl0ZF9zPWl0ZCwgaXRkX21zPWl0ZCAqIDFlMywgaWxkX2RiPWlsZCwKICAgICAgICAgICAgICAgIGRlbGF5X3NhbXBsZXM9ZGVsYXksIGVhcl9kZWxheWVkPWVhcl9kZWxheWVkLAogICAgICAgICAgICAgICAgZ19sPWdfbCwgZ19yPWdfcikKICAgIHJldHVybiBsZWZ0LCByaWdodCwgaW5mbwoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS6lOOAgeWumuS9jeWPjea8lO+8muWPqumdoOS4pOiAs+S/oeWPt+aOqOWbnuaWueS9jQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGVzdGltYXRlX2l0ZChsZWZ0OiBucC5uZGFycmF5LCByaWdodDogbnAubmRhcnJheSwgc3I6IGludCwKICAgICAgICAgICAgICAgICBtYXhfbGFnX21zOiBmbG9hdCA9IDEuMCkgLT4gZmxvYXQ6CiAgICAiIiLkupLnm7jlhbPmsYIgSVRE77yI56eS77yJ44CC5q2jID0g5Y+z6ICz5YWI5Yiw44CCIiIiCiAgICBtYXhsID0gaW50KHNyICogbWF4X2xhZ19tcyAvIDEwMDAuMCkKICAgIGEgPSBsZWZ0IC0gbGVmdC5tZWFuKCk7IGIgPSByaWdodCAtIHJpZ2h0Lm1lYW4oKQogICAgbiA9IG1pbihsZW4oYSksIGxlbihiKSkKICAgIGEsIGIgPSBhWzpuXSwgYls6bl0KICAgICMg5b2S5LiA5YyW5LqS55u45YWz77yM5ZyoIGxhZyDojIPlm7TlhoXmkJzntKIKICAgIGJlc3QsIGJsID0gLW5wLmluZiwgMAogICAgZm9yIGxhZyBpbiByYW5nZSgwLCBtYXhsICsgMSk6CiAgICAgICAgaWYgbGFnID09IDA6CiAgICAgICAgICAgIHYgPSBmbG9hdChucC5kb3QoYSwgYikpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdiA9IGZsb2F0KG5wLmRvdChhW2xhZzpdLCBiWzotbGFnXSkpCiAgICAgICAgdiAvPSAobnAuc3FydChucC5kb3QoYSwgYSkgKiBucC5kb3QoYiwgYikpICsgMWUtMTIpCiAgICAgICAgaWYgdiA+IGJlc3Q6CiAgICAgICAgICAgIGJlc3QsIGJsID0gdiwgbGFnCiAgICBmb3IgbGFnIGluIHJhbmdlKDEsIG1heGwgKyAxKToKICAgICAgICB2ID0gZmxvYXQobnAuZG90KGFbOi1sYWddLCBiW2xhZzpdKSkKICAgICAgICB2IC89IChucC5zcXJ0KG5wLmRvdChhLCBhKSAqIG5wLmRvdChiLCBiKSkgKyAxZS0xMikKICAgICAgICBpZiB2ID4gYmVzdDoKICAgICAgICAgICAgYmVzdCwgYmwgPSB2LCAtbGFnCiAgICByZXR1cm4gYmwgLyBzcgoKCmRlZiBlc3RpbWF0ZV9pbGQobGVmdDogbnAubmRhcnJheSwgcmlnaHQ6IG5wLm5kYXJyYXkpIC0+IGZsb2F0OgogICAgIiIi6IO96YeP5q+U5rGCIElMRO+8iGRC77yJ44CC5q2jID0g5Y+z6ICz5pu05ZON44CCIiIiCiAgICBlbCA9IGZsb2F0KG5wLnNxcnQobnAubWVhbihsZWZ0ICoqIDIpKSkgKyAxZS0xMgogICAgZXIgPSBmbG9hdChucC5zcXJ0KG5wLm1lYW4ocmlnaHQgKiogMikpKSArIDFlLTEyCiAgICByZXR1cm4gMjAuMCAqIG5wLmxvZzEwKGVyIC8gZWwpCgoKZGVmIGl0ZF90b19hbmdsZShpdGRfczogZmxvYXQsIHI6IGZsb2F0ID0gSEVBRF9SLCBjOiBmbG9hdCA9IENfQUlSKSAtPiBmbG9hdDoKICAgICIiIldvb2R3b3J0aCDlj43lh73mlbDvvIjmlbDlgLzmsYLop6PvvInjgILov5Tlm57op5LluqbvvIgwfjE4MO+8ieOAgiIiIgogICAgbG8sIGhpID0gMC4wLCAxODAuMAogICAgZm9yIF8gaW4gcmFuZ2UoNjApOgogICAgICAgIG1pZCA9IChsbyArIGhpKSAvIDIKICAgICAgICBpZiBpdGRfd29vZHdvcnRoKG1pZCwgciwgYykgPCBhYnMoaXRkX3MpOgogICAgICAgICAgICBsbyA9IG1pZAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGhpID0gbWlkCiAgICByZXR1cm4gKGxvICsgaGkpIC8gMgoKCmRlZiBpbGRfdG9fYW5nbGUoaWxkOiBmbG9hdCwgZnJlcV9oejogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIiSUxEIOWPjeWHveaVsOOAgui/lOWbnuinkuW6pu+8iDB+MTgw77yJ44CCIiIiCiAgICBpZiBmcmVxX2h6IDw9IDA6CiAgICAgICAgcmV0dXJuIDAuMAogICAga2EgPSAyICogbnAucGkgKiBmcmVxX2h6ICogSEVBRF9SIC8gQ19BSVIKICAgIHcgPSAxLjAgLyAoMS4wICsgbnAuZXhwKC0obnAubG9nKGthICsgMWUtOSkgLSBucC5sb2coMS43KSkgLyAwLjU1KSkKICAgIGRlbm9tID0gMjAuMCAqIHcKICAgIGlmIGRlbm9tIDwgMWUtNjoKICAgICAgICByZXR1cm4gMC4wICAgICAgICAgICAgIyDkvY7popHvvJpJTEQg5LiN5ZCr5pa55L2N5L+h5oGvCiAgICBzID0gbWluKDEuMCwgYWJzKGlsZCkgLyBkZW5vbSkKICAgIHJldHVybiBmbG9hdChucC5yYWQyZGVnKG5wLmFyY3NpbihzKSkpCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LqUwrfooaUg55u45L2N6ZSB5a6aIOKAlOKAlCDimIUgZHVwbGV4IHRoZW9yeSDnmoTnnJ/mnLrliLblnKjov5nph4wKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBwaGFzZV9sb2NrX3ZzKGZyZXFfaHo6IGZsb2F0KSAtPiBmbG9hdDoKICAgICIiIuWQrOelnue7j+ebuOS9jemUgeWumueahOWQjOatpeW8uuW6pu+8iHZlY3RvciBzdHJlbmd0aO+8ieOAggoKICAgIOKYhSBSRUFM77ya5L2O6aKR5Yeg5LmO5q+P5Liq5ZGo5pyf6YO95pS+55S177yIVlPiiYgwLjh+MC4577yJ77yMCiAgICAgIDF+MiBrSHog6LW35oCl5Ymn5LiL6ZmN77yMPjQga0h6IOWfuuacrOmUgeS4jeS9j++8iFZTPDAuMe+8iQogICAg4piFIOi/meWwseaYr+OAkOmrmOmikSBJVEQg5aSx5pWI44CR55qE54mp55CG5Y6f5Zug77yM5LiN5piv56Gs57yW56CB55qE6aKR546H5YiH5o2iCiAgICAiIiIKICAgIHJldHVybiBmbG9hdCgxLjAgLyAoMS4wICsgKGZyZXFfaHogLyAxMjAwLjApICoqIDIpKQoKCmRlZiBqbmRfaXRkX3VzKGZyZXFfaHo6IGZsb2F0LCBiYXNlX3VzOiBmbG9hdCA9IElURF9KTkRfVVMpIC0+IGZsb2F0OgogICAgIiIiSVREIOacgOWwj+WPr+inieW3rumaj+mikeeOh+aBtuWMluOAguKYhSDnm7jkvY3plIHlrprotorlt67vvIzml7bpl7Tlt67otormtYvkuI3lh4bjgIIiIiIKICAgIHZzID0gbWF4KHBoYXNlX2xvY2tfdnMoZnJlcV9oeiksIDAuMTApCiAgICByZXR1cm4gYmFzZV91cyAvIHZzCgoKZGVmIGFuZ2xlX3Jlc19pdGQodGhldGFfZGVnOiBmbG9hdCwgZnJlcV9oejogZmxvYXQsCiAgICAgICAgICAgICAgICAgIHI6IGZsb2F0ID0gSEVBRF9SLCBjOiBmbG9hdCA9IENfQUlSKSAtPiBmbG9hdDoKICAgICIiIklURCDot6/lvoTnmoTop5LluqbliIbovqjnjofvvIjluqbvvInjgILOlM64ID0gSk5EX0lURCAvIChkSVREL2TOuCkiIiIKICAgIHRoID0gbnAuZGVnMnJhZCh0aGV0YV9kZWcpCiAgICBkX2l0ZCA9IChyIC8gYykgKiAoMS4wICsgbnAuY29zKHRoKSkgICAgICAgIyBkL2TOuCAoV29vZHdvcnRoKe+8jHMvcmFkCiAgICBkX3Blcl9kZWcgPSBkX2l0ZCAqIG5wLnBpIC8gMTgwLjAKICAgIHJldHVybiBmbG9hdChqbmRfaXRkX3VzKGZyZXFfaHopICogMWUtNiAvIG1heChkX3Blcl9kZWcsIDFlLTEyKSkKCgpkZWYgYW5nbGVfcmVzX2lsZCh0aGV0YV9kZWc6IGZsb2F0LCBmcmVxX2h6OiBmbG9hdCwKICAgICAgICAgICAgICAgICAgam5kX2RiOiBmbG9hdCA9IElMRF9KTkRfREIpIC0+IGZsb2F0OgogICAgIiIiSUxEIOi3r+W+hOeahOinkuW6puWIhui+qOeOh++8iOW6pu+8ieOAgs6UzrggPSBKTkRfSUxEIC8gKGRJTEQvZM64KQoKICAgIOKYhSDkvY7popHooY3lsIQg4oaSIGRJTEQvZM64IOaegeWwjyDihpIg5YiG6L6o546H5p6B5beu77yISUxEIOWcqOS9jumikeayoeacieaWueS9jeS/oeaBr++8iQogICAgIiIiCiAgICB0aCA9IG5wLmRlZzJyYWQodGhldGFfZGVnKQogICAga2EgPSAyICogbnAucGkgKiBmcmVxX2h6ICogSEVBRF9SIC8gQ19BSVIKICAgIHcgPSAxLjAgLyAoMS4wICsgbnAuZXhwKC0obnAubG9nKGthICsgMWUtOSkgLSBucC5sb2coMS43KSkgLyAwLjU1KSkKICAgIGQgPSAyMC4wICogdyAqIG5wLmNvcyh0aCkgKiBucC5waSAvIDE4MC4wICAgICAjIGRCL2RlZwogICAgaWYgYWJzKGQpIDwgMWUtNjoKICAgICAgICByZXR1cm4gZmxvYXQoImluZiIpCiAgICByZXR1cm4gZmxvYXQoam5kX2RiIC8gYWJzKGQpKQoKCmRlZiBjcm9zc19jb3JyX3BlYWsobGVmdDogbnAubmRhcnJheSwgcmlnaHQ6IG5wLm5kYXJyYXksIHNyOiBpbnQpIC0+IGZsb2F0OgogICAgIiIi4piFIOWvueeFp+aMh+agh++8muS6kuebuOWFs+WzsOWAvOmrmOW6puOAgueUqOS6juajgOmqjCLmmK/kuI3mmK/nnJ/plIHkuIrkuoYi44CCIiIiCiAgICBhID0gbGVmdCAtIGxlZnQubWVhbigpOyBiID0gcmlnaHQgLSByaWdodC5tZWFuKCkKICAgIG4gPSBtaW4obGVuKGEpLCBsZW4oYikpOyBhLCBiID0gYVs6bl0sIGJbOm5dCiAgICByZXR1cm4gZmxvYXQobnAuZG90KGEsIGIpIC8gKG5wLnNxcnQobnAuZG90KGEsIGEpICogbnAuZG90KGIsIGIpKSArIDFlLTEyKSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+真双耳层 —— 两个耳朵之间的距离，才是定位的全部来源
+================================================================
+用户：「它那个两个耳朵或者眼睛，你在设置的时候，它那个距，
+      声音进入之后它会形成两耳，它会震动。」
+
+★ 上一轮 core/ear_anatomy.py 的缺陷：
+    只有【单耳】—— 鼓膜、听小骨、耳蜗、毛细胞全是一个耳的
+    只定义了 ITD_JND_US / ILD_JND_DB 两个【常量】，没有几何
+  ★ 没有距离 = 没有 ITD = 没有定位 = 只有一只耳朵在听
+
+★ 本层补的：两个耳朵 + 它们之间的距离 + 声音传播 + 震动
+
+----------------------------------------------------------------
+一、几何（REAL）
+----------------------------------------------------------------
+    头半径 r ≈ 8.75 cm（成人头宽 17~18 cm）
+    声速 c = 343 m/s（20°C 干空气）
+    ★ ITD Woodworth(1938)：ITD = (r/c)·(θ + sinθ)   θ 为弧度
+      θ=90° → (0.0875/343)(1.5708+1) = 0.656 ms  ← 真实 0.6~0.7 ✅
+    ★ 注意：Woodworth 用【头半径】不是耳间距，因为声波绕过头部表面
+
+----------------------------------------------------------------
+二、ILD 头部阴影（REAL）
+----------------------------------------------------------------
+    ★ 低频衍射：波长 >> 头径 → 绕过去 → ILD ≈ 0
+    ★ 高频被头挡住 → 声影 → ILD 大
+    Rayleigh  duplex theory：
+      ITD 主导 < 1.5 kHz（相位可锁）
+      ILD 主导 > 2 kHz（相位锁不住了，只能比强度）
+    真实值：90° 方位
+      500 Hz 约 3~6 dB
+      4 kHz  约 15~20 dB
+
+----------------------------------------------------------------
+三、震动（★ 用户点名的）
+----------------------------------------------------------------
+    ① 鼓膜-听骨链 = 受迫阻尼二阶系统
+       中耳共振 f0 ≈ 1000 Hz（REAL 800~1200），Q ≈ 1.0（宽带）
+       声波 → 鼓膜位移 → 镫骨位移 → 耳蜗
+    ② 颅骨振动 / 骨传导
+       ★ 与气导不同：颅骨是刚体，两耳间衰减【很小】(< 10 dB)
+       ★ 所以骨传导【几乎不产生 ILD】—— 这是能验证的真差异
+    ③ 两耳鼓膜位移不同 → 这就是"两耳会震动"的物理量
+
+----------------------------------------------------------------
+四、锥混淆（REAL，必须出现）
+----------------------------------------------------------------
+    ★ 纯 ITD 无法区分【前 / 后】：θ 与 180−θ 的 ITD 相同
+    ★ 真实人类靠 HRTF 频谱线索（耳廓）解决前后混淆
+    ★ 本层必须【复现混淆存在】，否则模型是假的
+"""
+from __future__ import annotations
+import numpy as np
+
+# ---------------- REAL 常数 ----------------
+C_AIR = 343.0            # m/s，20°C 干空气
+HEAD_R = 0.0875          # m，头半径（头宽 17~18 cm）
+EAR_SEP = 0.175          # m，两耳间距（用于骨传导路径差）
+SR = 48000               # 内耳有效采样率（远高于 16k，触觉/骨传导需要）
+
+ME_F0 = 1000.0           # 中耳共振 Hz（REAL 800~1200）
+ME_Q = 1.0               # 中耳品质因数（宽带）
+SKULL_F0 = 300.0         # 颅骨振动主模态（低频，刚体）
+SKULL_Q = 6.0            # 颅骨 Q 高（共振尖锐，刚体阻尼小）
+BONE_CROSS_DB = 6.0      # 骨传导两耳间衰减（REAL < 10 dB）
+
+ITD_JND_US = 10.0        # 行为最小可觉差（REAL 约 10 μs）
+ILD_JND_DB = 0.75        # REAL 0.5~1 dB
+MAA_DEG = 1.5            # 最小可听角，前方（REAL 1~2°）
+
+
+# ================================================================
+# 一、ITD —— 距离造成的到达时间差
+# ================================================================
+def itd_woodworth(theta_deg: float, r: float = HEAD_R, c: float = C_AIR) -> float:
+    """Woodworth 公式：声波绕过头部表面的路径差。
+
+    ★ 方位角定义：0° = 正前方，90° = 正右方，180° = 正后方
+    ★ 返回【秒】；右耳先到为正
+    """
+    th = np.deg2rad(theta_deg)
+    return (r / c) * (th + np.sin(th))
+
+
+def itd_naive(theta_deg: float, d: float = EAR_SEP, c: float = C_AIR) -> float:
+    """★ 对照用的【错误】模型：两耳间距直线投影 d·sinθ/c。
+
+    真实是绕过头部（Woodworth），不是直线。
+    θ=90° 时：naive = 0.175/343 = 0.510 ms，Woodworth = 0.656 ms
+    ★ 差 22% —— 可验证哪个对
+    """
+    return (d / c) * np.sin(np.deg2rad(theta_deg))
+
+
+# ================================================================
+# 二、ILD —— 头部声影（频率依赖）
+# ================================================================
+def ild_db(freq_hz: float, theta_deg: float, max_db: float = 20.0) -> float:
+    """头部阴影造成的双耳强度差。
+
+    ★ 机制：ka = 2πf·r/c 决定衍射程度
+      ka << 1（低频）→ 声波绕行 → ILD ≈ 0
+      ka >> 1（高频）→ 声影 → ILD 接近 max_db
+    ★ 用 sigmoid 过渡，中心在 ka ≈ 1（对应 f ≈ 624 Hz）
+    """
+    ka = 2 * np.pi * freq_hz * HEAD_R / C_AIR
+    # 衍射权重：低频 0，高频 1
+    # ★ 第一版中心 ka=1、宽度 0.75 太宽：500Hz 算出 8.53 dB（真实 3~6）
+    #   修：中心移到 ka=2（约 1.25 kHz），过渡收窄到 0.5
+    w = 1.0 / (1.0 + np.exp(-(np.log(ka + 1e-9) - np.log(1.7)) / 0.55))
+    # 方位调制：正前/正后为 0，正侧最大
+    return float(max_db * w * abs(np.sin(np.deg2rad(theta_deg))))
+
+
+# ================================================================
+# 三、震动 —— 鼓膜/听骨链 + 颅骨
+# ================================================================
+def forced_osc(sig: np.ndarray, sr: int, f0: float, Q: float) -> np.ndarray:
+    """二阶受迫阻尼振动（位移输出）。★ 这就是"它会震动"。
+
+    x'' + (2πf0/Q)x' + (2πf0)²x = u(t)
+    用双线性变换离散化（稳定）。
+    """
+    w0 = 2 * np.pi * f0
+    dt = 1.0 / sr
+    # 双线性（Tustin）
+    a0 = 4.0 + 4.0 * w0 * dt / Q + w0 * w0 * dt * dt
+    a1 = -8.0 + 2.0 * w0 * w0 * dt * dt
+    a2 = 4.0 - 4.0 * w0 * dt / Q + w0 * w0 * dt * dt
+    b0 = dt * dt
+    b1 = 2.0 * dt * dt
+    b2 = dt * dt
+    n = len(sig)
+    y = np.zeros(n, dtype=np.float64)
+    x1 = x2 = y1 = y2 = 0.0
+    for i in range(n):
+        u = float(sig[i])
+        v = (b0 * u + b1 * x1 + b2 * x2 - a1 * y1 - a2 * y2) / a0
+        x2, x1 = x1, u
+        y2, y1 = y1, v
+        y[i] = v
+    # ★ 数值归一化：DC 增益 = (b0+b1+b2)/(a0-a1-a2) = 4dt²/16 = dt²/4 ≈ 1e-10
+    #   第一版没补偿，两次级联后下溢到 0 → 左右两路都变 0 → ILD 恒测成 0.00 dB
+    return y * (4.0 / (dt * dt))
+
+
+def eardrum_displacement(sig: np.ndarray, sr: int = SR,
+                         f0: float = ME_F0, Q: float = ME_Q) -> np.ndarray:
+    """鼓膜-听骨链位移。中耳是宽带谐振，不是选频——否则人就听不见低频了。"""
+    return forced_osc(sig, sr, f0, Q)
+
+
+def skull_vibration(sig: np.ndarray, sr: int = SR) -> np.ndarray:
+    """颅骨振动。★ Q 高 = 刚体，共振尖锐。"""
+    return forced_osc(sig, sr, SKULL_F0, SKULL_Q)
+
+
+# ================================================================
+# 四、双耳合成：一个声源 → 左右耳两路信号
+# ================================================================
+def binauralize(src: np.ndarray, sr: int, theta_deg: float,
+                freq_hz: float = 1000.0,
+                add_bone: bool = True, rng: np.random.Generator = None
+                ) -> tuple[np.ndarray, np.ndarray, dict]:
+    """把单声道源放到方位 theta，生成左右耳信号。
+
+    ★ 右耳先到（theta>0 表示声源在右）→ 左耳延迟
+    ★ 近耳增益高，远耳被声影衰减
+    ★ 骨传导：两耳都收到，但衰减【小】
+    """
+    itd = itd_woodworth(theta_deg)
+    ild = ild_db(freq_hz, theta_deg)
+    delay = int(round(abs(itd) * sr))
+
+    # 声影：右耳（近）增益 0 dB，左耳（远）衰减
+    g_near = 1.0
+    g_far = 10 ** (-ild / 20.0)
+    if theta_deg >= 0:
+        g_r, g_l = g_near, g_far
+        ear_delayed = "L"
+    else:
+        g_r, g_l = g_far, g_near
+        ear_delayed = "R"
+
+    # 气导：延迟远耳
+    def shift(x, n):
+        if n == 0:
+            return x.copy()
+        return np.concatenate([np.zeros(n), x[:-n]])
+
+    right = g_r * src
+    left = g_l * (shift(src, delay) if ear_delayed == "L" else src)
+    if ear_delayed == "R":
+        right = g_r * shift(src, delay)
+
+    # 骨传导：几乎无 ILD，且【先到】（骨传导快于气导，REAL）
+    if add_bone:
+        b = 10 ** (-BONE_CROSS_DB / 20.0) * skull_vibration(src, sr)
+        left = left + b
+        right = right + b
+
+    # 内耳噪声（REAL：绝对阈附近才有，此处给很小值）
+    if rng is not None:
+        left = left + 1e-4 * rng.standard_normal(len(left))
+        right = right + 1e-4 * rng.standard_normal(len(right))
+
+    info = dict(itd_s=itd, itd_ms=itd * 1e3, ild_db=ild,
+                delay_samples=delay, ear_delayed=ear_delayed,
+                g_l=g_l, g_r=g_r)
+    return left, right, info
+
+
+# ================================================================
+# 五、定位反演：只靠两耳信号推回方位
+# ================================================================
+def estimate_itd(left: np.ndarray, right: np.ndarray, sr: int,
+                 max_lag_ms: float = 1.0) -> float:
+    """互相关求 ITD（秒）。正 = 右耳先到。"""
+    maxl = int(sr * max_lag_ms / 1000.0)
+    a = left - left.mean(); b = right - right.mean()
+    n = min(len(a), len(b))
+    a, b = a[:n], b[:n]
+    # 归一化互相关，在 lag 范围内搜索
+    best, bl = -np.inf, 0
+    for lag in range(0, maxl + 1):
+        if lag == 0:
+            v = float(np.dot(a, b))
+        else:
+            v = float(np.dot(a[lag:], b[:-lag]))
+        v /= (np.sqrt(np.dot(a, a) * np.dot(b, b)) + 1e-12)
+        if v > best:
+            best, bl = v, lag
+    for lag in range(1, maxl + 1):
+        v = float(np.dot(a[:-lag], b[lag:]))
+        v /= (np.sqrt(np.dot(a, a) * np.dot(b, b)) + 1e-12)
+        if v > best:
+            best, bl = v, -lag
+    return bl / sr
+
+
+def estimate_ild(left: np.ndarray, right: np.ndarray) -> float:
+    """能量比求 ILD（dB）。正 = 右耳更响。"""
+    el = float(np.sqrt(np.mean(left ** 2))) + 1e-12
+    er = float(np.sqrt(np.mean(right ** 2))) + 1e-12
+    return 20.0 * np.log10(er / el)
+
+
+def itd_to_angle(itd_s: float, r: float = HEAD_R, c: float = C_AIR) -> float:
+    """Woodworth 反函数（数值求解）。返回角度（0~180）。"""
+    lo, hi = 0.0, 180.0
+    for _ in range(60):
+        mid = (lo + hi) / 2
+        if itd_woodworth(mid, r, c) < abs(itd_s):
+            lo = mid
+        else:
+            hi = mid
+    return (lo + hi) / 2
+
+
+def ild_to_angle(ild: float, freq_hz: float) -> float:
+    """ILD 反函数。返回角度（0~180）。"""
+    if freq_hz <= 0:
+        return 0.0
+    ka = 2 * np.pi * freq_hz * HEAD_R / C_AIR
+    w = 1.0 / (1.0 + np.exp(-(np.log(ka + 1e-9) - np.log(1.7)) / 0.55))
+    denom = 20.0 * w
+    if denom < 1e-6:
+        return 0.0            # 低频：ILD 不含方位信息
+    s = min(1.0, abs(ild) / denom)
+    return float(np.rad2deg(np.arcsin(s)))
+
+
+# ================================================================
+# 五·补 相位锁定 —— ★ duplex theory 的真机制在这里
+# ================================================================
+def phase_lock_vs(freq_hz: float) -> float:
+    """听神经相位锁定的同步强度（vector strength）。
+
+    ★ REAL：低频几乎每个周期都放电（VS≈0.8~0.9），
+      1~2 kHz 起急剧下降，>4 kHz 基本锁不住（VS<0.1）
+    ★ 这就是【高频 ITD 失效】的物理原因，不是硬编码的频率切换
+    """
+    return float(1.0 / (1.0 + (freq_hz / 1200.0) ** 2))
+
+
+def jnd_itd_us(freq_hz: float, base_us: float = ITD_JND_US) -> float:
+    """ITD 最小可觉差随频率恶化。★ 相位锁定越差，时间差越测不准。"""
+    vs = max(phase_lock_vs(freq_hz), 0.10)
+    return base_us / vs
+
+
+def angle_res_itd(theta_deg: float, freq_hz: float,
+                  r: float = HEAD_R, c: float = C_AIR) -> float:
+    """ITD 路径的角度分辨率（度）。Δθ = JND_ITD / (dITD/dθ)"""
+    th = np.deg2rad(theta_deg)
+    d_itd = (r / c) * (1.0 + np.cos(th))       # d/dθ (Woodworth)，s/rad
+    d_per_deg = d_itd * np.pi / 180.0
+    return float(jnd_itd_us(freq_hz) * 1e-6 / max(d_per_deg, 1e-12))
+
+
+def angle_res_ild(theta_deg: float, freq_hz: float,
+                  jnd_db: float = ILD_JND_DB) -> float:
+    """ILD 路径的角度分辨率（度）。Δθ = JND_ILD / (dILD/dθ)
+
+    ★ 低频衍射 → dILD/dθ 极小 → 分辨率极差（ILD 在低频没有方位信息）
+    """
+    th = np.deg2rad(theta_deg)
+    ka = 2 * np.pi * freq_hz * HEAD_R / C_AIR
+    w = 1.0 / (1.0 + np.exp(-(np.log(ka + 1e-9) - np.log(1.7)) / 0.55))
+    d = 20.0 * w * np.cos(th) * np.pi / 180.0     # dB/deg
+    if abs(d) < 1e-6:
+        return float("inf")
+    return float(jnd_db / abs(d))
+
+
+def cross_corr_peak(left: np.ndarray, right: np.ndarray, sr: int) -> float:
+    """★ 对照指标：互相关峰值高度。用于检验"是不是真锁上了"。"""
+    a = left - left.mean(); b = right - right.mean()
+    n = min(len(a), len(b)); a, b = a[:n], b[:n]
+    return float(np.dot(a, b) / (np.sqrt(np.dot(a, a) * np.dot(b, b)) + 1e-12))

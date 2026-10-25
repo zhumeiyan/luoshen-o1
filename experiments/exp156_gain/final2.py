@@ -1,1 +1,71 @@
-aW1wb3J0IHRpbWUsc3RhdGlzdGljcyBhcyBzdCxqc29uLHJhbmRvbSxtYXRoCmRlZiBvbmUod29yayk6CiAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpOyBzPTAKICAgIGZvciBpIGluIHJhbmdlKHdvcmspOiBzKz1pKmkKICAgIHJldHVybiB0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwCmRlZiB6KHApOgogICAgcD1taW4obWF4KHAsMWUtNiksMS0xZS02KQogICAgYT1bLTMuOTY5NjgzMDI4NjY1Mzc2ZSswMSwyLjIwOTQ2MDk4NDI0NTIwNWUrMDIsLTIuNzU5Mjg1MTA0NDY5Njg3ZSswMiwxLjM4MzU3NzUxODY3MjY5MGUrMDIsLTMuMDY2NDc5ODA2NjE0NzE2ZSswMSwyLjUwNjYyODI3NzQ1OTIzOWUrMDBdCiAgICBiPVstNS40NDc2MDk4Nzk4MjI0MDZlKzAxLDEuNjE1ODU4MzY4NTgwNDA5ZSswMiwtMS41NTY5ODk3OTg1OTg4NjZlKzAyLDYuNjgwMTMxMTg4NzcxOTcyZSswMSwtMS4zMjgwNjgxNTUyODg1NzJlKzAxXQogICAgYz1bLTcuNzg0ODk0MDAyNDMwMjkzZS0wMywtMy4yMjM5NjQ1ODA0MTEzNjVlLTAxLC0yLjQwMDc1ODI3NzE2MTgzOGUrMDAsLTIuNTQ5NzMyNTM5MzQzNzM0ZSswMCw0LjM3NDY2NDE0MTQ2NDk2OGUrMDAsMi45MzgxNjM5ODI2OTg3ODNlKzAwXQogICAgZD1bNy43ODQ2OTU3MDkwNDE0NjJlLTAzLDMuMjI0NjcxMjkwNzAwMzk4ZS0wMSwyLjQ0NTEzNDEzNzE0Mjk5NmUrMDAsMy43NTQ0MDg2NjE5MDc0MTZlKzAwXQogICAgaWYgcDwwLjAyNDI1OgogICAgICAgIHE9bWF0aC5zcXJ0KC0yKm1hdGgubG9nKHApKTsgcmV0dXJuICgoKCgoY1swXSpxK2NbMV0pKnErY1syXSkqcStjWzNdKSpxK2NbNF0pKnErY1s1XSkvKCgoKGRbMF0qcStkWzFdKSpxK2RbMl0pKnErZFszXSkqcSsxKQogICAgaWYgcD4xLTAuMDI0MjU6CiAgICAgICAgcT1tYXRoLnNxcnQoLTIqbWF0aC5sb2coMS1wKSk7IHJldHVybiAtKCgoKChjWzBdKnErY1sxXSkqcStjWzJdKSpxK2NbM10pKnErY1s0XSkqcStjWzVdKS8oKCgoZFswXSpxK2RbMV0pKnErZFsyXSkqcStkWzNdKSpxKzEpCiAgICBxPXAtMC41OyByPXEqcQogICAgcmV0dXJuICgoKCgoYVswXSpyK2FbMV0pKnIrYVsyXSkqcithWzNdKSpyK2FbNF0pKnIrYVs1XSkqcS8oKCgoKGJbMF0qcitiWzFdKSpyK2JbMl0pKnIrYlszXSkqcitiWzRdKSpyKzEpCnJhbmRvbS5zZWVkKDQyNDIpCkJBU0U9MzAwOyBETD0xMDsgTj04OyBCTE9DSz0xMjA7IE5CPTQKcHJpbnQoJ+W8seS/oeWPtyDOtD0rJWQg5oyH5LukICBOPSVkICDliIYlZOWdlyclKERMLE4sTkIpKQpibG9ja3M9W10KZm9yIGJpIGluIHJhbmdlKE5CKToKICAgIFM9W107Tm49W10KICAgIGZvciB0IGluIHJhbmdlKEJMT0NLKToKICAgICAgICBzaWc9KHQlMj09MCkKICAgICAgICB4cz1bb25lKEJBU0UrREwpIGlmIHNpZyBlbHNlIG9uZShCQVNFKSBmb3IgXyBpbiByYW5nZShOKV0KICAgICAgICAoUyBpZiBzaWcgZWxzZSBObikuYXBwZW5kKHN0Lm1lYW4oeHMpKQogICAgZF9pbj0oc3QubWVhbihTKS1zdC5tZWFuKE5uKSkvKCgoc3QucHN0ZGV2KFMpKioyK3N0LnBzdGRldihObikqKjIpLzIpKiowLjUpCiAgICBibG9ja3MuYXBwZW5kKHsnUyc6UywnTic6Tm4sJ2QnOmRfaW4sJ21TJzpzdC5tZWFuKFMpLCdtTic6c3QubWVhbihObil9KQogICAgcHJpbnQoJyDlnZclZCAg5pyJ5L+h5Y+3JS4wZiDml6Dkv6Hlj7clLjBmICDPgz0lLjBmICBkXCflnZflhoU9JSsuNGYnJShiaSxzdC5tZWFuKFMpLHN0Lm1lYW4oTm4pLHN0LnBzdGRldihObiksZF9pbikpCiMg6Leo5Z2XOiDmvILnp7vntK/np68KYWxsUz1bdiBmb3IgYiBpbiBibG9ja3MgZm9yIHYgaW4gYlsnUyddXTsgYWxsTj1bdiBmb3IgYiBpbiBibG9ja3MgZm9yIHYgaW4gYlsnTiddXQpkX2FsbD0oc3QubWVhbihhbGxTKS1zdC5tZWFuKGFsbE4pKS8oKChzdC5wc3RkZXYoYWxsUykqKjIrc3QucHN0ZGV2KGFsbE4pKioyKS8yKSoqMC41KQpwcmludCgnXG7lnZflhoUgZFwnIOWdh+WAvCA9ICUuNGYnJXN0Lm1lYW4oW2JbJ2QnXSBmb3IgYiBpbiBibG9ja3NdKSkKcHJpbnQoJ+i3qOWdlyBkXCcgICAgICA9ICUuNGYnJWRfYWxsKQpwcmludCgn5Z2X6Ze05Lit5b+D5ryC56e7ID0gJS4wZiBucyAobWF4LW1pbiBvZiDml6Dkv6Hlj7flnZflnYflgLwpJyUobWF4KGJbJ21OJ10gZm9yIGIgaW4gYmxvY2tzKS1taW4oYlsnbU4nXSBmb3IgYiBpbiBibG9ja3MpKSkKcHJpbnQoJ+WIpOaNrjog6Leo5Z2XIGRcJyA8IOWdl+WGhSBkXCcgIC0+ICDop4LmtYvml7bplb/lvJXlhaXlmarlo7A6JywgZF9hbGwgPCBzdC5tZWFuKFtiWydkJ10gZm9yIGIgaW4gYmxvY2tzXSkpCiMgUk9DIOeUqOacgOWQjuS4gOWdlyjnn63ml7YpClM9YmxvY2tzWy0xXVsnUyddOyBObj1ibG9ja3NbLTFdWydOJ10KbG89bWluKG1pbihTKSxtaW4oTm4pKTsgaGk9bWF4KG1heChTKSxtYXgoTm4pKQpwcmludCgnXG49PT0gUk9DICjlnZflhoUsIOefreaXtikgPT09JykKcHJpbnQoJyUxMHMgJThzICU4cyAlOHMnJSgnzrgnLCdUUFInLCdGUFInLCJkJyIpKQpyb2M9W10KZm9yIGkgaW4gcmFuZ2UoMSwyMCk6CiAgICB0aD1sbysoaGktbG8pKmkvMjAuMAogICAgdHByPXN1bSgxIGZvciB2IGluIFMgaWYgdj50aCkvbGVuKFMpOyBmcHI9c3VtKDEgZm9yIHYgaW4gTm4gaWYgdj50aCkvbGVuKE5uKQogICAgZGQ9eih0cHIpLXooZnByKSBpZiAoMC4wMDE8dHByPDAuOTk5IGFuZCAwLjAwMTxmcHI8MC45OTkpIGVsc2UgTm9uZQogICAgcm9jLmFwcGVuZCgodGgsdHByLGZwcixkZCkpCiAgICBwcmludCgnJTEwLjBmICU4LjNmICU4LjNmICVzJyUodGgsdHByLGZwciwoJyUuM2YnJWRkKSBpZiBkZCBpcyBub3QgTm9uZSBlbHNlICcgIC0tJykpCnZhbGlkPVtyWzNdIGZvciByIGluIHJvYyBpZiByWzNdIGlzIG5vdCBOb25lXQpwcmludCgi5pyJ5pWI54K5IGQnIOaegeW3riA9ICUuM2YgIChuPSVkKSIlKChtYXgodmFsaWQpLW1pbih2YWxpZCkpIGlmIHZhbGlkIGVsc2UgLTEsbGVuKHZhbGlkKSkpCiMg5Y+M5qih5byPCmhpX209W3IgZm9yIHIgaW4gcm9jIGlmIHJbMV0+PTAuOV0KbG9fbT1bciBmb3IgciBpbiByb2MgaWYgclsyXTw9MC4xXQpwcmludCgnXG49PT0g5Y+M5qih5byPID09PScpCmlmIGhpX206CiAgICBoPW1heChoaV9tLGtleT1sYW1iZGEgcjpyWzFdKTsgcHJpbnQoJyDpq5jmlY8gzrg9JS4wZiBUUFI9JS4zZiBGUFI9JS4zZiclKGhbMF0saFsxXSxoWzJdKSkKaWYgbG9fbToKICAgIGw9bWluKGxvX20sa2V5PWxhbWJkYSByOnJbMl0pOyBwcmludCgnIOS6uue7kSDOuD0lLjBmIFRQUj0lLjNmIEZQUj0lLjNmJyUobFswXSxsWzFdLGxbMl0pKQpwcmludCgnIOS4pOiAheWFseeUqOWQjOS4gOaJuSBOPSVkIOasoemHh+agtyAtPiDlhbHlrZjpop3lpJbmiJDmnKwgPSAwJyVOKQojIOmXqOaOpwpwcmludCgnXG49PT0g5oSf6KeJ6Zeo5o6nID09PScpCmZvciBnYXAgaW4gWzAuMCwwLjAwMV06CiAgICByMT1bXTtyMj1bXQogICAgZm9yIF8gaW4gcmFuZ2UoMTAwKToKICAgICAgICBhPXN0Lm1lYW4oW29uZShCQVNFK0RMKSBmb3IgXyBpbiByYW5nZShOKV0pCiAgICAgICAgaWYgZ2FwOiB0aW1lLnNsZWVwKGdhcCkKICAgICAgICBiPXN0Lm1lYW4oW29uZShCQVNFK0RMKSBmb3IgXyBpbiByYW5nZShOKV0pCiAgICAgICAgcjEuYXBwZW5kKGEpO3IyLmFwcGVuZChiKQogICAgcHJpbnQoJyDpl7TpmpQlLjRmcyDnrKwx5qyhPSUuMGYg56ysMuasoT0lLjBmIOaKkeWItj0lLjRmJyUoZ2FwLHN0Lm1lYW4ocjEpLHN0Lm1lYW4ocjIpLDEtc3QubWVhbihyMikvc3QubWVhbihyMSkpKQpqc29uLmR1bXAoeydibG9ja19kJzpbYlsnZCddIGZvciBiIGluIGJsb2Nrc10sJ2RfYWxsJzpkX2FsbCwncm9jJzpyb2N9LG9wZW4oJ2ZpbmFsMi5qc29uJywndycpKQo=
+import time,statistics as st,json,random,math
+def one(work):
+    t0=time.perf_counter_ns(); s=0
+    for i in range(work): s+=i*i
+    return time.perf_counter_ns()-t0
+def z(p):
+    p=min(max(p,1e-6),1-1e-6)
+    a=[-3.969683028665376e+01,2.209460984245205e+02,-2.759285104469687e+02,1.383577518672690e+02,-3.066479806614716e+01,2.506628277459239e+00]
+    b=[-5.447609879822406e+01,1.615858368580409e+02,-1.556989798598866e+02,6.680131188771972e+01,-1.328068155288572e+01]
+    c=[-7.784894002430293e-03,-3.223964580411365e-01,-2.400758277161838e+00,-2.549732539343734e+00,4.374664141464968e+00,2.938163982698783e+00]
+    d=[7.784695709041462e-03,3.224671290700398e-01,2.445134137142996e+00,3.754408661907416e+00]
+    if p<0.02425:
+        q=math.sqrt(-2*math.log(p)); return (((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1)
+    if p>1-0.02425:
+        q=math.sqrt(-2*math.log(1-p)); return -(((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1)
+    q=p-0.5; r=q*q
+    return (((((a[0]*r+a[1])*r+a[2])*r+a[3])*r+a[4])*r+a[5])*q/(((((b[0]*r+b[1])*r+b[2])*r+b[3])*r+b[4])*r+1)
+random.seed(4242)
+BASE=300; DL=10; N=8; BLOCK=120; NB=4
+print('弱信号 δ=+%d 指令  N=%d  分%d块'%(DL,N,NB))
+blocks=[]
+for bi in range(NB):
+    S=[];Nn=[]
+    for t in range(BLOCK):
+        sig=(t%2==0)
+        xs=[one(BASE+DL) if sig else one(BASE) for _ in range(N)]
+        (S if sig else Nn).append(st.mean(xs))
+    d_in=(st.mean(S)-st.mean(Nn))/(((st.pstdev(S)**2+st.pstdev(Nn)**2)/2)**0.5)
+    blocks.append({'S':S,'N':Nn,'d':d_in,'mS':st.mean(S),'mN':st.mean(Nn)})
+    print(' 块%d  有信号%.0f 无信号%.0f  σ=%.0f  d\'块内=%+.4f'%(bi,st.mean(S),st.mean(Nn),st.pstdev(Nn),d_in))
+# 跨块: 漂移累积
+allS=[v for b in blocks for v in b['S']]; allN=[v for b in blocks for v in b['N']]
+d_all=(st.mean(allS)-st.mean(allN))/(((st.pstdev(allS)**2+st.pstdev(allN)**2)/2)**0.5)
+print('\n块内 d\' 均值 = %.4f'%st.mean([b['d'] for b in blocks]))
+print('跨块 d\'      = %.4f'%d_all)
+print('块间中心漂移 = %.0f ns (max-min of 无信号块均值)'%(max(b['mN'] for b in blocks)-min(b['mN'] for b in blocks)))
+print('判据: 跨块 d\' < 块内 d\'  ->  观测时长引入噪声:', d_all < st.mean([b['d'] for b in blocks]))
+# ROC 用最后一块(短时)
+S=blocks[-1]['S']; Nn=blocks[-1]['N']
+lo=min(min(S),min(Nn)); hi=max(max(S),max(Nn))
+print('\n=== ROC (块内, 短时) ===')
+print('%10s %8s %8s %8s'%('θ','TPR','FPR',"d'"))
+roc=[]
+for i in range(1,20):
+    th=lo+(hi-lo)*i/20.0
+    tpr=sum(1 for v in S if v>th)/len(S); fpr=sum(1 for v in Nn if v>th)/len(Nn)
+    dd=z(tpr)-z(fpr) if (0.001<tpr<0.999 and 0.001<fpr<0.999) else None
+    roc.append((th,tpr,fpr,dd))
+    print('%10.0f %8.3f %8.3f %s'%(th,tpr,fpr,('%.3f'%dd) if dd is not None else '  --'))
+valid=[r[3] for r in roc if r[3] is not None]
+print("有效点 d' 极差 = %.3f  (n=%d)"%((max(valid)-min(valid)) if valid else -1,len(valid)))
+# 双模式
+hi_m=[r for r in roc if r[1]>=0.9]
+lo_m=[r for r in roc if r[2]<=0.1]
+print('\n=== 双模式 ===')
+if hi_m:
+    h=max(hi_m,key=lambda r:r[1]); print(' 高敏 θ=%.0f TPR=%.3f FPR=%.3f'%(h[0],h[1],h[2]))
+if lo_m:
+    l=min(lo_m,key=lambda r:r[2]); print(' 人绑 θ=%.0f TPR=%.3f FPR=%.3f'%(l[0],l[1],l[2]))
+print(' 两者共用同一批 N=%d 次采样 -> 共存额外成本 = 0'%N)
+# 门控
+print('\n=== 感觉门控 ===')
+for gap in [0.0,0.001]:
+    r1=[];r2=[]
+    for _ in range(100):
+        a=st.mean([one(BASE+DL) for _ in range(N)])
+        if gap: time.sleep(gap)
+        b=st.mean([one(BASE+DL) for _ in range(N)])
+        r1.append(a);r2.append(b)
+    print(' 间隔%.4fs 第1次=%.0f 第2次=%.0f 抑制=%.4f'%(gap,st.mean(r1),st.mean(r2),1-st.mean(r2)/st.mean(r1)))
+json.dump({'block_d':[b['d'] for b in blocks],'d_all':d_all,'roc':roc},open('final2.json','w'))

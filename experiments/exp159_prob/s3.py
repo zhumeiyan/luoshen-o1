@@ -1,1 +1,23 @@
-aW1wb3J0IGpzb24sbWF0aCxzdGF0aXN0aWNzIGFzIHN0LHRpbWUKZGVmIGppdHRlcihuPTQwMDApOgogICAgb3V0PVtdO2E9MAogICAgZm9yIF8gaW4gcmFuZ2Uobik6CiAgICAgICAgdDA9dGltZS5wZXJmX2NvdW50ZXJfbnMoKQogICAgICAgIGZvciBfIGluIHJhbmdlKDQwMCk6IGE9KGEqMTEwMzUxNTI0NSsxMjM0NSkmMHg3ZmZmZmZmZgogICAgICAgIG91dC5hcHBlbmQodGltZS5wZXJmX2NvdW50ZXJfbnMoKS10MCkKICAgIHJldHVybiBvdXQKSj1qaXR0ZXIoKTttPXN1bShKKS9sZW4oSik7c2Q9KHN1bSgoeC1tKSoqMiBmb3IgeCBpbiBKKS9sZW4oSikpKiowLjUKc2s9c3VtKCgoeC1tKS9zZCkqKjMgZm9yIHggaW4gSikvbGVuKEopCmt1PXN1bSgoKHgtbSkvc2QpKio0IGZvciB4IGluIEopL2xlbihKKS0zCkpzPXNvcnRlZChKKQpxPWxhbWJkYSBwOkpzW2ludChwKmxlbihKcykpXQpwcmludCgi55yf5a6e5pe25bqP5oqW5YqoIG49JWQiJWxlbihKKSkKcHJpbnQoIiAgbWVhbiAlLjBmICBzZCAlLjBmIiUobSxzZCkpCnByaW50KCIgIHNrZXcgICUrLjNmICAgKOmrmOaWr+W6lOKJiDApIiVzaykKcHJpbnQoIiAga3VydCAgJSsuM2YgICAo6auY5pav5bqU4omIMCkiJWt1KQpwcmludCgiICDkuK3kvY0gJS4wZiAgdnMg5Z2H5YC8ICUuMGYgIOKGkiDlt64gJS4xZiUlIiUocSguNSksbSwxMDAqKG0tcSguNSkpL20pKQpwcmludCgiICBwOTkgJS4wZiA9ICUuMmYgc2QgOyBwOTkuOSAlLjBmID0gJS4yZiBzZCIlKChxKC45OSktbSkvc2QsKHEoLjk5OSktbSkvc2QsKHEoLjk5OSktbSkvc2QsMCkpCnByaW50KCIgIOmrmOaWr+S4iyBwOTk9Mi4zM3NkIHA5OS45PTMuMDlzZCIpCnByaW50KCIgIG1heCAlLjBmID0gJS4xZiBzZCIlKChtYXgoSiktbSkvc2QsKG1heChKKS1tKS9zZCkpCmpzb24uZHVtcChkaWN0KG1lYW49bSxzZD1zZCxza2V3PXNrLGt1cnQ9a3UscDk5PShxKC45OSktbSkvc2QscDk5OT0ocSguOTk5KS1tKS9zZCwKICAgICAgICAgICAgICAgbWF4c2Q9KG1heChKKS1tKS9zZCxtZWQ9cSguNSkpLG9wZW4oJ3MzLmpzb24nLCd3JyksaW5kZW50PTEpCg==
+import json,math,statistics as st,time
+def jitter(n=4000):
+    out=[];a=0
+    for _ in range(n):
+        t0=time.perf_counter_ns()
+        for _ in range(400): a=(a*1103515245+12345)&0x7fffffff
+        out.append(time.perf_counter_ns()-t0)
+    return out
+J=jitter();m=sum(J)/len(J);sd=(sum((x-m)**2 for x in J)/len(J))**0.5
+sk=sum(((x-m)/sd)**3 for x in J)/len(J)
+ku=sum(((x-m)/sd)**4 for x in J)/len(J)-3
+Js=sorted(J)
+q=lambda p:Js[int(p*len(Js))]
+print("真实时序抖动 n=%d"%len(J))
+print("  mean %.0f  sd %.0f"%(m,sd))
+print("  skew  %+.3f   (高斯应≈0)"%sk)
+print("  kurt  %+.3f   (高斯应≈0)"%ku)
+print("  中位 %.0f  vs 均值 %.0f  → 差 %.1f%%"%(q(.5),m,100*(m-q(.5))/m))
+print("  p99 %.0f = %.2f sd ; p99.9 %.0f = %.2f sd"%((q(.99)-m)/sd,(q(.999)-m)/sd,(q(.999)-m)/sd,0))
+print("  高斯下 p99=2.33sd p99.9=3.09sd")
+print("  max %.0f = %.1f sd"%((max(J)-m)/sd,(max(J)-m)/sd))
+json.dump(dict(mean=m,sd=sd,skew=sk,kurt=ku,p99=(q(.99)-m)/sd,p999=(q(.999)-m)/sd,
+               maxsd=(max(J)-m)/sd,med=q(.5)),open('s3.json','w'),indent=1)

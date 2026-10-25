@@ -1,1 +1,79 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi55yf5LqM57u0IHZzIOWBh+S6jOe7tO+8muaKiuaWh+Wtl+a4suafk+aIkOWbvu+8jOmHj+OAjuWeguebtOaWueWQkeWIsOW6leacieayoeacieS/oeaBr+OAj+OAgiIiIgppbXBvcnQganNvbiwgbnVtcHkgYXMgbnAsIG9zCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKCmRlZiBmb250KHN6LCBtb25vPUZhbHNlKToKICAgIGNhbmRzID0gKFsiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS9kZWphdnUvRGVqYVZ1U2Fuc01vbm8udHRmIl0gaWYgbW9ubyBlbHNlIFtdKSArIFsKICAgICAgICAiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIsCiAgICAgICAgIi91c3Ivc2hhcmUvZm9udHMvb3BlbnR5cGUvbm90by9Ob3RvU2Fuc0NKSy1SZWd1bGFyLnR0YyIsCiAgICAgICAgIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvZGVqYXZ1L0RlamFWdVNhbnMudHRmIl0KICAgIGZvciBwIGluIGNhbmRzOgogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOiByZXR1cm4gSW1hZ2VGb250LnRydWV0eXBlKHAsIHN6KQogICAgcmV0dXJuIE5vbmUKCmRlZiByZW5kZXIodGV4dCwgVywgSCwgbW9ubz1GYWxzZSwgc3o9ODApOgogICAgZj1mb250KHN6LG1vbm8pCiAgICBpbT1JbWFnZS5uZXcoIkwiLChXLEgpLDApOyBkPUltYWdlRHJhdy5EcmF3KGltKQogICAgaWYgZiBpcyBOb25lOiByZXR1cm4gbnAuYXJyYXkoaW0pCiAgICBiYj1kLnRleHRiYm94KCgwLDApLHRleHQsZm9udD1mKQogICAgdz1iYlsyXS1iYlswXTsgaD1iYlszXS1iYlsxXQogICAgaWYgdz5XOiAgICMg57yp5Yiw55uu5qCH5a69CiAgICAgICAgZj1mb250KGludChzeipXL3cqMC45NSksIG1vbm8pOyBiYj1kLnRleHRiYm94KCgwLDApLHRleHQsZm9udD1mKQogICAgICAgIHc9YmJbMl0tYmJbMF07IGg9YmJbM10tYmJbMV0KICAgIGQudGV4dCgoKFctdykvMi1iYlswXSwoSC1oKS8yLWJiWzFdKSx0ZXh0LGZpbGw9MjU1LGZvbnQ9ZikKICAgIHJldHVybiBucC5hcnJheShpbSkuYXN0eXBlKG5wLmZsb2F0MzIpLzI1NQoKZGVmIHByb2pfZW50cm9weShhLCBheGlzKToKICAgICIiIuayvyBheGlzIOWOi+e8qe+8jOW+l+WIsOS4gOe7tOaKleW9se+8jOWGjeeul+W9kuS4gOWMlueGte+8iDA95a6M5YWo6ZuG5Lit77yMMT3lnYfljIDvvIkiIiIKICAgIHA9YS5zdW0oYXhpcz1heGlzKTsgcD1wL3Auc3VtKCkKICAgIHA9cFtwPjBdCiAgICBIPS0ocCpucC5sb2cyKHApKS5zdW0oKQogICAgcmV0dXJuIEgvbnAubG9nMihsZW4ocCkpICAgICAjIOW9kuS4gOWMluWIsCAwLi4xCgppZiBfX25hbWVfXz09Il9fbWFpbl9fIjoKICAgIG91dD17fQogICAgVyxIPTU2MCwyMDAKICAgIHByaW50KCI9PT0g5o6n5Yi25Yiw5ZCM5qC35a695bqm77yM6YeP44CQ5Z6C55u05pa55ZCR5pyJ5rKh5pyJ5L+h5oGv44CRPT09IikKICAgIHByaW50KGYiICB7J+agt+acrCc6PDIyfXsn5rC05bmz5oqV5b2x54a1Jzo+MTF9eyflnoLnm7TmipXlvbHnhrUnOj4xMX17J+WeguebtC/msLTlubMnOj4xMH0iKQogICAgc2FtcGxlcz1bKCLmsYnlrZcg5qOuIiwi5qOuIiksKCLmsYnlrZcg5oOzIiwi5oOzIiksKCLmsYnlrZcg5Zu9Iiwi5Zu9IiksCiAgICAgICAgICAgICAoIuaxieWtlyDmsZ/mtbfmuZYiLCLmsZ/mtbfmuZYiKSwKICAgICAgICAgICAgICgi6Iux5paHIGZvcmVzdCIsImZvcmVzdCIpLCgi6Iux5paHIHRoaW5rIiwidGhpbmsiKSwKICAgICAgICAgICAgICgi6Iux5paHIG5hdGlvbiIsIm5hdGlvbiIpLCgi6Iux5paHIHJpdmVycyIsInJpdmVycyIpLAogICAgICAgICAgICAgKCLku6PnoIEgZGVmIGYoeCkiLCJkZWYgZih4KToiKSwoIuS7o+eggSByZXR1cm4iLCJyZXR1cm4geCoyIildCiAgICByb3dzPVtdCiAgICBmb3IgbmFtZSx0IGluIHNhbXBsZXM6CiAgICAgICAgbW9ubyA9IG5hbWUuc3RhcnRzd2l0aCgi5Luj56CBIikKICAgICAgICBhPXJlbmRlcih0LFcsSCxtb25vPW1vbm8pCiAgICAgICAgaWYgYS5zdW0oKT09MDogcHJpbnQoZiIgIHtuYW1lOjwyMn0gICjlrZfkvZPnvLrlpLEpIik7IGNvbnRpbnVlCiAgICAgICAgaGU9cHJval9lbnRyb3B5KGEsMCkgICAjIOWOi+e8qeihjCDihpIg5q+P5YiX55qE6YePIOKGkiDmsLTlubPmlrnlkJHnu5PmnoQKICAgICAgICB2ZT1wcm9qX2VudHJvcHkoYSwxKSAgICMg5Y6L57yp5YiXIOKGkiDmr4/ooYznmoTph48g4oaSIOWeguebtOaWueWQkee7k+aehAogICAgICAgIHJvd3MuYXBwZW5kKChuYW1lLGhlLHZlLHZlL2hlKSkKICAgICAgICBwcmludChmIiAge25hbWU6PDIyfXtoZTo+MTEuM2Z9e3ZlOj4xMS4zZn17dmUvaGU6PjEwLjJmfSIpCiAgICAgICAgb3V0W25hbWVdPXsi5rC05bmzIjpyb3VuZChoZSwzKSwi5Z6C55u0Ijpyb3VuZCh2ZSwzKSwi5q+UIjpyb3VuZCh2ZS9oZSwyKX0KICAgIGNuPVtyIGZvciByIGluIHJvd3MgaWYgclswXS5zdGFydHN3aXRoKCLmsYnlrZciKV0KICAgIGVuPVtyIGZvciByIGluIHJvd3MgaWYgclswXS5zdGFydHN3aXRoKCLoi7HmlociKV0KICAgIGNkPVtyIGZvciByIGluIHJvd3MgaWYgclswXS5zdGFydHN3aXRoKCLku6PnoIEiKV0KICAgIGZvciBncnAsbm0gaW4gWyhjbiwi5rGJ5a2XIiksKGVuLCLoi7HmlociKSwoY2QsIuS7o+eggSIpXToKICAgICAgICBpZiBncnA6IHByaW50KGYiICDilIDilIAge25tfTog5Z6C55u0L+awtOW5syA9IHtucC5tZWFuKFtnWzNdIGZvciBnIGluIGdycF0pOi4yZn0iKQogICAgaWYgY24gYW5kIGVuOgogICAgICAgIHByaW50KGYiICDimIUg5rGJ5a2X5Z6C55u05pa55ZCR55qE5L+h5oGv5piv6Iux5paH55qEIHtucC5tZWFuKFtnWzJdIGZvciBnIGluIGNuXSkvbnAubWVhbihbZ1syXSBmb3IgZyBpbiBlbl0pOi4yZn0g5YCNIikKICAgICAgICBvdXRbIuaxieWtl+WeguebtOS/oeaBr+aYr+iLseaWh+eahOWHoOWAjSJdPXJvdW5kKG5wLm1lYW4oW2dbMl0gZm9yIGcgaW4gY25dKS9ucC5tZWFuKFtnWzJdIGZvciBnIGluIGVuXSksMikKICAgIGlmIGNuIGFuZCBjZDoKICAgICAgICBwcmludChmIiAg4piFIOaxieWtl+WeguebtOaWueWQkeeahOS/oeaBr+aYr+S7o+eggeeahCB7bnAubWVhbihbZ1syXSBmb3IgZyBpbiBjbl0pL25wLm1lYW4oW2dbMl0gZm9yIGcgaW4gY2RdKTouMmZ9IOWAjSIpCgogICAgcHJpbnQoIlxuPT09IOi9rOe9rua1i+ivle+8muaKiuWbvui9rCA5MMKw77yM57uT5p6E6L+Y5Ymp5aSa5bCRID09PSIpCiAgICBwcmludChmIiAgeyfmoLfmnKwnOjwyMn17J+WOn+Wbvumdnumbtic6Pjl9eyfovaznva7lkI7kuI7oh6rouqvnm7jlhbPmgKcnOj4xOH0iKQogICAgZm9yIG5hbWUsdCBpbiBzYW1wbGVzWzo4XToKICAgICAgICBtb25vPW5hbWUuc3RhcnRzd2l0aCgi5Luj56CBIikKICAgICAgICBhPXJlbmRlcih0LFcsSCxtb25vPW1vbm8pCiAgICAgICAgaWYgYS5zdW0oKT09MDogY29udGludWUKICAgICAgICBhdD1ucC5yb3Q5MChhKQogICAgICAgICMg6L2s572u5ZCO5LiO5Y6f5Zu+5Zyo5ZCM5LiA5Z2Q5qCH57O75LiL5q+U6L6D77ya5oqK5Lik6ICF6YO9IHBhZCDliLDlkIzlvaLnirYKICAgICAgICBtPW1pbihhLnNoYXBlWzBdLGEuc2hhcGVbMV0pCiAgICAgICAgYz1ucC5jb3JyY29lZihhWzptLDptXS5yYXZlbCgpLCBhdFs6bSw6bV0ucmF2ZWwoKSlbMCwxXQogICAgICAgIHByaW50KGYiICB7bmFtZTo8MjJ9e2ludCgoYT4wLjUpLnN1bSgpKTo+OX17Yzo+MTguM2Z9IikKICAgIHByaW50KGYiICDimIUg5LiA57u055qE5Lic6KW/6L2sIDkwwrAg5bCx5pWj5LqG77yb5LqM57u055qE5Lic6KW/6L2s5a6M6L+Y5pyJ6aqo5p62IikKCiAgICBqc29uLmR1bXAob3V0LCBvcGVuKCLlj4LmlbDlupMv5LqM57u05bqmLmpzb24iLCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludCgiXG7lt7LlrZgg5Y+C5pWw5bqTL+S6jOe7tOW6pi5qc29uIikK
+# -*- coding: utf-8 -*-
+"""真二维 vs 假二维：把文字渲染成图，量『垂直方向到底有没有信息』。"""
+import json, numpy as np, os
+from PIL import Image, ImageDraw, ImageFont
+
+def font(sz, mono=False):
+    cands = (["/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"] if mono else []) + [
+        "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]
+    for p in cands:
+        if os.path.exists(p): return ImageFont.truetype(p, sz)
+    return None
+
+def render(text, W, H, mono=False, sz=80):
+    f=font(sz,mono)
+    im=Image.new("L",(W,H),0); d=ImageDraw.Draw(im)
+    if f is None: return np.array(im)
+    bb=d.textbbox((0,0),text,font=f)
+    w=bb[2]-bb[0]; h=bb[3]-bb[1]
+    if w>W:   # 缩到目标宽
+        f=font(int(sz*W/w*0.95), mono); bb=d.textbbox((0,0),text,font=f)
+        w=bb[2]-bb[0]; h=bb[3]-bb[1]
+    d.text(((W-w)/2-bb[0],(H-h)/2-bb[1]),text,fill=255,font=f)
+    return np.array(im).astype(np.float32)/255
+
+def proj_entropy(a, axis):
+    """沿 axis 压缩，得到一维投影，再算归一化熵（0=完全集中，1=均匀）"""
+    p=a.sum(axis=axis); p=p/p.sum()
+    p=p[p>0]
+    H=-(p*np.log2(p)).sum()
+    return H/np.log2(len(p))     # 归一化到 0..1
+
+if __name__=="__main__":
+    out={}
+    W,H=560,200
+    print("=== 控制到同样宽度，量【垂直方向有没有信息】===")
+    print(f"  {'样本':<22}{'水平投影熵':>11}{'垂直投影熵':>11}{'垂直/水平':>10}")
+    samples=[("汉字 森","森"),("汉字 想","想"),("汉字 国","国"),
+             ("汉字 江海湖","江海湖"),
+             ("英文 forest","forest"),("英文 think","think"),
+             ("英文 nation","nation"),("英文 rivers","rivers"),
+             ("代码 def f(x)","def f(x):"),("代码 return","return x*2")]
+    rows=[]
+    for name,t in samples:
+        mono = name.startswith("代码")
+        a=render(t,W,H,mono=mono)
+        if a.sum()==0: print(f"  {name:<22}  (字体缺失)"); continue
+        he=proj_entropy(a,0)   # 压缩行 → 每列的量 → 水平方向结构
+        ve=proj_entropy(a,1)   # 压缩列 → 每行的量 → 垂直方向结构
+        rows.append((name,he,ve,ve/he))
+        print(f"  {name:<22}{he:>11.3f}{ve:>11.3f}{ve/he:>10.2f}")
+        out[name]={"水平":round(he,3),"垂直":round(ve,3),"比":round(ve/he,2)}
+    cn=[r for r in rows if r[0].startswith("汉字")]
+    en=[r for r in rows if r[0].startswith("英文")]
+    cd=[r for r in rows if r[0].startswith("代码")]
+    for grp,nm in [(cn,"汉字"),(en,"英文"),(cd,"代码")]:
+        if grp: print(f"  ── {nm}: 垂直/水平 = {np.mean([g[3] for g in grp]):.2f}")
+    if cn and en:
+        print(f"  ★ 汉字垂直方向的信息是英文的 {np.mean([g[2] for g in cn])/np.mean([g[2] for g in en]):.2f} 倍")
+        out["汉字垂直信息是英文的几倍"]=round(np.mean([g[2] for g in cn])/np.mean([g[2] for g in en]),2)
+    if cn and cd:
+        print(f"  ★ 汉字垂直方向的信息是代码的 {np.mean([g[2] for g in cn])/np.mean([g[2] for g in cd]):.2f} 倍")
+
+    print("\n=== 转置测试：把图转 90°，结构还剩多少 ===")
+    print(f"  {'样本':<22}{'原图非零':>9}{'转置后与自身相关性':>18}")
+    for name,t in samples[:8]:
+        mono=name.startswith("代码")
+        a=render(t,W,H,mono=mono)
+        if a.sum()==0: continue
+        at=np.rot90(a)
+        # 转置后与原图在同一坐标系下比较：把两者都 pad 到同形状
+        m=min(a.shape[0],a.shape[1])
+        c=np.corrcoef(a[:m,:m].ravel(), at[:m,:m].ravel())[0,1]
+        print(f"  {name:<22}{int((a>0.5).sum()):>9}{c:>18.3f}")
+    print(f"  ★ 一维的东西转 90° 就散了；二维的东西转完还有骨架")
+
+    json.dump(out, open("参数库/二维度.json","w"), ensure_ascii=False, indent=1)
+    print("\n已存 参数库/二维度.json")

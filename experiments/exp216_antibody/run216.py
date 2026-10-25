@@ -1,1 +1,197 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKZXhwMjE2IMK3IOaKl+S9kwoK55eF5q+SID0g5LiN5om/5ouF5a6/5Li75oiQ5pys55qE5aSN5Yi26ICF44CCCuaguOW/g+mXrumimO+8muWuv+S4u+WBmuWHuueahOaKl+S9k++8jOivhuWIq+eahOW6lOivpeaYr+S7gOS5iO+8nwoK5Lik57uE6K+G5Yir6L2077yaCiAgc2VxICAgICAg4oCU4oCUIOivhuWIqyLluo/liJci77yI6ZW/5LuA5LmI5qC377yJ44CC55eF5q+S5Y+v5Y+Y5oqX5Y6f6YCD6YC444CCCiAgYmVoYXZpb3Ig4oCU4oCUIOivhuWIqyLooYzkuLoi77yI5om/5LiN5om/5ouF5a6/5Li75oiQ5pys77yJ44CC55eF5q+S5oOz6YCD6YC45bCx5b+F6aG7CiAgICAgICAgICAgICAg55yf55qE5byA5aeL5om/5ouF5oiQ5pysIOKAlOKAlCDpgIPpgLjljbPmipXpmY3jgIIKCmMg4oiIIFstMSwgMV3vvJrkuKrkvZPlr7nlrr/kuLvnmoTotKHnjK7jgIJjPDAgPSDmtojogJflrr/kuLvvvIjnl4Xmr5LvvInvvIxjPjAgPSDkvpvlhbvvvIjlhbHnlJ/vvInjgIIK57mB5q6W546HID0gYmFzZSAqICgxIC0gaypjKe+8jOWNs++8muaJv+aLheaIkOacrOaYr+ecn+WunueahOS7o+S7t++8jOS8muaLluaFouiHqui6q+WkjeWItuOAggoiIiIKaW1wb3J0IHJhbmRvbSwganNvbiwgbWF0aCwgb3MKCkcgPSAzMiAgICAgICAgICAjIGdlbm9tZSDkvY3plb8KS19DT1NUID0gMC41NSAgICMg5om/5ouF5oiQ5pys5a+56Ieq6Lqr57mB5q6W55qE5ouW57SvCk5PSVNFID0gMC4xOCAgICAjIOaKl+S9k+ingua1iyBjIOeahOWZquWjsAoKZGVmIHBvcGNudCh4KToKICAgIHJldHVybiB4LmJpdF9jb3VudCgpCgpkZWYgbXV0YXRlX2coZywgbXUsIHJuZyk6CiAgICBtID0gMAogICAgZm9yIGkgaW4gcmFuZ2UoRyk6CiAgICAgICAgaWYgcm5nLnJhbmRvbSgpIDwgbXU6CiAgICAgICAgICAgIGcgXj0gKDEgPDwgaSk7IG0gKz0gMQogICAgcmV0dXJuIGcsIG0KCmRlZiBydW4obW9kZT0nbm9fYWInLCB0aHI9LTAuMTUsIFQ9MjUwLCBOPTIwMCwgc2VlZD0wLAogICAgICAgIGV4dGVybmFsPVRydWUsIGNhcD0xMiwgbXUwPTAuMDIsIGluamVjdD1Ob25lKToKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIHBvcCA9IFtdCiAgICBmb3IgaSBpbiByYW5nZShOKToKICAgICAgICBpZiBpIDwgTiAvLyAyOgogICAgICAgICAgICBjID0gLTAuNSArIHJuZy5nYXVzcygwLCAwLjA4KSAgICAgIyDnl4Xmr5LnpZblhYgKICAgICAgICBlbHNlOgogICAgICAgICAgICBjID0gMC41ICsgcm5nLmdhdXNzKDAsIDAuMDgpICAgICAgIyDlhbHnlJ/npZblhYgKICAgICAgICBwb3AuYXBwZW5kKHsnZyc6IHJuZy5nZXRyYW5kYml0cyhHKSwgJ2MnOiBtYXgoLTEuMCwgbWluKDEuMCwgYykpfSkKCiAgICBIID0gMS4wCiAgICBsaWIgPSBbXSAgICAgICAgICAjIOaKl+S9k+W6kzogW2dlbm9tZSwgZXhwb3N1cmVdCiAgICBoaXN0ID0gW10KICAgIGNsZWFyZWRfc3ltYiA9IDAgICMg6K+v5Lyk6K6h5pWwCiAgICB0b3RhbF9zeW1iID0gMAogICAgbGFncyA9IFtdICAgICAgICAgIyDkuKTmrKHnl4Xmr5LohInlhrLnmoTmuIXpmaTlu7bov58KICAgIHB1bHNlX3N0YXRlID0gWzAsIDBdCgogICAgZm9yIHQgaW4gcmFuZ2UoVCk6CiAgICAgICAgIyAtLS0g5rOo5YWl6ISJ5Yay77yI5rWL5YWN55ar6K6w5b+G77yJLS0tCiAgICAgICAgaWYgaW5qZWN0IGFuZCB0IGluIGluamVjdDoKICAgICAgICAgICAgaWR4ID0gaW5qZWN0LmluZGV4KHQpCiAgICAgICAgICAgIGZvciBfIGluIHJhbmdlKE4gLy8gNSk6CiAgICAgICAgICAgICAgICBwb3AuYXBwZW5kKHsnZyc6IHJuZy5nZXRyYW5kYml0cyhHKSwgJ2MnOiAtMC44fSkKICAgICAgICAgICAgcHVsc2Vfc3RhdGVbaWR4XSA9IDEKCiAgICAgICAgIyAtLS0g57mB5q6WIC0tLQogICAgICAgIG1lYW5fYyA9IHN1bShhWydjJ10gZm9yIGEgaW4gcG9wKSAvIGxlbihwb3ApCiAgICAgICAgbmV3cG9wID0gW10KICAgICAgICBmb3IgYSBpbiBwb3A6CiAgICAgICAgICAgIGMgPSBhWydjJ10KICAgICAgICAgICAgbXUgPSBtdTAgKiAoMS4wIC0gMC41ICogYykgICAgICAgICAgIyBjIOi2iuS9jueqgeWPmOi2iuW/q++8iOeXheavkueJueW+ge+8iQogICAgICAgICAgICBmaXQgPSBtYXgoMC4wMiwgMS4wIC0gS19DT1NUICogYykKICAgICAgICAgICAgbl9vZmYgPSAxIGlmIHJuZy5yYW5kb20oKSA8IGZpdCBlbHNlIDAKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2Uobl9vZmYpOgogICAgICAgICAgICAgICAgZzIsIF8gPSBtdXRhdGVfZyhhWydnJ10sIG11LCBybmcpCiAgICAgICAgICAgICAgICBjMiA9IG1heCgtMS4wLCBtaW4oMS4wLCBtYXgoMC4wLCBjICsgcm5nLmdhdXNzKDAsIDAuMDUpKSAqIDAgKyBjICsgcm5nLmdhdXNzKDAsIDAuMDUpKSkKICAgICAgICAgICAgICAgIGMyID0gbWF4KC0xLjAsIG1pbigxLjAsIGMyKSkKICAgICAgICAgICAgICAgIG5ld3BvcC5hcHBlbmQoeydnJzogZzIsICdjJzogYzJ9KQoKICAgICAgICAjIC0tLSDlrr/kuLvliqjlipvlraYgLS0tCiAgICAgICAgbWMgPSBzdW0oYVsnYyddIGZvciBhIGluIG5ld3BvcCkgLyBtYXgoMSwgbGVuKG5ld3BvcCkpCiAgICAgICAgSHRhcmdldCA9IG1heCgwLjAsIG1pbigxLjAsIDAuNSArIDAuNSAqIG1jKSkKICAgICAgICBIICs9IDAuMDYgKiAoSHRhcmdldCAtIEgpCiAgICAgICAgSCA9IG1heCgwLjAsIG1pbigxLjAsIEgpKQoKICAgICAgICAjIC0tLSDmipfkvZPmuIXpmaQgLS0tCiAgICAgICAgaWYgbW9kZSAhPSAnbm9fYWInOgogICAgICAgICAgICBzdXJ2aXZvcnMgPSBbXQogICAgICAgICAgICBmb3IgYSBpbiBuZXdwb3A6CiAgICAgICAgICAgICAgICBraWxsID0gRmFsc2UKICAgICAgICAgICAgICAgIGlmIG1vZGUgPT0gJ3NlcSc6CiAgICAgICAgICAgICAgICAgICAgZm9yIHBhdCBpbiBsaWI6CiAgICAgICAgICAgICAgICAgICAgICAgIGQgPSBwb3BjbnQoYVsnZyddIF4gcGF0WzBdKQogICAgICAgICAgICAgICAgICAgICAgICBzaW0gPSAxLjAgLSBkIC8gRwogICAgICAgICAgICAgICAgICAgICAgICBpZiBzaW0gPiAwLjgwOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcF9tZW0gPSAwLjMwICsgMC42NSAqICgxIC0gbWF0aC5leHAoLTAuOCAqIHBhdFsxXSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBybmcucmFuZG9tKCkgPCBwX21lbToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBraWxsID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhdFsxXSArPSAxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIGVsaWYgbW9kZSA9PSAnYmVoYXZpb3InOgogICAgICAgICAgICAgICAgICAgIGNfb2JzID0gYVsnYyddICsgcm5nLmdhdXNzKDAsIE5PSVNFKQogICAgICAgICAgICAgICAgICAgIGlmIGNfb2JzIDwgdGhyOgogICAgICAgICAgICAgICAgICAgICAgICBwX21lbSA9IDAuMzAgKyAwLjY1ICogKDEgLSBtYXRoLmV4cCgtMC44ICogMykpCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHJuZy5yYW5kb20oKSA8IHBfbWVtOgogICAgICAgICAgICAgICAgICAgICAgICAgICAga2lsbCA9IFRydWUKICAgICAgICAgICAgICAgIGlmIGtpbGw6CiAgICAgICAgICAgICAgICAgICAgaWYgYVsnYyddID4gMDoKICAgICAgICAgICAgICAgICAgICAgICAgY2xlYXJlZF9zeW1iICs9IDEKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgc3Vydml2b3JzLmFwcGVuZChhKQogICAgICAgICAgICAjIC0tLSDmipfkvZPlupPmm7TmlrAgLS0tCiAgICAgICAgICAgIGlmIG1vZGUgPT0gJ3NlcSc6CiAgICAgICAgICAgICAgICAjIOaKiuW9k+WJjee+pOS9k+mHjCLmnIDlj6/nlpEi55qE5Liq5L2T5bqP5YiX5YWl5bqTCiAgICAgICAgICAgICAgICBjYW5kID0gc29ydGVkKG5ld3BvcCwga2V5PWxhbWJkYSB4OiB4WydjJ10pWzozXQogICAgICAgICAgICAgICAgZm9yIGEgaW4gY2FuZDoKICAgICAgICAgICAgICAgICAgICBpZiBleHRlcm5hbDoKICAgICAgICAgICAgICAgICAgICAgICAgIyDlpJbpg6jop4Hor4HkurrvvJrmjInnnJ/lrp4gYyDlhrPlrprvvIjkuI3lj5fmipfkvZPoh6rouqvor6/liKTlvbHlk43vvIkKICAgICAgICAgICAgICAgICAgICAgICAgaWYgYVsnYyddID4gdGhyOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICAjIHNlbGYg5qih5byP77ya5peg6Zeo5qeb77yM6K+v5Yik5Lya5rGh5p+T5bqTCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IGFueShwWzBdID09IGFbJ2cnXSBmb3IgcCBpbiBsaWIpOgogICAgICAgICAgICAgICAgICAgICAgICBsaWIuYXBwZW5kKFthWydnJ10sIDBdKQogICAgICAgICAgICAgICAgICAgICAgICBpZiBsZW4obGliKSA+IGNhcDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpYi5wb3AoMCkKICAgICAgICAgICAgbmV3cG9wID0gc3Vydml2b3JzCgogICAgICAgIGlmIG5vdCBuZXdwb3A6CiAgICAgICAgICAgIG5ld3BvcCA9IFt7J2cnOiBybmcuZ2V0cmFuZGJpdHMoRyksICdjJzogMC4yfV0KICAgICAgICBwb3AgPSBuZXdwb3BbOk4gKiAyXQoKICAgICAgICAjIC0tLSDohInlhrLmuIXpmaTlu7bov58gLS0tCiAgICAgICAgZm9yIGlkeCwgdHQgaW4gZW51bWVyYXRlKGluamVjdCBvciBbXSk6CiAgICAgICAgICAgIGlmIHB1bHNlX3N0YXRlW2lkeF0gPT0gMSBhbmQgdCA+IHR0OgogICAgICAgICAgICAgICAgZnJhYyA9IHN1bSgxIGZvciBhIGluIHBvcCBpZiBhWydjJ10gPCAtMC40KSAvIG1heCgxLCBsZW4ocG9wKSkKICAgICAgICAgICAgICAgIGlmIGZyYWMgPCAwLjEwOgogICAgICAgICAgICAgICAgICAgIGxhZ3MuYXBwZW5kKHQgLSB0dCkKICAgICAgICAgICAgICAgICAgICBwdWxzZV9zdGF0ZVtpZHhdID0gMgoKICAgICAgICB0b3RhbF9zeW1iICs9IHN1bSgxIGZvciBhIGluIHBvcCBpZiBhWydjJ10gPiAwKQogICAgICAgIGhpc3QuYXBwZW5kKHsKICAgICAgICAgICAgJ3QnOiB0LCAnSCc6IHJvdW5kKEgsIDQpLAogICAgICAgICAgICAnbWVhbl9jJzogcm91bmQoc3VtKGFbJ2MnXSBmb3IgYSBpbiBwb3ApIC8gbGVuKHBvcCksIDQpLAogICAgICAgICAgICAnZnJhY192Jzogcm91bmQoc3VtKDEgZm9yIGEgaW4gcG9wIGlmIGFbJ2MnXSA8IC0wLjMpIC8gbGVuKHBvcCksIDQpLAogICAgICAgICAgICAnbGliJzogbGVuKGxpYiksCiAgICAgICAgICAgICdtZWFuX2dfc2ltJzogTm9uZSwKICAgICAgICB9KQoKICAgIHJldHVybiB7CiAgICAgICAgJ21vZGUnOiBtb2RlLCAndGhyJzogdGhyLCAnc2VlZCc6IHNlZWQsICdleHRlcm5hbCc6IGV4dGVybmFsLAogICAgICAgICdIX2ZpbmFsJzogcm91bmQoSCwgNCksCiAgICAgICAgJ21lYW5fY19maW5hbCc6IHJvdW5kKHN1bShhWydjJ10gZm9yIGEgaW4gcG9wKSAvIGxlbihwb3ApLCA0KSwKICAgICAgICAnZnJhY192X2ZpbmFsJzogcm91bmQoc3VtKDEgZm9yIGEgaW4gcG9wIGlmIGFbJ2MnXSA8IC0wLjMpIC8gbGVuKHBvcCksIDQpLAogICAgICAgICdtaXNraWxsX3JhdGUnOiByb3VuZChjbGVhcmVkX3N5bWIgLyBtYXgoMSwgdG90YWxfc3ltYiksIDQpLAogICAgICAgICdsaWJfc2l6ZSc6IGxlbihsaWIpLAogICAgICAgICdsYWdzJzogbGFncywKICAgICAgICAnaGlzdCc6IGhpc3QsCiAgICB9CgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG9zLm1ha2VkaXJzKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAyMTZfYW50aWJvZHknLCBleGlzdF9vaz1UcnVlKQogICAgb3V0ID0ge30KCiAgICAjIEEuIOWbm+e7hOWvueeFpyDDlyAzIHNlZWQKICAgIG91dFsnbWFpbiddID0gW10KICAgIGZvciBtb2RlLCBleHQgaW4gWygnbm9fYWInLCBGYWxzZSksICgnc2VxJywgVHJ1ZSksCiAgICAgICAgICAgICAgICAgICAgICAoJ2JlaGF2aW9yJywgVHJ1ZSksICgnYmVoYXZpb3InLCBGYWxzZSldOgogICAgICAgIHJzID0gW10KICAgICAgICBmb3IgcyBpbiByYW5nZSgzKToKICAgICAgICAgICAgcnMuYXBwZW5kKHJ1bihtb2RlPW1vZGUsIGV4dGVybmFsPWV4dCwgc2VlZD1zLCBUPTI1MCkpCiAgICAgICAga2V5ID0gbW9kZSBpZiBtb2RlID09ICdub19hYicgZWxzZSBmInttb2RlfV97J2V4dCcgaWYgZXh0IGVsc2UgJ3NlbGYnfSIKICAgICAgICBvdXRbJ21haW4nXS5hcHBlbmQoeydrZXknOiBrZXksICdydW5zJzogcnN9KQoKICAgICMgQi4g6ZiI5YC85omr5o+P77yI6Ieq6Lqr5YWN55ar5Luj5Lu377yJCiAgICBvdXRbJ3Rocl9zY2FuJ10gPSBbXQogICAgZm9yIHRociBpbiBbLTAuNDAsIC0wLjI1LCAtMC4xNSwgLTAuMDUsIDAuMDUsIDAuMTVdOgogICAgICAgIHIgPSBydW4obW9kZT0nYmVoYXZpb3InLCB0aHI9dGhyLCBleHRlcm5hbD1UcnVlLCBzZWVkPTAsIFQ9MjUwKQogICAgICAgIG91dFsndGhyX3NjYW4nXS5hcHBlbmQoeyd0aHInOiB0aHIsICdydW4nOiByfSkKCiAgICAjIEMuIOWFjeeWq+iusOW/hu+8muS4pOasoeeXheavkuiEieWGsgogICAgb3V0WydtZW1vcnknXSA9IFtdCiAgICBmb3IgbW9kZSBpbiBbJ25vX2FiJywgJ2JlaGF2aW9yJywgJ3NlcSddOgogICAgICAgIHIgPSBydW4obW9kZT1tb2RlLCBleHRlcm5hbD1UcnVlLCBzZWVkPTAsIFQ9MjYwLCBpbmplY3Q9WzEwMCwgMTgwXSkKICAgICAgICBvdXRbJ21lbW9yeSddLmFwcGVuZCh7J21vZGUnOiBtb2RlLCAncnVuJzogcn0pCgogICAgd2l0aCBvcGVuKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAyMTZfYW50aWJvZHkvcmVzdWx0MjE2Lmpzb24nLCAndycpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKG91dCwgZiwgZW5zdXJlX2FzY2lpPUZhbHNlKQoKICAgIHByaW50KCI9PT0gQS4g5Zub57uE5a+554WnID09PSIpCiAgICBmb3IgZyBpbiBvdXRbJ21haW4nXToKICAgICAgICBycyA9IGdbJ3J1bnMnXQogICAgICAgIHByaW50KGYie2dbJ2tleSddOjE2c30gSD17c3VtKHJbJ0hfZmluYWwnXSBmb3IgciBpbiBycykvMzouM2Z9ICIKICAgICAgICAgICAgICBmImM9e3N1bShyWydtZWFuX2NfZmluYWwnXSBmb3IgciBpbiBycykvMzorLjNmfSAiCiAgICAgICAgICAgICAgZiLnl4Xmr5I9e3N1bShyWydmcmFjX3ZfZmluYWwnXSBmb3IgciBpbiBycykvMzouM2Z9ICIKICAgICAgICAgICAgICBmIuivr+S8pD17c3VtKHJbJ21pc2tpbGxfcmF0ZSddIGZvciByIGluIHJzKS8zOi40Zn0iKQogICAgcHJpbnQoIlxuPT09IEIuIOmYiOWAvOaJq+aPj++8iOaKl+S9k+a/gOi/m+W6pu+8iT09PSIpCiAgICBmb3IgcyBpbiBvdXRbJ3Rocl9zY2FuJ106CiAgICAgICAgciA9IHNbJ3J1biddCiAgICAgICAgcHJpbnQoZiJ0aHI9e3NbJ3RociddOisuMmZ9ICBIPXtyWydIX2ZpbmFsJ106LjNmfSAgYz17clsnbWVhbl9jX2ZpbmFsJ106Ky4zZn0gIgogICAgICAgICAgICAgIGYi55eF5q+SPXtyWydmcmFjX3ZfZmluYWwnXTouM2Z9ICDor6/kvKQ9e3JbJ21pc2tpbGxfcmF0ZSddOi40Zn0iKQogICAgcHJpbnQoIlxuPT09IEMuIOWFjeeWq+iusOW/hu+8iOS4pOasoeiEieWGsueahOa4hemZpOW7tui/n++8iT09PSIpCiAgICBmb3IgbSBpbiBvdXRbJ21lbW9yeSddOgogICAgICAgIHByaW50KGYie21bJ21vZGUnXToxMHN9IGxhZ3M9e21bJ3J1biddWydsYWdzJ119IikK
+#!/usr/bin/env python3
+"""
+exp216 · 抗体
+
+病毒 = 不承担宿主成本的复制者。
+核心问题：宿主做出的抗体，识别的应该是什么？
+
+两组识别轴：
+  seq      —— 识别"序列"（长什么样）。病毒可变抗原逃逸。
+  behavior —— 识别"行为"（承不承担宿主成本）。病毒想逃逸就必须
+              真的开始承担成本 —— 逃逸即投降。
+
+c ∈ [-1, 1]：个体对宿主的贡献。c<0 = 消耗宿主（病毒），c>0 = 供养（共生）。
+繁殖率 = base * (1 - k*c)，即：承担成本是真实的代价，会拖慢自身复制。
+"""
+import random, json, math, os
+
+G = 32          # genome 位长
+K_COST = 0.55   # 承担成本对自身繁殖的拖累
+NOISE = 0.18    # 抗体观测 c 的噪声
+
+def popcnt(x):
+    return x.bit_count()
+
+def mutate_g(g, mu, rng):
+    m = 0
+    for i in range(G):
+        if rng.random() < mu:
+            g ^= (1 << i); m += 1
+    return g, m
+
+def run(mode='no_ab', thr=-0.15, T=250, N=200, seed=0,
+        external=True, cap=12, mu0=0.02, inject=None):
+    rng = random.Random(seed)
+    pop = []
+    for i in range(N):
+        if i < N // 2:
+            c = -0.5 + rng.gauss(0, 0.08)     # 病毒祖先
+        else:
+            c = 0.5 + rng.gauss(0, 0.08)      # 共生祖先
+        pop.append({'g': rng.getrandbits(G), 'c': max(-1.0, min(1.0, c))})
+
+    H = 1.0
+    lib = []          # 抗体库: [genome, exposure]
+    hist = []
+    cleared_symb = 0  # 误伤计数
+    total_symb = 0
+    lags = []         # 两次病毒脉冲的清除延迟
+    pulse_state = [0, 0]
+
+    for t in range(T):
+        # --- 注入脉冲（测免疫记忆）---
+        if inject and t in inject:
+            idx = inject.index(t)
+            for _ in range(N // 5):
+                pop.append({'g': rng.getrandbits(G), 'c': -0.8})
+            pulse_state[idx] = 1
+
+        # --- 繁殖 ---
+        mean_c = sum(a['c'] for a in pop) / len(pop)
+        newpop = []
+        for a in pop:
+            c = a['c']
+            mu = mu0 * (1.0 - 0.5 * c)          # c 越低突变越快（病毒特征）
+            fit = max(0.02, 1.0 - K_COST * c)
+            n_off = 1 if rng.random() < fit else 0
+            for _ in range(n_off):
+                g2, _ = mutate_g(a['g'], mu, rng)
+                c2 = max(-1.0, min(1.0, max(0.0, c + rng.gauss(0, 0.05)) * 0 + c + rng.gauss(0, 0.05)))
+                c2 = max(-1.0, min(1.0, c2))
+                newpop.append({'g': g2, 'c': c2})
+
+        # --- 宿主动力学 ---
+        mc = sum(a['c'] for a in newpop) / max(1, len(newpop))
+        Htarget = max(0.0, min(1.0, 0.5 + 0.5 * mc))
+        H += 0.06 * (Htarget - H)
+        H = max(0.0, min(1.0, H))
+
+        # --- 抗体清除 ---
+        if mode != 'no_ab':
+            survivors = []
+            for a in newpop:
+                kill = False
+                if mode == 'seq':
+                    for pat in lib:
+                        d = popcnt(a['g'] ^ pat[0])
+                        sim = 1.0 - d / G
+                        if sim > 0.80:
+                            p_mem = 0.30 + 0.65 * (1 - math.exp(-0.8 * pat[1]))
+                            if rng.random() < p_mem:
+                                kill = True
+                                pat[1] += 1
+                                break
+                elif mode == 'behavior':
+                    c_obs = a['c'] + rng.gauss(0, NOISE)
+                    if c_obs < thr:
+                        p_mem = 0.30 + 0.65 * (1 - math.exp(-0.8 * 3))
+                        if rng.random() < p_mem:
+                            kill = True
+                if kill:
+                    if a['c'] > 0:
+                        cleared_symb += 1
+                    continue
+                survivors.append(a)
+            # --- 抗体库更新 ---
+            if mode == 'seq':
+                # 把当前群体里"最可疑"的个体序列入库
+                cand = sorted(newpop, key=lambda x: x['c'])[:3]
+                for a in cand:
+                    if external:
+                        # 外部见证人：按真实 c 决定（不受抗体自身误判影响）
+                        if a['c'] > thr:
+                            continue
+                    # self 模式：无门槛，误判会污染库
+                    if not any(p[0] == a['g'] for p in lib):
+                        lib.append([a['g'], 0])
+                        if len(lib) > cap:
+                            lib.pop(0)
+            newpop = survivors
+
+        if not newpop:
+            newpop = [{'g': rng.getrandbits(G), 'c': 0.2}]
+        pop = newpop[:N * 2]
+
+        # --- 脉冲清除延迟 ---
+        for idx, tt in enumerate(inject or []):
+            if pulse_state[idx] == 1 and t > tt:
+                frac = sum(1 for a in pop if a['c'] < -0.4) / max(1, len(pop))
+                if frac < 0.10:
+                    lags.append(t - tt)
+                    pulse_state[idx] = 2
+
+        total_symb += sum(1 for a in pop if a['c'] > 0)
+        hist.append({
+            't': t, 'H': round(H, 4),
+            'mean_c': round(sum(a['c'] for a in pop) / len(pop), 4),
+            'frac_v': round(sum(1 for a in pop if a['c'] < -0.3) / len(pop), 4),
+            'lib': len(lib),
+            'mean_g_sim': None,
+        })
+
+    return {
+        'mode': mode, 'thr': thr, 'seed': seed, 'external': external,
+        'H_final': round(H, 4),
+        'mean_c_final': round(sum(a['c'] for a in pop) / len(pop), 4),
+        'frac_v_final': round(sum(1 for a in pop if a['c'] < -0.3) / len(pop), 4),
+        'miskill_rate': round(cleared_symb / max(1, total_symb), 4),
+        'lib_size': len(lib),
+        'lags': lags,
+        'hist': hist,
+    }
+
+
+if __name__ == '__main__':
+    os.makedirs('/data/workspace/luoshen-o1/experiments/exp216_antibody', exist_ok=True)
+    out = {}
+
+    # A. 四组对照 × 3 seed
+    out['main'] = []
+    for mode, ext in [('no_ab', False), ('seq', True),
+                      ('behavior', True), ('behavior', False)]:
+        rs = []
+        for s in range(3):
+            rs.append(run(mode=mode, external=ext, seed=s, T=250))
+        key = mode if mode == 'no_ab' else f"{mode}_{'ext' if ext else 'self'}"
+        out['main'].append({'key': key, 'runs': rs})
+
+    # B. 阈值扫描（自身免疫代价）
+    out['thr_scan'] = []
+    for thr in [-0.40, -0.25, -0.15, -0.05, 0.05, 0.15]:
+        r = run(mode='behavior', thr=thr, external=True, seed=0, T=250)
+        out['thr_scan'].append({'thr': thr, 'run': r})
+
+    # C. 免疫记忆：两次病毒脉冲
+    out['memory'] = []
+    for mode in ['no_ab', 'behavior', 'seq']:
+        r = run(mode=mode, external=True, seed=0, T=260, inject=[100, 180])
+        out['memory'].append({'mode': mode, 'run': r})
+
+    with open('/data/workspace/luoshen-o1/experiments/exp216_antibody/result216.json', 'w') as f:
+        json.dump(out, f, ensure_ascii=False)
+
+    print("=== A. 四组对照 ===")
+    for g in out['main']:
+        rs = g['runs']
+        print(f"{g['key']:16s} H={sum(r['H_final'] for r in rs)/3:.3f} "
+              f"c={sum(r['mean_c_final'] for r in rs)/3:+.3f} "
+              f"病毒={sum(r['frac_v_final'] for r in rs)/3:.3f} "
+              f"误伤={sum(r['miskill_rate'] for r in rs)/3:.4f}")
+    print("\n=== B. 阈值扫描（抗体激进度）===")
+    for s in out['thr_scan']:
+        r = s['run']
+        print(f"thr={s['thr']:+.2f}  H={r['H_final']:.3f}  c={r['mean_c_final']:+.3f} "
+              f"病毒={r['frac_v_final']:.3f}  误伤={r['miskill_rate']:.4f}")
+    print("\n=== C. 免疫记忆（两次脉冲的清除延迟）===")
+    for m in out['memory']:
+        print(f"{m['mode']:10s} lags={m['run']['lags']}")

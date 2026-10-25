@@ -1,1 +1,59 @@
-IiIiRW52aXJvbm1lbnQgY29uZmlndXJhdGlvbiBsb2FkaW5nIGFuZCBwcmVzZXQgcmVzb2x1dGlvbiB1dGlsaXRpZXMuIiIiCgppbXBvcnQgZ3ltbmFzaXVtIGFzIGd5bQoKZnJvbSBpc2FhY2xhYi5lbnZzIGltcG9ydCBNYW5hZ2VyQmFzZWRSTEVudkNmZwpmcm9tIGlzYWFjbGFiX3Rhc2tzLnV0aWxzLmh5ZHJhIGltcG9ydCByZXNvbHZlX3Rhc2tfY29uZmlnCgoKZGVmIHBhcnNlX2Vudl9jZmcoCiAgICB0YXNrX25hbWU6IHN0ciwKICAgIGRldmljZTogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICBudW1fZW52czogaW50IHwgTm9uZSA9IE5vbmUsCiAgICB1c2VfZmFicmljOiBib29sIHwgTm9uZSA9IE5vbmUsCiAgICBlbnRyeV9wb2ludF9rZXk6IHN0ciA9ICJlbnZfY2ZnX2VudHJ5X3BvaW50IiwKICAgIHBoeXNpY3M6IHN0ciB8IE5vbmUgPSBOb25lLAopIC0+IE1hbmFnZXJCYXNlZFJMRW52Q2ZnOgogICAgIiIiUGFyc2UgY29uZmlndXJhdGlvbiBmb3IgYW4gZW52aXJvbm1lbnQgYW5kIG92ZXJyaWRlIGJhc2VkIG9uIGlucHV0cy4KCiAgICBBcmdzOgogICAgICAgIHRhc2tfbmFtZTogVGhlIG5hbWUgb2YgdGhlIGVudmlyb25tZW50LgogICAgICAgIGRldmljZTogVGhlIHNpbXVsYXRpb24gZGV2aWNlLCBvciBOb25lIHRvIHByZXNlcnZlIHRoZSB0YXNrIGRlZmF1bHQuCiAgICAgICAgbnVtX2VudnM6IE51bWJlciBvZiBlbnZpcm9ubWVudHMgdG8gY3JlYXRlLiBEZWZhdWx0cyB0byBOb25lLCBpbiB3aGljaCBjYXNlIGl0IGlzIGxlZnQgdW5jaGFuZ2VkLgogICAgICAgIHVzZV9mYWJyaWM6IFdoZXRoZXIgdG8gZW5hYmxlL2Rpc2FibGUgZmFicmljIGludGVyZmFjZS4gSWYgZmFsc2UsIGFsbCByZWFkL3dyaXRlIG9wZXJhdGlvbnMgZ28gdGhyb3VnaCBVU0QuCiAgICAgICAgICAgIFRoaXMgc2xvd3MgZG93biB0aGUgc2ltdWxhdGlvbiBidXQgYWxsb3dzIHNlZWluZyB0aGUgY2hhbmdlcyBpbiB0aGUgVVNEIHRocm91Z2ggdGhlIFVTRCBzdGFnZS4KICAgICAgICAgICAgRGVmYXVsdHMgdG8gTm9uZSwgaW4gd2hpY2ggY2FzZSBpdCBpcyBsZWZ0IHVuY2hhbmdlZC4KICAgICAgICBwaHlzaWNzOiBPcHRpb25hbCBwaHlzaWNzIHByZXNldCBuYW1lLCBzdWNoIGFzIGBgImlzYWFjc2ltX3BoeXN4ImBgIG9yIGBgIm5ld3Rvbl9tandhcnAiYGAuCgogICAgUmV0dXJuczoKICAgICAgICBUaGUgcGFyc2VkIGNvbmZpZ3VyYXRpb24gb2JqZWN0LgoKICAgIFJhaXNlczoKICAgICAgICBSdW50aW1lRXJyb3I6IElmIHRoZSBjb25maWd1cmF0aW9uIGZvciB0aGUgdGFzayBpcyBub3QgYSBjbGFzcy4gV2UgYXNzdW1lIHVzZXJzIGFsd2F5cyB1c2UgYSBjbGFzcyBmb3IgdGhlCiAgICAgICAgICAgIGVudmlyb25tZW50IGNvbmZpZ3VyYXRpb24uCiAgICAiIiIKICAgICMgQ29tcG9zZSB0aGUgc2VsZWN0ZWQgZW50cnkgcG9pbnQgdGhyb3VnaCBFQSdzIHNoYXJlZCB0YXNrIGJvdW5kYXJ5LgogICAgIyBQbGF5YmFjayBjb25maWdzIGFyZSByZWdpc3RlcmVkIHNlcGFyYXRlbHkgZnJvbSB0cmFpbmluZyBjb25maWdzIGluIHRoaXMgcHJvamVjdC4KICAgIHNwZWMgPSBneW0uc3BlYyh0YXNrX25hbWUuc3BsaXQoIjoiKVstMV0pCiAgICBvcmlnaW5hbF9lbnRyeSA9IHNwZWMua3dhcmdzWyJlbnZfY2ZnX2VudHJ5X3BvaW50Il0KICAgIHNwZWMua3dhcmdzWyJlbnZfY2ZnX2VudHJ5X3BvaW50Il0gPSBzcGVjLmt3YXJnc1tlbnRyeV9wb2ludF9rZXldCiAgICB0cnk6CiAgICAgICAgb3ZlcnJpZGVzID0gW2YicGh5c2ljcz17cGh5c2ljc30iXSBpZiBwaHlzaWNzIGlzIG5vdCBOb25lIGVsc2UgW10KICAgICAgICBjZmcsIF8gPSByZXNvbHZlX3Rhc2tfY29uZmlnKHRhc2tfbmFtZSwgTm9uZSwgb3ZlcnJpZGVzPW92ZXJyaWRlcykKICAgIGZpbmFsbHk6CiAgICAgICAgc3BlYy5rd2FyZ3NbImVudl9jZmdfZW50cnlfcG9pbnQiXSA9IG9yaWdpbmFsX2VudHJ5CgogICAgaWYgaXNpbnN0YW5jZShjZmcsIGRpY3QpOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihmIkNvbmZpZ3VyYXRpb24gZm9yIHRhc2sge3Rhc2tfbmFtZSFyfSBtdXN0IGJlIGEgY29uZmlndXJhdGlvbiBjbGFzcy4iKQoKICAgICMgc2ltdWxhdGlvbiBkZXZpY2UKICAgIGlmIGRldmljZSBpcyBub3QgTm9uZToKICAgICAgICBjZmcuc2ltLmRldmljZSA9IGRldmljZQogICAgIyBkaXNhYmxlIGZhYnJpYyB0byByZWFkL3dyaXRlIHRocm91Z2ggVVNECiAgICBpZiB1c2VfZmFicmljIGlzIG5vdCBOb25lOgogICAgICAgIGNmZy5zaW0udXNlX2ZhYnJpYyA9IHVzZV9mYWJyaWMKICAgICMgbnVtYmVyIG9mIGVudmlyb25tZW50cwogICAgaWYgbnVtX2VudnMgaXMgbm90IE5vbmU6CiAgICAgICAgY2ZnLnNjZW5lLm51bV9lbnZzID0gbnVtX2VudnMKCiAgICByZXR1cm4gY2ZnCg==
+"""Environment configuration loading and preset resolution utilities."""
+
+import gymnasium as gym
+
+from isaaclab.envs import ManagerBasedRLEnvCfg
+from isaaclab_tasks.utils.hydra import resolve_task_config
+
+
+def parse_env_cfg(
+    task_name: str,
+    device: str | None = None,
+    num_envs: int | None = None,
+    use_fabric: bool | None = None,
+    entry_point_key: str = "env_cfg_entry_point",
+    physics: str | None = None,
+) -> ManagerBasedRLEnvCfg:
+    """Parse configuration for an environment and override based on inputs.
+
+    Args:
+        task_name: The name of the environment.
+        device: The simulation device, or None to preserve the task default.
+        num_envs: Number of environments to create. Defaults to None, in which case it is left unchanged.
+        use_fabric: Whether to enable/disable fabric interface. If false, all read/write operations go through USD.
+            This slows down the simulation but allows seeing the changes in the USD through the USD stage.
+            Defaults to None, in which case it is left unchanged.
+        physics: Optional physics preset name, such as ``"isaacsim_physx"`` or ``"newton_mjwarp"``.
+
+    Returns:
+        The parsed configuration object.
+
+    Raises:
+        RuntimeError: If the configuration for the task is not a class. We assume users always use a class for the
+            environment configuration.
+    """
+    # Compose the selected entry point through EA's shared task boundary.
+    # Playback configs are registered separately from training configs in this project.
+    spec = gym.spec(task_name.split(":")[-1])
+    original_entry = spec.kwargs["env_cfg_entry_point"]
+    spec.kwargs["env_cfg_entry_point"] = spec.kwargs[entry_point_key]
+    try:
+        overrides = [f"physics={physics}"] if physics is not None else []
+        cfg, _ = resolve_task_config(task_name, None, overrides=overrides)
+    finally:
+        spec.kwargs["env_cfg_entry_point"] = original_entry
+
+    if isinstance(cfg, dict):
+        raise RuntimeError(f"Configuration for task {task_name!r} must be a configuration class.")
+
+    # simulation device
+    if device is not None:
+        cfg.sim.device = device
+    # disable fabric to read/write through USD
+    if use_fabric is not None:
+        cfg.sim.use_fabric = use_fabric
+    # number of environments
+    if num_envs is not None:
+        cfg.scene.num_envs = num_envs
+
+    return cfg

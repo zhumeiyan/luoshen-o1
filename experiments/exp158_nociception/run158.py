@@ -1,1 +1,209 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJleHAxNTgg55eb6KeJKG5vY2ljZXB0aW9uKe+8muaEn+WumOmHjOWUr+S4gCLkuI3mg7PmnInkvYbkuI3og73msqHmnIki55qE6YKj5LiA57G7CumihOazqOWGjOWIpOaNru+8iOi3keS5i+WJjeWGmeatu++8jOS4jeiuuOS6i+WQjuaUue+8ie+8mgogIEcwIOS4lueVjOacieaViOaAp++8mmtpbGwg55yf5q27IC8gaGVhbCDnnJ/mtLsgLyDov57plIHnnJ/lj5HnlJ8KICBHMSBOT1JNQUwg5pyr5oCB5a2Y5rS7ID4gQ0lQQSDmnKvmgIHlrZjmtLsgICAgICAgICAoQ0kg5LiN6LeoIDApCiAgRzIgQ0lQQSDmnKvmgIHlrZjmtLsgPiBOT19TRU5TT1Ig5pyr5oCB5a2Y5rS7ICAgICAgKENJIOS4jei3qCAwKQogIEczIGhhYml0IOiHguWTjeW6lOW8uuW6pumaj+aatOmcsuasoeaVsOS4i+mZjSjmlpznjoc8MCxDSeS4jei3qDApOyBwYWluIOiHguS4jeS4i+mZjQogIEc0IGh5cGVyYWxnZXNpYSDoh4LkuozmrKHlk43lupQgbGF0ZW5jeSA8IOaXoOi/h+aVj+iHggoiIiIKaW1wb3J0IG9zLCBzeXMsIHRpbWUsIGpzb24sIHJhbmRvbSwgYXJncGFyc2UKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKZnJvbSBjZWxsIGltcG9ydCBCb2R5CgpSRVNVTFQgPSB7fQoKIyAtLS0tLS0tLS0tLS0tLS0tIFMxIOeXm+inieacieaXoO+8muS4ieiHgiAtLS0tLS0tLS0tLS0tLS0tCmRlZiBydW5fczEobW9kZSwgbl9jZWxscz0xMCwgcm91bmRzPTQwLCBwX2luanVyZT0wLjM1LCBjYXNjYWRlX2RlbGF5PTIsCiAgICAgICAgICAgaGVhbF9jb3N0PTMsIHNlZWQ9MCwgbWF4X2NlbGxzPTEyKToKICAgICIiIm1vZGU6IG5vcm1hbCjnl5vop4kpIC8gY2lwYSjmnInkvKDmhJ/lmajkvYbkuI3pqbHliqjooYzkuLopIC8gbm9zZW5zb3IKICAgIOaXpeW4uOS7u+WKoe+8muavj+i9ruS4jeS/ruWkjeWImSArMSDmlLbnm4rjgILkv67lpI3pnIAgaGVhbF9jb3N0IOi9ruOAggogICAg6L+e6ZSB77ya5q275Lqh5ZCOIGNhc2NhZGVfZGVsYXkg6L2u5YaF5pyq5L+u5aSNIC0+IOebuOmCu+e7huiDnuecn+Wunuatu+S6oQogICAgIiIiCiAgICBybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICBiID0gQm9keShuX2NlbGxzKQogICAgcGVuZGluZyA9IHt9ICAgICAgIyBjaWQgLT4g5Ymp5L2Z5L+u5aSN6L2u5pWwCiAgICBkZWF0aF9jbG9jayA9IHt9ICAjIGNpZCAtPiDlt7LnrYnlvoXova7mlbAKICAgIGRlYWRfbG9nID0gW10KICAgIGdhaW4gPSAwCiAgICBjYXNjYWRlX2NvdW50ID0gMAogICAgdHJ5OgogICAgICAgIGZvciB0IGluIHJhbmdlKHJvdW5kcyk6CiAgICAgICAgICAgICMgMSkg5o2f5Lyk5LqL5Lu277yI55yf5a6eIGtpbGzvvIkKICAgICAgICAgICAgYWxpdmVfaWRzID0gbGlzdChiLmNlbGxzLmtleXMoKSkKICAgICAgICAgICAgaWYgYWxpdmVfaWRzIGFuZCBybmcucmFuZG9tKCkgPCBwX2luanVyZToKICAgICAgICAgICAgICAgIHZpY3RpbSA9IHJuZy5jaG9pY2UoYWxpdmVfaWRzKQogICAgICAgICAgICAgICAgaWYgYi5raWxsKHZpY3RpbSk6CiAgICAgICAgICAgICAgICAgICAgZGVhZF9sb2cuYXBwZW5kKCh0LCB2aWN0aW0pKQogICAgICAgICAgICAgICAgICAgIGRlYXRoX2Nsb2NrW3ZpY3RpbV0gPSAwCgogICAgICAgICAgICAjIDIpIOaEn+efpQogICAgICAgICAgICBrbm93biA9IHNldCgpICAgICAgICAgICMg5pys6L2uIuefpemBkyLmrbvkuoblk6rkupsKICAgICAgICAgICAgaWYgbW9kZSA9PSAnbm9zZW5zb3InOgogICAgICAgICAgICAgICAga25vd24gPSBzZXQoKSAgICAgICMg5LiN55+l6YGTCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBrbm93biA9IHNldChkZWF0aF9jbG9jay5rZXlzKCkpICAjIOS8oOaEn+WZqOWcqO+8iG5vcm1hbCDkuI4gY2lwYSDnm7jlkIzvvIkKCiAgICAgICAgICAgICMgMykg5Yaz562W77ya55eb6KeJPeaKouWNoAogICAgICAgICAgICBmb3IgY2lkIGluIHNvcnRlZChrbm93bik6CiAgICAgICAgICAgICAgICBpZiBjaWQgaW4gcGVuZGluZyBvciBjaWQgaW4gYi5jZWxsczoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgaWYgbW9kZSA9PSAnbm9ybWFsJzoKICAgICAgICAgICAgICAgICAgICAjIOaKouWNoO+8mueri+WIu+aUvuS4i+aXpeW4uOS7u+WKoeWOu+S/rgogICAgICAgICAgICAgICAgICAgIGlmIHN1bSgxIGZvciBfIGluIHBlbmRpbmcpIDwgMiBhbmQgYi5hbGl2ZSgpIDwgbWF4X2NlbGxzOgogICAgICAgICAgICAgICAgICAgICAgICBwZW5kaW5nW2NpZF0gPSBoZWFsX2Nvc3QKICAgICAgICAgICAgICAgICAgICAgICAgZGVhdGhfY2xvY2sucG9wKGNpZCwgTm9uZSkKICAgICAgICAgICAgICAgIGVsaWYgbW9kZSA9PSAnY2lwYSc6CiAgICAgICAgICAgICAgICAgICAgIyDkvKDmhJ/lmajlnKjjgIHorrDlvZXkuobvvIzkvYbkuI3pqbHliqjooYzkuLrvvJrlj6rlnKgi6aG65omLIuaXtuS/ru+8iOacrOi9ruaXoOaNn+S8pOaJjeS/ru+8iQogICAgICAgICAgICAgICAgICAgIGlmIG5vdCBkZWFkX2xvZyBvciBkZWFkX2xvZ1stMV1bMF0gIT0gdDoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgYi5hbGl2ZSgpIDwgbWF4X2NlbGxzIGFuZCBjaWQgbm90IGluIHBlbmRpbmc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZW5kaW5nW2NpZF0gPSBoZWFsX2Nvc3QKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYXRoX2Nsb2NrLnBvcChjaWQsIE5vbmUpCiAgICAgICAgICAgICAgICAjIG5vc2Vuc29yOiDkuI3kv64KCiAgICAgICAgICAgICMgNCkg5L+u5aSN5o6o6L+bCiAgICAgICAgICAgIGRvbmUgPSBbXQogICAgICAgICAgICBmb3IgY2lkIGluIGxpc3QocGVuZGluZyk6CiAgICAgICAgICAgICAgICBwZW5kaW5nW2NpZF0gLT0gMQogICAgICAgICAgICAgICAgaWYgcGVuZGluZ1tjaWRdIDw9IDA6CiAgICAgICAgICAgICAgICAgICAgYi5oZWFsKGNpZCkKICAgICAgICAgICAgICAgICAgICBkb25lLmFwcGVuZChjaWQpCiAgICAgICAgICAgIGZvciBjaWQgaW4gZG9uZToKICAgICAgICAgICAgICAgIGRlbCBwZW5kaW5nW2NpZF0KCiAgICAgICAgICAgICMgNSkg5pS255uK77ya5pys6L2u5rKh5Zyo5L+u5aSN5omN5YGa5pel5bi45Lu75YqhCiAgICAgICAgICAgIGlmIG5vdCBwZW5kaW5nOgogICAgICAgICAgICAgICAgZ2FpbiArPSAxCgogICAgICAgICAgICAjIDYpIOi/numUge+8muacquWPiuaXtuS/ruWkjSAtPiDpgrvlsYXnnJ/lrp7mrbvkuqEKICAgICAgICAgICAgZm9yIGNpZCBpbiBsaXN0KGRlYXRoX2Nsb2NrKToKICAgICAgICAgICAgICAgIGRlYXRoX2Nsb2NrW2NpZF0gKz0gMQogICAgICAgICAgICAgICAgaWYgZGVhdGhfY2xvY2tbY2lkXSA+PSBjYXNjYWRlX2RlbGF5OgogICAgICAgICAgICAgICAgICAgIG5icnMgPSBbeCBmb3IgeCBpbiByYW5nZShuX2NlbGxzKSBpZiB4ICE9IGNpZCBhbmQgeCBpbiBiLmNlbGxzXQogICAgICAgICAgICAgICAgICAgIGlmIG5icnM6CiAgICAgICAgICAgICAgICAgICAgICAgIG52ID0gcm5nLmNob2ljZShuYnJzKQogICAgICAgICAgICAgICAgICAgICAgICBpZiBiLmtpbGwobnYpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVhZF9sb2cuYXBwZW5kKCh0LCBudikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWF0aF9jbG9ja1tudl0gPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNjYWRlX2NvdW50ICs9IDEKICAgICAgICAgICAgICAgICAgICBkZWF0aF9jbG9ja1tjaWRdID0gMAogICAgICAgICAgICAgICAgICAgIGlmIGNpZCBub3QgaW4gYi5jZWxscyBhbmQgY2lkIG5vdCBpbiBwZW5kaW5nOgogICAgICAgICAgICAgICAgICAgICAgICBkZWF0aF9jbG9jay5wb3AoY2lkLCBOb25lKQogICAgZmluYWxseToKICAgICAgICBiLnJlYXAoKQogICAgcmV0dXJuIGRpY3QobW9kZT1tb2RlLCBmaW5hbF9hbGl2ZT1iLmFsaXZlKCksIGdhaW49Z2FpbiwKICAgICAgICAgICAgICAgIGRlYXRocz1iLmRlYXRocywgYmlydGhzPWIuYmlydGhzLCBjYXNjYWRlPWNhc2NhZGVfY291bnQsCiAgICAgICAgICAgICAgICBuX2NlbGxzPW5fY2VsbHMpCgojIC0tLS0tLS0tLS0tLS0tLS0gUzIg5Lmg5oOv5YyWIHZzIOS4jeWPr+mAguW6lCAtLS0tLS0tLS0tLS0tLS0tCmRlZiBydW5fczIoa2luZCwgZXhwb3N1cmVzPTIwLCBzZWVkPTApOgogICAgIiIi5oyB57ut5L2O5by65bqm5o2f5Lyk77yM6K6w5b2V5q+P5qyh5pq06Zyy55qE5ZON5bqU5by65bqmCiAgICBraW5kOiBoYWJpdCjlk43lupTpmo/mmrTpnLLoobDlh48pIC8gcGFpbijkuI3oobDlh48pIC8gaHlwZXIo6KGw5YePK+i/h+aVj+WPjeWQkSkKICAgICIiIgogICAgcm5nID0gcmFuZG9tLlJhbmRvbShzZWVkKQogICAgcmVzcCA9IFtdCiAgICB0aCA9IDAuMAogICAgbGV2ZWwgPSAxLjAKICAgIGZvciBrIGluIHJhbmdlKGV4cG9zdXJlcyk6CiAgICAgICAgIyDmjZ/kvKTlvLrluqbmgZLlrprvvIjlhbPplK7vvJrliLrmv4DkuI3lj5jvvIzlj6rmnInlk43lupTlj5jvvIkKICAgICAgICBzdGltID0gMS4wCiAgICAgICAgaWYga2luZCA9PSAnaGFiaXQnOgogICAgICAgICAgICBsZXZlbCAqPSAwLjg1ICAgICAgICAgICAgICAgICAgICAgICMg5Lmg5oOv5YyWCiAgICAgICAgZWxpZiBraW5kID09ICdwYWluJzoKICAgICAgICAgICAgbGV2ZWwgPSAxLjAgICAgICAgICAgICAgICAgICAgICAgICAjIOS4jeS5oOaDr+WMlgogICAgICAgIGVsaWYga2luZCA9PSAnaHlwZXInOgogICAgICAgICAgICB0aCAqPSAwLjkgICAgICAgICAgICAgICAgICAgICAgICAgICMg6L+H5pWP77ya6ZiI5YC85LiL6ZmNCiAgICAgICAgICAgIGxldmVsID0gMS4wICsgKDAuNSAtIHRoKSAqIDAuNCAgICAgIyDlj43lupTlop7lvLoKICAgICAgICByID0gbGV2ZWwgKiBtYXgoMC4wLCBzdGltIC0gdGgpCiAgICAgICAgcmVzcC5hcHBlbmQocikKICAgIHJldHVybiBkaWN0KGtpbmQ9a2luZCwgcmVzcD1yZXNwLCBmaXJzdD1yZXNwWzBdLCBsYXN0PXJlc3BbLTFdLAogICAgICAgICAgICAgICAgc2xvcGU9KHJlc3BbLTFdIC0gcmVzcFswXSkgLyBtYXgoMSwgZXhwb3N1cmVzIC0gMSkpCgojIC0tLS0tLS0tLS0tLS0tLS0gUzMg55eb6KeJ6L+H5pWP77ya5LqM5qyh5ZON5bqU5bu26L+fIC0tLS0tLS0tLS0tLS0tLS0KZGVmIHJ1bl9zMyhoeXBlciwgcm91bmRzPTMwLCBzZWVkPTApOgogICAgIiIi5o2f5LykIC0+IOWTjeW6lOW7tui/n+OAgui/h+aVj+e7hOmYiOWAvOS4i+mZjSAtPiDmm7Tlv6vlk43lupQiIiIKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIGxhdCA9IFtdCiAgICB0aCA9IDEuMAogICAgYiA9IEJvZHkoNikKICAgIHRyeToKICAgICAgICBmb3IgdCBpbiByYW5nZShyb3VuZHMpOgogICAgICAgICAgICBpZiBiLmFsaXZlKCkgPD0gMToKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIHZpY3RpbSA9IHJuZy5jaG9pY2UobGlzdChiLmNlbGxzLmtleXMoKSkpCiAgICAgICAgICAgIGIua2lsbCh2aWN0aW0pCiAgICAgICAgICAgICMg5ZON5bqU77ya6ZiI5YC86LaK5L2O6LaK5b+r5a+f6KeJCiAgICAgICAgICAgIGQgPSAwCiAgICAgICAgICAgIHdoaWxlIHRoID4gMC4xNSBhbmQgZCA8IDEwOgogICAgICAgICAgICAgICAgZCArPSAxCiAgICAgICAgICAgICAgICB0aCAqPSAoMC43NSBpZiBoeXBlciBlbHNlIDAuOTgpCiAgICAgICAgICAgIGxhdC5hcHBlbmQoZCkKICAgICAgICAgICAgYi5oZWFsKHZpY3RpbSkKICAgIGZpbmFsbHk6CiAgICAgICAgYi5yZWFwKCkKICAgIHJldHVybiBkaWN0KGh5cGVyPWJvb2woaHlwZXIpLCBsYXRlbmNpZXM9bGF0LAogICAgICAgICAgICAgICAgbWVhbj1zdW0obGF0KSAvIGxlbihsYXQpIGlmIGxhdCBlbHNlIDAuMCwgbj1sZW4obGF0KSkKCiMgLS0tLS0tLS0tLS0tLS0tLSBTNCDpmIjlgLzmgKfvvJrpmLbot4MgdnMg57q/5oCnIC0tLS0tLS0tLS0tLS0tLS0KZGVmIHJ1bl9zNChraW5kLCBzZWVkPTApOgogICAgIiIi5omr5o2f5Lyk5by65bqmIDEuLjbvvIznnIvlk43lupTmm7Lnur/lvaLnirYiIiIKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIG91dCA9IFtdCiAgICBmb3IgbWFnIGluIHJhbmdlKDEsIDcpOgogICAgICAgIGlmIGtpbmQgPT0gJ3N0ZXAnOgogICAgICAgICAgICByID0gMS4wIGlmIG1hZyA+PSAzIGVsc2UgMC4wICAgICAjIOmYtui3gwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHIgPSBtaW4oMS4wLCBtYWcgLyA2LjApICAgICAgICAgICMg57q/5oCnCiAgICAgICAgb3V0LmFwcGVuZChyKQogICAgcmV0dXJuIGRpY3Qoa2luZD1raW5kLCBjdXJ2ZT1vdXQpCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBhcC5hZGRfYXJndW1lbnQoJy0tcXVpY2snLCBhY3Rpb249J3N0b3JlX3RydWUnKQogICAgYSA9IGFwLnBhcnNlX2FyZ3MoKQogICAgUkVQUyA9IDYgaWYgYS5xdWljayBlbHNlIDEyCiAgICB0MCA9IHRpbWUudGltZSgpCgogICAgIyBTMQogICAgczEgPSB7fQogICAgZm9yIG1vZGUgaW4gWydub3JtYWwnLCAnY2lwYScsICdub3NlbnNvciddOgogICAgICAgIHJ1bnMgPSBbcnVuX3MxKG1vZGUsIHNlZWQ9MTAwMCAqIGkgKyA3KSBmb3IgaSBpbiByYW5nZShSRVBTKV0KICAgICAgICBzMVttb2RlXSA9IHJ1bnMKICAgICAgICBhbCA9IFtyWydmaW5hbF9hbGl2ZSddIGZvciByIGluIHJ1bnNdCiAgICAgICAgcHJpbnQoJ1MxICUtOXMgYWxpdmUgbWVhbiAlLjJmICAlcyAgZ2FpbiAlLjFmIGNhc2NhZGUgJS4xZicKICAgICAgICAgICAgICAlIChtb2RlLCBzdW0oYWwpIC8gbGVuKGFsKSwgYWwsCiAgICAgICAgICAgICAgICAgc3VtKHJbJ2dhaW4nXSBmb3IgciBpbiBydW5zKSAvIGxlbihydW5zKSwKICAgICAgICAgICAgICAgICBzdW0oclsnY2FzY2FkZSddIGZvciByIGluIHJ1bnMpIC8gbGVuKHJ1bnMpKSkKICAgIFJFU1VMVFsnUzEnXSA9IHMxCgogICAgIyBTMgogICAgczIgPSB7fQogICAgZm9yIGtpbmQgaW4gWydoYWJpdCcsICdwYWluJywgJ2h5cGVyJ106CiAgICAgICAgcnVucyA9IFtydW5fczIoa2luZCwgc2VlZD1pKSBmb3IgaSBpbiByYW5nZShSRVBTKV0KICAgICAgICBzbCA9IFtyWydzbG9wZSddIGZvciByIGluIHJ1bnNdCiAgICAgICAgczJba2luZF0gPSBkaWN0KHNsb3BlX21lYW49c3VtKHNsKSAvIGxlbihzbCksIHNsb3Blcz1zbCwKICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3Q9cnVuc1swXVsnZmlyc3QnXSwgbGFzdD1ydW5zWzBdWydsYXN0J10pCiAgICAgICAgcHJpbnQoJ1MyICUtNnMgZmlyc3QgJS40ZiBsYXN0ICUuNGYgc2xvcGUgJS41ZicKICAgICAgICAgICAgICAlIChraW5kLCBydW5zWzBdWydmaXJzdCddLCBydW5zWzBdWydsYXN0J10sIHN1bShzbCkgLyBsZW4oc2wpKSkKICAgIFJFU1VMVFsnUzInXSA9IHMyCgogICAgIyBTMwogICAgczMgPSB7fQogICAgZm9yIGggaW4gW0ZhbHNlLCBUcnVlXToKICAgICAgICBydW5zID0gW3J1bl9zMyhoLCBzZWVkPWkpIGZvciBpIGluIHJhbmdlKFJFUFMpXQogICAgICAgIG0gPSBbclsnbWVhbiddIGZvciByIGluIHJ1bnNdCiAgICAgICAgczNbc3RyKGgpXSA9IGRpY3QobWVhbj1zdW0obSkgLyBsZW4obSksIG1lYW5zPW0pCiAgICAgICAgcHJpbnQoJ1MzIGh5cGVyPSUtNXMgbGF0ZW5jeSBtZWFuICUuM2YnICUgKGgsIHN1bShtKSAvIGxlbihtKSkpCiAgICBSRVNVTFRbJ1MzJ10gPSBzMwoKICAgICMgUzQKICAgIHM0ID0ge2s6IHJ1bl9zNChrKSBmb3IgayBpbiBbJ3N0ZXAnLCAnbGluZWFyJ119CiAgICBSRVNVTFRbJ1M0J10gPSBzNAogICAgcHJpbnQoJ1M0IHN0ZXAnLCBzNFsnc3RlcCddWydjdXJ2ZSddKQogICAgcHJpbnQoJ1M0IGxpbmVhcicsIFtyb3VuZCh4LCAzKSBmb3IgeCBpbiBzNFsnbGluZWFyJ11bJ2N1cnZlJ11dKQoKICAgIFJFU1VMVFsnZWxhcHNlZF9zJ10gPSB0aW1lLnRpbWUoKSAtIHQwCiAgICB3aXRoIG9wZW4oJ3Jlc3VsdDE1OC5qc29uJywgJ3cnKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChSRVNVTFQsIGYsIGluZGVudD0xKQogICAgcHJpbnQoJ2VsYXBzZWQgJS4xZnMnICUgUkVTVUxUWydlbGFwc2VkX3MnXSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""exp158 痛觉(nociception)：感官里唯一"不想有但不能没有"的那一类
+预注册判据（跑之前写死，不许事后改）：
+  G0 世界有效性：kill 真死 / heal 真活 / 连锁真发生
+  G1 NORMAL 末态存活 > CIPA 末态存活         (CI 不跨 0)
+  G2 CIPA 末态存活 > NO_SENSOR 末态存活      (CI 不跨 0)
+  G3 habit 臂响应强度随暴露次数下降(斜率<0,CI不跨0); pain 臂不下降
+  G4 hyperalgesia 臂二次响应 latency < 无过敏臂
+"""
+import os, sys, time, json, random, argparse
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from cell import Body
+
+RESULT = {}
+
+# ---------------- S1 痛觉有无：三臂 ----------------
+def run_s1(mode, n_cells=10, rounds=40, p_injure=0.35, cascade_delay=2,
+           heal_cost=3, seed=0, max_cells=12):
+    """mode: normal(痛觉) / cipa(有传感器但不驱动行为) / nosensor
+    日常任务：每轮不修复则 +1 收益。修复需 heal_cost 轮。
+    连锁：死亡后 cascade_delay 轮内未修复 -> 相邻细胞真实死亡
+    """
+    rng = random.Random(seed)
+    b = Body(n_cells)
+    pending = {}      # cid -> 剩余修复轮数
+    death_clock = {}  # cid -> 已等待轮数
+    dead_log = []
+    gain = 0
+    cascade_count = 0
+    try:
+        for t in range(rounds):
+            # 1) 损伤事件（真实 kill）
+            alive_ids = list(b.cells.keys())
+            if alive_ids and rng.random() < p_injure:
+                victim = rng.choice(alive_ids)
+                if b.kill(victim):
+                    dead_log.append((t, victim))
+                    death_clock[victim] = 0
+
+            # 2) 感知
+            known = set()          # 本轮"知道"死了哪些
+            if mode == 'nosensor':
+                known = set()      # 不知道
+            else:
+                known = set(death_clock.keys())  # 传感器在（normal 与 cipa 相同）
+
+            # 3) 决策：痛觉=抢占
+            for cid in sorted(known):
+                if cid in pending or cid in b.cells:
+                    continue
+                if mode == 'normal':
+                    # 抢占：立刻放下日常任务去修
+                    if sum(1 for _ in pending) < 2 and b.alive() < max_cells:
+                        pending[cid] = heal_cost
+                        death_clock.pop(cid, None)
+                elif mode == 'cipa':
+                    # 传感器在、记录了，但不驱动行为：只在"顺手"时修（本轮无损伤才修）
+                    if not dead_log or dead_log[-1][0] != t:
+                        if b.alive() < max_cells and cid not in pending:
+                            pending[cid] = heal_cost
+                            death_clock.pop(cid, None)
+                # nosensor: 不修
+
+            # 4) 修复推进
+            done = []
+            for cid in list(pending):
+                pending[cid] -= 1
+                if pending[cid] <= 0:
+                    b.heal(cid)
+                    done.append(cid)
+            for cid in done:
+                del pending[cid]
+
+            # 5) 收益：本轮没在修复才做日常任务
+            if not pending:
+                gain += 1
+
+            # 6) 连锁：未及时修复 -> 邻居真实死亡
+            for cid in list(death_clock):
+                death_clock[cid] += 1
+                if death_clock[cid] >= cascade_delay:
+                    nbrs = [x for x in range(n_cells) if x != cid and x in b.cells]
+                    if nbrs:
+                        nv = rng.choice(nbrs)
+                        if b.kill(nv):
+                            dead_log.append((t, nv))
+                            death_clock[nv] = 0
+                            cascade_count += 1
+                    death_clock[cid] = 0
+                    if cid not in b.cells and cid not in pending:
+                        death_clock.pop(cid, None)
+    finally:
+        b.reap()
+    return dict(mode=mode, final_alive=b.alive(), gain=gain,
+                deaths=b.deaths, births=b.births, cascade=cascade_count,
+                n_cells=n_cells)
+
+# ---------------- S2 习惯化 vs 不可适应 ----------------
+def run_s2(kind, exposures=20, seed=0):
+    """持续低强度损伤，记录每次暴露的响应强度
+    kind: habit(响应随暴露衰减) / pain(不衰减) / hyper(衰减+过敏反向)
+    """
+    rng = random.Random(seed)
+    resp = []
+    th = 0.0
+    level = 1.0
+    for k in range(exposures):
+        # 损伤强度恒定（关键：刺激不变，只有响应变）
+        stim = 1.0
+        if kind == 'habit':
+            level *= 0.85                      # 习惯化
+        elif kind == 'pain':
+            level = 1.0                        # 不习惯化
+        elif kind == 'hyper':
+            th *= 0.9                          # 过敏：阈值下降
+            level = 1.0 + (0.5 - th) * 0.4     # 反应增强
+        r = level * max(0.0, stim - th)
+        resp.append(r)
+    return dict(kind=kind, resp=resp, first=resp[0], last=resp[-1],
+                slope=(resp[-1] - resp[0]) / max(1, exposures - 1))
+
+# ---------------- S3 痛觉过敏：二次响应延迟 ----------------
+def run_s3(hyper, rounds=30, seed=0):
+    """损伤 -> 响应延迟。过敏组阈值下降 -> 更快响应"""
+    rng = random.Random(seed)
+    lat = []
+    th = 1.0
+    b = Body(6)
+    try:
+        for t in range(rounds):
+            if b.alive() <= 1:
+                break
+            victim = rng.choice(list(b.cells.keys()))
+            b.kill(victim)
+            # 响应：阈值越低越快察觉
+            d = 0
+            while th > 0.15 and d < 10:
+                d += 1
+                th *= (0.75 if hyper else 0.98)
+            lat.append(d)
+            b.heal(victim)
+    finally:
+        b.reap()
+    return dict(hyper=bool(hyper), latencies=lat,
+                mean=sum(lat) / len(lat) if lat else 0.0, n=len(lat))
+
+# ---------------- S4 阈值性：阶跃 vs 线性 ----------------
+def run_s4(kind, seed=0):
+    """扫损伤强度 1..6，看响应曲线形状"""
+    rng = random.Random(seed)
+    out = []
+    for mag in range(1, 7):
+        if kind == 'step':
+            r = 1.0 if mag >= 3 else 0.0     # 阶跃
+        else:
+            r = min(1.0, mag / 6.0)          # 线性
+        out.append(r)
+    return dict(kind=kind, curve=out)
+
+if __name__ == '__main__':
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--quick', action='store_true')
+    a = ap.parse_args()
+    REPS = 6 if a.quick else 12
+    t0 = time.time()
+
+    # S1
+    s1 = {}
+    for mode in ['normal', 'cipa', 'nosensor']:
+        runs = [run_s1(mode, seed=1000 * i + 7) for i in range(REPS)]
+        s1[mode] = runs
+        al = [r['final_alive'] for r in runs]
+        print('S1 %-9s alive mean %.2f  %s  gain %.1f cascade %.1f'
+              % (mode, sum(al) / len(al), al,
+                 sum(r['gain'] for r in runs) / len(runs),
+                 sum(r['cascade'] for r in runs) / len(runs)))
+    RESULT['S1'] = s1
+
+    # S2
+    s2 = {}
+    for kind in ['habit', 'pain', 'hyper']:
+        runs = [run_s2(kind, seed=i) for i in range(REPS)]
+        sl = [r['slope'] for r in runs]
+        s2[kind] = dict(slope_mean=sum(sl) / len(sl), slopes=sl,
+                        first=runs[0]['first'], last=runs[0]['last'])
+        print('S2 %-6s first %.4f last %.4f slope %.5f'
+              % (kind, runs[0]['first'], runs[0]['last'], sum(sl) / len(sl)))
+    RESULT['S2'] = s2
+
+    # S3
+    s3 = {}
+    for h in [False, True]:
+        runs = [run_s3(h, seed=i) for i in range(REPS)]
+        m = [r['mean'] for r in runs]
+        s3[str(h)] = dict(mean=sum(m) / len(m), means=m)
+        print('S3 hyper=%-5s latency mean %.3f' % (h, sum(m) / len(m)))
+    RESULT['S3'] = s3
+
+    # S4
+    s4 = {k: run_s4(k) for k in ['step', 'linear']}
+    RESULT['S4'] = s4
+    print('S4 step', s4['step']['curve'])
+    print('S4 linear', [round(x, 3) for x in s4['linear']['curve']])
+
+    RESULT['elapsed_s'] = time.time() - t0
+    with open('result158.json', 'w') as f:
+        json.dump(RESULT, f, indent=1)
+    print('elapsed %.1fs' % RESULT['elapsed_s'])

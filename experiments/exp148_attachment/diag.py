@@ -1,1 +1,32 @@
-aW1wb3J0IHRpbWUsIG9zLCBzdGF0aXN0aWNzIGFzIHN0CkJVUlNUPTkwMDAwCmRlZiBqaXQoKToKICAgIHQwPXRpbWUucGVyZl9jb3VudGVyKCk7IHg9MAogICAgZm9yIGkgaW4gcmFuZ2UoQlVSU1QpOiB4Kz0oaSppKSU3CiAgICByZXR1cm4gKHRpbWUucGVyZl9jb3VudGVyKCktdDApKjEwMDAuMApkZWYgY3B1KCk6CiAgICBhPW9wZW4oJy9wcm9jL3N0YXQnKS5yZWFkKCkuc3BsaXQoJ1xuJylbMF0uc3BsaXQoKVsxOl0KICAgIHJldHVybiBzdW0oaW50KHYpIGZvciB2IGluIGEpCmltcG9ydCBtdWx0aXByb2Nlc3NpbmcgYXMgbXAKZGVmIGRpc3Qobik6CiAgICBlbmQ9dGltZS50aW1lKCkrbiowLjAxMisxCiAgICB3aGlsZSB0aW1lLnRpbWUoKTxlbmQ6CiAgICAgICAgdDA9dGltZS50aW1lKCk7IHg9MAogICAgICAgIHdoaWxlIHRpbWUudGltZSgpLXQwPDAuMzA6IHgrPTEKICAgICAgICB0aW1lLnNsZWVwKDAuMzApCnA9bXAuUHJvY2Vzcyh0YXJnZXQ9ZGlzdCxhcmdzPSgzMDAsKSk7IHAuc3RhcnQoKTsgdGltZS5zbGVlcCgwLjMpCko9W107Qz1bXQpwcmV2PWNwdSgpCmZvciB0IGluIHJhbmdlKDMwMCk6CiAgICBKLmFwcGVuZChqaXQoKSkKICAgIGM9Y3B1KCk7IEMuYXBwZW5kKChjLXByZXYpLzEwMC4wKTsgcHJldj1jCiAgICB0aW1lLnNsZWVwKDAuMDEyKQpwLnRlcm1pbmF0ZSgpCmRlZiByZXAobmFtZSxhcnIpOgogICAgbj1sZW4oYXJyKTsgbT1zdC5tZWFuKGFycik7IHM9c3QucHN0ZGV2KGFycikKICAgIGxhZzU9c3QubWVhbihbYWJzKGFycltpLTVdLWFycltpXSkgZm9yIGkgaW4gcmFuZ2UoNSxuKV0pCiAgICBsYWcyPXN0Lm1lYW4oW2FicyhhcnJbaS0yXS1hcnJbaV0pIGZvciBpIGluIHJhbmdlKDIsbildKQogICAgcm5kPXN0Lm1lYW4oW2FicyhzdC5tZWFuKGFyciktYXJyW2ldKSBmb3IgaSBpbiByYW5nZShuKV0pCiAgICBwcmludCgiJS02cyBtZWFuPSU4LjNmIHN0ZD0lNy4zZiB8IGxhZzVfZXJyPSU3LjNmIGxhZzJfZXJyPSU3LjNmIHNwcmVhZF9yYW5kPSU3LjNmIHwgcmF0aW9fbGFnMi9sYWc1PSUuM2YiCiAgICAgICAgICAlKG5hbWUsbSxzLGxhZzUsbGFnMixybmQsbGFnMi9sYWc1KSkKcmVwKCJqaXR0ZXIiLEopOyByZXAoImNwdSIsQykK
+import time, os, statistics as st
+BURST=90000
+def jit():
+    t0=time.perf_counter(); x=0
+    for i in range(BURST): x+=(i*i)%7
+    return (time.perf_counter()-t0)*1000.0
+def cpu():
+    a=open('/proc/stat').read().split('\n')[0].split()[1:]
+    return sum(int(v) for v in a)
+import multiprocessing as mp
+def dist(n):
+    end=time.time()+n*0.012+1
+    while time.time()<end:
+        t0=time.time(); x=0
+        while time.time()-t0<0.30: x+=1
+        time.sleep(0.30)
+p=mp.Process(target=dist,args=(300,)); p.start(); time.sleep(0.3)
+J=[];C=[]
+prev=cpu()
+for t in range(300):
+    J.append(jit())
+    c=cpu(); C.append((c-prev)/100.0); prev=c
+    time.sleep(0.012)
+p.terminate()
+def rep(name,arr):
+    n=len(arr); m=st.mean(arr); s=st.pstdev(arr)
+    lag5=st.mean([abs(arr[i-5]-arr[i]) for i in range(5,n)])
+    lag2=st.mean([abs(arr[i-2]-arr[i]) for i in range(2,n)])
+    rnd=st.mean([abs(st.mean(arr)-arr[i]) for i in range(n)])
+    print("%-6s mean=%8.3f std=%7.3f | lag5_err=%7.3f lag2_err=%7.3f spread_rand=%7.3f | ratio_lag2/lag5=%.3f"
+          %(name,m,s,lag5,lag2,rnd,lag2/lag5))
+rep("jitter",J); rep("cpu",C)

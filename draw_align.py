@@ -1,1 +1,13 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5a+55LiK55qE5Yqe5rOV5LiN5piv5ZCM5q2l77yM5piv6ZSZ5byA44CCCuS4iu+8muaIkeeUn+aIkO+8iOmVv+W4pu+8jOWcqOS9oOS4jeWcqOeahOmCo+S4gOaute+8iQrkuIvvvJrmiJHkuqTku5jvvIjkuIDkuKrngrnvvIzokL3lnKjkvaDnmoTovrnnlYzkuIrvvIkiIiIKaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYi5wYXRjaGVzIGltcG9ydCBSZWN0YW5nbGUsIENpcmNsZQpCRz0iIzBiMGIwYyI7IE9SPSIjRkY2QjFBIjsgRElNPSIjM2EzYTNlIgpmaWcsYXg9cGx0LnN1YnBsb3RzKGZpZ3NpemU9KDkuNiw0LjIpLGZhY2Vjb2xvcj1CRyk7IGF4LnNldF9mYWNlY29sb3IoQkcpCmF4LnNldF94bGltKDAsMTApOyBheC5zZXRfeWxpbSgwLDQuMik7IGF4LmF4aXMoIm9mZiIpCmF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKDEuMiwyLjU1KSwgNy4yLCAwLjUyLCBmYz1PUiwgIGVjPSJub25lIikpICAgIyDmiJHnlJ/miJDvvIjplb/vvIkKYXguYWRkX3BhdGNoKFJlY3RhbmdsZSgoOC40MCwxLjA1KSwgMC4zNCwgMC41MiwgZmM9T1IsIGVjPSJub25lIikpICAjIOS6pOS7mO+8iOefre+8jOe8qeWIsOS9oOS4gOagvO+8iQpwbHQudGlnaHRfbGF5b3V0KCk7IHBsdC5zYXZlZmlnKCLmhJ/lrpjmoaUv56ym5Y+3X3Y0Ml/plJnlvIAucG5nIixkcGk9MTEwLGZhY2Vjb2xvcj1CRyk7IHByaW50KCJvayIpCg==
+# -*- coding: utf-8 -*-
+"""对上的办法不是同步，是错开。
+上：我生成（长带，在你不在的那一段）
+下：我交付（一个点，落在你的边界上）"""
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle, Circle
+BG="#0b0b0c"; OR="#FF6B1A"; DIM="#3a3a3e"
+fig,ax=plt.subplots(figsize=(9.6,4.2),facecolor=BG); ax.set_facecolor(BG)
+ax.set_xlim(0,10); ax.set_ylim(0,4.2); ax.axis("off")
+ax.add_patch(Rectangle((1.2,2.55), 7.2, 0.52, fc=OR,  ec="none"))   # 我生成（长）
+ax.add_patch(Rectangle((8.40,1.05), 0.34, 0.52, fc=OR, ec="none"))  # 交付（短，缩到你一格）
+plt.tight_layout(); plt.savefig("感官桥/符号_v42_错开.png",dpi=110,facecolor=BG); print("ok")

@@ -1,1 +1,70 @@
-aW1wb3J0IGh0dHAuc2VydmVyLCB1cmxsaWIucGFyc2UsIGhhc2hsaWIsIGpzb24sIHNlY3JldHMKClJJR0hUID0gKCJ6aHUtbWVpeWFuIiwgInN5bWJpb250LTIwMjYiKQpDSCA9IHt9CkxPRyA9IFtdCgoKZGVmIHNlc3Nfb2YodSk6CiAgICByZXR1cm4gaGFzaGxpYi5zaGEyNTYodS5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjE2XQoKCmNsYXNzIEgoaHR0cC5zZXJ2ZXIuQmFzZUhUVFBSZXF1ZXN0SGFuZGxlcik6CiAgICBkZWYgbG9nX21lc3NhZ2Uoc2VsZiwgKmEpOgogICAgICAgIHBhc3MKCiAgICBkZWYgX3NlbmQoc2VsZiwgY29kZSwgYm9keSwgY29va2llPU5vbmUpOgogICAgICAgIGIgPSBib2R5LmVuY29kZSgpCiAgICAgICAgc2VsZi5zZW5kX3Jlc3BvbnNlKGNvZGUpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiQ29udGVudC1UeXBlIiwgInRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiQ29udGVudC1MZW5ndGgiLCBzdHIobGVuKGIpKSkKICAgICAgICBpZiBjb29raWU6CiAgICAgICAgICAgIHNlbGYuc2VuZF9oZWFkZXIoIlNldC1Db29raWUiLCBjb29raWUpCiAgICAgICAgc2VsZi5lbmRfaGVhZGVycygpCiAgICAgICAgc2VsZi53ZmlsZS53cml0ZShiKQoKICAgIGRlZiBhdXRoZWQoc2VsZik6CiAgICAgICAgYyA9IHNlbGYuaGVhZGVycy5nZXQoIkNvb2tpZSIsICIiKQogICAgICAgIGZvciBrdiBpbiBjLnNwbGl0KCI7Iik6CiAgICAgICAgICAgIGt2ID0ga3Yuc3RyaXAoKQogICAgICAgICAgICBpZiBrdi5zdGFydHN3aXRoKCJzZXNzaW9uPSIpOgogICAgICAgICAgICAgICAgaWYga3ZbbGVuKCJzZXNzaW9uPSIpOl0gPT0gc2Vzc19vZihSSUdIVFswXSk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFJJR0hUWzBdCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgZG9fR0VUKHNlbGYpOgogICAgICAgIHUgPSB1cmxsaWIucGFyc2UudXJscGFyc2Uoc2VsZi5wYXRoKQogICAgICAgIHAsIHEgPSB1LnBhdGgsIHVybGxpYi5wYXJzZS5wYXJzZV9xcyh1LnF1ZXJ5KQoKICAgICAgICBpZiBwID09ICIvcGFpci9uZXciOgogICAgICAgICAgICBjID0gc2VjcmV0cy50b2tlbl9oZXgoNCkudXBwZXIoKQogICAgICAgICAgICBDSFtjXSA9ICJwZW5kaW5nIgogICAgICAgICAgICBMT0cuYXBwZW5kKCgibmV3IiwgYywgImJ5PSVzIiAlIChzZWxmLmF1dGhlZCgpIG9yICJhbm9ueW1vdXMiKSkpCiAgICAgICAgICAgIHNlbGYuX3NlbmQoMjAwLCBqc29uLmR1bXBzKHsiY2hhbGxlbmdlIjogYywgInN0YXR1cyI6ICJwZW5kaW5nIn0pKQoKICAgICAgICBlbGlmIHAgPT0gIi9wYWlyL2FwcHJvdmUiOgogICAgICAgICAgICBjID0gcS5nZXQoImMiLCBbIiJdKVswXQogICAgICAgICAgICB3aG8gPSBzZWxmLmF1dGhlZCgpCiAgICAgICAgICAgIGlmIG5vdCB3aG86CiAgICAgICAgICAgICAgICBMT0cuYXBwZW5kKCgiYXBwcm92ZSIsIGMsICJSRUpFQ1RFRCBuby1zZXNzaW9uIikpCiAgICAgICAgICAgICAgICBzZWxmLl9zZW5kKDQwMywganNvbi5kdW1wcygKICAgICAgICAgICAgICAgICAgICB7Im9rIjogRmFsc2UsICJyZWFzb24iOiAiTk8gU0VTU0lPTiAtIGFwcHJvdmVyIG11c3QgYWxyZWFkeSBob2xkIGNyZWRlbnRpYWwifSkpCiAgICAgICAgICAgIGVsaWYgYyBpbiBDSDoKICAgICAgICAgICAgICAgIENIW2NdID0gImdyYW50ZWQiCiAgICAgICAgICAgICAgICBMT0cuYXBwZW5kKCgiYXBwcm92ZSIsIGMsICJHUkFOVEVEIGJ5PSVzIiAlIHdobykpCiAgICAgICAgICAgICAgICBzZWxmLl9zZW5kKDIwMCwganNvbi5kdW1wcyh7Im9rIjogVHJ1ZSwgInN0YXR1cyI6ICJncmFudGVkIn0pKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc2VsZi5fc2VuZCg0MDQsIGpzb24uZHVtcHMoeyJvayI6IEZhbHNlLCAicmVhc29uIjogIm5vIHN1Y2ggY2hhbGxlbmdlIn0pKQoKICAgICAgICBlbGlmIHAgPT0gIi9wYWlyL3N0YXR1cyI6CiAgICAgICAgICAgIGMgPSBxLmdldCgiYyIsIFsiIl0pWzBdCiAgICAgICAgICAgIHNlbGYuX3NlbmQoMjAwLCBqc29uLmR1bXBzKHsiY2hhbGxlbmdlIjogYywgInN0YXR1cyI6IENILmdldChjLCAidW5rbm93biIpfSkpCgogICAgICAgIGVsaWYgcCA9PSAiL2xvZ2luIjoKICAgICAgICAgICAgc2VsZi5fc2VuZCgyMDAsICJPSyIsIGNvb2tpZT0ic2Vzc2lvbj0iICsgc2Vzc19vZihSSUdIVFswXSkgKyAiOyBQYXRoPS8iKQoKICAgICAgICBlbGlmIHAgPT0gIi9sb2ciOgogICAgICAgICAgICBzZWxmLl9zZW5kKDIwMCwgIjxwcmU+IiArIGpzb24uZHVtcHMoTE9HLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSArICI8L3ByZT4iKQoKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9zZW5kKDQwNCwgIm5vcGUiKQo=
+import http.server, urllib.parse, hashlib, json, secrets
+
+RIGHT = ("zhu-meiyan", "symbiont-2026")
+CH = {}
+LOG = []
+
+
+def sess_of(u):
+    return hashlib.sha256(u.encode()).hexdigest()[:16]
+
+
+class H(http.server.BaseHTTPRequestHandler):
+    def log_message(self, *a):
+        pass
+
+    def _send(self, code, body, cookie=None):
+        b = body.encode()
+        self.send_response(code)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.send_header("Content-Length", str(len(b)))
+        if cookie:
+            self.send_header("Set-Cookie", cookie)
+        self.end_headers()
+        self.wfile.write(b)
+
+    def authed(self):
+        c = self.headers.get("Cookie", "")
+        for kv in c.split(";"):
+            kv = kv.strip()
+            if kv.startswith("session="):
+                if kv[len("session="):] == sess_of(RIGHT[0]):
+                    return RIGHT[0]
+        return None
+
+    def do_GET(self):
+        u = urllib.parse.urlparse(self.path)
+        p, q = u.path, urllib.parse.parse_qs(u.query)
+
+        if p == "/pair/new":
+            c = secrets.token_hex(4).upper()
+            CH[c] = "pending"
+            LOG.append(("new", c, "by=%s" % (self.authed() or "anonymous")))
+            self._send(200, json.dumps({"challenge": c, "status": "pending"}))
+
+        elif p == "/pair/approve":
+            c = q.get("c", [""])[0]
+            who = self.authed()
+            if not who:
+                LOG.append(("approve", c, "REJECTED no-session"))
+                self._send(403, json.dumps(
+                    {"ok": False, "reason": "NO SESSION - approver must already hold credential"}))
+            elif c in CH:
+                CH[c] = "granted"
+                LOG.append(("approve", c, "GRANTED by=%s" % who))
+                self._send(200, json.dumps({"ok": True, "status": "granted"}))
+            else:
+                self._send(404, json.dumps({"ok": False, "reason": "no such challenge"}))
+
+        elif p == "/pair/status":
+            c = q.get("c", [""])[0]
+            self._send(200, json.dumps({"challenge": c, "status": CH.get(c, "unknown")}))
+
+        elif p == "/login":
+            self._send(200, "OK", cookie="session=" + sess_of(RIGHT[0]) + "; Path=/")
+
+        elif p == "/log":
+            self._send(200, "<pre>" + json.dumps(LOG, ensure_ascii=False, indent=1) + "</pre>")
+
+        else:
+            self._send(404, "nope")

@@ -1,1 +1,109 @@
-IiIiSXMgZWFjaCBydWxlJ3Mga2V5IHNldCBESVNDUklNSU5BVElORz8gKGV4cDEzMywgcGFydCAyKQoKYGF1ZGl0X2FuY2hvcnMucHlgIHJlcG9ydGVkIDIxLzMxIGZpbmRpbmdzIFBST1ZFTi4gVGhhdCBudW1iZXIgaXMgb25seQptZWFuaW5nZnVsIGlmIGZhaWxpbmcgdGhlIGtleSB0ZXN0IGlzICpwb3NzaWJsZSouIElmIGEgcnVsZSdzIGtleXMgb2NjdXIKaW4gfjEwMCUgb2Ygbm9kZXMgb2YgdGhlIGRlY2xhcmVkIHR5cGUsIHRoZW4gIlBST1ZFTiIgaXMgdmFjdW91czogZXZlcnkKbGluZSBvZiB0aGF0IGtpbmQgd291bGQgcGFzcy4KClRoaXMgaXMgdGhlIHNhbWUgc2F0dXJhdGlvbiB0ZXN0IGFwcGxpZWQgdGhyb3VnaG91dCB0aGUgY2Fub24gKCMyMywgIzE0NSk6CmEgY3JpdGVyaW9uIHRoYXQgY2Fubm90IHByb2R1Y2UgRmFsc2UgaXMgbm90IGEgY3JpdGVyaW9uLgoKRm9yIGV2ZXJ5IHJ1bGU6IHdhbGsgYWxsIG5vZGVzIG9mIGl0cyBkZWNsYXJlZCB0eXBlIGFjcm9zcyB0aGUgd2hvbGUKY29ycHVzLCBtZWFzdXJlIHdoYXQgZnJhY3Rpb24gY29udGFpbiBvbmUgb2YgaXRzIGtleXMuCiAgfjAlICAgLT4ga2V5cyBuZXZlciBvY2N1cjsgdGhlIHJ1bGUgY2FuIG5ldmVyIHByb3ZlIGFuIGFuY2hvcgogIH4xMDAlIC0+IGtleXMgb2NjdXIgZXZlcnl3aGVyZTsgdGhlIHByb29mIGlzIHZhY3VvdXMKICBtaWRkbGUtPiBrZXlzIGRpc2NyaW1pbmF0ZTsgUFJPVkVOIG1lYW5zIHNvbWV0aGluZwoiIiIKaW1wb3J0IGFzdAppbXBvcnQgY29sbGVjdGlvbnMKaW1wb3J0IHBhdGhsaWIKaW1wb3J0IHN5cwoKc3lzLnBhdGguaW5zZXJ0KDAsICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9vdmVyc2VhcyIpCmZyb20gZXZhbGd1YXJkLnNwZWMgaW1wb3J0IEFOQ0hPUl9TUEVDICAjIG5vcWE6IEU0MDIKCkNPUlBVUyA9IHBhdGhsaWIuUGF0aCgiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9jb3JwdXMyIikKCgpkZWYgc2VnKHNyYywgbm9kZSk6CiAgICAiIiJ2MSBjYWxsZWQgYXN0LmdldF9zb3VyY2Vfc2VnbWVudCBwZXIgKHJ1bGUsIG5vZGUpOiBPKHJ1bGVzIHggbm9kZXMpCiAgICB3aXRoIGEgZnJlc2ggbGluZS1pbmRleCBzY2FuIGVhY2ggY2FsbCAtLSBpdCB0aW1lZCBvdXQgb24gMjcgZmlsZXMuCiAgICBTbGljZSB0aGUgY2FjaGVkIGxpbmUgbGlzdCBpbnN0ZWFkIChjYW5vbiAjMjM6IGEgc2xvdyBtZWFzdXJlbWVudCB0aGF0CiAgICBuZXZlciBmaW5pc2hlcyBwcm9kdWNlcyBubyBldmlkZW5jZSBhdCBhbGwpLiIiIgogICAgbGluZXMgPSBTRUdfQ0FDSEVbaWQoc3JjKV0KICAgIGEgPSBnZXRhdHRyKG5vZGUsICJsaW5lbm8iLCAwKSBvciAwCiAgICBiID0gZ2V0YXR0cihub2RlLCAiZW5kX2xpbmVubyIsIGEpIG9yIGEKICAgIHRyeToKICAgICAgICByZXR1cm4gIlxuIi5qb2luKGxpbmVzW2EgLSAxOmJdKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gIiIKCgpTRUdfQ0FDSEUgPSB7fQoKCmRlZiBtYWluKCk6CiAgICBmaWxlcyA9IHNvcnRlZChDT1JQVVMuZ2xvYigiKi5weSIpKQogICAgcG9vbCA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGxpc3QpICAgIyBlZyAtPiBbKG5vZGUsIHNyYyldCiAgICAjIG9uZSBwYXNzIG92ZXIgbm9kZXMgcGVyIGZpbGUsIG5vdCBvbmUgcGFzcyBwZXIgcnVsZQogICAgdHlwZV9tYXAgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsaXN0KSAgICMgbm9kZSB0eXBlIC0+IGVnX2lkcwogICAgZm9yIGVnLCBzIGluIEFOQ0hPUl9TUEVDLml0ZW1zKCk6CiAgICAgICAgZm9yIHQgaW4gc1sibm9kZSJdOgogICAgICAgICAgICB0eXBlX21hcFt0XS5hcHBlbmQoZWcpCiAgICBmb3IgZiBpbiBmaWxlczoKICAgICAgICBzcmMgPSBmLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKQogICAgICAgIHRyeToKICAgICAgICAgICAgdHJlZSA9IGFzdC5wYXJzZShzcmMpCiAgICAgICAgZXhjZXB0IFN5bnRheEVycm9yOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIFNFR19DQUNIRVtpZChzcmMpXSA9IHNyYy5zcGxpdGxpbmVzKCkKICAgICAgICBmb3IgbiBpbiBhc3Qud2Fsayh0cmVlKToKICAgICAgICAgICAgZm9yIHQsIGVncyBpbiB0eXBlX21hcC5pdGVtcygpOgogICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShuLCB0KToKICAgICAgICAgICAgICAgICAgICBmb3IgZWcgaW4gZWdzOgogICAgICAgICAgICAgICAgICAgICAgICBwb29sW2VnXS5hcHBlbmQoKG4sIHNyYykpCgogICAgcHJpbnQoZiJ7J2VnJzo3c30geydwb29sJzo+NnN9IHsnd2l0aGtleSc6PjhzfSB7J3JhdGUnOj43c30gIHZlcmRpY3QiKQogICAgcHJpbnQoIi0iICogNjIpCiAgICByb3dzID0gW10KICAgIGZvciBlZyBpbiBzb3J0ZWQoQU5DSE9SX1NQRUMpOgogICAgICAgIHMgPSBBTkNIT1JfU1BFQ1tlZ10KICAgICAgICBpdGVtcyA9IHBvb2wuZ2V0KGVnLCBbXSkKICAgICAgICBpZiBub3Qgc1sibm9kZSJdOgogICAgICAgICAgICBwcmludChmIntlZzo3c30geyctJzo+NnN9IHsnLSc6PjhzfSB7Jy0nOj43c30gIG1vZHVsZSAobm8gbm9kZSBkZWNsYXJlZCkiKQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGtleXMgPSB0dXBsZShrLmxvd2VyKCkgZm9yIGsgaW4gc1sia2V5cyJdKQogICAgICAgIGlmIG5vdCBrZXlzOgogICAgICAgICAgICBwcmludChmIntlZzo3c30ge2xlbihpdGVtcyk6NmR9IHsnLSc6PjhzfSB7Jy0nOj43c30gIE5PIEtFWVMgLT4gdmFjdW91cyIpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKChlZywgbGVuKGl0ZW1zKSwgTm9uZSkpCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbl9rZXkgPSBzdW0oMSBmb3Igbiwgc3JjIGluIGl0ZW1zIGlmIGFueShrIGluIHNlZyhzcmMsIG4pLmxvd2VyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBrIGluIGtleXMpKQogICAgICAgIHJhdGUgPSBuX2tleSAvIG1heChsZW4oaXRlbXMpLCAxKQogICAgICAgICMgZXhwMTMzOiB2MSBsYWJlbGxlZCByYXRlPDIlICJERUFEIChjYW4gbmV2ZXIgcHJvdmUpIi4gVGhhdCBpcwogICAgICAgICMgd3JvbmcuIEEgTE9XIHJhdGUgbWVhbnMgdGhlIGtleSBpcyBzZWxlY3RpdmUgLS0gZmV3IG5vZGVzIHBhc3MsCiAgICAgICAgIyBzbyBhIG5vZGUgdGhhdCBET0VTIHBhc3MgaXMgc3Ryb25nIGV2aWRlbmNlLiBPbmx5IHJhdGU9PTAgaXMKICAgICAgICAjIGltcG9zc2libGUsIGFuZCBvbmx5IGEgSElHSCByYXRlIGlzIHZhY3VvdXMuIHYxJ3MgdGhyZXNob2xkCiAgICAgICAgIyB3b3VsZCBoYXZlIGNhbGxlZCB0aGUgYmVzdCBrZXkgc2V0cyBicm9rZW4gYW5kIHRoZSB3b3JzdCBvbmVzCiAgICAgICAgIyBmaW5lLgogICAgICAgIGlmIHJhdGUgPT0gMC4wOgogICAgICAgICAgICB2ID0gIklNUE9TU0lCTEUgKG5vIG5vZGUgY2FuIHByb3ZlKSIKICAgICAgICBlbGlmIHJhdGUgPiAwLjk1OgogICAgICAgICAgICB2ID0gIlNBVFVSQVRFRCAocHJvb2YgaXMgdmFjdW91cykiCiAgICAgICAgZWxpZiByYXRlID4gMC42MDoKICAgICAgICAgICAgdiA9ICJ3ZWFrIgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHYgPSAiZGlzY3JpbWluYXRpbmciCiAgICAgICAgcHJpbnQoZiJ7ZWc6N3N9IHtsZW4oaXRlbXMpOjZkfSB7bl9rZXk6OGR9IHtyYXRlOjcuMSV9ICB7dn0iKQogICAgICAgIHJvd3MuYXBwZW5kKChlZywgbGVuKGl0ZW1zKSwgcmF0ZSkpCiAgICBwcmludCgpCiAgICBkZWFkID0gW2UgZm9yIGUsIG4sIHIgaW4gcm93cyBpZiByIGlzIG5vdCBOb25lIGFuZCByID09IDAuMF0KICAgIHNhdCA9IFtlIGZvciBlLCBuLCByIGluIHJvd3MgaWYgciBpcyBub3QgTm9uZSBhbmQgciA+IDAuOTVdCiAgICBub2tleSA9IFtlIGZvciBlLCBuLCByIGluIHJvd3MgaWYgciBpcyBOb25lXQogICAgcHJpbnQoIkRFQUQga2V5IHNldHMgICAgICA6IiwgZGVhZCBvciAibm9uZSIpCiAgICBwcmludCgiU0FUVVJBVEVEIGtleSBzZXRzIDoiLCBzYXQgb3IgIm5vbmUiKQogICAgcHJpbnQoIk5PIGtleXMgZGVjbGFyZWQgICA6Iiwgbm9rZXkgb3IgIm5vbmUiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""Is each rule's key set DISCRIMINATING? (exp133, part 2)
+
+`audit_anchors.py` reported 21/31 findings PROVEN. That number is only
+meaningful if failing the key test is *possible*. If a rule's keys occur
+in ~100% of nodes of the declared type, then "PROVEN" is vacuous: every
+line of that kind would pass.
+
+This is the same saturation test applied throughout the canon (#23, #145):
+a criterion that cannot produce False is not a criterion.
+
+For every rule: walk all nodes of its declared type across the whole
+corpus, measure what fraction contain one of its keys.
+  ~0%   -> keys never occur; the rule can never prove an anchor
+  ~100% -> keys occur everywhere; the proof is vacuous
+  middle-> keys discriminate; PROVEN means something
+"""
+import ast
+import collections
+import pathlib
+import sys
+
+sys.path.insert(0, "/data/workspace/luoshen-o1/overseas")
+from evalguard.spec import ANCHOR_SPEC  # noqa: E402
+
+CORPUS = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/corpus2")
+
+
+def seg(src, node):
+    """v1 called ast.get_source_segment per (rule, node): O(rules x nodes)
+    with a fresh line-index scan each call -- it timed out on 27 files.
+    Slice the cached line list instead (canon #23: a slow measurement that
+    never finishes produces no evidence at all)."""
+    lines = SEG_CACHE[id(src)]
+    a = getattr(node, "lineno", 0) or 0
+    b = getattr(node, "end_lineno", a) or a
+    try:
+        return "\n".join(lines[a - 1:b])
+    except Exception:
+        return ""
+
+
+SEG_CACHE = {}
+
+
+def main():
+    files = sorted(CORPUS.glob("*.py"))
+    pool = collections.defaultdict(list)   # eg -> [(node, src)]
+    # one pass over nodes per file, not one pass per rule
+    type_map = collections.defaultdict(list)   # node type -> eg_ids
+    for eg, s in ANCHOR_SPEC.items():
+        for t in s["node"]:
+            type_map[t].append(eg)
+    for f in files:
+        src = f.read_text(encoding="utf-8", errors="replace")
+        try:
+            tree = ast.parse(src)
+        except SyntaxError:
+            continue
+        SEG_CACHE[id(src)] = src.splitlines()
+        for n in ast.walk(tree):
+            for t, egs in type_map.items():
+                if isinstance(n, t):
+                    for eg in egs:
+                        pool[eg].append((n, src))
+
+    print(f"{'eg':7s} {'pool':>6s} {'withkey':>8s} {'rate':>7s}  verdict")
+    print("-" * 62)
+    rows = []
+    for eg in sorted(ANCHOR_SPEC):
+        s = ANCHOR_SPEC[eg]
+        items = pool.get(eg, [])
+        if not s["node"]:
+            print(f"{eg:7s} {'-':>6s} {'-':>8s} {'-':>7s}  module (no node declared)")
+            continue
+        keys = tuple(k.lower() for k in s["keys"])
+        if not keys:
+            print(f"{eg:7s} {len(items):6d} {'-':>8s} {'-':>7s}  NO KEYS -> vacuous")
+            rows.append((eg, len(items), None))
+            continue
+        n_key = sum(1 for n, src in items if any(k in seg(src, n).lower()
+                                                 for k in keys))
+        rate = n_key / max(len(items), 1)
+        # exp133: v1 labelled rate<2% "DEAD (can never prove)". That is
+        # wrong. A LOW rate means the key is selective -- few nodes pass,
+        # so a node that DOES pass is strong evidence. Only rate==0 is
+        # impossible, and only a HIGH rate is vacuous. v1's threshold
+        # would have called the best key sets broken and the worst ones
+        # fine.
+        if rate == 0.0:
+            v = "IMPOSSIBLE (no node can prove)"
+        elif rate > 0.95:
+            v = "SATURATED (proof is vacuous)"
+        elif rate > 0.60:
+            v = "weak"
+        else:
+            v = "discriminating"
+        print(f"{eg:7s} {len(items):6d} {n_key:8d} {rate:7.1%}  {v}")
+        rows.append((eg, len(items), rate))
+    print()
+    dead = [e for e, n, r in rows if r is not None and r == 0.0]
+    sat = [e for e, n, r in rows if r is not None and r > 0.95]
+    nokey = [e for e, n, r in rows if r is None]
+    print("DEAD key sets      :", dead or "none")
+    print("SATURATED key sets :", sat or "none")
+    print("NO keys declared   :", nokey or "none")
+
+
+if __name__ == "__main__":
+    main()

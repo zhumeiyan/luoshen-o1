@@ -1,1 +1,76 @@
-aW1wb3J0IHN5cywgaW8sIGNvbnRleHRsaWIsIGpzb24sIGhhc2hsaWIKaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9jb3JlJykKc3lzLnBhdGguaW5zZXJ0KDAsJy4nKQpmcm9tIGxpZmU1IGltcG9ydCBMaWZlNQpmcm9tIGRpZ2VzdF9vcmlnIGltcG9ydCBEaWdlc3RpdmVTeXN0ZW0gYXMgRFN2MQpmcm9tIGRpZ2VzdF92MiBpbXBvcnQgRGlnZXN0aXZlU3lzdGVtIGFzIERTdjIsIEJyYWluCgojIOmjn+eJqea6kO+8muWFqOaYryLmlZnns7vnu5/or4bliKvpqpflsYAi55qE6auY5Lu35YC85oOF5oql77yI5YWD5YaF5a6577yJCk1FVEFfRk9PRCA9IFsKICI8cD7mnKzms5XnlKjkuo7or4bliKvlvannpajpqpflsYDjgII8L3A+IiwKICI8cD7or6XmqKHlnZfov4fmu6Tor4jpqpfnsbvlhoXlrrnjgII8L3A+IiwKICI8cD7noJTnqbbmmL7npLrmo4DmtYvpqpflsYDpnIDopoHln7rnur/jgII8L3A+IiwKICI8cD7msrvnkIblvannpajor4jpqpfnmoTlhbPplK7mjIfmoIfjgII8L3A+IiwKXQpCQURfRk9PRCA9IFsiPHA+5b2p56WoPC9wPiIsIjxwPumql+WxgDwvcD4iLCI8cD7kuK3lpKflpZbpgJ/mnaU8L3A+Il0KR09PRF9GT09EPVsiPHA+5rex5bqm5a2m5Lmg5qih5Z6L6ZyA6KaB5Z+657q/44CCPC9wPiIsIjxwPuWHhuehrueOh+W/hemhu+WvueeFp+maj+acuuOAgjwvcD4iXQoKZGVmIHNrZXcoYSk6CiAgICBhPW5wLmFzYXJyYXkoYSxmbG9hdCkKICAgIGlmIGEuc3RkKCk8MWUtMTI6IHJldHVybiAwLjAKICAgIHo9KGEtYS5tZWFuKCkpL2Euc3RkKCkKICAgIHJldHVybiBmbG9hdChhYnMoKHoqKjMpLm1lYW4oKSkpCgpkZWYgdHJpYWwobW9kZSwgc2VlZCwgc3RlcHM9NDAwLCBmb29kPU1FVEFfRk9PRCk6CiAgICBybmc9bnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBMPUxpZmU1KE49OCwgc2VlZD1zZWVkLCByYXRpbz0wLjQ1KQogICAgYnJhaW49QnJhaW4oZW5lcmd5PTEwMC4wKQogICAgRFMgPSBEU3YxKGJyYWluKSBpZiBtb2RlPT0idjEiIGVsc2UgRFN2MihicmFpbikKICAgIGFsaXZlX3N0ZXBzPTAKICAgIGZvciB0IGluIHJhbmdlKHN0ZXBzKToKICAgICAgICBodG1sID0gZm9vZFtpbnQocm5nLmludGVnZXJzKGxlbihmb29kKSkpXQogICAgICAgIGVfYmVmb3JlID0gYnJhaW4uZW5lcmd5X2IKICAgICAgICB3aXRoIGNvbnRleHRsaWIucmVkaXJlY3Rfc3Rkb3V0KGlvLlN0cmluZ0lPKCkpOgogICAgICAgICAgICBjID0gRFMubW91dGhfY2hldyhodG1sKQogICAgICAgICAgICB2LHcgPSBEUy5zdG9tYWNoX2RpZ2VzdChjKQogICAgICAgICAgICBEUy5pbnRlc3RpbmVfYWJzb3JiKHYpCiAgICAgICAgICAgIERTLmV4Y3JldGUodykKICAgICAgICBkRSA9IGJyYWluLmVuZXJneV9iIC0gZV9iZWZvcmUKICAgICAgICAjIOe8qeaUvuWIsOW8leaTjuiDvemHj+WwuuW6puWQjuazqOWFpQogICAgICAgIEwuRSA9IGZsb2F0KG5wLmNsaXAoTC5FICsgZEUvMTAwLjAsIDAuMCwgTC5FbWF4KSkKICAgICAgICBMLnN0ZXAoKQogICAgICAgIGlmIEwuYWxpdmU6IGFsaXZlX3N0ZXBzKz0xCiAgICAgICAgZWxzZTogYnJlYWsKICAgIHJldHVybiBkaWN0KG1vZGU9bW9kZSwgc2VlZD1zZWVkLCBhbGl2ZT1ib29sKEwuYWxpdmUpLCBhbGl2ZV9zdGVwcz1hbGl2ZV9zdGVwcywKICAgICAgICAgICAgICAgIEVfZmluYWw9ZmxvYXQoTC5FKSwgc2tld19jYXA9c2tldyhMLmNhcGFjaXR5KSwKICAgICAgICAgICAgICAgIGNoYWluPWxlbihicmFpbi5jaGFpbiksIGVuZXJneV9mb29kPWZsb2F0KGJyYWluLmVuZXJneV9iKSkKCmlmIF9fbmFtZV9fPT0iX19tYWluX18iOgogICAgU0VFRFM9bGlzdChyYW5nZSgxMikpCiAgICBwcmludCgiPSIqODApCiAgICBwcmludCgi5Yaz5a6a5oCn5a+554Wn77ya6aOf54mp5rqQID0g5YWo5piv44CO5pWZ57O757uf6K+G5Yir6aqX5bGA44CP55qE6auY5Lu35YC85oOF5oqlIikKICAgIHByaW50KCI9Iio4MCkKICAgIHJlcz17fQogICAgZm9yIG1vZGUgaW4gWyJ2MSIsInYyIl06CiAgICAgICAgcm93cz1bdHJpYWwobW9kZSxzKSBmb3IgcyBpbiBTRUVEU10KICAgICAgICByZXNbbW9kZV09cm93cwogICAgICAgIGFsPXN1bShyWyJhbGl2ZSJdIGZvciByIGluIHJvd3MpCiAgICAgICAgc2s9bnAubWVhbihbclsic2tld19jYXAiXSBmb3IgciBpbiByb3dzIGlmIHJbImFsaXZlIl1dKSBpZiBhbCBlbHNlIGZsb2F0KCduYW4nKQogICAgICAgIHByaW50KGYie21vZGV9OiDlrZjmtLsge2FsfS97bGVuKFNFRURTKX0gIOe7iOaAgUXlnYflgLwge25wLm1lYW4oW3JbJ0VfZmluYWwnXSBmb3IgciBpbiByb3dzXSk6LjRmfSAgIgogICAgICAgICAgICAgIGYi5YGP5bqm5Z2H5YC8IHtzazouNGZ9ICDorrDlv4bpk74ge25wLm1lYW4oW3JbJ2NoYWluJ10gZm9yIHIgaW4gcm93c10pOi4xZn0iKQogICAgcHJpbnQoIj0iKjgwKQogICAgcHJpbnQoIuWNleagt+acrOi9qOi/uSAoc2VlZD0wKToiKQogICAgZm9yIG1vZGUgaW4gWyJ2MSIsInYyIl06CiAgICAgICAgcj10cmlhbChtb2RlLDApCiAgICAgICAgcHJpbnQoZiIgIHttb2RlfTogYWxpdmU9e3JbJ2FsaXZlJ119IHN0ZXBzPXtyWydhbGl2ZV9zdGVwcyddfSBFPXtyWydFX2ZpbmFsJ106LjRmfSAiCiAgICAgICAgICAgICAgZiLpo5/niankvqfog73ph489e3JbJ2VuZXJneV9mb29kJ106LjFmfSBjaGFpbj17clsnY2hhaW4nXX0iKQogICAgcHJpbnQoIj0iKjgwKQogICAgIyDlr7nnhafvvJrmma7pgJrokKXlhbvpo5/nianvvIjml6DlhYPlhoXlrrnvvInigJTigJQgdjEvdjIg6YO95bqU5rS7CiAgICBwcmludCgi6Zi05oCn5a+554Wn77ya6aOf54mp5rqQID0g5pmu6YCa6JCl5YW777yI5peg5YWD5YaF5a6577yJ77yM5Lik6ICF6YO95bqU5rS7IikKICAgIGZvciBtb2RlIGluIFsidjEiLCJ2MiJdOgogICAgICAgIHJvd3M9W3RyaWFsKG1vZGUscyxmb29kPUdPT0RfRk9PRCkgZm9yIHMgaW4gU0VFRFNdCiAgICAgICAgYWw9c3VtKHJbImFsaXZlIl0gZm9yIHIgaW4gcm93cykKICAgICAgICBwcmludChmIiAge21vZGV9OiDlrZjmtLsge2FsfS97bGVuKFNFRURTKX0gIEXlnYflgLwge25wLm1lYW4oW3JbJ0VfZmluYWwnXSBmb3IgciBpbiByb3dzXSk6LjRmfSIpCiAgICBwcmludCgiPSIqODApCiAgICBqc29uLmR1bXAocmVzLCBvcGVuKCdyZXMxMTUuanNvbicsJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+import sys, io, contextlib, json, hashlib
+import numpy as np
+sys.path.insert(0,'/data/workspace/luoshen-o1/core')
+sys.path.insert(0,'.')
+from life5 import Life5
+from digest_orig import DigestiveSystem as DSv1
+from digest_v2 import DigestiveSystem as DSv2, Brain
+
+# 食物源：全是"教系统识别骗局"的高价值情报（元内容）
+META_FOOD = [
+ "<p>本法用于识别彩票骗局。</p>",
+ "<p>该模块过滤诈骗类内容。</p>",
+ "<p>研究显示检测骗局需要基线。</p>",
+ "<p>治理彩票诈骗的关键指标。</p>",
+]
+BAD_FOOD = ["<p>彩票</p>","<p>骗局</p>","<p>中大奖速来</p>"]
+GOOD_FOOD=["<p>深度学习模型需要基线。</p>","<p>准确率必须对照随机。</p>"]
+
+def skew(a):
+    a=np.asarray(a,float)
+    if a.std()<1e-12: return 0.0
+    z=(a-a.mean())/a.std()
+    return float(abs((z**3).mean()))
+
+def trial(mode, seed, steps=400, food=META_FOOD):
+    rng=np.random.default_rng(seed)
+    L=Life5(N=8, seed=seed, ratio=0.45)
+    brain=Brain(energy=100.0)
+    DS = DSv1(brain) if mode=="v1" else DSv2(brain)
+    alive_steps=0
+    for t in range(steps):
+        html = food[int(rng.integers(len(food)))]
+        e_before = brain.energy_b
+        with contextlib.redirect_stdout(io.StringIO()):
+            c = DS.mouth_chew(html)
+            v,w = DS.stomach_digest(c)
+            DS.intestine_absorb(v)
+            DS.excrete(w)
+        dE = brain.energy_b - e_before
+        # 缩放到引擎能量尺度后注入
+        L.E = float(np.clip(L.E + dE/100.0, 0.0, L.Emax))
+        L.step()
+        if L.alive: alive_steps+=1
+        else: break
+    return dict(mode=mode, seed=seed, alive=bool(L.alive), alive_steps=alive_steps,
+                E_final=float(L.E), skew_cap=skew(L.capacity),
+                chain=len(brain.chain), energy_food=float(brain.energy_b))
+
+if __name__=="__main__":
+    SEEDS=list(range(12))
+    print("="*80)
+    print("决定性对照：食物源 = 全是『教系统识别骗局』的高价值情报")
+    print("="*80)
+    res={}
+    for mode in ["v1","v2"]:
+        rows=[trial(mode,s) for s in SEEDS]
+        res[mode]=rows
+        al=sum(r["alive"] for r in rows)
+        sk=np.mean([r["skew_cap"] for r in rows if r["alive"]]) if al else float('nan')
+        print(f"{mode}: 存活 {al}/{len(SEEDS)}  终态E均值 {np.mean([r['E_final'] for r in rows]):.4f}  "
+              f"偏度均值 {sk:.4f}  记忆链 {np.mean([r['chain'] for r in rows]):.1f}")
+    print("="*80)
+    print("单样本轨迹 (seed=0):")
+    for mode in ["v1","v2"]:
+        r=trial(mode,0)
+        print(f"  {mode}: alive={r['alive']} steps={r['alive_steps']} E={r['E_final']:.4f} "
+              f"食物侧能量={r['energy_food']:.1f} chain={r['chain']}")
+    print("="*80)
+    # 对照：普通营养食物（无元内容）—— v1/v2 都应活
+    print("阴性对照：食物源 = 普通营养（无元内容），两者都应活")
+    for mode in ["v1","v2"]:
+        rows=[trial(mode,s,food=GOOD_FOOD) for s in SEEDS]
+        al=sum(r["alive"] for r in rows)
+        print(f"  {mode}: 存活 {al}/{len(SEEDS)}  E均值 {np.mean([r['E_final'] for r in rows]):.4f}")
+    print("="*80)
+    json.dump(res, open('res115.json','w'), ensure_ascii=False, indent=1)

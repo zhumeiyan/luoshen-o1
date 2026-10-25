@@ -1,1 +1,87 @@
-IiIiRmxhc2sgYmx1ZXByaW50IGZvciBHZW5lc2lzIGhlYWx0aCBBUEkgYW5kIG5ldXJhbCBtb25pdG9yIGRhc2hib2FyZC4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBhc3luY2lvCmltcG9ydCBsb2dnaW5nCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKZnJvbSBmbGFzayBpbXBvcnQgQmx1ZXByaW50LCBqc29uaWZ5LCByZXF1ZXN0LCBzZW5kX2Zyb21fZGlyZWN0b3J5Cgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcigiZ2VuZXNpcy5hcGlfaGVhbHRoIikKCmJsdWVwcmludCA9IEJsdWVwcmludCgKICAgICJnZW5lc2lzX2hlYWx0aCIsCiAgICBfX25hbWVfXywKICAgIHRlbXBsYXRlX2ZvbGRlcj0idGVtcGxhdGVzIiwKKQoKCkBibHVlcHJpbnQucm91dGUoIi9hcGkvZ2VuZXNpcy9oZWFsdGgiKQpkZWYgaGVhbHRoX3NuYXBzaG90KCk6CiAgICAiIiJSZXR1cm4gZnVsbCBoZWFsdGggc25hcHNob3QgYXMgSlNPTi4iIiIKICAgIHRyeToKICAgICAgICBmcm9tIGdlbmVzaXMucnVudGltZSBpbXBvcnQgR2VuZXNpc1J1bnRpbWUKCiAgICAgICAgcnQgPSBHZW5lc2lzUnVudGltZS5pbnN0YW5jZSgpCiAgICAgICAgaWYgbm90IHJ0LmlzX2Jvb3RzdHJhcHBlZCBvciBub3QgcnQuaGVhbHRoX2RhdGE6CiAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KHsic3RhdHVzIjogInVua25vd24iLCAibWVzc2FnZSI6ICJub3QgYm9vdHN0cmFwcGVkIn0pCgogICAgICAgICMgUnVuIGFzeW5jIHNuYXBzaG90IGluIHRoZSBleGlzdGluZyBldmVudCBsb29wCiAgICAgICAgbG9vcCA9IGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKQogICAgICAgIGlmIGxvb3AuaXNfcnVubmluZygpOgogICAgICAgICAgICBpbXBvcnQgY29uY3VycmVudC5mdXR1cmVzCgogICAgICAgICAgICB3aXRoIGNvbmN1cnJlbnQuZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IoKSBhcyBwb29sOgogICAgICAgICAgICAgICAgcmVzdWx0ID0gcG9vbC5zdWJtaXQoCiAgICAgICAgICAgICAgICAgICAgYXN5bmNpby5ydW4sIHJ0LmhlYWx0aF9kYXRhLnNuYXBzaG90KCkKICAgICAgICAgICAgICAgICkucmVzdWx0KHRpbWVvdXQ9MTApCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzdWx0ID0gbG9vcC5ydW5fdW50aWxfY29tcGxldGUocnQuaGVhbHRoX2RhdGEuc25hcHNob3QoKSkKCiAgICAgICAgcmV0dXJuIGpzb25pZnkocmVzdWx0KQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCJIZWFsdGggc25hcHNob3QgZmFpbGVkIikKICAgICAgICByZXR1cm4ganNvbmlmeSh7InN0YXR1cyI6ICJlcnJvciIsICJtZXNzYWdlIjogInNuYXBzaG90IGZhaWxlZCJ9KSwgNTAwCgoKQGJsdWVwcmludC5yb3V0ZSgiL2FwaS9nZW5lc2lzL3BhdXNlIikKZGVmIGdldF9wYXVzZV9zdGF0dXMoKToKICAgICIiIlJldHVybiBjdXJyZW50IHBhdXNlIHN0YXRlLiIiIgogICAgdHJ5OgogICAgICAgIGZyb20gZ2VuZXNpcy5ydW50aW1lIGltcG9ydCBHZW5lc2lzUnVudGltZQoKICAgICAgICBydCA9IEdlbmVzaXNSdW50aW1lLmluc3RhbmNlKCkKICAgICAgICByZXR1cm4ganNvbmlmeSh7CiAgICAgICAgICAgICJwYXVzZWQiOiBydC5wYXVzZWQsCiAgICAgICAgICAgICJyZWFzb24iOiBydC5wYXVzZV9yZWFzb24sCiAgICAgICAgICAgICJzaW5jZSI6IHJ0LnBhdXNlZF9zaW5jZS5pc29mb3JtYXQoKSBpZiBydC5wYXVzZWRfc2luY2UgZWxzZSBOb25lLAogICAgICAgIH0pCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHJldHVybiBqc29uaWZ5KHsicGF1c2VkIjogRmFsc2UsICJyZWFzb24iOiBOb25lLCAic2luY2UiOiBOb25lfSkKCgpAYmx1ZXByaW50LnJvdXRlKCIvYXBpL2dlbmVzaXMvcGF1c2UiLCBtZXRob2RzPVsiUE9TVCJdKQpkZWYgc2V0X3BhdXNlKCk6CiAgICAiIiJTZXQgcGF1c2Ugc3RhdGUuIEJvZHk6IHsicGF1c2VkIjogYm9vbCwgInJlYXNvbiI6IHN0cn0uIiIiCiAgICB0cnk6CiAgICAgICAgZnJvbSBnZW5lc2lzLnJ1bnRpbWUgaW1wb3J0IEdlbmVzaXNSdW50aW1lCgogICAgICAgIHJ0ID0gR2VuZXNpc1J1bnRpbWUuaW5zdGFuY2UoKQogICAgICAgIGRhdGEgPSByZXF1ZXN0LmdldF9qc29uKHNpbGVudD1UcnVlKSBvciB7fQogICAgICAgIHBhdXNlZCA9IGRhdGEuZ2V0KCJwYXVzZWQiLCBGYWxzZSkKICAgICAgICByZWFzb24gPSBkYXRhLmdldCgicmVhc29uIiwgIkRhc2hib2FyZCB0b2dnbGUiKQogICAgICAgIHJ0LnNldF9wYXVzZWQocGF1c2VkLCByZWFzb24pCiAgICAgICAgcmV0dXJuIGpzb25pZnkoeyJvayI6IFRydWUsICJwYXVzZWQiOiBydC5wYXVzZWR9KQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbigiRmFpbGVkIHRvIHNldCBwYXVzZSBzdGF0ZSIpCiAgICAgICAgcmV0dXJuIGpzb25pZnkoeyJvayI6IEZhbHNlLCAiZXJyb3IiOiBzdHIoZXhjKX0pLCA1MDAKCgpAYmx1ZXByaW50LnJvdXRlKCIvZ2VuZXNpcy9tb25pdG9yIikKZGVmIG5ldXJhbF9tb25pdG9yKCk6CiAgICAiIiJTZXJ2ZSB0aGUgbmV1cmFsIG1vbml0b3IgZGFzaGJvYXJkLiIiIgogICAgcmV0dXJuIHNlbmRfZnJvbV9kaXJlY3RvcnkoCiAgICAgICAgc3RyKFBhdGgoX19maWxlX18pLnBhcmVudCAvICJ0ZW1wbGF0ZXMiKSwKICAgICAgICAibmV1cmFsX21vbml0b3IuaHRtbCIsCiAgICApCg==
+"""Flask blueprint for Genesis health API and neural monitor dashboard."""
+
+from __future__ import annotations
+
+import asyncio
+import logging
+from pathlib import Path
+
+from flask import Blueprint, jsonify, request, send_from_directory
+
+logger = logging.getLogger("genesis.api_health")
+
+blueprint = Blueprint(
+    "genesis_health",
+    __name__,
+    template_folder="templates",
+)
+
+
+@blueprint.route("/api/genesis/health")
+def health_snapshot():
+    """Return full health snapshot as JSON."""
+    try:
+        from genesis.runtime import GenesisRuntime
+
+        rt = GenesisRuntime.instance()
+        if not rt.is_bootstrapped or not rt.health_data:
+            return jsonify({"status": "unknown", "message": "not bootstrapped"})
+
+        # Run async snapshot in the existing event loop
+        loop = asyncio.get_event_loop()
+        if loop.is_running():
+            import concurrent.futures
+
+            with concurrent.futures.ThreadPoolExecutor() as pool:
+                result = pool.submit(
+                    asyncio.run, rt.health_data.snapshot()
+                ).result(timeout=10)
+        else:
+            result = loop.run_until_complete(rt.health_data.snapshot())
+
+        return jsonify(result)
+    except Exception:
+        logger.exception("Health snapshot failed")
+        return jsonify({"status": "error", "message": "snapshot failed"}), 500
+
+
+@blueprint.route("/api/genesis/pause")
+def get_pause_status():
+    """Return current pause state."""
+    try:
+        from genesis.runtime import GenesisRuntime
+
+        rt = GenesisRuntime.instance()
+        return jsonify({
+            "paused": rt.paused,
+            "reason": rt.pause_reason,
+            "since": rt.paused_since.isoformat() if rt.paused_since else None,
+        })
+    except Exception:
+        return jsonify({"paused": False, "reason": None, "since": None})
+
+
+@blueprint.route("/api/genesis/pause", methods=["POST"])
+def set_pause():
+    """Set pause state. Body: {"paused": bool, "reason": str}."""
+    try:
+        from genesis.runtime import GenesisRuntime
+
+        rt = GenesisRuntime.instance()
+        data = request.get_json(silent=True) or {}
+        paused = data.get("paused", False)
+        reason = data.get("reason", "Dashboard toggle")
+        rt.set_paused(paused, reason)
+        return jsonify({"ok": True, "paused": rt.paused})
+    except Exception as exc:
+        logger.exception("Failed to set pause state")
+        return jsonify({"ok": False, "error": str(exc)}), 500
+
+
+@blueprint.route("/genesis/monitor")
+def neural_monitor():
+    """Serve the neural monitor dashboard."""
+    return send_from_directory(
+        str(Path(__file__).parent / "templates"),
+        "neural_monitor.html",
+    )

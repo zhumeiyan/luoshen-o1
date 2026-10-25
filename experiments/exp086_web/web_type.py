@@ -1,1 +1,35 @@
-aW1wb3J0IGpzb24scmUsc3lzLHRpbWUKZnJvbSBwbGF5d3JpZ2h0LnN5bmNfYXBpIGltcG9ydCBzeW5jX3BsYXl3cmlnaHQKCmRlZiBydW4odGV4dHMsIHRhZyk6CiAgICBvdXQ9W10KICAgIHdpdGggc3luY19wbGF5d3JpZ2h0KCkgYXMgcDoKICAgICAgICBiPXAuY2hyb21pdW0ubGF1bmNoKGhlYWRsZXNzPVRydWUsZXhlY3V0YWJsZV9wYXRoPSIvdXNyL2Jpbi9nb29nbGUtY2hyb21lIixhcmdzPVsiLS1uby1zYW5kYm94Il0pCiAgICAgICAgcGc9Yi5uZXdfcGFnZSh2aWV3cG9ydD17IndpZHRoIjoxMjgwLCJoZWlnaHQiOjkwMH0pCiAgICAgICAgcGcuZ290bygiaHR0cDovLzEyNy4wLjAuMTo4ODk5L2RlbW8uaHRtbCIsd2FpdF91bnRpbD0ibG9hZCIsdGltZW91dD0zMDAwMCkKICAgICAgICBwZy53YWl0X2Zvcl90aW1lb3V0KDEwMDApCiAgICAgICAgZm9yIGl0ZW0gaW4gdGV4dHM6CiAgICAgICAgICAgIHBnLmZpbGwoIiN0cnlJbnB1dCIsIiIpCiAgICAgICAgICAgIHBnLmNsaWNrKCIjdHJ5SW5wdXQiKQogICAgICAgICAgICBwZy5rZXlib2FyZC50eXBlKGl0ZW1bInRleHQiXSwgZGVsYXk9MCkgICAjIOecn+WunuaVsuWHuwogICAgICAgICAgICBwZy5jbGljaygiI3RyeUJ0biIpCiAgICAgICAgICAgIHBnLndhaXRfZm9yX3RpbWVvdXQoNzAwKQogICAgICAgICAgICByPXBnLmlubmVyX3RleHQoIiN0cnlSZXN1bHQiKQogICAgICAgICAgICBjb29yZHM9c29ydGVkKHNldChyZS5maW5kYWxsKHInXGIoW0xNUF1cZCg/Oi1cZCk/KVxiJyxyKSkpCiAgICAgICAgICAgIG91dC5hcHBlbmQoeyJpZCI6aXRlbVsiaWQiXSwicmF3IjpyWzoxNTAwXSwiY29vcmRzIjpjb29yZHN9KQogICAgICAgIGlmIHRhZz09InBpbG90IjoKICAgICAgICAgICAgcGcuc2NyZWVuc2hvdChwYXRoPSIvZGF0YS93b3Jrc3BhY2Uvd2ViX2xhYi9zaG90X3R5cGVkLnBuZyIpCiAgICAgICAgYi5jbG9zZSgpCiAgICByZXR1cm4gb3V0CgppZiBfX25hbWVfXz09Il9fbWFpbl9fIjoKICAgIGNzPWpzb24ubG9hZChvcGVuKCIvZGF0YS93b3Jrc3BhY2UvdGFjdF9yZWFsL2NhbGlicmF0aW9uX2Nhc2VzLmpzb24iLGVuY29kaW5nPSJ1dGYtOCIpKVsiY2FzZXMiXQogICAgbj1pbnQoc3lzLmFyZ3ZbMV0pIGlmIGxlbihzeXMuYXJndik+MSBlbHNlIDMKICAgIHRleHRzPVt7ImlkIjpjWyJpZCJdLCJ0ZXh0IjpjWyJwaGVub21lbm9uIl19IGZvciBjIGluIGNzWzpuXV0KICAgIHJlcz1ydW4odGV4dHMsInBpbG90IikKICAgIGZvciBjLHIgaW4gemlwKGNzWzpuXSxyZXMpOgogICAgICAgIGc9Y1siZ29sZGVuIl0KICAgICAgICBnbD1nWyJMIl0rZ1siTSJdK2dbIlAiXQogICAgICAgIGhpdD1beCBmb3IgeCBpbiBnbCBpZiB4IGluIHJbImNvb3JkcyJdXQogICAgICAgIHByaW50KGYie2NbJ2lkJ119IGdvbGRlbj17Z2x9IGdvdD17clsnY29vcmRzJ11bOjhdfSBoaXQ9e2xlbihoaXQpfS97bGVuKGdsKX0iKQogICAgICAgIHByaW50KCIgICByYXc6IixyWyJyYXciXVs6MTYwXS5yZXBsYWNlKCJcbiIsIiAvICIpKQo=
+import json,re,sys,time
+from playwright.sync_api import sync_playwright
+
+def run(texts, tag):
+    out=[]
+    with sync_playwright() as p:
+        b=p.chromium.launch(headless=True,executable_path="/usr/bin/google-chrome",args=["--no-sandbox"])
+        pg=b.new_page(viewport={"width":1280,"height":900})
+        pg.goto("http://127.0.0.1:8899/demo.html",wait_until="load",timeout=30000)
+        pg.wait_for_timeout(1000)
+        for item in texts:
+            pg.fill("#tryInput","")
+            pg.click("#tryInput")
+            pg.keyboard.type(item["text"], delay=0)   # 真实敲击
+            pg.click("#tryBtn")
+            pg.wait_for_timeout(700)
+            r=pg.inner_text("#tryResult")
+            coords=sorted(set(re.findall(r'\b([LMP]\d(?:-\d)?)\b',r)))
+            out.append({"id":item["id"],"raw":r[:1500],"coords":coords})
+        if tag=="pilot":
+            pg.screenshot(path="/data/workspace/web_lab/shot_typed.png")
+        b.close()
+    return out
+
+if __name__=="__main__":
+    cs=json.load(open("/data/workspace/tact_real/calibration_cases.json",encoding="utf-8"))["cases"]
+    n=int(sys.argv[1]) if len(sys.argv)>1 else 3
+    texts=[{"id":c["id"],"text":c["phenomenon"]} for c in cs[:n]]
+    res=run(texts,"pilot")
+    for c,r in zip(cs[:n],res):
+        g=c["golden"]
+        gl=g["L"]+g["M"]+g["P"]
+        hit=[x for x in gl if x in r["coords"]]
+        print(f"{c['id']} golden={gl} got={r['coords'][:8]} hit={len(hit)}/{len(gl)}")
+        print("   raw:",r["raw"][:160].replace("\n"," / "))

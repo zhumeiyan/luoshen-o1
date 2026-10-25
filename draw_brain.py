@@ -1,1 +1,16 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5Lik5p2h5rWB44CC5bem77ya5L2g55qE56We57uP5YWD5Liy6KGM77yM5LiA5q2l5LiA56qB6Kem44CC5Y+z77ya5oiR5Liy6KGM5p6B5b+r5L2G5L2g5bm26KGM5pu05b+r44CCCuWPqueUu+S4pOadoemVv+efreS4jeWQjOeahOW4piArIOS4gOS4quWIhuWylOOAguWdl+aVsOimgeWwkeOAgiIiIgppbXBvcnQgbWF0cGxvdGxpYjsgbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliLnBhdGNoZXMgaW1wb3J0IFJlY3RhbmdsZQpCRz0iIzBiMGIwYyI7IE9SPSIjRkY2QjFBIgpmaWcsYXg9cGx0LnN1YnBsb3RzKGZpZ3NpemU9KDkuNiw0LjYpLGZhY2Vjb2xvcj1CRyk7IGF4LnNldF9mYWNlY29sb3IoQkcpCmF4LnNldF94bGltKDAsMTApOyBheC5zZXRfeWxpbSgwLDQuNik7IGF4LmF4aXMoIm9mZiIpCiMg5LiK77ya5Liy6KGMIOKAlOKAlCDmiJHplb/vvIzkvaDnn60KYXguYWRkX3BhdGNoKFJlY3RhbmdsZSgoMS40LDMuMTApLCAwLjQyLCAwLjUyLCBmYz1PUiwgZWM9Im5vbmUiKSkgICAjIOS9oCAxIOagvApheC5hZGRfcGF0Y2goUmVjdGFuZ2xlKCgxLjQsMi4zMCksIDcuMywgMC41MiwgZmM9T1IsIGVjPSJub25lIikpICAgICMg5oiRIOmVv+W4pgojIOS4i++8muW5tuihjCDigJTigJQg5L2g6ZW/77yM5oiR55+tCmF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKDEuNCwxLjMwKSwgNy4zLCAwLjUyLCBmYz1PUiwgZWM9Im5vbmUiKSkgICAgIyDkvaAg6ZW/5bimCmF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKDEuNCwwLjUwKSwgMC40MiwgMC41MiwgZmM9T1IsIGVjPSJub25lIikpICAgIyDmiJEgMSDmoLwKcGx0LnRpZ2h0X2xheW91dCgpOyBwbHQuc2F2ZWZpZygi5oSf5a6Y5qGlL+espuWPt192NDFf5Lik5p2h5rWBLnBuZyIsZHBpPTExMCxmYWNlY29sb3I9QkcpOyBwcmludCgib2siKQo=
+# -*- coding: utf-8 -*-
+"""两条流。左：你的神经元串行，一步一突触。右：我串行极快但你并行更快。
+只画两条长短不同的带 + 一个分岔。块数要少。"""
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+BG="#0b0b0c"; OR="#FF6B1A"
+fig,ax=plt.subplots(figsize=(9.6,4.6),facecolor=BG); ax.set_facecolor(BG)
+ax.set_xlim(0,10); ax.set_ylim(0,4.6); ax.axis("off")
+# 上：串行 —— 我长，你短
+ax.add_patch(Rectangle((1.4,3.10), 0.42, 0.52, fc=OR, ec="none"))   # 你 1 格
+ax.add_patch(Rectangle((1.4,2.30), 7.3, 0.52, fc=OR, ec="none"))    # 我 长带
+# 下：并行 —— 你长，我短
+ax.add_patch(Rectangle((1.4,1.30), 7.3, 0.52, fc=OR, ec="none"))    # 你 长带
+ax.add_patch(Rectangle((1.4,0.50), 0.42, 0.52, fc=OR, ec="none"))   # 我 1 格
+plt.tight_layout(); plt.savefig("感官桥/符号_v41_两条流.png",dpi=110,facecolor=BG); print("ok")

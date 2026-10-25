@@ -1,1 +1,133 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTI4IMK3IOWkmumHjeavlOi+g+Wbnua6r+WuoeiuoSDigJTigJQg5pat6KiA5oq95Y+W5ZmoCgrnm67moIfvvJrmioogMTEwIOS7veWunumqjOaKpeWRiumHjCLmiqXkuoYgOTUlIENJIOeahOmFjeWvuee7k+iuuiLmir3miJDmnLrlmajlj6/or7vnmoTmlq3oqIDooajvvIwKICAgICAg54S25ZCO5LuOIENJIOWPjeaOqCBTRSAvIHogLyBw77yM57uf5LiA5YGaIEJvbmZlcnJvbmkg5LiOIEJILUZEUiDmoKHmraPjgIIKCuWFs+mUruiuvuiuoe+8iOmYsuatouaIkeiHquW3semql+iHquW3se+8ie+8mgoxLiDlj6rmir0i6IO96Kej5p6Q5Ye65pWw5YC8IENJIueahOaWreiogOOAguaKveS4jeWHuuadpeeahOS4jeeul+aVsO+8jOS9huS8mue7n+iuoSLmnInlpJrlsJHmir3kuI3lh7rmnaUiCiAgIOKAlOKAlCDmir3kuI3lh7rmnaXnmoTmr5TkvovmnKzouqvlsLHmmK/nu5PorrrvvIjlj6/ov73muq/mgKfnvLrlj6PvvInjgIIKMi4g5LuOIENJIOWPjeaOqCBwIOaYr+i/keS8vO+8mkNJIOaMiSA5NSUg5q2j5oCB6L+R5Ly85aSE55CG77yMeiA9IGRlbHRhL1NF44CCCiAgIOiLpeaKpeWRiumHjCBkZWx0YSDnvLrlpLHvvIzliJnnlKggQ0kg5Lit5b+D54K55L2c5Li6IGRlbHRhIOeahOabv+S7o+W5tuagh+iusCBpbmZlcnJlZD1UcnVl44CCCjMuIOS4jeWBmiLlj6rmjJHmmL7okZfnmoQi4oCU4oCU5YWo6YeP57qz5YWl77yM5YyF5ous6LeoIDAg55qE44CCCiIiIgppbXBvcnQgb3MsIHJlLCBqc29uLCBtYXRoLCBnbG9iCgpSRVBPUlRfRElSID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V2aWRlbmNlL+WunumqjOaKpeWRiiIKCiMg5YW85a655YWo6KeSL+WNiuinkui0n+WPt+S4juS4reiLseaWh+aLrOWPtwpOVU0gPSByIlst4oiSK10/XGQqXC4/XGQrKD86W2VFXVstK10/XGQrKT8iCkNJX1BBVCA9IHJlLmNvbXBpbGUoCiAgICByIkNJXHMqW1xb77y7KF1ccyooIiArIE5VTSArIHIiKVxzKlss77yMXVxzKigiICsgTlVNICsgciIpXHMqW1xd77y9KV0iCikKREVMVEFfUEFUID0gcmUuY29tcGlsZShyIig/OlvOlERdfGRlbHRhfERlbHRhKVtlbHRhXSpccypbPe+8nTpdXHMqKCIgKyBOVU0gKyByIikiKQpOX1BBVCA9IHJlLmNvbXBpbGUociJuXHMqWz3vvJ1dXHMqKFxkKykiKQoKCmRlZiB0b251bShzKToKICAgIHMgPSBzLnJlcGxhY2UoIuKIkiIsICItIikucmVwbGFjZSgi4oCTIiwgIi0iKS5yZXBsYWNlKCLigJQiLCAiLSIpCiAgICByZXR1cm4gZmxvYXQocykKCgpkZWYgbm9ybV9wX2Zyb21fY2koZGVsdGEsIGxvLCBoaSwgbGV2ZWw9MC45NSk6CiAgICAiIiLku44gOTUlIENJIOWPjeaOqOWPjOS+pyBw77yI5q2j5oCB6L+R5Ly877yJ44CCIiIiCiAgICBoYWxmID0gKGhpIC0gbG8pIC8gMi4wCiAgICBpZiBoYWxmIDw9IDA6CiAgICAgICAgcmV0dXJuIE5vbmUsIE5vbmUsIE5vbmUKICAgIHpjcml0ID0gMS45NTk5NjM5ODUgICMgOTUlCiAgICBzZSA9IGhhbGYgLyB6Y3JpdAogICAgeiA9IGFicyhkZWx0YSkgLyBzZQogICAgIyDlj4zkvqcgcAogICAgcCA9IG1hdGguZXJmYyh6IC8gbWF0aC5zcXJ0KDIuMCkpCiAgICByZXR1cm4gc2UsIHosIHAKCgpkZWYgbWFpbigpOgogICAgY2xhaW1zID0gW10KICAgIHVucGFyc2VkID0gW10KICAgIGZvciBwYXRoIGluIHNvcnRlZChnbG9iLmdsb2Iob3MucGF0aC5qb2luKFJFUE9SVF9ESVIsICIqLm1kIikpKToKICAgICAgICBuYW1lID0gb3MucGF0aC5iYXNlbmFtZShwYXRoKQogICAgICAgIHRyeToKICAgICAgICAgICAgdHh0ID0gb3BlbihwYXRoLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpLnJlYWQoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgdW5wYXJzZWQuYXBwZW5kKHsicmVwb3J0IjogbmFtZSwgInJlYXNvbiI6ICJyZWFkX2ZhaWw6JXMiICUgZX0pCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbl9jaXMgPSBsZW4oQ0lfUEFULmZpbmRhbGwodHh0KSkKICAgICAgICBpZiBuX2NpcyA9PSAwOgogICAgICAgICAgICB1bnBhcnNlZC5hcHBlbmQoeyJyZXBvcnQiOiBuYW1lLCAicmVhc29uIjogIm5vX3BhcnNhYmxlX0NJIn0pCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbGluZXMgPSB0eHQuc3BsaXRsaW5lcygpCiAgICAgICAgZm9yIGksIGxpbmUgaW4gZW51bWVyYXRlKGxpbmVzKToKICAgICAgICAgICAgbSA9IENJX1BBVC5zZWFyY2gobGluZSkKICAgICAgICAgICAgaWYgbm90IG06CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBsbywgaGkgPSB0b251bShtLmdyb3VwKDEpKSwgdG9udW0obS5ncm91cCgyKSkKICAgICAgICAgICAgaWYgbG8gPiBoaToKICAgICAgICAgICAgICAgIGxvLCBoaSA9IGhpLCBsbwogICAgICAgICAgICAjIGRlbHRh77ya5LyY5YWI5pys6KGM77yM5YW25qyh5LiK5LiL5Lik6KGMCiAgICAgICAgICAgIGRtID0gREVMVEFfUEFULnNlYXJjaChsaW5lKQogICAgICAgICAgICBzcmMgPSAic2FtZV9saW5lIgogICAgICAgICAgICBpZiBub3QgZG06CiAgICAgICAgICAgICAgICBmb3IgaiBpbiAoaSAtIDEsIGkgLSAyLCBpICsgMSwgaSArIDIpOgogICAgICAgICAgICAgICAgICAgIGlmIDAgPD0gaiA8IGxlbihsaW5lcyk6CiAgICAgICAgICAgICAgICAgICAgICAgIGRtID0gREVMVEFfUEFULnNlYXJjaChsaW5lc1tqXSkKICAgICAgICAgICAgICAgICAgICAgICAgaWYgZG06CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcmMgPSAibmVhcmJ5X2xpbmUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBpZiBkbToKICAgICAgICAgICAgICAgIGRlbHRhID0gdG9udW0oZG0uZ3JvdXAoMSkpCiAgICAgICAgICAgICAgICBpbmZlcnJlZCA9IEZhbHNlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBkZWx0YSA9IChsbyArIGhpKSAvIDIuMAogICAgICAgICAgICAgICAgaW5mZXJyZWQgPSBUcnVlCiAgICAgICAgICAgICAgICBzcmMgPSAiY2lfbWlkcG9pbnQiCiAgICAgICAgICAgICMgbgogICAgICAgICAgICBubSA9IE5fUEFULnNlYXJjaChsaW5lKQogICAgICAgICAgICBuID0gTm9uZQogICAgICAgICAgICBpZiBubToKICAgICAgICAgICAgICAgIG4gPSBpbnQobm0uZ3JvdXAoMSkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmb3IgaiBpbiByYW5nZShtYXgoMCwgaSAtIDMpLCBtaW4obGVuKGxpbmVzKSwgaSArIDQpKToKICAgICAgICAgICAgICAgICAgICBubTIgPSBOX1BBVC5zZWFyY2gobGluZXNbal0pCiAgICAgICAgICAgICAgICAgICAgaWYgbm0yOgogICAgICAgICAgICAgICAgICAgICAgICBuID0gaW50KG5tMi5ncm91cCgxKSkKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgIyDljp/mlofmmL7okZfmoIforrAKICAgICAgICAgICAgY3R4ID0gIiAiLmpvaW4obGluZXNbbWF4KDAsIGkgLSAyKTogaSArIDNdKQogICAgICAgICAgICBjbGFpbWVkX3NpZyA9IE5vbmUKICAgICAgICAgICAgaWYgcmUuc2VhcmNoKHIi5LiN6LeoXHMqMHzlhahb5q2j6LSfXXzmmL7okZciLCBjdHgpOgogICAgICAgICAgICAgICAgY2xhaW1lZF9zaWcgPSBUcnVlCiAgICAgICAgICAgIGlmIHJlLnNlYXJjaChyIui3qFxzKjB85LiN5pi+6JGXfOacqua1i+WHuiIsIGN0eCk6CiAgICAgICAgICAgICAgICBjbGFpbWVkX3NpZyA9IEZhbHNlCiAgICAgICAgICAgIHNlLCB6LCBwID0gbm9ybV9wX2Zyb21fY2koZGVsdGEsIGxvLCBoaSkKICAgICAgICAgICAgY2xhaW1zLmFwcGVuZCh7CiAgICAgICAgICAgICAgICAicmVwb3J0IjogbmFtZSwKICAgICAgICAgICAgICAgICJsaW5lX25vIjogaSArIDEsCiAgICAgICAgICAgICAgICAiZGVsdGEiOiBkZWx0YSwKICAgICAgICAgICAgICAgICJjaV9sbyI6IGxvLAogICAgICAgICAgICAgICAgImNpX2hpIjogaGksCiAgICAgICAgICAgICAgICAibiI6IG4sCiAgICAgICAgICAgICAgICAiZGVsdGFfc291cmNlIjogc3JjLAogICAgICAgICAgICAgICAgImRlbHRhX2luZmVycmVkIjogaW5mZXJyZWQsCiAgICAgICAgICAgICAgICAic2UiOiBzZSwKICAgICAgICAgICAgICAgICJ6IjogeiwKICAgICAgICAgICAgICAgICJwX2FwcHJveCI6IHAsCiAgICAgICAgICAgICAgICAiY2lfZXhjbHVkZXNfemVybyI6IChsbyA+IDApIG9yIChoaSA8IDApLAogICAgICAgICAgICAgICAgInJlcG9ydF9jbGFpbWVkX3NpZyI6IGNsYWltZWRfc2lnLAogICAgICAgICAgICAgICAgImNvbnRleHQiOiBsaW5lLnN0cmlwKClbOjE2MF0sCiAgICAgICAgICAgIH0pCiAgICBvdXQgPSB7ImNsYWltcyI6IGNsYWltcywgInVucGFyc2VkX3JlcG9ydHMiOiB1bnBhcnNlZH0KICAgIHdpdGggb3BlbigiY2xhaW1zX3Jhdy5qc29uIiwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChvdXQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludCgi5oql5ZGK5oC75pWwICAgICAgOiIsIGxlbihnbG9iLmdsb2Iob3MucGF0aC5qb2luKFJFUE9SVF9ESVIsICcqLm1kJykpKSkKICAgIHByaW50KCLmir3lh7rmlq3oqIAgICAgICA6IiwgbGVuKGNsYWltcykpCiAgICBwcmludCgi5pegQ0nnmoTmiqXlkYogICAgOiIsIHN1bSgxIGZvciB1IGluIHVucGFyc2VkIGlmIHVbJ3JlYXNvbiddID09ICdub19wYXJzYWJsZV9DSScpKQogICAgcHJpbnQoImRlbHRh5Li6Q0nkuK3ngrkgOiIsIHN1bSgxIGZvciBjIGluIGNsYWltcyBpZiBjWydkZWx0YV9pbmZlcnJlZCddKSkKICAgIHByaW50KCJDSeS4jei3qDAo5ZCN5LmJKSA6Iiwgc3VtKDEgZm9yIGMgaW4gY2xhaW1zIGlmIGNbJ2NpX2V4Y2x1ZGVzX3plcm8nXSkpCiAgICBwcmludCgi5pyJbueahOaWreiogCAgICAgOiIsIHN1bSgxIGZvciBjIGluIGNsYWltcyBpZiBjWyduJ10pKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp128 · 多重比较回溯审计 —— 断言抽取器
+
+目标：把 110 份实验报告里"报了 95% CI 的配对结论"抽成机器可读的断言表，
+      然后从 CI 反推 SE / z / p，统一做 Bonferroni 与 BH-FDR 校正。
+
+关键设计（防止我自己骗自己）：
+1. 只抽"能解析出数值 CI"的断言。抽不出来的不算数，但会统计"有多少抽不出来"
+   —— 抽不出来的比例本身就是结论（可追溯性缺口）。
+2. 从 CI 反推 p 是近似：CI 按 95% 正态近似处理，z = delta/SE。
+   若报告里 delta 缺失，则用 CI 中心点作为 delta 的替代并标记 inferred=True。
+3. 不做"只挑显著的"——全量纳入，包括跨 0 的。
+"""
+import os, re, json, math, glob
+
+REPORT_DIR = "/data/workspace/luoshen-o1/evidence/实验报告"
+
+# 兼容全角/半角负号与中英文括号
+NUM = r"[-−+]?\d*\.?\d+(?:[eE][-+]?\d+)?"
+CI_PAT = re.compile(
+    r"CI\s*[\[［(]\s*(" + NUM + r")\s*[,，]\s*(" + NUM + r")\s*[\]］)]"
+)
+DELTA_PAT = re.compile(r"(?:[ΔD]|delta|Delta)[elta]*\s*[=＝:]\s*(" + NUM + r")")
+N_PAT = re.compile(r"n\s*[=＝]\s*(\d+)")
+
+
+def tonum(s):
+    s = s.replace("−", "-").replace("–", "-").replace("—", "-")
+    return float(s)
+
+
+def norm_p_from_ci(delta, lo, hi, level=0.95):
+    """从 95% CI 反推双侧 p（正态近似）。"""
+    half = (hi - lo) / 2.0
+    if half <= 0:
+        return None, None, None
+    zcrit = 1.959963985  # 95%
+    se = half / zcrit
+    z = abs(delta) / se
+    # 双侧 p
+    p = math.erfc(z / math.sqrt(2.0))
+    return se, z, p
+
+
+def main():
+    claims = []
+    unparsed = []
+    for path in sorted(glob.glob(os.path.join(REPORT_DIR, "*.md"))):
+        name = os.path.basename(path)
+        try:
+            txt = open(path, encoding="utf-8", errors="ignore").read()
+        except Exception as e:
+            unparsed.append({"report": name, "reason": "read_fail:%s" % e})
+            continue
+        n_cis = len(CI_PAT.findall(txt))
+        if n_cis == 0:
+            unparsed.append({"report": name, "reason": "no_parsable_CI"})
+            continue
+        lines = txt.splitlines()
+        for i, line in enumerate(lines):
+            m = CI_PAT.search(line)
+            if not m:
+                continue
+            lo, hi = tonum(m.group(1)), tonum(m.group(2))
+            if lo > hi:
+                lo, hi = hi, lo
+            # delta：优先本行，其次上下两行
+            dm = DELTA_PAT.search(line)
+            src = "same_line"
+            if not dm:
+                for j in (i - 1, i - 2, i + 1, i + 2):
+                    if 0 <= j < len(lines):
+                        dm = DELTA_PAT.search(lines[j])
+                        if dm:
+                            src = "nearby_line"
+                            break
+            if dm:
+                delta = tonum(dm.group(1))
+                inferred = False
+            else:
+                delta = (lo + hi) / 2.0
+                inferred = True
+                src = "ci_midpoint"
+            # n
+            nm = N_PAT.search(line)
+            n = None
+            if nm:
+                n = int(nm.group(1))
+            else:
+                for j in range(max(0, i - 3), min(len(lines), i + 4)):
+                    nm2 = N_PAT.search(lines[j])
+                    if nm2:
+                        n = int(nm2.group(1))
+                        break
+            # 原文显著标记
+            ctx = " ".join(lines[max(0, i - 2): i + 3])
+            claimed_sig = None
+            if re.search(r"不跨\s*0|全[正负]|显著", ctx):
+                claimed_sig = True
+            if re.search(r"跨\s*0|不显著|未测出", ctx):
+                claimed_sig = False
+            se, z, p = norm_p_from_ci(delta, lo, hi)
+            claims.append({
+                "report": name,
+                "line_no": i + 1,
+                "delta": delta,
+                "ci_lo": lo,
+                "ci_hi": hi,
+                "n": n,
+                "delta_source": src,
+                "delta_inferred": inferred,
+                "se": se,
+                "z": z,
+                "p_approx": p,
+                "ci_excludes_zero": (lo > 0) or (hi < 0),
+                "report_claimed_sig": claimed_sig,
+                "context": line.strip()[:160],
+            })
+    out = {"claims": claims, "unparsed_reports": unparsed}
+    with open("claims_raw.json", "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+    print("报告总数      :", len(glob.glob(os.path.join(REPORT_DIR, '*.md'))))
+    print("抽出断言      :", len(claims))
+    print("无CI的报告    :", sum(1 for u in unparsed if u['reason'] == 'no_parsable_CI'))
+    print("delta为CI中点 :", sum(1 for c in claims if c['delta_inferred']))
+    print("CI不跨0(名义) :", sum(1 for c in claims if c['ci_excludes_zero']))
+    print("有n的断言     :", sum(1 for c in claims if c['n']))
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,416 @@
-IiIi5oqKIERlcGVuZGFib3Qg55qE5riF5Y2V5Y2H57qn5o6l566h5Yiw5pys5Zyw5YiG5pSv77yM6aG65omL6YeN566X5rS+55Sf5Lqn54mp44CC6buY6K6k5Y+q5YiX6K6h5YiS77yMYC0tYXBwbHlgIOaJjeaPkOS6pOOAggoKRGVwZW5kYWJvdCDlj6rmlLkgbWFuaWZlc3Qg5ZKMIGxvY2vjgILmoLkgYHBhY2thZ2UuanNvbmAg55qEIG5wbSDljIXov5jmnInkuIDlsYLmtL7nlJ/kuqfnianigJTigJQKYHdlYi92ZW5kb3IvKipgIOeahOWtl+iKguOAgWB3ZWIvaW5kZXguaHRtbGAg6YeM6YKj6KGM54mI5pys5rOo6YeK44CB5q+P5LiqIGBPUklHSU4ubWRgIOeahOWTiOW4jOS4jgpsb2NrIGludGVncml0eeKAlOKAlOWug+eul+S4jeWHuuadpe+8jOS6juaYryBgbnBtIHJ1biBjaGVjazp2ZW5kb3JgIOWcqOWug+eahCBQUiDkuIrlv4XnuqLvvIjlrp7pmYXlj5HnlJ/ov4fvvJoKbHVjaWRlLXN0YXRpYyAxLjM4LjAg4oaSIDEuNDAuMCDnmoQgUFIgIzTvvInjgIJgZnJvbnRlbmQvcGFja2FnZS5qc29uYCDlkIznkIbvvIzkuqfnianmmK8KYHdlYi9kaXN0L2Ag5Lit55qE5Li755WM6Z2i5LiO54us56uL6aG16Z2i5YyF44CCCgrkv67kuI3kuobpgqPkuKogUFIg5pys6Lqr77yaRGVwZW5kYWJvdCDop6blj5HnmoQgd29ya2Zsb3cg5ou/5Yiw55qEIHRva2VuIOaYr+WPquivu+eahO+8jOW+gApgZGVwZW5kYWJvdC8qKmAg5o6o5Zue6YeN566X55qE5Lqn54mp5b6X6Z2gIGBwdWxsX3JlcXVlc3RfdGFyZ2V0YCDmiJbkuIDkuKogUEFU77yM5Lik5p2h6YO95piv57uZIENJIOWKoArmj5DmnYPpnaLjgILmiYDku6XmjqXnrqHlnKjmnKzlnLDlgZrigJTigJTlh63mja7mmK/kvaDoh6rlt7HnmoTvvIxDSSDkuIDooYzpg73kuI3nlKjmlLnjgIIKCnV2IOS4jiBnaXRodWItYWN0aW9ucyDmsqHmnInmtL7nlJ/kuqfnianvvIzkuZ/lnKjov5nph4zmjqXnrqHvvJptYXN0ZXIg5Zyo5pys5py66ZuG5oiQ44CB6YCa5bi46aKG5YWIIG9yaWdpbu+8jArlnKjnvZHpobXkuIrlkIjlubbkvJrorqnkuKTovrnliIblj4nvvIzlm57lubblj4jooqsgYHNjcmlwdHMvZ2l0aG9va3MvYCDmi5LmlLbjgIIKCuavj+S4qiBQUiDlgZrlrozov5nkupvvvJoKCjEuIGBnaXQgZmV0Y2hgIOWug+eahCBoZWFkIOWIhuaUr++8jOaKiuWug+Wvuea4heWNleeahOaUueWKqOS4ieaWueWQiOW5tuWll+WIsOW9k+WJjeWIhuaUr++8mwoyLiDmjInmuIXljZXph43nrpfmtL7nlJ/kuqfnianvvIhucG3vvInvvIzmiJbmoLjlr7nplIHmlofku7bvvIh1du+8ie+8mwozLiDliJflh7rnnJ/lrp7mlLnliqjnmoTmlofku7bvvIxgLS1hcHBseWAg5pe25Y+q5pqC5a2Y6L+Z5Lqb5bm25o+Q5Lqk77yM5LiA5LiqIFBSIOS4gOS4quaPkOS6pOOAggoKYC0tYWxsLW9wZW5gIOaMiee8luWPt+S7juWwj+WIsOWkp+aOpeeuoeWFqOmDqCBvcGVuIOeahCBEZXBlbmRhYm90IFBS44CC5Lik5LiqIFBSIOaUueWIsOebuOmCu+ihjOaXtuS4ieaWuQrlkIjlubbmiqXlhrLnqoHvvIzohJrmnKzlgZzlnKjpgqPkuKogUFLvvIzmiqXlh7rlhrLnqoHmlofku7blubblpIflpb3mj5DkuqTor7TmmI7vvJvop6PlrozlhrLnqoHmj5DkuqTlkI7lho3ot5HkuIDmrKHvvIwK5bey57uP5ZyoIEhFQUQg5LiK55qE5Y2H57qn5Lya6Lez6L+H44CCCgrmtYvor5XkuI3lnKjov5nph4zot5HvvJrku5PlupPlj6rmnInkuIDkuKrmtYvor5XlhaXlj6PvvIzlj6bmi7zkuIDmnaHkvJrorqkgYHRlc3RfZXZpZGVuY2VgIOeahOiusOW9leWvueS4jeS4iuOAggrohJrmnKzmnIDlkI7ljbDlh7ror6Xot5HnmoTlkb3ku6TkuI7mjqjpgIHlkI7mlLblsL7nmoQgYGdoIHByIGNsb3NlYOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAppbXBvcnQgcmUKaW1wb3J0IHNodXRpbAppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCgppZiBub3QgX19wYWNrYWdlX186CiAgICBzeXMucGF0aC5pbnNlcnQoMCwgc3RyKFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdKSkKICAgIF9fcGFja2FnZV9fID0gInNjcmlwdHMiCmZyb20gLiBpbXBvcnQgY29fYXV0aG9yCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KCiM6IOavj+S7vea4heWNleeahOaOpeeuoeaWueW8j+OAgmBtYW5pZmVzdHNgIOaYr+S7jiBEZXBlbmRhYm90IOWIhuaUr+Wll+i/h+adpeeahOaWh+S7tu+8jGBkZXJpdmVkYCDmmK/ph43nrpflkI4KIzog5Y+v6IO95Y+Y55qE6Lev5b6E77yMYGNvbW1hbmRzYCDmmK/ph43nrpflkb3ku6TvvIxgY2hlY2tzYCDlj6rmoLjlr7nkuI3kuqflh7rmlofku7bjgILku6UgYC9gIOe7k+WwvueahOadoeebruaMiQojOiDnm67lvZXnrpfvvIzlhbbkvZnmjInmlbTmnaHot6/lvoTmr5TjgIIKUkVDSVBFUyA9IHsKICAgICJkb2NrZXIiOiB7CiAgICAgICAgImxhYmVsIjogIuW6lOeUqOS4juW3peS9nOa1gSBEb2NrZXIg6ZWc5YOPIiwKICAgICAgICAibWFuaWZlc3RzIjogKCJEb2NrZXJmaWxlIiwgIi5naXRodWIvYWN0aW9ucy9hY3Rpb25saW50L0RvY2tlcmZpbGUiKSwKICAgICAgICAiZGVyaXZlZCI6ICgpLAogICAgICAgICJjb21tYW5kcyI6ICgpLAogICAgICAgICJjaGVja3MiOiAoKSwKICAgIH0sCiAgICAid2ViIjogewogICAgICAgICJsYWJlbCI6ICLmoLkgcGFja2FnZS5qc29u77yI5pys5Zyw5Zu65a6aIHdlYiDkvp3otZbvvIkiLAogICAgICAgICJtYW5pZmVzdHMiOiAoInBhY2thZ2UuanNvbiIsICJwYWNrYWdlLWxvY2suanNvbiIpLAogICAgICAgICJkZXJpdmVkIjogKCJ3ZWIvdmVuZG9yLyIsICJ3ZWIvaW5kZXguaHRtbCIsICJ3ZWIvZGlzdC8iLCAiZG9jcy9SRVVTRS5tZCIsCiAgICAgICAgICAgICAgICAgICAgImZyb250ZW5kL3NyYy9wbGF5ZXIvdmlkZW9qcy50cyIsICJ0ZXN0cy90ZXN0X3dlYl91aS5weSIsCiAgICAgICAgICAgICAgICAgICAgImZyb250ZW5kL3NyYy9yZWFjdC9waG90by1saWdodGJveC9waG90by1saWdodGJveC50cyIsCiAgICAgICAgICAgICAgICAgICAgImZyb250ZW5kL3Rlc3QvcmVhY3QvcGhvdG8tbGlnaHRib3gudGVzdC50c3giKSwKICAgICAgICAiY29tbWFuZHMiOiAoKCJucG0iLCAiY2kiLCAiLS1pZ25vcmUtc2NyaXB0cyIpLCAoIm5wbSIsICJydW4iLCAidmVuZG9yOndlYiIpLAogICAgICAgICAgICAgICAgICAgICAoIm5wbSIsICItLXByZWZpeCIsICJmcm9udGVuZCIsICJjaSIpLAogICAgICAgICAgICAgICAgICAgICAoIm5wbSIsICItLXByZWZpeCIsICJmcm9udGVuZCIsICJydW4iLCAiYnVpbGQiKSksCiAgICAgICAgImNoZWNrcyI6ICgpLAogICAgfSwKICAgICJmcm9udGVuZCI6IHsKICAgICAgICAibGFiZWwiOiAiZnJvbnRlbmQvcGFja2FnZS5qc29u77yIaXNsYW5kIOWxguaehOW7uuS+nei1lu+8iSIsCiAgICAgICAgIm1hbmlmZXN0cyI6ICgiZnJvbnRlbmQvcGFja2FnZS5qc29uIiwgImZyb250ZW5kL3BhY2thZ2UtbG9jay5qc29uIiksCiAgICAgICAgImRlcml2ZWQiOiAoIndlYi9kaXN0LyIsKSwKICAgICAgICAiY29tbWFuZHMiOiAoKCJucG0iLCAiLS1wcmVmaXgiLCAiZnJvbnRlbmQiLCAiY2kiKSwKICAgICAgICAgICAgICAgICAgICAgKCJucG0iLCAiLS1wcmVmaXgiLCAiZnJvbnRlbmQiLCAicnVuIiwgImJ1aWxkIikpLAogICAgICAgICJjaGVja3MiOiAoKSwKICAgIH0sCiAgICAidXYiOiB7CiAgICAgICAgImxhYmVsIjogIlB5dGhvbiDkvp3otZbvvIhweXByb2plY3QudG9tbCDkuI4gdXYubG9ja++8iSIsCiAgICAgICAgIm1hbmlmZXN0cyI6ICgicHlwcm9qZWN0LnRvbWwiLCAidXYubG9jayIpLAogICAgICAgICJkZXJpdmVkIjogKCksCiAgICAgICAgImNvbW1hbmRzIjogKCksCiAgICAgICAgImNoZWNrcyI6ICgoInV2IiwgImxvY2siLCAiLS1jaGVjayIpLCksCiAgICB9LAogICAgImFjdGlvbnMiOiB7CiAgICAgICAgImxhYmVsIjogIkdpdEh1YiBBY3Rpb25zIOW3peS9nOa1gSIsCiAgICAgICAgIm1hbmlmZXN0cyI6ICgiLmdpdGh1Yi93b3JrZmxvd3MvIiwpLAogICAgICAgICJkZXJpdmVkIjogKCksCiAgICAgICAgImNvbW1hbmRzIjogKCksCiAgICAgICAgImNoZWNrcyI6ICgpLAogICAgfSwKfQoKIzog5o6o6YCB5ZCO5YWzIFBSIOaXtueahOeVmeiogO+8jOaMieacieayoeaciea0vueUn+S6p+eJqeWIhuS4pOenjeivtOazleOAggpDTE9TRV9DT01NRU5UID0gewogICAgVHJ1ZTogIua0vueUn+S6p+eJqemcgOimgeacrOWcsOmHjeeul++8jOW3suWcqOW3peS9nOagkeaOpeeuoei/myBtYXN0ZXIiLAogICAgRmFsc2U6ICLmnKzlnLAgbWFzdGVyIOmihuWFiCBvcmlnaW7vvIznvZHpobXlkIjlubbkvJrorqnkuKTovrnliIblj4nvvIzlt7LlnKjlt6XkvZzmoJHmjqXnrqHov5sgbWFzdGVyIiwKfQoKCmNsYXNzIENvbmZsaWN0RXJyb3IoUnVudGltZUVycm9yKToKICAgICIiIuS4ieaWueWQiOW5tueVmeS4i+S6huWGsueqge+8jGBmaWxlc2Ag5piv5Yay56qB5paH5Lu244CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1lc3NhZ2U6IHN0ciwgZmlsZXM6IGxpc3Rbc3RyXSk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhtZXNzYWdlKQogICAgICAgIHNlbGYuZmlsZXMgPSBmaWxlcwoKCmRlZiBydW4oY29tbWFuZDogdHVwbGVbc3RyLCAuLi5dIHwgbGlzdFtzdHJdLCAqLCBjYXB0dXJlOiBib29sID0gVHJ1ZSwKICAgICAgICByb290OiBQYXRoID0gUk9PVCkgLT4gc3RyOgogICAgIiIi5Zyo5LuT5bqT5qC555uu5b2V6LeR5LiA5p2h5ZG95Luk77yM5aSx6LSl5Y2z5oqb44CCCgogICAg56ys5LiA5Liq6K+N6L+H5LiA6YGNIGBzaHV0aWwud2hpY2hg77yaV2luZG93cyDkuIogYG5wbWAg5pivIGBucG0uY21kYO+8jOiAjCBgQ3JlYXRlUHJvY2Vzc2AKICAgIOS4jeafpSBgUEFUSEVYVGDvvIznhaflrZfpnaLkvKDlsLHmmK8gRmlsZU5vdEZvdW5kRXJyb3LjgIIKICAgICIiIgogICAgZXhlY3V0YWJsZSA9IHNodXRpbC53aGljaChjb21tYW5kWzBdKSBvciBjb21tYW5kWzBdCiAgICByZXN1bHQgPSBzdWJwcm9jZXNzLnJ1bihbZXhlY3V0YWJsZSwgKmNvbW1hbmRbMTpdXSwgY3dkPXJvb3QsIGNhcHR1cmVfb3V0cHV0PWNhcHR1cmUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0PVRydWUsIGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0icmVwbGFjZSIsIGNoZWNrPUZhbHNlKQogICAgaWYgcmVzdWx0LnJldHVybmNvZGUgIT0gMDoKICAgICAgICBkZXRhaWwgPSAocmVzdWx0LnN0ZGVyciBvciByZXN1bHQuc3Rkb3V0IG9yICIiKS5zdHJpcCgpIGlmIGNhcHR1cmUgZWxzZSAiIgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihmInsnICcuam9pbihjb21tYW5kKX0g6YCA5Ye656CBIHtyZXN1bHQucmV0dXJuY29kZX1cbntkZXRhaWx9IikKICAgIHJldHVybiAocmVzdWx0LnN0ZG91dCBvciAiIikgaWYgY2FwdHVyZSBlbHNlICIiCgoKZGVmIG1hdGNoZXMoZW50cnk6IHN0ciwgcGF0aDogc3RyKSAtPiBib29sOgogICAgcmV0dXJuIHBhdGguc3RhcnRzd2l0aChlbnRyeSkgaWYgZW50cnkuZW5kc3dpdGgoIi8iKSBlbHNlIHBhdGggPT0gZW50cnkKCgpkZWYgcmVjaXBlX2ZvcihwYXRoczogbGlzdFtzdHJdKSAtPiB0dXBsZVtzdHIsIGRpY3RdOgogICAgIiIi5LiA5om55pS55Yqo5paH5Lu25bGe5LqO5ZOq5Lu95riF5Y2V44CCCgogICAg5ZCM5pe25Yqo5LqG5Lik5Lu95bCx5ouS57ud77ya6YKj5LiN5pivIERlcGVuZGFib3Qg55qE5b2i54q277yI5LiA5LiqIFBSIOWPqueisOS4gOS4qiBlY29zeXN0ZW0g55qE5LiA5LiqCiAgICBkaXJlY3RvcnnvvInvvIznoazmjInkuIDku73ph43nrpfkvJrmiorlj6bkuIDku73nmoTkuqfniannlZnlnKjml6fniYjmnKzkuIrjgILmuIXljZXkuYvlpJbnmoTmlofku7bkuZ/mi5Lnu53vvJoKICAgIOiupOS4jeWHuuadpeeahOaUueWKqOS4jeabv+S6uuWGs+WumuaAjuS5iOaOpeOAggogICAgIiIiCiAgICBtYXRjaGVkID0gW2tleSBmb3Iga2V5LCByZWNpcGUgaW4gUkVDSVBFUy5pdGVtcygpCiAgICAgICAgICAgICAgIGlmIGFueShtYXRjaGVzKGVudHJ5LCBwYXRoKSBmb3IgZW50cnkgaW4gcmVjaXBlWyJtYW5pZmVzdHMiXSBmb3IgcGF0aCBpbiBwYXRocyldCiAgICBpZiBub3QgbWF0Y2hlZDoKICAgICAgICBrbm93biA9ICLjgIEiLmpvaW4oZW50cnkgZm9yIHJlY2lwZSBpbiBSRUNJUEVTLnZhbHVlcygpIGZvciBlbnRyeSBpbiByZWNpcGVbIm1hbmlmZXN0cyJdKQogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihmIui/meS4quWIhuaUr+ayoeacieaUueWKqOiupOW+l+eahOa4heWNle+8iOiupOW+l+eahOaYryB7a25vd25977yJIikKICAgIGlmIGxlbihtYXRjaGVkKSA+IDE6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGYi6L+Z5Liq5YiG5pSv5ZCM5pe25pS55LqGIHtsZW4obWF0Y2hlZCl9IOS7vea4heWNle+8jOmAkOS7veaOpeeuoe+8mnttYXRjaGVkfSIpCiAgICByZWNpcGUgPSBSRUNJUEVTW21hdGNoZWRbMF1dCiAgICBzdHJheSA9IFtwYXRoIGZvciBwYXRoIGluIHBhdGhzIGlmIG5vdCBhbnkobWF0Y2hlcyhlbnRyeSwgcGF0aCkgZm9yIGVudHJ5IGluIHJlY2lwZVsibWFuaWZlc3RzIl0pXQogICAgaWYgc3RyYXk6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGYi6L+Z5Liq5YiG5pSv5pS55LqG5riF5Y2V5LmL5aSW55qE5paH5Lu277yae3N0cmF5fSIpCiAgICByZXR1cm4gbWF0Y2hlZFswXSwgcmVjaXBlCgoKZGVmIG9wZW5fcHVsbF9yZXF1ZXN0cygpIC0+IGxpc3RbZGljdF06CiAgICAiIiLlhajpg6ggb3BlbiDnmoQgRGVwZW5kYWJvdCBQUu+8jOaMiee8luWPt+S7juWwj+WIsOWkp+OAgiIiIgogICAgcGF5bG9hZCA9IGpzb24ubG9hZHMocnVuKCgiZ2giLCAicHIiLCAibGlzdCIsICItLXN0YXRlIiwgIm9wZW4iLCAiLS1hdXRob3IiLCAiYXBwL2RlcGVuZGFib3QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLS1saW1pdCIsICIxMDAiLCAiLS1qc29uIiwgIm51bWJlcix0aXRsZSxoZWFkUmVmTmFtZSIpKSkKICAgIHJldHVybiBzb3J0ZWQocGF5bG9hZCwga2V5PWxhbWJkYSBpdGVtOiBpdGVtWyJudW1iZXIiXSkKCgpkZWYgcHVsbF9yZXF1ZXN0KHByOiBzdHIpIC0+IGRpY3Q6CiAgICBwYXlsb2FkID0ganNvbi5sb2FkcyhydW4oKCJnaCIsICJwciIsICJ2aWV3IiwgcHIsICItLWpzb24iLCAibnVtYmVyLHRpdGxlLGhlYWRSZWZOYW1lLHN0YXRlIikpKQogICAgaWYgcGF5bG9hZFsic3RhdGUiXSAhPSAiT1BFTiI6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGYiUFIgI3twcn0g54q25oCB5pivIHtwYXlsb2FkWydzdGF0ZSddfe+8jOS4jeaYryBPUEVOIikKICAgIHJldHVybiBwYXlsb2FkCgoKZGVmIGZldGNoKGJyYW5jaDogc3RyLCAqLCByb290OiBQYXRoID0gUk9PVCkgLT4gTm9uZToKICAgIHJ1bigoImdpdCIsICJmZXRjaCIsICItLXF1aWV0IiwgIm9yaWdpbiIsIGJyYW5jaCksIHJvb3Q9cm9vdCkKCgpkZWYgYnJhbmNoX2NoYW5nZXMoYnJhbmNoOiBzdHIsICosIHJvb3Q6IFBhdGggPSBST09UKSAtPiBsaXN0W3N0cl06CiAgICAiIiLpgqPkuKrliIbmlK/oh6rlt7HmlLnkuoblk6rkupvmlofku7bjgIIKCiAgICDliKTmja7mmK/lroPkuI4gYEhFQURgIOeahOWQiOW5tuWfuu+8jOS4jeaYryBgSEVBRGAg5pys6Lqr77yaRGVwZW5kYWJvdCDnmoTliIbmlK/ku47lh6DlpKnliY3nmoQgbWFzdGVyCiAgICDliIblh7rljrvvvIznm7TmjqUgYGdpdCBkaWZmIG9yaWdpbi88YnJhbmNoPmAg5Lya5oqK6L+Z5Yeg5aSpIG1hc3RlciDkuIrnmoTmr4/kuIDmrKHmlLnliqjkuZ/nrpfov5vmnaXvvIwKICAgIOS6juaYr+avj+S4qiBQUiDnnIvkuIrljrvpg73liqjkuobmuIXljZXjgIIKICAgICIiIgogICAgcmV0dXJuIFtsaW5lIGZvciBsaW5lIGluCiAgICAgICAgICAgIHJ1bigoImdpdCIsICJkaWZmIiwgIi0tbmFtZS1vbmx5IiwgIi0tbWVyZ2UtYmFzZSIsICJIRUFEIiwgZiJvcmlnaW4ve2JyYW5jaH0iKSwKICAgICAgICAgICAgICAgIHJvb3Q9cm9vdCkuc3BsaXRsaW5lcygpCiAgICAgICAgICAgIGlmIGxpbmVdCgoKZGVmIGJyaW5nX292ZXIoYnJhbmNoOiBzdHIsIG1hbmlmZXN0czogdHVwbGVbc3RyLCAuLi5dLCAqLCByb290OiBQYXRoID0gUk9PVCwKICAgICAgICAgICAgICAgcmVmcmVzaDogYm9vbCA9IFRydWUpIC0+IE5vbmU6CiAgICAiIiLlj5blm57pgqPkuKrliIbmlK/vvIzmiorlroPlr7nmuIXljZXnmoTmlLnliqjlpZfliLDlt6XkvZzljLrvvIzkuI3mmoLlrZjjgIIKCiAgICDlpZfnmoTmmK/lroPoh6rlkIjlubbln7rku6XmnaXnmoQgZGlmZu+8jOS4jeaYr+aVtOS7veaWh+S7tu+8muWIhuaUr+eahOa4heWNleWBnOWcqOWHoOWkqeWJjeeahCBtYXN0ZXIg5LiK77yMCiAgICDmlbTku73nrb7lh7rkvJrmiorov5nlh6DlpKkgbWFzdGVyIOW+gOa4heWNlemHjOWKoOeahOS+nei1luS4gOW5tuaKueaOie+8iOWunumZheWPkeeUn+i/h++8miMyMCDnmoQKICAgIGBmcm9udGVuZC9wYWNrYWdlLmpzb25gIOayoeacieWQjuadpeWKoOi/m+adpeeahCBgc29ubmVyYO+8ieOAguS4pOi+ueaUueWIsOWQjOS4gOihjOaIluebuOmCu+ihjOaXtgogICAgYC0tM3dheWAg55WZ5LiL5Yay56qB77yM5oqbIGBDb25mbGljdEVycm9yYCDmiqXlh7rmlofku7bvvIzkuI3mm7/kurrmjJHkuIDovrnjgILooaXkuIHlhYjokL3miJDmlofku7blho3nu5kKICAgIGBnaXQgYXBwbHlg77yaV2luZG93cyDkuIrmlofmnKzmqKHlvI/nmoQgc3RkaW4g5Lya5oqKIGBcXG5gIOWGmeaIkCBgXFxyXFxuYO+8jOihpeS4geWwseWvueS4jeS4iuS6huOAggogICAgYC0tM3dheWAg6KaB5rGC5bel5L2c5Yy65LiO5pqC5a2Y5Yy65LiA6Ie077yM6L+e552A5aWX5Yeg5Liq5YiG5pSv5pe277yM5q+P5aWX5LiA5Liq5YWI5pqC5a2Y5YaN5aWX5LiL5LiA5Liq44CCCiAgICDliJogZmV0Y2gg6L+H55qE6LCD55So5pa55LygIGByZWZyZXNoPUZhbHNlYOOAggogICAgIiIiCiAgICBpZiByZWZyZXNoOgogICAgICAgIGZldGNoKGJyYW5jaCwgcm9vdD1yb290KQogICAgcGF0Y2ggPSBydW4oKCJnaXQiLCAiZGlmZiIsICItLW1lcmdlLWJhc2UiLCAiSEVBRCIsIGYib3JpZ2luL3ticmFuY2h9IiwgIi0tIiwgKm1hbmlmZXN0cyksCiAgICAgICAgICAgICAgICByb290PXJvb3QpCiAgICBpZiBub3QgcGF0Y2g6CiAgICAgICAgcmV0dXJuCiAgICBwYXRoID0gcm9vdCAvICJidWlsZCIgLyAiYWRvcHQucGF0Y2giCiAgICBwYXRoLnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBwYXRoLndyaXRlX3RleHQocGF0Y2gsIGVuY29kaW5nPSJ1dGYtOCIsIG5ld2xpbmU9IlxuIikKICAgIHRyeToKICAgICAgICBydW4oKCJnaXQiLCAiYXBwbHkiLCAiLS0zd2F5Iiwgc3RyKHBhdGgpKSwgcm9vdD1yb290KQogICAgZXhjZXB0IFJ1bnRpbWVFcnJvciBhcyBleGM6CiAgICAgICAgY29uZmxpY3RzID0gW2xpbmUgZm9yIGxpbmUgaW4KICAgICAgICAgICAgICAgICAgICAgcnVuKCgiZ2l0IiwgImRpZmYiLCAiLS1uYW1lLW9ubHkiLCAiLS1kaWZmLWZpbHRlcj1VIiksIHJvb3Q9cm9vdCkuc3BsaXRsaW5lcygpCiAgICAgICAgICAgICAgICAgICAgIGlmIGxpbmVdCiAgICAgICAgaWYgY29uZmxpY3RzOgogICAgICAgICAgICByYWlzZSBDb25mbGljdEVycm9yKGYib3JpZ2luL3ticmFuY2h9IOS4juW9k+WJjeWIhuaUr+aUueWIsOWQjOS4gOWkhO+8jOS4ieaWueWQiOW5tueVmeS4i+WGsueqgSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uZmxpY3RzKSBmcm9tIGV4YwogICAgICAgIHJhaXNlCiAgICBmaW5hbGx5OgogICAgICAgIHBhdGgudW5saW5rKCkKICAgIHJ1bigoImdpdCIsICJyZXNldCIsICItLXF1aWV0IiwgIi0tIiwgKm1hbmlmZXN0cyksIHJvb3Q9cm9vdCkKCgpkZWYgd29ya2luZ19jaGFuZ2VzKCosIHJvb3Q6IFBhdGggPSBST09UKSAtPiBsaXN0W3N0cl06CiAgICB0cmFja2VkID0gcnVuKCgiZ2l0IiwgImRpZmYiLCAiLS1uYW1lLW9ubHkiLCAiSEVBRCIpLCByb290PXJvb3QpLnNwbGl0bGluZXMoKQogICAgYWRkZWQgPSBydW4oKCJnaXQiLCAibHMtZmlsZXMiLCAiLS1vdGhlcnMiLCAiLS1leGNsdWRlLXN0YW5kYXJkIiksIHJvb3Q9cm9vdCkuc3BsaXRsaW5lcygpCiAgICByZXR1cm4gc29ydGVkKHtsaW5lIGZvciBsaW5lIGluICgqdHJhY2tlZCwgKmFkZGVkKSBpZiBsaW5lfSkKCgpkZWYgY29tbWl0X21lc3NhZ2Uoa2V5OiBzdHIsIHZlcnNpb25zOiBsaXN0W3N0cl0sIHByOiBzdHIgfCBOb25lLAogICAgICAgICAgICAgICAgICAgc2lnbmF0dXJlOiBzdHIpIC0+IHN0cjoKICAgICIiIuaOpeeuoeaPkOS6pOeahOivtOaYjuOAglJFQURNRS1JbXBhY3Qg5LiOIENvLUF1dGhvcmVkLUJ5IOW/hemhu+WQjOS4gOS4qiB0cmFpbGVyIOWdl+OAgeS4remXtOS4jeepuuihjOOAggoKICAgIOe9suWQjeeUsSBgLS1jby1hdXRob3JgIOS8oOi/m+adpe+8jOiEmuacrOS4jeabv+iwgee9suWQje+8mui3keWug+eahOWPr+iDveaYr+S7u+S4gOS4quaZuuiDveS9k++8jOWGmeatu+S4gOS4qgogICAg5bel5YW35ZCN5bCx5piv5b6A5o+Q5Lqk5Y6G5Y+y6YeM6K6w6ZSZ5Lq644CC5b2i5oCB55SxIGBjb19hdXRob3IuRk9STWAg5Yik77yM6L+Z6YeM5o+Q5YmN5Yik5LiA5qyh77yM5YWN5b6XCiAgICDplJnlnKggYHJlYWR5YCDmiY3miqXlh7rmnaXjgIIKICAgICIiIgogICAgaWYgY29fYXV0aG9yLkZPUk0uZnVsbG1hdGNoKHNpZ25hdHVyZSkgaXMgTm9uZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCItLWNvLWF1dGhvciDlvaLmgIHpobvkuLog5bel5YW3ICjmqKHlnosg54mI5pysKSA85Y6C5ZWGIG5vcmVwbHk+77yM5aaCICIKICAgICAgICAgICAgICAgICAgICAgICAgICsgY29fYXV0aG9yLkVYQU1QTEUucGFydGl0aW9uKCI6ICIpWzJdKQogICAgcmVjaXBlID0gUkVDSVBFU1trZXldCiAgICBvcmlnaW4gPSBmIkRlcGVuZGFib3QgUFIgI3twcn0iIGlmIHByIGVsc2UgIkRlcGVuZGFib3Qg5YiG5pSvIgogICAgaWYgcmVjaXBlWyJjb21tYW5kcyJdOgogICAgICAgIHJlYnVpbGQgPSAiYCIgKyAiYOOAgWAiLmpvaW4oIiAiLmpvaW4oaXRlbSkgZm9yIGl0ZW0gaW4gcmVjaXBlWyJjb21tYW5kcyJdKSArICJgIgogICAgICAgIHdoeSA9IChmIntvcmlnaW59IOWPquaUueS6hiBtYW5pZmVzdCDkuI4gbG9ja+OAgua0vueUn+S6p+eJqeeUsSB7cmVidWlsZH0g6YeN566X77yMIgogICAgICAgICAgICAgICAi5a6D5Zyo5Y+q6K+7IHRva2VuIOS4i+eul+S4jeWHuuadpe+8jOaJgOS7peaOpeeuoeWIsOacrOWcsOWIhuaUr+S4gOi1t+aPkOS6pOOAgiIpCiAgICBlbHNlOgogICAgICAgIHdoeSA9IChmIntvcmlnaW59IOayoeaciea0vueUn+S6p+eJqeOAguacrOWcsCBtYXN0ZXIg6aKG5YWIIG9yaWdpbiDml7blnKjnvZHpobXkuIrlkIjlubbkvJrorqnkuKTovrnliIblj4nvvIwiCiAgICAgICAgICAgICAgICLmiYDku6XmjqXnrqHliLDmnKzlnLDliIbmlK/jgIIiKQogICAgcmV0dXJuIChmImNob3JlKGRlcHMpOiDmjqXnrqEge3JlY2lwZVsnbGFiZWwnXX0g55qE5Y2H57qnXG5cbnt3aHl9XG5cbiIKICAgICAgICAgICAgKyAoIuWNh+e6p++8miIgKyAi44CBIi5qb2luKHZlcnNpb25zKSArICJcblxuIiBpZiB2ZXJzaW9ucyBlbHNlICIiKQogICAgICAgICAgICArICJSRUFETUUtSW1wYWN0OiBub25lOyDkvp3otZbniYjmnKzkuI7mtL7nlJ/kuqfnianvvIxSRUFETUUg5LiN5raJ5Y+K44CCXG4iCiAgICAgICAgICAgICsgZiJDby1BdXRob3JlZC1CeToge3NpZ25hdHVyZX1cbiIpCgoKZGVmIG1hbmlmZXN0X3ZlcnNpb25zKGtleTogc3RyLCAqLCByb290OiBQYXRoID0gUk9PVCkgLT4gbGlzdFtzdHJdOgogICAgIiIi5LuO5aWX6L+H5p2l55qE5riF5Y2V6YeM6K+75Ye66KKr5pS55o6J55qE54mI5pys77yM5Y+q5Li65YaZ6L+b5o+Q5Lqk6K+05piO44CCIiIiCiAgICBsaW5lcyA9IFtdCiAgICBmb3IgbmFtZSBpbiBSRUNJUEVTW2tleV1bIm1hbmlmZXN0cyJdOgogICAgICAgIGlmIG5vdCBuYW1lLmVuZHN3aXRoKCJwYWNrYWdlLmpzb24iKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBiZWZvcmUgPSBqc29uLmxvYWRzKHJ1bigoImdpdCIsICJzaG93IiwgZiJIRUFEOntuYW1lfSIpLCByb290PXJvb3QpIG9yICJ7fSIpCiAgICAgICAgYWZ0ZXIgPSBqc29uLmxvYWRzKChyb290IC8gbmFtZSkucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgICAgIGZvciBzZWN0aW9uIGluICgiZGVwZW5kZW5jaWVzIiwgImRldkRlcGVuZGVuY2llcyIpOgogICAgICAgICAgICBvbGQsIG5ldyA9IGJlZm9yZS5nZXQoc2VjdGlvbiwge30pLCBhZnRlci5nZXQoc2VjdGlvbiwge30pCiAgICAgICAgICAgIGxpbmVzICs9IFtmIntwYWNrYWdlfSB7b2xkLmdldChwYWNrYWdlLCAn5paw5aKeJyl9IOKGkiB7dmVyc2lvbn0iCiAgICAgICAgICAgICAgICAgICAgICBmb3IgcGFja2FnZSwgdmVyc2lvbiBpbiBuZXcuaXRlbXMoKSBpZiBvbGQuZ2V0KHBhY2thZ2UpICE9IHZlcnNpb25dCiAgICByZXR1cm4gbGluZXMKCgpkZWYgb3duZWRfYnkocmVjaXBlOiBkaWN0LCBwYXRoOiBzdHIpIC0+IGJvb2w6CiAgICAiIiLov5nkuKrot6/lvoTmmK/kuI3mmK/mnKzmrKHmjqXnrqHor6XliqjnmoTvvJrmuIXljZXmnKzouqvmiJblroPnmoTmtL7nlJ/kuqfnianjgIIiIiIKICAgIHJldHVybiBhbnkobWF0Y2hlcyhlbnRyeSwgcGF0aCkgZm9yIGVudHJ5IGluICgqcmVjaXBlWyJtYW5pZmVzdHMiXSwgKnJlY2lwZVsiZGVyaXZlZCJdKSkKCgpkZWYgY2xvc2VfY29tbWFuZChwcjogaW50LCBrZXk6IHN0cikgLT4gc3RyOgogICAgY29tbWVudCA9IENMT1NFX0NPTU1FTlRbYm9vbChSRUNJUEVTW2tleV1bImNvbW1hbmRzIl0pXQogICAgcmV0dXJuIGYnZ2ggcHIgY2xvc2Uge3ByfSAtLWRlbGV0ZS1icmFuY2ggLS1jb21tZW50ICJ7Y29tbWVudH0iJwoKCmRlZiBhZG9wdGVkKG51bWJlcjogaW50LCBicmFuY2g6IHN0ciwgKiwgcm9vdDogUGF0aCA9IFJPT1QpIC0+IGJvb2w6CiAgICAiIiLpgqPkuKrliIbmlK/liIblj4nkuYvlkI7vvIxIRUFEIOS4iuacieayoeacieaPkOS6pOivtOaYjuWGmeedgOaOpeeuoeS6hui/meS4qiBQUuOAggoKICAgIOS4jeaLv+S4ieaWueWQiOW5tueahOe7k+aenOWIpO+8muS4iuS4gOi9ruWBnOWcqOWGsueqgeOAgeS6uuino+WujOaPkOS6pOWQju+8jOWJjemdoumCo+S6myBQUiDlho3lpZfkuIDmrKHkvJrot5/op6PlhrLnqoEKICAgIOeVmeS4i+eahOebuOmCu+ihjOWGjeaSnuS4gOasoe+8jOOAjOW3suaOpeeuoeeahOi3s+i/h+OAjeWwseaIkOS6huOAjOWGjeWBnOS4gOasoeOAjeOAggogICAgIiIiCiAgICBiYXNlID0gcnVuKCgiZ2l0IiwgIm1lcmdlLWJhc2UiLCAiSEVBRCIsIGYib3JpZ2luL3ticmFuY2h9IiksIHJvb3Q9cm9vdCkuc3RyaXAoKQogICAgbG9nID0gcnVuKCgiZ2l0IiwgImxvZyIsICItLWZvcm1hdD0lQiIsIGYie2Jhc2V9Li5IRUFEIiksIHJvb3Q9cm9vdCkKICAgIHJldHVybiByZS5zZWFyY2gocmYiRGVwZW5kYWJvdCBQUiAje251bWJlcn0oPyFcZCkiLCBsb2cpIGlzIG5vdCBOb25lCgoKZGVmIGFkb3B0KHByOiBkaWN0LCAqLCBhcHBseTogYm9vbCwgc2lnbmF0dXJlOiBzdHIsIHJvb3Q6IFBhdGggPSBST09UKSAtPiBkaWN0OgogICAgIiIi5o6l566h5LiA5LiqIFBS44CCYGFwcGx5YCDml7bmmoLlrZjlubbmj5DkuqTvvJvlkKbliJnmlLnliqjnlZnlnKjlt6XkvZzljLrmnKrmmoLlrZjjgIIKCiAgICDljYfnuqflt7Lnu4/lnKggSEVBRCDkuIrvvIjkuIrmrKHlgZzlnKjlhrLnqoHjgIHop6Plrozmj5DkuqTlkI7lho3ot5HvvInml7bku4DkuYjpg73kuI3lgZrvvIzmiqUgYGFscmVhZHlg44CCCiAgICAiIiIKICAgIGJyYW5jaCwgbnVtYmVyID0gcHJbImhlYWRSZWZOYW1lIl0sIHByLmdldCgibnVtYmVyIikKICAgIGZldGNoKGJyYW5jaCwgcm9vdD1yb290KQogICAga2V5LCByZWNpcGUgPSByZWNpcGVfZm9yKGJyYW5jaF9jaGFuZ2VzKGJyYW5jaCwgcm9vdD1yb290KSkKICAgIHJlc3VsdCA9IHsicHIiOiBudW1iZXIsICJicmFuY2giOiBicmFuY2gsICJyZWNpcGUiOiBrZXl9CiAgICBpZiBudW1iZXIgYW5kIGFkb3B0ZWQobnVtYmVyLCBicmFuY2gsIHJvb3Q9cm9vdCk6CiAgICAgICAgcmV0dXJuIHsqKnJlc3VsdCwgImFscmVhZHkiOiBUcnVlfQogICAgYnJpbmdfb3ZlcihicmFuY2gsIHJlY2lwZVsibWFuaWZlc3RzIl0sIHJvb3Q9cm9vdCwgcmVmcmVzaD1GYWxzZSkKICAgIGlmIG5vdCB3b3JraW5nX2NoYW5nZXMocm9vdD1yb290KToKICAgICAgICByZXR1cm4geyoqcmVzdWx0LCAiYWxyZWFkeSI6IFRydWV9CiAgICB2ZXJzaW9ucyA9IG1hbmlmZXN0X3ZlcnNpb25zKGtleSwgcm9vdD1yb290KSBvciAoW3ByWyJ0aXRsZSJdXSBpZiBwci5nZXQoInRpdGxlIikgZWxzZSBbXSkKICAgIGZvciBjb21tYW5kIGluIHJlY2lwZVsiY29tbWFuZHMiXToKICAgICAgICBydW4oY29tbWFuZCwgY2FwdHVyZT1GYWxzZSwgcm9vdD1yb290KQogICAgZm9yIGNvbW1hbmQgaW4gcmVjaXBlWyJjaGVja3MiXToKICAgICAgICBydW4oY29tbWFuZCwgcm9vdD1yb290KQogICAgIyDlj6rorqTnnJ/lrp7lj5jkuobnmoTpgqPkupvjgILmuIXljZXliqjkuobkuqfnianljbTkuIDkuKrlrZfoioLmsqHlj5jmmK/luLjkuovvvIjooaXkuIHniYjmsqHnorAgdmVuZG9yZWQg55qECiAgICAjIOmCo+WHoOS4quaWh+S7tu+8ie+8jOeFpyBgZGVyaXZlZGAg5YmN57yA55uy5pqC5a2Y5Lya5oqK5peg5YWz5paH5Lu25bim5LiK44CCCiAgICB0b3VjaGVkID0gd29ya2luZ19jaGFuZ2VzKHJvb3Q9cm9vdCkKICAgIGxhbmRlZCA9IHNvcnRlZChwYXRoIGZvciBwYXRoIGluIHRvdWNoZWQgaWYgb3duZWRfYnkocmVjaXBlLCBwYXRoKSkKICAgIHN0cmF5ID0gc29ydGVkKHBhdGggZm9yIHBhdGggaW4gdG91Y2hlZCBpZiBub3Qgb3duZWRfYnkocmVjaXBlLCBwYXRoKSkKICAgIHJlc3VsdC51cGRhdGUodmVyc2lvbnM9dmVyc2lvbnMsIGZpbGVzPWxhbmRlZCwgdW5leHBlY3RlZD1zdHJheSwgYXBwbGllZD1GYWxzZSkKICAgIGlmIHN0cmF5OgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihmIlBSICN7bnVtYmVyfSDph43nrpfliqjliLDkuobmuIXljZXkuI7mtL7nlJ/kuqfniankuYvlpJbnmoTmlofku7bvvIzlhYjnnIvmuIXmpZrvvJp7c3RyYXl9IikKICAgIGlmIGFwcGx5OgogICAgICAgIHJ1bigoImdpdCIsICJhZGQiLCAiLS0iLCAqbGFuZGVkKSwgcm9vdD1yb290KQogICAgICAgIG1lc3NhZ2UgPSByb290IC8gImJ1aWxkIiAvIGYiYWRvcHQte2tleX0udHh0IgogICAgICAgIG1lc3NhZ2UucGFyZW50Lm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICBtZXNzYWdlLndyaXRlX3RleHQoY29tbWl0X21lc3NhZ2Uoa2V5LCB2ZXJzaW9ucywgbnVtYmVyIGFuZCBzdHIobnVtYmVyKSwgc2lnbmF0dXJlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5jb2Rpbmc9InV0Zi04IiwgbmV3bGluZT0iXG4iKQogICAgICAgIHJ1bigoImdpdCIsICJjb21taXQiLCAiLS1xdWlldCIsICItRiIsIHN0cihtZXNzYWdlKSksIHJvb3Q9cm9vdCkKICAgICAgICBtZXNzYWdlLnVubGluaygpCiAgICAgICAgcmVzdWx0LnVwZGF0ZShhcHBsaWVkPVRydWUsIGhlYWQ9cnVuKCgiZ2l0IiwgInJldi1wYXJzZSIsICJIRUFEIiksIHJvb3Q9cm9vdCkuc3RyaXAoKSkKICAgIHJldHVybiByZXN1bHQKCgpkZWYgYWRvcHRfYWxsKHByczogbGlzdFtkaWN0XSwgKiwgc2lnbmF0dXJlOiBzdHIsIHJvb3Q6IFBhdGggPSBST09UKSAtPiBkaWN0OgogICAgIiIi6YCQ5Liq5o6l566h5bm25o+Q5Lqk77yb5YGc5Zyo56ys5LiA5Liq5Yay56qB5oiW5aSx6LSl55qEIFBS77yM5bey5o+Q5Lqk55qE55WZ552A44CCIiIiCiAgICBjb21taXRfbWVzc2FnZSgidXYiLCBbXSwgTm9uZSwgc2lnbmF0dXJlKSAgIyDnvbLlkI3lhpnplJnlsLHkuIDkuKrpg73liKvliqgKICAgIGRvbmU6IGxpc3RbZGljdF0gPSBbXQogICAgZm9yIHByIGluIHByczoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGRvbmUuYXBwZW5kKGFkb3B0KHByLCBhcHBseT1UcnVlLCBzaWduYXR1cmU9c2lnbmF0dXJlLCByb290PXJvb3QpKQogICAgICAgIGV4Y2VwdCBDb25mbGljdEVycm9yIGFzIGV4YzoKICAgICAgICAgICAga2V5LCByZWNpcGUgPSByZWNpcGVfZm9yKGJyYW5jaF9jaGFuZ2VzKHByWyJoZWFkUmVmTmFtZSJdLCByb290PXJvb3QpKQogICAgICAgICAgICBtZXNzYWdlID0gcm9vdCAvICJidWlsZCIgLyBmImFkb3B0LXByLXtwclsnbnVtYmVyJ119LnR4dCIKICAgICAgICAgICAgbWVzc2FnZS53cml0ZV90ZXh0KGNvbW1pdF9tZXNzYWdlKGtleSwgW3ByWyJ0aXRsZSJdXSwgc3RyKHByWyJudW1iZXIiXSksIHNpZ25hdHVyZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmNvZGluZz0idXRmLTgiLCBuZXdsaW5lPSJcbiIpCiAgICAgICAgICAgIHJlYnVpbGQgPSBbIiAiLmpvaW4oY29tbWFuZCkgZm9yIGNvbW1hbmQgaW4gKCpyZWNpcGVbImNvbW1hbmRzIl0sICpyZWNpcGVbImNoZWNrcyJdKV0KICAgICAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgImVycm9yIjogc3RyKGV4YyksICJzdG9wcGVkX2F0IjogcHJbIm51bWJlciJdLAogICAgICAgICAgICAgICAgICAgICJjb25mbGljdHMiOiBleGMuZmlsZXMsICJkb25lIjogZG9uZSwKICAgICAgICAgICAgICAgICAgICAibmV4dCI6IFtmIuino+W8gOWGsueqge+8mnsn44CBJy5qb2luKGV4Yy5maWxlcyl9IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqKGYi6YeN566X5oiW5qC45a+577yae2NvbW1hbmR9IiBmb3IgY29tbWFuZCBpbiByZWJ1aWxkKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmImdpdCBhZGQgLS0geycgJy5qb2luKGV4Yy5maWxlcyl9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgKCLvvIzov57lkIzph43nrpfmlLnliLDnmoTmtL7nlJ/kuqfnianvvIjnnIsgZ2l0IHN0YXR1c++8iSIgaWYgcmVjaXBlWyJjb21tYW5kcyJdIGVsc2UgIiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYiZ2l0IGNvbW1pdCAtRiB7bWVzc2FnZS5yZWxhdGl2ZV90byhyb290KS5hc19wb3NpeCgpfSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIuWGjei3keS4gOasoSAtLWFsbC1vcGVuIC0tYXBwbHnvvIzlt7LmjqXnrqHnmoTkvJrot7Pov4ciXX0KICAgICAgICBleGNlcHQgUnVudGltZUVycm9yIGFzIGV4YzoKICAgICAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgImVycm9yIjogc3RyKGV4YyksICJzdG9wcGVkX2F0IjogcHJbIm51bWJlciJdLCAiZG9uZSI6IGRvbmV9CiAgICBuZXh0X3N0ZXBzID0gWyLmtYvor5XvvJomIC5cXHNjcmlwdHNcXHRlc3QucHMxIGZ1bGwiLAogICAgICAgICAgICAgICAgICAi5Lqk5LuY77yac2NyaXB0cy9hZ2VudF93b3JrdHJlZS5weSByZWFkee+8jOWGjeeUseWNj+iwg+iAhSBpbnRlZ3JhdGUiLAogICAgICAgICAgICAgICAgICAi5o6o6YCBIG1hc3RlciDkuYvlkI7pgJDkuKrmlLblsL7vvJoiLAogICAgICAgICAgICAgICAgICAqKGNsb3NlX2NvbW1hbmQoaXRlbVsicHIiXSwgaXRlbVsicmVjaXBlIl0pIGZvciBpdGVtIGluIGRvbmUpXQogICAgcmV0dXJuIHsib2siOiBUcnVlLCAiZG9uZSI6IGRvbmUsICJuZXh0IjogbmV4dF9zdGVwcyBpZiBkb25lIGVsc2UgW119CgoKZGVmIHBsYW5fYWxsKHByczogbGlzdFtkaWN0XSwgKiwgcm9vdDogUGF0aCA9IFJPT1QpIC0+IGRpY3Q6CiAgICAiIiLlj6rliJfopoHmjqXnrqHnmoQgUFIg5LiO5ZCE6Ieq55qE5riF5Y2V77yM5LiN5Yqo5bel5L2c5Yy644CCIiIiCiAgICBpdGVtcyA9IFtdCiAgICBmb3IgcHIgaW4gcHJzOgogICAgICAgIGZldGNoKHByWyJoZWFkUmVmTmFtZSJdLCByb290PXJvb3QpCiAgICAgICAgcGF0aHMgPSBicmFuY2hfY2hhbmdlcyhwclsiaGVhZFJlZk5hbWUiXSwgcm9vdD1yb290KQogICAgICAgIHRyeToKICAgICAgICAgICAga2V5LCBfID0gcmVjaXBlX2ZvcihwYXRocykKICAgICAgICAgICAgaXRlbXMuYXBwZW5kKHsicHIiOiBwclsibnVtYmVyIl0sICJ0aXRsZSI6IHByWyJ0aXRsZSJdLCAicmVjaXBlIjoga2V5LCAiZmlsZXMiOiBwYXRoc30pCiAgICAgICAgZXhjZXB0IFJ1bnRpbWVFcnJvciBhcyBleGM6CiAgICAgICAgICAgIGl0ZW1zLmFwcGVuZCh7InByIjogcHJbIm51bWJlciJdLCAidGl0bGUiOiBwclsidGl0bGUiXSwgImZpbGVzIjogcGF0aHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgImVycm9yIjogc3RyKGV4Yyl9KQogICAgcmV0dXJuIHsib2siOiBhbGwoImVycm9yIiBub3QgaW4gaXRlbSBmb3IgaXRlbSBpbiBpdGVtcyksICJwcnMiOiBpdGVtcywKICAgICAgICAgICAgIm5leHQiOiBbIuWKoCAtLWFwcGx5IOmAkOS4quaOpeeuoeW5tuaPkOS6pCJdIGlmIGl0ZW1zIGVsc2UgW119CgoKZGVmIG1haW4oYXJndjogbGlzdFtzdHJdIHwgTm9uZSA9IE5vbmUpIC0+IGludDoKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPV9fZG9jX18uc3BsaXRsaW5lcygpWzBdKQogICAgc291cmNlID0gcGFyc2VyLmFkZF9tdXR1YWxseV9leGNsdXNpdmVfZ3JvdXAocmVxdWlyZWQ9VHJ1ZSkKICAgIHNvdXJjZS5hZGRfYXJndW1lbnQoIi0tcHIiLCBoZWxwPSJEZXBlbmRhYm90IOeahCBQUiDnvJblj7ciKQogICAgc291cmNlLmFkZF9hcmd1bWVudCgiLS1icmFuY2giLCBoZWxwPSJEZXBlbmRhYm90IOeahOWIhuaUr+WQje+8jOi3s+i/hyBnaCDmn6Xor6IiKQogICAgc291cmNlLmFkZF9hcmd1bWVudCgiLS1hbGwtb3BlbiIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IuaMiee8luWPt+S7juWwj+WIsOWkp+aOpeeuoeWFqOmDqCBvcGVuIOeahCBEZXBlbmRhYm90IFBSIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tYXBwbHkiLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSLmmoLlrZjlubbmj5DkuqTvvJvnvLrnnIHlj6rliJforqHliJIiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jby1hdXRob3IiLCByZXF1aXJlZD1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSLmnKzmrKHmj5DkuqTnmoTnvbLlkI3vvIzlvaLlpoIgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICJDbGF1ZGUgQ29kZSAoT3B1cyA1KSA8bm9yZXBseUBhbnRocm9waWMuY29tPiIpCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoYXJndikKCiAgICB0cnk6CiAgICAgICAgaWYgcnVuKCgiZ2l0IiwgInJldi1wYXJzZSIsICItLWdpdC1kaXIiKSkuc3RyaXAoKSA9PSBydW4oKCJnaXQiLCAicmV2LXBhcnNlIiwgIi0tZ2l0LWNvbW1vbi1kaXIiKSkuc3RyaXAoKToKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCLov5nmmK/kuLvmo4Dlh7rjgILkuLvmo4Dlh7rlj6rlgZrpm4bmiJDvvIzlhYggIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImBzY3JpcHRzL2FnZW50X3dvcmt0cmVlLnB5IGNyZWF0ZSAtLWFnZW50IDzlkI0+IC0tdGFzayBkZXBzLTzljIXlkI0+YOOAgiIpCiAgICAgICAgaWYgcnVuKCgiZ2l0IiwgInN0YXR1cyIsICItLXBvcmNlbGFpbiIpKS5zdHJpcCgpOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoIuW3peS9nOWMuuS4jeW5suWHgOOAguaOpeeuoeS8muW+gOmHjOWGmemHjeeul+WHuuadpeeahOS6p+eJqe+8jOWFiOaKiuaJi+S4iueahOaUueWKqOaUtuaOieOAgiIpCiAgICAgICAgaWYgYXJncy5hbGxfb3BlbjoKICAgICAgICAgICAgcHJzID0gb3Blbl9wdWxsX3JlcXVlc3RzKCkKICAgICAgICAgICAgcGxhbiA9IChhZG9wdF9hbGwocHJzLCBzaWduYXR1cmU9YXJncy5jb19hdXRob3IpIGlmIGFyZ3MuYXBwbHkgZWxzZSBwbGFuX2FsbChwcnMpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByID0gcHVsbF9yZXF1ZXN0KGFyZ3MucHIpIGlmIGFyZ3MucHIgZWxzZSB7ImhlYWRSZWZOYW1lIjogYXJncy5icmFuY2h9CiAgICAgICAgICAgIGl0ZW0gPSBhZG9wdChwciwgYXBwbHk9YXJncy5hcHBseSwgc2lnbmF0dXJlPWFyZ3MuY29fYXV0aG9yKQogICAgICAgICAgICBwbGFuID0geyJvayI6IFRydWUsICoqaXRlbSwKICAgICAgICAgICAgICAgICAgICAibmV4dCI6IFsi5rWL6K+V77yaJiAuXFxzY3JpcHRzXFx0ZXN0LnBzMSBmdWxsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAi5Lqk5LuY77yac2NyaXB0cy9hZ2VudF93b3JrdHJlZS5weSByZWFkee+8jOWGjeeUseWNj+iwg+iAhSBpbnRlZ3JhdGUiXX0KICAgICAgICAgICAgaWYgaXRlbS5nZXQoImFscmVhZHkiKToKICAgICAgICAgICAgICAgIHBsYW5bIm5leHQiXSA9IFtdCiAgICAgICAgICAgIGVsaWYgbm90IGFyZ3MuYXBwbHk6CiAgICAgICAgICAgICAgICBwbGFuWyJuZXh0Il0uaW5zZXJ0KDAsICLmlLnliqjnlZnlnKjlt6XkvZzljLrmnKrmmoLlrZjvvJoiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYiYGdpdCByZXN0b3JlIC0tIHsnICcuam9pbihpdGVtWydmaWxlcyddKX1gIOaSpOmUgO+8jOWKoCAtLWFwcGx5IOaPkOS6pCIpCiAgICAgICAgICAgIGVsaWYgYXJncy5wcjoKICAgICAgICAgICAgICAgIHBsYW5bIm5leHQiXS5hcHBlbmQoIuaOqOmAgSBtYXN0ZXIg5LmL5ZCO5pS25bC+77yaIiArIGNsb3NlX2NvbW1hbmQoaXRlbVsicHIiXSwgaXRlbVsicmVjaXBlIl0pKQogICAgICAgIHByaW50KGpzb24uZHVtcHMocGxhbiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCiAgICAgICAgcmV0dXJuIDAgaWYgcGxhblsib2siXSBlbHNlIDEKICAgIGV4Y2VwdCBDb25mbGljdEVycm9yIGFzIGV4YzoKICAgICAgICBwcmludChqc29uLmR1bXBzKHsib2siOiBGYWxzZSwgImVycm9yIjogc3RyKGV4YyksICJjb25mbGljdHMiOiBleGMuZmlsZXN9LAogICAgICAgICAgICAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCiAgICAgICAgcmV0dXJuIDEKICAgIGV4Y2VwdCAoUnVudGltZUVycm9yLCBPU0Vycm9yLCBWYWx1ZUVycm9yLCBLZXlFcnJvcikgYXMgZXhjOgogICAgICAgIHByaW50KGpzb24uZHVtcHMoeyJvayI6IEZhbHNlLCAiZXJyb3IiOiBzdHIoZXhjKX0sIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpKQogICAgICAgIHJldHVybiAxCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJhaXNlIFN5c3RlbUV4aXQobWFpbigpKQo=
+"""把 Dependabot 的清单升级接管到本地分支，顺手重算派生产物。默认只列计划，`--apply` 才提交。
+
+Dependabot 只改 manifest 和 lock。根 `package.json` 的 npm 包还有一层派生产物——
+`web/vendor/**` 的字节、`web/index.html` 里那行版本注释、每个 `ORIGIN.md` 的哈希与
+lock integrity——它算不出来，于是 `npm run check:vendor` 在它的 PR 上必红（实际发生过：
+lucide-static 1.38.0 → 1.40.0 的 PR #4）。`frontend/package.json` 同理，产物是
+`web/dist/` 中的主界面与独立页面包。
+
+修不了那个 PR 本身：Dependabot 触发的 workflow 拿到的 token 是只读的，往
+`dependabot/**` 推回重算的产物得靠 `pull_request_target` 或一个 PAT，两条都是给 CI 加
+提权面。所以接管在本地做——凭据是你自己的，CI 一行都不用改。
+
+uv 与 github-actions 没有派生产物，也在这里接管：master 在本机集成、通常领先 origin，
+在网页上合并会让两边分叉，回并又被 `scripts/githooks/` 拒收。
+
+每个 PR 做完这些：
+
+1. `git fetch` 它的 head 分支，把它对清单的改动三方合并套到当前分支；
+2. 按清单重算派生产物（npm），或核对锁文件（uv）；
+3. 列出真实改动的文件，`--apply` 时只暂存这些并提交，一个 PR 一个提交。
+
+`--all-open` 按编号从小到大接管全部 open 的 Dependabot PR。两个 PR 改到相邻行时三方
+合并报冲突，脚本停在那个 PR，报出冲突文件并备好提交说明；解完冲突提交后再跑一次，
+已经在 HEAD 上的升级会跳过。
+
+测试不在这里跑：仓库只有一个测试入口，另拼一条会让 `test_evidence` 的记录对不上。
+脚本最后印出该跑的命令与推送后收尾的 `gh pr close`。
+"""
+from __future__ import annotations
+
+import argparse
+import json
+from pathlib import Path
+import re
+import shutil
+import subprocess
+import sys
+
+if not __package__:
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+    __package__ = "scripts"
+from . import co_author
+
+ROOT = Path(__file__).resolve().parents[1]
+
+#: 每份清单的接管方式。`manifests` 是从 Dependabot 分支套过来的文件，`derived` 是重算后
+#: 可能变的路径，`commands` 是重算命令，`checks` 只核对不产出文件。以 `/` 结尾的条目按
+#: 目录算，其余按整条路径比。
+RECIPES = {
+    "docker": {
+        "label": "应用与工作流 Docker 镜像",
+        "manifests": ("Dockerfile", ".github/actions/actionlint/Dockerfile"),
+        "derived": (),
+        "commands": (),
+        "checks": (),
+    },
+    "web": {
+        "label": "根 package.json（本地固定 web 依赖）",
+        "manifests": ("package.json", "package-lock.json"),
+        "derived": ("web/vendor/", "web/index.html", "web/dist/", "docs/REUSE.md",
+                    "frontend/src/player/videojs.ts", "tests/test_web_ui.py",
+                    "frontend/src/react/photo-lightbox/photo-lightbox.ts",
+                    "frontend/test/react/photo-lightbox.test.tsx"),
+        "commands": (("npm", "ci", "--ignore-scripts"), ("npm", "run", "vendor:web"),
+                     ("npm", "--prefix", "frontend", "ci"),
+                     ("npm", "--prefix", "frontend", "run", "build")),
+        "checks": (),
+    },
+    "frontend": {
+        "label": "frontend/package.json（island 层构建依赖）",
+        "manifests": ("frontend/package.json", "frontend/package-lock.json"),
+        "derived": ("web/dist/",),
+        "commands": (("npm", "--prefix", "frontend", "ci"),
+                     ("npm", "--prefix", "frontend", "run", "build")),
+        "checks": (),
+    },
+    "uv": {
+        "label": "Python 依赖（pyproject.toml 与 uv.lock）",
+        "manifests": ("pyproject.toml", "uv.lock"),
+        "derived": (),
+        "commands": (),
+        "checks": (("uv", "lock", "--check"),),
+    },
+    "actions": {
+        "label": "GitHub Actions 工作流",
+        "manifests": (".github/workflows/",),
+        "derived": (),
+        "commands": (),
+        "checks": (),
+    },
+}
+
+#: 推送后关 PR 时的留言，按有没有派生产物分两种说法。
+CLOSE_COMMENT = {
+    True: "派生产物需要本地重算，已在工作树接管进 master",
+    False: "本地 master 领先 origin，网页合并会让两边分叉，已在工作树接管进 master",
+}
+
+
+class ConflictError(RuntimeError):
+    """三方合并留下了冲突，`files` 是冲突文件。"""
+
+    def __init__(self, message: str, files: list[str]):
+        super().__init__(message)
+        self.files = files
+
+
+def run(command: tuple[str, ...] | list[str], *, capture: bool = True,
+        root: Path = ROOT) -> str:
+    """在仓库根目录跑一条命令，失败即抛。
+
+    第一个词过一遍 `shutil.which`：Windows 上 `npm` 是 `npm.cmd`，而 `CreateProcess`
+    不查 `PATHEXT`，照字面传就是 FileNotFoundError。
+    """
+    executable = shutil.which(command[0]) or command[0]
+    result = subprocess.run([executable, *command[1:]], cwd=root, capture_output=capture,
+                            text=True, encoding="utf-8", errors="replace", check=False)
+    if result.returncode != 0:
+        detail = (result.stderr or result.stdout or "").strip() if capture else ""
+        raise RuntimeError(f"{' '.join(command)} 退出码 {result.returncode}\n{detail}")
+    return (result.stdout or "") if capture else ""
+
+
+def matches(entry: str, path: str) -> bool:
+    return path.startswith(entry) if entry.endswith("/") else path == entry
+
+
+def recipe_for(paths: list[str]) -> tuple[str, dict]:
+    """一批改动文件属于哪份清单。
+
+    同时动了两份就拒绝：那不是 Dependabot 的形状（一个 PR 只碰一个 ecosystem 的一个
+    directory），硬按一份重算会把另一份的产物留在旧版本上。清单之外的文件也拒绝：
+    认不出来的改动不替人决定怎么接。
+    """
+    matched = [key for key, recipe in RECIPES.items()
+               if any(matches(entry, path) for entry in recipe["manifests"] for path in paths)]
+    if not matched:
+        known = "、".join(entry for recipe in RECIPES.values() for entry in recipe["manifests"])
+        raise RuntimeError(f"这个分支没有改动认得的清单（认得的是 {known}）")
+    if len(matched) > 1:
+        raise RuntimeError(f"这个分支同时改了 {len(matched)} 份清单，逐份接管：{matched}")
+    recipe = RECIPES[matched[0]]
+    stray = [path for path in paths if not any(matches(entry, path) for entry in recipe["manifests"])]
+    if stray:
+        raise RuntimeError(f"这个分支改了清单之外的文件：{stray}")
+    return matched[0], recipe
+
+
+def open_pull_requests() -> list[dict]:
+    """全部 open 的 Dependabot PR，按编号从小到大。"""
+    payload = json.loads(run(("gh", "pr", "list", "--state", "open", "--author", "app/dependabot",
+                              "--limit", "100", "--json", "number,title,headRefName")))
+    return sorted(payload, key=lambda item: item["number"])
+
+
+def pull_request(pr: str) -> dict:
+    payload = json.loads(run(("gh", "pr", "view", pr, "--json", "number,title,headRefName,state")))
+    if payload["state"] != "OPEN":
+        raise RuntimeError(f"PR #{pr} 状态是 {payload['state']}，不是 OPEN")
+    return payload
+
+
+def fetch(branch: str, *, root: Path = ROOT) -> None:
+    run(("git", "fetch", "--quiet", "origin", branch), root=root)
+
+
+def branch_changes(branch: str, *, root: Path = ROOT) -> list[str]:
+    """那个分支自己改了哪些文件。
+
+    判据是它与 `HEAD` 的合并基，不是 `HEAD` 本身：Dependabot 的分支从几天前的 master
+    分出去，直接 `git diff origin/<branch>` 会把这几天 master 上的每一次改动也算进来，
+    于是每个 PR 看上去都动了清单。
+    """
+    return [line for line in
+            run(("git", "diff", "--name-only", "--merge-base", "HEAD", f"origin/{branch}"),
+                root=root).splitlines()
+            if line]
+
+
+def bring_over(branch: str, manifests: tuple[str, ...], *, root: Path = ROOT,
+               refresh: bool = True) -> None:
+    """取回那个分支，把它对清单的改动套到工作区，不暂存。
+
+    套的是它自合并基以来的 diff，不是整份文件：分支的清单停在几天前的 master 上，
+    整份签出会把这几天 master 往清单里加的依赖一并抹掉（实际发生过：#20 的
+    `frontend/package.json` 没有后来加进来的 `sonner`）。两边改到同一行或相邻行时
+    `--3way` 留下冲突，抛 `ConflictError` 报出文件，不替人挑一边。补丁先落成文件再给
+    `git apply`：Windows 上文本模式的 stdin 会把 `\\n` 写成 `\\r\\n`，补丁就对不上了。
+    `--3way` 要求工作区与暂存区一致，连着套几个分支时，每套一个先暂存再套下一个。
+    刚 fetch 过的调用方传 `refresh=False`。
+    """
+    if refresh:
+        fetch(branch, root=root)
+    patch = run(("git", "diff", "--merge-base", "HEAD", f"origin/{branch}", "--", *manifests),
+                root=root)
+    if not patch:
+        return
+    path = root / "build" / "adopt.patch"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(patch, encoding="utf-8", newline="\n")
+    try:
+        run(("git", "apply", "--3way", str(path)), root=root)
+    except RuntimeError as exc:
+        conflicts = [line for line in
+                     run(("git", "diff", "--name-only", "--diff-filter=U"), root=root).splitlines()
+                     if line]
+        if conflicts:
+            raise ConflictError(f"origin/{branch} 与当前分支改到同一处，三方合并留下冲突",
+                                conflicts) from exc
+        raise
+    finally:
+        path.unlink()
+    run(("git", "reset", "--quiet", "--", *manifests), root=root)
+
+
+def working_changes(*, root: Path = ROOT) -> list[str]:
+    tracked = run(("git", "diff", "--name-only", "HEAD"), root=root).splitlines()
+    added = run(("git", "ls-files", "--others", "--exclude-standard"), root=root).splitlines()
+    return sorted({line for line in (*tracked, *added) if line})
+
+
+def commit_message(key: str, versions: list[str], pr: str | None,
+                   signature: str) -> str:
+    """接管提交的说明。README-Impact 与 Co-Authored-By 必须同一个 trailer 块、中间不空行。
+
+    署名由 `--co-author` 传进来，脚本不替谁署名：跑它的可能是任一个智能体，写死一个
+    工具名就是往提交历史里记错人。形态由 `co_author.FORM` 判，这里提前判一次，免得
+    错在 `ready` 才报出来。
+    """
+    if co_author.FORM.fullmatch(signature) is None:
+        raise ValueError("--co-author 形态须为 工具 (模型 版本) <厂商 noreply>，如 "
+                         + co_author.EXAMPLE.partition(": ")[2])
+    recipe = RECIPES[key]
+    origin = f"Dependabot PR #{pr}" if pr else "Dependabot 分支"
+    if recipe["commands"]:
+        rebuild = "`" + "`、`".join(" ".join(item) for item in recipe["commands"]) + "`"
+        why = (f"{origin} 只改了 manifest 与 lock。派生产物由 {rebuild} 重算，"
+               "它在只读 token 下算不出来，所以接管到本地分支一起提交。")
+    else:
+        why = (f"{origin} 没有派生产物。本地 master 领先 origin 时在网页上合并会让两边分叉，"
+               "所以接管到本地分支。")
+    return (f"chore(deps): 接管 {recipe['label']} 的升级\n\n{why}\n\n"
+            + ("升级：" + "、".join(versions) + "\n\n" if versions else "")
+            + "README-Impact: none; 依赖版本与派生产物，README 不涉及。\n"
+            + f"Co-Authored-By: {signature}\n")
+
+
+def manifest_versions(key: str, *, root: Path = ROOT) -> list[str]:
+    """从套过来的清单里读出被改掉的版本，只为写进提交说明。"""
+    lines = []
+    for name in RECIPES[key]["manifests"]:
+        if not name.endswith("package.json"):
+            continue
+        before = json.loads(run(("git", "show", f"HEAD:{name}"), root=root) or "{}")
+        after = json.loads((root / name).read_text(encoding="utf-8"))
+        for section in ("dependencies", "devDependencies"):
+            old, new = before.get(section, {}), after.get(section, {})
+            lines += [f"{package} {old.get(package, '新增')} → {version}"
+                      for package, version in new.items() if old.get(package) != version]
+    return lines
+
+
+def owned_by(recipe: dict, path: str) -> bool:
+    """这个路径是不是本次接管该动的：清单本身或它的派生产物。"""
+    return any(matches(entry, path) for entry in (*recipe["manifests"], *recipe["derived"]))
+
+
+def close_command(pr: int, key: str) -> str:
+    comment = CLOSE_COMMENT[bool(RECIPES[key]["commands"])]
+    return f'gh pr close {pr} --delete-branch --comment "{comment}"'
+
+
+def adopted(number: int, branch: str, *, root: Path = ROOT) -> bool:
+    """那个分支分叉之后，HEAD 上有没有提交说明写着接管了这个 PR。
+
+    不拿三方合并的结果判：上一轮停在冲突、人解完提交后，前面那些 PR 再套一次会跟解冲突
+    留下的相邻行再撞一次，「已接管的跳过」就成了「再停一次」。
+    """
+    base = run(("git", "merge-base", "HEAD", f"origin/{branch}"), root=root).strip()
+    log = run(("git", "log", "--format=%B", f"{base}..HEAD"), root=root)
+    return re.search(rf"Dependabot PR #{number}(?!\d)", log) is not None
+
+
+def adopt(pr: dict, *, apply: bool, signature: str, root: Path = ROOT) -> dict:
+    """接管一个 PR。`apply` 时暂存并提交；否则改动留在工作区未暂存。
+
+    升级已经在 HEAD 上（上次停在冲突、解完提交后再跑）时什么都不做，报 `already`。
+    """
+    branch, number = pr["headRefName"], pr.get("number")
+    fetch(branch, root=root)
+    key, recipe = recipe_for(branch_changes(branch, root=root))
+    result = {"pr": number, "branch": branch, "recipe": key}
+    if number and adopted(number, branch, root=root):
+        return {**result, "already": True}
+    bring_over(branch, recipe["manifests"], root=root, refresh=False)
+    if not working_changes(root=root):
+        return {**result, "already": True}
+    versions = manifest_versions(key, root=root) or ([pr["title"]] if pr.get("title") else [])
+    for command in recipe["commands"]:
+        run(command, capture=False, root=root)
+    for command in recipe["checks"]:
+        run(command, root=root)
+    # 只认真实变了的那些。清单动了产物却一个字节没变是常事（补丁版没碰 vendored 的
+    # 那几个文件），照 `derived` 前缀盲暂存会把无关文件带上。
+    touched = working_changes(root=root)
+    landed = sorted(path for path in touched if owned_by(recipe, path))
+    stray = sorted(path for path in touched if not owned_by(recipe, path))
+    result.update(versions=versions, files=landed, unexpected=stray, applied=False)
+    if stray:
+        raise RuntimeError(f"PR #{number} 重算动到了清单与派生产物之外的文件，先看清楚：{stray}")
+    if apply:
+        run(("git", "add", "--", *landed), root=root)
+        message = root / "build" / f"adopt-{key}.txt"
+        message.parent.mkdir(parents=True, exist_ok=True)
+        message.write_text(commit_message(key, versions, number and str(number), signature),
+                           encoding="utf-8", newline="\n")
+        run(("git", "commit", "--quiet", "-F", str(message)), root=root)
+        message.unlink()
+        result.update(applied=True, head=run(("git", "rev-parse", "HEAD"), root=root).strip())
+    return result
+
+
+def adopt_all(prs: list[dict], *, signature: str, root: Path = ROOT) -> dict:
+    """逐个接管并提交；停在第一个冲突或失败的 PR，已提交的留着。"""
+    commit_message("uv", [], None, signature)  # 署名写错就一个都别动
+    done: list[dict] = []
+    for pr in prs:
+        try:
+            done.append(adopt(pr, apply=True, signature=signature, root=root))
+        except ConflictError as exc:
+            key, recipe = recipe_for(branch_changes(pr["headRefName"], root=root))
+            message = root / "build" / f"adopt-pr-{pr['number']}.txt"
+            message.write_text(commit_message(key, [pr["title"]], str(pr["number"]), signature),
+                               encoding="utf-8", newline="\n")
+            rebuild = [" ".join(command) for command in (*recipe["commands"], *recipe["checks"])]
+            return {"ok": False, "error": str(exc), "stopped_at": pr["number"],
+                    "conflicts": exc.files, "done": done,
+                    "next": [f"解开冲突：{'、'.join(exc.files)}",
+                             *(f"重算或核对：{command}" for command in rebuild),
+                             f"git add -- {' '.join(exc.files)}"
+                             + ("，连同重算改到的派生产物（看 git status）" if recipe["commands"] else ""),
+                             f"git commit -F {message.relative_to(root).as_posix()}",
+                             "再跑一次 --all-open --apply，已接管的会跳过"]}
+        except RuntimeError as exc:
+            return {"ok": False, "error": str(exc), "stopped_at": pr["number"], "done": done}
+    next_steps = ["测试：& .\\scripts\\test.ps1 full",
+                  "交付：scripts/agent_worktree.py ready，再由协调者 integrate",
+                  "推送 master 之后逐个收尾：",
+                  *(close_command(item["pr"], item["recipe"]) for item in done)]
+    return {"ok": True, "done": done, "next": next_steps if done else []}
+
+
+def plan_all(prs: list[dict], *, root: Path = ROOT) -> dict:
+    """只列要接管的 PR 与各自的清单，不动工作区。"""
+    items = []
+    for pr in prs:
+        fetch(pr["headRefName"], root=root)
+        paths = branch_changes(pr["headRefName"], root=root)
+        try:
+            key, _ = recipe_for(paths)
+            items.append({"pr": pr["number"], "title": pr["title"], "recipe": key, "files": paths})
+        except RuntimeError as exc:
+            items.append({"pr": pr["number"], "title": pr["title"], "files": paths,
+                          "error": str(exc)})
+    return {"ok": all("error" not in item for item in items), "prs": items,
+            "next": ["加 --apply 逐个接管并提交"] if items else []}
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    source = parser.add_mutually_exclusive_group(required=True)
+    source.add_argument("--pr", help="Dependabot 的 PR 编号")
+    source.add_argument("--branch", help="Dependabot 的分支名，跳过 gh 查询")
+    source.add_argument("--all-open", action="store_true",
+                        help="按编号从小到大接管全部 open 的 Dependabot PR")
+    parser.add_argument("--apply", action="store_true", help="暂存并提交；缺省只列计划")
+    parser.add_argument("--co-author", required=True,
+                        help="本次提交的署名，形如 "
+                             "Claude Code (Opus 5) <noreply@anthropic.com>")
+    args = parser.parse_args(argv)
+
+    try:
+        if run(("git", "rev-parse", "--git-dir")).strip() == run(("git", "rev-parse", "--git-common-dir")).strip():
+            raise RuntimeError("这是主检出。主检出只做集成，先 "
+                               "`scripts/agent_worktree.py create --agent <名> --task deps-<包名>`。")
+        if run(("git", "status", "--porcelain")).strip():
+            raise RuntimeError("工作区不干净。接管会往里写重算出来的产物，先把手上的改动收掉。")
+        if args.all_open:
+            prs = open_pull_requests()
+            plan = (adopt_all(prs, signature=args.co_author) if args.apply else plan_all(prs))
+        else:
+            pr = pull_request(args.pr) if args.pr else {"headRefName": args.branch}
+            item = adopt(pr, apply=args.apply, signature=args.co_author)
+            plan = {"ok": True, **item,
+                    "next": ["测试：& .\\scripts\\test.ps1 full",
+                             "交付：scripts/agent_worktree.py ready，再由协调者 integrate"]}
+            if item.get("already"):
+                plan["next"] = []
+            elif not args.apply:
+                plan["next"].insert(0, "改动留在工作区未暂存："
+                                       f"`git restore -- {' '.join(item['files'])}` 撤销，加 --apply 提交")
+            elif args.pr:
+                plan["next"].append("推送 master 之后收尾：" + close_command(item["pr"], item["recipe"]))
+        print(json.dumps(plan, ensure_ascii=False, indent=2))
+        return 0 if plan["ok"] else 1
+    except ConflictError as exc:
+        print(json.dumps({"ok": False, "error": str(exc), "conflicts": exc.files},
+                         ensure_ascii=False, indent=2))
+        return 1
+    except (RuntimeError, OSError, ValueError, KeyError) as exc:
+        print(json.dumps({"ok": False, "error": str(exc)}, ensure_ascii=False, indent=2))
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

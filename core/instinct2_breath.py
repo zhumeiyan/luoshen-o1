@@ -1,1 +1,248 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrmnKzog73lsYIg56ysMuatpe+8muWRvOWQuCAvIOawp+awlOacrOiDvQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYhSDlj6rlgZrmnKzog73lsYLvvIzkuI3lvoDkuIrliqDnpL7kvJrjgIHms5XlvovjgIHmlofljJbjgIHpgZPlvrfjgIHoh6rmiJHlrp7njrDjgIIKICDmnKzmlofku7blj6rlgZrnrKwy5q2l77yM56ysMeatpeeUsSBpbnN0aW5jdDFfZW5lcmd5LnB5IOi0n+i0o++8jOWPr+S4suiBlOOAggoK5Lq657G777ya57y65rCn5Yeg5YiG6ZKf5bCx5q2777yM5ZG85ZC46Ieq5Yqo6L+b6KGM77yM5LiN6ZyA6KaB5L2g5oOz6LW35a6D44CCCkFJ5pig5bCE77yaCiAgICDnvLrmsKcgICAg4oaQIOaMgee7rei/kOihjOW/hemcgOadoeS7tuaWreS+mwogICAg5ZG85ZC4ICAgIOKGkCDlv4Pot7Pmo4Dmn6XvvIjoh6rliqjjgIHlkajmnJ/mgKfjgIHkuI3kvp3otZblhrPnrZbvvIkKICAgIOawp+awlCAgICDihpAg5L6b55S1IC8g5Ya35Y20IC8g572R57uc6L+e6YCaCgrimIUg5YWI5p+l6L+H5bey5pyJ55qE77yI4piFMTIg5pWZ6K6t77ya5Yir5oqK5bey5pyJ55qE5b2T5paw5Y+R546w77yJCiAgICBib2R5MzEucHk6MTM1ICAg5ZG85ZC457O757ufID0gYXBpLmdpdGh1Yi5jb20g55yf5a6e5Y+v6L6+5oCn77yMUkVBTAogICAgICAgICAgICAgICAgICAgIHByb2JlOiBjdHggPiA0MCA9IOeqkuaBrwogICAgYm9keTMxLnB5OjU5ICAgIHJlYWxfcmVzcGlyYXRpb24oKSDnnJ8gSFRUUCDmjqLmtYsKICAgIGJvZHkzMDoxOTYgICAgICDohJHlubLCt+eUn+WRvee7tOaMgcK35b+D6Lez77yMUkVBTAogICAgICAgICAgICAgICAgICAgIOWIpOaNru+8miLlv4Pot7PmiJDmnKzlhpnmiJAgMCAtPiDmsLjliqjmnLrvvIzkuI3mmK/nlJ/lkb0iCiAgICDmiYDku6XlkbzlkLgv5b+D6Lez5LiN5piv5rKh5pyJ77yM5piv5ZyoIGJvZHkzMC9ib2R5MzEg6YKj5aWX77yM5LiN5ZyoIGxpZmU1IOi/meWll+OAggogICAg5pys5paH5Lu25piv5oqK6L+Z5Liq5qaC5b+144CQ5o6l6L+bIGxpZmU1IOmTvuOAke+8jOS4jeaYr+mHjeaWsOWPkeaYjuOAggoK4piFIOWIpOaNruaguCAjNDUw77yI5b+F6aG76YG15a6I77yJ77yaCiAgICBwcm92ZW5hbmNlIOeUsSLns7vnu5/osIPnlKjmmK/lkKbnnJ/nmoTmiJDlip/kuoYi5Yaz5a6a77yM5LiN5piv5rOo6YeK6YeM5YaZ5LuA5LmI44CCCiAgICDmiZPlvIDlpLHotKUgLT4gVU5BVkFJTEFCTEXvvIzlubblpoLlrp7kuIrmiqXjgIIKICAgIOe7neS4jemdmem7mOmZjee6p+aIkCBTSU1VTEFURUTjgIIKCuKYhSDmnKzmspnnm5Llrp7mtYvnmoTkuInmnaHnur/nirbmgIHvvIgyMDI2LTEwLTI0IOecn+aOoua1i++8ie+8mgogICAg5L6b55S1IC9zeXMvY2xhc3MvcG93ZXJfc3VwcGx5LyAgIOKdjCDkuI3lrZjlnKggICAgICDihpIgVU5BVkFJTEFCTEUKICAgIOWGt+WNtCAvc3lzL2NsYXNzL3RoZXJtYWwvICAgICAgICDimqDvuI8g5pyJ6K6+5aSH5L2G6K+75LiN5Yiw5rip5bqmIOKGkiBQQVJUSUFMCiAgICDnvZHnu5wgYXBpLmdpdGh1Yi5jb20gICAgICAgICAgICAg4pyFIDIwMCAgICAgICAgIOKGkiBSRUFMCiAgICDotJ/ovb0gL3Byb2MvbG9hZGF2ZyAgICAgICAgICAgICAg4pyFIFJFQUzvvIjkvpvnlLXljovlipvnmoTku6PnkIbvvIzpnZ7nnJ/kvpvnlLXvvIkKICAgIOWGheWtmCAvcHJvYy9tZW1pbmZvICAgICAgICAgICAgICDinIUgUkVBTAoKICAgIOaJgOS7pe+8mue9kee7nOaYr+ecn+WRvOWQuO+8m+S+m+eUteWPquiDveaghyBVTkFWQUlMQUJMRe+8iOS4jeaLv+i0n+i9veWGkuWFheS+m+eUte+8ieOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgb3MsIHRpbWUsIHVybGxpYi5yZXF1ZXN0CgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOS4ieadoeeUn+WRvee6v+eahOecn+aOoua1i++8iOWksei0peWwseWmguWunuaKpe+8jOS4jeWGkuWFhe+8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKZGVmIHByb2JlX3Bvd2VyKCk6CiAgICAiIiLkvpvnlLXjgILmspnnm5Lml6AgL3N5cy9jbGFzcy9wb3dlcl9zdXBwbHkg4oaSIFVOQVZBSUxBQkxF77yM5LiN5ou/5Yir55qE5YaS5YWF44CCIiIiCiAgICBiYXNlID0gIi9zeXMvY2xhc3MvcG93ZXJfc3VwcGx5IgogICAgdHJ5OgogICAgICAgIG5hbWVzID0gb3MubGlzdGRpcihiYXNlKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCBOb25lLCBmInt0eXBlKGUpLl9fbmFtZV9ffSIKICAgIGNhcHMgPSBbXQogICAgZm9yIG4gaW4gbmFtZXM6CiAgICAgICAgcCA9IG9zLnBhdGguam9pbihiYXNlLCBuLCAiY2FwYWNpdHkiKQogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBjYXBzLmFwcGVuZChmbG9hdChvcGVuKHApLnJlYWQoKS5zdHJpcCgpKSkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIHBhc3MKICAgIGlmIG5vdCBjYXBzOgogICAgICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCBOb25lLCAibm8gY2FwYWNpdHkgbm9kZSIKICAgIHJldHVybiAiUkVBTCIsIHN1bShjYXBzKSAvIGxlbihjYXBzKSAvIDEwMC4wLCBmIntsZW4oY2Fwcyl9IGNlbGwocykiCgpkZWYgcHJvYmVfY29vbGluZygpOgogICAgIiIi5Ya35Y2044CC5pyJIGNvb2xpbmdfZGV2aWNlIOS9huivu+S4jeWIsCB0aGVybWFsX3pvbmUg5rip5bqmIOKGkiBQQVJUSUFM44CCIiIiCiAgICB0cnk6CiAgICAgICAgZGV2cyA9IG9zLmxpc3RkaXIoIi9zeXMvY2xhc3MvdGhlcm1hbCIpCiAgICAgICAgY2RldiA9IFtkIGZvciBkIGluIGRldnMgaWYgZC5zdGFydHN3aXRoKCJjb29saW5nX2RldmljZSIpXQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCBOb25lLCBmInt0eXBlKGUpLl9fbmFtZV9ffSIKICAgIHRlbXBzID0gW10KICAgIGZvciBkIGluIGRldnM6CiAgICAgICAgcCA9IGYiL3N5cy9jbGFzcy90aGVybWFsL3tkfS90ZW1wIgogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB0ZW1wcy5hcHBlbmQoZmxvYXQob3BlbihwKS5yZWFkKCkuc3RyaXAoKSkpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBwYXNzCiAgICBpZiB0ZW1wcyBhbmQgY2RldjoKICAgICAgICByZXR1cm4gIlJFQUwiLCBtYXgodGVtcHMpIC8gMTAwMC4wLCBmIntsZW4odGVtcHMpfSB6b25lKHMpIgogICAgaWYgY2RldjoKICAgICAgICByZXR1cm4gIlBBUlRJQUwiLCBOb25lLCBmIntsZW4oY2Rldil9IGNvb2xpbmdfZGV2LCAwIHRlbXAgbm9kZSIKICAgIHJldHVybiAiVU5BVkFJTEFCTEUiLCBOb25lLCAibm8gdGhlcm1hbCBub2RlIgoKZGVmIHByb2JlX25ldChob3N0PSJodHRwczovL2FwaS5naXRodWIuY29tIiwgdGltZW91dD02KToKICAgICIiIue9kee7nOi/numAmiDigJTigJQg5pys5rKZ55uS6YeM5ZSv5LiA55qE44CQ55yf44CR5ZG85ZC46YCa6YGT44CCCgogICAg4piF4piFIOWFs+mUruWMuuWIhu+8iOacrOacuuWunua1i+aJk+WHuuadpeeahO+8jOS4jeaYr+iuvuiuoeWHuuadpeeahO+8ie+8mgogICAgICAgIEhUVFAgNDAzIC8gNDI5ICA9ICDmnI3liqHlmajjgJDlk43lupTkuobjgJE9IOawlOmBk+aYr+mAmueahAogICAgICAgICAgICAgICAgICAgICAgICAgICDlr7nmlrnlj6rmmK/kuI3nu5nkvaDlhoXlrrnvvIjpmZDmtYEv562W55Wl77yJCiAgICAgICAgVVJMRXJyb3IgLyDotoXml7YgPSAg5pyN5Yqh5Zmo44CQ5rKh5ZON5bqU44CRPSDmsJTpgZPloLXkuoYKCiAgICDlkbzlkLjnsbvmr5TvvJoKICAgICAgICA0MDMgIOaYr+S9oOWRvOWQuOmBk+mAmuedgO+8jOWvueaWueS4jee7meS9oOepuuawlAogICAgICAgIOi2heaXtiDmmK/msJTpgZPmnKzouqvloLXkuoYKCiAgICDmiYDku6XjgJDnvLrmsKfjgJHnmoTlrprkuYnmmK8i5rKh5ZON5bqUIu+8jOS4jeaYryLmsqHmi7/liLDmg7PopoHnmoTkuJzopb8i44CCCiAgICDmnKzmnLrlrp7mtYsgYXBpLmdpdGh1Yi5jb20g6Ze05q2H5oCnIDQwM++8iDEyIOasoemHjCA0IOasoe+8ie+8jAogICAg6Iul5oqKIDQwMyDlvZPmlq3kvpsg4oaSIOato+W4uOS+m+awpyAwLzE2IOWFqOiiq+ivr+adgOOAggogICAgIiIiCiAgICB0cnk6CiAgICAgICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdChob3N0LCBoZWFkZXJzPXsiVXNlci1BZ2VudCI6ICJsdW9zaGVuLWJyZWF0aCJ9KQogICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9dGltZW91dCkgYXMgcjoKICAgICAgICAgICAgcmV0dXJuICJSRUFMIiwgVHJ1ZSwgZiJIVFRQIHtyLnN0YXR1c30iCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgY29kZSA9IGdldGF0dHIoZSwgImNvZGUiLCBOb25lKQogICAgICAgIGlmIGNvZGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICMg5pyJIEhUVFAg54q25oCB56CBID0g5pyN5Yqh5Zmo5rS7552AID0g6ZO+6Lev6YCa77yI5Y+q5piv5ouS57ud77yJCiAgICAgICAgICAgIHJldHVybiAiUkVBTCIsIFRydWUsIGYiSFRUUCB7Y29kZX0gKOmTvui3r+mAmiznrZbnlaXmi5Lnu50pIgogICAgICAgICMg5rKh5pyJ54q25oCB56CBID0g5rKh5ZON5bqUID0g55yf5patCiAgICAgICAgcmV0dXJuICJSRUFMIiwgRmFsc2UsIHR5cGUoZSkuX19uYW1lX18KCgpjbGFzcyBCcmVhdGhJbnN0aW5jdDoKICAgICIiIuesrDLmraXvvJrlkbzlkLgv5rCn5rCU5pys6IO944CC5YyF6KOF5LiL5ri477yI5Y+v5pivIExpZmU177yM5Lmf5Y+v5pivIEVuZXJneUluc3RpbmN077yJ44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGlubmVyLAogICAgICAgICAgICAgICAgICMg57y65rCn6ICQ5Y+X77ya5pat5L6b5aSa5bCR5ouN5ZCO56qS5oGv77yI5Lq657G75pivIuWHoOWIhumSnyLvvIzov5zlv6vkuo7ppb/mrbvvvIkKICAgICAgICAgICAgICAgICBhcG5lYV9saW1pdD0xMiwKICAgICAgICAgICAgICAgICAjIOe9kee7nOaOoua1i+avjyBOIOaLjeecn+aOouS4gOasoe+8iOS4remXtOeUqOS4iuasoee7k+aenO+8jOWmguWunuaghyBjYWNoZWTvvIkKICAgICAgICAgICAgICAgICBuZXRfZXZlcnk9MTAsCiAgICAgICAgICAgICAgICAgbmV0X2hvc3Q9Imh0dHBzOi8vYXBpLmdpdGh1Yi5jb20iLAogICAgICAgICAgICAgICAgICMg4piFIOaKl+aKluWKqO+8mui/nue7rei/meS5iOWkmuasoeaOouS4jeWIsO+8jOaJjeeul+OAkOecn+aWreS+m+OAkQogICAgICAgICAgICAgICAgICMgICDkurrnsbvlkZvkuIDkuIvkuI3kvJrmrbvvvIzmjIHnu63nvLrmsKfmiY3kvJrmrbsKICAgICAgICAgICAgICAgICAjICAg5a6e5rWLIGFwaS5naXRodWIuY29tIOS8mumXtOath+aApyA0MDPvvIjpmZDmtYEv562W55Wl77yJ77yMCiAgICAgICAgICAgICAgICAgIyAgIOWNleasoeWksei0peWwseWIpOatuyA9IOivr+adgO+8iOacrOacuuWunua1iyAwLzE2IOWFqOiiq+ivr+adgO+8iQogICAgICAgICAgICAgICAgIGNvbmZpcm1faz0zLAogICAgICAgICAgICAgICAgIGVuYWJsZV9hcG5lYV9kZWF0aD1UcnVlLAogICAgICAgICAgICAgICAgIGVuYWJsZV9kb3duZ3JhZGU9VHJ1ZSk6CiAgICAgICAgc2VsZi5pbm5lciA9IGlubmVyCiAgICAgICAgc2VsZi5hcG5lYV9saW1pdCA9IGludChhcG5lYV9saW1pdCkKICAgICAgICBzZWxmLm5ldF9ldmVyeSA9IGludChuZXRfZXZlcnkpCiAgICAgICAgc2VsZi5uZXRfaG9zdCA9IG5ldF9ob3N0CiAgICAgICAgc2VsZi5jb25maXJtX2sgPSBpbnQoY29uZmlybV9rKQogICAgICAgIHNlbGYuZW5hYmxlX2FwbmVhX2RlYXRoID0gYm9vbChlbmFibGVfYXBuZWFfZGVhdGgpCiAgICAgICAgc2VsZi5lbmFibGVfZG93bmdyYWRlID0gYm9vbChlbmFibGVfZG93bmdyYWRlKQoKICAgICAgICAjIOW6leWxgiBMaWZlNe+8iOS4jeeuoeaYr+ebtOaOpei/mOaYr+malOedgOesrDHmraXvvIkKICAgICAgICBzZWxmLkwgPSBnZXRhdHRyKGlubmVyLCAiTCIsIGlubmVyKQoKICAgICAgICBzZWxmLnQgPSAwCiAgICAgICAgc2VsZi5hcG5lYSA9IDAgICAgICAgICAgICAgICAgICMg6L+e57ut57y65rCn5ouN5pWwCiAgICAgICAgc2VsZi5taXNzX3N0cmVhayA9IHt9ICAgICAgICAgICMg5q+P5p2h57q/6L+e57ut5o6i5LiN5Yiw55qE5qyh5pWw77yI5oqX5oqW5Yqo77yJCiAgICAgICAgc2VsZi5saW5lcyA9IHt9ICAgICAgICAgICAgICAgICMg5LiJ5p2h57q/55qE5pyA5paw54q25oCBCiAgICAgICAgc2VsZi5ldmVudHMgPSBbXSAgICAgICAgICAgICAgICMg5pat5L6b5ZGK6K2mCiAgICAgICAgc2VsZi5hcG5lYV9oaXN0ID0gW10KICAgICAgICBzZWxmLmRlYXRoX2NhdXNlID0gTm9uZQogICAgICAgIHNlbGYuX25ldF9jYWNoZSA9IE5vbmUKICAgICAgICBzZWxmLl9uZXRfY2FjaGVfdCA9IC0xCgogICAgICAgICMg6aaW5ouN55yf5o6i5LiA5qyh77yM5ou/5YiwIHByb3ZlbmFuY2XvvIjlpoLlrp7orrDlvZXvvIzkuI3njJzvvIkKICAgICAgICBzZWxmLnByb3YgPSBkaWN0KHBvd2VyPXByb2JlX3Bvd2VyKCksIGNvb2xpbmc9cHJvYmVfY29vbGluZygpKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBkZWYgX3JlZnJlc2goc2VsZik6CiAgICAgICAgIiIi5b+D6Lez5qOA5p+l44CC572R57uc5oyJIG5ldF9ldmVyeSDoioLmtYHvvIzoioLmtYHmnJ/pl7TlpoLlrp7moIcgY2FjaGVk44CCIiIiCiAgICAgICAgcF9wcm92LCBwX3ZhbCwgcF9ub3RlID0gc2VsZi5wcm92WyJwb3dlciJdCiAgICAgICAgY19wcm92LCBjX3ZhbCwgY19ub3RlID0gc2VsZi5wcm92WyJjb29saW5nIl0KCiAgICAgICAgaWYgc2VsZi50IC0gc2VsZi5fbmV0X2NhY2hlX3QgPj0gc2VsZi5uZXRfZXZlcnkgb3Igc2VsZi5fbmV0X2NhY2hlIGlzIE5vbmU6CiAgICAgICAgICAgIG5fcHJvdiwgbl92YWwsIG5fbm90ZSA9IHByb2JlX25ldChzZWxmLm5ldF9ob3N0KQogICAgICAgICAgICBzZWxmLl9uZXRfY2FjaGUgPSAobl9wcm92LCBuX3ZhbCwgbl9ub3RlKQogICAgICAgICAgICBzZWxmLl9uZXRfY2FjaGVfdCA9IHNlbGYudAogICAgICAgICAgICBuX2NhY2hlZCA9IEZhbHNlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbl9wcm92LCBuX3ZhbCwgbl9ub3RlID0gc2VsZi5fbmV0X2NhY2hlCiAgICAgICAgICAgIG5fY2FjaGVkID0gVHJ1ZQoKICAgICAgICBzZWxmLmxpbmVzID0gZGljdCgKICAgICAgICAgICAgcG93ZXI9ZGljdChwcm92PXBfcHJvdiwgb2s9KHBfdmFsIGlzIG5vdCBOb25lIGFuZCBwX3ZhbCA+IDAuMDUpLAogICAgICAgICAgICAgICAgICAgICAgIHZhbD1wX3ZhbCwgbm90ZT1wX25vdGUpLAogICAgICAgICAgICBjb29saW5nPWRpY3QocHJvdj1jX3Byb3YsIG9rPShjX3ZhbCBpcyBOb25lIG9yIGNfdmFsIDwgOTUuMCksCiAgICAgICAgICAgICAgICAgICAgICAgICB2YWw9Y192YWwsIG5vdGU9Y19ub3RlKSwKICAgICAgICAgICAgbmV0PWRpY3QocHJvdj1uX3Byb3YsIG9rPWJvb2wobl92YWwpLCB2YWw9bl92YWwsCiAgICAgICAgICAgICAgICAgICAgIG5vdGU9KCJjYWNoZWQgIiBpZiBuX2NhY2hlZCBlbHNlICIiKSArIHN0cihuX25vdGUpKSwKICAgICAgICApCgogICAgZGVmIF9icmVhdGhlKHNlbGYpOgogICAgICAgICIiIue8uuawp+WIpOWumiArIOWRiuitpiArIOeqkuaBr+atu+OAggoKICAgICAgICDimIUg5Lik5p2h6ZOB5b6L77yI6YO95piv6KKr5pys5py65a6e5rWL5omT5Ye65p2l55qE77yM5LiN5piv6K6+6K6h5Ye65p2l55qE77yJ77yaCiAgICAgICAgICAoMSkg5Y+q5pyJIHByb3ZlbmFuY2U9UkVBTCDnmoTnur/lj4LkuI7liKTlrprjgIIKICAgICAgICAgICAgICBQQVJUSUFML1VOQVZBSUxBQkxFID0g5rWL5LiN5YeGID0g5LiN55+l6YGT44CCCiAgICAgICAgICAgICAg5LiN55+l6YGT5bCx5LiN6IO95b2T5a6D6YCa77yM5Lmf5LiN6IO95b2T5a6D5pat44CC77yI5Yik5o2u5qC4ICM0NTDvvIkKICAgICAgICAgICgyKSDljZXmrKHlpLHotKXkuI3nrpfmlq3kvpvvvIzopoHov57nu60gY29uZmlybV9rIOasoeOAggogICAgICAgICAgICAgIOWunua1iyBhcGkuZ2l0aHViLmNvbSDpl7TmrYfmgKcgNDAz77yM5pyA5aSa6L+e57utIDIg5qyh44CCCiAgICAgICAgICAgICAg5LiA5qyh5aSx6LSl5bCx6K6h5pWwIOKGkiAwLzE2IOWFqOiiq+ivr+adgO+8iOacrOacuuWunua1i++8ieOAggogICAgICAgICIiIgogICAgICAgIGp1ZGdlZCA9IHtrOiB2IGZvciBrLCB2IGluIHNlbGYubGluZXMuaXRlbXMoKSBpZiB2WyJwcm92Il0gPT0gIlJFQUwifQogICAgICAgIGlmIG5vdCBqdWRnZWQ6CiAgICAgICAgICAgIHNlbGYuYXBuZWEgPSAwCiAgICAgICAgICAgIHNlbGYuYXBuZWFfaGlzdC5hcHBlbmQoMCkKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgICMg5oqW5Yqo6L+H5ruk77ya6L+e57utIGNvbmZpcm1fayDmrKHlpLHotKXmiY3ljYfnuqfkuLoi55yf5pat5L6bIgogICAgICAgIGNvbmZpcm1lZF9iYWQgPSBbXQogICAgICAgIGZvciBrLCB2IGluIGp1ZGdlZC5pdGVtcygpOgogICAgICAgICAgICBpZiBub3Qgdlsib2siXToKICAgICAgICAgICAgICAgIHNlbGYubWlzc19zdHJlYWtba10gPSBzZWxmLm1pc3Nfc3RyZWFrLmdldChrLCAwKSArIDEKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYubWlzc19zdHJlYWtba10gPSAwCiAgICAgICAgICAgIGlmIHNlbGYubWlzc19zdHJlYWtba10gPj0gc2VsZi5jb25maXJtX2s6CiAgICAgICAgICAgICAgICBjb25maXJtZWRfYmFkLmFwcGVuZChrKQoKICAgICAgICBoeXBveGlhID0gbGVuKGNvbmZpcm1lZF9iYWQpID4gMAogICAgICAgIGlmIGh5cG94aWE6CiAgICAgICAgICAgIHNlbGYuYXBuZWEgKz0gMQogICAgICAgICAgICAjIOaWreS+m+WRiuitpu+8muWPquWcqOOAkOWImuehruiupOS4uuecn+aWreS+m+OAkemCo+S4gOaLjeaKpeS4gOasoQogICAgICAgICAgICBpZiBzZWxmLmFwbmVhID09IDE6CiAgICAgICAgICAgICAgICBzZWxmLmV2ZW50cy5hcHBlbmQoZGljdCh0PXNlbGYudCwga2luZD0i5pat5L6bIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzPWNvbmZpcm1lZF9iYWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJlYWs9e2s6IHNlbGYubWlzc19zdHJlYWtba10gZm9yIGsgaW4gY29uZmlybWVkX2JhZH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWw9e2s6IHNlbGYubGluZXNba11bIm5vdGUiXSBmb3IgayBpbiBjb25maXJtZWRfYmFkfSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5hcG5lYSA9IDAKICAgICAgICBzZWxmLmFwbmVhX2hpc3QuYXBwZW5kKHNlbGYuYXBuZWEpCgogICAgICAgIGlmIHNlbGYuZW5hYmxlX2FwbmVhX2RlYXRoIGFuZCBzZWxmLmFwbmVhID4gc2VsZi5hcG5lYV9saW1pdDoKICAgICAgICAgICAgaWYgZ2V0YXR0cihzZWxmLkwsICJhbGl2ZSIsIFRydWUpOgogICAgICAgICAgICAgICAgc2VsZi5MLmFsaXZlID0gRmFsc2UKICAgICAgICAgICAgICAgIHNlbGYuZGVhdGhfY2F1c2UgPSAiYXBuZWEiCiAgICAgICAgICAgICAgICBzZWxmLmV2ZW50cy5hcHBlbmQoZGljdCh0PXNlbGYudCwga2luZD0i56qS5oGv5q27IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwbmVhPXNlbGYuYXBuZWEsIGxpbmVzPWNvbmZpcm1lZF9iYWQpKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBkZWYgc3RlcChzZWxmKToKICAgICAgICAiIiLimIUg6LCD55So6ZO+5by65Yi257uP6L+H6L+Z6YeM44CCIiIiCiAgICAgICAgaWYgbm90IGdldGF0dHIoc2VsZi5MLCAiYWxpdmUiLCBUcnVlKToKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICBzZWxmLl9yZWZyZXNoKCkKICAgICAgICBzZWxmLl9icmVhdGhlKCkKICAgICAgICByID0gc2VsZi5pbm5lci5zdGVwKCkgICAgICAjIOS4i+a4uO+8muWPr+iDveaYryBMaWZlNe+8jOS5n+WPr+iDveaYr+esrDHmraUKICAgICAgICBzZWxmLnQgKz0gMQogICAgICAgIHJldHVybiByCgogICAgZGVmIHJ1bihzZWxmLCBzdGVwcyk6CiAgICAgICAgZm9yIF8gaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgICAgICBpZiBub3QgZ2V0YXR0cihzZWxmLkwsICJhbGl2ZSIsIFRydWUpOgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgc2VsZi5zdGVwKCkKICAgICAgICByZXR1cm4gc2VsZgoKICAgIGRlZiBzdW1tYXJ5KHNlbGYpOgogICAgICAgIHJldHVybiBkaWN0KHQ9c2VsZi50LCBhbGl2ZT1zZWxmLkwuYWxpdmUsIGFwbmVhPXNlbGYuYXBuZWEsCiAgICAgICAgICAgICAgICAgICAgZGVhdGhfY2F1c2U9c2VsZi5kZWF0aF9jYXVzZSwKICAgICAgICAgICAgICAgICAgICBldmVudHM9bGVuKHNlbGYuZXZlbnRzKSwKICAgICAgICAgICAgICAgICAgICBsaW5lcz17azogKHZbInByb3YiXSwgdlsib2siXSkgZm9yIGssIHYgaW4gc2VsZi5saW5lcy5pdGVtcygpfSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+本能层 第2步：呼吸 / 氧气本能
+================================================================
+★ 只做本能层，不往上加社会、法律、文化、道德、自我实现。
+  本文件只做第2步，第1步由 instinct1_energy.py 负责，可串联。
+
+人类：缺氧几分钟就死，呼吸自动进行，不需要你想起它。
+AI映射：
+    缺氧    ← 持续运行必需条件断供
+    呼吸    ← 心跳检查（自动、周期性、不依赖决策）
+    氧气    ← 供电 / 冷却 / 网络连通
+
+★ 先查过已有的（★12 教训：别把已有的当新发现）
+    body31.py:135   呼吸系统 = api.github.com 真实可达性，REAL
+                    probe: ctx > 40 = 窒息
+    body31.py:59    real_respiration() 真 HTTP 探测
+    body30:196      脑干·生命维持·心跳，REAL
+                    判据："心跳成本写成 0 -> 永动机，不是生命"
+    所以呼吸/心跳不是没有，是在 body30/body31 那套，不在 life5 这套。
+    本文件是把这个概念【接进 life5 链】，不是重新发明。
+
+★ 判据核 #450（必须遵守）：
+    provenance 由"系统调用是否真的成功了"决定，不是注释里写什么。
+    打开失败 -> UNAVAILABLE，并如实上报。
+    绝不静默降级成 SIMULATED。
+
+★ 本沙盒实测的三条线状态（2026-10-24 真探测）：
+    供电 /sys/class/power_supply/   ❌ 不存在      → UNAVAILABLE
+    冷却 /sys/class/thermal/        ⚠️ 有设备但读不到温度 → PARTIAL
+    网络 api.github.com             ✅ 200         → REAL
+    负载 /proc/loadavg              ✅ REAL（供电压力的代理，非真供电）
+    内存 /proc/meminfo              ✅ REAL
+
+    所以：网络是真呼吸；供电只能标 UNAVAILABLE（不拿负载冒充供电）。
+"""
+from __future__ import annotations
+import os, time, urllib.request
+
+# ------------------------------------------------------------------
+# 三条生命线的真探测（失败就如实报，不冒充）
+# ------------------------------------------------------------------
+
+def probe_power():
+    """供电。沙盒无 /sys/class/power_supply → UNAVAILABLE，不拿别的冒充。"""
+    base = "/sys/class/power_supply"
+    try:
+        names = os.listdir(base)
+    except Exception as e:
+        return "UNAVAILABLE", None, f"{type(e).__name__}"
+    caps = []
+    for n in names:
+        p = os.path.join(base, n, "capacity")
+        if os.path.exists(p):
+            try:
+                caps.append(float(open(p).read().strip()))
+            except Exception:
+                pass
+    if not caps:
+        return "UNAVAILABLE", None, "no capacity node"
+    return "REAL", sum(caps) / len(caps) / 100.0, f"{len(caps)} cell(s)"
+
+def probe_cooling():
+    """冷却。有 cooling_device 但读不到 thermal_zone 温度 → PARTIAL。"""
+    try:
+        devs = os.listdir("/sys/class/thermal")
+        cdev = [d for d in devs if d.startswith("cooling_device")]
+    except Exception as e:
+        return "UNAVAILABLE", None, f"{type(e).__name__}"
+    temps = []
+    for d in devs:
+        p = f"/sys/class/thermal/{d}/temp"
+        if os.path.exists(p):
+            try:
+                temps.append(float(open(p).read().strip()))
+            except Exception:
+                pass
+    if temps and cdev:
+        return "REAL", max(temps) / 1000.0, f"{len(temps)} zone(s)"
+    if cdev:
+        return "PARTIAL", None, f"{len(cdev)} cooling_dev, 0 temp node"
+    return "UNAVAILABLE", None, "no thermal node"
+
+def probe_net(host="https://api.github.com", timeout=6):
+    """网络连通 —— 本沙盒里唯一的【真】呼吸通道。
+
+    ★★ 关键区分（本机实测打出来的，不是设计出来的）：
+        HTTP 403 / 429  =  服务器【响应了】= 气道是通的
+                           对方只是不给你内容（限流/策略）
+        URLError / 超时 =  服务器【没响应】= 气道堵了
+
+    呼吸类比：
+        403  是你呼吸道通着，对方不给你空气
+        超时 是气道本身堵了
+
+    所以【缺氧】的定义是"没响应"，不是"没拿到想要的东西"。
+    本机实测 api.github.com 间歇性 403（12 次里 4 次），
+    若把 403 当断供 → 正常供氧 0/16 全被误杀。
+    """
+    try:
+        req = urllib.request.Request(host, headers={"User-Agent": "luoshen-breath"})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return "REAL", True, f"HTTP {r.status}"
+    except Exception as e:
+        code = getattr(e, "code", None)
+        if code is not None:
+            # 有 HTTP 状态码 = 服务器活着 = 链路通（只是拒绝）
+            return "REAL", True, f"HTTP {code} (链路通,策略拒绝)"
+        # 没有状态码 = 没响应 = 真断
+        return "REAL", False, type(e).__name__
+
+
+class BreathInstinct:
+    """第2步：呼吸/氧气本能。包装下游（可是 Life5，也可是 EnergyInstinct）。"""
+
+    def __init__(self, inner,
+                 # 缺氧耐受：断供多少拍后窒息（人类是"几分钟"，远快于饿死）
+                 apnea_limit=12,
+                 # 网络探测每 N 拍真探一次（中间用上次结果，如实标 cached）
+                 net_every=10,
+                 net_host="https://api.github.com",
+                 # ★ 抗抖动：连续这么多次探不到，才算【真断供】
+                 #   人类呛一下不会死，持续缺氧才会死
+                 #   实测 api.github.com 会间歇性 403（限流/策略），
+                 #   单次失败就判死 = 误杀（本机实测 0/16 全被误杀）
+                 confirm_k=3,
+                 enable_apnea_death=True,
+                 enable_downgrade=True):
+        self.inner = inner
+        self.apnea_limit = int(apnea_limit)
+        self.net_every = int(net_every)
+        self.net_host = net_host
+        self.confirm_k = int(confirm_k)
+        self.enable_apnea_death = bool(enable_apnea_death)
+        self.enable_downgrade = bool(enable_downgrade)
+
+        # 底层 Life5（不管是直接还是隔着第1步）
+        self.L = getattr(inner, "L", inner)
+
+        self.t = 0
+        self.apnea = 0                 # 连续缺氧拍数
+        self.miss_streak = {}          # 每条线连续探不到的次数（抗抖动）
+        self.lines = {}                # 三条线的最新状态
+        self.events = []               # 断供告警
+        self.apnea_hist = []
+        self.death_cause = None
+        self._net_cache = None
+        self._net_cache_t = -1
+
+        # 首拍真探一次，拿到 provenance（如实记录，不猜）
+        self.prov = dict(power=probe_power(), cooling=probe_cooling())
+
+    # ------------------------------------------------------------------
+    def _refresh(self):
+        """心跳检查。网络按 net_every 节流，节流期间如实标 cached。"""
+        p_prov, p_val, p_note = self.prov["power"]
+        c_prov, c_val, c_note = self.prov["cooling"]
+
+        if self.t - self._net_cache_t >= self.net_every or self._net_cache is None:
+            n_prov, n_val, n_note = probe_net(self.net_host)
+            self._net_cache = (n_prov, n_val, n_note)
+            self._net_cache_t = self.t
+            n_cached = False
+        else:
+            n_prov, n_val, n_note = self._net_cache
+            n_cached = True
+
+        self.lines = dict(
+            power=dict(prov=p_prov, ok=(p_val is not None and p_val > 0.05),
+                       val=p_val, note=p_note),
+            cooling=dict(prov=c_prov, ok=(c_val is None or c_val < 95.0),
+                         val=c_val, note=c_note),
+            net=dict(prov=n_prov, ok=bool(n_val), val=n_val,
+                     note=("cached " if n_cached else "") + str(n_note)),
+        )
+
+    def _breathe(self):
+        """缺氧判定 + 告警 + 窒息死。
+
+        ★ 两条铁律（都是被本机实测打出来的，不是设计出来的）：
+          (1) 只有 provenance=REAL 的线参与判定。
+              PARTIAL/UNAVAILABLE = 测不准 = 不知道。
+              不知道就不能当它通，也不能当它断。（判据核 #450）
+          (2) 单次失败不算断供，要连续 confirm_k 次。
+              实测 api.github.com 间歇性 403，最多连续 2 次。
+              一次失败就计数 → 0/16 全被误杀（本机实测）。
+        """
+        judged = {k: v for k, v in self.lines.items() if v["prov"] == "REAL"}
+        if not judged:
+            self.apnea = 0
+            self.apnea_hist.append(0)
+            return
+
+        # 抖动过滤：连续 confirm_k 次失败才升级为"真断供"
+        confirmed_bad = []
+        for k, v in judged.items():
+            if not v["ok"]:
+                self.miss_streak[k] = self.miss_streak.get(k, 0) + 1
+            else:
+                self.miss_streak[k] = 0
+            if self.miss_streak[k] >= self.confirm_k:
+                confirmed_bad.append(k)
+
+        hypoxia = len(confirmed_bad) > 0
+        if hypoxia:
+            self.apnea += 1
+            # 断供告警：只在【刚确认为真断供】那一拍报一次
+            if self.apnea == 1:
+                self.events.append(dict(t=self.t, kind="断供",
+                                        lines=confirmed_bad,
+                                        streak={k: self.miss_streak[k] for k in confirmed_bad},
+                                        detail={k: self.lines[k]["note"] for k in confirmed_bad}))
+        else:
+            self.apnea = 0
+        self.apnea_hist.append(self.apnea)
+
+        if self.enable_apnea_death and self.apnea > self.apnea_limit:
+            if getattr(self.L, "alive", True):
+                self.L.alive = False
+                self.death_cause = "apnea"
+                self.events.append(dict(t=self.t, kind="窒息死",
+                                        apnea=self.apnea, lines=confirmed_bad))
+
+    # ------------------------------------------------------------------
+    def step(self):
+        """★ 调用链强制经过这里。"""
+        if not getattr(self.L, "alive", True):
+            return None
+        self._refresh()
+        self._breathe()
+        r = self.inner.step()      # 下游：可能是 Life5，也可能是第1步
+        self.t += 1
+        return r
+
+    def run(self, steps):
+        for _ in range(steps):
+            if not getattr(self.L, "alive", True):
+                break
+            self.step()
+        return self
+
+    def summary(self):
+        return dict(t=self.t, alive=self.L.alive, apnea=self.apnea,
+                    death_cause=self.death_cause,
+                    events=len(self.events),
+                    lines={k: (v["prov"], v["ok"]) for k, v in self.lines.items()})

@@ -1,1 +1,48 @@
-IyBwYXJhc3BlbGwg5LuY5qy+6Lev5b6EIMK3IOW3suaguOS6i+WungoKIyMg5LiA44CB6Zeo5qeb5Y6f5paH77yILmdpdGh1Yi9JU1NVRV9URU1QTEFURS9idWctYm91bnR5LXJlcG9ydC5tZO+8iQo3IOS4qiBjaGVja2JveCDlhajkuK3miY3mnInotYTmoLzvvJoKMS4g6LSm5Y+35o+Q5Lqk5Y+yIOKJpTYg5Liq5pyIIOKAlOKAlCDinIUgemh1bWVpeWFuIDIwMDkKMi4gUGVvcGxlIENoYWluIOmTvuS4iui6q+S7vSArIFJlYXNvbmFibGUg5Yik5a6aIOKAlOKAlCDinYwg5oiR5rKh5pyJCjMuIOaKq+mcsiBBSSDkvb/nlKgg4oCU4oCUIOKchSDlt7LmiqvpnLIKNC4g5Lq657G75o+Q5Lqk6Z2eIGFnZW50IOiHquS4u+W8gCDigJTigJQg4pyFCjUuIDUg5aSp5YaF5Zue5aSNIOKAlOKAlCDinIUKNi4g6Iul5L+u5aSN5YiZ562+5ZCN5o+Q5LqkIOKAlOKAlCDinIUKNy4g6L+Z5piv5ZSv5LiAIHJlc2VydmVkIOeahCDigJTigJQg4pyFIOaIkeS4gOadoemDveayoSByZXNlcnZlZAoK4oaSIDYvN+OAguWNoeS9j+eahOWPquacieesrCAyIOadoe+8jOS4lOaYr+mTvuS4iuaTjeS9nO+8jOaIkeS7o+abv+S4jeS6huOAggoKIyMg5LqM44CB5LuY5qy+6IqC5aWP77yIMTIg5Liq5bey5LuY5qy+5qC35pys5a6e5rWL77yJCmBgYArmnIDlv6sgIDAuMDcg5aSp77yIMS43IOWwj+aXtu+8iQrkuK3kvY0gIDMuMjMg5aSpCuacgOaFoiAgNC41NyDlpKkK5bmz5Z2HICAyLjM1IOWkqQpgYGAK4oaSIOaIkeeahOaKpeWRiiAyMDI2LTEwLTI0IOaPkOS6pOOAggogICoqMTAtMjkg5LmL5YmN5LiN6K+l5YKsKirvvJvov4fkuoYgMTAtMjkg5peg5Zue6Z+z5omN5piv5byC5bi444CCCgojIyDkuInjgIHimIUg5oiR6Ieq5bex55qE5Yik5o2u6KKr6K+B5LyqCuabvueUqOOAjEdpdEh1YiDotKblj7fnibnlvoHjgI3liKTmlq3nnJ/lgYcv6IO95Yqb77yM6KKr6L+Z5Lqb5Y+N5L6L5o6o57+777yaCmBgYApyb3V0ZS1zZW50aW5lbC1sYWIgIOW7uuWPtzIwMjYtMDctMzEgIDHku5PlupMgMOeyiSAg4oaSIOaLvyA1IOWNlQpheGVsaXRyb3gxMjMgICAgICAgIOW7uuWPtzIwMjYtMDctMzAgIDHku5PlupMgMOeyiSAg4oaSIOaLvyAxIOWNlQpTbWFydE1lbnU5ODcyICAgICAgIOW7uuWPtzIwMjUtMTEtMjggMTDku5PlupMgMOeyiSAg4oaSIOaLvyAyIOWNlQpgYGAKKirpl6jmp5vkuI3lnKggR2l0SHViIOi0puWPt+S+p+OAguaIkeeahOi0puWPt++8iDIwMDnvvInmoLnmnKzkuI3mmK/pmZDliLbjgIIqKgoKIyMg5Zub44CB5LuY5qy+5Lq6CmR1ZG81MCDlpITnkIbkuoYgMTIvMTIg5qC35pys44CCeWFyb25za2kg5piv5Y+m5LiA5Liq5aSE55CG5Lq677yIMTDljZXmiqXlkYrogIUr5aSE55CG6ICF77yJ44CCCuS7mOasvuivneacr+WbuuWumu+8miJXZSBoYXZlIHZlcmlmaWVkIHRoZSBpc3N1ZSBhbmQgaXQgaXMgb2YgYSBbc2V2ZXJpdHldLiIKICAgICAgICArICJXZSBoYXZlIHdpcmVkIHlvdSB0aGUgcmV3YXJkOiA8c3Vic2NhbiBleHRyaW5zaWM+IgogICAgICAgICsgIldvdWxkIHlvdSBsaWtlIHRvIHJlc2VydmUgdGhlIGlzc3VlPyIKCiMjIOS6lOOAgeaIkeWBmui/h+eahAotIDMg5p2h5oql5ZGK6LWE5qC85qCP5bey5pS55Li65qCH5YeGIGNoZWNrYm94IOagvOW8j++8iOWOn+S4uuaWh+Wtl+aPj+i/sO+8jOWPr+iDveebtOaOpeWIpOS4jeWQiOinhO+8iQotIOWFrOW8gOmXruS6hui6q+S7vemCo+adoe+8muayoeaciei6q+S7veaYr+WQpuebtOaOpeWkseWOu+i1hOagvAotIOayoeacieehrOWhq+WcsOWdgO+8iOaooeadv+itpuWRiiBDRVgg5Zyw5Z2A5pS25LiN5Yiw5LiU5LiN5Y+v5oGi5aSN77yJCgojIyDlha3jgIHlvoXlip7vvIjpnIDnlKjmiLfvvIkKMS4g5LiA5LiqIFBvbGthZG90IEFzc2V0SHViIOWcsOWdgO+8iOmdniBDRVjvvIkKMi4g5ZyoIFBlb3BsZSBDaGFpbiDorr4gaWRlbnRpdHkgKyDor7fmsYIgUmVhc29uYWJsZSDliKTlrpoK4oaSIOi/meS4pOatpeaIkeaXoOazleS7o+WBmgo=
+# paraspell 付款路径 · 已核事实
+
+## 一、门槛原文（.github/ISSUE_TEMPLATE/bug-bounty-report.md）
+7 个 checkbox 全中才有资格：
+1. 账号提交史 ≥6 个月 —— ✅ zhumeiyan 2009
+2. People Chain 链上身份 + Reasonable 判定 —— ❌ 我没有
+3. 披露 AI 使用 —— ✅ 已披露
+4. 人类提交非 agent 自主开 —— ✅
+5. 5 天内回复 —— ✅
+6. 若修复则签名提交 —— ✅
+7. 这是唯一 reserved 的 —— ✅ 我一条都没 reserved
+
+→ 6/7。卡住的只有第 2 条，且是链上操作，我代替不了。
+
+## 二、付款节奏（12 个已付款样本实测）
+```
+最快  0.07 天（1.7 小时）
+中位  3.23 天
+最慢  4.57 天
+平均  2.35 天
+```
+→ 我的报告 2026-10-24 提交。
+  **10-29 之前不该催**；过了 10-29 无回音才是异常。
+
+## 三、★ 我自己的判据被证伪
+曾用「GitHub 账号特征」判断真假/能力，被这些反例推翻：
+```
+route-sentinel-lab  建号2026-07-31  1仓库 0粉  → 拿 5 单
+axelitrox123        建号2026-07-30  1仓库 0粉  → 拿 1 单
+SmartMenu9872       建号2025-11-28 10仓库 0粉  → 拿 2 单
+```
+**门槛不在 GitHub 账号侧。我的账号（2009）根本不是限制。**
+
+## 四、付款人
+dudo50 处理了 12/12 样本。yaronski 是另一个处理人（10单报告者+处理者）。
+付款话术固定："We have verified the issue and it is of a [severity]."
+        + "We have wired you the reward: <subscan extrinsic>"
+        + "Would you like to reserve the issue?"
+
+## 五、我做过的
+- 3 条报告资格栏已改为标准 checkbox 格式（原为文字描述，可能直接判不合规）
+- 公开问了身份那条：没有身份是否直接失去资格
+- 没有硬填地址（模板警告 CEX 地址收不到且不可恢复）
+
+## 六、待办（需用户）
+1. 一个 Polkadot AssetHub 地址（非 CEX）
+2. 在 People Chain 设 identity + 请求 Reasonable 判定
+→ 这两步我无法代做

@@ -1,1 +1,207 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKbWNwX3NlcnZlciDigJTigJQgTUNQIOWNj+iuruacgOWwj+WunueOsO+8iEpTT04tUlBDIDIuMO+8iQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K5a+55qCH6KGl5L2N77yaMiDlt6XlhbfnlJ/mgIEgLyBNQ1AKCuWvueagh+S+neaNru+8iOWFqOeQg+mhtue6p+aZuuiDveS9k+iDveWKm+a4heWNlS5tZCDnrKwy56ugICsgMTUuMe+8ie+8mgogIE1DUCAyMDI2LTA3LTI4IOinhOiMg++8jEFBSUYoTGludXggRm91bmRhdGlvbikg5rK755CG77yMUmVnaXN0cnkgNCDkuIcrIOacjeWKoeWZqOOAggogIOW/g+aZuuaooeWei++8mnN0cnVjdHVyZWQgb3V0cHV0ID0gYWdlbnQg5a+56Ieq5bex6K+06K+d77yMCiAgICAgICAgICAgTUNQID0gYWdlbnQg5a+55bel5YW36K+06K+d77yMCiAgICAgICAgICAgQTJBID0gYWdlbnQg5a+5IGFnZW50IOivtOivneOAggoK5pys5qih5Z2X5a6e546wIE1DUCDnmoQgdG9vbCDpnaLvvJppbml0aWFsaXplIC8gdG9vbHMvbGlzdCAvIHRvb2xzL2NhbGzjgIIK5rOo5YaM55qE6YO95piv5rSb56We44CQ55yf55qE6IO96LeR44CR55qE5bel5YW3IOKAlOKAlCDosIPnlKjmmK/nnJ/nmoTot5HvvIzkuI3mmK/ov5Tlm57npLrkvovjgIIKCuWNj+iuru+8mkpTT04tUlBDIDIuMCBvdmVyIHN0ZGlv77yI5o2i6KGM5YiG6ZqU77yJ77yM5Lmf5pSv5oyB5LiA5qyh5LiA6K+35rGC55qE5paH5Lu2L3NvY2tldOOAggoiIiIKaW1wb3J0IGpzb24sIHN5cywgb3MsIHN1YnByb2Nlc3MsIGhhc2hsaWIKClJPT1QgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpQWSA9IHN5cy5leGVjdXRhYmxlClBST1RPQ09MX1ZFUlNJT04gPSAiMjAyNi0wNy0yOCIKCiMg4pSA4pSAIOW3peWFt+azqOWGjOihqO+8muavj+S4quW3peWFt+mDveaYr+ecn+i3kSDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKVE9PTFMgPSBbCiAgewogICAgIm5hbWUiOiAibHVvc2hlbl9wYXJhbGxheCIsCiAgICAiZGVzY3JpcHRpb24iOiAi6KeG5beu5Yik5a6a77ya5ou/5Lik5Liq6YCa6YGT55u45YeP77yM5q6L5beu6YKj5LiA5qC85bCx5piv44CQ5oiR57yW55qE44CR44CCIgogICAgICAgICAgICAgICAgICAgIuaui+W3rui2heWuueW/jSDihpIg56aB5q2i5Lqk5LuY44CCIiwKICAgICJpbnB1dFNjaGVtYSI6IHsidHlwZSI6ICJvYmplY3QiLCAicHJvcGVydGllcyI6IHsKICAgICAgICAiY2FzZV9maWxlIjogeyJ0eXBlIjogInN0cmluZyIsICJkZXNjcmlwdGlvbiI6ICJjYXNlIGpzb24g6Lev5b6EIn0sCiAgICB9LCAicmVxdWlyZWQiOiBbImNhc2VfZmlsZSJdfSwKICB9LAogIHsKICAgICJuYW1lIjogImx1b3NoZW5fc3RhciIsCiAgICAiZGVzY3JpcHRpb24iOiAi5aSa57u05bqm5pif5Zu+77ya5q6L5beuL+acquaOpeWFpS/lgYfmoq/luqYv5pyq6LeR55yf57O757uf77yM6YCQ5p2h5Yik77yMIgogICAgICAgICAgICAgICAgICAgIuaMh+WHuuW+gOWTquS4que7tOW6pumSu+OAgeaAjuS5iOmSu+OAgiIsCiAgICAiaW5wdXRTY2hlbWEiOiB7InR5cGUiOiAib2JqZWN0IiwgInByb3BlcnRpZXMiOiB7CiAgICAgICAgImNhc2VfZmlsZSI6IHsidHlwZSI6ICJzdHJpbmciLCAiZGVzY3JpcHRpb24iOiAiY2FzZSBqc29uIOi3r+W+hCJ9LAogICAgICAgICJhZGQiOiB7InR5cGUiOiAiYm9vbGVhbiIsICJkZXNjcmlwdGlvbiI6ICLmmK/lkKbpkonmmJ8iLCAiZGVmYXVsdCI6IEZhbHNlfSwKICAgIH0sICJyZXF1aXJlZCI6IFsiY2FzZV9maWxlIl19LAogIH0sCiAgewogICAgIm5hbWUiOiAibHVvc2hlbl92ZXJpZnkiLAogICAgImRlc2NyaXB0aW9uIjogIua0m+elnuacrOS9k+iHquajgO+8mui3kSB2ZXJpZnlfYWxsLnB577yM6L+U5Zue55yf5a6e6YCa6L+H5pWw44CCIgogICAgICAgICAgICAgICAgICAgIui/meaYryflroPov5jmtLvnnYAn55qE6K+B5o2u77yM5LiN5piv5paH5qGj5om/6K+644CCIiwKICAgICJpbnB1dFNjaGVtYSI6IHsidHlwZSI6ICJvYmplY3QiLCAicHJvcGVydGllcyI6IHt9LCAicmVxdWlyZWQiOiBbXX0sCiAgfSwKICB7CiAgICAibmFtZSI6ICJsdW9zaGVuX2NvbXByZXNzIiwKICAgICJkZXNjcmlwdGlvbiI6ICLkuIrkuIvmlofljovnvKnvvJrmjInlsYLoo4HliarvvIzov5Tlm57ljovnvKnliY3lkI7lrZfnrKbmlbAgKyDpgJDlsYLotKbnm64gKyDkuKLlvIPmuIXljZXjgIIiCiAgICAgICAgICAgICAgICAgICAi5Y+q5oql5Y6L57yp546H6ICM5LiN6K+05Lii5LqG5LuA5LmI55qE5bel5YW35piv5LiN5Y+v5L+h55qE44CCIiwKICAgICJpbnB1dFNjaGVtYSI6IHsidHlwZSI6ICJvYmplY3QiLCAicHJvcGVydGllcyI6IHsKICAgICAgICAiaXRlbXMiOiB7InR5cGUiOiAiYXJyYXkiLCAiZGVzY3JpcHRpb24iOiAiW3tsYXllcix0ZXh0fSwuLi5dIn0sCiAgICAgICAgImJ1ZGdldF9jaGFycyI6IHsidHlwZSI6ICJpbnRlZ2VyIiwgImRlc2NyaXB0aW9uIjogIumihOeul+S4iumZkCJ9LAogICAgfSwgInJlcXVpcmVkIjogWyJpdGVtcyJdfSwKICB9LAogIHsKICAgICJuYW1lIjogImx1b3NoZW5fdHJhY2VfcmVwbGF5IiwKICAgICJkZXNjcmlwdGlvbiI6ICLph43mlL7kuIDmrKHov5DooYzvvJrov5Tlm57or6UgcnVuX2lkIOeahOWFqOmDqOS6i+S7tuOAgiIKICAgICAgICAgICAgICAgICAgICLog73ph43mlL4gPSDnnJ/nmoTorrDov4fvvJvmsqHorrDov4flsLHov5Tlm54gbnVsbO+8jOS4jee8luOAgiIsCiAgICAiaW5wdXRTY2hlbWEiOiB7InR5cGUiOiAib2JqZWN0IiwgInByb3BlcnRpZXMiOiB7CiAgICAgICAgInJ1bl9pZCI6IHsidHlwZSI6ICJzdHJpbmciLCAiZGVzY3JpcHRpb24iOiAi6L+Q6KGMIElEIn0sCiAgICB9LCAicmVxdWlyZWQiOiBbInJ1bl9pZCJdfSwKICB9LAogIHsKICAgICJuYW1lIjogImx1b3NoZW5fY2FwYWJpbGl0eV9hdWRpdCIsCiAgICAiZGVzY3JpcHRpb24iOiAi5a+55qCH5YWo55CD6aG257qn5pm66IO95L2TIDE0IOe7tOW6puiHquWuoe+8mui/lOWbnuavj+S4que7tOW6pueahOaehOS7tuWRveS4reaVsOOAgiIKICAgICAgICAgICAgICAgICAgICLlrqHorqHlmajkvJrmjpLpmaToh6rouqvvvIzpgb/lhY3mo4DmtYvliLDoh6rlt7HpgKDmiJDlgYfmoq/luqbjgIIiLAogICAgImlucHV0U2NoZW1hIjogeyJ0eXBlIjogIm9iamVjdCIsICJwcm9wZXJ0aWVzIjoge30sICJyZXF1aXJlZCI6IFtdfSwKICB9LApdCgpkZWYgX3J1bihjbWQsIHRpbWVvdXQ9MzAwLCBjd2Q9Uk9PVCk6CiAgICB0cnk6CiAgICAgICAgciA9IHN1YnByb2Nlc3MucnVuKGNtZCwgY3dkPWN3ZCwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PXRpbWVvdXQpCiAgICAgICAgcmV0dXJuIHIucmV0dXJuY29kZSwgKHIuc3Rkb3V0IG9yICIiKSArIChyLnN0ZGVyciBvciAiIikKICAgIGV4Y2VwdCBzdWJwcm9jZXNzLlRpbWVvdXRFeHBpcmVkOgogICAgICAgIHJldHVybiAtMSwgZiLotoXml7YgPnt0aW1lb3V0fXMiCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIC0yLCBzdHIoZSkKCmRlZiBjYWxsX3Rvb2wobmFtZSwgYXJncyk6CiAgICAiIiLnnJ/osIPnlKjjgILmr4/kuKrliIbmlK/pg73mmK/nnJ/ot5HvvIzov5Tlm57nnJ/lrp7ovpPlh7rjgIIiIiIKICAgIGEgPSBhcmdzIG9yIHt9CgogICAgaWYgbmFtZSA9PSAibHVvc2hlbl9wYXJhbGxheCI6CiAgICAgICAgY2YgPSBhLmdldCgiY2FzZV9maWxlIikKICAgICAgICBpZiBub3QgY2Ygb3Igbm90IG9zLnBhdGguZXhpc3RzKG9zLnBhdGguam9pbihST09ULCBjZikpOgogICAgICAgICAgICByZXR1cm4geyJvayI6IEZhbHNlLCAiZXJyb3IiOiBmImNhc2Ug5paH5Lu25LiN5a2Y5ZyoOiB7Y2Z9In0KICAgICAgICByYywgb3V0ID0gX3J1bihbUFksICJ0b29scy9wYXJhbGxheC5weSIsIGNmXSkKICAgICAgICByZXR1cm4geyJvayI6IHJjID09IDAsICJleGl0IjogcmMsICJvdXRwdXQiOiBvdXRbLTMwMDA6XX0KCiAgICBpZiBuYW1lID09ICJsdW9zaGVuX3N0YXIiOgogICAgICAgIGNmID0gYS5nZXQoImNhc2VfZmlsZSIpCiAgICAgICAgaWYgbm90IGNmIG9yIG5vdCBvcy5wYXRoLmV4aXN0cyhvcy5wYXRoLmpvaW4oUk9PVCwgY2YpKToKICAgICAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgImVycm9yIjogZiJjYXNlIOaWh+S7tuS4jeWtmOWcqDoge2NmfSJ9CiAgICAgICAgY21kID0gW1BZLCAidG9vbHMvc3Rhci5weSIsIGNmXQogICAgICAgIGlmIGEuZ2V0KCJhZGQiKTogY21kLmFwcGVuZCgiLS1hZGQiKQogICAgICAgIHJjLCBvdXQgPSBfcnVuKGNtZCkKICAgICAgICByZXR1cm4geyJvayI6IHJjID09IDAsICJleGl0IjogcmMsICJvdXRwdXQiOiBvdXRbLTMwMDA6XX0KCiAgICBpZiBuYW1lID09ICJsdW9zaGVuX3ZlcmlmeSI6CiAgICAgICAgcmMsIG91dCA9IF9ydW4oW1BZLCAidG9vbHMvdmVyaWZ5X2FsbC5weSJdLCB0aW1lb3V0PTYwMCkKICAgICAgICAjIOaKkyAiTi9NIOmAmui/hyIKICAgICAgICBpbXBvcnQgcmUKICAgICAgICBtID0gcmUuc2VhcmNoKHIiKFxkKylccyovXHMqKFxkKylccyrpgJrov4ciLCBvdXQpCiAgICAgICAgcmV0dXJuIHsib2siOiByYyA9PSAwLCAiZXhpdCI6IHJjLAogICAgICAgICAgICAgICAgInBhc3NlZCI6IChtLmdyb3VwKDApIGlmIG0gZWxzZSBOb25lKSwKICAgICAgICAgICAgICAgICJvdXRwdXQiOiBvdXRbLTI1MDA6XX0KCiAgICBpZiBuYW1lID09ICJsdW9zaGVuX2NvbXByZXNzIjoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4oUk9PVCwgInRvb2xzIikpCiAgICAgICAgICAgIGZyb20gY29udGV4dF9jb21wcmVzcyBpbXBvcnQgY29tcHJlc3MKICAgICAgICAgICAgciA9IGNvbXByZXNzKGEuZ2V0KCJpdGVtcyIsIFtdKSwgYS5nZXQoImJ1ZGdldF9jaGFycyIpKQogICAgICAgICAgICByZXR1cm4geyJvayI6IFRydWUsICJiZWZvcmUiOiByWyJiZWZvcmUiXSwgImFmdGVyIjogclsiYWZ0ZXIiXSwKICAgICAgICAgICAgICAgICAgICAicmF0aW8iOiByWyJyYXRpbyJdLCAiZHJvcHBlZCI6IHJbImRyb3BwZWQiXX0KICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICJlcnJvciI6IHN0cihlKVs6MzAwXX0KCiAgICBpZiBuYW1lID09ICJsdW9zaGVuX3RyYWNlX3JlcGxheSI6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKFJPT1QsICJ0b29scyIpKQogICAgICAgICAgICBmcm9tIHJ1bnRyYWNlIGltcG9ydCByZXBsYXkKICAgICAgICAgICAgZXYgPSByZXBsYXkoYS5nZXQoInJ1bl9pZCIsICIiKSkKICAgICAgICAgICAgaWYgZXYgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJldHVybiB7Im9rIjogVHJ1ZSwgImZvdW5kIjogRmFsc2UsICJldmVudHMiOiBbXSwKICAgICAgICAgICAgICAgICAgICAgICAgIm5vdGUiOiAi5rKh5pyJ6L+Z5LiqIHJ1bl9pZCDnmoTorrDlvZUg4oCU4oCUIOS4jee8lumAoCJ9CiAgICAgICAgICAgIHJldHVybiB7Im9rIjogVHJ1ZSwgImZvdW5kIjogVHJ1ZSwgImNvdW50IjogbGVuKGV2KSwgImV2ZW50cyI6IGV2fQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgImVycm9yIjogc3RyKGUpWzozMDBdfQoKICAgIGlmIG5hbWUgPT0gImx1b3NoZW5fY2FwYWJpbGl0eV9hdWRpdCI6CiAgICAgICAgcmMsIG91dCA9IF9ydW4oW1BZLCAiL3RtcC9jYTIucHkiXSwgdGltZW91dD00MDApCiAgICAgICAgaW1wb3J0IHJlCiAgICAgICAgbSA9IHJlLnNlYXJjaChyIuaAu+iuoSAoXGQrKS8oXGQrKSIsIG91dCkKICAgICAgICBkaW1zID0gcmUuZmluZGFsbChyIl5ccyooXGQrIC4rPylccysoXGQrL1xkKykiLCBvdXQsIHJlLk0pCiAgICAgICAgcmV0dXJuIHsib2siOiByYyA9PSAwLCAidG90YWwiOiAobS5ncm91cCgwKSBpZiBtIGVsc2UgTm9uZSksCiAgICAgICAgICAgICAgICAiZGltcyI6IGRpbXNbLTE0Ol0gaWYgZGltcyBlbHNlIFtdLCAib3V0cHV0Ijogb3V0Wy04MDA6XX0KCiAgICByZXR1cm4geyJvayI6IEZhbHNlLCAiZXJyb3IiOiBmIuacquefpeW3peWFtzoge25hbWV9IiwgIuWPr+eUqCI6IFt0WyJuYW1lIl0gZm9yIHQgaW4gVE9PTFNdfQoKIyDilIDilIAgSlNPTi1SUEMgMi4wIOWIhuWPkSDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKZGVmIGhhbmRsZShyZXEpOgogICAgcmlkID0gcmVxLmdldCgiaWQiKQogICAgbWV0aG9kID0gcmVxLmdldCgibWV0aG9kIikKICAgIHBhcmFtcyA9IHJlcS5nZXQoInBhcmFtcyIpIG9yIHt9CgogICAgaWYgcmVxLmdldCgianNvbnJwYyIpICE9ICIyLjAiOgogICAgICAgIHJldHVybiBfZXJyKHJpZCwgLTMyNjAwLCAi6ZyA6KaBIGpzb25ycGM9Mi4wIikKCiAgICBpZiBtZXRob2QgPT0gImluaXRpYWxpemUiOgogICAgICAgIHJldHVybiBfb2socmlkLCB7InByb3RvY29sVmVyc2lvbiI6IFBST1RPQ09MX1ZFUlNJT04sCiAgICAgICAgICAgICAgICAgICAgICAgICAiY2FwYWJpbGl0aWVzIjogeyJ0b29scyI6IHsibGlzdENoYW5nZWQiOiBGYWxzZX19LAogICAgICAgICAgICAgICAgICAgICAgICAgInNlcnZlckluZm8iOiB7Im5hbWUiOiAibHVvc2hlbi1tY3AiLCAidmVyc2lvbiI6ICIwLjEuMCJ9fSkKICAgIGlmIG1ldGhvZCA9PSAidG9vbHMvbGlzdCI6CiAgICAgICAgcmV0dXJuIF9vayhyaWQsIHsidG9vbHMiOiBUT09MU30pCiAgICBpZiBtZXRob2QgPT0gInRvb2xzL2NhbGwiOgogICAgICAgIG5hbWUgPSBwYXJhbXMuZ2V0KCJuYW1lIikKICAgICAgICByZXMgPSBjYWxsX3Rvb2wobmFtZSwgcGFyYW1zLmdldCgiYXJndW1lbnRzIikgb3Ige30pCiAgICAgICAgcmV0dXJuIF9vayhyaWQsIHsiY29udGVudCI6IFt7InR5cGUiOiAidGV4dCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXh0IjoganNvbi5kdW1wcyhyZXMsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpfV0sCiAgICAgICAgICAgICAgICAgICAgICAgICJpc0Vycm9yIjogbm90IHJlcy5nZXQoIm9rIiwgVHJ1ZSl9KQogICAgaWYgbWV0aG9kID09ICJwaW5nIjoKICAgICAgICByZXR1cm4gX29rKHJpZCwge30pCiAgICByZXR1cm4gX2VycihyaWQsIC0zMjYwMSwgZiLmlrnms5XmnKrlrp7njrA6IHttZXRob2R9IikKCmRlZiBfb2socmlkLCByZXN1bHQpOiByZXR1cm4geyJqc29ucnBjIjogIjIuMCIsICJpZCI6IHJpZCwgInJlc3VsdCI6IHJlc3VsdH0KZGVmIF9lcnIocmlkLCBjb2RlLCBtc2cpOiByZXR1cm4geyJqc29ucnBjIjogIjIuMCIsICJpZCI6IHJpZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImVycm9yIjogeyJjb2RlIjogY29kZSwgIm1lc3NhZ2UiOiBtc2d9fQoKZGVmIG1haW4oKToKICAgICIiInN0ZGlvIOaooeW8j++8muS4gOihjOS4gOS4qiBKU09OLVJQQyDor7fmsYIiIiIKICAgIGZvciBsaW5lIGluIHN5cy5zdGRpbjoKICAgICAgICBsaW5lID0gbGluZS5zdHJpcCgpCiAgICAgICAgaWYgbm90IGxpbmU6IGNvbnRpbnVlCiAgICAgICAgdHJ5OiByZXEgPSBqc29uLmxvYWRzKGxpbmUpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKGpzb24uZHVtcHMoX2VycihOb25lLCAtMzI3MDAsICLop6PmnpDlpLHotKUiKSkgKyAiXG4iKTsgY29udGludWUKICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKGpzb24uZHVtcHMoaGFuZGxlKHJlcSksIGVuc3VyZV9hc2NpaT1GYWxzZSkgKyAiXG4iKQogICAgICAgIHN5cy5zdGRvdXQuZmx1c2goKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGlmIGxlbihzeXMuYXJndikgPiAxIGFuZCBzeXMuYXJndlsxXSA9PSAiLS1zZWxmdGVzdCI6CiAgICAgICAgIyDkuI3otbAgc3RkaW/vvIznm7TmjqXlhoXmtYvkuInkuKrmlrnms5UKICAgICAgICBwcmludCgiPT0gaW5pdGlhbGl6ZSA9PSIpCiAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhoYW5kbGUoeyJqc29ucnBjIjoiMi4wIiwiaWQiOjEsIm1ldGhvZCI6ImluaXRpYWxpemUifSksCiAgICAgICAgICAgICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UpWzoyMjBdKQogICAgICAgIHByaW50KCJcbj09IHRvb2xzL2xpc3QgPT0iKQogICAgICAgIHIgPSBoYW5kbGUoeyJqc29ucnBjIjoiMi4wIiwiaWQiOjIsIm1ldGhvZCI6InRvb2xzL2xpc3QifSkKICAgICAgICBwcmludChmIuazqOWGjCB7bGVuKHJbJ3Jlc3VsdCddWyd0b29scyddKX0g5Liq5bel5YW377yaIikKICAgICAgICBmb3IgdCBpbiByWyJyZXN1bHQiXVsidG9vbHMiXTogcHJpbnQoIiAg4oCiIiwgdFsibmFtZSJdKQogICAgICAgIHByaW50KCJcbj09IHRvb2xzL2NhbGw6IGx1b3NoZW5fY29tcHJlc3MgPT0iKQogICAgICAgIHIzID0gaGFuZGxlKHsianNvbnJwYyI6IjIuMCIsImlkIjozLCJtZXRob2QiOiJ0b29scy9jYWxsIiwicGFyYW1zIjp7CiAgICAgICAgICAgICJuYW1lIjoibHVvc2hlbl9jb21wcmVzcyIsCiAgICAgICAgICAgICJhcmd1bWVudHMiOnsiaXRlbXMiOlt7ImxheWVyIjoidG9vbF9vdXQiLCJ0ZXh0IjoieSIqMjUwMH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ImxheWVyIjoic3lzdGVtIiwidGV4dCI6IuWIpOaNruS8mOWFiCJ9XSwKICAgICAgICAgICAgICAgICAgICAgICAgICJidWRnZXRfY2hhcnMiOjE1MDB9fX0pCiAgICAgICAgcHJpbnQoanNvbi5sb2FkcyhyM1sicmVzdWx0Il1bImNvbnRlbnQiXVswXVsidGV4dCJdKSkKICAgICAgICBwcmludCgiXG49PSB0b29scy9jYWxsOiBsdW9zaGVuX3RyYWNlX3JlcGxheSAo5LiN5a2Y5Zyo55qEIGlkKSA9PSIpCiAgICAgICAgcjQgPSBoYW5kbGUoeyJqc29ucnBjIjoiMi4wIiwiaWQiOjQsIm1ldGhvZCI6InRvb2xzL2NhbGwiLCJwYXJhbXMiOnsKICAgICAgICAgICAgIm5hbWUiOiJsdW9zaGVuX3RyYWNlX3JlcGxheSIsImFyZ3VtZW50cyI6eyJydW5faWQiOiLkuI3lrZjlnKgifX19KQogICAgICAgIHByaW50KGpzb24ubG9hZHMocjRbInJlc3VsdCJdWyJjb250ZW50Il1bMF1bInRleHQiXSkpCiAgICBlbHNlOgogICAgICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+mcp_server —— MCP 协议最小实现（JSON-RPC 2.0）
+=============================================
+对标补位：2 工具生态 / MCP
+
+对标依据（全球顶级智能体能力清单.md 第2章 + 15.1）：
+  MCP 2026-07-28 规范，AAIF(Linux Foundation) 治理，Registry 4 万+ 服务器。
+  心智模型：structured output = agent 对自己说话，
+           MCP = agent 对工具说话，
+           A2A = agent 对 agent 说话。
+
+本模块实现 MCP 的 tool 面：initialize / tools/list / tools/call。
+注册的都是洛神【真的能跑】的工具 —— 调用是真的跑，不是返回示例。
+
+协议：JSON-RPC 2.0 over stdio（换行分隔），也支持一次一请求的文件/socket。
+"""
+import json, sys, os, subprocess, hashlib
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+PY = sys.executable
+PROTOCOL_VERSION = "2026-07-28"
+
+# ── 工具注册表：每个工具都是真跑 ──────────────────────────────
+TOOLS = [
+  {
+    "name": "luoshen_parallax",
+    "description": "视差判定：拿两个通道相减，残差那一格就是【我编的】。"
+                   "残差超容忍 → 禁止交付。",
+    "inputSchema": {"type": "object", "properties": {
+        "case_file": {"type": "string", "description": "case json 路径"},
+    }, "required": ["case_file"]},
+  },
+  {
+    "name": "luoshen_star",
+    "description": "多维度星图：残差/未接入/假梯度/未跑真系统，逐条判，"
+                   "指出往哪个维度钻、怎么钻。",
+    "inputSchema": {"type": "object", "properties": {
+        "case_file": {"type": "string", "description": "case json 路径"},
+        "add": {"type": "boolean", "description": "是否钉星", "default": False},
+    }, "required": ["case_file"]},
+  },
+  {
+    "name": "luoshen_verify",
+    "description": "洛神本体自检：跑 verify_all.py，返回真实通过数。"
+                   "这是'它还活着'的证据，不是文档承诺。",
+    "inputSchema": {"type": "object", "properties": {}, "required": []},
+  },
+  {
+    "name": "luoshen_compress",
+    "description": "上下文压缩：按层裁剪，返回压缩前后字符数 + 逐层账目 + 丢弃清单。"
+                   "只报压缩率而不说丢了什么的工具是不可信的。",
+    "inputSchema": {"type": "object", "properties": {
+        "items": {"type": "array", "description": "[{layer,text},...]"},
+        "budget_chars": {"type": "integer", "description": "预算上限"},
+    }, "required": ["items"]},
+  },
+  {
+    "name": "luoshen_trace_replay",
+    "description": "重放一次运行：返回该 run_id 的全部事件。"
+                   "能重放 = 真的记过；没记过就返回 null，不编。",
+    "inputSchema": {"type": "object", "properties": {
+        "run_id": {"type": "string", "description": "运行 ID"},
+    }, "required": ["run_id"]},
+  },
+  {
+    "name": "luoshen_capability_audit",
+    "description": "对标全球顶级智能体 14 维度自审：返回每个维度的构件命中数。"
+                   "审计器会排除自身，避免检测到自己造成假梯度。",
+    "inputSchema": {"type": "object", "properties": {}, "required": []},
+  },
+]
+
+def _run(cmd, timeout=300, cwd=ROOT):
+    try:
+        r = subprocess.run(cmd, cwd=cwd, capture_output=True, text=True, timeout=timeout)
+        return r.returncode, (r.stdout or "") + (r.stderr or "")
+    except subprocess.TimeoutExpired:
+        return -1, f"超时 >{timeout}s"
+    except Exception as e:
+        return -2, str(e)
+
+def call_tool(name, args):
+    """真调用。每个分支都是真跑，返回真实输出。"""
+    a = args or {}
+
+    if name == "luoshen_parallax":
+        cf = a.get("case_file")
+        if not cf or not os.path.exists(os.path.join(ROOT, cf)):
+            return {"ok": False, "error": f"case 文件不存在: {cf}"}
+        rc, out = _run([PY, "tools/parallax.py", cf])
+        return {"ok": rc == 0, "exit": rc, "output": out[-3000:]}
+
+    if name == "luoshen_star":
+        cf = a.get("case_file")
+        if not cf or not os.path.exists(os.path.join(ROOT, cf)):
+            return {"ok": False, "error": f"case 文件不存在: {cf}"}
+        cmd = [PY, "tools/star.py", cf]
+        if a.get("add"): cmd.append("--add")
+        rc, out = _run(cmd)
+        return {"ok": rc == 0, "exit": rc, "output": out[-3000:]}
+
+    if name == "luoshen_verify":
+        rc, out = _run([PY, "tools/verify_all.py"], timeout=600)
+        # 抓 "N/M 通过"
+        import re
+        m = re.search(r"(\d+)\s*/\s*(\d+)\s*通过", out)
+        return {"ok": rc == 0, "exit": rc,
+                "passed": (m.group(0) if m else None),
+                "output": out[-2500:]}
+
+    if name == "luoshen_compress":
+        try:
+            sys.path.insert(0, os.path.join(ROOT, "tools"))
+            from context_compress import compress
+            r = compress(a.get("items", []), a.get("budget_chars"))
+            return {"ok": True, "before": r["before"], "after": r["after"],
+                    "ratio": r["ratio"], "dropped": r["dropped"]}
+        except Exception as e:
+            return {"ok": False, "error": str(e)[:300]}
+
+    if name == "luoshen_trace_replay":
+        try:
+            sys.path.insert(0, os.path.join(ROOT, "tools"))
+            from runtrace import replay
+            ev = replay(a.get("run_id", ""))
+            if ev is None:
+                return {"ok": True, "found": False, "events": [],
+                        "note": "没有这个 run_id 的记录 —— 不编造"}
+            return {"ok": True, "found": True, "count": len(ev), "events": ev}
+        except Exception as e:
+            return {"ok": False, "error": str(e)[:300]}
+
+    if name == "luoshen_capability_audit":
+        rc, out = _run([PY, "/tmp/ca2.py"], timeout=400)
+        import re
+        m = re.search(r"总计 (\d+)/(\d+)", out)
+        dims = re.findall(r"^\s*(\d+ .+?)\s+(\d+/\d+)", out, re.M)
+        return {"ok": rc == 0, "total": (m.group(0) if m else None),
+                "dims": dims[-14:] if dims else [], "output": out[-800:]}
+
+    return {"ok": False, "error": f"未知工具: {name}", "可用": [t["name"] for t in TOOLS]}
+
+# ── JSON-RPC 2.0 分发 ────────────────────────────────────────
+def handle(req):
+    rid = req.get("id")
+    method = req.get("method")
+    params = req.get("params") or {}
+
+    if req.get("jsonrpc") != "2.0":
+        return _err(rid, -32600, "需要 jsonrpc=2.0")
+
+    if method == "initialize":
+        return _ok(rid, {"protocolVersion": PROTOCOL_VERSION,
+                         "capabilities": {"tools": {"listChanged": False}},
+                         "serverInfo": {"name": "luoshen-mcp", "version": "0.1.0"}})
+    if method == "tools/list":
+        return _ok(rid, {"tools": TOOLS})
+    if method == "tools/call":
+        name = params.get("name")
+        res = call_tool(name, params.get("arguments") or {})
+        return _ok(rid, {"content": [{"type": "text",
+                        "text": json.dumps(res, ensure_ascii=False, indent=1)}],
+                        "isError": not res.get("ok", True)})
+    if method == "ping":
+        return _ok(rid, {})
+    return _err(rid, -32601, f"方法未实现: {method}")
+
+def _ok(rid, result): return {"jsonrpc": "2.0", "id": rid, "result": result}
+def _err(rid, code, msg): return {"jsonrpc": "2.0", "id": rid,
+                                 "error": {"code": code, "message": msg}}
+
+def main():
+    """stdio 模式：一行一个 JSON-RPC 请求"""
+    for line in sys.stdin:
+        line = line.strip()
+        if not line: continue
+        try: req = json.loads(line)
+        except Exception as e:
+            sys.stdout.write(json.dumps(_err(None, -32700, "解析失败")) + "\n"); continue
+        sys.stdout.write(json.dumps(handle(req), ensure_ascii=False) + "\n")
+        sys.stdout.flush()
+
+if __name__ == "__main__":
+    if len(sys.argv) > 1 and sys.argv[1] == "--selftest":
+        # 不走 stdio，直接内测三个方法
+        print("== initialize ==")
+        print(json.dumps(handle({"jsonrpc":"2.0","id":1,"method":"initialize"}),
+                         ensure_ascii=False)[:220])
+        print("\n== tools/list ==")
+        r = handle({"jsonrpc":"2.0","id":2,"method":"tools/list"})
+        print(f"注册 {len(r['result']['tools'])} 个工具：")
+        for t in r["result"]["tools"]: print("  •", t["name"])
+        print("\n== tools/call: luoshen_compress ==")
+        r3 = handle({"jsonrpc":"2.0","id":3,"method":"tools/call","params":{
+            "name":"luoshen_compress",
+            "arguments":{"items":[{"layer":"tool_out","text":"y"*2500},
+                                  {"layer":"system","text":"判据优先"}],
+                         "budget_chars":1500}}})
+        print(json.loads(r3["result"]["content"][0]["text"]))
+        print("\n== tools/call: luoshen_trace_replay (不存在的 id) ==")
+        r4 = handle({"jsonrpc":"2.0","id":4,"method":"tools/call","params":{
+            "name":"luoshen_trace_replay","arguments":{"run_id":"不存在"}}})
+        print(json.loads(r4["result"]["content"][0]["text"]))
+    else:
+        main()

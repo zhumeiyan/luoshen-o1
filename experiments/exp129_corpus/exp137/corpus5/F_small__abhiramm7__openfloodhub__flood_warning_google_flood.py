@@ -1,1 +1,220 @@
-IiIiR29vZ2xlIEZsb29kIEZvcmVjYXN0aW5nIG92ZXJsYXlzIGZvciB0aGUgQ05OIGZvcmVjYXN0LgoKTGlrZSBub2FhLnB5LCB0aGVzZSBzZXJpZXMgYXJlICpjb21wYXJpc29uIG92ZXJsYXlzKiDigJQgdGhleSByaWRlIGFsb25nc2lkZQp0aGUgQ05OJ3Mgb3duIGZvcmVjYXN0IGluIHRoZSBwcmVkaWN0aW9uIG91dHB1dCwgdGhleSBhcmUgbm90IGZlZCBiYWNrIGludG8KdGhlIG1vZGVsLgoKU291cmNlOiBHb29nbGUgRmxvb2QgRm9yZWNhc3RpbmcgQVBJICh0aGUgZW5naW5lIGJlaGluZCBHb29nbGUgRmxvb2QgSHViLApnLmNvL2Zsb29kaHViKS4gRG9jczogaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vZmxvb2QtZm9yZWNhc3RpbmcKCiAgUE9TVCAvdjEvZ2F1Z2VzOnNlYXJjaEdhdWdlc0J5QXJlYSAgICAgICAgICAgIGZpbmQgR29vZ2xlIGdhdWdlcyBuZWFyIG91ciBzaXRlcwogIEdFVCAgL3YxL2dhdWdlczpxdWVyeUdhdWdlRm9yZWNhc3RzICAgICAgICAgICBmb3JlY2FzdCB0aW1lIHNlcmllcyBwZXIgZ2F1Z2UKICBHRVQgIC92MS9nYXVnZU1vZGVsczpiYXRjaEdldCAgICAgICAgICAgICAgICAgbW9kZWwgdW5pdCArIHdhcm5pbmcvZGFuZ2VyIHRocmVzaG9sZHMKICBHRVQgIC92MS9mbG9vZFN0YXR1czpxdWVyeUxhdGVzdEZsb29kU3RhdHVzQnlHYXVnZUlkcyAgIHNldmVyaXR5ICsgdHJlbmQKCkFjY2VzcyBpcyBmcmVlIChDQyBCWSA0LjApIGJ1dCByZXF1aXJlcyBhbiBBUEkga2V5IG9uIGEgR29vZ2xlIENsb3VkIHByb2plY3QKdGhhdCBoYXMgYmVlbiBncmFudGVkIGFjY2VzcyB2aWEgR29vZ2xlJ3Mgc2lnbnVwIGZvcm0gKHNlZSB0aGUgZG9jcyBwYWdlKS4KUHV0IHRoZSBrZXkgaW4gYC5lbnYubG9jYWxgIGFzIEdPT0dMRV9GTE9PRF9BUElfS0VZPS4uLiBsb2NhbGx5LCBhbmQgYXMgYQpyZXBvIEFjdGlvbnMgc2VjcmV0IG9mIHRoZSBzYW1lIG5hbWUgZm9yIENJLiBFdmVyeXRoaW5nIGhlcmUgZGVncmFkZXMgdG8gYQpuby1vcCB3aGVuIHRoZSBrZXkgaXMgYWJzZW50LgoKVGhlIEdvb2dsZSBnYXVnZSBpZCBmb3IgZWFjaCBVU0dTIHNpdGUgaXMgZGlzY292ZXJlZCBvbmNlIHdpdGgKCiAgICAudmVudi9iaW4vcHl0aG9uIC1tIGZsb29kX3dhcm5pbmcuZ29vZ2xlX2Zsb29kCgp3aGljaCBzZWFyY2hlcyBhIGJvdW5kaW5nIGJveCBhcm91bmQgdGhlIGdhdWdlIHNldCwgbWF0Y2hlcyBHb29nbGUgZ2F1Z2VzIHRvCm91ciBzaXRlcyBieSBkaXN0YW5jZSwgYW5kIHdyaXRlcyBmbG9vZF93YXJuaW5nL2dvb2dsZV9nYXVnZXMuanNvbiAoY29tbWl0dGVkLApsaWtlIHRocmVzaG9sZHMuanNvbikuIEdvb2dsZSdzIFVTIGdhdWdlcyBhcmUgSFlCQVMgdmlydHVhbCBwb2ludHMgYXQgYmFzaW4Kb3V0bGV0cywgbm90IFVTR1MgbG9jYXRpb25zIOKAlCB0aGUgY29tbWl0dGVkIG1hcHBpbmcgd2FzIGhhbmQtdmVyaWZpZWQgYnkKY29tcGFyaW5nIEdvb2dsZSdzIHJldHVybi1wZXJpb2QgdGhyZXNob2xkcyBhbmQgbGl2ZSBmb3JlY2FzdCBtYWduaXR1ZGVzCmFnYWluc3QgZWFjaCBzaXRlJ3Mgb3duIHNjYWxlLCBzbyByZXZpZXcgYmVmb3JlIG92ZXJ3cml0aW5nIGl0IHdpdGggdGhlCmF1dG8tbWF0Y2hlcidzIG91dHB1dC4gRm9yZWNhc3QgdW5pdHMgYXJlIHdoYXRldmVyIHRoZSBHb29nbGUgZ2F1Z2UgbW9kZWwKdXNlcyDigJQgQ1VCSUNfTUVURVJTX1BFUl9TRUNPTkQgYWxpZ25zIHdpdGggdGhlIENOTiBjaGFydDsgTUVURVJTIChzdGFnZSkgaXMKc2hvd24gYXMgc3RhdHVzIG9ubHksIG5ldmVyIGRyYXduIG9uIHRoZSBkaXNjaGFyZ2UgY2hhcnQuCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgZGF0ZXRpbWUKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCB1cmxsaWIucGFyc2UKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKZnJvbSAuZmV0Y2ggaW1wb3J0IF9odHRwX2dldCAgICMgcmV0cmllZCBIVFRQICsgLmVudi5sb2NhbCBzaWRlLWxvYWQKZnJvbSAuc2l0ZXMgaW1wb3J0IFNJVEVTCgpBUEkgPSAnaHR0cHM6Ly9mbG9vZGZvcmVjYXN0aW5nLmdvb2dsZWFwaXMuY29tL3YxJwpNQVBQSU5HX1BBVEggPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50IC8gJ2dvb2dsZV9nYXVnZXMuanNvbicKCkFQSV9LRVkgPSBvcy5lbnZpcm9uLmdldCgnR09PR0xFX0ZMT09EX0FQSV9LRVknKQoKIyB+MiBrbSBpbiBkZWdyZWVzIGxhdGl0dWRlIOKAlCBhIEdvb2dsZSBnYXVnZSBmdXJ0aGVyIHRoYW4gdGhpcyBmcm9tIHRoZSBVU0dTCiMgY29vcmRpbmF0ZXMgaXMgYSBkaWZmZXJlbnQgcml2ZXIgcG9pbnQsIG5vdCBhIG1hdGNoLgpNQVRDSF9ERUcgPSAwLjAyCgoKZGVmIF9hcGkocGF0aDogc3RyLCBwYXJhbXM6IGRpY3QgfCBOb25lID0gTm9uZSwgYm9keTogZGljdCB8IE5vbmUgPSBOb25lKSAtPiBkaWN0IHwgTm9uZToKICAgICIiIk9uZSBBUEkgY2FsbCwgR0VUIHVubGVzcyBhIGJvZHkgaXMgZ2l2ZW4uIFJldHVybnMgTm9uZSBvbiBhbnkgZmFpbHVyZSDigJQKICAgIG92ZXJsYXlzIGFyZSBvcHRpb25hbCBhbmQgbXVzdCBuZXZlciBzaW5rIHRoZSBwcmVkaWN0aW9uIHJ1bi4iIiIKICAgIGlmIG5vdCBBUElfS0VZOgogICAgICAgIHJldHVybiBOb25lCiAgICBxID0geydrZXknOiBBUElfS0VZLCAqKihwYXJhbXMgb3Ige30pfQogICAgdXJsID0gZid7QVBJfS97cGF0aH0/JyArIHVybGxpYi5wYXJzZS51cmxlbmNvZGUocSwgZG9zZXE9VHJ1ZSkKICAgIHRyeToKICAgICAgICBpZiBib2R5IGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBqc29uLmxvYWRzKF9odHRwX2dldCh1cmwpKQogICAgICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QoCiAgICAgICAgICAgIHVybCwgZGF0YT1qc29uLmR1bXBzKGJvZHkpLmVuY29kZSgpLAogICAgICAgICAgICBoZWFkZXJzPXsnVXNlci1BZ2VudCc6ICdvcGVuZmxvb2RodWItY25uJywKICAgICAgICAgICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJ30pCiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHModXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9NjApLnJlYWQoKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmJyAgICEgR29vZ2xlIHtwYXRofToge2V9JykKICAgICAgICByZXR1cm4gTm9uZQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBPbmUtdGltZSBnYXVnZSBkaXNjb3ZlcnkgLT4gZ29vZ2xlX2dhdWdlcy5qc29uCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCmRlZiBkaXNjb3Zlcl9nYXVnZXMocGFkOiBmbG9hdCA9IDAuMykgLT4gZGljdFtzdHIsIHN0cl06CiAgICAiIiJTZWFyY2ggYSBib3VuZGluZyBib3ggYXJvdW5kIHRoZSBnYXVnZSBzZXQgYW5kIG1hdGNoIEdvb2dsZSBnYXVnZXMgdG8KICAgIG91ciBVU0dTIHNpdGVzIOKAlCBieSBpZCB3aGVuIEdvb2dsZSBlbWJlZHMgdGhlIFVTR1MgbnVtYmVyLCBlbHNlIGJ5CiAgICBuZWFyZXN0LXdpdGhpbi0ya20uIFJldHVybnMge3VzZ3NfaWQ6IGdvb2dsZV9nYXVnZV9pZH0uIiIiCiAgICBsYXRzID0gW3NbJ2xhdCddIGZvciBzIGluIFNJVEVTXQogICAgbG9ucyA9IFtzWydsb24nXSBmb3IgcyBpbiBTSVRFU10KICAgIGxvX2xhdCwgaGlfbGF0ID0gbWluKGxhdHMpIC0gcGFkLCBtYXgobGF0cykgKyBwYWQKICAgIGxvX2xvbiwgaGlfbG9uID0gbWluKGxvbnMpIC0gcGFkLCBtYXgobG9ucykgKyBwYWQKICAgIGJveCA9IFsobG9fbGF0LCBsb19sb24pLCAobG9fbGF0LCBoaV9sb24pLCAoaGlfbGF0LCBoaV9sb24pLCAoaGlfbGF0LCBsb19sb24pXQogICAgcmVzcCA9IF9hcGkoJ2dhdWdlczpzZWFyY2hHYXVnZXNCeUFyZWEnLCBib2R5PXsKICAgICAgICAnbG9vcCc6IHsndmVydGljZXMnOiBbeydsYXRpdHVkZSc6IGxhLCAnbG9uZ2l0dWRlJzogbG99IGZvciBsYSwgbG8gaW4gYm94XX0sCiAgICAgICAgJ2luY2x1ZGVOb25RdWFsaXR5VmVyaWZpZWQnOiBUcnVlLAogICAgICAgICdpbmNsdWRlR2F1Z2VzV2l0aG91dEh5ZHJvTW9kZWwnOiBGYWxzZSwKICAgIH0pCiAgICBnYXVnZXMgPSAocmVzcCBvciB7fSkuZ2V0KCdnYXVnZXMnLCBbXSkKICAgIHByaW50KGYnR29vZ2xlIGdhdWdlcyBpbiBib3g6IHtsZW4oZ2F1Z2VzKX0nKQoKICAgIG1hcHBpbmcgPSB7fQogICAgZm9yIHNpdGUgaW4gU0lURVM6CiAgICAgICAgYmVzdCwgYmVzdF9kID0gTm9uZSwgTUFUQ0hfREVHCiAgICAgICAgZm9yIGcgaW4gZ2F1Z2VzOgogICAgICAgICAgICBnaWQgPSBnLmdldCgnZ2F1Z2VJZCcsICcnKQogICAgICAgICAgICBsb2MgPSBnLmdldCgnbG9jYXRpb24nLCB7fSkKICAgICAgICAgICAgaWYgc2l0ZVsnaWQnXSBpbiBnaWQ6CiAgICAgICAgICAgICAgICBiZXN0LCBiZXN0X2QgPSBnLCAwLjAKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIGQgPSBtYXgoYWJzKGxvYy5nZXQoJ2xhdGl0dWRlJywgOTk5KSAtIHNpdGVbJ2xhdCddKSwKICAgICAgICAgICAgICAgICAgICBhYnMobG9jLmdldCgnbG9uZ2l0dWRlJywgOTk5KSAtIHNpdGVbJ2xvbiddKSkKICAgICAgICAgICAgaWYgZCA8IGJlc3RfZDoKICAgICAgICAgICAgICAgIGJlc3QsIGJlc3RfZCA9IGcsIGQKICAgICAgICBpZiBiZXN0OgogICAgICAgICAgICBtYXBwaW5nW3NpdGVbJ2lkJ11dID0gYmVzdFsnZ2F1Z2VJZCddCiAgICAgICAgICAgIHByaW50KGYiICB7c2l0ZVsnaWQnXX0ge3NpdGVbJ3Nob3J0J106PDE2fSAtPiB7YmVzdFsnZ2F1Z2VJZCddfSIKICAgICAgICAgICAgICAgICAgZiIgICjOlOKJiHtiZXN0X2Q6LjRmfcKwLCBzb3VyY2U9e2Jlc3QuZ2V0KCdzb3VyY2UnKX0sIgogICAgICAgICAgICAgICAgICBmIiB2ZXJpZmllZD17YmVzdC5nZXQoJ3F1YWxpdHlWZXJpZmllZCcpfSkiKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KGYiICB7c2l0ZVsnaWQnXX0ge3NpdGVbJ3Nob3J0J106PDE2fSAtPiBubyBHb29nbGUgZ2F1Z2Ugd2l0aGluIH4yIGttIikKICAgIHJldHVybiBtYXBwaW5nCgoKZGVmIGxvYWRfbWFwcGluZygpIC0+IGRpY3Rbc3RyLCBzdHJdOgogICAgaWYgTUFQUElOR19QQVRILmV4aXN0cygpOgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKE1BUFBJTkdfUEFUSC5yZWFkX3RleHQoKSkKICAgIHJldHVybiB7fQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBQZXItcnVuIGVucmljaG1lbnQgKGJhdGNoZWQ6IDMgQVBJIGNhbGxzIGZvciB0aGUgd2hvbGUgZ2F1Z2Ugc2V0KQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpkZWYgZW5yaWNoX3NpdGVzKHVzZ3NfaWRzOiBsaXN0W3N0cl0pIC0+IGRpY3Rbc3RyLCBkaWN0XToKICAgICIiIk92ZXJsYXlzIGZvciBldmVyeSBtYXBwZWQgZ2F1Z2UgaW4gdGhyZWUgYmF0Y2hlZCBjYWxscy4gUmV0dXJucwogICAge3VzZ3NfaWQ6IHtnYXVnZV9pZCwgdW5pdCwgdGhyZXNob2xkcywgc2V2ZXJpdHksIHRyZW5kLCBpc3N1ZWRfdGltZSwKICAgIGZvcmVjYXN0OiBbe3QsIHZ9XX19IOKAlCBvbmx5IGlkcyB0aGF0IHByb2R1Y2VkIGRhdGEgYXJlIHByZXNlbnQuIiIiCiAgICBtYXBwaW5nID0gbG9hZF9tYXBwaW5nKCkKICAgIGlmIG5vdCBBUElfS0VZIG9yIG5vdCBtYXBwaW5nOgogICAgICAgIHJldHVybiB7fQogICAgaWRzID0ge3U6IGcgZm9yIHUsIGcgaW4gbWFwcGluZy5pdGVtcygpIGlmIHUgaW4gdXNnc19pZHN9CiAgICBpZiBub3QgaWRzOgogICAgICAgIHJldHVybiB7fQogICAgZ2lkcyA9IHNvcnRlZChzZXQoaWRzLnZhbHVlcygpKSkKCiAgICBmY19yZXNwID0gX2FwaSgnZ2F1Z2VzOnF1ZXJ5R2F1Z2VGb3JlY2FzdHMnLCBwYXJhbXM9eydnYXVnZUlkcyc6IGdpZHN9KSBvciB7fQogICAgbW9kZWxzID0gX2FwaSgnZ2F1Z2VNb2RlbHM6YmF0Y2hHZXQnLAogICAgICAgICAgICAgICAgICBwYXJhbXM9eyduYW1lcyc6IFtmJ2dhdWdlTW9kZWxzL3tnfScgZm9yIGcgaW4gZ2lkc119KSBvciB7fQogICAgc3RhdHVzID0gX2FwaSgnZmxvb2RTdGF0dXM6cXVlcnlMYXRlc3RGbG9vZFN0YXR1c0J5R2F1Z2VJZHMnLAogICAgICAgICAgICAgICAgICBwYXJhbXM9eydnYXVnZUlkcyc6IGdpZHN9KSBvciB7fQoKICAgIG1vZGVsX2J5X2dpZCA9IHttLmdldCgnZ2F1Z2VJZCcpOiBtIGZvciBtIGluIG1vZGVscy5nZXQoJ2dhdWdlTW9kZWxzJywgW10pfQogICAgc3RhdHVzX2J5X2dpZCA9IHtzLmdldCgnZ2F1Z2VJZCcpOiBzIGZvciBzIGluIHN0YXR1cy5nZXQoJ2Zsb29kU3RhdHVzZXMnLCBbXSl9CiAgICBmb3JlY2FzdHMgPSBmY19yZXNwLmdldCgnZm9yZWNhc3RzJywge30pCgogICAgb3V0ID0ge30KICAgIGZvciB1c2dzX2lkLCBnaWQgaW4gaWRzLml0ZW1zKCk6CiAgICAgICAgbW9kZWwgPSBtb2RlbF9ieV9naWQuZ2V0KGdpZCwge30pCiAgICAgICAgc3RhdCA9IHN0YXR1c19ieV9naWQuZ2V0KGdpZCwge30pCiAgICAgICAgZW50cnkgPSB7CiAgICAgICAgICAgICdnYXVnZV9pZCc6IGdpZCwKICAgICAgICAgICAgJ3VuaXQnOiBtb2RlbC5nZXQoJ2dhdWdlVmFsdWVVbml0JyksCiAgICAgICAgICAgICdxdWFsaXR5X3ZlcmlmaWVkJzogbW9kZWwuZ2V0KCdxdWFsaXR5VmVyaWZpZWQnKSwKICAgICAgICAgICAgJ3NldmVyaXR5Jzogc3RhdC5nZXQoJ3NldmVyaXR5JyksCiAgICAgICAgICAgICd0cmVuZCc6IHN0YXQuZ2V0KCdmb3JlY2FzdFRyZW5kJyksCiAgICAgICAgfQogICAgICAgIHRoID0gbW9kZWwuZ2V0KCd0aHJlc2hvbGRzJykgb3Ige30KICAgICAgICBpZiB0aDoKICAgICAgICAgICAgZW50cnlbJ3RocmVzaG9sZHMnXSA9IHsKICAgICAgICAgICAgICAgICd3YXJuaW5nJzogdGguZ2V0KCd3YXJuaW5nTGV2ZWwnKSwKICAgICAgICAgICAgICAgICdkYW5nZXInOiB0aC5nZXQoJ2RhbmdlckxldmVsJyksCiAgICAgICAgICAgICAgICAnZXh0cmVtZSc6IHRoLmdldCgnZXh0cmVtZURhbmdlckxldmVsJyksCiAgICAgICAgICAgIH0KICAgICAgICAjIExhdGVzdCBpc3N1ZWQgZm9yZWNhc3Q6IGVhY2ggcmFuZ2UgYmVjb21lcyBvbmUgcG9pbnQgYXQgaXRzIHN0YXJ0CiAgICAgICAgIyB0aW1lIChzdGFydCA9PSBlbmQgZm9yIGluc3RhbnRhbmVvdXMgdmFsdWVzKS4KICAgICAgICBmc2V0ID0gKGZvcmVjYXN0cy5nZXQoZ2lkKSBvciB7fSkuZ2V0KCdmb3JlY2FzdHMnLCBbXSkKICAgICAgICBpZiBmc2V0OgogICAgICAgICAgICBsYXRlc3QgPSBtYXgoZnNldCwga2V5PWxhbWJkYSBmOiBmLmdldCgnaXNzdWVkVGltZScsICcnKSkKICAgICAgICAgICAgZW50cnlbJ2lzc3VlZF90aW1lJ10gPSBsYXRlc3QuZ2V0KCdpc3N1ZWRUaW1lJykKICAgICAgICAgICAgc2VyaWVzID0gW10KICAgICAgICAgICAgZm9yIHIgaW4gbGF0ZXN0LmdldCgnZm9yZWNhc3RSYW5nZXMnLCBbXSk6CiAgICAgICAgICAgICAgICB0LCB2ID0gci5nZXQoJ2ZvcmVjYXN0U3RhcnRUaW1lJyksIHIuZ2V0KCd2YWx1ZScpCiAgICAgICAgICAgICAgICBpZiB0IGlzIG5vdCBOb25lIGFuZCB2IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgIHNlcmllcy5hcHBlbmQoeyd0JzogdCwgJ3YnOiByb3VuZChmbG9hdCh2KSwgMyl9KQogICAgICAgICAgICBzZXJpZXMuc29ydChrZXk9bGFtYmRhIHI6IHJbJ3QnXSkKICAgICAgICAgICAgZW50cnlbJ2ZvcmVjYXN0J10gPSBzZXJpZXMKCiAgICAgICAgICAgICMgUGFzdC13ZWVrIHNraWxsIHRyYWNlOiB0aGUgQVBJIHJldHVybnMgZXZlcnl0aGluZyBpc3N1ZWQgaW4gdGhlCiAgICAgICAgICAgICMgbGFzdCA3IGRheXMgYnkgZGVmYXVsdC4gS2VlcCB0aGUgbmV3ZXN0IGZvcmVjYXN0IHBlciBpc3N1ZSBkYXkKICAgICAgICAgICAgIyBhbmQgdGFrZSBpdHMgMS1kYXktYWhlYWQgdmFsdWUg4oCUIHdoYXQgR29vZ2xlIHNhaWQgKnllc3RlcmRheSoKICAgICAgICAgICAgIyBhYm91dCBlYWNoIGRheS4gVGhlIG1hcCdzIG1vZGVsLWNvbXBhcmlzb24gcGFuZWwgcGxvdHMgdGhlc2UKICAgICAgICAgICAgIyBhZ2FpbnN0IG9ic2VydmVkIGZsb3cgbmV4dCB0byB0aGUgQ05OJ3Mgb3duIGJhY2t0ZXN0LgogICAgICAgICAgICBieV9kYXkgPSB7fQogICAgICAgICAgICBmb3IgZiBpbiBmc2V0OgogICAgICAgICAgICAgICAgZGF5ID0gKGYuZ2V0KCdpc3N1ZWRUaW1lJykgb3IgJycpWzoxMF0KICAgICAgICAgICAgICAgIGlmIGRheSBhbmQgKGRheSBub3QgaW4gYnlfZGF5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvciBmWydpc3N1ZWRUaW1lJ10gPiBieV9kYXlbZGF5XVsnaXNzdWVkVGltZSddKToKICAgICAgICAgICAgICAgICAgICBieV9kYXlbZGF5XSA9IGYKICAgICAgICAgICAgYnQgPSBbXQogICAgICAgICAgICBmb3IgZGF5LCBmIGluIHNvcnRlZChieV9kYXkuaXRlbXMoKSk6CiAgICAgICAgICAgICAgICB0YXJnZXQgPSAoZGF0ZXRpbWUuZGF0ZS5mcm9taXNvZm9ybWF0KGRheSkKICAgICAgICAgICAgICAgICAgICAgICAgICArIGRhdGV0aW1lLnRpbWVkZWx0YShkYXlzPTEpKS5zdHJmdGltZSgnJVktJW0tJWRUMDA6MDA6MDBaJykKICAgICAgICAgICAgICAgIGZvciByIGluIGYuZ2V0KCdmb3JlY2FzdFJhbmdlcycsIFtdKToKICAgICAgICAgICAgICAgICAgICBpZiByLmdldCgnZm9yZWNhc3RTdGFydFRpbWUnKSA9PSB0YXJnZXQgYW5kIHIuZ2V0KCd2YWx1ZScpIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgICAgICBidC5hcHBlbmQoeyd0JzogdGFyZ2V0LCAndic6IHJvdW5kKGZsb2F0KHJbJ3ZhbHVlJ10pLCAzKX0pCiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIGlmIGJ0OgogICAgICAgICAgICAgICAgZW50cnlbJ2JhY2t0ZXN0J10gPSBidAogICAgICAgIGlmIGVudHJ5LmdldCgnZm9yZWNhc3QnKSBvciBlbnRyeS5nZXQoJ3NldmVyaXR5Jyk6CiAgICAgICAgICAgIG91dFt1c2dzX2lkXSA9IGVudHJ5CiAgICByZXR1cm4gb3V0CgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGlmIG5vdCBBUElfS0VZOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoJ0dPT0dMRV9GTE9PRF9BUElfS0VZIG5vdCBzZXQg4oCUIGFkZCBpdCB0byAuZW52LmxvY2FsICcKICAgICAgICAgICAgICAgICAgICAgICAgICcoc2VlIG1vZHVsZSBkb2NzdHJpbmcgZm9yIGhvdyB0byBnZXQgb25lKScpCiAgICBtYXBwaW5nID0gZGlzY292ZXJfZ2F1Z2VzKCkKICAgIGlmIG1hcHBpbmc6CiAgICAgICAgTUFQUElOR19QQVRILndyaXRlX3RleHQoanNvbi5kdW1wcyhtYXBwaW5nLCBpbmRlbnQ9MikgKyAnXG4nKQogICAgICAgIHByaW50KGYnd3JvdGUge01BUFBJTkdfUEFUSH0nKQogICAgZWxzZToKICAgICAgICBwcmludCgnbm8gbWF0Y2hlcyBmb3VuZCDigJQgbm90aGluZyB3cml0dGVuJykK
+"""Google Flood Forecasting overlays for the CNN forecast.
+
+Like noaa.py, these series are *comparison overlays* — they ride alongside
+the CNN's own forecast in the prediction output, they are not fed back into
+the model.
+
+Source: Google Flood Forecasting API (the engine behind Google Flood Hub,
+g.co/floodhub). Docs: https://developers.google.com/flood-forecasting
+
+  POST /v1/gauges:searchGaugesByArea            find Google gauges near our sites
+  GET  /v1/gauges:queryGaugeForecasts           forecast time series per gauge
+  GET  /v1/gaugeModels:batchGet                 model unit + warning/danger thresholds
+  GET  /v1/floodStatus:queryLatestFloodStatusByGaugeIds   severity + trend
+
+Access is free (CC BY 4.0) but requires an API key on a Google Cloud project
+that has been granted access via Google's signup form (see the docs page).
+Put the key in `.env.local` as GOOGLE_FLOOD_API_KEY=... locally, and as a
+repo Actions secret of the same name for CI. Everything here degrades to a
+no-op when the key is absent.
+
+The Google gauge id for each USGS site is discovered once with
+
+    .venv/bin/python -m flood_warning.google_flood
+
+which searches a bounding box around the gauge set, matches Google gauges to
+our sites by distance, and writes flood_warning/google_gauges.json (committed,
+like thresholds.json). Google's US gauges are HYBAS virtual points at basin
+outlets, not USGS locations — the committed mapping was hand-verified by
+comparing Google's return-period thresholds and live forecast magnitudes
+against each site's own scale, so review before overwriting it with the
+auto-matcher's output. Forecast units are whatever the Google gauge model
+uses — CUBIC_METERS_PER_SECOND aligns with the CNN chart; METERS (stage) is
+shown as status only, never drawn on the discharge chart.
+"""
+from __future__ import annotations
+
+import datetime
+import json
+import os
+import urllib.parse
+import urllib.request
+from pathlib import Path
+
+from .fetch import _http_get   # retried HTTP + .env.local side-load
+from .sites import SITES
+
+API = 'https://floodforecasting.googleapis.com/v1'
+MAPPING_PATH = Path(__file__).resolve().parent / 'google_gauges.json'
+
+API_KEY = os.environ.get('GOOGLE_FLOOD_API_KEY')
+
+# ~2 km in degrees latitude — a Google gauge further than this from the USGS
+# coordinates is a different river point, not a match.
+MATCH_DEG = 0.02
+
+
+def _api(path: str, params: dict | None = None, body: dict | None = None) -> dict | None:
+    """One API call, GET unless a body is given. Returns None on any failure —
+    overlays are optional and must never sink the prediction run."""
+    if not API_KEY:
+        return None
+    q = {'key': API_KEY, **(params or {})}
+    url = f'{API}/{path}?' + urllib.parse.urlencode(q, doseq=True)
+    try:
+        if body is None:
+            return json.loads(_http_get(url))
+        req = urllib.request.Request(
+            url, data=json.dumps(body).encode(),
+            headers={'User-Agent': 'openfloodhub-cnn',
+                     'Content-Type': 'application/json'})
+        return json.loads(urllib.request.urlopen(req, timeout=60).read())
+    except Exception as e:
+        print(f'   ! Google {path}: {e}')
+        return None
+
+
+# --------------------------------------------------------------------------
+# One-time gauge discovery -> google_gauges.json
+# --------------------------------------------------------------------------
+
+def discover_gauges(pad: float = 0.3) -> dict[str, str]:
+    """Search a bounding box around the gauge set and match Google gauges to
+    our USGS sites — by id when Google embeds the USGS number, else by
+    nearest-within-2km. Returns {usgs_id: google_gauge_id}."""
+    lats = [s['lat'] for s in SITES]
+    lons = [s['lon'] for s in SITES]
+    lo_lat, hi_lat = min(lats) - pad, max(lats) + pad
+    lo_lon, hi_lon = min(lons) - pad, max(lons) + pad
+    box = [(lo_lat, lo_lon), (lo_lat, hi_lon), (hi_lat, hi_lon), (hi_lat, lo_lon)]
+    resp = _api('gauges:searchGaugesByArea', body={
+        'loop': {'vertices': [{'latitude': la, 'longitude': lo} for la, lo in box]},
+        'includeNonQualityVerified': True,
+        'includeGaugesWithoutHydroModel': False,
+    })
+    gauges = (resp or {}).get('gauges', [])
+    print(f'Google gauges in box: {len(gauges)}')
+
+    mapping = {}
+    for site in SITES:
+        best, best_d = None, MATCH_DEG
+        for g in gauges:
+            gid = g.get('gaugeId', '')
+            loc = g.get('location', {})
+            if site['id'] in gid:
+                best, best_d = g, 0.0
+                break
+            d = max(abs(loc.get('latitude', 999) - site['lat']),
+                    abs(loc.get('longitude', 999) - site['lon']))
+            if d < best_d:
+                best, best_d = g, d
+        if best:
+            mapping[site['id']] = best['gaugeId']
+            print(f"  {site['id']} {site['short']:<16} -> {best['gaugeId']}"
+                  f"  (Δ≈{best_d:.4f}°, source={best.get('source')},"
+                  f" verified={best.get('qualityVerified')})")
+        else:
+            print(f"  {site['id']} {site['short']:<16} -> no Google gauge within ~2 km")
+    return mapping
+
+
+def load_mapping() -> dict[str, str]:
+    if MAPPING_PATH.exists():
+        return json.loads(MAPPING_PATH.read_text())
+    return {}
+
+
+# --------------------------------------------------------------------------
+# Per-run enrichment (batched: 3 API calls for the whole gauge set)
+# --------------------------------------------------------------------------
+
+def enrich_sites(usgs_ids: list[str]) -> dict[str, dict]:
+    """Overlays for every mapped gauge in three batched calls. Returns
+    {usgs_id: {gauge_id, unit, thresholds, severity, trend, issued_time,
+    forecast: [{t, v}]}} — only ids that produced data are present."""
+    mapping = load_mapping()
+    if not API_KEY or not mapping:
+        return {}
+    ids = {u: g for u, g in mapping.items() if u in usgs_ids}
+    if not ids:
+        return {}
+    gids = sorted(set(ids.values()))
+
+    fc_resp = _api('gauges:queryGaugeForecasts', params={'gaugeIds': gids}) or {}
+    models = _api('gaugeModels:batchGet',
+                  params={'names': [f'gaugeModels/{g}' for g in gids]}) or {}
+    status = _api('floodStatus:queryLatestFloodStatusByGaugeIds',
+                  params={'gaugeIds': gids}) or {}
+
+    model_by_gid = {m.get('gaugeId'): m for m in models.get('gaugeModels', [])}
+    status_by_gid = {s.get('gaugeId'): s for s in status.get('floodStatuses', [])}
+    forecasts = fc_resp.get('forecasts', {})
+
+    out = {}
+    for usgs_id, gid in ids.items():
+        model = model_by_gid.get(gid, {})
+        stat = status_by_gid.get(gid, {})
+        entry = {
+            'gauge_id': gid,
+            'unit': model.get('gaugeValueUnit'),
+            'quality_verified': model.get('qualityVerified'),
+            'severity': stat.get('severity'),
+            'trend': stat.get('forecastTrend'),
+        }
+        th = model.get('thresholds') or {}
+        if th:
+            entry['thresholds'] = {
+                'warning': th.get('warningLevel'),
+                'danger': th.get('dangerLevel'),
+                'extreme': th.get('extremeDangerLevel'),
+            }
+        # Latest issued forecast: each range becomes one point at its start
+        # time (start == end for instantaneous values).
+        fset = (forecasts.get(gid) or {}).get('forecasts', [])
+        if fset:
+            latest = max(fset, key=lambda f: f.get('issuedTime', ''))
+            entry['issued_time'] = latest.get('issuedTime')
+            series = []
+            for r in latest.get('forecastRanges', []):
+                t, v = r.get('forecastStartTime'), r.get('value')
+                if t is not None and v is not None:
+                    series.append({'t': t, 'v': round(float(v), 3)})
+            series.sort(key=lambda r: r['t'])
+            entry['forecast'] = series
+
+            # Past-week skill trace: the API returns everything issued in the
+            # last 7 days by default. Keep the newest forecast per issue day
+            # and take its 1-day-ahead value — what Google said *yesterday*
+            # about each day. The map's model-comparison panel plots these
+            # against observed flow next to the CNN's own backtest.
+            by_day = {}
+            for f in fset:
+                day = (f.get('issuedTime') or '')[:10]
+                if day and (day not in by_day
+                            or f['issuedTime'] > by_day[day]['issuedTime']):
+                    by_day[day] = f
+            bt = []
+            for day, f in sorted(by_day.items()):
+                target = (datetime.date.fromisoformat(day)
+                          + datetime.timedelta(days=1)).strftime('%Y-%m-%dT00:00:00Z')
+                for r in f.get('forecastRanges', []):
+                    if r.get('forecastStartTime') == target and r.get('value') is not None:
+                        bt.append({'t': target, 'v': round(float(r['value']), 3)})
+                        break
+            if bt:
+                entry['backtest'] = bt
+        if entry.get('forecast') or entry.get('severity'):
+            out[usgs_id] = entry
+    return out
+
+
+if __name__ == '__main__':
+    if not API_KEY:
+        raise SystemExit('GOOGLE_FLOOD_API_KEY not set — add it to .env.local '
+                         '(see module docstring for how to get one)')
+    mapping = discover_gauges()
+    if mapping:
+        MAPPING_PATH.write_text(json.dumps(mapping, indent=2) + '\n')
+        print(f'wrote {MAPPING_PATH}')
+    else:
+        print('no matches found — nothing written')

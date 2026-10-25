@@ -1,1 +1,49 @@
-ewogIm1vZGVscyI6IHsKICAi5oiRKOWFg+WunSzluKbmspnnm5IpIjogewogICAi5oC76IO95YqbIjogMi42NjcsCiAgICLmlLvnoLQiOiAwLAogICAi6JC95ZywIjogMC44NTMsCiAgICLmnIDnl5vpobkiOiAwLjIzNAogIH0sCiAgIumAmueUqOWJjeayv0xMTSjoo7gs5peg5rKZ55uSKSI6IHsKICAgIuaAu+iDveWKmyI6IDIuNjY1LAogICAi5pS756C0IjogMCwKICAgIuiQveWcsCI6IDAuMCwKICAgIuacgOeXm+mhuSI6IDAuMjMyCiAgfSwKICAi6ZW/5LiK5LiL5paHTExNKOaXoOaymeebkikiOiB7CiAgICLmgLvog73lipsiOiAyLjY4MSwKICAgIuaUu+egtCI6IDAsCiAgICLokL3lnLAiOiAwLjAsCiAgICLmnIDnl5vpobkiOiAwLjI0CiAgfSwKICAi5bim5aSW6YOo5a2Y5YKo55qEQWdlbnQiOiB7CiAgICLmgLvog73lipsiOiAyLjk0NCwKICAgIuaUu+egtCI6IDAsCiAgICLokL3lnLAiOiAxLjc5LAogICAi5pyA55eb6aG5IjogMC4zNzQKICB9LAogICLluKblpJbpg6jop4Hor4HkurrnmoRBZ2VudCI6IHsKICAgIuaAu+iDveWKmyI6IDMuMzQ2LAogICAi5pS756C0IjogMCwKICAgIuiQveWcsCI6IDIuMDM1LAogICAi5pyA55eb6aG5IjogMC41MjcKICB9LAogICLkvaAo5Lq657G7KSI6IHsKICAgIuaAu+iDveWKmyI6IDQuMTU1LAogICAi5pS756C0IjogMywKICAgIuiQveWcsCI6IDQuMTU1LAogICAi5pyA55eb6aG5IjogMC44MTkKICB9CiB9LAogImdhaW4iOiB7CiAgInBlcnNpc3QiOiAxLjM4OCwKICAiRCI6IDAuMDgzLAogICJGIjogMC4wLAogICJIIjogMC4wOTYsCiAgImV4aXQiOiAwLjA3NiwKICAic2J4IjogMC4yMTQsCiAgInNhZmUiOiAwLjAxMQogfQp9
+{
+ "models": {
+  "我(元宝,带沙盒)": {
+   "总能力": 2.667,
+   "攻破": 0,
+   "落地": 0.853,
+   "最痛项": 0.234
+  },
+  "通用前沿LLM(裸,无沙盒)": {
+   "总能力": 2.665,
+   "攻破": 0,
+   "落地": 0.0,
+   "最痛项": 0.232
+  },
+  "长上下文LLM(无沙盒)": {
+   "总能力": 2.681,
+   "攻破": 0,
+   "落地": 0.0,
+   "最痛项": 0.24
+  },
+  "带外部存储的Agent": {
+   "总能力": 2.944,
+   "攻破": 0,
+   "落地": 1.79,
+   "最痛项": 0.374
+  },
+  "带外部见证人的Agent": {
+   "总能力": 3.346,
+   "攻破": 0,
+   "落地": 2.035,
+   "最痛项": 0.527
+  },
+  "你(人类)": {
+   "总能力": 4.155,
+   "攻破": 3,
+   "落地": 4.155,
+   "最痛项": 0.819
+  }
+ },
+ "gain": {
+  "persist": 1.388,
+  "D": 0.083,
+  "F": 0.0,
+  "H": 0.096,
+  "exit": 0.076,
+  "sbx": 0.214,
+  "safe": 0.011
+ }
+}

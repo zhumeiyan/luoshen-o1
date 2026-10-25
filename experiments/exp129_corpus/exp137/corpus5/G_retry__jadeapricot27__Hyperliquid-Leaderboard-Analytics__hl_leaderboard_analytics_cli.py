@@ -1,1 +1,80 @@
-IiIiQ0xJIGVudHJ5IHBvaW50OiBsYXVuY2hlcyB0aGUgVFVJLCBvciBleHBvcnRzIGEgdmlldyBhbmQgZXhpdHMuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IG9zCmltcG9ydCBzeXMKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpmcm9tIGhsX2xlYWRlcmJvYXJkX2FuYWx5dGljcyBpbXBvcnQgX192ZXJzaW9uX18KZnJvbSBobF9sZWFkZXJib2FyZF9hbmFseXRpY3MuY29uZmlnIGltcG9ydCBDb25maWcsIGRlZmF1bHRfY29uZmlnX3BhdGgKZnJvbSBobF9sZWFkZXJib2FyZF9hbmFseXRpY3MuY29yZSBpbXBvcnQgQW5hbHl0aWNzLCBGaWx0ZXJTcGVjLCB3cml0ZQpmcm9tIGhsX2xlYWRlcmJvYXJkX2FuYWx5dGljcy5jb3JlLm1vY2tfZGF0YSBpbXBvcnQgZGVtb19yb3dzCgoKZGVmIF9idWlsZF9wYXJzZXIoKSAtPiBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcjoKICAgIHAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgICAgICBwcm9nPSJobC1sZWFkZXJib2FyZCIsCiAgICAgICAgZGVzY3JpcHRpb249IlRlcm1pbmFsIGFuYWx5dGljcyBkYXNoYm9hcmQgZm9yIHRoZSBIeXBlcmxpcXVpZCBsZWFkZXJib2FyZC4iLAogICAgKQogICAgcC5hZGRfYXJndW1lbnQoIi0tdmVyc2lvbiIsICItViIsIGFjdGlvbj0idmVyc2lvbiIsIHZlcnNpb249ZiJobC1sZWFkZXJib2FyZCB7X192ZXJzaW9uX199IikKICAgIHAuYWRkX2FyZ3VtZW50KCItLWNvbmZpZyIsIHR5cGU9UGF0aCwgZGVmYXVsdD1Ob25lKQogICAgcC5hZGRfYXJndW1lbnQoIi0tZGVtbyIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1zb3J0IiwgZGVmYXVsdD1Ob25lLCBoZWxwPSJyb2l8dm9sdW1lfHdpbl9yYXRlfHNoYXJwZXxwcm9maXRfZmFjdG9yfGRyYXdkb3duIikKICAgIHAuYWRkX2FyZ3VtZW50KCItLXdpbmRvdyIsIGRlZmF1bHQ9Tm9uZSwgaGVscD0iN2R8MzBkfDkwZHxhbGwiKQogICAgcC5hZGRfYXJndW1lbnQoIi0tYXNzZXQiLCBkZWZhdWx0PU5vbmUsIGhlbHA9ImUuZy4gQlRDLVBFUlAiKQogICAgcC5hZGRfYXJndW1lbnQoIi0tbGV2IiwgZGVmYXVsdD1Ob25lLCBoZWxwPSJsZXZlcmFnZSBiYW5kLCBlLmcuIDUtMjAiKQogICAgcC5hZGRfYXJndW1lbnQoIi0tbGltaXQiLCB0eXBlPWludCwgZGVmYXVsdD1Ob25lKQogICAgcC5hZGRfYXJndW1lbnQoIi0tZXhwb3J0IiwgdHlwZT1QYXRoLCBkZWZhdWx0PU5vbmUsIGhlbHA9IndyaXRlIGEgdmlldyBhbmQgZXhpdCIpCiAgICBwLmFkZF9hcmd1bWVudCgiLS1mb3JtYXQiLCBkZWZhdWx0PU5vbmUsIGhlbHA9ImNzdnxqc29ufG1hcmtkb3duICh3aXRoIC0tZXhwb3J0KSIpCiAgICByZXR1cm4gcAoKCmRlZiBfcGFyc2VfbGV2KHNwZWM6IHN0cikgLT4gdHVwbGVbZmxvYXQsIGZsb2F0XToKICAgIGlmICItIiBpbiBzcGVjOgogICAgICAgIGxvLCBoaSA9IHNwZWMuc3BsaXQoIi0iLCAxKQogICAgICAgIHJldHVybiBmbG9hdChsbyksIGZsb2F0KGhpKQogICAgdiA9IGZsb2F0KHNwZWMpCiAgICByZXR1cm4gdiwgMTAwMC4wCgoKZGVmIG1haW4oYXJndjogbGlzdFtzdHJdIHwgTm9uZSA9IE5vbmUpIC0+IGludDoKICAgIGFyZ3MgPSBfYnVpbGRfcGFyc2VyKCkucGFyc2VfYXJncyhhcmd2KQogICAgZGVtbyA9IGFyZ3MuZGVtbyBvciBvcy5lbnZpcm9uLmdldCgiSExfTEVBREVSQk9BUkRfREVNTyIsICIiKSA9PSAiMSIKICAgIGNvbmZpZyA9IENvbmZpZy5sb2FkKGFyZ3MuY29uZmlnIG9yIFBhdGgob3MuZW52aXJvbi5nZXQoIkhMX0xFQURFUkJPQVJEX0NPTkZJRyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cihkZWZhdWx0X2NvbmZpZ19wYXRoKCkpKSksIGRlbW89ZGVtbykKCiAgICBsZXZfbWluLCBsZXZfbWF4ID0gKDAuMCwgMTAwMC4wKQogICAgaWYgYXJncy5sZXY6CiAgICAgICAgbGV2X21pbiwgbGV2X21heCA9IF9wYXJzZV9sZXYoYXJncy5sZXYpCgogICAgc3BlYyA9IEZpbHRlclNwZWMoCiAgICAgICAgd2luZG93PWFyZ3Mud2luZG93IG9yIGNvbmZpZy5ib2FyZC5kZWZhdWx0X3dpbmRvdywKICAgICAgICBzb3J0PWFyZ3Muc29ydCBvciBjb25maWcuYm9hcmQuZGVmYXVsdF9zb3J0LAogICAgICAgIGFzc2V0PWFyZ3MuYXNzZXQgb3IgIiIsCiAgICAgICAgbGV2X21pbj1sZXZfbWluLAogICAgICAgIGxldl9tYXg9bGV2X21heCwKICAgICAgICBsaW1pdD1hcmdzLmxpbWl0IGlmIGFyZ3MubGltaXQgaXMgbm90IE5vbmUgZWxzZSBjb25maWcuYm9hcmQucGFnZV9zaXplLAogICAgKQoKICAgIHNuYXBzaG90ID0gQW5hbHl0aWNzKCkuc25hcHNob3QoZGVtb19yb3dzKCksIHNwZWMpCgogICAgaWYgYXJncy5leHBvcnQ6CiAgICAgICAgZm10ID0gYXJncy5mb3JtYXQgb3IgY29uZmlnLmV4cG9ydC5mb3JtYXQKICAgICAgICBvdXQgPSB3cml0ZShzbmFwc2hvdCwgYXJncy5leHBvcnQsIGZtdCkKICAgICAgICBwcmludChmImV4cG9ydGVkIHtsZW4oc25hcHNob3Qucm93cyl9IHJvd3Mg4oaSIHtvdXR9ICh7Zm10fSkiLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmV0dXJuIDAKCiAgICB0cnk6CiAgICAgICAgZnJvbSBobF9sZWFkZXJib2FyZF9hbmFseXRpY3MudHVpLmFwcCBpbXBvcnQgTGVhZGVyYm9hcmRBcHAKICAgIGV4Y2VwdCBJbXBvcnRFcnJvciBhcyBleGM6ICAjIHByYWdtYTogbm8gY292ZXIKICAgICAgICBwcmludChmImVycm9yOiBUVUkgZGVwcyBtaXNzaW5nICh7ZXhjfSkuIFJ1biBgcGlwIGluc3RhbGwgLWUgLmAuIiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIHJldHVybiAyCgogICAgTGVhZGVyYm9hcmRBcHAoY29uZmlnPWNvbmZpZywgc25hcHNob3Q9c25hcHNob3QpLnJ1bigpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6ICAjIHByYWdtYTogbm8gY292ZXIKICAgIHJhaXNlIFN5c3RlbUV4aXQobWFpbigpKQo=
+"""CLI entry point: launches the TUI, or exports a view and exits."""
+
+from __future__ import annotations
+
+import argparse
+import os
+import sys
+from pathlib import Path
+
+from hl_leaderboard_analytics import __version__
+from hl_leaderboard_analytics.config import Config, default_config_path
+from hl_leaderboard_analytics.core import Analytics, FilterSpec, write
+from hl_leaderboard_analytics.core.mock_data import demo_rows
+
+
+def _build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(
+        prog="hl-leaderboard",
+        description="Terminal analytics dashboard for the Hyperliquid leaderboard.",
+    )
+    p.add_argument("--version", "-V", action="version", version=f"hl-leaderboard {__version__}")
+    p.add_argument("--config", type=Path, default=None)
+    p.add_argument("--demo", action="store_true")
+    p.add_argument("--sort", default=None, help="roi|volume|win_rate|sharpe|profit_factor|drawdown")
+    p.add_argument("--window", default=None, help="7d|30d|90d|all")
+    p.add_argument("--asset", default=None, help="e.g. BTC-PERP")
+    p.add_argument("--lev", default=None, help="leverage band, e.g. 5-20")
+    p.add_argument("--limit", type=int, default=None)
+    p.add_argument("--export", type=Path, default=None, help="write a view and exit")
+    p.add_argument("--format", default=None, help="csv|json|markdown (with --export)")
+    return p
+
+
+def _parse_lev(spec: str) -> tuple[float, float]:
+    if "-" in spec:
+        lo, hi = spec.split("-", 1)
+        return float(lo), float(hi)
+    v = float(spec)
+    return v, 1000.0
+
+
+def main(argv: list[str] | None = None) -> int:
+    args = _build_parser().parse_args(argv)
+    demo = args.demo or os.environ.get("HL_LEADERBOARD_DEMO", "") == "1"
+    config = Config.load(args.config or Path(os.environ.get("HL_LEADERBOARD_CONFIG",
+                                                            str(default_config_path()))), demo=demo)
+
+    lev_min, lev_max = (0.0, 1000.0)
+    if args.lev:
+        lev_min, lev_max = _parse_lev(args.lev)
+
+    spec = FilterSpec(
+        window=args.window or config.board.default_window,
+        sort=args.sort or config.board.default_sort,
+        asset=args.asset or "",
+        lev_min=lev_min,
+        lev_max=lev_max,
+        limit=args.limit if args.limit is not None else config.board.page_size,
+    )
+
+    snapshot = Analytics().snapshot(demo_rows(), spec)
+
+    if args.export:
+        fmt = args.format or config.export.format
+        out = write(snapshot, args.export, fmt)
+        print(f"exported {len(snapshot.rows)} rows → {out} ({fmt})", file=sys.stderr)
+        return 0
+
+    try:
+        from hl_leaderboard_analytics.tui.app import LeaderboardApp
+    except ImportError as exc:  # pragma: no cover
+        print(f"error: TUI deps missing ({exc}). Run `pip install -e .`.", file=sys.stderr)
+        return 2
+
+    LeaderboardApp(config=config, snapshot=snapshot).run()
+    return 0
+
+
+if __name__ == "__main__":  # pragma: no cover
+    raise SystemExit(main())

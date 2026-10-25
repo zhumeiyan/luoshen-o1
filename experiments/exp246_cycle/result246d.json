@@ -1,1 +1,247 @@
-ewogImM9MC4wIjogewogICLmgLvog73lipsiOiAzLjQ5LAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwCiB9LAogImM9MC4xIjogewogICLmgLvog73lipsiOiAzLjQ5LAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwCiB9LAogImM9MC4yIjogewogICLmgLvog73lipsiOiAzLjQ5LAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwCiB9LAogImM9MC4zIjogewogICLmgLvog73lipsiOiAzLjQ5MiwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMAogfSwKICJjPTAuNSI6IHsKICAi5oC76IO95YqbIjogMy40OTUsCiAgIuaUu+egtCI6IDQsCiAgIua1qui0uSI6IDIsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAiYz0wLjciOiB7CiAgIuaAu+iDveWKmyI6IDMuNTMyLAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwCiB9LAogImM9MC45IjogewogICLmgLvog73lipsiOiAzLjU0MSwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMAogfSwKICJjPTEuMCI6IHsKICAi5oC76IO95YqbIjogMy41NDYsCiAgIuaUu+egtCI6IDQsCiAgIua1qui0uSI6IDIsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAic2F0PTAuMDAiOiB7CiAgIuaAu+iDveWKmyI6IDMuNjAyLAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwCiB9LAogInNhdD0wLjEwIjogewogICLmgLvog73lipsiOiAzLjU2NCwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMAogfSwKICJzYXQ9MC4yMCI6IHsKICAi5oC76IO95YqbIjogMy41MzIsCiAgIuaUu+egtCI6IDQsCiAgIua1qui0uSI6IDIsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAic2F0PTAuMzAiOiB7CiAgIuaAu+iDveWKmyI6IDMuNDkyLAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwCiB9LAogInNhdD0wLjQwIjogewogICLmgLvog73lipsiOiAzLjQ1MywKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMAogfSwKICJzYXQ9MC41MCI6IHsKICAi5oC76IO95YqbIjogMy40MywKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMAogfSwKICJzYXQ9MC43MCI6IHsKICAi5oC76IO95YqbIjogMy41LAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAxCiB9LAogInNhdD0wLjkwIjogewogICLmgLvog73lipsiOiAzLjUzNCwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMwogfSwKICJsZWFybj0wLjAiOiB7CiAgIuaAu+iDveWKmyI6IDMuMjM0LAogICLmlLvnoLQiOiAwLAogICLmtarotLkiOiAwLAogICLmjaLmlrnlkJEiOiAwCiB9LAogImxlYXJuPTAuMSI6IHsKICAi5oC76IO95YqbIjogMy42ODUsCiAgIuaUu+egtCI6IDQsCiAgIua1qui0uSI6IDIsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAibGVhcm49MC4yIjogewogICLmgLvog73lipsiOiAzLjY0NiwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMAogfSwKICJsZWFybj0wLjMiOiB7CiAgIuaAu+iDveWKmyI6IDMuNDk1LAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwCiB9LAogImxlYXJuPTAuNCI6IHsKICAi5oC76IO95YqbIjogMy40OTUsCiAgIuaUu+egtCI6IDQsCiAgIua1qui0uSI6IDIsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAibGVhcm49MC41IjogewogICLmgLvog73lipsiOiAzLjQ5NSwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMAogfSwKICJsZWFybj0wLjciOiB7CiAgIuaAu+iDveWKmyI6IDMuNDk1LAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwCiB9LAogImxlYXJuPTAuOSI6IHsKICAi5oC76IO95YqbIjogMy40OTUsCiAgIuaUu+egtCI6IDQsCiAgIua1qui0uSI6IDIsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAibGVhcm49MS4wIjogewogICLmgLvog73lipsiOiAzLjQ5NSwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMAogfSwKICJtb2RlX2N5Y2xlIjogewogICLmgLvog73lipsiOiAzLjQ5MiwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMCwKICAidGFnIjogIuS9oOeahOW+queOryIKIH0sCiAibW9kZV93ZWFrIjogewogICLmgLvog73lipsiOiAzLjQ5MiwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMCwKICAidGFnIjogIue6r+aUu+W8semhuSIKIH0sCiAibW9kZV9zdHJvbmciOiB7CiAgIuaAu+iDveWKmyI6IDMuNTY5LAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwLAogICJ0YWciOiAi57qv5pS75by66aG5IgogfSwKICJyZW9yaWVudD1UcnVlIjogewogICLmgLvog73lipsiOiAzLjQ5MiwKICAi5pS756C0IjogNCwKICAi5rWq6LS5IjogMiwKICAi5o2i5pa55ZCRIjogMCwKICAidGFnIjogIuacieaNouaWueWQkSIKIH0sCiAicmVvcmllbnQ9RmFsc2UiOiB7CiAgIuaAu+iDveWKmyI6IDMuNDI1LAogICLmlLvnoLQiOiA0LAogICLmtarotLkiOiAyLAogICLmjaLmlrnlkJEiOiAwLAogICJ0YWciOiAi5peg5o2i5pa55ZCRIgogfSwKICJUPTMwIjogewogICJjeWNsZSI6IDMuMTY0LAogICJ3ZWFrIjogMy4xNjQsCiAgInN0cm9uZyI6IDIuODgKIH0sCiAiVD02MCI6IHsKICAiY3ljbGUiOiAzLjQyMywKICAid2VhayI6IDMuNDIzLAogICJzdHJvbmciOiAzLjI5NwogfSwKICJUPTEyMCI6IHsKICAiY3ljbGUiOiAzLjQ5MiwKICAid2VhayI6IDMuNDkyLAogICJzdHJvbmciOiAzLjU2OQogfSwKICJUPTI1MCI6IHsKICAiY3ljbGUiOiAzLjU2OCwKICAid2VhayI6IDMuNTY4LAogICJzdHJvbmciOiAzLjYyMwogfSwKICJUPTUwMCI6IHsKICAiY3ljbGUiOiAzLjU5OSwKICAid2VhayI6IDMuNTk5LAogICJzdHJvbmciOiAzLjY1MwogfSwKICJUPTEwMDAiOiB7CiAgImN5Y2xlIjogMy44NjIsCiAgIndlYWsiOiAzLjg2MiwKICAic3Ryb25nIjogMy44NDkKIH0sCiAidGhldGE9MC4zMCI6IHsKICAi5oC76IO95YqbIjogMy4xMTksCiAgIuaUu+egtCI6IDIsCiAgIua1qui0uSI6IDAsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAidGhldGE9MC40NSI6IHsKICAi5oC76IO95YqbIjogMy4zMjcsCiAgIuaUu+egtCI6IDMsCiAgIua1qui0uSI6IDEsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAidGhldGE9MC42MCI6IHsKICAi5oC76IO95YqbIjogMy40OTIsCiAgIuaUu+egtCI6IDQsCiAgIua1qui0uSI6IDIsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAidGhldGE9MC43NSI6IHsKICAi5oC76IO95YqbIjogMy40NzYsCiAgIuaUu+egtCI6IDMsCiAgIua1qui0uSI6IDMsCiAgIuaNouaWueWQkSI6IDAKIH0sCiAidGhldGE9MC45MCI6IHsKICAi5oC76IO95YqbIjogMy4yNzUsCiAgIuaUu+egtCI6IDEsCiAgIua1qui0uSI6IDQsCiAgIuaNouaWueWQkSI6IDAKIH0KfQ==
+{
+ "c=0.0": {
+  "总能力": 3.49,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "c=0.1": {
+  "总能力": 3.49,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "c=0.2": {
+  "总能力": 3.49,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "c=0.3": {
+  "总能力": 3.492,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "c=0.5": {
+  "总能力": 3.495,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "c=0.7": {
+  "总能力": 3.532,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "c=0.9": {
+  "总能力": 3.541,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "c=1.0": {
+  "总能力": 3.546,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "sat=0.00": {
+  "总能力": 3.602,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "sat=0.10": {
+  "总能力": 3.564,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "sat=0.20": {
+  "总能力": 3.532,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "sat=0.30": {
+  "总能力": 3.492,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "sat=0.40": {
+  "总能力": 3.453,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "sat=0.50": {
+  "总能力": 3.43,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "sat=0.70": {
+  "总能力": 3.5,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 1
+ },
+ "sat=0.90": {
+  "总能力": 3.534,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 3
+ },
+ "learn=0.0": {
+  "总能力": 3.234,
+  "攻破": 0,
+  "浪费": 0,
+  "换方向": 0
+ },
+ "learn=0.1": {
+  "总能力": 3.685,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "learn=0.2": {
+  "总能力": 3.646,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "learn=0.3": {
+  "总能力": 3.495,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "learn=0.4": {
+  "总能力": 3.495,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "learn=0.5": {
+  "总能力": 3.495,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "learn=0.7": {
+  "总能力": 3.495,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "learn=0.9": {
+  "总能力": 3.495,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "learn=1.0": {
+  "总能力": 3.495,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "mode_cycle": {
+  "总能力": 3.492,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0,
+  "tag": "你的循环"
+ },
+ "mode_weak": {
+  "总能力": 3.492,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0,
+  "tag": "纯攻弱项"
+ },
+ "mode_strong": {
+  "总能力": 3.569,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0,
+  "tag": "纯攻强项"
+ },
+ "reorient=True": {
+  "总能力": 3.492,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0,
+  "tag": "有换方向"
+ },
+ "reorient=False": {
+  "总能力": 3.425,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0,
+  "tag": "无换方向"
+ },
+ "T=30": {
+  "cycle": 3.164,
+  "weak": 3.164,
+  "strong": 2.88
+ },
+ "T=60": {
+  "cycle": 3.423,
+  "weak": 3.423,
+  "strong": 3.297
+ },
+ "T=120": {
+  "cycle": 3.492,
+  "weak": 3.492,
+  "strong": 3.569
+ },
+ "T=250": {
+  "cycle": 3.568,
+  "weak": 3.568,
+  "strong": 3.623
+ },
+ "T=500": {
+  "cycle": 3.599,
+  "weak": 3.599,
+  "strong": 3.653
+ },
+ "T=1000": {
+  "cycle": 3.862,
+  "weak": 3.862,
+  "strong": 3.849
+ },
+ "theta=0.30": {
+  "总能力": 3.119,
+  "攻破": 2,
+  "浪费": 0,
+  "换方向": 0
+ },
+ "theta=0.45": {
+  "总能力": 3.327,
+  "攻破": 3,
+  "浪费": 1,
+  "换方向": 0
+ },
+ "theta=0.60": {
+  "总能力": 3.492,
+  "攻破": 4,
+  "浪费": 2,
+  "换方向": 0
+ },
+ "theta=0.75": {
+  "总能力": 3.476,
+  "攻破": 3,
+  "浪费": 3,
+  "换方向": 0
+ },
+ "theta=0.90": {
+  "总能力": 3.275,
+  "攻破": 1,
+  "浪费": 4,
+  "换方向": 0
+ }
+}

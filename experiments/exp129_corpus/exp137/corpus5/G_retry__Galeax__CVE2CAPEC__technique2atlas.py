@@ -1,1 +1,87 @@
-aW1wb3J0IHN5cwppbXBvcnQganNvbgppbXBvcnQgZ3ppcApmcm9tIGNvbmN1cnJlbnQuZnV0dXJlcyBpbXBvcnQgVGhyZWFkUG9vbEV4ZWN1dG9yLCBhc19jb21wbGV0ZWQKZnJvbSB0cWRtIGltcG9ydCB0cWRtCgoKQVRMQVNfRklMRSA9ICJyZXNvdXJjZXMvYXRsYXNfZGIuanNvbiIKQ1ZFX0ZJTEUgPSAicmVzdWx0cy9uZXdfY3Zlcy5qc29ubCIKCgpkZWYgc2F2ZV9qc29ubChjdmVfdGVjaF9kYXRhKToKICAgIHdpdGggb3BlbihDVkVfRklMRSwgJ3cnKSBhcyBmOgogICAgICAgIGZvciBjdmUsIGRhdGEgaW4gY3ZlX3RlY2hfZGF0YS5pdGVtcygpOgogICAgICAgICAgICBmLndyaXRlKGpzb24uZHVtcHMoe2N2ZTogZGF0YX0pICsgIlxuIikKCiAgICBuZXdfY3ZlcyA9IHt9CgogICAgZm9yIGN2ZSwgZGF0YSBpbiBjdmVfdGVjaF9kYXRhLml0ZW1zKCk6CiAgICAgICAgeWVhciA9IGN2ZS5zcGxpdCgnLScpWzFdCiAgICAgICAgaWYgeWVhciBub3QgaW4gbmV3X2N2ZXM6CiAgICAgICAgICAgIG5ld19jdmVzW3llYXJdID0ge30KICAgICAgICBuZXdfY3Zlc1t5ZWFyXVtjdmVdID0gZGF0YQoKICAgIGZvciB5ZWFyLCBjdmVzIGluIG5ld19jdmVzLml0ZW1zKCk6CiAgICAgICAgY3ZlX2RiID0gbG9hZF9kYl9qc29ubCh5ZWFyKQogICAgICAgIGN2ZV9kYi51cGRhdGUoY3ZlcykKICAgICAgICB3aXRoIGd6aXAub3BlbihmJ2RhdGFiYXNlL0NWRS17eWVhcn0uanNvbmwuZ3onLCAnd3QnLCBlbmNvZGluZz0ndXRmLTgnLCBjb21wcmVzc2xldmVsPTYpIGFzIGY6CiAgICAgICAgICAgIGZvciBjdmUsIGRhdGEgaW4gY3ZlX2RiLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBmLndyaXRlKGpzb24uZHVtcHMoe2N2ZTogZGF0YX0pICsgIlxuIikKCgpkZWYgbG9hZF9kYl9qc29ubChjdmVfeWVhcik6CiAgICBjdmVfZGIgPSB7fQogICAgdHJ5OgogICAgICAgIHdpdGggZ3ppcC5vcGVuKGYnZGF0YWJhc2UvQ1ZFLXtjdmVfeWVhcn0uanNvbmwuZ3onLCAncnQnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgogICAgICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgICAgICAgICAgY3ZlX2VudHJ5ID0ganNvbi5sb2FkcyhsaW5lLnN0cmlwKCkpCiAgICAgICAgICAgICAgICBjdmVfZGIudXBkYXRlKGN2ZV9lbnRyeSkKICAgIGV4Y2VwdCBGaWxlTm90Rm91bmRFcnJvcjoKICAgICAgICBjdmVfZGIgPSB7fQogICAgcmV0dXJuIGN2ZV9kYgoKCmRlZiBwcm9jZXNzX3NpbmdsZV9jdmUoY3ZlLCBhdGxhc19saXN0LCBjdmVfdGVjaF9kYXRhKToKICAgIGF0bGFzX2VudHJpZXMgPSBbXQogICAgc2VlbiA9IHNldCgpCiAgICBmb3IgdGVjaG5pcXVlIGluIGN2ZV90ZWNoX2RhdGFbY3ZlXS5nZXQoIlRFQ0hOSVFVRVMiLCBbXSk6CiAgICAgICAgZW50cmllcyA9IGF0bGFzX2xpc3QuZ2V0KCJUIiArIHRlY2huaXF1ZSwgW10pCiAgICAgICAgZm9yIGVudHJ5IGluIGVudHJpZXM6CiAgICAgICAgICAgIGtleSA9IGVudHJ5LmdldCgiaWQiKQogICAgICAgICAgICBpZiBrZXkgYW5kIGtleSBub3QgaW4gc2VlbjoKICAgICAgICAgICAgICAgIHNlZW4uYWRkKGtleSkKICAgICAgICAgICAgICAgIGF0bGFzX2VudHJpZXMuYXBwZW5kKGVudHJ5KQogICAgcmV0dXJuIGF0bGFzX2VudHJpZXMKCgpkZWYgcHJvY2Vzc190ZWNobmlxdWVzKGN2ZV90ZWNoX2RhdGEsIGF0bGFzX2xpc3QsIGN2ZV95ZWFyKToKICAgIHdpdGggVGhyZWFkUG9vbEV4ZWN1dG9yKCkgYXMgZXhlY3V0b3I6CiAgICAgICAgZnV0dXJlcyA9IHtleGVjdXRvci5zdWJtaXQocHJvY2Vzc19zaW5nbGVfY3ZlLCBjdmUsIGF0bGFzX2xpc3QsIGN2ZV90ZWNoX2RhdGEpOiBjdmUgZm9yIGN2ZSBpbiB0cWRtKGN2ZV90ZWNoX2RhdGEsIGRlc2M9ZiJQcm9jZXNzaW5nIFRFQ0hOSVFVRVMgdG8gQVRMQVMgZm9yIENWRS17Y3ZlX3llYXJ9IiwgdW5pdD0iQ1ZFIil9CiAgICAgICAgZm9yIGZ1dHVyZSBpbiBhc19jb21wbGV0ZWQoZnV0dXJlcyk6CiAgICAgICAgICAgIGN2ZV9yZXN1bHQgPSBmdXR1cmUucmVzdWx0KCkKICAgICAgICAgICAgY3ZlX3RlY2hfZGF0YVtmdXR1cmVzW2Z1dHVyZV1dWyJBVExBUyJdID0gY3ZlX3Jlc3VsdAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBpZiBsZW4oc3lzLmFyZ3YpID09IDI6CiAgICAgICAgZmlsZSA9IHN5cy5hcmd2WzFdCiAgICBlbHNlOgogICAgICAgIGZpbGUgPSBDVkVfRklMRQoKICAgIGN2ZV90ZWNoX2RhdGEgPSB7fQogICAgd2l0aCBvcGVuKGZpbGUsICdyJykgYXMgZjoKICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgICAgICBjdmVfZW50cnkgPSBqc29uLmxvYWRzKGxpbmUuc3RyaXAoKSkKICAgICAgICAgICAgY3ZlX3RlY2hfZGF0YS51cGRhdGUoY3ZlX2VudHJ5KQoKICAgIGlmIGN2ZV90ZWNoX2RhdGE6CiAgICAgICAgd2l0aCBvcGVuKEFUTEFTX0ZJTEUsICdyJykgYXMgZjoKICAgICAgICAgICAgYXRsYXNfbGlzdCA9IGpzb24ubG9hZChmKQoKICAgICAgICBjdmVfeWVhciA9IGxpc3QoY3ZlX3RlY2hfZGF0YS5rZXlzKCkpWzBdLnNwbGl0KCctJylbMV0KCiAgICAgICAgcHJvY2Vzc190ZWNobmlxdWVzKGN2ZV90ZWNoX2RhdGEsIGF0bGFzX2xpc3QsIGN2ZV95ZWFyKQogICAgICAgIHNhdmVfanNvbmwoY3ZlX3RlY2hfZGF0YSkKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoIlstXU5vIG5ldyB2dWxuZXJhYmlsaXRpZXMgZm91bmQiKQo=
+import sys
+import json
+import gzip
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm
+
+
+ATLAS_FILE = "resources/atlas_db.json"
+CVE_FILE = "results/new_cves.jsonl"
+
+
+def save_jsonl(cve_tech_data):
+    with open(CVE_FILE, 'w') as f:
+        for cve, data in cve_tech_data.items():
+            f.write(json.dumps({cve: data}) + "\n")
+
+    new_cves = {}
+
+    for cve, data in cve_tech_data.items():
+        year = cve.split('-')[1]
+        if year not in new_cves:
+            new_cves[year] = {}
+        new_cves[year][cve] = data
+
+    for year, cves in new_cves.items():
+        cve_db = load_db_jsonl(year)
+        cve_db.update(cves)
+        with gzip.open(f'database/CVE-{year}.jsonl.gz', 'wt', encoding='utf-8', compresslevel=6) as f:
+            for cve, data in cve_db.items():
+                f.write(json.dumps({cve: data}) + "\n")
+
+
+def load_db_jsonl(cve_year):
+    cve_db = {}
+    try:
+        with gzip.open(f'database/CVE-{cve_year}.jsonl.gz', 'rt', encoding='utf-8') as f:
+            for line in f:
+                cve_entry = json.loads(line.strip())
+                cve_db.update(cve_entry)
+    except FileNotFoundError:
+        cve_db = {}
+    return cve_db
+
+
+def process_single_cve(cve, atlas_list, cve_tech_data):
+    atlas_entries = []
+    seen = set()
+    for technique in cve_tech_data[cve].get("TECHNIQUES", []):
+        entries = atlas_list.get("T" + technique, [])
+        for entry in entries:
+            key = entry.get("id")
+            if key and key not in seen:
+                seen.add(key)
+                atlas_entries.append(entry)
+    return atlas_entries
+
+
+def process_techniques(cve_tech_data, atlas_list, cve_year):
+    with ThreadPoolExecutor() as executor:
+        futures = {executor.submit(process_single_cve, cve, atlas_list, cve_tech_data): cve for cve in tqdm(cve_tech_data, desc=f"Processing TECHNIQUES to ATLAS for CVE-{cve_year}", unit="CVE")}
+        for future in as_completed(futures):
+            cve_result = future.result()
+            cve_tech_data[futures[future]]["ATLAS"] = cve_result
+
+
+if __name__ == "__main__":
+    if len(sys.argv) == 2:
+        file = sys.argv[1]
+    else:
+        file = CVE_FILE
+
+    cve_tech_data = {}
+    with open(file, 'r') as f:
+        for line in f:
+            cve_entry = json.loads(line.strip())
+            cve_tech_data.update(cve_entry)
+
+    if cve_tech_data:
+        with open(ATLAS_FILE, 'r') as f:
+            atlas_list = json.load(f)
+
+        cve_year = list(cve_tech_data.keys())[0].split('-')[1]
+
+        process_techniques(cve_tech_data, atlas_list, cve_year)
+        save_jsonl(cve_tech_data)
+    else:
+        print("[-]No new vulnerabilities found")

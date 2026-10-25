@@ -1,1 +1,81 @@
-aW1wb3J0IGpzb24sIHJhbmRvbSwgc3RhdGlzdGljcyBhcyBzdAoKTkYgPSAxMwpEID0ganNvbi5sb2FkKG9wZW4oImRhdGExNjcuanNvbiIpKQpyb3dzID0gRFsicm93cyJdCmdyb3VwcyA9IHt9CmZvciByIGluIHJvd3M6CiAgICBncm91cHMuc2V0ZGVmYXVsdCgoclsicm5kIl0sIHJbImNwdSJdLCByWyJpbyJdKSwgW10pLmFwcGVuZChyKQpmb3IgZyBpbiBncm91cHMudmFsdWVzKCk6CiAgICBnLnNvcnQoa2V5PWxhbWJkYSB4OiB4WyJyZXAiXSkKICAgIHByZXYgPSBOb25lCiAgICBmb3IgciBpbiBnOgogICAgICAgIGYgPSByWyJmIl0KICAgICAgICByWyJfeCJdID0gZiArIChbZltpXSAtIHByZXZbaV0gZm9yIGkgaW4gcmFuZ2UoTkYpXSBpZiBwcmV2IGVsc2UgWzAuMF0gKiBORikKICAgICAgICBwcmV2ID0gZgpYID0gW3JbIl94Il0gZm9yIHIgaW4gcm93c10KWSA9IFtyWyJyYXRpbyJdIGZvciByIGluIHJvd3NdCk5QID0gbGVuKFgpOyBORElNID0gbGVuKFhbMF0pCm11ID0gW3N0Lm1lYW4oW1hbaV1bal0gZm9yIGkgaW4gcmFuZ2UoTlApXSkgZm9yIGogaW4gcmFuZ2UoTkRJTSldCnNkID0gW3N0LnBzdGRldihbWFtpXVtqXSBmb3IgaSBpbiByYW5nZShOUCldKSBvciAxLjAgZm9yIGogaW4gcmFuZ2UoTkRJTSldClhzID0gW1soWFtpXVtqXSAtIG11W2pdKSAvIHNkW2pdIGZvciBqIGluIHJhbmdlKE5ESU0pXSBmb3IgaSBpbiByYW5nZShOUCldCgoKZGVmIHFjdXQodmFscywgayk6CiAgICBzdiA9IHNvcnRlZCh2YWxzKQogICAgY3V0cyA9IFtzdltpbnQobGVuKHN2KSAqIHEgLyBrKV0gZm9yIHEgaW4gcmFuZ2UoMSwgayldCiAgICBvID0gW10KICAgIGZvciB2IGluIHZhbHM6CiAgICAgICAgTCA9IDAKICAgICAgICB3aGlsZSBMIDwgbGVuKGN1dHMpIGFuZCB2ID49IGN1dHNbTF06CiAgICAgICAgICAgIEwgKz0gMQogICAgICAgIG8uYXBwZW5kKEwpCiAgICByZXR1cm4gbwoKCmRlZiBuY2EobGFiLCB0ciwgdGUsIGRpbXMpOgogICAgY2VudCA9IHt9CiAgICBmb3IgaSBpbiB0cjoKICAgICAgICBjZW50LnNldGRlZmF1bHQobGFiW2ldLCBbXSkuYXBwZW5kKGkpCiAgICBDID0ge2M6IFtzdC5tZWFuKFtYc1tpXVtkXSBmb3IgaSBpbiBpZHNdKSBmb3IgZCBpbiBkaW1zXSBmb3IgYywgaWRzIGluIGNlbnQuaXRlbXMoKX0KICAgIG9rID0gMAogICAgZm9yIGkgaW4gdGU6CiAgICAgICAgdiA9IFtYc1tpXVtkXSBmb3IgZCBpbiBkaW1zXQogICAgICAgIGIsIGJkID0gTm9uZSwgMWUxOAogICAgICAgIGZvciBjLCBjdiBpbiBDLml0ZW1zKCk6CiAgICAgICAgICAgIGRkID0gc3VtKCh2W3RdIC0gY3ZbdF0pICoqIDIgZm9yIHQgaW4gcmFuZ2UobGVuKGRpbXMpKSkKICAgICAgICAgICAgaWYgZGQgPCBiZDoKICAgICAgICAgICAgICAgIGJkLCBiID0gZGQsIGMKICAgICAgICBvayArPSAoYiA9PSBsYWJbaV0pCiAgICByZXR1cm4gb2sgLyBsZW4odGUpCgoKZGVmIGN2YShsYWIsIGRpbXMsIGZvbGRzPTUsIHNlZWQ9MCk6CiAgICBpZHggPSBsaXN0KHJhbmdlKGxlbihsYWIpKSkKICAgIHJhbmRvbS5SYW5kb20oc2VlZCkuc2h1ZmZsZShpZHgpCiAgICBhID0gW10KICAgIGZvciBmIGluIHJhbmdlKGZvbGRzKToKICAgICAgICB0ZSA9IGlkeFtmOjpmb2xkc10KICAgICAgICB0ciA9IFtpIGZvciBpIGluIGlkeCBpZiBpIG5vdCBpbiBzZXQodGUpXQogICAgICAgIGEuYXBwZW5kKG5jYShsYWIsIHRyLCB0ZSwgZGltcykpCiAgICByZXR1cm4gc3QubWVhbihhKQoKCm91dCA9IHt9CnByaW50KCJrICAgIGQ44oaSZDI2IOWinuebiiAgIOi3qHNlZWTmoIflh4bor68gICDliKTlrpoiKQpmb3IgayBpbiAoNSwgNiwgNywgOCwgOSwgMTAsIDExLCAxMiwgMTQsIDE2KToKICAgIGxhYiA9IHFjdXQoWSwgaykKICAgIGdhaW5zID0gW10KICAgIGZvciBzZWVkIGluICgxMSwgMjMsIDM3LCA1OSwgNzEsIDk3LCAxMzEsIDE2Nyk6CiAgICAgICAgcm5nID0gcmFuZG9tLlJhbmRvbShzZWVkKQogICAgICAgIHN1YiA9IHJuZy5zYW1wbGUocmFuZ2UoTkRJTSksIDI2KQogICAgICAgIGcgPSBjdmEobGFiLCBzdWJbOjI2XSwgc2VlZD1zZWVkKSAtIGN2YShsYWIsIHN1Yls6OF0sIHNlZWQ9c2VlZCkKICAgICAgICBnYWlucy5hcHBlbmQoZykKICAgIG0gPSBzdC5tZWFuKGdhaW5zKQogICAgc2UgPSAoc3QucHN0ZGV2KGdhaW5zKSAvIGxlbihnYWlucykgKiogMC41KSBpZiBsZW4oZ2FpbnMpID4gMSBlbHNlIDAuMAogICAgdmVyZGljdCA9ICLmlLbmlZsiIGlmIG0gPD0gMC4wMTIgZWxzZSAi5LiN5pS25pWbKOWPkeaVoykiCiAgICBvdXRba10gPSB7ImdhaW5fZDhfdG9fZDI2Ijogcm91bmQobSwgNCksICJzZSI6IHJvdW5kKHNlLCA0KSwgInZlcmRpY3QiOiB2ZXJkaWN0fQogICAgcHJpbnQoZiJ7azo8NGR9IHttOisuNGZ9ICAgICAgICDCsXtzZTouNGZ9ICAgICAgIHt2ZXJkaWN0fSIpCgpqc29uLmR1bXAob3V0LCBvcGVuKCJmb2N1c19rLmpzb24iLCAidyIpLCBpbmRlbnQ9MSkKcHJpbnQoIlxuc2F2ZWQgZm9jdXNfay5qc29uIikK
+import json, random, statistics as st
+
+NF = 13
+D = json.load(open("data167.json"))
+rows = D["rows"]
+groups = {}
+for r in rows:
+    groups.setdefault((r["rnd"], r["cpu"], r["io"]), []).append(r)
+for g in groups.values():
+    g.sort(key=lambda x: x["rep"])
+    prev = None
+    for r in g:
+        f = r["f"]
+        r["_x"] = f + ([f[i] - prev[i] for i in range(NF)] if prev else [0.0] * NF)
+        prev = f
+X = [r["_x"] for r in rows]
+Y = [r["ratio"] for r in rows]
+NP = len(X); NDIM = len(X[0])
+mu = [st.mean([X[i][j] for i in range(NP)]) for j in range(NDIM)]
+sd = [st.pstdev([X[i][j] for i in range(NP)]) or 1.0 for j in range(NDIM)]
+Xs = [[(X[i][j] - mu[j]) / sd[j] for j in range(NDIM)] for i in range(NP)]
+
+
+def qcut(vals, k):
+    sv = sorted(vals)
+    cuts = [sv[int(len(sv) * q / k)] for q in range(1, k)]
+    o = []
+    for v in vals:
+        L = 0
+        while L < len(cuts) and v >= cuts[L]:
+            L += 1
+        o.append(L)
+    return o
+
+
+def nca(lab, tr, te, dims):
+    cent = {}
+    for i in tr:
+        cent.setdefault(lab[i], []).append(i)
+    C = {c: [st.mean([Xs[i][d] for i in ids]) for d in dims] for c, ids in cent.items()}
+    ok = 0
+    for i in te:
+        v = [Xs[i][d] for d in dims]
+        b, bd = None, 1e18
+        for c, cv in C.items():
+            dd = sum((v[t] - cv[t]) ** 2 for t in range(len(dims)))
+            if dd < bd:
+                bd, b = dd, c
+        ok += (b == lab[i])
+    return ok / len(te)
+
+
+def cva(lab, dims, folds=5, seed=0):
+    idx = list(range(len(lab)))
+    random.Random(seed).shuffle(idx)
+    a = []
+    for f in range(folds):
+        te = idx[f::folds]
+        tr = [i for i in idx if i not in set(te)]
+        a.append(nca(lab, tr, te, dims))
+    return st.mean(a)
+
+
+out = {}
+print("k    d8→d26 增益   跨seed标准误   判定")
+for k in (5, 6, 7, 8, 9, 10, 11, 12, 14, 16):
+    lab = qcut(Y, k)
+    gains = []
+    for seed in (11, 23, 37, 59, 71, 97, 131, 167):
+        rng = random.Random(seed)
+        sub = rng.sample(range(NDIM), 26)
+        g = cva(lab, sub[:26], seed=seed) - cva(lab, sub[:8], seed=seed)
+        gains.append(g)
+    m = st.mean(gains)
+    se = (st.pstdev(gains) / len(gains) ** 0.5) if len(gains) > 1 else 0.0
+    verdict = "收敛" if m <= 0.012 else "不收敛(发散)"
+    out[k] = {"gain_d8_to_d26": round(m, 4), "se": round(se, 4), "verdict": verdict}
+    print(f"{k:<4d} {m:+.4f}        ±{se:.4f}       {verdict}")
+
+json.dump(out, open("focus_k.json", "w"), indent=1)
+print("\nsaved focus_k.json")

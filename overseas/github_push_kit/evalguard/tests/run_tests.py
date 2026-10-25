@@ -1,1 +1,63 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJaZXJvLWRlcGVuZGVuY3kgdGVzdCBydW5uZXIgKHB5dGVzdCBpcyBub3QgaW5zdGFsbGFibGUgaW4gdGhpcyBzYW5kYm94OgpweXBpLm9yZyByZXR1cm5zIDQwMykuIFNhbWUgYXNzZXJ0aW9ucywgbm8gZnJhbWV3b3JrLiIiIgppbXBvcnQgcGF0aGxpYiwgc3lzCkhFUkUgPSBwYXRobGliLlBhdGgoX19maWxlX18pLnBhcmVudApzeXMucGF0aC5pbnNlcnQoMCwgc3RyKEhFUkUucGFyZW50LnBhcmVudCkpICAgICAgICAgICMgLT4gb3ZlcnNlYXMvCmZyb20gZXZhbGd1YXJkIGltcG9ydCBjbGksIHJ1bGVzCgpQTEFOVEVEID0gKCJFRzAwMSIsIkVHMDAyIiwiRUcwMDMiLCJFRzAwNCIsIkVHMDA1IiwiRUcwMDYiLCJFRzAwNyIsIkVHMDA4IiwKICAgICAgICAgICAiRUcwMDkiLCJFRzAxMSIsIkVHMDEyIiwiRUcwMTMiLCJFRzAxNCIsIkVHMDE1IiwiRUcwMTYiKQpyZXN1bHRzID0gW10KCmRlZiBjaGVjayhuYW1lLCBmbik6CiAgICB0cnk6CiAgICAgICAgZm4oKTsgcmVzdWx0cy5hcHBlbmQoKG5hbWUsICJQQVNTIiwgIiIpKQogICAgZXhjZXB0IEFzc2VydGlvbkVycm9yIGFzIGU6CiAgICAgICAgcmVzdWx0cy5hcHBlbmQoKG5hbWUsICJGQUlMIiwgc3RyKGUpKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXN1bHRzLmFwcGVuZCgobmFtZSwgIkVSUk9SIiwgZiJ7dHlwZShlKS5fX25hbWVfX306IHtlfSIpKQoKZGVmIHNjYW4obik6CiAgICByZXR1cm4ge3JbImVnX2lkIl06IHJbInNldmVyaXR5Il0gZm9yIHIgaW4gY2xpLnNjYW4oc3RyKEhFUkUgLyBuKSl9CgpkZWYgdF9wb3NpdGl2ZSgpOgogICAgaCA9IHNjYW4oInBsYW50ZWRfZXZhbC5weSIpCiAgICBtaXNzaW5nID0gW2UgZm9yIGUgaW4gUExBTlRFRCBpZiBlIG5vdCBpbiBoXQogICAgYXNzZXJ0IG5vdCBtaXNzaW5nLCBmIm1pc3NlZCBwbGFudGVkIGRlZmVjdHM6IHttaXNzaW5nfSIKCmRlZiB0X25lZ2F0aXZlKCk6CiAgICBoID0gc2NhbigiY2xlYW5fZXZhbC5weSIpCiAgICBub2lzeSA9IHtrOiB2IGZvciBrLCB2IGluIGguaXRlbXMoKSBpZiB2IGluICgiYmxvY2tlciIsICJ3YXJuIil9CiAgICBhc3NlcnQgbm9pc3kgPT0ge30sIGYiZmFsc2UgcG9zaXRpdmVzIG9uIGNsZWFuIGNvZGU6IHtub2lzeX0iCgpkZWYgdF9kb3R0ZWQoKToKICAgIHMgPSBydWxlcy5fY29kZV9vbmx5KCJyID0gcmVxdWVzdHMuZ2V0KHUpICAjIGJhc2VsaW5lXG4iKQogICAgYXNzZXJ0ICJyZXF1ZXN0cy5nZXQiIGluIHMsICJkb3R0ZWQgbmFtZSBkZXN0cm95ZWQgYnkgdG9rZW4gam9pbiIKICAgIGFzc2VydCAiYmFzZWxpbmUiIG5vdCBpbiBzLCAiY29tbWVudCBsZWFrZWQgaW50byBjb2RlIHZpZXciCgpkZWYgdF9zdHJpbmdzKCk6CiAgICBhc3NlcnQgImFyY2hpdmVkIiBub3QgaW4gcnVsZXMuX2NvZGVfb25seSgncHJpbnQoInNhdmVkIGFuZCBhcmNoaXZlZCIpXG4nKQoKZGVmIHRfc3ludGF4KCk6CiAgICBhc3NlcnQgYW55KHJbImVnX2lkIl0gPT0gIkVHMDAwIiBmb3IgciBpbiBjbGkuc2NhbihzdHIoSEVSRSAvICJicm9rZW5fc3ludGF4LnB5IikpKQoKZGVmIHRfZXhpdGNvZGUoKToKICAgIGFzc2VydCBjbGkubWFpbihbIi0tZm9ybWF0IiwianNvbiIsc3RyKEhFUkUvInBsYW50ZWRfZXZhbC5weSIpXSkgPT0gMAogICAgYXNzZXJ0IGNsaS5tYWluKFtzdHIoSEVSRS8icGxhbnRlZF9ldmFsLnB5IildKSA9PSAxCiAgICBhc3NlcnQgY2xpLm1haW4oW3N0cihIRVJFLyJjbGVhbl9ldmFsLnB5IildKSA9PSAwCgpmb3IgbiwgZiBpbiBbKCJwb3NpdGl2ZSBjb250cm9sOiBwbGFudGVkIGRlZmVjdHMgY2F1Z2h0IiwgdF9wb3NpdGl2ZSksCiAgICAgICAgICAgICAoIm5lZ2F0aXZlIGNvbnRyb2w6IGNsZWFuIGZpeHR1cmUgc2lsZW50IiwgdF9uZWdhdGl2ZSksCiAgICAgICAgICAgICAoInJlZ3Jlc3Npb246IGRvdHRlZCBuYW1lcyBzdXJ2aXZlIHN0cmlwIiwgdF9kb3R0ZWQpLAogICAgICAgICAgICAgKCJyZWdyZXNzaW9uOiBzdHJpbmdzIHN0cmlwcGVkIiwgdF9zdHJpbmdzKSwKICAgICAgICAgICAgICgic3ludGF4IGVycm9yIHJlcG9ydGVkLCBub3QgY3Jhc2hlZCIsIHRfc3ludGF4KSwKICAgICAgICAgICAgICgiZXhpdCBjb2RlOiAxIG9ubHkgb24gYmxvY2tlciIsIHRfZXhpdGNvZGUpXToKICAgIGNoZWNrKG4sIGYpCgp3ID0gbWF4KGxlbihyWzBdKSBmb3IgciBpbiByZXN1bHRzKQpmb3Igbiwgc3QsIG1zZyBpbiByZXN1bHRzOgogICAgcHJpbnQoZiIgIFt7c3Q6NX1dIHtuOjx7d319ICB7bXNnfSIpCm5wYXNzID0gc3VtKDEgZm9yIHIgaW4gcmVzdWx0cyBpZiByWzFdID09ICJQQVNTIikKcHJpbnQoZiJcbntucGFzc30ve2xlbihyZXN1bHRzKX0gcGFzc2VkIikKc3lzLmV4aXQoMCBpZiBucGFzcyA9PSBsZW4ocmVzdWx0cykgZWxzZSAxKQo=
+#!/usr/bin/env python3
+"""Zero-dependency test runner (pytest is not installable in this sandbox:
+pypi.org returns 403). Same assertions, no framework."""
+import pathlib, sys
+HERE = pathlib.Path(__file__).parent
+sys.path.insert(0, str(HERE.parent.parent))          # -> overseas/
+from evalguard import cli, rules
+
+PLANTED = ("EG001","EG002","EG003","EG004","EG005","EG006","EG007","EG008",
+           "EG009","EG011","EG012","EG013","EG014","EG015","EG016")
+results = []
+
+def check(name, fn):
+    try:
+        fn(); results.append((name, "PASS", ""))
+    except AssertionError as e:
+        results.append((name, "FAIL", str(e)))
+    except Exception as e:
+        results.append((name, "ERROR", f"{type(e).__name__}: {e}"))
+
+def scan(n):
+    return {r["eg_id"]: r["severity"] for r in cli.scan(str(HERE / n))}
+
+def t_positive():
+    h = scan("planted_eval.py")
+    missing = [e for e in PLANTED if e not in h]
+    assert not missing, f"missed planted defects: {missing}"
+
+def t_negative():
+    h = scan("clean_eval.py")
+    noisy = {k: v for k, v in h.items() if v in ("blocker", "warn")}
+    assert noisy == {}, f"false positives on clean code: {noisy}"
+
+def t_dotted():
+    s = rules._code_only("r = requests.get(u)  # baseline\n")
+    assert "requests.get" in s, "dotted name destroyed by token join"
+    assert "baseline" not in s, "comment leaked into code view"
+
+def t_strings():
+    assert "archived" not in rules._code_only('print("saved and archived")\n')
+
+def t_syntax():
+    assert any(r["eg_id"] == "EG000" for r in cli.scan(str(HERE / "broken_syntax.py")))
+
+def t_exitcode():
+    assert cli.main(["--format","json",str(HERE/"planted_eval.py")]) == 0
+    assert cli.main([str(HERE/"planted_eval.py")]) == 1
+    assert cli.main([str(HERE/"clean_eval.py")]) == 0
+
+for n, f in [("positive control: planted defects caught", t_positive),
+             ("negative control: clean fixture silent", t_negative),
+             ("regression: dotted names survive strip", t_dotted),
+             ("regression: strings stripped", t_strings),
+             ("syntax error reported, not crashed", t_syntax),
+             ("exit code: 1 only on blocker", t_exitcode)]:
+    check(n, f)
+
+w = max(len(r[0]) for r in results)
+for n, st, msg in results:
+    print(f"  [{st:5}] {n:<{w}}  {msg}")
+npass = sum(1 for r in results if r[1] == "PASS")
+print(f"\n{npass}/{len(results)} passed")
+sys.exit(0 if npass == len(results) else 1)

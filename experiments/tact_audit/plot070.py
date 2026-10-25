@@ -1,1 +1,72 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXT1bIldlblF1YW5ZaSBNaWNybyBIZWkiXQpwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdPUZhbHNlCgpyNzA9anNvbi5sb2FkKG9wZW4oInJlc3VsdF8wNzAuanNvbiIsZW5jb2Rpbmc9InV0Zi04IikpCnI3MGI9anNvbi5sb2FkKG9wZW4oInJlc3VsdF8wNzBiLmpzb24iLGVuY29kaW5nPSJ1dGYtOCIpKQpyNzBkPWpzb24ubG9hZChvcGVuKCJyZXN1bHRfMDcwZC5qc29uIixlbmNvZGluZz0idXRmLTgiKSkKCmZpZyxheD1wbHQuc3VicGxvdHMoMiwyLGZpZ3NpemU9KDEzLDkpKQoKIyAoMSkg5LiJ5p2h5Lu25LiL5LiJ6L205Y+s5ZueICsg6IGU5ZCICmF4MD1heFswLDBdCmNvbmRzPVsi5Y6f5paHIiwi5ZCM5LmJ5pS55YaZIiwi5qCH54K55omw5YqoKOaXoOWFs+WvueeFpykiXQpheGVzPVsiTCIsIk0iLCJQIl0Kdz0wLjIKZm9yIGksYyBpbiBlbnVtZXJhdGUoY29uZHMpOgogICAgdmFscz1bcjcwW2NdW2FdWzBdIGZvciBhIGluIGF4ZXNdCiAgICB4cz1baisoaS0xKSp3IGZvciBqIGluIHJhbmdlKDMpXQogICAgYXgwLmJhcih4cyx2YWxzLHcsbGFiZWw9YykKZm9yIGksYyBpbiBlbnVtZXJhdGUoY29uZHMpOgogICAgZT1yNzBbY11bImV4YWN0Il07IHJhdGU9ZVswXS9lWzFdKjEwMAogICAgYXgwLnRleHQoMysoaS0xKSp3LHJhdGUrMS41LGYie3JhdGU6LjFmfSIsaGE9ImNlbnRlciIsZm9udHNpemU9OSkKICAgIGF4MC5iYXIoMysoaS0xKSp3LHJhdGUsdykKYXgwLnNldF94dGlja3MocmFuZ2UoNCkpOyBheDAuc2V0X3h0aWNrbGFiZWxzKFsiTCDovbTlj6zlm54iLCJNIOi9tOWPrOWbniIsIlAg6L205Y+s5ZueIiwi5LiJ6L205a6M5YWo5Yy56YWNIl0pCmF4MC5zZXRfeWxhYmVsKCIlIik7IGF4MC5zZXRfeWxpbSgwLDEwNSkKYXgwLnNldF90aXRsZSgi4pGgIOWQjOS5ieaUueWGme+8muWPrOWbnueOh+W9kumbtu+8jOagh+eCueaJsOWKqOmbtuaViOW6lCIsZm9udHNpemU9MTEpCmF4MC5sZWdlbmQoZm9udHNpemU9OCk7IGF4MC5ncmlkKGF4aXM9InkiLGFscGhhPS4zKQoKIyAoMikg6YCQ5p2h54us56uL5pWI5bqUCmF4MT1heFsxLDBdCnJvd3M9cjcwYlsicm93cyJdCmlkcz1bclsiaWQiXS5yZXBsYWNlKCJDQUwtIiwiIikgZm9yIHIgaW4gcm93c10KYmVmPVsxIGlmIHJbImJlZm9yZSJdPT0iT0siIGVsc2UgMCBmb3IgciBpbiByb3dzXQphZnQ9WzEgaWYgclsiYWZ0ZXIiXT09Ik9LIiBlbHNlIDAgZm9yIHIgaW4gcm93c10KaW1wb3J0IG51bXB5IGFzIG5wCng9bnAuYXJhbmdlKGxlbihpZHMpKQpheDEuYmFyKHgtMC4yLGJlZiwwLjQsbGFiZWw9IuWOn+aWh+WIpOWumiBPSyIsY29sb3I9IiM0QzcyQjAiKQpheDEuYmFyKHgrMC4yLGFmdCwwLjQsbGFiZWw9IuS7heaUueivpeadoeWQjiBPSyIsY29sb3I9IiNDNDRFNTIiKQpheDEuc2V0X3h0aWNrcyh4KTsgYXgxLnNldF94dGlja2xhYmVscyhpZHMscm90YXRpb249NjAsZm9udHNpemU9NykKYXgxLnNldF95dGlja3MoWzAsMV0pOyBheDEuc2V0X3l0aWNrbGFiZWxzKFsi5ryP5qOAIiwiT0siXSkKYXgxLnNldF90aXRsZSgi4pGhIOmAkOadoeeLrOeri++8mjEyIOadoee/u+i9rO+8jOW5uOWtmCAyIOadoeaYryBnb2xkZW4g5YWo56m6Iixmb250c2l6ZT0xMSkKYXgxLmxlZ2VuZChmb250c2l6ZT04KTsgYXgxLmdyaWQoYXhpcz0ieSIsYWxwaGE9LjMpCgojICgzKSDliYLph48t5Y+N5bqUCmF4Mj1heFswLDFdCmZkPXI3MGRbImZpeGVkX2Rlbm9taW5hdG9yIl0Ka3M9W2ZbImsiXSBmb3IgZiBpbiBmZF07IHJyPVtmWyJyYXRlIl0gZm9yIGYgaW4gZmRdCmF4Mi5wbG90KGtzLHJyLCJvLSIsY29sb3I9IiNDNDRFNTIiLGx3PTIsbGFiZWw9IuWbuuWumuWIhuavjShuPTEyKSIpCmFnZz1yNzBkLmdldCgiYWdncmVnYXRlIixbXSkKYXgyLnBsb3QoW2FbImsiXSBmb3IgYSBpbiBhZ2ddLFthWyJyYXRlIl0gZm9yIGEgaW4gYWdnIGlmIGFbInJhdGUiXSBpcyBub3QgTm9uZV0sCiAgICAgICAgICJzLS0iLGNvbG9yPSJncmF5IixhbHBoYT0uNixsYWJlbD0i5YiG5q+N6ZqPIGsg57yp5bCPKOacieWBjykiKQpheDIuYXhobGluZSgwLjE2NjcsbHM9IjoiLGNvbG9yPSJiIixhbHBoYT0uNSkKYXgyLnNldF94bGFiZWwoIue0r+enr+abv+aNoueahOivreS5ieetieS7t+WFs+mUruivjeaVsCBrIik7IGF4Mi5zZXRfeWxhYmVsKCLnv7vovaznjociKQpheDIuc2V0X3lsaW0oMCwxLjA1KTsgYXgyLnNldF90aXRsZSgi4pGiIOWJgumHjy3lj43lupTvvJprPTYg5pe2IDEyLzEyIOWFqOmDqOe/u+i9rCIsZm9udHNpemU9MTEpCmF4Mi5sZWdlbmQoZm9udHNpemU9OCk7IGF4Mi5ncmlkKGFscGhhPS4zKQoKIyAoNCkg57+76L2s5omA6ZyA5pyA5bCR5pu/5o2i5pWwCmF4Mz1heFsxLDFdCm5zPVtuWyJmaXJzdCJdIGlmIG5bImZpcnN0Il0gZWxzZSBuWyJLIl0gZm9yIG4gaW4gcjcwZFsicGVyX2Nhc2UiXV0KYXgzLmhpc3QobnMsYmlucz1yYW5nZSgxLDgpLGFsaWduPSJsZWZ0Iixjb2xvcj0iIzU1QTg2OCIsZWRnZWNvbG9yPSJrIikKYXgzLmF4dmxpbmUoc3VtKG5zKS9sZW4obnMpLGNvbG9yPSJyIixscz0iLS0iLGxhYmVsPWYi5Z2H5YC8IHtzdW0obnMpL2xlbihucyk6LjJmfSIpCmF4My5zZXRfeGxhYmVsKCLor6XmnaHnv7vovazmiYDpnIDnmoTmnIDlsJHor43mm7/mjaLmlbAiKTsgYXgzLnNldF95bGFiZWwoIuagt+S+i+aVsCIpCmF4My5zZXRfeHRpY2tzKHJhbmdlKDEsOCkpCmF4My5zZXRfdGl0bGUoIuKRoyDmr4/mnaHpg73mnInmnInpmZDpmIjlgLzvvJoxfjYg5Liq6K+NIixmb250c2l6ZT0xMSkKYXgzLmxlZ2VuZChmb250c2l6ZT04KTsgYXgzLmdyaWQoYXhpcz0ieSIsYWxwaGE9LjMpCgpwbHQudGlnaHRfbGF5b3V0KCkKcGx0LnNhdmVmaWcoIjA3MF90YWN0LnBuZyIsZHBpPTEzMCkKcHJpbnQoInNhdmVkIDA3MF90YWN0LnBuZyIpCg==
+# -*- coding: utf-8 -*-
+import json, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+plt.rcParams["font.sans-serif"]=["WenQuanYi Micro Hei"]
+plt.rcParams["axes.unicode_minus"]=False
+
+r70=json.load(open("result_070.json",encoding="utf-8"))
+r70b=json.load(open("result_070b.json",encoding="utf-8"))
+r70d=json.load(open("result_070d.json",encoding="utf-8"))
+
+fig,ax=plt.subplots(2,2,figsize=(13,9))
+
+# (1) 三条件下三轴召回 + 联合
+ax0=ax[0,0]
+conds=["原文","同义改写","标点扰动(无关对照)"]
+axes=["L","M","P"]
+w=0.2
+for i,c in enumerate(conds):
+    vals=[r70[c][a][0] for a in axes]
+    xs=[j+(i-1)*w for j in range(3)]
+    ax0.bar(xs,vals,w,label=c)
+for i,c in enumerate(conds):
+    e=r70[c]["exact"]; rate=e[0]/e[1]*100
+    ax0.text(3+(i-1)*w,rate+1.5,f"{rate:.1f}",ha="center",fontsize=9)
+    ax0.bar(3+(i-1)*w,rate,w)
+ax0.set_xticks(range(4)); ax0.set_xticklabels(["L 轴召回","M 轴召回","P 轴召回","三轴完全匹配"])
+ax0.set_ylabel("%"); ax0.set_ylim(0,105)
+ax0.set_title("① 同义改写：召回率归零，标点扰动零效应",fontsize=11)
+ax0.legend(fontsize=8); ax0.grid(axis="y",alpha=.3)
+
+# (2) 逐条独立效应
+ax1=ax[1,0]
+rows=r70b["rows"]
+ids=[r["id"].replace("CAL-","") for r in rows]
+bef=[1 if r["before"]=="OK" else 0 for r in rows]
+aft=[1 if r["after"]=="OK" else 0 for r in rows]
+import numpy as np
+x=np.arange(len(ids))
+ax1.bar(x-0.2,bef,0.4,label="原文判定 OK",color="#4C72B0")
+ax1.bar(x+0.2,aft,0.4,label="仅改该条后 OK",color="#C44E52")
+ax1.set_xticks(x); ax1.set_xticklabels(ids,rotation=60,fontsize=7)
+ax1.set_yticks([0,1]); ax1.set_yticklabels(["漏检","OK"])
+ax1.set_title("② 逐条独立：12 条翻转，幸存 2 条是 golden 全空",fontsize=11)
+ax1.legend(fontsize=8); ax1.grid(axis="y",alpha=.3)
+
+# (3) 剂量-反应
+ax2=ax[0,1]
+fd=r70d["fixed_denominator"]
+ks=[f["k"] for f in fd]; rr=[f["rate"] for f in fd]
+ax2.plot(ks,rr,"o-",color="#C44E52",lw=2,label="固定分母(n=12)")
+agg=r70d.get("aggregate",[])
+ax2.plot([a["k"] for a in agg],[a["rate"] for a in agg if a["rate"] is not None],
+         "s--",color="gray",alpha=.6,label="分母随 k 缩小(有偏)")
+ax2.axhline(0.1667,ls=":",color="b",alpha=.5)
+ax2.set_xlabel("累积替换的语义等价关键词数 k"); ax2.set_ylabel("翻转率")
+ax2.set_ylim(0,1.05); ax2.set_title("③ 剂量-反应：k=6 时 12/12 全部翻转",fontsize=11)
+ax2.legend(fontsize=8); ax2.grid(alpha=.3)
+
+# (4) 翻转所需最少替换数
+ax3=ax[1,1]
+ns=[n["first"] if n["first"] else n["K"] for n in r70d["per_case"]]
+ax3.hist(ns,bins=range(1,8),align="left",color="#55A868",edgecolor="k")
+ax3.axvline(sum(ns)/len(ns),color="r",ls="--",label=f"均值 {sum(ns)/len(ns):.2f}")
+ax3.set_xlabel("该条翻转所需的最少词替换数"); ax3.set_ylabel("样例数")
+ax3.set_xticks(range(1,8))
+ax3.set_title("④ 每条都有有限阈值：1~6 个词",fontsize=11)
+ax3.legend(fontsize=8); ax3.grid(axis="y",alpha=.3)
+
+plt.tight_layout()
+plt.savefig("070_tact.png",dpi=130)
+print("saved 070_tact.png")

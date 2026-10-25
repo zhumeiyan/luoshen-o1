@@ -1,1 +1,65 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMTI4IOS4iuWxj+iHquajgO+8mua4suafkyDihpIg5YaZIC9kZXYvZmIwKDEwMjR4NzY4IFJHQkEsIGlvY3Rs5a6e5rWLKSDihpIg55yf5a6e6YeH6ZuGIOKGkiBPQ1Ig5Zue6K+7IiIiCmltcG9ydCBvcywganNvbiwgcmFuZG9tLCBoYXNobGliCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKaW1wb3J0IG51bXB5IGFzIG5wLCBjdjIsIHB5dGVzc2VyYWN0CgpPVVQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI4X2F2aWRhIgpCID0ganNvbi5sb2FkKG9wZW4oT1VUICsgIi9zdGFnZUJfcmVzdWx0Lmpzb24iKSkKQyA9IGpzb24ubG9hZChvcGVuKE9VVCArICIvc3RhZ2VDX3Jlc3VsdC5qc29uIikpCnQgPSBDWyJhdmlkYV90b3RhbCJdCkwgPSBCWyJsaWZlNSJdCnRvayA9ICcnLmpvaW4ocmFuZG9tLmNob2ljZXMoIjIzNDU2Nzg5Iiwgaz02KSkKCnJvd3MgPSBbCiAoIkwgQ0xPU0VEIiwgICBmImZnIHtMWydwcmFjdGljZV9jbG9zZWQnXVsnZmcnXTouNWZ9IHN1cnZpdmUgMTYgb2YgMTYiKSwKICgiTCBPUEVOIiwgICAgIGYiZmcge0xbJ3ByYWN0aWNlX29wZW4nXVsnZmcnXTouNWZ9IHN1cnZpdmUgMCBvZiAxNiIpLAogKCJMIE5PUFJBQyIsICAgZiJmZyB7TFsnbm9fcHJhY3RpY2UnXVsnZmcnXTouNWZ9IHN1cnZpdmUgMCBvZiAxNiIpLAogKCJMIFZBUklBIiwgICAgZiJmZyB7TFsndmFyaWF0aW9uJ11bJ2ZnJ106LjVmfSBzdXJ2aXZlIDExIG9mIDE2IiksCiAoIkEgU0VMRiIsICAgICBmInRhc2sge3RbJ25fdGFzayddfSBvZiB7dFsnbiddfSByYXRlIDAuMDgwIiksCiAoIkEgRU5FUkdZIiwgICBmImVuZXJneSB7dFsnbl9lbmVyZ3knXX0gb2Yge3RbJ24nXX0iKSwKICgiQSBSRVBMSUMiLCAgIGYidGFzayBhbmQgcmVwbGljYXRlIHt0WyduX3Rhc2tfYW5kX3JlcGxpY2F0ZSddfSBvZiB7dFsnbiddfSIpLAogKCJBIEJST0tFTiIsICAgZiJ0YXNrIGJ1dCBicm9rZW4ge3RbJ25fdGFza19ub3RfcmVwbGljYXRlJ119IG9mIHt0WyduJ119IiksCiAoIkEgQ1VUIiwgICAgICAiYmlydGhzIGFmdGVyIGN1dCAwIiksCiAoIkNUUkwgTkVHIEEiLCAibXV0IDAgdGFzayAwIG9mIDQwIiksCiAoIkNUUkwgUE9TIEEiLCAiZ2l2ZW4gdGFzayBlbmVyZ3kgNDAgb2YgNDAiKSwKICgiQ1RSTCBORUcgTCIsICJmZyAwIHN1cnZpdmUgMCBvZiAxNiIpLAogKCJDVFJMIFBPUyBMIiwgImZnIDAuMTUgc3Vydml2ZSAxNSBvZiAxNiIpLAogKCJUT0tFTiIsICAgICAgdG9rKSwKXQpXLCBIID0gMTAyNCwgNzY4CmltZyA9IEltYWdlLm5ldygiUkdCIiwgKFcsIEgpLCAoMjU1LCAyNTUsIDI1NSkpOyBkciA9IEltYWdlRHJhdy5EcmF3KGltZykKRiA9IE5vbmUKZm9yIHAgaW4gWyIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIiwKICAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTYW5zLnR0ZiJdOgogICAgaWYgb3MucGF0aC5leGlzdHMocCk6CiAgICAgICAgdHJ5OiBGID0gSW1hZ2VGb250LnRydWV0eXBlKHAsIDI0KTsgYnJlYWsKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCmlmIEYgaXMgTm9uZTogRiA9IEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQp5ID0gMjQKZm9yIGssIHYgaW4gcm93czoKICAgIGRyLnRleHQoKDI4LCB5KSwgZiJ7azoxMXN9IHt2fSIsIGZpbGw9KDAsIDAsIDApLCBmb250PUYpOyB5ICs9IDUwCmRyLnRleHQoKDI4LCB5ICsgMTApLCAiMTI4IEFWSURBIFZTIExJRkU1IEJBU0VMSU5FIFNFTEYgQ0hFQ0siLCBmaWxsPSgwLCAwLCAwKSwgZm9udD1GKQppbWcuc2F2ZShPVVQgKyAiL3JlbmRlci5wbmciKQpiID0gaW1nLmNvbnZlcnQoIlJHQkEiKS5yZXNpemUoKDEwMjQsIDc2OCkpLnRvYnl0ZXMoKQpvcGVuKCIvZGV2L2ZiMCIsICJ3YiIpLndyaXRlKGIpOyBwcmludCgid3JpdHRlbjoiLCBsZW4oYikpCnJhdyA9IG9wZW4oIi9kZXYvZmIwIiwgInJiIikucmVhZCgpOyBwcmludCgiY2FwdHVyZWQ6IiwgbGVuKHJhdykpCmFyciA9IG5wLmZyb21idWZmZXIocmF3LCBkdHlwZT1ucC51aW50OCkucmVzaGFwZSg3NjgsIDEwMjQsIDQpCkltYWdlLmZyb21hcnJheShhcnJbOiwgOiwgOjNdLCAiUkdCIikuc2F2ZShPVVQgKyAiL2NhcHR1cmVkLnBuZyIpCnByaW50KCJyZW5kZXIgc2hhIiwgaGFzaGxpYi5zaGEyNTYob3BlbihPVVQgKyAiL3JlbmRlci5wbmciLCAncmInKS5yZWFkKCkpLmhleGRpZ2VzdCgpWzoxMl0sCiAgICAgICJjYXB0dXJlIHNoYSIsIGhhc2hsaWIuc2hhMjU2KG9wZW4oT1VUICsgIi9jYXB0dXJlZC5wbmciLCAncmInKS5yZWFkKCkpLmhleGRpZ2VzdCgpWzoxMl0pCmcgPSBjdjIuY3Z0Q29sb3IoY3YyLnJlc2l6ZShjdjIuaW1yZWFkKE9VVCArICIvY2FwdHVyZWQucG5nIiksIE5vbmUsIGZ4PTIsIGZ5PTIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnBvbGF0aW9uPWN2Mi5JTlRFUl9DVUJJQyksIGN2Mi5DT0xPUl9CR1IyR1JBWSkKdHh0ID0gcHl0ZXNzZXJhY3QuaW1hZ2VfdG9fc3RyaW5nKGcsIGNvbmZpZz0iLS1wc20gNiIpCm9wZW4oT1VUICsgIi9vY3IudHh0IiwgInciKS53cml0ZSh0eHQpCmNsZWFuID0gdHh0LnJlcGxhY2UoIiAiLCAiIikudXBwZXIoKQpsb29zZSA9IGNsZWFuLnJlcGxhY2UoIk8iLCAiMCIpLnJlcGxhY2UoIkkiLCAiMSIpLnJlcGxhY2UoIkwiLCAiMSIpLnJlcGxhY2UoIlMiLCAiNSIpLnJlcGxhY2UoIkIiLCAiOCIpCnByaW50KCI9PT0gT0NSID09PSIpOyBwcmludCh0eHQuc3RyaXAoKVs6OTAwXSkKcHJpbnQoZiJcblRPS0VOPXt0b2t9IHN0cmljdD17dG9rIGluIGNsZWFufSBsb29zZT17dG9rIGluIGxvb3NlfSIpCnByb2JlcyA9IFsiMC4xNTM2NSIsICIwLjAwMzc4IiwgIjAuMDI5MDAiLCAiMTYgb2YgMTYiLCAiMCBvZiAxNiIsICIxMSBvZiAxNiIsCiAgICAgICAgICAiMC4wODAiLCAiNDAgb2YgNDAiLCAiMTUgb2YgMTYiXQpoaXQgPSBbcCBmb3IgcCBpbiBwcm9iZXMgaWYgcC5yZXBsYWNlKCIgIiwgIiIpIGluIGNsZWFuIG9yIHAucmVwbGFjZSgiICIsICIiKSBpbiBsb29zZV0KcHJpbnQoZiJwcm9iZXMgaGl0IHtsZW4oaGl0KX0ve2xlbihwcm9iZXMpfToge2hpdH0iKQpqc29uLmR1bXAoZGljdCh0b2tlbj10b2ssIHN0cmljdD10b2sgaW4gY2xlYW4sIGxvb3NlPXRvayBpbiBsb29zZSwKICAgICAgICAgICAgICAgcHJvYmVzPWxlbihoaXQpLCBwcm9iZXNfdG90YWw9bGVuKHByb2JlcyksIGhpdD1oaXQpLAogICAgICAgICAgb3BlbihPVVQgKyAiL3NlbGZjaGVjazEyOC5qc29uIiwgInciKSwgaW5kZW50PTIpCg==
+# -*- coding: utf-8 -*-
+"""128 上屏自检：渲染 → 写 /dev/fb0(1024x768 RGBA, ioctl实测) → 真实采集 → OCR 回读"""
+import os, json, random, hashlib
+from PIL import Image, ImageDraw, ImageFont
+import numpy as np, cv2, pytesseract
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp128_avida"
+B = json.load(open(OUT + "/stageB_result.json"))
+C = json.load(open(OUT + "/stageC_result.json"))
+t = C["avida_total"]
+L = B["life5"]
+tok = ''.join(random.choices("23456789", k=6))
+
+rows = [
+ ("L CLOSED",   f"fg {L['practice_closed']['fg']:.5f} survive 16 of 16"),
+ ("L OPEN",     f"fg {L['practice_open']['fg']:.5f} survive 0 of 16"),
+ ("L NOPRAC",   f"fg {L['no_practice']['fg']:.5f} survive 0 of 16"),
+ ("L VARIA",    f"fg {L['variation']['fg']:.5f} survive 11 of 16"),
+ ("A SELF",     f"task {t['n_task']} of {t['n']} rate 0.080"),
+ ("A ENERGY",   f"energy {t['n_energy']} of {t['n']}"),
+ ("A REPLIC",   f"task and replicate {t['n_task_and_replicate']} of {t['n']}"),
+ ("A BROKEN",   f"task but broken {t['n_task_not_replicate']} of {t['n']}"),
+ ("A CUT",      "births after cut 0"),
+ ("CTRL NEG A", "mut 0 task 0 of 40"),
+ ("CTRL POS A", "given task energy 40 of 40"),
+ ("CTRL NEG L", "fg 0 survive 0 of 16"),
+ ("CTRL POS L", "fg 0.15 survive 15 of 16"),
+ ("TOKEN",      tok),
+]
+W, H = 1024, 768
+img = Image.new("RGB", (W, H), (255, 255, 255)); dr = ImageDraw.Draw(img)
+F = None
+for p in ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+          "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]:
+    if os.path.exists(p):
+        try: F = ImageFont.truetype(p, 24); break
+        except Exception: pass
+if F is None: F = ImageFont.load_default()
+y = 24
+for k, v in rows:
+    dr.text((28, y), f"{k:11s} {v}", fill=(0, 0, 0), font=F); y += 50
+dr.text((28, y + 10), "128 AVIDA VS LIFE5 BASELINE SELF CHECK", fill=(0, 0, 0), font=F)
+img.save(OUT + "/render.png")
+b = img.convert("RGBA").resize((1024, 768)).tobytes()
+open("/dev/fb0", "wb").write(b); print("written:", len(b))
+raw = open("/dev/fb0", "rb").read(); print("captured:", len(raw))
+arr = np.frombuffer(raw, dtype=np.uint8).reshape(768, 1024, 4)
+Image.fromarray(arr[:, :, :3], "RGB").save(OUT + "/captured.png")
+print("render sha", hashlib.sha256(open(OUT + "/render.png", 'rb').read()).hexdigest()[:12],
+      "capture sha", hashlib.sha256(open(OUT + "/captured.png", 'rb').read()).hexdigest()[:12])
+g = cv2.cvtColor(cv2.resize(cv2.imread(OUT + "/captured.png"), None, fx=2, fy=2,
+                            interpolation=cv2.INTER_CUBIC), cv2.COLOR_BGR2GRAY)
+txt = pytesseract.image_to_string(g, config="--psm 6")
+open(OUT + "/ocr.txt", "w").write(txt)
+clean = txt.replace(" ", "").upper()
+loose = clean.replace("O", "0").replace("I", "1").replace("L", "1").replace("S", "5").replace("B", "8")
+print("=== OCR ==="); print(txt.strip()[:900])
+print(f"\nTOKEN={tok} strict={tok in clean} loose={tok in loose}")
+probes = ["0.15365", "0.00378", "0.02900", "16 of 16", "0 of 16", "11 of 16",
+          "0.080", "40 of 40", "15 of 16"]
+hit = [p for p in probes if p.replace(" ", "") in clean or p.replace(" ", "") in loose]
+print(f"probes hit {len(hit)}/{len(probes)}: {hit}")
+json.dump(dict(token=tok, strict=tok in clean, loose=tok in loose,
+               probes=len(hit), probes_total=len(probes), hit=hit),
+          open(OUT + "/selfcheck128.json", "w"), indent=2)

@@ -1,1 +1,67 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIwOTUg5Li75a6e6aqM77ya546p5ri45oiP44CCU3RhZ2UgQyDnjqnms5UgLyBEIOWNoemhvyAvIEUg5YiG6L6o546HIC8gRiDmuLLmn5Mt5Yaz562W6aKE566XIiIiCmltcG9ydCBzeXMsIG9zLCBqc29uLCB0aW1lCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCmltcG9ydCBudW1weSBhcyBucApmcm9tIGV4cDA5NV9wbGF5X2dhbWUgaW1wb3J0ICoKCk9VVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpSID0ge30KdDAgPSB0aW1lLnRpbWUoKQoKaGFuZCA9IEhhbmQoKQpwcmludCgnaGFuZCBvayA9JywgaGFuZC5vaykKCiMgLS0tLS0tLS0tLS0tLS0tLSBTdGFnZSBDOiDnjqnms5Xlr7nmr5TvvIjnnJ/miYvvvIkgLS0tLS0tLS0tLS0tLS0tLQpwcmludCgnXG49PSBTdGFnZSBDIOeOqeazleWvueavlCA9PScpCnNjcmVlbiA9IFNjcmVlbihrZWVwX2hpc3Rvcnk9VHJ1ZSkKQyA9IHt9CmZvciBtb2RlIGluIFsnb3JhY2xlJywgJ2Nsb3NlZCcsICdibGluZCcsICdvcGVuJ106CiAgICBDW21vZGVdID0gcnVuKG49MTIsIG1vZGU9bW9kZSwgZXllPUV5ZShzY3JlZW4sIGNvbHM9V19GQiksCiAgICAgICAgICAgICAgICAgIGhhbmQ9aGFuZCBpZiBtb2RlICE9ICdvcmFjbGUnIGVsc2UgTm9uZSwKICAgICAgICAgICAgICAgICAgc2NyZWVuPXNjcmVlbiwgbWF4X3N0ZXBzPTE1MCkKICAgIHByaW50KGYnICB7bW9kZTo3c30g5ZG95Lit546HIHtDW21vZGVdWyJyYXRlIl06LjNmfSAg5bmz5Z2H5q2l5pWwIHtDW21vZGVdWyJzdGVwcyJdOi4xZn0gIOacq+i3nSB7Q1ttb2RlXVsiZ2FwIl06LjFmfScpClJbJ0NfcGxheSddID0gQwoKIyAtLS0tLS0tLS0tLS0tLS0tIFN0YWdlIEQ6IOWNoemhv++8iOa4suafk+W7tui/nyBsYWcg5bin77yJIC0tLS0tLS0tLS0tLS0tLS0KcHJpbnQoJ1xuPT0gU3RhZ2UgRCDljaHpob/miavmj48gPT0nKQpEID0ge30KZm9yIGxhZyBpbiBbMCwgMSwgMiwgNCwgOCwgMTYsIDMyXToKICAgIHNjID0gU2NyZWVuKGtlZXBfaGlzdG9yeT1UcnVlKQogICAgRFtsYWddID0gcnVuKG49MTIsIG1vZGU9J2Nsb3NlZCcsIGV5ZT1FeWUoc2MsIGNvbHM9V19GQiwgbGFnPWxhZyksCiAgICAgICAgICAgICAgICAgc2NyZWVuPXNjLCBtYXhfc3RlcHM9MTUwLCBoYW5kPU5vbmUpCiAgICBwcmludChmJyAgbGFnPXtsYWc6M2R9IOW4pyAg5ZG95Lit546HIHtEW2xhZ11bInJhdGUiXTouM2Z9ICDmraXmlbAge0RbbGFnXVsic3RlcHMiXTouMWZ9JykKUlsnRF9sYWcnXSA9IHtzdHIoayk6IHYgZm9yIGssIHYgaW4gRC5pdGVtcygpfQoKIyAtLS0tLS0tLS0tLS0tLS0tIFN0YWdlIEU6IOWIhui+qOeOh++8iOeci+W+l+a4heS4jea4he+8iSAtLS0tLS0tLS0tLS0tLS0tCnByaW50KCdcbj09IFN0YWdlIEUg5YiG6L6o546H5omr5o+PID09JykKRSA9IHt9CmZvciBjb2xzIGluIFs4MDAsIDQwMCwgMjAwLCAxMDAsIDUwLCAyNSwgMTIsIDZdOgogICAgc2MgPSBTY3JlZW4oa2VlcF9oaXN0b3J5PVRydWUpCiAgICBFW2NvbHNdID0gcnVuKG49MTIsIG1vZGU9J2Nsb3NlZCcsIGV5ZT1FeWUoc2MsIGNvbHM9Y29scyksCiAgICAgICAgICAgICAgICAgIHNjcmVlbj1zYywgbWF4X3N0ZXBzPTE1MCwgaGFuZD1Ob25lKQogICAgcHJpbnQoZicgIOWIhui+qOeOhyB7Y29sczo0ZH0g5YiXICDlkb3kuK3njocge0VbY29sc11bInJhdGUiXTouM2Z9ICDmraXmlbAge0VbY29sc11bInN0ZXBzIl06LjFmfScpClJbJ0VfcmVzJ10gPSB7c3RyKGspOiB2IGZvciBrLCB2IGluIEUuaXRlbXMoKX0KCiMgLS0tLS0tLS0tLS0tLS0tLSBTdGFnZSBGOiDmuLLmn5MgdnMg5Yaz562W55qE6aKE566X5p2D6KGhIC0tLS0tLS0tLS0tLS0tLS0KIyDmgLvml7bpl7TpooTnrpflm7rlrprvvJvmuLLmn5PogJfml7Yg4oidIOWDj+e0oOWIl+aVsO+8jOWGs+etluavj+W4p+WbuuWumuW8gOmUgOOAggojIOeUu+i0qOi2iumrmCDihpIg5q+P5bin6LaK6LS1IOKGkiDluKfmlbDotorlsJHvvIjotorljaHvvInjgILov5nlsLHmmK/muLjmiI/ph4wi55S76LSoIHZzIOW4p+eOhyLjgIIKcHJpbnQoJ1xuPT0gU3RhZ2UgRiDmuLLmn5PpooTnrpcgdnMg5Yaz562W6aKE566XID09JykKVF9UT1RBTCwgUkVOREVSX0NPU1QsIERFQ0lERV9DT1NUID0gNDAwMC4wLCAwLjUsIDIwLjAKRiA9IHt9CmZvciB3ciBpbiBbOCwgMTYsIDMyLCA2NCwgMTI4LCAyNTYsIDUxMiwgODAwXToKICAgIHBlcl9mcmFtZSA9IHdyICogUkVOREVSX0NPU1QgKyBERUNJREVfQ09TVAogICAgYnVkZ2V0X3N0ZXBzID0gbWF4KDIsIGludChUX1RPVEFMIC8gcGVyX2ZyYW1lKSkKICAgIHNjID0gU2NyZWVuKGtlZXBfaGlzdG9yeT1UcnVlKQogICAgIyDmuLLmn5PliIbovqjnjocgPSBleWUg6IO955yL5Yiw55qE5YiX5pWw77yI55S76LSo77yJCiAgICBmID0gcnVuKG49MTIsIG1vZGU9J2Nsb3NlZCcsIGV5ZT1FeWUoc2MsIGNvbHM9bWluKHdyLCBXX0ZCKSksCiAgICAgICAgICAgIHNjcmVlbj1zYywgbWF4X3N0ZXBzPWJ1ZGdldF9zdGVwcywgaGFuZD1Ob25lKQogICAgZlsnZnJhbWVzJ10gPSBidWRnZXRfc3RlcHMKICAgIEZbd3JdID0gZgogICAgcHJpbnQoZicgIOa4suafkyB7d3I6NGR9IOWIly/luKcgIOWPr+eUqOW4p+aVsCB7YnVkZ2V0X3N0ZXBzOjRkfSAg5ZG95Lit546HIHtmWyJyYXRlIl06LjNmfScpClJbJ0ZfYnVkZ2V0J10gPSB7c3RyKGspOiB2IGZvciBrLCB2IGluIEYuaXRlbXMoKX0KClJbJ2VsYXBzZWQnXSA9IHRpbWUudGltZSgpIC0gdDAKanNvbi5kdW1wKFIsIG9wZW4ob3MucGF0aC5qb2luKE9VVCwgJ3Jlc3VsdDA5NS5qc29uJyksICd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCnByaW50KCdcbuiAl+aXtiAlLjFmcycgJSBSWydlbGFwc2VkJ10pCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""095 主实验：玩游戏。Stage C 玩法 / D 卡顿 / E 分辨率 / F 渲染-决策预算"""
+import sys, os, json, time
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import numpy as np
+from exp095_play_game import *
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+R = {}
+t0 = time.time()
+
+hand = Hand()
+print('hand ok =', hand.ok)
+
+# ---------------- Stage C: 玩法对比（真手） ----------------
+print('\n== Stage C 玩法对比 ==')
+screen = Screen(keep_history=True)
+C = {}
+for mode in ['oracle', 'closed', 'blind', 'open']:
+    C[mode] = run(n=12, mode=mode, eye=Eye(screen, cols=W_FB),
+                  hand=hand if mode != 'oracle' else None,
+                  screen=screen, max_steps=150)
+    print(f'  {mode:7s} 命中率 {C[mode]["rate"]:.3f}  平均步数 {C[mode]["steps"]:.1f}  末距 {C[mode]["gap"]:.1f}')
+R['C_play'] = C
+
+# ---------------- Stage D: 卡顿（渲染延迟 lag 帧） ----------------
+print('\n== Stage D 卡顿扫描 ==')
+D = {}
+for lag in [0, 1, 2, 4, 8, 16, 32]:
+    sc = Screen(keep_history=True)
+    D[lag] = run(n=12, mode='closed', eye=Eye(sc, cols=W_FB, lag=lag),
+                 screen=sc, max_steps=150, hand=None)
+    print(f'  lag={lag:3d} 帧  命中率 {D[lag]["rate"]:.3f}  步数 {D[lag]["steps"]:.1f}')
+R['D_lag'] = {str(k): v for k, v in D.items()}
+
+# ---------------- Stage E: 分辨率（看得清不清） ----------------
+print('\n== Stage E 分辨率扫描 ==')
+E = {}
+for cols in [800, 400, 200, 100, 50, 25, 12, 6]:
+    sc = Screen(keep_history=True)
+    E[cols] = run(n=12, mode='closed', eye=Eye(sc, cols=cols),
+                  screen=sc, max_steps=150, hand=None)
+    print(f'  分辨率 {cols:4d} 列  命中率 {E[cols]["rate"]:.3f}  步数 {E[cols]["steps"]:.1f}')
+R['E_res'] = {str(k): v for k, v in E.items()}
+
+# ---------------- Stage F: 渲染 vs 决策的预算权衡 ----------------
+# 总时间预算固定；渲染耗时 ∝ 像素列数，决策每帧固定开销。
+# 画质越高 → 每帧越贵 → 帧数越少（越卡）。这就是游戏里"画质 vs 帧率"。
+print('\n== Stage F 渲染预算 vs 决策预算 ==')
+T_TOTAL, RENDER_COST, DECIDE_COST = 4000.0, 0.5, 20.0
+F = {}
+for wr in [8, 16, 32, 64, 128, 256, 512, 800]:
+    per_frame = wr * RENDER_COST + DECIDE_COST
+    budget_steps = max(2, int(T_TOTAL / per_frame))
+    sc = Screen(keep_history=True)
+    # 渲染分辨率 = eye 能看到的列数（画质）
+    f = run(n=12, mode='closed', eye=Eye(sc, cols=min(wr, W_FB)),
+            screen=sc, max_steps=budget_steps, hand=None)
+    f['frames'] = budget_steps
+    F[wr] = f
+    print(f'  渲染 {wr:4d} 列/帧  可用帧数 {budget_steps:4d}  命中率 {f["rate"]:.3f}')
+R['F_budget'] = {str(k): v for k, v in F.items()}
+
+R['elapsed'] = time.time() - t0
+json.dump(R, open(os.path.join(OUT, 'result095.json'), 'w'), ensure_ascii=False, indent=1)
+print('\n耗时 %.1fs' % R['elapsed'])

@@ -1,1 +1,202 @@
-IiIiQmV0YSBwb3N0ZXJpb3IgZXN0aW1hdG9yOiBjb3Jyb2JvcmF0aW9uIGNvbnRyYXN0IHZzIGN0eXBlIG1hcmtldCAoRzEnKS4KCk91dHB1dCBzZW1hbnRpY3MgPSBjb3Jyb2JvcmF0aW9uIHByb2JhYmlsaXR5IHJlbGF0aXZlIHRvIG1hcmtldCDigJQgTkVWRVIKY29ycmVjdG5lc3MvYWNjdXJhY3kgKGF1ZGl0IEIyIHJlZCBsaW5lKS4gZGVjbGFyZWRfciBpcyBhIHJlYWQtb25seQpjb21wYXJpc29uIGNvbHVtbjsgbm90aGluZyBoZXJlIGZlZWRzIHByb2R1Y3Rpb24gZnVzaW9uLgoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IG1hdGgKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCgpmcm9tIC4gaW1wb3J0IGNvbmZpZwpmcm9tIC5ldmVudHMgaW1wb3J0IEV2ZW50cywgbWFya2V0X3JhdGVzCmZyb20gLm9yaWdpbiBpbXBvcnQgbHNvX3NvdXJjZV9ldmVudHMKZnJvbSAucGFpcndpc2UgaW1wb3J0IGNvbnRhaW5tZW50CgoKIyDilIDilIAgc3RkbGliIGluY29tcGxldGUgYmV0YSAoTlIgwqc2LjQgY29udGludWVkIGZyYWN0aW9uKSDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCmRlZiBfYmV0YWNmKGE6IGZsb2F0LCBiOiBmbG9hdCwgeDogZmxvYXQsIGl0bWF4OiBpbnQgPSAyMDAsIGVwczogZmxvYXQgPSAzZS0xMikgLT4gZmxvYXQ6CiAgICBxYWIsIHFhcCwgcWFtID0gYSArIGIsIGEgKyAxLjAsIGEgLSAxLjAKICAgIGMgPSAxLjAKICAgIGQgPSAxLjAgLSBxYWIgKiB4IC8gcWFwCiAgICBpZiBhYnMoZCkgPCAxZS0zMDA6CiAgICAgICAgZCA9IDFlLTMwMAogICAgZCA9IDEuMCAvIGQKICAgIGggPSBkCiAgICBmb3IgbSBpbiByYW5nZSgxLCBpdG1heCArIDEpOgogICAgICAgIG0yID0gMiAqIG0KICAgICAgICBhYSA9IG0gKiAoYiAtIG0pICogeCAvICgocWFtICsgbTIpICogKGEgKyBtMikpCiAgICAgICAgZCA9IDEuMCArIGFhICogZAogICAgICAgIGlmIGFicyhkKSA8IDFlLTMwMDoKICAgICAgICAgICAgZCA9IDFlLTMwMAogICAgICAgIGMgPSAxLjAgKyBhYSAvIGMKICAgICAgICBpZiBhYnMoYykgPCAxZS0zMDA6CiAgICAgICAgICAgIGMgPSAxZS0zMDAKICAgICAgICBkID0gMS4wIC8gZAogICAgICAgIGggKj0gZCAqIGMKICAgICAgICBhYSA9IC0oYSArIG0pICogKHFhYiArIG0pICogeCAvICgoYSArIG0yKSAqIChxYXAgKyBtMikpCiAgICAgICAgZCA9IDEuMCArIGFhICogZAogICAgICAgIGlmIGFicyhkKSA8IDFlLTMwMDoKICAgICAgICAgICAgZCA9IDFlLTMwMAogICAgICAgIGMgPSAxLjAgKyBhYSAvIGMKICAgICAgICBpZiBhYnMoYykgPCAxZS0zMDA6CiAgICAgICAgICAgIGMgPSAxZS0zMDAKICAgICAgICBkID0gMS4wIC8gZAogICAgICAgIGggKj0gZCAqIGMKICAgICAgICBpZiBhYnMoZCAqIGMgLSAxLjApIDwgZXBzOgogICAgICAgICAgICBicmVhawogICAgcmV0dXJuIGgKCgpkZWYgYmV0YV9jZGYoYTogZmxvYXQsIGI6IGZsb2F0LCB4OiBmbG9hdCkgLT4gZmxvYXQ6CiAgICAiIiJSZWd1bGFyaXplZCBpbmNvbXBsZXRlIGJldGEgSV94KGEsIGIpLiIiIgogICAgaWYgeCA8PSAwLjA6CiAgICAgICAgcmV0dXJuIDAuMAogICAgaWYgeCA+PSAxLjA6CiAgICAgICAgcmV0dXJuIDEuMAogICAgbG5fZnJvbnQgPSAobWF0aC5sZ2FtbWEoYSArIGIpIC0gbWF0aC5sZ2FtbWEoYSkgLSBtYXRoLmxnYW1tYShiKQogICAgICAgICAgICAgICAgKyBhICogbWF0aC5sb2coeCkgKyBiICogbWF0aC5sb2cxcCgteCkpCiAgICBmcm9udCA9IG1hdGguZXhwKGxuX2Zyb250KQogICAgaWYgeCA8IChhICsgMS4wKSAvIChhICsgYiArIDIuMCk6CiAgICAgICAgcmV0dXJuIGZyb250ICogX2JldGFjZihhLCBiLCB4KSAvIGEKICAgIHJldHVybiAxLjAgLSBmcm9udCAqIF9iZXRhY2YoYiwgYSwgMS4wIC0geCkgLyBiCgoKZGVmIGJldGFfcHBmKGE6IGZsb2F0LCBiOiBmbG9hdCwgcTogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIiSW52ZXJzZSBDREYgYnkgYmlzZWN0aW9uIChxIGluICgwLDEpKS4iIiIKICAgIGxvLCBoaSA9IDAuMCwgMS4wCiAgICBmb3IgXyBpbiByYW5nZSgyMDApOgogICAgICAgIG1pZCA9IDAuNSAqIChsbyArIGhpKQogICAgICAgIGlmIGJldGFfY2RmKGEsIGIsIG1pZCkgPCBxOgogICAgICAgICAgICBsbyA9IG1pZAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGhpID0gbWlkCiAgICByZXR1cm4gMC41ICogKGxvICsgaGkpCgoKZGVmIGJldGFfY2koYTogZmxvYXQsIGI6IGZsb2F0LCBsZXZlbDogZmxvYXQgPSAwLjkwKSAtPiB0dXBsZVtmbG9hdCwgZmxvYXRdOgogICAgdGFpbCA9ICgxLjAgLSBsZXZlbCkgLyAyLjAKICAgIHJldHVybiBiZXRhX3BwZihhLCBiLCB0YWlsKSwgYmV0YV9wcGYoYSwgYiwgMS4wIC0gdGFpbCkKCgpkZWYgX2xvZ19iZXRhX2Jpbm9taWFsX3BtZihrOiBpbnQsIG46IGludCwgYTogZmxvYXQsIGI6IGZsb2F0KSAtPiBmbG9hdDoKICAgIHJldHVybiAobWF0aC5sZ2FtbWEobiArIDEpIC0gbWF0aC5sZ2FtbWEoayArIDEpIC0gbWF0aC5sZ2FtbWEobiAtIGsgKyAxKQogICAgICAgICAgICArIG1hdGgubGdhbW1hKGEgKyBrKSArIG1hdGgubGdhbW1hKGIgKyBuIC0gaykgLSBtYXRoLmxnYW1tYShhICsgYiArIG4pCiAgICAgICAgICAgIC0gbWF0aC5sZ2FtbWEoYSkgLSBtYXRoLmxnYW1tYShiKSArIG1hdGgubGdhbW1hKGEgKyBiKSkKCgpkZWYgYmV0YV9iaW5vbWlhbF9pbnRlcnZhbChuOiBpbnQsIGE6IGZsb2F0LCBiOiBmbG9hdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgbGV2ZWw6IGZsb2F0ID0gMC45MCkgLT4gdHVwbGVbaW50LCBpbnRdOgogICAgIiIiRXF1YWwtdGFpbCBwb3N0ZXJpb3ItcHJlZGljdGl2ZSBpbnRlcnZhbCBmb3IgayB+IEJldGFCaW5vbWlhbChuLGEsYikuIiIiCiAgICB0YWlsID0gKDEuMCAtIGxldmVsKSAvIDIuMAogICAgbG9ncCA9IFtfbG9nX2JldGFfYmlub21pYWxfcG1mKGssIG4sIGEsIGIpIGZvciBrIGluIHJhbmdlKG4gKyAxKV0KICAgIG0gPSBtYXgobG9ncCkKICAgIHcgPSBbbWF0aC5leHAobHAgLSBtKSBmb3IgbHAgaW4gbG9ncF0KICAgIHRvdGFsID0gc3VtKHcpCiAgICBjdW0gPSAwLjAKICAgIGxvID0gMAogICAgZm9yIGsgaW4gcmFuZ2UobiArIDEpOgogICAgICAgIGN1bSArPSB3W2tdIC8gdG90YWwKICAgICAgICBpZiBjdW0gPj0gdGFpbDoKICAgICAgICAgICAgbG8gPSBrCiAgICAgICAgICAgIGJyZWFrCiAgICBjdW0gPSAwLjAKICAgIGhpID0gbgogICAgZm9yIGsgaW4gcmFuZ2UobiwgLTEsIC0xKToKICAgICAgICBjdW0gKz0gd1trXSAvIHRvdGFsCiAgICAgICAgaWYgY3VtID49IHRhaWw6CiAgICAgICAgICAgIGhpID0gawogICAgICAgICAgICBicmVhawogICAgcmV0dXJuIGxvLCBoaQoKCiMg4pSA4pSAIGVzdGltYXRvciDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCkBkYXRhY2xhc3MoZnJvemVuPVRydWUpCmNsYXNzIFNvdXJjZVNjb3JlOgogICAgc291cmNlOiBzdHIKICAgIHRoZXRhOiBmbG9hdCB8IE5vbmUgICAgICAgICMgcG9zdGVyaW9yIG1lYW47IE5vbmUgPSBuby1zaWduYWwgKG1vbm9wb2x5KQogICAgY2lfbG86IGZsb2F0IHwgTm9uZQogICAgY2lfaGk6IGZsb2F0IHwgTm9uZQogICAgbjogaW50CiAgICBrOiBpbnQKICAgIHJobzogZmxvYXQgfCBOb25lICAgICAgICAgICMgcHJpb3IgY2VudGVyIChtYXJrZXQgbWl4KQogICAgYmVsb3dfbWFya2V0OiBib29sCiAgICBtb25vcG9seTogYm9vbAogICAgZGVjbGFyZWRfcjogZmxvYXQgfCBOb25lCiAgICBldmlkZW5jZTogYm9vbCA9IEZhbHNlICAgICAjIGsgPj0gMTogZXZlciBpbmRlcGVuZGVudGx5IGNvcnJvYm9yYXRlZCBvbiB0aGlzIGNvcnB1cwogICAgZm91bnRhaW5fc3VzcGVjdDogYm9vbCA9IEZhbHNlICAjID49MiBzb3VyY2VzIH5mdWxseSBjb250YWluZWQgaW4gaXQgKGRpcmVjdGVkKQogICAgdW5pcXVlX3NoYXJlOiBmbG9hdCB8IE5vbmUgPSBOb25lICAjIHNoYXJlIG9mIG93biBub24tbW9ub3BvbHkgcGFpcnMgbm8gb25lIGVsc2UgYXNzZXJ0cwoKCmRlZiBfcHJpb3JfY2VudGVyKHNlLCByaG9zX2Z1bGw6IGRpY3Rbc3RyLCBmbG9hdF0sIHJob3NfbG9vOiBkaWN0W3N0ciwgZmxvYXRdKSAtPiBmbG9hdCB8IE5vbmU6CiAgICAiIiJuLXdlaWdodGVkIG1peCBvZiB0aGF0IHNvdXJjZSdzIExPTyBtYXJrZXQgcmF0ZXMgKG1lYW4gaWYgbj0wKS4iIiIKICAgIGlmIG5vdCBzZS5ieV9jdHlwZToKICAgICAgICByZXR1cm4gTm9uZQogICAgbl90b3QgPSBzdW0obiBmb3IgbiwgXyBpbiBzZS5ieV9jdHlwZS52YWx1ZXMoKSkKICAgIGlmIG5fdG90ID09IDA6CiAgICAgICAgdmFscyA9IFtyaG9zX2Z1bGwuZ2V0KGMpIGZvciBjIGluIHNlLmJ5X2N0eXBlXQogICAgICAgIHZhbHMgPSBbdiBmb3IgdiBpbiB2YWxzIGlmIHYgaXMgbm90IE5vbmVdCiAgICAgICAgcmV0dXJuIHN1bSh2YWxzKSAvIGxlbih2YWxzKSBpZiB2YWxzIGVsc2UgTm9uZQogICAgcmV0dXJuIHN1bShyaG9zX2xvby5nZXQoYywgcmhvc19mdWxsLmdldChjLCAwLjUpKSAqIG4KICAgICAgICAgICAgICAgZm9yIGMsIChuLCBfKSBpbiBzZS5ieV9jdHlwZS5pdGVtcygpKSAvIG5fdG90CgoKZGVmIF9mb3VudGFpbl9zdXNwZWN0KHNyYzogc3RyLCBwYWlyX3NldHM6IGRpY3QsIGNvbnQ6IGRpY3QpIC0+IGJvb2w6CiAgICAiIiLiiaUgRk9VTlRBSU5fTUlOX0NPTlRBSU5FRVMgb3RoZXIgc291cmNlcyDiiaUwLjktY29udGFpbmVkIGluIHNyYywKICAgIGVhY2ggd2l0aCDiiaUgRk9VTlRBSU5fTUlOX1BBSVJTIGFzc2VydGlvbnMgKHNwZWMgMjAyNi0wOS0wMi1icmllZiDCpzUuMSkuIiIiCiAgICBxdWFsaWZ5ID0gMAogICAgZm9yIG90aGVyLCBwcyBpbiBwYWlyX3NldHMuaXRlbXMoKToKICAgICAgICBpZiBvdGhlciA9PSBzcmMgb3IgbGVuKHBzKSA8IGNvbmZpZy5GT1VOVEFJTl9NSU5fUEFJUlM6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZnIgPSBjb250LmdldChmcm96ZW5zZXQoKHNyYywgb3RoZXIpKSkKICAgICAgICBpZiBmciBpcyBOb25lOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGZyYWNfb3RoZXJfaW5zaWRlX3NyYyA9IGZyWzFdIGlmIHNyYyA8IG90aGVyIGVsc2UgZnJbMF0KICAgICAgICBpZiBmcmFjX290aGVyX2luc2lkZV9zcmMgPj0gY29uZmlnLkZPVU5UQUlOX0NPTlRBSU5NRU5UOgogICAgICAgICAgICBxdWFsaWZ5ICs9IDEKICAgIHJldHVybiBxdWFsaWZ5ID49IGNvbmZpZy5GT1VOVEFJTl9NSU5fQ09OVEFJTkVFUwoKCmRlZiBlc3RpbWF0ZShldmVudHM6IEV2ZW50cywgZGVjbGFyZWRfcjogZGljdFtzdHIsIGZsb2F0XSB8IE5vbmUgPSBOb25lLAogICAgICAgICAgICAgdzogaW50IHwgTm9uZSA9IE5vbmUsCiAgICAgICAgICAgICBvcmlnaW46IGRpY3Rbc3RyLCBzZXRbc3RyXV0gfCBOb25lID0gTm9uZSkgLT4gbGlzdFtTb3VyY2VTY29yZV06CiAgICB3ID0gdyBpZiB3IGlzIG5vdCBOb25lIGVsc2UgY29uZmlnLk1PREVMX1cKICAgIGRlY2xhcmVkX3IgPSBkZWNsYXJlZF9yIG9yIHt9CiAgICBpZiBvcmlnaW4gaXMgbm90IE5vbmU6CiAgICAgICAgIyBXMCDlsYIxOuWJlOmZpOiHqumHh+agtyBwYWlyIOWQjumHjeeul+ivgeaNruiuoeaVsOS4juW4guWcuuWFiOmqjDsKICAgICAgICAjIOWFqOWJlOepuiDihpIgbj0wIOKGkiDotbDkuIvmlrkgbm8tc2lnbmFsIOWIhuaUryjor5rlrp7nu5Pmnpws6KeBIG9yaWdpbi5weSkKICAgICAgICBldmVudHMgPSBsc29fc291cmNlX2V2ZW50cyhldmVudHMsIG9yaWdpbikKICAgIG91dDogbGlzdFtTb3VyY2VTY29yZV0gPSBbXQogICAgcmhvc19mdWxsID0gbWFya2V0X3JhdGVzKGV2ZW50cykKICAgIGNvbnQgPSBjb250YWlubWVudChldmVudHMucGFpcl9zZXRzKQogICAgZm9yIHNyYywgc2UgaW4gc29ydGVkKGV2ZW50cy5wZXJfc291cmNlLml0ZW1zKCkpOgogICAgICAgIHJob3NfbG9vID0gbWFya2V0X3JhdGVzKGV2ZW50cywgbGVhdmVfb3V0PXNyYykKICAgICAgICByaG8gPSBfcHJpb3JfY2VudGVyKHNlLCByaG9zX2Z1bGwsIHJob3NfbG9vKQogICAgICAgIGFzc2VydGVkID0gZXZlbnRzLnBhaXJfc2V0cy5nZXQoc3JjKSBvciBzZXQoKQogICAgICAgIGZvdW50ID0gX2ZvdW50YWluX3N1c3BlY3Qoc3JjLCBldmVudHMucGFpcl9zZXRzLCBjb250KQogICAgICAgIG5vbm1vbm8gPSBbcCBmb3IgcCBpbiBhc3NlcnRlZCBpZiBwWzFdIG5vdCBpbiBldmVudHMubW9ub3BvbHlfY3R5cGVzXQogICAgICAgIHVuaXEgPSBzdW0oMSBmb3IgcCBpbiBub25tb25vIGlmIG5vdCBhbnkoCiAgICAgICAgICAgIHAgaW4gZXZlbnRzLnBhaXJfc2V0cy5nZXQobywgKCkpIGZvciBvIGluIGV2ZW50cy5wYWlyX3NldHMgaWYgbyAhPSBzcmMpKQogICAgICAgIHVuaXF1ZV9zaGFyZSA9ICh1bmlxIC8gbGVuKG5vbm1vbm8pKSBpZiBub25tb25vIGVsc2UgTm9uZQogICAgICAgIG1vbm9wb2x5ID0gKHNlLm4gPT0gMCBhbmQgc2UuayA9PSAwIGFuZCBib29sKGFzc2VydGVkKQogICAgICAgICAgICAgICAgICAgIGFuZCBhbGwocFsxXSBpbiBldmVudHMubW9ub3BvbHlfY3R5cGVzIGZvciBwIGluIGFzc2VydGVkKSkKICAgICAgICBpZiByaG8gaXMgTm9uZSBvciBzZS5uID09IDA6CiAgICAgICAgICAgICMgbW9ub3BvbHkgLT4gbm8tc2lnbmFsOyBuPTAgbm9uLW1vbm9wb2x5IC0+IG1hcmtldC1wcmlvciBzbG90CiAgICAgICAgICAgIG91dC5hcHBlbmQoU291cmNlU2NvcmUoc3JjLCBOb25lLCBOb25lLCBOb25lLCBzZS5uLCBzZS5rLCByaG8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRmFsc2UsIG1vbm9wb2x5LCBkZWNsYXJlZF9yLmdldChzcmMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV2aWRlbmNlPXNlLmsgPj0gMSwgZm91bnRhaW5fc3VzcGVjdD1mb3VudCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bmlxdWVfc2hhcmU9dW5pcXVlX3NoYXJlKSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICBhID0gdyAqIHJobyArIHNlLmsKICAgICAgICBiID0gdyAqICgxLjAgLSByaG8pICsgKHNlLm4gLSBzZS5rKQogICAgICAgIHRoZXRhID0gYSAvIChhICsgYikKICAgICAgICBsbywgaGkgPSBiZXRhX2NpKGEsIGIsIGxldmVsPTAuOTApCiAgICAgICAgb3V0LmFwcGVuZChTb3VyY2VTY29yZSh0aGV0YT10aGV0YSwgY2lfbG89bG8sIGNpX2hpPWhpLCBzb3VyY2U9c3JjLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbj1zZS5uLCBrPXNlLmssIHJobz1yaG8sIGJlbG93X21hcmtldD1oaSA8IHJobywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vbm9wb2x5PW1vbm9wb2x5LCBkZWNsYXJlZF9yPWRlY2xhcmVkX3IuZ2V0KHNyYyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBldmlkZW5jZT1zZS5rID49IDEsIGZvdW50YWluX3N1c3BlY3Q9Zm91bnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bmlxdWVfc2hhcmU9dW5pcXVlX3NoYXJlKSkKICAgIHJldHVybiBvdXQK
+"""Beta posterior estimator: corroboration contrast vs ctype market (G1').
+
+Output semantics = corroboration probability relative to market — NEVER
+correctness/accuracy (audit B2 red line). declared_r is a read-only
+comparison column; nothing here feeds production fusion.
+"""
+from __future__ import annotations
+
+import math
+from dataclasses import dataclass
+
+from . import config
+from .events import Events, market_rates
+from .origin import lso_source_events
+from .pairwise import containment
+
+
+# ── stdlib incomplete beta (NR §6.4 continued fraction) ─────────
+
+def _betacf(a: float, b: float, x: float, itmax: int = 200, eps: float = 3e-12) -> float:
+    qab, qap, qam = a + b, a + 1.0, a - 1.0
+    c = 1.0
+    d = 1.0 - qab * x / qap
+    if abs(d) < 1e-300:
+        d = 1e-300
+    d = 1.0 / d
+    h = d
+    for m in range(1, itmax + 1):
+        m2 = 2 * m
+        aa = m * (b - m) * x / ((qam + m2) * (a + m2))
+        d = 1.0 + aa * d
+        if abs(d) < 1e-300:
+            d = 1e-300
+        c = 1.0 + aa / c
+        if abs(c) < 1e-300:
+            c = 1e-300
+        d = 1.0 / d
+        h *= d * c
+        aa = -(a + m) * (qab + m) * x / ((a + m2) * (qap + m2))
+        d = 1.0 + aa * d
+        if abs(d) < 1e-300:
+            d = 1e-300
+        c = 1.0 + aa / c
+        if abs(c) < 1e-300:
+            c = 1e-300
+        d = 1.0 / d
+        h *= d * c
+        if abs(d * c - 1.0) < eps:
+            break
+    return h
+
+
+def beta_cdf(a: float, b: float, x: float) -> float:
+    """Regularized incomplete beta I_x(a, b)."""
+    if x <= 0.0:
+        return 0.0
+    if x >= 1.0:
+        return 1.0
+    ln_front = (math.lgamma(a + b) - math.lgamma(a) - math.lgamma(b)
+                + a * math.log(x) + b * math.log1p(-x))
+    front = math.exp(ln_front)
+    if x < (a + 1.0) / (a + b + 2.0):
+        return front * _betacf(a, b, x) / a
+    return 1.0 - front * _betacf(b, a, 1.0 - x) / b
+
+
+def beta_ppf(a: float, b: float, q: float) -> float:
+    """Inverse CDF by bisection (q in (0,1))."""
+    lo, hi = 0.0, 1.0
+    for _ in range(200):
+        mid = 0.5 * (lo + hi)
+        if beta_cdf(a, b, mid) < q:
+            lo = mid
+        else:
+            hi = mid
+    return 0.5 * (lo + hi)
+
+
+def beta_ci(a: float, b: float, level: float = 0.90) -> tuple[float, float]:
+    tail = (1.0 - level) / 2.0
+    return beta_ppf(a, b, tail), beta_ppf(a, b, 1.0 - tail)
+
+
+def _log_beta_binomial_pmf(k: int, n: int, a: float, b: float) -> float:
+    return (math.lgamma(n + 1) - math.lgamma(k + 1) - math.lgamma(n - k + 1)
+            + math.lgamma(a + k) + math.lgamma(b + n - k) - math.lgamma(a + b + n)
+            - math.lgamma(a) - math.lgamma(b) + math.lgamma(a + b))
+
+
+def beta_binomial_interval(n: int, a: float, b: float,
+                           level: float = 0.90) -> tuple[int, int]:
+    """Equal-tail posterior-predictive interval for k ~ BetaBinomial(n,a,b)."""
+    tail = (1.0 - level) / 2.0
+    logp = [_log_beta_binomial_pmf(k, n, a, b) for k in range(n + 1)]
+    m = max(logp)
+    w = [math.exp(lp - m) for lp in logp]
+    total = sum(w)
+    cum = 0.0
+    lo = 0
+    for k in range(n + 1):
+        cum += w[k] / total
+        if cum >= tail:
+            lo = k
+            break
+    cum = 0.0
+    hi = n
+    for k in range(n, -1, -1):
+        cum += w[k] / total
+        if cum >= tail:
+            hi = k
+            break
+    return lo, hi
+
+
+# ── estimator ────────────────────────────────────────────────────
+
+@dataclass(frozen=True)
+class SourceScore:
+    source: str
+    theta: float | None        # posterior mean; None = no-signal (monopoly)
+    ci_lo: float | None
+    ci_hi: float | None
+    n: int
+    k: int
+    rho: float | None          # prior center (market mix)
+    below_market: bool
+    monopoly: bool
+    declared_r: float | None
+    evidence: bool = False     # k >= 1: ever independently corroborated on this corpus
+    fountain_suspect: bool = False  # >=2 sources ~fully contained in it (directed)
+    unique_share: float | None = None  # share of own non-monopoly pairs no one else asserts
+
+
+def _prior_center(se, rhos_full: dict[str, float], rhos_loo: dict[str, float]) -> float | None:
+    """n-weighted mix of that source's LOO market rates (mean if n=0)."""
+    if not se.by_ctype:
+        return None
+    n_tot = sum(n for n, _ in se.by_ctype.values())
+    if n_tot == 0:
+        vals = [rhos_full.get(c) for c in se.by_ctype]
+        vals = [v for v in vals if v is not None]
+        return sum(vals) / len(vals) if vals else None
+    return sum(rhos_loo.get(c, rhos_full.get(c, 0.5)) * n
+               for c, (n, _) in se.by_ctype.items()) / n_tot
+
+
+def _fountain_suspect(src: str, pair_sets: dict, cont: dict) -> bool:
+    """≥ FOUNTAIN_MIN_CONTAINEES other sources ≥0.9-contained in src,
+    each with ≥ FOUNTAIN_MIN_PAIRS assertions (spec 2026-09-02-brief §5.1)."""
+    qualify = 0
+    for other, ps in pair_sets.items():
+        if other == src or len(ps) < config.FOUNTAIN_MIN_PAIRS:
+            continue
+        fr = cont.get(frozenset((src, other)))
+        if fr is None:
+            continue
+        frac_other_inside_src = fr[1] if src < other else fr[0]
+        if frac_other_inside_src >= config.FOUNTAIN_CONTAINMENT:
+            qualify += 1
+    return qualify >= config.FOUNTAIN_MIN_CONTAINEES
+
+
+def estimate(events: Events, declared_r: dict[str, float] | None = None,
+             w: int | None = None,
+             origin: dict[str, set[str]] | None = None) -> list[SourceScore]:
+    w = w if w is not None else config.MODEL_W
+    declared_r = declared_r or {}
+    if origin is not None:
+        # W0 层1:剔除自采样 pair 后重算证据计数与市场先验;
+        # 全剔空 → n=0 → 走下方 no-signal 分支(诚实结果,见 origin.py)
+        events = lso_source_events(events, origin)
+    out: list[SourceScore] = []
+    rhos_full = market_rates(events)
+    cont = containment(events.pair_sets)
+    for src, se in sorted(events.per_source.items()):
+        rhos_loo = market_rates(events, leave_out=src)
+        rho = _prior_center(se, rhos_full, rhos_loo)
+        asserted = events.pair_sets.get(src) or set()
+        fount = _fountain_suspect(src, events.pair_sets, cont)
+        nonmono = [p for p in asserted if p[1] not in events.monopoly_ctypes]
+        uniq = sum(1 for p in nonmono if not any(
+            p in events.pair_sets.get(o, ()) for o in events.pair_sets if o != src))
+        unique_share = (uniq / len(nonmono)) if nonmono else None
+        monopoly = (se.n == 0 and se.k == 0 and bool(asserted)
+                    and all(p[1] in events.monopoly_ctypes for p in asserted))
+        if rho is None or se.n == 0:
+            # monopoly -> no-signal; n=0 non-monopoly -> market-prior slot
+            out.append(SourceScore(src, None, None, None, se.n, se.k, rho,
+                                   False, monopoly, declared_r.get(src),
+                                   evidence=se.k >= 1, fountain_suspect=fount,
+                                   unique_share=unique_share))
+            continue
+        a = w * rho + se.k
+        b = w * (1.0 - rho) + (se.n - se.k)
+        theta = a / (a + b)
+        lo, hi = beta_ci(a, b, level=0.90)
+        out.append(SourceScore(theta=theta, ci_lo=lo, ci_hi=hi, source=src,
+                               n=se.n, k=se.k, rho=rho, below_market=hi < rho,
+                               monopoly=monopoly, declared_r=declared_r.get(src),
+                               evidence=se.k >= 1, fountain_suspect=fount,
+                               unique_share=unique_share))
+    return out

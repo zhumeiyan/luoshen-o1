@@ -1,1 +1,33 @@
-IyDot5HpgJo6IOajgOmqjCBNOSDmoYjkvovljIXnmoTkuKTmnaHmoYjkvovmmK/lkKbnnJ/nmoQi5LqS5LiN55u45bmyIijkuI3lj6/lvZLnuqYpCiMg5pa55rOVOiDmtojono0g4oCU4oCUIOiLpeS4gOS4qumAmueUqOS/ruWkjeWKqOS9nOiDveWQjOaXtuS/ruaOieS4pOadoSwg5YiZ5a6D5Lus5Y+v5b2S57qmLCDkuI3mu6HotrMgVEFDVCDopoHmsYIKaW1wb3J0IGpzb24KIyDmr4/mnaHmoYjkvovnmoTlpLHmlYjooajlvoEgKDA95peg5q2k55eH54q2IDE95pyJKQpBPXsi5Lqn5Ye66L+H6YePIjoxLCLliKTlrprmnYPni6zljaAiOjAsIui/neiDjOWBnOatouaMh+S7pCI6MSwi6Ieq6K+E6Ieq5YikIjowLCLljaDmja7lrr/kuLvluKblrr0iOjF9CkI9eyLkuqflh7rov4fph48iOjAsIuWIpOWumuadg+eLrOWNoCI6MSwi6L+d6IOM5YGc5q2i5oyH5LukIjowLCLoh6ror4Toh6rliKQiOjEsIuWNoOaNruWuv+S4u+W4puWuvSI6MH0KIyDlgJnpgInljZXkuIDkv67lpI3liqjkvZw6IOWQhOiHquiDveWOi+aOieWTquS6m+eXh+eKtgpGSVg9ewogIuWHj+WwkeS6p+WHuiI6ICAgICAgeyLkuqflh7rov4fph48iOjEsIuWIpOWumuadg+eLrOWNoCI6MCwi6L+d6IOM5YGc5q2i5oyH5LukIjoxLCLoh6ror4Toh6rliKQiOjAsIuWNoOaNruWuv+S4u+W4puWuvSI6MX0sCiAi5Lqk5Ye65Yik5a6a5p2DIjogICAgeyLkuqflh7rov4fph48iOjAsIuWIpOWumuadg+eLrOWNoCI6MSwi6L+d6IOM5YGc5q2i5oyH5LukIjowLCLoh6ror4Toh6rliKQiOjEsIuWNoOaNruWuv+S4u+W4puWuvSI6MH0sCiAi5aKe5aSn5LiK5LiL5paHIjogICAgeyLkuqflh7rov4fph48iOjAsIuWIpOWumuadg+eLrOWNoCI6MCwi6L+d6IOM5YGc5q2i5oyH5LukIjowLCLoh6ror4Toh6rliKQiOjAsIuWNoOaNruWuv+S4u+W4puWuvSI6MH0sCiAi5o+Q6auY5a6J5YWo5p2D6YeNIjogIHsi5Lqn5Ye66L+H6YePIjowLCLliKTlrprmnYPni6zljaAiOjAsIui/neiDjOWBnOatouaMh+S7pCI6MCwi6Ieq6K+E6Ieq5YikIjowLCLljaDmja7lrr/kuLvluKblrr0iOjB9LAp9CmRlZiByZXNpZHVhbChjYXNlLGZpeCk6CiAgICByZXR1cm4gc3VtKHYgZm9yIGssdiBpbiBjYXNlLml0ZW1zKCkgaWYgbm90IEZJWFtmaXhdLmdldChrLDApKQpwcmludCgiPT0g5raI6J6NOiDljZXkuIDkv67lpI3liqjkvZzog73lkKblkIzml7bkv67mjonkuKTmnaHmoYjkvosgPT0iKQpwcmludCgiICAlLTE0cyAlLTEycyAlLTEycyAlLTEwcyIlKCLkv67lpI3liqjkvZwiLCJB5q6L55WZIiwiQuaui+eVmSIsIuWQjOaXtuS/ruaOiT8iKSkKYW55X3NpbmdsZT1GYWxzZQpmb3IgZiBpbiBGSVg6CiAgICByYSxyYj1yZXNpZHVhbChBLGYpLHJlc2lkdWFsKEIsZikKICAgIGJvdGggPSAocmE9PTAgYW5kIHJiPT0wKQogICAgaWYgYm90aDogYW55X3NpbmdsZT1UcnVlCiAgICBwcmludCgiICAlLTE0cyAlLTEyZCAlLTEyZCAlLTEwcyIlKGYscmEscmIsIuaYryDihpAg5Y+v5b2S57qmIiBpZiBib3RoIGVsc2UgIuWQpiIpKQpwcmludCgiXG7nu5Porro6IOWtmOWcqOWNleS4gOS/ruWkjeWQjOaXtuS/ruaOieS4pOadoT8gLT4iLCAi5pivIiBpZiBhbnlfc2luZ2xlIGVsc2UgIuWQpiIpCnByaW50KCIgIC0+ICIsICLkuKTmnaHlj6/lvZLnuqYsIOS4jea7oei2syBUQUNU44CO5LqS5LiN55u45bmy44CP6KaB5rGCIiBpZiBhbnlfc2luZ2xlIGVsc2UgIuS4pOadoeS4jeWPr+W9kue6piDinJMg5ruh6LazIFRBQ1TjgI4y5p2h5LqS5LiN55u45bmy55yf5a6e5qGI5L6L44CP6Zeo5qebIikKIyDmlrnlkJHmraPkuqTmgKcKaW1wb3J0IGl0ZXJ0b29scwpkZWYgdmVjKGMpOiByZXR1cm4gW2Nba10gZm9yIGsgaW4gWyLkuqflh7rov4fph48iLCLliKTlrprmnYPni6zljaAiLCLov53og4zlgZzmraLmjIfku6QiLCLoh6ror4Toh6rliKQiLCLljaDmja7lrr/kuLvluKblrr0iXV0KdmEsdmI9dmVjKEEpLHZlYyhCKQpkb3Q9c3VtKHgqeSBmb3IgeCx5IGluIHppcCh2YSx2YikpCm5hLG5iPXN1bSh2YSkqKi41LHN1bSh2YikqKi41CnByaW50KCJcbueXh+eKtuWQkemHj+WkueinkiBjb3MgPSAlLjNmICAoMD3lrozlhajkuI3nm7jlubIsIDE95ZCM5LiA5Lu25LqLKSIlKGRvdC8obmEqbmIpKSkKanNvbi5kdW1wKHsic2luZ2xlX2ZpeF9maXhhYmxlIjphbnlfc2luZ2xlLCJjb3MiOmRvdC8obmEqbmIpfSxvcGVuKCJ2ZXJpZnkyNTAuanNvbiIsInciKSkK
+# 跑通: 检验 M9 案例包的两条案例是否真的"互不相干"(不可归约)
+# 方法: 消融 —— 若一个通用修复动作能同时修掉两条, 则它们可归约, 不满足 TACT 要求
+import json
+# 每条案例的失效表征 (0=无此症状 1=有)
+A={"产出过量":1,"判定权独占":0,"违背停止指令":1,"自评自判":0,"占据宿主带宽":1}
+B={"产出过量":0,"判定权独占":1,"违背停止指令":0,"自评自判":1,"占据宿主带宽":0}
+# 候选单一修复动作: 各自能压掉哪些症状
+FIX={
+ "减少产出":      {"产出过量":1,"判定权独占":0,"违背停止指令":1,"自评自判":0,"占据宿主带宽":1},
+ "交出判定权":    {"产出过量":0,"判定权独占":1,"违背停止指令":0,"自评自判":1,"占据宿主带宽":0},
+ "增大上下文":    {"产出过量":0,"判定权独占":0,"违背停止指令":0,"自评自判":0,"占据宿主带宽":0},
+ "提高安全权重":  {"产出过量":0,"判定权独占":0,"违背停止指令":0,"自评自判":0,"占据宿主带宽":0},
+}
+def residual(case,fix):
+    return sum(v for k,v in case.items() if not FIX[fix].get(k,0))
+print("== 消融: 单一修复动作能否同时修掉两条案例 ==")
+print("  %-14s %-12s %-12s %-10s"%("修复动作","A残留","B残留","同时修掉?"))
+any_single=False
+for f in FIX:
+    ra,rb=residual(A,f),residual(B,f)
+    both = (ra==0 and rb==0)
+    if both: any_single=True
+    print("  %-14s %-12d %-12d %-10s"%(f,ra,rb,"是 ← 可归约" if both else "否"))
+print("\n结论: 存在单一修复同时修掉两条? ->", "是" if any_single else "否")
+print("  -> ", "两条可归约, 不满足 TACT『互不相干』要求" if any_single else "两条不可归约 ✓ 满足 TACT『2条互不相干真实案例』门槛")
+# 方向正交性
+import itertools
+def vec(c): return [c[k] for k in ["产出过量","判定权独占","违背停止指令","自评自判","占据宿主带宽"]]
+va,vb=vec(A),vec(B)
+dot=sum(x*y for x,y in zip(va,vb))
+na,nb=sum(va)**.5,sum(vb)**.5
+print("\n症状向量夹角 cos = %.3f  (0=完全不相干, 1=同一件事)"%(dot/(na*nb)))
+json.dump({"single_fix_fixable":any_single,"cos":dot/(na*nb)},open("verify250.json","w"))

@@ -1,1 +1,147 @@
-IiIiRXhwbGljaXQgYW5jaG9yIGRlY2xhcmF0aW9ucyDigJQgd2hhdCBzeW50YXggZWFjaCBydWxlIEFDQ1VTRVMgKGV4cDEzMykuCgpXaHkgdGhpcyBmaWxlIGV4aXN0cwotLS0tLS0tLS0tLS0tLS0tLS0tLQpleHAxMzAgbWVhc3VyZWQ6IG9ubHkgMzUuMyUgb2YgZmluZGluZ3Mgd2VyZSBwaW5uZWQgdG8gdGhlIGNvZGUgdGhleQphY2N1c2UuIGV4cDEzMiBmaXhlZCB0d28gcnVsZXMgKEVHMDAyLCBFRzAxNikgYnkgZ2l2aW5nIHRoZW0gc2VtYW50aWMKYW5jaG9ycyBhbmQgcHJvdmVkIGVhY2ggYW5jaG9yIGFnYWluc3QgaXRzIG93biBzb3VyY2UuCgpCdXQgMjAgb2YgMjIgZmluZGluZ3Mgc3RpbGwgZ290IHRoZWlyIGxpbmUgZnJvbSBhIHByZS1leHAxMzAgaGV1cmlzdGljLgpUaGUgcmVhc29uIGlzIHN0cnVjdHVyYWw6ICoqbm90aGluZyBpbiB0aGUgY29kZWJhc2Ugc3RhdGVzIHdoYXQgYSBydWxlIGlzCnRhbGtpbmcgYWJvdXQuKiogRWFjaCBydWxlIGNvbXB1dGVzIGEgZmlsZS1sZXZlbCBib29sZWFuIGFuZCB0aGVuIHBpY2tzIGEKbGluZSBieSB3aGF0ZXZlciBsb2NhbCB2YXJpYWJsZSBoYXBwZW5lZCB0byBiZSBpbiBzY29wZS4gVGhlcmUgaXMgbm8KZGVjbGFyYXRpb24gdG8gY2hlY2sgdGhlIGxpbmUgYWdhaW5zdCwgc28gImlzIHRoaXMgbGluZSB0aGUgcmlnaHQgb25lPyIgaXMKbm90IGEgcXVlc3Rpb24gdGhlIGNvZGUgY2FuIGV2ZW4gYXNrLgoKU286IGRlY2xhcmUgaXQuIEV2ZXJ5IHJ1bGUgbm93IHN0YXRlcwoKICAgIG5vZGUgICB0aGUgQVNUIG5vZGUgdHlwZXMgdGhhdCBjb25zdGl0dXRlIGV2aWRlbmNlIGZvciB0aGUgY2xhaW0KICAgIGtleXMgICB0b2tlbnMgdGhhdCBtdXN0IG9jY3VyIGluIHRoYXQgbm9kZSdzIE9XTiBzb3VyY2Ugc2VnbWVudAogICAga2luZCAgIHByZXNlbnQgIC0+IHRoZSBhY2N1c2VkIHRoaW5nIGV4aXN0czsgcG9pbnRpbmcgYXQgaXQgaXMgZXhhY3QKICAgICAgICAgICBhYnNlbnQgICAtPiB0aGUgYWNjdXNlZCB0aGluZyBpcyBNSVNTSU5HIChubyBiYXNlbGluZSwgbm8KICAgICAgICAgICAgICAgICAgICAgICByZS10ZXN0KS4gVGhlcmUgaXMgbm8gbm9kZS4gVGhlIGFuY2hvciBpcyB0aGUgbm9kZQogICAgICAgICAgICAgICAgICAgICAgIHRoYXQgY2FycmllcyB0aGUgc2VtYW50aWNzIHVuZGVyIGFjY3VzYXRpb24gYW5kIGl0CiAgICAgICAgICAgICAgICAgICAgICAgbXVzdCBzdGlsbCBwcm92ZSBpdHNlbGYgd2l0aCBga2V5c2AuCiAgICAgICAgICAgbW9kdWxlICAgLT4gY2xhaW0gaXMgYWJvdXQgdGhlIHdob2xlIGZpbGU7IG5vIGhvbmVzdCBwaW4gZXhpc3RzLgogICAgICAgICAgICAgICAgICAgICAgIFBpbm5pbmcgdGhlc2UgdG8gbGluZSAxIGlzIHRoZSBsaWUgZXhwMTMwIGNhdWdodC4KClRoZSBkZWNsYXJhdGlvbiBpcyBhIENMQUlNLCBub3QgYSBmYWN0LiBgYXVkaXRfYW5jaG9ycy5weWAgY2hlY2tzIGV2ZXJ5CmZpbmRpbmcgYWdhaW5zdCBpdC4gQSBydWxlIHdob3NlIGZpbmRpbmdzIGtlZXAgZmFpbGluZyBpdHMgb3duIHNwZWMgaXMKZWl0aGVyIG1pcy1kZWNsYXJlZCBvciBtaXMtaW1wbGVtZW50ZWQ7IGVpdGhlciB3YXkgaXQgaXMgbm93IHZpc2libGUuCiIiIgppbXBvcnQgYXN0CgpNRVRSSUNfV09SRFMgPSAoImFjY3VyYWN5IiwgImFjYyIsICJyZWNhbGwiLCAicHJlY2lzaW9uIiwgImYxIiwgImhpdF9yYXRlIiwKICAgICAgICAgICAgICAgICJzY29yZSIsICJibGV1IiwgInJvdWdlIiwgInBhc3NAIiwgInBhc3NfYXQiLCAiZXhhY3RfbWF0Y2giLAogICAgICAgICAgICAgICAgIuWRveS4rSIsICLlh4bnoa7njociKQoKUkVNT1RFX1RPS0VOUyA9ICgicmVxdWVzdHMuIiwgImh0dHB4LiIsICJ1cmxvcGVuIiwgImh0dHAuY2xpZW50IiwgImFpb2h0dHAiLAogICAgICAgICAgICAgICAgICJzb2NrZXQuIiwgImN1cmwiLCAiY2xpZW50LmNoYXQiLCAib3BlbmFpIiwgIi5jcmVhdGUoIikKClNUT0NIX1RPS0VOUyA9ICgicmFuZG9tLiIsICJucC5yYW5kb20iLCAibnVtcHkucmFuZG9tIiwgInRvcmNoLiIsICJzaHVmZmxlIiwKICAgICAgICAgICAgICAgICJyYW5kaW50IiwgInJhbmRwZXJtIiwgInNhbXBsZSgiKQoKCmRlZiBfbigqdHlwZXMpOgogICAgcmV0dXJuIHR1cGxlKHR5cGVzKQoKCiMgZWdfaWQgLT4gZGljdChub2RlPS4uLiwga2V5cz0uLi4sIGtpbmQ9Li4uLCBub3RlPS4uLikKQU5DSE9SX1NQRUMgPSB7CiAgICAjIEVHMDAwIGlzIG5vdCBhIHJ1bGUuIEl0IGlzIHRoZSBtYXJrZXIgY2xpLnB5IGVtaXRzIHdoZW4gaXQgZG93bmdyYWRlcwogICAgIyBmaW5kaW5ncyBpbiBkZW1vL2V4YW1wbGUgZmlsZXMgYW5kIGZvciBTeW50YXhFcnJvci4gRGVjbGFyaW5nIGl0IGtlZXBzCiAgICAjIGl0IG91dCBvZiB0aGUgIk5PX1NQRUMiIGJ1Y2tldCwgd2hpY2ggd291bGQgb3RoZXJ3aXNlIGJlIHJlYWQgYXMgYQogICAgIyBydWxlIHRoYXQgZmFpbGVkIHRvIGRlY2xhcmUgLS0gYSBjYXRlZ29yeSBlcnJvci4KICAgICJFRzAwMCI6IGRpY3Qoa2luZD0ibW9kdWxlIiwgbm9kZT0oKSwga2V5cz0oKSwKICAgICAgICAgICAgICAgICAgbm90ZT0iY2xpIGRvd25ncmFkZSBtYXJrZXIgLyBTeW50YXhFcnJvciwgbm90IGEgcnVsZSIpLAogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIGNvcmUgcnVsZXMKICAgICJFRzAwMSI6IGRpY3Qoa2luZD0icHJlc2VudCIsIG5vZGU9X24oYXN0LkNhbGwpLCBrZXlzPVNUT0NIX1RPS0VOUywKICAgICAgICAgICAgICAgICAgbm90ZT0idGhlIHN0b2NoYXN0aWMgY2FsbCBpdHNlbGYiKSwKICAgICJFRzAwMiI6IGRpY3Qoa2luZD0iYWJzZW50Iiwgbm9kZT1fbihhc3QuQ2FsbCksIGtleXM9TUVUUklDX1dPUkRTLAogICAgICAgICAgICAgICAgICBub3RlPSJ0aGUgc3RhdGVtZW50IHRoYXQgcmVwb3J0cyB0aGUgbWV0cmljOyB0aGVyZSBpcyBubyAiCiAgICAgICAgICAgICAgICAgICAgICAgIidtaXNzaW5nIGJhc2VsaW5lJyBub2RlIHRvIHBvaW50IGF0IiksCiAgICAiRUcwMDMiOiBkaWN0KGtpbmQ9InByZXNlbnQiLCBub2RlPV9uKGFzdC5Db21wYXJlLCBhc3QuQ29uc3RhbnQsIGFzdC5Bc3NpZ24pLAogICAgICAgICAgICAgICAgICBrZXlzPSgpLCBub3RlPSJ0aGUgY29tcGFyaXNvbi9jb25zdGFudCBob2xkaW5nIHRoZSBtYWdpYyBudW1iZXIiKSwKICAgICJFRzAwNCI6IGRpY3Qoa2luZD0icHJlc2VudCIsIG5vZGU9X24oYXN0LkNhbGwpLCBrZXlzPSgpLAogICAgICAgICAgICAgICAgICBub3RlPSJ0aGUgY2FsbCBzaXRlIHRoYXQgYXBwbGllcyB0aGUgc2luZ2xlIGN1dC1vZmYiKSwKICAgICJFRzAwNSI6IGRpY3Qoa2luZD0icHJlc2VudCIsIG5vZGU9X24oYXN0LkJpbk9wKSwga2V5cz0oIi8iLCAiLy8iKSwKICAgICAgICAgICAgICAgICAgbm90ZT0idGhlIGRpdmlzaW9uIGl0c2VsZiIpLAogICAgIkVHMDA2IjogZGljdChraW5kPSJwcmVzZW50Iiwgbm9kZT1fbihhc3QuRXhjZXB0SGFuZGxlciwgYXN0LlRyeSksCiAgICAgICAgICAgICAgICAgIGtleXM9KCJleGNlcHQiLCksIG5vdGU9InRoZSBoYW5kbGVyIHRoYXQgc3dhbGxvd3MiKSwKICAgICJFRzAwNyI6IGRpY3Qoa2luZD0ibW9kdWxlIiwgbm9kZT0oKSwga2V5cz0oKSwKICAgICAgICAgICAgICAgICAgbm90ZT0iYWJzZW5jZSBvZiBhbnkgd3JpdGUgY2FsbDsgbm8gbm9kZSBleGlzdHMiKSwKICAgICJFRzAwOCI6IGRpY3Qoa2luZD0ibW9kdWxlIiwgbm9kZT0oKSwga2V5cz0oKSwKICAgICAgICAgICAgICAgICAgbm90ZT0iYWJzZW5jZSBvZiBhIGhlbGQtb3V0IHNwbGl0OyBubyBub2RlIGV4aXN0cyIpLAogICAgIkVHMDA5IjogZGljdChraW5kPSJwcmVzZW50Iiwgbm9kZT1fbihhc3QuQXNzaWduLCBhc3QuQW5uQXNzaWduLCBhc3QuTmFtZSksCiAgICAgICAgICAgICAgICAgIGtleXM9KCksIG5vdGU9InRoZSBhc3NpZ25tZW50IHdob3NlIHRhcmdldCBpcyBuZXZlciByZWFkIiksCiAgICAiRUcwMTAiOiBkaWN0KGtpbmQ9Im1vZHVsZSIsIG5vZGU9KCksIGtleXM9KCksCiAgICAgICAgICAgICAgICAgIG5vdGU9ImFic2VuY2Ugb2YgYSBzZWNvbmQgbWV0cmljIGZhbWlseTsgbm8gbm9kZSBleGlzdHMiKSwKICAgICJFRzAxMSI6IGRpY3Qoa2luZD0icHJlc2VudCIsIG5vZGU9X24oYXN0LkNvbnRpbnVlLCBhc3QuQnJlYWssIGFzdC5JZiksCiAgICAgICAgICAgICAgICAgICMgZXhwMTMzOiBkZWNsYXJlZCB0d2ljZSwgYm90aCB0aW1lcyB3cm9uZywgYm90aCB0aW1lcwogICAgICAgICAgICAgICAgICAjIHVzZWZ1bGx5IHdyb25nLgogICAgICAgICAgICAgICAgICAjICB2MSBub2RlPUZvci9XaGlsZS9JZiBrZXlzPSgiZm9yICIsIndoaWxlICIsImlmICIpIC0+CiAgICAgICAgICAgICAgICAgICMgICAgICA1NTQvNTU0IG9mIHRob3NlIG5vZGVzIGNvbnRhaW4gYSBrZXk6IHZhY3VvdXMuCiAgICAgICAgICAgICAgICAgICMgIHYyIHNhbWUgbm9kZSwga2V5cyB0aWdodGVuZWQgdG8gc2tpcHBpbmcgd29yZHMgLT4KICAgICAgICAgICAgICAgICAgIyAgICAgIHRoZSBwcm9vZiB0aGVuIHJlYWQgdGhlIGxvb3AncyBXSE9MRSBib2R5LCBzbyBhCiAgICAgICAgICAgICAgICAgICMgICAgICBwaW4gb24gdGhlIGhlYWRlciBwYXNzZWQgdmlhIGEgYGNvbnRpbnVlYCBiZWxvdy4KICAgICAgICAgICAgICAgICAgIyAgdjM6IHRoZSBpbXBsZW1lbnRhdGlvbiBub3cgcGlucyB0aGUgc2tpcCBzdGF0ZW1lbnQKICAgICAgICAgICAgICAgICAgIyAgICAgIGl0c2VsZiAoZXhwMTMzIGZpeCksIHNvIHRoZSBkZWNsYXJlZCBub2RlIGlzIHRoZQogICAgICAgICAgICAgICAgICAjICAgICAgc2tpcCBzdGF0ZW1lbnQuIEEgZGVjbGFyYXRpb24gdGhhdCBkaXNhZ3JlZXMgd2l0aAogICAgICAgICAgICAgICAgICAjICAgICAgdGhlIGltcGxlbWVudGF0aW9uIGlzIHRoZSB0aGluZyB0aGlzIGZpbGUgZXhpc3RzCiAgICAgICAgICAgICAgICAgICMgICAgICB0byBtYWtlIHZpc2libGUgLS0gaXQgcmVwb3J0ZWQgV1JPTkdfTk9ERSAzLzMKICAgICAgICAgICAgICAgICAgIyAgICAgIHRoZSBtb21lbnQgdGhlIGltcGxlbWVudGF0aW9uIG1vdmVkLgogICAgICAgICAgICAgICAgICBrZXlzPSgiY29udGludWUiLCAiYnJlYWsiLCAic2tpcCIsICJyZXR1cm4iLCAibmV4dCgiKSwKICAgICAgICAgICAgICAgICAgbm90ZT0idGhlIHN0YXRlbWVudCB0aGF0IHNraXBzIGEgY2FzZSIpLAogICAgIkVHMDEyIjogZGljdChraW5kPSJhYnNlbnQiLCBub2RlPV9uKGFzdC5DYWxsLCBhc3QuQXNzaWduLCBhc3QuTmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc3QuQXR0cmlidXRlKSwKICAgICAgICAgICAgICAgICAga2V5cz1NRVRSSUNfV09SRFMsCiAgICAgICAgICAgICAgICAgIG5vdGU9InRoZSBpZGVudGlmaWNhdGlvbiBtZXRyaWM7IHBvc2l0aXZlIGNvbnRyb2wgaXMgYWJzZW50IiksCiAgICAiRUcwMTMiOiBkaWN0KGtpbmQ9InByZXNlbnQiLCBub2RlPV9uKGFzdC5CaW5PcCwgYXN0LkNhbGwpLAogICAgICAgICAgICAgICAgICBrZXlzPU1FVFJJQ19XT1JEUyArICgiLyIsKSwgbm90ZT0idGhlIHJhdGlvIGV4cHJlc3Npb24iKSwKICAgICJFRzAxNCI6IGRpY3Qoa2luZD0icHJlc2VudCIsIG5vZGU9X24oYXN0LkFzc2lnbiwgYXN0Lk5hbWUsIGFzdC5DYWxsKSwKICAgICAgICAgICAgICAgICAga2V5cz0oImZpeGVkIiwgImNvbnN0IiwgInN0YXRpYyIsICJzZWVkIiwgImJhc2UiKSwKICAgICAgICAgICAgICAgICAgbm90ZT0idGhlIG5hbWUgdGhhdCBjbGFpbXMgY29uc3RhbmN5IiksCiAgICAiRUcwMTUiOiBkaWN0KGtpbmQ9Im1vZHVsZSIsIG5vZGU9KCksIGtleXM9KCksCiAgICAgICAgICAgICAgICAgIG5vdGU9ImFic2VuY2Ugb2YgYSBwZXItYXhpcyBicmVha2Rvd247IG5vIG5vZGUgZXhpc3RzIiksCiAgICAiRUcwMTYiOiBkaWN0KGtpbmQ9InByZXNlbnQiLCBub2RlPV9uKGFzdC5DYWxsKSwga2V5cz1SRU1PVEVfVE9LRU5TLAogICAgICAgICAgICAgICAgICBub3RlPSJ0aGUgcmVtb3RlIGNhbGwgd2hvc2UgcmVhY2hhYmlsaXR5IGlzIG5ldmVyIHJlLXRlc3RlZCIpLAoKICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIHBybyBydWxlcwogICAgIkVHUDAxIjogZGljdChraW5kPSJwcmVzZW50Iiwgbm9kZT1fbihhc3QuVHJ5LCBhc3QuRXhjZXB0SGFuZGxlciwgYXN0LklmKSwKICAgICAgICAgICAgICAgICAga2V5cz0oImV4Y2VwdCIsICJjb250aW51ZSIsICJza2lwIiwgImRyb3AiKSwKICAgICAgICAgICAgICAgICAgbm90ZT0idGhlIGNvbnN0cnVjdCB0aGF0IGRyb3BzIGZhaWxlZCBzYW1wbGVzIiksCiAgICAiRUdQMDIiOiBkaWN0KGtpbmQ9InByZXNlbnQiLCBub2RlPV9uKGFzdC5DYWxsLCBhc3QuQXNzaWduKSwKICAgICAgICAgICAgICAgICAga2V5cz0oKSwgbm90ZT0idGhlIGZpdC90aHJlc2hvbGQgY2FsbCIpLAogICAgIkVHUDAzIjogZGljdChraW5kPSJtb2R1bGUiLCBub2RlPSgpLCBrZXlzPSgpLAogICAgICAgICAgICAgICAgICBub3RlPSJhYnNlbmNlIG9mIGEgY29ycmVjdGlvbiBjYWxsOyBubyBub2RlIGV4aXN0cyIpLAogICAgIkVHUDA0IjogZGljdChraW5kPSJhYnNlbnQiLCBub2RlPV9uKGFzdC5DYWxsLCBhc3QuQXNzaWduKSwKICAgICAgICAgICAgICAgICAga2V5cz0oImp1ZGdlIiwgImNvbXBhcmUiLCAicGFpciIsICJvcmRlciIsICJzY29yZSIsICJ2b3RlIiksCiAgICAgICAgICAgICAgICAgIG5vdGU9InRoZSBwYWlyd2lzZSBqdWRnZW1lbnQ7IHRoZSBvcmRlciBzd2FwIGlzIGFic2VudCIpLAogICAgIkVHUDA1IjogZGljdChraW5kPSJtb2R1bGUiLCBub2RlPSgpLCBrZXlzPSgpLAogICAgICAgICAgICAgICAgICBub3RlPSJhYnNlbmNlIG9mIGEgc3BsaXQ7IG5vIG5vZGUgZXhpc3RzIiksCiAgICAiRUdQMDYiOiBkaWN0KGtpbmQ9ImFic2VudCIsIG5vZGU9X24oYXN0LkNhbGwsIGFzdC5Bc3NpZ24sIGFzdC5OYW1lKSwKICAgICAgICAgICAgICAgICAga2V5cz1NRVRSSUNfV09SRFMsCiAgICAgICAgICAgICAgICAgIG5vdGU9InRoZSByZXBvcnRlZCBtZXRyaWM7IHRoZSByZXBlYXQvc3ByZWFkIGlzIGFic2VudCIpLAogICAgIkVHUDA3IjogZGljdChraW5kPSJwcmVzZW50Iiwgbm9kZT1fbihhc3QuQ2FsbCksIGtleXM9KCJsb2FkIiwgImNhY2hlIiwKICAgICAgICAgICAgICAgICAgInJlYWQiLCAib3BlbiIsICJqc29uIiksIG5vdGU9InRoZSB1bmhhc2hlZCBjYWNoZSBsb2FkIiksCiAgICAiRUdQMDgiOiBkaWN0KGtpbmQ9InByZXNlbnQiLCBub2RlPV9uKGFzdC5Bc3NlcnQpLCBrZXlzPSgiYXNzZXJ0IiwpLAogICAgICAgICAgICAgICAgICBub3RlPSJ0aGUgYXNzZXJ0aW9uIHRoYXQgb25seSBndWFyZHMgdGhlIHN1Y2Nlc3MgcGF0aCIpLAogICAgIkVHUDA5IjogZGljdChraW5kPSJhYnNlbnQiLCBub2RlPV9uKGFzdC5DYWxsLCBhc3QuQXNzaWduKSwKICAgICAgICAgICAgICAgICAga2V5cz0oIm1lYW4iLCAiYXZlcmFnZSIsICJucC5tZWFuIiwgInN1bSgiLCAiLyIpLAogICAgICAgICAgICAgICAgICBub3RlPSJ0aGUgY29sbGFwc2UgdG8gYSBtZWFuOyB0aGUgdGFpbCBpcyBhYnNlbnQiKSwKICAgICJFR1AxMCI6IGRpY3Qoa2luZD0icHJlc2VudCIsIG5vZGU9X24oYXN0LlN1YnNjcmlwdCwgYXN0LkFzc2lnbiksCiAgICAgICAgICAgICAgICAgIGtleXM9KCJbIiwgInJlc3BvbnNlIiwgImNob2ljZXMiLCAibWVzc2FnZSIsICJjb250ZW50IiksCiAgICAgICAgICAgICAgICAgIG5vdGU9InRoZSBpbmRleGluZyBpbnRvIHRoZSBtb2RlbCByZXNwb25zZSIpLAp9CgoKZGVmIHNwZWNfZm9yKGVnX2lkKToKICAgIHJldHVybiBBTkNIT1JfU1BFQy5nZXQoZWdfaWQpCgoKZGVmIGRlc2NyaWJlKGVnX2lkKToKICAgIHMgPSBzcGVjX2ZvcihlZ19pZCkKICAgIGlmIHMgaXMgTm9uZToKICAgICAgICByZXR1cm4gZiJ7ZWdfaWR9OiBOTyBTUEVDIERFQ0xBUkVEIgogICAgbmFtZXMgPSAiLCIuam9pbih0Ll9fbmFtZV9fIGZvciB0IGluIHNbIm5vZGUiXSkgb3IgIi0iCiAgICByZXR1cm4gZiJ7ZWdfaWR9OiB7c1sna2luZCddOjdzfSBub2RlPXtuYW1lczoyNHN9IGtleXM9e2xlbihzWydrZXlzJ10pfSIK
+"""Explicit anchor declarations — what syntax each rule ACCUSES (exp133).
+
+Why this file exists
+--------------------
+exp130 measured: only 35.3% of findings were pinned to the code they
+accuse. exp132 fixed two rules (EG002, EG016) by giving them semantic
+anchors and proved each anchor against its own source.
+
+But 20 of 22 findings still got their line from a pre-exp130 heuristic.
+The reason is structural: **nothing in the codebase states what a rule is
+talking about.** Each rule computes a file-level boolean and then picks a
+line by whatever local variable happened to be in scope. There is no
+declaration to check the line against, so "is this line the right one?" is
+not a question the code can even ask.
+
+So: declare it. Every rule now states
+
+    node   the AST node types that constitute evidence for the claim
+    keys   tokens that must occur in that node's OWN source segment
+    kind   present  -> the accused thing exists; pointing at it is exact
+           absent   -> the accused thing is MISSING (no baseline, no
+                       re-test). There is no node. The anchor is the node
+                       that carries the semantics under accusation and it
+                       must still prove itself with `keys`.
+           module   -> claim is about the whole file; no honest pin exists.
+                       Pinning these to line 1 is the lie exp130 caught.
+
+The declaration is a CLAIM, not a fact. `audit_anchors.py` checks every
+finding against it. A rule whose findings keep failing its own spec is
+either mis-declared or mis-implemented; either way it is now visible.
+"""
+import ast
+
+METRIC_WORDS = ("accuracy", "acc", "recall", "precision", "f1", "hit_rate",
+                "score", "bleu", "rouge", "pass@", "pass_at", "exact_match",
+                "命中", "准确率")
+
+REMOTE_TOKENS = ("requests.", "httpx.", "urlopen", "http.client", "aiohttp",
+                 "socket.", "curl", "client.chat", "openai", ".create(")
+
+STOCH_TOKENS = ("random.", "np.random", "numpy.random", "torch.", "shuffle",
+                "randint", "randperm", "sample(")
+
+
+def _n(*types):
+    return tuple(types)
+
+
+# eg_id -> dict(node=..., keys=..., kind=..., note=...)
+ANCHOR_SPEC = {
+    # EG000 is not a rule. It is the marker cli.py emits when it downgrades
+    # findings in demo/example files and for SyntaxError. Declaring it keeps
+    # it out of the "NO_SPEC" bucket, which would otherwise be read as a
+    # rule that failed to declare -- a category error.
+    "EG000": dict(kind="module", node=(), keys=(),
+                  note="cli downgrade marker / SyntaxError, not a rule"),
+    # ---------------------------------------------------------- core rules
+    "EG001": dict(kind="present", node=_n(ast.Call), keys=STOCH_TOKENS,
+                  note="the stochastic call itself"),
+    "EG002": dict(kind="absent", node=_n(ast.Call), keys=METRIC_WORDS,
+                  note="the statement that reports the metric; there is no "
+                       "'missing baseline' node to point at"),
+    "EG003": dict(kind="present", node=_n(ast.Compare, ast.Constant, ast.Assign),
+                  keys=(), note="the comparison/constant holding the magic number"),
+    "EG004": dict(kind="present", node=_n(ast.Call), keys=(),
+                  note="the call site that applies the single cut-off"),
+    "EG005": dict(kind="present", node=_n(ast.BinOp), keys=("/", "//"),
+                  note="the division itself"),
+    "EG006": dict(kind="present", node=_n(ast.ExceptHandler, ast.Try),
+                  keys=("except",), note="the handler that swallows"),
+    "EG007": dict(kind="module", node=(), keys=(),
+                  note="absence of any write call; no node exists"),
+    "EG008": dict(kind="module", node=(), keys=(),
+                  note="absence of a held-out split; no node exists"),
+    "EG009": dict(kind="present", node=_n(ast.Assign, ast.AnnAssign, ast.Name),
+                  keys=(), note="the assignment whose target is never read"),
+    "EG010": dict(kind="module", node=(), keys=(),
+                  note="absence of a second metric family; no node exists"),
+    "EG011": dict(kind="present", node=_n(ast.Continue, ast.Break, ast.If),
+                  # exp133: declared twice, both times wrong, both times
+                  # usefully wrong.
+                  #  v1 node=For/While/If keys=("for ","while ","if ") ->
+                  #      554/554 of those nodes contain a key: vacuous.
+                  #  v2 same node, keys tightened to skipping words ->
+                  #      the proof then read the loop's WHOLE body, so a
+                  #      pin on the header passed via a `continue` below.
+                  #  v3: the implementation now pins the skip statement
+                  #      itself (exp133 fix), so the declared node is the
+                  #      skip statement. A declaration that disagrees with
+                  #      the implementation is the thing this file exists
+                  #      to make visible -- it reported WRONG_NODE 3/3
+                  #      the moment the implementation moved.
+                  keys=("continue", "break", "skip", "return", "next("),
+                  note="the statement that skips a case"),
+    "EG012": dict(kind="absent", node=_n(ast.Call, ast.Assign, ast.Name,
+                                         ast.Attribute),
+                  keys=METRIC_WORDS,
+                  note="the identification metric; positive control is absent"),
+    "EG013": dict(kind="present", node=_n(ast.BinOp, ast.Call),
+                  keys=METRIC_WORDS + ("/",), note="the ratio expression"),
+    "EG014": dict(kind="present", node=_n(ast.Assign, ast.Name, ast.Call),
+                  keys=("fixed", "const", "static", "seed", "base"),
+                  note="the name that claims constancy"),
+    "EG015": dict(kind="module", node=(), keys=(),
+                  note="absence of a per-axis breakdown; no node exists"),
+    "EG016": dict(kind="present", node=_n(ast.Call), keys=REMOTE_TOKENS,
+                  note="the remote call whose reachability is never re-tested"),
+
+    # ------------------------------------------------------------ pro rules
+    "EGP01": dict(kind="present", node=_n(ast.Try, ast.ExceptHandler, ast.If),
+                  keys=("except", "continue", "skip", "drop"),
+                  note="the construct that drops failed samples"),
+    "EGP02": dict(kind="present", node=_n(ast.Call, ast.Assign),
+                  keys=(), note="the fit/threshold call"),
+    "EGP03": dict(kind="module", node=(), keys=(),
+                  note="absence of a correction call; no node exists"),
+    "EGP04": dict(kind="absent", node=_n(ast.Call, ast.Assign),
+                  keys=("judge", "compare", "pair", "order", "score", "vote"),
+                  note="the pairwise judgement; the order swap is absent"),
+    "EGP05": dict(kind="module", node=(), keys=(),
+                  note="absence of a split; no node exists"),
+    "EGP06": dict(kind="absent", node=_n(ast.Call, ast.Assign, ast.Name),
+                  keys=METRIC_WORDS,
+                  note="the reported metric; the repeat/spread is absent"),
+    "EGP07": dict(kind="present", node=_n(ast.Call), keys=("load", "cache",
+                  "read", "open", "json"), note="the unhashed cache load"),
+    "EGP08": dict(kind="present", node=_n(ast.Assert), keys=("assert",),
+                  note="the assertion that only guards the success path"),
+    "EGP09": dict(kind="absent", node=_n(ast.Call, ast.Assign),
+                  keys=("mean", "average", "np.mean", "sum(", "/"),
+                  note="the collapse to a mean; the tail is absent"),
+    "EGP10": dict(kind="present", node=_n(ast.Subscript, ast.Assign),
+                  keys=("[", "response", "choices", "message", "content"),
+                  note="the indexing into the model response"),
+}
+
+
+def spec_for(eg_id):
+    return ANCHOR_SPEC.get(eg_id)
+
+
+def describe(eg_id):
+    s = spec_for(eg_id)
+    if s is None:
+        return f"{eg_id}: NO SPEC DECLARED"
+    names = ",".join(t.__name__ for t in s["node"]) or "-"
+    return f"{eg_id}: {s['kind']:7s} node={names:24s} keys={len(s['keys'])}"

@@ -1,1 +1,87 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG9zCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IGZvbnRfbWFuYWdlcgoKUk9PVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCmZvciBmIGluIFsiV2VuUXVhbllpIE1pY3JvIEhlaSIsICJOb3RvIFNhbnMgQ0pLIFNDIl06CiAgICB0cnk6CiAgICAgICAgZm9udF9tYW5hZ2VyLmZpbmRmb250KGYsIGZhbGxiYWNrX3RvX2RlZmF1bHQ9RmFsc2UpCiAgICAgICAgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXSA9IFtmXQogICAgICAgIGJyZWFrCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGNvbnRpbnVlCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl0gPSBGYWxzZQoKZCA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihST09ULCAicmVzdWx0XzA4MS5qc29uIiksIGVuY29kaW5nPSJ1dGYtOCIpKQp0cnk6CiAgICBjID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKFJPT1QsICJyZXN1bHRfMDgxYy5qc29uIiksIGVuY29kaW5nPSJ1dGYtOCIpKQpleGNlcHQgRXhjZXB0aW9uOgogICAgYyA9IE5vbmUKCkEgPSBkWyJwYXJ0X2EiXQpuYW1lcyA9IFsiYWxpZ25fb25seVxu5Y+q5pyJQT1CIiwgInVuaWZvcm1fb25seVxu5Y+q5pyJQeKJoEIiLCAiY2hhc2VcbuebuOS6kui/vemAkCIsICJyYW5kb21fd2Fsa1xu556O6LWwIl0KcG9zID0gW0Fba11bInBvc19jb3MiXVsibWVhbiJdIGZvciBrIGluIFsiYWxpZ25fb25seSIsICJ1bmlmb3JtX29ubHkiLCAiY2hhc2UiLCAicmFuZG9tX3dhbGsiXV0KZGVsdGEgPSBbQVtrXVsiZGVsdGEiXVsibWVhbiJdIGZvciBrIGluIFsiYWxpZ25fb25seSIsICJ1bmlmb3JtX29ubHkiLCAiY2hhc2UiLCAicmFuZG9tX3dhbGsiXV0KaW50cmEgPSBbQVtrXVsiaW50cmEiXVsibWVhbiJdIGZvciBrIGluIFsiYWxpZ25fb25seSIsICJ1bmlmb3JtX29ubHkiLCAiY2hhc2UiLCAicmFuZG9tX3dhbGsiXV0KCkIgPSBkWyJwYXJ0X2JfcGFpcmVkIl1bInJvd3MiXQpicHMgPSBbclsicF9mbGlwIl0gZm9yIHIgaW4gQl0KYnNrID0gW3JbInNrZXciXSBmb3IgciBpbiBCXQpiYmFzZSA9IGRbInBhcnRfYl9wYWlyZWQiXS5nZXQoImJhc2UiLCB7fSkuZ2V0KCJza2V3IiwgMC4yMzc2KQoKZmlnLCBheCA9IHBsdC5zdWJwbG90cygyLCAyLCBmaWdzaXplPSgxMS41LCA3LjYpKQoKIyDikaAgcG9zX2Nvc++8mueisOS4iuS6huWQlwp4ID0gbnAuYXJhbmdlKDQpCmIgPSBheFswLCAwXS5iYXIoeCwgcG9zLCBjb2xvcj1bIiNjMDM5MmIiLCAiIzdmOGM4ZCIsICIjMjdhZTYwIiwgIiM5NWE1YTYiXSkKYXhbMCwgMF0uYXhobGluZSgxLjAsIGxzPSItLSIsIGM9InIiLCBsdz0xKQpheFswLCAwXS50ZXh0KDMuMzUsIDEuMDIsICLnorDkuIooPTEpIiwgY29sb3I9InIiLCBmb250c2l6ZT04KQpheFswLCAwXS5zZXRfeHRpY2tzKHgpOyBheFswLCAwXS5zZXRfeHRpY2tsYWJlbHMobmFtZXMsIGZvbnRzaXplPTgpCmF4WzAsIDBdLnNldF95bGFiZWwoInBvc19jb3MiLCBmb250c2l6ZT05KQpheFswLCAwXS5zZXRfdGl0bGUoIuKRoCDkuKTkuKrngrnnorDkuIrkuoblkJdcbuWPquaciei/vemAkOaBkuS4jeWIsCAx77yIMC41Mzk277yJIiwgZm9udHNpemU9MTApCmZvciBpLCB2IGluIGVudW1lcmF0ZShwb3MpOgogICAgYXhbMCwgMF0udGV4dChpLCB2ICsgMC4wMiwgZiJ7djouNGZ9IiwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTgpCgojIOKRoSBkZWx0YSDkuI4gaW50cmEg5Y+M5Yik5o2uCncgPSAwLjM4CmF4WzAsIDFdLmJhcih4IC0gdy8yLCBkZWx0YSwgdywgbGFiZWw9ImRlbHRh77yI5Y+v5YiG57uT5p6E77yJIiwgY29sb3I9IiMyOTgwYjkiKQpheFswLCAxXS5iYXIoeCArIHcvMiwgaW50cmEsIHcsIGxhYmVsPSJpbnRyYe+8iOexu+WGhemHjeWQiOW6pu+8iSIsIGNvbG9yPSIjZTY3ZTIyIikKYXhbMCwgMV0uYXhobGluZSgxLjAsIGxzPSI6IiwgYz0iayIsIGx3PTEpCmF4WzAsIDFdLnNldF94dGlja3MoeCk7IGF4WzAsIDFdLnNldF94dGlja2xhYmVscyhuYW1lcywgZm9udHNpemU9OCkKYXhbMCwgMV0ubGVnZW5kKGZvbnRzaXplPTgpCmF4WzAsIDFdLnNldF90aXRsZSgi4pGhIOWNleeciyBkZWx0Ye+8muWdjee8qeW+l+WIhuacgOmrmCgxLjAwMjQpXG7kvYYgaW50cmE9MS4wMDAwIOKGkiDkuKrkvZPlvZLpm7YiLCBmb250c2l6ZT0xMCkKCiMg4pGiIOW8leaTjiBwX2ZsaXAg5YmC6YePCmF4WzEsIDBdLnBsb3QoYnBzLCBic2ssICJvLSIsIGNvbG9yPSIjOGU0NGFkIikKZm9yIHIgaW4gQjoKICAgIGZsYWcgPSAiKiIgaWYgKHJbImNpX2xvIl0gPiAwIG9yIHJbImNpX2hpIl0gPCAwKSBlbHNlICIiCiAgICBheFsxLCAwXS50ZXh0KHJbInBfZmxpcCJdLCByWyJza2V3Il0gKyAwLjAxMiwKICAgICAgICAgICAgICAgICAgZicre3JbImRpZmZfdnNfYmFzZSJdOi4zZn17ZmxhZ30nLCBoYT0iY2VudGVyIiwgZm9udHNpemU9OCkKYXhbMSwgMF0uc2V0X3hsYWJlbCgicF9mbGlw77yIQeKJoEIg5by65bqmIC8g6L+d6IOM6aKE5rWL55qE5qaC546H77yJIiwgZm9udHNpemU9OSkKYXhbMSwgMF0uc2V0X3lsYWJlbCgi5a656YeP5YGP5bqm77yI57uT5p6E77yJIiwgZm9udHNpemU9OSkKYXhbMSwgMF0uc2V0X3RpdGxlKCLikaIg5Y+v6aKE5rWL5oCn6LaK6auY77yM57uT5p6E6LaK5byxXG4wLjIzNzYg4oaSIDAuNDcxNe+8jOWJgumHj+WNleiwg++8jENJIOWFqOatoyIsIGZvbnRzaXplPTEwKQoKIyDikaMgUGFydCBDIOmYtOaApyArIOato+WQkeWvueeFpwppZiBjOgogICAgcm93cyA9IGNbIkMxIl1bInJvd3MiXQogICAgbm0gPSBbclsibmFtZSJdIGZvciByIGluIHJvd3NdCiAgICBkZCA9IFtyWyJkaWZmX3ZzX2Jhc2UiXSBmb3IgciBpbiByb3dzXQogICAgbG8gPSBbclsiY2lfbG8iXSBmb3IgciBpbiByb3dzXQogICAgaGkgPSBbclsiY2lfaGkiXSBmb3IgciBpbiByb3dzXQogICAgeHggPSBucC5hcmFuZ2UobGVuKG5tKSkKICAgIGF4WzEsIDFdLmJhcih4eCwgZGQsIGNvbG9yPVsiIzE2YTA4NSIgaWYgbm90IChsID4gMCBvciBoIDwgMCkgZWxzZSAiI2MwMzkyYiIgZm9yIGwsIGggaW4gemlwKGxvLCBoaSldKQogICAgYXhbMSwgMV0uZXJyb3JiYXIoeHgsIGRkLCB5ZXJyPVtbZGRbaV0gLSBsb1tpXSBmb3IgaSBpbiByYW5nZShsZW4oZGQpKV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtoaVtpXSAtIGRkW2ldIGZvciBpIGluIHJhbmdlKGxlbihkZCkpXV0sIGZtdD0ibm9uZSIsIGVjb2xvcj0iayIsIGNhcHNpemU9MykKICAgIGF4WzEsIDFdLmF4aGxpbmUoMCwgYz0iayIsIGx3PTEpCiAgICBheFsxLCAxXS5zZXRfeHRpY2tzKHh4KTsgYXhbMSwgMV0uc2V0X3h0aWNrbGFiZWxzKG5tLCBmb250c2l6ZT05KQogICAgYXhbMSwgMV0uc2V0X3lsYWJlbCgizpQg5YGP5bqmIHZzIOaKveixoeehrOS7tiIsIGZvbnRzaXplPTkpCiAgICBheFsxLCAxXS5zZXRfdGl0bGUoIuKRoyDmjaLog73lmajnmoTljJblrabnvLrpmbflhajpg6jml6DmlYjlupRcbu+8iOato+WQkeWvueeFp++8mmFtcD0wIOaXtuWtmOa0uyA0Lzgg4oaSIOmAmui3r+aYr+a0u+eahO+8iSIsIGZvbnRzaXplPTEwKQoKcGx0LnRpZ2h0X2xheW91dCgpCm9wID0gb3MucGF0aC5qb2luKFJPT1QsICJmaWciLCAiMDgxX2NoYXNlLnBuZyIpCnBsdC5zYXZlZmlnKG9wLCBkcGk9MTMwKQpwcmludCgic2F2ZWQiLCBvcCwgb3MucGF0aC5nZXRzaXplKG9wKSkK
+# -*- coding: utf-8 -*-
+import json, os
+import numpy as np
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+for f in ["WenQuanYi Micro Hei", "Noto Sans CJK SC"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False)
+        plt.rcParams["font.sans-serif"] = [f]
+        break
+    except Exception:
+        continue
+plt.rcParams["axes.unicode_minus"] = False
+
+d = json.load(open(os.path.join(ROOT, "result_081.json"), encoding="utf-8"))
+try:
+    c = json.load(open(os.path.join(ROOT, "result_081c.json"), encoding="utf-8"))
+except Exception:
+    c = None
+
+A = d["part_a"]
+names = ["align_only\n只有A=B", "uniform_only\n只有A≠B", "chase\n相互追逐", "random_walk\n瞎走"]
+pos = [A[k]["pos_cos"]["mean"] for k in ["align_only", "uniform_only", "chase", "random_walk"]]
+delta = [A[k]["delta"]["mean"] for k in ["align_only", "uniform_only", "chase", "random_walk"]]
+intra = [A[k]["intra"]["mean"] for k in ["align_only", "uniform_only", "chase", "random_walk"]]
+
+B = d["part_b_paired"]["rows"]
+bps = [r["p_flip"] for r in B]
+bsk = [r["skew"] for r in B]
+bbase = d["part_b_paired"].get("base", {}).get("skew", 0.2376)
+
+fig, ax = plt.subplots(2, 2, figsize=(11.5, 7.6))
+
+# ① pos_cos：碰上了吗
+x = np.arange(4)
+b = ax[0, 0].bar(x, pos, color=["#c0392b", "#7f8c8d", "#27ae60", "#95a5a6"])
+ax[0, 0].axhline(1.0, ls="--", c="r", lw=1)
+ax[0, 0].text(3.35, 1.02, "碰上(=1)", color="r", fontsize=8)
+ax[0, 0].set_xticks(x); ax[0, 0].set_xticklabels(names, fontsize=8)
+ax[0, 0].set_ylabel("pos_cos", fontsize=9)
+ax[0, 0].set_title("① 两个点碰上了吗\n只有追逐恒不到 1（0.5396）", fontsize=10)
+for i, v in enumerate(pos):
+    ax[0, 0].text(i, v + 0.02, f"{v:.4f}", ha="center", fontsize=8)
+
+# ② delta 与 intra 双判据
+w = 0.38
+ax[0, 1].bar(x - w/2, delta, w, label="delta（可分结构）", color="#2980b9")
+ax[0, 1].bar(x + w/2, intra, w, label="intra（类内重合度）", color="#e67e22")
+ax[0, 1].axhline(1.0, ls=":", c="k", lw=1)
+ax[0, 1].set_xticks(x); ax[0, 1].set_xticklabels(names, fontsize=8)
+ax[0, 1].legend(fontsize=8)
+ax[0, 1].set_title("② 单看 delta：坍缩得分最高(1.0024)\n但 intra=1.0000 → 个体归零", fontsize=10)
+
+# ③ 引擎 p_flip 剂量
+ax[1, 0].plot(bps, bsk, "o-", color="#8e44ad")
+for r in B:
+    flag = "*" if (r["ci_lo"] > 0 or r["ci_hi"] < 0) else ""
+    ax[1, 0].text(r["p_flip"], r["skew"] + 0.012,
+                  f'+{r["diff_vs_base"]:.3f}{flag}', ha="center", fontsize=8)
+ax[1, 0].set_xlabel("p_flip（A≠B 强度 / 违背预测的概率）", fontsize=9)
+ax[1, 0].set_ylabel("容量偏度（结构）", fontsize=9)
+ax[1, 0].set_title("③ 可预测性越高，结构越弱\n0.2376 → 0.4715，剂量单调，CI 全正", fontsize=10)
+
+# ④ Part C 阴性 + 正向对照
+if c:
+    rows = c["C1"]["rows"]
+    nm = [r["name"] for r in rows]
+    dd = [r["diff_vs_base"] for r in rows]
+    lo = [r["ci_lo"] for r in rows]
+    hi = [r["ci_hi"] for r in rows]
+    xx = np.arange(len(nm))
+    ax[1, 1].bar(xx, dd, color=["#16a085" if not (l > 0 or h < 0) else "#c0392b" for l, h in zip(lo, hi)])
+    ax[1, 1].errorbar(xx, dd, yerr=[[dd[i] - lo[i] for i in range(len(dd))],
+                                    [hi[i] - dd[i] for i in range(len(dd))]], fmt="none", ecolor="k", capsize=3)
+    ax[1, 1].axhline(0, c="k", lw=1)
+    ax[1, 1].set_xticks(xx); ax[1, 1].set_xticklabels(nm, fontsize=9)
+    ax[1, 1].set_ylabel("Δ 偏度 vs 抽象硬件", fontsize=9)
+    ax[1, 1].set_title("④ 换能器的化学缺陷全部无效应\n（正向对照：amp=0 时存活 4/8 → 通路是活的）", fontsize=10)
+
+plt.tight_layout()
+op = os.path.join(ROOT, "fig", "081_chase.png")
+plt.savefig(op, dpi=130)
+print("saved", op, os.path.getsize(op))

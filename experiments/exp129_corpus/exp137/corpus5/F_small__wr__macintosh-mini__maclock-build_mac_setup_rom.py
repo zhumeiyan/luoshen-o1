@@ -1,1 +1,80 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIFNQRFgtRmlsZUNvcHlyaWdodFRleHQ6IDIwMjYgV2VsbHMgUmlsZXkKIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogR1BMLTMuMC1vci1sYXRlcgoKIyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyBtYWNfc2V0dXBfcm9tLnB5CiMKIyBDaGVja3MgYSBST00gc29tZW9uZSBoYW5kcyB0aGUgc2V0dXAgcGFnZTogYSByYXcgUk9NLCBvciB0aGUgLnppcCBpdCB3YXMKIyBkb3dubG9hZGVkIGFzLiBFcnJvciBtZXNzYWdlcyBhcmUgc2hvd24gdG8gdGhlIG93bmVyIGFzLWlzLCBzbyB0aGV5IGFyZQojIHBsYWluIHdvcmRzLCBub3QgZXhjZXB0aW9ucy4KIyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCmltcG9ydCBpbwppbXBvcnQgc3lzCmltcG9ydCB6aXBmaWxlCmZyb20gYXJyYXkgaW1wb3J0IGFycmF5CgpTSVpFUyA9IHsKICAgICdiYXNpbGlzayc6ICg1MTIgKiAxMDI0LCAxMDI0ICogMTAyNCksCiAgICAnc2hlZXBzaGF2ZXInOiAoNCAqIDEwMjQgKiAxMDI0LCksCn0KUFBDX1NJWkUgPSA0ICogMTAyNCAqIDEwMjQKCgpjbGFzcyBSb21FcnJvcihFeGNlcHRpb24pOgogICAgIiIiQSBST00gd2FzIHJlZnVzZWQ7IHN0cihlKSBpcyB0aGUgbWVzc2FnZSBmb3IgdGhlIG93bmVyLiIiIgoKCmRlZiByb21fY2hlY2tzdW1fb2soZGF0YSk6CiAgICAjIEEgNjhrIE1hYyBST00gc3RhcnRzIHdpdGggYSBjaGVja3N1bTogdGhlIHN1bSBvZiBldmVyeSBiaWctZW5kaWFuIDE2LWJpdAogICAgIyB3b3JkIGFmdGVyIGl0LCBrZXB0IHRvIDMyIGJpdHMuIEEgYmxhbmsgZmlsZSBzdW1zIHRvIHplcm8sIHNvIGEgemVybwogICAgIyBjaGVja3N1bSBjb3VudHMgYXMgYSBmYWlsdXJlIHRvby4KICAgIHN0b3JlZCA9IGludC5mcm9tX2J5dGVzKGRhdGFbOjRdLCAnYmlnJykKICAgIHdvcmRzID0gYXJyYXkoJ0gnLCBkYXRhWzQ6bGVuKGRhdGEpICYgfjFdKQogICAgaWYgc3lzLmJ5dGVvcmRlciA9PSAnbGl0dGxlJzoKICAgICAgICB3b3Jkcy5ieXRlc3dhcCgpCiAgICByZXR1cm4gc3RvcmVkICE9IDAgYW5kIHN0b3JlZCA9PSBzdW0od29yZHMpICYgMHhGRkZGRkZGRgoKCmRlZiBjaGVja19yb20oZGF0YSwgZW11bGF0b3IpOgogICAgc2l6ZSA9IGxlbihkYXRhKQogICAgaWYgZW11bGF0b3IgPT0gJ3NoZWVwc2hhdmVyJzoKICAgICAgICBpZiBzaXplID09IFBQQ19TSVpFOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiBzaXplIGluIFNJWkVTWydiYXNpbGlzayddOgogICAgICAgICAgICByYWlzZSBSb21FcnJvcigiVGhhdCdzIGEgNjhrIFJPTTsgdGhpcyBNYWMgcnVucyBTaGVlcFNoYXZlciBhbmQgbmVlZHMgdGhlIDQgTUIgUG93ZXJQQyBST00uIikKICAgICAgICByYWlzZSBSb21FcnJvcigiVGhhdCBmaWxlIGlzbid0IGEgTWFjIFJPTS4iKQogICAgaWYgc2l6ZSA9PSBQUENfU0laRToKICAgICAgICByYWlzZSBSb21FcnJvcigiVGhhdCdzIGEgUG93ZXJQQyBST007IHRoaXMgTWFjIG5lZWRzIGEgNjhrIG9uZSBsaWtlIHRoZSBQZXJmb3JtYSBST00uIikKICAgIGlmIHNpemUgbm90IGluIFNJWkVTWydiYXNpbGlzayddOgogICAgICAgIHJhaXNlIFJvbUVycm9yKCJUaGF0IGZpbGUgaXNuJ3QgYSBNYWMgUk9NLiIpCiAgICBpZiBub3Qgcm9tX2NoZWNrc3VtX29rKGRhdGEpOgogICAgICAgIHJhaXNlIFJvbUVycm9yKCJUaGF0IFJPTSBsb29rcyBkYW1hZ2VkOiBpdHMgY2hlY2tzdW0gZG9lc24ndCBtYXRjaC4gVHJ5IGRvd25sb2FkaW5nIGl0IGFnYWluLiIpCgoKZGVmIGV4dHJhY3Rfcm9tKGRhdGEsIGVtdWxhdG9yKToKICAgIGlmIG5vdCBkYXRhLnN0YXJ0c3dpdGgoYidQSycpOgogICAgICAgIGNoZWNrX3JvbShkYXRhLCBlbXVsYXRvcikKICAgICAgICByZXR1cm4gZGF0YQogICAgdHJ5OgogICAgICAgIHogPSB6aXBmaWxlLlppcEZpbGUoaW8uQnl0ZXNJTyhkYXRhKSkKICAgICAgICBzaXplcyA9IFNJWkVTWydiYXNpbGlzayddICsgU0laRVNbJ3NoZWVwc2hhdmVyJ10KICAgICAgICAjIExhcmdlc3QgZmlyc3QsIHNvIGEgMSBNQiBST00gd2lucyBvdmVyIGEgNTEyIEtCIG9uZSBpbiB0aGUgc2FtZSB6aXAuCiAgICAgICAgbWVtYmVycyA9IHNvcnRlZCgobSBmb3IgbSBpbiB6LmluZm9saXN0KCkgaWYgbS5maWxlX3NpemUgaW4gc2l6ZXMpLAogICAgICAgICAgICAgICAgICAgICAgICAga2V5PWxhbWJkYSBtOiBtLmZpbGVfc2l6ZSwgcmV2ZXJzZT1UcnVlKQogICAgICAgIGxhc3QgPSBOb25lCiAgICAgICAgZm9yIG0gaW4gbWVtYmVyczoKICAgICAgICAgICAgY2FuZGlkYXRlID0gei5yZWFkKG0pCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGNoZWNrX3JvbShjYW5kaWRhdGUsIGVtdWxhdG9yKQogICAgICAgICAgICBleGNlcHQgUm9tRXJyb3IgYXMgZToKICAgICAgICAgICAgICAgIGxhc3QgPSBlCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICByZXR1cm4gY2FuZGlkYXRlCiAgICBleGNlcHQgKHppcGZpbGUuQmFkWmlwRmlsZSwgRU9GRXJyb3IsIFZhbHVlRXJyb3IsIE5vdEltcGxlbWVudGVkRXJyb3IpOgogICAgICAgIHJhaXNlIFJvbUVycm9yKCJUaGF0IHppcCBmaWxlIGlzIGRhbWFnZWQuIFRyeSBkb3dubG9hZGluZyBpdCBhZ2Fpbi4iKQogICAgIyBBIFJPTSBvZiB0aGUgd3Jvbmcga2luZCBzYXlzIHdoeTsgYW55dGhpbmcgZWxzZSBpcyBqdXN0IG5vdCBhIFJPTS4KICAgIGlmIGxhc3QgaXMgbm90IE5vbmUgYW5kICdkYW1hZ2VkJyBub3QgaW4gc3RyKGxhc3QpOgogICAgICAgIHJhaXNlIGxhc3QKICAgIHJhaXNlIFJvbUVycm9yKCJUaGF0IHppcCBkb2Vzbid0IGhhdmUgYSBNYWMgUk9NIGluIGl0LiIpCg==
+#!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 Wells Riley
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# ####################################
+# mac_setup_rom.py
+#
+# Checks a ROM someone hands the setup page: a raw ROM, or the .zip it was
+# downloaded as. Error messages are shown to the owner as-is, so they are
+# plain words, not exceptions.
+# ####################################
+
+import io
+import sys
+import zipfile
+from array import array
+
+SIZES = {
+    'basilisk': (512 * 1024, 1024 * 1024),
+    'sheepshaver': (4 * 1024 * 1024,),
+}
+PPC_SIZE = 4 * 1024 * 1024
+
+
+class RomError(Exception):
+    """A ROM was refused; str(e) is the message for the owner."""
+
+
+def rom_checksum_ok(data):
+    # A 68k Mac ROM starts with a checksum: the sum of every big-endian 16-bit
+    # word after it, kept to 32 bits. A blank file sums to zero, so a zero
+    # checksum counts as a failure too.
+    stored = int.from_bytes(data[:4], 'big')
+    words = array('H', data[4:len(data) & ~1])
+    if sys.byteorder == 'little':
+        words.byteswap()
+    return stored != 0 and stored == sum(words) & 0xFFFFFFFF
+
+
+def check_rom(data, emulator):
+    size = len(data)
+    if emulator == 'sheepshaver':
+        if size == PPC_SIZE:
+            return
+        if size in SIZES['basilisk']:
+            raise RomError("That's a 68k ROM; this Mac runs SheepShaver and needs the 4 MB PowerPC ROM.")
+        raise RomError("That file isn't a Mac ROM.")
+    if size == PPC_SIZE:
+        raise RomError("That's a PowerPC ROM; this Mac needs a 68k one like the Performa ROM.")
+    if size not in SIZES['basilisk']:
+        raise RomError("That file isn't a Mac ROM.")
+    if not rom_checksum_ok(data):
+        raise RomError("That ROM looks damaged: its checksum doesn't match. Try downloading it again.")
+
+
+def extract_rom(data, emulator):
+    if not data.startswith(b'PK'):
+        check_rom(data, emulator)
+        return data
+    try:
+        z = zipfile.ZipFile(io.BytesIO(data))
+        sizes = SIZES['basilisk'] + SIZES['sheepshaver']
+        # Largest first, so a 1 MB ROM wins over a 512 KB one in the same zip.
+        members = sorted((m for m in z.infolist() if m.file_size in sizes),
+                         key=lambda m: m.file_size, reverse=True)
+        last = None
+        for m in members:
+            candidate = z.read(m)
+            try:
+                check_rom(candidate, emulator)
+            except RomError as e:
+                last = e
+                continue
+            return candidate
+    except (zipfile.BadZipFile, EOFError, ValueError, NotImplementedError):
+        raise RomError("That zip file is damaged. Try downloading it again.")
+    # A ROM of the wrong kind says why; anything else is just not a ROM.
+    if last is not None and 'damaged' not in str(last):
+        raise last
+    raise RomError("That zip doesn't have a Mac ROM in it.")

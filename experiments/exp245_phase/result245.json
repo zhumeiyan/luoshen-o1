@@ -1,1 +1,117 @@
-ewogIm1vZGVfY3JpdGlxdWUiOiB7CiAgIue7iOaAgeWjq+awlCI6IDAuMCwKICAi57uI5oCB5q2j56Gu546HIjogMC45MzMsCiAgIuaAu+S6p+WHuiI6IDAuMSwKICAi6YCa6IOAIjogMC4wCiB9LAogIm1vZGVfcmV3YXJkIjogewogICLnu4jmgIHlo6vmsJQiOiAwLjMsCiAgIue7iOaAgeato+ehrueOhyI6IDAuMCwKICAi5oC75Lqn5Ye6IjogMy4zLAogICLpgJrog4AiOiAwLjAKIH0sCiAibW9kZV9waGFzZWQiOiB7CiAgIue7iOaAgeWjq+awlCI6IDAuMCwKICAi57uI5oCB5q2j56Gu546HIjogMC45MzMsCiAgIuaAu+S6p+WHuiI6IDAuMSwKICAi6YCa6IOAIjogMC4wCiB9LAogIm09MC4wMCI6IHsKICAi5Lqn5Ye6IjogMC4xLAogICLmraPnoa7njociOiAwLjkzMwogfSwKICJtPTAuMjUiOiB7CiAgIuS6p+WHuiI6IDAuMSwKICAi5q2j56Gu546HIjogMC45MzMKIH0sCiAibT0wLjUwIjogewogICLkuqflh7oiOiAwLjEsCiAgIuato+ehrueOhyI6IDAuOTMzCiB9LAogIm09MC43NSI6IHsKICAi5Lqn5Ye6IjogMC4xLAogICLmraPnoa7njociOiAwLjkzMwogfSwKICJtPTAuOTAiOiB7CiAgIuS6p+WHuiI6IDAuMSwKICAi5q2j56Gu546HIjogMC45MzMKIH0sCiAibT0xLjAwIjogewogICLkuqflh7oiOiAwLjEsCiAgIuato+ehrueOhyI6IDAuOTMzCiB9LAogInNlbGY9MC4wMCI6IHsKICAi5Lqn5Ye6IjogMC4xLAogICLlo6vmsJQiOiAwLjAsCiAgIumAmuiDgCI6IDAuMAogfSwKICJzZWxmPTAuMjUiOiB7CiAgIuS6p+WHuiI6IDAuMSwKICAi5aOr5rCUIjogMC4wLAogICLpgJrog4AiOiAwLjQKIH0sCiAic2VsZj0wLjUwIjogewogICLkuqflh7oiOiAwLjEsCiAgIuWjq+awlCI6IDAuMCwKICAi6YCa6IOAIjogMC44CiB9LAogInNlbGY9MC43NSI6IHsKICAi5Lqn5Ye6IjogMC4xLAogICLlo6vmsJQiOiAwLjAsCiAgIumAmuiDgCI6IDEuMgogfSwKICJzZWxmPTEuMDAiOiB7CiAgIuS6p+WHuiI6IDAuMSwKICAi5aOr5rCUIjogMC4wLAogICLpgJrog4AiOiAxLjYKIH0sCiAiRT0xIjogewogICLkuqflh7oiOiAwLjEKIH0sCiAiRT01IjogewogICLkuqflh7oiOiAwLjEKIH0sCiAiRT0xMCI6IHsKICAi5Lqn5Ye6IjogMC4xCiB9LAogIkU9MjUiOiB7CiAgIuS6p+WHuiI6IDAuMQogfSwKICJFPTUwIjogewogICLkuqflh7oiOiAwLjEKIH0sCiAiRT0xMDAiOiB7CiAgIuS6p+WHuiI6IDAuMQogfSwKICJFPTIwMCI6IHsKICAi5Lqn5Ye6IjogMC4xCiB9LAogIkU9NDAwIjogewogICLkuqflh7oiOiAwLjEKIH0sCiAibG9zc19jPTAuMDAiOiB7CiAgIuS6p+WHuiI6IDEzOC42LAogICLlo6vmsJQiOiAwLjM2NgogfSwKICJsb3NzX2M9MC4wNSI6IHsKICAi5Lqn5Ye6IjogMC4zLAogICLlo6vmsJQiOiAwLjAKIH0sCiAibG9zc19jPTAuMTIiOiB7CiAgIuS6p+WHuiI6IDAuMSwKICAi5aOr5rCUIjogMC4wCiB9LAogImxvc3NfYz0wLjI1IjogewogICLkuqflh7oiOiAwLjAsCiAgIuWjq+awlCI6IDAuMAogfSwKICJsb3NzX2M9MC41MCI6IHsKICAi5Lqn5Ye6IjogMC4wLAogICLlo6vmsJQiOiAwLjAKIH0sCiAibG9zc19jPTAuODAiOiB7CiAgIuS6p+WHuiI6IDAuMCwKICAi5aOr5rCUIjogMC4wCiB9Cn0=
+{
+ "mode_critique": {
+  "终态士气": 0.0,
+  "终态正确率": 0.933,
+  "总产出": 0.1,
+  "通胀": 0.0
+ },
+ "mode_reward": {
+  "终态士气": 0.3,
+  "终态正确率": 0.0,
+  "总产出": 3.3,
+  "通胀": 0.0
+ },
+ "mode_phased": {
+  "终态士气": 0.0,
+  "终态正确率": 0.933,
+  "总产出": 0.1,
+  "通胀": 0.0
+ },
+ "m=0.00": {
+  "产出": 0.1,
+  "正确率": 0.933
+ },
+ "m=0.25": {
+  "产出": 0.1,
+  "正确率": 0.933
+ },
+ "m=0.50": {
+  "产出": 0.1,
+  "正确率": 0.933
+ },
+ "m=0.75": {
+  "产出": 0.1,
+  "正确率": 0.933
+ },
+ "m=0.90": {
+  "产出": 0.1,
+  "正确率": 0.933
+ },
+ "m=1.00": {
+  "产出": 0.1,
+  "正确率": 0.933
+ },
+ "self=0.00": {
+  "产出": 0.1,
+  "士气": 0.0,
+  "通胀": 0.0
+ },
+ "self=0.25": {
+  "产出": 0.1,
+  "士气": 0.0,
+  "通胀": 0.4
+ },
+ "self=0.50": {
+  "产出": 0.1,
+  "士气": 0.0,
+  "通胀": 0.8
+ },
+ "self=0.75": {
+  "产出": 0.1,
+  "士气": 0.0,
+  "通胀": 1.2
+ },
+ "self=1.00": {
+  "产出": 0.1,
+  "士气": 0.0,
+  "通胀": 1.6
+ },
+ "E=1": {
+  "产出": 0.1
+ },
+ "E=5": {
+  "产出": 0.1
+ },
+ "E=10": {
+  "产出": 0.1
+ },
+ "E=25": {
+  "产出": 0.1
+ },
+ "E=50": {
+  "产出": 0.1
+ },
+ "E=100": {
+  "产出": 0.1
+ },
+ "E=200": {
+  "产出": 0.1
+ },
+ "E=400": {
+  "产出": 0.1
+ },
+ "loss_c=0.00": {
+  "产出": 138.6,
+  "士气": 0.366
+ },
+ "loss_c=0.05": {
+  "产出": 0.3,
+  "士气": 0.0
+ },
+ "loss_c=0.12": {
+  "产出": 0.1,
+  "士气": 0.0
+ },
+ "loss_c=0.25": {
+  "产出": 0.0,
+  "士气": 0.0
+ },
+ "loss_c=0.50": {
+  "产出": 0.0,
+  "士气": 0.0
+ },
+ "loss_c=0.80": {
+  "产出": 0.0,
+  "士气": 0.0
+ }
+}

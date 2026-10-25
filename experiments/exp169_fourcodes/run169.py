@@ -1,1 +1,92 @@
-aW1wb3J0IG9zLHJlLGpzb24sbWF0aCxjb2xsZWN0aW9ucyxnbG9iCgpCQVNFPSIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMSIKT1VUPWYie0JBU0V9L2V4cGVyaW1lbnRzL2V4cDE2OV9mb3VyY29kZXMiCm9zLm1ha2VkaXJzKE9VVCxleGlzdF9vaz1UcnVlKQoKZGVmIGxvYWRfemgoKToKICAgIHQ9b3BlbihmIntCQVNFfS9ldmlkZW5jZS/lpLHotKXmqKHlvI/lupMv5Yik5o2u5qC4Lm1kIixlbmNvZGluZz0idXRmLTgiLGVycm9ycz0iaWdub3JlIikucmVhZCgpCiAgICByZXR1cm4gW2MgZm9yIGMgaW4gdCBpZiAnXHU0ZTAwJzw9Yzw9J1x1OWZmZiddCgpkZWYgbG9hZF9kaWdpdHMoKToKICAgIHQ9b3BlbihmIntCQVNFfS9ldmlkZW5jZS/lpLHotKXmqKHlvI/lupMv5Yik5o2u5qC4Lm1kIixlbmNvZGluZz0idXRmLTgiLGVycm9ycz0iaWdub3JlIikucmVhZCgpCiAgICBkPVtjIGZvciBjIGluIHQgaWYgJzAnPD1jPD0nOSddCiAgICBmb3IgcCBpbiBnbG9iLmdsb2IoJy91c3IvbGliL3B5dGhvbjMqLyoucHknKVs6NjAwXToKICAgICAgICB0cnk6IGQrPVtjIGZvciBjIGluIG9wZW4ocCxlbmNvZGluZz0ndXRmLTgnLGVycm9ycz0naWdub3JlJykucmVhZCgpIGlmICcwJzw9Yzw9JzknXQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKICAgIHJldHVybiBkCgpkZWYgbG9hZF9weSgpOgogICAgdHh0PVtdCiAgICBmb3IgcCBpbiBnbG9iLmdsb2IoJy91c3IvbGliL3B5dGhvbjMqLyoucHknKVs6NjAwXToKICAgICAgICB0cnk6IHR4dC5hcHBlbmQob3BlbihwLGVuY29kaW5nPSd1dGYtOCcsZXJyb3JzPSdpZ25vcmUnKS5yZWFkKCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwogICAgcmV0dXJuICdcbicuam9pbih0eHQpCgpkZWYgbG9hZF9lbihzKToKICAgIGNtPXJlLmZpbmRhbGwocicjW15cbl0qJywgcykKICAgIGRzPXJlLmZpbmRhbGwocidcIlwiXCIuKj9cIlwiXCInLCBzLCByZS5TKStyZS5maW5kYWxsKHIiJycnLio/JycnIiwgcywgcmUuUykKICAgIGJvZHk9J1xuJy5qb2luKGNtKSsnXG4nKydcbicuam9pbihkcykKICAgIHJldHVybiByZS5maW5kYWxsKHIiW0EtWmEtel1bQS1aYS16J10rIiwgYm9keSkKCnB5PWxvYWRfcHkoKQpTWVM9eyLmlbDlrZciOmxvYWRfZGlnaXRzKCksIuaxieWtlyI6bG9hZF96aCgpLCLoi7HmlociOmxvYWRfZW4ocHkpLAogICAgICLku6PnoIEiOnJlLmZpbmRhbGwociJbQS1aYS16X11bQS1aYS16MC05X10qIiwgcHkpfQpmb3Igayx2IGluIFNZUy5pdGVtcygpOiBwcmludChmIntrfTogcmF3IE49e2xlbih2KX0gVj17bGVuKHNldCh2KSl9IikKCk49bWluKGxlbih2KSBmb3IgdiBpbiBTWVMudmFsdWVzKCkpClNFUT17azp2WzpOXSBmb3Igayx2IGluIFNZUy5pdGVtcygpfQpwcmludCgiXG7nu5/kuIAgTiA9IixOKQoKZGVmIGhlYXBzKHNlcSk6CiAgICBwdHM9W10KICAgIG49bGVuKHNlcSkKICAgIGZvciBmcmFjIGluIFswLjAyLDAuMDUsMC4xLDAuMjUsMC41LDEuMF06CiAgICAgICAgbT1tYXgoMTAsaW50KG4qZnJhYykpCiAgICAgICAgcHRzLmFwcGVuZCgobSxsZW4oc2V0KHNlcVs6bV0pKSkpCiAgICB4cz1bbWF0aC5sb2cocFswXSkgZm9yIHAgaW4gcHRzXTsgeXM9W21hdGgubG9nKHBbMV0pIGZvciBwIGluIHB0c10KICAgIG14PXN1bSh4cykvbGVuKHhzKTsgbXk9c3VtKHlzKS9sZW4oeXMpCiAgICBudW09c3VtKCh4LW14KSooeS1teSkgZm9yIHgseSBpbiB6aXAoeHMseXMpKTsgZGVuPXN1bSgoeC1teCkqKjIgZm9yIHggaW4geHMpCiAgICByZXR1cm4gcHRzLChudW0vZGVuIGlmIGRlbj4wIGVsc2UgMC4wKQoKZGVmIGVudChjLHQpOiByZXR1cm4gLXN1bSgoeC90KSptYXRoLmxvZzIoeC90KSBmb3IgeCBpbiBjLnZhbHVlcygpKQpkZWYgY29uZF9tbShwYWlycyk6CiAgICBkPWNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGNvbGxlY3Rpb25zLkNvdW50ZXIpCiAgICBmb3IgeCx5IGluIHBhaXJzOiBkW3hdW3ldKz0xCiAgICB0b3Q9bGVuKHBhaXJzKTsgaD0wLjAKICAgIGZvciB4LGN5IGluIGQuaXRlbXMoKToKICAgICAgICBueD1zdW0oY3kudmFsdWVzKCkpOyBoKz0obngvdG90KSooZW50KGN5LG54KSsobGVuKGN5KS0xKS8oMipueCkpCiAgICByZXR1cm4gaApkZWYgbWFyZ19tbShzKToKICAgIGM9Y29sbGVjdGlvbnMuQ291bnRlcihzKTsgcmV0dXJuIGVudChjLGxlbihzKSkrKGxlbihjKS0xKS8oMipsZW4ocykpCgpIRUFQPXt9O1JFUz17fTtDT01CPXt9CmZvciBrLHYgaW4gU0VRLml0ZW1zKCk6CiAgICBuPWxlbih2KQogICAgcHRzLGI9aGVhcHModik7IEhFQVBba109ZGljdChjdXJ2ZT1wdHMsYj1iLFY9bGVuKHNldCh2KSkpCiAgICBIPW1hcmdfbW0odikKICAgIEgxPWNvbmRfbW0oWyh2W2ktMV0sdltpXSkgZm9yIGkgaW4gcmFuZ2UoMSxuKV0pCiAgICBIMj1jb25kX21tKFsodltpLTJdLHZbaV0pIGZvciBpIGluIHJhbmdlKDIsbildKQogICAgSDEyPWNvbmRfbW0oWygodltpLTJdLHZbaS0xXSksdltpXSkgZm9yIGkgaW4gcmFuZ2UoMixuKV0pCiAgICBJMSxJMixJMTI9SC1IMSxILUgyLEgtSDEyCiAgICByZWQ9STErSTItSTEyCiAgICAjIOWPmOmHj+iHqueUseW6pu+8muWHuuW6pi/lhaXluqYKICAgIG91dGQ9Y29sbGVjdGlvbnMuZGVmYXVsdGRpY3Qoc2V0KTsgaW5kPWNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KHNldCkKICAgIGZvciBpIGluIHJhbmdlKDEsbik6IG91dGRbdltpLTFdXS5hZGQodltpXSk7IGluZFt2W2ldXS5hZGQodltpLTFdKQogICAgYW89c3VtKGxlbihzKSBmb3IgcyBpbiBvdXRkLnZhbHVlcygpKS9sZW4ob3V0ZCkKICAgIGFpPXN1bShsZW4ocykgZm9yIHMgaW4gaW5kLnZhbHVlcygpKS9sZW4oaW5kKQogICAgUkVTW2tdPWRpY3QoSD1ILEgxPUgxLEgxMj1IMTIsSTE9STEsSTI9STIsSTEyPUkxMixyZWQ9cmVkLAogICAgICAgICAgICAgICAgcmVkX25vcm09cmVkL0kxMiBpZiBJMTIgZWxzZSAwLCBnYWluPUkxMi9tYXgoSTEsMWUtOSksCiAgICAgICAgICAgICAgICBzbG90MT0yKipIMSwgb3V0ZD1hbywgaW5kPWFpLCBWPWxlbihzZXQodikpKQogICAgYmc9Wyh2W2ldLHZbaSsxXSkgZm9yIGkgaW4gcmFuZ2Uobi0xKV0KICAgIHBiLGIyPWhlYXBzKGJnKQogICAgVjEsVjI9bGVuKHNldCh2KSksbGVuKHNldChiZykpCiAgICBDT01CW2tdPWRpY3QoVjE9VjEsVjI9VjIscmF0aW89VjIvVjEsYjE9YixiMj1iMixzYXQ9VjIvKFYxKlYxKSkKICAgIHByaW50KGYiXG5be2t9XSBWPXtWMX0iKQogICAgcHJpbnQoZiIgIEhlYXBzIGI9e2I6LjRmfSAgIDJncmFtIGI9e2IyOi40Zn0gIFYyL1YxPXtWMi9WMTouMmZ9ICAyZ3JhbeepuumXtOWNoOeUqD17VjIvKFYxKlYxKTouNGZ9IikKICAgIHByaW50KGYiICBIPXtIOi4zZn0gSTE9e0kxOi40Zn0gSTEyPXtJMTI6LjRmfSDlhpfkvZk9e3JlZDouNGZ9IOW9kuS4gOWMlj17cmVkL0kxMjouNGZ9IOWinuebikkxMi9JMT17STEyL21heChJMSwxZS05KTouM2Z9IikKICAgIHByaW50KGYiICDmp73kvY3oh6rnlLHluqY9ezIqKkgxOi4xZn0gIOW5s+Wdh+WHuuW6pj17YW86LjFmfSDlhaXluqY9e2FpOi4xZn0iKQoKanNvbi5kdW1wKGRpY3QoTj1OLGhlYXBzPUhFQVAsaW5mbz1SRVMsY29tYj1DT01CKSwKICAgICAgICAgIG9wZW4oZiJ7T1VUfS9yZXN1bHQxNjkuanNvbiIsInciKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCnByaW50KCJcbnNhdmVkIikK
+import os,re,json,math,collections,glob
+
+BASE="/data/workspace/luoshen-o1"
+OUT=f"{BASE}/experiments/exp169_fourcodes"
+os.makedirs(OUT,exist_ok=True)
+
+def load_zh():
+    t=open(f"{BASE}/evidence/失败模式库/判据核.md",encoding="utf-8",errors="ignore").read()
+    return [c for c in t if '\u4e00'<=c<='\u9fff']
+
+def load_digits():
+    t=open(f"{BASE}/evidence/失败模式库/判据核.md",encoding="utf-8",errors="ignore").read()
+    d=[c for c in t if '0'<=c<='9']
+    for p in glob.glob('/usr/lib/python3*/*.py')[:600]:
+        try: d+=[c for c in open(p,encoding='utf-8',errors='ignore').read() if '0'<=c<='9']
+        except Exception: pass
+    return d
+
+def load_py():
+    txt=[]
+    for p in glob.glob('/usr/lib/python3*/*.py')[:600]:
+        try: txt.append(open(p,encoding='utf-8',errors='ignore').read())
+        except Exception: pass
+    return '\n'.join(txt)
+
+def load_en(s):
+    cm=re.findall(r'#[^\n]*', s)
+    ds=re.findall(r'\"\"\".*?\"\"\"', s, re.S)+re.findall(r"'''.*?'''", s, re.S)
+    body='\n'.join(cm)+'\n'+'\n'.join(ds)
+    return re.findall(r"[A-Za-z][A-Za-z']+", body)
+
+py=load_py()
+SYS={"数字":load_digits(),"汉字":load_zh(),"英文":load_en(py),
+     "代码":re.findall(r"[A-Za-z_][A-Za-z0-9_]*", py)}
+for k,v in SYS.items(): print(f"{k}: raw N={len(v)} V={len(set(v))}")
+
+N=min(len(v) for v in SYS.values())
+SEQ={k:v[:N] for k,v in SYS.items()}
+print("\n统一 N =",N)
+
+def heaps(seq):
+    pts=[]
+    n=len(seq)
+    for frac in [0.02,0.05,0.1,0.25,0.5,1.0]:
+        m=max(10,int(n*frac))
+        pts.append((m,len(set(seq[:m]))))
+    xs=[math.log(p[0]) for p in pts]; ys=[math.log(p[1]) for p in pts]
+    mx=sum(xs)/len(xs); my=sum(ys)/len(ys)
+    num=sum((x-mx)*(y-my) for x,y in zip(xs,ys)); den=sum((x-mx)**2 for x in xs)
+    return pts,(num/den if den>0 else 0.0)
+
+def ent(c,t): return -sum((x/t)*math.log2(x/t) for x in c.values())
+def cond_mm(pairs):
+    d=collections.defaultdict(collections.Counter)
+    for x,y in pairs: d[x][y]+=1
+    tot=len(pairs); h=0.0
+    for x,cy in d.items():
+        nx=sum(cy.values()); h+=(nx/tot)*(ent(cy,nx)+(len(cy)-1)/(2*nx))
+    return h
+def marg_mm(s):
+    c=collections.Counter(s); return ent(c,len(s))+(len(c)-1)/(2*len(s))
+
+HEAP={};RES={};COMB={}
+for k,v in SEQ.items():
+    n=len(v)
+    pts,b=heaps(v); HEAP[k]=dict(curve=pts,b=b,V=len(set(v)))
+    H=marg_mm(v)
+    H1=cond_mm([(v[i-1],v[i]) for i in range(1,n)])
+    H2=cond_mm([(v[i-2],v[i]) for i in range(2,n)])
+    H12=cond_mm([((v[i-2],v[i-1]),v[i]) for i in range(2,n)])
+    I1,I2,I12=H-H1,H-H2,H-H12
+    red=I1+I2-I12
+    # 变量自由度：出度/入度
+    outd=collections.defaultdict(set); ind=collections.defaultdict(set)
+    for i in range(1,n): outd[v[i-1]].add(v[i]); ind[v[i]].add(v[i-1])
+    ao=sum(len(s) for s in outd.values())/len(outd)
+    ai=sum(len(s) for s in ind.values())/len(ind)
+    RES[k]=dict(H=H,H1=H1,H12=H12,I1=I1,I2=I2,I12=I12,red=red,
+                red_norm=red/I12 if I12 else 0, gain=I12/max(I1,1e-9),
+                slot1=2**H1, outd=ao, ind=ai, V=len(set(v)))
+    bg=[(v[i],v[i+1]) for i in range(n-1)]
+    pb,b2=heaps(bg)
+    V1,V2=len(set(v)),len(set(bg))
+    COMB[k]=dict(V1=V1,V2=V2,ratio=V2/V1,b1=b,b2=b2,sat=V2/(V1*V1))
+    print(f"\n[{k}] V={V1}")
+    print(f"  Heaps b={b:.4f}   2gram b={b2:.4f}  V2/V1={V2/V1:.2f}  2gram空间占用={V2/(V1*V1):.4f}")
+    print(f"  H={H:.3f} I1={I1:.4f} I12={I12:.4f} 冗余={red:.4f} 归一化={red/I12:.4f} 增益I12/I1={I12/max(I1,1e-9):.3f}")
+    print(f"  槽位自由度={2**H1:.1f}  平均出度={ao:.1f} 入度={ai:.1f}")
+
+json.dump(dict(N=N,heaps=HEAP,info=RES,comb=COMB),
+          open(f"{OUT}/result169.json","w"),ensure_ascii=False,indent=1)
+print("\nsaved")

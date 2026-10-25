@@ -1,1 +1,69 @@
-ewogImluaGVyaXQiOiB7CiAgImFjYyI6IDEuMCwKICAidmFscyI6IFsKICAgMS4wLAogICAxLjAsCiAgIDEuMCwKICAgMS4wLAogICAxLjAsCiAgIDEuMCwKICAgMS4wLAogICAxLjAsCiAgIDEuMCwKICAgMS4wLAogICAxLjAsCiAgIDEuMAogIF0KIH0sCiAic2NyYXRjaCI6IHsKICAiYWNjIjogMC4wLAogICJ2YWxzIjogWwogICAwLjAsCiAgIDAuMCwKICAgMC4wLAogICAwLjAsCiAgIDAuMCwKICAgMC4wLAogICAwLjAsCiAgIDAuMCwKICAgMC4wLAogICAwLjAsCiAgIDAuMCwKICAgMC4wCiAgXQogfSwKICJ3cm9uZyI6IHsKICAiYWNjIjogMC4wLAogICJ2YWxzIjogWwogICAwLjAsCiAgIDAuMCwKICAgMC4wLAogICAwLjAsCiAgIDAuMCwKICAgMC4wLAogICAwLjAsCiAgIDAuMCwKICAgMC4wLAogICAwLjAsCiAgIDAuMCwKICAgMC4wCiAgXQogfSwKICJINGFfaW5oZXJpdF9taW51c19zY3JhdGNoIjogewogICJtZWFuIjogMS4wLAogICJjaSI6IFsKICAgMS4wLAogICAxLjAKICBdLAogICJwYXNzIjogdHJ1ZQogfSwKICJINGJfaW5oZXJpdF9taW51c193cm9uZyI6IHsKICAibWVhbiI6IDEuMCwKICAiY2kiOiBbCiAgIDEuMCwKICAgMS4wCiAgXSwKICAid3Jvbmdfd29yc2UiOiB0cnVlCiB9Cn0=
+{
+ "inherit": {
+  "acc": 1.0,
+  "vals": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "scratch": {
+  "acc": 0.0,
+  "vals": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "wrong": {
+  "acc": 0.0,
+  "vals": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "H4a_inherit_minus_scratch": {
+  "mean": 1.0,
+  "ci": [
+   1.0,
+   1.0
+  ],
+  "pass": true
+ },
+ "H4b_inherit_minus_wrong": {
+  "mean": 1.0,
+  "ci": [
+   1.0,
+   1.0
+  ],
+  "wrong_worse": true
+ }
+}

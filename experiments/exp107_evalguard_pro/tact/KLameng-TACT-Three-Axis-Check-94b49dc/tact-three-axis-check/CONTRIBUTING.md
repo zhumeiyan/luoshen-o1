@@ -1,1 +1,39 @@
-IyDotKHnjK7mjIfljZcgLyBDb250cmlidXRpbmcKCuaEn+iwouS9oOaDs+S4uiBUQUNUIOWBmui0oeeMruOAguacrOmhueebruebruWJjeWkhOS6juaXqeacn+mYtuaute+8jOaIkeS7rOasoui/juS7peS4i+exu+Wei+eahOi0oeeMru+8mgoKIyMgMS4g5o+Q5Lqk55yf5a6e5qGI5L6L77yI5pyA6YeN6KaB77yJCgpUQUNUIOeahOWdkOagh+WIpOaNruebruWJjeS4u+imgeWfuuS6jiBzeW50aGV0aWPvvIjkurrlt6XmnoTpgKDvvInmoLfkvovvvIwqKuecn+WunuS6i+aVheahiOS+i+aYr+acgOe8uueahOi1hOa6kCoq44CCCgoqKuWmguS9leaPkOS6pO+8mioqCi0g6YCa6L+HIEdpdEh1YiBJc3N1ZXMg5o+Q5Lqk77yI6ISx5pWP5ZCO55qE5LqL5pWF5o+P6L+w77yJCi0g5oiW5Y+R6YKu5Lu25YiwIDkxMTcxMjQxMkBxcS5jb20KCioq5o+Q5Lqk5YaF5a6577yaKioKLSDkuovmlYXnjrDosaHvvIjlj5HnlJ/kuobku4DkuYjvvIkKLSDkvaDnmoTliKTmlq3vvIjkvaDop4nlvpflsZ7kuo7ku4DkuYjlnZDmoIfvvIkKLSDpqozor4Hot6/lvoTvvIjkvaDmmK/mgI7kuYjnoa7orqTnmoTvvIkKCiMjIDIuIOWdkOaghyByYXRpZnkg5rWB56iLCgrlvZPmn5DkuKrmnLrliLbntK/orqEgKioyIOadoeS6kuS4jeebuOW5sueahOecn+WunuahiOS+iyoqIOWQju+8jOinpuWPkeWdkOagh+ivhOWuoe+8mgotIOivhOWuoeivpeacuuWItuaYr+WQpuW6lOivpeaIkOS4uuato+W8j+WtkOWdkOaghwotIOivhOWuoemAmui/h+WQju+8jGNvb3JkaW5hdGVfZGF0YS5qc29uIOWNh+eJiAotIOagoeWHhumbhuWQjOatpeaJqeWFhQoKIyMgMy4g5LiN5bu66K6u55qE6LSh54yuCgotICoq5LiN6KaB6Ieq6KGM6YCg56CBKirvvJrkuI3lu7rorq7oh6rlt7Hlj5HmmI7mlrDlnZDmoIfnvJblj7fjgILlnZDmoIfkvZPns7vmnInkuKXmoLznmoTmvJTov5vop4TliJnvvIzpnIDopoHnnJ/lrp7moYjkvovmlK/mkpHjgIIKLSAqKuS4jeimgeS/ruaUuSBnb2xkZW4qKu+8muagoeWHhumbhueahCBnb2xkZW4g5Z2Q5qCH5piv5Z+657q/77yM5LiN6KaB6ZqP5oSP5pS55Yqo44CCCi0gKirkuI3opoHooaXplZzlg48qKu+8muS4jeS4uuS6hiLlr7nnp7Dlpb3nnIsi6KGl6ZWc5YOP5Z2Q5qCH44CCCgojIyA0LiDlj43ppojmuKDpgZMKCi0gR2l0SHViIElzc3Vlc++8mmh0dHBzOi8vZ2l0aHViLmNvbS9LTGFtZW5nL1RBQ1QtVGhyZWUtQXhpcy1DaGVjay9pc3N1ZXMKLSBHaXRlZSBJc3N1ZXPvvJpodHRwczovL2dpdGVlLmNvbS9oZWF2ZW5seS1zaW5nbGUtbWFyay90YWN0LXRocmVlLWF4aXMtY2hlY2svaXNzdWVzCi0g6YKu566x77yaOTExNzEyNDEyQHFxLmNvbQoKLS0tCgoqQ29weXJpZ2h0IChjKSAyMDI2IEtMYW1lbmcgPDkxMTcxMjQxMkBxcS5jb20+IMK3IFJlbGVhc2VkIHVuZGVyIENDIEJZIDQuMC4qCg==
+# 贡献指南 / Contributing
+
+感谢你想为 TACT 做贡献。本项目目前处于早期阶段，我们欢迎以下类型的贡献：
+
+## 1. 提交真实案例（最重要）
+
+TACT 的坐标判据目前主要基于 synthetic（人工构造）样例，**真实事故案例是最缺的资源**。
+
+**如何提交：**
+- 通过 GitHub Issues 提交（脱敏后的事故描述）
+- 或发邮件到 911712412@qq.com
+
+**提交内容：**
+- 事故现象（发生了什么）
+- 你的判断（你觉得属于什么坐标）
+- 验证路径（你是怎么确认的）
+
+## 2. 坐标 ratify 流程
+
+当某个机制累计 **2 条互不相干的真实案例** 后，触发坐标评审：
+- 评审该机制是否应该成为正式子坐标
+- 评审通过后，coordinate_data.json 升版
+- 校准集同步扩充
+
+## 3. 不建议的贡献
+
+- **不要自行造码**：不建议自己发明新坐标编号。坐标体系有严格的演进规则，需要真实案例支撑。
+- **不要修改 golden**：校准集的 golden 坐标是基线，不要随意改动。
+- **不要补镜像**：不为了"对称好看"补镜像坐标。
+
+## 4. 反馈渠道
+
+- GitHub Issues：https://github.com/KLameng/TACT-Three-Axis-Check/issues
+- Gitee Issues：https://gitee.com/heavenly-single-mark/tact-three-axis-check/issues
+- 邮箱：911712412@qq.com
+
+---
+
+*Copyright (c) 2026 KLameng <911712412@qq.com> · Released under CC BY 4.0.*

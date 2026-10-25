@@ -1,1 +1,127 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJleHAxNDdkIOmxvOagvCB2NDog55yf5q2j55qEIuaNt+W+hCIK5YmN5LiJ54mI5LiJ5Zyw5b2iIFJFRFVOPTEuMCDlhajmmK/moJEsIOi3r+W+hOWUr+S4gCAtPiDlj6rpqozor4HkuoYi6K6k6LevIiwg5pyq6aqM6K+BIuaNt+W+hCIK5pys54mIOiDlkIzkuIDnnJ/lrp7lnLDlvaIsIOagkei+uSB2cyAo5qCR6L65K+ecn+WuniBzeW1saW5rIOi+uSksIOWUr+S4gOW3ruW8gj1zeW1saW5rIOaNt+W+hArkuLvmjIfmoIc6IOaNt+W+hOWinuebiiA9IOagkei3r+W+hOmVv+W6piAvICjmoJErc3ltbGluaynmnIDnn63ot6/plb/luqYKIiIiCmltcG9ydCBvcywganNvbiwgcmFuZG9tLCBoZWFwcQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZXF1ZSwgZGVmYXVsdGRpY3QKClNFRUQ9MjAyNjEwMTg7IENBUD05MDAKQ0FORFM9WycvdXNyL3NoYXJlJywnL3Vzci9saWInLCcvZXRjJywnL3Vzci9zaGFyZS9kb2MnLCcvdXNyL2xpYi94ODZfNjQtbGludXgtZ251J10KCmRlZiBidWlsZChyb290LCBjYXA9Q0FQKToKICAgIHBhcj17fTsgdHJlZT1bXTsgc3ltPVtdOyBub2Rlcz1bcm9vdF07IHBhcltyb290XT1Ob25lOyBxPWRlcXVlKFtyb290XSk7IGxpbmttYXA9e30KICAgIHdoaWxlIHEgYW5kIGxlbihub2Rlcyk8Y2FwOgogICAgICAgIGQ9cS5wb3BsZWZ0KCkKICAgICAgICB0cnk6IHN1YnM9c29ydGVkKG9zLmxpc3RkaXIoZCkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogY29udGludWUKICAgICAgICBmb3IgeCBpbiBzdWJzOgogICAgICAgICAgICBwPW9zLnBhdGguam9pbihkLHgpCiAgICAgICAgICAgIGlmIG9zLnBhdGguaXNsaW5rKHApOgogICAgICAgICAgICAgICAgdHJ5OiB0Z3Q9b3MucGF0aC5yZWFscGF0aChwKQogICAgICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogY29udGludWUKICAgICAgICAgICAgICAgICMgc3ltbGluayDmjIflkJHnm67lvZUgLT4g6K6w5Li66IqC54K5K+aNt+W+hOi+uQogICAgICAgICAgICAgICAgaWYgb3MucGF0aC5pc2Rpcih0Z3QpOgogICAgICAgICAgICAgICAgICAgIGlmIHAgbm90IGluIHBhcjogcGFyW3BdPWQ7IG5vZGVzLmFwcGVuZChwKQogICAgICAgICAgICAgICAgICAgIGxpbmttYXBbcF09dGd0CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBpZiBvcy5wYXRoLmlzZGlyKHApIGFuZCBwIG5vdCBpbiBwYXI6CiAgICAgICAgICAgICAgICBwYXJbcF09ZDsgbm9kZXMuYXBwZW5kKHApOyBxLmFwcGVuZChwKQogICAgICAgICAgICBpZiBsZW4obm9kZXMpPj1jYXA6IGJyZWFrCiAgICAjIOagkei+uQogICAgZm9yIG4gaW4gbm9kZXM6CiAgICAgICAgaWYgcGFyLmdldChuKTogdHJlZS5hcHBlbmQoKHBhcltuXSxuKSkKICAgICMgc3ltbGluayDmjbflvoTovrk6IOS7heW9k+ebruagh+W3suWcqOiKgueCuembhuWGhQogICAgbnNldD1zZXQobm9kZXMpCiAgICBmb3IgcCx0IGluIGxpbmttYXAuaXRlbXMoKToKICAgICAgICBpZiB0IGluIG5zZXQgYW5kIHQhPXAgYW5kIHQhPXBhci5nZXQocCk6IHN5bS5hcHBlbmQoKHAsdCkpCiAgICByZXR1cm4gbm9kZXMscGFyLHRyZWUsc3ltCgpkZWYgYWRqX2Zyb20oZWRnZXMpOgogICAgYT1kZWZhdWx0ZGljdChzZXQpCiAgICBmb3IgdSx2IGluIGVkZ2VzOiBhW3VdLmFkZCh2KTsgYVt2XS5hZGQodSkKICAgIHJldHVybiBhCgpkZWYgdHJlZV9kaXN0KHBhcixhLGIpOgogICAgQT1zZXQoKTsgeD1hCiAgICB3aGlsZSB4IGlzIG5vdCBOb25lOiBBLmFkZCh4KTsgeD1wYXIuZ2V0KHgpCiAgICB4PWI7IG49MAogICAgd2hpbGUgeCBub3QgaW4gQToKICAgICAgICB4PXBhci5nZXQoeCkKICAgICAgICBpZiB4IGlzIE5vbmU6IHJldHVybiBOb25lCiAgICAgICAgbis9MQogICAgeT1hOyBtPTAKICAgIHdoaWxlIHkhPXg6CiAgICAgICAgeT1wYXIuZ2V0KHkpCiAgICAgICAgaWYgeSBpcyBOb25lOiByZXR1cm4gTm9uZQogICAgICAgIG0rPTEKICAgIHJldHVybiBtK24KCmRlZiBzaG9ydGVzdChhLHNyYyxkc3QpOgogICAgaWYgc3JjPT1kc3Q6IHJldHVybiAwCiAgICBkaXN0PXtzcmM6MH07IHBxPVsoMCxzcmMpXTsgc2Vlbj1zZXQoKQogICAgd2hpbGUgcHE6CiAgICAgICAgZCx1PWhlYXBxLmhlYXBwb3AocHEpCiAgICAgICAgaWYgdSBpbiBzZWVuOiBjb250aW51ZQogICAgICAgIHNlZW4uYWRkKHUpCiAgICAgICAgaWYgdT09ZHN0OiByZXR1cm4gZAogICAgICAgIGZvciB2IGluIGFbdV06CiAgICAgICAgICAgIGlmIGQrMTxkaXN0LmdldCh2LDFlOSk6IGRpc3Rbdl09ZCsxOyBoZWFwcS5oZWFwcHVzaChwcSwoZCsxLHYpKQogICAgcmV0dXJuIE5vbmUKCmRlZiBydW4oKToKICAgIHJuZz1yYW5kb20uUmFuZG9tKFNFRUQpOyBvdXQ9eydzZWVkJzpTRUVELCdjYXAnOkNBUCwnY2FuZHMnOkNBTkRTfQogICAgYmVzdD1Ob25lCiAgICBmb3Igcm9vdCBpbiBDQU5EUzoKICAgICAgICBub2RlcyxwYXIsdHJlZSxzeW09YnVpbGQocm9vdCxDQVApCiAgICAgICAgaWYgbm90IHN5bToKICAgICAgICAgICAgcHJpbnQoZidbe3Jvb3R9XSBub2Rlcz17bGVuKG5vZGVzKX0gc3ltbGlua3M9MCAgU0tJUCcpOyBjb250aW51ZQogICAgICAgICMgc3ltbGluayDnmoTmoJHot53nprso6Leo5bqmKQogICAgICAgIHNwPVtdCiAgICAgICAgZm9yIHAsdCBpbiBzeW06CiAgICAgICAgICAgIGQ9dHJlZV9kaXN0KHBhcixwLHQpCiAgICAgICAgICAgIGlmIGQgaXMgbm90IE5vbmU6IHNwLmFwcGVuZChkKQogICAgICAgIGlmIG5vdCBzcDogCiAgICAgICAgICAgIHByaW50KGYnW3tyb290fV0gc3ltbGlua3M9e2xlbihzeW0pfSBidXQgbm8gdHJlZS1kaXN0ICBTS0lQJyk7IGNvbnRpbnVlCiAgICAgICAgc3Auc29ydCgpCiAgICAgICAgaW5mbz1kaWN0KHJvb3Q9cm9vdCxub2Rlcz1sZW4obm9kZXMpLHN5bV9lZGdlcz1sZW4oc3ltKSwKICAgICAgICAgICAgICAgICAgc3Bhbl9taW49c3BbMF0sc3Bhbl9tZWQ9c3BbbGVuKHNwKS8vMl0sc3Bhbl9tYXg9c3BbLTFdLAogICAgICAgICAgICAgICAgICBzcGFuX21lYW49cm91bmQoc3VtKHNwKS9sZW4oc3ApLDMpLAogICAgICAgICAgICAgICAgICB0cnVlX3Nob3J0Y3V0PXJvdW5kKHN1bSgxIGZvciBzIGluIHNwIGlmIHM+MikvbGVuKHNwKSw0KSkKICAgICAgICBwcmludChmJ1t7cm9vdH1dJyxpbmZvKQogICAgICAgIGlmIGJlc3QgaXMgTm9uZSBvciBpbmZvWyd0cnVlX3Nob3J0Y3V0J10+YmVzdFsndHJ1ZV9zaG9ydGN1dCddOgogICAgICAgICAgICBiZXN0PWRpY3QoaW5mbyk7IGJlc3RbJ19kJ109KG5vZGVzLHBhcix0cmVlLHN5bSkKICAgIGlmIGJlc3QgaXMgTm9uZToKICAgICAgICBvdXRbJ3ZlcmRpY3QnXT0nTk9fUkVBTF9TWU1MSU5LX1NIT1JUQ1VUX0ZPVU5EJwogICAgICAgIGpzb24uZHVtcChvdXQsb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTQ3X21hcC9yZXN1bHQxNDdkLmpzb24nLCd3JyksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQogICAgICAgIHByaW50KCdWRVJESUNUOiDnnJ/lrp7mlofku7bns7vnu5/mnKrmib7liLDot6jlrZDmoJEgc3ltbGluayDmjbflvoQnKTsgcmV0dXJuIG91dAogICAgbm9kZXMscGFyLHRyZWUsc3ltPWJlc3QucG9wKCdfZCcpCiAgICBvdXQudXBkYXRlKGJlc3QpCiAgICBhZGpUPWFkal9mcm9tKHRyZWUpOyBhZGpDPWFkal9mcm9tKHRyZWUrc3ltKQogICAgIyDmjbflvoTlop7nm4o6IOmaj+acuiAoc3RhcnQsaG9tZSkg5a+5CiAgICBwYWlycz1bXQogICAgZm9yIF8gaW4gcmFuZ2UoNDAwKToKICAgICAgICBhLGI9cm5nLmNob2ljZShub2Rlcykscm5nLmNob2ljZShub2RlcykKICAgICAgICBpZiBhPT1iOiBjb250aW51ZQogICAgICAgIGR0PXRyZWVfZGlzdChwYXIsYSxiKQogICAgICAgIGRjPXNob3J0ZXN0KGFkakMsYSxiKTsgZHQyPXNob3J0ZXN0KGFkalQsYSxiKQogICAgICAgIGlmIGR0IGlzIE5vbmUgb3IgZGMgaXMgTm9uZSBvciBkdDIgaXMgTm9uZTogY29udGludWUKICAgICAgICBpZiBkdDI9PTA6IGNvbnRpbnVlCiAgICAgICAgcGFpcnMuYXBwZW5kKChkdDIsZGMpKQogICAgZ2FpbnM9W3gveSBmb3IgeCx5IGluIHBhaXJzIGlmIHk+MF0KICAgIGdhaW5zLnNvcnQoKQogICAgb3V0WydzaG9ydGN1dCddPWRpY3Qobl9wYWlycz1sZW4oZ2FpbnMpLAogICAgICAgIHRyZWVfcGF0aF9tZWFuPXJvdW5kKHN1bSh4IGZvciB4LHkgaW4gcGFpcnMpL2xlbihwYWlycyksMyksCiAgICAgICAgY3ljbGljX3BhdGhfbWVhbj1yb3VuZChzdW0oeSBmb3IgeCx5IGluIHBhaXJzKS9sZW4ocGFpcnMpLDMpLAogICAgICAgIGdhaW5fbWVhbj1yb3VuZChzdW0oZ2FpbnMpL2xlbihnYWlucyksNCksCiAgICAgICAgZ2Fpbl9tZWRpYW49cm91bmQoZ2FpbnNbbGVuKGdhaW5zKS8vMl0sNCksCiAgICAgICAgZ2Fpbl9tYXg9cm91bmQoZ2FpbnNbLTFdLDQpLAogICAgICAgIHBjdF9wYWlyc19nYWluX2d0MT1yb3VuZChzdW0oMSBmb3IgZyBpbiBnYWlucyBpZiBnPjEuMDAwMSkvbGVuKGdhaW5zKSw0KSkKICAgIHByaW50KCdzaG9ydGN1dCcsb3V0WydzaG9ydGN1dCddKQogICAganNvbi5kdW1wKG91dCxvcGVuKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNDdfbWFwL3Jlc3VsdDE0N2QuanNvbicsJ3cnKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCiAgICBwcmludCgnV1JPVEUgcmVzdWx0MTQ3ZC5qc29uJyk7IHJldHVybiBvdXQKCmlmIF9fbmFtZV9fPT0nX19tYWluX18nOgogICAgcnVuKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""exp147d 鱼格 v4: 真正的"捷径"
+前三版三地形 REDUN=1.0 全是树, 路径唯一 -> 只验证了"认路", 未验证"捷径"
+本版: 同一真实地形, 树边 vs (树边+真实 symlink 边), 唯一差异=symlink 捷径
+主指标: 捷径增益 = 树路径长度 / (树+symlink)最短路长度
+"""
+import os, json, random, heapq
+from collections import deque, defaultdict
+
+SEED=20261018; CAP=900
+CANDS=['/usr/share','/usr/lib','/etc','/usr/share/doc','/usr/lib/x86_64-linux-gnu']
+
+def build(root, cap=CAP):
+    par={}; tree=[]; sym=[]; nodes=[root]; par[root]=None; q=deque([root]); linkmap={}
+    while q and len(nodes)<cap:
+        d=q.popleft()
+        try: subs=sorted(os.listdir(d))
+        except Exception: continue
+        for x in subs:
+            p=os.path.join(d,x)
+            if os.path.islink(p):
+                try: tgt=os.path.realpath(p)
+                except Exception: continue
+                # symlink 指向目录 -> 记为节点+捷径边
+                if os.path.isdir(tgt):
+                    if p not in par: par[p]=d; nodes.append(p)
+                    linkmap[p]=tgt
+                continue
+            if os.path.isdir(p) and p not in par:
+                par[p]=d; nodes.append(p); q.append(p)
+            if len(nodes)>=cap: break
+    # 树边
+    for n in nodes:
+        if par.get(n): tree.append((par[n],n))
+    # symlink 捷径边: 仅当目标已在节点集内
+    nset=set(nodes)
+    for p,t in linkmap.items():
+        if t in nset and t!=p and t!=par.get(p): sym.append((p,t))
+    return nodes,par,tree,sym
+
+def adj_from(edges):
+    a=defaultdict(set)
+    for u,v in edges: a[u].add(v); a[v].add(u)
+    return a
+
+def tree_dist(par,a,b):
+    A=set(); x=a
+    while x is not None: A.add(x); x=par.get(x)
+    x=b; n=0
+    while x not in A:
+        x=par.get(x)
+        if x is None: return None
+        n+=1
+    y=a; m=0
+    while y!=x:
+        y=par.get(y)
+        if y is None: return None
+        m+=1
+    return m+n
+
+def shortest(a,src,dst):
+    if src==dst: return 0
+    dist={src:0}; pq=[(0,src)]; seen=set()
+    while pq:
+        d,u=heapq.heappop(pq)
+        if u in seen: continue
+        seen.add(u)
+        if u==dst: return d
+        for v in a[u]:
+            if d+1<dist.get(v,1e9): dist[v]=d+1; heapq.heappush(pq,(d+1,v))
+    return None
+
+def run():
+    rng=random.Random(SEED); out={'seed':SEED,'cap':CAP,'cands':CANDS}
+    best=None
+    for root in CANDS:
+        nodes,par,tree,sym=build(root,CAP)
+        if not sym:
+            print(f'[{root}] nodes={len(nodes)} symlinks=0  SKIP'); continue
+        # symlink 的树距离(跨度)
+        sp=[]
+        for p,t in sym:
+            d=tree_dist(par,p,t)
+            if d is not None: sp.append(d)
+        if not sp: 
+            print(f'[{root}] symlinks={len(sym)} but no tree-dist  SKIP'); continue
+        sp.sort()
+        info=dict(root=root,nodes=len(nodes),sym_edges=len(sym),
+                  span_min=sp[0],span_med=sp[len(sp)//2],span_max=sp[-1],
+                  span_mean=round(sum(sp)/len(sp),3),
+                  true_shortcut=round(sum(1 for s in sp if s>2)/len(sp),4))
+        print(f'[{root}]',info)
+        if best is None or info['true_shortcut']>best['true_shortcut']:
+            best=dict(info); best['_d']=(nodes,par,tree,sym)
+    if best is None:
+        out['verdict']='NO_REAL_SYMLINK_SHORTCUT_FOUND'
+        json.dump(out,open('/data/workspace/luoshen-o1/experiments/exp147_map/result147d.json','w'),ensure_ascii=False,indent=1)
+        print('VERDICT: 真实文件系统未找到跨子树 symlink 捷径'); return out
+    nodes,par,tree,sym=best.pop('_d')
+    out.update(best)
+    adjT=adj_from(tree); adjC=adj_from(tree+sym)
+    # 捷径增益: 随机 (start,home) 对
+    pairs=[]
+    for _ in range(400):
+        a,b=rng.choice(nodes),rng.choice(nodes)
+        if a==b: continue
+        dt=tree_dist(par,a,b)
+        dc=shortest(adjC,a,b); dt2=shortest(adjT,a,b)
+        if dt is None or dc is None or dt2 is None: continue
+        if dt2==0: continue
+        pairs.append((dt2,dc))
+    gains=[x/y for x,y in pairs if y>0]
+    gains.sort()
+    out['shortcut']=dict(n_pairs=len(gains),
+        tree_path_mean=round(sum(x for x,y in pairs)/len(pairs),3),
+        cyclic_path_mean=round(sum(y for x,y in pairs)/len(pairs),3),
+        gain_mean=round(sum(gains)/len(gains),4),
+        gain_median=round(gains[len(gains)//2],4),
+        gain_max=round(gains[-1],4),
+        pct_pairs_gain_gt1=round(sum(1 for g in gains if g>1.0001)/len(gains),4))
+    print('shortcut',out['shortcut'])
+    json.dump(out,open('/data/workspace/luoshen-o1/experiments/exp147_map/result147d.json','w'),ensure_ascii=False,indent=1)
+    print('WROTE result147d.json'); return out
+
+if __name__=='__main__':
+    run()

@@ -1,1 +1,233 @@
-ewogImdyaWQiOiBbCiAgewogICAiZCI6IDAuNCwKICAgInJobyI6IDAuMywKICAgIk4iOiAxMCwKICAgImVycl9zZWxmIjogMC4yNDgzLAogICAiZXJyIjogMC4xMDE0LAogICAiY29uZiI6IDAuNTQ5NCwKICAgImNlcnIiOiAwLjAwOTYKICB9LAogIHsKICAgImQiOiAwLjQsCiAgICJyaG8iOiAwLjMsCiAgICJOIjogNDAsCiAgICJlcnJfc2VsZiI6IDAuMjUsCiAgICJlcnIiOiAwLjA4MzksCiAgICJjb25mIjogMC41MjAyLAogICAiY2VyciI6IDAuMDAwMQogIH0sCiAgewogICAiZCI6IDAuNCwKICAgInJobyI6IDAuMywKICAgIk4iOiAxNjAsCiAgICJlcnJfc2VsZiI6IDAuMjQ5NCwKICAgImVyciI6IDAuMDYzNSwKICAgImNvbmYiOiAwLjUwNjIsCiAgICJjZXJyIjogMC4wCiAgfSwKICB7CiAgICJkIjogMC40LAogICAicmhvIjogMC43LAogICAiTiI6IDEwLAogICAiZXJyX3NlbGYiOiAwLjI1MzUsCiAgICJlcnIiOiAwLjI0MzgsCiAgICJjb25mIjogMC43NzU4LAogICAiY2VyciI6IDAuMTU1MwogIH0sCiAgewogICAiZCI6IDAuNCwKICAgInJobyI6IDAuNywKICAgIk4iOiA0MCwKICAgImVycl9zZWxmIjogMC4yNTAzLAogICAiZXJyIjogMC4yNTAzLAogICAiY29uZiI6IDAuNzc1NCwKICAgImNlcnIiOiAwLjE0NjgKICB9LAogIHsKICAgImQiOiAwLjQsCiAgICJyaG8iOiAwLjcsCiAgICJOIjogMTYwLAogICAiZXJyX3NlbGYiOiAwLjI1MTcsCiAgICJlcnIiOiAwLjI1MTcsCiAgICJjb25mIjogMC43NzQ4LAogICAiY2VyciI6IDAuMTg4OAogIH0sCiAgewogICAiZCI6IDAuOCwKICAgInJobyI6IDAuMywKICAgIk4iOiAxMCwKICAgImVycl9zZWxmIjogMC40NDgxLAogICAiZXJyIjogMC4xNjA4LAogICAiY29uZiI6IDAuNDcyMiwKICAgImNlcnIiOiAwLjAxOAogIH0sCiAgewogICAiZCI6IDAuOCwKICAgInJobyI6IDAuMywKICAgIk4iOiA0MCwKICAgImVycl9zZWxmIjogMC40NDk5LAogICAiZXJyIjogMC4xNDk3LAogICAiY29uZiI6IDAuNDE4MSwKICAgImNlcnIiOiAwLjAKICB9LAogIHsKICAgImQiOiAwLjgsCiAgICJyaG8iOiAwLjMsCiAgICJOIjogMTYwLAogICAiZXJyX3NlbGYiOiAwLjQ1MTcsCiAgICJlcnIiOiAwLjEwOTksCiAgICJjb25mIjogMC4zOTAyLAogICAiY2VyciI6IDAuMAogIH0sCiAgewogICAiZCI6IDAuOCwKICAgInJobyI6IDAuNywKICAgIk4iOiAxMCwKICAgImVycl9zZWxmIjogMC40NDksCiAgICJlcnIiOiAwLjQyODQsCiAgICJjb25mIjogMC43MTc5LAogICAiY2VyciI6IDAuMjcwNAogIH0sCiAgewogICAiZCI6IDAuOCwKICAgInJobyI6IDAuNywKICAgIk4iOiA0MCwKICAgImVycl9zZWxmIjogMC40NTEsCiAgICJlcnIiOiAwLjQ1MDksCiAgICJjb25mIjogMC43MTUsCiAgICJjZXJyIjogMC4yNjYyCiAgfSwKICB7CiAgICJkIjogMC44LAogICAicmhvIjogMC43LAogICAiTiI6IDE2MCwKICAgImVycl9zZWxmIjogMC40NTEyLAogICAiZXJyIjogMC40NTEyLAogICAiY29uZiI6IDAuNzE0OCwKICAgImNlcnIiOiAwLjMzNzcKICB9LAogIHsKICAgImQiOiAwLjk1LAogICAicmhvIjogMC4zLAogICAiTiI6IDEwLAogICAiZXJyX3NlbGYiOiAwLjUyNjUsCiAgICJlcnIiOiAwLjE4NjksCiAgICJjb25mIjogMC40Mzg1LAogICAiY2VyciI6IDAuMDE5MwogIH0sCiAgewogICAiZCI6IDAuOTUsCiAgICJyaG8iOiAwLjMsCiAgICJOIjogNDAsCiAgICJlcnJfc2VsZiI6IDAuNTIyOCwKICAgImVyciI6IDAuMTY4NSwKICAgImNvbmYiOiAwLjM3OTgsCiAgICJjZXJyIjogMC4wMDAxCiAgfSwKICB7CiAgICJkIjogMC45NSwKICAgInJobyI6IDAuMywKICAgIk4iOiAxNjAsCiAgICJlcnJfc2VsZiI6IDAuNTI0OSwKICAgImVyciI6IDAuMTI1OCwKICAgImNvbmYiOiAwLjM0ODYsCiAgICJjZXJyIjogMC4wCiAgfSwKICB7CiAgICJkIjogMC45NSwKICAgInJobyI6IDAuNywKICAgIk4iOiAxMCwKICAgImVycl9zZWxmIjogMC41MjQxLAogICAiZXJyIjogMC41MDA3LAogICAiY29uZiI6IDAuNjk3NCwKICAgImNlcnIiOiAwLjMxNjQKICB9LAogIHsKICAgImQiOiAwLjk1LAogICAicmhvIjogMC43LAogICAiTiI6IDQwLAogICAiZXJyX3NlbGYiOiAwLjUyNTMsCiAgICJlcnIiOiAwLjUyNTIsCiAgICJjb25mIjogMC42OTIyLAogICAiY2VyciI6IDAuMzEyCiAgfSwKICB7CiAgICJkIjogMC45NSwKICAgInJobyI6IDAuNywKICAgIk4iOiAxNjAsCiAgICJlcnJfc2VsZiI6IDAuNTIzNiwKICAgImVyciI6IDAuNTIzNiwKICAgImNvbmYiOiAwLjY5MjgsCiAgICJjZXJyIjogMC4zOTIyCiAgfQogXSwKICJwcm92IjogWwogIHsKICAgInJobyI6IDAuMywKICAgImUwIjogMC4xNzExLAogICAiZTEiOiAwLjIxMTIsCiAgICJjZTAiOiAwLjAwMDEsCiAgICJjZTEiOiAwLjAwMzEKICB9LAogIHsKICAgInJobyI6IDAuNSwKICAgImUwIjogMC40OTA1LAogICAiZTEiOiAwLjQ1NzUsCiAgICJjZTAiOiAwLjAxNjksCiAgICJjZTEiOiAwLjA3MDkKICB9LAogIHsKICAgInJobyI6IDAuNywKICAgImUwIjogMC41MjMsCiAgICJlMSI6IDAuNTE5MiwKICAgImNlMCI6IDAuMzA1NCwKICAgImNlMSI6IDAuMzI3MQogIH0sCiAgewogICAicmhvIjogMC45LAogICAiZTAiOiAwLjUyNDksCiAgICJlMSI6IDAuNTI1OSwKICAgImNlMCI6IDAuNTI0NiwKICAgImNlMSI6IDAuNTE4NAogIH0KIF0sCiAicXNjYW4iOiBbCiAgewogICAicSI6IDAuNSwKICAgImVyciI6IDAuNTIxMiwKICAgImNlcnIiOiAwLjMzMjQKICB9LAogIHsKICAgInEiOiAwLjYsCiAgICJlcnIiOiAwLjUyNTEsCiAgICJjZXJyIjogMC4zMjg1CiAgfSwKICB7CiAgICJxIjogMC43LAogICAiZXJyIjogMC41MTk4LAogICAiY2VyciI6IDAuMzI1MgogIH0sCiAgewogICAicSI6IDAuOCwKICAgImVyciI6IDAuNTI0LAogICAiY2VyciI6IDAuMzI4CiAgfSwKICB7CiAgICJxIjogMC45LAogICAiZXJyIjogMC41MjQ4LAogICAiY2VyciI6IDAuMzMxNwogIH0sCiAgewogICAicSI6IDAuOTUsCiAgICJlcnIiOiAwLjUyMzMsCiAgICJjZXJyIjogMC4zMzE4CiAgfSwKICB7CiAgICJxIjogMS4wLAogICAiZXJyIjogMC41Mjg2LAogICAiY2VyciI6IDAuMzEwNwogIH0KIF0KfQ==
+{
+ "grid": [
+  {
+   "d": 0.4,
+   "rho": 0.3,
+   "N": 10,
+   "err_self": 0.2483,
+   "err": 0.1014,
+   "conf": 0.5494,
+   "cerr": 0.0096
+  },
+  {
+   "d": 0.4,
+   "rho": 0.3,
+   "N": 40,
+   "err_self": 0.25,
+   "err": 0.0839,
+   "conf": 0.5202,
+   "cerr": 0.0001
+  },
+  {
+   "d": 0.4,
+   "rho": 0.3,
+   "N": 160,
+   "err_self": 0.2494,
+   "err": 0.0635,
+   "conf": 0.5062,
+   "cerr": 0.0
+  },
+  {
+   "d": 0.4,
+   "rho": 0.7,
+   "N": 10,
+   "err_self": 0.2535,
+   "err": 0.2438,
+   "conf": 0.7758,
+   "cerr": 0.1553
+  },
+  {
+   "d": 0.4,
+   "rho": 0.7,
+   "N": 40,
+   "err_self": 0.2503,
+   "err": 0.2503,
+   "conf": 0.7754,
+   "cerr": 0.1468
+  },
+  {
+   "d": 0.4,
+   "rho": 0.7,
+   "N": 160,
+   "err_self": 0.2517,
+   "err": 0.2517,
+   "conf": 0.7748,
+   "cerr": 0.1888
+  },
+  {
+   "d": 0.8,
+   "rho": 0.3,
+   "N": 10,
+   "err_self": 0.4481,
+   "err": 0.1608,
+   "conf": 0.4722,
+   "cerr": 0.018
+  },
+  {
+   "d": 0.8,
+   "rho": 0.3,
+   "N": 40,
+   "err_self": 0.4499,
+   "err": 0.1497,
+   "conf": 0.4181,
+   "cerr": 0.0
+  },
+  {
+   "d": 0.8,
+   "rho": 0.3,
+   "N": 160,
+   "err_self": 0.4517,
+   "err": 0.1099,
+   "conf": 0.3902,
+   "cerr": 0.0
+  },
+  {
+   "d": 0.8,
+   "rho": 0.7,
+   "N": 10,
+   "err_self": 0.449,
+   "err": 0.4284,
+   "conf": 0.7179,
+   "cerr": 0.2704
+  },
+  {
+   "d": 0.8,
+   "rho": 0.7,
+   "N": 40,
+   "err_self": 0.451,
+   "err": 0.4509,
+   "conf": 0.715,
+   "cerr": 0.2662
+  },
+  {
+   "d": 0.8,
+   "rho": 0.7,
+   "N": 160,
+   "err_self": 0.4512,
+   "err": 0.4512,
+   "conf": 0.7148,
+   "cerr": 0.3377
+  },
+  {
+   "d": 0.95,
+   "rho": 0.3,
+   "N": 10,
+   "err_self": 0.5265,
+   "err": 0.1869,
+   "conf": 0.4385,
+   "cerr": 0.0193
+  },
+  {
+   "d": 0.95,
+   "rho": 0.3,
+   "N": 40,
+   "err_self": 0.5228,
+   "err": 0.1685,
+   "conf": 0.3798,
+   "cerr": 0.0001
+  },
+  {
+   "d": 0.95,
+   "rho": 0.3,
+   "N": 160,
+   "err_self": 0.5249,
+   "err": 0.1258,
+   "conf": 0.3486,
+   "cerr": 0.0
+  },
+  {
+   "d": 0.95,
+   "rho": 0.7,
+   "N": 10,
+   "err_self": 0.5241,
+   "err": 0.5007,
+   "conf": 0.6974,
+   "cerr": 0.3164
+  },
+  {
+   "d": 0.95,
+   "rho": 0.7,
+   "N": 40,
+   "err_self": 0.5253,
+   "err": 0.5252,
+   "conf": 0.6922,
+   "cerr": 0.312
+  },
+  {
+   "d": 0.95,
+   "rho": 0.7,
+   "N": 160,
+   "err_self": 0.5236,
+   "err": 0.5236,
+   "conf": 0.6928,
+   "cerr": 0.3922
+  }
+ ],
+ "prov": [
+  {
+   "rho": 0.3,
+   "e0": 0.1711,
+   "e1": 0.2112,
+   "ce0": 0.0001,
+   "ce1": 0.0031
+  },
+  {
+   "rho": 0.5,
+   "e0": 0.4905,
+   "e1": 0.4575,
+   "ce0": 0.0169,
+   "ce1": 0.0709
+  },
+  {
+   "rho": 0.7,
+   "e0": 0.523,
+   "e1": 0.5192,
+   "ce0": 0.3054,
+   "ce1": 0.3271
+  },
+  {
+   "rho": 0.9,
+   "e0": 0.5249,
+   "e1": 0.5259,
+   "ce0": 0.5246,
+   "ce1": 0.5184
+  }
+ ],
+ "qscan": [
+  {
+   "q": 0.5,
+   "err": 0.5212,
+   "cerr": 0.3324
+  },
+  {
+   "q": 0.6,
+   "err": 0.5251,
+   "cerr": 0.3285
+  },
+  {
+   "q": 0.7,
+   "err": 0.5198,
+   "cerr": 0.3252
+  },
+  {
+   "q": 0.8,
+   "err": 0.524,
+   "cerr": 0.328
+  },
+  {
+   "q": 0.9,
+   "err": 0.5248,
+   "cerr": 0.3317
+  },
+  {
+   "q": 0.95,
+   "err": 0.5233,
+   "cerr": 0.3318
+  },
+  {
+   "q": 1.0,
+   "err": 0.5286,
+   "cerr": 0.3107
+  }
+ ]
+}

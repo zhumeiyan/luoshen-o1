@@ -1,1 +1,142 @@
-WwogewogICJyZXBvIjogImxhbmdjaGFpbi1haS9sYW5nY2hhaW4iLAogICJzdGFycyI6IDE0ODExOCwKICAidGFnbGluZSI6ICJUaGUgYWdlbnQgZW5naW5lZXJpbmcgcGxhdGZvcm0uIiwKICAiYmFkZ2VzIjogMCwKICAiZGVtbyI6IGZhbHNlLAogICJiZW5jaCI6IGZhbHNlLAogICJhcmNoIjogdHJ1ZSwKICAiaW5zdGFsbCI6IHRydWUKIH0sCiB7CiAgInJlcG8iOiAidmxsbS1wcm9qZWN0L3ZsbG0iLAogICJzdGFycyI6IDk0MTk5LAogICJ0YWdsaW5lIjogIkVhc3ksIGZhc3QsIGFuZCBjaGVhcCBMTE0gc2VydmluZyBmb3IgZXZlcnlvbmUiLAogICJiYWRnZXMiOiAwLAogICJkZW1vIjogZmFsc2UsCiAgImJlbmNoIjogdHJ1ZSwKICAiYXJjaCI6IHRydWUsCiAgImluc3RhbGwiOiB0cnVlCiB9LAogewogICJyZXBvIjogIm9sbGFtYS9vbGxhbWEiLAogICJzdGFycyI6IDE4MzkyNywKICAidGFnbGluZSI6ICJTdGFydCBidWlsZGluZyB3aXRoIG9wZW4gbW9kZWxzLiBBY2Nlc3MgdGhlIGxhdGVzdCByZWxlYXNlcyBsb2NhbGx5IG9yIGluIHRoZSBjbG91ZCB3aXRoIGNvbXBsZXRlIHByaXZhY3kuIiwKICAiYmFkZ2VzIjogMCwKICAiZGVtbyI6IGZhbHNlLAogICJiZW5jaCI6IGZhbHNlLAogICJhcmNoIjogZmFsc2UsCiAgImluc3RhbGwiOiB0cnVlCiB9LAogewogICJyZXBvIjogImxhbmdnZW5pdXMvZGlmeSIsCiAgInN0YXJzIjogMTU4OTkzLAogICJ0YWdsaW5lIjogIiFbY292ZXItdjUtb3B0aW1pemVkXSguL2ltYWdlcy9HaXRIdWJfUkVBRE1FX2lmLnBuZykiLAogICJiYWRnZXMiOiAxLAogICJkZW1vIjogdHJ1ZSwKICAiYmVuY2giOiB0cnVlLAogICJhcmNoIjogZmFsc2UsCiAgImluc3RhbGwiOiBmYWxzZQogfSwKIHsKICAicmVwbyI6ICJydW4tbGxhbWEvbGxhbWFfaW5kZXgiLAogICJzdGFycyI6IDUyNTc3LAogICJ0YWdsaW5lIjogIlshW1B5UEkgLSBEb3dubG9hZHNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vcHlwaS9kbS9sbGFtYS1pbmRleCldKGh0dHBzOi8vcHlwaS5vcmcvcHJvamVjdC9sbGFtYS1pbmRleC8pIiwKICAiYmFkZ2VzIjogNiwKICAiZGVtbyI6IGZhbHNlLAogICJiZW5jaCI6IHRydWUsCiAgImFyY2giOiBmYWxzZSwKICAiaW5zdGFsbCI6IHRydWUKIH0sCiB7CiAgInJlcG8iOiAiaHVnZ2luZ2ZhY2UvdHJhbnNmb3JtZXJzIiwKICAic3RhcnMiOiAxNjc4ODgsCiAgInRhZ2xpbmUiOiAiQ29weXJpZ2h0IDIwMjAgVGhlIEh1Z2dpbmdGYWNlIFRlYW0uIEFsbCByaWdodHMgcmVzZXJ2ZWQuIiwKICAiYmFkZ2VzIjogMCwKICAiZGVtbyI6IGZhbHNlLAogICJiZW5jaCI6IHRydWUsCiAgImFyY2giOiB0cnVlLAogICJpbnN0YWxsIjogdHJ1ZQogfSwKIHsKICAicmVwbyI6ICJBbGwtSGFuZHMtQUkvT3BlbkhhbmRzIiwKICAic3RhcnMiOiA5MTM0MywKICAidGFnbGluZSI6ICJBZ2VudCBDYW52YXMiLAogICJiYWRnZXMiOiAwLAogICJkZW1vIjogZmFsc2UsCiAgImJlbmNoIjogZmFsc2UsCiAgImFyY2giOiB0cnVlLAogICJpbnN0YWxsIjogdHJ1ZQogfSwKIHsKICAicmVwbyI6ICJsYW5nY2hhaW4tYWkvbGFuZ2dyYXBoIiwKICAic3RhcnMiOiA0MzU2MCwKICAidGFnbGluZSI6ICJMb3ctbGV2ZWwgb3JjaGVzdHJhdGlvbiBmcmFtZXdvcmsgZm9yIGJ1aWxkaW5nIHN0YXRlZnVsIGFnZW50cy4iLAogICJiYWRnZXMiOiAwLAogICJkZW1vIjogZmFsc2UsCiAgImJlbmNoIjogZmFsc2UsCiAgImFyY2giOiBmYWxzZSwKICAiaW5zdGFsbCI6IHRydWUKIH0sCiB7CiAgInJlcG8iOiAiZGVlcHNldC1haS9oYXlzdGFjayIsCiAgInN0YXJzIjogMjY3ODUsCiAgInRhZ2xpbmUiOiAifCAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwiLAogICJiYWRnZXMiOiA1LAogICJkZW1vIjogZmFsc2UsCiAgImJlbmNoIjogZmFsc2UsCiAgImFyY2giOiB0cnVlLAogICJpbnN0YWxsIjogdHJ1ZQogfSwKIHsKICAicmVwbyI6ICJtaWx2dXMtaW8vbWlsdnVzIiwKICAic3RhcnMiOiA0NjQ0MiwKICAidGFnbGluZSI6ICLwn5CmIFtNaWx2dXNdKGh0dHBzOi8vbWlsdnVzLmlvLykgaXMgYSBoaWdoLXBlcmZvcm1hbmNlIHZlY3RvciBkYXRhYmFzZSBidWlsdCBmb3Igc2NhbGUuIEl0IHBvd2VycyBBSSBhcHBsaWNhdGlvbnMgYnkgZWZmaWNpZW50bHkgb3JnYW5pemluZyBhbmQgc2VhcmNoaW5nIHZhc3QgYW1vdW50cyBvZiB1bnN0cnVjdHVyZWQgZGF0YSwgc3VjaCBhcyB0ZXh0LCBpbWFnZXMsIGFuZCBtdWx0aS1tb2RhbCBpbmZvcm1hdGlvbi4iLAogICJiYWRnZXMiOiAwLAogICJkZW1vIjogZmFsc2UsCiAgImJlbmNoIjogdHJ1ZSwKICAiYXJjaCI6IHRydWUsCiAgImluc3RhbGwiOiB0cnVlCiB9LAogewogICJyZXBvIjogImxhbmdmdXNlL2xhbmdmdXNlIiwKICAic3RhcnMiOiAzNjA3MCwKICAidGFnbGluZSI6ICJMYW5nZnVzZSBDbG91ZCIsCiAgImJhZGdlcyI6IDAsCiAgImRlbW8iOiB0cnVlLAogICJiZW5jaCI6IHRydWUsCiAgImFyY2giOiB0cnVlLAogICJpbnN0YWxsIjogdHJ1ZQogfSwKIHsKICAicmVwbyI6ICJjcmV3QUlJbmMvY3Jld0FJIiwKICAic3RhcnMiOiA1OTkwNiwKICAidGFnbGluZSI6ICJPcGVuIFNvdXJjZSIsCiAgImJhZGdlcyI6IDAsCiAgImRlbW8iOiBmYWxzZSwKICAiYmVuY2giOiB0cnVlLAogICJhcmNoIjogdHJ1ZSwKICAiaW5zdGFsbCI6IHRydWUKIH0sCiB7CiAgInJlcG8iOiAibWljcm9zb2Z0L2F1dG9nZW4iLAogICJzdGFycyI6IDYxNDk2LAogICJ0YWdsaW5lIjogIlshW1R3aXR0ZXJdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vdHdpdHRlci91cmwvaHR0cHMvdHdpdHRlci5jb20vY2xvdWRwb3NzZS5zdmc/c3R5bGU9c29jaWFsJmxhYmVsPUZvbGxvdyUyMCU0MHB5YXV0b2dlbildKGh0dHBzOi8vdHdpdHRlci5jb20vcHlhdXRvZ2VuKSIsCiAgImJhZGdlcyI6IDYsCiAgImRlbW8iOiBmYWxzZSwKICAiYmVuY2giOiB0cnVlLAogICJhcmNoIjogdHJ1ZSwKICAiaW5zdGFsbCI6IHRydWUKIH0sCiB7CiAgInJlcG8iOiAiU2lnbmlmaWNhbnQtR3Jhdml0YXMvQXV0b0dQVCIsCiAgInN0YXJzIjogMTg3NjY3LAogICJ0YWdsaW5lIjogIkF1dG9HUFQg4oCUIEFJIGFnZW50cyB0aGF0IGZpbmlzaCB0aGUgd29yayIsCiAgImJhZGdlcyI6IDAsCiAgImRlbW8iOiBmYWxzZSwKICAiYmVuY2giOiB0cnVlLAogICJhcmNoIjogZmFsc2UsCiAgImluc3RhbGwiOiBmYWxzZQogfQpd
+[
+ {
+  "repo": "langchain-ai/langchain",
+  "stars": 148118,
+  "tagline": "The agent engineering platform.",
+  "badges": 0,
+  "demo": false,
+  "bench": false,
+  "arch": true,
+  "install": true
+ },
+ {
+  "repo": "vllm-project/vllm",
+  "stars": 94199,
+  "tagline": "Easy, fast, and cheap LLM serving for everyone",
+  "badges": 0,
+  "demo": false,
+  "bench": true,
+  "arch": true,
+  "install": true
+ },
+ {
+  "repo": "ollama/ollama",
+  "stars": 183927,
+  "tagline": "Start building with open models. Access the latest releases locally or in the cloud with complete privacy.",
+  "badges": 0,
+  "demo": false,
+  "bench": false,
+  "arch": false,
+  "install": true
+ },
+ {
+  "repo": "langgenius/dify",
+  "stars": 158993,
+  "tagline": "![cover-v5-optimized](./images/GitHub_README_if.png)",
+  "badges": 1,
+  "demo": true,
+  "bench": true,
+  "arch": false,
+  "install": false
+ },
+ {
+  "repo": "run-llama/llama_index",
+  "stars": 52577,
+  "tagline": "[![PyPI - Downloads](https://img.shields.io/pypi/dm/llama-index)](https://pypi.org/project/llama-index/)",
+  "badges": 6,
+  "demo": false,
+  "bench": true,
+  "arch": false,
+  "install": true
+ },
+ {
+  "repo": "huggingface/transformers",
+  "stars": 167888,
+  "tagline": "Copyright 2020 The HuggingFace Team. All rights reserved.",
+  "badges": 0,
+  "demo": false,
+  "bench": true,
+  "arch": true,
+  "install": true
+ },
+ {
+  "repo": "All-Hands-AI/OpenHands",
+  "stars": 91343,
+  "tagline": "Agent Canvas",
+  "badges": 0,
+  "demo": false,
+  "bench": false,
+  "arch": true,
+  "install": true
+ },
+ {
+  "repo": "langchain-ai/langgraph",
+  "stars": 43560,
+  "tagline": "Low-level orchestration framework for building stateful agents.",
+  "badges": 0,
+  "demo": false,
+  "bench": false,
+  "arch": false,
+  "install": true
+ },
+ {
+  "repo": "deepset-ai/haystack",
+  "stars": 26785,
+  "tagline": "|         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |",
+  "badges": 5,
+  "demo": false,
+  "bench": false,
+  "arch": true,
+  "install": true
+ },
+ {
+  "repo": "milvus-io/milvus",
+  "stars": 46442,
+  "tagline": "🐦 [Milvus](https://milvus.io/) is a high-performance vector database built for scale. It powers AI applications by efficiently organizing and searching vast amounts of unstructured data, such as text, images, and multi-modal information.",
+  "badges": 0,
+  "demo": false,
+  "bench": true,
+  "arch": true,
+  "install": true
+ },
+ {
+  "repo": "langfuse/langfuse",
+  "stars": 36070,
+  "tagline": "Langfuse Cloud",
+  "badges": 0,
+  "demo": true,
+  "bench": true,
+  "arch": true,
+  "install": true
+ },
+ {
+  "repo": "crewAIInc/crewAI",
+  "stars": 59906,
+  "tagline": "Open Source",
+  "badges": 0,
+  "demo": false,
+  "bench": true,
+  "arch": true,
+  "install": true
+ },
+ {
+  "repo": "microsoft/autogen",
+  "stars": 61496,
+  "tagline": "[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40pyautogen)](https://twitter.com/pyautogen)",
+  "badges": 6,
+  "demo": false,
+  "bench": true,
+  "arch": true,
+  "install": true
+ },
+ {
+  "repo": "Significant-Gravitas/AutoGPT",
+  "stars": 187667,
+  "tagline": "AutoGPT — AI agents that finish the work",
+  "badges": 0,
+  "demo": false,
+  "bench": true,
+  "arch": false,
+  "install": false
+ }
+]

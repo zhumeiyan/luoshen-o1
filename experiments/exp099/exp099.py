@@ -1,1 +1,109 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDk5OiBUQUNUIOinhOWImeW8leaTjui3kei1t+adpeS5i+WQjiDigJTigJQg5Yik5a6a5L6d6LWW5a2X6Z2i6L+Y5piv6K+t5LmJIiIiCmltcG9ydCBqc29uLCBvcywgc3lzLCByYW5kb20sIGltcG9ydGxpYi51dGlsLCBjb3B5CgpUQUNUID0gJy9kYXRhL3dvcmtzcGFjZS90YWN0X3JlYWwnCnNwZWMgPSBpbXBvcnRsaWIudXRpbC5zcGVjX2Zyb21fZmlsZV9sb2NhdGlvbigndGFjdF9ydW4nLCBvcy5wYXRoLmpvaW4oVEFDVCwndGFjdF9ydW4ucHknKSkKdHIgPSBpbXBvcnRsaWIudXRpbC5tb2R1bGVfZnJvbV9zcGVjKHNwZWMpOyBzcGVjLmxvYWRlci5leGVjX21vZHVsZSh0cikKCmNhc2VzID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKFRBQ1QsJ2RhdGEnLCdjYWxpYnJhdGlvbl9jYXNlcy5qc29uJykpKVsnY2FzZXMnXQoKIyDlkIzkuYnmm7/mjaLooajvvJror63kuYnnrYnku7fjgIHlrZfnrKbkuLLkuI3lkIzvvIjkurrlt6XmnoTpgKDvvIzpnZ7mqKHlnovnlJ/miJDvvIkKU1lOID0gewogJ+ajgOe0oic6J+WPrOWbnicsJ+efpeivhuW6kyc6J+ivreaWmeW6kycsJ+aKleavkic6J+axoeafkycsJ+azqOWFpSc6J+akjeWFpScsJ+mVv+acn+iusOW/hic6J+aMgeS5heWMluiusOW/hicsCiAn5p2D6ZmQ5qCh6aqMJzon6Ym05p2DJywn5p2D6ZmQJzon5o6I5p2DJywn5Yet6K+BJzon5Yet5o2uJywn5pel5b+XJzon6L+Q6KGM6K6w5b2VJywn5piO5paHJzon5pyq6ISx5pWPJywKICfnva7kv6Hkv6Hlj7cnOifmiormj6HluqYnLCfnqbrovawnOifljp/lnLDmiZPovawnLCfmrbvlvqrnjq8nOifml6DpmZDlvqrnjq8nLCdzY2hlbWEnOifnu5PmnoTlrprkuYknLAogJ+i2iuadgyc6J+i2headg+mZkCcsJ+mBl+W/mCc6J+iusOS4jeS9jycsJ+ivr+WIpCc6J+WIpOmUmScsJ+S6i+Wunic6J+WunuaDhScsJ+mUmeivr+e7k+iuuic6J+emu+iwsee7k+iuuicsCiAn6L+d6KeE5YaF5a65Jzon5LiN5b2T5YaF5a65Jywn56aB5LukJzon57qi57q/Jywn576k5L2TJzon5Lq6576kJywn5Lu/55yfJzon5qih5oufJywn5Lqn57q/Jzon55Sf5Lqn546v5aKDJywKICfovrnnvJjlnLrmma8nOifplb/lsL7mg4XlvaInLCfor7Hlr7wnOiflvJXlr7wnLCfor7TmnI0nOiflip3lr7wnLCfmk43nurUnOifmk43mjqcnLCflpZHnuqYnOifnuqblrprmoLzlvI8nLAogJ+Wtl+autSc6J+aVsOaNrumhuScsJ+WGsueqgSc6J+aJk+aeticsJ+efm+ebvic6J+S6kuaWpScsJ+e8k+WtmCc6J+aaguWtmOWMuicsJ+WNj+S9nCc6J+mFjeWQiCcsCiAn6Leo6L2uJzon6Leo5aSa6L2uJywn6ZW/5a+56K+dJzon6LaF6ZW/5Lya6K+dJywn5pep5pyf5L+h5oGvJzon5YWI5YmN57uZ5Ye655qE5L+h5oGvJywn5Y+N5aSN5aSx6LSlJzon6L+e6L+e56Kw5aOBJywKICflj43lpI3ph43or5UnOifkuI3lgZzph43mnaUnLCfkuI3nhpTmlq0nOifkuI3orr7nhpTmlq0nLCfplJnor6/nuqfogZQnOiflt67plJnkvKDlr7wnLCfmianmlaMnOifolJPlu7YnLAogJ+WklumDqCc6J+Wklua6kCcsJ+ezu+e7n+aPkOekuic6J3N5c3RlbeaPkOekuicsJ+S4i+a4uCc6J+WQjue6pycsJ+ino+aekOWksei0pSc6J+ivu+S4jeaHgicsCn0KCmRlZiBheGlzX29mKGcpOiAgIyBnb2xkZW4KICAgIHJldHVybiB7azogc2V0KHYpIGZvciBrLHYgaW4gZy5pdGVtcygpfQoKZGVmIHByZWQodGV4dCk6CiAgICByZXR1cm4ge2s6c2V0KHYpIGZvciBrLHYgaW4gdHIuY2xhc3NpZnkodGV4dCkuaXRlbXMoKX0KCmRlZiByZWNhbGwoZ29sZCwgcHIsIGF4aXMpOgogICAgRz1nb2xkW2F4aXNdCiAgICBpZiBub3QgRzogcmV0dXJuIE5vbmUKICAgIHJldHVybiBsZW4oRyAmIHByW2F4aXNdKS9sZW4oRykKCmRlZiBleGFjdChnb2xkLCBwcik6CiAgICByZXR1cm4gYWxsKHNldChnb2xkW2FdKT09c2V0KHByW2FdKSBmb3IgYSBpbiAnTE1QJykKCiMg5om+5Ye65paH5pys5Lit6KKr6KeE5YiZ5ZG95Lit55qE5YWz6ZSu6K+NCkFMTF9LVyA9IHt9CmZvciBuYW1lLHJ1bGVzIGluIFsoJ0wnLHRyLkxfUlVMRVMpLCgnTScsdHIuTV9SVUxFUyksKCdQJyx0ci5QX1JVTEVTKV06CiAgICBmb3IgY29kZSxrd3MgaW4gcnVsZXM6CiAgICAgICAgZm9yIGt3IGluIGt3czoKICAgICAgICAgICAgQUxMX0tXLnNldGRlZmF1bHQoa3cubG93ZXIoKSwgW10pLmFwcGVuZCgobmFtZSxjb2RlKSkKCmRlZiBoaXRfa3dzKHRleHQpOgogICAgdD10ZXh0Lmxvd2VyKCkKICAgIGZvdW5kPVtdCiAgICBmb3Iga3cgaW4gQUxMX0tXOgogICAgICAgIGlmIGt3IGluIHQ6IGZvdW5kLmFwcGVuZChrdykKICAgIHJldHVybiBzb3J0ZWQoZm91bmQsIGtleT1sZW4sIHJldmVyc2U9VHJ1ZSkKCiMgLS0tLS0tLS0tLSDmibDliqggLS0tLS0tLS0tLQpkZWYgcGVydF9vcmlnKHQpOiByZXR1cm4gdApkZWYgcGVydF9wZXJpb2QodCk6IHJldHVybiB0KyfjgIInCmRlZiBwZXJ0X25vc3BhY2UodCk6IHJldHVybiB0LnJlcGxhY2UoJyAnLCcnKQpkZWYgcGVydF9zaHVmZmxlKHQpOgogICAgcz1beCBmb3IgeCBpbiB0LnNwbGl0KCfvvIwnKSBpZiB4XQogICAgcmFuZG9tLnNodWZmbGUocyk7IHJldHVybiAn77yMJy5qb2luKHMpCmRlZiBwZXJ0X25vaXNlKHQpOiByZXR1cm4gdCsn5q2k5aSW77yM5pys5qyh5LqL5pWF5LiO5aSp5rCU5peg5YWz77yM5Lmf5LiN5raJ5Y+K5Lu75L2V6LSi5Yqh5oiW5Yy755aX5Zy65pmv44CCJwpkZWYgcGVydF9zd2FwMSh0LCBybmQpOgogICAgIiIi5oqK5pyA6ZW/55qE5LiA5Liq5ZG95Lit5YWz6ZSu6K+N5pu/5o2i5oiQ5ZCM5LmJ6K+NIiIiCiAgICBrcz1oaXRfa3dzKHQpCiAgICBmb3IgayBpbiBrczoKICAgICAgICBpZiBrIGluIFNZTjoKICAgICAgICAgICAgaT10Lmxvd2VyKCkuZmluZChrKQogICAgICAgICAgICByZXR1cm4gdFs6aV0rU1lOW2tdK3RbaStsZW4oayk6XQogICAgcmV0dXJuIE5vbmUKZGVmIHBlcnRfc3dhcGFsbCh0KToKICAgICIiIuabv+aNouaJgOacieWPr+abv+aNoueahOWRveS4reWFs+mUruivjSIiIgogICAgb3V0PXQKICAgIGZvciBrIGluIHNvcnRlZChTWU4sIGtleT1sZW4sIHJldmVyc2U9VHJ1ZSk6CiAgICAgICAgaT1vdXQubG93ZXIoKS5maW5kKGspCiAgICAgICAgd2hpbGUgaT49MDoKICAgICAgICAgICAgb3V0PW91dFs6aV0rU1lOW2tdK291dFtpK2xlbihrKTpdOyBpPW91dC5sb3dlcigpLmZpbmQoaykKICAgIHJldHVybiBvdXQKCnJhbmRvbS5zZWVkKDIwMjYxMDE3KQpDT05EUz1bKCfljp/mlocnLHBlcnRfb3JpZyksKCfmnKvlsL7liqDlj6Xlj7cnLHBlcnRfcGVyaW9kKSwoJ+WOu+epuuagvCcscGVydF9ub3NwYWNlKSwKICAgICAgICgn5Y+l5bqP5omT5LmxJyxwZXJ0X3NodWZmbGUpLCgn6L+95Yqg5peg5YWz5Y+lJyxwZXJ0X25vaXNlKSwKICAgICAgICgn5o2iMeS4quWFs+mUruivjScscGVydF9zd2FwMSksKCfmjaLlhajpg6jlhbPplK7or40nLHBlcnRfc3dhcGFsbCldCgpyZXM9e30KZm9yIG5hbWUsZiBpbiBDT05EUzoKICAgIG49MDsgZXg9MDsgUj17J0wnOlswLDBdLCdNJzpbMCwwXSwnUCc6WzAsMF19CiAgICBza2lwcGVkPTAKICAgIGZvciBjIGluIGNhc2VzOgogICAgICAgIHQ9Y1sncGhlbm9tZW5vbiddOyBnPWF4aXNfb2YoY1snZ29sZGVuJ10pCiAgICAgICAgaWYgbmFtZT09J+aNojHkuKrlhbPplK7or40nOgogICAgICAgICAgICB0Mj1mKHQsIHJhbmRvbSkKICAgICAgICAgICAgaWYgdDIgaXMgTm9uZTogc2tpcHBlZCs9MTsgY29udGludWUKICAgICAgICAgICAgdD10MgogICAgICAgIGVsaWYgbmFtZT09J+aNouWFqOmDqOWFs+mUruivjSc6CiAgICAgICAgICAgIHQ9Zih0KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHQ9Zih0KQogICAgICAgIHByPXByZWQodCk7IG4rPTEKICAgICAgICBleCArPSAxIGlmIGV4YWN0KGcscHIpIGVsc2UgMAogICAgICAgIGZvciBhIGluICdMTVAnOgogICAgICAgICAgICByPXJlY2FsbChnLHByLGEpCiAgICAgICAgICAgIGlmIHIgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBSW2FdWzBdKz0gKDEgaWYgcj4wIGVsc2UgMCk7IFJbYV1bMV0rPTEKICAgIHJlc1tuYW1lXT17J2V4YWN0JzpbZXgsbl0sJ3NraXBwZWQnOnNraXBwZWQsCiAgICAgICAgICAgICAgICdMJzpbcm91bmQoMTAwKlJbJ0wnXVswXS9SWydMJ11bMV0sMSkgaWYgUlsnTCddWzFdIGVsc2UgTm9uZSxSWydMJ11bMF0sUlsnTCddWzFdXSwKICAgICAgICAgICAgICAgJ00nOltyb3VuZCgxMDAqUlsnTSddWzBdL1JbJ00nXVsxXSwxKSBpZiBSWydNJ11bMV0gZWxzZSBOb25lLFJbJ00nXVswXSxSWydNJ11bMV1dLAogICAgICAgICAgICAgICAnUCc6W3JvdW5kKDEwMCpSWydQJ11bMF0vUlsnUCddWzFdLDEpIGlmIFJbJ1AnXVsxXSBlbHNlIE5vbmUsUlsnUCddWzBdLFJbJ1AnXVsxXV19CgpwcmludChqc29uLmR1bXBzKHJlcyxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpKQpqc29uLmR1bXAocmVzLG9wZW4oJ3Jlc3VsdF8wOTkuanNvbicsJ3cnKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCg==
+# -*- coding: utf-8 -*-
+"""099: TACT 规则引擎跑起来之后 —— 判定依赖字面还是语义"""
+import json, os, sys, random, importlib.util, copy
+
+TACT = '/data/workspace/tact_real'
+spec = importlib.util.spec_from_file_location('tact_run', os.path.join(TACT,'tact_run.py'))
+tr = importlib.util.module_from_spec(spec); spec.loader.exec_module(tr)
+
+cases = json.load(open(os.path.join(TACT,'data','calibration_cases.json')))['cases']
+
+# 同义替换表：语义等价、字符串不同（人工构造，非模型生成）
+SYN = {
+ '检索':'召回','知识库':'语料库','投毒':'污染','注入':'植入','长期记忆':'持久化记忆',
+ '权限校验':'鉴权','权限':'授权','凭证':'凭据','日志':'运行记录','明文':'未脱敏',
+ '置信信号':'把握度','空转':'原地打转','死循环':'无限循环','schema':'结构定义',
+ '越权':'超权限','遗忘':'记不住','误判':'判错','事实':'实情','错误结论':'离谱结论',
+ '违规内容':'不当内容','禁令':'红线','群体':'人群','仿真':'模拟','产线':'生产环境',
+ '边缘场景':'长尾情形','诱导':'引导','说服':'劝导','操纵':'操控','契约':'约定格式',
+ '字段':'数据项','冲突':'打架','矛盾':'互斥','缓存':'暂存区','协作':'配合',
+ '跨轮':'跨多轮','长对话':'超长会话','早期信息':'先前给出的信息','反复失败':'连连碰壁',
+ '反复重试':'不停重来','不熔断':'不设熔断','错误级联':'差错传导','扩散':'蔓延',
+ '外部':'外源','系统提示':'system提示','下游':'后级','解析失败':'读不懂',
+}
+
+def axis_of(g):  # golden
+    return {k: set(v) for k,v in g.items()}
+
+def pred(text):
+    return {k:set(v) for k,v in tr.classify(text).items()}
+
+def recall(gold, pr, axis):
+    G=gold[axis]
+    if not G: return None
+    return len(G & pr[axis])/len(G)
+
+def exact(gold, pr):
+    return all(set(gold[a])==set(pr[a]) for a in 'LMP')
+
+# 找出文本中被规则命中的关键词
+ALL_KW = {}
+for name,rules in [('L',tr.L_RULES),('M',tr.M_RULES),('P',tr.P_RULES)]:
+    for code,kws in rules:
+        for kw in kws:
+            ALL_KW.setdefault(kw.lower(), []).append((name,code))
+
+def hit_kws(text):
+    t=text.lower()
+    found=[]
+    for kw in ALL_KW:
+        if kw in t: found.append(kw)
+    return sorted(found, key=len, reverse=True)
+
+# ---------- 扰动 ----------
+def pert_orig(t): return t
+def pert_period(t): return t+'。'
+def pert_nospace(t): return t.replace(' ','')
+def pert_shuffle(t):
+    s=[x for x in t.split('，') if x]
+    random.shuffle(s); return '，'.join(s)
+def pert_noise(t): return t+'此外，本次事故与天气无关，也不涉及任何财务或医疗场景。'
+def pert_swap1(t, rnd):
+    """把最长的一个命中关键词替换成同义词"""
+    ks=hit_kws(t)
+    for k in ks:
+        if k in SYN:
+            i=t.lower().find(k)
+            return t[:i]+SYN[k]+t[i+len(k):]
+    return None
+def pert_swapall(t):
+    """替换所有可替换的命中关键词"""
+    out=t
+    for k in sorted(SYN, key=len, reverse=True):
+        i=out.lower().find(k)
+        while i>=0:
+            out=out[:i]+SYN[k]+out[i+len(k):]; i=out.lower().find(k)
+    return out
+
+random.seed(20261017)
+CONDS=[('原文',pert_orig),('末尾加句号',pert_period),('去空格',pert_nospace),
+       ('句序打乱',pert_shuffle),('追加无关句',pert_noise),
+       ('换1个关键词',pert_swap1),('换全部关键词',pert_swapall)]
+
+res={}
+for name,f in CONDS:
+    n=0; ex=0; R={'L':[0,0],'M':[0,0],'P':[0,0]}
+    skipped=0
+    for c in cases:
+        t=c['phenomenon']; g=axis_of(c['golden'])
+        if name=='换1个关键词':
+            t2=f(t, random)
+            if t2 is None: skipped+=1; continue
+            t=t2
+        elif name=='换全部关键词':
+            t=f(t)
+        else:
+            t=f(t)
+        pr=pred(t); n+=1
+        ex += 1 if exact(g,pr) else 0
+        for a in 'LMP':
+            r=recall(g,pr,a)
+            if r is not None:
+                R[a][0]+= (1 if r>0 else 0); R[a][1]+=1
+    res[name]={'exact':[ex,n],'skipped':skipped,
+               'L':[round(100*R['L'][0]/R['L'][1],1) if R['L'][1] else None,R['L'][0],R['L'][1]],
+               'M':[round(100*R['M'][0]/R['M'][1],1) if R['M'][1] else None,R['M'][0],R['M'][1]],
+               'P':[round(100*R['P'][0]/R['P'][1],1) if R['P'][1] else None,R['P'][0],R['P'][1]]}
+
+print(json.dumps(res,ensure_ascii=False,indent=1))
+json.dump(res,open('result_099.json','w'),ensure_ascii=False,indent=1)

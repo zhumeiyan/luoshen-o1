@@ -1,1 +1,79 @@
-IiIi5aSN546w5omr56CB55m75b2V55qE5Y2P6K6u57uT5p6E77yaY2hhbGxlbmdlIOeUseacjeWKoeWZqOetvuWPke+8jOWPquiDveiiq+OAjuW3suaMgeacieWHreivgeeahOS4gOaWueOAj+aJueWHhuOAgiIiIgppbXBvcnQgaHR0cC5zZXJ2ZXIsIHNvY2tldHNlcnZlciwgdXJsbGliLnBhcnNlLCBoYXNobGliLCB0aHJlYWRpbmcsIGpzb24sIHRpbWUsIHNlY3JldHMKClBPUlQgPSA4NzMyClJJR0hUID0gKCJ6aHUtbWVpeWFuIiwgInN5bWJpb250LTIwMjYiKQpDSCA9IHt9ICAgICAgICAgICMgY2hhbGxlbmdlIC0+IHN0YXR1cwpMT0cgPSBbXQoKZGVmIHNlc3Nfb2YodSk6CiAgICByZXR1cm4gaGFzaGxpYi5zaGEyNTYodS5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjE2XQoKY2xhc3MgSChodHRwLnNlcnZlci5CYXNlSFRUUFJlcXVlc3RIYW5kbGVyKToKICAgIGRlZiBsb2dfbWVzc2FnZShzZWxmLCAqYSk6CiAgICAgICAgcGFzcwoKICAgIGRlZiBfc2VuZChzZWxmLCBjb2RlLCBib2R5LCBjb29raWU9Tm9uZSk6CiAgICAgICAgYiA9IGJvZHkuZW5jb2RlKCkKICAgICAgICBzZWxmLnNlbmRfcmVzcG9uc2UoY29kZSkKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCJDb250ZW50LVR5cGUiLCAidGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IikKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCJDb250ZW50LUxlbmd0aCIsIHN0cihsZW4oYikpKQogICAgICAgIGlmIGNvb2tpZToKICAgICAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiU2V0LUNvb2tpZSIsIGNvb2tpZSkKICAgICAgICBzZWxmLmVuZF9oZWFkZXJzKCkKICAgICAgICBzZWxmLndmaWxlLndyaXRlKGIpCgogICAgZGVmIGF1dGhlZChzZWxmKToKICAgICAgICBjID0gc2VsZi5oZWFkZXJzLmdldCgiQ29va2llIiwgIiIpCiAgICAgICAgZm9yIGt2IGluIGMuc3BsaXQoIjsiKToKICAgICAgICAgICAga3YgPSBrdi5zdHJpcCgpCiAgICAgICAgICAgIGlmIGt2LnN0YXJ0c3dpdGgoInNlc3Npb249Iik6CiAgICAgICAgICAgICAgICBpZiBrdltsZW4oInNlc3Npb249Iik6XSA9PSBzZXNzX29mKFJJR0hUWzBdKToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUklHSFRbMF0KICAgICAgICByZXR1cm4gTm9uZQoKICAgIGRlZiBkb19HRVQoc2VsZik6CiAgICAgICAgdSA9IHVybGxpYi5wYXJzZS51cmxwYXJzZShzZWxmLnBhdGgpCiAgICAgICAgcCA9IHUucGF0aAogICAgICAgIHEgPSB1cmxsaWIucGFyc2UucGFyc2VfcXModS5xdWVyeSkKCiAgICAgICAgaWYgcCA9PSAiL3BhaXIvbmV3IjoKICAgICAgICAgICAgIyDku7vkvZXkurrpg73lj6/nlLPor7fkuIDkuKogY2hhbGxlbmdlIOKAlOKAlCDov5nlsLHmmK/kuoznu7TnoIEKICAgICAgICAgICAgYyA9IHNlY3JldHMudG9rZW5faGV4KDQpLnVwcGVyKCkKICAgICAgICAgICAgQ0hbY10gPSAicGVuZGluZyIKICAgICAgICAgICAgTE9HLmFwcGVuZCgoIm5ldyIsIGMsICJieT0lcyIgJSAoc2VsZi5hdXRoZWQoKSBvciAiYW5vbnltb3VzIikpKQogICAgICAgICAgICBzZWxmLl9zZW5kKDIwMCwganNvbi5kdW1wcyh7ImNoYWxsZW5nZSI6IGMsICJzdGF0dXMiOiAicGVuZGluZyJ9KSkKCiAgICAgICAgZWxpZiBwID09ICIvcGFpci9hcHByb3ZlIjoKICAgICAgICAgICAgIyDmibnlh4blv4XpobvnlLHlt7LmjIHmnInlh63or4HnmoTkuIDmlrnlj5Hlh7og4oCU4oCUIOi/meWwseaYr+aJi+acuiBRUSDmiavnoIHpgqPkuIDmraUKICAgICAgICAgICAgYyA9IHEuZ2V0KCJjIiwgWyIiXSlbMF0KICAgICAgICAgICAgd2hvID0gc2VsZi5hdXRoZWQoKQogICAgICAgICAgICBpZiBub3Qgd2hvOgogICAgICAgICAgICAgICAgTE9HLmFwcGVuZCgoImFwcHJvdmUiLCBjLCAiUkVKRUNURUQgbm8tc2Vzc2lvbiIpKQogICAgICAgICAgICAgICAgc2VsZi5fc2VuZCg0MDMsIGpzb24uZHVtcHMoeyJvayI6IEZhbHNlLCAicmVhc29uIjogIk5PIFNFU1NJT04g4oCUIGFwcHJvdmVyIG11c3QgYWxyZWFkeSBob2xkIGNyZWRlbnRpYWwifSkpCiAgICAgICAgICAgIGVsaWYgYyBpbiBDSDoKICAgICAgICAgICAgICAgIENIW2NdID0gImdyYW50ZWQiCiAgICAgICAgICAgICAgICBMT0cuYXBwZW5kKCgiYXBwcm92ZSIsIGMsICJHUkFOVEVEIGJ5PSVzIiAlIHdobykpCiAgICAgICAgICAgICAgICBzZWxmLl9zZW5kKDIwMCwganNvbi5kdW1wcyh7Im9rIjogVHJ1ZSwgInN0YXR1cyI6ICJncmFudGVkIn0pKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc2VsZi5fc2VuZCg0MDQsIGpzb24uZHVtcHMoeyJvayI6IEZhbHNlLCAicmVhc29uIjogIm5vIHN1Y2ggY2hhbGxlbmdlIn0pKQoKICAgICAgICBlbGlmIHAgPT0gIi9wYWlyL3N0YXR1cyI6CiAgICAgICAgICAgIGMgPSBxLmdldCgiYyIsIFsiIl0pWzBdCiAgICAgICAgICAgIHNlbGYuX3NlbmQoMjAwLCBqc29uLmR1bXBzKHsiY2hhbGxlbmdlIjogYywgInN0YXR1cyI6IENILmdldChjLCAidW5rbm93biIpfSkpCgogICAgICAgIGVsaWYgcCA9PSAiL2xvZ2luIjoKICAgICAgICAgICAgIyDmi7/lh63or4HnmoTllK/kuIDlhaXlj6MKICAgICAgICAgICAgc2VsZi5fc2VuZCgyMDAsICJPSyIsIGNvb2tpZT0ic2Vzc2lvbj0iICsgc2Vzc19vZihSSUdIVFswXSkgKyAiOyBQYXRoPS8iKQoKICAgICAgICBlbGlmIHAgPT0gIi9sb2ciOgogICAgICAgICAgICBzZWxmLl9zZW5kKDIwMCwgIjxwcmU+IiArIGpzb24uZHVtcHMoTE9HLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSArICI8L3ByZT4iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuX3NlbmQoNDA0LCAibm9wZSIpCgpzb2NrZXRzZXJ2ZXIuVENQU2VydmVyLmFsbG93X3JldXNlX2FkZHJlc3MgPSBUcnVlCnNydiA9IHNvY2tldHNlcnZlci5UQ1BTZXJ2ZXIoKCIxMjcuMC4wLjEiLCBQT1JUKSwgSCkKdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9c3J2LnNlcnZlX2ZvcmV2ZXIsIGRhZW1vbj1UcnVlKS5zdGFydCgpCnByaW50KCJwYWlyIHNlcnZlciBvbiIsIFBPUlQsIGZsdXNoPVRydWUpCndoaWxlIFRydWU6CiAgICB0aW1lLnNsZWVwKDEpCg==
+"""复现扫码登录的协议结构：challenge 由服务器签发，只能被『已持有凭证的一方』批准。"""
+import http.server, socketserver, urllib.parse, hashlib, threading, json, time, secrets
+
+PORT = 8732
+RIGHT = ("zhu-meiyan", "symbiont-2026")
+CH = {}          # challenge -> status
+LOG = []
+
+def sess_of(u):
+    return hashlib.sha256(u.encode()).hexdigest()[:16]
+
+class H(http.server.BaseHTTPRequestHandler):
+    def log_message(self, *a):
+        pass
+
+    def _send(self, code, body, cookie=None):
+        b = body.encode()
+        self.send_response(code)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.send_header("Content-Length", str(len(b)))
+        if cookie:
+            self.send_header("Set-Cookie", cookie)
+        self.end_headers()
+        self.wfile.write(b)
+
+    def authed(self):
+        c = self.headers.get("Cookie", "")
+        for kv in c.split(";"):
+            kv = kv.strip()
+            if kv.startswith("session="):
+                if kv[len("session="):] == sess_of(RIGHT[0]):
+                    return RIGHT[0]
+        return None
+
+    def do_GET(self):
+        u = urllib.parse.urlparse(self.path)
+        p = u.path
+        q = urllib.parse.parse_qs(u.query)
+
+        if p == "/pair/new":
+            # 任何人都可申请一个 challenge —— 这就是二维码
+            c = secrets.token_hex(4).upper()
+            CH[c] = "pending"
+            LOG.append(("new", c, "by=%s" % (self.authed() or "anonymous")))
+            self._send(200, json.dumps({"challenge": c, "status": "pending"}))
+
+        elif p == "/pair/approve":
+            # 批准必须由已持有凭证的一方发出 —— 这就是手机 QQ 扫码那一步
+            c = q.get("c", [""])[0]
+            who = self.authed()
+            if not who:
+                LOG.append(("approve", c, "REJECTED no-session"))
+                self._send(403, json.dumps({"ok": False, "reason": "NO SESSION — approver must already hold credential"}))
+            elif c in CH:
+                CH[c] = "granted"
+                LOG.append(("approve", c, "GRANTED by=%s" % who))
+                self._send(200, json.dumps({"ok": True, "status": "granted"}))
+            else:
+                self._send(404, json.dumps({"ok": False, "reason": "no such challenge"}))
+
+        elif p == "/pair/status":
+            c = q.get("c", [""])[0]
+            self._send(200, json.dumps({"challenge": c, "status": CH.get(c, "unknown")}))
+
+        elif p == "/login":
+            # 拿凭证的唯一入口
+            self._send(200, "OK", cookie="session=" + sess_of(RIGHT[0]) + "; Path=/")
+
+        elif p == "/log":
+            self._send(200, "<pre>" + json.dumps(LOG, ensure_ascii=False, indent=1) + "</pre>")
+        else:
+            self._send(404, "nope")
+
+socketserver.TCPServer.allow_reuse_address = True
+srv = socketserver.TCPServer(("127.0.0.1", PORT), H)
+threading.Thread(target=srv.serve_forever, daemon=True).start()
+print("pair server on", PORT, flush=True)
+while True:
+    time.sleep(1)

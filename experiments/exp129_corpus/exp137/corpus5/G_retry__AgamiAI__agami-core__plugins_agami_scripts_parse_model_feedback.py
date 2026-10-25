@@ -1,1 +1,178 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJQYXJzZSB0aGUgYWdhbWktbW9kZWwgZGFzaGJvYXJkJ3MgYmFjay1jaGFubmVsIGZlZWRiYWNrIGJsb2NrIGludG8gYSBzaW5nbGUKY3VyYXRlLXJlYWR5IG9wcyBzZXQg4oCUIGRldGVybWluaXN0aWNhbGx5LgoKYWdhbWktbW9kZWwgdXNlZCB0byBwYXJzZSB0aGlzIG11bHRpLWZvcm1hdCBibG9jayBpbiBwcm9zZTogYSBgcHJvZmlsZTpgIGxpbmUsCmNvbW1hLWxpc3RzIChgZXhjbHVkZS9pbmNsdWRlIHRhYmxlczpgICsgYOKApiBjb2x1bW5zOmApLCBhbmQgdGhyZWUgSlNPTiBzdWItYmxvY2tzCihgY3VyYXRlLW9wczpgIGFycmF5LCBgbmV3LW1ldHJpY3M6YCBhcnJheSwgYGtleS10ZXJtaW5vbG9neTpgIG9iamVjdCkuIFRoaXMKc2NyaXB0IGRvZXMgdGhlIHBhcnNlICsgdGhlIGV4Y2x1ZGUvaW5jbHVkZSDihpIgY3VyYXRlLW9wIHRyYW5zbGF0aW9uLCBzbyB0aGUgc2tpbGwKanVzdCByZWFkcyBzdHJ1Y3R1cmVkIG91dHB1dCBhbmQgYXBwbGllcyBpdCB2aWEgYHNtIGN1cmF0ZWAgLyBgc20gYWRkYCAvCmBzbSBzZXQtdGVybWlub2xvZ3lgLgoKSW5wdXQgKHN0ZGluIG9yIC0tYmxvY2stZmlsZSk6CgogICAgcHJvZmlsZTogPG5hbWU+CiAgICBleGNsdWRlIHRhYmxlczogIDxhcmVhPi48dGFibGU+LCA8YXJlYT4uPHRhYmxlPgogICAgaW5jbHVkZSB0YWJsZXM6ICA8YXJlYT4uPHRhYmxlPgogICAgZXhjbHVkZSBjb2x1bW5zOiA8YXJlYT4uPHRhYmxlPi48Y29sdW1uPiwgLi4uCiAgICBjdXJhdGUtb3BzOiBbIHsib3AiOiJhcHByb3ZlIiwia2luZCI6Im1ldHJpYyIsImFyZWEiOiIuLi4iLCJuYW1lIjoiLi4uIiwiYXQiOiIuLi4ifSwgLi4uIF0KICAgIG5ldy1tZXRyaWNzOiBbIHsiYXJlYSI6Ii4uLiIsIm5hbWUiOiIuLi4iLCJjYWxjdWxhdGlvbiI6Ii4uLiIsIC4uLn0sIC4uLiBdCiAgICBrZXktdGVybWlub2xvZ3k6IHsiZ29sZCB0aWVyIjogImxpZmV0aW1lIHNwZW5kID4gJDEwayIsIC4uLn0KICAgIHNpZ25lZC1vZmYtYnk6IGphbmVAeC5jb20gKGNmbykKICAgIGRvbmUKCkpTT04tdmFsdWVkIGtleXMgbWF5IHNwYW4gbXVsdGlwbGUgbGluZXMgKHZhbHVlID0gZXZlcnl0aGluZyB1cCB0byB0aGUgbmV4dCBrZXkKb3IgYGRvbmVgKS4gT3V0cHV0ICh0aGUgc3RhbmRhcmQgY29udHJhY3QpOgoKICAgIHsib2siOiB0cnVlLAogICAgICJkYXRhIjogewogICAgICAgInByb2ZpbGUiOiAiPG5hbWU+InxudWxsLAogICAgICAgIm9wcyI6IFsgLi4uY3VyYXRlIG9wczogZXhjbHVkZS9pbmNsdWRlIHRyYW5zbGF0ZWQgKyBjdXJhdGUtb3BzIG1lcmdlZCB2ZXJiYXRpbS4uLiBdLAogICAgICAgIm5ld19tZXRyaWNzX2J5X2FyZWEiOiB7IjxhcmVhPiI6IFsgLi4ubWV0cmljIGRpY3RzLi4uIF19LAogICAgICAgImtleV90ZXJtaW5vbG9neSI6IHsuLn18bnVsbCwKICAgICAgICJzaWduZXIiOiAiamFuZUB4LmNvbSJ8bnVsbCwgInJvbGUiOiAiY2ZvInxudWxsCiAgICAgfSwKICAgICAiYW5vbWFsaWVzIjogWy4uLl0sICJuZWVkc19qdWRnbWVudCI6IHsuLi59fG51bGx9CgpBIG1hbGZvcm1lZCB0YXJnZXQgKGEgdGFibGUgd2l0aG91dCBpdHMgYDxhcmVhPi5gIHByZWZpeCwgdW5wYXJzZWFibGUgSlNPTikgaXMgYQpgbmVlZHNfanVkZ21lbnRgIOKAlCB0aGUgc2tpbGwgYXNrcyB0aGUgdXNlciB0byBmaXggaXQgcmF0aGVyIHRoYW4gZ3Vlc3NpbmcuCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmltcG9ydCByZQppbXBvcnQgc3lzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKX0xJU1RfS0VZUyA9IHsiZXhjbHVkZSB0YWJsZXMiLCAiaW5jbHVkZSB0YWJsZXMiLCAiZXhjbHVkZSBjb2x1bW5zIiwgImluY2x1ZGUgY29sdW1ucyJ9Cl9KU09OX0tFWVMgPSB7ImN1cmF0ZS1vcHMiLCAibmV3LW1ldHJpY3MiLCAia2V5LXRlcm1pbm9sb2d5IiwgImV4YW1wbGUtZWRpdHMiLCAibmV3LWV4YW1wbGVzIn0KX0tFWVMgPSBfTElTVF9LRVlTIHwgX0pTT05fS0VZUyB8IHsicHJvZmlsZSIsICJzaWduZWQtb2ZmLWJ5IiwgImRhdGFzb3VyY2UtbWQifQpfVEFCTEVfUU5BTUUgPSByZS5jb21waWxlKHIiXltBLVphLXowLTlfXStcLltBLVphLXowLTlfXSskIikKX0NPTFVNTl9RTkFNRSA9IHJlLmNvbXBpbGUociJeW0EtWmEtejAtOV9dK1wuW0EtWmEtejAtOV9dK1wuW0EtWmEtejAtOV9dKyQiKQoKCmRlZiBfa2V5X29mKGxpbmU6IHN0cik6CiAgICBsb3cgPSBsaW5lLnN0cmlwKCkubG93ZXIoKQogICAgZm9yIGsgaW4gX0tFWVM6CiAgICAgICAgaWYgbG93LnN0YXJ0c3dpdGgoayArICI6Iikgb3IgbG93ID09IGsgKyAiOiI6CiAgICAgICAgICAgIHJldHVybiBrCiAgICByZXR1cm4gTm9uZQoKCmRlZiBfc2VjdGlvbnModGV4dDogc3RyKSAtPiBkaWN0OgogICAgIiIiU3BsaXQgdGhlIGJsb2NrIGludG8ge2tleTogcmF3IHZhbHVlIHRleHR9LCB2YWx1ZSBzcGFubmluZyB1bnRpbCB0aGUgbmV4dCBrZXkvZG9uZS4iIiIKICAgIG91dDogZGljdCA9IHt9CiAgICBjdXJfa2V5ID0gTm9uZQogICAgY3VyX3ZhbDogbGlzdFtzdHJdID0gW10KICAgIGZvciByYXcgaW4gdGV4dC5zcGxpdGxpbmVzKCk6CiAgICAgICAgaWYgcmF3LnN0cmlwKCkubG93ZXIoKSA9PSAiZG9uZSI6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgayA9IF9rZXlfb2YocmF3KQogICAgICAgIGlmIGs6CiAgICAgICAgICAgIGlmIGN1cl9rZXk6CiAgICAgICAgICAgICAgICBvdXRbY3VyX2tleV0gPSAiXG4iLmpvaW4oY3VyX3ZhbCkuc3RyaXAoKQogICAgICAgICAgICBjdXJfa2V5ID0gawogICAgICAgICAgICBjdXJfdmFsID0gW3Jhdy5zcGxpdCgiOiIsIDEpWzFdXQogICAgICAgIGVsaWYgY3VyX2tleToKICAgICAgICAgICAgY3VyX3ZhbC5hcHBlbmQocmF3KQogICAgICAgICMgbGluZXMgYmVmb3JlIHRoZSBmaXJzdCBrZXkgKGhlYWRlcnMpIGFyZSBpZ25vcmVkCiAgICBpZiBjdXJfa2V5OgogICAgICAgIG91dFtjdXJfa2V5XSA9ICJcbiIuam9pbihjdXJfdmFsKS5zdHJpcCgpCiAgICByZXR1cm4gb3V0CgoKZGVmIHBhcnNlKHRleHQ6IHN0cikgLT4gdHVwbGVbZGljdCwgbGlzdCwgZGljdCB8IE5vbmVdOgogICAgc2VjID0gX3NlY3Rpb25zKHRleHQpCiAgICBhbm9tYWxpZXM6IGxpc3QgPSBbXQogICAgbmVlZHM6IGRpY3QgfCBOb25lID0gTm9uZQogICAgb3BzOiBsaXN0ID0gW10KICAgIGRhdGE6IGRpY3QgPSB7InByb2ZpbGUiOiBOb25lLCAib3BzIjogb3BzLCAibmV3X21ldHJpY3NfYnlfYXJlYSI6IHt9LAogICAgICAgICAgICAgICAgICAiZXhhbXBsZXNfYnlfYXJlYSI6IHt9LCAia2V5X3Rlcm1pbm9sb2d5IjogTm9uZSwgImRhdGFzb3VyY2VfbWQiOiBOb25lLAogICAgICAgICAgICAgICAgICAic2lnbmVyIjogTm9uZSwgInJvbGUiOiBOb25lfQoKICAgIGlmICJwcm9maWxlIiBpbiBzZWM6CiAgICAgICAgZGF0YVsicHJvZmlsZSJdID0gc2VjWyJwcm9maWxlIl0uc3RyaXAoKSBvciBOb25lCiAgICBpZiAic2lnbmVkLW9mZi1ieSIgaW4gc2VjOgogICAgICAgIHNiID0gc2VjWyJzaWduZWQtb2ZmLWJ5Il0uc3RyaXAoKQogICAgICAgIGlmICIvIiBpbiBzYjogICMgYGVtYWlsIC8gcm9sZWAKICAgICAgICAgICAgZW1haWwsIHJvbGUgPSBzYi5zcGxpdCgiLyIsIDEpCiAgICAgICAgICAgIGRhdGFbInNpZ25lciJdLCBkYXRhWyJyb2xlIl0gPSBlbWFpbC5zdHJpcCgpLCByb2xlLnN0cmlwKCkgb3IgTm9uZQogICAgICAgIGVsaWYgIigiIGluIHNiOiAgIyBgZW1haWwgKHJvbGUpYAogICAgICAgICAgICBlbWFpbCwgcmVzdCA9IHNiLnNwbGl0KCIoIiwgMSkKICAgICAgICAgICAgZGF0YVsic2lnbmVyIl0sIGRhdGFbInJvbGUiXSA9IGVtYWlsLnN0cmlwKCksIHJlc3QucnN0cmlwKCIpIikuc3RyaXAoKSBvciBOb25lCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZGF0YVsic2lnbmVyIl0gPSBzYiBvciBOb25lCgogICAgZGVmIF9xbmFtZXModmFsOiBzdHIpIC0+IGxpc3Rbc3RyXToKICAgICAgICByZXR1cm4gW3Quc3RyaXAoKSBmb3IgdCBpbiB2YWwucmVwbGFjZSgiXG4iLCAiLCIpLnNwbGl0KCIsIikgaWYgdC5zdHJpcCgpXQoKICAgIGJhZF90YXJnZXRzOiBsaXN0W3N0cl0gPSBbXQogICAgZm9yIGtleSwgb3AsIGlzX2NvbCBpbiAoKCJleGNsdWRlIHRhYmxlcyIsICJleGNsdWRlIiwgRmFsc2UpLCAoImluY2x1ZGUgdGFibGVzIiwgImluY2x1ZGUiLCBGYWxzZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAoImV4Y2x1ZGUgY29sdW1ucyIsICJleGNsdWRlIiwgVHJ1ZSksICgiaW5jbHVkZSBjb2x1bW5zIiwgImluY2x1ZGUiLCBUcnVlKSk6CiAgICAgICAgaWYga2V5IG5vdCBpbiBzZWM6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZm9yIHEgaW4gX3FuYW1lcyhzZWNba2V5XSk6CiAgICAgICAgICAgIHJ4ID0gX0NPTFVNTl9RTkFNRSBpZiBpc19jb2wgZWxzZSBfVEFCTEVfUU5BTUUKICAgICAgICAgICAgaWYgbm90IHJ4Lm1hdGNoKHEpOgogICAgICAgICAgICAgICAgYmFkX3RhcmdldHMuYXBwZW5kKHEpCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBwYXJ0cyA9IHEuc3BsaXQoIi4iKQogICAgICAgICAgICBlbnRyeSA9IHsib3AiOiBvcCwgImtpbmQiOiAidGFibGUiLCAiYXJlYSI6IHBhcnRzWzBdLCAibmFtZSI6IHBhcnRzWzFdfQogICAgICAgICAgICBpZiBpc19jb2w6CiAgICAgICAgICAgICAgICBlbnRyeVsiY29sdW1uIl0gPSBwYXJ0c1syXQogICAgICAgICAgICBvcHMuYXBwZW5kKGVudHJ5KQoKICAgIGZvciBqayBpbiAoImN1cmF0ZS1vcHMiLCAibmV3LW1ldHJpY3MiLCAia2V5LXRlcm1pbm9sb2d5IiwgImV4YW1wbGUtZWRpdHMiLCAibmV3LWV4YW1wbGVzIiwgImRhdGFzb3VyY2UtbWQiKToKICAgICAgICBpZiBqayBub3QgaW4gc2VjOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHRyeToKICAgICAgICAgICAgcGFyc2VkID0ganNvbi5sb2FkcyhzZWNbamtdKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgYW5vbWFsaWVzLmFwcGVuZCh7ImtpbmQiOiAiYmFkX2pzb24iLCAid2hlcmUiOiBqaywgImRldGFpbCI6IHN0cihlKX0pCiAgICAgICAgICAgIG5lZWRzID0geyJraW5kIjogInVucGFyc2VhYmxlX2pzb24iLCAic2VjdGlvbiI6IGprLAogICAgICAgICAgICAgICAgICAgICAiYXNrIjogZiJ0aGUgYHtqa306YCBibG9jayBpc24ndCB2YWxpZCBKU09OIOKAlCByZS1jb3B5IGl0IGZyb20gdGhlIGRhc2hib2FyZCJ9CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgamsgPT0gImN1cmF0ZS1vcHMiOgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKHBhcnNlZCwgbGlzdCk6CiAgICAgICAgICAgICAgICBvcHMuZXh0ZW5kKHBhcnNlZCkgICMgbWVyZ2UgdmVyYmF0aW0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGFub21hbGllcy5hcHBlbmQoeyJraW5kIjogImN1cmF0ZV9vcHNfbm90X2xpc3QiLCAiZGV0YWlsIjogImV4cGVjdGVkIGEgSlNPTiBhcnJheSJ9KQogICAgICAgIGVsaWYgamsgPT0gIm5ldy1tZXRyaWNzIjoKICAgICAgICAgICAgZm9yIG0gaW4gKHBhcnNlZCBvciBbXSk6CiAgICAgICAgICAgICAgICBhcmVhID0gbS5nZXQoImFyZWEiKQogICAgICAgICAgICAgICAgaWYgbm90IGFyZWE6CiAgICAgICAgICAgICAgICAgICAgYW5vbWFsaWVzLmFwcGVuZCh7ImtpbmQiOiAibWV0cmljX21pc3NpbmdfYXJlYSIsICJkZXRhaWwiOiBzdHIobS5nZXQoIm5hbWUiKSl9KQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBkYXRhWyJuZXdfbWV0cmljc19ieV9hcmVhIl0uc2V0ZGVmYXVsdChhcmVhLCBbXSkuYXBwZW5kKG0pCiAgICAgICAgZWxpZiBqayBpbiAoImV4YW1wbGUtZWRpdHMiLCAibmV3LWV4YW1wbGVzIik6ICAjIGJvdGggYXBwbHkgdmlhIHNtIGFkZC1leGFtcGxlCiAgICAgICAgICAgIGZvciBleCBpbiAocGFyc2VkIG9yIFtdKToKICAgICAgICAgICAgICAgIGFyZWEgPSBleC5nZXQoImFyZWEiKQogICAgICAgICAgICAgICAgaWYgbm90IGFyZWE6CiAgICAgICAgICAgICAgICAgICAgYW5vbWFsaWVzLmFwcGVuZCh7ImtpbmQiOiAiZXhhbXBsZV9taXNzaW5nX2FyZWEiLCAiZGV0YWlsIjogc3RyKGV4LmdldCgicXVlc3Rpb24iKSl9KQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBkYXRhWyJleGFtcGxlc19ieV9hcmVhIl0uc2V0ZGVmYXVsdChhcmVhLCBbXSkuYXBwZW5kKGV4KQogICAgICAgIGVsaWYgamsgPT0gImtleS10ZXJtaW5vbG9neSI6CiAgICAgICAgICAgIGRhdGFbImtleV90ZXJtaW5vbG9neSJdID0gcGFyc2VkCiAgICAgICAgZWxpZiBqayA9PSAiZGF0YXNvdXJjZS1tZCI6CiAgICAgICAgICAgIGRhdGFbImRhdGFzb3VyY2VfbWQiXSA9IHBhcnNlZCAgIyBKU09OLWVuY29kZWQgc3RyaW5nIOKGkiB0aGUgZnVsbCBkYXRhc291cmNlLm1kIHRleHQKCiAgICBpZiBiYWRfdGFyZ2V0czoKICAgICAgICBuZWVkcyA9IHsia2luZCI6ICJtYWxmb3JtZWRfdGFyZ2V0cyIsICJ0YXJnZXRzIjogYmFkX3RhcmdldHMsCiAgICAgICAgICAgICAgICAgImFzayI6ICJ0aGVzZSBuZWVkIGFuIDxhcmVhPi4gcHJlZml4IChlLmcuIGBzYWxlcy5TVEdfTEVBRFNgLCBub3QgYFNUR19MRUFEU2ApIOKAlCBjb25maXJtIGFuZCByZS1zZW5kIn0KICAgIHJldHVybiBkYXRhLCBhbm9tYWxpZXMsIG5lZWRzCgoKZGVmIG1haW4oYXJndj1Ob25lKSAtPiBpbnQ6CiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSJQYXJzZSB0aGUgYWdhbWktbW9kZWwgYmFjay1jaGFubmVsIGZlZWRiYWNrIGJsb2NrLiIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tYmxvY2stZmlsZSIsIGhlbHA9InBhdGggdG8gdGhlIHBhc3RlZCBibG9jayAoZWxzZSBzdGRpbikiKQogICAgYXJncyA9IGFwLnBhcnNlX2FyZ3MoYXJndikKICAgIHRleHQgPSBQYXRoKGFyZ3MuYmxvY2tfZmlsZSkucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpIGlmIGFyZ3MuYmxvY2tfZmlsZSBlbHNlIHN5cy5zdGRpbi5yZWFkKCkKICAgIGRhdGEsIGFub21hbGllcywgbmVlZHMgPSBwYXJzZSh0ZXh0KQogICAgcHJpbnQoanNvbi5kdW1wcyh7Im9rIjogVHJ1ZSwgImRhdGEiOiBkYXRhLCAiYW5vbWFsaWVzIjogYW5vbWFsaWVzLCAibmVlZHNfanVkZ21lbnQiOiBuZWVkc30sIGluZGVudD0yKSkKICAgIHJldHVybiAwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJhaXNlIFN5c3RlbUV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""Parse the agami-model dashboard's back-channel feedback block into a single
+curate-ready ops set — deterministically.
+
+agami-model used to parse this multi-format block in prose: a `profile:` line,
+comma-lists (`exclude/include tables:` + `… columns:`), and three JSON sub-blocks
+(`curate-ops:` array, `new-metrics:` array, `key-terminology:` object). This
+script does the parse + the exclude/include → curate-op translation, so the skill
+just reads structured output and applies it via `sm curate` / `sm add` /
+`sm set-terminology`.
+
+Input (stdin or --block-file):
+
+    profile: <name>
+    exclude tables:  <area>.<table>, <area>.<table>
+    include tables:  <area>.<table>
+    exclude columns: <area>.<table>.<column>, ...
+    curate-ops: [ {"op":"approve","kind":"metric","area":"...","name":"...","at":"..."}, ... ]
+    new-metrics: [ {"area":"...","name":"...","calculation":"...", ...}, ... ]
+    key-terminology: {"gold tier": "lifetime spend > $10k", ...}
+    signed-off-by: jane@x.com (cfo)
+    done
+
+JSON-valued keys may span multiple lines (value = everything up to the next key
+or `done`). Output (the standard contract):
+
+    {"ok": true,
+     "data": {
+       "profile": "<name>"|null,
+       "ops": [ ...curate ops: exclude/include translated + curate-ops merged verbatim... ],
+       "new_metrics_by_area": {"<area>": [ ...metric dicts... ]},
+       "key_terminology": {..}|null,
+       "signer": "jane@x.com"|null, "role": "cfo"|null
+     },
+     "anomalies": [...], "needs_judgment": {...}|null}
+
+A malformed target (a table without its `<area>.` prefix, unparseable JSON) is a
+`needs_judgment` — the skill asks the user to fix it rather than guessing.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import sys
+from pathlib import Path
+
+_LIST_KEYS = {"exclude tables", "include tables", "exclude columns", "include columns"}
+_JSON_KEYS = {"curate-ops", "new-metrics", "key-terminology", "example-edits", "new-examples"}
+_KEYS = _LIST_KEYS | _JSON_KEYS | {"profile", "signed-off-by", "datasource-md"}
+_TABLE_QNAME = re.compile(r"^[A-Za-z0-9_]+\.[A-Za-z0-9_]+$")
+_COLUMN_QNAME = re.compile(r"^[A-Za-z0-9_]+\.[A-Za-z0-9_]+\.[A-Za-z0-9_]+$")
+
+
+def _key_of(line: str):
+    low = line.strip().lower()
+    for k in _KEYS:
+        if low.startswith(k + ":") or low == k + ":":
+            return k
+    return None
+
+
+def _sections(text: str) -> dict:
+    """Split the block into {key: raw value text}, value spanning until the next key/done."""
+    out: dict = {}
+    cur_key = None
+    cur_val: list[str] = []
+    for raw in text.splitlines():
+        if raw.strip().lower() == "done":
+            break
+        k = _key_of(raw)
+        if k:
+            if cur_key:
+                out[cur_key] = "\n".join(cur_val).strip()
+            cur_key = k
+            cur_val = [raw.split(":", 1)[1]]
+        elif cur_key:
+            cur_val.append(raw)
+        # lines before the first key (headers) are ignored
+    if cur_key:
+        out[cur_key] = "\n".join(cur_val).strip()
+    return out
+
+
+def parse(text: str) -> tuple[dict, list, dict | None]:
+    sec = _sections(text)
+    anomalies: list = []
+    needs: dict | None = None
+    ops: list = []
+    data: dict = {"profile": None, "ops": ops, "new_metrics_by_area": {},
+                  "examples_by_area": {}, "key_terminology": None, "datasource_md": None,
+                  "signer": None, "role": None}
+
+    if "profile" in sec:
+        data["profile"] = sec["profile"].strip() or None
+    if "signed-off-by" in sec:
+        sb = sec["signed-off-by"].strip()
+        if "/" in sb:  # `email / role`
+            email, role = sb.split("/", 1)
+            data["signer"], data["role"] = email.strip(), role.strip() or None
+        elif "(" in sb:  # `email (role)`
+            email, rest = sb.split("(", 1)
+            data["signer"], data["role"] = email.strip(), rest.rstrip(")").strip() or None
+        else:
+            data["signer"] = sb or None
+
+    def _qnames(val: str) -> list[str]:
+        return [t.strip() for t in val.replace("\n", ",").split(",") if t.strip()]
+
+    bad_targets: list[str] = []
+    for key, op, is_col in (("exclude tables", "exclude", False), ("include tables", "include", False),
+                            ("exclude columns", "exclude", True), ("include columns", "include", True)):
+        if key not in sec:
+            continue
+        for q in _qnames(sec[key]):
+            rx = _COLUMN_QNAME if is_col else _TABLE_QNAME
+            if not rx.match(q):
+                bad_targets.append(q)
+                continue
+            parts = q.split(".")
+            entry = {"op": op, "kind": "table", "area": parts[0], "name": parts[1]}
+            if is_col:
+                entry["column"] = parts[2]
+            ops.append(entry)
+
+    for jk in ("curate-ops", "new-metrics", "key-terminology", "example-edits", "new-examples", "datasource-md"):
+        if jk not in sec:
+            continue
+        try:
+            parsed = json.loads(sec[jk])
+        except Exception as e:
+            anomalies.append({"kind": "bad_json", "where": jk, "detail": str(e)})
+            needs = {"kind": "unparseable_json", "section": jk,
+                     "ask": f"the `{jk}:` block isn't valid JSON — re-copy it from the dashboard"}
+            continue
+        if jk == "curate-ops":
+            if isinstance(parsed, list):
+                ops.extend(parsed)  # merge verbatim
+            else:
+                anomalies.append({"kind": "curate_ops_not_list", "detail": "expected a JSON array"})
+        elif jk == "new-metrics":
+            for m in (parsed or []):
+                area = m.get("area")
+                if not area:
+                    anomalies.append({"kind": "metric_missing_area", "detail": str(m.get("name"))})
+                    continue
+                data["new_metrics_by_area"].setdefault(area, []).append(m)
+        elif jk in ("example-edits", "new-examples"):  # both apply via sm add-example
+            for ex in (parsed or []):
+                area = ex.get("area")
+                if not area:
+                    anomalies.append({"kind": "example_missing_area", "detail": str(ex.get("question"))})
+                    continue
+                data["examples_by_area"].setdefault(area, []).append(ex)
+        elif jk == "key-terminology":
+            data["key_terminology"] = parsed
+        elif jk == "datasource-md":
+            data["datasource_md"] = parsed  # JSON-encoded string → the full datasource.md text
+
+    if bad_targets:
+        needs = {"kind": "malformed_targets", "targets": bad_targets,
+                 "ask": "these need an <area>. prefix (e.g. `sales.STG_LEADS`, not `STG_LEADS`) — confirm and re-send"}
+    return data, anomalies, needs
+
+
+def main(argv=None) -> int:
+    ap = argparse.ArgumentParser(description="Parse the agami-model back-channel feedback block.")
+    ap.add_argument("--block-file", help="path to the pasted block (else stdin)")
+    args = ap.parse_args(argv)
+    text = Path(args.block_file).read_text(encoding="utf-8") if args.block_file else sys.stdin.read()
+    data, anomalies, needs = parse(text)
+    print(json.dumps({"ok": True, "data": data, "anomalies": anomalies, "needs_judgment": needs}, indent=2))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

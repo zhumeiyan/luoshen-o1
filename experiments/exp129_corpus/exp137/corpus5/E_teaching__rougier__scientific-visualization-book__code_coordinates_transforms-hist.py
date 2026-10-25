@@ -1,1 +1,172 @@
-IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgVGl0bGU6ICAgU2NpZW50aWZpYyBWaXN1YWxpc2F0aW9uIC0gUHl0aG9uICYgTWF0cGxvdGxpYgojIEF1dGhvcjogIE5pY29sYXMgUC4gUm91Z2llcgojIExpY2Vuc2U6IEJTRAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDb21tZW50OiBOaWNvbGFzIFAuIFJvdWdpZXIgJiBKZWh5dW4gTGVlCiMga3IgJiBlbjogaHR0cHM6Ly9qZWh5dW5sZWUuZ2l0aHViLmlvLzIwMjEvMTIvMDIvUHl0aG9uLURTLTkyLXJvdWdpZXIwMS8KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgSWxsdXN0cmF0ZSByb3RhdGVkICYgdHJhbnNsYXRlZCBheGlzICh1c2luZyBheGlzYXJ0aXN0cyB0b29sa2l0KQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliLnBhdGNoZXMgaW1wb3J0IFBvbHlnb24KZnJvbSBtYXRwbG90bGliLnRyYW5zZm9ybXMgaW1wb3J0IEFmZmluZTJECmltcG9ydCBtcGxfdG9vbGtpdHMuYXhpc2FydGlzdC5mbG9hdGluZ19heGVzIGFzIGZsb2F0aW5nX2F4ZXMKCgojIFJlcHJvZHVjaWJpbGl0eSBzZWVkCm5wLnJhbmRvbS5zZWVkKDEyMykKCiMgR2VuZXJhdGUgc29tZSBkYXRhClowID0gbnAucmFuZG9tLm5vcm1hbCgwLCAoMS4yNSwgMC43NSksICgxNTAsIDIpKSAgIyBaMDogMkQgcmFuZG9tIHBvaW50cyBhcnJheQpaMSA9IEFmZmluZTJEKCkucm90YXRlX2RlZygzNSkudHJhbnNmb3JtKFowKSAgICAgICMgWjE6IHJvdGF0ZWQgWjAKWm0gPSBaMS5tZWFuKGF4aXM9MCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIG1lYW4gb2YgWjEuIFptID0gbnAuYXJyYXkoWyAwLjEzNzQ2ODkyLCAtMC4wMjc5MzMyOV0pCgoKIyBQcmluY2lwYWwgY29tcG9uZW50cyBhbmFseXNpcwojIE5vdGUgdGhhdCBmb3Igc29tZSBzZWVkcywgdGhlIFBDMSBhbmQgUEMyIG5lZWRzIHRvIGJlIGludmVydGVkCiMgSXQgY291bGQgYmUgZml4ZWQgYnkgbG9va2luZyBhdCB0aGUgb3JpZW50YXRpb24gYnV0IEknbSBsYXp5ClcsIFYgPSBucC5saW5hbGcuZWlnKG5wLmNvdihaMS5UKSkgICAgICAgICAgICAgICAgICMgVzogZWlnZW52YWx1ZXMsIFY6IGVpZ2VudmVjdG9ycwpQQzEsIFBDMiA9IFYuVFtucC5mbGlwKG5wLmFyZ3NvcnQoYWJzKFcpKSldICAgICAgICAjIFBDcyBhcmUgY29sdW1ucyBvZiBWLCBhbmQgdGhlIDFzdCBvbmUgaGFzIHRoZSBoaWdoZXN0IGVpZ2VudmFsdWUKaWYgUEMyWzFdIDwgMDogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyB0byBtYWtlIFBDMiAidXB3YXJkcyIKICAgIFBDMiA9IC1QQzIKcm90YXRpb24gPSAxODAgKiBucC5hcmN0YW4yKCpucC5mbGlwKFBDMSkpIC8gbnAucGkgIyB0aGUgMXN0IGFyZ3VtZW50IG9mIGFyY3RhbjIgaXMgdGhlIHkgdmFsdWUKVCA9IG5wLmFycmF5KFtQQzFbMF0sIFBDMVsxXV0pICAgICAgICAgICAgICAgICAgICAgIyB0YW5nZW50IHZlY3RvciBvZiBQQzEgKGEgZGVlcCBjb3B5IG9mIFBDMSkKTyA9IG5wLmFycmF5KFtQQzJbMF0sIFBDMlsxXV0pICAgICAgICAgICAgICAgICAgICAgIyBvcnRob2dvbmFsIHZlY3RvciBvZiBQQzEgKGEgZGVlcCBjb3B5IG9mIFBDMikKCgojIERyYXcKZmlnID0gcGx0LmZpZ3VyZShmaWdzaXplPSg1LCA1KSkKYXgxID0gZmlnLmFkZF9heGVzKFswLjA1LCAwLjA1LCAwLjksIDAuOV0sIGFzcGVjdD0xKQoKIyBNYWluIHNjYXR0ZXIgcGxvdApheDEuc2NhdHRlcihaMVs6LCAwXSwgWjFbOiwgMV0sIHM9NTAsIGZjPSJDMCIsIGVjPSJ3aGl0ZSIsIGx3PTAuNzUpCmF4MS5zZXRfeGxpbShbLTMsIDddKQpheDEuc2V0X3h0aWNrcyhbLTMsIDddKQpheDEuc2V0X3h0aWNrbGFiZWxzKFtdKQpheDEuc2V0X3lsaW0oWy0zLCA3XSkKYXgxLnNldF95dGlja3MoWy0zLCA3XSkKYXgxLnNldF95dGlja2xhYmVscyhbXSkKYXgxLnNwaW5lc1sidG9wIl0uc2V0X3Zpc2libGUoRmFsc2UpCmF4MS5zcGluZXNbInJpZ2h0Il0uc2V0X3Zpc2libGUoRmFsc2UpCgoKIyBEcmF3IG1haW4gUENBIGF4aXMKUDAgPSBucC52c3RhY2soW1ptIC0gVCAqIDEwLCBabSArIFQgKiAxMF0pICAgICAgICAgIyBQMCA6IGVuZHBvaW50cyBvZiBhIGxvbmcgbGluZSBhbG9uZyBQQzEKYXgxLnBsb3QoUDBbOiwgMF0sIFAwWzosIDFdLCBjb2xvcj0iYmxhY2siLCBsaW5lc3R5bGU9Ii0tIiwgbGluZXdpZHRoPTAuNzUsIHpvcmRlcj0xMCkKCiMgQ29tcHV0ZSB0aGUgd2lkdGggb2YgdGhlIGRpc3RyaWJ1dGlvbiBhbG9uZyBvcnRob2dvbmFsIGRpcmVjdGlvbiB0byB0aGUgUENBCiMgbWFpbiBheGlzLiBUaGlzIGlzIG1hZGUgYnkgcm90YXRpbmcgcG9pbnRzIGFuZCB0YWtpbmcgbWF4IG9uIHRoZSBZIGF4aXMuCnRyYW5zZm9ybSA9IEFmZmluZTJEKCkucm90YXRlX2RlZygtcm90YXRpb24pClAxID0gdHJhbnNmb3JtLnRyYW5zZm9ybShaMSAtIFoxLm1lYW4oYXhpcz0wKSkgICAgICMgUDEgOiByb3RhdGVkIFoxLCBhbG9uZyB4LWF4aXMKZCA9IG5wLmFicyhQMVs6LCAxXSkubWF4KCkgICAgICAgICAgICAgICAgICAgICAgICAgIyBkICA6IG1heC4gZGlzdGFuY2UgYmV0d2VlbiBQMCBhbmQgWjEKCiMgRHJhdyBhIHJlY3RhbmdsZSBzdXJyb3VuZGluZyB0aGUgZGlzdHJpYnV0aW9uICYgb3JpZW50ZWQgYWxvbmcgUENBIG1haW4gYXhpcwpQMiA9IG5wLnZzdGFjayggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIFAyIDogcmVjdGFuZ2xlIHN1cnJvdW5kaW5nIFoxCiAgICBbCiAgICAgICAgWm0gLSAxMCAqIFQgLSBkICogTywKICAgICAgICBabSArICg2IC0gZCkgKiBUIC0gZCAqIE8sCiAgICAgICAgWm0gKyAoNiAtIGQpICogVCArIGQgKiBPLAogICAgICAgIFptIC0gMTAgKiBUICsgZCAqIE8sCiAgICBdCikKYXgxLmFkZF9wYXRjaCgKICAgIFBvbHlnb24oCiAgICAgICAgUDIsCiAgICAgICAgY2xvc2VkPVRydWUsCiAgICAgICAgZmlsbD1UcnVlLAogICAgICAgIGVkZ2Vjb2xvcj0iTm9uZSIsCiAgICAgICAgZmFjZWNvbG9yPSJDMCIsCiAgICAgICAgYWxwaGE9MC4xLAogICAgICAgIHpvcmRlcj0tNTAsCiAgICApCikKCiMgUDMsIFA0IDogZWRnZXMgb2YgUDIgcGFyYWxsZWwgdG8gUEMxClAzID0gbnAudnN0YWNrKFtabSAtIDEwICogVCwgWm0gKyAoNiAtIGQpICogVF0pIC0gZCAqIE8gIApwbHQucGxvdChQM1s6LCAwXSwgUDNbOiwgMV0sIGNvbG9yPSJDMCIsIGxpbmVzdHlsZT0iLSIsIGxpbmV3aWR0aD0wLjc1LCBhbHBoYT0wLjI1KQpQNCA9IG5wLnZzdGFjayhbWm0gLSAxMCAqIFQsIFptICsgKDYgLSBkKSAqIFRdKSArIGQgKiBPCnBsdC5wbG90KFA0WzosIDBdLCBQNFs6LCAxXSwgY29sb3I9IkMwIiwgbGluZXN0eWxlPSItIiwgbGluZXdpZHRoPTAuNzUsIGFscGhhPTAuMjUpCgojIFNvbWUgbWFya2VycyBvbiB0aGUgYXhpcyB0byBzaG93IHRoZSBtZWFuICh3ZSBjb3VsZCBjb21wdXRlIGV4YWN0bHkgdGhlIGRlbHRhCiMgZm9yIHBsYWNpbmcgdGhlIG1hcmtlciBidXQgaXQgaXMgbm90IHRoZSBwb2ludCBvZiB0aGlzIGV4YW1wbGUpCmF4MS5zY2F0dGVyKFptWzBdLCAtMi44NSwgcz01MCwgY29sb3I9ImJsYWNrIiwgbWFya2VyPSJ2IiwgY2xpcF9vbj1GYWxzZSkKYXgxLnNjYXR0ZXIoLTIuODUsIFptWzFdLCBzPTUwLCBjb2xvcj0iYmxhY2siLCBtYXJrZXI9IjwiLCBjbGlwX29uPUZhbHNlKQoKCiMgTm93IHRoZSBjb21wbGljYXRlZCBzdHVmZiB0byBvcmllbnRhdGUgYW5kIHRyYW5zbGF0ZSB0aGUgc2Vjb25kYXJ5IGF4aXMKCiMgMS4gQ29tcHV0ZSB0aGUgY2VudGVyIG9mIHRoZSBoaXN0b2dyYW0KQyA9IFptICsgNiAqIFQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgbGl0dGxlIGJpdCBmYXIgZnJvbSB0aGUgcmVjdGFuZ2xlLCBhbG9uZyB0aGUgUEMxCgojIDIuIENvbXB1dGUgdGhlIGNvb3JkaW5hdGUgYW5kIHRoZSBzaXplIGluIG5vcm1hbGl6ZWQgZmlndXJlIGNvb3JkaW5hdGVzCngsIHkgPSBmaWcudHJhbnNGaWd1cmUuaW52ZXJ0ZWQoKS50cmFuc2Zvcm0oYXgxLnRyYW5zRGF0YS50cmFuc2Zvcm0oQykpCnhvLCB5byA9IGZpZy50cmFuc0ZpZ3VyZS5pbnZlcnRlZCgpLnRyYW5zZm9ybShheDEudHJhbnNEYXRhLnRyYW5zZm9ybShDICsgMiAqIGQgKiBPKSkKaDAgPSB3MCA9IG5wLnNxcnQoKHhvIC0geCkgKiogMiArICh5byAtIHkpICoqIDIpICAgICMgcHJlcGFyYXRpb24gb2YgdGhlIGhpc3RvZ3JhbSBBeGVzCgojIDMuIENyZWF0ZSB0aGUgc2Vjb25kYXJ5IGF4aXMKIyAgICBXYXJuaW5nOiBpdCBtdXN0IGJlIHNxdWFyZWQsIGllLiB4bWF4LXhtaW4gPSB5bWF4LXltaW4KIyAgICBJdCBpcyBwb3NzaWJsZSB0byBoYXZlIG5vbiBzcXVhcmVkIGF4aXMsIGJ1dCBpdCB3b3VsZCBjb21wbGljYXRlIHRoaW5ncy4KeG1pbiwgeG1heCA9IC0xOCwgMTggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyAiZW5vdWdoIiBsYXJnZSBzeW1tZXRyaWMgeCBsaW1pdHMgZm9yIGhpc3RvZ3JhbQp5bWluLCB5bWF4ID0gMCwgeG1heCAtIHhtaW4gICAgICAgICAgICAgICAgICAgICAgICAjIHkgbGltaXRzLCBzYW1lIHJhbmdlIGJ1dCBwb3NpdGl2ZQp0cmFuc2Zvcm0gPSBBZmZpbmUyRCgpLnJvdGF0ZV9kZWcocm90YXRpb24tOTApCmhlbHBlciA9IGZsb2F0aW5nX2F4ZXMuR3JpZEhlbHBlckN1cnZlTGluZWFyKHRyYW5zZm9ybSwgKHhtaW4sIHhtYXgsIHltaW4sIHltYXgpKQpheDIgPSBmbG9hdGluZ19heGVzLkZsb2F0aW5nU3VicGxvdChmaWcsIDExMSwgZ3JpZF9oZWxwZXI9aGVscGVyLCB6b3JkZXI9MCkKCiMgNC4gV2Uga25vdyB0aGUgc2l6ZSBvZiB0aGUgYXhpcyB3ZSB3YW50IGJ1dCBpdCBpcyByb3RhdGVkLiBXaGVuIHdlIHNwZWNpZnkKIyAgICB0aGUgc2l6ZSBhbmQgcG9zaXRpb24sIGl0IHJlbGF0ZWQgdG8gdGhlIG5vbi1yb3RhdGUgYXhpcyBhbmQgd2UgdGh1cyBuZWVkCiMgICAgdG8gY29tcHV0ZSB0aGUgYm91bmRpbmcgYm94LiBUbyBkbyB0aGF0LCB3ZSByb3RhdGUgdGhlIGZvdXIgY29vcmRpbmF0ZXMKIyAgICBmcm9tIHdoaWNoIHdlIGRlZHVjZSB0aGUgYm91bmRpbmcgYm94IGNvb3JkaW5hdGVzLgp0cmFuc2Zvcm0gPSBBZmZpbmUyRCgpLnJvdGF0ZV9kZWcocm90YXRpb24tOTApClIgPSB0cmFuc2Zvcm0udHJhbnNmb3JtKCAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIG91dGxpbmUgb2YgdGhlIGhpc3RvZ3JhbSBBeGVzCiAgICBbCiAgICAgICAgKHggLSB3MCAvIDIsIHkgLSBoMCAvIDIpLAogICAgICAgICh4ICsgdzAgLyAyLCB5IC0gaDAgLyAyKSwKICAgICAgICAoeCAtIHcwIC8gMiwgeSArIGgwIC8gMiksCiAgICAgICAgKHggKyB3MCAvIDIsIHkgKyBoMCAvIDIpLAogICAgXQopCncxID0gUls6LCAwXS5tYXgoKSAtIFJbOiwgMF0ubWluKCkgICAgICAgICAgICAgICAgICAjIHdpZHRoIG9mIHRoZSBoaXN0b2dyYW0gQXhlcwpoMSA9IFJbOiwgMV0ubWF4KCkgLSBSWzosIDFdLm1pbigpICAgICAgICAgICAgICAgICAgIyBoZWlnaHQgb2YgdGhlIGhpc3RvZ3JhbSBBeGVzCmF4Mi5zZXRfcG9zaXRpb24oKHggLSB3MSAvIDIsIHkgLSBoMSAvIDIsIHcxLCBoMSkpCmZpZy5hZGRfc3VicGxvdChheDIpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIEFkZGluZyBoaXN0b2dyYW0gQXhlcwoKIyA1LiBTb21lIGRlY29yYXRpb24gdGhlIHNlY29uZGFyeSBheGlzCmF4Mi5heGlzWyJsZWZ0Il0ubWFqb3JfdGlja2xhYmVscy5zZXRfdmlzaWJsZShGYWxzZSkKYXgyLmF4aXNbImJvdHRvbSJdLm1ham9yX3RpY2tsYWJlbHMuc2V0X3Zpc2libGUoRmFsc2UpCmF4Mi5heGlzWyJib3R0b20iXS5tYWpvcl90aWNrcy5zZXRfdGlja19vdXQoVHJ1ZSkKYXgyLmF4aXNbImxlZnQiXS5zZXRfdmlzaWJsZShGYWxzZSkKYXgyLmF4aXNbInJpZ2h0Il0uc2V0X3Zpc2libGUoRmFsc2UpCmF4Mi5heGlzWyJ0b3AiXS5zZXRfdmlzaWJsZShGYWxzZSkKYXgyLnNldF94dGlja3MoWzAsIDFdKQpheDIucGF0Y2guc2V0X3Zpc2libGUoRmFsc2UpCgojIDYuIERpc3BsYXkgdGhlIGhpc3RvZ3JhbSwgdGFraW5nIGNhcmUgb2YgdGhlIGV4dGVudHMgb2YgdGhlIFggYXhpcwpjb3VudHMsIGJpbnMgPSBucC5oaXN0b2dyYW0oLVoxIEAgUEMyLCBiaW5zPTEyKSAgICAgIyBoaXN0b2dyYW0gb2YgLVoxIG9ydGhvZ29uYWwgdG8gUEMxIGRpcmVjdGlvbiAoaS5lLiwgc2NvcmVzIG9uIFBDMikgd2l0aCAxMiBiaW5zClgwID0gKGJpbnMgLSBiaW5zWzBdKSAvIChiaW5zWy0xXSAtIGJpbnNbMF0pICAgICAgICAjIFgwIDogbm9ybWFsaXplZCBiaW5zIHJhbmdlIFswLCAxXQpYMSA9IHhtaW4gKyAoeG1heCAtIHhtaW4pICogWDAgICAgICAgICAgICAgICAgICAgICAgIyBYMSA6IHN0cmV0Y2hlZCBiaW5zIHJhbmdlIFt4bWluLCB4bWF4XSA9IFstMTYsIDE2XQpZID0gbnAuYXJyYXkoY291bnRzKQoKIyBUaGlzIGF1eGlsaWFyeSBheGlzIGlzIG5lY2Vzc2FyeSB0byBkcmF3IHN0dWZmIChubyByZWFsIGlkZWEgd2h5KQpheDJfYXV4ID0gYXgyLmdldF9hdXhfYXhlcyh0cmFuc2Zvcm0pCgojIFBsb3R0aW5nIGhpc3RvZ3JhbSAKYXgyX2F1eC5oaXN0KFgxWzotMV0sIFgxLCB3ZWlnaHRzPVksIGZhY2Vjb2xvcj0iQzAiLCBlZGdlY29sb3I9IndoaXRlIiwgbGluZXdpZHRoPTAuMjUpCgojIDcuIEFkZGluZyBzb21lIGxhYmVscwpkeCwgZHkgPSAoWDFbMV0gLSBYMVswXSkgLyAyLCAwLjc1CmZvciB4LCB5IGluIHppcChYMSwgWSk6CiAgICBheDJfYXV4LnRleHQoCiAgICAgICAgeCArIGR4LAogICAgICAgIHkgKyBkeSwKICAgICAgICAiJWQiICUgeSwKICAgICAgICBoYT0iY2VudGVyIiwKICAgICAgICB2YT0iY2VudGVyIiwKICAgICAgICBzaXplPTgsCiAgICAgICAgcm90YXRpb249cm90YXRpb24tOTAsCiAgICApCgojIFNhdmUKcGx0LnNhdmVmaWcoIi4uLy4uL2ZpZ3VyZXMvY29vcmRpbmF0ZXMvdHJhbnNmb3Jtcy1oaXN0LnBkZiIpCnBsdC5zaG93KCkK
+# ----------------------------------------------------------------------------
+# Title:   Scientific Visualisation - Python & Matplotlib
+# Author:  Nicolas P. Rougier
+# License: BSD
+# ----------------------------------------------------------------------------
+# Comment: Nicolas P. Rougier & Jehyun Lee
+# kr & en: https://jehyunlee.github.io/2021/12/02/Python-DS-92-rougier01/
+# ----------------------------------------------------------------------------
+# Illustrate rotated & translated axis (using axisartists toolkit)
+# ----------------------------------------------------------------------------
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.patches import Polygon
+from matplotlib.transforms import Affine2D
+import mpl_toolkits.axisartist.floating_axes as floating_axes
+
+
+# Reproducibility seed
+np.random.seed(123)
+
+# Generate some data
+Z0 = np.random.normal(0, (1.25, 0.75), (150, 2))  # Z0: 2D random points array
+Z1 = Affine2D().rotate_deg(35).transform(Z0)      # Z1: rotated Z0
+Zm = Z1.mean(axis=0)                              # mean of Z1. Zm = np.array([ 0.13746892, -0.02793329])
+
+
+# Principal components analysis
+# Note that for some seeds, the PC1 and PC2 needs to be inverted
+# It could be fixed by looking at the orientation but I'm lazy
+W, V = np.linalg.eig(np.cov(Z1.T))                 # W: eigenvalues, V: eigenvectors
+PC1, PC2 = V.T[np.flip(np.argsort(abs(W)))]        # PCs are columns of V, and the 1st one has the highest eigenvalue
+if PC2[1] < 0:                                     # to make PC2 "upwards"
+    PC2 = -PC2
+rotation = 180 * np.arctan2(*np.flip(PC1)) / np.pi # the 1st argument of arctan2 is the y value
+T = np.array([PC1[0], PC1[1]])                     # tangent vector of PC1 (a deep copy of PC1)
+O = np.array([PC2[0], PC2[1]])                     # orthogonal vector of PC1 (a deep copy of PC2)
+
+
+# Draw
+fig = plt.figure(figsize=(5, 5))
+ax1 = fig.add_axes([0.05, 0.05, 0.9, 0.9], aspect=1)
+
+# Main scatter plot
+ax1.scatter(Z1[:, 0], Z1[:, 1], s=50, fc="C0", ec="white", lw=0.75)
+ax1.set_xlim([-3, 7])
+ax1.set_xticks([-3, 7])
+ax1.set_xticklabels([])
+ax1.set_ylim([-3, 7])
+ax1.set_yticks([-3, 7])
+ax1.set_yticklabels([])
+ax1.spines["top"].set_visible(False)
+ax1.spines["right"].set_visible(False)
+
+
+# Draw main PCA axis
+P0 = np.vstack([Zm - T * 10, Zm + T * 10])         # P0 : endpoints of a long line along PC1
+ax1.plot(P0[:, 0], P0[:, 1], color="black", linestyle="--", linewidth=0.75, zorder=10)
+
+# Compute the width of the distribution along orthogonal direction to the PCA
+# main axis. This is made by rotating points and taking max on the Y axis.
+transform = Affine2D().rotate_deg(-rotation)
+P1 = transform.transform(Z1 - Z1.mean(axis=0))     # P1 : rotated Z1, along x-axis
+d = np.abs(P1[:, 1]).max()                         # d  : max. distance between P0 and Z1
+
+# Draw a rectangle surrounding the distribution & oriented along PCA main axis
+P2 = np.vstack(                                    # P2 : rectangle surrounding Z1
+    [
+        Zm - 10 * T - d * O,
+        Zm + (6 - d) * T - d * O,
+        Zm + (6 - d) * T + d * O,
+        Zm - 10 * T + d * O,
+    ]
+)
+ax1.add_patch(
+    Polygon(
+        P2,
+        closed=True,
+        fill=True,
+        edgecolor="None",
+        facecolor="C0",
+        alpha=0.1,
+        zorder=-50,
+    )
+)
+
+# P3, P4 : edges of P2 parallel to PC1
+P3 = np.vstack([Zm - 10 * T, Zm + (6 - d) * T]) - d * O  
+plt.plot(P3[:, 0], P3[:, 1], color="C0", linestyle="-", linewidth=0.75, alpha=0.25)
+P4 = np.vstack([Zm - 10 * T, Zm + (6 - d) * T]) + d * O
+plt.plot(P4[:, 0], P4[:, 1], color="C0", linestyle="-", linewidth=0.75, alpha=0.25)
+
+# Some markers on the axis to show the mean (we could compute exactly the delta
+# for placing the marker but it is not the point of this example)
+ax1.scatter(Zm[0], -2.85, s=50, color="black", marker="v", clip_on=False)
+ax1.scatter(-2.85, Zm[1], s=50, color="black", marker="<", clip_on=False)
+
+
+# Now the complicated stuff to orientate and translate the secondary axis
+
+# 1. Compute the center of the histogram
+C = Zm + 6 * T                                      # little bit far from the rectangle, along the PC1
+
+# 2. Compute the coordinate and the size in normalized figure coordinates
+x, y = fig.transFigure.inverted().transform(ax1.transData.transform(C))
+xo, yo = fig.transFigure.inverted().transform(ax1.transData.transform(C + 2 * d * O))
+h0 = w0 = np.sqrt((xo - x) ** 2 + (yo - y) ** 2)    # preparation of the histogram Axes
+
+# 3. Create the secondary axis
+#    Warning: it must be squared, ie. xmax-xmin = ymax-ymin
+#    It is possible to have non squared axis, but it would complicate things.
+xmin, xmax = -18, 18                               # "enough" large symmetric x limits for histogram
+ymin, ymax = 0, xmax - xmin                        # y limits, same range but positive
+transform = Affine2D().rotate_deg(rotation-90)
+helper = floating_axes.GridHelperCurveLinear(transform, (xmin, xmax, ymin, ymax))
+ax2 = floating_axes.FloatingSubplot(fig, 111, grid_helper=helper, zorder=0)
+
+# 4. We know the size of the axis we want but it is rotated. When we specify
+#    the size and position, it related to the non-rotate axis and we thus need
+#    to compute the bounding box. To do that, we rotate the four coordinates
+#    from which we deduce the bounding box coordinates.
+transform = Affine2D().rotate_deg(rotation-90)
+R = transform.transform(                            # outline of the histogram Axes
+    [
+        (x - w0 / 2, y - h0 / 2),
+        (x + w0 / 2, y - h0 / 2),
+        (x - w0 / 2, y + h0 / 2),
+        (x + w0 / 2, y + h0 / 2),
+    ]
+)
+w1 = R[:, 0].max() - R[:, 0].min()                  # width of the histogram Axes
+h1 = R[:, 1].max() - R[:, 1].min()                  # height of the histogram Axes
+ax2.set_position((x - w1 / 2, y - h1 / 2, w1, h1))
+fig.add_subplot(ax2)                                # Adding histogram Axes
+
+# 5. Some decoration the secondary axis
+ax2.axis["left"].major_ticklabels.set_visible(False)
+ax2.axis["bottom"].major_ticklabels.set_visible(False)
+ax2.axis["bottom"].major_ticks.set_tick_out(True)
+ax2.axis["left"].set_visible(False)
+ax2.axis["right"].set_visible(False)
+ax2.axis["top"].set_visible(False)
+ax2.set_xticks([0, 1])
+ax2.patch.set_visible(False)
+
+# 6. Display the histogram, taking care of the extents of the X axis
+counts, bins = np.histogram(-Z1 @ PC2, bins=12)     # histogram of -Z1 orthogonal to PC1 direction (i.e., scores on PC2) with 12 bins
+X0 = (bins - bins[0]) / (bins[-1] - bins[0])        # X0 : normalized bins range [0, 1]
+X1 = xmin + (xmax - xmin) * X0                      # X1 : stretched bins range [xmin, xmax] = [-16, 16]
+Y = np.array(counts)
+
+# This auxiliary axis is necessary to draw stuff (no real idea why)
+ax2_aux = ax2.get_aux_axes(transform)
+
+# Plotting histogram 
+ax2_aux.hist(X1[:-1], X1, weights=Y, facecolor="C0", edgecolor="white", linewidth=0.25)
+
+# 7. Adding some labels
+dx, dy = (X1[1] - X1[0]) / 2, 0.75
+for x, y in zip(X1, Y):
+    ax2_aux.text(
+        x + dx,
+        y + dy,
+        "%d" % y,
+        ha="center",
+        va="center",
+        size=8,
+        rotation=rotation-90,
+    )
+
+# Save
+plt.savefig("../../figures/coordinates/transforms-hist.pdf")
+plt.show()

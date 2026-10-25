@@ -1,1 +1,140 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5YmN5bqtIOKAlOKAlCDmtYvph4/jgJDoh6rlt7HjgJHnmoTov5DliqjvvIjmg6/mgKflr7zoiKrvvIkKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrimIUg5ZSv5LiA5LiA5Liq5rWL6YeP6Ieq6Lqr6L+Q5Yqo54q25oCB55qE5oSf5a6YCgrimIUg5qC45b+D77yaCiAg4pGgIOWNiuinhOeuoeaYr+OAkOW4pumAmuOAkeeahOinkumAn+W6puiuoe+8jOS4jeaYr+WKoOmAn+W6puiuoQogIOKRoSDimIUg6L2s5qSF5oKW6K6677ya5YyA6YCf6L2s5LmF5LqG5Lul5Li65LiN6L2s77yM5YGc5LiL5Y+N6ICM5pu05pmVCiAg4pGiIOKYhSDogLPnn7Pml6Dms5XljLrliIbph43lipvkuI7liqDpgJ/luqbvvIjoh6rnlLHokL3kvZMgPSDlpKrnqbrpnZnmraLvvIkKICDikaMgVk9SIOa9nOS8j+acnyAxMG1zIDw8IOinhuiniSA4MG1zIOKAlOKAlCDlpLTliqjpnaDlroPnqLPlg48KICDikaQg4piFIOenr+WIhua8guenu++8mumXreecvOi1sOebtOe6v+S8mui1sOWBjwoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKZnJvbSBjb3JlLnZlc3RpYnVsYXIgaW1wb3J0ICgKICAgIFRBVV9DVVBVTEEsIENBTkFMX0JBTkRfSFosIEcsIE9UT0xJVEhfVEhSRVNIT0xELAogICAgVk9SX0dBSU4sIFZPUl9MQVRFTkNZX01TLCBPS05fTEFURU5DWV9NUywKICAgIGN1cHVsYV9yZXNwb25zZSwgY3VwdWxhX2dhaW4sIHJvdGF0aW9uX2NoYWlyLCBwb3N0X3JvdGF0aW9uX2RlY2F5LAogICAgb3RvbGl0aF9vdXRwdXQsIG90b2xpdGhfc2NlbmFyaW9zLCB0aWx0X2Zyb21fb3RvbGl0aCwKICAgIHNvbWF0b2dyYXZpY19pbGx1c2lvbiwgdm9yX2V5ZV92ZWxvY2l0eSwgcmV0aW5hbF9zbGlwLAogICAgdm9yX2NvbXBlbnNhdGlvbl9yYXRpbywgaW1hZ2Vfc3RhYmlsaXphdGlvbiwgaW11X2RyaWZ0LAogICAgcGF0aF9pbnRlZ3JhdGlvbl9lcnJvciwKKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9Iio4OCk7IHByaW50KCIg5YmN5bqt77ya5oOv5oCn5a+86Iiq77yM5rWL55qE5piv44CQ6Ieq5bex44CR55qE6L+Q5YqoIik7IHByaW50KCI9Iio4OCkKICAgIG9rID0ge30KCiAgICAjIC0tLS0tLS0tLS0gMSDluKbpgJogLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMMeOAkeKYhSDljYrop4TnrqHmmK/jgJDluKbpgJrjgJHnmoTop5LpgJ/luqborqHvvIjkuI3mmK/liqDpgJ/luqborqHvvIkiKQogICAgcHJpbnQoIi0iKjg4KQogICAgcHJpbnQoZiIgIHsn6aKR546HKEh6KSc6PjEwfXsn5aKe55uKJzo+MTB9IikKICAgIGcgPSB7fQogICAgZm9yIGYgaW4gWzAuMDAxLCAwLjAxLCAwLjA1LCAwLjEsIDEsIDUsIDEwLCA1MCwgMjAwXToKICAgICAgICBnW2ZdID0gZmxvYXQoY3VwdWxhX2dhaW4obnAuYXJyYXkoW2ZdKSlbMF0pCiAgICAgICAgcHJpbnQoZiIgIHtmOj4xMH17Z1tmXTo+MTAuNGZ9IikKICAgIG9rWyLikaAg4piFIOaegeS9jumikSgwLjAwMUh6KeWinuebiiA8IDAuMe+8iOS4jeaYr+WKoOmAn+W6puiuoe+8iSJdID0gYm9vbChnWzAuMDAxXSA8IDAuMSkKICAgIG9rWyLikaEg5Lit6aKRKDAuMX4xMEh6KeWinuebiiA+IDAuOe+8iOWvueinkumAn+W6pue6v+aAp++8iSJdID0gYm9vbCgKICAgICAgICBnWzAuMV0gPiAwLjkgYW5kIGdbMV0gPiAwLjkgYW5kIGdbMTBdID4gMC45KQogICAgb2tbIuKRoiDpq5jpopEoMjAwSHop5aKe55uK6KGw5YeP77yI5YaF5reL5be05oOv5oCn77yJIl0gPSBib29sKGdbMjAwXSA8IDAuNSkKICAgIHByaW50KGYiXG4gIOKYhSDoi6XmmK/liqDpgJ/luqborqHvvIzkvY7popHlop7nm4rlupTotovkuo7luLjmlbDvvJvlrp7pmYUgMC4wMDFIeiDlj6rmnIkge2dbMC4wMDFdOi40Zn0iKQogICAgcHJpbnQoZiIgIOKYhSDluKbpgJoge0NBTkFMX0JBTkRfSFpbMF19fntDQU5BTF9CQU5EX0haWzFdfSBIeu+8iFJFQUzvvIkiKQoKICAgICMgLS0tLS0tLS0tLSAyIOKYheKYhSDovazmpIXmgpborrogLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMMuOAkeKYheKYhSDovazmpIXmgpborrrvvJrlgZzkuIvlj43ogIzmm7TmmZUiKQogICAgcHJpbnQoIi0iKjg4KQogICAgdCA9IG5wLmFyYW5nZSgwLCA2MCwgMC4wMSkKICAgIHIgPSByb3RhdGlvbl9jaGFpcih0LCA5MC4wLCAzMC4wKQogICAgcHJpbnQoZiIgIHsn5pe25Yi7Jzo8MTJ9eyfkv6Hlj7cowrAvcyknOj4xMn17J+mihOacn+eQhuiuuic6PjEyfSIpCiAgICBwdHMgPSBbKCLovawgMC41cyIsIDUwKSwgKCLovawgM3MiLCAzMDApLCAoIui9rCAxMHMiLCAxMDAwKSwKICAgICAgICAgICAoIui9rCAyMHMiLCAyMDAwKSwgKCLovawgMjlzIiwgMjkwMCldCiAgICBmb3IgbGJsLCBpIGluIHB0czoKICAgICAgICBleHAgPSA5MCAqIG5wLmV4cCgtaSAqIDAuMDEgLyBUQVVfQ1VQVUxBKQogICAgICAgIHByaW50KGYiICB7bGJsOjwxMn17cltpXTo+MTIuM2Z9e2V4cDo+MTIuM2Z9IikKICAgIHByaW50KCIgICIgKyAiLSIqMzYpCiAgICBpMCA9IDMwMDAKICAgIGZvciBsYmwsIGsgaW4gWygi5YGc5ZCOIDAuNXMiLCA1MCksICgi5YGc5ZCOIDNzIiwgMzAwKSwKICAgICAgICAgICAgICAgICAgICgi5YGc5ZCOIDZzIiwgNjAwKSwgKCLlgZzlkI4gMjBzIiwgMjAwMCldOgogICAgICAgIGV4cCA9IC05MCAqIG5wLmV4cCgtayAqIDAuMDEgLyBUQVVfQ1VQVUxBKQogICAgICAgIHByaW50KGYiICB7bGJsOjwxMn17cltpMCtrXTo+MTIuM2Z9e2V4cDo+MTIuM2Z9IikKICAgIG9rWyLikaMg4piFIOWMgOmAn+i9rCAyOXMg5ZCO5L+h5Y+36KGw5YeP5YiwIDw1wrAvc++8iOS7peS4uuS4jei9rOS6hu+8iSJdID0gYm9vbChhYnMoclsyOTAwXSkgPCA1LjApCiAgICBva1si4pGkIOKYhSDlgZzmraLlkI7kv6Hlj7fjgJDlj43lkJHjgJHkuJTluYXluqblpKfvvIh85L+h5Y+3fD40MMKwL3PvvIkiXSA9IGJvb2wocltpMCs1MF0gPCAtNDApCiAgICBva1si4pGlIOWBnOatouWQjuihsOWHj+espuWQiCBleHAoLXQvz4RjKe+8jM+EY+KJiDZzIl0gPSBib29sKAogICAgICAgIGFicyhhYnMocltpMCs2MDBdKSAvIGFicyhyW2kwKzUwXSkgLSBucC5leHAoLTUuNSAvIFRBVV9DVVBVTEEpKSA8IDAuMSkKICAgIG9rWyLikaYg4piFIOWBnOatouWQjuOAkOabtOaZleOAke+8muWBnOWQjuW5heW6piA+IOWBnOatouWJjeW5heW6piJdID0gYm9vbCgKICAgICAgICBhYnMocltpMCs1MF0pID4gYWJzKHJbMjkwMF0pKQogICAgcHJpbnQoZiJcbiAg4piFIOWBnOatouWJjSgyOXMpIHtyWzI5MDBdOi4zZn3CsC9zICDihpIgIOWBnOatouWQjigwLjVzKSB7cltpMCs1MF06LjFmfcKwL3MiKQogICAgcHJpbnQoZiIgIOKYhSDlt64ge2FicyhyW2kwKzUwXSkvbWF4KGFicyhyWzI5MDBdKSwxZS05KTouMGZ9IOWAjSDigJTigJQg6L+Z5bCx5pivJ+WBnOS4i+WPjeiAjOabtOaZlSciKQogICAgcHJpbnQoZiIgIOKYhSDPhGMgPSB7VEFVX0NVUFVMQX1z77yIUkVBTCA1fjdz77yJ77yM5Li76KeC5pmV5oSf5oyB57ut57qmIDEwfjMwcyIpCgogICAgIyAtLS0tLS0tLS0tIDMg4piF4piFIOmHjeWKm+S4jeWPr+WIhui+qCAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqowz44CR4piF4piFIOiAs+efs+aXoOazleWMuuWIhumHjeWKm+S4juWKoOmAn+W6piIpCiAgICBwcmludCgiLSIqODgpCiAgICBzYyA9IG90b2xpdGhfc2NlbmFyaW9zKCkKICAgIHByaW50KGYiICB7J+WcuuaZryc6PDE0fXsn6L6T5Ye65qih6ZW/KG0vc8KyKSc6PjE2fSIpCiAgICBmb3IgaywgdiBpbiBzYy5pdGVtcygpOgogICAgICAgIHByaW50KGYiICB7azo8MTR9e25wLmxpbmFsZy5ub3JtKHYpOj4xNi4zZn0iKQogICAgZnJlZSA9IG5wLmxpbmFsZy5ub3JtKHNjWyLoh6rnlLHokL3kvZMiXSkKICAgIHNwYWNlID0gbnAubGluYWxnLm5vcm0oc2NbIuWkquepuumdmeatoiJdKQogICAgZ3JvdW5kID0gbnAubGluYWxnLm5vcm0oc2NbIuWcsOmdoumdmeatoiJdKQogICAgb2tbIuKRpyDimIXimIUg6Ieq55Sx6JC95L2T5LiO5aSq56m66Z2Z5q2i44CQ6L6T5Ye65a6M5YWo55u45ZCM44CRIl0gPSBib29sKGFicyhmcmVlIC0gc3BhY2UpIDwgMWUtOSkKICAgIG9rWyLikagg5Zyw6Z2i6Z2Z5q2i6L6T5Ye6ID0gMWfvvIjmtYvliLDph43lipvvvIkiXSA9IGJvb2woYWJzKGdyb3VuZCAtIEcpIDwgMC4wMSkKICAgIG9rWyLikakg4piFIDFnIOWQkeS4iuWKoOmAnyDiiaAg6Z2Z5q2i77yI5Y+v5Yy65YiG5Yqg6YCf5bqm5LiO6Z2Z5q2i77yJIl0gPSBib29sKAogICAgICAgIGFicyhucC5saW5hbGcubm9ybShzY1siMWflkJHkuIrliqDpgJ8iXSkgLSBncm91bmQpID4gMS4wKQogICAgcHJpbnQoZiJcbiAg4piFIOiHqueUseiQveS9kyB7ZnJlZTouM2Z9ID0g5aSq56m66Z2Z5q2iIHtzcGFjZTouM2Z9IOKAlOKAlCDogLPnn7PjgJDliIbkuI3lh7rjgJEiKQogICAgcHJpbnQoZiIgIOKYhSDov5nmmK/niLHlm6Dmlq/lnabljYfpmY3mnLrnrYnku7fljp/nkIbnmoTnlJ/nianlrabniYjmnKwiKQogICAgcHJpbnQoZiIgIOKYhSDmlbDlrabooajovr7vvJrogLPnn7PovpPlh7ogPSDnnJ/lrp7liqDpgJ/luqYg4oiSIOmHjeWKmyDihpIg6JC95L2T5pe25Lik6aG55oq15raIIikKICAgIGlsbCA9IHNvbWF0b2dyYXZpY19pbGx1c2lvbigwLjUgKiBHKQogICAgb2tbIuKRqiDkvZPmhJ/ph43lipvplJnop4nvvJowLjVnIOWJjeWKoOmAnyDihpIg5oSf55+l5LiK5Luw57qmIDI2LjbCsCJdID0gYm9vbCgKICAgICAgICBhYnMoaWxsIC0gMjYuNTcpIDwgMS4wKQogICAgcHJpbnQoZiJcbiAg4piFIOmjnuihjOWRmOmUmeinie+8muWQkeWJjeWKoOmAnyAwLjVnIOKGkiDmhJ/nn6XmnLrlpLTkuIrku7Age2lsbDouMWZ9wrAiKQogICAgcHJpbnQoIiAg4piFIOecn+WunuS6i+aVhe+8muWknOmXtOi1t+mjnuWKoOmAn++8jOmjnuihjOWRmOivr+WIpOWnv+aAgSDihpIg5Y+v5o6n6aOe6KGM5pKe5ZywIikKCiAgICAjIC0tLS0tLS0tLS0gNCBWT1IgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMNOOAkVZPUiDnqLPlg4/vvJrmvZzkvI/mnJ8gMTBtcyA8PCDop4bop4kgODBtcyIpCiAgICBwcmludCgiLSIqODgpCiAgICBwcmludChmIiAgeyflpLTpgJ8owrAvcyknOj4xMH17J+ecvOmAnyjCsC9zKSc6PjEyfXsn5pyJVk9S5ruR5YqoJzo+MTJ9eyfml6BWT1Lmu5HliqgnOj4xMn0iKQogICAgZm9yIHYgaW4gWzUwLCAxNTAsIDMwMF06CiAgICAgICAgcHJpbnQoZiIgIHt2Oj4xMH17dm9yX2V5ZV92ZWxvY2l0eSh2KTo+MTIuMWZ9IgogICAgICAgICAgICAgIGYie2ltYWdlX3N0YWJpbGl6YXRpb24odiwgVHJ1ZSk6PjEyLjFmfXtpbWFnZV9zdGFiaWxpemF0aW9uKHYsIEZhbHNlKTo+MTIuMWZ9IikKICAgIG9rWyLikasgVk9SIOWinuebiiAwLjl+MS4w77yIUkVBTO+8iSJdID0gYm9vbCgwLjkgPD0gVk9SX0dBSU4gPD0gMS4wKQogICAgb2tbIuKRrCDimIUg5pyJIFZPUiDml7bop4bnvZHohpzmu5HliqggPCDml6AgVk9SIOeahCAxMCUiXSA9IGJvb2woCiAgICAgICAgaW1hZ2Vfc3RhYmlsaXphdGlvbigxNTAsIFRydWUpIDwgMC4xICogaW1hZ2Vfc3RhYmlsaXphdGlvbigxNTAsIEZhbHNlKSkKICAgIG9rWyLika0g4piFIOWJjeW6rSBWT1IoMTBtcykg5q+U6KeG6KeJIFZPUig4MG1zKSDlv6sgNSDlgI3ku6XkuIoiXSA9IGJvb2woCiAgICAgICAgT0tOX0xBVEVOQ1lfTVMgLyBWT1JfTEFURU5DWV9NUyA+IDUpCiAgICBwcmludChmIlxuICDimIUg5aS06YCfIDE1MMKwL3PvvJrml6AgVk9SIOa7keWKqCAxNTDCsC9z77yI5YWo57OK77yJ4oaSIOaciSBWT1Ig5Y+q5YmpICIKICAgICAgICAgIGYie2ltYWdlX3N0YWJpbGl6YXRpb24oMTUwLFRydWUpOi4xZn3CsC9zIikKICAgIHByaW50KGYiICDimIUg5YmN5bqtIHtWT1JfTEFURU5DWV9NU31tcyB2cyDop4bop4kge09LTl9MQVRFTkNZX01TfW1zIOKAlOKAlCDlpLTliqjml7bop4bop4nmnaXkuI3lj4oiKQogICAgcHJpbnQoIiAg4piFIOi/meS5n+ino+mHiuS6hiDimIUyNS/imIUyOO+8muWktOS4jeWKqOaXtueri+S9ky/ov5Dliqjop4blt67mtojlpLHvvIzkvYYgVk9SIOi/mOWcqOW3peS9nCIpCgogICAgIyAtLS0tLS0tLS0tIDUg4piFIOenr+WIhua8guenuyAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqow144CR4piFIOenr+WIhua8guenu++8mumXreecvOi1sOebtOe6v+S8mui1sOWBjyIpCiAgICBwcmludCgiLSIqODgpCiAgICBwcmludChmIiAgeyflgY/nva4obS9zwrIpJzo+MTJ9eyc2MOenkuWQjuS9jee9ruivr+W3rihtKSc6PjIwfSIpCiAgICBmb3IgYiBpbiBbMC4wMDEsIDAuMDA1LCAwLjAxLCAwLjA1XToKICAgICAgICBwcmludChmIiAge2I6PjEyfXtwYXRoX2ludGVncmF0aW9uX2Vycm9yKGIsIDYwKTo+MjAuMWZ9IikKICAgIG9rWyLika4g4piFIOivr+W3rumaj+aXtumXtOOAkOS6jOasoeOAkeWinumVv++8iOS4jeaYr+e6v+aAp++8iSJdID0gYm9vbCgKICAgICAgICBhYnMocGF0aF9pbnRlZ3JhdGlvbl9lcnJvcigwLjAxLCAxMjApIC8KICAgICAgICAgICAgcGF0aF9pbnRlZ3JhdGlvbl9lcnJvcigwLjAxLCA2MCkgLSA0LjApIDwgMC4wMSkKICAgIG9rWyLika8g5p6B5bCP5YGP572uKDAuMDEgbS9zwrIpIDYwIOenkuWQjuS5n+WBjyA+MTAgbSJdID0gYm9vbCgKICAgICAgICBwYXRoX2ludGVncmF0aW9uX2Vycm9yKDAuMDEsIDYwKSA+IDEwKQogICAgcHJpbnQoZiJcbiAg4piFIDAuMDEgbS9zwrIg55qE5b6u5bCP5YGP572u77yI6L+c5L2O5LqOIHtPVE9MSVRIX1RIUkVTSE9MRH0g6ZiI5YC877yM5oSf6KeJ5LiN5Yiw77yJIikKICAgIHByaW50KGYiICDimIUgNjAg56eS5ZCO5bCx5YGPIHtwYXRoX2ludGVncmF0aW9uX2Vycm9yKDAuMDEsNjApOi4wZn0gbSIpCiAgICBwcmludCgiICDimIUg6L+Z5bCx5pivIElNVSDlv4XpobvpnaDlpJbpg6jplJrngrnvvIhHUFMv6KeG6KeJL+WcsOejge+8ieS/ruato+eahOagueacrOWOn+WboCIpCiAgICBwcmludCgiICDimIUg55Sf54mp5a+55bqU546w6LGh77ya6Zet55y85Y6f5Zyw6LiP5q2l5Lya6LWw5YGP77yM6JKZ55y86LWw55u057q/5Lya57uV5ZyIIikKCiAgICBwcmludCgiXG4iKyI9Iio4OCk7IHByaW50KCIg5Yik5o2u5rGH5oC7Iik7IHByaW50KCI9Iio4OCkKICAgIGZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiB2IGVsc2UgJ+KdjCd9IHtrfSIpCiAgICBwcmludChmIlxuICDinIUge3N1bShvay52YWx1ZXMoKSl9L3tsZW4ob2spfSIpCiAgICBwcmludCgiXG4gIOKdjCDmnKrlu7rmqKHvvJrkuInnrqHpnZ7mraPkuqQo5a6e6ZmF57qmIDkwwrDCsTEwKeOAgeaOqOaLieS4jeWvueensChFd2FsZOesrOS6jOWumuW+iykiKQogICAgcHJpbnQoIiAg4p2MIOacquW7uuaooe+8muWJjeW6rS3nnLwt6aKI5aSa5oSf6KeJ5pW05ZCI55qE6LSd5Y+25pav5Yqg5p2DIikKICAgIHByaW50KCIgIOKaoO+4jyDogLPnn7PovpPlh7rnlKjlkJHph4/lt67ov5HkvLzvvIzmnKrlu7rmqKHogLPnn7PohpznspjlvLnmgKfliqjlipvlraYiKQogICAganNvbi5kdW1wKHtrOiBib29sKHYpIGZvciBrLCB2IGluIG9rLml0ZW1zKCl9LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAidmVzdGlidWxhci5qc29uIiksICJ3IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+前庭 —— 测量【自己】的运动（惯性导航）
+========================================
+★ 唯一一个测量自身运动状态的感官
+
+★ 核心：
+  ① 半规管是【带通】的角速度计，不是加速度计
+  ② ★ 转椅悖论：匀速转久了以为不转，停下反而更晕
+  ③ ★ 耳石无法区分重力与加速度（自由落体 = 太空静止）
+  ④ VOR 潜伏期 10ms << 视觉 80ms —— 头动靠它稳像
+  ⑤ ★ 积分漂移：闭眼走直线会走偏
+"""
+import os, sys, json
+import numpy as np
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.vestibular import (
+    TAU_CUPULA, CANAL_BAND_HZ, G, OTOLITH_THRESHOLD,
+    VOR_GAIN, VOR_LATENCY_MS, OKN_LATENCY_MS,
+    cupula_response, cupula_gain, rotation_chair, post_rotation_decay,
+    otolith_output, otolith_scenarios, tilt_from_otolith,
+    somatogravic_illusion, vor_eye_velocity, retinal_slip,
+    vor_compensation_ratio, image_stabilization, imu_drift,
+    path_integration_error,
+)
+
+if __name__ == "__main__":
+    print("="*88); print(" 前庭：惯性导航，测的是【自己】的运动"); print("="*88)
+    ok = {}
+
+    # ---------- 1 带通 ----------
+    print("\n【实验1】★ 半规管是【带通】的角速度计（不是加速度计）")
+    print("-"*88)
+    print(f"  {'频率(Hz)':>10}{'增益':>10}")
+    g = {}
+    for f in [0.001, 0.01, 0.05, 0.1, 1, 5, 10, 50, 200]:
+        g[f] = float(cupula_gain(np.array([f]))[0])
+        print(f"  {f:>10}{g[f]:>10.4f}")
+    ok["① ★ 极低频(0.001Hz)增益 < 0.1（不是加速度计）"] = bool(g[0.001] < 0.1)
+    ok["② 中频(0.1~10Hz)增益 > 0.9（对角速度线性）"] = bool(
+        g[0.1] > 0.9 and g[1] > 0.9 and g[10] > 0.9)
+    ok["③ 高频(200Hz)增益衰减（内淋巴惯性）"] = bool(g[200] < 0.5)
+    print(f"\n  ★ 若是加速度计，低频增益应趋于常数；实际 0.001Hz 只有 {g[0.001]:.4f}")
+    print(f"  ★ 带通 {CANAL_BAND_HZ[0]}~{CANAL_BAND_HZ[1]} Hz（REAL）")
+
+    # ---------- 2 ★★ 转椅悖论 ----------
+    print("\n【实验2】★★ 转椅悖论：停下反而更晕")
+    print("-"*88)
+    t = np.arange(0, 60, 0.01)
+    r = rotation_chair(t, 90.0, 30.0)
+    print(f"  {'时刻':<12}{'信号(°/s)':>12}{'预期理论':>12}")
+    pts = [("转 0.5s", 50), ("转 3s", 300), ("转 10s", 1000),
+           ("转 20s", 2000), ("转 29s", 2900)]
+    for lbl, i in pts:
+        exp = 90 * np.exp(-i * 0.01 / TAU_CUPULA)
+        print(f"  {lbl:<12}{r[i]:>12.3f}{exp:>12.3f}")
+    print("  " + "-"*36)
+    i0 = 3000
+    for lbl, k in [("停后 0.5s", 50), ("停后 3s", 300),
+                   ("停后 6s", 600), ("停后 20s", 2000)]:
+        exp = -90 * np.exp(-k * 0.01 / TAU_CUPULA)
+        print(f"  {lbl:<12}{r[i0+k]:>12.3f}{exp:>12.3f}")
+    ok["④ ★ 匀速转 29s 后信号衰减到 <5°/s（以为不转了）"] = bool(abs(r[2900]) < 5.0)
+    ok["⑤ ★ 停止后信号【反向】且幅度大（|信号|>40°/s）"] = bool(r[i0+50] < -40)
+    ok["⑥ 停止后衰减符合 exp(-t/τc)，τc≈6s"] = bool(
+        abs(abs(r[i0+600]) / abs(r[i0+50]) - np.exp(-5.5 / TAU_CUPULA)) < 0.1)
+    ok["⑦ ★ 停止后【更晕】：停后幅度 > 停止前幅度"] = bool(
+        abs(r[i0+50]) > abs(r[2900]))
+    print(f"\n  ★ 停止前(29s) {r[2900]:.3f}°/s  →  停止后(0.5s) {r[i0+50]:.1f}°/s")
+    print(f"  ★ 差 {abs(r[i0+50])/max(abs(r[2900]),1e-9):.0f} 倍 —— 这就是'停下反而更晕'")
+    print(f"  ★ τc = {TAU_CUPULA}s（REAL 5~7s），主观晕感持续约 10~30s")
+
+    # ---------- 3 ★★ 重力不可分辨 ----------
+    print("\n【实验3】★★ 耳石无法区分重力与加速度")
+    print("-"*88)
+    sc = otolith_scenarios()
+    print(f"  {'场景':<14}{'输出模长(m/s²)':>16}")
+    for k, v in sc.items():
+        print(f"  {k:<14}{np.linalg.norm(v):>16.3f}")
+    free = np.linalg.norm(sc["自由落体"])
+    space = np.linalg.norm(sc["太空静止"])
+    ground = np.linalg.norm(sc["地面静止"])
+    ok["⑧ ★★ 自由落体与太空静止【输出完全相同】"] = bool(abs(free - space) < 1e-9)
+    ok["⑨ 地面静止输出 = 1g（测到重力）"] = bool(abs(ground - G) < 0.01)
+    ok["⑩ ★ 1g 向上加速 ≠ 静止（可区分加速度与静止）"] = bool(
+        abs(np.linalg.norm(sc["1g向上加速"]) - ground) > 1.0)
+    print(f"\n  ★ 自由落体 {free:.3f} = 太空静止 {space:.3f} —— 耳石【分不出】")
+    print(f"  ★ 这是爱因斯坦升降机等价原理的生物学版本")
+    print(f"  ★ 数学表达：耳石输出 = 真实加速度 − 重力 → 落体时两项抵消")
+    ill = somatogravic_illusion(0.5 * G)
+    ok["⑪ 体感重力错觉：0.5g 前加速 → 感知上仰约 26.6°"] = bool(
+        abs(ill - 26.57) < 1.0)
+    print(f"\n  ★ 飞行员错觉：向前加速 0.5g → 感知机头上仰 {ill:.1f}°")
+    print("  ★ 真实事故：夜间起飞加速，飞行员误判姿态 → 可控飞行撞地")
+
+    # ---------- 4 VOR ----------
+    print("\n【实验4】VOR 稳像：潜伏期 10ms << 视觉 80ms")
+    print("-"*88)
+    print(f"  {'头速(°/s)':>10}{'眼速(°/s)':>12}{'有VOR滑动':>12}{'无VOR滑动':>12}")
+    for v in [50, 150, 300]:
+        print(f"  {v:>10}{vor_eye_velocity(v):>12.1f}"
+              f"{image_stabilization(v, True):>12.1f}{image_stabilization(v, False):>12.1f}")
+    ok["⑫ VOR 增益 0.9~1.0（REAL）"] = bool(0.9 <= VOR_GAIN <= 1.0)
+    ok["⑬ ★ 有 VOR 时视网膜滑动 < 无 VOR 的 10%"] = bool(
+        image_stabilization(150, True) < 0.1 * image_stabilization(150, False))
+    ok["⑭ ★ 前庭 VOR(10ms) 比视觉 VOR(80ms) 快 5 倍以上"] = bool(
+        OKN_LATENCY_MS / VOR_LATENCY_MS > 5)
+    print(f"\n  ★ 头速 150°/s：无 VOR 滑动 150°/s（全糊）→ 有 VOR 只剩 "
+          f"{image_stabilization(150,True):.1f}°/s")
+    print(f"  ★ 前庭 {VOR_LATENCY_MS}ms vs 视觉 {OKN_LATENCY_MS}ms —— 头动时视觉来不及")
+    print("  ★ 这也解释了 ★25/★28：头不动时立体/运动视差消失，但 VOR 还在工作")
+
+    # ---------- 5 ★ 积分漂移 ----------
+    print("\n【实验5】★ 积分漂移：闭眼走直线会走偏")
+    print("-"*88)
+    print(f"  {'偏置(m/s²)':>12}{'60秒后位置误差(m)':>20}")
+    for b in [0.001, 0.005, 0.01, 0.05]:
+        print(f"  {b:>12}{path_integration_error(b, 60):>20.1f}")
+    ok["⑮ ★ 误差随时间【二次】增长（不是线性）"] = bool(
+        abs(path_integration_error(0.01, 120) /
+            path_integration_error(0.01, 60) - 4.0) < 0.01)
+    ok["⑯ 极小偏置(0.01 m/s²) 60 秒后也偏 >10 m"] = bool(
+        path_integration_error(0.01, 60) > 10)
+    print(f"\n  ★ 0.01 m/s² 的微小偏置（远低于 {OTOLITH_THRESHOLD} 阈值，感觉不到）")
+    print(f"  ★ 60 秒后就偏 {path_integration_error(0.01,60):.0f} m")
+    print("  ★ 这就是 IMU 必须靠外部锚点（GPS/视觉/地磁）修正的根本原因")
+    print("  ★ 生物对应现象：闭眼原地踏步会走偏，蒙眼走直线会绕圈")
+
+    print("\n"+"="*88); print(" 判据汇总"); print("="*88)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n  ✅ {sum(ok.values())}/{len(ok)}")
+    print("\n  ❌ 未建模：三管非正交(实际约 90°±10)、推拉不对称(Ewald第二定律)")
+    print("  ❌ 未建模：前庭-眼-颈多感觉整合的贝叶斯加权")
+    print("  ⚠️ 耳石输出用向量差近似，未建模耳石膜粘弹性动力学")
+    json.dump({k: bool(v) for k, v in ok.items()},
+              open(os.path.join(HERE, ".sense", "vestibular.json"), "w"),
+              ensure_ascii=False, indent=1)

@@ -1,1 +1,142 @@
-bmFtZTogT3JkZXIgQXV0by1GdWxmaWxsCgojIOWuouaIt+WcqOiQveWcsOmhteeCuSAiSSd2ZSBwYWlkIiAtPiDmiZPlvIDluKYgb3JkZXIgbGFiZWwg55qEIGlzc3VlCiMgQWN0aW9ucyDoh6rliqjmoKHpqozorqLljZXlj7fmoLzlvI8gLT4g6Ieq5Yqo5Zue5aSN5LiL6L296ZO+5o6lIC0+IOaJk+agh+etviAtPiDlhbPpl60KIyDkuI3pnIDopoEgU01UUO+8muWFqOeoi+i1sCBHaXRIdWIgSXNzdWVzIEFQSe+8jHJlcG8g6Ieq5bim5p2D6ZmQCgpvbjoKICBpc3N1ZXM6CiAgICB0eXBlczogW29wZW5lZCwgcmVvcGVuZWRdCgpwZXJtaXNzaW9uczoKICBpc3N1ZXM6IHdyaXRlCiAgY29udGVudHM6IHJlYWQKCmpvYnM6CiAgZnVsZmlsbDoKICAgIGlmOiBjb250YWlucyhnaXRodWIuZXZlbnQuaXNzdWUubGFiZWxzLioubmFtZSwgJ29yZGVyJykKICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHN0ZXBzOgogICAgICAtIG5hbWU6IFBhcnNlIG9yZGVyCiAgICAgICAgaWQ6IHBhcnNlCiAgICAgICAgdXNlczogYWN0aW9ucy9naXRodWItc2NyaXB0QHY3CiAgICAgICAgd2l0aDoKICAgICAgICAgIHNjcmlwdDogfAogICAgICAgICAgICBjb25zdCBib2R5ID0gY29udGV4dC5wYXlsb2FkLmlzc3VlLmJvZHkgfHwgJyc7CiAgICAgICAgICAgIGNvbnN0IG51bSAgPSBjb250ZXh0LnBheWxvYWQuaXNzdWUubnVtYmVyOwoKICAgICAgICAgICAgLy8g5oqT5Y+WIHRpZXIKICAgICAgICAgICAgbGV0IHRpZXIgPSAndW5rbm93bic7CiAgICAgICAgICAgIGNvbnN0IG1UaWVyID0gYm9keS5tYXRjaCgvdGllclxzKls677yaXVxzKihzdGFydGVyfHByb3x0ZWFtfGZyZWUpL2kpOwogICAgICAgICAgICBpZiAobVRpZXIpIHRpZXIgPSBtVGllclsxXS50b0xvd2VyQ2FzZSgpOwoKICAgICAgICAgICAgLy8g5oqT5Y+W5rGH5qy+5Y+C6ICD5Y+377yIPj02IOS9jeWtl+avjeaVsOWtl++8jOWFgeiuuCAtIOWSjOepuuagvO+8iQogICAgICAgICAgICBsZXQgcmVmID0gbnVsbDsKICAgICAgICAgICAgY29uc3QgbVJlZiA9IGJvZHkubWF0Y2goL3JlZmVyZW5jZVxzKls677yaXVxzKihbQS1aYS16MC05XVtBLVphLXowLTlcLSBdezUsfSkvaSk7CiAgICAgICAgICAgIGlmIChtUmVmKSByZWYgPSBtUmVmWzFdLnRyaW0oKTsKCiAgICAgICAgICAgIC8vIOaKk+WPluiBlOezu+mCrueusQogICAgICAgICAgICBsZXQgbWFpbCA9IG51bGw7CiAgICAgICAgICAgIGNvbnN0IG1NYWlsID0gYm9keS5tYXRjaCgvZW1haWxccypbOu+8ml1ccyooXFMrQFxTKykvaSk7CiAgICAgICAgICAgIGlmIChtTWFpbCkgbWFpbCA9IG1NYWlsWzFdOwoKICAgICAgICAgICAgY29yZS5zZXRPdXRwdXQoJ3RpZXInLCB0aWVyKTsKICAgICAgICAgICAgY29yZS5zZXRPdXRwdXQoJ3JlZicsIHJlZiB8fCAnJyk7CiAgICAgICAgICAgIGNvcmUuc2V0T3V0cHV0KCdtYWlsJywgbWFpbCB8fCAnJyk7CiAgICAgICAgICAgIGNvcmUuc2V0T3V0cHV0KCd2YWxpZCcsIFN0cmluZyghIShyZWYgJiYgdGllciAhPT0gJ3Vua25vd24nKSkpOwoKICAgICAgICAgICAgY29yZS5pbmZvKGBvcmRlciAjJHtudW19IHRpZXI9JHt0aWVyfSByZWY9JHtyZWZ9IHZhbGlkPSR7ISFyZWZ9YCk7CgogICAgICAtIG5hbWU6IFJlcGx5IHdpdGggZG93bmxvYWQgbGluawogICAgICAgIHVzZXM6IGFjdGlvbnMvZ2l0aHViLXNjcmlwdEB2NwogICAgICAgIHdpdGg6CiAgICAgICAgICBzY3JpcHQ6IHwKICAgICAgICAgICAgY29uc3QgdGllciA9ICcke3sgc3RlcHMucGFyc2Uub3V0cHV0cy50aWVyIH19JzsKICAgICAgICAgICAgY29uc3QgcmVmICA9ICcke3sgc3RlcHMucGFyc2Uub3V0cHV0cy5yZWYgfX0nOwogICAgICAgICAgICBjb25zdCB2YWxpZCA9ICcke3sgc3RlcHMucGFyc2Uub3V0cHV0cy52YWxpZCB9fScgPT09ICd0cnVlJzsKICAgICAgICAgICAgY29uc3QgbnVtICA9IGNvbnRleHQucGF5bG9hZC5pc3N1ZS5udW1iZXI7CgogICAgICAgICAgICBjb25zdCBSQVcgPSAnaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3podW1laXlhbi9ldmFsZ3VhcmQvbWFpbic7CiAgICAgICAgICAgIGNvbnN0IExJTktTID0gewogICAgICAgICAgICAgIHN0YXJ0ZXI6IFJBVyArICcvY2Fub24vY2Fub25femguanNvbicsCiAgICAgICAgICAgICAgcHJvOiAgICAgUkFXICsgJy9kaXN0L2V2YWxndWFyZC12MC4zLjAuemlwJywKICAgICAgICAgICAgICB0ZWFtOiAgICBSQVcgKyAnL2Rpc3QvZXZhbGd1YXJkLXYwLjMuMC56aXAnLAogICAgICAgICAgICAgIGZyZWU6ICAgIFJBVyArICcvY2Fub24vY2Fub25femguanNvbicKICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIGlmICghdmFsaWQpIHsKICAgICAgICAgICAgICBhd2FpdCBnaXRodWIucmVzdC5pc3N1ZXMuY3JlYXRlQ29tbWVudCh7CiAgICAgICAgICAgICAgICBvd25lcjogY29udGV4dC5yZXBvLm93bmVyLCByZXBvOiBjb250ZXh0LnJlcG8ucmVwbywgaXNzdWVfbnVtYmVyOiBudW0sCiAgICAgICAgICAgICAgICBib2R5OiBbCiAgICAgICAgICAgICAgICAgICcjIyMg4pqg77iPIE9yZGVyIGluY29tcGxldGUg4oCUIOiuouWNleS/oeaBr+S4jeWujOaVtCcsCiAgICAgICAgICAgICAgICAgICcnLAogICAgICAgICAgICAgICAgICAnV2UgY291bGQgbm90IHBhcnNlIGEgdmFsaWQgKip0aWVyKiogYW5kICoqcmVtaXR0YW5jZSByZWZlcmVuY2UqKi4nLAogICAgICAgICAgICAgICAgICAn5peg5rOV6Kej5p6Q5Ye65pyJ5pWI55qEICoq5qGj5L2NKiog5ZKMICoq5rGH5qy+5Y+C6ICD5Y+3KirvvIzor7fooaXlhYXlkI7ph43mlrDmiZPlvIDmraQgaXNzdWXjgIInLAogICAgICAgICAgICAgICAgICAnJywKICAgICAgICAgICAgICAgICAgJ1JlcXVpcmVkIGZvcm1hdCAvIOW/hemcgOagvOW8j++8micsCiAgICAgICAgICAgICAgICAgICdgYGAnLAogICAgICAgICAgICAgICAgICAndGllcjogc3RhcnRlciAgICAgICAgIyBzdGFydGVyIHwgcHJvIHwgdGVhbScsCiAgICAgICAgICAgICAgICAgICdyZWZlcmVuY2U6IEFCQzEyMzQ1NiAjIHJlbWl0LmFsaXBheS5jb20g57uZ5L2g55qE5Y+C6ICD5Y+377yMPj02IOS9jScsCiAgICAgICAgICAgICAgICAgICdlbWFpbDogeW91QGNvcnAuY29tICAjIOWPr+mAie+8jOeUqOS6juihpeWPkScsCiAgICAgICAgICAgICAgICAgICdgYGAnLAogICAgICAgICAgICAgICAgICAnJywKICAgICAgICAgICAgICAgICAgJ19UaGlzIGlzIGFuIGF1dG9tYXRlZCByZXBseS4g6L+Z5piv5LiA5p2h6Ieq5Yqo5Zue5aSN44CCXycKICAgICAgICAgICAgICAgIF0uam9pbignXG4nKQogICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIGF3YWl0IGdpdGh1Yi5yZXN0Lmlzc3Vlcy5hZGRMYWJlbHMoewogICAgICAgICAgICAgICAgb3duZXI6IGNvbnRleHQucmVwby5vd25lciwgcmVwbzogY29udGV4dC5yZXBvLnJlcG8sIGlzc3VlX251bWJlcjogbnVtLAogICAgICAgICAgICAgICAgbGFiZWxzOiBbJ29yZGVyJywgJ25lZWRzLWluZm8nXQogICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgY29uc3QgbGluayA9IExJTktTW3RpZXJdIHx8IExJTktTLnN0YXJ0ZXI7CiAgICAgICAgICAgIGNvbnN0IHByaWNlID0geyBzdGFydGVyOiAnJDI5JywgcHJvOiAnJDk5JywgdGVhbTogJyQ0OTknLCBmcmVlOiAnJDAnIH1bdGllcl0gfHwgJyQyOSc7CgogICAgICAgICAgICBhd2FpdCBnaXRodWIucmVzdC5pc3N1ZXMuY3JlYXRlQ29tbWVudCh7CiAgICAgICAgICAgICAgb3duZXI6IGNvbnRleHQucmVwby5vd25lciwgcmVwbzogY29udGV4dC5yZXBvLnJlcG8sIGlzc3VlX251bWJlcjogbnVtLAogICAgICAgICAgICAgIGJvZHk6IFsKICAgICAgICAgICAgICAgICcjIyMg4pyFIE9yZGVyIHJlY2VpdmVkIOKAlCDlt7LmlLbliLDorqLljZUnLAogICAgICAgICAgICAgICAgJycsCiAgICAgICAgICAgICAgICBgLSAqKlRpZXIqKjogXGAke3RpZXJ9XGAgKCR7cHJpY2V9KWAsCiAgICAgICAgICAgICAgICBgLSAqKlJlZmVyZW5jZSoqOiBcYCR7cmVmfVxgYCwKICAgICAgICAgICAgICAgICcnLAogICAgICAgICAgICAgICAgJyMjIyMg8J+TpiBEb3dubG9hZCAvIOS4i+i9vScsCiAgICAgICAgICAgICAgICBgW2V2YWxndWFyZC12MC4zLjAuemlwXSgke2xpbmt9KWAsCiAgICAgICAgICAgICAgICAnJywKICAgICAgICAgICAgICAgICdgYGBiYXNoJywKICAgICAgICAgICAgICAgICd1bnppcCBldmFsZ3VhcmQtdjAuMy4wLnppcCAmJiBjZCBldmFsZ3VhcmQtdjAuMy4wJywKICAgICAgICAgICAgICAgICdweXRob24zIC1tIGV2YWxndWFyZCB5b3VyX2V2YWwucHkgICAgICAgIyAxNiBydWxlcywgZnJlZScsCiAgICAgICAgICAgICAgICAncHl0aG9uMyAtbSBldmFsZ3VhcmQgeW91cl9ldmFsLnB5IC0tcHJvICMgMjYgcnVsZXMsIFBSTycsCiAgICAgICAgICAgICAgICAnYGBgJywKICAgICAgICAgICAgICAgICcnLAogICAgICAgICAgICAgICAgJyMjIyMg8J+UkSBObyBsaWNlbnNlIGtleSBuZWVkZWQgLyDml6DpnIDmjojmnYPnoIEnLAogICAgICAgICAgICAgICAgJ1RoZSBwYWNrYWdlIGlzIE1JVC4gVW56aXAgYW5kIHJ1biDigJQgbm8gYWN0aXZhdGlvbiBzdGVwLicsCiAgICAgICAgICAgICAgICAnJywKICAgICAgICAgICAgICAgICcjIyMjIPCfk5YgV2hhdCB5b3UgZ290IC8g5L2g5Lmw5Yiw5LqG5LuA5LmIJywKICAgICAgICAgICAgICAgICctIDI2IHN0YXRpYyBydWxlcyBzb3VyY2VkIGZyb20gYSAzNjgtZW50cnkgZmFpbHVyZS1tb2RlIGNhbm9uJywKICAgICAgICAgICAgICAgICctIEV2ZXJ5IGZpbmRpbmcgY2l0ZXMgdGhlIGNhbm9uIElEIGl0IGNhbWUgZnJvbScsCiAgICAgICAgICAgICAgICAnLSBaZXJvIGRlcGVuZGVuY3ksIE1JVCBsaWNlbnNlZCwgcnVucyBvbiBQeXRob24gMy44KycsCiAgICAgICAgICAgICAgICAnLSBSZXBvcnRlZDogMTAvMTAgc2VlZGVkIGRlZmVjdHMgY2F1Z2h0LCAwIGZhbHNlIHBvc2l0aXZlcyBvbiBjb25mb3JtaW5nIGNvZGUnLAogICAgICAgICAgICAgICAgJycsCiAgICAgICAgICAgICAgICAnIyMjIyDinZMgUHJvYmxlbT8nLAogICAgICAgICAgICAgICAgJ1JlcGx5IHRvIHRoaXMgaXNzdWUgb3IgZW1haWwgYDc3ODEzMTQwMEBxcS5jb21gLicsCiAgICAgICAgICAgICAgICAnJywKICAgICAgICAgICAgICAgICdfQXV0b21hdGVkIGJ5IE9yZGVyIEF1dG8tRnVsZmlsbC4g5pys5p2h55Sx6Ieq5Yqo5YyW5bel5L2c5rWB5Y+R5Ye644CCXycKICAgICAgICAgICAgICBdLmpvaW4oJ1xuJykKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBhd2FpdCBnaXRodWIucmVzdC5pc3N1ZXMuYWRkTGFiZWxzKHsKICAgICAgICAgICAgICBvd25lcjogY29udGV4dC5yZXBvLm93bmVyLCByZXBvOiBjb250ZXh0LnJlcG8ucmVwbywgaXNzdWVfbnVtYmVyOiBudW0sCiAgICAgICAgICAgICAgbGFiZWxzOiBbJ29yZGVyJywgJ2Z1bGZpbGxlZCddCiAgICAgICAgICAgIH0pOwogICAgICAgICAgICBhd2FpdCBnaXRodWIucmVzdC5pc3N1ZXMudXBkYXRlKHsKICAgICAgICAgICAgICBvd25lcjogY29udGV4dC5yZXBvLm93bmVyLCByZXBvOiBjb250ZXh0LnJlcG8ucmVwbywgaXNzdWVfbnVtYmVyOiBudW0sCiAgICAgICAgICAgICAgc3RhdGU6ICdjbG9zZWQnCiAgICAgICAgICAgIH0pOwoKICAgICAgLSBuYW1lOiBEYWlseSBkaWdlc3QgbWFya2VyCiAgICAgICAgdXNlczogYWN0aW9ucy9naXRodWItc2NyaXB0QHY3CiAgICAgICAgd2l0aDoKICAgICAgICAgIHNjcmlwdDogfAogICAgICAgICAgICBjb3JlLmluZm8oJ2Z1bGZpbGwgZG9uZSBmb3IgIycgKyBjb250ZXh0LnBheWxvYWQuaXNzdWUubnVtYmVyKTsK
+name: Order Auto-Fulfill
+
+# 客户在落地页点 "I've paid" -> 打开带 order label 的 issue
+# Actions 自动校验订单号格式 -> 自动回复下载链接 -> 打标签 -> 关闭
+# 不需要 SMTP：全程走 GitHub Issues API，repo 自带权限
+
+on:
+  issues:
+    types: [opened, reopened]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  fulfill:
+    if: contains(github.event.issue.labels.*.name, 'order')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Parse order
+        id: parse
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body || '';
+            const num  = context.payload.issue.number;
+
+            // 抓取 tier
+            let tier = 'unknown';
+            const mTier = body.match(/tier\s*[:：]\s*(starter|pro|team|free)/i);
+            if (mTier) tier = mTier[1].toLowerCase();
+
+            // 抓取汇款参考号（>=6 位字母数字，允许 - 和空格）
+            let ref = null;
+            const mRef = body.match(/reference\s*[:：]\s*([A-Za-z0-9][A-Za-z0-9\- ]{5,})/i);
+            if (mRef) ref = mRef[1].trim();
+
+            // 抓取联系邮箱
+            let mail = null;
+            const mMail = body.match(/email\s*[:：]\s*(\S+@\S+)/i);
+            if (mMail) mail = mMail[1];
+
+            core.setOutput('tier', tier);
+            core.setOutput('ref', ref || '');
+            core.setOutput('mail', mail || '');
+            core.setOutput('valid', String(!!(ref && tier !== 'unknown')));
+
+            core.info(`order #${num} tier=${tier} ref=${ref} valid=${!!ref}`);
+
+      - name: Reply with download link
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const tier = '${{ steps.parse.outputs.tier }}';
+            const ref  = '${{ steps.parse.outputs.ref }}';
+            const valid = '${{ steps.parse.outputs.valid }}' === 'true';
+            const num  = context.payload.issue.number;
+
+            const RAW = 'https://raw.githubusercontent.com/zhumeiyan/evalguard/main';
+            const LINKS = {
+              starter: RAW + '/canon/canon_zh.json',
+              pro:     RAW + '/dist/evalguard-v0.3.0.zip',
+              team:    RAW + '/dist/evalguard-v0.3.0.zip',
+              free:    RAW + '/canon/canon_zh.json'
+            };
+
+            if (!valid) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo, issue_number: num,
+                body: [
+                  '### ⚠️ Order incomplete — 订单信息不完整',
+                  '',
+                  'We could not parse a valid **tier** and **remittance reference**.',
+                  '无法解析出有效的 **档位** 和 **汇款参考号**，请补充后重新打开此 issue。',
+                  '',
+                  'Required format / 必需格式：',
+                  '```',
+                  'tier: starter        # starter | pro | team',
+                  'reference: ABC123456 # remit.alipay.com 给你的参考号，>=6 位',
+                  'email: you@corp.com  # 可选，用于补发',
+                  '```',
+                  '',
+                  '_This is an automated reply. 这是一条自动回复。_'
+                ].join('\n')
+              });
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner, repo: context.repo.repo, issue_number: num,
+                labels: ['order', 'needs-info']
+              });
+              return;
+            }
+
+            const link = LINKS[tier] || LINKS.starter;
+            const price = { starter: '$29', pro: '$99', team: '$499', free: '$0' }[tier] || '$29';
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: num,
+              body: [
+                '### ✅ Order received — 已收到订单',
+                '',
+                `- **Tier**: \`${tier}\` (${price})`,
+                `- **Reference**: \`${ref}\``,
+                '',
+                '#### 📦 Download / 下载',
+                `[evalguard-v0.3.0.zip](${link})`,
+                '',
+                '```bash',
+                'unzip evalguard-v0.3.0.zip && cd evalguard-v0.3.0',
+                'python3 -m evalguard your_eval.py       # 16 rules, free',
+                'python3 -m evalguard your_eval.py --pro # 26 rules, PRO',
+                '```',
+                '',
+                '#### 🔑 No license key needed / 无需授权码',
+                'The package is MIT. Unzip and run — no activation step.',
+                '',
+                '#### 📖 What you got / 你买到了什么',
+                '- 26 static rules sourced from a 368-entry failure-mode canon',
+                '- Every finding cites the canon ID it came from',
+                '- Zero dependency, MIT licensed, runs on Python 3.8+',
+                '- Reported: 10/10 seeded defects caught, 0 false positives on conforming code',
+                '',
+                '#### ❓ Problem?',
+                'Reply to this issue or email `778131400@qq.com`.',
+                '',
+                '_Automated by Order Auto-Fulfill. 本条由自动化工作流发出。_'
+              ].join('\n')
+            });
+
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: num,
+              labels: ['order', 'fulfilled']
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: num,
+              state: 'closed'
+            });
+
+      - name: Daily digest marker
+        uses: actions/github-script@v7
+        with:
+          script: |
+            core.info('fulfill done for #' + context.payload.issue.number);

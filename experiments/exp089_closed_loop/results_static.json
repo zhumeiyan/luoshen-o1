@@ -1,1 +1,84 @@
-ewogInJlc3VsdHMiOiBbCiAgewogICAid29ybGQiOiAic3RhdGljIiwKICAgInNodWZmbGUiOiAwLAogICAibW9kYWwiOiAwLjAsCiAgICJrIjogIjEiLAogICAibiI6IDgsCiAgICJzdWNjZXNzIjogMS4wLAogICAib2JzX21lYW4iOiA0LjAsCiAgICJlcnJfbWVhbiI6IDAuMAogIH0sCiAgewogICAid29ybGQiOiAic3RhdGljIiwKICAgInNodWZmbGUiOiAwLAogICAibW9kYWwiOiAwLjAsCiAgICJrIjogIjIiLAogICAibiI6IDgsCiAgICJzdWNjZXNzIjogMS4wLAogICAib2JzX21lYW4iOiAyLjAsCiAgICJlcnJfbWVhbiI6IDAuMAogIH0sCiAgewogICAid29ybGQiOiAic3RhdGljIiwKICAgInNodWZmbGUiOiAwLAogICAibW9kYWwiOiAwLjAsCiAgICJrIjogIjQiLAogICAibiI6IDgsCiAgICJzdWNjZXNzIjogMS4wLAogICAib2JzX21lYW4iOiAxLjAsCiAgICJlcnJfbWVhbiI6IDAuMAogIH0sCiAgewogICAid29ybGQiOiAic3RhdGljIiwKICAgInNodWZmbGUiOiAwLAogICAibW9kYWwiOiAwLjAsCiAgICJrIjogIm9wZW4iLAogICAibiI6IDgsCiAgICJzdWNjZXNzIjogMS4wLAogICAib2JzX21lYW4iOiAxLjAsCiAgICJlcnJfbWVhbiI6IDAuMAogIH0KIF0sCiAiZGlhZyI6IHsKICAidGVtcGxhdGVzX2J1aWx0IjogWwogICAiQUxQSEEiLAogICAiQkVUQSIsCiAgICJDTE9TRSIsCiAgICJERUxUQSIsCiAgICJHQU1NQSIKICBdLAogICJ0ZW1wbGF0ZXNfc291cmNlIjogImNhY2hlIiwKICAiY2hhbm5lbF9hZ3JlZW1lbnQiOiB7CiAgICJhZ3JlZSI6IDgsCiAgICJ0b3RhbCI6IDgsCiAgICJyYXRlIjogMS4wCiAgfSwKICAibW91c2VfZXZlbnRzIjogMywKICAibW91c2Vfc2FtcGxlIjogWwogICB7CiAgICAidCI6ICJtb3VzZWRvd24iLAogICAgIngiOiAxNjQsCiAgICAieSI6IDUyMiwKICAgICJ0ZyI6ICJCRVRBIiwKICAgICJ0cyI6IDE3OTIyMDExODUyOTQKICAgfSwKICAgewogICAgInQiOiAibW91c2V1cCIsCiAgICAieCI6IDE2NCwKICAgICJ5IjogNTIyLAogICAgInRnIjogIkJFVEEiLAogICAgInRzIjogMTc5MjIwMTE4NTI5NAogICB9LAogICB7CiAgICAidCI6ICJjbGljayIsCiAgICAieCI6IDE2NCwKICAgICJ5IjogNTIyLAogICAgInRnIjogIkJFVEEiLAogICAgInRzIjogMTc5MjIwMTE4NTI5NAogICB9CiAgXSwKICAiZWxhcHNlZF9zIjogNDkuMgogfQp9
+{
+ "results": [
+  {
+   "world": "static",
+   "shuffle": 0,
+   "modal": 0.0,
+   "k": "1",
+   "n": 8,
+   "success": 1.0,
+   "obs_mean": 4.0,
+   "err_mean": 0.0
+  },
+  {
+   "world": "static",
+   "shuffle": 0,
+   "modal": 0.0,
+   "k": "2",
+   "n": 8,
+   "success": 1.0,
+   "obs_mean": 2.0,
+   "err_mean": 0.0
+  },
+  {
+   "world": "static",
+   "shuffle": 0,
+   "modal": 0.0,
+   "k": "4",
+   "n": 8,
+   "success": 1.0,
+   "obs_mean": 1.0,
+   "err_mean": 0.0
+  },
+  {
+   "world": "static",
+   "shuffle": 0,
+   "modal": 0.0,
+   "k": "open",
+   "n": 8,
+   "success": 1.0,
+   "obs_mean": 1.0,
+   "err_mean": 0.0
+  }
+ ],
+ "diag": {
+  "templates_built": [
+   "ALPHA",
+   "BETA",
+   "CLOSE",
+   "DELTA",
+   "GAMMA"
+  ],
+  "templates_source": "cache",
+  "channel_agreement": {
+   "agree": 8,
+   "total": 8,
+   "rate": 1.0
+  },
+  "mouse_events": 3,
+  "mouse_sample": [
+   {
+    "t": "mousedown",
+    "x": 164,
+    "y": 522,
+    "tg": "BETA",
+    "ts": 1792201185294
+   },
+   {
+    "t": "mouseup",
+    "x": 164,
+    "y": 522,
+    "tg": "BETA",
+    "ts": 1792201185294
+   },
+   {
+    "t": "click",
+    "x": 164,
+    "y": 522,
+    "tg": "BETA",
+    "ts": 1792201185294
+   }
+  ],
+  "elapsed_s": 49.2
+ }
+}

@@ -1,1 +1,60 @@
-IiIi6Lev55SxL2FnZW50IOiwgyBwcm92aWRlciDnmoTnu5/kuIDlhaXlj6M6IOaKiuS4ieenjeWksei0pee/u+aIkOS4ieenjeS4iuWxguiDveWIhui+qOeahOe7k+aenOOAggoK5Li65LuA5LmI6Z2e6KaB5LiA5Liq572R5YWz6ICM5LiN5piv5ZCE5aSE6Ieq5bexIHRyeTog5Zug5Li6IuayoeaOpeWFpSAvIOWHreivgeWkseaViCAvIOi/measoeayoeWPluWIsCLlv4XpobvlnKjnlYzpnaLkuIoK6ZW/5b6X5LiN5LiA5qC3IOKAlOKAlCDmsqHmjqXlhaXor6XlvJXlr7zljrvoo4UgcHJvdmlkZXIsIOWHreivgeWkseaViOivpeW8leWvvOWOu+mHjeWhqywg5Y+W5pWw5aSx6LSl6K+l6K+0IueojeWQjuWGjeivlSLjgIIK5pWj5Zyo5ZCE6Lev55Sx6YeM5YaZIHRyeSDnmoTnu5PmnpzlsLHmmK/kuInogIXov5/ml6nooqvljovmiJDlkIzkuIDkuKrnqbrnirbmgIEsIOeUqOaIt+WvueedgOepuueVjOmdoueMnOaYr+WTquS4gOenjeOAggoK6L+U5Zue57qm5a6aKOWJjeerr+aNruatpOWIhuaUryk6CiAgICB7ImF2YWlsYWJsZSI6IEZhbHNlLCAuLi59ICAgICAgICAgIOayoeaOpSBwcm92aWRlciAvIOi/meS4qiBwcm92aWRlciDkuI3mj5Dkvpvov5npobnog73lipsKICAgIHsibmVlZF9sb2dpbiI6IFRydWUsICJlcnJvciI6IC4uLn0g5Yet6K+B5pyq6YWN5oiW5bey5aSx5pWICiAgICB7ImVycm9yIjogLi4ufSAgICAgICAgICAgICAgICAgICAgIOi/measoeayoeWPluWIsCjnvZHnu5wv5a+55pa55oql6ZSZKQogICAg5YW25a6DICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm92aWRlciDnmoTmraPluLjov5Tlm54sIOWOn+agt+mAj+S8oAoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSBzZXJ2aWNlcy5wcm92aWRlcnMuYmFzZSBpbXBvcnQgQ2FwYWJpbGl0eVVuYXZhaWxhYmxlLCBQcm92aWRlckF1dGhFcnJvciwgUHJvdmlkZXJFcnJvcgpmcm9tIHNlcnZpY2VzLnByb3ZpZGVycy5yZWdpc3RyeSBpbXBvcnQgZ2V0X3Byb3ZpZGVyLCBsb2FkX2Vycm9yCgoKZGVmIHVuYXZhaWxhYmxlKGNhcGFiaWxpdHk6IHN0ciwgbm90ZTogc3RyID0gIiIpIC0+IGRpY3Q6CiAgICBlcnIgPSBsb2FkX2Vycm9yKCkKICAgIHJldHVybiB7ImF2YWlsYWJsZSI6IEZhbHNlLCAiY2FwYWJpbGl0eSI6IGNhcGFiaWxpdHksCiAgICAgICAgICAgICJub3RlIjogbm90ZSBvciAoZXJyIG9yICLmnKrmjqXlhaXmianlsZXmlbDmja7mupDjgILor6Xlj6PlvoTnlLHlj6/pgInnmoQgcHJvdmlkZXIg5o+Q5L6bLCAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIumFjee9riBNQVJLRVRfUFJPVklERVIg5ZCO5Y+v55SoOyDkuI3phY3kuZ/kuI3lvbHlk43lhbblroPlip/og73jgIIiKX0KCgphc3luYyBkZWYgY2FsbChjYXBhYmlsaXR5OiBzdHIsICphcmdzLCAqKmt3YXJncykgLT4gZGljdDoKICAgICIiIuiwg+W9k+WJjSBwcm92aWRlciDnmoTmn5Dpobnog73lipvjgIJjYXBhYmlsaXR5IOWQjOaXtuaYryBiYXNlIOS4iueahOaWueazleWQjeOAgiIiIgogICAgcCA9IGF3YWl0IGdldF9wcm92aWRlcigpCiAgICBpZiBub3QgcC5zdXBwb3J0cyhjYXBhYmlsaXR5KToKICAgICAgICByZXR1cm4gdW5hdmFpbGFibGUoY2FwYWJpbGl0eSkKICAgIHRyeToKICAgICAgICByZXR1cm4gYXdhaXQgZ2V0YXR0cihwLCBjYXBhYmlsaXR5KSgqYXJncywgKiprd2FyZ3MpCiAgICBleGNlcHQgQ2FwYWJpbGl0eVVuYXZhaWxhYmxlOgogICAgICAgIHJldHVybiB1bmF2YWlsYWJsZShjYXBhYmlsaXR5KQogICAgZXhjZXB0IFByb3ZpZGVyQXV0aEVycm9yIGFzIGU6CiAgICAgICAgcmV0dXJuIHsiZXJyb3IiOiBzdHIoZSksICJuZWVkX2xvZ2luIjogVHJ1ZX0KICAgIGV4Y2VwdCBQcm92aWRlckVycm9yIGFzIGU6CiAgICAgICAgcmV0dXJuIHsiZXJyb3IiOiBzdHIoZSl9CiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6ICAgICAgICAgICAgICAgICAgICAjIHByb3ZpZGVyIOaYr+WklumDqOS7o+eggSwg5LiN6K6p5a6D5oqK6Lev55Sx5bim5bSpCiAgICAgICAgcmV0dXJuIHsiZXJyb3IiOiBmIuaJqeWxleaVsOaNrua6kOWPluaVsOWksei0pToge2V9In0KCgphc3luYyBkZWYgdHJ5X2NhbGwoY2FwYWJpbGl0eTogc3RyLCAqYXJncywgKiprd2FyZ3MpOgogICAgIiIi5Y+q5ZyoKirmiJDlip/mi7/liLDmlbDmja4qKuaXtui/lOWbnue7k+aenCwg5YW25L2Z5LiA5b6LIE5vbmXjgIIKCiAgICDnlKjkuo4i6ZSm5LiK5re76IqxIueahOaXgei3ryjlpoLmg4Xnu6rpnaLnmoTnrKzkuozmlbDmja7mupApOiDpgqPnp43lnLDmlrnmi7/kuI3liLDlsLHmlbTlnZfnnIHmjoksIOS4jeivpeaKigogICAg5pyq5o6l5YWlL+WkseaViOeahOaPkOekuua3t+i/m+S4u+WPo+W+hOeahOi/lOWbnumHjOOAggogICAgIiIiCiAgICBwID0gYXdhaXQgZ2V0X3Byb3ZpZGVyKCkKICAgIGlmIG5vdCBwLnN1cHBvcnRzKGNhcGFiaWxpdHkpOgogICAgICAgIHJldHVybiBOb25lCiAgICB0cnk6CiAgICAgICAgciA9IGF3YWl0IGdldGF0dHIocCwgY2FwYWJpbGl0eSkoKmFyZ3MsICoqa3dhcmdzKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gTm9uZQogICAgcmV0dXJuIHIgb3IgTm9uZQoKCmFzeW5jIGRlZiBjYXBhYmlsaXRpZXMoKSAtPiBmcm96ZW5zZXQ6CiAgICByZXR1cm4gKGF3YWl0IGdldF9wcm92aWRlcigpKS5jYXBhYmlsaXRpZXMK
+"""路由/agent 调 provider 的统一入口: 把三种失败翻成三种上层能分辨的结果。
+
+为什么非要一个网关而不是各处自己 try: 因为"没接入 / 凭证失效 / 这次没取到"必须在界面上
+长得不一样 —— 没接入该引导去装 provider, 凭证失效该引导去重填, 取数失败该说"稍后再试"。
+散在各路由里写 try 的结果就是三者迟早被压成同一个空状态, 用户对着空界面猜是哪一种。
+
+返回约定(前端据此分支):
+    {"available": False, ...}          没接 provider / 这个 provider 不提供这项能力
+    {"need_login": True, "error": ...} 凭证未配或已失效
+    {"error": ...}                     这次没取到(网络/对方报错)
+    其它                                provider 的正常返回, 原样透传
+"""
+from __future__ import annotations
+
+from services.providers.base import CapabilityUnavailable, ProviderAuthError, ProviderError
+from services.providers.registry import get_provider, load_error
+
+
+def unavailable(capability: str, note: str = "") -> dict:
+    err = load_error()
+    return {"available": False, "capability": capability,
+            "note": note or (err or "未接入扩展数据源。该口径由可选的 provider 提供, "
+                             "配置 MARKET_PROVIDER 后可用; 不配也不影响其它功能。")}
+
+
+async def call(capability: str, *args, **kwargs) -> dict:
+    """调当前 provider 的某项能力。capability 同时是 base 上的方法名。"""
+    p = await get_provider()
+    if not p.supports(capability):
+        return unavailable(capability)
+    try:
+        return await getattr(p, capability)(*args, **kwargs)
+    except CapabilityUnavailable:
+        return unavailable(capability)
+    except ProviderAuthError as e:
+        return {"error": str(e), "need_login": True}
+    except ProviderError as e:
+        return {"error": str(e)}
+    except Exception as e:                    # provider 是外部代码, 不让它把路由带崩
+        return {"error": f"扩展数据源取数失败: {e}"}
+
+
+async def try_call(capability: str, *args, **kwargs):
+    """只在**成功拿到数据**时返回结果, 其余一律 None。
+
+    用于"锦上添花"的旁路(如情绪面的第二数据源): 那种地方拿不到就整块省掉, 不该把
+    未接入/失效的提示混进主口径的返回里。
+    """
+    p = await get_provider()
+    if not p.supports(capability):
+        return None
+    try:
+        r = await getattr(p, capability)(*args, **kwargs)
+    except Exception:
+        return None
+    return r or None
+
+
+async def capabilities() -> frozenset:
+    return (await get_provider()).capabilities

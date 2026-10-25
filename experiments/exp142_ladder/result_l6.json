@@ -1,1 +1,21 @@
-ewogICJMNiI6IHsKICAgICJhdXRvYmlvZ3JhcGh5IjogewogICAgICAiY2F1c2FsIjogMC44OTc1LAogICAgICAibG9nIjogMC43NzQ1LAogICAgICAicGFzc18iOiB0cnVlCiAgICB9LAogICAgIm1vcnRhbGl0eSI6IHsKICAgICAgIm1vcnRhbCI6IDEuMCwKICAgICAgImltbW9ydGFsIjogMC4xMzEyNDk5OTk5OTk5OTk5OCwKICAgICAgInBhc3NfIjogdHJ1ZQogICAgfSwKICAgICJjdWx0dXJlIjogewogICAgICAiaW5oZXJpdCI6IDAuOTcyNDk5OTk5OTk5OTk5OSwKICAgICAgInNjcmF0Y2giOiAwLjc0NTUsCiAgICAgICJ3cm9uZyI6IDAuNzE0LAogICAgICAicGFzc18iOiB0cnVlLAogICAgICAid3Jvbmdfd29yc2UiOiB0cnVlCiAgICB9CiAgfQp9
+{
+  "L6": {
+    "autobiography": {
+      "causal": 0.8975,
+      "log": 0.7745,
+      "pass_": true
+    },
+    "mortality": {
+      "mortal": 1.0,
+      "immortal": 0.13124999999999998,
+      "pass_": true
+    },
+    "culture": {
+      "inherit": 0.9724999999999999,
+      "scratch": 0.7455,
+      "wrong": 0.714,
+      "pass_": true,
+      "wrong_worse": true
+    }
+  }
+}

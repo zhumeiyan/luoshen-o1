@@ -1,1 +1,53 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG1hdGgsIG9zLCBzeXMKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKZnJvbSBydW4xODggaW1wb3J0IGxvYWQsIGNvbXByZXNzLCBldmFsdWF0ZSwgaGVhcHMsIGZpdF9wb3dlcgpzZXEgPSBsb2FkKCk7IEssIGJldGEsIF8gPSBmaXRfcG93ZXIoaGVhcHMoc2VxKSk7IFZNQVg9ZmxvYXQobGVuKHNldChzZXEpKSkKc3BsaXQ9aW50KGxlbihzZXEpKjAuOCk7IGZwdHM9W10KZm9yIE0gaW4gWzUyOCw0MDAsMjAwLDEwMCw1MCwzMCwxNiw4LDQsMl06CiAgICBpZiBNPmxlbihzZXQoc2VxKSk6IGNvbnRpbnVlCiAgICBjLHY9Y29tcHJlc3Moc2VxLE0pOyBiZXN0PU5vbmUKICAgIGZvciBrIGluIHJhbmdlKDEsNyk6CiAgICAgICAgcj1ldmFsdWF0ZShjWzpzcGxpdF0sY1tzcGxpdDpdLGssdikKICAgICAgICBpZiByIGFuZCAoYmVzdCBpcyBOb25lIG9yIHJbImFjYyJdPmJlc3RbImFjYyJdKTogYmVzdD1yCiAgICBmcHRzLmFwcGVuZCgobGVuKHNldChjKSksIG1hdGgubG9nMihNKS1iZXN0WyJiaXRzIl0pKQpmcHRzLnNvcnQoKQpkZWYgZihWKToKICAgIGlmIFY8PWZwdHNbMF1bMF06IHJldHVybiBmcHRzWzBdWzFdCiAgICBpZiBWPj1mcHRzWy0xXVswXTogcmV0dXJuIGZwdHNbLTFdWzFdCiAgICBmb3IgaSBpbiByYW5nZShsZW4oZnB0cyktMSk6CiAgICAgICAgYSxiPWZwdHNbaV0sZnB0c1tpKzFdCiAgICAgICAgaWYgYVswXTw9Vjw9YlswXTogcmV0dXJuIGFbMV0rKFYtYVswXSkvKGJbMF0tYVswXSkqKGJbMV0tYVsxXSkKICAgIHJldHVybiBmcHRzWy0xXVsxXQpkZWYgc2ltKHN0cmF0ZWd5LGJ1ZGdldCxWMCxwYXJhbT1Ob25lKToKICAgIE49KFYwL0spKiooMS9iZXRhKTsgVj1WMDsgZz0wLjA7IHM9MAogICAgd2hpbGUgczxidWRnZXQ6CiAgICAgICAgaWYgc3RyYXRlZ3k9PSJhbHRlcm5hdGUiOiBhY3Q9ImV4cGxvcmUiIGlmIHMlKHBhcmFtKzEpPT0wIGVsc2UgImV4cGxvaXQiCiAgICAgICAgZWxpZiBzdHJhdGVneT09ImdyZWVkeSI6CiAgICAgICAgICAgIFZhPW1pbihWTUFYLEsqKChOKzEuMCkqKmJldGEpKQogICAgICAgICAgICBhY3Q9ImV4cGxvcmUiIGlmIChmKFZhKS1mKFYpKSooYnVkZ2V0LXMtMSk+ZihWKSBlbHNlICJleHBsb2l0IgogICAgICAgIGVsc2U6IGFjdD1zdHJhdGVneQogICAgICAgIGlmIGFjdD09ImV4cGxvcmUiOiBOKz0xLjA7IFY9bWluKFZNQVgsSyooTioqYmV0YSkpCiAgICAgICAgZWxzZTogZys9ZihWKQogICAgICAgIHMrPTEKICAgIHJldHVybiBnCmdyaWQ9bGlzdChyYW5nZSgxLDQxKSkKcm93cz1bXQpmb3IgYSBpbiBncmlkOgogICAgZz1zaW0oImFsdGVybmF0ZSIsMTQwMDAsOC4wLGEpCiAgICBmaWIgPSBhIGluIHsxLDIsMyw1LDgsMTMsMjEsMzR9CiAgICByb3dzLmFwcGVuZCh7ImEiOmEsImdhaW4iOmcsImlzX2ZpYm9uYWNjaSI6ZmlifSkKdG9wPXNvcnRlZChyb3dzLGtleT1sYW1iZGEgcjotclsiZ2FpbiJdKVs6MTBdCm5vbmZpYj1zb3J0ZWQoW3IgZm9yIHIgaW4gcm93cyBpZiBub3QgclsiaXNfZmlib25hY2NpIl1dLGtleT1sYW1iZGEgcjotclsiZ2FpbiJdKVs6NV0KZ3JlZWR5PXNpbSgiZ3JlZWR5IiwxNDAwMCw4LjApCmpzb24uZHVtcCh7ImdyaWRfc2NhbiI6cm93cywidG9wMTAiOnRvcCwidG9wNV9ub25maWJvbmFjY2kiOm5vbmZpYiwiZ3JlZWR5IjpncmVlZHl9LAogICAgICAgICAgb3BlbigiZ3JpZDE4OC5qc29uIiwidyIsZW5jb2Rpbmc9InV0Zi04IiksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0yKQpwcmludCgi5YWo572R5qC8IHRvcDEwIChhLCDkuqflh7osIOaYr+WQpuaWkOazoumCo+WlkSk6IikKZm9yIHIgaW4gdG9wOiBwcmludCgiICBhPSUyZCAgJTEwLjFmICBmaWI9JXMiJShyWyJhIl0sclsiZ2FpbiJdLHJbImlzX2ZpYm9uYWNjaSJdKSkKcHJpbnQoIumdnuaWkOazoumCo+WlkSB0b3A1OiIpCmZvciByIGluIG5vbmZpYjogcHJpbnQoIiAgYT0lMmQgICUxMC4xZiIlKHJbImEiXSxyWyJnYWluIl0pKQpwcmludCgi6LSq5b+D5YiH5o2iOiAlLjFmIiVncmVlZHkpCmJlc3Rfb3ZlcmFsbD1tYXgocm93cyxrZXk9bGFtYmRhIHI6clsiZ2FpbiJdKQpwcmludCgi5pyA5LyYIGEgPSAlZCAoZmliPSVzKSwg6LSq5b+DIHZzIOacgOS8mOWbuuWumuS6pOabvzogJS4xZiB2cyAlLjFmIiUoYmVzdF9vdmVyYWxsWyJhIl0sYmVzdF9vdmVyYWxsWyJpc19maWJvbmFjY2kiXSxncmVlZHksYmVzdF9vdmVyYWxsWyJnYWluIl0pKQojIOajgOafpSBhPTEzIOmZhOi/keaYr+WQpuW5s+a7ke+8iOecn+WzsOWAvCB2cyDnvZHmoLzlgYfosaHvvIkKcHJpbnQoImE9MTAuLjE3OiIsIFsoclsiYSJdLHJvdW5kKHJbImdhaW4iXSkpIGZvciByIGluIHJvd3MgaWYgMTA8PXJbImEiXTw9MTddKQo=
+# -*- coding: utf-8 -*-
+import json, math, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from run188 import load, compress, evaluate, heaps, fit_power
+seq = load(); K, beta, _ = fit_power(heaps(seq)); VMAX=float(len(set(seq)))
+split=int(len(seq)*0.8); fpts=[]
+for M in [528,400,200,100,50,30,16,8,4,2]:
+    if M>len(set(seq)): continue
+    c,v=compress(seq,M); best=None
+    for k in range(1,7):
+        r=evaluate(c[:split],c[split:],k,v)
+        if r and (best is None or r["acc"]>best["acc"]): best=r
+    fpts.append((len(set(c)), math.log2(M)-best["bits"]))
+fpts.sort()
+def f(V):
+    if V<=fpts[0][0]: return fpts[0][1]
+    if V>=fpts[-1][0]: return fpts[-1][1]
+    for i in range(len(fpts)-1):
+        a,b=fpts[i],fpts[i+1]
+        if a[0]<=V<=b[0]: return a[1]+(V-a[0])/(b[0]-a[0])*(b[1]-a[1])
+    return fpts[-1][1]
+def sim(strategy,budget,V0,param=None):
+    N=(V0/K)**(1/beta); V=V0; g=0.0; s=0
+    while s<budget:
+        if strategy=="alternate": act="explore" if s%(param+1)==0 else "exploit"
+        elif strategy=="greedy":
+            Va=min(VMAX,K*((N+1.0)**beta))
+            act="explore" if (f(Va)-f(V))*(budget-s-1)>f(V) else "exploit"
+        else: act=strategy
+        if act=="explore": N+=1.0; V=min(VMAX,K*(N**beta))
+        else: g+=f(V)
+        s+=1
+    return g
+grid=list(range(1,41))
+rows=[]
+for a in grid:
+    g=sim("alternate",14000,8.0,a)
+    fib = a in {1,2,3,5,8,13,21,34}
+    rows.append({"a":a,"gain":g,"is_fibonacci":fib})
+top=sorted(rows,key=lambda r:-r["gain"])[:10]
+nonfib=sorted([r for r in rows if not r["is_fibonacci"]],key=lambda r:-r["gain"])[:5]
+greedy=sim("greedy",14000,8.0)
+json.dump({"grid_scan":rows,"top10":top,"top5_nonfibonacci":nonfib,"greedy":greedy},
+          open("grid188.json","w",encoding="utf-8"),ensure_ascii=False,indent=2)
+print("全网格 top10 (a, 产出, 是否斐波那契):")
+for r in top: print("  a=%2d  %10.1f  fib=%s"%(r["a"],r["gain"],r["is_fibonacci"]))
+print("非斐波那契 top5:")
+for r in nonfib: print("  a=%2d  %10.1f"%(r["a"],r["gain"]))
+print("贪心切换: %.1f"%greedy)
+best_overall=max(rows,key=lambda r:r["gain"])
+print("最优 a = %d (fib=%s), 贪心 vs 最优固定交替: %.1f vs %.1f"%(best_overall["a"],best_overall["is_fibonacci"],greedy,best_overall["gain"]))
+# 检查 a=13 附近是否平滑（真峰值 vs 网格假象）
+print("a=10..17:", [(r["a"],round(r["gain"])) for r in rows if 10<=r["a"]<=17])

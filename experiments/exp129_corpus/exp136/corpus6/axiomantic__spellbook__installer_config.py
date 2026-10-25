@@ -1,1 +1,311 @@
-IiIiCkNvbmZpZ3VyYXRpb24gY29uc3RhbnRzIGFuZCBwbGF0Zm9ybSBzZXR0aW5ncyBmb3Igc3BlbGxib29rIGluc3RhbGxlci4KIiIiCgppbXBvcnQgbG9nZ2luZwppbXBvcnQgb3MKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIE9wdGlvbmFsCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCiMgU3BlbGxib29rJ3Mgb3duIGNvbmZpZyBkaXJlY3RvcnkgKHBsYXRmb3JtLWFnbm9zdGljKQojIFRoaXMgaXMgd2hlcmUgc3BlbGxib29rIHN0b3JlcyBpdHMgb3V0cHV0czogcHJvamVjdHMsIGxvZ3MsIGRpc3RpbGxlZCBzZXNzaW9ucywgZXRjLgpTUEVMTEJPT0tfQ09ORklHX0RJUl9FTlYgPSAiU1BFTExCT09LX0NPTkZJR19ESVIiClNQRUxMQk9PS19ERUZBVUxUX0NPTkZJR19ESVIgPSBQYXRoLmhvbWUoKSAvICIubG9jYWwiIC8gInNwZWxsYm9vayIKU1BFTExCT09LX01BQ0hJTkVfUEFUSFNfRklMRSA9IFNQRUxMQk9PS19ERUZBVUxUX0NPTkZJR19ESVIucGFyZW50LnBhcmVudCAvICIuY29uZmlnIiAvICJzcGVsbGJvb2siIC8gInBhdGhzLm1kIgoKCmRlZiBnZXRfc3BlbGxib29rX2NvbmZpZ19kaXIoKSAtPiBQYXRoOgogICAgIiIiCiAgICBHZXQgdGhlIHNwZWxsYm9vayBjb25maWd1cmF0aW9uIGRpcmVjdG9yeS4KCiAgICBSZXNvbHV0aW9uIG9yZGVyOgogICAgMS4gU1BFTExCT09LX0NPTkZJR19ESVIgZW52aXJvbm1lbnQgdmFyaWFibGUKICAgIDIuIH4vLmNvbmZpZy9zcGVsbGJvb2svcGF0aHMubWQgbWFjaGluZSBjb25maWcgZmlsZQogICAgMy4gfi8ubG9jYWwvc3BlbGxib29rIChwb3J0YWJsZSBkZWZhdWx0KQogICAgIiIiCiAgICBjb25maWdfZGlyID0gb3MuZW52aXJvbi5nZXQoJ1NQRUxMQk9PS19DT05GSUdfRElSJykKICAgIGlmIGNvbmZpZ19kaXI6CiAgICAgICAgcmV0dXJuIFBhdGgoY29uZmlnX2RpcikKCiAgICBpZiBTUEVMTEJPT0tfTUFDSElORV9QQVRIU19GSUxFLmV4aXN0cygpOgogICAgICAgIHRyeToKICAgICAgICAgICAgZm9yIGxpbmUgaW4gU1BFTExCT09LX01BQ0hJTkVfUEFUSFNfRklMRS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04Iikuc3BsaXRsaW5lcygpOgogICAgICAgICAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCJTUEVMTEJPT0tfQ09ORklHX0RJUj0iKToKICAgICAgICAgICAgICAgICAgICB2YWwgPSBsaW5lLnNwbGl0KCI9IiwgMSlbMV0uc3RyaXAoKQogICAgICAgICAgICAgICAgICAgIGlmIHZhbDoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFBhdGgodmFsKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICBwYXNzCgogICAgcmV0dXJuIFNQRUxMQk9PS19ERUZBVUxUX0NPTkZJR19ESVIKCgojIFN1cHBvcnRlZCBwbGF0Zm9ybXMgKEFJIGNvZGluZyBhc3Npc3RhbnRzIHRoYXQgY2FuIGNvbnN1bWUgc3BlbGxib29rKQpTVVBQT1JURURfUExBVEZPUk1TID0gWydjbGF1ZGVfY29kZScsICdhbnRpZ3Jhdml0eScsICdvcGVuY29kZScsICdjb2RleCcsICdnZW1pbmknLCAnZm9yZ2Vjb2RlJywgJ3BpJywgJ3ByaW1lX2FnZW50JywgJ2dvb3NlJ10KCiMgUGxhdGZvcm0gY29uZmlndXJhdGlvbgojIE5PVEU6IFRoZXNlIGFyZSB0aGUgQUkgYXNzaXN0YW50IHBsYXRmb3JtcyB0aGF0IGNvbnN1bWUgc3BlbGxib29rLgojIFNwZWxsYm9vaydzIG93biBjb25maWcgKFNQRUxMQk9PS19DT05GSUdfRElSKSBpcyBzZXBhcmF0ZSBmcm9tIHRoZXNlLgpQTEFURk9STV9DT05GSUc6IERpY3Rbc3RyLCBEaWN0W3N0ciwgQW55XV0gPSB7CiAgICAiY2xhdWRlX2NvZGUiOiB7CiAgICAgICAgIm5hbWUiOiAiQ2xhdWRlIENvZGUiLAogICAgICAgICJjb25maWdfZGlyX2VudiI6ICJDTEFVREVfQ09ORklHX0RJUiIsCiAgICAgICAgImRlZmF1bHRfY29uZmlnX2RpciI6IFBhdGguaG9tZSgpIC8gIi5jbGF1ZGUiLAogICAgICAgICJjbGlfZmxhZ19uYW1lIjogImNsYXVkZS1jb25maWctZGlyIiwKICAgICAgICAiY29udGV4dF9maWxlIjogIkNMQVVERS5tZCIsCiAgICAgICAgInNraWxsc19zdWJkaXIiOiAic2tpbGxzIiwKICAgICAgICAiY29tbWFuZHNfc3ViZGlyIjogImNvbW1hbmRzIiwKICAgICAgICAic2NyaXB0c19zdWJkaXIiOiAic2NyaXB0cyIsCiAgICAgICAgImFnZW50c19zdWJkaXIiOiAiYWdlbnRzIiwKICAgICAgICAicGF0dGVybnNfc3ViZGlyIjogInBhdHRlcm5zIiwKICAgICAgICAiZG9jc19zdWJkaXIiOiAiZG9jcyIsCiAgICAgICAgInBsYW5zX3N1YmRpciI6ICJwbGFucyIsCiAgICAgICAgIm1jcF9zdXBwb3J0ZWQiOiBUcnVlLAogICAgICAgICJtY3Bfc2VydmVyX25hbWUiOiAic3BlbGxib29rIiwKICAgIH0sCiAgICAiYW50aWdyYXZpdHkiOiB7CiAgICAgICAgIm5hbWUiOiAiQW50aWdyYXZpdHkiLAogICAgICAgICJjb25maWdfZGlyX2VudiI6ICJBTlRJR1JBVklUWV9DT05GSUdfRElSIiwKICAgICAgICAiZGVmYXVsdF9jb25maWdfZGlyIjogUGF0aC5ob21lKCkgLyAiLmdlbWluaSIgLyAiYW50aWdyYXZpdHkiLAogICAgICAgICJjbGlfZmxhZ19uYW1lIjogImFudGlncmF2aXR5LWNvbmZpZy1kaXIiLAogICAgICAgICJjb250ZXh0X2ZpbGUiOiAiQUdFTlRTLm1kIiwKICAgICAgICAic2tpbGxzX3N1YmRpciI6ICJza2lsbHMiLAogICAgICAgICJtY3Bfc3VwcG9ydGVkIjogVHJ1ZSwKICAgICAgICAibWNwX3NlcnZlcl9uYW1lIjogInNwZWxsYm9vayIsCiAgICB9LAogICAgIm9wZW5jb2RlIjogewogICAgICAgICJuYW1lIjogIk9wZW5Db2RlIiwKICAgICAgICAiY29uZmlnX2Rpcl9lbnYiOiAiT1BFTkNPREVfQ09ORklHX0RJUiIsCiAgICAgICAgImRlZmF1bHRfY29uZmlnX2RpciI6IFBhdGguaG9tZSgpIC8gIi5jb25maWciIC8gIm9wZW5jb2RlIiwKICAgICAgICAiY2xpX2ZsYWdfbmFtZSI6ICJvcGVuY29kZS1jb25maWctZGlyIiwKICAgICAgICAiY29udGV4dF9maWxlIjogIkFHRU5UUy5tZCIsCiAgICAgICAgIyBOb3RlOiBPcGVuQ29kZSByZWFkcyBza2lsbHMgZnJvbSB+Ly5jbGF1ZGUvc2tpbGxzLyogbmF0aXZlbHkKICAgICAgICAibWNwX3N1cHBvcnRlZCI6IFRydWUsCiAgICAgICAgIm1jcF9zZXJ2ZXJfbmFtZSI6ICJzcGVsbGJvb2siLAogICAgfSwKICAgICJjb2RleCI6IHsKICAgICAgICAibmFtZSI6ICJDb2RleCIsCiAgICAgICAgImNvbmZpZ19kaXJfZW52IjogIkNPREVYX0NPTkZJR19ESVIiLAogICAgICAgICJkZWZhdWx0X2NvbmZpZ19kaXIiOiBQYXRoLmhvbWUoKSAvICIuY29kZXgiLAogICAgICAgICJjbGlfZmxhZ19uYW1lIjogImNvZGV4LWNvbmZpZy1kaXIiLAogICAgICAgICJjb250ZXh0X2ZpbGUiOiAiQUdFTlRTLm1kIiwKICAgICAgICAic3BlbGxib29rX3N5bWxpbmsiOiAic3BlbGxib29rIiwgICMgU3ltbGluayB0byBzcGVsbGJvb2sgcm9vdAogICAgICAgICJtY3Bfc2VydmVyX25hbWUiOiAic3BlbGxib29rIiwKICAgICAgICAibWNwX3N1cHBvcnRlZCI6IFRydWUsCiAgICB9LAogICAgImdlbWluaSI6IHsKICAgICAgICAibmFtZSI6ICJHZW1pbmkgQ0xJIiwKICAgICAgICAiY29uZmlnX2Rpcl9lbnYiOiAiR0VNSU5JX0NPTkZJR19ESVIiLAogICAgICAgICJkZWZhdWx0X2NvbmZpZ19kaXIiOiBQYXRoLmhvbWUoKSAvICIuZ2VtaW5pIiwKICAgICAgICAiY2xpX2ZsYWdfbmFtZSI6ICJnZW1pbmktY29uZmlnLWRpciIsCiAgICAgICAgIyBDb250ZXh0IHByb3ZpZGVkIHZpYSBuYXRpdmUgZXh0ZW5zaW9uIHN5c3RlbSAoZ2VtaW5pIGV4dGVuc2lvbnMgbGluaykKICAgICAgICAjIEV4dGVuc2lvbiBhdCB+Ly5nZW1pbmkvZXh0ZW5zaW9ucy9zcGVsbGJvb2svIC0+IDxyZXBvPi9leHRlbnNpb25zL2dlbWluaS8KICAgICAgICAiY29udGV4dF9maWxlIjogTm9uZSwKICAgICAgICAibWNwX3N1cHBvcnRlZCI6IFRydWUsICAjIFZpYSBleHRlbnNpb24KICAgIH0sCiAgICAiZm9yZ2Vjb2RlIjogewogICAgICAgICJuYW1lIjogIkZvcmdlQ29kZSIsCiAgICAgICAgImNvbmZpZ19kaXJfZW52IjogIkZPUkdFX0NPTkZJRyIsCiAgICAgICAgImRlZmF1bHRfY29uZmlnX2RpciI6IFBhdGguaG9tZSgpIC8gIi5mb3JnZSIsCiAgICAgICAgImNsaV9mbGFnX25hbWUiOiAiZm9yZ2UtY29uZmlnLWRpciIsCiAgICAgICAgImNvbnRleHRfZmlsZSI6ICJBR0VOVFMubWQiLAogICAgICAgICJtY3Bfc3VwcG9ydGVkIjogVHJ1ZSwKICAgICAgICAibWNwX3NlcnZlcl9uYW1lIjogInNwZWxsYm9vayIsCiAgICB9LAogICAgInBpIjogewogICAgICAgICJuYW1lIjogIlBpIiwKICAgICAgICAiY29uZmlnX2Rpcl9lbnYiOiAiUElfQ09ORklHX0RJUiIsCiAgICAgICAgImRlZmF1bHRfY29uZmlnX2RpciI6IFBhdGguaG9tZSgpIC8gIi5waSIgLyAiYWdlbnQiLAogICAgICAgICJjbGlfZmxhZ19uYW1lIjogInBpLWNvbmZpZy1kaXIiLAogICAgICAgICJjb250ZXh0X2ZpbGUiOiAiQUdFTlRTLm1kIiwKICAgICAgICAic2tpbGxzX3N1YmRpciI6ICJza2lsbHMiLAogICAgICAgICJwcm9tcHRzX3N1YmRpciI6ICJwcm9tcHRzIiwKICAgICAgICAibWNwX3N1cHBvcnRlZCI6IFRydWUsCiAgICAgICAgIm1jcF9zZXJ2ZXJfbmFtZSI6ICJzcGVsbGJvb2siLAogICAgfSwKICAgICJwcmltZV9hZ2VudCI6IHsKICAgICAgICAibmFtZSI6ICJQcmltZSBBZ2VudCIsCiAgICAgICAgImNvbmZpZ19kaXJfZW52IjogIlBSSU1FX0FHRU5UX0NPTkZJR19ESVIiLAogICAgICAgICJkZWZhdWx0X2NvbmZpZ19kaXIiOiBQYXRoLmhvbWUoKSAvICIucHJpbWUiIC8gImFnZW50IiwKICAgICAgICAiY2xpX2ZsYWdfbmFtZSI6ICJwcmltZS1hZ2VudC1jb25maWctZGlyIiwKICAgICAgICAjIFByaW1lIEFnZW50IGF1dG8tbG9hZHMgQUdFTlRTLm1kIGZyb20gdGhlIGFnZW50IGNvbmZpZyBkaXIgYXQKICAgICAgICAjIHNlc3Npb24gc3RhcnQgKFByaW1lIEFnZW50IGRvY3MvdXNhZ2UubWQgIkNvbnRleHQgRmlsZXMiOyB0aGUKICAgICAgICAjIHVuZGVybHlpbmcgbG9hZENvbnRleHRGaWxlRnJvbURpciArIGJ1aWxkU3lzdGVtUHJvbXB0IGxpdmUgaW4KICAgICAgICAjIHBhY2thZ2VzL2NvZGluZy1hZ2VudC9zcmMvY29yZS97cmVzb3VyY2UtbG9hZGVyLHN5c3RlbS1wcm9tcHR9LnRzKS4KICAgICAgICAjIFRoYXQgZmlsZSBiZWxvbmdzIHRvIHRoZSB1c2VyLCBzbyBzcGVsbGJvb2sgZG9lcyBOT1Qgd3JpdGUgdG8KICAgICAgICAjIGl0IC0tIGJlaGF2aW9yYWwgZ3VpZGFuY2UgaXMgZGVsaXZlcmVkIHRocm91Z2ggdGhlIHJ1bGVzLwogICAgICAgICMgc3ViZGlyZWN0b3J5IGFuZCB0aGUgc3BlbGxib29rLXJ1bGVzIGV4dGVuc2lvbiBpbnN0ZWFkLgogICAgICAgICJjb250ZXh0X2ZpbGUiOiBOb25lLAogICAgICAgICJza2lsbHNfc3ViZGlyIjogInNraWxscyIsCiAgICAgICAgInJ1bGVzX3N1YmRpciI6ICJydWxlcyIsCiAgICAgICAgImV4dGVuc2lvbnNfc3ViZGlyIjogImV4dGVuc2lvbnMiLAogICAgICAgICJtY3Bfc3VwcG9ydGVkIjogRmFsc2UsICAjIHByaW1lLWFnZW50IGhhcyBubyBNQ1AgY2xpZW50CiAgICB9LAogICAgImdvb3NlIjogewogICAgICAgICJuYW1lIjogIkdvb3NlIiwKICAgICAgICAiY29uZmlnX2Rpcl9lbnYiOiAiR09PU0VfQ09ORklHX0RJUiIsCiAgICAgICAgImRlZmF1bHRfY29uZmlnX2RpciI6IFBhdGguaG9tZSgpIC8gIi5jb25maWciIC8gImdvb3NlIiwKICAgICAgICAiY2xpX2ZsYWdfbmFtZSI6ICJnb29zZS1jb25maWctZGlyIiwKICAgICAgICAjIEdvb3NlIG5hdGl2ZWx5IGxvYWRzIEFHRU5UUy5tZCBhbmQgLmdvb3NlaGludHMgZnJvbSBDV0Q7IHdlIGluc3RhbGwKICAgICAgICAjIGEgZ2xvYmFsIGhpbnRzIGZpbGUgYXQgfi8uYWdlbnRzL0FHRU5UUy5tZCAoZ29vc2UgdjEuNDEuMCsgZmVhdHVyZSkuCiAgICAgICAgImNvbnRleHRfZmlsZSI6IE5vbmUsCiAgICAgICAgIyBBZ2VudCBTa2lsbHMgc3RhbmRhcmQ6IH4vLmFnZW50cy9za2lsbHMvIChzaGFyZWQgYWNyb3NzIENsYXVkZSBDb2RlLAogICAgICAgICMgQ29kZXgsIE9wZW5Db2RlLCBDdXJzb3IsIFZTIENvZGUpLiBHb29zZSB2MS4xOC4wKyBkaXNjb3ZlcnMgdGhpcyBwYXRoLgogICAgICAgICJza2lsbHNfc3ViZGlyIjogInNraWxscyIsCiAgICAgICAgIyBNQ1Agc2VydmVyIHJlZ2lzdGVyZWQgYXMgYW4gZXh0ZW5zaW9uIGluIGNvbmZpZy55YW1sIChzdHJlYW1hYmxlX2h0dHApLgogICAgICAgICMgSG9ub3JzICRHT09TRV9QQVRIX1JPT1QgYXQgcnVudGltZSBmb3Igbm9uLWRlZmF1bHQgY29uZmlnIGRpcnMuCiAgICAgICAgIm1jcF9zdXBwb3J0ZWQiOiBUcnVlLAogICAgICAgICJtY3Bfc2VydmVyX25hbWUiOiAic3BlbGxib29rIiwKICAgIH0sCn0KCgpkZWYgX3BsYXRmb3JtX2NvbmZpZygpIC0+IERpY3Rbc3RyLCBEaWN0W3N0ciwgQW55XV06CiAgICAiIiJSZXR1cm4gdGhlIHBsYXRmb3JtIGNvbmZpZ3VyYXRpb24gdGFibGUuCgogICAgSW50ZXJuYWwgY2FsbGVycyB1c2UgdGhpcyBpbmRpcmVjdGlvbiBzbyB0ZXN0cyBjYW4gcmVkaXJlY3QgdGhlIHRhYmxlIHZpYQogICAgYGB0cmlwd2lyZS5tb2NrKCJpbnN0YWxsZXIuY29uZmlnOl9wbGF0Zm9ybV9jb25maWciKWBgIGluc3RlYWQgb2YKICAgIG1vbmtleS1wYXRjaGluZyB0aGUgbW9kdWxlLWxldmVsIGBgUExBVEZPUk1fQ09ORklHYGAgY29uc3RhbnQuCiAgICAiIiIKICAgIHJldHVybiBQTEFURk9STV9DT05GSUcKCgpkZWYgZ2V0X3BsYXRmb3JtX2NvbmZpZ19kaXIocGxhdGZvcm06IHN0cikgLT4gUGF0aDoKICAgICIiIkdldCB0aGUgY29uZmlndXJhdGlvbiBkaXJlY3RvcnkgZm9yIGEgcGxhdGZvcm0uIiIiCiAgICBjb25maWcgPSBfcGxhdGZvcm1fY29uZmlnKCkuZ2V0KHBsYXRmb3JtKQogICAgaWYgbm90IGNvbmZpZzoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiVW5rbm93biBwbGF0Zm9ybToge3BsYXRmb3JtfSIpCgogICAgZW52X3ZhciA9IGNvbmZpZy5nZXQoImNvbmZpZ19kaXJfZW52IikKICAgIGlmIGVudl92YXI6CiAgICAgICAgZW52X3ZhbHVlID0gb3MuZW52aXJvbi5nZXQoZW52X3ZhcikKICAgICAgICBpZiBlbnZfdmFsdWU6CiAgICAgICAgICAgIHJldHVybiBQYXRoKGVudl92YWx1ZSkKCiAgICByZXR1cm4gY29uZmlnWyJkZWZhdWx0X2NvbmZpZ19kaXIiXQoKCmRlZiByZXNvbHZlX2NvbmZpZ19kaXJzKAogICAgcGxhdGZvcm06IHN0ciwKICAgIGNsaV9kaXJzOiBPcHRpb25hbFtMaXN0W1BhdGhdXSA9IE5vbmUsCiAgICBlbnZfb3ZlcnJpZGU6IE9wdGlvbmFsW3N0cl0gPSBOb25lLAopIC0+IExpc3RbUGF0aF06CiAgICAiIiJSZXNvbHZlIHRoZSBsaXN0IG9mIGNvbmZpZyBkaXJlY3RvcmllcyBmb3IgYSBwbGF0Zm9ybS4KCiAgICBSZXNvbHV0aW9uIG9yZGVyOgogICAgMS4gQ0xJIGZsYWdzICgtLTxwbGF0Zm9ybT4tY29uZmlnLWRpciksIGlmIGFueSBwcm92aWRlZAogICAgMi4gRW52aXJvbm1lbnQgdmFyaWFibGUgKHNpbmdsZSBkaXIpLCBpZiBzZXQKICAgIDMuIFBsYXRmb3JtIGRlZmF1bHQKCiAgICBDTEkgZmxhZ3MgUkVQTEFDRSAobm90IHN1cHBsZW1lbnQpIGVudiB2YXIgYW5kIGRlZmF1bHRzLgogICAgRW52IHZhciBSRVBMQUNFUyAobm90IHN1cHBsZW1lbnRzKSBkZWZhdWx0LgoKICAgIFBvc3QtcHJvY2Vzc2luZzoKICAgIC0gUmVzb2x2ZSBhbGwgcGF0aHMgdG8gYWJzb2x1dGUKICAgIC0gRGVkdXBsaWNhdGUgKHByZXNlcnZlIG9yZGVyLCByZW1vdmUgbGF0ZXIgZHVwbGljYXRlcykKICAgIC0gRm9yIGRlZmF1bHQgZGlyczogY3JlYXRlIGlmIG1pc3NpbmcgKHByZXNlcnZlIGN1cnJlbnQgYmVoYXZpb3IpCiAgICAtIEZvciBleHBsaWNpdGx5LXBhc3NlZCBkaXJzIChDTEkgb3IgZW52KTogc2tpcCB3aXRoIHdhcm5pbmcgaWYgbm9uLWV4aXN0ZW50CgogICAgQXJnczoKICAgICAgICBwbGF0Zm9ybTogUGxhdGZvcm0gaWRlbnRpZmllciAoZS5nLiwgImNsYXVkZV9jb2RlIikKICAgICAgICBjbGlfZGlyczogRGlyZWN0b3JpZXMgcGFzc2VkIHZpYSBDTEkgZmxhZ3MgKHJlcGVhdGFibGUpCiAgICAgICAgZW52X292ZXJyaWRlOiBPcHRpb25hbCBlbnYgdmFyIG92ZXJyaWRlIChmb3IgdGVzdGluZzsgbm9ybWFsbHkgcmVhZAogICAgICAgICAgICBmcm9tIG9zLmVudmlyb24pCgogICAgUmV0dXJuczoKICAgICAgICBMaXN0IG9mIHplcm8gb3IgbW9yZSByZXNvbHZlZCBjb25maWcgZGlycy4KICAgICIiIgogICAgY29uZmlnID0gX3BsYXRmb3JtX2NvbmZpZygpLmdldChwbGF0Zm9ybSkKICAgIGlmIG5vdCBjb25maWc6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIlVua25vd24gcGxhdGZvcm06IHtwbGF0Zm9ybX0iKQoKICAgIHJhd19kaXJzOiBMaXN0W1BhdGhdID0gW10KICAgIGlzX2V4cGxpY2l0ID0gRmFsc2UgICMgVHJ1ZSBpZiBkaXJzIGNhbWUgZnJvbSBDTEkgb3IgZW52IChub3QgZGVmYXVsdCkKCiAgICBpZiBjbGlfZGlyczoKICAgICAgICAjIENMSSBmbGFncyBvdmVycmlkZSBldmVyeXRoaW5nCiAgICAgICAgcmF3X2RpcnMgPSBbUGF0aChkKSBpZiBub3QgaXNpbnN0YW5jZShkLCBQYXRoKSBlbHNlIGQgZm9yIGQgaW4gY2xpX2RpcnNdCiAgICAgICAgaXNfZXhwbGljaXQgPSBUcnVlCiAgICBlbHNlOgogICAgICAgICMgQ2hlY2sgZW52IHZhcgogICAgICAgIGVudl92YXJfbmFtZSA9IGNvbmZpZy5nZXQoImNvbmZpZ19kaXJfZW52IikKICAgICAgICBlbnZfdmFsdWUgPSBlbnZfb3ZlcnJpZGUKICAgICAgICBpZiBlbnZfdmFsdWUgaXMgTm9uZSBhbmQgZW52X3Zhcl9uYW1lOgogICAgICAgICAgICBlbnZfdmFsdWUgPSBvcy5lbnZpcm9uLmdldChlbnZfdmFyX25hbWUpCgogICAgICAgIGlmIGVudl92YWx1ZToKICAgICAgICAgICAgcmF3X2RpcnMgPSBbUGF0aChlbnZfdmFsdWUpXQogICAgICAgICAgICBpc19leHBsaWNpdCA9IFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICAjIEZhbGwgYmFjayB0byBkZWZhdWx0CiAgICAgICAgICAgIHJhd19kaXJzID0gW2NvbmZpZ1siZGVmYXVsdF9jb25maWdfZGlyIl1dCiAgICAgICAgICAgIGlzX2V4cGxpY2l0ID0gRmFsc2UKCiAgICAjIFJlc29sdmUgdG8gYWJzb2x1dGUgcGF0aHMgYW5kIGRlZHVwbGljYXRlCiAgICBzZWVuOiBzZXQgPSBzZXQoKQogICAgcmVzdWx0OiBMaXN0W1BhdGhdID0gW10KCiAgICBmb3IgZCBpbiByYXdfZGlyczoKICAgICAgICBhYnNfcGF0aCA9IGQucmVzb2x2ZSgpCiAgICAgICAgaWYgYWJzX3BhdGggaW4gc2VlbjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzZWVuLmFkZChhYnNfcGF0aCkKCiAgICAgICAgaWYgaXNfZXhwbGljaXQ6CiAgICAgICAgICAgICMgRXhwbGljaXQgZGlycyAoQ0xJIG9yIGVudik6IG11c3QgZXhpc3QsIHNraXAgd2l0aCB3YXJuaW5nIGlmIG5vdAogICAgICAgICAgICBpZiBub3QgYWJzX3BhdGguZXhpc3RzKCk6CiAgICAgICAgICAgICAgICBsb2dnZXIud2FybmluZygKICAgICAgICAgICAgICAgICAgICAiQ29uZmlnIGRpcmVjdG9yeSBkb2VzIG5vdCBleGlzdCwgc2tpcHBpbmc6ICVzIiwgYWJzX3BhdGgKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQoYWJzX3BhdGgpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBEZWZhdWx0IGRpcjogY3JlYXRlIGlmIG1pc3NpbmcgKHByZXNlcnZlIGV4aXN0aW5nIGJlaGF2aW9yKQogICAgICAgICAgICBhYnNfcGF0aC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQoYWJzX3BhdGgpCgogICAgcmV0dXJuIHJlc3VsdAoKCmRlZiBnZXRfY29udGV4dF9maWxlX3BhdGgocGxhdGZvcm06IHN0cikgLT4gT3B0aW9uYWxbUGF0aF06CiAgICAiIiJHZXQgdGhlIHBhdGggdG8gdGhlIGNvbnRleHQgZmlsZSBmb3IgYSBwbGF0Zm9ybS4iIiIKICAgIGNvbmZpZyA9IF9wbGF0Zm9ybV9jb25maWcoKS5nZXQocGxhdGZvcm0pCiAgICBpZiBub3QgY29uZmlnOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJVbmtub3duIHBsYXRmb3JtOiB7cGxhdGZvcm19IikKCiAgICBjb250ZXh0X2ZpbGUgPSBjb25maWcuZ2V0KCJjb250ZXh0X2ZpbGUiKQogICAgaWYgbm90IGNvbnRleHRfZmlsZToKICAgICAgICByZXR1cm4gTm9uZQoKICAgIGNvbmZpZ19kaXIgPSBnZXRfcGxhdGZvcm1fY29uZmlnX2RpcihwbGF0Zm9ybSkKCiAgICAjIENvbnRleHQgZmlsZXMgZ28gYXQgdGhlIHJvb3Qgb2YgdGhlIGNvbmZpZyBkaXJlY3RvcnkKICAgICMgKEdlbWluaSdzIGV4dGVuc2lvbiBtYW5pZmVzdCBpcyBzZXBhcmF0ZSBmcm9tIEdFTUlOSS5tZCBnbG9iYWwgY29udGV4dCkKICAgIHJldHVybiBjb25maWdfZGlyIC8gY29udGV4dF9maWxlCgoKZGVmIHBsYXRmb3JtX2V4aXN0cyhwbGF0Zm9ybTogc3RyKSAtPiBib29sOgogICAgIiIiQ2hlY2sgaWYgYSBwbGF0Zm9ybSdzIGNvbmZpZyBkaXJlY3RvcnkgZXhpc3RzLiIiIgogICAgY29uZmlnX2RpciA9IGdldF9wbGF0Zm9ybV9jb25maWdfZGlyKHBsYXRmb3JtKQogICAgcmV0dXJuIGNvbmZpZ19kaXIuZXhpc3RzKCkKCgpkZWYgZGV0ZWN0X2F2YWlsYWJsZV9wbGF0Zm9ybXMoKSAtPiBMaXN0W3N0cl06CiAgICAiIiJEZXRlY3Qgd2hpY2ggcGxhdGZvcm1zIGhhdmUgY29uZmlnIGRpcmVjdG9yaWVzLiIiIgogICAgYXZhaWxhYmxlID0gW10KICAgIGZvciBwbGF0Zm9ybSBpbiBTVVBQT1JURURfUExBVEZPUk1TOgogICAgICAgICMgQ2xhdWRlIENvZGUgaXMgYWx3YXlzIGF2YWlsYWJsZSAod2UgY3JlYXRlIGl0cyBkaXJlY3RvcnkpCiAgICAgICAgaWYgcGxhdGZvcm0gPT0gImNsYXVkZV9jb2RlIjoKICAgICAgICAgICAgYXZhaWxhYmxlLmFwcGVuZChwbGF0Zm9ybSkKICAgICAgICBlbGlmIHBsYXRmb3JtX2V4aXN0cyhwbGF0Zm9ybSk6CiAgICAgICAgICAgIGF2YWlsYWJsZS5hcHBlbmQocGxhdGZvcm0pCiAgICByZXR1cm4gYXZhaWxhYmxlCgoKIyBCYWNrdXAgZmlsZSBzdWZmaXggcGF0dGVybgpCQUNLVVBfU1VGRklYX1BBVFRFUk4gPSAiLmJhY2t1cC57dGltZXN0YW1wfSIKCiMgVmVyc2lvbiBmaWxlIG5hbWUKVkVSU0lPTl9GSUxFID0gIi52ZXJzaW9uIgo=
+"""
+Configuration constants and platform settings for spellbook installer.
+"""
+
+import logging
+import os
+from pathlib import Path
+from typing import Any, Dict, List, Optional
+
+logger = logging.getLogger(__name__)
+
+# Spellbook's own config directory (platform-agnostic)
+# This is where spellbook stores its outputs: projects, logs, distilled sessions, etc.
+SPELLBOOK_CONFIG_DIR_ENV = "SPELLBOOK_CONFIG_DIR"
+SPELLBOOK_DEFAULT_CONFIG_DIR = Path.home() / ".local" / "spellbook"
+SPELLBOOK_MACHINE_PATHS_FILE = SPELLBOOK_DEFAULT_CONFIG_DIR.parent.parent / ".config" / "spellbook" / "paths.md"
+
+
+def get_spellbook_config_dir() -> Path:
+    """
+    Get the spellbook configuration directory.
+
+    Resolution order:
+    1. SPELLBOOK_CONFIG_DIR environment variable
+    2. ~/.config/spellbook/paths.md machine config file
+    3. ~/.local/spellbook (portable default)
+    """
+    config_dir = os.environ.get('SPELLBOOK_CONFIG_DIR')
+    if config_dir:
+        return Path(config_dir)
+
+    if SPELLBOOK_MACHINE_PATHS_FILE.exists():
+        try:
+            for line in SPELLBOOK_MACHINE_PATHS_FILE.read_text(encoding="utf-8").splitlines():
+                if line.startswith("SPELLBOOK_CONFIG_DIR="):
+                    val = line.split("=", 1)[1].strip()
+                    if val:
+                        return Path(val)
+        except OSError:
+            pass
+
+    return SPELLBOOK_DEFAULT_CONFIG_DIR
+
+
+# Supported platforms (AI coding assistants that can consume spellbook)
+SUPPORTED_PLATFORMS = ['claude_code', 'antigravity', 'opencode', 'codex', 'gemini', 'forgecode', 'pi', 'prime_agent', 'goose']
+
+# Platform configuration
+# NOTE: These are the AI assistant platforms that consume spellbook.
+# Spellbook's own config (SPELLBOOK_CONFIG_DIR) is separate from these.
+PLATFORM_CONFIG: Dict[str, Dict[str, Any]] = {
+    "claude_code": {
+        "name": "Claude Code",
+        "config_dir_env": "CLAUDE_CONFIG_DIR",
+        "default_config_dir": Path.home() / ".claude",
+        "cli_flag_name": "claude-config-dir",
+        "context_file": "CLAUDE.md",
+        "skills_subdir": "skills",
+        "commands_subdir": "commands",
+        "scripts_subdir": "scripts",
+        "agents_subdir": "agents",
+        "patterns_subdir": "patterns",
+        "docs_subdir": "docs",
+        "plans_subdir": "plans",
+        "mcp_supported": True,
+        "mcp_server_name": "spellbook",
+    },
+    "antigravity": {
+        "name": "Antigravity",
+        "config_dir_env": "ANTIGRAVITY_CONFIG_DIR",
+        "default_config_dir": Path.home() / ".gemini" / "antigravity",
+        "cli_flag_name": "antigravity-config-dir",
+        "context_file": "AGENTS.md",
+        "skills_subdir": "skills",
+        "mcp_supported": True,
+        "mcp_server_name": "spellbook",
+    },
+    "opencode": {
+        "name": "OpenCode",
+        "config_dir_env": "OPENCODE_CONFIG_DIR",
+        "default_config_dir": Path.home() / ".config" / "opencode",
+        "cli_flag_name": "opencode-config-dir",
+        "context_file": "AGENTS.md",
+        # Note: OpenCode reads skills from ~/.claude/skills/* natively
+        "mcp_supported": True,
+        "mcp_server_name": "spellbook",
+    },
+    "codex": {
+        "name": "Codex",
+        "config_dir_env": "CODEX_CONFIG_DIR",
+        "default_config_dir": Path.home() / ".codex",
+        "cli_flag_name": "codex-config-dir",
+        "context_file": "AGENTS.md",
+        "spellbook_symlink": "spellbook",  # Symlink to spellbook root
+        "mcp_server_name": "spellbook",
+        "mcp_supported": True,
+    },
+    "gemini": {
+        "name": "Gemini CLI",
+        "config_dir_env": "GEMINI_CONFIG_DIR",
+        "default_config_dir": Path.home() / ".gemini",
+        "cli_flag_name": "gemini-config-dir",
+        # Context provided via native extension system (gemini extensions link)
+        # Extension at ~/.gemini/extensions/spellbook/ -> <repo>/extensions/gemini/
+        "context_file": None,
+        "mcp_supported": True,  # Via extension
+    },
+    "forgecode": {
+        "name": "ForgeCode",
+        "config_dir_env": "FORGE_CONFIG",
+        "default_config_dir": Path.home() / ".forge",
+        "cli_flag_name": "forge-config-dir",
+        "context_file": "AGENTS.md",
+        "mcp_supported": True,
+        "mcp_server_name": "spellbook",
+    },
+    "pi": {
+        "name": "Pi",
+        "config_dir_env": "PI_CONFIG_DIR",
+        "default_config_dir": Path.home() / ".pi" / "agent",
+        "cli_flag_name": "pi-config-dir",
+        "context_file": "AGENTS.md",
+        "skills_subdir": "skills",
+        "prompts_subdir": "prompts",
+        "mcp_supported": True,
+        "mcp_server_name": "spellbook",
+    },
+    "prime_agent": {
+        "name": "Prime Agent",
+        "config_dir_env": "PRIME_AGENT_CONFIG_DIR",
+        "default_config_dir": Path.home() / ".prime" / "agent",
+        "cli_flag_name": "prime-agent-config-dir",
+        # Prime Agent auto-loads AGENTS.md from the agent config dir at
+        # session start (Prime Agent docs/usage.md "Context Files"; the
+        # underlying loadContextFileFromDir + buildSystemPrompt live in
+        # packages/coding-agent/src/core/{resource-loader,system-prompt}.ts).
+        # That file belongs to the user, so spellbook does NOT write to
+        # it -- behavioral guidance is delivered through the rules/
+        # subdirectory and the spellbook-rules extension instead.
+        "context_file": None,
+        "skills_subdir": "skills",
+        "rules_subdir": "rules",
+        "extensions_subdir": "extensions",
+        "mcp_supported": False,  # prime-agent has no MCP client
+    },
+    "goose": {
+        "name": "Goose",
+        "config_dir_env": "GOOSE_CONFIG_DIR",
+        "default_config_dir": Path.home() / ".config" / "goose",
+        "cli_flag_name": "goose-config-dir",
+        # Goose natively loads AGENTS.md and .goosehints from CWD; we install
+        # a global hints file at ~/.agents/AGENTS.md (goose v1.41.0+ feature).
+        "context_file": None,
+        # Agent Skills standard: ~/.agents/skills/ (shared across Claude Code,
+        # Codex, OpenCode, Cursor, VS Code). Goose v1.18.0+ discovers this path.
+        "skills_subdir": "skills",
+        # MCP server registered as an extension in config.yaml (streamable_http).
+        # Honors $GOOSE_PATH_ROOT at runtime for non-default config dirs.
+        "mcp_supported": True,
+        "mcp_server_name": "spellbook",
+    },
+}
+
+
+def _platform_config() -> Dict[str, Dict[str, Any]]:
+    """Return the platform configuration table.
+
+    Internal callers use this indirection so tests can redirect the table via
+    ``tripwire.mock("installer.config:_platform_config")`` instead of
+    monkey-patching the module-level ``PLATFORM_CONFIG`` constant.
+    """
+    return PLATFORM_CONFIG
+
+
+def get_platform_config_dir(platform: str) -> Path:
+    """Get the configuration directory for a platform."""
+    config = _platform_config().get(platform)
+    if not config:
+        raise ValueError(f"Unknown platform: {platform}")
+
+    env_var = config.get("config_dir_env")
+    if env_var:
+        env_value = os.environ.get(env_var)
+        if env_value:
+            return Path(env_value)
+
+    return config["default_config_dir"]
+
+
+def resolve_config_dirs(
+    platform: str,
+    cli_dirs: Optional[List[Path]] = None,
+    env_override: Optional[str] = None,
+) -> List[Path]:
+    """Resolve the list of config directories for a platform.
+
+    Resolution order:
+    1. CLI flags (--<platform>-config-dir), if any provided
+    2. Environment variable (single dir), if set
+    3. Platform default
+
+    CLI flags REPLACE (not supplement) env var and defaults.
+    Env var REPLACES (not supplements) default.
+
+    Post-processing:
+    - Resolve all paths to absolute
+    - Deduplicate (preserve order, remove later duplicates)
+    - For default dirs: create if missing (preserve current behavior)
+    - For explicitly-passed dirs (CLI or env): skip with warning if non-existent
+
+    Args:
+        platform: Platform identifier (e.g., "claude_code")
+        cli_dirs: Directories passed via CLI flags (repeatable)
+        env_override: Optional env var override (for testing; normally read
+            from os.environ)
+
+    Returns:
+        List of zero or more resolved config dirs.
+    """
+    config = _platform_config().get(platform)
+    if not config:
+        raise ValueError(f"Unknown platform: {platform}")
+
+    raw_dirs: List[Path] = []
+    is_explicit = False  # True if dirs came from CLI or env (not default)
+
+    if cli_dirs:
+        # CLI flags override everything
+        raw_dirs = [Path(d) if not isinstance(d, Path) else d for d in cli_dirs]
+        is_explicit = True
+    else:
+        # Check env var
+        env_var_name = config.get("config_dir_env")
+        env_value = env_override
+        if env_value is None and env_var_name:
+            env_value = os.environ.get(env_var_name)
+
+        if env_value:
+            raw_dirs = [Path(env_value)]
+            is_explicit = True
+        else:
+            # Fall back to default
+            raw_dirs = [config["default_config_dir"]]
+            is_explicit = False
+
+    # Resolve to absolute paths and deduplicate
+    seen: set = set()
+    result: List[Path] = []
+
+    for d in raw_dirs:
+        abs_path = d.resolve()
+        if abs_path in seen:
+            continue
+        seen.add(abs_path)
+
+        if is_explicit:
+            # Explicit dirs (CLI or env): must exist, skip with warning if not
+            if not abs_path.exists():
+                logger.warning(
+                    "Config directory does not exist, skipping: %s", abs_path
+                )
+                continue
+            result.append(abs_path)
+        else:
+            # Default dir: create if missing (preserve existing behavior)
+            abs_path.mkdir(parents=True, exist_ok=True)
+            result.append(abs_path)
+
+    return result
+
+
+def get_context_file_path(platform: str) -> Optional[Path]:
+    """Get the path to the context file for a platform."""
+    config = _platform_config().get(platform)
+    if not config:
+        raise ValueError(f"Unknown platform: {platform}")
+
+    context_file = config.get("context_file")
+    if not context_file:
+        return None
+
+    config_dir = get_platform_config_dir(platform)
+
+    # Context files go at the root of the config directory
+    # (Gemini's extension manifest is separate from GEMINI.md global context)
+    return config_dir / context_file
+
+
+def platform_exists(platform: str) -> bool:
+    """Check if a platform's config directory exists."""
+    config_dir = get_platform_config_dir(platform)
+    return config_dir.exists()
+
+
+def detect_available_platforms() -> List[str]:
+    """Detect which platforms have config directories."""
+    available = []
+    for platform in SUPPORTED_PLATFORMS:
+        # Claude Code is always available (we create its directory)
+        if platform == "claude_code":
+            available.append(platform)
+        elif platform_exists(platform):
+            available.append(platform)
+    return available
+
+
+# Backup file suffix pattern
+BACKUP_SUFFIX_PATTERN = ".backup.{timestamp}"
+
+# Version file name
+VERSION_FILE = ".version"

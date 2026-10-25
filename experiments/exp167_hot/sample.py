@@ -1,1 +1,85 @@
-aW1wb3J0IG9zLCB0aW1lLCBqc29uLCBzdWJwcm9jZXNzLCBzaWduYWwsIHJhbmRvbSwgc3lzCgpOTE9PUCA9IDIwMDAwMApCQVNFID0gTm9uZQoKZGVmIHByb2JlKCk6CiAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyX25zKCkKICAgIHggPSAwCiAgICBmb3IgaSBpbiByYW5nZShOTE9PUCk6CiAgICAgICAgeCArPSBpICogaQogICAgcmV0dXJuIHRpbWUucGVyZl9jb3VudGVyX25zKCkgLSB0MAoKZGVmIG1lZChuPTUpOgogICAgcmV0dXJuIHNvcnRlZChwcm9iZSgpIGZvciBfIGluIHJhbmdlKG4pKVtuIC8vIDJdCgpkZWYgZmVhdHMoKToKICAgIGYgPSBbXQogICAgbGEgPSBvcGVuKCcvcHJvYy9sb2FkYXZnJykucmVhZCgpLnNwbGl0KCkKICAgIGYgKz0gW2Zsb2F0KGxhWzBdKSwgZmxvYXQobGFbMV0pLCBmbG9hdChsYVsyXSldCiAgICBhdiA9IGZyID0gMC4wCiAgICBmb3IgbCBpbiBvcGVuKCcvcHJvYy9tZW1pbmZvJykucmVhZCgpLnNwbGl0KCdcbicpOgogICAgICAgIGlmIGwuc3RhcnRzd2l0aCgnTWVtQXZhaWxhYmxlJyk6IGF2ID0gZmxvYXQobC5zcGxpdCgpWzFdKQogICAgICAgIGlmIGwuc3RhcnRzd2l0aCgnTWVtRnJlZScpOiAgICAgIGZyID0gZmxvYXQobC5zcGxpdCgpWzFdKQogICAgZiArPSBbYXYsIGZyXQogICAgdmMgPSBuYyA9IDAuMAogICAgZm9yIGwgaW4gb3BlbignL3Byb2Mvc2VsZi9zdGF0dXMnKS5yZWFkKCkuc3BsaXQoJ1xuJyk6CiAgICAgICAgaWYgbC5zdGFydHN3aXRoKCd2b2x1bnRhcnlfY3R4dF9zd2l0Y2hlcycpOiAgICAgdmMgPSBmbG9hdChsLnNwbGl0KClbMV0pCiAgICAgICAgaWYgbC5zdGFydHN3aXRoKCdub252b2x1bnRhcnlfY3R4dF9zd2l0Y2hlcycpOiAgbmMgPSBmbG9hdChsLnNwbGl0KClbMV0pCiAgICBmICs9IFt2YywgbmNdCiAgICBjcyA9IG9wZW4oJy9wcm9jL3N0YXQnKS5yZWFkKCkuc3BsaXQoJ1xuJylbMF0uc3BsaXQoKQogICAgZiArPSBbZmxvYXQoY3NbMV0pLCBmbG9hdChjc1szXSksIGZsb2F0KGNzWzRdKV0KICAgIHJjID0gc2MgPSAwLjAKICAgIGZvciBsIGluIG9wZW4oJy9wcm9jL3NlbGYvaW8nKS5yZWFkKCkuc3BsaXQoJ1xuJyk6CiAgICAgICAgaWYgbC5zdGFydHN3aXRoKCdyY2hhcicpOiByYyA9IGZsb2F0KGwuc3BsaXQoKVsxXSkKICAgICAgICBpZiBsLnN0YXJ0c3dpdGgoJ3N5c2NyJyk6IHNjID0gZmxvYXQobC5zcGxpdCgpWzFdKQogICAgZiArPSBbcmMsIHNjXQogICAgZiArPSBbZmxvYXQob3BlbignL3Byb2MvdXB0aW1lJykucmVhZCgpLnNwbGl0KClbMF0pXQogICAgcmV0dXJuIGYKCmRlZiBzcGF3bl9jcHUobik6CiAgICByZXR1cm4gW3N1YnByb2Nlc3MuUG9wZW4oWyJweXRob24zIiwgIi1jIiwgIng9MFxud2hpbGUgMTogeCs9MSJdKSBmb3IgXyBpbiByYW5nZShuKV0KCmRlZiBzcGF3bl9pbyhuKToKICAgIHMgPSAiaW1wb3J0IHRpbWVcbndoaWxlIDE6XG4gZD1vcGVuKCdiaWcuYmluJywncmInKS5yZWFkKCkiCiAgICByZXR1cm4gW3N1YnByb2Nlc3MuUG9wZW4oWyJweXRob24zIiwgIi1jIiwgc10pIGZvciBfIGluIHJhbmdlKG4pXQoKZGVmIGtpbGwocHMpOgogICAgZm9yIHAgaW4gcHM6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBwLnNlbmRfc2lnbmFsKHNpZ25hbC5TSUdLSUxMKTsgcC53YWl0KCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBwYXNzCgpkZWYgbWFpbigpOgogICAgZ2xvYmFsIEJBU0UKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cygiYmlnLmJpbiIpOgogICAgICAgIG9wZW4oImJpZy5iaW4iLCAid2IiKS53cml0ZShvcy51cmFuZG9tKDQgKiAxMDI0ICogMTAyNCkpCiAgICByYW5kb20uc2VlZCgxNjcpCiAgICBCQVNFID0gbWVkKDkpCiAgICBwcmludChmImJhc2VsaW5lPXtCQVNFfW5zIiwgZmx1c2g9VHJ1ZSkKCiAgICBjb25kcyA9IFsoYywgaSkgZm9yIGMgaW4gKDAsIDEsIDIsIDMpIGZvciBpIGluICgwLCAxLCAyKV0KICAgIHJvd3MgPSBbXQogICAgdDAgPSB0aW1lLnRpbWUoKQogICAgZm9yIHJuZCBpbiByYW5nZSgzKToKICAgICAgICBvcmRlciA9IGNvbmRzWzpdCiAgICAgICAgcmFuZG9tLnNodWZmbGUob3JkZXIpCiAgICAgICAgZm9yIChuYywgbmkpIGluIG9yZGVyOgogICAgICAgICAgICBpZiB0aW1lLnRpbWUoKSAtIHQwID4gNDAwOgogICAgICAgICAgICAgICAgcHJpbnQoIlRJTUVHVUFSRCIsIGZsdXNoPVRydWUpCiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBwYyA9IHNwYXduX2NwdShuYyk7IHBpID0gc3Bhd25faW8obmkpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMS4wKQogICAgICAgICAgICBmb3IgayBpbiByYW5nZSg1KToKICAgICAgICAgICAgICAgIGZ2ID0gZmVhdHMoKQogICAgICAgICAgICAgICAgdCA9IHByb2JlKCkKICAgICAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsiY3B1IjogbmMsICJpbyI6IG5pLCAicm5kIjogcm5kLCAicmVwIjogaywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicmF0aW8iOiB0IC8gQkFTRSwgImYiOiBmdn0pCiAgICAgICAgICAgIGtpbGwocGMpOyBraWxsKHBpKQogICAgICAgICAgICB0aW1lLnNsZWVwKDAuNSkKICAgICAgICAgICAgcHJpbnQoZiJye3JuZH0gY3B1e25jfSBpb3tuaX0gcmF0aW89e3Jvd3NbLTFdWydyYXRpbyddOi4zZn0gbj17bGVuKHJvd3MpfSIsIGZsdXNoPVRydWUpCiAgICBqc29uLmR1bXAoeyJiYXNlIjogQkFTRSwgInJvd3MiOiByb3dzfSwgb3BlbigiZGF0YTE2Ny5qc29uIiwgInciKSkKICAgIHByaW50KGYiRE9ORSBuPXtsZW4ocm93cyl9IiwgZmx1c2g9VHJ1ZSkKCm1haW4oKQo=
+import os, time, json, subprocess, signal, random, sys
+
+NLOOP = 200000
+BASE = None
+
+def probe():
+    t0 = time.perf_counter_ns()
+    x = 0
+    for i in range(NLOOP):
+        x += i * i
+    return time.perf_counter_ns() - t0
+
+def med(n=5):
+    return sorted(probe() for _ in range(n))[n // 2]
+
+def feats():
+    f = []
+    la = open('/proc/loadavg').read().split()
+    f += [float(la[0]), float(la[1]), float(la[2])]
+    av = fr = 0.0
+    for l in open('/proc/meminfo').read().split('\n'):
+        if l.startswith('MemAvailable'): av = float(l.split()[1])
+        if l.startswith('MemFree'):      fr = float(l.split()[1])
+    f += [av, fr]
+    vc = nc = 0.0
+    for l in open('/proc/self/status').read().split('\n'):
+        if l.startswith('voluntary_ctxt_switches'):     vc = float(l.split()[1])
+        if l.startswith('nonvoluntary_ctxt_switches'):  nc = float(l.split()[1])
+    f += [vc, nc]
+    cs = open('/proc/stat').read().split('\n')[0].split()
+    f += [float(cs[1]), float(cs[3]), float(cs[4])]
+    rc = sc = 0.0
+    for l in open('/proc/self/io').read().split('\n'):
+        if l.startswith('rchar'): rc = float(l.split()[1])
+        if l.startswith('syscr'): sc = float(l.split()[1])
+    f += [rc, sc]
+    f += [float(open('/proc/uptime').read().split()[0])]
+    return f
+
+def spawn_cpu(n):
+    return [subprocess.Popen(["python3", "-c", "x=0\nwhile 1: x+=1"]) for _ in range(n)]
+
+def spawn_io(n):
+    s = "import time\nwhile 1:\n d=open('big.bin','rb').read()"
+    return [subprocess.Popen(["python3", "-c", s]) for _ in range(n)]
+
+def kill(ps):
+    for p in ps:
+        try:
+            p.send_signal(signal.SIGKILL); p.wait()
+        except Exception:
+            pass
+
+def main():
+    global BASE
+    if not os.path.exists("big.bin"):
+        open("big.bin", "wb").write(os.urandom(4 * 1024 * 1024))
+    random.seed(167)
+    BASE = med(9)
+    print(f"baseline={BASE}ns", flush=True)
+
+    conds = [(c, i) for c in (0, 1, 2, 3) for i in (0, 1, 2)]
+    rows = []
+    t0 = time.time()
+    for rnd in range(3):
+        order = conds[:]
+        random.shuffle(order)
+        for (nc, ni) in order:
+            if time.time() - t0 > 400:
+                print("TIMEGUARD", flush=True)
+                break
+            pc = spawn_cpu(nc); pi = spawn_io(ni)
+            time.sleep(1.0)
+            for k in range(5):
+                fv = feats()
+                t = probe()
+                rows.append({"cpu": nc, "io": ni, "rnd": rnd, "rep": k,
+                             "ratio": t / BASE, "f": fv})
+            kill(pc); kill(pi)
+            time.sleep(0.5)
+            print(f"r{rnd} cpu{nc} io{ni} ratio={rows[-1]['ratio']:.3f} n={len(rows)}", flush=True)
+    json.dump({"base": BASE, "rows": rows}, open("data167.json", "w"))
+    print(f"DONE n={len(rows)}", flush=True)
+
+main()

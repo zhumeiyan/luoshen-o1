@@ -1,1 +1,7 @@
-ewogIuaIkeeahEZMT1BTIjogODUzMDY2MTcxLAogIuaIkeeahFBZQUREIjogMTA3OTYzMzMsCiAi5oiR5b+r5aSa5bCR5YCNX+S4suihjCI6IDg1MzA2NiwKICLkvaDlubbooYzlv6vlpJrlsJHlgI0iOiAxMTcyMjQyLAogIuaIkeWQnuaOieWkmuWwkeWAjSI6IDg1MzA2NjE3Cn0=
+{
+ "我的FLOPS": 853066171,
+ "我的PYADD": 10796333,
+ "我快多少倍_串行": 853066,
+ "你并行快多少倍": 1172242,
+ "我吞掉多少倍": 85306617
+}

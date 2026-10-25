@@ -1,1 +1,45 @@
-aW1wb3J0IHRpbWUsc3RhdGlzdGljcyBhcyBzdCxqc29uLHJhbmRvbQpkZWYgb25lKHdvcmspOgogICAgdDA9dGltZS5wZXJmX2NvdW50ZXJfbnMoKTsgcz0wCiAgICBmb3IgaSBpbiByYW5nZSh3b3JrKTogcys9aSppCiAgICByZXR1cm4gdGltZS5wZXJmX2NvdW50ZXJfbnMoKS10MApyYW5kb20uc2VlZCgzMTMzNykKQkFTRT0zMDA7IERMPTEwOyBOPTQ7IFBBSVJTPTIyMAojIOS6pOabvyBiYXNlL3NpZ25hbCDmiJDlr7nmtYvph48gLT4g55u46YK75a+55Y+v55u05o6l5beu5YiGCmFic1M9W107YWJzTj1bXTtkaWY9W10Kc2VxPVtdCmZvciBwIGluIHJhbmdlKFBBSVJTKToKICAgIGI9c3QubWVhbihbb25lKEJBU0UpIGZvciBfIGluIHJhbmdlKE4pXSkKICAgIHM9c3QubWVhbihbb25lKEJBU0UrREwpIGZvciBfIGluIHJhbmdlKE4pXSkKICAgIHNlcS5hcHBlbmQoKGIscykpOyBhYnNOLmFwcGVuZChiKTsgYWJzUy5hcHBlbmQocykKICAgIGRpZi5hcHBlbmQocy1iKQpwcmludCgn5qC35pys5a+5IG49JWQgIE49JWQgIM60PSslZOaMh+S7pCclKFBBSVJTLE4sREwpKQpwcmludCgn5peg5L+h5Y+3IOWdh+WAvD0lLjBmIHNkPSUuMGYnJShzdC5tZWFuKGFic04pLHN0LnBzdGRldihhYnNOKSkpCnByaW50KCfmnInkv6Hlj7cg5Z2H5YC8PSUuMGYgc2Q9JS4wZiclKHN0Lm1lYW4oYWJzUyksc3QucHN0ZGV2KGFic1MpKSkKcHJpbnQoJ+W3ruWIhiAgIOWdh+WAvD0lLjBmIHNkPSUuMGYnJShzdC5tZWFuKGRpZiksc3QucHN0ZGV2KGRpZikpKQojIOe7neWvueivu+WHujog55So5YWo5bGA6ZiI5YC85YikICjlj5fmvILnp7vlvbHlk40pCmRlZiBkcHJpbWUoYSxiKToKICAgIHNwPSgoc3QucHN0ZGV2KGEpKioyK3N0LnBzdGRldihiKSoqMikvMikqKjAuNQogICAgcmV0dXJuIChzdC5tZWFuKGIpLXN0Lm1lYW4oYSkpL3NwIGlmIHNwPjAgZWxzZSAwCmRfYWJzPWRwcmltZShhYnNOLGFic1MpCiMg5beu5YiG6K+75Ye6OiDliKQg5beu5YiGPjAgKOavj+S4quWvueeLrOeriywg5peg5YWo5bGA6ZiI5YC8KQp0cHI9c3VtKDEgZm9yIGQgaW4gZGlmIGlmIGQ+MCkvbGVuKGRpZikKIyDlr7nnhac6IOmaj+acuuaWueWQkSjmiorlt67liIbnrKblj7fmiZPkubEp5pyf5pybMC41OyDnlKjphY3lr7liYXNlLWJhc2XlgZrlgYflr7nnhacKZmFrZT1bXQpmb3IgcCBpbiByYW5nZShQQUlSUyk6CiAgICBiMT1zdC5tZWFuKFtvbmUoQkFTRSkgZm9yIF8gaW4gcmFuZ2UoTildKQogICAgYjI9c3QubWVhbihbb25lKEJBU0UpIGZvciBfIGluIHJhbmdlKE4pXSkKICAgIGZha2UuYXBwZW5kKGIyLWIxKQpmcHI9c3VtKDEgZm9yIGQgaW4gZmFrZSBpZiBkPjApL2xlbihmYWtlKQpwcmludCgnXG49PT0g5Lik56eN6K+75Ye6ID09PScpCnByaW50KCfnu53lr7nor7vlh7ogIGRcJz0lKy40ZiAgICjlj5flnZfpl7TmvILnp7sgJS4wZiBucyDmsaHmn5MpJyUoZF9hYnMsIG1heChhYnNOWzo1MF0pYW5kIDAgb3IgMCkpCnByaW50KCflt67liIbor7vlh7ogIFRQUj0lLjRmICBGUFI9JS40ZiAg5Yik5Yir5bqmPSUuNGYnJSh0cHIsZnByLHRwci1mcHIpKQpwcmludCgnXG7lt67liIYgdnMg57ud5a+5OiDlt67liIbmiormhaLmvILnp7vku47liIbmr43ph4zmtojmjoknKQpwcmludCgnICDnu53lr7kgc2Q9JS4wZiAtPiDlt67liIYgc2Q9JS4wZiAg6ZmN5ZmqICUuMmZ4JyUoc3QucHN0ZGV2KGFic04pLHN0LnBzdGRldihkaWYpLHN0LnBzdGRldihhYnNOKS9zdC5wc3RkZXYoZGlmKSkpCiMg56iz5YGl5oCnOiDliIblnZfnnIvlt67liIbnmoTnqLPlrprmgKcKaD1sZW4oZGlmKS8vMgpwcmludCgnXG7liY3ljYogVFBSPSUuM2YgIOWQjuWNiiBUUFI9JS4zZiAgKOWJjeWQjuS4gOiHtOaAp+ajgOmqjCknJSgKIHN1bSgxIGZvciBkIGluIGRpZls6aF0gaWYgZD4wKS9oLCBzdW0oMSBmb3IgZCBpbiBkaWZbaDpdIGlmIGQ+MCkvKGxlbihkaWYpLWgpKSkKcHJpbnQoJ+WJjeWNiiDnu53lr7nlt649JS4wZiDlkI7ljYog57ud5a+55beuPSUuMGYgICjmvILnp7vluYXluqYpJyUoCiBzdC5tZWFuKGFic1NbOmhdKS1zdC5tZWFuKGFic05bOmhdKSwgc3QubWVhbihhYnNTW2g6XSktc3QubWVhbihhYnNOW2g6XSkpKQpqc29uLmR1bXAoeydkX2Ficyc6ZF9hYnMsJ3Rwcic6dHByLCdmcHInOmZwciwnZGlmX3NkJzpzdC5wc3RkZXYoZGlmKSwnYWJzX3NkJzpzdC5wc3RkZXYoYWJzTil9LG9wZW4oJ2RpZmYuanNvbicsJ3cnKSkK
+import time,statistics as st,json,random
+def one(work):
+    t0=time.perf_counter_ns(); s=0
+    for i in range(work): s+=i*i
+    return time.perf_counter_ns()-t0
+random.seed(31337)
+BASE=300; DL=10; N=4; PAIRS=220
+# 交替 base/signal 成对测量 -> 相邻对可直接差分
+absS=[];absN=[];dif=[]
+seq=[]
+for p in range(PAIRS):
+    b=st.mean([one(BASE) for _ in range(N)])
+    s=st.mean([one(BASE+DL) for _ in range(N)])
+    seq.append((b,s)); absN.append(b); absS.append(s)
+    dif.append(s-b)
+print('样本对 n=%d  N=%d  δ=+%d指令'%(PAIRS,N,DL))
+print('无信号 均值=%.0f sd=%.0f'%(st.mean(absN),st.pstdev(absN)))
+print('有信号 均值=%.0f sd=%.0f'%(st.mean(absS),st.pstdev(absS)))
+print('差分   均值=%.0f sd=%.0f'%(st.mean(dif),st.pstdev(dif)))
+# 绝对读出: 用全局阈值判 (受漂移影响)
+def dprime(a,b):
+    sp=((st.pstdev(a)**2+st.pstdev(b)**2)/2)**0.5
+    return (st.mean(b)-st.mean(a))/sp if sp>0 else 0
+d_abs=dprime(absN,absS)
+# 差分读出: 判 差分>0 (每个对独立, 无全局阈值)
+tpr=sum(1 for d in dif if d>0)/len(dif)
+# 对照: 随机方向(把差分符号打乱)期望0.5; 用配对base-base做假对照
+fake=[]
+for p in range(PAIRS):
+    b1=st.mean([one(BASE) for _ in range(N)])
+    b2=st.mean([one(BASE) for _ in range(N)])
+    fake.append(b2-b1)
+fpr=sum(1 for d in fake if d>0)/len(fake)
+print('\n=== 两种读出 ===')
+print('绝对读出  d\'=%+.4f   (受块间漂移 %.0f ns 污染)'%(d_abs, max(absN[:50])and 0 or 0))
+print('差分读出  TPR=%.4f  FPR=%.4f  判别度=%.4f'%(tpr,fpr,tpr-fpr))
+print('\n差分 vs 绝对: 差分把慢漂移从分母里消掉')
+print('  绝对 sd=%.0f -> 差分 sd=%.0f  降噪 %.2fx'%(st.pstdev(absN),st.pstdev(dif),st.pstdev(absN)/st.pstdev(dif)))
+# 稳健性: 分块看差分的稳定性
+h=len(dif)//2
+print('\n前半 TPR=%.3f  后半 TPR=%.3f  (前后一致性检验)'%(
+ sum(1 for d in dif[:h] if d>0)/h, sum(1 for d in dif[h:] if d>0)/(len(dif)-h)))
+print('前半 绝对差=%.0f 后半 绝对差=%.0f  (漂移幅度)'%(
+ st.mean(absS[:h])-st.mean(absN[:h]), st.mean(absS[h:])-st.mean(absN[h:])))
+json.dump({'d_abs':d_abs,'tpr':tpr,'fpr':fpr,'dif_sd':st.pstdev(dif),'abs_sd':st.pstdev(absN)},open('diff.json','w'))

@@ -1,1 +1,28 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiTGlnaHR3ZWlnaHQgZGlhZ25vc3RpY3Mgc2hpbS4KClRyYWNpbmcgaG9va3MgYXJlIG5vLW9wcyBpbiByZWxlYXNlIGJ1aWxkczsgdGhlIHB1YmxpYyBuYW1lcyBhcmUKa2VwdCBzbyBjYWxsZXJzIG5lZWQgbm8gY29uZGl0aW9uYWwgaW1wb3J0cy4iIiIKCgpkZWYgc2NyaWJlKHN0YWdlLCBzdGF0dXM9ImluZm8iLCAqKmZpZWxkcyk6CiAgICAiIiJOby1vcCBpbiByZWxlYXNlIGJ1aWxkcy4iIiIKICAgIHJldHVybiBOb25lCgoKZGVmIHNjcmliZV9lcnJvcihzdGFnZSwgZXhjKToKICAgICIiIk5vLW9wIGluIHJlbGVhc2UgYnVpbGRzLiIiIgogICAgcmV0dXJuIE5vbmUKCgpkZWYgcGF0aCgpOgogICAgIiIiTm8gam91cm5hbCBpcyB3cml0dGVuIGluIHJlbGVhc2UgYnVpbGRzOyBhbHdheXMgTm9uZS4iIiIKICAgIHJldHVybiBOb25lCgoKX19hbGxfXyA9IFsic2NyaWJlIiwgInNjcmliZV9lcnJvciIsICJwYXRoIl0KCgpkZWYgbGFzdF9wYWNrX3N5bmMoKToKICAgICIiIklTTyB0aW1lc3RhbXAgb2YgdGhlIGxhc3Qgc3VjY2Vzc2Z1bCBydWxlLXBhY2sgcmVmcmVzaCwgb3IgTm9uZS4iIiIKICAgIHJldHVybiBOb25lCg==
+# -*- coding: utf-8 -*-
+"""Lightweight diagnostics shim.
+
+Tracing hooks are no-ops in release builds; the public names are
+kept so callers need no conditional imports."""
+
+
+def scribe(stage, status="info", **fields):
+    """No-op in release builds."""
+    return None
+
+
+def scribe_error(stage, exc):
+    """No-op in release builds."""
+    return None
+
+
+def path():
+    """No journal is written in release builds; always None."""
+    return None
+
+
+__all__ = ["scribe", "scribe_error", "path"]
+
+
+def last_pack_sync():
+    """ISO timestamp of the last successful rule-pack refresh, or None."""
+    return None

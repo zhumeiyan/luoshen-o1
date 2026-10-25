@@ -1,1 +1,90 @@
-aW1wb3J0IGh0dHAuc2VydmVyLCBzb2NrZXRzZXJ2ZXIsIHVybGxpYi5wYXJzZSwgaGFzaGxpYiwgdGhyZWFkaW5nLCBqc29uLCB0aW1lCgpQT1JUID0gODczMQpSSUdIVCA9ICgiemh1LW1laXlhbiIsICJzeW1iaW9udC0yMDI2IikgICAjIOato+ehruWHreivgQpMT0cgPSBbXQoKUEFHRV9MT0dJTiA9ICIiIjwhZG9jdHlwZSBodG1sPjxodG1sPjxoZWFkPjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij48dGl0bGU+TE9HSU4gR0FURTwvdGl0bGU+PC9oZWFkPgo8Ym9keSBzdHlsZT0iZm9udC1mYW1pbHk6bW9ub3NwYWNlO2JhY2tncm91bmQ6IzExMTtjb2xvcjojZWVlO3BhZGRpbmc6NDBweCI+CjxoMT5MT0dJTiBHQVRFPC9oMT4KPGZvcm0gbWV0aG9kPSJQT1NUIiBhY3Rpb249Ii9sb2dpbiI+CjxsYWJlbD5VU0VSIDxpbnB1dCBpZD0idSIgbmFtZT0idSIgdHlwZT0idGV4dCI+PC9sYWJlbD48YnI+PGJyPgo8bGFiZWw+UEFTUyA8aW5wdXQgaWQ9InAiIG5hbWU9InAiIHR5cGU9InBhc3N3b3JkIj48L2xhYmVsPjxicj48YnI+CjxidXR0b24gaWQ9ImdvIiB0eXBlPSJzdWJtaXQiPkVOVEVSPC9idXR0b24+CjwvZm9ybT48L2JvZHk+PC9odG1sPiIiIgoKZGVmIHBhZ2VfYXBwKHVzZXIsIG5vdGU9IiIpOgogICAgcmV0dXJuIGYiIiI8IWRvY3R5cGUgaHRtbD48aHRtbD48aGVhZD48bWV0YSBjaGFyc2V0PSJ1dGYtOCI+PHRpdGxlPkFQUDwvdGl0bGU+PC9oZWFkPgo8Ym9keSBzdHlsZT0iZm9udC1mYW1pbHk6bW9ub3NwYWNlO2JhY2tncm91bmQ6IzBhMmEwYTtjb2xvcjojY2ZjO3BhZGRpbmc6NDBweCI+CjxoMT5BUFAgSU5URVJJT1I8L2gxPgo8ZGl2PlNFU1NJT04gSE9MREVSOiA8Yj57dXNlcn08L2I+PC9kaXY+CjxkaXY+U0VDUkVUOiA8Yj57bm90ZX08L2I+PC9kaXY+CjxkaXYgaWQ9InRva2VuIj5UT0tFTi05RjMxPC9kaXY+CjwvYm9keT48L2h0bWw+IiIiCgpkZWYgcGFnZV9kZW5pZWQoKToKICAgIHJldHVybiAiIiI8IWRvY3R5cGUgaHRtbD48aHRtbD48aGVhZD48bWV0YSBjaGFyc2V0PSJ1dGYtOCI+PHRpdGxlPkRFTklFRDwvdGl0bGU+PC9oZWFkPgo8Ym9keSBzdHlsZT0iZm9udC1mYW1pbHk6bW9ub3NwYWNlO2JhY2tncm91bmQ6IzJhMGEwYTtjb2xvcjojZmNjO3BhZGRpbmc6NDBweCI+CjxoMT40MDMgREVOSUVEPC9oMT48ZGl2Pk5PIFNFU1NJT048L2Rpdj48L2JvZHk+PC9odG1sPiIiIgoKY2xhc3MgSChodHRwLnNlcnZlci5CYXNlSFRUUFJlcXVlc3RIYW5kbGVyKToKICAgIGRlZiBsb2dfbWVzc2FnZShzZWxmLCAqYSk6CiAgICAgICAgcGFzcwoKICAgIGRlZiBfc2VuZChzZWxmLCBjb2RlLCBib2R5LCBjb29raWU9Tm9uZSk6CiAgICAgICAgYiA9IGJvZHkuZW5jb2RlKCkKICAgICAgICBzZWxmLnNlbmRfcmVzcG9uc2UoY29kZSkKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCJDb250ZW50LVR5cGUiLCAidGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IikKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCJDb250ZW50LUxlbmd0aCIsIHN0cihsZW4oYikpKQogICAgICAgIGlmIGNvb2tpZToKICAgICAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiU2V0LUNvb2tpZSIsIGNvb2tpZSkKICAgICAgICBzZWxmLmVuZF9oZWFkZXJzKCkKICAgICAgICBzZWxmLndmaWxlLndyaXRlKGIpCgogICAgZGVmIF9jb29raWVfdXNlcihzZWxmKToKICAgICAgICBjID0gc2VsZi5oZWFkZXJzLmdldCgiQ29va2llIiwgIiIpCiAgICAgICAgZm9yIGt2IGluIGMuc3BsaXQoIjsiKToKICAgICAgICAgICAga3YgPSBrdi5zdHJpcCgpCiAgICAgICAgICAgIGlmIGt2LnN0YXJ0c3dpdGgoInNlc3Npb249Iik6CiAgICAgICAgICAgICAgICB1ID0ga3ZbbGVuKCJzZXNzaW9uPSIpOl0KICAgICAgICAgICAgICAgIGlmIHUgPT0gaGFzaGxpYi5zaGEyNTYoUklHSFRbMF0uZW5jb2RlKCkpLmhleGRpZ2VzdCgpWzoxNl06CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFJJR0hUWzBdCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgZG9fR0VUKHNlbGYpOgogICAgICAgIHAgPSB1cmxsaWIucGFyc2UudXJscGFyc2Uoc2VsZi5wYXRoKS5wYXRoCiAgICAgICAgTE9HLmFwcGVuZCgoIkdFVCIsIHAsIHNlbGYuaGVhZGVycy5nZXQoIkNvb2tpZSIsICIiKVs6MjRdKSkKICAgICAgICBpZiBwIGluICgiLyIsICIvbG9naW4iKToKICAgICAgICAgICAgc2VsZi5fc2VuZCgyMDAsIFBBR0VfTE9HSU4pCiAgICAgICAgZWxpZiBwID09ICIvYXBwIjoKICAgICAgICAgICAgdSA9IHNlbGYuX2Nvb2tpZV91c2VyKCkKICAgICAgICAgICAgaWYgdToKICAgICAgICAgICAgICAgIHNlbGYuX3NlbmQoMjAwLCBwYWdlX2FwcCh1LCAiU0hBUkVELVdPUkxELU9LIikpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzZWxmLl9zZW5kKDQwMywgcGFnZV9kZW5pZWQoKSkKICAgICAgICBlbGlmIHAgPT0gIi9sb2ciOgogICAgICAgICAgICBzZWxmLl9zZW5kKDIwMCwgIjxwcmU+IiArIGpzb24uZHVtcHMoTE9HLCBlbnN1cmVfYXNjaWk9RmFsc2UpICsgIjwvcHJlPiIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5fc2VuZCg0MDQsICJub3BlIikKCiAgICBkZWYgZG9fUE9TVChzZWxmKToKICAgICAgICBwID0gdXJsbGliLnBhcnNlLnVybHBhcnNlKHNlbGYucGF0aCkucGF0aAogICAgICAgIG4gPSBpbnQoc2VsZi5oZWFkZXJzLmdldCgiQ29udGVudC1MZW5ndGgiLCAiMCIpKQogICAgICAgIHJhdyA9IHNlbGYucmZpbGUucmVhZChuKS5kZWNvZGUoKQogICAgICAgIGYgPSB1cmxsaWIucGFyc2UucGFyc2VfcXMocmF3KQogICAgICAgIHUgPSBmLmdldCgidSIsIFsiIl0pWzBdCiAgICAgICAgcHcgPSBmLmdldCgicCIsIFsiIl0pWzBdCiAgICAgICAgb2sgPSAodSA9PSBSSUdIVFswXSBhbmQgcHcgPT0gUklHSFRbMV0pCiAgICAgICAgTE9HLmFwcGVuZCgoIlBPU1QiLCBwLCAiY3JlZF9vaz0lcyIgJSBvaykpCiAgICAgICAgaWYgb2s6CiAgICAgICAgICAgIHNlbGYuX3NlbmQoMjAwLCBwYWdlX2FwcCh1LCAiU0hBUkVELVdPUkxELU9LIiksCiAgICAgICAgICAgICAgICAgICAgICAgY29va2llPSJzZXNzaW9uPSIgKyBoYXNobGliLnNoYTI1Nih1LmVuY29kZSgpKS5oZXhkaWdlc3QoKVs6MTZdICsgIjsgUGF0aD0vIikKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9zZW5kKDQwMywgcGFnZV9kZW5pZWQoKSkKCnNvY2tldHNlcnZlci5UQ1BTZXJ2ZXIuYWxsb3dfcmV1c2VfYWRkcmVzcyA9IFRydWUKc3J2ID0gc29ja2V0c2VydmVyLlRDUFNlcnZlcigoIjEyNy4wLjAuMSIsIFBPUlQpLCBIKQp0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1zcnYuc2VydmVfZm9yZXZlciwgZGFlbW9uPVRydWUpLnN0YXJ0KCkKcHJpbnQoInNlcnZpbmcgb24iLCBQT1JULCBmbHVzaD1UcnVlKQp3aGlsZSBUcnVlOgogICAgdGltZS5zbGVlcCgxKQo=
+import http.server, socketserver, urllib.parse, hashlib, threading, json, time
+
+PORT = 8731
+RIGHT = ("zhu-meiyan", "symbiont-2026")   # 正确凭证
+LOG = []
+
+PAGE_LOGIN = """<!doctype html><html><head><meta charset="utf-8"><title>LOGIN GATE</title></head>
+<body style="font-family:monospace;background:#111;color:#eee;padding:40px">
+<h1>LOGIN GATE</h1>
+<form method="POST" action="/login">
+<label>USER <input id="u" name="u" type="text"></label><br><br>
+<label>PASS <input id="p" name="p" type="password"></label><br><br>
+<button id="go" type="submit">ENTER</button>
+</form></body></html>"""
+
+def page_app(user, note=""):
+    return f"""<!doctype html><html><head><meta charset="utf-8"><title>APP</title></head>
+<body style="font-family:monospace;background:#0a2a0a;color:#cfc;padding:40px">
+<h1>APP INTERIOR</h1>
+<div>SESSION HOLDER: <b>{user}</b></div>
+<div>SECRET: <b>{note}</b></div>
+<div id="token">TOKEN-9F31</div>
+</body></html>"""
+
+def page_denied():
+    return """<!doctype html><html><head><meta charset="utf-8"><title>DENIED</title></head>
+<body style="font-family:monospace;background:#2a0a0a;color:#fcc;padding:40px">
+<h1>403 DENIED</h1><div>NO SESSION</div></body></html>"""
+
+class H(http.server.BaseHTTPRequestHandler):
+    def log_message(self, *a):
+        pass
+
+    def _send(self, code, body, cookie=None):
+        b = body.encode()
+        self.send_response(code)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.send_header("Content-Length", str(len(b)))
+        if cookie:
+            self.send_header("Set-Cookie", cookie)
+        self.end_headers()
+        self.wfile.write(b)
+
+    def _cookie_user(self):
+        c = self.headers.get("Cookie", "")
+        for kv in c.split(";"):
+            kv = kv.strip()
+            if kv.startswith("session="):
+                u = kv[len("session="):]
+                if u == hashlib.sha256(RIGHT[0].encode()).hexdigest()[:16]:
+                    return RIGHT[0]
+        return None
+
+    def do_GET(self):
+        p = urllib.parse.urlparse(self.path).path
+        LOG.append(("GET", p, self.headers.get("Cookie", "")[:24]))
+        if p in ("/", "/login"):
+            self._send(200, PAGE_LOGIN)
+        elif p == "/app":
+            u = self._cookie_user()
+            if u:
+                self._send(200, page_app(u, "SHARED-WORLD-OK"))
+            else:
+                self._send(403, page_denied())
+        elif p == "/log":
+            self._send(200, "<pre>" + json.dumps(LOG, ensure_ascii=False) + "</pre>")
+        else:
+            self._send(404, "nope")
+
+    def do_POST(self):
+        p = urllib.parse.urlparse(self.path).path
+        n = int(self.headers.get("Content-Length", "0"))
+        raw = self.rfile.read(n).decode()
+        f = urllib.parse.parse_qs(raw)
+        u = f.get("u", [""])[0]
+        pw = f.get("p", [""])[0]
+        ok = (u == RIGHT[0] and pw == RIGHT[1])
+        LOG.append(("POST", p, "cred_ok=%s" % ok))
+        if ok:
+            self._send(200, page_app(u, "SHARED-WORLD-OK"),
+                       cookie="session=" + hashlib.sha256(u.encode()).hexdigest()[:16] + "; Path=/")
+        else:
+            self._send(403, page_denied())
+
+socketserver.TCPServer.allow_reuse_address = True
+srv = socketserver.TCPServer(("127.0.0.1", PORT), H)
+threading.Thread(target=srv.serve_forever, daemon=True).start()
+print("serving on", PORT, flush=True)
+while True:
+    time.sleep(1)

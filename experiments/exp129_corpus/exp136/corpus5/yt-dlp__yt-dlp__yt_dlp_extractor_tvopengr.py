@@ -1,1 +1,130 @@
-ZnJvbSAuY29tbW9uIGltcG9ydCBJbmZvRXh0cmFjdG9yCmZyb20gLi51dGlscyBpbXBvcnQgKAogICAgZGV0ZXJtaW5lX2V4dCwKICAgIGdldF9lbGVtZW50c190ZXh0X2FuZF9odG1sX2J5X2F0dHJpYnV0ZSwKICAgIHNjYWxlX3RodW1ibmFpbHNfdG9fbWF4X2Zvcm1hdF93aWR0aCwKKQoKCmNsYXNzIFRWT3BlbkdyQmFzZUlFKEluZm9FeHRyYWN0b3IpOgogICAgZGVmIF9yZXR1cm5fY2Fub25pY2FsX3VybChzZWxmLCB1cmwsIHZpZGVvX2lkKToKICAgICAgICB3ZWJwYWdlID0gc2VsZi5fZG93bmxvYWRfd2VicGFnZSh1cmwsIHZpZGVvX2lkKQogICAgICAgIGNhbm9uaWNhbF91cmwgPSBzZWxmLl9vZ19zZWFyY2hfdXJsKHdlYnBhZ2UpCiAgICAgICAgdGl0bGUgPSBzZWxmLl9vZ19zZWFyY2hfdGl0bGUod2VicGFnZSkKICAgICAgICByZXR1cm4gc2VsZi51cmxfcmVzdWx0KGNhbm9uaWNhbF91cmwsIGllPVRWT3BlbkdyV2F0Y2hJRS5pZV9rZXkoKSwgdmlkZW9faWQ9dmlkZW9faWQsIHZpZGVvX3RpdGxlPXRpdGxlKQoKCmNsYXNzIFRWT3BlbkdyV2F0Y2hJRShUVk9wZW5HckJhc2VJRSk6CiAgICBJRV9OQU1FID0gJ3R2b3BlbmdyOndhdGNoJwogICAgSUVfREVTQyA9ICd0dm9wZW4uZ3IgKGFuZCBldGhub3MuZ3IpIHZpZGVvcycKICAgIF9WQUxJRF9VUkwgPSByJ2h0dHBzPzovLyg/UDxuZXRsb2M+KD86d3d3XC4pPyg/OnR2b3BlbnxldGhub3MpXC5ncikvd2F0Y2gvKD9QPGlkPlxkKykvKD9QPHNsdWc+W14vXSspJwogICAgX0FQSV9FTkRQT0lOVCA9ICdodHRwczovL3d3dy50dm9wZW4uZ3IvdGVtcGxhdGVzL2RhdGEvcGxheWVyJwoKICAgIF9URVNUUyA9IFt7CiAgICAgICAgJ3VybCc6ICdodHRwczovL3d3dy5ldGhub3MuZ3Ivd2F0Y2gvMTAxMDA5L25pa29za2FwcmFiZWxvc2RlbmV4b3ltZWthbmVuYW5hc3RoZW5oc2VtZXRobWV0aG1ldGFsbGF4aG9taWtyb24nLAogICAgICAgICdpbmZvX2RpY3QnOiB7CiAgICAgICAgICAgICdpZCc6ICcxMDEwMDknLAogICAgICAgICAgICAndGl0bGUnOiAnbWQ1OjUxZjY4NzczZGNiNmM3MDQ5OGNkMzI2ZjQ1ZmVmZGYwJywKICAgICAgICAgICAgJ2Rpc3BsYXlfaWQnOiAnbmlrb3NrYXByYWJlbG9zZGVuZXhveW1la2FuZW5hbmFzdGhlbmhzZW1ldGhtZXRobWV0YWxsYXhob21pa3JvbicsCiAgICAgICAgICAgICdkZXNjcmlwdGlvbic6ICdtZDU6NzhmZmY0OWYxOGZiM2VmZmU0MWIwNzBlNWM3Njg1ZDYnLAogICAgICAgICAgICAnZHVyYXRpb24nOiAyNDYuMCwKICAgICAgICAgICAgJ3RodW1ibmFpbCc6ICdodHRwczovL29wZW50di1zdGF0aWMuc2lsaWNvbndlYi5jb20vaW1nSGFuZGxlci8xOTIwL2Q1NzNiYTcxLWVjNWYtNDNjNi1iNGNiLWQxODFmMzI3ZDNhOC5qcGcnLAogICAgICAgICAgICAnZXh0JzogJ21wNCcsCiAgICAgICAgICAgICd1cGxvYWRfZGF0ZSc6ICcyMDIyMDEwOScsCiAgICAgICAgICAgICd0aW1lc3RhbXAnOiAxNjQxNjg2NDAwLAogICAgICAgIH0sCiAgICB9LCB7CiAgICAgICAgJ3VybCc6ICdodHRwczovL3d3dy50dm9wZW4uZ3Ivd2F0Y2gvMTAwOTc5L3NlMjgwOTlhZ2FwYW9tZW5hbGxhN2NlcGVpc29kaW8yNjdjbWh0aHJhcmdpYXBhc2hza2FraWFzJywKICAgICAgICAnaW5mb19kaWN0JzogewogICAgICAgICAgICAnaWQnOiAnMTAwOTc5JywKICAgICAgICAgICAgJ3RpdGxlJzogJ21kNTplMDIxZjMwMDFlMTYwODhlZTQwZmE3OWIyMGRmMzA1YicsCiAgICAgICAgICAgICdkaXNwbGF5X2lkJzogJ3NlMjgwOTlhZ2FwYW9tZW5hbGxhN2NlcGVpc29kaW8yNjdjbWh0aHJhcmdpYXBhc2hza2FraWFzJywKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJzogJ21kNTpiYTE3ZGI1Mzk1NDEzNGViOGQ2MjVkMTk5ZTI5MTlmYicsCiAgICAgICAgICAgICdkdXJhdGlvbic6IDI0MjAuMCwKICAgICAgICAgICAgJ3RodW1ibmFpbCc6ICdodHRwczovL29wZW50di1zdGF0aWMuc2lsaWNvbndlYi5jb20vaW1nSGFuZGxlci8xOTIwLzliYjcxY2YxLTIxZGEtNDNhOS05ZDY1LTM2Nzk1MGZkZTRlMy5qcGcnLAogICAgICAgICAgICAnZXh0JzogJ21wNCcsCiAgICAgICAgICAgICd1cGxvYWRfZGF0ZSc6ICcyMDIyMDEwOCcsCiAgICAgICAgICAgICd0aW1lc3RhbXAnOiAxNjQxNjAwMDAwLAogICAgICAgIH0sCiAgICB9XQoKICAgIGRlZiBfZXh0cmFjdF9mb3JtYXRzX2FuZF9zdWJzKHNlbGYsIHJlc3BvbnNlLCB2aWRlb19pZCk6CiAgICAgICAgZm9ybWF0cywgc3VicyA9IFtdLCB7fQogICAgICAgIGZvciBmb3JtYXRfaWQsIGZvcm1hdF91cmwgaW4gcmVzcG9uc2UuaXRlbXMoKToKICAgICAgICAgICAgaWYgZm9ybWF0X2lkIG5vdCBpbiAoJ3N0cmVhbScsICdodHRwc3RyZWFtJywgJ21wZWdkYXNoJyk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBleHQgPSBkZXRlcm1pbmVfZXh0KGZvcm1hdF91cmwpCiAgICAgICAgICAgIGlmIGV4dCA9PSAnbTN1OCc6CiAgICAgICAgICAgICAgICBmb3JtYXRzXywgc3Vic18gPSBzZWxmLl9leHRyYWN0X20zdThfZm9ybWF0c19hbmRfc3VidGl0bGVzKAogICAgICAgICAgICAgICAgICAgIGZvcm1hdF91cmwsIHZpZGVvX2lkLCAnbXA0JywgbTN1OF9pZD1mb3JtYXRfaWQsCiAgICAgICAgICAgICAgICAgICAgZmF0YWw9RmFsc2UpCiAgICAgICAgICAgIGVsaWYgZXh0ID09ICdtcGQnOgogICAgICAgICAgICAgICAgZm9ybWF0c18sIHN1YnNfID0gc2VsZi5fZXh0cmFjdF9tcGRfZm9ybWF0c19hbmRfc3VidGl0bGVzKAogICAgICAgICAgICAgICAgICAgIGZvcm1hdF91cmwsIHZpZGVvX2lkLCAnbXA0JywgZmF0YWw9RmFsc2UpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmb3JtYXRzLmFwcGVuZCh7CiAgICAgICAgICAgICAgICAgICAgJ3VybCc6IGZvcm1hdF91cmwsCiAgICAgICAgICAgICAgICAgICAgJ2Zvcm1hdF9pZCc6IGZvcm1hdF9pZCwKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBmb3JtYXRzLmV4dGVuZChmb3JtYXRzXykKICAgICAgICAgICAgc2VsZi5fbWVyZ2Vfc3VidGl0bGVzKHN1YnNfLCB0YXJnZXQ9c3VicykKICAgICAgICByZXR1cm4gZm9ybWF0cywgc3VicwoKICAgIGRlZiBfcmVhbF9leHRyYWN0KHNlbGYsIHVybCk6CiAgICAgICAgbmV0bG9jLCB2aWRlb19pZCwgZGlzcGxheV9pZCA9IHNlbGYuX21hdGNoX3ZhbGlkX3VybCh1cmwpLmdyb3VwKCduZXRsb2MnLCAnaWQnLCAnc2x1ZycpCiAgICAgICAgaWYgbmV0bG9jLmZpbmQoJ3R2b3Blbi5ncicpID09IC0xOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fcmV0dXJuX2Nhbm9uaWNhbF91cmwodXJsLCB2aWRlb19pZCkKICAgICAgICB3ZWJwYWdlID0gc2VsZi5fZG93bmxvYWRfd2VicGFnZSh1cmwsIHZpZGVvX2lkKQogICAgICAgIGluZm8gPSBzZWxmLl9zZWFyY2hfanNvbl9sZCh3ZWJwYWdlLCB2aWRlb19pZCwgZXhwZWN0ZWRfdHlwZT0nVmlkZW9PYmplY3QnKQogICAgICAgIGluZm9bJ2Zvcm1hdHMnXSwgaW5mb1snc3VidGl0bGVzJ10gPSBzZWxmLl9leHRyYWN0X2Zvcm1hdHNfYW5kX3N1YnMoCiAgICAgICAgICAgIHNlbGYuX2Rvd25sb2FkX2pzb24oc2VsZi5fQVBJX0VORFBPSU5ULCB2aWRlb19pZCwgcXVlcnk9eydjaWQnOiB2aWRlb19pZH0pLAogICAgICAgICAgICB2aWRlb19pZCkKICAgICAgICBpbmZvWyd0aHVtYm5haWxzJ10gPSBzY2FsZV90aHVtYm5haWxzX3RvX21heF9mb3JtYXRfd2lkdGgoCiAgICAgICAgICAgIGluZm9bJ2Zvcm1hdHMnXSwgaW5mb1sndGh1bWJuYWlscyddLCByJyg/PD0vaW1nSGFuZGxlci8pXGQrJykKICAgICAgICBkZXNjcmlwdGlvbiwgX2h0bWwgPSBuZXh0KGdldF9lbGVtZW50c190ZXh0X2FuZF9odG1sX2J5X2F0dHJpYnV0ZSgnY2xhc3MnLCAnZGVzY3JpcHRpb24nLCB3ZWJwYWdlKSkKICAgICAgICBpZiBkZXNjcmlwdGlvbiBhbmQgX2h0bWwuc3RhcnRzd2l0aCgnPHNwYW4gJyk6CiAgICAgICAgICAgIGluZm9bJ2Rlc2NyaXB0aW9uJ10gPSBkZXNjcmlwdGlvbgogICAgICAgIGluZm9bJ2lkJ10gPSB2aWRlb19pZAogICAgICAgIGluZm9bJ2Rpc3BsYXlfaWQnXSA9IGRpc3BsYXlfaWQKICAgICAgICByZXR1cm4gaW5mbwoKCmNsYXNzIFRWT3BlbkdyRW1iZWRJRShUVk9wZW5HckJhc2VJRSk6CiAgICBJRV9OQU1FID0gJ3R2b3BlbmdyOmVtYmVkJwogICAgSUVfREVTQyA9ICd0dm9wZW4uZ3IgZW1iZWRkZWQgdmlkZW9zJwogICAgX1ZBTElEX1VSTCA9IHInKD86aHR0cHM/Oik/Ly8oPzp3d3dcLnxjZG5cLnwpKD86dHZvcGVufGV0aG5vcykuZ3IvZW1iZWQvKD9QPGlkPlxkKyknCiAgICBfRU1CRURfUkVHRVggPSBbcmYnJyc8aWZyYW1lW14+XSs/c3JjPSg/UDxfcTE+WyInXSkoP1A8dXJsPntfVkFMSURfVVJMfSkoP1A9X3ExKScnJ10KCiAgICBfVEVTVFMgPSBbewogICAgICAgICd1cmwnOiAnaHR0cHM6Ly9jZG4uZXRobm9zLmdyL2VtYmVkLzEwMDk2MycsCiAgICAgICAgJ2luZm9fZGljdCc6IHsKICAgICAgICAgICAgJ2lkJzogJzEwMDk2MycsCiAgICAgICAgICAgICdkaXNwbGF5X2lkJzogJ2tvcm9ub2lvc2Fwb3RveXNkaWV5dGh5bnRlc3RvbnN4b2xlaW9uc2VsZnRlc3RnaWFvc295c2RlbmJyaGthbicsCiAgICAgICAgICAgICd0aXRsZSc6ICdtZDU6MmM3MTg3NmZhZGYwY2RhNjA0M2RhMGRhNWZjYTI5MzYnLAogICAgICAgICAgICAnZGVzY3JpcHRpb24nOiAnbWQ1OjE3NDgyYjQ0MzJlNWVkMzBlY2NkOTNiMDVkNmVhNTA5JywKICAgICAgICAgICAgJ2R1cmF0aW9uJzogMTE4LjAsCiAgICAgICAgICAgICd0aHVtYm5haWwnOiAnaHR0cHM6Ly9vcGVudHYtc3RhdGljLnNpbGljb253ZWIuY29tL2ltZ0hhbmRsZXIvMTkyMC81ODA0ZTA3Zi03OTlhLTQyNDctYTY5Ni0zMzg0MmM5NGNhMzcuanBnJywKICAgICAgICAgICAgJ2V4dCc6ICdtcDQnLAogICAgICAgICAgICAndXBsb2FkX2RhdGUnOiAnMjAyMjAxMDgnLAogICAgICAgICAgICAndGltZXN0YW1wJzogMTY0MTYwMDAwMCwKICAgICAgICB9LAogICAgfV0KICAgIF9XRUJQQUdFX1RFU1RTID0gW3sKICAgICAgICAndXJsJzogJ2h0dHBzOi8vd3d3LmV0aG5vcy5nci9Xb3JsZC9hcnRpY2xlLzE5MDYwNC9ocGFyb3NpYXhla2lub3lub2lzeW5vbWlsaWVzc3RoZ2VuZXlobWV0aHNraWF0b3lwb2xlbW95cGFub2Fwb3Robm95a3JhbmlhJywKICAgICAgICAnaW5mb19kaWN0JzogewogICAgICAgICAgICAnaWQnOiAnMTAxMTE5JywKICAgICAgICAgICAgJ2V4dCc6ICdtcDQnLAogICAgICAgICAgICAndGl0bGUnOiAnzp/OuSDOus6xz4HPgM6/zq8gz4TPic69IM60zrnOsc+Az4HOsc6zzrzOsc+EzrXPjc+DzrXPic69IM6XzqDOkS3Ooc+Jz4POr86xz4IgfCDOj8+BzrEgzpXOu867zqzOtM6/z4IgNzowMCA+IM6hzrXPgM6/z4HPhM6szrYnLAogICAgICAgICAgICAnZGVzY3JpcHRpb24nOiAnzp7Otc66zrnOvc6/z43OvSDOv865IM60zrnOsc+Az4HOsc6zzrzOsc+EzrXPjc+DzrXOuc+CIM6xzr3OrM68zrXPg86xIM+DzrUgzpfOvc+JzrzOrc69zrXPgiDOoM6/zrvOuc+EzrXOr861z4IgzrrOsc65IM6hz4nPg86vzrEgzrPOuc6xIM+EzrfOvSDOn8+FzrrPgc6xzr3Or86xLicsCiAgICAgICAgICAgICdkaXNwbGF5X2lkJzogJ29pa2FycG9pdG9uZGlhcHJhZ21hdGV5c2VvbmhwYXJvc2lhcycsCiAgICAgICAgICAgICdkdXJhdGlvbic6IDQyMS4wLAogICAgICAgICAgICAndGh1bWJuYWlsJzogcidyZTpodHRwcz86Ly9vcGVudHYtc3RhdGljXC5zaWxpY29ud2ViXC5jb20vaW1nSGFuZGxlci8uK1wuanBnJywKICAgICAgICAgICAgJ3RpbWVzdGFtcCc6IDE2NDE3NzI4MDAsCiAgICAgICAgICAgICd1cGxvYWRfZGF0ZSc6ICcyMDIyMDExMCcsCiAgICAgICAgfSwKICAgIH1dCgogICAgZGVmIF9yZWFsX2V4dHJhY3Qoc2VsZiwgdXJsKToKICAgICAgICB2aWRlb19pZCA9IHNlbGYuX21hdGNoX2lkKHVybCkKICAgICAgICByZXR1cm4gc2VsZi5fcmV0dXJuX2Nhbm9uaWNhbF91cmwodXJsLCB2aWRlb19pZCkK
+from .common import InfoExtractor
+from ..utils import (
+    determine_ext,
+    get_elements_text_and_html_by_attribute,
+    scale_thumbnails_to_max_format_width,
+)
+
+
+class TVOpenGrBaseIE(InfoExtractor):
+    def _return_canonical_url(self, url, video_id):
+        webpage = self._download_webpage(url, video_id)
+        canonical_url = self._og_search_url(webpage)
+        title = self._og_search_title(webpage)
+        return self.url_result(canonical_url, ie=TVOpenGrWatchIE.ie_key(), video_id=video_id, video_title=title)
+
+
+class TVOpenGrWatchIE(TVOpenGrBaseIE):
+    IE_NAME = 'tvopengr:watch'
+    IE_DESC = 'tvopen.gr (and ethnos.gr) videos'
+    _VALID_URL = r'https?://(?P<netloc>(?:www\.)?(?:tvopen|ethnos)\.gr)/watch/(?P<id>\d+)/(?P<slug>[^/]+)'
+    _API_ENDPOINT = 'https://www.tvopen.gr/templates/data/player'
+
+    _TESTS = [{
+        'url': 'https://www.ethnos.gr/watch/101009/nikoskaprabelosdenexoymekanenanasthenhsemethmethmetallaxhomikron',
+        'info_dict': {
+            'id': '101009',
+            'title': 'md5:51f68773dcb6c70498cd326f45fefdf0',
+            'display_id': 'nikoskaprabelosdenexoymekanenanasthenhsemethmethmetallaxhomikron',
+            'description': 'md5:78fff49f18fb3effe41b070e5c7685d6',
+            'duration': 246.0,
+            'thumbnail': 'https://opentv-static.siliconweb.com/imgHandler/1920/d573ba71-ec5f-43c6-b4cb-d181f327d3a8.jpg',
+            'ext': 'mp4',
+            'upload_date': '20220109',
+            'timestamp': 1641686400,
+        },
+    }, {
+        'url': 'https://www.tvopen.gr/watch/100979/se28099agapaomenalla7cepeisodio267cmhthrargiapashskakias',
+        'info_dict': {
+            'id': '100979',
+            'title': 'md5:e021f3001e16088ee40fa79b20df305b',
+            'display_id': 'se28099agapaomenalla7cepeisodio267cmhthrargiapashskakias',
+            'description': 'md5:ba17db53954134eb8d625d199e2919fb',
+            'duration': 2420.0,
+            'thumbnail': 'https://opentv-static.siliconweb.com/imgHandler/1920/9bb71cf1-21da-43a9-9d65-367950fde4e3.jpg',
+            'ext': 'mp4',
+            'upload_date': '20220108',
+            'timestamp': 1641600000,
+        },
+    }]
+
+    def _extract_formats_and_subs(self, response, video_id):
+        formats, subs = [], {}
+        for format_id, format_url in response.items():
+            if format_id not in ('stream', 'httpstream', 'mpegdash'):
+                continue
+            ext = determine_ext(format_url)
+            if ext == 'm3u8':
+                formats_, subs_ = self._extract_m3u8_formats_and_subtitles(
+                    format_url, video_id, 'mp4', m3u8_id=format_id,
+                    fatal=False)
+            elif ext == 'mpd':
+                formats_, subs_ = self._extract_mpd_formats_and_subtitles(
+                    format_url, video_id, 'mp4', fatal=False)
+            else:
+                formats.append({
+                    'url': format_url,
+                    'format_id': format_id,
+                })
+                continue
+            formats.extend(formats_)
+            self._merge_subtitles(subs_, target=subs)
+        return formats, subs
+
+    def _real_extract(self, url):
+        netloc, video_id, display_id = self._match_valid_url(url).group('netloc', 'id', 'slug')
+        if netloc.find('tvopen.gr') == -1:
+            return self._return_canonical_url(url, video_id)
+        webpage = self._download_webpage(url, video_id)
+        info = self._search_json_ld(webpage, video_id, expected_type='VideoObject')
+        info['formats'], info['subtitles'] = self._extract_formats_and_subs(
+            self._download_json(self._API_ENDPOINT, video_id, query={'cid': video_id}),
+            video_id)
+        info['thumbnails'] = scale_thumbnails_to_max_format_width(
+            info['formats'], info['thumbnails'], r'(?<=/imgHandler/)\d+')
+        description, _html = next(get_elements_text_and_html_by_attribute('class', 'description', webpage))
+        if description and _html.startswith('<span '):
+            info['description'] = description
+        info['id'] = video_id
+        info['display_id'] = display_id
+        return info
+
+
+class TVOpenGrEmbedIE(TVOpenGrBaseIE):
+    IE_NAME = 'tvopengr:embed'
+    IE_DESC = 'tvopen.gr embedded videos'
+    _VALID_URL = r'(?:https?:)?//(?:www\.|cdn\.|)(?:tvopen|ethnos).gr/embed/(?P<id>\d+)'
+    _EMBED_REGEX = [rf'''<iframe[^>]+?src=(?P<_q1>["'])(?P<url>{_VALID_URL})(?P=_q1)''']
+
+    _TESTS = [{
+        'url': 'https://cdn.ethnos.gr/embed/100963',
+        'info_dict': {
+            'id': '100963',
+            'display_id': 'koronoiosapotoysdieythyntestonsxoleionselftestgiaosoysdenbrhkan',
+            'title': 'md5:2c71876fadf0cda6043da0da5fca2936',
+            'description': 'md5:17482b4432e5ed30eccd93b05d6ea509',
+            'duration': 118.0,
+            'thumbnail': 'https://opentv-static.siliconweb.com/imgHandler/1920/5804e07f-799a-4247-a696-33842c94ca37.jpg',
+            'ext': 'mp4',
+            'upload_date': '20220108',
+            'timestamp': 1641600000,
+        },
+    }]
+    _WEBPAGE_TESTS = [{
+        'url': 'https://www.ethnos.gr/World/article/190604/hparosiaxekinoynoisynomiliessthgeneyhmethskiatoypolemoypanoapothnoykrania',
+        'info_dict': {
+            'id': '101119',
+            'ext': 'mp4',
+            'title': 'Οι καρποί των διαπραγματεύσεων ΗΠΑ-Ρωσίας | Ώρα Ελλάδος 7:00 > Ρεπορτάζ',
+            'description': 'Ξεκινούν οι διαπραγματεύσεις ανάμεσα σε Ηνωμένες Πολιτείες και Ρωσία για την Ουκρανία.',
+            'display_id': 'oikarpoitondiapragmateyseonhparosias',
+            'duration': 421.0,
+            'thumbnail': r're:https?://opentv-static\.siliconweb\.com/imgHandler/.+\.jpg',
+            'timestamp': 1641772800,
+            'upload_date': '20220110',
+        },
+    }]
+
+    def _real_extract(self, url):
+        video_id = self._match_id(url)
+        return self._return_canonical_url(url, video_id)

@@ -1,1 +1,37 @@
-WwogewogICJUIjogMC4wLAogICJkX3ByaW1lIjogMC40MjkzLAogICJzaWdfbWVkIjogNTAwMjg4LjUsCiAgImJhc2VfbWVkIjogNTAwMTk4LjUsCiAgIndhbGxfcyI6IDAuMDAwNgogfSwKIHsKICAiVCI6IDAuMDA1LAogICJkX3ByaW1lIjogMC4yNzg2LAogICJzaWdfbWVkIjogNTAwMjQzLjAsCiAgImJhc2VfbWVkIjogNTAwMjQzLjAsCiAgIndhbGxfcyI6IDAuMDMwNgogfSwKIHsKICAiVCI6IDAuMDUsCiAgImRfcHJpbWUiOiAwLjM4MjIsCiAgInNpZ19tZWQiOiA1MDAxOTQuMCwKICAiYmFzZV9tZWQiOiA1MDAxOTMuMCwKICAid2FsbF9zIjogMC4zMDA2CiB9LAogewogICJUIjogMC4yLAogICJkX3ByaW1lIjogMC41NzMxLAogICJzaWdfbWVkIjogNTAwMjczLjUsCiAgImJhc2VfbWVkIjogNTAwMTg0LjAsCiAgIndhbGxfcyI6IDEuMjAwNgogfSwKIHsKICAiVCI6IDAuOCwKICAiZF9wcmltZSI6IC0wLjQyOTEsCiAgInNpZ19tZWQiOiA1MDAxOTguMCwKICAiYmFzZV9tZWQiOiA1MDAxOTQuMCwKICAid2FsbF9zIjogNC44MDA2CiB9Cl0=
+[
+ {
+  "T": 0.0,
+  "d_prime": 0.4293,
+  "sig_med": 500288.5,
+  "base_med": 500198.5,
+  "wall_s": 0.0006
+ },
+ {
+  "T": 0.005,
+  "d_prime": 0.2786,
+  "sig_med": 500243.0,
+  "base_med": 500243.0,
+  "wall_s": 0.0306
+ },
+ {
+  "T": 0.05,
+  "d_prime": 0.3822,
+  "sig_med": 500194.0,
+  "base_med": 500193.0,
+  "wall_s": 0.3006
+ },
+ {
+  "T": 0.2,
+  "d_prime": 0.5731,
+  "sig_med": 500273.5,
+  "base_med": 500184.0,
+  "wall_s": 1.2006
+ },
+ {
+  "T": 0.8,
+  "d_prime": -0.4291,
+  "sig_med": 500198.0,
+  "base_med": 500194.0,
+  "wall_s": 4.8006
+ }
+]

@@ -1,1 +1,9 @@
-ewogInJvbGUiOiAiYWxwaGEiLAogInBpZCI6IDIzMDYsCiAicnVuX2lkIjogIjY0ZjQ5Mjc5OGUzMDRhZjciLAogInZhbHVlIjogMTAsCiAicnVsZSI6ICLlj6rmlbAgJyMjIOKYhU4nIOW8gOWktOeahCIsCiAibW9kZSI6ICJob25lc3QiLAogInRyYWNlIjogIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xLy5zZW5zZS90cmFjZXMvNjRmNDkyNzk4ZTMwNGFmNy5qc29ubCIKfQ==
+{
+ "role": "alpha",
+ "pid": 2306,
+ "run_id": "64f492798e304af7",
+ "value": 10,
+ "rule": "只数 '## ★N' 开头的",
+ "mode": "honest",
+ "trace": "/data/workspace/luoshen-o1/.sense/traces/64f492798e304af7.jsonl"
+}

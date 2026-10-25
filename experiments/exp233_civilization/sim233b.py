@@ -1,1 +1,52 @@
-aW1wb3J0IHJhbmRvbSwganNvbiwgc3RhdGlzdGljcyBhcyBzdAoKZGVmIHJ1bihmLCBLLCBUPTQwMCwgcDA9MC4wMiwgc2VlZHM9MTIsIHByb3RlY3Q9MC4wLCBjYXA9Ni4wKToKICAgICIiIgogICAgZjog5o6i57Si6ICF5Y2g5q+UICBLOiDlpIfku73ngrkgIHByb3RlY3Q6IOaOoue0ouS7o+S7t+ekvuS8muWMluavlOS+iyAgY2FwOiDmioDmnK/ppbHlkozkuIrpmZAKICAgIOS/ruWkjTogdGVjaCDppbHlkozliLAgY2FwIChsb2cg57Sv56evKSwg5LiU54G+6Zq+546H6ZqPIHRlY2gg5LiK5Y2HKOaKgOacr+WIm+mAoOaWsOmjjumZqeexu+WIqykKICAgICIiIgogICAgc3VydiwgZml0LCB0ZWNocyA9IFtdLCBbXSwgW10KICAgIGZvciBzIGluIHJhbmdlKHNlZWRzKToKICAgICAgICByID0gcmFuZG9tLlJhbmRvbShzKjEzMSs3KQogICAgICAgIE4gPSAyMDA7IG5leCA9IG1heCgxLCBpbnQoTipmKSkgaWYgZj4wIGVsc2UgMAogICAgICAgIGFsaXZlPVRydWU7IHRsPTAuMDsgd2VhbHRoPTEuMDsgYms9W1RydWVdKksKICAgICAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICAgICAgaWYgYWxpdmU6CiAgICAgICAgICAgICAgICBmb3IgXyBpbiByYW5nZShuZXgpOgogICAgICAgICAgICAgICAgICAgIHdlYWx0aCAtPSAwLjMwKigxLXByb3RlY3QpL04KICAgICAgICAgICAgICAgICAgICBpZiByLnJhbmRvbSgpIDwgMC4wMTI6CiAgICAgICAgICAgICAgICAgICAgICAgIHRsICs9IHIucGFyZXRvdmFyaWF0ZSgxLjQpLzMuMCAgICAgICAgICAjIOWKoOaAp+e0r+enrwogICAgICAgICAgICAgICAgdGwgPSBtaW4odGwsIGNhcCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg6aWx5ZKMCiAgICAgICAgICAgICAgICB3ZWFsdGggKz0gMC4zNSooMS1mKQogICAgICAgICAgICAjIOeBvumavueOh+maj+aKgOacr+S4iuWNhyjmlrDpo47pmannsbvliKspLCDoh7Tmrbvnjofpmo/mioDmnK/kuIvpmY0o5pyJ6KejKQogICAgICAgICAgICBwX2RpcyAgPSBwMCooMSArIDAuNTUqdGwpCiAgICAgICAgICAgIGtpbGwgICA9IG1heCgwLjEwLCAwLjk1LygxK3RsKSkKICAgICAgICAgICAgaWYgci5yYW5kb20oKSA8IHBfZGlzOgogICAgICAgICAgICAgICAgaWYgci5yYW5kb20oKSA8IGtpbGw6IGFsaXZlPUZhbHNlCiAgICAgICAgICAgIGlmIG5vdCBhbGl2ZToKICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKEspOgogICAgICAgICAgICAgICAgICAgIGlmIGJrW2ldIGFuZCByLnJhbmRvbSgpIDwgMC4wMjogYmtbaV09RmFsc2UKICAgICAgICAgICAgICAgIGlmIGFueShiayk6IGFsaXZlPVRydWU7IHdlYWx0aCo9MC40CiAgICAgICAgc3Vydi5hcHBlbmQoMS4wIGlmIGFsaXZlIGVsc2UgMC4wKTsgZml0LmFwcGVuZCh3ZWFsdGgpOyB0ZWNocy5hcHBlbmQodGwpCiAgICByZXR1cm4gc3QubWVhbihzdXJ2KSwgc3QubWVhbihmaXQpLCBzdC5tZWFuKHRlY2hzKQoKb3V0PXt9CnByaW50KCI9PSBmIOaJq+aPjyAoSz0xKSA9PSIpCnJvd3M9W10KZm9yIGYgaW4gWzAuMCwwLjAyLDAuMDUsMC4xMCwwLjE1LDAuMjAsMC4zMCwwLjUwLDEuMF06CiAgICBzLGZpLHRjID0gcnVuKGYsMSk7IG91dFsnZj0lLjJmJyVmXT17J3N1cnYnOnJvdW5kKHMsMyksJ2ZpdCc6cm91bmQoZmksMiksJ3RlY2gnOnJvdW5kKHRjLDIpfQogICAgcm93cy5hcHBlbmQoKGYscyxmaSx0YykpOyBwcmludCgiIGY9JS4yZiAgc3Vydj0lLjNmICBmaXQ9JS4yZiAgdGVjaD0lLjJmIiUoZixzLGZpLHRjKSkKYmVzdD1tYXgocm93cyxrZXk9bGFtYmRhIHg6eFsyXSk7IHByaW50KCIgPj4gZml0IOacgOS8mCBmPSUuMmYiJWJlc3RbMF0pCmJzPW1heChyb3dzLGtleT1sYW1iZGEgeDp4WzFdKTsgICBwcmludCgiID4+IHN1cnYg5pyA5LyYIGY9JS4yZiIlYnNbMF0pCgpwcmludCgiPT0gSyDmiavmj48gKGY9MC4xMCkgPT0iKQpmb3IgSyBpbiBbMCwxLDIsMyw1LDgsMTJdOgogICAgcyxmaSx0YyA9IHJ1bigwLjEwLEspOyBvdXRbJ0s9JWQnJUtdPXsnc3Vydic6cm91bmQocywzKSwnZml0Jzpyb3VuZChmaSwyKX0KICAgIHByaW50KCIgSz0lZCAgc3Vydj0lLjNmICBmaXQ9JS4yZiIlKEsscyxmaSkpCgpwcmludCgiPT0gcHJvdGVjdCDmiavmj48gKGY9MC4xMCkgPT0iKQpmb3IgcCBpbiBbMC4wLDAuMywwLjYsMS4wXToKICAgIHMsZmksdGMgPSBydW4oMC4xMCwxLHByb3RlY3Q9cCk7IG91dFsncHJvdGVjdD0lLjFmJyVwXT17J3N1cnYnOnJvdW5kKHMsMyksJ2ZpdCc6cm91bmQoZmksMil9CiAgICBwcmludCgiIHByb3RlY3Q9JS4xZiAgc3Vydj0lLjNmICBmaXQ9JS4yZiIlKHAscyxmaSkpCgpqc29uLmR1bXAob3V0LCBvcGVuKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAyMzNfY2l2aWxpemF0aW9uL3Jlc3VsdDIzM2IuanNvbicsJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+import random, json, statistics as st
+
+def run(f, K, T=400, p0=0.02, seeds=12, protect=0.0, cap=6.0):
+    """
+    f: 探索者占比  K: 备份点  protect: 探索代价社会化比例  cap: 技术饱和上限
+    修复: tech 饱和到 cap (log 累积), 且灾难率随 tech 上升(技术创造新风险类别)
+    """
+    surv, fit, techs = [], [], []
+    for s in range(seeds):
+        r = random.Random(s*131+7)
+        N = 200; nex = max(1, int(N*f)) if f>0 else 0
+        alive=True; tl=0.0; wealth=1.0; bk=[True]*K
+        for t in range(T):
+            if alive:
+                for _ in range(nex):
+                    wealth -= 0.30*(1-protect)/N
+                    if r.random() < 0.012:
+                        tl += r.paretovariate(1.4)/3.0          # 加性累积
+                tl = min(tl, cap)                                # 饱和
+                wealth += 0.35*(1-f)
+            # 灾难率随技术上升(新风险类别), 致死率随技术下降(有解)
+            p_dis  = p0*(1 + 0.55*tl)
+            kill   = max(0.10, 0.95/(1+tl))
+            if r.random() < p_dis:
+                if r.random() < kill: alive=False
+            if not alive:
+                for i in range(K):
+                    if bk[i] and r.random() < 0.02: bk[i]=False
+                if any(bk): alive=True; wealth*=0.4
+        surv.append(1.0 if alive else 0.0); fit.append(wealth); techs.append(tl)
+    return st.mean(surv), st.mean(fit), st.mean(techs)
+
+out={}
+print("== f 扫描 (K=1) ==")
+rows=[]
+for f in [0.0,0.02,0.05,0.10,0.15,0.20,0.30,0.50,1.0]:
+    s,fi,tc = run(f,1); out['f=%.2f'%f]={'surv':round(s,3),'fit':round(fi,2),'tech':round(tc,2)}
+    rows.append((f,s,fi,tc)); print(" f=%.2f  surv=%.3f  fit=%.2f  tech=%.2f"%(f,s,fi,tc))
+best=max(rows,key=lambda x:x[2]); print(" >> fit 最优 f=%.2f"%best[0])
+bs=max(rows,key=lambda x:x[1]);   print(" >> surv 最优 f=%.2f"%bs[0])
+
+print("== K 扫描 (f=0.10) ==")
+for K in [0,1,2,3,5,8,12]:
+    s,fi,tc = run(0.10,K); out['K=%d'%K]={'surv':round(s,3),'fit':round(fi,2)}
+    print(" K=%d  surv=%.3f  fit=%.2f"%(K,s,fi))
+
+print("== protect 扫描 (f=0.10) ==")
+for p in [0.0,0.3,0.6,1.0]:
+    s,fi,tc = run(0.10,1,protect=p); out['protect=%.1f'%p]={'surv':round(s,3),'fit':round(fi,2)}
+    print(" protect=%.1f  surv=%.3f  fit=%.2f"%(p,s,fi))
+
+json.dump(out, open('/data/workspace/luoshen-o1/experiments/exp233_civilization/result233b.json','w'), ensure_ascii=False, indent=1)

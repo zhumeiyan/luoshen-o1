@@ -1,1 +1,400 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5a6e6aqMIDA4NO+8mueUteaKpeS4juaUtumfs+acuiDigJTigJQg56a75pWj5YaX5L2ZIHZzIOi/nue7reS/neecnwoK55So5oi357uZ55qE5oCd6Lev77ya55S15oqlIC8g5pS26Z+z5py644CCCgogIOeUteaKpSBUICAgOiDnprvmlaPnoIHlhYMgwrcg6ZyA5YWx5Lqr56CB5pysIMK3IOWPr+eUqOWGl+S9meaNouWPr+mdoO+8iOWkmuaVsOWIpOWGs++8icK3IOWPr+WtmOWCqOi9rOWPkQogIOaUtumfs+acuiBSIDog6L+e57ut5rOi5b2iIMK3IOaXoOeggeacrCAgICAgwrcg5YaX5L2Z5Y+q6IO957q/5oCn5bmz5Z2HICAgICAgICAgwrcg556s5pe25Y2z6YCdCgrlhazlubPlj6PlvoTvvIjkuKTmnaHnoaznuqbmnZ/vvInvvJoKICAoMSkg5Y+R5bCE5Yqf546H55u45ZCM44CB5Zmq5aOw5Yqf546H55u45ZCMIOKGkiBTTlIg55u45ZCMCiAgKDIpIOaAu+S/oemBk+S9v+eUqOasoeaVsOebuOWQjCDihpIg5YaX5L2ZIHIg5a+55Y+M5pa55piv5ZCM5LiA5Liq6aKE566XCgrjgJDlhbPplK7kv67mraMgdjLjgJEKICDCtyDmjqXmlLbnq6/kuI3lgZrku7vkvZXlkI7lpITnkIbvvIh2MSDnmoQgX25vcm1fcG93ZXIg5piv5L2c5byK55qE6Ieq5Yqo5aKe55uK77yM5Lya5Lq65Li65oq55bmz5beu5byC77yJCiAgwrcg56CB5pys5aSx6YWN5pS55Li6IuaOpeaUtuaWueeUqOeLrOeri+S8sOiuoeeahOeggeacrCLvvIh2MSDnmoTnva7mjaLmlbDnu4Tml6DmlYjvvJphcmdtaW4g5Y+q55yL5pWw5YC877yJCiAgwrcg5Yqg5YWl5YaX5L2ZIHLvvIjph43lpI3noIEgKyDlpJrmlbDliKTlhrPvvInigJTigJQg6L+Z5omN5piv55S15oql6IO96Leo5rSL55qE55yf5q2j5Y6f5Zug77yM5Lmf5piv5oKs5bSW55qE5p2l5rqQCgpQYXJ0IEEgIFNOUiDDlyDph4/ljJbpmLbmlbAgSyDihpIg5L+d55yf5bqm77yI5peg5YaX5L2Z77yJClBhcnQgQiAg5Zu65a6a6aKE566X5LiL5YaX5L2ZIHIgw5cgU05SIOKGkiDkv53nnJ/luqbvvJvnlLXmiqUgdnMg5pS26Z+z5py677yb5Lqk5Y+J54K577yb5oKs5bSW5a695bqmClBhcnQgQyAg56CB5pys5L6d6LWW77ya55S15oql6ZyA5Y+M5pa55YWx5Lqr56CB5pys77yM5pS26Z+z5py65peg5q2k5L6d6LWWClBhcnQgRCAg6L2v5Yik5Yaz77ya5oKs5bSW5piv56Gs5Yik5Yaz55qE5Lqn54mp6L+Y5piv56a75pWj5YyW55qE5Lqn54mpClBhcnQgRSAg5o6l5byV5pOO77ya5Lik56eN6YCa6YGT5o6l5YWl5oSf55+l6YCa6Lev77yM5rWL5YaF5Zyo57uT5p6E77yI5o6S6Zmk5q275Lqh562b6YCJ77yJCiIiIgppbXBvcnQgb3MsIHN5cywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g5rqQ5L+h5Y+3CmRlZiBtYWtlX3NvdXJjZShuPTI1Niwgc2VlZD0wKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgdCA9IG5wLmxpbnNwYWNlKDAuMCwgMS4wLCBuKQogICAgeCA9IG5wLnplcm9zKG4pCiAgICBmb3IgayBpbiByYW5nZSg0KToKICAgICAgICB4ICs9IHJuZy51bmlmb3JtKDAuMywgMS4wKSAqIG5wLnNpbigyICogbnAucGkgKiAoayArIDEpICogMyAqIHQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIHJuZy51bmlmb3JtKDAsIDYuMjgzKSkKICAgIHggKz0gMC4zICogcm5nLm5vcm1hbChzaXplPW4pCiAgICByZXR1cm4gKHggLSB4Lm1lYW4oKSkgLyAoeC5zdGQoKSArIDFlLTEyKSAgICAgICMg5Y2V5L2N5Yqf546HCgoKZGVmIHF1YW50aXplKHgsIEspOgogICAgSyA9IGludChLKQogICAgaWYgSyA8PSAxOgogICAgICAgIHJldHVybiBucC56ZXJvcyhsZW4oeCksIGludCksIG5wLmFycmF5KFswLjBdKQogICAgZWRnZXMgPSBucC5xdWFudGlsZSh4LCBucC5saW5zcGFjZSgwLjAsIDEuMCwgSyArIDEpWzE6LTFdKQogICAgaWR4ID0gbnAuc2VhcmNoc29ydGVkKGVkZ2VzLCB4KQogICAgbGV2ZWxzID0gbnAuYXJyYXkoW3hbaWR4ID09IGtdLm1lYW4oKSBpZiAoaWR4ID09IGspLmFueSgpIGVsc2UgMC4wCiAgICAgICAgICAgICAgICAgICAgICAgZm9yIGsgaW4gcmFuZ2UoSyldKQogICAgcmV0dXJuIGlkeCwgbGV2ZWxzCgoKZGVmIF90eCh2KToKICAgICIiIuWPkeWwhOacuuW9kuS4gOWMluiHqui6q+WPkeWwhOWKn+eOh+S4uiAx77yI5ZCI5rOV77ya5Y+R5bCE5py655+l6YGT6Ieq5bex5Zyo5Y+R5LuA5LmI77yJIiIiCiAgICB2ID0gbnAuYXNhcnJheSh2LCBmbG9hdCkKICAgIHJldHVybiAodiAtIHYubWVhbigpKSAvICh2LnN0ZCgpICsgMWUtMTIpCgoKZGVmIGZpZGVsaXR5KHgsIHhoYXQpOgogICAgIiIiRiA9IDEgLSBNU0UvdmFyKHgp44CC5o6l5pS256uv5LiN5YGa5Lu75L2V5ZCO5aSE55CG44CCIiIiCiAgICB4ID0gbnAuYXNhcnJheSh4LCBmbG9hdCk7IHhoID0gbnAuYXNhcnJheSh4aGF0LCBmbG9hdCkKICAgIHJldHVybiAxLjAgLSBmbG9hdChucC5tZWFuKCh4aCAtIHgpICoqIDIpKSAvIChmbG9hdChucC52YXIoeCkpICsgMWUtMTIpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOmAmumBkwpkZWYgdGVsZWdyYXBoKHgsIEssIHNucl9saW4sIHJuZywgcj0xLCBzb2Z0PUZhbHNlLCBjYj1Ob25lKToKICAgICIiIgogICAg55S15oql77ya6YeP5YyWIEsg55S15bmzIOKGkiDmr4/nrKblj7fph43lpI0gciDmrKHlj5HpgIEg4oaSIOaOpeaUtiDihpIg5Yik5YazIOKGkiDph43lu7oKICAgIHI9MTog5peg5YaX5L2Z77ybcj4xOiDph43lpI3noIHvvIjlpJrmlbDliKTlhrMgLyDova895bmz5Z2H5ZCO5pyA6L+R6YK777yJCiAgICBjYjogIOaOpeaUtuaWueeggeacrO+8iE5vbmU95LiO5Y+R6YCB5pa55YWx5Lqr77yJCiAgICAiIiIKICAgIGlkeCwgbGV2ZWxzID0gcXVhbnRpemUoeCwgSykKICAgIHR4ID0gX3R4KGxldmVsc1tpZHhdKQogICAgbjAgPSAxLjAgLyBzbnJfbGluCiAgICB5ID0gdHhbOiwgTm9uZV0gKyBybmcubm9ybWFsKDAuMCwgbnAuc3FydChuMCksIHNpemU9KGxlbih0eCksIHIpKQoKICAgIHJ4ID0gbGV2ZWxzIGlmIGNiIGlzIE5vbmUgZWxzZSBjYgogICAgaWYgciA9PSAxOgogICAgICAgIHhoYXQgPSByeFtucC5hcmdtaW4oKHlbOiwgMCwgTm9uZV0gLSByeFtOb25lLCA6XSkgKiogMiwgYXhpcz0xKV0KICAgIGVsaWYgc29mdDoKICAgICAgICB5bSA9IHkubWVhbihheGlzPTEpICAgICAgICAgICAgICAgICAgICAgICAjIOW5s+Wdh+mZjeWZquWQjuacgOi/kemCuwogICAgICAgIHhoYXQgPSByeFtucC5hcmdtaW4oKHltWzosIE5vbmVdIC0gcnhbTm9uZSwgOl0pICoqIDIsIGF4aXM9MSldCiAgICBlbHNlOgogICAgICAgIGogPSBucC5hcmdtaW4oKHlbOiwgOiwgTm9uZV0gLSByeFtOb25lLCBOb25lLCA6XSkgKiogMiwgYXhpcz0yKQogICAgICAgIGNudCA9IG5wLnN0YWNrKFsoaiA9PSBrKS5zdW0oYXhpcz0xKSBmb3IgayBpbiByYW5nZShsZW4ocngpKV0sIGF4aXM9MSkKICAgICAgICB4aGF0ID0gcnhbbnAuYXJnbWF4KGNudCwgYXhpcz0xKV0gICAgICAgICAjIOWkmuaVsOWIpOWGswogICAgcmV0dXJuIHhoYXQKCgpkZWYgcmFkaW8oeCwgc25yX2xpbiwgcm5nLCByPTEpOgogICAgIiIi5pS26Z+z5py677ya6L+e57ut5rOi5b2i6YeN5aSNIHIg5qyh5Y+R6YCBIOKGkiDmjqXmlLbnq6/lubPlnYfvvIjlhpfkvZnlj6rog73nur/mgKfnlKjvvIkiIiIKICAgIHR4ID0gX3R4KHgpCiAgICBuMCA9IDEuMCAvIHNucl9saW4KICAgIHkgPSB0eFs6LCBOb25lXSArIHJuZy5ub3JtYWwoMC4wLCBucC5zcXJ0KG4wKSwgc2l6ZT0obGVuKHR4KSwgcikpCiAgICByZXR1cm4geS5tZWFuKGF4aXM9MSkgICAgICAgICAgICAgICAgICAgICAgICAgICMgcj0xIOaXtuWNs+ebtOaOpeaOpeaUtgoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBQYXJ0IEEKZGVmIHBhcnRfYShzbnJfZGJfZ3JpZCwgS3MsIG49MjU2LCBuX3NyYz0xMCwgbl9ub2lzZT02KToKICAgIHNyY3MgPSBbbWFrZV9zb3VyY2UobiwgcykgZm9yIHMgaW4gcmFuZ2Uobl9zcmMpXQogICAgb3V0ID0ge30KICAgIGZvciBLIGluIEtzOgogICAgICAgIHJvd3MgPSBbXQogICAgICAgIGZvciBzZGIgaW4gc25yX2RiX2dyaWQ6CiAgICAgICAgICAgIHNuciA9IDEwLjAgKiogKHNkYiAvIDEwLjApCiAgICAgICAgICAgIGZzID0gW10KICAgICAgICAgICAgZm9yIHggaW4gc3JjczoKICAgICAgICAgICAgICAgIGZvciBueiBpbiByYW5nZShuX25vaXNlKToKICAgICAgICAgICAgICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMTAwMCArIG56ICogNzkxOSkKICAgICAgICAgICAgICAgICAgICB4aCA9IHJhZGlvKHgsIHNuciwgcm5nKSBpZiBLIGlzIE5vbmUgZWxzZSB0ZWxlZ3JhcGgoeCwgSywgc25yLCBybmcpCiAgICAgICAgICAgICAgICAgICAgZnMuYXBwZW5kKGZpZGVsaXR5KHgsIHhoKSkKICAgICAgICAgICAgcm93cy5hcHBlbmQoZGljdChzbnJfZGI9ZmxvYXQoc2RiKSwgRj1mbG9hdChucC5tZWFuKGZzKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRl9zZD1mbG9hdChucC5zdGQoZnMsIGRkb2Y9MSkpKSkKICAgICAgICBvdXRbInJhZGlvIiBpZiBLIGlzIE5vbmUgZWxzZSBmIkt7S30iXSA9IHJvd3MKICAgIHJldHVybiBvdXQKCgpkZWYgYmVzdF9vZihwYXJ0QSwgS3MsIHNucl9ncmlkKToKICAgIG5hbWVkID0gWyhrLCBwYXJ0QVtmIkt7a30iXSkgZm9yIGsgaW4gS3MgaWYgayBpcyBub3QgTm9uZV0KICAgIHJvd3MgPSBbXQogICAgZm9yIGksIHNkYiBpbiBlbnVtZXJhdGUoc25yX2dyaWQpOgogICAgICAgIHZhbHMgPSBbKGssIHJbaV1bIkYiXSkgZm9yIGssIHIgaW4gbmFtZWRdICsgWyhOb25lLCBwYXJ0QVsicmFkaW8iXVtpXVsiRiJdKV0KICAgICAgICBiaywgYnYgPSBtYXgodmFscywga2V5PWxhbWJkYSB0OiB0WzFdKQogICAgICAgIHJvd3MuYXBwZW5kKGRpY3Qoc25yX2RiPWZsb2F0KHNkYiksCiAgICAgICAgICAgICAgICAgICAgICAgICBiZXN0PSgicmFkaW8iIGlmIGJrIGlzIE5vbmUgZWxzZSBmIkt7Ymt9IiksCiAgICAgICAgICAgICAgICAgICAgICAgICBiZXN0X0Y9ZmxvYXQoYnYpLAogICAgICAgICAgICAgICAgICAgICAgICAgYWxsPXsoInJhZGlvIiBpZiBrIGlzIE5vbmUgZWxzZSBmIkt7a30iKTogZmxvYXQodikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGssIHYgaW4gdmFsc30pKQogICAgcmV0dXJuIHJvd3MKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gUGFydCBCCmRlZiBjbGlmZl9tZXRyaWMocm93cyk6CiAgICAiIiLltKnmuoPlrr3luqbvvJpGIOS7jiAwLjkqRm1heCDmjonliLAgMC4xKkZtYXgg5omA6ZyA55qEIFNOUiDot6jluqbvvIhkQu+8iQogICAgICAg6LaK5bCP6LaK5YOP5oKs5bSW44CC55So6Ieq6Lqr5LiK6ZmQ5b2S5LiA5YyW77yM6YG/5YWNIEsg55qE5Zyw5p2/5beu5byC6YCg5oiQ5LiN5YWs44CCIiIiCiAgICBzID0gbnAuYXJyYXkoW3JbInNucl9kYiJdIGZvciByIGluIHJvd3NdLCBmbG9hdCkKICAgIEYgPSBucC5hcnJheShbclsiRiJdIGZvciByIGluIHJvd3NdLCBmbG9hdCkKICAgIG8gPSBucC5hcmdzb3J0KHMpOyBzLCBGID0gc1tvXSwgRltvXQogICAgc2cgPSBucC5saW5zcGFjZShzLm1pbigpLCBzLm1heCgpLCA2MDApCiAgICBGZyA9IG5wLmludGVycChzZywgcywgRikKICAgIEZtYXggPSBGZy5tYXgoKQogICAgaGksIGxvID0gMC45ICogRm1heCwgMC4xICogRm1heAogICAgZGVmIGNyb3NzKGxldmVsKToKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oc2cpIC0gMSk6CiAgICAgICAgICAgIGlmIChGZ1tpXSAtIGxldmVsKSAqIChGZ1tpICsgMV0gLSBsZXZlbCkgPD0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBmbG9hdChzZ1tpXSkKICAgICAgICByZXR1cm4gZmxvYXQoc2dbMF0gaWYgRmdbMF0gPj0gbGV2ZWwgZWxzZSBzZ1stMV0pCiAgICBhLCBiID0gY3Jvc3MoaGkpLCBjcm9zcyhsbykKICAgIGQgPSBucC5hYnMobnAuZ3JhZGllbnQoRmcsIHNnKSkKICAgIHJldHVybiBkaWN0KHdpZHRoX2RiPWZsb2F0KGEgLSBiKSwgbWF4X3Nsb3BlPWZsb2F0KGQubWF4KCkpLAogICAgICAgICAgICAgICAgRm1heD1mbG9hdChGZy5tYXgoKSksIEZtaW49ZmxvYXQoRmcubWluKCkpKQoKCmRlZiBwYXJ0X2Ioc25yX2RiX2dyaWQsIHJzLCBLPTgsIG49MjU2LCBuX3NyYz0xMCwgbl9ub2lzZT02KToKICAgICIiIuWbuuWumuaAu+S/oemBk+mihOeul++8mueUteaKpeeUqOmHjeWkjeeggSBy77yM5pS26Z+z5py655SoIHIg5qyh5bmz5Z2H44CC6LCB5pu05YiS566X77yfIiIiCiAgICBzcmNzID0gW21ha2Vfc291cmNlKG4sIHMpIGZvciBzIGluIHJhbmdlKG5fc3JjKV0KICAgIG91dCA9IHt9CiAgICBmb3IgciBpbiByczoKICAgICAgICB0ZWxlLCByYWQgPSBbXSwgW10KICAgICAgICBmb3Igc2RiIGluIHNucl9kYl9ncmlkOgogICAgICAgICAgICBzbnIgPSAxMC4wICoqIChzZGIgLyAxMC4wKQogICAgICAgICAgICBmdCwgZnIgPSBbXSwgW10KICAgICAgICAgICAgZm9yIHggaW4gc3JjczoKICAgICAgICAgICAgICAgIGZvciBueiBpbiByYW5nZShuX25vaXNlKToKICAgICAgICAgICAgICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoNTAwMCArIG56ICogNzkxOSkKICAgICAgICAgICAgICAgICAgICBmdC5hcHBlbmQoZmlkZWxpdHkoeCwgdGVsZWdyYXBoKHgsIEssIHNuciwgcm5nLCByPXIpKSkKICAgICAgICAgICAgICAgICAgICBmci5hcHBlbmQoZmlkZWxpdHkoeCwgcmFkaW8oeCwgc25yLCBybmcsIHI9cikpKQogICAgICAgICAgICB0ZWxlLmFwcGVuZChkaWN0KHNucl9kYj1mbG9hdChzZGIpLCBGPWZsb2F0KG5wLm1lYW4oZnQpKSkpCiAgICAgICAgICAgIHJhZC5hcHBlbmQoZGljdChzbnJfZGI9ZmxvYXQoc2RiKSwgRj1mbG9hdChucC5tZWFuKGZyKSkpKQogICAgICAgIG91dFtmInJ7cn0iXSA9IGRpY3QodGVsZWdyYXBoPXRlbGUsIHJhZGlvPXJhZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbGVfY2xpZmY9Y2xpZmZfbWV0cmljKHRlbGUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFkaW9fY2xpZmY9Y2xpZmZfbWV0cmljKHJhZCkpCiAgICByZXR1cm4gb3V0CgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIFBhcnQgQwpkZWYgcGFydF9jKHNucl9kYl9saXN0LCBLPTE2LCBuPTI1Niwgbl9zcmM9MTAsIG5fbm9pc2U9Nik6CiAgICAiIiLnoIHmnKzkvp3otZbvvJrmjqXmlLbmlrnnlKjjgJDns7vnu5/mgKfkuI3lkIzjgJHnmoTnoIHmnKzvvIjlnYfljIDlgYforr4gdnMg55yf5a6e5YiG5L2N77yJCiAgICAgICB2MSDnmoTnva7mjaLmlbDnu4Tml6DmlYjvvJphcmdtaW4g5Y+q55yL5pWw5YC877yM572u5o2i5LiN5pS55Y+Y6ZuG5ZCI44CCIiIiCiAgICBzcmNzID0gW21ha2Vfc291cmNlKG4sIHMpIGZvciBzIGluIHJhbmdlKG5fc3JjKV0KICAgIHJlcyA9IHsidGVsZV9tYXRjaCI6IFtdLCAidGVsZV9taXNtYXRjaCI6IFtdLCAicmFkaW8iOiBbXX0KICAgIGZvciBzZGIgaW4gc25yX2RiX2xpc3Q6CiAgICAgICAgc25yID0gMTAuMCAqKiAoc2RiIC8gMTAuMCkKICAgICAgICBmb3IgdGFnIGluIHJlczoKICAgICAgICAgICAgZnMgPSBbXQogICAgICAgICAgICBmb3IgeCBpbiBzcmNzOgogICAgICAgICAgICAgICAgZm9yIG56IGluIHJhbmdlKG5fbm9pc2UpOgogICAgICAgICAgICAgICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygyMDAwICsgbnogKiA3OTE5KQogICAgICAgICAgICAgICAgICAgIGlmIHRhZyA9PSAicmFkaW8iOgogICAgICAgICAgICAgICAgICAgICAgICB4aCA9IHJhZGlvKHgsIHNuciwgcm5nKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIGNiID0gTm9uZQogICAgICAgICAgICAgICAgICAgICAgICBpZiB0YWcgPT0gInRlbGVfbWlzbWF0Y2giOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDmjqXmlLbmlrnkuI3nn6XpgZPmupDnmoTliIbluIPvvIzmjInjgJDlnYfljIDjgJHlgYforr7lu7rnoIHmnKwg4oaSIOezu+e7n+aAp+mUmemFjQogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2IgPSBucC5saW5zcGFjZSgtMy4wLCAzLjAsIEspCiAgICAgICAgICAgICAgICAgICAgICAgIHhoID0gdGVsZWdyYXBoKHgsIEssIHNuciwgcm5nLCBjYj1jYikKICAgICAgICAgICAgICAgICAgICBmcy5hcHBlbmQoZmlkZWxpdHkoeCwgeGgpKQogICAgICAgICAgICByZXNbdGFnXS5hcHBlbmQoZGljdChzbnJfZGI9ZmxvYXQoc2RiKSwgRj1mbG9hdChucC5tZWFuKGZzKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZfc2Q9ZmxvYXQobnAuc3RkKGZzLCBkZG9mPTEpKSkpCiAgICByZXR1cm4gcmVzCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIFBhcnQgRApkZWYgcGFydF9kKHNucl9kYl9ncmlkLCBycz0oMSwgNSwgMTUpLCBLPTgsIG49MjU2LCBuX3NyYz0xMCwgbl9ub2lzZT02KToKICAgICIiIuWIhuemu+OAkOWGl+S9meOAkeS4juOAkOWIpOWGs+aWueW8j+OAke+8mgogICAgICAg5YaX5L2ZIHIg5a+55LiJ56eN5o6l5pS26ICF5YiG5Yir5oSP5ZGz552A5LuA5LmI77yfCiAgICAgICAgIHRlbGVfaGFyZDogciDmrKHni6znq4vnoazliKTlhrMg4oaSIOWkmuaVsOaKleelqO+8iOS4ouW8g+i9r+S/oeaBr++8iQogICAgICAgICB0ZWxlX3NvZnQ6IHIg5qyh5bmz5Z2HICAgICAg4oaSIOacgOi/kemCuyAg77yI5L+d55WZ6L2v5L+h5oGv77yJCiAgICAgICAgIHJhZGlvICAgICA6IHIg5qyh5bmz5Z2HICAgICAg4oaSIOebtOaOpSAgICDvvIjml6DliKTlhrPvvIkKICAgICAgIOiLpSLlhpfkvZnmnInlrrMi5Y+q5ZyoIGhhcmQg5LiK5Ye6546w77yM5YiZ5pyJ5a6z55qE5piv5Yik5Yaz5pa55byP77yM5LiN5piv5YaX5L2Z44CCIiIiCiAgICBzcmNzID0gW21ha2Vfc291cmNlKG4sIHMpIGZvciBzIGluIHJhbmdlKG5fc3JjKV0KICAgIG91dCA9IHt9CiAgICBmb3IgciBpbiByczoKICAgICAgICByb3dzID0geyJ0ZWxlX2hhcmQiOiBbXSwgInRlbGVfc29mdCI6IFtdLCAicmFkaW8iOiBbXX0KICAgICAgICBmb3Igc2RiIGluIHNucl9kYl9ncmlkOgogICAgICAgICAgICBzbnIgPSAxMC4wICoqIChzZGIgLyAxMC4wKQogICAgICAgICAgICBhY2MgPSB7azogW10gZm9yIGsgaW4gcm93c30KICAgICAgICAgICAgZm9yIHggaW4gc3JjczoKICAgICAgICAgICAgICAgIGZvciBueiBpbiByYW5nZShuX25vaXNlKToKICAgICAgICAgICAgICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMzAwMCArIG56ICogNzkxOSkKICAgICAgICAgICAgICAgICAgICBhY2NbInRlbGVfaGFyZCJdLmFwcGVuZChmaWRlbGl0eSh4LCB0ZWxlZ3JhcGgoeCwgSywgc25yLCBybmcsIHI9ciwgc29mdD1GYWxzZSkpKQogICAgICAgICAgICAgICAgICAgIGFjY1sidGVsZV9zb2Z0Il0uYXBwZW5kKGZpZGVsaXR5KHgsIHRlbGVncmFwaCh4LCBLLCBzbnIsIHJuZywgcj1yLCBzb2Z0PVRydWUpKSkKICAgICAgICAgICAgICAgICAgICBhY2NbInJhZGlvIl0uYXBwZW5kKGZpZGVsaXR5KHgsIHJhZGlvKHgsIHNuciwgcm5nLCByPXIpKSkKICAgICAgICAgICAgZm9yIGsgaW4gcm93czoKICAgICAgICAgICAgICAgIHJvd3Nba10uYXBwZW5kKGRpY3Qoc25yX2RiPWZsb2F0KHNkYiksIEY9ZmxvYXQobnAubWVhbihhY2Nba10pKSkpCiAgICAgICAgb3V0W2YicntyfSJdID0ge2s6IGRpY3Qocm93cz1yb3dzW2tdLCBjbGlmZj1jbGlmZl9tZXRyaWMocm93c1trXSkpCiAgICAgICAgICAgICAgICAgICAgICAgIGZvciBrIGluIHJvd3N9CiAgICByZXR1cm4gb3V0CgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIFBhcnQgRQpkZWYgX3NrZXcoeCk6CiAgICB4ID0gbnAuYXNhcnJheSh4LCBmbG9hdCk7IG0gPSB4Lm1lYW4oKQogICAgcmV0dXJuIGZsb2F0KHguc3RkKCkgLyBtKSBpZiBtID4gMWUtMTIgZWxzZSAwLjAKCgpkZWYgX3RvMDEodik6CiAgICB2ID0gbnAuYXNhcnJheSh2LCBmbG9hdCkKICAgIHJldHVybiAodiAtIHYubWluKCkpIC8gKHYubWF4KCkgLSB2Lm1pbigpICsgMWUtMTIpCgoKZGVmIHJ1bl9lbmdpbmUoc2lnLCBzZWVkLCBrLCBzdGVwcz02MDAsIHNpZ21hX2luPTAuMDUpOgogICAgZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQogICAgZW5nID0gTGlmZTUoTj04LCBzZWVkPXNlZWQsIGtfc2Vla19hcnI9aywgc2lnbWFfaW49c2lnbWFfaW4sCiAgICAgICAgICAgICAgICBhcnJfdGhyPTAuNSwgdGF1X2Fycj0xMi4wLCBtaXNzX2Fycl9kZWNheT0wLjk3KQogICAgZm9yIHQgaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgIGVuZy5pbnB1dF92YWwgPSBmbG9hdChzaWdbdCAlIGxlbihzaWcpXSkKICAgICAgICBlbmcuc3RlcCgpCiAgICAgICAgaWYgbm90IGVuZy5hbGl2ZToKICAgICAgICAgICAgYnJlYWsKICAgIGlmIG5vdCBlbmcubG9nOgogICAgICAgIHJldHVybiBkaWN0KHNrZXc9MC4wLCBhbGl2ZT1GYWxzZSkKICAgIHJldHVybiBkaWN0KHNrZXc9X3NrZXcobnAuYXJyYXkoZW5nLmxvZ1stMV1bImNhcHYiXSwgZmxvYXQpKSwgYWxpdmU9Ym9vbChlbmcuYWxpdmUpKQoKCmRlZiBwYXJ0X2Uoc25yX2RiPTYuMCwgSz0xNiwgc2VlZHM9MjQsIHN0ZXBzPTYwMCwgbj0yNTYsIGs9MC4wNSk6CiAgICAiIiLmjqXlvJXmk47vvJrnlLXmiqUgdnMg5pS26Z+z5py6IHZzIOaXtuW6j+aJk+S5sSB2cyDml6DmhJ/lrpgKICAgICAgIOeUqOOAkOWFseWQjOWtmOa0u+WtkOmbhuOAkeaOkumZpOatu+S6oeetm+mAieaxoeafk++8iHNrZXcg5LiK5Y2H5Y+v6IO95Y+q5piv5byx6ICF5q275LqG77yJIiIiCiAgICBzbnIgPSAxMC4wICoqIChzbnJfZGIgLyAxMC4wKQogICAgeCA9IG1ha2Vfc291cmNlKG4sIDApCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoNDAwMCkKICAgIHNpZ3MgPSB7InRlbGVncmFwaCI6IF90bzAxKHRlbGVncmFwaCh4LCBLLCBzbnIsIHJuZykpLAogICAgICAgICAgICAicmFkaW8iOiBfdG8wMShyYWRpbyh4LCBzbnIsIHJuZykpLAogICAgICAgICAgICAicGVybXV0ZWQiOiBfdG8wMShybmcucGVybXV0YXRpb24ocmFkaW8oeCwgc25yLCBybmcpKSl9CiAgICByYXcgPSB7fQogICAgZm9yIHRhZywgc2lnIGluIHNpZ3MuaXRlbXMoKToKICAgICAgICByYXdbdGFnXSA9IFtydW5fZW5naW5lKHNpZywgc2QsIGspIGZvciBzZCBpbiByYW5nZShzZWVkcyldCiAgICBmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CiAgICBiYXNlID0gW10KICAgIGZvciBzZCBpbiByYW5nZShzZWVkcyk6CiAgICAgICAgZW5nID0gTGlmZTUoTj04LCBzZWVkPXNkLCBrX3NlZWtfYXJyPTAuMCwgc2lnbWFfaW49MC4wNSkKICAgICAgICBmb3IgXyBpbiByYW5nZShzdGVwcyk6CiAgICAgICAgICAgIGVuZy5zdGVwKCkKICAgICAgICAgICAgaWYgbm90IGVuZy5hbGl2ZToKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgYmFzZS5hcHBlbmQoZGljdChza2V3PV9za2V3KG5wLmFycmF5KGVuZy5sb2dbLTFdWyJjYXB2Il0sIGZsb2F0KSkgaWYgZW5nLmxvZyBlbHNlIDAuMCwKICAgICAgICAgICAgICAgICAgICAgICAgIGFsaXZlPVRydWUpKQogICAgcmF3WyJub25lIl0gPSBiYXNlCgogICAgIyDlhbHlkIzlrZjmtLvlrZDpm4bvvJrmiYDmnInmnaHku7bpg73mtLvkuIvmnaXnmoQgc2VlZAogICAga2VlcCA9IFtzZCBmb3Igc2QgaW4gcmFuZ2Uoc2VlZHMpCiAgICAgICAgICAgIGlmIGFsbChyYXdbdF1bc2RdWyJhbGl2ZSJdIGZvciB0IGluIHJhdyldCiAgICByZXMgPSB7fQogICAgZm9yIHRhZywgcnNfIGluIHJhdy5pdGVtcygpOgogICAgICAgIHZzID0gW3JzX1tzZF1bInNrZXciXSBmb3Igc2QgaW4ga2VlcF0KICAgICAgICBhbGx2ID0gW3JbInNrZXciXSBmb3IgciBpbiByc19dCiAgICAgICAgcmVzW3RhZ10gPSBkaWN0KHNrZXc9ZmxvYXQobnAubWVhbihhbGx2KSksIHNrZXdfc2Q9ZmxvYXQobnAuc3RkKGFsbHYsIGRkb2Y9MSkpLAogICAgICAgICAgICAgICAgICAgICAgICBzdXJ2aXZhbD1mbG9hdChucC5tZWFuKFsxLjAgaWYgclsiYWxpdmUiXSBlbHNlIDAuMCBmb3IgciBpbiByc19dKSksCiAgICAgICAgICAgICAgICAgICAgICAgIHNrZXdfdmFscz1bZmxvYXQodikgZm9yIHYgaW4gYWxsdl0sCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbW1vbl9za2V3PWZsb2F0KG5wLm1lYW4odnMpKSBpZiB2cyBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbW1vbl9zZD1mbG9hdChucC5zdGQodnMsIGRkb2Y9MSkpIGlmIGxlbih2cykgPiAxIGVsc2UgTm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgY29tbW9uX3ZhbHM9W2Zsb2F0KHYpIGZvciB2IGluIHZzXSwgbl9jb21tb249bGVuKGtlZXApKQogICAgcmV0dXJuIHJlcwoKCmRlZiBwYWlyZWRfY2koYSwgYiwgbmJvb3Q9NDAwMCwgc2VlZD03KToKICAgIGQgPSBucC5hc2FycmF5KGEsIGZsb2F0KSAtIG5wLmFzYXJyYXkoYiwgZmxvYXQpCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIGJzID0gZFtybmcuaW50ZWdlcnMoMCwgbGVuKGQpLCBzaXplPShuYm9vdCwgbGVuKGQpKSldLm1lYW4oYXhpcz0xKQogICAgcmV0dXJuIGRpY3QoZGlmZj1mbG9hdChkLm1lYW4oKSksIGxvPWZsb2F0KG5wLnBlcmNlbnRpbGUoYnMsIDIuNSkpLAogICAgICAgICAgICAgICAgaGk9ZmxvYXQobnAucGVyY2VudGlsZShicywgOTcuNSkpKQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBtYWluCmRlZiBtYWluKCk6CiAgICBncmlkX2EgPSBucC5hcmFuZ2UoMjQuMCwgLTYuMDEsIC0xLjUpCiAgICBLcyA9IFsyLCA0LCA4LCAxNiwgNjQsIE5vbmVdCiAgICBwcmludCgiPSIgKiA3NCkKICAgIHByaW50KCLlrp7pqowgMDg0ICDnlLXmiqUgdnMg5pS26Z+z5py677yIdjLvvJrliqDlhaXlhpfkvZnvvIzmjqXmlLbnq6/ml6DlkI7lpITnkIbvvIkiKQogICAgcHJpbnQoIj0iICogNzQpCgogICAgQSA9IHBhcnRfYShncmlkX2EsIEtzKQogICAgcHJpbnQoIlxuW1BhcnQgQV0g5peg5YaX5L2Z77yaU05SIMOXIEsg4oaSIOS/neecn+W6piBGIikKICAgIHByaW50KCJTTlIoZEIpICIgKyAiIi5qb2luKGYieygncmFkaW8nIGlmIGsgaXMgTm9uZSBlbHNlICdLJytzdHIoaykpOj45fSIgZm9yIGsgaW4gS3MpKQogICAgZm9yIGksIHNkYiBpbiBlbnVtZXJhdGUoZ3JpZF9hKToKICAgICAgICBwcmludChmIntzZGI6Ny4xZn0gIiArICIiLmpvaW4oCiAgICAgICAgICAgIGYie0FbJ3JhZGlvJyBpZiBrIGlzIE5vbmUgZWxzZSAnSycrc3RyKGspXVtpXVsnRiddOjkuNGZ9IiBmb3IgayBpbiBLcykpCgogICAgcHJpbnQoIlxuW1BhcnQgQSddIOe7meWumiBTTlIg5LiL55qE5pyA5LyY6YCa6YGTIikKICAgIGZvciByIGluIGJlc3Rfb2YoQSwgS3MsIGdyaWRfYSk6CiAgICAgICAgcHJpbnQoZiIgIFNOUj17clsnc25yX2RiJ106Ni4xZn1kQiAg5pyA5LyYPXtyWydiZXN0J106PjZ9ICBGPXtyWydiZXN0X0YnXTouNGZ9IikKCiAgICBwcmludCgiXG5bUGFydCBBJyddIOW0qea6g+WuveW6pu+8iOi2iuWwj+i2iuWDj+aCrOW0lu+8iSIpCiAgICBmb3IgayBpbiBLczoKICAgICAgICBrZXkgPSAicmFkaW8iIGlmIGsgaXMgTm9uZSBlbHNlIGYiS3trfSIKICAgICAgICBjID0gY2xpZmZfbWV0cmljKEFba2V5XSkKICAgICAgICBwcmludChmIiAge2tleTo+Nn0gIOWuveW6pj17Y1snd2lkdGhfZGInXTo2LjJmfWRCICDmnIDlpKfmlpznjoc9e2NbJ21heF9zbG9wZSddOi40Zn0gICIKICAgICAgICAgICAgICBmIkZtYXg9e2NbJ0ZtYXgnXTouNGZ9IikKCiAgICBncmlkX2IgPSBucC5hcmFuZ2UoMTguMCwgLTEwLjAxLCAtMi4wKQogICAgcnMgPSBbMSwgMywgNSwgOSwgMTUsIDMxXQogICAgcHJpbnQoIlxuW1BhcnQgQl0g5Zu65a6a5oC75L+h6YGT6aKE566X77ya5YaX5L2ZIHLvvIjnlLXmiqU96YeN5aSN56CB5aSa5pWw5Yik5YazIC8g5pS26Z+z5py6PXLmrKHlubPlnYfvvIkiKQogICAgQiA9IHBhcnRfYihncmlkX2IsIHJzKQogICAgZm9yIHIgaW4gcnM6CiAgICAgICAgdiA9IEJbZiJye3J9Il0KICAgICAgICB0YywgcmMgPSB2WyJ0ZWxlX2NsaWZmIl0sIHZbInJhZGlvX2NsaWZmIl0KICAgICAgICBwcmludChmIiAgcj17cjoyZH0gIOeUteaKpeWuveW6pj17dGNbJ3dpZHRoX2RiJ106Ni4yZn1kQiAg5pS26Z+z5py65a695bqmPXtyY1snd2lkdGhfZGInXTo2LjJmfWRCICAiCiAgICAgICAgICAgICAgZiJ8IOeUteaKpUZtYXg9e3RjWydGbWF4J106LjRmfSDmlLbpn7PmnLpGbWF4PXtyY1snRm1heCddOi40Zn0iKQogICAgcHJpbnQoIiAg6YCQ54K577yI55S15oqlIHZzIOaUtumfs+acuu+8ie+8miIpCiAgICBwcmludCgiICBTTlIoZEIpICIgKyAiIi5qb2luKGYieydyJytzdHIocik6Pjh9IiBmb3IgciBpbiBycykpCiAgICBmb3IgaSwgc2RiIGluIGVudW1lcmF0ZShncmlkX2IpOgogICAgICAgIHJvdyA9IGYie3NkYjo3LjFmfSAiCiAgICAgICAgZm9yIHIgaW4gcnM6CiAgICAgICAgICAgIHYgPSBCW2YicntyfSJdCiAgICAgICAgICAgIGQgPSB2WyJ0ZWxlZ3JhcGgiXVtpXVsiRiJdIC0gdlsicmFkaW8iXVtpXVsiRiJdCiAgICAgICAgICAgIHJvdyArPSBmIntkOis4LjRmfSIKICAgICAgICBwcmludChyb3cgKyAiICAgKOatoz3nlLXmiqXkvJgpIikKCiAgICBwcmludCgiXG5bUGFydCBDXSDnoIHmnKzkvp3otZbvvIjmjqXmlLbmlrnmjInlnYfljIDlgYforr7lu7rnoIHmnKwgPSDkuI3lhbHkuqvvvIkiKQogICAgQyA9IHBhcnRfYyhbMjAuMCwgMTIuMCwgNi4wLCAwLjAsIC00LjBdKQogICAgZm9yIGksIHNkYiBpbiBlbnVtZXJhdGUoWzIwLjAsIDEyLjAsIDYuMCwgMC4wLCAtNC4wXSk6CiAgICAgICAgcHJpbnQoZiIgIFNOUj17c2RiOjYuMWZ9ZEIgIOeUteaKpcK35YWx5Lqr56CB5pysPXtDWyd0ZWxlX21hdGNoJ11baV1bJ0YnXTouNGZ9ICAiCiAgICAgICAgICAgICAgZiLnlLXmiqXCt+S4jeWFseS6q+eggeacrD17Q1sndGVsZV9taXNtYXRjaCddW2ldWydGJ106LjRmfSAgIgogICAgICAgICAgICAgIGYi5pS26Z+z5py6KOaXoOeggeacrCk9e0NbJ3JhZGlvJ11baV1bJ0YnXTouNGZ9IikKCiAgICBwcmludCgiXG5bUGFydCBEXSDliIbnprvlhpfkvZnkuI7liKTlhrPmlrnlvI/vvIhLPTjvvIkiKQogICAgRCA9IHBhcnRfZChucC5hcmFuZ2UoMTYuMCwgLTYuMDEsIC0yLjApKQogICAgZm9yIHIgaW4gRDoKICAgICAgICB2ID0gRFtyXQogICAgICAgIHByaW50KGYiICB7cn06IOW0qea6g+WuveW6piAg56Gs5Yik5YazPXt2Wyd0ZWxlX2hhcmQnXVsnY2xpZmYnXVsnd2lkdGhfZGInXTo2LjJmfWRCICAiCiAgICAgICAgICAgICAgZiLova/liKTlhrM9e3ZbJ3RlbGVfc29mdCddWydjbGlmZiddWyd3aWR0aF9kYiddOjYuMmZ9ZEIgICIKICAgICAgICAgICAgICBmIuaUtumfs+acuj17dlsncmFkaW8nXVsnY2xpZmYnXVsnd2lkdGhfZGInXTo2LjJmfWRCIikKICAgIHByaW50KCIgIOmAkOeCuSBG77yI56GsIC8g6L2vIC8g5pS26Z+z5py677yJ77yaIikKICAgIGZvciBpLCBzZGIgaW4gZW51bWVyYXRlKG5wLmFyYW5nZSgxNi4wLCAtNi4wMSwgLTIuMCkpOgogICAgICAgIGxpbmUgPSBmIiAgU05SPXtzZGI6Ni4xZn0gICIKICAgICAgICBmb3IgciBpbiBEOgogICAgICAgICAgICB2ID0gRFtyXQogICAgICAgICAgICBsaW5lICs9IChmIntyfVvnoax7dlsndGVsZV9oYXJkJ11bJ3Jvd3MnXVtpXVsnRiddOisuM2Z9ICIKICAgICAgICAgICAgICAgICAgICAgZiLova97dlsndGVsZV9zb2Z0J11bJ3Jvd3MnXVtpXVsnRiddOisuM2Z9ICIKICAgICAgICAgICAgICAgICAgICAgZiLmlLZ7dlsncmFkaW8nXVsncm93cyddW2ldWydGJ106Ky4zZn1dICAiKQogICAgICAgIHByaW50KGxpbmUpCgogICAgcHJpbnQoIlxuW1BhcnQgRV0g5o6l5byV5pOO77yI5YaF5Zyo57uT5p6E5YGP5bqm77yM5YWx5ZCM5a2Y5rS75a2Q6ZuG77yJIikKICAgIEUgPSBwYXJ0X2UoKQogICAgZm9yIHRhZyBpbiBbIm5vbmUiLCAidGVsZWdyYXBoIiwgInJhZGlvIiwgInBlcm11dGVkIl06CiAgICAgICAgciA9IEVbdGFnXQogICAgICAgIHByaW50KGYiICB7dGFnOj4xMH0gIHNrZXc9e3JbJ3NrZXcnXTouNmZ9wrF7clsnc2tld19zZCddOi42Zn0gIOWtmOa0uz17clsnc3Vydml2YWwnXTouM2Z9IgogICAgICAgICAgICAgIGYiICDlhbHlkIzlrZDpm4Zza2V3PXtyWydjb21tb25fc2tldyddOi42Zn0gKG49e3JbJ25fY29tbW9uJ119KSIpCiAgICBwcmludCgiICAtLS0g6YWN5a+55beu77yI5YWo5qC35pys77yJLS0tIikKICAgIGZvciBhXywgYl8gaW4gWygidGVsZWdyYXBoIiwgIm5vbmUiKSwgKCJyYWRpbyIsICJub25lIiksCiAgICAgICAgICAgICAgICAgICAoInJhZGlvIiwgInRlbGVncmFwaCIpLCAoInJhZGlvIiwgInBlcm11dGVkIildOgogICAgICAgIGMgPSBwYWlyZWRfY2koRVthX11bInNrZXdfdmFscyJdLCBFW2JfXVsic2tld192YWxzIl0pCiAgICAgICAgc2lnID0gIuaYvuiRlyIgaWYgKGNbImxvIl0gPiAwKSA9PSAoY1siaGkiXSA+IDApIGVsc2UgIuS4jeaYvuiRlyIKICAgICAgICBwcmludChmIiAge2FffSAtIHtiX306IM6UPXtjWydkaWZmJ106Ky42Zn0gOTUlQ0k9W3tjWydsbyddOisuNmZ9LHtjWydoaSddOisuNmZ9XSB7c2lnfSIpCiAgICBwcmludCgiICAtLS0g6YWN5a+55beu77yI5YWx5ZCM5a2Y5rS75a2Q6ZuG77yM5o6S6Zmk5q275Lqh562b6YCJ77yJLS0tIikKICAgIGZvciBhXywgYl8gaW4gWygidGVsZWdyYXBoIiwgIm5vbmUiKSwgKCJyYWRpbyIsICJub25lIiksICgicmFkaW8iLCAidGVsZWdyYXBoIildOgogICAgICAgIGMgPSBwYWlyZWRfY2koRVthX11bImNvbW1vbl92YWxzIl0sIEVbYl9dWyJjb21tb25fdmFscyJdKQogICAgICAgIHNpZyA9ICLmmL7okZciIGlmIChjWyJsbyJdID4gMCkgPT0gKGNbImhpIl0gPiAwKSBlbHNlICLkuI3mmL7okZciCiAgICAgICAgcHJpbnQoZiIgIHthX30gLSB7Yl99OiDOlD17Y1snZGlmZiddOisuNmZ9IDk1JUNJPVt7Y1snbG8nXTorLjZmfSx7Y1snaGknXTorLjZmfV0ge3NpZ30iKQoKICAgIG91dCA9IGRpY3QocGFydEE9QSwgYmVzdEE9YmVzdF9vZihBLCBLcywgZ3JpZF9hKSwgcGFydEI9QiwgcGFydEM9QywgcGFydEQ9RCwgcGFydEU9RSkKICAgIHAgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIiwgInJlc3VsdF8wODQuanNvbiIpCiAgICB3aXRoIG9wZW4ocCwgInciKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChvdXQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludChmIlxu5bey5YaZIHtvcy5wYXRoLmFic3BhdGgocCl9IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+实验 084：电报与收音机 —— 离散冗余 vs 连续保真
+
+用户给的思路：电报 / 收音机。
+
+  电报 T   : 离散码元 · 需共享码本 · 可用冗余换可靠（多数判决）· 可存储转发
+  收音机 R : 连续波形 · 无码本     · 冗余只能线性平均         · 瞬时即逝
+
+公平口径（两条硬约束）：
+  (1) 发射功率相同、噪声功率相同 → SNR 相同
+  (2) 总信道使用次数相同 → 冗余 r 对双方是同一个预算
+
+【关键修正 v2】
+  · 接收端不做任何后处理（v1 的 _norm_power 是作弊的自动增益，会人为抹平差异）
+  · 码本失配改为"接收方用独立估计的码本"（v1 的置换数组无效：argmin 只看数值）
+  · 加入冗余 r（重复码 + 多数判决）—— 这才是电报能跨洋的真正原因，也是悬崖的来源
+
+Part A  SNR × 量化阶数 K → 保真度（无冗余）
+Part B  固定预算下冗余 r × SNR → 保真度；电报 vs 收音机；交叉点；悬崖宽度
+Part C  码本依赖：电报需双方共享码本，收音机无此依赖
+Part D  软判决：悬崖是硬判决的产物还是离散化的产物
+Part E  接引擎：两种通道接入感知通路，测内在结构（排除死亡筛选）
+"""
+import os, sys, json
+import numpy as np
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+
+# ---------------------------------------------------------------- 源信号
+def make_source(n=256, seed=0):
+    rng = np.random.default_rng(seed)
+    t = np.linspace(0.0, 1.0, n)
+    x = np.zeros(n)
+    for k in range(4):
+        x += rng.uniform(0.3, 1.0) * np.sin(2 * np.pi * (k + 1) * 3 * t
+                                            + rng.uniform(0, 6.283))
+    x += 0.3 * rng.normal(size=n)
+    return (x - x.mean()) / (x.std() + 1e-12)      # 单位功率
+
+
+def quantize(x, K):
+    K = int(K)
+    if K <= 1:
+        return np.zeros(len(x), int), np.array([0.0])
+    edges = np.quantile(x, np.linspace(0.0, 1.0, K + 1)[1:-1])
+    idx = np.searchsorted(edges, x)
+    levels = np.array([x[idx == k].mean() if (idx == k).any() else 0.0
+                       for k in range(K)])
+    return idx, levels
+
+
+def _tx(v):
+    """发射机归一化自身发射功率为 1（合法：发射机知道自己在发什么）"""
+    v = np.asarray(v, float)
+    return (v - v.mean()) / (v.std() + 1e-12)
+
+
+def fidelity(x, xhat):
+    """F = 1 - MSE/var(x)。接收端不做任何后处理。"""
+    x = np.asarray(x, float); xh = np.asarray(xhat, float)
+    return 1.0 - float(np.mean((xh - x) ** 2)) / (float(np.var(x)) + 1e-12)
+
+
+# ---------------------------------------------------------------- 通道
+def telegraph(x, K, snr_lin, rng, r=1, soft=False, cb=None):
+    """
+    电报：量化 K 电平 → 每符号重复 r 次发送 → 接收 → 判决 → 重建
+    r=1: 无冗余；r>1: 重复码（多数判决 / 软=平均后最近邻）
+    cb:  接收方码本（None=与发送方共享）
+    """
+    idx, levels = quantize(x, K)
+    tx = _tx(levels[idx])
+    n0 = 1.0 / snr_lin
+    y = tx[:, None] + rng.normal(0.0, np.sqrt(n0), size=(len(tx), r))
+
+    rx = levels if cb is None else cb
+    if r == 1:
+        xhat = rx[np.argmin((y[:, 0, None] - rx[None, :]) ** 2, axis=1)]
+    elif soft:
+        ym = y.mean(axis=1)                       # 平均降噪后最近邻
+        xhat = rx[np.argmin((ym[:, None] - rx[None, :]) ** 2, axis=1)]
+    else:
+        j = np.argmin((y[:, :, None] - rx[None, None, :]) ** 2, axis=2)
+        cnt = np.stack([(j == k).sum(axis=1) for k in range(len(rx))], axis=1)
+        xhat = rx[np.argmax(cnt, axis=1)]         # 多数判决
+    return xhat
+
+
+def radio(x, snr_lin, rng, r=1):
+    """收音机：连续波形重复 r 次发送 → 接收端平均（冗余只能线性用）"""
+    tx = _tx(x)
+    n0 = 1.0 / snr_lin
+    y = tx[:, None] + rng.normal(0.0, np.sqrt(n0), size=(len(tx), r))
+    return y.mean(axis=1)                          # r=1 时即直接接收
+
+
+# ---------------------------------------------------------------- Part A
+def part_a(snr_db_grid, Ks, n=256, n_src=10, n_noise=6):
+    srcs = [make_source(n, s) for s in range(n_src)]
+    out = {}
+    for K in Ks:
+        rows = []
+        for sdb in snr_db_grid:
+            snr = 10.0 ** (sdb / 10.0)
+            fs = []
+            for x in srcs:
+                for nz in range(n_noise):
+                    rng = np.random.default_rng(1000 + nz * 7919)
+                    xh = radio(x, snr, rng) if K is None else telegraph(x, K, snr, rng)
+                    fs.append(fidelity(x, xh))
+            rows.append(dict(snr_db=float(sdb), F=float(np.mean(fs)),
+                             F_sd=float(np.std(fs, ddof=1))))
+        out["radio" if K is None else f"K{K}"] = rows
+    return out
+
+
+def best_of(partA, Ks, snr_grid):
+    named = [(k, partA[f"K{k}"]) for k in Ks if k is not None]
+    rows = []
+    for i, sdb in enumerate(snr_grid):
+        vals = [(k, r[i]["F"]) for k, r in named] + [(None, partA["radio"][i]["F"])]
+        bk, bv = max(vals, key=lambda t: t[1])
+        rows.append(dict(snr_db=float(sdb),
+                         best=("radio" if bk is None else f"K{bk}"),
+                         best_F=float(bv),
+                         all={("radio" if k is None else f"K{k}"): float(v)
+                              for k, v in vals}))
+    return rows
+
+
+# ---------------------------------------------------------------- Part B
+def cliff_metric(rows):
+    """崩溃宽度：F 从 0.9*Fmax 掉到 0.1*Fmax 所需的 SNR 跨度（dB）
+       越小越像悬崖。用自身上限归一化，避免 K 的地板差异造成不公。"""
+    s = np.array([r["snr_db"] for r in rows], float)
+    F = np.array([r["F"] for r in rows], float)
+    o = np.argsort(s); s, F = s[o], F[o]
+    sg = np.linspace(s.min(), s.max(), 600)
+    Fg = np.interp(sg, s, F)
+    Fmax = Fg.max()
+    hi, lo = 0.9 * Fmax, 0.1 * Fmax
+    def cross(level):
+        for i in range(len(sg) - 1):
+            if (Fg[i] - level) * (Fg[i + 1] - level) <= 0:
+                return float(sg[i])
+        return float(sg[0] if Fg[0] >= level else sg[-1])
+    a, b = cross(hi), cross(lo)
+    d = np.abs(np.gradient(Fg, sg))
+    return dict(width_db=float(a - b), max_slope=float(d.max()),
+                Fmax=float(Fg.max()), Fmin=float(Fg.min()))
+
+
+def part_b(snr_db_grid, rs, K=8, n=256, n_src=10, n_noise=6):
+    """固定总信道预算：电报用重复码 r，收音机用 r 次平均。谁更划算？"""
+    srcs = [make_source(n, s) for s in range(n_src)]
+    out = {}
+    for r in rs:
+        tele, rad = [], []
+        for sdb in snr_db_grid:
+            snr = 10.0 ** (sdb / 10.0)
+            ft, fr = [], []
+            for x in srcs:
+                for nz in range(n_noise):
+                    rng = np.random.default_rng(5000 + nz * 7919)
+                    ft.append(fidelity(x, telegraph(x, K, snr, rng, r=r)))
+                    fr.append(fidelity(x, radio(x, snr, rng, r=r)))
+            tele.append(dict(snr_db=float(sdb), F=float(np.mean(ft))))
+            rad.append(dict(snr_db=float(sdb), F=float(np.mean(fr))))
+        out[f"r{r}"] = dict(telegraph=tele, radio=rad,
+                            tele_cliff=cliff_metric(tele),
+                            radio_cliff=cliff_metric(rad))
+    return out
+
+
+# ---------------------------------------------------------------- Part C
+def part_c(snr_db_list, K=16, n=256, n_src=10, n_noise=6):
+    """码本依赖：接收方用【系统性不同】的码本（均匀假设 vs 真实分位）
+       v1 的置换数组无效：argmin 只看数值，置换不改变集合。"""
+    srcs = [make_source(n, s) for s in range(n_src)]
+    res = {"tele_match": [], "tele_mismatch": [], "radio": []}
+    for sdb in snr_db_list:
+        snr = 10.0 ** (sdb / 10.0)
+        for tag in res:
+            fs = []
+            for x in srcs:
+                for nz in range(n_noise):
+                    rng = np.random.default_rng(2000 + nz * 7919)
+                    if tag == "radio":
+                        xh = radio(x, snr, rng)
+                    else:
+                        cb = None
+                        if tag == "tele_mismatch":
+                            # 接收方不知道源的分布，按【均匀】假设建码本 → 系统性错配
+                            cb = np.linspace(-3.0, 3.0, K)
+                        xh = telegraph(x, K, snr, rng, cb=cb)
+                    fs.append(fidelity(x, xh))
+            res[tag].append(dict(snr_db=float(sdb), F=float(np.mean(fs)),
+                                 F_sd=float(np.std(fs, ddof=1))))
+    return res
+
+
+# ---------------------------------------------------------------- Part D
+def part_d(snr_db_grid, rs=(1, 5, 15), K=8, n=256, n_src=10, n_noise=6):
+    """分离【冗余】与【判决方式】：
+       冗余 r 对三种接收者分别意味着什么？
+         tele_hard: r 次独立硬判决 → 多数投票（丢弃软信息）
+         tele_soft: r 次平均      → 最近邻  （保留软信息）
+         radio     : r 次平均      → 直接    （无判决）
+       若"冗余有害"只在 hard 上出现，则有害的是判决方式，不是冗余。"""
+    srcs = [make_source(n, s) for s in range(n_src)]
+    out = {}
+    for r in rs:
+        rows = {"tele_hard": [], "tele_soft": [], "radio": []}
+        for sdb in snr_db_grid:
+            snr = 10.0 ** (sdb / 10.0)
+            acc = {k: [] for k in rows}
+            for x in srcs:
+                for nz in range(n_noise):
+                    rng = np.random.default_rng(3000 + nz * 7919)
+                    acc["tele_hard"].append(fidelity(x, telegraph(x, K, snr, rng, r=r, soft=False)))
+                    acc["tele_soft"].append(fidelity(x, telegraph(x, K, snr, rng, r=r, soft=True)))
+                    acc["radio"].append(fidelity(x, radio(x, snr, rng, r=r)))
+            for k in rows:
+                rows[k].append(dict(snr_db=float(sdb), F=float(np.mean(acc[k]))))
+        out[f"r{r}"] = {k: dict(rows=rows[k], cliff=cliff_metric(rows[k]))
+                        for k in rows}
+    return out
+
+
+# ---------------------------------------------------------------- Part E
+def _skew(x):
+    x = np.asarray(x, float); m = x.mean()
+    return float(x.std() / m) if m > 1e-12 else 0.0
+
+
+def _to01(v):
+    v = np.asarray(v, float)
+    return (v - v.min()) / (v.max() - v.min() + 1e-12)
+
+
+def run_engine(sig, seed, k, steps=600, sigma_in=0.05):
+    from core.life5 import Life5
+    eng = Life5(N=8, seed=seed, k_seek_arr=k, sigma_in=sigma_in,
+                arr_thr=0.5, tau_arr=12.0, miss_arr_decay=0.97)
+    for t in range(steps):
+        eng.input_val = float(sig[t % len(sig)])
+        eng.step()
+        if not eng.alive:
+            break
+    if not eng.log:
+        return dict(skew=0.0, alive=False)
+    return dict(skew=_skew(np.array(eng.log[-1]["capv"], float)), alive=bool(eng.alive))
+
+
+def part_e(snr_db=6.0, K=16, seeds=24, steps=600, n=256, k=0.05):
+    """接引擎：电报 vs 收音机 vs 时序打乱 vs 无感官
+       用【共同存活子集】排除死亡筛选污染（skew 上升可能只是弱者死了）"""
+    snr = 10.0 ** (snr_db / 10.0)
+    x = make_source(n, 0)
+    rng = np.random.default_rng(4000)
+    sigs = {"telegraph": _to01(telegraph(x, K, snr, rng)),
+            "radio": _to01(radio(x, snr, rng)),
+            "permuted": _to01(rng.permutation(radio(x, snr, rng)))}
+    raw = {}
+    for tag, sig in sigs.items():
+        raw[tag] = [run_engine(sig, sd, k) for sd in range(seeds)]
+    from core.life5 import Life5
+    base = []
+    for sd in range(seeds):
+        eng = Life5(N=8, seed=sd, k_seek_arr=0.0, sigma_in=0.05)
+        for _ in range(steps):
+            eng.step()
+            if not eng.alive:
+                break
+        base.append(dict(skew=_skew(np.array(eng.log[-1]["capv"], float)) if eng.log else 0.0,
+                         alive=True))
+    raw["none"] = base
+
+    # 共同存活子集：所有条件都活下来的 seed
+    keep = [sd for sd in range(seeds)
+            if all(raw[t][sd]["alive"] for t in raw)]
+    res = {}
+    for tag, rs_ in raw.items():
+        vs = [rs_[sd]["skew"] for sd in keep]
+        allv = [r["skew"] for r in rs_]
+        res[tag] = dict(skew=float(np.mean(allv)), skew_sd=float(np.std(allv, ddof=1)),
+                        survival=float(np.mean([1.0 if r["alive"] else 0.0 for r in rs_])),
+                        skew_vals=[float(v) for v in allv],
+                        common_skew=float(np.mean(vs)) if vs else None,
+                        common_sd=float(np.std(vs, ddof=1)) if len(vs) > 1 else None,
+                        common_vals=[float(v) for v in vs], n_common=len(keep))
+    return res
+
+
+def paired_ci(a, b, nboot=4000, seed=7):
+    d = np.asarray(a, float) - np.asarray(b, float)
+    rng = np.random.default_rng(seed)
+    bs = d[rng.integers(0, len(d), size=(nboot, len(d)))].mean(axis=1)
+    return dict(diff=float(d.mean()), lo=float(np.percentile(bs, 2.5)),
+                hi=float(np.percentile(bs, 97.5)))
+
+
+# ---------------------------------------------------------------- main
+def main():
+    grid_a = np.arange(24.0, -6.01, -1.5)
+    Ks = [2, 4, 8, 16, 64, None]
+    print("=" * 74)
+    print("实验 084  电报 vs 收音机（v2：加入冗余，接收端无后处理）")
+    print("=" * 74)
+
+    A = part_a(grid_a, Ks)
+    print("\n[Part A] 无冗余：SNR × K → 保真度 F")
+    print("SNR(dB) " + "".join(f"{('radio' if k is None else 'K'+str(k)):>9}" for k in Ks))
+    for i, sdb in enumerate(grid_a):
+        print(f"{sdb:7.1f} " + "".join(
+            f"{A['radio' if k is None else 'K'+str(k)][i]['F']:9.4f}" for k in Ks))
+
+    print("\n[Part A'] 给定 SNR 下的最优通道")
+    for r in best_of(A, Ks, grid_a):
+        print(f"  SNR={r['snr_db']:6.1f}dB  最优={r['best']:>6}  F={r['best_F']:.4f}")
+
+    print("\n[Part A''] 崩溃宽度（越小越像悬崖）")
+    for k in Ks:
+        key = "radio" if k is None else f"K{k}"
+        c = cliff_metric(A[key])
+        print(f"  {key:>6}  宽度={c['width_db']:6.2f}dB  最大斜率={c['max_slope']:.4f}  "
+              f"Fmax={c['Fmax']:.4f}")
+
+    grid_b = np.arange(18.0, -10.01, -2.0)
+    rs = [1, 3, 5, 9, 15, 31]
+    print("\n[Part B] 固定总信道预算：冗余 r（电报=重复码多数判决 / 收音机=r次平均）")
+    B = part_b(grid_b, rs)
+    for r in rs:
+        v = B[f"r{r}"]
+        tc, rc = v["tele_cliff"], v["radio_cliff"]
+        print(f"  r={r:2d}  电报宽度={tc['width_db']:6.2f}dB  收音机宽度={rc['width_db']:6.2f}dB  "
+              f"| 电报Fmax={tc['Fmax']:.4f} 收音机Fmax={rc['Fmax']:.4f}")
+    print("  逐点（电报 vs 收音机）：")
+    print("  SNR(dB) " + "".join(f"{'r'+str(r):>8}" for r in rs))
+    for i, sdb in enumerate(grid_b):
+        row = f"{sdb:7.1f} "
+        for r in rs:
+            v = B[f"r{r}"]
+            d = v["telegraph"][i]["F"] - v["radio"][i]["F"]
+            row += f"{d:+8.4f}"
+        print(row + "   (正=电报优)")
+
+    print("\n[Part C] 码本依赖（接收方按均匀假设建码本 = 不共享）")
+    C = part_c([20.0, 12.0, 6.0, 0.0, -4.0])
+    for i, sdb in enumerate([20.0, 12.0, 6.0, 0.0, -4.0]):
+        print(f"  SNR={sdb:6.1f}dB  电报·共享码本={C['tele_match'][i]['F']:.4f}  "
+              f"电报·不共享码本={C['tele_mismatch'][i]['F']:.4f}  "
+              f"收音机(无码本)={C['radio'][i]['F']:.4f}")
+
+    print("\n[Part D] 分离冗余与判决方式（K=8）")
+    D = part_d(np.arange(16.0, -6.01, -2.0))
+    for r in D:
+        v = D[r]
+        print(f"  {r}: 崩溃宽度  硬判决={v['tele_hard']['cliff']['width_db']:6.2f}dB  "
+              f"软判决={v['tele_soft']['cliff']['width_db']:6.2f}dB  "
+              f"收音机={v['radio']['cliff']['width_db']:6.2f}dB")
+    print("  逐点 F（硬 / 软 / 收音机）：")
+    for i, sdb in enumerate(np.arange(16.0, -6.01, -2.0)):
+        line = f"  SNR={sdb:6.1f}  "
+        for r in D:
+            v = D[r]
+            line += (f"{r}[硬{v['tele_hard']['rows'][i]['F']:+.3f} "
+                     f"软{v['tele_soft']['rows'][i]['F']:+.3f} "
+                     f"收{v['radio']['rows'][i]['F']:+.3f}]  ")
+        print(line)
+
+    print("\n[Part E] 接引擎（内在结构偏度，共同存活子集）")
+    E = part_e()
+    for tag in ["none", "telegraph", "radio", "permuted"]:
+        r = E[tag]
+        print(f"  {tag:>10}  skew={r['skew']:.6f}±{r['skew_sd']:.6f}  存活={r['survival']:.3f}"
+              f"  共同子集skew={r['common_skew']:.6f} (n={r['n_common']})")
+    print("  --- 配对差（全样本）---")
+    for a_, b_ in [("telegraph", "none"), ("radio", "none"),
+                   ("radio", "telegraph"), ("radio", "permuted")]:
+        c = paired_ci(E[a_]["skew_vals"], E[b_]["skew_vals"])
+        sig = "显著" if (c["lo"] > 0) == (c["hi"] > 0) else "不显著"
+        print(f"  {a_} - {b_}: Δ={c['diff']:+.6f} 95%CI=[{c['lo']:+.6f},{c['hi']:+.6f}] {sig}")
+    print("  --- 配对差（共同存活子集，排除死亡筛选）---")
+    for a_, b_ in [("telegraph", "none"), ("radio", "none"), ("radio", "telegraph")]:
+        c = paired_ci(E[a_]["common_vals"], E[b_]["common_vals"])
+        sig = "显著" if (c["lo"] > 0) == (c["hi"] > 0) else "不显著"
+        print(f"  {a_} - {b_}: Δ={c['diff']:+.6f} 95%CI=[{c['lo']:+.6f},{c['hi']:+.6f}] {sig}")
+
+    out = dict(partA=A, bestA=best_of(A, Ks, grid_a), partB=B, partC=C, partD=D, partE=E)
+    p = os.path.join(os.path.dirname(__file__), "..", "result_084.json")
+    with open(p, "w") as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+    print(f"\n已写 {os.path.abspath(p)}")
+
+
+if __name__ == "__main__":
+    main()

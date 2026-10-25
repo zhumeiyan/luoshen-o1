@@ -1,1 +1,23 @@
-aW1wb3J0IGpzb24sIG1hdGgKCiMgbi1ib25hY2NpOiBUKG4pPXN1bV97aT0xLi5rfSBUKG4taSkKIyBjaGFyYWN0ZXJpc3RpYzogeF57aysxfSAtIDJ4XmsgKyAxID0gMCAgLT4gIHggPSAyIC0geF57LWt9CmRlZiByKGssIGl0PTUwMCk6CiAgICB4ID0gMS45NQogICAgZm9yIF8gaW4gcmFuZ2UoaXQpOgogICAgICAgIHggPSAyLjAgLSB4KiooLWspCiAgICByZXR1cm4geAoKcm93cz1bXQpwcmludChmInsnayc6PjN9IHsncl9rJzo+MTJ9IHsnZ2FpbiBrLTEtPmsnOj4xM30geyclIG9mIHRvdGFsKDItMSknOj4xNX0geydlcHM9Mi1yJzo+MTB9IHsnMl4tayc6PjEwfSB7J2Vwcy8yXi1rJzo+MTB9IikKcHJldj1Ob25lCmZvciBrIGluIHJhbmdlKDEsMTMpOgogICAgcms9cihrKQogICAgZ2FpbiA9IChyay1wcmV2KSBpZiBwcmV2IGlzIG5vdCBOb25lIGVsc2UgTm9uZQogICAgdG90ICA9IChyay0xLjApLzEuMCAgICMgdG90YWwgcmVhY2hhYmxlID0gMi0xID0gMQogICAgZXBzICA9IDIuMC1yawogICAgcDIgICA9IDIuMCoqKC1rKQogICAgcHJpbnQoZiJ7azo+M30ge3JrOj4xMi42Zn0gIiArIChmIntnYWluOj4xMy42Zn0iIGlmIGdhaW4gaXMgbm90IE5vbmUgZWxzZSBmInsnLSc6PjEzfSIpICsgZiIge3RvdCoxMDA6PjE0LjNmfSUge2Vwczo+MTAuNmZ9IHtwMjo+MTAuNmZ9IHtlcHMvcDI6PjEwLjRmfSIpCiAgICByb3dzLmFwcGVuZChkaWN0KGs9ayxyX2s9cmssc2hhcmVfb2ZfdG90YWw9dG90LGVwcz1lcHMpKQogICAgcHJldj1yawpqc29uLmR1bXAocm93cywgb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTYxX25ib25hY2NpL3JrLmpzb24nLCd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+import json, math
+
+# n-bonacci: T(n)=sum_{i=1..k} T(n-i)
+# characteristic: x^{k+1} - 2x^k + 1 = 0  ->  x = 2 - x^{-k}
+def r(k, it=500):
+    x = 1.95
+    for _ in range(it):
+        x = 2.0 - x**(-k)
+    return x
+
+rows=[]
+print(f"{'k':>3} {'r_k':>12} {'gain k-1->k':>13} {'% of total(2-1)':>15} {'eps=2-r':>10} {'2^-k':>10} {'eps/2^-k':>10}")
+prev=None
+for k in range(1,13):
+    rk=r(k)
+    gain = (rk-prev) if prev is not None else None
+    tot  = (rk-1.0)/1.0   # total reachable = 2-1 = 1
+    eps  = 2.0-rk
+    p2   = 2.0**(-k)
+    print(f"{k:>3} {rk:>12.6f} " + (f"{gain:>13.6f}" if gain is not None else f"{'-':>13}") + f" {tot*100:>14.3f}% {eps:>10.6f} {p2:>10.6f} {eps/p2:>10.4f}")
+    rows.append(dict(k=k,r_k=rk,share_of_total=tot,eps=eps))
+    prev=rk
+json.dump(rows, open('/data/workspace/luoshen-o1/experiments/exp161_nbonacci/rk.json','w'), ensure_ascii=False, indent=1)

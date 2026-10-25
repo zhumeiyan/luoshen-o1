@@ -1,1 +1,137 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKQURBTSBBZ2VudCAozqkgSGVhcnQpIOKAlCBhcmlmT1MgQXV0b3Jlc2VhcmNoClN0YWJpbGl0eSBjaGVja3MsIHJlYWRhYmlsaXR5IHNjb3JpbmcsIGNvb2xpbmcgYW5hbHlzaXMuCgpVc2FnZToKICAgIHB5dGhvbiBhZGFtX2FnZW50LnB5IC0taW5wdXQ9L3RtcC9hcmlmX291dHB1dC5qc29uIC0tb3V0cHV0PS90bXAvYWRhbV9vdXRwdXQuanNvbgoiIiIKCmltcG9ydCBqc29uCmltcG9ydCBzeXMKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgYXNkaWN0LCBkYXRhY2xhc3MKZnJvbSBkYXRldGltZSBpbXBvcnQgVVRDCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKQVJJRk9TX1JPT1QgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50ClNDT1BFRF9ESVJTID0gWyJjb3JlL3NoYXJlZCIsICJhcmlmb3NtY3AvcnVudGltZSIsICJ0ZXN0cyIsICJBUkNIL0RPQ1MiXQoKCkBkYXRhY2xhc3MKY2xhc3MgU3RhYmlsaXR5TWV0cmljczoKICAgIHJlYWRhYmlsaXR5X3Njb3JlOiBmbG9hdAogICAgY29vbGluZ19yYXRlOiBmbG9hdAogICAgc3RhYmlsaXR5X2luZGV4OiBmbG9hdAogICAgcmlza19sZXZlbDogc3RyCgoKQGRhdGFjbGFzcwpjbGFzcyBBZGFtT3V0cHV0OgogICAgc3RhYmlsaXR5OiBTdGFiaWxpdHlNZXRyaWNzCiAgICBwYXNzZXM6IGJvb2wKICAgIHdhcm5pbmdzOiBsaXN0CiAgICB0aW1lc3RhbXA6IHN0cgoKCmRlZiBnZXRfdGltZXN0YW1wKCk6CiAgICBmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQoKICAgIHJldHVybiBkYXRldGltZS5ub3coVVRDKS5pc29mb3JtYXQoKQoKCmRlZiBtZWFzdXJlX3JlYWRhYmlsaXR5KGZpbGVfcGF0aDogUGF0aCkgLT4gZmxvYXQ6CiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKGZpbGVfcGF0aCkgYXMgZjoKICAgICAgICAgICAgY29udGVudCA9IGYucmVhZCgpCiAgICAgICAgbGluZXMgPSBjb250ZW50LnNwbGl0KCJcbiIpCiAgICAgICAgY29kZV9saW5lcyA9IFtsIGZvciBsIGluIGxpbmVzIGlmIGwuc3RyaXAoKSBhbmQgbm90IGwuc3RyaXAoKS5zdGFydHN3aXRoKCIjIildCiAgICAgICAgY29tbWVudF9saW5lcyA9IFtsIGZvciBsIGluIGxpbmVzIGlmIGwuc3RyaXAoKS5zdGFydHN3aXRoKCIjIildCiAgICAgICAgaWYgbm90IGNvZGVfbGluZXM6CiAgICAgICAgICAgIHJldHVybiAwLjAKICAgICAgICBjb21tZW50X3JhdGlvID0gbGVuKGNvbW1lbnRfbGluZXMpIC8gbGVuKGNvZGVfbGluZXMpCiAgICAgICAgYXZnX2xpbmVfbGVuID0gc3VtKGxlbihsKSBmb3IgbCBpbiBjb2RlX2xpbmVzKSAvIGxlbihjb2RlX2xpbmVzKQogICAgICAgIGxlbl9zY29yZSA9IG1heCgwLCAxIC0gKGF2Z19saW5lX2xlbiAtIDgwKSAvIDEyMCkKICAgICAgICBzY29yZSA9IChjb21tZW50X3JhdGlvICogMiArIGxlbl9zY29yZSkgLyAzCiAgICAgICAgcmV0dXJuIG1pbihzY29yZSwgMS4wKQogICAgZXhjZXB0OgogICAgICAgIHJldHVybiAwLjUKCgpkZWYgY2FsY3VsYXRlX3JlYWRhYmlsaXR5X3Njb3JlKCkgLT4gZmxvYXQ6CiAgICBzY29yZXMgPSBbXQogICAgZm9yIHNjb3BlX2RpciBpbiBTQ09QRURfRElSUzoKICAgICAgICBkaXJfcGF0aCA9IEFSSUZPU19ST09UIC8gc2NvcGVfZGlyCiAgICAgICAgaWYgZGlyX3BhdGguZXhpc3RzKCk6CiAgICAgICAgICAgIGZvciBweV9maWxlIGluIGRpcl9wYXRoLnJnbG9iKCIqLnB5Iik6CiAgICAgICAgICAgICAgICBpZiBsZW4oc2NvcmVzKSA8IDUwOgogICAgICAgICAgICAgICAgICAgIHNjb3Jlcy5hcHBlbmQobWVhc3VyZV9yZWFkYWJpbGl0eShweV9maWxlKSkKICAgIHJldHVybiBzdW0oc2NvcmVzKSAvIGxlbihzY29yZXMpIGlmIHNjb3JlcyBlbHNlIDAuNQoKCmRlZiBlc3RpbWF0ZV9jb29saW5nX3JhdGUoKSAtPiBmbG9hdDoKICAgIHJldHVybiAwLjE1CgoKZGVmIGNvbXB1dGVfc3RhYmlsaXR5X2luZGV4KHJlYWRhYmlsaXR5OiBmbG9hdCwgY29vbGluZzogZmxvYXQpIC0+IGZsb2F0OgogICAgcmV0dXJuIChyZWFkYWJpbGl0eSAqIDAuNykgKyAoY29vbGluZyAqIDAuMykKCgpkZWYgcnVuX3N0YWJpbGl0eV9jaGVja3MoYXJpZl9pbnB1dDogZGljdCA9IE5vbmUpIC0+IEFkYW1PdXRwdXQ6CiAgICByZWFkYWJpbGl0eSA9IGNhbGN1bGF0ZV9yZWFkYWJpbGl0eV9zY29yZSgpCiAgICBjb29saW5nID0gZXN0aW1hdGVfY29vbGluZ19yYXRlKCkKICAgIHN0YWJpbGl0eSA9IGNvbXB1dGVfc3RhYmlsaXR5X2luZGV4KHJlYWRhYmlsaXR5LCBjb29saW5nKQoKICAgIHJpc2sgPSAibG93IiBpZiBzdGFiaWxpdHkgPiAwLjYgZWxzZSAibWVkaXVtIiBpZiBzdGFiaWxpdHkgPiAwLjQgZWxzZSAiaGlnaCIKICAgIHBhc3NlcyA9IHN0YWJpbGl0eSA+IDAuNAoKICAgIHdhcm5pbmdzID0gW10KICAgIGlmIHJlYWRhYmlsaXR5IDwgMC40OgogICAgICAgIHdhcm5pbmdzLmFwcGVuZCgiTG93IHJlYWRhYmlsaXR5IHNjb3JlIGRldGVjdGVkIikKICAgIGlmIGNvb2xpbmcgPCAwLjE6CiAgICAgICAgd2FybmluZ3MuYXBwZW5kKCJDb29saW5nIHJhdGUgYmVsb3cgdGhyZXNob2xkIikKCiAgICByZXR1cm4gQWRhbU91dHB1dCgKICAgICAgICBzdGFiaWxpdHk9U3RhYmlsaXR5TWV0cmljcygKICAgICAgICAgICAgcmVhZGFiaWxpdHlfc2NvcmU9cmVhZGFiaWxpdHksCiAgICAgICAgICAgIGNvb2xpbmdfcmF0ZT1jb29saW5nLAogICAgICAgICAgICBzdGFiaWxpdHlfaW5kZXg9c3RhYmlsaXR5LAogICAgICAgICAgICByaXNrX2xldmVsPXJpc2ssCiAgICAgICAgKSwKICAgICAgICBwYXNzZXM9cGFzc2VzLAogICAgICAgIHdhcm5pbmdzPXdhcm5pbmdzLAogICAgICAgIHRpbWVzdGFtcD1nZXRfdGltZXN0YW1wKCksCiAgICApCgoKZGVmIG1haW4oKToKICAgIGltcG9ydCBhcmdwYXJzZQoKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSJBREFNIEFnZW50IOKAlCDOqSBIZWFydCIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWlucHV0IiwgaGVscD0iSW5wdXQgZnJvbSBBUklGIGFnZW50IikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tb3V0cHV0IiwgaGVscD0iT3V0cHV0IEpTT04gZmlsZSIpCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQoKICAgIGFyaWZfaW5wdXQgPSBOb25lCiAgICBpZiBhcmdzLmlucHV0OgogICAgICAgIHdpdGggb3BlbihhcmdzLmlucHV0KSBhcyBmOgogICAgICAgICAgICBhcmlmX2lucHV0ID0ganNvbi5sb2FkKGYpCgogICAgb3V0cHV0ID0gcnVuX3N0YWJpbGl0eV9jaGVja3MoYXJpZl9pbnB1dCkKICAgIHJlc3VsdCA9IGFzZGljdChvdXRwdXQpCiAgICByZXN1bHRbImFnZW50Il0gPSAiQURBTSIKICAgIHJlc3VsdFsidmVyc2lvbiJdID0gIjEuMC4wIgoKICAgIGpzb25fb3V0cHV0ID0ganNvbi5kdW1wcyhyZXN1bHQsIGluZGVudD0yKQoKICAgIGlmIGFyZ3Mub3V0cHV0OgogICAgICAgIHdpdGggb3BlbihhcmdzLm91dHB1dCwgInciKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKGpzb25fb3V0cHV0KQogICAgICAgIHByaW50KGYi4pyFIEFEQU0gYW5hbHlzaXMgd3JpdHRlbiB0byB7YXJncy5vdXRwdXR9IikKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoanNvbl9vdXRwdXQpCgogICAgcmV0dXJuIDAgaWYgb3V0cHV0LnBhc3NlcyBlbHNlIDEKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""
+ADAM Agent (Ω Heart) — arifOS Autoresearch
+Stability checks, readability scoring, cooling analysis.
+
+Usage:
+    python adam_agent.py --input=/tmp/arif_output.json --output=/tmp/adam_output.json
+"""
+
+import json
+import sys
+from dataclasses import asdict, dataclass
+from datetime import UTC
+from pathlib import Path
+
+ARIFOS_ROOT = Path(__file__).parent.parent
+SCOPED_DIRS = ["core/shared", "arifosmcp/runtime", "tests", "ARCH/DOCS"]
+
+
+@dataclass
+class StabilityMetrics:
+    readability_score: float
+    cooling_rate: float
+    stability_index: float
+    risk_level: str
+
+
+@dataclass
+class AdamOutput:
+    stability: StabilityMetrics
+    passes: bool
+    warnings: list
+    timestamp: str
+
+
+def get_timestamp():
+    from datetime import datetime
+
+    return datetime.now(UTC).isoformat()
+
+
+def measure_readability(file_path: Path) -> float:
+    try:
+        with open(file_path) as f:
+            content = f.read()
+        lines = content.split("\n")
+        code_lines = [l for l in lines if l.strip() and not l.strip().startswith("#")]
+        comment_lines = [l for l in lines if l.strip().startswith("#")]
+        if not code_lines:
+            return 0.0
+        comment_ratio = len(comment_lines) / len(code_lines)
+        avg_line_len = sum(len(l) for l in code_lines) / len(code_lines)
+        len_score = max(0, 1 - (avg_line_len - 80) / 120)
+        score = (comment_ratio * 2 + len_score) / 3
+        return min(score, 1.0)
+    except:
+        return 0.5
+
+
+def calculate_readability_score() -> float:
+    scores = []
+    for scope_dir in SCOPED_DIRS:
+        dir_path = ARIFOS_ROOT / scope_dir
+        if dir_path.exists():
+            for py_file in dir_path.rglob("*.py"):
+                if len(scores) < 50:
+                    scores.append(measure_readability(py_file))
+    return sum(scores) / len(scores) if scores else 0.5
+
+
+def estimate_cooling_rate() -> float:
+    return 0.15
+
+
+def compute_stability_index(readability: float, cooling: float) -> float:
+    return (readability * 0.7) + (cooling * 0.3)
+
+
+def run_stability_checks(arif_input: dict = None) -> AdamOutput:
+    readability = calculate_readability_score()
+    cooling = estimate_cooling_rate()
+    stability = compute_stability_index(readability, cooling)
+
+    risk = "low" if stability > 0.6 else "medium" if stability > 0.4 else "high"
+    passes = stability > 0.4
+
+    warnings = []
+    if readability < 0.4:
+        warnings.append("Low readability score detected")
+    if cooling < 0.1:
+        warnings.append("Cooling rate below threshold")
+
+    return AdamOutput(
+        stability=StabilityMetrics(
+            readability_score=readability,
+            cooling_rate=cooling,
+            stability_index=stability,
+            risk_level=risk,
+        ),
+        passes=passes,
+        warnings=warnings,
+        timestamp=get_timestamp(),
+    )
+
+
+def main():
+    import argparse
+
+    parser = argparse.ArgumentParser(description="ADAM Agent — Ω Heart")
+    parser.add_argument("--input", help="Input from ARIF agent")
+    parser.add_argument("--output", help="Output JSON file")
+    args = parser.parse_args()
+
+    arif_input = None
+    if args.input:
+        with open(args.input) as f:
+            arif_input = json.load(f)
+
+    output = run_stability_checks(arif_input)
+    result = asdict(output)
+    result["agent"] = "ADAM"
+    result["version"] = "1.0.0"
+
+    json_output = json.dumps(result, indent=2)
+
+    if args.output:
+        with open(args.output, "w") as f:
+            f.write(json_output)
+        print(f"✅ ADAM analysis written to {args.output}")
+    else:
+        print(json_output)
+
+    return 0 if output.passes else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -1,1 +1,25 @@
-aW1wb3J0IHJlcXVlc3RzCgoKUFJPWFlfTElTVF9VUkwgPSAoCiAgICAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3h5enM5OTYvZnJlZS1wcm94eS1oZWFsdGgtbGlzdC9tYWluLyIKICAgICJwcm94aWVzL3Byb3RvY29scy9odHRwL2RhdGEudHh0IgopCgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgcHJveGllcyA9IHJlcXVlc3RzLmdldChQUk9YWV9MSVNUX1VSTCwgdGltZW91dD0xMCkudGV4dC5zcGxpdGxpbmVzKCkKICAgIHByb3h5ID0gcHJveGllc1swXQogICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQoCiAgICAgICAgImh0dHA6Ly9leGFtcGxlLmNvbS8iLAogICAgICAgIHByb3hpZXM9ewogICAgICAgICAgICAiaHR0cCI6IGYiaHR0cDovL3twcm94eX0iLAogICAgICAgICAgICAiaHR0cHMiOiBmImh0dHA6Ly97cHJveHl9IiwKICAgICAgICB9LAogICAgICAgIHRpbWVvdXQ9MTAsCiAgICApCiAgICBwcmludChwcm94eSwgcmVzcG9uc2Uuc3RhdHVzX2NvZGUpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+import requests
+
+
+PROXY_LIST_URL = (
+    "https://raw.githubusercontent.com/xyzs996/free-proxy-health-list/main/"
+    "proxies/protocols/http/data.txt"
+)
+
+
+def main() -> None:
+    proxies = requests.get(PROXY_LIST_URL, timeout=10).text.splitlines()
+    proxy = proxies[0]
+    response = requests.get(
+        "http://example.com/",
+        proxies={
+            "http": f"http://{proxy}",
+            "https": f"http://{proxy}",
+        },
+        timeout=10,
+    )
+    print(proxy, response.status_code)
+
+
+if __name__ == "__main__":
+    main()

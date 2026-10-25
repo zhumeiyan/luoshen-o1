@@ -1,1 +1,75 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLmiormiYDmnInkuqTku5jnianpgJrov4cgY29udGVudHMgQVBJIOaOqOWIsCB6aHVtZWl5YW4vZXZhbGd1YXJkCuS6jOi/m+WItueUqCBiYXNlNjTjgILluYLnrYnvvJrlt7LlrZjlnKjliJnluKYgc2hhIOimhuebluOAgiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgYmFzZTY0LCBpbywgdXJsbGliLnJlcXVlc3QsIHVybGxpYi5lcnJvcgoKQVBJID0gImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20iClRLID0gb3MuZW52aXJvbi5nZXQoIkdJVEhVQl9UT0tFTiIsICIiKQpPV05FUiwgUkVQTyA9ICJ6aHVtZWl5YW4iLCAiZXZhbGd1YXJkIgpST09UID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL292ZXJzZWFzIgoKaWYgbm90IFRLOgogICAgc3lzLmV4aXQoIm5lZWQgR0lUSFVCX1RPS0VOIikKCgpkZWYgcmVxKG1ldGhvZCwgdXJsLCBkYXRhPU5vbmUsIHJhdz1GYWxzZSk6CiAgICByID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIG1ldGhvZD1tZXRob2QsCiAgICAgICAgaGVhZGVycz17IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7VEt9IiwKICAgICAgICAgICAgICAgICAiQWNjZXB0IjogImFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiIsCiAgICAgICAgICAgICAgICAgIlVzZXItQWdlbnQiOiAiZXZhbGd1YXJkLXB1c2hlciJ9KQogICAgYm9keSA9IGpzb24uZHVtcHMoZGF0YSkuZW5jb2RlKCkgaWYgZGF0YSBpcyBub3QgTm9uZSBlbHNlIE5vbmUKICAgIHRyeToKICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ociwgYm9keSkgYXMgZjoKICAgICAgICAgICAgYiA9IGYucmVhZCgpCiAgICAgICAgICAgIGlmIHJhdzoKICAgICAgICAgICAgICAgIHJldHVybiBmLnN0YXR1cywgYgogICAgICAgICAgICByZXR1cm4gZi5zdGF0dXMsIGpzb24ubG9hZChpby5CeXRlc0lPKGIpKQogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToKICAgICAgICByZXR1cm4gZS5jb2RlLCBlLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKVs6NDAwXQoKCmRlZiBnZXRfc2hhKHBhdGgpOgogICAgcywgaiA9IHJlcSgiR0VUIiwgZiJ7QVBJfS9yZXBvcy97T1dORVJ9L3tSRVBPfS9jb250ZW50cy97cGF0aH0iKQogICAgaWYgcyA9PSAyMDAgYW5kIGlzaW5zdGFuY2UoaiwgZGljdCk6CiAgICAgICAgcmV0dXJuIGouZ2V0KCJzaGEiKQogICAgcmV0dXJuIE5vbmUKCgpkZWYgcHV0KGxvY2FsLCByZW1vdGUsIG1zZz1Ob25lKToKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhsb2NhbCk6CiAgICAgICAgcHJpbnQoZiIgIFNLSVAgKG1pc3NpbmcpIHtsb2NhbH0iKQogICAgICAgIHJldHVybiBGYWxzZQogICAgd2l0aCBvcGVuKGxvY2FsLCAicmIiKSBhcyBmOgogICAgICAgIGRhdGEgPSBmLnJlYWQoKQogICAgYjY0ID0gYmFzZTY0LmI2NGVuY29kZShkYXRhKS5kZWNvZGUoKQogICAgcGF5bG9hZCA9IHsibWVzc2FnZSI6IG1zZyBvciBmImFkZCB7cmVtb3RlfSIsICJjb250ZW50IjogYjY0fQogICAgc2hhID0gZ2V0X3NoYShyZW1vdGUpCiAgICBpZiBzaGE6CiAgICAgICAgcGF5bG9hZFsic2hhIl0gPSBzaGEKICAgIHMsIGogPSByZXEoIlBVVCIsIGYie0FQSX0vcmVwb3Mve09XTkVSfS97UkVQT30vY29udGVudHMve3JlbW90ZX0iLCBwYXlsb2FkKQogICAgb2sgPSBzIGluICgyMDAsIDIwMSkKICAgIHByaW50KGYiICB7cmVtb3RlOjQ0c30ge2xlbihkYXRhKTo+OGR9QiAgSFRUUCB7c30gIHsnT0snIGlmIG9rIGVsc2Ugan0iKQogICAgcmV0dXJuIG9rCgoKRklMRVMgPSBbCiAgICAoZiJ7Uk9PVH0vcmVwby8uZ2l0aHViL3dvcmtmbG93cy9vcmRlci1mdWxmaWxsLnltbCIsCiAgICAgIi5naXRodWIvd29ya2Zsb3dzL29yZGVyLWZ1bGZpbGwueW1sIiksCiAgICAoZiJ7Uk9PVH0vcmVwby8uZ2l0aHViL0lTU1VFX1RFTVBMQVRFL29yZGVyLnltbCIsCiAgICAgIi5naXRodWIvSVNTVUVfVEVNUExBVEUvb3JkZXIueW1sIiksCiAgICAoZiJ7Uk9PVH0vZXZhbGd1YXJkLXYwLjMuMC56aXAiLAogICAgICJkaXN0L2V2YWxndWFyZC12MC4zLjAuemlwIiksCiAgICAoZiJ7Uk9PVH0vY2Fub24vY2Fub25femguanNvbiIsCiAgICAgImNhbm9uL2Nhbm9uX3poLmpzb24iKSwKICAgIChmIntST09UfS9jYW5vbi9jYW5vbl96aC5jc3YiLAogICAgICJjYW5vbi9jYW5vbl96aC5jc3YiKSwKICAgIChmIntST09UfS9zaXRlL2luZGV4Lmh0bWwiLAogICAgICJpbmRleC5odG1sIiksCl0KCnByaW50KCJwdXNoaW5nIHRvIiwgZiJ7T1dORVJ9L3tSRVBPfSIpCm5fb2sgPSAwCmZvciBsb2NhbCwgcmVtb3RlIGluIEZJTEVTOgogICAgaWYgcHV0KGxvY2FsLCByZW1vdGUpOgogICAgICAgIG5fb2sgKz0gMQpwcmludChmImRvbmUge25fb2t9L3tsZW4oRklMRVMpfSIpCg==
+#!/usr/bin/env python3
+"""把所有交付物通过 contents API 推到 zhumeiyan/evalguard
+二进制用 base64。幂等：已存在则带 sha 覆盖。"""
+import os, sys, json, base64, io, urllib.request, urllib.error
+
+API = "https://api.github.com"
+TK = os.environ.get("GITHUB_TOKEN", "")
+OWNER, REPO = "zhumeiyan", "evalguard"
+ROOT = "/data/workspace/luoshen-o1/overseas"
+
+if not TK:
+    sys.exit("need GITHUB_TOKEN")
+
+
+def req(method, url, data=None, raw=False):
+    r = urllib.request.Request(url, method=method,
+        headers={"Authorization": f"Bearer {TK}",
+                 "Accept": "application/vnd.github+json",
+                 "User-Agent": "evalguard-pusher"})
+    body = json.dumps(data).encode() if data is not None else None
+    try:
+        with urllib.request.urlopen(r, body) as f:
+            b = f.read()
+            if raw:
+                return f.status, b
+            return f.status, json.load(io.BytesIO(b))
+    except urllib.error.HTTPError as e:
+        return e.code, e.read().decode("utf-8", "replace")[:400]
+
+
+def get_sha(path):
+    s, j = req("GET", f"{API}/repos/{OWNER}/{REPO}/contents/{path}")
+    if s == 200 and isinstance(j, dict):
+        return j.get("sha")
+    return None
+
+
+def put(local, remote, msg=None):
+    if not os.path.exists(local):
+        print(f"  SKIP (missing) {local}")
+        return False
+    with open(local, "rb") as f:
+        data = f.read()
+    b64 = base64.b64encode(data).decode()
+    payload = {"message": msg or f"add {remote}", "content": b64}
+    sha = get_sha(remote)
+    if sha:
+        payload["sha"] = sha
+    s, j = req("PUT", f"{API}/repos/{OWNER}/{REPO}/contents/{remote}", payload)
+    ok = s in (200, 201)
+    print(f"  {remote:44s} {len(data):>8d}B  HTTP {s}  {'OK' if ok else j}")
+    return ok
+
+
+FILES = [
+    (f"{ROOT}/repo/.github/workflows/order-fulfill.yml",
+     ".github/workflows/order-fulfill.yml"),
+    (f"{ROOT}/repo/.github/ISSUE_TEMPLATE/order.yml",
+     ".github/ISSUE_TEMPLATE/order.yml"),
+    (f"{ROOT}/evalguard-v0.3.0.zip",
+     "dist/evalguard-v0.3.0.zip"),
+    (f"{ROOT}/canon/canon_zh.json",
+     "canon/canon_zh.json"),
+    (f"{ROOT}/canon/canon_zh.csv",
+     "canon/canon_zh.csv"),
+    (f"{ROOT}/site/index.html",
+     "index.html"),
+]
+
+print("pushing to", f"{OWNER}/{REPO}")
+n_ok = 0
+for local, remote in FILES:
+    if put(local, remote):
+        n_ok += 1
+print(f"done {n_ok}/{len(FILES)}")

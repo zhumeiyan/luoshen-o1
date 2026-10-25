@@ -1,1 +1,25 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0LCBqc29uCnBsdC5yY1BhcmFtc1siZm9udC5zYW5zLXNlcmlmIl09WyJXZW5RdWFuWWkgTWljcm8gSGVpIl07IHBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl09RmFsc2UKQkc9IiMwYjBiMGMiOyBPUj0iI0ZGNkIxQSI7IFc9IiNmMmYyZjIiOyBHPSIjOGE4YThhIgpkPWpzb24ubG9hZChvcGVuKCLlj4LmlbDlupMv5Zu96ZmF5qCH5YeGLmpzb24iKSkKaXRlbXM9c29ydGVkKGRbImlzbzE1MDA4X3B4Il0uaXRlbXMoKSwga2V5PWxhbWJkYSB4Oi14WzFdKQpuYW1lcz1bayBmb3IgayxfIGluIGl0ZW1zXTsgcHg9W3YgZm9yIF8sdiBpbiBpdGVtc10KZmlnLGF4PXBsdC5zdWJwbG90cyhmaWdzaXplPSg5LjYsNy4wKSxmYWNlY29sb3I9QkcpOyBheC5zZXRfZmFjZWNvbG9yKEJHKQp5PXJhbmdlKGxlbihpdGVtcykpWzo6LTFdCmNvbHM9W09SIGlmIHY+PTEyIGVsc2UgKCIjYzhjOGM4IiBpZiB2Pj05IGVsc2UgIiM1YTJhMTIiKSBmb3IgdiBpbiBweF0KYXguYmFyaChsaXN0KHkpLCBweCwgY29sb3I9Y29scywgaGVpZ2h0PS42MikKYXguYXh2bGluZSgxMiwgY29sb3I9IiNkMGQwZDAiLCBscz0iLS0iLCBsdz0xLjYpCmF4LnRleHQoMTIuNCwgbGVuKGl0ZW1zKS0uNiwgIklTTyDmnIDkvY4gMTInICAiLCBjb2xvcj0iI2QwZDBkMCIsIGZvbnRzaXplPTExKQpheC5heHZsaW5lKDIwLCBjb2xvcj0iIzlhOWE5YSIsIGxzPSI6IiwgbHc9MS40KQpheC50ZXh0KDIwLjQsIGxlbihpdGVtcyktLjYsICJJU08g5o6o6I2QIDIwJyIsIGNvbG9yPSIjOWE5YTlhIiwgZm9udHNpemU9MTEpCmF4LnNldF95dGlja3MobGlzdCh5KSk7IGF4LnNldF95dGlja2xhYmVscyhuYW1lcyxjb2xvcj1XLGZvbnRzaXplPTExLjUpCmZvciBpLHYgaW4gemlwKHkscHgpOgogICAgYXgudGV4dCh2Ky41LCBpLCBmInt2Oi4xZn1weCIsIGNvbG9yPUcsIGZvbnRzaXplPTEwLCB2YT0iY2VudGVyIikKYXguc2V0X3hsYWJlbCgiSVNPIDE1MDA4IOacgOS9juWtl+espumrmOW6pu+8iDEyIOW8p+WIhu+8ieWcqOi/meWPsOiuvuWkh+S4iuetieS6juWkmuWwkeWDj+e0oCIsY29sb3I9Ryxmb250c2l6ZT0xMC41KQpheC5zZXRfdGl0bGUoIuWQjOS4gOS4quWbvemZheagh+WHhu+8jOWcqOS4jeWQjOiuvuWkh+S4iuimgeS4jeWQjOeahOWDj+e0oOaVsCIsY29sb3I9Vyxmb250c2l6ZT0xNixwYWQ9MTQpCmF4LnRleHQoMC4wMiwwLjAxNSwi5qmZPei+vuaghyAg54GwPeWBj+S9jiAg5pqXPeS4jei+vuagh++8iFBpY28gNCDlj6rmnIkgNS44cHjvvIkiLAogICAgICAgIHRyYW5zZm9ybT1heC50cmFuc0F4ZXMsY29sb3I9Ryxmb250c2l6ZT0xMCkKYXgudGlja19wYXJhbXMoY29sb3JzPUcpOyBbcy5zZXRfY29sb3IoIiMyYTJhMmMiKSBmb3IgcyBpbiBheC5zcGluZXMudmFsdWVzKCldCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoIuaEn+WumOahpS/nrKblj7dfdjI3X+WbvemZheagh+WHhi5wbmciLGRwaT0xMTAsZmFjZWNvbG9yPUJHKTsgcHJpbnQoIm9rIikK
+# -*- coding: utf-8 -*-
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt, json
+plt.rcParams["font.sans-serif"]=["WenQuanYi Micro Hei"]; plt.rcParams["axes.unicode_minus"]=False
+BG="#0b0b0c"; OR="#FF6B1A"; W="#f2f2f2"; G="#8a8a8a"
+d=json.load(open("参数库/国际标准.json"))
+items=sorted(d["iso15008_px"].items(), key=lambda x:-x[1])
+names=[k for k,_ in items]; px=[v for _,v in items]
+fig,ax=plt.subplots(figsize=(9.6,7.0),facecolor=BG); ax.set_facecolor(BG)
+y=range(len(items))[::-1]
+cols=[OR if v>=12 else ("#c8c8c8" if v>=9 else "#5a2a12") for v in px]
+ax.barh(list(y), px, color=cols, height=.62)
+ax.axvline(12, color="#d0d0d0", ls="--", lw=1.6)
+ax.text(12.4, len(items)-.6, "ISO 最低 12'  ", color="#d0d0d0", fontsize=11)
+ax.axvline(20, color="#9a9a9a", ls=":", lw=1.4)
+ax.text(20.4, len(items)-.6, "ISO 推荐 20'", color="#9a9a9a", fontsize=11)
+ax.set_yticks(list(y)); ax.set_yticklabels(names,color=W,fontsize=11.5)
+for i,v in zip(y,px):
+    ax.text(v+.5, i, f"{v:.1f}px", color=G, fontsize=10, va="center")
+ax.set_xlabel("ISO 15008 最低字符高度（12 弧分）在这台设备上等于多少像素",color=G,fontsize=10.5)
+ax.set_title("同一个国际标准，在不同设备上要不同的像素数",color=W,fontsize=16,pad=14)
+ax.text(0.02,0.015,"橙=达标  灰=偏低  暗=不达标（Pico 4 只有 5.8px）",
+        transform=ax.transAxes,color=G,fontsize=10)
+ax.tick_params(colors=G); [s.set_color("#2a2a2c") for s in ax.spines.values()]
+plt.tight_layout(); plt.savefig("感官桥/符号_v27_国际标准.png",dpi=110,facecolor=BG); print("ok")

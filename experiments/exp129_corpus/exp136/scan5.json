@@ -1,1 +1,12 @@
-WwogewogICJmaWxlIjogImNlbGVyeV9fY2VsZXJ5X19jZWxlcnlfd29ya2VyX2xvb3BzLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJsaW5lIjogNDYsCiAgImhpdCI6ICJoZWFydGJlYXQgLyByYXRlIiwKICAidGl0bGUiOiAiRGl2aXNpb24gd2l0aG91dCBkZW5vbWluYXRvciBndWFyZCIsCiAgIndoeSI6ICJDYW5vbiAjMzUvIzE0NTogYSBkZW5vbWluYXRvciB0aGF0IGNhbiBoaXQgemVybyBlaXRoZXIgY3Jhc2hlcyBvciBzaWxlbnRseSBwcm9kdWNlcyBhIGNvbnN0YW50LXplcm8gbWV0cmljIFx1MjAxNCB0aGUgbWV0cmljIGRpZXMgYmVmb3JlIHRoZSBleHBlcmltZW50IGRvZXMuIiwKICAic2V2IjogIndhcm4iLAogICJjbHMiOiAic3ludGF4IgogfQpd
+[
+ {
+  "file": "celery__celery__celery_worker_loops.py",
+  "eg": "EG005",
+  "line": 46,
+  "hit": "heartbeat / rate",
+  "title": "Division without denominator guard",
+  "why": "Canon #35/#145: a denominator that can hit zero either crashes or silently produces a constant-zero metric \u2014 the metric dies before the experiment does.",
+  "sev": "warn",
+  "cls": "syntax"
+ }
+]

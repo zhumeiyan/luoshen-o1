@@ -1,1 +1,68 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDk5ZDog5L+u5q2j54mIIOKAlOKAlCDlhYjlgZrkv53mtLvpmLPmgKflr7nnhafvvIzlho3ms6jlhaXlj6/or7vmgKfmoq/luqYiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9jb3JlJykKZnJvbSBsaWZlNSBpbXBvcnQgTGlmZTUKT1VUPW9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpCQVNFPWRpY3QoTj04LCByYXRpbz0wLjYsIGtfc2Vlaz0wLjYsIGtfc2FsPTAuNiwgc2lnbWFfaW49MC4xNSkKU1RFUFM9NjAwOyBTRUVEUz1saXN0KHJhbmdlKDE2KSkKCmRlZiBza2V3KHMpOgogICAgYz1ucC5hc2FycmF5KHMuY2FwYWNpdHksZmxvYXQpCiAgICBpZiBjLnN0ZCgpPDFlLTEyOiByZXR1cm4gMC4wCiAgICB6PShjLWMubWVhbigpKS9jLnN0ZCgpOyByZXR1cm4gZmxvYXQoKHoqKjMpLm1lYW4oKSkKCmRlZiBydW4ocmVhZGFiaWxpdHksIHNlZWQsIG1vZGU9J3NlbnNlJyk6CiAgICAiIiJyZWFkYWJpbGl0eSByIGluIFswLDFdOiDkuJbnlYzlj6/or7vluqbjgIJzYWwg5q+P5ouNID0gciDnqLPlrpogKyAoMS1yKSDmipbliqgiIiIKICAgIHI9ZmxvYXQocmVhZGFiaWxpdHkpCiAgICBybmc9bnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQqOTc3KzEzKQogICAgaWYgbW9kZT09J25vbmUnOgogICAgICAgIGxmPUxpZmU1KHNlZWQ9c2VlZCwgKip7KipCQVNFLCdrX3NlZWsnOjAuMCwna19zYWwnOjAuMH0pCiAgICBlbHNlOgogICAgICAgIGxmPUxpZmU1KHNlZWQ9c2VlZCwgKipCQVNFKQogICAgZm9yIHQgaW4gcmFuZ2UoU1RFUFMpOgogICAgICAgIGlmIG1vZGUhPSdub25lJzoKICAgICAgICAgICAgYmFzZT0wLjMrMC41KnIKICAgICAgICAgICAgbGYuc2FsPW5wLmZ1bGwobGYuTiwgbWF4KDAuMCwgYmFzZSsoMS1yKSpybmcubm9ybWFsKDAsMC4yNSkpKQogICAgICAgIGxmLnN0ZXAoKQogICAgICAgIGlmIG5vdCBsZi5hbGl2ZTogYnJlYWsKICAgIHJldHVybiBsZgoKUkVBRD17J+WOn+aWhyc6MC44NjMsJ+aNojHor40nOjAuNzcxLCfmjaIz6K+NJzowLjcyMSwn5o2i5YWo6YOoJzowLjY4M30KcHJpbnQoIj09PSDpmLPmgKflr7nnhafvvIjkv53mtLvmo4Dmn6XvvIk9PT0iKQpmb3IgbW9kZSBpbiBbJ25vbmUnLCdzZW5zZSddOgogICAgYT1zdW0oMSBmb3Igc2QgaW4gU0VFRFMgaWYgcnVuKFJFQURbJ+WOn+aWhyddLHNkLG1vZGUpLmFsaXZlKQogICAgcHJpbnQoZiIgIHttb2RlOjw2fSDlrZjmtLsge2F9LzE2IikKCnByaW50KCJcbj09PSDlj6/or7vmgKfmoq/luqYgPT09IikKcmVzPXt9OyBTSz17fQpmb3IgbmFtZSxyIGluIFJFQUQuaXRlbXMoKToKICAgIHNrPVtdO2FsPTAKICAgIGZvciBzZCBpbiBTRUVEUzoKICAgICAgICBsZj1ydW4ocixzZCkKICAgICAgICBpZiBsZi5hbGl2ZTogYWwrPTE7IHNrLmFwcGVuZChza2V3KGxmKSkKICAgIHNrPW5wLmFycmF5KHNrKTsgU0tbbmFtZV09c2sKICAgIHByaW50KGYiICB7bmFtZTo8OH0gcj17cjouM2Z9IOWtmOa0uz17YWx9LzE2IOWBj+W6pj17c2subWVhbigpOi42Zn3CsXtzay5zdGQoKTouNmZ9IChuPXtsZW4oc2spfSkiKQogICAgcmVzW25hbWVdPXsncic6ciwnYWxpdmUnOmFsLCdza2V3X21lYW4nOmZsb2F0KHNrLm1lYW4oKSkgaWYgbGVuKHNrKSBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICdza2V3X3NkJzpmbG9hdChzay5zdGQoKSkgaWYgbGVuKHNrKT4xIGVsc2UgMC4wLCduJzpsZW4oc2spfQoKZGVmIHBhaXJlZChhLGIpOgogICAgQT1ucC5hcnJheShTS1thXSk7Qj1ucC5hcnJheShTS1tiXSk7IG49bWluKGxlbihBKSxsZW4oQikpCiAgICBEPUJbOm5dLUFbOm5dCiAgICBib290PW5wLmFycmF5KFtucC5yYW5kb20uZGVmYXVsdF9ybmcoaykuY2hvaWNlKEQsbixyZXBsYWNlPVRydWUpLm1lYW4oKSBmb3IgayBpbiByYW5nZSg0MDAwKV0pCiAgICByZXR1cm4geyduJzppbnQobiksJ2RpZmYnOmZsb2F0KEQubWVhbigpKSwnY2knOltmbG9hdChucC5wZXJjZW50aWxlKGJvb3QsMi41KSksZmxvYXQobnAucGVyY2VudGlsZShib290LDk3LjUpKV19CnBjPXBhaXJlZCgn5Y6f5paHJywn5o2i5YWo6YOoJyk7IHJlc1sncGFpcmVkX29yaWdfdnNfYWxsJ109cGMKcHJpbnQoIlxu6YWN5a+5IOWOn+aWhy0+5o2i5YWo6YOoOiIsIGpzb24uZHVtcHMocGMsZW5zdXJlX2FzY2lpPUZhbHNlKSkKIyDml6DmhJ/lrpjln7rnur/phY3lr7kKYmFzZT1bXTsgb3JpZz1bXQpmb3Igc2QgaW4gU0VFRFM6CiAgICBhPXJ1bigwLHNkLCdub25lJyk7IGI9cnVuKFJFQURbJ+WOn+aWhyddLHNkKQogICAgaWYgYS5hbGl2ZSBhbmQgYi5hbGl2ZTogYmFzZS5hcHBlbmQoc2tldyhhKSk7IG9yaWcuYXBwZW5kKHNrZXcoYikpCmJhc2U9bnAuYXJyYXkoYmFzZSk7b3JpZz1ucC5hcnJheShvcmlnKQppZiBsZW4oYmFzZSk6CiAgICBEPW9yaWctYmFzZTsgYm9vdD1ucC5hcnJheShbbnAucmFuZG9tLmRlZmF1bHRfcm5nKGspLmNob2ljZShELGxlbihEKSxyZXBsYWNlPVRydWUpLm1lYW4oKSBmb3IgayBpbiByYW5nZSg0MDAwKV0pCiAgICBQPXsnbic6aW50KGxlbihEKSksJ2RpZmYnOmZsb2F0KEQubWVhbigpKSwnY2knOltmbG9hdChucC5wZXJjZW50aWxlKGJvb3QsMi41KSksZmxvYXQobnAucGVyY2VudGlsZShib290LDk3LjUpKV19CiAgICByZXNbJ3BhaXJlZF9ub25lX3ZzX29yaWcnXT1QCiAgICBwcmludCgi6YWN5a+5IOaXoOaEn+WumC0+5Y6f5paHOiIsIGpzb24uZHVtcHMoUCxlbnN1cmVfYXNjaWk9RmFsc2UpKQpqc29uLmR1bXAocmVzLG9wZW4ob3MucGF0aC5qb2luKE9VVCwncmVzdWx0XzA5OWQuanNvbicpLCd3JyksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQo=
+# -*- coding: utf-8 -*-
+"""099d: 修正版 —— 先做保活阳性对照，再注入可读性梯度"""
+import os, sys, json
+import numpy as np
+sys.path.insert(0,'/data/workspace/luoshen-o1/core')
+from life5 import Life5
+OUT=os.path.dirname(os.path.abspath(__file__))
+BASE=dict(N=8, ratio=0.6, k_seek=0.6, k_sal=0.6, sigma_in=0.15)
+STEPS=600; SEEDS=list(range(16))
+
+def skew(s):
+    c=np.asarray(s.capacity,float)
+    if c.std()<1e-12: return 0.0
+    z=(c-c.mean())/c.std(); return float((z**3).mean())
+
+def run(readability, seed, mode='sense'):
+    """readability r in [0,1]: 世界可读度。sal 每拍 = r 稳定 + (1-r) 抖动"""
+    r=float(readability)
+    rng=np.random.default_rng(seed*977+13)
+    if mode=='none':
+        lf=Life5(seed=seed, **{**BASE,'k_seek':0.0,'k_sal':0.0})
+    else:
+        lf=Life5(seed=seed, **BASE)
+    for t in range(STEPS):
+        if mode!='none':
+            base=0.3+0.5*r
+            lf.sal=np.full(lf.N, max(0.0, base+(1-r)*rng.normal(0,0.25)))
+        lf.step()
+        if not lf.alive: break
+    return lf
+
+READ={'原文':0.863,'换1词':0.771,'换3词':0.721,'换全部':0.683}
+print("=== 阳性对照（保活检查）===")
+for mode in ['none','sense']:
+    a=sum(1 for sd in SEEDS if run(READ['原文'],sd,mode).alive)
+    print(f"  {mode:<6} 存活 {a}/16")
+
+print("\n=== 可读性梯度 ===")
+res={}; SK={}
+for name,r in READ.items():
+    sk=[];al=0
+    for sd in SEEDS:
+        lf=run(r,sd)
+        if lf.alive: al+=1; sk.append(skew(lf))
+    sk=np.array(sk); SK[name]=sk
+    print(f"  {name:<8} r={r:.3f} 存活={al}/16 偏度={sk.mean():.6f}±{sk.std():.6f} (n={len(sk)})")
+    res[name]={'r':r,'alive':al,'skew_mean':float(sk.mean()) if len(sk) else None,
+               'skew_sd':float(sk.std()) if len(sk)>1 else 0.0,'n':len(sk)}
+
+def paired(a,b):
+    A=np.array(SK[a]);B=np.array(SK[b]); n=min(len(A),len(B))
+    D=B[:n]-A[:n]
+    boot=np.array([np.random.default_rng(k).choice(D,n,replace=True).mean() for k in range(4000)])
+    return {'n':int(n),'diff':float(D.mean()),'ci':[float(np.percentile(boot,2.5)),float(np.percentile(boot,97.5))]}
+pc=paired('原文','换全部'); res['paired_orig_vs_all']=pc
+print("\n配对 原文->换全部:", json.dumps(pc,ensure_ascii=False))
+# 无感官基线配对
+base=[]; orig=[]
+for sd in SEEDS:
+    a=run(0,sd,'none'); b=run(READ['原文'],sd)
+    if a.alive and b.alive: base.append(skew(a)); orig.append(skew(b))
+base=np.array(base);orig=np.array(orig)
+if len(base):
+    D=orig-base; boot=np.array([np.random.default_rng(k).choice(D,len(D),replace=True).mean() for k in range(4000)])
+    P={'n':int(len(D)),'diff':float(D.mean()),'ci':[float(np.percentile(boot,2.5)),float(np.percentile(boot,97.5))]}
+    res['paired_none_vs_orig']=P
+    print("配对 无感官->原文:", json.dumps(P,ensure_ascii=False))
+json.dump(res,open(os.path.join(OUT,'result_099d.json'),'w'),ensure_ascii=False,indent=1)

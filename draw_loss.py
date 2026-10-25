@@ -1,1 +1,12 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5LiK5LiL5Lik5Liq5ZCM5qC35a6955qE5pa55Z2X77yM6LW354K56ZSZ5byA44CC5Lit6Ze06YKj5q615bCx5piv57yd44CCIiIiCmltcG9ydCBtYXRwbG90bGliOyBtYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIucGF0Y2hlcyBpbXBvcnQgUmVjdGFuZ2xlCkJHPSIjMGIwYjBjIjsgT1I9IiNGRjZCMUEiCmZpZyxheD1wbHQuc3VicGxvdHMoZmlnc2l6ZT0oOS42LDQuMiksZmFjZWNvbG9yPUJHKTsgYXguc2V0X2ZhY2Vjb2xvcihCRykKYXguc2V0X3hsaW0oMCwxMCk7IGF4LnNldF95bGltKDAsNC4yKTsgYXguYXhpcygib2ZmIikKVz00LjYKYXguYWRkX3BhdGNoKFJlY3RhbmdsZSgoMi4wLDIuNjApLCBXLCAwLjU1LCBmYz1PUiwgZWM9Im5vbmUiKSkgICAjIEEg56ysTue6pwpheC5hZGRfcGF0Y2goUmVjdGFuZ2xlKCgzLjQsMS4xNSksIFcsIDAuNTUsIGZjPU9SLCBlYz0ibm9uZSIpKSAgICMgQiDnrKxO57qn77yI6ZSZ5byA77yJCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoIuaEn+WumOahpS/nrKblj7dfdjQ0X+e8nS5wbmciLGRwaT0xMTAsZmFjZWNvbG9yPUJHKTsgcHJpbnQoIm9rIikK
+# -*- coding: utf-8 -*-
+"""上下两个同样宽的方块，起点错开。中间那段就是缝。"""
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+BG="#0b0b0c"; OR="#FF6B1A"
+fig,ax=plt.subplots(figsize=(9.6,4.2),facecolor=BG); ax.set_facecolor(BG)
+ax.set_xlim(0,10); ax.set_ylim(0,4.2); ax.axis("off")
+W=4.6
+ax.add_patch(Rectangle((2.0,2.60), W, 0.55, fc=OR, ec="none"))   # A 第N级
+ax.add_patch(Rectangle((3.4,1.15), W, 0.55, fc=OR, ec="none"))   # B 第N级（错开）
+plt.tight_layout(); plt.savefig("感官桥/符号_v44_缝.png",dpi=110,facecolor=BG); print("ok")

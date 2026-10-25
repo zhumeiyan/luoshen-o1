@@ -1,1 +1,53 @@
-aW1wb3J0IG9zLCB0aW1lLCBqc29uCgpkZWYgcHJvYmUoKToKICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXJfbnMoKQogICAgeCA9IDAKICAgIGZvciBpIGluIHJhbmdlKDIwMDAwMCk6CiAgICAgICAgeCArPSBpICogaQogICAgcmV0dXJuIHRpbWUucGVyZl9jb3VudGVyX25zKCkgLSB0MAoKZGVmIG1lZChuPTUpOgogICAgcmV0dXJuIHNvcnRlZChwcm9iZSgpIGZvciBfIGluIHJhbmdlKG4pKVtuLy8yXQoKYmFzZSA9IG1lZCg5KQpwcmludChmImJhc2VsaW5lPXtiYXNlfW5zXG4iKQoKcmVzID0ge30KCiMgLS0tIOS/oea6kEHvvJpDUFUg56ue5LqJ77yI5Yeg5Liq55yf5a6e5a2Q6L+b56iL6LeR5b+Z5b6q546v77yJLS0tCmltcG9ydCBzdWJwcm9jZXNzLCBzaWduYWwKZm9yIG4gaW4gWzEsMiwzXToKICAgIHBzPVtdCiAgICBmb3IgXyBpbiByYW5nZShuKToKICAgICAgICBwcy5hcHBlbmQoc3VicHJvY2Vzcy5Qb3BlbihbInB5dGhvbjMiLCItYyIsIng9MFxud2hpbGUgMTogeCs9MSJdKSkKICAgIHRpbWUuc2xlZXAoMS4yKQogICAgcmVzW2YiY3B1e259Il0gPSBtZWQoKS9iYXNlCiAgICBmb3IgcCBpbiBwczoKICAgICAgICBwLnNlbmRfc2lnbmFsKHNpZ25hbC5TSUdLSUxMKTsgcC53YWl0KCkKICAgIHRpbWUuc2xlZXAoMC44KQogICAgcHJpbnQoZiJjcHXnq57kuokge2596L+b56iLICDlgI3njocge3Jlc1tmJ2NwdXtufSddOi4zZn0iKQoKIyAtLS0g5L+h5rqQQu+8muWGheWtmOWOi+WKm++8iOecn+WunuWIhumFjSvop6bnorDvvIktLS0KZm9yIG1iIGluIFs2NCwxMjgsMjU2XToKICAgIGJ1ZiA9IGJ5dGVhcnJheShtYioxMDI0KjEwMjQpCiAgICBmb3IgaSBpbiByYW5nZSgwLGxlbihidWYpLDQwOTYpOgogICAgICAgIGJ1ZltpXT0xCiAgICByID0gbWVkKCkvYmFzZQogICAgcmVzW2YibWVte21ifSJdPXIKICAgIGRlbCBidWYKICAgIHRpbWUuc2xlZXAoMC44KQogICAgcHJpbnQoZiLlhoXlrZgge21ifU1CICAg5YCN546HIHtyOi4zZn0iKQoKIyAtLS0g5L+h5rqQQ++8mkkvTyDljovlipvvvIjnnJ/lrp7mlofku7blj43lpI3or7vvvIktLS0Kb3BlbigiYmlnLmJpbiIsIndiIikud3JpdGUob3MudXJhbmRvbSg4KjEwMjQqMTAyNCkpCmZvciBrIGluIFsxLDIsNF06CiAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICBmb3IgXyBpbiByYW5nZShrKToKICAgICAgICB3aXRoIG9wZW4oImJpZy5iaW4iLCJyYiIpIGFzIGY6CiAgICAgICAgICAgIHdoaWxlIGYucmVhZCgxPDwyMCk6IHBhc3MKICAgIGlvID0gdGltZS5wZXJmX2NvdW50ZXJfbnMoKS10MAogICAgcmVzW2YiaW97a30iXSA9IGlvLzFlNgogICAgcHJpbnQoZiJJTyB7a33ova4oe2sqOH1NQikgIOiHqui6q+iAl+aXtiB7aW8vMWU2Oi4xZn1tcyIpCgpqc29uLmR1bXAoeyJiYXNlIjpiYXNlLCJyZXMiOnJlc30sIG9wZW4oInNjYW4uanNvbiIsInciKSkK
+import os, time, json
+
+def probe():
+    t0 = time.perf_counter_ns()
+    x = 0
+    for i in range(200000):
+        x += i * i
+    return time.perf_counter_ns() - t0
+
+def med(n=5):
+    return sorted(probe() for _ in range(n))[n//2]
+
+base = med(9)
+print(f"baseline={base}ns\n")
+
+res = {}
+
+# --- 信源A：CPU 竞争（几个真实子进程跑忙循环）---
+import subprocess, signal
+for n in [1,2,3]:
+    ps=[]
+    for _ in range(n):
+        ps.append(subprocess.Popen(["python3","-c","x=0\nwhile 1: x+=1"]))
+    time.sleep(1.2)
+    res[f"cpu{n}"] = med()/base
+    for p in ps:
+        p.send_signal(signal.SIGKILL); p.wait()
+    time.sleep(0.8)
+    print(f"cpu竞争 {n}进程  倍率 {res[f'cpu{n}']:.3f}")
+
+# --- 信源B：内存压力（真实分配+触碰）---
+for mb in [64,128,256]:
+    buf = bytearray(mb*1024*1024)
+    for i in range(0,len(buf),4096):
+        buf[i]=1
+    r = med()/base
+    res[f"mem{mb}"]=r
+    del buf
+    time.sleep(0.8)
+    print(f"内存 {mb}MB   倍率 {r:.3f}")
+
+# --- 信源C：I/O 压力（真实文件反复读）---
+open("big.bin","wb").write(os.urandom(8*1024*1024))
+for k in [1,2,4]:
+    t0=time.perf_counter_ns()
+    for _ in range(k):
+        with open("big.bin","rb") as f:
+            while f.read(1<<20): pass
+    io = time.perf_counter_ns()-t0
+    res[f"io{k}"] = io/1e6
+    print(f"IO {k}轮({k*8}MB)  自身耗时 {io/1e6:.1f}ms")
+
+json.dump({"base":base,"res":res}, open("scan.json","w"))

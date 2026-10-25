@@ -1,1 +1,91 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCmV4cDA4M2I6IDEyLjVIeiDmmK/lt6XnqIvlpqXljY/ov5jmmK/kv6Hmga/mnIDkvJjvvJ/igJTigJQg5Zu65a6aIHRva2VuIOmihOeul+S4i+eahOaXtumXtC/popHnjofmnYPooaEKCuOAkOS4uuS7gOS5iOi/meagt+iuvuiuoeOAkQogIHYyIOeahOWIhuexu+S7u+WKoeWcqOaJgOaciSBTTlIg5LiL6YO96aWx5ZKM5YiwIDEuMO+8iOaIkeeahOWQiOaIkOmfteW+i+W3ruW8guWkquWkp++8ie+8jAogIOaXoOazleajgOmqjCAxMi41SHrjgILmlLnnlKjkuI3kvp3otZbliIbnsbvlmajnmoTnuq/kv6Hmga/luqbph4/vvJrph43mnoTor6/lt67jgIIKCuOAkOWFs+mUrua0nuWvn+OAkQogIOecn+WuniBjb2RlYyDnmoTmgLvluKblrr3mmK/lm7rlrprnmoTvvJpiaXRyYXRlID0g5bin546HIHggbG9nMijnoIHmnKzlpKflsI8p44CCCiAg5omA5Lul5bin546H5LiN5piv6Ieq55Sx5Y+C5pWw4oCU4oCU5bin546H5Y2H6auY77yM56CB5pys5b+F6aG75Y+Y5bCP44CCCiAg55yf5q2j55qE5p2D6KGh5piv77ya5pe26Ze05YiG6L6o546H77yI5aSa5bCR5bin77yJIHZzIOmikeeOh+WIhui+qOeOh++8iOavj+W4p+Wkmue7hu+8ieOAggogIE1pbWkg5YWs5byA5pWw5a2X77yaMTIuNUh6IHggOCDnoIHmnKzvvIwxLjEga2Jwc+OAggoK44CQ5a6e6aqM44CR5Zu65a6a5q+P56eSIHRva2VuIOmihOeulyBC77yM5omr5bin546H77yMSyDpmo/kuYvnoa7lrprvvIzmtYsgbWVsIOmHjeaehOivr+W3ruOAggogIOiLpeivr+W3ruWcqOafkOS4quS4remXtOW4p+eOh+acgOS9jiAtPiAxMi41SHog5pyJ57uT5p6E5oCn55CG55Sx77ybCiAg6Iul5Y2V6LCDIC0+IDEyLjVIeiDnuq/nsrnmmK/lu7bov58v5bim5a6955qE5bel56iL5aal5Y2P44CCCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgbWF0aAppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBza2xlYXJuLmNsdXN0ZXIgaW1wb3J0IEtNZWFucwpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkpCmltcG9ydCBpbXBvcnRsaWIudXRpbApzcGVjID0gaW1wb3J0bGliLnV0aWwuc3BlY19mcm9tX2ZpbGVfbG9jYXRpb24oImU4MyIsIG9zLnBhdGguam9pbigKICAgIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSwgImV4cDA4M19hdWRpb190b2tlbl9ub3RfdGV4dC5weSIpKQplODMgPSBpbXBvcnRsaWIudXRpbC5tb2R1bGVfZnJvbV9zcGVjKHNwZWMpOyBzcGVjLmxvYWRlci5leGVjX21vZHVsZShlODMpCgpTUiwgTkZJWCA9IGU4My5TUiwgNjQKQlVER0VUID0gNTAuMCAgICAgICMg5q+P56eSIHRva2VuIOaVsO+8iOWvueW6lCAxMi41SHogeCA0Yml0IOmHj+e6p++8iQpSQVRFUyA9IFs2LjI1LCAxMi41LCAyNS4wLCA1MC4wXQoKZGVmIG1haW4oKToKICAgICMg55So5Zub57G76Z+15b6L5ZCE6Iul5bmy5p2h77yM5p6E6YCg5LiA5Liq55yf5a6e55qE6Z+z6aKR5rGgCiAgICB5cywgeSA9IFtdLCBbXQogICAgZm9yIGxpLCBzdCBpbiBlbnVtZXJhdGUoZTgzLkxBQkVMUyk6CiAgICAgICAgZm9yIGogaW4gcmFuZ2UoMjUpOgogICAgICAgICAgICB5cy5hcHBlbmQoZTgzLnN5bnRoKHN0LCAxMDAwICsgbGkgKiAxMDAgKyBqKSk7IHkuYXBwZW5kKGxpKQogICAgeSA9IG5wLmFycmF5KHkpCiAgICBwcmludChmIltkYXRhXSBuPXtsZW4oeXMpfSIpCgogICAgTTEwMCA9IFtlODMuc3RmdF9tZWwodikgZm9yIHYgaW4geXNdICAgICAgICAgICMgMTAwSHog5Z+65YeGCiAgICAjIOWfuuWHhu+8muS7pSAxMDBIeiDljp/lp4vkv6Hlj7foh6rouqvnmoTmlrnlt67kuLrlvZLkuIAKICAgIGFsbHJhdyA9IG5wLnZzdGFjayhNMTAwKTsgYmFzZV92YXIgPSBmbG9hdChucC52YXIoYWxscmF3KSkKICAgIHByaW50KGYiW2Jhc2VsaW5lXSDljp/lp4sgbWVsIOaWueW3riA9IHtiYXNlX3ZhcjouNGZ9IikKCiAgICBwcmludCgiXG49PT0g5Zu65a6a6aKE566XIEI9JS4wZiB0b2tlbi9z77ya5bin546HIOKGkSDliJnnoIHmnKwg4oaTID09PSIgJSBCVURHRVQpCiAgICByb3dzID0gW10KICAgIGZvciByYXRlIGluIFJBVEVTOgogICAgICAgIGJpdHMgPSBCVURHRVQgLyByYXRlCiAgICAgICAgSyA9IGludCgyICoqIGJpdHMpCiAgICAgICAgY2FwID0gMjU2CiAgICAgICAgayA9IGludChyb3VuZCgxMDAuMCAvIHJhdGUpKQogICAgICAgIE1wLCBNcG9vbCA9IFtdLCBbXQogICAgICAgIGZvciBNIGluIE0xMDA6CiAgICAgICAgICAgIG4gPSAoTS5zaGFwZVswXSAvLyBrKSAqIGsKICAgICAgICAgICAgTXAuYXBwZW5kKE1bOm5dLnJlc2hhcGUobiAvLyBrLCBrLCBNLnNoYXBlWzFdKS5tZWFuKDEpIGlmIG4gZWxzZSBNKQogICAgICAgIGFsbGYgPSBucC52c3RhY2soTXApCiAgICAgICAgS19lZmYgPSBtYXgoMiwgbWluKEssIGNhcCwgbGVuKGFsbGYpIC8vIDQpKQogICAgICAgIGttID0gS01lYW5zKG5fY2x1c3RlcnM9S19lZmYsIG5faW5pdD04LCByYW5kb21fc3RhdGU9MCkuZml0KGFsbGYpCiAgICAgICAgIyDph43mnoTvvJrmr4/luKfnlKjnoIHmnKzkuK3lv4Pmm7/ku6MKICAgICAgICBlcnIsIHRvdCA9IDAuMCwgMAogICAgICAgIGZvciBNIGluIE1wOgogICAgICAgICAgICByZWMgPSBrbS5jbHVzdGVyX2NlbnRlcnNfW2ttLnByZWRpY3QoTSldCiAgICAgICAgICAgIGVyciArPSBmbG9hdChucC5zdW0oKE0gLSByZWMpICoqIDIpKTsgdG90ICs9IE0uc2l6ZQogICAgICAgIG1zZSA9IGVyciAvIHRvdAogICAgICAgIG5tc2UgPSBtc2UgLyBiYXNlX3ZhcgogICAgICAgIHJvd3MuYXBwZW5kKGRpY3QocmF0ZT1yYXRlLCBiaXRzPXJvdW5kKGJpdHMsIDIpLCBLPUtfZWZmLAogICAgICAgICAgICAgICAgICAgICAgICAgbXNlPXJvdW5kKG1zZSwgNSksIG5tc2U9cm91bmQobm1zZSwgNSksCiAgICAgICAgICAgICAgICAgICAgICAgICBmcmFtZXNfcGVyX3NlYz1yYXRlLCB0b2tlbnNfcGVyX3NlYz1yb3VuZChyYXRlICogbWF0aC5sb2cyKEtfZWZmKSwgMSkpKQogICAgICAgIHByaW50KGYiICByYXRlPXtyYXRlOj42fUh6ICBiaXRzL2ZyYW1lPXtiaXRzOj41LjJmfSAgSz17S19lZmY6PjR9ICAiCiAgICAgICAgICAgICAgZiJNU0U9e21zZTouNWZ9ICDlvZLkuIDljJY9e25tc2U6LjVmfSAg5a6e6ZmF5bim5a69PXtyYXRlKm1hdGgubG9nMihLX2VmZik6LjFmfSB0b2svcyIpCgogICAgYmVzdCA9IG1pbihyb3dzLCBrZXk9bGFtYmRhIHI6IHJbJ25tc2UnXSkKICAgIHByaW50KGYiXG5b5pyA5LyYXSByYXRlPXtiZXN0WydyYXRlJ119SHogIG5tc2U9e2Jlc3RbJ25tc2UnXTouNWZ9ICAoSz17YmVzdFsnSyddfSkiKQoKICAgICMg6IKY6YOo5YiG5p6Q77ya5q+P57+75LiA5YCN5bin546H77yM6K+v5beu5LiL6ZmN5aSa5bCRCiAgICBwcmludCgiXG5b6L656ZmF5pS255uKXSDluKfnjofnv7vlgI3luKbmnaXnmoTor6/lt67kuIvpmY0iKQogICAgZm9yIGkgaW4gcmFuZ2UoMSwgbGVuKHJvd3MpKToKICAgICAgICBkID0gcm93c1tpIC0gMV1bJ25tc2UnXSAtIHJvd3NbaV1bJ25tc2UnXQogICAgICAgIHByaW50KGYiICB7cm93c1tpLTFdWydyYXRlJ106PjZ9IC0+IHtyb3dzW2ldWydyYXRlJ106PjZ9SHogOiDkuIvpmY0ge2Q6Ky41Zn0iKQoKICAgIG91dCA9IGRpY3QodGltZXN0YW1wPV9faW1wb3J0X18oJ3RpbWUnKS5zdHJmdGltZSgiJVktJW0tJWQgJUg6JU06JVMiKSwKICAgICAgICBidWRnZXRfdG9rZW5zX3Blcl9zZWM9QlVER0VULCBiYXNlX3Zhcj1yb3VuZChiYXNlX3ZhciwgNCksCiAgICAgICAgcm93cz1yb3dzLCBiZXN0PWJlc3QsCiAgICAgICAgbm90ZT0i5Zu65a6a5oC76aKE566X77yb5bin546H5LiO56CB5pys5aSn5bCP5q2k5raI5b286ZW/44CC6Iul5pyA5LyY5Zyo5Lit6Ze05bin546HIC0+IDEyLjVIeiDmnInnu5PmnoTmgKfnkIbnlLHvvJvoi6XljZXosIMgLT4g5bel56iL5aal5Y2P44CCIikKICAgIHAgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAncmVzdWx0XzA4M2IuanNvbicpCiAgICBqc29uLmR1bXAob3V0LCBvcGVuKHAsICd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludCgiW3NhdmVkXSIsIHApCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""
+exp083b: 12.5Hz 是工程妥协还是信息最优？—— 固定 token 预算下的时间/频率权衡
+
+【为什么这样设计】
+  v2 的分类任务在所有 SNR 下都饱和到 1.0（我的合成韵律差异太大），
+  无法检验 12.5Hz。改用不依赖分类器的纯信息度量：重构误差。
+
+【关键洞察】
+  真实 codec 的总带宽是固定的：bitrate = 帧率 x log2(码本大小)。
+  所以帧率不是自由参数——帧率升高，码本必须变小。
+  真正的权衡是：时间分辨率（多少帧） vs 频率分辨率（每帧多细）。
+  Mimi 公开数字：12.5Hz x 8 码本，1.1 kbps。
+
+【实验】固定每秒 token 预算 B，扫帧率，K 随之确定，测 mel 重构误差。
+  若误差在某个中间帧率最低 -> 12.5Hz 有结构性理由；
+  若单调 -> 12.5Hz 纯粹是延迟/带宽的工程妥协。
+"""
+import os, sys, json, math
+import numpy as np
+from sklearn.cluster import KMeans
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import importlib.util
+spec = importlib.util.spec_from_file_location("e83", os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "exp083_audio_token_not_text.py"))
+e83 = importlib.util.module_from_spec(spec); spec.loader.exec_module(e83)
+
+SR, NFIX = e83.SR, 64
+BUDGET = 50.0      # 每秒 token 数（对应 12.5Hz x 4bit 量级）
+RATES = [6.25, 12.5, 25.0, 50.0]
+
+def main():
+    # 用四类韵律各若干条，构造一个真实的音频池
+    ys, y = [], []
+    for li, st in enumerate(e83.LABELS):
+        for j in range(25):
+            ys.append(e83.synth(st, 1000 + li * 100 + j)); y.append(li)
+    y = np.array(y)
+    print(f"[data] n={len(ys)}")
+
+    M100 = [e83.stft_mel(v) for v in ys]          # 100Hz 基准
+    # 基准：以 100Hz 原始信号自身的方差为归一
+    allraw = np.vstack(M100); base_var = float(np.var(allraw))
+    print(f"[baseline] 原始 mel 方差 = {base_var:.4f}")
+
+    print("\n=== 固定预算 B=%.0f token/s：帧率 ↑ 则码本 ↓ ===" % BUDGET)
+    rows = []
+    for rate in RATES:
+        bits = BUDGET / rate
+        K = int(2 ** bits)
+        cap = 256
+        k = int(round(100.0 / rate))
+        Mp, Mpool = [], []
+        for M in M100:
+            n = (M.shape[0] // k) * k
+            Mp.append(M[:n].reshape(n // k, k, M.shape[1]).mean(1) if n else M)
+        allf = np.vstack(Mp)
+        K_eff = max(2, min(K, cap, len(allf) // 4))
+        km = KMeans(n_clusters=K_eff, n_init=8, random_state=0).fit(allf)
+        # 重构：每帧用码本中心替代
+        err, tot = 0.0, 0
+        for M in Mp:
+            rec = km.cluster_centers_[km.predict(M)]
+            err += float(np.sum((M - rec) ** 2)); tot += M.size
+        mse = err / tot
+        nmse = mse / base_var
+        rows.append(dict(rate=rate, bits=round(bits, 2), K=K_eff,
+                         mse=round(mse, 5), nmse=round(nmse, 5),
+                         frames_per_sec=rate, tokens_per_sec=round(rate * math.log2(K_eff), 1)))
+        print(f"  rate={rate:>6}Hz  bits/frame={bits:>5.2f}  K={K_eff:>4}  "
+              f"MSE={mse:.5f}  归一化={nmse:.5f}  实际带宽={rate*math.log2(K_eff):.1f} tok/s")
+
+    best = min(rows, key=lambda r: r['nmse'])
+    print(f"\n[最优] rate={best['rate']}Hz  nmse={best['nmse']:.5f}  (K={best['K']})")
+
+    # 肘部分析：每翻一倍帧率，误差下降多少
+    print("\n[边际收益] 帧率翻倍带来的误差下降")
+    for i in range(1, len(rows)):
+        d = rows[i - 1]['nmse'] - rows[i]['nmse']
+        print(f"  {rows[i-1]['rate']:>6} -> {rows[i]['rate']:>6}Hz : 下降 {d:+.5f}")
+
+    out = dict(timestamp=__import__('time').strftime("%Y-%m-%d %H:%M:%S"),
+        budget_tokens_per_sec=BUDGET, base_var=round(base_var, 4),
+        rows=rows, best=best,
+        note="固定总预算；帧率与码本大小此消彼长。若最优在中间帧率 -> 12.5Hz 有结构性理由；若单调 -> 工程妥协。")
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'result_083b.json')
+    json.dump(out, open(p, 'w'), ensure_ascii=False, indent=2)
+    print("[saved]", p)
+
+if __name__ == '__main__':
+    main()

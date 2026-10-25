@@ -1,1 +1,41 @@
-aW1wb3J0IGpzb24sIG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKcGx0LnJjUGFyYW1zWydmb250LnNhbnMtc2VyaWYnXT1bJ1dlblF1YW5ZaSBNaWNybyBIZWknXQpwbHQucmNQYXJhbXNbJ2F4ZXMudW5pY29kZV9taW51cyddPUZhbHNlCmQ9anNvbi5sb2FkKG9wZW4oJ3Jlc3VsdDE5OS5qc29uJyxlbmNvZGluZz0ndXRmLTgnKSkKYj1qc29uLmxvYWQob3BlbigncmVzdWx0MTk5Yi5qc29uJyxlbmNvZGluZz0ndXRmLTgnKSkKZmlnLGF4PXBsdC5zdWJwbG90cygyLDIsZmlnc2l6ZT0oMTMsOSkpCgpjcz1kWydjYXBfc2NhbiddOyB4cz1bclsnQV9jaGFycyddIGZvciByIGluIGNzXQpheFswLDBdLnBsb3QoeHMsW3JbJ2FscGhhMC4xJ11bJ2JpdHNfQl9ieV9Cb25seSddIGZvciByIGluIGNzXSwnby0tJyxsYWJlbD0n5Y+q55So5L2g55qE6K+dKEItb25seSknLGNvbG9yPScjODg4JykKYXhbMCwwXS5wbG90KHhzLFtyWydhbHBoYTAuMSddWydiaXRzX0JfYnlfbW9ubyddIGZvciByIGluIGNzXSwnby0nLGxhYmVsPSfmt7flkIhNb25vKEErQiknLGNvbG9yPScjYzAzOTJiJyxsdz0yKQpheFswLDBdLnBsb3QoeHMsW3JbJ2FscGhhMC4xJ11bJ2JpdHNfQl9ieV9Bb25seSddIGZvciByIGluIGNzXSwnczonLGxhYmVsPSflj6rmnInlt6XkvZzog73lipsoQS1vbmx5KScsY29sb3I9JyMyOTgwYjknKQpheFswLDBdLnNldF94c2NhbGUoJ2xvZycpOyBheFswLDBdLnNldF94bGFiZWwoJ+W3peS9nOiDveWKm0HnmoTlrZfnrKbph48nKTsgYXhbMCwwXS5zZXRfeWxhYmVsKCfor7vkvaDnmoTor53nmoTku6Pku7cgYml0cy/lrZfnrKYnKQpheFswLDBdLnNldF90aXRsZSgn4pGgIOW3peS9nOiDveWKm+i2iuWkmu+8jOivu+S9oOeahOivnei2iuWuueaYk1xuKOS4jeaYr+a3ueayoe+8jOaYr+W4ruW/mSknLGZvbnRzaXplPTExKQpheFswLDBdLmxlZ2VuZChmb250c2l6ZT04KTsgYXhbMCwwXS5ncmlkKGFscGhhPS4zKQoKdnM9Ylsndm9pY2UnXTsgdng9W3JbJ0FfY2hhcnMnXSBmb3IgciBpbiB2c10KYXhbMCwxXS5wbG90KHZ4LFtyWyd2b2x1bWVfc2hhcmVfQl9leHBlY3RlZCddKjEwMCBmb3IgciBpbiB2c10sJ28tLScsbGFiZWw9J0LnmoTkvZPph4/ku73pop0o5pyf5pybKScsY29sb3I9JyM4ODgnKQpheFswLDFdLnBsb3QodngsW3JbJ0Jfdm9pY2VfbWVhbiddKjEwMCBmb3IgciBpbiB2c10sJ28tJyxsYWJlbD0nQueahOWunumZheivneivreadgycsY29sb3I9JyMyN2FlNjAnLGx3PTIpCmF4WzAsMV0ucGxvdCh2eCxbclsnQl92b2ljZV9rbm93bl9jdHgnXSoxMDAgZm9yIHIgaW4gdnNdLCdzOicsbGFiZWw9J0HkuZ/op4Hov4fnmoTkuIrkuIvmlofkuIonLGNvbG9yPScjZTY3ZTIyJykKYXhbMCwxXS5zZXRfeHNjYWxlKCdsb2cnKTsgYXhbMCwxXS5zZXRfeGxhYmVsKCflt6XkvZzog73liptB55qE5a2X56ym6YePJyk7IGF4WzAsMV0uc2V0X3lsYWJlbCgnQiDnmoTor53or63mnYMgJScpCmF4WzAsMV0uc2V0X3RpdGxlKCfikaEg54us54m55oCn5Zyo5L+d5oqk5L2gXG7kvZPph48xLjE2Je+8jOivneivreadgzUwJScsZm9udHNpemU9MTEpCmF4WzAsMV0ubGVnZW5kKGZvbnRzaXplPTgpOyBheFswLDFdLmdyaWQoYWxwaGE9LjMpCgpyPVt4IGZvciB4IGluIGRbJ2FyY2gnXSBpZiB4WydhbHBoYSddPT0wLjEgYW5kIHhbJ0FfY2hhcnMnXT09MzQ1NTU1XVswXQpuYW1lcz1bJ+a3t+WQiFxuTW9ubycsJ+WtkEFJXG7ku7Loo4Eo5a+55oqXKScsJ+WPqueUqOS9oOeahOivnVxuQi1vbmx5Jywn5a2QQUlcbuaOkuePrSddCnZhbHM9W3JbJ0JfbW9ubyddLHJbJ0JfYXJiaXRyYXRlJ10sclsnQl9Cb25seSddLHJbJ0Jfc2NoZWRfdm9sJ11dCmNvbHM9WycjMjdhZTYwJywnI2U2N2UyMicsJyM5NWE1YTYnLCcjYzAzOTJiJ10KYXhbMSwwXS5iYXIobmFtZXMsdmFscyxjb2xvcj1jb2xzKQpmb3IgaSx2IGluIGVudW1lcmF0ZSh2YWxzKTogYXhbMSwwXS50ZXh0KGksdisuMDMsZid7djouM2Z9JyxoYT0nY2VudGVyJyxmb250c2l6ZT0xMCxmb250d2VpZ2h0PSdib2xkJykKYXhbMSwwXS5zZXRfeWxhYmVsKCfor7vkvaDnmoTor53nmoTku6Pku7cgYml0cy/lrZfnrKYnKTsgYXhbMSwwXS5zZXRfeWxpbSg3LjgsOS42KQpheFsxLDBdLnNldF90aXRsZSgn4pGiIOWIhuaIkOWtkEFJ5Y+N6ICM5pu05beuXG4o6LaK5L2O6LaK5aW9KScsZm9udHNpemU9MTEpOyBheFsxLDBdLmdyaWQoYWxwaGE9LjMsYXhpcz0neScpCgp1PWRbJ3VuaXF1ZW5lc3MnXTsgb3JkZXI9c29ydGVkKHUua2V5cygpLGtleT1sYW1iZGEgazp1W2tdWydzd2FtcCddKQpheFsxLDFdLmJhcmgoW2sucmVwbGFjZSgnKOacgOeLrOeJuSknLCdcbijmnIDni6znibkpJykgZm9yIGsgaW4gb3JkZXJdLFt1W2tdWydzd2FtcCddIGZvciBrIGluIG9yZGVyXSwKICAgICAgICAgICAgIGNvbG9yPVsnI2MwMzkyYicgaWYgdVtrXVsnc3dhbXAnXT49MCBlbHNlICcjMjk4MGI5JyBmb3IgayBpbiBvcmRlcl0pCmF4WzEsMV0uc2V0X3hsYWJlbCgn5re35ZCI5ZCO5Luj5Lu35Y+Y5YyWIGJpdHMgKOi0nz3ooqvlt6XkvZzog73lipvluK7liLApJykKYXhbMSwxXS5zZXRfdGl0bGUoJ+KRoyDotorni6znibnvvIzotorluK7kuI3kuIpcbnN3YW1wPTAg5aSE5Lik6ICF5a6M5YWo5peg5YWzJyxmb250c2l6ZT0xMSk7IGF4WzEsMV0uZ3JpZChhbHBoYT0uMyxheGlzPSd4JykKcGx0LnRpZ2h0X2xheW91dCgpOyBwbHQuc2F2ZWZpZygncmVuZGVyMTk5LnBuZycsZHBpPTExMCkKcHJpbnQoJ29rJykK
+import json, matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['WenQuanYi Micro Hei']
+plt.rcParams['axes.unicode_minus']=False
+d=json.load(open('result199.json',encoding='utf-8'))
+b=json.load(open('result199b.json',encoding='utf-8'))
+fig,ax=plt.subplots(2,2,figsize=(13,9))
+
+cs=d['cap_scan']; xs=[r['A_chars'] for r in cs]
+ax[0,0].plot(xs,[r['alpha0.1']['bits_B_by_Bonly'] for r in cs],'o--',label='只用你的话(B-only)',color='#888')
+ax[0,0].plot(xs,[r['alpha0.1']['bits_B_by_mono'] for r in cs],'o-',label='混合Mono(A+B)',color='#c0392b',lw=2)
+ax[0,0].plot(xs,[r['alpha0.1']['bits_B_by_Aonly'] for r in cs],'s:',label='只有工作能力(A-only)',color='#2980b9')
+ax[0,0].set_xscale('log'); ax[0,0].set_xlabel('工作能力A的字符量'); ax[0,0].set_ylabel('读你的话的代价 bits/字符')
+ax[0,0].set_title('① 工作能力越多，读你的话越容易\n(不是淹没，是帮忙)',fontsize=11)
+ax[0,0].legend(fontsize=8); ax[0,0].grid(alpha=.3)
+
+vs=b['voice']; vx=[r['A_chars'] for r in vs]
+ax[0,1].plot(vx,[r['volume_share_B_expected']*100 for r in vs],'o--',label='B的体量份额(期望)',color='#888')
+ax[0,1].plot(vx,[r['B_voice_mean']*100 for r in vs],'o-',label='B的实际话语权',color='#27ae60',lw=2)
+ax[0,1].plot(vx,[r['B_voice_known_ctx']*100 for r in vs],'s:',label='A也见过的上下文上',color='#e67e22')
+ax[0,1].set_xscale('log'); ax[0,1].set_xlabel('工作能力A的字符量'); ax[0,1].set_ylabel('B 的话语权 %')
+ax[0,1].set_title('② 独特性在保护你\n体量1.16%，话语权50%',fontsize=11)
+ax[0,1].legend(fontsize=8); ax[0,1].grid(alpha=.3)
+
+r=[x for x in d['arch'] if x['alpha']==0.1 and x['A_chars']==345555][0]
+names=['混合\nMono','子AI\n仲裁(对抗)','只用你的话\nB-only','子AI\n排班']
+vals=[r['B_mono'],r['B_arbitrate'],r['B_Bonly'],r['B_sched_vol']]
+cols=['#27ae60','#e67e22','#95a5a6','#c0392b']
+ax[1,0].bar(names,vals,color=cols)
+for i,v in enumerate(vals): ax[1,0].text(i,v+.03,f'{v:.3f}',ha='center',fontsize=10,fontweight='bold')
+ax[1,0].set_ylabel('读你的话的代价 bits/字符'); ax[1,0].set_ylim(7.8,9.6)
+ax[1,0].set_title('③ 分成子AI反而更差\n(越低越好)',fontsize=11); ax[1,0].grid(alpha=.3,axis='y')
+
+u=d['uniqueness']; order=sorted(u.keys(),key=lambda k:u[k]['swamp'])
+ax[1,1].barh([k.replace('(最独特)','\n(最独特)') for k in order],[u[k]['swamp'] for k in order],
+             color=['#c0392b' if u[k]['swamp']>=0 else '#2980b9' for k in order])
+ax[1,1].set_xlabel('混合后代价变化 bits (负=被工作能力帮到)')
+ax[1,1].set_title('④ 越独特，越帮不上\nswamp=0 处两者完全无关',fontsize=11); ax[1,1].grid(alpha=.3,axis='x')
+plt.tight_layout(); plt.savefig('render199.png',dpi=110)
+print('ok')

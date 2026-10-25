@@ -1,1 +1,91 @@
-IyBMaWNlbnNlZCB0byB0aGUgQXBhY2hlIFNvZnR3YXJlIEZvdW5kYXRpb24gKEFTRikgdW5kZXIgb25lCiMgb3IgbW9yZSBjb250cmlidXRvciBsaWNlbnNlIGFncmVlbWVudHMuICBTZWUgdGhlIE5PVElDRSBmaWxlCiMgZGlzdHJpYnV0ZWQgd2l0aCB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24KIyByZWdhcmRpbmcgY29weXJpZ2h0IG93bmVyc2hpcC4gIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlCiMgdG8geW91IHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZQojICJMaWNlbnNlIik7IHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2UKIyB3aXRoIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiMKIyAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAojCiMgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLAojIHNvZnR3YXJlIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuCiMgIkFTIElTIiBCQVNJUywgV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZCiMgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4gIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlCiMgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZCBsaW1pdGF0aW9ucwojIHVuZGVyIHRoZSBMaWNlbnNlLgoiIiJWYWxpZGF0aW9uIGhlbHBlcnMgZm9yIGNvbW1vbi5haSBkZWNvcmF0b3JzLiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSBjb2xsZWN0aW9ucy5hYmMgaW1wb3J0IFNlcXVlbmNlCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCgpkZWYgdmFsaWRhdGVfcHJvbXB0KHZhbHVlOiBBbnksICosIGRlY29yYXRvcl9uYW1lOiBzdHIpIC0+IE5vbmU6CiAgICAiIiIKICAgIFZhbGlkYXRlIHRoZSBwcm9tcHQgcmV0dXJuZWQgYnkgYSBkZWNvcmF0b3IncyBweXRob25fY2FsbGFibGUuCgogICAgQWNjZXB0ZWQgKG1pcnJvcnMgcHlkYW50aWMtYWkncyBgYEFnZW50LnJ1bl9zeW5jYGAgdXNlcl9wcm9tcHQpOgogICAgICAtIG5vbi1lbXB0eSwgbm9uLXdoaXRlc3BhY2UgYGBzdHJgYAogICAgICAtIG5vbi1lbXB0eSBgYFNlcXVlbmNlYGAgKG90aGVyIHRoYW4gYGBzdHJgYC9gYGJ5dGVzYGAvYGBieXRlYXJyYXlgYCkKICAgICAgICBvZiBweWRhbnRpYy1haSBgYFVzZXJDb250ZW50YGAgaXRlbXM7IGl0ZW0tbGV2ZWwgdmFsaWRhdGlvbiBpcwogICAgICAgIGRlbGVnYXRlZCB0byBweWRhbnRpYy1haSBhdCBgYEFnZW50LnJ1bl9zeW5jYGAgdGltZS4KCiAgICBSYWlzZXMgYGBUeXBlRXJyb3JgYCB3aXRoIGFuIGFjdGlvbmFibGUgbWVzc2FnZSBvbiBhbnkgb3RoZXIgc2hhcGUuCiAgICAiIiIKICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIHN0cik6CiAgICAgICAgaWYgbm90IHZhbHVlLnN0cmlwKCk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcigKICAgICAgICAgICAgICAgIGYiVGhlIHJldHVybmVkIHZhbHVlIGZyb20gdGhlIHtkZWNvcmF0b3JfbmFtZX0gY2FsbGFibGUgbXVzdCBiZSAiCiAgICAgICAgICAgICAgICBmImEgbm9uLWVtcHR5IHN0cmluZyBvciBhIG5vbi1lbXB0eSBTZXF1ZW5jZVtVc2VyQ29udGVudF0uIgogICAgICAgICAgICApCiAgICAgICAgcmV0dXJuCiAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCAoYnl0ZXMsIGJ5dGVhcnJheSkpOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigKICAgICAgICAgICAgZiJUaGUgcmV0dXJuZWQgdmFsdWUgZnJvbSB0aGUge2RlY29yYXRvcl9uYW1lfSBjYWxsYWJsZSBtdXN0IGJlICIKICAgICAgICAgICAgZiJzdHIgb3IgU2VxdWVuY2VbVXNlckNvbnRlbnRdLCBub3Qge3R5cGUodmFsdWUpLl9fbmFtZV9ffS4iCiAgICAgICAgKQogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgU2VxdWVuY2UpOgogICAgICAgIGlmIGxlbih2YWx1ZSkgPT0gMDoKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKAogICAgICAgICAgICAgICAgZiJUaGUgcmV0dXJuZWQgdmFsdWUgZnJvbSB0aGUge2RlY29yYXRvcl9uYW1lfSBjYWxsYWJsZSBtdXN0IGJlICIKICAgICAgICAgICAgICAgIGYiYSBub24tZW1wdHkgc3RyaW5nIG9yIGEgbm9uLWVtcHR5IFNlcXVlbmNlW1VzZXJDb250ZW50XS4iCiAgICAgICAgICAgICkKICAgICAgICBmb3IgaW5kZXgsIGl0ZW0gaW4gZW51bWVyYXRlKHZhbHVlKToKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtLCAoYnl0ZXMsIGJ5dGVhcnJheSkpOgogICAgICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKAogICAgICAgICAgICAgICAgICAgIGYie2RlY29yYXRvcl9uYW1lfTogU2VxdWVuY2UgcHJvbXB0IGl0ZW0gYXQgaW5kZXgge2luZGV4fSBpcyAiCiAgICAgICAgICAgICAgICAgICAgZiJ7dHlwZShpdGVtKS5fX25hbWVfX307IHJhdyBieXRlcyBhcmUgbm90IGEgdmFsaWQgVXNlckNvbnRlbnQgIgogICAgICAgICAgICAgICAgICAgIGYibWVtYmVyLiBXcmFwIGJ5dGVzIGluIHB5ZGFudGljLWFpJ3MgQmluYXJ5Q29udGVudCBvciB1cGxvYWQgIgogICAgICAgICAgICAgICAgICAgIGYidG8gb2JqZWN0IHN0b3JhZ2UgYW5kIHBhc3MgYW4gSW1hZ2VVcmwvQXVkaW9VcmwvRG9jdW1lbnRVcmwuIgogICAgICAgICAgICAgICAgKQogICAgICAgIHJldHVybgogICAgcmFpc2UgVHlwZUVycm9yKAogICAgICAgIGYiVGhlIHJldHVybmVkIHZhbHVlIGZyb20gdGhlIHtkZWNvcmF0b3JfbmFtZX0gY2FsbGFibGUgbXVzdCBiZSAiCiAgICAgICAgZiJzdHIgb3IgU2VxdWVuY2VbVXNlckNvbnRlbnRdLCBnb3Qge3R5cGUodmFsdWUpLl9fbmFtZV9ffS4iCiAgICApCgoKZGVmIHJlamVjdF9zZXF1ZW5jZV93aXRoX3Vuc3VwcG9ydGVkX2ZlYXR1cmUoCiAgICB2YWx1ZTogQW55LAogICAgKiwKICAgIGRlY29yYXRvcl9uYW1lOiBzdHIsCiAgICBmZWF0dXJlX25hbWU6IHN0ciwKICAgIGZlYXR1cmVfZW5hYmxlZDogYm9vbCwKKSAtPiBOb25lOgogICAgIiIiCiAgICBQcmVmbGlnaHQgY2hlY2sgcmFpc2VkIGJlZm9yZSB0aGUgYWdlbnQgcnVucy4KCiAgICBSYWlzZXMgYGBUeXBlRXJyb3JgYCB3aGVuICp2YWx1ZSogaXMgYSBub24tc3RyaW5nIFNlcXVlbmNlIGFuZAogICAgKmZlYXR1cmVfZW5hYmxlZCogaXMgVHJ1ZS4gVXNlZCB0byBmYWlsIGZhc3Qgb24gY29tYmluYXRpb25zCiAgICAoZS5nLiwgYGBlbmFibGVfaGl0bF9yZXZpZXc9VHJ1ZWBgICsgU2VxdWVuY2UgcHJvbXB0KSB0aGF0IHdvdWxkCiAgICBvdGhlcndpc2UgZmFpbCBsYXRlciAtLSBhZnRlciB0aGUgTExNIGNhbGwgLS0gd2hlbiB0aGUgZG93bnN0cmVhbQogICAgSElUTC9hcHByb3ZhbCBjb25zdW1lciB0cmllcyB0byBzdHJpbmdpZnkgdGhlIHByb21wdC4KICAgICIiIgogICAgaWYgZmVhdHVyZV9lbmFibGVkIGFuZCBub3QgaXNpbnN0YW5jZSh2YWx1ZSwgc3RyKToKICAgICAgICByYWlzZSBUeXBlRXJyb3IoCiAgICAgICAgICAgIGYie2RlY29yYXRvcl9uYW1lfTogU2VxdWVuY2VbVXNlckNvbnRlbnRdIHByb21wdHMgYXJlIG5vdCBzdXBwb3J0ZWQgIgogICAgICAgICAgICBmIndpdGgge2ZlYXR1cmVfbmFtZX09VHJ1ZS4gUmV0dXJuIGEgc3RyIHByb21wdCwgb3IgZGlzYWJsZSAiCiAgICAgICAgICAgIGYie2ZlYXR1cmVfbmFtZX0uIgogICAgICAgICkK
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#   http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+"""Validation helpers for common.ai decorators."""
+
+from __future__ import annotations
+
+from collections.abc import Sequence
+from typing import Any
+
+
+def validate_prompt(value: Any, *, decorator_name: str) -> None:
+    """
+    Validate the prompt returned by a decorator's python_callable.
+
+    Accepted (mirrors pydantic-ai's ``Agent.run_sync`` user_prompt):
+      - non-empty, non-whitespace ``str``
+      - non-empty ``Sequence`` (other than ``str``/``bytes``/``bytearray``)
+        of pydantic-ai ``UserContent`` items; item-level validation is
+        delegated to pydantic-ai at ``Agent.run_sync`` time.
+
+    Raises ``TypeError`` with an actionable message on any other shape.
+    """
+    if isinstance(value, str):
+        if not value.strip():
+            raise TypeError(
+                f"The returned value from the {decorator_name} callable must be "
+                f"a non-empty string or a non-empty Sequence[UserContent]."
+            )
+        return
+    if isinstance(value, (bytes, bytearray)):
+        raise TypeError(
+            f"The returned value from the {decorator_name} callable must be "
+            f"str or Sequence[UserContent], not {type(value).__name__}."
+        )
+    if isinstance(value, Sequence):
+        if len(value) == 0:
+            raise TypeError(
+                f"The returned value from the {decorator_name} callable must be "
+                f"a non-empty string or a non-empty Sequence[UserContent]."
+            )
+        for index, item in enumerate(value):
+            if isinstance(item, (bytes, bytearray)):
+                raise TypeError(
+                    f"{decorator_name}: Sequence prompt item at index {index} is "
+                    f"{type(item).__name__}; raw bytes are not a valid UserContent "
+                    f"member. Wrap bytes in pydantic-ai's BinaryContent or upload "
+                    f"to object storage and pass an ImageUrl/AudioUrl/DocumentUrl."
+                )
+        return
+    raise TypeError(
+        f"The returned value from the {decorator_name} callable must be "
+        f"str or Sequence[UserContent], got {type(value).__name__}."
+    )
+
+
+def reject_sequence_with_unsupported_feature(
+    value: Any,
+    *,
+    decorator_name: str,
+    feature_name: str,
+    feature_enabled: bool,
+) -> None:
+    """
+    Preflight check raised before the agent runs.
+
+    Raises ``TypeError`` when *value* is a non-string Sequence and
+    *feature_enabled* is True. Used to fail fast on combinations
+    (e.g., ``enable_hitl_review=True`` + Sequence prompt) that would
+    otherwise fail later -- after the LLM call -- when the downstream
+    HITL/approval consumer tries to stringify the prompt.
+    """
+    if feature_enabled and not isinstance(value, str):
+        raise TypeError(
+            f"{decorator_name}: Sequence[UserContent] prompts are not supported "
+            f"with {feature_name}=True. Return a str prompt, or disable "
+            f"{feature_name}."
+        )

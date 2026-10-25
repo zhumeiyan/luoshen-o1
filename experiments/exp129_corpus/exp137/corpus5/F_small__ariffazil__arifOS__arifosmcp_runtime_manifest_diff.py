@@ -1,1 +1,70 @@
-IiIiClBSNCDigJQgbWFuaWZlc3QgZHJpZnQgZGV0ZWN0b3IuCgpDb21wYXJlcyBhIGZyZXNobHktY29tcG9zZWQgbWFuaWZlc3QgYWdhaW5zdCBhIHB1Ymxpc2hlZCBtYW5pZmVzdCBhbmQgZXhpdHMgMQppZiBhbnkgYXVkaXQtbWFuZGF0ZWQgZHJpZnQgcnVsZSBmaXJlcy4KIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgppbXBvcnQgc3lzCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCgpkZWYgbWFuaWZlc3RfZHJpZnQoZ2VuZXJhdGVkOiBkaWN0W3N0ciwgQW55XSwgcHVibGlzaGVkOiBkaWN0W3N0ciwgQW55XSkgLT4gbGlzdFtzdHJdOgogICAgIiIiUmV0dXJuIGEgbGlzdCBvZiBodW1hbi1yZWFkYWJsZSBkcmlmdCBmaW5kaW5ncy4gRW1wdHkgPSBubyBkcmlmdC4iIiIKICAgIGZpbmRpbmdzOiBsaXN0W3N0cl0gPSBbXQogICAgZ2VuX3RvdGFscyA9IGdlbmVyYXRlZC5nZXQoInRvdGFscyIsIHt9KQogICAgcHViX3RvdGFscyA9IHB1Ymxpc2hlZC5nZXQoInRvdGFscyIsIHt9KQoKICAgICMgRHJpZnQgcnVsZSAxOiBhIHRvb2wgZG9jdW1lbnRlZCBidXQgbm90IHJlZ2lzdGVyZWQKICAgIGZvciB0b29sIGluIGdlbmVyYXRlZC5nZXQoInRvb2xzIiwgW10pOgogICAgICAgIGlmIHRvb2xbInJ1bnRpbWUiXVsiZGVjbGFyZWQiXSBhbmQgbm90IHRvb2xbInJ1bnRpbWUiXVsicmVnaXN0ZXJlZCJdOgogICAgICAgICAgICBmaW5kaW5ncy5hcHBlbmQoZiJkZWNsYXJlZF9idXRfbm90X3JlZ2lzdGVyZWQ6IHt0b29sWyduYW1lJ119IikKICAgICMgRHJpZnQgcnVsZSAyOiBhIHJlZ2lzdGVyZWQgdG9vbCBhYnNlbnQgZnJvbSB0aGUgcHVibGlzaGVkIG1hbmlmZXN0CiAgICBwdWJfdG9vbF9uYW1lcyA9IHt0WyJuYW1lIl0gZm9yIHQgaW4gcHVibGlzaGVkLmdldCgidG9vbHMiLCBbXSl9CiAgICBmb3IgdG9vbCBpbiBnZW5lcmF0ZWQuZ2V0KCJ0b29scyIsIFtdKToKICAgICAgICBpZiB0b29sWyJydW50aW1lIl1bInJlZ2lzdGVyZWQiXSBhbmQgdG9vbFsibmFtZSJdIG5vdCBpbiBwdWJfdG9vbF9uYW1lczoKICAgICAgICAgICAgZmluZGluZ3MuYXBwZW5kKGYicmVnaXN0ZXJlZF9idXRfYWJzZW50X2Zyb21fbWFuaWZlc3Q6IHt0b29sWyduYW1lJ119IikKICAgICMgRHJpZnQgcnVsZSAzOiBzY2hlbWEgaGFzaGVzIGRpZmZlcgogICAgZm9yIHRvb2wgaW4gZ2VuZXJhdGVkLmdldCgidG9vbHMiLCBbXSk6CiAgICAgICAgZm9yIHB1Yl90b29sIGluIHB1Ymxpc2hlZC5nZXQoInRvb2xzIiwgW10pOgogICAgICAgICAgICBpZiB0b29sWyJuYW1lIl0gPT0gcHViX3Rvb2xbIm5hbWUiXToKICAgICAgICAgICAgICAgIGlmIHRvb2wuZ2V0KCJzY2hlbWFzIikgIT0gcHViX3Rvb2wuZ2V0KCJzY2hlbWFzIik6CiAgICAgICAgICAgICAgICAgICAgZmluZGluZ3MuYXBwZW5kKGYic2NoZW1hX2hhc2hfZHJpZnQ6IHt0b29sWyduYW1lJ119IikKICAgICMgRHJpZnQgcnVsZSA0OiBhbiBhbGlhcyBwb2ludHMgdG8gbm8gaGFuZGxlcgogICAgIyBhbGlhcyBzaGFwZTogIjxsZWdhY3lfYWxpYXM+ICg8bW9kZXJuX3RhcmdldD4g4oaSIDxoYW5kbGVyPikiIG9yICI8bGVnYWN5PiDihpIgPG5ldz4iCiAgICBmb3IgYWxpYXMgaW4gZ2VuZXJhdGVkLmdldCgibWFuaWZlc3RfZHJpZnQiLCB7fSkuZ2V0KCJkZXByZWNhdGVkX2FsaWFzZXMiLCBbXSk6CiAgICAgICAgIyBUcnkgdG8gZXh0cmFjdCB0aGUgcmlnaHRtb3N0ICfihpInIHRhcmdldCwgZWxzZSB0aGUgc3Vic3RyaW5nIGluc2lkZSBwYXJlbnMuCiAgICAgICAgdGFyZ2V0X25hbWUgPSBOb25lCiAgICAgICAgaWYgIuKGkiIgaW4gYWxpYXM6CiAgICAgICAgICAgIHRhcmdldF9uYW1lID0gYWxpYXMucnNwbGl0KCLihpIiLCAxKVstMV0uc3RyaXAoKS5yc3RyaXAoIikiKQogICAgICAgIGVsaWYgIigiIGluIGFsaWFzIGFuZCAiKSIgaW4gYWxpYXM6CiAgICAgICAgICAgIGlubmVyID0gYWxpYXNbYWxpYXMuZmluZCgiKCIpICsgMSA6IGFsaWFzLmZpbmQoIikiKV0KICAgICAgICAgICAgIyAiYXJpZm9zX2luaXQg4oaSIGFyaWZfaW5pdCIg4oCUIHRha2UgdGhlIGxhc3QgdG9rZW4KICAgICAgICAgICAgcGFydHMgPSBpbm5lci5zcGxpdCgi4oaSIikgaWYgIuKGkiIgaW4gaW5uZXIgZWxzZSBpbm5lci5zcGxpdCgpCiAgICAgICAgICAgIGlmIHBhcnRzOgogICAgICAgICAgICAgICAgdGFyZ2V0X25hbWUgPSBwYXJ0c1stMV0uc3RyaXAoKQogICAgICAgIGlmIHRhcmdldF9uYW1lIGFuZCBub3QgYW55KHRbIm5hbWUiXSA9PSB0YXJnZXRfbmFtZSBmb3IgdCBpbiBnZW5lcmF0ZWQuZ2V0KCJ0b29scyIsIFtdKSk6CiAgICAgICAgICAgIGZpbmRpbmdzLmFwcGVuZChmImRlcHJlY2F0ZWRfYWxpYXNfcG9pbnRzX3RvX25vdGhpbmc6IHthbGlhc30iKQogICAgIyBEcmlmdCBydWxlIDU6IHJ1bnRpbWUgdmVyc2lvbiBkaWZmZXJzCiAgICBnZW5fdiA9IGdlbmVyYXRlZC5nZXQoInNjaGVtYV92ZXJzaW9uIikKICAgIHB1Yl92ID0gcHVibGlzaGVkLmdldCgic2NoZW1hX3ZlcnNpb24iKQogICAgaWYgZ2VuX3YgYW5kIHB1Yl92IGFuZCBnZW5fdiAhPSBwdWJfdjoKICAgICAgICBmaW5kaW5ncy5hcHBlbmQoZiJzY2hlbWFfdmVyc2lvbl9kcmlmdDogcHVibGlzaGVkPXtwdWJfdn0gZ2VuZXJhdGVkPXtnZW5fdn0iKQogICAgIyBEcmlmdCBydWxlIDY6IHRvdGFscyBzaGFwZQogICAgaWYgZ2VuX3RvdGFscy5nZXQoImRlY2xhcmVkX3Rvb2xzIikgIT0gcHViX3RvdGFscy5nZXQoImRlY2xhcmVkX3Rvb2xzIik6CiAgICAgICAgZmluZGluZ3MuYXBwZW5kKCJ0b3RhbHMuZGVjbGFyZWRfdG9vbHNfZHJpZnQiKQogICAgaWYgZ2VuX3RvdGFscy5nZXQoInJlZ2lzdGVyZWRfdG9vbHMiKSAhPSBwdWJfdG90YWxzLmdldCgicmVnaXN0ZXJlZF90b29scyIpOgogICAgICAgIGZpbmRpbmdzLmFwcGVuZCgidG90YWxzLnJlZ2lzdGVyZWRfdG9vbHNfZHJpZnQiKQogICAgaWYgZ2VuX3RvdGFscy5nZXQoImNhbGxhYmxlX3Rvb2xzIikgIT0gcHViX3RvdGFscy5nZXQoImNhbGxhYmxlX3Rvb2xzIik6CiAgICAgICAgZmluZGluZ3MuYXBwZW5kKCJ0b3RhbHMuY2FsbGFibGVfdG9vbHNfZHJpZnQiKQogICAgcmV0dXJuIGZpbmRpbmdzCgoKZGVmIGV4aXRfd2l0aF9kcmlmdChmaW5kaW5nczogbGlzdFtzdHJdKSAtPiBOb25lOgogICAgaWYgZmluZGluZ3M6CiAgICAgICAgcHJpbnQoanNvbi5kdW1wcyh7Im1hbmlmZXN0X2RyaWZ0IjogZmluZGluZ3N9LCBpbmRlbnQ9MiksIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICBzeXMuZXhpdCgxKQogICAgcHJpbnQoanNvbi5kdW1wcyh7Im1hbmlmZXN0X2RyaWZ0IjogIk5PTkUifSwgaW5kZW50PTIpKQo=
+"""
+PR4 — manifest drift detector.
+
+Compares a freshly-composed manifest against a published manifest and exits 1
+if any audit-mandated drift rule fires.
+"""
+
+from __future__ import annotations
+
+import json
+import sys
+from typing import Any
+
+
+def manifest_drift(generated: dict[str, Any], published: dict[str, Any]) -> list[str]:
+    """Return a list of human-readable drift findings. Empty = no drift."""
+    findings: list[str] = []
+    gen_totals = generated.get("totals", {})
+    pub_totals = published.get("totals", {})
+
+    # Drift rule 1: a tool documented but not registered
+    for tool in generated.get("tools", []):
+        if tool["runtime"]["declared"] and not tool["runtime"]["registered"]:
+            findings.append(f"declared_but_not_registered: {tool['name']}")
+    # Drift rule 2: a registered tool absent from the published manifest
+    pub_tool_names = {t["name"] for t in published.get("tools", [])}
+    for tool in generated.get("tools", []):
+        if tool["runtime"]["registered"] and tool["name"] not in pub_tool_names:
+            findings.append(f"registered_but_absent_from_manifest: {tool['name']}")
+    # Drift rule 3: schema hashes differ
+    for tool in generated.get("tools", []):
+        for pub_tool in published.get("tools", []):
+            if tool["name"] == pub_tool["name"]:
+                if tool.get("schemas") != pub_tool.get("schemas"):
+                    findings.append(f"schema_hash_drift: {tool['name']}")
+    # Drift rule 4: an alias points to no handler
+    # alias shape: "<legacy_alias> (<modern_target> → <handler>)" or "<legacy> → <new>"
+    for alias in generated.get("manifest_drift", {}).get("deprecated_aliases", []):
+        # Try to extract the rightmost '→' target, else the substring inside parens.
+        target_name = None
+        if "→" in alias:
+            target_name = alias.rsplit("→", 1)[-1].strip().rstrip(")")
+        elif "(" in alias and ")" in alias:
+            inner = alias[alias.find("(") + 1 : alias.find(")")]
+            # "arifos_init → arif_init" — take the last token
+            parts = inner.split("→") if "→" in inner else inner.split()
+            if parts:
+                target_name = parts[-1].strip()
+        if target_name and not any(t["name"] == target_name for t in generated.get("tools", [])):
+            findings.append(f"deprecated_alias_points_to_nothing: {alias}")
+    # Drift rule 5: runtime version differs
+    gen_v = generated.get("schema_version")
+    pub_v = published.get("schema_version")
+    if gen_v and pub_v and gen_v != pub_v:
+        findings.append(f"schema_version_drift: published={pub_v} generated={gen_v}")
+    # Drift rule 6: totals shape
+    if gen_totals.get("declared_tools") != pub_totals.get("declared_tools"):
+        findings.append("totals.declared_tools_drift")
+    if gen_totals.get("registered_tools") != pub_totals.get("registered_tools"):
+        findings.append("totals.registered_tools_drift")
+    if gen_totals.get("callable_tools") != pub_totals.get("callable_tools"):
+        findings.append("totals.callable_tools_drift")
+    return findings
+
+
+def exit_with_drift(findings: list[str]) -> None:
+    if findings:
+        print(json.dumps({"manifest_drift": findings}, indent=2), file=sys.stderr)
+        sys.exit(1)
+    print(json.dumps({"manifest_drift": "NONE"}, indent=2))

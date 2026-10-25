@@ -1,1 +1,468 @@
-IiIiClRoaXMgaXMgYSB1dGlsaXR5IG1vZHVsZSB0aGF0IHByb3ZpZGVzIHZhcmlvdXMgZnVuY3Rpb25zIGZvciBoYW5kbGluZyBzZXJ2ZXIgZGF0YSwKdmFsaWRhdGluZyBpbWFnZXMsIGFuZCBjb252ZXJ0aW5nIGdpZiBpbWFnZXMgdG8gc3ByaXRlIHNoZWV0cy4KIiIiCgppbXBvcnQgaGFzaGxpYgppbXBvcnQganNvbgppbXBvcnQgcmVxdWVzdHMKaW1wb3J0IG9zCgpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UgYXMgaW1hZ2UKCiMgTWFwcGluZyBvZiBtYWpvciB2ZXJzaW9ucyB0byBjdXJyZW50bHkgYXZhaWxhYmxlIHN1YnZlcnNpb25zCk1BSk9SX0FMTDogZGljdFtzdHIsIGxpc3Rbc3RyXV0gPSB7CiAgICAiMS43LioiOiBbIjEuNy4xMCIsICIxLjciXSwKICAgICIxLjguKiI6IFsiMS44LjkiLCAiMS44Il0sCiAgICAiMS4xMi4qIjogWyIxLjEyLjIiLCAiMS4xMiJdLAogICAgIjEuMTYuKiI6IFsiMS4xNi41IiwgIjEuMTYiXSwKICAgICIxLjE3LioiOiBbIjEuMTcuMSIsICIxLjE3Il0sCiAgICAiMS4xOC4qIjogWyIxLjE4LjEiLCAiMS4xOC4yIiwgIjEuMTgiXSwKICAgICIxLjE5LioiOiBbIjEuMTkiLCAiMS4xOS4yIiwgIjEuMTkuMyIsICIxLjE5LjQiXSwKICAgICIxLjIwLioiOiBbIjEuMjAiLCAiMS4yMC4xIiwgIjEuMjAuMiIsICIxLjIwLjMiLCAiMS4yMC40IiwgIjEuMjAuNSIsICIxLjIwLjYiXSwKICAgICIxLjIxLioiOiBbIjEuMjEiLCAiMS4yMS4xIiwgIjEuMjEuMiIsICIxLjIxLjMiLCAiMS4yMS40IiwgIjEuMjEuNSIsICIxLjIxLjYiLCAiMS4yMS43IiwgIjEuMjEuOCIsICIxLjIxLjkiLCAiMS4yMS4xMCIsICIxLjIxLjExIl0sCiAgICAiMjYuMS4qIjogWyIyNi4xIiwgIjI2LjEuMSIsICIyNi4xLjIiXSwKICAgICIyNi4yLioiOiBbIjI2LjIiXSwKICAgICIyNi4zLioiOiBbIjI2LjMiXSwKfQoKZGVmIF9maWxlX2hhc2gocGF0aDogc3RyKSAtPiBzdHI6CiAgICAiIiJDb21wdXRlIFNIQTEgaGFzaCBvZiBhIGZpbGUncyBjb250ZW50cy4iIiIKICAgIHdpdGggb3BlbihwYXRoLCAicmIiKSBhcyBmOgogICAgICAgIHJldHVybiBoYXNobGliLnNoYTEoZi5yZWFkKCkpLmhleGRpZ2VzdCgpCgoKZGVmIGdldF9hbGxfc2VydmVycygKICAgIHNlcnZlcnNfZGlyOiBzdHIsIGluYWN0aXZlX2ZpbGU6IHN0ciwgaW5jbHVkZV9pbmFjdGl2ZTogYm9vbCA9IFRydWUsIHRyYW5zbGF0aW9uczogZGljdFtzdHIsIGRpY3Rbc3RyLCBzdHJdXSA9IHt9CikgLT4gbGlzdDoKICAgICIiIgogICAgVGhpcyBmdW5jdGlvbiByZXRyaWV2ZXMgYWxsIFNlcnZlck1hcHBpbmdzIHNlcnZlcnMgd2l0aGluIHRoZSBzZXJ2ZXJzIGZvbGRlcgoKICAgIEFyZ3M6CiAgICAgICAgc2VydmVyc19kaXIgKHN0cik6IFRoZSBkaXJlY3Rvcnkgd2hlcmUgdGhlIHNlcnZlcnMgYXJlIGxvY2F0ZWQuCiAgICAgICAgaW5hY3RpdmVfZmlsZSAoc3RyKTogVGhlIGZpbGUgY29udGFpbmluZyB0aGUgaW5hY3RpdmUgc2VydmVycy4KICAgICAgICBpbmNsdWRlX2luYWN0aXZlIChib29sLCBvcHRpb25hbCk6IFdoZXRoZXIgdG8gaW5jbHVkZSBpbmFjdGl2ZSBzZXJ2ZXJzLiBEZWZhdWx0cyB0byBUcnVlLgogICAgICAgIHRyYW5zbGF0aW9ucyAoZGljdFtzdHIsIGRpY3Rbc3RyLCBzdHJdXSwgb3B0aW9uYWwpOiBBIGRpY3Rpb25hcnkgb2YgdHJhbnNsYXRpb25zLiBEZWZhdWx0cyB0byB7fS4KICAgIFJldHVybnM6CiAgICAgICAgbGlzdDogQSBsaXN0IG9mIGFsbCBzZXJ2ZXJzLgogICAgIiIiCiAgICBzZXJ2ZXJzOiBsaXN0ID0gW10KCiAgICAjIE9wZW4gaW5hY3RpdmUuanNvbgogICAgaW5hY3RpdmUgPSBbXQogICAgd2l0aCBvcGVuKGluYWN0aXZlX2ZpbGUsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGluYWN0aXZlX2Y6CiAgICAgICAgaW5hY3RpdmUgPSBqc29uLmxvYWQoaW5hY3RpdmVfZikKCiAgICAjIExvb3Bpbmcgb3ZlciBlYWNoIHNlcnZlciBmb2xkZXIKICAgIGZvciByb290LCBfLCBfIGluIG9zLndhbGsoc2VydmVyc19kaXIpOgogICAgICAgIHNlcnZlcl9pZCA9IHJvb3Quc3BsaXQob3MucGF0aC5zZXApWy0xXQogICAgICAgIGlmIG5vdCBzZXJ2ZXJfaWQgb3Igc2VydmVyX2lkID09IHNlcnZlcnNfZGlyOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAjIE9wZW4gbWV0YWRhdGEuanNvbgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBvcGVuKAogICAgICAgICAgICAgICAgZiJ7c2VydmVyc19kaXJ9L3tzZXJ2ZXJfaWR9L21ldGFkYXRhLmpzb24iLCBlbmNvZGluZz0idXRmLTgiCiAgICAgICAgICAgICkgYXMgc2VydmVyX2ZpbGU6CiAgICAgICAgICAgICAgICBzZXJ2ZXIgPSBqc29uLmxvYWQoc2VydmVyX2ZpbGUpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgY29udGludWUgICMgQWxyZWFkeSBhZGRlZCB0byBlcnJvcnMgaW4gdmFsaWRhdGUucHkKCiAgICAgICAgIyBNb2RpZnkgdmVyc2lvbnMKICAgICAgICBpZiAibWluZWNyYWZ0VmVyc2lvbnMiIGluIHNlcnZlcjoKICAgICAgICAgICAgc2VydmVyWyJtaW5lY3JhZnRWZXJzaW9ucyJdID0gZ2V0X2FsbF92ZXJzaW9ucyhzZXJ2ZXJbIm1pbmVjcmFmdFZlcnNpb25zIl0pCgogICAgICAgICMgQWRkIHByaW1hcnkgZ2FtZSB0eXBlLCBkZWZhdWx0aW5nIHRvIHRoZSBmaXJzdCBsaXN0ZWQgaWYgbm90IHNldAogICAgICAgIGdhbWVfdHlwZXMgPSBzZXJ2ZXIuZ2V0KCJnYW1lVHlwZXMiLCBbXSkKICAgICAgICBzZXJ2ZXJbInByaW1hcnlHYW1lVHlwZSJdID0gc2VydmVyLmdldCgicHJpbWFyeUdhbWVUeXBlIikgb3IgKAogICAgICAgICAgICBnYW1lX3R5cGVzWzBdIGlmIGdhbWVfdHlwZXMgZWxzZSBOb25lCiAgICAgICAgKQoKICAgICAgICAjIEVucmljaCBzZXJ2ZXIgZGF0YQogICAgICAgIGlmICJpZCIgbm90IGluIHNlcnZlcjoKICAgICAgICAgICAgcHJpbnQoZiJTa2lwcGluZyB7c2VydmVyX2lkfSBhcyBpdCdzIG1pc3NpbmcgJ2lkJyIpCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgc2VydmVyWyJpbmFjdGl2ZSJdID0gc2VydmVyWyJpZCJdIGluIGluYWN0aXZlCiAgICAgICAgc2VydmVyWyJlbnJpY2hlZCJdID0gaXNfZW5yaWNoZWQoc2VydmVyLCBzZXJ2ZXJfaWQsIHNlcnZlcnNfZGlyKQogICAgICAgIAogICAgICAgICMgRGlzY2FyZCBpbmFjdGl2ZSBzZXJ2ZXJzIGlmIG5vdCBpbmNsdWRpbmcgaW5hY3RpdmUgKGJ5IGRlZmF1bHQgd2UgZG8pCiAgICAgICAgaWYgbm90IGluY2x1ZGVfaW5hY3RpdmUgYW5kIHNlcnZlclsiaW5hY3RpdmUiXToKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgIyBHZW5lcmF0ZSBpbWFnZSBVUkxzCiAgICAgICAgY2RuID0gImh0dHBzOi8vc2VydmVybWFwcGluZ3MubHVuYXJjbGllbnRjZG4uY29tIgogICAgICAgIHNlcnZlclsiaW1hZ2VzIl0gPSB7fQoKICAgICAgICBsb2dvX3BhdGggPSBmIntzZXJ2ZXJzX2Rpcn0ve3NlcnZlcl9pZH0vbG9nby5wbmciCiAgICAgICAgaWYgb3MucGF0aC5pc2ZpbGUobG9nb19wYXRoKToKICAgICAgICAgICAgbG9nb19hc3NldCA9IGYiYXNzZXRzL3tzZXJ2ZXJfaWR9L3tfZmlsZV9oYXNoKGxvZ29fcGF0aCl9LnBuZyIKICAgICAgICAgICAgc2VydmVyWyJpbWFnZXMiXVsibG9nbyJdID0gZiJ7Y2RufS9jZG4tY2dpL2ltYWdlL3dpZHRoPTUxMixoZWlnaHQ9NTEyLGZvcm1hdD1hdXRvL3tsb2dvX2Fzc2V0fSIKICAgICAgICAgICAgc2VydmVyWyJpbWFnZXMiXVsibG9nby0yNTYiXSA9IGYie2Nkbn0vY2RuLWNnaS9pbWFnZS93aWR0aD0yNTYsaGVpZ2h0PTI1Nixmb3JtYXQ9YXV0by97bG9nb19hc3NldH0iCiAgICAgICAgICAgIHNlcnZlclsiaW1hZ2VzIl1bImxvZ28tMTI4Il0gPSBmIntjZG59L2Nkbi1jZ2kvaW1hZ2Uvd2lkdGg9MTI4LGhlaWdodD0xMjgsZm9ybWF0PWF1dG8ve2xvZ29fYXNzZXR9IgogICAgICAgICAgICBzZXJ2ZXJbImltYWdlcyJdWyJsb2dvLTY0Il0gPSBmIntjZG59L2Nkbi1jZ2kvaW1hZ2Uvd2lkdGg9NjQsaGVpZ2h0PTY0LGZvcm1hdD1hdXRvL3tsb2dvX2Fzc2V0fSIKICAgICAgICAgICAgc2VydmVyWyJpbWFnZXMiXVsibG9nby0zMiJdID0gZiJ7Y2RufS9jZG4tY2dpL2ltYWdlL3dpZHRoPTMyLGhlaWdodD0zMixmb3JtYXQ9YXV0by97bG9nb19hc3NldH0iCgogICAgICAgIGJhY2tncm91bmRfcGF0aCA9IGYie3NlcnZlcnNfZGlyfS97c2VydmVyX2lkfS9iYWNrZ3JvdW5kLnBuZyIKICAgICAgICBpZiBvcy5wYXRoLmlzZmlsZShiYWNrZ3JvdW5kX3BhdGgpOgogICAgICAgICAgICBzZXJ2ZXJbImltYWdlcyJdWyJiYWNrZ3JvdW5kIl0gPSBmIntjZG59L2Nkbi1jZ2kvaW1hZ2UvZm9ybWF0PWF1dG8vYXNzZXRzL3tzZXJ2ZXJfaWR9L3tfZmlsZV9oYXNoKGJhY2tncm91bmRfcGF0aCl9LnBuZyIKICAgICAgICAgICAgc2VydmVyWyJpbWFnZXMiXVsiYmFja2dyb3VuZC03MjAiXSA9IGYie2Nkbn0vY2RuLWNnaS9pbWFnZS93aWR0aD0xMjgwLGhlaWdodD03MjAsZm9ybWF0PWF1dG8vYXNzZXRzL3tzZXJ2ZXJfaWR9L3tfZmlsZV9oYXNoKGJhY2tncm91bmRfcGF0aCl9LnBuZyIKICAgICAgICAgICAgc2VydmVyWyJpbWFnZXMiXVsiYmFja2dyb3VuZC00ODAiXSA9IGYie2Nkbn0vY2RuLWNnaS9pbWFnZS93aWR0aD04NTIsaGVpZ2h0PTQ4MCxmb3JtYXQ9YXV0by9hc3NldHMve3NlcnZlcl9pZH0ve19maWxlX2hhc2goYmFja2dyb3VuZF9wYXRoKX0ucG5nIgoKICAgICAgICBiYW5uZXJfcGF0aCA9IGYie3NlcnZlcnNfZGlyfS97c2VydmVyX2lkfS9iYW5uZXIucG5nIgogICAgICAgIGlmIG9zLnBhdGguaXNmaWxlKGJhbm5lcl9wYXRoKToKICAgICAgICAgICAgc2VydmVyWyJpbWFnZXMiXVsiYmFubmVyIl0gPSBmIntjZG59L2Nkbi1jZ2kvaW1hZ2UvZm9ybWF0PWF1dG8vYXNzZXRzL3tzZXJ2ZXJfaWR9L3tfZmlsZV9oYXNoKGJhbm5lcl9wYXRoKX0ucG5nIgoKICAgICAgICB3b3JkbWFya19wYXRoID0gZiJ7c2VydmVyc19kaXJ9L3tzZXJ2ZXJfaWR9L3dvcmRtYXJrLnBuZyIKICAgICAgICBpZiBvcy5wYXRoLmlzZmlsZSh3b3JkbWFya19wYXRoKToKICAgICAgICAgICAgc2VydmVyWyJpbWFnZXMiXVsid29yZG1hcmsiXSA9IGYie2Nkbn0vY2RuLWNnaS9pbWFnZS9mb3JtYXQ9YXV0by9hc3NldHMve3NlcnZlcl9pZH0ve19maWxlX2hhc2god29yZG1hcmtfcGF0aCl9LnBuZyIKICAgICAgICAKICAgICAgICAjIEFkZCB0cmFuc2xhdGlvbnMgZm9yIGRlc2NyaXB0aW9ucwogICAgICAgIGlmIHRyYW5zbGF0aW9ucyBhbmQgImRlc2NyaXB0aW9uIiBpbiBzZXJ2ZXI6CiAgICAgICAgICAgICMgSXRlcmF0ZSB0aHJvdWdoIGVhY2ggbG9jYWxlIGFuZCBhZGQgdGhlIGRlc2NyaXB0aW9uIGlmIGl0IGV4aXN0cwogICAgICAgICAgICBmb3IgbG9jYWxlLCB0cmFuc2xhdGlvbiBpbiB0cmFuc2xhdGlvbnMuaXRlbXMoKToKICAgICAgICAgICAgICAgIGlmIHNlcnZlclsiaWQiXSBpbiB0cmFuc2xhdGlvbjoKICAgICAgICAgICAgICAgICAgICAjIENyZWF0ZSBrZXkgaWYgaXQgZG9lc24ndCBleGlzdAogICAgICAgICAgICAgICAgICAgIGlmICJsb2NhbGl6ZWREZXNjcmlwdGlvbnMiIG5vdCBpbiBzZXJ2ZXI6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZlclsibG9jYWxpemVkRGVzY3JpcHRpb25zIl0gPSB7fQoKICAgICAgICAgICAgICAgICAgICAjIEFkZCB0aGUgdHJhbnNsYXRpb24gaWYgZG9lc250IG1hdGNoCiAgICAgICAgICAgICAgICAgICAgaWYgdHJhbnNsYXRpb25bc2VydmVyWyJpZCJdXVsiZGVzY3JpcHRpb24iXSAhPSBzZXJ2ZXJbImRlc2NyaXB0aW9uIl06CiAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZlclsibG9jYWxpemVkRGVzY3JpcHRpb25zIl1bbG9jYWxlXSA9IHRyYW5zbGF0aW9uW3NlcnZlclsiaWQiXV1bImRlc2NyaXB0aW9uIl0KCiAgICAgICAgIyBBZGQgdG8gbGlzdAogICAgICAgIHNlcnZlcnMuYXBwZW5kKHNlcnZlcikKCiAgICAjIFNvcnQgQS1aCiAgICBzZXJ2ZXJzLnNvcnQoa2V5PWxhbWJkYSB4OiB4WyJpZCJdKQoKICAgIHJldHVybiBzZXJ2ZXJzCgoKZGVmIGdldF9hbGxfdmVyc2lvbnModmVyc2lvbnMpIC0+IGxpc3Rbc3RyXToKICAgICIiIgogICAgVGhpcyBmdW5jdGlvbiB0YWtlcyBhIGxpc3Qgb2YgdmVyc2lvbnMgdGhhdCBjb3VsZCBiZSBlaXRoZXIgc3VidmVyc2lvbnMgb3IKICAgIG1ham9yIHZlcnNpb25zLCBhbmQgaWYgaXQgaXMgYSBtYWpvciB2ZXJzaW9uIChkZW5vdGVkIGJ5IHRoZSBhc3RyaXgpLCBpdAogICAgd2lsbCBpbmNsdWRlIGFsbCBvZiB0aGUgc3VidmVyc2lvbnMgZnJvbSB0aGF0IG1ham9yIHZlcnNpb24uCgogICAgUGFyYW1ldGVyczoKICAgICAgICB2ZXJzaW9ucyAobGlzdCk6IFRoZSBsaXN0IG9mIHZlcnNpb25zLgoKICAgIFJldHVybnM6CiAgICAgICAgbGlzdDogVGhlIGxpc3Qgb2YgYWxsIHZlcnNpb25zLgogICAgIiIiCiAgICB0b19yZXR1cm46IGxpc3Rbc3RyXSA9IFtdCgogICAgZm9yIHZlcnNpb24gaW4gdmVyc2lvbnM6CiAgICAgICAgaWYgdmVyc2lvbiBpbiBNQUpPUl9BTEw6CiAgICAgICAgICAgIHRvX3JldHVybi5leHRlbmQoTUFKT1JfQUxMW3ZlcnNpb25dKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHRvX3JldHVybi5hcHBlbmQodmVyc2lvbikKCiAgICByZXR1cm4gdG9fcmV0dXJuCgoKZGVmIGlzX2VucmljaGVkKHNlcnZlcjogZGljdCwgc2VydmVyX2lkOiBzdHIsIHNlcnZlcnNfZGlyOiBzdHIpIC0+IGJvb2w6CiAgICAiIiIKICAgIFRoaXMgZnVuY3Rpb24gY2hlY2tzIHRob3VnaCBkaWZmZXJlbnQgY3JpdGVyaWEgdG8gZGV0ZXJtaW5lIHdoZXRoZXIgYQogICAgc2VydmVyIGlzICJlbnJpY2hlZCIuIEEgc2VydmVyIHdpdGhpbiBTZXJ2ZXJNYXBwaW5ncyBiZWluZyBkZWVtZWQgImVucmljaGVkIgogICAgYWxsb3dzIHRoZSBsaXN0aW5nIHRvIHNob3cgdXAgaW4gbW9yZSB2aXNpYmxlIHBsYWNlbWVudHMgd2l0aGluIEx1bmFyIENsaWVudC4KCiAgICBQYXJhbWV0ZXJzOgogICAgICAgIHNlcnZlciAoZGljdCk6IFRoZSBzZXJ2ZXIgZGF0YS4KICAgICAgICBzZXJ2ZXJfaWQgKHN0cik6IFRoZSBzZXJ2ZXIgaWQuCiAgICAgICAgc2VydmVyc19kaXIgKHN0cik6IFRoZSBkaXJlY3Rvcnkgd2hlcmUgdGhlIHNlcnZlciBkYXRhIGlzIHN0b3JlZC4KCiAgICBSZXR1cm5zOgogICAgICAgIGJvb2w6IFdoZXRoZXIgdGhlIHNlcnZlciBpcyBkZWVtZWQgImVucmljaGVkIi4KICAgICIiIgoKICAgICMgQ2hlY2sgSW1hZ2VzCiAgICBsb2dvX3BhdGggPSBmIntzZXJ2ZXJzX2Rpcn0ve3NlcnZlcl9pZH0vbG9nby5wbmciCiAgICBiYWNrZ3JvdW5kX3BhdGggPSBmIntzZXJ2ZXJzX2Rpcn0ve3NlcnZlcl9pZH0vYmFja2dyb3VuZC5wbmciCgogICAgIyBDaGVjayBpZiB2YWxpZCBmaWxlcyAvIHBhdGhzCiAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUobG9nb19wYXRoKSBvciBub3Qgb3MucGF0aC5pc2ZpbGUoYmFja2dyb3VuZF9wYXRoKToKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAjIENoZWNrIFByaW1hcnkgSVAKICAgIGlmIG5vdCAicHJpbWFyeUFkZHJlc3MiIGluIHNlcnZlcjoKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICByZXR1cm4gVHJ1ZQoKCmRlZiBnZXRfZWRpdGVkX3NlcnZlcnMoKToKICAgICIiIgogICAgVGhpcyBnZXRzIGFsbCB0aGUgZWRpdGVkIHNlcnZlcnMgaW4gdGhpcyBwdWxsIHJlcXVlc3QKCiAgICBSZXR1cm5zOgogICAgICAgIHNldFtzdHJdOiBBIHNldCBvZiBzZXJ2ZXIgSURzIHRoYXQgaGF2ZSBiZWVuIGVkaXRlZCBpbiB0aGlzIHB1bGwgcmVxdWVzdC4KICAgICIiIgogICAgcHVsbF9pZCA9IG9zLmdldGVudigiUFJfSUQiKQogICAgZWRpdGVkX3NlcnZlcl9pZHMgPSBzZXQoKSAjIDQgZmlsZXMgaW4gYSBzZXJ2ZXIgY2FuIGJlIGVkaXRlZAoKICAgIGlmIG5vdCBwdWxsX2lkOgogICAgICAgIHByaW50KCJObyBwdWxsIHJlcXVlc3QgaWQgZm91bmQuIFVuYWJsZSB0byBnZXQgZWRpdGVkIHNlcnZlcnMiKQogICAgICAgIHJldHVybiBlZGl0ZWRfc2VydmVyX2lkcwoKICAgIHRva2VuID0gb3MuZ2V0ZW52KCJHSVRIVUJfVE9LRU4iKQogICAgcmVzID0gcmVxdWVzdHMuZ2V0KAogICAgICAgIGYiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9MdW5hckNsaWVudC9TZXJ2ZXJNYXBwaW5ncy9wdWxscy97cHVsbF9pZH0vZmlsZXMiLAogICAgICAgIGhlYWRlcnM9ewogICAgICAgICAgICAiYWNjZXB0IjogImFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiIsCiAgICAgICAgICAgICJBdXRob3JpemF0aW9uIjogZiJCZWFyZXIge3Rva2VufSIsCiAgICAgICAgfSwKICAgICAgICB0aW1lb3V0PTMwLAogICAgKQogICAgCiAgICByZXMucmFpc2VfZm9yX3N0YXR1cygpCgogICAgZm9yIGZpbGUgaW4gcmVzLmpzb24oKToKICAgICAgICBmaWxlX25hbWU6IHN0ciA9IGZpbGVbJ2ZpbGVuYW1lJ10KICAgICAgICBpZiBub3QgZmlsZV9uYW1lLnN0YXJ0c3dpdGgoInNlcnZlcnMvIik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgc3BsaXRfcGF0aCA9IGZpbGVfbmFtZS5zcGxpdCgiLyIpCiAgICAgICAgZWRpdGVkX3NlcnZlcl9pZHMuYWRkKHNwbGl0X3BhdGhbMV0pCiAgICByZXR1cm4gZWRpdGVkX3NlcnZlcl9pZHMKCgpkZWYgZ2lmX3RvX3Nwcml0ZV9zaGVldChwYXRoKToKICAgICIiIgogICAgVGhpcyBmdW5jdGlvbiBjb252ZXJ0cyBhIGdpZiBpbWFnZSB0byBhIHNwcml0ZSBzaGVldC4KCiAgICBQYXJhbWV0ZXJzOgogICAgICAgIHBhdGggKHN0cik6IFRoZSBwYXRoIHRvIHRoZSBnaWYgaW1hZ2UuCgogICAgUmV0dXJuczoKICAgICAgICBJbWFnZTogQSBzcHJpdGUgc2hlZXQgaW1hZ2UuCiAgICAiIiIKICAgIGltZyA9IGltYWdlLm9wZW4ocGF0aCkKICAgIHNwcml0ZV9pbWcgPSBpbWFnZS5uZXcoIlJHQkEiLCAoaW1nLndpZHRoLCBpbWcuaGVpZ2h0ICogaW1nLm5fZnJhbWVzKSkKCiAgICBmb3IgaWR4IGluIHJhbmdlKDAsIGltZy5uX2ZyYW1lcyk6CiAgICAgICAgaW1nLnNlZWsoaWR4KQogICAgICAgIHNwcml0ZV9pbWcucGFzdGUoaW1nLCAoMCwgaW1nLmhlaWdodCAqIGlkeCkpCiAgICByZXR1cm4gc3ByaXRlX2ltZwoKCmRlZiB2YWxpZGF0ZV9sb2dvKHBhdGgsIHNlcnZlcl9uYW1lKSAtPiBsaXN0W3N0cl06CiAgICAiIiIKICAgIFZhbGlkYXRlIHRoYXQgc2VydmVyIGxvZ28gbWVldHMgdGhlIGZvbGxvd2luZyByZXF1aXJlbWVudHM6CiAgICAgICogZXhpc3RzIGluIGxvZ29zIGZvbGRlcgogICAgICAqIGlzIGEgUE5HCiAgICAgICogaGFzIGEgMToxIGFzcGVjdCByYXRpbwogICAgICAqIGlzIGdyZWF0ZXIgdGhhbiA1MTIgcGl4ZWxzIGluIHdpZHRoIC8gaGVpZ2h0CgogICAgUGFyYW1ldGVyczoKICAgICAgICBwYXRoIChzdHIpOiBUaGUgcGF0aCB0byB0aGUgc2VydmVyIGxvZ28uCiAgICAgICAgc2VydmVyX25hbWUgKHN0cik6IFRoZSBuYW1lIG9mIHRoZSBzZXJ2ZXIuCgogICAgUmV0dXJuczoKICAgICAgICBsaXN0OiBBIGxpc3Qgb2YgZXJyb3IgbWVzc2FnZXMgaWYgdGhlIGxvZ28gZG9lcyBub3QgbWVldCB0aGUgcmVxdWlyZW1lbnRzLiBJZiB0aGUKICAgICAgICAgICAgICBsb2dvIG1lZXRzIGFsbCB0aGUgcmVxdWlyZW1lbnRzLCBhbiBlbXB0eSBsaXN0IGlzIHJldHVybmVkLgogICAgIiIiCgogICAgIyBDaGVjayBpbWFnZSBleGlzdHMKICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShwYXRoKToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBmIntzZXJ2ZXJfbmFtZX0ncyBzZXJ2ZXIgbG9nbyBkb2VzIG5vdCBleGlzdC4uLiBQbGVhc2UgZW5zdXJlIHRoZSBmaWxlIG5hbWUgbWF0Y2hlcyB0aGUgc2VydmVyIElEIGFuZCBpcyBhIFBORy4iCiAgICAgICAgXQoKICAgIGVycm9ycyA9IFtdCiAgICBsb2dvX2ltYWdlID0gaW1hZ2Uub3BlbihwYXRoKQoKICAgICMgQ2hlY2sgaW1hZ2UgZm9ybWF0IGlzIGEgUE5HCiAgICBpZiBsb2dvX2ltYWdlLmZvcm1hdCBub3QgaW4gWyJQTkciXToKICAgICAgICBlcnJvcnMuYXBwZW5kKAogICAgICAgICAgICBmIntzZXJ2ZXJfbmFtZX0ncyBzZXJ2ZXIgbG9nbyBpcyBub3QgYSBQTkcgKGN1cnJlbnRseSB7bG9nb19pbWFnZS5mb3JtYXR9KS4uLiIKICAgICAgICApCgogICAgIyBDaGVjayBpbWFnZSBkaW1lbnNpb25zIGFyZSBhIDE6MSByYXRpbwogICAgaWYgbG9nb19pbWFnZS53aWR0aCAhPSBsb2dvX2ltYWdlLmhlaWdodDoKICAgICAgICBlcnJvcnMuYXBwZW5kKAogICAgICAgICAgICBmIntzZXJ2ZXJfbmFtZX0ncyBzZXJ2ZXIgbG9nbyBkb2VzIG5vdCBoYXZlIGEgMToxIGFzcGVjdCByYXRpby4uLiIKICAgICAgICApCgogICAgIyBDaGVjayBpbWFnZSBkaW1lbnNpb25zIGFyZSBhdCBsZWFzdCA1MTJweAogICAgaWYgbG9nb19pbWFnZS53aWR0aCA8IDUxMjoKICAgICAgICBlcnJvcnMuYXBwZW5kKAogICAgICAgICAgICBmIntzZXJ2ZXJfbmFtZX0ncyBzZXJ2ZXIgbG9nbyB3aWR0aC9oZWlnaHQgaXMgbGVzcyB0aGFuIDUxMnB4Li4uIgogICAgICAgICkKCiAgICByZXR1cm4gZXJyb3JzCgoKZGVmIHZhbGlkYXRlX2JhY2tncm91bmQocGF0aCwgc2VydmVyX25hbWUpIC0+IGxpc3Rbc3RyXToKICAgICIiIgogICAgVmFsaWRhdGUgdGhhdCBzZXJ2ZXIgYmFja2dyb3VuZCBtZWV0cyB0aGUgZm9sbG93aW5nIHJlcXVpcmVtZW50czoKICAgICAgKiBpcyBhIFBORwogICAgICAqIGhhcyBhIDE2OjkgYXNwZWN0IHJhdGlvCiAgICAgICogaXMgZ3JlYXRlciB0aGFuIDE5MjAgcGl4ZWxzIGluIHdpZHRoIGFuZCAxMDgwIHBpeGVscyBpbiBoZWlnaHQKCiAgICBQYXJhbWV0ZXJzOgogICAgICAgIHBhdGggKHN0cik6IFRoZSBwYXRoIHRvIHRoZSBzZXJ2ZXIgYmFja2dyb3VuZC4KICAgICAgICBzZXJ2ZXJfbmFtZSAoc3RyKTogVGhlIG5hbWUgb2YgdGhlIHNlcnZlci4KCiAgICBSZXR1cm5zOgogICAgICAgIGxpc3Q6IEEgbGlzdCBvZiBlcnJvciBtZXNzYWdlcyBpZiB0aGUgYmFja2dyb3VuZCBkb2VzIG5vdCBtZWV0IHRoZSByZXF1aXJlbWVudHMuIElmIHRoZQogICAgICAgICAgICAgIGJhY2tncm91bmQgbWVldHMgYWxsIHRoZSByZXF1aXJlbWVudHMsIGFuIGVtcHR5IGxpc3QgaXMgcmV0dXJuZWQuCiAgICAiIiIKCiAgICAjIENoZWNrIGltYWdlIGV4aXRzIC0gc2lsZW50bHkgc2tpcCBpZiBub3QgKGFzIGl0IGlzIG5vdCB5ZXQgYSByZXF1aXJlbWVudCkKICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShwYXRoKToKICAgICAgICBwcmludChmIk5vIGJhY2tncm91bmQgZm91bmQgZm9yIHtzZXJ2ZXJfbmFtZX0uLi4gc2tpcHBpbmcuIikKICAgICAgICByZXR1cm4gW10KCiAgICBlcnJvcnMgPSBbXQogICAgYmFja2dyb3VuZF9pbWFnZSA9IGltYWdlLm9wZW4ocGF0aCkKCiAgICAjIENoZWNrIGltYWdlIGZvcm1hdCBpcyBhIFBORwogICAgaWYgYmFja2dyb3VuZF9pbWFnZS5mb3JtYXQgbm90IGluIFsiUE5HIl06CiAgICAgICAgZXJyb3JzLmFwcGVuZCgKICAgICAgICAgICAgZiJ7c2VydmVyX25hbWV9J3Mgc2VydmVyIGJhY2tncm91bmQgaXMgbm90IGEgUE5HIChjdXJyZW50bHkge2JhY2tncm91bmRfaW1hZ2UuZm9ybWF0fSkuLi4iCiAgICAgICAgKQoKICAgICMgQ2hlY2sgaW1hZ2UgZGltZW5zaW9ucyBhcmUgYSAxNjo5IHJhdGlvCiAgICBhc3BlY3RfcmF0aW8gPSByb3VuZChiYWNrZ3JvdW5kX2ltYWdlLndpZHRoIC8gYmFja2dyb3VuZF9pbWFnZS5oZWlnaHQsIDIpCiAgICBpZiBhc3BlY3RfcmF0aW8gIT0gMS43ODoKICAgICAgICBlcnJvcnMuYXBwZW5kKAogICAgICAgICAgICBmIntzZXJ2ZXJfbmFtZX0ncyBzZXJ2ZXIgYmFja2dyb3VuZCBkb2VzIG5vdCBoYXZlIGEgMTY6OSBhc3BlY3QgcmF0aW8uLi4iCiAgICAgICAgKQoKICAgICMgQ2hlY2sgaW1hZ2UgZGltZW5zaW9ucyBhcmUgYXQgbGVhc3QgNTEycHgKICAgIGlmIGJhY2tncm91bmRfaW1hZ2Uud2lkdGggPCAxOTIwOgogICAgICAgIGVycm9ycy5hcHBlbmQoCiAgICAgICAgICAgIGYie3NlcnZlcl9uYW1lfSdzIHNlcnZlciBiYWNrZ3JvdW5kIHJlc29sdXRpb24gaXMgbGVzcyB0aGFuIDE5MjB4MTA4MC4uLiIKICAgICAgICApCgogICAgcmV0dXJuIGVycm9ycwoKCmRlZiB2YWxpZGF0ZV9iYW5uZXIocGF0aDogc3RyLCBzZXJ2ZXJfbmFtZTogc3RyKSAtPiBsaXN0W3N0cl06CiAgICAiIiIKICAgIFZhbGlkYXRlIHRoYXQgc2VydmVyIGJhbm5lciBtZWV0cyB0aGUgZm9sbG93aW5nIHJlcXVpcmVtZW50czoKICAgICAgKiBpcyBhIFBORyBvciBHSUYKICAgICAgKiBpcyA0Njh4NjAgcGl4ZWxzCiAgICAgICogd2UgY2FuIGNvbnZlcnQgaXQgdG8gYSBzcHJpdGUgaW1hZ2Ugd2l0aG91dCBpdCBlcnJvcmluZy4KCiAgICBQYXJhbWV0ZXJzOgogICAgICAgIHBhdGggKHN0cik6IFRoZSBwYXRoIHRvIHRoZSBzZXJ2ZXIgYmFubmVyLgogICAgICAgIHNlcnZlcl9uYW1lIChzdHIpOiBUaGUgbmFtZSBvZiB0aGUgc2VydmVyLgoKICAgIFJldHVybnM6CiAgICAgICAgbGlzdDogQSBsaXN0IG9mIGVycm9yIG1lc3NhZ2VzIGlmIHRoZSBiYW5uZXIgZG9lcyBub3QgbWVldCB0aGUgcmVxdWlyZW1lbnRzLiBJZiB0aGUKICAgICAgICAgICAgICBiYW5uZXIgbWVldHMgYWxsIHRoZSByZXF1aXJlbWVudHMsIGFuIGVtcHR5IGxpc3QgaXMgcmV0dXJuZWQuCiAgICAiIiIKCiAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUocGF0aCk6CiAgICAgICAgcHJpbnQoZiJObyBiYW5uZXIgZm91bmQgZm9yIHtzZXJ2ZXJfbmFtZX0uLi4gc2tpcHBpbmcuIikKICAgICAgICByZXR1cm4gW10KCiAgICBiYW5uZXJfaW1hZ2UgPSBpbWFnZS5vcGVuKHBhdGgpCiAgICBlcnJvcnMgPSBbXQoKICAgICMgSW5jb3JyZWN0IGlucHV0IGZvcm1hdAogICAgaWYgYmFubmVyX2ltYWdlLmZvcm1hdCBub3QgaW4geyJQTkciLCAiR0lGIn06CiAgICAgICAgZXJyb3JzLmFwcGVuZCgKICAgICAgICAgICAgZiJ7c2VydmVyX25hbWV9J3Mgc2VydmVyIGJhbm5lciBpcyBub3QgYSBQTkcgb3IgR0lGIChjdXJyZW50bHkge2Jhbm5lcl9pbWFnZS5mb3JtYXR9KS4uLiIKICAgICAgICApCgogICAgIyBQcm9jZXNzIEdJRiBwcm9wZXJ0aWVzCiAgICBpZiBiYW5uZXJfaW1hZ2UuZm9ybWF0ID09ICJHSUYiIGFuZCBiYW5uZXJfaW1hZ2Uubl9mcmFtZXMgPiAxOgogICAgICAgIGR1cmF0aW9uID0gYmFubmVyX2ltYWdlLmluZm9bImR1cmF0aW9uIl0KICAgICAgICB0b3RhbF9kdXJhdGlvbiA9IGR1cmF0aW9uCiAgICAgICAgIyBMb29wIHRocm91Z2ggYWxsIHRoZSBmcmFtZXMsIHJhdGhlciB0aGFuIGp1c3QgZG8gZHVyYXRpb24gKiBuX2ZyYW1lcywgYmVjYXVzZSBHSUYKICAgICAgICAjIGZpbGVzIGNhbiBoYXZlIGRpZmZlcmVudCBkdXJhdGlvbnMgZm9yIGVhY2ggZnJhbWUuCiAgICAgICAgZm9yIGlkeCBpbiByYW5nZSgxLCBiYW5uZXJfaW1hZ2Uubl9mcmFtZXMpOgogICAgICAgICAgICBiYW5uZXJfaW1hZ2Uuc2VlayhpZHgpCiAgICAgICAgICAgIHRvdGFsX2R1cmF0aW9uICs9IGR1cmF0aW9uCgogICAgICAgICMgR0lGIHRvbyBsb25nCiAgICAgICAgaWYgdG90YWxfZHVyYXRpb24gPiAxNV8wMDA6CiAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoCiAgICAgICAgICAgICAgICBmIntzZXJ2ZXJfbmFtZX0ncyBzZXJ2ZXIgYmFubmVyIGlzIG1vcmUgdGhhbiAxNSBzZWNvbmRzIGxvbmcgKGN1cnJlbnRseSB7dG90YWxfZHVyYXRpb24gLyAxMDAwfSkuLi4iCiAgICAgICAgICAgICkKCiAgICAgICAgIyBObyBkdXJhdGlvbiBmb3VuZAogICAgICAgIGlmIHRvdGFsX2R1cmF0aW9uID09IDA6CiAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoCiAgICAgICAgICAgICAgICBmIntzZXJ2ZXJfbmFtZX0ncyBzZXJ2ZXIgZ2lmIHNlcnZlciBiYW5uZXIgc2VlbXMgdG8gbm90IGhhdmUgYW55IGR1cmF0aW9uIGFzc29jaWF0ZWQgd2l0aCBpdC4uLiIKICAgICAgICAgICAgKQoKICAgIGlmIGJhbm5lcl9pbWFnZS53aWR0aCAhPSA0Njggb3IgYmFubmVyX2ltYWdlLmhlaWdodCAhPSA2MDoKICAgICAgICBlcnJvcnMuYXBwZW5kKGYie3NlcnZlcl9uYW1lfSdzIHNlcnZlciBiYW5uZXIgaXMgbm90IDQ2OHg2MC4uLiIpCgogICAgc3ByaXRlID0gZ2lmX3RvX3Nwcml0ZV9zaGVldChwYXRoKQoKICAgICMgVG9vIGJpZwogICAgaWYgc3ByaXRlLmhlaWdodCA+IDE2MzgzIG9yIHNwcml0ZS53aWR0aCA+IDE2MzgzOgogICAgICAgIGVycm9ycy5hcHBlbmQoCiAgICAgICAgICAgIGYie3NlcnZlcl9uYW1lfSdzIHNlcnZlciBiYW5uZXIgaXMgZWl0aGVyIHRvbyB0YWxsIGFzIGEgc3ByaXRlIGltYWdlLCBvciB0b28gd2lkZS4gd2UncmUgdW5hYmxlIHRvIGNvbnZlcnQgdGhpcyBsYXRlci4uLiIKICAgICAgICApCgoKICAgIHJldHVybiBlcnJvcnMKCmRlZiB2YWxpZGF0ZV93b3JkbWFyayhwYXRoOiBzdHIsIHNlcnZlcl9uYW1lOiBzdHIpIC0+IGxpc3Rbc3RyXToKICAgICIiIgogICAgVmFsaWRhdGUgdGhhdCBzZXJ2ZXIgd29yZG1hcmsgbWVldHMgdGhlIGZvbGxvd2luZyByZXF1aXJlbWVudHM6CiAgICAgICogaXMgYSBQTkcKICAgICAgKiBoYXMgYSAxNjo5IGFzcGVjdCByYXRpbwogICAgICAqIGlzIGdyZWF0ZXIgdGhhbiA4NTQgcGl4ZWxzIGluIHdpZHRoIGFuZCA0ODAgcGl4ZWxzIGluIGhlaWdodAoKICAgIFBhcmFtZXRlcnM6CiAgICAgICAgcGF0aCAoc3RyKTogVGhlIHBhdGggdG8gdGhlIHNlcnZlciB3b3JkbWFyay4KICAgICAgICBzZXJ2ZXJfbmFtZSAoc3RyKTogVGhlIG5hbWUgb2YgdGhlIHNlcnZlci4KCiAgICBSZXR1cm5zOgogICAgICAgIGxpc3Q6IEEgbGlzdCBvZiBlcnJvciBtZXNzYWdlcyBpZiB0aGUgd29yZG1hcmsgZG9lcyBub3QgbWVldCB0aGUgcmVxdWlyZW1lbnRzLiBJZiB0aGUKICAgICAgICAgICAgICBiYW5uZXIgbWVldHMgYWxsIHRoZSByZXF1aXJlbWVudHMsIGFuIGVtcHR5IGxpc3QgaXMgcmV0dXJuZWQuCiAgICAiIiIKCiAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUocGF0aCk6CiAgICAgICAgcHJpbnQoZiJObyB3b3JkbWFyayBmb3VuZCBmb3Ige3NlcnZlcl9uYW1lfS4uLiBza2lwcGluZy4iKQogICAgICAgIHJldHVybiBbXQogICAgCiAgICB3b3JkbWFya19pbWFnZSA9IGltYWdlLm9wZW4ocGF0aCkKICAgIGVycm9ycyA9IFtdCgogICAgIyBDaGVjayBpbWFnZSBmb3JtYXQgaXMgYSBQTkcKICAgIGlmIHdvcmRtYXJrX2ltYWdlLmZvcm1hdCBub3QgaW4gWyJQTkciXToKICAgICAgICBlcnJvcnMuYXBwZW5kKAogICAgICAgICAgICBmIntzZXJ2ZXJfbmFtZX0ncyBzZXJ2ZXIgd29yZG1hcmsgaXMgbm90IGEgUE5HIChjdXJyZW50bHkge3dvcmRtYXJrX2ltYWdlLmZvcm1hdH0pLi4uIgogICAgICAgICkKICAgIAoKICAgICMgV2lkdGggb3IgaGVpZ2h0IHRvbyBzbWFsbAogICAgaWYgd29yZG1hcmtfaW1hZ2Uud2lkdGggPCA4NTQgb3Igd29yZG1hcmtfaW1hZ2UuaGVpZ2h0IDwgNDgwOgogICAgICAgIGVycm9ycy5hcHBlbmQoCiAgICAgICAgICAgIGYie3NlcnZlcl9uYW1lfSdzIHNlcnZlciB3b3JkbWFyayBpcyBsZXNzIHRoYW4gODU0eDQ4MC4uLiIKICAgICAgICApCiAgICAKCiAgICBhc3BlY3RfcmF0aW8gPSByb3VuZCh3b3JkbWFya19pbWFnZS53aWR0aCAvIHdvcmRtYXJrX2ltYWdlLmhlaWdodCwgMikKICAgICMgSW5jb3JyZWN0IGFzcGVjdCByYXRpbwogICAgaWYgYXNwZWN0X3JhdGlvICE9IDEuNzg6CiAgICAgICAgZXJyb3JzLmFwcGVuZCgKICAgICAgICAgICAgZiJ7c2VydmVyX25hbWV9J3Mgc2VydmVyIHdvcmRtYXJrIGRvZXMgbm90IGhhdmUgYSAxNjo5IGFzcGVjdCByYXRpby4uLiIKICAgICAgICApCgogICAgCiAgICByZXR1cm4gZXJyb3JzCgoKZGVmIGNvbGxlY3RfdHJhbnNsYXRpb25zKHNlcnZlcnM6IGxpc3RbZGljdF0pIC0+IGRpY3Q6CiAgICAiIiIKICAgIENvbGxlY3RzIHRoZSB0cmFuc2xhdGlvbnMgZnJvbSB0aGUgc2VydmVycyBsaXN0CgogICAgUGFyYW1ldGVyczoKICAgICAgICBzZXJ2ZXJzIChsaXN0KTogVGhlIGxpc3Qgb2Ygc2VydmVycy4KCiAgICBSZXR1cm5zOgogICAgICAgIGRpY3Q6IEEgZGljdGlvbmFyeSBvZiBzZXJ2ZXIgSURzIGFuZCB0aGVpciBkZXNjcmlwdGlvbnMuCiAgICAiIiIKICAgIHRyYW5zbGF0aW9ucyA9IHt9CiAgICBmb3Igc2VydmVyIGluIHNlcnZlcnM6CiAgICAgICAgaWYgJ2Rlc2NyaXB0aW9uJyBpbiBzZXJ2ZXI6CiAgICAgICAgICAgIHRyYW5zbGF0aW9uc1tzZXJ2ZXJbJ2lkJ11dID0geyAiZGVzY3JpcHRpb24iOiBzZXJ2ZXJbJ2Rlc2NyaXB0aW9uJ10gfQogICAgcmV0dXJuIHRyYW5zbGF0aW9ucwo=
+"""
+This is a utility module that provides various functions for handling server data,
+validating images, and converting gif images to sprite sheets.
+"""
+
+import hashlib
+import json
+import requests
+import os
+
+from PIL import Image as image
+
+# Mapping of major versions to currently available subversions
+MAJOR_ALL: dict[str, list[str]] = {
+    "1.7.*": ["1.7.10", "1.7"],
+    "1.8.*": ["1.8.9", "1.8"],
+    "1.12.*": ["1.12.2", "1.12"],
+    "1.16.*": ["1.16.5", "1.16"],
+    "1.17.*": ["1.17.1", "1.17"],
+    "1.18.*": ["1.18.1", "1.18.2", "1.18"],
+    "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"],
+    "1.20.*": ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4", "1.20.5", "1.20.6"],
+    "1.21.*": ["1.21", "1.21.1", "1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9", "1.21.10", "1.21.11"],
+    "26.1.*": ["26.1", "26.1.1", "26.1.2"],
+    "26.2.*": ["26.2"],
+    "26.3.*": ["26.3"],
+}
+
+def _file_hash(path: str) -> str:
+    """Compute SHA1 hash of a file's contents."""
+    with open(path, "rb") as f:
+        return hashlib.sha1(f.read()).hexdigest()
+
+
+def get_all_servers(
+    servers_dir: str, inactive_file: str, include_inactive: bool = True, translations: dict[str, dict[str, str]] = {}
+) -> list:
+    """
+    This function retrieves all ServerMappings servers within the servers folder
+
+    Args:
+        servers_dir (str): The directory where the servers are located.
+        inactive_file (str): The file containing the inactive servers.
+        include_inactive (bool, optional): Whether to include inactive servers. Defaults to True.
+        translations (dict[str, dict[str, str]], optional): A dictionary of translations. Defaults to {}.
+    Returns:
+        list: A list of all servers.
+    """
+    servers: list = []
+
+    # Open inactive.json
+    inactive = []
+    with open(inactive_file, encoding="utf-8") as inactive_f:
+        inactive = json.load(inactive_f)
+
+    # Looping over each server folder
+    for root, _, _ in os.walk(servers_dir):
+        server_id = root.split(os.path.sep)[-1]
+        if not server_id or server_id == servers_dir:
+            continue
+
+        # Open metadata.json
+        try:
+            with open(
+                f"{servers_dir}/{server_id}/metadata.json", encoding="utf-8"
+            ) as server_file:
+                server = json.load(server_file)
+        except Exception:
+            continue  # Already added to errors in validate.py
+
+        # Modify versions
+        if "minecraftVersions" in server:
+            server["minecraftVersions"] = get_all_versions(server["minecraftVersions"])
+
+        # Add primary game type, defaulting to the first listed if not set
+        game_types = server.get("gameTypes", [])
+        server["primaryGameType"] = server.get("primaryGameType") or (
+            game_types[0] if game_types else None
+        )
+
+        # Enrich server data
+        if "id" not in server:
+            print(f"Skipping {server_id} as it's missing 'id'")
+            continue
+        server["inactive"] = server["id"] in inactive
+        server["enriched"] = is_enriched(server, server_id, servers_dir)
+        
+        # Discard inactive servers if not including inactive (by default we do)
+        if not include_inactive and server["inactive"]:
+            continue
+
+        # Generate image URLs
+        cdn = "https://servermappings.lunarclientcdn.com"
+        server["images"] = {}
+
+        logo_path = f"{servers_dir}/{server_id}/logo.png"
+        if os.path.isfile(logo_path):
+            logo_asset = f"assets/{server_id}/{_file_hash(logo_path)}.png"
+            server["images"]["logo"] = f"{cdn}/cdn-cgi/image/width=512,height=512,format=auto/{logo_asset}"
+            server["images"]["logo-256"] = f"{cdn}/cdn-cgi/image/width=256,height=256,format=auto/{logo_asset}"
+            server["images"]["logo-128"] = f"{cdn}/cdn-cgi/image/width=128,height=128,format=auto/{logo_asset}"
+            server["images"]["logo-64"] = f"{cdn}/cdn-cgi/image/width=64,height=64,format=auto/{logo_asset}"
+            server["images"]["logo-32"] = f"{cdn}/cdn-cgi/image/width=32,height=32,format=auto/{logo_asset}"
+
+        background_path = f"{servers_dir}/{server_id}/background.png"
+        if os.path.isfile(background_path):
+            server["images"]["background"] = f"{cdn}/cdn-cgi/image/format=auto/assets/{server_id}/{_file_hash(background_path)}.png"
+            server["images"]["background-720"] = f"{cdn}/cdn-cgi/image/width=1280,height=720,format=auto/assets/{server_id}/{_file_hash(background_path)}.png"
+            server["images"]["background-480"] = f"{cdn}/cdn-cgi/image/width=852,height=480,format=auto/assets/{server_id}/{_file_hash(background_path)}.png"
+
+        banner_path = f"{servers_dir}/{server_id}/banner.png"
+        if os.path.isfile(banner_path):
+            server["images"]["banner"] = f"{cdn}/cdn-cgi/image/format=auto/assets/{server_id}/{_file_hash(banner_path)}.png"
+
+        wordmark_path = f"{servers_dir}/{server_id}/wordmark.png"
+        if os.path.isfile(wordmark_path):
+            server["images"]["wordmark"] = f"{cdn}/cdn-cgi/image/format=auto/assets/{server_id}/{_file_hash(wordmark_path)}.png"
+        
+        # Add translations for descriptions
+        if translations and "description" in server:
+            # Iterate through each locale and add the description if it exists
+            for locale, translation in translations.items():
+                if server["id"] in translation:
+                    # Create key if it doesn't exist
+                    if "localizedDescriptions" not in server:
+                        server["localizedDescriptions"] = {}
+
+                    # Add the translation if doesnt match
+                    if translation[server["id"]]["description"] != server["description"]:
+                        server["localizedDescriptions"][locale] = translation[server["id"]]["description"]
+
+        # Add to list
+        servers.append(server)
+
+    # Sort A-Z
+    servers.sort(key=lambda x: x["id"])
+
+    return servers
+
+
+def get_all_versions(versions) -> list[str]:
+    """
+    This function takes a list of versions that could be either subversions or
+    major versions, and if it is a major version (denoted by the astrix), it
+    will include all of the subversions from that major version.
+
+    Parameters:
+        versions (list): The list of versions.
+
+    Returns:
+        list: The list of all versions.
+    """
+    to_return: list[str] = []
+
+    for version in versions:
+        if version in MAJOR_ALL:
+            to_return.extend(MAJOR_ALL[version])
+        else:
+            to_return.append(version)
+
+    return to_return
+
+
+def is_enriched(server: dict, server_id: str, servers_dir: str) -> bool:
+    """
+    This function checks though different criteria to determine whether a
+    server is "enriched". A server within ServerMappings being deemed "enriched"
+    allows the listing to show up in more visible placements within Lunar Client.
+
+    Parameters:
+        server (dict): The server data.
+        server_id (str): The server id.
+        servers_dir (str): The directory where the server data is stored.
+
+    Returns:
+        bool: Whether the server is deemed "enriched".
+    """
+
+    # Check Images
+    logo_path = f"{servers_dir}/{server_id}/logo.png"
+    background_path = f"{servers_dir}/{server_id}/background.png"
+
+    # Check if valid files / paths
+    if not os.path.isfile(logo_path) or not os.path.isfile(background_path):
+        return False
+
+    # Check Primary IP
+    if not "primaryAddress" in server:
+        return False
+
+    return True
+
+
+def get_edited_servers():
+    """
+    This gets all the edited servers in this pull request
+
+    Returns:
+        set[str]: A set of server IDs that have been edited in this pull request.
+    """
+    pull_id = os.getenv("PR_ID")
+    edited_server_ids = set() # 4 files in a server can be edited
+
+    if not pull_id:
+        print("No pull request id found. Unable to get edited servers")
+        return edited_server_ids
+
+    token = os.getenv("GITHUB_TOKEN")
+    res = requests.get(
+        f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
+        headers={
+            "accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {token}",
+        },
+        timeout=30,
+    )
+    
+    res.raise_for_status()
+
+    for file in res.json():
+        file_name: str = file['filename']
+        if not file_name.startswith("servers/"):
+            continue
+        split_path = file_name.split("/")
+        edited_server_ids.add(split_path[1])
+    return edited_server_ids
+
+
+def gif_to_sprite_sheet(path):
+    """
+    This function converts a gif image to a sprite sheet.
+
+    Parameters:
+        path (str): The path to the gif image.
+
+    Returns:
+        Image: A sprite sheet image.
+    """
+    img = image.open(path)
+    sprite_img = image.new("RGBA", (img.width, img.height * img.n_frames))
+
+    for idx in range(0, img.n_frames):
+        img.seek(idx)
+        sprite_img.paste(img, (0, img.height * idx))
+    return sprite_img
+
+
+def validate_logo(path, server_name) -> list[str]:
+    """
+    Validate that server logo meets the following requirements:
+      * exists in logos folder
+      * is a PNG
+      * has a 1:1 aspect ratio
+      * is greater than 512 pixels in width / height
+
+    Parameters:
+        path (str): The path to the server logo.
+        server_name (str): The name of the server.
+
+    Returns:
+        list: A list of error messages if the logo does not meet the requirements. If the
+              logo meets all the requirements, an empty list is returned.
+    """
+
+    # Check image exists
+    if not os.path.isfile(path):
+        return [
+            f"{server_name}'s server logo does not exist... Please ensure the file name matches the server ID and is a PNG."
+        ]
+
+    errors = []
+    logo_image = image.open(path)
+
+    # Check image format is a PNG
+    if logo_image.format not in ["PNG"]:
+        errors.append(
+            f"{server_name}'s server logo is not a PNG (currently {logo_image.format})..."
+        )
+
+    # Check image dimensions are a 1:1 ratio
+    if logo_image.width != logo_image.height:
+        errors.append(
+            f"{server_name}'s server logo does not have a 1:1 aspect ratio..."
+        )
+
+    # Check image dimensions are at least 512px
+    if logo_image.width < 512:
+        errors.append(
+            f"{server_name}'s server logo width/height is less than 512px..."
+        )
+
+    return errors
+
+
+def validate_background(path, server_name) -> list[str]:
+    """
+    Validate that server background meets the following requirements:
+      * is a PNG
+      * has a 16:9 aspect ratio
+      * is greater than 1920 pixels in width and 1080 pixels in height
+
+    Parameters:
+        path (str): The path to the server background.
+        server_name (str): The name of the server.
+
+    Returns:
+        list: A list of error messages if the background does not meet the requirements. If the
+              background meets all the requirements, an empty list is returned.
+    """
+
+    # Check image exits - silently skip if not (as it is not yet a requirement)
+    if not os.path.isfile(path):
+        print(f"No background found for {server_name}... skipping.")
+        return []
+
+    errors = []
+    background_image = image.open(path)
+
+    # Check image format is a PNG
+    if background_image.format not in ["PNG"]:
+        errors.append(
+            f"{server_name}'s server background is not a PNG (currently {background_image.format})..."
+        )
+
+    # Check image dimensions are a 16:9 ratio
+    aspect_ratio = round(background_image.width / background_image.height, 2)
+    if aspect_ratio != 1.78:
+        errors.append(
+            f"{server_name}'s server background does not have a 16:9 aspect ratio..."
+        )
+
+    # Check image dimensions are at least 512px
+    if background_image.width < 1920:
+        errors.append(
+            f"{server_name}'s server background resolution is less than 1920x1080..."
+        )
+
+    return errors
+
+
+def validate_banner(path: str, server_name: str) -> list[str]:
+    """
+    Validate that server banner meets the following requirements:
+      * is a PNG or GIF
+      * is 468x60 pixels
+      * we can convert it to a sprite image without it erroring.
+
+    Parameters:
+        path (str): The path to the server banner.
+        server_name (str): The name of the server.
+
+    Returns:
+        list: A list of error messages if the banner does not meet the requirements. If the
+              banner meets all the requirements, an empty list is returned.
+    """
+
+    if not os.path.isfile(path):
+        print(f"No banner found for {server_name}... skipping.")
+        return []
+
+    banner_image = image.open(path)
+    errors = []
+
+    # Incorrect input format
+    if banner_image.format not in {"PNG", "GIF"}:
+        errors.append(
+            f"{server_name}'s server banner is not a PNG or GIF (currently {banner_image.format})..."
+        )
+
+    # Process GIF properties
+    if banner_image.format == "GIF" and banner_image.n_frames > 1:
+        duration = banner_image.info["duration"]
+        total_duration = duration
+        # Loop through all the frames, rather than just do duration * n_frames, because GIF
+        # files can have different durations for each frame.
+        for idx in range(1, banner_image.n_frames):
+            banner_image.seek(idx)
+            total_duration += duration
+
+        # GIF too long
+        if total_duration > 15_000:
+            errors.append(
+                f"{server_name}'s server banner is more than 15 seconds long (currently {total_duration / 1000})..."
+            )
+
+        # No duration found
+        if total_duration == 0:
+            errors.append(
+                f"{server_name}'s server gif server banner seems to not have any duration associated with it..."
+            )
+
+    if banner_image.width != 468 or banner_image.height != 60:
+        errors.append(f"{server_name}'s server banner is not 468x60...")
+
+    sprite = gif_to_sprite_sheet(path)
+
+    # Too big
+    if sprite.height > 16383 or sprite.width > 16383:
+        errors.append(
+            f"{server_name}'s server banner is either too tall as a sprite image, or too wide. we're unable to convert this later..."
+        )
+
+
+    return errors
+
+def validate_wordmark(path: str, server_name: str) -> list[str]:
+    """
+    Validate that server wordmark meets the following requirements:
+      * is a PNG
+      * has a 16:9 aspect ratio
+      * is greater than 854 pixels in width and 480 pixels in height
+
+    Parameters:
+        path (str): The path to the server wordmark.
+        server_name (str): The name of the server.
+
+    Returns:
+        list: A list of error messages if the wordmark does not meet the requirements. If the
+              banner meets all the requirements, an empty list is returned.
+    """
+
+    if not os.path.isfile(path):
+        print(f"No wordmark found for {server_name}... skipping.")
+        return []
+    
+    wordmark_image = image.open(path)
+    errors = []
+
+    # Check image format is a PNG
+    if wordmark_image.format not in ["PNG"]:
+        errors.append(
+            f"{server_name}'s server wordmark is not a PNG (currently {wordmark_image.format})..."
+        )
+    
+
+    # Width or height too small
+    if wordmark_image.width < 854 or wordmark_image.height < 480:
+        errors.append(
+            f"{server_name}'s server wordmark is less than 854x480..."
+        )
+    
+
+    aspect_ratio = round(wordmark_image.width / wordmark_image.height, 2)
+    # Incorrect aspect ratio
+    if aspect_ratio != 1.78:
+        errors.append(
+            f"{server_name}'s server wordmark does not have a 16:9 aspect ratio..."
+        )
+
+    
+    return errors
+
+
+def collect_translations(servers: list[dict]) -> dict:
+    """
+    Collects the translations from the servers list
+
+    Parameters:
+        servers (list): The list of servers.
+
+    Returns:
+        dict: A dictionary of server IDs and their descriptions.
+    """
+    translations = {}
+    for server in servers:
+        if 'description' in server:
+            translations[server['id']] = { "description": server['description'] }
+    return translations

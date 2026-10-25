@@ -1,1 +1,68 @@
-aW1wb3J0IG9zLCB0aW1lLCBqc29uLCBzdGF0aXN0aWNzCgpkZWYgcmQocCk6CiAgICB3aXRoIG9wZW4ocCkgYXMgZjogcmV0dXJuIGYucmVhZCgpCgpkZWYgb3JnYW5fY3B1KCk6ICAgIyDmnKzmiJHku6PosKLvvJrmiJHmtojogJfnmoRDUFXml7bpl7QKICAgIHMgPSByZCgnL3Byb2Mvc2VsZi9zdGF0Jykuc3BsaXQoKQogICAgcmV0dXJuIGludChzWzEzXSkgKyBpbnQoc1sxNF0pCmRlZiBvcmdhbl9zeXNjKCk6ICAjIOWKqOS9nOiuoeaVsO+8muezu+e7n+iwg+eUqOasoeaVsAogICAgdiA9IHt9CiAgICBmb3IgbGluZSBpbiByZCgnL3Byb2Mvc2VsZi9pbycpLnNwbGl0bGluZXMoKToKICAgICAgICBrLCB4ID0gbGluZS5zcGxpdCgnOicpOyB2W2suc3RyaXAoKV0gPSBpbnQoeCkKICAgIHJldHVybiB2WydzeXNjciddICsgdlsnc3lzY3cnXQpkZWYgb3JnYW5fbG9hZCgpOiAgIyDnjq/looPmi6XmjKTluqYKICAgIHJldHVybiBmbG9hdChyZCgnL3Byb2MvbG9hZGF2ZycpLnNwbGl0KClbMF0pICogMTAwMApkZWYgb3JnYW5fbWVtKCk6ICAgIyDkvZPmtrLvvJrlj6/nlKjlhoXlrZgKICAgIGZvciBsaW5lIGluIHJkKCcvcHJvYy9tZW1pbmZvJykuc3BsaXRsaW5lcygpOgogICAgICAgIGlmIGxpbmUuc3RhcnRzd2l0aCgnTWVtQXZhaWxhYmxlJyk6IHJldHVybiBpbnQobGluZS5zcGxpdCgpWzFdKQogICAgcmV0dXJuIDAKZGVmIG9yZ2FuX25ldCgpOiAgICMg5b6q546v57O757uf77ya572R57uc5a2X6IqCCiAgICB0b3QgPSAwCiAgICBmb3IgbGluZSBpbiByZCgnL3Byb2MvbmV0L2RldicpLnNwbGl0bGluZXMoKVsyOl06CiAgICAgICAgcCA9IGxpbmUuc3BsaXQoJzonLDEpWzFdLnNwbGl0KCk7IHRvdCArPSBpbnQocFswXSkgKyBpbnQocFs4XSkKICAgIHJldHVybiB0b3QKZGVmIG9yZ2FuX2VudCgpOiAgICMg54a15oSfCiAgICByZXR1cm4gaW50KHJkKCcvcHJvYy9zeXMva2VybmVsL3JhbmRvbS9lbnRyb3B5X2F2YWlsJykpCgpPUkdBTlMgPSB7J2NwdSc6b3JnYW5fY3B1LCdzeXNjJzpvcmdhbl9zeXNjLCdsb2FkJzpvcmdhbl9sb2FkLAogICAgICAgICAgJ21lbSc6b3JnYW5fbWVtLCduZXQnOm9yZ2FuX25ldCwnZW50Jzpvcmdhbl9lbnR9CgojIC0tLSAxLiDor7vlj5blvIDplIAgLS0tCmNvc3QgPSB7fQpmb3IgbmFtZSwgZm4gaW4gT1JHQU5TLml0ZW1zKCk6CiAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyX25zKCkKICAgIGZvciBfIGluIHJhbmdlKDIwKTogZm4oKQogICAgY29zdFtuYW1lXSA9ICh0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwKS8yMC8xMDAwICAjIHVzCgojIC0tLSAyLiDmtLvluqbvvJrkuI3lgZrku7vkvZXkuovvvIzpgJrpgZPoh6rlt7HlnKjliqjlkJcgLS0tCmRlZiBsb2FkX3dvcmsobik6CiAgICB4ID0gMAogICAgZm9yIGkgaW4gcmFuZ2Uobik6IHggPSAoeCArIGkqaSkgJSAxMDAwMDAzCiAgICByZXR1cm4geAphY3Rpdml0eSA9IHt9CmZvciBuYW1lLCBmbiBpbiBPUkdBTlMuaXRlbXMoKToKICAgIHNhbXBsZXMgPSBbZm4oKSBmb3IgXyBpbiByYW5nZSgzMCldCiAgICBhY3Rpdml0eVtuYW1lXSA9IHsnZGlzdGluY3QnOiBsZW4oc2V0KHNhbXBsZXMpKSwgJ3NwcmVhZCc6IG1heChzYW1wbGVzKS1taW4oc2FtcGxlcyl9CiAgICBsb2FkX3dvcmsoMjAwMDAwKQoKIyAtLS0gMy4g5ZON5bqU5oCn77ya5oiR5YGa6YeN5rS7IHZzIOi9u+a0u++8jOmAmumBk+WPmOWQlyAtLS0KcmVzcCA9IHt9CkEgPSBbXQpmb3IgaSBpbiByYW5nZSgxMik6CiAgICBsb2FkX3dvcmsoMjAwMDApCiAgICBBLmFwcGVuZCh7bjogZigpIGZvciBuLCBmIGluIE9SR0FOUy5pdGVtcygpfSkKQiA9IFtdCmZvciBpIGluIHJhbmdlKDEyKToKICAgIGxvYWRfd29yayg4MDAwMCkKICAgIEIuYXBwZW5kKHtuOiBmKCkgZm9yIG4sIGYgaW4gT1JHQU5TLml0ZW1zKCl9KQojIOeUqOW3ruWAvO+8iM6U77yJ6ICM6Z2e57ud5a+55YC84oCU4oCU5qKv5bqm6K+75Ye6CmZvciBuYW1lIGluIE9SR0FOUzoKICAgIGRhID0gW0FbaSsxXVtuYW1lXS1BW2ldW25hbWVdIGZvciBpIGluIHJhbmdlKGxlbihBKS0xKV0KICAgIGRiID0gW0JbaSsxXVtuYW1lXS1CW2ldW25hbWVdIGZvciBpIGluIHJhbmdlKGxlbihCKS0xKV0KICAgIG1hLCBtYiA9IHN0YXRpc3RpY3MubWVhbihkYSksIHN0YXRpc3RpY3MubWVhbihkYikKICAgIHNhLCBzYiA9IHN0YXRpc3RpY3MucHN0ZGV2KGRhKSwgc3RhdGlzdGljcy5wc3RkZXYoZGIpCiAgICBwb29sZWQgPSAoKHNhKioyK3NiKioyKS8yKSoqMC41CiAgICByZXNwW25hbWVdID0geydtZWFuX2xpZ2h0JzptYSwnbWVhbl9oZWF2eSc6bWIsJ2QnOihtYi1tYSkvcG9vbGVkIGlmIHBvb2xlZD4wIGVsc2UgMC4wfQoKcHJpbnQoanNvbi5kdW1wcyh7J2Nvc3RfdXMnOmNvc3QsJ2FjdGl2aXR5JzphY3Rpdml0eSwncmVzcG9uc2UnOnJlc3B9LCBpbmRlbnQ9MSwgZW5zdXJlX2FzY2lpPUZhbHNlKSkK
+import os, time, json, statistics
+
+def rd(p):
+    with open(p) as f: return f.read()
+
+def organ_cpu():   # 本我代谢：我消耗的CPU时间
+    s = rd('/proc/self/stat').split()
+    return int(s[13]) + int(s[14])
+def organ_sysc():  # 动作计数：系统调用次数
+    v = {}
+    for line in rd('/proc/self/io').splitlines():
+        k, x = line.split(':'); v[k.strip()] = int(x)
+    return v['syscr'] + v['syscw']
+def organ_load():  # 环境拥挤度
+    return float(rd('/proc/loadavg').split()[0]) * 1000
+def organ_mem():   # 体液：可用内存
+    for line in rd('/proc/meminfo').splitlines():
+        if line.startswith('MemAvailable'): return int(line.split()[1])
+    return 0
+def organ_net():   # 循环系统：网络字节
+    tot = 0
+    for line in rd('/proc/net/dev').splitlines()[2:]:
+        p = line.split(':',1)[1].split(); tot += int(p[0]) + int(p[8])
+    return tot
+def organ_ent():   # 熵感
+    return int(rd('/proc/sys/kernel/random/entropy_avail'))
+
+ORGANS = {'cpu':organ_cpu,'sysc':organ_sysc,'load':organ_load,
+          'mem':organ_mem,'net':organ_net,'ent':organ_ent}
+
+# --- 1. 读取开销 ---
+cost = {}
+for name, fn in ORGANS.items():
+    t0 = time.perf_counter_ns()
+    for _ in range(20): fn()
+    cost[name] = (time.perf_counter_ns()-t0)/20/1000  # us
+
+# --- 2. 活度：不做任何事，通道自己在动吗 ---
+def load_work(n):
+    x = 0
+    for i in range(n): x = (x + i*i) % 1000003
+    return x
+activity = {}
+for name, fn in ORGANS.items():
+    samples = [fn() for _ in range(30)]
+    activity[name] = {'distinct': len(set(samples)), 'spread': max(samples)-min(samples)}
+    load_work(200000)
+
+# --- 3. 响应性：我做重活 vs 轻活，通道变吗 ---
+resp = {}
+A = []
+for i in range(12):
+    load_work(20000)
+    A.append({n: f() for n, f in ORGANS.items()})
+B = []
+for i in range(12):
+    load_work(80000)
+    B.append({n: f() for n, f in ORGANS.items()})
+# 用差值（Δ）而非绝对值——梯度读出
+for name in ORGANS:
+    da = [A[i+1][name]-A[i][name] for i in range(len(A)-1)]
+    db = [B[i+1][name]-B[i][name] for i in range(len(B)-1)]
+    ma, mb = statistics.mean(da), statistics.mean(db)
+    sa, sb = statistics.pstdev(da), statistics.pstdev(db)
+    pooled = ((sa**2+sb**2)/2)**0.5
+    resp[name] = {'mean_light':ma,'mean_heavy':mb,'d':(mb-ma)/pooled if pooled>0 else 0.0}
+
+print(json.dumps({'cost_us':cost,'activity':activity,'response':resp}, indent=1, ensure_ascii=False))

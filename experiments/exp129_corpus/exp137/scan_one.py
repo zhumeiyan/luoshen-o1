@@ -1,1 +1,13 @@
-aW1wb3J0IHN5cywganNvbgpzeXMucGF0aC5pbnNlcnQoMCwgIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL292ZXJzZWFzIikKZnJvbSBldmFsZ3VhcmQgaW1wb3J0IGNsaQpmcm9tIGV2YWxndWFyZC5jbGkgaW1wb3J0IHNjYW4KY2xpLlBST19PTlswXSA9IFRydWUKcCA9IHN5cy5hcmd2WzFdCnRyeToKICAgIHIgPSBzY2FuKHApCmV4Y2VwdCBTeW50YXhFcnJvciBhcyBlOgogICAgciA9IFt7ImVnX2lkIjogIlBBUlNFRkFJTCIsICJzZXZlcml0eSI6ICJpbmZvIiwgImhpdHMiOiBbeyJsaW5lIjogMCwgImhpdCI6IHN0cihlKVs6ODBdfV19XQpleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICByID0gW3siZWdfaWQiOiAiQ1JBU0giLCAic2V2ZXJpdHkiOiAiaW5mbyIsICJoaXRzIjogW3sibGluZSI6IDAsICJoaXQiOiBzdHIoZSlbOjgwXX1dfV0KcHJpbnQoanNvbi5kdW1wcyh7ImZpbGUiOiBwLnNwbGl0KCIvIilbLTFdLCAicmVzIjogcn0pKQo=
+import sys, json
+sys.path.insert(0, "/data/workspace/luoshen-o1/overseas")
+from evalguard import cli
+from evalguard.cli import scan
+cli.PRO_ON[0] = True
+p = sys.argv[1]
+try:
+    r = scan(p)
+except SyntaxError as e:
+    r = [{"eg_id": "PARSEFAIL", "severity": "info", "hits": [{"line": 0, "hit": str(e)[:80]}]}]
+except Exception as e:
+    r = [{"eg_id": "CRASH", "severity": "info", "hits": [{"line": 0, "hit": str(e)[:80]}]}]
+print(json.dumps({"file": p.split("/")[-1], "res": r}))

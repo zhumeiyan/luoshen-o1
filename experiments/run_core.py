@@ -1,1 +1,180 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCua0m+elniBPMSDCtyDmoLjlv4Pnu5PorrrlpI3njrDohJrmnKzvvIjlm5vpobnvvIkKCueUqOazle+8mgogICAgcHl0aG9uMyBleHBlcmltZW50cy9ydW5fY29yZS5weSAgICAgICAgICAgICMg5YWo6LeR77yM5YaZIGRhdGEvY29yZV9yZXN1bHRzLmpzb24KICAgIHB5dGhvbjMgZXhwZXJpbWVudHMvcnVuX2NvcmUucHkgLS1xdWljayAgICAjIOWPqui3kSBB77yI5q275Lqh5omr5o+P77yJCgrljp/liJnvvJrmiYDmnInmlbDlrZfnlLHmnKzohJrmnKzlvZPlnLrot5Hlh7rvvIzkuI3or7vlrZjmoaPjgIHkuI3lhpnmrbvluLjph4/jgIIKIiIiCmltcG9ydCBzeXMsIG9zLCBqc29uLCBhcmdwYXJzZQppbXBvcnQgbnVtcHkgYXMgbnAKCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJy4uJywgJ2NvcmUnKSkKdHJ5OgogICAgZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNSAgICMg6KOF5YyF6L+Q6KGM77yIcGlwIGluc3RhbGwgLu+8iQpleGNlcHQgSW1wb3J0RXJyb3I6ICAgICAgICAgICAgICAgIyDmupDnoIHov5DooYzvvIhjb3JlLyDnm7TmjqXlnKggc3lzLnBhdGjvvIkKICAgIGZyb20gbGlmZTUgaW1wb3J0IExpZmU1ICAgIyBub3FhCgpTVEVQUyA9IDYwMApXQVJNID0gMzAwICAgICAgICAgICMg5Y+W6IiN5a6e6aqM55qEIumlvyLnqpflj6MKCgpkZWYgbWFrZV9zdGFydmVyKGNoLCB3YXJtKToKICAgICIiIuWJjSB3YXJtIOaLjeW8uuWItuS4jee7memAmumBkyBjaCDliIbphY3vvIjnnJ/lrp7noazlj5boiI3vvInvvIzkuYvlkI7lrozlhajmlL7lvIDjgIIiIiIKICAgIGRlZiBhbGxvYyh3YW50LCBCLCBzKToKICAgICAgICBvID0gbnAuYXJnc29ydCgtd2FudCkKICAgICAgICBhID0gbnAuemVyb3Mocy5OKQogICAgICAgIGxlZnQgPSBCCiAgICAgICAgZm9yIGkgaW4gbzoKICAgICAgICAgICAgaWYgcy50IDwgd2FybSBhbmQgaSA9PSBjaDoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHRrID0gbWluKHdhbnRbaV0sIGxlZnQpCiAgICAgICAgICAgIGFbaV0gPSB0awogICAgICAgICAgICBsZWZ0IC09IHRrCiAgICAgICAgICAgIGlmIGxlZnQgPD0gMWUtMTI6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgIHJldHVybiBhCiAgICByZXR1cm4gYWxsb2MKCgpkZWYgcnVuKGxmLCBzdGVwcz1TVEVQUyk6CiAgICBsZi5ydW4oc3RlcHMpCiAgICByZXR1cm4gbGYKCgpkZWYgdGFpbF9zaGFyZShsZiwgY2gsIHdhcm09V0FSTSk6CiAgICAiIiLlkI7mrrXvvIh3YXJtIOS5i+WQju+8ieivpemAmumBk+eahOW5s+Wdh+S7vemineOAgiIiIgogICAgcmVjcyA9IFtyIGZvciByIGluIGxmLmxvZyBpZiByWyd0J10gPiB3YXJtXQogICAgaWYgbm90IHJlY3M6CiAgICAgICAgcmV0dXJuIGZsb2F0KCduYW4nKQogICAgcmV0dXJuIGZsb2F0KG5wLm1lYW4oW3JbJ2F2ZWMnXVtjaF0gLyBtYXgoc3VtKHJbJ2F2ZWMnXSksIDFlLTEyKSBmb3IgciBpbiByZWNzXSkpCgoKZGVmIHN0cnVjdF9za2V3KGxmKToKICAgICIiIue7iOaAgee7k+aehOWBj+W6pu+8mmNhcGFjaXR5IOebuOWvueWdh+WMgOeahOW3ruW8gu+8iHN0ZC9tZWFu77yJ44CCIiIiCiAgICBjID0gbnAuYXNhcnJheShsZi5sb2dbLTFdWydjYXB2J10sIGZsb2F0KQogICAgcmV0dXJuIGZsb2F0KGMuc3RkKGRkb2Y9MSkgLyBtYXgoYy5tZWFuKCksIDFlLTEyKSkKCgojIC0tLS0tLS0tLS0gQS4g5q275Lqh5omr5o+P77ya5a6D5Lya5q27IC0tLS0tLS0tLS0KZGVmIGV4cF9BKHNlZWRzPXJhbmdlKDE2KSk6CiAgICBvdXQgPSBbXQogICAgZm9yIHNkIGluIHNlZWRzOgogICAgICAgIGxmID0gTGlmZTUoTj04LCBzZWVkPXNkKQogICAgICAgIHJ1bihsZiwgU1RFUFMpCiAgICAgICAgb3V0LmFwcGVuZChkaWN0KHNlZWQ9aW50KHNkKSwgc3Vydml2ZWQ9Ym9vbChsZi5hbGl2ZSksCiAgICAgICAgICAgICAgICAgICAgICAgIGRlYXRoX3Q9KE5vbmUgaWYgbGYuZGVhdGhfdCBpcyBOb25lIGVsc2UgaW50KGxmLmRlYXRoX3QpKSwKICAgICAgICAgICAgICAgICAgICAgICAgZmluYWxfRT1mbG9hdChsZi5FKSwgZmluYWxfY2FwPWZsb2F0KG5wLm1lYW4obGYuY2FwYWNpdHkpKSkpCiAgICByZXR1cm4gb3V0CgoKIyAtLS0tLS0tLS0tIEIuIOaSpOaOieWFqOmDqOWGs+etluaooeWdl++8jOWPluiIjeS+neeEtuWHuueOsCAtLS0tLS0tLS0tCmRlZiBleHBfQihzZWVkcz1yYW5nZSg4KSwgcHJvYmU9Myk6CiAgICAiIiLlhrPnrZbmqKHlnZcgPSDlr7vmib4oa19zZWVrKeOAgeaYvuiRl+aApyhrX3NhbCnjgIFhcnJpdmFs6aKE5rWLKGtfc2Vla19hcnIp44CBS1BJKGtwaV9wdXNoKe+8jAogICAg5YWo6YOo5L+d5oyB5byV5pOO6buY6K6kIDAg4oCU4oCUIOWNsyLmsqHmnInlhrPnrZbmqKHlnZci44CCCiAgICDliY0gMzAwIOaLjeWIhuWIq+mlv+mAmumBkyAzIC8g6YCa6YGTIDXvvIzkuYvlkI7kuKTnu4TnmoTmnaHku7blrozlhajnm7jlkIzvvJsKICAgIOS4pOe7hOmDvea1i+OAkOWQjOS4gOS4quaOoumSiOmAmumBkyBwcm9iZT0z44CR55qE5ZCO5q615Lu96aKd44CCIiIiCiAgICByb3dzID0gW10KICAgIGZvciBzZCBpbiBzZWVkczoKICAgICAgICBzaCA9IHt9CiAgICAgICAgZm9yIHN0YXJ2ZSBpbiAoMywgNSk6CiAgICAgICAgICAgIGxmID0gTGlmZTUoTj04LCBzZWVkPXNkLCBhbGxvY19mbj1tYWtlX3N0YXJ2ZXIoc3RhcnZlLCBXQVJNKSkKICAgICAgICAgICAgcnVuKGxmLCBTVEVQUykKICAgICAgICAgICAgc2hbc3RhcnZlXSA9IHRhaWxfc2hhcmUobGYsIHByb2JlKQogICAgICAgIHIgPSBkaWN0KHNlZWQ9aW50KHNkKSwgc2hhcmVfczM9c2hbM10sIHNoYXJlX3M1PXNoWzVdLAogICAgICAgICAgICAgICAgIGRlbHRhPXNoWzNdIC0gc2hbNV0pCiAgICAgICAgcm93cy5hcHBlbmQocikKICAgIGQgPSBucC5hcnJheShbclsnZGVsdGEnXSBmb3IgciBpbiByb3dzXSkKICAgIG5lZyA9IGludChucC5zdW0oZCA8IDApKQogICAgcmV0dXJuIGRpY3Qocm93cz1yb3dzLCBwcm9iZT1wcm9iZSwKICAgICAgICAgICAgICAgIG1lYW5fczM9ZmxvYXQobnAubWVhbihbclsnc2hhcmVfczMnXSBmb3IgciBpbiByb3dzXSkpLAogICAgICAgICAgICAgICAgbWVhbl9zNT1mbG9hdChucC5tZWFuKFtyWydzaGFyZV9zNSddIGZvciByIGluIHJvd3NdKSksCiAgICAgICAgICAgICAgICBtZWFuX2RlbHRhPWZsb2F0KGQubWVhbigpKSwgc2U9ZmxvYXQoZC5zdGQoZGRvZj0xKS9ucC5zcXJ0KGxlbihkKSkpLAogICAgICAgICAgICAgICAgc2lnbl9jb25zaXN0ZW50PW5lZywgbj1sZW4ocm93cykpCgoKIyAtLS0tLS0tLS0tIEMuIOeogOe8uiDDlyDkuI3lj6/pgIYg5piv54SK5q2755qEIC0tLS0tLS0tLS0KZGVmIGV4cF9DKHNlZWRzPXJhbmdlKDgpKToKICAgICIiIjJ4Mu+8mueogOe8uuW8gC/lhbMgw5cg5LiN5Y+v6YCG5byAL+WFs+OAggogICAg56iA57y65YWzID0gcmF0aW8g5p6B5aSn77yI6KaB5aSa5bCR57uZ5aSa5bCR77yJ77yb5LiN5Y+v6YCG5YWzID0gY2FwX2RlY2F5PTDjgIIKICAgIOeci++8mue7iOaAgSBjYXBhY2l0eSDmmK/lkKblvaLmiJDnlqTnl5UgLyDmmK/lkKbloYzlm57lnYfljIDjgIIiIiIKICAgIHJlcyA9IHt9CiAgICBmb3Igc2MgaW4gKFRydWUsIEZhbHNlKToKICAgICAgICBmb3IgaXIgaW4gKFRydWUsIEZhbHNlKToKICAgICAgICAgICAga2V5ID0gZiJzY2FyY2l0eV97aW50KHNjKX1faXJyZXZfe2ludChpcil9IgogICAgICAgICAgICB2YWxzID0gW10KICAgICAgICAgICAgZm9yIHNkIGluIHNlZWRzOgogICAgICAgICAgICAgICAga3cgPSBkaWN0KE49OCwgc2VlZD1zZCkKICAgICAgICAgICAgICAgIGlmIG5vdCBzYzoKICAgICAgICAgICAgICAgICAgICBrd1sncmF0aW8nXSA9IDUwLjAgICAgICAgIyDpooTnrpfmnoHlpKcg4oaSIOS4jeWGjeWPluiIjQogICAgICAgICAgICAgICAgaWYgbm90IGlyOgogICAgICAgICAgICAgICAgICAgIGt3WydjYXBfZGVjYXknXSA9IDAuMCAgICAjIOS4jeeVmeeWpAogICAgICAgICAgICAgICAgbGYgPSBMaWZlNSgqKmt3KQogICAgICAgICAgICAgICAgcnVuKGxmLCBTVEVQUykKICAgICAgICAgICAgICAgIHZhbHMuYXBwZW5kKHN0cnVjdF9za2V3KGxmKSkKICAgICAgICAgICAgdiA9IG5wLmFycmF5KHZhbHMpCiAgICAgICAgICAgIHJlc1trZXldID0gZGljdChtZWFuX3NrZXc9ZmxvYXQodi5tZWFuKCkpLCBzZT1mbG9hdCh2LnN0ZChkZG9mPTEpL25wLnNxcnQobGVuKHYpKSkpCiAgICByZXR1cm4gcmVzCgoKIyAtLS0tLS0tLS0tIEQuIOWFs+mUruacn++8muaXqeacn+W8leWvvOaSpOmZpOWQjuS/neeVmeWkmuWwkSAtLS0tLS0tLS0tCmRlZiBleHBfRChzZWVkcz1yYW5nZSg4KSwga3BpPTAuMzApOgogICAgIiIi5aSW6YOo5byV5a+877yIa3BpX3B1c2jvvInlnKjkuI3lkIznqpflj6Pmlr3liqDvvIznnIvnu4jmgIHnu5PmnoTlgY/luqbnmoTkv53nlZnnjofjgIIKICAgIOeql+WPo++8muaXqeacnyAwLTE1MCAvIOS4reacnyAxNTAtMzAwIC8g5pma5pyfIDMwMC00NTAgLyDlhajnqIsgLyDml6DjgIIiIiIKICAgIHdpbnMgPSB7J2Vhcmx5JzogKDAsIDE1MCksICdtaWQnOiAoMTUwLCAzMDApLCAnbGF0ZSc6ICgzMDAsIDQ1MCksCiAgICAgICAgICAgICdmdWxsJzogKDAsIFNURVBTKSwgJ25vbmUnOiBOb25lfQoKICAgIGRlZiBydW5fd2luZG93KHdpbiwgc2QpOgogICAgICAgIGxmID0gTGlmZTUoTj04LCBzZWVkPXNkKQoKICAgICAgICBkZWYgYWxsb2Mod2FudCwgQiwgcyk6CiAgICAgICAgICAgIGlmIHdpbiBpcyBub3QgTm9uZSBhbmQgd2luWzBdIDw9IHMudCA8IHdpblsxXToKICAgICAgICAgICAgICAgIHdhbnQgPSB3YW50LmNvcHkoKQogICAgICAgICAgICAgICAgd2FudFswXSArPSBrcGkgKiB3YW50LnN1bSgpCiAgICAgICAgICAgIG8gPSBucC5hcmdzb3J0KC13YW50KQogICAgICAgICAgICBhID0gbnAuemVyb3Mocy5OKQogICAgICAgICAgICBsZWZ0ID0gQgogICAgICAgICAgICBmb3IgaSBpbiBvOgogICAgICAgICAgICAgICAgdGsgPSBtaW4od2FudFtpXSwgbGVmdCkKICAgICAgICAgICAgICAgIGFbaV0gPSB0awogICAgICAgICAgICAgICAgbGVmdCAtPSB0awogICAgICAgICAgICAgICAgaWYgbGVmdCA8PSAxZS0xMjoKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICByZXR1cm4gYQogICAgICAgIGxmLmFsbG9jX2ZuID0gYWxsb2MKICAgICAgICBydW4obGYsIFNURVBTKQogICAgICAgIHJldHVybiBzdHJ1Y3Rfc2tldyhsZikKCiAgICByZXMgPSB7fQogICAgZm9yIG5hbWUsIHdpbiBpbiB3aW5zLml0ZW1zKCk6CiAgICAgICAgdiA9IG5wLmFycmF5KFtydW5fd2luZG93KHdpbiwgc2QpIGZvciBzZCBpbiBzZWVkc10pCiAgICAgICAgcmVzW25hbWVdID0gZGljdChtZWFuPWZsb2F0KHYubWVhbigpKSwgc2U9ZmxvYXQodi5zdGQoZGRvZj0xKS9ucC5zcXJ0KGxlbih2KSkpKQogICAgYmFzZSA9IHJlc1snbm9uZSddWydtZWFuJ10KICAgIGZ1bGwgPSByZXNbJ2Z1bGwnXVsnbWVhbiddCiAgICByZXNbJ19yZXRlbnRpb24nXSA9IGZsb2F0KChyZXNbJ2Vhcmx5J11bJ21lYW4nXSAtIGJhc2UpIC8gKGZ1bGwgLSBiYXNlKSkgaWYgYWJzKGZ1bGwgLSBiYXNlKSA+IDFlLTkgZWxzZSBOb25lCiAgICByZXR1cm4gcmVzCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgYXAuYWRkX2FyZ3VtZW50KCctLXF1aWNrJywgYWN0aW9uPSdzdG9yZV90cnVlJykKICAgIGFwLmFkZF9hcmd1bWVudCgnLS1zdGVwcycsIHR5cGU9aW50LCBkZWZhdWx0PVNURVBTKQogICAgYSA9IGFwLnBhcnNlX2FyZ3MoKQogICAgU1RFUFMgPSBhLnN0ZXBzCiAgICBvdXQgPSB7fQogICAgcHJpbnQoJ1tBXSDmrbvkuqHmiavmj48gLi4uJywgZmx1c2g9VHJ1ZSkKICAgIG91dFsnQV9kZWF0aCddID0gZXhwX0EoKQogICAgaWYgbm90IGEucXVpY2s6CiAgICAgICAgcHJpbnQoJ1tCXSDml6DlhrPnrZbmqKHlnZfnmoTlj5boiI0gLi4uJywgZmx1c2g9VHJ1ZSkKICAgICAgICBvdXRbJ0JfdHJhZGVvZmYnXSA9IGV4cF9CKCkKICAgICAgICBwcmludCgnW0NdIOeogOe8usOX5LiN5Y+v6YCGIC4uLicsIGZsdXNoPVRydWUpCiAgICAgICAgb3V0WydDX3dlbGQnXSA9IGV4cF9DKCkKICAgICAgICBwcmludCgnW0RdIOWFs+mUruacnyAuLi4nLCBmbHVzaD1UcnVlKQogICAgICAgIG91dFsnRF93aW5kb3cnXSA9IGV4cF9EKCkKICAgIHAgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJy4uJywgJ2RhdGEnLCAnY29yZV9yZXN1bHRzLmpzb24nKQogICAgd2l0aCBvcGVuKHAsICd3JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAob3V0LCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgcHJpbnQoanNvbi5kdW1wcyhvdXQsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpWzo0MDAwXSkKICAgIHByaW50KCd3cml0dGVuIC0+JywgcCkK
+# -*- coding: utf-8 -*-
+"""
+洛神 O1 · 核心结论复现脚本（四项）
+
+用法：
+    python3 experiments/run_core.py            # 全跑，写 data/core_results.json
+    python3 experiments/run_core.py --quick    # 只跑 A（死亡扫描）
+
+原则：所有数字由本脚本当场跑出，不读存档、不写死常量。
+"""
+import sys, os, json, argparse
+import numpy as np
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
+try:
+    from core.life5 import Life5   # 装包运行（pip install .）
+except ImportError:               # 源码运行（core/ 直接在 sys.path）
+    from life5 import Life5   # noqa
+
+STEPS = 600
+WARM = 300          # 取舍实验的"饿"窗口
+
+
+def make_starver(ch, warm):
+    """前 warm 拍强制不给通道 ch 分配（真实硬取舍），之后完全放开。"""
+    def alloc(want, B, s):
+        o = np.argsort(-want)
+        a = np.zeros(s.N)
+        left = B
+        for i in o:
+            if s.t < warm and i == ch:
+                continue
+            tk = min(want[i], left)
+            a[i] = tk
+            left -= tk
+            if left <= 1e-12:
+                break
+        return a
+    return alloc
+
+
+def run(lf, steps=STEPS):
+    lf.run(steps)
+    return lf
+
+
+def tail_share(lf, ch, warm=WARM):
+    """后段（warm 之后）该通道的平均份额。"""
+    recs = [r for r in lf.log if r['t'] > warm]
+    if not recs:
+        return float('nan')
+    return float(np.mean([r['avec'][ch] / max(sum(r['avec']), 1e-12) for r in recs]))
+
+
+def struct_skew(lf):
+    """终态结构偏度：capacity 相对均匀的差异（std/mean）。"""
+    c = np.asarray(lf.log[-1]['capv'], float)
+    return float(c.std(ddof=1) / max(c.mean(), 1e-12))
+
+
+# ---------- A. 死亡扫描：它会死 ----------
+def exp_A(seeds=range(16)):
+    out = []
+    for sd in seeds:
+        lf = Life5(N=8, seed=sd)
+        run(lf, STEPS)
+        out.append(dict(seed=int(sd), survived=bool(lf.alive),
+                        death_t=(None if lf.death_t is None else int(lf.death_t)),
+                        final_E=float(lf.E), final_cap=float(np.mean(lf.capacity))))
+    return out
+
+
+# ---------- B. 撤掉全部决策模块，取舍依然出现 ----------
+def exp_B(seeds=range(8), probe=3):
+    """决策模块 = 寻找(k_seek)、显著性(k_sal)、arrival预测(k_seek_arr)、KPI(kpi_push)，
+    全部保持引擎默认 0 —— 即"没有决策模块"。
+    前 300 拍分别饿通道 3 / 通道 5，之后两组的条件完全相同；
+    两组都测【同一个探针通道 probe=3】的后段份额。"""
+    rows = []
+    for sd in seeds:
+        sh = {}
+        for starve in (3, 5):
+            lf = Life5(N=8, seed=sd, alloc_fn=make_starver(starve, WARM))
+            run(lf, STEPS)
+            sh[starve] = tail_share(lf, probe)
+        r = dict(seed=int(sd), share_s3=sh[3], share_s5=sh[5],
+                 delta=sh[3] - sh[5])
+        rows.append(r)
+    d = np.array([r['delta'] for r in rows])
+    neg = int(np.sum(d < 0))
+    return dict(rows=rows, probe=probe,
+                mean_s3=float(np.mean([r['share_s3'] for r in rows])),
+                mean_s5=float(np.mean([r['share_s5'] for r in rows])),
+                mean_delta=float(d.mean()), se=float(d.std(ddof=1)/np.sqrt(len(d))),
+                sign_consistent=neg, n=len(rows))
+
+
+# ---------- C. 稀缺 × 不可逆 是焊死的 ----------
+def exp_C(seeds=range(8)):
+    """2x2：稀缺开/关 × 不可逆开/关。
+    稀缺关 = ratio 极大（要多少给多少）；不可逆关 = cap_decay=0。
+    看：终态 capacity 是否形成疤痕 / 是否塌回均匀。"""
+    res = {}
+    for sc in (True, False):
+        for ir in (True, False):
+            key = f"scarcity_{int(sc)}_irrev_{int(ir)}"
+            vals = []
+            for sd in seeds:
+                kw = dict(N=8, seed=sd)
+                if not sc:
+                    kw['ratio'] = 50.0       # 预算极大 → 不再取舍
+                if not ir:
+                    kw['cap_decay'] = 0.0    # 不留疤
+                lf = Life5(**kw)
+                run(lf, STEPS)
+                vals.append(struct_skew(lf))
+            v = np.array(vals)
+            res[key] = dict(mean_skew=float(v.mean()), se=float(v.std(ddof=1)/np.sqrt(len(v))))
+    return res
+
+
+# ---------- D. 关键期：早期引导撤除后保留多少 ----------
+def exp_D(seeds=range(8), kpi=0.30):
+    """外部引导（kpi_push）在不同窗口施加，看终态结构偏度的保留率。
+    窗口：早期 0-150 / 中期 150-300 / 晚期 300-450 / 全程 / 无。"""
+    wins = {'early': (0, 150), 'mid': (150, 300), 'late': (300, 450),
+            'full': (0, STEPS), 'none': None}
+
+    def run_window(win, sd):
+        lf = Life5(N=8, seed=sd)
+
+        def alloc(want, B, s):
+            if win is not None and win[0] <= s.t < win[1]:
+                want = want.copy()
+                want[0] += kpi * want.sum()
+            o = np.argsort(-want)
+            a = np.zeros(s.N)
+            left = B
+            for i in o:
+                tk = min(want[i], left)
+                a[i] = tk
+                left -= tk
+                if left <= 1e-12:
+                    break
+            return a
+        lf.alloc_fn = alloc
+        run(lf, STEPS)
+        return struct_skew(lf)
+
+    res = {}
+    for name, win in wins.items():
+        v = np.array([run_window(win, sd) for sd in seeds])
+        res[name] = dict(mean=float(v.mean()), se=float(v.std(ddof=1)/np.sqrt(len(v))))
+    base = res['none']['mean']
+    full = res['full']['mean']
+    res['_retention'] = float((res['early']['mean'] - base) / (full - base)) if abs(full - base) > 1e-9 else None
+    return res
+
+
+if __name__ == '__main__':
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--quick', action='store_true')
+    ap.add_argument('--steps', type=int, default=STEPS)
+    a = ap.parse_args()
+    STEPS = a.steps
+    out = {}
+    print('[A] 死亡扫描 ...', flush=True)
+    out['A_death'] = exp_A()
+    if not a.quick:
+        print('[B] 无决策模块的取舍 ...', flush=True)
+        out['B_tradeoff'] = exp_B()
+        print('[C] 稀缺×不可逆 ...', flush=True)
+        out['C_weld'] = exp_C()
+        print('[D] 关键期 ...', flush=True)
+        out['D_window'] = exp_D()
+    p = os.path.join(os.path.dirname(__file__), '..', 'data', 'core_results.json')
+    with open(p, 'w') as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print(json.dumps(out, ensure_ascii=False, indent=2)[:4000])
+    print('written ->', p)

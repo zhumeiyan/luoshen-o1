@@ -1,1 +1,56 @@
-aW1wb3J0IHN5cywgb3MsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMScpCmZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKTj04OyBTVEVQUz00MDA7IEtTRUVLPTEuMApkZWYgZW50KGEpOgogICAgYT1ucC5hc2FycmF5KGEsZmxvYXQpKzFlLTEyOyBwPWEvYS5zdW0oKQogICAgcmV0dXJuIGZsb2F0KC0ocCpucC5sb2cocCkpLnN1bSgpL25wLmxvZyhsZW4ocCkpKQoKZGVmIHJ1bihzZWVkLCBtb2RlLCBhbXA9Mi4wLCBmcm09MTAwLCBzdGVwcz1TVEVQUyk6CiAgICBMPUxpZmU1KE49TixzZWVkPXNlZWQsa19zZWVrPUtTRUVLKTsgTC5pbnB1dF92YWw9MC4wCiAgICBybmc9bnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQqNysxKQogICAgZXM9W107c2g9W10KICAgIGZvciB0IGluIHJhbmdlKHN0ZXBzKToKICAgICAgICBpZiBub3QgTC5hbGl2ZTogYnJlYWsKICAgICAgICBudj1Ob25lCiAgICAgICAgaWYgdD49ZnJtOgogICAgICAgICAgICBpZiBtb2RlPT0i5oGS5a6a5aSa57u0IjogIG52PW5wLmZ1bGwoTixhbXApCiAgICAgICAgICAgIGVsaWYgbW9kZT09Iui9ruaNouWcuuaZryI6IG52PW5wLnplcm9zKE4pOyBudlt0JU5dPWFtcCAgICAgICMg5q+P5ouN5o2i5LiA5aSECiAgICAgICAgICAgIGVsaWYgbW9kZT09Iumaj+acuuWcuuaZryI6IG52PXJuZy5yYW5kb20oTikqYW1wICAgICAgICAgICAgICAjIOavj+aLjemaj+acuuWIhuW4gwogICAgICAgICAgICBlbGlmIG1vZGU9PSLljZXnu7TmgZLlrpoiOiBudj1ucC56ZXJvcyhOKTsgbnZbMF09YW1wCiAgICAgICAgTC5uZXRfcHVzaD1udgogICAgICAgIHI9TC5zdGVwKCkKICAgICAgICBpZiByOgogICAgICAgICAgICBlcy5hcHBlbmQoZW50KHJbImF2ZWMiXSkpOyBhPW5wLmFzYXJyYXkoclsiYXZlYyJdLGZsb2F0KQogICAgICAgICAgICBzaC5hcHBlbmQoYVswXS9hLnN1bSgpIGlmIGEuc3VtKCk+MWUtMTIgZWxzZSAwLjApCiAgICB0YWlsPWVzW2xlbihlcykvLzI6XQogICAgcmV0dXJuIGRpY3QoYWxpdmU9TC5hbGl2ZSwgZW50PWZsb2F0KG5wLm1lYW4odGFpbCkpIGlmIHRhaWwgZWxzZSAwLjAsCiAgICAgICAgICAgICAgICBzaGFyZTA9ZmxvYXQobnAubWVhbihzaFstNTA6XSkpIGlmIHNoIGVsc2UgMC4wKQoKcHJpbnQoIj0iKjg0KQpwcmludCgiIOOAjuWkmuWcuuaZr+OAj+WIsOW6leaYr+S7gOS5iO+8muaBkuWumuWkmue7tCB2cyDova7mjaIgdnMg6ZqP5py6ICAoYW1wPTIuMCwgMjQgc2VlZHMpIikKcHJpbnQoIj0iKjg0KQpwcmludChmIlxueyfliLrmv4DmlrnlvI8nOjwyMH17J+WtmOa0uyc6Pjl9eyflkI7mrrXnhrUnOj4xMH17J+S7veminTAnOj4xMH0iKQpwcmludCgiLSIqODQpCnJlcz17fQpmb3IgbGJsLG0gaW4gWygi5LiN5o6oKOWfuue6vykiLE5vbmUpLCgi5Y2V57u05oGS5a6aIiwi5Y2V57u05oGS5a6aIiksKCLmgZLlrprlpJrnu7QiLCLmgZLlrprlpJrnu7QiKSwKICAgICAgICAgICAgICAoIui9ruaNouWcuuaZryIsIui9ruaNouWcuuaZryIpLCgi6ZqP5py65Zy65pmvIiwi6ZqP5py65Zy65pmvIildOgogICAgcnM9W3J1bihzLG0pIGZvciBzIGluIHJhbmdlKDI0KV0KICAgIHI9ZGljdChhbGl2ZT1zdW0oMSBmb3IgeCBpbiBycyBpZiB4WyJhbGl2ZSJdKSwKICAgICAgICAgICBlbnQ9ZmxvYXQobnAubWVhbihbeFsiZW50Il0gZm9yIHggaW4gcnNdKSksCiAgICAgICAgICAgc2hhcmUwPWZsb2F0KG5wLm1lYW4oW3hbInNoYXJlMCJdIGZvciB4IGluIHJzXSkpKQogICAgcmVzW2xibF09cgogICAgcHJpbnQoZiJ7bGJsOjwyMH17clsnYWxpdmUnXTo+NX0vMjR7clsnZW50J106PjEwLjRmfXtyWydzaGFyZTAnXTo+MTAuNGZ9IikKCnByaW50KCJcbiIrIj0iKjg0KQpwcmludCgiIOe7k+iuuiIpCnByaW50KCI9Iio4NCkKcHJpbnQoZiJcbiAg5a2Y5rS777ya5Z+657q/IHtyZXNbJ+S4jeaOqCjln7rnur8pJ11bJ2FsaXZlJ119LzI0IikKZm9yIGsgaW4gWyLljZXnu7TmgZLlrpoiLCLmgZLlrprlpJrnu7QiLCLova7mjaLlnLrmma8iLCLpmo/mnLrlnLrmma8iXToKICAgIHByaW50KGYiICAgICAgICB7a30ge3Jlc1trXVsnYWxpdmUnXX0vMjQgICDOlHtyZXNba11bJ2FsaXZlJ10tcmVzWyfkuI3mjqgo5Z+657q/KSddWydhbGl2ZSddOitkfSIpCmJlc3Q9bWF4KFsi5oGS5a6a5aSa57u0Iiwi6L2u5o2i5Zy65pmvIiwi6ZqP5py65Zy65pmvIl0sIGtleT1sYW1iZGEgazpyZXNba11bImFsaXZlIl0pCnByaW50KGYiXG4gIOKYhSDmnIDog73mlZHlkb3nmoTvvJp7YmVzdH0gKHtyZXNbYmVzdF1bJ2FsaXZlJ119LzI0KSIpCnByaW50KGYiICDimIUg54a15pyJ5rKh5pyJ5pWR5Zue5p2l77ya5pyA6auYIHttYXgocmVzW2tdWydlbnQnXSBmb3IgayBpbiByZXMpOi40Zn0iCiAgICAgIGYiICDvvIjln7rnur8ge3Jlc1sn5LiN5o6oKOWfuue6vyknXVsnZW50J106LjRmfe+8iSIpCnByaW50KGYiICAgICDihpIg54a15Yeg5LmO5rKh5YqoID0g44CQ5rS75LiL5p2l5LqG77yM5L2G5aSa5qC35oCn5rKh5oGi5aSN44CRIikK
+import sys, os, json
+import numpy as np
+sys.path.insert(0,'/data/workspace/luoshen-o1')
+from core.life5 import Life5
+N=8; STEPS=400; KSEEK=1.0
+def ent(a):
+    a=np.asarray(a,float)+1e-12; p=a/a.sum()
+    return float(-(p*np.log(p)).sum()/np.log(len(p)))
+
+def run(seed, mode, amp=2.0, frm=100, steps=STEPS):
+    L=Life5(N=N,seed=seed,k_seek=KSEEK); L.input_val=0.0
+    rng=np.random.default_rng(seed*7+1)
+    es=[];sh=[]
+    for t in range(steps):
+        if not L.alive: break
+        nv=None
+        if t>=frm:
+            if mode=="恒定多维":  nv=np.full(N,amp)
+            elif mode=="轮换场景": nv=np.zeros(N); nv[t%N]=amp      # 每拍换一处
+            elif mode=="随机场景": nv=rng.random(N)*amp              # 每拍随机分布
+            elif mode=="单维恒定": nv=np.zeros(N); nv[0]=amp
+        L.net_push=nv
+        r=L.step()
+        if r:
+            es.append(ent(r["avec"])); a=np.asarray(r["avec"],float)
+            sh.append(a[0]/a.sum() if a.sum()>1e-12 else 0.0)
+    tail=es[len(es)//2:]
+    return dict(alive=L.alive, ent=float(np.mean(tail)) if tail else 0.0,
+                share0=float(np.mean(sh[-50:])) if sh else 0.0)
+
+print("="*84)
+print(" 『多场景』到底是什么：恒定多维 vs 轮换 vs 随机  (amp=2.0, 24 seeds)")
+print("="*84)
+print(f"\n{'刺激方式':<20}{'存活':>9}{'后段熵':>10}{'份额0':>10}")
+print("-"*84)
+res={}
+for lbl,m in [("不推(基线)",None),("单维恒定","单维恒定"),("恒定多维","恒定多维"),
+              ("轮换场景","轮换场景"),("随机场景","随机场景")]:
+    rs=[run(s,m) for s in range(24)]
+    r=dict(alive=sum(1 for x in rs if x["alive"]),
+           ent=float(np.mean([x["ent"] for x in rs])),
+           share0=float(np.mean([x["share0"] for x in rs])))
+    res[lbl]=r
+    print(f"{lbl:<20}{r['alive']:>5}/24{r['ent']:>10.4f}{r['share0']:>10.4f}")
+
+print("\n"+"="*84)
+print(" 结论")
+print("="*84)
+print(f"\n  存活：基线 {res['不推(基线)']['alive']}/24")
+for k in ["单维恒定","恒定多维","轮换场景","随机场景"]:
+    print(f"        {k} {res[k]['alive']}/24   Δ{res[k]['alive']-res['不推(基线)']['alive']:+d}")
+best=max(["恒定多维","轮换场景","随机场景"], key=lambda k:res[k]["alive"])
+print(f"\n  ★ 最能救命的：{best} ({res[best]['alive']}/24)")
+print(f"  ★ 熵有没有救回来：最高 {max(res[k]['ent'] for k in res):.4f}"
+      f"  （基线 {res['不推(基线)']['ent']:.4f}）")
+print(f"     → 熵几乎没动 = 【活下来了，但多样性没恢复】")

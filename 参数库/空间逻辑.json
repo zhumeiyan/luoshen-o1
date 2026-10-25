@@ -1,1 +1,21 @@
-ewogIuS4gOe7tOmTvijku6PnoIEpIjogewogICLovrnmlbAiOiAxNSwKICAi5bmz5Z2H5bqmIjogMS44OCwKICAi55u05b6EIjogMTUsCiAgIuW5s+Wdh+i3r+W+hCI6IDUuNjcKIH0sCiAi5LqM57u0572R5qC8KOS4reaWhykiOiB7CiAgIui+ueaVsCI6IDI0LAogICLlubPlnYfluqYiOiAzLjAsCiAgIuebtOW+hCI6IDYsCiAgIuW5s+Wdh+i3r+W+hCI6IDIuNjcKIH0sCiAi6L655pWw5q+UIjogMS42LAogIuebtOW+hOavlCI6IDAuNCwKICLkuIDnu7Tpk75f5pat5ZCO6L+e6YCaJSI6IDcxLjksCiAi5LiA57u06ZO+X+aWreWQjuS6kumAmiUiOiA1OC4zLAogIuS6jOe7tOe9keagvF/mlq3lkI7ov57pgJolIjogOTMuOCwKICLkuoznu7TnvZHmoLxf5pat5ZCO5LqS6YCaJSI6IDg3LjUsCiAi6YOo5Lu25o2i5L2N5oiQ5a2XX+e7hOaVsCI6IDExCn0=
+{
+ "一维链(代码)": {
+  "边数": 15,
+  "平均度": 1.88,
+  "直径": 15,
+  "平均路径": 5.67
+ },
+ "二维网格(中文)": {
+  "边数": 24,
+  "平均度": 3.0,
+  "直径": 6,
+  "平均路径": 2.67
+ },
+ "边数比": 1.6,
+ "直径比": 0.4,
+ "一维链_断后连通%": 71.9,
+ "一维链_断后互通%": 58.3,
+ "二维网格_断后连通%": 93.8,
+ "二维网格_断后互通%": 87.5,
+ "部件换位成字_组数": 11
+}

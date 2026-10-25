@@ -1,1 +1,52 @@
-IyBDb3B5cmlnaHQgKGMpIEFuc2libGUgUHJvamVjdAojIEdOVSBHZW5lcmFsIFB1YmxpYyBMaWNlbnNlIHYzLjArIChzZWUgTElDRU5TRVMvR1BMLTMuMC1vci1sYXRlci50eHQgb3IgaHR0cHM6Ly93d3cuZ251Lm9yZy9saWNlbnNlcy9ncGwtMy4wLnR4dCkKIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogR1BMLTMuMC1vci1sYXRlcgoKIyBUaGlzIGZpbGUgb25seSBjb250YWlucyBhIHNlbGVjdGlvbiBvZiB0aGUgbW9zdCBjb21tb24gb3B0aW9ucy4gRm9yIGEgZnVsbCBsaXN0IHNlZSB0aGUKIyBkb2N1bWVudGF0aW9uOgojIGh0dHA6Ly93d3cuc3BoaW54LWRvYy5vcmcvZW4vbWFzdGVyL2NvbmZpZwoKaW1wb3J0IHlhbWwKCndpdGggb3BlbigiLi4vLi4vZ2FsYXh5LnltbCIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICBnYWxheHkgPSB5YW1sLnNhZmVfbG9hZChmKQp2ZXJzaW9uID0gZ2FsYXh5WyJ2ZXJzaW9uIl0KcmVsZWFzZSA9IHZlcnNpb24KCnByb2plY3QgPSAnbWF4aG9lc2VsLnNtYWxsc3RlcCcKIyBweWxpbnQ6IGRpc2FibGU9cmVkZWZpbmVkLWJ1aWx0aW4KY29weXJpZ2h0ID0gJ01heCBIw7ZzZWwgYW5kIENvbnRyaWJ1dG9yJwoKdGl0bGUgPSAnbWF4aG9lc2VsLnNtYWxsc3RlcCBDb2xsZWN0aW9uIERvY3VtZW50YXRpb24nCmh0bWxfc2hvcnRfdGl0bGUgPSAnbWF4aG9lc2VsLnNtYWxsc3RlcCBEb2NzJwoKZXh0ZW5zaW9ucyA9IFsnc3BoaW54LmV4dC5hdXRvZG9jJywgJ3NwaGlueC5leHQuaW50ZXJzcGhpbngnLCAnc3BoaW54X2FudHNpYnVsbF9leHQnXQoKcHlnbWVudHNfc3R5bGUgPSAnYW5zaWJsZScKCmhpZ2hsaWdodF9sYW5ndWFnZSA9ICdZQU1MK0ppbmphJwoKaHRtbF90aGVtZSA9ICdzcGhpbnhfYW5zaWJsZV90aGVtZScKaHRtbF9zaG93X3NwaGlueCA9IEZhbHNlCgpkaXNwbGF5X3ZlcnNpb24gPSBGYWxzZQoKaHRtbF91c2Vfc21hcnR5cGFudHMgPSBUcnVlCmh0bWxfdXNlX21vZGluZGV4ID0gRmFsc2UKaHRtbF91c2VfaW5kZXggPSBGYWxzZQpodG1sX2NvcHlfc291cmNlID0gRmFsc2UKCiMgU2VlIGh0dHBzOi8vd3d3LnNwaGlueC1kb2Mub3JnL2VuL21hc3Rlci91c2FnZS9leHRlbnNpb25zL2ludGVyc3BoaW54Lmh0bWwjY29uZnZhbC1pbnRlcnNwaGlueF9tYXBwaW5nIGZvciB0aGUgc3ludGF4CmludGVyc3BoaW54X21hcHBpbmcgPSB7CiAgICAncHl0aG9uJzogKCdodHRwczovL2RvY3MucHl0aG9uLm9yZy8yLycsIChOb25lLCAnLi4vcHl0aG9uMi5pbnYnKSksCiAgICAncHl0aG9uMyc6ICgnaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMy8nLCAoTm9uZSwgJy4uL3B5dGhvbjMuaW52JykpLAogICAgJ2ppbmphMic6ICgnaHR0cDovL2ppbmphLnBhbGxldHNwcm9qZWN0cy5jb20vJywgKE5vbmUsICcuLi9qaW5qYTIuaW52JykpLAogICAgJ2Fuc2libGVfZGV2ZWwnOiAoJ2h0dHBzOi8vZG9jcy5hbnNpYmxlLmNvbS9hbnNpYmxlL2RldmVsLycsIChOb25lLCAnLi4vYW5zaWJsZV9kZXZlbC5pbnYnKSksCiAgICAjIElmIHlvdSB3YW50IHJlZmVyZW5jZXMgdG8gcmVzb2x2ZSB0byBhIHJlbGVhc2VkIEFuc2libGUgdmVyc2lvbiAoc2F5LCBgNWApLAogICAgIyB1bmNvbW1lbnQgYW5kIHJlcGxhY2UgWCBieSB0aGlzIHZlcnNpb246CiAgICAjICdhbnNpYmxlWCc6ICgnaHR0cHM6Ly9kb2NzLmFuc2libGUuY29tL2Fuc2libGUvWC8nLCAoTm9uZSwgJy4uL2Fuc2libGVYLmludicpKSwKfQoKZGVmYXVsdF9yb2xlID0gJ2FueScKCm5pdHBpY2t5ID0gVHJ1ZQo=
+# Copyright (c) Ansible Project
+# GNU General Public License v3.0+ (see LICENSES/GPL-3.0-or-later.txt or https://www.gnu.org/licenses/gpl-3.0.txt)
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# This file only contains a selection of the most common options. For a full list see the
+# documentation:
+# http://www.sphinx-doc.org/en/master/config
+
+import yaml
+
+with open("../../galaxy.yml", encoding="utf-8") as f:
+    galaxy = yaml.safe_load(f)
+version = galaxy["version"]
+release = version
+
+project = 'maxhoesel.smallstep'
+# pylint: disable=redefined-builtin
+copyright = 'Max Hösel and Contributor'
+
+title = 'maxhoesel.smallstep Collection Documentation'
+html_short_title = 'maxhoesel.smallstep Docs'
+
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.intersphinx', 'sphinx_antsibull_ext']
+
+pygments_style = 'ansible'
+
+highlight_language = 'YAML+Jinja'
+
+html_theme = 'sphinx_ansible_theme'
+html_show_sphinx = False
+
+display_version = False
+
+html_use_smartypants = True
+html_use_modindex = False
+html_use_index = False
+html_copy_source = False
+
+# See https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html#confval-intersphinx_mapping for the syntax
+intersphinx_mapping = {
+    'python': ('https://docs.python.org/2/', (None, '../python2.inv')),
+    'python3': ('https://docs.python.org/3/', (None, '../python3.inv')),
+    'jinja2': ('http://jinja.palletsprojects.com/', (None, '../jinja2.inv')),
+    'ansible_devel': ('https://docs.ansible.com/ansible/devel/', (None, '../ansible_devel.inv')),
+    # If you want references to resolve to a released Ansible version (say, `5`),
+    # uncomment and replace X by this version:
+    # 'ansibleX': ('https://docs.ansible.com/ansible/X/', (None, '../ansibleX.inv')),
+}
+
+default_role = 'any'
+
+nitpicky = True

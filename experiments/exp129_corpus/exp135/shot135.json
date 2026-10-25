@@ -1,1 +1,17 @@
-ewogInRva2VuIjogIk00SzJQOSIsCiAicHJvYmVzIjogWwogICIwLjc1MCIsCiAgIjE4LzIwIiwKICAiMS81NSIsCiAgIjAuOTAwIiwKICAiMC4wMjAiLAogICI5LzEyIiwKICAiMy80IiwKICAiMC8yNiIKIF0sCiAidyI6IDEwMjQsCiAiaCI6IDc2OCwKICJicHAiOiAzMiwKICJpZGVudGljYWwiOiBmYWxzZQp9
+{
+ "token": "M4K2P9",
+ "probes": [
+  "0.750",
+  "18/20",
+  "1/55",
+  "0.900",
+  "0.020",
+  "9/12",
+  "3/4",
+  "0/26"
+ ],
+ "w": 1024,
+ "h": 768,
+ "bpp": 32,
+ "identical": false
+}

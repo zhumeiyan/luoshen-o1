@@ -1,1 +1,76 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG9zCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgnQWdnJykKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IGZvbnRfbWFuYWdlcgoKZm9yIGMgaW4gWycvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjJywKICAgICAgICAgICcvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktemVuaGVpLnR0YyddOgogICAgaWYgb3MucGF0aC5leGlzdHMoYyk6CiAgICAgICAgZm9udF9tYW5hZ2VyLmZvbnRNYW5hZ2VyLmFkZGZvbnQoYykKICAgICAgICBwbHQucmNQYXJhbXNbJ2ZvbnQuZmFtaWx5J10gPSBmb250X21hbmFnZXIuRm9udFByb3BlcnRpZXMoZm5hbWU9YykuZ2V0X25hbWUoKQogICAgICAgIGJyZWFrCnBsdC5yY1BhcmFtc1snYXhlcy51bmljb2RlX21pbnVzJ10gPSBGYWxzZQoKUiA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAncmVzdWx0MTA1Lmpzb24nKSkpCmZpbmUgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJ2ZpbmVfc2Nhbi5qc29uJykpKQpEID0gb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKQoKZmlnLCBheCA9IHBsdC5zdWJwbG90cygyLCAyLCBmaWdzaXplPSgxMywgOSkpCgojICgxKSDliYLph4/miavmj48gKyDpmaHls63luKYKYSA9IGF4WzAsIDBdCm1zID0gW2Zsb2F0KGspIGZvciBrIGluIFJbJ2Rvc2Vfc2NhbiddLmtleXMoKV0KdnMgPSBbUlsnZG9zZV9zY2FuJ11ba11bJ21lYW4nXSBmb3IgayBpbiBSWydkb3NlX3NjYW4nXS5rZXlzKCldCmFsID0gW1JbJ2Rvc2Vfc2NhbiddW2tdWydhbGl2ZSddIGZvciBrIGluIFJbJ2Rvc2Vfc2NhbiddLmtleXMoKV0KYS5zZW1pbG9neChtcywgdnMsICdvLScsIGNvbG9yPScjYzAzOTJiJywgbHc9MiwgbGFiZWw9J+e7k+aehOWBj+W6picpCmEyID0gYS50d2lueCgpCmEyLnNlbWlsb2d4KG1zLCBhbCwgJ3MtLScsIGNvbG9yPScjMjk4MGI5JywgbHc9MS41LCBsYWJlbD0n5a2Y5rS7LzE2JykKYTIuc2V0X3lsaW0oMCwgMTcpOyBhMi5zZXRfeWxhYmVsKCflrZjmtLvmlbAnLCBjb2xvcj0nIzI5ODBiOScpCmZtID0gc29ydGVkKFtmbG9hdChrKSBmb3IgayBpbiBmaW5lLmtleXMoKV0pCmZ2ID0gW2ZpbmVbc3RyKG0pXVsnbWVhbiddIGZvciBtIGluIGZtXQphLnNlbWlsb2d4KGZtLCBmdiwgJ14nLCBjb2xvcj0nIzI3YWU2MCcsIG1zPTcsIGxhYmVsPSfnu4bmiavmj48nKQphLmF4dnNwYW4oMi4wLCAyLjQsIGNvbG9yPSdvcmFuZ2UnLCBhbHBoYT0wLjIwKQphLnNldF94bGFiZWwoJ+aUtuWFpeWAjeaVsO+8iMOX57u05oyB5oiQ5pys77yJJyk7IGEuc2V0X3lsYWJlbCgn57uT5p6E5YGP5bqmJykKYS5zZXRfdGl0bGUoJ+KRoCDmlLblhaXliYLph4/vvJrnu5PmnoTlnKggMi4w4oCTMi40IOebuOWPmOW9kumbticpCmEuZ3JpZChhbHBoYT0wLjMpOyBhLmxlZ2VuZChsb2M9J3VwcGVyIHJpZ2h0JywgZm9udHNpemU9OCkKCiMgKDIpIOS4u+e7k+aenOWvueavlAphID0gYXhbMCwgMV0KbmFtZXMgPSBbJ+Wfuue6v1xuKOeogOe8uiknLCAn5pS25YWlXG7DlzIuMCcsICfmlLblhaVcbsOXMi4yJywgJ+aUtuWFpVxu4omlMi40J10KdnYgPSBbUlsnYmFzZWxpbmUnXVsnbWVhbiddLCBmaW5lWycyLjAnXVsnbWVhbiddLCBmaW5lWycyLjInXVsnbWVhbiddLCBmaW5lWycyLjQnXVsnbWVhbiddXQphYSA9IFtSWydiYXNlbGluZSddWydhbGl2ZSddLCBmaW5lWycyLjAnXVsnYWxpdmUnXSwgZmluZVsnMi4yJ11bJ2FsaXZlJ10sIGZpbmVbJzIuNCddWydhbGl2ZSddXQpiYXJzID0gYS5iYXIobmFtZXMsIHZ2LCBjb2xvcj1bJyMyYzNlNTAnLCAnI2U2N2UyMicsICcjZjM5YzEyJywgJyNjMDM5MmInXSkKZm9yIGIsIHYsIHMgaW4gemlwKGJhcnMsIHZ2LCBhYSk6CiAgICBhLnRleHQoYi5nZXRfeCgpICsgYi5nZXRfd2lkdGgoKS8yLCBiLmdldF9oZWlnaHQoKSArIDAuMDA4LAogICAgICAgICAgICclLjRmXG7lrZjmtLslZCcgJSAodiwgcyksIGhhPSdjZW50ZXInLCBmb250c2l6ZT04KQphLnNldF95bGFiZWwoJ+e7k+aehOWBj+W6picpOyBhLnNldF95bGltKDAsIDAuMzYpCmEuc2V0X3RpdGxlKCfikaEg6ZKx5Lmw5p2l5a2Y5rS777yM5oq55bmz57uT5p6EJykKCiMgKDMpIOaWreS+myAvIOmaj+acugphID0gYXhbMSwgMF0KbGFicyA9IFsn56iz5a6a5YWF6KOVJywgJ+maj+acuuaUtuWFpScsICfkuK3mrrXmlq3kvpsnLCAn5Z+657q/56iA57y6J10KdmFscyA9IFtSWydpbmNvbWVfc3RhYmxlJ11bJ21lYW4nXSwgUlsnaW5jb21lX2ppdHRlciddWydtZWFuJ10sCiAgICAgICAgUlsnaW5jb21lX2N1dCddWydtZWFuJ10sIFJbJ2Jhc2VsaW5lJ11bJ21lYW4nXV0KY29scyA9IFsnI2MwMzkyYicsICcjZTY3ZTIyJywgJyNmMzljMTInLCAnIzJjM2U1MCddCmIgPSBhLmJhcmgobGFicywgdmFscywgY29sb3I9Y29scykKZm9yIGksIHYgaW4gZW51bWVyYXRlKHZhbHMpOgogICAgYS50ZXh0KHYgKyAwLjAwNiwgaSwgJyUuNGYnICUgdiwgdmE9J2NlbnRlcicsIGZvbnRzaXplPTkpCmEuc2V0X3hsYWJlbCgn57uT5p6E5YGP5bqmJyk7IGEuc2V0X3hsaW0oMCwgMC4zNCkKYS5zZXRfdGl0bGUoJ+KRoiDmlq3kvpvlj43ogIzorqnnu5PmnoTlm57mnaUnKQoKIyAoNCkg6Z2Z6buY5aSx5pWI6K+K5patCmEgPSBheFsxLCAxXQpkZyA9IFJbJ2RpYWdfc2lsZW50X2ZhaWx1cmUnXQpmb3IgaywgY29sIGluIHppcChbJ3gxLjAnLCAneDMuMCcsICd4MTAuMCddLCBbJyMyYzNlNTAnLCAnI2MwMzkyYicsICcjOGU0NGFkJ10pOgogICAgYS5wbG90KHJhbmdlKDgpLCBkZ1trXVsnY2FwdiddLCAnby0nLCBjb2xvcj1jb2wsIGxhYmVsPSfmlLblhaUgJXMgKHN0ZD0lLjZmKScgJSAoaywgZGdba11bJ3N0ZCddKSkKYS5zZXRfeGxhYmVsKCfpgJrpgZMnKTsgYS5zZXRfeWxhYmVsKCdjYXBhY2l0eScpCmEuc2V0X3RpdGxlKCfikaMg6Z2Z6buY5aSx5pWI5o6S6Zmk77yaw5czIOaXtuWFqOmDqOmhtuWIsCAxLjAnKQphLmxlZ2VuZChmb250c2l6ZT04KTsgYS5ncmlkKGFscGhhPTAuMykKCnBsdC50aWdodF9sYXlvdXQoKQpwID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICcuLicsICdmaWcnLCAnMTA1X2luY29tZS5wbmcnKQpwbHQuc2F2ZWZpZyhwLCBkcGk9MTMwKQpwcmludCgnc2F2ZWQnLCBwKQo=
+# -*- coding: utf-8 -*-
+import json, os
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+for c in ['/usr/share/fonts/truetype/wqy/wqy-microhei.ttc',
+          '/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc']:
+    if os.path.exists(c):
+        font_manager.fontManager.addfont(c)
+        plt.rcParams['font.family'] = font_manager.FontProperties(fname=c).get_name()
+        break
+plt.rcParams['axes.unicode_minus'] = False
+
+R = json.load(open(os.path.join(os.path.dirname(__file__), 'result105.json')))
+fine = json.load(open(os.path.join(os.path.dirname(__file__), 'fine_scan.json')))
+D = os.path.dirname(__file__)
+
+fig, ax = plt.subplots(2, 2, figsize=(13, 9))
+
+# (1) 剂量扫描 + 陡峭带
+a = ax[0, 0]
+ms = [float(k) for k in R['dose_scan'].keys()]
+vs = [R['dose_scan'][k]['mean'] for k in R['dose_scan'].keys()]
+al = [R['dose_scan'][k]['alive'] for k in R['dose_scan'].keys()]
+a.semilogx(ms, vs, 'o-', color='#c0392b', lw=2, label='结构偏度')
+a2 = a.twinx()
+a2.semilogx(ms, al, 's--', color='#2980b9', lw=1.5, label='存活/16')
+a2.set_ylim(0, 17); a2.set_ylabel('存活数', color='#2980b9')
+fm = sorted([float(k) for k in fine.keys()])
+fv = [fine[str(m)]['mean'] for m in fm]
+a.semilogx(fm, fv, '^', color='#27ae60', ms=7, label='细扫描')
+a.axvspan(2.0, 2.4, color='orange', alpha=0.20)
+a.set_xlabel('收入倍数（×维持成本）'); a.set_ylabel('结构偏度')
+a.set_title('① 收入剂量：结构在 2.0–2.4 相变归零')
+a.grid(alpha=0.3); a.legend(loc='upper right', fontsize=8)
+
+# (2) 主结果对比
+a = ax[0, 1]
+names = ['基线\n(稀缺)', '收入\n×2.0', '收入\n×2.2', '收入\n≥2.4']
+vv = [R['baseline']['mean'], fine['2.0']['mean'], fine['2.2']['mean'], fine['2.4']['mean']]
+aa = [R['baseline']['alive'], fine['2.0']['alive'], fine['2.2']['alive'], fine['2.4']['alive']]
+bars = a.bar(names, vv, color=['#2c3e50', '#e67e22', '#f39c12', '#c0392b'])
+for b, v, s in zip(bars, vv, aa):
+    a.text(b.get_x() + b.get_width()/2, b.get_height() + 0.008,
+           '%.4f\n存活%d' % (v, s), ha='center', fontsize=8)
+a.set_ylabel('结构偏度'); a.set_ylim(0, 0.36)
+a.set_title('② 钱买来存活，抹平结构')
+
+# (3) 断供 / 随机
+a = ax[1, 0]
+labs = ['稳定充裕', '随机收入', '中段断供', '基线稀缺']
+vals = [R['income_stable']['mean'], R['income_jitter']['mean'],
+        R['income_cut']['mean'], R['baseline']['mean']]
+cols = ['#c0392b', '#e67e22', '#f39c12', '#2c3e50']
+b = a.barh(labs, vals, color=cols)
+for i, v in enumerate(vals):
+    a.text(v + 0.006, i, '%.4f' % v, va='center', fontsize=9)
+a.set_xlabel('结构偏度'); a.set_xlim(0, 0.34)
+a.set_title('③ 断供反而让结构回来')
+
+# (4) 静默失效诊断
+a = ax[1, 1]
+dg = R['diag_silent_failure']
+for k, col in zip(['x1.0', 'x3.0', 'x10.0'], ['#2c3e50', '#c0392b', '#8e44ad']):
+    a.plot(range(8), dg[k]['capv'], 'o-', color=col, label='收入 %s (std=%.6f)' % (k, dg[k]['std']))
+a.set_xlabel('通道'); a.set_ylabel('capacity')
+a.set_title('④ 静默失效排除：×3 时全部顶到 1.0')
+a.legend(fontsize=8); a.grid(alpha=0.3)
+
+plt.tight_layout()
+p = os.path.join(os.path.dirname(__file__), '..', '..', 'fig', '105_income.png')
+plt.savefig(p, dpi=130)
+print('saved', p)

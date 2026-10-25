@@ -1,1 +1,59 @@
-IiIiRGVlcFNlZWsgcHJvdmlkZXIg4oCUIHVzZXMgT3BlbkFJLWNvbXBhdGlibGUgQVBJIHdpdGggdGhpbmtpbmcgbW9kZSBzdXBwb3J0LiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IEFueQoKZnJvbSBpYWNfY29kZS5wcm92aWRlcnMub3BlbmFpX3Byb3ZpZGVyIGltcG9ydCBPcGVuQUlQcm92aWRlcgoKREVFUFNFRUtfQkFTRV9VUkwgPSAiaHR0cHM6Ly9hcGkuZGVlcHNlZWsuY29tL3YxIgoKCmNsYXNzIERlZXBTZWVrUHJvdmlkZXIoT3BlbkFJUHJvdmlkZXIpOgogICAgIiIiUHJvdmlkZXIgYmFja2VkIGJ5IERlZXBTZWVrJ3MgT3BlbkFJLWNvbXBhdGlibGUgZW5kcG9pbnQuCgogICAgRGVlcFNlZWsgdXNlcyBgYHJlYXNvbmluZ19lZmZvcnRgYCBwbHVzCiAgICBgYGV4dHJhX2JvZHkudGhpbmtpbmcudHlwZT1lbmFibGVkYGA7IHRoZSByZWdpc3RyeSdzIGBgYWxsb3dlZF9lZmZvcnRzYGAKICAgIGNvbnN0cmFpbnMgdGhlIGVmZm9ydCB2b2NhYnVsYXJ5IHRvIGBgbG93YGAgLyBgYGhpZ2hgYCAvIGBgbWF4YGAgZm9yCiAgICBEZWVwU2VlayBWNC4gTm9uLXRoaW5raW5nIG1vZGUgaXMgc2VsZWN0ZWQgd2l0aAogICAgYGBleHRyYV9ib2R5LnRoaW5raW5nLnR5cGU9ZGlzYWJsZWRgYC4KCiAgICBSZWFzb25pbmcgY29udGVudCBpcyBjYXB0dXJlZCB2aWEgYGByZWFzb25pbmdfY29udGVudGBgIGluIHRoZSBzdHJlYW0KICAgIGFuZCBlY2hvZWQgYmFjayBhcyBgYHJlYXNvbmluZ19jb250ZW50YGAgb24gc3Vic2VxdWVudCBhc3Npc3RhbnQKICAgIG1lc3NhZ2VzIChyZXF1aXJlZCBieSBEZWVwU2VlayB3aGVuIHRvb2wgY2FsbHMgYXJlIGludm9sdmVkKS4KICAgICIiIgoKICAgIF9QUk9WSURFUl9LRVkgPSAiZGVlcHNlZWsiCiAgICBzdXBwb3J0c19zdHJlYW1fb3B0aW9ucyA9IFRydWUKCiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwKICAgICAgICBtb2RlbDogc3RyLAogICAgICAgIGFwaV9rZXk6IHN0ciB8IE5vbmUgPSBOb25lLAogICAgICAgIGJhc2VfdXJsOiBzdHIgfCBOb25lID0gTm9uZSwKICAgICAgICBlZmZvcnQ6IHN0ciB8IE5vbmUgPSBOb25lLAogICAgICAgIHByb3ZpZGVyX2tleTogc3RyID0gImRlZXBzZWVrIiwKICAgICAgICB0aGlua2luZ19lbmFibGVkOiBib29sIHwgTm9uZSA9IE5vbmUsCiAgICAgICAgdGhpbmtpbmdfYnVkZ2V0OiBpbnQgfCBOb25lID0gTm9uZSwKICAgICAgICBtYXhfY29tcGxldGlvbl90b2tlbnM6IGludCB8IE5vbmUgPSBOb25lLAogICAgICAgICoqa3dhcmdzLAogICAgKSAtPiBOb25lOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oCiAgICAgICAgICAgIG1vZGVsPW1vZGVsLAogICAgICAgICAgICBhcGlfa2V5PWFwaV9rZXksCiAgICAgICAgICAgIGJhc2VfdXJsPWJhc2VfdXJsIG9yIERFRVBTRUVLX0JBU0VfVVJMLAogICAgICAgICAgICBlZmZvcnQ9ZWZmb3J0LAogICAgICAgICAgICB0aGlua2luZ19lbmFibGVkPXRoaW5raW5nX2VuYWJsZWQsCiAgICAgICAgICAgIHRoaW5raW5nX2J1ZGdldD10aGlua2luZ19idWRnZXQsCiAgICAgICAgICAgIG1heF9jb21wbGV0aW9uX3Rva2Vucz1tYXhfY29tcGxldGlvbl90b2tlbnMsCiAgICAgICAgICAgIHByb3ZpZGVyX2tleT1wcm92aWRlcl9rZXksCiAgICAgICAgKQoKICAgIGRlZiBfYnVpbGRfdGhpbmtpbmdfa3dhcmdzKHNlbGYpIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgICAgIGlmIHNlbGYuX3RoaW5raW5nX2Rpc2FibGVkKCk6CiAgICAgICAgICAgIHJldHVybiB7ImV4dHJhX2JvZHkiOiB7InRoaW5raW5nIjogeyJ0eXBlIjogImRpc2FibGVkIn19fQogICAgICAgIGt3YXJncyA9IHN1cGVyKCkuX2J1aWxkX3RoaW5raW5nX2t3YXJncygpCiAgICAgICAgaWYgbm90IGt3YXJnczoKICAgICAgICAgICAgcmV0dXJuIHt9CiAgICAgICAga3dhcmdzWyJleHRyYV9ib2R5Il0gPSB7InRoaW5raW5nIjogeyJ0eXBlIjogImVuYWJsZWQifX0KICAgICAgICByZXR1cm4ga3dhcmdzCg==
+"""DeepSeek provider — uses OpenAI-compatible API with thinking mode support."""
+
+from __future__ import annotations
+
+from typing import Any
+
+from iac_code.providers.openai_provider import OpenAIProvider
+
+DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
+
+
+class DeepSeekProvider(OpenAIProvider):
+    """Provider backed by DeepSeek's OpenAI-compatible endpoint.
+
+    DeepSeek uses ``reasoning_effort`` plus
+    ``extra_body.thinking.type=enabled``; the registry's ``allowed_efforts``
+    constrains the effort vocabulary to ``low`` / ``high`` / ``max`` for
+    DeepSeek V4. Non-thinking mode is selected with
+    ``extra_body.thinking.type=disabled``.
+
+    Reasoning content is captured via ``reasoning_content`` in the stream
+    and echoed back as ``reasoning_content`` on subsequent assistant
+    messages (required by DeepSeek when tool calls are involved).
+    """
+
+    _PROVIDER_KEY = "deepseek"
+    supports_stream_options = True
+
+    def __init__(
+        self,
+        model: str,
+        api_key: str | None = None,
+        base_url: str | None = None,
+        effort: str | None = None,
+        provider_key: str = "deepseek",
+        thinking_enabled: bool | None = None,
+        thinking_budget: int | None = None,
+        max_completion_tokens: int | None = None,
+        **kwargs,
+    ) -> None:
+        super().__init__(
+            model=model,
+            api_key=api_key,
+            base_url=base_url or DEEPSEEK_BASE_URL,
+            effort=effort,
+            thinking_enabled=thinking_enabled,
+            thinking_budget=thinking_budget,
+            max_completion_tokens=max_completion_tokens,
+            provider_key=provider_key,
+        )
+
+    def _build_thinking_kwargs(self) -> dict[str, Any]:
+        if self._thinking_disabled():
+            return {"extra_body": {"thinking": {"type": "disabled"}}}
+        kwargs = super()._build_thinking_kwargs()
+        if not kwargs:
+            return {}
+        kwargs["extra_body"] = {"thinking": {"type": "enabled"}}
+        return kwargs

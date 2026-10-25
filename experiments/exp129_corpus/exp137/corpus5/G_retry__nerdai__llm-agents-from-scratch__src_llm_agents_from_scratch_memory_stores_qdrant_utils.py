@@ -1,1 +1,77 @@
-IiIiUWRyYW50IGRhdGEtY29udmVyc2lvbiB1dGlsaXRpZXMgZm9yIGVwaXNvZGljIG1lbW9yeS4iIiIKCmZyb20gcWRyYW50X2NsaWVudCBpbXBvcnQgbW9kZWxzCgpmcm9tIGxsbV9hZ2VudHNfZnJvbV9zY3JhdGNoLmRhdGFfc3RydWN0dXJlcy5tZW1vcnkgaW1wb3J0IEVwaXNvZGUKZnJvbSBsbG1fYWdlbnRzX2Zyb21fc2NyYXRjaC5tZW1vcnlfc3RvcmVzLnFkcmFudC5lcnJvcnMgaW1wb3J0ICgKICAgIFFkcmFudEVwaXNvZGVKc29uTWlzc2luZ0Vycm9yLAogICAgUWRyYW50UG9pbnRQYXlsb2FkTWlzc2luZ0Vycm9yLAopCgoKZGVmIGVwaXNvZGVfdG9fcWRyYW50X3BvaW50X3N0cnVjdCgKICAgIGVwaXNvZGU6IEVwaXNvZGUsCiAgICB0ZXh0OiBzdHIsCiAgICB2ZWN0b3JfZmllbGQ6IHN0ciwKICAgIG1vZGVsX25hbWU6IHN0ciwKKSAtPiBtb2RlbHMuUG9pbnRTdHJ1Y3Q6CiAgICAiIiJDb252ZXJ0IGFuIGVwaXNvZGUgdG8gYSBRZHJhbnQgUG9pbnRTdHJ1Y3QgcmVhZHkgZm9yIHVwc2VydC4KCiAgICBUaGUgY2FsbGVyIGlzIHJlc3BvbnNpYmxlIGZvciBmb3JtYXR0aW5nIGBgdGV4dGBgIOKAlCB0eXBpY2FsbHkgdmlhCiAgICBgYEVwaXNvZGUuZm9ybWF0KClgYCDigJQgc28gdGhhdCBtZW1vcnkgc3RyYXRlZ2llcyBvd24gdGhlIGVtYmVkZGluZwogICAgY29udGVudCBkZWNpc2lvbi4KCiAgICBBcmdzOgogICAgICAgIGVwaXNvZGUgKEVwaXNvZGUpOiBUaGUgY29tcGxldGVkIGVwaXNvZGUgdG8gY29udmVydC4KICAgICAgICB0ZXh0IChzdHIpOiBQcmUtZm9ybWF0dGVkIHRleHQgdG8gZW1iZWQgYXMgdGhlIHBvaW50IHZlY3Rvci4KICAgICAgICB2ZWN0b3JfZmllbGQgKHN0cik6IE5hbWUgb2YgdGhlIHZlY3RvciBmaWVsZCBpbiB0aGUgUWRyYW50CiAgICAgICAgICAgIGNvbGxlY3Rpb24gKGUuZy4gYGAiZmFzdC1iZ2Utc21hbGwtZW4tdjEuNSJgYCkuCiAgICAgICAgbW9kZWxfbmFtZSAoc3RyKTogRmFzdEVtYmVkIG1vZGVsIGlkZW50aWZpZXIgdXNlZCBmb3IgZW1iZWRkaW5nCiAgICAgICAgICAgIChlLmcuIGBgIkJBQUkvYmdlLXNtYWxsLWVuLXYxLjUiYGApLgoKICAgIFJldHVybnM6CiAgICAgICAgbW9kZWxzLlBvaW50U3RydWN0OiBBIHBvaW50IHJlYWR5IHRvIHBhc3MgdG8KICAgICAgICAgICAgYGBBc3luY1FkcmFudENsaWVudC51cHNlcnQoKWBgLgogICAgIiIiCiAgICByZXR1cm4gbW9kZWxzLlBvaW50U3RydWN0KAogICAgICAgIGlkPWVwaXNvZGUuaWRfLAogICAgICAgIHZlY3Rvcj17CiAgICAgICAgICAgIHZlY3Rvcl9maWVsZDogbW9kZWxzLkRvY3VtZW50KHRleHQ9dGV4dCwgbW9kZWw9bW9kZWxfbmFtZSksCiAgICAgICAgfSwKICAgICAgICBwYXlsb2FkPXsKICAgICAgICAgICAgImVwaXNvZGVfanNvbiI6IGVwaXNvZGUubW9kZWxfZHVtcF9qc29uKCksCiAgICAgICAgICAgICJjb21wbGV0ZWRfYXQiOiBlcGlzb2RlLmNvbXBsZXRlZF9hdC50aW1lc3RhbXAoKSwKICAgICAgICB9LAogICAgKQoKCmRlZiBxZHJhbnRfcG9pbnRfdG9fZXBpc29kZSgKICAgIHBvaW50OiBtb2RlbHMuUmVjb3JkIHwgbW9kZWxzLlNjb3JlZFBvaW50LAopIC0+IEVwaXNvZGU6CiAgICAiIiJDb252ZXJ0IGEgUWRyYW50IHJlYWQgcG9pbnQgYmFjayB0byBhbiBFcGlzb2RlLgoKICAgIEludmVyc2Ugb2YgYGBlcGlzb2RlX3RvX3FkcmFudF9wb2ludF9zdHJ1Y3RgYC4gQWNjZXB0cyBib3RoCiAgICBgYG1vZGVscy5SZWNvcmRgYCAocmV0dXJuZWQgYnkgYGBzY3JvbGxgYCAvIGBgcmV0cmlldmVgYCkgYW5kCiAgICBgYG1vZGVscy5TY29yZWRQb2ludGBgIChyZXR1cm5lZCBieSBgYHF1ZXJ5X3BvaW50c2BgKS4KCiAgICBBcmdzOgogICAgICAgIHBvaW50IChtb2RlbHMuUmVjb3JkIHwgbW9kZWxzLlNjb3JlZFBvaW50KTogQSBwb2ludCByZXRyaWV2ZWQKICAgICAgICAgICAgZnJvbSBhIFFkcmFudCBjb2xsZWN0aW9uLgoKICAgIFJldHVybnM6CiAgICAgICAgRXBpc29kZTogVGhlIGRlc2VyaWFsaXplZCBlcGlzb2RlLgoKICAgIFJhaXNlczoKICAgICAgICBRZHJhbnRQb2ludFBheWxvYWRNaXNzaW5nRXJyb3I6IElmIHRoZSBwb2ludCBoYXMgbm8gcGF5bG9hZC4KICAgICAgICBRZHJhbnRFcGlzb2RlSnNvbk1pc3NpbmdFcnJvcjogSWYgdGhlIHBheWxvYWQgZXhpc3RzIGJ1dCBkb2VzIG5vdAogICAgICAgICAgICBjb250YWluIHRoZSBgYGVwaXNvZGVfanNvbmBgIGtleS4KICAgICIiIgogICAgaWYgcG9pbnQucGF5bG9hZCBpcyBOb25lOgogICAgICAgIHJhaXNlIFFkcmFudFBvaW50UGF5bG9hZE1pc3NpbmdFcnJvcigKICAgICAgICAgICAgZiJQb2ludCAne3BvaW50LmlkfScgaGFzIG5vIHBheWxvYWQuIiwKICAgICAgICApCiAgICBpZiAiZXBpc29kZV9qc29uIiBub3QgaW4gcG9pbnQucGF5bG9hZDoKICAgICAgICByYWlzZSBRZHJhbnRFcGlzb2RlSnNvbk1pc3NpbmdFcnJvcigKICAgICAgICAgICAgZiJQb2ludCAne3BvaW50LmlkfScgcGF5bG9hZCBtaXNzaW5nICdlcGlzb2RlX2pzb24nIGtleS4iLAogICAgICAgICkKICAgIHJldHVybiBFcGlzb2RlLm1vZGVsX3ZhbGlkYXRlX2pzb24ocG9pbnQucGF5bG9hZFsiZXBpc29kZV9qc29uIl0pCg==
+"""Qdrant data-conversion utilities for episodic memory."""
+
+from qdrant_client import models
+
+from llm_agents_from_scratch.data_structures.memory import Episode
+from llm_agents_from_scratch.memory_stores.qdrant.errors import (
+    QdrantEpisodeJsonMissingError,
+    QdrantPointPayloadMissingError,
+)
+
+
+def episode_to_qdrant_point_struct(
+    episode: Episode,
+    text: str,
+    vector_field: str,
+    model_name: str,
+) -> models.PointStruct:
+    """Convert an episode to a Qdrant PointStruct ready for upsert.
+
+    The caller is responsible for formatting ``text`` — typically via
+    ``Episode.format()`` — so that memory strategies own the embedding
+    content decision.
+
+    Args:
+        episode (Episode): The completed episode to convert.
+        text (str): Pre-formatted text to embed as the point vector.
+        vector_field (str): Name of the vector field in the Qdrant
+            collection (e.g. ``"fast-bge-small-en-v1.5"``).
+        model_name (str): FastEmbed model identifier used for embedding
+            (e.g. ``"BAAI/bge-small-en-v1.5"``).
+
+    Returns:
+        models.PointStruct: A point ready to pass to
+            ``AsyncQdrantClient.upsert()``.
+    """
+    return models.PointStruct(
+        id=episode.id_,
+        vector={
+            vector_field: models.Document(text=text, model=model_name),
+        },
+        payload={
+            "episode_json": episode.model_dump_json(),
+            "completed_at": episode.completed_at.timestamp(),
+        },
+    )
+
+
+def qdrant_point_to_episode(
+    point: models.Record | models.ScoredPoint,
+) -> Episode:
+    """Convert a Qdrant read point back to an Episode.
+
+    Inverse of ``episode_to_qdrant_point_struct``. Accepts both
+    ``models.Record`` (returned by ``scroll`` / ``retrieve``) and
+    ``models.ScoredPoint`` (returned by ``query_points``).
+
+    Args:
+        point (models.Record | models.ScoredPoint): A point retrieved
+            from a Qdrant collection.
+
+    Returns:
+        Episode: The deserialized episode.
+
+    Raises:
+        QdrantPointPayloadMissingError: If the point has no payload.
+        QdrantEpisodeJsonMissingError: If the payload exists but does not
+            contain the ``episode_json`` key.
+    """
+    if point.payload is None:
+        raise QdrantPointPayloadMissingError(
+            f"Point '{point.id}' has no payload.",
+        )
+    if "episode_json" not in point.payload:
+        raise QdrantEpisodeJsonMissingError(
+            f"Point '{point.id}' payload missing 'episode_json' key.",
+        )
+    return Episode.model_validate_json(point.payload["episode_json"])

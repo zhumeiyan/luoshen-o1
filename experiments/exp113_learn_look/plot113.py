@@ -1,1 +1,153 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMTEzIOWHuuWbviArIOS4iuWxj+iHquajgCjmuLLmn5MtPuWGmSBmYjAtPuecn+WunumHh+mbhi0+T0NSIOWbnuivuykiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHN0cnVjdCwgc3VicHJvY2VzcwppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAoKT1VUID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCkZJRyA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9maWcvMTEzX2xlYXJuX2xvb2sucG5nIgpvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUoRklHKSwgZXhpc3Rfb2s9VHJ1ZSkKCnIxMTMgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oT1VULCAicmVzdWx0MTEzLmpzb24iKSkpCnIxMTNiID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKE9VVCwgInJlc3VsdDExM2IuanNvbiIpKSkKcjExM2MyID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKE9VVCwgInJlc3VsdDExM2MyLmpzb24iKSkpCgpyZXMgPSByMTEzWyJyZXMiXQpzd2VlcCA9IHIxMTNiWyJzd2VlcCJdCnJlZiA9IHIxMTNiWyJyZWYiXQpwYWlycyA9IHIxMTNjMlsicGFpcnMiXQoKZmlnLCBheCA9IHBsdC5zdWJwbG90cygyLCAzLCBmaWdzaXplPSgxNiwgOSkpCmZpZy5zdXB0aXRsZSgiMTEzIMK3IOWcqOecn+WuniBJL08g5LiK5a2m5Lya5b6A5ZOq55yLICAgKGZiMCDnnLwgLyB1aW5wdXQg5omLIC8g5YaF5qC46K+75ZueKSIsIGZvbnRzaXplPTEzKQoKIyAtLS0tICgwLDApIOS4lueVjEEgLS0tLQphID0gYXhbMCwgMF0Ka2V5cyA9IFsiQTpwcmVzZXQiLCAiQTpsZWFybmVkIiwgIkE6YmxpbmQiLCAiQTpzY3JhbWJsZWQiLCAiQTpzdGF0aWMiXQp2YWxzID0gW3Jlc1trXVsiYWNjIl0gZm9yIGsgaW4ga2V5c10KY29scyA9IFsiIzJjN2ZiOCIsICIjZDk1ZjAyIiwgIiM5OTk5OTkiLCAiI2NjY2NjYyIsICIjNjY2NjY2Il0KYS5iYXIoW2suc3BsaXQoIjoiKVsxXSBmb3IgayBpbiBrZXlzXSwgdmFscywgY29sb3I9Y29scykKYS5heGhsaW5lKHJlZlsiYmxpbmQiXSwgbHM9Ii0tIiwgYz0iIzk5OSIsIGx3PTEsIGxhYmVsPWYiYmxpbmQge3JlZlsnYmxpbmQnXTouM2Z9IikKYS5zZXRfdGl0bGUoIuS4lueVjEEg5ZG95Lit546HICjov4fnqIvkuK3mmK/lkKbmm77nnIvliLDnm67moIcpIikKYS5zZXRfeWxpbSgwLCBtYXgodmFscykgKiAxLjM1ICsgMC4wMikKZm9yIGksIHYgaW4gZW51bWVyYXRlKHZhbHMpOgogICAgYS50ZXh0KGksIHYgKyAwLjAxMiwgZiJ7djouM2Z9IiwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTkpCmEubGVnZW5kKGZvbnRzaXplPTgpCgojIC0tLS0gKDAsMSkg5LiW55WMQiDov4Hnp7sgLS0tLQphID0gYXhbMCwgMV0Ka2V5cyA9IFsiQjpsZWFybmVkX3JldHJhaW4iLCAiQjpibGluZCIsICJCOmxlYXJuZWRfZnJvemVuIiwgIkI6c3RhdGljIiwgIkI6cHJlc2V0Il0KdmFscyA9IFtyZXNba11bImFjYyJdIGZvciBrIGluIGtleXNdCmNvbHMgPSBbIiNkOTVmMDIiLCAiIzk5OTk5OSIsICIjZmRhZTYxIiwgIiM2NjY2NjYiLCAiIzJjN2ZiOCJdCmEuYmFyKFtrLnNwbGl0KCI6IilbMV0gZm9yIGsgaW4ga2V5c10sIHZhbHMsIGNvbG9yPWNvbHMpCmEuc2V0X3RpdGxlKCLkuJbnlYxCICjnm67moIfliIbluIPlj43ovawpIOKAlOKAlCDov4Hnp7vnmoTnnJ/mraPmo4DpqowiKQphLnNldF95bGltKDAsIG1heCh2YWxzKSAqIDEuMzUgKyAwLjAyKQpmb3IgaSwgdiBpbiBlbnVtZXJhdGUodmFscyk6CiAgICBhLnRleHQoaSwgdiArIDAuMDEyLCBmInt2Oi4zZn0iLCBoYT0iY2VudGVyIiwgZm9udHNpemU9OSkKCiMgLS0tLSAoMCwyKSDorq3nu4Pph4/liYLph4/miavmj48gLS0tLQphID0gYXhbMCwgMl0KeHMgPSBzb3J0ZWQoc3dlZXAua2V5cygpLCBrZXk9bGFtYmRhIGs6IGludChrKSkKeXMgPSBbc3dlZXBba11bImFjYyJdIGZvciBrIGluIHhzXQphLnBsb3QoW2ludChrKSBmb3IgayBpbiB4c10sIHlzLCAiby0iLCBjPSIjZDk1ZjAyIiwgbGFiZWw9ImxlYXJuZWQiKQphLmF4aGxpbmUocmVzWyJBOnByZXNldCJdWyJhY2MiXSwgbHM9Ii0iLCBjPSIjMmM3ZmI4IiwgbGFiZWw9ZiJwcmVzZXQge3Jlc1snQTpwcmVzZXQnXVsnYWNjJ106LjNmfSIpCmEuYXhobGluZShyZWZbImJsaW5kIl0sIGxzPSItLSIsIGM9IiM5OTkiLCBsYWJlbD1mImJsaW5kIHtyZWZbJ2JsaW5kJ106LjNmfSIpCmEuc2V0X3hzY2FsZSgibG9nIikKYS5zZXRfeGxhYmVsKCLorq3nu4MgdHJpYWwg5pWwIChsb2cpIikKYS5zZXRfeWxhYmVsKCLlkb3kuK3njociKQphLnNldF90aXRsZSgi5YmC6YeP5omr5o+POiDorq3nu4Pph48gw5c1MCDkuZ/ov73kuI3kuIog4oCU4oCUIOW5s+eahCIpCmEubGVnZW5kKGZvbnRzaXplPTgpCgojIC0tLS0gKDEsMCkg6K6t57uD5puy57q/IC0tLS0KYSA9IGF4WzEsIDBdCnRjID0gbnAuYXNhcnJheShyMTEzWyJ0cmFpbl9jdXJ2ZSJdLCBmbG9hdCkKayA9IDI1CnNtID0gbnAuY29udm9sdmUodGMsIG5wLm9uZXMoaykgLyBrLCBtb2RlPSJ2YWxpZCIpCmEucGxvdChzbSwgYz0iI2Q5NWYwMiIsIGx3PTEuMikKYS5zZXRfeGxhYmVsKCLorq3nu4MgdHJpYWwiKTsgYS5zZXRfeWxhYmVsKCLmnIDlsI/ot53nprsgKHB4KSIpCmEuc2V0X3RpdGxlKGYi5a2m5Lmg5puy57q/ICjOtSAxLjDihpIwLjA1KSAgIHtzbVswXTouMGZ9IOKGkiB7c21bLTFdOi4wZn0gcHgiKQoKIyAtLS0tICgxLDEpIOW8leaTjumFjeWvuSAtLS0tCmEgPSBheFsxLCAxXQpuYW1lcyA9IGxpc3QocGFpcnMua2V5cygpKQpkcyA9IFtwYWlyc1trXVsiZCJdIGZvciBrIGluIG5hbWVzXQpsb3MgPSBbcGFpcnNba11bImxvIl0gZm9yIGsgaW4gbmFtZXNdCmhpcyA9IFtwYWlyc1trXVsiaGkiXSBmb3IgayBpbiBuYW1lc10KeSA9IG5wLmFyYW5nZShsZW4obmFtZXMpKQphLmVycm9yYmFyKGRzLCB5LCB4ZXJyPVtucC5hcnJheShkcykgLSBucC5hcnJheShsb3MpLCBucC5hcnJheShoaXMpIC0gbnAuYXJyYXkoZHMpXSwKICAgICAgICAgICBmbXQ9Im8iLCBjPSIjMzMzIiwgZWNvbG9yPSIjODg4IiwgY2Fwc2l6ZT0zKQphLmF4dmxpbmUoMCwgYz0iciIsIGx3PTEpCmEuc2V0X3l0aWNrcyh5KTsgYS5zZXRfeXRpY2tsYWJlbHMobmFtZXMsIGZvbnRzaXplPTgpCmEuc2V0X3RpdGxlKCLlvJXmk446IOWQjOenjeWtkOmFjeWvueW3riAobj00OCkg4oCU4oCUIOWFqOmDqOi3qCAwIikKYS5zZXRfeGxhYmVsKCLOlCDlgY/luqYiKQoKIyAtLS0tICgxLDIpIOWPr+ivgeS8quiHquajgCAtLS0tCmEgPSBheFsxLCAyXQphLmF4aXMoIm9mZiIpCnR4dCA9IFsKICAgICLlj6/or4HkvKrmgKfoh6rmo4AiLAogICAgIiIsCiAgICBmIuecvCAgZmIwIHtyMTEzWydleWVfZmFsc2lmaWFibGUnXX0iLAogICAgZiIgICDnm67moIfljLoge3IxMTNbJ2V5ZV9vbiddOi41Zn0gdnMg56m655m9IHtyMTEzWydleWVfb2ZmJ106LjVmfSIsCiAgICBmIiAgIOavlOWAvCB7cjExM1snZXllX29uJ10vbWF4KHIxMTNbJ2V5ZV9vZmYnXSwxZS05KTouMGZ9w5cgICjmnKrppbHlkowpIiwKICAgICIiLAogICAgZiLmiYsgIHVpbnB1dCB7cjExM1snaGFuZF9mYWxzaWZpYWJsZSddfSIsCiAgICBmIiAgIOmAmiDor7vlm54ge3R1cGxlKHIxMTNbJ2hhbmRfb25fcmVhZGJhY2snXSl9IiwKICAgIGYiICAg5patIOivu+WbniB7dHVwbGUocjExM1snaGFuZF9vZmZfcmVhZGJhY2snXSl9ICDihpAg5Y+v6K+B5LyqIiwKICAgICIiLAogICAgZiLoioLngrkge3IxMTNbJ2hhbmRfbm9kZSddfSIsCiAgICBmIuecn+WunuaKk+W4pyB7cjExM1snbl9ncmFiJ119IOasoSIsCl0KYS50ZXh0KDAuMDMsIDAuOTcsICJcbiIuam9pbih0eHQpLCB2YT0idG9wIiwgZm9udHNpemU9MTAsIGZhbWlseT0ibW9ub3NwYWNlIikKCnBsdC50aWdodF9sYXlvdXQocmVjdD1bMCwgMCwgMSwgMC45NV0pCnBsdC5zYXZlZmlnKEZJRywgZHBpPTExMCkKcHJpbnQoImZpZyAtPiIsIEZJRykKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LiK5bGP6Ieq5qOAOiDmuLLmn5MgLT4g5YaZIGZiMCAtPiDnnJ/lrp7ph4fpm4YgLT4gT0NSIOWbnuivuwojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpDT0RFID0gIjZLWjNRUCIKbGluZXMgPSBbCiAgICAiRU8gMTEzIFNFTEZDSEVDSyIsCiAgICBmIkNPREUge0NPREV9IiwKICAgIGYiQSBQUkVTRVQgIHtyZXNbJ0E6cHJlc2V0J11bJ2FjYyddOi4zZn0iLAogICAgZiJBIExFQVJORUQge3Jlc1snQTpsZWFybmVkJ11bJ2FjYyddOi4zZn0iLAogICAgZiJCIFBSRVNFVCAge3Jlc1snQjpwcmVzZXQnXVsnYWNjJ106LjNmfSIsCiAgICBmIkIgUkVUUkFJTiB7cmVzWydCOmxlYXJuZWRfcmV0cmFpbiddWydhY2MnXTouM2Z9IiwKICAgIGYiU1dFRVAgNTAwMCB7c3dlZXBbJzUwMDAnXVsnYWNjJ106LjNmfSIsCiAgICBmIlBBSVIgTFAge3BhaXJzWydsZWFybmVkLXByZXNldCddWydkJ106Ky40Zn0iLAogICAgZiJFWUUgUkFUSU8ge3IxMTNbJ2V5ZV9vbiddL21heChyMTEzWydleWVfb2ZmJ10sMWUtOSk6LjBmfSIsCl0KaW1nID0gSW1hZ2UubmV3KCJSR0IiLCAoMTAyNCwgNzY4KSwgKDI1NSwgMjU1LCAyNTUpKQpkID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQpmcCA9ICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIgp0cnk6CiAgICBmb250ID0gSW1hZ2VGb250LnRydWV0eXBlKGZwLCAzNCkKZXhjZXB0IEV4Y2VwdGlvbjoKICAgIGZvbnQgPSBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKZm9yIGksIHMgaW4gZW51bWVyYXRlKGxpbmVzKToKICAgIGQudGV4dCgoNDAsIDQwICsgaSAqIDU4KSwgcywgZmlsbD0oMCwgMCwgMCksIGZvbnQ9Zm9udCkKcmdiYSA9IG5wLmFycmF5KGltZy5jb252ZXJ0KCJSR0JBIikpCgpmZCA9IG9wZW4oIi9kZXYvZmIwIiwgInIrYiIpCm9zLmxzZWVrKGZkLmZpbGVubygpLCAwLCBvcy5TRUVLX1NFVCkKZmQud3JpdGUocmdiYS50b2J5dGVzKCkpCm9zLmxzZWVrKGZkLmZpbGVubygpLCAwLCBvcy5TRUVLX1NFVCkKcmF3ID0gZmQucmVhZCgxMDI0ICogNzY4ICogNCkKZmQuY2xvc2UoKQphcnIgPSBucC5mcm9tYnVmZmVyKHJhdywgZHR5cGU9bnAudWludDgpLnJlc2hhcGUoNzY4LCAxMDI0LCA0KQpJbWFnZS5mcm9tYXJyYXkoYXJyWzosIDosIDozXSkuc2F2ZShvcy5wYXRoLmpvaW4oT1VULCAiY2FwdHVyZWQxMTMucG5nIikpCnByaW50KCJjYXB0dXJlZCAtPiIsIG9zLnBhdGguam9pbihPVVQsICJjYXB0dXJlZDExMy5wbmciKSkKCnR4dCA9IHN1YnByb2Nlc3MucnVuKFsidGVzc2VyYWN0Iiwgb3MucGF0aC5qb2luKE9VVCwgImNhcHR1cmVkMTEzLnBuZyIpLCAic3Rkb3V0Il0sCiAgICAgICAgICAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkuc3Rkb3V0CmhpdCA9IHN1bSgxIGZvciBzIGluIGxpbmVzIGlmIHMuc3BsaXQoKVstMV0gaW4gdHh0LnJlcGxhY2UoIiAiLCAiIikpCnByaW50KCJPQ1Igb3V0OlxuIiwgdHh0Wzo2MDBdKQpwcmludChmIk9DUiBoaXQge2hpdH0ve2xlbihsaW5lcyl9ICBjb2RlX2luPXtDT0RFIGluIHR4dH0iKQoKanNvbi5kdW1wKGRpY3QoY29kZT1DT0RFLCBsaW5lcz1saW5lcywgb2NyX2hpdD1oaXQsIG5fbGluZXM9bGVuKGxpbmVzKSwKICAgICAgICAgICAgICAgY29kZV9mb3VuZD1DT0RFIGluIHR4dCksCiAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihPVVQsICJzZWxmY2hlY2sxMTMuanNvbiIpLCAidyIpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQo=
+# -*- coding: utf-8 -*-
+"""113 出图 + 上屏自检(渲染->写 fb0->真实采集->OCR 回读)"""
+import os, sys, json, struct, subprocess
+import numpy as np
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from PIL import Image, ImageDraw, ImageFont
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+FIG = "/data/workspace/luoshen-o1/fig/113_learn_look.png"
+os.makedirs(os.path.dirname(FIG), exist_ok=True)
+
+r113 = json.load(open(os.path.join(OUT, "result113.json")))
+r113b = json.load(open(os.path.join(OUT, "result113b.json")))
+r113c2 = json.load(open(os.path.join(OUT, "result113c2.json")))
+
+res = r113["res"]
+sweep = r113b["sweep"]
+ref = r113b["ref"]
+pairs = r113c2["pairs"]
+
+fig, ax = plt.subplots(2, 3, figsize=(16, 9))
+fig.suptitle("113 · 在真实 I/O 上学会往哪看   (fb0 眼 / uinput 手 / 内核读回)", fontsize=13)
+
+# ---- (0,0) 世界A ----
+a = ax[0, 0]
+keys = ["A:preset", "A:learned", "A:blind", "A:scrambled", "A:static"]
+vals = [res[k]["acc"] for k in keys]
+cols = ["#2c7fb8", "#d95f02", "#999999", "#cccccc", "#666666"]
+a.bar([k.split(":")[1] for k in keys], vals, color=cols)
+a.axhline(ref["blind"], ls="--", c="#999", lw=1, label=f"blind {ref['blind']:.3f}")
+a.set_title("世界A 命中率 (过程中是否曾看到目标)")
+a.set_ylim(0, max(vals) * 1.35 + 0.02)
+for i, v in enumerate(vals):
+    a.text(i, v + 0.012, f"{v:.3f}", ha="center", fontsize=9)
+a.legend(fontsize=8)
+
+# ---- (0,1) 世界B 迁移 ----
+a = ax[0, 1]
+keys = ["B:learned_retrain", "B:blind", "B:learned_frozen", "B:static", "B:preset"]
+vals = [res[k]["acc"] for k in keys]
+cols = ["#d95f02", "#999999", "#fdae61", "#666666", "#2c7fb8"]
+a.bar([k.split(":")[1] for k in keys], vals, color=cols)
+a.set_title("世界B (目标分布反转) —— 迁移的真正检验")
+a.set_ylim(0, max(vals) * 1.35 + 0.02)
+for i, v in enumerate(vals):
+    a.text(i, v + 0.012, f"{v:.3f}", ha="center", fontsize=9)
+
+# ---- (0,2) 训练量剂量扫描 ----
+a = ax[0, 2]
+xs = sorted(sweep.keys(), key=lambda k: int(k))
+ys = [sweep[k]["acc"] for k in xs]
+a.plot([int(k) for k in xs], ys, "o-", c="#d95f02", label="learned")
+a.axhline(res["A:preset"]["acc"], ls="-", c="#2c7fb8", label=f"preset {res['A:preset']['acc']:.3f}")
+a.axhline(ref["blind"], ls="--", c="#999", label=f"blind {ref['blind']:.3f}")
+a.set_xscale("log")
+a.set_xlabel("训练 trial 数 (log)")
+a.set_ylabel("命中率")
+a.set_title("剂量扫描: 训练量 ×50 也追不上 —— 平的")
+a.legend(fontsize=8)
+
+# ---- (1,0) 训练曲线 ----
+a = ax[1, 0]
+tc = np.asarray(r113["train_curve"], float)
+k = 25
+sm = np.convolve(tc, np.ones(k) / k, mode="valid")
+a.plot(sm, c="#d95f02", lw=1.2)
+a.set_xlabel("训练 trial"); a.set_ylabel("最小距离 (px)")
+a.set_title(f"学习曲线 (ε 1.0→0.05)   {sm[0]:.0f} → {sm[-1]:.0f} px")
+
+# ---- (1,1) 引擎配对 ----
+a = ax[1, 1]
+names = list(pairs.keys())
+ds = [pairs[k]["d"] for k in names]
+los = [pairs[k]["lo"] for k in names]
+his = [pairs[k]["hi"] for k in names]
+y = np.arange(len(names))
+a.errorbar(ds, y, xerr=[np.array(ds) - np.array(los), np.array(his) - np.array(ds)],
+           fmt="o", c="#333", ecolor="#888", capsize=3)
+a.axvline(0, c="r", lw=1)
+a.set_yticks(y); a.set_yticklabels(names, fontsize=8)
+a.set_title("引擎: 同种子配对差 (n=48) —— 全部跨 0")
+a.set_xlabel("Δ 偏度")
+
+# ---- (1,2) 可证伪自检 ----
+a = ax[1, 2]
+a.axis("off")
+txt = [
+    "可证伪性自检",
+    "",
+    f"眼  fb0 {r113['eye_falsifiable']}",
+    f"   目标区 {r113['eye_on']:.5f} vs 空白 {r113['eye_off']:.5f}",
+    f"   比值 {r113['eye_on']/max(r113['eye_off'],1e-9):.0f}×  (未饱和)",
+    "",
+    f"手  uinput {r113['hand_falsifiable']}",
+    f"   通 读回 {tuple(r113['hand_on_readback'])}",
+    f"   断 读回 {tuple(r113['hand_off_readback'])}  ← 可证伪",
+    "",
+    f"节点 {r113['hand_node']}",
+    f"真实抓帧 {r113['n_grab']} 次",
+]
+a.text(0.03, 0.97, "\n".join(txt), va="top", fontsize=10, family="monospace")
+
+plt.tight_layout(rect=[0, 0, 1, 0.95])
+plt.savefig(FIG, dpi=110)
+print("fig ->", FIG)
+
+# ===========================================================================
+# 上屏自检: 渲染 -> 写 fb0 -> 真实采集 -> OCR 回读
+# ===========================================================================
+CODE = "6KZ3QP"
+lines = [
+    "EO 113 SELFCHECK",
+    f"CODE {CODE}",
+    f"A PRESET  {res['A:preset']['acc']:.3f}",
+    f"A LEARNED {res['A:learned']['acc']:.3f}",
+    f"B PRESET  {res['B:preset']['acc']:.3f}",
+    f"B RETRAIN {res['B:learned_retrain']['acc']:.3f}",
+    f"SWEEP 5000 {sweep['5000']['acc']:.3f}",
+    f"PAIR LP {pairs['learned-preset']['d']:+.4f}",
+    f"EYE RATIO {r113['eye_on']/max(r113['eye_off'],1e-9):.0f}",
+]
+img = Image.new("RGB", (1024, 768), (255, 255, 255))
+d = ImageDraw.Draw(img)
+fp = "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+try:
+    font = ImageFont.truetype(fp, 34)
+except Exception:
+    font = ImageFont.load_default()
+for i, s in enumerate(lines):
+    d.text((40, 40 + i * 58), s, fill=(0, 0, 0), font=font)
+rgba = np.array(img.convert("RGBA"))
+
+fd = open("/dev/fb0", "r+b")
+os.lseek(fd.fileno(), 0, os.SEEK_SET)
+fd.write(rgba.tobytes())
+os.lseek(fd.fileno(), 0, os.SEEK_SET)
+raw = fd.read(1024 * 768 * 4)
+fd.close()
+arr = np.frombuffer(raw, dtype=np.uint8).reshape(768, 1024, 4)
+Image.fromarray(arr[:, :, :3]).save(os.path.join(OUT, "captured113.png"))
+print("captured ->", os.path.join(OUT, "captured113.png"))
+
+txt = subprocess.run(["tesseract", os.path.join(OUT, "captured113.png"), "stdout"],
+                     capture_output=True, text=True).stdout
+hit = sum(1 for s in lines if s.split()[-1] in txt.replace(" ", ""))
+print("OCR out:\n", txt[:600])
+print(f"OCR hit {hit}/{len(lines)}  code_in={CODE in txt}")
+
+json.dump(dict(code=CODE, lines=lines, ocr_hit=hit, n_lines=len(lines),
+               code_found=CODE in txt),
+          open(os.path.join(OUT, "selfcheck113.json"), "w"), ensure_ascii=False, indent=2)

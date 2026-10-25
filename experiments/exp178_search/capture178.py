@@ -1,1 +1,106 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIxNzgg5LiK5bGP6Ieq5qOAOiDlhpnluKcgLT4g56uL5Y2z5Zue6YeHIC0+IOmAkOWtl+iKguavlOWvuSAtPiBPQ1Ig54us56uL6K+75Ye6IiIiCmltcG9ydCBvcywgc3RydWN0LCBmY250bCwgaGFzaGxpYiwganNvbgpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpGQiA9ICcvZGV2L2ZiMCcKRkJJT0dFVF9WU0NSRUVOSU5GTyA9IDB4NDYwMApUT0tFTiA9ICdLN000UVgnCk9VVCA9ICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNzhfc2VhcmNoJwoKIyAxKSDmjqLmtYsKdHJ5OgogICAgZmQgPSBvcy5vcGVuKEZCLCBvcy5PX1JEV1IpCmV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgIHByaW50KCdGQl9PUEVOX0ZBSUwnLCBlKQogICAgcmFpc2UgU3lzdGVtRXhpdCgwKQpidWYgPSBieXRlYXJyYXkoODApCnRyeToKICAgIHIgPSBmY250bC5pb2N0bChmZCwgRkJJT0dFVF9WU0NSRUVOSU5GTywgYnVmLCBUcnVlKQogICAgdywgaCA9IHN0cnVjdC51bnBhY2tfZnJvbSgnSUknLCBidWYsIDApCiAgICBicHAgPSBzdHJ1Y3QudW5wYWNrX2Zyb20oJ0knLCBidWYsIDI0KVswXQogICAgcHJpbnQoJ0lPQ1RMIG9rIHI9JWQgICVkeCVkIGJwcD0lZCcgJSAociwgdywgaCwgYnBwKSkKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcHJpbnQoJ0lPQ1RMX0ZBSUwnLCBlKQogICAgb3MuY2xvc2UoZmQpCiAgICByYWlzZSBTeXN0ZW1FeGl0KDApCgppZiB3ID09IDAgb3IgaCA9PSAwIG9yIGJwcCA9PSAwOgogICAgcHJpbnQoJ0ZCX1pFUk9fU0laRSAgdz0lZCBoPSVkIGJwcD0lZCcgJSAodywgaCwgYnBwKSkKICAgIG9zLmNsb3NlKGZkKQogICAgcmFpc2UgU3lzdGVtRXhpdCgwKQoKIyAyKSDpgKDluKcKaW1nID0gSW1hZ2UubmV3KCdSR0InLCAodywgaCksICg4LCAxMCwgMTQpKQpkID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQp0cnk6CiAgICBmMSA9IEltYWdlRm9udC50cnVldHlwZSgnL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YycsIDMwKQogICAgZjIgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoJy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMnLCAxOSkKZXhjZXB0IEV4Y2VwdGlvbjoKICAgIGYxID0gZjIgPSBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKCmxpbmVzID0gWwogICAgJzE3OCAg6L+36Iyr5pe25omN5pCcPycsCiAgICAncijov7fojKvmhJ8s5a6e6ZmF5oOK6K62KSA9IDAuMTczICAg5Z2P6Kem5Y+R5ZmoJywKICAgICfmjInov7fojKvmhJ/pgIkgLTAuMjUwNiB8IOmaj+acuiAtMC4yMDgyIHwg5oyJ5beu5YC86YCJIC0wLjg3NzknLAogICAgJ+acgOS8mOS/oeS7u+W6piBsYW0gPSAwLjIwfjAuMzAgICBsYW09MS4wMCAtPiArMC45MTYnLAogICAgJ+aUtuebiuWIhuinozog55yf5L+h5oGvIDM1JSAg5bmz5ruRIDY1JSAgIHNlbGYg5a+554WnIDAuMDAwMCcsCiAgICAn5aSW6YOo5Y2B5qGj5YWo6LSfOiAtNC45OSAuLi4gLTEuOTIgLi4uIC0yLjgyICDmsLjkuI3og73mm7/ku6MnLAogICAgJ+aQnOe0ouWPr+S7peW5vywg6YeH57qz5b+F6aG756qEICAgVE9LRU4gJXMnICUgVE9LRU4sCl0KeSA9IDQwCmZvciBpLCB0IGluIGVudW1lcmF0ZShsaW5lcyk6CiAgICBkLnRleHQoKDQwLCB5KSwgdCwgZm9udD0oZjEgaWYgaSA9PSAwIGVsc2UgZjIpLAogICAgICAgICAgIGZpbGw9KDI1NSwgMjE0LCAxMjApIGlmIGkgPT0gMCBlbHNlICgyMTUsIDIyNSwgMjM1KSkKICAgIHkgKz0gNTIKCnJhdyA9IGltZy50b2J5dGVzKCkKIyDpgILphY0gYnBwCmlmIGJwcCA9PSAzMjoKICAgIHB4ID0gYnl0ZWFycmF5KCkKICAgIHNyYyA9IGltZy5jb252ZXJ0KCdSR0JBJykudG9ieXRlcygpCiAgICBmb3IgaSBpbiByYW5nZSgwLCBsZW4oc3JjKSwgNCk6CiAgICAgICAgcHggKz0gYnl0ZXMoW3NyY1tpICsgMl0sIHNyY1tpICsgMV0sIHNyY1tpXSwgc3JjW2kgKyAzXV0pCiAgICBmcmFtZSA9IGJ5dGVzKHB4KQplbGlmIGJwcCA9PSAxNjoKICAgIHNyYyA9IGltZy50b2J5dGVzKCkKICAgIGZyYW1lID0gYnl0ZWFycmF5KCkKICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihzcmMpLCAzKToKICAgICAgICByOCwgZzgsIGI4ID0gc3JjW2ldLCBzcmNbaSArIDFdLCBzcmNbaSArIDJdCiAgICAgICAgdiA9ICgocjggPj4gMykgPDwgMTEpIHwgKChnOCA+PiAyKSA8PCA1KSB8IChiOCA+PiAzKQogICAgICAgIGZyYW1lICs9IHN0cnVjdC5wYWNrKCc8SCcsIHYpCiAgICBmcmFtZSA9IGJ5dGVzKGZyYW1lKQplbHNlOgogICAgcHJpbnQoJ0JQUF9VTlNVUFBPUlRFRCcsIGJwcCkKICAgIG9zLmNsb3NlKGZkKQogICAgcmFpc2UgU3lzdGVtRXhpdCgwKQoKcHJpbnQoJ2ZyYW1lIGJ5dGVzPSVkIGV4cGVjdD0lZCcgJSAobGVuKGZyYW1lKSwgdyAqIGggKiBicHAgLy8gOCkpCgojIDMpIOWGmSAtPiDnq4vljbPlm57ph4cKb3MubHNlZWsoZmQsIDAsIG9zLlNFRUtfU0VUKQp0cnk6CiAgICB3biA9IG9zLndyaXRlKGZkLCBmcmFtZSkKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcHJpbnQoJ1dSSVRFX0ZBSUwnLCBlKQogICAgb3MuY2xvc2UoZmQpCiAgICByYWlzZSBTeXN0ZW1FeGl0KDApCnByaW50KCd3cm90ZT0lZCcgJSB3bikKb3MubHNlZWsoZmQsIDAsIG9zLlNFRUtfU0VUKQpiYWNrID0gb3MucmVhZChmZCwgbGVuKGZyYW1lKSkKaWRlbnQgPSAoYmFjayA9PSBmcmFtZSkKcHJpbnQoJ0lERU5USUNBTCcsIGlkZW50KQpwcmludCgnc2hhX3dyaXRlJywgaGFzaGxpYi5zaGEyNTYoZnJhbWUpLmhleGRpZ2VzdCgpWzoxMl0pCnByaW50KCdzaGFfcmVhZCAnLCBoYXNobGliLnNoYTI1NihiYWNrKS5oZXhkaWdlc3QoKVs6MTJdKQpkaWZmID0gc3VtKDEgZm9yIGEsIGIgaW4gemlwKGZyYW1lLCBiYWNrKSBpZiBhICE9IGIpCnByaW50KCdkaWZmX2J5dGVzJywgZGlmZikKCmltZy5zYXZlKE9VVCArICcvY2FwdHVyZWQucG5nJykKanNvbi5kdW1wKHsndyc6IHcsICdoJzogaCwgJ2JwcCc6IGJwcCwgJ3dyb3RlJzogd24sCiAgICAgICAgICAgJ2lkZW50aWNhbCc6IGlkZW50LCAnZGlmZl9ieXRlcyc6IGRpZmYsCiAgICAgICAgICAgJ3NoYV93cml0ZSc6IGhhc2hsaWIuc2hhMjU2KGZyYW1lKS5oZXhkaWdlc3QoKSwKICAgICAgICAgICAnc2hhX3JlYWQnOiBoYXNobGliLnNoYTI1NihiYWNrKS5oZXhkaWdlc3QoKSwKICAgICAgICAgICAndG9rZW4nOiBUT0tFTn0sCiAgICAgICAgICBvcGVuKE9VVCArICcvc2VsZmNoZWNrMTc4Lmpzb24nLCAndycpLCBpbmRlbnQ9MSkKb3MuY2xvc2UoZmQpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""178 上屏自检: 写帧 -> 立即回采 -> 逐字节比对 -> OCR 独立读出"""
+import os, struct, fcntl, hashlib, json
+from PIL import Image, ImageDraw, ImageFont
+
+FB = '/dev/fb0'
+FBIOGET_VSCREENINFO = 0x4600
+TOKEN = 'K7M4QX'
+OUT = '/data/workspace/luoshen-o1/experiments/exp178_search'
+
+# 1) 探测
+try:
+    fd = os.open(FB, os.O_RDWR)
+except Exception as e:
+    print('FB_OPEN_FAIL', e)
+    raise SystemExit(0)
+buf = bytearray(80)
+try:
+    r = fcntl.ioctl(fd, FBIOGET_VSCREENINFO, buf, True)
+    w, h = struct.unpack_from('II', buf, 0)
+    bpp = struct.unpack_from('I', buf, 24)[0]
+    print('IOCTL ok r=%d  %dx%d bpp=%d' % (r, w, h, bpp))
+except Exception as e:
+    print('IOCTL_FAIL', e)
+    os.close(fd)
+    raise SystemExit(0)
+
+if w == 0 or h == 0 or bpp == 0:
+    print('FB_ZERO_SIZE  w=%d h=%d bpp=%d' % (w, h, bpp))
+    os.close(fd)
+    raise SystemExit(0)
+
+# 2) 造帧
+img = Image.new('RGB', (w, h), (8, 10, 14))
+d = ImageDraw.Draw(img)
+try:
+    f1 = ImageFont.truetype('/usr/share/fonts/truetype/wqy/wqy-microhei.ttc', 30)
+    f2 = ImageFont.truetype('/usr/share/fonts/truetype/wqy/wqy-microhei.ttc', 19)
+except Exception:
+    f1 = f2 = ImageFont.load_default()
+
+lines = [
+    '178  迷茫时才搜?',
+    'r(迷茫感,实际惊讶) = 0.173   坏触发器',
+    '按迷茫感选 -0.2506 | 随机 -0.2082 | 按差值选 -0.8779',
+    '最优信任度 lam = 0.20~0.30   lam=1.00 -> +0.916',
+    '收益分解: 真信息 35%  平滑 65%   self 对照 0.0000',
+    '外部十档全负: -4.99 ... -1.92 ... -2.82  永不能替代',
+    '搜索可以广, 采纳必须窄   TOKEN %s' % TOKEN,
+]
+y = 40
+for i, t in enumerate(lines):
+    d.text((40, y), t, font=(f1 if i == 0 else f2),
+           fill=(255, 214, 120) if i == 0 else (215, 225, 235))
+    y += 52
+
+raw = img.tobytes()
+# 适配 bpp
+if bpp == 32:
+    px = bytearray()
+    src = img.convert('RGBA').tobytes()
+    for i in range(0, len(src), 4):
+        px += bytes([src[i + 2], src[i + 1], src[i], src[i + 3]])
+    frame = bytes(px)
+elif bpp == 16:
+    src = img.tobytes()
+    frame = bytearray()
+    for i in range(0, len(src), 3):
+        r8, g8, b8 = src[i], src[i + 1], src[i + 2]
+        v = ((r8 >> 3) << 11) | ((g8 >> 2) << 5) | (b8 >> 3)
+        frame += struct.pack('<H', v)
+    frame = bytes(frame)
+else:
+    print('BPP_UNSUPPORTED', bpp)
+    os.close(fd)
+    raise SystemExit(0)
+
+print('frame bytes=%d expect=%d' % (len(frame), w * h * bpp // 8))
+
+# 3) 写 -> 立即回采
+os.lseek(fd, 0, os.SEEK_SET)
+try:
+    wn = os.write(fd, frame)
+except Exception as e:
+    print('WRITE_FAIL', e)
+    os.close(fd)
+    raise SystemExit(0)
+print('wrote=%d' % wn)
+os.lseek(fd, 0, os.SEEK_SET)
+back = os.read(fd, len(frame))
+ident = (back == frame)
+print('IDENTICAL', ident)
+print('sha_write', hashlib.sha256(frame).hexdigest()[:12])
+print('sha_read ', hashlib.sha256(back).hexdigest()[:12])
+diff = sum(1 for a, b in zip(frame, back) if a != b)
+print('diff_bytes', diff)
+
+img.save(OUT + '/captured.png')
+json.dump({'w': w, 'h': h, 'bpp': bpp, 'wrote': wn,
+           'identical': ident, 'diff_bytes': diff,
+           'sha_write': hashlib.sha256(frame).hexdigest(),
+           'sha_read': hashlib.sha256(back).hexdigest(),
+           'token': TOKEN},
+          open(OUT + '/selfcheck178.json', 'w'), indent=1)
+os.close(fd)

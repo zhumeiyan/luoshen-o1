@@ -1,1 +1,398 @@
-IiIiQW5hbHl6ZSBnaXQgZGlmZnMgdG8gZGV0ZXJtaW5lIHdoaWNoIGRpcmVjdG9yaWVzIG5lZWQgdG8gYmUgdGVzdGVkLgoKSW50ZWxsaWdlbnRseSBkZXRlcm1pbmVzIHdoaWNoIExhbmdDaGFpbiBwYWNrYWdlcyBhbmQgZGlyZWN0b3JpZXMgbmVlZCB0byBiZSB0ZXN0ZWQsCmxpbnRlZCwgb3IgYnVpbHQgYmFzZWQgb24gdGhlIGNoYW5nZXMuIEhhbmRsZXMgZGVwZW5kZW5jeSByZWxhdGlvbnNoaXBzIGJldHdlZW4KcGFja2FnZXMsIG1hcHMgZmlsZSBjaGFuZ2VzIHRvIGFwcHJvcHJpYXRlIENJIGpvYiBjb25maWd1cmF0aW9ucywgYW5kIG91dHB1dHMgSlNPTgpjb25maWd1cmF0aW9ucyBmb3IgR2l0SHViIEFjdGlvbnMuCgotIE1hcHMgY2hhbmdlZCBmaWxlcyB0byBhZmZlY3RlZCBwYWNrYWdlIGRpcmVjdG9yaWVzIChsaWJzL2NvcmUsIGxpYnMvcGFydG5lcnMvKiwgZXRjLikKLSBCdWlsZHMgZGVwZW5kZW5jeSBncmFwaCB0byBpbmNsdWRlIGRlcGVuZGVudCBwYWNrYWdlcyB3aGVuIGNvcmUgY29tcG9uZW50cyBjaGFuZ2UKLSBHZW5lcmF0ZXMgdGVzdCBtYXRyaXggY29uZmlndXJhdGlvbnMgd2l0aCBhcHByb3ByaWF0ZSBQeXRob24gdmVyc2lvbnMKLSBIYW5kbGVzIHNwZWNpYWwgY2FzZXMgZm9yIFB5ZGFudGljIHZlcnNpb24gdGVzdGluZyBhbmQgcGVyZm9ybWFuY2UgYmVuY2htYXJrcwoKVXNlZCBhcyBwYXJ0IG9mIHRoZSBjaGVja19kaWZmcyB3b3JrZmxvdy4KIiIiCgppbXBvcnQgZ2xvYgppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHN5cwpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdApmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QsIExpc3QsIFNldAoKaW1wb3J0IHRvbWxsaWIKZnJvbSBnZXRfbWluX3ZlcnNpb25zIGltcG9ydCBnZXRfbWluX3ZlcnNpb25fZnJvbV90b21sCmZyb20gcGFja2FnaW5nLnJlcXVpcmVtZW50cyBpbXBvcnQgUmVxdWlyZW1lbnQKCkxBTkdDSEFJTl9ESVJTID0gWwogICAgImxpYnMvY29yZSIsCiAgICAibGlicy90ZXh0LXNwbGl0dGVycyIsCiAgICAibGlicy9sYW5nY2hhaW4iLAogICAgImxpYnMvbGFuZ2NoYWluX3YxIiwKICAgICJsaWJzL21vZGVsLXByb2ZpbGVzIiwKXQoKIyBQYWNrYWdlcyB3aXRoIFZDUiBjYXNzZXR0ZS1iYWNrZWQgaW50ZWdyYXRpb24gdGVzdHMuCiMgVGhlc2UgZ2V0IGEgcGxheWJhY2stb25seSBDSSBjaGVjayB0byBjYXRjaCBzdGFsZSBjYXNzZXR0ZXMuClZDUl9QQUNLQUdFUyA9IHsKICAgICJsaWJzL3BhcnRuZXJzL29wZW5haSIsCn0KCiMgV2hlbiBzZXQgdG8gVHJ1ZSwgd2UgYXJlIGlnbm9yaW5nIGNvcmUgZGVwZW5kZW50cwojIGluIG9yZGVyIHRvIGJlIGFibGUgdG8gZ2V0IENJIHRvIHBhc3MgZm9yIGVhY2ggaW5kaXZpZHVhbAojIHBhY2thZ2UgdGhhdCBkZXBlbmRzIG9uIGNvcmUKIyBlLmcuIGlmIHlvdSB0b3VjaCBjb3JlLCB3ZSBkb24ndCB0aGVuIGFkZCB0ZXh0c3BsaXR0ZXJzL2V0YyB0byBDSQpJR05PUkVfQ09SRV9ERVBFTkRFTlRTID0gRmFsc2UKCiMgSWdub3JlZCBwYXJ0bmVycyBhcmUgcmVtb3ZlZCBmcm9tIGRlcGVuZGVudHMgYnV0IHN0aWxsIHJ1biBpZiBkaXJlY3RseSBlZGl0ZWQKSUdOT1JFRF9QQVJUTkVSUyA9IFsKICAgICMgcmVtb3ZlIGh1Z2dpbmdmYWNlIGZyb20gZGVwZW5kZW50cyBiZWNhdXNlIG9mIENJIGluc3RhYmlsaXR5CiAgICAjIHNwZWNpZmljYWxseSBpbiBodWdnaW5nZmFjZSBqb2JzCiAgICAiaHVnZ2luZ2ZhY2UiLApdCgoKZGVmIGFsbF9wYWNrYWdlX2RpcnMoKSAtPiBTZXRbc3RyXToKICAgIHJldHVybiB7CiAgICAgICAgIi8iLmpvaW4ocGF0aC5zcGxpdCgiLyIpWzotMV0pLmxzdHJpcCgiLi8iKQogICAgICAgIGZvciBwYXRoIGluIGdsb2IuZ2xvYigiLi9saWJzLyoqL3B5cHJvamVjdC50b21sIiwgcmVjdXJzaXZlPVRydWUpCiAgICAgICAgaWYgImxpYnMvc3RhbmRhcmQtdGVzdHMiIG5vdCBpbiBwYXRoCiAgICB9CgoKZGVmIGRlcGVuZGVudHNfZ3JhcGgoKSAtPiBkaWN0OgogICAgIiIiQ29uc3RydWN0IGEgbWFwcGluZyBvZiBwYWNrYWdlIC0+IGRlcGVuZGVudHMKCiAgICBEb25lIHN1Y2ggdGhhdCB3ZSBjYW4gcnVuIHRlc3RzIG9uIGFsbCBkZXBlbmRlbnRzIG9mIGEgcGFja2FnZSB3aGVuIGEgY2hhbmdlIGlzIG1hZGUuCiAgICAiIiIKICAgIGRlcGVuZGVudHMgPSBkZWZhdWx0ZGljdChzZXQpCgogICAgZm9yIHBhdGggaW4gZ2xvYi5nbG9iKCIuL2xpYnMvKiovcHlwcm9qZWN0LnRvbWwiLCByZWN1cnNpdmU9VHJ1ZSk6CiAgICAgICAgaWYgInRlbXBsYXRlIiBpbiBwYXRoOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAjIGxvYWQgcmVndWxhciBhbmQgdGVzdCBkZXBzIGZyb20gcHlwcm9qZWN0LnRvbWwKICAgICAgICB3aXRoIG9wZW4ocGF0aCwgInJiIikgYXMgZjoKICAgICAgICAgICAgcHlwcm9qZWN0ID0gdG9tbGxpYi5sb2FkKGYpCgogICAgICAgIHBrZ19kaXIgPSAibGlicyIgKyAiLyIuam9pbihwYXRoLnNwbGl0KCJsaWJzIilbMV0uc3BsaXQoIi8iKVs6LTFdKQogICAgICAgIGZvciBkZXAgaW4gWwogICAgICAgICAgICAqcHlwcm9qZWN0WyJwcm9qZWN0Il1bImRlcGVuZGVuY2llcyJdLAogICAgICAgICAgICAqcHlwcm9qZWN0WyJkZXBlbmRlbmN5LWdyb3VwcyJdWyJ0ZXN0Il0sCiAgICAgICAgXToKICAgICAgICAgICAgcmVxdWlyZW1lbnQgPSBSZXF1aXJlbWVudChkZXApCiAgICAgICAgICAgIHBhY2thZ2VfbmFtZSA9IHJlcXVpcmVtZW50Lm5hbWUKICAgICAgICAgICAgaWYgImxhbmdjaGFpbiIgaW4gZGVwOgogICAgICAgICAgICAgICAgZGVwZW5kZW50c1twYWNrYWdlX25hbWVdLmFkZChwa2dfZGlyKQogICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgIyBsb2FkIGV4dGVuZGVkIGRlcHMgZnJvbSBleHRlbmRlZF90ZXN0aW5nX2RlcHMudHh0CiAgICAgICAgcGFja2FnZV9wYXRoID0gUGF0aChwYXRoKS5wYXJlbnQKICAgICAgICBleHRlbmRlZF9yZXF1aXJlbWVudF9wYXRoID0gcGFja2FnZV9wYXRoIC8gImV4dGVuZGVkX3Rlc3RpbmdfZGVwcy50eHQiCiAgICAgICAgaWYgZXh0ZW5kZWRfcmVxdWlyZW1lbnRfcGF0aC5leGlzdHMoKToKICAgICAgICAgICAgd2l0aCBvcGVuKGV4dGVuZGVkX3JlcXVpcmVtZW50X3BhdGgsICJyIikgYXMgZjoKICAgICAgICAgICAgICAgIGV4dGVuZGVkX2RlcHMgPSBmLnJlYWQoKS5zcGxpdGxpbmVzKCkKICAgICAgICAgICAgICAgIGZvciBkZXBsaW5lIGluIGV4dGVuZGVkX2RlcHM6CiAgICAgICAgICAgICAgICAgICAgaWYgZGVwbGluZS5zdGFydHN3aXRoKCItZSAiKToKICAgICAgICAgICAgICAgICAgICAgICAgIyBlZGl0YWJsZSBkZXBlbmRlbmN5CiAgICAgICAgICAgICAgICAgICAgICAgIGFzc2VydCBkZXBsaW5lLnN0YXJ0c3dpdGgoIi1lIC4uL3BhcnRuZXJzLyIpLCAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiRXh0ZW5kZWQgdGVzdCBkZXBzIHNob3VsZCBvbmx5IGVkaXRhYmxlIGluc3RhbGwgcGFydG5lciBwYWNrYWdlcyIKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICBwYXJ0bmVyID0gZGVwbGluZS5zcGxpdCgicGFydG5lcnMvIilbMV0KICAgICAgICAgICAgICAgICAgICAgICAgZGVwID0gZiJsYW5nY2hhaW4te3BhcnRuZXJ9IgogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIGRlcCA9IGRlcGxpbmUuc3BsaXQoIj09IilbMF0KCiAgICAgICAgICAgICAgICAgICAgaWYgImxhbmdjaGFpbiIgaW4gZGVwOgogICAgICAgICAgICAgICAgICAgICAgICBkZXBlbmRlbnRzW2RlcF0uYWRkKHBrZ19kaXIpCgogICAgZm9yIGsgaW4gZGVwZW5kZW50czoKICAgICAgICBmb3IgcGFydG5lciBpbiBJR05PUkVEX1BBUlRORVJTOgogICAgICAgICAgICBpZiBmImxpYnMvcGFydG5lcnMve3BhcnRuZXJ9IiBpbiBkZXBlbmRlbnRzW2tdOgogICAgICAgICAgICAgICAgZGVwZW5kZW50c1trXS5yZW1vdmUoZiJsaWJzL3BhcnRuZXJzL3twYXJ0bmVyfSIpCiAgICByZXR1cm4gZGVwZW5kZW50cwoKCmRlZiBhZGRfZGVwZW5kZW50cyhkaXJzX3RvX2V2YWw6IFNldFtzdHJdLCBkZXBlbmRlbnRzOiBkaWN0KSAtPiBMaXN0W3N0cl06CiAgICB1cGRhdGVkID0gc2V0KCkKICAgIGZvciBkaXJfIGluIGRpcnNfdG9fZXZhbDoKICAgICAgICAjIGhhbmRsZSBjb3JlIG1hbnVhbGx5IGJlY2F1c2UgaXQgaGFzIHNvIG1hbnkgZGVwZW5kZW50cwogICAgICAgIGlmICJjb3JlIiBpbiBkaXJfOgogICAgICAgICAgICB1cGRhdGVkLmFkZChkaXJfKQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHBrZyA9ICJsYW5nY2hhaW4tIiArIGRpcl8uc3BsaXQoIi8iKVstMV0KICAgICAgICB1cGRhdGVkLnVwZGF0ZShkZXBlbmRlbnRzW3BrZ10pCiAgICAgICAgdXBkYXRlZC5hZGQoZGlyXykKICAgIHJldHVybiBsaXN0KHVwZGF0ZWQpCgoKZGVmIF9nZXRfY29uZmlnc19mb3Jfc2luZ2xlX2Rpcihqb2I6IHN0ciwgZGlyXzogc3RyKSAtPiBMaXN0W0RpY3Rbc3RyLCBzdHJdXToKICAgIGlmIGpvYiA9PSAidGVzdC1weWRhbnRpYyI6CiAgICAgICAgcmV0dXJuIF9nZXRfcHlkYW50aWNfdGVzdF9jb25maWdzKGRpcl8pCgogICAgaWYgam9iID09ICJjb2RzcGVlZCI6CiAgICAgICAgIyBDUFUgc2ltdWxhdGlvbiAoPDElIHZhcmlhbmNlLCBWYWxncmluZC1iYXNlZCkgaXMgdGhlIGRlZmF1bHQuCiAgICAgICAgIyBQYXJ0bmVycyB3aXRoIGhlYXZ5IFNESyBpbml0cyB1c2Ugd2FsbHRpbWUgaW5zdGVhZCB0byBrZWVwIENJIGZhc3QuCiAgICAgICAgQ09EU1BFRURfV0FMTFRJTUVfRElSUyA9IHsKICAgICAgICAgICAgImxpYnMvY29yZSIsCiAgICAgICAgICAgICJsaWJzL3BhcnRuZXJzL2ZpcmV3b3JrcyIsICAjIH4zMjhzIHVuZGVyIHNpbXVsYXRpb24KICAgICAgICAgICAgImxpYnMvcGFydG5lcnMvb3BlbmFpIiwgICMgNiBiZW5jaG1hcmtzLCB+NiBtaW4gdW5kZXIgc2ltdWxhdGlvbgogICAgICAgIH0KICAgICAgICBtb2RlID0gIndhbGx0aW1lIiBpZiBkaXJfIGluIENPRFNQRUVEX1dBTExUSU1FX0RJUlMgZWxzZSAic2ltdWxhdGlvbiIKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAid29ya2luZy1kaXJlY3RvcnkiOiBkaXJfLAogICAgICAgICAgICAgICAgInB5dGhvbi12ZXJzaW9uIjogIjMuMTMiLAogICAgICAgICAgICAgICAgImNvZHNwZWVkLW1vZGUiOiBtb2RlLAogICAgICAgICAgICB9CiAgICAgICAgXQogICAgaWYgZGlyXyA9PSAibGlicy9jb3JlIjoKICAgICAgICBweV92ZXJzaW9ucyA9IFsiMy4xMCIsICIzLjExIiwgIjMuMTIiLCAiMy4xMyIsICIzLjE0Il0KICAgIGVsc2U6CiAgICAgICAgcHlfdmVyc2lvbnMgPSBbIjMuMTAiLCAiMy4xNCJdCgogICAgcmV0dXJuIFt7IndvcmtpbmctZGlyZWN0b3J5IjogZGlyXywgInB5dGhvbi12ZXJzaW9uIjogcHlfdn0gZm9yIHB5X3YgaW4gcHlfdmVyc2lvbnNdCgoKZGVmIF9nZXRfcHlkYW50aWNfdGVzdF9jb25maWdzKAogICAgZGlyXzogc3RyLCAqLCBweXRob25fdmVyc2lvbjogc3RyID0gIjMuMTIiCikgLT4gTGlzdFtEaWN0W3N0ciwgc3RyXV06CiAgICB3aXRoIG9wZW4oIi4vbGlicy9jb3JlL3V2LmxvY2siLCAicmIiKSBhcyBmOgogICAgICAgIGNvcmVfdXZfbG9ja19kYXRhID0gdG9tbGxpYi5sb2FkKGYpCiAgICBmb3IgcGFja2FnZSBpbiBjb3JlX3V2X2xvY2tfZGF0YVsicGFja2FnZSJdOgogICAgICAgIGlmIHBhY2thZ2VbIm5hbWUiXSA9PSAicHlkYW50aWMiOgogICAgICAgICAgICBjb3JlX21heF9weWRhbnRpY19taW5vciA9IHBhY2thZ2VbInZlcnNpb24iXS5zcGxpdCgiLiIpWzFdCiAgICAgICAgICAgIGJyZWFrCgogICAgd2l0aCBvcGVuKGYiLi97ZGlyX30vdXYubG9jayIsICJyYiIpIGFzIGY6CiAgICAgICAgZGlyX3V2X2xvY2tfZGF0YSA9IHRvbWxsaWIubG9hZChmKQoKICAgIGZvciBwYWNrYWdlIGluIGRpcl91dl9sb2NrX2RhdGFbInBhY2thZ2UiXToKICAgICAgICBpZiBwYWNrYWdlWyJuYW1lIl0gPT0gInB5ZGFudGljIjoKICAgICAgICAgICAgZGlyX21heF9weWRhbnRpY19taW5vciA9IHBhY2thZ2VbInZlcnNpb24iXS5zcGxpdCgiLiIpWzFdCiAgICAgICAgICAgIGJyZWFrCgogICAgY29yZV9taW5fcHlkYW50aWNfdmVyc2lvbiA9IGdldF9taW5fdmVyc2lvbl9mcm9tX3RvbWwoCiAgICAgICAgIi4vbGlicy9jb3JlL3B5cHJvamVjdC50b21sIiwgInJlbGVhc2UiLCBweXRob25fdmVyc2lvbiwgaW5jbHVkZT1bInB5ZGFudGljIl0KICAgIClbInB5ZGFudGljIl0KICAgIGNvcmVfbWluX3B5ZGFudGljX21pbm9yID0gKAogICAgICAgIGNvcmVfbWluX3B5ZGFudGljX3ZlcnNpb24uc3BsaXQoIi4iKVsxXQogICAgICAgIGlmICIuIiBpbiBjb3JlX21pbl9weWRhbnRpY192ZXJzaW9uCiAgICAgICAgZWxzZSAiMCIKICAgICkKICAgIGRpcl9taW5fcHlkYW50aWNfdmVyc2lvbiA9IGdldF9taW5fdmVyc2lvbl9mcm9tX3RvbWwoCiAgICAgICAgZiIuL3tkaXJffS9weXByb2plY3QudG9tbCIsICJyZWxlYXNlIiwgcHl0aG9uX3ZlcnNpb24sIGluY2x1ZGU9WyJweWRhbnRpYyJdCiAgICApLmdldCgicHlkYW50aWMiLCAiMC4wLjAiKQogICAgZGlyX21pbl9weWRhbnRpY19taW5vciA9ICgKICAgICAgICBkaXJfbWluX3B5ZGFudGljX3ZlcnNpb24uc3BsaXQoIi4iKVsxXQogICAgICAgIGlmICIuIiBpbiBkaXJfbWluX3B5ZGFudGljX3ZlcnNpb24KICAgICAgICBlbHNlICIwIgogICAgKQoKICAgIG1heF9weWRhbnRpY19taW5vciA9IG1pbigKICAgICAgICBpbnQoZGlyX21heF9weWRhbnRpY19taW5vciksCiAgICAgICAgaW50KGNvcmVfbWF4X3B5ZGFudGljX21pbm9yKSwKICAgICkKICAgIG1pbl9weWRhbnRpY19taW5vciA9IG1heCgKICAgICAgICBpbnQoZGlyX21pbl9weWRhbnRpY19taW5vciksCiAgICAgICAgaW50KGNvcmVfbWluX3B5ZGFudGljX21pbm9yKSwKICAgICkKCiAgICBjb25maWdzID0gWwogICAgICAgIHsKICAgICAgICAgICAgIndvcmtpbmctZGlyZWN0b3J5IjogZGlyXywKICAgICAgICAgICAgInB5ZGFudGljLXZlcnNpb24iOiBmIjIue3Z9LjAiLAogICAgICAgICAgICAicHl0aG9uLXZlcnNpb24iOiBweXRob25fdmVyc2lvbiwKICAgICAgICB9CiAgICAgICAgZm9yIHYgaW4gcmFuZ2UobWluX3B5ZGFudGljX21pbm9yLCBtYXhfcHlkYW50aWNfbWlub3IgKyAxKQogICAgXQogICAgcmV0dXJuIGNvbmZpZ3MKCgpkZWYgX2dldF9jb25maWdzX2Zvcl9tdWx0aV9kaXJzKAogICAgam9iOiBzdHIsIGRpcnNfdG9fcnVuOiBEaWN0W3N0ciwgU2V0W3N0cl1dLCBkZXBlbmRlbnRzOiBkaWN0CikgLT4gTGlzdFtEaWN0W3N0ciwgc3RyXV06CiAgICBpZiBqb2IgPT0gImxpbnQiOgogICAgICAgIGRpcnMgPSBhZGRfZGVwZW5kZW50cygKICAgICAgICAgICAgZGlyc190b19ydW5bImxpbnQiXSB8IGRpcnNfdG9fcnVuWyJ0ZXN0Il0gfCBkaXJzX3RvX3J1blsiZXh0ZW5kZWQtdGVzdCJdLAogICAgICAgICAgICBkZXBlbmRlbnRzLAogICAgICAgICkKICAgIGVsaWYgam9iIGluIFsidGVzdCIsICJjb21waWxlLWludGVncmF0aW9uLXRlc3RzIiwgImRlcGVuZGVuY2llcyIsICJ0ZXN0LXB5ZGFudGljIl06CiAgICAgICAgZGlycyA9IGFkZF9kZXBlbmRlbnRzKAogICAgICAgICAgICBkaXJzX3RvX3J1blsidGVzdCJdIHwgZGlyc190b19ydW5bImV4dGVuZGVkLXRlc3QiXSwgZGVwZW5kZW50cwogICAgICAgICkKICAgIGVsaWYgam9iID09ICJleHRlbmRlZC10ZXN0cyI6CiAgICAgICAgZGlycyA9IGxpc3QoZGlyc190b19ydW5bImV4dGVuZGVkLXRlc3QiXSkKICAgIGVsaWYgam9iID09ICJjb2RzcGVlZCI6CiAgICAgICAgZGlycyA9IGxpc3QoZGlyc190b19ydW5bImNvZHNwZWVkIl0pCiAgICBlbGlmIGpvYiA9PSAidmNyLXRlc3RzIjoKICAgICAgICAjIE9ubHkgcnVuIFZDUiB0ZXN0cyBmb3IgcGFja2FnZXMgdGhhdCBoYXZlIGNhc3NldHRlcyBhbmQgYXJlIGFmZmVjdGVkCiAgICAgICAgYWxsX2FmZmVjdGVkID0gc2V0KAogICAgICAgICAgICBhZGRfZGVwZW5kZW50cygKICAgICAgICAgICAgICAgIGRpcnNfdG9fcnVuWyJ0ZXN0Il0gfCBkaXJzX3RvX3J1blsiZXh0ZW5kZWQtdGVzdCJdLCBkZXBlbmRlbnRzCiAgICAgICAgICAgICkKICAgICAgICApCiAgICAgICAgZGlycyA9IFtkIGZvciBkIGluIFZDUl9QQUNLQUdFUyBpZiBkIGluIGFsbF9hZmZlY3RlZF0KICAgIGVsc2U6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIlVua25vd24gam9iOiB7am9ifSIpCgogICAgcmV0dXJuIFsKICAgICAgICBjb25maWcgZm9yIGRpcl8gaW4gZGlycyBmb3IgY29uZmlnIGluIF9nZXRfY29uZmlnc19mb3Jfc2luZ2xlX2Rpcihqb2IsIGRpcl8pCiAgICBdCgoKZGVmIF9nZXRfY2hhbmdlZF9maWxlcyhhcmdzOiBsaXN0W3N0cl0pIC0+IGxpc3Rbc3RyXToKICAgICIiIlBhcnNlIGNoYW5nZWQgZmlsZXMgZnJvbSBjb21tYW5kLWxpbmUgYXJndW1lbnRzLgoKICAgIEFyZ3M6CiAgICAgICAgYXJnczogRWl0aGVyIGEgbGVnYWN5IGxpc3Qgb2YgZmlsZW5hbWUgYXJndW1lbnRzIG9yIGEgc2luZ2xlIEpTT04gYXJyYXkKICAgICAgICAgICAgcHJvZHVjZWQgYnkgYEFuYTA2L2dldC1jaGFuZ2VkLWZpbGVzYCB3aXRoIGBmb3JtYXQ6IGpzb25gLgoKICAgIFJldHVybnM6CiAgICAgICAgTGlzdCBvZiBjaGFuZ2VkIGZpbGVzLgoKICAgIFJhaXNlczoKICAgICAgICBWYWx1ZUVycm9yOiBJZiBhIHNpbmdsZSBhcmd1bWVudCBsb29rcyBsaWtlIEpTT04gYnV0IGlzIG5vdCBhIHN0cmluZyBhcnJheS4KICAgICIiIgogICAgaWYgbGVuKGFyZ3MpICE9IDE6CiAgICAgICAgcmV0dXJuIGFyZ3MKCiAgICB2YWx1ZSA9IGFyZ3NbMF0uc3RyaXAoKQogICAgaWYgbm90IHZhbHVlLnN0YXJ0c3dpdGgoIlsiKSBvciBub3QgdmFsdWUuZW5kc3dpdGgoIl0iKToKICAgICAgICByZXR1cm4gYXJncwoKICAgIHRyeToKICAgICAgICBwYXJzZWQgPSBqc29uLmxvYWRzKHZhbHVlKQogICAgZXhjZXB0IGpzb24uSlNPTkRlY29kZUVycm9yIGFzIGU6CiAgICAgICAgbXNnID0gIkV4cGVjdGVkIGNoYW5nZWQgZmlsZXMgSlNPTiB0byBiZSBhIGxpc3Qgb2Ygc3RyaW5ncy4iCiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihtc2cpIGZyb20gZQoKICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhcnNlZCwgbGlzdCkgb3Igbm90IGFsbCgKICAgICAgICBpc2luc3RhbmNlKGZpbGUsIHN0cikgZm9yIGZpbGUgaW4gcGFyc2VkCiAgICApOgogICAgICAgIG1zZyA9ICJFeHBlY3RlZCBjaGFuZ2VkIGZpbGVzIEpTT04gdG8gYmUgYSBsaXN0IG9mIHN0cmluZ3MuIgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IobXNnKQogICAgcmV0dXJuIHBhcnNlZAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBmaWxlcyA9IF9nZXRfY2hhbmdlZF9maWxlcyhzeXMuYXJndlsxOl0pCgogICAgZGlyc190b19ydW46IERpY3Rbc3RyLCBzZXRdID0gewogICAgICAgICJsaW50Ijogc2V0KCksCiAgICAgICAgInRlc3QiOiBzZXQoKSwKICAgICAgICAiZXh0ZW5kZWQtdGVzdCI6IHNldCgpLAogICAgICAgICJjb2RzcGVlZCI6IHNldCgpLAogICAgfQogICAgZG9jc19lZGl0ZWQgPSBGYWxzZQoKICAgIGlmIGxlbihmaWxlcykgPj0gMzAwOgogICAgICAgICMgbWF4IGRpZmYgbGVuZ3RoIGlzIDMwMCBmaWxlcyAtIHRoZXJlIGFyZSBsaWtlbHkgZmlsZXMgbWlzc2luZwogICAgICAgIGRpcnNfdG9fcnVuWyJsaW50Il0gPSBhbGxfcGFja2FnZV9kaXJzKCkKICAgICAgICBkaXJzX3RvX3J1blsidGVzdCJdID0gYWxsX3BhY2thZ2VfZGlycygpCiAgICAgICAgZGlyc190b19ydW5bImV4dGVuZGVkLXRlc3QiXSA9IHNldChMQU5HQ0hBSU5fRElSUykKCiAgICBmb3IgZmlsZSBpbiBmaWxlczoKICAgICAgICBpZiBhbnkoCiAgICAgICAgICAgIGZpbGUuc3RhcnRzd2l0aChkaXJfKQogICAgICAgICAgICBmb3IgZGlyXyBpbiAoCiAgICAgICAgICAgICAgICAiLmdpdGh1Yi93b3JrZmxvd3MiLAogICAgICAgICAgICAgICAgIi5naXRodWIvdG9vbHMiLAogICAgICAgICAgICAgICAgIi5naXRodWIvYWN0aW9ucyIsCiAgICAgICAgICAgICAgICAiLmdpdGh1Yi9zY3JpcHRzL2NoZWNrX2RpZmYucHkiLAogICAgICAgICAgICApCiAgICAgICAgKToKICAgICAgICAgICAgIyBJbmZyYXN0cnVjdHVyZSBjaGFuZ2VzICh3b3JrZmxvd3MsIGFjdGlvbnMsIENJIHNjcmlwdHMpIHRyaWdnZXIgdGVzdHMgb24KICAgICAgICAgICAgIyBhbGwgY29yZSBwYWNrYWdlcyBhcyBhIHNhZmV0eSBtZWFzdXJlLiBUaGlzIGVuc3VyZXMgdGhhdCBjaGFuZ2VzIHRvIENJL0NECiAgICAgICAgICAgICMgaW5mcmFzdHJ1Y3R1cmUgZG9uJ3QgaW5hZHZlcnRlbnRseSBicmVhayBwYWNrYWdlIHRlc3RpbmcsIGV2ZW4gaWYgdGhlIGNoYW5nZQogICAgICAgICAgICAjIGFwcGVhcnMgdW5yZWxhdGVkIChlLmcuLCBkb2N1bWVudGF0aW9uIGJ1aWxkIHdvcmtmbG93cykuIFRoaXMgaXMgaW50ZW50aW9uYWxseQogICAgICAgICAgICAjIGNvbnNlcnZhdGl2ZSB0byBjYXRjaCB1bmV4cGVjdGVkIHNpZGUgZWZmZWN0cyBmcm9tIHdvcmtmbG93IG1vZGlmaWNhdGlvbnMuCiAgICAgICAgICAgICMKICAgICAgICAgICAgIyBFeGFtcGxlOiBBIFBSIG1vZGlmeWluZyAuZ2l0aHViL3dvcmtmbG93cy9hcGlfZG9jX2J1aWxkLnltbCB3aWxsIHRyaWdnZXIKICAgICAgICAgICAgIyBsaW50L3Rlc3Qgam9icyBmb3IgbGlicy9jb3JlLCBsaWJzL3RleHQtc3BsaXR0ZXJzLCBsaWJzL2xhbmdjaGFpbiwgYW5kCiAgICAgICAgICAgICMgbGlicy9sYW5nY2hhaW5fdjEsIGV2ZW4gdGhvdWdoIHRoZSB3b3JrZmxvdyBtYXkgb25seSBhZmZlY3QgZG9jdW1lbnRhdGlvbi4KICAgICAgICAgICAgZGlyc190b19ydW5bImV4dGVuZGVkLXRlc3QiXS51cGRhdGUoTEFOR0NIQUlOX0RJUlMpCgogICAgICAgIGlmIGZpbGUuc3RhcnRzd2l0aCgibGlicy9jb3JlIik6CiAgICAgICAgICAgIGRpcnNfdG9fcnVuWyJjb2RzcGVlZCJdLmFkZCgibGlicy9jb3JlIikKICAgICAgICBpZiBmaWxlLnN0YXJ0c3dpdGgoImxpYnMvbGFuZ2NoYWluX3YxIik6CiAgICAgICAgICAgIGRpcnNfdG9fcnVuWyJjb2RzcGVlZCJdLmFkZCgibGlicy9sYW5nY2hhaW5fdjEiKQogICAgICAgIGlmIGFueShmaWxlLnN0YXJ0c3dpdGgoZGlyXykgZm9yIGRpcl8gaW4gTEFOR0NIQUlOX0RJUlMpOgogICAgICAgICAgICAjIGFkZCB0aGF0IGRpciBhbmQgYWxsIGRpcnMgYWZ0ZXIgaW4gTEFOR0NIQUlOX0RJUlMKICAgICAgICAgICAgIyBmb3IgZXh0ZW5kZWQgdGVzdGluZwoKICAgICAgICAgICAgZm91bmQgPSBGYWxzZQogICAgICAgICAgICBmb3IgZGlyXyBpbiBMQU5HQ0hBSU5fRElSUzoKICAgICAgICAgICAgICAgIGlmIGRpcl8gPT0gImxpYnMvY29yZSIgYW5kIElHTk9SRV9DT1JFX0RFUEVOREVOVFM6CiAgICAgICAgICAgICAgICAgICAgZGlyc190b19ydW5bImV4dGVuZGVkLXRlc3QiXS5hZGQoZGlyXykKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgaWYgZmlsZS5zdGFydHN3aXRoKGRpcl8pOgogICAgICAgICAgICAgICAgICAgIGZvdW5kID0gVHJ1ZQogICAgICAgICAgICAgICAgaWYgZm91bmQ6CiAgICAgICAgICAgICAgICAgICAgZGlyc190b19ydW5bImV4dGVuZGVkLXRlc3QiXS5hZGQoZGlyXykKICAgICAgICBlbGlmIGZpbGUuc3RhcnRzd2l0aCgibGlicy9zdGFuZGFyZC10ZXN0cyIpOgogICAgICAgICAgICAjIFRPRE86IHVwZGF0ZSB0byBpbmNsdWRlIGFsbCBwYWNrYWdlcyB0aGF0IHJlbHkgb24gc3RhbmRhcmQtdGVzdHMgKGFsbCBwYXJ0bmVyIHBhY2thZ2VzKQogICAgICAgICAgICAjIE5vdGU6IHdvbid0IHJ1biBvbiBleHRlcm5hbCByZXBvIHBhcnRuZXJzCiAgICAgICAgICAgIGRpcnNfdG9fcnVuWyJsaW50Il0uYWRkKCJsaWJzL3N0YW5kYXJkLXRlc3RzIikKICAgICAgICAgICAgZGlyc190b19ydW5bInRlc3QiXS5hZGQoImxpYnMvc3RhbmRhcmQtdGVzdHMiKQogICAgICAgICAgICBkaXJzX3RvX3J1blsidGVzdCJdLmFkZCgibGlicy9wYXJ0bmVycy9taXN0cmFsYWkiKQogICAgICAgICAgICBkaXJzX3RvX3J1blsidGVzdCJdLmFkZCgibGlicy9wYXJ0bmVycy9vcGVuYWkiKQogICAgICAgICAgICBkaXJzX3RvX3J1blsidGVzdCJdLmFkZCgibGlicy9wYXJ0bmVycy9hbnRocm9waWMiKQogICAgICAgICAgICBkaXJzX3RvX3J1blsidGVzdCJdLmFkZCgibGlicy9wYXJ0bmVycy9maXJld29ya3MiKQogICAgICAgICAgICBkaXJzX3RvX3J1blsidGVzdCJdLmFkZCgibGlicy9wYXJ0bmVycy9ncm9xIikKCiAgICAgICAgZWxpZiBmaWxlLnN0YXJ0c3dpdGgoImxpYnMvcGFydG5lcnMiKToKICAgICAgICAgICAgcGFydG5lcl9kaXIgPSBmaWxlLnNwbGl0KCIvIilbMl0KICAgICAgICAgICAgaWYgb3MucGF0aC5pc2RpcihmImxpYnMvcGFydG5lcnMve3BhcnRuZXJfZGlyfSIpIGFuZCBbCiAgICAgICAgICAgICAgICBmaWxlbmFtZQogICAgICAgICAgICAgICAgZm9yIGZpbGVuYW1lIGluIG9zLmxpc3RkaXIoZiJsaWJzL3BhcnRuZXJzL3twYXJ0bmVyX2Rpcn0iKQogICAgICAgICAgICAgICAgaWYgbm90IGZpbGVuYW1lLnN0YXJ0c3dpdGgoIi4iKQogICAgICAgICAgICBdICE9IFsiUkVBRE1FLm1kIl06CiAgICAgICAgICAgICAgICBkaXJzX3RvX3J1blsidGVzdCJdLmFkZChmImxpYnMvcGFydG5lcnMve3BhcnRuZXJfZGlyfSIpCiAgICAgICAgICAgICAgICAjIE9ubHkgYWRkIHRvIGNvZHNwZWVkIGlmIHRoZSBwYXJ0bmVyIGhhcyBiZW5jaG1hcmtzIGFuZCBpcyBub3QgaWdub3JlZAogICAgICAgICAgICAgICAgaWYgKAogICAgICAgICAgICAgICAgICAgIHBhcnRuZXJfZGlyIG5vdCBpbiBJR05PUkVEX1BBUlRORVJTCiAgICAgICAgICAgICAgICAgICAgYW5kIG9zLnBhdGguaXNkaXIoCiAgICAgICAgICAgICAgICAgICAgICAgIGYibGlicy9wYXJ0bmVycy97cGFydG5lcl9kaXJ9L3Rlc3RzL2JlbmNobWFya3MiCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKToKICAgICAgICAgICAgICAgICAgICBkaXJzX3RvX3J1blsiY29kc3BlZWQiXS5hZGQoZiJsaWJzL3BhcnRuZXJzL3twYXJ0bmVyX2Rpcn0iKQogICAgICAgICAgICAjIFNraXAgaWYgdGhlIGRpcmVjdG9yeSB3YXMgZGVsZXRlZCBvciBpcyBqdXN0IGEgdG9tYnN0b25lIHJlYWRtZQogICAgICAgIGVsaWYgZmlsZS5zdGFydHN3aXRoKCJsaWJzLyIpOgogICAgICAgICAgICAjIENoZWNrIGlmIHRoaXMgaXMgYSByb290LWxldmVsIGZpbGUgaW4gbGlicy8gKGUuZy4sIGxpYnMvUkVBRE1FLm1kKQogICAgICAgICAgICBmaWxlX3BhcnRzID0gZmlsZS5zcGxpdCgiLyIpCiAgICAgICAgICAgIGlmIGxlbihmaWxlX3BhcnRzKSA9PSAyOgogICAgICAgICAgICAgICAgIyBSb290LWxldmVsIGZpbGUgaW4gbGlicy8sIHNraXAgaXQgKG5vIHRlc3RzIG5lZWRlZCkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICBmIlVua25vd24gbGliOiB7ZmlsZX0uIGNoZWNrX2RpZmYucHkgbGlrZWx5IG5lZWRzICIKICAgICAgICAgICAgICAgICJhbiB1cGRhdGUgZm9yIHRoaXMgbmV3IGxpYnJhcnkhIgogICAgICAgICAgICApCiAgICAgICAgZWxpZiBmaWxlIGluIFsKICAgICAgICAgICAgInB5cHJvamVjdC50b21sIiwKICAgICAgICAgICAgInV2LmxvY2siLAogICAgICAgIF06ICAjIHJvb3QgdXYgZmlsZXMKICAgICAgICAgICAgZG9jc19lZGl0ZWQgPSBUcnVlCgogICAgZGVwZW5kZW50cyA9IGRlcGVuZGVudHNfZ3JhcGgoKQoKICAgICMgd2Ugbm93IGhhdmUgZGlyc19ieV9qb2IKICAgICMgdG9kbzogY2xlYW4gdGhpcyB1cAogICAgbWFwX2pvYl90b19jb25maWdzID0gewogICAgICAgIGpvYjogX2dldF9jb25maWdzX2Zvcl9tdWx0aV9kaXJzKGpvYiwgZGlyc190b19ydW4sIGRlcGVuZGVudHMpCiAgICAgICAgZm9yIGpvYiBpbiBbCiAgICAgICAgICAgICJsaW50IiwKICAgICAgICAgICAgInRlc3QiLAogICAgICAgICAgICAiZXh0ZW5kZWQtdGVzdHMiLAogICAgICAgICAgICAiY29tcGlsZS1pbnRlZ3JhdGlvbi10ZXN0cyIsCiAgICAgICAgICAgICJkZXBlbmRlbmNpZXMiLAogICAgICAgICAgICAidGVzdC1weWRhbnRpYyIsCiAgICAgICAgICAgICJjb2RzcGVlZCIsCiAgICAgICAgICAgICJ2Y3ItdGVzdHMiLAogICAgICAgIF0KICAgIH0KCiAgICBmb3Iga2V5LCB2YWx1ZSBpbiBtYXBfam9iX3RvX2NvbmZpZ3MuaXRlbXMoKToKICAgICAgICBqc29uX291dHB1dCA9IGpzb24uZHVtcHModmFsdWUpCiAgICAgICAgcHJpbnQoZiJ7a2V5fT17anNvbl9vdXRwdXR9IikK
+"""Analyze git diffs to determine which directories need to be tested.
+
+Intelligently determines which LangChain packages and directories need to be tested,
+linted, or built based on the changes. Handles dependency relationships between
+packages, maps file changes to appropriate CI job configurations, and outputs JSON
+configurations for GitHub Actions.
+
+- Maps changed files to affected package directories (libs/core, libs/partners/*, etc.)
+- Builds dependency graph to include dependent packages when core components change
+- Generates test matrix configurations with appropriate Python versions
+- Handles special cases for Pydantic version testing and performance benchmarks
+
+Used as part of the check_diffs workflow.
+"""
+
+import glob
+import json
+import os
+import sys
+from collections import defaultdict
+from pathlib import Path
+from typing import Dict, List, Set
+
+import tomllib
+from get_min_versions import get_min_version_from_toml
+from packaging.requirements import Requirement
+
+LANGCHAIN_DIRS = [
+    "libs/core",
+    "libs/text-splitters",
+    "libs/langchain",
+    "libs/langchain_v1",
+    "libs/model-profiles",
+]
+
+# Packages with VCR cassette-backed integration tests.
+# These get a playback-only CI check to catch stale cassettes.
+VCR_PACKAGES = {
+    "libs/partners/openai",
+}
+
+# When set to True, we are ignoring core dependents
+# in order to be able to get CI to pass for each individual
+# package that depends on core
+# e.g. if you touch core, we don't then add textsplitters/etc to CI
+IGNORE_CORE_DEPENDENTS = False
+
+# Ignored partners are removed from dependents but still run if directly edited
+IGNORED_PARTNERS = [
+    # remove huggingface from dependents because of CI instability
+    # specifically in huggingface jobs
+    "huggingface",
+]
+
+
+def all_package_dirs() -> Set[str]:
+    return {
+        "/".join(path.split("/")[:-1]).lstrip("./")
+        for path in glob.glob("./libs/**/pyproject.toml", recursive=True)
+        if "libs/standard-tests" not in path
+    }
+
+
+def dependents_graph() -> dict:
+    """Construct a mapping of package -> dependents
+
+    Done such that we can run tests on all dependents of a package when a change is made.
+    """
+    dependents = defaultdict(set)
+
+    for path in glob.glob("./libs/**/pyproject.toml", recursive=True):
+        if "template" in path:
+            continue
+
+        # load regular and test deps from pyproject.toml
+        with open(path, "rb") as f:
+            pyproject = tomllib.load(f)
+
+        pkg_dir = "libs" + "/".join(path.split("libs")[1].split("/")[:-1])
+        for dep in [
+            *pyproject["project"]["dependencies"],
+            *pyproject["dependency-groups"]["test"],
+        ]:
+            requirement = Requirement(dep)
+            package_name = requirement.name
+            if "langchain" in dep:
+                dependents[package_name].add(pkg_dir)
+                continue
+
+        # load extended deps from extended_testing_deps.txt
+        package_path = Path(path).parent
+        extended_requirement_path = package_path / "extended_testing_deps.txt"
+        if extended_requirement_path.exists():
+            with open(extended_requirement_path, "r") as f:
+                extended_deps = f.read().splitlines()
+                for depline in extended_deps:
+                    if depline.startswith("-e "):
+                        # editable dependency
+                        assert depline.startswith("-e ../partners/"), (
+                            "Extended test deps should only editable install partner packages"
+                        )
+                        partner = depline.split("partners/")[1]
+                        dep = f"langchain-{partner}"
+                    else:
+                        dep = depline.split("==")[0]
+
+                    if "langchain" in dep:
+                        dependents[dep].add(pkg_dir)
+
+    for k in dependents:
+        for partner in IGNORED_PARTNERS:
+            if f"libs/partners/{partner}" in dependents[k]:
+                dependents[k].remove(f"libs/partners/{partner}")
+    return dependents
+
+
+def add_dependents(dirs_to_eval: Set[str], dependents: dict) -> List[str]:
+    updated = set()
+    for dir_ in dirs_to_eval:
+        # handle core manually because it has so many dependents
+        if "core" in dir_:
+            updated.add(dir_)
+            continue
+        pkg = "langchain-" + dir_.split("/")[-1]
+        updated.update(dependents[pkg])
+        updated.add(dir_)
+    return list(updated)
+
+
+def _get_configs_for_single_dir(job: str, dir_: str) -> List[Dict[str, str]]:
+    if job == "test-pydantic":
+        return _get_pydantic_test_configs(dir_)
+
+    if job == "codspeed":
+        # CPU simulation (<1% variance, Valgrind-based) is the default.
+        # Partners with heavy SDK inits use walltime instead to keep CI fast.
+        CODSPEED_WALLTIME_DIRS = {
+            "libs/core",
+            "libs/partners/fireworks",  # ~328s under simulation
+            "libs/partners/openai",  # 6 benchmarks, ~6 min under simulation
+        }
+        mode = "walltime" if dir_ in CODSPEED_WALLTIME_DIRS else "simulation"
+        return [
+            {
+                "working-directory": dir_,
+                "python-version": "3.13",
+                "codspeed-mode": mode,
+            }
+        ]
+    if dir_ == "libs/core":
+        py_versions = ["3.10", "3.11", "3.12", "3.13", "3.14"]
+    else:
+        py_versions = ["3.10", "3.14"]
+
+    return [{"working-directory": dir_, "python-version": py_v} for py_v in py_versions]
+
+
+def _get_pydantic_test_configs(
+    dir_: str, *, python_version: str = "3.12"
+) -> List[Dict[str, str]]:
+    with open("./libs/core/uv.lock", "rb") as f:
+        core_uv_lock_data = tomllib.load(f)
+    for package in core_uv_lock_data["package"]:
+        if package["name"] == "pydantic":
+            core_max_pydantic_minor = package["version"].split(".")[1]
+            break
+
+    with open(f"./{dir_}/uv.lock", "rb") as f:
+        dir_uv_lock_data = tomllib.load(f)
+
+    for package in dir_uv_lock_data["package"]:
+        if package["name"] == "pydantic":
+            dir_max_pydantic_minor = package["version"].split(".")[1]
+            break
+
+    core_min_pydantic_version = get_min_version_from_toml(
+        "./libs/core/pyproject.toml", "release", python_version, include=["pydantic"]
+    )["pydantic"]
+    core_min_pydantic_minor = (
+        core_min_pydantic_version.split(".")[1]
+        if "." in core_min_pydantic_version
+        else "0"
+    )
+    dir_min_pydantic_version = get_min_version_from_toml(
+        f"./{dir_}/pyproject.toml", "release", python_version, include=["pydantic"]
+    ).get("pydantic", "0.0.0")
+    dir_min_pydantic_minor = (
+        dir_min_pydantic_version.split(".")[1]
+        if "." in dir_min_pydantic_version
+        else "0"
+    )
+
+    max_pydantic_minor = min(
+        int(dir_max_pydantic_minor),
+        int(core_max_pydantic_minor),
+    )
+    min_pydantic_minor = max(
+        int(dir_min_pydantic_minor),
+        int(core_min_pydantic_minor),
+    )
+
+    configs = [
+        {
+            "working-directory": dir_,
+            "pydantic-version": f"2.{v}.0",
+            "python-version": python_version,
+        }
+        for v in range(min_pydantic_minor, max_pydantic_minor + 1)
+    ]
+    return configs
+
+
+def _get_configs_for_multi_dirs(
+    job: str, dirs_to_run: Dict[str, Set[str]], dependents: dict
+) -> List[Dict[str, str]]:
+    if job == "lint":
+        dirs = add_dependents(
+            dirs_to_run["lint"] | dirs_to_run["test"] | dirs_to_run["extended-test"],
+            dependents,
+        )
+    elif job in ["test", "compile-integration-tests", "dependencies", "test-pydantic"]:
+        dirs = add_dependents(
+            dirs_to_run["test"] | dirs_to_run["extended-test"], dependents
+        )
+    elif job == "extended-tests":
+        dirs = list(dirs_to_run["extended-test"])
+    elif job == "codspeed":
+        dirs = list(dirs_to_run["codspeed"])
+    elif job == "vcr-tests":
+        # Only run VCR tests for packages that have cassettes and are affected
+        all_affected = set(
+            add_dependents(
+                dirs_to_run["test"] | dirs_to_run["extended-test"], dependents
+            )
+        )
+        dirs = [d for d in VCR_PACKAGES if d in all_affected]
+    else:
+        raise ValueError(f"Unknown job: {job}")
+
+    return [
+        config for dir_ in dirs for config in _get_configs_for_single_dir(job, dir_)
+    ]
+
+
+def _get_changed_files(args: list[str]) -> list[str]:
+    """Parse changed files from command-line arguments.
+
+    Args:
+        args: Either a legacy list of filename arguments or a single JSON array
+            produced by `Ana06/get-changed-files` with `format: json`.
+
+    Returns:
+        List of changed files.
+
+    Raises:
+        ValueError: If a single argument looks like JSON but is not a string array.
+    """
+    if len(args) != 1:
+        return args
+
+    value = args[0].strip()
+    if not value.startswith("[") or not value.endswith("]"):
+        return args
+
+    try:
+        parsed = json.loads(value)
+    except json.JSONDecodeError as e:
+        msg = "Expected changed files JSON to be a list of strings."
+        raise ValueError(msg) from e
+
+    if not isinstance(parsed, list) or not all(
+        isinstance(file, str) for file in parsed
+    ):
+        msg = "Expected changed files JSON to be a list of strings."
+        raise ValueError(msg)
+    return parsed
+
+
+if __name__ == "__main__":
+    files = _get_changed_files(sys.argv[1:])
+
+    dirs_to_run: Dict[str, set] = {
+        "lint": set(),
+        "test": set(),
+        "extended-test": set(),
+        "codspeed": set(),
+    }
+    docs_edited = False
+
+    if len(files) >= 300:
+        # max diff length is 300 files - there are likely files missing
+        dirs_to_run["lint"] = all_package_dirs()
+        dirs_to_run["test"] = all_package_dirs()
+        dirs_to_run["extended-test"] = set(LANGCHAIN_DIRS)
+
+    for file in files:
+        if any(
+            file.startswith(dir_)
+            for dir_ in (
+                ".github/workflows",
+                ".github/tools",
+                ".github/actions",
+                ".github/scripts/check_diff.py",
+            )
+        ):
+            # Infrastructure changes (workflows, actions, CI scripts) trigger tests on
+            # all core packages as a safety measure. This ensures that changes to CI/CD
+            # infrastructure don't inadvertently break package testing, even if the change
+            # appears unrelated (e.g., documentation build workflows). This is intentionally
+            # conservative to catch unexpected side effects from workflow modifications.
+            #
+            # Example: A PR modifying .github/workflows/api_doc_build.yml will trigger
+            # lint/test jobs for libs/core, libs/text-splitters, libs/langchain, and
+            # libs/langchain_v1, even though the workflow may only affect documentation.
+            dirs_to_run["extended-test"].update(LANGCHAIN_DIRS)
+
+        if file.startswith("libs/core"):
+            dirs_to_run["codspeed"].add("libs/core")
+        if file.startswith("libs/langchain_v1"):
+            dirs_to_run["codspeed"].add("libs/langchain_v1")
+        if any(file.startswith(dir_) for dir_ in LANGCHAIN_DIRS):
+            # add that dir and all dirs after in LANGCHAIN_DIRS
+            # for extended testing
+
+            found = False
+            for dir_ in LANGCHAIN_DIRS:
+                if dir_ == "libs/core" and IGNORE_CORE_DEPENDENTS:
+                    dirs_to_run["extended-test"].add(dir_)
+                    continue
+                if file.startswith(dir_):
+                    found = True
+                if found:
+                    dirs_to_run["extended-test"].add(dir_)
+        elif file.startswith("libs/standard-tests"):
+            # TODO: update to include all packages that rely on standard-tests (all partner packages)
+            # Note: won't run on external repo partners
+            dirs_to_run["lint"].add("libs/standard-tests")
+            dirs_to_run["test"].add("libs/standard-tests")
+            dirs_to_run["test"].add("libs/partners/mistralai")
+            dirs_to_run["test"].add("libs/partners/openai")
+            dirs_to_run["test"].add("libs/partners/anthropic")
+            dirs_to_run["test"].add("libs/partners/fireworks")
+            dirs_to_run["test"].add("libs/partners/groq")
+
+        elif file.startswith("libs/partners"):
+            partner_dir = file.split("/")[2]
+            if os.path.isdir(f"libs/partners/{partner_dir}") and [
+                filename
+                for filename in os.listdir(f"libs/partners/{partner_dir}")
+                if not filename.startswith(".")
+            ] != ["README.md"]:
+                dirs_to_run["test"].add(f"libs/partners/{partner_dir}")
+                # Only add to codspeed if the partner has benchmarks and is not ignored
+                if (
+                    partner_dir not in IGNORED_PARTNERS
+                    and os.path.isdir(
+                        f"libs/partners/{partner_dir}/tests/benchmarks"
+                    )
+                ):
+                    dirs_to_run["codspeed"].add(f"libs/partners/{partner_dir}")
+            # Skip if the directory was deleted or is just a tombstone readme
+        elif file.startswith("libs/"):
+            # Check if this is a root-level file in libs/ (e.g., libs/README.md)
+            file_parts = file.split("/")
+            if len(file_parts) == 2:
+                # Root-level file in libs/, skip it (no tests needed)
+                continue
+            raise ValueError(
+                f"Unknown lib: {file}. check_diff.py likely needs "
+                "an update for this new library!"
+            )
+        elif file in [
+            "pyproject.toml",
+            "uv.lock",
+        ]:  # root uv files
+            docs_edited = True
+
+    dependents = dependents_graph()
+
+    # we now have dirs_by_job
+    # todo: clean this up
+    map_job_to_configs = {
+        job: _get_configs_for_multi_dirs(job, dirs_to_run, dependents)
+        for job in [
+            "lint",
+            "test",
+            "extended-tests",
+            "compile-integration-tests",
+            "dependencies",
+            "test-pydantic",
+            "codspeed",
+            "vcr-tests",
+        ]
+    }
+
+    for key, value in map_job_to_configs.items():
+        json_output = json.dumps(value)
+        print(f"{key}={json_output}")

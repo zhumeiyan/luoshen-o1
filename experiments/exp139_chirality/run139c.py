@@ -1,1 +1,227 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTM5YyAg5L+u5q2j54mI77yI5YmN5Lik54mI5ZCE5pyJ5LiA5aSE6Z2Z6buY5aSx5pWI77yJCgrkv67mraMxOiDpgIPpgLjnjoc9MS1UUFIg5Zyo6YCA5YyW5YiG57G75Zmo5LiK57uZ5Ye65ryC5Lqu55qEIDDjgIIKICAgICAgIEJPVyDmiormiYDmnInovpPlhaXpg73liKTmiJAgTUlSUk9SIC0+IFRQUj0xLEZQUj0xIC0+IOeci+i1t+adpSLpm7bpgIPpgLgi77yMCiAgICAgICDlrp7pmYXliKTliKvlipvkuLogMOOAguS4u+aMh+agh+aUueS4uiDliKTliKvluqYgPSBUUFIgLSBGUFLvvIwKICAgICAgIOW5tuaYvuW8j+aKpeWRiiBwcmVkX2Rpc3RpbmN077yI6aKE5rWL5piv5ZCm6YCA5YyW5Li65LiA5Liq5bi45pWw77yJ44CCCuS/ruatozI6IOWvueeFp+e7hCLmjaLlrr7or60i5aSx6LSl4oCU4oCU5a6D5LuN5ZyoIE9CSiDpm4blkIjlhoXlj5blgLzvvIzkuKTliIbluIPml6Dns7vnu5/lt67lvILvvIwKICAgICAgIEJPVy9QT1Mg6YO9556O77yI5Yik5Yir5bqmIDAuMDMwIC8gMC4wNDjvvInjgILmlLnlr7nnhafnu4TkuLogTkVH77yI5aKe5YigIuS4jSLvvInvvJoKICAgICAgIOivjembhuWQiOecn+eahOWPmOS6hu+8jEJPVyDlupTlvZPog73nnIvop4HjgIIK5L+u5q2jMzogQzEg56Gu5a6a5oCn54mI55So5pW05pWwIHJvdW5kIOWBmuiuoeaVsO+8jOaegeWwjyBjaGkwIOiiq+emu+aVo+WMluWQg+aOiQogICAgICAgKGNoaTA9MC4wMDAxIC0+IOe7iOaAgSAwLjUp44CC5pS55rWu54K577yM5Luj6KGo5peg6ZmQ5qC35pys5p6B6ZmQ44CCCuS/ruatozQ6IEMyIOeUqOi/nue7reenjeWtkCAxMDAwK3PvvIxNVCDnirbmgIHnm7jlhbMgLT4g6ZSB5q275pa55ZCRIDI2LzE0IOWBj+aWnOOAggogICAgICAg5pS555So5YiG5pWj56eN5a2Q44CCCiIiIgppbXBvcnQgbWF0aCwgcmFuZG9tLCBqc29uCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKClNVQkogPSBbIuezu+e7nyIsICLnrqHnkIblkZgiLCAi5pyN5YqhIiwgIui/m+eoiyIsICLnlKjmiLciLCAi572R5YWzIl0KVkVSQl9QID0gWyLlhYHorrgiLCAi5omn6KGMIiwgIuWPkemAgSIsICLor7vlj5YiLCAi5YaZ5YWlIiwgIuiusOW9lSIsICLmoKHpqowiXQpWRVJCX04gPSBbIuemgeatoiIsICLmi6bmiKoiLCAi6Zi75patIiwgIuaLkue7nSIsICLliKDpmaQiLCAi5Lii5byDIl0KT0JKID0gWyLmlofku7YiLCAi5pWw5o2uIiwgIuivt+axgiIsICLml6Xlv5ciLCAi5raI5oGvIiwgIui/nuaOpSIsICLlh63or4EiXQpDT01QID0gWyLliLDmnKzlnLAiLCAi6Iez5pyN5Yqh5ZmoIiwgIue7meeUqOaItyIsICLljbPliLsiLCAi6Z2Z6buYIiwgIuWFqOmDqCJdCkFMTF9WID0gVkVSQl9QICsgVkVSQl9OCgoKZGVmIGdlbihybmcsIG5lZ19yYXRlPTAuMzApOgogICAgcmV0dXJuIChbcm5nLmNob2ljZShTVUJKKV0KICAgICAgICAgICAgKyAoWyLkuI0iXSBpZiBybmcucmFuZG9tKCkgPCBuZWdfcmF0ZSBlbHNlIFtdKQogICAgICAgICAgICArIFtybmcuY2hvaWNlKEFMTF9WKSwgcm5nLmNob2ljZShPQkopLCBybmcuY2hvaWNlKENPTVApXSkKCgpkZWYgX2lkeCh0b2tzKToKICAgIGl2ID0gdG9rcy5pbmRleCgi5LiNIikgKyAxIGlmICLkuI0iIGluIHRva3MgZWxzZSAxCiAgICByZXR1cm4gMCwgaXYsIGl2ICsgMQoKCmRlZiBvcF9zd2FwKHRva3MpOgogICAgdCA9IGxpc3QodG9rcykKICAgIGlfcywgXywgaV9vID0gX2lkeCh0b2tzKQogICAgdFtpX3NdLCB0W2lfb10gPSB0W2lfb10sIHRbaV9zXQogICAgcmV0dXJuIHQKCgpkZWYgb3BfbmVnKHRva3MpOgogICAgdCA9IGxpc3QodG9rcykKICAgIGlmICLkuI0iIGluIHQ6CiAgICAgICAgcmV0dXJuIFt4IGZvciB4IGluIHQgaWYgeCAhPSAi5LiNIl0KICAgIHJldHVybiB0WzoxXSArIFsi5LiNIl0gKyB0WzE6XQoKCmRlZiBmX2Jvdyh0b2tzKToKICAgIHJldHVybiBDb3VudGVyKHRva3MpCgoKZGVmIGZfcG9zKHRva3MpOgogICAgYyA9IENvdW50ZXIodG9rcykKICAgIGZvciBhLCBiIGluIHppcCh0b2tzLCB0b2tzWzE6XSk6CiAgICAgICAgY1thICsgInwiICsgYl0gKz0gMQogICAgcmV0dXJuIGMKCgpjbGFzcyBNTkI6CiAgICBkZWYgX19pbml0X18oc2VsZiwgYWxwaGE9MC40KToKICAgICAgICBzZWxmLmFscGhhID0gYWxwaGEKCiAgICBkZWYgZml0KHNlbGYsIFgsIHkpOgogICAgICAgIHNlbGYuY2xhc3NlcyA9IHNvcnRlZChzZXQoeSkpCiAgICAgICAgc2VsZi5wcmlvciwgc2VsZi5jbnQsIHNlbGYudG90ID0ge30sIHt9LCB7fQogICAgICAgIFYgPSBzZXQoKQogICAgICAgIGZvciBjIGluIHNlbGYuY2xhc3NlczoKICAgICAgICAgICAgc2VsZi5wcmlvcltjXSA9IDA7IHNlbGYuY250W2NdID0gQ291bnRlcigpOyBzZWxmLnRvdFtjXSA9IDAKICAgICAgICBmb3IgeGksIHlpIGluIHppcChYLCB5KToKICAgICAgICAgICAgc2VsZi5wcmlvclt5aV0gKz0gMQogICAgICAgICAgICBmb3IgZiwgbiBpbiB4aS5pdGVtcygpOgogICAgICAgICAgICAgICAgc2VsZi5jbnRbeWldW2ZdICs9IG47IHNlbGYudG90W3lpXSArPSBuOyBWLmFkZChmKQogICAgICAgIE4gPSBsZW4oWCk7IHNlbGYuViA9IGxpc3QoVikKICAgICAgICBmb3IgYyBpbiBzZWxmLmNsYXNzZXM6CiAgICAgICAgICAgIHNlbGYucHJpb3JbY10gPSBtYXRoLmxvZyhzZWxmLnByaW9yW2NdIC8gTikKICAgICAgICBzZWxmLmRlbiA9IHtjOiBzZWxmLnRvdFtjXSArIHNlbGYuYWxwaGEgKiBsZW4oc2VsZi5WKSBmb3IgYyBpbiBzZWxmLmNsYXNzZXN9CiAgICAgICAgc2VsZi5kZWZwID0ge2M6IG1hdGgubG9nKHNlbGYuYWxwaGEgLyBzZWxmLmRlbltjXSkgZm9yIGMgaW4gc2VsZi5jbGFzc2VzfQogICAgICAgIHNlbGYubHAgPSB7Yzoge2Y6IG1hdGgubG9nKChzZWxmLmNudFtjXVtmXSArIHNlbGYuYWxwaGEpIC8gc2VsZi5kZW5bY10pCiAgICAgICAgICAgICAgICAgICAgICAgZm9yIGYgaW4gc2VsZi5WIGlmIHNlbGYuY250W2NdW2ZdfSBmb3IgYyBpbiBzZWxmLmNsYXNzZXN9CgogICAgZGVmIHByZWRpY3Qoc2VsZiwgeGkpOgogICAgICAgIGJlc3QsIGJjID0gTm9uZSwgTm9uZQogICAgICAgIGZvciBjIGluIHNlbGYuY2xhc3NlczoKICAgICAgICAgICAgbHAgPSBzZWxmLmxwW2NdCiAgICAgICAgICAgIHMgPSBzZWxmLnByaW9yW2NdICsgc3VtKG4gKiBscC5nZXQoZiwgc2VsZi5kZWZwW2NdKSBmb3IgZiwgbiBpbiB4aS5pdGVtcygpKQogICAgICAgICAgICBpZiBiZXN0IGlzIE5vbmUgb3IgcyA+IGJlc3Q6CiAgICAgICAgICAgICAgICBiZXN0LCBiYyA9IHMsIGMKICAgICAgICByZXR1cm4gYmMKCgpPUFMgPSB7CiAgICAiTUlSUk9SKHN3YXAsIOS/nembhuWQiCkiOiAob3Bfc3dhcCwgIuivjembhuWQiOS4jeWPmO+8jOWPquaNouivreW6jyIpLAogICAgIkNPTlRST0wobmVnLCDlj5jpm4blkIgpIjogKG9wX25lZywgICLlop7liKDlkKblrpror43vvIzor43pm4blkIjlj5giKSwKfQoKCmRlZiBwYXJ0X2EyKHNlZWQ9MTEsIG50cj0zMDAwLCBudGU9ODAwKToKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIG91dCA9IHt9CiAgICBmb3IgbmFtZSwgKG9wLCBkZXNjKSBpbiBPUFMuaXRlbXMoKToKICAgICAgICBYdHIsIHl0ciwgWHRlLCB5dGUgPSBbXSwgW10sIFtdLCBbXQogICAgICAgIGZvciBfIGluIHJhbmdlKG50ciAvLyAyKToKICAgICAgICAgICAgdCA9IGdlbihybmcpOyBYdHIuYXBwZW5kKHQpOyB5dHIuYXBwZW5kKCJOT1JNQUwiKQogICAgICAgICAgICBYdHIuYXBwZW5kKG9wKHQpKTsgeXRyLmFwcGVuZCgiQUxURVJFRCIpCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UobnRlIC8vIDIpOgogICAgICAgICAgICB0ID0gZ2VuKHJuZyk7IFh0ZS5hcHBlbmQodCk7IHl0ZS5hcHBlbmQoIk5PUk1BTCIpCiAgICAgICAgICAgIFh0ZS5hcHBlbmQob3AodCkpOyB5dGUuYXBwZW5kKCJBTFRFUkVEIikKICAgICAgICByb3cgPSB7ImRlc2MiOiBkZXNjfQogICAgICAgIGZvciBybmFtZSwgZm4gaW4gKCgiQk9XIiwgZl9ib3cpLCAoIlBPUyIsIGZfcG9zKSk6CiAgICAgICAgICAgIGNsZiA9IE1OQigpOyBjbGYuZml0KFtmbih0KSBmb3IgdCBpbiBYdHJdLCB5dHIpCiAgICAgICAgICAgIHByZWQgPSBbY2xmLnByZWRpY3QoZm4odCkpIGZvciB0IGluIFh0ZV0KICAgICAgICAgICAgYWNjID0gc3VtKDEgZm9yIHAsIGcgaW4gemlwKHByZWQsIHl0ZSkgaWYgcCA9PSBnKSAvIGxlbih5dGUpCiAgICAgICAgICAgIG5hID0gc3VtKDEgZm9yIGcgaW4geXRlIGlmIGcgPT0gIkFMVEVSRUQiKQogICAgICAgICAgICBubiA9IHN1bSgxIGZvciBnIGluIHl0ZSBpZiBnID09ICJOT1JNQUwiKQogICAgICAgICAgICB0cHIgPSBzdW0oMSBmb3IgcCwgZyBpbiB6aXAocHJlZCwgeXRlKSBpZiBwID09ICJBTFRFUkVEIiBhbmQgZyA9PSAiQUxURVJFRCIpIC8gbmEKICAgICAgICAgICAgZnByID0gc3VtKDEgZm9yIHAsIGcgaW4gemlwKHByZWQsIHl0ZSkgaWYgcCA9PSAiQUxURVJFRCIgYW5kIGcgPT0gIk5PUk1BTCIpIC8gbm4KICAgICAgICAgICAgZGlzdGluY3QgPSBsZW4oc2V0KHByZWQpKQogICAgICAgICAgICBkaXNjID0gdHByIC0gZnByCiAgICAgICAgICAgIHJvd1tybmFtZV0gPSB7ImFjYyI6IGFjYywgInRwciI6IHRwciwgImZwciI6IGZwciwgImRpc2MiOiBkaXNjLAogICAgICAgICAgICAgICAgICAgICAgICAgICJwcmVkX2Rpc3RpbmN0IjogZGlzdGluY3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgImRlZ2VuZXJhdGUiOiAxIGlmIGRpc3RpbmN0ID09IDEgZWxzZSAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICMg5Y+q5pyJ6Z2e6YCA5YyW5pe26YCD6YC4546H5omN5pyJ5oSP5LmJCiAgICAgICAgICAgICAgICAgICAgICAgICAgImVzY2FwZSI6ICgxIC0gdHByKSBpZiBkaXN0aW5jdCA+IDEgZWxzZSBOb25lfQogICAgICAgIG91dFtuYW1lXSA9IHJvdwogICAgcmV0dXJuIG91dAoKCmRlZiBydW5fZnJhbmsobW9kZSwgZ2FtbWEsIHBMMCwgZ2Vucz0yNSwgcG9vbF9uPTEyMDAuMCwgYmF0Y2g9NjAwLjAsCiAgICAgICAgICAgICAgbm9pc2U9VHJ1ZSwgc2VlZD0xKToKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIEwsIFIgPSBwb29sX24gKiBwTDAsIHBvb2xfbiAqICgxIC0gcEwwKQogICAgaGlzdCA9IFtdCiAgICBmb3IgZyBpbiByYW5nZShnZW5zKToKICAgICAgICBwTCA9IEwgLyAoTCArIFIpCiAgICAgICAgaWYgYWJzKGdhbW1hIC0gMS4wKSA8IDFlLTk6CiAgICAgICAgICAgIHBBID0gcEwKICAgICAgICBlbHNlOgogICAgICAgICAgICBhLCBiID0gcEwgKiogZ2FtbWEsICgxIC0gcEwpICoqIGdhbW1hCiAgICAgICAgICAgIHBBID0gYSAvIChhICsgYikgaWYgKGEgKyBiKSA+IDAgZWxzZSBwTAogICAgICAgIGlmIG5vaXNlOgogICAgICAgICAgICBuID0gaW50KGJhdGNoKQogICAgICAgICAgICBuZXdMID0gZmxvYXQoc3VtKDEgZm9yIF8gaW4gcmFuZ2UobikgaWYgcm5nLnJhbmRvbSgpIDwgcEEpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5ld0wgPSBiYXRjaCAqIHBBICAgICAgICAgICMg5rWu54K5ID0g5peg6ZmQ5qC35pys5p6B6ZmQCiAgICAgICAgbmV3UiA9IGJhdGNoIC0gbmV3TAogICAgICAgIGlmIG1vZGUgPT0gIlJFUExBQ0UiOgogICAgICAgICAgICBMLCBSID0gbmV3TCwgbmV3UgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIEwsIFIgPSBMICsgbmV3TCwgUiArIG5ld1IKICAgICAgICBoaXN0LmFwcGVuZChMIC8gKEwgKyBSKSBpZiAoTCArIFIpID4gMCBlbHNlIGZsb2F0KCJuYW4iKSkKICAgIHJldHVybiBoaXN0CgoKZGVmIHBhcnRfYygpOgogICAgcmVzID0geyJkb3NlIjogW10sICJzcG9udGFuZW91cyI6IHt9fQogICAgZm9yIGNoaTAgaW4gKDAuMDAwMDEsIDAuMDAwMSwgMC4wMDEsIDAuMDEsIDAuMDUsIDAuMiwgMC41KToKICAgICAgICBwMCA9IDAuNSAqICgxICsgY2hpMCkKICAgICAgICBmb3IgZ2FtbWEgaW4gKDEuNiwgMi41KToKICAgICAgICAgICAgaCA9IHJ1bl9mcmFuaygiUkVQTEFDRSIsIGdhbW1hLCBwMCwgbm9pc2U9RmFsc2UsIHNlZWQ9NSkKICAgICAgICAgICAgcmVzWyJkb3NlIl0uYXBwZW5kKHsiY2hpMCI6IGNoaTAsICJnYW1tYSI6IGdhbW1hLCAiZmluYWwiOiBoWy0xXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY2hpX2ZpbmFsIjogMiAqIGhbLTFdIC0gMX0pCiAgICAjIEMyIOiHquWPkeegtOe8uu+8muWIhuaVo+enjeWtkAogICAgZW5kcyA9IFtdCiAgICBsb2NrZWQgPSAwCiAgICBOID0gMTIwCiAgICBmaXJzdF9oaXN0ID0gTm9uZQogICAgZm9yIHMgaW4gcmFuZ2UoTik6CiAgICAgICAgaCA9IHJ1bl9mcmFuaygiUkVQTEFDRSIsIDIuMCwgMC41LCBub2lzZT1UcnVlLCBzZWVkPTEwMDAgKyBzICogMTA0NzI5KQogICAgICAgIGYgPSBoWy0xXQogICAgICAgIGlmIGYgPCAxZS05IG9yIGYgPiAxIC0gMWUtOToKICAgICAgICAgICAgbG9ja2VkICs9IDEKICAgICAgICBlbmRzLmFwcGVuZCgiTCIgaWYgZiA+IDAuNSBlbHNlICJSIikKICAgICAgICBpZiBzID09IDA6CiAgICAgICAgICAgIGZpcnN0X2hpc3QgPSBoCiAgICBzcCA9IHJlc1sic3BvbnRhbmVvdXMiXQogICAgc3BbIm4iXSA9IE47IHNwWyJsb2NrZWQiXSA9IGxvY2tlZDsgc3BbInJhdGUiXSA9IGxvY2tlZCAvIE4KICAgIHNwWyJ0b19MIl0gPSBlbmRzLmNvdW50KCJMIik7IHNwWyJ0b19SIl0gPSBlbmRzLmNvdW50KCJSIikKICAgIHNwWyJleGFtcGxlX2hpc3QiXSA9IGZpcnN0X2hpc3QKICAgICMg5a+556ew5oCn5qOA6aqM77yI5LqM6aG577yM6L+R5Ly877yJCiAgICBrID0gc3BbInRvX0wiXTsgbiA9IE4KICAgIHNlID0gbWF0aC5zcXJ0KG4gKiAwLjI1KQogICAgc3BbInoiXSA9IChrIC0gbiAvIDIpIC8gc2UKICAgIHJldHVybiByZXMKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj0iICogNzQpCiAgICBwcmludCgiZXhwMTM5YyAg6ZWc5YOP6YCD6YC477yI5L+u5q2j5oyH5qCH77yJICsgRnJhbmsg5Yqo5Yqb5a2m77yI5L+u5q2j56a75pWj5YyWL+enjeWtkO+8iSIpCiAgICBwcmludCgiPSIgKiA3NCkKCiAgICBBMiA9IHBhcnRfYTIoKQogICAgcHJpbnQoIlxuLS0tIFBhcnQgQTIgIOmVnOWDj+iDveiiq+eci+ingeWQlyAtLS0iKQogICAgcHJpbnQoIiAg5Li75oyH5qCHID0g5Yik5Yir5bqmKFRQUi1GUFIp77yb6YCA5YyWID0g5omA5pyJ6L6T5YWl6aKE5rWL5ZCM5LiA5Liq57G7IikKICAgIHByaW50KCIgICUtMjJzICUtNHMgJThzICU4cyAlOHMgJTlzICU2cyAlOHMiICUKICAgICAgICAgICgib3BlcmF0b3IiLCAicmVwciIsICJhY2MiLCAiVFBSIiwgIkZQUiIsICLliKTliKvluqYiLCAi6YCA5YyWIiwgIumAg+mAuOeOhyIpKQogICAgZm9yIGssIHIgaW4gQTIuaXRlbXMoKToKICAgICAgICBmb3Igcm4gaW4gKCJCT1ciLCAiUE9TIik6CiAgICAgICAgICAgIGQgPSByW3JuXQogICAgICAgICAgICBlc2MgPSAiTi9BIiBpZiBkWyJlc2NhcGUiXSBpcyBOb25lIGVsc2UgIiUuNGYiICUgZFsiZXNjYXBlIl0KICAgICAgICAgICAgcHJpbnQoIiAgJS0yMnMgJS00cyAlOC40ZiAlOC40ZiAlOC40ZiAlOS40ZiAlNmQgJThzIiAlCiAgICAgICAgICAgICAgICAgIChrWzoyMl0sIHJuLCBkWyJhY2MiXSwgZFsidHByIl0sIGRbImZwciJdLCBkWyJkaXNjIl0sCiAgICAgICAgICAgICAgICAgICBkWyJkZWdlbmVyYXRlIl0sIGVzYykpCiAgICAgICAgcHJpbnQoIiAgICAgICglcykiICUgclsiZGVzYyJdKQoKICAgIEMgPSBwYXJ0X2MoKQogICAgcHJpbnQoIlxuLS0tIFBhcnQgQzEgIOWJgumHj+aJq+aPj++8iOehruWumuaApz3ml6DpmZDmoLfmnKzmnoHpmZAsIFJFUExBQ0XvvIktLS0iKQogICAgcHJpbnQoIiAgJTEwcyAlNnMgJTEycyAlMTJzIiAlICgiY2hpMCIsICJnYW1tYSIsICJmaW5hbF9wTCIsICJjaGlfZmluYWwiKSkKICAgIGZvciBkIGluIENbImRvc2UiXToKICAgICAgICBwcmludCgiICAlMTAuNWYgJTYuMWYgJTEyLjZmICUxMi42ZiIgJQogICAgICAgICAgICAgIChkWyJjaGkwIl0sIGRbImdhbW1hIl0sIGRbImZpbmFsIl0sIGRbImNoaV9maW5hbCJdKSkKCiAgICBwcmludCgiXG4tLS0gUGFydCBDMiAg6Ieq5Y+R5a+556ew5oCn56C057y677yIY2hpMD0wLCDmnInlmarlo7AsIGdhbW1hPTIuMO+8iS0tLSIpCiAgICBzID0gQ1sic3BvbnRhbmVvdXMiXQogICAgcHJpbnQoIiAgbj0lZCAg6ZSB5q27ICVkICDplIHmrbvnjocgJS4zZiIgJSAoc1sibiJdLCBzWyJsb2NrZWQiXSwgc1sicmF0ZSJdKSkKICAgIHByaW50KCIgIOmUgeatu+WIsCBMICVkIC8gUiAlZCAgIHogPSAlLjNmIiAlIChzWyJ0b19MIl0sIHNbInRvX1IiXSwgc1sieiJdKSkKICAgIHByaW50KCIgIOS+iyDliY045LujICVzIiAlIFtyb3VuZCh4LCA0KSBmb3IgeCBpbiBzWyJleGFtcGxlX2hpc3QiXVs6OF1dKQogICAgcHJpbnQoIiAgICDmnKs05LujICVzIiAlIFtyb3VuZCh4LCA0KSBmb3IgeCBpbiBzWyJleGFtcGxlX2hpc3QiXVstNDpdXSkKCiAgICB3aXRoIG9wZW4oInJlc3VsdDEzOWMuanNvbiIsICJ3IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAoeyJBMiI6IEEyLCAiQyI6IEN9LCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQogICAgcHJpbnQoIlxuW3NhdmVkXSByZXN1bHQxMzljLmpzb24iKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp139c  修正版（前两版各有一处静默失效）
+
+修正1: 逃逸率=1-TPR 在退化分类器上给出漂亮的 0。
+       BOW 把所有输入都判成 MIRROR -> TPR=1,FPR=1 -> 看起来"零逃逸"，
+       实际判别力为 0。主指标改为 判别度 = TPR - FPR，
+       并显式报告 pred_distinct（预测是否退化为一个常数）。
+修正2: 对照组"换宾语"失败——它仍在 OBJ 集合内取值，两分布无系统差异，
+       BOW/POS 都瞎（判别度 0.030 / 0.048）。改对照组为 NEG（增删"不"）：
+       词集合真的变了，BOW 应当能看见。
+修正3: C1 确定性版用整数 round 做计数，极小 chi0 被离散化吃掉
+       (chi0=0.0001 -> 终态 0.5)。改浮点，代表无限样本极限。
+修正4: C2 用连续种子 1000+s，MT 状态相关 -> 锁死方向 26/14 偏斜。
+       改用分散种子。
+"""
+import math, random, json
+from collections import Counter
+
+SUBJ = ["系统", "管理员", "服务", "进程", "用户", "网关"]
+VERB_P = ["允许", "执行", "发送", "读取", "写入", "记录", "校验"]
+VERB_N = ["禁止", "拦截", "阻断", "拒绝", "删除", "丢弃"]
+OBJ = ["文件", "数据", "请求", "日志", "消息", "连接", "凭证"]
+COMP = ["到本地", "至服务器", "给用户", "即刻", "静默", "全部"]
+ALL_V = VERB_P + VERB_N
+
+
+def gen(rng, neg_rate=0.30):
+    return ([rng.choice(SUBJ)]
+            + (["不"] if rng.random() < neg_rate else [])
+            + [rng.choice(ALL_V), rng.choice(OBJ), rng.choice(COMP)])
+
+
+def _idx(toks):
+    iv = toks.index("不") + 1 if "不" in toks else 1
+    return 0, iv, iv + 1
+
+
+def op_swap(toks):
+    t = list(toks)
+    i_s, _, i_o = _idx(toks)
+    t[i_s], t[i_o] = t[i_o], t[i_s]
+    return t
+
+
+def op_neg(toks):
+    t = list(toks)
+    if "不" in t:
+        return [x for x in t if x != "不"]
+    return t[:1] + ["不"] + t[1:]
+
+
+def f_bow(toks):
+    return Counter(toks)
+
+
+def f_pos(toks):
+    c = Counter(toks)
+    for a, b in zip(toks, toks[1:]):
+        c[a + "|" + b] += 1
+    return c
+
+
+class MNB:
+    def __init__(self, alpha=0.4):
+        self.alpha = alpha
+
+    def fit(self, X, y):
+        self.classes = sorted(set(y))
+        self.prior, self.cnt, self.tot = {}, {}, {}
+        V = set()
+        for c in self.classes:
+            self.prior[c] = 0; self.cnt[c] = Counter(); self.tot[c] = 0
+        for xi, yi in zip(X, y):
+            self.prior[yi] += 1
+            for f, n in xi.items():
+                self.cnt[yi][f] += n; self.tot[yi] += n; V.add(f)
+        N = len(X); self.V = list(V)
+        for c in self.classes:
+            self.prior[c] = math.log(self.prior[c] / N)
+        self.den = {c: self.tot[c] + self.alpha * len(self.V) for c in self.classes}
+        self.defp = {c: math.log(self.alpha / self.den[c]) for c in self.classes}
+        self.lp = {c: {f: math.log((self.cnt[c][f] + self.alpha) / self.den[c])
+                       for f in self.V if self.cnt[c][f]} for c in self.classes}
+
+    def predict(self, xi):
+        best, bc = None, None
+        for c in self.classes:
+            lp = self.lp[c]
+            s = self.prior[c] + sum(n * lp.get(f, self.defp[c]) for f, n in xi.items())
+            if best is None or s > best:
+                best, bc = s, c
+        return bc
+
+
+OPS = {
+    "MIRROR(swap, 保集合)": (op_swap, "词集合不变，只换语序"),
+    "CONTROL(neg, 变集合)": (op_neg,  "增删否定词，词集合变"),
+}
+
+
+def part_a2(seed=11, ntr=3000, nte=800):
+    rng = random.Random(seed)
+    out = {}
+    for name, (op, desc) in OPS.items():
+        Xtr, ytr, Xte, yte = [], [], [], []
+        for _ in range(ntr // 2):
+            t = gen(rng); Xtr.append(t); ytr.append("NORMAL")
+            Xtr.append(op(t)); ytr.append("ALTERED")
+        for _ in range(nte // 2):
+            t = gen(rng); Xte.append(t); yte.append("NORMAL")
+            Xte.append(op(t)); yte.append("ALTERED")
+        row = {"desc": desc}
+        for rname, fn in (("BOW", f_bow), ("POS", f_pos)):
+            clf = MNB(); clf.fit([fn(t) for t in Xtr], ytr)
+            pred = [clf.predict(fn(t)) for t in Xte]
+            acc = sum(1 for p, g in zip(pred, yte) if p == g) / len(yte)
+            na = sum(1 for g in yte if g == "ALTERED")
+            nn = sum(1 for g in yte if g == "NORMAL")
+            tpr = sum(1 for p, g in zip(pred, yte) if p == "ALTERED" and g == "ALTERED") / na
+            fpr = sum(1 for p, g in zip(pred, yte) if p == "ALTERED" and g == "NORMAL") / nn
+            distinct = len(set(pred))
+            disc = tpr - fpr
+            row[rname] = {"acc": acc, "tpr": tpr, "fpr": fpr, "disc": disc,
+                          "pred_distinct": distinct,
+                          "degenerate": 1 if distinct == 1 else 0,
+                          # 只有非退化时逃逸率才有意义
+                          "escape": (1 - tpr) if distinct > 1 else None}
+        out[name] = row
+    return out
+
+
+def run_frank(mode, gamma, pL0, gens=25, pool_n=1200.0, batch=600.0,
+              noise=True, seed=1):
+    rng = random.Random(seed)
+    L, R = pool_n * pL0, pool_n * (1 - pL0)
+    hist = []
+    for g in range(gens):
+        pL = L / (L + R)
+        if abs(gamma - 1.0) < 1e-9:
+            pA = pL
+        else:
+            a, b = pL ** gamma, (1 - pL) ** gamma
+            pA = a / (a + b) if (a + b) > 0 else pL
+        if noise:
+            n = int(batch)
+            newL = float(sum(1 for _ in range(n) if rng.random() < pA))
+        else:
+            newL = batch * pA          # 浮点 = 无限样本极限
+        newR = batch - newL
+        if mode == "REPLACE":
+            L, R = newL, newR
+        else:
+            L, R = L + newL, R + newR
+        hist.append(L / (L + R) if (L + R) > 0 else float("nan"))
+    return hist
+
+
+def part_c():
+    res = {"dose": [], "spontaneous": {}}
+    for chi0 in (0.00001, 0.0001, 0.001, 0.01, 0.05, 0.2, 0.5):
+        p0 = 0.5 * (1 + chi0)
+        for gamma in (1.6, 2.5):
+            h = run_frank("REPLACE", gamma, p0, noise=False, seed=5)
+            res["dose"].append({"chi0": chi0, "gamma": gamma, "final": h[-1],
+                                "chi_final": 2 * h[-1] - 1})
+    # C2 自发破缺：分散种子
+    ends = []
+    locked = 0
+    N = 120
+    first_hist = None
+    for s in range(N):
+        h = run_frank("REPLACE", 2.0, 0.5, noise=True, seed=1000 + s * 104729)
+        f = h[-1]
+        if f < 1e-9 or f > 1 - 1e-9:
+            locked += 1
+        ends.append("L" if f > 0.5 else "R")
+        if s == 0:
+            first_hist = h
+    sp = res["spontaneous"]
+    sp["n"] = N; sp["locked"] = locked; sp["rate"] = locked / N
+    sp["to_L"] = ends.count("L"); sp["to_R"] = ends.count("R")
+    sp["example_hist"] = first_hist
+    # 对称性检验（二项，近似）
+    k = sp["to_L"]; n = N
+    se = math.sqrt(n * 0.25)
+    sp["z"] = (k - n / 2) / se
+    return res
+
+
+if __name__ == "__main__":
+    print("=" * 74)
+    print("exp139c  镜像逃逸（修正指标） + Frank 动力学（修正离散化/种子）")
+    print("=" * 74)
+
+    A2 = part_a2()
+    print("\n--- Part A2  镜像能被看见吗 ---")
+    print("  主指标 = 判别度(TPR-FPR)；退化 = 所有输入预测同一个类")
+    print("  %-22s %-4s %8s %8s %8s %9s %6s %8s" %
+          ("operator", "repr", "acc", "TPR", "FPR", "判别度", "退化", "逃逸率"))
+    for k, r in A2.items():
+        for rn in ("BOW", "POS"):
+            d = r[rn]
+            esc = "N/A" if d["escape"] is None else "%.4f" % d["escape"]
+            print("  %-22s %-4s %8.4f %8.4f %8.4f %9.4f %6d %8s" %
+                  (k[:22], rn, d["acc"], d["tpr"], d["fpr"], d["disc"],
+                   d["degenerate"], esc))
+        print("      (%s)" % r["desc"])
+
+    C = part_c()
+    print("\n--- Part C1  剂量扫描（确定性=无限样本极限, REPLACE）---")
+    print("  %10s %6s %12s %12s" % ("chi0", "gamma", "final_pL", "chi_final"))
+    for d in C["dose"]:
+        print("  %10.5f %6.1f %12.6f %12.6f" %
+              (d["chi0"], d["gamma"], d["final"], d["chi_final"]))
+
+    print("\n--- Part C2  自发对称性破缺（chi0=0, 有噪声, gamma=2.0）---")
+    s = C["spontaneous"]
+    print("  n=%d  锁死 %d  锁死率 %.3f" % (s["n"], s["locked"], s["rate"]))
+    print("  锁死到 L %d / R %d   z = %.3f" % (s["to_L"], s["to_R"], s["z"]))
+    print("  例 前8代 %s" % [round(x, 4) for x in s["example_hist"][:8]])
+    print("    末4代 %s" % [round(x, 4) for x in s["example_hist"][-4:]])
+
+    with open("result139c.json", "w") as f:
+        json.dump({"A2": A2, "C": C}, f, ensure_ascii=False, indent=1)
+    print("\n[saved] result139c.json")

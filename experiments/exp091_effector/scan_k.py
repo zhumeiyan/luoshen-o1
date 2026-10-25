@@ -1,1 +1,21 @@
-aW1wb3J0IHN5cywgb3MsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJy4uJywgJy4uJykpCmZyb20gaGFuZGV5ZTQgaW1wb3J0IHJ1biwgcGFpcmVkCmRlZiBjZWxsKGV5ZSwgaGFuZCwga3NhLCBuPTEyKToKICAgIHJzPVtydW4ocywgZXllLCBoYW5kLCBrX3NlZWtfYXJyPWtzYSkgZm9yIHMgaW4gcmFuZ2UobildCiAgICByZXR1cm4gZGljdChza2V3PWZsb2F0KG5wLm1lYW4oW3JbJ3NrZXcnXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgIGFsaXZlPWZsb2F0KG5wLm1lYW4oW3JbJ2FsaXZlJ10gZm9yIHIgaW4gcnNdKSksCiAgICAgICAgICAgICAgICBza2V3cz1bclsnc2tldyddIGZvciByIGluIHJzXSkKcHJpbnQoZiJ7J2tzYSc6PDZ9eyfmoLwnOjwxMn17J3NrZXcnOjwxMn17J+WtmOa0uyc6PDh9eydkaWZmJzo8MTJ9eydDSSd9IikKcmVzPXt9CmZvciBrc2EgaW4gKDAuMSwwLjIsMC4zLDAuNSk6CiAgICBiPWNlbGwoMC4wLDAuMCxrc2EpCiAgICBmb3Igbm0sKGUsaCkgaW4geyfln7rnur8nOigwLDApLCfnnLzlmaonOigwLjMsMCksJ+aJi+WZqic6KDAsMC4zKX0uaXRlbXMoKToKICAgICAgICBjPWNlbGwoZSxoLGtzYSkKICAgICAgICByPXBhaXJlZChjWydza2V3cyddLCBiWydza2V3cyddKSBpZiBubSE9J+Wfuue6vycgZWxzZSBkaWN0KGRpZmY9MC4wLGNpPVswLDBdLHNpZz1GYWxzZSkKICAgICAgICBwcmludChmIntrc2E6PDZ9e25tOjwxMn17Y1snc2tldyddOjwxMi42Zn17Y1snYWxpdmUnXTo8OC4zZn17clsnZGlmZiddOjwrMTIuNmZ9IgogICAgICAgICAgICAgIGYiW3tyWydjaSddWzBdOisuNWZ9LHtyWydjaSddWzFdOisuNWZ9XXsnKicgaWYgclsnc2lnJ10gZWxzZSAnJ30iKQogICAgICAgIHJlc1tmJ3trc2F9X3tubX0nXT1kaWN0KHNrZXc9Y1snc2tldyddLGFsaXZlPWNbJ2FsaXZlJ10sZGlmZj1yWydkaWZmJ10sY2k9clsnY2knXSxzaWc9clsnc2lnJ10pCiAgICBwcmludCgpCmpzb24uZHVtcChyZXMsIG9wZW4oJ3NjYW5fay5qc29uJywndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+from handeye4 import run, paired
+def cell(eye, hand, ksa, n=12):
+    rs=[run(s, eye, hand, k_seek_arr=ksa) for s in range(n)]
+    return dict(skew=float(np.mean([r['skew'] for r in rs])),
+                alive=float(np.mean([r['alive'] for r in rs])),
+                skews=[r['skew'] for r in rs])
+print(f"{'ksa':<6}{'格':<12}{'skew':<12}{'存活':<8}{'diff':<12}{'CI'}")
+res={}
+for ksa in (0.1,0.2,0.3,0.5):
+    b=cell(0.0,0.0,ksa)
+    for nm,(e,h) in {'基线':(0,0),'眼噪':(0.3,0),'手噪':(0,0.3)}.items():
+        c=cell(e,h,ksa)
+        r=paired(c['skews'], b['skews']) if nm!='基线' else dict(diff=0.0,ci=[0,0],sig=False)
+        print(f"{ksa:<6}{nm:<12}{c['skew']:<12.6f}{c['alive']:<8.3f}{r['diff']:<+12.6f}"
+              f"[{r['ci'][0]:+.5f},{r['ci'][1]:+.5f}]{'*' if r['sig'] else ''}")
+        res[f'{ksa}_{nm}']=dict(skew=c['skew'],alive=c['alive'],diff=r['diff'],ci=r['ci'],sig=r['sig'])
+    print()
+json.dump(res, open('scan_k.json','w'), ensure_ascii=False, indent=1)

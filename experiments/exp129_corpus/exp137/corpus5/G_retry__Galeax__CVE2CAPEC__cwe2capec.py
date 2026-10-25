@@ -1,1 +1,70 @@
-aW1wb3J0IGpzb24KaW1wb3J0IHN5cwpmcm9tIHRxZG0gaW1wb3J0IHRxZG0KCgpDV0VfRklMRSA9ICJyZXNvdXJjZXMvY3dlX2RiLmpzb24iCkNWRV9GSUxFID0gInJlc3VsdHMvbmV3X2N2ZXMuanNvbmwiCgojIFJldHJpdmUgdGhlIENBUEVDIGVudHJpZXMgcmVsYXRlZCB0byBhIENXRQpkZWYgZmV0Y2hfY2FwZWNfZm9yX2N3ZShjd2U6IHN0ciwgY3dlX2RiOiBkaWN0KToKICAgIHRyeToKICAgICAgICByZXN1bHQgPSBjd2VfZGIuZ2V0KGN3ZSwge30pCiAgICAgICAgY2FwZWNfbGlzdCA9IHJlc3VsdC5nZXQoIlJlbGF0ZWRBdHRhY2tQYXR0ZXJucyIsIFtdKQogICAgICAgIHJldHVybiBjYXBlY19saXN0IGlmIGNhcGVjX2xpc3QgZWxzZSBbXSAgCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZiJFeGNlcHRpb24gZm9yIENXRS17Y3dlfToge3N0cihlKX0iKQogICAgICAgIHJldHVybiBbXQoKCiMgUHJvY2VzcyBlYWNoIENXRSB0byBleHRyYWN0IHRoZSByZWxhdGVkIENBUEVDIGVudHJpZXMuCmRlZiBwcm9jZXNzX2N3ZV90b19jYXBlYyhjd2VfbGlzdCwgY3dlX2RiKToKICAgIGxpc3RfY2FwZWMgPSBzZXQoKQogICAgZm9yIGN3ZSBpbiBjd2VfbGlzdDoKICAgICAgICBsaXN0X2NhcGVjLnVwZGF0ZShmZXRjaF9jYXBlY19mb3JfY3dlKGN3ZSwgY3dlX2RiKSkKICAgIHJldHVybiBsaXN0KGxpc3RfY2FwZWMpCgoKIyBTYXZlIHRoZSByZXN1bHRzIHRvIGEgSlNPTkwgZmlsZQpkZWYgc2F2ZV9qc29ubChjdmVfY2FwZWNfZGF0YSk6CiAgICB3aXRoIG9wZW4oQ1ZFX0ZJTEUsICd3JykgYXMgZjoKICAgICAgICBmb3IgY3ZlLCBkYXRhIGluIGN2ZV9jYXBlY19kYXRhLml0ZW1zKCk6CiAgICAgICAgICAgIGYud3JpdGUoanNvbi5kdW1wcyh7Y3ZlOiBkYXRhfSkgKyAiXG4iKQoKCiMgTG9hZCB0aGUgQ1dFIGRhdGFiYXNlCmRlZiBsb2FkX2RiKCk6CiAgICB3aXRoIG9wZW4oQ1dFX0ZJTEUsICdyJykgYXMgZjoKICAgICAgICBjd2VfZGIgPSBqc29uLmxvYWQoZikKICAgIHJldHVybiBjd2VfZGIKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgaWYgbGVuKHN5cy5hcmd2KSA9PSAyOgogICAgICAgIGZpbGUgPSBzeXMuYXJndlsxXQogICAgZWxzZToKICAgICAgICBmaWxlID0gQ1ZFX0ZJTEUKICAgIAogICAgIyBMb2FkIHRoZSBKU09OTCBmaWxlCiAgICBjdmVfY3dlX2RhdGEgPSB7fQogICAgd2l0aCBvcGVuKGZpbGUsICdyJykgYXMgZjoKICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgICAgICBjdmUgPSBqc29uLmxvYWRzKGxpbmUuc3RyaXAoKSkKICAgICAgICAgICAgY3ZlX2N3ZV9kYXRhLnVwZGF0ZShjdmUpCiAgICAKICAgIGlmIGN2ZV9jd2VfZGF0YToKICAgICAgICBjd2VfZGIgPSBsb2FkX2RiKCkKICAgICAgICAKICAgICAgICAjIEdldCB0aGUgeWVhciBvZiB0aGUgQ1ZFcwogICAgICAgIGN2ZV95ZWFyID0gbGlzdChjdmVfY3dlX2RhdGEua2V5cygpKVswXS5zcGxpdCgnLScpWzFdCgogICAgICAgICMgUHJvY2VzcyBlYWNoIENWRSB0byBleHRyYWN0IHRoZSByZWxhdGVkIENBUEVDIGVudHJpZXMKICAgICAgICBjdmVfY2FwZWNfZGF0YSA9IHt9CiAgICAgICAgZm9yIGN2ZSBpbiB0cWRtKGN2ZV9jd2VfZGF0YSwgZGVzYz1mIlByb2Nlc3NpbmcgQ1dFIHRvIENBUEVDIGZvciBDVkUte2N2ZV95ZWFyfSIsIHVuaXQ9IkNWRSIpOgogICAgICAgICAgICBjd2VfbGlzdCA9IGN2ZV9jd2VfZGF0YVtjdmVdWyJDV0UiXQogICAgICAgICAgICBjdmVfY2FwZWNfZGF0YVtjdmVdID0geyJDV0UiOiBjd2VfbGlzdH0KICAgICAgICAgICAgY3ZlX2NhcGVjX2RhdGFbY3ZlXVsiQ0FQRUMiXSA9IHByb2Nlc3NfY3dlX3RvX2NhcGVjKGN3ZV9saXN0LCBjd2VfZGIpCgogICAgICAgIHNhdmVfanNvbmwoY3ZlX2NhcGVjX2RhdGEpCiAgICBlbHNlOgogICAgICAgIHByaW50KCJbLV1ObyBuZXcgdnVsbmVyYWJpbGl0aWVzIGZvdW5kIikK
+import json
+import sys
+from tqdm import tqdm
+
+
+CWE_FILE = "resources/cwe_db.json"
+CVE_FILE = "results/new_cves.jsonl"
+
+# Retrive the CAPEC entries related to a CWE
+def fetch_capec_for_cwe(cwe: str, cwe_db: dict):
+    try:
+        result = cwe_db.get(cwe, {})
+        capec_list = result.get("RelatedAttackPatterns", [])
+        return capec_list if capec_list else []  
+    except Exception as e:
+        print(f"Exception for CWE-{cwe}: {str(e)}")
+        return []
+
+
+# Process each CWE to extract the related CAPEC entries.
+def process_cwe_to_capec(cwe_list, cwe_db):
+    list_capec = set()
+    for cwe in cwe_list:
+        list_capec.update(fetch_capec_for_cwe(cwe, cwe_db))
+    return list(list_capec)
+
+
+# Save the results to a JSONL file
+def save_jsonl(cve_capec_data):
+    with open(CVE_FILE, 'w') as f:
+        for cve, data in cve_capec_data.items():
+            f.write(json.dumps({cve: data}) + "\n")
+
+
+# Load the CWE database
+def load_db():
+    with open(CWE_FILE, 'r') as f:
+        cwe_db = json.load(f)
+    return cwe_db
+
+
+if __name__ == "__main__":
+    if len(sys.argv) == 2:
+        file = sys.argv[1]
+    else:
+        file = CVE_FILE
+    
+    # Load the JSONL file
+    cve_cwe_data = {}
+    with open(file, 'r') as f:
+        for line in f:
+            cve = json.loads(line.strip())
+            cve_cwe_data.update(cve)
+    
+    if cve_cwe_data:
+        cwe_db = load_db()
+        
+        # Get the year of the CVEs
+        cve_year = list(cve_cwe_data.keys())[0].split('-')[1]
+
+        # Process each CVE to extract the related CAPEC entries
+        cve_capec_data = {}
+        for cve in tqdm(cve_cwe_data, desc=f"Processing CWE to CAPEC for CVE-{cve_year}", unit="CVE"):
+            cwe_list = cve_cwe_data[cve]["CWE"]
+            cve_capec_data[cve] = {"CWE": cwe_list}
+            cve_capec_data[cve]["CAPEC"] = process_cwe_to_capec(cwe_list, cwe_db)
+
+        save_jsonl(cve_capec_data)
+    else:
+        print("[-]No new vulnerabilities found")

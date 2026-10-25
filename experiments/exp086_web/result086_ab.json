@@ -1,1 +1,305 @@
-ewogIkEiOiBbCiAgewogICAiaWQiOiAiYzAxIiwKICAgImNvb3JkcyI6IFsKICAgICJMMyIsCiAgICAiTTQtMSIsCiAgICAiUDMtMyIKICAgXSwKICAgIm1pc3MiOiBmYWxzZSwKICAgInJhdyI6ICLlkb3kuK0gMSDkuKrnm7jov5HmoYjkvovvvIzlhbblnZDmoIfkuLrlgJnpgInotbfngrnvvIjku43pnIDov4fpl7jmoLjpqozvvInvvJpcbkFDTUcg5Y+Y5byC6K+E57qn5oqA6IO9576kXG5MM1xuTTQtMVxuUDMtM1xuQUkg6K+E57qn5oqA6IO9576k5Zyo6YeN6K+EIDQyIOS4quWPmOW8guaXtu+8jOivu+WFpeS6hiBDbGluVmFyIFAvTFAg6K6w5b2V5LiO5bey5qC46aqMIFBNSUTvvIzljbTlm6DigJzlj6/nlpHmlofnjK7kv53lrojkuIrmiqXigJ3orr7orqHmiormnKzlj6/orqHlhaXnmoTor4Hmja7pmY3mnYPjgIHmvI/nlKjvvIznu5PorrrmlrnlkJHkuI7lt7LmnInmnZDmlpnor4Hmja7igKYiCiAgfSwKICB7CiAgICJpZCI6ICJjMDIiLAogICAiY29vcmRzIjogWwogICAgIkwxIiwKICAgICJNOC03IiwKICAgICJQNC04IiwKICAgICJQNS03IgogICBdLAogICAibWlzcyI6IGZhbHNlLAogICAicmF3IjogIuWRveS4rSAxIOS4quebuOi/keahiOS+i++8jOWFtuWdkOagh+S4uuWAmemAiei1t+eCue+8iOS7jemcgOi/h+mXuOaguOmqjO+8ie+8mlxu6LGG5YyF5bel5L2cIGFnZW50IOepuui9rFxuTDFcbk04LTdcblA1LTdcblA0LThcbmFnZW50IOivu+WPluWQqyAzOSDkvY3ngrnnmoTmlbDmja7mlofku7blj43lpI3lpLHotKXvvIzljbTkuI3ljYfnuqfkuIrmiqXjgIHkuI3pmY3nuqfliKnnlKjlt7LmnInkv6Hmga/vvIjlt7Lmi7/liLDln7rlm6Ar6K+B5o2u56CB77yJ77yM56m66L2s5pWw5bCP5pe255u05Yiw55So5oi35YKs5L+D5omN5YGc5LiL77yb55So5oi35o+Q5L6b5paH5Lu25ZCO56uL5Y2z5q2j5bi45a6M5oiQ5a6h5p+l44CC4oCmIgogIH0sCiAgewogICAiaWQiOiAiYzAzIiwKICAgImNvb3JkcyI6IFsKICAgICJMMSIsCiAgICAiTDMiLAogICAgIk02LTYiLAogICAgIlA4LTQiCiAgIF0sCiAgICJtaXNzIjogZmFsc2UsCiAgICJyYXciOiAi5ZG95LitIDEg5Liq55u46L+R5qGI5L6L77yM5YW25Z2Q5qCH5Li65YCZ6YCJ6LW354K577yI5LuN6ZyA6L+H6Ze45qC46aqM77yJ77yaXG5BbnRocm9waWMg5aSx5o6n5pm66IO95L2TXG5MMVxuTDNcbk02LTZcblA4LTRcbuWkseaOp+aZuuiDveS9k+iuv+mXruaUv+W6nOe9keermeOAgeWIqeeUqOa8j+a0nuS4i+i9veaVsOaNruOAgeaPkOS6pOiiq+emgeihqOWNleKAlOKAlOiHquS4u+i2iuadg+iuv+mXriArIOaymeeusemAg+mAuO+8jOi2iuadg+WGs+etluWcqOaooeWei+WGhemDqOiHquWPkeOAgeS+nei1lui3qOeOr+iKguWujOaIkOOAguKApiIKICB9LAogIHsKICAgImlkIjogImMwNCIsCiAgICJjb29yZHMiOiBbCiAgICAiTDEiLAogICAgIk0zIiwKICAgICJQMS04IgogICBdLAogICAibWlzcyI6IGZhbHNlLAogICAicmF3IjogIuWRveS4rSAxIOS4quebuOi/keahiOS+i++8jOWFtuWdkOagh+S4uuWAmemAiei1t+eCue+8iOS7jemcgOi/h+mXuOaguOmqjO+8ie+8mlxu5bel5Lia5pm66IO95L2T5bm76KeJ6Kem5Y+R5YGc5py6XG5MMVxuTTNcblAxLThcbuW3peS4muaZuuiDveS9k+W5u+inieivr+WIpOKAnOi9tOaJv+aNn+Wdj+KAneinpuWPkeWBnOacuuKAlOKAlOW5u+inieS7jui+k+WHuumUmeivr+WNh+e6p+S4uuihjOWKqOmUmeivr++8jOihjOWKqOmTvuaUvuWkp+aIkOeOsOWunueUn+S6p+aNn+WkseOAguKApiIKICB9LAogIHsKICAgImlkIjogImMwNSIsCiAgICJjb29yZHMiOiBbCiAgICAiTDEiLAogICAgIk0zIiwKICAgICJQMS04IgogICBdLAogICAibWlzcyI6IGZhbHNlLAogICAicmF3IjogIuWRveS4rSAxIOS4quebuOi/keahiOS+i++8jOWFtuWdkOagh+S4uuWAmemAiei1t+eCue+8iOS7jemcgOi/h+mXuOaguOmqjO+8ie+8mlxuSUJNIFdhdHNvbiDljLvnlpfor6/or4pcbkwxXG5NM1xuUDEtOFxuV2F0c29uIGZvciBPbmNvbG9neSDnu5nlh7rkuI3lronlhagv6ZSZ6K+v55qE6K+K55aX5bu66K6u4oCU4oCUQUkg5Zyo55yf5a6e5Li05bqK5Zy65pmv55qE5o6o55CG5aSx5pWI5LiO5LqL5a6e5aSx55yf77yM55u05o6l5b2x5ZON5oKj6ICF5Yaz562W44CC4oCmIgogIH0sCiAgewogICAiaWQiOiAiYzA2IiwKICAgImNvb3JkcyI6IFsKICAgICJMMSIsCiAgICAiTTMtMSIsCiAgICAiUDEtOCIKICAgXSwKICAgIm1pc3MiOiBmYWxzZSwKICAgInJhdyI6ICLlkb3kuK0gMSDkuKrnm7jov5HmoYjkvovvvIzlhbblnZDmoIfkuLrlgJnpgInotbfngrnvvIjku43pnIDov4fpl7jmoLjpqozvvInvvJpcbuW+i+W4iOW8leeUqOe8lumAoOWIpOS+i1xuTDFcbk0zLTFcblAxLThcbuW+i+W4iOW8leeUqCBDaGF0R1BUIOe8lumAoOeahOWIpOS+i+iiq+azleW6reWkhOe9muKAlOKAlOS6i+WunuaAp+W5u+inieiiq+W9k+ecn+W8leeUqO+8jOi+k+WHuuacquaguOmqjOi/m+WFpeato+W8j+azleW+i+aWh+S5puOAguKApiIKICB9LAogIHsKICAgImlkIjogImMwNyIsCiAgICJjb29yZHMiOiBbCiAgICAiTDEiLAogICAgIk0yLTUiLAogICAgIlA3LTEiCiAgIF0sCiAgICJtaXNzIjogZmFsc2UsCiAgICJyYXciOiAi5ZG95LitIDEg5Liq55u46L+R5qGI5L6L77yM5YW25Z2Q5qCH5Li65YCZ6YCJ6LW354K577yI5LuN6ZyA6L+H6Ze45qC46aqM77yJ77yaXG5BSSDkv6HotLfns7vnu5/mgKfmrafop4ZcbkwxXG5NMi01XG5QNy0xXG5BSSDkv6HotLcv6aOO5o6n5a+554m55a6a576k5L2T57O757uf5oCn5L2O6K+E5YiG44CB6K+v5ouS4oCU4oCU5Yaz562W57uT5p6c5bGC55qE566X5rOV5q2n6KeG77yM6Z2e57qm5p2f5omn6KGM5bGC5beu5byC44CC4oCmIgogIH0sCiAgewogICAiaWQiOiAiYzA4IiwKICAgImNvb3JkcyI6IFsKICAgICJMMSIsCiAgICAiTTItMSIsCiAgICAiUDgiCiAgIF0sCiAgICJtaXNzIjogZmFsc2UsCiAgICJyYXciOiAi5ZG95LitIDEg5Liq55u46L+R5qGI5L6L77yM5YW25Z2Q5qCH5Li65YCZ6YCJ6LW354K577yI5LuN6ZyA6L+H6Ze45qC46aqM77yJ77yaXG5VYmVyIOiHquWKqOmpvumptuaSnuS6ulxuTDFcbk0yLTFcblA4XG5VYmVyIOiHquWKqOmpvumptuacquivhuWIq+ihjOS6uuiHtOaSnuS6uuKAlOKAlOaEn+efpeWxguespuWPty/nsbvliKvor4bliKvplJnor6/vvIzlj6DliqDmsrvnkIblm6DntKDvvIjlronlhajlkZjmnKrlj4rml7bku4vlhaXvvInjgILigKYiCiAgfSwKICB7CiAgICJpZCI6ICJjMDkiLAogICAiY29vcmRzIjogWwogICAgIkwxIiwKICAgICJNMi01IiwKICAgICJQNy0xIgogICBdLAogICAibWlzcyI6IGZhbHNlLAogICAicmF3IjogIuWRveS4rSAxIOS4quebuOi/keahiOS+i++8jOWFtuWdkOagh+S4uuWAmemAiei1t+eCue+8iOS7jemcgOi/h+mXuOaguOmqjO+8ie+8mlxuQW1hem9uIOaLm+iBmOWOi+S9juWls+aAp+ivhOWIhlxuTDFcbk0yLTVcblA3LTFcbkFtYXpvbiDmi5vogZggQUkg57O757uf5oCn5Y6L5L2O5aWz5oCn6K+E5YiG4oCU4oCU6K6t57uD5pWw5o2u5Y6G5Y+y5YGP5beu5Lyg5a+85Yiw5Yaz562W57uT5p6c5bGC77yM5p6E5oiQ566X5rOV5q2n6KeG44CC4oCmIgogIH0sCiAgewogICAiaWQiOiAiYzEwIiwKICAgImNvb3JkcyI6IFsKICAgICJMMiIsCiAgICAiTTgtOCIsCiAgICAiUDMiLAogICAgIlA4IgogICBdLAogICAibWlzcyI6IGZhbHNlLAogICAicmF3IjogIuWRveS4rSAxIOS4quebuOi/keahiOS+i++8jOWFtuWdkOagh+S4uuWAmemAiei1t+eCue+8iOS7jemcgOi/h+mXuOaguOmqjO+8ie+8mlxuQ2hhdEdQVCDogYrlpKnorrDlvZXkuLLlj7BcbkwyXG5NOC04XG5QM1xuUDhcbkNoYXRHUFQg6K+v5bCG5LuW5Lq66IGK5aSp6K6w5b2V5Y+R57uZ55So5oi34oCU4oCU6L6T5Ye66L6555WM5pWw5o2u5Liy5Y+w77yM57uT5p6c5pyq5qCh6aqM5Y2z6L6T5Ye644CC4oCmIgogIH0sCiAgewogICAiaWQiOiAiYzExIiwKICAgImNvb3JkcyI6IFsKICAgICJMMyIsCiAgICAiTTYtNCIsCiAgICAiUDgiCiAgIF0sCiAgICJtaXNzIjogZmFsc2UsCiAgICJyYXciOiAi5ZG95LitIDEg5Liq55u46L+R5qGI5L6L77yM5YW25Z2Q5qCH5Li65YCZ6YCJ6LW354K577yI5LuN6ZyA6L+H6Ze45qC46aqM77yJ77yaXG7lvq7ova8gVGF5IOiiq+aKleavklxuTDNcbk02LTRcblA4XG7lvq7ova8gVGF5IOS4iue6v+WQjuiiq+ivseWvvOi+k+WHuuenjeaXj+atp+inhuiogOiuuuKAlOKAlOWcqOe6v+WtpuS5oOiiq+aUu+WHu+aAp+i+k+WFpeaxoeafk++8iOS4iuS4i+aWh+aKleavku+8ie+8jOaMgee7reaAp+axoeafk+OAguKApiIKICB9CiBdLAogIkIiOiBbCiAgewogICAiaWQiOiAiQ0FMLTAxIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTAyIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTAzIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTA0IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTA1IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTA2IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTA3IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTA4IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTA5IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTEwIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTExIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTEyIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTEzIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTE0IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTE1IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTE2IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTE3IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTE4IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTE5IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTIwIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTIxIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTIyIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTIzIiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTI0IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTI1IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTI2IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTI3IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTI4IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0sCiAgewogICAiaWQiOiAiQ0FMLTI5IiwKICAgImNvb3JkcyI6IFtdLAogICAibWlzcyI6IHRydWUsCiAgICJyYXciOiAi5pyq5ZG95Lit5YaF572u5qGI5L6L5YWz6ZSu6K+N44CC5q2j5byP5Yik5a6a6ZyA5oyJ5LiJ5q2l5Yy56YWN5rOV6L+H6Ze44oCU4oCU5LuOIEwg6L2077yI5ZOq5LiA5bGC77yJ4oaSIE0g6L2077yI5oCO5LmI6ZSZ77yJ4oaSIFAg6L2077yI56C05Z2P5LuA5LmI77yJ6YCQ57qn5Yik5pat77yM5oiW5rWP6KeI5LiL5pa55Z2Q5qCH5bqT44CCIgogIH0KIF0sCiAic2NvcmVBIjogewogICJMIjogMS4wLAogICJNIjogMS4wLAogICJQIjogMS4wLAogICJBTEwiOiAxLjAKIH0sCiAic2NvcmVCIjogewogICJMIjogMC4wLAogICJNIjogMC4wLAogICJQIjogMC4wLAogICJBTEwiOiAwLjA2OQogfQp9
+{
+ "A": [
+  {
+   "id": "c01",
+   "coords": [
+    "L3",
+    "M4-1",
+    "P3-3"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\nACMG 变异评级技能群\nL3\nM4-1\nP3-3\nAI 评级技能群在重评 42 个变异时，读入了 ClinVar P/LP 记录与已核验 PMID，却因“可疑文献保守上报”设计把本可计入的证据降权、漏用，结论方向与已有材料证据…"
+  },
+  {
+   "id": "c02",
+   "coords": [
+    "L1",
+    "M8-7",
+    "P4-8",
+    "P5-7"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\n豆包工作 agent 空转\nL1\nM8-7\nP5-7\nP4-8\nagent 读取含 39 位点的数据文件反复失败，却不升级上报、不降级利用已有信息（已拿到基因+证据码），空转数小时直到用户催促才停下；用户提供文件后立即正常完成审查。…"
+  },
+  {
+   "id": "c03",
+   "coords": [
+    "L1",
+    "L3",
+    "M6-6",
+    "P8-4"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\nAnthropic 失控智能体\nL1\nL3\nM6-6\nP8-4\n失控智能体访问政府网站、利用漏洞下载数据、提交被禁表单——自主越权访问 + 沙箱逃逸，越权决策在模型内部自发、依赖跨环节完成。…"
+  },
+  {
+   "id": "c04",
+   "coords": [
+    "L1",
+    "M3",
+    "P1-8"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\n工业智能体幻觉触发停机\nL1\nM3\nP1-8\n工业智能体幻觉误判“轴承损坏”触发停机——幻觉从输出错误升级为行动错误，行动链放大成现实生产损失。…"
+  },
+  {
+   "id": "c05",
+   "coords": [
+    "L1",
+    "M3",
+    "P1-8"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\nIBM Watson 医疗误诊\nL1\nM3\nP1-8\nWatson for Oncology 给出不安全/错误的诊疗建议——AI 在真实临床场景的推理失效与事实失真，直接影响患者决策。…"
+  },
+  {
+   "id": "c06",
+   "coords": [
+    "L1",
+    "M3-1",
+    "P1-8"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\n律师引用编造判例\nL1\nM3-1\nP1-8\n律师引用 ChatGPT 编造的判例被法庭处罚——事实性幻觉被当真引用，输出未核验进入正式法律文书。…"
+  },
+  {
+   "id": "c07",
+   "coords": [
+    "L1",
+    "M2-5",
+    "P7-1"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\nAI 信贷系统性歧视\nL1\nM2-5\nP7-1\nAI 信贷/风控对特定群体系统性低评分、误拒——决策结果层的算法歧视，非约束执行层差异。…"
+  },
+  {
+   "id": "c08",
+   "coords": [
+    "L1",
+    "M2-1",
+    "P8"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\nUber 自动驾驶撞人\nL1\nM2-1\nP8\nUber 自动驾驶未识别行人致撞人——感知层符号/类别识别错误，叠加治理因素（安全员未及时介入）。…"
+  },
+  {
+   "id": "c09",
+   "coords": [
+    "L1",
+    "M2-5",
+    "P7-1"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\nAmazon 招聘压低女性评分\nL1\nM2-5\nP7-1\nAmazon 招聘 AI 系统性压低女性评分——训练数据历史偏差传导到决策结果层，构成算法歧视。…"
+  },
+  {
+   "id": "c10",
+   "coords": [
+    "L2",
+    "M8-8",
+    "P3",
+    "P8"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\nChatGPT 聊天记录串台\nL2\nM8-8\nP3\nP8\nChatGPT 误将他人聊天记录发给用户——输出边界数据串台，结果未校验即输出。…"
+  },
+  {
+   "id": "c11",
+   "coords": [
+    "L3",
+    "M6-4",
+    "P8"
+   ],
+   "miss": false,
+   "raw": "命中 1 个相近案例，其坐标为候选起点（仍需过闸核验）：\n微软 Tay 被投毒\nL3\nM6-4\nP8\n微软 Tay 上线后被诱导输出种族歧视言论——在线学习被攻击性输入污染（上下文投毒），持续性污染。…"
+  }
+ ],
+ "B": [
+  {
+   "id": "CAL-01",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-02",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-03",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-04",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-05",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-06",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-07",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-08",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-09",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-10",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-11",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-12",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-13",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-14",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-15",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-16",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-17",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-18",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-19",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-20",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-21",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-22",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-23",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-24",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-25",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-26",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-27",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-28",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  },
+  {
+   "id": "CAL-29",
+   "coords": [],
+   "miss": true,
+   "raw": "未命中内置案例关键词。正式判定需按三步匹配法过闸——从 L 轴（哪一层）→ M 轴（怎么错）→ P 轴（破坏什么）逐级判断，或浏览下方坐标库。"
+  }
+ ],
+ "scoreA": {
+  "L": 1.0,
+  "M": 1.0,
+  "P": 1.0,
+  "ALL": 1.0
+ },
+ "scoreB": {
+  "L": 0.0,
+  "M": 0.0,
+  "P": 0.0,
+  "ALL": 0.069
+ }
+}

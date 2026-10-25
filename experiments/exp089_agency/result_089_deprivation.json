@@ -1,1 +1,46 @@
-ewogICJleHRfc2VxX3N0YXRzIjogewogICAgIm4iOiA0MDAsCiAgICAibWVhbiI6IDAuNzM5OTk5OTk5OTk5MjU5OSwKICAgICJzdGQiOiAwLjQzODYzNDI0Mzk4ODc4NzUKICB9LAogICJpbnRfc2VxX3N0YXRzIjogewogICAgIm4iOiAxMjAsCiAgICAibWVhbiI6IDAuNDAxMTA0NTk3NDMwMzAzMywKICAgICJzdGQiOiAwLjIxNjQyMDY0NTA2MzI4NDY4LAogICAgInJhd19sbyI6IDAuMzA5NjExOTQ1NTU2NjQwNiwKICAgICJyYXdfaGkiOiAwLjM2NzAyMDcwMzc5MjMxNzcKICB9LAogICJjb25kcyI6IHsKICAgICJBX3Byb3ByaW8xX2V4dGVybzEiOiB7CiAgICAgICJzdXJ2IjogIjEwLzE2IiwKICAgICAgInNrZXdfbWVhbiI6IDAuMjQ1MDQ3NDE0MDMzMDgxNzgsCiAgICAgICJza2V3X3N0ZCI6IDAuMDMzOTEyMDU0NzgxODE2NiwKICAgICAgIm5fc3RydWN0IjogMTAKICAgIH0sCiAgICAiQl9wcm9wcmlvMV9leHRlcm8wIjogewogICAgICAic3VydiI6ICIxMC8xNiIsCiAgICAgICJza2V3X21lYW4iOiAwLjI0ODk5MTAyMDYzOTM5NDMsCiAgICAgICJza2V3X3N0ZCI6IDAuMDI3MDU2NTMyNTUwNjIwOTQ2LAogICAgICAibl9zdHJ1Y3QiOiAxMAogICAgfSwKICAgICJDX3Byb3ByaW8wX2V4dGVybzEiOiB7CiAgICAgICJzdXJ2IjogIjExLzE2IiwKICAgICAgInNrZXdfbWVhbiI6IDAuMjcxOTczOTI5MzI3MjU3NTYsCiAgICAgICJza2V3X3N0ZCI6IDAuMDk0MDI2OTk4NzUzNzI1NzEsCiAgICAgICJuX3N0cnVjdCI6IDExCiAgICB9LAogICAgIkRfcHJvcHJpbzBfZXh0ZXJvMCI6IHsKICAgICAgInN1cnYiOiAiMy8xNiIsCiAgICAgICJza2V3X21lYW4iOiAwLjcyMjQzMzEzNzYyMzQ2NjgsCiAgICAgICJza2V3X3N0ZCI6IDAuMDI5OTMwMDUwNTQxMDA0MDU0LAogICAgICAibl9zdHJ1Y3QiOiAzCiAgICB9LAogICAgIkJfbWludXNfQV9wYWlyZWQiOiB7CiAgICAgICJuX2NvbW1vbiI6IDEwLAogICAgICAiZGVsdGEiOiAwLjAwMzk0MzYwNjYwNjMxMjQ1OCwKICAgICAgImNpX2xvIjogLTAuMDA5NjQwMDg4OTU5NDA4OTcyLAogICAgICAiY2lfaGkiOiAwLjAxNjU3OTkyMjU1MTYzMzM3NQogICAgfQogIH0KfQ==
+{
+  "ext_seq_stats": {
+    "n": 400,
+    "mean": 0.7399999999992599,
+    "std": 0.4386342439887875
+  },
+  "int_seq_stats": {
+    "n": 120,
+    "mean": 0.4011045974303033,
+    "std": 0.21642064506328468,
+    "raw_lo": 0.3096119455566406,
+    "raw_hi": 0.3670207037923177
+  },
+  "conds": {
+    "A_proprio1_extero1": {
+      "surv": "10/16",
+      "skew_mean": 0.24504741403308178,
+      "skew_std": 0.0339120547818166,
+      "n_struct": 10
+    },
+    "B_proprio1_extero0": {
+      "surv": "10/16",
+      "skew_mean": 0.2489910206393943,
+      "skew_std": 0.027056532550620946,
+      "n_struct": 10
+    },
+    "C_proprio0_extero1": {
+      "surv": "11/16",
+      "skew_mean": 0.27197392932725756,
+      "skew_std": 0.09402699875372571,
+      "n_struct": 11
+    },
+    "D_proprio0_extero0": {
+      "surv": "3/16",
+      "skew_mean": 0.7224331376234668,
+      "skew_std": 0.029930050541004054,
+      "n_struct": 3
+    },
+    "B_minus_A_paired": {
+      "n_common": 10,
+      "delta": 0.003943606606312458,
+      "ci_lo": -0.009640088959408972,
+      "ci_hi": 0.016579922551633375
+    }
+  }
+}

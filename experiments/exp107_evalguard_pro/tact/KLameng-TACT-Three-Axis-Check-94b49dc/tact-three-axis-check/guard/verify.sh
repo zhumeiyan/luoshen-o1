@@ -1,1 +1,33 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIFRBQ1Qg5bel5YW35YyF5Y+X5o6n5paH5Lu25a6M5pW05oCn5qCh6aqMCiMg55So6YCU77ya5qOA5rWL5Y+X5o6n5paH5Lu25piv5ZCm6KKr5aSW6YOo5Zue5ruaL+evoeaUueOAguWbnua7muWNs+aKpeitpu+8iGV4aXQgMe+8ieOAggojIOeUqOazle+8mmd1YXJkL3ZlcmlmeS5zaAojIOS+nei1lu+8mk1BTklGRVNULmpzb27vvIhndWFyZCDnm67lvZXkuIvvvInjgILmm7TmlrDlj5fmjqfmlofku7blkI7lv4Xpobvph43mlrDnlJ/miJAgTUFOSUZFU1TjgIIKc2V0IC11CkRJUj0iJChjZCAiJChkaXJuYW1lICIke0JBU0hfU09VUkNFWzBdfSIpLy4uIiAmJiBwd2QpIgpNQU49IiRESVIvZ3VhcmQvTUFOSUZFU1QuanNvbiIKRkFJTD0wCgplY2hvICI9PSBUQUNUIOWPl+aOp+aWh+S7tuWujOaVtOaAp+agoemqjCA9PSIKIyDnlKggcHl0aG9uMyDop6PmnpAgTUFOSUZFU1TvvIzpgJDmlofku7bmr5Tlr7kgc2hhMjU277yI6YG/5YWNIGF3ay9qc29uIOino+aekOiEhuW8se+8iQpweXRob24zIC0gIiRESVIiICIkTUFOIiA8PCdQWScKaW1wb3J0IHN5cywganNvbiwgaGFzaGxpYiwgb3MKcm9vdCwgbWFuID0gc3lzLmFyZ3ZbMV0sIHN5cy5hcmd2WzJdCnRyeToKICAgIG0gPSBqc29uLmxvYWQob3BlbihtYW4sIGVuY29kaW5nPSd1dGYtOCcpKQpleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICBwcmludCgiICBbRkFUQUxdIE1BTklGRVNULmpzb24g5peg5rOV6Kej5p6QOiIsIGUpOyBzeXMuZXhpdCgyKQpvayA9IFRydWUKZm9yIHJlbCwgbWV0YSBpbiBtWydjb250cm9sbGVkX2ZpbGVzJ10uaXRlbXMoKToKICAgIHBhdGggPSBvcy5wYXRoLmpvaW4ocm9vdCwgcmVsKQogICAgZXhwID0gbWV0YVsnc2hhMjU2J10KICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwYXRoKToKICAgICAgICBwcmludChmIiAgW0ZBSUxdIOaWh+S7tue8uuWksToge3JlbH0gKOW6lOS4uiB7bWV0YS5nZXQoJ3ZlcnNpb24nLCc/Jyl9KSIpOyBvayA9IEZhbHNlOyBjb250aW51ZQogICAgY3VyID0gaGFzaGxpYi5zaGEyNTYob3BlbihwYXRoLCdyYicpLnJlYWQoKSkuaGV4ZGlnZXN0KCkKICAgIHN0ID0gIk9LICIgaWYgY3VyPT1leHAgZWxzZSAiRkFJTCIKICAgIGlmIGN1ciAhPSBleHA6IG9rID0gRmFsc2UKICAgIHByaW50KGYiICBbe3N0fV0ge3JlbH0gIOacn+acmyB7ZXhwWzoxMl194oCmICDlrp7pmYUge2N1cls6MTJdfeKApiIpCnByaW50KCI9PSDnu5Pmnpw6IiwgIlBBU1PvvIjlj5fmjqfmlofku7bmnKrooqvliqjov4fvvIkiIGlmIG9rIGVsc2UgIkZBSUzvvIjmnInmlofku7booqvlpJbpg6jlm57mu5ov56+h5pS577yM6K+355SoIGdpdCDmuq/mupDmgaLlpI3vvIkiLCAiPT0iKQpzeXMuZXhpdCgwIGlmIG9rIGVsc2UgMSkKUFkKZXhpdCAkPwo=
+#!/usr/bin/env bash
+# TACT 工具包受控文件完整性校验
+# 用途：检测受控文件是否被外部回滚/篡改。回滚即报警（exit 1）。
+# 用法：guard/verify.sh
+# 依赖：MANIFEST.json（guard 目录下）。更新受控文件后必须重新生成 MANIFEST。
+set -u
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+MAN="$DIR/guard/MANIFEST.json"
+FAIL=0
+
+echo "== TACT 受控文件完整性校验 =="
+# 用 python3 解析 MANIFEST，逐文件比对 sha256（避免 awk/json 解析脆弱）
+python3 - "$DIR" "$MAN" <<'PY'
+import sys, json, hashlib, os
+root, man = sys.argv[1], sys.argv[2]
+try:
+    m = json.load(open(man, encoding='utf-8'))
+except Exception as e:
+    print("  [FATAL] MANIFEST.json 无法解析:", e); sys.exit(2)
+ok = True
+for rel, meta in m['controlled_files'].items():
+    path = os.path.join(root, rel)
+    exp = meta['sha256']
+    if not os.path.exists(path):
+        print(f"  [FAIL] 文件缺失: {rel} (应为 {meta.get('version','?')})"); ok = False; continue
+    cur = hashlib.sha256(open(path,'rb').read()).hexdigest()
+    st = "OK " if cur==exp else "FAIL"
+    if cur != exp: ok = False
+    print(f"  [{st}] {rel}  期望 {exp[:12]}…  实际 {cur[:12]}…")
+print("== 结果:", "PASS（受控文件未被动过）" if ok else "FAIL（有文件被外部回滚/篡改，请用 git 溯源恢复）", "==")
+sys.exit(0 if ok else 1)
+PY
+exit $?

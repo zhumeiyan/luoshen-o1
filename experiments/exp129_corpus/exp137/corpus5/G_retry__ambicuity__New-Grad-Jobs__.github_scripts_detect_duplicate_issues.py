@@ -1,1 +1,304 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJBdXRvbWF0ZWQgZHVwbGljYXRlLWlzc3VlIGd1YXJkcmFpbCAocmVzb2x2ZXMgIzIzMCkuCgpPbiBpc3N1ZSBgYG9wZW5lZGBgL2BgZWRpdGVkYGAgdGhpcyBzY3JpcHQgY29tcGFyZXMgdGhlIHRyaWdnZXJpbmcgaXNzdWUgYWdhaW5zdApyZWNlbnQgb3BlbiAqKmFuZCoqIGNsb3NlZCBpc3N1ZXMuIFdoZW4gaXQgZmluZHMgaGlnaGx5IHNpbWlsYXIgaXNzdWVzIGl0OgoKICAqIGFkZHMgdGhlIGBgcG9zc2libGUtZHVwbGljYXRlYGAgbGFiZWwgKGNyZWF0aW5nIGl0IGlmIG1pc3NpbmcpLCBhbmQKICAqIHBvc3RzIGEgc2luZ2xlLCBub24tZGVzdHJ1Y3RpdmUgY29tbWVudCBsaXN0aW5nIHRoZSBjYW5kaWRhdGUgZHVwbGljYXRlcy4KClRoZSBmaW5hbCBkZWNpc2lvbiBzdGF5cyB3aXRoIGEgaHVtYW4g4oCUIG5vdGhpbmcgaXMgZXZlciBhdXRvLWNsb3NlZC4gVGhlIHRleHQKc2ltaWxhcml0eSBpcyBjb21wdXRlZCB3aXRoIHRoZSBzdGFuZGFyZCBsaWJyYXJ5IG9ubHkgKGBgZGlmZmxpYmBgICsKdG9rZW4tc2V0IG92ZXJsYXApLCBzbyB0aGVyZSBpcyBubyBleHRlcm5hbCBkYXRhYmFzZSwgc2VydmljZSwgb3Igb3JjaGVzdHJhdG9yLgoKVGhlIHB1cmUgZnVuY3Rpb25zIChgYG5vcm1hbGl6ZV90ZXh0YGAsIGBgdG9rZW5pemVgYCwgYGBzaW1pbGFyaXR5X3Njb3JlYGAsCmBgZmluZF9kdXBsaWNhdGVfY2FuZGlkYXRlc2BgKSBhcmUgaW1wb3J0LXNhZmUgYW5kIHVuaXQtdGVzdGVkOyB0aGUgR2l0SHViIEFQSQpjYWxscyBvbmx5IHJ1biB1bmRlciBgYG1haW4oKWBgLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgcmUKaW1wb3J0IHN5cwppbXBvcnQgdXJsbGliLmVycm9yCmltcG9ydCB1cmxsaWIucmVxdWVzdApmcm9tIGRpZmZsaWIgaW1wb3J0IFNlcXVlbmNlTWF0Y2hlcgpmcm9tIHR5cGluZyBpbXBvcnQgQW55CgojIFR1bmFibGVzIChvdmVycmlkYWJsZSB2aWEgd29ya2Zsb3cgZW52KS4KREVGQVVMVF9USFJFU0hPTEQgPSAwLjU1CkRFRkFVTFRfTUFYX0NBTkRJREFURVMgPSA1CkRFRkFVTFRfTE9PS0JBQ0sgPSAyMDAgICMgbW9zdCByZWNlbnQgaXNzdWVzIHRvIGNvbXBhcmUgYWdhaW5zdAoKIyBNYXJrZXIga2VwdCBpbiB0aGUgYm90IGNvbW1lbnQgc28gcmVwZWF0ZWQgImVkaXRlZCIgZXZlbnRzIHN0YXkgaWRlbXBvdGVudC4KQ09NTUVOVF9NQVJLRVIgPSAiPCEtLSBwb3NzaWJsZS1kdXBsaWNhdGUtZ3VhcmRyYWlsIC0tPiIKRFVQTElDQVRFX0xBQkVMID0gInBvc3NpYmxlLWR1cGxpY2F0ZSIKCl9TVE9QV09SRFMgPSBmcm96ZW5zZXQoCiAgICAiIiIKICAgIGEgYW4gdGhlIGFuZCBvciBidXQgaWYgdGhlbiBlbHNlIGZvciB0byBvZiBpbiBvbiBhdCBieSB3aXRoIHdpdGhvdXQgZnJvbSBpbnRvCiAgICBpcyBhcmUgd2FzIHdlcmUgYmUgYmVlbiBiZWluZyB0aGlzIHRoYXQgdGhlc2UgdGhvc2UgaXQgaXRzIGFzIHdlIHlvdSB0aGV5IGkKICAgIGFkZCBhZGRzIGFkZGVkIG1ha2UgbWFrZXMgbWFraW5nIGZpeCBmaXhlcyBmaXhlZCBmZWF0dXJlIGJ1ZyBpc3N1ZSBwbGVhc2UKICAgIHNob3VsZCB3b3VsZCBjb3VsZCB3aGVuIHdoZXJlIHdoaWNoIHdoYXQgaG93IHdoeSBub3Qgbm8geWVzIGNhbiB3aWxsCiAgICAiIiIuc3BsaXQoKQopCgpfVVJMX1JFID0gcmUuY29tcGlsZShyImh0dHBzPzovL1xTKyIpCl9DT0RFQkxPQ0tfUkUgPSByZS5jb21waWxlKHIiYGBgLio/YGBgIiwgcmUuRE9UQUxMKQpfTk9OV09SRF9SRSA9IHJlLmNvbXBpbGUociJbXmEtejAtOVxzXSsiKQpfV1NfUkUgPSByZS5jb21waWxlKHIiXHMrIikKCgpkZWYgbm9ybWFsaXplX3RleHQodGV4dDogc3RyIHwgTm9uZSkgLT4gc3RyOgogICAgIiIiTG93ZXJjYXNlIGFuZCBzdHJpcCBVUkxzLCBjb2RlIGJsb2NrcywgbWFya2Rvd24sIGFuZCBwdW5jdHVhdGlvbi4iIiIKICAgIGlmIG5vdCB0ZXh0OgogICAgICAgIHJldHVybiAiIgogICAgdGV4dCA9IHRleHQubG93ZXIoKQogICAgdGV4dCA9IF9DT0RFQkxPQ0tfUkUuc3ViKCIgIiwgdGV4dCkKICAgIHRleHQgPSBfVVJMX1JFLnN1YigiICIsIHRleHQpCiAgICB0ZXh0ID0gX05PTldPUkRfUkUuc3ViKCIgIiwgdGV4dCkKICAgIHJldHVybiBfV1NfUkUuc3ViKCIgIiwgdGV4dCkuc3RyaXAoKQoKCmRlZiB0b2tlbml6ZSh0ZXh0OiBzdHIgfCBOb25lKSAtPiBmcm96ZW5zZXQ6CiAgICAiIiJSZXR1cm4gYSBzZXQgb2YgbWVhbmluZ2Z1bCB0b2tlbnMgKGxlbmd0aCA+PSAzLCBtaW51cyBzdG9wd29yZHMpLiIiIgogICAgbm9ybWFsaXplZCA9IG5vcm1hbGl6ZV90ZXh0KHRleHQpCiAgICByZXR1cm4gZnJvemVuc2V0KAogICAgICAgIHRvayBmb3IgdG9rIGluIG5vcm1hbGl6ZWQuc3BsaXQoKSBpZiBsZW4odG9rKSA+PSAzIGFuZCB0b2sgbm90IGluIF9TVE9QV09SRFMKICAgICkKCgpkZWYgX2phY2NhcmQoYTogZnJvemVuc2V0LCBiOiBmcm96ZW5zZXQpIC0+IGZsb2F0OgogICAgaWYgbm90IGEgb3Igbm90IGI6CiAgICAgICAgcmV0dXJuIDAuMAogICAgcmV0dXJuIGxlbihhICYgYikgLyBsZW4oYSB8IGIpCgoKZGVmIHNpbWlsYXJpdHlfc2NvcmUoCiAgICB0aXRsZV9hOiBzdHIsIGJvZHlfYTogc3RyLCB0aXRsZV9iOiBzdHIsIGJvZHlfYjogc3RyCikgLT4gZmxvYXQ6CiAgICAiIiJDb21iaW5lZCB0aXRsZSArIGJvZHkgc2ltaWxhcml0eSBpbiBgYFswLCAxXWBgLgoKICAgIFRpdGxlIHNpbWlsYXJpdHkgKHNlcXVlbmNlIHJhdGlvIG9uIG5vcm1hbGl6ZWQgdGl0bGVzKSBpcyB3ZWlnaHRlZCBtb3N0LAogICAgc2luY2UgbmVhci1kdXBsaWNhdGUgaXNzdWVzIGFsbW9zdCBhbHdheXMgc2hhcmUgYSB0aXRsZS4gQm9keSBzaW1pbGFyaXR5CiAgICB1c2VzIHRva2VuLXNldCBvdmVybGFwIHNvIHdvcmRpbmcvb3JkZXIgZGlmZmVyZW5jZXMgZG9uJ3QgaGlkZSBhIG1hdGNoLgogICAgIiIiCiAgICBudF9hLCBudF9iID0gbm9ybWFsaXplX3RleHQodGl0bGVfYSksIG5vcm1hbGl6ZV90ZXh0KHRpdGxlX2IpCiAgICB0aXRsZV9yYXRpbyA9IFNlcXVlbmNlTWF0Y2hlcihOb25lLCBudF9hLCBudF9iKS5yYXRpbygpIGlmIG50X2EgYW5kIG50X2IgZWxzZSAwLjAKICAgIHRpdGxlX3Rva2VucyA9IF9qYWNjYXJkKHRva2VuaXplKHRpdGxlX2EpLCB0b2tlbml6ZSh0aXRsZV9iKSkKICAgIGJvZHlfdG9rZW5zID0gX2phY2NhcmQoCiAgICAgICAgdG9rZW5pemUoZiJ7dGl0bGVfYX0ge2JvZHlfYX0iKSwgdG9rZW5pemUoZiJ7dGl0bGVfYn0ge2JvZHlfYn0iKQogICAgKQogICAgcmV0dXJuIHJvdW5kKDAuNSAqIHRpdGxlX3JhdGlvICsgMC4yICogdGl0bGVfdG9rZW5zICsgMC4zICogYm9keV90b2tlbnMsIDQpCgoKZGVmIGZpbmRfZHVwbGljYXRlX2NhbmRpZGF0ZXMoCiAgICB0YXJnZXQ6IGRpY3Rbc3RyLCBBbnldLAogICAgb3RoZXJzOiBsaXN0W2RpY3Rbc3RyLCBBbnldXSwKICAgIHRocmVzaG9sZDogZmxvYXQgPSBERUZBVUxUX1RIUkVTSE9MRCwKICAgIG1heF9jYW5kaWRhdGVzOiBpbnQgPSBERUZBVUxUX01BWF9DQU5ESURBVEVTLAopIC0+IGxpc3RbdHVwbGVbZGljdFtzdHIsIEFueV0sIGZsb2F0XV06CiAgICAiIiJSZXR1cm4gYGBbKGlzc3VlLCBzY29yZSksIC4uLl1gYCBhYm92ZSBgYHRocmVzaG9sZGBgLCBiZXN0IGZpcnN0LgoKICAgIGBgdGFyZ2V0YGAvYGBvdGhlcnNgYCBhcmUgZGljdHMgd2l0aCBgYG51bWJlcmBgLCBgYHRpdGxlYGAsIGBgYm9keWBgIGtleXMuCiAgICBUaGUgdGFyZ2V0IGl0c2VsZiAobWF0Y2hpbmcgYGBudW1iZXJgYCkgaXMgYWx3YXlzIGV4Y2x1ZGVkLgogICAgIiIiCiAgICB0YXJnZXRfdGl0bGUgPSB0YXJnZXQuZ2V0KCJ0aXRsZSIsICIiKSBvciAiIgogICAgdGFyZ2V0X2JvZHkgPSB0YXJnZXQuZ2V0KCJib2R5IiwgIiIpIG9yICIiCiAgICB0YXJnZXRfbnVtYmVyID0gdGFyZ2V0LmdldCgibnVtYmVyIikKCiAgICBzY29yZWQ6IGxpc3RbdHVwbGVbZGljdFtzdHIsIEFueV0sIGZsb2F0XV0gPSBbXQogICAgZm9yIG90aGVyIGluIG90aGVyczoKICAgICAgICBpZiBvdGhlci5nZXQoIm51bWJlciIpID09IHRhcmdldF9udW1iZXI6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgc2NvcmUgPSBzaW1pbGFyaXR5X3Njb3JlKAogICAgICAgICAgICB0YXJnZXRfdGl0bGUsIHRhcmdldF9ib2R5LCBvdGhlci5nZXQoInRpdGxlIiwgIiIpIG9yICIiLCBvdGhlci5nZXQoImJvZHkiLCAiIikgb3IgIiIKICAgICAgICApCiAgICAgICAgaWYgc2NvcmUgPj0gdGhyZXNob2xkOgogICAgICAgICAgICBzY29yZWQuYXBwZW5kKChvdGhlciwgc2NvcmUpKQoKICAgIHNjb3JlZC5zb3J0KGtleT1sYW1iZGEgcGFpcjogcGFpclsxXSwgcmV2ZXJzZT1UcnVlKQogICAgcmV0dXJuIHNjb3JlZFs6bWF4X2NhbmRpZGF0ZXNdCgoKX01BWF9USVRMRV9DSEFSUyA9IDIwMApfQ09OVFJPTF9XU19SRSA9IHJlLmNvbXBpbGUociJccysiKQoKCmRlZiBmb3JtYXRfdGl0bGUodGl0bGU6IHN0ciB8IE5vbmUpIC0+IHN0cjoKICAgICIiIlJlbmRlciBhbiBpc3N1ZSB0aXRsZSBpbmVydGx5IGZvciB0aGUgYm90IGNvbW1lbnQuCgogICAgVGl0bGVzIGFyZSBhdHRhY2tlci1jb250cm9sbGVkLiBXcmFwcGluZyB0aGVtIGluIGEgY29kZSBzcGFuIHN0b3BzIG1hcmtkb3duLAogICAgbGlua3MsIGFuZCBgYEBtZW50aW9uYGAgLyBgYCNyZWZgYCBub3RpZmljYXRpb25zIGZyb20gYmVpbmcgaW50ZXJwcmV0ZWQuCiAgICBCYWNrdGlja3MgYXJlIHN0cmlwcGVkIHNvIHRoZSB0aXRsZSBjYW5ub3QgY2xvc2UgdGhlIHNwYW4gZWFybHksIGFuZAogICAgbmV3bGluZXMgYXJlIGNvbGxhcHNlZCBzbyBpdCBjYW5ub3Qgc3RhcnQgYSBuZXcgbWFya2Rvd24gYmxvY2suCiAgICAiIiIKICAgIGNsZWFuZWQgPSBfQ09OVFJPTF9XU19SRS5zdWIoIiAiLCAodGl0bGUgb3IgIiIpLnJlcGxhY2UoImAiLCAiIikpLnN0cmlwKCkKICAgIGlmIGxlbihjbGVhbmVkKSA+IF9NQVhfVElUTEVfQ0hBUlM6CiAgICAgICAgY2xlYW5lZCA9IGNsZWFuZWRbOiBfTUFYX1RJVExFX0NIQVJTIC0gMV0ucnN0cmlwKCkgKyAi4oCmIgogICAgcmV0dXJuIGYiYHtjbGVhbmVkfWAiIGlmIGNsZWFuZWQgZWxzZSAiXyh1bnRpdGxlZClfIgoKCmRlZiBidWlsZF9jb21tZW50KGNhbmRpZGF0ZXM6IGxpc3RbdHVwbGVbZGljdFtzdHIsIEFueV0sIGZsb2F0XV0pIC0+IHN0cjoKICAgICIiIlJlbmRlciB0aGUgbWFpbnRhaW5lci1mcmllbmRseSBjb21tZW50IGJvZHkuIiIiCiAgICBsaW5lcyA9IFsKICAgICAgICBDT01NRU5UX01BUktFUiwKICAgICAgICAi8J+UgSAqKlBvc3NpYmxlIGR1cGxpY2F0ZSBkZXRlY3RlZCoqIiwKICAgICAgICAiIiwKICAgICAgICAiVGhpcyBpc3N1ZSBsb29rcyBzaW1pbGFyIHRvIHRoZSBmb2xsb3dpbmcgZXhpc3RpbmcgaXNzdWUocykuICIKICAgICAgICArICJBIG1haW50YWluZXIgd2lsbCBjb25maXJtIOKAlCB0aGlzIGlzIG9ubHkgYSBoZWFkcy11cCwgbm90aGluZyBpcyBjbG9zZWQgYXV0b21hdGljYWxseToiLAogICAgICAgICIiLAogICAgXQogICAgZm9yIGlzc3VlLCBzY29yZSBpbiBjYW5kaWRhdGVzOgogICAgICAgIHN0YXRlID0gImNsb3NlZCIgaWYgaXNzdWUuZ2V0KCJzdGF0ZSIpID09ICJjbG9zZWQiIGVsc2UgIm9wZW4iCiAgICAgICAgbGluZXMuYXBwZW5kKAogICAgICAgICAgICBmIi0gI3tpbnQoaXNzdWVbJ251bWJlciddKX0g4oCUIHtmb3JtYXRfdGl0bGUoaXNzdWUuZ2V0KCd0aXRsZScpKX0gIgogICAgICAgICAgICBmIl8oc2ltaWxhcml0eSB7aW50KHJvdW5kKHNjb3JlICogMTAwKSl9JSwge3N0YXRlfSlfIgogICAgICAgICkKICAgIGxpbmVzICs9IFsKICAgICAgICAiIiwKICAgICAgICAiSWYgdGhpcyBpcyAqKm5vdCoqIGEgZHVwbGljYXRlLCBwbGVhc2UgcmVtb3ZlIHRoZSAiCiAgICAgICAgKyBmImB7RFVQTElDQVRFX0xBQkVMfWAgbGFiZWwgb3IgbGVhdmUgYSBjb21tZW50IGV4cGxhaW5pbmcgdGhlIGRpZmZlcmVuY2UuIiwKICAgIF0KICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIEdpdEh1YiBBUEkgZ2x1ZSAob25seSBleGVyY2lzZWQgaW4gdGhlIHdvcmtmbG93OyB0ZXN0cyBzdHViIGBgX3JlcXVlc3RgYCkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpfQVBJX1JPT1QgPSAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbSIKX1BFUl9QQUdFID0gMTAwCl9NQVhfSVNTVUVfUEFHRVMgPSA1Cl9NQVhfQ09NTUVOVF9QQUdFUyA9IDEwCgoKZGVmIF9yZXF1ZXN0KG1ldGhvZDogc3RyLCB1cmw6IHN0ciwgdG9rZW46IHN0ciwgcGF5bG9hZDogZGljdCB8IE5vbmUgPSBOb25lKSAtPiBBbnk6CiAgICBkYXRhID0ganNvbi5kdW1wcyhwYXlsb2FkKS5lbmNvZGUoKSBpZiBwYXlsb2FkIGlzIG5vdCBOb25lIGVsc2UgTm9uZQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIGRhdGE9ZGF0YSwgbWV0aG9kPW1ldGhvZCkKICAgIHJlcS5hZGRfaGVhZGVyKCJBdXRob3JpemF0aW9uIiwgZiJCZWFyZXIge3Rva2VufSIpCiAgICByZXEuYWRkX2hlYWRlcigiQWNjZXB0IiwgImFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiIpCiAgICByZXEuYWRkX2hlYWRlcigiWC1HaXRIdWItQXBpLVZlcnNpb24iLCAiMjAyMi0xMS0yOCIpCiAgICByZXEuYWRkX2hlYWRlcigiVXNlci1BZ2VudCIsICJkdXBsaWNhdGUtaXNzdWUtZ3VhcmRyYWlsIikKICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9MzApIGFzIHJlc3A6CiAgICAgICAgYm9keSA9IHJlc3AucmVhZCgpCiAgICByZXR1cm4ganNvbi5sb2Fkcyhib2R5KSBpZiBib2R5IGVsc2UgTm9uZQoKCmRlZiBfZmV0Y2hfcmVjZW50X2lzc3VlcyhyZXBvOiBzdHIsIHRva2VuOiBzdHIsIGxvb2tiYWNrOiBpbnQpIC0+IGxpc3RbZGljdFtzdHIsIEFueV1dOgogICAgaXNzdWVzOiBsaXN0W2RpY3Rbc3RyLCBBbnldXSA9IFtdCiAgICBwYWdlID0gMQogICAgd2hpbGUgbGVuKGlzc3VlcykgPCBsb29rYmFjayBhbmQgcGFnZSA8PSBfTUFYX0lTU1VFX1BBR0VTOgogICAgICAgIHVybCA9ICgKICAgICAgICAgICAgZiJ7X0FQSV9ST09UfS9yZXBvcy97cmVwb30vaXNzdWVzIgogICAgICAgICAgICBmIj9zdGF0ZT1hbGwmcGVyX3BhZ2U9e19QRVJfUEFHRX0mcGFnZT17cGFnZX0mc29ydD1jcmVhdGVkJmRpcmVjdGlvbj1kZXNjIgogICAgICAgICkKICAgICAgICBiYXRjaCA9IF9yZXF1ZXN0KCJHRVQiLCB1cmwsIHRva2VuKSBvciBbXQogICAgICAgIGlmIG5vdCBiYXRjaDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICAjIFNraXAgcHVsbCByZXF1ZXN0cyAodGhlIGlzc3VlcyBlbmRwb2ludCByZXR1cm5zIGJvdGgpLgogICAgICAgIGlzc3Vlcy5leHRlbmQoaSBmb3IgaSBpbiBiYXRjaCBpZiAicHVsbF9yZXF1ZXN0IiBub3QgaW4gaSkKICAgICAgICBwYWdlICs9IDEKICAgIHJldHVybiBpc3N1ZXNbOmxvb2tiYWNrXQoKCmRlZiBfZW5zdXJlX2xhYmVsKHJlcG86IHN0ciwgdG9rZW46IHN0cikgLT4gTm9uZToKICAgICIiIkNyZWF0ZSB0aGUgcG9zc2libGUtZHVwbGljYXRlIGxhYmVsIGlmIGl0IGRvZXMgbm90IGFscmVhZHkgZXhpc3QuIiIiCiAgICB0cnk6CiAgICAgICAgX3JlcXVlc3QoIkdFVCIsIGYie19BUElfUk9PVH0vcmVwb3Mve3JlcG99L2xhYmVscy97RFVQTElDQVRFX0xBQkVMfSIsIHRva2VuKQogICAgICAgIHJldHVybiAgIyBhbHJlYWR5IGV4aXN0cwogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZXhjOgogICAgICAgIGlmIGV4Yy5jb2RlICE9IDQwNDoKICAgICAgICAgICAgcmFpc2UKICAgIHBheWxvYWQgPSB7CiAgICAgICAgIm5hbWUiOiBEVVBMSUNBVEVfTEFCRUwsCiAgICAgICAgImNvbG9yIjogImNmZDNkNyIsCiAgICAgICAgImRlc2NyaXB0aW9uIjogIlRoaXMgaXNzdWUgbWF5IGJlIGEgZHVwbGljYXRlIOKAlCBuZWVkcyBjb25maXJtYXRpb24iLAogICAgfQogICAgdHJ5OgogICAgICAgIF9yZXF1ZXN0KCJQT1NUIiwgZiJ7X0FQSV9ST09UfS9yZXBvcy97cmVwb30vbGFiZWxzIiwgdG9rZW4sIHBheWxvYWQpCiAgICBleGNlcHQgdXJsbGliLmVycm9yLkhUVFBFcnJvciBhcyBleGM6CiAgICAgICAgaWYgZXhjLmNvZGUgIT0gNDIyOiAgIyBhbHJlYWR5IGV4aXN0cyAocmFjZSkKICAgICAgICAgICAgcmFpc2UKCgpkZWYgX2FscmVhZHlfZmxhZ2dlZChyZXBvOiBzdHIsIHRva2VuOiBzdHIsIG51bWJlcjogaW50KSAtPiBib29sOgogICAgIiIiVHJ1ZSBpZiBhbnkgY29tbWVudCBvbiB0aGUgaXNzdWUgKGFjcm9zcyBhbGwgcGFnZXMpIGNhcnJpZXMgdGhlIG1hcmtlci4iIiIKICAgIGZvciBwYWdlIGluIHJhbmdlKDEsIF9NQVhfQ09NTUVOVF9QQUdFUyArIDEpOgogICAgICAgIHVybCA9IGYie19BUElfUk9PVH0vcmVwb3Mve3JlcG99L2lzc3Vlcy97bnVtYmVyfS9jb21tZW50cz9wZXJfcGFnZT17X1BFUl9QQUdFfSZwYWdlPXtwYWdlfSIKICAgICAgICBjb21tZW50cyA9IF9yZXF1ZXN0KCJHRVQiLCB1cmwsIHRva2VuKSBvciBbXQogICAgICAgIGlmIGFueShDT01NRU5UX01BUktFUiBpbiAoYy5nZXQoImJvZHkiKSBvciAiIikgZm9yIGMgaW4gY29tbWVudHMpOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGlmIGxlbihjb21tZW50cykgPCBfUEVSX1BBR0U6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgIyBWZXJ5IGxvbmcgdGhyZWFkOiBlcnIgb24gdGhlIHNpZGUgb2Ygbm90IHJlLWNvbW1lbnRpbmcuCiAgICByZXR1cm4gVHJ1ZQoKCmRlZiBfYW5ub3RhdGUocmVwbzogc3RyLCB0b2tlbjogc3RyLCBudW1iZXI6IGludCwgY2FuZGlkYXRlczogbGlzdFt0dXBsZVtkaWN0W3N0ciwgQW55XSwgZmxvYXRdXSkgLT4gTm9uZToKICAgIF9lbnN1cmVfbGFiZWwocmVwbywgdG9rZW4pCiAgICBfcmVxdWVzdCgKICAgICAgICAiUE9TVCIsCiAgICAgICAgZiJ7X0FQSV9ST09UfS9yZXBvcy97cmVwb30vaXNzdWVzL3tudW1iZXJ9L2xhYmVscyIsCiAgICAgICAgdG9rZW4sCiAgICAgICAgeyJsYWJlbHMiOiBbRFVQTElDQVRFX0xBQkVMXX0sCiAgICApCiAgICBfcmVxdWVzdCgKICAgICAgICAiUE9TVCIsCiAgICAgICAgZiJ7X0FQSV9ST09UfS9yZXBvcy97cmVwb30vaXNzdWVzL3tudW1iZXJ9L2NvbW1lbnRzIiwKICAgICAgICB0b2tlbiwKICAgICAgICB7ImJvZHkiOiBidWlsZF9jb21tZW50KGNhbmRpZGF0ZXMpfSwKICAgICkKCgpkZWYgX3J1bihyZXBvOiBzdHIsIHRva2VuOiBzdHIsIG51bWJlcjogaW50LCB0aHJlc2hvbGQ6IGZsb2F0LCBtYXhfY2FuZGlkYXRlczogaW50LCBsb29rYmFjazogaW50KSAtPiBOb25lOgogICAgdGFyZ2V0ID0gX3JlcXVlc3QoIkdFVCIsIGYie19BUElfUk9PVH0vcmVwb3Mve3JlcG99L2lzc3Vlcy97bnVtYmVyfSIsIHRva2VuKQogICAgaWYgbm90IHRhcmdldCBvciAicHVsbF9yZXF1ZXN0IiBpbiB0YXJnZXQ6CiAgICAgICAgcHJpbnQoIlRyaWdnZXIgaXMgbm90IGFuIGlzc3VlOyBza2lwcGluZy4iKQogICAgICAgIHJldHVybgoKICAgIG90aGVycyA9IF9mZXRjaF9yZWNlbnRfaXNzdWVzKHJlcG8sIHRva2VuLCBsb29rYmFjaykKICAgIGNhbmRpZGF0ZXMgPSBmaW5kX2R1cGxpY2F0ZV9jYW5kaWRhdGVzKHRhcmdldCwgb3RoZXJzLCB0aHJlc2hvbGQsIG1heF9jYW5kaWRhdGVzKQogICAgaWYgbm90IGNhbmRpZGF0ZXM6CiAgICAgICAgcHJpbnQoZiJObyBsaWtlbHkgZHVwbGljYXRlcyBmb3IgaXNzdWUgI3tudW1iZXJ9LiIpCiAgICAgICAgcmV0dXJuCgogICAgaWYgX2FscmVhZHlfZmxhZ2dlZChyZXBvLCB0b2tlbiwgbnVtYmVyKToKICAgICAgICBwcmludChmIklzc3VlICN7bnVtYmVyfSBhbHJlYWR5IGZsYWdnZWQ7IG5vdCByZS1jb21tZW50aW5nLiIpCiAgICAgICAgcmV0dXJuCgogICAgX2Fubm90YXRlKHJlcG8sIHRva2VuLCBudW1iZXIsIGNhbmRpZGF0ZXMpCiAgICBsaXN0ZWQgPSAiLCAiLmpvaW4oZiIje2lbJ251bWJlciddfSh7aW50KHJvdW5kKHMgKiAxMDApKX0lKSIgZm9yIGksIHMgaW4gY2FuZGlkYXRlcykKICAgIHByaW50KGYiRmxhZ2dlZCBpc3N1ZSAje251bWJlcn0gYXMgcG9zc2libGUgZHVwbGljYXRlIG9mOiB7bGlzdGVkfSIpCgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICB0b2tlbiA9IG9zLmVudmlyb24uZ2V0KCJHSVRIVUJfVE9LRU4iLCAiIikKICAgIHJlcG8gPSBvcy5lbnZpcm9uLmdldCgiR0lUSFVCX1JFUE9TSVRPUlkiLCAiIikKICAgIG51bWJlcl9yYXcgPSBvcy5lbnZpcm9uLmdldCgiSVNTVUVfTlVNQkVSIiwgIiIpCiAgICBpZiBub3QgKHRva2VuIGFuZCByZXBvIGFuZCBudW1iZXJfcmF3KToKICAgICAgICBwcmludCgiTWlzc2luZyBHSVRIVUJfVE9LRU4gLyBHSVRIVUJfUkVQT1NJVE9SWSAvIElTU1VFX05VTUJFUjsgc2tpcHBpbmcuIikKICAgICAgICByZXR1cm4gMAoKICAgIHRyeToKICAgICAgICB0aHJlc2hvbGQgPSBmbG9hdChvcy5lbnZpcm9uLmdldCgiRFVQX1RIUkVTSE9MRCIsIERFRkFVTFRfVEhSRVNIT0xEKSkKICAgICAgICBtYXhfY2FuZGlkYXRlcyA9IGludChvcy5lbnZpcm9uLmdldCgiRFVQX01BWF9DQU5ESURBVEVTIiwgREVGQVVMVF9NQVhfQ0FORElEQVRFUykpCiAgICAgICAgbG9va2JhY2sgPSBpbnQob3MuZW52aXJvbi5nZXQoIkRVUF9MT09LQkFDSyIsIERFRkFVTFRfTE9PS0JBQ0spKQogICAgICAgIG51bWJlciA9IGludChudW1iZXJfcmF3KQogICAgZXhjZXB0IFZhbHVlRXJyb3IgYXMgZXhjOgogICAgICAgIHByaW50KGYiSW52YWxpZCBudW1lcmljIHNldHRpbmc6IHtleGN9OyBza2lwcGluZy4iKQogICAgICAgIHJldHVybiAwCgogICAgIyBUaGUgZ3VhcmRyYWlsIGlzIGFkdmlzb3J5OiBhIEdpdEh1YiBBUEkgLyBuZXR3b3JrIGZhaWx1cmUgbXVzdCBuZXZlciBmYWlsCiAgICAjIHRoZSB3b3JrZmxvdyBydW4uIFVSTEVycm9yIGNvdmVycyBIVFRQRXJyb3I7IFRpbWVvdXRFcnJvciBjb3ZlcnMgcmVhZAogICAgIyB0aW1lb3V0cyB0aGF0IHVybGxpYiByYWlzZXMgb3V0c2lkZSBVUkxFcnJvci4KICAgIHRyeToKICAgICAgICBfcnVuKHJlcG8sIHRva2VuLCBudW1iZXIsIHRocmVzaG9sZCwgbWF4X2NhbmRpZGF0ZXMsIGxvb2tiYWNrKQogICAgZXhjZXB0ICh1cmxsaWIuZXJyb3IuVVJMRXJyb3IsIFRpbWVvdXRFcnJvcikgYXMgZXhjOgogICAgICAgIHByaW50KGYiR2l0SHViIEFQSSByZXF1ZXN0IGZhaWxlZCBmb3IgaXNzdWUgI3tudW1iZXJ9OiB7ZXhjfSIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+"""Automated duplicate-issue guardrail (resolves #230).
+
+On issue ``opened``/``edited`` this script compares the triggering issue against
+recent open **and** closed issues. When it finds highly similar issues it:
+
+  * adds the ``possible-duplicate`` label (creating it if missing), and
+  * posts a single, non-destructive comment listing the candidate duplicates.
+
+The final decision stays with a human — nothing is ever auto-closed. The text
+similarity is computed with the standard library only (``difflib`` +
+token-set overlap), so there is no external database, service, or orchestrator.
+
+The pure functions (``normalize_text``, ``tokenize``, ``similarity_score``,
+``find_duplicate_candidates``) are import-safe and unit-tested; the GitHub API
+calls only run under ``main()``.
+"""
+
+from __future__ import annotations
+
+import json
+import os
+import re
+import sys
+import urllib.error
+import urllib.request
+from difflib import SequenceMatcher
+from typing import Any
+
+# Tunables (overridable via workflow env).
+DEFAULT_THRESHOLD = 0.55
+DEFAULT_MAX_CANDIDATES = 5
+DEFAULT_LOOKBACK = 200  # most recent issues to compare against
+
+# Marker kept in the bot comment so repeated "edited" events stay idempotent.
+COMMENT_MARKER = "<!-- possible-duplicate-guardrail -->"
+DUPLICATE_LABEL = "possible-duplicate"
+
+_STOPWORDS = frozenset(
+    """
+    a an the and or but if then else for to of in on at by with without from into
+    is are was were be been being this that these those it its as we you they i
+    add adds added make makes making fix fixes fixed feature bug issue please
+    should would could when where which what how why not no yes can will
+    """.split()
+)
+
+_URL_RE = re.compile(r"https?://\S+")
+_CODEBLOCK_RE = re.compile(r"```.*?```", re.DOTALL)
+_NONWORD_RE = re.compile(r"[^a-z0-9\s]+")
+_WS_RE = re.compile(r"\s+")
+
+
+def normalize_text(text: str | None) -> str:
+    """Lowercase and strip URLs, code blocks, markdown, and punctuation."""
+    if not text:
+        return ""
+    text = text.lower()
+    text = _CODEBLOCK_RE.sub(" ", text)
+    text = _URL_RE.sub(" ", text)
+    text = _NONWORD_RE.sub(" ", text)
+    return _WS_RE.sub(" ", text).strip()
+
+
+def tokenize(text: str | None) -> frozenset:
+    """Return a set of meaningful tokens (length >= 3, minus stopwords)."""
+    normalized = normalize_text(text)
+    return frozenset(
+        tok for tok in normalized.split() if len(tok) >= 3 and tok not in _STOPWORDS
+    )
+
+
+def _jaccard(a: frozenset, b: frozenset) -> float:
+    if not a or not b:
+        return 0.0
+    return len(a & b) / len(a | b)
+
+
+def similarity_score(
+    title_a: str, body_a: str, title_b: str, body_b: str
+) -> float:
+    """Combined title + body similarity in ``[0, 1]``.
+
+    Title similarity (sequence ratio on normalized titles) is weighted most,
+    since near-duplicate issues almost always share a title. Body similarity
+    uses token-set overlap so wording/order differences don't hide a match.
+    """
+    nt_a, nt_b = normalize_text(title_a), normalize_text(title_b)
+    title_ratio = SequenceMatcher(None, nt_a, nt_b).ratio() if nt_a and nt_b else 0.0
+    title_tokens = _jaccard(tokenize(title_a), tokenize(title_b))
+    body_tokens = _jaccard(
+        tokenize(f"{title_a} {body_a}"), tokenize(f"{title_b} {body_b}")
+    )
+    return round(0.5 * title_ratio + 0.2 * title_tokens + 0.3 * body_tokens, 4)
+
+
+def find_duplicate_candidates(
+    target: dict[str, Any],
+    others: list[dict[str, Any]],
+    threshold: float = DEFAULT_THRESHOLD,
+    max_candidates: int = DEFAULT_MAX_CANDIDATES,
+) -> list[tuple[dict[str, Any], float]]:
+    """Return ``[(issue, score), ...]`` above ``threshold``, best first.
+
+    ``target``/``others`` are dicts with ``number``, ``title``, ``body`` keys.
+    The target itself (matching ``number``) is always excluded.
+    """
+    target_title = target.get("title", "") or ""
+    target_body = target.get("body", "") or ""
+    target_number = target.get("number")
+
+    scored: list[tuple[dict[str, Any], float]] = []
+    for other in others:
+        if other.get("number") == target_number:
+            continue
+        score = similarity_score(
+            target_title, target_body, other.get("title", "") or "", other.get("body", "") or ""
+        )
+        if score >= threshold:
+            scored.append((other, score))
+
+    scored.sort(key=lambda pair: pair[1], reverse=True)
+    return scored[:max_candidates]
+
+
+_MAX_TITLE_CHARS = 200
+_CONTROL_WS_RE = re.compile(r"\s+")
+
+
+def format_title(title: str | None) -> str:
+    """Render an issue title inertly for the bot comment.
+
+    Titles are attacker-controlled. Wrapping them in a code span stops markdown,
+    links, and ``@mention`` / ``#ref`` notifications from being interpreted.
+    Backticks are stripped so the title cannot close the span early, and
+    newlines are collapsed so it cannot start a new markdown block.
+    """
+    cleaned = _CONTROL_WS_RE.sub(" ", (title or "").replace("`", "")).strip()
+    if len(cleaned) > _MAX_TITLE_CHARS:
+        cleaned = cleaned[: _MAX_TITLE_CHARS - 1].rstrip() + "…"
+    return f"`{cleaned}`" if cleaned else "_(untitled)_"
+
+
+def build_comment(candidates: list[tuple[dict[str, Any], float]]) -> str:
+    """Render the maintainer-friendly comment body."""
+    lines = [
+        COMMENT_MARKER,
+        "🔁 **Possible duplicate detected**",
+        "",
+        "This issue looks similar to the following existing issue(s). "
+        + "A maintainer will confirm — this is only a heads-up, nothing is closed automatically:",
+        "",
+    ]
+    for issue, score in candidates:
+        state = "closed" if issue.get("state") == "closed" else "open"
+        lines.append(
+            f"- #{int(issue['number'])} — {format_title(issue.get('title'))} "
+            f"_(similarity {int(round(score * 100))}%, {state})_"
+        )
+    lines += [
+        "",
+        "If this is **not** a duplicate, please remove the "
+        + f"`{DUPLICATE_LABEL}` label or leave a comment explaining the difference.",
+    ]
+    return "\n".join(lines)
+
+
+# --------------------------------------------------------------------------- #
+# GitHub API glue (only exercised in the workflow; tests stub ``_request``)
+# --------------------------------------------------------------------------- #
+_API_ROOT = "https://api.github.com"
+_PER_PAGE = 100
+_MAX_ISSUE_PAGES = 5
+_MAX_COMMENT_PAGES = 10
+
+
+def _request(method: str, url: str, token: str, payload: dict | None = None) -> Any:
+    data = json.dumps(payload).encode() if payload is not None else None
+    req = urllib.request.Request(url, data=data, method=method)
+    req.add_header("Authorization", f"Bearer {token}")
+    req.add_header("Accept", "application/vnd.github+json")
+    req.add_header("X-GitHub-Api-Version", "2022-11-28")
+    req.add_header("User-Agent", "duplicate-issue-guardrail")
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        body = resp.read()
+    return json.loads(body) if body else None
+
+
+def _fetch_recent_issues(repo: str, token: str, lookback: int) -> list[dict[str, Any]]:
+    issues: list[dict[str, Any]] = []
+    page = 1
+    while len(issues) < lookback and page <= _MAX_ISSUE_PAGES:
+        url = (
+            f"{_API_ROOT}/repos/{repo}/issues"
+            f"?state=all&per_page={_PER_PAGE}&page={page}&sort=created&direction=desc"
+        )
+        batch = _request("GET", url, token) or []
+        if not batch:
+            break
+        # Skip pull requests (the issues endpoint returns both).
+        issues.extend(i for i in batch if "pull_request" not in i)
+        page += 1
+    return issues[:lookback]
+
+
+def _ensure_label(repo: str, token: str) -> None:
+    """Create the possible-duplicate label if it does not already exist."""
+    try:
+        _request("GET", f"{_API_ROOT}/repos/{repo}/labels/{DUPLICATE_LABEL}", token)
+        return  # already exists
+    except urllib.error.HTTPError as exc:
+        if exc.code != 404:
+            raise
+    payload = {
+        "name": DUPLICATE_LABEL,
+        "color": "cfd3d7",
+        "description": "This issue may be a duplicate — needs confirmation",
+    }
+    try:
+        _request("POST", f"{_API_ROOT}/repos/{repo}/labels", token, payload)
+    except urllib.error.HTTPError as exc:
+        if exc.code != 422:  # already exists (race)
+            raise
+
+
+def _already_flagged(repo: str, token: str, number: int) -> bool:
+    """True if any comment on the issue (across all pages) carries the marker."""
+    for page in range(1, _MAX_COMMENT_PAGES + 1):
+        url = f"{_API_ROOT}/repos/{repo}/issues/{number}/comments?per_page={_PER_PAGE}&page={page}"
+        comments = _request("GET", url, token) or []
+        if any(COMMENT_MARKER in (c.get("body") or "") for c in comments):
+            return True
+        if len(comments) < _PER_PAGE:
+            return False
+    # Very long thread: err on the side of not re-commenting.
+    return True
+
+
+def _annotate(repo: str, token: str, number: int, candidates: list[tuple[dict[str, Any], float]]) -> None:
+    _ensure_label(repo, token)
+    _request(
+        "POST",
+        f"{_API_ROOT}/repos/{repo}/issues/{number}/labels",
+        token,
+        {"labels": [DUPLICATE_LABEL]},
+    )
+    _request(
+        "POST",
+        f"{_API_ROOT}/repos/{repo}/issues/{number}/comments",
+        token,
+        {"body": build_comment(candidates)},
+    )
+
+
+def _run(repo: str, token: str, number: int, threshold: float, max_candidates: int, lookback: int) -> None:
+    target = _request("GET", f"{_API_ROOT}/repos/{repo}/issues/{number}", token)
+    if not target or "pull_request" in target:
+        print("Trigger is not an issue; skipping.")
+        return
+
+    others = _fetch_recent_issues(repo, token, lookback)
+    candidates = find_duplicate_candidates(target, others, threshold, max_candidates)
+    if not candidates:
+        print(f"No likely duplicates for issue #{number}.")
+        return
+
+    if _already_flagged(repo, token, number):
+        print(f"Issue #{number} already flagged; not re-commenting.")
+        return
+
+    _annotate(repo, token, number, candidates)
+    listed = ", ".join(f"#{i['number']}({int(round(s * 100))}%)" for i, s in candidates)
+    print(f"Flagged issue #{number} as possible duplicate of: {listed}")
+
+
+def main() -> int:
+    token = os.environ.get("GITHUB_TOKEN", "")
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    number_raw = os.environ.get("ISSUE_NUMBER", "")
+    if not (token and repo and number_raw):
+        print("Missing GITHUB_TOKEN / GITHUB_REPOSITORY / ISSUE_NUMBER; skipping.")
+        return 0
+
+    try:
+        threshold = float(os.environ.get("DUP_THRESHOLD", DEFAULT_THRESHOLD))
+        max_candidates = int(os.environ.get("DUP_MAX_CANDIDATES", DEFAULT_MAX_CANDIDATES))
+        lookback = int(os.environ.get("DUP_LOOKBACK", DEFAULT_LOOKBACK))
+        number = int(number_raw)
+    except ValueError as exc:
+        print(f"Invalid numeric setting: {exc}; skipping.")
+        return 0
+
+    # The guardrail is advisory: a GitHub API / network failure must never fail
+    # the workflow run. URLError covers HTTPError; TimeoutError covers read
+    # timeouts that urllib raises outside URLError.
+    try:
+        _run(repo, token, number, threshold, max_candidates, lookback)
+    except (urllib.error.URLError, TimeoutError) as exc:
+        print(f"GitHub API request failed for issue #{number}: {exc}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

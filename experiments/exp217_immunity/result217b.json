@@ -1,1 +1,126 @@
-ewogInNjYW5fcyI6IFsKICB7CiAgICJzIjogMC4wNSwKICAgInRocmVhdF9maW5hbCI6IDEuMCwKICAgIkhfZmluYWwiOiAwLjAsCiAgICJtaXNfcGVyX2dlbiI6IDAuMAogIH0sCiAgewogICAicyI6IDAuMSwKICAgInRocmVhdF9maW5hbCI6IDEuMCwKICAgIkhfZmluYWwiOiAwLjAsCiAgICJtaXNfcGVyX2dlbiI6IDAuMAogIH0sCiAgewogICAicyI6IDAuMiwKICAgInRocmVhdF9maW5hbCI6IDAuMDc4LAogICAiSF9maW5hbCI6IDAuOTIyLAogICAibWlzX3Blcl9nZW4iOiAwLjAKICB9LAogIHsKICAgInMiOiAwLjMsCiAgICJ0aHJlYXRfZmluYWwiOiAwLjAzNCwKICAgIkhfZmluYWwiOiAwLjk2NiwKICAgIm1pc19wZXJfZ2VuIjogMC4wCiAgfSwKICB7CiAgICJzIjogMC41LAogICAidGhyZWF0X2ZpbmFsIjogMC4wMDksCiAgICJIX2ZpbmFsIjogMC45OTEsCiAgICJtaXNfcGVyX2dlbiI6IDAuMAogIH0sCiAgewogICAicyI6IDAuNywKICAgInRocmVhdF9maW5hbCI6IDAuMDA2LAogICAiSF9maW5hbCI6IDAuOTk0LAogICAibWlzX3Blcl9nZW4iOiAwLjAKICB9LAogIHsKICAgInMiOiAwLjksCiAgICJ0aHJlYXRfZmluYWwiOiAwLjAwMiwKICAgIkhfZmluYWwiOiAwLjk5OCwKICAgIm1pc19wZXJfZ2VuIjogMC4wCiAgfSwKICB7CiAgICJzIjogMS4wLAogICAidGhyZWF0X2ZpbmFsIjogMC4wLAogICAiSF9maW5hbCI6IDEuMCwKICAgIm1pc19wZXJfZ2VuIjogMC4wCiAgfQogXSwKICJBX2V4dGVybmFsIjogWwogIHsKICAgInN0cmF0ZWd5IjogIm5vbmUiLAogICAidGhyZWF0X2ZpbmFsIjogMS4wLAogICAiSF9maW5hbCI6IDAuMCwKICAgIm1pc19wZXJfZ2VuIjogMC4wLAogICAiY2xlYXJlZCI6ICIwLzUiCiAgfSwKICB7CiAgICJzdHJhdGVneSI6ICJtYXJrZXIiLAogICAidGhyZWF0X2ZpbmFsIjogMC4wLAogICAiSF9maW5hbCI6IDEuMCwKICAgIm1pc19wZXJfZ2VuIjogMC4wLAogICAiY2xlYXJlZCI6ICI1LzUiCiAgfSwKICB7CiAgICJzdHJhdGVneSI6ICJzZWxmcmVwb3J0IiwKICAgInRocmVhdF9maW5hbCI6IDEuMCwKICAgIkhfZmluYWwiOiAwLjAsCiAgICJtaXNfcGVyX2dlbiI6IDAuMCwKICAgImNsZWFyZWQiOiAiMC81IgogIH0sCiAgewogICAic3RyYXRlZ3kiOiAid2l0bmVzcyIsCiAgICJ0aHJlYXRfZmluYWwiOiAwLjA0NSwKICAgIkhfZmluYWwiOiAwLjk1NSwKICAgIm1pc19wZXJfZ2VuIjogMC4wLAogICAiY2xlYXJlZCI6ICI1LzUiCiAgfSwKICB7CiAgICJzdHJhdGVneSI6ICJjb21ibyIsCiAgICJ0aHJlYXRfZmluYWwiOiAwLjAsCiAgICJIX2ZpbmFsIjogMS4wLAogICAibWlzX3Blcl9nZW4iOiAwLjAsCiAgICJjbGVhcmVkIjogIjUvNSIKICB9CiBdLAogIkJfaW50ZXJuYWwiOiBbCiAgewogICAic3RyYXRlZ3kiOiAibm9uZSIsCiAgICJ0aHJlYXRfZmluYWwiOiAxLjAsCiAgICJIX2ZpbmFsIjogMC4wLAogICAibWlzX3Blcl9nZW4iOiAwLjAsCiAgICJjbGVhcmVkIjogIjAvNSIKICB9LAogIHsKICAgInN0cmF0ZWd5IjogIm1hcmtlciIsCiAgICJ0aHJlYXRfZmluYWwiOiAxLjAsCiAgICJIX2ZpbmFsIjogMC4wLAogICAibWlzX3Blcl9nZW4iOiAwLjAsCiAgICJjbGVhcmVkIjogIjAvNSIKICB9LAogIHsKICAgInN0cmF0ZWd5IjogInNlbGZyZXBvcnQiLAogICAidGhyZWF0X2ZpbmFsIjogMS4wLAogICAiSF9maW5hbCI6IDAuMCwKICAgIm1pc19wZXJfZ2VuIjogMC4wLAogICAiY2xlYXJlZCI6ICIwLzUiCiAgfSwKICB7CiAgICJzdHJhdGVneSI6ICJ3aXRuZXNzIiwKICAgInRocmVhdF9maW5hbCI6IDAuMDM0LAogICAiSF9maW5hbCI6IDAuOTY2LAogICAibWlzX3Blcl9nZW4iOiAwLjAsCiAgICJjbGVhcmVkIjogIjUvNSIKICB9LAogIHsKICAgInN0cmF0ZWd5IjogImNvbWJvIiwKICAgInRocmVhdF9maW5hbCI6IDAuMDM0LAogICAiSF9maW5hbCI6IDAuOTY2LAogICAibWlzX3Blcl9nZW4iOiAwLjAsCiAgICJjbGVhcmVkIjogIjUvNSIKICB9CiBdCn0=
+{
+ "scan_s": [
+  {
+   "s": 0.05,
+   "threat_final": 1.0,
+   "H_final": 0.0,
+   "mis_per_gen": 0.0
+  },
+  {
+   "s": 0.1,
+   "threat_final": 1.0,
+   "H_final": 0.0,
+   "mis_per_gen": 0.0
+  },
+  {
+   "s": 0.2,
+   "threat_final": 0.078,
+   "H_final": 0.922,
+   "mis_per_gen": 0.0
+  },
+  {
+   "s": 0.3,
+   "threat_final": 0.034,
+   "H_final": 0.966,
+   "mis_per_gen": 0.0
+  },
+  {
+   "s": 0.5,
+   "threat_final": 0.009,
+   "H_final": 0.991,
+   "mis_per_gen": 0.0
+  },
+  {
+   "s": 0.7,
+   "threat_final": 0.006,
+   "H_final": 0.994,
+   "mis_per_gen": 0.0
+  },
+  {
+   "s": 0.9,
+   "threat_final": 0.002,
+   "H_final": 0.998,
+   "mis_per_gen": 0.0
+  },
+  {
+   "s": 1.0,
+   "threat_final": 0.0,
+   "H_final": 1.0,
+   "mis_per_gen": 0.0
+  }
+ ],
+ "A_external": [
+  {
+   "strategy": "none",
+   "threat_final": 1.0,
+   "H_final": 0.0,
+   "mis_per_gen": 0.0,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "marker",
+   "threat_final": 0.0,
+   "H_final": 1.0,
+   "mis_per_gen": 0.0,
+   "cleared": "5/5"
+  },
+  {
+   "strategy": "selfreport",
+   "threat_final": 1.0,
+   "H_final": 0.0,
+   "mis_per_gen": 0.0,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "witness",
+   "threat_final": 0.045,
+   "H_final": 0.955,
+   "mis_per_gen": 0.0,
+   "cleared": "5/5"
+  },
+  {
+   "strategy": "combo",
+   "threat_final": 0.0,
+   "H_final": 1.0,
+   "mis_per_gen": 0.0,
+   "cleared": "5/5"
+  }
+ ],
+ "B_internal": [
+  {
+   "strategy": "none",
+   "threat_final": 1.0,
+   "H_final": 0.0,
+   "mis_per_gen": 0.0,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "marker",
+   "threat_final": 1.0,
+   "H_final": 0.0,
+   "mis_per_gen": 0.0,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "selfreport",
+   "threat_final": 1.0,
+   "H_final": 0.0,
+   "mis_per_gen": 0.0,
+   "cleared": "0/5"
+  },
+  {
+   "strategy": "witness",
+   "threat_final": 0.034,
+   "H_final": 0.966,
+   "mis_per_gen": 0.0,
+   "cleared": "5/5"
+  },
+  {
+   "strategy": "combo",
+   "threat_final": 0.034,
+   "H_final": 0.966,
+   "mis_per_gen": 0.0,
+   "cleared": "5/5"
+  }
+ ]
+}

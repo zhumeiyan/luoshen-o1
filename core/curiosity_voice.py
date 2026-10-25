@@ -1,1 +1,106 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK6Ieq5Li75YW06Laj6amx5Yqo55qE6K+t6Z+z5a2m5LmgIOKYhTM5Cj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K4piFIOaguOW/g++8muS4jeabv+Wug+mAieOAguaKiuS4gOWghuWAmemAieaRhuWcqOmCo++8jOWug+iHquW3seaMke+8jOiHquW3seWtpu+8jOiHquW3seaNouOAggoK5YW06LajID0g5YCSVeabsue6v++8iFd1bmR0IC8gQmVybHluZe+8ie+8mgogICAgbm92ZWx0eSDlpKrlsI8g4oaSIOW3sue7j+S8muS6hu+8jOaXoOiBiu+8iGludGVyZXN04oaSMO+8iQogICAgbm92ZWx0eSDlpKrlpKcg4oaSIOWujOWFqOWQrOS4jeaHgu+8jOeEpuiZke+8iGludGVyZXN04oaSMO+8iQogICAg5Lit6Ze0ICAgICAgICAg4oaSIOacgOWlveWlh++8iGludGVyZXN0IOWzsOWAvO+8iQoK4piFIOi/meagtyLlrabku4DkuYgi5bCx5LuO5a6D6Ieq5bex55qE54q25oCB6YeM5raM546w5Ye65p2l77yM5LiN5piv5aSW6YOo5aGe55qE44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCmltcG9ydCBjb3B5CmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QsIExpc3QsIFR1cGxlLCBPcHRpb25hbAppbXBvcnQgbnVtcHkgYXMgbnAKCmZyb20gY29yZS5zcGVlY2hfc2VsZmxlYXJuIGltcG9ydCAoCiAgICBTdHlsZUhpZGRlbiwgYnVpbGRfY29ycHVzLCBjb3JwdXNfcHJvZmlsZSwgU3BlYWtlclBhcmFtcywKICAgIGxlYXJuX2Zyb21fY29ycHVzLCBTUiwKKQoKCmRlZiBub3ZlbHR5KHNlbGZfdmVjOiBucC5uZGFycmF5LCB0YXJnZXRfdmVjOiBucC5uZGFycmF5KSAtPiBmbG9hdDoKICAgICIiIuW9kuS4gOWMlui3neemuyDihpIgWzAsMV3jgILnlKggdGFuaCDljovliLDmnInnlYzvvIzpgb/lhY3ov5znm67moIflsLrluqblpLHmjqfjgIIiIiIKICAgIGQgPSBmbG9hdChucC5saW5hbGcubm9ybShucC5hc2FycmF5KHRhcmdldF92ZWMpIC0gbnAuYXNhcnJheShzZWxmX3ZlYykpKQogICAgcmV0dXJuIGZsb2F0KG5wLnRhbmgoZCkpCgoKZGVmIGludGVyZXN0KG5vdjogZmxvYXQsIHNpZ21hOiBmbG9hdCA9IDAuNDIpIC0+IGZsb2F0OgogICAgIiIi4piFIOWAklXvvJppbnRlcmVzdCA9IG4gKiBleHAoMSAtIG4vc2lnbWEpIOW9kuS4gOWMlu+8jOWzsOWcqCBuPXNpZ21h44CCIiIiCiAgICBuID0gZmxvYXQobnAuY2xpcChub3YsIDAuMCwgMS4wKSkKICAgIHYgPSBuICogbnAuZXhwKDEuMCAtIG4gLyBzaWdtYSkKICAgIHBlYWsgPSBzaWdtYSAqIG5wLmV4cCgxLjAgLSAxLjApICAgICAgICAgICMgbj1zaWdtYSDml7bnmoTlgLwKICAgIHJldHVybiBmbG9hdChucC5jbGlwKHYgLyAocGVhayBpZiBwZWFrID4gMWUtOSBlbHNlIDEuMCksIDAuMCwgMS4wKSkKCgpAZGF0YWNsYXNzCmNsYXNzIEF1dG9ub21vdXNMZWFybmVyOgogICAgIiIi4piFIOWug+iHquW3seaMkeOAgeiHquW3seWtpuOAgeiHquW3seaNouOAgiIiIgogICAgc3A6IFNwZWFrZXJQYXJhbXMKICAgIHBvb2w6IERpY3Rbc3RyLCBTdHlsZUhpZGRlbl0KICAgIG5fdXR0OiBpbnQgPSAyMAogICAgbl9pdGVyOiBpbnQgPSA1CiAgICBscl9ncmlkOiBUdXBsZVtmbG9hdCwgLi4uXSA9ICgwLjA4LCAwLjIwLCAwLjMwKQogICAgc2lnbWE6IGZsb2F0ID0gMC40MgogICAgdHJhY2U6IExpc3RbRGljdF0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKCiAgICAjIC0tLS0tLS0tLS0g6Ieq6Lqr5qGj5qGIIC0tLS0tLS0tLS0KICAgIGRlZiBzZWxmX3Byb2ZpbGUoc2VsZiwgc2VlZDogaW50ID0gMCkgLT4gbnAubmRhcnJheToKICAgICAgICByZXR1cm4gY29ycHVzX3Byb2ZpbGUoYnVpbGRfY29ycHVzKHNlbGYuc3AudG9fc3R5bGUoKSwgc2VsZi5uX3V0dCwgc2VlZCkpCgogICAgZGVmIHBvb2xfcHJvZmlsZShzZWxmKSAtPiBEaWN0W3N0ciwgbnAubmRhcnJheV06CiAgICAgICAgcmV0dXJuIHtuOiBjb3JwdXNfcHJvZmlsZShidWlsZF9jb3JwdXMocywgc2VsZi5uX3V0dCwgc2VlZD0xMDEpKQogICAgICAgICAgICAgICAgZm9yIG4sIHMgaW4gc2VsZi5wb29sLml0ZW1zKCl9CgogICAgIyAtLS0tLS0tLS0tIOaJq+S4gOmBje+8muWvueavj+S4quWAmemAieS6p+eUn+WkmuWkp+WFtOi2oyAtLS0tLS0tLS0tCiAgICBkZWYgc2NhbihzZWxmLCBzZWVkOiBpbnQgPSAwKSAtPiBMaXN0W1R1cGxlW3N0ciwgZmxvYXQsIGZsb2F0XV06CiAgICAgICAgbWUgPSBzZWxmLnNlbGZfcHJvZmlsZShzZWVkKQogICAgICAgIG91dCA9IFtdCiAgICAgICAgZm9yIG4sIHYgaW4gc2VsZi5wb29sX3Byb2ZpbGUoKS5pdGVtcygpOgogICAgICAgICAgICBudiA9IG5vdmVsdHkobWUsIHYpCiAgICAgICAgICAgIG91dC5hcHBlbmQoKG4sIG52LCBpbnRlcmVzdChudiwgc2VsZi5zaWdtYSkpKQogICAgICAgIG91dC5zb3J0KGtleT1sYW1iZGEgeDogLXhbMl0pICAgICAgICAgICMg4piFIOaMieWug+iHquW3seeahOWFtOi2o+aOkuW6jwogICAgICAgIHJldHVybiBvdXQKCiAgICAjIC0tLS0tLS0tLS0g6Ieq5bex6YCJ44CB6Ieq5bex5a2mIC0tLS0tLS0tLS0KICAgIGRlZiBzdGVwKHNlbGYsIHNlZWQ6IGludCA9IDAsIGZvcmNlZDogT3B0aW9uYWxbc3RyXSA9IE5vbmUpIC0+IERpY3Q6CiAgICAgICAgcmFua2VkID0gc2VsZi5zY2FuKHNlZWQpCiAgICAgICAgbmFtZSA9IGZvcmNlZCBpZiBmb3JjZWQgZWxzZSByYW5rZWRbMF1bMF0gICAgICAjIOKYhSDkuI3lubLpooTml7blj5bnrKzkuIAKICAgICAgICBub3YgPSBkaWN0KChuLCB2KSBmb3IgbiwgdiwgXyBpbiByYW5rZWQpW25hbWVdCiAgICAgICAgaXRyID0gZGljdCgobiwgaSkgZm9yIG4sIF8sIGkgaW4gcmFua2VkKVtuYW1lXQogICAgICAgIHRndCA9IHNlbGYucG9vbF9wcm9maWxlKClbbmFtZV0KICAgICAgICBiZWZvcmUgPSBmbG9hdChucC5saW5hbGcubm9ybShzZWxmLnNlbGZfcHJvZmlsZShzZWVkKSAtIHRndCkpCgogICAgICAgICMg4piFIOe6v+aQnOe0ou+8muWug+iHquW3seaMkeatpemVv++8iOKYhTM4IOWtpuWIsOeahO+8muWbuuWumiBsciDkvJrlj5HmlaPvvIkKICAgICAgICBiZXN0X2xyLCBiZXN0X3YgPSBOb25lLCBmbG9hdCgiaW5mIikKICAgICAgICBmb3IgbHIgaW4gc2VsZi5scl9ncmlkOgogICAgICAgICAgICBjYW5kID0gY29weS5kZWVwY29weShzZWxmLnNwKQogICAgICAgICAgICBsZWFybl9mcm9tX2NvcnB1cyhjYW5kLCB0Z3QsIG5faXRlcj1zZWxmLm5faXRlciwgbHI9bHIsIHNlZWQ9c2VlZCkKICAgICAgICAgICAgdiA9IGZsb2F0KG5wLmxpbmFsZy5ub3JtKAogICAgICAgICAgICAgICAgY29ycHVzX3Byb2ZpbGUoYnVpbGRfY29ycHVzKGNhbmQudG9fc3R5bGUoKSwgc2VsZi5uX3V0dCwgc2VlZCkpIC0gdGd0KSkKICAgICAgICAgICAgaWYgdiA8IGJlc3RfdjoKICAgICAgICAgICAgICAgIGJlc3RfdiwgYmVzdF9sciA9IHYsIGxyCiAgICAgICAgY2FuZCA9IGNvcHkuZGVlcGNvcHkoc2VsZi5zcCkKICAgICAgICBsZWFybl9mcm9tX2NvcnB1cyhjYW5kLCB0Z3QsIG5faXRlcj1zZWxmLm5faXRlciwgbHI9YmVzdF9sciwgc2VlZD1zZWVkKQogICAgICAgIGZvciBmIGluIFsicGF1c2VfcHJvYiIsICJwYXVzZV9tZWFuIiwgInBhdXNlX3NpZ21hIiwgImYwX2Jhc2UiLAogICAgICAgICAgICAgICAgICAiZjBfc3BhbiIsICJmMF9lbmQiLCAiaml0dGVyIiwgInJlcGFpcl9wcm9iIiwgImJyZWF0aF9wcm9iIl06CiAgICAgICAgICAgIHNldGF0dHIoc2VsZi5zcCwgZiwgZ2V0YXR0cihjYW5kLCBmKSkKCiAgICAgICAgYWZ0ZXIgPSBmbG9hdChucC5saW5hbGcubm9ybShzZWxmLnNlbGZfcHJvZmlsZShzZWVkKSAtIHRndCkpCiAgICAgICAgcmVjID0geyJyb3VuZCI6IGxlbihzZWxmLnRyYWNlKSArIDEsICJjaG9zZW4iOiBuYW1lLCAibm92ZWx0eSI6IG5vdiwKICAgICAgICAgICAgICAgImludGVyZXN0IjogaXRyLCAiYmVmb3JlIjogYmVmb3JlLCAiYWZ0ZXIiOiBhZnRlciwKICAgICAgICAgICAgICAgImRyb3AiOiAoYmVmb3JlIC0gYWZ0ZXIpIC8gYmVmb3JlIGlmIGJlZm9yZSA+IDFlLTkgZWxzZSAwLjAsCiAgICAgICAgICAgICAgICJsciI6IGJlc3RfbHIsICJyYW5rZWQiOiByYW5rZWRbOjNdLCAiZm9yY2VkIjogZm9yY2VkIGlzIG5vdCBOb25lfQogICAgICAgIHNlbGYudHJhY2UuYXBwZW5kKHJlYykKICAgICAgICByZXR1cm4gcmVjCgogICAgZGVmIHJ1bihzZWxmLCByb3VuZHM6IGludCA9IDgsIHNlZWQ6IGludCA9IDAsIGZvcmNlZF9vcmRlcj1Ob25lKToKICAgICAgICBmb3IgciBpbiByYW5nZShyb3VuZHMpOgogICAgICAgICAgICBmID0gTm9uZSBpZiBmb3JjZWRfb3JkZXIgaXMgTm9uZSBlbHNlIGZvcmNlZF9vcmRlcltyICUgbGVuKGZvcmNlZF9vcmRlcildCiAgICAgICAgICAgIHNlbGYuc3RlcChzZWVkPXNlZWQgKyByLCBmb3JjZWQ9ZikKICAgICAgICByZXR1cm4gc2VsZi50cmFjZQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+自主兴趣驱动的语音学习 ★39
+================================================================
+★ 核心：不替它选。把一堆候选摆在那，它自己挑，自己学，自己换。
+
+兴趣 = 倒U曲线（Wundt / Berlyne）：
+    novelty 太小 → 已经会了，无聊（interest→0）
+    novelty 太大 → 完全听不懂，焦虑（interest→0）
+    中间         → 最好奇（interest 峰值）
+
+★ 这样"学什么"就从它自己的状态里涌现出来，不是外部塞的。
+"""
+from __future__ import annotations
+import copy
+from dataclasses import dataclass, field
+from typing import Dict, List, Tuple, Optional
+import numpy as np
+
+from core.speech_selflearn import (
+    StyleHidden, build_corpus, corpus_profile, SpeakerParams,
+    learn_from_corpus, SR,
+)
+
+
+def novelty(self_vec: np.ndarray, target_vec: np.ndarray) -> float:
+    """归一化距离 → [0,1]。用 tanh 压到有界，避免远目标尺度失控。"""
+    d = float(np.linalg.norm(np.asarray(target_vec) - np.asarray(self_vec)))
+    return float(np.tanh(d))
+
+
+def interest(nov: float, sigma: float = 0.42) -> float:
+    """★ 倒U：interest = n * exp(1 - n/sigma) 归一化，峰在 n=sigma。"""
+    n = float(np.clip(nov, 0.0, 1.0))
+    v = n * np.exp(1.0 - n / sigma)
+    peak = sigma * np.exp(1.0 - 1.0)          # n=sigma 时的值
+    return float(np.clip(v / (peak if peak > 1e-9 else 1.0), 0.0, 1.0))
+
+
+@dataclass
+class AutonomousLearner:
+    """★ 它自己挑、自己学、自己换。"""
+    sp: SpeakerParams
+    pool: Dict[str, StyleHidden]
+    n_utt: int = 20
+    n_iter: int = 5
+    lr_grid: Tuple[float, ...] = (0.08, 0.20, 0.30)
+    sigma: float = 0.42
+    trace: List[Dict] = field(default_factory=list)
+
+    # ---------- 自身档案 ----------
+    def self_profile(self, seed: int = 0) -> np.ndarray:
+        return corpus_profile(build_corpus(self.sp.to_style(), self.n_utt, seed))
+
+    def pool_profile(self) -> Dict[str, np.ndarray]:
+        return {n: corpus_profile(build_corpus(s, self.n_utt, seed=101))
+                for n, s in self.pool.items()}
+
+    # ---------- 扫一遍：对每个候选产生多大兴趣 ----------
+    def scan(self, seed: int = 0) -> List[Tuple[str, float, float]]:
+        me = self.self_profile(seed)
+        out = []
+        for n, v in self.pool_profile().items():
+            nv = novelty(me, v)
+            out.append((n, nv, interest(nv, self.sigma)))
+        out.sort(key=lambda x: -x[2])          # ★ 按它自己的兴趣排序
+        return out
+
+    # ---------- 自己选、自己学 ----------
+    def step(self, seed: int = 0, forced: Optional[str] = None) -> Dict:
+        ranked = self.scan(seed)
+        name = forced if forced else ranked[0][0]      # ★ 不干预时取第一
+        nov = dict((n, v) for n, v, _ in ranked)[name]
+        itr = dict((n, i) for n, _, i in ranked)[name]
+        tgt = self.pool_profile()[name]
+        before = float(np.linalg.norm(self.self_profile(seed) - tgt))
+
+        # ★ 线搜索：它自己挑步长（★38 学到的：固定 lr 会发散）
+        best_lr, best_v = None, float("inf")
+        for lr in self.lr_grid:
+            cand = copy.deepcopy(self.sp)
+            learn_from_corpus(cand, tgt, n_iter=self.n_iter, lr=lr, seed=seed)
+            v = float(np.linalg.norm(
+                corpus_profile(build_corpus(cand.to_style(), self.n_utt, seed)) - tgt))
+            if v < best_v:
+                best_v, best_lr = v, lr
+        cand = copy.deepcopy(self.sp)
+        learn_from_corpus(cand, tgt, n_iter=self.n_iter, lr=best_lr, seed=seed)
+        for f in ["pause_prob", "pause_mean", "pause_sigma", "f0_base",
+                  "f0_span", "f0_end", "jitter", "repair_prob", "breath_prob"]:
+            setattr(self.sp, f, getattr(cand, f))
+
+        after = float(np.linalg.norm(self.self_profile(seed) - tgt))
+        rec = {"round": len(self.trace) + 1, "chosen": name, "novelty": nov,
+               "interest": itr, "before": before, "after": after,
+               "drop": (before - after) / before if before > 1e-9 else 0.0,
+               "lr": best_lr, "ranked": ranked[:3], "forced": forced is not None}
+        self.trace.append(rec)
+        return rec
+
+    def run(self, rounds: int = 8, seed: int = 0, forced_order=None):
+        for r in range(rounds):
+            f = None if forced_order is None else forced_order[r % len(forced_order)]
+            self.step(seed=seed + r, forced=f)
+        return self.trace

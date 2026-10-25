@@ -1,1 +1,153 @@
-IiIi6KeG6aKR55Sf5oiQ5bGC44CCCgror5rlrp7lrprkvY0KLS0tLS0tLS0K6L+Z5pivKirluKfluo/liJcgKyBmZm1wZWcg57yW56CBKirvvIzkuI3mmK/mlofnlJ/op4bpopHmqKHlnovjgILog73nqLPlrprkuqflh7rnmoTmmK/vvJoK5pWw5o2u5Yqo5Zu+44CB5bin5Yqo55S744CB5Zu+54mH6L2s5Zy644CB5bim5a2X5bmV55qE5Zu+6ZuG6KeG6aKR44CC5YGa5LiN5YiwIueUn+aIkOS4gOS4quWcuuaZr+eahOi/nue7reWKqOS9nCLjgIIKCuiAjOS4lOacieS4gOadoeW/hemhu+WcqOS7o+eggemHjOivtOa4heeahO+8mioqZmZtcGVnIOaYr+WklumDqOS+nei1lioq44CC546v5aKD6YeM5rKh5pyJIGZmbXBlZwrml7bvvIzov5nph4zkuI3mmK/pnZnpu5jov5Tlm57lpLHotKXvvIzogIzmmK/mipvlh7ogYE1pc3NpbmdUb29sY2hhaW5g4oCU4oCU5Zug5Li66Z2Z6buY5aSx6LSl5LyaCuiuqeiwg+eUqOaWueS7peS4uiLop4bpopHnlJ/miJDkuobkvYblhoXlrrnnqboi77yM6L+Z5q2j5piv5oiR5Lus6KaB5rK755qE6YKj57G755eF44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgb3MKaW1wb3J0IHNodXRpbAppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgdGVtcGZpbGUKCmZyb20gLmFydGlmYWN0IGltcG9ydCBBcnRpZmFjdCwgS2luZAoKREVGQVVMVF9PVVQgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAib3V0IikKCgpjbGFzcyBNaXNzaW5nVG9vbGNoYWluKFJ1bnRpbWVFcnJvcik6CiAgICAiIiLlpJbpg6jlt6XlhbfnvLrlpLHjgILmmL7lvI/mipvlh7rvvIzkuI3orrjpnZnpu5jpmY3nuqfjgIIiIiIKCgpkZWYgX2ZmbXBlZygpIC0+IHN0cjoKICAgIGV4ZSA9IHNodXRpbC53aGljaCgiZmZtcGVnIikKICAgIGlmIG5vdCBleGU6CiAgICAgICAgcmFpc2UgTWlzc2luZ1Rvb2xjaGFpbigi546v5aKD6YeM5rKh5pyJIGZmbXBlZ++8jOinhumikeWxguS4jeWPr+eUqOOAgui/meaYr+W3peWFt+mTvuS+nei1lu+8jOS4jeaYr+acrOWMheiHquW4puiDveWKm+OAgiIpCiAgICByZXR1cm4gZXhlCgoKZGVmIGZyb21fZnJhbWVzKGZyYW1lczogbGlzdCwgb3V0OiBzdHIgfCBOb25lID0gTm9uZSwgZnBzOiBpbnQgPSAyNCwKICAgICAgICAgICAgICAgIG91dF9kaXI6IHN0ciA9IERFRkFVTFRfT1VUKSAtPiBBcnRpZmFjdDoKICAgICIiIuaKiuS4gOS4siBQSUwg5Zu+77yI5oiW5Zu+54mH6Lev5b6E77yJ57yW56CB5oiQIG1wNOOAggoKICAgIGBmcmFtZXNgIOWPr+S7peaYryBQSUwuSW1hZ2Ug5a+56LGh77yM5Lmf5Y+v5Lul5piv5bey5a2Y5Zyo55qE5Zu+54mH5paH5Lu26Lev5b6E44CCCiAgICAiIiIKICAgIGV4ZSA9IF9mZm1wZWcoKQogICAgb3MubWFrZWRpcnMob3V0X2RpciwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHBhdGggPSBvdXQgb3Igb3MucGF0aC5qb2luKG91dF9kaXIsICJ2aWRlby5tcDQiKQoKICAgIHRtcGRpciA9IHRlbXBmaWxlLm1rZHRlbXAocHJlZml4PSJjYXB2aWRfIikKICAgIHRyeToKICAgICAgICBwYXRocyA9IFtdCiAgICAgICAgZm9yIGksIGZyIGluIGVudW1lcmF0ZShmcmFtZXMpOgogICAgICAgICAgICBwID0gb3MucGF0aC5qb2luKHRtcGRpciwgZiJme2k6MDVkfS5wbmciKQogICAgICAgICAgICBpZiBpc2luc3RhbmNlKGZyLCBzdHIpOgogICAgICAgICAgICAgICAgc2h1dGlsLmNvcHlmaWxlKGZyLCBwKQogICAgICAgICAgICBlbHNlOiAgICAgICAgICAgICAgICAgICAgICAgIyBQSUwuSW1hZ2UKICAgICAgICAgICAgICAgIGZyLnNhdmUocCkKICAgICAgICAgICAgcGF0aHMuYXBwZW5kKHApCiAgICAgICAgaWYgbm90IHBhdGhzOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJmcm9tX2ZyYW1lcyDmlLbliLAgMCDluKcg4oCU4oCUIOepuuinhumikeS4jeaYr+inhumikeOAgiIpCgogICAgICAgICMgbGlieDI2NCDopoHmsYLlrr3pq5jpg73mmK/lgbbmlbDjgII4ODB4NDk1IOi/meenjeWlh+aVsOmrmOS8muebtOaOpee8lueggeWksei0pe+8jAogICAgICAgICMg5omA5Lul57uf5LiA5ZCR5LiL5Y+W5YG25pWwIOKAlOKAlCDlt67kuIDlg4/ntKDkuI3lvbHlk43lhoXlrrnvvIznvJbnoIHlpLHotKXmiY3nnJ/nmoTmmK/kuqTku5jlpLHotKXjgIIKICAgICAgICBjbWQgPSBbZXhlLCAiLXkiLCAiLWxvZ2xldmVsIiwgImVycm9yIiwKICAgICAgICAgICAgICAgIi1mcmFtZXJhdGUiLCBzdHIoZnBzKSwKICAgICAgICAgICAgICAgIi1pIiwgb3MucGF0aC5qb2luKHRtcGRpciwgImYlMDVkLnBuZyIpLAogICAgICAgICAgICAgICAiLXZmIiwgInNjYWxlPXRydW5jKGl3LzIpKjI6dHJ1bmMoaWgvMikqMiIsCiAgICAgICAgICAgICAgICItYzp2IiwgImxpYngyNjQiLCAiLXBpeF9mbXQiLCAieXV2NDIwcCIsCiAgICAgICAgICAgICAgICItbW92ZmxhZ3MiLCAiK2Zhc3RzdGFydCIsIHBhdGhdCiAgICAgICAgciA9IHN1YnByb2Nlc3MucnVuKGNtZCwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlKQogICAgICAgIGlmIHIucmV0dXJuY29kZSAhPSAwOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoZiJmZm1wZWcg57yW56CB5aSx6LSlOiB7ci5zdGRlcnIuc3RyaXAoKVs6NDAwXX0iKQogICAgZmluYWxseToKICAgICAgICBzaHV0aWwucm10cmVlKHRtcGRpciwgaWdub3JlX2Vycm9ycz1UcnVlKQoKICAgIHJldHVybiBBcnRpZmFjdChraW5kPUtpbmQuVklERU8sIHBhdGg9cGF0aCwKICAgICAgICAgICAgICAgICAgICBtZXRhPXsiZnBzIjogZnBzLCAibl9mcmFtZXMiOiBsZW4oZnJhbWVzKX0pCgoKZGVmIGFuaW1hdGUoc3BlYzogZGljdCwgb3V0X2Rpcjogc3RyID0gREVGQVVMVF9PVVQpIC0+IEFydGlmYWN0OgogICAgIiIi55SxIHNwZWMg55u05o6l55Sf5oiQ5LiA5q615pWw5o2u5Yqo5Zu+44CCCgogICAgc3BlYzoge25hbWUsIHRpdGxlLCBzZXJpZXMoeemaj+aXtumXtOWPmOWMliksIGZwcywgc2Vjb25kc30KICAgICIiIgogICAgaW1wb3J0IG1hdHBsb3RsaWIKICAgIG1hdHBsb3RsaWIudXNlKCJBZ2ciKQogICAgaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAogICAgZnJvbSBQSUwgaW1wb3J0IEltYWdlCgogICAgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXSA9IFsiV2VuUXVhbllpIE1pY3JvIEhlaSIsICJEZWphVnUgU2FucyJdCiAgICBwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdID0gRmFsc2UKCiAgICBmcHMgPSBpbnQoc3BlYy5nZXQoImZwcyIsIDI0KSkKICAgIHNlY29uZHMgPSBmbG9hdChzcGVjLmdldCgic2Vjb25kcyIsIDMpKQogICAgbmZyYW1lcyA9IG1heCgyLCBpbnQoZnBzICogc2Vjb25kcykpCiAgICBzZXJpZXMgPSBzcGVjLmdldCgic2VyaWVzIikgb3IgW10KICAgIG91dCA9IG9zLnBhdGguam9pbihvdXRfZGlyLCBmIntzcGVjLmdldCgnbmFtZScsICdhbmltJyl9Lm1wNCIpCgogICAgdG1wZGlyID0gdGVtcGZpbGUubWtkdGVtcChwcmVmaXg9ImNhcGFuaW1fIikKICAgIHRyeToKICAgICAgICBwYXRocyA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobmZyYW1lcyk6CiAgICAgICAgICAgIHQgPSBpIC8gKG5mcmFtZXMgLSAxKQogICAgICAgICAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9KDgsIDQuNSksIGRwaT0xMTApCiAgICAgICAgICAgIGZvciBzIGluIHNlcmllczoKICAgICAgICAgICAgICAgIHkgPSBzWyJ5Il0KICAgICAgICAgICAgICAgIGN1dCA9IG1heCgyLCBpbnQobGVuKHkpICogKDAuMTUgKyAwLjg1ICogdCkpKQogICAgICAgICAgICAgICAgYXgucGxvdChyYW5nZShjdXQpLCB5WzpjdXRdLCBsdz0yLjIsCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsPXMuZ2V0KCJsYWJlbCIsICIiKSwgY29sb3I9cy5nZXQoImNvbG9yIiksCiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmtlcj1zLmdldCgibWFya2VyIikpCiAgICAgICAgICAgIGF4LnNldF90aXRsZShzcGVjLmdldCgidGl0bGUiLCAiIiksIGZvbnRzaXplPTE0KQogICAgICAgICAgICBheC5zZXRfeGxhYmVsKHNwZWMuZ2V0KCJ4bGFiZWwiLCAiIikpCiAgICAgICAgICAgIGF4LnNldF95bGFiZWwoc3BlYy5nZXQoInlsYWJlbCIsICIiKSkKICAgICAgICAgICAgaWYgYW55KHMuZ2V0KCJsYWJlbCIpIGZvciBzIGluIHNlcmllcyk6CiAgICAgICAgICAgICAgICBheC5sZWdlbmQoKQogICAgICAgICAgICBheC5ncmlkKGFscGhhPTAuMykKICAgICAgICAgICAgYXguc2V0X3hsaW0oMCwgbWF4KDEsIG1heChsZW4oc1sieSJdKSBmb3IgcyBpbiBzZXJpZXMpKSkKICAgICAgICAgICAgaWYgc3BlYy5nZXQoInltaW4iKSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIGF4LnNldF95bGltKHNwZWMuZ2V0KCJ5bWluIiksIHNwZWMuZ2V0KCJ5bWF4IikpCiAgICAgICAgICAgIGZpZy50aWdodF9sYXlvdXQoKQogICAgICAgICAgICBwID0gb3MucGF0aC5qb2luKHRtcGRpciwgZiJme2k6MDVkfS5wbmciKQogICAgICAgICAgICBmaWcuc2F2ZWZpZyhwKQogICAgICAgICAgICBwbHQuY2xvc2UoZmlnKQogICAgICAgICAgICBwYXRocy5hcHBlbmQoSW1hZ2Uub3BlbihwKS5jb252ZXJ0KCJSR0IiKSkKICAgICAgICByZXR1cm4gZnJvbV9mcmFtZXMocGF0aHMsIG91dD1vdXQsIGZwcz1mcHMsIG91dF9kaXI9b3V0X2RpcikKICAgIGZpbmFsbHk6CiAgICAgICAgc2h1dGlsLnJtdHJlZSh0bXBkaXIsIGlnbm9yZV9lcnJvcnM9VHJ1ZSkKCgpkZWYgc2xpZGVzaG93KGltYWdlczogbGlzdCwgc2Vjb25kc19wZXI6IGZsb2F0ID0gMi4wLCBvdXQ6IHN0ciB8IE5vbmUgPSBOb25lLAogICAgICAgICAgICAgIGZwczogaW50ID0gMjQsIG91dF9kaXI6IHN0ciA9IERFRkFVTFRfT1VUKSAtPiBBcnRpZmFjdDoKICAgICIiIuWbvueJh+i9ruaSrei9rOinhumikeOAguavj+W8oOWBnOeVmSBzZWNvbmRzX3BlciDnp5LjgIIiIiIKICAgIGZyYW1lcyA9IFtdCiAgICBmb3IgcCBpbiBpbWFnZXM6CiAgICAgICAgZnJhbWVzICs9IFtwXSAqIG1heCgxLCBpbnQocm91bmQoc2Vjb25kc19wZXIgKiBmcHMpKSkKICAgIHJldHVybiBmcm9tX2ZyYW1lcyhmcmFtZXMsIG91dD1vdXQsIGZwcz1mcHMsIG91dF9kaXI9b3V0X2RpcikKCgpkZWYgcHJvYmUocGF0aDogc3RyKSAtPiBkaWN0OgogICAgIiIi55SoIGZmcHJvYmXvvIjoi6XlrZjlnKjvvInor7vnnJ/lrp7nvJbnoIHkv6Hmga/jgILor7vkuI3lh7rmnaXlsLHov5Tlm57nqbrvvIzkuI3njJzjgIIiIiIKICAgIGV4ZSA9IHNodXRpbC53aGljaCgiZmZwcm9iZSIpCiAgICBpZiBub3QgZXhlIG9yIG5vdCBvcy5wYXRoLmV4aXN0cyhwYXRoKToKICAgICAgICByZXR1cm4ge30KICAgIHRyeToKICAgICAgICByID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgIFtleGUsICItdiIsICJlcnJvciIsICItc2VsZWN0X3N0cmVhbXMiLCAidjowIiwKICAgICAgICAgICAgICItc2hvd19lbnRyaWVzIiwgInN0cmVhbT13aWR0aCxoZWlnaHQsbmJfZnJhbWVzLHJfZnJhbWVfcmF0ZSxjb2RlY19uYW1lIiwKICAgICAgICAgICAgICItc2hvd19lbnRyaWVzIiwgImZvcm1hdD1kdXJhdGlvbiIsICItb2YiLCAianNvbiIsIHBhdGhdLAogICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUsIHRpbWVvdXQ9MjApCiAgICAgICAgZCA9IF9faW1wb3J0X18oImpzb24iKS5sb2FkcyhyLnN0ZG91dCBvciAie30iKQogICAgICAgIHN0ID0gKGQuZ2V0KCJzdHJlYW1zIikgb3IgW3t9XSlbMF0KICAgICAgICBmbSA9IGQuZ2V0KCJmb3JtYXQiKSBvciB7fQogICAgICAgIHJldHVybiB7IndpZHRoIjogc3QuZ2V0KCJ3aWR0aCIpLCAiaGVpZ2h0Ijogc3QuZ2V0KCJoZWlnaHQiKSwKICAgICAgICAgICAgICAgICJjb2RlYyI6IHN0LmdldCgiY29kZWNfbmFtZSIpLCAiZnBzIjogc3QuZ2V0KCJyX2ZyYW1lX3JhdGUiKSwKICAgICAgICAgICAgICAgICJmcmFtZXMiOiBzdC5nZXQoIm5iX2ZyYW1lcyIpLCAiZHVyYXRpb24iOiBmbS5nZXQoImR1cmF0aW9uIil9CiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHJldHVybiB7fQo=
+"""视频生成层。
+
+诚实定位
+--------
+这是**帧序列 + ffmpeg 编码**，不是文生视频模型。能稳定产出的是：
+数据动图、帧动画、图片转场、带字幕的图集视频。做不到"生成一个场景的连续动作"。
+
+而且有一条必须在代码里说清的：**ffmpeg 是外部依赖**。环境里没有 ffmpeg
+时，这里不是静默返回失败，而是抛出 `MissingToolchain`——因为静默失败会
+让调用方以为"视频生成了但内容空"，这正是我们要治的那类病。
+"""
+from __future__ import annotations
+
+import os
+import shutil
+import subprocess
+import tempfile
+
+from .artifact import Artifact, Kind
+
+DEFAULT_OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "out")
+
+
+class MissingToolchain(RuntimeError):
+    """外部工具缺失。显式抛出，不许静默降级。"""
+
+
+def _ffmpeg() -> str:
+    exe = shutil.which("ffmpeg")
+    if not exe:
+        raise MissingToolchain("环境里没有 ffmpeg，视频层不可用。这是工具链依赖，不是本包自带能力。")
+    return exe
+
+
+def from_frames(frames: list, out: str | None = None, fps: int = 24,
+                out_dir: str = DEFAULT_OUT) -> Artifact:
+    """把一串 PIL 图（或图片路径）编码成 mp4。
+
+    `frames` 可以是 PIL.Image 对象，也可以是已存在的图片文件路径。
+    """
+    exe = _ffmpeg()
+    os.makedirs(out_dir, exist_ok=True)
+    path = out or os.path.join(out_dir, "video.mp4")
+
+    tmpdir = tempfile.mkdtemp(prefix="capvid_")
+    try:
+        paths = []
+        for i, fr in enumerate(frames):
+            p = os.path.join(tmpdir, f"f{i:05d}.png")
+            if isinstance(fr, str):
+                shutil.copyfile(fr, p)
+            else:                       # PIL.Image
+                fr.save(p)
+            paths.append(p)
+        if not paths:
+            raise ValueError("from_frames 收到 0 帧 —— 空视频不是视频。")
+
+        # libx264 要求宽高都是偶数。880x495 这种奇数高会直接编码失败，
+        # 所以统一向下取偶数 —— 差一像素不影响内容，编码失败才真的是交付失败。
+        cmd = [exe, "-y", "-loglevel", "error",
+               "-framerate", str(fps),
+               "-i", os.path.join(tmpdir, "f%05d.png"),
+               "-vf", "scale=trunc(iw/2)*2:trunc(ih/2)*2",
+               "-c:v", "libx264", "-pix_fmt", "yuv420p",
+               "-movflags", "+faststart", path]
+        r = subprocess.run(cmd, capture_output=True, text=True)
+        if r.returncode != 0:
+            raise RuntimeError(f"ffmpeg 编码失败: {r.stderr.strip()[:400]}")
+    finally:
+        shutil.rmtree(tmpdir, ignore_errors=True)
+
+    return Artifact(kind=Kind.VIDEO, path=path,
+                    meta={"fps": fps, "n_frames": len(frames)})
+
+
+def animate(spec: dict, out_dir: str = DEFAULT_OUT) -> Artifact:
+    """由 spec 直接生成一段数据动图。
+
+    spec: {name, title, series(y随时间变化), fps, seconds}
+    """
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+    from PIL import Image
+
+    plt.rcParams["font.sans-serif"] = ["WenQuanYi Micro Hei", "DejaVu Sans"]
+    plt.rcParams["axes.unicode_minus"] = False
+
+    fps = int(spec.get("fps", 24))
+    seconds = float(spec.get("seconds", 3))
+    nframes = max(2, int(fps * seconds))
+    series = spec.get("series") or []
+    out = os.path.join(out_dir, f"{spec.get('name', 'anim')}.mp4")
+
+    tmpdir = tempfile.mkdtemp(prefix="capanim_")
+    try:
+        paths = []
+        for i in range(nframes):
+            t = i / (nframes - 1)
+            fig, ax = plt.subplots(figsize=(8, 4.5), dpi=110)
+            for s in series:
+                y = s["y"]
+                cut = max(2, int(len(y) * (0.15 + 0.85 * t)))
+                ax.plot(range(cut), y[:cut], lw=2.2,
+                        label=s.get("label", ""), color=s.get("color"),
+                        marker=s.get("marker"))
+            ax.set_title(spec.get("title", ""), fontsize=14)
+            ax.set_xlabel(spec.get("xlabel", ""))
+            ax.set_ylabel(spec.get("ylabel", ""))
+            if any(s.get("label") for s in series):
+                ax.legend()
+            ax.grid(alpha=0.3)
+            ax.set_xlim(0, max(1, max(len(s["y"]) for s in series)))
+            if spec.get("ymin") is not None:
+                ax.set_ylim(spec.get("ymin"), spec.get("ymax"))
+            fig.tight_layout()
+            p = os.path.join(tmpdir, f"f{i:05d}.png")
+            fig.savefig(p)
+            plt.close(fig)
+            paths.append(Image.open(p).convert("RGB"))
+        return from_frames(paths, out=out, fps=fps, out_dir=out_dir)
+    finally:
+        shutil.rmtree(tmpdir, ignore_errors=True)
+
+
+def slideshow(images: list, seconds_per: float = 2.0, out: str | None = None,
+              fps: int = 24, out_dir: str = DEFAULT_OUT) -> Artifact:
+    """图片轮播转视频。每张停留 seconds_per 秒。"""
+    frames = []
+    for p in images:
+        frames += [p] * max(1, int(round(seconds_per * fps)))
+    return from_frames(frames, out=out, fps=fps, out_dir=out_dir)
+
+
+def probe(path: str) -> dict:
+    """用 ffprobe（若存在）读真实编码信息。读不出来就返回空，不猜。"""
+    exe = shutil.which("ffprobe")
+    if not exe or not os.path.exists(path):
+        return {}
+    try:
+        r = subprocess.run(
+            [exe, "-v", "error", "-select_streams", "v:0",
+             "-show_entries", "stream=width,height,nb_frames,r_frame_rate,codec_name",
+             "-show_entries", "format=duration", "-of", "json", path],
+            capture_output=True, text=True, timeout=20)
+        d = __import__("json").loads(r.stdout or "{}")
+        st = (d.get("streams") or [{}])[0]
+        fm = d.get("format") or {}
+        return {"width": st.get("width"), "height": st.get("height"),
+                "codec": st.get("codec_name"), "fps": st.get("r_frame_rate"),
+                "frames": st.get("nb_frames"), "duration": fm.get("duration")}
+    except Exception:
+        return {}

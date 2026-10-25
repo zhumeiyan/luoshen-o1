@@ -1,1 +1,438 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJNb2RlbEtpbmQtc3RyYXRlZ3kgcGF0dGVybiBmb3IgdGhlIFJ4SW5mZXIuamwgcmVuZGVyZXIuCgpEaXNwYXRjaCBtb2RlbC1jb2RlIGdlbmVyYXRpb24sIGFuaW1hdGlvbiBncmFwaCBsYXlvdXQsIGFuZCB2YWxpZGF0aW9uLWZpZWxkCnNlbGVjdGlvbiB0byBwZXItYGBNb2RlbEtpbmRgYCBzdHJhdGVneSBjbGFzc2VzIHNvIHRoZSByZW5kZXJlciBubyBsb25nZXIKaGFyZC1jb2RlcyB0aGUgZmxhdCBQT01EUCBnZW5lcmF0b3IuCgpFYWNoIHN0cmF0ZWd5IGV4cG9zZXM6CgotIGBgZ2VuZXJhdGVfbW9kZWxfY29kZShnbm5fc3BlYywgbW9kZWxfbmFtZSkgLT4gc3RyYGAg4oCUIHRoZSBKdWxpYSBzY3JpcHQKICAoYGBAbW9kZWxgYCArIGBgaW5mZXIoKWBgKSBmb3IgdGhpcyBtb2RlbCBraW5kLgotIGBgZ2VuZXJhdGVfZ3JhcGhfbGF5b3V0KGdubl9zcGVjPU5vbmUpIC0+IGRpY3RgYCDigJQgbm9kZSBwb3NpdGlvbnMgZm9yCiAgYW5pbWF0aW9ucyAoYGB7bm9kZV9uYW1lOiAoeCwgeSl9YGApLgotIGBgZ2V0X3ZhbGlkYXRpb25fZmllbGRzKCkgLT4gbGlzdGBgIOKAlCBleHRyYSB2YWxpZGF0aW9uIGZpZWxkcy4KCmBgRmxhdFN0cmF0ZWd5YGAgaXMgdGhlIGNhbm9uaWNhbCBmbGF0LVBPTURQIGdlbmVyYXRvci4KYGBNdWx0aUFnZW50U3RyYXRlZ3lgYCByZW5kZXJzIG5hdGl2ZWx5IHdoZW4gdGhlIHNwZWMgZGVjbGFyZXMgPj0gMiBjb21wbGV0ZQphZ2VudCBncm91cHM6IG9uZSBnZW51aW5lIGBgcG9tZHBfbW9kZWxgYCBpbmZlcmVuY2UgcGVyIGFnZW50IChubyBqb2ludApzdGF0ZS1zcGFjZSBleHBhbnNpb24pIGNvdXBsZWQgdGhyb3VnaCBhIHNoYXJlZCBgYGVudl9zaWduYWxgYCBhZmZvcmRhbmNlCnRyYWNlIChkZXBvc2l0ICsgZGVjYXksIHJvYWRtYXAgTUFKLTAzKS4gU3BlY3Mgd2l0aG91dCB0aGUgcGVyLWFnZW50IG1hdHJpeApzdHJ1Y3R1cmUga2VlcCB0aGUgZG9jdW1lbnRlZCBqb2ludCBjb21wb3NpdGlvbiB0aHJvdWdoIHRoZSBmbGF0IGdlbmVyYXRvcgp3aGlsZSBzdGFtcGluZyB0aGVpciB0cnVlIGtpbmQgKHBlci1hZ2VudCByZWNvdmVyeSBoYXBwZW5zIGRvd25zdHJlYW0gZnJvbQp0aGUgYGBzdGF0ZV9mYWN0b3JzYGAgZWNobykuCmBgSGllcmFyY2hpY2FsU3RyYXRlZ3lgYCByZW5kZXJzIHR3by1sZXZlbCBtb2RlbHMgbmF0aXZlbHkgKHNsb3cgY29udGV4dApjb3VwbGVkIGludG8gdGhlIGZhc3Qtc3RhdGUgcHJpb3IpIGFuZCAzKy1sZXZlbCBtb2RlbHMgYXMgdGhlIGpvaW50CmNvbXBvc2l0aW9uLiBgYEZhY3RvcmVkU3RyYXRlZ3lgYCAocm9hZG1hcCBEMyksIGBgQ29udGludW91c1N0cmF0ZWd5YGAKKEEyKSBhbmQgYGBMZWFybmluZ1N0cmF0ZWd5YGAgKEQxKSByZW5kZXIgbmF0aXZlbHkgYWdhaW5zdCB0aGUKYGBmYWN0b3JlZF9wb21kcF9tb2RlbGBgLCBgYGNvbnRpbnVvdXNfcG9tZHBfbW9kZWxgYCBhbmQKYGBsZWFybmluZ19wb21kcF9tb2RlbGBgIGRlZmluaXRpb25zIGluIGBgR25uUnhJbmZlck1vZGVsc2BgOyBlYWNoIHJhaXNlcwpgYFZhbHVlRXJyb3JgYCBuYW1pbmcgdGhlIG1pc3NpbmcgcGFyYW1ldGVyaXphdGlvbiB3aGVuIGEgc3BlYyByZWFjaGVzIGl0CndpdGhvdXQgdGhlIG1hdHJpY2VzIGl0cyBgYEBtb2RlbGBgIHJlcXVpcmVzLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCByZQpmcm9tIGFiYyBpbXBvcnQgQUJDLCBhYnN0cmFjdG1ldGhvZApmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBMaXN0LCBPcHRpb25hbAoKZnJvbSBnbm4ucmVuZGVyLnBvbWRwX2NvbnRyYWN0IGltcG9ydCBNb2RlbEtpbmQKZnJvbSBnbm4ucmVuZGVyLnJ4aW5mZXIuX3N0cmF0ZWdpZXNfY29udGludW91cyBpbXBvcnQgX2dlbmVyYXRlX2NvbnRpbnVvdXNfY29kZQpmcm9tIGdubi5yZW5kZXIucnhpbmZlci5fc3RyYXRlZ2llc19mYWN0b3JlZCBpbXBvcnQgX2dlbmVyYXRlX2ZhY3RvcmVkX2NvZGUKZnJvbSBnbm4ucmVuZGVyLnJ4aW5mZXIuX3N0cmF0ZWdpZXNfZmxhdCBpbXBvcnQgKAogICAgX2dlbmVyYXRlX2JhdGNoX2NvZGUsCiAgICBfZ2VuZXJhdGVfb25saW5lX2NvZGUsCikKZnJvbSBnbm4ucmVuZGVyLnJ4aW5mZXIuX3N0cmF0ZWdpZXNfaGllcmFyY2hpY2FsIGltcG9ydCBfZ2VuZXJhdGVfdHdvX2xldmVsX2NvZGUKZnJvbSBnbm4ucmVuZGVyLnJ4aW5mZXIuX3N0cmF0ZWdpZXNfbGVhcm5pbmcgaW1wb3J0IF9nZW5lcmF0ZV9sZWFybmluZ19jb2RlCgpfX2FsbF9fID0gWwogICAgIk1vZGVsU3RyYXRlZ3kiLAogICAgIkZsYXRTdHJhdGVneSIsCiAgICAiRmFjdG9yZWRTdHJhdGVneSIsCiAgICAiSGllcmFyY2hpY2FsU3RyYXRlZ3kiLAogICAgIk11bHRpQWdlbnRTdHJhdGVneSIsCiAgICAiQ29udGludW91c1N0cmF0ZWd5IiwKICAgICJMZWFybmluZ1N0cmF0ZWd5IiwKICAgICJnZXRfbW9kZWxfc3RyYXRlZ3kiLAogICAgIlNUUkFURUdZX1JFR0lTVFJZIiwKXQoKCmNsYXNzIE1vZGVsU3RyYXRlZ3koQUJDKToKICAgICIiIkJhc2UgY2xhc3MgZm9yIHBlci1gYE1vZGVsS2luZGBgIFJ4SW5mZXIgZ2VuZXJhdGlvbiBzdHJhdGVnaWVzLiIiIgoKICAgIGtpbmQ6IE1vZGVsS2luZAoKICAgICMgLS0tIGhvb2tzIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGdlbmVyYXRlX21vZGVsX2NvZGUoc2VsZiwgZ25uX3NwZWM6IERpY3Rbc3RyLCBBbnldLCBtb2RlbF9uYW1lOiBzdHIpIC0+IHN0cjoKICAgICAgICAiIiJSZXR1cm4gdGhlIEp1bGlhIGBgQG1vZGVsYGAgY29kZSBmb3IgdGhpcyBtb2RlbCBraW5kLiIiIgogICAgICAgIC4uLgoKICAgIGRlZiBnZW5lcmF0ZV9ncmFwaF9sYXlvdXQoCiAgICAgICAgc2VsZiwgZ25uX3NwZWM6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUKICAgICkgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIiUmV0dXJuIG5vZGUgcG9zaXRpb25zIGZvciBhbmltYXRpb25zOiBgYHtuYW1lOiAoeCwgeSl9YGAuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2RlZmF1bHRfZ3JhcGhfbGF5b3V0KGdubl9zcGVjKQoKICAgIGRlZiBnZXRfdmFsaWRhdGlvbl9maWVsZHMoc2VsZikgLT4gTGlzdFtzdHJdOgogICAgICAgICIiIlJldHVybiBleHRyYSB2YWxpZGF0aW9uIGZpZWxkcyB0aGlzIHN0cmF0ZWd5IGNvbnRyaWJ1dGVzLiIiIgogICAgICAgIHJldHVybiBbXQoKICAgIGRlZiBfZGVmYXVsdF9ncmFwaF9sYXlvdXQoCiAgICAgICAgc2VsZiwgZ25uX3NwZWM6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUKICAgICkgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIiQ2Fub25pY2FsIGxlZnQtdG8tcmlnaHQgUE9NRFAgcGxhdGUgbGF5b3V0LiIiIgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJEIjogKDAuMDAsIDAuODUpLAogICAgICAgICAgICAiQSI6ICgwLjAwLCAwLjU1KSwKICAgICAgICAgICAgIkIiOiAoMC4wMCwgMC4yNSksCiAgICAgICAgICAgICJDIjogKDAuMDAsIC0wLjA1KSwKICAgICAgICAgICAgInMiOiAoMC4zMywgMC44NSksCiAgICAgICAgICAgICJ1IjogKDAuMzMsIDAuMjUpLAogICAgICAgICAgICAibyI6ICgwLjY2LCAwLjU1KSwKICAgICAgICAgICAgInMnIjogKDAuNjYsIDAuODUpLAogICAgICAgICAgICAiRyI6ICgxLjAwLCAwLjU1KSwKICAgICAgICB9CgoKY2xhc3MgRmxhdFN0cmF0ZWd5KE1vZGVsU3RyYXRlZ3kpOgogICAgIiIiU2luZ2xlLWZhY3RvciBQT01EUCAodGhlIGNvbW1vbiBjYXNlKSBcdTIwMTQgdGhlIGV4aXN0aW5nIGNhbm9uaWNhbCBnZW5lcmF0b3IuIiIiCgogICAga2luZCA9IE1vZGVsS2luZC5GTEFUCgogICAgZGVmIGdlbmVyYXRlX21vZGVsX2NvZGUoc2VsZiwgZ25uX3NwZWM6IERpY3Rbc3RyLCBBbnldLCBtb2RlbF9uYW1lOiBzdHIpIC0+IHN0cjoKICAgICAgICAiIiJHZW5lcmF0ZSBhIGdlbnVpbmUgUnhJbmZlci5qbCBzY3JpcHQgd2l0aCBAbW9kZWwgKyBpbmZlcigpIGZyb20gY2Fub25pY2FsIFBPTURQIG1hdHJpY2VzLgoKICAgICAgICBEZWxlZ2F0ZXMgdG8gYGBfc3RyYXRlZ2llc19mbGF0YGAgXHUyMDE0IHNlZSB0aGF0IG1vZHVsZSBmb3IgdGhlIGZ1bGwKICAgICAgICBkb2NzdHJpbmcuIFRoZSBzaXgtcGhhc2UgcGlwZWxpbmUgYW5kIGFsbCBwZXItaXRlcmF0aW9uIFZGRSBzZW1hbnRpY3MKICAgICAgICBhcmUgaWRlbnRpY2FsIHRvIHRoZSBvcmlnaW5hbCBtb25vbGl0aGljIGltcGxlbWVudGF0aW9uLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBfZ2VuZXJhdGVfYmF0Y2hfY29kZShnbm5fc3BlYywgbW9kZWxfbmFtZSwgc2VsZi5raW5kLnZhbHVlKQoKICAgIGRlZiBfZ2VuZXJhdGVfb25saW5lX2NvZGUoc2VsZiwgZ25uX3NwZWM6IERpY3Rbc3RyLCBBbnldLCBtb2RlbF9uYW1lOiBzdHIpIC0+IHN0cjoKICAgICAgICAiIiJHZW5lcmF0ZSB0aGUgb25saW5lIChmaWx0ZXJpbmcpIGFjdGl2ZS1pbmZlcmVuY2UgdmFyaWFudCAoQTEpLgoKICAgICAgICBEZWxlZ2F0ZXMgdG8gYGBfc3RyYXRlZ2llc19mbGF0YGAgXHUyMDE0IHNlZSB0aGF0IG1vZHVsZSBmb3IgdGhlIGZ1bGwKICAgICAgICBkb2NzdHJpbmcuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIF9nZW5lcmF0ZV9vbmxpbmVfY29kZShnbm5fc3BlYywgbW9kZWxfbmFtZSwgc2VsZi5raW5kLnZhbHVlKQoKICAgIGRlZiBnZW5lcmF0ZV9ncmFwaF9sYXlvdXQoCiAgICAgICAgc2VsZiwgZ25uX3NwZWM6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUKICAgICkgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIyBGbGF0IG1vZGVsOiBzaW5nbGUtb2JzZXJ2YXRpb24gLyBzaW5nbGUtc3RhdGUtZmFjdG9yIHBsYXRlLgogICAgICAgIHJldHVybiBzZWxmLl9kZWZhdWx0X2dyYXBoX2xheW91dChnbm5fc3BlYykKCiAgICBkZWYgZ2V0X3ZhbGlkYXRpb25fZmllbGRzKHNlbGYpIC0+IExpc3Rbc3RyXToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAiYWxsX2JlbGllZnNfdmFsaWQiLAogICAgICAgICAgICAiYmVsaWVmc19zdW1fdG9fb25lIiwKICAgICAgICAgICAgImFjdGlvbnNfaW5fcmFuZ2UiLAogICAgICAgICAgICAiaW5mZXJlbmNlX2NvbnZlcmdlZCIsCiAgICAgICAgICAgICJ2ZmVfcHJlc2VudCIsCiAgICAgICAgICAgICJiZWxpZWZfZW50cm9weV9vayIsCiAgICAgICAgICAgICJiZWxpZWZfYWNjdXJhY3kiLAogICAgICAgICAgICAiYmVsaWVmX2FjY3VyYWN5X29rIiwKICAgICAgICBdCgoKY2xhc3MgX0pvaW50Q29tcG9zaXRpb25TdHJhdGVneShGbGF0U3RyYXRlZ3kpOgogICAgIiIiUmVuZGVyIHZpYSB0aGUgZXh0cmFjdG9yJ3Mgam9pbnQgY29tcG9zaXRpb24gKHRoZSBmbGF0IGBgQG1vZGVsYGApLgoKICAgIFRoZSBleHRyYWN0b3IgYWxyZWFkeSBjb21wb3NlcyBtdWx0aXBsZSBmYWN0b3JzIGludG8gb25lIGpvaW50IFBPTURQCiAgICAoQy1vcmRlciBgYGl0ZXJ0b29scy5wcm9kdWN0YGAgb3ZlciBgYHN0YXRlX2ZhY3RvcnNgYCksIGFuZCB0aGF0IGpvaW50CiAgICBtb2RlbCByZW5kZXJzIGFuZCBleGVjdXRlcyB0aHJvdWdoIHRoZSBmbGF0IGdlbmVyYXRvci4gU3ViY2xhc3NlcyBzdGFtcAogICAgdGhlaXIgdHJ1ZSBkZXRlY3RlZCBraW5kIGludG8gdGhlIGdlbmVyYXRlZCBzY3JpcHQncyBgYG1vZGVsX2tpbmRgYAogICAgbWV0YWRhdGEsIGFuZCB0aGUgcmVzdWx0cyBKU09OIGVjaG9lcyBgYHN0YXRlX2ZhY3RvcnNgYCBzbyBkb3duc3RyZWFtCiAgICBhbmFseXNpcyBjYW4gcmVjb3ZlciBwZXItZmFjdG9yIG1hcmdpbmFscyBmcm9tIHRoZSBqb2ludCBwb3N0ZXJpb3IuCgogICAgVGhpcyBpcyBhIGRlbGliZXJhdGUsIGRvY3VtZW50ZWQgcmVuZGVyaW5nIGRlY2lzaW9uICh0aGUKICAgIHByZS1zdHJhdGVneS1wYXR0ZXJuIGJlaGF2aW9yKSwgbm90IGEgc2lsZW50IGZhbGxiYWNrLgogICAgIiIiCgoKY2xhc3MgTXVsdGlBZ2VudFN0cmF0ZWd5KF9Kb2ludENvbXBvc2l0aW9uU3RyYXRlZ3kpOgogICAgIiIiTXVsdGlwbGUgY29vcmRpbmF0ZWQgYWdlbnRzLgoKICAgIFdoZW4gdGhlIHNwZWMgZGVjbGFyZXMgdHdvIG9yIG1vcmUgY29tcGxldGUgYWdlbnQgZ3JvdXBzCiAgICAoYGBBX2FnZW50TmBgL2BgQl9hZ2VudE5gYC9gYENfYWdlbnROYGAvYGBEX2FnZW50TmBgKSB0aGUgc3RyYXRlZ3kKICAgIHJlbmRlcnMgbmF0aXZlbHkgdGhyb3VnaCB0aGUgc3RpZ21lcmdpYyBnZW5lcmF0b3IKICAgIChgYF9zdHJhdGVnaWVzX211bHRpYWdlbnRgYCk6IG9uZSBnZW51aW5lIGBgcG9tZHBfbW9kZWxgYCBpbmZlcmVuY2UgcGVyCiAgICBhZ2VudCAobm8gam9pbnQgc3RhdGUtc3BhY2UgZXhwYW5zaW9uKSwgZm9sbG93ZWQgYnkgYSBwb3N0LWhvYyBzaGFyZWQKICAgIGBgZW52X3NpZ25hbGBgIGFmZm9yZGFuY2UgdHJhY2UgKGRlcG9zaXQgKyBkZWNheSkuIFRoZSB0cmFjZSBpdHNlbGYgaXMKICAgIHBvc3QgaG9jIGFuZCBkb2VzIG5vdCBmZWVkIGJhY2sgaW50byBpbmZlcmVuY2UsIGJ1dCB3aGVuIHRoZSBzcGVjIGFsc28KICAgIGRlY2xhcmVzIHRoZSBlbnYtY29uZGl0aW9uZWQgb2JzZXJ2YXRpb24gbGlrZWxpaG9vZCBhbmQgbGF0ZW50IHNpZ25hbAogICAgcHJpb3IgKE1BSi0wMyksIGVhY2ggYWdlbnQgaW5mZXJzIGEgbGF0ZW50IHNpZ25hbCBiZWxpZWYgZnJvbSBpdHMKICAgIG9ic2VydmF0aW9ucyBhbmQgY29uZGl0aW9ucyBpdHMgYWN0aW9uIHNlbGVjdGlvbiBvbiB0aGF0IGluZmVycmVkCiAgICBsYXRlbnQgKHNpZ25hbC1zZWVraW5nKTsgdGhlIHJlc3VsdHMgbWV0YWRhdGEgZWNob2VzCiAgICBgYGFjdGlvbl9zZWxlY3Rpb25fY29uZGl0aW9uZWRgYC4gU3BlY3Mgd2l0aG91dCB0aGUKICAgIHBlci1hZ2VudCBtYXRyaXggc3RydWN0dXJlIGtlZXAgdGhlIHByZS1zdHJhdGVneSBiZWhhdmlvciDigJQgdGhlCiAgICBleHRyYWN0b3IncyBjb21wb3NlZCBqb2ludCBQT01EUCB0aHJvdWdoIHRoZSBmbGF0IGdlbmVyYXRvciDigJQgd2l0aAogICAgcGVyLWFnZW50IGJlbGllZnMgcmVjb3ZlcmVkIGRvd25zdHJlYW0gZnJvbSB0aGUgYGBzdGF0ZV9mYWN0b3JzYGAgZWNobwogICAgKHJvYWRtYXAgRDQpLiBFaXRoZXIgd2F5IHRoZSB0cnVlIGtpbmQgaXMgc3RhbXBlZC4KICAgICIiIgoKICAgIGtpbmQgPSBNb2RlbEtpbmQuTVVMVElfQUdFTlQKCiAgICBkZWYgZ2VuZXJhdGVfbW9kZWxfY29kZShzZWxmLCBnbm5fc3BlYzogRGljdFtzdHIsIEFueV0sIG1vZGVsX25hbWU6IHN0cikgLT4gc3RyOgogICAgICAgICIiIkdlbmVyYXRlIG5hdGl2ZSBzdGlnbWVyZ2ljIGNvZGUgd2hlbiA+PSAyIGFnZW50IGdyb3VwcyBhcmUgZGVjbGFyZWQuCgogICAgICAgIERlbGVnYXRlcyB0byBgYF9zdHJhdGVnaWVzX211bHRpYWdlbnRgYCDigJQgc2VlIHRoYXQgbW9kdWxlIGZvciB0aGUKICAgICAgICBmdWxsIGRvY3N0cmluZy4gRmFsbHMgYmFjayB0byB0aGUgY29tcG9zZWQtam9pbnQgZmxhdCBnZW5lcmF0b3IKICAgICAgICAoZG9jdW1lbnRlZCBpbnRlcmltIGJlaGF2aW9yKSBmb3Igc3BlY3Mgd2l0aG91dCBwZXItYWdlbnQgbWF0cmljZXMuCiAgICAgICAgIiIiCiAgICAgICAgZnJvbSBnbm4ucmVuZGVyLm11bHRpX2FnZW50X2NvbW1vbiBpbXBvcnQgaGFzX25hdGl2ZV9tdWx0aV9hZ2VudF9zdHJ1Y3R1cmUKCiAgICAgICAgaWYgaGFzX25hdGl2ZV9tdWx0aV9hZ2VudF9zdHJ1Y3R1cmUoZ25uX3NwZWMpOgogICAgICAgICAgICBmcm9tIGdubi5yZW5kZXIucnhpbmZlci5fc3RyYXRlZ2llc19tdWx0aWFnZW50IGltcG9ydCAoCiAgICAgICAgICAgICAgICBfZ2VuZXJhdGVfc3RpZ21lcmdpY19jb2RlLAogICAgICAgICAgICApCgogICAgICAgICAgICByZXR1cm4gX2dlbmVyYXRlX3N0aWdtZXJnaWNfY29kZShnbm5fc3BlYywgbW9kZWxfbmFtZSwgc2VsZi5raW5kLnZhbHVlKQogICAgICAgIHJldHVybiBzdXBlcigpLmdlbmVyYXRlX21vZGVsX2NvZGUoZ25uX3NwZWMsIG1vZGVsX25hbWUpCgogICAgZGVmIGdldF92YWxpZGF0aW9uX2ZpZWxkcyhzZWxmKSAtPiBMaXN0W3N0cl06CiAgICAgICAgcmV0dXJuIHN1cGVyKCkuZ2V0X3ZhbGlkYXRpb25fZmllbGRzKCkgKyBbCiAgICAgICAgICAgICJlbnZfc2lnbmFsX3RyYWNlX3ZhbGlkIiwKICAgICAgICAgICAgInBlcl9hZ2VudF9hbGxfdmFsaWQiLAogICAgICAgIF0KCgpjbGFzcyBIaWVyYXJjaGljYWxTdHJhdGVneShGbGF0U3RyYXRlZ3kpOgogICAgIiIiVHdvLWxldmVsIHNsb3cvZmFzdCBoaWVyYXJjaGljYWwgUE9NRFAgcmVuZGVyaW5nIChyb2FkbWFwIEEzKS4KCiAgICBUd28tbGV2ZWwgZXhlbXBsYXJzIChgYEFfbGV2ZWwxYGAvYGBCX2xldmVsMWBgLy4uLiBwbHVzCiAgICBgYEFfbGV2ZWwyYGAvYGBEX2xldmVsMmBgKSByZW5kZXIgdG8gdGhlIG5hdGl2ZSBoaWVyYXJjaGljYWwgYGBAbW9kZWxgYAogICAgaW4gYGBHbm5SeEluZmVyTW9kZWxzYGA6IGEgc2luZ2xlIENhdGVnb3JpY2FsIGNvbnRleHQgYGB6YGAgY291cGxlcyBpbnRvCiAgICB0aGUgZmFzdC1zdGF0ZSBwcmlvciB2aWEgdGhlIGNvbHVtbi1ub3JtYWxpemVkIGBgQV9sZXZlbDJgYCwgYW5kIHRoZQogICAgZmFzdCBjaGFpbiBpcyBkcml2ZW4gYnkgb2JzZXJ2ZWQgYWN0aW9ucyBvdmVyIGBgQl9sZXZlbDFgYC4gSW5mZXJlbmNlCiAgICByZXF1aXJlcyB0aGUgbWVhbi1maWVsZCBjb25zdHJhaW50ICsgdW5pZm9ybSBtYXJnaW5hbCBpbml0aWFsaXphdGlvbgogICAgc2hpcHBlZCB3aXRoIHRoZSBtb2RlbCAoQmV0aGUgZnJlZS1lbmVyZ3kgc2NvcmluZyBvZiB0aGUgbm9uLXNxdWFyZQogICAgY291cGxpbmcgaGl0cyBSZWFjdGl2ZU1QJ3Mgc3F1YXJlLW1hdHJpeCBgYG11bF90cmFjZWBgIGFzc2VydGlvbgogICAgb3RoZXJ3aXNlIFx1MjAxNCB2ZXJpZmllZCBlbXBpcmljYWxseSBhZ2FpbnN0IFJ4SW5mZXIgNS41KS4gQ29udGV4dCBkeW5hbWljcwogICAgKGBgQl9sZXZlbDJgYCkgYXJlIGFwcGxpZWQgcG9zdC1ob2MgYXMgZGV0ZXJtaW5pc3RpYyBwcmlvciBwcm9wYWdhdGlvbgogICAgYW5kIHJlcG9ydGVkIGFzIHRoZSBzbG93IGZhY3RvcidzIGJlbGllZiB0cmFqZWN0b3J5LgoKICAgIE1vZGVscyBkZWNsYXJpbmcgMysgbGV2ZWxzIHJlbmRlciBhcyB0aGUgZXh0cmFjdG9yJ3Mgam9pbnQgY29tcG9zaXRpb24KICAgICh0aGUgcHJlLXN0cmF0ZWd5LXBhdHRlcm4gYmVoYXZpb3IpIHdpdGggYGBtb2RlbF9raW5kYGAgc3RhbXBlZAogICAgYGBoaWVyYXJjaGljYWxgYCBcdTIwMTQgYSBkZWxpYmVyYXRlLCBkb2N1bWVudGVkIGludGVyaW0gZGVjaXNpb24gcmVjb3JkZWQgaW4KICAgIHRoZSByb2FkbWFwIChuYXRpdmUgTi1sZXZlbCBjaGFpbiByZW5kZXJpbmcgaXMgb3BlbiksIG5vdCBhIHNpbGVudAogICAgZmFsbGJhY2suCiAgICAiIiIKCiAgICBraW5kID0gTW9kZWxLaW5kLkhJRVJBUkNISUNBTAoKICAgIF9SRVFVSVJFRF9UV09fTEVWRUwgPSAoCiAgICAgICAgIkFfbGV2ZWwxIiwKICAgICAgICAiQl9sZXZlbDEiLAogICAgICAgICJDX2xldmVsMSIsCiAgICAgICAgIkFfbGV2ZWwyIiwKICAgICAgICAiRF9sZXZlbDIiLAogICAgKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZGVjbGFyZWRfbGV2ZWxzKGdubl9zcGVjOiBEaWN0W3N0ciwgQW55XSkgLT4gc2V0OgogICAgICAgIG1hdHJpY2VzID0gKGdubl9zcGVjLmdldCgic3RydWN0dXJlZF9wb21kcCIpIG9yIHt9KS5nZXQoIm1hdHJpY2VzIikgb3Ige30KICAgICAgICBsZXZlbHMgPSBzZXQoKQogICAgICAgIGZvciBrZXkgaW4gbWF0cmljZXM6CiAgICAgICAgICAgIG1hdGNoID0gcmUubWF0Y2gociJeW0FCQ0RFXV9sZXZlbChcZCspJCIsIHN0cihrZXkpKQogICAgICAgICAgICBpZiBtYXRjaDoKICAgICAgICAgICAgICAgIGxldmVscy5hZGQoaW50KG1hdGNoLmdyb3VwKDEpKSkKICAgICAgICByZXR1cm4gbGV2ZWxzCgogICAgZGVmIGdlbmVyYXRlX21vZGVsX2NvZGUoc2VsZiwgZ25uX3NwZWM6IERpY3Rbc3RyLCBBbnldLCBtb2RlbF9uYW1lOiBzdHIpIC0+IHN0cjoKICAgICAgICBsZXZlbHMgPSBzZWxmLl9kZWNsYXJlZF9sZXZlbHMoZ25uX3NwZWMpCiAgICAgICAgaWYgbGV2ZWxzID09IHsxLCAyfToKICAgICAgICAgICAgbWF0cmljZXMgPSAoZ25uX3NwZWMuZ2V0KCJzdHJ1Y3R1cmVkX3BvbWRwIikgb3Ige30pLmdldCgibWF0cmljZXMiKSBvciB7fQogICAgICAgICAgICBtaXNzaW5nID0gW2tleSBmb3Iga2V5IGluIHNlbGYuX1JFUVVJUkVEX1RXT19MRVZFTCBpZiBrZXkgbm90IGluIG1hdHJpY2VzXQogICAgICAgICAgICBpZiBtaXNzaW5nOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgICAgICAgICBmImhpZXJhcmNoaWNhbCBtb2RlbCB7bW9kZWxfbmFtZX0gaXMgbWlzc2luZyBwZXItbGV2ZWwgIgogICAgICAgICAgICAgICAgICAgIGYibWF0cmljZXMgcmVxdWlyZWQgZm9yIHR3by1sZXZlbCByZW5kZXJpbmc6IHttaXNzaW5nfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2dlbmVyYXRlX3R3b19sZXZlbF9jb2RlKGdubl9zcGVjLCBtb2RlbF9uYW1lKQogICAgICAgICMgMysgZGVjbGFyZWQgbGV2ZWxzOiBqb2ludCBjb21wb3NpdGlvbiAoc2VlIGNsYXNzIGRvY3N0cmluZykuCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuZ2VuZXJhdGVfbW9kZWxfY29kZShnbm5fc3BlYywgbW9kZWxfbmFtZSkKCiAgICBkZWYgZ2V0X3ZhbGlkYXRpb25fZmllbGRzKHNlbGYpIC0+IExpc3Rbc3RyXToKICAgICAgICByZXR1cm4gc3VwZXIoKS5nZXRfdmFsaWRhdGlvbl9maWVsZHMoKSArIFsKICAgICAgICAgICAgImNvbnRleHRfYmVsaWVmc192YWxpZCIsCiAgICAgICAgICAgICJjb250ZXh0X2JlbGllZnNfc3VtX3RvX29uZSIsCiAgICAgICAgXQoKICAgIGRlZiBfZ2VuZXJhdGVfdHdvX2xldmVsX2NvZGUoCiAgICAgICAgc2VsZiwgZ25uX3NwZWM6IERpY3Rbc3RyLCBBbnldLCBtb2RlbF9uYW1lOiBzdHIKICAgICkgLT4gc3RyOgogICAgICAgICIiIkdlbmVyYXRlIHRoZSBuYXRpdmUgdHdvLWxldmVsIGhpZXJhcmNoaWNhbCBSeEluZmVyLmpsIHNjcmlwdC4KCiAgICAgICAgRGVsZWdhdGVzIHRvIGBgX3N0cmF0ZWdpZXNfaGllcmFyY2hpY2FsYGAgXHUyMDE0IHNlZSB0aGF0IG1vZHVsZSBmb3IgdGhlCiAgICAgICAgZnVsbCBkb2NzdHJpbmcuIFRoZSBnZW5lcmF0ZWQgSnVsaWEgc2NyaXB0IHRleHQgaXMgaWRlbnRpY2FsIHRvIHRoZQogICAgICAgIG9yaWdpbmFsIG1vbm9saXRoaWMgaW1wbGVtZW50YXRpb24uCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIF9nZW5lcmF0ZV90d29fbGV2ZWxfY29kZShnbm5fc3BlYywgbW9kZWxfbmFtZSwgc2VsZi5raW5kLnZhbHVlKQoKCmRlZiBfZGVzY3JpcHRvcl9uYW1lKGRlc2NyaXB0b3JzOiBBbnksIGluZGV4OiBpbnQsIGRlZmF1bHQ6IHN0cikgLT4gc3RyOgogICAgIiIiUmV0dXJuIGBgZGVzY3JpcHRvcnNbaW5kZXhdWyJuYW1lIl1gYCBmcm9tIGEgR05OIGRlc2NyaXB0b3IgbGlzdC4iIiIKICAgIGlmIGlzaW5zdGFuY2UoZGVzY3JpcHRvcnMsIGxpc3QpIGFuZCBsZW4oZGVzY3JpcHRvcnMpID4gaW5kZXg6CiAgICAgICAgZW50cnkgPSBkZXNjcmlwdG9yc1tpbmRleF0KICAgICAgICBpZiBpc2luc3RhbmNlKGVudHJ5LCBkaWN0KSBhbmQgZW50cnkuZ2V0KCJuYW1lIik6CiAgICAgICAgICAgIHJldHVybiBzdHIoZW50cnlbIm5hbWUiXSkKICAgIHJldHVybiBkZWZhdWx0CgoKY2xhc3MgRmFjdG9yZWRTdHJhdGVneShNb2RlbFN0cmF0ZWd5KToKICAgICIiIlR3by1mYWN0b3IgLyB0d28tbW9kYWxpdHkgUE9NRFAgcmVuZGVyZWQgbmF0aXZlbHkgKHJvYWRtYXAgRDMpLgoKICAgIFRoZSBleGVtcGxhcidzIGBgIyMgRXF1YXRpb25zYGAgZGVjbGFyZSB0aGUgbWVhbi1maWVsZCBmYWN0b3JpemF0aW9uCiAgICBgYFEoc19mMCwgc19mMSkgPSBRKHNfZjApIFEoc19mMSlgYCwgYW5kIGBgZmFjdG9yZWRfY29uc3RyYWludHMoKWBgCiAgICBzdGF0ZXMgZXhhY3RseSB0aGF0IGN1dCBcdTIwMTQgc28gdGhlIHBvc3RlcmlvciBmYW1pbHkgSVMgdGhlIGRlY2xhcmVkCiAgICBtb2RlbCwgbm90IGFuIGFwcHJveGltYXRpb24gYm9sdGVkIG9uIGFmdGVyd2FyZHMuIEZhY3RvciAwIGlzIHRoZQogICAgYWN0aW9uLWRyaXZlbiAoY29udHJvbGxhYmxlKSBjaGFpbiBvdmVyIGBgQl9mMGBgOyBmYWN0b3IgMSBpcyB0aGUKICAgIHBhc3NpdmUgY2hhaW4gb3ZlciB0aGUgc3RhdGljIGBgQl9mMWBgLiBNb2RhbGl0eSAwIGRlcGVuZHMgb24gQk9USAogICAgZmFjdG9ycyB0aHJvdWdoIHRoZSAzLXRlbnNvciBgYEFfbTBgYDsgbW9kYWxpdHkgMSBkZXBlbmRzIG9uIGZhY3RvciAwCiAgICBhbG9uZSB0aHJvdWdoIGBgQV9tMWBgLgoKICAgIFRoZSBuYXRpdmUgcGF0aCBSRVFVSVJFUyB0aGUgcGVyLWZhY3RvciBtYXRyaWNlcy4gV2hlbiB0aGV5IGFyZSBhYnNlbnQKICAgIHRoaXMgcmFpc2VzIGBgVmFsdWVFcnJvcmBgIHJhdGhlciB0aGFuIGRyb3BwaW5nIHRvIHRoZSBleHRyYWN0b3IncwogICAgam9pbnQgY29tcG9zaXRpb246IGEgbW9kZWwgZGV0ZWN0ZWQgRkFDVE9SRUQgd2l0aG91dCBwZXItZmFjdG9yCiAgICBtYXRyaWNlcyBpcyBhIGNvbnRyYWN0IHZpb2xhdGlvbiwgbm90IGEgY2FzZSBmb3IgYSBxdWlldGVyIHJlbmRlci4KICAgICIiIgoKICAgIGtpbmQgPSBNb2RlbEtpbmQuRkFDVE9SRUQKCiAgICBfUkVRVUlSRURfTUFUUklDRVMgPSAoIkFfbTAiLCAiQV9tMSIsICJCX2YwIiwgIkJfZjEiLCAiRF9mMCIsICJEX2YxIikKCiAgICBkZWYgZ2V0X3ZhbGlkYXRpb25fZmllbGRzKHNlbGYpIC0+IExpc3Rbc3RyXToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAiYWxsX2JlbGllZnNfdmFsaWQiLAogICAgICAgICAgICAiYmVsaWVmc19zdW1fdG9fb25lIiwKICAgICAgICAgICAgImFjdGlvbnNfaW5fcmFuZ2UiLAogICAgICAgICAgICAiaW5mZXJlbmNlX2NvbnZlcmdlZCIsCiAgICAgICAgICAgICJ2ZmVfcHJlc2VudCIsCiAgICAgICAgICAgICJiZWxpZWZfZW50cm9weV9vayIsCiAgICAgICAgICAgICJiZWxpZWZfYWNjdXJhY3kiLAogICAgICAgICAgICAiYmVsaWVmX2FjY3VyYWN5X29rIiwKICAgICAgICAgICAgImZhY3RvcjFfYmVsaWVmc192YWxpZCIsCiAgICAgICAgICAgICJmYWN0b3IxX2JlbGllZnNfc3VtX3RvX29uZSIsCiAgICAgICAgXQoKICAgIGRlZiBnZW5lcmF0ZV9tb2RlbF9jb2RlKHNlbGYsIGdubl9zcGVjOiBEaWN0W3N0ciwgQW55XSwgbW9kZWxfbmFtZTogc3RyKSAtPiBzdHI6CiAgICAgICAgIiIiR2VuZXJhdGUgdGhlIG5hdGl2ZSB0d28tZmFjdG9yIG1lYW4tZmllbGQgUnhJbmZlci5qbCBzY3JpcHQuCgogICAgICAgIERlbGVnYXRlcyB0byBgYF9zdHJhdGVnaWVzX2ZhY3RvcmVkYGAgXHUyMDE0IHNlZSB0aGF0IG1vZHVsZSBmb3IgdGhlIGZ1bGwKICAgICAgICBkb2NzdHJpbmcuIFRoZSBnZW5lcmF0ZWQgSnVsaWEgc2NyaXB0IHRleHQgaXMgaWRlbnRpY2FsIHRvIHRoZSBvcmlnaW5hbAogICAgICAgIG1vbm9saXRoaWMgaW1wbGVtZW50YXRpb24uCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIF9nZW5lcmF0ZV9mYWN0b3JlZF9jb2RlKGdubl9zcGVjLCBtb2RlbF9uYW1lLCBzZWxmLmtpbmQudmFsdWUpCgoKY2xhc3MgQ29udGludW91c1N0cmF0ZWd5KE1vZGVsU3RyYXRlZ3kpOgogICAgIiIiTGluZWFyLUdhdXNzaWFuIHN0YXRlLXNwYWNlIHJlbmRlcmluZyBmb3IgY29udGludW91cyBzcGVjcyAoQTIpLgoKICAgIENvbnRpbnVvdXMgZXhlbXBsYXJzIGNhcnJ5IGFuIGF1dGhvcmVkIGNvbnRpbnVvdXMgcGFyYW1ldGVyaXphdGlvbgogICAgKGBgRmBgL2BgSGBgL2BgUWBgL2BgUmBgIHBsdXMgYGBwcmlvcl9tZWFuYGAvYGBwcmlvcl9jb3ZgYCkgYWxvbmdzaWRlCiAgICB0aGVpciBkaXNjcmV0aXplZCBQT01EUCBzdGFuZC1pbi4gVGhpcyBzdHJhdGVneSByZW5kZXJzIHRob3NlIGtleXMgb250bwogICAgYGBjb250aW51b3VzX3BvbWRwX21vZGVsYGAgXHUyMDE0IHRoZSBMR1NTTSBgYEBtb2RlbGBgIGluCiAgICBgYEdublJ4SW5mZXJNb2RlbHNgYCBcdTIwMTQgd2hpY2ggbmVlZHMgbmVpdGhlciBjb25zdHJhaW50cyBub3IKICAgIGluaXRpYWxpemF0aW9uIChpdCBpcyBmdWxseSBjb25qdWdhdGU7IGJlbGllZiBwcm9wYWdhdGlvbiBjb252ZXJnZXMgaW4KICAgIG9uZSBzd2VlcCkuCgogICAgRGVyaXZpbmcgRi9IL1EvUiBmcm9tIGRpc2NyZXRlIEEvQi9DL0Qgd291bGQgZmFicmljYXRlIGRhdGEsIHNvIGEgc3BlYwogICAgcmVhY2hpbmcgdGhpcyBzdHJhdGVneSB3aXRob3V0IHRoZW0gcmFpc2VzIGBgVmFsdWVFcnJvcmBgIG5hbWluZyB0aGUKICAgIG1pc3Npbmcga2V5cy4KICAgICIiIgoKICAgIGtpbmQgPSBNb2RlbEtpbmQuQ09OVElOVU9VUwoKICAgIF9SRVFVSVJFRF9LRVlTID0gKCJGIiwgIkgiLCAiUSIsICJSIiwgInByaW9yX21lYW4iLCAicHJpb3JfY292IikKCiAgICBkZWYgZ2V0X3ZhbGlkYXRpb25fZmllbGRzKHNlbGYpIC0+IExpc3Rbc3RyXToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAidmZlX2Zpbml0ZSIsCiAgICAgICAgICAgICJtZWFuc19maW5pdGUiLAogICAgICAgICAgICAicG9zdGVyaW9yX2Nvdl9wc2QiLAogICAgICAgICAgICAiaW5mZXJlbmNlX2NvbnZlcmdlZCIsCiAgICAgICAgICAgICJybXNlX3ZzX3RydWUiLAogICAgICAgICAgICAicm1zZV9maW5pdGUiLAogICAgICAgIF0KCiAgICBkZWYgZ2VuZXJhdGVfbW9kZWxfY29kZShzZWxmLCBnbm5fc3BlYzogRGljdFtzdHIsIEFueV0sIG1vZGVsX25hbWU6IHN0cikgLT4gc3RyOgogICAgICAgICIiIkdlbmVyYXRlIHRoZSBuYXRpdmUgbGluZWFyLUdhdXNzaWFuIFJ4SW5mZXIuamwgc2NyaXB0LgoKICAgICAgICBEZWxlZ2F0ZXMgdG8gYGBfc3RyYXRlZ2llc19jb250aW51b3VzYGAgXHUyMDE0IHNlZSB0aGF0IG1vZHVsZSBmb3IgdGhlIGZ1bGwKICAgICAgICBkb2NzdHJpbmcuIFRoZSBnZW5lcmF0ZWQgSnVsaWEgc2NyaXB0IHRleHQgaXMgaWRlbnRpY2FsIHRvIHRoZSBvcmlnaW5hbAogICAgICAgIG1vbm9saXRoaWMgaW1wbGVtZW50YXRpb24uCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIF9nZW5lcmF0ZV9jb250aW51b3VzX2NvZGUoZ25uX3NwZWMsIG1vZGVsX25hbWUsIHNlbGYua2luZC52YWx1ZSkKCgpjbGFzcyBMZWFybmluZ1N0cmF0ZWd5KE1vZGVsU3RyYXRlZ3kpOgogICAgIiIiRGlyaWNobGV0IGxpa2VsaWhvb2QgbGVhcm5pbmcgcmVuZGVyZWQgbmF0aXZlbHkgKHJvYWRtYXAgRDEpLgoKICAgIFNwZWNzIGNhcnJ5aW5nIGBgZGlyaWNobGV0X0FgYCBwc2V1ZG8tY291bnRzIHJlbmRlciBvbnRvCiAgICBgYGxlYXJuaW5nX3BvbWRwX21vZGVsYGAsIHdoZXJlIHRoZSBsaWtlbGlob29kIGBgQWBgIGlzIGEgbGF0ZW50CiAgICBgYERpcmljaGxldENvbGxlY3Rpb25gYCByYXRoZXIgdGhhbiBhIGZpeGVkIGNvbnN0YW50LiBUaGUgc3RydWN0dXJlZAogICAgbWVhbi1maWVsZCBjdXQgYGBxKHMsIEEpID0gcShzKXEoQSlgYCBwbHVzIG1hcmdpbmFsIGluaXRpYWxpemF0aW9uIG9mCiAgICBib3RoIHNpZGVzIGlzIHJlcXVpcmVkIGJ5IFJ4SW5mZXIgNS41LCBhbmQgdGhlIGNvdW50cyBtdXN0IGJyZWFrCiAgICBjb2x1bW4tcGVybXV0YXRpb24gc3ltbWV0cnkgKGEgdW5pZm9ybSBwcmlvciBjb252ZXJnZXMgdG8gYQogICAgbGFiZWwtc3dpdGNoZWQgb3B0aW11bSB0aGF0IHRoZSBmcmVlIGVuZXJneSBhbG9uZSB3aWxsIG5vdCBjYXRjaCBcdTIwMTQKICAgIHdoaWNoIGlzIHdoeSBgYGFfZGlzdGFuY2VfcG9zdGVyaW9yYGAgaXMgYSBoYXJkIGdhdGUpLgogICAgIiIiCgogICAga2luZCA9IE1vZGVsS2luZC5MRUFSTklORwoKICAgIF9SRVFVSVJFRF9LRVlTID0gKCJkaXJpY2hsZXRfQSIsICJBIiwgIkIiLCAiQyIsICJEIikKCiAgICBkZWYgZ2V0X3ZhbGlkYXRpb25fZmllbGRzKHNlbGYpIC0+IExpc3Rbc3RyXToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAiYWxsX2JlbGllZnNfdmFsaWQiLAogICAgICAgICAgICAiYmVsaWVmc19zdW1fdG9fb25lIiwKICAgICAgICAgICAgImFjdGlvbnNfaW5fcmFuZ2UiLAogICAgICAgICAgICAiaW5mZXJlbmNlX2NvbnZlcmdlZCIsCiAgICAgICAgICAgICJ2ZmVfcHJlc2VudCIsCiAgICAgICAgICAgICJiZWxpZWZfZW50cm9weV9vayIsCiAgICAgICAgICAgICJiZWxpZWZfYWNjdXJhY3kiLAogICAgICAgICAgICAiYmVsaWVmX2FjY3VyYWN5X29rIiwKICAgICAgICAgICAgImFfbGVhcm5pbmdfaW1wcm92ZWQiLAogICAgICAgICAgICAiYV9wb3N0ZXJpb3JfY29sdW1uc19ub3JtYWxpemVkIiwKICAgICAgICBdCgogICAgZGVmIGdlbmVyYXRlX21vZGVsX2NvZGUoc2VsZiwgZ25uX3NwZWM6IERpY3Rbc3RyLCBBbnldLCBtb2RlbF9uYW1lOiBzdHIpIC0+IHN0cjoKICAgICAgICAiIiJHZW5lcmF0ZSB0aGUgbmF0aXZlIERpcmljaGxldC1saWtlbGlob29kLWxlYXJuaW5nIFJ4SW5mZXIuamwgc2NyaXB0LgoKICAgICAgICBEZWxlZ2F0ZXMgdG8gYGBfc3RyYXRlZ2llc19sZWFybmluZ2BgIFx1MjAxNCBzZWUgdGhhdCBtb2R1bGUgZm9yIHRoZSBmdWxsCiAgICAgICAgZG9jc3RyaW5nLiBUaGUgZ2VuZXJhdGVkIEp1bGlhIHNjcmlwdCB0ZXh0IGlzIGlkZW50aWNhbCB0byB0aGUgb3JpZ2luYWwKICAgICAgICBtb25vbGl0aGljIGltcGxlbWVudGF0aW9uLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBfZ2VuZXJhdGVfbGVhcm5pbmdfY29kZShnbm5fc3BlYywgbW9kZWxfbmFtZSwgc2VsZi5raW5kLnZhbHVlKQoKClNUUkFURUdZX1JFR0lTVFJZOiBEaWN0W01vZGVsS2luZCwgTW9kZWxTdHJhdGVneV0gPSB7CiAgICBNb2RlbEtpbmQuRkxBVDogRmxhdFN0cmF0ZWd5KCksCiAgICBNb2RlbEtpbmQuRkFDVE9SRUQ6IEZhY3RvcmVkU3RyYXRlZ3koKSwKICAgIE1vZGVsS2luZC5ISUVSQVJDSElDQUw6IEhpZXJhcmNoaWNhbFN0cmF0ZWd5KCksCiAgICBNb2RlbEtpbmQuTVVMVElfQUdFTlQ6IE11bHRpQWdlbnRTdHJhdGVneSgpLAogICAgTW9kZWxLaW5kLkNPTlRJTlVPVVM6IENvbnRpbnVvdXNTdHJhdGVneSgpLAogICAgTW9kZWxLaW5kLkxFQVJOSU5HOiBMZWFybmluZ1N0cmF0ZWd5KCksCn0KCgpkZWYgZ2V0X21vZGVsX3N0cmF0ZWd5KG1vZGVsX2tpbmQ6IE1vZGVsS2luZCkgLT4gTW9kZWxTdHJhdGVneToKICAgICIiIlJldHVybiB0aGUgcmVnaXN0ZXJlZCBzdHJhdGVneSBmb3IgYSBgYE1vZGVsS2luZGBgLgoKICAgIFN0cnVjdHVyYWwgd3JhcHBlciBzcGVjcyBoYXZlIG5vIHJlbmRlciBzdHJhdGVneTogdGhleSBkZWNsYXJlIGJvdW5kYXJ5CiAgICBzdHJ1Y3R1cmUgb25seSBhbmQgbXVzdCBiZSByZXBvcnRlZCB1bnN1cHBvcnRlZCB1cHN0cmVhbSwgbmV2ZXIgc2lsZW50bHkKICAgIHJlbmRlcmVkIGFzIGEgZGlzY3JldGUgc3RhbmQtaW4uCiAgICAiIiIKICAgIGlmIG1vZGVsX2tpbmQgaXMgTW9kZWxLaW5kLlNUUlVDVFVSQUw6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgInN0cnVjdHVyYWwtc3BlYzogbm8gcmVuZGVyYWJsZSBmb3JtIOKAlCBzdHJ1Y3R1cmFsIHdyYXBwZXIgc3BlY3MgIgogICAgICAgICAgICAiZGVjbGFyZSBib3VuZGFyeSBzdHJ1Y3R1cmUgb25seSAobm8gZGlzY3JldGUgQS9CL0MvRFsvRV0gYW5kIG5vICIKICAgICAgICAgICAgImNvbnRpbnVvdXMgRi9IL1EvUiBwYXJhbWV0ZXJpemF0aW9uKSIKICAgICAgICApCiAgICByZXR1cm4gU1RSQVRFR1lfUkVHSVNUUllbbW9kZWxfa2luZF0K
+#!/usr/bin/env python3
+"""ModelKind-strategy pattern for the RxInfer.jl renderer.
+
+Dispatch model-code generation, animation graph layout, and validation-field
+selection to per-``ModelKind`` strategy classes so the renderer no longer
+hard-codes the flat POMDP generator.
+
+Each strategy exposes:
+
+- ``generate_model_code(gnn_spec, model_name) -> str`` — the Julia script
+  (``@model`` + ``infer()``) for this model kind.
+- ``generate_graph_layout(gnn_spec=None) -> dict`` — node positions for
+  animations (``{node_name: (x, y)}``).
+- ``get_validation_fields() -> list`` — extra validation fields.
+
+``FlatStrategy`` is the canonical flat-POMDP generator.
+``MultiAgentStrategy`` renders natively when the spec declares >= 2 complete
+agent groups: one genuine ``pomdp_model`` inference per agent (no joint
+state-space expansion) coupled through a shared ``env_signal`` affordance
+trace (deposit + decay, roadmap MAJ-03). Specs without the per-agent matrix
+structure keep the documented joint composition through the flat generator
+while stamping their true kind (per-agent recovery happens downstream from
+the ``state_factors`` echo).
+``HierarchicalStrategy`` renders two-level models natively (slow context
+coupled into the fast-state prior) and 3+-level models as the joint
+composition. ``FactoredStrategy`` (roadmap D3), ``ContinuousStrategy``
+(A2) and ``LearningStrategy`` (D1) render natively against the
+``factored_pomdp_model``, ``continuous_pomdp_model`` and
+``learning_pomdp_model`` definitions in ``GnnRxInferModels``; each raises
+``ValueError`` naming the missing parameterization when a spec reaches it
+without the matrices its ``@model`` requires.
+"""
+
+from __future__ import annotations
+
+import re
+from abc import ABC, abstractmethod
+from typing import Any, Dict, List, Optional
+
+from gnn.render.pomdp_contract import ModelKind
+from gnn.render.rxinfer._strategies_continuous import _generate_continuous_code
+from gnn.render.rxinfer._strategies_factored import _generate_factored_code
+from gnn.render.rxinfer._strategies_flat import (
+    _generate_batch_code,
+    _generate_online_code,
+)
+from gnn.render.rxinfer._strategies_hierarchical import _generate_two_level_code
+from gnn.render.rxinfer._strategies_learning import _generate_learning_code
+
+__all__ = [
+    "ModelStrategy",
+    "FlatStrategy",
+    "FactoredStrategy",
+    "HierarchicalStrategy",
+    "MultiAgentStrategy",
+    "ContinuousStrategy",
+    "LearningStrategy",
+    "get_model_strategy",
+    "STRATEGY_REGISTRY",
+]
+
+
+class ModelStrategy(ABC):
+    """Base class for per-``ModelKind`` RxInfer generation strategies."""
+
+    kind: ModelKind
+
+    # --- hooks ---------------------------------------------------------
+
+    @abstractmethod
+    def generate_model_code(self, gnn_spec: Dict[str, Any], model_name: str) -> str:
+        """Return the Julia ``@model`` code for this model kind."""
+        ...
+
+    def generate_graph_layout(
+        self, gnn_spec: Optional[Dict[str, Any]] = None
+    ) -> Dict[str, Any]:
+        """Return node positions for animations: ``{name: (x, y)}``."""
+        return self._default_graph_layout(gnn_spec)
+
+    def get_validation_fields(self) -> List[str]:
+        """Return extra validation fields this strategy contributes."""
+        return []
+
+    def _default_graph_layout(
+        self, gnn_spec: Optional[Dict[str, Any]] = None
+    ) -> Dict[str, Any]:
+        """Canonical left-to-right POMDP plate layout."""
+        return {
+            "D": (0.00, 0.85),
+            "A": (0.00, 0.55),
+            "B": (0.00, 0.25),
+            "C": (0.00, -0.05),
+            "s": (0.33, 0.85),
+            "u": (0.33, 0.25),
+            "o": (0.66, 0.55),
+            "s'": (0.66, 0.85),
+            "G": (1.00, 0.55),
+        }
+
+
+class FlatStrategy(ModelStrategy):
+    """Single-factor POMDP (the common case) \u2014 the existing canonical generator."""
+
+    kind = ModelKind.FLAT
+
+    def generate_model_code(self, gnn_spec: Dict[str, Any], model_name: str) -> str:
+        """Generate a genuine RxInfer.jl script with @model + infer() from canonical POMDP matrices.
+
+        Delegates to ``_strategies_flat`` \u2014 see that module for the full
+        docstring. The six-phase pipeline and all per-iteration VFE semantics
+        are identical to the original monolithic implementation.
+        """
+        return _generate_batch_code(gnn_spec, model_name, self.kind.value)
+
+    def _generate_online_code(self, gnn_spec: Dict[str, Any], model_name: str) -> str:
+        """Generate the online (filtering) active-inference variant (A1).
+
+        Delegates to ``_strategies_flat`` \u2014 see that module for the full
+        docstring.
+        """
+        return _generate_online_code(gnn_spec, model_name, self.kind.value)
+
+    def generate_graph_layout(
+        self, gnn_spec: Optional[Dict[str, Any]] = None
+    ) -> Dict[str, Any]:
+        # Flat model: single-observation / single-state-factor plate.
+        return self._default_graph_layout(gnn_spec)
+
+    def get_validation_fields(self) -> List[str]:
+        return [
+            "all_beliefs_valid",
+            "beliefs_sum_to_one",
+            "actions_in_range",
+            "inference_converged",
+            "vfe_present",
+            "belief_entropy_ok",
+            "belief_accuracy",
+            "belief_accuracy_ok",
+        ]
+
+
+class _JointCompositionStrategy(FlatStrategy):
+    """Render via the extractor's joint composition (the flat ``@model``).
+
+    The extractor already composes multiple factors into one joint POMDP
+    (C-order ``itertools.product`` over ``state_factors``), and that joint
+    model renders and executes through the flat generator. Subclasses stamp
+    their true detected kind into the generated script's ``model_kind``
+    metadata, and the results JSON echoes ``state_factors`` so downstream
+    analysis can recover per-factor marginals from the joint posterior.
+
+    This is a deliberate, documented rendering decision (the
+    pre-strategy-pattern behavior), not a silent fallback.
+    """
+
+
+class MultiAgentStrategy(_JointCompositionStrategy):
+    """Multiple coordinated agents.
+
+    When the spec declares two or more complete agent groups
+    (``A_agentN``/``B_agentN``/``C_agentN``/``D_agentN``) the strategy
+    renders natively through the stigmergic generator
+    (``_strategies_multiagent``): one genuine ``pomdp_model`` inference per
+    agent (no joint state-space expansion), followed by a post-hoc shared
+    ``env_signal`` affordance trace (deposit + decay). The trace itself is
+    post hoc and does not feed back into inference, but when the spec also
+    declares the env-conditioned observation likelihood and latent signal
+    prior (MAJ-03), each agent infers a latent signal belief from its
+    observations and conditions its action selection on that inferred
+    latent (signal-seeking); the results metadata echoes
+    ``action_selection_conditioned``. Specs without the
+    per-agent matrix structure keep the pre-strategy behavior — the
+    extractor's composed joint POMDP through the flat generator — with
+    per-agent beliefs recovered downstream from the ``state_factors`` echo
+    (roadmap D4). Either way the true kind is stamped.
+    """
+
+    kind = ModelKind.MULTI_AGENT
+
+    def generate_model_code(self, gnn_spec: Dict[str, Any], model_name: str) -> str:
+        """Generate native stigmergic code when >= 2 agent groups are declared.
+
+        Delegates to ``_strategies_multiagent`` — see that module for the
+        full docstring. Falls back to the composed-joint flat generator
+        (documented interim behavior) for specs without per-agent matrices.
+        """
+        from gnn.render.multi_agent_common import has_native_multi_agent_structure
+
+        if has_native_multi_agent_structure(gnn_spec):
+            from gnn.render.rxinfer._strategies_multiagent import (
+                _generate_stigmergic_code,
+            )
+
+            return _generate_stigmergic_code(gnn_spec, model_name, self.kind.value)
+        return super().generate_model_code(gnn_spec, model_name)
+
+    def get_validation_fields(self) -> List[str]:
+        return super().get_validation_fields() + [
+            "env_signal_trace_valid",
+            "per_agent_all_valid",
+        ]
+
+
+class HierarchicalStrategy(FlatStrategy):
+    """Two-level slow/fast hierarchical POMDP rendering (roadmap A3).
+
+    Two-level exemplars (``A_level1``/``B_level1``/... plus
+    ``A_level2``/``D_level2``) render to the native hierarchical ``@model``
+    in ``GnnRxInferModels``: a single Categorical context ``z`` couples into
+    the fast-state prior via the column-normalized ``A_level2``, and the
+    fast chain is driven by observed actions over ``B_level1``. Inference
+    requires the mean-field constraint + uniform marginal initialization
+    shipped with the model (Bethe free-energy scoring of the non-square
+    coupling hits ReactiveMP's square-matrix ``mul_trace`` assertion
+    otherwise \u2014 verified empirically against RxInfer 5.5). Context dynamics
+    (``B_level2``) are applied post-hoc as deterministic prior propagation
+    and reported as the slow factor's belief trajectory.
+
+    Models declaring 3+ levels render as the extractor's joint composition
+    (the pre-strategy-pattern behavior) with ``model_kind`` stamped
+    ``hierarchical`` \u2014 a deliberate, documented interim decision recorded in
+    the roadmap (native N-level chain rendering is open), not a silent
+    fallback.
+    """
+
+    kind = ModelKind.HIERARCHICAL
+
+    _REQUIRED_TWO_LEVEL = (
+        "A_level1",
+        "B_level1",
+        "C_level1",
+        "A_level2",
+        "D_level2",
+    )
+
+    @staticmethod
+    def _declared_levels(gnn_spec: Dict[str, Any]) -> set:
+        matrices = (gnn_spec.get("structured_pomdp") or {}).get("matrices") or {}
+        levels = set()
+        for key in matrices:
+            match = re.match(r"^[ABCDE]_level(\d+)$", str(key))
+            if match:
+                levels.add(int(match.group(1)))
+        return levels
+
+    def generate_model_code(self, gnn_spec: Dict[str, Any], model_name: str) -> str:
+        levels = self._declared_levels(gnn_spec)
+        if levels == {1, 2}:
+            matrices = (gnn_spec.get("structured_pomdp") or {}).get("matrices") or {}
+            missing = [key for key in self._REQUIRED_TWO_LEVEL if key not in matrices]
+            if missing:
+                raise ValueError(
+                    f"hierarchical model {model_name} is missing per-level "
+                    f"matrices required for two-level rendering: {missing}"
+                )
+            return self._generate_two_level_code(gnn_spec, model_name)
+        # 3+ declared levels: joint composition (see class docstring).
+        return super().generate_model_code(gnn_spec, model_name)
+
+    def get_validation_fields(self) -> List[str]:
+        return super().get_validation_fields() + [
+            "context_beliefs_valid",
+            "context_beliefs_sum_to_one",
+        ]
+
+    def _generate_two_level_code(
+        self, gnn_spec: Dict[str, Any], model_name: str
+    ) -> str:
+        """Generate the native two-level hierarchical RxInfer.jl script.
+
+        Delegates to ``_strategies_hierarchical`` \u2014 see that module for the
+        full docstring. The generated Julia script text is identical to the
+        original monolithic implementation.
+        """
+        return _generate_two_level_code(gnn_spec, model_name, self.kind.value)
+
+
+def _descriptor_name(descriptors: Any, index: int, default: str) -> str:
+    """Return ``descriptors[index]["name"]`` from a GNN descriptor list."""
+    if isinstance(descriptors, list) and len(descriptors) > index:
+        entry = descriptors[index]
+        if isinstance(entry, dict) and entry.get("name"):
+            return str(entry["name"])
+    return default
+
+
+class FactoredStrategy(ModelStrategy):
+    """Two-factor / two-modality POMDP rendered natively (roadmap D3).
+
+    The exemplar's ``## Equations`` declare the mean-field factorization
+    ``Q(s_f0, s_f1) = Q(s_f0) Q(s_f1)``, and ``factored_constraints()``
+    states exactly that cut \u2014 so the posterior family IS the declared
+    model, not an approximation bolted on afterwards. Factor 0 is the
+    action-driven (controllable) chain over ``B_f0``; factor 1 is the
+    passive chain over the static ``B_f1``. Modality 0 depends on BOTH
+    factors through the 3-tensor ``A_m0``; modality 1 depends on factor 0
+    alone through ``A_m1``.
+
+    The native path REQUIRES the per-factor matrices. When they are absent
+    this raises ``ValueError`` rather than dropping to the extractor's
+    joint composition: a model detected FACTORED without per-factor
+    matrices is a contract violation, not a case for a quieter render.
+    """
+
+    kind = ModelKind.FACTORED
+
+    _REQUIRED_MATRICES = ("A_m0", "A_m1", "B_f0", "B_f1", "D_f0", "D_f1")
+
+    def get_validation_fields(self) -> List[str]:
+        return [
+            "all_beliefs_valid",
+            "beliefs_sum_to_one",
+            "actions_in_range",
+            "inference_converged",
+            "vfe_present",
+            "belief_entropy_ok",
+            "belief_accuracy",
+            "belief_accuracy_ok",
+            "factor1_beliefs_valid",
+            "factor1_beliefs_sum_to_one",
+        ]
+
+    def generate_model_code(self, gnn_spec: Dict[str, Any], model_name: str) -> str:
+        """Generate the native two-factor mean-field RxInfer.jl script.
+
+        Delegates to ``_strategies_factored`` \u2014 see that module for the full
+        docstring. The generated Julia script text is identical to the original
+        monolithic implementation.
+        """
+        return _generate_factored_code(gnn_spec, model_name, self.kind.value)
+
+
+class ContinuousStrategy(ModelStrategy):
+    """Linear-Gaussian state-space rendering for continuous specs (A2).
+
+    Continuous exemplars carry an authored continuous parameterization
+    (``F``/``H``/``Q``/``R`` plus ``prior_mean``/``prior_cov``) alongside
+    their discretized POMDP stand-in. This strategy renders those keys onto
+    ``continuous_pomdp_model`` \u2014 the LGSSM ``@model`` in
+    ``GnnRxInferModels`` \u2014 which needs neither constraints nor
+    initialization (it is fully conjugate; belief propagation converges in
+    one sweep).
+
+    Deriving F/H/Q/R from discrete A/B/C/D would fabricate data, so a spec
+    reaching this strategy without them raises ``ValueError`` naming the
+    missing keys.
+    """
+
+    kind = ModelKind.CONTINUOUS
+
+    _REQUIRED_KEYS = ("F", "H", "Q", "R", "prior_mean", "prior_cov")
+
+    def get_validation_fields(self) -> List[str]:
+        return [
+            "vfe_finite",
+            "means_finite",
+            "posterior_cov_psd",
+            "inference_converged",
+            "rmse_vs_true",
+            "rmse_finite",
+        ]
+
+    def generate_model_code(self, gnn_spec: Dict[str, Any], model_name: str) -> str:
+        """Generate the native linear-Gaussian RxInfer.jl script.
+
+        Delegates to ``_strategies_continuous`` \u2014 see that module for the full
+        docstring. The generated Julia script text is identical to the original
+        monolithic implementation.
+        """
+        return _generate_continuous_code(gnn_spec, model_name, self.kind.value)
+
+
+class LearningStrategy(ModelStrategy):
+    """Dirichlet likelihood learning rendered natively (roadmap D1).
+
+    Specs carrying ``dirichlet_A`` pseudo-counts render onto
+    ``learning_pomdp_model``, where the likelihood ``A`` is a latent
+    ``DirichletCollection`` rather than a fixed constant. The structured
+    mean-field cut ``q(s, A) = q(s)q(A)`` plus marginal initialization of
+    both sides is required by RxInfer 5.5, and the counts must break
+    column-permutation symmetry (a uniform prior converges to a
+    label-switched optimum that the free energy alone will not catch \u2014
+    which is why ``a_distance_posterior`` is a hard gate).
+    """
+
+    kind = ModelKind.LEARNING
+
+    _REQUIRED_KEYS = ("dirichlet_A", "A", "B", "C", "D")
+
+    def get_validation_fields(self) -> List[str]:
+        return [
+            "all_beliefs_valid",
+            "beliefs_sum_to_one",
+            "actions_in_range",
+            "inference_converged",
+            "vfe_present",
+            "belief_entropy_ok",
+            "belief_accuracy",
+            "belief_accuracy_ok",
+            "a_learning_improved",
+            "a_posterior_columns_normalized",
+        ]
+
+    def generate_model_code(self, gnn_spec: Dict[str, Any], model_name: str) -> str:
+        """Generate the native Dirichlet-likelihood-learning RxInfer.jl script.
+
+        Delegates to ``_strategies_learning`` \u2014 see that module for the full
+        docstring. The generated Julia script text is identical to the original
+        monolithic implementation.
+        """
+        return _generate_learning_code(gnn_spec, model_name, self.kind.value)
+
+
+STRATEGY_REGISTRY: Dict[ModelKind, ModelStrategy] = {
+    ModelKind.FLAT: FlatStrategy(),
+    ModelKind.FACTORED: FactoredStrategy(),
+    ModelKind.HIERARCHICAL: HierarchicalStrategy(),
+    ModelKind.MULTI_AGENT: MultiAgentStrategy(),
+    ModelKind.CONTINUOUS: ContinuousStrategy(),
+    ModelKind.LEARNING: LearningStrategy(),
+}
+
+
+def get_model_strategy(model_kind: ModelKind) -> ModelStrategy:
+    """Return the registered strategy for a ``ModelKind``.
+
+    Structural wrapper specs have no render strategy: they declare boundary
+    structure only and must be reported unsupported upstream, never silently
+    rendered as a discrete stand-in.
+    """
+    if model_kind is ModelKind.STRUCTURAL:
+        raise ValueError(
+            "structural-spec: no renderable form — structural wrapper specs "
+            "declare boundary structure only (no discrete A/B/C/D[/E] and no "
+            "continuous F/H/Q/R parameterization)"
+        )
+    return STRATEGY_REGISTRY[model_kind]

@@ -1,1 +1,36 @@
-aW1wb3J0IHN5cywganNvbiwgcGF0aGxpYiwgb3MKUk9PVD0iL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiCnN5cy5wYXRoLmluc2VydCgwLCBST09UKyIvb3ZlcnNlYXMiKTsgb3MuY2hkaXIoUk9PVCkKZnJvbSBldmFsZ3VhcmQgaW1wb3J0IGNsaQpmcm9tIGV2YWxndWFyZC5jbGFzc2VzIGltcG9ydCBTWU5UQVgKQkFTRSA9IHBhdGhsaWIuUGF0aChST09UKyIvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9leHAxMzYiKQoKRCA9IEJBU0UvImNvcnB1czUiCnJvd3M9W107IHBlcj17fTsgdG90X2I9MApmb3IgZiBpbiBzb3J0ZWQoRC5nbG9iKCIqLnB5IikpOgogICAgYj1mLnN0YXQoKS5zdF9zaXplOyB0b3RfYis9YgogICAgdHJ5OiByZXM9Y2xpLnNjYW4oc3RyKGYpKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KCJTQ0FOIEZBSUwiLGYubmFtZSxlKTsgY29udGludWUKICAgIGZvciByIGluIHJlczoKICAgICAgICBlZz1yLmdldCgiZWdfaWQiLCIiKQogICAgICAgICMgQlVHIEZJWCAoZXhwMTM2KTogRUcwMDAgcmVjb3JkcyBhcmUgQVVESVQgbGluZXMsIG5vdCBmaW5kaW5ncy4KICAgICAgICAjIHYxIGNvdW50ZWQgdGhlbSBhbmQgcmVwb3J0ZWQgIm1ldGhvZG9sb2d5IGZpcmVkIDV4IiBvbiB0aGlzIGNvcnB1cy4KICAgICAgICAjIEl0IGZpcmVkIHplcm8gdGltZXM7IEkgaGFkIGNvdW50ZWQgdGhlIGF1ZGl0IGxlZGdlciBhcyBvdXRwdXQuCiAgICAgICAgaWYgZWcgPT0gIkVHMDAwIiBvciByLmdldCgic2V2ZXJpdHkiKT09ImluZm8iOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGZvciBoIGluIHIuZ2V0KCJoaXRzIixbXSk6CiAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsiZmlsZSI6Zi5uYW1lLCJlZyI6ZWcsImxpbmUiOmguZ2V0KCJsaW5lIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAiaGl0IjpoLmdldCgiaGl0IiwiIiksInRpdGxlIjpyLmdldCgidGl0bGUiLCIiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICJ3aHkiOnIuZ2V0KCJ3aHkiLCIiKSwic2V2IjpyLmdldCgic2V2ZXJpdHkiLCIiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICJjbHMiOiJzeW50YXgiIGlmIGVnIGluIFNZTlRBWCBlbHNlICJtZXRob2RvbG9neSJ9KQogICAgICAgICAgICBpZiBlZyBpbiBTWU5UQVg6IHBlcltmLm5hbWVdPXBlci5nZXQoZi5uYW1lLDApKzEKICAgIHBlci5zZXRkZWZhdWx0KGYubmFtZSwwKQpzeW49W3IgZm9yIHIgaW4gcm93cyBpZiByWyJjbHMiXT09InN5bnRheCJdCnByaW50KCJmaWxlcyIsbGVuKHBlciksImJ5dGVzIix0b3RfYikKcHJpbnQoImZpbmRpbmdzIixsZW4ocm93cyksInN5bnRheCIsbGVuKHN5biksIm1ldGhvZG9sb2d5IixsZW4ocm93cyktbGVuKHN5bikpCnByaW50KCJwZXJfa2IgU1lOVEFYICUuNGYiJShsZW4oc3luKS90b3RfYioxMDAwKSkKcHJpbnQoInNpbGVudCIsc3VtKDEgZm9yIHYgaW4gcGVyLnZhbHVlcygpIGlmIHY9PTApLCIvIixsZW4ocGVyKSkKKEJBU0UvInNjYW41Lmpzb24iKS53cml0ZV90ZXh0KGpzb24uZHVtcHMocm93cyxpbmRlbnQ9MSkpCihCQVNFLyJwZXI1Lmpzb24iKS53cml0ZV90ZXh0KGpzb24uZHVtcHMoeyJwZXIiOnBlciwiYnl0ZXMiOnRvdF9iLAogICJmaWxlcyI6bGVuKHBlciksInN5biI6bGVuKHN5biksIm1ldGgiOmxlbihyb3dzKS1sZW4oc3luKX0saW5kZW50PTEpKQo=
+import sys, json, pathlib, os
+ROOT="/data/workspace/luoshen-o1"
+sys.path.insert(0, ROOT+"/overseas"); os.chdir(ROOT)
+from evalguard import cli
+from evalguard.classes import SYNTAX
+BASE = pathlib.Path(ROOT+"/experiments/exp129_corpus/exp136")
+
+D = BASE/"corpus5"
+rows=[]; per={}; tot_b=0
+for f in sorted(D.glob("*.py")):
+    b=f.stat().st_size; tot_b+=b
+    try: res=cli.scan(str(f))
+    except Exception as e:
+        print("SCAN FAIL",f.name,e); continue
+    for r in res:
+        eg=r.get("eg_id","")
+        # BUG FIX (exp136): EG000 records are AUDIT lines, not findings.
+        # v1 counted them and reported "methodology fired 5x" on this corpus.
+        # It fired zero times; I had counted the audit ledger as output.
+        if eg == "EG000" or r.get("severity")=="info":
+            continue
+        for h in r.get("hits",[]):
+            rows.append({"file":f.name,"eg":eg,"line":h.get("line"),
+                         "hit":h.get("hit",""),"title":r.get("title",""),
+                         "why":r.get("why",""),"sev":r.get("severity",""),
+                         "cls":"syntax" if eg in SYNTAX else "methodology"})
+            if eg in SYNTAX: per[f.name]=per.get(f.name,0)+1
+    per.setdefault(f.name,0)
+syn=[r for r in rows if r["cls"]=="syntax"]
+print("files",len(per),"bytes",tot_b)
+print("findings",len(rows),"syntax",len(syn),"methodology",len(rows)-len(syn))
+print("per_kb SYNTAX %.4f"%(len(syn)/tot_b*1000))
+print("silent",sum(1 for v in per.values() if v==0),"/",len(per))
+(BASE/"scan5.json").write_text(json.dumps(rows,indent=1))
+(BASE/"per5.json").write_text(json.dumps({"per":per,"bytes":tot_b,
+  "files":len(per),"syn":len(syn),"meth":len(rows)-len(syn)},indent=1))

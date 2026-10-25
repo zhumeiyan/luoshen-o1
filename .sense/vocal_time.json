@@ -1,1 +1,47 @@
-ewogInJvd3MiOiBbCiAgewogICAiYXN5bSI6IDAuMCwKICAgImppdHRlciI6IDIuNzQxMTAzMjI4MjE0MTEyN2UtMDcsCiAgICJqaXR0ZXJfbm9pc2VsZXNzIjogMi43ODE3NjY3ODc5NDU4MzU0ZS0wNywKICAgImYwIjogMTIwLjAwNzgzMTY2NTM0NDc0CiAgfSwKICB7CiAgICJhc3ltIjogMC4wMiwKICAgImppdHRlciI6IDAuMDI2MTIwNTUxNTYyNzYyMTMsCiAgICJqaXR0ZXJfbm9pc2VsZXNzIjogMC4wMjYxMjExNDA3MjI4MTMwNiwKICAgImYwIjogMTIxLjUyMDk3OTI4MTcwNTA3CiAgfSwKICB7CiAgICJhc3ltIjogMC4wNSwKICAgImppdHRlciI6IDAuMDQwNjcxMDI4NjAzMjA0NjYsCiAgICJqaXR0ZXJfbm9pc2VsZXNzIjogMC4wNDA2NzExMjQ0NjI5NDMyOSwKICAgImYwIjogMTIzLjA0NjU3NDI1NTA4MjcKICB9LAogIHsKICAgImFzeW0iOiAwLjEsCiAgICJqaXR0ZXIiOiAwLjA4ODA5NjE3MDk5MDAzMTM0LAogICAiaml0dGVyX25vaXNlbGVzcyI6IDAuMDg4MDk2MTgwOTczMTA0NDEsCiAgICJmMCI6IDEyNi4xNjU3NzkwODUzMzc2CiAgfSwKICB7CiAgICJhc3ltIjogMC4yLAogICAiaml0dGVyIjogMC4xNzg3NjM3OTc5MzczODk0LAogICAiaml0dGVyX25vaXNlbGVzcyI6IDAuMTc4NzY2OTM5NTE0MDgzMjMsCiAgICJmMCI6IDEzMS4zMjk3NTc0MjAzNgogIH0KIF0sCiAib2siOiB7CiAgIuKRoCBhc3ltPTAg5LiU5peg5ZmqIOKGkiBqaXR0ZXI9MO+8iOWvueensOWjsOW4puaXoOW+ruaJsO+8iSI6IHRydWUsCiAgIuKRoSBhc3ltPjAg5peg5ZmqIOKGkiBqaXR0ZXIg5pi+6JGXPjDvvIjmiYvmgKfljZXni6zlsLHog73kuqfnlJ/lvq7mibDvvIkiOiB0cnVlLAogICLikaIgaml0dGVyIOmajyBhc3ltIOWNleiwg+S4iuWNhyI6IHRydWUsCiAgIuKRoyDmnInlmarml7Ygaml0dGVyIOiQveWcqCBSRUFMIOiMg+WbtO+8iDwxJe+8iSI6IGZhbHNlLAogICLikaQgRjAg5Z2H5YC85o6l6L+R6K6+5a6a5YC8IDEyMCBIeiI6IHRydWUKIH0sCiAiY29hcnRfZnJhYyI6IDAuNDc1LAogImNvYXJ0X29rIjogdHJ1ZSwKICJzdXBwcmVzc19wY3QiOiAyNC4wOTg5NDY2MjAzNzU5OTQsCiAic3VwcHJlc3Nfb2siOiB0cnVlLAogImRhZl9wZWFrX21zIjogMjAwLjAsCiAiZGFmX29rIjogdHJ1ZQp9
+{
+ "rows": [
+  {
+   "asym": 0.0,
+   "jitter": 2.7411032282141127e-07,
+   "jitter_noiseless": 2.7817667879458354e-07,
+   "f0": 120.00783166534474
+  },
+  {
+   "asym": 0.02,
+   "jitter": 0.02612055156276213,
+   "jitter_noiseless": 0.02612114072281306,
+   "f0": 121.52097928170507
+  },
+  {
+   "asym": 0.05,
+   "jitter": 0.04067102860320466,
+   "jitter_noiseless": 0.04067112446294329,
+   "f0": 123.0465742550827
+  },
+  {
+   "asym": 0.1,
+   "jitter": 0.08809617099003134,
+   "jitter_noiseless": 0.08809618097310441,
+   "f0": 126.1657790853376
+  },
+  {
+   "asym": 0.2,
+   "jitter": 0.1787637979373894,
+   "jitter_noiseless": 0.17876693951408323,
+   "f0": 131.32975742036
+  }
+ ],
+ "ok": {
+  "① asym=0 且无噪 → jitter=0（对称声带无微扰）": true,
+  "② asym>0 无噪 → jitter 显著>0（手性单独就能产生微扰）": true,
+  "③ jitter 随 asym 单调上升": true,
+  "④ 有噪时 jitter 落在 REAL 范围（<1%）": false,
+  "⑤ F0 均值接近设定值 120 Hz": true
+ },
+ "coart_frac": 0.475,
+ "coart_ok": true,
+ "suppress_pct": 24.098946620375994,
+ "suppress_ok": true,
+ "daf_peak_ms": 200.0,
+ "daf_ok": true
+}

@@ -1,1 +1,55 @@
-aW1wb3J0IHJlcXVlc3RzDQppbXBvcnQgb3MNCmltcG9ydCBzeXMNCg0KcHJveGllcyA9IHt9DQppZiBsZW4oc3lzLmFyZ3YpID09IDI6DQogICAgcHJveGllcyA9IHsNCiAgICAgICAgICAgICAgICAnaHR0cCcgOiBzeXMuYXJndlsxXSwNCiAgICAgICAgICAgICAgICAnaHR0cHMnIDogc3lzLmFyZ3ZbMV0NCiAgICAgICAgICAgICAgfQ0KDQpuYSA9ICdodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTGVCYXphckRlQnJ5YW4vWFRWWl8vbWFpbi9JbWFnZXMvT2ZmbGluZS5tcDQnDQpkZWYgZ3JhYihsaW5lKToNCiAgICB0cnk6DQogICAgICAgIF9pZCA9IGxpbmUuc3BsaXQoJy8nKVs0XQ0KICAgICAgICByZXNwb25zZSA9IHMuZ2V0KGYnaHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3BsYXllci9tZXRhZGF0YS92aWRlby97X2lkfScsIHByb3hpZXM9cHJveGllcykuanNvbigpWydxdWFsaXRpZXMnXVsnYXV0byddWzBdWyd1cmwnXQ0KICAgICAgICBtM3UgPSBzLmdldChyZXNwb25zZSwgcHJveGllcz1wcm94aWVzKS50ZXh0DQogICAgICAgIG0zdSA9IG0zdS5zdHJpcCgpLnNwbGl0KCdcbicpWzE6XQ0KICAgICAgICBkID0ge30NCiAgICAgICAgY25kID0gVHJ1ZQ0KICAgICAgICBmb3IgaXRlbSBpbiBtM3U6DQogICAgICAgICAgICBpZiBjbmQ6DQogICAgICAgICAgICAgICAgcmVzb2x1dGlvbiA9IGl0ZW0uc3RyaXAoKS5zcGxpdCgnLCcpWzJdLnNwbGl0KCc9JylbMV0NCiAgICAgICAgICAgICAgICBpZiByZXNvbHV0aW9uIG5vdCBpbiBkOg0KICAgICAgICAgICAgICAgICAgICBkW3Jlc29sdXRpb25dID0gW10NCiAgICAgICAgICAgIGVsc2U6DQogICAgICAgICAgICAgICAgZFtyZXNvbHV0aW9uXT0gaXRlbQ0KICAgICAgICAgICAgY25kID0gbm90IGNuZA0KICAgICAgICBtM3UgPSBkW21heChkLCBrZXk9aW50KV0gICAgDQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOg0KICAgICAgICBtM3UgPSBuYQ0KICAgIGZpbmFsbHk6DQogICAgICAgIHByaW50KG0zdSkNCg0KcHJpbnQoJyNFWFRNM1UnKQ0KcHJpbnQoJyNFWFQtWC1WRVJTSU9OOjMnKQ0KcHJpbnQoJyNFWFQtWC1TVFJFQU0tSU5GOlBST0dSQU0tSUQ9MSxCQU5EV0lEVEg9MjU2MDAwMCcpDQpzID0gcmVxdWVzdHMuU2Vzc2lvbigpDQp3aXRoIG9wZW4oJ1N0cmVhbS9JbmZvL0M4LnR4dCcpIGFzIGY6DQogICAgZm9yIGxpbmUgaW4gZjoNCiAgICAgICAgbGluZSA9IGxpbmUuc3RyaXAoKQ0KICAgICAgICBpZiBub3QgbGluZSBvciBsaW5lLnN0YXJ0c3dpdGgoJ35+Jyk6DQogICAgICAgICAgICBjb250aW51ZQ0KICAgICAgICBpZiBub3QgbGluZS5zdGFydHN3aXRoKCdodHRwczonKToNCiAgICAgICAgICAgIGxpbmUgPSBsaW5lLnNwbGl0KCd8JykNCiAgICAgICAgICAgIGNoX25hbWUgPSBsaW5lWzBdLnN0cmlwKCkNCiAgICAgICAgICAgIGdycF90aXRsZSA9IGxpbmVbMV0uc3RyaXAoKS50aXRsZSgpDQogICAgICAgICAgICB0dmdfbG9nbyA9IGxpbmVbMl0uc3RyaXAoKQ0KICAgICAgICAgICAgdHZnX2lkID0gbGluZVszXS5zdHJpcCgpDQogICAgICAgIGVsc2U6DQogICAgICAgICAgICBncmFiKGxpbmUpDQogICAgICAgICAgICANCmlmICd0ZW1wLnR4dCcgaW4gb3MubGlzdGRpcigpOg0KICAgIG9zLnN5c3RlbSgncm0gdGVtcC50eHQnKQ0KICAgIG9zLnN5c3RlbSgncm0gd2F0Y2gqJyk=
+import requests
+import os
+import sys
+
+proxies = {}
+if len(sys.argv) == 2:
+    proxies = {
+                'http' : sys.argv[1],
+                'https' : sys.argv[1]
+              }
+
+na = 'https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4'
+def grab(line):
+    try:
+        _id = line.split('/')[4]
+        response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities']['auto'][0]['url']
+        m3u = s.get(response, proxies=proxies).text
+        m3u = m3u.strip().split('\n')[1:]
+        d = {}
+        cnd = True
+        for item in m3u:
+            if cnd:
+                resolution = item.strip().split(',')[2].split('=')[1]
+                if resolution not in d:
+                    d[resolution] = []
+            else:
+                d[resolution]= item
+            cnd = not cnd
+        m3u = d[max(d, key=int)]    
+    except Exception as e:
+        m3u = na
+    finally:
+        print(m3u)
+
+print('#EXTM3U')
+print('#EXT-X-VERSION:3')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
+s = requests.Session()
+with open('Stream/Info/C8.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+        else:
+            grab(line)
+            
+if 'temp.txt' in os.listdir():
+    os.system('rm temp.txt')
+    os.system('rm watch*')

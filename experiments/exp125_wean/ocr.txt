@@ -1,1 +1,16 @@
-ZmcgZGVhZCB6b25lIF8gZmc9MC4wMDcgMCBvZiAyNCBhbGl2ZQpmZyBhbGl2ZSB6b25lIGZnPTAuMDA4IDExIG9mIDI0IGFsaXZlCmRyaXAgc3VzdGFpbiAxNiBvZiAxNiBhbGl2ZQoKZm9yYWdlIHN1c3RhaW4gMTMgb2YgMTYgYWxpdmUKCmN1dCBmZz0wIDAgb2YgMTIgbGFzdCAyMzUKCmN1dCBmZz0wLjAzMCA4b2YgMTIgbGFzdCAxMTE3CmNhcDcgZGVjYXkgMS4wMDAgLT4gMC4yMjkKCnNrZXcgZGVsdGEgIC0wLjAxNDEgQ0kgY3Jvc3NPClRPS0VOIFpCM1lFCgoxMjUgV0VBTiBTRUxGLUNIRUNLCgw=
+fg dead zone _ fg=0.007 0 of 24 alive
+fg alive zone fg=0.008 11 of 24 alive
+drip sustain 16 of 16 alive
+
+forage sustain 13 of 16 alive
+
+cut fg=0 0 of 12 last 235
+
+cut fg=0.030 8of 12 last 1117
+cap7 decay 1.000 -> 0.229
+
+skew delta  -0.0141 CI crossO
+TOKEN ZB3YE
+
+125 WEAN SELF-CHECK
+

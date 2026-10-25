@@ -1,1 +1,54 @@
-IiIiUHJvdmUgdGhhdCBkaXN0cmlidXRlZCBDSSBleGVjdXRlZCB0aGUgY29tcGxldGUsIGlkZW50aWNhbCBweXRlc3QgY29sbGVjdGlvbi4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgaGFzaGxpYgppbXBvcnQganNvbgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCgpkZWYgc2hhcmRfZm9yKG5vZGVpZDogc3RyLCBjb3VudDogaW50KSAtPiBpbnQ6CiAgICAjIEtlZXAgbW9kdWxlIGZpeHR1cmVzIGFuZCBmaWxlLWxldmVsIGNvbmN1cnJlbmN5IHRlc3RzIHRvZ2V0aGVyLgogICAgZmlsZW5hbWUgPSBub2RlaWQuc3BsaXQoIjo6IiwgMSlbMF0KICAgIHJldHVybiBpbnQuZnJvbV9ieXRlcyhoYXNobGliLnNoYTI1NihmaWxlbmFtZS5lbmNvZGUoKSkuZGlnZXN0KClbOjhdLCAiYmlnIikgJSBjb3VudAoKCmRlZiB2ZXJpZnkobWFuaWZlc3RzOiBsaXN0W2RpY3RdLCAqLCBjb3VudDogaW50LCByZXZpc2lvbjogc3RyKSAtPiBpbnQ6CiAgICBpZiBjb3VudCA8IDEgb3IgbGVuKG1hbmlmZXN0cykgIT0gY291bnQ6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigibWlzc2luZyBvciBleHRyYSBzaGFyZCBtYW5pZmVzdHMiKQogICAgaWYgc29ydGVkKG1bInNoYXJkIl0gZm9yIG0gaW4gbWFuaWZlc3RzKSAhPSBsaXN0KHJhbmdlKGNvdW50KSk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigibWlzc2luZyBvciBkdXBsaWNhdGUgc2hhcmQgaW5kaWNlcyIpCiAgICBmdWxsID0gbWFuaWZlc3RzWzBdWyJjb2xsZWN0ZWQiXQogICAgaWYgbm90IGZ1bGwgb3IgbGVuKGZ1bGwpICE9IGxlbihzZXQoZnVsbCkpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImVtcHR5IG9yIGR1cGxpY2F0ZSBmdWxsIGNvbGxlY3Rpb24iKQogICAgY29tcGxldGVkID0gW10KICAgIGZvciBtYW5pZmVzdCBpbiBtYW5pZmVzdHM6CiAgICAgICAgaWYgbWFuaWZlc3RbInJldmlzaW9uIl0gIT0gcmV2aXNpb24gb3IgbWFuaWZlc3RbImNvdW50Il0gIT0gY291bnQ6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIndyb25nIHJldmlzaW9uIG9yIHNoYXJkIGNvdW50IikKICAgICAgICBpZiBtYW5pZmVzdFsiZXhpdHN0YXR1cyJdICE9IDAgb3IgbWFuaWZlc3RbImVycm9ycyJdOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJmYWlsZWQgb3IgaW5jb21wbGV0ZSBzaGFyZCIpCiAgICAgICAgaWYgbWFuaWZlc3RbImNvbGxlY3RlZCJdICE9IGZ1bGw6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInNoYXJkcyBkaXNhZ3JlZSBvbiBmdWxsIGNvbGxlY3Rpb24iKQogICAgICAgIGV4cGVjdGVkID0gc29ydGVkKG4gZm9yIG4gaW4gZnVsbCBpZiBzaGFyZF9mb3IobiwgY291bnQpID09IG1hbmlmZXN0WyJzaGFyZCJdKQogICAgICAgIGlmIG1hbmlmZXN0WyJzZWxlY3RlZCJdICE9IGV4cGVjdGVkIG9yIHNvcnRlZChtYW5pZmVzdFsiY29tcGxldGVkIl0pICE9IGV4cGVjdGVkOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJtaXNzaW5nLCBkdXBsaWNhdGUsIG9yIHVuZXhwZWN0ZWQgdGVzdCBleGVjdXRpb24iKQogICAgICAgIGNvbXBsZXRlZC5leHRlbmQobWFuaWZlc3RbImNvbXBsZXRlZCJdKQogICAgaWYgc29ydGVkKGNvbXBsZXRlZCkgIT0gZnVsbDoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJzaGFyZCB1bmlvbiBkaWZmZXJzIGZyb20gZnVsbCBjb2xsZWN0aW9uIikKICAgIHJldHVybiBsZW4oZnVsbCkKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj1fX2RvY19fKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiZGlyZWN0b3J5IiwgdHlwZT1QYXRoKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jb3VudCIsIHR5cGU9aW50LCByZXF1aXJlZD1UcnVlKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1yZXZpc2lvbiIsIHJlcXVpcmVkPVRydWUpCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQogICAgbWFuaWZlc3RzID0gW2pzb24ubG9hZHMocC5yZWFkX3RleHQoKSkgZm9yIHAgaW4gc29ydGVkKGFyZ3MuZGlyZWN0b3J5LnJnbG9iKCJtYW5pZmVzdC5qc29uIikpXQogICAgdG90YWwgPSB2ZXJpZnkobWFuaWZlc3RzLCBjb3VudD1hcmdzLmNvdW50LCByZXZpc2lvbj1hcmdzLnJldmlzaW9uKQogICAgcHJpbnQoZiJWZXJpZmllZCB7dG90YWx9IGNvbGxlY3RlZCB0ZXN0cyBleGVjdXRlZCBleGFjdGx5IG9uY2UgYWNyb3NzIHthcmdzLmNvdW50fSBzaGFyZHMiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""Prove that distributed CI executed the complete, identical pytest collection."""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+from pathlib import Path
+
+
+def shard_for(nodeid: str, count: int) -> int:
+    # Keep module fixtures and file-level concurrency tests together.
+    filename = nodeid.split("::", 1)[0]
+    return int.from_bytes(hashlib.sha256(filename.encode()).digest()[:8], "big") % count
+
+
+def verify(manifests: list[dict], *, count: int, revision: str) -> int:
+    if count < 1 or len(manifests) != count:
+        raise ValueError("missing or extra shard manifests")
+    if sorted(m["shard"] for m in manifests) != list(range(count)):
+        raise ValueError("missing or duplicate shard indices")
+    full = manifests[0]["collected"]
+    if not full or len(full) != len(set(full)):
+        raise ValueError("empty or duplicate full collection")
+    completed = []
+    for manifest in manifests:
+        if manifest["revision"] != revision or manifest["count"] != count:
+            raise ValueError("wrong revision or shard count")
+        if manifest["exitstatus"] != 0 or manifest["errors"]:
+            raise ValueError("failed or incomplete shard")
+        if manifest["collected"] != full:
+            raise ValueError("shards disagree on full collection")
+        expected = sorted(n for n in full if shard_for(n, count) == manifest["shard"])
+        if manifest["selected"] != expected or sorted(manifest["completed"]) != expected:
+            raise ValueError("missing, duplicate, or unexpected test execution")
+        completed.extend(manifest["completed"])
+    if sorted(completed) != full:
+        raise ValueError("shard union differs from full collection")
+    return len(full)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("directory", type=Path)
+    parser.add_argument("--count", type=int, required=True)
+    parser.add_argument("--revision", required=True)
+    args = parser.parse_args()
+    manifests = [json.loads(p.read_text()) for p in sorted(args.directory.rglob("manifest.json"))]
+    total = verify(manifests, count=args.count, revision=args.revision)
+    print(f"Verified {total} collected tests executed exactly once across {args.count} shards")
+
+
+if __name__ == "__main__":
+    main()

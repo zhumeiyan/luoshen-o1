@@ -1,1 +1,30 @@
-WwogewogICJyZXAiOiAidW5pZ3JhbSIsCiAgIk1JIjogMC41NDM3Njc5NTYzMTcwNTMsCiAgImRpc2MiOiAwLjAsCiAgInRwciI6IDAuMCwKICAiZnByIjogMC4wCiB9LAogewogICJyZXAiOiAiYmlncmFtIiwKICAiTUkiOiAwLjU0Mzc2Nzk1NjMxNzA1MywKICAiZGlzYyI6IDAuMCwKICAidHByIjogMC4wLAogICJmcHIiOiAwLjAKIH0sCiB7CiAgInJlcCI6ICJmaXJzdCIsCiAgIk1JIjogMC4yMjMxOTEyMzEzMDY3NTEyMywKICAiZGlzYyI6IDAuMTMzMzE2NDk0MDY0MTU3NjMsCiAgInRwciI6IDAuMTgzNzgzNzgzNzgzNzgzOCwKICAiZnByIjogMC4wNTA0NjcyODk3MTk2MjYxNwogfSwKIHsKICAicmVwIjogImxlbiIsCiAgIk1JIjogMC4wMTk5NTg5NDA4NzEzMDcxLAogICJkaXNjIjogMC4wNDYzNzUzNDczMDk5MjY3NSwKICAidHByIjogMC4wNTk0NTk0NTk0NTk0NTk0NiwKICAiZnByIjogMC4wMTMwODQxMTIxNDk1MzI3MTEKIH0KXQ==
+[
+ {
+  "rep": "unigram",
+  "MI": 0.543767956317053,
+  "disc": 0.0,
+  "tpr": 0.0,
+  "fpr": 0.0
+ },
+ {
+  "rep": "bigram",
+  "MI": 0.543767956317053,
+  "disc": 0.0,
+  "tpr": 0.0,
+  "fpr": 0.0
+ },
+ {
+  "rep": "first",
+  "MI": 0.22319123130675123,
+  "disc": 0.13331649406415763,
+  "tpr": 0.1837837837837838,
+  "fpr": 0.05046728971962617
+ },
+ {
+  "rep": "len",
+  "MI": 0.0199589408713071,
+  "disc": 0.04637534730992675,
+  "tpr": 0.05945945945945946,
+  "fpr": 0.013084112149532711
+ }
+]

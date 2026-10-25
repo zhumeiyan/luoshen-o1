@@ -1,1 +1,1 @@
-bnVtcHk+PTEuMjAK
+numpy>=1.20

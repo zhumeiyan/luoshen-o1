@@ -1,1 +1,235 @@
-ewogIkEiOiB7CiAgIm5fc2VudHMiOiA4NCwKICAibl9kZXNpcmUiOiAyMiwKICAibl90ciI6IDU4LAogICJuX3RlIjogMjYsCiAgIm5fZGVzaXJlX3RyIjogMTUsCiAgImNvdl9mdWxsIjogMC4yNTA1MzA3ODU1NjI2MzI3LAogICJjb3ZfZGVzIjogMC4xMjMxNDIyNTA1MzA3ODU1NiwKICAiY292X3JhbmQiOiAwLjEyODY2MjQyMDM4MjE2NTYzLAogICJsaWZ0X3ZzX2Z1bGwiOiAtMC41MDg0NzQ1NzYyNzExODY0LAogICJsaWZ0X3ZzX3JhbmQiOiAtMC4wNDI5MDQyOTA0MjkwNDMwOSwKICAiYml0c19mdWxsIjogMzUuMTg5MDYwMzU2NjQ3NzIsCiAgImJpdHNfZGVzIjogMzguOTA2MDAxMDUzNzE2ODM1LAogICJiaXRzX3JhbmQiOiAzOC4zOTcxNDY1OTY1MTkzMSwKICAid29yZF9saWZ0X3ZzX2Z1bGwiOiAtMC4wOTU1MzY0MzY0NDY4NDAwNywKICAicmF0ZV9oaXQiOiAwLjE4NzUsCiAgInJhdGVfbWlzcyI6IDAuMDY5ODkyNDczMTE4Mjc5NTYsCiAgIm5faGl0IjogNDgsCiAgIm5fbWlzcyI6IDE4NiwKICAiY292ZXJhZ2Vfb2ZfZGVzaXJlIjogMC4xMjMxNDIyNTA1MzA3ODU1NgogfSwKICJCIjogewogICJwb2ludHMiOiBbCiAgIHsKICAgICJyX20iOiA1ZS0wOSwKICAgICJEIjogNC45Mzc5MTI2NTIyNDQ1NDRlLTExLAogICAgInJtc19tIjogOS45Mzc3MTg3MDQyNTQ1NTdlLTA2LAogICAgInBhcnRpY2xlX3Zpc2libGUiOiBmYWxzZSwKICAgICJtb3Rpb25fdmlzaWJsZSI6IHRydWUsCiAgICAib2JzZXJ2YWJsZSI6IGZhbHNlCiAgIH0sCiAgIHsKICAgICJyX20iOiAyLjVlLTA3LAogICAgIkQiOiA5Ljg3NTgyNTMwNDQ4OTA5ZS0xMywKICAgICJybXNfbSI6IDEuNDA1NDA1NjU3MDYwNTU3OGUtMDYsCiAgICAicGFydGljbGVfdmlzaWJsZSI6IHRydWUsCiAgICAibW90aW9uX3Zpc2libGUiOiB0cnVlLAogICAgIm9ic2VydmFibGUiOiB0cnVlCiAgIH0sCiAgIHsKICAgICJyX20iOiAxLjJlLTA1LAogICAgIkQiOiAyLjA1NzQ2MzYwNTEwMTg5MzVlLTE0LAogICAgInJtc19tIjogMi4wMjg1MjgzMzYwNjEzMzk0ZS0wNywKICAgICJwYXJ0aWNsZV92aXNpYmxlIjogdHJ1ZSwKICAgICJtb3Rpb25fdmlzaWJsZSI6IHRydWUsCiAgICAib2JzZXJ2YWJsZSI6IHRydWUKICAgfSwKICAgewogICAgInJfbSI6IDAuMDAwMSwKICAgICJEIjogMi40Njg5NTYzMjYxMjIyNzJlLTE1LAogICAgInJtc19tIjogNy4wMjcwMjgyODUzMDI3ODdlLTA4LAogICAgInBhcnRpY2xlX3Zpc2libGUiOiB0cnVlLAogICAgIm1vdGlvbl92aXNpYmxlIjogZmFsc2UsCiAgICAib2JzZXJ2YWJsZSI6IGZhbHNlCiAgIH0KICBdLAogICJ3aW5kb3dfbG8iOiAxLjAwNTc4NzU3MzYyMDU4MzVlLTA3LAogICJ3aW5kb3dfaGkiOiAxLjIyMzgyNDkzNjk2ODE5MjRlLTA1LAogICJwZXJyaW5faW5fd2luZG93IjogdHJ1ZQogfSwKICJDIjogewogICJsYXllcnMiOiBbCiAgIHsKICAgICJsYXllciI6ICJMMCIsCiAgICAibl9jaGFyIjogNzQsCiAgICAiYWxpdmUiOiAtNy4xMTkwNjM3MTMxMjg0MTQsCiAgICAiZ2FpbiI6IC03LjEyMzkwOTkxMDM0NjMzNiwKICAgICJhY2YxIjogMC45OTkzMTk3Mjc4OTExNTY0LAogICAgImRlbHRhIjogbnVsbAogICB9LAogICB7CiAgICAibGF5ZXIiOiAiTDEiLAogICAgIm5fY2hhciI6IDExMiwKICAgICJhbGl2ZSI6IC01Ljk1NTM4OTE3MTEzODE4MiwKICAgICJnYWluIjogLTUuOTU5NDQzMjE0MTQwOTk5LAogICAgImFjZjEiOiAwLjk5OTMxOTcyNzg5MTE1NjQsCiAgICAiZGVsdGEiOiAxLjE2MzY3NDU0MTk5MDIzMTcKICAgfSwKICAgewogICAgImxheWVyIjogIkwyIiwKICAgICJuX2NoYXIiOiAzMDU2LAogICAgImFsaXZlIjogMC4wMTQ1Nzg1MjM2NjMwNTM5OTgsCiAgICAiZ2FpbiI6IDAuODkwOTI3ODI5Nzc3NDcyLAogICAgImFjZjEiOiAwLjAxNjM2MzMwNDgzMzIyNjgzLAogICAgImRlbHRhIjogNS45Njk5Njc2OTQ4MDEyMzYKICAgfSwKICAgewogICAgImxheWVyIjogIkwzIiwKICAgICJuX2NoYXIiOiAyNjYwOCwKICAgICJhbGl2ZSI6IC0wLjA2MzY1ODgzMTQwMDk2NTk4LAogICAgImdhaW4iOiAwLjg4MDAzNjg0MjA0OTY0NTMsCiAgICAiYWNmMSI6IC0wLjA3MjMzNjU1MjY5Nzg0MTI3LAogICAgImRlbHRhIjogLTAuMDc4MjM3MzU1MDY0MDE5OTgKICAgfSwKICAgewogICAgImxheWVyIjogIkw0IiwKICAgICJuX2NoYXIiOiAzMDYwOCwKICAgICJhbGl2ZSI6IC0wLjA1ODgxNDEwNzA5MTUxNDM3LAogICAgImdhaW4iOiAwLjg3ODQ5NDY2NDY0MDg3OTEsCiAgICAiYWNmMSI6IC0wLjA2Njk0ODczNTY3MTEwMDU5LAogICAgImRlbHRhIjogMC4wMDQ4NDQ3MjQzMDk0NTE2MTIKICAgfSwKICAgewogICAgImxheWVyIjogIkw1IiwKICAgICJuX2NoYXIiOiAzMTEyOCwKICAgICJhbGl2ZSI6IC0wLjA1OTM2Mzg0MDk0NzMyNjEzNSwKICAgICJnYWluIjogMC44NzgxMjg1MDg1MjI5OTAxLAogICAgImFjZjEiOiAtMC4wNjc2MDI2ODA0NDA0NDcxMSwKICAgICJkZWx0YSI6IC0wLjAwMDU0OTczMzg1NTgxMTc2NTQKICAgfSwKICAgewogICAgImxheWVyIjogIkw2IiwKICAgICJuX2NoYXIiOiAzMTI0OCwKICAgICJhbGl2ZSI6IC0wLjA2MDY5NTQ0OTQwOTAwNjMzLAogICAgImdhaW4iOiAwLjg3NzA2NDkxNjMzNjMwMTIsCiAgICAiYWNmMSI6IC0wLjA2OTIwMjkxNTYzMTk5Nzg3LAogICAgImRlbHRhIjogLTAuMDAxMzMxNjA4NDYxNjgwMTkyCiAgIH0KICBdLAogICJyYXRpbyI6IDAuMDA4NTI1NzYyOTE2OTc5NzQsCiAgImwwIjogLTcuMTE5MDYzNzEzMTI4NDE0LAogICJsNiI6IC0wLjA2MDY5NTQ0OTQwOTAwNjMzCiB9LAogIkQiOiB7CiAgInJvd3MiOiBbCiAgIHsKICAgICJjaGFubmVscyI6ICJiYXNlIiwKICAgICJuX2NoIjogMCwKICAgICJhY2MiOiAwLjI0NjQ3ODg3MzIzOTQzNjYyLAogICAgIm5fY2hhciI6IDIzODcKICAgfSwKICAgewogICAgImNoYW5uZWxzIjogIit0eXBlIiwKICAgICJuX2NoIjogMSwKICAgICJhY2MiOiAwLjU3MjgzMTQyMzg5NTI1MzcsCiAgICAibl9jaGFyIjogNDc3NAogICB9LAogICB7CiAgICAiY2hhbm5lbHMiOiAiK3BvcyIsCiAgICAibl9jaCI6IDIsCiAgICAiYWNjIjogMC4zMjc0MDg3OTMyNjQ3MzM0LAogICAgIm5fY2hhciI6IDcxNjEKICAgfSwKICAgewogICAgImNoYW5uZWxzIjogIittc2dsZW4iLAogICAgIm5fY2giOiAzLAogICAgImFjYyI6IDAuMjA0Mzg0NzI0MTg2NzA0NCwKICAgICJuX2NoYXIiOiA5NTQ4CiAgIH0sCiAgIHsKICAgICJjaGFubmVscyI6ICIrZGlzdHAiLAogICAgIm5fY2giOiA0LAogICAgImFjYyI6IDAuMjMzODE2OTY0Mjg1NzE0MjcsCiAgICAibl9jaGFyIjogMTE5MzUKICAgfSwKICAgewogICAgImNoYW5uZWxzIjogIittc2dpZCIsCiAgICAibl9jaCI6IDUsCiAgICAiYWNjIjogMC4xODgwMzA1NjAyNzE2NDY4NiwKICAgICJuX2NoYXIiOiAxNDMyMgogICB9LAogICB7CiAgICAiY2hhbm5lbHMiOiAiK2lkeCIsCiAgICAibl9jaCI6IDYsCiAgICAiYWNjIjogMC4xOTE2NTgwNDg5NDg2Mzg0LAogICAgIm5fY2hhciI6IDE2NzA5CiAgIH0sCiAgIHsKICAgICJjaGFubmVscyI6ICJiYXNlX3JlZHVudGVzdCIsCiAgICAibl9jaCI6IDAsCiAgICAiYWNjIjogMC4yNDY0Nzg4NzMyMzk0MzY2MiwKICAgICJuX2NoYXIiOiAyMzg3CiAgIH0sCiAgIHsKICAgICJjaGFubmVscyI6ICIrcmVkdW5kYW50X3JlZHVudGVzdCIsCiAgICAibl9jaCI6IDEsCiAgICAiYWNjIjogMC40NTI1Mzg2MzEzNDY1NzgzNSwKICAgICJuX2NoYXIiOiA0Nzc0CiAgIH0sCiAgIHsKICAgICJjaGFubmVscyI6ICIrdHlwZShyZWFsKV9yZWR1bnRlc3QiLAogICAgIm5fY2giOiAxLAogICAgImFjYyI6IDAuNTcyODMxNDIzODk1MjUzNywKICAgICJuX2NoYXIiOiA0Nzc0CiAgIH0KICBdLAogICJmaXJzdCI6IDAuMjQ2NDc4ODczMjM5NDM2NjIsCiAgImxhc3QiOiAwLjE5MTY1ODA0ODk0ODYzODQsCiAgInJhdGlvIjogMC43Nzc1ODQwODQzMDU5MDQzLAogICJyZWR1bmRhbnRfZHJvcCI6IDAuODM2MDEzODc1NzQ4OTc1LAogICJiYXNlX3IiOiAwLjI0NjQ3ODg3MzIzOTQzNjYyLAogICJyZWR1biI6IDAuNDUyNTM4NjMxMzQ2NTc4MzUKIH0sCiAiRSI6IHsKICAicm93cyI6IFsKICAgewogICAgImFscGhhIjogMC4wLAogICAgInNhdmUiOiAwLjA3Mzg3Mzg3Mzg3Mzg3Mzg3LAogICAgImh1cnQiOiAwLjA0Njg0Njg0Njg0Njg0Njg1LAogICAgIm5ldCI6IDAuMDI3MDI3MDI3MDI3MDI3MDMKICAgfSwKICAgewogICAgImFscGhhIjogMC41LAogICAgInNhdmUiOiAwLjA3Mzg3Mzg3Mzg3Mzg3Mzg3LAogICAgImh1cnQiOiAwLjAsCiAgICAibmV0IjogMC4wNzM4NzM4NzM4NzM4NzM4NwogICB9LAogICB7CiAgICAiYWxwaGEiOiAwLjgsCiAgICAic2F2ZSI6IDAuMDczODczODczODczODczODcsCiAgICAiaHVydCI6IDAuMCwKICAgICJuZXQiOiAwLjA3Mzg3Mzg3Mzg3Mzg3Mzg3CiAgIH0sCiAgIHsKICAgICJhbHBoYSI6IDAuOSwKICAgICJzYXZlIjogMC4wNzM4NzM4NzM4NzM4NzM4NywKICAgICJodXJ0IjogMC4wLAogICAgIm5ldCI6IDAuMDczODczODczODczODczODcKICAgfSwKICAgewogICAgImFscGhhIjogMC45NSwKICAgICJzYXZlIjogMC4wNzIwNzIwNzIwNzIwNzIwNywKICAgICJodXJ0IjogMC4wLAogICAgIm5ldCI6IDAuMDcyMDcyMDcyMDcyMDcyMDcKICAgfSwKICAgewogICAgImFscGhhIjogMS4wLAogICAgInNhdmUiOiAwLjAsCiAgICAiaHVydCI6IDAuMCwKICAgICJuZXQiOiAwLjAKICAgfQogIF0KIH0KfQ==
+{
+ "A": {
+  "n_sents": 84,
+  "n_desire": 22,
+  "n_tr": 58,
+  "n_te": 26,
+  "n_desire_tr": 15,
+  "cov_full": 0.2505307855626327,
+  "cov_des": 0.12314225053078556,
+  "cov_rand": 0.12866242038216563,
+  "lift_vs_full": -0.5084745762711864,
+  "lift_vs_rand": -0.04290429042904309,
+  "bits_full": 35.18906035664772,
+  "bits_des": 38.906001053716835,
+  "bits_rand": 38.39714659651931,
+  "word_lift_vs_full": -0.09553643644684007,
+  "rate_hit": 0.1875,
+  "rate_miss": 0.06989247311827956,
+  "n_hit": 48,
+  "n_miss": 186,
+  "coverage_of_desire": 0.12314225053078556
+ },
+ "B": {
+  "points": [
+   {
+    "r_m": 5e-09,
+    "D": 4.937912652244544e-11,
+    "rms_m": 9.937718704254557e-06,
+    "particle_visible": false,
+    "motion_visible": true,
+    "observable": false
+   },
+   {
+    "r_m": 2.5e-07,
+    "D": 9.87582530448909e-13,
+    "rms_m": 1.4054056570605578e-06,
+    "particle_visible": true,
+    "motion_visible": true,
+    "observable": true
+   },
+   {
+    "r_m": 1.2e-05,
+    "D": 2.0574636051018935e-14,
+    "rms_m": 2.0285283360613394e-07,
+    "particle_visible": true,
+    "motion_visible": true,
+    "observable": true
+   },
+   {
+    "r_m": 0.0001,
+    "D": 2.468956326122272e-15,
+    "rms_m": 7.027028285302787e-08,
+    "particle_visible": true,
+    "motion_visible": false,
+    "observable": false
+   }
+  ],
+  "window_lo": 1.0057875736205835e-07,
+  "window_hi": 1.2238249369681924e-05,
+  "perrin_in_window": true
+ },
+ "C": {
+  "layers": [
+   {
+    "layer": "L0",
+    "n_char": 74,
+    "alive": -7.119063713128414,
+    "gain": -7.123909910346336,
+    "acf1": 0.9993197278911564,
+    "delta": null
+   },
+   {
+    "layer": "L1",
+    "n_char": 112,
+    "alive": -5.955389171138182,
+    "gain": -5.959443214140999,
+    "acf1": 0.9993197278911564,
+    "delta": 1.1636745419902317
+   },
+   {
+    "layer": "L2",
+    "n_char": 3056,
+    "alive": 0.014578523663053998,
+    "gain": 0.890927829777472,
+    "acf1": 0.01636330483322683,
+    "delta": 5.969967694801236
+   },
+   {
+    "layer": "L3",
+    "n_char": 26608,
+    "alive": -0.06365883140096598,
+    "gain": 0.8800368420496453,
+    "acf1": -0.07233655269784127,
+    "delta": -0.07823735506401998
+   },
+   {
+    "layer": "L4",
+    "n_char": 30608,
+    "alive": -0.05881410709151437,
+    "gain": 0.8784946646408791,
+    "acf1": -0.06694873567110059,
+    "delta": 0.004844724309451612
+   },
+   {
+    "layer": "L5",
+    "n_char": 31128,
+    "alive": -0.059363840947326135,
+    "gain": 0.8781285085229901,
+    "acf1": -0.06760268044044711,
+    "delta": -0.0005497338558117654
+   },
+   {
+    "layer": "L6",
+    "n_char": 31248,
+    "alive": -0.06069544940900633,
+    "gain": 0.8770649163363012,
+    "acf1": -0.06920291563199787,
+    "delta": -0.001331608461680192
+   }
+  ],
+  "ratio": 0.00852576291697974,
+  "l0": -7.119063713128414,
+  "l6": -0.06069544940900633
+ },
+ "D": {
+  "rows": [
+   {
+    "channels": "base",
+    "n_ch": 0,
+    "acc": 0.24647887323943662,
+    "n_char": 2387
+   },
+   {
+    "channels": "+type",
+    "n_ch": 1,
+    "acc": 0.5728314238952537,
+    "n_char": 4774
+   },
+   {
+    "channels": "+pos",
+    "n_ch": 2,
+    "acc": 0.3274087932647334,
+    "n_char": 7161
+   },
+   {
+    "channels": "+msglen",
+    "n_ch": 3,
+    "acc": 0.2043847241867044,
+    "n_char": 9548
+   },
+   {
+    "channels": "+distp",
+    "n_ch": 4,
+    "acc": 0.23381696428571427,
+    "n_char": 11935
+   },
+   {
+    "channels": "+msgid",
+    "n_ch": 5,
+    "acc": 0.18803056027164686,
+    "n_char": 14322
+   },
+   {
+    "channels": "+idx",
+    "n_ch": 6,
+    "acc": 0.1916580489486384,
+    "n_char": 16709
+   },
+   {
+    "channels": "base_reduntest",
+    "n_ch": 0,
+    "acc": 0.24647887323943662,
+    "n_char": 2387
+   },
+   {
+    "channels": "+redundant_reduntest",
+    "n_ch": 1,
+    "acc": 0.45253863134657835,
+    "n_char": 4774
+   },
+   {
+    "channels": "+type(real)_reduntest",
+    "n_ch": 1,
+    "acc": 0.5728314238952537,
+    "n_char": 4774
+   }
+  ],
+  "first": 0.24647887323943662,
+  "last": 0.1916580489486384,
+  "ratio": 0.7775840843059043,
+  "redundant_drop": 0.836013875748975,
+  "base_r": 0.24647887323943662,
+  "redun": 0.45253863134657835
+ },
+ "E": {
+  "rows": [
+   {
+    "alpha": 0.0,
+    "save": 0.07387387387387387,
+    "hurt": 0.04684684684684685,
+    "net": 0.02702702702702703
+   },
+   {
+    "alpha": 0.5,
+    "save": 0.07387387387387387,
+    "hurt": 0.0,
+    "net": 0.07387387387387387
+   },
+   {
+    "alpha": 0.8,
+    "save": 0.07387387387387387,
+    "hurt": 0.0,
+    "net": 0.07387387387387387
+   },
+   {
+    "alpha": 0.9,
+    "save": 0.07387387387387387,
+    "hurt": 0.0,
+    "net": 0.07387387387387387
+   },
+   {
+    "alpha": 0.95,
+    "save": 0.07207207207207207,
+    "hurt": 0.0,
+    "net": 0.07207207207207207
+   },
+   {
+    "alpha": 1.0,
+    "save": 0.0,
+    "hurt": 0.0,
+    "net": 0.0
+   }
+  ]
+ }
+}

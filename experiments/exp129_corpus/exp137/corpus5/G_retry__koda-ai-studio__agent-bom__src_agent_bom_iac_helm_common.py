@@ -1,1 +1,103 @@
-IiIiU2hhcmVkIGhlbHBlcnMgZm9yIHRoZSBIZWxtIGNoYXJ0IGFuZCB2YWx1ZXMgc2Nhbm5lcnMuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgcmUKZnJvbSB0eXBpbmcgaW1wb3J0IEFueQoKZnJvbSBhZ2VudF9ib20uaWFjLm1vZGVscyBpbXBvcnQgSWFDRmluZGluZwoKIyBTZWNyZXQtbGlrZSBmaWVsZCBuYW1lIHBhdHRlcm5zIGZvciB2YWx1ZXMueWFtbApfU0VDUkVUX0ZJRUxEX1JFID0gcmUuY29tcGlsZSgKICAgIHIiKD86cGFzc3dvcmR8dG9rZW58c2VjcmV0fGtleXxjcmVkZW50aWFsfGF1dGgpIiwKICAgIHJlLklHTk9SRUNBU0UsCikKCiMgUGxhY2Vob2xkZXIgdmFsdWVzIHRoYXQgc2hvdWxkIE5PVCBiZSBmbGFnZ2VkCl9QTEFDRUhPTERFUl9WQUxVRVMgPSBmcm96ZW5zZXQoCiAgICB7CiAgICAgICAgIiIsCiAgICAgICAgImNoYW5nZW1lIiwKICAgICAgICAiQ0hBTkdFTUUiLAogICAgICAgICJyZXBsYWNlIiwKICAgICAgICAicGxhY2Vob2xkZXIiLAogICAgICAgICJUT0RPIiwKICAgIH0KKQoKX1BMQUNFSE9MREVSX1BSRUZJWF9SRSA9IHJlLmNvbXBpbGUociJeeW91clstX10iLCByZS5JR05PUkVDQVNFKQojIEhlbG0vSmluamEgdGVtcGxhdGUgZXhwcmVzc2lvbnMg4oCUIHJlc29sdmVkIGF0IGRlcGxveSB0aW1lLCBuZXZlciBoYXJkY29kZWQgc2VjcmV0cwpfVEVNUExBVEVfVkFSX1JFID0gcmUuY29tcGlsZShyIlx7XHsuKj9cfVx9IiwgcmUuRE9UQUxMKQpfU0VDUkVUX1JFRkVSRU5DRV9GSUVMRF9SRSA9IHJlLmNvbXBpbGUoCiAgICByIig/Ol50b3BvbG9neUtleSR8TGFiZWxLZXkkfFNlY3JldEtleSR8U2VjcmV0TmFtZSQpIiwKICAgIHJlLklHTk9SRUNBU0UsCikKCgpkZWYgX2ZpbmRfbGluZShjb250ZW50OiBzdHIsIGtleTogc3RyLCB2YWx1ZTogQW55LCBzdGFydF9saW5lOiBpbnQgPSAxKSAtPiBpbnQ6CiAgICAiIiJCZXN0LWVmZm9ydCBsaW5lIG51bWJlciBzZWFyY2ggZm9yIGEga2V5LXZhbHVlIHBhaXIgaW4gWUFNTCB0ZXh0LiIiIgogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgYm9vbCk6CiAgICAgICAgdmFsX3N0ciA9ICJ0cnVlIiBpZiB2YWx1ZSBlbHNlICJmYWxzZSIKICAgIGVsc2U6CiAgICAgICAgdmFsX3N0ciA9IHN0cih2YWx1ZSkKICAgIHBhdHRlcm4gPSByZiJ7cmUuZXNjYXBlKGtleSl9XHMqOlxzKntyZS5lc2NhcGUodmFsX3N0cil9IgogICAgZm9yIGksIGxpbmUgaW4gZW51bWVyYXRlKGNvbnRlbnQuc3BsaXRsaW5lcygpLCAxKToKICAgICAgICBpZiByZS5zZWFyY2gocGF0dGVybiwgbGluZSk6CiAgICAgICAgICAgIHJldHVybiBpCiAgICByZXR1cm4gc3RhcnRfbGluZQoKCmRlZiBfZmluZF9rZXlfbGluZShjb250ZW50OiBzdHIsIGtleTogc3RyLCBzdGFydF9saW5lOiBpbnQgPSAxKSAtPiBpbnQ6CiAgICAiIiJCZXN0LWVmZm9ydCBsaW5lIG51bWJlciBzZWFyY2ggZm9yIGEga2V5IGluIFlBTUwgdGV4dC4iIiIKICAgIGZvciBpLCBsaW5lIGluIGVudW1lcmF0ZShjb250ZW50LnNwbGl0bGluZXMoKSwgMSk6CiAgICAgICAgaWYgcmUuc2VhcmNoKHJmIlxie3JlLmVzY2FwZShrZXkpfVxzKjoiLCBsaW5lKToKICAgICAgICAgICAgcmV0dXJuIGkKICAgIHJldHVybiBzdGFydF9saW5lCgoKZGVmIF9pc19wbGFjZWhvbGRlcih2YWx1ZTogc3RyKSAtPiBib29sOgogICAgIiIiUmV0dXJuIFRydWUgaWYgdGhlIHZhbHVlIGlzIGEga25vd24gbm9uLXNlY3JldCBwbGFjZWhvbGRlci4iIiIKICAgIGlmIHZhbHVlIGluIF9QTEFDRUhPTERFUl9WQUxVRVM6CiAgICAgICAgcmV0dXJuIFRydWUKICAgIGlmIF9QTEFDRUhPTERFUl9QUkVGSVhfUkUubWF0Y2godmFsdWUpOgogICAgICAgIHJldHVybiBUcnVlCiAgICAjIEhlbG0vSmluamEgdGVtcGxhdGUgZXhwcmVzc2lvbnMgKHt7IC5WYWx1ZXMuKiB9fSkgYXJlIHJlc29sdmVkIGF0IGRlcGxveSB0aW1lCiAgICBpZiBfVEVNUExBVEVfVkFSX1JFLnNlYXJjaCh2YWx1ZSk6CiAgICAgICAgcmV0dXJuIFRydWUKICAgIHJldHVybiBGYWxzZQoKCmRlZiBfaXNfc2VjcmV0X3JlZmVyZW5jZV9maWVsZChrZXk6IHN0cikgLT4gYm9vbDoKICAgICIiIlJldHVybiBUcnVlIGZvciBLdWJlcm5ldGVzIHJlZmVyZW5jZS9tZXRhZGF0YSBrZXlzIHRoYXQgYXJlIG5vdCBzZWNyZXQgbWF0ZXJpYWwuIiIiCiAgICByZXR1cm4gYm9vbChfU0VDUkVUX1JFRkVSRU5DRV9GSUVMRF9SRS5zZWFyY2goa2V5KSkKCgpkZWYgX3dhbGtfc2VjcmV0X2ZpZWxkcyhvYmo6IEFueSwgY29udGVudDogc3RyLCBmaWxlX3BhdGg6IHN0ciwgZmluZGluZ3M6IGxpc3RbSWFDRmluZGluZ10pIC0+IE5vbmU6CiAgICAiIiJSZWN1cnNpdmVseSB3YWxrIGEgcGFyc2VkIFlBTUwgb2JqZWN0IGFuZCBmbGFnIHNlY3JldC1saWtlIGZpZWxkcyB3aXRoIHJlYWwgdmFsdWVzLiIiIgogICAgaWYgaXNpbnN0YW5jZShvYmosIGRpY3QpOgogICAgICAgIGZvciBrLCB2IGluIG9iai5pdGVtcygpOgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKGssIHN0cikgYW5kIF9TRUNSRVRfRklFTERfUkUuc2VhcmNoKGspIGFuZCBub3QgX2lzX3NlY3JldF9yZWZlcmVuY2VfZmllbGQoayk6CiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKHYsIHN0cikgYW5kIHYgYW5kIG5vdCBfaXNfcGxhY2Vob2xkZXIodik6CiAgICAgICAgICAgICAgICAgICAgZmluZGluZ3MuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgICAgICBJYUNGaW5kaW5nKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcnVsZV9pZD0iSEVMTS0wMDMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V2ZXJpdHk9ImNyaXRpY2FsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlPWYiSGFyZGNvZGVkIHNlY3JldCBpbiB2YWx1ZXMueWFtbDogJ3trfSciLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZT0oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiJGaWVsZCAne2t9JyBpbiB2YWx1ZXMueWFtbCBjb250YWlucyBhIGhhcmRjb2RlZCBzZWNyZXQgdmFsdWUuICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiVXNlIGVudmlyb25tZW50IHZhcmlhYmxlIHN1YnN0aXR1dGlvbiwgYSBTZWNyZXRzIFN0b3JlIENTSSBkcml2ZXIsICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAib3IgcmVmZXJlbmNlIGEgS3ViZXJuZXRlcyBTZWNyZXQgaW5zdGVhZCBvZiBoYXJkY29kaW5nIGNyZWRlbnRpYWxzLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlX3BhdGg9ZmlsZV9wYXRoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGluZV9udW1iZXI9X2ZpbmRfa2V5X2xpbmUoY29udGVudCwgayksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeT0iaGVsbSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wbGlhbmNlPVsiQ0lTLUs4cy01LjQuMSIsICJOSVNULUlBLTUiXSwKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgIyBSZWN1cnNlIGludG8gbmVzdGVkIHN0cnVjdHVyZXMgcmVnYXJkbGVzcwogICAgICAgICAgICBpZiBpc2luc3RhbmNlKHYsIChkaWN0LCBsaXN0KSk6CiAgICAgICAgICAgICAgICBfd2Fsa19zZWNyZXRfZmllbGRzKHYsIGNvbnRlbnQsIGZpbGVfcGF0aCwgZmluZGluZ3MpCiAgICBlbGlmIGlzaW5zdGFuY2Uob2JqLCBsaXN0KToKICAgICAgICBmb3IgaXRlbSBpbiBvYmo6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbSwgKGRpY3QsIGxpc3QpKToKICAgICAgICAgICAgICAgIF93YWxrX3NlY3JldF9maWVsZHMoaXRlbSwgY29udGVudCwgZmlsZV9wYXRoLCBmaW5kaW5ncykK
+"""Shared helpers for the Helm chart and values scanners."""
+
+from __future__ import annotations
+
+import re
+from typing import Any
+
+from agent_bom.iac.models import IaCFinding
+
+# Secret-like field name patterns for values.yaml
+_SECRET_FIELD_RE = re.compile(
+    r"(?:password|token|secret|key|credential|auth)",
+    re.IGNORECASE,
+)
+
+# Placeholder values that should NOT be flagged
+_PLACEHOLDER_VALUES = frozenset(
+    {
+        "",
+        "changeme",
+        "CHANGEME",
+        "replace",
+        "placeholder",
+        "TODO",
+    }
+)
+
+_PLACEHOLDER_PREFIX_RE = re.compile(r"^your[-_]", re.IGNORECASE)
+# Helm/Jinja template expressions — resolved at deploy time, never hardcoded secrets
+_TEMPLATE_VAR_RE = re.compile(r"\{\{.*?\}\}", re.DOTALL)
+_SECRET_REFERENCE_FIELD_RE = re.compile(
+    r"(?:^topologyKey$|LabelKey$|SecretKey$|SecretName$)",
+    re.IGNORECASE,
+)
+
+
+def _find_line(content: str, key: str, value: Any, start_line: int = 1) -> int:
+    """Best-effort line number search for a key-value pair in YAML text."""
+    if isinstance(value, bool):
+        val_str = "true" if value else "false"
+    else:
+        val_str = str(value)
+    pattern = rf"{re.escape(key)}\s*:\s*{re.escape(val_str)}"
+    for i, line in enumerate(content.splitlines(), 1):
+        if re.search(pattern, line):
+            return i
+    return start_line
+
+
+def _find_key_line(content: str, key: str, start_line: int = 1) -> int:
+    """Best-effort line number search for a key in YAML text."""
+    for i, line in enumerate(content.splitlines(), 1):
+        if re.search(rf"\b{re.escape(key)}\s*:", line):
+            return i
+    return start_line
+
+
+def _is_placeholder(value: str) -> bool:
+    """Return True if the value is a known non-secret placeholder."""
+    if value in _PLACEHOLDER_VALUES:
+        return True
+    if _PLACEHOLDER_PREFIX_RE.match(value):
+        return True
+    # Helm/Jinja template expressions ({{ .Values.* }}) are resolved at deploy time
+    if _TEMPLATE_VAR_RE.search(value):
+        return True
+    return False
+
+
+def _is_secret_reference_field(key: str) -> bool:
+    """Return True for Kubernetes reference/metadata keys that are not secret material."""
+    return bool(_SECRET_REFERENCE_FIELD_RE.search(key))
+
+
+def _walk_secret_fields(obj: Any, content: str, file_path: str, findings: list[IaCFinding]) -> None:
+    """Recursively walk a parsed YAML object and flag secret-like fields with real values."""
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            if isinstance(k, str) and _SECRET_FIELD_RE.search(k) and not _is_secret_reference_field(k):
+                if isinstance(v, str) and v and not _is_placeholder(v):
+                    findings.append(
+                        IaCFinding(
+                            rule_id="HELM-003",
+                            severity="critical",
+                            title=f"Hardcoded secret in values.yaml: '{k}'",
+                            message=(
+                                f"Field '{k}' in values.yaml contains a hardcoded secret value. "
+                                "Use environment variable substitution, a Secrets Store CSI driver, "
+                                "or reference a Kubernetes Secret instead of hardcoding credentials."
+                            ),
+                            file_path=file_path,
+                            line_number=_find_key_line(content, k),
+                            category="helm",
+                            compliance=["CIS-K8s-5.4.1", "NIST-IA-5"],
+                        )
+                    )
+            # Recurse into nested structures regardless
+            if isinstance(v, (dict, list)):
+                _walk_secret_fields(v, content, file_path, findings)
+    elif isinstance(obj, list):
+        for item in obj:
+            if isinstance(item, (dict, list)):
+                _walk_secret_fields(item, content, file_path, findings)

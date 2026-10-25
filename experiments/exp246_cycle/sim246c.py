@@ -1,1 +1,59 @@
-aW1wb3J0IGpzb24sIHJhbmRvbQojIHYy5L2c5bqfOiDmrLLmnJvop6blupXlkI7msqHmnIki5o2i5pa55ZCRIumHjee9riAtPiDlop7plb/lgZzlnKgwLjQ2LCDmlLvnoLTmgZIwOyDkuJTog73lipvlgLzlj6rmnInkuKTmoaMsIOaOkuW6j+aXoOernuS6iSAtPiBj5Yeg5LmO5peg5pWI5bqUCiMgdjM6IOiDveWKm+WIhue6pyjmnInkvY7kuo7pl6jmp5vnmoTnu5PmnoTmgKfpobksIOS5n+aciemrmOS6jueahCk7IOassuacm+inpuW6lT3op6blj5Ei5om+5paw5pa55ZCRIijph43nva4r5by65Yi25o2i55uu5qCHKQpOPTY7IFQ9NDAwOyBMUj0wLjEyOyBKVU1QPTAuNDU7IFRIRVRBPTAuNjA7IEJBU0U9MC4yMDsgRkxPT1I9MC4wNQpDQVA9WzAuNDIsMC41NSwwLjY4LDAuODAsMC45MCwwLjk4XSAgICMg5YmNMumhueWkqeiKseadv+S9juS6jumXqOanmz3nu5PmnoTmgKfnn63mnb8KZGVmIHNpbShjPTAuMCwgc2F0PTAuMzAsIGxlYXJuPTAuMzAsIHNlZWQ9MCwgdGhldGE9VEhFVEEsIG1vZGU9J2N5Y2xlJywgcmVvcmllbnQ9VHJ1ZSk6CiAgICByPXJhbmRvbS5SYW5kb20oc2VlZCo3OTE5KzExKQogICAgTD1bQkFTRV0qTjsga25vd249W0ZhbHNlXSpOOyBkZXNpcmU9MC42MDsgYnJrPTA7IHdhc3RlZD0wOyByZW9yPTA7IGxhc3Q9Tm9uZQogICAgZm9yIHQgaW4gcmFuZ2UoVCk6CiAgICAgICAgTGJhcj1tYXgoTCkKICAgICAgICBwZXJjPVtMW2ldK2MqKExiYXItTFtpXSkqci5yYW5kb20oKSBmb3IgaSBpbiByYW5nZShOKV0gICAjIOaHpuW8seaApzog6LaK5beu5omt5puy6LaK5aSnCiAgICAgICAgIyDlrabkuaA6IOivhuWIq+WkqeiKseadvywg5bey6K+G5Yir5LiU5bey5bCB6aG255qE6aG55LiN5YaN5L2c5Li655uu5qCHCiAgICAgICAgcG9vbD1baSBmb3IgaSBpbiByYW5nZShOKSBpZiBMW2ldPENBUFtpXS0xZS02IGFuZCBub3QgKGtub3duW2ldIGFuZCBDQVBbaV08dGhldGEpXQogICAgICAgIGlmIG5vdCBwb29sOiBwb29sPVtpIGZvciBpIGluIHJhbmdlKE4pIGlmIExbaV08Q0FQW2ldLTFlLTZdIG9yIGxpc3QocmFuZ2UoTikpCiAgICAgICAgaWYgICBtb2RlPT0nd2Vhayc6ICAgY2FuZD1taW4ocG9vbCxrZXk9bGFtYmRhIGk6TFtpXSkKICAgICAgICBlbGlmIG1vZGU9PSdzdHJvbmcnOiBjYW5kPW1heChwb29sLGtleT1sYW1iZGEgaTpMW2ldKQogICAgICAgIGVsc2U6ICAgICAgICAgICAgICAgIGNhbmQ9bWluKHBvb2wsa2V5PWxhbWJkYSBpOnBlcmNbaV0pCiAgICAgICAgaWYgbGFzdCBpcyBub3QgTm9uZSBhbmQgY2FuZD09bGFzdCBhbmQgbGVuKHBvb2wpPjE6CiAgICAgICAgICAgIGNhbmQ9bWluKFtpIGZvciBpIGluIHBvb2wgaWYgaSE9bGFzdF0sIGtleT1sYW1iZGEgaTpwZXJjW2ldKQogICAgICAgIHRndD1jYW5kOyBsYXN0PXRndAogICAgICAgIGlmIHIucmFuZG9tKCk8bGVhcm46CiAgICAgICAgICAgIGtub3duW3RndF09VHJ1ZQogICAgICAgICAgICBpZiBDQVBbdGd0XTx0aGV0YTogd2FzdGVkKz0xCiAgICAgICAgYmVmb3JlPUxbdGd0XTsgcm9vbT1DQVBbdGd0XS1MW3RndF0KICAgICAgICBMW3RndF09bWluKENBUFt0Z3RdLCBMW3RndF0rTFIqcm9vbSpkZXNpcmUpCiAgICAgICAgaWYgYmVmb3JlPHRoZXRhPD1MW3RndF06CiAgICAgICAgICAgIExbdGd0XT1taW4oQ0FQW3RndF0sIExbdGd0XStKVU1QKnJvb20pOyBicmsrPTE7IGRlc2lyZSo9KDEuMC1zYXQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZGVzaXJlPW1pbigxLjAsIGRlc2lyZSswLjA4KkxSKnJvb20pCiAgICAgICAgaWYgZGVzaXJlPD1GTE9PUisxZS05IGFuZCByZW9yaWVudDogICAgICAjIOassuacm+mZjeS9jiAtPiDmib7mlrDmlrnlkJEKICAgICAgICAgICAgZGVzaXJlPTAuMzUrMC4zMCpyLnJhbmRvbSgpOyByZW9yKz0xOyBsYXN0PU5vbmUKICAgICAgICBkZXNpcmU9bWF4KEZMT09SLCBkZXNpcmUpCiAgICByZXR1cm4gZGljdCjmgLvog73lips9cm91bmQoc3VtKEwpLDMpLCDmlLvnoLQ9YnJrLCDmtarotLk9d2FzdGVkLCDmjaLmlrnlkJE9cmVvciwg57uI5oCB5qyy5pybPXJvdW5kKGRlc2lyZSwzKSkKb3V0PXt9CnByaW50KCI9PSB2My1BIOaHpuW8seaApyBjIChzYXQ9MC4zMCwgbGVhcm49MC4zMCkgPT0iKQpwcmludCgiICBjICAgICDmgLvog73lipsgICDmlLvnoLQgIOa1qui0uSAg5o2i5pa55ZCRIikKZm9yIGNjIGluIFswLjAsMC4xLDAuMiwwLjMsMC41LDAuNywwLjksMS4wXToKICAgIHM9c2ltKGM9Y2MpOyBvdXRbJ2M9JS4xZiclY2NdPXM7IHByaW50KCIgICUtNi4xZiAlLTguM2YgJS01ZCAlLTZkICVkIiUoY2Msc1sn5oC76IO95YqbJ10sc1sn5pS756C0J10sc1sn5rWq6LS5J10sc1sn5o2i5pa55ZCRJ10pKQpwcmludCgiXG49PSB2My1CIOassuacm+mZjeS9jiBzYXQgKGM9MC4zKSA9PSIpCnByaW50KCIgIHNhdCAgIOaAu+iDveWKmyAgIOaUu+egtCAg5o2i5pa55ZCRIikKZm9yIHN0IGluIFswLjAsMC4xLDAuMiwwLjMsMC41LDAuNywwLjldOgogICAgcz1zaW0oYz0wLjMsc2F0PXN0KTsgb3V0WydzYXQ9JS4yZiclc3RdPXM7IHByaW50KCIgICUtNi4yZiAlLTguM2YgJS01ZCAlZCIlKHN0LHNbJ+aAu+iDveWKmyddLHNbJ+aUu+egtCddLHNbJ+aNouaWueWQkSddKSkKcHJpbnQoIlxuPT0gdjMtQyDlrabkuaDmipXlhaUgbGVhcm4gKGM9MC41KSA9PSIpCnByaW50KCIgIGxlYXJuIOaAu+iDveWKmyAgIOaUu+egtCAg5rWq6LS5IikKZm9yIGxzIGluIFswLjAsMC4xLDAuMiwwLjMsMC40LDAuNSwwLjcsMC45LDEuMF06CiAgICBzPXNpbShjPTAuNSxsZWFybj1scyk7IG91dFsnbGVhcm49JS4xZiclbHNdPXM7IHByaW50KCIgICUtNi4xZiAlLTguM2YgJS01ZCAlZCIlKGxzLHNbJ+aAu+iDveWKmyddLHNbJ+aUu+egtCddLHNbJ+a1qui0uSddKSkKcHJpbnQoIlxuPT0gdjMtRCDnrZbnlaXlr7nmr5QgKGM9MC4zKSA9PSIpCnByaW50KCIgIOetlueVpSAgICAgICAg5oC76IO95YqbICAg5pS756C0ICDmtarotLkiKQpmb3IgbWQsdGFnIGluIFsoJ2N5Y2xlJywn5L2g55qE5b6q546vJyksKCd3ZWFrJywn57qv5pS75byx6aG5JyksKCdzdHJvbmcnLCfnuq/mlLvlvLrpobknKV06CiAgICBzPXNpbShjPTAuMyxtb2RlPW1kKTsgb3V0Wydtb2RlXycrbWRdPXsqKnMsJ3RhZyc6dGFnfTsgcHJpbnQoIiAgJS0xMHMgJS04LjNmICUtNWQgJWQiJSh0YWcsc1sn5oC76IO95YqbJ10sc1sn5pS756C0J10sc1sn5rWq6LS5J10pKQpwcmludCgiXG49PSB2My1FIOa2iOiejTog5Y675o6JJ+aNouaWueWQkSco5L2g55qE5b6q546v55qE5YWz6ZSu5LiA5q2lKSA9PSIpCnByaW50KCIgIOiuvue9riAgICAgICAg5oC76IO95YqbICAg5pS756C0IikKZm9yIHJvLHRhZyBpbiBbKFRydWUsJ+acieaNouaWueWQkScpLChGYWxzZSwn5peg5o2i5pa55ZCRJyldOgogICAgcz1zaW0oYz0wLjMscmVvcmllbnQ9cm8pOyBvdXRbJ3Jlb3JpZW50PSVzJyVyb109eyoqcywndGFnJzp0YWd9OyBwcmludCgiICAlLTExcyAlLTguM2YgJWQiJSh0YWcsc1sn5oC76IO95YqbJ10sc1sn5pS756C0J10pKQpwcmludCgiXG49PSB2My1GIOmXqOanmyB0aGV0YSAoYz0wLjMpID09IikKcHJpbnQoIiAgdGhldGEg5oC76IO95YqbICAg5pS756C0ICDmtarotLkiKQpmb3IgdGggaW4gWzAuMzAsMC40NSwwLjYwLDAuNzUsMC45MF06CiAgICBzPXNpbShjPTAuMyx0aGV0YT10aCk7IG91dFsndGhldGE9JS4yZicldGhdPXM7IHByaW50KCIgICUtNi4yZiAlLTguM2YgJS01ZCAlZCIlKHRoLHNbJ+aAu+iDveWKmyddLHNbJ+aUu+egtCddLHNbJ+a1qui0uSddKSkKanNvbi5kdW1wKG91dCxvcGVuKCdyZXN1bHQyNDZjLmpzb24nLCd3JyksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQo=
+import json, random
+# v2作废: 欲望触底后没有"换方向"重置 -> 增长停在0.46, 攻破恒0; 且能力值只有两档, 排序无竞争 -> c几乎无效应
+# v3: 能力分级(有低于门槛的结构性项, 也有高于的); 欲望触底=触发"找新方向"(重置+强制换目标)
+N=6; T=400; LR=0.12; JUMP=0.45; THETA=0.60; BASE=0.20; FLOOR=0.05
+CAP=[0.42,0.55,0.68,0.80,0.90,0.98]   # 前2项天花板低于门槛=结构性短板
+def sim(c=0.0, sat=0.30, learn=0.30, seed=0, theta=THETA, mode='cycle', reorient=True):
+    r=random.Random(seed*7919+11)
+    L=[BASE]*N; known=[False]*N; desire=0.60; brk=0; wasted=0; reor=0; last=None
+    for t in range(T):
+        Lbar=max(L)
+        perc=[L[i]+c*(Lbar-L[i])*r.random() for i in range(N)]   # 懦弱性: 越差扭曲越大
+        # 学习: 识别天花板, 已识别且已封顶的项不再作为目标
+        pool=[i for i in range(N) if L[i]<CAP[i]-1e-6 and not (known[i] and CAP[i]<theta)]
+        if not pool: pool=[i for i in range(N) if L[i]<CAP[i]-1e-6] or list(range(N))
+        if   mode=='weak':   cand=min(pool,key=lambda i:L[i])
+        elif mode=='strong': cand=max(pool,key=lambda i:L[i])
+        else:                cand=min(pool,key=lambda i:perc[i])
+        if last is not None and cand==last and len(pool)>1:
+            cand=min([i for i in pool if i!=last], key=lambda i:perc[i])
+        tgt=cand; last=tgt
+        if r.random()<learn:
+            known[tgt]=True
+            if CAP[tgt]<theta: wasted+=1
+        before=L[tgt]; room=CAP[tgt]-L[tgt]
+        L[tgt]=min(CAP[tgt], L[tgt]+LR*room*desire)
+        if before<theta<=L[tgt]:
+            L[tgt]=min(CAP[tgt], L[tgt]+JUMP*room); brk+=1; desire*=(1.0-sat)
+        else:
+            desire=min(1.0, desire+0.08*LR*room)
+        if desire<=FLOOR+1e-9 and reorient:      # 欲望降低 -> 找新方向
+            desire=0.35+0.30*r.random(); reor+=1; last=None
+        desire=max(FLOOR, desire)
+    return dict(总能力=round(sum(L),3), 攻破=brk, 浪费=wasted, 换方向=reor, 终态欲望=round(desire,3))
+out={}
+print("== v3-A 懦弱性 c (sat=0.30, learn=0.30) ==")
+print("  c     总能力   攻破  浪费  换方向")
+for cc in [0.0,0.1,0.2,0.3,0.5,0.7,0.9,1.0]:
+    s=sim(c=cc); out['c=%.1f'%cc]=s; print("  %-6.1f %-8.3f %-5d %-6d %d"%(cc,s['总能力'],s['攻破'],s['浪费'],s['换方向']))
+print("\n== v3-B 欲望降低 sat (c=0.3) ==")
+print("  sat   总能力   攻破  换方向")
+for st in [0.0,0.1,0.2,0.3,0.5,0.7,0.9]:
+    s=sim(c=0.3,sat=st); out['sat=%.2f'%st]=s; print("  %-6.2f %-8.3f %-5d %d"%(st,s['总能力'],s['攻破'],s['换方向']))
+print("\n== v3-C 学习投入 learn (c=0.5) ==")
+print("  learn 总能力   攻破  浪费")
+for ls in [0.0,0.1,0.2,0.3,0.4,0.5,0.7,0.9,1.0]:
+    s=sim(c=0.5,learn=ls); out['learn=%.1f'%ls]=s; print("  %-6.1f %-8.3f %-5d %d"%(ls,s['总能力'],s['攻破'],s['浪费']))
+print("\n== v3-D 策略对比 (c=0.3) ==")
+print("  策略        总能力   攻破  浪费")
+for md,tag in [('cycle','你的循环'),('weak','纯攻弱项'),('strong','纯攻强项')]:
+    s=sim(c=0.3,mode=md); out['mode_'+md]={**s,'tag':tag}; print("  %-10s %-8.3f %-5d %d"%(tag,s['总能力'],s['攻破'],s['浪费']))
+print("\n== v3-E 消融: 去掉'换方向'(你的循环的关键一步) ==")
+print("  设置        总能力   攻破")
+for ro,tag in [(True,'有换方向'),(False,'无换方向')]:
+    s=sim(c=0.3,reorient=ro); out['reorient=%s'%ro]={**s,'tag':tag}; print("  %-11s %-8.3f %d"%(tag,s['总能力'],s['攻破']))
+print("\n== v3-F 门槛 theta (c=0.3) ==")
+print("  theta 总能力   攻破  浪费")
+for th in [0.30,0.45,0.60,0.75,0.90]:
+    s=sim(c=0.3,theta=th); out['theta=%.2f'%th]=s; print("  %-6.2f %-8.3f %-5d %d"%(th,s['总能力'],s['攻破'],s['浪费']))
+json.dump(out,open('result246c.json','w'),ensure_ascii=False,indent=1)

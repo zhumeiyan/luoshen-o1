@@ -1,1 +1,130 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLmiorjgIxXZWJNIOWKqOeUuyArIOm7keeZveiSmeeJiOOAjeWQiOaIkOS4uumAj+aYjuW6lSBBbmltYXRlZCBXZWJQ44CCCgrnlKjms5XvvJoKICAgIHB5dGhvbjMgY29udmVydF93ZWJtX3RvX3dlYnAucHkgLS1pbnB1dCA8d2VibeebruW9lT4gLS1tYXNrLWRpciA86JKZ54mI55uu5b2VPiAtLW91dHB1dCA86L6T5Ye655uu5b2VPiBbLS1mcHMgNjBdCgrovpPlhaXnuqblrprvvJoKICAgIC0gaW5wdXQg55uu5b2V5LiL5pyJIDxuYW1lPi53ZWJt77yI5aaCIDAud2VibeOAgTEud2VibSDigKbvvIkKICAgIC0gbWFzay1kaXIg55uu5b2V5LiL5pyJ5ZCM5ZCN55qEIDxuYW1lPi5wbmcg6buR55m96JKZ54mI77yI55m96ImyPeWJjeaZr++8jOm7keiJsj3pgI/mmI7vvIkKICAgIC0gV2ViTSDpgJrluLjkuLogeXV2NDIwcO+8iOaXoCBhbHBoYSDpgJrpgZPvvInvvIzlsLrlr7jkuLrokpnniYjlsLrlr7jnmoTlgbbmlbDlr7npvZDniYgKCui+k+WHuu+8mgogICAgLSBvdXRwdXQg55uu5b2V5LiL55Sf5oiQ5ZCM5ZCNIDxuYW1lPi53ZWJw77yI6YCP5piO5bqV44CB5peg6ZmQ5b6q546v5Yqo55S777yJCiIiIgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IG9zCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKaW1wb3J0IHRlbXBmaWxlCgppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBQSUwgaW1wb3J0IEltYWdlCgoKZGVmIHJlYWRfd2VibV9mcHMod2VibTogc3RyKSAtPiBpbnQ6CiAgICB0cnk6CiAgICAgICAgb3V0ID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICJmZnByb2JlIiwgIi12IiwgImVycm9yIiwKICAgICAgICAgICAgICAgICItc2VsZWN0X3N0cmVhbXMiLCAidjowIiwKICAgICAgICAgICAgICAgICItc2hvd19lbnRyaWVzIiwgInN0cmVhbT1yX2ZyYW1lX3JhdGUiLAogICAgICAgICAgICAgICAgIi1vZiIsICJkZWZhdWx0PW5vcHJpbnRfd3JhcHBlcnM9MTpub2tleT0xIiwKICAgICAgICAgICAgICAgIHdlYm0sCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIGNoZWNrPVRydWUsCiAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsCiAgICAgICAgICAgIHRleHQ9VHJ1ZSwKICAgICAgICApLnN0ZG91dC5zdHJpcCgpCiAgICAgICAgbnVtLCBfLCBkZW4gPSBvdXQucGFydGl0aW9uKCIvIikKICAgICAgICBmcHMgPSBmbG9hdChudW0pIC8gZmxvYXQoZGVuIG9yIDEpCiAgICAgICAgcmV0dXJuIG1heCgxLCByb3VuZChmcHMpKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gNjAKCgpkZWYgY29udmVydF93ZWJtX3RvX3dlYnAod2VibTogc3RyLCBtYXNrOiBzdHIsIG91dDogc3RyLCBmcHM6IGludCkgLT4gTm9uZToKICAgIHNyY19mcHMgPSByZWFkX3dlYm1fZnBzKHdlYm0pCiAgICBvdXRfZnBzID0gbWluKGZwcyBvciBzcmNfZnBzLCBzcmNfZnBzKQogICAgc3RlcCA9IG1heCgxLCByb3VuZChzcmNfZnBzIC8gb3V0X2ZwcykpCiAgICBkdXJhdGlvbiA9IG1heCgxLCByb3VuZCgxMDAwIC8gKHNyY19mcHMgLyBzdGVwKSkpCgogICAgd2l0aCB0ZW1wZmlsZS5UZW1wb3JhcnlEaXJlY3RvcnkoKSBhcyB0ZDoKICAgICAgICBzdWJwcm9jZXNzLnJ1bigKICAgICAgICAgICAgWyJmZm1wZWciLCAiLXkiLCAiLWkiLCB3ZWJtLCBmInt0ZH0vZl8lMDVkLnBuZyJdLAogICAgICAgICAgICBjaGVjaz1UcnVlLAogICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLAogICAgICAgICkKICAgICAgICBmcmFtZV9wYXRocyA9IHNvcnRlZChmIGZvciBmIGluIG9zLmxpc3RkaXIodGQpIGlmIGYuc3RhcnRzd2l0aCgiZl8iKSkKICAgICAgICBpZiBub3QgZnJhbWVfcGF0aHM6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihmIuacquiDveS7jiB7d2VibX0g5oq95Y+W5Lu75L2V5binIikKCiAgICAgICAgIyDokpnniYjvvIjnmb095LiN6YCP5piO77yJ4oaSIGFscGhhCiAgICAgICAgbWFza19pbSA9IEltYWdlLm9wZW4obWFzaykuY29udmVydCgiTCIpCiAgICAgICAgbWFza193LCBtYXNrX2ggPSBtYXNrX2ltLnNpemUKICAgICAgICBhbHBoYSA9IG5wLmFzYXJyYXkobWFza19pbSwgZHR5cGU9bnAuZmxvYXQ2NCkgLyAyNTUuMAoKICAgICAgICByZ2JhX2ZyYW1lcyA9IFtdCiAgICAgICAgZm9yIG5hbWUgaW4gZnJhbWVfcGF0aHNbOjpzdGVwXToKICAgICAgICAgICAgaW0gPSBJbWFnZS5vcGVuKG9zLnBhdGguam9pbih0ZCwgbmFtZSkpLmNvbnZlcnQoIlJHQiIpCiAgICAgICAgICAgIGlmIGltLnNpemUgIT0gKG1hc2tfdywgbWFza19oKToKICAgICAgICAgICAgICAgIGltID0gaW0ucmVzaXplKChtYXNrX3csIG1hc2tfaCksIEltYWdlLkxBTkNaT1MpCiAgICAgICAgICAgIHJnYiA9IG5wLmFzYXJyYXkoaW0sIGR0eXBlPW5wLmZsb2F0NjQpCiAgICAgICAgICAgICMg6aKE5LmYIGFscGhh77yM5Y2K6YCP5piO6L6557yY6aKc6Imy5omN5q2j56GuCiAgICAgICAgICAgIHByZW11bCA9IChyZ2IgKiBhbHBoYVsuLi4sIE5vbmVdKS5hc3R5cGUobnAudWludDgpCiAgICAgICAgICAgIHJnYmEgPSBucC5kc3RhY2soW3ByZW11bCwgKGFscGhhICogMjU1KS5hc3R5cGUobnAudWludDgpXSkKICAgICAgICAgICAgcmdiYV9mcmFtZXMuYXBwZW5kKEltYWdlLmZyb21hcnJheShyZ2JhLCAiUkdCQSIpKQoKICAgICAgICByZ2JhX2ZyYW1lc1swXS5zYXZlKAogICAgICAgICAgICBvdXQsCiAgICAgICAgICAgIHNhdmVfYWxsPVRydWUsCiAgICAgICAgICAgIGFwcGVuZF9pbWFnZXM9cmdiYV9mcmFtZXNbMTpdLAogICAgICAgICAgICBkdXJhdGlvbj1kdXJhdGlvbiwKICAgICAgICAgICAgbG9vcD0wLAogICAgICAgICAgICBxdWFsaXR5PTkwLAogICAgICAgICAgICBtZXRob2Q9NCwKICAgICAgICApCiAgICAgICAgcHJpbnQoCiAgICAgICAgICAgIGYiICB7b3MucGF0aC5iYXNlbmFtZSh3ZWJtKX06IHtzcmNfZnBzfWZwc+KGknsoc3JjX2ZwcyArIHN0ZXAgLSAxKSAvLyBzdGVwfWZwcywgIgogICAgICAgICAgICBmIntsZW4ocmdiYV9mcmFtZXMpfeW4pywge29zLnBhdGguZ2V0c2l6ZShvdXQpfSBieXRlcyIKICAgICAgICApCgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj1fX2RvY19fKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1pbnB1dCIsIHJlcXVpcmVkPVRydWUsIGhlbHA9IldlYk0g5omA5Zyo55uu5b2VIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tbWFzay1kaXIiLCByZXF1aXJlZD1UcnVlLCBoZWxwPSLpu5Hnmb3okpnniYggUE5HIOaJgOWcqOebruW9lSIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLW91dHB1dCIsIHJlcXVpcmVkPVRydWUsIGhlbHA9IldlYlAg6L6T5Ye655uu5b2VIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tZnBzIiwgdHlwZT1pbnQsIGRlZmF1bHQ9NjAsIGhlbHA9Iui+k+WHuuW4p+eOh++8iOS4jei2hei/h+a6kOW4p+eOh++8jOm7mOiupCA2MO+8iSIpCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQoKICAgIHdlYm1zID0gc29ydGVkKAogICAgICAgIGYgZm9yIGYgaW4gb3MubGlzdGRpcihhcmdzLmlucHV0KQogICAgICAgIGlmIGYubG93ZXIoKS5lbmRzd2l0aCgiLndlYm0iKSBhbmQgb3MucGF0aC5pc2ZpbGUob3MucGF0aC5qb2luKGFyZ3MuaW5wdXQsIGYpKQogICAgKQogICAgaWYgbm90IHdlYm1zOgogICAgICAgIHByaW50KCLmnKrmib7liLAgLndlYm0g5paH5Lu2IikKICAgICAgICByZXR1cm4gMQoKICAgIG9zLm1ha2VkaXJzKGFyZ3Mub3V0cHV0LCBleGlzdF9vaz1UcnVlKQogICAgZm9yIHdlYm0gaW4gd2VibXM6CiAgICAgICAgbmFtZSA9IG9zLnBhdGguc3BsaXRleHQod2VibSlbMF0KICAgICAgICBtYXNrID0gb3MucGF0aC5qb2luKGFyZ3MubWFza19kaXIsIGYie25hbWV9LnBuZyIpCiAgICAgICAgaWYgbm90IG9zLnBhdGguaXNmaWxlKG1hc2spOgogICAgICAgICAgICBwcmludChmIlvot7Pov4ddIHtuYW1lfTog57y65bCR6JKZ54mIIHttYXNrfSIpCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgdHJ5OgogICAgICAgICAgICBjb252ZXJ0X3dlYm1fdG9fd2VicCgKICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbihhcmdzLmlucHV0LCB3ZWJtKSwKICAgICAgICAgICAgICAgIG1hc2ssCiAgICAgICAgICAgICAgICBvcy5wYXRoLmpvaW4oYXJncy5vdXRwdXQsIGYie25hbWV9LndlYnAiKSwKICAgICAgICAgICAgICAgIGFyZ3MuZnBzLAogICAgICAgICAgICApCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6ICAjIG5vcWE6IEJMRTAwMQogICAgICAgICAgICBwcmludChmIlvlpLHotKVdIHtuYW1lfToge2V4Y30iKQogICAgcHJpbnQoIuWujOaIkCIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+"""把「WebM 动画 + 黑白蒙版」合成为透明底 Animated WebP。
+
+用法：
+    python3 convert_webm_to_webp.py --input <webm目录> --mask-dir <蒙版目录> --output <输出目录> [--fps 60]
+
+输入约定：
+    - input 目录下有 <name>.webm（如 0.webm、1.webm …）
+    - mask-dir 目录下有同名的 <name>.png 黑白蒙版（白色=前景，黑色=透明）
+    - WebM 通常为 yuv420p（无 alpha 通道），尺寸为蒙版尺寸的偶数对齐版
+
+输出：
+    - output 目录下生成同名 <name>.webp（透明底、无限循环动画）
+"""
+import argparse
+import os
+import subprocess
+import sys
+import tempfile
+
+import numpy as np
+from PIL import Image
+
+
+def read_webm_fps(webm: str) -> int:
+    try:
+        out = subprocess.run(
+            [
+                "ffprobe", "-v", "error",
+                "-select_streams", "v:0",
+                "-show_entries", "stream=r_frame_rate",
+                "-of", "default=noprint_wrappers=1:nokey=1",
+                webm,
+            ],
+            check=True,
+            capture_output=True,
+            text=True,
+        ).stdout.strip()
+        num, _, den = out.partition("/")
+        fps = float(num) / float(den or 1)
+        return max(1, round(fps))
+    except Exception:
+        return 60
+
+
+def convert_webm_to_webp(webm: str, mask: str, out: str, fps: int) -> None:
+    src_fps = read_webm_fps(webm)
+    out_fps = min(fps or src_fps, src_fps)
+    step = max(1, round(src_fps / out_fps))
+    duration = max(1, round(1000 / (src_fps / step)))
+
+    with tempfile.TemporaryDirectory() as td:
+        subprocess.run(
+            ["ffmpeg", "-y", "-i", webm, f"{td}/f_%05d.png"],
+            check=True,
+            capture_output=True,
+        )
+        frame_paths = sorted(f for f in os.listdir(td) if f.startswith("f_"))
+        if not frame_paths:
+            raise RuntimeError(f"未能从 {webm} 抽取任何帧")
+
+        # 蒙版（白=不透明）→ alpha
+        mask_im = Image.open(mask).convert("L")
+        mask_w, mask_h = mask_im.size
+        alpha = np.asarray(mask_im, dtype=np.float64) / 255.0
+
+        rgba_frames = []
+        for name in frame_paths[::step]:
+            im = Image.open(os.path.join(td, name)).convert("RGB")
+            if im.size != (mask_w, mask_h):
+                im = im.resize((mask_w, mask_h), Image.LANCZOS)
+            rgb = np.asarray(im, dtype=np.float64)
+            # 预乘 alpha，半透明边缘颜色才正确
+            premul = (rgb * alpha[..., None]).astype(np.uint8)
+            rgba = np.dstack([premul, (alpha * 255).astype(np.uint8)])
+            rgba_frames.append(Image.fromarray(rgba, "RGBA"))
+
+        rgba_frames[0].save(
+            out,
+            save_all=True,
+            append_images=rgba_frames[1:],
+            duration=duration,
+            loop=0,
+            quality=90,
+            method=4,
+        )
+        print(
+            f"  {os.path.basename(webm)}: {src_fps}fps→{(src_fps + step - 1) // step}fps, "
+            f"{len(rgba_frames)}帧, {os.path.getsize(out)} bytes"
+        )
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--input", required=True, help="WebM 所在目录")
+    parser.add_argument("--mask-dir", required=True, help="黑白蒙版 PNG 所在目录")
+    parser.add_argument("--output", required=True, help="WebP 输出目录")
+    parser.add_argument("--fps", type=int, default=60, help="输出帧率（不超过源帧率，默认 60）")
+    args = parser.parse_args()
+
+    webms = sorted(
+        f for f in os.listdir(args.input)
+        if f.lower().endswith(".webm") and os.path.isfile(os.path.join(args.input, f))
+    )
+    if not webms:
+        print("未找到 .webm 文件")
+        return 1
+
+    os.makedirs(args.output, exist_ok=True)
+    for webm in webms:
+        name = os.path.splitext(webm)[0]
+        mask = os.path.join(args.mask_dir, f"{name}.png")
+        if not os.path.isfile(mask):
+            print(f"[跳过] {name}: 缺少蒙版 {mask}")
+            continue
+        try:
+            convert_webm_to_webp(
+                os.path.join(args.input, webm),
+                mask,
+                os.path.join(args.output, f"{name}.webp"),
+                args.fps,
+            )
+        except Exception as exc:  # noqa: BLE001
+            print(f"[失败] {name}: {exc}")
+    print("完成")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

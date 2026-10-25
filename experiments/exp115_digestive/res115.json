@@ -1,1 +1,246 @@
-ewogInYxIjogWwogIHsKICAgIm1vZGUiOiAidjEiLAogICAic2VlZCI6IDAsCiAgICJhbGl2ZSI6IHRydWUsCiAgICJhbGl2ZV9zdGVwcyI6IDQwMCwKICAgIkVfZmluYWwiOiAwLjk5MTUsCiAgICJza2V3X2NhcCI6IDAuMTMyNzcxMDE4MTM0NTI2NCwKICAgImNoYWluIjogODksCiAgICJlbmVyZ3lfZm9vZCI6IDU0NS4wCiAgfSwKICB7CiAgICJtb2RlIjogInYxIiwKICAgInNlZWQiOiAxLAogICAiYWxpdmUiOiB0cnVlLAogICAiYWxpdmVfc3RlcHMiOiA0MDAsCiAgICJFX2ZpbmFsIjogMC45OTE4NjgzODUxNDI4NzU5LAogICAic2tld19jYXAiOiAwLjIzMTMyNzc5Nzk5MjE0MTM3LAogICAiY2hhaW4iOiAxMDksCiAgICJlbmVyZ3lfZm9vZCI6IDY0NS4wCiAgfSwKICB7CiAgICJtb2RlIjogInYxIiwKICAgInNlZWQiOiAyLAogICAiYWxpdmUiOiB0cnVlLAogICAiYWxpdmVfc3RlcHMiOiA0MDAsCiAgICJFX2ZpbmFsIjogMS4wLAogICAic2tld19jYXAiOiAwLjU4MDc2MzMzMzEzNTcwMTIsCiAgICJjaGFpbiI6IDk2LAogICAiZW5lcmd5X2Zvb2QiOiA1ODAuMAogIH0sCiAgewogICAibW9kZSI6ICJ2MSIsCiAgICJzZWVkIjogMywKICAgImFsaXZlIjogdHJ1ZSwKICAgImFsaXZlX3N0ZXBzIjogNDAwLAogICAiRV9maW5hbCI6IDAuOTkyNjA4MzY5NjczNzQ3MywKICAgInNrZXdfY2FwIjogMC4xNDc3ODIzMjQ0NzIzNTk2NywKICAgImNoYWluIjogOTksCiAgICJlbmVyZ3lfZm9vZCI6IDU5NS4wCiAgfSwKICB7CiAgICJtb2RlIjogInYxIiwKICAgInNlZWQiOiA0LAogICAiYWxpdmUiOiB0cnVlLAogICAiYWxpdmVfc3RlcHMiOiA0MDAsCiAgICJFX2ZpbmFsIjogMC45NjgwNTU5Nzc1MDcwMzM2LAogICAic2tld19jYXAiOiAwLjM1MDIyMjMyMjg2MDk4MSwKICAgImNoYWluIjogOTMsCiAgICJlbmVyZ3lfZm9vZCI6IDU2NS4wCiAgfSwKICB7CiAgICJtb2RlIjogInYxIiwKICAgInNlZWQiOiA1LAogICAiYWxpdmUiOiB0cnVlLAogICAiYWxpdmVfc3RlcHMiOiA0MDAsCiAgICJFX2ZpbmFsIjogMS4wLAogICAic2tld19jYXAiOiAwLjQ4NDA2MjU5MzQ1ODMwNDU1LAogICAiY2hhaW4iOiAxMDksCiAgICJlbmVyZ3lfZm9vZCI6IDY0NS4wCiAgfSwKICB7CiAgICJtb2RlIjogInYxIiwKICAgInNlZWQiOiA2LAogICAiYWxpdmUiOiB0cnVlLAogICAiYWxpdmVfc3RlcHMiOiA0MDAsCiAgICJFX2ZpbmFsIjogMC45OTI5OTA5Nzg5MjIxNTg3LAogICAic2tld19jYXAiOiAwLjM4OTg2NDUzMTE2NDU0MzMsCiAgICJjaGFpbiI6IDEwNSwKICAgImVuZXJneV9mb29kIjogNjI1LjAKICB9LAogIHsKICAgIm1vZGUiOiAidjEiLAogICAic2VlZCI6IDcsCiAgICJhbGl2ZSI6IHRydWUsCiAgICJhbGl2ZV9zdGVwcyI6IDQwMCwKICAgIkVfZmluYWwiOiAwLjk2ODYxMDg0NDc3MDAyNjIsCiAgICJza2V3X2NhcCI6IDAuMTQ3NzE4NDE2NTM4NDI0MzIsCiAgICJjaGFpbiI6IDg5LAogICAiZW5lcmd5X2Zvb2QiOiA1NDUuMAogIH0sCiAgewogICAibW9kZSI6ICJ2MSIsCiAgICJzZWVkIjogOCwKICAgImFsaXZlIjogdHJ1ZSwKICAgImFsaXZlX3N0ZXBzIjogNDAwLAogICAiRV9maW5hbCI6IDAuOTkyODQ3NzMxNTIyMTIyMiwKICAgInNrZXdfY2FwIjogMC4yODk4NjMxOTU1MjgzODc2MywKICAgImNoYWluIjogMTA2LAogICAiZW5lcmd5X2Zvb2QiOiA2MzAuMAogIH0sCiAgewogICAibW9kZSI6ICJ2MSIsCiAgICJzZWVkIjogOSwKICAgImFsaXZlIjogdHJ1ZSwKICAgImFsaXZlX3N0ZXBzIjogNDAwLAogICAiRV9maW5hbCI6IDEuMCwKICAgInNrZXdfY2FwIjogMC4zMjkyNzU4NTI1MjU4NDc2LAogICAiY2hhaW4iOiA4NSwKICAgImVuZXJneV9mb29kIjogNTI1LjAKICB9LAogIHsKICAgIm1vZGUiOiAidjEiLAogICAic2VlZCI6IDEwLAogICAiYWxpdmUiOiB0cnVlLAogICAiYWxpdmVfc3RlcHMiOiA0MDAsCiAgICJFX2ZpbmFsIjogMS4wLAogICAic2tld19jYXAiOiAwLjEwMzgxNTcwOTk5NTk0MDI1LAogICAiY2hhaW4iOiAxMTEsCiAgICJlbmVyZ3lfZm9vZCI6IDY1NS4wCiAgfSwKICB7CiAgICJtb2RlIjogInYxIiwKICAgInNlZWQiOiAxMSwKICAgImFsaXZlIjogdHJ1ZSwKICAgImFsaXZlX3N0ZXBzIjogNDAwLAogICAiRV9maW5hbCI6IDEuMCwKICAgInNrZXdfY2FwIjogMC4yNzU0NTYzNjY1NDI3OTEyNiwKICAgImNoYWluIjogOTIsCiAgICJlbmVyZ3lfZm9vZCI6IDU2MC4wCiAgfQogXSwKICJ2MiI6IFsKICB7CiAgICJtb2RlIjogInYyIiwKICAgInNlZWQiOiAwLAogICAiYWxpdmUiOiBmYWxzZSwKICAgImFsaXZlX3N0ZXBzIjogMTQwLAogICAiRV9maW5hbCI6IDAuMCwKICAgInNrZXdfY2FwIjogMS4zOTE3MjM2ODQ5MTk2MjgsCiAgICJjaGFpbiI6IDE0MSwKICAgImVuZXJneV9mb29kIjogLTEyMS4zNzIwMDAwMDAwMDAzNgogIH0sCiAgewogICAibW9kZSI6ICJ2MiIsCiAgICJzZWVkIjogMSwKICAgImFsaXZlIjogZmFsc2UsCiAgICJhbGl2ZV9zdGVwcyI6IDE0OCwKICAgIkVfZmluYWwiOiAwLjAsCiAgICJza2V3X2NhcCI6IDEuMDIzOTkzODk0NDkwODczNSwKICAgImNoYWluIjogMTQ5LAogICAiZW5lcmd5X2Zvb2QiOiAtMTM1LjA0NzAwMDAwMDAwMDE3CiAgfSwKICB7CiAgICJtb2RlIjogInYyIiwKICAgInNlZWQiOiAyLAogICAiYWxpdmUiOiBmYWxzZSwKICAgImFsaXZlX3N0ZXBzIjogMTM4LAogICAiRV9maW5hbCI6IDAuMCwKICAgInNrZXdfY2FwIjogMC4xNTQxMDY3ODMxNjE5NTE2LAogICAiY2hhaW4iOiAxMzksCiAgICJlbmVyZ3lfZm9vZCI6IC0xMTcuOTM0MDAwMDAwMDAwMjIKICB9LAogIHsKICAgIm1vZGUiOiAidjIiLAogICAic2VlZCI6IDMsCiAgICJhbGl2ZSI6IGZhbHNlLAogICAiYWxpdmVfc3RlcHMiOiAxMjcsCiAgICJFX2ZpbmFsIjogMC4wLAogICAic2tld19jYXAiOiAwLjc4NzAxMzIzMDkzNzIyNiwKICAgImNoYWluIjogMTI4LAogICAiZW5lcmd5X2Zvb2QiOiAtOTkuMTA1MDAwMDAwMDAwMjMKICB9LAogIHsKICAgIm1vZGUiOiAidjIiLAogICAic2VlZCI6IDQsCiAgICJhbGl2ZSI6IGZhbHNlLAogICAiYWxpdmVfc3RlcHMiOiAxMzEsCiAgICJFX2ZpbmFsIjogMC4wLAogICAic2tld19jYXAiOiAwLjQyNzQ2MjU1NzYyNjQ4MzQ0LAogICAiY2hhaW4iOiAxMzIsCiAgICJlbmVyZ3lfZm9vZCI6IC0xMDUuOTQ3MDAwMDAwMDAwMjMKICB9LAogIHsKICAgIm1vZGUiOiAidjIiLAogICAic2VlZCI6IDUsCiAgICJhbGl2ZSI6IGZhbHNlLAogICAiYWxpdmVfc3RlcHMiOiAxMzgsCiAgICJFX2ZpbmFsIjogMC4wLAogICAic2tld19jYXAiOiAwLjU3OTM3NDQ4Mzk2NzYwODcsCiAgICJjaGFpbiI6IDEzOSwKICAgImVuZXJneV9mb29kIjogLTExNy45MjgwMDAwMDAwMDAyNAogIH0sCiAgewogICAibW9kZSI6ICJ2MiIsCiAgICJzZWVkIjogNiwKICAgImFsaXZlIjogZmFsc2UsCiAgICJhbGl2ZV9zdGVwcyI6IDE1MCwKICAgIkVfZmluYWwiOiAwLjAsCiAgICJza2V3X2NhcCI6IDEuNTgyMDc1ODA4MDM1ODE5LAogICAiY2hhaW4iOiAxNTEsCiAgICJlbmVyZ3lfZm9vZCI6IC0xMzguNDcyMDAwMDAwMDAwMTgKICB9LAogIHsKICAgIm1vZGUiOiAidjIiLAogICAic2VlZCI6IDcsCiAgICJhbGl2ZSI6IGZhbHNlLAogICAiYWxpdmVfc3RlcHMiOiAxMzUsCiAgICJFX2ZpbmFsIjogMC4wLAogICAic2tld19jYXAiOiAwLjYxOTA3ODU4ODkwNzcxNSwKICAgImNoYWluIjogMTM2LAogICAiZW5lcmd5X2Zvb2QiOiAtMTEyLjgwNzAwMDAwMDAwMDI0CiAgfSwKICB7CiAgICJtb2RlIjogInYyIiwKICAgInNlZWQiOiA4LAogICAiYWxpdmUiOiBmYWxzZSwKICAgImFsaXZlX3N0ZXBzIjogMTM4LAogICAiRV9maW5hbCI6IDAuMCwKICAgInNrZXdfY2FwIjogMC41MjU0NDI0MTgxNDI2MzQsCiAgICJjaGFpbiI6IDEzOSwKICAgImVuZXJneV9mb29kIjogLTExNy45MTYwMDAwMDAwMDAyCiAgfSwKICB7CiAgICJtb2RlIjogInYyIiwKICAgInNlZWQiOiA5LAogICAiYWxpdmUiOiBmYWxzZSwKICAgImFsaXZlX3N0ZXBzIjogMTM1LAogICAiRV9maW5hbCI6IDAuMCwKICAgInNrZXdfY2FwIjogMC40NzM5MzgwODA3NTg0NTI1NiwKICAgImNoYWluIjogMTM2LAogICAiZW5lcmd5X2Zvb2QiOiAtMTEyLjgxMTAwMDAwMDAwMDI4CiAgfSwKICB7CiAgICJtb2RlIjogInYyIiwKICAgInNlZWQiOiAxMCwKICAgImFsaXZlIjogZmFsc2UsCiAgICJhbGl2ZV9zdGVwcyI6IDE0MCwKICAgIkVfZmluYWwiOiAwLjAsCiAgICJza2V3X2NhcCI6IDAuOTc3MTIzMzk0NzU4NDE1OSwKICAgImNoYWluIjogMTQxLAogICAiZW5lcmd5X2Zvb2QiOiAtMTIxLjM1MzAwMDAwMDAwMDI5CiAgfSwKICB7CiAgICJtb2RlIjogInYyIiwKICAgInNlZWQiOiAxMSwKICAgImFsaXZlIjogZmFsc2UsCiAgICJhbGl2ZV9zdGVwcyI6IDE0OCwKICAgIkVfZmluYWwiOiAwLjAsCiAgICJza2V3X2NhcCI6IDEuMDgyMjI1MDYyNjg2MjEzMywKICAgImNoYWluIjogMTQ5LAogICAiZW5lcmd5X2Zvb2QiOiAtMTM1LjA0NDAwMDAwMDAwMDE4CiAgfQogXQp9
+{
+ "v1": [
+  {
+   "mode": "v1",
+   "seed": 0,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 0.9915,
+   "skew_cap": 0.1327710181345264,
+   "chain": 89,
+   "energy_food": 545.0
+  },
+  {
+   "mode": "v1",
+   "seed": 1,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 0.9918683851428759,
+   "skew_cap": 0.23132779799214137,
+   "chain": 109,
+   "energy_food": 645.0
+  },
+  {
+   "mode": "v1",
+   "seed": 2,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 1.0,
+   "skew_cap": 0.5807633331357012,
+   "chain": 96,
+   "energy_food": 580.0
+  },
+  {
+   "mode": "v1",
+   "seed": 3,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 0.9926083696737473,
+   "skew_cap": 0.14778232447235967,
+   "chain": 99,
+   "energy_food": 595.0
+  },
+  {
+   "mode": "v1",
+   "seed": 4,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 0.9680559775070336,
+   "skew_cap": 0.350222322860981,
+   "chain": 93,
+   "energy_food": 565.0
+  },
+  {
+   "mode": "v1",
+   "seed": 5,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 1.0,
+   "skew_cap": 0.48406259345830455,
+   "chain": 109,
+   "energy_food": 645.0
+  },
+  {
+   "mode": "v1",
+   "seed": 6,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 0.9929909789221587,
+   "skew_cap": 0.3898645311645433,
+   "chain": 105,
+   "energy_food": 625.0
+  },
+  {
+   "mode": "v1",
+   "seed": 7,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 0.9686108447700262,
+   "skew_cap": 0.14771841653842432,
+   "chain": 89,
+   "energy_food": 545.0
+  },
+  {
+   "mode": "v1",
+   "seed": 8,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 0.9928477315221222,
+   "skew_cap": 0.28986319552838763,
+   "chain": 106,
+   "energy_food": 630.0
+  },
+  {
+   "mode": "v1",
+   "seed": 9,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 1.0,
+   "skew_cap": 0.3292758525258476,
+   "chain": 85,
+   "energy_food": 525.0
+  },
+  {
+   "mode": "v1",
+   "seed": 10,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 1.0,
+   "skew_cap": 0.10381570999594025,
+   "chain": 111,
+   "energy_food": 655.0
+  },
+  {
+   "mode": "v1",
+   "seed": 11,
+   "alive": true,
+   "alive_steps": 400,
+   "E_final": 1.0,
+   "skew_cap": 0.27545636654279126,
+   "chain": 92,
+   "energy_food": 560.0
+  }
+ ],
+ "v2": [
+  {
+   "mode": "v2",
+   "seed": 0,
+   "alive": false,
+   "alive_steps": 140,
+   "E_final": 0.0,
+   "skew_cap": 1.391723684919628,
+   "chain": 141,
+   "energy_food": -121.37200000000036
+  },
+  {
+   "mode": "v2",
+   "seed": 1,
+   "alive": false,
+   "alive_steps": 148,
+   "E_final": 0.0,
+   "skew_cap": 1.0239938944908735,
+   "chain": 149,
+   "energy_food": -135.04700000000017
+  },
+  {
+   "mode": "v2",
+   "seed": 2,
+   "alive": false,
+   "alive_steps": 138,
+   "E_final": 0.0,
+   "skew_cap": 0.1541067831619516,
+   "chain": 139,
+   "energy_food": -117.93400000000022
+  },
+  {
+   "mode": "v2",
+   "seed": 3,
+   "alive": false,
+   "alive_steps": 127,
+   "E_final": 0.0,
+   "skew_cap": 0.787013230937226,
+   "chain": 128,
+   "energy_food": -99.10500000000023
+  },
+  {
+   "mode": "v2",
+   "seed": 4,
+   "alive": false,
+   "alive_steps": 131,
+   "E_final": 0.0,
+   "skew_cap": 0.42746255762648344,
+   "chain": 132,
+   "energy_food": -105.94700000000023
+  },
+  {
+   "mode": "v2",
+   "seed": 5,
+   "alive": false,
+   "alive_steps": 138,
+   "E_final": 0.0,
+   "skew_cap": 0.5793744839676087,
+   "chain": 139,
+   "energy_food": -117.92800000000024
+  },
+  {
+   "mode": "v2",
+   "seed": 6,
+   "alive": false,
+   "alive_steps": 150,
+   "E_final": 0.0,
+   "skew_cap": 1.582075808035819,
+   "chain": 151,
+   "energy_food": -138.47200000000018
+  },
+  {
+   "mode": "v2",
+   "seed": 7,
+   "alive": false,
+   "alive_steps": 135,
+   "E_final": 0.0,
+   "skew_cap": 0.619078588907715,
+   "chain": 136,
+   "energy_food": -112.80700000000024
+  },
+  {
+   "mode": "v2",
+   "seed": 8,
+   "alive": false,
+   "alive_steps": 138,
+   "E_final": 0.0,
+   "skew_cap": 0.525442418142634,
+   "chain": 139,
+   "energy_food": -117.9160000000002
+  },
+  {
+   "mode": "v2",
+   "seed": 9,
+   "alive": false,
+   "alive_steps": 135,
+   "E_final": 0.0,
+   "skew_cap": 0.47393808075845256,
+   "chain": 136,
+   "energy_food": -112.81100000000028
+  },
+  {
+   "mode": "v2",
+   "seed": 10,
+   "alive": false,
+   "alive_steps": 140,
+   "E_final": 0.0,
+   "skew_cap": 0.9771233947584159,
+   "chain": 141,
+   "energy_food": -121.35300000000029
+  },
+  {
+   "mode": "v2",
+   "seed": 11,
+   "alive": false,
+   "alive_steps": 148,
+   "E_final": 0.0,
+   "skew_cap": 1.0822250626862133,
+   "chain": 149,
+   "energy_food": -135.04400000000018
+  }
+ ]
+}

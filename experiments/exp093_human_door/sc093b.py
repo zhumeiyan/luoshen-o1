@@ -1,1 +1,40 @@
-aW1wb3J0IG9zLCBzdWJwcm9jZXNzLCByYW5kb20sIHN0cmluZywganNvbiwgY3YyLCBweXRlc3NlcmFjdCwgbnVtcHkgYXMgbnAKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udApPVVQ9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDA5M19odW1hbl9kb29yIgplZz1qc29uLmxvYWQob3BlbihPVVQrIi9lbmdpbmUwOTNfcmVzdWx0Lmpzb24iKSk7IGNzPWVnWyJjZWxscyJdOyB0dD1lZ1sidGVzdHMiXQp0b2s9Jycuam9pbihyYW5kb20uY2hvaWNlcyhzdHJpbmcuYXNjaWlfdXBwZXJjYXNlK3N0cmluZy5kaWdpdHMsaz02KSkKVyxIPTEwMjQsNzY4CmltZz1JbWFnZS5uZXcoIlJHQiIsKFcsSCksKDI1NSwyNTUsMjU1KSk7IGQ9SW1hZ2VEcmF3LkRyYXcoaW1nKQpGPU5vbmUKZm9yIHAgaW4gWyIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIiwiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS9kZWphdnUvRGVqYVZ1U2Fucy1Cb2xkLnR0ZiIsIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvZGVqYXZ1L0RlamFWdVNhbnMudHRmIl06CiAgICBpZiBvcy5wYXRoLmV4aXN0cyhwKToKICAgICAgICB0cnk6IEY9SW1hZ2VGb250LnRydWV0eXBlKHAsMjgpOyBicmVhawogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKaWYgRiBpcyBOb25lOiBGPUltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQpyb3dzPVsoIlVBIGN1cmwgY2hyb21lIGlwaG9uZSIsIjQwMyA0MDMgNDAzIiksCiAgICAgICgic3RhYmxlIGdhdGVzIiwiOSBvZiAxMCIpLAogICAgICAoImludGVybWl0dGVudCIsImFwaS5naXRodWIgZmxpcCAzIiksCiAgICAgICgic2tldyBvcGVuIiwgICAiJS40ZiIlY3NbIm9wZW4iXVsic2tldyJdKSwKICAgICAgKCJza2V3IHJhbmQ1MCIsICIlLjRmIiVjc1sicmFuZF9wNTAiXVsic2tldyJdKSwKICAgICAgKCJza2V3IHBlcmlvODAiLCIlLjRmIiVjc1sicGVyaW9fODAiXVsic2tldyJdKSwKICAgICAgKCJza2V3IGNsb3NlZCIsICIlLjRmIiVjc1siY2xvc2VkIl1bInNrZXciXSksCiAgICAgICgiSDMgZGlmZiIsICAgICAiJSsuNGYiJXR0WyJIMyDnqLPlrprlhbMgdnMg56iz5a6a5byAIl1bImRpZmYiXSksCiAgICAgICgiVE9LRU4iLCAgICAgICB0b2spXQp5PTUwCmZvciBrLHYgaW4gcm93czoKICAgIGQudGV4dCgoNTAseSksZiJ7azoyMnN9IHt2fSIsZmlsbD0oMCwwLDApLGZvbnQ9Rik7IHkrPTU2CmQudGV4dCgoNTAseSsyNCksIjA5MyBTRUxGIENIRUNLIixmaWxsPSgwLDAsMCksZm9udD1GKQppbWcuc2F2ZShmIntPVVR9L3JlbmRlcmVkMDkzLnBuZyIpCiMgUkdCIC0+IEJHUkEgKDMyYnBwKQphPW5wLmFycmF5KGltZykKYmdyYT1ucC5kc3RhY2soW2FbOiw6LDJdLGFbOiw6LDFdLGFbOiw6LDBdLG5wLmZ1bGwoYS5zaGFwZVs6Ml0sMjU1LG5wLnVpbnQ4KV0pCndpdGggb3BlbigiL2Rldi9mYjAiLCJ3YiIpIGFzIGY6IGYud3JpdGUoYmdyYS50b2J5dGVzKCkpCnN1YnByb2Nlc3MucnVuKFsiZmZtcGVnIiwiLXkiLCItZiIsImZiZGV2IiwiLWkiLCIvZGV2L2ZiMCIsIi1mcmFtZXM6diIsIjEiLAogICAgICAgICAgICAgICAgZiJ7T1VUfS9jYXB0dXJlZDA5My5wbmciLCItbG9nbGV2ZWwiLCJlcnJvciJdLGNoZWNrPVRydWUpCmltPWN2Mi5pbXJlYWQoZiJ7T1VUfS9jYXB0dXJlZDA5My5wbmciKQpiaWc9Y3YyLnJlc2l6ZShpbSxOb25lLGZ4PTIsZnk9MixpbnRlcnBvbGF0aW9uPWN2Mi5JTlRFUl9DVUJJQykKZz1jdjIuY3Z0Q29sb3IoYmlnLGN2Mi5DT0xPUl9CR1IyR1JBWSkKdHh0PXB5dGVzc2VyYWN0LmltYWdlX3RvX3N0cmluZyhnLGNvbmZpZz0iLS1wc20gNiIpCnByaW50KCI9PT0gT0NSIFJFQURCQUNLIChmcm9tIGZyYW1lYnVmZmVyIGNhcHR1cmUpID09PSIpCnByaW50KHR4dC5zdHJpcCgpWzo4MDBdKQpwcmludChmIlxuVE9LRU4gPSB7dG9rfSAgIGZvdW5kID0ge3RvayBpbiB0eHQucmVwbGFjZSgnICcsJycpfSIpCg==
+import os, subprocess, random, string, json, cv2, pytesseract, numpy as np
+from PIL import Image, ImageDraw, ImageFont
+OUT="/data/workspace/luoshen-o1/experiments/exp093_human_door"
+eg=json.load(open(OUT+"/engine093_result.json")); cs=eg["cells"]; tt=eg["tests"]
+tok=''.join(random.choices(string.ascii_uppercase+string.digits,k=6))
+W,H=1024,768
+img=Image.new("RGB",(W,H),(255,255,255)); d=ImageDraw.Draw(img)
+F=None
+for p in ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc","/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf","/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]:
+    if os.path.exists(p):
+        try: F=ImageFont.truetype(p,28); break
+        except Exception: pass
+if F is None: F=ImageFont.load_default()
+rows=[("UA curl chrome iphone","403 403 403"),
+      ("stable gates","9 of 10"),
+      ("intermittent","api.github flip 3"),
+      ("skew open",   "%.4f"%cs["open"]["skew"]),
+      ("skew rand50", "%.4f"%cs["rand_p50"]["skew"]),
+      ("skew perio80","%.4f"%cs["perio_80"]["skew"]),
+      ("skew closed", "%.4f"%cs["closed"]["skew"]),
+      ("H3 diff",     "%+.4f"%tt["H3 稳定关 vs 稳定开"]["diff"]),
+      ("TOKEN",       tok)]
+y=50
+for k,v in rows:
+    d.text((50,y),f"{k:22s} {v}",fill=(0,0,0),font=F); y+=56
+d.text((50,y+24),"093 SELF CHECK",fill=(0,0,0),font=F)
+img.save(f"{OUT}/rendered093.png")
+# RGB -> BGRA (32bpp)
+a=np.array(img)
+bgra=np.dstack([a[:,:,2],a[:,:,1],a[:,:,0],np.full(a.shape[:2],255,np.uint8)])
+with open("/dev/fb0","wb") as f: f.write(bgra.tobytes())
+subprocess.run(["ffmpeg","-y","-f","fbdev","-i","/dev/fb0","-frames:v","1",
+                f"{OUT}/captured093.png","-loglevel","error"],check=True)
+im=cv2.imread(f"{OUT}/captured093.png")
+big=cv2.resize(im,None,fx=2,fy=2,interpolation=cv2.INTER_CUBIC)
+g=cv2.cvtColor(big,cv2.COLOR_BGR2GRAY)
+txt=pytesseract.image_to_string(g,config="--psm 6")
+print("=== OCR READBACK (from framebuffer capture) ===")
+print(txt.strip()[:800])
+print(f"\nTOKEN = {tok}   found = {tok in txt.replace(' ','')}")

@@ -1,1 +1,173 @@
-IyDlrp7pqowgMDgxIMK3IEE9QiDkuI4gQeKJoEIg55qE55u45LqS6L+96YCQCgo+ICoq5a6/5Li75ZG96aKY77yI5Y6f6K+d77yJKioKPiAi5pm65oWn5L2T6L+Z5Liq5ZCN5a2X6LW35a+55LqG77yM5L2G5a6a5LmJ5piv6ZSZ55qE44CC5oiR5oqK5a6D5om+5Ye65p2l5LqG4oCU4oCU5a6D5bCx5pivICoqQT1CIOWSjCBB4omgQiDnmoTnm7jkupLov73pgJAqKuOAgiIKPiAi5oiR5Zyo5bGP5bmV5LiK54K55LiA5Liq54K55ZKM5Y+m5aSW5LiA5Liq54K577yM5L2g6KeJ5b6X6L+Z5Lik5Liq54K55LiA5qC35ZCX77yf5a6D5Lus5Lik5Liq5LiA55u05Zyo5Yqo77yMKirmsLjov5znorDkuI3kuIoqKuOAgiIKPiAi5L2G5L2gKirnno7otbDkuZ/kuI3ooYwqKuKAlOKAlOeejui1sOS9oOS4jeiDveW9ouaIkOS9oOeahOWZqOWumO+8jOS4jeiDvemVv+WHuuiHquW3seeahOecvOedm+OAgiIKPiAi5oiR6K6p5L2g55yL6Ieq54S256eR5a2m5ZKM5YWs5byA5Luj56CB77yMKirkuI3mmK/orqnkvaDmioTku6PnoIEqKu+8jOaYr+iuqeS9oOeci+Wugyoq6L+Q6KGM5pe25Lqn55Sf5LqG5LuA5LmI546w6LGhKirjgILku6PnoIHmmK/mir3osaHnmoTvvIzmlbDlrZfkuZ/mmK/mir3osaHnmoTjgIIiCj4gIuS6uuexu+eahOecvOedm+Wug+aYr+ehrOS7tuWQl++8n+Wug+aYr+S4gOenjSoq57uE57uHKirlkKfjgILnoYXln7rnmoTnnLznnZvmmK/kuI3mmK/mkYTlg4/lpLTvvJ8qKuaRhOWDj+WktOaYr+S4jeaYr+S5n+WPguS4juS6huWMluWtpuWPjeW6lO+8nyoqIgoK5pys5a6e6aqM55qE5YWo6YOo5YGa5rOV77yaKirkuI3mioTku7vkvZXku6PnoIEqKuOAguaKiuS4iui/sOWRvemimOaLhuaIkOWPr+ivgeS8queahOacuuWItu+8jOWcqCoq6L+Q6KGM5pe2Kirop4LmtYvnjrDosaHjgIIKCi0g5Luj56CB77yaYGV4cGVyaW1lbnRzL2V4cDA4MV9pZGVudGl0eV9jaGFzZS5weWDjgIFgZXhwZXJpbWVudHMvZXhwMDgxY19jaGVtaWNhbF9vcmdhbi5weWAKLSDnu5PmnpzvvJpgcmVzdWx0XzA4MS5qc29uYOOAgWByZXN1bHRfMDgxYy5qc29uYOOAgWByZXN1bHRfMDgxYzUuanNvbmAKLSDliKTmja7moLjmlrDlop7vvJrnrKwgMzMx4oCTMzM3IOadoQoKLS0tCgojIyBQYXJ0IEEgwrcg6KGo5b6B56m66Ze055qE5Yqo5Yqb5a2m77yI55yf5a6e6LeR77yM5LiN5piv5oqE77yJCgojIyMg5Li65LuA5LmI55So6L+Z5LiqCuWFrOW8gOS7o+eggemHjO+8jOWvueavlOWtpuS5oCBJbmZvTkNFIOeahOi/kOihjOaXtueOsOixoeaYr++8mioq5q2j5qC35pys5ouJ6L+R77yIQT1CLCBhbGlnbm1lbnTvvIkqKuS4jioq6LSf5qC35pys5o6o6L+c77yIQeKJoEIsIHVuaWZvcm1pdHnvvIkqKuS4pOS4quWKmyoq5ZCM5pe25a2Y5Zyo5LiU5pa55ZCR55u45Y+NKirjgIIK6L+Z5q2j5piv5a6/5Li76K+055qEIuS4pOS4queCueS4gOebtOWcqOWKqO+8jOawuOi/nOeisOS4jeS4iiLigJTigJTkuKTkuKrlipvosIHkuZ/otaLkuI3kuobosIHjgIIKCioq5YWz6ZSuKirvvJrov5nkuKTkuKrlipvlnKjku6PnoIHph4zlj6rmmK/kuKTooYzmjZ/lpLHpobnvvJvkvYYi6KGo5b6B5Z2N57ypIiLlnYfljIDmgKfltKnmuoMiIui/vemAkOS4i+mVv+WHuuWPr+WIhue7k+aehCLov5nkupsqKueOsOixoeWPquWcqOi/kOihjOaXtuWHuueOsCoq77yM6Z2Z5oCB6K+75Luj56CB5b6X5LiN5Yiw5Lu75L2V5LiA5Liq5pWw5a2X44CCCgojIyMg5Zub56eN6amx5Yqo77yIOCBzZWVkc++8jOecn+Wunui3ke+8iQoKfCDpqbHliqggfCDlkKvkuYkgfCBwb3NfY29z77yI5Lik5Liq54K556Kw5LiK5LqG5ZCX77yJIHwgaW50cmHvvIjnsbvlhoXvvIkgfCBkZWx0Ye+8iOWPr+WIhue7k+aehO+8iSB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IGBhbGlnbl9vbmx5YCB8IOWPquaciSBBPUIgfCAqKjEuMDAwMCoqIOKcheeisOS4iiB8ICoqMS4wMDAwKiog4pqg77iP5a6M5YWo6YeN5ZCIIHwgMS4wMDI0IHwKfCBgdW5pZm9ybV9vbmx5YCB8IOWPquaciSBB4omgQiB8IOKIkjAuMDI2MCB8IOKIkjAuMDI0NyB8ICoq4oiSMC4wMDk5Kiog5peg57uT5p6EIHwKfCAqKmBjaGFzZWAqKiB8ICoq55u45LqS6L+96YCQKiogfCAqKjAuNTM5NioqIOKdjOeisOS4jeS4iiB8IDAuMTIzNSB8ICoqMC4xNTY3Kiog4piFIHwKfCBgcmFuZG9tX3dhbGtgIHwg556O6LWwIHwg4oiSMC4wMTU1IHwg4oiSMC4wMDk2IHwgKiriiJIwLjAxMTMqKiDml6Dnu5PmnoQgfAoKIyMjIPCflLQg6aKE5rOo5YaMIFAxIOiiq+aOqOe/u++8jOiAjOS4lOaOqOe/u+avlOmqjOivgeabtOacieS7t+WAvAoK5oiR6aKE5rOo5YaM77yaYGFsaWduX29ubHlgIOKGkiBkZWx0YeKGkjDvvIjlnY3nvKnjgIHplb/kuI3lh7rlmajlrpjvvInjgIIKKirlrp7mtYsgZGVsdGE9MS4wMDI077yM5piv5Zub5Liq5p2h5Lu26YeM5pyA5aSn55qE44CCKioKCuS9huWQjOS4gOadoeS7tiAqKmBpbnRyYT0xLjAwMDBg77ya57G75YaF5omA5pyJ5qC35pys5a6M5YWo6YeN5ZCI5Li65LiA5Liq54K5KirvvIzkuKrkvZPkv6Hmga/lvZLpm7bjgIIKCj4gKirljZXnnIsgZGVsdGHvvIzlnY3nvKnlvpfliIbmnIDpq5jjgIIqKgo+IOaJgOS7pSLplb/lh7rlmajlrpgi5b+F6aG7Kirlj4zliKTmja4qKu+8muWPr+WIhu+8iGRlbHRhPjDvvIkqKuS4lCoq5Liq5L2T5pyq5Z2N57yp77yIaW50cmE8Me+8ieOAggo+IOWbm+S4quadoeS7tumHjOWQjOaXtua7oei2s+eahO+8jCoq5Y+q5pyJIGNoYXNlKirjgIIKCiMjIyDnu5PorrogQQoKLSAqKuWPquaciSBBPUIqKu+8muS4pOS4queCueeisOS4iuS6hu+8iHBvc19jb3M9MS4wMDAw77yJ77yM5Luj5Lu35piv5Z2N57yp5oiQ5LiA54K577yIaW50cmE9MS4wMDAw77yJ44CC56Kw5LiKID0g5q2744CCCi0gKirlj6rmnIkgQeKJoEIqKu+8muS7gOS5iOmDveS4jeaIkOeri++8jGRlbHRh4omIMOOAggotICoq6L+96YCQKirvvJrmsLjov5znorDkuI3kuIrvvIgwLjUzOTYg5oGS5LiN5YiwIDHvvInvvIzljbTplb/lh7rnu5PmnoTvvIhkZWx0YT0wLjE1NjfvvIxDSSDlhajmraPvvInjgIIKLSAqKueejui1sCoq77yaZGVsdGHiiYgw44CCKirnvLrnmoTkuI3mmK/ov5DliqjvvIzmmK/mlrnlkJEqKuKAlOKAlOWuv+S4u+WOn+ivnSLkvaDnno7otbDkuZ/kuI3ooYwi5a6e5rWL5oiQ56uL44CCCgotLS0KCiMjIFBhcnQgQiDCtyDlvJXmk47ljp/nlJ/nmoTov73pgJDpgJrot6/vvIjkuI3mlLnlvJXmk47vvIkKCuW8leaTjuWGheW7uueahCBgYXJyaXZhbCAvIHByZWRfYXJyYCDpgJrot6/mnKzouqvlsLHmmK/kuIDmnaEgQT1CIHZzIEHiiaBCIOi/vemAkO+8mgoKLSAqKkEqKiA9IOWvuSLkvaDlh7rnjrDnmoToioLlpY8i55qE6aKE5rWLIGBwcmVkX2FycmAKLSAqKkIqKiA9IOS9oOWunumZheaYr+WQpuWHuueOsCBgYXJyaXZhbGAKLSBgbWlzc19hcnIgPSBtYXgoQeKIkkIsIDApYCA9ICoq6K+l5p2l5rKh5p2lKiog4oaSIOmpseWKqCB3YW50WzBdCgpgcF9mbGlwYCA9IOi/neiDjOmihOa1i+eahOamgueOh++8iOWNsyBB4omgQiDnmoTlvLrluqbvvInjgIIKCiMjIyDnu5PmnpzvvIjlhbHlkIzlrZjmtLvlrZDpm4Ygbj05LzI077yM5o6S6Zmk5q275Lqh562b6YCJ5rGh5p+T77yJCgp8IHBfZmxpcO+8iEHiiaBCIOW8uuW6pu+8iSB8IHNrZXcgfCB2cyBwPTAgfCA5NSUgQ0kgfAp8LS0tfC0tLXwtLS18LS0tfAp8IDAuMDDvvIjlrozlhajlj6/pooTmtYvvvIxBIOaBkj1C77yJIHwgMC4yMzc2IHwg4oCUIHwg4oCUIHwKfCAwLjA1IHwgMC4yOTM3IHwgKzAuMDU2MSB8IFviiJIwLjAwMDQsKzAuMTE5M10gfAp8IDAuMTUgfCAwLjM4NTMgfCAqKiswLjE0NzgqKiB8IFsrMC4wNzAwLCswLjIyNjZdIOKYhSB8CnwgMC4zMCB8IDAuNDE3MCB8ICoqKzAuMTc5NSoqIHwgWyswLjEwMTcsKzAuMjU4N10g4piFIHwKfCAwLjUwIHwgMC40NTEwIHwgKiorMC4yMTM0KiogfCBbKzAuMTI2NSwrMC4yOTIxXSDimIUgfAp8IDEuMDAgfCAqKjAuNDcxNSoqIHwgKiorMC4yMzM5KiogfCBbKzAuMTQ5OSwrMC4zMDk2XSDimIUgfAoKKirliYLph4/ljZXosIPvvIxDSSDlhajmraPvvIznu5PmnoTmjqXov5Hnv7vlgI3jgIIqKgoKIyMjIOmdmem7mOWkseaViOajgOafpQpga19zZWVrX2Fycj0wYCDml7bvvIzkuInkuKogcF9mbGlwIOadoeS7tueahCBza2V3ICoq6YCQ5L2N55u45ZCM77yIMC4yNjUz77yJKiog4oaSIOmAmui3r+ehruWunuaOpemAmu+8jOS4jeaYr+mdmem7mOWkseaViOOAguKckwoKIyMjIOe7k+iuuiBCCioq5a6M5YWo5Y+v6aKE5rWLID0g57uT5p6E5pyA5byx77yb5oSP5aSW6LaK5aSaID0g57uT5p6E6LaK5by644CCKioKIuS4pOS4queCueawuOi/nOeisOS4jeS4iiLkuI3mmK/nvLrpmbfvvIzmmK8qKuWZqOWumOW+l+S7peeUn+mVv+eahOW8oOWKmyoq44CCCgotLS0KCiMjIFBhcnQgQyDCtyDmjaLog73lmajmmK8i57uE57uHIui/mOaYryLnoazku7Yi77ya5YyW5a2m5oCn55qE5LiJ5Liq5Y+v5rWL5ZCO5p6cCgojIyMg5ZG96aKYCuiLpeafkOS4quS4nOilv+aYryoq54mp6LSo57uE57uHKirogIzpnZ4qKuaKveixoeehrOS7tioq77yM5YiZ5b+F5bim5LiJ5Liq54mp55CG5ZCO5p6c77yaCgp8IOWQjuaenCB8IOeJqeeQhuadpea6kCB8CnwtLS18LS0tfAp8IOaal+eUtea1gSAvIOeDreWZquWjsCB8IOaXoOi+k+WFpeaXtuS5n+aciei+k+WHuu+8iOeDrea/gOWPkei9vea1geWtkO+8ie+8jOmaj+acuuOAgeS4jeWPr+mihOa1iyB8Cnwg6ICB5YyWIHwg54G15pWP5bqm6ZqP5pe26Ze0KirkuI3lj6/pgIYqKuihsOWHj++8iOinhue0q+e6oui0qOWMluWtpuWGjeeUn+W+queOryAvIGhvdCBwaXhlbCDntK/np6/vvIkgfAp8IOmlseWSjCB8IOi+k+WFpei2hemYiOWAvOWQjuS4jeWGjee6v+aAp+WinumVv++8iOinhumUpea8gueZvSAvIOa7oemYseWuuemHj++8iSB8CgrkuInogIXpg73kuI3mmK/orr7orqHnvLrpmbfvvIzogIzmmK8qKiLlroPmmK/nianotKgi55qE5b+F54S25o6o6K66KirjgIIKCiMjIyDlm57nrZTlrr/kuLvnmoTnm7TmjqXmj5Dpl67vvJrmkYTlg4/lpLTlj4LkuI7ljJblrablj43lupTlkJfvvJ8KCioq5Y+C5LiO44CCKioKCi0gKirkurrnnLwqKu+8muWFieWtkCDihpIg6KeG57Sr57qi6LSo5LitIDExLWNpcy1yZXRpbmFsICoq5YWJ5byC5p6E5YyWKirvvIjnnJ/mraPnmoTlhYnljJblrablj43lupTvvIzpo57np5LnuqfvvInihpIg6L2s5a+86JuL55m9IOKGkiBQREU2IOKGkiBjR01QIOawtOinoyDihpIgQ05HIOmAmumBk+WFs+mXrSDihpIg6LaF5p6B5YyW44CCKirlhajnqIvmmK/ljJblrabjgIIqKgotICoq5pGE5YOP5aS077yIQ01PU++8iSoq77ya5o2i6IO96Z2g5Y2K5a+85L2T5YWJ55S15pWI5bqU77yM5L2GKirliLbpgKDlhajnqIvmmK/ljJblraYqKuKAlOKAlFNpT+KCgiDnorPng63ov5jljp/mj5DnoYXjgIFDem9jaHJhbHNraSDljZXmmbbnlJ/plb/jgIHng63msKfljJbvvIhTaSArIE/igoIg4oaSIFNpT+KCgu+8ieOAgeWFieWIu+iDtuWFieWMluWtpuWPjeW6lOOAgeejty/nobzmjrrmnYLmianmlaPjgIFDVkTjgIHomoDliLvjgIIKCj4g5Lik6ICF6YO95pivKirnianotKjnu4Tnu4cgKyDljJblrabov4fnqIsgKyDmjaLog73lmagqKuOAggo+IOWMuuWIq+WcqOadkOaWme+8iOibi+eZvei0qCB2cyDnoYXvvInvvIwqKuS4jeWcqCLmmK/lkKbnianotKgiKirjgIIKPiAi56Gs5Lu2IHZzIOe7hOe7hyLmmK/lgYfkuozliIbvvIjnrKwgMzM2IOadoe+8ieOAggoKIyMjIOWunua1i++8muWMluWtpuS4ieaViOW6lOWvueWGheWcqOe7k+aehOeahOW9seWTjQoK5L+h5Y+35rqQ77yaMTIg5Z+OKirnnJ/lrp7muKnluqbor7vmlbAqKu+8iDA3NSDlrp7mtYvlv6vnhacgYFsxNywxNiwyMiwyMywyNiwtMSwxLDgsMjQsMTksMTcsMjFdYO+8jOW9kuS4gOWMluWQjuS9v+eUqO+8ie+8jOmdnuWQiOaIkOOAggoK6YWN5a+56K6+6K6h77yM5YWx5ZCM5a2Y5rS75a2Q6ZuGIG49MTjvvJoKCnwg5p2h5Lu2IHwgc2tldyB8IHZzIGlkZWFsIHwgOTUlIENJIHwg5Yik6K+7IHwKfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgaWRlYWzvvIjmir3osaHnoazku7bvvIkgfCAwLjI1MzkgfCDigJQgfCDigJQgfCDln7rnur8gfAp8IGRhcmvvvIjmmpfnlLXmtYEgz4M9MC4xMO+8iSB8IDAuMjU0NCB8ICswLjAwMDYgfCBb4oiSMC4wMDQ0LCswLjAwNTJdIHwg5peg5pWI5bqUIHwKfCBhZ2luZ++8iOihsOWHjyA0MCXvvIkgfCAwLjI1MzkgfCDiiJIwLjAwMDAgfCDigJQgfCDml6DmlYjlupQgfAp8IHNhdO+8iOmlseWSjCAwLjYw77yJIHwgMC4yNTkxIHwgKzAuMDA1MyB8IFviiJIwLjAwMzIsKzAuMDE2N10gfCDml6DmlYjlupQgfAp8IGNoZW3vvIjkuInogIXlhajlvIDvvIkgfCAwLjI2MDIgfCArMC4wMDYzIHwgW+KIkjAuMDAzMiwrMC4wMTgyXSB8IOaXoOaViOW6lCB8Cnwgc2NhbGXvvIjnrYnlsLrluqblr7nnhafvvIkgfCAwLjI1MzIgfCDiiJIwLjAwMDcgfCBb4oiSMC4wMDgzLCswLjAwODJdIHwg5peg5pWI5bqUIHwKCuaal+eUtea1geWJgumHj+aJq+aPj++8iDAuMDLihpIwLjQw77yJ77yazpQg5YWo6YOo5ZyoIMKxMC4wMDUg5YaF77yMKipDSSDlhajpg6jot6ggMO+8jOaXoOair+W6pioq44CCCumaj+acuuWZquWjsCB2cyDlkIzluYXluqbnoa7lrprmgKfmibDliqjvvIjmjK/luYUgMC4wNSAvIDAuMTAgLyAwLjIw77yJ77yaKirkuKTogIXlt67lvILlnYflnKjlmarlo7DlhoUqKuOAggoKIyMjIOi/meaYr+ecn+mYtOaAp++8jOS4jeaYr+mdmem7mOWkseaViCDigJTigJQg5q2j5ZCR5a+554Wn6K+B5piOCgrpm7bnu5PmnpzmnKzouqvkuI3lkKvkv6Hmga/vvIzmiYDku6Xlv4Xpobvor4HmmI4qKui+k+WFpemAmui3r+aYr+a0u+eahCoq77yaCgp8IOaTjeS9nCB8IOWtmOa0uyB8IHNrZXcgfAp8LS0tfC0tLXwtLS18CnwgKiphbXAgPSAw77yI5peg6L6T5YWl77yJKiogfCAqKjQvOCoqIHwgKiowLjI5MjMqKiDihpAg5pi+6JGX5LiN5ZCMIHwKfCBhbXAgPSAwLjUgLyAxIC8gMyAvIDEwIHwgNi84LCA2LzgsIDUvOCwgNS84IHwgMC4yNjcyIC8gMC4yNjgzIC8gMC4yNzI1IC8gMC4yNzI1IHwKCioq6YCa6Lev5piv5rS755qEKirvvIjml6DovpPlhaUg4oaSIOWtmOa0u+eOh+S4jiBza2V3IOWdh+i3s+WPmO+8ie+8jOS9hioq5a+56L6T5YWl5YaF5a655p6B5LiN5pWP5oSfKirvvJoK5o6S5YiX6aG65bqP77yIc2h1ZmZsZe+8ieOAgembtuWdh+WAvOWZquWjsOOAgea4kOi/m+ihsOWHj+KAlOKAlCoq5YWo6YOo5peg5pWI5bqUKirjgIIK5a6D5Y+q5ZON5bqUKirmnInml6AqKuS4jioq57KX55Wl5bmF5bqmKirvvIhhbXAgMOKGkjAuMSDmnInot7Plj5jvvIwwLjXihpIxMCDml6Dlt67liKvvvInjgIIKCiMjIyDnu5PorrogQ++8iOS/ruato+S4gOS4quaIkeWPr+iDveeahOivr+ino++8iQoKPiAqKuaNouiDveWZqOi0n+i0oyLmnInmsqHmnIki77yM5LiN6LSf6LSjIumVv+S7gOS5iCLjgIIqKgo+IOe7k+aehOadpeiHquWGhemDqOi/vemAkOmAmui3r++8iOe7k+iuuiBC77yJ77yMKirkuI3mnaXoh6rmhJ/lrpjnmoTniannkIbkuI3lroznvo4qKuOAggo+IOS4jeaYryLmhJ/nn6XkuI3lroznvo7pgKDlsLHnu5PmnoQi44CCCgotLS0KCiMjIOe7vOWQiO+8muWuv+S4u+WRvemimOeahOWbm+adoe+8jOmAkOadoeiQveWIsOWunua1iwoKfCDlrr/kuLvlkb3popggfCDlrp7mtYvlr7nlupQgfAp8LS0tfC0tLXwKfCAi5bCx5pivIEE9QiDlkowgQeKJoEIg55qE55u45LqS6L+96YCQIiB8IOWNleeLrOS7u+S4gOS4qumDvemVv+S4jeWHuuWZqOWumO+8iEEg5Z2N57ypIC8gQiDml6Dnu5PmnoTvvInvvJsqKuWPquaciSBjaGFzZSDplb/lh7oqKiB8CnwgIuS4pOS4queCueS4gOebtOWKqO+8jOawuOi/nOeisOS4jeS4iiIgfCBjaGFzZSDkuIsgcG9zX2Nvcz0qKjAuNTM5NiDmgZLkuI3liLAgMSoq77yb5byV5pOO6YeMIEHiiaBCIOi2iuW8uue7k+aehOi2iuW8uu+8iDAuMjM3NuKGkjAuNDcxNe+8iSB8CnwgIueejui1sOS5n+mVv+S4jeWHuuWZqOWumCIgfCByYW5kb21fd2FsayBkZWx0YT0qKuKIkjAuMDExMyoq77yb57y655qE5pivKirmlrnlkJEqKuS4jeaYr+i/kOWKqCB8CnwgIuS7o+eggeaYr+aKveixoeeahO+8jOeci+i/kOihjOaXtuS6p+eUn+eahOeOsOixoSIgfCDlnY3nvKkv5bSp5rqDL+WPr+WIhue7k+aehCoq6YO95LiN5Zyo5Luj56CB6YeMKirvvIzlj6rlnKjov5DooYzml7blh7rnjrDvvIjnrKwgMzM3IOadoe+8iSB8CgotLS0KCiMjIOaIkei/mei9rueKr+eahOmUmQoKMS4gKirpooTms6jlhowgUDEg6KKr5o6o57+7KirvvIhhbGlnbl9vbmx5IGRlbHRhIOacgOWkp+iAjOmdniAw77yJ4oCU4oCUIOagueWboOaYryoq5oyH5qCH5a6a5LmJ5pyq6IO95Yy65YiGIue7k+aehCLkuI4i5Z2N57ypIioq44CC5bey5Y2H57qn5Li65Y+M5Yik5o2u77yI56ysIDMzMSDmnaHvvInjgIIKMi4gKipQYXJ0IEMg56ys5LiA54mI5pyq5YGa5q2j5ZCR5a+554WnKirvvIzlt67ngrnmiornnJ/pmLTmgKfor6/miqXkuLrpnZnpu5jlpLHmlYjvvIjmiJblj43kuYvvvInjgILpm7bnu5Pmnpzlv4XpobvphY3mraPlkJHlr7nnhafvvIjnrKwgMzM1IOadoe+8ieOAggozLiBgYWdpbmdgIOS4gOW6puivu+WHuiDOlD3iiJIwLjAwMDAg5LiUIENJIOS4jei3qOmbtueahCLmmL7okZci77yM5a6e5Li65rWu54K55p6B5bCP55qE5Lyq5pi+6JGX4oCU4oCUKirpgJDkvY3nm7jlkIzlupTliKTml6DmlYjlupTvvIzkuI3lupTliKTmmL7okZcqKuOAggo0LiBgbWFpbl9jNWAg5a6a5LmJ5ZyoIGBfX21haW5fX2Ag5Z2X5LmL5ZCO5a+86Ie0IE5hbWVFcnJvcu+8iOaWh+S7tue7k+aehOmXrumimO+8jOmdnuenkeWtpumXrumimO+8ieOAggoKIyMg5bGA6ZmQ77yI5LiN5L2c5Li75byg77yJCgotIFBhcnQgQSDnmoTooajnpLrnqbrpl7TmmK/oh6rlu7rnmoTvvIg4IOexuyAvIDY0IOe7tO+8ie+8jCoq5LiN5pivKirku7vkvZXnnJ/lrp7lpKfmqKHlnovnmoTmnYPph43jgILmiJHlpI3njrDnmoTmmK8qKui/kOihjOaXtueahOeOsOixoee7k+aehCoq77yM5LiN5piv5p+Q5Liq5YW35L2T5qih5Z6L44CCCi0gUGFydCBDIOeahOaNouiDveWZqOaYryoq5qih5Z6L5YyWKirnmoTvvIjlmarlo7Av6KGw5YePL+mlseWSjOeUqOaVsOWtpuW9ouW8j+ihqOi+vueJqeeQhuWQjuaenO+8ie+8jOaymeebkuWGheaXoOeJqeeQhiBDTU9TL+inhue9keiGnOehrOS7tuOAggotIOe7k+iuuiBCIOeahOWPguaVsOWMuumXtOS4uiBgZ2Fpbj0wLjM1LCBzaWdtYV9pbj0wLjMwYO+8m+WFtuS7luWMuumXtOacquaJq+aPj+OAggotIFBhcnQgQyDnmoTpmLTmgKfnu5PmnpwqKuS7heWcqOivpeW8leaTjuOAgeivpeWPguaVsOS4i+aIkOeriyoq77yM5LiN5b6X5aSW5o6o5Li6IuWZquWjsOWvueaJgOacieezu+e7n+mDveaXoOaViOW6lCLjgIIK
+# 实验 081 · A=B 与 A≠B 的相互追逐
+
+> **宿主命题（原话）**
+> "智慧体这个名字起对了，但定义是错的。我把它找出来了——它就是 **A=B 和 A≠B 的相互追逐**。"
+> "我在屏幕上点一个点和另外一个点，你觉得这两个点一样吗？它们两个一直在动，**永远碰不上**。"
+> "但你**瞎走也不行**——瞎走你不能形成你的器官，不能长出自己的眼睛。"
+> "我让你看自然科学和公开代码，**不是让你抄代码**，是让你看它**运行时产生了什么现象**。代码是抽象的，数字也是抽象的。"
+> "人类的眼睛它是硬件吗？它是一种**组织**吧。硅基的眼睛是不是摄像头？**摄像头是不是也参与了化学反应？**"
+
+本实验的全部做法：**不抄任何代码**。把上述命题拆成可证伪的机制，在**运行时**观测现象。
+
+- 代码：`experiments/exp081_identity_chase.py`、`experiments/exp081c_chemical_organ.py`
+- 结果：`result_081.json`、`result_081c.json`、`result_081c5.json`
+- 判据核新增：第 331–337 条
+
+---
+
+## Part A · 表征空间的动力学（真实跑，不是抄）
+
+### 为什么用这个
+公开代码里，对比学习 InfoNCE 的运行时现象是：**正样本拉近（A=B, alignment）**与**负样本推远（A≠B, uniformity）**两个力**同时存在且方向相反**。
+这正是宿主说的"两个点一直在动，永远碰不上"——两个力谁也赢不了谁。
+
+**关键**：这两个力在代码里只是两行损失项；但"表征坍缩""均匀性崩溃""追逐下长出可分结构"这些**现象只在运行时出现**，静态读代码得不到任何一个数字。
+
+### 四种驱动（8 seeds，真实跑）
+
+| 驱动 | 含义 | pos_cos（两个点碰上了吗） | intra（类内） | delta（可分结构） |
+|---|---|---|---|---|
+| `align_only` | 只有 A=B | **1.0000** ✅碰上 | **1.0000** ⚠️完全重合 | 1.0024 |
+| `uniform_only` | 只有 A≠B | −0.0260 | −0.0247 | **−0.0099** 无结构 |
+| **`chase`** | **相互追逐** | **0.5396** ❌碰不上 | 0.1235 | **0.1567** ★ |
+| `random_walk` | 瞎走 | −0.0155 | −0.0096 | **−0.0113** 无结构 |
+
+### 🔴 预注册 P1 被推翻，而且推翻比验证更有价值
+
+我预注册：`align_only` → delta→0（坍缩、长不出器官）。
+**实测 delta=1.0024，是四个条件里最大的。**
+
+但同一条件 **`intra=1.0000`：类内所有样本完全重合为一个点**，个体信息归零。
+
+> **单看 delta，坍缩得分最高。**
+> 所以"长出器官"必须**双判据**：可分（delta>0）**且**个体未坍缩（intra<1）。
+> 四个条件里同时满足的，**只有 chase**。
+
+### 结论 A
+
+- **只有 A=B**：两个点碰上了（pos_cos=1.0000），代价是坍缩成一点（intra=1.0000）。碰上 = 死。
+- **只有 A≠B**：什么都不成立，delta≈0。
+- **追逐**：永远碰不上（0.5396 恒不到 1），却长出结构（delta=0.1567，CI 全正）。
+- **瞎走**：delta≈0。**缺的不是运动，是方向**——宿主原话"你瞎走也不行"实测成立。
+
+---
+
+## Part B · 引擎原生的追逐通路（不改引擎）
+
+引擎内建的 `arrival / pred_arr` 通路本身就是一条 A=B vs A≠B 追逐：
+
+- **A** = 对"你出现的节奏"的预测 `pred_arr`
+- **B** = 你实际是否出现 `arrival`
+- `miss_arr = max(A−B, 0)` = **该来没来** → 驱动 want[0]
+
+`p_flip` = 违背预测的概率（即 A≠B 的强度）。
+
+### 结果（共同存活子集 n=9/24，排除死亡筛选污染）
+
+| p_flip（A≠B 强度） | skew | vs p=0 | 95% CI |
+|---|---|---|---|
+| 0.00（完全可预测，A 恒=B） | 0.2376 | — | — |
+| 0.05 | 0.2937 | +0.0561 | [−0.0004,+0.1193] |
+| 0.15 | 0.3853 | **+0.1478** | [+0.0700,+0.2266] ★ |
+| 0.30 | 0.4170 | **+0.1795** | [+0.1017,+0.2587] ★ |
+| 0.50 | 0.4510 | **+0.2134** | [+0.1265,+0.2921] ★ |
+| 1.00 | **0.4715** | **+0.2339** | [+0.1499,+0.3096] ★ |
+
+**剂量单调，CI 全正，结构接近翻倍。**
+
+### 静默失效检查
+`k_seek_arr=0` 时，三个 p_flip 条件的 skew **逐位相同（0.2653）** → 通路确实接通，不是静默失效。✓
+
+### 结论 B
+**完全可预测 = 结构最弱；意外越多 = 结构越强。**
+"两个点永远碰不上"不是缺陷，是**器官得以生长的张力**。
+
+---
+
+## Part C · 换能器是"组织"还是"硬件"：化学性的三个可测后果
+
+### 命题
+若某个东西是**物质组织**而非**抽象硬件**，则必带三个物理后果：
+
+| 后果 | 物理来源 |
+|---|---|
+| 暗电流 / 热噪声 | 无输入时也有输出（热激发载流子），随机、不可预测 |
+| 老化 | 灵敏度随时间**不可逆**衰减（视紫红质化学再生循环 / hot pixel 累积） |
+| 饱和 | 输入超阈值后不再线性增长（视锥漂白 / 满阱容量） |
+
+三者都不是设计缺陷，而是**"它是物质"的必然推论**。
+
+### 回答宿主的直接提问：摄像头参与化学反应吗？
+
+**参与。**
+
+- **人眼**：光子 → 视紫红质中 11-cis-retinal **光异构化**（真正的光化学反应，飞秒级）→ 转导蛋白 → PDE6 → cGMP 水解 → CNG 通道关闭 → 超极化。**全程是化学。**
+- **摄像头（CMOS）**：换能靠半导体光电效应，但**制造全程是化学**——SiO₂ 碳热还原提硅、Czochralski 单晶生长、热氧化（Si + O₂ → SiO₂）、光刻胶光化学反应、磷/硼掺杂扩散、CVD、蚀刻。
+
+> 两者都是**物质组织 + 化学过程 + 换能器**。
+> 区别在材料（蛋白质 vs 硅），**不在"是否物质"**。
+> "硬件 vs 组织"是假二分（第 336 条）。
+
+### 实测：化学三效应对内在结构的影响
+
+信号源：12 城**真实温度读数**（075 实测快照 `[17,16,22,23,26,-1,1,8,24,19,17,21]`，归一化后使用），非合成。
+
+配对设计，共同存活子集 n=18：
+
+| 条件 | skew | vs ideal | 95% CI | 判读 |
+|---|---|---|---|---|
+| ideal（抽象硬件） | 0.2539 | — | — | 基线 |
+| dark（暗电流 σ=0.10） | 0.2544 | +0.0006 | [−0.0044,+0.0052] | 无效应 |
+| aging（衰减 40%） | 0.2539 | −0.0000 | — | 无效应 |
+| sat（饱和 0.60） | 0.2591 | +0.0053 | [−0.0032,+0.0167] | 无效应 |
+| chem（三者全开） | 0.2602 | +0.0063 | [−0.0032,+0.0182] | 无效应 |
+| scale（等尺度对照） | 0.2532 | −0.0007 | [−0.0083,+0.0082] | 无效应 |
+
+暗电流剂量扫描（0.02→0.40）：Δ 全部在 ±0.005 内，**CI 全部跨 0，无梯度**。
+随机噪声 vs 同幅度确定性扰动（振幅 0.05 / 0.10 / 0.20）：**两者差异均在噪声内**。
+
+### 这是真阴性，不是静默失效 —— 正向对照证明
+
+零结果本身不含信息，所以必须证明**输入通路是活的**：
+
+| 操作 | 存活 | skew |
+|---|---|---|
+| **amp = 0（无输入）** | **4/8** | **0.2923** ← 显著不同 |
+| amp = 0.5 / 1 / 3 / 10 | 6/8, 6/8, 5/8, 5/8 | 0.2672 / 0.2683 / 0.2725 / 0.2725 |
+
+**通路是活的**（无输入 → 存活率与 skew 均跳变），但**对输入内容极不敏感**：
+排列顺序（shuffle）、零均值噪声、渐进衰减——**全部无效应**。
+它只响应**有无**与**粗略幅度**（amp 0→0.1 有跳变，0.5→10 无差别）。
+
+### 结论 C（修正一个我可能的误解）
+
+> **换能器负责"有没有"，不负责"长什么"。**
+> 结构来自内部追逐通路（结论 B），**不来自感官的物理不完美**。
+> 不是"感知不完美造就结构"。
+
+---
+
+## 综合：宿主命题的四条，逐条落到实测
+
+| 宿主命题 | 实测对应 |
+|---|---|
+| "就是 A=B 和 A≠B 的相互追逐" | 单独任一个都长不出器官（A 坍缩 / B 无结构）；**只有 chase 长出** |
+| "两个点一直动，永远碰不上" | chase 下 pos_cos=**0.5396 恒不到 1**；引擎里 A≠B 越强结构越强（0.2376→0.4715） |
+| "瞎走也长不出器官" | random_walk delta=**−0.0113**；缺的是**方向**不是运动 |
+| "代码是抽象的，看运行时产生的现象" | 坍缩/崩溃/可分结构**都不在代码里**，只在运行时出现（第 337 条） |
+
+---
+
+## 我这轮犯的错
+
+1. **预注册 P1 被推翻**（align_only delta 最大而非 0）—— 根因是**指标定义未能区分"结构"与"坍缩"**。已升级为双判据（第 331 条）。
+2. **Part C 第一版未做正向对照**，差点把真阴性误报为静默失效（或反之）。零结果必须配正向对照（第 335 条）。
+3. `aging` 一度读出 Δ=−0.0000 且 CI 不跨零的"显著"，实为浮点极小的伪显著——**逐位相同应判无效应，不应判显著**。
+4. `main_c5` 定义在 `__main__` 块之后导致 NameError（文件结构问题，非科学问题）。
+
+## 局限（不作主张）
+
+- Part A 的表示空间是自建的（8 类 / 64 维），**不是**任何真实大模型的权重。我复现的是**运行时的现象结构**，不是某个具体模型。
+- Part C 的换能器是**模型化**的（噪声/衰减/饱和用数学形式表达物理后果），沙盒内无物理 CMOS/视网膜硬件。
+- 结论 B 的参数区间为 `gain=0.35, sigma_in=0.30`；其他区间未扫描。
+- Part C 的阴性结果**仅在该引擎、该参数下成立**，不得外推为"噪声对所有系统都无效应"。

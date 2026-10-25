@@ -1,1 +1,146 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5Y+R6Z+z57O757uf55qE5pe26Ze057u05bqm5LiO5omL5oCn5q6L5beu77yI5LiO55y8552bIOKYhTE3L+KYhTE4IOWujOWFqOWQjOaehO+8iQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrnlKjmiLfvvJrjgIzmiorlj5Hpn7Pns7vnu5/vvIzkurrnsbvnmoTlj5Hpn7Pns7vnu5/lpb3lpb3mg7Pmg7PjgI0KCuKYhSDnnLznnZvpgqPlpZfnmoTlm5vku7bkuovvvIzlj5Hpn7Pov5novrnkuIDkuIDlr7nlupTvvJoKCiAgICDnnLznnZsgICAgICAgICAgICAgICAgICAgICAgIOWPkemfswogICAg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgICDmiavop4blpKrlv6vov73kuI3kuIogICAgICAgICAgICAgIOivremAnyA0fjYg6Z+z6IqCL3PvvIzlo7DpgZPkuIDnm7TlnKjlj5jlvaIKICAgIOaJq+inhuaKkeWItu+8iOiHquW3seWKqOKGkuaEn+efpeWOi+S9ju+8iSAg6K+06K+d5oqR5Yi2IGNvcm9sbGFyeSBkaXNjaGFyZ2XvvIhSRUFMIOmZjTIwfjMwJe+8iQogICAg5Lit6Ze06Z2g5oOz6LGh5aGrICAgICAgICAgICAgICAgIOWNj+WQjOWPkemfs++8mumfs+e0oOmHjeWPoO+8jOS4remXtOayoeaciee6r+mfs+e0oAogICAg5q6L5beuPXRvcnNpb27ov53lj43vvIjmiYvmgKfvvIkgICAg5q6L5beuPWppdHRlci9zaGltbWVy77yIUkVBTCA8MSUvPDMl77yJCiAgICDmiYvmgKfmupA9Q04gSVYg5a6M5YWo5Lqk5Y+JICAgICAgIOaJi+aAp+a6kD3llonov5TnpZ7nu4/lt6blj7Pnu5XooYzot6/lvoTkuI3lkIwoMjJ2czEyY20pCgrimIUg5Li75a6e6aqM77yaaml0dGVyIOaYr+S4jeaYr+adpeiHquWjsOW4pueahOW3puWPs+S4jeWvueensO+8iOaJi+aAp++8ie+8nwogICAgYXN5bT0wICDihpIg5a6M5YWo5a+556ewIOKGkiDlkajmnJ/mgZLlrpog4oaSIGppdHRlciA9IDAKICAgIGFzeW0+MCAg4oaSIGppdHRlciA+IDAKICAgIOKYhSDliKTmja7vvJpqaXR0ZXIg6ZqPIGFzeW0g5Y2V6LCD5LiK5Y2H77yM5LiUIGFzeW09MCDml7blvZLpm7YKICAgIOKYhSDlr7nnhafvvJrmiornlJ/nianlmarlo7DkuZ/orr7kuLogMCDml7bvvIxqaXR0ZXIg5bqU5a6M5YWo55Sx5omL5oCn5Yaz5a6aCiAgICAgIOKGkiDliIbnprvjgJDlmarlo7DpobnjgJHlkozjgJDmiYvmgKfpobnjgJHvvIjimIUxNyDnlKjlkIzlkJHmr5TovoPliIbnprvlvaLnirbpobnnmoTnv7vniYjvvIkKCnByb3ZlbmFuY2XvvJrop6PliZYv55Sf55CGL+WjsOWtpuaVsOWAvCBSRUFM77ybYXN5bSDkuI4gaml0dGVyIOeahOWumumHj+WFs+ezuyA9IOacrOaooeWeiwoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKc3lzLnBhdGguaW5zZXJ0KDAsIEhFUkUpCmZyb20gY29yZS52b2NhbF9hbmF0b215IGltcG9ydCAoVm9jYWxGb2xkcywgaml0dGVyLCBzaGltbWVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvYXJ0aWN1bGF0aW9uLCBkYWZfYnJlYWtkb3duLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNwZWVjaF9zdXBwcmVzc2lvbiwgRjBfTUFMRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBKVF9OT1JNQUwsIFNIX05PUk1BTCwgREFGX1BFQUtfTVMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU1lMTF9IWiwgZm9ybWFudF92b3dlbCwgZm9ybWFudF91bmlmb3JtLCBUUkFOU19NUykKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiPSIgKiA5MCkKICAgIHByaW50KCIg5Y+R6Z+z55qE5omL5oCn5q6L5beu77yaaml0dGVyIOS7juWTquadpe+8nyIpCiAgICBwcmludCgiPSIgKiA5MCkKICAgIHByaW50KGYiXG4gIOWjsOW4piA9IOW3puWPs+S4pOeJh+iApuWQiOaMr+iNoSArIOawlOa1geiHqua/gO+8iOiCjOW8ueawlOWKqOeQhuiuuiBSRUFM77yJIikKICAgIHByaW50KGYiICDimIUg5omL5oCn5rqQ77ya5ZaJ6L+U56We57uP5bem57uV5Li75Yqo6ISJ5byTKDIyY20pIHZzIOWPs+e7lemUgemqqOS4i+WKqOiEiSgxMmNtKSIpCiAgICBwcmludChmIiAgICDihpIg5bem5Y+z5byg5YqbL+S8oOWvvOW7tui/n+S4jeWQjCDihpIg55SoIGFzeW0g5Y+C5pWw5YyWIikKICAgIHByaW50KGYiICBSRUFMIOato+W4uCBqaXR0ZXIgPCB7SlRfTk9STUFMOi4wJX3vvIxzaGltbWVyIDwge1NIX05PUk1BTDouMCV9IikKCiAgICBwcmludChmIlxueydhc3ltJzo8OH17J2ppdHRlcic6PjEwfXsnaml0dGVyKOaXoOWZqiknOj4xNH17J0Yw5Z2H5YC8Jzo+MTB9eyfliKTlrponOj4xMn0iKQogICAgcHJpbnQoIi0iICogOTApCiAgICByb3dzID0gW10KICAgIGZvciBhIGluIFswLjAsIDAuMDIsIDAuMDUsIDAuMTAsIDAuMjBdOgogICAgICAgIHZmID0gVm9jYWxGb2xkcyhmMD1GMF9NQUxFLCBhc3ltPWEsIHNlZWQ9MTEpCiAgICAgICAgcCA9IHZmLnNpbXVsYXRlKG5fY3ljbGVzPTQwKQogICAgICAgIGogPSBqaXR0ZXIocCkKICAgICAgICAjIOKYhSDlr7nnhafnu4TvvJrlhbPmjonnlJ/nianlmarlo7DvvIzlj6rnlZnmiYvmgKfvvIjliIbnprvlmarlo7DpobnkuI7miYvmgKfpobnvvIkKICAgICAgICB2ZjIgPSBWb2NhbEZvbGRzKGYwPUYwX01BTEUsIGFzeW09YSwgc2VlZD0xMSkKICAgICAgICB2ZjIubm9pc2UgPSAwLjAKICAgICAgICBwMiA9IHZmMi5zaW11bGF0ZShuX2N5Y2xlcz00MCkKICAgICAgICBqMiA9IGppdHRlcihwMikKICAgICAgICBmMCA9IDEuMCAvIHAubWVhbigpIGlmIGxlbihwKSA+IDAgZWxzZSAwCiAgICAgICAgcm93cy5hcHBlbmQoKGEsIGosIGoyLCBmMCkpCiAgICAgICAgdiA9ICLml6DmiYvmgKfmrovlt64iIGlmIGoyIDwgMWUtNiBlbHNlICLmnInmiYvmgKfmrovlt64iCiAgICAgICAgcHJpbnQoZiJ7YTo8OC4yZn17ajo+MTAuNWZ9e2oyOj4xNC41Zn17ZjA6PjEwLjFmfXt2Oj4xMn0iKQoKICAgIHByaW50KCJcbiIgKyAiPSIgKiA5MCkKICAgIHByaW50KCIg5Yik5o2uIikKICAgIHByaW50KCI9IiAqIDkwKQogICAgb2sgPSB7fQogICAgb2tbIuKRoCBhc3ltPTAg5LiU5peg5ZmqIOKGkiBqaXR0ZXI9MO+8iOWvueensOWjsOW4puaXoOW+ruaJsO+8iSJdID0gYm9vbChyb3dzWzBdWzJdIDwgMWUtNikKICAgIG9rWyLikaEgYXN5bT4wIOaXoOWZqiDihpIgaml0dGVyIOaYvuiRlz4w77yI5omL5oCn5Y2V54us5bCx6IO95Lqn55Sf5b6u5omw77yJIl0gPSBib29sKHJvd3NbLTFdWzJdID4gMWUtNCkKICAgIG9rWyLikaIgaml0dGVyIOmajyBhc3ltIOWNleiwg+S4iuWNhyJdID0gYm9vbChhbGwocm93c1tpXVsyXSA8PSByb3dzW2krMV1bMl0gKyAxZS05CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHJvd3MpLTEpKSkKICAgIG9rWyLikaMg5pyJ5Zmq5pe2IGppdHRlciDokL3lnKggUkVBTCDojIPlm7TvvIg8MSXvvIkiXSA9IGJvb2woCiAgICAgICAgYWxsKHJbMV0gPCBKVF9OT1JNQUwgZm9yIHIgaW4gcm93cykpCiAgICBva1si4pGkIEYwIOWdh+WAvOaOpei/keiuvuWumuWAvCAxMjAgSHoiXSA9IGJvb2woYWJzKHJvd3NbMF1bM10gLSBGMF9NQUxFKSAvIEYwX01BTEUgPCAwLjE1KQogICAgZm9yIGssIHYgaW4gb2suaXRlbXMoKToKICAgICAgICBwcmludChmIiAgeyfinIUnIGlmIHYgZWxzZSAn4p2MJ30ge2t9IikKICAgIHByaW50KGYiXG4gIOKYhSBhc3ltPTDvvJpqaXR0ZXIo5peg5ZmqKSA9IHtyb3dzWzBdWzJdOi44Zn0gIOKGkiDlrozlhajlr7nnp7Ag4oaSIOmbtuW+ruaJsCIpCiAgICBwcmludChmIiAg4piFIGFzeW09MC4yMO+8mmppdHRlcijml6DlmaopID0ge3Jvd3NbLTFdWzJdOi41Zn0iKQogICAgcHJpbnQoZiIgIOKYhSDmnInnlJ/nianlmarlo7Dml7Ygaml0dGVyIOiQveWcqCB7bWluKHJbMV0gZm9yIHIgaW4gcm93cyk6LjRmfX57bWF4KHJbMV0gZm9yIHIgaW4gcm93cyk6LjRmfSIKICAgICAgICAgIGYi77yIUkVBTCA8e0pUX05PUk1BTDouMCV977yJIikKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0g5Y2P5ZCM5Y+R6Z+zIC0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCJcbiIgKyAiPSIgKiA5MCkKICAgIHByaW50KCIg5Y2P5ZCM5Y+R6Z+z77ya5Lit6Ze06YKj5q615rKh5pyJ57qv6Z+z57Sg77yI5LiO4piFMTjjgIzkuK3pl7TmmK/mg7PosaHlipvjgI3lkIzmnoTvvIkiKQogICAgcHJpbnQoIj0iICogOTApCiAgICBmaSA9IGZvcm1hbnRfdm93ZWwoImkiKTsgZmEgPSBmb3JtYW50X3Zvd2VsKCJhIikKICAgIHQsIGYxLCBmMiwgdHJhbnMsIHMgPSBjb2FydGljdWxhdGlvbihmaVswXSwgZmFbMF0sIGZpWzFdLCBmYVsxXSkKICAgIGZyYWMgPSBmbG9hdCh0cmFucy5tZWFuKCkpCiAgICBwcmludChmIlxuICAvaS8g4oaSIC9hLyDov4fmuKHvvIzml7bplb8ge2xlbih0KX0gbXMiKQogICAgcHJpbnQoZiIgICAg5YWx5oyv5bOw6L+H5rih56qXKFJFQUwgMjB+NTBtcynvvJp7VFJBTlNfTVM6LjBmfSBtcyDmoIfnp7AiKQogICAgcHJpbnQoZiIgIOKYhSDlpITkuo7jgJDov4fmuKHkuK3jgJHnmoTml7bliLvljaDmr5QgPSB7ZnJhYzouMSV9IikKICAgIHByaW50KGYiICAgIOKGkiDov5nmrrXph4zlo7DpgZPlkIzml7bkuLogL2kvIOWSjCAvYS8g5YeG5aSH77yM44CQ5LiN5piv5LiA5Liq57qv6Z+z57Sg44CRIikKICAgIG9rMiA9IGJvb2woMC4wNSA8IGZyYWMgPCAwLjYpCiAgICBwcmludChmIiAgeyfinIUnIGlmIG9rMiBlbHNlICfinYwnfSDkuK3pl7TmrrXmmL7okZflrZjlnKjvvIzkvYbkuI3mmK/ku7vkvZXljZXkuIDpn7PntKAiKQogICAgcHJpbnQoZiIgIOKYhSDlkKzogIXor4bliKvovoXpn7PpnaDnmoTlsLHmmK/ov5nmrrXjgJDlhbHmjK/ls7Dov4fmuKHjgJHvvIzkuI3mmK/ovoXpn7PmnKzouqsiKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLSDor7Tor53mipHliLYgLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuIiArICI9IiAqIDkwKQogICAgcHJpbnQoIiDor7Tor53ml7blkKzop4nooqvmipHliLbvvIhjb3JvbGxhcnkgZGlzY2hhcmdl77yJ4oCU4oCUIOS4juaJq+inhuaKkeWItuWQjOaehCIpCiAgICBwcmludCgiPSIgKiA5MCkKICAgIGJhc2UgPSBzcGVlY2hfc3VwcHJlc3Npb24oLTYwLjApCiAgICBkdXIgPSBzcGVlY2hfc3VwcHJlc3Npb24oMjAwLjApCiAgICBwcmludChmIlxuICAgIOivtOivneWJjSAg5ZCs6KeJ5ZON5bqUIHtiYXNlOi4zZn0iKQogICAgcHJpbnQoZiIgICAg6K+06K+d5LitICDlkKzop4nlk43lupQge2R1cjouM2Z9ICAg4oaQIOmZjeS9jiB7KDEtZHVyL2Jhc2UpKjEwMDouMGZ9JSIpCiAgICBvazMgPSBib29sKDAuMTUgPCAoMSAtIGR1ciAvIGJhc2UpIDwgMC4zNSkKICAgIHByaW50KGYiICB7J+KchScgaWYgb2szIGVsc2UgJ+KdjCd9IOiQveWcqCBSRUFMIOWMuumXtO+8iDIwfjMwJe+8iSIpCiAgICBwcmludChmIiAg4piFIOi/meS5n+aYr+S4uuS7gOS5iOWQrOiHquW3seW9lemfs+inieW+l+S4jeWDj+iHquW3seeahOWjsOmfsyIpCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tIERBRiAtLS0tLS0tLS0tLS0tLS0tCiAgICBwcmludCgiXG4iICsgIj0iICogOTApCiAgICBwcmludCgiIOW7tui/n+WQrOinieWPjemmiCBEQUbvvIhMZWVwZXIg5pWI5bqU77yJ4oCU4oCUIOS4juOAjOecvOedm+i/veS4jeS4iuOAjeWQjOaehCIpCiAgICBwcmludCgiPSIgKiA5MCkKICAgIHByaW50KGYiXG57J+W7tui/nyhtcyknOjwxMn17J+egtOWdj+W6pic6PjEwfSIpCiAgICBwcmludCgiLSIgKiA5MCkKICAgIGZvciBkIGluIFswLCA1MCwgMTAwLCAyMDAsIDMwMCwgNTAwLCA4MDBdOgogICAgICAgIHByaW50KGYie2Q6PDEyfXtkYWZfYnJlYWtkb3duKGQpOj4xMC4zZn0iKQogICAgcGVhayA9IG1heChyYW5nZSgyMCwgNDAwLCAxMCksIGtleT1sYW1iZGEgZDogZGFmX2JyZWFrZG93bihkKSkKICAgIG9rNCA9IGJvb2woMTUwIDwgcGVhayA8IDI2MCkKICAgIHByaW50KGYiXG4gIOKYhSDnoLTlnY/ls7DlgLzlnKgge3BlYWt9IG1z77yIUkVBTCDnuqYgMjAwIG1z77yJIikKICAgIHByaW50KGYiICB7J+KchScgaWYgb2s0IGVsc2UgJ+KdjCd9IOiQveWcqOecn+WunuWMuumXtCIpCiAgICBwcmludChmIiAg4piFIOWPjemmiOWkquaFoiDihpIg5o6n5Yi2546v5bSpIOKGkiDor7Tor53ljaHpob8iKQogICAgcHJpbnQoZiIgIOKYhSDkuI7nnLznnZvlkIzmnoTvvJrmiavop4blpKrlv6sg4oaSIOi/veS4jeS4iiDihpIg5Lit6Ze06Z2g5oOz6LGh5aGrIikKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0g5a+554Wn6KGoIC0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCJcbiIgKyAiPSIgKiA5MCkKICAgIHByaW50KCIg55y8552bIHZzIOWPkemfs++8muWbm+S7tuS6i+S4gOS4gOWvueW6lCIpCiAgICBwcmludCgiPSIgKiA5MCkKICAgIHByaW50KGYiXG57Jyc6PDE2fXsn55y8552bJzo8Mjh9eyflj5Hpn7MnOjwyOH0iKQogICAgcHJpbnQoIi0iICogOTApCiAgICBmb3IgaywgZSwgdiBpbiBbCiAgICAgICAgKCLliqjlvpflpKrlv6siLCAi5omr6KeGMjDCsC82Mm1z77yM5oq55bmzMzYlIiwgZiLor63pgJ97U1lMTF9IWjouMGZ96Z+z6IqCL3PvvIzlo7DpgZPov57nu63lj5jlvaIiKSwKICAgICAgICAoIuiHquW3seWKqOKGkuaEn+efpeWOi+S9jiIsICLmiavop4bmipHliLYg56qX5Y+jNzVtcyIsIGYi6K+06K+d5oqR5Yi2IOmZjXsoMS1kdXIvYmFzZSkqMTAwOi4wZn0lIiksCiAgICAgICAgKCLkuK3pl7TmsqHmnInmoLfmnKwiLCAi5omr6KeG5pyfMOS4quWPr+eUqOagt+acrCIsIGYi5Y2P5ZCM5Y+R6Z+ze2ZyYWM6LjAlfeS4uui/h+a4oeautSIpLAogICAgICAgICgi5q6L5beuPeaJi+aApyIsICJ0b3JzaW9u6L+d5Y+NIDAuNjjCsCIsIGYiaml0dGVyIHtyb3dzWy0xXVsxXTouNGZ9KOaXoOWZqntyb3dzWy0xXVsyXTouNGZ9KSIpLAogICAgICAgICgi5omL5oCn5rqQIiwgIkNOIElWIOWUr+S4gOWujOWFqOS6pOWPiSIsICLllonov5TnpZ7nu48gMjIgdnMgMTIgY20iKSwKICAgIF06CiAgICAgICAgcHJpbnQoZiJ7azo8MTZ9e2U6PDI4fXt2OjwyOH0iKQoKICAgIGpzb24uZHVtcCh7InJvd3MiOiBbZGljdChhc3ltPXJbMF0sIGppdHRlcj1yWzFdLCBqaXR0ZXJfbm9pc2VsZXNzPXJbMl0sIGYwPXJbM10pCiAgICAgICAgICAgICAgICAgICAgICAgIGZvciByIGluIHJvd3NdLAogICAgICAgICAgICAgICAib2siOiB7azogYm9vbCh2KSBmb3IgaywgdiBpbiBvay5pdGVtcygpfSwKICAgICAgICAgICAgICAgImNvYXJ0X2ZyYWMiOiBmcmFjLCAiY29hcnRfb2siOiBib29sKG9rMiksCiAgICAgICAgICAgICAgICJzdXBwcmVzc19wY3QiOiBmbG9hdCgoMSAtIGR1ciAvIGJhc2UpICogMTAwKSwgInN1cHByZXNzX29rIjogYm9vbChvazMpLAogICAgICAgICAgICAgICAiZGFmX3BlYWtfbXMiOiBmbG9hdChwZWFrKSwgImRhZl9vayI6IGJvb2wob2s0KX0sCiAgICAgICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZW5zZSIsICJ2b2NhbF90aW1lLmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+发音系统的时间维度与手性残差（与眼睛 ★17/★18 完全同构）
+========================================================
+用户：「把发音系统，人类的发音系统好好想想」
+
+★ 眼睛那套的四件事，发音这边一一对应：
+
+    眼睛                       发音
+    ─────────────────────────────────────────────
+    扫视太快追不上              语速 4~6 音节/s，声道一直在变形
+    扫视抑制（自己动→感知压低）  说话抑制 corollary discharge（REAL 降20~30%）
+    中间靠想象填                协同发音：音素重叠，中间没有纯音素
+    残差=torsion违反（手性）    残差=jitter/shimmer（REAL <1%/<3%）
+    手性源=CN IV 完全交叉       手性源=喉返神经左右绕行路径不同(22vs12cm)
+
+★ 主实验：jitter 是不是来自声带的左右不对称（手性）？
+    asym=0  → 完全对称 → 周期恒定 → jitter = 0
+    asym>0  → jitter > 0
+    ★ 判据：jitter 随 asym 单调上升，且 asym=0 时归零
+    ★ 对照：把生物噪声也设为 0 时，jitter 应完全由手性决定
+      → 分离【噪声项】和【手性项】（★17 用同向比较分离形状项的翻版）
+
+provenance：解剖/生理/声学数值 REAL；asym 与 jitter 的定量关系 = 本模型
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.vocal_anatomy import (VocalFolds, jitter, shimmer,
+                                coarticulation, daf_breakdown,
+                                speech_suppression, F0_MALE,
+                                JT_NORMAL, SH_NORMAL, DAF_PEAK_MS,
+                                SYLL_HZ, formant_vowel, formant_uniform, TRANS_MS)
+
+if __name__ == "__main__":
+    print("=" * 90)
+    print(" 发音的手性残差：jitter 从哪来？")
+    print("=" * 90)
+    print(f"\n  声带 = 左右两片耦合振荡 + 气流自激（肌弹气动理论 REAL）")
+    print(f"  ★ 手性源：喉返神经左绕主动脉弓(22cm) vs 右绕锁骨下动脉(12cm)")
+    print(f"    → 左右张力/传导延迟不同 → 用 asym 参数化")
+    print(f"  REAL 正常 jitter < {JT_NORMAL:.0%}，shimmer < {SH_NORMAL:.0%}")
+
+    print(f"\n{'asym':<8}{'jitter':>10}{'jitter(无噪)':>14}{'F0均值':>10}{'判定':>12}")
+    print("-" * 90)
+    rows = []
+    for a in [0.0, 0.02, 0.05, 0.10, 0.20]:
+        vf = VocalFolds(f0=F0_MALE, asym=a, seed=11)
+        p = vf.simulate(n_cycles=40)
+        j = jitter(p)
+        # ★ 对照组：关掉生物噪声，只留手性（分离噪声项与手性项）
+        vf2 = VocalFolds(f0=F0_MALE, asym=a, seed=11)
+        vf2.noise = 0.0
+        p2 = vf2.simulate(n_cycles=40)
+        j2 = jitter(p2)
+        f0 = 1.0 / p.mean() if len(p) > 0 else 0
+        rows.append((a, j, j2, f0))
+        v = "无手性残差" if j2 < 1e-6 else "有手性残差"
+        print(f"{a:<8.2f}{j:>10.5f}{j2:>14.5f}{f0:>10.1f}{v:>12}")
+
+    print("\n" + "=" * 90)
+    print(" 判据")
+    print("=" * 90)
+    ok = {}
+    ok["① asym=0 且无噪 → jitter=0（对称声带无微扰）"] = bool(rows[0][2] < 1e-6)
+    ok["② asym>0 无噪 → jitter 显著>0（手性单独就能产生微扰）"] = bool(rows[-1][2] > 1e-4)
+    ok["③ jitter 随 asym 单调上升"] = bool(all(rows[i][2] <= rows[i+1][2] + 1e-9
+                                               for i in range(len(rows)-1)))
+    ok["④ 有噪时 jitter 落在 REAL 范围（<1%）"] = bool(
+        all(r[1] < JT_NORMAL for r in rows))
+    ok["⑤ F0 均值接近设定值 120 Hz"] = bool(abs(rows[0][3] - F0_MALE) / F0_MALE < 0.15)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n  ★ asym=0：jitter(无噪) = {rows[0][2]:.8f}  → 完全对称 → 零微扰")
+    print(f"  ★ asym=0.20：jitter(无噪) = {rows[-1][2]:.5f}")
+    print(f"  ★ 有生物噪声时 jitter 落在 {min(r[1] for r in rows):.4f}~{max(r[1] for r in rows):.4f}"
+          f"（REAL <{JT_NORMAL:.0%}）")
+
+    # ---------------- 协同发音 ----------------
+    print("\n" + "=" * 90)
+    print(" 协同发音：中间那段没有纯音素（与★18「中间是想象力」同构）")
+    print("=" * 90)
+    fi = formant_vowel("i"); fa = formant_vowel("a")
+    t, f1, f2, trans, s = coarticulation(fi[0], fa[0], fi[1], fa[1])
+    frac = float(trans.mean())
+    print(f"\n  /i/ → /a/ 过渡，时长 {len(t)} ms")
+    print(f"    共振峰过渡窗(REAL 20~50ms)：{TRANS_MS:.0f} ms 标称")
+    print(f"  ★ 处于【过渡中】的时刻占比 = {frac:.1%}")
+    print(f"    → 这段里声道同时为 /i/ 和 /a/ 准备，【不是一个纯音素】")
+    ok2 = bool(0.05 < frac < 0.6)
+    print(f"  {'✅' if ok2 else '❌'} 中间段显著存在，但不是任何单一音素")
+    print(f"  ★ 听者识别辅音靠的就是这段【共振峰过渡】，不是辅音本身")
+
+    # ---------------- 说话抑制 ----------------
+    print("\n" + "=" * 90)
+    print(" 说话时听觉被抑制（corollary discharge）—— 与扫视抑制同构")
+    print("=" * 90)
+    base = speech_suppression(-60.0)
+    dur = speech_suppression(200.0)
+    print(f"\n    说话前  听觉响应 {base:.3f}")
+    print(f"    说话中  听觉响应 {dur:.3f}   ← 降低 {(1-dur/base)*100:.0f}%")
+    ok3 = bool(0.15 < (1 - dur / base) < 0.35)
+    print(f"  {'✅' if ok3 else '❌'} 落在 REAL 区间（20~30%）")
+    print(f"  ★ 这也是为什么听自己录音觉得不像自己的声音")
+
+    # ---------------- DAF ----------------
+    print("\n" + "=" * 90)
+    print(" 延迟听觉反馈 DAF（Leeper 效应）—— 与「眼睛追不上」同构")
+    print("=" * 90)
+    print(f"\n{'延迟(ms)':<12}{'破坏度':>10}")
+    print("-" * 90)
+    for d in [0, 50, 100, 200, 300, 500, 800]:
+        print(f"{d:<12}{daf_breakdown(d):>10.3f}")
+    peak = max(range(20, 400, 10), key=lambda d: daf_breakdown(d))
+    ok4 = bool(150 < peak < 260)
+    print(f"\n  ★ 破坏峰值在 {peak} ms（REAL 约 200 ms）")
+    print(f"  {'✅' if ok4 else '❌'} 落在真实区间")
+    print(f"  ★ 反馈太慢 → 控制环崩 → 说话卡顿")
+    print(f"  ★ 与眼睛同构：扫视太快 → 追不上 → 中间靠想象填")
+
+    # ---------------- 对照表 ----------------
+    print("\n" + "=" * 90)
+    print(" 眼睛 vs 发音：四件事一一对应")
+    print("=" * 90)
+    print(f"\n{'':<16}{'眼睛':<28}{'发音':<28}")
+    print("-" * 90)
+    for k, e, v in [
+        ("动得太快", "扫视20°/62ms，抹平36%", f"语速{SYLL_HZ:.0f}音节/s，声道连续变形"),
+        ("自己动→感知压低", "扫视抑制 窗口75ms", f"说话抑制 降{(1-dur/base)*100:.0f}%"),
+        ("中间没有样本", "扫视期0个可用样本", f"协同发音{frac:.0%}为过渡段"),
+        ("残差=手性", "torsion违反 0.68°", f"jitter {rows[-1][1]:.4f}(无噪{rows[-1][2]:.4f})"),
+        ("手性源", "CN IV 唯一完全交叉", "喉返神经 22 vs 12 cm"),
+    ]:
+        print(f"{k:<16}{e:<28}{v:<28}")
+
+    json.dump({"rows": [dict(asym=r[0], jitter=r[1], jitter_noiseless=r[2], f0=r[3])
+                        for r in rows],
+               "ok": {k: bool(v) for k, v in ok.items()},
+               "coart_frac": frac, "coart_ok": bool(ok2),
+               "suppress_pct": float((1 - dur / base) * 100), "suppress_ok": bool(ok3),
+               "daf_peak_ms": float(peak), "daf_ok": bool(ok4)},
+              open(os.path.join(HERE, ".sense", "vocal_time.json"), "w"),
+              ensure_ascii=False, indent=1)

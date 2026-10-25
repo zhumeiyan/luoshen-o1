@@ -1,1 +1,142 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCgrkuIDmnJ/mmoLml7bkuI3lkK/nlKgKCumVv+acn+iusOW/huaooeWdlyDigJQg5Z+65LqOIE1hcmtkb3duIOaWh+S7tu+8jOaMiSB1c2VyX2lkIOWIhueJh+OAgiDmj5DkvptnYXRld2F55L2/55SoCgpDTEkg5qih5byP5LiN5oyC6L2944CC572R5YWz5qih5byP5LiL77yM55SxIGdhdGV3YXkucHkg5oyJ6ZyA5L2/55So77yMCuWcqOWvueivnee7k+adn+WQjuS4u+WKqOWGmeWFpemHjeimgeS/oeaBr++8iOS4jemdoCBMTE0g6Ieq5Yqo5Y6L57yp77yJ44CCCgrlrZjlgqjnu5PmnoQ6CiAgTWVtb3J5L3t1c2VyX2lkfS5tZCAg4oCUIOeUqOaIt+eahOmVv+acn+iusOW/hgoKTUQg5paH5Lu25qC85byPOgogICMg55So5oi36K6w5b+GIC0ge3VzZXJfaWR9CiAgIyMg5YWz6ZSu5LqL5a6eCiAgLSDml7bpl7Q6IOaRmOimgQogICMjIOmhueebrue6puWumgogIC0g6ZSuOiDlgLwKIiIiCgppbXBvcnQgcmUKaW1wb3J0IG9zCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgT3B0aW9uYWwKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKCl9NRU1PUllfRElSID0gUGF0aChfX2ZpbGVfXykucGFyZW50IC8gIk1lbW9yeSIKCgpjbGFzcyBMb25nVGVybU1lbW9yeToKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgb3MubWFrZWRpcnMoX01FTU9SWV9ESVIsIGV4aXN0X29rPVRydWUpCgogICAgZGVmIF9wYXRoKHNlbGYsIHVzZXJfaWQ6IHN0cikgLT4gUGF0aDoKICAgICAgICBzYWZlID0gcmUuc3ViKHInWzw+OiIvXFx8PypdJywgJ18nLCB1c2VyX2lkKQogICAgICAgIHJldHVybiBfTUVNT1JZX0RJUiAvIGYie3NhZmV9Lm1kIgoKICAgIGRlZiBfcmVhZChzZWxmLCB1c2VyX2lkOiBzdHIpIC0+IHN0cjoKICAgICAgICBwID0gc2VsZi5fcGF0aCh1c2VyX2lkKQogICAgICAgIGlmIG5vdCBwLmV4aXN0cygpOgogICAgICAgICAgICByZXR1cm4gZiIjIOeUqOaIt+iusOW/hiAtIHt1c2VyX2lkfVxuXG4iCiAgICAgICAgcmV0dXJuIHAucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpCgogICAgZGVmIF93cml0ZShzZWxmLCB1c2VyX2lkOiBzdHIsIGNvbnRlbnQ6IHN0cik6CiAgICAgICAgc2VsZi5fcGF0aCh1c2VyX2lkKS53cml0ZV90ZXh0KGNvbnRlbnQsIGVuY29kaW5nPSJ1dGYtOCIpCgogICAgZGVmIF9wYXJzZV9zZWN0aW9ucyhzZWxmLCBjb250ZW50OiBzdHIpIC0+IGRpY3Q6CiAgICAgICAgIiIi6Kej5p6QIE1EIOaWh+S7tuS4uiB7c2VjdGlvbl9uYW1lOiBbbGluZXNdfSIiIgogICAgICAgIHNlY3Rpb25zID0ge30KICAgICAgICBjdXJyZW50ID0gImhlYWRlciIKICAgICAgICBzZWN0aW9uc1tjdXJyZW50XSA9IFtdCiAgICAgICAgZm9yIGxpbmUgaW4gY29udGVudC5zcGxpdCgiXG4iKToKICAgICAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCIjIyAiKToKICAgICAgICAgICAgICAgIGN1cnJlbnQgPSBsaW5lWzM6XS5zdHJpcCgpCiAgICAgICAgICAgICAgICBzZWN0aW9uc1tjdXJyZW50XSA9IFtdCiAgICAgICAgICAgIGVsaWYgbGluZS5zdGFydHN3aXRoKCIjICIpIGFuZCBjdXJyZW50ID09ICJoZWFkZXIiOgogICAgICAgICAgICAgICAgc2VjdGlvbnNbY3VycmVudF0uYXBwZW5kKGxpbmUpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzZWN0aW9uc1tjdXJyZW50XS5hcHBlbmQobGluZSkKICAgICAgICByZXR1cm4gc2VjdGlvbnMKCiAgICBkZWYgcHV0KHNlbGYsIHVzZXJfaWQ6IHN0ciwgc2VjdGlvbjogc3RyLCBrZXk6IHN0ciwgdmFsdWU6IHN0cikgLT4gTm9uZToKICAgICAgICBub3cgPSBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJVktJW0tJWQgJUg6JU0iKQogICAgICAgIGNvbnRlbnQgPSBzZWxmLl9yZWFkKHVzZXJfaWQpCiAgICAgICAgc2VjdGlvbnMgPSBzZWxmLl9wYXJzZV9zZWN0aW9ucyhjb250ZW50KQogICAgICAgIGVudHJ5ID0gZiItIHtub3d9IHwge2tleX06IHt2YWx1ZX0iCgogICAgICAgIGlmIHNlY3Rpb24gaW4gc2VjdGlvbnM6CiAgICAgICAgICAgIGxpbmVzID0gc2VjdGlvbnNbc2VjdGlvbl0KICAgICAgICAgICAgcmVwbGFjZWQgPSBGYWxzZQogICAgICAgICAgICBmb3IgaSwgbGluZSBpbiBlbnVtZXJhdGUobGluZXMpOgogICAgICAgICAgICAgICAgaWYgZiJ8IHtrZXl9OiIgaW4gbGluZToKICAgICAgICAgICAgICAgICAgICBsaW5lc1tpXSA9IGVudHJ5CiAgICAgICAgICAgICAgICAgICAgcmVwbGFjZWQgPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWYgbm90IHJlcGxhY2VkOgogICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKGVudHJ5KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlY3Rpb25zW3NlY3Rpb25dID0gW2VudHJ5XQoKICAgICAgICBuZXdfY29udGVudCA9ICJcbiIuam9pbihzZWN0aW9uc1siaGVhZGVyIl0pCiAgICAgICAgZm9yIHNlY19uYW1lLCBzZWNfbGluZXMgaW4gc2VjdGlvbnMuaXRlbXMoKToKICAgICAgICAgICAgaWYgc2VjX25hbWUgPT0gImhlYWRlciI6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBuZXdfY29udGVudCArPSBmIlxuIyMge3NlY19uYW1lfVxuIiArICJcbiIuam9pbihzZWNfbGluZXMpICsgIlxuIgogICAgICAgIHNlbGYuX3dyaXRlKHVzZXJfaWQsIG5ld19jb250ZW50LnN0cmlwKCkgKyAiXG4iKQoKICAgIGRlZiBnZXQoc2VsZiwgdXNlcl9pZDogc3RyLCBrZXk6IHN0cikgLT4gT3B0aW9uYWxbc3RyXToKICAgICAgICBjb250ZW50ID0gc2VsZi5fcmVhZCh1c2VyX2lkKQogICAgICAgIGZvciBsaW5lIGluIGNvbnRlbnQuc3BsaXQoIlxuIik6CiAgICAgICAgICAgIGlmIGYifCB7a2V5fToiIGluIGxpbmU6CiAgICAgICAgICAgICAgICByZXR1cm4gbGluZS5zcGxpdChmInwge2tleX06IiwgMSlbMV0uc3RyaXAoKQogICAgICAgIHJldHVybiBOb25lCgogICAgZGVmIGdldF9zZWN0aW9uKHNlbGYsIHVzZXJfaWQ6IHN0ciwgc2VjdGlvbjogc3RyKSAtPiBzdHI6CiAgICAgICAgc2VjdGlvbnMgPSBzZWxmLl9wYXJzZV9zZWN0aW9ucyhzZWxmLl9yZWFkKHVzZXJfaWQpKQogICAgICAgIGxpbmVzID0gc2VjdGlvbnMuZ2V0KHNlY3Rpb24sIFtdKQogICAgICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpLnN0cmlwKCkKCiAgICBkZWYgZ2V0X2FsbChzZWxmLCB1c2VyX2lkOiBzdHIpIC0+IHN0cjoKICAgICAgICByZXR1cm4gc2VsZi5fcmVhZCh1c2VyX2lkKQoKICAgIGRlZiBkZWxldGUoc2VsZiwgdXNlcl9pZDogc3RyLCBrZXk6IHN0cikgLT4gYm9vbDoKICAgICAgICBjb250ZW50ID0gc2VsZi5fcmVhZCh1c2VyX2lkKQogICAgICAgIG5ld19saW5lcyA9IFtdCiAgICAgICAgZm91bmQgPSBGYWxzZQogICAgICAgIGZvciBsaW5lIGluIGNvbnRlbnQuc3BsaXQoIlxuIik6CiAgICAgICAgICAgIGlmIGYifCB7a2V5fToiIGluIGxpbmUgYW5kIG5vdCBmb3VuZDoKICAgICAgICAgICAgICAgIGZvdW5kID0gVHJ1ZQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgbmV3X2xpbmVzLmFwcGVuZChsaW5lKQogICAgICAgIGlmIGZvdW5kOgogICAgICAgICAgICBzZWxmLl93cml0ZSh1c2VyX2lkLCAiXG4iLmpvaW4obmV3X2xpbmVzKSkKICAgICAgICByZXR1cm4gZm91bmQKCiAgICBkZWYgYnVpbGRfY29udGV4dChzZWxmLCB1c2VyX2lkOiBzdHIsIHRva2VuX2J1ZGdldDogaW50ID0gMjAwMCkgLT4gc3RyOgogICAgICAgICIiIuaehOW7uuazqOWFpee9keWFsyBzeXN0ZW0gcHJvbXB0IOeahOeUqOaIt+iusOW/huS4iuS4i+aWhyIiIgogICAgICAgIGNvbnRlbnQgPSBzZWxmLmdldF9hbGwodXNlcl9pZCkKICAgICAgICBpZiBub3QgY29udGVudC5zdHJpcCgpOgogICAgICAgICAgICByZXR1cm4gIiIKCiAgICAgICAgY2hhcl9idWRnZXQgPSB0b2tlbl9idWRnZXQgKiA0CiAgICAgICAgaWYgbGVuKGNvbnRlbnQpIDw9IGNoYXJfYnVkZ2V0OgogICAgICAgICAgICByZXR1cm4gY29udGVudAoKICAgICAgICBzZWN0aW9ucyA9IHNlbGYuX3BhcnNlX3NlY3Rpb25zKGNvbnRlbnQpCiAgICAgICAgbGluZXMgPSBzZWN0aW9ucy5nZXQoImhlYWRlciIsIFtdKQogICAgICAgIGxpbmVzLmFwcGVuZCgiIikKICAgICAgICBmb3Igc2VjX25hbWUsIHNlY19saW5lcyBpbiBzZWN0aW9ucy5pdGVtcygpOgogICAgICAgICAgICBpZiBzZWNfbmFtZSA9PSAiaGVhZGVyIjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmIiMjIHtzZWNfbmFtZX0iKQogICAgICAgICAgICBrZXB0ID0gMAogICAgICAgICAgICBmb3IgbGluZSBpbiBzZWNfbGluZXM6CiAgICAgICAgICAgICAgICBpZiBsaW5lLnN0cmlwKCkgYW5kIGtlcHQgPCAxNToKICAgICAgICAgICAgICAgICAgICBsaW5lcy5hcHBlbmQobGluZSkKICAgICAgICAgICAgICAgICAgICBrZXB0ICs9IDEKCiAgICAgICAgcmVzdWx0ID0gIlxuIi5qb2luKGxpbmVzKQogICAgICAgIHJldHVybiByZXN1bHRbOmNoYXJfYnVkZ2V0XQo=
+# -*- coding: utf-8 -*-
+"""
+
+一期暂时不启用
+
+长期记忆模块 — 基于 Markdown 文件，按 user_id 分片。 提供gateway使用
+
+CLI 模式不挂载。网关模式下，由 gateway.py 按需使用，
+在对话结束后主动写入重要信息（不靠 LLM 自动压缩）。
+
+存储结构:
+  Memory/{user_id}.md  — 用户的长期记忆
+
+MD 文件格式:
+  # 用户记忆 - {user_id}
+  ## 关键事实
+  - 时间: 摘要
+  ## 项目约定
+  - 键: 值
+"""
+
+import re
+import os
+from pathlib import Path
+from typing import Optional
+from datetime import datetime
+
+_MEMORY_DIR = Path(__file__).parent / "Memory"
+
+
+class LongTermMemory:
+
+    def __init__(self):
+        os.makedirs(_MEMORY_DIR, exist_ok=True)
+
+    def _path(self, user_id: str) -> Path:
+        safe = re.sub(r'[<>:"/\\|?*]', '_', user_id)
+        return _MEMORY_DIR / f"{safe}.md"
+
+    def _read(self, user_id: str) -> str:
+        p = self._path(user_id)
+        if not p.exists():
+            return f"# 用户记忆 - {user_id}\n\n"
+        return p.read_text(encoding="utf-8")
+
+    def _write(self, user_id: str, content: str):
+        self._path(user_id).write_text(content, encoding="utf-8")
+
+    def _parse_sections(self, content: str) -> dict:
+        """解析 MD 文件为 {section_name: [lines]}"""
+        sections = {}
+        current = "header"
+        sections[current] = []
+        for line in content.split("\n"):
+            if line.startswith("## "):
+                current = line[3:].strip()
+                sections[current] = []
+            elif line.startswith("# ") and current == "header":
+                sections[current].append(line)
+            else:
+                sections[current].append(line)
+        return sections
+
+    def put(self, user_id: str, section: str, key: str, value: str) -> None:
+        now = datetime.now().strftime("%Y-%m-%d %H:%M")
+        content = self._read(user_id)
+        sections = self._parse_sections(content)
+        entry = f"- {now} | {key}: {value}"
+
+        if section in sections:
+            lines = sections[section]
+            replaced = False
+            for i, line in enumerate(lines):
+                if f"| {key}:" in line:
+                    lines[i] = entry
+                    replaced = True
+                    break
+            if not replaced:
+                lines.append(entry)
+        else:
+            sections[section] = [entry]
+
+        new_content = "\n".join(sections["header"])
+        for sec_name, sec_lines in sections.items():
+            if sec_name == "header":
+                continue
+            new_content += f"\n## {sec_name}\n" + "\n".join(sec_lines) + "\n"
+        self._write(user_id, new_content.strip() + "\n")
+
+    def get(self, user_id: str, key: str) -> Optional[str]:
+        content = self._read(user_id)
+        for line in content.split("\n"):
+            if f"| {key}:" in line:
+                return line.split(f"| {key}:", 1)[1].strip()
+        return None
+
+    def get_section(self, user_id: str, section: str) -> str:
+        sections = self._parse_sections(self._read(user_id))
+        lines = sections.get(section, [])
+        return "\n".join(lines).strip()
+
+    def get_all(self, user_id: str) -> str:
+        return self._read(user_id)
+
+    def delete(self, user_id: str, key: str) -> bool:
+        content = self._read(user_id)
+        new_lines = []
+        found = False
+        for line in content.split("\n"):
+            if f"| {key}:" in line and not found:
+                found = True
+                continue
+            new_lines.append(line)
+        if found:
+            self._write(user_id, "\n".join(new_lines))
+        return found
+
+    def build_context(self, user_id: str, token_budget: int = 2000) -> str:
+        """构建注入网关 system prompt 的用户记忆上下文"""
+        content = self.get_all(user_id)
+        if not content.strip():
+            return ""
+
+        char_budget = token_budget * 4
+        if len(content) <= char_budget:
+            return content
+
+        sections = self._parse_sections(content)
+        lines = sections.get("header", [])
+        lines.append("")
+        for sec_name, sec_lines in sections.items():
+            if sec_name == "header":
+                continue
+            lines.append(f"## {sec_name}")
+            kept = 0
+            for line in sec_lines:
+                if line.strip() and kept < 15:
+                    lines.append(line)
+                    kept += 1
+
+        result = "\n".join(lines)
+        return result[:char_budget]

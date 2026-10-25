@@ -1,1 +1,305 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuacgOWwjyBBdmlkYSDpo47moLzmlbDlrZfnlJ/lkb3kuJbnlYzvvIjlr7nnhafnlKjvvIkKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuaMh+S7pOmbhu+8mmhlYWQtYmFzZWQg5aSN5Yi25py65Yi2ICsg6YC76L6R6L+Q566X5Lu75YqhCuebruagh++8mue7mSLmiJHku6znmoTlvJXmk44i5o+Q5L6b5LiA5Liq5aSW6YOo5ryU5YyW5Z+657q/77yM5YGa5ZCM5p2h5Lu25a+554Wn44CCCgrorr7orqHljp/liJnvvJoKICAtIOWPquWunueOsOiDveaUr+aSkeOAkOiHquWkjeWItiArIOS7u+WKoeWlluWKsSArIOeqgeWPmCArIOmAieaLqeOAkeeahOacgOWwj+WtkOmbhgogIC0g5omA5pyJ5Yik5a6a5Y+v6K+B5Lyq77yI55yfL+WBh+mDveiDveS6p+eUn++8iQogIC0g5L2c5byK5Y+v5qOA5rWL77yI5Lu75Yqh5aWW5YqxIHZzIOecn+WunuaJp+ihjOWIhuemu+iusOW9le+8iQoiIiIKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IHJhbmRvbQoKIyAtLS0tLS0tLS0tLS0tLS0tIOaMh+S7pOmbhiAtLS0tLS0tLS0tLS0tLS0tCk5PUF9BLCBOT1BfQiwgTk9QX0MgPSAwLCAxLCAyCklGX05fRVFVICAgPSAzClBVU0gsIFBPUCwgU1dBUCA9IDQsIDUsIDYKU0hJRlRfUiwgU0hJRlRfTCwgSU5DLCBERUMsIEFERCwgU1VCLCBOQU5EID0gNywgOCwgOSwgMTAsIDExLCAxMiwgMTMKSF9BTExPQywgSF9ESVZJREUsIEhfQ09QWSwgSF9TRUFSQ0ggPSAxNCwgMTUsIDE2LCAxNwpNT1ZfSEVBRCwgSk1QX0hFQUQsIEdFVF9IRUFELCBTRVRfRkxPVyA9IDE4LCAxOSwgMjAsIDIxCklPID0gMjIKCk5BTUVTID0gewogICAgTk9QX0E6J25vcC1BJywgTk9QX0I6J25vcC1CJywgTk9QX0M6J25vcC1DJywgSUZfTl9FUVU6J2lmLW4tZXF1JywKICAgIFBVU0g6J3B1c2gnLCBQT1A6J3BvcCcsIFNXQVA6J3N3YXAnLCBTSElGVF9SOidzaGlmdC1yJywgU0hJRlRfTDonc2hpZnQtbCcsCiAgICBJTkM6J2luYycsIERFQzonZGVjJywgQUREOidhZGQnLCBTVUI6J3N1YicsIE5BTkQ6J25hbmQnLAogICAgSF9BTExPQzonaC1hbGxvYycsIEhfRElWSURFOidoLWRpdmlkZScsIEhfQ09QWTonaC1jb3B5JywgSF9TRUFSQ0g6J2gtc2VhcmNoJywKICAgIE1PVl9IRUFEOidtb3YtaGVhZCcsIEpNUF9IRUFEOidqbXAtaGVhZCcsIEdFVF9IRUFEOidnZXQtaGVhZCcsIFNFVF9GTE9XOidzZXQtZmxvdycsCiAgICBJTzonaW8nLAp9CiMgaC1zZWFyY2gg5LqS6KGl77yaQTwtPkIsIEM8LT5DCkNPTVAgPSB7Tk9QX0E6IE5PUF9CLCBOT1BfQjogTk9QX0EsIE5PUF9DOiBOT1BfQ30KTk9QUyA9IChOT1BfQSwgTk9QX0IsIE5PUF9DKQoKIyAtLS0tLS0tLS0tLS0tLS0tIOmAu+i+keS7u+WKoe+8iEF2aWRhIOagh+WHhiA5IOS7u+WKoe+8iSAtLS0tLS0tLS0tLS0tLS0tCiMg5q+P5Liq5Lu75Yqh77ya6L6T5YWl5Lik5LiqIDMyIOS9jeWvhOWtmOWZqO+8jOi+k+WHuuS4gOS4qu+8m+WMuemFjeWImee7meS7o+iwouWlluWKsQpkZWYgX2IzMih4KTogcmV0dXJuIHggJiAweEZGRkZGRkZGClRBU0tTID0gewogICAgJ05PVCc6ICBsYW1iZGEgYSwgYjogX2IzMih+YSksCiAgICAnTkFORCc6IGxhbWJkYSBhLCBiOiBfYjMyKH4oYSAmIGIpKSwKICAgICdBTkQnOiAgbGFtYmRhIGEsIGI6IF9iMzIoYSAmIGIpLAogICAgJ09STic6ICBsYW1iZGEgYSwgYjogX2IzMihhIHwgfmIpLAogICAgJ09SJzogICBsYW1iZGEgYSwgYjogX2IzMihhIHwgYiksCiAgICAnQU5ETic6IGxhbWJkYSBhLCBiOiBfYjMyKGEgJiB+YiksCiAgICAnTk9SJzogIGxhbWJkYSBhLCBiOiBfYjMyKH4oYSB8IGIpKSwKICAgICdYT1InOiAgbGFtYmRhIGEsIGI6IF9iMzIoYSBeIGIpLAogICAgJ0VRVSc6ICBsYW1iZGEgYSwgYjogX2IzMih+KGEgXiBiKSksCn0KIyBBdmlkYSDnmoTku6PosKLlpZblirHpmLbmoq/vvIjotorpmr7nmoTku7vliqHlpZblirHotorpq5jvvIkKVEFTS19CT05VUyA9IHsKICAgICdOT1QnOiAyLjAsICdOQU5EJzogNC4wLCAnQU5EJzogNC4wLCAnT1JOJzogOC4wLCAnT1InOiA4LjAsCiAgICAnQU5ETic6IDE2LjAsICdOT1InOiAxNi4wLCAnWE9SJzogMzIuMCwgJ0VRVSc6IDMyLjAsCn0KCgpjbGFzcyBCaW86CiAgICAiIiLkuIDkuKrmlbDlrZfnlJ/nianvvJrln7rlm6Dnu4QgKyDomZrmi58gQ1BVIOeKtuaAgSIiIgogICAgX19zbG90c19fID0gKCdnZW5vbWUnLCdheCcsJ2J4JywnY3gnLCdzdGFjaycsJ2lwJywncmgnLCd3aCcsJ2ZoJywKICAgICAgICAgICAgICAgICAnbWVtJywnbWVtX3NpemUnLCdjeWNsZXMnLCdhZ2UnLCdyZXdhcmQnLCd0YXNrc19kb25lJywKICAgICAgICAgICAgICAgICAnaW9fbG9nJywncGFyZW50JywnYmlydGhfdCcsJ2NvcGllZCcsJ2luMScsJ2luMicsJ2FsbG9jZWQnKQogICAgIyBjb3BpZWQ6IOacrOasoSBoLWFsbG9jIOWQjuW3suWkjeWItueahOaMh+S7pOaVsO+8m2gtZGl2aWRlIOS7peatpOS4uuWHhu+8iOmYsuepuuWjs+WIhuijgu+8iQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBnZW5vbWUsIG1lbV9zaXplPU5vbmUsIHBhcmVudD1Ob25lLCBiaXJ0aF90PTApOgogICAgICAgIHNlbGYuZ2Vub21lID0gbGlzdChnZW5vbWUpCiAgICAgICAgc2VsZi5tZW1fc2l6ZSA9IG1lbV9zaXplIGlmIG1lbV9zaXplIGVsc2UgbGVuKGdlbm9tZSkKICAgICAgICBzZWxmLm1lbSA9IGxpc3QoZ2Vub21lKSArIFtyYW5kb20ucmFuZHJhbmdlKGxlbihOQU1FUykpXSooc2VsZi5tZW1fc2l6ZSAtIGxlbihnZW5vbWUpKQogICAgICAgIHNlbGYuYXggPSBzZWxmLmJ4ID0gc2VsZi5jeCA9IDAKICAgICAgICBzZWxmLnN0YWNrID0gW10KICAgICAgICBzZWxmLmlwID0gMDsgc2VsZi5yaCA9IDA7IHNlbGYud2ggPSAtMTsgc2VsZi5maCA9IDAgICAjIHdoPS0xOiDmnKrliIbphY3vvIzlv4XpobsgaC1hbGxvYwogICAgICAgIHNlbGYuY3ljbGVzID0gMDsgc2VsZi5hZ2UgPSAwCiAgICAgICAgc2VsZi5yZXdhcmQgPSAxLjAgICAgICAgICAgIyDku6PosKLpgJ/njofkuZjlrZDvvIgxLjAgPSDln7rnur/vvIkKICAgICAgICBzZWxmLnRhc2tzX2RvbmUgPSBzZXQoKQogICAgICAgIHNlbGYuaW9fbG9nID0gW10gICAgICAgICAgICMgKOi+k+WHuuWAvCwg5piv5ZCm5ZG95Lit5Lu75YqhKQogICAgICAgIHNlbGYucGFyZW50ID0gcGFyZW50CiAgICAgICAgc2VsZi5iaXJ0aF90ID0gYmlydGhfdAogICAgICAgIHNlbGYuY29waWVkID0gMAogICAgICAgIHNlbGYuYWxsb2NlZCA9IEZhbHNlCiAgICAgICAgc2VsZi5pbjEgPSAwCiAgICAgICAgc2VsZi5pbjIgPSAwCgoKY2xhc3MgV29ybGQ6CiAgICAiIiJBdmlkYSDkuJbnlYzvvJrnp43nvqTjgIHosIPluqbjgIHnqoHlj5jjgIHog73ph48iIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhbmNlc3RvciwgcG9wX3NpemU9MTAwLCB0b3J1c19zaXplPTYwKjYwLAogICAgICAgICAgICAgICAgIHNlZWQ9MCwgbXV0X3JhdGU9MC4wMDc1LCBzbGljZV9yYXRpbz0xMCwKICAgICAgICAgICAgICAgICBlbmVyZ3lfcGVyX2N5Y2xlPTEuMCwgc2NhcmNpdHk9MS4wLCB0YXNrX2VuZXJneV9zY2FsZT0xLjApOgogICAgICAgIHJhbmRvbS5zZWVkKHNlZWQpCiAgICAgICAgc2VsZi5ybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICAgICAgc2VsZi5hbmNlc3RvciA9IGxpc3QoYW5jZXN0b3IpCiAgICAgICAgc2VsZi5wb3Bfc2l6ZSA9IHBvcF9zaXplCiAgICAgICAgc2VsZi50b3J1c19uID0gdG9ydXNfc2l6ZQogICAgICAgIHNlbGYubXV0X3JhdGUgPSBtdXRfcmF0ZQogICAgICAgIHNlbGYuc2xpY2VfcmF0aW8gPSBzbGljZV9yYXRpbyAgICAgIyDmr4/ku6PliIbphY3nmoTml7bpl7TniYfvvIjnm7jlr7nvvIkKICAgICAgICBzZWxmLmVuZXJneV9wZXJfY3ljbGUgPSBlbmVyZ3lfcGVyX2N5Y2xlCiAgICAgICAgc2VsZi5zY2FyY2l0eSA9IHNjYXJjaXR5ICAgICAgICAgICAjIDwxID0g6LWE5rqQ5YmK5YePCiAgICAgICAgc2VsZi50YXNrX2VuZXJneV9zY2FsZSA9IHRhc2tfZW5lcmd5X3NjYWxlICAgIyDku7vliqHihpLoh6rouqvog73ph4/vvIjmlq3kvpvlkI7llK/kuIDmnaXmupDvvIkKICAgICAgICBzZWxmLnQgPSAwCiAgICAgICAgc2VsZi50b3RhbF9iaXJ0aHMgPSAwCiAgICAgICAgc2VsZi50b3RhbF9kZWF0aHMgPSAwCiAgICAgICAgc2VsZi50YXNrX2ZpcnN0ID0ge30gICAgICAgICAgICAgICAjIOS7u+WKoeWQjSAtPiDpppbmrKHlh7rnjrDnmoTku6PmlbAKICAgICAgICBzZWxmLnBvcCA9IFtdCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UocG9wX3NpemUpOgogICAgICAgICAgICBzZWxmLnBvcC5hcHBlbmQoQmlvKHNlbGYuYW5jZXN0b3IsIG1lbV9zaXplPWxlbihzZWxmLmFuY2VzdG9yKSoyKSkKCiAgICAjIC0tLS0tLS0tLS0g5oyH5Luk5omn6KGMIC0tLS0tLS0tLS0KICAgIGRlZiBfZXhlYyhzZWxmLCBiaW8pOgogICAgICAgIG0gPSBiaW8ubWVtCiAgICAgICAgbiA9IGxlbihtKQogICAgICAgIGlmIGJpby5pcCA+PSBuOiBiaW8uaXAgPSAwCiAgICAgICAgaW5zID0gbVtiaW8uaXBdCiAgICAgICAgYWR2YW5jZSA9IFRydWUKCiAgICAgICAgaWYgaW5zIGluIE5PUFM6CiAgICAgICAgICAgIHBhc3MgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5qCH562+5L+u6aWwCiAgICAgICAgZWxpZiBpbnMgPT0gSUZfTl9FUVU6CiAgICAgICAgICAgIGlmIGJpby5ieCAhPSBiaW8uY3g6IGFkdmFuY2UgPSBGYWxzZTsgYmlvLmlwID0gKGJpby5pcCArIDIpICUgbgogICAgICAgICAgICBlbHNlOiBhZHZhbmNlID0gVHJ1ZQogICAgICAgIGVsaWYgaW5zID09IFBVU0g6CiAgICAgICAgICAgIGJpby5zdGFjay5hcHBlbmQoYmlvLmN4KQogICAgICAgIGVsaWYgaW5zID09IFBPUDoKICAgICAgICAgICAgYmlvLmJ4ID0gYmlvLnN0YWNrLnBvcCgpIGlmIGJpby5zdGFjayBlbHNlIGJpby5ieAogICAgICAgIGVsaWYgaW5zID09IFNXQVA6CiAgICAgICAgICAgIGJpby5ieCwgYmlvLmN4ID0gYmlvLmN4LCBiaW8uYngKICAgICAgICBlbGlmIGlucyA9PSBTSElGVF9SOgogICAgICAgICAgICBiaW8uYnggPSBfYjMyKGJpby5ieCA+PiAxKQogICAgICAgIGVsaWYgaW5zID09IFNISUZUX0w6CiAgICAgICAgICAgIGJpby5ieCA9IF9iMzIoYmlvLmJ4IDw8IDEpCiAgICAgICAgZWxpZiBpbnMgPT0gSU5DOgogICAgICAgICAgICBiaW8uYnggPSBfYjMyKGJpby5ieCArIDEpCiAgICAgICAgZWxpZiBpbnMgPT0gREVDOgogICAgICAgICAgICBiaW8uYnggPSBfYjMyKGJpby5ieCAtIDEpCiAgICAgICAgZWxpZiBpbnMgPT0gQUREOgogICAgICAgICAgICBiaW8uYnggPSBfYjMyKGJpby5ieCArIGJpby5jeCkKICAgICAgICBlbGlmIGlucyA9PSBTVUI6CiAgICAgICAgICAgIGJpby5ieCA9IF9iMzIoYmlvLmJ4IC0gYmlvLmN4KQogICAgICAgIGVsaWYgaW5zID09IE5BTkQ6CiAgICAgICAgICAgIGJpby5ieCA9IF9iMzIofihiaW8uYnggJiBiaW8uY3gpKQogICAgICAgIGVsaWYgaW5zID09IEhfQUxMT0M6CiAgICAgICAgICAgICMg5YiG6YWN5a2Q5Luj5YaF5a2Y77yI6L+Z6YeM566A5YyW77ya5qCH6K6wIHdoIOWIsOWfuuWboOe7hOacq+WwvuWMuuWfn++8iQogICAgICAgICAgICBuZWVkID0gbGVuKGJpby5nZW5vbWUpCiAgICAgICAgICAgIGlmIGxlbihtKSA8IG5lZWQgKiAyOgogICAgICAgICAgICAgICAgbS5leHRlbmQoW3NlbGYucm5nLnJhbmRyYW5nZShsZW4oTkFNRVMpKV0gKiBuZWVkKQogICAgICAgICAgICAgICAgbiA9IGxlbihtKQogICAgICAgICAgICBiaW8ud2ggPSBuZWVkCiAgICAgICAgICAgIGJpby5maCA9IDAKICAgICAgICAgICAgYmlvLmNvcGllZCA9IDAKICAgICAgICAgICAgYmlvLmFsbG9jZWQgPSBUcnVlCiAgICAgICAgZWxpZiBpbnMgPT0gSF9DT1BZOgogICAgICAgICAgICBpZiBiaW8uYWxsb2NlZCBhbmQgMCA8PSBiaW8ud2ggPCBsZW4obSk6CiAgICAgICAgICAgICAgICBtW2Jpby53aF0gPSBtW2Jpby5yaF0KICAgICAgICAgICAgICAgIGJpby53aCArPSAxCiAgICAgICAgICAgIGJpby5yaCA9IChiaW8ucmggKyAxKSAlIG4KICAgICAgICAgICAgYmlvLmNvcGllZCArPSAxCiAgICAgICAgICAgIGlmIGJpby5jb3BpZWQgPj0gbGVuKGJpby5nZW5vbWUpOgogICAgICAgICAgICAgICAgYmlvLmN4ID0gMSAgICAgICAgICAjIOWkjeWItuWujOaIkOagh+W/l++8iOS+myBpZi1uLWVxdSDliKTmlq3vvIkKICAgICAgICBlbGlmIGlucyA9PSBIX1NFQVJDSDoKICAgICAgICAgICAgIyDlj5blkI7nu60gbm9wIOW6j+WIl+S9nOS4uuagh+etvu+8jOaQnOe0ouS6kuihpQogICAgICAgICAgICBsYmwgPSBbXQogICAgICAgICAgICBrID0gKGJpby5pcCArIDEpICUgbgogICAgICAgICAgICB3aGlsZSBtW2tdIGluIE5PUFMgYW5kIGxlbihsYmwpIDwgODoKICAgICAgICAgICAgICAgIGxibC5hcHBlbmQobVtrXSk7IGsgPSAoayArIDEpICUgbgogICAgICAgICAgICBpZiBsYmw6CiAgICAgICAgICAgICAgICB3YW50ID0gW0NPTVBbeF0gZm9yIHggaW4gbGJsXQogICAgICAgICAgICAgICAgc3RhcnQgPSAoYmlvLmlwICsgMSkgJSBuCiAgICAgICAgICAgICAgICBmb3Igb2ZmIGluIHJhbmdlKDEsIG4pOgogICAgICAgICAgICAgICAgICAgIGlkeCA9IChzdGFydCArIG9mZikgJSBuCiAgICAgICAgICAgICAgICAgICAgaWYgYWxsKG1bKGlkeCArIGopICUgbl0gPT0gd2FudFtqXSBmb3IgaiBpbiByYW5nZShsZW4od2FudCkpKToKICAgICAgICAgICAgICAgICAgICAgICAgYmlvLmZoID0gaWR4CiAgICAgICAgICAgICAgICAgICAgICAgIGJpby5ieCA9IG9mZgogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBhZHZhbmNlID0gVHJ1ZQogICAgICAgIGVsaWYgaW5zID09IE1PVl9IRUFEOgogICAgICAgICAgICBiaW8uaXAgPSBiaW8uZmgKICAgICAgICAgICAgYWR2YW5jZSA9IEZhbHNlCiAgICAgICAgZWxpZiBpbnMgPT0gSk1QX0hFQUQ6CiAgICAgICAgICAgIGJpby5maCA9IGJpby5pcAogICAgICAgIGVsaWYgaW5zID09IEdFVF9IRUFEOgogICAgICAgICAgICBiaW8uY3ggPSBiaW8uaXAKICAgICAgICBlbGlmIGlucyA9PSBTRVRfRkxPVzoKICAgICAgICAgICAgYmlvLmZoID0gYmlvLmN4ICUgbgogICAgICAgIGVsaWYgaW5zID09IEhfRElWSURFOgogICAgICAgICAgICAjIOWIhuijgu+8muW/hemhu+W3suWujOaVtOWkjeWItu+8jOWQpuWImeWksei0pe+8iOmYsuepuuWjs+S9nOW8iu+8iQogICAgICAgICAgICBnbCA9IGxlbihiaW8uZ2Vub21lKQogICAgICAgICAgICBpZiAobm90IGJpby5hbGxvY2VkKSBvciBiaW8uY29waWVkIDwgZ2wgb3IgbGVuKG0pIDwgZ2wgKiAyOgogICAgICAgICAgICAgICAgYmlvLmNvcGllZCA9IDAKICAgICAgICAgICAgICAgIGJpby5hbGxvY2VkID0gRmFsc2UKICAgICAgICAgICAgICAgIHJldHVybiAoJ2RpdmlkZV9mYWlsJywgTm9uZSkKICAgICAgICAgICAgb2Zmc3ByaW5nX2cgPSBsaXN0KG1bZ2w6Z2wgKyBnbF0pCiAgICAgICAgICAgIGJpby5jb3BpZWQgPSAwCiAgICAgICAgICAgIGJpby5hbGxvY2VkID0gRmFsc2UKICAgICAgICAgICAgcmV0dXJuICgnZGl2aWRlJywgb2Zmc3ByaW5nX2cpCiAgICAgICAgZWxpZiBpbnMgPT0gSU86CiAgICAgICAgICAgICMg6L6T5Ye6IEJY77yb5Yik5a6a55So44CQ5pys5qyh6K+75YWl5pe25L+d5a2Y55qE44CRaW4xL2luMu+8m+maj+WQjumHjeaWsOivu+WFpQogICAgICAgICAgICBvdXQgPSBiaW8uYngKICAgICAgICAgICAgaGl0ID0gc2VsZi5fY2hlY2tfdGFza3MoYmlvLCBvdXQpCiAgICAgICAgICAgIGJpby5pb19sb2cuYXBwZW5kKChvdXQsIGhpdCBpcyBub3QgTm9uZSkpCiAgICAgICAgICAgIGlmIGxlbihiaW8uaW9fbG9nKSA+IDIwMDogYmlvLmlvX2xvZy5wb3AoMCkKICAgICAgICAgICAgYmlvLmluMSA9IHNlbGYucm5nLnJhbmRyYW5nZSgwLCA0KQogICAgICAgICAgICBiaW8uaW4yID0gc2VsZi5ybmcucmFuZHJhbmdlKDAsIDQpCiAgICAgICAgICAgIGJpby5ieCA9IGJpby5pbjEKICAgICAgICAgICAgYmlvLmN4ID0gYmlvLmluMgogICAgICAgIGlmIGFkdmFuY2U6CiAgICAgICAgICAgIGJpby5pcCA9IChiaW8uaXAgKyAxKSAlIG4KICAgICAgICBiaW8uY3ljbGVzICs9IDEKICAgICAgICByZXR1cm4gTm9uZQoKICAgIGRlZiBfY2hlY2tfdGFza3Moc2VsZiwgYmlvLCBvdXQpOgogICAgICAgICMg5Lu75Yqh5Yik5a6a77ya55SoIEFYKOi+k+WFpTEpIEJYKOi+k+WFpTIpIOS4jui+k+WHuuavlOi+gwogICAgICAgIGEsIGIgPSBiaW8uaW4xLCBiaW8uaW4yCiAgICAgICAgZm9yIG5hbWUsIGZuIGluIFRBU0tTLml0ZW1zKCk6CiAgICAgICAgICAgIGlmIG5hbWUgaW4gYmlvLnRhc2tzX2RvbmU6IGNvbnRpbnVlCiAgICAgICAgICAgIGlmIGZuKGEsIGIpID09IG91dDoKICAgICAgICAgICAgICAgIGJpby50YXNrc19kb25lLmFkZChuYW1lKQogICAgICAgICAgICAgICAgYmlvLnJld2FyZCArPSBUQVNLX0JPTlVTW25hbWVdCiAgICAgICAgICAgICAgICBpZiBuYW1lIG5vdCBpbiBzZWxmLnRhc2tfZmlyc3Q6CiAgICAgICAgICAgICAgICAgICAgc2VsZi50YXNrX2ZpcnN0W25hbWVdID0gc2VsZi50CiAgICAgICAgICAgICAgICByZXR1cm4gbmFtZQogICAgICAgIHJldHVybiBOb25lCgogICAgIyAtLS0tLS0tLS0tIOS4gOS7oyAtLS0tLS0tLS0tCiAgICBkZWYgc3RlcF9nZW5lcmF0aW9uKHNlbGYpOgogICAgICAgIHNlbGYudCArPSAxCiAgICAgICAgbmV3Ym9ybnMgPSBbXQogICAgICAgIGZvciBiaW8gaW4gc2VsZi5wb3A6CiAgICAgICAgICAgICMg6IO96YePID0g5aSW6YOo5L6b57uZKHNsaWNlKSArIOiHqui6q+iOt+WPlijku7vliqHlpZblirHvvIzni6znq4vkuo4gc2xpY2UpCiAgICAgICAgICAgIHNlbGZfZ2FpbiA9IChiaW8ucmV3YXJkIC0gMS4wKSAqIHNlbGYudGFza19lbmVyZ3lfc2NhbGUKICAgICAgICAgICAgYnVkZ2V0ID0gaW50KChzZWxmLnNsaWNlX3JhdGlvICogc2VsZi5zY2FyY2l0eSAqIHNlbGYuZW5lcmd5X3Blcl9jeWNsZSkKICAgICAgICAgICAgICAgICAgICAgICAgICsgc2VsZl9nYWluKQogICAgICAgICAgICBkaXZpZGVkID0gRmFsc2UKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UobWF4KDEsIGJ1ZGdldCkpOgogICAgICAgICAgICAgICAgciA9IHNlbGYuX2V4ZWMoYmlvKQogICAgICAgICAgICAgICAgaWYgciBhbmQgclswXSA9PSAnZGl2aWRlJyBhbmQgclsxXToKICAgICAgICAgICAgICAgICAgICBuZXdib3Jucy5hcHBlbmQoc2VsZi5fbXV0YXRlKHJbMV0pKQogICAgICAgICAgICAgICAgICAgIGRpdmlkZWQgPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgYmlvLmFnZSArPSAxCiAgICAgICAgICAgIGlmIGRpdmlkZWQ6CiAgICAgICAgICAgICAgICAjIOacrOS9k+WkjeS9je+8iOeugOWMlu+8mua4heepuuWtkOS7o+WMuu+8iQogICAgICAgICAgICAgICAgZ2wgPSBsZW4oYmlvLmdlbm9tZSkKICAgICAgICAgICAgICAgIGJpby5tZW0gPSBiaW8ubWVtWzpnbF0gKyBbc2VsZi5ybmcucmFuZHJhbmdlKGxlbihOQU1FUykpXSpnbAogICAgICAgICAgICAgICAgYmlvLmlwID0gYmlvLnJoID0gMAogICAgICAgICAgICAgICAgYmlvLndoID0gZ2w7IGJpby5maCA9IDAKICAgICAgICAjIOenjee+pOabtOaWsO+8muaWsOeUn+S4quS9k+abv+aNouOAkOmaj+acuuOAkeS4quS9k++8iHRvcnVzIOernuS6ie+8iQogICAgICAgICMg6YCJ5oup5Y6L5Yqb5p2l6Ieq44CQ57mB5q6W6YCf5bqm5beu5byC44CR77yIcmV3YXJk4oaS5pe26Ze054mH4oaS5pu05b+r5YiG6KOC77yJ77yM5LiN5piv5a2Y5rS7562b6YCJCiAgICAgICAgZm9yIGcgaW4gbmV3Ym9ybnM6CiAgICAgICAgICAgIGlmIGxlbihzZWxmLnBvcCkgPCBzZWxmLnBvcF9zaXplOgogICAgICAgICAgICAgICAgc2VsZi5wb3AuYXBwZW5kKEJpbyhnLCBtZW1fc2l6ZT1sZW4oZykqMiwgYmlydGhfdD1zZWxmLnQpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgaWR4ID0gc2VsZi5ybmcucmFuZHJhbmdlKGxlbihzZWxmLnBvcCkpCiAgICAgICAgICAgICAgICBzZWxmLnBvcFtpZHhdID0gQmlvKGcsIG1lbV9zaXplPWxlbihnKSoyLCBiaXJ0aF90PXNlbGYudCkKICAgICAgICAgICAgc2VsZi50b3RhbF9iaXJ0aHMgKz0gMQogICAgICAgIGRlYXRocyA9IGxlbihuZXdib3JucykKICAgICAgICBzZWxmLnRvdGFsX2RlYXRocyArPSBkZWF0aHMKICAgICAgICByZXR1cm4gbGVuKG5ld2Jvcm5zKQoKICAgIGRlZiBfbXV0YXRlKHNlbGYsIGdlbm9tZSk6CiAgICAgICAgZyA9IGxpc3QoZ2Vub21lKQogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihnKSk6CiAgICAgICAgICAgIGlmIHNlbGYucm5nLnJhbmRvbSgpIDwgc2VsZi5tdXRfcmF0ZToKICAgICAgICAgICAgICAgIGdbaV0gPSBzZWxmLnJuZy5yYW5kcmFuZ2UobGVuKE5BTUVTKSkKICAgICAgICByZXR1cm4gZwoKICAgIGRlZiBzdGF0cyhzZWxmKToKICAgICAgICBuID0gbGVuKHNlbGYucG9wKQogICAgICAgIGlmIG4gPT0gMDoKICAgICAgICAgICAgcmV0dXJuIGRpY3Qobj0wLCBtZWFuX3Jld2FyZD0wLCBtZWFuX3Rhc2tzPTAsIG1heF90YXNrcz0wLAogICAgICAgICAgICAgICAgICAgICAgICB0YXNrX3VuaW9uPXNldCgpLCBiaXJ0aHM9c2VsZi50b3RhbF9iaXJ0aHMpCiAgICAgICAgbXIgPSBzdW0oYi5yZXdhcmQgZm9yIGIgaW4gc2VsZi5wb3ApIC8gbgogICAgICAgIG10ID0gc3VtKGxlbihiLnRhc2tzX2RvbmUpIGZvciBiIGluIHNlbGYucG9wKSAvIG4KICAgICAgICBteCA9IG1heChsZW4oYi50YXNrc19kb25lKSBmb3IgYiBpbiBzZWxmLnBvcCkKICAgICAgICB1bmlvbiA9IHNldCgpCiAgICAgICAgZm9yIGIgaW4gc2VsZi5wb3A6IHVuaW9uIHw9IGIudGFza3NfZG9uZQogICAgICAgIHJldHVybiBkaWN0KG49biwgbWVhbl9yZXdhcmQ9bXIsIG1lYW5fdGFza3M9bXQsIG1heF90YXNrcz1teCwKICAgICAgICAgICAgICAgICAgICB0YXNrX3VuaW9uPXVuaW9uLCBiaXJ0aHM9c2VsZi50b3RhbF9iaXJ0aHMpCgoKIyAtLS0tLS0tLS0tLS0tLS0tIOelluWFiOeUn+eJqe+8iOWAmemAie+8jOmcgOmqjOivgeiDveiHquWkjeWItu+8iSAtLS0tLS0tLS0tLS0tLS0tCiMgQXZpZGEg6aOO5qC8IGhlYWQtYmFzZWQg6Ieq5aSN5Yi277ya5YiG6YWNIC0+IOiuviByZWFkIGhlYWQgLT4g5aSN5Yi25b6q546vIC0+IOWIhuijggpkZWYgbWFrZV9hbmNlc3RvcigpOgogICAgcmV0dXJuIFsKICAgICAgICBIX0FMTE9DLAogICAgICAgIE5PUF9DLCBOT1BfQSwKICAgICAgICBIX1NFQVJDSCwKICAgICAgICBOT1BfQywKICAgICAgICBNT1ZfSEVBRCwKICAgICAgICBOT1BfQywgTk9QX0EsCiAgICAgICAgSF9DT1BZLAogICAgICAgIE5PUF9BLCBOT1BfQiwKICAgICAgICBIX0RJVklERSwKICAgICAgICBOT1BfQywgTk9QX0EsCiAgICBdCgoKZGVmIHZlcmlmeV9zZWxmY29weShhbmNlc3Rvcj1Ob25lLCBtYXhfY3ljbGVzPTIwMDAsIHNlZWQ9MCk6CiAgICAiIiLpqozor4HnpZblhYjog73lkKboh6rlpI3liLYg4oCU4oCUIOi/meaYr+W/hemhu+mAmui/h+eahCBzYW5pdHkgY2hlY2siIiIKICAgIGFuYyA9IGFuY2VzdG9yIG9yIG1ha2VfYW5jZXN0b3IoKQogICAgdyA9IFdvcmxkKGFuYywgcG9wX3NpemU9MSwgc2VlZD1zZWVkKQogICAgYmlvID0gdy5wb3BbMF0KICAgIGZvciBfIGluIHJhbmdlKG1heF9jeWNsZXMpOgogICAgICAgIHIgPSB3Ll9leGVjKGJpbykKICAgICAgICBpZiByIGFuZCByWzBdID09ICdkaXZpZGUnOgogICAgICAgICAgICByZXR1cm4gVHJ1ZSwgYmlvLmN5Y2xlcywgKHJbMV0gaXMgbm90IE5vbmUpCiAgICByZXR1cm4gRmFsc2UsIGJpby5jeWNsZXMsIEZhbHNlCg==
+# -*- coding: utf-8 -*-
+"""
+最小 Avida 风格数字生命世界（对照用）
+====================================
+指令集：head-based 复制机制 + 逻辑运算任务
+目标：给"我们的引擎"提供一个外部演化基线，做同条件对照。
+
+设计原则：
+  - 只实现能支撑【自复制 + 任务奖励 + 突变 + 选择】的最小子集
+  - 所有判定可证伪（真/假都能产生）
+  - 作弊可检测（任务奖励 vs 真实执行分离记录）
+"""
+import hashlib
+import random
+
+# ---------------- 指令集 ----------------
+NOP_A, NOP_B, NOP_C = 0, 1, 2
+IF_N_EQU   = 3
+PUSH, POP, SWAP = 4, 5, 6
+SHIFT_R, SHIFT_L, INC, DEC, ADD, SUB, NAND = 7, 8, 9, 10, 11, 12, 13
+H_ALLOC, H_DIVIDE, H_COPY, H_SEARCH = 14, 15, 16, 17
+MOV_HEAD, JMP_HEAD, GET_HEAD, SET_FLOW = 18, 19, 20, 21
+IO = 22
+
+NAMES = {
+    NOP_A:'nop-A', NOP_B:'nop-B', NOP_C:'nop-C', IF_N_EQU:'if-n-equ',
+    PUSH:'push', POP:'pop', SWAP:'swap', SHIFT_R:'shift-r', SHIFT_L:'shift-l',
+    INC:'inc', DEC:'dec', ADD:'add', SUB:'sub', NAND:'nand',
+    H_ALLOC:'h-alloc', H_DIVIDE:'h-divide', H_COPY:'h-copy', H_SEARCH:'h-search',
+    MOV_HEAD:'mov-head', JMP_HEAD:'jmp-head', GET_HEAD:'get-head', SET_FLOW:'set-flow',
+    IO:'io',
+}
+# h-search 互补：A<->B, C<->C
+COMP = {NOP_A: NOP_B, NOP_B: NOP_A, NOP_C: NOP_C}
+NOPS = (NOP_A, NOP_B, NOP_C)
+
+# ---------------- 逻辑任务（Avida 标准 9 任务） ----------------
+# 每个任务：输入两个 32 位寄存器，输出一个；匹配则给代谢奖励
+def _b32(x): return x & 0xFFFFFFFF
+TASKS = {
+    'NOT':  lambda a, b: _b32(~a),
+    'NAND': lambda a, b: _b32(~(a & b)),
+    'AND':  lambda a, b: _b32(a & b),
+    'ORN':  lambda a, b: _b32(a | ~b),
+    'OR':   lambda a, b: _b32(a | b),
+    'ANDN': lambda a, b: _b32(a & ~b),
+    'NOR':  lambda a, b: _b32(~(a | b)),
+    'XOR':  lambda a, b: _b32(a ^ b),
+    'EQU':  lambda a, b: _b32(~(a ^ b)),
+}
+# Avida 的代谢奖励阶梯（越难的任务奖励越高）
+TASK_BONUS = {
+    'NOT': 2.0, 'NAND': 4.0, 'AND': 4.0, 'ORN': 8.0, 'OR': 8.0,
+    'ANDN': 16.0, 'NOR': 16.0, 'XOR': 32.0, 'EQU': 32.0,
+}
+
+
+class Bio:
+    """一个数字生物：基因组 + 虚拟 CPU 状态"""
+    __slots__ = ('genome','ax','bx','cx','stack','ip','rh','wh','fh',
+                 'mem','mem_size','cycles','age','reward','tasks_done',
+                 'io_log','parent','birth_t','copied','in1','in2','alloced')
+    # copied: 本次 h-alloc 后已复制的指令数；h-divide 以此为准（防空壳分裂）
+
+    def __init__(self, genome, mem_size=None, parent=None, birth_t=0):
+        self.genome = list(genome)
+        self.mem_size = mem_size if mem_size else len(genome)
+        self.mem = list(genome) + [random.randrange(len(NAMES))]*(self.mem_size - len(genome))
+        self.ax = self.bx = self.cx = 0
+        self.stack = []
+        self.ip = 0; self.rh = 0; self.wh = -1; self.fh = 0   # wh=-1: 未分配，必须 h-alloc
+        self.cycles = 0; self.age = 0
+        self.reward = 1.0          # 代谢速率乘子（1.0 = 基线）
+        self.tasks_done = set()
+        self.io_log = []           # (输出值, 是否命中任务)
+        self.parent = parent
+        self.birth_t = birth_t
+        self.copied = 0
+        self.alloced = False
+        self.in1 = 0
+        self.in2 = 0
+
+
+class World:
+    """Avida 世界：种群、调度、突变、能量"""
+    def __init__(self, ancestor, pop_size=100, torus_size=60*60,
+                 seed=0, mut_rate=0.0075, slice_ratio=10,
+                 energy_per_cycle=1.0, scarcity=1.0, task_energy_scale=1.0):
+        random.seed(seed)
+        self.rng = random.Random(seed)
+        self.ancestor = list(ancestor)
+        self.pop_size = pop_size
+        self.torus_n = torus_size
+        self.mut_rate = mut_rate
+        self.slice_ratio = slice_ratio     # 每代分配的时间片（相对）
+        self.energy_per_cycle = energy_per_cycle
+        self.scarcity = scarcity           # <1 = 资源削减
+        self.task_energy_scale = task_energy_scale   # 任务→自身能量（断供后唯一来源）
+        self.t = 0
+        self.total_births = 0
+        self.total_deaths = 0
+        self.task_first = {}               # 任务名 -> 首次出现的代数
+        self.pop = []
+        for _ in range(pop_size):
+            self.pop.append(Bio(self.ancestor, mem_size=len(self.ancestor)*2))
+
+    # ---------- 指令执行 ----------
+    def _exec(self, bio):
+        m = bio.mem
+        n = len(m)
+        if bio.ip >= n: bio.ip = 0
+        ins = m[bio.ip]
+        advance = True
+
+        if ins in NOPS:
+            pass                                   # 标签修饰
+        elif ins == IF_N_EQU:
+            if bio.bx != bio.cx: advance = False; bio.ip = (bio.ip + 2) % n
+            else: advance = True
+        elif ins == PUSH:
+            bio.stack.append(bio.cx)
+        elif ins == POP:
+            bio.bx = bio.stack.pop() if bio.stack else bio.bx
+        elif ins == SWAP:
+            bio.bx, bio.cx = bio.cx, bio.bx
+        elif ins == SHIFT_R:
+            bio.bx = _b32(bio.bx >> 1)
+        elif ins == SHIFT_L:
+            bio.bx = _b32(bio.bx << 1)
+        elif ins == INC:
+            bio.bx = _b32(bio.bx + 1)
+        elif ins == DEC:
+            bio.bx = _b32(bio.bx - 1)
+        elif ins == ADD:
+            bio.bx = _b32(bio.bx + bio.cx)
+        elif ins == SUB:
+            bio.bx = _b32(bio.bx - bio.cx)
+        elif ins == NAND:
+            bio.bx = _b32(~(bio.bx & bio.cx))
+        elif ins == H_ALLOC:
+            # 分配子代内存（这里简化：标记 wh 到基因组末尾区域）
+            need = len(bio.genome)
+            if len(m) < need * 2:
+                m.extend([self.rng.randrange(len(NAMES))] * need)
+                n = len(m)
+            bio.wh = need
+            bio.fh = 0
+            bio.copied = 0
+            bio.alloced = True
+        elif ins == H_COPY:
+            if bio.alloced and 0 <= bio.wh < len(m):
+                m[bio.wh] = m[bio.rh]
+                bio.wh += 1
+            bio.rh = (bio.rh + 1) % n
+            bio.copied += 1
+            if bio.copied >= len(bio.genome):
+                bio.cx = 1          # 复制完成标志（供 if-n-equ 判断）
+        elif ins == H_SEARCH:
+            # 取后续 nop 序列作为标签，搜索互补
+            lbl = []
+            k = (bio.ip + 1) % n
+            while m[k] in NOPS and len(lbl) < 8:
+                lbl.append(m[k]); k = (k + 1) % n
+            if lbl:
+                want = [COMP[x] for x in lbl]
+                start = (bio.ip + 1) % n
+                for off in range(1, n):
+                    idx = (start + off) % n
+                    if all(m[(idx + j) % n] == want[j] for j in range(len(want))):
+                        bio.fh = idx
+                        bio.bx = off
+                        break
+            advance = True
+        elif ins == MOV_HEAD:
+            bio.ip = bio.fh
+            advance = False
+        elif ins == JMP_HEAD:
+            bio.fh = bio.ip
+        elif ins == GET_HEAD:
+            bio.cx = bio.ip
+        elif ins == SET_FLOW:
+            bio.fh = bio.cx % n
+        elif ins == H_DIVIDE:
+            # 分裂：必须已完整复制，否则失败（防空壳作弊）
+            gl = len(bio.genome)
+            if (not bio.alloced) or bio.copied < gl or len(m) < gl * 2:
+                bio.copied = 0
+                bio.alloced = False
+                return ('divide_fail', None)
+            offspring_g = list(m[gl:gl + gl])
+            bio.copied = 0
+            bio.alloced = False
+            return ('divide', offspring_g)
+        elif ins == IO:
+            # 输出 BX；判定用【本次读入时保存的】in1/in2；随后重新读入
+            out = bio.bx
+            hit = self._check_tasks(bio, out)
+            bio.io_log.append((out, hit is not None))
+            if len(bio.io_log) > 200: bio.io_log.pop(0)
+            bio.in1 = self.rng.randrange(0, 4)
+            bio.in2 = self.rng.randrange(0, 4)
+            bio.bx = bio.in1
+            bio.cx = bio.in2
+        if advance:
+            bio.ip = (bio.ip + 1) % n
+        bio.cycles += 1
+        return None
+
+    def _check_tasks(self, bio, out):
+        # 任务判定：用 AX(输入1) BX(输入2) 与输出比较
+        a, b = bio.in1, bio.in2
+        for name, fn in TASKS.items():
+            if name in bio.tasks_done: continue
+            if fn(a, b) == out:
+                bio.tasks_done.add(name)
+                bio.reward += TASK_BONUS[name]
+                if name not in self.task_first:
+                    self.task_first[name] = self.t
+                return name
+        return None
+
+    # ---------- 一代 ----------
+    def step_generation(self):
+        self.t += 1
+        newborns = []
+        for bio in self.pop:
+            # 能量 = 外部供给(slice) + 自身获取(任务奖励，独立于 slice)
+            self_gain = (bio.reward - 1.0) * self.task_energy_scale
+            budget = int((self.slice_ratio * self.scarcity * self.energy_per_cycle)
+                         + self_gain)
+            divided = False
+            for _ in range(max(1, budget)):
+                r = self._exec(bio)
+                if r and r[0] == 'divide' and r[1]:
+                    newborns.append(self._mutate(r[1]))
+                    divided = True
+                    break
+            bio.age += 1
+            if divided:
+                # 本体复位（简化：清空子代区）
+                gl = len(bio.genome)
+                bio.mem = bio.mem[:gl] + [self.rng.randrange(len(NAMES))]*gl
+                bio.ip = bio.rh = 0
+                bio.wh = gl; bio.fh = 0
+        # 种群更新：新生个体替换【随机】个体（torus 竞争）
+        # 选择压力来自【繁殖速度差异】（reward→时间片→更快分裂），不是存活筛选
+        for g in newborns:
+            if len(self.pop) < self.pop_size:
+                self.pop.append(Bio(g, mem_size=len(g)*2, birth_t=self.t))
+            else:
+                idx = self.rng.randrange(len(self.pop))
+                self.pop[idx] = Bio(g, mem_size=len(g)*2, birth_t=self.t)
+            self.total_births += 1
+        deaths = len(newborns)
+        self.total_deaths += deaths
+        return len(newborns)
+
+    def _mutate(self, genome):
+        g = list(genome)
+        for i in range(len(g)):
+            if self.rng.random() < self.mut_rate:
+                g[i] = self.rng.randrange(len(NAMES))
+        return g
+
+    def stats(self):
+        n = len(self.pop)
+        if n == 0:
+            return dict(n=0, mean_reward=0, mean_tasks=0, max_tasks=0,
+                        task_union=set(), births=self.total_births)
+        mr = sum(b.reward for b in self.pop) / n
+        mt = sum(len(b.tasks_done) for b in self.pop) / n
+        mx = max(len(b.tasks_done) for b in self.pop)
+        union = set()
+        for b in self.pop: union |= b.tasks_done
+        return dict(n=n, mean_reward=mr, mean_tasks=mt, max_tasks=mx,
+                    task_union=union, births=self.total_births)
+
+
+# ---------------- 祖先生物（候选，需验证能自复制） ----------------
+# Avida 风格 head-based 自复制：分配 -> 设 read head -> 复制循环 -> 分裂
+def make_ancestor():
+    return [
+        H_ALLOC,
+        NOP_C, NOP_A,
+        H_SEARCH,
+        NOP_C,
+        MOV_HEAD,
+        NOP_C, NOP_A,
+        H_COPY,
+        NOP_A, NOP_B,
+        H_DIVIDE,
+        NOP_C, NOP_A,
+    ]
+
+
+def verify_selfcopy(ancestor=None, max_cycles=2000, seed=0):
+    """验证祖先能否自复制 —— 这是必须通过的 sanity check"""
+    anc = ancestor or make_ancestor()
+    w = World(anc, pop_size=1, seed=seed)
+    bio = w.pop[0]
+    for _ in range(max_cycles):
+        r = w._exec(bio)
+        if r and r[0] == 'divide':
+            return True, bio.cycles, (r[1] is not None)
+    return False, bio.cycles, False

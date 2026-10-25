@@ -1,1 +1,22 @@
-ewogInBlciI6IHsKICAiY2VsZXJ5X19jZWxlcnlfX2NlbGVyeV9leGNlcHRpb25zLnB5IjogMCwKICAiY2VsZXJ5X19jZWxlcnlfX2NlbGVyeV93b3JrZXJfbG9vcHMucHkiOiAxLAogICJmYXN0YXBpX19mYXN0YXBpX19kb2NzX3NyY19zZWN1cml0eV90dXRvcmlhbDAwNV9hbl9weTMxMC5weSI6IDAsCiAgImZhc3RhcGlfX2Zhc3RhcGlfX2Zhc3RhcGlfdGVsZW1ldHJ5X19hcGkucHkiOiAwLAogICJodHRwaWVfX2NsaV9faHR0cGllX21hbmFnZXJfY2xpLnB5IjogMCwKICAiaHR0cGllX19jbGlfX2h0dHBpZV91cGxvYWRzLnB5IjogMCwKICAicGFsbGV0c19fZmxhc2tfX3NyY19mbGFza19qc29uX3Byb3ZpZGVyLnB5IjogMCwKICAicGFsbGV0c19fZmxhc2tfX3NyY19mbGFza193cmFwcGVycy5weSI6IDAsCiAgInBzZl9fcmVxdWVzdHNfX3NyY19yZXF1ZXN0c19fdHlwZXMucHkiOiAwLAogICJwc2ZfX3JlcXVlc3RzX19zcmNfcmVxdWVzdHNfYXBpLnB5IjogMCwKICAic2NyYXB5X19zY3JhcHlfX3NjcmFweV9jb3JlX2Rvd25sb2FkZXJfaGFuZGxlcnNfX2Fpb2Z0cC5weSI6IDAsCiAgInNjcmFweV9fc2NyYXB5X19zY3JhcHlfc2hlbGwucHkiOiAwLAogICJ5dC1kbHBfX3l0LWRscF9feXRfZGxwX2V4dHJhY3Rvcl9kcnR1YmVyLnB5IjogMCwKICAieXQtZGxwX195dC1kbHBfX3l0X2RscF9leHRyYWN0b3JfdHZvcGVuZ3IucHkiOiAwCiB9LAogImJ5dGVzIjogMTA4MDA2LAogImZpbGVzIjogMTQsCiAic3luIjogMSwKICJtZXRoIjogMAp9
+{
+ "per": {
+  "celery__celery__celery_exceptions.py": 0,
+  "celery__celery__celery_worker_loops.py": 1,
+  "fastapi__fastapi__docs_src_security_tutorial005_an_py310.py": 0,
+  "fastapi__fastapi__fastapi_telemetry__api.py": 0,
+  "httpie__cli__httpie_manager_cli.py": 0,
+  "httpie__cli__httpie_uploads.py": 0,
+  "pallets__flask__src_flask_json_provider.py": 0,
+  "pallets__flask__src_flask_wrappers.py": 0,
+  "psf__requests__src_requests__types.py": 0,
+  "psf__requests__src_requests_api.py": 0,
+  "scrapy__scrapy__scrapy_core_downloader_handlers__aioftp.py": 0,
+  "scrapy__scrapy__scrapy_shell.py": 0,
+  "yt-dlp__yt-dlp__yt_dlp_extractor_drtuber.py": 0,
+  "yt-dlp__yt-dlp__yt_dlp_extractor_tvopengr.py": 0
+ },
+ "bytes": 108006,
+ "files": 14,
+ "syn": 1,
+ "meth": 0
+}

@@ -1,1 +1,73 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFIDMyIHNlZWRzIOS4iiBCKDMxLzMyKSB2cyBBKDI1LzMyKSDlt64gNiDkuKog4oCU4oCUIOWPr+iDvee6r+WZquWjsOOAggogICDkuIrmrKHmlZnorq3vvIjimIU0L+KYhTYv4piFNy/imIUxMC/imIUxMS/imIUxMu+8ie+8muWcqOWZquWjsOS4iue8luaVheS6i+aYr+acgOW/jOius+eahOOAggogICDmiYDku6UgMjAwIHNlZWRzICsgYm9vdHN0cmFw77yM55yLIENJIOi3qOS4jei3qCAw44CCCiIiIgppbXBvcnQgb3MsIHN5cywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQpmcm9tIGNvcmUuaW5zdGluY3QxX2VuZXJneSBpbXBvcnQgRW5lcmd5SW5zdGluY3QKCk4gPSAyMDAKU1RFUFMgPSA2MDAKCmRlZiBib290KHhzLCBuPTQwMDAsIHNlZWQ9MTEpOgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICB4cyA9IG5wLmFzYXJyYXkoeHMsIGZsb2F0KQogICAgYnMgPSBbcm5nLmNob2ljZSh4cywgbGVuKHhzKSwgcmVwbGFjZT1UcnVlKS5tZWFuKCkgZm9yIF8gaW4gcmFuZ2UobildCiAgICByZXR1cm4gZmxvYXQobnAucGVyY2VudGlsZShicywgMi41KSksIGZsb2F0KG5wLnBlcmNlbnRpbGUoYnMsIDk3LjUpKQoKZGVmIHJ1bihtb2RlLCBzZWVkKToKICAgIEwgPSBMaWZlNShOPTgsIHNlZWQ9c2VlZCkKICAgIGlmIG1vZGUgPT0gIkEiOgogICAgICAgIGZvciBfIGluIHJhbmdlKFNURVBTKToKICAgICAgICAgICAgaWYgbm90IEwuYWxpdmU6IGJyZWFrCiAgICAgICAgICAgIEwuc3RlcCgpCiAgICAgICAgcmV0dXJuIGxlbihMLmxvZyksIEwuYWxpdmUKICAgIEkgPSBFbmVyZ3lJbnN0aW5jdChMKQogICAgSS5ydW4oU1RFUFMpCiAgICByZXR1cm4gSS50LCBMLmFsaXZlCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj0iICogNzgpCiAgICBwcmludChmIiDlpKfmoLfmnKwgwrcgQSDljp/niYggdnMgQiDmnKzog73niYjvvIzlkIQge059IHNlZWRzICsgYm9vdHN0cmFwIikKICAgIHByaW50KCI9IiAqIDc4KQogICAgb3V0ID0ge30KICAgIGZvciBtb2RlIGluIFsiQSIsICJCIl06CiAgICAgICAgcnMgPSBbcnVuKG1vZGUsIHMpIGZvciBzIGluIHJhbmdlKE4pXQogICAgICAgIHN0ZXBzID0gW3JbMF0gZm9yIHIgaW4gcnNdOyBhbGl2ZSA9IFsxIGlmIHJbMV0gZWxzZSAwIGZvciByIGluIHJzXQogICAgICAgIGxvLCBoaSA9IGJvb3QoYWxpdmUpOyBzbG8sIHNoaSA9IGJvb3Qoc3RlcHMpCiAgICAgICAgb3V0W21vZGVdID0gZGljdChhbGl2ZV9uPWludChzdW0oYWxpdmUpKSwgcmF0ZT1mbG9hdChucC5tZWFuKGFsaXZlKSksCiAgICAgICAgICAgICAgICAgICAgICAgICBjaT1bbG8sIGhpXSwgc3RlcHM9ZmxvYXQobnAubWVhbihzdGVwcykpLCBzdGVwc19jaT1bc2xvLCBzaGldKQogICAgICAgIGxibCA9ICJBIOWOn+eJiCjml6DmnKzog70pIiBpZiBtb2RlID09ICJBIiBlbHNlICJCIOacrOiDveeJiCjpmY3nuqcpIgogICAgICAgIHByaW50KGYiXG4gIFt7bGJsfV0iKQogICAgICAgIHByaW50KGYiICAgIOWtmOa0uyB7c3VtKGFsaXZlKX0ve059ID0ge25wLm1lYW4oYWxpdmUpOi40Zn0gICA5NSVDSSBbe2xvOi40Zn0sIHtoaTouNGZ9XSIpCiAgICAgICAgcHJpbnQoZiIgICAg5bmz5Z2H5q2l5pWwIHtucC5tZWFuKHN0ZXBzKTouMWZ9ICAgICAgICAgIDk1JUNJIFt7c2xvOi4xZn0sIHtzaGk6LjFmfV0iKQoKICAgIGRfcmF0ZSA9IG91dFsiQiJdWyJyYXRlIl0gLSBvdXRbIkEiXVsicmF0ZSJdCiAgICBkX3N0ZXAgPSBvdXRbIkIiXVsic3RlcHMiXSAtIG91dFsiQSJdWyJzdGVwcyJdCiAgICBjYSwgY2IgPSBvdXRbIkEiXVsiY2kiXSwgb3V0WyJCIl1bImNpIl0KICAgIG92ZXJsYXAgPSBub3QgKGNiWzBdID4gY2FbMV0gb3IgY2FbMF0gPiBjYlsxXSkKCiAgICBwcmludChmIlxuIiArICI9IiAqIDc4KQogICAgcHJpbnQoZiIg5a2Y5rS7546H5beuIELiiJJBID0ge2RfcmF0ZTorLjRmfSIpCiAgICBwcmludChmIiDmraXmlbDlt64gICBC4oiSQSA9IHtkX3N0ZXA6Ky4xZn0iKQogICAgcHJpbnQoZiIg5a2Y5rS7546HIENJIOmHjeWPoOWQlzogeyfmmK8g4oCU4oCUIOS4jeaYvuiRlycgaWYgb3ZlcmxhcCBlbHNlICflkKYg4oCU4oCUIOaYvuiRlyd9IikKICAgIHByaW50KGYiICAgQSBDSSBbe2NhWzBdOi40Zn0sIHtjYVsxXTouNGZ9XSIpCiAgICBwcmludChmIiAgIEIgQ0kgW3tjYlswXTouNGZ9LCB7Y2JbMV06LjRmfV0iKQoKICAgIG9rID0ge30KICAgIG9rWyLikaAg6IqC6IO95bim5p2l5pu06auY5a2Y5rS7546H77yI5pi+6JGX77yJIl0gPSBib29sKChkX3JhdGUgPiAwKSBhbmQgKG5vdCBvdmVybGFwKSkKICAgIHByaW50KGYiXG4gIHsn4pyFJyBpZiBva1sn4pGgIOiKguiDveW4puadpeabtOmrmOWtmOa0u+eOh++8iOaYvuiRl++8iSddIGVsc2UgJ+KdjCd9IOKRoCDoioLog73ihpLmm7TogJDmtLsg4oCU4oCUICIKICAgICAgICAgIGYieyfmmL7okZcnIGlmIChkX3JhdGU+MCBhbmQgbm90IG92ZXJsYXApIGVsc2UgKCfmlrnlkJHlr7nkvYbkuI3mmL7okZcnIGlmIGRfcmF0ZT4wIGVsc2UgJ+aXoOivgeaNricpfSIpCgogICAganNvbi5kdW1wKHsiQSI6IG91dFsiQSJdLCAiQiI6IG91dFsiQiJdLCAiZF9yYXRlIjogZmxvYXQoZF9yYXRlKSwKICAgICAgICAgICAgICAgImRfc3RlcCI6IGZsb2F0KGRfc3RlcCksICJvdmVybGFwIjogYm9vbChvdmVybGFwKSwKICAgICAgICAgICAgICAgIm9rIjoge2s6IGJvb2wodikgZm9yIGssIHYgaW4gb2suaXRlbXMoKX19LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiaW5zdGluY3QxX24yMDAuanNvbiIpLCAidyIpLAogICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★ 32 seeds 上 B(31/32) vs A(25/32) 差 6 个 —— 可能纯噪声。
+   上次教训（★4/★6/★7/★10/★11/★12）：在噪声上编故事是最忌讳的。
+   所以 200 seeds + bootstrap，看 CI 跨不跨 0。
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.life5 import Life5
+from core.instinct1_energy import EnergyInstinct
+
+N = 200
+STEPS = 600
+
+def boot(xs, n=4000, seed=11):
+    rng = np.random.default_rng(seed)
+    xs = np.asarray(xs, float)
+    bs = [rng.choice(xs, len(xs), replace=True).mean() for _ in range(n)]
+    return float(np.percentile(bs, 2.5)), float(np.percentile(bs, 97.5))
+
+def run(mode, seed):
+    L = Life5(N=8, seed=seed)
+    if mode == "A":
+        for _ in range(STEPS):
+            if not L.alive: break
+            L.step()
+        return len(L.log), L.alive
+    I = EnergyInstinct(L)
+    I.run(STEPS)
+    return I.t, L.alive
+
+if __name__ == "__main__":
+    print("=" * 78)
+    print(f" 大样本 · A 原版 vs B 本能版，各 {N} seeds + bootstrap")
+    print("=" * 78)
+    out = {}
+    for mode in ["A", "B"]:
+        rs = [run(mode, s) for s in range(N)]
+        steps = [r[0] for r in rs]; alive = [1 if r[1] else 0 for r in rs]
+        lo, hi = boot(alive); slo, shi = boot(steps)
+        out[mode] = dict(alive_n=int(sum(alive)), rate=float(np.mean(alive)),
+                         ci=[lo, hi], steps=float(np.mean(steps)), steps_ci=[slo, shi])
+        lbl = "A 原版(无本能)" if mode == "A" else "B 本能版(降级)"
+        print(f"\n  [{lbl}]")
+        print(f"    存活 {sum(alive)}/{N} = {np.mean(alive):.4f}   95%CI [{lo:.4f}, {hi:.4f}]")
+        print(f"    平均步数 {np.mean(steps):.1f}          95%CI [{slo:.1f}, {shi:.1f}]")
+
+    d_rate = out["B"]["rate"] - out["A"]["rate"]
+    d_step = out["B"]["steps"] - out["A"]["steps"]
+    ca, cb = out["A"]["ci"], out["B"]["ci"]
+    overlap = not (cb[0] > ca[1] or ca[0] > cb[1])
+
+    print(f"\n" + "=" * 78)
+    print(f" 存活率差 B−A = {d_rate:+.4f}")
+    print(f" 步数差   B−A = {d_step:+.1f}")
+    print(f" 存活率 CI 重叠吗: {'是 —— 不显著' if overlap else '否 —— 显著'}")
+    print(f"   A CI [{ca[0]:.4f}, {ca[1]:.4f}]")
+    print(f"   B CI [{cb[0]:.4f}, {cb[1]:.4f}]")
+
+    ok = {}
+    ok["① 节能带来更高存活率（显著）"] = bool((d_rate > 0) and (not overlap))
+    print(f"\n  {'✅' if ok['① 节能带来更高存活率（显著）'] else '❌'} ① 节能→更耐活 —— "
+          f"{'显著' if (d_rate>0 and not overlap) else ('方向对但不显著' if d_rate>0 else '无证据')}")
+
+    json.dump({"A": out["A"], "B": out["B"], "d_rate": float(d_rate),
+               "d_step": float(d_step), "overlap": bool(overlap),
+               "ok": {k: bool(v) for k, v in ok.items()}},
+              open(os.path.join(HERE, ".sense", "instinct1_n200.json"), "w"),
+              ensure_ascii=False, indent=1)

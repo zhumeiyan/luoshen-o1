@@ -1,1 +1,228 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKQ29sbGVjdCBHaXRIdWIgcmVwb3NpdG9yeSBhbmFseXRpY3MgYW5kIHN0b3JlIHRoZW0gZm9yIGhpc3RvcmljYWwgdHJhY2tpbmcuCgpUaGlzIHNjcmlwdCBjb2xsZWN0czoKLSBUcmFmZmljICh2aWV3cywgdW5pcXVlIHZpc2l0b3JzKQotIENsb25lcyAoY291bnQsIHVuaXF1ZSBjbG9uZXJzKQotIFBvcHVsYXIgY29udGVudCAobW9zdCB2aWV3ZWQgZmlsZXMpCi0gUmVmZXJyaW5nIHNpdGVzCi0gVG9wIHBhdGhzCgpEYXRhIGlzIHN0b3JlZCBpbiBDU1YgZm9ybWF0IGluIGFuYWx5dGljcy8gZGlyZWN0b3J5LgoiIiIKCmltcG9ydCBvcwppbXBvcnQganNvbgpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZSwgdGltZXpvbmUKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gZ2l0aHViIGltcG9ydCBHaXRodWIsIEF1dGgKaW1wb3J0IHBhbmRhcyBhcyBwZAoKIyBDb25maWd1cmF0aW9uClJFUE9fT1dORVIgPSBvcy5lbnZpcm9uLmdldCgnUkVQT19PV05FUicpClJFUE9fTkFNRSA9IG9zLmVudmlyb24uZ2V0KCdSRVBPX05BTUUnKQpHSVRIVUJfVE9LRU4gPSBvcy5lbnZpcm9uLmdldCgnR0lUSFVCX1RPS0VOJykKQU5BTFlUSUNTX0RJUiA9IFBhdGgoJ2FuYWx5dGljcycpCgpkZWYgc2V0dXBfYW5hbHl0aWNzX2RpcmVjdG9yeSgpOgogICAgIiIiQ3JlYXRlIGFuYWx5dGljcyBkaXJlY3Rvcnkgc3RydWN0dXJlLiIiIgogICAgQU5BTFlUSUNTX0RJUi5ta2RpcihleGlzdF9vaz1UcnVlKQogICAgKEFOQUxZVElDU19ESVIgLyAndHJhZmZpYycpLm1rZGlyKGV4aXN0X29rPVRydWUpCiAgICAoQU5BTFlUSUNTX0RJUiAvICdjbG9uZXMnKS5ta2RpcihleGlzdF9vaz1UcnVlKQogICAgKEFOQUxZVElDU19ESVIgLyAnY29udGVudCcpLm1rZGlyKGV4aXN0X29rPVRydWUpCiAgICAoQU5BTFlUSUNTX0RJUiAvICdyZWZlcnJlcnMnKS5ta2RpcihleGlzdF9vaz1UcnVlKQoKZGVmIGNvbGxlY3RfdHJhZmZpY19kYXRhKHJlcG8pOgogICAgIiIiQ29sbGVjdCB0cmFmZmljICh2aWV3cykgZGF0YS4iIiIKICAgIHByaW50KCJDb2xsZWN0aW5nIHRyYWZmaWMgZGF0YS4uLiIpCiAgICB0cnk6CiAgICAgICAgdmlld3NfZGF0YSA9IHJlcG8uZ2V0X3ZpZXdzX3RyYWZmaWMocGVyPSJkYXkiKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KGYi4pqg77iPICBXYXJuaW5nOiBDYW5ub3QgYWNjZXNzIHRyYWZmaWMgZGF0YToge2V9IikKICAgICAgICBwcmludCgiICAgVGhpcyByZXF1aXJlcyBhIFBlcnNvbmFsIEFjY2VzcyBUb2tlbiB3aXRoICdyZXBvJyBzY29wZS4iKQogICAgICAgIHByaW50KCIgICBTZWUgYW5hbHl0aWNzL1JFQURNRS5tZCBmb3Igc2V0dXAgaW5zdHJ1Y3Rpb25zLiIpCiAgICAgICAgcmV0dXJuIFtdCiAgICAKICAgIGRhdGEgPSBbXQogICAgIyB2aWV3c19kYXRhIGlzIGEgVmlldyBvYmplY3Qgd2l0aCBhICd2aWV3cycgYXR0cmlidXRlIGNvbnRhaW5pbmcgdGhlIGxpc3QKICAgIGZvciB2aWV3IGluIHZpZXdzX2RhdGEuZ2V0KCd2aWV3cycsIFtdKSBpZiBpc2luc3RhbmNlKHZpZXdzX2RhdGEsIGRpY3QpIGVsc2UgKHZpZXdzX2RhdGEudmlld3MgaWYgaGFzYXR0cih2aWV3c19kYXRhLCAndmlld3MnKSBlbHNlIFtdKToKICAgICAgICBkYXRhLmFwcGVuZCh7CiAgICAgICAgICAgICdkYXRlJzogdmlldy50aW1lc3RhbXAuc3RyZnRpbWUoJyVZLSVtLSVkJyksCiAgICAgICAgICAgICdjb3VudCc6IHZpZXcuY291bnQsCiAgICAgICAgICAgICd1bmlxdWVzJzogdmlldy51bmlxdWVzLAogICAgICAgICAgICAnY29sbGVjdGVkX2F0JzogZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0YykuaXNvZm9ybWF0KCkKICAgICAgICB9KQogICAgCiAgICBpZiBkYXRhOgogICAgICAgIGRmID0gcGQuRGF0YUZyYW1lKGRhdGEpCiAgICAgICAgZmlsZV9wYXRoID0gQU5BTFlUSUNTX0RJUiAvICd0cmFmZmljJyAvICd2aWV3cy5jc3YnCiAgICAgICAgCiAgICAgICAgIyBBcHBlbmQgdG8gZXhpc3RpbmcgZGF0YSBpZiBmaWxlIGV4aXN0cwogICAgICAgIGlmIGZpbGVfcGF0aC5leGlzdHMoKToKICAgICAgICAgICAgZXhpc3RpbmdfZGYgPSBwZC5yZWFkX2NzdihmaWxlX3BhdGgpCiAgICAgICAgICAgIGRmID0gcGQuY29uY2F0KFtleGlzdGluZ19kZiwgZGZdKS5kcm9wX2R1cGxpY2F0ZXMoc3Vic2V0PVsnZGF0ZSddLCBrZWVwPSdsYXN0JykKICAgICAgICAKICAgICAgICBkZi50b19jc3YoZmlsZV9wYXRoLCBpbmRleD1GYWxzZSkKICAgICAgICBwcmludChmIuKckyBTYXZlZCB7bGVuKGRhdGEpfSB0cmFmZmljIHJlY29yZHMiKQogICAgICAgIHJldHVybiBkYXRhCiAgICByZXR1cm4gW10KCmRlZiBjb2xsZWN0X2Nsb25lc19kYXRhKHJlcG8pOgogICAgIiIiQ29sbGVjdCBjbG9uZXMgZGF0YS4iIiIKICAgIHByaW50KCJDb2xsZWN0aW5nIGNsb25lcyBkYXRhLi4uIikKICAgIHRyeToKICAgICAgICBjbG9uZXNfZGF0YSA9IHJlcG8uZ2V0X2Nsb25lc190cmFmZmljKHBlcj0iZGF5IikKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIuKaoO+4jyAgV2FybmluZzogQ2Fubm90IGFjY2VzcyBjbG9uZXMgZGF0YToge2V9IikKICAgICAgICByZXR1cm4gW10KICAgIAogICAgZGF0YSA9IFtdCiAgICAjIGNsb25lc19kYXRhIGlzIGEgQ2xvbmVzIG9iamVjdCB3aXRoIGEgJ2Nsb25lcycgYXR0cmlidXRlIGNvbnRhaW5pbmcgdGhlIGxpc3QKICAgIGZvciBjbG9uZSBpbiBjbG9uZXNfZGF0YS5nZXQoJ2Nsb25lcycsIFtdKSBpZiBpc2luc3RhbmNlKGNsb25lc19kYXRhLCBkaWN0KSBlbHNlIChjbG9uZXNfZGF0YS5jbG9uZXMgaWYgaGFzYXR0cihjbG9uZXNfZGF0YSwgJ2Nsb25lcycpIGVsc2UgW10pOgogICAgICAgIGRhdGEuYXBwZW5kKHsKICAgICAgICAgICAgJ2RhdGUnOiBjbG9uZS50aW1lc3RhbXAuc3RyZnRpbWUoJyVZLSVtLSVkJyksCiAgICAgICAgICAgICdjb3VudCc6IGNsb25lLmNvdW50LAogICAgICAgICAgICAndW5pcXVlcyc6IGNsb25lLnVuaXF1ZXMsCiAgICAgICAgICAgICdjb2xsZWN0ZWRfYXQnOiBkYXRldGltZS5ub3codGltZXpvbmUudXRjKS5pc29mb3JtYXQoKQogICAgICAgIH0pCiAgICAKICAgIGlmIGRhdGE6CiAgICAgICAgZGYgPSBwZC5EYXRhRnJhbWUoZGF0YSkKICAgICAgICBmaWxlX3BhdGggPSBBTkFMWVRJQ1NfRElSIC8gJ2Nsb25lcycgLyAnY2xvbmVzLmNzdicKICAgICAgICAKICAgICAgICAjIEFwcGVuZCB0byBleGlzdGluZyBkYXRhIGlmIGZpbGUgZXhpc3RzCiAgICAgICAgaWYgZmlsZV9wYXRoLmV4aXN0cygpOgogICAgICAgICAgICBleGlzdGluZ19kZiA9IHBkLnJlYWRfY3N2KGZpbGVfcGF0aCkKICAgICAgICAgICAgZGYgPSBwZC5jb25jYXQoW2V4aXN0aW5nX2RmLCBkZl0pLmRyb3BfZHVwbGljYXRlcyhzdWJzZXQ9WydkYXRlJ10sIGtlZXA9J2xhc3QnKQogICAgICAgIAogICAgICAgIGRmLnRvX2NzdihmaWxlX3BhdGgsIGluZGV4PUZhbHNlKQogICAgICAgIHByaW50KGYi4pyTIFNhdmVkIHtsZW4oZGF0YSl9IGNsb25lIHJlY29yZHMiKQogICAgICAgIHJldHVybiBkYXRhCiAgICByZXR1cm4gW10KCmRlZiBjb2xsZWN0X3BvcHVsYXJfY29udGVudChyZXBvKToKICAgICIiIkNvbGxlY3QgcG9wdWxhciBjb250ZW50IChtb3N0IHZpZXdlZCBwYXRocykuIiIiCiAgICBwcmludCgiQ29sbGVjdGluZyBwb3B1bGFyIGNvbnRlbnQuLi4iKQogICAgcGF0aHMgPSByZXBvLmdldF90b3BfcGF0aHMoKQogICAgCiAgICBpZiBwYXRoczoKICAgICAgICBkYXRhID0gW10KICAgICAgICBmb3IgcGF0aCBpbiBwYXRoczoKICAgICAgICAgICAgZGF0YS5hcHBlbmQoewogICAgICAgICAgICAgICAgJ3BhdGgnOiBwYXRoLnBhdGgsCiAgICAgICAgICAgICAgICAndGl0bGUnOiBwYXRoLnRpdGxlLAogICAgICAgICAgICAgICAgJ2NvdW50JzogcGF0aC5jb3VudCwKICAgICAgICAgICAgICAgICd1bmlxdWVzJzogcGF0aC51bmlxdWVzLAogICAgICAgICAgICAgICAgJ2RhdGUnOiBkYXRldGltZS5ub3codGltZXpvbmUudXRjKS5zdHJmdGltZSgnJVktJW0tJWQnKQogICAgICAgICAgICB9KQogICAgICAgIAogICAgICAgIGRmID0gcGQuRGF0YUZyYW1lKGRhdGEpCiAgICAgICAgZmlsZV9wYXRoID0gQU5BTFlUSUNTX0RJUiAvICdjb250ZW50JyAvIGYncG9wdWxhcl97ZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0Yykuc3RyZnRpbWUoIiVZJW0iKX0uY3N2JwogICAgICAgIAogICAgICAgICMgQXBwZW5kIHRvIG1vbnRobHkgZmlsZQogICAgICAgIGlmIGZpbGVfcGF0aC5leGlzdHMoKToKICAgICAgICAgICAgZXhpc3RpbmdfZGYgPSBwZC5yZWFkX2NzdihmaWxlX3BhdGgpCiAgICAgICAgICAgIGRmID0gcGQuY29uY2F0KFtleGlzdGluZ19kZiwgZGZdKQogICAgICAgIAogICAgICAgIGRmLnRvX2NzdihmaWxlX3BhdGgsIGluZGV4PUZhbHNlKQogICAgICAgIHByaW50KGYi4pyTIFNhdmVkIHtsZW4oZGF0YSl9IHBvcHVsYXIgY29udGVudCByZWNvcmRzIikKICAgICAgICByZXR1cm4gZGF0YQogICAgcmV0dXJuIFtdCgpkZWYgY29sbGVjdF9yZWZlcnJlcnMocmVwbyk6CiAgICAiIiJDb2xsZWN0IHJlZmVycmluZyBzaXRlcy4iIiIKICAgIHByaW50KCJDb2xsZWN0aW5nIHJlZmVycmVycy4uLiIpCiAgICByZWZlcnJlcnMgPSByZXBvLmdldF90b3BfcmVmZXJyZXJzKCkKICAgIAogICAgaWYgcmVmZXJyZXJzOgogICAgICAgIGRhdGEgPSBbXQogICAgICAgIGZvciByZWZlcnJlciBpbiByZWZlcnJlcnM6CiAgICAgICAgICAgIGRhdGEuYXBwZW5kKHsKICAgICAgICAgICAgICAgICdyZWZlcnJlcic6IHJlZmVycmVyLnJlZmVycmVyLAogICAgICAgICAgICAgICAgJ2NvdW50JzogcmVmZXJyZXIuY291bnQsCiAgICAgICAgICAgICAgICAndW5pcXVlcyc6IHJlZmVycmVyLnVuaXF1ZXMsCiAgICAgICAgICAgICAgICAnZGF0ZSc6IGRhdGV0aW1lLm5vdyh0aW1lem9uZS51dGMpLnN0cmZ0aW1lKCclWS0lbS0lZCcpCiAgICAgICAgICAgIH0pCiAgICAgICAgCiAgICAgICAgZGYgPSBwZC5EYXRhRnJhbWUoZGF0YSkKICAgICAgICBmaWxlX3BhdGggPSBBTkFMWVRJQ1NfRElSIC8gJ3JlZmVycmVycycgLyBmJ3JlZmVycmVyc197ZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0Yykuc3RyZnRpbWUoIiVZJW0iKX0uY3N2JwogICAgICAgIAogICAgICAgICMgQXBwZW5kIHRvIG1vbnRobHkgZmlsZQogICAgICAgIGlmIGZpbGVfcGF0aC5leGlzdHMoKToKICAgICAgICAgICAgZXhpc3RpbmdfZGYgPSBwZC5yZWFkX2NzdihmaWxlX3BhdGgpCiAgICAgICAgICAgIGRmID0gcGQuY29uY2F0KFtleGlzdGluZ19kZiwgZGZdKQogICAgICAgIAogICAgICAgIGRmLnRvX2NzdihmaWxlX3BhdGgsIGluZGV4PUZhbHNlKQogICAgICAgIHByaW50KGYi4pyTIFNhdmVkIHtsZW4oZGF0YSl9IHJlZmVycmVyIHJlY29yZHMiKQogICAgICAgIHJldHVybiBkYXRhCiAgICByZXR1cm4gW10KCmRlZiBnZW5lcmF0ZV9zdW1tYXJ5X3JlcG9ydCh0cmFmZmljX2RhdGEsIGNsb25lc19kYXRhLCBwb3B1bGFyX2RhdGEsIHJlZmVycmVyc19kYXRhKToKICAgICIiIkdlbmVyYXRlIGEgc3VtbWFyeSByZXBvcnQuIiIiCiAgICByZXBvcnQgPSB7CiAgICAgICAgJ2dlbmVyYXRlZF9hdCc6IGRhdGV0aW1lLm5vdyh0aW1lem9uZS51dGMpLmlzb2Zvcm1hdCgpLAogICAgICAgICdzdW1tYXJ5JzogewogICAgICAgICAgICAndG90YWxfdmlld3MnOiBzdW0oZFsnY291bnQnXSBmb3IgZCBpbiB0cmFmZmljX2RhdGEpIGlmIHRyYWZmaWNfZGF0YSBlbHNlIDAsCiAgICAgICAgICAgICd1bmlxdWVfdmlzaXRvcnMnOiBzdW0oZFsndW5pcXVlcyddIGZvciBkIGluIHRyYWZmaWNfZGF0YSkgaWYgdHJhZmZpY19kYXRhIGVsc2UgMCwKICAgICAgICAgICAgJ3RvdGFsX2Nsb25lcyc6IHN1bShkWydjb3VudCddIGZvciBkIGluIGNsb25lc19kYXRhKSBpZiBjbG9uZXNfZGF0YSBlbHNlIDAsCiAgICAgICAgICAgICd1bmlxdWVfY2xvbmVycyc6IHN1bShkWyd1bmlxdWVzJ10gZm9yIGQgaW4gY2xvbmVzX2RhdGEpIGlmIGNsb25lc19kYXRhIGVsc2UgMCwKICAgICAgICAgICAgJ3BvcHVsYXJfcGF0aHNfY291bnQnOiBsZW4ocG9wdWxhcl9kYXRhKSwKICAgICAgICAgICAgJ3JlZmVycmVyc19jb3VudCc6IGxlbihyZWZlcnJlcnNfZGF0YSkKICAgICAgICB9LAogICAgICAgICd0b3BfY29udGVudCc6IHBvcHVsYXJfZGF0YVs6MTBdIGlmIHBvcHVsYXJfZGF0YSBlbHNlIFtdLAogICAgICAgICd0b3BfcmVmZXJyZXJzJzogcmVmZXJyZXJzX2RhdGFbOjEwXSBpZiByZWZlcnJlcnNfZGF0YSBlbHNlIFtdCiAgICB9CiAgICAKICAgICMgU2F2ZSBKU09OIHJlcG9ydAogICAgcmVwb3J0X3BhdGggPSBBTkFMWVRJQ1NfRElSIC8gJ2xhdGVzdF9zdW1tYXJ5Lmpzb24nCiAgICB3aXRoIG9wZW4ocmVwb3J0X3BhdGgsICd3JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAocmVwb3J0LCBmLCBpbmRlbnQ9MikKICAgIAogICAgcHJpbnQoZiJcbnsnPScqNjB9IikKICAgIHByaW50KCLwn5OKIEFOQUxZVElDUyBTVU1NQVJZIikKICAgIHByaW50KGYieyc9Jyo2MH0iKQogICAgcHJpbnQoZiJUb3RhbCBWaWV3czoge3JlcG9ydFsnc3VtbWFyeSddWyd0b3RhbF92aWV3cyddfSIpCiAgICBwcmludChmIlVuaXF1ZSBWaXNpdG9yczoge3JlcG9ydFsnc3VtbWFyeSddWyd1bmlxdWVfdmlzaXRvcnMnXX0iKQogICAgcHJpbnQoZiJUb3RhbCBDbG9uZXM6IHtyZXBvcnRbJ3N1bW1hcnknXVsndG90YWxfY2xvbmVzJ119IikKICAgIHByaW50KGYiVW5pcXVlIENsb25lcnM6IHtyZXBvcnRbJ3N1bW1hcnknXVsndW5pcXVlX2Nsb25lcnMnXX0iKQogICAgcHJpbnQoZiJ7Jz0nKjYwfVxuIikKICAgIAogICAgcmV0dXJuIHJlcG9ydAoKZGVmIG1haW4oKToKICAgICIiIk1haW4gZXhlY3V0aW9uIGZ1bmN0aW9uLiIiIgogICAgaWYgbm90IEdJVEhVQl9UT0tFTjoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJHSVRIVUJfVE9LRU4gZW52aXJvbm1lbnQgdmFyaWFibGUgaXMgcmVxdWlyZWQiKQogICAgCiAgICBpZiBub3QgUkVQT19PV05FUiBvciBub3QgUkVQT19OQU1FOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIlJFUE9fT1dORVIgYW5kIFJFUE9fTkFNRSBlbnZpcm9ubWVudCB2YXJpYWJsZXMgYXJlIHJlcXVpcmVkIikKICAgIAogICAgcHJpbnQoZiJDb2xsZWN0aW5nIGFuYWx5dGljcyBmb3Ige1JFUE9fT1dORVJ9L3tSRVBPX05BTUV9Li4uIikKICAgIAogICAgIyBTZXR1cAogICAgc2V0dXBfYW5hbHl0aWNzX2RpcmVjdG9yeSgpCiAgICAKICAgICMgQ29ubmVjdCB0byBHaXRIdWIgdXNpbmcgQXV0aC5Ub2tlbgogICAgYXV0aCA9IEF1dGguVG9rZW4oR0lUSFVCX1RPS0VOKQogICAgZyA9IEdpdGh1YihhdXRoPWF1dGgpCiAgICAKICAgIHRyeToKICAgICAgICByZXBvID0gZy5nZXRfcmVwbyhmIntSRVBPX09XTkVSfS97UkVQT19OQU1FfSIpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZiLinYwgRXJyb3IgYWNjZXNzaW5nIHJlcG9zaXRvcnk6IHtlfSIpCiAgICAgICAgcmFpc2UKICAgIAogICAgIyBDb2xsZWN0IGFsbCBkYXRhCiAgICB0cmFmZmljX2RhdGEgPSBjb2xsZWN0X3RyYWZmaWNfZGF0YShyZXBvKQogICAgY2xvbmVzX2RhdGEgPSBjb2xsZWN0X2Nsb25lc19kYXRhKHJlcG8pCiAgICBwb3B1bGFyX2RhdGEgPSBjb2xsZWN0X3BvcHVsYXJfY29udGVudChyZXBvKQogICAgcmVmZXJyZXJzX2RhdGEgPSBjb2xsZWN0X3JlZmVycmVycyhyZXBvKQogICAgCiAgICAjIEdlbmVyYXRlIHN1bW1hcnkKICAgIGdlbmVyYXRlX3N1bW1hcnlfcmVwb3J0KHRyYWZmaWNfZGF0YSwgY2xvbmVzX2RhdGEsIHBvcHVsYXJfZGF0YSwgcmVmZXJyZXJzX2RhdGEpCiAgICAKICAgIHByaW50KCJcbuKchSBBbmFseXRpY3MgY29sbGVjdGlvbiBjb21wbGV0ZSEiKQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""
+Collect GitHub repository analytics and store them for historical tracking.
+
+This script collects:
+- Traffic (views, unique visitors)
+- Clones (count, unique cloners)
+- Popular content (most viewed files)
+- Referring sites
+- Top paths
+
+Data is stored in CSV format in analytics/ directory.
+"""
+
+import os
+import json
+from datetime import datetime, timezone
+from pathlib import Path
+from github import Github, Auth
+import pandas as pd
+
+# Configuration
+REPO_OWNER = os.environ.get('REPO_OWNER')
+REPO_NAME = os.environ.get('REPO_NAME')
+GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
+ANALYTICS_DIR = Path('analytics')
+
+def setup_analytics_directory():
+    """Create analytics directory structure."""
+    ANALYTICS_DIR.mkdir(exist_ok=True)
+    (ANALYTICS_DIR / 'traffic').mkdir(exist_ok=True)
+    (ANALYTICS_DIR / 'clones').mkdir(exist_ok=True)
+    (ANALYTICS_DIR / 'content').mkdir(exist_ok=True)
+    (ANALYTICS_DIR / 'referrers').mkdir(exist_ok=True)
+
+def collect_traffic_data(repo):
+    """Collect traffic (views) data."""
+    print("Collecting traffic data...")
+    try:
+        views_data = repo.get_views_traffic(per="day")
+    except Exception as e:
+        print(f"⚠️  Warning: Cannot access traffic data: {e}")
+        print("   This requires a Personal Access Token with 'repo' scope.")
+        print("   See analytics/README.md for setup instructions.")
+        return []
+    
+    data = []
+    # views_data is a View object with a 'views' attribute containing the list
+    for view in views_data.get('views', []) if isinstance(views_data, dict) else (views_data.views if hasattr(views_data, 'views') else []):
+        data.append({
+            'date': view.timestamp.strftime('%Y-%m-%d'),
+            'count': view.count,
+            'uniques': view.uniques,
+            'collected_at': datetime.now(timezone.utc).isoformat()
+        })
+    
+    if data:
+        df = pd.DataFrame(data)
+        file_path = ANALYTICS_DIR / 'traffic' / 'views.csv'
+        
+        # Append to existing data if file exists
+        if file_path.exists():
+            existing_df = pd.read_csv(file_path)
+            df = pd.concat([existing_df, df]).drop_duplicates(subset=['date'], keep='last')
+        
+        df.to_csv(file_path, index=False)
+        print(f"✓ Saved {len(data)} traffic records")
+        return data
+    return []
+
+def collect_clones_data(repo):
+    """Collect clones data."""
+    print("Collecting clones data...")
+    try:
+        clones_data = repo.get_clones_traffic(per="day")
+    except Exception as e:
+        print(f"⚠️  Warning: Cannot access clones data: {e}")
+        return []
+    
+    data = []
+    # clones_data is a Clones object with a 'clones' attribute containing the list
+    for clone in clones_data.get('clones', []) if isinstance(clones_data, dict) else (clones_data.clones if hasattr(clones_data, 'clones') else []):
+        data.append({
+            'date': clone.timestamp.strftime('%Y-%m-%d'),
+            'count': clone.count,
+            'uniques': clone.uniques,
+            'collected_at': datetime.now(timezone.utc).isoformat()
+        })
+    
+    if data:
+        df = pd.DataFrame(data)
+        file_path = ANALYTICS_DIR / 'clones' / 'clones.csv'
+        
+        # Append to existing data if file exists
+        if file_path.exists():
+            existing_df = pd.read_csv(file_path)
+            df = pd.concat([existing_df, df]).drop_duplicates(subset=['date'], keep='last')
+        
+        df.to_csv(file_path, index=False)
+        print(f"✓ Saved {len(data)} clone records")
+        return data
+    return []
+
+def collect_popular_content(repo):
+    """Collect popular content (most viewed paths)."""
+    print("Collecting popular content...")
+    paths = repo.get_top_paths()
+    
+    if paths:
+        data = []
+        for path in paths:
+            data.append({
+                'path': path.path,
+                'title': path.title,
+                'count': path.count,
+                'uniques': path.uniques,
+                'date': datetime.now(timezone.utc).strftime('%Y-%m-%d')
+            })
+        
+        df = pd.DataFrame(data)
+        file_path = ANALYTICS_DIR / 'content' / f'popular_{datetime.now(timezone.utc).strftime("%Y%m")}.csv'
+        
+        # Append to monthly file
+        if file_path.exists():
+            existing_df = pd.read_csv(file_path)
+            df = pd.concat([existing_df, df])
+        
+        df.to_csv(file_path, index=False)
+        print(f"✓ Saved {len(data)} popular content records")
+        return data
+    return []
+
+def collect_referrers(repo):
+    """Collect referring sites."""
+    print("Collecting referrers...")
+    referrers = repo.get_top_referrers()
+    
+    if referrers:
+        data = []
+        for referrer in referrers:
+            data.append({
+                'referrer': referrer.referrer,
+                'count': referrer.count,
+                'uniques': referrer.uniques,
+                'date': datetime.now(timezone.utc).strftime('%Y-%m-%d')
+            })
+        
+        df = pd.DataFrame(data)
+        file_path = ANALYTICS_DIR / 'referrers' / f'referrers_{datetime.now(timezone.utc).strftime("%Y%m")}.csv'
+        
+        # Append to monthly file
+        if file_path.exists():
+            existing_df = pd.read_csv(file_path)
+            df = pd.concat([existing_df, df])
+        
+        df.to_csv(file_path, index=False)
+        print(f"✓ Saved {len(data)} referrer records")
+        return data
+    return []
+
+def generate_summary_report(traffic_data, clones_data, popular_data, referrers_data):
+    """Generate a summary report."""
+    report = {
+        'generated_at': datetime.now(timezone.utc).isoformat(),
+        'summary': {
+            'total_views': sum(d['count'] for d in traffic_data) if traffic_data else 0,
+            'unique_visitors': sum(d['uniques'] for d in traffic_data) if traffic_data else 0,
+            'total_clones': sum(d['count'] for d in clones_data) if clones_data else 0,
+            'unique_cloners': sum(d['uniques'] for d in clones_data) if clones_data else 0,
+            'popular_paths_count': len(popular_data),
+            'referrers_count': len(referrers_data)
+        },
+        'top_content': popular_data[:10] if popular_data else [],
+        'top_referrers': referrers_data[:10] if referrers_data else []
+    }
+    
+    # Save JSON report
+    report_path = ANALYTICS_DIR / 'latest_summary.json'
+    with open(report_path, 'w') as f:
+        json.dump(report, f, indent=2)
+    
+    print(f"\n{'='*60}")
+    print("📊 ANALYTICS SUMMARY")
+    print(f"{'='*60}")
+    print(f"Total Views: {report['summary']['total_views']}")
+    print(f"Unique Visitors: {report['summary']['unique_visitors']}")
+    print(f"Total Clones: {report['summary']['total_clones']}")
+    print(f"Unique Cloners: {report['summary']['unique_cloners']}")
+    print(f"{'='*60}\n")
+    
+    return report
+
+def main():
+    """Main execution function."""
+    if not GITHUB_TOKEN:
+        raise ValueError("GITHUB_TOKEN environment variable is required")
+    
+    if not REPO_OWNER or not REPO_NAME:
+        raise ValueError("REPO_OWNER and REPO_NAME environment variables are required")
+    
+    print(f"Collecting analytics for {REPO_OWNER}/{REPO_NAME}...")
+    
+    # Setup
+    setup_analytics_directory()
+    
+    # Connect to GitHub using Auth.Token
+    auth = Auth.Token(GITHUB_TOKEN)
+    g = Github(auth=auth)
+    
+    try:
+        repo = g.get_repo(f"{REPO_OWNER}/{REPO_NAME}")
+    except Exception as e:
+        print(f"❌ Error accessing repository: {e}")
+        raise
+    
+    # Collect all data
+    traffic_data = collect_traffic_data(repo)
+    clones_data = collect_clones_data(repo)
+    popular_data = collect_popular_content(repo)
+    referrers_data = collect_referrers(repo)
+    
+    # Generate summary
+    generate_summary_report(traffic_data, clones_data, popular_data, referrers_data)
+    
+    print("\n✅ Analytics collection complete!")
+
+if __name__ == '__main__':
+    main()

@@ -1,1 +1,208 @@
-IiIiCkZyYW1lIGNhcHR1cmUgdXRpbGl0aWVzIGZvciBNaW51cy4KClByb3ZpZGVzIGNhcHR1cmUgZnJvbSB1c3RyZWFtZXIncyBIVFRQIHNuYXBzaG90IGVuZHBvaW50LgoKTmV0d29yayByZXNpbGllbmNlOgotIFVzZXMgcGVyc2lzdGVudCBIVFRQIHNlc3Npb24gd2l0aCBjb25uZWN0aW9uIHBvb2xpbmcKLSBHcmFjZWZ1bCBoYW5kbGluZyBvZiBjb25uZWN0aW9uIGZhaWx1cmVzCi0gUmF0ZSBsaW1pdGluZyB0byBwcmV2ZW50IEhUVFAgY29udGVudGlvbgoiIiIKCmltcG9ydCBsb2dnaW5nCmltcG9ydCBvcwppbXBvcnQgcmFuZG9tCmltcG9ydCBzb2NrZXQKaW1wb3J0IHRocmVhZGluZwppbXBvcnQgdGltZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmltcG9ydCBjdjIKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCByZXF1ZXN0cwpmcm9tIHJlcXVlc3RzLmFkYXB0ZXJzIGltcG9ydCBIVFRQQWRhcHRlcgpmcm9tIHVybGxpYjMudXRpbC5yZXRyeSBpbXBvcnQgUmV0cnkKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKCmRlZiBlbnN1cmVfbG9jYWxob3N0X2F2YWlsYWJsZSgpIC0+IGJvb2w6CiAgICAiIiIKICAgIEVuc3VyZSBsb2NhbGhvc3QgKDEyNy4wLjAuMSkgaXMgcmVhY2hhYmxlLgoKICAgIFRoaXMgc2hvdWxkIGFsd2F5cyBiZSB0cnVlLCBidXQgY2FuIGZhaWwgaW4gZWRnZSBjYXNlcyBkdXJpbmcgYm9vdAogICAgb3IgbmV0d29yayByZWNvbmZpZ3VyYXRpb24uCgogICAgUmV0dXJuczoKICAgICAgICBUcnVlIGlmIGxvY2FsaG9zdCBpcyByZWFjaGFibGUsIEZhbHNlIG90aGVyd2lzZQogICAgIiIiCiAgICB0cnk6CiAgICAgICAgc29jayA9IHNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsIHNvY2tldC5TT0NLX1NUUkVBTSkKICAgICAgICBzb2NrLnNldHRpbWVvdXQoMC41KQogICAgICAgIHJlc3VsdCA9IHNvY2suY29ubmVjdF9leCgoJzEyNy4wLjAuMScsIDkwOTApKQogICAgICAgIHNvY2suY2xvc2UoKQogICAgICAgICMgY29ubmVjdF9leCByZXR1cm5zIDAgb24gc3VjY2Vzcywgb3IgZXJyb3IgY29kZQogICAgICAgICMgV2UgZG9uJ3QgY2FyZSBhYm91dCB0aGUgc3BlY2lmaWMgcG9ydCwganVzdCB0aGF0IGxvY2FsaG9zdCB3b3JrcwogICAgICAgICMgRXZlbiBjb25uZWN0aW9uIHJlZnVzZWQgKDExMSkgbWVhbnMgbG9jYWxob3N0IGlzIHdvcmtpbmcKICAgICAgICByZXR1cm4gcmVzdWx0IGluICgwLCAxMTEpICAjIDAgPSBjb25uZWN0ZWQsIDExMSA9IGNvbm5lY3Rpb24gcmVmdXNlZCAocG9ydCBub3Qgb3BlbikKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuIEZhbHNlCgojIEdsb2JhbCByYXRlIGxpbWl0ZXIgdG8gcHJldmVudCBIVFRQIGNvbnRlbnRpb24gd2hlbiBtdWx0aXBsZSB3b3JrZXJzCiMgKE9DUiArIFZMTSkgYXJlIHJlcXVlc3Rpbmcgc25hcHNob3RzIHNpbXVsdGFuZW91c2x5Cl9jYXB0dXJlX2xvY2sgPSB0aHJlYWRpbmcuTG9jaygpCl9sYXN0X2NhcHR1cmVfdGltZSA9IDAuMAojIE5PVEU6IHRoaXMgbGltaXRlciBpcyBHTE9CQUwg4oCUIHRoZSBPQ1IgbG9vcCBhbmQgdGhlIFZMTSBsb29wIHNoYXJlIGl0IOKAlCBzbwojIGVhY2ggbG9vcCdzIGVmZmVjdGl2ZSBjYWRlbmNlIGlzIHJvdWdobHkgMnggdGhlIGludGVydmFsIGJlbG93LgpfTUlOX0NBUFRVUkVfSU5URVJWQUwgPSBmbG9hdChvcy5lbnZpcm9uLmdldCgnTUlOVVNfQ0FQVFVSRV9NSU5fSU5URVJWQUwnLCAnMC41JykpCiMgRHVyaW5nIGEgYmxvY2sgdGhlIGludGVydmFsIHVzZWQgdG8gYmUgUkFJU0VEIHRvIDEuMHMsIG9uIHRoZSByZWFzb25pbmcgdGhhdAojIHRoZSBNUFAgZW5jb2RlciBpcyBidXN5IGNvbXBvc2l0aW5nIHRoZSBvdmVybGF5IGFuZCAiZ2xpdGNoZXMgZHVyaW5nIGJsb2NraW5nCiMgYXJlIE9LIi4gVGhhdCBpcyB0cnVlIG9mIHRoZSBwaWN0dXJlIOKAlCB0aGUgb3ZlcmxheSBjb3ZlcnMgaXQg4oCUIGJ1dCBpdCBhbHNvCiMgdGhyb3R0bGVkIHRoZSBvbmx5IHNpZ25hbCB0aGF0IGNhbiB0ZWxsIHVzIHRoZSBhZCBFTkRFRC4gTWVhc3VyZWQgb3ZlciAzNmggb2YKIyBwcm9kdWN0aW9uOiBjYXB0dXJlIHA1MCA0ODhtcyBpZGxlIHZzIDE0ODdtcyBkdXJpbmcgYSBibG9jaywgc28gZGV0ZWN0aW9uCiMgY2FkZW5jZSB3ZW50IDEuMHMgLT4gMi4wcyBhbmQgdGhlIDMtZnJhbWUgT0NSIHN0b3AgdG9vayB+NnMuIFJlY292ZXJ5IGNhbWUgaW4KIyBhdCBwNTAgNS4wcyAvIHA5MCA4LjBzLCBpLmUuIHNlY29uZHMgb2YgcmVhbCBzaG93IG1pc3NlZCBhZnRlciBldmVyeSBicmVhay4KIyBCbG9ja2luZyBpcyB3aGVuIHdlIG5lZWQgZnJhbWVzIE1PU1QsIHNvIHRoZSBpbnRlcnZhbCBub3cgbWF0Y2hlcyBpZGxlLgojIE9DUl9TVE9QX1RIUkVTSE9MRCBzdGF5cyBhdCAzICh0dW5lZCBhZ2FpbnN0IHRoZSBtZWFzdXJlZCBPQ1IgbWlzcwojIGRpc3RyaWJ1dGlvbik7IHRoaXMgYnV5cyB0aGUgbGF0ZW5jeSBiYWNrIGZyb20gY2FkZW5jZSBpbnN0ZWFkIG9mIGJ5CiMgd2Vha2VuaW5nIHRoZSBmbGFwIHJlc2lzdGFuY2UuCl9NSU5fQ0FQVFVSRV9JTlRFUlZBTF9CTE9DS0lORyA9IGZsb2F0KAogICAgb3MuZW52aXJvbi5nZXQoJ01JTlVTX0NBUFRVUkVfTUlOX0lOVEVSVkFMX0JMT0NLSU5HJywgJzAuNScpKQoKIyBCbG9ja2luZyBzdGF0ZSBjYWNoZSB0byBhdm9pZCByZXBlYXRlZCBBUEkgY2FsbHMKX2Jsb2NraW5nX3N0YXRlX2NhY2hlID0geydlbmFibGVkJzogRmFsc2UsICdsYXN0X2NoZWNrJzogMC4wfQpfQkxPQ0tJTkdfQ0hFQ0tfSU5URVJWQUwgPSAxLjAgICMgQ2hlY2sgYmxvY2tpbmcgc3RhdGUgZXZlcnkgMSBzZWNvbmQgKGdsaXRjaGVzIGR1cmluZyBibG9ja2luZyBhcmUgT0spCgojIFRyYW5zaXRpb24gZGVsYXkgcmVtb3ZlZCAtIGRpZG4ndCBoZWxwIHJlZHVjZSBnbGl0Y2hlcwoKIyBQZXJzaXN0ZW50IEhUVFAgc2Vzc2lvbiB3aXRoIGNvbm5lY3Rpb24gcG9vbGluZwpfaHR0cF9zZXNzaW9uID0gTm9uZQpfc2Vzc2lvbl9sb2NrID0gdGhyZWFkaW5nLkxvY2soKQoKZGVmIF9nZXRfaHR0cF9zZXNzaW9uKCk6CiAgICAiIiJHZXQgb3IgY3JlYXRlIGEgcGVyc2lzdGVudCBIVFRQIHNlc3Npb24gd2l0aCBjb25uZWN0aW9uIHBvb2xpbmcuIiIiCiAgICBnbG9iYWwgX2h0dHBfc2Vzc2lvbgogICAgd2l0aCBfc2Vzc2lvbl9sb2NrOgogICAgICAgIGlmIF9odHRwX3Nlc3Npb24gaXMgTm9uZToKICAgICAgICAgICAgX2h0dHBfc2Vzc2lvbiA9IHJlcXVlc3RzLlNlc3Npb24oKQogICAgICAgICAgICAjIENvbmZpZ3VyZSByZXRyeSBzdHJhdGVneQogICAgICAgICAgICByZXRyeSA9IFJldHJ5KHRvdGFsPTIsIGJhY2tvZmZfZmFjdG9yPTAuMSkKICAgICAgICAgICAgYWRhcHRlciA9IEhUVFBBZGFwdGVyKG1heF9yZXRyaWVzPXJldHJ5LCBwb29sX2Nvbm5lY3Rpb25zPTEsIHBvb2xfbWF4c2l6ZT0yKQogICAgICAgICAgICBfaHR0cF9zZXNzaW9uLm1vdW50KCdodHRwOi8vJywgYWRhcHRlcikKICAgICAgICByZXR1cm4gX2h0dHBfc2Vzc2lvbgoKCmRlZiBfaXNfYmxvY2tpbmdfYWN0aXZlKHBvcnQ9OTA5MCk6CiAgICAiIiJDaGVjayBpZiB1c3RyZWFtZXIgYmxvY2tpbmcgbW9kZSBpcyBhY3RpdmUgKHdpdGggY2FjaGluZykuCgogICAgUmV0dXJucyBUcnVlIGlmIGJsb2NraW5nIG92ZXJsYXkgaXMgY3VycmVudGx5IGJlaW5nIHJlbmRlcmVkLAogICAgd2hpY2ggbWVhbnMgdGhlIE1QUCBlbmNvZGVyIGlzIGJ1c3kgYW5kIHdlIHNob3VsZCBzbG93IGRvd24gY2FwdHVyZXMuCgogICAgVXNlcyBmaWxlLWJhc2VkIHN0YXRlIGluIC9kZXYvc2htIGZvciB6ZXJvLW92ZXJoZWFkIGNoZWNrcyAoSHlwb3RoZXNpcyAzKS4KICAgIEZhbGxzIGJhY2sgdG8gSFRUUCBpZiBmaWxlIGRvZXNuJ3QgZXhpc3QuCiAgICAiIiIKICAgIGdsb2JhbCBfYmxvY2tpbmdfc3RhdGVfY2FjaGUKCiAgICBub3cgPSB0aW1lLnRpbWUoKQogICAgaWYgbm93IC0gX2Jsb2NraW5nX3N0YXRlX2NhY2hlWydsYXN0X2NoZWNrJ10gPCBfQkxPQ0tJTkdfQ0hFQ0tfSU5URVJWQUw6CiAgICAgICAgcmV0dXJuIF9ibG9ja2luZ19zdGF0ZV9jYWNoZVsnZW5hYmxlZCddCgogICAgIyBUcnkgZmlsZS1iYXNlZCBjaGVjayBmaXJzdCAod3JpdHRlbiBieSBhZF9ibG9ja2VyLnB5KQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbignL2Rldi9zaG0vbWludXNfYmxvY2tpbmdfc3RhdGUnLCAncicpIGFzIGY6CiAgICAgICAgICAgIGVuYWJsZWQgPSBmLnJlYWQoKS5zdHJpcCgpID09ICcxJwogICAgICAgICAgICBfYmxvY2tpbmdfc3RhdGVfY2FjaGUgPSB7J2VuYWJsZWQnOiBlbmFibGVkLCAnbGFzdF9jaGVjayc6IG5vd30KICAgICAgICAgICAgcmV0dXJuIGVuYWJsZWQKICAgIGV4Y2VwdCBGaWxlTm90Rm91bmRFcnJvcjoKICAgICAgICBwYXNzICAjIEZhbGwgYmFjayB0byBIVFRQCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHBhc3MKCiAgICAjIEZhbGwgYmFjayB0byBIVFRQIChzbG93ZXIpCiAgICB0cnk6CiAgICAgICAgc2Vzc2lvbiA9IF9nZXRfaHR0cF9zZXNzaW9uKCkKICAgICAgICByZXNwb25zZSA9IHNlc3Npb24uZ2V0KGYnaHR0cDovL2xvY2FsaG9zdDp7cG9ydH0vYmxvY2tpbmcnLCB0aW1lb3V0PTAuNSkKICAgICAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDA6CiAgICAgICAgICAgIGRhdGEgPSByZXNwb25zZS5qc29uKCkKICAgICAgICAgICAgZW5hYmxlZCA9IGRhdGEuZ2V0KCdyZXN1bHQnLCB7fSkuZ2V0KCdlbmFibGVkJywgRmFsc2UpCiAgICAgICAgICAgIF9ibG9ja2luZ19zdGF0ZV9jYWNoZSA9IHsnZW5hYmxlZCc6IGVuYWJsZWQsICdsYXN0X2NoZWNrJzogbm93fQogICAgICAgICAgICByZXR1cm4gZW5hYmxlZAogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCgogICAgcmV0dXJuIF9ibG9ja2luZ19zdGF0ZV9jYWNoZVsnZW5hYmxlZCddCgoKY2xhc3MgVXN0cmVhbWVyQ2FwdHVyZToKICAgICIiIkZyYW1lIGNhcHR1cmUgdXNpbmcgdXN0cmVhbWVyJ3MgSFRUUCBzbmFwc2hvdCBlbmRwb2ludC4KCiAgICBVc2VzIC9zbmFwc2hvdC9yYXcgd2hpY2g6CiAgICAtIFJldHVybnMgcmF3IHZpZGVvIHdoZW4gYmxvY2tpbmcgaXMgYWN0aXZlIChmb3IgT0NSIHRvIHNlZSBhZCBjb250ZW50KQogICAgLSBSZWRpcmVjdHMgdG8gL3NuYXBzaG90IHdoZW4gbm90IGJsb2NraW5nIChub3JtYWwgb3BlcmF0aW9uKQogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBvcnQ9OTA5MCk6CiAgICAgICAgc2VsZi5wb3J0ID0gcG9ydAogICAgICAgICMgVXNlIC9zbmFwc2hvdC9yYXcgdG8gYWx3YXlzIGdldCByYXcgdmlkZW8sIGV2ZW4gZHVyaW5nIGJsb2NraW5nCiAgICAgICAgIyBUaGlzIGlzIGNyaXRpY2FsIGZvciBPQ1IgdG8gZGV0ZWN0IHdoZW4gYWRzIGVuZAogICAgICAgIHNlbGYuc25hcHNob3RfdXJsID0gZidodHRwOi8vbG9jYWxob3N0Ontwb3J0fS9zbmFwc2hvdC9yYXcnCiAgICAgICAgIyBVc2UgUElELWJhc2VkIGZpbGVuYW1lIHRvIGF2b2lkIGNvbmZsaWN0cyB3aXRoIHJvb3Qtb3duZWQgc3RhbGUgZmlsZXMKICAgICAgICBzZWxmLnNjcmVlbnNob3RfcGF0aCA9IGYnL2Rldi9zaG0vbWludXNfZnJhbWVfe29zLmdldHBpZCgpfS5qcGcnCgogICAgZGVmIGNsZWFudXAoc2VsZik6CiAgICAgICAgIiIiUmVtb3ZlIHRoZSB0ZW1wb3Jhcnkgc2NyZWVuc2hvdCBmaWxlLiIiIgogICAgICAgIHRyeToKICAgICAgICAgICAgUGF0aChzZWxmLnNjcmVlbnNob3RfcGF0aCkudW5saW5rKG1pc3Npbmdfb2s9VHJ1ZSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBwYXNzCgogICAgZGVmIGNhcHR1cmUoc2VsZik6CiAgICAgICAgIiIiQ2FwdHVyZSBmcmFtZSB2aWEgSFRUUCBzbmFwc2hvdCBhbmQgcmV0dXJuIGFzIG51bXB5IGFycmF5LgoKICAgICAgICBVc2VzIGR5bmFtaWMgcmF0ZSBsaW1pdGluZyBiYXNlZCBvbiBibG9ja2luZyBzdGF0ZToKICAgICAgICAtIER1cmluZyBub3JtYWwgb3BlcmF0aW9uOiA1MDBtcyBtaW5pbXVtIGJldHdlZW4gY2FwdHVyZXMKICAgICAgICAtIER1cmluZyBibG9ja2luZzogMXMgbWluaW11bSAoTVBQIGVuY29kZXIgYnVzeSB3aXRoIG92ZXJsYXlzKQoKICAgICAgICBVc2VzIHBlcnNpc3RlbnQgSFRUUCBzZXNzaW9uIHdpdGggY29ubmVjdGlvbiBwb29saW5nIHRvIGF2b2lkCiAgICAgICAgc3VicHJvY2VzcyBvdmVyaGVhZCBmcm9tIGN1cmwuCiAgICAgICAgIiIiCiAgICAgICAgZ2xvYmFsIF9sYXN0X2NhcHR1cmVfdGltZQoKICAgICAgICB0cnk6CiAgICAgICAgICAgICMgRHluYW1pYyByYXRlIGxpbWl0IGJhc2VkIG9uIGJsb2NraW5nIHN0YXRlCiAgICAgICAgICAgICMgV2hlbiBibG9ja2luZyBpcyBhY3RpdmUsIE1QUCBlbmNvZGVyIGlzIGJ1c3kgcmVuZGVyaW5nIG92ZXJsYXlzCiAgICAgICAgICAgICMgc28gd2Ugc2xvdyBkb3duIGNhcHR1cmUgcmVxdWVzdHMgdG8gcHJldmVudCBnbGl0Y2hlcwogICAgICAgICAgICBpc19ibG9ja2luZyA9IF9pc19ibG9ja2luZ19hY3RpdmUoc2VsZi5wb3J0KQogICAgICAgICAgICBtaW5faW50ZXJ2YWwgPSBfTUlOX0NBUFRVUkVfSU5URVJWQUxfQkxPQ0tJTkcgaWYgaXNfYmxvY2tpbmcgZWxzZSBfTUlOX0NBUFRVUkVfSU5URVJWQUwKCiAgICAgICAgICAgICMgUmF0ZSBsaW1pdDogZW5zdXJlIG1pbmltdW0gZ2FwIGJldHdlZW4gSFRUUCByZXF1ZXN0cwogICAgICAgICAgICAjIElNUE9SVEFOVDogT25seSBob2xkIGxvY2sgYnJpZWZseSBmb3IgdGltaW5nIGNoZWNrLCBOT1QgZHVyaW5nIEhUVFAgcmVxdWVzdAogICAgICAgICAgICAjIE90aGVyd2lzZSBhIHNsb3cvc3R1Y2sgSFRUUCByZXF1ZXN0IGJsb2NrcyBhbGwgd29ya2VycwogICAgICAgICAgICB3aXRoIF9jYXB0dXJlX2xvY2s6CiAgICAgICAgICAgICAgICBub3cgPSB0aW1lLnRpbWUoKQogICAgICAgICAgICAgICAgZWxhcHNlZCA9IG5vdyAtIF9sYXN0X2NhcHR1cmVfdGltZQogICAgICAgICAgICAgICAgaWYgZWxhcHNlZCA8IG1pbl9pbnRlcnZhbDoKICAgICAgICAgICAgICAgICAgICB3YWl0X3RpbWUgPSBtaW5faW50ZXJ2YWwgLSBlbGFwc2VkCiAgICAgICAgICAgICAgICAgICAgdGltZS5zbGVlcCh3YWl0X3RpbWUpCiAgICAgICAgICAgICAgICBfbGFzdF9jYXB0dXJlX3RpbWUgPSB0aW1lLnRpbWUoKSAgIyBNYXJrIHRpbWUgQkVGT1JFIHJlcXVlc3QKCiAgICAgICAgICAgICMgSFRUUCByZXF1ZXN0IE9VVFNJREUgdGhlIGxvY2sgLSBwcmV2ZW50cyBjYXNjYWRlIGZhaWx1cmUgaWYgdXN0cmVhbWVyIGlzIHNsb3cKICAgICAgICAgICAgc2Vzc2lvbiA9IF9nZXRfaHR0cF9zZXNzaW9uKCkKICAgICAgICAgICAgcmVzcG9uc2UgPSBzZXNzaW9uLmdldChzZWxmLnNuYXBzaG90X3VybCwgdGltZW91dD0yLCBhbGxvd19yZWRpcmVjdHM9VHJ1ZSkKCiAgICAgICAgICAgIGlmIHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMDoKICAgICAgICAgICAgICAgICMgRGVjb2RlIEpQRUcgZGlyZWN0bHkgZnJvbSBtZW1vcnkgKG5vIGRpc2sgSS9PKQogICAgICAgICAgICAgICAgaW1nX2FycmF5ID0gbnAuZnJvbWJ1ZmZlcihyZXNwb25zZS5jb250ZW50LCBkdHlwZT1ucC51aW50OCkKICAgICAgICAgICAgICAgIGltZyA9IGN2Mi5pbWRlY29kZShpbWdfYXJyYXksIGN2Mi5JTVJFQURfQ09MT1IpCiAgICAgICAgICAgICAgICBpZiBpbWcgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgIyBTY2FsZSB0byA5NjB4NTQwIGZvciBPQ1IgLSBtb2RlbCB1c2VzIDk2MHg5NjAgYW55d2F5CiAgICAgICAgICAgICAgICAgICAgIyBVc2luZyBJTlRFUl9BUkVBIGZvciBiZXN0IHF1YWxpdHkgZG93bnNjYWxpbmcsIGZhc3Qgb24gNEstPjU0MHAKICAgICAgICAgICAgICAgICAgICBoLCB3ID0gaW1nLnNoYXBlWzoyXQogICAgICAgICAgICAgICAgICAgIGlmIGggPiA1NDAgb3IgdyA+IDk2MDoKICAgICAgICAgICAgICAgICAgICAgICAgaW1nID0gY3YyLnJlc2l6ZShpbWcsICg5NjAsIDU0MCksIGludGVycG9sYXRpb249Y3YyLklOVEVSX0FSRUEpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGltZwoKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihmIlNuYXBzaG90IGNhcHR1cmUgZXJyb3I6IHtlfSIpCiAgICAgICAgICAgIHJldHVybiBOb25lCg==
+"""
+Frame capture utilities for Minus.
+
+Provides capture from ustreamer's HTTP snapshot endpoint.
+
+Network resilience:
+- Uses persistent HTTP session with connection pooling
+- Graceful handling of connection failures
+- Rate limiting to prevent HTTP contention
+"""
+
+import logging
+import os
+import random
+import socket
+import threading
+import time
+from pathlib import Path
+
+import cv2
+import numpy as np
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+logger = logging.getLogger(__name__)
+
+
+def ensure_localhost_available() -> bool:
+    """
+    Ensure localhost (127.0.0.1) is reachable.
+
+    This should always be true, but can fail in edge cases during boot
+    or network reconfiguration.
+
+    Returns:
+        True if localhost is reachable, False otherwise
+    """
+    try:
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(0.5)
+        result = sock.connect_ex(('127.0.0.1', 9090))
+        sock.close()
+        # connect_ex returns 0 on success, or error code
+        # We don't care about the specific port, just that localhost works
+        # Even connection refused (111) means localhost is working
+        return result in (0, 111)  # 0 = connected, 111 = connection refused (port not open)
+    except Exception:
+        return False
+
+# Global rate limiter to prevent HTTP contention when multiple workers
+# (OCR + VLM) are requesting snapshots simultaneously
+_capture_lock = threading.Lock()
+_last_capture_time = 0.0
+# NOTE: this limiter is GLOBAL — the OCR loop and the VLM loop share it — so
+# each loop's effective cadence is roughly 2x the interval below.
+_MIN_CAPTURE_INTERVAL = float(os.environ.get('MINUS_CAPTURE_MIN_INTERVAL', '0.5'))
+# During a block the interval used to be RAISED to 1.0s, on the reasoning that
+# the MPP encoder is busy compositing the overlay and "glitches during blocking
+# are OK". That is true of the picture — the overlay covers it — but it also
+# throttled the only signal that can tell us the ad ENDED. Measured over 36h of
+# production: capture p50 488ms idle vs 1487ms during a block, so detection
+# cadence went 1.0s -> 2.0s and the 3-frame OCR stop took ~6s. Recovery came in
+# at p50 5.0s / p90 8.0s, i.e. seconds of real show missed after every break.
+# Blocking is when we need frames MOST, so the interval now matches idle.
+# OCR_STOP_THRESHOLD stays at 3 (tuned against the measured OCR miss
+# distribution); this buys the latency back from cadence instead of by
+# weakening the flap resistance.
+_MIN_CAPTURE_INTERVAL_BLOCKING = float(
+    os.environ.get('MINUS_CAPTURE_MIN_INTERVAL_BLOCKING', '0.5'))
+
+# Blocking state cache to avoid repeated API calls
+_blocking_state_cache = {'enabled': False, 'last_check': 0.0}
+_BLOCKING_CHECK_INTERVAL = 1.0  # Check blocking state every 1 second (glitches during blocking are OK)
+
+# Transition delay removed - didn't help reduce glitches
+
+# Persistent HTTP session with connection pooling
+_http_session = None
+_session_lock = threading.Lock()
+
+def _get_http_session():
+    """Get or create a persistent HTTP session with connection pooling."""
+    global _http_session
+    with _session_lock:
+        if _http_session is None:
+            _http_session = requests.Session()
+            # Configure retry strategy
+            retry = Retry(total=2, backoff_factor=0.1)
+            adapter = HTTPAdapter(max_retries=retry, pool_connections=1, pool_maxsize=2)
+            _http_session.mount('http://', adapter)
+        return _http_session
+
+
+def _is_blocking_active(port=9090):
+    """Check if ustreamer blocking mode is active (with caching).
+
+    Returns True if blocking overlay is currently being rendered,
+    which means the MPP encoder is busy and we should slow down captures.
+
+    Uses file-based state in /dev/shm for zero-overhead checks (Hypothesis 3).
+    Falls back to HTTP if file doesn't exist.
+    """
+    global _blocking_state_cache
+
+    now = time.time()
+    if now - _blocking_state_cache['last_check'] < _BLOCKING_CHECK_INTERVAL:
+        return _blocking_state_cache['enabled']
+
+    # Try file-based check first (written by ad_blocker.py)
+    try:
+        with open('/dev/shm/minus_blocking_state', 'r') as f:
+            enabled = f.read().strip() == '1'
+            _blocking_state_cache = {'enabled': enabled, 'last_check': now}
+            return enabled
+    except FileNotFoundError:
+        pass  # Fall back to HTTP
+    except Exception:
+        pass
+
+    # Fall back to HTTP (slower)
+    try:
+        session = _get_http_session()
+        response = session.get(f'http://localhost:{port}/blocking', timeout=0.5)
+        if response.status_code == 200:
+            data = response.json()
+            enabled = data.get('result', {}).get('enabled', False)
+            _blocking_state_cache = {'enabled': enabled, 'last_check': now}
+            return enabled
+    except Exception:
+        pass
+
+    return _blocking_state_cache['enabled']
+
+
+class UstreamerCapture:
+    """Frame capture using ustreamer's HTTP snapshot endpoint.
+
+    Uses /snapshot/raw which:
+    - Returns raw video when blocking is active (for OCR to see ad content)
+    - Redirects to /snapshot when not blocking (normal operation)
+    """
+
+    def __init__(self, port=9090):
+        self.port = port
+        # Use /snapshot/raw to always get raw video, even during blocking
+        # This is critical for OCR to detect when ads end
+        self.snapshot_url = f'http://localhost:{port}/snapshot/raw'
+        # Use PID-based filename to avoid conflicts with root-owned stale files
+        self.screenshot_path = f'/dev/shm/minus_frame_{os.getpid()}.jpg'
+
+    def cleanup(self):
+        """Remove the temporary screenshot file."""
+        try:
+            Path(self.screenshot_path).unlink(missing_ok=True)
+        except Exception:
+            pass
+
+    def capture(self):
+        """Capture frame via HTTP snapshot and return as numpy array.
+
+        Uses dynamic rate limiting based on blocking state:
+        - During normal operation: 500ms minimum between captures
+        - During blocking: 1s minimum (MPP encoder busy with overlays)
+
+        Uses persistent HTTP session with connection pooling to avoid
+        subprocess overhead from curl.
+        """
+        global _last_capture_time
+
+        try:
+            # Dynamic rate limit based on blocking state
+            # When blocking is active, MPP encoder is busy rendering overlays
+            # so we slow down capture requests to prevent glitches
+            is_blocking = _is_blocking_active(self.port)
+            min_interval = _MIN_CAPTURE_INTERVAL_BLOCKING if is_blocking else _MIN_CAPTURE_INTERVAL
+
+            # Rate limit: ensure minimum gap between HTTP requests
+            # IMPORTANT: Only hold lock briefly for timing check, NOT during HTTP request
+            # Otherwise a slow/stuck HTTP request blocks all workers
+            with _capture_lock:
+                now = time.time()
+                elapsed = now - _last_capture_time
+                if elapsed < min_interval:
+                    wait_time = min_interval - elapsed
+                    time.sleep(wait_time)
+                _last_capture_time = time.time()  # Mark time BEFORE request
+
+            # HTTP request OUTSIDE the lock - prevents cascade failure if ustreamer is slow
+            session = _get_http_session()
+            response = session.get(self.snapshot_url, timeout=2, allow_redirects=True)
+
+            if response.status_code == 200:
+                # Decode JPEG directly from memory (no disk I/O)
+                img_array = np.frombuffer(response.content, dtype=np.uint8)
+                img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
+                if img is not None:
+                    # Scale to 960x540 for OCR - model uses 960x960 anyway
+                    # Using INTER_AREA for best quality downscaling, fast on 4K->540p
+                    h, w = img.shape[:2]
+                    if h > 540 or w > 960:
+                        img = cv2.resize(img, (960, 540), interpolation=cv2.INTER_AREA)
+                    return img
+
+            return None
+        except Exception as e:
+            logger.error(f"Snapshot capture error: {e}")
+            return None

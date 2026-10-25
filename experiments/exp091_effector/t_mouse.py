@@ -1,1 +1,39 @@
-aW1wb3J0IG9zLCBzdHJ1Y3QsIHRpbWUsIHRocmVhZGluZywganNvbgpmcm9tIHVpbnB1dF9kZXYgaW1wb3J0ICoKCm5hbWU9J0xTSUxJQ09OLU1PVScKbT1WRGV2KG5hbWUsIGtleXM9WzB4MTEwLDB4MTExLDB4MTEyXSwgcmVscz1bUkVMX1gsUkVMX1ldKSAgIyBCVE5fTEVGVC9SSUdIVC9NSURETEUKbm9kZT1maW5kX2V2ZW50X25vZGUobmFtZSkKcHJpbnQoJ21vdXNlIG5vZGU6Jywgbm9kZSkKZmQ9b3Mub3Blbihub2RlLCBvcy5PX1JET05MWSkKYnVmPVtdOyBzdG9wPVtGYWxzZV0KZGVmIHB1bXAoKToKICAgIHdoaWxlIG5vdCBzdG9wWzBdOgogICAgICAgIHRyeTogZD1vcy5yZWFkKGZkLCBFVl9TSVpFKjMyKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOiBicmVhawogICAgICAgIGZvciBpIGluIHJhbmdlKDAsbGVuKGQpLUVWX1NJWkUrMSwgRVZfU0laRSk6CiAgICAgICAgICAgIHMsdSx0LGMsdj1zdHJ1Y3QudW5wYWNrKEVWX0ZNVCxkW2k6aStFVl9TSVpFXSkKICAgICAgICAgICAgYnVmLmFwcGVuZCgodCxjLHYpKQp0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1wdW1wLGRhZW1vbj1UcnVlKS5zdGFydCgpCnRpbWUuc2xlZXAoMC4yKQoKcGxhbj1bKDEyLC01KSwoNywzKSwoLTksLTE0KSwoMjUsMCksKC0zLDE4KV0KZm9yIGR4LGR5IGluIHBsYW46CiAgICBtLm1vdmUoZHgsZHkpOyB0aW1lLnNsZWVwKDAuMDUpCm0uZW1pdChFVl9LRVksMHgxMTAsMSk7IG0uc3luKCk7IHRpbWUuc2xlZXAoMC4wMikKbS5lbWl0KEVWX0tFWSwweDExMCwwKTsgbS5zeW4oKQp0aW1lLnNsZWVwKDAuNCk7IHN0b3BbMF09VHJ1ZTsgdGltZS5zbGVlcCgwLjIpCm9zLmNsb3NlKGZkKTsgbS5jbG9zZSgpCgpyZWw9WyhjLHYpIGZvciAodCxjLHYpIGluIGJ1ZiBpZiB0PT1FVl9SRUxdCnhzPVt2IGZvciAoYyx2KSBpbiByZWwgaWYgYz09UkVMX1hdCnlzPVt2IGZvciAoYyx2KSBpbiByZWwgaWYgYz09UkVMX1ldCmJ0bj1bKGMsdikgZm9yICh0LGMsdikgaW4gYnVmIGlmIHQ9PUVWX0tFWV0KZXhwX3g9W3BbMF0gZm9yIHAgaW4gcGxhbl07IGV4cF95PVtwWzFdIGZvciBwIGluIHBsYW5dCnByaW50KCd0b3RhbCBldmVudHMgOicsIGxlbihidWYpKQpwcmludCgnUkVMX1ggcmVhZCAgIDonLCB4cywgJyBleHBlY3RlZDonLCBleHBfeCwgJyBNQVRDSDonLCB4cz09ZXhwX3gpCnByaW50KCdSRUxfWSByZWFkICAgOicsIHlzLCAnIGV4cGVjdGVkOicsIGV4cF95LCAnIE1BVENIOicsIHlzPT1leHBfeSkKcHJpbnQoJ0JUTiBldmVudHMgICA6JywgYnRuKQpqc29uLmR1bXAoZGljdChub2RlPW5vZGUsIHhzPXhzLCB5cz15cywgZXhwX3g9ZXhwX3gsIGV4cF95PWV4cF95LAogICAgICAgICAgICAgICBtYXRjaD0oeHM9PWV4cF94IGFuZCB5cz09ZXhwX3kpLCBidG49YnRuKSwKICAgICAgICAgIG9wZW4oJ21vdXNlX3Jlc3VsdC5qc29uJywndycpLCBpbmRlbnQ9MSkK
+import os, struct, time, threading, json
+from uinput_dev import *
+
+name='LSILICON-MOU'
+m=VDev(name, keys=[0x110,0x111,0x112], rels=[REL_X,REL_Y])  # BTN_LEFT/RIGHT/MIDDLE
+node=find_event_node(name)
+print('mouse node:', node)
+fd=os.open(node, os.O_RDONLY)
+buf=[]; stop=[False]
+def pump():
+    while not stop[0]:
+        try: d=os.read(fd, EV_SIZE*32)
+        except OSError: break
+        for i in range(0,len(d)-EV_SIZE+1, EV_SIZE):
+            s,u,t,c,v=struct.unpack(EV_FMT,d[i:i+EV_SIZE])
+            buf.append((t,c,v))
+threading.Thread(target=pump,daemon=True).start()
+time.sleep(0.2)
+
+plan=[(12,-5),(7,3),(-9,-14),(25,0),(-3,18)]
+for dx,dy in plan:
+    m.move(dx,dy); time.sleep(0.05)
+m.emit(EV_KEY,0x110,1); m.syn(); time.sleep(0.02)
+m.emit(EV_KEY,0x110,0); m.syn()
+time.sleep(0.4); stop[0]=True; time.sleep(0.2)
+os.close(fd); m.close()
+
+rel=[(c,v) for (t,c,v) in buf if t==EV_REL]
+xs=[v for (c,v) in rel if c==REL_X]
+ys=[v for (c,v) in rel if c==REL_Y]
+btn=[(c,v) for (t,c,v) in buf if t==EV_KEY]
+exp_x=[p[0] for p in plan]; exp_y=[p[1] for p in plan]
+print('total events :', len(buf))
+print('REL_X read   :', xs, ' expected:', exp_x, ' MATCH:', xs==exp_x)
+print('REL_Y read   :', ys, ' expected:', exp_y, ' MATCH:', ys==exp_y)
+print('BTN events   :', btn)
+json.dump(dict(node=node, xs=xs, ys=ys, exp_x=exp_x, exp_y=exp_y,
+               match=(xs==exp_x and ys==exp_y), btn=btn),
+          open('mouse_result.json','w'), indent=1)

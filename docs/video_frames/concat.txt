@@ -1,1 +1,15 @@
-ZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvc2VxL2YwMC5wbmcnCmR1cmF0aW9uIDUKZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvc2VxL2YwMS5wbmcnCmR1cmF0aW9uIDUKZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvc2VxL2YwMi5wbmcnCmR1cmF0aW9uIDcKZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvc2VxL2YwMy5wbmcnCmR1cmF0aW9uIDcKZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvc2VxL2YwNC5wbmcnCmR1cmF0aW9uIDYKZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvc2VxL2YwNS5wbmcnCmR1cmF0aW9uIDYKZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvc2VxL2YwNi5wbmcnCmR1cmF0aW9uIDYKZmlsZSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZG9jcy92aWRlb19mcmFtZXMvc2VxL2YwNi5wbmcnCg==
+file '/data/workspace/luoshen-o1/docs/video_frames/seq/f00.png'
+duration 5
+file '/data/workspace/luoshen-o1/docs/video_frames/seq/f01.png'
+duration 5
+file '/data/workspace/luoshen-o1/docs/video_frames/seq/f02.png'
+duration 7
+file '/data/workspace/luoshen-o1/docs/video_frames/seq/f03.png'
+duration 7
+file '/data/workspace/luoshen-o1/docs/video_frames/seq/f04.png'
+duration 6
+file '/data/workspace/luoshen-o1/docs/video_frames/seq/f05.png'
+duration 6
+file '/data/workspace/luoshen-o1/docs/video_frames/seq/f06.png'
+duration 6
+file '/data/workspace/luoshen-o1/docs/video_frames/seq/f06.png'

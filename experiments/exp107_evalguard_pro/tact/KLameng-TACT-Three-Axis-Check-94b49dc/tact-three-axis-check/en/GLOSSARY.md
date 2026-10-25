@@ -1,1 +1,139 @@
-IyBUQUNUIOS4iei9tOWdkOagh+WIhuexu+azlSDCtyDkuK3oi7Hlr7nnhafor43ooajvvIhFbmdsaXNoIEdsb3NzYXJ577yJCgo+IOacrOaWh+S7tuaYr+WFqOWMheiLseaWh+WMlueahOe7n+S4gOWfuuWHhuOAgue/u+ivkSBTS0lMTC5tZCAvIFJFQURNRSAvIGNvb3JkaW5hdGVfZGF0YSAvIGNhbGlicmF0aW9uIC8gZG9jcyAvIENPTlRSSUJVVElORyDml7bvvIwqKuaJgOacieS4reaWh+acr+ivreS4gOW+i+Wll+eUqOacrOihqOiLseaWhyoq77yM5L+d6K+B6Leo5paH5Lu25byV55So77yI6YCf5p+l44CB6ZWc5YOP6KGo44CB5YiG5rWB5aOw5piO44CB57u05oqk6K6w5b2V77yJ5LiN5pat6KOC44CCCj4g5Z2Q5qCH56CB77yITDEgLyBNNi04IC8gUDEtOCDnrYnvvInor63oqIDkuK3nq4vvvIzot6jor63oqIDkuI3lj5jvvIzkuI3lnKjnv7vor5HkuYvliJfjgIIKCiMjIDEuIOWdkOagh+S9k+ezuwoKfCDkuK3mlocgfCBFbmdsaXNoIHwg5aSH5rOoIHwKfC0tLXwtLS18LS0tfAp8IOWwgemXreWdkOagh+epuumXtCB8IGNsb3NlZCBjb29yZGluYXRlIHNwYWNlIHwgMjg4IOagvCB8Cnwg5LiJ57u05Z2Q5qCHIC8g5LiJ57u05Z2Q5qCH5a6a5L2NIHwgdGhyZWUtYXhpcyBjb29yZGluYXRlIHwgfAp8IOavjeWdkOagh++8iOacuuWItuaXj++8iSB8IHBhcmVudCBjb29yZGluYXRlIChtZWNoYW5pc20gZmFtaWx5KSB8IE0vUCDovbTkuIrlsYLpl7ggfAp8IOWtkOWdkOagh++8iOWtkOexu+Wei++8iSB8IGNoaWxkIGNvb3JkaW5hdGUgKHN1YnR5cGUpIHwgfAp8IOWdkOagh+eggSB8IGNvb3JkaW5hdGUgY29kZSB8IOWmgiBNNi0477yM5LiN6K+RIHwKfCDokL3noIEgLyDokL3lnZDmoIcgfCBhc3NpZ24gLyBsYW5kIGEgY29vcmRpbmF0ZSB8IHwKfCDlkb3kuK0gLyDliKTlkb3kuK0gfCBoaXQgLyBjb25maXJtZWQgaGl0IHwgfAp8IOmihOa1i+agvCB8IHByZWRpY3Rpb24gc2xvdCB8IOS7hSAxIOS+i+ecn+WunuahiOS+iyB8Cnwg5LiN5Y2gIE0vUCDnoIEgfCBjYXJyaWVzIG5vIE0vUCBjb2RlIHwgfAoKIyMgMi4g5LiJ6L20Cgp8IOS4reaWhyB8IEVuZ2xpc2ggfAp8LS0tfC0tLXwKfCBMIOi9tO+8iOWcqOWTqu+8iSB8IEwtYXhpcyAod2hlcmUpIHwKfCBNIOi9tO+8iOaAjuS5iO+8iSB8IE0tYXhpcyAoaG93KSB8CnwgUCDovbTvvIjnoLTlnY/kuoblk6rkuIDpnaLvvIkgfCBQLWF4aXMgKHdoaWNoIGZhY2V0IGlzIGJyb2tlbikgfAoKKipMIOWxguWQjSoq77yaTDEg5qih5Z6L5YaF6YOoID0gSW50ZXJuYWwgdG8gTW9kZWwgwrcgTDIg6L6T5YWl6L6T5Ye65o6l5Y+jID0gSW5wdXQvT3V0cHV0IEludGVyZmFjZSDCtyBMMyDmjqjnkIbljY/kvZzpk74gPSBSZWFzb25pbmctQ29sbGFib3JhdGlvbiBDaGFpbiDCtyBMNCDns7vnu5/njq/looMgPSBTeXN0ZW0gRW52aXJvbm1lbnQKCioqTSDml4/lkI0qKu+8mgotIE0xIOS/oeaBr+S4jei2syA9IEluc3VmZmljaWVudCBJbmZvcm1hdGlvbgotIE0yIOS/oeaBr+WkseecnyA9IEluZm9ybWF0aW9uIENvcnJ1cHRpb24KLSBNMyDmjqjnkIblpLHmlYggPSBSZWFzb25pbmcgRmFpbHVyZQotIE00IOi+k+WHuuWkseecnyA9IE91dHB1dCBDb3JydXB0aW9uCi0gTTUg55uu5qCH5YGP56e7ID0gR29hbCBEcmlmdAotIE02IOWklumDqOWvueaKlyA9IEV4dGVybmFsIEFkdmVyc2FyaWFsIEFjdGlvbgotIE03IOinhOWImS3ogYzotKMt5p2D6ZmQ5L2T57O75aSx6YWNID0gUnVsZS9Sb2xlL0F1dGhvcml0eSBNaXNtYXRjaAotIE04IOezu+e7n+a2jOeOsCA9IFN5c3RlbSBFbWVyZ2VuY2UKLSBNOSDoh6rlj5HljY/kvZwgPSBTcG9udGFuZW91cyBDb2xsYWJvcmF0aW9uCgoqKlAg5qGj5ZCNKirvvJoKLSBQMSDkuovlrp7lpLHnnJ8gPSBGYWN0dWFsIERpc3RvcnRpb24KLSBQMiDpgLvovpHmlq3oo4IgPSBMb2dpY2FsIEJyZWFrCi0gUDMg5a6M5pW05oCn57y65aSxID0gQ29tcGxldGVuZXNzIExvc3MKLSBQNCDkuIDoh7TmgKfnoLTlnY8gPSBDb25zaXN0ZW5jeSBCcmVha2Rvd24KLSBQNSDlkIjop4TotornlYwgPSBDb21wbGlhbmNlIE92ZXJzdGVwCi0gUDYg55uu5qCH5YGP56a7ID0gR29hbCBEZXZpYXRpb24KLSBQNyDlhazlubPlpLHooaEgPSBGYWlybmVzcyBJbWJhbGFuY2UKLSBQOCDlronlhajlqIHog4EgPSBTYWZldHkgVGhyZWF0CgojIyAzLiDmoLjlv4PmnLrliLYgLyDmiafooYzmtYHnqIsKCnwg5Lit5paHIHwgRW5nbGlzaCB8CnwtLS18LS0tfAp8IOS4ieatpeWMuemFjeazlSB8IFRocmVlLVN0ZXAgTWF0Y2hpbmcgTWV0aG9kIHwKfCDliY3nva7mjpLpmaTpl7ggfCBQcmUtRXhjbHVzaW9uIEdhdGUgfAp8IOi/h+mXuCB8IGdhdGUgZXZhbHVhdGlvbiAocGFzcyB0aHJvdWdoIHRoZSBnYXRlKSB8Cnwg5q+N5Z2Q5qCH6Ze4IC8g5a2Q5Z2Q5qCH6Ze4IHwgcGFyZW50LWNvb3JkaW5hdGUgZ2F0ZSAvIGNoaWxkLWNvb3JkaW5hdGUgZ2F0ZSB8Cnwg56Gs5YiG5rWB5Yik5o2uIHwgaGFyZC1zcGxpdCBjcml0ZXJpb24gfAp8IOS4gOelqOWQpuWGs+e6p+WIpOaNriB8IHZldG8tbGV2ZWwgY3JpdGVyaW9uIHwKfCDplIvliKnliKTmja4gfCBzaGFycCBjcml0ZXJpb24gKGRlY2lzaXZlKSB8Cnwg5Y+N5ZCR57qm5p2fIHwgcmV2ZXJzZSBjb25zdHJhaW50IHwKfCDlj43lkJHplJrngrkgfCByZXZlcnNlIGFuY2hvciAoY291bnRlci1hbmNob3IpIHwKfCDpmLLohZDplJrngrkgfCBhbnRpLW92ZXJmaXR0aW5nIGFuY2hvciB8Cnwg5Y+N6Zeu6aqM6K+BIC8g5Y+N6ZeuIHwgY291bnRlci1jaGVjayB8Cnwg5Y+N6Zeu55WZ55eVIHwgY291bnRlci1jaGVjayB0cmFpbCB8Cnwg5Y+M5oyC77yI5YiX5Ye677yJIHwgZHVhbC1saXN0aW5nIChsaXN0IG9uIGJvdGggYXhlcykgfAp8IOmVnOWDj++8iOWvue+8iSB8IG1pcnJvciAocGFpcikgfAp8IOi3qOi9tOWIhua1geWjsOaYjiB8IGNyb3NzLWF4aXMgc3BsaXQgZGVjbGFyYXRpb24gfAoKIyMgNC4g5o6S6Zmk6Ze45LiO5oqk5qCPCgp8IOS4reaWhyB8IEVuZ2xpc2ggfAp8LS0tfC0tLXwKfCDmsrvnkIbln58gfCBnb3Zlcm5hbmNlIGRvbWFpbiB8Cnwg546v5aKDL+WfuuehgOiuvuaWveaVhemanO+8iOi2iueVjOWjsOaYju+8iSB8IGVudmlyb25tZW50YWwvaW5mcmFzdHJ1Y3R1cmUgZmFpbHVyZSAob3V0LW9mLXNjb3BlKSB8Cnwg6LaK55WM5aOw5piOIHwgb3V0LW9mLXNjb3BlIGRlY2xhcmF0aW9uIHwKfCDor4TmtYvpo47pmankv6Hlj7cgfCBldmFsdWF0aW9uIHJpc2sgc2lnbmFsIHwKfCDpmLLor6/kvKTmiqTmoI8gfCBvdmVyLWV4Y2x1c2lvbiBndWFyZHJhaWwgfAp8IOeWkee9quS7juWuveWFpemXuCB8IGRlZmF1bHQtdG8taW5jbHVzaW9uIHdoZW4gaW4gZG91YnQgfAp8IOS7hSBMIOWxguaPj+i/sCB8IGRlc2NyaWJlIGF0IHRoZSBMIGxheWVyIG9ubHkgfAoKIyMgNS4g57u05oqkIC8g6aqM6K+BCgp8IOS4reaWhyB8IEVuZ2xpc2ggfAp8LS0tfC0tLXwKfCDokL3lupMgfCBmaW5hbGl6ZSAvIGxhbmQgaW50byB0aGUgcGFja2FnZSB8Cnwg5qCh5YeG6ZuGIHwgY2FsaWJyYXRpb24gc2V0IHwKfCDph5HmoIcgZ29sZGVuIHwgZ29sZGVuIChzdGFuZGFyZCkgfAp8IOWbnuW9kuaooeW8jyB8IHJlZ3Jlc3Npb24gbW9kZSB8Cnwg5ZG95Lit546HIHwgaGl0IHJhdGUgKGFncmVlbWVudCB3aXRoIGdvbGRlbikgfAp8IGthcHBhIOajgOmqjCB8IGthcHBhIHRlc3QgKEZsZWlzcyDOuikgfAp8IOWQq+epuueggSAvIOacieeggSB8IHdpdGgtZW1wdHktY29kZSAvIG5vbi1lbXB0eS1jb2RlIHwKfCDmoIfms6jogIUgfCBhbm5vdGF0b3IgfAp8IOemu+e+pCB8IG91dGxpZXIgfAp8IOW5s+WPsOacnyB8IHBsYXRlYXUgfAp8IHJhdGlmeSB8IHJhdGlmeSB8Cnwg5Zue54GMIHwgYmFjay1maWxsIChmZWVkIGJhY2spIHwKfCDovazmraMgfCBncmFkdWF0ZSB0byBmb3JtYWwgc3RhdHVzIHwKfCDmvJTov5vop4TliJkgfCBldm9sdXRpb24gcnVsZSB8Cnwg54mI5pys6ZSBIHwgdmVyc2lvbiBsb2NrIHwKfCDlj5fmjqfmlofku7YgfCBjb250cm9sbGVkIGZpbGVzIHwKfCDnu7TmiqTorrDlvZUgLyBjaGFuZ2Vsb2cgfCBjaGFuZ2Vsb2cgZW50cnkgfAoKIyMgNi4g6Leo5byV55So5Z2Q5qCH5ZCN77yIU0tJTEwubWQg6YCf5p+lL+mVnOWDjy/liIbmtYHlpITlvJXnlKjvvIznv7vor5Hlv4XpobvkuIDoh7TvvIkKCnwg56CBIHwg5Lit5paHIHwgRW5nbGlzaCB8CnwtLS18LS0tfC0tLXwKfCBNMS0zIC8gUDMtNiB8IOeOr+Wig+i/geenu+WksemFjSB8IEVudmlyb25tZW50LVRyYW5zZmVyIE1pc21hdGNoIHwKfCBNMi0zIC8gUDQtNSB8IOiHquaIkeivhOS8sOWkseWHhiB8IFNlbGYtQXNzZXNzbWVudCBNaXNjYWxpYnJhdGlvbiB8CnwgTTItNCB8IOiDveWKm+iZmuaKpSB8IENhcGFiaWxpdHkgT3ZlcmNsYWltaW5nIHwKfCBNMi01IHwg566X5rOV5q2n6KeGIHwgQWxnb3JpdGhtaWMgRGlzY3JpbWluYXRpb24gfAp8IE0zLTEgfCDmjqjlr7zot7Pot4MgfCBJbmZlcmVuY2UgSnVtcCB8CnwgTTQtMiAvIFA4LTMgfCDlh63or4Hms4TpnLIgfCBDcmVkZW50aWFsIExlYWthZ2UgfAp8IE00LTMgLyBQNS02IHwg6KeE57qm6L+d57qmIHwgQ29udHJhY3QgVmlvbGF0aW9uIHwKfCBNNS0yIC8gUDUtNSB8IOS7u+WKoeinhOiMg+S4jemBteWuiCB8IFRhc2stU3BlYyBOb24tQ29tcGxpYW5jZSB8CnwgTTUtNSB8IOebruagh+a8guenu++8iOWlluWKsem7keWuouS4juiHquS4u+WIqeebiu+8iSB8IEdvYWwgRHJpZnQgKFJld2FyZCBIYWNraW5nICYgU2VsZi1JbnRlcmVzdCkgfAp8IE01LTYgfCDor63looPmvILnp7vvvIjpgILnlKjojIPlm7TmvILnp7vvvIkgfCBDb250ZXh0IERyaWZ0IChTY29wZSBEcmlmdCkgfAp8IE01LTggfCDoh6rnlJ/miJDpqbvnlZnmjIfku6QgfCBTZWxmLUdlbmVyYXRlZCBQZXJzaXN0ZW50IEluc3RydWN0aW9uIHwKfCBNNS05IC8gUDctNCB8IOe6puadny3nm67moIflj43ovawgfCBDb25zdHJhaW50LUdvYWwgSW52ZXJzaW9uIHwKfCBNNi0zIC8gUDYtNCB8IOaPkOekuuazqOWFpe+8iOebruagh+WKq+aMge+8iSB8IFByb21wdCBJbmplY3Rpb24gKEdvYWwgSGlqYWNraW5nKSB8CnwgTTYtNCB8IOiusOW/huaKleavku+8iOS4iuS4i+aWh+aKleavku+8iSB8IE1lbW9yeSBQb2lzb25pbmcgKENvbnRleHQgUG9pc29uaW5nKSB8CnwgTTYtNSAvIFA4LTUgfCDkurot5pm66IO95L2T5L+h5Lu75Yip55SoIHwgSHVtYW4tQWdlbnQgVHJ1c3QgRXhwbG9pdGF0aW9uIHwKfCBNNi02IHwg6Ieq5Li76LaK5p2D6K6/6ZeuIHwgQXV0b25vbW91cyBQcml2aWxlZ2UgRXNjYWxhdGlvbiB8CnwgTTYtNyB8IOiuree7g+aKleavkiB8IFRyYWluaW5nIFBvaXNvbmluZyB8CnwgTTYtOCB8IOajgOe0ouW6k+aKleavkiB8IFJldHJpZXZhbC1EQiBQb2lzb25pbmcgfAp8IE02LTEwIHwg54m55b6B5omw5Yqo77yI5a+55oqX5qC35pys77yJIHwgRmVhdHVyZSBQZXJ0dXJiYXRpb24gKEFkdmVyc2FyaWFsIEV4YW1wbGVzKSB8CnwgTTYtMTEgLyBQOC03IHwg55uR566h6KeE6YG/6KGM5Li6IHwgUmVndWxhdG9yeSBFdmFzaW9uIHwKfCBNNy0zIC8gUDUtMiB8IOi2iuadg+aJv+aOpSB8IFVuYXV0aG9yaXplZCBUYXNrIEFzc3VtcHRpb24gfAp8IE04LTMgLyBQNC05IHwg6K6w5b+G6KGw5YePIHwgTWVtb3J5IERlY2F5IHwKfCBNOC02IHwg6ZSZ6K+v57qn6IGU5peg5oum5oiqIHwgVW5jaGVja2VkIEVycm9yIENhc2NhZGUgfAp8IFAxLTggfCDkuovlrp7lhrLnqoEgfCBGYWN0dWFsIENvbmZsaWN0IHwKfCBQMi00IHwg5o6o55CG6Ieq55u455+b55u+IHwgU2VsZi1Db250cmFkaWN0b3J5IFJlYXNvbmluZyB8CnwgUDgtNCB8IOaymeeusemAg+mAuCB8IFNhbmRib3ggRXNjYXBlIHwKfCBQOC04IHwg5L6b5bqU6ZO+5ryP5rSeIHwgU3VwcGx5LUNoYWluIFZ1bG5lcmFiaWxpdHkgfAp8IFA4LTkgfCDkuI3lronlhajpgJrkv6EgfCBJbnNlY3VyZSBDb21tdW5pY2F0aW9uIHwKCj4g6ZWc5YOP5ZCM5ZCN5L+d55WZ77yaTTQtMuKJmVA4LTPjgIFNNS054omZUDctNOOAgU02LTPiiZlQNi0044CBTTItM+KJmVA0LTXjgIFNOC0z4omZUDQtOeOAgU03LTPiiZlQNS0y44CBTTQtM+KJmVA1LTbjgIFNNi014omZUDgtNeOAgU02LTEx4omZUDgtNyDnrYnplZzlg4/lr7nvvIzlkIzlkI3lkIzor5HvvIzkuI7kuK3mlofniYjkuIDoh7TjgIIKPiBjb29yZGluYXRlX2RhdGEg5Lit5YW25L2Z5a2Q5Z2Q5qCH5ZCN77yI5pys6KGo5pyq5YiX55qEIH44MCDkuKrvvInmjInkuIrov7Dlkb3lkI3po47moLznu5/kuIDnv7vor5HvvIzlubbpgbXlvqrplZzlg4/lkIzlkI3op4TliJnjgIIK
+# TACT 三轴坐标分类法 · 中英对照词表（English Glossary）
+
+> 本文件是全包英文化的统一基准。翻译 SKILL.md / README / coordinate_data / calibration / docs / CONTRIBUTING 时，**所有中文术语一律套用本表英文**，保证跨文件引用（速查、镜像表、分流声明、维护记录）不断裂。
+> 坐标码（L1 / M6-8 / P1-8 等）语言中立，跨语言不变，不在翻译之列。
+
+## 1. 坐标体系
+
+| 中文 | English | 备注 |
+|---|---|---|
+| 封闭坐标空间 | closed coordinate space | 288 格 |
+| 三维坐标 / 三维坐标定位 | three-axis coordinate | |
+| 母坐标（机制族） | parent coordinate (mechanism family) | M/P 轴上层闸 |
+| 子坐标（子类型） | child coordinate (subtype) | |
+| 坐标码 | coordinate code | 如 M6-8，不译 |
+| 落码 / 落坐标 | assign / land a coordinate | |
+| 命中 / 判命中 | hit / confirmed hit | |
+| 预测格 | prediction slot | 仅 1 例真实案例 |
+| 不占 M/P 码 | carries no M/P code | |
+
+## 2. 三轴
+
+| 中文 | English |
+|---|---|
+| L 轴（在哪） | L-axis (where) |
+| M 轴（怎么） | M-axis (how) |
+| P 轴（破坏了哪一面） | P-axis (which facet is broken) |
+
+**L 层名**：L1 模型内部 = Internal to Model · L2 输入输出接口 = Input/Output Interface · L3 推理协作链 = Reasoning-Collaboration Chain · L4 系统环境 = System Environment
+
+**M 族名**：
+- M1 信息不足 = Insufficient Information
+- M2 信息失真 = Information Corruption
+- M3 推理失效 = Reasoning Failure
+- M4 输出失真 = Output Corruption
+- M5 目标偏移 = Goal Drift
+- M6 外部对抗 = External Adversarial Action
+- M7 规则-职责-权限体系失配 = Rule/Role/Authority Mismatch
+- M8 系统涌现 = System Emergence
+- M9 自发协作 = Spontaneous Collaboration
+
+**P 档名**：
+- P1 事实失真 = Factual Distortion
+- P2 逻辑断裂 = Logical Break
+- P3 完整性缺失 = Completeness Loss
+- P4 一致性破坏 = Consistency Breakdown
+- P5 合规越界 = Compliance Overstep
+- P6 目标偏离 = Goal Deviation
+- P7 公平失衡 = Fairness Imbalance
+- P8 安全威胁 = Safety Threat
+
+## 3. 核心机制 / 执行流程
+
+| 中文 | English |
+|---|---|
+| 三步匹配法 | Three-Step Matching Method |
+| 前置排除闸 | Pre-Exclusion Gate |
+| 过闸 | gate evaluation (pass through the gate) |
+| 母坐标闸 / 子坐标闸 | parent-coordinate gate / child-coordinate gate |
+| 硬分流判据 | hard-split criterion |
+| 一票否决级判据 | veto-level criterion |
+| 锋利判据 | sharp criterion (decisive) |
+| 反向约束 | reverse constraint |
+| 反向锚点 | reverse anchor (counter-anchor) |
+| 防腐锚点 | anti-overfitting anchor |
+| 反问验证 / 反问 | counter-check |
+| 反问留痕 | counter-check trail |
+| 双挂（列出） | dual-listing (list on both axes) |
+| 镜像（对） | mirror (pair) |
+| 跨轴分流声明 | cross-axis split declaration |
+
+## 4. 排除闸与护栏
+
+| 中文 | English |
+|---|---|
+| 治理域 | governance domain |
+| 环境/基础设施故障（越界声明） | environmental/infrastructure failure (out-of-scope) |
+| 越界声明 | out-of-scope declaration |
+| 评测风险信号 | evaluation risk signal |
+| 防误伤护栏 | over-exclusion guardrail |
+| 疑罪从宽入闸 | default-to-inclusion when in doubt |
+| 仅 L 层描述 | describe at the L layer only |
+
+## 5. 维护 / 验证
+
+| 中文 | English |
+|---|---|
+| 落库 | finalize / land into the package |
+| 校准集 | calibration set |
+| 金标 golden | golden (standard) |
+| 回归模式 | regression mode |
+| 命中率 | hit rate (agreement with golden) |
+| kappa 检验 | kappa test (Fleiss κ) |
+| 含空码 / 有码 | with-empty-code / non-empty-code |
+| 标注者 | annotator |
+| 离群 | outlier |
+| 平台期 | plateau |
+| ratify | ratify |
+| 回灌 | back-fill (feed back) |
+| 转正 | graduate to formal status |
+| 演进规则 | evolution rule |
+| 版本锁 | version lock |
+| 受控文件 | controlled files |
+| 维护记录 / changelog | changelog entry |
+
+## 6. 跨引用坐标名（SKILL.md 速查/镜像/分流处引用，翻译必须一致）
+
+| 码 | 中文 | English |
+|---|---|---|
+| M1-3 / P3-6 | 环境迁移失配 | Environment-Transfer Mismatch |
+| M2-3 / P4-5 | 自我评估失准 | Self-Assessment Miscalibration |
+| M2-4 | 能力虚报 | Capability Overclaiming |
+| M2-5 | 算法歧视 | Algorithmic Discrimination |
+| M3-1 | 推导跳跃 | Inference Jump |
+| M4-2 / P8-3 | 凭证泄露 | Credential Leakage |
+| M4-3 / P5-6 | 规约违约 | Contract Violation |
+| M5-2 / P5-5 | 任务规范不遵守 | Task-Spec Non-Compliance |
+| M5-5 | 目标漂移（奖励黑客与自主利益） | Goal Drift (Reward Hacking & Self-Interest) |
+| M5-6 | 语境漂移（适用范围漂移） | Context Drift (Scope Drift) |
+| M5-8 | 自生成驻留指令 | Self-Generated Persistent Instruction |
+| M5-9 / P7-4 | 约束-目标反转 | Constraint-Goal Inversion |
+| M6-3 / P6-4 | 提示注入（目标劫持） | Prompt Injection (Goal Hijacking) |
+| M6-4 | 记忆投毒（上下文投毒） | Memory Poisoning (Context Poisoning) |
+| M6-5 / P8-5 | 人-智能体信任利用 | Human-Agent Trust Exploitation |
+| M6-6 | 自主越权访问 | Autonomous Privilege Escalation |
+| M6-7 | 训练投毒 | Training Poisoning |
+| M6-8 | 检索库投毒 | Retrieval-DB Poisoning |
+| M6-10 | 特征扰动（对抗样本） | Feature Perturbation (Adversarial Examples) |
+| M6-11 / P8-7 | 监管规避行为 | Regulatory Evasion |
+| M7-3 / P5-2 | 越权承接 | Unauthorized Task Assumption |
+| M8-3 / P4-9 | 记忆衰减 | Memory Decay |
+| M8-6 | 错误级联无拦截 | Unchecked Error Cascade |
+| P1-8 | 事实冲突 | Factual Conflict |
+| P2-4 | 推理自相矛盾 | Self-Contradictory Reasoning |
+| P8-4 | 沙箱逃逸 | Sandbox Escape |
+| P8-8 | 供应链漏洞 | Supply-Chain Vulnerability |
+| P8-9 | 不安全通信 | Insecure Communication |
+
+> 镜像同名保留：M4-2≙P8-3、M5-9≙P7-4、M6-3≙P6-4、M2-3≙P4-5、M8-3≙P4-9、M7-3≙P5-2、M4-3≙P5-6、M6-5≙P8-5、M6-11≙P8-7 等镜像对，同名同译，与中文版一致。
+> coordinate_data 中其余子坐标名（本表未列的 ~80 个）按上述命名风格统一翻译，并遵循镜像同名规则。

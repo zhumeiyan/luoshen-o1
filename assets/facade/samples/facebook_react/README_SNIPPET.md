@@ -1,1 +1,32 @@
-IyByZWFjdAoKcmVhY3Qg4oCUIOS4gOWll+WPr+WkjeeOsOeahOWunumqjOS4juiHquajgOadkOaWmQoKCgo+IOinhuinieavjemimO+8mlBlcmNvbGF0aW9uIC8g5riX5rWB6ZiI5YC8IMK3IEROQSBgOGNkMmQxZWVmN2I3YAo+IOW9ouixoeeUseS7k+W6k+agh+ivhuWTiOW4jOehruWumuaAp+a0vueUn++8jOWQjOS4gOS7k+W6k+awuOi/nOWQjOS4gOW8oOiEuOOAggoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9ImFzc2V0cy9pZGVudGl0eS5zdmciIHdpZHRoPSI2MDAiIGFsdD0iaWRlbnRpdHkiPgo8L3A+CgojIyDnirbmgIEKCnwg54q25oCBIHwg6IqC5aWPIHwg5ZCr5LmJIHwKfC0tLXwtLS18LS0tfAp8IOmdmee9riDCtyBgaWRsZWAgfCA0cyDmhaLlkbzlkLggfCDlhrfoibLkvY7kuq7luqYgfAp8IOaOqOa8lCDCtyBgdGhpbmtpbmdgIHwgMC44cyDlv6vohInlhrIgfCDnkKXnj4DlgY/np7sgfAp8IOaJp+ihjCDCtyBgYnVzeWAgfCDmjIHnu63ml4vovawgfCDkuq7luqbmi4npq5ggfAp8IOWPl+mYuyDCtyBgYmxvY2tlZGAgfCDohInlhrLlhrvnu5MgfCDkvY7ppbHlkoznuqIgfAp8IOWksei0pSDCtyBgZXJyb3JgIHwg57qi6ImyIHwg5LiA5qyh5oq95Yqo5ZCO6Z2Z5q2iIHwKfCDovr7miJAgwrcgYHN1Y2Nlc3NgIHwg55+t5pqC5pqW6ISJ5YayIOKGkiDlm57okL0gaWRsZSB8IOefreaaguaaluiEieWGsiDihpIg5Zue6JC9IGlkbGUgfAoKIyMg5oqA5pyv57qm5p2fCgotIOS4jei3kSBKYXZhU2NyaXB077yM5Yqo55S75Y+q55SoIFNWRyDlhoXltYwgQ1NTIGBAa2V5ZnJhbWVzYAotIOS4jeS+nei1luWklumDqOW6k+S4jui/kOihjOaXtuaOpeWPowotIFNWRyDlj6/niYjmnKzljJbjgIHlj6/lm57mu5oKLSDml6DpnaLvvJrmsqHmnInkurrohLggLyDmi5/kurrliqjniakgLyDooajmg4XljIUKCgo=
+# react
+
+react — 一套可复现的实验与自检材料
+
+
+
+> 视觉母题：Percolation / 渗流阈值 · DNA `8cd2d1eef7b7`
+> 形象由仓库标识哈希确定性派生，同一仓库永远同一张脸。
+
+<p align="center">
+  <img src="assets/identity.svg" width="600" alt="identity">
+</p>
+
+## 状态
+
+| 状态 | 节奏 | 含义 |
+|---|---|---|
+| 静置 · `idle` | 4s 慢呼吸 | 冷色低亮度 |
+| 推演 · `thinking` | 0.8s 快脉冲 | 琥珀偏移 |
+| 执行 · `busy` | 持续旋转 | 亮度拉高 |
+| 受阻 · `blocked` | 脉冲冻结 | 低饱和红 |
+| 失败 · `error` | 红色 | 一次抽动后静止 |
+| 达成 · `success` | 短暂暖脉冲 → 回落 idle | 短暂暖脉冲 → 回落 idle |
+
+## 技术约束
+
+- 不跑 JavaScript，动画只用 SVG 内嵌 CSS `@keyframes`
+- 不依赖外部库与运行时接口
+- SVG 可版本化、可回滚
+- 无面：没有人脸 / 拟人动物 / 表情包
+
+

@@ -1,1 +1,27 @@
-ewogICJjYXNlIjogInBhcmFzcGVsbCAjMjIxMyDigJQgRGVkb3QgRXRoZXJldW0gY2hhaW5JZCDmnKrovawgQmlnSW50IiwKICAiY2hhbm5lbF9hIjogewogICAgImxhYmVsIjogIua6kOeggemHjOiDveaVsOWHuuadpeeahOWPr+aguOS6i+Wunu+8iOacieihjOWPt++8iSIsCiAgICAidmFsdWUiOiA0LAogICAgInVuaXQiOiAi5p2hIgogIH0sCiAgImNoYW5uZWxfYiI6IHsKICAgICJsYWJlbCI6ICLmiJHlr7nlpJblo7Dnp7DmiJDnq4vnmoTnu5PorroiLAogICAgInZhbHVlIjogNCwKICAgICJ1bml0IjogIuadoSIKICB9LAogICJ0b2xlcmFuY2UiOiAwLAogICJwYXJhbXMiOiBbCiAgICB7Im5hbWUiOiAiUGFwaVhjbVRyYW5zZm9ybWVyLnRzOjg3IOWBmuS6hiBCaWdJbnQg6L2s5o2iIiwgInNyYyI6ICJwYWNrYWdlcy9zZGsvc3JjL1BhcGlYY21UcmFuc2Zvcm1lci50czo4NyJ9LAogICAgeyJuYW1lIjogIlhjbVRyYW5zZm9ybWVyLnRzOjk5IOayoeWBmui9rOaNoiIsICJzcmMiOiAicGFja2FnZXMvc2RrLWRlZG90L3NyYy9YY21UcmFuc2Zvcm1lci50czo5OSJ9LAogICAgeyJuYW1lIjogIlBBUEkg5rWL6K+V5pyf5pybIDFuIiwgInNyYyI6ICJwYWNrYWdlcy9zZGsvc3JjL1BhcGlYY21UcmFuc2Zvcm1lci50ZXN0LnRzOjE2MiJ9LAogICAgeyJuYW1lIjogIkRlZG90IOa1i+ivleacn+acmyAx77yI5oqKIGJ1ZyDlvZPmraPnoa7vvIkiLCAic3JjIjogInBhY2thZ2VzL3Nkay1kZWRvdC9zcmMvWGNtVHJhbnNmb3JtZXIudGVzdC50czo4MCJ9CiAgXSwKICAiYWJsYXRpb25faW5zaWRlX21vZGVsX29ubHkiOiBmYWxzZSwKICAicmFuX3JlYWxfc3lzdGVtIjogZmFsc2UsCiAgImRlY2xhcmVkX3Vua25vd25zIjogWwogICAgIuayoSBidWlsZCDov4cgQHBhcmFzcGVsbC9zZGstZGVkb3QiLAogICAgIuayoei3kei/hyBEZWRvdCDlrqLmiLfnq6/vvIzmnKrlpI3njrAgQVBJIENvbXBhdGliaWxpdHkgRXJyb3IiLAogICAgIuayoei3kei/h+ivpeWMhea1i+ivleWll+S7tu+8jOaUuea1i+ivleWQjuaYr+WQpuWFqOe7v+acqumqjOivgSIKICBdCn0K
+{
+  "case": "paraspell #2213 — Dedot Ethereum chainId 未转 BigInt",
+  "channel_a": {
+    "label": "源码里能数出来的可核事实（有行号）",
+    "value": 4,
+    "unit": "条"
+  },
+  "channel_b": {
+    "label": "我对外声称成立的结论",
+    "value": 4,
+    "unit": "条"
+  },
+  "tolerance": 0,
+  "params": [
+    {"name": "PapiXcmTransformer.ts:87 做了 BigInt 转换", "src": "packages/sdk/src/PapiXcmTransformer.ts:87"},
+    {"name": "XcmTransformer.ts:99 没做转换", "src": "packages/sdk-dedot/src/XcmTransformer.ts:99"},
+    {"name": "PAPI 测试期望 1n", "src": "packages/sdk/src/PapiXcmTransformer.test.ts:162"},
+    {"name": "Dedot 测试期望 1（把 bug 当正确）", "src": "packages/sdk-dedot/src/XcmTransformer.test.ts:80"}
+  ],
+  "ablation_inside_model_only": false,
+  "ran_real_system": false,
+  "declared_unknowns": [
+    "没 build 过 @paraspell/sdk-dedot",
+    "没跑过 Dedot 客户端，未复现 API Compatibility Error",
+    "没跑过该包测试套件，改测试后是否全绿未验证"
+  ]
+}

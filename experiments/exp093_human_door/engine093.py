@@ -1,1 +1,128 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDkzIOW8leaTjuWunumqjCDigJTigJQg6Zeo5Lya5YWz77ya6L6T5YWl55qE5pe25pat5pe257utIMOXIOWPr+mihOa1i+aApwrmsr/nlKggMDkyIOe7iOeJiOWtmOa0u+W3peS9nOeCuSAoRTA9MC45NSBiYXNhbD0wLjAwMSnvvIzpgb/lhY3mrbvkuqHnrZvpgInmsaHmn5PjgIIK6aKE5rOo5YaM77yaCiAgSDEg6ZqP5py65Lit5patICE9IOeos+WumuW8gCAgICAgICAg77yI5pe25pat5pe257ut5pyJ5pWI5bqU77yJCiAgSDIg5ZGo5pyf5Lit5patICE9IOmaj+acuuS4reaWrSAgICAgIO+8iOWPr+mihOa1i+aAp+acieW3ruW8gu+8jOW7tue7rSAwOTHvvIkKICBIMyDnqLPlrprlhbMgID09IOaXoOmAmumBkyAgICAgICAgIO+8iOacuuWItuWvueeFp++8iQoiIiIKaW1wb3J0IHN5cywgb3MsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwnLi4nLCcuLicpKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CgpTVEVQUywgUEVSSU9EID0gNjAwLCA4MApLU0EsIEtBQ1QsIERFQ0FZID0gMC4zNSwgMC4wNSwgMC4wNQpFMCwgQkFTQUwgPSAwLjk1LCAwLjAwMQpOID0gNjQKCmRlZiBtayhzZWVkKToKICAgIHJldHVybiBMaWZlNShzZWVkPXNlZWQsIHNpZ21hX2luPTAuMTAsIGtfc2Vlaz0wLjAsIGtfc2Vla19hcnI9S1NBLAogICAgICAgICAgICAgICAgIGFycl90aHI9MC41MCwgRTA9RTAsIGJhc2FsPUJBU0FMKQoKZGVmIG9wZW5fc2VxKG1vZGUsIHA9MC41LCBwZXJpb2Q9MjApOgogICAgIiIi6L+U5Zue5q+P5ouN6Zeo5piv5ZCm5byA77yIYm9vbCDmlbDnu4TvvIkiIiIKICAgIGlmIG1vZGUgPT0gJ29wZW4nOiAgICAgICAgcmV0dXJuIG5wLm9uZXMoU1RFUFMsIGR0eXBlPWJvb2wpCiAgICBpZiBtb2RlID09ICdjbG9zZWQnOiAgICAgIHJldHVybiBucC56ZXJvcyhTVEVQUywgZHR5cGU9Ym9vbCkKICAgIGlmIG1vZGUgPT0gJ3JhbmRvbSc6CiAgICAgICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDEyMzQpCiAgICAgICAgcmV0dXJuIHJuZy5yYW5kb20oU1RFUFMpIDwgKDEuMCAtIHApICAgICAgICAgICMgcCA9IOS4reaWreamgueOhwogICAgaWYgbW9kZSA9PSAncGVyaW9kaWMnOgogICAgICAgIHQgPSBucC5hcmFuZ2UoU1RFUFMpCiAgICAgICAgcmV0dXJuICh0ICUgcGVyaW9kKSA8IChwZXJpb2QgLy8gMikgICAgICAgICAgICMg6KeE5b6L5Y+v6aKE5rWLCiAgICByYWlzZSBWYWx1ZUVycm9yKG1vZGUpCgpkZWYgcnVuKHNlZWQsIG1vZGUsIHA9MC41LCBwZXJpb2Q9MjApOgogICAgbGlmZSA9IG1rKHNlZWQpCiAgICBzZXEgPSBvcGVuX3NlcShtb2RlLCBwLCBwZXJpb2QpCiAgICBmcm96ZW4gPSAwLjU7IGFjdCA9IDAuMDsgbGFzdCA9IDAuNQogICAgZm9yIHQgaW4gcmFuZ2UoU1RFUFMpOgogICAgICAgIHcgPSBmbG9hdCgwLjUgKyAwLjMqbnAuc2luKDIqbnAucGkqdC9QRVJJT0QpKQogICAgICAgIGlmIHNlcVt0XToKICAgICAgICAgICAgZnJvemVuID0gdyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg6Zeo5byA77ya6K+75Yiw5paw6bKc5LiW55WMCiAgICAgICAgICAgIGxhc3QgPSB3CiAgICAgICAgbGlmZS5pbnB1dF92YWwgPSBmbG9hdChmcm96ZW4pICsgYWN0CiAgICAgICAgciA9IGxpZmUuc3RlcCgpCiAgICAgICAgaWYgciBpcyBOb25lOiBicmVhawogICAgICAgIHRlbiA9IGZsb2F0KGxpZmUuc3BbMF0tbGlmZS55WzBdKQogICAgICAgIGEgPSBmbG9hdChucC5jbGlwKEtBQ1QqdGVuLCAwLjAsIDAuMTApKQogICAgICAgIGFjdCA9IGZsb2F0KG5wLmNsaXAoYWN0ICsgYSAtIERFQ0FZKmFjdCwgLTAuNSwgMC41KSkKICAgIGMgPSBsaWZlLmNhcGFjaXR5CiAgICByZXR1cm4gZGljdChzZWVkPXNlZWQsIGFsaXZlPWJvb2wobGlmZS5hbGl2ZSksCiAgICAgICAgICAgICAgICBza2V3PWZsb2F0KG5wLnN0ZChjKS9tYXgobnAubWVhbihjKSwxZS0xMikpLAogICAgICAgICAgICAgICAgb3Blbl9yYXRlPWZsb2F0KHNlcS5tZWFuKCkpKQoKZGVmIHBhaXJlZChhLCBiLCBuYj02MDAwKToKICAgIGE9bnAuYXNhcnJheShhKTsgYj1ucC5hc2FycmF5KGIpOyBkPWEtYjsgbj1sZW4oZCkKICAgIGlmIG48MjogcmV0dXJuIGRpY3QoZGlmZj1mbG9hdCgnbmFuJyksIGNpPVswLDBdLCBzaWc9RmFsc2UsIG49bikKICAgIHJuZz1ucC5yYW5kb20uZGVmYXVsdF9ybmcoMCkKICAgIGJzPW5wLmFycmF5KFtucC5tZWFuKHJuZy5jaG9pY2UoZCxuLFRydWUpKSBmb3IgXyBpbiByYW5nZShuYildKQogICAgbG8saGk9ZmxvYXQobnAucGVyY2VudGlsZShicywyLjUpKSxmbG9hdChucC5wZXJjZW50aWxlKGJzLDk3LjUpKQogICAgcmV0dXJuIGRpY3QoZGlmZj1mbG9hdChkLm1lYW4oKSksIGNpPVtsbyxoaV0sIHNpZz1ib29sKChsbz4wKT09KGhpPjApKSwgbj1pbnQobikpCgpkZWYgYWxpdmVfb25seShyb3dzKToKICAgICIiIuWFseWQjOWtmOa0u+WtkOmbhu+8jOmYsuatu+S6oeetm+mAieaxoeafkyIiIgogICAgcmV0dXJuIFtyIGZvciByIGluIHJvd3MgaWYgclsnYWxpdmUnXV0KCkNPTkQgPSB7CiAnb3Blbic6ICAgICAgICAgICAgKCdvcGVuJywgICAgMC4wLCAyMCksCiAnY2xvc2VkJzogICAgICAgICAgKCdjbG9zZWQnLCAgMS4wLCAyMCksCiAncmFuZF9wMTAnOiAgICAgICAgKCdyYW5kb20nLCAgMC4xMCwgMjApLAogJ3JhbmRfcDMwJzogICAgICAgICgncmFuZG9tJywgIDAuMzAsIDIwKSwKICdyYW5kX3A1MCc6ICAgICAgICAoJ3JhbmRvbScsICAwLjUwLCAyMCksCiAncmFuZF9wNzAnOiAgICAgICAgKCdyYW5kb20nLCAgMC43MCwgMjApLAogJ3JhbmRfcDkwJzogICAgICAgICgncmFuZG9tJywgIDAuOTAsIDIwKSwKICdwZXJpb18yMCc6ICAgICAgICAoJ3BlcmlvZGljJywwLjUsIDIwKSwKICdwZXJpb184MCc6ICAgICAgICAoJ3BlcmlvZGljJywwLjUsIDgwKSwKICdwZXJpb18xNjAnOiAgICAgICAoJ3BlcmlvZGljJywwLjUsMTYwKSwKfQpSID0ge2s6IFtydW4ocywgKnYpIGZvciBzIGluIHJhbmdlKE4pXSBmb3IgaywgdiBpbiBDT05ELml0ZW1zKCl9CgpwcmludCgnPT09IOWQhOadoeS7tiAoTj0lZCkgPT09JyAlIE4pCnByaW50KGYieydjb25kJzoxMnN9IHsnc2tldyc6PjlzfSB7J2FsaXZlJzo+NnN9IHsnb3Blbl9yYXRlJzo+OXN9IikKZm9yIGsgaW4gQ09ORDoKICAgIHNrPW5wLm1lYW4oW3JbJ3NrZXcnXSBmb3IgciBpbiBSW2tdXSk7IGFsPW5wLm1lYW4oW3JbJ2FsaXZlJ10gZm9yIHIgaW4gUltrXV0pCiAgICBvcnI9bnAubWVhbihbclsnb3Blbl9yYXRlJ10gZm9yIHIgaW4gUltrXV0pCiAgICBwcmludChmJ3trOjEyc30ge3NrOjkuNmZ9IHthbDo2LjNmfSB7b3JyOjkuM2Z9JykKCmRlZiBjbXAoa2EsIGtiLCBsYWIsIGNvbW1vbl9hbGl2ZT1UcnVlKToKICAgIEEsIEIgPSBSW2thXSwgUltrYl0KICAgIGlmIGNvbW1vbl9hbGl2ZToKICAgICAgICBzYT17clsnc2VlZCddIGZvciByIGluIEEgaWYgclsnYWxpdmUnXX07IHNiPXtyWydzZWVkJ10gZm9yIHIgaW4gQiBpZiByWydhbGl2ZSddfQogICAgICAgIGNvbT1zb3J0ZWQoc2EgJiBzYikKICAgICAgICBBPVtyIGZvciByIGluIEEgaWYgclsnc2VlZCddIGluIGNvbV07IEI9W3IgZm9yIHIgaW4gQiBpZiByWydzZWVkJ10gaW4gY29tXQogICAgcD1wYWlyZWQoW3JbJ3NrZXcnXSBmb3IgciBpbiBBXSxbclsnc2tldyddIGZvciByIGluIEJdKQogICAgcHJpbnQoZid7bGFiOjM0c30gZGlmZj17cFsiZGlmZiJdOisuNmZ9IENJPVt7cFsiY2kiXVswXTorLjRmfSx7cFsiY2kiXVsxXTorLjRmfV0gc2lnPXtwWyJzaWciXX0gbj17cFsibiJdfScpCiAgICByZXR1cm4gcAoKcHJpbnQoJ1xuPT09IOmihOazqOWGjOajgOmqjO+8iOWFseWQjOWtmOa0u+WtkOmbhu+8iT09PScpClQ9e30KVFsnSDEg6ZqP5py65Lit5patIHZzIOeos+WumuW8gCddICAgICAgPSBjbXAoJ3JhbmRfcDUwJywnb3BlbicsICAgJ0gxIOmaj+acuuS4reaWrSB2cyDnqLPlrprlvIAnLCBGYWxzZSkKVFsnSDIg5ZGo5pyfIHZzIOmaj+acuijlkIzlvIDnjocpJ10gICAgPSBjbXAoJ3BlcmlvXzIwJywncmFuZF9wNTAnLCdIMiDlkajmnJ8gdnMg6ZqP5py6KOWQjOW8gOeOhyknLCBGYWxzZSkKVFsnSDMg56iz5a6a5YWzIHZzIOeos+WumuW8gCddICAgICAgICA9IGNtcCgnY2xvc2VkJywnb3BlbicsICAgICAnSDMg56iz5a6a5YWzIHZzIOeos+WumuW8gCcsIEZhbHNlKQoKcHJpbnQoJ1xuPT09IOS4reaWreamgueOh+WJgumHj+WPjeW6lO+8iOmaj+acuu+8iT09PScpCmZyb20gc2NpcHkuc3RhdHMgaW1wb3J0IHNwZWFybWFucgpwcz1bMC4wLDAuMTAsMC4zMCwwLjUwLDAuNzAsMC45MCwxLjBdCmtleXM9WydvcGVuJywncmFuZF9wMTAnLCdyYW5kX3AzMCcsJ3JhbmRfcDUwJywncmFuZF9wNzAnLCdyYW5kX3A5MCcsJ2Nsb3NlZCddCmRvc2U9W10KZm9yIHBfLGsgaW4gemlwKHBzLGtleXMpOgogICAgc2s9ZmxvYXQobnAubWVhbihbclsnc2tldyddIGZvciByIGluIFJba11dKSk7IGFsPWZsb2F0KG5wLm1lYW4oW3JbJ2FsaXZlJ10gZm9yIHIgaW4gUltrXV0pKQogICAgZG9zZS5hcHBlbmQoZGljdChwPXBfLHNrZXc9c2ssYWxpdmU9YWwpKTsgcHJpbnQoZicgIHA9e3BfOi4yZn0gIHNrZXc9e3NrOi42Zn0gYWxpdmU9e2FsOi4zZn0nKQp4cz1bZFsncCddIGZvciBkIGluIGRvc2UgZm9yIF8gaW4gcmFuZ2UoTildCnlzPVtyWydza2V3J10gZm9yIGsgaW4ga2V5cyBmb3IgciBpbiBSW2tdXQpyaG89c3BlYXJtYW5yKHhzLHlzKS5jb3JyZWxhdGlvbgpwcmludChmJyAgU3BlYXJtYW4o5Lit5pat5qaC546HLCDlgY/luqYpID0ge3JobzouNGZ9JykKCnByaW50KCdcbj09PSDlkajmnJ/plb/luqbvvIjlj6/pooTmtYvmgKfvvIk9PT0nKQpmb3IgayBpbiBbJ3BlcmlvXzIwJywncGVyaW9fODAnLCdwZXJpb18xNjAnXToKICAgIHByaW50KGYnICB7azoxMHN9IHNrZXc9e25wLm1lYW4oW3JbInNrZXciXSBmb3IgciBpbiBSW2tdXSk6LjZmfSBhbGl2ZT17bnAubWVhbihbclsiYWxpdmUiXSBmb3IgciBpbiBSW2tdXSk6LjNmfScpCgpqc29uLmR1bXAoZGljdChjZWxscz17azogZGljdChza2V3PWZsb2F0KG5wLm1lYW4oW3JbJ3NrZXcnXSBmb3IgciBpbiBSW2tdXSkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGl2ZT1mbG9hdChucC5tZWFuKFtyWydhbGl2ZSddIGZvciByIGluIFJba11dKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wZW5fcmF0ZT1mbG9hdChucC5tZWFuKFtyWydvcGVuX3JhdGUnXSBmb3IgciBpbiBSW2tdXSkpKSBmb3IgayBpbiBDT05EfSwKICAgICAgICAgICAgICAgdGVzdHM9e2s6IGRpY3QoZGlmZj12WydkaWZmJ10sIGNpPXZbJ2NpJ10sIHNpZz12WydzaWcnXSwgbj12WyduJ10pIGZvciBrLHYgaW4gVC5pdGVtcygpfSwKICAgICAgICAgICAgICAgZG9zZT1kb3NlLCBzcGVhcm1hbl9yaG89ZmxvYXQocmhvKSwKICAgICAgICAgICAgICAgcGFyYW1zPWRpY3QoTj1OLFNURVBTPVNURVBTLEtTQT1LU0EsS0FDVD1LQUNULEUwPUUwLEJBU0FMPUJBU0FMKSksCiAgICAgICAgICBvcGVuKCdlbmdpbmUwOTNfcmVzdWx0Lmpzb24nLCd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCnByaW50KCdcbnNhdmVkIGVuZ2luZTA5M19yZXN1bHQuanNvbicpCg==
+# -*- coding: utf-8 -*-
+"""093 引擎实验 —— 门会关：输入的时断时续 × 可预测性
+沿用 092 终版存活工作点 (E0=0.95 basal=0.001)，避免死亡筛选污染。
+预注册：
+  H1 随机中断 != 稳定开        （时断时续有效应）
+  H2 周期中断 != 随机中断      （可预测性有差异，延续 091）
+  H3 稳定关  == 无通道         （机制对照）
+"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__),'..','..'))
+from core.life5 import Life5
+
+STEPS, PERIOD = 600, 80
+KSA, KACT, DECAY = 0.35, 0.05, 0.05
+E0, BASAL = 0.95, 0.001
+N = 64
+
+def mk(seed):
+    return Life5(seed=seed, sigma_in=0.10, k_seek=0.0, k_seek_arr=KSA,
+                 arr_thr=0.50, E0=E0, basal=BASAL)
+
+def open_seq(mode, p=0.5, period=20):
+    """返回每拍门是否开（bool 数组）"""
+    if mode == 'open':        return np.ones(STEPS, dtype=bool)
+    if mode == 'closed':      return np.zeros(STEPS, dtype=bool)
+    if mode == 'random':
+        rng = np.random.default_rng(1234)
+        return rng.random(STEPS) < (1.0 - p)          # p = 中断概率
+    if mode == 'periodic':
+        t = np.arange(STEPS)
+        return (t % period) < (period // 2)           # 规律可预测
+    raise ValueError(mode)
+
+def run(seed, mode, p=0.5, period=20):
+    life = mk(seed)
+    seq = open_seq(mode, p, period)
+    frozen = 0.5; act = 0.0; last = 0.5
+    for t in range(STEPS):
+        w = float(0.5 + 0.3*np.sin(2*np.pi*t/PERIOD))
+        if seq[t]:
+            frozen = w                                 # 门开：读到新鲜世界
+            last = w
+        life.input_val = float(frozen) + act
+        r = life.step()
+        if r is None: break
+        ten = float(life.sp[0]-life.y[0])
+        a = float(np.clip(KACT*ten, 0.0, 0.10))
+        act = float(np.clip(act + a - DECAY*act, -0.5, 0.5))
+    c = life.capacity
+    return dict(seed=seed, alive=bool(life.alive),
+                skew=float(np.std(c)/max(np.mean(c),1e-12)),
+                open_rate=float(seq.mean()))
+
+def paired(a, b, nb=6000):
+    a=np.asarray(a); b=np.asarray(b); d=a-b; n=len(d)
+    if n<2: return dict(diff=float('nan'), ci=[0,0], sig=False, n=n)
+    rng=np.random.default_rng(0)
+    bs=np.array([np.mean(rng.choice(d,n,True)) for _ in range(nb)])
+    lo,hi=float(np.percentile(bs,2.5)),float(np.percentile(bs,97.5))
+    return dict(diff=float(d.mean()), ci=[lo,hi], sig=bool((lo>0)==(hi>0)), n=int(n))
+
+def alive_only(rows):
+    """共同存活子集，防死亡筛选污染"""
+    return [r for r in rows if r['alive']]
+
+COND = {
+ 'open':            ('open',    0.0, 20),
+ 'closed':          ('closed',  1.0, 20),
+ 'rand_p10':        ('random',  0.10, 20),
+ 'rand_p30':        ('random',  0.30, 20),
+ 'rand_p50':        ('random',  0.50, 20),
+ 'rand_p70':        ('random',  0.70, 20),
+ 'rand_p90':        ('random',  0.90, 20),
+ 'perio_20':        ('periodic',0.5, 20),
+ 'perio_80':        ('periodic',0.5, 80),
+ 'perio_160':       ('periodic',0.5,160),
+}
+R = {k: [run(s, *v) for s in range(N)] for k, v in COND.items()}
+
+print('=== 各条件 (N=%d) ===' % N)
+print(f"{'cond':12s} {'skew':>9s} {'alive':>6s} {'open_rate':>9s}")
+for k in COND:
+    sk=np.mean([r['skew'] for r in R[k]]); al=np.mean([r['alive'] for r in R[k]])
+    orr=np.mean([r['open_rate'] for r in R[k]])
+    print(f'{k:12s} {sk:9.6f} {al:6.3f} {orr:9.3f}')
+
+def cmp(ka, kb, lab, common_alive=True):
+    A, B = R[ka], R[kb]
+    if common_alive:
+        sa={r['seed'] for r in A if r['alive']}; sb={r['seed'] for r in B if r['alive']}
+        com=sorted(sa & sb)
+        A=[r for r in A if r['seed'] in com]; B=[r for r in B if r['seed'] in com]
+    p=paired([r['skew'] for r in A],[r['skew'] for r in B])
+    print(f'{lab:34s} diff={p["diff"]:+.6f} CI=[{p["ci"][0]:+.4f},{p["ci"][1]:+.4f}] sig={p["sig"]} n={p["n"]}')
+    return p
+
+print('\n=== 预注册检验（共同存活子集）===')
+T={}
+T['H1 随机中断 vs 稳定开']      = cmp('rand_p50','open',   'H1 随机中断 vs 稳定开', False)
+T['H2 周期 vs 随机(同开率)']    = cmp('perio_20','rand_p50','H2 周期 vs 随机(同开率)', False)
+T['H3 稳定关 vs 稳定开']        = cmp('closed','open',     'H3 稳定关 vs 稳定开', False)
+
+print('\n=== 中断概率剂量反应（随机）===')
+from scipy.stats import spearmanr
+ps=[0.0,0.10,0.30,0.50,0.70,0.90,1.0]
+keys=['open','rand_p10','rand_p30','rand_p50','rand_p70','rand_p90','closed']
+dose=[]
+for p_,k in zip(ps,keys):
+    sk=float(np.mean([r['skew'] for r in R[k]])); al=float(np.mean([r['alive'] for r in R[k]]))
+    dose.append(dict(p=p_,skew=sk,alive=al)); print(f'  p={p_:.2f}  skew={sk:.6f} alive={al:.3f}')
+xs=[d['p'] for d in dose for _ in range(N)]
+ys=[r['skew'] for k in keys for r in R[k]]
+rho=spearmanr(xs,ys).correlation
+print(f'  Spearman(中断概率, 偏度) = {rho:.4f}')
+
+print('\n=== 周期长度（可预测性）===')
+for k in ['perio_20','perio_80','perio_160']:
+    print(f'  {k:10s} skew={np.mean([r["skew"] for r in R[k]]):.6f} alive={np.mean([r["alive"] for r in R[k]]):.3f}')
+
+json.dump(dict(cells={k: dict(skew=float(np.mean([r['skew'] for r in R[k]])),
+                              alive=float(np.mean([r['alive'] for r in R[k]])),
+                              open_rate=float(np.mean([r['open_rate'] for r in R[k]]))) for k in COND},
+               tests={k: dict(diff=v['diff'], ci=v['ci'], sig=v['sig'], n=v['n']) for k,v in T.items()},
+               dose=dose, spearman_rho=float(rho),
+               params=dict(N=N,STEPS=STEPS,KSA=KSA,KACT=KACT,E0=E0,BASAL=BASAL)),
+          open('engine093_result.json','w'), ensure_ascii=False, indent=1)
+print('\nsaved engine093_result.json')

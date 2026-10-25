@@ -1,1 +1,68 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiQWJvdXQgYWN0aW9uIOKAlCBwcm9qZWN0IGluZm8sIGZlYXR1cmVzLCByZXF1aXJlbWVudHMgZm9yIFdhbGxldCBSaXNrIFNjYW5uZXIuIiIiCgpmcm9tIHJpY2gudGFibGUgaW1wb3J0IFRhYmxlCmZyb20gcmljaC5wYW5lbCBpbXBvcnQgUGFuZWwKZnJvbSByaWNoIGltcG9ydCBib3gKCmZyb20gbGVkZ2VyLnVpIGltcG9ydCBjb25zb2xlCgoKZGVmIGFjdGlvbl9hYm91dCgpOgogICAgIiIiRGlzcGxheSBwcm9qZWN0IGluZm86IG92ZXJ2aWV3LCBmZWF0dXJlcywgcmVxdWlyZW1lbnRzLiIiIgogICAgZmVhdHVyZXNfdGFibGUgPSBUYWJsZSgKICAgICAgICBzaG93X2hlYWRlcj1UcnVlLAogICAgICAgIGhlYWRlcl9zdHlsZT0iYm9sZCBicmlnaHRfcmVkIiwKICAgICAgICBib3JkZXJfc3R5bGU9ImJyaWdodF9yZWQiLAogICAgICAgIGJveD1ib3guU0lNUExFLAogICAgICAgIHRpdGxlPSJbYm9sZCBicmlnaHRfcmVkXSDil4ggRkVBVFVSRVMg4peIIFsvXSIsCiAgICAgICAgdGl0bGVfc3R5bGU9ImJyaWdodF9yZWQiLAogICAgKQogICAgZmVhdHVyZXNfdGFibGUuYWRkX2NvbHVtbigiRmVhdHVyZSIsIHN0eWxlPSJicmlnaHRfcmVkIikKICAgIGZlYXR1cmVzX3RhYmxlLmFkZF9jb2x1bW4oIlN0YXR1cyIsIGp1c3RpZnk9ImNlbnRlciIsIHN0eWxlPSJicmlnaHRfZ3JlZW4iKQoKICAgIGZvciBmZWF0IGluIFsKICAgICAgICAnTXVsdGktY2hhaW4gQU1MIHJpc2sgc2NyZWVuaW5nICgxNSsgbmV0d29ya3MpJywKICAgICAgICAnMOKAkzEwMCB3ZWlnaHRlZCByaXNrIHNjb3JlIHdpdGggTE9XL01FRElVTS9ISUdIL0NSSVRJQ0FMIGJhbmRzJywKICAgICAgICAnU2FuY3Rpb25zIG1hdGNoaW5nOiBPRkFDIFNETiwgU2NhbVNuaWZmZXIsIENoYWluQWJ1c2UnLAogICAgICAgICdNaXhlciAmIFRvcm5hZG8gQ2FzaCBpbnRlcmFjdGlvbiBkZXRlY3Rpb24nLAogICAgICAgICdIb25leXBvdCAvIHJ1Zy1wdWxsIGNvbnRyYWN0IHNpZ25hbHMgdmlhIEdvUGx1cycsCiAgICAgICAgJ0Z1bmQgc291cmNlIHRyYWNpbmcgd2l0aCBtdWx0aS1ob3AgZXhwb3N1cmUnLAogICAgICAgICdCYXRjaCBzY3JlZW5pbmcgd2l0aCBhIG11bHRpLXRocmVhZGVkIGVuZ2luZScsCiAgICAgICAgJ0xvY2FsIGJsYWNrbGlzdCBjYWNoaW5nIHdpdGggMjRoIGF1dG8tcmVmcmVzaCcsCiAgICAgICAgJ1Rlcm1pbmFsIHJlcG9ydHMgKyBKU09OIC8gQ1NWIC8gSFRNTCAvIFBERiBleHBvcnQnLAogICAgICAgICdQcm92aWRlciBmYWlsb3ZlciwgcmF0ZSBsaW1pdGluZyBhbmQga2V5IG1hbmFnZW1lbnQnLAogICAgICAgICdDcm9zcy1wbGF0Zm9ybSBzdXBwb3J0IChXaW5kb3dzL0xpbnV4L21hY09TKScsCiAgICAgICAgJ0xvY2FsLW9ubHkgcHJvY2Vzc2luZyDigJQgbm8gdGVsZW1ldHJ5LCBubyB1cGxvYWRzJywKICAgIF06CiAgICAgICAgZmVhdHVyZXNfdGFibGUuYWRkX3JvdyhmZWF0LCAi4pyTIikKCiAgICBzZXR1cF90YWJsZSA9IFRhYmxlKAogICAgICAgIHNob3dfaGVhZGVyPVRydWUsCiAgICAgICAgaGVhZGVyX3N0eWxlPSJib2xkIGJyaWdodF9yZWQiLAogICAgICAgIGJvcmRlcl9zdHlsZT0iYnJpZ2h0X3JlZCIsCiAgICAgICAgYm94PWJveC5NSU5JTUFMX0hFQVZZX0hFQUQsCiAgICAgICAgdGl0bGU9Iltib2xkIGJyaWdodF9yZWRdIOKXiCBSRVFVSVJFTUVOVFMgJiBTRVRVUCDil4ggWy9dIiwKICAgICAgICB0aXRsZV9zdHlsZT0iYnJpZ2h0X3JlZCIsCiAgICApCiAgICBzZXR1cF90YWJsZS5hZGRfY29sdW1uKCJJdGVtIiwgc3R5bGU9ImJyaWdodF9yZWQiKQogICAgc2V0dXBfdGFibGUuYWRkX2NvbHVtbigiTm90ZSIsIHN0eWxlPSJkaW0iKQogICAgc2V0dXBfdGFibGUuYWRkX3JvdygnUHl0aG9uJywgJzMuMTAgb3IgaGlnaGVyJykKICAgIHNldHVwX3RhYmxlLmFkZF9yb3coJ3BpcCcsICdMYXRlc3QgdmVyc2lvbiByZWNvbW1lbmRlZCcpCiAgICBzZXR1cF90YWJsZS5hZGRfcm93KCdMaWJyYXJpZXMnLCAncmljaCwgY3J5cHRvZ3JhcGh5LCByZXF1ZXN0cywgYWlvaHR0cCwgcHl5YW1sLCB0YWJ1bGF0ZScpCiAgICBzZXR1cF90YWJsZS5hZGRfcm93KCdJbnN0YWxsJywgJ3BpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQnKQogICAgc2V0dXBfdGFibGUuYWRkX3JvdygnUnVuJywgJ3B5dGhvbiBtYWluLnB5JykKICAgIHNldHVwX3RhYmxlLmFkZF9yb3coJ0FQSSBLZXlzJywgJ09wdGlvbmFsIOKAlCBFdGhlcnNjYW4sIENoYWluQWJ1c2UsIE1pc3RUcmFjaycpCiAgICBzZXR1cF90YWJsZS5hZGRfcm93KCdQcm92aWRlcnMnLCAnR29QbHVzIHdvcmtzIGtleWxlc3Mgb3V0IG9mIHRoZSBib3gnKQoKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludChQYW5lbChmZWF0dXJlc190YWJsZSwgYm9yZGVyX3N0eWxlPSJicmlnaHRfcmVkIiwgYm94PWJveC5ST1VOREVEKSkKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludChQYW5lbChzZXR1cF90YWJsZSwgYm9yZGVyX3N0eWxlPSJicmlnaHRfcmVkIiwgYm94PWJveC5ST1VOREVEKSkKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludCgKICAgICAgICAiW2RpbV1XYWxsZXQgUmlzayBTY2FubmVyIOKAlCBtdWx0aS1zZXJ2aWNlIEFNTCBzY3JlZW5pbmcgZW5naW5lLiBBZGQgYW4gRXRoZXJzY2FuIGtleSBpbiBTZXR0aW5ncyB0byByYWlzZSBjb3ZlcmFnZSB0byB+OTAlLlsvXSIKICAgICkKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludCgiW2RpbV1Db250YWN0OlsvXSBbYnJpZ2h0X2JsdWVdMHhhQWRFQUI4Mzc0OTEwNEVGNjI0OWE5MUFkZjc4Q0M2MzlEZTY1OUNEWy9dIChFVEgvRVZNKSIpCiAgICBjb25zb2xlLnByaW50KCkK
+# -*- coding: utf-8 -*-
+"""About action — project info, features, requirements for Wallet Risk Scanner."""
+
+from rich.table import Table
+from rich.panel import Panel
+from rich import box
+
+from ledger.ui import console
+
+
+def action_about():
+    """Display project info: overview, features, requirements."""
+    features_table = Table(
+        show_header=True,
+        header_style="bold bright_red",
+        border_style="bright_red",
+        box=box.SIMPLE,
+        title="[bold bright_red] ◈ FEATURES ◈ [/]",
+        title_style="bright_red",
+    )
+    features_table.add_column("Feature", style="bright_red")
+    features_table.add_column("Status", justify="center", style="bright_green")
+
+    for feat in [
+        'Multi-chain AML risk screening (15+ networks)',
+        '0–100 weighted risk score with LOW/MEDIUM/HIGH/CRITICAL bands',
+        'Sanctions matching: OFAC SDN, ScamSniffer, ChainAbuse',
+        'Mixer & Tornado Cash interaction detection',
+        'Honeypot / rug-pull contract signals via GoPlus',
+        'Fund source tracing with multi-hop exposure',
+        'Batch screening with a multi-threaded engine',
+        'Local blacklist caching with 24h auto-refresh',
+        'Terminal reports + JSON / CSV / HTML / PDF export',
+        'Provider failover, rate limiting and key management',
+        'Cross-platform support (Windows/Linux/macOS)',
+        'Local-only processing — no telemetry, no uploads',
+    ]:
+        features_table.add_row(feat, "✓")
+
+    setup_table = Table(
+        show_header=True,
+        header_style="bold bright_red",
+        border_style="bright_red",
+        box=box.MINIMAL_HEAVY_HEAD,
+        title="[bold bright_red] ◈ REQUIREMENTS & SETUP ◈ [/]",
+        title_style="bright_red",
+    )
+    setup_table.add_column("Item", style="bright_red")
+    setup_table.add_column("Note", style="dim")
+    setup_table.add_row('Python', '3.10 or higher')
+    setup_table.add_row('pip', 'Latest version recommended')
+    setup_table.add_row('Libraries', 'rich, cryptography, requests, aiohttp, pyyaml, tabulate')
+    setup_table.add_row('Install', 'pip install -r requirements.txt')
+    setup_table.add_row('Run', 'python main.py')
+    setup_table.add_row('API Keys', 'Optional — Etherscan, ChainAbuse, MistTrack')
+    setup_table.add_row('Providers', 'GoPlus works keyless out of the box')
+
+    console.print()
+    console.print(Panel(features_table, border_style="bright_red", box=box.ROUNDED))
+    console.print()
+    console.print(Panel(setup_table, border_style="bright_red", box=box.ROUNDED))
+    console.print()
+    console.print(
+        "[dim]Wallet Risk Scanner — multi-service AML screening engine. Add an Etherscan key in Settings to raise coverage to ~90%.[/]"
+    )
+    console.print()
+    console.print("[dim]Contact:[/] [bright_blue]0xaAdEAB83749104EF6249a91Adf78CC639De659CD[/] (ETH/EVM)")
+    console.print()

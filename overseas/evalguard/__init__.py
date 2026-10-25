@@ -1,1 +1,22 @@
-IiIiZXZhbGd1YXJkIOKAlCBzdGF0aWMgY2hlY2tzIGZvciBldmFsdWF0aW9uIGNvZGUgdGhhdCBmYWlscyBzaWxlbnRseS4KClRoZSBmYWlsdXJlIG1vZGUgdGhpcyB0b29sIGV4aXN0cyBmb3I6IGFuIEFJIGV2YWx1YXRpb24gc2NyaXB0IHRoYXQgcnVucwp0byBjb21wbGV0aW9uLCBleGl0cyAwLCBwcmludHMgYSBjb25maWRlbnQgbnVtYmVyLCBhbmQgaXMgd3JvbmcuIE5vdGhpbmcKY3Jhc2hlcy4gTm90aGluZyB3YXJucy4gVGhlIG51bWJlciBnb2VzIGludG8gYSBwYXBlciwgYSBkYXNoYm9hcmQsIG9yIGEKbW9kZWwgcmVsZWFzZSBkZWNpc2lvbi4KCiAgICBmcm9tIGV2YWxndWFyZCBpbXBvcnQgc2Nhbl9zb3VyY2UKICAgIHIgPSBzY2FuX3NvdXJjZShvcGVuKCJldmFsLnB5IikucmVhZCgpLCBwYXRoPSJldmFsLnB5IikKICAgIGlmIG5vdCByLm9rOgogICAgICAgIHByaW50KHIudG9fdGV4dCgpKQoKQWxzbyB1c2FibGUgYXMgYSByZXBvc2l0b3J5IGNoZWNrOiBgdG9fc2FyaWYoKWAgZW1pdHMgU0FSSUYgMi4xLjAsIHdoaWNoCkdpdEh1YiBDb2RlIFNjYW5uaW5nIHJlbmRlcnMgaW5saW5lIG9uIGEgcHVsbCByZXF1ZXN0LgoiIiIKZnJvbSAuYXBpIGltcG9ydCAoRmluZGluZywgU2NhblJlc3VsdCwgc2Nhbl9zb3VyY2UsIHNjYW5fZmlsZSwgc2Nhbl9wYXRocywKICAgICAgICAgICAgICAgICAgc2Nhbl9kaXIsIFNFVkVSSVRJRVMpCmZyb20gLnJ1bGVzIGltcG9ydCBSVUxFUwoKX192ZXJzaW9uX18gPSAiMC41LjEiCl9fYWxsX18gPSBbInNjYW5fc291cmNlIiwgInNjYW5fZmlsZSIsICJzY2FuX3BhdGhzIiwgInNjYW5fZGlyIiwKICAgICAgICAgICAiRmluZGluZyIsICJTY2FuUmVzdWx0IiwgIlNFVkVSSVRJRVMiLCAiUlVMRVMiLCAiX192ZXJzaW9uX18iXQo=
+"""evalguard — static checks for evaluation code that fails silently.
+
+The failure mode this tool exists for: an AI evaluation script that runs
+to completion, exits 0, prints a confident number, and is wrong. Nothing
+crashes. Nothing warns. The number goes into a paper, a dashboard, or a
+model release decision.
+
+    from evalguard import scan_source
+    r = scan_source(open("eval.py").read(), path="eval.py")
+    if not r.ok:
+        print(r.to_text())
+
+Also usable as a repository check: `to_sarif()` emits SARIF 2.1.0, which
+GitHub Code Scanning renders inline on a pull request.
+"""
+from .api import (Finding, ScanResult, scan_source, scan_file, scan_paths,
+                  scan_dir, SEVERITIES)
+from .rules import RULES
+
+__version__ = "0.5.1"
+__all__ = ["scan_source", "scan_file", "scan_paths", "scan_dir",
+           "Finding", "ScanResult", "SEVERITIES", "RULES", "__version__"]

@@ -1,1 +1,322 @@
-IiIiClVzYWdlOgpweXRob24gZ2VuX2p1ZGdtZW50LnB5IC0tbW9kZWwtbGlzdCBbTElTVC1PRi1NT0RFTC1JRF0gLS1wYXJhbGxlbCBbbnVtLWNvbmN1cnJlbnQtYXBpLWNhbGxdIC0tbW9kZSBbc2luZ2xlfHBhaXJ3aXNlLWJhc2VsaW5lfHBhaXJ3aXNlLWFsbF0KIiIiCmltcG9ydCBhcmdwYXJzZQpmcm9tIGNvbmN1cnJlbnQuZnV0dXJlcyBpbXBvcnQgVGhyZWFkUG9vbEV4ZWN1dG9yCmltcG9ydCBqc29uCgppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSB0cWRtIGltcG9ydCB0cWRtCgpmcm9tIGZhc3RjaGF0LmxsbV9qdWRnZS5jb21tb24gaW1wb3J0ICgKICAgIGxvYWRfcXVlc3Rpb25zLAogICAgbG9hZF9tb2RlbF9hbnN3ZXJzLAogICAgbG9hZF9qdWRnZV9wcm9tcHRzLAogICAgY2hlY2tfZGF0YSwKICAgIHBsYXlfYV9tYXRjaF9wYWlyLAogICAgcGxheV9hX21hdGNoX3NpbmdsZSwKICAgIGdldF9tb2RlbF9saXN0LAogICAgSnVkZ2UsCiAgICBNYXRjaFBhaXIsCiAgICBNYXRjaFNpbmdsZSwKICAgIE5FRURfUkVGX0NBVFMsCikKCgpkZWYgbWFrZV9tYXRjaCgKICAgIHF1ZXN0aW9ucywKICAgIG1vZGVscywKICAgIG1vZGVsX2Fuc3dlcnMsCiAgICBqdWRnZSwKICAgIGJhc2VsaW5lX21vZGVsLAogICAgcmVmX2Fuc3dlcnM9Tm9uZSwKICAgIG11bHRpX3R1cm49RmFsc2UsCik6CiAgICBtYXRjaGVzID0gW10KICAgIGZvciBxIGluIHF1ZXN0aW9uczoKICAgICAgICBpZiBtdWx0aV90dXJuIGFuZCBsZW4ocVsidHVybnMiXSkgIT0gMjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obW9kZWxzKSk6CiAgICAgICAgICAgIHFfaWQgPSBxWyJxdWVzdGlvbl9pZCJdCiAgICAgICAgICAgIG1fMSA9IG1vZGVsc1tpXQogICAgICAgICAgICBtXzIgPSBiYXNlbGluZV9tb2RlbAogICAgICAgICAgICBpZiBtXzEgPT0gbV8yOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgYV8xID0gbW9kZWxfYW5zd2Vyc1ttXzFdW3FfaWRdCiAgICAgICAgICAgIGFfMiA9IG1vZGVsX2Fuc3dlcnNbYmFzZWxpbmVfbW9kZWxdW3FfaWRdCiAgICAgICAgICAgIGlmIHJlZl9hbnN3ZXJzIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgcmVmID0gcmVmX2Fuc3dlcnNbanVkZ2UubW9kZWxfbmFtZV1bcV9pZF0KICAgICAgICAgICAgICAgIG1hdGNoID0gTWF0Y2hQYWlyKAogICAgICAgICAgICAgICAgICAgIGRpY3QocSksCiAgICAgICAgICAgICAgICAgICAgbV8xLAogICAgICAgICAgICAgICAgICAgIG1fMiwKICAgICAgICAgICAgICAgICAgICBhXzEsCiAgICAgICAgICAgICAgICAgICAgYV8yLAogICAgICAgICAgICAgICAgICAgIGp1ZGdlLAogICAgICAgICAgICAgICAgICAgIHJlZl9hbnN3ZXI9cmVmLAogICAgICAgICAgICAgICAgICAgIG11bHRpX3R1cm49bXVsdGlfdHVybiwKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG1hdGNoID0gTWF0Y2hQYWlyKAogICAgICAgICAgICAgICAgICAgIGRpY3QocSksIG1fMSwgbV8yLCBhXzEsIGFfMiwganVkZ2UsIG11bHRpX3R1cm49bXVsdGlfdHVybgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICBtYXRjaGVzLmFwcGVuZChtYXRjaCkKICAgIHJldHVybiBtYXRjaGVzCgoKZGVmIG1ha2VfbWF0Y2hfYWxsX3BhaXJzKAogICAgcXVlc3Rpb25zLAogICAgbW9kZWxzLAogICAgbW9kZWxfYW5zd2VycywKICAgIGp1ZGdlLAogICAgYmFzZWxpbmVfbW9kZWw9Tm9uZSwKICAgIHJlZl9hbnN3ZXJzPU5vbmUsCiAgICBtdWx0aV90dXJuPUZhbHNlLAopOgogICAgbWF0Y2hlcyA9IFtdCiAgICBmb3IgcSBpbiBxdWVzdGlvbnM6CiAgICAgICAgaWYgbXVsdGlfdHVybiBhbmQgbGVuKHFbInR1cm5zIl0pICE9IDI6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1vZGVscykpOgogICAgICAgICAgICBmb3IgaiBpbiByYW5nZShpICsgMSwgbGVuKG1vZGVscykpOgogICAgICAgICAgICAgICAgcV9pZCA9IHFbInF1ZXN0aW9uX2lkIl0KICAgICAgICAgICAgICAgIG1fMSA9IG1vZGVsc1tpXQogICAgICAgICAgICAgICAgbV8yID0gbW9kZWxzW2pdCiAgICAgICAgICAgICAgICBhXzEgPSBtb2RlbF9hbnN3ZXJzW21fMV1bcV9pZF0KICAgICAgICAgICAgICAgIGFfMiA9IG1vZGVsX2Fuc3dlcnNbbV8yXVtxX2lkXQogICAgICAgICAgICAgICAgaWYgcmVmX2Fuc3dlcnMgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgcmVmID0gcmVmX2Fuc3dlcnNbanVkZ2UubW9kZWxfbmFtZV1bcV9pZF0KICAgICAgICAgICAgICAgICAgICBtYXRjaCA9IE1hdGNoUGFpcigKICAgICAgICAgICAgICAgICAgICAgICAgZGljdChxKSwKICAgICAgICAgICAgICAgICAgICAgICAgbV8xLAogICAgICAgICAgICAgICAgICAgICAgICBtXzIsCiAgICAgICAgICAgICAgICAgICAgICAgIGFfMSwKICAgICAgICAgICAgICAgICAgICAgICAgYV8yLAogICAgICAgICAgICAgICAgICAgICAgICBqdWRnZSwKICAgICAgICAgICAgICAgICAgICAgICAgcmVmX2Fuc3dlcj1yZWYsCiAgICAgICAgICAgICAgICAgICAgICAgIG11bHRpX3R1cm49bXVsdGlfdHVybiwKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIG1hdGNoID0gTWF0Y2hQYWlyKAogICAgICAgICAgICAgICAgICAgICAgICBkaWN0KHEpLCBtXzEsIG1fMiwgYV8xLCBhXzIsIGp1ZGdlLCBtdWx0aV90dXJuPW11bHRpX3R1cm4KICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBtYXRjaGVzLmFwcGVuZChtYXRjaCkKICAgIHJldHVybiBtYXRjaGVzCgoKZGVmIG1ha2VfbWF0Y2hfc2luZ2xlKAogICAgcXVlc3Rpb25zLAogICAgbW9kZWxzLAogICAgbW9kZWxfYW5zd2VycywKICAgIGp1ZGdlLAogICAgYmFzZWxpbmVfbW9kZWw9Tm9uZSwKICAgIHJlZl9hbnN3ZXJzPU5vbmUsCiAgICBtdWx0aV90dXJuPUZhbHNlLAopOgogICAgbWF0Y2hlcyA9IFtdCiAgICBmb3IgcSBpbiBxdWVzdGlvbnM6CiAgICAgICAgaWYgbXVsdGlfdHVybiBhbmQgbGVuKHFbInR1cm5zIl0pICE9IDI6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG1vZGVscykpOgogICAgICAgICAgICBxX2lkID0gcVsicXVlc3Rpb25faWQiXQogICAgICAgICAgICBtID0gbW9kZWxzW2ldCiAgICAgICAgICAgIGEgPSBtb2RlbF9hbnN3ZXJzW21dW3FfaWRdCiAgICAgICAgICAgIGlmIHJlZl9hbnN3ZXJzIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgcmVmID0gcmVmX2Fuc3dlcnNbanVkZ2UubW9kZWxfbmFtZV1bcV9pZF0KICAgICAgICAgICAgICAgIG1hdGNoZXMuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgIE1hdGNoU2luZ2xlKAogICAgICAgICAgICAgICAgICAgICAgICBkaWN0KHEpLCBtLCBhLCBqdWRnZSwgcmVmX2Fuc3dlcj1yZWYsIG11bHRpX3R1cm49bXVsdGlfdHVybgogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG1hdGNoZXMuYXBwZW5kKE1hdGNoU2luZ2xlKGRpY3QocSksIG0sIGEsIGp1ZGdlLCBtdWx0aV90dXJuPW11bHRpX3R1cm4pKQogICAgcmV0dXJuIG1hdGNoZXMKCgpkZWYgbWFrZV9qdWRnZV9wYWlyd2lzZShqdWRnZV9tb2RlbCwganVkZ2VfcHJvbXB0cyk6CiAgICBqdWRnZXMgPSB7fQogICAganVkZ2VzWyJkZWZhdWx0Il0gPSBKdWRnZShqdWRnZV9tb2RlbCwganVkZ2VfcHJvbXB0c1sicGFpci12MiJdKQogICAganVkZ2VzWyJtYXRoIl0gPSBKdWRnZShqdWRnZV9tb2RlbCwganVkZ2VfcHJvbXB0c1sicGFpci1tYXRoLXYxIl0sIHJlZl9iYXNlZD1UcnVlKQogICAganVkZ2VzWyJkZWZhdWx0LW10Il0gPSBKdWRnZSgKICAgICAgICBqdWRnZV9tb2RlbCwganVkZ2VfcHJvbXB0c1sicGFpci12Mi1tdWx0aS10dXJuIl0sIG11bHRpX3R1cm49VHJ1ZQogICAgKQogICAganVkZ2VzWyJtYXRoLW10Il0gPSBKdWRnZSgKICAgICAgICBqdWRnZV9tb2RlbCwKICAgICAgICBqdWRnZV9wcm9tcHRzWyJwYWlyLW1hdGgtdjEtbXVsdGktdHVybiJdLAogICAgICAgIHJlZl9iYXNlZD1UcnVlLAogICAgICAgIG11bHRpX3R1cm49VHJ1ZSwKICAgICkKICAgIHJldHVybiBqdWRnZXMKCgpkZWYgbWFrZV9qdWRnZV9zaW5nbGUoanVkZ2VfbW9kZWwsIGp1ZGdlX3Byb21wdHMpOgogICAganVkZ2VzID0ge30KICAgIGp1ZGdlc1siZGVmYXVsdCJdID0gSnVkZ2UoanVkZ2VfbW9kZWwsIGp1ZGdlX3Byb21wdHNbInNpbmdsZS12MSJdKQogICAganVkZ2VzWyJtYXRoIl0gPSBKdWRnZShqdWRnZV9tb2RlbCwganVkZ2VfcHJvbXB0c1sic2luZ2xlLW1hdGgtdjEiXSwgcmVmX2Jhc2VkPVRydWUpCiAgICBqdWRnZXNbImRlZmF1bHQtbXQiXSA9IEp1ZGdlKAogICAgICAgIGp1ZGdlX21vZGVsLCBqdWRnZV9wcm9tcHRzWyJzaW5nbGUtdjEtbXVsdGktdHVybiJdLCBtdWx0aV90dXJuPVRydWUKICAgICkKICAgIGp1ZGdlc1sibWF0aC1tdCJdID0gSnVkZ2UoCiAgICAgICAganVkZ2VfbW9kZWwsCiAgICAgICAganVkZ2VfcHJvbXB0c1sic2luZ2xlLW1hdGgtdjEtbXVsdGktdHVybiJdLAogICAgICAgIHJlZl9iYXNlZD1UcnVlLAogICAgICAgIG11bHRpX3R1cm49VHJ1ZSwKICAgICkKICAgIHJldHVybiBqdWRnZXMKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1iZW5jaC1uYW1lIiwKICAgICAgICB0eXBlPXN0ciwKICAgICAgICBkZWZhdWx0PSJtdF9iZW5jaCIsCiAgICAgICAgaGVscD0iVGhlIG5hbWUgb2YgdGhlIGJlbmNobWFyayBxdWVzdGlvbiBzZXQuIiwKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tanVkZ2UtZmlsZSIsCiAgICAgICAgdHlwZT1zdHIsCiAgICAgICAgZGVmYXVsdD0iZGF0YS9qdWRnZV9wcm9tcHRzLmpzb25sIiwKICAgICAgICBoZWxwPSJUaGUgZmlsZSBvZiBqdWRnZSBwcm9tcHRzLiIsCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWp1ZGdlLW1vZGVsIiwgdHlwZT1zdHIsIGRlZmF1bHQ9ImdwdC00IikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tYmFzZWxpbmUtbW9kZWwiLCB0eXBlPXN0ciwgZGVmYXVsdD0iZ3B0LTMuNS10dXJibyIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLW1vZGUiLAogICAgICAgIHR5cGU9c3RyLAogICAgICAgIGRlZmF1bHQ9InNpbmdsZSIsCiAgICAgICAgY2hvaWNlcz1bInBhaXJ3aXNlLWJhc2VsaW5lIiwgInBhaXJ3aXNlLWFsbCIsICJzaW5nbGUiXSwKICAgICAgICBoZWxwPSgKICAgICAgICAgICAgIkV2YWx1YXRpb24gbW9kZS4gIgogICAgICAgICAgICAiYHBhaXJ3aXNlLWJhc2VsaW5lYCBydW5zIHBhaXJ3aXNlIGNvbXBhcmlzaW9uIGFnYWluc3QgYSBiYXNlbGluZS4gIgogICAgICAgICAgICAiYHBhaXJ3aXNlLWFsbGAgcnVucyBwYWlyd2lzZSBjb21wYXJpc2lvbiBiZXR3ZWVuIGFsbCBwYWlycy4gIgogICAgICAgICAgICAiYHNpbmdsZWAgcnVucyBzaW5nbGUgYW5zd2VyIGdyYWRpbmcuIgogICAgICAgICksCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLW1vZGVsLWxpc3QiLAogICAgICAgIHR5cGU9c3RyLAogICAgICAgIG5hcmdzPSIrIiwKICAgICAgICBkZWZhdWx0PU5vbmUsCiAgICAgICAgaGVscD0iQSBsaXN0IG9mIG1vZGVscyB0byBiZSBldmFsdWF0ZWQiLAogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1wYXJhbGxlbCIsIHR5cGU9aW50LCBkZWZhdWx0PTEsIGhlbHA9IlRoZSBudW1iZXIgb2YgY29uY3VycmVudCBBUEkgY2FsbHMuIgogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1maXJzdC1uIiwgdHlwZT1pbnQsIGhlbHA9IkEgZGVidWcgb3B0aW9uLiBPbmx5IHJ1biB0aGUgZmlyc3QgYG5gIGp1ZGdtZW50cy4iCiAgICApCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQoKICAgIHF1ZXN0aW9uX2ZpbGUgPSBmImRhdGEve2FyZ3MuYmVuY2hfbmFtZX0vcXVlc3Rpb24uanNvbmwiCiAgICBhbnN3ZXJfZGlyID0gZiJkYXRhL3thcmdzLmJlbmNoX25hbWV9L21vZGVsX2Fuc3dlciIKICAgIHJlZl9hbnN3ZXJfZGlyID0gZiJkYXRhL3thcmdzLmJlbmNoX25hbWV9L3JlZmVyZW5jZV9hbnN3ZXIiCgogICAgIyBMb2FkIHF1ZXN0aW9ucwogICAgcXVlc3Rpb25zID0gbG9hZF9xdWVzdGlvbnMocXVlc3Rpb25fZmlsZSwgTm9uZSwgTm9uZSkKCiAgICAjIExvYWQgYW5zd2VycwogICAgbW9kZWxfYW5zd2VycyA9IGxvYWRfbW9kZWxfYW5zd2VycyhhbnN3ZXJfZGlyKQogICAgcmVmX2Fuc3dlcnMgPSBsb2FkX21vZGVsX2Fuc3dlcnMocmVmX2Fuc3dlcl9kaXIpCgogICAgIyBMb2FkIGp1ZGdlCiAgICBqdWRnZV9wcm9tcHRzID0gbG9hZF9qdWRnZV9wcm9tcHRzKGFyZ3MuanVkZ2VfZmlsZSkKCiAgICBpZiBhcmdzLmZpcnN0X246CiAgICAgICAgcXVlc3Rpb25zID0gcXVlc3Rpb25zWzogYXJncy5maXJzdF9uXQoKICAgIGlmIGFyZ3MubW9kZWxfbGlzdCBpcyBOb25lOgogICAgICAgIG1vZGVscyA9IGdldF9tb2RlbF9saXN0KGFuc3dlcl9kaXIpCiAgICBlbHNlOgogICAgICAgIG1vZGVscyA9IGFyZ3MubW9kZWxfbGlzdAoKICAgIGlmIGFyZ3MubW9kZSA9PSAic2luZ2xlIjoKICAgICAgICBqdWRnZXMgPSBtYWtlX2p1ZGdlX3NpbmdsZShhcmdzLmp1ZGdlX21vZGVsLCBqdWRnZV9wcm9tcHRzKQogICAgICAgIHBsYXlfYV9tYXRjaF9mdW5jID0gcGxheV9hX21hdGNoX3NpbmdsZQogICAgICAgIG91dHB1dF9maWxlID0gKAogICAgICAgICAgICBmImRhdGEve2FyZ3MuYmVuY2hfbmFtZX0vbW9kZWxfanVkZ21lbnQve2FyZ3MuanVkZ2VfbW9kZWx9X3NpbmdsZS5qc29ubCIKICAgICAgICApCiAgICAgICAgbWFrZV9tYXRjaF9mdW5jID0gbWFrZV9tYXRjaF9zaW5nbGUKICAgICAgICBiYXNlbGluZV9tb2RlbCA9IE5vbmUKICAgIGVsc2U6CiAgICAgICAganVkZ2VzID0gbWFrZV9qdWRnZV9wYWlyd2lzZShhcmdzLmp1ZGdlX21vZGVsLCBqdWRnZV9wcm9tcHRzKQogICAgICAgIHBsYXlfYV9tYXRjaF9mdW5jID0gcGxheV9hX21hdGNoX3BhaXIKICAgICAgICBvdXRwdXRfZmlsZSA9ICgKICAgICAgICAgICAgZiJkYXRhL3thcmdzLmJlbmNoX25hbWV9L21vZGVsX2p1ZGdtZW50L3thcmdzLmp1ZGdlX21vZGVsfV9wYWlyLmpzb25sIgogICAgICAgICkKICAgICAgICBpZiBhcmdzLm1vZGUgPT0gInBhaXJ3aXNlLWFsbCI6CiAgICAgICAgICAgIG1ha2VfbWF0Y2hfZnVuYyA9IG1ha2VfbWF0Y2hfYWxsX3BhaXJzCiAgICAgICAgICAgIGJhc2VsaW5lX21vZGVsID0gTm9uZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG1ha2VfbWF0Y2hfZnVuYyA9IG1ha2VfbWF0Y2gKICAgICAgICAgICAgYmFzZWxpbmVfbW9kZWwgPSBhcmdzLmJhc2VsaW5lX21vZGVsCgogICAgY2hlY2tfZGF0YShxdWVzdGlvbnMsIG1vZGVsX2Fuc3dlcnMsIHJlZl9hbnN3ZXJzLCBtb2RlbHMsIGp1ZGdlcykKCiAgICBxdWVzdGlvbl9tYXRoID0gW3EgZm9yIHEgaW4gcXVlc3Rpb25zIGlmIHFbImNhdGVnb3J5Il0gaW4gTkVFRF9SRUZfQ0FUU10KICAgIHF1ZXN0aW9uX2RlZmF1bHQgPSBbcSBmb3IgcSBpbiBxdWVzdGlvbnMgaWYgcVsiY2F0ZWdvcnkiXSBub3QgaW4gTkVFRF9SRUZfQ0FUU10KCiAgICAjIE1ha2UgbWF0Y2hlcwogICAgbWF0Y2hlcyA9IFtdCiAgICBtYXRjaGVzICs9IG1ha2VfbWF0Y2hfZnVuYygKICAgICAgICBxdWVzdGlvbl9kZWZhdWx0LCBtb2RlbHMsIG1vZGVsX2Fuc3dlcnMsIGp1ZGdlc1siZGVmYXVsdCJdLCBiYXNlbGluZV9tb2RlbAogICAgKQogICAgbWF0Y2hlcyArPSBtYWtlX21hdGNoX2Z1bmMoCiAgICAgICAgcXVlc3Rpb25fbWF0aCwKICAgICAgICBtb2RlbHMsCiAgICAgICAgbW9kZWxfYW5zd2VycywKICAgICAgICBqdWRnZXNbIm1hdGgiXSwKICAgICAgICBiYXNlbGluZV9tb2RlbCwKICAgICAgICByZWZfYW5zd2VycywKICAgICkKICAgIG1hdGNoZXMgKz0gbWFrZV9tYXRjaF9mdW5jKAogICAgICAgIHF1ZXN0aW9uX2RlZmF1bHQsCiAgICAgICAgbW9kZWxzLAogICAgICAgIG1vZGVsX2Fuc3dlcnMsCiAgICAgICAganVkZ2VzWyJkZWZhdWx0LW10Il0sCiAgICAgICAgYmFzZWxpbmVfbW9kZWwsCiAgICAgICAgbXVsdGlfdHVybj1UcnVlLAogICAgKQogICAgbWF0Y2hlcyArPSBtYWtlX21hdGNoX2Z1bmMoCiAgICAgICAgcXVlc3Rpb25fbWF0aCwKICAgICAgICBtb2RlbHMsCiAgICAgICAgbW9kZWxfYW5zd2VycywKICAgICAgICBqdWRnZXNbIm1hdGgtbXQiXSwKICAgICAgICBiYXNlbGluZV9tb2RlbCwKICAgICAgICByZWZfYW5zd2VycywKICAgICAgICBtdWx0aV90dXJuPVRydWUsCiAgICApCgogICAgbWF0Y2hfc3RhdCA9IHt9CiAgICBtYXRjaF9zdGF0WyJiZW5jaF9uYW1lIl0gPSBhcmdzLmJlbmNoX25hbWUKICAgIG1hdGNoX3N0YXRbIm1vZGUiXSA9IGFyZ3MubW9kZQogICAgbWF0Y2hfc3RhdFsianVkZ2UiXSA9IGFyZ3MuanVkZ2VfbW9kZWwKICAgIG1hdGNoX3N0YXRbImJhc2VsaW5lIl0gPSBiYXNlbGluZV9tb2RlbAogICAgbWF0Y2hfc3RhdFsibW9kZWxfbGlzdCJdID0gbW9kZWxzCiAgICBtYXRjaF9zdGF0WyJ0b3RhbF9udW1fcXVlc3Rpb25zIl0gPSBsZW4ocXVlc3Rpb25zKQogICAgbWF0Y2hfc3RhdFsidG90YWxfbnVtX21hdGNoZXMiXSA9IGxlbihtYXRjaGVzKQogICAgbWF0Y2hfc3RhdFsib3V0cHV0X3BhdGgiXSA9IG91dHB1dF9maWxlCgogICAgIyBTaG93IG1hdGNoIHN0YXRzIGFuZCBwcm9tcHQgZW50ZXIgdG8gY29udGludWUKICAgIHByaW50KCJTdGF0czoiKQogICAgcHJpbnQoanNvbi5kdW1wcyhtYXRjaF9zdGF0LCBpbmRlbnQ9NCkpCiAgICBpbnB1dCgiUHJlc3MgRW50ZXIgdG8gY29uZmlybS4uLiIpCgogICAgIyBQbGF5IG1hdGNoZXMKICAgIGlmIGFyZ3MucGFyYWxsZWwgPT0gMToKICAgICAgICBmb3IgbWF0Y2ggaW4gdHFkbShtYXRjaGVzKToKICAgICAgICAgICAgcGxheV9hX21hdGNoX2Z1bmMobWF0Y2gsIG91dHB1dF9maWxlPW91dHB1dF9maWxlKQogICAgZWxzZToKCiAgICAgICAgZGVmIHBsYXlfYV9tYXRjaF93cmFwcGVyKG1hdGNoKToKICAgICAgICAgICAgcGxheV9hX21hdGNoX2Z1bmMobWF0Y2gsIG91dHB1dF9maWxlPW91dHB1dF9maWxlKQoKICAgICAgICBucC5yYW5kb20uc2VlZCgwKQogICAgICAgIG5wLnJhbmRvbS5zaHVmZmxlKG1hdGNoZXMpCgogICAgICAgIHdpdGggVGhyZWFkUG9vbEV4ZWN1dG9yKGFyZ3MucGFyYWxsZWwpIGFzIGV4ZWN1dG9yOgogICAgICAgICAgICBmb3IgbWF0Y2ggaW4gdHFkbSgKICAgICAgICAgICAgICAgIGV4ZWN1dG9yLm1hcChwbGF5X2FfbWF0Y2hfd3JhcHBlciwgbWF0Y2hlcyksIHRvdGFsPWxlbihtYXRjaGVzKQogICAgICAgICAgICApOgogICAgICAgICAgICAgICAgcGFzcwo=
+"""
+Usage:
+python gen_judgment.py --model-list [LIST-OF-MODEL-ID] --parallel [num-concurrent-api-call] --mode [single|pairwise-baseline|pairwise-all]
+"""
+import argparse
+from concurrent.futures import ThreadPoolExecutor
+import json
+
+import numpy as np
+from tqdm import tqdm
+
+from fastchat.llm_judge.common import (
+    load_questions,
+    load_model_answers,
+    load_judge_prompts,
+    check_data,
+    play_a_match_pair,
+    play_a_match_single,
+    get_model_list,
+    Judge,
+    MatchPair,
+    MatchSingle,
+    NEED_REF_CATS,
+)
+
+
+def make_match(
+    questions,
+    models,
+    model_answers,
+    judge,
+    baseline_model,
+    ref_answers=None,
+    multi_turn=False,
+):
+    matches = []
+    for q in questions:
+        if multi_turn and len(q["turns"]) != 2:
+            continue
+        for i in range(len(models)):
+            q_id = q["question_id"]
+            m_1 = models[i]
+            m_2 = baseline_model
+            if m_1 == m_2:
+                continue
+            a_1 = model_answers[m_1][q_id]
+            a_2 = model_answers[baseline_model][q_id]
+            if ref_answers is not None:
+                ref = ref_answers[judge.model_name][q_id]
+                match = MatchPair(
+                    dict(q),
+                    m_1,
+                    m_2,
+                    a_1,
+                    a_2,
+                    judge,
+                    ref_answer=ref,
+                    multi_turn=multi_turn,
+                )
+            else:
+                match = MatchPair(
+                    dict(q), m_1, m_2, a_1, a_2, judge, multi_turn=multi_turn
+                )
+            matches.append(match)
+    return matches
+
+
+def make_match_all_pairs(
+    questions,
+    models,
+    model_answers,
+    judge,
+    baseline_model=None,
+    ref_answers=None,
+    multi_turn=False,
+):
+    matches = []
+    for q in questions:
+        if multi_turn and len(q["turns"]) != 2:
+            continue
+        for i in range(len(models)):
+            for j in range(i + 1, len(models)):
+                q_id = q["question_id"]
+                m_1 = models[i]
+                m_2 = models[j]
+                a_1 = model_answers[m_1][q_id]
+                a_2 = model_answers[m_2][q_id]
+                if ref_answers is not None:
+                    ref = ref_answers[judge.model_name][q_id]
+                    match = MatchPair(
+                        dict(q),
+                        m_1,
+                        m_2,
+                        a_1,
+                        a_2,
+                        judge,
+                        ref_answer=ref,
+                        multi_turn=multi_turn,
+                    )
+                else:
+                    match = MatchPair(
+                        dict(q), m_1, m_2, a_1, a_2, judge, multi_turn=multi_turn
+                    )
+                matches.append(match)
+    return matches
+
+
+def make_match_single(
+    questions,
+    models,
+    model_answers,
+    judge,
+    baseline_model=None,
+    ref_answers=None,
+    multi_turn=False,
+):
+    matches = []
+    for q in questions:
+        if multi_turn and len(q["turns"]) != 2:
+            continue
+        for i in range(len(models)):
+            q_id = q["question_id"]
+            m = models[i]
+            a = model_answers[m][q_id]
+            if ref_answers is not None:
+                ref = ref_answers[judge.model_name][q_id]
+                matches.append(
+                    MatchSingle(
+                        dict(q), m, a, judge, ref_answer=ref, multi_turn=multi_turn
+                    )
+                )
+            else:
+                matches.append(MatchSingle(dict(q), m, a, judge, multi_turn=multi_turn))
+    return matches
+
+
+def make_judge_pairwise(judge_model, judge_prompts):
+    judges = {}
+    judges["default"] = Judge(judge_model, judge_prompts["pair-v2"])
+    judges["math"] = Judge(judge_model, judge_prompts["pair-math-v1"], ref_based=True)
+    judges["default-mt"] = Judge(
+        judge_model, judge_prompts["pair-v2-multi-turn"], multi_turn=True
+    )
+    judges["math-mt"] = Judge(
+        judge_model,
+        judge_prompts["pair-math-v1-multi-turn"],
+        ref_based=True,
+        multi_turn=True,
+    )
+    return judges
+
+
+def make_judge_single(judge_model, judge_prompts):
+    judges = {}
+    judges["default"] = Judge(judge_model, judge_prompts["single-v1"])
+    judges["math"] = Judge(judge_model, judge_prompts["single-math-v1"], ref_based=True)
+    judges["default-mt"] = Judge(
+        judge_model, judge_prompts["single-v1-multi-turn"], multi_turn=True
+    )
+    judges["math-mt"] = Judge(
+        judge_model,
+        judge_prompts["single-math-v1-multi-turn"],
+        ref_based=True,
+        multi_turn=True,
+    )
+    return judges
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--bench-name",
+        type=str,
+        default="mt_bench",
+        help="The name of the benchmark question set.",
+    )
+    parser.add_argument(
+        "--judge-file",
+        type=str,
+        default="data/judge_prompts.jsonl",
+        help="The file of judge prompts.",
+    )
+    parser.add_argument("--judge-model", type=str, default="gpt-4")
+    parser.add_argument("--baseline-model", type=str, default="gpt-3.5-turbo")
+    parser.add_argument(
+        "--mode",
+        type=str,
+        default="single",
+        choices=["pairwise-baseline", "pairwise-all", "single"],
+        help=(
+            "Evaluation mode. "
+            "`pairwise-baseline` runs pairwise comparision against a baseline. "
+            "`pairwise-all` runs pairwise comparision between all pairs. "
+            "`single` runs single answer grading."
+        ),
+    )
+    parser.add_argument(
+        "--model-list",
+        type=str,
+        nargs="+",
+        default=None,
+        help="A list of models to be evaluated",
+    )
+    parser.add_argument(
+        "--parallel", type=int, default=1, help="The number of concurrent API calls."
+    )
+    parser.add_argument(
+        "--first-n", type=int, help="A debug option. Only run the first `n` judgments."
+    )
+    args = parser.parse_args()
+
+    question_file = f"data/{args.bench_name}/question.jsonl"
+    answer_dir = f"data/{args.bench_name}/model_answer"
+    ref_answer_dir = f"data/{args.bench_name}/reference_answer"
+
+    # Load questions
+    questions = load_questions(question_file, None, None)
+
+    # Load answers
+    model_answers = load_model_answers(answer_dir)
+    ref_answers = load_model_answers(ref_answer_dir)
+
+    # Load judge
+    judge_prompts = load_judge_prompts(args.judge_file)
+
+    if args.first_n:
+        questions = questions[: args.first_n]
+
+    if args.model_list is None:
+        models = get_model_list(answer_dir)
+    else:
+        models = args.model_list
+
+    if args.mode == "single":
+        judges = make_judge_single(args.judge_model, judge_prompts)
+        play_a_match_func = play_a_match_single
+        output_file = (
+            f"data/{args.bench_name}/model_judgment/{args.judge_model}_single.jsonl"
+        )
+        make_match_func = make_match_single
+        baseline_model = None
+    else:
+        judges = make_judge_pairwise(args.judge_model, judge_prompts)
+        play_a_match_func = play_a_match_pair
+        output_file = (
+            f"data/{args.bench_name}/model_judgment/{args.judge_model}_pair.jsonl"
+        )
+        if args.mode == "pairwise-all":
+            make_match_func = make_match_all_pairs
+            baseline_model = None
+        else:
+            make_match_func = make_match
+            baseline_model = args.baseline_model
+
+    check_data(questions, model_answers, ref_answers, models, judges)
+
+    question_math = [q for q in questions if q["category"] in NEED_REF_CATS]
+    question_default = [q for q in questions if q["category"] not in NEED_REF_CATS]
+
+    # Make matches
+    matches = []
+    matches += make_match_func(
+        question_default, models, model_answers, judges["default"], baseline_model
+    )
+    matches += make_match_func(
+        question_math,
+        models,
+        model_answers,
+        judges["math"],
+        baseline_model,
+        ref_answers,
+    )
+    matches += make_match_func(
+        question_default,
+        models,
+        model_answers,
+        judges["default-mt"],
+        baseline_model,
+        multi_turn=True,
+    )
+    matches += make_match_func(
+        question_math,
+        models,
+        model_answers,
+        judges["math-mt"],
+        baseline_model,
+        ref_answers,
+        multi_turn=True,
+    )
+
+    match_stat = {}
+    match_stat["bench_name"] = args.bench_name
+    match_stat["mode"] = args.mode
+    match_stat["judge"] = args.judge_model
+    match_stat["baseline"] = baseline_model
+    match_stat["model_list"] = models
+    match_stat["total_num_questions"] = len(questions)
+    match_stat["total_num_matches"] = len(matches)
+    match_stat["output_path"] = output_file
+
+    # Show match stats and prompt enter to continue
+    print("Stats:")
+    print(json.dumps(match_stat, indent=4))
+    input("Press Enter to confirm...")
+
+    # Play matches
+    if args.parallel == 1:
+        for match in tqdm(matches):
+            play_a_match_func(match, output_file=output_file)
+    else:
+
+        def play_a_match_wrapper(match):
+            play_a_match_func(match, output_file=output_file)
+
+        np.random.seed(0)
+        np.random.shuffle(matches)
+
+        with ThreadPoolExecutor(args.parallel) as executor:
+            for match in tqdm(
+                executor.map(play_a_match_wrapper, matches), total=len(matches)
+            ):
+                pass

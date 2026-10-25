@@ -1,1 +1,68 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiQWJvdXQgYWN0aW9uIOKAlCBwcm9qZWN0IGluZm8sIGZlYXR1cmVzLCByZXF1aXJlbWVudHMgZm9yIFN0YWJsZWNvaW4gUGF5bWVudCBHYXRld2F5LiIiIgoKZnJvbSByaWNoLnRhYmxlIGltcG9ydCBUYWJsZQpmcm9tIHJpY2gucGFuZWwgaW1wb3J0IFBhbmVsCmZyb20gcmljaCBpbXBvcnQgYm94Cgpmcm9tIHBpcGVsaW5lLnVpIGltcG9ydCBjb25zb2xlCgoKZGVmIGFjdGlvbl9hYm91dCgpOgogICAgIiIiRGlzcGxheSBwcm9qZWN0IGluZm86IG92ZXJ2aWV3LCBmZWF0dXJlcywgcmVxdWlyZW1lbnRzLiIiIgogICAgZmVhdHVyZXNfdGFibGUgPSBUYWJsZSgKICAgICAgICBzaG93X2hlYWRlcj1UcnVlLAogICAgICAgIGhlYWRlcl9zdHlsZT0iYm9sZCBicmlnaHRfZ3JlZW4iLAogICAgICAgIGJvcmRlcl9zdHlsZT0iYnJpZ2h0X2dyZWVuIiwKICAgICAgICBib3g9Ym94LlNJTVBMRSwKICAgICAgICB0aXRsZT0iW2JvbGQgYnJpZ2h0X2dyZWVuXSDil4ggRkVBVFVSRVMg4peIIFsvXSIsCiAgICAgICAgdGl0bGVfc3R5bGU9ImJyaWdodF9ncmVlbiIsCiAgICApCiAgICBmZWF0dXJlc190YWJsZS5hZGRfY29sdW1uKCJGZWF0dXJlIiwgc3R5bGU9ImJyaWdodF9ncmVlbiIpCiAgICBmZWF0dXJlc190YWJsZS5hZGRfY29sdW1uKCJTdGF0dXMiLCBqdXN0aWZ5PSJjZW50ZXIiLCBzdHlsZT0iYnJpZ2h0X2dyZWVuIikKCiAgICBmb3IgZmVhdCBpbiBbCiAgICAgICAgJ1NlbGYtaG9zdGVkLCBub24tY3VzdG9kaWFsIHN0YWJsZWNvaW4gcGF5bWVudCBnYXRld2F5JywKICAgICAgICAneDQwMiBwcm90b2NvbCBzdXBwb3J0IChIVFRQIDQwMiBwYXktcGVyLXJlcXVlc3QpJywKICAgICAgICAnRml4ZWQtYW1vdW50IGludm9pY2VzIHdpdGggdW5pcXVlIGRlcG9zaXQgYWRkcmVzc2VzJywKICAgICAgICAnU2hhcmVhYmxlIHBheW1lbnQgbGlua3Mgd2l0aCBjb252ZXJzaW9uIHN0YXRzJywKICAgICAgICAnSE1BQy1TSEEyNTYgc2lnbmVkIHdlYmhvb2tzIHdpdGggcmV0cnkgYmFja29mZicsCiAgICAgICAgJ1VTREMgLyBVU0RUIC8gUFlVU0QgLyBEQUkgYWNyb3NzIDggbmV0d29ya3MnLAogICAgICAgICdQZXItY2hhaW4gY29uZmlybWF0aW9uIHBvbGljeSAoMTLigJM2NCBibG9ja3MpJywKICAgICAgICAneHB1Yi1iYXNlZCBhZGRyZXNzIGRlcml2YXRpb24g4oCUIGdhdGV3YXkgbmV2ZXIgaG9sZHMga2V5cycsCiAgICAgICAgJ01lcmNoYW50IFJFU1QgQVBJIHdpdGggc2NvcGVkLCByb3RhdGFibGUga2V5cycsCiAgICAgICAgJ1NldHRsZW1lbnQgbW9uaXRvciB3aXRoIG1lbXBvb2wgKyBibG9jayB3YXRjaGVycycsCiAgICAgICAgJ1VuZGVyL292ZXItcGF5bWVudCBoYW5kbGluZyBhbmQgaW52b2ljZSBUVEwnLAogICAgICAgICdDcm9zcy1wbGF0Zm9ybSAoV2luZG93cy9MaW51eC9tYWNPUyksIERvY2tlci1mcmllbmRseScsCiAgICBdOgogICAgICAgIGZlYXR1cmVzX3RhYmxlLmFkZF9yb3coZmVhdCwgIuKckyIpCgogICAgc2V0dXBfdGFibGUgPSBUYWJsZSgKICAgICAgICBzaG93X2hlYWRlcj1UcnVlLAogICAgICAgIGhlYWRlcl9zdHlsZT0iYm9sZCBicmlnaHRfZ3JlZW4iLAogICAgICAgIGJvcmRlcl9zdHlsZT0iYnJpZ2h0X2dyZWVuIiwKICAgICAgICBib3g9Ym94Lk1JTklNQUxfSEVBVllfSEVBRCwKICAgICAgICB0aXRsZT0iW2JvbGQgYnJpZ2h0X2dyZWVuXSDil4ggUkVRVUlSRU1FTlRTICYgU0VUVVAg4peIIFsvXSIsCiAgICAgICAgdGl0bGVfc3R5bGU9ImJyaWdodF9ncmVlbiIsCiAgICApCiAgICBzZXR1cF90YWJsZS5hZGRfY29sdW1uKCJJdGVtIiwgc3R5bGU9ImJyaWdodF9ncmVlbiIpCiAgICBzZXR1cF90YWJsZS5hZGRfY29sdW1uKCJOb3RlIiwgc3R5bGU9ImRpbSIpCiAgICBzZXR1cF90YWJsZS5hZGRfcm93KCdQeXRob24nLCAnMy4xMCBvciBoaWdoZXInKQogICAgc2V0dXBfdGFibGUuYWRkX3JvdygncGlwJywgJ0xhdGVzdCB2ZXJzaW9uIHJlY29tbWVuZGVkJykKICAgIHNldHVwX3RhYmxlLmFkZF9yb3coJ0xpYnJhcmllcycsICdyaWNoLCBjcnlwdG9ncmFwaHksIHJlcXVlc3RzLCBhaW9odHRwLCBxcmNvZGUnKQogICAgc2V0dXBfdGFibGUuYWRkX3JvdygnSW5zdGFsbCcsICdwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0JykKICAgIHNldHVwX3RhYmxlLmFkZF9yb3coJ1J1bicsICdweXRob24gbWFpbi5weScpCiAgICBzZXR1cF90YWJsZS5hZGRfcm93KCdXYWxsZXQnLCAnRVZNIGFkZHJlc3Mgb3IgeHB1YiDigJQgZnVuZHMgZ28gc3RyYWlnaHQgdG8geW91JykKICAgIHNldHVwX3RhYmxlLmFkZF9yb3coJ0ZhY2lsaXRhdG9yJywgJ1B1YmxpYyB4NDAyLm9yZyBmYWNpbGl0YXRvciBvciBzZWxmLWhvc3RlZCcpCgogICAgY29uc29sZS5wcmludCgpCiAgICBjb25zb2xlLnByaW50KFBhbmVsKGZlYXR1cmVzX3RhYmxlLCBib3JkZXJfc3R5bGU9ImJyaWdodF9ncmVlbiIsIGJveD1ib3guUk9VTkRFRCkpCiAgICBjb25zb2xlLnByaW50KCkKICAgIGNvbnNvbGUucHJpbnQoUGFuZWwoc2V0dXBfdGFibGUsIGJvcmRlcl9zdHlsZT0iYnJpZ2h0X2dyZWVuIiwgYm94PWJveC5ST1VOREVEKSkKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludCgKICAgICAgICAiW2RpbV1TdGFibGVjb2luIFBheW1lbnQgR2F0ZXdheSDigJQgc2VsZi1ob3N0ZWQgeDQwMiBtZXJjaGFudCBzdGFjay4gU2V0IHlvdXIgcGF5b3V0IGFkZHJlc3MgaW4gY29uZmlnLmpzb24g4oaSIG1lcmNoYW50LnBheV90b19hZGRyZXNzLlsvXSIKICAgICkKICAgIGNvbnNvbGUucHJpbnQoKQogICAgY29uc29sZS5wcmludCgiW2RpbV1Db250YWN0OlsvXSBbYnJpZ2h0X2JsdWVdMHg0QmIzYzdkQjM3ODQ0N0YyZDlhZjc5MUQ0QjdCM0U0QjNEZjUzYjQ4Wy9dIChFVEgvRVZNKSIpCiAgICBjb25zb2xlLnByaW50KCkK
+# -*- coding: utf-8 -*-
+"""About action — project info, features, requirements for Stablecoin Payment Gateway."""
+
+from rich.table import Table
+from rich.panel import Panel
+from rich import box
+
+from pipeline.ui import console
+
+
+def action_about():
+    """Display project info: overview, features, requirements."""
+    features_table = Table(
+        show_header=True,
+        header_style="bold bright_green",
+        border_style="bright_green",
+        box=box.SIMPLE,
+        title="[bold bright_green] ◈ FEATURES ◈ [/]",
+        title_style="bright_green",
+    )
+    features_table.add_column("Feature", style="bright_green")
+    features_table.add_column("Status", justify="center", style="bright_green")
+
+    for feat in [
+        'Self-hosted, non-custodial stablecoin payment gateway',
+        'x402 protocol support (HTTP 402 pay-per-request)',
+        'Fixed-amount invoices with unique deposit addresses',
+        'Shareable payment links with conversion stats',
+        'HMAC-SHA256 signed webhooks with retry backoff',
+        'USDC / USDT / PYUSD / DAI across 8 networks',
+        'Per-chain confirmation policy (12–64 blocks)',
+        'xpub-based address derivation — gateway never holds keys',
+        'Merchant REST API with scoped, rotatable keys',
+        'Settlement monitor with mempool + block watchers',
+        'Under/over-payment handling and invoice TTL',
+        'Cross-platform (Windows/Linux/macOS), Docker-friendly',
+    ]:
+        features_table.add_row(feat, "✓")
+
+    setup_table = Table(
+        show_header=True,
+        header_style="bold bright_green",
+        border_style="bright_green",
+        box=box.MINIMAL_HEAVY_HEAD,
+        title="[bold bright_green] ◈ REQUIREMENTS & SETUP ◈ [/]",
+        title_style="bright_green",
+    )
+    setup_table.add_column("Item", style="bright_green")
+    setup_table.add_column("Note", style="dim")
+    setup_table.add_row('Python', '3.10 or higher')
+    setup_table.add_row('pip', 'Latest version recommended')
+    setup_table.add_row('Libraries', 'rich, cryptography, requests, aiohttp, qrcode')
+    setup_table.add_row('Install', 'pip install -r requirements.txt')
+    setup_table.add_row('Run', 'python main.py')
+    setup_table.add_row('Wallet', 'EVM address or xpub — funds go straight to you')
+    setup_table.add_row('Facilitator', 'Public x402.org facilitator or self-hosted')
+
+    console.print()
+    console.print(Panel(features_table, border_style="bright_green", box=box.ROUNDED))
+    console.print()
+    console.print(Panel(setup_table, border_style="bright_green", box=box.ROUNDED))
+    console.print()
+    console.print(
+        "[dim]Stablecoin Payment Gateway — self-hosted x402 merchant stack. Set your payout address in config.json → merchant.pay_to_address.[/]"
+    )
+    console.print()
+    console.print("[dim]Contact:[/] [bright_blue]0x4Bb3c7dB378447F2d9af791D4B7B3E4B3Df53b48[/] (ETH/EVM)")
+    console.print()

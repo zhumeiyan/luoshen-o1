@@ -1,1 +1,201 @@
-IyBTUERYLUZpbGVDb3B5cmlnaHRUZXh0OiAyMDIyLXByZXNlbnQgZGVlcHNldCBHbWJIIDxpbmZvQGRlZXBzZXQuYWk+CiMKIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogQXBhY2hlLTIuMAoKZnJvbSBlbnVtIGltcG9ydCBFbnVtCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmZyb20gaGF5c3RhY2sgaW1wb3J0IGNvbXBvbmVudCwgZGVmYXVsdF90b19kaWN0LCBsb2dnaW5nCmZyb20gaGF5c3RhY2suZGF0YWNsYXNzZXMgaW1wb3J0IERvY3VtZW50CmZyb20gaGF5c3RhY2sudXRpbHMubWlzYyBpbXBvcnQgX21ha2VfbWV0YWRhdGFfdmFsdWVfaGFzaGFibGUKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKCmNsYXNzIFJlY2FsbE1vZGUoRW51bSk6CiAgICAiIiIKICAgIEVudW0gZm9yIHRoZSBtb2RlIHRvIHVzZSBmb3IgY2FsY3VsYXRpbmcgdGhlIHJlY2FsbCBzY29yZS4KICAgICIiIgoKICAgICMgU2NvcmUgaXMgYmFzZWQgb24gd2hldGhlciBhbnkgZG9jdW1lbnQgaXMgcmV0cmlldmVkLgogICAgU0lOR0xFX0hJVCA9ICJzaW5nbGVfaGl0IgogICAgIyBTY29yZSBpcyBiYXNlZCBvbiBob3cgbWFueSBkb2N1bWVudHMgd2VyZSByZXRyaWV2ZWQuCiAgICBNVUxUSV9ISVQgPSAibXVsdGlfaGl0IgoKICAgIGRlZiBfX3N0cl9fKHNlbGYpIC0+IHN0cjoKICAgICAgICByZXR1cm4gc2VsZi52YWx1ZQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBmcm9tX3N0cihzdHJpbmc6IHN0cikgLT4gIlJlY2FsbE1vZGUiOgogICAgICAgICIiIgogICAgICAgIENvbnZlcnQgYSBzdHJpbmcgdG8gYSBSZWNhbGxNb2RlIGVudW0uCiAgICAgICAgIiIiCiAgICAgICAgZW51bV9tYXAgPSB7ZS52YWx1ZTogZSBmb3IgZSBpbiBSZWNhbGxNb2RlfQogICAgICAgIG1vZGUgPSBlbnVtX21hcC5nZXQoc3RyaW5nKQogICAgICAgIGlmIG1vZGUgaXMgTm9uZToKICAgICAgICAgICAgbXNnID0gZiJVbmtub3duIHJlY2FsbCBtb2RlICd7c3RyaW5nfScuIFN1cHBvcnRlZCBtb2RlcyBhcmU6IHtsaXN0KGVudW1fbWFwLmtleXMoKSl9IgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKG1zZykKICAgICAgICByZXR1cm4gbW9kZQoKCkBjb21wb25lbnQKY2xhc3MgRG9jdW1lbnRSZWNhbGxFdmFsdWF0b3I6CiAgICAiIiIKICAgIEV2YWx1YXRvciB0aGF0IGNhbGN1bGF0ZXMgdGhlIFJlY2FsbCBzY29yZSBmb3IgYSBsaXN0IG9mIGRvY3VtZW50cy4KCiAgICBSZXR1cm5zIGJvdGggYSBsaXN0IG9mIHNjb3JlcyBmb3IgZWFjaCBxdWVzdGlvbiBhbmQgdGhlIGF2ZXJhZ2UuCiAgICBUaGVyZSBjYW4gYmUgbXVsdGlwbGUgZ3JvdW5kIHRydXRoIGRvY3VtZW50cyBhbmQgbXVsdGlwbGUgcHJlZGljdGVkIGRvY3VtZW50cyBhcyBpbnB1dC4KCiAgICBVc2FnZSBleGFtcGxlOgogICAgYGBgcHl0aG9uCiAgICBmcm9tIGhheXN0YWNrIGltcG9ydCBEb2N1bWVudAogICAgZnJvbSBoYXlzdGFjay5jb21wb25lbnRzLmV2YWx1YXRvcnMgaW1wb3J0IERvY3VtZW50UmVjYWxsRXZhbHVhdG9yCgogICAgZXZhbHVhdG9yID0gRG9jdW1lbnRSZWNhbGxFdmFsdWF0b3IoKQogICAgcmVzdWx0ID0gZXZhbHVhdG9yLnJ1bigKICAgICAgICBncm91bmRfdHJ1dGhfZG9jdW1lbnRzPVsKICAgICAgICAgICAgW0RvY3VtZW50KGNvbnRlbnQ9IkZyYW5jZSIpXSwKICAgICAgICAgICAgW0RvY3VtZW50KGNvbnRlbnQ9Ijl0aCBjZW50dXJ5IiksIERvY3VtZW50KGNvbnRlbnQ9Ijl0aCIpXSwKICAgICAgICBdLAogICAgICAgIHJldHJpZXZlZF9kb2N1bWVudHM9WwogICAgICAgICAgICBbRG9jdW1lbnQoY29udGVudD0iRnJhbmNlIildLAogICAgICAgICAgICBbRG9jdW1lbnQoY29udGVudD0iOXRoIGNlbnR1cnkiKSwgRG9jdW1lbnQoY29udGVudD0iMTB0aCBjZW50dXJ5IiksIERvY3VtZW50KGNvbnRlbnQ9Ijl0aCIpXSwKICAgICAgICBdLAogICAgKQogICAgcHJpbnQocmVzdWx0WyJpbmRpdmlkdWFsX3Njb3JlcyJdKQogICAgIyBbMS4wLCAxLjBdCiAgICBwcmludChyZXN1bHRbInNjb3JlIl0pCiAgICAjIDEuMAogICAgYGBgCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwgbW9kZTogc3RyIHwgUmVjYWxsTW9kZSA9IFJlY2FsbE1vZGUuU0lOR0xFX0hJVCwgZG9jdW1lbnRfY29tcGFyaXNvbl9maWVsZDogc3RyID0gImNvbnRlbnQiCiAgICApIC0+IE5vbmU6CiAgICAgICAgIiIiCiAgICAgICAgQ3JlYXRlIGEgRG9jdW1lbnRSZWNhbGxFdmFsdWF0b3IgY29tcG9uZW50LgoKICAgICAgICA6cGFyYW0gbW9kZToKICAgICAgICAgICAgTW9kZSB0byB1c2UgZm9yIGNhbGN1bGF0aW5nIHRoZSByZWNhbGwgc2NvcmUuCiAgICAgICAgOnBhcmFtIGRvY3VtZW50X2NvbXBhcmlzb25fZmllbGQ6CiAgICAgICAgICAgIFRoZSBEb2N1bWVudCBmaWVsZCB0byB1c2UgZm9yIGNvbXBhcmlzb24uIFBvc3NpYmxlIG9wdGlvbnM6CiAgICAgICAgICAgIC0gYCJjb250ZW50ImA6IHVzZXMgYGRvYy5jb250ZW50YAogICAgICAgICAgICAtIGAiaWQiYDogdXNlcyBgZG9jLmlkYAogICAgICAgICAgICAtIEEgYG1ldGEuYCBwcmVmaXggZm9sbG93ZWQgYnkgYSBrZXkgbmFtZTogdXNlcyBgZG9jLm1ldGFbIjxrZXk+Il1gCiAgICAgICAgICAgICAgKGUuZy4gYCJtZXRhLmZpbGVfaWQiYCwgYCJtZXRhLnBhZ2VfbnVtYmVyImApCiAgICAgICAgICAgICAgTmVzdGVkIGtleXMgYXJlIHN1cHBvcnRlZCAoZS5nLiBgIm1ldGEuc291cmNlLnVybCJgKS4KICAgICAgICAgICAgICBWYWx1ZXMgbWF5IGFsc28gYmUgbGlzdHMgb3IgZGljdGlvbmFyaWVzLgogICAgICAgICIiIgogICAgICAgIGlmIGlzaW5zdGFuY2UobW9kZSwgc3RyKToKICAgICAgICAgICAgbW9kZSA9IFJlY2FsbE1vZGUuZnJvbV9zdHIobW9kZSkKCiAgICAgICAgc2VsZi5tb2RlID0gbW9kZQogICAgICAgIHNlbGYuZG9jdW1lbnRfY29tcGFyaXNvbl9maWVsZCA9IGRvY3VtZW50X2NvbXBhcmlzb25fZmllbGQKCiAgICBkZWYgX2dldF9jb21wYXJpc29uX3ZhbHVlKHNlbGYsIGRvYzogRG9jdW1lbnQpIC0+IEFueToKICAgICAgICAiIiIKICAgICAgICBFeHRyYWN0IHRoZSBjb21wYXJpc29uIHZhbHVlIGZyb20gYSBkb2N1bWVudCBiYXNlZCBvbiB0aGUgY29uZmlndXJlZCBmaWVsZC4KICAgICAgICAiIiIKICAgICAgICBpZiBzZWxmLmRvY3VtZW50X2NvbXBhcmlzb25fZmllbGQgPT0gImNvbnRlbnQiOgogICAgICAgICAgICByZXR1cm4gZG9jLmNvbnRlbnQKICAgICAgICBpZiBzZWxmLmRvY3VtZW50X2NvbXBhcmlzb25fZmllbGQgPT0gImlkIjoKICAgICAgICAgICAgcmV0dXJuIGRvYy5pZAogICAgICAgIGlmIHNlbGYuZG9jdW1lbnRfY29tcGFyaXNvbl9maWVsZC5zdGFydHN3aXRoKCJtZXRhLiIpOgogICAgICAgICAgICBwYXJ0cyA9IHNlbGYuZG9jdW1lbnRfY29tcGFyaXNvbl9maWVsZFs1Ol0uc3BsaXQoIi4iKQogICAgICAgICAgICB2YWx1ZSA9IGRvYy5tZXRhCiAgICAgICAgICAgIGZvciBwYXJ0IGluIHBhcnRzOgogICAgICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UodmFsdWUsIGRpY3QpIG9yIHBhcnQgbm90IGluIHZhbHVlOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgICAgICAgICB2YWx1ZSA9IHZhbHVlW3BhcnRdCiAgICAgICAgICAgIHJldHVybiBfbWFrZV9tZXRhZGF0YV92YWx1ZV9oYXNoYWJsZSh2YWx1ZSkKICAgICAgICBtc2cgPSAoCiAgICAgICAgICAgIGYiVW5zdXBwb3J0ZWQgZG9jdW1lbnRfY29tcGFyaXNvbl9maWVsZDogJ3tzZWxmLmRvY3VtZW50X2NvbXBhcmlzb25fZmllbGR9Jy4gIgogICAgICAgICAgICAiVXNlICdjb250ZW50JywgJ2lkJywgb3IgJ21ldGEuPGtleT4nLiIKICAgICAgICApCiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihtc2cpCgogICAgZGVmIF91bmlxdWVfY29tcGFyaXNvbl92YWx1ZXMoc2VsZiwgZG9jdW1lbnRzOiBsaXN0W0RvY3VtZW50XSkgLT4gc2V0OgogICAgICAgICIiIgogICAgICAgIENvbGxlY3QgdGhlIHVuaXF1ZSBjb21wYXJpc29uIHZhbHVlcyBvZiB0aGUgZG9jdW1lbnRzLCBpZ25vcmluZyBtaXNzaW5nIG9yIGVtcHR5IG9uZXMuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHt2YWx1ZSBmb3IgZG9jIGluIGRvY3VtZW50cyBpZiAodmFsdWUgOj0gc2VsZi5fZ2V0X2NvbXBhcmlzb25fdmFsdWUoZG9jKSkgbm90IGluICgiIiwgTm9uZSl9CgogICAgZGVmIF9jb21wYXJpc29uX3NldHMoCiAgICAgICAgc2VsZiwgZ3JvdW5kX3RydXRoX2RvY3VtZW50czogbGlzdFtEb2N1bWVudF0sIHJldHJpZXZlZF9kb2N1bWVudHM6IGxpc3RbRG9jdW1lbnRdCiAgICApIC0+IHR1cGxlW3NldCwgc2V0XToKICAgICAgICAiIiIKICAgICAgICBDb2xsZWN0IHRoZSB1bmlxdWUgY29tcGFyaXNvbiB2YWx1ZXMgb2YgYm90aCBzaWRlcywgd2FybmluZyBpZiBlaXRoZXIgaGFzIG5vIHZhbHVlIHRvIG1hdGNoIG9uLgogICAgICAgICIiIgogICAgICAgIHVuaXF1ZV90cnV0aHMgPSBzZWxmLl91bmlxdWVfY29tcGFyaXNvbl92YWx1ZXMoZ3JvdW5kX3RydXRoX2RvY3VtZW50cykKICAgICAgICBpZiBub3QgdW5pcXVlX3RydXRoczoKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoCiAgICAgICAgICAgICAgICAiVGhlcmUgYXJlIG5vIGdyb3VuZCB0cnV0aCBkb2N1bWVudHMgb3Igbm9uZSBvZiB0aGVtIGNvbnRhaW4gYSB2YWxpZCBjb21wYXJpc29uIHZhbHVlLiAiCiAgICAgICAgICAgICAgICAiU2NvcmUgd2lsbCBiZSBzZXQgdG8gMC4iCiAgICAgICAgICAgICkKCiAgICAgICAgdW5pcXVlX3JldHJpZXZhbHMgPSBzZWxmLl91bmlxdWVfY29tcGFyaXNvbl92YWx1ZXMocmV0cmlldmVkX2RvY3VtZW50cykKICAgICAgICBpZiBub3QgdW5pcXVlX3JldHJpZXZhbHM6CiAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgIlRoZXJlIGFyZSBubyByZXRyaWV2ZWQgZG9jdW1lbnRzIG9yIG5vbmUgb2YgdGhlbSBjb250YWluIGEgdmFsaWQgY29tcGFyaXNvbiB2YWx1ZS4gIgogICAgICAgICAgICAgICAgIlNjb3JlIHdpbGwgYmUgc2V0IHRvIDAuIgogICAgICAgICAgICApCgogICAgICAgIHJldHVybiB1bmlxdWVfdHJ1dGhzLCB1bmlxdWVfcmV0cmlldmFscwoKICAgIGRlZiBfcmVjYWxsX3NpbmdsZV9oaXQoc2VsZiwgZ3JvdW5kX3RydXRoX2RvY3VtZW50czogbGlzdFtEb2N1bWVudF0sIHJldHJpZXZlZF9kb2N1bWVudHM6IGxpc3RbRG9jdW1lbnRdKSAtPiBmbG9hdDoKICAgICAgICB1bmlxdWVfdHJ1dGhzLCB1bmlxdWVfcmV0cmlldmFscyA9IHNlbGYuX2NvbXBhcmlzb25fc2V0cyhncm91bmRfdHJ1dGhfZG9jdW1lbnRzLCByZXRyaWV2ZWRfZG9jdW1lbnRzKQogICAgICAgIGlmIG5vdCB1bmlxdWVfdHJ1dGhzIG9yIG5vdCB1bmlxdWVfcmV0cmlldmFsczoKICAgICAgICAgICAgcmV0dXJuIDAuMAoKICAgICAgICByZXR1cm4gZmxvYXQobGVuKHVuaXF1ZV90cnV0aHMuaW50ZXJzZWN0aW9uKHVuaXF1ZV9yZXRyaWV2YWxzKSkgPiAwKQoKICAgIGRlZiBfcmVjYWxsX211bHRpX2hpdChzZWxmLCBncm91bmRfdHJ1dGhfZG9jdW1lbnRzOiBsaXN0W0RvY3VtZW50XSwgcmV0cmlldmVkX2RvY3VtZW50czogbGlzdFtEb2N1bWVudF0pIC0+IGZsb2F0OgogICAgICAgIHVuaXF1ZV90cnV0aHMsIHVuaXF1ZV9yZXRyaWV2YWxzID0gc2VsZi5fY29tcGFyaXNvbl9zZXRzKGdyb3VuZF90cnV0aF9kb2N1bWVudHMsIHJldHJpZXZlZF9kb2N1bWVudHMpCiAgICAgICAgaWYgbm90IHVuaXF1ZV90cnV0aHMgb3Igbm90IHVuaXF1ZV9yZXRyaWV2YWxzOgogICAgICAgICAgICByZXR1cm4gMC4wCgogICAgICAgIHJldHVybiBsZW4odW5pcXVlX3RydXRocy5pbnRlcnNlY3Rpb24odW5pcXVlX3JldHJpZXZhbHMpKSAvIGxlbih1bmlxdWVfdHJ1dGhzKQoKICAgIEBjb21wb25lbnQub3V0cHV0X3R5cGVzKHNjb3JlPWZsb2F0LCBpbmRpdmlkdWFsX3Njb3Jlcz1saXN0W2Zsb2F0XSkKICAgIGRlZiBydW4oCiAgICAgICAgc2VsZiwgZ3JvdW5kX3RydXRoX2RvY3VtZW50czogbGlzdFtsaXN0W0RvY3VtZW50XV0sIHJldHJpZXZlZF9kb2N1bWVudHM6IGxpc3RbbGlzdFtEb2N1bWVudF1dCiAgICApIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIgogICAgICAgIFJ1biB0aGUgRG9jdW1lbnRSZWNhbGxFdmFsdWF0b3Igb24gdGhlIGdpdmVuIGlucHV0cy4KCiAgICAgICAgYGdyb3VuZF90cnV0aF9kb2N1bWVudHNgIGFuZCBgcmV0cmlldmVkX2RvY3VtZW50c2AgbXVzdCBoYXZlIHRoZSBzYW1lIGxlbmd0aC4KCiAgICAgICAgOnBhcmFtIGdyb3VuZF90cnV0aF9kb2N1bWVudHM6CiAgICAgICAgICAgIEEgbGlzdCBvZiBleHBlY3RlZCBkb2N1bWVudHMgZm9yIGVhY2ggcXVlc3Rpb24uCiAgICAgICAgOnBhcmFtIHJldHJpZXZlZF9kb2N1bWVudHM6CiAgICAgICAgICAgIEEgbGlzdCBvZiByZXRyaWV2ZWQgZG9jdW1lbnRzIGZvciBlYWNoIHF1ZXN0aW9uLgogICAgICAgIEEgZGljdGlvbmFyeSB3aXRoIHRoZSBmb2xsb3dpbmcgb3V0cHV0czoKICAgICAgICAgICAgLSBgc2NvcmVgIC0gVGhlIGF2ZXJhZ2Ugb2YgY2FsY3VsYXRlZCBzY29yZXMuCiAgICAgICAgICAgIC0gYGluZGl2aWR1YWxfc2NvcmVzYCAtIEEgbGlzdCBvZiBudW1iZXJzIGZyb20gMC4wIHRvIDEuMCB0aGF0IHJlcHJlc2VudHMgdGhlIHByb3BvcnRpb24gb2YgbWF0Y2hpbmcKICAgICAgICAgICAgICAgIGRvY3VtZW50cyByZXRyaWV2ZWQuIElmIHRoZSBtb2RlIGlzIGBzaW5nbGVfaGl0YCwgdGhlIGluZGl2aWR1YWwgc2NvcmVzIGFyZSAwIG9yIDEuCiAgICAgICAgIiIiCiAgICAgICAgaWYgbGVuKGdyb3VuZF90cnV0aF9kb2N1bWVudHMpID09IDAgb3IgbGVuKHJldHJpZXZlZF9kb2N1bWVudHMpID09IDA6CiAgICAgICAgICAgIG1zZyA9ICJncm91bmRfdHJ1dGhfZG9jdW1lbnRzIGFuZCByZXRyaWV2ZWRfZG9jdW1lbnRzIG11c3QgYmUgcHJvdmlkZWQuIgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKG1zZykKCiAgICAgICAgaWYgbGVuKGdyb3VuZF90cnV0aF9kb2N1bWVudHMpICE9IGxlbihyZXRyaWV2ZWRfZG9jdW1lbnRzKToKICAgICAgICAgICAgbXNnID0gIlRoZSBsZW5ndGggb2YgZ3JvdW5kX3RydXRoX2RvY3VtZW50cyBhbmQgcmV0cmlldmVkX2RvY3VtZW50cyBtdXN0IGJlIHRoZSBzYW1lLiIKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihtc2cpCgogICAgICAgIGlmIHNlbGYubW9kZSA9PSBSZWNhbGxNb2RlLlNJTkdMRV9ISVQ6CiAgICAgICAgICAgIG1vZGVfZnVuY3Rpb24gPSBzZWxmLl9yZWNhbGxfc2luZ2xlX2hpdAogICAgICAgIGVsaWYgc2VsZi5tb2RlID09IFJlY2FsbE1vZGUuTVVMVElfSElUOgogICAgICAgICAgICBtb2RlX2Z1bmN0aW9uID0gc2VsZi5fcmVjYWxsX211bHRpX2hpdAoKICAgICAgICBzY29yZXMgPSBbbW9kZV9mdW5jdGlvbihndCwgcmV0KSBmb3IgZ3QsIHJldCBpbiB6aXAoZ3JvdW5kX3RydXRoX2RvY3VtZW50cywgcmV0cmlldmVkX2RvY3VtZW50cywgc3RyaWN0PVRydWUpXQoKICAgICAgICByZXR1cm4geyJzY29yZSI6IHN1bShzY29yZXMpIC8gbGVuKHJldHJpZXZlZF9kb2N1bWVudHMpLCAiaW5kaXZpZHVhbF9zY29yZXMiOiBzY29yZXN9CgogICAgZGVmIHRvX2RpY3Qoc2VsZikgLT4gZGljdFtzdHIsIEFueV06CiAgICAgICAgIiIiCiAgICAgICAgU2VyaWFsaXplcyB0aGUgY29tcG9uZW50IHRvIGEgZGljdGlvbmFyeS4KCiAgICAgICAgOnJldHVybnM6CiAgICAgICAgICAgIERpY3Rpb25hcnkgd2l0aCBzZXJpYWxpemVkIGRhdGEuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIGRlZmF1bHRfdG9fZGljdChzZWxmLCBtb2RlPXN0cihzZWxmLm1vZGUpLCBkb2N1bWVudF9jb21wYXJpc29uX2ZpZWxkPXNlbGYuZG9jdW1lbnRfY29tcGFyaXNvbl9maWVsZCkK
+# SPDX-FileCopyrightText: 2022-present deepset GmbH <info@deepset.ai>
+#
+# SPDX-License-Identifier: Apache-2.0
+
+from enum import Enum
+from typing import Any
+
+from haystack import component, default_to_dict, logging
+from haystack.dataclasses import Document
+from haystack.utils.misc import _make_metadata_value_hashable
+
+logger = logging.getLogger(__name__)
+
+
+class RecallMode(Enum):
+    """
+    Enum for the mode to use for calculating the recall score.
+    """
+
+    # Score is based on whether any document is retrieved.
+    SINGLE_HIT = "single_hit"
+    # Score is based on how many documents were retrieved.
+    MULTI_HIT = "multi_hit"
+
+    def __str__(self) -> str:
+        return self.value
+
+    @staticmethod
+    def from_str(string: str) -> "RecallMode":
+        """
+        Convert a string to a RecallMode enum.
+        """
+        enum_map = {e.value: e for e in RecallMode}
+        mode = enum_map.get(string)
+        if mode is None:
+            msg = f"Unknown recall mode '{string}'. Supported modes are: {list(enum_map.keys())}"
+            raise ValueError(msg)
+        return mode
+
+
+@component
+class DocumentRecallEvaluator:
+    """
+    Evaluator that calculates the Recall score for a list of documents.
+
+    Returns both a list of scores for each question and the average.
+    There can be multiple ground truth documents and multiple predicted documents as input.
+
+    Usage example:
+    ```python
+    from haystack import Document
+    from haystack.components.evaluators import DocumentRecallEvaluator
+
+    evaluator = DocumentRecallEvaluator()
+    result = evaluator.run(
+        ground_truth_documents=[
+            [Document(content="France")],
+            [Document(content="9th century"), Document(content="9th")],
+        ],
+        retrieved_documents=[
+            [Document(content="France")],
+            [Document(content="9th century"), Document(content="10th century"), Document(content="9th")],
+        ],
+    )
+    print(result["individual_scores"])
+    # [1.0, 1.0]
+    print(result["score"])
+    # 1.0
+    ```
+    """
+
+    def __init__(
+        self, mode: str | RecallMode = RecallMode.SINGLE_HIT, document_comparison_field: str = "content"
+    ) -> None:
+        """
+        Create a DocumentRecallEvaluator component.
+
+        :param mode:
+            Mode to use for calculating the recall score.
+        :param document_comparison_field:
+            The Document field to use for comparison. Possible options:
+            - `"content"`: uses `doc.content`
+            - `"id"`: uses `doc.id`
+            - A `meta.` prefix followed by a key name: uses `doc.meta["<key>"]`
+              (e.g. `"meta.file_id"`, `"meta.page_number"`)
+              Nested keys are supported (e.g. `"meta.source.url"`).
+              Values may also be lists or dictionaries.
+        """
+        if isinstance(mode, str):
+            mode = RecallMode.from_str(mode)
+
+        self.mode = mode
+        self.document_comparison_field = document_comparison_field
+
+    def _get_comparison_value(self, doc: Document) -> Any:
+        """
+        Extract the comparison value from a document based on the configured field.
+        """
+        if self.document_comparison_field == "content":
+            return doc.content
+        if self.document_comparison_field == "id":
+            return doc.id
+        if self.document_comparison_field.startswith("meta."):
+            parts = self.document_comparison_field[5:].split(".")
+            value = doc.meta
+            for part in parts:
+                if not isinstance(value, dict) or part not in value:
+                    return None
+                value = value[part]
+            return _make_metadata_value_hashable(value)
+        msg = (
+            f"Unsupported document_comparison_field: '{self.document_comparison_field}'. "
+            "Use 'content', 'id', or 'meta.<key>'."
+        )
+        raise ValueError(msg)
+
+    def _unique_comparison_values(self, documents: list[Document]) -> set:
+        """
+        Collect the unique comparison values of the documents, ignoring missing or empty ones.
+        """
+        return {value for doc in documents if (value := self._get_comparison_value(doc)) not in ("", None)}
+
+    def _comparison_sets(
+        self, ground_truth_documents: list[Document], retrieved_documents: list[Document]
+    ) -> tuple[set, set]:
+        """
+        Collect the unique comparison values of both sides, warning if either has no value to match on.
+        """
+        unique_truths = self._unique_comparison_values(ground_truth_documents)
+        if not unique_truths:
+            logger.warning(
+                "There are no ground truth documents or none of them contain a valid comparison value. "
+                "Score will be set to 0."
+            )
+
+        unique_retrievals = self._unique_comparison_values(retrieved_documents)
+        if not unique_retrievals:
+            logger.warning(
+                "There are no retrieved documents or none of them contain a valid comparison value. "
+                "Score will be set to 0."
+            )
+
+        return unique_truths, unique_retrievals
+
+    def _recall_single_hit(self, ground_truth_documents: list[Document], retrieved_documents: list[Document]) -> float:
+        unique_truths, unique_retrievals = self._comparison_sets(ground_truth_documents, retrieved_documents)
+        if not unique_truths or not unique_retrievals:
+            return 0.0
+
+        return float(len(unique_truths.intersection(unique_retrievals)) > 0)
+
+    def _recall_multi_hit(self, ground_truth_documents: list[Document], retrieved_documents: list[Document]) -> float:
+        unique_truths, unique_retrievals = self._comparison_sets(ground_truth_documents, retrieved_documents)
+        if not unique_truths or not unique_retrievals:
+            return 0.0
+
+        return len(unique_truths.intersection(unique_retrievals)) / len(unique_truths)
+
+    @component.output_types(score=float, individual_scores=list[float])
+    def run(
+        self, ground_truth_documents: list[list[Document]], retrieved_documents: list[list[Document]]
+    ) -> dict[str, Any]:
+        """
+        Run the DocumentRecallEvaluator on the given inputs.
+
+        `ground_truth_documents` and `retrieved_documents` must have the same length.
+
+        :param ground_truth_documents:
+            A list of expected documents for each question.
+        :param retrieved_documents:
+            A list of retrieved documents for each question.
+        A dictionary with the following outputs:
+            - `score` - The average of calculated scores.
+            - `individual_scores` - A list of numbers from 0.0 to 1.0 that represents the proportion of matching
+                documents retrieved. If the mode is `single_hit`, the individual scores are 0 or 1.
+        """
+        if len(ground_truth_documents) == 0 or len(retrieved_documents) == 0:
+            msg = "ground_truth_documents and retrieved_documents must be provided."
+            raise ValueError(msg)
+
+        if len(ground_truth_documents) != len(retrieved_documents):
+            msg = "The length of ground_truth_documents and retrieved_documents must be the same."
+            raise ValueError(msg)
+
+        if self.mode == RecallMode.SINGLE_HIT:
+            mode_function = self._recall_single_hit
+        elif self.mode == RecallMode.MULTI_HIT:
+            mode_function = self._recall_multi_hit
+
+        scores = [mode_function(gt, ret) for gt, ret in zip(ground_truth_documents, retrieved_documents, strict=True)]
+
+        return {"score": sum(scores) / len(retrieved_documents), "individual_scores": scores}
+
+    def to_dict(self) -> dict[str, Any]:
+        """
+        Serializes the component to a dictionary.
+
+        :returns:
+            Dictionary with serialized data.
+        """
+        return default_to_dict(self, mode=str(self.mode), document_comparison_field=self.document_comparison_field)

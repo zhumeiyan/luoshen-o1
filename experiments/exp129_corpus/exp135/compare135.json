@@ -1,1 +1,81 @@
-ewogImNvcnB1czEiOiB7CiAgImZpbGVzIjogMzQsCiAgImJ5dGVzIjogMzM0NDc0LAogICJzeW50YXgiOiA4LAogICJwZXIxayI6IDAuMDI0LAogICJwZXIiOiB7CiAgICJFbGV1dGhlckFJX19sbS1ldmFsdWF0aW9uLWhhcm5lc3NfX2xtX2V2YWxfX19pbml0X18ucHkiOiAwLAogICAiRWxldXRoZXJBSV9fbG0tZXZhbHVhdGlvbi1oYXJuZXNzX19sbV9ldmFsX19jbGlfbHMucHkiOiAwLAogICAiRWxldXRoZXJBSV9fbG0tZXZhbHVhdGlvbi1oYXJuZXNzX19sbV9ldmFsX3V0aWxzLnB5IjogMiwKICAgIlNXRS1iZW5jaF9fU1dFLWJlbmNoX19zd2ViZW5jaF9jbGlfZXZhbHVhdGUucHkiOiAwLAogICAiU1dFLWJlbmNoX19TV0UtYmVuY2hfX3N3ZWJlbmNoX2hhcm5lc3NfdXRpbHMucHkiOiAwLAogICAiU1dFLWJlbmNoX19TV0UtYmVuY2hfX3Rlc3RzX3Rlc3RfZXZhbHVhdGlvbi5weSI6IDAsCiAgICJTV0UtYmVuY2hfX1NXRS1iZW5jaF9fdGVzdHNfdGVzdF9yZXBvcnRpbmcucHkiOiAwLAogICAiVUtHb3Zlcm5tZW50QkVJU19faW5zcGVjdF9haV9fZG9jc19ldmFsc19sbG1zLnB5IjogMCwKICAgIlVLR292ZXJubWVudEJFSVNfX2luc3BlY3RfYWlfX2RvY3NfZXZhbHNfc3luYy5weSI6IDAsCiAgICJVS0dvdmVybm1lbnRCRUlTX19pbnNwZWN0X2FpX19leGFtcGxlc19zY29yZXIucHkiOiAwLAogICAiVUtHb3Zlcm5tZW50QkVJU19faW5zcGVjdF9haV9fdGVzdHNfdGVzdF9ldmFsLnB5IjogMCwKICAgImFsbGVuYWlfX29sbWVzX19vZV9ldmFsX2xhdW5jaC5weSI6IDAsCiAgICJhbGxlbmFpX19vbG1lc19fb2VfZXZhbF91dGlscy5weSI6IDAsCiAgICJhbGxlbmFpX19vbG1lc19fb2VfZXZhbF92ZXJzaW9uLnB5IjogMCwKICAgImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IjogNSwKICAgImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGVzdF90YXNrX21ldHJpY3MucHkiOiAwLAogICAiZ29vZ2xlX19CSUctYmVuY2hfX2JpZ2JlbmNoX2V2YWx1YXRlX3Rhc2sucHkiOiAwLAogICAiZ29vZ2xlX19CSUctYmVuY2hfX3NjcmlwdHNfZG9ja2VyX2V2YWx1YXRlX3Rhc2sucHkiOiAwLAogICAiaHVnZ2luZ2ZhY2VfX2xpZ2h0ZXZhbF9fc3JjX2xpZ2h0ZXZhbF9fX2luaXRfXy5weSI6IDAsCiAgICJodWdnaW5nZmFjZV9fbGlnaHRldmFsX19zcmNfbGlnaHRldmFsX19fbWFpbl9fLnB5IjogMCwKICAgImh1Z2dpbmdmYWNlX19saWdodGV2YWxfX3NyY19saWdodGV2YWxfY2xpX2FyZ3MucHkiOiAwLAogICAiaHVnZ2luZ2ZhY2VfX2xpZ2h0ZXZhbF9fc3JjX2xpZ2h0ZXZhbF9kYXRhLnB5IjogMSwKICAgIm9wZW5haV9fZXZhbHNfX2V2YWxzX2FwaS5weSI6IDAsCiAgICJvcGVuYWlfX2V2YWxzX19ldmFsc19iYXNlLnB5IjogMCwKICAgIm9wZW5haV9fZXZhbHNfX2V2YWxzX2RhdGEucHkiOiAwLAogICAib3BlbmFpX19ldmFsc19fZXZhbHNfZXZhbC5weSI6IDAsCiAgICJvcGVuYWlfX3NpbXBsZS1ldmFsc19fZHJvcF9ldmFsLnB5IjogMCwKICAgIm9wZW5haV9fc2ltcGxlLWV2YWxzX19ncHFhX2V2YWwucHkiOiAwLAogICAib3BlbmFpX19zaW1wbGUtZXZhbHNfX21hdGhfZXZhbC5weSI6IDAsCiAgICJvcGVuYWlfX3NpbXBsZS1ldmFsc19fbWdzbV9ldmFsLnB5IjogMCwKICAgInN0YW5mb3JkLWNyZm1fX2hlbG1fX3NjcmlwdHNfaGVpbV9odW1hbl9ldmFsLnB5IjogMCwKICAgInN0YW5mb3JkLWNyZm1fX2hlbG1fX3NyY19oZWxtX2JlbmNobWFya19ydW4ucHkiOiAwLAogICAic3RhbmZvcmQtY3JmbV9faGVsbV9fc3JjX2hlbG1fYmVuY2htYXJrX3J1bm5lci5weSI6IDAsCiAgICJzdGFuZm9yZC1jcmZtX19oZWxtX19zcmNfaGVsbV9iZW5jaG1hcmtfc2VydmVyLnB5IjogMAogIH0KIH0sCiAiY29ycHVzMyI6IHsKICAiZmlsZXMiOiA5LAogICJieXRlcyI6IDU1NjA5MCwKICAic3ludGF4IjogMTcsCiAgInBlcjFrIjogMC4wMzEsCiAgInBlciI6IHsKICAgIjAwX0V4cGxvZGluZ0dyYWRpZW50c19yYWdhc19zcmNfcmFnYXNfZXZhbHVhdGlvbi5weS5weSI6IDAsCiAgICIwMV9FeHBsb2RpbmdHcmFkaWVudHNfcmFnYXNfc3JjX3JhZ2FzX21ldHJpY3NfYmFzZS5weS5weSI6IDEsCiAgICIwMl9jb25maWRlbnQtYWlfZGVlcGV2YWxfZGVlcGV2YWxfZXZhbHVhdGVfZXZhbHVhdGUucHkucHkiOiAwLAogICAiMDNfY29uZmlkZW50LWFpX2RlZXBldmFsX2RlZXBldmFsX21ldHJpY3NfYmFzZV9tZXRyaWMucHkucHkiOiAwLAogICAiMDVfbWxmbG93X21sZmxvd19tbGZsb3dfbW9kZWxzX2V2YWx1YXRpb25fYmFzZS5weS5weSI6IDEsCiAgICIwNl9tbGZsb3dfbWxmbG93X21sZmxvd19ldmFsdWF0aW9uX2V2YWx1YXRpb24ucHkucHkiOiAwLAogICAiMDdfY29tZXQtbWxfb3Bpa19zZGtzX3B5dGhvbl9zcmNfb3Bpa19ldmFsdWF0aW9uX2V2YWx1YXRvci5weS5weSI6IDAsCiAgICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSI6IDE1LAogICAiMDlfYmlnY29kZS1wcm9qZWN0X2JpZ2NvZGUtZXZhbHVhdGlvbi1oYXJuZXNzX2JpZ2NvZGVfZXZhbF9ldmFsLnB5IjogMAogIH0KIH0sCiAiY29ycHVzNCI6IHsKICAiZmlsZXMiOiAxMiwKICAiYnl0ZXMiOiAxOTk2MDIsCiAgInN5bnRheCI6IDQsCiAgInBlcjFrIjogMC4wMiwKICAicGVyIjogewogICAiZmFzdGNoYXRfbGxtX2p1ZGdlX2NvbW1vbi5weSI6IDAsCiAgICJmYXN0Y2hhdF9sbG1fanVkZ2VfZ2VuX2p1ZGdtZW50LnB5IjogMCwKICAgImhheXN0YWNrX2NvbXBvbmVudHNfZXZhbHVhdG9yc19kb2N1bWVudF9yZWNhbGwucHkiOiAwLAogICAiaGF5c3RhY2tfZXZhbHVhdGlvbl9ldmFsX3J1bl9yZXN1bHQucHkiOiAwLAogICAibWV0cmljc19hY2N1cmFjeV9hY2N1cmFjeS5weSI6IDAsCiAgICJwYWNrYWdlc19waG9lbml4LWV2YWxzX3NyY19waG9lbml4X2V2YWxzX2V2YWx1YXRvcnMucHkiOiAwLAogICAicHJvbXB0YmVuY2hfbWV0cmljc19ldmFsLnB5IjogMSwKICAgInByb21wdGJlbmNoX3Byb21wdGV2YWxfbWV0aG9kcy5weSI6IDEsCiAgICJzcmNfY29yZV90cnVsZW5zX2NvcmVfdXRpbHNfZXZhbHVhdG9yLnB5IjogMCwKICAgInNyY19ldmFsdWF0ZV9ldmFsdWF0b3JfYmFzZS5weSI6IDIsCiAgICJzcmNfZXZpZGVudGx5X2xlZ2FjeV9iYXNlX21ldHJpYy5weSI6IDAsCiAgICJzcmNfdHJ1bGVuc19ldmFsX3RydWxlbnNfZXZhbF9mZWVkYmFja19ncm91bmR0cnV0aC5weSI6IDAKICB9CiB9Cn0=
+{
+ "corpus1": {
+  "files": 34,
+  "bytes": 334474,
+  "syntax": 8,
+  "per1k": 0.024,
+  "per": {
+   "EleutherAI__lm-evaluation-harness__lm_eval___init__.py": 0,
+   "EleutherAI__lm-evaluation-harness__lm_eval__cli_ls.py": 0,
+   "EleutherAI__lm-evaluation-harness__lm_eval_utils.py": 2,
+   "SWE-bench__SWE-bench__swebench_cli_evaluate.py": 0,
+   "SWE-bench__SWE-bench__swebench_harness_utils.py": 0,
+   "SWE-bench__SWE-bench__tests_test_evaluation.py": 0,
+   "SWE-bench__SWE-bench__tests_test_reporting.py": 0,
+   "UKGovernmentBEIS__inspect_ai__docs_evals_llms.py": 0,
+   "UKGovernmentBEIS__inspect_ai__docs_evals_sync.py": 0,
+   "UKGovernmentBEIS__inspect_ai__examples_scorer.py": 0,
+   "UKGovernmentBEIS__inspect_ai__tests_test_eval.py": 0,
+   "allenai__olmes__oe_eval_launch.py": 0,
+   "allenai__olmes__oe_eval_utils.py": 0,
+   "allenai__olmes__oe_eval_version.py": 0,
+   "google__BIG-bench__bigbench_api_task_metrics.py": 5,
+   "google__BIG-bench__bigbench_api_test_task_metrics.py": 0,
+   "google__BIG-bench__bigbench_evaluate_task.py": 0,
+   "google__BIG-bench__scripts_docker_evaluate_task.py": 0,
+   "huggingface__lighteval__src_lighteval___init__.py": 0,
+   "huggingface__lighteval__src_lighteval___main__.py": 0,
+   "huggingface__lighteval__src_lighteval_cli_args.py": 0,
+   "huggingface__lighteval__src_lighteval_data.py": 1,
+   "openai__evals__evals_api.py": 0,
+   "openai__evals__evals_base.py": 0,
+   "openai__evals__evals_data.py": 0,
+   "openai__evals__evals_eval.py": 0,
+   "openai__simple-evals__drop_eval.py": 0,
+   "openai__simple-evals__gpqa_eval.py": 0,
+   "openai__simple-evals__math_eval.py": 0,
+   "openai__simple-evals__mgsm_eval.py": 0,
+   "stanford-crfm__helm__scripts_heim_human_eval.py": 0,
+   "stanford-crfm__helm__src_helm_benchmark_run.py": 0,
+   "stanford-crfm__helm__src_helm_benchmark_runner.py": 0,
+   "stanford-crfm__helm__src_helm_benchmark_server.py": 0
+  }
+ },
+ "corpus3": {
+  "files": 9,
+  "bytes": 556090,
+  "syntax": 17,
+  "per1k": 0.031,
+  "per": {
+   "00_ExplodingGradients_ragas_src_ragas_evaluation.py.py": 0,
+   "01_ExplodingGradients_ragas_src_ragas_metrics_base.py.py": 1,
+   "02_confident-ai_deepeval_deepeval_evaluate_evaluate.py.py": 0,
+   "03_confident-ai_deepeval_deepeval_metrics_base_metric.py.py": 0,
+   "05_mlflow_mlflow_mlflow_models_evaluation_base.py.py": 1,
+   "06_mlflow_mlflow_mlflow_evaluation_evaluation.py.py": 0,
+   "07_comet-ml_opik_sdks_python_src_opik_evaluation_evaluator.py.py": 0,
+   "08_IBM_unitxt_src_unitxt_metrics.py.py": 15,
+   "09_bigcode-project_bigcode-evaluation-harness_bigcode_eval_eval.py": 0
+  }
+ },
+ "corpus4": {
+  "files": 12,
+  "bytes": 199602,
+  "syntax": 4,
+  "per1k": 0.02,
+  "per": {
+   "fastchat_llm_judge_common.py": 0,
+   "fastchat_llm_judge_gen_judgment.py": 0,
+   "haystack_components_evaluators_document_recall.py": 0,
+   "haystack_evaluation_eval_run_result.py": 0,
+   "metrics_accuracy_accuracy.py": 0,
+   "packages_phoenix-evals_src_phoenix_evals_evaluators.py": 0,
+   "promptbench_metrics_eval.py": 1,
+   "promptbench_prompteval_methods.py": 1,
+   "src_core_trulens_core_utils_evaluator.py": 0,
+   "src_evaluate_evaluator_base.py": 2,
+   "src_evidently_legacy_base_metric.py": 0,
+   "src_trulens_eval_trulens_eval_feedback_groundtruth.py": 0
+  }
+ }
+}

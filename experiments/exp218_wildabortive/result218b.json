@@ -1,1 +1,44 @@
-WwogIHsKICAgICJsZWFrIjogMC4wLAogICAgInBlYWsiOiAwLjE3NywKICAgICJhX21pbiI6IDEuMCwKICAgICJyZWNvdmVyIjogMTAuMwogIH0sCiAgewogICAgImxlYWsiOiAwLjA1LAogICAgInBlYWsiOiAwLjE3NywKICAgICJhX21pbiI6IDAuOTM2LAogICAgInJlY292ZXIiOiAxMC4zCiAgfSwKICB7CiAgICAibGVhayI6IDAuMSwKICAgICJwZWFrIjogMC4xNzcsCiAgICAiYV9taW4iOiAwLjkyLAogICAgInJlY292ZXIiOiAxMC4zCiAgfSwKICB7CiAgICAibGVhayI6IDAuMjUsCiAgICAicGVhayI6IDAuMTc4NSwKICAgICJhX21pbiI6IDAuODY0LAogICAgInJlY292ZXIiOiAxMS4wCiAgfSwKICB7CiAgICAibGVhayI6IDAuNSwKICAgICJwZWFrIjogMC4xNzgsCiAgICAiYV9taW4iOiAwLjcxNiwKICAgICJyZWNvdmVyIjogMTEuMAogIH0sCiAgewogICAgImxlYWsiOiAwLjc1LAogICAgInBlYWsiOiAwLjE4NjUsCiAgICAiYV9taW4iOiAwLjQ3LAogICAgInJlY292ZXIiOiA3LjcKICB9LAogIHsKICAgICJsZWFrIjogMS4wLAogICAgInBlYWsiOiAwLjYwMywKICAgICJhX21pbiI6IDAuMDUsCiAgICAicmVjb3ZlciI6IDE5LjMKICB9Cl0=
+[
+  {
+    "leak": 0.0,
+    "peak": 0.177,
+    "a_min": 1.0,
+    "recover": 10.3
+  },
+  {
+    "leak": 0.05,
+    "peak": 0.177,
+    "a_min": 0.936,
+    "recover": 10.3
+  },
+  {
+    "leak": 0.1,
+    "peak": 0.177,
+    "a_min": 0.92,
+    "recover": 10.3
+  },
+  {
+    "leak": 0.25,
+    "peak": 0.1785,
+    "a_min": 0.864,
+    "recover": 11.0
+  },
+  {
+    "leak": 0.5,
+    "peak": 0.178,
+    "a_min": 0.716,
+    "recover": 11.0
+  },
+  {
+    "leak": 0.75,
+    "peak": 0.1865,
+    "a_min": 0.47,
+    "recover": 7.7
+  },
+  {
+    "leak": 1.0,
+    "peak": 0.603,
+    "a_min": 0.05,
+    "recover": 19.3
+  }
+]

@@ -1,1 +1,209 @@
-IiIiSWQtc3BhY2UgYWRhcHRlciBvbnRvIHRoZSBleGFjdC1nZW9tZXRyeSBjbGVhcmFuY2Uga2VybmVsIChFcGljICM1NTA5LCAzZCkuCgpUaGUgbGF0dGljZSBlbmdpbmUgaXMgZGVsaWJlcmF0ZWx5ICoqZ2VvbWV0cnktb25seSBpbiBhbiBpbnRlZ2VyIG5ldC1pZApzcGFjZSoqOiBpdCBuZXZlciBzZWVzIGEgbmV0IG5hbWUgb3IgYSBuZXQgY2xhc3MgKHRoZSAjNDU5NyBkaXNjaXBsaW5lLCBhbmQKdGhlIHJlYXNvbiA6bW9kOmAucGFpcndpc2VgIGV4aXN0cyBhdCBhbGwpLiAgVGhlIFBoYXNlIDFiIGtlcm5lbAooOm1vZDpga2ljYWRfdG9vbHMucm91dGVyLmNsZWFyYW5jZV9rZXJuZWxgKSBpcyB0aGUgb3Bwb3NpdGUga2luZCBvZiBtb2R1bGUgLS0KaXQga25vd3Mgbm90aGluZyBhYm91dCBuZXRzICpvciogcnVsZXMsIG9ubHkgYWJvdXQgY29wcGVyIHNoYXBlcyBhbmQgdGhlCmRpc3RhbmNlIGJldHdlZW4gdGhlbS4gIE5laXRoZXIgY2FuIGNhbGwgdGhlIG90aGVyIGRpcmVjdGx5LCBzbyB0aGlzIG1vZHVsZSBpcwp0aGUgb25lIHBsYWNlIHdoZXJlIHRoZSB0d28gbWVldCwgYW5kIHRoZSBvbmx5IHBsYWNlIGluIHRoZSBsYXR0aWNlIHBhY2thZ2UKdGhhdCBpbXBvcnRzIHRoZSBrZXJuZWwuCgpXaGF0IHRoZSBhZGFwdGVyIG93bnMKLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiogKipTaGFwZSBwcm9qZWN0aW9uLioqICBBIGxhdHRpY2UgdHJhY2UgaXMgYSBjZW50cmVsaW5lIHBsdXMgYSBoYWxmLXdpZHRoIG9uCiAgb25lIGxheWVyICg6ZnVuYzpgdHJhY2VgKTsgYSBsYXR0aWNlIG5vZGUgcHJvYmUgYW5kIGEgY29tbWl0dGVkIHZpYSBib2R5IGFyZQogIGJvdGggZGlzY3MgKDpmdW5jOmBzaXRlYCk7IHRoZSBib2FyZCBvdXRsaW5lIGlzIGEgcG9seWxpbmUgKDpmdW5jOmBvdXRsaW5lX2VkZ2VgKS4KICBFdmVyeSBsYXR0aWNlIGNsZWFyYW5jZSBwcmVkaWNhdGUgaXMgb25lIG9mIHRoZSBwYWlycyB0aG9zZSB0aHJlZSBzaGFwZXMKICBhZG1pdCwgc28gdGhlIGtlcm5lbCdzIGZpdmUgc2hhcGUgY2xhc3NlcyByZWR1Y2UgdG8gdGhyZWUgaGVyZS4KKiAqKk5ldC1pZCBzZW1hbnRpY3MuKiogIFNhbWUtbmV0IGNvcHBlciBpcyBub3QgYW4gb2JzdGFjbGUgdG8gaXRzZWxmLCBhbmQgdGhlCiAgcGFpci1sZXZlbCBIViByZXF1aXJlbWVudCAoIzQ2MDIpIGlzIGtleWVkIGJ5IGFuICppZCogcGFpci4gIFRoZSBrZXJuZWwgaGFzCiAgbm8gbm90aW9uIG9mIGVpdGhlciwgc28gOmNsYXNzOmBMYXR0aWNlUHJvYmVgIGNhcnJpZXMgdGhlIHF1ZXJ5aW5nIG5ldCBpZAogIGJlc2lkZSB0aGUgc2hhcGUgYW5kIHRoZSBwcmVkaWNhdGUgc3RheXMgYSBwcm9wZXJ0eSBvZiB0aGUgcGFpci4KKiAqKlRoZSBjb21wYXJpc29uIHRvbGVyYW5jZS4qKiAgOmRhdGE6YExBVFRJQ0VfQ0xFQVJBTkNFX0VQU0lMT05fTU1gIGlzIHRoZQogIGxhdHRpY2UncyBvd24gbG9uZy1zdGFuZGluZyBgYDFlLTlgYCBzbGFjaywgcHJlc2VydmVkIHZlcmJhdGltLiAgSXQgaXMKICBkZWxpYmVyYXRlbHkgKipub3QqKiB0aGUga2VybmVsJ3MgYGBDTEVBUkFOQ0VfRVBTSUxPTl9NTWBgIChgYDFlLTRgYCk6IHRoaXMKICBwaGFzZSBzd2FwcyAqZ2VvbWV0cnkqLCBhbmQgYWRvcHRpbmcgYSAwLjEgdW0gbG9vc2VyIHZlcmRpY3QgdG9sZXJhbmNlIGF0CiAgdGhlIHNhbWUgdGltZSB3b3VsZCBiZSBhIGJlaGF2aW91ciBjaGFuZ2Ugd2VhcmluZyBhIHJlZmFjdG9yJ3MgY2xvdGhlcy4KICBDb2xsYXBzaW5nIHRoZSBlcHNpbG9uIGNvcGllcyBpcyBQaGFzZSA0J3Mgam9iLCBvbmNlIGV2ZXJ5IGNvbnN1bWVyIGlzIG9uCiAgdGhlIGtlcm5lbC4KCldoeSB0aGUgZ2FwcyBhcmUgZWRnZS10by1lZGdlIG5vdwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KVGhlIGxhdHRpY2UgcHJlZGljYXRlcyB1c2VkIHRvIGNvbXBhcmUgYSAqKmNlbnRyZWxpbmUqKiBkaXN0YW5jZSBhZ2FpbnN0IGEKY29tcG9zZWQgZ2FwIChgYG93bl9oYWxmICsgc3RvcmVkX2hhbGYgKyBjbGVhcmFuY2VgYCkuICBUaGUga2VybmVsIGFuc3dlcnMgdGhlCmVkZ2UtdG8tZWRnZSBxdWVzdGlvbiBkaXJlY3RseSwgc28gZWFjaCBjYWxsIHNpdGUgbm93IGNvbXBhcmVzCmBgY29wcGVyX2dhcCguLi4pYGAgYWdhaW5zdCB0aGUgKmNsZWFyYW5jZSogYWxvbmUuICBUaGUgdHdvIGZvcm1zIGFyZQphbGdlYnJhaWNhbGx5IGlkZW50aWNhbCAtLSBgYGQgLSBvd25faGFsZiAtIHN0b3JlZF9oYWxmID49IGNscmBgIGlzCmBgZCA+PSBvd25faGFsZiArIHN0b3JlZF9oYWxmICsgY2xyYGAgLS0gc28gbm8gdmVyZGljdCBtb3ZlcyBleGNlcHQgYnkKZmxvYXRpbmctcG9pbnQgbm9pc2UgZmFyIGJlbG93IHRoZSBgYDFlLTlgYCBzbGFjay4KClRoZSBrZXJuZWwncyBgYHNlZ21lbnRfdG9fc2VnbWVudF9kaXN0YW5jZWBgIGFsc28gZGlmZmVycyBmcm9tCmBgbGF0dGljZS5nZW9tZXRyeS5zZWdfc2VnX2Rpc3RgYCBpbiBvbmUgZGVnZW5lcmF0ZSBjYXNlOiB3aGVyZSBhbiBlbmRwb2ludApsaWVzIGV4YWN0bHkgb24gdGhlIG90aGVyIHNlZ21lbnQncyBzdXBwb3J0aW5nIGxpbmUsIHRoZSBsYXR0aWNlJ3MKYGAobyA+IDApICE9IChvID4gMClgYCBzdHJhZGRsZSB0ZXN0IHJlcG9ydHMgYSBjcm9zc2luZyB3aGlsZSB0aGUga2VybmVsJ3MKc3RyaWN0IHRlc3QgZG9lcyBub3QuICBUaGF0IGRpdmVyZ2VuY2UgY2Fubm90IG1vdmUgYSB2ZXJkaWN0IC0tIHdoZW5ldmVyIGl0CmZpcmVzLCB0aGUgcG9pbnQgaW4gcXVlc3Rpb24gcHJvdmFibHkgbGllcyAqb24qIHRoZSBvdGhlciBzZWdtZW50LCBzbyBib3RoCm1vZGVscyByZXR1cm4gYSB6ZXJvIGRpc3RhbmNlIGFueXdheSAoc2VlIHRoZSBhbmFseXNpcyBvbiAjNTY2MykuCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCgpmcm9tIC4uY2xlYXJhbmNlX2tlcm5lbCBpbXBvcnQgQUxMX0xBWUVSUywgS0VkZ2UsIEtQYWQsIEtTZWdtZW50LCBLU2hhcGUsIEtWaWEsIGNvcHBlcl9nYXAsIG1ha2VfcGFkCmZyb20gLmdlb21ldHJ5IGltcG9ydCBQdAoKX19hbGxfXyA9IFsKICAgICJMQVRUSUNFX0NMRUFSQU5DRV9FUFNJTE9OX01NIiwKICAgICJMYXR0aWNlUHJvYmUiLAogICAgImdhcCIsCiAgICAib3V0bGluZV9lZGdlIiwKICAgICJzYXRpc2ZpZXMiLAogICAgInNpdGUiLAogICAgInRyYWNlIiwKXQoKTEFUVElDRV9DTEVBUkFOQ0VfRVBTSUxPTl9NTSA9IDFlLTkKIiIiVGhlIGxhdHRpY2UncyBvd24gImlzIHRoaXMgZ2FwIGF0IGxlYXN0IHRoZSByZXF1aXJlbWVudCIgc2xhY2ssIHVuY2hhbmdlZC4KCkV2ZXJ5IHByZWRpY2F0ZSBpbiA6bW9kOmAub2JzdGFjbGVzYCwgOm1vZDpgLmNvdXBsZWRgIGFuZAo6bW9kOmAuZXNjYXBlX2JvdW5kYXJ5YCBjb21wYXJlZCBhZ2FpbnN0IGBgcmVxdWlyZW1lbnQgLSAxZS05YGAgYmVmb3JlIHRoaXMKcGhhc2UgYW5kIGNvbXBhcmVzIGFnYWluc3QgYGByZXF1aXJlbWVudCAtIDFlLTlgYCBhZnRlciBpdC4KIiIiCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBTaGFwZSBwcm9qZWN0aW9uIC0tIGxhdHRpY2UgY29wcGVyIGFzIGtlcm5lbCBzaGFwZXMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCgpkZWYgdHJhY2UoYTogUHQsIGI6IFB0LCBoYWxmX3dpZHRoOiBmbG9hdCwgbGF5ZXI6IGludCA9IEFMTF9MQVlFUlMpIC0+IEtTZWdtZW50OgogICAgIiIiQSByb3V0ZWQgdHJhY2U6IGNlbnRyZWxpbmUgYGBhLWJgYCwgY29wcGVyIGBgMiAqIGhhbGZfd2lkdGhgYCwgb25lIGxheWVyLgoKICAgIEFyZ3M6CiAgICAgICAgYTogQ2VudHJlbGluZSBzdGFydC4KICAgICAgICBiOiBDZW50cmVsaW5lIGVuZC4KICAgICAgICBoYWxmX3dpZHRoOiBDb3BwZXIgaGFsZi13aWR0aCBpbiBtbSAodGhlIGxhdHRpY2UncyBvd24gdW5pdCkuCiAgICAgICAgbGF5ZXI6IExhdHRpY2UgbGF5ZXIgaW5kZXgsIG9yIDpkYXRhOmBBTExfTEFZRVJTYCB3aGVuIHRoZSBjYWxsZXIgaGFzCiAgICAgICAgICAgIGFscmVhZHkgcmVzdHJpY3RlZCB0aGUgcXVlcnkgdG8gb25lIGxheWVyJ3MgY29wcGVyLgoKICAgIFJldHVybnM6CiAgICAgICAgVGhlIGtlcm5lbCBzZWdtZW50LgogICAgIiIiCiAgICByZXR1cm4gS1NlZ21lbnQoYVswXSwgYVsxXSwgYlswXSwgYlsxXSwgMi4wICogaGFsZl93aWR0aCwgbGF5ZXIpCgoKZGVmIHNpdGUocG9pbnQ6IFB0LCByYWRpdXM6IGZsb2F0KSAtPiBLVmlhOgogICAgIiIiQSBsYXR0aWNlIG5vZGUgcHJvYmUgb3IgYSBjb21taXR0ZWQgdmlhIGJvZHk6IGEgZGlzYyBvZiBgYHJhZGl1c2BgLgoKICAgIE1vZGVsbGVkIGFzIGEgOmNsYXNzOmB+a2ljYWRfdG9vbHMucm91dGVyLmNsZWFyYW5jZV9rZXJuZWwuS1ZpYWAgcmF0aGVyCiAgICB0aGFuIGEgemVyby1sZW5ndGggc2VnbWVudCBmb3IgdHdvIHJlYXNvbnMuICBBIGNvbW1pdHRlZCBsYXR0aWNlIHZpYQogICAgcmVhbGx5IGlzIGEgdGhyb3VnaC12aWEgLS0gY29wcGVyIG9uIGV2ZXJ5IGxheWVyLCB3aGljaCBpcyB3aGF0IGBgS1ZpYWBgCiAgICBtZWFucyAtLSBhbmQgYSBub2RlIHByb2JlIGlzIG9ubHkgZXZlciBhc2tlZCBhYm91dCBjb3BwZXIgdGhlIGNhbGxlciBoYXMKICAgIGFscmVhZHkgZmlsdGVyZWQgdG8gb25lIGxheWVyLCBzbyB0aGUgYWxsLWxheWVycyByZWFkaW5nIGNhbm5vdCB3aWRlbiBpdC4KICAgIFRoZSBkaXNjIGZvcm0gYWxzbyByb3V0ZXMgdGhyb3VnaCB0aGUga2VybmVsJ3MgY2hlYXBlciBwb2ludC10by1zZWdtZW50CiAgICBicmFuY2ggaW5zdGVhZCBvZiBpdHMgc2VnbWVudC10by1zZWdtZW50IG9uZS4KCiAgICBBcmdzOgogICAgICAgIHBvaW50OiBDZW50cmUuCiAgICAgICAgcmFkaXVzOiBDb3BwZXIgcmFkaXVzIGluIG1tIChhIHZpYSdzIGJvZHkgcmFkaXVzLCBvciB0aGUgcXVlcnlpbmcKICAgICAgICAgICAgY29ubmVjdGlvbidzIGhhbGYtd2lkdGggZm9yIGEgbm9kZSBzaXRlKS4KCiAgICBSZXR1cm5zOgogICAgICAgIFRoZSBrZXJuZWwgdmlhLiAgTm8gZHJpbGwgaXMgY2FycmllZDogdGhlIGxhdHRpY2UncyBob2xlLXRvLWhvbGUKICAgICAgICBmbG9vciBhcnJpdmVzIHByZS1jb21wb3NlZCBhcyBgYHNhbWVfbmV0X3ZpYV9nYXBgYCBhbmQgbmV2ZXIgYXMgYQogICAgICAgIGRyaWxsIGRpYW1ldGVyLCBzbyB0aGVyZSBpcyBub3RoaW5nIGZvciA6ZnVuYzpgaG9sZV9nYXBgIHRvIHJlYWQuCiAgICAiIiIKICAgIHJldHVybiBLVmlhKHBvaW50WzBdLCBwb2ludFsxXSwgMi4wICogcmFkaXVzKQoKCmRlZiBwYWRfb3V0bGluZSgKICAgIHNoYXBlOiBzdHIsCiAgICB3aWR0aDogZmxvYXQsCiAgICBoZWlnaHQ6IGZsb2F0LAogICAgcnJhdGlvOiBmbG9hdCwKICAgIHJvdGF0aW9uX2RlZzogZmxvYXQsCiAgICBjZW50ZXI6IFB0LAopIC0+IEtQYWQ6CiAgICAiIiJBIHBhZCdzIHJlYWwgY29wcGVyIG91dGxpbmUsIGFzIHRoZSBrZXJuZWwncyBwYWQgc2hhcGUgKElzc3VlICM3MDI0KS4KCiAgICBBIHRoaW4gZGVsZWdhdGlvbiB0byA6ZnVuYzpga2ljYWRfdG9vbHMucm91dGVyLmNsZWFyYW5jZV9rZXJuZWwubWFrZV9wYWRgCiAgICBzbyB0aGUgcGFpci1sZWcgcGFkLWVudHJ5IGNvbnRhaW5tZW50IHRlc3QgaW4gOm1vZDpgLmNvdXBsZWRgICgjNjk1OSkKICAgIHJlYWNoZXMgdGhlIGtlcm5lbCB0aHJvdWdoIHRoaXMgYWRhcHRlciAtLSB0aGUgbGF0dGljZSBwYWNrYWdlJ3Mgc2luZ2xlCiAgICBrZXJuZWwgaW1wb3J0IHNpdGUgLS0gcmF0aGVyIHRoYW4gaW1wb3J0aW5nIGl0IGRpcmVjdGx5LgogICAgIiIiCiAgICByZXR1cm4gbWFrZV9wYWQoc2hhcGUsIHdpZHRoLCBoZWlnaHQsIHJyYXRpbywgcm90YXRpb25fZGVnLCBjZW50ZXJbMF0sIGNlbnRlclsxXSkKCgpkZWYgb3V0bGluZV9lZGdlKGM6IFB0LCBkOiBQdCkgLT4gS0VkZ2U6CiAgICAiIiJPbmUgYm9hcmQtb3V0bGluZSBzZWdtZW50LCBhcyB0aGUga2VybmVsJ3Mgb3Blbi1wb2x5bGluZSBlZGdlIHNoYXBlLgoKICAgIDpjbGFzczpgfmtpY2FkX3Rvb2xzLnJvdXRlci5jbGVhcmFuY2Vfa2VybmVsLktFZGdlYCBjYXJyaWVzIGEgcG9seWxpbmUsCiAgICBidXQgOmNsYXNzOmB+LmVzY2FwZV9ib3VuZGFyeS5Fc2NhcGVCb3VuZGFyeWAgaG9sZHMgaXRzIG91dGxpbmUgYXMgYSBzZXQKICAgIG9mICp1bm9yZGVyZWQqIGVkZ2VzICh0aGV5IG5lZWQgbm90IGJlIGNvbnNlY3V0aXZlKSwgc28gZWFjaCBiZWNvbWVzIGEKICAgIHR3by12ZXJ0ZXggZWRnZSBvZiBpdHMgb3duLiAgQ29wcGVyLXRvLW91dGxpbmUgY2xlYXJhbmNlIGlzIGEgbWluaW11bSBvdmVyCiAgICB0aGUgZWRnZXMgZWl0aGVyIHdheS4KICAgICIiIgogICAgcmV0dXJuIEtFZGdlKCgoY1swXSwgY1sxXSksIChkWzBdLCBkWzFdKSkpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBQcmVkaWNhdGVzCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoKZGVmIGdhcChvd246IEtTaGFwZSwgb3RoZXI6IEtTaGFwZSkgLT4gZmxvYXQ6CiAgICAiIiJFZGdlLXRvLWVkZ2UgY29wcGVyIGdhcCBpbiBtbTsgbmVnYXRpdmUgd2hlbiB0aGUgY29wcGVyIG92ZXJsYXBzLgoKICAgIEEgdGhpbiwgbmFtZWQgZGVsZWdhdGlvbiB0bwogICAgOmZ1bmM6YGtpY2FkX3Rvb2xzLnJvdXRlci5jbGVhcmFuY2Vfa2VybmVsLmNvcHBlcl9nYXBgIHNvIGV2ZXJ5IGxhdHRpY2UKICAgIGNhbGwgc2l0ZSByZWFkcyBhcyAiYXNrIHRoZSBrZXJuZWwiIHJhdGhlciB0aGFuIGFzIGFuIGltcG9ydCBkZXRhaWwuCiAgICAiIiIKICAgIHJldHVybiBjb3BwZXJfZ2FwKG93biwgb3RoZXIpCgoKZGVmIHNhdGlzZmllcyhnYXBfbW06IGZsb2F0LCByZXF1aXJlZF9tbTogZmxvYXQpIC0+IGJvb2w6CiAgICAiIiJUcnVlIHdoZW4gYW4gYWxyZWFkeS1tZWFzdXJlZCBgYGdhcF9tbWBgIG1lZXRzIGBgcmVxdWlyZWRfbW1gYC4KCiAgICBTcGxpdCBmcm9tIDptZXRoOmBMYXR0aWNlUHJvYmUuY2xlYXJzYCBiZWNhdXNlIHRoZSAjNDYwMiBwYWlyd2lzZSB0ZXJtCiAgICB0ZXN0cyB0aGUgKnNhbWUqIGdhcCBhZ2FpbnN0IGEgc2Vjb25kLCB3aWRlciByZXF1aXJlbWVudDogbWVhc3VyaW5nIG9uY2UKICAgIGFuZCBjb21wYXJpbmcgdHdpY2UgaXMgYm90aCBmYXN0ZXIgYW5kIHByb3ZhYmx5IGNvbnNpc3RlbnQgYmV0d2VlbiB0aGUKICAgIHR3byB2ZXJkaWN0cy4KICAgICIiIgogICAgcmV0dXJuIGdhcF9tbSA+PSByZXF1aXJlZF9tbSAtIExBVFRJQ0VfQ0xFQVJBTkNFX0VQU0lMT05fTU0KCgpAZGF0YWNsYXNzKGZyb3plbj1UcnVlKQpjbGFzcyBMYXR0aWNlUHJvYmU6CiAgICAiIiJUaGUgcXVlcnlpbmcgY29wcGVyOiBhIGtlcm5lbCBzaGFwZSBwbHVzIHRoZSBuZXQgaWQgdGhhdCBvd25zIGl0LgoKICAgIEJ1aWx0IG9uY2UgcGVyIHByZWRpY2F0ZSBjYWxsIGFuZCByZXVzZWQgYWNyb3NzIHRoZSB3aG9sZSBvYnN0YWNsZSBzY2FuLAogICAgc28gdGhlIHBlci1pdGVtIGNvc3Qgc3RheXMgb25lIHNoYXBlIGNvbnN0cnVjdGlvbiBhbmQgb25lIGtlcm5lbCBxdWVyeS4KCiAgICBBdHRyaWJ1dGVzOgogICAgICAgIHNoYXBlOiBUaGUgY2FuZGlkYXRlJ3MgZ2VvbWV0cnksIGluIHRoZSBrZXJuZWwncyBzaGFwZSB2b2NhYnVsYXJ5LgogICAgICAgIG5ldDogVGhlIGNhbmRpZGF0ZSdzIGludGVnZXIgbmV0IGlkIC0tIHRoZSBsYXR0aWNlJ3Mgb3duIGlkIHNwYWNlLgogICAgIiIiCgogICAgc2hhcGU6IEtTaGFwZQogICAgbmV0OiBpbnQKCiAgICBkZWYgZ2FwKHNlbGYsIG90aGVyOiBLU2hhcGUpIC0+IGZsb2F0OgogICAgICAgICIiIkVkZ2UtdG8tZWRnZSBnYXAgaW4gbW0gYmV0d2VlbiB0aGlzIHByb2JlIGFuZCBgYG90aGVyYGAuIiIiCiAgICAgICAgcmV0dXJuIGNvcHBlcl9nYXAoc2VsZi5zaGFwZSwgb3RoZXIpCgogICAgZGVmIGNsZWFycyhzZWxmLCBvdGhlcjogS1NoYXBlLCByZXF1aXJlZF9tbTogZmxvYXQpIC0+IGJvb2w6CiAgICAgICAgIiIiVHJ1ZSB3aGVuIHRoaXMgcHJvYmUgaXMgYXQgbGVhc3QgYGByZXF1aXJlZF9tbWBgIGZyb20gYGBvdGhlcmBgLiIiIgogICAgICAgIHJldHVybiBjb3BwZXJfZ2FwKHNlbGYuc2hhcGUsIG90aGVyKSA+PSByZXF1aXJlZF9tbSAtIExBVFRJQ0VfQ0xFQVJBTkNFX0VQU0lMT05fTU0KCiAgICBkZWYgZm9yZWlnbihzZWxmLCBvdGhlcl9uZXQ6IGludCkgLT4gYm9vbDoKICAgICAgICAiIiJUcnVlIHdoZW4gYGBvdGhlcl9uZXRgYCBpcyBhIGRpZmZlcmVudCBuZXQgdGhhbiB0aGUgcHJvYmUncyBvd24uCgogICAgICAgIFRoZSBvbmUgbmV0LWlkIHJ1bGUgdGhlIGtlcm5lbCBjYW5ub3QgZXhwcmVzczogc2FtZS1uZXQgY29wcGVyIGlzCiAgICAgICAgbmV2ZXIgYSBjbGVhcmFuY2Ugb2JzdGFjbGUgdG8gaXRzZWxmLiAgQ2FsbGVycyB0aGF0IG5lZWQgdGhlICpvdGhlcioKICAgICAgICBzYW1lLW5ldCBydWxlcyAodGhlICM0MzE4IGJvZHktY3Jvc3NpbmcgY2hlY2ssIHRoZSBzYW1lLW5ldCB2aWEgZHJpbGwKICAgICAgICBmbG9vcikgYnJhbmNoIG9uIHRoaXMgdG9vLCB3aGljaCBpcyB3aHkgaXQgaXMgYSBwcmVkaWNhdGUgcmF0aGVyIHRoYW4KICAgICAgICBhbiBlYXJseSByZXR1cm4gaW5zaWRlIDptZXRoOmBjbGVhcnNgLgogICAgICAgICIiIgogICAgICAgIHJldHVybiBvdGhlcl9uZXQgIT0gc2VsZi5uZXQK
+"""Id-space adapter onto the exact-geometry clearance kernel (Epic #5509, 3d).
+
+The lattice engine is deliberately **geometry-only in an integer net-id
+space**: it never sees a net name or a net class (the #4597 discipline, and
+the reason :mod:`.pairwise` exists at all).  The Phase 1b kernel
+(:mod:`kicad_tools.router.clearance_kernel`) is the opposite kind of module --
+it knows nothing about nets *or* rules, only about copper shapes and the
+distance between them.  Neither can call the other directly, so this module is
+the one place where the two meet, and the only place in the lattice package
+that imports the kernel.
+
+What the adapter owns
+---------------------
+* **Shape projection.**  A lattice trace is a centreline plus a half-width on
+  one layer (:func:`trace`); a lattice node probe and a committed via body are
+  both discs (:func:`site`); the board outline is a polyline (:func:`outline_edge`).
+  Every lattice clearance predicate is one of the pairs those three shapes
+  admit, so the kernel's five shape classes reduce to three here.
+* **Net-id semantics.**  Same-net copper is not an obstacle to itself, and the
+  pair-level HV requirement (#4602) is keyed by an *id* pair.  The kernel has
+  no notion of either, so :class:`LatticeProbe` carries the querying net id
+  beside the shape and the predicate stays a property of the pair.
+* **The comparison tolerance.**  :data:`LATTICE_CLEARANCE_EPSILON_MM` is the
+  lattice's own long-standing ``1e-9`` slack, preserved verbatim.  It is
+  deliberately **not** the kernel's ``CLEARANCE_EPSILON_MM`` (``1e-4``): this
+  phase swaps *geometry*, and adopting a 0.1 um looser verdict tolerance at
+  the same time would be a behaviour change wearing a refactor's clothes.
+  Collapsing the epsilon copies is Phase 4's job, once every consumer is on
+  the kernel.
+
+Why the gaps are edge-to-edge now
+---------------------------------
+The lattice predicates used to compare a **centreline** distance against a
+composed gap (``own_half + stored_half + clearance``).  The kernel answers the
+edge-to-edge question directly, so each call site now compares
+``copper_gap(...)`` against the *clearance* alone.  The two forms are
+algebraically identical -- ``d - own_half - stored_half >= clr`` is
+``d >= own_half + stored_half + clr`` -- so no verdict moves except by
+floating-point noise far below the ``1e-9`` slack.
+
+The kernel's ``segment_to_segment_distance`` also differs from
+``lattice.geometry.seg_seg_dist`` in one degenerate case: where an endpoint
+lies exactly on the other segment's supporting line, the lattice's
+``(o > 0) != (o > 0)`` straddle test reports a crossing while the kernel's
+strict test does not.  That divergence cannot move a verdict -- whenever it
+fires, the point in question provably lies *on* the other segment, so both
+models return a zero distance anyway (see the analysis on #5663).
+"""
+
+from __future__ import annotations
+
+from dataclasses import dataclass
+
+from ..clearance_kernel import ALL_LAYERS, KEdge, KPad, KSegment, KShape, KVia, copper_gap, make_pad
+from .geometry import Pt
+
+__all__ = [
+    "LATTICE_CLEARANCE_EPSILON_MM",
+    "LatticeProbe",
+    "gap",
+    "outline_edge",
+    "satisfies",
+    "site",
+    "trace",
+]
+
+LATTICE_CLEARANCE_EPSILON_MM = 1e-9
+"""The lattice's own "is this gap at least the requirement" slack, unchanged.
+
+Every predicate in :mod:`.obstacles`, :mod:`.coupled` and
+:mod:`.escape_boundary` compared against ``requirement - 1e-9`` before this
+phase and compares against ``requirement - 1e-9`` after it.
+"""
+
+
+# ---------------------------------------------------------------------------
+# Shape projection -- lattice copper as kernel shapes
+# ---------------------------------------------------------------------------
+
+
+def trace(a: Pt, b: Pt, half_width: float, layer: int = ALL_LAYERS) -> KSegment:
+    """A routed trace: centreline ``a-b``, copper ``2 * half_width``, one layer.
+
+    Args:
+        a: Centreline start.
+        b: Centreline end.
+        half_width: Copper half-width in mm (the lattice's own unit).
+        layer: Lattice layer index, or :data:`ALL_LAYERS` when the caller has
+            already restricted the query to one layer's copper.
+
+    Returns:
+        The kernel segment.
+    """
+    return KSegment(a[0], a[1], b[0], b[1], 2.0 * half_width, layer)
+
+
+def site(point: Pt, radius: float) -> KVia:
+    """A lattice node probe or a committed via body: a disc of ``radius``.
+
+    Modelled as a :class:`~kicad_tools.router.clearance_kernel.KVia` rather
+    than a zero-length segment for two reasons.  A committed lattice via
+    really is a through-via -- copper on every layer, which is what ``KVia``
+    means -- and a node probe is only ever asked about copper the caller has
+    already filtered to one layer, so the all-layers reading cannot widen it.
+    The disc form also routes through the kernel's cheaper point-to-segment
+    branch instead of its segment-to-segment one.
+
+    Args:
+        point: Centre.
+        radius: Copper radius in mm (a via's body radius, or the querying
+            connection's half-width for a node site).
+
+    Returns:
+        The kernel via.  No drill is carried: the lattice's hole-to-hole
+        floor arrives pre-composed as ``same_net_via_gap`` and never as a
+        drill diameter, so there is nothing for :func:`hole_gap` to read.
+    """
+    return KVia(point[0], point[1], 2.0 * radius)
+
+
+def pad_outline(
+    shape: str,
+    width: float,
+    height: float,
+    rratio: float,
+    rotation_deg: float,
+    center: Pt,
+) -> KPad:
+    """A pad's real copper outline, as the kernel's pad shape (Issue #7024).
+
+    A thin delegation to :func:`kicad_tools.router.clearance_kernel.make_pad`
+    so the pair-leg pad-entry containment test in :mod:`.coupled` (#6959)
+    reaches the kernel through this adapter -- the lattice package's single
+    kernel import site -- rather than importing it directly.
+    """
+    return make_pad(shape, width, height, rratio, rotation_deg, center[0], center[1])
+
+
+def outline_edge(c: Pt, d: Pt) -> KEdge:
+    """One board-outline segment, as the kernel's open-polyline edge shape.
+
+    :class:`~kicad_tools.router.clearance_kernel.KEdge` carries a polyline,
+    but :class:`~.escape_boundary.EscapeBoundary` holds its outline as a set
+    of *unordered* edges (they need not be consecutive), so each becomes a
+    two-vertex edge of its own.  Copper-to-outline clearance is a minimum over
+    the edges either way.
+    """
+    return KEdge(((c[0], c[1]), (d[0], d[1])))
+
+
+# ---------------------------------------------------------------------------
+# Predicates
+# ---------------------------------------------------------------------------
+
+
+def gap(own: KShape, other: KShape) -> float:
+    """Edge-to-edge copper gap in mm; negative when the copper overlaps.
+
+    A thin, named delegation to
+    :func:`kicad_tools.router.clearance_kernel.copper_gap` so every lattice
+    call site reads as "ask the kernel" rather than as an import detail.
+    """
+    return copper_gap(own, other)
+
+
+def satisfies(gap_mm: float, required_mm: float) -> bool:
+    """True when an already-measured ``gap_mm`` meets ``required_mm``.
+
+    Split from :meth:`LatticeProbe.clears` because the #4602 pairwise term
+    tests the *same* gap against a second, wider requirement: measuring once
+    and comparing twice is both faster and provably consistent between the
+    two verdicts.
+    """
+    return gap_mm >= required_mm - LATTICE_CLEARANCE_EPSILON_MM
+
+
+@dataclass(frozen=True)
+class LatticeProbe:
+    """The querying copper: a kernel shape plus the net id that owns it.
+
+    Built once per predicate call and reused across the whole obstacle scan,
+    so the per-item cost stays one shape construction and one kernel query.
+
+    Attributes:
+        shape: The candidate's geometry, in the kernel's shape vocabulary.
+        net: The candidate's integer net id -- the lattice's own id space.
+    """
+
+    shape: KShape
+    net: int
+
+    def gap(self, other: KShape) -> float:
+        """Edge-to-edge gap in mm between this probe and ``other``."""
+        return copper_gap(self.shape, other)
+
+    def clears(self, other: KShape, required_mm: float) -> bool:
+        """True when this probe is at least ``required_mm`` from ``other``."""
+        return copper_gap(self.shape, other) >= required_mm - LATTICE_CLEARANCE_EPSILON_MM
+
+    def foreign(self, other_net: int) -> bool:
+        """True when ``other_net`` is a different net than the probe's own.
+
+        The one net-id rule the kernel cannot express: same-net copper is
+        never a clearance obstacle to itself.  Callers that need the *other*
+        same-net rules (the #4318 body-crossing check, the same-net via drill
+        floor) branch on this too, which is why it is a predicate rather than
+        an early return inside :meth:`clears`.
+        """
+        return other_net != self.net

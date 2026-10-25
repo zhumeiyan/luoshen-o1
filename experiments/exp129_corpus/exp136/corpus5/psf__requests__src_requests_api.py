@@ -1,1 +1,180 @@
-IiIiCnJlcXVlc3RzLmFwaQp+fn5+fn5+fn5+fn4KClRoaXMgbW9kdWxlIGltcGxlbWVudHMgdGhlIFJlcXVlc3RzIEFQSS4KCjpjb3B5cmlnaHQ6IChjKSAyMDEyIGJ5IEtlbm5ldGggUmVpdHouCjpsaWNlbnNlOiBBcGFjaGUyLCBzZWUgTElDRU5TRSBmb3IgbW9yZSBkZXRhaWxzLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gdHlwaW5nIGltcG9ydCBUWVBFX0NIRUNLSU5HCgpmcm9tIC4gaW1wb3J0IHNlc3Npb25zCmZyb20gLm1vZGVscyBpbXBvcnQgUmVzcG9uc2UKCmlmIFRZUEVfQ0hFQ0tJTkc6CiAgICBmcm9tIHR5cGluZ19leHRlbnNpb25zIGltcG9ydCBVbnBhY2sKCiAgICBmcm9tIC4gaW1wb3J0IF90eXBlcyBhcyBfdAoKCmRlZiByZXF1ZXN0KAogICAgbWV0aG9kOiBzdHIsIHVybDogX3QuVXJpVHlwZSwgKiprd2FyZ3M6IFVucGFja1tfdC5SZXF1ZXN0S3dhcmdzXQopIC0+IFJlc3BvbnNlOgogICAgIiIiQ29uc3RydWN0cyBhbmQgc2VuZHMgYSA6Y2xhc3M6YFJlcXVlc3QgPFJlcXVlc3Q+YC4KCiAgICA6cGFyYW0gbWV0aG9kOiBtZXRob2QgZm9yIHRoZSBuZXcgOmNsYXNzOmBSZXF1ZXN0YCBvYmplY3Q6IGBgR0VUYGAsIGBgT1BUSU9OU2BgLCBgYEhFQURgYCwgYGBQT1NUYGAsIGBgUFVUYGAsIGBgUEFUQ0hgYCwgb3IgYGBERUxFVEVgYC4KICAgIDpwYXJhbSB1cmw6IFVSTCBmb3IgdGhlIG5ldyA6Y2xhc3M6YFJlcXVlc3RgIG9iamVjdC4KICAgIDpwYXJhbSBwYXJhbXM6IChvcHRpb25hbCkgRGljdGlvbmFyeSwgbGlzdCBvZiB0dXBsZXMgb3IgYnl0ZXMgdG8gc2VuZAogICAgICAgIGluIHRoZSBxdWVyeSBzdHJpbmcgZm9yIHRoZSA6Y2xhc3M6YFJlcXVlc3RgLgogICAgOnBhcmFtIGRhdGE6IChvcHRpb25hbCkgRGljdGlvbmFyeSwgbGlzdCBvZiB0dXBsZXMsIGJ5dGVzLCBvciBmaWxlLWxpa2UKICAgICAgICBvYmplY3QgdG8gc2VuZCBpbiB0aGUgYm9keSBvZiB0aGUgOmNsYXNzOmBSZXF1ZXN0YC4KICAgIDpwYXJhbSBqc29uOiAob3B0aW9uYWwpIEEgSlNPTiBzZXJpYWxpemFibGUgUHl0aG9uIG9iamVjdCB0byBzZW5kIGluIHRoZSBib2R5IG9mIHRoZSA6Y2xhc3M6YFJlcXVlc3RgLgogICAgOnBhcmFtIGhlYWRlcnM6IChvcHRpb25hbCkgRGljdGlvbmFyeSBvZiBIVFRQIEhlYWRlcnMgdG8gc2VuZCB3aXRoIHRoZSA6Y2xhc3M6YFJlcXVlc3RgLgogICAgOnBhcmFtIGNvb2tpZXM6IChvcHRpb25hbCkgRGljdCBvciBDb29raWVKYXIgb2JqZWN0IHRvIHNlbmQgd2l0aCB0aGUgOmNsYXNzOmBSZXF1ZXN0YC4KICAgIDpwYXJhbSBmaWxlczogKG9wdGlvbmFsKSBEaWN0aW9uYXJ5IG9mIGBgJ25hbWUnOiBmaWxlLWxpa2Utb2JqZWN0c2BgIChvciBgYHsnbmFtZSc6IGZpbGUtdHVwbGV9YGApIGZvciBtdWx0aXBhcnQgZW5jb2RpbmcgdXBsb2FkLgogICAgICAgIGBgZmlsZS10dXBsZWBgIGNhbiBiZSBhIDItdHVwbGUgYGAoJ2ZpbGVuYW1lJywgZmlsZW9iailgYCwgMy10dXBsZSBgYCgnZmlsZW5hbWUnLCBmaWxlb2JqLCAnY29udGVudF90eXBlJylgYAogICAgICAgIG9yIGEgNC10dXBsZSBgYCgnZmlsZW5hbWUnLCBmaWxlb2JqLCAnY29udGVudF90eXBlJywgY3VzdG9tX2hlYWRlcnMpYGAsIHdoZXJlIGBgJ2NvbnRlbnRfdHlwZSdgYCBpcyBhIHN0cmluZwogICAgICAgIGRlZmluaW5nIHRoZSBjb250ZW50IHR5cGUgb2YgdGhlIGdpdmVuIGZpbGUgYW5kIGBgY3VzdG9tX2hlYWRlcnNgYCBhIGRpY3QtbGlrZSBvYmplY3QgY29udGFpbmluZyBhZGRpdGlvbmFsIGhlYWRlcnMKICAgICAgICB0byBhZGQgZm9yIHRoZSBmaWxlLgogICAgOnBhcmFtIGF1dGg6IChvcHRpb25hbCkgQXV0aCB0dXBsZSB0byBlbmFibGUgQmFzaWMvRGlnZXN0L0N1c3RvbSBIVFRQIEF1dGguCiAgICA6cGFyYW0gdGltZW91dDogKG9wdGlvbmFsKSBIb3cgbWFueSBzZWNvbmRzIHRvIHdhaXQgZm9yIHRoZSBzZXJ2ZXIgdG8gc2VuZCBkYXRhCiAgICAgICAgYmVmb3JlIGdpdmluZyB1cCwgYXMgYSBmbG9hdCwgb3IgYSA6cmVmOmAoY29ubmVjdCB0aW1lb3V0LCByZWFkCiAgICAgICAgdGltZW91dCkgPHRpbWVvdXRzPmAgdHVwbGUuCiAgICA6dHlwZSB0aW1lb3V0OiBmbG9hdCBvciB0dXBsZQogICAgOnBhcmFtIGFsbG93X3JlZGlyZWN0czogKG9wdGlvbmFsKSBCb29sZWFuLiBFbmFibGUvZGlzYWJsZSBHRVQvT1BUSU9OUy9QT1NUL1BVVC9QQVRDSC9ERUxFVEUvSEVBRCByZWRpcmVjdGlvbi4gRGVmYXVsdHMgdG8gYGBUcnVlYGAuCiAgICA6dHlwZSBhbGxvd19yZWRpcmVjdHM6IGJvb2wKICAgIDpwYXJhbSBwcm94aWVzOiAob3B0aW9uYWwpIERpY3Rpb25hcnkgbWFwcGluZyBwcm90b2NvbCB0byB0aGUgVVJMIG9mIHRoZSBwcm94eS4KICAgIDpwYXJhbSB2ZXJpZnk6IChvcHRpb25hbCkgRWl0aGVyIGEgYm9vbGVhbiwgaW4gd2hpY2ggY2FzZSBpdCBjb250cm9scyB3aGV0aGVyIHdlIHZlcmlmeQogICAgICAgICAgICB0aGUgc2VydmVyJ3MgVExTIGNlcnRpZmljYXRlLCBvciBhIHN0cmluZywgaW4gd2hpY2ggY2FzZSBpdCBtdXN0IGJlIGEgcGF0aAogICAgICAgICAgICB0byBhIENBIGJ1bmRsZSB0byB1c2UuIERlZmF1bHRzIHRvIGBgVHJ1ZWBgLgogICAgOnBhcmFtIHN0cmVhbTogKG9wdGlvbmFsKSBpZiBgYEZhbHNlYGAsIHRoZSByZXNwb25zZSBjb250ZW50IHdpbGwgYmUgaW1tZWRpYXRlbHkgZG93bmxvYWRlZC4KICAgIDpwYXJhbSBjZXJ0OiAob3B0aW9uYWwpIGlmIFN0cmluZywgcGF0aCB0byBzc2wgY2xpZW50IGNlcnQgZmlsZSAoLnBlbSkuIElmIFR1cGxlLCAoJ2NlcnQnLCAna2V5JykgcGFpci4KICAgIDpyZXR1cm46IDpjbGFzczpgUmVzcG9uc2UgPFJlc3BvbnNlPmAgb2JqZWN0CiAgICA6cnR5cGU6IHJlcXVlc3RzLlJlc3BvbnNlCgogICAgVXNhZ2U6OgoKICAgICAgPj4+IGltcG9ydCByZXF1ZXN0cwogICAgICA+Pj4gcmVxID0gcmVxdWVzdHMucmVxdWVzdCgnR0VUJywgJ2h0dHBzOi8vaHR0cGJpbi5vcmcvZ2V0JykKICAgICAgPj4+IHJlcQogICAgICA8UmVzcG9uc2UgWzIwMF0+CiAgICAiIiIKCiAgICAjIEJ5IHVzaW5nIHRoZSAnd2l0aCcgc3RhdGVtZW50IHdlIGFyZSBzdXJlIHRoZSBzZXNzaW9uIGlzIGNsb3NlZCwgdGh1cyB3ZQogICAgIyBhdm9pZCBsZWF2aW5nIHNvY2tldHMgb3BlbiB3aGljaCBjYW4gdHJpZ2dlciBhIFJlc291cmNlV2FybmluZyBpbiBzb21lCiAgICAjIGNhc2VzLCBhbmQgbG9vayBsaWtlIGEgbWVtb3J5IGxlYWsgaW4gb3RoZXJzLgogICAgd2l0aCBzZXNzaW9ucy5TZXNzaW9uKCkgYXMgc2Vzc2lvbjoKICAgICAgICByZXR1cm4gc2Vzc2lvbi5yZXF1ZXN0KG1ldGhvZD1tZXRob2QsIHVybD11cmwsICoqa3dhcmdzKQoKCmRlZiBnZXQoCiAgICB1cmw6IF90LlVyaVR5cGUsIHBhcmFtczogX3QuUGFyYW1zVHlwZSA9IE5vbmUsICoqa3dhcmdzOiBVbnBhY2tbX3QuR2V0S3dhcmdzXQopIC0+IFJlc3BvbnNlOgogICAgciIiIlNlbmRzIGEgR0VUIHJlcXVlc3QuCgogICAgOnBhcmFtIHVybDogVVJMIGZvciB0aGUgbmV3IDpjbGFzczpgUmVxdWVzdGAgb2JqZWN0LgogICAgOnBhcmFtIHBhcmFtczogKG9wdGlvbmFsKSBEaWN0aW9uYXJ5LCBsaXN0IG9mIHR1cGxlcyBvciBieXRlcyB0byBzZW5kCiAgICAgICAgaW4gdGhlIHF1ZXJ5IHN0cmluZyBmb3IgdGhlIDpjbGFzczpgUmVxdWVzdGAuCiAgICA6cGFyYW0gXCpcKmt3YXJnczogT3B0aW9uYWwgYXJndW1lbnRzIHRoYXQgYGByZXF1ZXN0YGAgdGFrZXMuCiAgICA6cmV0dXJuOiA6Y2xhc3M6YFJlc3BvbnNlIDxSZXNwb25zZT5gIG9iamVjdAogICAgOnJ0eXBlOiByZXF1ZXN0cy5SZXNwb25zZQogICAgIiIiCgogICAgcmV0dXJuIHJlcXVlc3QoImdldCIsIHVybCwgcGFyYW1zPXBhcmFtcywgKiprd2FyZ3MpCgoKZGVmIG9wdGlvbnModXJsOiBfdC5VcmlUeXBlLCAqKmt3YXJnczogVW5wYWNrW190LlJlcXVlc3RLd2FyZ3NdKSAtPiBSZXNwb25zZToKICAgIHIiIiJTZW5kcyBhbiBPUFRJT05TIHJlcXVlc3QuCgogICAgOnBhcmFtIHVybDogVVJMIGZvciB0aGUgbmV3IDpjbGFzczpgUmVxdWVzdGAgb2JqZWN0LgogICAgOnBhcmFtIFwqXCprd2FyZ3M6IE9wdGlvbmFsIGFyZ3VtZW50cyB0aGF0IGBgcmVxdWVzdGBgIHRha2VzLgogICAgOnJldHVybjogOmNsYXNzOmBSZXNwb25zZSA8UmVzcG9uc2U+YCBvYmplY3QKICAgIDpydHlwZTogcmVxdWVzdHMuUmVzcG9uc2UKICAgICIiIgoKICAgIHJldHVybiByZXF1ZXN0KCJvcHRpb25zIiwgdXJsLCAqKmt3YXJncykKCgpkZWYgaGVhZCh1cmw6IF90LlVyaVR5cGUsICoqa3dhcmdzOiBVbnBhY2tbX3QuUmVxdWVzdEt3YXJnc10pIC0+IFJlc3BvbnNlOgogICAgciIiIlNlbmRzIGEgSEVBRCByZXF1ZXN0LgoKICAgIDpwYXJhbSB1cmw6IFVSTCBmb3IgdGhlIG5ldyA6Y2xhc3M6YFJlcXVlc3RgIG9iamVjdC4KICAgIDpwYXJhbSBcKlwqa3dhcmdzOiBPcHRpb25hbCBhcmd1bWVudHMgdGhhdCBgYHJlcXVlc3RgYCB0YWtlcy4gSWYKICAgICAgICBgYWxsb3dfcmVkaXJlY3RzYCBpcyBub3QgcHJvdmlkZWQsIGl0IHdpbGwgYmUgc2V0IHRvIGBGYWxzZWAgKGFzCiAgICAgICAgb3Bwb3NlZCB0byB0aGUgZGVmYXVsdCA6bWV0aDpgcmVxdWVzdGAgYmVoYXZpb3IpLgogICAgOnJldHVybjogOmNsYXNzOmBSZXNwb25zZSA8UmVzcG9uc2U+YCBvYmplY3QKICAgIDpydHlwZTogcmVxdWVzdHMuUmVzcG9uc2UKICAgICIiIgoKICAgIGt3YXJncy5zZXRkZWZhdWx0KCJhbGxvd19yZWRpcmVjdHMiLCBGYWxzZSkKICAgIHJldHVybiByZXF1ZXN0KCJoZWFkIiwgdXJsLCAqKmt3YXJncykKCgpkZWYgcG9zdCgKICAgIHVybDogX3QuVXJpVHlwZSwKICAgIGRhdGE6IF90LkRhdGFUeXBlID0gTm9uZSwKICAgIGpzb246IF90Lkpzb25UeXBlID0gTm9uZSwKICAgICoqa3dhcmdzOiBVbnBhY2tbX3QuUG9zdEt3YXJnc10sCikgLT4gUmVzcG9uc2U6CiAgICByIiIiU2VuZHMgYSBQT1NUIHJlcXVlc3QuCgogICAgOnBhcmFtIHVybDogVVJMIGZvciB0aGUgbmV3IDpjbGFzczpgUmVxdWVzdGAgb2JqZWN0LgogICAgOnBhcmFtIGRhdGE6IChvcHRpb25hbCkgRGljdGlvbmFyeSwgbGlzdCBvZiB0dXBsZXMsIGJ5dGVzLCBvciBmaWxlLWxpa2UKICAgICAgICBvYmplY3QgdG8gc2VuZCBpbiB0aGUgYm9keSBvZiB0aGUgOmNsYXNzOmBSZXF1ZXN0YC4KICAgIDpwYXJhbSBqc29uOiAob3B0aW9uYWwpIEEgSlNPTiBzZXJpYWxpemFibGUgUHl0aG9uIG9iamVjdCB0byBzZW5kIGluIHRoZSBib2R5IG9mIHRoZSA6Y2xhc3M6YFJlcXVlc3RgLgogICAgOnBhcmFtIFwqXCprd2FyZ3M6IE9wdGlvbmFsIGFyZ3VtZW50cyB0aGF0IGBgcmVxdWVzdGBgIHRha2VzLgogICAgOnJldHVybjogOmNsYXNzOmBSZXNwb25zZSA8UmVzcG9uc2U+YCBvYmplY3QKICAgIDpydHlwZTogcmVxdWVzdHMuUmVzcG9uc2UKICAgICIiIgoKICAgIHJldHVybiByZXF1ZXN0KCJwb3N0IiwgdXJsLCBkYXRhPWRhdGEsIGpzb249anNvbiwgKiprd2FyZ3MpCgoKZGVmIHB1dCgKICAgIHVybDogX3QuVXJpVHlwZSwgZGF0YTogX3QuRGF0YVR5cGUgPSBOb25lLCAqKmt3YXJnczogVW5wYWNrW190LkRhdGFLd2FyZ3NdCikgLT4gUmVzcG9uc2U6CiAgICByIiIiU2VuZHMgYSBQVVQgcmVxdWVzdC4KCiAgICA6cGFyYW0gdXJsOiBVUkwgZm9yIHRoZSBuZXcgOmNsYXNzOmBSZXF1ZXN0YCBvYmplY3QuCiAgICA6cGFyYW0gZGF0YTogKG9wdGlvbmFsKSBEaWN0aW9uYXJ5LCBsaXN0IG9mIHR1cGxlcywgYnl0ZXMsIG9yIGZpbGUtbGlrZQogICAgICAgIG9iamVjdCB0byBzZW5kIGluIHRoZSBib2R5IG9mIHRoZSA6Y2xhc3M6YFJlcXVlc3RgLgogICAgOnBhcmFtIGpzb246IChvcHRpb25hbCkgQSBKU09OIHNlcmlhbGl6YWJsZSBQeXRob24gb2JqZWN0IHRvIHNlbmQgaW4gdGhlIGJvZHkgb2YgdGhlIDpjbGFzczpgUmVxdWVzdGAuCiAgICA6cGFyYW0gXCpcKmt3YXJnczogT3B0aW9uYWwgYXJndW1lbnRzIHRoYXQgYGByZXF1ZXN0YGAgdGFrZXMuCiAgICA6cmV0dXJuOiA6Y2xhc3M6YFJlc3BvbnNlIDxSZXNwb25zZT5gIG9iamVjdAogICAgOnJ0eXBlOiByZXF1ZXN0cy5SZXNwb25zZQogICAgIiIiCgogICAgcmV0dXJuIHJlcXVlc3QoInB1dCIsIHVybCwgZGF0YT1kYXRhLCAqKmt3YXJncykKCgpkZWYgcGF0Y2goCiAgICB1cmw6IF90LlVyaVR5cGUsIGRhdGE6IF90LkRhdGFUeXBlID0gTm9uZSwgKiprd2FyZ3M6IFVucGFja1tfdC5EYXRhS3dhcmdzXQopIC0+IFJlc3BvbnNlOgogICAgciIiIlNlbmRzIGEgUEFUQ0ggcmVxdWVzdC4KCiAgICA6cGFyYW0gdXJsOiBVUkwgZm9yIHRoZSBuZXcgOmNsYXNzOmBSZXF1ZXN0YCBvYmplY3QuCiAgICA6cGFyYW0gZGF0YTogKG9wdGlvbmFsKSBEaWN0aW9uYXJ5LCBsaXN0IG9mIHR1cGxlcywgYnl0ZXMsIG9yIGZpbGUtbGlrZQogICAgICAgIG9iamVjdCB0byBzZW5kIGluIHRoZSBib2R5IG9mIHRoZSA6Y2xhc3M6YFJlcXVlc3RgLgogICAgOnBhcmFtIGpzb246IChvcHRpb25hbCkgQSBKU09OIHNlcmlhbGl6YWJsZSBQeXRob24gb2JqZWN0IHRvIHNlbmQgaW4gdGhlIGJvZHkgb2YgdGhlIDpjbGFzczpgUmVxdWVzdGAuCiAgICA6cGFyYW0gXCpcKmt3YXJnczogT3B0aW9uYWwgYXJndW1lbnRzIHRoYXQgYGByZXF1ZXN0YGAgdGFrZXMuCiAgICA6cmV0dXJuOiA6Y2xhc3M6YFJlc3BvbnNlIDxSZXNwb25zZT5gIG9iamVjdAogICAgOnJ0eXBlOiByZXF1ZXN0cy5SZXNwb25zZQogICAgIiIiCgogICAgcmV0dXJuIHJlcXVlc3QoInBhdGNoIiwgdXJsLCBkYXRhPWRhdGEsICoqa3dhcmdzKQoKCmRlZiBkZWxldGUodXJsOiBfdC5VcmlUeXBlLCAqKmt3YXJnczogVW5wYWNrW190LlJlcXVlc3RLd2FyZ3NdKSAtPiBSZXNwb25zZToKICAgIHIiIiJTZW5kcyBhIERFTEVURSByZXF1ZXN0LgoKICAgIDpwYXJhbSB1cmw6IFVSTCBmb3IgdGhlIG5ldyA6Y2xhc3M6YFJlcXVlc3RgIG9iamVjdC4KICAgIDpwYXJhbSBcKlwqa3dhcmdzOiBPcHRpb25hbCBhcmd1bWVudHMgdGhhdCBgYHJlcXVlc3RgYCB0YWtlcy4KICAgIDpyZXR1cm46IDpjbGFzczpgUmVzcG9uc2UgPFJlc3BvbnNlPmAgb2JqZWN0CiAgICA6cnR5cGU6IHJlcXVlc3RzLlJlc3BvbnNlCiAgICAiIiIKCiAgICByZXR1cm4gcmVxdWVzdCgiZGVsZXRlIiwgdXJsLCAqKmt3YXJncykK
+"""
+requests.api
+~~~~~~~~~~~~
+
+This module implements the Requests API.
+
+:copyright: (c) 2012 by Kenneth Reitz.
+:license: Apache2, see LICENSE for more details.
+"""
+
+from __future__ import annotations
+
+from typing import TYPE_CHECKING
+
+from . import sessions
+from .models import Response
+
+if TYPE_CHECKING:
+    from typing_extensions import Unpack
+
+    from . import _types as _t
+
+
+def request(
+    method: str, url: _t.UriType, **kwargs: Unpack[_t.RequestKwargs]
+) -> Response:
+    """Constructs and sends a :class:`Request <Request>`.
+
+    :param method: method for the new :class:`Request` object: ``GET``, ``OPTIONS``, ``HEAD``, ``POST``, ``PUT``, ``PATCH``, or ``DELETE``.
+    :param url: URL for the new :class:`Request` object.
+    :param params: (optional) Dictionary, list of tuples or bytes to send
+        in the query string for the :class:`Request`.
+    :param data: (optional) Dictionary, list of tuples, bytes, or file-like
+        object to send in the body of the :class:`Request`.
+    :param json: (optional) A JSON serializable Python object to send in the body of the :class:`Request`.
+    :param headers: (optional) Dictionary of HTTP Headers to send with the :class:`Request`.
+    :param cookies: (optional) Dict or CookieJar object to send with the :class:`Request`.
+    :param files: (optional) Dictionary of ``'name': file-like-objects`` (or ``{'name': file-tuple}``) for multipart encoding upload.
+        ``file-tuple`` can be a 2-tuple ``('filename', fileobj)``, 3-tuple ``('filename', fileobj, 'content_type')``
+        or a 4-tuple ``('filename', fileobj, 'content_type', custom_headers)``, where ``'content_type'`` is a string
+        defining the content type of the given file and ``custom_headers`` a dict-like object containing additional headers
+        to add for the file.
+    :param auth: (optional) Auth tuple to enable Basic/Digest/Custom HTTP Auth.
+    :param timeout: (optional) How many seconds to wait for the server to send data
+        before giving up, as a float, or a :ref:`(connect timeout, read
+        timeout) <timeouts>` tuple.
+    :type timeout: float or tuple
+    :param allow_redirects: (optional) Boolean. Enable/disable GET/OPTIONS/POST/PUT/PATCH/DELETE/HEAD redirection. Defaults to ``True``.
+    :type allow_redirects: bool
+    :param proxies: (optional) Dictionary mapping protocol to the URL of the proxy.
+    :param verify: (optional) Either a boolean, in which case it controls whether we verify
+            the server's TLS certificate, or a string, in which case it must be a path
+            to a CA bundle to use. Defaults to ``True``.
+    :param stream: (optional) if ``False``, the response content will be immediately downloaded.
+    :param cert: (optional) if String, path to ssl client cert file (.pem). If Tuple, ('cert', 'key') pair.
+    :return: :class:`Response <Response>` object
+    :rtype: requests.Response
+
+    Usage::
+
+      >>> import requests
+      >>> req = requests.request('GET', 'https://httpbin.org/get')
+      >>> req
+      <Response [200]>
+    """
+
+    # By using the 'with' statement we are sure the session is closed, thus we
+    # avoid leaving sockets open which can trigger a ResourceWarning in some
+    # cases, and look like a memory leak in others.
+    with sessions.Session() as session:
+        return session.request(method=method, url=url, **kwargs)
+
+
+def get(
+    url: _t.UriType, params: _t.ParamsType = None, **kwargs: Unpack[_t.GetKwargs]
+) -> Response:
+    r"""Sends a GET request.
+
+    :param url: URL for the new :class:`Request` object.
+    :param params: (optional) Dictionary, list of tuples or bytes to send
+        in the query string for the :class:`Request`.
+    :param \*\*kwargs: Optional arguments that ``request`` takes.
+    :return: :class:`Response <Response>` object
+    :rtype: requests.Response
+    """
+
+    return request("get", url, params=params, **kwargs)
+
+
+def options(url: _t.UriType, **kwargs: Unpack[_t.RequestKwargs]) -> Response:
+    r"""Sends an OPTIONS request.
+
+    :param url: URL for the new :class:`Request` object.
+    :param \*\*kwargs: Optional arguments that ``request`` takes.
+    :return: :class:`Response <Response>` object
+    :rtype: requests.Response
+    """
+
+    return request("options", url, **kwargs)
+
+
+def head(url: _t.UriType, **kwargs: Unpack[_t.RequestKwargs]) -> Response:
+    r"""Sends a HEAD request.
+
+    :param url: URL for the new :class:`Request` object.
+    :param \*\*kwargs: Optional arguments that ``request`` takes. If
+        `allow_redirects` is not provided, it will be set to `False` (as
+        opposed to the default :meth:`request` behavior).
+    :return: :class:`Response <Response>` object
+    :rtype: requests.Response
+    """
+
+    kwargs.setdefault("allow_redirects", False)
+    return request("head", url, **kwargs)
+
+
+def post(
+    url: _t.UriType,
+    data: _t.DataType = None,
+    json: _t.JsonType = None,
+    **kwargs: Unpack[_t.PostKwargs],
+) -> Response:
+    r"""Sends a POST request.
+
+    :param url: URL for the new :class:`Request` object.
+    :param data: (optional) Dictionary, list of tuples, bytes, or file-like
+        object to send in the body of the :class:`Request`.
+    :param json: (optional) A JSON serializable Python object to send in the body of the :class:`Request`.
+    :param \*\*kwargs: Optional arguments that ``request`` takes.
+    :return: :class:`Response <Response>` object
+    :rtype: requests.Response
+    """
+
+    return request("post", url, data=data, json=json, **kwargs)
+
+
+def put(
+    url: _t.UriType, data: _t.DataType = None, **kwargs: Unpack[_t.DataKwargs]
+) -> Response:
+    r"""Sends a PUT request.
+
+    :param url: URL for the new :class:`Request` object.
+    :param data: (optional) Dictionary, list of tuples, bytes, or file-like
+        object to send in the body of the :class:`Request`.
+    :param json: (optional) A JSON serializable Python object to send in the body of the :class:`Request`.
+    :param \*\*kwargs: Optional arguments that ``request`` takes.
+    :return: :class:`Response <Response>` object
+    :rtype: requests.Response
+    """
+
+    return request("put", url, data=data, **kwargs)
+
+
+def patch(
+    url: _t.UriType, data: _t.DataType = None, **kwargs: Unpack[_t.DataKwargs]
+) -> Response:
+    r"""Sends a PATCH request.
+
+    :param url: URL for the new :class:`Request` object.
+    :param data: (optional) Dictionary, list of tuples, bytes, or file-like
+        object to send in the body of the :class:`Request`.
+    :param json: (optional) A JSON serializable Python object to send in the body of the :class:`Request`.
+    :param \*\*kwargs: Optional arguments that ``request`` takes.
+    :return: :class:`Response <Response>` object
+    :rtype: requests.Response
+    """
+
+    return request("patch", url, data=data, **kwargs)
+
+
+def delete(url: _t.UriType, **kwargs: Unpack[_t.RequestKwargs]) -> Response:
+    r"""Sends a DELETE request.
+
+    :param url: URL for the new :class:`Request` object.
+    :param \*\*kwargs: Optional arguments that ``request`` takes.
+    :return: :class:`Response <Response>` object
+    :rtype: requests.Response
+    """
+
+    return request("delete", url, **kwargs)

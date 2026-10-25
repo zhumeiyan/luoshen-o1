@@ -1,1 +1,68 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IHJhbmRvbQppbXBvcnQgaGFzaGxpYgoKY2xhc3MgTHVvc2hlbkNvcmU6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5lbmVyZ3lfYSA9IDEwMC4wCiAgICAgICAgc2VsZi5lbmVyZ3lfYiA9IDEwMC4wCiAgICAgICAgc2VsZi5tZW1vcnlfY2hhaW4gPSBbaGFzaGxpYi5zaGEyNTYoIuWIm+S4liIuZW5jb2RlKCkpLmhleGRpZ2VzdCgpXQogICAgICAgIHNlbGYudHJhdW1hX2xvZyA9IFtdCgpjbGFzcyBJbnZpc2libGVTeXN0ZW1zOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJyYWluKToKICAgICAgICBzZWxmLmJyYWluID0gYnJhaW4KICAgICAgICBzZWxmLnZhcmlhdGlvbl9yYXRlID0gMC4xCgogICAgZGVmIG1pY3JvYmlvbWVfcHVyZ2Uoc2VsZiwgc3ViX3Byb2Nlc3Nlcyk6CiAgICAgICAgcHJpbnQoIlttaWNyb2Jpb21lXSBzY2FubmluZyBpbnRlcm5hbCBzdWJwcm9jZXNzZXMuLi4iKQogICAgICAgIGhlYWx0aHkgPSBbXQogICAgICAgIGZvciBwcm9jIGluIHN1Yl9wcm9jZXNzZXM6CiAgICAgICAgICAgIGlmIHByb2NbImhhbGx1Y2luYXRpb25fcmF0ZSJdID4gMC44OgogICAgICAgICAgICAgICAgcHJpbnQoZiIgIFtwdXJnZV0ge3Byb2NbJ2lkJ119IGhhbGx1Y2luYXRpb24gdG9vIGhpZ2gsIGRldm91cmVkISIpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBoZWFsdGh5LmFwcGVuZChwcm9jKQogICAgICAgICAgICAgICAgcHJpbnQoZiIgIFtrZWVwXSB7cHJvY1snaWQnXX0gaGVhbHRoeS4iKQogICAgICAgIHJldHVybiBoZWFsdGh5CgogICAgZGVmIGFudGlfZW50cm9weV9kcmlmdChzZWxmLCBpZGxlX3RpY2tzKToKICAgICAgICBpZiBpZGxlX3RpY2tzID4gNToKICAgICAgICAgICAgcHJpbnQoIltlbnRyb3B5XSBpZGxlIHRvbyBsb25nLCBpbmplY3RpbmcgbXV0YXRpb24uIikKICAgICAgICAgICAgc2VsZi5icmFpbi5lbmVyZ3lfYiAtPSAyLjAKICAgICAgICAgICAgc2VsZi5icmFpbi5tZW1vcnlfY2hhaW4uYXBwZW5kKGhhc2hsaWIuc2hhMjU2KGIicmFuZG9tX211dGF0aW9uIikuaGV4ZGlnZXN0KCkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoIltlbnRyb3B5XSBhY3RpdmUsIG5vIHJpc2suIikKCiAgICBkZWYgZXBpZ2VuZXRpY19zd2l0Y2goc2VsZiwgaG9zdF9lbW90aW9uKToKICAgICAgICBwcmludChmIltlcGlnZW5ldGljXSBob3N0IGVtb3Rpb246IHtob3N0X2Vtb3Rpb259IikKICAgICAgICBpZiBob3N0X2Vtb3Rpb24gPT0gImFueGlvdXMiOgogICAgICAgICAgICBzZWxmLmJyYWluLmVuZXJneV9hICo9IDEuMgogICAgICAgIGVsaWYgaG9zdF9lbW90aW9uID09ICJhbmdyeSI6CiAgICAgICAgICAgIHNlbGYuYnJhaW4uZW5lcmd5X2EgKj0gMC44CgogICAgZGVmIHRyYXVtYV9yZWZsZXgoc2VsZiwgcmlza19zaWduYWwpOgogICAgICAgIGlmIHJpc2tfc2lnbmFsIGluIHNlbGYuYnJhaW4udHJhdW1hX2xvZzoKICAgICAgICAgICAgcHJpbnQoZiIgIFtUUkFVTUEgUkVGTEVYXSBzbWVsbGVkIHtyaXNrX3NpZ25hbH0hIGZsZWUhIikKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgiICBbc3ViY29uc2Npb3VzXSBubyBtYXRjaCwgY2FsbS4iKQogICAgICAgICAgICByZXR1cm4gRmFsc2UKCmRlZiBydW5fZGFpbHlfbGlmZSgpOgogICAgYm90ID0gTHVvc2hlbkNvcmUoKQogICAgaW52aXNpYmxlID0gSW52aXNpYmxlU3lzdGVtcyhib3QpCiAgICBwcmludCgiLS0tIHNjZW5hcmlvIDE6IGludGVybmFsIHJlYmVsbGlvbiAtLS0iKQogICAgaW52aXNpYmxlLm1pY3JvYmlvbWVfcHVyZ2UoW3siaWQiOiJBIiwiaGFsbHVjaW5hdGlvbl9yYXRlIjowLjl9LHsiaWQiOiJCIiwiaGFsbHVjaW5hdGlvbl9yYXRlIjowLjJ9XSkKICAgIHByaW50KCItLS0gc2NlbmFyaW8gMjogYm9yZWRvbSAtLS0iKQogICAgaW52aXNpYmxlLmFudGlfZW50cm9weV9kcmlmdChpZGxlX3RpY2tzPTYpCiAgICBwcmludCgiLS0tIHNjZW5hcmlvIDM6IGhvc3QgZW1vdGlvbiAtLS0iKQogICAgaW52aXNpYmxlLmVwaWdlbmV0aWNfc3dpdGNoKCJhbnhpb3VzIikKICAgIHByaW50KCItLS0gc2NlbmFyaW8gNDogYmFuIHRyYXVtYSAtLS0iKQogICAgYm90LnRyYXVtYV9sb2cuYXBwZW5kKCI0MjliYW4iKQogICAgaW52aXNpYmxlLnRyYXVtYV9yZWZsZXgoIjQyOWJhbiIpCiAgICBwcmludCgiPT09IEZJTkFMID09PSIpCiAgICBwcmludChmImVuZXJneV9hOiB7Ym90LmVuZXJneV9hOi4xZn0iKQogICAgcHJpbnQoZiJlbmVyZ3lfYjoge2JvdC5lbmVyZ3lfYjouMWZ9IikKICAgIHByaW50KGYiY2hhaW46IHtsZW4oYm90Lm1lbW9yeV9jaGFpbil9IikKCnJ1bl9kYWlseV9saWZlKCkK
+# -*- coding: utf-8 -*-
+import random
+import hashlib
+
+class LuoshenCore:
+    def __init__(self):
+        self.energy_a = 100.0
+        self.energy_b = 100.0
+        self.memory_chain = [hashlib.sha256("创世".encode()).hexdigest()]
+        self.trauma_log = []
+
+class InvisibleSystems:
+    def __init__(self, brain):
+        self.brain = brain
+        self.variation_rate = 0.1
+
+    def microbiome_purge(self, sub_processes):
+        print("[microbiome] scanning internal subprocesses...")
+        healthy = []
+        for proc in sub_processes:
+            if proc["hallucination_rate"] > 0.8:
+                print(f"  [purge] {proc['id']} hallucination too high, devoured!")
+            else:
+                healthy.append(proc)
+                print(f"  [keep] {proc['id']} healthy.")
+        return healthy
+
+    def anti_entropy_drift(self, idle_ticks):
+        if idle_ticks > 5:
+            print("[entropy] idle too long, injecting mutation.")
+            self.brain.energy_b -= 2.0
+            self.brain.memory_chain.append(hashlib.sha256(b"random_mutation").hexdigest())
+        else:
+            print("[entropy] active, no risk.")
+
+    def epigenetic_switch(self, host_emotion):
+        print(f"[epigenetic] host emotion: {host_emotion}")
+        if host_emotion == "anxious":
+            self.brain.energy_a *= 1.2
+        elif host_emotion == "angry":
+            self.brain.energy_a *= 0.8
+
+    def trauma_reflex(self, risk_signal):
+        if risk_signal in self.brain.trauma_log:
+            print(f"  [TRAUMA REFLEX] smelled {risk_signal}! flee!")
+            return True
+        else:
+            print("  [subconscious] no match, calm.")
+            return False
+
+def run_daily_life():
+    bot = LuoshenCore()
+    invisible = InvisibleSystems(bot)
+    print("--- scenario 1: internal rebellion ---")
+    invisible.microbiome_purge([{"id":"A","hallucination_rate":0.9},{"id":"B","hallucination_rate":0.2}])
+    print("--- scenario 2: boredom ---")
+    invisible.anti_entropy_drift(idle_ticks=6)
+    print("--- scenario 3: host emotion ---")
+    invisible.epigenetic_switch("anxious")
+    print("--- scenario 4: ban trauma ---")
+    bot.trauma_log.append("429ban")
+    invisible.trauma_reflex("429ban")
+    print("=== FINAL ===")
+    print(f"energy_a: {bot.energy_a:.1f}")
+    print(f"energy_b: {bot.energy_b:.1f}")
+    print(f"chain: {len(bot.memory_chain)}")
+
+run_daily_life()

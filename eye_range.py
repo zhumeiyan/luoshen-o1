@@ -1,1 +1,138 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5Lq655y855qE55yf5a6e5Yy66Ze077ya6Ieq54S25YWJIHZzIOWxj+W5lSB2cyDmoIflh4YgdnMg6L+H5bqm77yI6L+R6KeG77yJCuWFqOmDqOeulyBsb2cxMCDkuq7luqbvvIzmib7jgJDlhaznuqbmlbDljLrpl7TjgJHlnKjlk6rjgILmr4/kuKrmlbDluKbmnaXmupDjgIIKIiIiCmltcG9ydCBtYXRoLCBqc29uCgpMID0gbWF0aC5sb2cxMApTUkMgPSB7fQpkZWYgUyhrLHYsc3JjLGF1dGgpOiBTUkNba109KHYsc3JjLGF1dGgpOyByZXR1cm4gdgoKIyA9PT09PT09PT09PT0gMS4g6Ieq54S25YWJ77yI54Wn5bqmIGx1eCAtPiDkuq7luqYgY2QvbTLvvIznlKjmnJfkvK/pnaLov5HkvLwgTCA9IEUqcmhvL3Bp77yJPT09PT09PT09PT09ClJITyA9IDAuMTggICAjIOWFuOWei+WcsOmdouWPjeWwhOeOhwpkZWYgbHV4X3RvX25pdChFKTogcmV0dXJuIEUqUkhPL21hdGgucGkKTkFUX0xVWCA9IHsKICLmmJ/lhYkiOjAuMDAwMSwi5ruh5pyIIjowLjEwOCwi5rex5pqu5YWJIjoxLjA4LCLmmq7lhYkiOjEwLjgsCiAi6Zi05aSp5a6k5aSWIjoxMDc1LCLlhajml6XlhYkiOjEwNzUyLCLmraPljYjpmLPlhYkiOjEwNzUyNywKfSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgZW5naW5lZXJpbmd0b29sYm94Ck5BVCAgID0ge2s6bHV4X3RvX25pdCh2KSBmb3Igayx2IGluIE5BVF9MVVguaXRlbXMoKX0KU1VOX0RJU0sgPSAxLjZlOSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBIYWxzdGVhZCAxOTkzCgojID09PT09PT09PT09PSAyLiDkurrnnLzvvIhGZXJ3ZXJkYSAxOTk2IC8gUmVpbmhhcmQgMjAxMO+8jEhEUiDmlZnnp5HkuabvvIk9PT09PT09PT09PT0KUk9EICAgPSAoMWUtNiwgMWUxKSAgICAgICMg6KeG5p2G5bel5L2c6IyD5Zu0CkNPTkUgID0gKDNlLTIsIDFlOCkgICAgICAjIOinhumUpeW3peS9nOiMg+WbtApNRVNPUElDPSgzZS0yLCAzLjApCkZVTEwgID0gKDFlLTYsIDFlOCkgICAgICAjIOaAu+mAguW6lOiMg+WbtCA9IDE0IGxvZyB1bml0cwpTU0RSICA9IDMuNCAgICAgICAgICAgICAgIyDnnqzml7bvvIjlkIzml7bvvInliqjmgIHojIPlm7QgbG9nIHVuaXRzIOKAlOKAlCDlhazorqQgfjN+NAoKIyA9PT09PT09PT09PT0gMy4g5bGP5bmVID09PT09PT09PT09PQpTQ1JFRU4gPSB7CiAi5Yqe5YWs5a6k5pi+56S65ZmoIFNEUiI6KDIwMCwzNTApLAogIueslOiusOacrCBTRFIiOigzMDAsNjAwKSwKICLml5foiLDmiYvmnLoiOig0MDAsMTIwMCksCiAiSERSIOeUteinhiI6KDYwMCwyMDAwKSwKICJpUGhvbmUgMTUgUHJvIE1heCDlrp7mtYvls7DlgLwiOig5MTAsOTEwKSwKfSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHRhcm1hY3ZpZXcgLyBjZXZhdG9uCkhEUl9QRUFLX1NURCA9IDEwMDAgICAgICAjIElUVS1SIEJULjIxMDAg5bOw5YC8ID49MTAwMCBjZC9tMgpIRFJfQkxBQ0tfU1REPSAwLjAwNSAgICAgIyBCVC4yMTAwIOm7keS9jQoKIyA9PT09PT09PT09PT0gNC4g6LCD6IqC6LSf6I2377yI5bGI5YWJ5bqmIEQgPSAxL+i3neemu+exs++8iT09PT09PT09PT09PQpESVNUID0geyLmiYvmnLogMzBjbSI6MC4zMCwi5bmz5p2/IDQwY20iOjAuNDAsIueslOiusOacrCA1MGNtIjowLjUwLAogICAgICAgICLmmL7npLrlmaggNzBjbSI6MC43MCwi5oi35aSW6L+c55y6IDZtIjo2LjB9ICAgICAgICMgNm0gPSDlhYnlrabml6Dnqbfov5zotbcKZGVmIGRpb3B0ZXIoZCk6IHJldHVybiAxLjAvZAoKIyA9PT09PT09PT09PT0gNS4g6L+R6KeG5YmC6YePID09PT09PT09PT09PQojIEh1YW5nIDIwMTUgbWV0YS1hbmFseXNpcywgMjUsMDI1IOWEv+erpe+8muavjyBkaW9wdGVyLWhvdXIv5ZGo77yMT1IgKzIlICgxLjAxLTEuMDMpCk9SX1BFUl9ESCA9IDEuMDIKIyBJbnRlcm5hdGlvbmFsIE15b3BpYSBJbnN0aXR1dGXvvJrmiLflpJYgPj0xMDAwIGx1eO+8jOavj+aXpSA0MC04MG1pbiDihpIg6L+R6KeG5Y+R55Sf546H6ZmNIDIzLTUyJQpPVVRET09SX0xVWCA9IDEwMDAKSU5ET09SX0xVWCAgPSAoMzAwLDUwMCkgICAjIOWupOWGheWKnuWFrCAzMDAtNTAwIGx1eApPUl9ORUFSV09SSyA9IDEuMTQgICAgICAgICMg6L+R6Led56a75bel5L2cIE9SCgojID09PT09PT09PT09PSA2LiDok53lhYnljbHlrrMgPT09PT09PT09PT09ClJHMV9MQiA9IDEwMC4wICAgICAgICAgICAgIyBXL20yc3IsIHRfbWF4IDEwMC0xMDAwMHMgIChJRUMgNjI0NzEgLyBUUiA2Mjc3OCkKUkcwX0xCID0gMTAwLjAgICAgICAgICAgICAjIFJHMDogPD0xMDAsIHRfbWF4ID4xMDAwMHMKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBvdXQ9e30KICAgIHByaW50KCI9PT0g5LiA44CB6Ieq54S25YWJIOKGkiDlsY/luZXkuq7luqbvvIhsb2cxMCBjZC9twrLvvIk9PT0iKQogICAgZm9yIGssdiBpbiBzb3J0ZWQoTkFULml0ZW1zKCksIGtleT1sYW1iZGEgeDp4WzFdKToKICAgICAgICBwcmludChmIiAge2s6PDh9IHtOQVRfTFVYW2tdOj4xMC40Zn0gbHV4ICDihpIgIHt2Oj4xMi41Zn0gY2QvbcKyICAgbG9nIHtMKHYpOis3LjJmfSIpCiAgICBwcmludChmIiAgeyflpKrpmLPlnIbnm5gnOjw4fSB7J+KAlCc6PjEwfSAgICAgIOKGkiAge1NVTl9ESVNLOj4xMi4wZn0gY2QvbcKyICAgbG9nIHtMKFNVTl9ESVNLKTorNy4yZn0iKQogICAgbmF0X2xvLCBuYXRfaGkgPSBMKE5BVFsi5pif5YWJIl0pLCBMKFNVTl9ESVNLKQogICAgb3V0WyLoh6rnhLblhYlfbG9n6IyD5Zu0Il09W3JvdW5kKG5hdF9sbywyKSwgcm91bmQobmF0X2hpLDIpXQoKICAgIHByaW50KCJcbj09PSDkuozjgIHkurrnnLzvvJrmgLvpgILlupQgdnMg556s5pe2ID09PSIpCiAgICBwcmludChmIiAg5oC76YCC5bqU77yI6KeG5p2GK+inhumUpe+8iSAge0ZVTExbMF06LjBlfSB+IHtGVUxMWzFdOi4wZX0gY2QvbcKyICA9IHtMKEZVTExbMV0pLUwoRlVMTFswXSk6LjFmfSBsb2cgdW5pdHMiKQogICAgcHJpbnQoZiIgIOinhuadhiAge1JPRFswXTouMGV9IH4ge1JPRFsxXTouMGV9ICAgKHtMKFJPRFsxXSktTChST0RbMF0pOi4xZn0gbG9nKSIpCiAgICBwcmludChmIiAg6KeG6ZSlICB7Q09ORVswXTouMGV9IH4ge0NPTkVbMV06LjBlfSAgICh7TChDT05FWzFdKS1MKENPTkVbMF0pOi4xZn0gbG9nKSIpCiAgICBwcmludChmIiAg6Ze06KeG77yI5Lit5LuL77yJIHtNRVNPUElDWzBdOi4wZX0gfiB7TUVTT1BJQ1sxXTouMGV9ICAgKHtMKE1FU09QSUNbMV0pLUwoTUVTT1BJQ1swXSk6LjFmfSBsb2cpIikKICAgIHByaW50KGYiICDimIUg556s5pe277yI5ZCM5LiA5pe25Yi755yf6IO95YiG6L6o77yJICDiiYgge1NTRFJ9IGxvZyB1bml0cyIpCiAgICBpbnN0X3JhdGlvID0gKEwoRlVMTFsxXSktTChGVUxMWzBdKSkvU1NEUgogICAgcHJpbnQoZiIgIOKYhSDmgLvpgILlupTmmK/nnqzml7bnmoQge2luc3RfcmF0aW86LjFmfSDlgI0g4oCU4oCUIOWJqeS4iyB7MTAwKigxLTEvaW5zdF9yYXRpbyk6LjBmfSUg6Z2g44CQ6YCC5bqU44CR6KGl77yM5LiN5piv5ZCM5pe255yL5b6X6KeBIikKICAgIG91dFsi5oC76YCC5bqUX2xvZyJdPTE0LjA7IG91dFsi556s5pe2X2xvZyJdPVNTRFI7IG91dFsi5YCN5pWwIl09cm91bmQoaW5zdF9yYXRpbywyKQoKICAgIHByaW50KCJcbj09PSDkuInjgIHlsY/luZXokL3lnKjkurrnnLzljLrpl7TnmoTlk6rph4wgPT09IikKICAgIGZvciBrLChsbyxoaSkgaW4gU0NSRUVOLml0ZW1zKCk6CiAgICAgICAgc3BhbiA9IEwoaGkpLUwobG8pIGlmIGhpPmxvIGVsc2UgMAogICAgICAgIHByaW50KGYiICB7azo8MjZ9IHtsbzo+NX0te2hpOjw1fSBjZC9twrIgICDoh6rouqvot6jluqYge3NwYW46LjJmfSBsb2ciKQogICAgc2RyX3NwYW4gPSBMKDM1MCktTCgyMDApCiAgICBwcmludChmIlxuICBTRFIg5pi+56S65Zmo77yIMjAw4oaSMzUw77yJ6Leo5bqm5Y+q5pyJIHtzZHJfc3BhbjouMmZ9IGxvZ++8jOiAjOS6uuecvOeerOaXtuaYryB7U1NEUn0gbG9nIikKICAgIHByaW50KGYiICDihpIgU0RSIOWPqueUqOS6huS6uuecvOeerOaXtuiDveWKm+eahCB7c2RyX3NwYW4vU1NEUioxMDA6LjBmfSUiKQogICAgaGRyX3NwYW4gPSBMKEhEUl9QRUFLX1NURCktTChIRFJfQkxBQ0tfU1REKQogICAgcHJpbnQoZiIgIEJULjIxMDAg5qCH5YeG5Yqo5oCB6IyD5Zu077yIe0hEUl9CTEFDS19TVER94oaSe0hEUl9QRUFLX1NURH3vvInot6jluqYge2hkcl9zcGFuOi4yZn0gbG9nIikKICAgIHByaW50KGYiICDihpIgSERSIOaYryBTRFIg55qEIHsxMCoqKGhkcl9zcGFuLXNkcl9zcGFuKTouMGZ9IOWAjeWKqOaAgeiMg+WbtCIpCiAgICBvdXRbIlNEUui3qOW6pl9sb2ciXT1yb3VuZChzZHJfc3BhbiwyKTsgb3V0WyJIRFLot6jluqZfbG9nIl09cm91bmQoaGRyX3NwYW4sMikKICAgIG91dFsiU0RS5Y2g556s5pe2Il09cm91bmQoc2RyX3NwYW4vU1NEUiwzKQoKICAgIHByaW50KCJcbj09PSDlm5vjgIHlhaznuqbmlbDljLrpl7TvvJrlsY/luZUgdnMg6Ieq54S25YWJIOeahOmHjeWPoCA9PT0iKQogICAgc2NyX2xvLCBzY3JfaGkgPSBMKDIwMCksIEwoMjAwMCkKICAgIG92X2xvLCBvdl9oaSA9IG1heChzY3JfbG8sTChOQVRbIuaYn+WFiSJdKSksIG1pbihzY3JfaGksTChOQVRbIuWFqOaXpeWFiSJdKSkKICAgIHByaW50KGYiICDlsY/luZUgICB7c2NyX2xvOisuMmZ9IH4ge3Njcl9oaTorLjJmfSBsb2ciKQogICAgcHJpbnQoZiIgIOiHqueEtuWFiSB7TChOQVRbJ+aYn+WFiSddKTorLjJmfSB+IHtMKFNVTl9ESVNLKTorLjJmfSBsb2fvvIjlkKvlpKrpmLPlnIbnm5jvvIkiKQogICAgcHJpbnQoZiIgIOS4jeWQq+WkqumYs+WchuebmOeahOiHqueEtuWPjeWwhOWFiSB7TChOQVRbJ+aYn+WFiSddKTorLjJmfSB+IHtMKE5BVFsn5q2j5Y2I6Ziz5YWJJ10pOisuMmZ9IGxvZyIpCiAgICBuYXRfcmVmbCA9IEwoTkFUWyLmraPljYjpmLPlhYkiXSktTChOQVRbIuaYn+WFiSJdKQogICAgcHJpbnQoZiIgIOKYhSDoh6rnhLblj43lsITlhYnot6jluqYge25hdF9yZWZsOi4xZn0gbG9n77yb5bGP5bmV6Leo5bqmIHtzY3JfaGktc2NyX2xvOi4xZn0gbG9nIikKICAgIHByaW50KGYiICDimIUg5bGP5bmV5Y+q6KaG55uW6Ieq54S25YWJ55qEIHsoc2NyX2hpLXNjcl9sbykvbmF0X3JlZmwqMTAwOi4wZn0lIikKICAgIHByaW50KGYiICDimIUg5bGP5bmV5pW05Liq5Yy66Ze077yM5Y6L5Zyo6Ieq54S25YWJ55qE44CQ5Lit5LiK5q6144CR4oCU4oCUIOWxj+W5leayoeacieaal+erryIpCiAgICBvdXRbIuWxj+W5leWNoOiHqueEtiJdPXJvdW5kKChzY3JfaGktc2NyX2xvKS9uYXRfcmVmbCwzKQogICAgb3V0WyLlsY/luZVsb2ciXT1bcm91bmQoc2NyX2xvLDIpLHJvdW5kKHNjcl9oaSwyKV0KICAgIG91dFsi6Ieq54S25Y+N5bCEbG9nIl09W3JvdW5kKEwoTkFUWyLmmJ/lhYkiXSksMikscm91bmQoTChOQVRbIuato+WNiOmYs+WFiSJdKSwyKV0KCiAgICBwcmludCgiXG49PT0g5LqU44CB6L+H5bqm77ya6LCD6IqC6LSf6I2377yI5bGI5YWJ5bqm77yJPT09IikKICAgIGZvciBrLGQgaW4gRElTVC5pdGVtcygpOgogICAgICAgIHByaW50KGYiICB7azo8MTR9IHtkaW9wdGVyKGQpOjUuMmZ9IEQiKQogICAgcHJpbnQoZiIgIOKYhSDmiYvmnLogMzBjbSA9IHtkaW9wdGVyKDAuMzApOi4yZn0gRO+8jOaIt+Wklui/nOecuiA9IHtkaW9wdGVyKDYuMCk6LjJmfSBEIikKICAgIHByaW50KGYiICDimIUg5beuIHtkaW9wdGVyKDAuMzApLWRpb3B0ZXIoNi4wKTouMmZ9IEQg4oCU4oCUIOedq+eKtuiCjOaMgee7reaUtue8qemHjyIpCiAgICBvdXRbIuiwg+iKgkQiXT17azpyb3VuZChkaW9wdGVyKHYpLDIpIGZvciBrLHYgaW4gRElTVC5pdGVtcygpfQoKICAgIHByaW50KCJcbj09PSDlha3jgIHov4fluqbvvJrov5Hop4bliYLph4/vvIjlj6/orqHnrpfnmoTpg6jliIbvvIk9PT0iKQogICAgZGggPSBkaW9wdGVyKDAuMzApKjMgICAjIOavj+WkqeaJi+acuiAzIOWwj+aXtgogICAgZGhfd2sgPSBkaCo3CiAgICBvcl9lc3QgPSBPUl9QRVJfREgqKmRoX3drCiAgICBwcmludChmIiAg5q+P5aSp5omL5py6IDNoIEAzMGNtID0ge2RoOi4xZn0gRMK3aC/lpKkgPSB7ZGhfd2s6LjFmfSBEwrdoL+WRqCIpCiAgICBwcmludChmIiAg5oyJIE9SIDEuMDIgLyBEwrdowrflkajvvIhIdWFuZyAyMDE1LCBuPTI1LDAyNe+8ie+8mk9SIOKJiCB7b3JfZXN0Oi4yZn0iKQogICAgcHJpbnQoZiIgIOKAlOKAlCDov5nmmK/jgJDnu5/orqHlhbPogZTjgJHvvIzkuI3mmK/lm6DmnpzvvJvkuJTnoJTnqbbkurrnvqTmmK/lhL/nq6UiKQogICAgcHJpbnQoZiJcbiAg5L+d5oqk5Zug57Sg77ya5oi35aSWIOKJpSB7T1VURE9PUl9MVVh9IGx1eO+8iOWkmuW3tOiDuuacuuWItu+8iSIpCiAgICBwcmludChmIiAg5a6k5YaF5Yqe5YWs5Y+q5pyJIHtJTkRPT1JfTFVYWzBdfS17SU5ET09SX0xVWFsxXX0gbHV4IOKGkiDlt64ge09VVERPT1JfTFVYL0lORE9PUl9MVVhbMV06LjFmfX57T1VURE9PUl9MVVgvSU5ET09SX0xVWFswXTouMWZ9IOWAjSIpCiAgICBwcmludChmIiAgSU1JIOWFseivhu+8muavj+aXpemineWkliA0MC04MCBtaW4g5oi35aSWIOKGkiDov5Hop4blj5HnlJ/pmY0gMjMtNTIlIikKICAgIG91dFsi5omL5py6T1LkvLDnrpciXT1yb3VuZChvcl9lc3QsMik7IG91dFsi5a6k5YaF5aSWbHV45q+UIl09cm91bmQoT1VURE9PUl9MVVgvSU5ET09SX0xVWFsxXSwxKQoKICAgIHByaW50KCJcbj09PSDkuIPjgIHok53lhYnljbHlrrPpmIjlgLzvvIhJRUMgNjI0NzHvvIk9PT0iKQogICAgcHJpbnQoZiIgIFJHMO+8iOixgeWFje+8iSBMX0Ig4omkIHtSRzBfTEI6LjBmfSBXL23CssK3c3LvvIx0X21heCA+IDEwMDAwIHPvvIjnuqYgMi44IOWwj+aXtu+8iSIpCiAgICBwcmludChmIiAgUkcx77yI5L2O6aOO6Zmp77yJdF9tYXggMTAwLTEwMDAwIHMiKQogICAgcHJpbnQoZiIgIOKYhSDmiYvmnLov5pi+56S65Zmo5Zyo5q2j5bi45Lqu5bqm5LiL5Z2H5Li6IFJHMC9SRzEg4oCU4oCUIOWxj+W5leS6ruW6puS4jeaYr+S4u+imgeWNseWusyIpCiAgICBwcmludChmIiAg4piFIOecn+ato+eahOWNseWus+aYr+OAkOaXtumVvyDDlyDot53nprvjgJHvvIzkuI3mmK/kuq7luqbmnKzouqsiKQoKICAgIHByaW50KCJcbj09PSDlhavjgIHnu5PorrrvvJrlhaznuqbmlbDljLrpl7QgPT09IikKICAgIHByaW50KGYiICDkuq7luqYgIOWxj+W5lSB7c2NyX2xvOisuMWZ9fntzY3JfaGk6Ky4xZn0gbG9n77yM6JC95Zyo6Ieq54S25YWJ5Lit5q6177yI6Ieq54S2IHtMKE5BVFsn5pif5YWJJ10pOisuMWZ9fntMKE5BVFsn5q2j5Y2I6Ziz5YWJJ10pOisuMWZ977yJIikKICAgIHByaW50KGYiICDnnqzml7YgIOS6uuecvOWQjOaXtuWPquiDveWIhui+qCB7U1NEUn0gbG9n77yM5bGP5bmVIFNEUiDlj6rnu5kge3Nkcl9zcGFuOi4xZn0gbG9n77yI5Y2gIHtzZHJfc3Bhbi9TU0RSKjEwMDouMGZ9Je+8iSIpCiAgICBwcmludChmIiAg6Imy5Z+fICBzUkdCIOimhuebluiHqueEtiAzNS41Je+8jEJULjIwMjAgNjcuMiUiKQogICAgcHJpbnQoZiIgIOiwg+iKgiAg5bGP5bmV5oqK54Sm6Led6ZKJ5ZyoIHtkaW9wdGVyKDAuMzApOi4xZn1+e2Rpb3B0ZXIoMC43MCk6LjFmfSBE77yM6Ieq54S25YWJ5LiL55y8552b6L+c6L+R6Ieq55SxIikKICAgIHByaW50KGYiICDnhafluqYgIOWupOWGhSB7SU5ET09SX0xVWFswXX1+e0lORE9PUl9MVVhbMV19IGx1eCA8PCDmiLflpJbkv53miqTpmIjlgLwge09VVERPT1JfTFVYfSBsdXgiKQogICAgcHJpbnQoZiJcbiAg4piFIOWFrOe6puaVsOS4jeaYr+OAkOS4gOadoee6v+OAke+8jOaYr+S4gOS4quebkuWtkO+8miIpCiAgICBwcmludChmIiAgICAg5Lqu5bqm55uSIHtzY3JfbG86Ky4xZn1+e3Njcl9oaTorLjFmfSBsb2cgIHwgIOiJsuWfn+ebkiAzNS41JSAgfCAg6LCD6IqC55uSIHtkaW9wdGVyKDAuNzApOi4xZn1+e2Rpb3B0ZXIoMC4zMCk6LjFmfSBEIikKICAgIHByaW50KGYiICDimIUg6ICM44CQ6L+H5bqm44CR5Y+R55Sf5Zyo55uS5a2Q5aSW77ya5aSq6L+RKD57ZGlvcHRlcigwLjMwKTouMWZ9RCnjgIHlpKrkuYXjgIHlpKrmmpcoPHtJTkRPT1JfTFVYWzBdfWx1eCDlj4jnm6/kuq7lsY8pIikKCiAgICBqc29uLmR1bXAob3V0LCBvcGVuKCLlj4LmlbDlupMv55y8552b5Yy66Ze0Lmpzb24iLCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludCgiXG7lt7LlrZgg5Y+C5pWw5bqTL+ecvOedm+WMuumXtC5qc29uIikK
+# -*- coding: utf-8 -*-
+"""人眼的真实区间：自然光 vs 屏幕 vs 标准 vs 过度（近视）
+全部算 log10 亮度，找【公约数区间】在哪。每个数带来源。
+"""
+import math, json
+
+L = math.log10
+SRC = {}
+def S(k,v,src,auth): SRC[k]=(v,src,auth); return v
+
+# ============ 1. 自然光（照度 lux -> 亮度 cd/m2，用朗伯面近似 L = E*rho/pi）============
+RHO = 0.18   # 典型地面反射率
+def lux_to_nit(E): return E*RHO/math.pi
+NAT_LUX = {
+ "星光":0.0001,"满月":0.108,"深暮光":1.08,"暮光":10.8,
+ "阴天室外":1075,"全日光":10752,"正午阳光":107527,
+}                                                   # engineeringtoolbox
+NAT   = {k:lux_to_nit(v) for k,v in NAT_LUX.items()}
+SUN_DISK = 1.6e9                                      # Halstead 1993
+
+# ============ 2. 人眼（Ferwerda 1996 / Reinhard 2010，HDR 教科书）============
+ROD   = (1e-6, 1e1)      # 视杆工作范围
+CONE  = (3e-2, 1e8)      # 视锥工作范围
+MESOPIC=(3e-2, 3.0)
+FULL  = (1e-6, 1e8)      # 总适应范围 = 14 log units
+SSDR  = 3.4              # 瞬时（同时）动态范围 log units —— 公认 ~3~4
+
+# ============ 3. 屏幕 ============
+SCREEN = {
+ "办公室显示器 SDR":(200,350),
+ "笔记本 SDR":(300,600),
+ "旗舰手机":(400,1200),
+ "HDR 电视":(600,2000),
+ "iPhone 15 Pro Max 实测峰值":(910,910),
+}                                                    # tarmacview / cevaton
+HDR_PEAK_STD = 1000      # ITU-R BT.2100 峰值 >=1000 cd/m2
+HDR_BLACK_STD= 0.005     # BT.2100 黑位
+
+# ============ 4. 调节负荷（屈光度 D = 1/距离米）============
+DIST = {"手机 30cm":0.30,"平板 40cm":0.40,"笔记本 50cm":0.50,
+        "显示器 70cm":0.70,"户外远眺 6m":6.0}       # 6m = 光学无穷远起
+def diopter(d): return 1.0/d
+
+# ============ 5. 近视剂量 ============
+# Huang 2015 meta-analysis, 25,025 儿童：每 diopter-hour/周，OR +2% (1.01-1.03)
+OR_PER_DH = 1.02
+# International Myopia Institute：户外 >=1000 lux，每日 40-80min → 近视发生率降 23-52%
+OUTDOOR_LUX = 1000
+INDOOR_LUX  = (300,500)   # 室内办公 300-500 lux
+OR_NEARWORK = 1.14        # 近距离工作 OR
+
+# ============ 6. 蓝光危害 ============
+RG1_LB = 100.0            # W/m2sr, t_max 100-10000s  (IEC 62471 / TR 62778)
+RG0_LB = 100.0            # RG0: <=100, t_max >10000s
+
+if __name__ == "__main__":
+    out={}
+    print("=== 一、自然光 → 屏幕亮度（log10 cd/m²）===")
+    for k,v in sorted(NAT.items(), key=lambda x:x[1]):
+        print(f"  {k:<8} {NAT_LUX[k]:>10.4f} lux  →  {v:>12.5f} cd/m²   log {L(v):+7.2f}")
+    print(f"  {'太阳圆盘':<8} {'—':>10}      →  {SUN_DISK:>12.0f} cd/m²   log {L(SUN_DISK):+7.2f}")
+    nat_lo, nat_hi = L(NAT["星光"]), L(SUN_DISK)
+    out["自然光_log范围"]=[round(nat_lo,2), round(nat_hi,2)]
+
+    print("\n=== 二、人眼：总适应 vs 瞬时 ===")
+    print(f"  总适应（视杆+视锥）  {FULL[0]:.0e} ~ {FULL[1]:.0e} cd/m²  = {L(FULL[1])-L(FULL[0]):.1f} log units")
+    print(f"  视杆  {ROD[0]:.0e} ~ {ROD[1]:.0e}   ({L(ROD[1])-L(ROD[0]):.1f} log)")
+    print(f"  视锥  {CONE[0]:.0e} ~ {CONE[1]:.0e}   ({L(CONE[1])-L(CONE[0]):.1f} log)")
+    print(f"  间视（中介） {MESOPIC[0]:.0e} ~ {MESOPIC[1]:.0e}   ({L(MESOPIC[1])-L(MESOPIC[0]):.1f} log)")
+    print(f"  ★ 瞬时（同一时刻真能分辨）  ≈ {SSDR} log units")
+    inst_ratio = (L(FULL[1])-L(FULL[0]))/SSDR
+    print(f"  ★ 总适应是瞬时的 {inst_ratio:.1f} 倍 —— 剩下 {100*(1-1/inst_ratio):.0f}% 靠【适应】补，不是同时看得见")
+    out["总适应_log"]=14.0; out["瞬时_log"]=SSDR; out["倍数"]=round(inst_ratio,2)
+
+    print("\n=== 三、屏幕落在人眼区间的哪里 ===")
+    for k,(lo,hi) in SCREEN.items():
+        span = L(hi)-L(lo) if hi>lo else 0
+        print(f"  {k:<26} {lo:>5}-{hi:<5} cd/m²   自身跨度 {span:.2f} log")
+    sdr_span = L(350)-L(200)
+    print(f"\n  SDR 显示器（200→350）跨度只有 {sdr_span:.2f} log，而人眼瞬时是 {SSDR} log")
+    print(f"  → SDR 只用了人眼瞬时能力的 {sdr_span/SSDR*100:.0f}%")
+    hdr_span = L(HDR_PEAK_STD)-L(HDR_BLACK_STD)
+    print(f"  BT.2100 标准动态范围（{HDR_BLACK_STD}→{HDR_PEAK_STD}）跨度 {hdr_span:.2f} log")
+    print(f"  → HDR 是 SDR 的 {10**(hdr_span-sdr_span):.0f} 倍动态范围")
+    out["SDR跨度_log"]=round(sdr_span,2); out["HDR跨度_log"]=round(hdr_span,2)
+    out["SDR占瞬时"]=round(sdr_span/SSDR,3)
+
+    print("\n=== 四、公约数区间：屏幕 vs 自然光 的重叠 ===")
+    scr_lo, scr_hi = L(200), L(2000)
+    ov_lo, ov_hi = max(scr_lo,L(NAT["星光"])), min(scr_hi,L(NAT["全日光"]))
+    print(f"  屏幕   {scr_lo:+.2f} ~ {scr_hi:+.2f} log")
+    print(f"  自然光 {L(NAT['星光']):+.2f} ~ {L(SUN_DISK):+.2f} log（含太阳圆盘）")
+    print(f"  不含太阳圆盘的自然反射光 {L(NAT['星光']):+.2f} ~ {L(NAT['正午阳光']):+.2f} log")
+    nat_refl = L(NAT["正午阳光"])-L(NAT["星光"])
+    print(f"  ★ 自然反射光跨度 {nat_refl:.1f} log；屏幕跨度 {scr_hi-scr_lo:.1f} log")
+    print(f"  ★ 屏幕只覆盖自然光的 {(scr_hi-scr_lo)/nat_refl*100:.0f}%")
+    print(f"  ★ 屏幕整个区间，压在自然光的【中上段】—— 屏幕没有暗端")
+    out["屏幕占自然"]=round((scr_hi-scr_lo)/nat_refl,3)
+    out["屏幕log"]=[round(scr_lo,2),round(scr_hi,2)]
+    out["自然反射log"]=[round(L(NAT["星光"]),2),round(L(NAT["正午阳光"]),2)]
+
+    print("\n=== 五、过度：调节负荷（屈光度）===")
+    for k,d in DIST.items():
+        print(f"  {k:<14} {diopter(d):5.2f} D")
+    print(f"  ★ 手机 30cm = {diopter(0.30):.2f} D，户外远眺 = {diopter(6.0):.2f} D")
+    print(f"  ★ 差 {diopter(0.30)-diopter(6.0):.2f} D —— 睫状肌持续收缩量")
+    out["调节D"]={k:round(diopter(v),2) for k,v in DIST.items()}
+
+    print("\n=== 六、过度：近视剂量（可计算的部分）===")
+    dh = diopter(0.30)*3   # 每天手机 3 小时
+    dh_wk = dh*7
+    or_est = OR_PER_DH**dh_wk
+    print(f"  每天手机 3h @30cm = {dh:.1f} D·h/天 = {dh_wk:.1f} D·h/周")
+    print(f"  按 OR 1.02 / D·h·周（Huang 2015, n=25,025）：OR ≈ {or_est:.2f}")
+    print(f"  —— 这是【统计关联】，不是因果；且研究人群是儿童")
+    print(f"\n  保护因素：户外 ≥ {OUTDOOR_LUX} lux（多巴胺机制）")
+    print(f"  室内办公只有 {INDOOR_LUX[0]}-{INDOOR_LUX[1]} lux → 差 {OUTDOOR_LUX/INDOOR_LUX[1]:.1f}~{OUTDOOR_LUX/INDOOR_LUX[0]:.1f} 倍")
+    print(f"  IMI 共识：每日额外 40-80 min 户外 → 近视发生降 23-52%")
+    out["手机OR估算"]=round(or_est,2); out["室内外lux比"]=round(OUTDOOR_LUX/INDOOR_LUX[1],1)
+
+    print("\n=== 七、蓝光危害阈值（IEC 62471）===")
+    print(f"  RG0（豁免） L_B ≤ {RG0_LB:.0f} W/m²·sr，t_max > 10000 s（约 2.8 小时）")
+    print(f"  RG1（低风险）t_max 100-10000 s")
+    print(f"  ★ 手机/显示器在正常亮度下均为 RG0/RG1 —— 屏幕亮度不是主要危害")
+    print(f"  ★ 真正的危害是【时长 × 距离】，不是亮度本身")
+
+    print("\n=== 八、结论：公约数区间 ===")
+    print(f"  亮度  屏幕 {scr_lo:+.1f}~{scr_hi:+.1f} log，落在自然光中段（自然 {L(NAT['星光']):+.1f}~{L(NAT['正午阳光']):+.1f}）")
+    print(f"  瞬时  人眼同时只能分辨 {SSDR} log，屏幕 SDR 只给 {sdr_span:.1f} log（占 {sdr_span/SSDR*100:.0f}%）")
+    print(f"  色域  sRGB 覆盖自然 35.5%，BT.2020 67.2%")
+    print(f"  调节  屏幕把焦距钉在 {diopter(0.30):.1f}~{diopter(0.70):.1f} D，自然光下眼睛远近自由")
+    print(f"  照度  室内 {INDOOR_LUX[0]}~{INDOOR_LUX[1]} lux << 户外保护阈值 {OUTDOOR_LUX} lux")
+    print(f"\n  ★ 公约数不是【一条线】，是一个盒子：")
+    print(f"     亮度盒 {scr_lo:+.1f}~{scr_hi:+.1f} log  |  色域盒 35.5%  |  调节盒 {diopter(0.70):.1f}~{diopter(0.30):.1f} D")
+    print(f"  ★ 而【过度】发生在盒子外：太近(>{diopter(0.30):.1f}D)、太久、太暗(<{INDOOR_LUX[0]}lux 又盯亮屏)")
+
+    json.dump(out, open("参数库/眼睛区间.json","w"), ensure_ascii=False, indent=1)
+    print("\n已存 参数库/眼睛区间.json")

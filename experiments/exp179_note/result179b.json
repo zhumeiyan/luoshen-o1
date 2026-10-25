@@ -1,1 +1,161 @@
-ewogIm1ldGEiOiB7CiAgIksiOiAxLAogICJWIjogNDE3LAogICJ2b2NhYiI6IDQxNiwKICAidHJhaW5fY2hhcnMiOiAzMTA5LAogICJ0ZXN0X2NoYXJzIjogNjI0LAogICJ0ZXN0X09PViI6IDUyLAogICJyYXdfYnl0ZXMiOiA5MjQxCiB9LAogImtzY2FuIjogWwogIHsKICAgIksiOiAxLAogICAiYml0cyI6IDYuNTA3NwogIH0sCiAgewogICAiSyI6IDIsCiAgICJiaXRzIjogNy4yNDQ2CiAgfSwKICB7CiAgICJLIjogMywKICAgImJpdHMiOiA3LjMyNjQKICB9LAogIHsKICAgIksiOiA0LAogICAiYml0cyI6IDcuMzQ3MwogIH0KIF0sCiAiYmFzZWxpbmVfbm9fbm90ZSI6IDcuNDUxNSwKICJub3RlX2JpdHMiOiA2LjUwNzcsCiAiQV9kZWNheSI6IFsKICB7CiAgICJsYW1iZGEiOiAwLjAsCiAgICJiaXRzIjogNi41MDc3LAogICAiZW50cmllcyI6IDE1NzQsCiAgICJkZWx0YV92c19ub3RlIjogMC4wCiAgfSwKICB7CiAgICJsYW1iZGEiOiAwLjAyLAogICAiYml0cyI6IDYuNjUyMywKICAgImVudHJpZXMiOiAxNDMzLAogICAiZGVsdGFfdnNfbm90ZSI6IDAuMTQ0NgogIH0sCiAgewogICAibGFtYmRhIjogMC4wNSwKICAgImJpdHMiOiA2LjgxMDgsCiAgICJlbnRyaWVzIjogMTMzNSwKICAgImRlbHRhX3ZzX25vdGUiOiAwLjMwMzEKICB9LAogIHsKICAgImxhbWJkYSI6IDAuMSwKICAgImJpdHMiOiA3LjA2MjgsCiAgICJlbnRyaWVzIjogMTE3NCwKICAgImRlbHRhX3ZzX25vdGUiOiAwLjU1NTEKICB9LAogIHsKICAgImxhbWJkYSI6IDAuMiwKICAgImJpdHMiOiA3LjM2NTksCiAgICJlbnRyaWVzIjogOTYzLAogICAiZGVsdGFfdnNfbm90ZSI6IDAuODU4MgogIH0sCiAgewogICAibGFtYmRhIjogMC41LAogICAiYml0cyI6IDcuNzE2LAogICAiZW50cmllcyI6IDc5OSwKICAgImRlbHRhX3ZzX25vdGUiOiAxLjIwODMKICB9LAogIHsKICAgImxhbWJkYSI6IDEuMCwKICAgImJpdHMiOiA3LjgyNjMsCiAgICJlbnRyaWVzIjogNjY0LAogICAiZGVsdGFfdnNfbm90ZSI6IDEuMzE4NgogIH0sCiAgewogICAibGFtYmRhIjogMi4wLAogICAiYml0cyI6IDcuODQwMiwKICAgImVudHJpZXMiOiA2MzEsCiAgICJkZWx0YV92c19ub3RlIjogMS4zMzI1CiAgfQogXSwKICJBMl9jYXBhY2l0eSI6IFsKICB7CiAgICJmcmFjIjogMC4wMiwKICAgIk0iOiAzMSwKICAgImJpdHMiOiA3LjMyMDMsCiAgICJkZWx0YV92c19ub3RlIjogMC44MTI2CiAgfSwKICB7CiAgICJmcmFjIjogMC4wNSwKICAgIk0iOiA3OCwKICAgImJpdHMiOiA3LjI3NDYsCiAgICJkZWx0YV92c19ub3RlIjogMC43NjY5CiAgfSwKICB7CiAgICJmcmFjIjogMC4xLAogICAiTSI6IDE1NywKICAgImJpdHMiOiA3LjEyMzEsCiAgICJkZWx0YV92c19ub3RlIjogMC42MTU1CiAgfSwKICB7CiAgICJmcmFjIjogMC4yNSwKICAgIk0iOiAzOTMsCiAgICJiaXRzIjogNi44MjcyLAogICAiZGVsdGFfdnNfbm90ZSI6IDAuMzE5NQogIH0sCiAgewogICAiZnJhYyI6IDAuNSwKICAgIk0iOiA3ODcsCiAgICJiaXRzIjogNi42NjE1LAogICAiZGVsdGFfdnNfbm90ZSI6IDAuMTUzOQogIH0sCiAgewogICAiZnJhYyI6IDEuMCwKICAgIk0iOiAxNTc0LAogICAiYml0cyI6IDYuNTA3NywKICAgImRlbHRhX3ZzX25vdGUiOiAwLjAKICB9CiBdLAogIkJfZm9ybXMiOiBbCiAgewogICAiZm9ybSI6ICLnrKblj7fCt+e8luWPtyvmkZjmioQiLAogICAiYml0cyI6IDYuNTU2MiwKICAgIm5vdGVfYnl0ZXMiOiAyMjU2LAogICAibm90ZV9rYiI6IDIuMjAzLAogICAic2F2ZWRfdnNfbm90ZV9hYnNlbnQiOiAwLjg5NTMsCiAgICJiaXRzX3Blcl9rYiI6IDAuNDA2NAogIH0sCiAgewogICAiZm9ybSI6ICLmkZjmioTCt+WPqueVmeWkjeeOsOKJpTIiLAogICAiYml0cyI6IDYuNTU2MiwKICAgIm5vdGVfYnl0ZXMiOiAyODIwLAogICAibm90ZV9rYiI6IDIuNzU0LAogICAic2F2ZWRfdnNfbm90ZV9hYnNlbnQiOiAwLjg5NTMsCiAgICJiaXRzX3Blcl9rYiI6IDAuMzI1MQogIH0sCiAgewogICAiZm9ybSI6ICLnrKblj7fCt+aVsOWtl+e8luWPtygyQi/nrKYpIiwKICAgImJpdHMiOiA2LjUwNzcsCiAgICJub3RlX2J5dGVzIjogMzMyOCwKICAgIm5vdGVfa2IiOiAzLjI1LAogICAic2F2ZWRfdnNfbm90ZV9hYnNlbnQiOiAwLjk0MzgsCiAgICJiaXRzX3Blcl9rYiI6IDAuMjkwNAogIH0sCiAgewogICAiZm9ybSI6ICLnlLvCt+e7k+aehOWbvijlj6rlrZjovrkpIiwKICAgImJpdHMiOiA3LjIzOSwKICAgIm5vdGVfYnl0ZXMiOiAxNjY0LAogICAibm90ZV9rYiI6IDEuNjI1LAogICAic2F2ZWRfdnNfbm90ZV9hYnNlbnQiOiAwLjIxMjUsCiAgICJiaXRzX3Blcl9rYiI6IDAuMTMwOAogIH0sCiAgewogICAiZm9ybSI6ICLmioTmnKzCt+WOn+aWh+eFp+aKhCIsCiAgICJiaXRzIjogNi41MDc3LAogICAibm90ZV9ieXRlcyI6IDkyNDEsCiAgICJub3RlX2tiIjogOS4wMjQsCiAgICJzYXZlZF92c19ub3RlX2Fic2VudCI6IDAuOTQzOCwKICAgImJpdHNfcGVyX2tiIjogMC4xMDQ2CiAgfQogXQp9
+{
+ "meta": {
+  "K": 1,
+  "V": 417,
+  "vocab": 416,
+  "train_chars": 3109,
+  "test_chars": 624,
+  "test_OOV": 52,
+  "raw_bytes": 9241
+ },
+ "kscan": [
+  {
+   "K": 1,
+   "bits": 6.5077
+  },
+  {
+   "K": 2,
+   "bits": 7.2446
+  },
+  {
+   "K": 3,
+   "bits": 7.3264
+  },
+  {
+   "K": 4,
+   "bits": 7.3473
+  }
+ ],
+ "baseline_no_note": 7.4515,
+ "note_bits": 6.5077,
+ "A_decay": [
+  {
+   "lambda": 0.0,
+   "bits": 6.5077,
+   "entries": 1574,
+   "delta_vs_note": 0.0
+  },
+  {
+   "lambda": 0.02,
+   "bits": 6.6523,
+   "entries": 1433,
+   "delta_vs_note": 0.1446
+  },
+  {
+   "lambda": 0.05,
+   "bits": 6.8108,
+   "entries": 1335,
+   "delta_vs_note": 0.3031
+  },
+  {
+   "lambda": 0.1,
+   "bits": 7.0628,
+   "entries": 1174,
+   "delta_vs_note": 0.5551
+  },
+  {
+   "lambda": 0.2,
+   "bits": 7.3659,
+   "entries": 963,
+   "delta_vs_note": 0.8582
+  },
+  {
+   "lambda": 0.5,
+   "bits": 7.716,
+   "entries": 799,
+   "delta_vs_note": 1.2083
+  },
+  {
+   "lambda": 1.0,
+   "bits": 7.8263,
+   "entries": 664,
+   "delta_vs_note": 1.3186
+  },
+  {
+   "lambda": 2.0,
+   "bits": 7.8402,
+   "entries": 631,
+   "delta_vs_note": 1.3325
+  }
+ ],
+ "A2_capacity": [
+  {
+   "frac": 0.02,
+   "M": 31,
+   "bits": 7.3203,
+   "delta_vs_note": 0.8126
+  },
+  {
+   "frac": 0.05,
+   "M": 78,
+   "bits": 7.2746,
+   "delta_vs_note": 0.7669
+  },
+  {
+   "frac": 0.1,
+   "M": 157,
+   "bits": 7.1231,
+   "delta_vs_note": 0.6155
+  },
+  {
+   "frac": 0.25,
+   "M": 393,
+   "bits": 6.8272,
+   "delta_vs_note": 0.3195
+  },
+  {
+   "frac": 0.5,
+   "M": 787,
+   "bits": 6.6615,
+   "delta_vs_note": 0.1539
+  },
+  {
+   "frac": 1.0,
+   "M": 1574,
+   "bits": 6.5077,
+   "delta_vs_note": 0.0
+  }
+ ],
+ "B_forms": [
+  {
+   "form": "符号·编号+摘抄",
+   "bits": 6.5562,
+   "note_bytes": 2256,
+   "note_kb": 2.203,
+   "saved_vs_note_absent": 0.8953,
+   "bits_per_kb": 0.4064
+  },
+  {
+   "form": "摘抄·只留复现≥2",
+   "bits": 6.5562,
+   "note_bytes": 2820,
+   "note_kb": 2.754,
+   "saved_vs_note_absent": 0.8953,
+   "bits_per_kb": 0.3251
+  },
+  {
+   "form": "符号·数字编号(2B/符)",
+   "bits": 6.5077,
+   "note_bytes": 3328,
+   "note_kb": 3.25,
+   "saved_vs_note_absent": 0.9438,
+   "bits_per_kb": 0.2904
+  },
+  {
+   "form": "画·结构图(只存边)",
+   "bits": 7.239,
+   "note_bytes": 1664,
+   "note_kb": 1.625,
+   "saved_vs_note_absent": 0.2125,
+   "bits_per_kb": 0.1308
+  },
+  {
+   "form": "抄本·原文照抄",
+   "bits": 6.5077,
+   "note_bytes": 9241,
+   "note_kb": 9.024,
+   "saved_vs_note_absent": 0.9438,
+   "bits_per_kb": 0.1046
+  }
+ ]
+}

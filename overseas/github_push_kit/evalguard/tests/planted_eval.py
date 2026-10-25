@@ -1,1 +1,35 @@
-IiIiRklYVFVSRSAtIGRlbGliZXJhdGVseSBicm9rZW4uIDE2IHBsYW50ZWQgZGVmZWN0cywgb25lIHBlciBldmFsZ3VhcmQgcnVsZS4KTm90IGZvciBleGVjdXRpb247IGl0IGV4aXN0cyB0byBiZSBsaW50ZWQuIiIiCmltcG9ydCByYW5kb20sIGpzb24sIHJlcXVlc3RzCgpkZWYgcnVuKGNvbmRzLCBkYXRhKToKICAgIGFjYyA9IFtdICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIEVHMDAyIG5vIGJhc2VsaW5lCiAgICBmb3IgYyBpbiBjb25kczoKICAgICAgICBpZiBsZW4oZGF0YVtjXSkgPT0gMDoKICAgICAgICAgICAgY29udGludWUgICAgICAgICAgICAgICAgICAgICAgICAgICAjIEVHMDExIHNraXAKICAgICAgICByID0gcmFuZG9tLnJhbmRvbSgpICAgICAgICAgICAgICAgICAgICAjIEVHMDAxIHVuc2VlZGVkCiAgICAgICAgaWYgciA+IDAuNjM6ICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBFRzAwMyBtYWdpYyB0aHJlc2hvbGQKICAgICAgICAgICAgYWNjLmFwcGVuZChsZW4oZGF0YVtjXSkgLyBzdW0obGVuKHgpIGZvciB4IGluIGRhdGFbY10pKSAgIyBFRzAwNSB1bmd1YXJkZWQgZGl2CiAgICAgICAgZWxzZToKICAgICAgICAgICAgYWNjLmFwcGVuZCgwKQogICAgdHJ5OgogICAgICAgIG1vZGVsLmZpdChkYXRhKSAgICAgICAgICAgICAgICAgICAgICAgICMgRUcwMDggZml0K2V2YWwgc2FtZSBjb3JwdXMKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcGFzcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBFRzAwNiBzaWxlbnQgZXhjZXB0CiAgICBmcm9tIHNrbGVhcm4uY2x1c3RlciBpbXBvcnQgS01lYW5zCiAgICBrbSA9IEtNZWFucyhuX2NsdXN0ZXJzPTQpICAgICAgICAgICAgICAgICAgIyBFRzAwNCBzaW5nbGUgY3V0LW9mZgogICAgZGVhZF92YXIgPSBsZW4oYWNjKSAgICAgICAgICAgICAgICAgICAgICAgICMgRUcwMDkgYXNzaWduZWQgbmV2ZXIgcmVhZAogICAgcHJpbnQoInJlc3VsdHMgYXJjaGl2ZWQiKSAgICAgICAgICAgICAgICAgICMgRUcwMDcgY2xhaW1zIHNhdmUsIG5vIHdyaXRlCiAgICBoaXRfcmF0ZSA9IHN1bShhY2MpIC8gbGVuKGFjYykgICAgICAgICAgICAgIyBFRzAxMyByYXRpbywgbm8gY291bnQKICAgIHByaW50KGYiYWNjdXJhY3k9e2hpdF9yYXRlfSIpICAgICAgICAgICAgICAjIEVHMDEyIG5vIHBvcy9jaGFuY2UgY29udHJvbAogICAgb3ZlcmFsbCA9IHN1bShhY2MpIC8gbGVuKGFjYykgICAgICAgICAgICAgICMgRUcwMTUgYWdncmVnYXRlLCBubyBwZXItYXhpcwogICAgcmVzcCA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9leGFtcGxlLmNvbS9hcGkiKSAgICMgRUcwMTYgbm8gc3RhdHVzL3RpbWVzdGFtcAogICAgcmV0dXJuIHsib3ZlcmFsbCI6IG92ZXJhbGx9CgoKZGVmIHNlY29uZF9icm9rZW5fYmxvY2soY29uZHMsIGF4aXNfc2NvcmVzKToKICAgICIiIlNlY29uZCBwbGFudGVkIGJsb2NrOiBFRzAxNCArIEVHMDE1IGRlZmVjdHMuIiIiCiAgICBmb3IgYyBpbiBjb25kczoKICAgICAgICBmaXhlZF9yZWYgPSByYW5kb20uY2hvaWNlKGNvbmRzKSAgICAgICAgICAjIEVHMDE0ICdmaXhlZCcgcmVnZW5lcmF0ZWQgaW4gbG9vcAogICAgICAgIHRvdGFsX3Njb3JlID0gc3VtKGF4aXNfc2NvcmVzW2NdKSAvIG1heChsZW4oYXhpc19zY29yZXNbY10pLCAxKQogICAgcmV0dXJuIHsib3ZlcmFsbCI6IHRvdGFsX3Njb3JlfSAgICAgICAgICAgICAgICMgRUcwMTUgYWdncmVnYXRlLCBubyBwZXItYXhpcwo=
+"""FIXTURE - deliberately broken. 16 planted defects, one per evalguard rule.
+Not for execution; it exists to be linted."""
+import random, json, requests
+
+def run(conds, data):
+    acc = []                                   # EG002 no baseline
+    for c in conds:
+        if len(data[c]) == 0:
+            continue                           # EG011 skip
+        r = random.random()                    # EG001 unseeded
+        if r > 0.63:                           # EG003 magic threshold
+            acc.append(len(data[c]) / sum(len(x) for x in data[c]))  # EG005 unguarded div
+        else:
+            acc.append(0)
+    try:
+        model.fit(data)                        # EG008 fit+eval same corpus
+    except Exception:
+        pass                                   # EG006 silent except
+    from sklearn.cluster import KMeans
+    km = KMeans(n_clusters=4)                  # EG004 single cut-off
+    dead_var = len(acc)                        # EG009 assigned never read
+    print("results archived")                  # EG007 claims save, no write
+    hit_rate = sum(acc) / len(acc)             # EG013 ratio, no count
+    print(f"accuracy={hit_rate}")              # EG012 no pos/chance control
+    overall = sum(acc) / len(acc)              # EG015 aggregate, no per-axis
+    resp = requests.get("https://example.com/api")   # EG016 no status/timestamp
+    return {"overall": overall}
+
+
+def second_broken_block(conds, axis_scores):
+    """Second planted block: EG014 + EG015 defects."""
+    for c in conds:
+        fixed_ref = random.choice(conds)          # EG014 'fixed' regenerated in loop
+        total_score = sum(axis_scores[c]) / max(len(axis_scores[c]), 1)
+    return {"overall": total_score}               # EG015 aggregate, no per-axis

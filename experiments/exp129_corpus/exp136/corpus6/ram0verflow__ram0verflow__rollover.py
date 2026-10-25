@@ -1,1 +1,113 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKUm9sbCB0aGUgc3VibWlzc2lvbiB0aHJlYWRzIG92ZXIgYmVmb3JlIEdpdEh1YiBjbG9zZXMgdGhlbS4KCkFuIGlzc3VlIGFjY2VwdHMgMiw1MDAgY29tbWVudHMgYW5kIHRoZW4gc2lsZW50bHkgYWNjZXB0cyBubyBtb3JlLiBCb3RoIG9mCnRoaXMgY2hhaW4ncyB0aHJlYWRzIGhpdCB0aGF0IHdhbGwsIHdoaWNoIHRha2VzIHRoZSB3aG9sZSBzdWJtaXNzaW9uIGNoYW5uZWwKZG93biB3aXRob3V0IGFueSBlcnJvciBhbnlvbmUgY2FuIHNlZS4KClNvIHRoZSBhY3RpdmUgdGhyZWFkIG51bWJlcnMgbGl2ZSBpbiBjaGFpbi9pc3N1ZXMuanNvbiByYXRoZXIgdGhhbiBpbiB0aGUKUkVBRE1FJ3MgcHJvc2UuIFRoaXMgc2NyaXB0IGNoZWNrcyBob3cgZnVsbCBlYWNoIG9uZSBpcywgb3BlbnMgYSByZXBsYWNlbWVudAp3aGVuIGl0IGlzIG5lYXJseSBmdWxsLCBwb2ludHMgdGhlIFJFQURNRSBhdCBpdCwgYW5kIGxlYXZlcyBhIHNpZ25wb3N0IG9uIHRoZQpvbGQgdGhyZWFkLiBSdW4gb24gYSBzY2hlZHVsZSBieSAuZ2l0aHViL3dvcmtmbG93cy9yb2xsb3Zlci55bWwuCiIiIgoKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCgpJU1NVRVNfRklMRSA9IG9zLnBhdGguam9pbigiY2hhaW4iLCAiaXNzdWVzLmpzb24iKQpSRUFETUUgPSAiUkVBRE1FLm1kIgpMSU1JVCA9IDI0MDAgICMgR2l0SHViJ3MgaGFyZCBjYXAgaXMgMjUwMDsgbGVhdmUgcm9vbSBmb3IgdGhlIHNpZ25wb3N0CgpUSVRMRVMgPSB7CiAgICAiYmxvY2siOiAiTWluZSBhIGJsb2NrIiwKICAgICJtZW1wb29sIjogIk1lbXBvb2wgYW5kIGlkZW50aXRpZXMiLAp9CkJPRElFUyA9IHsKICAgICJibG9jayI6ICgKICAgICAgICAiUGFzdGUgdGhlIGByb2ZsLWJsb2NrLXYxOmAgbGluZSBwcmludGVkIGJ5IGBweXRob24zIG1pbmVyLnB5YCBoZXJlLlxuXG4iCiAgICAgICAgIlRoZSBub2RlIHZhbGlkYXRlcyBpdCwgYXBwZW5kcyBpdCB0byB0aGUgY2hhaW4gaWYgaXQgaG9sZHMgdXAsIGFuZCAiCiAgICAgICAgInJlcGxpZXMgd2l0aCB0aGUgcmVzdWx0LiBTZWUgdGhlIFtSRUFETUVdKC4uLy4uLyNtaW5lLWEtYmxvY2spLlxuIgogICAgKSwKICAgICJtZW1wb29sIjogKAogICAgICAgICJQYXN0ZSB0aGUgYHJvZmwtdHgtdjE6YCBsaW5lIHByaW50ZWQgYnkgYHB5dGhvbjMgd2FsbGV0LnB5IHNlbmRgIGhlcmUgIgogICAgICAgICJ0byBxdWV1ZSBhIHRyYW5zYWN0aW9uLCBvciB0aGUgYHJvZmwtaWQtdjE6YCBsaW5lIHByaW50ZWQgYnkgIgogICAgICAgICJgcHl0aG9uMyB3YWxsZXQucHkgaWRlbnRpdHlgIHRvIHB1dCB5b3VyIGhhbmRsZSBiZXNpZGUgeW91ciBiYWxhbmNlLlxuXG4iCiAgICAgICAgIlNlZSB0aGUgW1JFQURNRV0oLi4vLi4vI3NlbmQtY29pbnMpLlxuIgogICAgKSwKfQoKCmRlZiBnaCgqYXJnczogc3RyKSAtPiBzdHI6CiAgICByZXR1cm4gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgWyJnaCIsICphcmdzXSwgY2hlY2s9VHJ1ZSwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlCiAgICApLnN0ZG91dC5zdHJpcCgpCgoKZGVmIGNvbW1lbnRfY291bnQobnVtYmVyOiBpbnQpIC0+IGludDoKICAgIHJlcG8gPSBvcy5lbnZpcm9uWyJHSVRIVUJfUkVQT1NJVE9SWSJdCiAgICByZXR1cm4gaW50KGdoKCJhcGkiLCBmInJlcG9zL3tyZXBvfS9pc3N1ZXMve251bWJlcn0iLCAiLS1qcSIsICIuY29tbWVudHMiKSkKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIHdpdGggb3BlbihJU1NVRVNfRklMRSwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZmg6CiAgICAgICAgaXNzdWVzID0ganNvbi5sb2FkKGZoKQoKICAgIHJlYWRtZSA9IG9wZW4oUkVBRE1FLCBlbmNvZGluZz0idXRmLTgiKS5yZWFkKCkKICAgIHJvbGxlZCA9IFtdCgogICAgZm9yIGtpbmQsIG51bWJlciBpbiBzb3J0ZWQoaXNzdWVzLml0ZW1zKCkpOgogICAgICAgIGNvdW50ID0gY29tbWVudF9jb3VudChudW1iZXIpCiAgICAgICAgcHJpbnQoZiJ7a2luZH06IGlzc3VlICN7bnVtYmVyfSBob2xkcyB7Y291bnR9IGNvbW1lbnQocykiKQogICAgICAgIGlmIGNvdW50IDwgTElNSVQ6CiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIG5ldyA9IGdoKAogICAgICAgICAgICAiaXNzdWUiLCAiY3JlYXRlIiwKICAgICAgICAgICAgIi0tdGl0bGUiLCBUSVRMRVNba2luZF0sCiAgICAgICAgICAgICItLWJvZHkiLCBCT0RJRVNba2luZF0sCiAgICAgICAgICAgICItLWxhYmVsIiwgInJvZmwiLAogICAgICAgICkKICAgICAgICBuZXdfbnVtYmVyID0gaW50KG5ldy5yc3RyaXAoIi8iKS5yc3BsaXQoIi8iLCAxKVstMV0pCiAgICAgICAgcHJpbnQoZiJ7a2luZH06IG9wZW5lZCAje25ld19udW1iZXJ9IikKCiAgICAgICAgcmVhZG1lID0gcmUuc3ViKHJmIlwuXC4vXC5cLi9pc3N1ZXMve251bWJlcn1cYiIsIGYiLi4vLi4vaXNzdWVzL3tuZXdfbnVtYmVyfSIsIHJlYWRtZSkKICAgICAgICBpc3N1ZXNba2luZF0gPSBuZXdfbnVtYmVyCiAgICAgICAgcm9sbGVkLmFwcGVuZCgoa2luZCwgbnVtYmVyLCBuZXdfbnVtYmVyKSkKCiAgICAgICAgIyBOb3QgYSBjb21tZW50OiB0aGUgdGhyZWFkIGlzIGZ1bGwsIHNvIGEgY29tbWVudCBvbiBpdCBpcyByZWZ1c2VkCiAgICAgICAgIyB3aXRoIGEgNDAzLiBUaGUgc2lnbnBvc3QgaGFzIHRvIGdvIGluIHRoZSB0aXRsZSBhbmQgdGhlIGJvZHkuCiAgICAgICAgcmVwbyA9IG9zLmVudmlyb25bIkdJVEhVQl9SRVBPU0lUT1JZIl0KICAgICAgICBvbGRfYm9keSA9IGdoKCJhcGkiLCBmInJlcG9zL3tyZXBvfS9pc3N1ZXMve251bWJlcn0iLCAiLS1qcSIsICIuYm9keSIpCiAgICAgICAgZ2goImFwaSIsIGYicmVwb3Mve3JlcG99L2lzc3Vlcy97bnVtYmVyfSIsICItWCIsICJQQVRDSCIsCiAgICAgICAgICAgIi1mIiwgZiJ0aXRsZT17VElUTEVTW2tpbmRdfSAoZnVsbCDigJQgc2VlICN7bmV3X251bWJlcn0pIiwKICAgICAgICAgICAiLWYiLCAiYm9keT0iICsgKAogICAgICAgICAgICAgICBmIioqVGhpcyB0aHJlYWQgaXMgZnVsbC4qKiBHaXRIdWIgc3RvcHMgYWNjZXB0aW5nIGNvbW1lbnRzIGF0ICIKICAgICAgICAgICAgICAgZiIyLDUwMCBhbmQgcmVwb3J0cyBub3RoaW5nLCB3aGljaCBpcyB3aHkgc3VibWlzc2lvbnMgaGVyZSB3ZW50ICIKICAgICAgICAgICAgICAgZiJxdWlldC5cblxuU3VibWlzc2lvbnMgY29udGludWUgb24gKioje25ld19udW1iZXJ9KiouXG5cbi0tLVxuXG4iCiAgICAgICAgICAgICAgICsgb2xkX2JvZHkpKQogICAgICAgIGdoKCJpc3N1ZSIsICJsb2NrIiwgc3RyKG51bWJlciksICItLXJlYXNvbiIsICJyZXNvbHZlZCIpCgogICAgaWYgbm90IHJvbGxlZDoKICAgICAgICBwcmludCgibm90aGluZyB0byByb2xsIG92ZXIiKQogICAgICAgIHJldHVybiAwCgogICAgd2l0aCBvcGVuKElTU1VFU19GSUxFLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGZoOgogICAgICAgIGpzb24uZHVtcChpc3N1ZXMsIGZoLCBpbmRlbnQ9Miwgc29ydF9rZXlzPVRydWUpCiAgICAgICAgZmgud3JpdGUoIlxuIikKICAgIHdpdGggb3BlbihSRUFETUUsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZmg6CiAgICAgICAgZmgud3JpdGUocmVhZG1lKQoKICAgIG91dCA9IG9zLmVudmlyb24uZ2V0KCJHSVRIVUJfT1VUUFVUIikKICAgIGlmIG91dDoKICAgICAgICB3aXRoIG9wZW4ob3V0LCAiYSIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGZoOgogICAgICAgICAgICBmaC53cml0ZSgicm9sbGVkPXRydWVcbiIpCiAgICAgICAgICAgIGZoLndyaXRlKCJzdW1tYXJ5PSIgKyAiLCAiLmpvaW4oZiJ7a30gI3tvfeKGkiN7bn0iIGZvciBrLCBvLCBuIGluIHJvbGxlZCkgKyAiXG4iKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""
+Roll the submission threads over before GitHub closes them.
+
+An issue accepts 2,500 comments and then silently accepts no more. Both of
+this chain's threads hit that wall, which takes the whole submission channel
+down without any error anyone can see.
+
+So the active thread numbers live in chain/issues.json rather than in the
+README's prose. This script checks how full each one is, opens a replacement
+when it is nearly full, points the README at it, and leaves a signpost on the
+old thread. Run on a schedule by .github/workflows/rollover.yml.
+"""
+
+import json
+import os
+import re
+import subprocess
+import sys
+
+ISSUES_FILE = os.path.join("chain", "issues.json")
+README = "README.md"
+LIMIT = 2400  # GitHub's hard cap is 2500; leave room for the signpost
+
+TITLES = {
+    "block": "Mine a block",
+    "mempool": "Mempool and identities",
+}
+BODIES = {
+    "block": (
+        "Paste the `rofl-block-v1:` line printed by `python3 miner.py` here.\n\n"
+        "The node validates it, appends it to the chain if it holds up, and "
+        "replies with the result. See the [README](../../#mine-a-block).\n"
+    ),
+    "mempool": (
+        "Paste the `rofl-tx-v1:` line printed by `python3 wallet.py send` here "
+        "to queue a transaction, or the `rofl-id-v1:` line printed by "
+        "`python3 wallet.py identity` to put your handle beside your balance.\n\n"
+        "See the [README](../../#send-coins).\n"
+    ),
+}
+
+
+def gh(*args: str) -> str:
+    return subprocess.run(
+        ["gh", *args], check=True, capture_output=True, text=True
+    ).stdout.strip()
+
+
+def comment_count(number: int) -> int:
+    repo = os.environ["GITHUB_REPOSITORY"]
+    return int(gh("api", f"repos/{repo}/issues/{number}", "--jq", ".comments"))
+
+
+def main() -> int:
+    with open(ISSUES_FILE, encoding="utf-8") as fh:
+        issues = json.load(fh)
+
+    readme = open(README, encoding="utf-8").read()
+    rolled = []
+
+    for kind, number in sorted(issues.items()):
+        count = comment_count(number)
+        print(f"{kind}: issue #{number} holds {count} comment(s)")
+        if count < LIMIT:
+            continue
+
+        new = gh(
+            "issue", "create",
+            "--title", TITLES[kind],
+            "--body", BODIES[kind],
+            "--label", "rofl",
+        )
+        new_number = int(new.rstrip("/").rsplit("/", 1)[-1])
+        print(f"{kind}: opened #{new_number}")
+
+        readme = re.sub(rf"\.\./\.\./issues/{number}\b", f"../../issues/{new_number}", readme)
+        issues[kind] = new_number
+        rolled.append((kind, number, new_number))
+
+        # Not a comment: the thread is full, so a comment on it is refused
+        # with a 403. The signpost has to go in the title and the body.
+        repo = os.environ["GITHUB_REPOSITORY"]
+        old_body = gh("api", f"repos/{repo}/issues/{number}", "--jq", ".body")
+        gh("api", f"repos/{repo}/issues/{number}", "-X", "PATCH",
+           "-f", f"title={TITLES[kind]} (full — see #{new_number})",
+           "-f", "body=" + (
+               f"**This thread is full.** GitHub stops accepting comments at "
+               f"2,500 and reports nothing, which is why submissions here went "
+               f"quiet.\n\nSubmissions continue on **#{new_number}**.\n\n---\n\n"
+               + old_body))
+        gh("issue", "lock", str(number), "--reason", "resolved")
+
+    if not rolled:
+        print("nothing to roll over")
+        return 0
+
+    with open(ISSUES_FILE, "w", encoding="utf-8") as fh:
+        json.dump(issues, fh, indent=2, sort_keys=True)
+        fh.write("\n")
+    with open(README, "w", encoding="utf-8") as fh:
+        fh.write(readme)
+
+    out = os.environ.get("GITHUB_OUTPUT")
+    if out:
+        with open(out, "a", encoding="utf-8") as fh:
+            fh.write("rolled=true\n")
+            fh.write("summary=" + ", ".join(f"{k} #{o}→#{n}" for k, o, n in rolled) + "\n")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

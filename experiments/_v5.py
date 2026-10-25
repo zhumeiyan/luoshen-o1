@@ -1,1 +1,37 @@
-aW1wb3J0IHN5cywgbnVtcHkgYXMgbnAKc3lzLnBhdGguaW5zZXJ0KDAsJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xJykKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQpmcm9tIGNvcmUud29ybGRfcmh5dGhtIGltcG9ydCBXb3JsZFJoeXRobQpOPTgKcHJpbnQoIj0iKjg0KQpwcmludCgiIOS4uuS7gOS5iOekvuS8muiKguW+iyAwLzI0IOS9humUgeatu+egtOW+l+acgOW9u+W6lSjku73pop0wPTAuMDk3OCnvvJ8iKQpwcmludCgiPSIqODQpCnByaW50KGYiXG4gIExpZmU1IOm7mOiupCBmb3JhZ2VfY2ggPSA3ICDihpAg5Y+q5pyJ5b6A44CQ6YCa6YGTN+OAkeaKlei1hOa6kOaJjeiDveWQg+WIsOS4nOilvyIpCkw9TGlmZTUoTj04LHNlZWQ9MykKcHJpbnQoZiIgIOWunua1iyBmb3JhZ2VfY2ggPSB7TC5mb3JhZ2VfY2h9IikKClc9V29ybGRSaHl0aG0oTj04LCBtaW51dGVzX3Blcl90aWNrPTYwLCBzZWVkPTUpCnByaW50KGYiXG4gIOekvuS8muiKguW+iyA0MDAg5ouN77yM5q+P5Liq6YCa6YGT5bmz5Z2H6KKr5o6o5aSa5bCR77yfIikKYWNjPW5wLnplcm9zKE4pCmZvciB0IGluIHJhbmdlKDQwMCk6CiAgICBhY2MgKz0gVy5zdGVwKDIuMCkKYWNjLz00MDAKcHJpbnQoZiJcbiAg6YCa6YGTOiAiICsgIiAgIi5qb2luKGYie2N9IiBmb3IgYyBpbiByYW5nZShOKSkpCnByaW50KGYiICDlvLrluqY6ICIgKyAiICAiLmpvaW4oZiJ7djouM2Z9IiBmb3IgdiBpbiBhY2MpKQpwcmludChmIlxuICDimIUg5pGE6aOf6YCa6YGTKDcpIOW+l+WIsCB7YWNjWzddOi40Zn3vvIzmnIDlvLrpgJrpgZMoe2ludChucC5hcmdtYXgoYWNjKSl9KSDlvpfliLAge2FjYy5tYXgoKTouNGZ9IikKcHJpbnQoZiIgIOKYhSDmr5TlgLwge2FjY1s3XS9hY2MubWF4KCk6LjNmfSAg4oaQIOi2iuaOpei/kTHotorlnYfljIAiKQoKIyDlr7nmr5TmnLrmorDova7mjaIKYWNjMj1ucC56ZXJvcyhOKQpmb3IgdCBpbiByYW5nZSg0MDApOgogICAgbnY9bnAuemVyb3MoTik7IG52W3QlTl09Mi4wCiAgICBhY2MyKz1udgphY2MyLz00MDAKcHJpbnQoZiJcbiAg5py65qKw6L2u5o2iIOmAmumBkzcg5bmz5Z2HIHthY2MyWzddOi40Zn3vvIjmr4/pgJrpgZMge2FjYzIubWVhbigpOi40Zn3vvIzlrozlhajlnYfljIDvvIkiKQoKcHJpbnQoIlxuIisiPSIqODQpCnByaW50KCIg57uT6K666aqM6K+B77ya56S+5Lya6IqC5b6L5piv5LiN5piv44CO5oqK5rOo5oSP5Yqb5bim6LWw5LqG5L2G5rKh5Y676KeF6aOf44CPIikKcHJpbnQoIj0iKjg0KQpwcmludChmIiAg56S+5Lya6IqC5b6LIOS7veminTA9ezAuMDk3ODouNGZ9IOKGkiDotYTmupDnoa7lrp7nprvlvIDkuobplIHmrbvnmoTpgJrpgZMwIikKcHJpbnQoZiIgIOS9huWtmOa0uyAwLzI0ICDihpIg5Y6755qE6YKj5Lqb5Zyw5pa544CQ5LiN5Lqn6IO96YeP44CRIikKcHJpbnQoZiIgIOKYhSDov5nmraPmmK/vvJrooqvlpKnmsJQv5Lq6576k5bim552A6LWw5LqG5LiA5aSp77yM5L2G5rKh5ZCD6aWtIikK
+import sys, numpy as np
+sys.path.insert(0,'/data/workspace/luoshen-o1')
+from core.life5 import Life5
+from core.world_rhythm import WorldRhythm
+N=8
+print("="*84)
+print(" 为什么社会节律 0/24 但锁死破得最彻底(份额0=0.0978)？")
+print("="*84)
+print(f"\n  Life5 默认 forage_ch = 7  ← 只有往【通道7】投资源才能吃到东西")
+L=Life5(N=8,seed=3)
+print(f"  实测 forage_ch = {L.forage_ch}")
+
+W=WorldRhythm(N=8, minutes_per_tick=60, seed=5)
+print(f"\n  社会节律 400 拍，每个通道平均被推多少？")
+acc=np.zeros(N)
+for t in range(400):
+    acc += W.step(2.0)
+acc/=400
+print(f"\n  通道: " + "  ".join(f"{c}" for c in range(N)))
+print(f"  强度: " + "  ".join(f"{v:.3f}" for v in acc))
+print(f"\n  ★ 摄食通道(7) 得到 {acc[7]:.4f}，最强通道({int(np.argmax(acc))}) 得到 {acc.max():.4f}")
+print(f"  ★ 比值 {acc[7]/acc.max():.3f}  ← 越接近1越均匀")
+
+# 对比机械轮换
+acc2=np.zeros(N)
+for t in range(400):
+    nv=np.zeros(N); nv[t%N]=2.0
+    acc2+=nv
+acc2/=400
+print(f"\n  机械轮换 通道7 平均 {acc2[7]:.4f}（每通道 {acc2.mean():.4f}，完全均匀）")
+
+print("\n"+"="*84)
+print(" 结论验证：社会节律是不是『把注意力带走了但没去觅食』")
+print("="*84)
+print(f"  社会节律 份额0={0.0978:.4f} → 资源确实离开了锁死的通道0")
+print(f"  但存活 0/24  → 去的那些地方【不产能量】")
+print(f"  ★ 这正是：被天气/人群带着走了一天，但没吃饭")

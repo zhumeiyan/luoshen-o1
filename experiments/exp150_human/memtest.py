@@ -1,1 +1,20 @@
-aW1wb3J0IG9zLCBtbWFwLCBqc29uCmZyb20gbXVsdGlwcm9jZXNzaW5nIGltcG9ydCBzaGFyZWRfbWVtb3J5CkhFUkU9b3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCmRlZiB0KG4sZik6CiAgICB0cnk6IHByaW50KGYie259OiBPSyB7ZigpIXJ9IikKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZTogcHJpbnQoZiJ7bn06IEZBSUwge3R5cGUoZSkuX19uYW1lX199OiB7ZX0iKQoKIyAxKSBtbWFwIOaWh+S7tu+8muWGmeWQjuWQjOaYoOWwhOivu+WbngpkZWYgbTEoKToKICAgIHA9b3MucGF0aC5qb2luKEhFUkUsIm1tLmJpbiIpCiAgICBmPW9wZW4ocCwid2IiKTsgZi53cml0ZShiIlx4MDAiKjQwOTYpOyBmLmZsdXNoKCk7IGYuY2xvc2UoKQogICAgZz1vcGVuKHAsInIrYiIpOyBtbT1tbWFwLm1tYXAoZy5maWxlbm8oKSw0MDk2KQogICAgbW1bOjVdPWIiaGVsbG8iOyByPW1tWzo1XTsgbW0uZmx1c2goKQogICAgbW0uY2xvc2UoKTsgZy5jbG9zZSgpOyBvcy5yZW1vdmUocCk7IHJldHVybiByCiMgMikgc2hhcmVkX21lbW9yeSDlhpnlkI7nq4vljbPor7sKZGVmIG0yKCk6CiAgICBzaG09c2hhcmVkX21lbW9yeS5TaGFyZWRNZW1vcnkoY3JlYXRlPVRydWUsc2l6ZT0xMDI0KQogICAgc2htLmJ1Zls6NV09YiJoZWxsbyI7IHI9Ynl0ZXMoc2htLmJ1Zls6NV0pOyBzaG0uY2xvc2UoKTsgc2htLnVubGluaygpOyByZXR1cm4gcgp0KCJtbWFwIGZpbGUgd3JpdGUrc2FtZS1tYXAgcmVhZCIsIG0xKQp0KCJzaGFyZWRfbWVtb3J5IHdyaXRlK3JlYWQiLCBtMikK
+import os, mmap, json
+from multiprocessing import shared_memory
+HERE=os.path.dirname(os.path.abspath(__file__))
+def t(n,f):
+    try: print(f"{n}: OK {f()!r}")
+    except Exception as e: print(f"{n}: FAIL {type(e).__name__}: {e}")
+
+# 1) mmap 文件：写后同映射读回
+def m1():
+    p=os.path.join(HERE,"mm.bin")
+    f=open(p,"wb"); f.write(b"\x00"*4096); f.flush(); f.close()
+    g=open(p,"r+b"); mm=mmap.mmap(g.fileno(),4096)
+    mm[:5]=b"hello"; r=mm[:5]; mm.flush()
+    mm.close(); g.close(); os.remove(p); return r
+# 2) shared_memory 写后立即读
+def m2():
+    shm=shared_memory.SharedMemory(create=True,size=1024)
+    shm.buf[:5]=b"hello"; r=bytes(shm.buf[:5]); shm.close(); shm.unlink(); return r
+t("mmap file write+same-map read", m1)
+t("shared_memory write+read", m2)

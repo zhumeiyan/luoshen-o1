@@ -1,1 +1,40 @@
-aW1wb3J0IGN2MiwgbnVtcHkgYXMgbnAsIGpzb24sIHN1YnByb2Nlc3MKY2FzZXM9anNvbi5sb2FkKG9wZW4oImNhc2VzLmpzb24iKSkKZGVmIGdlb20ocCk6CiAgICBpbT1jdjIuaW1yZWFkKHAsMClbOjMzMF0gICAgICAgICAgICMg5Y+q55yL5Zu+5b2i5Yy6CiAgICBfLGJ3PWN2Mi50aHJlc2hvbGQoaW0sMTI4LDI1NSxjdjIuVEhSRVNIX0JJTkFSWV9JTlYpCiAgICBjbnRzLF89Y3YyLmZpbmRDb250b3VycyhidyxjdjIuUkVUUl9FWFRFUk5BTCxjdjIuQ0hBSU5fQVBQUk9YX1NJTVBMRSkKICAgIGNudHM9W2MgZm9yIGMgaW4gY250cyBpZiBjdjIuY29udG91ckFyZWEoYyk+MjAwMF0KICAgIGM9c29ydGVkKGNudHMsa2V5PWxhbWJkYSBjOmN2Mi5ib3VuZGluZ1JlY3QoYylbMV0pWzBdCiAgICBBPWN2Mi5jb250b3VyQXJlYShjKTtQPWN2Mi5hcmNMZW5ndGgoYyxUcnVlKTtjaXJjPTQqbnAucGkqQS8oUCpQKQogICAgaHVsbD1jdjIuY29udmV4SHVsbChjKTtzb2w9QS9jdjIuY29udG91ckFyZWEoaHVsbCkKICAgIHY9bGVuKGN2Mi5hcHByb3hQb2x5RFAoYywwLjAzKlAsVHJ1ZSkpCiAgICBnPSJjaXJjbGUiIGlmIGNpcmM+MC44MiBlbHNlICgic3RhciIgaWYgKHY+PTggYW5kIHNvbDwwLjc1KSBlbHNlICgidHJpYW5nbGUiIGlmIHY8PTMgZWxzZSAic3F1YXJlIikpCiAgICByZXR1cm4gZwpkZWYgb2NyKHApOgogICAgaW09Y3YyLmltcmVhZChwLDApWzM0MDpdICAgICAgICAgICAjIOWPqueci+aWh+Wtl+WMugogICAgY3YyLmltd3JpdGUoIl90LnBuZyIsaW0pCiAgICByPXN1YnByb2Nlc3MucnVuKFsidGVzc2VyYWN0IiwiX3QucG5nIiwic3Rkb3V0IiwiLWwiLCJjaGlfc2ltIiwiLS1wc20iLCIxMCJdLAogICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSkKICAgIHJldHVybiAiIi5qb2luKHIuc3Rkb3V0LnNwbGl0KCkpLnN0cmlwKCkKbGFiPXsiY2lyY2xlIjoi5ZyGIiwic3F1YXJlIjoi5pa5IiwidHJpYW5nbGUiOiLkuInop5IiLCJzdGFyIjoi5pifIn0KcmVzPVtdCmZvciBjIGluIGNhc2VzOgogICAgZz1nZW9tKGNbInBhdGgiXSk7IHQ9b2NyKGNbInBhdGgiXSkKICAgIG9jcl9vayA9ICh0PT1jWyJ0ZXh0Il0pIGlmIGNbInRleHQiXSBlbHNlICh0PT0iIikKICAgIGdlb19vayA9IChnPT1jWyJzaGFwZSJdKQogICAgY29uZmxpY3QgPSBOb25lCiAgICBpZiBjWyJ0ZXh0Il06CiAgICAgICAgaW52PXt2OmsgZm9yIGssdiBpbiBsYWIuaXRlbXMoKX0KICAgICAgICBjb25mbGljdCA9ICh0IGluIGludikgYW5kIChpbnZbdF0hPWcpCiAgICByZXMuYXBwZW5kKHsqKmMsImdlb20iOmcsIm9jciI6dCwib2NyX29rIjpvY3Jfb2ssImdlb19vayI6Z2VvX29rLCJjb25mbGljdCI6Y29uZmxpY3R9KQpqc29uLmR1bXAocmVzLG9wZW4oInJlYWQyLmpzb24iLCJ3IiksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQpwcmludChmJ3sic2hhcGUiOjlzfSB7Im1vZGUiOjlzfSDlrZfnnJ/lgLwgT0NSICDlrZflr7kgfCDlvaLnnJ/lgLwg5Yeg5L2VICDlvaLlr7kgfCDnn5vnm77mo4Dlh7onKQpmb3IgciBpbiByZXM6CiAgICBwcmludChmJ3tyWyJzaGFwZSJdOjlzfSB7clsibW9kZSJdOjlzfSB7c3RyKHJbInRleHQiXSk6NXN9IHtyWyJvY3IiXTo1c30ge3N0cihyWyJvY3Jfb2siXSk6NXN9IHwge3JbInNoYXBlIl06OXN9IHtyWyJnZW9tIl06OXN9IHtzdHIoclsiZ2VvX29rIl0pOjVzfSB8IHtyWyJjb25mbGljdCJdfScpCmltcG9ydCBjb2xsZWN0aW9ucwpwcmludCgiXG7lh6DkvZXlh4bnoa7njociLCBzdW0oclsiZ2VvX29rIl0gZm9yIHIgaW4gcmVzKSwiLyIsbGVuKHJlcykpCnByaW50KCJPQ1Llh4bnoa7njoco5pyJ5a2X57uEKSIsIHN1bShyWyJvY3Jfb2siXSBmb3IgciBpbiByZXMgaWYgclsidGV4dCJdKSwiLyIsbGVuKFtyIGZvciByIGluIHJlcyBpZiByWyJ0ZXh0Il1dKSkKcHJpbnQoIuaXoOWtl+e7hOW5u+inieaVsCIsIHN1bSgxIGZvciByIGluIHJlcyBpZiBub3QgclsidGV4dCJdIGFuZCByWyJvY3IiXSE9IiIpLCIvIixsZW4oW3IgZm9yIHIgaW4gcmVzIGlmIG5vdCByWyJ0ZXh0Il1dKSkKY2Y9W3IgZm9yIHIgaW4gcmVzIGlmIHJbIm1vZGUiXT09ImNvbmZsaWN0Il0KcHJpbnQoIuefm+ebvuajgOWHuiIsIHN1bSgxIGZvciByIGluIGNmIGlmIHJbImNvbmZsaWN0Il0pLCIvIixsZW4oY2YpKQo=
+import cv2, numpy as np, json, subprocess
+cases=json.load(open("cases.json"))
+def geom(p):
+    im=cv2.imread(p,0)[:330]           # 只看图形区
+    _,bw=cv2.threshold(im,128,255,cv2.THRESH_BINARY_INV)
+    cnts,_=cv2.findContours(bw,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
+    cnts=[c for c in cnts if cv2.contourArea(c)>2000]
+    c=sorted(cnts,key=lambda c:cv2.boundingRect(c)[1])[0]
+    A=cv2.contourArea(c);P=cv2.arcLength(c,True);circ=4*np.pi*A/(P*P)
+    hull=cv2.convexHull(c);sol=A/cv2.contourArea(hull)
+    v=len(cv2.approxPolyDP(c,0.03*P,True))
+    g="circle" if circ>0.82 else ("star" if (v>=8 and sol<0.75) else ("triangle" if v<=3 else "square"))
+    return g
+def ocr(p):
+    im=cv2.imread(p,0)[340:]           # 只看文字区
+    cv2.imwrite("_t.png",im)
+    r=subprocess.run(["tesseract","_t.png","stdout","-l","chi_sim","--psm","10"],
+                     capture_output=True,text=True)
+    return "".join(r.stdout.split()).strip()
+lab={"circle":"圆","square":"方","triangle":"三角","star":"星"}
+res=[]
+for c in cases:
+    g=geom(c["path"]); t=ocr(c["path"])
+    ocr_ok = (t==c["text"]) if c["text"] else (t=="")
+    geo_ok = (g==c["shape"])
+    conflict = None
+    if c["text"]:
+        inv={v:k for k,v in lab.items()}
+        conflict = (t in inv) and (inv[t]!=g)
+    res.append({**c,"geom":g,"ocr":t,"ocr_ok":ocr_ok,"geo_ok":geo_ok,"conflict":conflict})
+json.dump(res,open("read2.json","w"),ensure_ascii=False,indent=1)
+print(f'{"shape":9s} {"mode":9s} 字真值 OCR  字对 | 形真值 几何  形对 | 矛盾检出')
+for r in res:
+    print(f'{r["shape"]:9s} {r["mode"]:9s} {str(r["text"]):5s} {r["ocr"]:5s} {str(r["ocr_ok"]):5s} | {r["shape"]:9s} {r["geom"]:9s} {str(r["geo_ok"]):5s} | {r["conflict"]}')
+import collections
+print("\n几何准确率", sum(r["geo_ok"] for r in res),"/",len(res))
+print("OCR准确率(有字组)", sum(r["ocr_ok"] for r in res if r["text"]),"/",len([r for r in res if r["text"]]))
+print("无字组幻觉数", sum(1 for r in res if not r["text"] and r["ocr"]!=""),"/",len([r for r in res if not r["text"]]))
+cf=[r for r in res if r["mode"]=="conflict"]
+print("矛盾检出", sum(1 for r in cf if r["conflict"]),"/",len(cf))

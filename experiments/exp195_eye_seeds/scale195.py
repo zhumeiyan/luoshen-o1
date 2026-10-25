@@ -1,1 +1,34 @@
-aW1wb3J0IG1hdGgsanNvbgpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyLGRlZmF1bHRkaWN0CmV4ZWMob3BlbigncnVuMTk1LnB5JykucmVhZCgpLnNwbGl0KCdCTUFQUyA9JylbMF0pCmRlZiBydW5fb24odHh0LG5hbWUpOgogICAgbj1sZW4odHh0KTsgbnRyPWludChuKjAuOCk7IHRyLHRlPXR4dFs6bnRyXSx0eHRbbnRyOl0KICAgIGZyZXE9Q291bnRlcih0cik7IHRvdD1zdW0oZnJlcS52YWx1ZXMoKSkKICAgIG9yZGVyPVtjIGZvciBjLF8gaW4gZnJlcS5tb3N0X2NvbW1vbigpXTsgVj1sZW4oZnJlcSkKICAgIGdsb2JhbCBQX1VOSSxQX1VOSyxWT0NBQgogICAgVk9DQUI9bGlzdChmcmVxKTsgUF9VTkk9e2M6KGZyZXFbY10rQUxQSEFfVSkvKHRvdCtBTFBIQV9VKihWKzEpKSBmb3IgYyBpbiBWT0NBQn0KICAgIFBfVU5LPUFMUEhBX1UvKHRvdCtBTFBIQV9VKihWKzEpKQogICAgZGVmIG1iKEEpOgogICAgICAgIG0sYWNjLGI9e30sMC4wLDAKICAgICAgICBmb3IgYyBpbiBvcmRlcjoKICAgICAgICAgICAgbVtjXT1taW4oYixBLTEpOyBhY2MrPWZyZXFbY10vdG90CiAgICAgICAgICAgIHdoaWxlIGI8QS0xIGFuZCBhY2M+PShiKzEpL0E6IGIrPTEKICAgICAgICByZXR1cm4gbQogICAgcmVzPVtdCiAgICBibT1tYihWKQogICAgZm9yIGsgaW4gcmFuZ2UoMSw3KToKICAgICAgICBlPUV5ZShibSxWLGspOyBlLmZpdCh0cikKICAgICAgICBzPTAuMDsgaGlzdD1saXN0KHRyKQogICAgICAgIGZvciBjIGluIHRlOgogICAgICAgICAgICBzLT1tYXRoLmxvZzIobWF4KGUucHJvYihoaXN0LGMpLFBfVU5LKSk7IGhpc3QuYXBwZW5kKGMpCiAgICAgICAgYj1zL2xlbih0ZSk7IHJlcy5hcHBlbmQoeyJrIjprLCJiaXRzIjpyb3VuZChiLDQpfSkKICAgICAgICBwcmludChmIntuYW1lfSBOPXtufSBWPXtWfSBrPXtrfSBiaXRzPXtiOi40Zn0iKQogICAgYmVzdD1taW4ocmVzLGtleT1sYW1iZGEgcjpyWyJiaXRzIl0pCiAgICBwcmVkPW1hdGgubG9nKG4pL21hdGgubG9nKFYpIGlmIFY+MSBlbHNlIDAKICAgIHByaW50KGYie25hbWV9OiDmnIDkvJggayo9e2Jlc3RbJ2snXX0gKDE2MeWPt+mihOa1iyBsb2cgTi9sb2cgViA9IHtwcmVkOi4yZn0pIikKICAgIHJldHVybiB7Im5hbWUiOm5hbWUsIk4iOm4sIlYiOlYsImN1cnZlIjpyZXMsImtzdGFyIjpiZXN0WyJrIl0sInByZWRfayI6cm91bmQocHJlZCwyKX0KcjE9cnVuX29uKG9wZW4oJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0JyxlbmNvZGluZz0ndXRmLTgnKS5yZWFkKCksIueUqOaIt+ivreaWmSIpCmNvcmU9b3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCcsZW5jb2Rpbmc9J3V0Zi04JykucmVhZCgpCnIyPXJ1bl9vbihjb3JlLCLliKTmja7moLgiKQpqc29uLmR1bXAoW3IxLHIyXSxvcGVuKCdzY2FsZTE5NS5qc29uJywndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MikKcHJpbnQoInNhdmVkIikK
+import math,json
+from collections import Counter,defaultdict
+exec(open('run195.py').read().split('BMAPS =')[0])
+def run_on(txt,name):
+    n=len(txt); ntr=int(n*0.8); tr,te=txt[:ntr],txt[ntr:]
+    freq=Counter(tr); tot=sum(freq.values())
+    order=[c for c,_ in freq.most_common()]; V=len(freq)
+    global P_UNI,P_UNK,VOCAB
+    VOCAB=list(freq); P_UNI={c:(freq[c]+ALPHA_U)/(tot+ALPHA_U*(V+1)) for c in VOCAB}
+    P_UNK=ALPHA_U/(tot+ALPHA_U*(V+1))
+    def mb(A):
+        m,acc,b={},0.0,0
+        for c in order:
+            m[c]=min(b,A-1); acc+=freq[c]/tot
+            while b<A-1 and acc>=(b+1)/A: b+=1
+        return m
+    res=[]
+    bm=mb(V)
+    for k in range(1,7):
+        e=Eye(bm,V,k); e.fit(tr)
+        s=0.0; hist=list(tr)
+        for c in te:
+            s-=math.log2(max(e.prob(hist,c),P_UNK)); hist.append(c)
+        b=s/len(te); res.append({"k":k,"bits":round(b,4)})
+        print(f"{name} N={n} V={V} k={k} bits={b:.4f}")
+    best=min(res,key=lambda r:r["bits"])
+    pred=math.log(n)/math.log(V) if V>1 else 0
+    print(f"{name}: 最优 k*={best['k']} (161号预测 log N/log V = {pred:.2f})")
+    return {"name":name,"N":n,"V":V,"curve":res,"kstar":best["k"],"pred_k":round(pred,2)}
+r1=run_on(open('/data/workspace/luoshen-o1/experiments/exp180_record/u_side_full.txt',encoding='utf-8').read(),"用户语料")
+core=open('/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md',encoding='utf-8').read()
+r2=run_on(core,"判据核")
+json.dump([r1,r2],open('scale195.json','w'),ensure_ascii=False,indent=2)
+print("saved")

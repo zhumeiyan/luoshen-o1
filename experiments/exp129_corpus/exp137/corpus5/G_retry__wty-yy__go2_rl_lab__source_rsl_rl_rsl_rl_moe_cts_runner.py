@@ -1,1 +1,153 @@
-IyBDb3B5cmlnaHQgKGMpIDIwMjYgVGlhbnlhbmcgV3UKIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogTUlUCgoiIiJSdW5uZXIgc3BlY2lhbGl6YXRpb24gZm9yIE1vRS1DVFMuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIHRlbnNvcmRpY3QgaW1wb3J0IFRlbnNvckRpY3QKZnJvbSB0eXBpbmcgaW1wb3J0IEFueQoKZnJvbSByc2xfcmwuYmFzZS5iYXNlX3J1bm5lciBpbXBvcnQgQmFzZVJ1bm5lcgpmcm9tIHJzbF9ybC5iYXNlLmVudiBpbXBvcnQgVmVjRW52CmZyb20gcnNsX3JsLnV0aWxzIGltcG9ydCBSb2JvR2F1Z2VFdmFsdWF0b3IsIHJlc29sdmVfY2FsbGFibGUKCmZyb20gLmFsZ29yaXRobSBpbXBvcnQgTW9FQ1RTCmZyb20gLm1vZHVsZXMgaW1wb3J0IEFjdG9yQ3JpdGljTW9FQ1RTCmZyb20gLnN0b3JhZ2UgaW1wb3J0IE1vZUN0c1JvbGxvdXRTdG9yYWdlCgoKY2xhc3MgTW9lQ3RzUnVubmVyKEJhc2VSdW5uZXIpOgogICAgIiIiQ29uc3RydWN0LCB0cmFpbiwgZXhwb3J0LCBhbmQgZXZhbHVhdGUgYSBNb0UtQ1RTIHBvbGljeS4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgZW52OiBWZWNFbnYsIHRyYWluX2NmZzogZGljdCwgbG9nX2Rpcjogc3RyIHwgTm9uZSA9IE5vbmUsIGRldmljZTogc3RyID0gImNwdSIpIC0+IE5vbmU6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhlbnYsIHRyYWluX2NmZywgbG9nX2RpciwgZGV2aWNlKQogICAgICAgIG9icyA9IHNlbGYuZW52LmdldF9vYnNlcnZhdGlvbnMoKQogICAgICAgIHNlbGYuX3JvYm9nYXVnZV9zaW5nbGVfb2JzX2RpbSA9IGludChvYnNbInNpbmdsZV9vYnMiXS5zaGFwZVstMV0pIGlmICJzaW5nbGVfb2JzIiBpbiBvYnMgZWxzZSBOb25lCiAgICAgICAgc2VsZi5yb2JvZ2F1Z2VfZXZhbHVhdG9yID0gUm9ib0dhdWdlRXZhbHVhdG9yKAogICAgICAgICAgICB0YXNrX25hbWU9c3RyKHNlbGYuY2ZnWyJyb2JvZ2F1Z2UiXS5nZXQoInRhc2tfbmFtZSIsICJnbzJfbGFiXzEuMy4xIikpLAogICAgICAgICAgICBjb25maWc9c2VsZi5jZmdbInJvYm9nYXVnZSJdLAogICAgICAgICAgICBsb2dfZGlyPXNlbGYubG9nZ2VyLmxvZ19kaXIsCiAgICAgICAgICAgIHdyaXRlcj1zZWxmLmxvZ2dlci53cml0ZXIsCiAgICAgICAgICAgIGV4cG9ydF9wb2xpY3k9c2VsZi5fZXhwb3J0X3JvYm9nYXVnZV9wb2xpY3ksCiAgICAgICAgICAgIGV4cGVyaW1lbnRfbmFtZT1zdHIoc2VsZi5jZmcuZ2V0KCJleHBlcmltZW50X25hbWUiLCAicnNsX3JsIikpLAogICAgICAgICAgICBkaXNhYmxlZD1zZWxmLmxvZ2dlci5kaXNhYmxlX2xvZ3MsCiAgICAgICAgKQoKICAgIGRlZiBfZ2V0X2RlZmF1bHRfb2JzX3NldHMoc2VsZikgLT4gbGlzdFtzdHJdOgogICAgICAgIHJldHVybiBbImNyaXRpYyJdCgogICAgZGVmIF9nZXRfbG9nZ2VyX2Vudl9ncm91cHMoc2VsZikgLT4gZGljdFtzdHIsIEFueV06CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgInRlYWNoZXIiOiBzZWxmLmFsZy50ZWFjaGVyX2Vudl9pZHhzLAogICAgICAgICAgICAic3R1ZGVudCI6IHNlbGYuYWxnLnN0dWRlbnRfZW52X2lkeHMsCiAgICAgICAgfQoKICAgIGRlZiBleHBvcnRfcG9saWN5X2FzX2ppdCgKICAgICAgICBzZWxmLAogICAgICAgIHBhdGg6IHN0ciwKICAgICAgICBub3JtYWxpemVyOiBvYmplY3QgfCBOb25lID0gTm9uZSwKICAgICAgICBmaWxlbmFtZTogc3RyID0gInBvbGljeS5wdCIsCiAgICAgICAgKiprd2FyZ3M6IEFueSwKICAgICkgLT4gTm9uZToKICAgICAgICBmcm9tIC5leHBvcnRlciBpbXBvcnQgZXhwb3J0X3BvbGljeV9hc19qaXQKCiAgICAgICAgcG9saWN5ID0gc2VsZi5hbGcucG9saWN5CiAgICAgICAgZXhwb3J0X3BvbGljeV9hc19qaXQoCiAgICAgICAgICAgIHBvbGljeSwKICAgICAgICAgICAgYWN0b3Jfb2JzX25vcm1hbGl6ZXI9KG5vcm1hbGl6ZXIgaWYgbm9ybWFsaXplciBpcyBub3QgTm9uZSBlbHNlIHBvbGljeS5hY3Rvcl9vYnNfbm9ybWFsaXplciksCiAgICAgICAgICAgIHNpbmdsZV9vYnNfbm9ybWFsaXplcj1wb2xpY3kuc2luZ2xlX29ic19ub3JtYWxpemVyLAogICAgICAgICAgICBwYXRoPXBhdGgsCiAgICAgICAgICAgIGZpbGVuYW1lPWZpbGVuYW1lLAogICAgICAgICkKCiAgICBkZWYgZXhwb3J0X3BvbGljeV9hc19vbm54KAogICAgICAgIHNlbGYsCiAgICAgICAgcGF0aDogc3RyLAogICAgICAgIG5vcm1hbGl6ZXI6IG9iamVjdCB8IE5vbmUgPSBOb25lLAogICAgICAgIGZpbGVuYW1lOiBzdHIgPSAicG9saWN5Lm9ubngiLAogICAgICAgIHZlcmJvc2U6IGJvb2wgPSBGYWxzZSwKICAgICkgLT4gTm9uZToKICAgICAgICBmcm9tIC5leHBvcnRlciBpbXBvcnQgZXhwb3J0X3BvbGljeV9hc19vbm54CgogICAgICAgIHBvbGljeSA9IHNlbGYuYWxnLnBvbGljeQogICAgICAgIGV4cG9ydF9wb2xpY3lfYXNfb25ueCgKICAgICAgICAgICAgcG9saWN5LAogICAgICAgICAgICBwYXRoLAogICAgICAgICAgICBhY3Rvcl9vYnNfbm9ybWFsaXplcj0obm9ybWFsaXplciBpZiBub3JtYWxpemVyIGlzIG5vdCBOb25lIGVsc2UgcG9saWN5LmFjdG9yX29ic19ub3JtYWxpemVyKSwKICAgICAgICAgICAgc2luZ2xlX29ic19ub3JtYWxpemVyPXBvbGljeS5zaW5nbGVfb2JzX25vcm1hbGl6ZXIsCiAgICAgICAgICAgIGZpbGVuYW1lPWZpbGVuYW1lLAogICAgICAgICAgICB2ZXJib3NlPXZlcmJvc2UsCiAgICAgICAgKQoKICAgIGRlZiBfZXhwb3J0X3JvYm9nYXVnZV9wb2xpY3koc2VsZiwgcGF0aDogc3RyLCBmaWxlbmFtZTogc3RyKSAtPiBOb25lOgogICAgICAgIGlmIHNlbGYuX3JvYm9nYXVnZV9zaW5nbGVfb2JzX2RpbSBpcyBOb25lOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJSb2JvR2F1Z2UgTW9FLUNUUyBleHBvcnQgcmVxdWlyZXMgYSAnc2luZ2xlX29icycgb2JzZXJ2YXRpb24gZ3JvdXAuIikKICAgICAgICBpZiBzZWxmLl9yb2JvZ2F1Z2Vfc2luZ2xlX29ic19kaW0gIT0gc2VsZi5hbGcucG9saWN5Lm51bV9zaW5nbGVfb2JzOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICAgICAgZiJFbnZpcm9ubWVudCBzaW5nbGVfb2JzIGRpbWVuc2lvbiB7c2VsZi5fcm9ib2dhdWdlX3NpbmdsZV9vYnNfZGltfSBkb2VzIG5vdCBtYXRjaCAiCiAgICAgICAgICAgICAgICBmInRoZSBwb2xpY3kgZGltZW5zaW9uIHtzZWxmLmFsZy5wb2xpY3kubnVtX3NpbmdsZV9vYnN9LiIKICAgICAgICAgICAgKQogICAgICAgIHNlbGYuZXhwb3J0X3BvbGljeV9hc19qaXQoCiAgICAgICAgICAgIHBhdGg9cGF0aCwKICAgICAgICAgICAgbm9ybWFsaXplcj1zZWxmLmFsZy5wb2xpY3kuYWN0b3Jfb2JzX25vcm1hbGl6ZXIsCiAgICAgICAgICAgIGZpbGVuYW1lPWZpbGVuYW1lLAogICAgICAgICkKCiAgICBkZWYgX2FmdGVyX3NhdmUoc2VsZiwgaXRlcmF0aW9uOiBpbnQsIGZpbmFsOiBib29sKSAtPiBOb25lOgogICAgICAgIHNlbGYucm9ib2dhdWdlX2V2YWx1YXRvci51cGRhdGUoaXRlcmF0aW9uLCBmaW5hbCkKCiAgICBkZWYgX2NvbnN0cnVjdF9hbGdvcml0aG0oc2VsZiwgb2JzOiBUZW5zb3JEaWN0KSAtPiBNb0VDVFM6CiAgICAgICAgc3ltbWV0cnlfY2ZnID0gc2VsZi5hbGdfY2ZnLnBvcCgic3ltbWV0cnlfY2ZnIiwgTm9uZSkKICAgICAgICBzeW1tZXRyeSA9IE5vbmUKICAgICAgICBpZiBzeW1tZXRyeV9jZmcgaXMgbm90IE5vbmUgYW5kIHN5bW1ldHJ5X2NmZ1sidXNlX3N5bW1ldHJpY19hdWdtZW50YXRpb24iXToKICAgICAgICAgICAgc3ltbWV0cnkgPSByZXNvbHZlX2NhbGxhYmxlKHN5bW1ldHJ5X2NmZ1sic3ltbWV0cnlfY2xhc3MiXSkoc2VsZi5lbnYpCgogICAgICAgIHBvbGljeV9jbGFzcyA9IHJlc29sdmVfY2FsbGFibGUoc2VsZi5wb2xpY3lfY2ZnLnBvcCgiY2xhc3NfbmFtZSIpKQogICAgICAgIHBvbGljeTogQWN0b3JDcml0aWNNb0VDVFMgPSBwb2xpY3lfY2xhc3MoCiAgICAgICAgICAgIG9icywKICAgICAgICAgICAgc2VsZi5jZmdbIm9ic19ncm91cHMiXSwKICAgICAgICAgICAgc2VsZi5lbnYubnVtX2FjdGlvbnMsCiAgICAgICAgICAgICoqc2VsZi5wb2xpY3lfY2ZnLAogICAgICAgICkudG8oc2VsZi5kZXZpY2UpCgogICAgICAgIHRlYWNoZXJfZW52X3JhdGlvID0gZmxvYXQoc2VsZi5hbGdfY2ZnWyJ0ZWFjaGVyX2Vudl9yYXRpbyJdKQogICAgICAgIHRlYWNoZXJfbnVtX2VudnMgPSBtYXgoaW50KHNlbGYuZW52Lm51bV9lbnZzICogdGVhY2hlcl9lbnZfcmF0aW8pLCAxKQogICAgICAgIHN0b3JhZ2UgPSBNb2VDdHNSb2xsb3V0U3RvcmFnZSgKICAgICAgICAgICAgc2VsZi5lbnYubnVtX2VudnMsCiAgICAgICAgICAgIHRlYWNoZXJfbnVtX2VudnMsCiAgICAgICAgICAgIHNlbGYuY2ZnWyJudW1fc3RlcHNfcGVyX2VudiJdLAogICAgICAgICAgICBvYnMsCiAgICAgICAgICAgIFtzZWxmLmVudi5udW1fYWN0aW9uc10sCiAgICAgICAgICAgIHNlbGYuZGV2aWNlLAogICAgICAgICkKICAgICAgICBhbGdvcml0aG1fY2xhc3MgPSByZXNvbHZlX2NhbGxhYmxlKHNlbGYuYWxnX2NmZy5wb3AoImNsYXNzX25hbWUiKSkKICAgICAgICByZXR1cm4gYWxnb3JpdGhtX2NsYXNzKAogICAgICAgICAgICBwb2xpY3ksCiAgICAgICAgICAgIHN0b3JhZ2UsCiAgICAgICAgICAgIHNlbGYuZW52Lm51bV9lbnZzLAogICAgICAgICAgICBkZXZpY2U9c2VsZi5kZXZpY2UsCiAgICAgICAgICAgIHN5bW1ldHJ5PXN5bW1ldHJ5LAogICAgICAgICAgICAqKnNlbGYuYWxnX2NmZywKICAgICAgICAgICAgbXVsdGlfZ3B1X2NmZz1zZWxmLm11bHRpX2dwdV9jZmcsCiAgICAgICAgKQoKICAgIGRlZiBfY2hlY2twb2ludF9zdGF0ZShzZWxmLCBpbmZvczogZGljdCB8IE5vbmUpIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgICAgIHN0YXRlID0gc3VwZXIoKS5fY2hlY2twb2ludF9zdGF0ZShpbmZvcykKICAgICAgICBzdGF0ZVsib3B0aW1pemVyX3N0dV9lbmNfc3RhdGVfZGljdCJdID0gc2VsZi5hbGcub3B0aW1pemVyX3N0dV9lbmMuc3RhdGVfZGljdCgpCiAgICAgICAgcmV0dXJuIHN0YXRlCgogICAgZGVmIF9sb2FkX2NoZWNrcG9pbnRfc3RhdGUoc2VsZiwgbG9hZGVkX2RpY3Q6IGRpY3Rbc3RyLCBBbnldLCBsb2FkX29wdGltaXplcjogYm9vbCkgLT4gZGljdCB8IE5vbmU6CiAgICAgICAgcmVzdW1lZF90cmFpbmluZyA9IHNlbGYuYWxnLnBvbGljeS5sb2FkX3N0YXRlX2RpY3QobG9hZGVkX2RpY3RbIm1vZGVsX3N0YXRlX2RpY3QiXSkKICAgICAgICBpZiBsb2FkX29wdGltaXplciBhbmQgcmVzdW1lZF90cmFpbmluZzoKICAgICAgICAgICAgc2VsZi5hbGcub3B0aW1pemVyLmxvYWRfc3RhdGVfZGljdChsb2FkZWRfZGljdFsib3B0aW1pemVyX3N0YXRlX2RpY3QiXSkKICAgICAgICAgICAgc3R1ZGVudF9vcHRpbWl6ZXJfc3RhdGUgPSBsb2FkZWRfZGljdC5nZXQoIm9wdGltaXplcl9zdHVfZW5jX3N0YXRlX2RpY3QiKQogICAgICAgICAgICBpZiBzdHVkZW50X29wdGltaXplcl9zdGF0ZSBpcyBOb25lOgogICAgICAgICAgICAgICAgcmFpc2UgS2V5RXJyb3IoIk1vRS1DVFMgY2hlY2twb2ludCBpcyBtaXNzaW5nIG9wdGltaXplcl9zdHVfZW5jX3N0YXRlX2RpY3QuIikKICAgICAgICAgICAgc2VsZi5hbGcub3B0aW1pemVyX3N0dV9lbmMubG9hZF9zdGF0ZV9kaWN0KHN0dWRlbnRfb3B0aW1pemVyX3N0YXRlKQogICAgICAgIGlmIHJlc3VtZWRfdHJhaW5pbmc6CiAgICAgICAgICAgIHNlbGYuY3VycmVudF9sZWFybmluZ19pdGVyYXRpb24gPSBsb2FkZWRfZGljdFsiaXRlciJdCiAgICAgICAgcmV0dXJuIGxvYWRlZF9kaWN0LmdldCgiaW5mb3MiKQoKCl9fYWxsX18gPSBbIk1vZUN0c1J1bm5lciJdCg==
+# Copyright (c) 2026 Tianyang Wu
+# SPDX-License-Identifier: MIT
+
+"""Runner specialization for MoE-CTS."""
+
+from __future__ import annotations
+
+from tensordict import TensorDict
+from typing import Any
+
+from rsl_rl.base.base_runner import BaseRunner
+from rsl_rl.base.env import VecEnv
+from rsl_rl.utils import RoboGaugeEvaluator, resolve_callable
+
+from .algorithm import MoECTS
+from .modules import ActorCriticMoECTS
+from .storage import MoeCtsRolloutStorage
+
+
+class MoeCtsRunner(BaseRunner):
+    """Construct, train, export, and evaluate a MoE-CTS policy."""
+
+    def __init__(self, env: VecEnv, train_cfg: dict, log_dir: str | None = None, device: str = "cpu") -> None:
+        super().__init__(env, train_cfg, log_dir, device)
+        obs = self.env.get_observations()
+        self._robogauge_single_obs_dim = int(obs["single_obs"].shape[-1]) if "single_obs" in obs else None
+        self.robogauge_evaluator = RoboGaugeEvaluator(
+            task_name=str(self.cfg["robogauge"].get("task_name", "go2_lab_1.3.1")),
+            config=self.cfg["robogauge"],
+            log_dir=self.logger.log_dir,
+            writer=self.logger.writer,
+            export_policy=self._export_robogauge_policy,
+            experiment_name=str(self.cfg.get("experiment_name", "rsl_rl")),
+            disabled=self.logger.disable_logs,
+        )
+
+    def _get_default_obs_sets(self) -> list[str]:
+        return ["critic"]
+
+    def _get_logger_env_groups(self) -> dict[str, Any]:
+        return {
+            "teacher": self.alg.teacher_env_idxs,
+            "student": self.alg.student_env_idxs,
+        }
+
+    def export_policy_as_jit(
+        self,
+        path: str,
+        normalizer: object | None = None,
+        filename: str = "policy.pt",
+        **kwargs: Any,
+    ) -> None:
+        from .exporter import export_policy_as_jit
+
+        policy = self.alg.policy
+        export_policy_as_jit(
+            policy,
+            actor_obs_normalizer=(normalizer if normalizer is not None else policy.actor_obs_normalizer),
+            single_obs_normalizer=policy.single_obs_normalizer,
+            path=path,
+            filename=filename,
+        )
+
+    def export_policy_as_onnx(
+        self,
+        path: str,
+        normalizer: object | None = None,
+        filename: str = "policy.onnx",
+        verbose: bool = False,
+    ) -> None:
+        from .exporter import export_policy_as_onnx
+
+        policy = self.alg.policy
+        export_policy_as_onnx(
+            policy,
+            path,
+            actor_obs_normalizer=(normalizer if normalizer is not None else policy.actor_obs_normalizer),
+            single_obs_normalizer=policy.single_obs_normalizer,
+            filename=filename,
+            verbose=verbose,
+        )
+
+    def _export_robogauge_policy(self, path: str, filename: str) -> None:
+        if self._robogauge_single_obs_dim is None:
+            raise ValueError("RoboGauge MoE-CTS export requires a 'single_obs' observation group.")
+        if self._robogauge_single_obs_dim != self.alg.policy.num_single_obs:
+            raise ValueError(
+                f"Environment single_obs dimension {self._robogauge_single_obs_dim} does not match "
+                f"the policy dimension {self.alg.policy.num_single_obs}."
+            )
+        self.export_policy_as_jit(
+            path=path,
+            normalizer=self.alg.policy.actor_obs_normalizer,
+            filename=filename,
+        )
+
+    def _after_save(self, iteration: int, final: bool) -> None:
+        self.robogauge_evaluator.update(iteration, final)
+
+    def _construct_algorithm(self, obs: TensorDict) -> MoECTS:
+        symmetry_cfg = self.alg_cfg.pop("symmetry_cfg", None)
+        symmetry = None
+        if symmetry_cfg is not None and symmetry_cfg["use_symmetric_augmentation"]:
+            symmetry = resolve_callable(symmetry_cfg["symmetry_class"])(self.env)
+
+        policy_class = resolve_callable(self.policy_cfg.pop("class_name"))
+        policy: ActorCriticMoECTS = policy_class(
+            obs,
+            self.cfg["obs_groups"],
+            self.env.num_actions,
+            **self.policy_cfg,
+        ).to(self.device)
+
+        teacher_env_ratio = float(self.alg_cfg["teacher_env_ratio"])
+        teacher_num_envs = max(int(self.env.num_envs * teacher_env_ratio), 1)
+        storage = MoeCtsRolloutStorage(
+            self.env.num_envs,
+            teacher_num_envs,
+            self.cfg["num_steps_per_env"],
+            obs,
+            [self.env.num_actions],
+            self.device,
+        )
+        algorithm_class = resolve_callable(self.alg_cfg.pop("class_name"))
+        return algorithm_class(
+            policy,
+            storage,
+            self.env.num_envs,
+            device=self.device,
+            symmetry=symmetry,
+            **self.alg_cfg,
+            multi_gpu_cfg=self.multi_gpu_cfg,
+        )
+
+    def _checkpoint_state(self, infos: dict | None) -> dict[str, Any]:
+        state = super()._checkpoint_state(infos)
+        state["optimizer_stu_enc_state_dict"] = self.alg.optimizer_stu_enc.state_dict()
+        return state
+
+    def _load_checkpoint_state(self, loaded_dict: dict[str, Any], load_optimizer: bool) -> dict | None:
+        resumed_training = self.alg.policy.load_state_dict(loaded_dict["model_state_dict"])
+        if load_optimizer and resumed_training:
+            self.alg.optimizer.load_state_dict(loaded_dict["optimizer_state_dict"])
+            student_optimizer_state = loaded_dict.get("optimizer_stu_enc_state_dict")
+            if student_optimizer_state is None:
+                raise KeyError("MoE-CTS checkpoint is missing optimizer_stu_enc_state_dict.")
+            self.alg.optimizer_stu_enc.load_state_dict(student_optimizer_state)
+        if resumed_training:
+            self.current_learning_iteration = loaded_dict["iter"]
+        return loaded_dict.get("infos")
+
+
+__all__ = ["MoeCtsRunner"]

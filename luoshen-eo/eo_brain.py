@@ -1,1 +1,487 @@
-IiIiRU/lpKfohJEg4oCU4oCUIOiSuOmmj+eJiOa8lOWMluW8leaTjuOAggoK5LuO5rSb56We5LuT5bqTIDA0X2NvZ25pdGlvbi/lpKfohJEucHkg6JK46aaP44CCCuWOu+aOieWunumqjOaAp+S/ruWkjeWPguaVsO+8jOS/neeVmeaguOW/g+a8lOWMluacuuWItu+8mgogIFBvb2zvvIjnjq/looPvvInihpIgV03vvIjlt6XkvZzorrDlv4bvvInihpIgT3Jn77yI5pyJ5py65L2T77yJ4oaSIEVuZ2luZe+8iOa8lOWMlu+8iQoK5qC45b+D5oCd6Lev77ya5LiN5pWZQUnpooTmtYvvvIzorqnmnInmnLrkvZPku47nuqbmnZ/kuK3mvJTljJblh7rpooTmtYvog73lipvjgIIKZml0bmVzcyA9IDEvKDErTVNFKe+8jOmihOa1i+i2iuWHhui2iuiDveWtmOa0u+OAggoiIiIKCmltcG9ydCByYW5kb20KaW1wb3J0IG1hdGgKaW1wb3J0IGNvcHkKCk5fQ0hBTk5FTFMgPSA4Ck5fUkVHSU9OUyA9IDkKREVMQVkgPSAzCgoKZGVmIGFjdGl2YXRpb24oeCwgbGVhaz0wLjAxKToKICAgIGlmIHggPiAxLjU6CiAgICAgICAgcmV0dXJuIDEuNSArIGxlYWsgKiAoeCAtIDEuNSkKICAgIGVsaWYgeCA8IC0xLjU6CiAgICAgICAgcmV0dXJuIC0xLjUgKyBsZWFrICogKHggKyAxLjUpCiAgICBlbHNlOgogICAgICAgIHJldHVybiBtYXRoLnRhbmgoeCkKCgpjbGFzcyBQb29sOgogICAgIiIi546v5aKD77yaOeS4quWMuuWfn++8jOavj+S4quWMuuWfn+S4gOenjeWKqOWKm+Wtpuezu+e7n+OAgiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzZWVkPTQyKToKICAgICAgICBzZWxmLnNlZWQgPSBzZWVkCiAgICAgICAgc2VsZi5yID0gc2VsZi5fbWsoc2VlZCkKICAgICAgICBzZWxmLl9yKCkKCiAgICBkZWYgX21rKHNlbGYsIHMpOgogICAgICAgIHJuZyA9IHJhbmRvbS5SYW5kb20ocykKICAgICAgICByZXR1cm4gW3snaWQnOiBpLCAnc2lnbWEnOiByb3VuZCgwLjA1ICsgMC42NCAqIGkgLyA4LCAyKSwKICAgICAgICAgICAgICAgICAncHJvcHJpbyc6IHJvdW5kKGkgLyA4LCAyKSwKICAgICAgICAgICAgICAgICAnZnJlcSc6IHJvdW5kKDAuMDMgKyAwLjEyICogcm5nLnJhbmRvbSgpLCAzKSwKICAgICAgICAgICAgICAgICAncGhhc2UnOiByb3VuZChybmcudW5pZm9ybSgwLCAyICogbWF0aC5waSksIDMpLAogICAgICAgICAgICAgICAgICd0eXBlJzogWydzaW4nLCAnbG9naXN0aWMnLCAnbG9yZW56JywgJ3ZkUCcsICdzYXcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICdyb3NzbGVyJywgJ2hlbm9uJywgJ3RlbnQnLCAnY3ViaWMnXVtpXSwKICAgICAgICAgICAgICAgICAnX3MnOiAwLjMsICdfdCc6IDAsICdfcCc6IDAuMH0gZm9yIGkgaW4gcmFuZ2UoTl9SRUdJT05TKV0KCiAgICBkZWYgX3Ioc2VsZik6CiAgICAgICAgZm9yIHIgaW4gc2VsZi5yOgogICAgICAgICAgICByWydfcyddID0gMC4zCiAgICAgICAgICAgIHJbJ190J10gPSAwCiAgICAgICAgICAgIHJbJ19wJ10gPSAwLjAKCiAgICBkZWYgcmVzZXQoc2VsZik6CiAgICAgICAgc2VsZi5fcigpCgogICAgZGVmIHN0ZXAoc2VsZik6CiAgICAgICAgZm9yIHIgaW4gc2VsZi5yOgogICAgICAgICAgICByWydfdCddICs9IDEKICAgICAgICAgICAgclsnX3AnXSArPSByWydmcmVxJ10KCiAgICBkZWYgc2Vuc2Uoc2VsZiwgcmlkKToKICAgICAgICByID0gc2VsZi5yW3JpZF0KICAgICAgICB0ID0gclsnX3QnXQogICAgICAgIHBoID0gclsnX3AnXQogICAgICAgIG52ID0gcmFuZG9tLlJhbmRvbShoYXNoKChzZWxmLnNlZWQsIHJpZCwgdCkpICUgKDIgKiogMzEpKS5nYXVzcygwLCAxKQogICAgICAgIG4gPSByWydzaWdtYSddICogbnYKICAgICAgICBzID0gclsnX3MnXQogICAgICAgIHJ0ID0gclsndHlwZSddCiAgICAgICAgaWYgcnQgPT0gJ3Npbic6CiAgICAgICAgICAgIHYgPSBtYXRoLnNpbihwaCArIHJbJ3BoYXNlJ10pCiAgICAgICAgZWxpZiBydCA9PSAnbG9naXN0aWMnOgogICAgICAgICAgICB2ID0gNCAqIHMgKiAoMSAtIHMpIGlmIDAgPCBzIDwgMSBlbHNlIDAuNQogICAgICAgIGVsaWYgcnQgPT0gJ2xvcmVueic6CiAgICAgICAgICAgIHYgPSAwLjUgKyAwLjMgKiBtYXRoLnRhbmgocykKICAgICAgICBlbGlmIHJ0ID09ICd2ZFAnOgogICAgICAgICAgICB2ID0gcyAtIDAuMSAqIChzICoqIDMgLSBzKQogICAgICAgIGVsaWYgcnQgPT0gJ3Nhdyc6CiAgICAgICAgICAgIHYgPSAocGggKyByWydwaGFzZSddKSAlIDEuMAogICAgICAgIGVsaWYgcnQgPT0gJ3Jvc3NsZXInOgogICAgICAgICAgICB2ID0gMC41ICogbWF0aC5zaW4oMC43ICogcGggKyBzKQogICAgICAgIGVsaWYgcnQgPT0gJ2hlbm9uJzoKICAgICAgICAgICAgdiA9IDEgLSAxLjQgKiBzICoqIDIgKyAwLjMgKiBzCiAgICAgICAgZWxpZiBydCA9PSAndGVudCc6CiAgICAgICAgICAgIHYgPSAyICogcyBpZiBzIDwgMC41IGVsc2UgMiAqICgxIC0gcykKICAgICAgICBlbHNlOgogICAgICAgICAgICB2ID0gcyAqKiAzIC0gcwogICAgICAgIHMyID0gbWF4KC0yLCBtaW4oMiwgdiArIG4pKQogICAgICAgIHJbJ19zJ10gPSBzMgogICAgICAgIHJldHVybiBbczIsIG1hdGguc2luKHMyICogMi41KSBpZiBhYnMoczIpIDwgMS41IGVsc2UgMCwKICAgICAgICAgICAgICAgIG1hdGgudGFuaChzMiksIHMyICoqIDIgKiAoMSBpZiBzMiA+IDAgZWxzZSAtMSksCiAgICAgICAgICAgICAgICBhYnMoczIpLCBtYXRoLmNvcyhzMiAqIDEuNyksCiAgICAgICAgICAgICAgICAoMSBpZiBzMiA+IDAgZWxzZSAtMSkgKiBtYXRoLnNxcnQoYWJzKHMyKSkgaWYgYWJzKHMyKSA8IDIgZWxzZSAwLAogICAgICAgICAgICAgICAgclsncHJvcHJpbyddXQoKCmNsYXNzIFdNOgogICAgIiIi5bel5L2c6K6w5b+G77ya5b6q546v56We57uP572R57ucICsg5oSf6KeJ6YCC5bqUICsg5rW36ams5L2T5Zue5pS+ICsg5p2P5LuB5qC45oOK6K6244CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGcpOgogICAgICAgIHNlbGYuZyA9IGcKICAgICAgICBuID0gZ1snbiddCiAgICAgICAgc2VsZi5oID0gWzAuMF0gKiBuCiAgICAgICAgc2VsZi5wcmV2X2ggPSBbMC4wXSAqIG4KICAgICAgICBzZWxmLmRiX2hpc3RvcnkgPSBbXQogICAgICAgIHNlbGYuaW5wdXRfdmVjID0gW10KICAgICAgICBzZWxmLnJlcGxheV9idWZmZXIgPSBbXQogICAgICAgIHNlbGYuUkVQTEFZX0NBUCA9IDY0CiAgICAgICAgc2VsZi5zdXJwcmlzZV9sZXZlbCA9IDAuMAogICAgICAgIHNlbGYuc2Vuc19hZGFwdCA9IFswLjBdICogTl9DSEFOTkVMUwogICAgICAgIHNlbGYucHJldl9zZW5zX3JhdyA9IE5vbmUKCiAgICBkZWYgZndkX3NlbnNvcnkoc2VsZiwgc2Vucyk6CiAgICAgICAgZyA9IHNlbGYuZwogICAgICAgIGdhaW4gPSBnWydzZW5zX2dhaW4nXQogICAgICAgIGFkYXB0X3JhdGUgPSBnWydzZW5zX2FkYXB0X3JhdGUnXQogICAgICAgIHJlc3VsdCA9IGxpc3Qoc2VucykKICAgICAgICBmb3IgYyBpbiByYW5nZShOX0NIQU5ORUxTKToKICAgICAgICAgICAgdmFsID0gc2Vuc1tjXSAqIGdhaW5bY10KICAgICAgICAgICAgaWYgc2VsZi5wcmV2X3NlbnNfcmF3IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgZGVsdGEgPSBhYnMoc2Vuc1tjXSAtIHNlbGYucHJldl9zZW5zX3Jhd1tjXSkKICAgICAgICAgICAgICAgIHNlbGYuc2Vuc19hZGFwdFtjXSA9IG1pbigwLjg1LAogICAgICAgICAgICAgICAgICAgIHNlbGYuc2Vuc19hZGFwdFtjXSAqICgxIC0gYWRhcHRfcmF0ZSkgKyBhZGFwdF9yYXRlICogKDEuMCAtIG1pbigxLjAsIGRlbHRhKSkpCiAgICAgICAgICAgICAgICB2YWwgKj0gKDEuMCAtIDAuNSAqIHNlbGYuc2Vuc19hZGFwdFtjXSkKICAgICAgICAgICAgcmVzdWx0W2NdID0gdmFsCiAgICAgICAgc2VsZi5wcmV2X3NlbnNfcmF3ID0gbGlzdChzZW5zKQogICAgICAgIHJldHVybiByZXN1bHQKCiAgICBkZWYgZndkX2Fzc29jaWF0aW9uKHNlbGYsIHhfcmF3KToKICAgICAgICBnID0gc2VsZi5nCiAgICAgICAgdyA9IGdbJ2Fzc29jX3cnXQogICAgICAgIHRociA9IGdbJ3NwYXJzZV90aHInXQogICAgICAgIGV4dCA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTl9DSEFOTkVMUyk6CiAgICAgICAgICAgIGV4dC5hcHBlbmQoeF9yYXdbaV0pCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTl9DSEFOTkVMUyk6CiAgICAgICAgICAgIGV4dC5hcHBlbmQobWF0aC50YW5oKHhfcmF3W2ldICogd1swXSkpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTl9DSEFOTkVMUyk6CiAgICAgICAgICAgIHYgPSB4X3Jhd1tpXQogICAgICAgICAgICBzaWcgPSAxLjAgLyAoMS4wICsgbWF0aC5leHAoLWFicyh2KSAvIG1heCgwLjAxLCB0aHIpKSkKICAgICAgICAgICAgZXh0LmFwcGVuZCh2ICogd1sxXSAqIHNpZykKICAgICAgICBmb3IgaSBpbiByYW5nZShOX0NIQU5ORUxTKToKICAgICAgICAgICAgYyA9IHN1bSh4X3Jhd1tqXSAqIHdbMl0gKiAwLjEgZm9yIGogaW4gcmFuZ2UoTl9DSEFOTkVMUykgaWYgYWJzKGkgLSBqKSA9PSAxKQogICAgICAgICAgICBleHQuYXBwZW5kKGMgKyB4X3Jhd1tpXSAqIHdbMl0gKiAwLjAxKQogICAgICAgIHJldHVybiBleHQKCiAgICBkZWYgaGlwcG9jYW1wYWxfcmVwbGF5KHNlbGYsIGV2ZW50KToKICAgICAgICBidWYgPSBzZWxmLnJlcGxheV9idWZmZXIKICAgICAgICBidWYuYXBwZW5kKGV2ZW50KQogICAgICAgIGlmIGxlbihidWYpID4gc2VsZi5SRVBMQVlfQ0FQOgogICAgICAgICAgICBidWYuc29ydChrZXk9bGFtYmRhIGU6IGVbJ3NhbGllbmNlJ10pCiAgICAgICAgICAgIGJ1Zi5wb3AoMCkKCiAgICBkZWYgaGlwcG9jYW1wYWxfbGVhcm4oc2VsZik6CiAgICAgICAgZyA9IHNlbGYuZwogICAgICAgIGlmIG5vdCBzZWxmLnJlcGxheV9idWZmZXI6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIGhpcF9sciA9IGdbJ2hpcF9sciddCiAgICAgICAgcmVwbGF5X24gPSBnWydoaXBfcmVwbGF5X24nXQogICAgICAgIGV2ZW50cyA9IHNvcnRlZChzZWxmLnJlcGxheV9idWZmZXIsIGtleT1sYW1iZGEgZTogZVsnc2FsaWVuY2UnXSwgcmV2ZXJzZT1UcnVlKVs6cmVwbGF5X25dCiAgICAgICAgZm9yIGV2IGluIGV2ZW50czoKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobWluKGxlbihzZWxmLmgpLCBsZW4oZ1sncHcnXSkpKToKICAgICAgICAgICAgICAgIGZvciBjIGluIHJhbmdlKE5fQ0hBTk5FTFMpOgogICAgICAgICAgICAgICAgICAgIGdbJ3B3J11baV1bY10gKz0gaGlwX2xyICogZXZbJ3NhbGllbmNlJ10gKiBzZWxmLmhbaV0gKiAwLjAxCiAgICAgICAgICAgICAgICAgICAgZ1sncHcnXVtpXVtjXSA9IG1heCgtMywgbWluKDMsIGdbJ3B3J11baV1bY10pKQoKICAgIGRlZiBhbXlnZGFsYV9zdXJwcmlzZShzZWxmLCBtc2UpOgogICAgICAgIGcgPSBzZWxmLmcKICAgICAgICB0aHIgPSBnWydhbXlfdGhyJ10KICAgICAgICBwcmV2ID0gc2VsZi5zdXJwcmlzZV9sZXZlbAogICAgICAgIHNlbGYuc3VycHJpc2VfbGV2ZWwgPSBtc2UgLyAoMS4wICsgdGhyKQogICAgICAgIHJldHVybiBzZWxmLnN1cnByaXNlX2xldmVsLCBtYXgoMCwgc2VsZi5zdXJwcmlzZV9sZXZlbCAtIHByZXYpCgogICAgZGVmIHByb3RlaW5fZm9sZChzZWxmKToKICAgICAgICBnID0gc2VsZi5nCiAgICAgICAgbiA9IGdbJ24nXQogICAgICAgIGZvbGRfbHIgPSBnWydmb2xkX2xyJ10KICAgICAgICBydyA9IGdbJ3J3J10KICAgICAgICBwaCA9IHNlbGYucHJldl9oCiAgICAgICAgaCA9IHNlbGYuaAogICAgICAgIGxrID0gZ1snbGVhayddCiAgICAgICAgdGhyID0gZ1snZm9sZF90aHJlc2hvbGQnXQogICAgICAgIGZvciBrIGluIHJhbmdlKG4pOgogICAgICAgICAgICByd2sgPSByd1trXQogICAgICAgICAgICBwcmVkaWN0ZWQgPSAwLjAKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgICAgICAgICBwcmVkaWN0ZWQgKz0gcndrW2ldICogcGhbaV0KICAgICAgICAgICAgZm9sZF9zdHJlbmd0aCA9IDEuMCAvICgxLjAgKyBtYXRoLmV4cCgtYWJzKHByZWRpY3RlZCkgLyBtYXgoMC4wMSwgdGhyKSkpCiAgICAgICAgICAgIGlmIGZvbGRfc3RyZW5ndGggPiAwLjAxOgogICAgICAgICAgICAgICAgcHJlZGljdGVkID0gYWN0aXZhdGlvbihwcmVkaWN0ZWQsIGxrW2tdKQogICAgICAgICAgICAgICAgZXJyID0gaFtrXSAtIHByZWRpY3RlZAogICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgICAgICAgICAgICAgcndrW2ldICs9IGZvbGRfbHIgKiBmb2xkX3N0cmVuZ3RoICogcGhbaV0gKiBlcnIKICAgICAgICAgICAgICAgICAgICBpZiByd2tbaV0gPiAxLjI6CiAgICAgICAgICAgICAgICAgICAgICAgIHJ3a1tpXSA9IDEuMgogICAgICAgICAgICAgICAgICAgIGVsaWYgcndrW2ldIDwgLTEuMjoKICAgICAgICAgICAgICAgICAgICAgICAgcndrW2ldID0gLTEuMgoKICAgIGRlZiBsZWFybihzZWxmLCBwcmVkLCBhY3R1YWwpOgogICAgICAgIGcgPSBzZWxmLmcKICAgICAgICBuID0gZ1snbiddCiAgICAgICAgbHIgPSBnWydsciddCiAgICAgICAgZXJycyA9IFthY3R1YWxbal0gLSBwcmVkW2pdIGZvciBqIGluIHJhbmdlKE5fQ0hBTk5FTFMpXQogICAgICAgIG1zZSA9IHN1bShlICogZSBmb3IgZSBpbiBlcnJzKSAvIE5fQ0hBTk5FTFMKICAgICAgICBzdXJwcmlzZSwgZWRnZSA9IHNlbGYuYW15Z2RhbGFfc3VycHJpc2UobXNlKQoKICAgICAgICAjIOW0qea6g+aBouWkje+8mm1zZeeqgeeEtuaatOWinuaXtu+8jOmHjee9ruW3peS9nOiusOW/hueKtuaAge+8iOS4jeaYr+adg+mHje+8iQogICAgICAgICMg5YOP55Sf54mp5Y+X5Yay5Ye75ZCO5pmV55yp5oGi5aSN4oCU4oCU5LiN5bim5o2f5Z2P54q25oCB57un57ut6LeRCiAgICAgICAgaWYgbXNlID4gNS4wIGFuZCBoYXNhdHRyKHNlbGYsICdfcHJldl9tc2UnKSBhbmQgc2VsZi5fcHJldl9tc2UgPCAxLjA6CiAgICAgICAgICAgIHNlbGYuaCA9IFswLjBdICogbgogICAgICAgICAgICBzZWxmLnByZXZfaCA9IFswLjBdICogbgogICAgICAgICAgICBzZWxmLmRiX2hpc3RvcnkgPSBbXQogICAgICAgICAgICBzZWxmLmlucHV0X3ZlYyA9IFtdCiAgICAgICAgICAgIHNlbGYuc3VycHJpc2VfbGV2ZWwgPSAwLjAKICAgICAgICAgICAgc2VsZi5zZW5zX2FkYXB0ID0gWzAuMF0gKiBOX0NIQU5ORUxTCiAgICAgICAgICAgIHNlbGYucHJldl9zZW5zX3JhdyA9IE5vbmUKICAgICAgICBzZWxmLl9wcmV2X21zZSA9IG1zZQoKICAgICAgICByZXBsYXlfcHJvYiA9IG1pbigxLjAsIHN1cnByaXNlICogMTAuMCkKICAgICAgICBpZiByYW5kb20ucmFuZG9tKCkgPCByZXBsYXlfcHJvYjoKICAgICAgICAgICAgc2VsZi5oaXBwb2NhbXBhbF9yZXBsYXkoeyd0YXJnZXQnOiBhY3R1YWxbOl0sICdzdXJwcmlzZSc6IHN1cnByaXNlLCAnc2FsaWVuY2UnOiBzdXJwcmlzZX0pCiAgICAgICAgcHcgPSBnWydwdyddCiAgICAgICAgcGIgPSBnWydwYiddCiAgICAgICAgaCA9IHNlbGYuaAogICAgICAgIGZvciBpIGluIHJhbmdlKG1pbihuLCBsZW4ocHcpKSk6CiAgICAgICAgICAgIHB3aSA9IHB3W2ldCiAgICAgICAgICAgIGhpID0gaFtpXQogICAgICAgICAgICBmb3IgYyBpbiByYW5nZShOX0NIQU5ORUxTKToKICAgICAgICAgICAgICAgIHB3aVtjXSArPSBsciAqIGhpICogZXJyc1tjXQogICAgICAgICAgICAgICAgcHdpW2NdID0gbWF4KC0zLCBtaW4oMywgcHdpW2NdKSkKICAgICAgICBmb3IgYyBpbiByYW5nZShOX0NIQU5ORUxTKToKICAgICAgICAgICAgcGJbY10gKz0gbHIgKiAxLjUgKiBlcnJzW2NdCiAgICAgICAgICAgIHBiW2NdID0gbWF4KC0zLCBtaW4oMywgcGJbY10pKQogICAgICAgIHggPSBzZWxmLmlucHV0X3ZlYwogICAgICAgIHNraXAgPSBnWydza2lwJ10KICAgICAgICBmb3IgaiBpbiByYW5nZShtaW4obGVuKHNraXApLCBsZW4oeCkpKToKICAgICAgICAgICAgc2tqID0gc2tpcFtqXQogICAgICAgICAgICB4aiA9IHhbal0KICAgICAgICAgICAgZm9yIGMgaW4gcmFuZ2UoTl9DSEFOTkVMUyk6CiAgICAgICAgICAgICAgICBza2pbY10gKz0gbHIgKiAwLjUgKiB4aiAqIGVycnNbY10KICAgICAgICAgICAgICAgIHNraltjXSA9IG1heCgtMiwgbWluKDIsIHNraltjXSkpCiAgICAgICAgc2VsZi5wcm90ZWluX2ZvbGQoKQogICAgICAgIHJldHVybiBtc2UKCiAgICBkZWYgYnVpbGRfaW5wdXQoc2VsZiwgc2Vucyk6CiAgICAgICAgc2VsZi5kYl9oaXN0b3J5LmFwcGVuZChzZW5zWzpdKQogICAgICAgIGlmIGxlbihzZWxmLmRiX2hpc3RvcnkpID4gREVMQVk6CiAgICAgICAgICAgIHNlbGYuZGJfaGlzdG9yeS5wb3AoMCkKICAgICAgICB3aGlsZSBsZW4oc2VsZi5kYl9oaXN0b3J5KSA8IERFTEFZOgogICAgICAgICAgICBzZWxmLmRiX2hpc3RvcnkuaW5zZXJ0KDAsIFswLjBdICogTl9DSEFOTkVMUykKICAgICAgICByZXN1bHQgPSBzZW5zWzpdCiAgICAgICAgZm9yIGZyYW1lIGluIHNlbGYuZGJfaGlzdG9yeToKICAgICAgICAgICAgcmVzdWx0LmV4dGVuZChmcmFtZSkKICAgICAgICBzZWxmLmlucHV0X3ZlYyA9IHJlc3VsdFs6XQogICAgICAgIHJldHVybiByZXN1bHQKCiAgICBkZWYgZndkKHNlbGYsIHNlbnMsIHVwZGF0ZT1UcnVlLCByZWdpb25faWQ9Tm9uZSk6CiAgICAgICAgZyA9IHNlbGYuZwogICAgICAgIG4gPSBnWyduJ10KICAgICAgICBkZWMgPSBnWydkdCddWzBdCiAgICAgICAgc2Vuc19wcm9jID0gc2VsZi5md2Rfc2Vuc29yeShzZW5zKQogICAgICAgIGV4dGVuZGVkID0gc2VsZi5md2RfYXNzb2NpYXRpb24oc2Vuc19wcm9jKQogICAgICAgIGV4OCA9IGV4dGVuZGVkWzpOX0NIQU5ORUxTXQogICAgICAgIHggPSBzZWxmLmJ1aWxkX2lucHV0KGV4OCkKICAgICAgICBzdyA9IGdbJ3N3J10KICAgICAgICBydyA9IGdbJ3J3J10KICAgICAgICBsayA9IGdbJ2xlYWsnXQogICAgICAgIGggPSBzZWxmLmgKICAgICAgICBuaCA9IFswLjBdICogbgogICAgICAgIGZvciBpIGluIHJhbmdlKG4pOgogICAgICAgICAgICBhID0gMC4wCiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKG1pbihsZW4oeCksIGxlbihzdykpKToKICAgICAgICAgICAgICAgIGEgKz0gc3dbal1baV0gKiB4W2pdCiAgICAgICAgICAgIHJ3aSA9IHJ3W2ldCiAgICAgICAgICAgIGZvciBrIGluIHJhbmdlKG4pOgogICAgICAgICAgICAgICAgYSArPSByd2lba10gKiBoW2tdCiAgICAgICAgICAgIG5oW2ldID0gYWN0aXZhdGlvbihhICogMC45LCBsa1tpXSkKICAgICAgICBpZiB1cGRhdGU6CiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKG4pOgogICAgICAgICAgICAgICAgc2VsZi5oW2ldID0gKDEgLSBkZWMpICogbmhbaV0gKyBkZWMgKiBzZWxmLmhbaV0KICAgICAgICBwcmVkID0gWzAuMF0gKiBOX0NIQU5ORUxTCiAgICAgICAgcHcgPSBnWydwdyddCiAgICAgICAgcGIgPSBnWydwYiddCiAgICAgICAgc2tpcCA9IGdbJ3NraXAnXQogICAgICAgIGh2ID0gc2VsZi5oCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobWluKG4sIGxlbihwdykpKToKICAgICAgICAgICAgcHdpID0gcHdbaV0KICAgICAgICAgICAgaGkgPSBodltpXQogICAgICAgICAgICBmb3IgYyBpbiByYW5nZShOX0NIQU5ORUxTKToKICAgICAgICAgICAgICAgIHByZWRbY10gKz0gaGkgKiAocHdpW2NdICsgcGJbY10pCiAgICAgICAgZm9yIGogaW4gcmFuZ2UobWluKGxlbihza2lwKSwgbGVuKHgpKSk6CiAgICAgICAgICAgIHNraiA9IHNraXBbal0KICAgICAgICAgICAgeGogPSB4W2pdCiAgICAgICAgICAgIGZvciBjIGluIHJhbmdlKE5fQ0hBTk5FTFMpOgogICAgICAgICAgICAgICAgcHJlZFtjXSArPSBza2pbY10gKiB4agogICAgICAgIGlmIHVwZGF0ZToKICAgICAgICAgICAgc2VsZi5wcmV2X2ggPSBzZWxmLmhbOl0KICAgICAgICByZXR1cm4gcHJlZAoKICAgIGRlZiByZXNldChzZWxmKToKICAgICAgICBzZWxmLmggPSBbMC4wXSAqIGxlbihzZWxmLmgpCiAgICAgICAgc2VsZi5wcmV2X2ggPSBbMC4wXSAqIGxlbihzZWxmLnByZXZfaCkKICAgICAgICBzZWxmLmRiX2hpc3RvcnkgPSBbXQogICAgICAgIHNlbGYuaW5wdXRfdmVjID0gW10KICAgICAgICBzZWxmLnJlcGxheV9idWZmZXIgPSBbXQogICAgICAgIHNlbGYuc3VycHJpc2VfbGV2ZWwgPSAwLjAKICAgICAgICBzZWxmLnNlbnNfYWRhcHQgPSBbMC4wXSAqIE5fQ0hBTk5FTFMKICAgICAgICBzZWxmLnByZXZfc2Vuc19yYXcgPSBOb25lCgoKY2xhc3MgT3JnOgogICAgIiIi5pyJ5py65L2T77ya5Z+65Zug57uEICsg5bel5L2c6K6w5b+G44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGduPU5vbmUpOgogICAgICAgIHNlbGYuZyA9IGduIG9yIHNlbGYucmcoKQogICAgICAgIHNlbGYud20gPSBXTShzZWxmLmcpCgogICAgZGVmIHJnKHNlbGYpOgogICAgICAgIG4gPSByYW5kb20ucmFuZGludCgxMiwgNDApCiAgICAgICAgaW5zID0gTl9DSEFOTkVMUyAqICgxICsgREVMQVkpCiAgICAgICAgZyA9IHsKICAgICAgICAgICAgJ24nOiBuLAogICAgICAgICAgICAnc3cnOiBbW3JhbmRvbS51bmlmb3JtKC0wLjMsIDAuMykgZm9yIF8gaW4gcmFuZ2UobildIGZvciBfXyBpbiByYW5nZShpbnMpXSwKICAgICAgICAgICAgJ3B3JzogW1tyYW5kb20udW5pZm9ybSgtMC4zLCAwLjMpIGZvciBfIGluIHJhbmdlKE5fQ0hBTk5FTFMpXSBmb3IgX18gaW4gcmFuZ2UobildLAogICAgICAgICAgICAncncnOiBbW3JhbmRvbS51bmlmb3JtKC0wLjAzLCAwLjAzKSBmb3IgXyBpbiByYW5nZShuKV0gZm9yIF9fIGluIHJhbmdlKG4pXSwKICAgICAgICAgICAgJ3NraXAnOiBbW3JhbmRvbS51bmlmb3JtKC0wLjIsIDAuMikgZm9yIF8gaW4gcmFuZ2UoTl9DSEFOTkVMUyldIGZvciBfXyBpbiByYW5nZShpbnMpXSwKICAgICAgICAgICAgJ3BiJzogW3JhbmRvbS51bmlmb3JtKC0wLjMsIDAuMykgZm9yIF8gaW4gcmFuZ2UoTl9DSEFOTkVMUyldLAogICAgICAgICAgICAnZHQnOiBbcmFuZG9tLnVuaWZvcm0oMC41LCAwLjkpXSwKICAgICAgICAgICAgJ2xyJzogcmFuZG9tLnVuaWZvcm0oMC4wNCwgMC4xMiksCiAgICAgICAgICAgICdmb2xkX2xyJzogcmFuZG9tLnVuaWZvcm0oMC4wMSwgMC4wNiksCiAgICAgICAgICAgICdsZWFrJzogW3JhbmRvbS51bmlmb3JtKDAuMDA1LCAwLjA1KSBmb3IgXyBpbiByYW5nZShuKV0sCiAgICAgICAgICAgICdzZW5zX2dhaW4nOiBbcmFuZG9tLnVuaWZvcm0oMC41LCAyLjApIGZvciBfIGluIHJhbmdlKE5fQ0hBTk5FTFMpXSwKICAgICAgICAgICAgJ3NlbnNfYWRhcHRfcmF0ZSc6IHJhbmRvbS51bmlmb3JtKDAuMDEsIDAuMSksCiAgICAgICAgICAgICdhc3NvY193JzogW3JhbmRvbS51bmlmb3JtKDAuMywgMS41KSBmb3IgXyBpbiByYW5nZSgzKV0sCiAgICAgICAgICAgICdzcGFyc2VfdGhyJzogcmFuZG9tLnVuaWZvcm0oMC4wNSwgMC41KSwKICAgICAgICAgICAgJ2hpcF9scic6IHJhbmRvbS51bmlmb3JtKDAuMDAxLCAwLjAyKSwKICAgICAgICAgICAgJ2hpcF9yZXBsYXlfbic6IHJhbmRvbS5yYW5kaW50KDIsIDgpLAogICAgICAgICAgICAnYW15X3Rocic6IHJhbmRvbS51bmlmb3JtKDAuMDIsIDAuMTUpLAogICAgICAgICAgICAnZm9sZF90aHJlc2hvbGQnOiByYW5kb20udW5pZm9ybSgwLjAwNSwgMC4wNSksCiAgICAgICAgfQogICAgICAgIGZvciBpIGluIHJhbmdlKG4pOgogICAgICAgICAgICBnWydydyddW2ldW2ldID0gcmFuZG9tLnVuaWZvcm0oMC40LCAxLjApCiAgICAgICAgcmV0dXJuIGcKCgpjbGFzcyBFbmdpbmU6CiAgICAiIiLmvJTljJblvJXmk47vvJrpgZfkvKDnrpfms5XigJTigJTor4TkvLDihpLpgInmi6nihpLkuqTlj4nihpLlj5jlvILjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgbl9vcmc9MjAsIG5fZ2VuPTEwMCwgc2VlZD00MiwgZXZhbF90aWNrcz0yMDApOgogICAgICAgIHNlbGYubl9vcmcgPSBuX29yZwogICAgICAgIHNlbGYubl9nZW4gPSBuX2dlbgogICAgICAgIHNlbGYuZXZhbF90aWNrcyA9IGV2YWxfdGlja3MKICAgICAgICBzZWxmLnBvcCA9IFtPcmcoKSBmb3IgXyBpbiByYW5nZShuX29yZyldCiAgICAgICAgc2VsZi5iZXN0X2V2ZXIgPSAwLjAKICAgICAgICBzZWxmLmJlc3RfZyA9IE5vbmUKICAgICAgICBzZWxmLmxvZyA9IFtdCiAgICAgICAgcmFuZG9tLnNlZWQoc2VlZCkKCiAgICBkZWYgZXZhbF9vcmcoc2VsZiwgb3JnKToKICAgICAgICBwayA9IFBvb2woc2VlZD00MikKICAgICAgICBway5yZXNldCgpCiAgICAgICAgb3JnLndtLnJlc2V0KCkKICAgICAgICBjciA9IHJhbmRvbS5yYW5kaW50KDAsIDgpCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoMjApOgogICAgICAgICAgICBzID0gcGsuc2Vuc2UoY3IpCiAgICAgICAgICAgIG9yZy53bS5md2QocywgdXBkYXRlPVRydWUsIHJlZ2lvbl9pZD1jcikKICAgICAgICAgICAgcGsuc3RlcCgpCiAgICAgICAgdG90YWxfbXNlID0gMC4wCiAgICAgICAgZm9yIHQgaW4gcmFuZ2Uoc2VsZi5ldmFsX3RpY2tzKToKICAgICAgICAgICAgcyA9IHBrLnNlbnNlKGNyKQogICAgICAgICAgICBwcmVkID0gb3JnLndtLmZ3ZChzLCB1cGRhdGU9VHJ1ZSwgcmVnaW9uX2lkPWNyKQogICAgICAgICAgICBway5zdGVwKCkKICAgICAgICAgICAgbnMgPSBway5zZW5zZShjcikKICAgICAgICAgICAgcGsuc3RlcCgpCiAgICAgICAgICAgIG1zZSA9IHN1bSgobnNbal0gLSBwcmVkW2pdKSAqKiAyIGZvciBqIGluIHJhbmdlKE5fQ0hBTk5FTFMpKSAvIE5fQ0hBTk5FTFMKICAgICAgICAgICAgb3JnLndtLmxlYXJuKHByZWQsIG5zKQogICAgICAgICAgICB0b3RhbF9tc2UgKz0gbXNlCiAgICAgICAgICAgIGlmIHJhbmRvbS5yYW5kb20oKSA8IDAuMDg6CiAgICAgICAgICAgICAgICBjciA9IHJhbmRvbS5yYW5kaW50KDAsIDgpCiAgICAgICAgcmV0dXJuIDEuMCAvICgxLjAgKyB0b3RhbF9tc2UgLyBzZWxmLmV2YWxfdGlja3MpCgogICAgZGVmIHhvdmVyKHNlbGYsIGEsIGIpOgogICAgICAgIG4gPSBtYXgoYVsnbiddLCBiWyduJ10pCiAgICAgICAgaW5zID0gTl9DSEFOTkVMUyAqICgxICsgREVMQVkpCiAgICAgICAgY2ggPSB7CiAgICAgICAgICAgICduJzogbiwgJ3N3JzogW10sICdwdyc6IFtdLCAncncnOiBbXSwgJ3NraXAnOiBbXSwKICAgICAgICAgICAgJ3BiJzogYVsncGInXVs6XSBpZiByYW5kb20ucmFuZG9tKCkgPCAwLjUgZWxzZSBiWydwYiddWzpdLAogICAgICAgICAgICAnZHQnOiBhWydkdCddWzpdIGlmIHJhbmRvbS5yYW5kb20oKSA8IDAuNSBlbHNlIGJbJ2R0J11bOl0sCiAgICAgICAgICAgICdscic6IGFbJ2xyJ10gaWYgcmFuZG9tLnJhbmRvbSgpIDwgMC41IGVsc2UgYlsnbHInXSwKICAgICAgICAgICAgJ2ZvbGRfbHInOiBhWydmb2xkX2xyJ10gaWYgcmFuZG9tLnJhbmRvbSgpIDwgMC41IGVsc2UgYlsnZm9sZF9sciddLAogICAgICAgICAgICAnc2Vuc19nYWluJzogW2FbJ3NlbnNfZ2FpbiddW2ldIGlmIHJhbmRvbS5yYW5kb20oKSA8IDAuNSBlbHNlIGJbJ3NlbnNfZ2FpbiddW2ldCiAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTl9DSEFOTkVMUyldLAogICAgICAgICAgICAnc2Vuc19hZGFwdF9yYXRlJzogYVsnc2Vuc19hZGFwdF9yYXRlJ10gaWYgcmFuZG9tLnJhbmRvbSgpIDwgMC41IGVsc2UgYlsnc2Vuc19hZGFwdF9yYXRlJ10sCiAgICAgICAgICAgICdhc3NvY193JzogW2FbJ2Fzc29jX3cnXVtpXSBpZiByYW5kb20ucmFuZG9tKCkgPCAwLjUgZWxzZSBiWydhc3NvY193J11baV0KICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMyldLAogICAgICAgICAgICAnc3BhcnNlX3Rocic6IGFbJ3NwYXJzZV90aHInXSBpZiByYW5kb20ucmFuZG9tKCkgPCAwLjUgZWxzZSBiWydzcGFyc2VfdGhyJ10sCiAgICAgICAgICAgICdoaXBfbHInOiBhWydoaXBfbHInXSBpZiByYW5kb20ucmFuZG9tKCkgPCAwLjUgZWxzZSBiWydoaXBfbHInXSwKICAgICAgICAgICAgJ2hpcF9yZXBsYXlfbic6IGFbJ2hpcF9yZXBsYXlfbiddIGlmIHJhbmRvbS5yYW5kb20oKSA8IDAuNSBlbHNlIGJbJ2hpcF9yZXBsYXlfbiddLAogICAgICAgICAgICAnYW15X3Rocic6IGFbJ2FteV90aHInXSBpZiByYW5kb20ucmFuZG9tKCkgPCAwLjUgZWxzZSBiWydhbXlfdGhyJ10sCiAgICAgICAgICAgICdmb2xkX3RocmVzaG9sZCc6IGFbJ2ZvbGRfdGhyZXNob2xkJ10gaWYgcmFuZG9tLnJhbmRvbSgpIDwgMC41IGVsc2UgYlsnZm9sZF90aHJlc2hvbGQnXSwKICAgICAgICB9CiAgICAgICAgZm9yIGogaW4gcmFuZ2UoaW5zKToKICAgICAgICAgICAgc3JjID0gYSBpZiByYW5kb20ucmFuZG9tKCkgPCAwLjUgZWxzZSBiCiAgICAgICAgICAgIGNoWydzdyddLmFwcGVuZChbc3JjWydzdyddW21pbihqLCBsZW4oc3JjWydzdyddKSAtIDEpXVttaW4oaSwgc3JjWyduJ10gLSAxKV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBtaW4oaiwgbGVuKHNyY1snc3cnXSkgLSAxKSA+PSAwIGFuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pbihpLCBzcmNbJ24nXSAtIDEpIDwgbGVuKHNyY1snc3cnXVttaW4oaiwgbGVuKHNyY1snc3cnXSkgLSAxKV0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwLjAgZm9yIGkgaW4gcmFuZ2UobildKQogICAgICAgIGZvciBpIGluIHJhbmdlKG4pOgogICAgICAgICAgICBzcmMgPSBhIGlmIHJhbmRvbS5yYW5kb20oKSA8IDAuNSBlbHNlIGIKICAgICAgICAgICAgc2kgPSBtaW4oaSwgc3JjWyduJ10gLSAxKQogICAgICAgICAgICBjaFsncHcnXS5hcHBlbmQoc3JjWydwdyddW3NpXVs6Tl9DSEFOTkVMU10gaWYgc2kgPCBsZW4oc3JjWydwdyddKSBlbHNlIFswLjBdICogTl9DSEFOTkVMUykKICAgICAgICBmb3IgaSBpbiByYW5nZShuKToKICAgICAgICAgICAgc3JjID0gYSBpZiByYW5kb20ucmFuZG9tKCkgPCAwLjUgZWxzZSBiCiAgICAgICAgICAgIHNpID0gbWluKGksIHNyY1snbiddIC0gMSkKICAgICAgICAgICAgY2hbJ3J3J10uYXBwZW5kKFtzcmNbJ3J3J11bc2ldW21pbihrLCBzcmNbJ24nXSAtIDEpXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHNpIDwgbGVuKHNyY1sncncnXSkgYW5kIG1pbihrLCBzcmNbJ24nXSAtIDEpIDwgbGVuKHNyY1sncncnXVtzaV0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwLjAgZm9yIGsgaW4gcmFuZ2UobildKQogICAgICAgIGZvciBqIGluIHJhbmdlKGlucyk6CiAgICAgICAgICAgIHNyYyA9IGEgaWYgcmFuZG9tLnJhbmRvbSgpIDwgMC41IGVsc2UgYgogICAgICAgICAgICBjaFsnc2tpcCddLmFwcGVuZChzcmNbJ3NraXAnXVttaW4oaiwgbGVuKHNyY1snc2tpcCddKSAtIDEpXVs6Tl9DSEFOTkVMU10pCiAgICAgICAgY2hbJ2xlYWsnXSA9IFthWydsZWFrJ11baV0gaWYgaSA8IGxlbihhWydsZWFrJ10pIGFuZCByYW5kb20ucmFuZG9tKCkgPCAwLjUKICAgICAgICAgICAgICAgICAgICAgIGVsc2UgYlsnbGVhayddW2ldIGlmIGkgPCBsZW4oYlsnbGVhayddKSBlbHNlIDAuMDIKICAgICAgICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKG4pXQogICAgICAgIHJldHVybiBjaAoKICAgIGRlZiBtdXRhdGUoc2VsZiwgZywgcmF0ZT0wLjAzKToKICAgICAgICBuID0gZ1snbiddCiAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKGdbJ3N3J10pKToKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGdbJ3N3J11bal0pKToKICAgICAgICAgICAgICAgIGlmIHJhbmRvbS5yYW5kb20oKSA8IHJhdGU6CiAgICAgICAgICAgICAgICAgICAgZ1snc3cnXVtqXVtpXSArPSByYW5kb20uZ2F1c3MoMCwgMC4wNSkKICAgICAgICAgICAgICAgICAgICBnWydzdyddW2pdW2ldID0gbWF4KC0zLCBtaW4oMywgZ1snc3cnXVtqXVtpXSkpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobWluKG4sIGxlbihnWydwdyddKSkpOgogICAgICAgICAgICBmb3IgYyBpbiByYW5nZShOX0NIQU5ORUxTKToKICAgICAgICAgICAgICAgIGlmIHJhbmRvbS5yYW5kb20oKSA8IHJhdGU6CiAgICAgICAgICAgICAgICAgICAgZ1sncHcnXVtpXVtjXSArPSByYW5kb20uZ2F1c3MoMCwgMC4wNSkKICAgICAgICAgICAgICAgICAgICBnWydwdyddW2ldW2NdID0gbWF4KC0zLCBtaW4oMywgZ1sncHcnXVtpXVtjXSkpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobWluKG4sIGxlbihnWydydyddKSkpOgogICAgICAgICAgICBmb3IgayBpbiByYW5nZShtaW4obiwgbGVuKGdbJ3J3J11baV0pKSk6CiAgICAgICAgICAgICAgICBpZiByYW5kb20ucmFuZG9tKCkgPCByYXRlICogMC43OgogICAgICAgICAgICAgICAgICAgIGdbJ3J3J11baV1ba10gKz0gcmFuZG9tLmdhdXNzKDAsIDAuMDMpCiAgICAgICAgICAgICAgICAgICAgZ1sncncnXVtpXVtrXSA9IG1heCgtMS41LCBtaW4oMS41LCBnWydydyddW2ldW2tdKSkKICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oZ1snc2tpcCddKSk6CiAgICAgICAgICAgIGZvciBjIGluIHJhbmdlKE5fQ0hBTk5FTFMpOgogICAgICAgICAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpIDwgcmF0ZToKICAgICAgICAgICAgICAgICAgICBnWydza2lwJ11bal1bY10gKz0gcmFuZG9tLmdhdXNzKDAsIDAuMDUpCiAgICAgICAgICAgICAgICAgICAgZ1snc2tpcCddW2pdW2NdID0gbWF4KC0yLCBtaW4oMiwgZ1snc2tpcCddW2pdW2NdKSkKICAgICAgICBpZiByYW5kb20ucmFuZG9tKCkgPCAwLjM6CiAgICAgICAgICAgIGdbJ2xyJ10gPSBtYXgoMC4wMiwgbWluKDAuMiwgZ1snbHInXSArIHJhbmRvbS5nYXVzcygwLCAwLjAxKSkpCiAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpIDwgMC4zOgogICAgICAgICAgICBnWydmb2xkX2xyJ10gPSBtYXgoMC4wMDUsIG1pbigwLjA4LCBnWydmb2xkX2xyJ10gKyByYW5kb20uZ2F1c3MoMCwgMC4wMDgpKSkKICAgICAgICByZXR1cm4gZwoKICAgIGRlZiBldm9sdmUoc2VsZik6CiAgICAgICAgZm9yIGdlbiBpbiByYW5nZShzZWxmLm5fZ2VuKToKICAgICAgICAgICAgZml0cyA9IFtzZWxmLmV2YWxfb3JnKG8pIGZvciBvIGluIHNlbGYucG9wXQogICAgICAgICAgICBiaSA9IGZpdHMuaW5kZXgobWF4KGZpdHMpKQogICAgICAgICAgICBiZiA9IGZpdHNbYmldCiAgICAgICAgICAgIGFmID0gc3VtKGZpdHMpIC8gbGVuKGZpdHMpCiAgICAgICAgICAgIGlmIGJmID4gc2VsZi5iZXN0X2V2ZXI6CiAgICAgICAgICAgICAgICBzZWxmLmJlc3RfZXZlciA9IGJmCiAgICAgICAgICAgICAgICBzZWxmLmJlc3RfZyA9IGNvcHkuZGVlcGNvcHkoc2VsZi5wb3BbYmldLmcpCiAgICAgICAgICAgIGlmIGdlbiAlIDEwID09IDAgb3IgZ2VuID09IHNlbGYubl9nZW4gLSAxOgogICAgICAgICAgICAgICAgcHJpbnQoZiIgIEdlbiB7Z2VuOjRkfSBiZj17YmY6LjRmfSBhZj17YWY6LjRmfSBiZXN0PXtzZWxmLmJlc3RfZXZlcjouNGZ9IikKICAgICAgICAgICAgICAgIHNlbGYubG9nLmFwcGVuZCgoZ2VuLCBiZiwgYWYsIHNlbGYuYmVzdF9ldmVyKSkKICAgICAgICAgICAgaWYgZ2VuID09IHNlbGYubl9nZW4gLSAxOgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWR4ID0gc29ydGVkKHJhbmdlKGxlbihmaXRzKSksIGtleT1sYW1iZGEgaTogZml0c1tpXSwgcmV2ZXJzZT1UcnVlKQogICAgICAgICAgICBueCA9IFtPcmcoY29weS5kZWVwY29weShzZWxmLnBvcFtpZHhbaV1dLmcpKSBmb3IgaSBpbiByYW5nZShtaW4oNCwgbGVuKHNlbGYucG9wKSkpXQogICAgICAgICAgICB3aGlsZSBsZW4obngpIDwgc2VsZi5uX29yZzoKICAgICAgICAgICAgICAgIHQxID0gcmFuZG9tLnNhbXBsZShyYW5nZShsZW4oc2VsZi5wb3ApKSwgbWluKDUsIGxlbihzZWxmLnBvcCkpKQogICAgICAgICAgICAgICAgcDEgPSBtYXgodDEsIGtleT1sYW1iZGEgaTogZml0c1tpXSkKICAgICAgICAgICAgICAgIHQyID0gcmFuZG9tLnNhbXBsZShyYW5nZShsZW4oc2VsZi5wb3ApKSwgbWluKDUsIGxlbihzZWxmLnBvcCkpKQogICAgICAgICAgICAgICAgcDIgPSBtYXgodDIsIGtleT1sYW1iZGEgaTogZml0c1tpXSkKICAgICAgICAgICAgICAgIGNoaWxkID0gc2VsZi54b3ZlcihzZWxmLnBvcFtwMV0uZywgc2VsZi5wb3BbcDJdLmcpCiAgICAgICAgICAgICAgICBzZWxmLm11dGF0ZShjaGlsZCwgcmF0ZT0wLjAzKQogICAgICAgICAgICAgICAgbnguYXBwZW5kKE9yZyhjaGlsZCkpCiAgICAgICAgICAgIHNlbGYucG9wID0gbngKICAgICAgICByZXR1cm4gc2VsZi5iZXN0X2V2ZXIKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj09PSBFT+Wkp+iEkea8lOWMluW8leaTjumqjOivgSA9PT1cbiIpCiAgICBlbmcgPSBFbmdpbmUobl9vcmc9MTAsIG5fZ2VuPTMwLCBzZWVkPTQyLCBldmFsX3RpY2tzPTEwMCkKICAgIHJlc3VsdCA9IGVuZy5ldm9sdmUoKQogICAgcHJpbnQoZiJcbuacgOe7iGZpdG5lc3M6IHtyZXN1bHQ6LjRmfSIpCiAgICBwcmludChmImZpdG5lc3MgPiAwLjU6IHsn5pivJyBpZiByZXN1bHQgPiAwLjUgZWxzZSAn5ZCmJ33vvIjpooTmtYvog73lipvmtoznjrDvvIkiKQogICAgcHJpbnQoZiJmaXRuZXNzID4gMC45OiB7J+aYrycgaWYgcmVzdWx0ID4gMC45IGVsc2UgJ+WQpid977yI6auY57K+5bqm6aKE5rWL77yJIikK
+"""EO大脑 —— 蒸馏版演化引擎。
+
+从洛神仓库 04_cognition/大脑.py 蒸馏。
+去掉实验性修复参数，保留核心演化机制：
+  Pool（环境）→ WM（工作记忆）→ Org（有机体）→ Engine（演化）
+
+核心思路：不教AI预测，让有机体从约束中演化出预测能力。
+fitness = 1/(1+MSE)，预测越准越能存活。
+"""
+
+import random
+import math
+import copy
+
+N_CHANNELS = 8
+N_REGIONS = 9
+DELAY = 3
+
+
+def activation(x, leak=0.01):
+    if x > 1.5:
+        return 1.5 + leak * (x - 1.5)
+    elif x < -1.5:
+        return -1.5 + leak * (x + 1.5)
+    else:
+        return math.tanh(x)
+
+
+class Pool:
+    """环境：9个区域，每个区域一种动力学系统。"""
+
+    def __init__(self, seed=42):
+        self.seed = seed
+        self.r = self._mk(seed)
+        self._r()
+
+    def _mk(self, s):
+        rng = random.Random(s)
+        return [{'id': i, 'sigma': round(0.05 + 0.64 * i / 8, 2),
+                 'proprio': round(i / 8, 2),
+                 'freq': round(0.03 + 0.12 * rng.random(), 3),
+                 'phase': round(rng.uniform(0, 2 * math.pi), 3),
+                 'type': ['sin', 'logistic', 'lorenz', 'vdP', 'saw',
+                          'rossler', 'henon', 'tent', 'cubic'][i],
+                 '_s': 0.3, '_t': 0, '_p': 0.0} for i in range(N_REGIONS)]
+
+    def _r(self):
+        for r in self.r:
+            r['_s'] = 0.3
+            r['_t'] = 0
+            r['_p'] = 0.0
+
+    def reset(self):
+        self._r()
+
+    def step(self):
+        for r in self.r:
+            r['_t'] += 1
+            r['_p'] += r['freq']
+
+    def sense(self, rid):
+        r = self.r[rid]
+        t = r['_t']
+        ph = r['_p']
+        nv = random.Random(hash((self.seed, rid, t)) % (2 ** 31)).gauss(0, 1)
+        n = r['sigma'] * nv
+        s = r['_s']
+        rt = r['type']
+        if rt == 'sin':
+            v = math.sin(ph + r['phase'])
+        elif rt == 'logistic':
+            v = 4 * s * (1 - s) if 0 < s < 1 else 0.5
+        elif rt == 'lorenz':
+            v = 0.5 + 0.3 * math.tanh(s)
+        elif rt == 'vdP':
+            v = s - 0.1 * (s ** 3 - s)
+        elif rt == 'saw':
+            v = (ph + r['phase']) % 1.0
+        elif rt == 'rossler':
+            v = 0.5 * math.sin(0.7 * ph + s)
+        elif rt == 'henon':
+            v = 1 - 1.4 * s ** 2 + 0.3 * s
+        elif rt == 'tent':
+            v = 2 * s if s < 0.5 else 2 * (1 - s)
+        else:
+            v = s ** 3 - s
+        s2 = max(-2, min(2, v + n))
+        r['_s'] = s2
+        return [s2, math.sin(s2 * 2.5) if abs(s2) < 1.5 else 0,
+                math.tanh(s2), s2 ** 2 * (1 if s2 > 0 else -1),
+                abs(s2), math.cos(s2 * 1.7),
+                (1 if s2 > 0 else -1) * math.sqrt(abs(s2)) if abs(s2) < 2 else 0,
+                r['proprio']]
+
+
+class WM:
+    """工作记忆：循环神经网络 + 感觉适应 + 海马体回放 + 杏仁核惊讶。"""
+
+    def __init__(self, g):
+        self.g = g
+        n = g['n']
+        self.h = [0.0] * n
+        self.prev_h = [0.0] * n
+        self.db_history = []
+        self.input_vec = []
+        self.replay_buffer = []
+        self.REPLAY_CAP = 64
+        self.surprise_level = 0.0
+        self.sens_adapt = [0.0] * N_CHANNELS
+        self.prev_sens_raw = None
+
+    def fwd_sensory(self, sens):
+        g = self.g
+        gain = g['sens_gain']
+        adapt_rate = g['sens_adapt_rate']
+        result = list(sens)
+        for c in range(N_CHANNELS):
+            val = sens[c] * gain[c]
+            if self.prev_sens_raw is not None:
+                delta = abs(sens[c] - self.prev_sens_raw[c])
+                self.sens_adapt[c] = min(0.85,
+                    self.sens_adapt[c] * (1 - adapt_rate) + adapt_rate * (1.0 - min(1.0, delta)))
+                val *= (1.0 - 0.5 * self.sens_adapt[c])
+            result[c] = val
+        self.prev_sens_raw = list(sens)
+        return result
+
+    def fwd_association(self, x_raw):
+        g = self.g
+        w = g['assoc_w']
+        thr = g['sparse_thr']
+        ext = []
+        for i in range(N_CHANNELS):
+            ext.append(x_raw[i])
+        for i in range(N_CHANNELS):
+            ext.append(math.tanh(x_raw[i] * w[0]))
+        for i in range(N_CHANNELS):
+            v = x_raw[i]
+            sig = 1.0 / (1.0 + math.exp(-abs(v) / max(0.01, thr)))
+            ext.append(v * w[1] * sig)
+        for i in range(N_CHANNELS):
+            c = sum(x_raw[j] * w[2] * 0.1 for j in range(N_CHANNELS) if abs(i - j) == 1)
+            ext.append(c + x_raw[i] * w[2] * 0.01)
+        return ext
+
+    def hippocampal_replay(self, event):
+        buf = self.replay_buffer
+        buf.append(event)
+        if len(buf) > self.REPLAY_CAP:
+            buf.sort(key=lambda e: e['salience'])
+            buf.pop(0)
+
+    def hippocampal_learn(self):
+        g = self.g
+        if not self.replay_buffer:
+            return
+        hip_lr = g['hip_lr']
+        replay_n = g['hip_replay_n']
+        events = sorted(self.replay_buffer, key=lambda e: e['salience'], reverse=True)[:replay_n]
+        for ev in events:
+            for i in range(min(len(self.h), len(g['pw']))):
+                for c in range(N_CHANNELS):
+                    g['pw'][i][c] += hip_lr * ev['salience'] * self.h[i] * 0.01
+                    g['pw'][i][c] = max(-3, min(3, g['pw'][i][c]))
+
+    def amygdala_surprise(self, mse):
+        g = self.g
+        thr = g['amy_thr']
+        prev = self.surprise_level
+        self.surprise_level = mse / (1.0 + thr)
+        return self.surprise_level, max(0, self.surprise_level - prev)
+
+    def protein_fold(self):
+        g = self.g
+        n = g['n']
+        fold_lr = g['fold_lr']
+        rw = g['rw']
+        ph = self.prev_h
+        h = self.h
+        lk = g['leak']
+        thr = g['fold_threshold']
+        for k in range(n):
+            rwk = rw[k]
+            predicted = 0.0
+            for i in range(n):
+                predicted += rwk[i] * ph[i]
+            fold_strength = 1.0 / (1.0 + math.exp(-abs(predicted) / max(0.01, thr)))
+            if fold_strength > 0.01:
+                predicted = activation(predicted, lk[k])
+                err = h[k] - predicted
+                for i in range(n):
+                    rwk[i] += fold_lr * fold_strength * ph[i] * err
+                    if rwk[i] > 1.2:
+                        rwk[i] = 1.2
+                    elif rwk[i] < -1.2:
+                        rwk[i] = -1.2
+
+    def learn(self, pred, actual):
+        g = self.g
+        n = g['n']
+        lr = g['lr']
+        errs = [actual[j] - pred[j] for j in range(N_CHANNELS)]
+        mse = sum(e * e for e in errs) / N_CHANNELS
+        surprise, edge = self.amygdala_surprise(mse)
+
+        # 崩溃恢复：mse突然暴增时，重置工作记忆状态（不是权重）
+        # 像生物受冲击后晕眩恢复——不带损坏状态继续跑
+        if mse > 5.0 and hasattr(self, '_prev_mse') and self._prev_mse < 1.0:
+            self.h = [0.0] * n
+            self.prev_h = [0.0] * n
+            self.db_history = []
+            self.input_vec = []
+            self.surprise_level = 0.0
+            self.sens_adapt = [0.0] * N_CHANNELS
+            self.prev_sens_raw = None
+        self._prev_mse = mse
+
+        replay_prob = min(1.0, surprise * 10.0)
+        if random.random() < replay_prob:
+            self.hippocampal_replay({'target': actual[:], 'surprise': surprise, 'salience': surprise})
+        pw = g['pw']
+        pb = g['pb']
+        h = self.h
+        for i in range(min(n, len(pw))):
+            pwi = pw[i]
+            hi = h[i]
+            for c in range(N_CHANNELS):
+                pwi[c] += lr * hi * errs[c]
+                pwi[c] = max(-3, min(3, pwi[c]))
+        for c in range(N_CHANNELS):
+            pb[c] += lr * 1.5 * errs[c]
+            pb[c] = max(-3, min(3, pb[c]))
+        x = self.input_vec
+        skip = g['skip']
+        for j in range(min(len(skip), len(x))):
+            skj = skip[j]
+            xj = x[j]
+            for c in range(N_CHANNELS):
+                skj[c] += lr * 0.5 * xj * errs[c]
+                skj[c] = max(-2, min(2, skj[c]))
+        self.protein_fold()
+        return mse
+
+    def build_input(self, sens):
+        self.db_history.append(sens[:])
+        if len(self.db_history) > DELAY:
+            self.db_history.pop(0)
+        while len(self.db_history) < DELAY:
+            self.db_history.insert(0, [0.0] * N_CHANNELS)
+        result = sens[:]
+        for frame in self.db_history:
+            result.extend(frame)
+        self.input_vec = result[:]
+        return result
+
+    def fwd(self, sens, update=True, region_id=None):
+        g = self.g
+        n = g['n']
+        dec = g['dt'][0]
+        sens_proc = self.fwd_sensory(sens)
+        extended = self.fwd_association(sens_proc)
+        ex8 = extended[:N_CHANNELS]
+        x = self.build_input(ex8)
+        sw = g['sw']
+        rw = g['rw']
+        lk = g['leak']
+        h = self.h
+        nh = [0.0] * n
+        for i in range(n):
+            a = 0.0
+            for j in range(min(len(x), len(sw))):
+                a += sw[j][i] * x[j]
+            rwi = rw[i]
+            for k in range(n):
+                a += rwi[k] * h[k]
+            nh[i] = activation(a * 0.9, lk[i])
+        if update:
+            for i in range(n):
+                self.h[i] = (1 - dec) * nh[i] + dec * self.h[i]
+        pred = [0.0] * N_CHANNELS
+        pw = g['pw']
+        pb = g['pb']
+        skip = g['skip']
+        hv = self.h
+        for i in range(min(n, len(pw))):
+            pwi = pw[i]
+            hi = hv[i]
+            for c in range(N_CHANNELS):
+                pred[c] += hi * (pwi[c] + pb[c])
+        for j in range(min(len(skip), len(x))):
+            skj = skip[j]
+            xj = x[j]
+            for c in range(N_CHANNELS):
+                pred[c] += skj[c] * xj
+        if update:
+            self.prev_h = self.h[:]
+        return pred
+
+    def reset(self):
+        self.h = [0.0] * len(self.h)
+        self.prev_h = [0.0] * len(self.prev_h)
+        self.db_history = []
+        self.input_vec = []
+        self.replay_buffer = []
+        self.surprise_level = 0.0
+        self.sens_adapt = [0.0] * N_CHANNELS
+        self.prev_sens_raw = None
+
+
+class Org:
+    """有机体：基因组 + 工作记忆。"""
+
+    def __init__(self, gn=None):
+        self.g = gn or self.rg()
+        self.wm = WM(self.g)
+
+    def rg(self):
+        n = random.randint(12, 40)
+        ins = N_CHANNELS * (1 + DELAY)
+        g = {
+            'n': n,
+            'sw': [[random.uniform(-0.3, 0.3) for _ in range(n)] for __ in range(ins)],
+            'pw': [[random.uniform(-0.3, 0.3) for _ in range(N_CHANNELS)] for __ in range(n)],
+            'rw': [[random.uniform(-0.03, 0.03) for _ in range(n)] for __ in range(n)],
+            'skip': [[random.uniform(-0.2, 0.2) for _ in range(N_CHANNELS)] for __ in range(ins)],
+            'pb': [random.uniform(-0.3, 0.3) for _ in range(N_CHANNELS)],
+            'dt': [random.uniform(0.5, 0.9)],
+            'lr': random.uniform(0.04, 0.12),
+            'fold_lr': random.uniform(0.01, 0.06),
+            'leak': [random.uniform(0.005, 0.05) for _ in range(n)],
+            'sens_gain': [random.uniform(0.5, 2.0) for _ in range(N_CHANNELS)],
+            'sens_adapt_rate': random.uniform(0.01, 0.1),
+            'assoc_w': [random.uniform(0.3, 1.5) for _ in range(3)],
+            'sparse_thr': random.uniform(0.05, 0.5),
+            'hip_lr': random.uniform(0.001, 0.02),
+            'hip_replay_n': random.randint(2, 8),
+            'amy_thr': random.uniform(0.02, 0.15),
+            'fold_threshold': random.uniform(0.005, 0.05),
+        }
+        for i in range(n):
+            g['rw'][i][i] = random.uniform(0.4, 1.0)
+        return g
+
+
+class Engine:
+    """演化引擎：遗传算法——评估→选择→交叉→变异。"""
+
+    def __init__(self, n_org=20, n_gen=100, seed=42, eval_ticks=200):
+        self.n_org = n_org
+        self.n_gen = n_gen
+        self.eval_ticks = eval_ticks
+        self.pop = [Org() for _ in range(n_org)]
+        self.best_ever = 0.0
+        self.best_g = None
+        self.log = []
+        random.seed(seed)
+
+    def eval_org(self, org):
+        pk = Pool(seed=42)
+        pk.reset()
+        org.wm.reset()
+        cr = random.randint(0, 8)
+        for _ in range(20):
+            s = pk.sense(cr)
+            org.wm.fwd(s, update=True, region_id=cr)
+            pk.step()
+        total_mse = 0.0
+        for t in range(self.eval_ticks):
+            s = pk.sense(cr)
+            pred = org.wm.fwd(s, update=True, region_id=cr)
+            pk.step()
+            ns = pk.sense(cr)
+            pk.step()
+            mse = sum((ns[j] - pred[j]) ** 2 for j in range(N_CHANNELS)) / N_CHANNELS
+            org.wm.learn(pred, ns)
+            total_mse += mse
+            if random.random() < 0.08:
+                cr = random.randint(0, 8)
+        return 1.0 / (1.0 + total_mse / self.eval_ticks)
+
+    def xover(self, a, b):
+        n = max(a['n'], b['n'])
+        ins = N_CHANNELS * (1 + DELAY)
+        ch = {
+            'n': n, 'sw': [], 'pw': [], 'rw': [], 'skip': [],
+            'pb': a['pb'][:] if random.random() < 0.5 else b['pb'][:],
+            'dt': a['dt'][:] if random.random() < 0.5 else b['dt'][:],
+            'lr': a['lr'] if random.random() < 0.5 else b['lr'],
+            'fold_lr': a['fold_lr'] if random.random() < 0.5 else b['fold_lr'],
+            'sens_gain': [a['sens_gain'][i] if random.random() < 0.5 else b['sens_gain'][i]
+                          for i in range(N_CHANNELS)],
+            'sens_adapt_rate': a['sens_adapt_rate'] if random.random() < 0.5 else b['sens_adapt_rate'],
+            'assoc_w': [a['assoc_w'][i] if random.random() < 0.5 else b['assoc_w'][i]
+                        for i in range(3)],
+            'sparse_thr': a['sparse_thr'] if random.random() < 0.5 else b['sparse_thr'],
+            'hip_lr': a['hip_lr'] if random.random() < 0.5 else b['hip_lr'],
+            'hip_replay_n': a['hip_replay_n'] if random.random() < 0.5 else b['hip_replay_n'],
+            'amy_thr': a['amy_thr'] if random.random() < 0.5 else b['amy_thr'],
+            'fold_threshold': a['fold_threshold'] if random.random() < 0.5 else b['fold_threshold'],
+        }
+        for j in range(ins):
+            src = a if random.random() < 0.5 else b
+            ch['sw'].append([src['sw'][min(j, len(src['sw']) - 1)][min(i, src['n'] - 1)]
+                             if min(j, len(src['sw']) - 1) >= 0 and
+                             min(i, src['n'] - 1) < len(src['sw'][min(j, len(src['sw']) - 1)])
+                             else 0.0 for i in range(n)])
+        for i in range(n):
+            src = a if random.random() < 0.5 else b
+            si = min(i, src['n'] - 1)
+            ch['pw'].append(src['pw'][si][:N_CHANNELS] if si < len(src['pw']) else [0.0] * N_CHANNELS)
+        for i in range(n):
+            src = a if random.random() < 0.5 else b
+            si = min(i, src['n'] - 1)
+            ch['rw'].append([src['rw'][si][min(k, src['n'] - 1)]
+                             if si < len(src['rw']) and min(k, src['n'] - 1) < len(src['rw'][si])
+                             else 0.0 for k in range(n)])
+        for j in range(ins):
+            src = a if random.random() < 0.5 else b
+            ch['skip'].append(src['skip'][min(j, len(src['skip']) - 1)][:N_CHANNELS])
+        ch['leak'] = [a['leak'][i] if i < len(a['leak']) and random.random() < 0.5
+                      else b['leak'][i] if i < len(b['leak']) else 0.02
+                      for i in range(n)]
+        return ch
+
+    def mutate(self, g, rate=0.03):
+        n = g['n']
+        for j in range(len(g['sw'])):
+            for i in range(len(g['sw'][j])):
+                if random.random() < rate:
+                    g['sw'][j][i] += random.gauss(0, 0.05)
+                    g['sw'][j][i] = max(-3, min(3, g['sw'][j][i]))
+        for i in range(min(n, len(g['pw']))):
+            for c in range(N_CHANNELS):
+                if random.random() < rate:
+                    g['pw'][i][c] += random.gauss(0, 0.05)
+                    g['pw'][i][c] = max(-3, min(3, g['pw'][i][c]))
+        for i in range(min(n, len(g['rw']))):
+            for k in range(min(n, len(g['rw'][i]))):
+                if random.random() < rate * 0.7:
+                    g['rw'][i][k] += random.gauss(0, 0.03)
+                    g['rw'][i][k] = max(-1.5, min(1.5, g['rw'][i][k]))
+        for j in range(len(g['skip'])):
+            for c in range(N_CHANNELS):
+                if random.random() < rate:
+                    g['skip'][j][c] += random.gauss(0, 0.05)
+                    g['skip'][j][c] = max(-2, min(2, g['skip'][j][c]))
+        if random.random() < 0.3:
+            g['lr'] = max(0.02, min(0.2, g['lr'] + random.gauss(0, 0.01)))
+        if random.random() < 0.3:
+            g['fold_lr'] = max(0.005, min(0.08, g['fold_lr'] + random.gauss(0, 0.008)))
+        return g
+
+    def evolve(self):
+        for gen in range(self.n_gen):
+            fits = [self.eval_org(o) for o in self.pop]
+            bi = fits.index(max(fits))
+            bf = fits[bi]
+            af = sum(fits) / len(fits)
+            if bf > self.best_ever:
+                self.best_ever = bf
+                self.best_g = copy.deepcopy(self.pop[bi].g)
+            if gen % 10 == 0 or gen == self.n_gen - 1:
+                print(f"  Gen {gen:4d} bf={bf:.4f} af={af:.4f} best={self.best_ever:.4f}")
+                self.log.append((gen, bf, af, self.best_ever))
+            if gen == self.n_gen - 1:
+                break
+            idx = sorted(range(len(fits)), key=lambda i: fits[i], reverse=True)
+            nx = [Org(copy.deepcopy(self.pop[idx[i]].g)) for i in range(min(4, len(self.pop)))]
+            while len(nx) < self.n_org:
+                t1 = random.sample(range(len(self.pop)), min(5, len(self.pop)))
+                p1 = max(t1, key=lambda i: fits[i])
+                t2 = random.sample(range(len(self.pop)), min(5, len(self.pop)))
+                p2 = max(t2, key=lambda i: fits[i])
+                child = self.xover(self.pop[p1].g, self.pop[p2].g)
+                self.mutate(child, rate=0.03)
+                nx.append(Org(child))
+            self.pop = nx
+        return self.best_ever
+
+
+if __name__ == "__main__":
+    print("=== EO大脑演化引擎验证 ===\n")
+    eng = Engine(n_org=10, n_gen=30, seed=42, eval_ticks=100)
+    result = eng.evolve()
+    print(f"\n最终fitness: {result:.4f}")
+    print(f"fitness > 0.5: {'是' if result > 0.5 else '否'}（预测能力涌现）")
+    print(f"fitness > 0.9: {'是' if result > 0.9 else '否'}（高精度预测）")

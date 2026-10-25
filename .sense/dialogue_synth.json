@@ -1,1 +1,48 @@
-ewogIm9rIjogewogICLikaAg6Z+z6aKR55uy5rWLIGZ0b19tZWRpYW4g6JC9IFJFQUwiOiB0cnVlLAogICLikaAg6Z+z6aKR55uy5rWLIG92ZXJsYXBfZnJhYyDokL0gUkVBTCI6IHRydWUsCiAgIuKRoCDpn7PpopHnm7LmtYsgdHVybl9kdXJfbWVhbiDokL0gUkVBTCI6IHRydWUsCiAgIuKRoCDpn7PpopHnm7LmtYsgaml0dGVyIOiQvSBSRUFMIjogdHJ1ZSwKICAi4pGhIOKYheKYheKYhSDpn7PpopEgRlRPIOi3qOW6piA+MzAwbXPvvIjkuI3mmK/luLjph4/vvIkiOiB0cnVlLAogICLikaIgcHJvaj0wIOaXtumfs+mikSBGVE8gPjQwMG1z77yI5YGa5LiN5YiwMTAwbXPvvIkiOiB0cnVlLAogICLikaMgRlRPIOmaj+aKleW9seWNleiwg+S4i+mZje+8iOmfs+mike+8iSI6IHRydWUsCiAgIuKRpCDimIXimIUg5a2Y5Zyo44CQ5Lik6ICF5ZCM5pe25ruh6Laz44CR55qE5oqV5b2x5Yy66Ze0IjogdHJ1ZSwKICAi4pGlIOaKleW9sei/h+W8uuaXtumHjeWPoOehruWunui2hemZkO+8iOS4jeaYr+i2iuW8uui2iuWlve+8iSI6IHRydWUsCiAgIuKRpiDimIXimIUg6ICz5py15Z2PIOKGkiDmipvplJnvvIzkuI3lm57pgIAiOiB0cnVlLAogICLikacg5q2j5bi46ICz5py16IO95rWL5Ye6IEZUTyI6IHRydWUsCiAgIuKRqCDlmarlo7DkuI7nnJ/lr7nor53nmoQgRlRPIOaYjuaYvuS4jeWQjCI6IHRydWUsCiAgIuKRqSDni6znmb3ohZTmjaLkurrmrKHmlbDov5zlsJHkuo7lr7nor53ohZQiOiB0cnVlLAogICLikaogaml0dGVyIOa1i+mHj+maj+azqOWFpemHj+WNleiwg+S4iuWNh++8iOacuuWItui/numAmu+8iSI6IHRydWUKIH0sCiAiYWJsIjogewogICIwLjAiOiAwLjYyMjcxODc1MDAwMDAwMDIsCiAgIjAuMTUiOiAwLjUxNDgxMjUwMDAwMDAwMTQsCiAgIjAuMyI6IDAuMzc3MDAwMDAwMDAwMDAwNjcsCiAgIjAuNDUiOiAwLjIyNzAwMDAwMDAwMDAwMDMsCiAgIjAuNTUiOiAwLjEyNjk5OTk5OTk5OTk5OTc4LAogICIwLjY1IjogMC4wMjY5OTk5OTk5OTk5OTkyNDcsCiAgIjAuNzUiOiAtMC4wNTA4MTI1MDAwMDAwMDAxNQogfSwKICJhdWRpbyI6IHsKICAiZnRvX21lZGlhbiI6IDAuMTA0MDYyNDk5OTk5OTk5NSwKICAidHVybl9kdXJfbWVhbiI6IDEuNjQyNTY5OTYyNjg2NTY3NSwKICAib3ZlcmxhcF9mcmFjIjogMC4wMTg1NjMxNjMxMDIxNjg0MywKICAiaml0dGVyIjogMC4wMDc5OTU1NTM0OTMzNDM0MjYsCiAgIm4iOiA2MwogfSwKICJtb25vIjogewogICJmdG9fbWVkaWFuIjogTmFOLAogICJ0dXJuX2R1cl9tZWFuIjogMy44MDY3MTUyNzc3Nzc3NzgsCiAgIm92ZXJsYXBfZnJhYyI6IDAuMCwKICAiaml0dGVyIjogMC4wMDgyNTYyNTY3MzMxNjk4NjMsCiAgIm4iOiAwCiB9LAogIm5vaXNlIjogewogICJvdmVybGFwX2ZyYWMiOiAwLjAsCiAgImZ0b19tZWRpYW4iOiAzLjA0NDE4NzQ5OTk5OTk5OTYsCiAgInR1cm5fZHVyX21lYW4iOiAwLjk1MDc1NzgxMjUwMDAwMDEsCiAgIm5fc2VnIjogOC4wLAogICJuX2JjIjogMC4wCiB9Cn0=
+{
+ "ok": {
+  "① 音频盲测 fto_median 落 REAL": true,
+  "① 音频盲测 overlap_frac 落 REAL": true,
+  "① 音频盲测 turn_dur_mean 落 REAL": true,
+  "① 音频盲测 jitter 落 REAL": true,
+  "② ★★★ 音频 FTO 跨度 >300ms（不是常量）": true,
+  "③ proj=0 时音频 FTO >400ms（做不到100ms）": true,
+  "④ FTO 随投影单调下降（音频）": true,
+  "⑤ ★★ 存在【两者同时满足】的投影区间": true,
+  "⑥ 投影过强时重叠确实超限（不是越强越好）": true,
+  "⑦ ★★ 耳朵坏 → 抛错，不回退": true,
+  "⑧ 正常耳朵能测出 FTO": true,
+  "⑨ 噪声与真对话的 FTO 明显不同": true,
+  "⑩ 独白腔换人次数远少于对话腔": true,
+  "⑪ jitter 测量随注入量单调上升（机制连通）": true
+ },
+ "abl": {
+  "0.0": 0.6227187500000002,
+  "0.15": 0.5148125000000014,
+  "0.3": 0.37700000000000067,
+  "0.45": 0.2270000000000003,
+  "0.55": 0.12699999999999978,
+  "0.65": 0.026999999999999247,
+  "0.75": -0.05081250000000015
+ },
+ "audio": {
+  "fto_median": 0.1040624999999995,
+  "turn_dur_mean": 1.6425699626865675,
+  "overlap_frac": 0.01856316310216843,
+  "jitter": 0.007995553493343426,
+  "n": 63
+ },
+ "mono": {
+  "fto_median": NaN,
+  "turn_dur_mean": 3.806715277777778,
+  "overlap_frac": 0.0,
+  "jitter": 0.008256256733169863,
+  "n": 0
+ },
+ "noise": {
+  "overlap_frac": 0.0,
+  "fto_median": 3.0441874999999996,
+  "turn_dur_mean": 0.9507578125000001,
+  "n_seg": 8.0,
+  "n_bc": 0.0
+ }
+}

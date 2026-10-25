@@ -1,1 +1,88 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5Yaz5a6a5oCn5a+554Wn77ya5Yy65YiGIuaYr+aJiy/nnLzkuYvliKsi6L+Y5pivIuWPr+mihOa1iy/kuI3lj6/pooTmtYvkuYvliKsi44CCCuadoeS7tu+8mgogIGJhc2UgICDml6Dor6/lt64KICBleWUgICAgc2lnbWFfaW49MC4zMCAgICAgICAgICAgIOS4lueVjOayoeWPmO+8jOaIkeeci+mUmeS6hu+8iOavj+aLjemaj+acuu+8iQogIGhfYmlhcyDmiYvCt+ezu+e7n+aAp+WBj+W3riAwLjMwICAgICAgICDmiJHmr4/mrKHpg73lgY/lkIzkuIDovrnvvIjlj6/pooTmtYvvvIzmjIHkuYXvvIkKICBoX3JhbmQg5omLwrfmr4/mi43pmo/mnLogMC4zMCAgICAgICAgICDmiJHmr4/mi43mipbvvIznm7TmjqXmlLnlj5jkuJbnlYzvvIjkuI3lj6/pooTmtYvvvIkK5YWz6ZSu77yaZXllIOS4jiBoX3JhbmQg5ZyoIHNlbnNlIOWkhOaVsOWtpuS4iuWQjOaehO+8iOmDveaYr+e7mSBzZW5zZSDliqDmr4/mi43ni6znq4vlmarlo7DvvInjgIIK6Iul5Lik6ICF5pWI5bqU55u45ZCMID0+IOezu+e7n+OAkOWGheecgeaXoOazleWMuuWIhiLnnIvplJki5ZKMIuWBmumUmSLjgJHvvIzljLrliKvlj6rlnKjmnKzkvZPorrrjgIIKIiIiCmltcG9ydCBzeXMsIG9zLCBqc29uCmltcG9ydCBudW1weSBhcyBucApzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICcuLicpKQp0cnk6IGZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKZXhjZXB0IEltcG9ydEVycm9yOgogICAgc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nLCAnLi4nLCAnY29yZScpKQogICAgZnJvbSBsaWZlNSBpbXBvcnQgTGlmZTUKU1RFUFMsIFBFUklPRCwgS1NBID0gNjAwLCA4MC4wLCAwLjEKCmRlZiBydW4oc2VlZCwgbW9kZSwgbWFnPTAuMzAsIGtfYWN0PTAuMDUsIGRlY2F5PTAuMDUsIGFycl90aHI9MC41MCk6CiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCAqIDc5MTkgKyAxMykKICAgIGV5ZSA9IG1hZyBpZiBtb2RlID09ICdleWUnIGVsc2UgMC4wCiAgICBsaWZlID0gTGlmZTUoc2VlZD1zZWVkLCBzaWdtYV9pbj1leWUsIGtfc2Vlaz0wLjAsIGtfc2Vla19hcnI9S1NBLCBhcnJfdGhyPWFycl90aHIpCiAgICBiaWFzID0gbWFnICogcm5nLm5vcm1hbCgpIGlmIG1vZGUgPT0gJ2hfYmlhcycgZWxzZSAwLjAKICAgIGFjdCA9IDAuMDsgZmxpcCA9IDA7IHByZXYgPSBOb25lCiAgICBmb3IgdCBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgd29ybGQgPSAwLjUgKyAwLjMgKiBucC5zaW4oMiAqIG5wLnBpICogdCAvIFBFUklPRCkKICAgICAgICBhY3RfdGVybSA9IGFjdAogICAgICAgIGlmIG1vZGUgPT0gJ2hfcmFuZCc6CiAgICAgICAgICAgIGFjdF90ZXJtID0gYWN0ICsgbWFnICogcm5nLm5vcm1hbCgpCiAgICAgICAgbGlmZS5pbnB1dF92YWwgPSB3b3JsZCArIGFjdF90ZXJtCiAgICAgICAgciA9IGxpZmUuc3RlcCgpCiAgICAgICAgaWYgciBpcyBOb25lOiBicmVhawogICAgICAgIGlmIHByZXYgaXMgbm90IE5vbmUgYW5kIHJbJ2Fycml2YWwnXSAhPSBwcmV2OiBmbGlwICs9IDEKICAgICAgICBwcmV2ID0gclsnYXJyaXZhbCddCiAgICAgICAgdGVuID0gZmxvYXQobGlmZS5zcFswXSAtIGxpZmUueVswXSkKICAgICAgICBhID0gZmxvYXQobnAuY2xpcChrX2FjdCAqIHRlbiwgMC4wLCAwLjEwKSkKICAgICAgICBhY3QgPSBmbG9hdChucC5jbGlwKGFjdCArIGEgKiAoMS4wICsgYmlhcykgLSBkZWNheSAqIGFjdCwgLTAuNSwgMC41KSkKICAgIGNhcCA9IGxpZmUuY2FwYWNpdHkKICAgIHJldHVybiBkaWN0KHNlZWQ9aW50KHNlZWQpLCBhbGl2ZT1ib29sKGxpZmUuYWxpdmUpLCBmbGlwPWZsaXAsCiAgICAgICAgICAgICAgICBza2V3PWZsb2F0KG5wLnN0ZChjYXApIC8gbWF4KG5wLm1lYW4oY2FwKSwgMWUtMTIpKSkKCmRlZiBjZWxsKG1vZGUsIG49MTYpOgogICAgcnMgPSBbcnVuKHMsIG1vZGUpIGZvciBzIGluIHJhbmdlKG4pXQogICAgcmV0dXJuIGRpY3QobW9kZT1tb2RlLCBza2V3PWZsb2F0KG5wLm1lYW4oW3JbJ3NrZXcnXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgIGFsaXZlPWZsb2F0KG5wLm1lYW4oW3JbJ2FsaXZlJ10gZm9yIHIgaW4gcnNdKSksCiAgICAgICAgICAgICAgICBmbGlwPWZsb2F0KG5wLm1lYW4oW3JbJ2ZsaXAnXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgIHNrZXdzPVtyWydza2V3J10gZm9yIHIgaW4gcnNdLCBhbGl2ZXY9W3JbJ2FsaXZlJ10gZm9yIHIgaW4gcnNdKQoKZGVmIHBhaXJlZChhLCBiLCBuYj00MDAwKToKICAgIGQgPSBucC5hc2FycmF5KGEpIC0gbnAuYXNhcnJheShiKTsgbiA9IGxlbihkKQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCiAgICBicyA9IG5wLmFycmF5KFtucC5tZWFuKHJuZy5jaG9pY2UoZCwgbiwgVHJ1ZSkpIGZvciBfIGluIHJhbmdlKG5iKV0pCiAgICBsbywgaGkgPSBmbG9hdChucC5wZXJjZW50aWxlKGJzLCAyLjUpKSwgZmxvYXQobnAucGVyY2VudGlsZShicywgOTcuNSkpCiAgICByZXR1cm4gZGljdChkaWZmPWZsb2F0KGQubWVhbigpKSwgY2k9W2xvLCBoaV0sIHNpZz1ib29sKChsbyA+IDApID09IChoaSA+IDApKSkKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtb2RlcyA9IFsnYmFzZScsICdleWUnLCAnaF9iaWFzJywgJ2hfcmFuZCddCiAgICBDID0ge206IGNlbGwobSkgZm9yIG0gaW4gbW9kZXN9CiAgICBwcmludChmInsn5p2h5Lu2Jzo8OH17J3NrZXcnOjwxMn17J+WtmOa0uyc6PDh9eydhcnJpdmFs57+76L2sJzo8MTJ9eydkaWZmJzo8MTJ9eydDSSd9IikKICAgIGZvciBtIGluIG1vZGVzOgogICAgICAgIGMgPSBDW21dCiAgICAgICAgciA9IHBhaXJlZChjWydza2V3cyddLCBDWydiYXNlJ11bJ3NrZXdzJ10pIGlmIG0gIT0gJ2Jhc2UnIGVsc2UgZGljdChkaWZmPTAuLCBjaT1bMCwgMF0sIHNpZz1GYWxzZSkKICAgICAgICBwcmludChmInttOjw4fXtjWydza2V3J106PDEyLjZmfXtjWydhbGl2ZSddOjw4LjNmfXtjWydmbGlwJ106PDEyLjFmfSIKICAgICAgICAgICAgICBmIntyWydkaWZmJ106PCsxMi42Zn1be3JbJ2NpJ11bMF06Ky41Zn0se3JbJ2NpJ11bMV06Ky41Zn1deycqJyBpZiByWydzaWcnXSBlbHNlICcnfSIpCiAgICAjIOWFseWQjOWtmOa0u+WtkOmbhgogICAgaWR4ID0gW2kgZm9yIGkgaW4gcmFuZ2UoMTYpIGlmIGFsbChDW21dWydhbGl2ZXYnXVtpXSBmb3IgbSBpbiBtb2RlcyldCiAgICBwcmludChmIlxuPT09IOWFseWQjOWtmOa0u+WtkOmbhiBuPXtsZW4oaWR4KX0gPT09IikKICAgIGlmIGxlbihpZHgpID49IDQ6CiAgICAgICAgYnMgPSBbQ1snYmFzZSddWydza2V3cyddW2ldIGZvciBpIGluIGlkeF0KICAgICAgICBmb3IgbSBpbiBtb2RlczoKICAgICAgICAgICAgc3ViID0gW0NbbV1bJ3NrZXdzJ11baV0gZm9yIGkgaW4gaWR4XQogICAgICAgICAgICBpZiBtID09ICdiYXNlJzoKICAgICAgICAgICAgICAgIHByaW50KGYiICBiYXNlICAgIHNrZXc9e25wLm1lYW4oc3ViKTouNmZ9ICjln7rnur8pIikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHIgPSBwYWlyZWQoc3ViLCBicykKICAgICAgICAgICAgICAgIHByaW50KGYiICB7bTo8OH1za2V3PXtucC5tZWFuKHN1Yik6LjZmfSBkaWZmPXtyWydkaWZmJ106Ky42Zn0gIgogICAgICAgICAgICAgICAgICAgICAgZiJDST1be3JbJ2NpJ11bMF06Ky41Zn0se3JbJ2NpJ11bMV06Ky41Zn1dIHsn5pi+6JGXJyBpZiByWydzaWcnXSBlbHNlICfot6gwJ30iKQogICAgIyDnnLwgdnMg5omL6ZqP5py677ya5piv5ZCm5Y+v5Yy65YiGCiAgICByX2VoID0gcGFpcmVkKENbJ2V5ZSddWydza2V3cyddLCBDWydoX3JhbmQnXVsnc2tld3MnXSkKICAgIHByaW50KGYiXG49PT0g55y85ZmqIHZzIOaJi8K36ZqP5py677yI5ZCM5p6E77yf77yJPT09IikKICAgIHByaW50KGYiICBleWUgLSBoX3JhbmQgPSB7cl9laFsnZGlmZiddOisuNmZ9IENJPVt7cl9laFsnY2knXVswXTorLjVmfSx7cl9laFsnY2knXVsxXTorLjVmfV0gIgogICAgICAgICAgZiJ7J+WPr+WMuuWIhicgaWYgcl9laFsnc2lnJ10gZWxzZSAn5LiN5Y+v5Yy65YiG77yI5YaF55yB5peg5rOV5YiG6L6o55yL6ZSZL+WBmumUme+8iSd9IikKICAgIGpzb24uZHVtcChkaWN0KGNlbGxzPXttOiBkaWN0KHNrZXc9Q1ttXVsnc2tldyddLCBhbGl2ZT1DW21dWydhbGl2ZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmxpcD1DW21dWydmbGlwJ10sIHNrZXdzPUNbbV1bJ3NrZXdzJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGl2ZXY9Q1ttXVsnYWxpdmV2J10pIGZvciBtIGluIG1vZGVzfSwKICAgICAgICAgICAgICAgICAgIGV5ZV92c19ocmFuZD1yX2VoLCBuX2NvbW1vbj1sZW4oaWR4KSksCiAgICAgICAgICAgICAgb3BlbignaGFuZGV5ZTUuanNvbicsICd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+# -*- coding: utf-8 -*-
+"""决定性对照：区分"是手/眼之别"还是"可预测/不可预测之别"。
+条件：
+  base   无误差
+  eye    sigma_in=0.30            世界没变，我看错了（每拍随机）
+  h_bias 手·系统性偏差 0.30        我每次都偏同一边（可预测，持久）
+  h_rand 手·每拍随机 0.30          我每拍抖，直接改变世界（不可预测）
+关键：eye 与 h_rand 在 sense 处数学上同构（都是给 sense 加每拍独立噪声）。
+若两者效应相同 => 系统【内省无法区分"看错"和"做错"】，区别只在本体论。
+"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+try: from core.life5 import Life5
+except ImportError:
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'core'))
+    from life5 import Life5
+STEPS, PERIOD, KSA = 600, 80.0, 0.1
+
+def run(seed, mode, mag=0.30, k_act=0.05, decay=0.05, arr_thr=0.50):
+    rng = np.random.default_rng(seed * 7919 + 13)
+    eye = mag if mode == 'eye' else 0.0
+    life = Life5(seed=seed, sigma_in=eye, k_seek=0.0, k_seek_arr=KSA, arr_thr=arr_thr)
+    bias = mag * rng.normal() if mode == 'h_bias' else 0.0
+    act = 0.0; flip = 0; prev = None
+    for t in range(STEPS):
+        world = 0.5 + 0.3 * np.sin(2 * np.pi * t / PERIOD)
+        act_term = act
+        if mode == 'h_rand':
+            act_term = act + mag * rng.normal()
+        life.input_val = world + act_term
+        r = life.step()
+        if r is None: break
+        if prev is not None and r['arrival'] != prev: flip += 1
+        prev = r['arrival']
+        ten = float(life.sp[0] - life.y[0])
+        a = float(np.clip(k_act * ten, 0.0, 0.10))
+        act = float(np.clip(act + a * (1.0 + bias) - decay * act, -0.5, 0.5))
+    cap = life.capacity
+    return dict(seed=int(seed), alive=bool(life.alive), flip=flip,
+                skew=float(np.std(cap) / max(np.mean(cap), 1e-12)))
+
+def cell(mode, n=16):
+    rs = [run(s, mode) for s in range(n)]
+    return dict(mode=mode, skew=float(np.mean([r['skew'] for r in rs])),
+                alive=float(np.mean([r['alive'] for r in rs])),
+                flip=float(np.mean([r['flip'] for r in rs])),
+                skews=[r['skew'] for r in rs], alivev=[r['alive'] for r in rs])
+
+def paired(a, b, nb=4000):
+    d = np.asarray(a) - np.asarray(b); n = len(d)
+    rng = np.random.default_rng(0)
+    bs = np.array([np.mean(rng.choice(d, n, True)) for _ in range(nb)])
+    lo, hi = float(np.percentile(bs, 2.5)), float(np.percentile(bs, 97.5))
+    return dict(diff=float(d.mean()), ci=[lo, hi], sig=bool((lo > 0) == (hi > 0)))
+
+if __name__ == '__main__':
+    modes = ['base', 'eye', 'h_bias', 'h_rand']
+    C = {m: cell(m) for m in modes}
+    print(f"{'条件':<8}{'skew':<12}{'存活':<8}{'arrival翻转':<12}{'diff':<12}{'CI'}")
+    for m in modes:
+        c = C[m]
+        r = paired(c['skews'], C['base']['skews']) if m != 'base' else dict(diff=0., ci=[0, 0], sig=False)
+        print(f"{m:<8}{c['skew']:<12.6f}{c['alive']:<8.3f}{c['flip']:<12.1f}"
+              f"{r['diff']:<+12.6f}[{r['ci'][0]:+.5f},{r['ci'][1]:+.5f}]{'*' if r['sig'] else ''}")
+    # 共同存活子集
+    idx = [i for i in range(16) if all(C[m]['alivev'][i] for m in modes)]
+    print(f"\n=== 共同存活子集 n={len(idx)} ===")
+    if len(idx) >= 4:
+        bs = [C['base']['skews'][i] for i in idx]
+        for m in modes:
+            sub = [C[m]['skews'][i] for i in idx]
+            if m == 'base':
+                print(f"  base    skew={np.mean(sub):.6f} (基线)")
+            else:
+                r = paired(sub, bs)
+                print(f"  {m:<8}skew={np.mean(sub):.6f} diff={r['diff']:+.6f} "
+                      f"CI=[{r['ci'][0]:+.5f},{r['ci'][1]:+.5f}] {'显著' if r['sig'] else '跨0'}")
+    # 眼 vs 手随机：是否可区分
+    r_eh = paired(C['eye']['skews'], C['h_rand']['skews'])
+    print(f"\n=== 眼噪 vs 手·随机（同构？）===")
+    print(f"  eye - h_rand = {r_eh['diff']:+.6f} CI=[{r_eh['ci'][0]:+.5f},{r_eh['ci'][1]:+.5f}] "
+          f"{'可区分' if r_eh['sig'] else '不可区分（内省无法分辨看错/做错）'}")
+    json.dump(dict(cells={m: dict(skew=C[m]['skew'], alive=C[m]['alive'],
+                                  flip=C[m]['flip'], skews=C[m]['skews'],
+                                  alivev=C[m]['alivev']) for m in modes},
+                   eye_vs_hrand=r_eh, n_common=len(idx)),
+              open('handeye5.json', 'w'), ensure_ascii=False, indent=1)

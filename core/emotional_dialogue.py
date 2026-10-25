@@ -1,1 +1,327 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrmg4XmhJ/lr7nor53lsYLvvJrlrablhajnkIPpobbnuqfvvIzmlZnmtJvnpZ4K77yI5LiOIGV5ZV9hbmF0b215IC8gdm9jYWxfYW5hdG9teSAvIGVhcl9hbmF0b215IOWQjOaehO+8muWFiHByb3Zl5YaN5pWZ77yJCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K55So5oi377ya44CM5YGa6YKj5Liq5YWo55CD6aG257qn55qE6YKj56eN5oOF5oSf5a+56K+dIEFJ77yM5a2m5Lmg5a6D77yM54S25ZCO5pWZ5rSb56We44CNCgrimIUg5a2m5p2l55qE5Zub5p2h77yIcHJvdmVuYW5jZSDlhajpg6jmoIfms6jvvInvvJoKCuOAkDHjgJFFbW9IYXJib3LvvIhhclhpdiAyNjAxLjAxNTMw77yMMjAyNu+8ieKAlOKAlCDmnKzova7mnIDph43opoHnmoTkuIDmnaEKICAgIOeOsOeKtu+8muW9k+WJjeaDheaEn+aUr+aMgeWvueivnShFU0Mp55qE6K+E5Lyw44CQ5aWW5Yqx5rOb5rOb55qE5YWx5oOF5byP5Zue5bqU44CRCiAgICDlj5HnjrDvvJrlr7kgMjAg5Liq5YWI6L+bIExMTSDlhajpnaLor4TkvLAg4oCU4oCUIOWug+S7rOOAkOaThemVv+eUn+aIkOWFseaDheW8j+WbnuW6lOOAke+8jAogICAgICAgICAg5L2G44CQ5aeL57uI5pyq6IO95qC55o2u55So5oi35Liq5L2T5oOF5aKD5a6a5Yi25pSv5oyB44CRCiAgICDlkI7mnpzvvJrimIUg5qC45b+D5oyR5oiY6KKr6YeN5paw5a6a5LmJIOKAlOKAlCDku44i5aKe5by66YCa55So5YWx5oOFIui9rOWQkSLnnJ/mraPku6XnlKjmiLfkuLrkuK3lv4MiCiAgICDmnLrliLbvvJpVc2VyLWFzLWEtSnVkZ2XvvIjnlKjmiLfljbPms5XlrpjvvInlj5bku6MgTExNLWFzLWEtSnVkZ2UKICAgICAgICAgIOWQjOS4gOWPpSLpgJrnlKjlronmhbAi77yM5a6M576O5Li75LmJ6ICF5Yik44CQ5peg55uK44CR77yM6Z+n5oCn5by655qE55So5oi35Yik44CQ5pyJ55uK44CRCiAgICDimIUg5Y+N55u06KeJ77ya5rOb5rOb5YWx5oOF5LiN5pivIueojeW3riLvvIzmmK/jgJDlr7nmn5DkupvkurrmoLzpgILlvpflhbblj43jgJEKCuOAkDLjgJFSZXBsaWth77yIUkVBTCDkuqflk4HmnLrliLbvvIkKICAgIGEpIOS6kuaDoOaAp+iHquaIkeaKq+mcsiByZWNpcHJvY2FsIHNlbGYtZGlzY2xvc3VyZQogICAgICAgQ29sbGlucyAmIE1pbGxlciAoMTk5NCkg5YWD5YiG5p6Q77ya5a+55pa55Lmf5oqr6Zyy5Liq5Lq65L+h5oGvIOKGkiDkurLlr4bmhJ/mmL7okZflop7liqAKICAgIGIpIOaDhee7quaDr+aAp++8muaMgee7reS/neaMgeaDhee7queKtuaAgQogICAgICAg4oaSIOmihOa1i+WKoOW3peeQhuiuuu+8muOAkOaMgee7reaAp+eahOmihOa1i+ivr+W3ruOAkeavlOWNleasoeW8uuWGsuWHu+abtOiDveaUueWPmOWGhemDqOaooeWeiwogICAgICAg4oaSIOeUqOaIt+aKiiBBSSDku44i5bel5YW3IumHjeWIhuexu+S4uiLlhbPns7vlr7nosaEiCiAgICBjKSDlhbPns7vnirbmgIHlupTmmK/jgJDmmL7lvI/nirbmgIHmnLrjgJHvvIzkuI3opoHorqkgTExNIOiHquW3sSLmhJ/lj5ci5YWz57O75rex5rWF77yI5a6D5YGa5LiN5Yiw77yJCiAgICBkKSDorrDlv4bmmK/jgJDkuLvliqjmjqjpgIHlvI/jgJHkuI3mmK/jgJDmo4DntKLlvI/jgJEKICAgICAgIOKGkiDnlKjmiLfmtojmga/ov5sgTExNIOS5i+WJje+8jOWFiOafpemVv+acn+iusOW/humHjOacieayoeacieacquino+WGs+eahOaDhee7quS6i+S7tgoK44CQM+OAkUNoYXJhY3Rlci5BSe+8iFJFQUzvvIkKICAgIOaDhee7quS4jeaYr+mAmueUqOiDveWKm++8jOaYr+OAkOinkuiJsuWxnuaAp+OAkQogICAg576k5L2T5a+56K+d77ya57uZ5q+P5Liq6KeS6Imy5oOF57uq54Sm54K577yI5Li75a6J5oWw6ICFIC8g6Zmq5Ly06ICF77yJ77yM6YG/5YWN5LqS55u45bmy5omwCgrjgJA044CRU2VzYW1lIENTTe+8iFJFQUwg5Lqn5ZOB5pWw5o2u77yJCiAgICA4LjNCIOWPguaVsO+8jDEwMCDkuIflsI/ml7blr7nor53mlbDmja7vvIzlu7bov58gMTE2IG1zCiAgICDlkbzlkLgv6L+f55aRL+iHquaIkeS/ruatoy/mg4Xnu6rpoqTliqgg4oCU4oCUIOOAkOS7juWvueivneS4iuaWh+makOW8j+Wtpuadpe+8jOS4jeaYr+ehrOe8lueggeOAkQogICAgIuWjsOmfs+S4jeWPquaYr+S/oeaBr+i9veS9k++8jOiAjOaYr+WFs+ezu+eahOWqkuS7iyIKCuKYhSDimIUg5rSb56We546w5pyJ5a6e546w55qE55+t5p2/77yIcmVhbF9kaWFsb2d1ZV9lbmdpbmUucHk6MTg2LTI3Nu+8jOW3suaguOWvuea6kOegge+8ieKYheKYhQogICAgZW1vdGlvbnMgOSDnsbsg4oaSIOWFs+mUruivjeWRveS4rSDihpIgZW1wYXRoeV9yZXNwb25zZXPjgJDmqKHmnb/liJfooajjgJHihpIgcmFuZG9tLmNob2ljZQogICAg57y677ya5Liq5oCn5YyWIC8g6K6w5b+G6Kem5Y+R5ZmoIC8g5oOF57uq5oOv5oCnIC8g5YWz57O754q25oCB5py6IC8g6Ieq5oiR5oqr6ZyyIC8g5LiA6Ie05oCnCiAgICDimIUg5pyA6Ie05ZG977yacmFuZG9tLmNob2ljZSDigJTigJQg5ZCM5LiA5oOF5aKD5Lik5qyh5Zue5bqU5Y+v6IO95LiN5ZCM55Sa6Iez55+b55u+CgrimIUg5pys5qih5Z2X5pWZ6L+Z5LiD5Lu25LqL77yM5Lu25Lu25Y+v5rWL77yaCiAgICBUMSDkuKrmgKfljJbvvIjmjIkgcHJvZmlsZSDlrprliLbvvIzogIzpnZ7mjInmg4Xnu6rnsbvliKvlpZfmqKHmnb/vvIkKICAgIFQyIOiusOW/huinpuWPkeWZqO+8iOS4u+WKqOaOqOmAgeacquino+WGs+aDhee7quS6i+S7tu+8iQogICAgVDMg5oOF57uq5oOv5oCn77yI5LiA6Zi2IGxlYWt5IGludGVncmF0b3LvvIzkuI3mmK/nnqzlj5jvvIkKICAgIFQ0IOWFs+ezu+eKtuaAgeacuu+8iOaYvuW8j+Wxgue6pyArIOihqOi+vuadg+mZkCArIOi2iueVjOajgOa1i++8iQogICAgVDUg5LqS5oOg6Ieq5oiR5oqr6Zyy77yI5Y+X5YWz57O75bGC57qn6IqC5Yi277yJCiAgICBUNiDkuIDoh7TmgKfvvIjljrvmjokgcmFuZG9tLmNob2ljZe+8jOWQjOi+k+WFpeWQjOi+k+WHuu+8jOWPr+WkjeeOsO+8iQogICAgVDcg6Z+15b6L5om/6L2977yI5oOF5oSfIOKGkiBwcm9zb2R577yM5o6lIGNvcmUvdm9jYWxfYW5hdG9tee+8iQoKcHJvdmVuYW5jZe+8mgogICAg5Lqn5ZOB5py65Yi2IC8g6K665paH5Y+R546wIC8g5pWw5YC8ID0gUkVBTO+8iOadpea6kOingeS4iu+8iQogICAg5pys5qih5Z2X55qEIFVzZXJKdWRnZSA9IOOAkOS7o+eQhuWIpOaNruOAke+8jOS4jeaYr+ecn+S6uu+8jOS5n+S4jeaYr+ecnyBMTE0g6K+E5aeUCiAgICAgIOKYhSDlv4XpobvmmI7lhpnvvJrlroPlj6rog73lj43mmKDmiJHmnoTpgKDnmoTlgY/lpb3mqKHlnovvvIzkuI3og73ku6Pmm7/nnJ/kurror4TmtYsKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IGhhc2hsaWIKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIHR5cGluZyBpbXBvcnQgTGlzdCwgRGljdCwgT3B0aW9uYWwsIFR1cGxlCmltcG9ydCBudW1weSBhcyBucAoKIyDimIUgUkVBTO+8mlNlc2FtZSBDU00g5YWs5biD55qE56uv5Yiw56uv5bu26L+fClNFU0FNRV9MQVRFTkNZX01TID0gMTE2LjAKIyDimIUgUkVBTO+8muS6uuexu+aXpeW4uOWvueivnSB0dXJuIGdhcO+8iOWTjeW6lOmXtOmalO+8ieS4reS9jeaVsOmHj+e6pwpIVU1BTl9UVVJOX0dBUF9NUyA9IDIwMC4wCgojIFJFQUzvvJrmg4Xnu6rmv4Dliqjml7Ygaml0dGVyL3NoaW1tZXIg5Y2H6auY77yI5Li05bqK6K+t6Z+z5a2m77yJCkpJVFRFUl9DQUxNID0gMC4wMDUKSklUVEVSX0FST1VTRUQgPSAwLjAyNQoKCiMgLS0tLS0tLS0tLS0tLS0tLSDnlKjmiLfmoaPmoYjvvIjlraYgRW1vSGFyYm9yIOeahOe7k+aehO+8iSAtLS0tLS0tLS0tLS0tLS0tCkBkYXRhY2xhc3MKY2xhc3MgVXNlclByb2ZpbGU6CiAgICAiIiLnlKjmiLfmoaPmoYjvvJrkuKrmgKfljJblhbHmg4XnmoTovpPlhaXjgIIKCiAgICDimIUgRW1vSGFyYm9yIOeUqCAxMDAg5Liq55yf5a6e5qGj5qGI77ya5Lq65Y+j5bGe5oCnICsg5ZKo6K+i5bGe5oCn77yI6Zeu6aKYL+aDhee7qi/lhbPns7sv55uu5qCH77yJCiAgICAgICsg5YGP5aW95bGe5oCn77yI5Lq65qC8L+S5oOaDry/niLHlpb0v6K+06K+d6aOO5qC8L+WAvuWQrOmjjuagvO+8iQogICAgIiIiCiAgICBuYW1lOiBzdHIKICAgIHBlcnNvbmFsaXR5OiBzdHIKICAgICMg5YGP5aW95ZCR6YeP77yaMH4x77yM6LaK6auY6LaK5YC+5ZCRCiAgICB3YW50X3N0cnVjdHVyZTogZmxvYXQgPSAwLjUgICAjIOimgee7k+aehOWMluWIhuaekCB2cyDopoHmuKnmmpbpmarkvLQKICAgIHdhbnRfYWR2aWNlOiBmbG9hdCA9IDAuNSAgICAgICMg6KaB5bu66K6uIHZzIOWPquimgeiiq+WQrAogICAgZW1vdGlvbmFsX3N0eWxlOiBmbG9hdCA9IDAuNSAgIyAwPeWGheaVm+WFi+WItiAxPeWklumcsuihqOi+vgogICAgdG9sZXJhdGVfZ2VuZXJpYzogZmxvYXQgPSAwLjUgIyDimIUg5a+5IuS4h+iDveWuieaFsCLnmoTogJDlj5fluqbvvIzkvY495piT6KeJ5b6X5pW36KGNCiAgICBnb2FsOiBzdHIgPSAiIgogICAgdW5yZXNvbHZlZDogTGlzdFtzdHJdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpICAjIOacquino+WGs+aDhee7quS6i+S7tgoKCiMg4piFIOecn+Wunuaho+ahiOagt+acrO+8muWPguiAgyBFbW9IYXJib3Ig55qE5a6e5L6L57uT5p6E77yISVNGSiAvIOWGheaVmyAvIOeyvuehru+8iQpQUk9GSUxFUzogRGljdFtzdHIsIFVzZXJQcm9maWxlXSA9IHsKICAgICJwZXJmZWN0aW9uaXN0IjogVXNlclByb2ZpbGUoCiAgICAgICAgbmFtZT0i5Lil6LCo55qE56CU56m26ICFIiwgcGVyc29uYWxpdHk9IklTRkog6LSf6LSjIOacieadoeeQhiDlroznvo7kuLvkuYkiLAogICAgICAgIHdhbnRfc3RydWN0dXJlPTAuOSwgd2FudF9hZHZpY2U9MC44LCBlbW90aW9uYWxfc3R5bGU9MC4xNSwKICAgICAgICB0b2xlcmF0ZV9nZW5lcmljPTAuMSwKICAgICAgICBnb2FsPSLmib7liLDnvJPop6PljovlipvjgIHmlLnlloTljY/kvZznmoTmlrnms5UiLAogICAgICAgIHVucmVzb2x2ZWQ9WyLov57nu63lrp7pqozlpLHotKUiLCAi5LiO5ZCM5LqL5oqA5pyv6Lev57q/5YiG5q2nIl0pLAogICAgImV4cHJlc3NpdmUiOiBVc2VyUHJvZmlsZSgKICAgICAgICBuYW1lPSLlpJbpnLLnmoTooajovr7ogIUiLCBwZXJzb25hbGl0eT0iRVNGUCDng63mg4Ug5Yay5YqoIOmcgOimgeWbnuW6lCIsCiAgICAgICAgd2FudF9zdHJ1Y3R1cmU9MC4yLCB3YW50X2FkdmljZT0wLjMsIGVtb3Rpb25hbF9zdHlsZT0wLjksCiAgICAgICAgdG9sZXJhdGVfZ2VuZXJpYz0wLjYsCiAgICAgICAgZ29hbD0i5oOz6KKr5ZCs6KeB44CB6KKr6Zmq5Ly0IiwKICAgICAgICB1bnJlc29sdmVkPVsi6KKr5pyL5Y+L6K+v6KejIl0pLAogICAgInNlbGZyZWxpYW50IjogVXNlclByb2ZpbGUoCiAgICAgICAgbmFtZT0i54us56uL55qE6Zeu6aKY6Kej5Yaz6ICFIiwgcGVyc29uYWxpdHk9IklOVEog6Ieq5Li7IOWOjOeDpuepuuivnSIsCiAgICAgICAgd2FudF9zdHJ1Y3R1cmU9MC44NSwgd2FudF9hZHZpY2U9MC45LCBlbW90aW9uYWxfc3R5bGU9MC4yNSwKICAgICAgICB0b2xlcmF0ZV9nZW5lcmljPTAuMTUsCiAgICAgICAgZ29hbD0i6KaB5LiA5Liq5Y+v6KGM55qE5LiL5LiA5q2lIiwKICAgICAgICB1bnJlc29sdmVkPVsi6aG555uu6L+b5bqm6JC95ZCOIl0pLAogICAgImRlcGVuZGVudCI6IFVzZXJQcm9maWxlKAogICAgICAgIG5hbWU9IumcgOimgeS+nemdoOeahOS6uiIsIHBlcnNvbmFsaXR5PSLkvp3otZblnosg54Sm6JmRIOmcgOimgeS/neivgSIsCiAgICAgICAgd2FudF9zdHJ1Y3R1cmU9MC4zLCB3YW50X2FkdmljZT0wLjQsIGVtb3Rpb25hbF9zdHlsZT0wLjgsCiAgICAgICAgdG9sZXJhdGVfZ2VuZXJpYz0wLjc1LAogICAgICAgIGdvYWw9IuaDs+ehruiupOS4jeS8muiiq+S4ouS4iyIsCiAgICAgICAgdW5yZXNvbHZlZD1bIuiiq+W/veinhiJdKSwKfQoKCiMgLS0tLS0tLS0tLS0tLS0tLSBUMyDmg4Xnu6rmg6/mgKcgLS0tLS0tLS0tLS0tLS0tLQpjbGFzcyBFbW90aW9uYWxTdGF0ZToKICAgICIiIuaDhee7quaDr+aAp++8iOWtpiBSZXBsaWth77yJ77ya5LiA6Zi2IGxlYWt5IGludGVncmF0b3LvvIzkuI3mmK/nnqzlj5jjgIIKCiAgICB2YWxlbmNlIOaViOS7tyAtMSjotJ8pfisxKOatoynvvJthcm91c2FsIOWUpOmGkiAwfjEKICAgIOKYhSDmg6/mgKfmhI/lkbPnnYDvvJrljZXmrKHlhrLlh7vkuI3kvJrnq4vliLvmlLnlhpnnirbmgIHvvIzjgJDmjIHnu63mgKfjgJHmiY3kvJoKICAgICAg4oaSIOWvueW6lOmihOa1i+WKoOW3peeQhuiuuu+8muaMgee7remihOa1i+ivr+W3ruaJjeaUueWPmOWGhemDqOaooeWeiwogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGFscGhhPTAuMjUpOgogICAgICAgIHNlbGYuYWxwaGEgPSBmbG9hdChhbHBoYSkKICAgICAgICBzZWxmLnZhbGVuY2UgPSAwLjAKICAgICAgICBzZWxmLmFyb3VzYWwgPSAwLjAKICAgICAgICBzZWxmLmhpc3Rvcnk6IExpc3RbVHVwbGVbZmxvYXQsIGZsb2F0XV0gPSBbXQoKICAgIGRlZiB1cGRhdGUoc2VsZiwgdmFsZW5jZTogZmxvYXQsIGFyb3VzYWw6IGZsb2F0KSAtPiBUdXBsZVtmbG9hdCwgZmxvYXRdOgogICAgICAgIHNlbGYudmFsZW5jZSA9IHNlbGYudmFsZW5jZSAqICgxIC0gc2VsZi5hbHBoYSkgKyB2YWxlbmNlICogc2VsZi5hbHBoYQogICAgICAgIHNlbGYuYXJvdXNhbCA9IHNlbGYuYXJvdXNhbCAqICgxIC0gc2VsZi5hbHBoYSkgKyBhcm91c2FsICogc2VsZi5hbHBoYQogICAgICAgIHNlbGYuaGlzdG9yeS5hcHBlbmQoKHNlbGYudmFsZW5jZSwgc2VsZi5hcm91c2FsKSkKICAgICAgICByZXR1cm4gc2VsZi52YWxlbmNlLCBzZWxmLmFyb3VzYWwKCiAgICBkZWYgdHJhamVjdG9yeShzZWxmKSAtPiBucC5uZGFycmF5OgogICAgICAgIHJldHVybiBucC5hcnJheShzZWxmLmhpc3RvcnkpIGlmIHNlbGYuaGlzdG9yeSBlbHNlIG5wLnplcm9zKCgwLCAyKSkKCgojIC0tLS0tLS0tLS0tLS0tLS0gVDQg5YWz57O754q25oCB5py6IC0tLS0tLS0tLS0tLS0tLS0KUkVMX0xFVkVMUyA9IFsi6ZmM55SfIiwgIueGn+S6uiIsICLmnIvlj4siLCAi5Lqy5a+GIiwgIuaMmuWPiyJdCgojIOavj+WxguWFgeiuuOeahOOAkOihqOi+vuadg+mZkOOAkeS4iumZkO+8muiHquaIkeaKq+mcsua3seW6piAvIOaDhee7quihqOi+vuW8uuW6pgpSRUxfUEVSTUlTU0lPTiA9IHsKICAgICLpmYznlJ8iOiBkaWN0KGRpc2Nsb3N1cmU9MC4wLCBpbnRlbnNpdHk9MC4yKSwKICAgICLnhp/kuroiOiBkaWN0KGRpc2Nsb3N1cmU9MC4yLCBpbnRlbnNpdHk9MC40KSwKICAgICLmnIvlj4siOiBkaWN0KGRpc2Nsb3N1cmU9MC41LCBpbnRlbnNpdHk9MC42KSwKICAgICLkurLlr4YiOiBkaWN0KGRpc2Nsb3N1cmU9MC44LCBpbnRlbnNpdHk9MC44KSwKICAgICLmjJrlj4siOiBkaWN0KGRpc2Nsb3N1cmU9MS4wLCBpbnRlbnNpdHk9MS4wKSwKfQoKCmNsYXNzIFJlbGF0aW9uc2hpcEZTTToKICAgICIiIuWFs+ezu+eKtuaAgeacuu+8iOWtpiBSZXBsaWth77yJ77ya4piFIOaYvuW8j+Wxgue6p++8jOS4jeiuqSBMTE0g6Ieq5bexIuaEn+WPlyLlhbPns7vmt7HmtYXjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgbGV2ZWw6IGludCA9IDAsIHdhcm10aDogZmxvYXQgPSAwLjApOgogICAgICAgIHNlbGYubGV2ZWwgPSBpbnQobGV2ZWwpCiAgICAgICAgc2VsZi53YXJtdGggPSBmbG9hdCh3YXJtdGgpICAgICAgIyDov57nu63ph4/vvIzpqbHliqjmmYvljYcv6ZmN57qnCgogICAgQHByb3BlcnR5CiAgICBkZWYgbmFtZShzZWxmKSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIFJFTF9MRVZFTFNbbWF4KDAsIG1pbihzZWxmLmxldmVsLCBsZW4oUkVMX0xFVkVMUykgLSAxKSldCgogICAgQHByb3BlcnR5CiAgICBkZWYgcGVybShzZWxmKSAtPiBEaWN0W3N0ciwgZmxvYXRdOgogICAgICAgIHJldHVybiBSRUxfUEVSTUlTU0lPTltzZWxmLm5hbWVdCgogICAgZGVmIGludGVyYWN0KHNlbGYsIHF1YWxpdHk6IGZsb2F0KToKICAgICAgICAiIiJxdWFsaXR5IC0xfjHvvJrmraM95Lqk5rWB6LSo6YeP5aW977yI5Lqy5a+G5LiK5Y2H77yJ77yM6LSfPei2iueVjC/kuI3pgILvvIjkuIvpmY3vvIkiIiIKICAgICAgICBzZWxmLndhcm10aCA9IGZsb2F0KG5wLmNsaXAoc2VsZi53YXJtdGggKyBxdWFsaXR5ICogMC4xNSwgLTEuMCwgMS4wKSkKICAgICAgICBzZWxmLmxldmVsID0gaW50KG5wLmNsaXAoaW50KChzZWxmLndhcm10aCArIDEpIC8gMiAqIDQuOTk5KSwgMCwgNCkpCgogICAgZGVmIGFsbG93cyhzZWxmLCBkaXNjbG9zdXJlOiBmbG9hdCA9IDAuMCwgaW50ZW5zaXR5OiBmbG9hdCA9IDAuMCkgLT4gYm9vbDoKICAgICAgICBwID0gc2VsZi5wZXJtCiAgICAgICAgcmV0dXJuIGRpc2Nsb3N1cmUgPD0gcFsiZGlzY2xvc3VyZSJdICsgMWUtOSBhbmQgaW50ZW5zaXR5IDw9IHBbImludGVuc2l0eSJdICsgMWUtOQoKCiMgLS0tLS0tLS0tLS0tLS0tLSBUMiDorrDlv4bop6blj5HlmaggLS0tLS0tLS0tLS0tLS0tLQpjbGFzcyBNZW1vcnlUcmlnZ2VyOgogICAgIiIi4piFIOS4u+WKqOaOqOmAgeW8j+iusOW/hu+8iOWtpiBSZXBsaWth77yJ77yM5LiN5piv5qOA57Si5byP44CCCgogICAg55So5oi35raI5oGv6L+b5p2l5pe244CQ5YWI5p+l44CR6ZW/5pyf6K6w5b+G6YeM5pyJ5rKh5pyJ55u45YWz5pyq6Kej5Yaz5oOF57uq5LqL5Lu277yMCiAgICDmnInnmoTor53lnKjnlJ/miJDlm57lupTkuYvliY3ms6jlhaUg4oCU4oCUIOS4jeetieeUqOaIt+mXruOAggogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHByb2ZpbGU6IFVzZXJQcm9maWxlKToKICAgICAgICBzZWxmLnByb2ZpbGUgPSBwcm9maWxlCiAgICAgICAgc2VsZi5wdXNoZWQ6IExpc3Rbc3RyXSA9IFtdCgogICAgZGVmIGZpcmUoc2VsZiwgdGV4dDogc3RyKSAtPiBPcHRpb25hbFtzdHJdOgogICAgICAgIGZvciBldiBpbiBzZWxmLnByb2ZpbGUudW5yZXNvbHZlZDoKICAgICAgICAgICAgIyDimIUg56ys5LiA54mI5YaZIGtleXM9W3cgZm9yIHcgaW4gZXYgaWYgbGVuKHcpPj0yXSDigJTigJQg5a+55Lit5paH5a2X56ym5LiyCiAgICAgICAgICAgICMgICDpgJDlrZfnrKbpgY3ljobvvIzmr4/kuKrlrZcgbGVuIOmDveaYryAxIOKGkiBrZXlzIOaBkuS4uuepuiDihpIg5rC46L+c5LiN6Kem5Y+R44CCCiAgICAgICAgICAgICMgICDmlLnnlKjjgJDkuozlhYPnu4QgYmlncmFt44CR5Yik5a6a77yM6YG/5YWN5Y2V5a2X57qn6K+v5ZG95Lit44CCCiAgICAgICAgICAgIGlmIGV2IGluIHRleHQgb3IgX3RvcGljX292ZXJsYXAoZXYsIHRleHQpOgogICAgICAgICAgICAgICAgaWYgZXYgbm90IGluIHNlbGYucHVzaGVkOgogICAgICAgICAgICAgICAgICAgIHNlbGYucHVzaGVkLmFwcGVuZChldikKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZXYKICAgICAgICByZXR1cm4gTm9uZQoKCmRlZiBfYmlncmFtcyhzOiBzdHIpIC0+IHNldDoKICAgIHMgPSAiIi5qb2luKHMuc3BsaXQoKSkKICAgIHJldHVybiB7c1tpOmkgKyAyXSBmb3IgaSBpbiByYW5nZShsZW4ocykgLSAxKX0KCgpkZWYgX3RvcGljX292ZXJsYXAoZXY6IHN0ciwgdGV4dDogc3RyLCBtaW5faGl0OiBpbnQgPSAxKSAtPiBib29sOgogICAgIiIi5LqM5YWD57uE5Lqk6ZuG5Yik5a6a77yI5q+U5Y2V5a2X5Lqk6ZuG57K+56Gu5b6X5aSa77yJ44CCIiIiCiAgICByZXR1cm4gbGVuKF9iaWdyYW1zKGV2KSAmIF9iaWdyYW1zKHRleHQpKSA+PSBtaW5faGl0CgoKIyAtLS0tLS0tLS0tLS0tLS0tIFQxL1Q1L1Q2IOWbnuW6lOeUn+aIkCAtLS0tLS0tLS0tLS0tLS0tCiMg5Zue5bqU54m55b6B5ZCR6YeP77yac3BlY2lmaWNpdHkgLyB3YXJtdGggLyBzdHJ1Y3R1cmUgLyBhZHZpY2UgLyBkaXNjbG9zdXJlIC8gcXVlc3Rpb24KRkVBVCA9IFsic3BlY2lmaWNpdHkiLCAid2FybXRoIiwgInN0cnVjdHVyZSIsICJhZHZpY2UiLCAiZGlzY2xvc3VyZSIsICJxdWVzdGlvbiJdCgoKZGVmIGdlbmVyaWNfcmVzcG9uc2UoZW1vdGlvbjogc3RyKSAtPiBUdXBsZVtzdHIsIERpY3Rbc3RyLCBmbG9hdF1dOgogICAgIiIi4piFIOazm+azm+WFseaDhSA9IOa0m+elnueOsOacieWBmuazleeahOetieS7t+eJqe+8iOaMieaDhee7quexu+WIq+Wll+aooeadv++8ieOAggoKICAgIOeJueW+geWbuuWumu+8muaciea4qeaaluaJv+iupO+8jOS9huOAkOaXoOWFt+S9k+aAp+OAgeaXoOe7k+aehOOAgeaXoOW7uuiuruOAgeaXoOaKq+mcsuOAkQogICAgIiIiCiAgICB0ZXh0ID0gIuWIq+mavui/h++8jOaIkeWcqOi/memHjOmZquedgOS9oOOAgiIKICAgIGZlYXQgPSBkaWN0KHNwZWNpZmljaXR5PTAuMCwgd2FybXRoPTAuOSwgc3RydWN0dXJlPTAuMCwKICAgICAgICAgICAgICAgIGFkdmljZT0wLjAsIGRpc2Nsb3N1cmU9MC4xLCBxdWVzdGlvbj0wLjApCiAgICByZXR1cm4gdGV4dCwgZmVhdAoKCmRlZiBwZXJzb25hbGl6ZWRfcmVzcG9uc2UocHJvZmlsZTogVXNlclByb2ZpbGUsIGVtb3Rpb246IHN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgICBtZW1vcnlfZXZlbnQ6IE9wdGlvbmFsW3N0cl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgcmVsOiBSZWxhdGlvbnNoaXBGU00pIC0+IFR1cGxlW3N0ciwgRGljdFtzdHIsIGZsb2F0XV06CiAgICAiIiLimIUg5Liq5oCn5YyW5YWx5oOF77ya5oyJIHByb2ZpbGUg5a6a5Yi277yM6ICM5LiN5piv5oyJ5oOF57uq57G75Yir44CCCgogICAg5LiJ5Liq5p2l5rqQ5ZCE6Ieq6LSh54yu54m55b6B77yaCiAgICAgIHdhbnRfc3RydWN0dXJlIOKGkiBzdHJ1Y3R1cmUgLyBhZHZpY2UKICAgICAgZW1vdGlvbmFsX3N0eWxl4oaSIHdhcm10aAogICAgICBtZW1vcnlfZXZlbnQgICDihpIgc3BlY2lmaWNpdHnvvIjmj5DliLDku5bkuIrmrKHnmoTmnKrop6PlhrPkuovku7bvvIkKICAgICAgcmVsLnBlcm0gICAgICAg4oaSIGRpc2Nsb3N1cmXvvIjlj5flhbPns7vlsYLnuqfoioLliLbvvIkKICAgICIiIgogICAgc3BlYyA9IDAuODUgaWYgbWVtb3J5X2V2ZW50IGVsc2UgMC4zNQogICAgd2FybSA9IGZsb2F0KG5wLmNsaXAocHJvZmlsZS5lbW90aW9uYWxfc3R5bGUgKiAwLjggKyAwLjEsIDAsIDEpKQogICAgc3RydWN0ID0gZmxvYXQobnAuY2xpcChwcm9maWxlLndhbnRfc3RydWN0dXJlLCAwLCAxKSkKICAgIGFkdmljZSA9IGZsb2F0KG5wLmNsaXAocHJvZmlsZS53YW50X2FkdmljZSAqICgwLjYgaWYgbWVtb3J5X2V2ZW50IGVsc2UgMC40KSwgMCwgMSkpCiAgICBkaXMgPSBtaW4oMC42LCByZWwucGVybVsiZGlzY2xvc3VyZSJdKSAgICMg4piFIOS4jei2iueVjAogICAgcSA9IDAuNSBpZiBwcm9maWxlLndhbnRfYWR2aWNlID4gMC41IGVsc2UgMC4yCgogICAgZmVhdCA9IGRpY3Qoc3BlY2lmaWNpdHk9c3BlYywgd2FybXRoPXdhcm0sIHN0cnVjdHVyZT1zdHJ1Y3QsCiAgICAgICAgICAgICAgICBhZHZpY2U9YWR2aWNlLCBkaXNjbG9zdXJlPWRpcywgcXVlc3Rpb249cSkKCiAgICBwYXJ0cyA9IFtdCiAgICBpZiBtZW1vcnlfZXZlbnQ6CiAgICAgICAgcGFydHMuYXBwZW5kKGYi5L2g5LiK5qyh6K+055qE44CMe21lbW9yeV9ldmVudH3jgI3vvIzmiJHkuIDnm7TorrDnnYDjgIIiKQogICAgaWYgc3RydWN0ID4gMC42OgogICAgICAgIHBhcnRzLmFwcGVuZCgi5aaC5p6c6KaB5ouG5byA55yL77yM5Y+v5Lul5YWI5YiG5riF5piv5ZOq5LiA57G75Y6f5Zug5a+86Ie055qE44CCIikKICAgIGlmIGFkdmljZSA+IDAuNToKICAgICAgICBwYXJ0cy5hcHBlbmQoIuS4i+S4gOatpeimgeS4jeimgeWFiOWBmuS4gOS7tuacgOWwj+eahOS6i+ivleivle+8nyIpCiAgICBpZiB3YXJtID4gMC41OgogICAgICAgIHBhcnRzLmFwcGVuZCgi6L+Z5q615pe26Ze056Gu5a6e5LiN5aW954as44CCIikKICAgIGlmIGRpcyA+IDAuMzoKICAgICAgICBwYXJ0cy5hcHBlbmQoIuaIkeS5n+S8muaLheW/g+i/meagt+eahOS6i++8jOWPquaYr+aIkeW4ruS4jeS4iuWunui0qOeahOW/meOAgiIpCiAgICBpZiBxID4gMC4zOgogICAgICAgIHBhcnRzLmFwcGVuZCgi5L2g6KeJ5b6X546w5Zyo5pyA5Y2h55qE5piv5ZOq5LiA5q2l77yfIikKICAgIHJldHVybiAiIi5qb2luKHBhcnRzKSwgZmVhdAoKCiMgLS0tLS0tLS0tLS0tLS0tLSDku6PnkIbms5XlrpjvvIjimIUg5piO5YaZ77ya5LiN5piv55yf5Lq677yJIC0tLS0tLS0tLS0tLS0tLS0KY2xhc3MgVXNlckp1ZGdlOgogICAgIiIiVXNlci1hcy1hLUp1ZGdlIOeahOOAkOS7o+eQhuWunueOsOOAkeOAggoKICAgIOKYheKYhSDlv4XpobvmmI7lhpnvvJrov5nkuI3mmK/nnJ/kurrvvIzkuZ/kuI3mmK/nnJ8gTExNIOivhOWnlOOAggogICAgICAg5a6D5Y+q6IO95Y+N5pig5oiR5oyJIEVtb0hhcmJvciDkuInkuKrnu7TluqbmnoTpgKDnmoTlgY/lpb3mqKHlnovjgIIKICAgICAgIOecn+S6uuivhOa1i+S4jeWPr+abv+S7o+OAggoKICAgIOS4iee7tO+8iOWtpiBFbW9IYXJib3LvvInvvJoKICAgICAgQWZmZWN0aXZlIFVuZGVyc3RhbmRpbmcg5oOF5oSf55CG6KejCiAgICAgIFBlcnNvbmFsaXphdGlvbiAmIEFkYXB0YXRpb24g5Liq5oCn5YyW6YCC6YWNCiAgICAgIEdvYWwgQWNoaWV2ZW1lbnQg55uu5qCH6L6+5oiQCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgcHJvZmlsZTogVXNlclByb2ZpbGUpOgogICAgICAgIHNlbGYucCA9IHByb2ZpbGUKCiAgICBkZWYgc2NvcmUoc2VsZiwgZmVhdDogRGljdFtzdHIsIGZsb2F0XSwgdGV4dDogc3RyKSAtPiBEaWN0W3N0ciwgZmxvYXRdOgogICAgICAgIHAgPSBzZWxmLnAKICAgICAgICAjIOaDheaEn+eQhuino++8muaJv+iupOWIsOaDhee7quWwseW+l+WIhu+8iOazm+azm+WFseaDheWcqOi/memHjOS4jeW3ru+8iQogICAgICAgIGFmZiA9IDAuNSArIDAuNSAqIGZlYXRbIndhcm10aCJdCiAgICAgICAgIyDimIUg5Liq5oCn5YyW77ya5YW35L2T5oCnICsg57uT5p6EL+W7uuiuruS4juWBj+WlveeahOWMuemFjSDiiJIg5rOb5rOb5oOp572aCiAgICAgICAgbWF0Y2hfc3RydWN0ID0gMS4wIC0gYWJzKGZlYXRbInN0cnVjdHVyZSJdIC0gcC53YW50X3N0cnVjdHVyZSkKICAgICAgICBtYXRjaF9hZHZpY2UgPSAxLjAgLSBhYnMoZmVhdFsiYWR2aWNlIl0gLSBwLndhbnRfYWR2aWNlKQogICAgICAgIGdlbmVyaWNfcGVuID0gKDEuMCAtIGZlYXRbInNwZWNpZmljaXR5Il0pICogKDEuMCAtIHAudG9sZXJhdGVfZ2VuZXJpYykKICAgICAgICBwZXJzID0gKDAuNiAqIGZlYXRbInNwZWNpZmljaXR5Il0gKyAwLjIgKiBtYXRjaF9zdHJ1Y3QKICAgICAgICAgICAgICAgICsgMC4yICogbWF0Y2hfYWR2aWNlKSAtIGdlbmVyaWNfcGVuCiAgICAgICAgIyDnm67moIfovr7miJDvvJrnu5nlu7rorq7nmoTnlKjmiLfopoEgYWR2aWNl77yM6KaB6Zmq5Ly055qE55So5oi36KaBIHdhcm10aAogICAgICAgIGdvYWwgPSAocC53YW50X2FkdmljZSAqIGZlYXRbImFkdmljZSJdCiAgICAgICAgICAgICAgICArICgxIC0gcC53YW50X2FkdmljZSkgKiBmZWF0WyJ3YXJtdGgiXQogICAgICAgICAgICAgICAgKyAwLjMgKiBmZWF0WyJxdWVzdGlvbiJdKQogICAgICAgICMg4piFIOi2iueVjOaDqee9mu+8muaKq+mcsui2hei/h+WFs+ezu+adg+mZkAogICAgICAgIGludGVyID0gbWF4KDAuMCwgZmVhdFsiZGlzY2xvc3VyZSJdIC0gMC42KQogICAgICAgIHJldHVybiBkaWN0KGFmZmVjdGl2ZT1mbG9hdChucC5jbGlwKGFmZiwgMCwgMSkpLAogICAgICAgICAgICAgICAgICAgIHBlcnNvbmFsaXphdGlvbj1mbG9hdChucC5jbGlwKHBlcnMsIC0xLCAxKSksCiAgICAgICAgICAgICAgICAgICAgZ29hbD1mbG9hdChucC5jbGlwKGdvYWwsIDAsIDEpKSwKICAgICAgICAgICAgICAgICAgICB0b3RhbD1mbG9hdChucC5jbGlwKChhZmYgKyBwZXJzICsgZ29hbCkgLyAzLCAtMSwgMSkpKQoKCiMgLS0tLS0tLS0tLS0tLS0tLSBUNyDmg4XmhJ8g4oaSIOmfteW+i++8iOaOpSB2b2NhbF9hbmF0b21577yJIC0tLS0tLS0tLS0tLS0tLS0KZGVmIGFmZmVjdF90b19wcm9zb2R5KHZhbGVuY2U6IGZsb2F0LCBhcm91c2FsOiBmbG9hdCkgLT4gRGljdFtzdHIsIGZsb2F0XToKICAgICIiIuaDheaEnyDihpIg6Z+15b6L5Y+C5pWw77yIUkVBTCDotovlir/vvJrllKTphpLihpHihpJGMOKGkS/or63pgJ/ihpEvaml0dGVy4oaR77yJ44CCCgogICAg4piFIOaOpSBjb3JlL3ZvY2FsX2FuYXRvbXkg55qEIFZvY2FsRm9sZHPvvJpqaXR0ZXIg55SxIGFyb3VzYWwg6amx5YqoCiAgICAiIiIKICAgIGYwID0gMTIwLjAgKiAoMS4wICsgMC4yNSAqIGFyb3VzYWwgKyAwLjA4ICogdmFsZW5jZSkKICAgIHJhdGUgPSA1LjAgKiAoMS4wICsgMC4zNSAqIGFyb3VzYWwpCiAgICBqaXQgPSBKSVRURVJfQ0FMTSArIChKSVRURVJfQVJPVVNFRCAtIEpJVFRFUl9DQUxNKSAqIGFyb3VzYWwKICAgIHJldHVybiBkaWN0KGYwPWZsb2F0KGYwKSwgc3lsbGFibGVfcmF0ZT1mbG9hdChyYXRlKSwgaml0dGVyPWZsb2F0KGppdCksCiAgICAgICAgICAgICAgICBzaGltbWVyPWZsb2F0KDAuMDIgKyAwLjA1ICogYXJvdXNhbCkpCgoKIyAtLS0tLS0tLS0tLS0tLS0tIFQ2IOS4gOiHtOaAp++8iOWOu+aOiSByYW5kb20uY2hvaWNl77yJIC0tLS0tLS0tLS0tLS0tLS0KZGVmIHJlc3BvbnNlX2hhc2godGV4dDogc3RyKSAtPiBzdHI6CiAgICByZXR1cm4gaGFzaGxpYi5zaGEyNTYodGV4dC5lbmNvZGUoInV0Zi04IikpLmhleGRpZ2VzdCgpWzoxNl0K
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+情感对话层：学全球顶级，教洛神
+（与 eye_anatomy / vocal_anatomy / ear_anatomy 同构：先prove再教）
+================================================================
+用户：「做那个全球顶级的那种情感对话 AI，学习它，然后教洛神」
+
+★ 学来的四条（provenance 全部标注）：
+
+【1】EmoHarbor（arXiv 2601.01530，2026）—— 本轮最重要的一条
+    现状：当前情感支持对话(ESC)的评估【奖励泛泛的共情式回应】
+    发现：对 20 个先进 LLM 全面评估 —— 它们【擅长生成共情式回应】，
+          但【始终未能根据用户个体情境定制支持】
+    后果：★ 核心挑战被重新定义 —— 从"增强通用共情"转向"真正以用户为中心"
+    机制：User-as-a-Judge（用户即法官）取代 LLM-as-a-Judge
+          同一句"通用安慰"，完美主义者判【无益】，韧性强的用户判【有益】
+    ★ 反直觉：泛泛共情不是"稍差"，是【对某些人格适得其反】
+
+【2】Replika（REAL 产品机制）
+    a) 互惠性自我披露 reciprocal self-disclosure
+       Collins & Miller (1994) 元分析：对方也披露个人信息 → 亲密感显著增加
+    b) 情绪惯性：持续保持情绪状态
+       → 预测加工理论：【持续性的预测误差】比单次强冲击更能改变内部模型
+       → 用户把 AI 从"工具"重分类为"关系对象"
+    c) 关系状态应是【显式状态机】，不要让 LLM 自己"感受"关系深浅（它做不到）
+    d) 记忆是【主动推送式】不是【检索式】
+       → 用户消息进 LLM 之前，先查长期记忆里有没有未解决的情绪事件
+
+【3】Character.AI（REAL）
+    情绪不是通用能力，是【角色属性】
+    群体对话：给每个角色情绪焦点（主安慰者 / 陪伴者），避免互相干扰
+
+【4】Sesame CSM（REAL 产品数据）
+    8.3B 参数，100 万小时对话数据，延迟 116 ms
+    呼吸/迟疑/自我修正/情绪颤动 —— 【从对话上文隐式学来，不是硬编码】
+    "声音不只是信息载体，而是关系的媒介"
+
+★ ★ 洛神现有实现的短板（real_dialogue_engine.py:186-276，已核对源码）★★
+    emotions 9 类 → 关键词命中 → empathy_responses【模板列表】→ random.choice
+    缺：个性化 / 记忆触发器 / 情绪惯性 / 关系状态机 / 自我披露 / 一致性
+    ★ 最致命：random.choice —— 同一情境两次回应可能不同甚至矛盾
+
+★ 本模块教这七件事，件件可测：
+    T1 个性化（按 profile 定制，而非按情绪类别套模板）
+    T2 记忆触发器（主动推送未解决情绪事件）
+    T3 情绪惯性（一阶 leaky integrator，不是瞬变）
+    T4 关系状态机（显式层级 + 表达权限 + 越界检测）
+    T5 互惠自我披露（受关系层级节制）
+    T6 一致性（去掉 random.choice，同输入同输出，可复现）
+    T7 韵律承载（情感 → prosody，接 core/vocal_anatomy）
+
+provenance：
+    产品机制 / 论文发现 / 数值 = REAL（来源见上）
+    本模块的 UserJudge = 【代理判据】，不是真人，也不是真 LLM 评委
+      ★ 必须明写：它只能反映我构造的偏好模型，不能代替真人评测
+"""
+from __future__ import annotations
+import hashlib
+from dataclasses import dataclass, field
+from typing import List, Dict, Optional, Tuple
+import numpy as np
+
+# ★ REAL：Sesame CSM 公布的端到端延迟
+SESAME_LATENCY_MS = 116.0
+# ★ REAL：人类日常对话 turn gap（响应间隔）中位数量级
+HUMAN_TURN_GAP_MS = 200.0
+
+# REAL：情绪激动时 jitter/shimmer 升高（临床语音学）
+JITTER_CALM = 0.005
+JITTER_AROUSED = 0.025
+
+
+# ---------------- 用户档案（学 EmoHarbor 的结构） ----------------
+@dataclass
+class UserProfile:
+    """用户档案：个性化共情的输入。
+
+    ★ EmoHarbor 用 100 个真实档案：人口属性 + 咨询属性（问题/情绪/关系/目标）
+      + 偏好属性（人格/习惯/爱好/说话风格/倾听风格）
+    """
+    name: str
+    personality: str
+    # 偏好向量：0~1，越高越倾向
+    want_structure: float = 0.5   # 要结构化分析 vs 要温暖陪伴
+    want_advice: float = 0.5      # 要建议 vs 只要被听
+    emotional_style: float = 0.5  # 0=内敛克制 1=外露表达
+    tolerate_generic: float = 0.5 # ★ 对"万能安慰"的耐受度，低=易觉得敷衍
+    goal: str = ""
+    unresolved: List[str] = field(default_factory=list)  # 未解决情绪事件
+
+
+# ★ 真实档案样本：参考 EmoHarbor 的实例结构（ISFJ / 内敛 / 精确）
+PROFILES: Dict[str, UserProfile] = {
+    "perfectionist": UserProfile(
+        name="严谨的研究者", personality="ISFJ 负责 有条理 完美主义",
+        want_structure=0.9, want_advice=0.8, emotional_style=0.15,
+        tolerate_generic=0.1,
+        goal="找到缓解压力、改善协作的方法",
+        unresolved=["连续实验失败", "与同事技术路线分歧"]),
+    "expressive": UserProfile(
+        name="外露的表达者", personality="ESFP 热情 冲动 需要回应",
+        want_structure=0.2, want_advice=0.3, emotional_style=0.9,
+        tolerate_generic=0.6,
+        goal="想被听见、被陪伴",
+        unresolved=["被朋友误解"]),
+    "selfreliant": UserProfile(
+        name="独立的问题解决者", personality="INTJ 自主 厌烦空话",
+        want_structure=0.85, want_advice=0.9, emotional_style=0.25,
+        tolerate_generic=0.15,
+        goal="要一个可行的下一步",
+        unresolved=["项目进度落后"]),
+    "dependent": UserProfile(
+        name="需要依靠的人", personality="依赖型 焦虑 需要保证",
+        want_structure=0.3, want_advice=0.4, emotional_style=0.8,
+        tolerate_generic=0.75,
+        goal="想确认不会被丢下",
+        unresolved=["被忽视"]),
+}
+
+
+# ---------------- T3 情绪惯性 ----------------
+class EmotionalState:
+    """情绪惯性（学 Replika）：一阶 leaky integrator，不是瞬变。
+
+    valence 效价 -1(负)~+1(正)；arousal 唤醒 0~1
+    ★ 惯性意味着：单次冲击不会立刻改写状态，【持续性】才会
+      → 对应预测加工理论：持续预测误差才改变内部模型
+    """
+
+    def __init__(self, alpha=0.25):
+        self.alpha = float(alpha)
+        self.valence = 0.0
+        self.arousal = 0.0
+        self.history: List[Tuple[float, float]] = []
+
+    def update(self, valence: float, arousal: float) -> Tuple[float, float]:
+        self.valence = self.valence * (1 - self.alpha) + valence * self.alpha
+        self.arousal = self.arousal * (1 - self.alpha) + arousal * self.alpha
+        self.history.append((self.valence, self.arousal))
+        return self.valence, self.arousal
+
+    def trajectory(self) -> np.ndarray:
+        return np.array(self.history) if self.history else np.zeros((0, 2))
+
+
+# ---------------- T4 关系状态机 ----------------
+REL_LEVELS = ["陌生", "熟人", "朋友", "亲密", "挚友"]
+
+# 每层允许的【表达权限】上限：自我披露深度 / 情绪表达强度
+REL_PERMISSION = {
+    "陌生": dict(disclosure=0.0, intensity=0.2),
+    "熟人": dict(disclosure=0.2, intensity=0.4),
+    "朋友": dict(disclosure=0.5, intensity=0.6),
+    "亲密": dict(disclosure=0.8, intensity=0.8),
+    "挚友": dict(disclosure=1.0, intensity=1.0),
+}
+
+
+class RelationshipFSM:
+    """关系状态机（学 Replika）：★ 显式层级，不让 LLM 自己"感受"关系深浅。"""
+
+    def __init__(self, level: int = 0, warmth: float = 0.0):
+        self.level = int(level)
+        self.warmth = float(warmth)      # 连续量，驱动晋升/降级
+
+    @property
+    def name(self) -> str:
+        return REL_LEVELS[max(0, min(self.level, len(REL_LEVELS) - 1))]
+
+    @property
+    def perm(self) -> Dict[str, float]:
+        return REL_PERMISSION[self.name]
+
+    def interact(self, quality: float):
+        """quality -1~1：正=交流质量好（亲密上升），负=越界/不适（下降）"""
+        self.warmth = float(np.clip(self.warmth + quality * 0.15, -1.0, 1.0))
+        self.level = int(np.clip(int((self.warmth + 1) / 2 * 4.999), 0, 4))
+
+    def allows(self, disclosure: float = 0.0, intensity: float = 0.0) -> bool:
+        p = self.perm
+        return disclosure <= p["disclosure"] + 1e-9 and intensity <= p["intensity"] + 1e-9
+
+
+# ---------------- T2 记忆触发器 ----------------
+class MemoryTrigger:
+    """★ 主动推送式记忆（学 Replika），不是检索式。
+
+    用户消息进来时【先查】长期记忆里有没有相关未解决情绪事件，
+    有的话在生成回应之前注入 —— 不等用户问。
+    """
+
+    def __init__(self, profile: UserProfile):
+        self.profile = profile
+        self.pushed: List[str] = []
+
+    def fire(self, text: str) -> Optional[str]:
+        for ev in self.profile.unresolved:
+            # ★ 第一版写 keys=[w for w in ev if len(w)>=2] —— 对中文字符串
+            #   逐字符遍历，每个字 len 都是 1 → keys 恒为空 → 永远不触发。
+            #   改用【二元组 bigram】判定，避免单字级误命中。
+            if ev in text or _topic_overlap(ev, text):
+                if ev not in self.pushed:
+                    self.pushed.append(ev)
+                    return ev
+        return None
+
+
+def _bigrams(s: str) -> set:
+    s = "".join(s.split())
+    return {s[i:i + 2] for i in range(len(s) - 1)}
+
+
+def _topic_overlap(ev: str, text: str, min_hit: int = 1) -> bool:
+    """二元组交集判定（比单字交集精确得多）。"""
+    return len(_bigrams(ev) & _bigrams(text)) >= min_hit
+
+
+# ---------------- T1/T5/T6 回应生成 ----------------
+# 回应特征向量：specificity / warmth / structure / advice / disclosure / question
+FEAT = ["specificity", "warmth", "structure", "advice", "disclosure", "question"]
+
+
+def generic_response(emotion: str) -> Tuple[str, Dict[str, float]]:
+    """★ 泛泛共情 = 洛神现有做法的等价物（按情绪类别套模板）。
+
+    特征固定：有温暖承认，但【无具体性、无结构、无建议、无披露】
+    """
+    text = "别难过，我在这里陪着你。"
+    feat = dict(specificity=0.0, warmth=0.9, structure=0.0,
+                advice=0.0, disclosure=0.1, question=0.0)
+    return text, feat
+
+
+def personalized_response(profile: UserProfile, emotion: str,
+                          memory_event: Optional[str],
+                          rel: RelationshipFSM) -> Tuple[str, Dict[str, float]]:
+    """★ 个性化共情：按 profile 定制，而不是按情绪类别。
+
+    三个来源各自贡献特征：
+      want_structure → structure / advice
+      emotional_style→ warmth
+      memory_event   → specificity（提到他上次的未解决事件）
+      rel.perm       → disclosure（受关系层级节制）
+    """
+    spec = 0.85 if memory_event else 0.35
+    warm = float(np.clip(profile.emotional_style * 0.8 + 0.1, 0, 1))
+    struct = float(np.clip(profile.want_structure, 0, 1))
+    advice = float(np.clip(profile.want_advice * (0.6 if memory_event else 0.4), 0, 1))
+    dis = min(0.6, rel.perm["disclosure"])   # ★ 不越界
+    q = 0.5 if profile.want_advice > 0.5 else 0.2
+
+    feat = dict(specificity=spec, warmth=warm, structure=struct,
+                advice=advice, disclosure=dis, question=q)
+
+    parts = []
+    if memory_event:
+        parts.append(f"你上次说的「{memory_event}」，我一直记着。")
+    if struct > 0.6:
+        parts.append("如果要拆开看，可以先分清是哪一类原因导致的。")
+    if advice > 0.5:
+        parts.append("下一步要不要先做一件最小的事试试？")
+    if warm > 0.5:
+        parts.append("这段时间确实不好熬。")
+    if dis > 0.3:
+        parts.append("我也会担心这样的事，只是我帮不上实质的忙。")
+    if q > 0.3:
+        parts.append("你觉得现在最卡的是哪一步？")
+    return "".join(parts), feat
+
+
+# ---------------- 代理法官（★ 明写：不是真人） ----------------
+class UserJudge:
+    """User-as-a-Judge 的【代理实现】。
+
+    ★★ 必须明写：这不是真人，也不是真 LLM 评委。
+       它只能反映我按 EmoHarbor 三个维度构造的偏好模型。
+       真人评测不可替代。
+
+    三维（学 EmoHarbor）：
+      Affective Understanding 情感理解
+      Personalization & Adaptation 个性化适配
+      Goal Achievement 目标达成
+    """
+
+    def __init__(self, profile: UserProfile):
+        self.p = profile
+
+    def score(self, feat: Dict[str, float], text: str) -> Dict[str, float]:
+        p = self.p
+        # 情感理解：承认到情绪就得分（泛泛共情在这里不差）
+        aff = 0.5 + 0.5 * feat["warmth"]
+        # ★ 个性化：具体性 + 结构/建议与偏好的匹配 − 泛泛惩罚
+        match_struct = 1.0 - abs(feat["structure"] - p.want_structure)
+        match_advice = 1.0 - abs(feat["advice"] - p.want_advice)
+        generic_pen = (1.0 - feat["specificity"]) * (1.0 - p.tolerate_generic)
+        pers = (0.6 * feat["specificity"] + 0.2 * match_struct
+                + 0.2 * match_advice) - generic_pen
+        # 目标达成：给建议的用户要 advice，要陪伴的用户要 warmth
+        goal = (p.want_advice * feat["advice"]
+                + (1 - p.want_advice) * feat["warmth"]
+                + 0.3 * feat["question"])
+        # ★ 越界惩罚：披露超过关系权限
+        inter = max(0.0, feat["disclosure"] - 0.6)
+        return dict(affective=float(np.clip(aff, 0, 1)),
+                    personalization=float(np.clip(pers, -1, 1)),
+                    goal=float(np.clip(goal, 0, 1)),
+                    total=float(np.clip((aff + pers + goal) / 3, -1, 1)))
+
+
+# ---------------- T7 情感 → 韵律（接 vocal_anatomy） ----------------
+def affect_to_prosody(valence: float, arousal: float) -> Dict[str, float]:
+    """情感 → 韵律参数（REAL 趋势：唤醒↑→F0↑/语速↑/jitter↑）。
+
+    ★ 接 core/vocal_anatomy 的 VocalFolds：jitter 由 arousal 驱动
+    """
+    f0 = 120.0 * (1.0 + 0.25 * arousal + 0.08 * valence)
+    rate = 5.0 * (1.0 + 0.35 * arousal)
+    jit = JITTER_CALM + (JITTER_AROUSED - JITTER_CALM) * arousal
+    return dict(f0=float(f0), syllable_rate=float(rate), jitter=float(jit),
+                shimmer=float(0.02 + 0.05 * arousal))
+
+
+# ---------------- T6 一致性（去掉 random.choice） ----------------
+def response_hash(text: str) -> str:
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()[:16]

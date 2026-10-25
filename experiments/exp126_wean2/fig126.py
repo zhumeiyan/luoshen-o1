@@ -1,1 +1,63 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG51bXB5IGFzIG5wLCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYiBpbXBvcnQgZm9udF9tYW5hZ2VyCmZvciBwIGluIFsiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIsIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS16ZW5oZWkudHRjIl06CiAgICBpbXBvcnQgb3MKICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOgogICAgICAgIGZvbnRfbWFuYWdlci5mb250TWFuYWdlci5hZGRmb250KHApOyBwbHQucmNQYXJhbXNbImZvbnQuZmFtaWx5Il09IldlblF1YW5ZaSBNaWNybyBIZWkiOyBicmVhawpwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdPUZhbHNlCmQ9anNvbi5sb2FkKG9wZW4oInJlc3VsdDEyNmQuanNvbiIpKTsgYz1qc29uLmxvYWQob3BlbigicmVzdWx0MTI2Yy5qc29uIikpOyBlPWpzb24ubG9hZChvcGVuKCJyZXN1bHQxMjZlLmpzb24iKSkKUj1kWyJyZXMiXTsgTEFCPXsnbm9fcHJhY3RpY2UnOiflj6rovpPmtrJcbuS4jee7gycsJ3ByYWN0aWNlX29wZW4nOifnu4PCt+ebuOe7p1xu5LiN55u45YCaJywncHJhY3RpY2VfY2xvc2VkJzon57uDwrfnm7jlgJonLAogJ3Rvb2xfb25seSc6J+e6r+Wklue9rlxu5bel5YW3JywndG9vbF9wbHVzX3NlbGYnOiflt6XlhbcrXG7oh6rop4Xpo58nLCd2YXJpYXRpb24nOifpmo/mnLpcbuWPmOW8gid9Cm9yZGVyPVsnbm9fcHJhY3RpY2UnLCdwcmFjdGljZV9vcGVuJywncHJhY3RpY2VfY2xvc2VkJywndG9vbF9vbmx5JywndG9vbF9wbHVzX3NlbGYnLCd2YXJpYXRpb24nXQpmaWcsYXg9cGx0LnN1YnBsb3RzKDIsMyxmaWdzaXplPSgxNiw5KSkKYT1heFswLDBdCmZnPVtSW2tdWydmZyddIGZvciBrIGluIG9yZGVyXTsgYWw9W1Jba11bJ24nXSBmb3IgayBpbiBvcmRlcl0KeD1ucC5hcmFuZ2UoNikKYS5iYXIoeC0wLjIsZmcsMC40LGNvbG9yPScjNEM3MkIwJyxsYWJlbD0n5a2m5Yiw55qEIGZnJykKYS5zZXRfeHRpY2tzKHgpOyBhLnNldF94dGlja2xhYmVscyhbTEFCW2tdIGZvciBrIGluIG9yZGVyXSxmb250c2l6ZT05KQphMj1hLnR3aW54KCk7IGEyLmJhcih4KzAuMixbbi8xNiBmb3IgbiBpbiBhbF0sMC40LGNvbG9yPScjQzQ0RTUyJyxsYWJlbD0n5pKk6Zmk5ZCO5a2Y5rS7546HJykKYS5heGhsaW5lKDAuMDA4LGxzPSctLScsYz0naycsbHc9MSk7IGEudGV4dCgwLjA1LDAuMDEwLCfmrbvkuqHpmIjlgLwgMC4wMDgnLGZvbnRzaXplPTgpCmEuc2V0X3RpdGxlKCfikaAg5YWt5pa55qGI77ya5a2m5Yiw55qE6KeF6aOf6IO95Yqb5LiO5pKk6Zmk5ZCO5a2Y5rS7Jyxmb250c2l6ZT0xMSkKYS5zZXRfeWxhYmVsKCdmZycpOyBhMi5zZXRfeWxhYmVsKCflrZjmtLvnjocnKTsgYTIuc2V0X3lsaW0oMCwxLjA1KQoKYT1heFswLDFdCnRrPVtSW2tdWyd0aWNrcyddIGZvciBrIGluIG9yZGVyXQphLmJhcih4LHRrLDAuNSxjb2xvcj1bJyM5OTk5OTknIGlmIFJba11bJ24nXT09MCBlbHNlICcjNTVBODY4JyBmb3IgayBpbiBvcmRlcl0pCmEuc2V0X3h0aWNrcyh4KTsgYS5zZXRfeHRpY2tsYWJlbHMoW0xBQltrXSBmb3IgayBpbiBvcmRlcl0sZm9udHNpemU9OSkKYS5zZXRfdGl0bGUoJ+KRoSDmkqTpmaTlkI7lubPlnYfmlK/mkpHmi43mlbDvvIjkuIrpmZAxNTAw77yJJyxmb250c2l6ZT0xMSk7IGEuc2V0X3lsYWJlbCgn5ouNJykKCmE9YXhbMCwyXQpCPVtyWydidXJuJ10gZm9yIHIgaW4gY107IG89W3JbJ29wZW4nXVsnZmcnXSBmb3IgciBpbiBjXTsgY2w9W3JbJ2Nsb3NlZCddWydmZyddIGZvciByIGluIGNdCm9hPVtyWydvcGVuJ11bJ24nXSBmb3IgciBpbiBjXTsgY2E9W3JbJ2Nsb3NlZCddWyduJ10gZm9yIHIgaW4gY10KYS5wbG90KEIsbywnby0nLGM9JyNDNDRFNTInLGxhYmVsPSfnm7jnu6fkuI3nm7jlgJonKQphLnBsb3QoQixjbCwncy0nLGM9JyM0QzcyQjAnLGxhYmVsPSfnm7jlgJonKQphLmF4aGxpbmUoMC4wMDgsbHM9Jy0tJyxjPSdrJyxsdz0xKQphLnNldF94bGFiZWwoJ2J1cm4taW4g5ouN5pWwJyk7IGEuc2V0X3lsYWJlbCgn5a2m5Yiw55qEIGZnJykKYS5zZXRfdGl0bGUoJ+KRoiDnnqzmgIHlgY/lt67vvJpidXJuPTAg5pe2IuS4jeebuOWAmiLkuZ/lg4/lrabkvJrkuoYnLGZvbnRzaXplPTExKTsgYS5sZWdlbmQoZm9udHNpemU9OCkKCmE9YXhbMSwwXQptPVsncmVmbGVjdCcsJ2ZyZWUnLCdoYXJtZnVsJ107IGxhYj1bJ+WPquiDveWPmOWlvVxuKOS4i+mZkOWPjeWwhCknLCflj6/lpb3lj6/lnY8nLCflpKfmpoLnjofmnInlrrMnXQp2PVtlW2tdWyduJ10gZm9yIGsgaW4gbV0KYS5iYXIocmFuZ2UoMyksdiwwLjUsY29sb3I9WycjREQ4NDUyJywnIzkzNzg2MCcsJyNDNDRFNTInXSkKYS5zZXRfeHRpY2tzKHJhbmdlKDMpKTsgYS5zZXRfeHRpY2tsYWJlbHMobGFiLGZvbnRzaXplPTkpCmEuc2V0X3RpdGxlKCfikaMg5Y+Y5byCKCMxOSnnmoTkuInnp43lu7rmqKHvvJrmkqTpmaTlkI7lrZjmtLvmlbAvMTYnLGZvbnRzaXplPTExKTsgYS5zZXRfeWxpbSgwLDE2KQpmb3IgaSx2diBpbiBlbnVtZXJhdGUodik6IGEudGV4dChpLHZ2KzAuNCxzdHIodnYpLGhhPSdjZW50ZXInLGZvbnRzaXplPTEwKQoKYT1heFsxLDFdCmtzPWxpc3QoZFsnY29tcCddLmtleXMoKSk7IGRsPVtkWydjb21wJ11ba11bJ2RlbHRhJ10gZm9yIGsgaW4ga3NdCmxvPVtkWydjb21wJ11ba11bJ2xvJ10gZm9yIGsgaW4ga3NdOyBoaT1bZFsnY29tcCddW2tdWydoaSddIGZvciBrIGluIGtzXQpuYW1lcz1bJ+ebuOWAmi3nm7jnu6cnLCfnu4Mt5LiN57uDJywn5bel5YW3K+iHquinhS3nuq/lt6XlhbcnLCfoh6rop4UtKOW3peWFtyvoh6rop4UpJ10KeT1ucC5hcmFuZ2UoNCkKYS5lcnJvcmJhcihkbCx5LHhlcnI9W25wLmFycmF5KGRsKS1ucC5hcnJheShsbyksbnAuYXJyYXkoaGkpLW5wLmFycmF5KGRsKV0sZm10PSdvJyxjPScjNEM3MkIwJyxjYXBzaXplPTQpCmEuYXh2bGluZSgwLGxzPSctLScsYz0naycsbHc9MSk7IGEuc2V0X3l0aWNrcyh5KTsgYS5zZXRfeXRpY2tsYWJlbHMobmFtZXMsZm9udHNpemU9OSkKYS5zZXRfdGl0bGUoJ+KRpCDphY3lr7kgzpRmZyDkuI4gOTUlQ0nvvIjot6gwPeS4jeaYvuiRl++8iScsZm9udHNpemU9MTEpOyBhLnNldF94bGFiZWwoJ86UZmcnKQoKYT1heFsxLDJdCmFjPVtSW2tdWydhY3QnXSBmb3IgayBpbiBvcmRlcl0KYS5iYXIoeCxhYywwLjUsY29sb3I9JyM4MTcyQjMnKTsgYS5zZXRfeHRpY2tzKHgpOyBhLnNldF94dGlja2xhYmVscyhbTEFCW2tdIGZvciBrIGluIG9yZGVyXSxmb250c2l6ZT05KQphLnNldF90aXRsZSgn4pGlIOiuree7g+acn+iHqui6q+inhemjn+aKleWFpe+8iOW3peWFt+e7hOacgOS9ju+8iScsZm9udHNpemU9MTEpOyBhLnNldF95bGFiZWwoJ+W5s+Wdh+aKleWFpScpCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2ZpZy8xMjZfd2Vhbl9wcm90b2NvbC5wbmciLGRwaT0xMTApCnByaW50KCJzYXZlZCBmaWciKQo=
+# -*- coding: utf-8 -*-
+import json, numpy as np, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+for p in ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc","/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc"]:
+    import os
+    if os.path.exists(p):
+        font_manager.fontManager.addfont(p); plt.rcParams["font.family"]="WenQuanYi Micro Hei"; break
+plt.rcParams["axes.unicode_minus"]=False
+d=json.load(open("result126d.json")); c=json.load(open("result126c.json")); e=json.load(open("result126e.json"))
+R=d["res"]; LAB={'no_practice':'只输液\n不练','practice_open':'练·相继\n不相倚','practice_closed':'练·相倚',
+ 'tool_only':'纯外置\n工具','tool_plus_self':'工具+\n自觅食','variation':'随机\n变异'}
+order=['no_practice','practice_open','practice_closed','tool_only','tool_plus_self','variation']
+fig,ax=plt.subplots(2,3,figsize=(16,9))
+a=ax[0,0]
+fg=[R[k]['fg'] for k in order]; al=[R[k]['n'] for k in order]
+x=np.arange(6)
+a.bar(x-0.2,fg,0.4,color='#4C72B0',label='学到的 fg')
+a.set_xticks(x); a.set_xticklabels([LAB[k] for k in order],fontsize=9)
+a2=a.twinx(); a2.bar(x+0.2,[n/16 for n in al],0.4,color='#C44E52',label='撤除后存活率')
+a.axhline(0.008,ls='--',c='k',lw=1); a.text(0.05,0.010,'死亡阈值 0.008',fontsize=8)
+a.set_title('① 六方案：学到的觅食能力与撤除后存活',fontsize=11)
+a.set_ylabel('fg'); a2.set_ylabel('存活率'); a2.set_ylim(0,1.05)
+
+a=ax[0,1]
+tk=[R[k]['ticks'] for k in order]
+a.bar(x,tk,0.5,color=['#999999' if R[k]['n']==0 else '#55A868' for k in order])
+a.set_xticks(x); a.set_xticklabels([LAB[k] for k in order],fontsize=9)
+a.set_title('② 撤除后平均支撑拍数（上限1500）',fontsize=11); a.set_ylabel('拍')
+
+a=ax[0,2]
+B=[r['burn'] for r in c]; o=[r['open']['fg'] for r in c]; cl=[r['closed']['fg'] for r in c]
+oa=[r['open']['n'] for r in c]; ca=[r['closed']['n'] for r in c]
+a.plot(B,o,'o-',c='#C44E52',label='相继不相倚')
+a.plot(B,cl,'s-',c='#4C72B0',label='相倚')
+a.axhline(0.008,ls='--',c='k',lw=1)
+a.set_xlabel('burn-in 拍数'); a.set_ylabel('学到的 fg')
+a.set_title('③ 瞬态偏差：burn=0 时"不相倚"也像学会了',fontsize=11); a.legend(fontsize=8)
+
+a=ax[1,0]
+m=['reflect','free','harmful']; lab=['只能变好\n(下限反射)','可好可坏','大概率有害']
+v=[e[k]['n'] for k in m]
+a.bar(range(3),v,0.5,color=['#DD8452','#937860','#C44E52'])
+a.set_xticks(range(3)); a.set_xticklabels(lab,fontsize=9)
+a.set_title('④ 变异(#19)的三种建模：撤除后存活数/16',fontsize=11); a.set_ylim(0,16)
+for i,vv in enumerate(v): a.text(i,vv+0.4,str(vv),ha='center',fontsize=10)
+
+a=ax[1,1]
+ks=list(d['comp'].keys()); dl=[d['comp'][k]['delta'] for k in ks]
+lo=[d['comp'][k]['lo'] for k in ks]; hi=[d['comp'][k]['hi'] for k in ks]
+names=['相倚-相继','练-不练','工具+自觅-纯工具','自觅-(工具+自觅)']
+y=np.arange(4)
+a.errorbar(dl,y,xerr=[np.array(dl)-np.array(lo),np.array(hi)-np.array(dl)],fmt='o',c='#4C72B0',capsize=4)
+a.axvline(0,ls='--',c='k',lw=1); a.set_yticks(y); a.set_yticklabels(names,fontsize=9)
+a.set_title('⑤ 配对 Δfg 与 95%CI（跨0=不显著）',fontsize=11); a.set_xlabel('Δfg')
+
+a=ax[1,2]
+ac=[R[k]['act'] for k in order]
+a.bar(x,ac,0.5,color='#8172B3'); a.set_xticks(x); a.set_xticklabels([LAB[k] for k in order],fontsize=9)
+a.set_title('⑥ 训练期自身觅食投入（工具组最低）',fontsize=11); a.set_ylabel('平均投入')
+plt.tight_layout(); plt.savefig("/data/workspace/luoshen-o1/fig/126_wean_protocol.png",dpi=110)
+print("saved fig")

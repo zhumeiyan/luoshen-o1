@@ -1,1 +1,362 @@
-IyBDb3B5cmlnaHQgKGMpIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbi4KIyBMaWNlbnNlZCB1bmRlciB0aGUgTUlUIExpY2Vuc2UuCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBjYXN0LCBMaXN0LCBPcHRpb25hbAoKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBwYW5kYXMgYXMgcGQKCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHFsaWIuYmFja3Rlc3QuZGVjaXNpb24gaW1wb3J0IE9yZGVyLCBPcmRlckRpcgpmcm9tIHFsaWIuY29uc3RhbnQgaW1wb3J0IEVQUywgRVBTX1QsIGZsb2F0X29yX25kYXJyYXkKZnJvbSBxbGliLnJsLmRhdGEuYmFzZSBpbXBvcnQgQmFzZUludHJhZGF5QmFja3Rlc3REYXRhCmZyb20gcWxpYi5ybC5kYXRhLm5hdGl2ZSBpbXBvcnQgRGF0YWZyYW1lSW50cmFkYXlCYWNrdGVzdERhdGEsIGxvYWRfaGFuZGxlcl9pbnRyYWRheV9wcm9jZXNzZWRfZGF0YQpmcm9tIHFsaWIucmwuZGF0YS5waWNrbGVfc3R5bGVkIGltcG9ydCBsb2FkX3NpbXBsZV9pbnRyYWRheV9iYWNrdGVzdF9kYXRhCmZyb20gcWxpYi5ybC5zaW11bGF0b3IgaW1wb3J0IFNpbXVsYXRvcgpmcm9tIHFsaWIucmwudXRpbHMgaW1wb3J0IExvZ0xldmVsCmZyb20gLnN0YXRlIGltcG9ydCBTQU9FTWV0cmljcywgU0FPRVN0YXRlCgpfX2FsbF9fID0gWyJTaW5nbGVBc3NldE9yZGVyRXhlY3V0aW9uU2ltcGxlIl0KCgpjbGFzcyBTaW5nbGVBc3NldE9yZGVyRXhlY3V0aW9uU2ltcGxlKFNpbXVsYXRvcltPcmRlciwgU0FPRVN0YXRlLCBmbG9hdF0pOgogICAgIiIiU2luZ2xlLWFzc2V0IG9yZGVyIGV4ZWN1dGlvbiAoU0FPRSkgc2ltdWxhdG9yLgoKICAgIEFzIHRoZXJlJ3Mgbm8gImNhbGVuZGFyIiBpbiB0aGUgc2ltcGxlIHNpbXVsYXRvciwgdGlja3MgYXJlIHVzZWQgdG8gdHJhZGUuCiAgICBBIHRpY2sgaXMgYSByZWNvcmQgKGEgbGluZSkgaW4gdGhlIHBpY2tsZS1zdHlsZWQgZGF0YSBmaWxlLgogICAgRWFjaCB0aWNrIGlzIGNvbnNpZGVyZWQgYXMgYSBpbmRpdmlkdWFsIHRyYWRpbmcgb3Bwb3J0dW5pdHkuCiAgICBJZiBzdWNoIGZpbmUgZ3JhbnVsYXJpdHkgaXMgbm90IG5lZWRlZCwgdXNlIGBgdGlja3NfcGVyX3N0ZXBgYCB0bwogICAgbGVuZ3RoZW4gdGhlIHRpY2tzIGZvciBlYWNoIHN0ZXAuCgogICAgSW4gZWFjaCBzdGVwLCB0aGUgdHJhZGVkIGFtb3VudCBhcmUgImVxdWFsbHkiIHNlcGFyYXRlZCB0byBlYWNoIHRpY2ssCiAgICB0aGVuIGJvdW5kZWQgYnkgdm9sdW1lIG1heGltdW0gZXhlY3V0aW9uIHZvbHVtZSAoaS5lLiwgYGB2b2xfdGhyZXNob2xkYGApLAogICAgYW5kIGlmIGl0J3MgdGhlIGxhc3Qgc3RlcCwgdHJ5IHRvIGVuc3VyZSBhbGwgdGhlIGFtb3VudCB0byBiZSBleGVjdXRlZC4KCiAgICBQYXJhbWV0ZXJzCiAgICAtLS0tLS0tLS0tCiAgICBvcmRlcgogICAgICAgIFRoZSBzZWVkIHRvIHN0YXJ0IGFuIFNBT0Ugc2ltdWxhdG9yIGlzIGFuIG9yZGVyLgogICAgZGF0YV9kaXIKICAgICAgICBQYXRoIHRvIGxvYWQgYmFja3Rlc3QgZGF0YS4KICAgIGZlYXR1cmVfY29sdW1uc190b2RheQogICAgICAgIENvbHVtbnMgb2YgdG9kYXkncyBmZWF0dXJlLgogICAgZmVhdHVyZV9jb2x1bW5zX3llc3RlcmRheQogICAgICAgIENvbHVtbnMgb2YgeWVzdGVyZGF5J3MgZmVhdHVyZS4KICAgIGRhdGFfZ3JhbnVsYXJpdHkKICAgICAgICBOdW1iZXIgb2YgdGlja3MgYmV0d2VlbiBjb25zZWN1dGl2ZSBkYXRhIGVudHJpZXMuCiAgICB0aWNrc19wZXJfc3RlcAogICAgICAgIEhvdyBtYW55IHRpY2tzIHBlciBzdGVwLgogICAgdm9sX3RocmVzaG9sZAogICAgICAgIE1heGltdW0gZXhlY3V0aW9uIHZvbHVtZSAoZGl2aWRlZCBieSBtYXJrZXQgZXhlY3V0aW9uIHZvbHVtZSkuCiAgICAiIiIKCiAgICBoaXN0b3J5X2V4ZWM6IHBkLkRhdGFGcmFtZQogICAgIiIiQWxsIGV4ZWN1dGlvbiBoaXN0b3J5IGF0IGV2ZXJ5IHBvc3NpYmxlIHRpbWUgdGlja3MuIFNlZSA6Y2xhc3M6YFNBT0VNZXRyaWNzYCBmb3IgYXZhaWxhYmxlIGNvbHVtbnMuCiAgICBJbmRleCBpcyBgYGRhdGV0aW1lYGAuCiAgICAiIiIKCiAgICBoaXN0b3J5X3N0ZXBzOiBwZC5EYXRhRnJhbWUKICAgICIiIlBvc2l0aW9ucyBhdCBlYWNoIHN0ZXAuIFRoZSBwb3NpdGlvbiBiZWZvcmUgZmlyc3Qgc3RlcCBpcyBhbHNvIHJlY29yZGVkLgogICAgU2VlIDpjbGFzczpgU0FPRU1ldHJpY3NgIGZvciBhdmFpbGFibGUgY29sdW1ucy4KICAgIEluZGV4IGlzIGBgZGF0ZXRpbWVgYCwgd2hpY2ggaXMgdGhlICoqc3RhcnRpbmcqKiB0aW1lIG9mIGVhY2ggc3RlcC4iIiIKCiAgICBtZXRyaWNzOiBPcHRpb25hbFtTQU9FTWV0cmljc10KICAgICIiIk1ldHJpY3MuIE9ubHkgYXZhaWxhYmxlIHdoZW4gZG9uZS4iIiIKCiAgICB0d2FwX3ByaWNlOiBmbG9hdAogICAgIiIiVGhpcyBwcmljZSBpcyB1c2VkIHRvIGNvbXB1dGUgcHJpY2UgYWR2YW50YWdlLgogICAgSXQicyBkZWZpbmVkIGFzIHRoZSBhdmVyYWdlIHByaWNlIGluIHRoZSBwZXJpb2QgZnJvbSBvcmRlciJzIHN0YXJ0IHRpbWUgdG8gZW5kIHRpbWUuIiIiCgogICAgdGlja3NfaW5kZXg6IHBkLkRhdGV0aW1lSW5kZXgKICAgICIiIkFsbCBhdmFpbGFibGUgdGlja3MgZm9yIHRoZSBkYXkgKG5vdCByZXN0cmljdGVkIHRvIG9yZGVyKS4iIiIKCiAgICB0aWNrc19mb3Jfb3JkZXI6IHBkLkRhdGV0aW1lSW5kZXgKICAgICIiIlRpY2tzIHRoYXQgaXMgYXZhaWxhYmxlIGZvciB0cmFkaW5nIChzbGljZWQgYnkgb3JkZXIpLiIiIgoKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIG9yZGVyOiBPcmRlciwKICAgICAgICBkYXRhX2RpcjogUGF0aCwKICAgICAgICBmZWF0dXJlX2NvbHVtbnNfdG9kYXk6IExpc3Rbc3RyXSA9IFtdLAogICAgICAgIGZlYXR1cmVfY29sdW1uc195ZXN0ZXJkYXk6IExpc3Rbc3RyXSA9IFtdLAogICAgICAgIGRhdGFfZ3JhbnVsYXJpdHk6IGludCA9IDEsCiAgICAgICAgdGlja3NfcGVyX3N0ZXA6IGludCA9IDMwLAogICAgICAgIHZvbF90aHJlc2hvbGQ6IE9wdGlvbmFsW2Zsb2F0XSA9IE5vbmUsCiAgICApIC0+IE5vbmU6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhpbml0aWFsPW9yZGVyKQoKICAgICAgICBhc3NlcnQgdGlja3NfcGVyX3N0ZXAgJSBkYXRhX2dyYW51bGFyaXR5ID09IDAKCiAgICAgICAgc2VsZi5vcmRlciA9IG9yZGVyCiAgICAgICAgc2VsZi5kYXRhX2RpciA9IGRhdGFfZGlyCiAgICAgICAgc2VsZi5mZWF0dXJlX2NvbHVtbnNfdG9kYXkgPSBmZWF0dXJlX2NvbHVtbnNfdG9kYXkKICAgICAgICBzZWxmLmZlYXR1cmVfY29sdW1uc195ZXN0ZXJkYXkgPSBmZWF0dXJlX2NvbHVtbnNfeWVzdGVyZGF5CiAgICAgICAgc2VsZi50aWNrc19wZXJfc3RlcDogaW50ID0gdGlja3NfcGVyX3N0ZXAgLy8gZGF0YV9ncmFudWxhcml0eQogICAgICAgIHNlbGYudm9sX3RocmVzaG9sZCA9IHZvbF90aHJlc2hvbGQKCiAgICAgICAgc2VsZi5iYWNrdGVzdF9kYXRhID0gc2VsZi5nZXRfYmFja3Rlc3RfZGF0YSgpCiAgICAgICAgc2VsZi50aWNrc19pbmRleCA9IHNlbGYuYmFja3Rlc3RfZGF0YS5nZXRfdGltZV9pbmRleCgpCgogICAgICAgICMgR2V0IHRpbWUgaW5kZXggYXZhaWxhYmxlIGZvciB0cmFkaW5nCiAgICAgICAgc2VsZi50aWNrc19mb3Jfb3JkZXIgPSBzZWxmLl9nZXRfdGlja3Nfc2xpY2Uoc2VsZi5vcmRlci5zdGFydF90aW1lLCBzZWxmLm9yZGVyLmVuZF90aW1lKQoKICAgICAgICBzZWxmLmN1cl90aW1lID0gc2VsZi50aWNrc19mb3Jfb3JkZXJbMF0KICAgICAgICBzZWxmLmN1cl9zdGVwID0gMAogICAgICAgICMgTk9URTogYXN0eXBlKGZsb2F0KSBpcyBuZWNlc3NhcnkgaW4gc29tZSBzeXN0ZW1zLgogICAgICAgICMgdGhpcyB3aWxsIGFsaWduIHRoZSBwcmVjaXNpb24gd2l0aCBgLnRvX251bXB5KClgIGluIGBfc3BsaXRfZXhlY192b2xgCiAgICAgICAgc2VsZi50d2FwX3ByaWNlID0gZmxvYXQoc2VsZi5iYWNrdGVzdF9kYXRhLmdldF9kZWFsX3ByaWNlKCkubG9jW3NlbGYudGlja3NfZm9yX29yZGVyXS5hc3R5cGUoZmxvYXQpLm1lYW4oKSkKCiAgICAgICAgc2VsZi5wb3NpdGlvbiA9IG9yZGVyLmFtb3VudAoKICAgICAgICBtZXRyaWNfa2V5cyA9IGxpc3QoU0FPRU1ldHJpY3MuX19hbm5vdGF0aW9uc19fLmtleXMoKSkgICMgcHlsaW50OiBkaXNhYmxlPW5vLW1lbWJlcgogICAgICAgICMgTk9URTogY2FuIGVtcHR5IGRhdGFmcmFtZSBjb250YWluIGluZGV4PwogICAgICAgIHNlbGYuaGlzdG9yeV9leGVjID0gcGQuRGF0YUZyYW1lKGNvbHVtbnM9bWV0cmljX2tleXMpLnNldF9pbmRleCgiZGF0ZXRpbWUiKQogICAgICAgIHNlbGYuaGlzdG9yeV9zdGVwcyA9IHBkLkRhdGFGcmFtZShjb2x1bW5zPW1ldHJpY19rZXlzKS5zZXRfaW5kZXgoImRhdGV0aW1lIikKICAgICAgICBzZWxmLm1ldHJpY3MgPSBOb25lCgogICAgICAgIHNlbGYubWFya2V0X3ByaWNlOiBPcHRpb25hbFtucC5uZGFycmF5XSA9IE5vbmUKICAgICAgICBzZWxmLm1hcmtldF92b2w6IE9wdGlvbmFsW25wLm5kYXJyYXldID0gTm9uZQogICAgICAgIHNlbGYubWFya2V0X3ZvbF9saW1pdDogT3B0aW9uYWxbbnAubmRhcnJheV0gPSBOb25lCgogICAgZGVmIGdldF9iYWNrdGVzdF9kYXRhKHNlbGYpIC0+IEJhc2VJbnRyYWRheUJhY2t0ZXN0RGF0YToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGRhdGEgPSBsb2FkX2hhbmRsZXJfaW50cmFkYXlfcHJvY2Vzc2VkX2RhdGEoCiAgICAgICAgICAgICAgICBkYXRhX2Rpcj1zZWxmLmRhdGFfZGlyLAogICAgICAgICAgICAgICAgc3RvY2tfaWQ9c2VsZi5vcmRlci5zdG9ja19pZCwKICAgICAgICAgICAgICAgIGRhdGU9cGQuVGltZXN0YW1wKHNlbGYub3JkZXIuc3RhcnRfdGltZS5kYXRlKCkpLAogICAgICAgICAgICAgICAgZmVhdHVyZV9jb2x1bW5zX3RvZGF5PXNlbGYuZmVhdHVyZV9jb2x1bW5zX3RvZGF5LAogICAgICAgICAgICAgICAgZmVhdHVyZV9jb2x1bW5zX3llc3RlcmRheT1zZWxmLmZlYXR1cmVfY29sdW1uc195ZXN0ZXJkYXksCiAgICAgICAgICAgICAgICBiYWNrdGVzdD1UcnVlLAogICAgICAgICAgICAgICAgaW5kZXhfb25seT1GYWxzZSwKICAgICAgICAgICAgKQogICAgICAgICAgICByZXR1cm4gRGF0YWZyYW1lSW50cmFkYXlCYWNrdGVzdERhdGEoZGF0YS50b2RheSkKICAgICAgICBleGNlcHQgKEF0dHJpYnV0ZUVycm9yLCBGaWxlTm90Rm91bmRFcnJvcik6CiAgICAgICAgICAgICMgVE9ETzogRm9yIGNvbXBhdGliaWxpdHkgd2l0aCBvbGRlciB2ZXJzaW9ucyBvZiB0ZXN0IHNjcmlwdHMgKHRlc3RzL3JsL3Rlc3Rfc2FvZV9zaW1wbGUucHkpCiAgICAgICAgICAgICMgVE9ETzogSW4gdGhlIGZ1dHVyZSwgd2Ugc2hvdWxkIG1vZGlmeSB0aGUgZGF0YSBmb3JtYXQgdXNlZCBieSB0aGUgdGVzdCBzY3JpcHQsCiAgICAgICAgICAgICMgVE9ETzogYW5kIHRoZW4gZGVsZXRlIHRoaXMgYnJhbmNoLgogICAgICAgICAgICByZXR1cm4gbG9hZF9zaW1wbGVfaW50cmFkYXlfYmFja3Rlc3RfZGF0YSgKICAgICAgICAgICAgICAgIHNlbGYuZGF0YV9kaXIgLyAiYmFja3Rlc3QiLAogICAgICAgICAgICAgICAgc2VsZi5vcmRlci5zdG9ja19pZCwKICAgICAgICAgICAgICAgIHBkLlRpbWVzdGFtcChzZWxmLm9yZGVyLnN0YXJ0X3RpbWUuZGF0ZSgpKSwKICAgICAgICAgICAgICAgICJjbG9zZSIsCiAgICAgICAgICAgICAgICBzZWxmLm9yZGVyLmRpcmVjdGlvbiwKICAgICAgICAgICAgKQoKICAgIGRlZiBzdGVwKHNlbGYsIGFtb3VudDogZmxvYXQpIC0+IE5vbmU6CiAgICAgICAgIiIiRXhlY3V0ZSBvbmUgc3RlcCBvciBTQU9FLgoKICAgICAgICBQYXJhbWV0ZXJzCiAgICAgICAgLS0tLS0tLS0tLQogICAgICAgIGFtb3VudAogICAgICAgICAgICBUaGUgYW1vdW50IHlvdSB3aXNoIHRvIGRlYWwuIFRoZSBzaW11bGF0b3IgZG9lc24ndCBndWFyYW50ZWUgYWxsIHRoZSBhbW91bnQgdG8gYmUgc3VjY2Vzc2Z1bGx5IGRlYWx0LgogICAgICAgICIiIgoKICAgICAgICBhc3NlcnQgbm90IHNlbGYuZG9uZSgpCgogICAgICAgIHNlbGYubWFya2V0X3ByaWNlID0gc2VsZi5tYXJrZXRfdm9sID0gTm9uZSAgIyBhdm9pZCBtaXN1c2UKICAgICAgICBleGVjX3ZvbCA9IHNlbGYuX3NwbGl0X2V4ZWNfdm9sKGFtb3VudCkKICAgICAgICBhc3NlcnQgc2VsZi5tYXJrZXRfcHJpY2UgaXMgbm90IE5vbmUKICAgICAgICBhc3NlcnQgc2VsZi5tYXJrZXRfdm9sIGlzIG5vdCBOb25lCgogICAgICAgIHRpY2tzX3Bvc2l0aW9uID0gc2VsZi5wb3NpdGlvbiAtIG5wLmN1bXN1bShleGVjX3ZvbCkKCiAgICAgICAgc2VsZi5wb3NpdGlvbiAtPSBleGVjX3ZvbC5zdW0oKQogICAgICAgIGlmIGFicyhzZWxmLnBvc2l0aW9uKSA8IDFlLTY6CiAgICAgICAgICAgIHNlbGYucG9zaXRpb24gPSAwLjAKICAgICAgICBpZiBzZWxmLnBvc2l0aW9uIDwgLUVQUyBvciAoZXhlY192b2wgPCAtRVBTKS5hbnkoKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIkV4ZWN1dGlvbiB2b2x1bWUgaXMgaW52YWxpZDoge2V4ZWNfdm9sfSAocG9zaXRpb24gPSB7c2VsZi5wb3NpdGlvbn0pIikKCiAgICAgICAgIyBHZXQgdGltZSBpbmRleCBhdmFpbGFibGUgZm9yIHRoaXMgc3RlcAogICAgICAgIHRpbWVfaW5kZXggPSBzZWxmLl9nZXRfdGlja3Nfc2xpY2Uoc2VsZi5jdXJfdGltZSwgc2VsZi5fbmV4dF90aW1lKCkpCgogICAgICAgIHNlbGYuaGlzdG9yeV9leGVjID0gc2VsZi5fZGF0YWZyYW1lX2FwcGVuZCgKICAgICAgICAgICAgc2VsZi5oaXN0b3J5X2V4ZWMsCiAgICAgICAgICAgIFNBT0VNZXRyaWNzKAogICAgICAgICAgICAgICAgIyBJdCBzaG91bGQgaGF2ZSB0aGUgc2FtZSBrZXlzIHdpdGggU0FPRU1ldHJpY3MsCiAgICAgICAgICAgICAgICAjIGJ1dCB0aGUgdmFsdWVzIGRvIG5vdCBuZWNlc3NhcmlseSBoYXZlIHRoZSBhbm5vdGF0ZWQgdHlwZS4KICAgICAgICAgICAgICAgICMgU29tZSB2YWx1ZXMgY291bGQgYmUgdmVjdG9yaXplZCAoZS5nLiwgZXhlY192b2wpLgogICAgICAgICAgICAgICAgc3RvY2tfaWQ9c2VsZi5vcmRlci5zdG9ja19pZCwKICAgICAgICAgICAgICAgIGRhdGV0aW1lPXRpbWVfaW5kZXgsCiAgICAgICAgICAgICAgICBkaXJlY3Rpb249c2VsZi5vcmRlci5kaXJlY3Rpb24sCiAgICAgICAgICAgICAgICBtYXJrZXRfdm9sdW1lPXNlbGYubWFya2V0X3ZvbCwKICAgICAgICAgICAgICAgIG1hcmtldF9wcmljZT1zZWxmLm1hcmtldF9wcmljZSwKICAgICAgICAgICAgICAgIGFtb3VudD1leGVjX3ZvbCwKICAgICAgICAgICAgICAgIGlubmVyX2Ftb3VudD1leGVjX3ZvbCwKICAgICAgICAgICAgICAgIGRlYWxfYW1vdW50PWV4ZWNfdm9sLAogICAgICAgICAgICAgICAgdHJhZGVfcHJpY2U9c2VsZi5tYXJrZXRfcHJpY2UsCiAgICAgICAgICAgICAgICB0cmFkZV92YWx1ZT1zZWxmLm1hcmtldF9wcmljZSAqIGV4ZWNfdm9sLAogICAgICAgICAgICAgICAgcG9zaXRpb249dGlja3NfcG9zaXRpb24sCiAgICAgICAgICAgICAgICBmZnI9ZXhlY192b2wgLyBzZWxmLm9yZGVyLmFtb3VudCwKICAgICAgICAgICAgICAgIHBhPXByaWNlX2FkdmFudGFnZShzZWxmLm1hcmtldF9wcmljZSwgc2VsZi50d2FwX3ByaWNlLCBzZWxmLm9yZGVyLmRpcmVjdGlvbiksCiAgICAgICAgICAgICksCiAgICAgICAgKQoKICAgICAgICBzZWxmLmhpc3Rvcnlfc3RlcHMgPSBzZWxmLl9kYXRhZnJhbWVfYXBwZW5kKAogICAgICAgICAgICBzZWxmLmhpc3Rvcnlfc3RlcHMsCiAgICAgICAgICAgIFtzZWxmLl9tZXRyaWNzX2NvbGxlY3Qoc2VsZi5jdXJfdGltZSwgc2VsZi5tYXJrZXRfdm9sLCBzZWxmLm1hcmtldF9wcmljZSwgYW1vdW50LCBleGVjX3ZvbCldLAogICAgICAgICkKCiAgICAgICAgaWYgc2VsZi5kb25lKCk6CiAgICAgICAgICAgIGlmIHNlbGYuZW52IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgc2VsZi5lbnYubG9nZ2VyLmFkZF9hbnkoImhpc3Rvcnlfc3RlcHMiLCBzZWxmLmhpc3Rvcnlfc3RlcHMsIGxvZ2xldmVsPUxvZ0xldmVsLkRFQlVHKQogICAgICAgICAgICAgICAgc2VsZi5lbnYubG9nZ2VyLmFkZF9hbnkoImhpc3RvcnlfZXhlYyIsIHNlbGYuaGlzdG9yeV9leGVjLCBsb2dsZXZlbD1Mb2dMZXZlbC5ERUJVRykKCiAgICAgICAgICAgIHNlbGYubWV0cmljcyA9IHNlbGYuX21ldHJpY3NfY29sbGVjdCgKICAgICAgICAgICAgICAgIHNlbGYudGlja3NfaW5kZXhbMF0sICAjIHN0YXJ0IHRpbWUKICAgICAgICAgICAgICAgIHNlbGYuaGlzdG9yeV9leGVjWyJtYXJrZXRfdm9sdW1lIl0sCiAgICAgICAgICAgICAgICBzZWxmLmhpc3RvcnlfZXhlY1sibWFya2V0X3ByaWNlIl0sCiAgICAgICAgICAgICAgICBzZWxmLmhpc3Rvcnlfc3RlcHNbImFtb3VudCJdLnN1bSgpLAogICAgICAgICAgICAgICAgc2VsZi5oaXN0b3J5X2V4ZWNbImRlYWxfYW1vdW50Il0sCiAgICAgICAgICAgICkKCiAgICAgICAgICAgICMgTk9URSAoeXVnZSk6IEl0IGxvb2tzIHRvIG1lIHRoYXQgaXQncyB0aGUgImNvcnJlY3QiIGRlY2lzaW9uIHRvCiAgICAgICAgICAgICMgcHV0IGFsbCB0aGUgbG9ncyBoZXJlLCBiZWNhdXNlIG9ubHkgY29tcG9uZW50cyBsaWtlIHNpbXVsYXRvcnMgdGhlbXNlbHZlcwogICAgICAgICAgICAjIGhhdmUgdGhlIGtub3dsZWRnZSBhYm91dCB3aGF0IGNvdWxkIGFwcGVhciBpbiB0aGUgbG9ncywgYW5kIHdoYXQncyB0aGUgZm9ybWF0LgogICAgICAgICAgICAjIEJ1dCBJIGFkbWl0IGl0J3Mgbm90IG5lY2Vzc2FyaWx5IHRoZSBtb3N0IGNvbnZlbmllbnQgd2F5LgogICAgICAgICAgICAjIEknbGwgcmV0aGluayBhYm91dCBpdCB3aGVuIHdlIGhhdmUgdGhlIHNlY29uZCBlbnZpcm9ubWVudAogICAgICAgICAgICAjIE1heWJlIHNvbWUgQVBJcyBsaWtlIHNlbGYubG9nZ2VyLmVuYWJsZV9hdXRvX2xvZygpID8KCiAgICAgICAgICAgIGlmIHNlbGYuZW52IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gc2VsZi5tZXRyaWNzLml0ZW1zKCk6CiAgICAgICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgZmxvYXQpOgogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmVudi5sb2dnZXIuYWRkX3NjYWxhcihrZXksIHZhbHVlKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZW52LmxvZ2dlci5hZGRfYW55KGtleSwgdmFsdWUpCgogICAgICAgIHNlbGYuY3VyX3RpbWUgPSBzZWxmLl9uZXh0X3RpbWUoKQogICAgICAgIHNlbGYuY3VyX3N0ZXAgKz0gMQoKICAgIGRlZiBnZXRfc3RhdGUoc2VsZikgLT4gU0FPRVN0YXRlOgogICAgICAgIHJldHVybiBTQU9FU3RhdGUoCiAgICAgICAgICAgIG9yZGVyPXNlbGYub3JkZXIsCiAgICAgICAgICAgIGN1cl90aW1lPXNlbGYuY3VyX3RpbWUsCiAgICAgICAgICAgIGN1cl9zdGVwPXNlbGYuY3VyX3N0ZXAsCiAgICAgICAgICAgIHBvc2l0aW9uPXNlbGYucG9zaXRpb24sCiAgICAgICAgICAgIGhpc3RvcnlfZXhlYz1zZWxmLmhpc3RvcnlfZXhlYywKICAgICAgICAgICAgaGlzdG9yeV9zdGVwcz1zZWxmLmhpc3Rvcnlfc3RlcHMsCiAgICAgICAgICAgIG1ldHJpY3M9c2VsZi5tZXRyaWNzLAogICAgICAgICAgICBiYWNrdGVzdF9kYXRhPXNlbGYuYmFja3Rlc3RfZGF0YSwKICAgICAgICAgICAgdGlja3NfcGVyX3N0ZXA9c2VsZi50aWNrc19wZXJfc3RlcCwKICAgICAgICAgICAgdGlja3NfaW5kZXg9c2VsZi50aWNrc19pbmRleCwKICAgICAgICAgICAgdGlja3NfZm9yX29yZGVyPXNlbGYudGlja3NfZm9yX29yZGVyLAogICAgICAgICkKCiAgICBkZWYgZG9uZShzZWxmKSAtPiBib29sOgogICAgICAgIHJldHVybiBzZWxmLnBvc2l0aW9uIDwgRVBTIG9yIHNlbGYuY3VyX3RpbWUgPj0gc2VsZi5vcmRlci5lbmRfdGltZQoKICAgIGRlZiBfbmV4dF90aW1lKHNlbGYpIC0+IHBkLlRpbWVzdGFtcDoKICAgICAgICAiIiJUaGUgImN1cnJlbnQgdGltZSIgKGBgY3VyX3RpbWVgYCkgZm9yIG5leHQgc3RlcC4iIiIKICAgICAgICAjIExvb2sgZm9yIG5leHQgdGltZSBvbiB0aW1lIGluZGV4CiAgICAgICAgY3VycmVudF9sb2MgPSBzZWxmLnRpY2tzX2luZGV4LmdldF9sb2Moc2VsZi5jdXJfdGltZSkKICAgICAgICBuZXh0X2xvYyA9IGN1cnJlbnRfbG9jICsgc2VsZi50aWNrc19wZXJfc3RlcAoKICAgICAgICAjIENhbGlicmF0ZSB0aGUgbmV4dCBsb2NhdGlvbiB0byBtdWx0aXBsZSBvZiB0aWNrc19wZXJfc3RlcC4KICAgICAgICAjIFRoaXMgaXMgdG8gbWFrZSBzdXJlIHRoYXQ6CiAgICAgICAgIyBhcyBsb25nIGFzIHRpY2tzX3Blcl9zdGVwIGlzIGEgbXVsdGlwbGUgb2Ygc29tZXRoaW5nLCBlYWNoIHN0ZXAgd29uJ3QgY3Jvc3MgbW9ybmluZyBhbmQgYWZ0ZXJub29uLgogICAgICAgIG5leHRfbG9jID0gbmV4dF9sb2MgLSBuZXh0X2xvYyAlIHNlbGYudGlja3NfcGVyX3N0ZXAKCiAgICAgICAgaWYgbmV4dF9sb2MgPCBsZW4oc2VsZi50aWNrc19pbmRleCkgYW5kIHNlbGYudGlja3NfaW5kZXhbbmV4dF9sb2NdIDwgc2VsZi5vcmRlci5lbmRfdGltZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYudGlja3NfaW5kZXhbbmV4dF9sb2NdCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYub3JkZXIuZW5kX3RpbWUKCiAgICBkZWYgX2N1cl9kdXJhdGlvbihzZWxmKSAtPiBwZC5UaW1lZGVsdGE6CiAgICAgICAgIiIiVGhlICJkdXJhdGlvbiIgb2YgdGhpcyBzdGVwIChzdGVwIHRoYXQgaXMgYWJvdXQgdG8gaGFwcGVuKS4iIiIKICAgICAgICByZXR1cm4gc2VsZi5fbmV4dF90aW1lKCkgLSBzZWxmLmN1cl90aW1lCgogICAgZGVmIF9zcGxpdF9leGVjX3ZvbChzZWxmLCBleGVjX3ZvbF9zdW06IGZsb2F0KSAtPiBucC5uZGFycmF5OgogICAgICAgICIiIgogICAgICAgIFNwbGl0IHRoZSB2b2x1bWUgaW4gZWFjaCBzdGVwIGludG8gbWludXRlcywgY29uc2lkZXJpbmcgcG9zc2libGUgY29uc3RyYWludHMuCiAgICAgICAgVGhpcyBmb2xsb3dzIFRXQVAgc3RyYXRlZ3kuCiAgICAgICAgIiIiCiAgICAgICAgbmV4dF90aW1lID0gc2VsZi5fbmV4dF90aW1lKCkKCiAgICAgICAgIyBnZXQgdGhlIGJhY2t0ZXN0IGRhdGEgZm9yIG5leHQgaW50ZXJ2YWwKICAgICAgICBzZWxmLm1hcmtldF92b2wgPSBzZWxmLmJhY2t0ZXN0X2RhdGEuZ2V0X3ZvbHVtZSgpLmxvY1tzZWxmLmN1cl90aW1lIDogbmV4dF90aW1lIC0gRVBTX1RdLnRvX251bXB5KCkKICAgICAgICBzZWxmLm1hcmtldF9wcmljZSA9IHNlbGYuYmFja3Rlc3RfZGF0YS5nZXRfZGVhbF9wcmljZSgpLmxvY1tzZWxmLmN1cl90aW1lIDogbmV4dF90aW1lIC0gRVBTX1RdLnRvX251bXB5KCkKCiAgICAgICAgYXNzZXJ0IHNlbGYubWFya2V0X3ZvbCBpcyBub3QgTm9uZSBhbmQgc2VsZi5tYXJrZXRfcHJpY2UgaXMgbm90IE5vbmUKCiAgICAgICAgIyBzcGxpdCB0aGUgdm9sdW1lIGVxdWFsbHkgaW50byBlYWNoIG1pbnV0ZQogICAgICAgIGV4ZWNfdm9sID0gbnAucmVwZWF0KGV4ZWNfdm9sX3N1bSAvIGxlbihzZWxmLm1hcmtldF9wcmljZSksIGxlbihzZWxmLm1hcmtldF9wcmljZSkpCgogICAgICAgICMgYXBwbHkgdGhlIHZvbHVtZSB0aHJlc2hvbGQKICAgICAgICBtYXJrZXRfdm9sX2xpbWl0ID0gc2VsZi52b2xfdGhyZXNob2xkICogc2VsZi5tYXJrZXRfdm9sIGlmIHNlbGYudm9sX3RocmVzaG9sZCBpcyBub3QgTm9uZSBlbHNlIG5wLmluZgogICAgICAgIGV4ZWNfdm9sID0gbnAubWluaW11bShleGVjX3ZvbCwgbWFya2V0X3ZvbF9saW1pdCkgICMgdHlwZTogaWdub3JlCgogICAgICAgICMgQ29tcGxldGUgYWxsIHRoZSBvcmRlciBhbW91bnQgYXQgdGhlIGxhc3QgbW9tZW50LgogICAgICAgIGlmIG5leHRfdGltZSA+PSBzZWxmLm9yZGVyLmVuZF90aW1lOgogICAgICAgICAgICBleGVjX3ZvbFstMV0gKz0gc2VsZi5wb3NpdGlvbiAtIGV4ZWNfdm9sLnN1bSgpCiAgICAgICAgICAgIGV4ZWNfdm9sID0gbnAubWluaW11bShleGVjX3ZvbCwgbWFya2V0X3ZvbF9saW1pdCkgICMgdHlwZTogaWdub3JlCgogICAgICAgIHJldHVybiBleGVjX3ZvbAoKICAgIGRlZiBfbWV0cmljc19jb2xsZWN0KAogICAgICAgIHNlbGYsCiAgICAgICAgZGF0ZXRpbWU6IHBkLlRpbWVzdGFtcCwKICAgICAgICBtYXJrZXRfdm9sOiBucC5uZGFycmF5LAogICAgICAgIG1hcmtldF9wcmljZTogbnAubmRhcnJheSwKICAgICAgICBhbW91bnQ6IGZsb2F0LCAgIyBpbnRlbmRlZCB0byB0cmFkZSBzdWNoIGFtb3VudAogICAgICAgIGV4ZWNfdm9sOiBucC5uZGFycmF5LAogICAgKSAtPiBTQU9FTWV0cmljczoKICAgICAgICBhc3NlcnQgbGVuKG1hcmtldF92b2wpID09IGxlbihtYXJrZXRfcHJpY2UpID09IGxlbihleGVjX3ZvbCkKCiAgICAgICAgaWYgbnAuYWJzKG5wLnN1bShleGVjX3ZvbCkpIDwgRVBTOgogICAgICAgICAgICBleGVjX2F2Z19wcmljZSA9IDAuMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGV4ZWNfYXZnX3ByaWNlID0gY2FzdChmbG9hdCwgbnAuYXZlcmFnZShtYXJrZXRfcHJpY2UsIHdlaWdodHM9ZXhlY192b2wpKSAgIyBjb3VsZCBiZSBuYW4KICAgICAgICAgICAgaWYgaGFzYXR0cihleGVjX2F2Z19wcmljZSwgIml0ZW0iKTogICMgY291bGQgYmUgbnVtcHkgc2NhbGFyCiAgICAgICAgICAgICAgICBleGVjX2F2Z19wcmljZSA9IGV4ZWNfYXZnX3ByaWNlLml0ZW0oKSAgIyB0eXBlOiBpZ25vcmUKCiAgICAgICAgcmV0dXJuIFNBT0VNZXRyaWNzKAogICAgICAgICAgICBzdG9ja19pZD1zZWxmLm9yZGVyLnN0b2NrX2lkLAogICAgICAgICAgICBkYXRldGltZT1kYXRldGltZSwKICAgICAgICAgICAgZGlyZWN0aW9uPXNlbGYub3JkZXIuZGlyZWN0aW9uLAogICAgICAgICAgICBtYXJrZXRfdm9sdW1lPW1hcmtldF92b2wuc3VtKCksCiAgICAgICAgICAgIG1hcmtldF9wcmljZT1tYXJrZXRfcHJpY2UubWVhbigpLAogICAgICAgICAgICBhbW91bnQ9YW1vdW50LAogICAgICAgICAgICBpbm5lcl9hbW91bnQ9ZXhlY192b2wuc3VtKCksCiAgICAgICAgICAgIGRlYWxfYW1vdW50PWV4ZWNfdm9sLnN1bSgpLCAgIyBpbiB0aGlzIHNpbXVsYXRvciwgdGhlcmUncyBubyBvdGhlciByZXN0cmljdGlvbnMKICAgICAgICAgICAgdHJhZGVfcHJpY2U9ZXhlY19hdmdfcHJpY2UsCiAgICAgICAgICAgIHRyYWRlX3ZhbHVlPWZsb2F0KG5wLnN1bShtYXJrZXRfcHJpY2UgKiBleGVjX3ZvbCkpLAogICAgICAgICAgICBwb3NpdGlvbj1zZWxmLnBvc2l0aW9uLAogICAgICAgICAgICBmZnI9ZmxvYXQoZXhlY192b2wuc3VtKCkgLyBzZWxmLm9yZGVyLmFtb3VudCksCiAgICAgICAgICAgIHBhPXByaWNlX2FkdmFudGFnZShleGVjX2F2Z19wcmljZSwgc2VsZi50d2FwX3ByaWNlLCBzZWxmLm9yZGVyLmRpcmVjdGlvbiksCiAgICAgICAgKQoKICAgIGRlZiBfZ2V0X3RpY2tzX3NsaWNlKHNlbGYsIHN0YXJ0OiBwZC5UaW1lc3RhbXAsIGVuZDogcGQuVGltZXN0YW1wLCBpbmNsdWRlX2VuZDogYm9vbCA9IEZhbHNlKSAtPiBwZC5EYXRldGltZUluZGV4OgogICAgICAgIGlmIG5vdCBpbmNsdWRlX2VuZDoKICAgICAgICAgICAgZW5kID0gZW5kIC0gRVBTX1QKICAgICAgICByZXR1cm4gc2VsZi50aWNrc19pbmRleFtzZWxmLnRpY2tzX2luZGV4LnNsaWNlX2luZGV4ZXIoc3RhcnQsIGVuZCldCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9kYXRhZnJhbWVfYXBwZW5kKGRmOiBwZC5EYXRhRnJhbWUsIG90aGVyOiBBbnkpIC0+IHBkLkRhdGFGcmFtZToKICAgICAgICAjIGRhdGFmcmFtZS5hcHBlbmQgaXMgZGVwcmVjYXRlZAogICAgICAgIG90aGVyX2RmID0gcGQuRGF0YUZyYW1lKG90aGVyKS5zZXRfaW5kZXgoImRhdGV0aW1lIikKICAgICAgICBvdGhlcl9kZi5pbmRleC5uYW1lID0gImRhdGV0aW1lIgogICAgICAgIHJldHVybiBwZC5jb25jYXQoW2RmLCBvdGhlcl9kZl0sIGF4aXM9MCkKCgpkZWYgcHJpY2VfYWR2YW50YWdlKAogICAgZXhlY19wcmljZTogZmxvYXRfb3JfbmRhcnJheSwKICAgIGJhc2VsaW5lX3ByaWNlOiBmbG9hdCwKICAgIGRpcmVjdGlvbjogT3JkZXJEaXIgfCBpbnQsCikgLT4gZmxvYXRfb3JfbmRhcnJheToKICAgIGlmIGJhc2VsaW5lX3ByaWNlID09IDA6ICAjIHNvbWV0aGluZyBpcyB3cm9uZyB3aXRoIGRhdGEuIFNob3VsZCBiZSBuYW4gaGVyZQogICAgICAgIGlmIGlzaW5zdGFuY2UoZXhlY19wcmljZSwgZmxvYXQpOgogICAgICAgICAgICByZXR1cm4gMC4wCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIG5wLnplcm9zX2xpa2UoZXhlY19wcmljZSkKICAgIGlmIGRpcmVjdGlvbiA9PSBPcmRlckRpci5CVVk6CiAgICAgICAgcmVzID0gKDEgLSBleGVjX3ByaWNlIC8gYmFzZWxpbmVfcHJpY2UpICogMTAwMDAKICAgIGVsaWYgZGlyZWN0aW9uID09IE9yZGVyRGlyLlNFTEw6CiAgICAgICAgcmVzID0gKGV4ZWNfcHJpY2UgLyBiYXNlbGluZV9wcmljZSAtIDEpICogMTAwMDAKICAgIGVsc2U6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIlVuZXhwZWN0ZWQgb3JkZXIgZGlyZWN0aW9uOiB7ZGlyZWN0aW9ufSIpCiAgICByZXNfd29fbmFuOiBucC5uZGFycmF5ID0gbnAubmFuX3RvX251bShyZXMsIG5hbj0wLjApCiAgICBpZiByZXNfd29fbmFuLnNpemUgPT0gMToKICAgICAgICByZXR1cm4gcmVzX3dvX25hbi5pdGVtKCkKICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIGNhc3QoZmxvYXRfb3JfbmRhcnJheSwgcmVzX3dvX25hbikK
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
+from __future__ import annotations
+
+from typing import Any, cast, List, Optional
+
+import numpy as np
+import pandas as pd
+
+from pathlib import Path
+from qlib.backtest.decision import Order, OrderDir
+from qlib.constant import EPS, EPS_T, float_or_ndarray
+from qlib.rl.data.base import BaseIntradayBacktestData
+from qlib.rl.data.native import DataframeIntradayBacktestData, load_handler_intraday_processed_data
+from qlib.rl.data.pickle_styled import load_simple_intraday_backtest_data
+from qlib.rl.simulator import Simulator
+from qlib.rl.utils import LogLevel
+from .state import SAOEMetrics, SAOEState
+
+__all__ = ["SingleAssetOrderExecutionSimple"]
+
+
+class SingleAssetOrderExecutionSimple(Simulator[Order, SAOEState, float]):
+    """Single-asset order execution (SAOE) simulator.
+
+    As there's no "calendar" in the simple simulator, ticks are used to trade.
+    A tick is a record (a line) in the pickle-styled data file.
+    Each tick is considered as a individual trading opportunity.
+    If such fine granularity is not needed, use ``ticks_per_step`` to
+    lengthen the ticks for each step.
+
+    In each step, the traded amount are "equally" separated to each tick,
+    then bounded by volume maximum execution volume (i.e., ``vol_threshold``),
+    and if it's the last step, try to ensure all the amount to be executed.
+
+    Parameters
+    ----------
+    order
+        The seed to start an SAOE simulator is an order.
+    data_dir
+        Path to load backtest data.
+    feature_columns_today
+        Columns of today's feature.
+    feature_columns_yesterday
+        Columns of yesterday's feature.
+    data_granularity
+        Number of ticks between consecutive data entries.
+    ticks_per_step
+        How many ticks per step.
+    vol_threshold
+        Maximum execution volume (divided by market execution volume).
+    """
+
+    history_exec: pd.DataFrame
+    """All execution history at every possible time ticks. See :class:`SAOEMetrics` for available columns.
+    Index is ``datetime``.
+    """
+
+    history_steps: pd.DataFrame
+    """Positions at each step. The position before first step is also recorded.
+    See :class:`SAOEMetrics` for available columns.
+    Index is ``datetime``, which is the **starting** time of each step."""
+
+    metrics: Optional[SAOEMetrics]
+    """Metrics. Only available when done."""
+
+    twap_price: float
+    """This price is used to compute price advantage.
+    It"s defined as the average price in the period from order"s start time to end time."""
+
+    ticks_index: pd.DatetimeIndex
+    """All available ticks for the day (not restricted to order)."""
+
+    ticks_for_order: pd.DatetimeIndex
+    """Ticks that is available for trading (sliced by order)."""
+
+    def __init__(
+        self,
+        order: Order,
+        data_dir: Path,
+        feature_columns_today: List[str] = [],
+        feature_columns_yesterday: List[str] = [],
+        data_granularity: int = 1,
+        ticks_per_step: int = 30,
+        vol_threshold: Optional[float] = None,
+    ) -> None:
+        super().__init__(initial=order)
+
+        assert ticks_per_step % data_granularity == 0
+
+        self.order = order
+        self.data_dir = data_dir
+        self.feature_columns_today = feature_columns_today
+        self.feature_columns_yesterday = feature_columns_yesterday
+        self.ticks_per_step: int = ticks_per_step // data_granularity
+        self.vol_threshold = vol_threshold
+
+        self.backtest_data = self.get_backtest_data()
+        self.ticks_index = self.backtest_data.get_time_index()
+
+        # Get time index available for trading
+        self.ticks_for_order = self._get_ticks_slice(self.order.start_time, self.order.end_time)
+
+        self.cur_time = self.ticks_for_order[0]
+        self.cur_step = 0
+        # NOTE: astype(float) is necessary in some systems.
+        # this will align the precision with `.to_numpy()` in `_split_exec_vol`
+        self.twap_price = float(self.backtest_data.get_deal_price().loc[self.ticks_for_order].astype(float).mean())
+
+        self.position = order.amount
+
+        metric_keys = list(SAOEMetrics.__annotations__.keys())  # pylint: disable=no-member
+        # NOTE: can empty dataframe contain index?
+        self.history_exec = pd.DataFrame(columns=metric_keys).set_index("datetime")
+        self.history_steps = pd.DataFrame(columns=metric_keys).set_index("datetime")
+        self.metrics = None
+
+        self.market_price: Optional[np.ndarray] = None
+        self.market_vol: Optional[np.ndarray] = None
+        self.market_vol_limit: Optional[np.ndarray] = None
+
+    def get_backtest_data(self) -> BaseIntradayBacktestData:
+        try:
+            data = load_handler_intraday_processed_data(
+                data_dir=self.data_dir,
+                stock_id=self.order.stock_id,
+                date=pd.Timestamp(self.order.start_time.date()),
+                feature_columns_today=self.feature_columns_today,
+                feature_columns_yesterday=self.feature_columns_yesterday,
+                backtest=True,
+                index_only=False,
+            )
+            return DataframeIntradayBacktestData(data.today)
+        except (AttributeError, FileNotFoundError):
+            # TODO: For compatibility with older versions of test scripts (tests/rl/test_saoe_simple.py)
+            # TODO: In the future, we should modify the data format used by the test script,
+            # TODO: and then delete this branch.
+            return load_simple_intraday_backtest_data(
+                self.data_dir / "backtest",
+                self.order.stock_id,
+                pd.Timestamp(self.order.start_time.date()),
+                "close",
+                self.order.direction,
+            )
+
+    def step(self, amount: float) -> None:
+        """Execute one step or SAOE.
+
+        Parameters
+        ----------
+        amount
+            The amount you wish to deal. The simulator doesn't guarantee all the amount to be successfully dealt.
+        """
+
+        assert not self.done()
+
+        self.market_price = self.market_vol = None  # avoid misuse
+        exec_vol = self._split_exec_vol(amount)
+        assert self.market_price is not None
+        assert self.market_vol is not None
+
+        ticks_position = self.position - np.cumsum(exec_vol)
+
+        self.position -= exec_vol.sum()
+        if abs(self.position) < 1e-6:
+            self.position = 0.0
+        if self.position < -EPS or (exec_vol < -EPS).any():
+            raise ValueError(f"Execution volume is invalid: {exec_vol} (position = {self.position})")
+
+        # Get time index available for this step
+        time_index = self._get_ticks_slice(self.cur_time, self._next_time())
+
+        self.history_exec = self._dataframe_append(
+            self.history_exec,
+            SAOEMetrics(
+                # It should have the same keys with SAOEMetrics,
+                # but the values do not necessarily have the annotated type.
+                # Some values could be vectorized (e.g., exec_vol).
+                stock_id=self.order.stock_id,
+                datetime=time_index,
+                direction=self.order.direction,
+                market_volume=self.market_vol,
+                market_price=self.market_price,
+                amount=exec_vol,
+                inner_amount=exec_vol,
+                deal_amount=exec_vol,
+                trade_price=self.market_price,
+                trade_value=self.market_price * exec_vol,
+                position=ticks_position,
+                ffr=exec_vol / self.order.amount,
+                pa=price_advantage(self.market_price, self.twap_price, self.order.direction),
+            ),
+        )
+
+        self.history_steps = self._dataframe_append(
+            self.history_steps,
+            [self._metrics_collect(self.cur_time, self.market_vol, self.market_price, amount, exec_vol)],
+        )
+
+        if self.done():
+            if self.env is not None:
+                self.env.logger.add_any("history_steps", self.history_steps, loglevel=LogLevel.DEBUG)
+                self.env.logger.add_any("history_exec", self.history_exec, loglevel=LogLevel.DEBUG)
+
+            self.metrics = self._metrics_collect(
+                self.ticks_index[0],  # start time
+                self.history_exec["market_volume"],
+                self.history_exec["market_price"],
+                self.history_steps["amount"].sum(),
+                self.history_exec["deal_amount"],
+            )
+
+            # NOTE (yuge): It looks to me that it's the "correct" decision to
+            # put all the logs here, because only components like simulators themselves
+            # have the knowledge about what could appear in the logs, and what's the format.
+            # But I admit it's not necessarily the most convenient way.
+            # I'll rethink about it when we have the second environment
+            # Maybe some APIs like self.logger.enable_auto_log() ?
+
+            if self.env is not None:
+                for key, value in self.metrics.items():
+                    if isinstance(value, float):
+                        self.env.logger.add_scalar(key, value)
+                    else:
+                        self.env.logger.add_any(key, value)
+
+        self.cur_time = self._next_time()
+        self.cur_step += 1
+
+    def get_state(self) -> SAOEState:
+        return SAOEState(
+            order=self.order,
+            cur_time=self.cur_time,
+            cur_step=self.cur_step,
+            position=self.position,
+            history_exec=self.history_exec,
+            history_steps=self.history_steps,
+            metrics=self.metrics,
+            backtest_data=self.backtest_data,
+            ticks_per_step=self.ticks_per_step,
+            ticks_index=self.ticks_index,
+            ticks_for_order=self.ticks_for_order,
+        )
+
+    def done(self) -> bool:
+        return self.position < EPS or self.cur_time >= self.order.end_time
+
+    def _next_time(self) -> pd.Timestamp:
+        """The "current time" (``cur_time``) for next step."""
+        # Look for next time on time index
+        current_loc = self.ticks_index.get_loc(self.cur_time)
+        next_loc = current_loc + self.ticks_per_step
+
+        # Calibrate the next location to multiple of ticks_per_step.
+        # This is to make sure that:
+        # as long as ticks_per_step is a multiple of something, each step won't cross morning and afternoon.
+        next_loc = next_loc - next_loc % self.ticks_per_step
+
+        if next_loc < len(self.ticks_index) and self.ticks_index[next_loc] < self.order.end_time:
+            return self.ticks_index[next_loc]
+        else:
+            return self.order.end_time
+
+    def _cur_duration(self) -> pd.Timedelta:
+        """The "duration" of this step (step that is about to happen)."""
+        return self._next_time() - self.cur_time
+
+    def _split_exec_vol(self, exec_vol_sum: float) -> np.ndarray:
+        """
+        Split the volume in each step into minutes, considering possible constraints.
+        This follows TWAP strategy.
+        """
+        next_time = self._next_time()
+
+        # get the backtest data for next interval
+        self.market_vol = self.backtest_data.get_volume().loc[self.cur_time : next_time - EPS_T].to_numpy()
+        self.market_price = self.backtest_data.get_deal_price().loc[self.cur_time : next_time - EPS_T].to_numpy()
+
+        assert self.market_vol is not None and self.market_price is not None
+
+        # split the volume equally into each minute
+        exec_vol = np.repeat(exec_vol_sum / len(self.market_price), len(self.market_price))
+
+        # apply the volume threshold
+        market_vol_limit = self.vol_threshold * self.market_vol if self.vol_threshold is not None else np.inf
+        exec_vol = np.minimum(exec_vol, market_vol_limit)  # type: ignore
+
+        # Complete all the order amount at the last moment.
+        if next_time >= self.order.end_time:
+            exec_vol[-1] += self.position - exec_vol.sum()
+            exec_vol = np.minimum(exec_vol, market_vol_limit)  # type: ignore
+
+        return exec_vol
+
+    def _metrics_collect(
+        self,
+        datetime: pd.Timestamp,
+        market_vol: np.ndarray,
+        market_price: np.ndarray,
+        amount: float,  # intended to trade such amount
+        exec_vol: np.ndarray,
+    ) -> SAOEMetrics:
+        assert len(market_vol) == len(market_price) == len(exec_vol)
+
+        if np.abs(np.sum(exec_vol)) < EPS:
+            exec_avg_price = 0.0
+        else:
+            exec_avg_price = cast(float, np.average(market_price, weights=exec_vol))  # could be nan
+            if hasattr(exec_avg_price, "item"):  # could be numpy scalar
+                exec_avg_price = exec_avg_price.item()  # type: ignore
+
+        return SAOEMetrics(
+            stock_id=self.order.stock_id,
+            datetime=datetime,
+            direction=self.order.direction,
+            market_volume=market_vol.sum(),
+            market_price=market_price.mean(),
+            amount=amount,
+            inner_amount=exec_vol.sum(),
+            deal_amount=exec_vol.sum(),  # in this simulator, there's no other restrictions
+            trade_price=exec_avg_price,
+            trade_value=float(np.sum(market_price * exec_vol)),
+            position=self.position,
+            ffr=float(exec_vol.sum() / self.order.amount),
+            pa=price_advantage(exec_avg_price, self.twap_price, self.order.direction),
+        )
+
+    def _get_ticks_slice(self, start: pd.Timestamp, end: pd.Timestamp, include_end: bool = False) -> pd.DatetimeIndex:
+        if not include_end:
+            end = end - EPS_T
+        return self.ticks_index[self.ticks_index.slice_indexer(start, end)]
+
+    @staticmethod
+    def _dataframe_append(df: pd.DataFrame, other: Any) -> pd.DataFrame:
+        # dataframe.append is deprecated
+        other_df = pd.DataFrame(other).set_index("datetime")
+        other_df.index.name = "datetime"
+        return pd.concat([df, other_df], axis=0)
+
+
+def price_advantage(
+    exec_price: float_or_ndarray,
+    baseline_price: float,
+    direction: OrderDir | int,
+) -> float_or_ndarray:
+    if baseline_price == 0:  # something is wrong with data. Should be nan here
+        if isinstance(exec_price, float):
+            return 0.0
+        else:
+            return np.zeros_like(exec_price)
+    if direction == OrderDir.BUY:
+        res = (1 - exec_price / baseline_price) * 10000
+    elif direction == OrderDir.SELL:
+        res = (exec_price / baseline_price - 1) * 10000
+    else:
+        raise ValueError(f"Unexpected order direction: {direction}")
+    res_wo_nan: np.ndarray = np.nan_to_num(res, nan=0.0)
+    if res_wo_nan.size == 1:
+        return res_wo_nan.item()
+    else:
+        return cast(float_or_ndarray, res_wo_nan)

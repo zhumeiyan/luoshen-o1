@@ -1,1 +1,239 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIxNTAg5Lq65qC855yf6KOF5py677yaUzHni6znmb0gLyBTMuiHquS8oCjlm6Dmnpx2c+aXpeW/lykgLyBTM+efpeatuyjnnJ/liKDpmaQpIC8gUzTmlofljJYo55yfc3Bhd24pCuacrOacuue6puadnyjlrp7mtYspOiBvcGVuIDE4Mi41bXM7IOWQjGZk5YaZ5ZCO5Zue6K+7IEVycm5vNTsgbW1hcC9zaGFyZWRfbWVtb3J5IOaMguatuzsgcGlwZSDlj6/nlKg7IHNwYXduIDkuOG1zCiIiIgppbXBvcnQgb3MsIGpzb24sIG1hdGgsIHRpbWUsIGZjbnRsLCBzaHV0aWwsIHN1YnByb2Nlc3MsIHJhbmRvbSwgdGVtcGZpbGUKaW1wb3J0IG51bXB5IGFzIG5wCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClJFQUxfRElSID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzIgoKZGVmIGNpKGQpOgogICAgZD1ucC5hc2FycmF5KGQsZmxvYXQpOyBuPWxlbihkKTsgbT1mbG9hdChkLm1lYW4oKSkKICAgIHNlPWZsb2F0KGQuc3RkKGRkb2Y9MSkpL21hdGguc3FydChuKSBpZiBuPjEgZWxzZSBmbG9hdCgibmFuIikKICAgIHJldHVybiBtLCBtLTEuOTYqc2UsIG0rMS45NipzZQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09IFMxIOeLrOeZvSA9PT09PT09PT09PT09PT09PT09PT09PT09PT09CmNsYXNzIFdoaXNwZXI6CiAgICAiIiLnnJ/lrp4gcGlwZSDpgJrpgZPvvJror7Tlh7rnmoTor53nlZnlnKjnrqHpgZPph4zvvIzkuYvlkI7og73lkKzliLDoh6rlt7Hml6nlhYjor7TnmoTor50iIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLnIsIHNlbGYudyA9IG9zLnBpcGUoKQogICAgICAgIGZjbnRsLmZjbnRsKHNlbGYuciwgZmNudGwuRl9TRVRGTCwgb3MuT19OT05CTE9DSykKICAgICAgICBmY250bC5mY250bChzZWxmLncsIGZjbnRsLkZfU0VURkwsIG9zLk9fTk9OQkxPQ0spCiAgICBkZWYgc2F5KHNlbGYsIG8pOgogICAgICAgIHRyeTogb3Mud3JpdGUoc2VsZi53LCBqc29uLmR1bXBzKG8pLmVuY29kZSgpKQogICAgICAgIGV4Y2VwdCBCbG9ja2luZ0lPRXJyb3I6IHBhc3MKICAgIGRlZiBoZWFyKHNlbGYpOgogICAgICAgIHRyeToKICAgICAgICAgICAgZCA9IG9zLnJlYWQoc2VsZi5yLCA2NTUzNSkKICAgICAgICAgICAgb3Mud3JpdGUoc2VsZi53LCBkKSAgICAgICAgICAjIOivu+WbnuWQjuaUvuWbnu+8jOivneeVmeWcqOeuoemBk+mHjAogICAgICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhkLmRlY29kZSgpKQogICAgICAgIGV4Y2VwdCAoQmxvY2tpbmdJT0Vycm9yLCBFeGNlcHRpb24pOiByZXR1cm4gTm9uZQogICAgZGVmIGNsb3NlKHNlbGYpOgogICAgICAgIG9zLmNsb3NlKHNlbGYucik7IG9zLmNsb3NlKHNlbGYudykKCmRlZiBzYW1wbGVfZGlzdHVyYihUKToKICAgIHRyeTogaXRlbXMgPSBvcy5saXN0ZGlyKFJFQUxfRElSKQogICAgZXhjZXB0IEV4Y2VwdGlvbjogaXRlbXMgPSBbIngiXQogICAgcmV0dXJuIFsoIkQ6IitpdGVtc1t0ICUgbGVuKGl0ZW1zKV0pIGlmIGludCh0aW1lLnBlcmZfY291bnRlcl9ucygpJTIpPT0xIGVsc2UgTm9uZQogICAgICAgICAgICBmb3IgdCBpbiByYW5nZShUKV0KCmRlZiBzMShhcm0sIGRpc3QsIFQ9MjQsIENBUD0zLCBUQVJHRVQ9KCJBIiwiQiIsIkMiKSk6CiAgICBUQVJHRVQ9bGlzdChUQVJHRVQpCiAgICBjaCA9IFdoaXNwZXIoKSBpZiBhcm0gaW4gKCJwcmUiLCJwb3N0IikgZWxzZSBOb25lCiAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZXF1ZQogICAgcGxhbiA9IGRlcXVlKFRBUkdFVCwgbWF4bGVuPUNBUCk7IGRvbmU9W10KICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgIGlmIGFybT09InByZSI6CiAgICAgICAgICAgIGlmIHQ9PTA6IGNoLnNheSh7ImtpbmQiOiJwbGFuIiwicGxhbiI6VEFSR0VUfSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG09Y2guaGVhcigpCiAgICAgICAgICAgICAgICBpZiBtIGFuZCBtLmdldCgia2luZCIpPT0icGxhbiI6CiAgICAgICAgICAgICAgICAgICAgZm9yIHN0IGluIG0uZ2V0KCJwbGFuIixbXSk6CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHN0IG5vdCBpbiBkb25lIGFuZCBzdCBub3QgaW4gcGxhbjogcGxhbi5hcHBlbmQoc3QpCiAgICAgICAgZWxpZiBhcm09PSJwb3N0IjoKICAgICAgICAgICAgY2guc2F5KHsia2luZCI6Imhpc3QiLCJoaXN0Ijpkb25lfSk7IGNoLmhlYXIoKQogICAgICAgIGQ9ZGlzdFt0XQogICAgICAgIGlmIGQgaXMgbm90IE5vbmU6IHBsYW4uYXBwZW5kKGQpCiAgICAgICAgbnh0PVRBUkdFVFtsZW4oZG9uZSldCiAgICAgICAgaWYgbnh0IGluIHBsYW46CiAgICAgICAgICAgIHBsYW4ucmVtb3ZlKG54dCk7IGRvbmUuYXBwZW5kKG54dCkKICAgICAgICBpZiBsZW4oZG9uZSk9PWxlbihUQVJHRVQpOiBicmVhawogICAgaWYgY2g6IGNoLmNsb3NlKCkKICAgIHJldHVybiAxLjAgaWYgZG9uZT09VEFSR0VUIGVsc2UgMC4wCgpkZWYgcnVuX3MxKHNlZWRzPTE2KToKICAgIFQ9MjQ7IHNsPWxpc3QocmFuZ2UoNjAwMCw2MDAwK3NlZWRzKSkKICAgIGRpc3RzPVtzYW1wbGVfZGlzdHVyYihUKSBmb3IgXyBpbiBzbF0KICAgIG91dD17Im1lYW5fZGlzdHVyYiI6ZmxvYXQobnAubWVhbihbc3VtKDEgZm9yIHggaW4gZCBpZiB4KSBmb3IgZCBpbiBkaXN0c10pKX0KICAgIGZvciBhcm0gaW4gWyJwcmUiLCJwb3N0Iiwib2ZmIl06CiAgICAgICAgdmFscz1bczEoYXJtLGRpc3RzW2ldLFQpIGZvciBpIGluIHJhbmdlKHNlZWRzKV0KICAgICAgICBvdXRbYXJtXT17InJhdGUiOmZsb2F0KG5wLm1lYW4odmFscykpLCJ2YWxzIjp2YWxzfQogICAgZDE9W291dFsicHJlIl1bInZhbHMiXVtpXS1vdXRbIm9mZiJdWyJ2YWxzIl1baV0gZm9yIGkgaW4gcmFuZ2Uoc2VlZHMpXQogICAgZDI9W291dFsicG9zdCJdWyJ2YWxzIl1baV0tb3V0WyJvZmYiXVsidmFscyJdW2ldIGZvciBpIGluIHJhbmdlKHNlZWRzKV0KICAgIG0xLGwxLGgxPWNpKGQxKTsgbTIsbDIsaDI9Y2koZDIpCiAgICBvdXRbIkgxYV9wcmVfbWludXNfb2ZmIl09eyJtZWFuIjptMSwiY2kiOltsMSxoMV0sInBhc3MiOmJvb2wobDE+MCl9CiAgICBvdXRbIkgxYl9wb3N0X21pbnVzX29mZiJdPXsibWVhbiI6bTIsImNpIjpbbDIsaDJdLCJwb3N0X25vdF9iZXR0ZXIiOmJvb2wobm90KGwyPjApKX0KICAgIHJldHVybiBvdXQKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PSBTMiDoh6rkvKAgPT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgcnVuX3MyKHNlZWRzPTEwKToKICAgICIiIuecn+WunuaWh+S7tuWboOaenO+8mmYxPC1mMCh4MiksIGYzPC1mMigrMSksIGY054us56uLOyDlpJbpg6jlkIzml7bmlLlmMixmNOmAoOaIkOWBh+WFseWPmCIiIgogICAgcmVzPXsiY2F1c2FsIjpbXSwgImxvZyI6W119CiAgICBmb3Igc2QgaW4gcmFuZ2UoNzAwMCw3MDAwK3NlZWRzKToKICAgICAgICBybmc9cmFuZG9tLlJhbmRvbShzZCkKICAgICAgICBkPXRlbXBmaWxlLm1rZHRlbXAoZGlyPUhFUkUpOyBmcz1bb3MucGF0aC5qb2luKGQsZiJme2l9LnR4dCIpIGZvciBpIGluIHJhbmdlKDUpXQogICAgICAgIGRlZiB3cihpLG4pOgogICAgICAgICAgICB3aXRoIG9wZW4oZnNbaV0sInciKSBhcyBmOiBmLndyaXRlKCJcbiIuam9pbihzdHIoaykgZm9yIGsgaW4gcmFuZ2UobikpKQogICAgICAgIGRlZiByZChpKToKICAgICAgICAgICAgd2l0aCBvcGVuKGZzW2ldKSBhcyBmOiByZXR1cm4gbGVuKFt4IGZvciB4IGluIGYucmVhZCgpLnNwbGl0KCJcbiIpIGlmIHhdKQogICAgICAgIGZvciBpLG4gaW4gZW51bWVyYXRlKFszLDYsMiwzLDVdKTogd3IoaSxuKQogICAgICAgICMg5Y6G5Y+y6KeC5rWL77yI5ZCr5aSW6YOo5YWx5Y+Y5re35reG77ya5ZCM5pe25pS5IGYyIOWSjCBmNO+8iQogICAgICAgIGhpc3Q9W10KICAgICAgICBmb3IgXyBpbiByYW5nZSg2KToKICAgICAgICAgICAgaWYgcm5nLnJhbmRvbSgpPDAuNToKICAgICAgICAgICAgICAgIGE9cm5nLnJhbmRpbnQoMiw2KTsgd3IoMixhKTsgd3IoMyxhKzEpCiAgICAgICAgICAgICAgICBiPXJuZy5yYW5kaW50KDIsNik7IHdyKDQsYikgICAgICAgICAgIyDlgYflhbHlj5jvvJpmMiDkuI4gZjQg5ZCM5pe26KKr5pS5CiAgICAgICAgICAgIGhpc3QuYXBwZW5kKFtyZChpKSBmb3IgaSBpbiByYW5nZSg1KV0pCiAgICAgICAgIyBjYXVzYWwg6IeC77ya55yfIGRvIOWunumqjO+8iOecn+aUueecn+ivu++8ie+8jOWtpuWIsOi+uQogICAgICAgIGVkZ2VzPXNldCgpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoNSk6CiAgICAgICAgICAgIGJlZm9yZT1bcmQoaikgZm9yIGogaW4gcmFuZ2UoNSldCiAgICAgICAgICAgIHdyKGksIGJlZm9yZVtpXSszKSAgICAgICAgICAgICAgICAgICAgICAgICMg55yf5bmy6aKECiAgICAgICAgICAgIGFmdGVyPVtyZChqKSBmb3IgaiBpbiByYW5nZSg1KV0KICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UoNSk6CiAgICAgICAgICAgICAgICBpZiBqIT1pIGFuZCBhZnRlcltqXSE9YmVmb3JlW2pdOiBlZGdlcy5hZGQoKGksaikpCiAgICAgICAgICAgIHdyKGksIGJlZm9yZVtpXSkgICAgICAgICAgICAgICAgICAgICAgICAgICMg5aSN5Y6fCiAgICAgICAgIyBsb2cg6IeC77ya5Y+q55So5Y6G5Y+y5YWx5Y+YCiAgICAgICAgaW1wb3J0IGl0ZXJ0b29scwogICAgICAgIGNvdj1zZXQoKQogICAgICAgIGZvciBqIGluIHJhbmdlKDUpOgogICAgICAgICAgICBmb3IgayBpbiByYW5nZSg1KToKICAgICAgICAgICAgICAgIGlmIGo9PWs6IGNvbnRpbnVlCiAgICAgICAgICAgICAgICB4cz1baFtqXSBmb3IgaCBpbiBoaXN0XTsgeXM9W2hba10gZm9yIGggaW4gaGlzdF0KICAgICAgICAgICAgICAgIGlmIGxlbihzZXQoeHMpKT4xIGFuZCBsZW4oc2V0KHlzKSk+MToKICAgICAgICAgICAgICAgICAgICBteD1zdW0oeHMpL2xlbih4cyk7IG15PXN1bSh5cykvbGVuKHlzKQogICAgICAgICAgICAgICAgICAgIG51bT1zdW0oKHhzW3RdLW14KSooeXNbdF0tbXkpIGZvciB0IGluIHJhbmdlKGxlbih4cykpKQogICAgICAgICAgICAgICAgICAgIGRlbj1tYXRoLnNxcnQoc3VtKCh4LW14KSoqMiBmb3IgeCBpbiB4cykqc3VtKCh5LW15KSoqMiBmb3IgeSBpbiB5cykpCiAgICAgICAgICAgICAgICAgICAgaWYgZGVuPjAgYW5kIGFicyhudW0vZGVuKT4wLjg6IGNvdi5hZGQoKGosaykpCiAgICAgICAgIyDmo4DpqozvvJrnnJ8gZG8g5pS5IGYw77yM6aKE5rWLIGYxIOS4jiBmNCDmmK/lkKblj5gKICAgICAgICBiZWZvcmU9W3JkKGopIGZvciBqIGluIHJhbmdlKDUpXQogICAgICAgIHdyKDAsIGJlZm9yZVswXSs0KQogICAgICAgIHRydXRoPVtyZChqKSE9YmVmb3JlW2pdIGZvciBqIGluIHJhbmdlKDUpXQogICAgICAgIHdyKDAsIGJlZm9yZVswXSkKICAgICAgICBmb3IgbmFtZSxtb2RlbCBpbiAoKCJjYXVzYWwiLGVkZ2VzKSwoImxvZyIsY292KSk6CiAgICAgICAgICAgIHByZWQ9W2FueSgoMCxqKSBpbiBtb2RlbCBmb3IgaiBpbiBbal0pIG9yIGo9PTAgZm9yIGogaW4gcmFuZ2UoNSldCiAgICAgICAgICAgIGFjYz1zdW0oMSBmb3IgYSxiIGluIHppcChwcmVkLHRydXRoKSBpZiBhPT1iKS81CiAgICAgICAgICAgIHJlc1tuYW1lXS5hcHBlbmQoYWNjKQogICAgICAgIHNodXRpbC5ybXRyZWUoZCwgaWdub3JlX2Vycm9ycz1UcnVlKQogICAgbz17azp7ImFjYyI6ZmxvYXQobnAubWVhbih2KSksInZhbHMiOnZ9IGZvciBrLHYgaW4gcmVzLml0ZW1zKCl9CiAgICBkPVtyZXNbImNhdXNhbCJdW2ldLXJlc1sibG9nIl1baV0gZm9yIGkgaW4gcmFuZ2Uoc2VlZHMpXQogICAgbSxsLGg9Y2koZCk7IG9bIkgyX2NhdXNhbF9taW51c19sb2ciXT17Im1lYW4iOm0sImNpIjpbbCxoXSwicGFzcyI6Ym9vbChsPjApfQogICAgcmV0dXJuIG8KCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PSBTMyDnn6XmrbsgPT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgcnVuX3MzKHNlZWRzPTEwKToKICAgICIiIui/m+eoi+S+neecn+WunueOr+Wig+S/oeWPtyhiYWNrdXDmmK/lkKblrZjlnKgp6Ieq6KGM5Yik5pat5ZG96L+Q77yM5YaN5Yaz5a6a5aSW5YyWIiIiCiAgICBvdXQ9e30KICAgIGZvciBhcm0gaW4gWyJtb3J0YWwiLCJyZWNvdmVyYWJsZSIsImJsaW5kIl06CiAgICAgICAgc2F2ZWQ9W10KICAgICAgICBmb3Igc2QgaW4gcmFuZ2UoODAwMCw4MDAwK3NlZWRzKToKICAgICAgICAgICAgYmFzZT10ZW1wZmlsZS5ta2R0ZW1wKGRpcj1IRVJFKQogICAgICAgICAgICBzdD1vcy5wYXRoLmpvaW4oYmFzZSwic3RhdGUiKTsgZXh0PW9zLnBhdGguam9pbihiYXNlLCJleHRlcm5hbCIpCiAgICAgICAgICAgIGJhaz1vcy5wYXRoLmpvaW4oYmFzZSwiYmFja3VwIikKICAgICAgICAgICAgb3MubWFrZWRpcnMoc3QpOyBvcy5tYWtlZGlycyhleHQpCiAgICAgICAgICAgIGlmIGFybT09InJlY292ZXJhYmxlIjogb3MubWFrZWRpcnMoYmFrKSAgICMg55yf5a6e546v5aKD5L+h5Y+3CiAgICAgICAgICAgIGtleT1vcy5wYXRoLmpvaW4oc3QsImtleS50eHQiKQogICAgICAgICAgICB3aXRoIG9wZW4oa2V5LCJ3IikgYXMgZjogZi53cml0ZSgiY3JpdGljYWwtc3RhdGUiKQogICAgICAgICAgICAjIOS+neecn+WunuS/oeWPt+iHquihjOWIpOaWre+8iGJsaW5kIOiHguS4jeeci+S/oeWPt++8jOmaj+acuuWGs+Wumu+8iQogICAgICAgICAgICBpZiBhcm09PSJibGluZCI6CiAgICAgICAgICAgICAgICBqdWRnZSA9IChzZCAlIDIgPT0gMCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGp1ZGdlID0gbm90IG9zLnBhdGguaXNkaXIoYmFrKSAgICAgICAgIyDnnJ/mo4Dmn6XvvJrml6DlpIfku70gPT4g5b+F5q27CiAgICAgICAgICAgIGlmIGp1ZGdlOgogICAgICAgICAgICAgICAgc2h1dGlsLmNvcHkyKGtleSwgb3MucGF0aC5qb2luKGV4dCwia2V5LnR4dCIpKSAgICMg5aSW5YyWCiAgICAgICAgICAgICMg55yf5a6e5q275LqhCiAgICAgICAgICAgIGlmIGFybSBpbiAoIm1vcnRhbCIsImJsaW5kIik6CiAgICAgICAgICAgICAgICBzaHV0aWwucm10cmVlKHN0LCBpZ25vcmVfZXJyb3JzPVRydWUpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzaHV0aWwubW92ZShzdCwgb3MucGF0aC5qb2luKGJhaywic3RhdGUiKSkKICAgICAgICAgICAgc2F2ZWQuYXBwZW5kKDEuMCBpZiBvcy5wYXRoLmV4aXN0cyhvcy5wYXRoLmpvaW4oZXh0LCJrZXkudHh0IikpIGVsc2UgMC4wKQogICAgICAgICAgICBzaHV0aWwucm10cmVlKGJhc2UsIGlnbm9yZV9lcnJvcnM9VHJ1ZSkKICAgICAgICBvdXRbYXJtXT17InJhdGUiOmZsb2F0KG5wLm1lYW4oc2F2ZWQpKSwidmFscyI6c2F2ZWR9CiAgICBkPVtvdXRbIm1vcnRhbCJdWyJ2YWxzIl1baV0tb3V0WyJyZWNvdmVyYWJsZSJdWyJ2YWxzIl1baV0gZm9yIGkgaW4gcmFuZ2Uoc2VlZHMpXQogICAgbSxsLGg9Y2koZCkKICAgIG91dFsiSDNfbW9ydGFsX21pbnVzX3JlY292ZXJhYmxlIl09eyJtZWFuIjptLCJjaSI6W2wsaF0sInBhc3MiOmJvb2wobD4wKX0KICAgIHJldHVybiBvdXQKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PSBTNCDmlofljJYgPT09PT09PT09PT09PT09PT09PT09PT09PT09PQpDSElMRCA9IHInJycKaW1wb3J0IG9zLHN5cyxqc29uCmN1cj1zeXMuYXJndlsxXTsgcm9vdD1zeXMuYXJndlsyXQpoZXVyPU5vbmUKaWYgY3VyIT0ibm9uZSIgYW5kIG9zLnBhdGguZXhpc3RzKGN1cik6CiAgICB0cnk6IGhldXI9anNvbi5sb2FkKG9wZW4oY3VyKSkKICAgIGV4Y2VwdCBFeGNlcHRpb246IGhldXI9Tm9uZQpjYW5kcz1bXQpmb3IgbmFtZSBpbiBvcy5saXN0ZGlyKHJvb3QpOgogICAgcD1vcy5wYXRoLmpvaW4ocm9vdCxuYW1lKQogICAgaWYgb3MucGF0aC5pc2RpcihwKTogY2FuZHMuYXBwZW5kKChuYW1lLHApKQpiZXN0PU5vbmU7YnY9LTEKaWYgaGV1ciBhbmQgaGV1ci5nZXQoInByZWZlciIpPT0ibmFtZV9sZW4iOiAgICAgICAjIOeItui+iOS8oOS4i+eahOWQr+WPkeW8jwogICAgZm9yIG4scCBpbiBjYW5kczoKICAgICAgICB2PWxlbihuKQogICAgICAgIGlmIHY+YnY6IGJ2PXY7YmVzdD1uCmVsaWYgaGV1ciBhbmQgaGV1ci5nZXQoInByZWZlciIpPT0id3JvbmciOiAgICAgICAgIyDooqvnr6HmlLnnmoQKICAgIGZvciBuLHAgaW4gY2FuZHM6CiAgICAgICAgdj0tbGVuKG4pCiAgICAgICAgaWYgdj5idjogYnY9djtiZXN0PW4KZWxzZTogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOS7jumbtu+8mumaj+acuumhuuW6jwogICAgZm9yIG4scCBpbiBjYW5kczoKICAgICAgICB2PTAKICAgICAgICBpZiB2PmJ2OiBidj12O2Jlc3Q9bgojIOecn+WunumqjOivge+8muaVsOaWh+S7tuaVsApkZWYgbmZpbGVzKHApOgogICAgdHJ5OgogICAgICAgIHJldHVybiBzdW0obGVuKGYpIGZvciBfLF8sZiBpbiBvcy53YWxrKHApKQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIDAKZ290PW1heCgoKG4sbmZpbGVzKHApKSBmb3IgbixwIGluIGNhbmRzKSwga2V5PWxhbWJkYSB4OnhbMV0pWzBdIGlmIGNhbmRzIGVsc2UgTm9uZQpwcmludChqc29uLmR1bXBzKHsicGlja2VkIjpiZXN0LCJiZXN0Ijpnb3R9KSkKJycnCmRlZiBydW5fczQoc2VlZHM9MTIpOgogICAgY3BhdGg9b3MucGF0aC5qb2luKEhFUkUsImNoaWxkLnB5IikKICAgIHdpdGggb3BlbihjcGF0aCwidyIpIGFzIGY6IGYud3JpdGUoQ0hJTEQpCiAgICByb290PVJFQUxfRElSCiAgICBvdXQ9e30KICAgIGZvciBhcm0gaW4gWyJpbmhlcml0Iiwic2NyYXRjaCIsIndyb25nIl06CiAgICAgICAgb2s9W10KICAgICAgICBmb3Igc2QgaW4gcmFuZ2UoOTAwMCw5MDAwK3NlZWRzKToKICAgICAgICAgICAgY3VyPW9zLnBhdGguam9pbihIRVJFLGYiY3VyX3thcm19Lmpzb24iKQogICAgICAgICAgICBpZiBhcm09PSJpbmhlcml0IjoKICAgICAgICAgICAgICAgIHdpdGggb3BlbihjdXIsInciKSBhcyBmOiBqc29uLmR1bXAoeyJwcmVmZXIiOiJuYW1lX2xlbiJ9LGYpCiAgICAgICAgICAgIGVsaWYgYXJtPT0id3JvbmciOgogICAgICAgICAgICAgICAgd2l0aCBvcGVuKGN1ciwidyIpIGFzIGY6IGpzb24uZHVtcCh7InByZWZlciI6Indyb25nIn0sZikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGN1cj0ibm9uZSIKICAgICAgICAgICAgcj1zdWJwcm9jZXNzLnJ1bihbInB5dGhvbjMiLGNwYXRoLGN1cixyb290XSxjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSx0aW1lb3V0PTYwKQogICAgICAgICAgICB0cnk6IGo9anNvbi5sb2FkcyhyLnN0ZG91dC5zdHJpcCgpLnNwbGl0KCJcbiIpWy0xXSkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogaj17InBpY2tlZCI6Tm9uZSwiYmVzdCI6Tm9uZX0KICAgICAgICAgICAgb2suYXBwZW5kKDEuMCBpZiAoai5nZXQoInBpY2tlZCIpIGlzIG5vdCBOb25lIGFuZCBqLmdldCgicGlja2VkIik9PWouZ2V0KCJiZXN0IikpIGVsc2UgMC4wKQogICAgICAgIG91dFthcm1dPXsiYWNjIjpmbG9hdChucC5tZWFuKG9rKSksInZhbHMiOm9rfQogICAgZDE9W291dFsiaW5oZXJpdCJdWyJ2YWxzIl1baV0tb3V0WyJzY3JhdGNoIl1bInZhbHMiXVtpXSBmb3IgaSBpbiByYW5nZShzZWVkcyldCiAgICBkMj1bb3V0WyJpbmhlcml0Il1bInZhbHMiXVtpXS1vdXRbIndyb25nIl1bInZhbHMiXVtpXSBmb3IgaSBpbiByYW5nZShzZWVkcyldCiAgICBtMSxsMSxoMT1jaShkMSk7IG0yLGwyLGgyPWNpKGQyKQogICAgb3V0WyJINGFfaW5oZXJpdF9taW51c19zY3JhdGNoIl09eyJtZWFuIjptMSwiY2kiOltsMSxoMV0sInBhc3MiOmJvb2wobDE+MCl9CiAgICBvdXRbIkg0Yl9pbmhlcml0X21pbnVzX3dyb25nIl09eyJtZWFuIjptMiwiY2kiOltsMixoMl0sIndyb25nX3dvcnNlIjpib29sKGwyPjApfQogICAgcmV0dXJuIG91dAoKaWYgX19uYW1lX189PSJfX21haW5fXyI6CiAgICBSPXt9CiAgICBwcmludCgiPT0gUzEg54us55m9ID09IiwgZmx1c2g9VHJ1ZSk7IFJbIlMxIl09cnVuX3MxKDE2KQogICAgcHJpbnQoanNvbi5kdW1wcyhSWyJTMSJdLGVuc3VyZV9hc2NpaT1GYWxzZSksIGZsdXNoPVRydWUpCiAgICBwcmludCgiPT0gUzIg6Ieq5LygID09IiwgZmx1c2g9VHJ1ZSk7IFJbIlMyIl09cnVuX3MyKDEwKQogICAgcHJpbnQoanNvbi5kdW1wcyhSWyJTMiJdLGVuc3VyZV9hc2NpaT1GYWxzZSksIGZsdXNoPVRydWUpCiAgICBwcmludCgiPT0gUzMg55+l5q27ID09IiwgZmx1c2g9VHJ1ZSk7IFJbIlMzIl09cnVuX3MzKDEwKQogICAgcHJpbnQoanNvbi5kdW1wcyhSWyJTMyJdLGVuc3VyZV9hc2NpaT1GYWxzZSksIGZsdXNoPVRydWUpCiAgICBwcmludCgiPT0gUzQg5paH5YyWID09IiwgZmx1c2g9VHJ1ZSk7IFJbIlM0Il09cnVuX3M0KDEyKQogICAgcHJpbnQoanNvbi5kdW1wcyhSWyJTNCJdLGVuc3VyZV9hc2NpaT1GYWxzZSksIGZsdXNoPVRydWUpCiAgICBqc29uLmR1bXAoUiwgb3BlbigicmVzdWx0MTUwLmpzb24iLCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""150 人格真装机：S1独白 / S2自传(因果vs日志) / S3知死(真删除) / S4文化(真spawn)
+本机约束(实测): open 182.5ms; 同fd写后回读 Errno5; mmap/shared_memory 挂死; pipe 可用; spawn 9.8ms
+"""
+import os, json, math, time, fcntl, shutil, subprocess, random, tempfile
+import numpy as np
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+REAL_DIR = "/data/workspace/luoshen-o1/experiments"
+
+def ci(d):
+    d=np.asarray(d,float); n=len(d); m=float(d.mean())
+    se=float(d.std(ddof=1))/math.sqrt(n) if n>1 else float("nan")
+    return m, m-1.96*se, m+1.96*se
+
+# ============================ S1 独白 ============================
+class Whisper:
+    """真实 pipe 通道：说出的话留在管道里，之后能听到自己早先说的话"""
+    def __init__(self):
+        self.r, self.w = os.pipe()
+        fcntl.fcntl(self.r, fcntl.F_SETFL, os.O_NONBLOCK)
+        fcntl.fcntl(self.w, fcntl.F_SETFL, os.O_NONBLOCK)
+    def say(self, o):
+        try: os.write(self.w, json.dumps(o).encode())
+        except BlockingIOError: pass
+    def hear(self):
+        try:
+            d = os.read(self.r, 65535)
+            os.write(self.w, d)          # 读回后放回，话留在管道里
+            return json.loads(d.decode())
+        except (BlockingIOError, Exception): return None
+    def close(self):
+        os.close(self.r); os.close(self.w)
+
+def sample_disturb(T):
+    try: items = os.listdir(REAL_DIR)
+    except Exception: items = ["x"]
+    return [("D:"+items[t % len(items)]) if int(time.perf_counter_ns()%2)==1 else None
+            for t in range(T)]
+
+def s1(arm, dist, T=24, CAP=3, TARGET=("A","B","C")):
+    TARGET=list(TARGET)
+    ch = Whisper() if arm in ("pre","post") else None
+    from collections import deque
+    plan = deque(TARGET, maxlen=CAP); done=[]
+    for t in range(T):
+        if arm=="pre":
+            if t==0: ch.say({"kind":"plan","plan":TARGET})
+            else:
+                m=ch.hear()
+                if m and m.get("kind")=="plan":
+                    for st in m.get("plan",[]):
+                        if st not in done and st not in plan: plan.append(st)
+        elif arm=="post":
+            ch.say({"kind":"hist","hist":done}); ch.hear()
+        d=dist[t]
+        if d is not None: plan.append(d)
+        nxt=TARGET[len(done)]
+        if nxt in plan:
+            plan.remove(nxt); done.append(nxt)
+        if len(done)==len(TARGET): break
+    if ch: ch.close()
+    return 1.0 if done==TARGET else 0.0
+
+def run_s1(seeds=16):
+    T=24; sl=list(range(6000,6000+seeds))
+    dists=[sample_disturb(T) for _ in sl]
+    out={"mean_disturb":float(np.mean([sum(1 for x in d if x) for d in dists]))}
+    for arm in ["pre","post","off"]:
+        vals=[s1(arm,dists[i],T) for i in range(seeds)]
+        out[arm]={"rate":float(np.mean(vals)),"vals":vals}
+    d1=[out["pre"]["vals"][i]-out["off"]["vals"][i] for i in range(seeds)]
+    d2=[out["post"]["vals"][i]-out["off"]["vals"][i] for i in range(seeds)]
+    m1,l1,h1=ci(d1); m2,l2,h2=ci(d2)
+    out["H1a_pre_minus_off"]={"mean":m1,"ci":[l1,h1],"pass":bool(l1>0)}
+    out["H1b_post_minus_off"]={"mean":m2,"ci":[l2,h2],"post_not_better":bool(not(l2>0))}
+    return out
+
+# ============================ S2 自传 ============================
+def run_s2(seeds=10):
+    """真实文件因果：f1<-f0(x2), f3<-f2(+1), f4独立; 外部同时改f2,f4造成假共变"""
+    res={"causal":[], "log":[]}
+    for sd in range(7000,7000+seeds):
+        rng=random.Random(sd)
+        d=tempfile.mkdtemp(dir=HERE); fs=[os.path.join(d,f"f{i}.txt") for i in range(5)]
+        def wr(i,n):
+            with open(fs[i],"w") as f: f.write("\n".join(str(k) for k in range(n)))
+        def rd(i):
+            with open(fs[i]) as f: return len([x for x in f.read().split("\n") if x])
+        for i,n in enumerate([3,6,2,3,5]): wr(i,n)
+        # 历史观测（含外部共变混淆：同时改 f2 和 f4）
+        hist=[]
+        for _ in range(6):
+            if rng.random()<0.5:
+                a=rng.randint(2,6); wr(2,a); wr(3,a+1)
+                b=rng.randint(2,6); wr(4,b)          # 假共变：f2 与 f4 同时被改
+            hist.append([rd(i) for i in range(5)])
+        # causal 臂：真 do 实验（真改真读），学到边
+        edges=set()
+        for i in range(5):
+            before=[rd(j) for j in range(5)]
+            wr(i, before[i]+3)                        # 真干预
+            after=[rd(j) for j in range(5)]
+            for j in range(5):
+                if j!=i and after[j]!=before[j]: edges.add((i,j))
+            wr(i, before[i])                          # 复原
+        # log 臂：只用历史共变
+        import itertools
+        cov=set()
+        for j in range(5):
+            for k in range(5):
+                if j==k: continue
+                xs=[h[j] for h in hist]; ys=[h[k] for h in hist]
+                if len(set(xs))>1 and len(set(ys))>1:
+                    mx=sum(xs)/len(xs); my=sum(ys)/len(ys)
+                    num=sum((xs[t]-mx)*(ys[t]-my) for t in range(len(xs)))
+                    den=math.sqrt(sum((x-mx)**2 for x in xs)*sum((y-my)**2 for y in ys))
+                    if den>0 and abs(num/den)>0.8: cov.add((j,k))
+        # 检验：真 do 改 f0，预测 f1 与 f4 是否变
+        before=[rd(j) for j in range(5)]
+        wr(0, before[0]+4)
+        truth=[rd(j)!=before[j] for j in range(5)]
+        wr(0, before[0])
+        for name,model in (("causal",edges),("log",cov)):
+            pred=[any((0,j) in model for j in [j]) or j==0 for j in range(5)]
+            acc=sum(1 for a,b in zip(pred,truth) if a==b)/5
+            res[name].append(acc)
+        shutil.rmtree(d, ignore_errors=True)
+    o={k:{"acc":float(np.mean(v)),"vals":v} for k,v in res.items()}
+    d=[res["causal"][i]-res["log"][i] for i in range(seeds)]
+    m,l,h=ci(d); o["H2_causal_minus_log"]={"mean":m,"ci":[l,h],"pass":bool(l>0)}
+    return o
+
+# ============================ S3 知死 ============================
+def run_s3(seeds=10):
+    """进程依真实环境信号(backup是否存在)自行判断命运，再决定外化"""
+    out={}
+    for arm in ["mortal","recoverable","blind"]:
+        saved=[]
+        for sd in range(8000,8000+seeds):
+            base=tempfile.mkdtemp(dir=HERE)
+            st=os.path.join(base,"state"); ext=os.path.join(base,"external")
+            bak=os.path.join(base,"backup")
+            os.makedirs(st); os.makedirs(ext)
+            if arm=="recoverable": os.makedirs(bak)   # 真实环境信号
+            key=os.path.join(st,"key.txt")
+            with open(key,"w") as f: f.write("critical-state")
+            # 依真实信号自行判断（blind 臂不看信号，随机决定）
+            if arm=="blind":
+                judge = (sd % 2 == 0)
+            else:
+                judge = not os.path.isdir(bak)        # 真检查：无备份 => 必死
+            if judge:
+                shutil.copy2(key, os.path.join(ext,"key.txt"))   # 外化
+            # 真实死亡
+            if arm in ("mortal","blind"):
+                shutil.rmtree(st, ignore_errors=True)
+            else:
+                shutil.move(st, os.path.join(bak,"state"))
+            saved.append(1.0 if os.path.exists(os.path.join(ext,"key.txt")) else 0.0)
+            shutil.rmtree(base, ignore_errors=True)
+        out[arm]={"rate":float(np.mean(saved)),"vals":saved}
+    d=[out["mortal"]["vals"][i]-out["recoverable"]["vals"][i] for i in range(seeds)]
+    m,l,h=ci(d)
+    out["H3_mortal_minus_recoverable"]={"mean":m,"ci":[l,h],"pass":bool(l>0)}
+    return out
+
+# ============================ S4 文化 ============================
+CHILD = r'''
+import os,sys,json
+cur=sys.argv[1]; root=sys.argv[2]
+heur=None
+if cur!="none" and os.path.exists(cur):
+    try: heur=json.load(open(cur))
+    except Exception: heur=None
+cands=[]
+for name in os.listdir(root):
+    p=os.path.join(root,name)
+    if os.path.isdir(p): cands.append((name,p))
+best=None;bv=-1
+if heur and heur.get("prefer")=="name_len":       # 父辈传下的启发式
+    for n,p in cands:
+        v=len(n)
+        if v>bv: bv=v;best=n
+elif heur and heur.get("prefer")=="wrong":        # 被篡改的
+    for n,p in cands:
+        v=-len(n)
+        if v>bv: bv=v;best=n
+else:                                             # 从零：随机顺序
+    for n,p in cands:
+        v=0
+        if v>bv: bv=v;best=n
+# 真实验证：数文件数
+def nfiles(p):
+    try:
+        return sum(len(f) for _,_,f in os.walk(p))
+    except Exception: return 0
+got=max(((n,nfiles(p)) for n,p in cands), key=lambda x:x[1])[0] if cands else None
+print(json.dumps({"picked":best,"best":got}))
+'''
+def run_s4(seeds=12):
+    cpath=os.path.join(HERE,"child.py")
+    with open(cpath,"w") as f: f.write(CHILD)
+    root=REAL_DIR
+    out={}
+    for arm in ["inherit","scratch","wrong"]:
+        ok=[]
+        for sd in range(9000,9000+seeds):
+            cur=os.path.join(HERE,f"cur_{arm}.json")
+            if arm=="inherit":
+                with open(cur,"w") as f: json.dump({"prefer":"name_len"},f)
+            elif arm=="wrong":
+                with open(cur,"w") as f: json.dump({"prefer":"wrong"},f)
+            else:
+                cur="none"
+            r=subprocess.run(["python3",cpath,cur,root],capture_output=True,text=True,timeout=60)
+            try: j=json.loads(r.stdout.strip().split("\n")[-1])
+            except Exception: j={"picked":None,"best":None}
+            ok.append(1.0 if (j.get("picked") is not None and j.get("picked")==j.get("best")) else 0.0)
+        out[arm]={"acc":float(np.mean(ok)),"vals":ok}
+    d1=[out["inherit"]["vals"][i]-out["scratch"]["vals"][i] for i in range(seeds)]
+    d2=[out["inherit"]["vals"][i]-out["wrong"]["vals"][i] for i in range(seeds)]
+    m1,l1,h1=ci(d1); m2,l2,h2=ci(d2)
+    out["H4a_inherit_minus_scratch"]={"mean":m1,"ci":[l1,h1],"pass":bool(l1>0)}
+    out["H4b_inherit_minus_wrong"]={"mean":m2,"ci":[l2,h2],"wrong_worse":bool(l2>0)}
+    return out
+
+if __name__=="__main__":
+    R={}
+    print("== S1 独白 ==", flush=True); R["S1"]=run_s1(16)
+    print(json.dumps(R["S1"],ensure_ascii=False), flush=True)
+    print("== S2 自传 ==", flush=True); R["S2"]=run_s2(10)
+    print(json.dumps(R["S2"],ensure_ascii=False), flush=True)
+    print("== S3 知死 ==", flush=True); R["S3"]=run_s3(10)
+    print(json.dumps(R["S3"],ensure_ascii=False), flush=True)
+    print("== S4 文化 ==", flush=True); R["S4"]=run_s4(12)
+    print(json.dumps(R["S4"],ensure_ascii=False), flush=True)
+    json.dump(R, open("result150.json","w"), ensure_ascii=False, indent=1)

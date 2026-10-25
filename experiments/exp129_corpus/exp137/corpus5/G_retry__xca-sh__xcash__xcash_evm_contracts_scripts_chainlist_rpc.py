@@ -1,1 +1,64 @@
-IiIi5LuOIENoYWlubGlzdCDmlbDmja7pm4bkuK3pgInmi6nmjIflrprpk77nmoTml6Dlr4bpkqUgSFRUUFMgUlBD44CCIiIiCgojIHJ1ZmY6IG5vcWE6IElOUDAwMQoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KaW1wb3J0IHN5cwppbXBvcnQgdXJsbGliLmVycm9yCmltcG9ydCB1cmxsaWIucmVxdWVzdApmcm9tIHVybGxpYi5wYXJzZSBpbXBvcnQgdXJscGFyc2UKCkNIQUlOTElTVF9VUkwgPSAiaHR0cHM6Ly9jaGFpbmlkLm5ldHdvcmsvY2hhaW5zLmpzb24iClJFUVVFU1RfVElNRU9VVF9TRUNPTkRTID0gMTAKCgpkZWYgaXNfcHVibGljX2h0dHBzX3JwYyh1cmw6IG9iamVjdCkgLT4gYm9vbDoKICAgICIiIuaOkumZpCBXZWJTb2NrZXTjgIHluKblh63mja7ljaDkvY3nrKbmiJbmoLzlvI/kuI3lkIjms5XnmoQgUlBD44CCIiIiCiAgICBpZiBub3QgaXNpbnN0YW5jZSh1cmwsIHN0cikgb3IgYW55KG1hcmtlciBpbiB1cmwgZm9yIG1hcmtlciBpbiAoIiR7IiwgInsiLCAiPCIpKToKICAgICAgICByZXR1cm4gRmFsc2UKICAgIHBhcnNlZCA9IHVybHBhcnNlKHVybCkKICAgIHJldHVybiBwYXJzZWQuc2NoZW1lID09ICJodHRwcyIgYW5kIGJvb2wocGFyc2VkLm5ldGxvYykKCgpkZWYgcmVzb2x2ZV9ycGMoY2hhaW5faWQ6IGludCkgLT4gc3RyOgogICAgcmVxdWVzdCA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QoICAjIG5vcWE6IFMzMTAg5Zu65a6a6K6/6ZeuIENoYWlubGlzdCBIVFRQUyDmlbDmja7mupAKICAgICAgICBDSEFJTkxJU1RfVVJMLAogICAgICAgIGhlYWRlcnM9eyJVc2VyLUFnZW50IjogInhjYXNoLWNvbnRyYWN0LWRlcGxveWVyLzEuMCJ9LAogICAgKQogICAgdHJ5OgogICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbiggICMgbm9xYTogUzMxMCDlm7rlrprorr/pl64gQ2hhaW5saXN0IEhUVFBTIOaVsOaNrua6kAogICAgICAgICAgICByZXF1ZXN0LAogICAgICAgICAgICB0aW1lb3V0PVJFUVVFU1RfVElNRU9VVF9TRUNPTkRTLAogICAgICAgICkgYXMgcmVzcG9uc2U6CiAgICAgICAgICAgIGNoYWlucyA9IGpzb24ubG9hZChyZXNwb25zZSkKICAgIGV4Y2VwdCAoT1NFcnJvciwgdXJsbGliLmVycm9yLlVSTEVycm9yLCBqc29uLkpTT05EZWNvZGVFcnJvcikgYXMgZXhjOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihmIuaXoOazleiOt+WPliBDaGFpbmxpc3QgUlBD77yae2V4Y30iKSBmcm9tIGV4YwoKICAgIGNoYWluID0gbmV4dCgoaXRlbSBmb3IgaXRlbSBpbiBjaGFpbnMgaWYgaXRlbS5nZXQoImNoYWluSWQiKSA9PSBjaGFpbl9pZCksIE5vbmUpCiAgICBpZiBjaGFpbiBpcyBOb25lOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihmIkNoYWlubGlzdCDmnKrmlLblvZUgY2hhaW4ge2NoYWluX2lkfSIpCgogICAgcnBjID0gbmV4dCgodXJsIGZvciB1cmwgaW4gY2hhaW4uZ2V0KCJycGMiLCBbXSkgaWYgaXNfcHVibGljX2h0dHBzX3JwYyh1cmwpKSwgTm9uZSkKICAgIGlmIHJwYyBpcyBOb25lOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigKICAgICAgICAgICAgZiJDaGFpbmxpc3Qg5pyq5o+Q5L6bIGNoYWluIHtjaGFpbl9pZH0g55qE5peg5a+G6ZKlIEhUVFBTIFJQQ++8jOivt+WcqCAuZW52IOiuvue9riBSUENfVVJMIgogICAgICAgICkKICAgIHJldHVybiBycGMKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIGlmIGxlbihzeXMuYXJndikgIT0gMjoKICAgICAgICBwcmludCgi55So5rOVOiBjaGFpbmxpc3RfcnBjLnB5IDxjaGFpbmlkPiIsIGZpbGU9c3lzLnN0ZGVycikgICMgbm9xYTogVDIwMQogICAgICAgIHJldHVybiAyCiAgICB0cnk6CiAgICAgICAgcHJpbnQocmVzb2x2ZV9ycGMoaW50KHN5cy5hcmd2WzFdKSkpICAjIG5vcWE6IFQyMDEKICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgUnVudGltZUVycm9yKSBhcyBleGM6CiAgICAgICAgcHJpbnQoZiLinYwge2V4Y30iLCBmaWxlPXN5cy5zdGRlcnIpICAjIG5vcWE6IFQyMDEKICAgICAgICByZXR1cm4gMQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcmFpc2UgU3lzdGVtRXhpdChtYWluKCkpCg==
+"""从 Chainlist 数据集中选择指定链的无密钥 HTTPS RPC。"""
+
+# ruff: noqa: INP001
+
+from __future__ import annotations
+
+import json
+import sys
+import urllib.error
+import urllib.request
+from urllib.parse import urlparse
+
+CHAINLIST_URL = "https://chainid.network/chains.json"
+REQUEST_TIMEOUT_SECONDS = 10
+
+
+def is_public_https_rpc(url: object) -> bool:
+    """排除 WebSocket、带凭据占位符或格式不合法的 RPC。"""
+    if not isinstance(url, str) or any(marker in url for marker in ("${", "{", "<")):
+        return False
+    parsed = urlparse(url)
+    return parsed.scheme == "https" and bool(parsed.netloc)
+
+
+def resolve_rpc(chain_id: int) -> str:
+    request = urllib.request.Request(  # noqa: S310 固定访问 Chainlist HTTPS 数据源
+        CHAINLIST_URL,
+        headers={"User-Agent": "xcash-contract-deployer/1.0"},
+    )
+    try:
+        with urllib.request.urlopen(  # noqa: S310 固定访问 Chainlist HTTPS 数据源
+            request,
+            timeout=REQUEST_TIMEOUT_SECONDS,
+        ) as response:
+            chains = json.load(response)
+    except (OSError, urllib.error.URLError, json.JSONDecodeError) as exc:
+        raise RuntimeError(f"无法获取 Chainlist RPC：{exc}") from exc
+
+    chain = next((item for item in chains if item.get("chainId") == chain_id), None)
+    if chain is None:
+        raise RuntimeError(f"Chainlist 未收录 chain {chain_id}")
+
+    rpc = next((url for url in chain.get("rpc", []) if is_public_https_rpc(url)), None)
+    if rpc is None:
+        raise RuntimeError(
+            f"Chainlist 未提供 chain {chain_id} 的无密钥 HTTPS RPC，请在 .env 设置 RPC_URL"
+        )
+    return rpc
+
+
+def main() -> int:
+    if len(sys.argv) != 2:
+        print("用法: chainlist_rpc.py <chainid>", file=sys.stderr)  # noqa: T201
+        return 2
+    try:
+        print(resolve_rpc(int(sys.argv[1])))  # noqa: T201
+    except (ValueError, RuntimeError) as exc:
+        print(f"❌ {exc}", file=sys.stderr)  # noqa: T201
+        return 1
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

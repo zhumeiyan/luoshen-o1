@@ -1,1 +1,87 @@
-IiIiZXhwMTM3OiBwZXItZG9tYWluIGRlbnNpdHkgc2NhbiBvZiB0aGUgU0hJUFBFRCBydWxlIHNldCAocGFyYWxsZWwpLgoKUHJlLXJlZ2lzdGVyZWQgaW4gUFJFUkVHLm1kIGJlZm9yZSBhbnkgZGF0YSB3YXMgZmV0Y2hlZC4KR2F0ZXM6IGRlbnNpdHkgPj0gNS4wIC8xMDBLQiwgc3RyaWN0IHByZWNpc2lvbiA+PSA2MCUsIG4gPj0gNSB3aXRoCldpbHNvbiBsb3dlciBib3VuZCA+PSAwLjQ1LgoKUGVyLWZpbGUgaGFyZCB0aW1lb3V0ICgxMCBzKSBzbyBvbmUgcGF0aG9sb2dpY2FsIGZpbGUgY2Fubm90IHN0YWxsIHRoZSBydW4KYW5kIGNhbm5vdCBzaWxlbnRseSBzaHJpbmsgdGhlIGRlbm9taW5hdG9yLgoiIiIKaW1wb3J0IHN5cywganNvbiwgcGF0aGxpYiwgY29sbGVjdGlvbnMsIHNpZ25hbCwgbXVsdGlwcm9jZXNzaW5nIGFzIG1wCnN5cy5wYXRoLmluc2VydCgwLCAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvb3ZlcnNlYXMiKQoKQ09SUCA9IHBhdGhsaWIuUGF0aCgiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9leHAxMzcvY29ycHVzNSIpCkJBU0UgPSBwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyOV9jb3JwdXMvZXhwMTM3IikKCmNsYXNzIFRPKEV4Y2VwdGlvbik6CiAgICBwYXNzCgpkZWYgX2FsYXJtKHNpZywgZnJtKToKICAgIHJhaXNlIFRPKCkKCmRlZiB3b3JrKGZuYW1lKToKICAgIHNpZ25hbC5zaWduYWwoc2lnbmFsLlNJR0FMUk0sIF9hbGFybSkKICAgIHNpZ25hbC5zZXRpdGltZXIoc2lnbmFsLklUSU1FUl9SRUFMLCAxMC4wKQogICAgdHJ5OgogICAgICAgIGZyb20gZXZhbGd1YXJkIGltcG9ydCBjbGkKICAgICAgICBmcm9tIGV2YWxndWFyZC5jbGkgaW1wb3J0IHNjYW4KICAgICAgICBjbGkuUFJPX09OWzBdID0gVHJ1ZQogICAgICAgIHJldHVybiBmbmFtZSwgc2NhbihzdHIoQ09SUCAvIGZuYW1lKSkKICAgIGV4Y2VwdCBUTzoKICAgICAgICByZXR1cm4gZm5hbWUsIFt7ImVnX2lkIjogIlRJTUVPVVQiLCAic2V2ZXJpdHkiOiAiaW5mbyIsICJoaXRzIjogW3sibGluZSI6IDAsICJoaXQiOiAiMTBzIn1dfV0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXR1cm4gZm5hbWUsIFt7ImVnX2lkIjogIkNSQVNIIiwgInNldmVyaXR5IjogImluZm8iLCAiaGl0cyI6IFt7ImxpbmUiOiAwLCAiaGl0Ijogc3RyKGUpWzo4MF19XX1dCiAgICBmaW5hbGx5OgogICAgICAgIHNpZ25hbC5zZXRpdGltZXIoc2lnbmFsLklUSU1FUl9SRUFMLCAwKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGZpbGVzID0gc29ydGVkKHAubmFtZSBmb3IgcCBpbiBDT1JQLmdsb2IoIioucHkiKSkKICAgIHdpdGggbXAuUG9vbCg4KSBhcyBwb29sOgogICAgICAgIHJlcyA9IGRpY3QocG9vbC5pbWFwX3Vub3JkZXJlZCh3b3JrLCBmaWxlcywgY2h1bmtzaXplPTQpKQogICAgKEJBU0UgLyAic2NhbjUuanNvbiIpLndyaXRlX3RleHQoanNvbi5kdW1wcyhyZXMsIGluZGVudD0xKSkKCiAgICBtYW4gPSBbXQogICAgZm9yIG1mIGluICgibWFuaWZlc3Q1Lmpzb24iLCAibWFuaWZlc3Q1Yi5qc29uIik6CiAgICAgICAgcCA9IEJBU0UgLyBtZgogICAgICAgIGlmIHAuZXhpc3RzKCk6CiAgICAgICAgICAgIG1hbiArPSBqc29uLmxvYWRzKHAucmVhZF90ZXh0KCkpCiAgICBkb21fb2YgPSB7bVsiZmlsZSJdOiBtWyJkb21haW4iXSBmb3IgbSBpbiBtYW59CgogICAgZnJvbSBldmFsZ3VhcmQuY2xhc3NlcyBpbXBvcnQgc2hpcHBlZAogICAgYnl0LCBuZiwgaGl0cywgZmlsZXNfYywgcnVsZSA9IChjb2xsZWN0aW9ucy5Db3VudGVyKCkgZm9yIF8gaW4gcmFuZ2UoNSkpCiAgICBmaW5kaW5ncyA9IFtdCiAgICBmb3IgZiwgZnMgaW4gc29ydGVkKHJlcy5pdGVtcygpKToKICAgICAgICBkID0gZG9tX29mLmdldChmKSBvciBmLnNwbGl0KCJfXyIpWzBdCiAgICAgICAgZmlsZXNfY1tkXSArPSAxCiAgICAgICAgYnl0W2RdICs9IChDT1JQIC8gZikuc3RhdCgpLnN0X3NpemUKICAgICAgICBuaCA9IDAKICAgICAgICBmb3IgciBpbiBmczoKICAgICAgICAgICAgZWcgPSByLmdldCgiZWdfaWQiLCAiPyIpCiAgICAgICAgICAgIGlmIGVnIGluICgiQ1JBU0giLCAiVElNRU9VVCIsICJFRzAwMCIpOgogICAgICAgICAgICAgICAgcnVsZVtlZ10gKz0gMQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaWYgbm90IHNoaXBwZWQoZWcpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgZm9yIGggaW4gci5nZXQoImhpdHMiLCBbXSk6CiAgICAgICAgICAgICAgICBoaXRzW2RdICs9IDEKICAgICAgICAgICAgICAgIHJ1bGVbZWddICs9IDEKICAgICAgICAgICAgICAgIG5oICs9IDEKICAgICAgICAgICAgICAgIGZpbmRpbmdzLmFwcGVuZChkaWN0KGRvbWFpbj1kLCBmaWxlPWYsIGVnPWVnLCBsaW5lPWguZ2V0KCJsaW5lIiwgMCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaXQ9c3RyKGguZ2V0KCJoaXQiLCAiIikpWzoyMDBdKSkKICAgICAgICBpZiBuaDoKICAgICAgICAgICAgbmZbZF0gKz0gMQoKICAgIHByaW50KGYieydkb21haW4nOjwxMn17J2ZpbGVzJzo+Nn17J0tCJzo+OX17J2hpdHMnOj42fXsncGVyMTAwS0InOj4xMH17J3NpbGVudCc6PjEwfSIpCiAgICBwcmludCgiLSIgKiA1NSkKICAgIHJvd3MgPSBbXQogICAgZm9yIGQgaW4gc29ydGVkKGZpbGVzX2MpOgogICAgICAgIGtiID0gYnl0W2RdIC8gMTAwMC4wCiAgICAgICAgcmF0ZSA9IGhpdHNbZF0gLyAoa2IgLyAxMDAuMCkgaWYga2IgZWxzZSAwLjAKICAgICAgICBwcmludChmIntkOjwxMn17ZmlsZXNfY1tkXTo+Nn17a2I6PjkuMWZ9e2hpdHNbZF06PjZ9e3JhdGU6PjEwLjJmfXtmaWxlc19jW2RdLW5mW2RdOj40fS97ZmlsZXNfY1tkXTo8NX0iKQogICAgICAgIHJvd3MuYXBwZW5kKGRpY3QoZG9tYWluPWQsIGZpbGVzPWZpbGVzX2NbZF0sIGtiPXJvdW5kKGtiLCAxKSwgaGl0cz1oaXRzW2RdLAogICAgICAgICAgICAgICAgICAgICAgICAgcGVyMTAwa2I9cm91bmQocmF0ZSwgMyksIHNpbGVudD1mIntmaWxlc19jW2RdLW5mW2RdfS97ZmlsZXNfY1tkXX0iKSkKICAgIHByaW50KCItIiAqIDU1KQogICAgcHJpbnQoInJ1bGUgY291bnRzOiIsIHJ1bGUubW9zdF9jb21tb24oKSkKICAgIHByaW50KCJ0b3RhbCBzaGlwcGVkIGZpbmRpbmdzOiIsIGxlbihmaW5kaW5ncykpCiAgICAoQkFTRSAvICJkZW5zaXR5Lmpzb24iKS53cml0ZV90ZXh0KGpzb24uZHVtcHMocm93cywgaW5kZW50PTEpKQogICAgKEJBU0UgLyAiZmluZGluZ3MuanNvbiIpLndyaXRlX3RleHQoanNvbi5kdW1wcyhmaW5kaW5ncywgaW5kZW50PTEpKQo=
+"""exp137: per-domain density scan of the SHIPPED rule set (parallel).
+
+Pre-registered in PREREG.md before any data was fetched.
+Gates: density >= 5.0 /100KB, strict precision >= 60%, n >= 5 with
+Wilson lower bound >= 0.45.
+
+Per-file hard timeout (10 s) so one pathological file cannot stall the run
+and cannot silently shrink the denominator.
+"""
+import sys, json, pathlib, collections, signal, multiprocessing as mp
+sys.path.insert(0, "/data/workspace/luoshen-o1/overseas")
+
+CORP = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137/corpus5")
+BASE = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137")
+
+class TO(Exception):
+    pass
+
+def _alarm(sig, frm):
+    raise TO()
+
+def work(fname):
+    signal.signal(signal.SIGALRM, _alarm)
+    signal.setitimer(signal.ITIMER_REAL, 10.0)
+    try:
+        from evalguard import cli
+        from evalguard.cli import scan
+        cli.PRO_ON[0] = True
+        return fname, scan(str(CORP / fname))
+    except TO:
+        return fname, [{"eg_id": "TIMEOUT", "severity": "info", "hits": [{"line": 0, "hit": "10s"}]}]
+    except Exception as e:
+        return fname, [{"eg_id": "CRASH", "severity": "info", "hits": [{"line": 0, "hit": str(e)[:80]}]}]
+    finally:
+        signal.setitimer(signal.ITIMER_REAL, 0)
+
+if __name__ == "__main__":
+    files = sorted(p.name for p in CORP.glob("*.py"))
+    with mp.Pool(8) as pool:
+        res = dict(pool.imap_unordered(work, files, chunksize=4))
+    (BASE / "scan5.json").write_text(json.dumps(res, indent=1))
+
+    man = []
+    for mf in ("manifest5.json", "manifest5b.json"):
+        p = BASE / mf
+        if p.exists():
+            man += json.loads(p.read_text())
+    dom_of = {m["file"]: m["domain"] for m in man}
+
+    from evalguard.classes import shipped
+    byt, nf, hits, files_c, rule = (collections.Counter() for _ in range(5))
+    findings = []
+    for f, fs in sorted(res.items()):
+        d = dom_of.get(f) or f.split("__")[0]
+        files_c[d] += 1
+        byt[d] += (CORP / f).stat().st_size
+        nh = 0
+        for r in fs:
+            eg = r.get("eg_id", "?")
+            if eg in ("CRASH", "TIMEOUT", "EG000"):
+                rule[eg] += 1
+                continue
+            if not shipped(eg):
+                continue
+            for h in r.get("hits", []):
+                hits[d] += 1
+                rule[eg] += 1
+                nh += 1
+                findings.append(dict(domain=d, file=f, eg=eg, line=h.get("line", 0),
+                                     hit=str(h.get("hit", ""))[:200]))
+        if nh:
+            nf[d] += 1
+
+    print(f"{'domain':<12}{'files':>6}{'KB':>9}{'hits':>6}{'per100KB':>10}{'silent':>10}")
+    print("-" * 55)
+    rows = []
+    for d in sorted(files_c):
+        kb = byt[d] / 1000.0
+        rate = hits[d] / (kb / 100.0) if kb else 0.0
+        print(f"{d:<12}{files_c[d]:>6}{kb:>9.1f}{hits[d]:>6}{rate:>10.2f}{files_c[d]-nf[d]:>4}/{files_c[d]:<5}")
+        rows.append(dict(domain=d, files=files_c[d], kb=round(kb, 1), hits=hits[d],
+                         per100kb=round(rate, 3), silent=f"{files_c[d]-nf[d]}/{files_c[d]}"))
+    print("-" * 55)
+    print("rule counts:", rule.most_common())
+    print("total shipped findings:", len(findings))
+    (BASE / "density.json").write_text(json.dumps(rows, indent=1))
+    (BASE / "findings.json").write_text(json.dumps(findings, indent=1))

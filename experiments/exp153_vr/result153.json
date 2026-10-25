@@ -1,1 +1,14 @@
-ewogICJHMV9pZGxlX2RyaWZ0IjogMC4wMDI1OTM5OTQxNDA2MjUsCiAgIkcwX21vdmVfZHJpZnQiOiAwLjg5OTQzNTY3OTExNzgzODUsCiAgIkcyX3JldmVyc2FsX3Jlc2lkIjogMC4wLAogICJHMl9mb3J3YXJkX2RyaWZ0IjogMC44OTk0MzU2NzkxMTc4Mzg1LAogICJHM19mcm96ZW5fZHJpZnQiOiAwLjAwMjU5Mzk5NDE0MDYyNSwKICAiRzRfdG91Y2hfZmxhZyI6IHRydWUsCiAgIkc0X2dvbGRfYmVmb3JlIjogMC4wODQzMDk4OTU4MzMzMzMzMywKICAiRzRfZ29sZF9hZnRlciI6IDAuMCwKICAiRzRfYmx1ZV9iZWZvcmUiOiAwLjAsCiAgIkc0X2JsdWVfYWZ0ZXIiOiAwLjA4NDMwOTg5NTgzMzMzMzMzLAogICJHNF9yZXR1cm5fcmVzaWQiOiAwLjAsCiAgImFjdGlvbnNfc2Vlbl9ieV93b3JsZCI6IDMxCn0=
+{
+  "G1_idle_drift": 0.002593994140625,
+  "G0_move_drift": 0.8994356791178385,
+  "G2_reversal_resid": 0.0,
+  "G2_forward_drift": 0.8994356791178385,
+  "G3_frozen_drift": 0.002593994140625,
+  "G4_touch_flag": true,
+  "G4_gold_before": 0.08430989583333333,
+  "G4_gold_after": 0.0,
+  "G4_blue_before": 0.0,
+  "G4_blue_after": 0.08430989583333333,
+  "G4_return_resid": 0.0,
+  "actions_seen_by_world": 31
+}

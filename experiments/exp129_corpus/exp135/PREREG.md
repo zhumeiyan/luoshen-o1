@@ -1,1 +1,49 @@
-IyBleHAxMzUg6aKE5rOo5YaM77yI5YaZ5Zyo5rWL6YeP5LmL5YmN77yJCgojIyDog4zmma8KZXhwMTM0IOWcqOeLrOeri+ivreaWmSBjb3JwdXMz77yINyDku5PlupMgLyAxMCDmlofku7bvvInkuIrlj5HnjrDvvJoKICAgIOivreazleWxgiAgIEVHMDA1IEVHMDA2IEVHUDAxICAgIDE1LzE2IOS4peagvCBUUCA9IDkzLjglCiAgICDmlrnms5XorrrlsYIg5YW25L2Z5YWo6YOoICAgICAgICAgICAgICAxLzI5IOS4peagvCBUUCA9ICAzLjQlCioq5L2G6L+Z5Liq5YiG5bGC5Lmf5piv55yL5Yiw5pWw5o2u5LmL5ZCO5omN5YGa55qEKirvvIhleHAxMzQg5oql5ZGK6YeM5bey5aOw5piO77yJ44CCCuaJgOS7peWug+ayoeaciei1hOagvOebtOaOpeS9nOS4uuWPkei0p+S+neaNru+8jOW/hemhu+WcqCoq56ys5LiJ5Liq44CB5LuO5pyq5Y+C5LiO5Lu75L2V6LCD5LyY55qE6K+t5paZKirkuIrnoa7orqTjgIIKCmNvcnB1czHvvIg2MSDmlofku7YgLyA5IOS7k+W6k++8iT0gMTI5fjEzMyDmiYDmnIkgYnVnIOS/ruWkjeeahOadpea6kO+8jOW3suaxoeafk+OAggpjb3JwdXMyID0g5ZCMIDkg5LuT5bqT55qE55WZ5Ye65paH5Lu277yM5YWx5Lqr5LuT5bqT57qn5rGh5p+T44CCCmNvcnB1czMgPSA3IOS4quaWsOS7k+W6k++8jOS9huW3suiiqyAxMzQg5rWL6YeP6L+HIOKGkiDlr7ki56Gu6K6k5YiG5bGCIuiAjOiogOWug+S4jeWGjeaYr+eLrOeri+ivreaWmeOAggpjb3JwdXM0ID0gKio3IOS4quS7juacqueUqOi/h+eahOS7k+W6k++8jDEyIOS4quaWh+S7tioq77yM5pys6L2u6aaW5qyh5rWL6YeP44CCCgojIyBjb3JwdXM0IOa4heWNle+8iOWGmeWFpSBtYW5pZmVzdDQuanNvbu+8jOWFiOWumuWQjuWPlu+8iQp0cnVlcmEvdHJ1bGVucyAgICAgICAgICAgIHNyYy9jb3JlL3RydWxlbnMvY29yZS91dGlscy9ldmFsdWF0b3IucHkKdHJ1ZXJhL3RydWxlbnMgICAgICAgICAgICBzcmMvdHJ1bGVuc19ldmFsL3RydWxlbnNfZXZhbC9mZWVkYmFjay9ncm91bmR0cnV0aC5weQpsbS1zeXMvRmFzdENoYXQgICAgICAgICAgIGZhc3RjaGF0L2xsbV9qdWRnZS9jb21tb24ucHkKbG0tc3lzL0Zhc3RDaGF0ICAgICAgICAgICBmYXN0Y2hhdC9sbG1fanVkZ2UvZ2VuX2p1ZGdtZW50LnB5Cmh1Z2dpbmdmYWNlL2V2YWx1YXRlICAgICAgc3JjL2V2YWx1YXRlL2V2YWx1YXRvci9iYXNlLnB5Cmh1Z2dpbmdmYWNlL2V2YWx1YXRlICAgICAgbWV0cmljcy9hY2N1cmFjeS9hY2N1cmFjeS5weQpldmlkZW50bHlhaS9ldmlkZW50bHkgICAgIHNyYy9ldmlkZW50bHkvbGVnYWN5L2Jhc2VfbWV0cmljLnB5CmRlZXBzZXQtYWkvaGF5c3RhY2sgICAgICAgaGF5c3RhY2svZXZhbHVhdGlvbi9ldmFsX3J1bl9yZXN1bHQucHkKZGVlcHNldC1haS9oYXlzdGFjayAgICAgICBoYXlzdGFjay9jb21wb25lbnRzL2V2YWx1YXRvcnMvZG9jdW1lbnRfcmVjYWxsLnB5CkFyaXplLWFpL3Bob2VuaXggICAgICAgICAgcGFja2FnZXMvcGhvZW5peC1ldmFscy9zcmMvcGhvZW5peC9ldmFscy9ldmFsdWF0b3JzLnB5Cm1pY3Jvc29mdC9wcm9tcHRiZW5jaCAgICAgcHJvbXB0YmVuY2gvbWV0cmljcy9ldmFsLnB5Cm1pY3Jvc29mdC9wcm9tcHRiZW5jaCAgICAgcHJvbXB0YmVuY2gvcHJvbXB0ZXZhbC9tZXRob2RzLnB5CgojIyDliKTmja7vvIjpooTms6jlhozvvIzkuI3pmo/nu5PmnpzmlLnvvIkKRzEg5Y+s5Zue77ya6K+t5rOV5bGC5Z+L6Zu35aS55YW3IEVHMDA1IDMvM+OAgUVHMDA2IDIvMuOAgUVHUDAxIDEvMe+8m+W5suWHgOaWh+S7tiAwIOWPkeeOsOOAggpHMiDop4TliJnltKnmuoMgPSAw44CCCkczIOWPkei0p+mXuO+8muivreazleWxguWcqCBjb3JwdXM0IOS4iueahCoq5Lil5qC8KiogVFAg546HID49IDYwJeOAggpHNCDlr7nnhafpl7jvvJrmlrnms5XorrrlsYLlnKggY29ycHVzNCDkuIrnmoTkuKXmoLwgVFAg546HIDw9IDIwJeOAggpHNSBFR1AwNCDoi6XlnKggY29ycHVzNCDkuIrlkb3kuK0gbj49M++8jOWImeaMieWFtuWunua1i+eyvuW6puWGs+WumuaYr+WQpui/m+WFpeWPkei0p+mbhuOAggoKIyMg6aKE5rWL77yI5YaZ5Ye65p2l77yM6LeR5a6M5a+56LSo77yJCkgxOiDor63ms5XlsYLkuKXmoLwgVFAgPj0gNjAlICAgICAgIOKGkiDoi6XlkKbvvIxleHAxMzQg55qE5YiG5bGC5piv6K+t5paZ54m55byC55qE77yM5LiN6IO95L2c5Li65Y+R6LSn5L6d5o2uCkgyOiDmlrnms5XorrrlsYLkuKXmoLwgVFAgPD0gMjAlICAgICDihpIg6Iul5ZCm77yM6K+05piO5pa55rOV6K665bGC5Zyo5p+Q5Lqb6K+t5paZ5LiK5Y+v5ZSu77yM6ZyA6YeN5paw5YiG5bGCCkgzOiDor63ms5XlsYLnmoTlpLHotKXmqKHlvI/lupTpm4bkuK3lnKgi5YiG5q+N5piv6Lev5b6E5ou85o6lIC8gZG9jc3RyaW5nIOmHjOeahOS7o+eggSLnrYnlt7Lnn6XkvKrlvbEKCiMjIOWIpOWumuinhOWIme+8iOayv+eUqCBleHAxMzEg6LW355qE57qm5a6a77yJCi0g5Lil5qC8IFRQ77ya6K+E5a6h6ICF5omT5byA5omA6ZKJ55qE6YKj5LiA6KGM77yM6IO955yL5Ye66KeE5YiZ5oyH5o6n55qE5Lic6KW/44CCCi0g5a2Y55aR5LiA5b6L6K6wIEZQ77yI5L+d5a6I5pa55ZCR77yJ44CCCi0g5Yik5a6a6ICF5Y+q5pyJ5oiR5LiA5LiqIOKGkiDlv4XpobvlnKjmiqXlkYrkuK3lo7DmmI7jgIIKCiMjIOWGs+WumuinhOWIme+8iOWFiOWGmeWlve+8jOmYsuatouS6i+WQjuaUueWPo+W+hO+8iQotIEczIOi/hyDihpIg5Lqk5LuYIHYwLjUuMO+8iOS7heivreazleWxgu+8mkVHMDA1IC8gRUcwMDYgLyBFR1AwMe+8ie+8jOaMguS7mOi0uemTvuaOpeOAggotIEczIOS4jei/hyDihpIg5LiN5Y+R6LSn77yM57un57ut5om+5Y6f5Zug77yM5LiN5b6X5pS555So5a695p2+5qCH5YeG5pS+6KGM44CCCiAg77yIZXhwMTMxIOW3suivgeaYjuWuveadvuagh+WHhuato+aYr+iuqSB2MC4zLjAg5LulIDExJSDnsr7luqbkuIrmnrbnmoTpgqPmiorlsLrlrZDjgILvvIkK
+# exp135 预注册（写在测量之前）
+
+## 背景
+exp134 在独立语料 corpus3（7 仓库 / 10 文件）上发现：
+    语法层   EG005 EG006 EGP01    15/16 严格 TP = 93.8%
+    方法论层 其余全部              1/29 严格 TP =  3.4%
+**但这个分层也是看到数据之后才做的**（exp134 报告里已声明）。
+所以它没有资格直接作为发货依据，必须在**第三个、从未参与任何调优的语料**上确认。
+
+corpus1（61 文件 / 9 仓库）= 129~133 所有 bug 修复的来源，已污染。
+corpus2 = 同 9 仓库的留出文件，共享仓库级污染。
+corpus3 = 7 个新仓库，但已被 134 测量过 → 对"确认分层"而言它不再是独立语料。
+corpus4 = **7 个从未用过的仓库，12 个文件**，本轮首次测量。
+
+## corpus4 清单（写入 manifest4.json，先定后取）
+truera/trulens            src/core/trulens/core/utils/evaluator.py
+truera/trulens            src/trulens_eval/trulens_eval/feedback/groundtruth.py
+lm-sys/FastChat           fastchat/llm_judge/common.py
+lm-sys/FastChat           fastchat/llm_judge/gen_judgment.py
+huggingface/evaluate      src/evaluate/evaluator/base.py
+huggingface/evaluate      metrics/accuracy/accuracy.py
+evidentlyai/evidently     src/evidently/legacy/base_metric.py
+deepset-ai/haystack       haystack/evaluation/eval_run_result.py
+deepset-ai/haystack       haystack/components/evaluators/document_recall.py
+Arize-ai/phoenix          packages/phoenix-evals/src/phoenix/evals/evaluators.py
+microsoft/promptbench     promptbench/metrics/eval.py
+microsoft/promptbench     promptbench/prompteval/methods.py
+
+## 判据（预注册，不随结果改）
+G1 召回：语法层埋雷夹具 EG005 3/3、EG006 2/2、EGP01 1/1；干净文件 0 发现。
+G2 规则崩溃 = 0。
+G3 发货闸：语法层在 corpus4 上的**严格** TP 率 >= 60%。
+G4 对照闸：方法论层在 corpus4 上的严格 TP 率 <= 20%。
+G5 EGP04 若在 corpus4 上命中 n>=3，则按其实测精度决定是否进入发货集。
+
+## 预测（写出来，跑完对质）
+H1: 语法层严格 TP >= 60%       → 若否，exp134 的分层是语料特异的，不能作为发货依据
+H2: 方法论层严格 TP <= 20%     → 若否，说明方法论层在某些语料上可售，需重新分层
+H3: 语法层的失败模式应集中在"分母是路径拼接 / docstring 里的代码"等已知伪影
+
+## 判定规则（沿用 exp131 起的约定）
+- 严格 TP：评审者打开所钉的那一行，能看出规则指控的东西。
+- 存疑一律记 FP（保守方向）。
+- 判定者只有我一个 → 必须在报告中声明。
+
+## 决定规则（先写好，防止事后改口径）
+- G3 过 → 交付 v0.5.0（仅语法层：EG005 / EG006 / EGP01），挂付费链接。
+- G3 不过 → 不发货，继续找原因，不得改用宽松标准放行。
+  （exp131 已证明宽松标准正是让 v0.3.0 以 11% 精度上架的那把尺子。）

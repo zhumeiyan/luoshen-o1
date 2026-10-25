@@ -1,1 +1,15 @@
-ewogICJ0b2tlbiI6ICI5NDI3NzgiLAogICJzdHJpY3QiOiB0cnVlLAogICJsb29zZSI6IHRydWUsCiAgInByb2JlcyI6IDQsCiAgInByb2Jlc190b3RhbCI6IDksCiAgImhpdCI6IFsKICAgICIwLjE1MzY1IiwKICAgICIwLjAwMzc4IiwKICAgICIwLjAyOTAwIiwKICAgICIwLjA4MCIKICBdLAogICJwcm9iZXNfZml4ZWQiOiAxMywKICAicHJvYmVzX3RvdGFsX2ZpeGVkIjogMTMKfQ==
+{
+  "token": "942778",
+  "strict": true,
+  "loose": true,
+  "probes": 4,
+  "probes_total": 9,
+  "hit": [
+    "0.15365",
+    "0.00378",
+    "0.02900",
+    "0.080"
+  ],
+  "probes_fixed": 13,
+  "probes_total_fixed": 13
+}

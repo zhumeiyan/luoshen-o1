@@ -1,1 +1,85 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIDE5OWI6IGJpdHMg5Y+Y5aW9IOKJoCBCIOayoeiiq+a3ueayoeOAgua1iyLor53or63mnYMi5LiOIueogOaciSjkuI3lj6/lpI3njrAp5YaF5a6555qE5L+d55WZIgppbXBvcnQganNvbiwgbWF0aCwgaGFzaGxpYiwgb3MKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKCkFfUEFUSCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9ldmlkZW5jZS/lpLHotKXmqKHlvI/lupMv5Yik5o2u5qC4Lm1kIgpCX1BBVEggPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTgwX3JlY29yZC91X3NpZGVfZnVsbC50eHQiCk9VVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxOTlfdHdvX21lbS9yZXN1bHQxOTliLmpzb24iCksgPSAzOyBBTFBIQSA9IDAuMQoKZGVmIGxvYWQocCk6CiAgICB3aXRoIG9wZW4ocCwncicsZW5jb2Rpbmc9J3V0Zi04JyxlcnJvcnM9J2lnbm9yZScpIGFzIGY6IHJldHVybiBmLnJlYWQoKQpBX2FsbCwgQl9hbGwgPSBsb2FkKEFfUEFUSCksIGxvYWQoQl9QQVRIKQpWID0gbGVuKHNldChBX2FsbCkgfCBzZXQoQl9hbGwpKQpCX3RyYWluLCBCX3Rlc3QgPSBCX2FsbFs6aW50KGxlbihCX2FsbCkqMC43KV0sIEJfYWxsW2ludChsZW4oQl9hbGwpKjAuNyk6XQoKZGVmIGNvdW50cyh0ZXh0KToKICAgIGMgPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGZsb2F0KSk7IHQgPSBkZWZhdWx0ZGljdChmbG9hdCkKICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KS1LKzEpOgogICAgICAgIGsgPSB0ZXh0W2k6aStLLTFdOyBuID0gdGV4dFtpK0stMV0KICAgICAgICBjW2tdW25dICs9IDEuMDsgdFtrXSArPSAxLjAKICAgIHJldHVybiBjLCB0CgpkZWYgcHJvYihjLCB0LCBjdHgsIGNoLCBhbHBoYT1BTFBIQSwgVj1WKToKICAgIGQgPSBjLmdldChjdHgpIG9yIHt9CiAgICByZXR1cm4gbWF4KChkLmdldChjaCwwLjApK2FscGhhKS8odC5nZXQoY3R4LDAuMCkrYWxwaGEqViksIDFlLTEyKQoKcmVzID0ge30KQ0FQUyA9IFsxMDAwMCwgNTAwMDAsIDEwMjAwMCwgMzQ1NTU1XQpyb3dzID0gW10KZm9yIE4gaW4gQ0FQUzoKICAgIEFfc3ViID0gQV9hbGxbOk5dCiAgICBBX3RyID0gQV9zdWJbOmludChsZW4oQV9zdWIpKjAuNyldCiAgICBjQSwgdEEgPSBjb3VudHMoQV90cikKICAgIGNCLCB0QiA9IGNvdW50cyhCX3RyYWluKQogICAgY00sIHRNID0gY291bnRzKEFfdHIgKyBCX3RyYWluKQogICAgIyAtLS0tIOivneivreadgzog5re35ZCI5qih5Z6L6YeMIEIg55qE6K6h5pWw5Lu96aKdIC0tLS0KICAgIHNoYXJlcyA9IFtdOyBzaGFyZXNfa25vd24gPSBbXQogICAgcmFyZV9tb25vID0gW107IHJhcmVfYm9ubHkgPSBbXTsgcmFyZV9hcmIgPSBbXQogICAgY29tbW9uX21vbm8gPSBbXTsgY29tbW9uX2Jvbmx5ID0gW10KICAgIGZvciBpIGluIHJhbmdlKGxlbihCX3Rlc3QpLUsrMSk6CiAgICAgICAgY3R4ID0gQl90ZXN0W2k6aStLLTFdOyBjaCA9IEJfdGVzdFtpK0stMV0KICAgICAgICBhID0gKGNBLmdldChjdHgpIG9yIHt9KS5nZXQoY2gsIDAuMCkKICAgICAgICBiID0gKGNCLmdldChjdHgpIG9yIHt9KS5nZXQoY2gsIDAuMCkKICAgICAgICB0b3QgPSBhICsgYgogICAgICAgIGlmIHRvdCA+IDA6CiAgICAgICAgICAgIHMgPSBiL3RvdAogICAgICAgICAgICBzaGFyZXMuYXBwZW5kKHMpCiAgICAgICAgICAgIGlmIHRCLmdldChjdHgsMC4wKSA+IDA6IHNoYXJlc19rbm93bi5hcHBlbmQocykKICAgICAgICAjIOeogOaciTogQl90cmFpbiDph4zov5nkuKrnsr7noa4gdHJpZ3JhbSDlj6rlh7rnjrAgMSDmrKEgPSDkuI3lj6/lpI3njrAKICAgICAgICBpc19yYXJlID0gKGIgPT0gMS4wKQogICAgICAgIHBNID0gcHJvYihjTSx0TSxjdHgsY2gpOyBwQiA9IHByb2IoY0IsdEIsY3R4LGNoKTsgcEEgPSBwcm9iKGNBLHRBLGN0eCxjaCkKICAgICAgICAjIOS7suijgeadg+mHjSjmjInnoa7lrprmgKcpCiAgICAgICAgZEEgPSBjQS5nZXQoY3R4KTsgZEIgPSBjQi5nZXQoY3R4KQogICAgICAgIGJBID0gbWF4KGRBLnZhbHVlcygpKSBpZiBkQSBlbHNlIDAuMDsgYkIgPSBtYXgoZEIudmFsdWVzKCkpIGlmIGRCIGVsc2UgMC4wCiAgICAgICAgY0FfID0gYkEvdEFbY3R4XSBpZiB0QS5nZXQoY3R4LDApPjAgZWxzZSAwLjAKICAgICAgICBjQl8gPSBiQi90QltjdHhdIGlmIHRCLmdldChjdHgsMCk+MCBlbHNlIDAuMAogICAgICAgIHdBID0gY0FfLyhjQV8rY0JfKSBpZiAoY0FfK2NCXyk+MCBlbHNlIDAuNQogICAgICAgIHBBUkIgPSB3QSpwQSArICgxLXdBKSpwQgogICAgICAgIGlmIGlzX3JhcmU6CiAgICAgICAgICAgIHJhcmVfbW9uby5hcHBlbmQoLW1hdGgubG9nMihwTSkpOyByYXJlX2Jvbmx5LmFwcGVuZCgtbWF0aC5sb2cyKHBCKSk7IHJhcmVfYXJiLmFwcGVuZCgtbWF0aC5sb2cyKHBBUkIpKQogICAgICAgIGVsaWYgYiA+PSAzOgogICAgICAgICAgICBjb21tb25fbW9uby5hcHBlbmQoLW1hdGgubG9nMihwTSkpOyBjb21tb25fYm9ubHkuYXBwZW5kKC1tYXRoLmxvZzIocEIpKQogICAgYXZnID0gbGFtYmRhIEw6IHN1bShMKS9sZW4oTCkgaWYgTCBlbHNlIE5vbmUKICAgIHJvd3MuYXBwZW5kKHsKICAgICAgICAnQV9jaGFycyc6IE4sICdCX3RyYWluX2NoYXJzJzogbGVuKEJfdHJhaW4pLAogICAgICAgICd2b2x1bWVfc2hhcmVfQl9leHBlY3RlZCc6IGxlbihCX3RyYWluKS8obGVuKEFfdHIpK2xlbihCX3RyYWluKSksCiAgICAgICAgJ25fcG9zaXRpb25zJzogbGVuKHNoYXJlcyksCiAgICAgICAgJ0Jfdm9pY2VfbWVhbic6IGF2ZyhzaGFyZXMpLAogICAgICAgICdCX3ZvaWNlX21lZGlhbic6IHNvcnRlZChzaGFyZXMpW2xlbihzaGFyZXMpLy8yXSBpZiBzaGFyZXMgZWxzZSBOb25lLAogICAgICAgICdCX3ZvaWNlX2tub3duX2N0eCc6IGF2ZyhzaGFyZXNfa25vd24pLAogICAgICAgICdCX3ZvaWNlX2JlbG93XzEwcGN0Jzogc3VtKDEgZm9yIHMgaW4gc2hhcmVzIGlmIHMgPCAwLjEwKS9sZW4oc2hhcmVzKSBpZiBzaGFyZXMgZWxzZSBOb25lLAogICAgICAgICduX3JhcmUnOiBsZW4ocmFyZV9tb25vKSwgJ25fY29tbW9uJzogbGVuKGNvbW1vbl9tb25vKSwKICAgICAgICAncmFyZV9iaXRzX21vbm8nOiBhdmcocmFyZV9tb25vKSwgJ3JhcmVfYml0c19Cb25seSc6IGF2ZyhyYXJlX2Jvbmx5KSwgJ3JhcmVfYml0c19hcmInOiBhdmcocmFyZV9hcmIpLAogICAgICAgICdyYXJlX3N3YW1wX21vbm8nOiAoYXZnKHJhcmVfbW9ubyktYXZnKHJhcmVfYm9ubHkpKSBpZiByYXJlX21vbm8gZWxzZSBOb25lLAogICAgICAgICdjb21tb25fc3dhbXBfbW9ubyc6IChhdmcoY29tbW9uX21vbm8pLWF2Zyhjb21tb25fYm9ubHkpKSBpZiBjb21tb25fbW9ubyBlbHNlIE5vbmUsCiAgICB9KQpyZXNbJ3ZvaWNlJ10gPSByb3dzCnJlc1snbWV0YSddID0geydWJzpWLCdBJzpsZW4oQV9hbGwpLCdCJzpsZW4oQl9hbGwpLCdyYXRpb19jaGFyJzpsZW4oQV9hbGwpL2xlbihCX2FsbCksCiAgICAgICAgICAgICAgICdCX3RyYWluJzpsZW4oQl90cmFpbiksJ0JfdGVzdCc6bGVuKEJfdGVzdCksJ2FscGhhJzpBTFBIQSwnSyc6S30Kd2l0aCBvcGVuKE9VVCwndycsZW5jb2Rpbmc9J3V0Zi04JykgYXMgZjoganNvbi5kdW1wKHJlcyxmLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MikKcHJpbnQoIldST1RFIixPVVQsb3MucGF0aC5nZXRzaXplKE9VVCkpCnByaW50KGYieydB6YePJzo+OH0geydC5pyf5pyb5Lu96aKdJzo+OX0geydC5a6e6ZmF6K+d6K+t5p2DJzo+MTB9IHsn5Lit5L2NJzo+N30geyflt7Lnn6VjdHgnOj44fSB7JzwxMCXljaDmr5QnOj44fSB8IHsn56iA5pyJbic6PjZ9IHsn56iA5pyJ5re55rKhJzo+OX0geyfluLjop4Hmt7nmsqEnOj45fSIpCmZvciByIGluIHJvd3M6CiAgICBwcmludChmIntyWydBX2NoYXJzJ106Pjh9IHtyWyd2b2x1bWVfc2hhcmVfQl9leHBlY3RlZCddOj45LjRmfSB7clsnQl92b2ljZV9tZWFuJ106PjEwLjRmfSB7clsnQl92b2ljZV9tZWRpYW4nXTo+Ny4zZn0ge3JbJ0Jfdm9pY2Vfa25vd25fY3R4J106PjguNGZ9IHtyWydCX3ZvaWNlX2JlbG93XzEwcGN0J106PjguM2Z9IHwge3JbJ25fcmFyZSddOj42fSB7clsncmFyZV9zd2FtcF9tb25vJ106PjkuM2Z9IHtyWydjb21tb25fc3dhbXBfbW9ubyddOj45LjNmfSIpCg==
+#!/usr/bin/env python3
+# 199b: bits 变好 ≠ B 没被淹没。测"话语权"与"稀有(不可复现)内容的保留"
+import json, math, hashlib, os
+from collections import defaultdict
+
+A_PATH = "/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md"
+B_PATH = "/data/workspace/luoshen-o1/experiments/exp180_record/u_side_full.txt"
+OUT = "/data/workspace/luoshen-o1/experiments/exp199_two_mem/result199b.json"
+K = 3; ALPHA = 0.1
+
+def load(p):
+    with open(p,'r',encoding='utf-8',errors='ignore') as f: return f.read()
+A_all, B_all = load(A_PATH), load(B_PATH)
+V = len(set(A_all) | set(B_all))
+B_train, B_test = B_all[:int(len(B_all)*0.7)], B_all[int(len(B_all)*0.7):]
+
+def counts(text):
+    c = defaultdict(lambda: defaultdict(float)); t = defaultdict(float)
+    for i in range(len(text)-K+1):
+        k = text[i:i+K-1]; n = text[i+K-1]
+        c[k][n] += 1.0; t[k] += 1.0
+    return c, t
+
+def prob(c, t, ctx, ch, alpha=ALPHA, V=V):
+    d = c.get(ctx) or {}
+    return max((d.get(ch,0.0)+alpha)/(t.get(ctx,0.0)+alpha*V), 1e-12)
+
+res = {}
+CAPS = [10000, 50000, 102000, 345555]
+rows = []
+for N in CAPS:
+    A_sub = A_all[:N]
+    A_tr = A_sub[:int(len(A_sub)*0.7)]
+    cA, tA = counts(A_tr)
+    cB, tB = counts(B_train)
+    cM, tM = counts(A_tr + B_train)
+    # ---- 话语权: 混合模型里 B 的计数份额 ----
+    shares = []; shares_known = []
+    rare_mono = []; rare_bonly = []; rare_arb = []
+    common_mono = []; common_bonly = []
+    for i in range(len(B_test)-K+1):
+        ctx = B_test[i:i+K-1]; ch = B_test[i+K-1]
+        a = (cA.get(ctx) or {}).get(ch, 0.0)
+        b = (cB.get(ctx) or {}).get(ch, 0.0)
+        tot = a + b
+        if tot > 0:
+            s = b/tot
+            shares.append(s)
+            if tB.get(ctx,0.0) > 0: shares_known.append(s)
+        # 稀有: B_train 里这个精确 trigram 只出现 1 次 = 不可复现
+        is_rare = (b == 1.0)
+        pM = prob(cM,tM,ctx,ch); pB = prob(cB,tB,ctx,ch); pA = prob(cA,tA,ctx,ch)
+        # 仲裁权重(按确定性)
+        dA = cA.get(ctx); dB = cB.get(ctx)
+        bA = max(dA.values()) if dA else 0.0; bB = max(dB.values()) if dB else 0.0
+        cA_ = bA/tA[ctx] if tA.get(ctx,0)>0 else 0.0
+        cB_ = bB/tB[ctx] if tB.get(ctx,0)>0 else 0.0
+        wA = cA_/(cA_+cB_) if (cA_+cB_)>0 else 0.5
+        pARB = wA*pA + (1-wA)*pB
+        if is_rare:
+            rare_mono.append(-math.log2(pM)); rare_bonly.append(-math.log2(pB)); rare_arb.append(-math.log2(pARB))
+        elif b >= 3:
+            common_mono.append(-math.log2(pM)); common_bonly.append(-math.log2(pB))
+    avg = lambda L: sum(L)/len(L) if L else None
+    rows.append({
+        'A_chars': N, 'B_train_chars': len(B_train),
+        'volume_share_B_expected': len(B_train)/(len(A_tr)+len(B_train)),
+        'n_positions': len(shares),
+        'B_voice_mean': avg(shares),
+        'B_voice_median': sorted(shares)[len(shares)//2] if shares else None,
+        'B_voice_known_ctx': avg(shares_known),
+        'B_voice_below_10pct': sum(1 for s in shares if s < 0.10)/len(shares) if shares else None,
+        'n_rare': len(rare_mono), 'n_common': len(common_mono),
+        'rare_bits_mono': avg(rare_mono), 'rare_bits_Bonly': avg(rare_bonly), 'rare_bits_arb': avg(rare_arb),
+        'rare_swamp_mono': (avg(rare_mono)-avg(rare_bonly)) if rare_mono else None,
+        'common_swamp_mono': (avg(common_mono)-avg(common_bonly)) if common_mono else None,
+    })
+res['voice'] = rows
+res['meta'] = {'V':V,'A':len(A_all),'B':len(B_all),'ratio_char':len(A_all)/len(B_all),
+               'B_train':len(B_train),'B_test':len(B_test),'alpha':ALPHA,'K':K}
+with open(OUT,'w',encoding='utf-8') as f: json.dump(res,f,ensure_ascii=False,indent=2)
+print("WROTE",OUT,os.path.getsize(OUT))
+print(f"{'A量':>8} {'B期望份额':>9} {'B实际话语权':>10} {'中位':>7} {'已知ctx':>8} {'<10%占比':>8} | {'稀有n':>6} {'稀有淹没':>9} {'常见淹没':>9}")
+for r in rows:
+    print(f"{r['A_chars']:>8} {r['volume_share_B_expected']:>9.4f} {r['B_voice_mean']:>10.4f} {r['B_voice_median']:>7.3f} {r['B_voice_known_ctx']:>8.4f} {r['B_voice_below_10pct']:>8.3f} | {r['n_rare']:>6} {r['rare_swamp_mono']:>9.3f} {r['common_swamp_mono']:>9.3f}")

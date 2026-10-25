@@ -1,1 +1,51 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiLkuIrlsY/oh6rmo4A6IOe7k+aenOa4suafkyAtPiDlhpkgL2Rldi9mYjAgLT4g5LuO5bin57yT5Yay55yf5a6e6YeH6ZuGIC0+IE9DUiDor7vlm54iIiIKaW1wb3J0IG9zLCBqc29uLCByYW5kb20sIHN1YnByb2Nlc3MKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKCk9VVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMTdfYXV0b25vbW91c19leWUiCkZCID0gIi9kZXYvZmIwIjsgVywgSCA9IDEwMjQsIDc2OApGT05UID0gIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMiCgpEID0ganNvbi5sb2FkKG9wZW4oZiJ7T1VUfS9zdGFnZUQuanNvbiIpKQpDID0ganNvbi5sb2FkKG9wZW4oZiJ7T1VUfS9zdGFnZUMuanNvbiIpKQpjb2RlID0gIiIuam9pbihyYW5kb20uY2hvaWNlKCJBQkNERUZHSEpLTE1OUFFSU1RVVldYWVoyMzQ1Njc4OSIpIGZvciBfIGluIHJhbmdlKDYpKQoKaW1nID0gSW1hZ2UubmV3KCJSR0JBIiwgKFcsIEgpLCAoMjU1LCAyNTUsIDI1NSwgMjU1KSkKZCA9IEltYWdlRHJhdy5EcmF3KGltZykKZl9iaWcgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwgNDApCmZfbWlkID0gSW1hZ2VGb250LnRydWV0eXBlKEZPTlQsIDI3KQpmX3NtID0gSW1hZ2VGb250LnRydWV0eXBlKEZPTlQsIDIyKQoKbGluZXMgPSBbCiAgICAoImV4cDExNyDoh6rkuLvlr7vnnLwgIiArIGNvZGUsIGZfYmlnKSwKICAgICgi5omr5o+P6YCa6YGTIDMyIOadoSwg6Ieq5bex5Yik5a6aIiwgZl9taWQpLAogICAgKCLnnLznnZsgMSDmnaE6IC9kZXYvZmIwIiwgZl9taWQpLAogICAgKCLlj6/pgIbluqYgMS4wMDAwIOaui+W3riAwLjAwMCIsIGZfbWlkKSwKICAgICgi6ZKf6KGoIDYg5p2hOiDlj6/pgIbluqYgMC4wMDAwIiwgZl9taWQpLAogICAgKCLmrbvpgJrpgZMgMjUg5p2hOiDmiJHliqjlroPkuI3liqgiLCBmX21pZCksCiAgICAoIuWPr+ivgeS8qiA4Lzgg5LiOIDAvOCIsIGZfbWlkKSwKICAgICgi5Zug5p6cIDIwLzIwIHZzIDAvMjAg6ZmNIDEwMCIsIGZfbWlkKSwKICAgICgiZXZkZXYg5Zue6K+7IDEwIOS6i+S7tiIsIGZfbWlkKSwKXQp5ID0gNDAKZm9yIHQsIGYgaW4gbGluZXM6CiAgICBkLnRleHQoKDQwLCB5KSwgdCwgZmlsbD0oMCwgMCwgMCwgMjU1KSwgZm9udD1mKQogICAgeSArPSA2MiBpZiBmIGlzIGZfYmlnIGVsc2UgNTIKCiMg5YWz6ZSu5pWw5a2X6KaB6KKrIE9DUiDor7vlh7oKbnVtcyA9IFsiMzIiLCAiMSIsICIxLjAwMDAiLCAiNiIsICIyNSIsICI4IiwgIjIwIiwgIjAiLCAiMTAiXQp3aXRoIG9wZW4oZiJ7T1VUfS9leHBlY3QuanNvbiIsICJ3IikgYXMgZjoKICAgIGpzb24uZHVtcCh7ImNvZGUiOiBjb2RlLCAibnVtcyI6IG51bXN9LCBmKQoKd2l0aCBvcGVuKEZCLCAid2IiLCBidWZmZXJpbmc9MCkgYXMgZjoKICAgIGYud3JpdGUobnAuYXJyYXkoaW1nKS5hc3R5cGUobnAudWludDgpLnRvYnl0ZXMoKSkKCndpdGggb3BlbihGQiwgInJiIiwgYnVmZmVyaW5nPTApIGFzIGY6CiAgICByYXcgPSBmLnJlYWQoVyAqIEggKiA0KQphID0gbnAuZnJvbWJ1ZmZlcihyYXcsIG5wLnVpbnQ4KS5yZXNoYXBlKEgsIFcsIDQpCkltYWdlLmZyb21hcnJheShhWzosIDosIDozXSkuc2F2ZShmIntPVVR9L2NhcHR1cmVkLnBuZyIpCnByaW50KCJjYXB0dXJlZCBieXRlcyIsIGxlbihyYXcpKQpwcmludCgiZXhwZWN0IGNvZGUiLCBjb2RlKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""上屏自检: 结果渲染 -> 写 /dev/fb0 -> 从帧缓冲真实采集 -> OCR 读回"""
+import os, json, random, subprocess
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp117_autonomous_eye"
+FB = "/dev/fb0"; W, H = 1024, 768
+FONT = "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+
+D = json.load(open(f"{OUT}/stageD.json"))
+C = json.load(open(f"{OUT}/stageC.json"))
+code = "".join(random.choice("ABCDEFGHJKLMNPQRSTUVWXYZ23456789") for _ in range(6))
+
+img = Image.new("RGBA", (W, H), (255, 255, 255, 255))
+d = ImageDraw.Draw(img)
+f_big = ImageFont.truetype(FONT, 40)
+f_mid = ImageFont.truetype(FONT, 27)
+f_sm = ImageFont.truetype(FONT, 22)
+
+lines = [
+    ("exp117 自主寻眼 " + code, f_big),
+    ("扫描通道 32 条, 自己判定", f_mid),
+    ("眼睛 1 条: /dev/fb0", f_mid),
+    ("可逆度 1.0000 残差 0.000", f_mid),
+    ("钟表 6 条: 可逆度 0.0000", f_mid),
+    ("死通道 25 条: 我动它不动", f_mid),
+    ("可证伪 8/8 与 0/8", f_mid),
+    ("因果 20/20 vs 0/20 降 100", f_mid),
+    ("evdev 回读 10 事件", f_mid),
+]
+y = 40
+for t, f in lines:
+    d.text((40, y), t, fill=(0, 0, 0, 255), font=f)
+    y += 62 if f is f_big else 52
+
+# 关键数字要被 OCR 读出
+nums = ["32", "1", "1.0000", "6", "25", "8", "20", "0", "10"]
+with open(f"{OUT}/expect.json", "w") as f:
+    json.dump({"code": code, "nums": nums}, f)
+
+with open(FB, "wb", buffering=0) as f:
+    f.write(np.array(img).astype(np.uint8).tobytes())
+
+with open(FB, "rb", buffering=0) as f:
+    raw = f.read(W * H * 4)
+a = np.frombuffer(raw, np.uint8).reshape(H, W, 4)
+Image.fromarray(a[:, :, :3]).save(f"{OUT}/captured.png")
+print("captured bytes", len(raw))
+print("expect code", code)

@@ -1,1 +1,45 @@
-ZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAppbXBvcnQgcmFuZG9tLCBoYXNobGliClcsSD0xMDI0LDc2OApGPSIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIgpkZWYgZihzeik6CiAgICB0cnk6IHJldHVybiBJbWFnZUZvbnQudHJ1ZXR5cGUoRixzeikKICAgIGV4Y2VwdDogcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQp0b2s9IiIuam9pbihyYW5kb20uY2hvaWNlKCJBQ0RFRkdISktMTU5QUVJUVVZXWFkzNDc4OSIpIGZvciBfIGluIHJhbmdlKDYpKQppbT1JbWFnZS5uZXcoIlJHQiIsKFcsSCksKDI1NSwyNTUsMjU1KSk7IGQ9SW1hZ2VEcmF3LkRyYXcoaW0pCmQucmVjdGFuZ2xlKFswLDAsVyw1NF0sZmlsbD0oMjQsMzIsNTYpKQpkLnRleHQoKDE4LDE0KSwiRVhQIDEzMiAgU0VNQU5USUMgQU5DSE9SUyAg4oCUICB3aGVyZSBhIGZpbmRpbmcncyBldmlkZW5jZSBsaXZlcyIsZm9udD1mKDIyKSxmaWxsPSgyNTUsMjU1LDI1NSkpCmQudGV4dCgoMTgsNjYpLCJqdWRnZWQgYnk6IGRvZXMgdGhlIHJlYWRlciwgb24gb3BlbmluZyB0aGF0IGxpbmUsIHNlZSB0aGUgdGhpbmcgYWNjdXNlZD8iLGZvbnQ9ZigxNSksZmlsbD0oNjAsNjAsNjApKQp5PTk4CmRlZiBoZWFkKHQpOgogICAgZ2xvYmFsIHkKICAgIGQudGV4dCgoMTgseSksdCxmb250PWYoMTkpLGZpbGw9KDIwLDYwLDE0MCkpOyB5Kz0yNwpkZWYgcm93KGEsYixjLGNvbD0oMzAsMzAsMzApKToKICAgIGdsb2JhbCB5CiAgICBkLnRleHQoKDMwLHkpLGEsZm9udD1mKDE1KSxmaWxsPWNvbCk7IGQudGV4dCgoMzMwLHkpLGIsZm9udD1mKDE1KSxmaWxsPWNvbCkKICAgIGQudGV4dCgoNzAwLHkpLGMsZm9udD1mKDE1KSxmaWxsPWNvbCk7IHkrPTIyCmhlYWQoIjEuIEVHMDE2ICB0aGUgb25lIGNsZWFuIGZhbHNpZmlhYmxlIHBhaXIiKQpyb3coImRvY3N0cmluZyBVUkwgb25seSIsIm5vIHJlbW90ZSBDQUxMIG5vZGUiLCJFRzAxNiBzaWxlbnQgICBPSyIsKDIwLDExMCw0MCkpCnJvdygicmVhbCByZXF1ZXN0cy5nZXQoLi4uKSIsIkNBTEwgbm9kZSBmb3VuZCIsIkVHMDE2IC0+IEwzICAgT0siLCgyMCwxMTAsNDApKQp5Kz02CmhlYWQoIjIuIEVHMDAyICBteSBvd24gYW5jaG9yIHJlZ3Jlc3Npb24gKGZvdW5kIGFuZCBmaXhlZCkiKQpyb3coImV4cDEzMSBhbmNob3IiLCJMNjY2IGV4YW1wbGUudXBkYXRlKG1ldHJpY3MpIiwic3RyaWN0IFRQIiwoMjAsMTEwLDQwKSkKcm93KCJleHAxMzIgdjEiLCJMNjY3IGFjY1suLi5dLmFwcGVuZChleGFtcGxlKSIsIkRPV05HUkFERUQiLCgxOTAsMzAsMzApKQpyb3coImNhdXNlIiwiJ2FwcGVuZCcgd2FzIGluIHRoZSBlbWl0IGxpc3QiLCJjb2xsZWN0ICE9IHJlcG9ydCIsKDE5MCwzMCwzMCkpCnJvdygiZXhwMTMyIHYyIiwiTDYxMyBmb3IgKHRhc2ssYWNjKSBpbiB6aXAoLi4uKSIsInJlcGFpcmVkIiwoMjAsMTEwLDQwKSkKeSs9NgpoZWFkKCIzLiBnYXRlcyIpCnJvdygicGxhbnRlZCByZWNhbGwiLCIxMi8xMiIsInBybyAxNC8xNCIsKDIwLDExMCw0MCkpCnJvdygicnVsZSBjcmFzaGVzIiwiMCIsIiIsKDIwLDExMCw0MCkpCnJvdygic3RyaWN0IHByZWNpc2lvbiIsIjIvMjIgPSA5JSIsImdhdGUgNjAlIiwoMTkwLDMwLDMwKSkKeSs9NgpoZWFkKCI0LiBsZXNzb24iKQpkLnRleHQoKDMwLHkpLCJjbGFzc2lmeWluZyBieSBDQUxMIE5BTUUgaXMgdGhlIHdyb25nIGF4aXM7Iixmb250PWYoMTYpLGZpbGw9KDkwLDMwLDMwKSk7IHkrPTIyCmQudGV4dCgoMzAseSksInRoZSBtZXRyaWMgV09SRCBpcyB0aGUgc3RhYmxlIHNpZ25hbCBpbiByZWFsIGNvZGUuIixmb250PWYoMTYpLGZpbGw9KDkwLDMwLDMwKSk7IHkrPTI2CmQucmVjdGFuZ2xlKFsxNCx5LFctMTQseSs0MF0sZmlsbD0oMTkwLDMwLDMwKSkKZC50ZXh0KCgyOCx5KzEwKSwiVkVSRElDVCAgIERPIE5PVCBTSElQICAgYW5jaG9ycyBiZXR0ZXIsIHByZWNpc2lvbiBzdGlsbCA5JSIsCiAgICAgICBmb250PWYoMTkpLGZpbGw9KDI1NSwyNTUsMjU1KSkKZC50ZXh0KCgxOCxILTMwKSwiVE9LRU4gIit0b2ssZm9udD1mKDIwKSxmaWxsPSgwLDAsMCkpCmltLnNhdmUoImZpZzEzMi5wbmciKQpvcGVuKCJ0b2tlbi50eHQiLCJ3Iikud3JpdGUodG9rKQpwcmludCgiVE9LRU4iLHRvaywgInNoYSIsIGhhc2hsaWIuc2hhMjU2KGltLnRvYnl0ZXMoKSkuaGV4ZGlnZXN0KClbOjEyXSkK
+from PIL import Image, ImageDraw, ImageFont
+import random, hashlib
+W,H=1024,768
+F="/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+def f(sz):
+    try: return ImageFont.truetype(F,sz)
+    except: return ImageFont.load_default()
+tok="".join(random.choice("ACDEFGHJKLMNPQRTUVWXY34789") for _ in range(6))
+im=Image.new("RGB",(W,H),(255,255,255)); d=ImageDraw.Draw(im)
+d.rectangle([0,0,W,54],fill=(24,32,56))
+d.text((18,14),"EXP 132  SEMANTIC ANCHORS  —  where a finding's evidence lives",font=f(22),fill=(255,255,255))
+d.text((18,66),"judged by: does the reader, on opening that line, see the thing accused?",font=f(15),fill=(60,60,60))
+y=98
+def head(t):
+    global y
+    d.text((18,y),t,font=f(19),fill=(20,60,140)); y+=27
+def row(a,b,c,col=(30,30,30)):
+    global y
+    d.text((30,y),a,font=f(15),fill=col); d.text((330,y),b,font=f(15),fill=col)
+    d.text((700,y),c,font=f(15),fill=col); y+=22
+head("1. EG016  the one clean falsifiable pair")
+row("docstring URL only","no remote CALL node","EG016 silent   OK",(20,110,40))
+row("real requests.get(...)","CALL node found","EG016 -> L3   OK",(20,110,40))
+y+=6
+head("2. EG002  my own anchor regression (found and fixed)")
+row("exp131 anchor","L666 example.update(metrics)","strict TP",(20,110,40))
+row("exp132 v1","L667 acc[...].append(example)","DOWNGRADED",(190,30,30))
+row("cause","'append' was in the emit list","collect != report",(190,30,30))
+row("exp132 v2","L613 for (task,acc) in zip(...)","repaired",(20,110,40))
+y+=6
+head("3. gates")
+row("planted recall","12/12","pro 14/14",(20,110,40))
+row("rule crashes","0","",(20,110,40))
+row("strict precision","2/22 = 9%","gate 60%",(190,30,30))
+y+=6
+head("4. lesson")
+d.text((30,y),"classifying by CALL NAME is the wrong axis;",font=f(16),fill=(90,30,30)); y+=22
+d.text((30,y),"the metric WORD is the stable signal in real code.",font=f(16),fill=(90,30,30)); y+=26
+d.rectangle([14,y,W-14,y+40],fill=(190,30,30))
+d.text((28,y+10),"VERDICT   DO NOT SHIP   anchors better, precision still 9%",
+       font=f(19),fill=(255,255,255))
+d.text((18,H-30),"TOKEN "+tok,font=f(20),fill=(0,0,0))
+im.save("fig132.png")
+open("token.txt","w").write(tok)
+print("TOKEN",tok, "sha", hashlib.sha256(im.tobytes()).hexdigest()[:12])

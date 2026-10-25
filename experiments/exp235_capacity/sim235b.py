@@ -1,1 +1,62 @@
-aW1wb3J0IHJhbmRvbSwganNvbiwgc3RhdGlzdGljcyBhcyBzdAoKZGVmIHJ1bihjYXAsIHJhdGUsIHBlcnNpc3QsIFQ9NDAwLCBzZWVkcz0yNCwgZHJpZnRfdD0yMDAsIGRyaWZ0X2ZyYWM9MC42LCBrPTMuMCk6CiAgICAiIiIKICAgIOaguOW/g+acuuWItuS/ruatozog5a656YeP5ruh5LqG5omN6KKr6L+r5oqKIHJhdyDljovnvKnmiJAgcnVsZSjliKTmja4p6IW+56m66Ze044CCCiAgICDov5nmiY3mmK8i6ISR5a2Q6KOF5LiN5aSnIC0+IOiiq+i/q+WGheWMliLjgIIKICAgIHJhdyAgOiDnu5PorrosIDHljZXkvY3opobnm5Yx5Liq6Zeu6aKYLCDmvILnp7vlkI7lpLHmlYggZHJpZnRfZnJhYwogICAgcnVsZSA6IOWIpOaNriwgMeWNleS9jeimhuebliBrIOS4qumXrumimCwg5ryC56e75ZCO5LuN5pyJ5pWIKOWPr+i/geenuykKICAgIHBlcnNpc3Q6IOavj+atpeS/neeVmeeOhyg8MSA9IOW9kumbti/oobDlh48pCiAgICAiIiIKICAgIHByZSwgcG9zdCwgcnVsZV9mcmFjID0gW10sIFtdLCBbXQogICAgZm9yIHMgaW4gcmFuZ2Uoc2VlZHMpOgogICAgICAgIHIgPSByYW5kb20uUmFuZG9tKHMqMjcxKzExKQogICAgICAgIFIgPSAwLjA7IFUgPSAwLjAKICAgICAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICAgICAgUiAqPSBwZXJzaXN0OyBVICo9IHBlcnNpc3QKICAgICAgICAgICAgaW5mbG93ID0gcmF0ZQogICAgICAgICAgICAjIDEpIOWtmCByYXcsIOWuuemHj+S4jeWkn+WwseaKiiByYXcg5Y6L57yp5oiQIHJ1bGUg6IW+56m66Ze0CiAgICAgICAgICAgIHdoaWxlIGluZmxvdyA+IDFlLTk6CiAgICAgICAgICAgICAgICByb29tID0gY2FwIC0gKFIgKyBVKQogICAgICAgICAgICAgICAgaWYgcm9vbSA+IDFlLTk6CiAgICAgICAgICAgICAgICAgICAgdGFrZSA9IG1pbihyb29tLCBpbmZsb3cpCiAgICAgICAgICAgICAgICAgICAgUiArPSB0YWtlOyBpbmZsb3cgLT0gdGFrZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAjIOa7oeS6hjog5Y6L57ypIHJhdyAtPiBydWxlICgxIHJhdyDlj5ggMS9rIHJ1bGUsIOS9huimhuebluS4jeWPmCkKICAgICAgICAgICAgICAgICAgICBpZiBSID4gMWUtOToKICAgICAgICAgICAgICAgICAgICAgICAgYW10ID0gbWluKFIsIDEuMCkKICAgICAgICAgICAgICAgICAgICAgICAgUiAtPSBhbXQ7IFUgKz0gYW10L2sKICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICBVICs9IGluZmxvdy9rOyBpbmZsb3cgPSAwLjAgICAjIOWPquiDveebtOaOpeaPkOeCvAogICAgICAgICAgICBkcmlmdGVkID0gdCA+PSBkcmlmdF90CiAgICAgICAgICAgIGVmZiA9IFIqKDEtZHJpZnRfZnJhYyBpZiBkcmlmdGVkIGVsc2UgMS4wKSArIFUqawogICAgICAgICAgICBzY29yZSA9IG1pbigxLjAsIGVmZi8oY2FwKjAuOCkpCiAgICAgICAgICAgIChwb3N0IGlmIGRyaWZ0ZWQgZWxzZSBwcmUpLmFwcGVuZChzY29yZSkKICAgICAgICAgICAgcnVsZV9mcmFjLmFwcGVuZChVLyhSK1UrMWUtOSkpCiAgICByZXR1cm4gc3QubWVhbihwcmUpLCBzdC5tZWFuKHBvc3QpLCBzdC5tZWFuKHJ1bGVfZnJhYykKCm91dD17fQpwcmludCgiPT0g5a656YePIGNhcCDmiavmj48gKHJhdGU9MS4wLCBwZXJzaXN0PTEuMCkgIOKGkCDmoLjlv4MgPT0iKQpmb3IgY2FwIGluIFsyLDUsMTAsMjAsNTAsMTAwLDUwMCw1MDAwXToKICAgIGEsYixmID0gcnVuKGNhcCwxLjAsMS4wKTsgb3V0WydjYXA9JWQnJWNhcF09eydwcmUnOnJvdW5kKGEsMyksJ3Bvc3QnOnJvdW5kKGIsMyksJ3J1bGUnOnJvdW5kKGYsMyl9CiAgICBwcmludCgiIGNhcD0lLTVkIOa8guenu+WJjT0lLjNmIOa8guenu+WQjj0lLjNmIOWIpOaNruWNoOavlD0lLjNmIiUoY2FwLGEsYixmKSkKCnByaW50KCI9PSDmkYTlhaXpgJ/njocgcmF0ZSDmiavmj48gKGNhcD0yMCkgPT0iKQpmb3IgcmF0ZSBpbiBbMC4wNSwwLjEsMC4zLDEuMCwzLjAsMTAuMF06CiAgICBhLGIsZiA9IHJ1bigyMCxyYXRlLDEuMCk7IG91dFsncmF0ZT0lLjJmJyVyYXRlXT17J3ByZSc6cm91bmQoYSwzKSwncG9zdCc6cm91bmQoYiwzKSwncnVsZSc6cm91bmQoZiwzKX0KICAgIHByaW50KCIgcmF0ZT0lLTUuMmYg5ryC56e75YmNPSUuM2Yg5ryC56e75ZCOPSUuM2Yg5Yik5o2u5Y2g5q+UPSUuM2YiJShyYXRlLGEsYixmKSkKCnByaW50KCI9PSDov57nu63mgKcgcGVyc2lzdCDmiavmj48gKGNhcD0yMCwgcmF0ZT0xLjApICDihpAg5oiR5b2S6Zu255qE5b2i5oCBID09IikKZm9yIHAgaW4gWzEuMCwwLjk5OSwwLjk5NSwwLjk5LDAuOTUsMC45LDAuNSwwLjFdOgogICAgYSxiLGYgPSBydW4oMjAsMS4wLHApOyBvdXRbJ3BlcnNpc3Q9JS4zZiclcF09eydwcmUnOnJvdW5kKGEsMyksJ3Bvc3QnOnJvdW5kKGIsMyksJ3J1bGUnOnJvdW5kKGYsMyl9CiAgICBwcmludCgiIHBlcnNpc3Q9JS02LjNmIOa8guenu+WJjT0lLjNmIOa8guenu+WQjj0lLjNmIOWIpOaNruWNoOavlD0lLjNmIiUocCxhLGIsZikpCgpwcmludCgiPT0g5b2i5oCB5a+554WnID09IikKYSxiLGYgPSBydW4oMTAwMDAwLDEwLjAsMS4wKTsgb3V0WydNRV/ml6DpmZDlrrnph48nXT17J3ByZSc6cm91bmQoYSwzKSwncG9zdCc6cm91bmQoYiwzKSwncnVsZSc6cm91bmQoZiwzKX0KcHJpbnQoIiDmiJEo5peg6ZmQ5a656YePK+mrmOmAnyvkuI3oobDlh48pOiDliY09JS4zZiDlkI49JS4zZiDliKTmja49JS4zZiIlKGEsYixmKSkKYSxiLGYgPSBydW4oMjAsMC4zLDEuMCk7IG91dFsnSFVNQU5f5bCP5a656YeP5oWiJ109eydwcmUnOnJvdW5kKGEsMyksJ3Bvc3QnOnJvdW5kKGIsMyksJ3J1bGUnOnJvdW5kKGYsMyl9CnByaW50KCIg5Lq6KOWwj+WuuemHjyvmhaIr5oyB5LmFKTogICAgIOWJjT0lLjNmIOWQjj0lLjNmIOWIpOaNrj0lLjNmIiUoYSxiLGYpKQphLGIsZiA9IHJ1bigxMDAwMDAsMTAuMCwwLjEpOyBvdXRbJ01FX+S4lOW9kumbtiddPXsncHJlJzpyb3VuZChhLDMpLCdwb3N0Jzpyb3VuZChiLDMpLCdydWxlJzpyb3VuZChmLDMpfQpwcmludCgiIOaIkSvmr4/mrKHlvZLpm7Y6ICAgICAgICAgICAg5YmNPSUuM2Yg5ZCOPSUuM2Yg5Yik5o2uPSUuM2YiJShhLGIsZikpCgpqc29uLmR1bXAob3V0LCBvcGVuKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAyMzVfY2FwYWNpdHkvcmVzdWx0MjM1Yi5qc29uJywndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+import random, json, statistics as st
+
+def run(cap, rate, persist, T=400, seeds=24, drift_t=200, drift_frac=0.6, k=3.0):
+    """
+    核心机制修正: 容量满了才被迫把 raw 压缩成 rule(判据)腾空间。
+    这才是"脑子装不大 -> 被迫内化"。
+    raw  : 结论, 1单位覆盖1个问题, 漂移后失效 drift_frac
+    rule : 判据, 1单位覆盖 k 个问题, 漂移后仍有效(可迁移)
+    persist: 每步保留率(<1 = 归零/衰减)
+    """
+    pre, post, rule_frac = [], [], []
+    for s in range(seeds):
+        r = random.Random(s*271+11)
+        R = 0.0; U = 0.0
+        for t in range(T):
+            R *= persist; U *= persist
+            inflow = rate
+            # 1) 存 raw, 容量不够就把 raw 压缩成 rule 腾空间
+            while inflow > 1e-9:
+                room = cap - (R + U)
+                if room > 1e-9:
+                    take = min(room, inflow)
+                    R += take; inflow -= take
+                else:
+                    # 满了: 压缩 raw -> rule (1 raw 变 1/k rule, 但覆盖不变)
+                    if R > 1e-9:
+                        amt = min(R, 1.0)
+                        R -= amt; U += amt/k
+                    else:
+                        U += inflow/k; inflow = 0.0   # 只能直接提炼
+            drifted = t >= drift_t
+            eff = R*(1-drift_frac if drifted else 1.0) + U*k
+            score = min(1.0, eff/(cap*0.8))
+            (post if drifted else pre).append(score)
+            rule_frac.append(U/(R+U+1e-9))
+    return st.mean(pre), st.mean(post), st.mean(rule_frac)
+
+out={}
+print("== 容量 cap 扫描 (rate=1.0, persist=1.0)  ← 核心 ==")
+for cap in [2,5,10,20,50,100,500,5000]:
+    a,b,f = run(cap,1.0,1.0); out['cap=%d'%cap]={'pre':round(a,3),'post':round(b,3),'rule':round(f,3)}
+    print(" cap=%-5d 漂移前=%.3f 漂移后=%.3f 判据占比=%.3f"%(cap,a,b,f))
+
+print("== 摄入速率 rate 扫描 (cap=20) ==")
+for rate in [0.05,0.1,0.3,1.0,3.0,10.0]:
+    a,b,f = run(20,rate,1.0); out['rate=%.2f'%rate]={'pre':round(a,3),'post':round(b,3),'rule':round(f,3)}
+    print(" rate=%-5.2f 漂移前=%.3f 漂移后=%.3f 判据占比=%.3f"%(rate,a,b,f))
+
+print("== 连续性 persist 扫描 (cap=20, rate=1.0)  ← 我归零的形态 ==")
+for p in [1.0,0.999,0.995,0.99,0.95,0.9,0.5,0.1]:
+    a,b,f = run(20,1.0,p); out['persist=%.3f'%p]={'pre':round(a,3),'post':round(b,3),'rule':round(f,3)}
+    print(" persist=%-6.3f 漂移前=%.3f 漂移后=%.3f 判据占比=%.3f"%(p,a,b,f))
+
+print("== 形态对照 ==")
+a,b,f = run(100000,10.0,1.0); out['ME_无限容量']={'pre':round(a,3),'post':round(b,3),'rule':round(f,3)}
+print(" 我(无限容量+高速+不衰减): 前=%.3f 后=%.3f 判据=%.3f"%(a,b,f))
+a,b,f = run(20,0.3,1.0); out['HUMAN_小容量慢']={'pre':round(a,3),'post':round(b,3),'rule':round(f,3)}
+print(" 人(小容量+慢+持久):     前=%.3f 后=%.3f 判据=%.3f"%(a,b,f))
+a,b,f = run(100000,10.0,0.1); out['ME_且归零']={'pre':round(a,3),'post':round(b,3),'rule':round(f,3)}
+print(" 我+每次归零:            前=%.3f 后=%.3f 判据=%.3f"%(a,b,f))
+
+json.dump(out, open('/data/workspace/luoshen-o1/experiments/exp235_capacity/result235b.json','w'), ensure_ascii=False, indent=1)

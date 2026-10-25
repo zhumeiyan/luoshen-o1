@@ -1,1 +1,48 @@
-bmFtZTog8J+TpiBPcmRlciDigJQgSSd2ZSBwYWlkIC8g5oiR5bey5LuY5qy+CmRlc2NyaXB0aW9uOiBTdWJtaXQgeW91ciByZW1pdHRhbmNlIHJlZmVyZW5jZSB0byByZWNlaXZlIHRoZSBkb3dubG9hZCBwYWNrYWdlLiDmj5DkuqTmsYfmrL7lj4LogIPlj7fku6Xojrflj5bkuIvovb3ljIXjgIIKdGl0bGU6ICJbT1JERVJdICIKbGFiZWxzOiBbIm9yZGVyIl0KYm9keToKICAtIHR5cGU6IG1hcmtkb3duCiAgICBhdHRyaWJ1dGVzOgogICAgICB2YWx1ZTogfAogICAgICAgICMjIEJlZm9yZSB5b3UgZmlsbCB0aGlzIGluIC8g5aGr5YaZ5YmN6K+35YWI5a6M5oiQ5LuY5qy+CgogICAgICAgIDEuIEdvIHRvICoqaHR0cHM6Ly9yZW1pdC5hbGlwYXkuY29tKioKICAgICAgICAyLiBTZW5kIHRoZSBhbW91bnQgZm9yIHlvdXIgdGllciAoU3RhcnRlciAkMjkgLyBQcm8gJDk5IC8gVGVhbSAkNDk5KQogICAgICAgIDMuIFJlY2lwaWVudDogQWxpcGF5IElEIGAxODY5NzA2NjQyMmAgwrcgTGFzdCBuYW1lIGBaSFVgIMK3IEZpcnN0IG5hbWUgYE1FSSBZQU5gCiAgICAgICAgNC4gKipQdXJwb3NlIG11c3QgYmUgYFNlcnZpY2UgRmVlYCoqIOKAlCBvdGhlcndpc2UgQWxpcGF5IHdpbGwgcmVmdW5kIGl0CiAgICAgICAgNS4gQ29weSB0aGUgcmVtaXR0YW5jZSByZWZlcmVuY2UgbnVtYmVyLCBwYXN0ZSBpdCBiZWxvdwoKICAgICAgICBBbnN3ZXJlZCBhdXRvbWF0aWNhbGx5LCB1c3VhbGx5IHdpdGhpbiB+MzAgc2Vjb25kcy4KICAgICAgICDmnKzooajljZXnlLHoh6rliqjljJblt6XkvZzmtYHlpITnkIbvvIzpgJrluLggMzAg56eS5YaF5Zue5aSN44CCCgogIC0gdHlwZTogZHJvcGRvd24KICAgIGlkOiB0aWVyCiAgICBhdHRyaWJ1dGVzOgogICAgICBsYWJlbDogInRpZXIgLyDmoaPkvY0iCiAgICAgIGRlc2NyaXB0aW9uOiAiV2hpY2ggdGllciBkaWQgeW91IHBheSBmb3I/IOS9oOi0reS5sOeahOaYr+WTquS4gOaho++8nyIKICAgICAgb3B0aW9uczoKICAgICAgICAtIHN0YXJ0ZXIKICAgICAgICAtIHBybwogICAgICAgIC0gdGVhbQogICAgdmFsaWRhdGlvbnM6CiAgICAgIHJlcXVpcmVkOiB0cnVlCgogIC0gdHlwZTogaW5wdXQKICAgIGlkOiByZWZlcmVuY2UKICAgIGF0dHJpYnV0ZXM6CiAgICAgIGxhYmVsOiAicmVmZXJlbmNlIC8g5rGH5qy+5Y+C6ICD5Y+3IgogICAgICBkZXNjcmlwdGlvbjogIlRoZSByZWZlcmVuY2UgbnVtYmVyIGZyb20gcmVtaXQuYWxpcGF5LmNvbSAobGV0dGVycy9udW1iZXJzLCBhdCBsZWFzdCA2IGNoYXJhY3RlcnMpLiByZW1pdC5hbGlwYXkuY29tIOe7meWHuueahOWPguiAg+WPt++8jOiHs+WwkSA2IOS9jeOAgiIKICAgICAgcGxhY2Vob2xkZXI6ICJBQkMxMjM0NTY3OCIKICAgIHZhbGlkYXRpb25zOgogICAgICByZXF1aXJlZDogdHJ1ZQoKICAtIHR5cGU6IGlucHV0CiAgICBpZDogZW1haWwKICAgIGF0dHJpYnV0ZXM6CiAgICAgIGxhYmVsOiAiZW1haWwgLyDpgq7nrrHvvIjlj6/pgInvvIkiCiAgICAgIGRlc2NyaXB0aW9uOiAiT25seSB1c2VkIHRvIHJlLXNlbmQgdGhlIHBhY2thZ2UgaWYgdGhlIGxpbmsgZmFpbHMuIOS7heWcqOmTvuaOpeWkseaViOaXtueUqOS6juihpeWPkeOAgiIKICAgICAgcGxhY2Vob2xkZXI6ICJ5b3VAY29ycC5jb20iCiAgICB2YWxpZGF0aW9uczoKICAgICAgcmVxdWlyZWQ6IGZhbHNlCg==
+name: 📦 Order — I've paid / 我已付款
+description: Submit your remittance reference to receive the download package. 提交汇款参考号以获取下载包。
+title: "[ORDER] "
+labels: ["order"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Before you fill this in / 填写前请先完成付款
+
+        1. Go to **https://remit.alipay.com**
+        2. Send the amount for your tier (Starter $29 / Pro $99 / Team $499)
+        3. Recipient: Alipay ID `18697066422` · Last name `ZHU` · First name `MEI YAN`
+        4. **Purpose must be `Service Fee`** — otherwise Alipay will refund it
+        5. Copy the remittance reference number, paste it below
+
+        Answered automatically, usually within ~30 seconds.
+        本表单由自动化工作流处理，通常 30 秒内回复。
+
+  - type: dropdown
+    id: tier
+    attributes:
+      label: "tier / 档位"
+      description: "Which tier did you pay for? 你购买的是哪一档？"
+      options:
+        - starter
+        - pro
+        - team
+    validations:
+      required: true
+
+  - type: input
+    id: reference
+    attributes:
+      label: "reference / 汇款参考号"
+      description: "The reference number from remit.alipay.com (letters/numbers, at least 6 characters). remit.alipay.com 给出的参考号，至少 6 位。"
+      placeholder: "ABC12345678"
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: "email / 邮箱（可选）"
+      description: "Only used to re-send the package if the link fails. 仅在链接失效时用于补发。"
+      placeholder: "you@corp.com"
+    validations:
+      required: false

@@ -1,1 +1,58 @@
-WwogewogICJkb21haW4iOiAiQV9ldGwiLAogICJmaWxlcyI6IDE4LAogICJrYiI6IDE0NC41LAogICJoaXRzIjogMSwKICAicGVyMTAwa2IiOiAwLjY5MiwKICAic2lsZW50IjogIjE3LzE4IgogfSwKIHsKICAiZG9tYWluIjogIkJfcXVhbnQiLAogICJmaWxlcyI6IDEyLAogICJrYiI6IDg4LjEsCiAgImhpdHMiOiAxNSwKICAicGVyMTAwa2IiOiAxNy4wMzYsCiAgInNpbGVudCI6ICI4LzEyIgogfSwKIHsKICAiZG9tYWluIjogIkNfY3Jhd2xlciIsCiAgImZpbGVzIjogNiwKICAia2IiOiA0My44LAogICJoaXRzIjogMCwKICAicGVyMTAwa2IiOiAwLjAsCiAgInNpbGVudCI6ICI2LzYiCiB9LAogewogICJkb21haW4iOiAiRF9sbG1hZ2VudCIsCiAgImZpbGVzIjogMTEsCiAgImtiIjogOTcuNiwKICAiaGl0cyI6IDAsCiAgInBlcjEwMGtiIjogMC4wLAogICJzaWxlbnQiOiAiMTEvMTEiCiB9LAogewogICJkb21haW4iOiAiRV90ZWFjaGluZyIsCiAgImZpbGVzIjogMTEsCiAgImtiIjogMjQuOSwKICAiaGl0cyI6IDcsCiAgInBlcjEwMGtiIjogMjguMTU3LAogICJzaWxlbnQiOiAiOS8xMSIKIH0sCiB7CiAgImRvbWFpbiI6ICJGX3NtYWxsIiwKICAiZmlsZXMiOiA0MywKICAia2IiOiAzOTcuMiwKICAiaGl0cyI6IDMxLAogICJwZXIxMDBrYiI6IDcuODA2LAogICJzaWxlbnQiOiAiMjcvNDMiCiB9LAogewogICJkb21haW4iOiAiR19yZXRyeSIsCiAgImZpbGVzIjogMTU2LAogICJrYiI6IDE2MDkuOCwKICAiaGl0cyI6IDEwMiwKICAicGVyMTAwa2IiOiA2LjMzNiwKICAic2lsZW50IjogIjExMS8xNTYiCiB9Cl0=
+[
+ {
+  "domain": "A_etl",
+  "files": 18,
+  "kb": 144.5,
+  "hits": 1,
+  "per100kb": 0.692,
+  "silent": "17/18"
+ },
+ {
+  "domain": "B_quant",
+  "files": 12,
+  "kb": 88.1,
+  "hits": 15,
+  "per100kb": 17.036,
+  "silent": "8/12"
+ },
+ {
+  "domain": "C_crawler",
+  "files": 6,
+  "kb": 43.8,
+  "hits": 0,
+  "per100kb": 0.0,
+  "silent": "6/6"
+ },
+ {
+  "domain": "D_llmagent",
+  "files": 11,
+  "kb": 97.6,
+  "hits": 0,
+  "per100kb": 0.0,
+  "silent": "11/11"
+ },
+ {
+  "domain": "E_teaching",
+  "files": 11,
+  "kb": 24.9,
+  "hits": 7,
+  "per100kb": 28.157,
+  "silent": "9/11"
+ },
+ {
+  "domain": "F_small",
+  "files": 43,
+  "kb": 397.2,
+  "hits": 31,
+  "per100kb": 7.806,
+  "silent": "27/43"
+ },
+ {
+  "domain": "G_retry",
+  "files": 156,
+  "kb": 1609.8,
+  "hits": 102,
+  "per100kb": 6.336,
+  "silent": "111/156"
+ }
+]

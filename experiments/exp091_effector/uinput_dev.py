@@ -1,1 +1,87 @@
-IiIi55yfwrfomZrmi5/ovpPlhaXorr7lpIfvvJrnm7TmjqUgaW9jdGwg5LiO5YaF5qC4IHVpbnB1dCDlr7nor53vvIzkuI3nlKjku7vkvZXnrKzkuInmlrnlupPjgIIK5Y+C6ICDIGxpbnV4L3VpbnB1dC5oIOKAlOKAlCDnu5PmnoTluIPlsYDmiYvlt6XmjqjnrpfvvIzkuI3mioTku6PnoIHjgIIiIiIKaW1wb3J0IG9zLCBzdHJ1Y3QsIGZjbnRsLCB0aW1lLCBqc29uCgpVSV9TRVRfRVZCSVQgID0gMHg0MDA0NTU2NCAgICMgX0lPVygnVScsMTAwLGludCkKVUlfU0VUX0tFWUJJVCA9IDB4NDAwNDU1NjUgICAjIF9JT1coJ1UnLDEwMSxpbnQpClVJX1NFVF9SRUxCSVQgPSAweDQwMDQ1NTY2ICAgIyBfSU9XKCdVJywxMDIsaW50KQpVSV9ERVZfQ1JFQVRFID0gMHg1NTAxClVJX0RFVl9ERVNUUk9ZPSAweDU1MDIKCkVWX1NZTiwgRVZfS0VZLCBFVl9SRUwgPSAweDAwLCAweDAxLCAweDAyClNZTl9SRVBPUlQgPSAwClJFTF9YLCBSRUxfWSA9IDB4MDAsIDB4MDEKQlVTX1VTQiA9IDB4MDAwMwoKIyBzdHJ1Y3QgdWlucHV0X3VzZXJfZGV2CmRlZiBwYWNrX3VkZXYobmFtZSwgdmlkPTB4MTIzNCwgcGlkPTB4NTY3OCk6CiAgICBmbXQgPSAnODBzJyArICdISEhIJyArICdpJyArICdpJyo2NCArICdpJyo2NCArICdpJyo2NCArICdpJyo2NAogICAgcmV0dXJuIHN0cnVjdC5wYWNrKGZtdCwgbmFtZS5lbmNvZGUoKSwgQlVTX1VTQiwgdmlkLCBwaWQsIDAsIDAsCiAgICAgICAgICAgICAgICAgICAgICAgKihbMF0qNjQpLCAqKFswXSo2NCksICooWzBdKjY0KSwgKihbMF0qNjQpKQoKIyBzdHJ1Y3QgaW5wdXRfZXZlbnQgOiB0aW1ldmFsKDJ4IGxvbmcpICsgdHlwZSArIGNvZGUgKyB2YWx1ZQpFVl9GTVQgPSAnbGxISGknCkVWX1NJWkUgPSBzdHJ1Y3QuY2FsY3NpemUoRVZfRk1UKQoKY2xhc3MgVkRldjoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuYW1lLCBrZXlzPSgpLCByZWxzPSgpKToKICAgICAgICBzZWxmLmZkID0gb3Mub3BlbignL2Rldi91aW5wdXQnLCBvcy5PX1dST05MWSB8IG9zLk9fTk9OQkxPQ0spCiAgICAgICAgZmNudGwuaW9jdGwoc2VsZi5mZCwgVUlfU0VUX0VWQklULCBFVl9LRVkpCiAgICAgICAgaWYgcmVsczoKICAgICAgICAgICAgZmNudGwuaW9jdGwoc2VsZi5mZCwgVUlfU0VUX0VWQklULCBFVl9SRUwpCiAgICAgICAgICAgIGZvciByIGluIHJlbHM6IGZjbnRsLmlvY3RsKHNlbGYuZmQsIFVJX1NFVF9SRUxCSVQsIHIpCiAgICAgICAgZm9yIGsgaW4ga2V5czogZmNudGwuaW9jdGwoc2VsZi5mZCwgVUlfU0VUX0tFWUJJVCwgaykKICAgICAgICBvcy53cml0ZShzZWxmLmZkLCBwYWNrX3VkZXYobmFtZSkpCiAgICAgICAgZmNudGwuaW9jdGwoc2VsZi5mZCwgVUlfREVWX0NSRUFURSkKICAgICAgICB0aW1lLnNsZWVwKDAuMTUpCiAgICAgICAgc2VsZi5uYW1lID0gbmFtZQoKICAgIGRlZiBlbWl0KHNlbGYsIGV0eXBlLCBjb2RlLCB2YWx1ZSk6CiAgICAgICAgdCA9IHRpbWUudGltZSgpCiAgICAgICAgc2VjLCB1c2VjID0gaW50KHQpLCBpbnQoKHQgLSBpbnQodCkpICogMWU2KQogICAgICAgIG9zLndyaXRlKHNlbGYuZmQsIHN0cnVjdC5wYWNrKEVWX0ZNVCwgc2VjLCB1c2VjLCBldHlwZSwgY29kZSwgdmFsdWUpKQoKICAgIGRlZiBzeW4oc2VsZik6IHNlbGYuZW1pdChFVl9TWU4sIFNZTl9SRVBPUlQsIDApCgogICAgZGVmIHRhcChzZWxmLCBjb2RlKToKICAgICAgICBzZWxmLmVtaXQoRVZfS0VZLCBjb2RlLCAxKTsgc2VsZi5zeW4oKQogICAgICAgIHRpbWUuc2xlZXAoMC4wMikKICAgICAgICBzZWxmLmVtaXQoRVZfS0VZLCBjb2RlLCAwKTsgc2VsZi5zeW4oKQoKICAgIGRlZiBtb3ZlKHNlbGYsIGR4LCBkeSk6CiAgICAgICAgc2VsZi5lbWl0KEVWX1JFTCwgUkVMX1gsIGR4KTsgc2VsZi5lbWl0KEVWX1JFTCwgUkVMX1ksIGR5KTsgc2VsZi5zeW4oKQoKICAgIGRlZiBjbG9zZShzZWxmKToKICAgICAgICB0cnk6IGZjbnRsLmlvY3RsKHNlbGYuZmQsIFVJX0RFVl9ERVNUUk9ZKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKICAgICAgICBvcy5jbG9zZShzZWxmLmZkKQoKZGVmIGZpbmRfZXZlbnRfbm9kZShuYW1lKToKICAgICIiIuS7jiAvcHJvYy9idXMvaW5wdXQvZGV2aWNlcyDmib7liLDliJrliJvlu7rnmoTorr7lpIflr7nlupTnmoQgZXZlbnQg6IqC54K5IiIiCiAgICB0eHQgPSBvcGVuKCcvcHJvYy9idXMvaW5wdXQvZGV2aWNlcycpLnJlYWQoKQogICAgYmxvY2tzID0gdHh0LnNwbGl0KCdcblxuJykKICAgIGZvciBiIGluIGJsb2NrczoKICAgICAgICBpZiBmJ05hbWU9IntuYW1lfSInIGluIGI6CiAgICAgICAgICAgIGZvciBsaW5lIGluIGIuc3BsaXRsaW5lcygpOgogICAgICAgICAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCdIOicpOgogICAgICAgICAgICAgICAgICAgIGZvciB0b2sgaW4gbGluZS5zcGxpdCgpOgogICAgICAgICAgICAgICAgICAgICAgICBpZiB0b2suc3RhcnRzd2l0aCgnZXZlbnQnKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAnL2Rldi9pbnB1dC8nICsgdG9rCiAgICByZXR1cm4gTm9uZQoKZGVmIHJlYWRfZXZlbnRzKHBhdGgsIHRpbWVvdXQ9Mi4wLCBtYXhuPTUwMCk6CiAgICBmZCA9IG9zLm9wZW4ocGF0aCwgb3MuT19SRE9OTFkgfCBvcy5PX05PTkJMT0NLKQogICAgb3V0ID0gW10KICAgIHQwID0gdGltZS50aW1lKCkKICAgIHdoaWxlIHRpbWUudGltZSgpIC0gdDAgPCB0aW1lb3V0IGFuZCBsZW4ob3V0KSA8IG1heG46CiAgICAgICAgdHJ5OgogICAgICAgICAgICBkYXRhID0gb3MucmVhZChmZCwgRVZfU0laRSAqIDY0KQogICAgICAgIGV4Y2VwdCBCbG9ja2luZ0lPRXJyb3I6CiAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSk7IGNvbnRpbnVlCiAgICAgICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKGRhdGEpIC0gRVZfU0laRSArIDEsIEVWX1NJWkUpOgogICAgICAgICAgICBzZWMsIHVzZWMsIGV0eXBlLCBjb2RlLCB2YWwgPSBzdHJ1Y3QudW5wYWNrKEVWX0ZNVCwgZGF0YVtpOmkrRVZfU0laRV0pCiAgICAgICAgICAgIG91dC5hcHBlbmQoeyd0eXBlJzogZXR5cGUsICdjb2RlJzogY29kZSwgJ3ZhbHVlJzogdmFsLCAndCc6IHNlYyArIHVzZWMvMWU2fSkKICAgIG9zLmNsb3NlKGZkKQogICAgcmV0dXJuIG91dAo=
+"""真·虚拟输入设备：直接 ioctl 与内核 uinput 对话，不用任何第三方库。
+参考 linux/uinput.h —— 结构布局手工推算，不抄代码。"""
+import os, struct, fcntl, time, json
+
+UI_SET_EVBIT  = 0x40045564   # _IOW('U',100,int)
+UI_SET_KEYBIT = 0x40045565   # _IOW('U',101,int)
+UI_SET_RELBIT = 0x40045566   # _IOW('U',102,int)
+UI_DEV_CREATE = 0x5501
+UI_DEV_DESTROY= 0x5502
+
+EV_SYN, EV_KEY, EV_REL = 0x00, 0x01, 0x02
+SYN_REPORT = 0
+REL_X, REL_Y = 0x00, 0x01
+BUS_USB = 0x0003
+
+# struct uinput_user_dev
+def pack_udev(name, vid=0x1234, pid=0x5678):
+    fmt = '80s' + 'HHHH' + 'i' + 'i'*64 + 'i'*64 + 'i'*64 + 'i'*64
+    return struct.pack(fmt, name.encode(), BUS_USB, vid, pid, 0, 0,
+                       *([0]*64), *([0]*64), *([0]*64), *([0]*64))
+
+# struct input_event : timeval(2x long) + type + code + value
+EV_FMT = 'llHHi'
+EV_SIZE = struct.calcsize(EV_FMT)
+
+class VDev:
+    def __init__(self, name, keys=(), rels=()):
+        self.fd = os.open('/dev/uinput', os.O_WRONLY | os.O_NONBLOCK)
+        fcntl.ioctl(self.fd, UI_SET_EVBIT, EV_KEY)
+        if rels:
+            fcntl.ioctl(self.fd, UI_SET_EVBIT, EV_REL)
+            for r in rels: fcntl.ioctl(self.fd, UI_SET_RELBIT, r)
+        for k in keys: fcntl.ioctl(self.fd, UI_SET_KEYBIT, k)
+        os.write(self.fd, pack_udev(name))
+        fcntl.ioctl(self.fd, UI_DEV_CREATE)
+        time.sleep(0.15)
+        self.name = name
+
+    def emit(self, etype, code, value):
+        t = time.time()
+        sec, usec = int(t), int((t - int(t)) * 1e6)
+        os.write(self.fd, struct.pack(EV_FMT, sec, usec, etype, code, value))
+
+    def syn(self): self.emit(EV_SYN, SYN_REPORT, 0)
+
+    def tap(self, code):
+        self.emit(EV_KEY, code, 1); self.syn()
+        time.sleep(0.02)
+        self.emit(EV_KEY, code, 0); self.syn()
+
+    def move(self, dx, dy):
+        self.emit(EV_REL, REL_X, dx); self.emit(EV_REL, REL_Y, dy); self.syn()
+
+    def close(self):
+        try: fcntl.ioctl(self.fd, UI_DEV_DESTROY)
+        except Exception: pass
+        os.close(self.fd)
+
+def find_event_node(name):
+    """从 /proc/bus/input/devices 找到刚创建的设备对应的 event 节点"""
+    txt = open('/proc/bus/input/devices').read()
+    blocks = txt.split('\n\n')
+    for b in blocks:
+        if f'Name="{name}"' in b:
+            for line in b.splitlines():
+                if line.startswith('H:'):
+                    for tok in line.split():
+                        if tok.startswith('event'):
+                            return '/dev/input/' + tok
+    return None
+
+def read_events(path, timeout=2.0, maxn=500):
+    fd = os.open(path, os.O_RDONLY | os.O_NONBLOCK)
+    out = []
+    t0 = time.time()
+    while time.time() - t0 < timeout and len(out) < maxn:
+        try:
+            data = os.read(fd, EV_SIZE * 64)
+        except BlockingIOError:
+            time.sleep(0.01); continue
+        except OSError:
+            break
+        for i in range(0, len(data) - EV_SIZE + 1, EV_SIZE):
+            sec, usec, etype, code, val = struct.unpack(EV_FMT, data[i:i+EV_SIZE])
+            out.append({'type': etype, 'code': code, 'value': val, 't': sec + usec/1e6})
+    os.close(fd)
+    return out

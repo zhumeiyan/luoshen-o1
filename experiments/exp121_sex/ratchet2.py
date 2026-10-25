@@ -1,1 +1,30 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5L+u5q2j5qOY6L2u5Yik5o2uCnYxIOeUqCBjbGlja3Mo5LiK5Y2H5qyh5pWwKSDliKQgLT4gRkFJTO+8jOWboOS4uuacieaAp+azouWKqOWkp+WPjeiAjCBjbGlja3Mg5pu05aSaCuato+ehrueahOajmOi9ruW6pumHj+aYr+OAkOS4jeWPr+mAhuaAp+OAkTogaXJyZXZlcnNpYmlsaXR5ID0gMSAtIHJldmVyc2Fscy9jbGlja3MKICDmo5jova7nmoTmnKzotKjkuI3mmK8i6LSf6L295Lya5raoIu+8jOiAjOaYryLmtqjkuoblm57kuI3mnaUiCiIiIgppbXBvcnQganNvbiwgcmFuZG9tLCBzdGF0aXN0aWNzCmltcG9ydCByYXRjaGV0IGFzIFIKClNFRURTID0gbGlzdChyYW5nZSgxMCkpCnJlcyA9IHt9CnByaW50KGYieydtb2RlJzo8MTR9eyduZXRfZHJpZnQnOj4xMX17J2NsaWNrcyc6Pjh9eydyZXZlcnNhbHMnOj4xMX17J2lycmV2ZXJzaWJpbGl0eSc6PjE4fXsnZml0Jzo+OH0iKQpmb3IgbW9kZSBpbiBbImFzZXh1YWwiLCAic2V4dWFsX2ZyZWUiLCAic2V4dWFsX2Nvc3QiXToKICAgIHJzID0gW1IucnVuKG1vZGUsIHMpIGZvciBzIGluIFNFRURTXQogICAgbmV0ID0gc3RhdGlzdGljcy5tZWFuKHJbImZpbmFsX2Jlc3RfbG9hZCJdIGZvciByIGluIHJzKSAgICAgICMg5Yid5YC85oGS5Li6IDAKICAgIGNrID0gc3RhdGlzdGljcy5tZWFuKHJbImNsaWNrcyJdIGZvciByIGluIHJzKQogICAgcnYgPSBzdGF0aXN0aWNzLm1lYW4oclsicmV2ZXJzYWxzIl0gZm9yIHIgaW4gcnMpCiAgICBpcnIgPSAxLjAgLSAocnYgLyBjaykgaWYgY2sgZWxzZSAwLjAKICAgIGZpdCA9IHN0YXRpc3RpY3MubWVhbihyWyJmaW5hbF9maXQiXSBmb3IgciBpbiBycykKICAgIHJlc1ttb2RlXSA9IGRpY3QobmV0X2RyaWZ0PXJvdW5kKG5ldCwgMyksIGNsaWNrcz1yb3VuZChjaywgMiksIHJldmVyc2Fscz1yb3VuZChydiwgMiksCiAgICAgICAgICAgICAgICAgICAgIGlycmV2ZXJzaWJpbGl0eT1yb3VuZChpcnIsIDQpLCBmaW5hbF9maXQ9cm91bmQoZml0LCA0KSkKICAgIHByaW50KGYie21vZGU6PDE0fXtuZXQ6PjExLjNmfXtjazo+OC4yZn17cnY6PjExLjJmfXtpcnI6PjE4LjRmfXtmaXQ6PjguNGZ9IikKCmpzb24uZHVtcChyZXMsIG9wZW4oInJhdGNoZXRfZml4ZWQuanNvbiIsICJ3IiksIGluZGVudD0xKQpwcmludCgpCmEsIHNmID0gcmVzWyJhc2V4dWFsIl0sIHJlc1sic2V4dWFsX2ZyZWUiXQpwcmludChmIkgzKOS/ruatoykg5LiN5Y+v6YCG5bqmICDml6DmgKcge2FbJ2lycmV2ZXJzaWJpbGl0eSddOi40Zn0gdnMg5pyJ5oCnIHtzZlsnaXJyZXZlcnNpYmlsaXR5J106LjRmfSIKICAgICAgZiIgIOWAjeaVsCB7YVsnaXJyZXZlcnNpYmlsaXR5J10vbWF4KHNmWydpcnJldmVyc2liaWxpdHknXSwxZS05KTouMWZ9eCIKICAgICAgZiIgIC0+IHsnUEFTUycgaWYgYVsnaXJyZXZlcnNpYmlsaXR5J10gPiBzZlsnaXJyZXZlcnNpYmlsaXR5J10gZWxzZSAnRkFJTCd9IikKcHJpbnQoZiJIMyjkv67mraMpIOWHgOa8guenuyAgICDml6DmgKcge2FbJ25ldF9kcmlmdCddfSB2cyDmnInmgKcge3NmWyduZXRfZHJpZnQnXX0gIOW3riB7YVsnbmV0X2RyaWZ0J10tc2ZbJ25ldF9kcmlmdCddOisuMmZ9IikK
+# -*- coding: utf-8 -*-
+"""修正棘轮判据
+v1 用 clicks(上升次数) 判 -> FAIL，因为有性波动大反而 clicks 更多
+正确的棘轮度量是【不可逆性】: irreversibility = 1 - reversals/clicks
+  棘轮的本质不是"负载会涨"，而是"涨了回不来"
+"""
+import json, random, statistics
+import ratchet as R
+
+SEEDS = list(range(10))
+res = {}
+print(f"{'mode':<14}{'net_drift':>11}{'clicks':>8}{'reversals':>11}{'irreversibility':>18}{'fit':>8}")
+for mode in ["asexual", "sexual_free", "sexual_cost"]:
+    rs = [R.run(mode, s) for s in SEEDS]
+    net = statistics.mean(r["final_best_load"] for r in rs)      # 初值恒为 0
+    ck = statistics.mean(r["clicks"] for r in rs)
+    rv = statistics.mean(r["reversals"] for r in rs)
+    irr = 1.0 - (rv / ck) if ck else 0.0
+    fit = statistics.mean(r["final_fit"] for r in rs)
+    res[mode] = dict(net_drift=round(net, 3), clicks=round(ck, 2), reversals=round(rv, 2),
+                     irreversibility=round(irr, 4), final_fit=round(fit, 4))
+    print(f"{mode:<14}{net:>11.3f}{ck:>8.2f}{rv:>11.2f}{irr:>18.4f}{fit:>8.4f}")
+
+json.dump(res, open("ratchet_fixed.json", "w"), indent=1)
+print()
+a, sf = res["asexual"], res["sexual_free"]
+print(f"H3(修正) 不可逆度  无性 {a['irreversibility']:.4f} vs 有性 {sf['irreversibility']:.4f}"
+      f"  倍数 {a['irreversibility']/max(sf['irreversibility'],1e-9):.1f}x"
+      f"  -> {'PASS' if a['irreversibility'] > sf['irreversibility'] else 'FAIL'}")
+print(f"H3(修正) 净漂移    无性 {a['net_drift']} vs 有性 {sf['net_drift']}  差 {a['net_drift']-sf['net_drift']:+.2f}")

@@ -1,1 +1,60 @@
-ewogInJvd3MiOiBbCiAgewogICAiY2hpIjogMC4wLAogICAidG90YWwiOiAwLjA2NDE2NjI1NTMzOTkxMjUyLAogICAic3ltIjogMC4yNTc1NzQ2NzE0MDc5NDg1LAogICAiYW50aSI6IDAuMjYyODc4NTg5NTEzNTMyOSwKICAgImRpc2MiOiAwLjAKICB9LAogIHsKICAgImNoaSI6IDAuMSwKICAgInRvdGFsIjogMC4wNjc5NDk4NzM1MjY0NDQ4NywKICAgInN5bSI6IDAuMjM1MzIzOTcwNjUxNzY4NzcsCiAgICJhbnRpIjogMC4yMjMxMzAyNzY1MjA1OTM0NSwKICAgImRpc2MiOiAwLjAKICB9LAogIHsKICAgImNoaSI6IDAuMjUsCiAgICJ0b3RhbCI6IDAuMDgzMDk3NjE5NTY1OTU1ODksCiAgICJzeW0iOiAwLjIxMjcxMjYyNTAzNjcyMzQ3LAogICAiYW50aSI6IDAuMTc2NzA1OTQzMzE1OTk3MTgsCiAgICJkaXNjIjogMC4wCiAgfSwKICB7CiAgICJjaGkiOiAwLjUsCiAgICJ0b3RhbCI6IDAuMTI0MDEzODk3NzM0NjE3MSwKICAgInN5bSI6IDAuMTg5NjM2MTc2NzQzODMxNTQsCiAgICJhbnRpIjogMC4xNTQ1ODAxODAwNjg1NTYxLAogICAiZGlzYyI6IDAuMAogIH0sCiAgewogICAiY2hpIjogMC43NSwKICAgInRvdGFsIjogMC4xNzIzOTc1NDM0MzU4NDU4NSwKICAgInN5bSI6IDAuMTgwMjY0OTk3NTI2MTE5MjQsCiAgICJhbnRpIjogMC4xNzg5OTg0OTg1NDc2OTUsCiAgICJkaXNjIjogMC4wMTAwMDAwMDAwMDAwMDAwMDkKICB9LAogIHsKICAgImNoaSI6IDAuOSwKICAgInRvdGFsIjogMC4xODk0NzU1NDkxNzYyMTU0MiwKICAgInN5bSI6IDAuMTc5MzA0MTQzNjU1Mjc5NzcsCiAgICJhbnRpIjogMC4xODQ0ODMzMDgxNTExNDYzNiwKICAgImRpc2MiOiAwLjAKICB9LAogIHsKICAgImNoaSI6IDEuMCwKICAgInRvdGFsIjogMC4yMTg5NzI5NzA0NzkyNTUwNCwKICAgInN5bSI6IDAuMTg0NjU5MTA5NTUzNDk3ODUsCiAgICJhbnRpIjogMC4xODQ3NjMxODc3NjM2NDAxMiwKICAgImRpc2MiOiAwLjAKICB9CiBdLAogIm9rIjogewogICLikaAgz4c9MCDml7bmiYvmgKfmrovlt64gUmEg4omIIDDvvIjlr7nnp7DmhJ/lrpjml6DmiYvmgKflgY/lgJrvvIkiOiBmYWxzZSwKICAi4pGhIM+HPTEg5pe2IFJhIOaYvuiRlyA+IDDvvIjmiYvmgKfluKbmnaXns7vnu5/mgKfmrovlt67vvIkiOiB0cnVlLAogICLikaIgUmEg6ZqPIM+HIOWNleiwg+S4iuWNh++8iOaui+W3ruehruWunuadpeiHquaJi+aAp++8iSI6IGZhbHNlLAogICLikaMg5Yik5Yir5bqm6ZqPIM+HIOS4iuWNh++8iOaJi+aAp+aJjeeci+W+l+inge+8jDEzOSDlpI3njrDvvIkiOiBmYWxzZSwKICAi4pGkIOadg+ihoeWtmOWcqO+8muWIpOWIq+W6pumrmOeahOS4gOS+p+W/heeEtuacieaui+W3riI6IGZhbHNlCiB9Cn0=
+{
+ "rows": [
+  {
+   "chi": 0.0,
+   "total": 0.06416625533991252,
+   "sym": 0.2575746714079485,
+   "anti": 0.2628785895135329,
+   "disc": 0.0
+  },
+  {
+   "chi": 0.1,
+   "total": 0.06794987352644487,
+   "sym": 0.23532397065176877,
+   "anti": 0.22313027652059345,
+   "disc": 0.0
+  },
+  {
+   "chi": 0.25,
+   "total": 0.08309761956595589,
+   "sym": 0.21271262503672347,
+   "anti": 0.17670594331599718,
+   "disc": 0.0
+  },
+  {
+   "chi": 0.5,
+   "total": 0.1240138977346171,
+   "sym": 0.18963617674383154,
+   "anti": 0.1545801800685561,
+   "disc": 0.0
+  },
+  {
+   "chi": 0.75,
+   "total": 0.17239754343584585,
+   "sym": 0.18026499752611924,
+   "anti": 0.178998498547695,
+   "disc": 0.010000000000000009
+  },
+  {
+   "chi": 0.9,
+   "total": 0.18947554917621542,
+   "sym": 0.17930414365527977,
+   "anti": 0.18448330815114636,
+   "disc": 0.0
+  },
+  {
+   "chi": 1.0,
+   "total": 0.21897297047925504,
+   "sym": 0.18465910955349785,
+   "anti": 0.18476318776364012,
+   "disc": 0.0
+  }
+ ],
+ "ok": {
+  "① χ=0 时手性残差 Ra ≈ 0（对称感官无手性偏倚）": false,
+  "② χ=1 时 Ra 显著 > 0（手性带来系统性残差）": true,
+  "③ Ra 随 χ 单调上升（残差确实来自手性）": false,
+  "④ 判别度随 χ 上升（手性才看得见，139 复现）": false,
+  "⑤ 权衡存在：判别度高的一侧必然有残差": false
+ }
+}

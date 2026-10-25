@@ -1,1 +1,171 @@
-IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgVGl0bGU6ICAgU2NpZW50aWZpYyBWaXN1YWxpc2F0aW9uIC0gUHl0aG9uICYgTWF0cGxvdGxpYgojIEF1dGhvcjogIE5pY29sYXMgUC4gUm91Z2llcgojIExpY2Vuc2U6IEJTRAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIuZm9udF9tYW5hZ2VyIGltcG9ydCBGb250UHJvcGVydGllcwoKZmlnID0gcGx0LmZpZ3VyZShmaWdzaXplPSg0LjI1LCAzLjgpKQpheCA9IGZpZy5hZGRfYXhlcygKICAgIFswLCAwLCAxLCAxXSwgZnJhbWVvbj1GYWxzZSwgeHRpY2tzPVtdLCB5dGlja3M9W10sIHhsaW09WzAsIDQwXSwgeWxpbT1bMCwgMzhdCikKCnkgPSAxCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnZhcmlhbnRzID0gewogICAgIm5vcm1hbCI6ICIvVXNlcnMvcm91Z2llci9MaWJyYXJ5L0ZvbnRzL0RlbGljaW91cy1Sb21hbi5vdGYiLAogICAgInNtYWxsLWNhcHMiOiAiL1VzZXJzL3JvdWdpZXIvTGlicmFyeS9Gb250cy9EZWxpY2lvdXMtU21hbGxDYXBzLm90ZiIsCn0KCnRleHQgPSAiVGhlIHF1aWNrIGJyb3duIGZveCBqdW1wcyBvdmVyIHRoZSBsYXp5IGRvZyIKZm9yIGksIHZhcmlhbnQgaW4gZW51bWVyYXRlKHZhcmlhbnRzLmtleXMoKSk6CiAgICBheC50ZXh0KAogICAgICAgIDEsCiAgICAgICAgeSwKICAgICAgICB0ZXh0LAogICAgICAgIHNpemU9OSwKICAgICAgICB2YT0iY2VudGVyIiwKICAgICAgICBmb250cHJvcGVydGllcz1Gb250UHJvcGVydGllcyhmbmFtZT12YXJpYW50c1t2YXJpYW50XSksCiAgICApCgogICAgYXgudGV4dCgKICAgICAgICAzOSwKICAgICAgICB5LAogICAgICAgIHZhcmlhbnQsCiAgICAgICAgY29sb3I9IjAuMjUiLAogICAgICAgIHZhPSJjZW50ZXIiLAogICAgICAgIGhhPSJyaWdodCIsCiAgICAgICAgc2l6ZT0ic21hbGwiLAogICAgICAgIGZhbWlseT0iU291cmNlIENvZGUgUHJvIiwKICAgICAgICB3ZWlnaHQ9NDAwLAogICAgKQogICAgeSArPSAxLjY1CnkgKz0gMQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpzdHlsZXMgPSBbIm5vcm1hbCIsICJpdGFsaWMiXQoKdGV4dCA9ICJUaGUgcXVpY2sgYnJvd24gZm94IGp1bXBzIG92ZXIgdGhlIGxhenkgZG9nIgpmb3IgaSwgc3R5bGUgaW4gZW51bWVyYXRlKHN0eWxlcyk6CiAgICBheC50ZXh0KDEsIHksIHRleHQsIHNpemU9OSwgdmE9ImNlbnRlciIsIHN0eWxlPXN0eWxlLCBmYW1pbHk9IlNvdXJjZSBTYW5zIFBybyIpCgogICAgYXgudGV4dCgKICAgICAgICAzOSwKICAgICAgICB5LAogICAgICAgIHN0eWxlLAogICAgICAgIGNvbG9yPSIwLjI1IiwKICAgICAgICB2YT0iY2VudGVyIiwKICAgICAgICBoYT0icmlnaHQiLAogICAgICAgIHNpemU9InNtYWxsIiwKICAgICAgICBmYW1pbHk9IlNvdXJjZSBDb2RlIFBybyIsCiAgICAgICAgd2VpZ2h0PTQwMCwKICAgICkKICAgIHkgKz0gMS42NQp5ICs9IDEKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmZhbWlsaWVzID0gewogICAgIlBhY2lmaWNvIjogImN1cnNpdmUiLAogICAgIlNvdXJjZSBTYW5zIFBybyI6ICJzYW5zIiwKICAgICJTb3VyY2UgU2VyaWYgUHJvIjogInNlcmlmIiwKICAgICJTb3VyY2UgQ29kZSBQcm8iOiAibW9ub3NwYWNlIiwKfQoKdGV4dCA9ICJUaGUgcXVpY2sgYnJvd24gZm94IGp1bXBzIG92ZXIgdGhlIGxhenkgZG9nIgpmb3IgaSwgZmFtaWx5IGluIGVudW1lcmF0ZShmYW1pbGllcyk6CiAgICBheC50ZXh0KDEsIHksIHRleHQsIHZhPSJjZW50ZXIiLCBzaXplPTksIGZhbWlseT1mYW1pbHksIHdlaWdodD0icmVndWxhciIpCgogICAgYXgudGV4dCgKICAgICAgICAzOSwKICAgICAgICB5LAogICAgICAgICIlcyIgJSAoZmFtaWxpZXNbZmFtaWx5XSksCiAgICAgICAgY29sb3I9IjAuMjUiLAogICAgICAgIHZhPSJjZW50ZXIiLAogICAgICAgIGhhPSJyaWdodCIsCiAgICAgICAgc2l6ZT0ic21hbGwiLAogICAgICAgIGZhbWlseT0iU291cmNlIENvZGUgUHJvIiwKICAgICAgICB3ZWlnaHQ9NDAwLAogICAgKQogICAgeSArPSAxLjY1CnkgKz0gMQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0Kd2VpZ2h0cyA9IHsKICAgICJ1bHRyYWxpZ2h0IjogMTAwLAogICAgImxpZ2h0IjogMjAwLAogICAgIm5vcm1hbCI6IDQwMCwKICAgICJyZWd1bGFyIjogNDAwLAogICAgImJvb2siOiA0MDAsCiAgICAibWVkaXVtIjogNTAwLAogICAgInJvbWFuIjogNTAwLAogICAgInNlbWlib2xkIjogNjAwLAogICAgImRlbWlib2xkIjogNjAwLAogICAgImRlbWkiOiA2MDAsCiAgICAiYm9sZCI6IDcwMCwKICAgICJoZWF2eSI6IDgwMCwKICAgICJleHRyYSBib2xkIjogODAwLAogICAgImJsYWNrIjogOTAwLAp9Cgp0ZXh0ID0gIlRoZSBxdWljayBicm93biBmb3gganVtcHMgb3ZlciB0aGUgbGF6eSBkb2ciCmZvciBpLCB3ZWlnaHQgaW4gZW51bWVyYXRlKFsidWx0cmFsaWdodCIsICJub3JtYWwiLCAic2VtaWJvbGQiLCAiYm9sZCIsICJibGFjayJdKToKICAgIGF4LnRleHQoMSwgeSwgdGV4dCwgc2l6ZT05LCB2YT0iY2VudGVyIiwgZmFtaWx5PSJTb3VyY2UgU2FucyBQcm8iLCB3ZWlnaHQ9d2VpZ2h0KQoKICAgIGF4LnRleHQoCiAgICAgICAgMzksCiAgICAgICAgeSwKICAgICAgICAiJXMgKCVkKSIgJSAod2VpZ2h0LCB3ZWlnaHRzW3dlaWdodF0pLAogICAgICAgIGNvbG9yPSIwLjI1IiwKICAgICAgICB2YT0iY2VudGVyIiwKICAgICAgICBoYT0icmlnaHQiLAogICAgICAgIHNpemU9InNtYWxsIiwKICAgICAgICBmYW1pbHk9IlNvdXJjZSBDb2RlIFBybyIsCiAgICAgICAgd2VpZ2h0PTQwMCwKICAgICkKICAgIHkgKz0gMS42NQp5ICs9IDEKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0Kc2l6ZXMgPSB7CiAgICAieHgtc21hbGwiOiAwLjU3OSwKICAgICJ4LXNtYWxsIjogMC42OTQsCiAgICAic21hbGwiOiAwLjgzMywKICAgICJtZWRpdW0iOiAxLjAsCiAgICAibGFyZ2UiOiAxLjIwMCwKICAgICJ4LWxhcmdlIjogMS40NDAsCiAgICAieHgtbGFyZ2UiOiAxLjcyOCwKfQoKdGV4dCA9ICJUaGUgcXVpY2sgYnJvd24gZm94Igpmb3IgaSwgc2l6ZSBpbiBlbnVtZXJhdGUoc2l6ZXMua2V5cygpKToKICAgIGF4LnRleHQoCiAgICAgICAgMSwKICAgICAgICB5LAogICAgICAgIHRleHQsCiAgICAgICAgc2l6ZT1zaXplLAogICAgICAgIGhhPSJsZWZ0IiwKICAgICAgICB2YT0iY2VudGVyIiwKICAgICAgICBmYW1pbHk9IlNvdXJjZSBTYW5zIFBybyIsCiAgICAgICAgd2VpZ2h0PSJsaWdodCIsCiAgICApCgogICAgYXgudGV4dCgKICAgICAgICAzOSwKICAgICAgICB5LAogICAgICAgICIlcyAoJS4yZikiICUgKHNpemUsIHNpemVzW3NpemVdKSwKICAgICAgICBjb2xvcj0iMC4yNSIsCiAgICAgICAgdmE9ImNlbnRlciIsCiAgICAgICAgaGE9InJpZ2h0IiwKICAgICAgICBzaXplPSJzbWFsbCIsCiAgICAgICAgZmFtaWx5PSJTb3VyY2UgQ29kZSBQcm8iLAogICAgICAgIHdlaWdodD00MDAsCiAgICApCiAgICB5ICs9IDEuNjUgKiBtYXgoc2l6ZXNbc2l6ZV0sIHNpemVzWyJzbWFsbCJdKQoKCnBsdC5zYXZlZmlnKCJyZWZlcmVuY2UtZm9udC5wZGYiLCBkcGk9NjAwKQpwbHQuc2hvdygpCg==
+# ----------------------------------------------------------------------------
+# Title:   Scientific Visualisation - Python & Matplotlib
+# Author:  Nicolas P. Rougier
+# License: BSD
+# ----------------------------------------------------------------------------
+import matplotlib.pyplot as plt
+from matplotlib.font_manager import FontProperties
+
+fig = plt.figure(figsize=(4.25, 3.8))
+ax = fig.add_axes(
+    [0, 0, 1, 1], frameon=False, xticks=[], yticks=[], xlim=[0, 40], ylim=[0, 38]
+)
+
+y = 1
+
+# -----------------------------------------------------------------------------
+variants = {
+    "normal": "/Users/rougier/Library/Fonts/Delicious-Roman.otf",
+    "small-caps": "/Users/rougier/Library/Fonts/Delicious-SmallCaps.otf",
+}
+
+text = "The quick brown fox jumps over the lazy dog"
+for i, variant in enumerate(variants.keys()):
+    ax.text(
+        1,
+        y,
+        text,
+        size=9,
+        va="center",
+        fontproperties=FontProperties(fname=variants[variant]),
+    )
+
+    ax.text(
+        39,
+        y,
+        variant,
+        color="0.25",
+        va="center",
+        ha="right",
+        size="small",
+        family="Source Code Pro",
+        weight=400,
+    )
+    y += 1.65
+y += 1
+
+# -----------------------------------------------------------------------------
+styles = ["normal", "italic"]
+
+text = "The quick brown fox jumps over the lazy dog"
+for i, style in enumerate(styles):
+    ax.text(1, y, text, size=9, va="center", style=style, family="Source Sans Pro")
+
+    ax.text(
+        39,
+        y,
+        style,
+        color="0.25",
+        va="center",
+        ha="right",
+        size="small",
+        family="Source Code Pro",
+        weight=400,
+    )
+    y += 1.65
+y += 1
+
+
+# -----------------------------------------------------------------------------
+families = {
+    "Pacifico": "cursive",
+    "Source Sans Pro": "sans",
+    "Source Serif Pro": "serif",
+    "Source Code Pro": "monospace",
+}
+
+text = "The quick brown fox jumps over the lazy dog"
+for i, family in enumerate(families):
+    ax.text(1, y, text, va="center", size=9, family=family, weight="regular")
+
+    ax.text(
+        39,
+        y,
+        "%s" % (families[family]),
+        color="0.25",
+        va="center",
+        ha="right",
+        size="small",
+        family="Source Code Pro",
+        weight=400,
+    )
+    y += 1.65
+y += 1
+
+
+# -----------------------------------------------------------------------------
+weights = {
+    "ultralight": 100,
+    "light": 200,
+    "normal": 400,
+    "regular": 400,
+    "book": 400,
+    "medium": 500,
+    "roman": 500,
+    "semibold": 600,
+    "demibold": 600,
+    "demi": 600,
+    "bold": 700,
+    "heavy": 800,
+    "extra bold": 800,
+    "black": 900,
+}
+
+text = "The quick brown fox jumps over the lazy dog"
+for i, weight in enumerate(["ultralight", "normal", "semibold", "bold", "black"]):
+    ax.text(1, y, text, size=9, va="center", family="Source Sans Pro", weight=weight)
+
+    ax.text(
+        39,
+        y,
+        "%s (%d)" % (weight, weights[weight]),
+        color="0.25",
+        va="center",
+        ha="right",
+        size="small",
+        family="Source Code Pro",
+        weight=400,
+    )
+    y += 1.65
+y += 1
+
+# -----------------------------------------------------------------------------
+sizes = {
+    "xx-small": 0.579,
+    "x-small": 0.694,
+    "small": 0.833,
+    "medium": 1.0,
+    "large": 1.200,
+    "x-large": 1.440,
+    "xx-large": 1.728,
+}
+
+text = "The quick brown fox"
+for i, size in enumerate(sizes.keys()):
+    ax.text(
+        1,
+        y,
+        text,
+        size=size,
+        ha="left",
+        va="center",
+        family="Source Sans Pro",
+        weight="light",
+    )
+
+    ax.text(
+        39,
+        y,
+        "%s (%.2f)" % (size, sizes[size]),
+        color="0.25",
+        va="center",
+        ha="right",
+        size="small",
+        family="Source Code Pro",
+        weight=400,
+    )
+    y += 1.65 * max(sizes[size], sizes["small"])
+
+
+plt.savefig("reference-font.pdf", dpi=600)
+plt.show()

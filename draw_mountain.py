@@ -1,1 +1,56 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5bGx44CC5LiN6Kej6YeK77yM55u05o6l55S744CCIiIiCmltcG9ydCBudW1weSBhcyBucApmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGaWx0ZXIKClcsSCA9IDE0MDAsIDg4MApQQVBFUiA9IG5wLmFycmF5KFsyNDQsMjM5LDIzMF0sZHR5cGU9bnAuZmxvYXQzMikKCmRlZiBmYm0oeCxzZWVkLG9jdD02KToKICAgIHJuZz1ucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCk7IHk9bnAuemVyb3NfbGlrZSh4KTsgYT0xLjAKICAgIGZvciBvIGluIHJhbmdlKG9jdCk6CiAgICAgICAgeSArPSBhKm5wLnNpbigyKm5wLnBpKigyLjAqKm8pKnggKyBybmcudW5pZm9ybSgwLDIqbnAucGkpKjQpCiAgICAgICAgYSo9MC41MgogICAgcmV0dXJuIHkKCmRlZiByaWRnZSh4LHNlZWQsc2hhcnA9MS4wKToKICAgIG49ZmJtKHgsc2VlZCkKICAgIHI9MS4wLW5wLmFicyhuKS9ucC5tYXgobnAuYWJzKG4pKQogICAgcmV0dXJuIHIqKnNoYXJwCgpYPW5wLmxpbnNwYWNlKDAsMSxXKQpZWT1ucC5hcmFuZ2UoSCxkdHlwZT1ucC5mbG9hdDMyKVs6LE5vbmVdCgpjYW52YXM9bnAudGlsZShQQVBFUiwoSCxXLDEpKQoKIyDov5zihpLov5HjgILls7DkvY3jgIHloqjoibLjgIHmtZPluqYKbGF5ZXJzPVsKICBkaWN0KHNlZWQ9MTEsIHBlYWs9MC4xNiwgYW1wPTEwNSwgaW5rPSgxODAsMTc1LDE2NiksIGE9MC41NSwgZmFsbD0wLjA3MCwgc2hhcnA9MS44KSwKICBkaWN0KHNlZWQ9MjksIHBlYWs9MC4zMywgYW1wPTE2MCwgaW5rPSgxMTYsMTEyLDEwNCksIGE9MC44MCwgZmFsbD0wLjA4OCwgc2hhcnA9MS40KSwKICBkaWN0KHNlZWQ9NDcsIHBlYWs9MC41MCwgYW1wPTIwNSwgaW5rPSggNDYsIDQ0LCAzOSksIGE9MC45NSwgZmFsbD0wLjA4Miwgc2hhcnA9MS4xKSwKXQoKZm9yIEwgaW4gbGF5ZXJzOgogICAgcj1yaWRnZShYLExbInNlZWQiXSxMWyJzaGFycCJdKQogICAgcm49KHItci5taW4oKSkvKHIubWF4KCktci5taW4oKSkKICAgIGJhc2U9KExbInBlYWsiXSpIKSArIExbImFtcCJdKigxLjAtcm4pICAgICAgICAgICMg5bGx6ISK57q/77ya5bOw6auY6LC35L2OCiAgICBkPVlZLWJhc2VbTm9uZSw6XQogICAgbT0oZD4wKQogICAgYWxwaGE9bnAud2hlcmUobSwgTFsiYSJdKm5wLmV4cCgtbnAubWF4aW11bShkLDApLyhMWyJmYWxsIl0qSCkpKioxLjE1LCAwLjApCiAgICBhbHBoYT1ucC5jbGlwKGFscGhhLDAsMSlbLi4uLE5vbmVdCiAgICBpbms9bnAudGlsZShucC5hcnJheShMWyJpbmsiXSxkdHlwZT1ucC5mbG9hdDMyKSwoSCxXLDEpKQogICAgY2FudmFzID0gY2FudmFzKigxLWFscGhhKSArIGluayphbHBoYQoKIyDnlZnnmb3vvJrlsbHohJrol4/ov5vkupHph4zvvIjkuInmnaHmqKrluKbvvIkKZm9nPW5wLnplcm9zKChILFcpLGR0eXBlPW5wLmZsb2F0MzIpCmZvciB5cCx3aWQgaW4gWygwLjUwLDAuMTgpLCgwLjY0LDAuMTYpLCgwLjc2LDAuMzYpXToKICAgIHkwPWludCh5cCpIKQogICAgZm9yIGsgaW4gcmFuZ2UobWluKGludChIKndpZCksIEgteTApKToKICAgICAgICBmb2dbeTArayw6XSA9IG5wLm1heGltdW0oZm9nW3kwK2ssOl0sIDIzNSpucC5leHAoLShrLyhIKndpZCowLjM4KSkqKjEuNikpCmNhbnZhcyA9IGNhbnZhcyooMS0oZm9nLzI1NSlbLi4uLE5vbmVdKSArIFBBUEVSKihmb2cvMjU1KVsuLi4sTm9uZV0KCmltZz1JbWFnZS5mcm9tYXJyYXkobnAuY2xpcChjYW52YXMsMCwyNTUpLmFzdHlwZShucC51aW50OCkpLmZpbHRlcihJbWFnZUZpbHRlci5HYXVzc2lhbkJsdXIoMC43KSkKaW1nLnNhdmUoIuaEn+WumOahpS/nrKblj7dfdjQ4X+WxsS5wbmciKQoKYT1ucC5hcnJheShpbWcuY29udmVydCgiTCIpKS5hc3R5cGUobnAuZmxvYXQzMikvMjU1CnByaW50KCLloqjljaDmr5QgJS4xZiUlICAg6LSo5b+DIHk9JS4wZi8lZCIlKChhPDAuODgpLm1lYW4oKSoxMDAsIG5wLm5vbnplcm8oYTwwLjg4KVswXS5tZWFuKCksIEgpKQo=
+# -*- coding: utf-8 -*-
+"""山。不解释，直接画。"""
+import numpy as np
+from PIL import Image, ImageDraw, ImageFilter
+
+W,H = 1400, 880
+PAPER = np.array([244,239,230],dtype=np.float32)
+
+def fbm(x,seed,oct=6):
+    rng=np.random.default_rng(seed); y=np.zeros_like(x); a=1.0
+    for o in range(oct):
+        y += a*np.sin(2*np.pi*(2.0**o)*x + rng.uniform(0,2*np.pi)*4)
+        a*=0.52
+    return y
+
+def ridge(x,seed,sharp=1.0):
+    n=fbm(x,seed)
+    r=1.0-np.abs(n)/np.max(np.abs(n))
+    return r**sharp
+
+X=np.linspace(0,1,W)
+YY=np.arange(H,dtype=np.float32)[:,None]
+
+canvas=np.tile(PAPER,(H,W,1))
+
+# 远→近。峰位、墨色、浓度
+layers=[
+  dict(seed=11, peak=0.16, amp=105, ink=(180,175,166), a=0.55, fall=0.070, sharp=1.8),
+  dict(seed=29, peak=0.33, amp=160, ink=(116,112,104), a=0.80, fall=0.088, sharp=1.4),
+  dict(seed=47, peak=0.50, amp=205, ink=( 46, 44, 39), a=0.95, fall=0.082, sharp=1.1),
+]
+
+for L in layers:
+    r=ridge(X,L["seed"],L["sharp"])
+    rn=(r-r.min())/(r.max()-r.min())
+    base=(L["peak"]*H) + L["amp"]*(1.0-rn)          # 山脊线：峰高谷低
+    d=YY-base[None,:]
+    m=(d>0)
+    alpha=np.where(m, L["a"]*np.exp(-np.maximum(d,0)/(L["fall"]*H))**1.15, 0.0)
+    alpha=np.clip(alpha,0,1)[...,None]
+    ink=np.tile(np.array(L["ink"],dtype=np.float32),(H,W,1))
+    canvas = canvas*(1-alpha) + ink*alpha
+
+# 留白：山脚藏进云里（三条横带）
+fog=np.zeros((H,W),dtype=np.float32)
+for yp,wid in [(0.50,0.18),(0.64,0.16),(0.76,0.36)]:
+    y0=int(yp*H)
+    for k in range(min(int(H*wid), H-y0)):
+        fog[y0+k,:] = np.maximum(fog[y0+k,:], 235*np.exp(-(k/(H*wid*0.38))**1.6))
+canvas = canvas*(1-(fog/255)[...,None]) + PAPER*(fog/255)[...,None]
+
+img=Image.fromarray(np.clip(canvas,0,255).astype(np.uint8)).filter(ImageFilter.GaussianBlur(0.7))
+img.save("感官桥/符号_v48_山.png")
+
+a=np.array(img.convert("L")).astype(np.float32)/255
+print("墨占比 %.1f%%   质心 y=%.0f/%d"%((a<0.88).mean()*100, np.nonzero(a<0.88)[0].mean(), H))

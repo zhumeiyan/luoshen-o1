@@ -1,1 +1,125 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKZXhwMTY0Yjog5L+u5q2jIEIo6aKE54Ot5re35reGKSDkuI4gQyjlr7nnhaflj43ovawpCkIyOiB3YXJtdXAg5ZCO5omr6KeC5rWL5by65bqmIHMsIOeUqCBoZWxkLW91dCDlh4bnoa7njoco5LiN5Lya5YOPIGQnIOiiq+W5s+Wdh+S6uuS4uuaUvuWkpykKQzI6IOiviuaWrSBDIOeahOWPjei9rCDigJTigJQg5YGH6K6+5pivIENQVSDpmY3popE6IHNsZWVwIOiuqSBDUFUg56m66Zey6ZmN6aKRLCDlpI3mtYvlj5jmhaIKQzM6IOingua1i+W8uuW6piBrIHZzIOezu+e7n+ivu+aVsOa8guenuyjnnJ/lrp4pCiIiIgppbXBvcnQgb3MsIHRpbWUsIGpzb24sIHN0YXRpc3RpY3MgYXMgc3QKaW1wb3J0IG51bXB5IGFzIG5wCgpPVVQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTY0X21lYXN1cmVtZW50X2xpbWl0Igpvcy5tYWtlZGlycyhPVVQsIGV4aXN0X29rPVRydWUpClIyID0ge30KCgpkZWYgd29ya2xvYWQobGV2ZWwpOgogICAgbiA9IDYwIGlmIGxldmVsID09IDAgZWxzZSAxODAKICAgIGEgPSBucC5mdWxsKChuLCBuKSwgMS4wMDAwMDAxKQogICAgYiA9IG5wLmZ1bGwoKG4sIG4pLCAxLjAwMDAwMDIpCiAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyX25zKCkKICAgIGMgPSBhIEAgYgogICAgcmV0dXJuIHRpbWUucGVyZl9jb3VudGVyX25zKCkgLSB0MCwgYy5zdW0oKQoKCmRlZiB3YXJtdXAoaz00MCk6CiAgICBmb3IgaSBpbiByYW5nZShrKToKICAgICAgICB3b3JrbG9hZChpICUgMikKCgpkZWYgYWNjX2hlbGRvdXQodmFscywgbGFicywgc2VlZF9ieXRlcyk6CiAgICB2YWxzID0gbnAuYXNhcnJheSh2YWxzLCBmbG9hdCk7IGxhYnMgPSBucC5hc2FycmF5KGxhYnMpCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoaW50LmZyb21fYnl0ZXMoc2VlZF9ieXRlcywgJ2JpZycpKQogICAgaWR4ID0gcm5nLnBlcm11dGF0aW9uKGxlbih2YWxzKSk7IG50ciA9IGxlbihpZHgpLy8yCiAgICB0ciwgdGUgPSBpZHhbOm50cl0sIGlkeFtudHI6XQogICAgbTAgPSB2YWxzW3RyXVtsYWJzW3RyXSA9PSAwXS5tZWFuKCk7IG0xID0gdmFsc1t0cl1bbGFic1t0cl0gPT0gMV0ubWVhbigpCiAgICB0aHIgPSAobTArbTEpLzIKICAgIHByZWQgPSAodmFsc1t0ZV0gPiB0aHIpLmFzdHlwZShpbnQpIGlmIG0xID49IG0wIGVsc2UgKHZhbHNbdGVdIDwgdGhyKS5hc3R5cGUoaW50KQogICAgYWNjID0gZmxvYXQoKHByZWQgPT0gbGFic1t0ZV0pLm1lYW4oKSkKICAgIHMwID0gdmFsc1t0ZV1bbGFic1t0ZV0gPT0gMF07IHMxID0gdmFsc1t0ZV1bbGFic1t0ZV0gPT0gMV0KICAgIGlmIGxlbihzMCkgPCAyIG9yIGxlbihzMSkgPCAyOgogICAgICAgIHJldHVybiBhY2MsIDAuMAogICAgc3AgPSBucC5zcXJ0KChzMC52YXIoZGRvZj0xKStzMS52YXIoZGRvZj0xKSkvMikKICAgIGQgPSBmbG9hdChhYnMoczEubWVhbigpLXMwLm1lYW4oKSkvc3ApIGlmIHNwID4gMCBlbHNlIDAuMAogICAgcmV0dXJuIGFjYywgZAoKCmRlZiBleHBCMihTPSgxLCAyLCA0LCA4LCAxNiwgMzIpLCBOPTI0KToKICAgIHdhcm11cCgpCiAgICBvdXQgPSB7fQogICAgZm9yIHMgaW4gUzoKICAgICAgICB2YWxzID0gW107IGxhYnMgPSBbXQogICAgICAgIG9yZGVyID0gbnAuYXJyYXkoWzAsIDFdKk4sIGR0eXBlPWludCkKICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoaW50LmZyb21fYnl0ZXMob3MudXJhbmRvbSg0KSwgJ2JpZycpKQogICAgICAgIHJuZy5zaHVmZmxlKG9yZGVyKQogICAgICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXJfbnMoKQogICAgICAgIGZvciBsYWIgaW4gb3JkZXI6CiAgICAgICAgICAgIHRvdCA9IDAuMAogICAgICAgICAgICBmb3IgXyBpbiByYW5nZShzKToKICAgICAgICAgICAgICAgIGR0LCBfID0gd29ya2xvYWQoaW50KGxhYikpOyB0b3QgKz0gZHQKICAgICAgICAgICAgdmFscy5hcHBlbmQodG90L3MpOyBsYWJzLmFwcGVuZChpbnQobGFiKSkKICAgICAgICB0MSA9IHRpbWUucGVyZl9jb3VudGVyX25zKCkKICAgICAgICBhY2MsIGQgPSBhY2NfaGVsZG91dCh2YWxzLCBsYWJzLCBvcy51cmFuZG9tKDQpKQogICAgICAgIG91dFtzdHIocyldID0geyJhY2MiOiBhY2MsICJkcHJpbWUiOiBkLAogICAgICAgICAgICAgICAgICAgICAgICJjb3N0X3MiOiBmbG9hdCgodDEtdDApLzFlOSksCiAgICAgICAgICAgICAgICAgICAgICAgIm1lYW4wIjogZmxvYXQobnAubWVhbihbdiBmb3IgdiwgbCBpbiB6aXAodmFscywgbGFicykgaWYgbCA9PSAwXSkpLAogICAgICAgICAgICAgICAgICAgICAgICJtZWFuMSI6IGZsb2F0KG5wLm1lYW4oW3YgZm9yIHYsIGwgaW4gemlwKHZhbHMsIGxhYnMpIGlmIGwgPT0gMV0pKX0KICAgIFIyWydCMiddID0gb3V0CiAgICByZXR1cm4gb3V0CgoKZGVmIGV4cEMyKHJlcHM9MTIpOgogICAgIiIi6ZmN6aKR6K+K5patOiBzbGVlcCDlkI7pppbmrKEgdnMg6L+e57utIiIiCiAgICB3YXJtdXAoKQogICAgY29udCA9IFtdOyBhZnRlcl9zbGVlcCA9IFtdCiAgICBmb3IgXyBpbiByYW5nZShyZXBzKToKICAgICAgICAjIOi/nue7rQogICAgICAgIGEsIF8gPSB3b3JrbG9hZCgwKTsgYiwgXyA9IHdvcmtsb2FkKDApCiAgICAgICAgY29udC5hcHBlbmQoKGErYikvMikKICAgICAgICAjIHNsZWVwIOWQjummluasoQogICAgICAgIHRpbWUuc2xlZXAoMC4wNSkKICAgICAgICBjLCBfID0gd29ya2xvYWQoMCkKICAgICAgICBhZnRlcl9zbGVlcC5hcHBlbmQoYykKICAgIHJlcyA9IHsiY29udF9tZWFuX25zIjogZmxvYXQoc3QubWVhbihjb250KSksCiAgICAgICAgICAgImFmdGVyX3NsZWVwX21lYW5fbnMiOiBmbG9hdChzdC5tZWFuKGFmdGVyX3NsZWVwKSksCiAgICAgICAgICAgInJhdGlvIjogZmxvYXQoc3QubWVhbihhZnRlcl9zbGVlcCkvc3QubWVhbihjb250KSksCiAgICAgICAgICAgImNvbnRfYWxsIjogW2Zsb2F0KHgpIGZvciB4IGluIGNvbnRdLAogICAgICAgICAgICJzbGVlcF9hbGwiOiBbZmxvYXQoeCkgZm9yIHggaW4gYWZ0ZXJfc2xlZXBdfQogICAgUjJbJ0MyJ10gPSByZXMKICAgIHJldHVybiByZXMKCgpkZWYgZXhwQzMoa3M9KDQsIDE2LCA2NCwgMjU2KSwgcmVwcz02LCBtPTYpOgogICAgIiIi6KeC5rWL5by65bqmIGsgdnMg6KeC5rWL5YmN5ZCO6K+75pWw5ryC56e7IiIiCiAgICB3YXJtdXAoKQogICAgb3V0ID0ge30KICAgIGZvciBrIGluIGtzOgogICAgICAgIGRlbHRhcyA9IFtdCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UocmVwcyk6CiAgICAgICAgICAgIHYwID0gc3VtKHdvcmtsb2FkKDApWzBdIGZvciBfIGluIHJhbmdlKG0pKS9tCiAgICAgICAgICAgIGZvciBfIGluIHJhbmdlKGspOgogICAgICAgICAgICAgICAgd29ya2xvYWQoMSkKICAgICAgICAgICAgdjEgPSBzdW0od29ya2xvYWQoMClbMF0gZm9yIF8gaW4gcmFuZ2UobSkpL20KICAgICAgICAgICAgZGVsdGFzLmFwcGVuZChhYnModjEtdjApKQogICAgICAgIG91dFtzdHIoayldID0geyJkZWx0YV9tZWFuIjogZmxvYXQoc3QubWVhbihkZWx0YXMpKSwKICAgICAgICAgICAgICAgICAgICAgICAiZGVsdGFfc2QiOiBmbG9hdChzdC5wc3RkZXYoZGVsdGFzKSkgaWYgbGVuKGRlbHRhcykgPiAxIGVsc2UgMC4wfQogICAgUjJbJ0MzJ10gPSBvdXQKICAgIHJldHVybiBvdXQKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgYiA9IGV4cEIyKCkKICAgIHByaW50KCJCMiAod2FybXVw5ZCOKSDop4LmtYvlvLrluqYgcyAtPiBoZWxkLW91dOWHhuehrueOhyAvIGQnIC8g5Luj5Lu3OiIpCiAgICBmb3IgaywgdiBpbiBiLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoIiAgIHM9JS0zcyBhY2M9JS40ZiAgZCc9JS4zZiAg5Luj5Lu3PSUuM2ZzICAobWVhbjA9JS4wZiBtZWFuMT0lLjBmIG5zKSIKICAgICAgICAgICAgICAlIChrLCB2WydhY2MnXSwgdlsnZHByaW1lJ10sIHZbJ2Nvc3RfcyddLCB2WydtZWFuMCddLCB2WydtZWFuMSddKSkKICAgIGMyID0gZXhwQzIoKQogICAgcHJpbnQoIkMyIOmZjemikeiviuaWrTog6L+e57utPSUuMGYgbnMgIHNsZWVw5ZCO6aaW5qyhPSUuMGYgbnMgIOavlOWAvD0lLjNmIgogICAgICAgICAgJSAoYzJbJ2NvbnRfbWVhbl9ucyddLCBjMlsnYWZ0ZXJfc2xlZXBfbWVhbl9ucyddLCBjMlsncmF0aW8nXSkpCiAgICBjMyA9IGV4cEMzKCkKICAgIHByaW50KCJDMyDop4LmtYvlvLrluqYgayAtPiDop4LmtYvliY3lkI7or7vmlbDmvILnp7s6IikKICAgIGZvciBrLCB2IGluIGMzLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoIiAgIGs9JS00cyBkZWx0YT0lLjFmIG5zIChzZCAlLjFmKSIgJSAoaywgdlsnZGVsdGFfbWVhbiddLCB2WydkZWx0YV9zZCddKSkKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oT1VULCAncmVzdWx0MTY0Yi5qc29uJyksICd3JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAoUjIsIGYsIGluZGVudD0xKQogICAgcHJpbnQoInNhdmVkIikK
+#!/usr/bin/env python3
+"""
+exp164b: 修正 B(预热混淆) 与 C(对照反转)
+B2: warmup 后扫观测强度 s, 用 held-out 准确率(不会像 d' 被平均人为放大)
+C2: 诊断 C 的反转 —— 假设是 CPU 降频: sleep 让 CPU 空闲降频, 复测变慢
+C3: 观测强度 k vs 系统读数漂移(真实)
+"""
+import os, time, json, statistics as st
+import numpy as np
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp164_measurement_limit"
+os.makedirs(OUT, exist_ok=True)
+R2 = {}
+
+
+def workload(level):
+    n = 60 if level == 0 else 180
+    a = np.full((n, n), 1.0000001)
+    b = np.full((n, n), 1.0000002)
+    t0 = time.perf_counter_ns()
+    c = a @ b
+    return time.perf_counter_ns() - t0, c.sum()
+
+
+def warmup(k=40):
+    for i in range(k):
+        workload(i % 2)
+
+
+def acc_heldout(vals, labs, seed_bytes):
+    vals = np.asarray(vals, float); labs = np.asarray(labs)
+    rng = np.random.default_rng(int.from_bytes(seed_bytes, 'big'))
+    idx = rng.permutation(len(vals)); ntr = len(idx)//2
+    tr, te = idx[:ntr], idx[ntr:]
+    m0 = vals[tr][labs[tr] == 0].mean(); m1 = vals[tr][labs[tr] == 1].mean()
+    thr = (m0+m1)/2
+    pred = (vals[te] > thr).astype(int) if m1 >= m0 else (vals[te] < thr).astype(int)
+    acc = float((pred == labs[te]).mean())
+    s0 = vals[te][labs[te] == 0]; s1 = vals[te][labs[te] == 1]
+    if len(s0) < 2 or len(s1) < 2:
+        return acc, 0.0
+    sp = np.sqrt((s0.var(ddof=1)+s1.var(ddof=1))/2)
+    d = float(abs(s1.mean()-s0.mean())/sp) if sp > 0 else 0.0
+    return acc, d
+
+
+def expB2(S=(1, 2, 4, 8, 16, 32), N=24):
+    warmup()
+    out = {}
+    for s in S:
+        vals = []; labs = []
+        order = np.array([0, 1]*N, dtype=int)
+        rng = np.random.default_rng(int.from_bytes(os.urandom(4), 'big'))
+        rng.shuffle(order)
+        t0 = time.perf_counter_ns()
+        for lab in order:
+            tot = 0.0
+            for _ in range(s):
+                dt, _ = workload(int(lab)); tot += dt
+            vals.append(tot/s); labs.append(int(lab))
+        t1 = time.perf_counter_ns()
+        acc, d = acc_heldout(vals, labs, os.urandom(4))
+        out[str(s)] = {"acc": acc, "dprime": d,
+                       "cost_s": float((t1-t0)/1e9),
+                       "mean0": float(np.mean([v for v, l in zip(vals, labs) if l == 0])),
+                       "mean1": float(np.mean([v for v, l in zip(vals, labs) if l == 1]))}
+    R2['B2'] = out
+    return out
+
+
+def expC2(reps=12):
+    """降频诊断: sleep 后首次 vs 连续"""
+    warmup()
+    cont = []; after_sleep = []
+    for _ in range(reps):
+        # 连续
+        a, _ = workload(0); b, _ = workload(0)
+        cont.append((a+b)/2)
+        # sleep 后首次
+        time.sleep(0.05)
+        c, _ = workload(0)
+        after_sleep.append(c)
+    res = {"cont_mean_ns": float(st.mean(cont)),
+           "after_sleep_mean_ns": float(st.mean(after_sleep)),
+           "ratio": float(st.mean(after_sleep)/st.mean(cont)),
+           "cont_all": [float(x) for x in cont],
+           "sleep_all": [float(x) for x in after_sleep]}
+    R2['C2'] = res
+    return res
+
+
+def expC3(ks=(4, 16, 64, 256), reps=6, m=6):
+    """观测强度 k vs 观测前后读数漂移"""
+    warmup()
+    out = {}
+    for k in ks:
+        deltas = []
+        for _ in range(reps):
+            v0 = sum(workload(0)[0] for _ in range(m))/m
+            for _ in range(k):
+                workload(1)
+            v1 = sum(workload(0)[0] for _ in range(m))/m
+            deltas.append(abs(v1-v0))
+        out[str(k)] = {"delta_mean": float(st.mean(deltas)),
+                       "delta_sd": float(st.pstdev(deltas)) if len(deltas) > 1 else 0.0}
+    R2['C3'] = out
+    return out
+
+
+if __name__ == "__main__":
+    b = expB2()
+    print("B2 (warmup后) 观测强度 s -> held-out准确率 / d' / 代价:")
+    for k, v in b.items():
+        print("   s=%-3s acc=%.4f  d'=%.3f  代价=%.3fs  (mean0=%.0f mean1=%.0f ns)"
+              % (k, v['acc'], v['dprime'], v['cost_s'], v['mean0'], v['mean1']))
+    c2 = expC2()
+    print("C2 降频诊断: 连续=%.0f ns  sleep后首次=%.0f ns  比值=%.3f"
+          % (c2['cont_mean_ns'], c2['after_sleep_mean_ns'], c2['ratio']))
+    c3 = expC3()
+    print("C3 观测强度 k -> 观测前后读数漂移:")
+    for k, v in c3.items():
+        print("   k=%-4s delta=%.1f ns (sd %.1f)" % (k, v['delta_mean'], v['delta_sd']))
+    with open(os.path.join(OUT, 'result164b.json'), 'w') as f:
+        json.dump(R2, f, indent=1)
+    print("saved")

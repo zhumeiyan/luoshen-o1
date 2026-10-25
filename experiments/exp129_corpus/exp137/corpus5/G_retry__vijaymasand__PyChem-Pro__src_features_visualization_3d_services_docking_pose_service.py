@@ -1,1 +1,214 @@
-aW1wb3J0IG1hdGgKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gdHlwaW5nIGltcG9ydCBMaXN0LCBTZXQsIERpY3QsIFR1cGxlLCBPcHRpb25hbApmcm9tIHNyYy5jb3JlLmRvbWFpbi5tb2RlbHMubW9sZWN1bGUgaW1wb3J0IE1vbGVjdWxlCmZyb20gc3JjLmNvcmUuZG9tYWluLm1vZGVscy5hdG9tIGltcG9ydCBBdG9tCgpjbGFzcyBJbnRlcmFjdGlvblR5cGU6CiAgICBIX0JPTkQgPSAiSHlkcm9nZW4gQm9uZCIKICAgIEhZRFJPUEhPQklDID0gIkh5ZHJvcGhvYmljIgogICAgU0FMVF9CUklER0UgPSAiU2FsdCBCcmlkZ2UiCiAgICBQSV9TVEFDS0lORyA9ICJQaS1TdGFja2luZyIKCmNsYXNzIE1vbGVjdWxhckludGVyYWN0aW9uOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGF0b20xX2lkeDogaW50LCBhdG9tMl9pZHg6IGludCwgdHlwZTogc3RyLCBkaXN0YW5jZTogZmxvYXQsIAogICAgICAgICAgICAgICAgIGVuZXJneTogZmxvYXQgPSAwLjAsIGRldGFpbHM6IHN0ciA9ICIiKToKICAgICAgICBzZWxmLmF0b20xX2lkeCA9IGF0b20xX2lkeAogICAgICAgIHNlbGYuYXRvbTJfaWR4ID0gYXRvbTJfaWR4CiAgICAgICAgc2VsZi50eXBlID0gdHlwZQogICAgICAgIHNlbGYuZGlzdGFuY2UgPSBkaXN0YW5jZQogICAgICAgIHNlbGYuZW5lcmd5ID0gZW5lcmd5CiAgICAgICAgc2VsZi5kZXRhaWxzID0gZGV0YWlscwoKY2xhc3MgRG9ja2luZ1Bvc2VTZXJ2aWNlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1vbGVjdWxlOiBNb2xlY3VsZSk6CiAgICAgICAgc2VsZi5tb2xlY3VsZSA9IG1vbGVjdWxlCgogICAgZGVmIGZpbmRfbGlnYW5kcyhzZWxmKSAtPiBMaXN0W1NldFtpbnRdXToKICAgICAgICAiIiJJZGVudGlmeSBwb3RlbnRpYWwgbGlnYW5kIGZyYWdtZW50cywgcHJpb3JpdGl6aW5nIEhFVEFUTXMuIiIiCiAgICAgICAgZnJhZ21lbnRzID0gc2VsZi5tb2xlY3VsZS5nZXRfZnJhZ21lbnRzKCkKICAgICAgICAKICAgICAgICBkZWYgZnJhZ21lbnRfc2NvcmUoZnJhZyk6CiAgICAgICAgICAgICMgSGlnaGVyIHNjb3JlID0gbW9yZSBsaWtlbHkgdG8gYmUgYSBsaWdhbmQKICAgICAgICAgICAgaGV0X2NvdW50ID0gc3VtKDEgZm9yIGlkeCBpbiBmcmFnIGlmIGdldGF0dHIoc2VsZi5tb2xlY3VsZS5hdG9tc1tpZHhdLCAnaXNfaGV0YXRtJywgRmFsc2UpKQogICAgICAgICAgICBhdG9tMCA9IHNlbGYubW9sZWN1bGUuYXRvbXNbbmV4dChpdGVyKGZyYWcpKV0KICAgICAgICAgICAgcmVzX25hbWUgPSBnZXRhdHRyKGF0b20wLCAncmVzX25hbWUnLCAnJykudXBwZXIoKQogICAgICAgICAgICBpc193YXRlciA9IHJlc19uYW1lIGluICgnSE9IJywgJ1dBVCcsICdTT0wnLCAnRE9EJykKICAgICAgICAgICAgCiAgICAgICAgICAgIGlmIGlzX3dhdGVyOiByZXR1cm4gLTEgIyBXYXRlcnMgYXJlIGxhc3QKICAgICAgICAgICAgCiAgICAgICAgICAgIGhldF9yYXRpbyA9IGhldF9jb3VudCAvIGxlbihmcmFnKSBpZiBmcmFnIGVsc2UgMAogICAgICAgICAgICAjIFByaW9yaXRpemUgc21hbGwtdG8tbWVkaXVtIGZyYWdtZW50cyB3aXRoIGhpZ2ggaGV0IHJhdGlvCiAgICAgICAgICAgIHNjb3JlID0gaGV0X3JhdGlvICogMTAwCiAgICAgICAgICAgIGlmIDUgPCBsZW4oZnJhZykgPCAxMDA6IHNjb3JlICs9IDUwIAogICAgICAgICAgICByZXR1cm4gc2NvcmUKCiAgICAgICAgIyBSZXR1cm4gYWxsIGZyYWdtZW50cyAoZXhjZXB0IHdhdGVyKSBzb3J0ZWQgYnkgc2NvcmUKICAgICAgICBzY29yZWRfZnJhZ3MgPSBbXQogICAgICAgIGZvciBmcmFnIGluIGZyYWdtZW50czoKICAgICAgICAgICAgaWYgZnJhZ21lbnRfc2NvcmUoZnJhZykgPj0gMDoKICAgICAgICAgICAgICAgIHNjb3JlZF9mcmFncy5hcHBlbmQoc2V0KGZyYWcpKQogICAgICAgICAgICAgICAgCiAgICAgICAgcmV0dXJuIHNvcnRlZChzY29yZWRfZnJhZ3MsIGtleT1mcmFnbWVudF9zY29yZSwgcmV2ZXJzZT1UcnVlKQoKICAgIGRlZiBmaW5kX25lYXJieV9yZXNpZHVlcyhzZWxmLCBsaWdhbmRfaW5kaWNlczogU2V0W2ludF0sIGRpc3RhbmNlOiBmbG9hdCA9IDUuMCkgLT4gU2V0W2ludF06CiAgICAgICAgIiIiRmluZCByZXNpZHVlIHNlcXVlbmNlIG51bWJlcnMgd2l0aGluIGRpc3RhbmNlIG9mIHRoZSBsaWdhbmQuIiIiCiAgICAgICAgbmVhcmJ5X3JlcyA9IHNldCgpCiAgICAgICAgbGlnYW5kX2F0b21zID0gW3NlbGYubW9sZWN1bGUuYXRvbXNbaV0gZm9yIGkgaW4gbGlnYW5kX2luZGljZXMgaWYgc2VsZi5tb2xlY3VsZS5hdG9tc1tpXS5oYXNfY29vcmRzXQogICAgICAgIAogICAgICAgIGZvciBhdG9tIGluIHNlbGYubW9sZWN1bGUuYXRvbXM6CiAgICAgICAgICAgIGlmIGF0b20uaW5kZXggaW4gbGlnYW5kX2luZGljZXMgb3Igbm90IGF0b20uaGFzX2Nvb3JkczoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIAogICAgICAgICAgICAjIENoZWNrIGRpc3RhbmNlIHRvIGFueSBsaWdhbmQgYXRvbQogICAgICAgICAgICBmb3IgbF9hdG9tIGluIGxpZ2FuZF9hdG9tczoKICAgICAgICAgICAgICAgIGR4ID0gYXRvbS54IC0gbF9hdG9tLngKICAgICAgICAgICAgICAgIGR5ID0gYXRvbS55IC0gbF9hdG9tLnkKICAgICAgICAgICAgICAgIGR6ID0gKGF0b20ueiBvciAwKSAtIChsX2F0b20ueiBvciAwKQogICAgICAgICAgICAgICAgaWYgZHgqZHggKyBkeSpkeSArIGR6KmR6IDw9IGRpc3RhbmNlKmRpc3RhbmNlOgogICAgICAgICAgICAgICAgICAgIGlmIGhhc2F0dHIoYXRvbSwgJ3Jlc19zZXEnKSBhbmQgYXRvbS5yZXNfc2VxIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgICAgICBuZWFyYnlfcmVzLmFkZChhdG9tLnJlc19zZXEpCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAKICAgICAgICByZXR1cm4gbmVhcmJ5X3JlcwoKICAgIGRlZiBkZXRlY3RfaW50ZXJhY3Rpb25zKHNlbGYsIGxpZ2FuZF9pbmRpY2VzOiBTZXRbaW50XSwgcmVzaWR1ZV9pbmRpY2VzOiBTZXRbaW50XSkgLT4gTGlzdFtNb2xlY3VsYXJJbnRlcmFjdGlvbl06CiAgICAgICAgIiIiRGV0ZWN0IHZhcmlvdXMgbW9sZWN1bGFyIGludGVyYWN0aW9ucyBiZXR3ZWVuIGxpZ2FuZCBhbmQgbmVhcmJ5IHJlc2lkdWVzLiIiIgogICAgICAgIGludGVyYWN0aW9ucyA9IFtdCiAgICAgICAgCiAgICAgICAgIyAxLiBILUJvbmRzCiAgICAgICAgaW50ZXJhY3Rpb25zLmV4dGVuZChzZWxmLl9kZXRlY3RfaGJvbmRzKGxpZ2FuZF9pbmRpY2VzLCByZXNpZHVlX2luZGljZXMpKQogICAgICAgIAogICAgICAgICMgMi4gU2FsdCBCcmlkZ2VzCiAgICAgICAgaW50ZXJhY3Rpb25zLmV4dGVuZChzZWxmLl9kZXRlY3Rfc2FsdF9icmlkZ2VzKGxpZ2FuZF9pbmRpY2VzLCByZXNpZHVlX2luZGljZXMpKQogICAgICAgIAogICAgICAgICMgMy4gSHlkcm9waG9iaWMKICAgICAgICBpbnRlcmFjdGlvbnMuZXh0ZW5kKHNlbGYuX2RldGVjdF9oeWRyb3Bob2JpYyhsaWdhbmRfaW5kaWNlcywgcmVzaWR1ZV9pbmRpY2VzKSkKICAgICAgICAKICAgICAgICByZXR1cm4gaW50ZXJhY3Rpb25zCgogICAgZGVmIF9kZXRlY3RfaGJvbmRzKHNlbGYsIGxpZ2FuZF9pbmRpY2VzOiBTZXRbaW50XSwgcmVzaWR1ZV9pbmRpY2VzOiBTZXRbaW50XSkgLT4gTGlzdFtNb2xlY3VsYXJJbnRlcmFjdGlvbl06CiAgICAgICAgIiIiRGV0ZWN0IEgtYm9uZHMgYmV0d2VlbiBsaWdhbmQgYW5kIHJlc2lkdWVzLiIiIgogICAgICAgIGhib25kcyA9IFtdCiAgICAgICAgCiAgICAgICAgIyBEZWZpbmUgZG9ub3JzIGFuZCBhY2NlcHRvcnMKICAgICAgICAjIFNpbXBsaWZpY2F0aW9uOiBOLCBPLCBTIGFyZSBwb3RlbnRpYWwgYWNjZXB0b3JzLiAKICAgICAgICAjIE4sIE8gd2l0aCBhdHRhY2hlZCBIIGFyZSBkb25vcnMuCiAgICAgICAgCiAgICAgICAgZGVmIGlzX2FjY2VwdG9yKGF0b206IEF0b20pIC0+IGJvb2w6CiAgICAgICAgICAgIHJldHVybiBhdG9tLnN5bWJvbCBpbiAoJ04nLCAnTycsICdTJywgJ0YnKQogICAgICAgIAogICAgICAgIGRlZiBpc19kb25vcihhdG9tOiBBdG9tLCBtb2w6IE1vbGVjdWxlKSAtPiBib29sOgogICAgICAgICAgICBpZiBhdG9tLnN5bWJvbCBub3QgaW4gKCdOJywgJ08nLCAnUycpOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgICAgICMgQ2hlY2sgZm9yIGV4cGxpY2l0IEgKICAgICAgICAgICAgZm9yIG5iX2lkeCBpbiBtb2wuZ2V0X25laWdoYm9ycyhhdG9tLmluZGV4KToKICAgICAgICAgICAgICAgIGlmIG1vbC5hdG9tc1tuYl9pZHhdLnN5bWJvbCA9PSAnSCc6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICAgICAgIyBDaGVjayBmb3IgaW1wbGljaXQgSAogICAgICAgICAgICBpZiBnZXRhdHRyKGF0b20sICdudW1faW1wbGljaXRfaCcsIDApID4gMDoKICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgICAgICBsaWdhbmRfYXRvbXMgPSBbc2VsZi5tb2xlY3VsZS5hdG9tc1tpXSBmb3IgaSBpbiBsaWdhbmRfaW5kaWNlc10KICAgICAgICBwcm90ZWluX2F0b21zID0gW2EgZm9yIGEgaW4gc2VsZi5tb2xlY3VsZS5hdG9tcyBpZiBhLnJlc19zZXEgaW4gcmVzaWR1ZV9pbmRpY2VzXQogICAgICAgIAogICAgICAgICMgTGlnYW5kIGFzIGRvbm9yLCBwcm90ZWluIGFzIGFjY2VwdG9yCiAgICAgICAgZm9yIGxfaWR4IGluIGxpZ2FuZF9pbmRpY2VzOgogICAgICAgICAgICBsX2F0b20gPSBzZWxmLm1vbGVjdWxlLmF0b21zW2xfaWR4XQogICAgICAgICAgICBpZiBub3QgaXNfZG9ub3IobF9hdG9tLCBzZWxmLm1vbGVjdWxlKSBvciBub3QgbF9hdG9tLmhhc19jb29yZHM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAKICAgICAgICAgICAgZm9yIHBfYXRvbSBpbiBwcm90ZWluX2F0b21zOgogICAgICAgICAgICAgICAgaWYgbm90IGlzX2FjY2VwdG9yKHBfYXRvbSkgb3Igbm90IHBfYXRvbS5oYXNfY29vcmRzOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGRpc3QgPSBzZWxmLl9kaXN0KGxfYXRvbSwgcF9hdG9tKQogICAgICAgICAgICAgICAgaWYgMi41IDw9IGRpc3QgPD0gMy42OgogICAgICAgICAgICAgICAgICAgIGhib25kcy5hcHBlbmQoTW9sZWN1bGFySW50ZXJhY3Rpb24obF9pZHgsIHBfYXRvbS5pbmRleCwgSW50ZXJhY3Rpb25UeXBlLkhfQk9ORCwgZGlzdCkpCgogICAgICAgICMgUHJvdGVpbiBhcyBkb25vciwgbGlnYW5kIGFzIGFjY2VwdG9yCiAgICAgICAgZm9yIHBfYXRvbSBpbiBwcm90ZWluX2F0b21zOgogICAgICAgICAgICBpZiBub3QgaXNfZG9ub3IocF9hdG9tLCBzZWxmLm1vbGVjdWxlKSBvciBub3QgcF9hdG9tLmhhc19jb29yZHM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAKICAgICAgICAgICAgZm9yIGxfaWR4IGluIGxpZ2FuZF9pbmRpY2VzOgogICAgICAgICAgICAgICAgbF9hdG9tID0gc2VsZi5tb2xlY3VsZS5hdG9tc1tsX2lkeF0KICAgICAgICAgICAgICAgIGlmIG5vdCBpc19hY2NlcHRvcihsX2F0b20pIG9yIG5vdCBsX2F0b20uaGFzX2Nvb3JkczoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBkaXN0ID0gc2VsZi5fZGlzdChwX2F0b20sIGxfYXRvbSkKICAgICAgICAgICAgICAgIGlmIDIuNSA8PSBkaXN0IDw9IDMuNjoKICAgICAgICAgICAgICAgICAgICBoYm9uZHMuYXBwZW5kKE1vbGVjdWxhckludGVyYWN0aW9uKHBfYXRvbS5pbmRleCwgbF9pZHgsIEludGVyYWN0aW9uVHlwZS5IX0JPTkQsIGRpc3QpKQogICAgICAgICAgICAgICAgICAgIAogICAgICAgIHJldHVybiBoYm9uZHMKCiAgICBkZWYgX2RldGVjdF9zYWx0X2JyaWRnZXMoc2VsZiwgbGlnYW5kX2luZGljZXM6IFNldFtpbnRdLCByZXNpZHVlX2luZGljZXM6IFNldFtpbnRdKSAtPiBMaXN0W01vbGVjdWxhckludGVyYWN0aW9uXToKICAgICAgICAiIiJEZXRlY3QgaW9uaWMgaW50ZXJhY3Rpb25zLiIiIgogICAgICAgICMgSGlnaGx5IHNpbXBsaWZpZWQ6IE9wcG9zaXRlbHkgY2hhcmdlZCBoZWF2eSBhdG9tcyB3aXRoaW4gNC4wQQogICAgICAgIGJyaWRnZXMgPSBbXQogICAgICAgIGxpZ2FuZF9hdG9tcyA9IFtzZWxmLm1vbGVjdWxlLmF0b21zW2ldIGZvciBpIGluIGxpZ2FuZF9pbmRpY2VzXQogICAgICAgIHByb3RlaW5fYXRvbXMgPSBbYSBmb3IgYSBpbiBzZWxmLm1vbGVjdWxlLmF0b21zIGlmIGEucmVzX3NlcSBpbiByZXNpZHVlX2luZGljZXNdCiAgICAgICAgCiAgICAgICAgZm9yIGxfYXRvbSBpbiBsaWdhbmRfYXRvbXM6CiAgICAgICAgICAgIGxfcSA9IGdldGF0dHIobF9hdG9tLCAnZm9ybWFsX2NoYXJnZScsIDApCiAgICAgICAgICAgIGlmIGxfcSA9PSAwOiBjb250aW51ZQogICAgICAgICAgICAKICAgICAgICAgICAgZm9yIHBfYXRvbSBpbiBwcm90ZWluX2F0b21zOgogICAgICAgICAgICAgICAgcF9xID0gZ2V0YXR0cihwX2F0b20sICdmb3JtYWxfY2hhcmdlJywgMCkKICAgICAgICAgICAgICAgIGlmIHBfcSA9PSAwOiBjb250aW51ZQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBpZiBsX3EgKiBwX3EgPCAwOiAjIE9wcG9zaXRlIHNpZ25zCiAgICAgICAgICAgICAgICAgICAgZGlzdCA9IHNlbGYuX2Rpc3QobF9hdG9tLCBwX2F0b20pCiAgICAgICAgICAgICAgICAgICAgaWYgZGlzdCA8PSA0LjU6CiAgICAgICAgICAgICAgICAgICAgICAgIGJyaWRnZXMuYXBwZW5kKE1vbGVjdWxhckludGVyYWN0aW9uKGxfYXRvbS5pbmRleCwgcF9hdG9tLmluZGV4LCBJbnRlcmFjdGlvblR5cGUuU0FMVF9CUklER0UsIGRpc3QpKQogICAgICAgIHJldHVybiBicmlkZ2VzCgogICAgZGVmIF9kZXRlY3RfaHlkcm9waG9iaWMoc2VsZiwgbGlnYW5kX2luZGljZXM6IFNldFtpbnRdLCByZXNpZHVlX2luZGljZXM6IFNldFtpbnRdKSAtPiBMaXN0W01vbGVjdWxhckludGVyYWN0aW9uXToKICAgICAgICAiIiJEZXRlY3QgaHlkcm9waG9iaWMgY29udGFjdHMuIiIiCiAgICAgICAgIyBOb24tcG9sYXIgY2FyYm9ucyB3aXRoaW4gNC41QQogICAgICAgIGNvbnRhY3RzID0gW10KICAgICAgICAKICAgICAgICBkZWYgaXNfaHlkcm9waG9iaWMoYXRvbTogQXRvbSkgLT4gYm9vbDoKICAgICAgICAgICAgaWYgYXRvbS5zeW1ib2wgIT0gJ0MnOiByZXR1cm4gRmFsc2UKICAgICAgICAgICAgIyBDYXJib24gYm9uZGVkIG9ubHkgdG8gQyBvciBIIGlzIGh5ZHJvcGhvYmljCiAgICAgICAgICAgIGZvciBuYl9pZHggaW4gc2VsZi5tb2xlY3VsZS5nZXRfbmVpZ2hib3JzKGF0b20uaW5kZXgpOgogICAgICAgICAgICAgICAgbmIgPSBzZWxmLm1vbGVjdWxlLmF0b21zW25iX2lkeF0KICAgICAgICAgICAgICAgIGlmIG5iLnN5bWJvbCBub3QgaW4gKCdDJywgJ0gnKToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICAgICAgcmV0dXJuIFRydWUKCiAgICAgICAgbGlnYW5kX2ggPSBbaSBmb3IgaSBpbiBsaWdhbmRfaW5kaWNlcyBpZiBpc19oeWRyb3Bob2JpYyhzZWxmLm1vbGVjdWxlLmF0b21zW2ldKV0KICAgICAgICBwcm90ZWluX2ggPSBbYS5pbmRleCBmb3IgYSBpbiBzZWxmLm1vbGVjdWxlLmF0b21zIGlmIGEucmVzX3NlcSBpbiByZXNpZHVlX2luZGljZXMgYW5kIGlzX2h5ZHJvcGhvYmljKGEpXQogICAgICAgIAogICAgICAgIGZvciBsaSBpbiBsaWdhbmRfaDoKICAgICAgICAgICAgbGEgPSBzZWxmLm1vbGVjdWxlLmF0b21zW2xpXQogICAgICAgICAgICBpZiBub3QgbGEuaGFzX2Nvb3JkczogY29udGludWUKICAgICAgICAgICAgZm9yIHBpIGluIHByb3RlaW5faDoKICAgICAgICAgICAgICAgIHBhID0gc2VsZi5tb2xlY3VsZS5hdG9tc1twaV0KICAgICAgICAgICAgICAgIGlmIG5vdCBwYS5oYXNfY29vcmRzOiBjb250aW51ZQogICAgICAgICAgICAgICAgZGlzdCA9IHNlbGYuX2Rpc3QobGEsIHBhKQogICAgICAgICAgICAgICAgaWYgZGlzdCA8PSA0LjU6CiAgICAgICAgICAgICAgICAgICAgY29udGFjdHMuYXBwZW5kKE1vbGVjdWxhckludGVyYWN0aW9uKGxpLCBwaSwgSW50ZXJhY3Rpb25UeXBlLkhZRFJPUEhPQklDLCBkaXN0KSkKICAgICAgICAKICAgICAgICAjIEN1bGwgaHlkcm9waG9iaWMgY29udGFjdHMgdG8gb25seSBrZWVwIHRoZSBzaG9ydGVzdCBvbmUgcGVyIHJlc2lkdWUtbGlnYW5kIGF0b20gcGFpciBpZiBuZWVkZWQsIAogICAgICAgICMgYnV0IGZvciBub3cgd2UganVzdCByZXR1cm4gYWxsLgogICAgICAgIHJldHVybiBjb250YWN0cwoKICAgIGRlZiBfZGlzdChzZWxmLCBhMSwgYTIpOgogICAgICAgIHJldHVybiBtYXRoLnNxcnQoKGExLngtYTIueCkqKjIgKyAoYTEueS1hMi55KSoqMiArICgoYTEueiBvciAwKS0oYTIueiBvciAwKSkqKjIpCgogICAgZGVmIGdlbmVyYXRlX3JlcG9ydF9jc3Yoc2VsZiwgaW50ZXJhY3Rpb25zOiBMaXN0W01vbGVjdWxhckludGVyYWN0aW9uXSkgLT4gc3RyOgogICAgICAgICIiIkdlbmVyYXRlIGEgQ1NWIHN0cmluZyBmcm9tIGludGVyYWN0aW9ucy4iIiIKICAgICAgICBsaW5lcyA9IFsiQXRvbSAxLEVsZW1lbnQgMSxSZXNpZHVlIDEsQXRvbSAyLEVsZW1lbnQgMixSZXNpZHVlIDIsVHlwZSxEaXN0YW5jZSAoQSkiXQogICAgICAgIGZvciBpbnRlciBpbiBpbnRlcmFjdGlvbnM6CiAgICAgICAgICAgIGExID0gc2VsZi5tb2xlY3VsZS5hdG9tc1tpbnRlci5hdG9tMV9pZHhdCiAgICAgICAgICAgIGEyID0gc2VsZi5tb2xlY3VsZS5hdG9tc1tpbnRlci5hdG9tMl9pZHhdCiAgICAgICAgICAgIAogICAgICAgICAgICByZXMxID0gZiJ7Z2V0YXR0cihhMSwgJ3Jlc19uYW1lJywgJ1VOSycpfXtnZXRhdHRyKGExLCAncmVzX3NlcScsICcnKX0iCiAgICAgICAgICAgIHJlczIgPSBmIntnZXRhdHRyKGEyLCAncmVzX25hbWUnLCAnVU5LJyl9e2dldGF0dHIoYTIsICdyZXNfc2VxJywgJycpfSIKICAgICAgICAgICAgCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmInthMS5wZGJfbmFtZSBvciBhMS5zeW1ib2x9e2ExLmluZGV4fSx7YTEuc3ltYm9sfSx7cmVzMX0sIgogICAgICAgICAgICAgICAgICAgICAgICAgZiJ7YTIucGRiX25hbWUgb3IgYTIuc3ltYm9sfXthMi5pbmRleH0se2EyLnN5bWJvbH0se3JlczJ9LCIKICAgICAgICAgICAgICAgICAgICAgICAgIGYie2ludGVyLnR5cGV9LHtpbnRlci5kaXN0YW5jZTouM2Z9IikKICAgICAgICByZXR1cm4gIlxuIi5qb2luKGxpbmVzKQo=
+import math
+import numpy as np
+from typing import List, Set, Dict, Tuple, Optional
+from src.core.domain.models.molecule import Molecule
+from src.core.domain.models.atom import Atom
+
+class InteractionType:
+    H_BOND = "Hydrogen Bond"
+    HYDROPHOBIC = "Hydrophobic"
+    SALT_BRIDGE = "Salt Bridge"
+    PI_STACKING = "Pi-Stacking"
+
+class MolecularInteraction:
+    def __init__(self, atom1_idx: int, atom2_idx: int, type: str, distance: float, 
+                 energy: float = 0.0, details: str = ""):
+        self.atom1_idx = atom1_idx
+        self.atom2_idx = atom2_idx
+        self.type = type
+        self.distance = distance
+        self.energy = energy
+        self.details = details
+
+class DockingPoseService:
+    def __init__(self, molecule: Molecule):
+        self.molecule = molecule
+
+    def find_ligands(self) -> List[Set[int]]:
+        """Identify potential ligand fragments, prioritizing HETATMs."""
+        fragments = self.molecule.get_fragments()
+        
+        def fragment_score(frag):
+            # Higher score = more likely to be a ligand
+            het_count = sum(1 for idx in frag if getattr(self.molecule.atoms[idx], 'is_hetatm', False))
+            atom0 = self.molecule.atoms[next(iter(frag))]
+            res_name = getattr(atom0, 'res_name', '').upper()
+            is_water = res_name in ('HOH', 'WAT', 'SOL', 'DOD')
+            
+            if is_water: return -1 # Waters are last
+            
+            het_ratio = het_count / len(frag) if frag else 0
+            # Prioritize small-to-medium fragments with high het ratio
+            score = het_ratio * 100
+            if 5 < len(frag) < 100: score += 50 
+            return score
+
+        # Return all fragments (except water) sorted by score
+        scored_frags = []
+        for frag in fragments:
+            if fragment_score(frag) >= 0:
+                scored_frags.append(set(frag))
+                
+        return sorted(scored_frags, key=fragment_score, reverse=True)
+
+    def find_nearby_residues(self, ligand_indices: Set[int], distance: float = 5.0) -> Set[int]:
+        """Find residue sequence numbers within distance of the ligand."""
+        nearby_res = set()
+        ligand_atoms = [self.molecule.atoms[i] for i in ligand_indices if self.molecule.atoms[i].has_coords]
+        
+        for atom in self.molecule.atoms:
+            if atom.index in ligand_indices or not atom.has_coords:
+                continue
+            
+            # Check distance to any ligand atom
+            for l_atom in ligand_atoms:
+                dx = atom.x - l_atom.x
+                dy = atom.y - l_atom.y
+                dz = (atom.z or 0) - (l_atom.z or 0)
+                if dx*dx + dy*dy + dz*dz <= distance*distance:
+                    if hasattr(atom, 'res_seq') and atom.res_seq is not None:
+                        nearby_res.add(atom.res_seq)
+                    break
+        
+        return nearby_res
+
+    def detect_interactions(self, ligand_indices: Set[int], residue_indices: Set[int]) -> List[MolecularInteraction]:
+        """Detect various molecular interactions between ligand and nearby residues."""
+        interactions = []
+        
+        # 1. H-Bonds
+        interactions.extend(self._detect_hbonds(ligand_indices, residue_indices))
+        
+        # 2. Salt Bridges
+        interactions.extend(self._detect_salt_bridges(ligand_indices, residue_indices))
+        
+        # 3. Hydrophobic
+        interactions.extend(self._detect_hydrophobic(ligand_indices, residue_indices))
+        
+        return interactions
+
+    def _detect_hbonds(self, ligand_indices: Set[int], residue_indices: Set[int]) -> List[MolecularInteraction]:
+        """Detect H-bonds between ligand and residues."""
+        hbonds = []
+        
+        # Define donors and acceptors
+        # Simplification: N, O, S are potential acceptors. 
+        # N, O with attached H are donors.
+        
+        def is_acceptor(atom: Atom) -> bool:
+            return atom.symbol in ('N', 'O', 'S', 'F')
+        
+        def is_donor(atom: Atom, mol: Molecule) -> bool:
+            if atom.symbol not in ('N', 'O', 'S'):
+                return False
+            # Check for explicit H
+            for nb_idx in mol.get_neighbors(atom.index):
+                if mol.atoms[nb_idx].symbol == 'H':
+                    return True
+            # Check for implicit H
+            if getattr(atom, 'num_implicit_h', 0) > 0:
+                return True
+            return False
+
+        ligand_atoms = [self.molecule.atoms[i] for i in ligand_indices]
+        protein_atoms = [a for a in self.molecule.atoms if a.res_seq in residue_indices]
+        
+        # Ligand as donor, protein as acceptor
+        for l_idx in ligand_indices:
+            l_atom = self.molecule.atoms[l_idx]
+            if not is_donor(l_atom, self.molecule) or not l_atom.has_coords:
+                continue
+            
+            for p_atom in protein_atoms:
+                if not is_acceptor(p_atom) or not p_atom.has_coords:
+                    continue
+                
+                dist = self._dist(l_atom, p_atom)
+                if 2.5 <= dist <= 3.6:
+                    hbonds.append(MolecularInteraction(l_idx, p_atom.index, InteractionType.H_BOND, dist))
+
+        # Protein as donor, ligand as acceptor
+        for p_atom in protein_atoms:
+            if not is_donor(p_atom, self.molecule) or not p_atom.has_coords:
+                continue
+            
+            for l_idx in ligand_indices:
+                l_atom = self.molecule.atoms[l_idx]
+                if not is_acceptor(l_atom) or not l_atom.has_coords:
+                    continue
+                
+                dist = self._dist(p_atom, l_atom)
+                if 2.5 <= dist <= 3.6:
+                    hbonds.append(MolecularInteraction(p_atom.index, l_idx, InteractionType.H_BOND, dist))
+                    
+        return hbonds
+
+    def _detect_salt_bridges(self, ligand_indices: Set[int], residue_indices: Set[int]) -> List[MolecularInteraction]:
+        """Detect ionic interactions."""
+        # Highly simplified: Oppositely charged heavy atoms within 4.0A
+        bridges = []
+        ligand_atoms = [self.molecule.atoms[i] for i in ligand_indices]
+        protein_atoms = [a for a in self.molecule.atoms if a.res_seq in residue_indices]
+        
+        for l_atom in ligand_atoms:
+            l_q = getattr(l_atom, 'formal_charge', 0)
+            if l_q == 0: continue
+            
+            for p_atom in protein_atoms:
+                p_q = getattr(p_atom, 'formal_charge', 0)
+                if p_q == 0: continue
+                
+                if l_q * p_q < 0: # Opposite signs
+                    dist = self._dist(l_atom, p_atom)
+                    if dist <= 4.5:
+                        bridges.append(MolecularInteraction(l_atom.index, p_atom.index, InteractionType.SALT_BRIDGE, dist))
+        return bridges
+
+    def _detect_hydrophobic(self, ligand_indices: Set[int], residue_indices: Set[int]) -> List[MolecularInteraction]:
+        """Detect hydrophobic contacts."""
+        # Non-polar carbons within 4.5A
+        contacts = []
+        
+        def is_hydrophobic(atom: Atom) -> bool:
+            if atom.symbol != 'C': return False
+            # Carbon bonded only to C or H is hydrophobic
+            for nb_idx in self.molecule.get_neighbors(atom.index):
+                nb = self.molecule.atoms[nb_idx]
+                if nb.symbol not in ('C', 'H'):
+                    return False
+            return True
+
+        ligand_h = [i for i in ligand_indices if is_hydrophobic(self.molecule.atoms[i])]
+        protein_h = [a.index for a in self.molecule.atoms if a.res_seq in residue_indices and is_hydrophobic(a)]
+        
+        for li in ligand_h:
+            la = self.molecule.atoms[li]
+            if not la.has_coords: continue
+            for pi in protein_h:
+                pa = self.molecule.atoms[pi]
+                if not pa.has_coords: continue
+                dist = self._dist(la, pa)
+                if dist <= 4.5:
+                    contacts.append(MolecularInteraction(li, pi, InteractionType.HYDROPHOBIC, dist))
+        
+        # Cull hydrophobic contacts to only keep the shortest one per residue-ligand atom pair if needed, 
+        # but for now we just return all.
+        return contacts
+
+    def _dist(self, a1, a2):
+        return math.sqrt((a1.x-a2.x)**2 + (a1.y-a2.y)**2 + ((a1.z or 0)-(a2.z or 0))**2)
+
+    def generate_report_csv(self, interactions: List[MolecularInteraction]) -> str:
+        """Generate a CSV string from interactions."""
+        lines = ["Atom 1,Element 1,Residue 1,Atom 2,Element 2,Residue 2,Type,Distance (A)"]
+        for inter in interactions:
+            a1 = self.molecule.atoms[inter.atom1_idx]
+            a2 = self.molecule.atoms[inter.atom2_idx]
+            
+            res1 = f"{getattr(a1, 'res_name', 'UNK')}{getattr(a1, 'res_seq', '')}"
+            res2 = f"{getattr(a2, 'res_name', 'UNK')}{getattr(a2, 'res_seq', '')}"
+            
+            lines.append(f"{a1.pdb_name or a1.symbol}{a1.index},{a1.symbol},{res1},"
+                         f"{a2.pdb_name or a2.symbol}{a2.index},{a2.symbol},{res2},"
+                         f"{inter.type},{inter.distance:.3f}")
+        return "\n".join(lines)

@@ -1,1 +1,87 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDk4IOS4u+WunumqjO+8muS4lueVjOe7k+aehCB4IOaJq+aPj+etlueVpSDnmoTkuqTkupLvvIzlpJogc2VlZCArIOmFjeWvuSBDSSArIE9DUiDplJrlrpogKyDlvJXmk47mjqXlhaUiIiIKaW1wb3J0IHN5cywgb3MsIGpzb24sIHRpbWUsIHJhbmRvbQppbXBvcnQgbnVtcHkgYXMgbnAKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKZnJvbSBleHAwOTggaW1wb3J0IChtYWtlX3dvcmxkLCBydW5fc2NhbiwgcGVyaXBoZXJhbCwgY2FwdHVyZSwgb2NyX3JlYWQsCiAgICAgICAgICAgICAgICAgICAgc2FsaWVuY3lfbWFwLCBLX1NURVBTLCBOX1RBUkdFVCwgV09STEQsIEZPViwgUEVSSVBILCBPVVQpCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKc3lzLnBhdGguaW5zZXJ0KDAsICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9jb3JlJykKZnJvbSBsaWZlNSBpbXBvcnQgTGlmZTUKCk1PREVTID0gWydzdGF0aWMnLCAncmFzdGVyJywgJ3JhbmRvbScsICdzYWxpZW50JywgJ3NhbGllbnRfaW9yJywgJ2h1bWFuJ10KRElTVFMgPSBbJ3VuaWZvcm0nLCAnY2x1c3RlcmVkJ10KU0VFRFMgPSBbMSwgMiwgMywgNCwgNSwgNiwgNywgOF0KCnQwID0gdGltZS50aW1lKCkKcmVzID0ge30KcGVyX3NlZWQgPSB7fQoKcHJpbnQoJz09IEEg5Li75omr5o+P77yaJWQgZGlzdCB4ICVkIG1vZGUgeCAlZCBzZWVkID09JyAlIChsZW4oRElTVFMpLCBsZW4oTU9ERVMpLCBsZW4oU0VFRFMpKSkKZm9yIGRpc3QgaW4gRElTVFM6CiAgICBmb3Igc2QgaW4gU0VFRFM6CiAgICAgICAgdywgdGcgPSBtYWtlX3dvcmxkKGRpc3QsIHNkKQogICAgICAgIGZvciBtIGluIE1PREVTOgogICAgICAgICAgICByID0gcnVuX3NjYW4odywgdGcsIG0sIHNkKQogICAgICAgICAgICBwZXJfc2VlZC5zZXRkZWZhdWx0KChkaXN0LCBtKSwgW10pLmFwcGVuZChyWydyYXRlJ10pCiAgICAgICAgICAgIHBlcl9zZWVkLnNldGRlZmF1bHQoKGRpc3QsIG0sICdyZXYnKSwgW10pLmFwcGVuZChyWydyZXZpc2l0J10pCiAgICAgICAgICAgIHBlcl9zZWVkLnNldGRlZmF1bHQoKGRpc3QsIG0sICduZXcnKSwgW10pLmFwcGVuZChyWydzdGVwc19uZXcnXSkKICAgIHByaW50KCcgIGRpc3Q9JXMgZG9uZSAlLjBmcycgJSAoZGlzdCwgdGltZS50aW1lKCkgLSB0MCkpCgojIOaxh+aAuyArIOmFjeWvuSBDSQpkZWYgY2lfcGFpcmVkKGEsIGIpOgogICAgZCA9IG5wLmFycmF5KGEsIGZsb2F0KSAtIG5wLmFycmF5KGIsIGZsb2F0KQogICAgbiA9IGxlbihkKQogICAgaWYgbiA8IDI6CiAgICAgICAgcmV0dXJuIGRpY3QoZGlmZj1Ob25lLCBsbz1Ob25lLCBoaT1Ob25lKQogICAgbSA9IGQubWVhbigpCiAgICBzZSA9IGQuc3RkKGRkb2Y9MSkgLyBucC5zcXJ0KG4pCiAgICB0cnk6CiAgICAgICAgZnJvbSBzY2lweSBpbXBvcnQgc3RhdHMKICAgICAgICB0ID0gc3RhdHMudC5wcGYoMC45NzUsIG4gLSAxKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICB0ID0gMi4zNjUgaWYgbiA8PSA4IGVsc2UgMi4wCiAgICByZXR1cm4gZGljdChkaWZmPWZsb2F0KG0pLCBsbz1mbG9hdChtIC0gdCAqIHNlKSwgaGk9ZmxvYXQobSArIHQgKiBzZSksIG49bikKCnN1bW1hcnkgPSB7fQpmb3IgZGlzdCBpbiBESVNUUzoKICAgIHN1bW1hcnlbZGlzdF0gPSB7fQogICAgZm9yIG0gaW4gTU9ERVM6CiAgICAgICAgdiA9IHBlcl9zZWVkWyhkaXN0LCBtKV0KICAgICAgICBzdW1tYXJ5W2Rpc3RdW21dID0gZGljdChyYXRlPWZsb2F0KG5wLm1lYW4odikpLCBzZD1mbG9hdChucC5zdGQodiwgZGRvZj0xKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV2aXNpdD1mbG9hdChucC5tZWFuKHBlcl9zZWVkWyhkaXN0LCBtLCAncmV2JyldKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFscz1bcm91bmQoZmxvYXQoeCksIDQpIGZvciB4IGluIHZdKQoKcGFpcnMgPSB7fQpmb3IgZGlzdCBpbiBESVNUUzoKICAgIGZvciBhLCBiIGluIFsoJ3NhbGllbnRfaW9yJywgJ3Jhc3RlcicpLCAoJ3NhbGllbnRfaW9yJywgJ3JhbmRvbScpLAogICAgICAgICAgICAgICAgICgnc2FsaWVudF9pb3InLCAnc2FsaWVudCcpLCAoJ3NhbGllbnQnLCAncmFzdGVyJyksCiAgICAgICAgICAgICAgICAgKCdodW1hbicsICdzYWxpZW50X2lvcicpLCAoJ3JhbmRvbScsICdyYXN0ZXInKV06CiAgICAgICAgcGFpcnNbJyVzfCVzLXZzLSVzJyAlIChkaXN0LCBhLCBiKV0gPSBjaV9wYWlyZWQoCiAgICAgICAgICAgIHBlcl9zZWVkWyhkaXN0LCBhKV0sIHBlcl9zZWVkWyhkaXN0LCBiKV0pCiMg5YWz6ZSu5Lqk5LqS77yaSU9SIOeahOaUtuebiu+8iHNhbGllbnRfaW9yIC0gc2FsaWVudO+8ieWcqOS4pOenjeS4lueVjOS4i+eahOW3rgpnYWluID0ge30KZm9yIGRpc3QgaW4gRElTVFM6CiAgICBnYWluW2Rpc3RdID0gY2lfcGFpcmVkKHBlcl9zZWVkWyhkaXN0LCAnc2FsaWVudF9pb3InKV0sIHBlcl9zZWVkWyhkaXN0LCAnc2FsaWVudCcpXSkKaW50ZXIgPSBjaV9wYWlyZWQoCiAgICBbYSAtIGIgZm9yIGEsIGIgaW4gemlwKHBlcl9zZWVkWygnY2x1c3RlcmVkJywgJ3NhbGllbnRfaW9yJyldLCBwZXJfc2VlZFsoJ2NsdXN0ZXJlZCcsICdzYWxpZW50JyldKV0sCiAgICBbYSAtIGIgZm9yIGEsIGIgaW4gemlwKHBlcl9zZWVkWygndW5pZm9ybScsICdzYWxpZW50X2lvcicpXSwgcGVyX3NlZWRbKCd1bmlmb3JtJywgJ3NhbGllbnQnKV0pXSkKCnByaW50KCdcbj09IEIg5rGH5oC7ID09JykKZm9yIGRpc3QgaW4gRElTVFM6CiAgICBwcmludCgnIFslc10nICUgZGlzdCkKICAgIGZvciBtIGluIE1PREVTOgogICAgICAgIHMgPSBzdW1tYXJ5W2Rpc3RdW21dCiAgICAgICAgcHJpbnQoJyAgICUtMTJzIHJhdGU9JS40ZiBzZD0lLjRmIHJldmlzaXQ9JS4yZicgJSAobSwgc1sncmF0ZSddLCBzWydzZCddLCBzWydyZXZpc2l0J10pKQpwcmludCgnXG49PSBDIOmFjeWvueW3ru+8iDk1JUNJ77yJPT0nKQpmb3IgaywgdiBpbiBwYWlycy5pdGVtcygpOgogICAgcHJpbnQoJyAgJS0zNHMgZGlmZj0lKy40ZiBbJSsuNGYsJSsuNGZdJyAlIChrLCB2WydkaWZmJ10sIHZbJ2xvJ10sIHZbJ2hpJ10pKQpwcmludCgnXG49PSBEIOS6pOS6ku+8mklPUiDmlLbnm4rkvp3otZbkuJbnlYznu5PmnoQgPT0nKQpmb3IgZGlzdCBpbiBESVNUUzoKICAgIHByaW50KCcgIElPUiBnYWluIFslc10gPSAlKy40ZiBbJSsuNGYsJSsuNGZdJyAlIChkaXN0LCBnYWluW2Rpc3RdWydkaWZmJ10sIGdhaW5bZGlzdF1bJ2xvJ10sIGdhaW5bZGlzdF1bJ2hpJ10pKQpwcmludCgnICDkuqTkupLvvIjogZrnsIfmlLbnm4ogLSDlnYfljIDmlLbnm4rvvIk9ICUrLjRmIFslKy40ZiwlKy40Zl0nICUgKGludGVyWydkaWZmJ10sIGludGVyWydsbyddLCBpbnRlclsnaGknXSkpCgpqc29uLmR1bXAoZGljdChzdW1tYXJ5PXN1bW1hcnksIHBhaXJzPXBhaXJzLCBpb3JfZ2Fpbj1nYWluLCBpbnRlcmFjdGlvbj1pbnRlciwKICAgICAgICAgICAgICAgcGVyX3NlZWQ9e3N0cihrKTogdiBmb3IgaywgdiBpbiBwZXJfc2VlZC5pdGVtcygpIGlmICduZXcnIG5vdCBpbiBrfSksCiAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihPVVQsICdyZXN1bHQwOThfbWFpbi5qc29uJyksICd3JyksIGluZGVudD0xKQpwcmludCgnXG5tYWluIGRvbmUgJS4wZnMnICUgKHRpbWUudGltZSgpIC0gdDApKQo=
+# -*- coding: utf-8 -*-
+"""098 主实验：世界结构 x 扫描策略 的交互，多 seed + 配对 CI + OCR 锚定 + 引擎接入"""
+import sys, os, json, time, random
+import numpy as np
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from exp098 import (make_world, run_scan, peripheral, capture, ocr_read,
+                    saliency_map, K_STEPS, N_TARGET, WORLD, FOV, PERIPH, OUT)
+from PIL import Image, ImageDraw, ImageFont
+sys.path.insert(0, '/data/workspace/luoshen-o1/core')
+from life5 import Life5
+
+MODES = ['static', 'raster', 'random', 'salient', 'salient_ior', 'human']
+DISTS = ['uniform', 'clustered']
+SEEDS = [1, 2, 3, 4, 5, 6, 7, 8]
+
+t0 = time.time()
+res = {}
+per_seed = {}
+
+print('== A 主扫描：%d dist x %d mode x %d seed ==' % (len(DISTS), len(MODES), len(SEEDS)))
+for dist in DISTS:
+    for sd in SEEDS:
+        w, tg = make_world(dist, sd)
+        for m in MODES:
+            r = run_scan(w, tg, m, sd)
+            per_seed.setdefault((dist, m), []).append(r['rate'])
+            per_seed.setdefault((dist, m, 'rev'), []).append(r['revisit'])
+            per_seed.setdefault((dist, m, 'new'), []).append(r['steps_new'])
+    print('  dist=%s done %.0fs' % (dist, time.time() - t0))
+
+# 汇总 + 配对 CI
+def ci_paired(a, b):
+    d = np.array(a, float) - np.array(b, float)
+    n = len(d)
+    if n < 2:
+        return dict(diff=None, lo=None, hi=None)
+    m = d.mean()
+    se = d.std(ddof=1) / np.sqrt(n)
+    try:
+        from scipy import stats
+        t = stats.t.ppf(0.975, n - 1)
+    except Exception:
+        t = 2.365 if n <= 8 else 2.0
+    return dict(diff=float(m), lo=float(m - t * se), hi=float(m + t * se), n=n)
+
+summary = {}
+for dist in DISTS:
+    summary[dist] = {}
+    for m in MODES:
+        v = per_seed[(dist, m)]
+        summary[dist][m] = dict(rate=float(np.mean(v)), sd=float(np.std(v, ddof=1)),
+                                revisit=float(np.mean(per_seed[(dist, m, 'rev')])),
+                                vals=[round(float(x), 4) for x in v])
+
+pairs = {}
+for dist in DISTS:
+    for a, b in [('salient_ior', 'raster'), ('salient_ior', 'random'),
+                 ('salient_ior', 'salient'), ('salient', 'raster'),
+                 ('human', 'salient_ior'), ('random', 'raster')]:
+        pairs['%s|%s-vs-%s' % (dist, a, b)] = ci_paired(
+            per_seed[(dist, a)], per_seed[(dist, b)])
+# 关键交互：IOR 的收益（salient_ior - salient）在两种世界下的差
+gain = {}
+for dist in DISTS:
+    gain[dist] = ci_paired(per_seed[(dist, 'salient_ior')], per_seed[(dist, 'salient')])
+inter = ci_paired(
+    [a - b for a, b in zip(per_seed[('clustered', 'salient_ior')], per_seed[('clustered', 'salient')])],
+    [a - b for a, b in zip(per_seed[('uniform', 'salient_ior')], per_seed[('uniform', 'salient')])])
+
+print('\n== B 汇总 ==')
+for dist in DISTS:
+    print(' [%s]' % dist)
+    for m in MODES:
+        s = summary[dist][m]
+        print('   %-12s rate=%.4f sd=%.4f revisit=%.2f' % (m, s['rate'], s['sd'], s['revisit']))
+print('\n== C 配对差（95%CI）==')
+for k, v in pairs.items():
+    print('  %-34s diff=%+.4f [%+.4f,%+.4f]' % (k, v['diff'], v['lo'], v['hi']))
+print('\n== D 交互：IOR 收益依赖世界结构 ==')
+for dist in DISTS:
+    print('  IOR gain [%s] = %+.4f [%+.4f,%+.4f]' % (dist, gain[dist]['diff'], gain[dist]['lo'], gain[dist]['hi']))
+print('  交互（聚簇收益 - 均匀收益）= %+.4f [%+.4f,%+.4f]' % (inter['diff'], inter['lo'], inter['hi']))
+
+json.dump(dict(summary=summary, pairs=pairs, ior_gain=gain, interaction=inter,
+               per_seed={str(k): v for k, v in per_seed.items() if 'new' not in k}),
+          open(os.path.join(OUT, 'result098_main.json'), 'w'), indent=1)
+print('\nmain done %.0fs' % (time.time() - t0))

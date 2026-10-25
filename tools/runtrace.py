@@ -1,1 +1,153 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKcnVudHJhY2Ug4oCU4oCUIOa0m+elnuaZuuiDveS9k+i/kOihjOaXtuW6leW6pwo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K5a+55qCH6KGl5L2N77yaMTEg5Y+v6KeC5rWLL+Wuoeiuoe+8iHJ1bl9pZCDov73ouKrvvIkrIDkg6ZW/5pe26L+Q6KGM77yIY2hlY2twb2ludC9yZXN1bWXvvIkKCuWvueagh+S+neaNru+8iOWFqOeQg+mhtue6p+aZuuiDveS9k+iDveWKm+a4heWNlS5tZO+8ie+8mgogIOesrDEx56ug44CM5Y+v5aSN546w5oCn55qE5pyA5bCP5YWF5YiG6ZuG44CN4oCU4oCUIOWFqOWxgCBydW5faWQgKyBKU09OTCDkuovku7bml6Xlv5cgKyByZXBsYXkgYnVuZGxlCiAg56ysOeeroCAgY2hlY2twb2ludCDlrZjlgqjpgInlnosg4oCU4oCUIEpTT04g54q25oCBICsg5Y6f5a2Q5YaZ77yI5YaZ5Li05pe25paH5Lu25YaNIHJlbmFtZe+8iQoK6K6+6K6h5Y6f5YiZ77yI5rSb56We5Yik5o2u77yJ77yaCiAgLSBhcHBlbmQtb25see+8muS6i+S7tuWPqui/veWKoO+8jOS4jeaUueWGmeOAguWOhuWPsuS4jeWPr+WPmOOAggogIC0g5bSp5rqD5Lmf566X5pWw77ya6L+b56iL6KKr5p2A5pe277yM5bey5YaZ5YWl55qE5LqL5Lu25LuN5Zyo55uY5LiK77yM5LiN5Lya5Lii44CCCiAgLSBjaGVja3BvaW50IOWOn+WtkOWGme+8muWFiOWGmSAudG1wIOWGjSBvcy5yZXBsYWNl77yM5p2c57ud5Y2K5oiq5paH5Lu244CCCiAgLSDkuI3nvJbpgKDvvJrmsqHorrDlvZXnmoTkuovku7blsLHmmK/msqHmnInvvIznu53kuI3ooaXlhpnjgIIKIiIiCmltcG9ydCBvcywganNvbiwgdGltZSwgdXVpZCwgdGhyZWFkaW5nLCB0ZW1wZmlsZQoKVFJBQ0VfRElSID0gb3MuZW52aXJvbi5nZXQoIkxVT1NIRU5fVFJBQ0VfRElSIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSksICIuc2Vuc2UiLCAidHJhY2VzIikpCkNLUFRfRElSID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShUUkFDRV9ESVIpLCAiY2hlY2twb2ludHMiKQpvcy5tYWtlZGlycyhUUkFDRV9ESVIsIGV4aXN0X29rPVRydWUpCm9zLm1ha2VkaXJzKENLUFRfRElSLCBleGlzdF9vaz1UcnVlKQoKX2xvY2sgPSB0aHJlYWRpbmcuTG9jaygpCgpjbGFzcyBSdW46CiAgICAiIiLkuIDmrKHov5DooYwgPSDkuIDkuKogcnVuX2lkID0g5LiA5LiqIEpTT05MIOaWh+S7tiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuYW1lLCBtZXRhPU5vbmUsIHJ1bl9pZD1Ob25lKToKICAgICAgICAjIHJ1bl9pZCDnu5nkuoblsLHjgJDmjqXnu63lt7LmnInov5DooYzjgJHvvIzkuI3nu5nmiY3lvIDmlrDnmoTjgIIKICAgICAgICAjIOayoeaciei/meS4quWPguaVsO+8jHJlc3VtZSgpIOawuOi/nOivu+S4jeWbnuS7u+S9leS4nOilvyDigJTigJQg6KeBIC5zZW5zZS9zdGFyX21hcC5tZCDimIU4CiAgICAgICAgc2VsZi5ydW5faWQgICA9IHJ1bl9pZCBvciB1dWlkLnV1aWQ0KCkuaGV4WzoxNl0KICAgICAgICBzZWxmLm5hbWUgICAgID0gbmFtZQogICAgICAgIHNlbGYudDAgICAgICAgPSB0aW1lLnRpbWUoKQogICAgICAgIHNlbGYuc2VxICAgICAgPSAwCiAgICAgICAgc2VsZi5wYXRoICAgICA9IG9zLnBhdGguam9pbihUUkFDRV9ESVIsIGYie3NlbGYucnVuX2lkfS5qc29ubCIpCiAgICAgICAgc2VsZi5jbG9zZWQgICA9IEZhbHNlCiAgICAgICAgc2VsZi5fYXR0YWNoZWQgPSBydW5faWQgaXMgbm90IE5vbmUKICAgICAgICBpZiBub3Qgc2VsZi5fYXR0YWNoZWQ6CiAgICAgICAgICAgIHNlbGYuc2VxID0gc2VsZi5fZXhpc3Rpbmdfc2VxKCkKICAgICAgICAgICAgc2VsZi5fbG9nKCJydW4uc3RhcnQiLCB7Im5hbWUiOiBuYW1lLCAqKihtZXRhIG9yIHt9KX0pCgogICAgZGVmIF9leGlzdGluZ19zZXEoc2VsZik6CiAgICAgICAgIiIi5o6l57ut5bey5pyJIHJ1biDml7bvvIzmioogc2VxIOe7reWIsOW3suacieS6i+S7tuaVsO+8jOmBv+WFjee8luWPt+S7jiAxIOmHjeadpeOAgiIiIgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhzZWxmLnBhdGgpOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIG4gPSAwCiAgICAgICAgZm9yIGxuIGluIG9wZW4oc2VsZi5wYXRoLCBlbmNvZGluZz0idXRmLTgiKToKICAgICAgICAgICAgbG4gPSBsbi5zdHJpcCgpCiAgICAgICAgICAgIGlmIG5vdCBsbjogY29udGludWUKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgbiA9IG1heChuLCBqc29uLmxvYWRzKGxuKS5nZXQoInNlcSIsIDApKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgY29udGludWUgICAgICAjIOWwvumDqOWNiuaIquihjOS4jeeulwogICAgICAgIHJldHVybiBuCgogICAgZGVmIF9sb2coc2VsZiwgZXZlbnQsIGRhdGE9Tm9uZSk6CiAgICAgICAgd2l0aCBfbG9jazoKICAgICAgICAgICAgc2VsZi5zZXEgKz0gMQogICAgICAgICAgICByZWMgPSB7InJ1bl9pZCI6IHNlbGYucnVuX2lkLCAic2VxIjogc2VsZi5zZXEsCiAgICAgICAgICAgICAgICAgICAidHMiOiByb3VuZCh0aW1lLnRpbWUoKSAtIHNlbGYudDAsIDQpLAogICAgICAgICAgICAgICAgICAgIndhbGwiOiB0aW1lLnN0cmZ0aW1lKCIlWS0lbS0lZFQlSDolTTolUyIpLAogICAgICAgICAgICAgICAgICAgImV2ZW50IjogZXZlbnQsICJkYXRhIjogZGF0YSBvciB7fX0KICAgICAgICAgICAgIyBhcHBlbmQtb25see+8muWPqui/veWKoO+8jOS7juS4jeaUueWGmeW3suacieihjAogICAgICAgICAgICB3aXRoIG9wZW4oc2VsZi5wYXRoLCAiYSIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgICAgICBmLndyaXRlKGpzb24uZHVtcHMocmVjLCBlbnN1cmVfYXNjaWk9RmFsc2UpICsgIlxuIikKICAgICAgICAgICAgICAgIGYuZmx1c2goKTsgb3MuZnN5bmMoZi5maWxlbm8oKSkKICAgICAgICByZXR1cm4gcmVjCgogICAgIyAtLS0tIOivreS5ieWMluS6i+S7tiAtLS0tCiAgICBkZWYgc3RlcChzZWxmLCBraW5kLCAqKmt3KTogICByZXR1cm4gc2VsZi5fbG9nKGYic3RlcC57a2luZH0iLCBrdykKICAgIGRlZiB0b29sKHNlbGYsIG5hbWUsICoqa3cpOiAgIHJldHVybiBzZWxmLl9sb2coInRvb2wuY2FsbCIsIHsidG9vbCI6IG5hbWUsICoqa3d9KQogICAgZGVmIHJlc3VsdChzZWxmLCBvaywgKiprdyk6ICAgcmV0dXJuIHNlbGYuX2xvZygicmVzdWx0IiwgeyJvayI6IGJvb2wob2spLCAqKmt3fSkKICAgIGRlZiBlcnIoc2VsZiwgbXNnLCAqKmt3KTogICAgIHJldHVybiBzZWxmLl9sb2coImVycm9yIiwgeyJtc2ciOiBzdHIobXNnKVs6MzAwXSwgKiprd30pCgogICAgZGVmIGNsb3NlKHNlbGYpOgogICAgICAgIGlmIHNlbGYuY2xvc2VkOiByZXR1cm4gc2VsZi5zdW1tYXJ5KCkKICAgICAgICBzZWxmLmNsb3NlZCA9IFRydWUKICAgICAgICBzZWxmLl9sb2coInJ1bi5lbmQiLCB7ImVsYXBzZWQiOiByb3VuZCh0aW1lLnRpbWUoKSAtIHNlbGYudDAsIDQpfSkKICAgICAgICByZXR1cm4gc2VsZi5zdW1tYXJ5KCkKCiAgICBkZWYgc3VtbWFyeShzZWxmKToKICAgICAgICByZXR1cm4geyJydW5faWQiOiBzZWxmLnJ1bl9pZCwgIm5hbWUiOiBzZWxmLm5hbWUsCiAgICAgICAgICAgICAgICAiZXZlbnRzIjogc2VsZi5zZXEsICJ0cmFjZSI6IHNlbGYucGF0aH0KCiAgICAjIC0tLS0gY2hlY2twb2ludO+8muiDveS4reaWreOAgeiDvee7rei3kSAtLS0tCiAgICBkZWYgY2hlY2twb2ludChzZWxmLCBzdGF0ZSk6CiAgICAgICAgIiIi5Y6f5a2Q5YaZ54q25oCB44CC6L+U5Zue6Lev5b6E44CCIiIiCiAgICAgICAgcCA9IG9zLnBhdGguam9pbihDS1BUX0RJUiwgZiJ7c2VsZi5ydW5faWR9Lmpzb24iKQogICAgICAgIHRtcCA9IHAgKyAiLnRtcCIKICAgICAgICB3aXRoIG9wZW4odG1wLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgIGpzb24uZHVtcCh7InJ1bl9pZCI6IHNlbGYucnVuX2lkLCAic2VxIjogc2VsZi5zZXEsCiAgICAgICAgICAgICAgICAgICAgICAgInRzIjogdGltZS5zdHJmdGltZSgiJVktJW0tJWRUJUg6JU06JVMiKSwKICAgICAgICAgICAgICAgICAgICAgICAic3RhdGUiOiBzdGF0ZX0sIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICAgICAgICAgIGYuZmx1c2goKTsgb3MuZnN5bmMoZi5maWxlbm8oKSkKICAgICAgICBvcy5yZXBsYWNlKHRtcCwgcCkgICAgICAgICAgIyDljp/lrZDmm7/mjaLvvIzmnZznu53ljYrmiKrmlofku7YKICAgICAgICBzZWxmLl9sb2coImNoZWNrcG9pbnQiLCB7ImJ5dGVzIjogb3MucGF0aC5nZXRzaXplKHApfSkKICAgICAgICByZXR1cm4gcAoKICAgIGRlZiByZXN1bWUoc2VsZik6CiAgICAgICAgIiIi6K+75Zue5pyA6L+R5LiA5qyhIGNoZWNrcG9pbnTjgILmsqHmnInlsLHov5Tlm54gTm9uZe+8iOS4jee8lumAoOepuueKtuaAge+8ieOAgiIiIgogICAgICAgIHAgPSBvcy5wYXRoLmpvaW4oQ0tQVF9ESVIsIGYie3NlbGYucnVuX2lkfS5qc29uIikKICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocCk6IHJldHVybiBOb25lCiAgICAgICAgZCA9IGpzb24ubG9hZChvcGVuKHAsIGVuY29kaW5nPSJ1dGYtOCIpKQogICAgICAgIHNlbGYuX2xvZygicmVzdW1lIiwgeyJmcm9tX3NlcSI6IGQuZ2V0KCJzZXEiKX0pCiAgICAgICAgcmV0dXJuIGQuZ2V0KCJzdGF0ZSIpCgogICAgIyAtLS0tIHJlcGxheSBidW5kbGXvvJrmiorkuIDmrKHov5DooYzmiZPljIXmiJDlj6/lpI3njrDnmoTor4Hmja4gLS0tLQogICAgZGVmIGJ1bmRsZShzZWxmKToKICAgICAgICAiIiLmiZPljIUgdHJhY2UgKyBjaGVja3BvaW50IOaIkOS4gOS4quiHquivgeWMheOAgiIiIgogICAgICAgIGltcG9ydCB6aXBmaWxlCiAgICAgICAgYnAgPSBvcy5wYXRoLmpvaW4oVFJBQ0VfRElSLCBmIntzZWxmLnJ1bl9pZH0uYnVuZGxlLnppcCIpCiAgICAgICAgd2l0aCB6aXBmaWxlLlppcEZpbGUoYnAsICJ3IiwgemlwZmlsZS5aSVBfREVGTEFURUQpIGFzIHo6CiAgICAgICAgICAgIHoud3JpdGUoc2VsZi5wYXRoLCBvcy5wYXRoLmJhc2VuYW1lKHNlbGYucGF0aCkpCiAgICAgICAgICAgIGNrID0gb3MucGF0aC5qb2luKENLUFRfRElSLCBmIntzZWxmLnJ1bl9pZH0uanNvbiIpCiAgICAgICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKGNrKTogei53cml0ZShjaywgb3MucGF0aC5iYXNlbmFtZShjaykpCiAgICAgICAgICAgIHoud3JpdGVzdHIoIm1ldGEuanNvbiIsIGpzb24uZHVtcHMoc2VsZi5zdW1tYXJ5KCksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpKQogICAgICAgIHJldHVybiBicAoKZGVmIGF0dGFjaChydW5faWQsIG5hbWU9Tm9uZSk6CiAgICAiIiLmjqXnu63kuIDmrKHlt7LmnInov5DooYwg4oCU4oCUIOmVv+S7u+WKoeiiq+aJk+aWreWQjuWUr+S4gOeahOaBouWkjeWFpeWPo+OAggoKICAgIOayoeaciSBydW5faWQg5a+55bqU55qEIHRyYWNlIOWwsei/lOWbniBOb25l77yI5LiN57yW6YCg77yJ44CCCiAgICAiIiIKICAgIHAgPSBvcy5wYXRoLmpvaW4oVFJBQ0VfRElSLCBmIntydW5faWR9Lmpzb25sIikKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwKToKICAgICAgICByZXR1cm4gTm9uZQogICAgcmV0dXJuIFJ1bihuYW1lIG9yIHJ1bl9pZCwgcnVuX2lkPXJ1bl9pZCkKCgpkZWYgcmVwbGF5KHJ1bl9pZCk6CiAgICAiIiLph43mlL7kuIDmrKHov5DooYzvvJrog73ph43mlL4gPSDnnJ/nmoTorrDov4fvvJvorrDov4fmiY3og73ooqvni6znq4vmoLjpqozjgIIiIiIKICAgIHAgPSBvcy5wYXRoLmpvaW4oVFJBQ0VfRElSLCBmIntydW5faWR9Lmpzb25sIikKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwKTogcmV0dXJuIE5vbmUKICAgIHJldHVybiBbanNvbi5sb2FkcyhsKSBmb3IgbCBpbiBvcGVuKHAsIGVuY29kaW5nPSJ1dGYtOCIpIGlmIGwuc3RyaXAoKV0KCmRlZiBsYXRlc3Qobj01KToKICAgIGZzID0gc29ydGVkKGdsb2JfIDo9IFtvcy5wYXRoLmpvaW4oVFJBQ0VfRElSLCBmKSBmb3IgZiBpbiBvcy5saXN0ZGlyKFRSQUNFX0RJUikKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBmLmVuZHN3aXRoKCIuanNvbmwiKV0sIGtleT1vcy5wYXRoLmdldG10aW1lLCByZXZlcnNlPVRydWUpCiAgICByZXR1cm4gW2YgZm9yIGYgaW4gZnNbOm5dXQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHIgPSBSdW4oImRlbW8iKQogICAgci5zdGVwKCJwbGFuIiwgZ29hbD0i5ryU56S66L+Q6KGM5pe26L+96LiqIikKICAgIHIuY2hlY2twb2ludCh7Iui/m+W6piI6IDEsICLlt7LlgZoiOiBbIuW7uiBydW5faWQiXX0pCiAgICByLnRvb2woImdyZXAiLCBwYXR0ZXJuPSJtY3AiKQogICAgci5yZXN1bHQoVHJ1ZSwg5ZG95LitPTApCiAgICBwcmludChqc29uLmR1bXBzKHIuY2xvc2UoKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkpCiAgICBwcmludCgicmVzdW1lIOKGkiIsIHIucmVzdW1lKCkpCiAgICBwcmludCgiYnVuZGxlIOKGkiIsIHIuYnVuZGxlKCkpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+runtrace —— 洛神智能体运行时底座
+=================================
+对标补位：11 可观测/审计（run_id 追踪）+ 9 长时运行（checkpoint/resume）
+
+对标依据（全球顶级智能体能力清单.md）：
+  第11章「可复现性的最小充分集」—— 全局 run_id + JSONL 事件日志 + replay bundle
+  第9章  checkpoint 存储选型 —— JSON 状态 + 原子写（写临时文件再 rename）
+
+设计原则（洛神判据）：
+  - append-only：事件只追加，不改写。历史不可变。
+  - 崩溃也算数：进程被杀时，已写入的事件仍在盘上，不会丢。
+  - checkpoint 原子写：先写 .tmp 再 os.replace，杜绝半截文件。
+  - 不编造：没记录的事件就是没有，绝不补写。
+"""
+import os, json, time, uuid, threading, tempfile
+
+TRACE_DIR = os.environ.get("LUOSHEN_TRACE_DIR",
+                           os.path.join(os.path.dirname(os.path.dirname(
+                               os.path.abspath(__file__))), ".sense", "traces"))
+CKPT_DIR = os.path.join(os.path.dirname(TRACE_DIR), "checkpoints")
+os.makedirs(TRACE_DIR, exist_ok=True)
+os.makedirs(CKPT_DIR, exist_ok=True)
+
+_lock = threading.Lock()
+
+class Run:
+    """一次运行 = 一个 run_id = 一个 JSONL 文件"""
+
+    def __init__(self, name, meta=None, run_id=None):
+        # run_id 给了就【接续已有运行】，不给才开新的。
+        # 没有这个参数，resume() 永远读不回任何东西 —— 见 .sense/star_map.md ★8
+        self.run_id   = run_id or uuid.uuid4().hex[:16]
+        self.name     = name
+        self.t0       = time.time()
+        self.seq      = 0
+        self.path     = os.path.join(TRACE_DIR, f"{self.run_id}.jsonl")
+        self.closed   = False
+        self._attached = run_id is not None
+        if not self._attached:
+            self.seq = self._existing_seq()
+            self._log("run.start", {"name": name, **(meta or {})})
+
+    def _existing_seq(self):
+        """接续已有 run 时，把 seq 续到已有事件数，避免编号从 1 重来。"""
+        if not os.path.exists(self.path):
+            return 0
+        n = 0
+        for ln in open(self.path, encoding="utf-8"):
+            ln = ln.strip()
+            if not ln: continue
+            try:
+                n = max(n, json.loads(ln).get("seq", 0))
+            except Exception:
+                continue      # 尾部半截行不算
+        return n
+
+    def _log(self, event, data=None):
+        with _lock:
+            self.seq += 1
+            rec = {"run_id": self.run_id, "seq": self.seq,
+                   "ts": round(time.time() - self.t0, 4),
+                   "wall": time.strftime("%Y-%m-%dT%H:%M:%S"),
+                   "event": event, "data": data or {}}
+            # append-only：只追加，从不改写已有行
+            with open(self.path, "a", encoding="utf-8") as f:
+                f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+                f.flush(); os.fsync(f.fileno())
+        return rec
+
+    # ---- 语义化事件 ----
+    def step(self, kind, **kw):   return self._log(f"step.{kind}", kw)
+    def tool(self, name, **kw):   return self._log("tool.call", {"tool": name, **kw})
+    def result(self, ok, **kw):   return self._log("result", {"ok": bool(ok), **kw})
+    def err(self, msg, **kw):     return self._log("error", {"msg": str(msg)[:300], **kw})
+
+    def close(self):
+        if self.closed: return self.summary()
+        self.closed = True
+        self._log("run.end", {"elapsed": round(time.time() - self.t0, 4)})
+        return self.summary()
+
+    def summary(self):
+        return {"run_id": self.run_id, "name": self.name,
+                "events": self.seq, "trace": self.path}
+
+    # ---- checkpoint：能中断、能续跑 ----
+    def checkpoint(self, state):
+        """原子写状态。返回路径。"""
+        p = os.path.join(CKPT_DIR, f"{self.run_id}.json")
+        tmp = p + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump({"run_id": self.run_id, "seq": self.seq,
+                       "ts": time.strftime("%Y-%m-%dT%H:%M:%S"),
+                       "state": state}, f, ensure_ascii=False, indent=1)
+            f.flush(); os.fsync(f.fileno())
+        os.replace(tmp, p)          # 原子替换，杜绝半截文件
+        self._log("checkpoint", {"bytes": os.path.getsize(p)})
+        return p
+
+    def resume(self):
+        """读回最近一次 checkpoint。没有就返回 None（不编造空状态）。"""
+        p = os.path.join(CKPT_DIR, f"{self.run_id}.json")
+        if not os.path.exists(p): return None
+        d = json.load(open(p, encoding="utf-8"))
+        self._log("resume", {"from_seq": d.get("seq")})
+        return d.get("state")
+
+    # ---- replay bundle：把一次运行打包成可复现的证据 ----
+    def bundle(self):
+        """打包 trace + checkpoint 成一个自证包。"""
+        import zipfile
+        bp = os.path.join(TRACE_DIR, f"{self.run_id}.bundle.zip")
+        with zipfile.ZipFile(bp, "w", zipfile.ZIP_DEFLATED) as z:
+            z.write(self.path, os.path.basename(self.path))
+            ck = os.path.join(CKPT_DIR, f"{self.run_id}.json")
+            if os.path.exists(ck): z.write(ck, os.path.basename(ck))
+            z.writestr("meta.json", json.dumps(self.summary(), ensure_ascii=False, indent=1))
+        return bp
+
+def attach(run_id, name=None):
+    """接续一次已有运行 —— 长任务被打断后唯一的恢复入口。
+
+    没有 run_id 对应的 trace 就返回 None（不编造）。
+    """
+    p = os.path.join(TRACE_DIR, f"{run_id}.jsonl")
+    if not os.path.exists(p):
+        return None
+    return Run(name or run_id, run_id=run_id)
+
+
+def replay(run_id):
+    """重放一次运行：能重放 = 真的记过；记过才能被独立核验。"""
+    p = os.path.join(TRACE_DIR, f"{run_id}.jsonl")
+    if not os.path.exists(p): return None
+    return [json.loads(l) for l in open(p, encoding="utf-8") if l.strip()]
+
+def latest(n=5):
+    fs = sorted(glob_ := [os.path.join(TRACE_DIR, f) for f in os.listdir(TRACE_DIR)
+                          if f.endswith(".jsonl")], key=os.path.getmtime, reverse=True)
+    return [f for f in fs[:n]]
+
+if __name__ == "__main__":
+    r = Run("demo")
+    r.step("plan", goal="演示运行时追踪")
+    r.checkpoint({"进度": 1, "已做": ["建 run_id"]})
+    r.tool("grep", pattern="mcp")
+    r.result(True, 命中=0)
+    print(json.dumps(r.close(), ensure_ascii=False, indent=1))
+    print("resume →", r.resume())
+    print("bundle →", r.bundle())

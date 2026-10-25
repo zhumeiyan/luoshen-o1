@@ -1,1 +1,452 @@
-WwogewogICJmaWxlIjogIjAwX0V4cGxvZGluZ0dyYWRpZW50c19yYWdhc19zcmNfcmFnYXNfZXZhbHVhdGlvbi5weS5weSIsCiAgInJlcG8iOiAiRXhwbG9kaW5nR3JhZGllbnRzL3JhZ2FzIiwKICAicGF0aCI6ICJzcmMvcmFnYXMvZXZhbHVhdGlvbi5weSIsCiAgImVnIjogIkVHMDAyIiwKICAic2V2IjogImJsb2NrZXIiLAogICJsaW5lIjogbnVsbCwKICAia2luZCI6ICJhYnNlbnQiLAogICJoaXQiOiAiZmlsZS1sZXZlbCBjbGFpbSAobm8gbGluZSBjYW4gZXhoaWJpdCB0aGlzKTogVHlwZUVycm9yKFxuICAgICAgICAgICAgXCJNZXRyaWNzIHNob3VsZCBiZSBwcm92aWRlZCBpbiBhIGxpc3QsIGUuZyIKIH0sCiB7CiAgImZpbGUiOiAiMDBfRXhwbG9kaW5nR3JhZGllbnRzX3JhZ2FzX3NyY19yYWdhc19ldmFsdWF0aW9uLnB5LnB5IiwKICAicmVwbyI6ICJFeHBsb2RpbmdHcmFkaWVudHMvcmFnYXMiLAogICJwYXRoIjogInNyYy9yYWdhcy9ldmFsdWF0aW9uLnB5IiwKICAiZWciOiAiRUdQMDUiLAogICJzZXYiOiAiYmxvY2tlciIsCiAgImxpbmUiOiBudWxsLAogICJraW5kIjogIm1vZHVsZSIsCiAgImhpdCI6ICJmaWxlLWxldmVsIGNsYWltIChubyBsaW5lIGNhbiBleGhpYml0IHRoaXMpOiBldmFsdWF0aW9uIHdpdGggbm8gdHJhaW4vZXZhbCBzcGxpdCIKIH0sCiB7CiAgImZpbGUiOiAiMDBfRXhwbG9kaW5nR3JhZGllbnRzX3JhZ2FzX3NyY19yYWdhc19ldmFsdWF0aW9uLnB5LnB5IiwKICAicmVwbyI6ICJFeHBsb2RpbmdHcmFkaWVudHMvcmFnYXMiLAogICJwYXRoIjogInNyYy9yYWdhcy9ldmFsdWF0aW9uLnB5IiwKICAiZWciOiAiRUdQMDYiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiBudWxsLAogICJraW5kIjogImFic2VudCIsCiAgImhpdCI6ICJmaWxlLWxldmVsIGNsYWltIChubyBsaW5lIGNhbiBleGhpYml0IHRoaXMpOiBtZXRyaWMgcmVwb3J0ZWQgd2l0aCBubyBzcHJlYWQgb3IgcmVwZWF0IgogfSwKIHsKICAiZmlsZSI6ICIwMV9FeHBsb2RpbmdHcmFkaWVudHNfcmFnYXNfc3JjX3JhZ2FzX21ldHJpY3NfYmFzZS5weS5weSIsCiAgInJlcG8iOiAiRXhwbG9kaW5nR3JhZGllbnRzL3JhZ2FzIiwKICAicGF0aCI6ICJzcmMvcmFnYXMvbWV0cmljcy9iYXNlLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAxNDM2LAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAic3VtKFxuICAgICAgICAgICAgeCA9PSB5IGZvciB4LCB5IGluIHppcChnb2xkX3Njb3JlcywgcHJlZF9zYyIKIH0sCiB7CiAgImZpbGUiOiAiMDFfRXhwbG9kaW5nR3JhZGllbnRzX3JhZ2FzX3NyY19yYWdhc19tZXRyaWNzX2Jhc2UucHkucHkiLAogICJyZXBvIjogIkV4cGxvZGluZ0dyYWRpZW50cy9yYWdhcyIsCiAgInBhdGgiOiAic3JjL3JhZ2FzL21ldHJpY3MvYmFzZS5weSIsCiAgImVnIjogIkVHMDA4IiwKICAic2V2IjogImJsb2NrZXIiLAogICJsaW5lIjogbnVsbCwKICAia2luZCI6ICJtb2R1bGUiLAogICJoaXQiOiAiZmlsZS1sZXZlbCBjbGFpbSAobm8gbGluZSBjYW4gZXhoaWJpdCB0aGlzKTogZml0K2V2YWx1YXRlIG9uIHNhbWUgZGF0YSwgbm8gaGVsZC1vdXQiCiB9LAogewogICJmaWxlIjogIjAxX0V4cGxvZGluZ0dyYWRpZW50c19yYWdhc19zcmNfcmFnYXNfbWV0cmljc19iYXNlLnB5LnB5IiwKICAicmVwbyI6ICJFeHBsb2RpbmdHcmFkaWVudHMvcmFnYXMiLAogICJwYXRoIjogInNyYy9yYWdhcy9tZXRyaWNzL2Jhc2UucHkiLAogICJlZyI6ICJFRzAwOSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDY4NSwKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogImBlbnNlbWJsZXJgIGFzc2lnbmVkLCBuZXZlciByZWFkIgogfSwKIHsKICAiZmlsZSI6ICIwMV9FeHBsb2RpbmdHcmFkaWVudHNfcmFnYXNfc3JjX3JhZ2FzX21ldHJpY3NfYmFzZS5weS5weSIsCiAgInJlcG8iOiAiRXhwbG9kaW5nR3JhZGllbnRzL3JhZ2FzIiwKICAicGF0aCI6ICJzcmMvcmFnYXMvbWV0cmljcy9iYXNlLnB5IiwKICAiZWciOiAiRUcwMDkiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAzNiwKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogImBFbWJlZGRpbmdNb2RlbFR5cGVgIGFzc2lnbmVkLCBuZXZlciByZWFkIgogfSwKIHsKICAiZmlsZSI6ICIwMV9FeHBsb2RpbmdHcmFkaWVudHNfcmFnYXNfc3JjX3JhZ2FzX21ldHJpY3NfYmFzZS5weS5weSIsCiAgInJlcG8iOiAiRXhwbG9kaW5nR3JhZGllbnRzL3JhZ2FzIiwKICAicGF0aCI6ICJzcmMvcmFnYXMvbWV0cmljcy9iYXNlLnB5IiwKICAiZWciOiAiRUcwMTEiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAyODYsCiAgImtpbmQiOiAicHJlc2VudCIsCiAgImhpdCI6ICJsb29wIHNraXBzIGl0ZW1zIGFuZCBhZ2dyZWdhdGVzLCBubyBwYWlyZWQgZGlmZiIKIH0sCiB7CiAgImZpbGUiOiAiMDFfRXhwbG9kaW5nR3JhZGllbnRzX3JhZ2FzX3NyY19yYWdhc19tZXRyaWNzX2Jhc2UucHkucHkiLAogICJyZXBvIjogIkV4cGxvZGluZ0dyYWRpZW50cy9yYWdhcyIsCiAgInBhdGgiOiAic3JjL3JhZ2FzL21ldHJpY3MvYmFzZS5weSIsCiAgImVnIjogIkVHMDExIiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMTMyLAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAibG9vcCBza2lwcyBpdGVtcyBhbmQgYWdncmVnYXRlcywgbm8gcGFpcmVkIGRpZmYiCiB9LAogewogICJmaWxlIjogIjAxX0V4cGxvZGluZ0dyYWRpZW50c19yYWdhc19zcmNfcmFnYXNfbWV0cmljc19iYXNlLnB5LnB5IiwKICAicmVwbyI6ICJFeHBsb2RpbmdHcmFkaWVudHMvcmFnYXMiLAogICJwYXRoIjogInNyYy9yYWdhcy9tZXRyaWNzL2Jhc2UucHkiLAogICJlZyI6ICJFRzAxMSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDEzMiwKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogImxvb3Agc2tpcHMgaXRlbXMgYW5kIGFnZ3JlZ2F0ZXMsIG5vIHBhaXJlZCBkaWZmIgogfSwKIHsKICAiZmlsZSI6ICIwMV9FeHBsb2RpbmdHcmFkaWVudHNfcmFnYXNfc3JjX3JhZ2FzX21ldHJpY3NfYmFzZS5weS5weSIsCiAgInJlcG8iOiAiRXhwbG9kaW5nR3JhZGllbnRzL3JhZ2FzIiwKICAicGF0aCI6ICJzcmMvcmFnYXMvbWV0cmljcy9iYXNlLnB5IiwKICAiZWciOiAiRUdQMDkiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiBudWxsLAogICJraW5kIjogImFic2VudCIsCiAgImhpdCI6ICJmaWxlLWxldmVsIGNsYWltIChubyBsaW5lIGNhbiBleGhpYml0IHRoaXMpOiBtZWFuIG92ZXIgc2FtcGxlcyBpbiBgdmFsaWRhdGVfYWxpZ25tZW50YCB3aXRoIG5vIHRhaWwgc3RhdGlzdGljIgogfSwKIHsKICAiZmlsZSI6ICIwMl9jb25maWRlbnQtYWlfZGVlcGV2YWxfZGVlcGV2YWxfZXZhbHVhdGVfZXZhbHVhdGUucHkucHkiLAogICJyZXBvIjogImNvbmZpZGVudC1haS9kZWVwZXZhbCIsCiAgInBhdGgiOiAiZGVlcGV2YWwvZXZhbHVhdGUvZXZhbHVhdGUucHkiLAogICJlZyI6ICJFR1AwNiIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IG51bGwsCiAgImtpbmQiOiAiYWJzZW50IiwKICAiaGl0IjogImZpbGUtbGV2ZWwgY2xhaW0gKG5vIGxpbmUgY2FuIGV4aGliaXQgdGhpcyk6IG1ldHJpYyByZXBvcnRlZCB3aXRoIG5vIHNwcmVhZCBvciByZXBlYXQiCiB9LAogewogICJmaWxlIjogIjAzX2NvbmZpZGVudC1haV9kZWVwZXZhbF9kZWVwZXZhbF9tZXRyaWNzX2Jhc2VfbWV0cmljLnB5LnB5IiwKICAicmVwbyI6ICJjb25maWRlbnQtYWkvZGVlcGV2YWwiLAogICJwYXRoIjogImRlZXBldmFsL21ldHJpY3MvYmFzZV9tZXRyaWMucHkiLAogICJlZyI6ICJFRzAwOSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDU2LAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAiYFllc05vYCBhc3NpZ25lZCwgbmV2ZXIgcmVhZCIKIH0sCiB7CiAgImZpbGUiOiAiMDNfY29uZmlkZW50LWFpX2RlZXBldmFsX2RlZXBldmFsX21ldHJpY3NfYmFzZV9tZXRyaWMucHkucHkiLAogICJyZXBvIjogImNvbmZpZGVudC1haS9kZWVwZXZhbCIsCiAgInBhdGgiOiAiZGVlcGV2YWwvbWV0cmljcy9iYXNlX21ldHJpYy5weSIsCiAgImVnIjogIkVHMDA5IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogNTcsCiAgImtpbmQiOiAicHJlc2VudCIsCiAgImhpdCI6ICJgWWVzTm9Cb3JkZXJsaW5lYCBhc3NpZ25lZCwgbmV2ZXIgcmVhZCIKIH0sCiB7CiAgImZpbGUiOiAiMDNfY29uZmlkZW50LWFpX2RlZXBldmFsX2RlZXBldmFsX21ldHJpY3NfYmFzZV9tZXRyaWMucHkucHkiLAogICJyZXBvIjogImNvbmZpZGVudC1haS9kZWVwZXZhbCIsCiAgInBhdGgiOiAiZGVlcGV2YWwvbWV0cmljcy9iYXNlX21ldHJpYy5weSIsCiAgImVnIjogIkVHMDEwIiwKICAic2V2IjogImluZm8iLAogICJsaW5lIjogbnVsbCwKICAia2luZCI6ICJtb2R1bGUiLAogICJoaXQiOiAiZmlsZS1sZXZlbCBjbGFpbSAobm8gbGluZSBjYW4gZXhoaWJpdCB0aGlzKTogb25seSBvbmUgbWV0cmljIGZhbWlseSBwcmVzZW50IgogfSwKIHsKICAiZmlsZSI6ICIwNV9tbGZsb3dfbWxmbG93X21sZmxvd19tb2RlbHNfZXZhbHVhdGlvbl9iYXNlLnB5LnB5IiwKICAicmVwbyI6ICJtbGZsb3cvbWxmbG93IiwKICAicGF0aCI6ICJtbGZsb3cvbW9kZWxzL2V2YWx1YXRpb24vYmFzZS5weSIsCiAgImVnIjogIkVHMDA2IiwKICAic2V2IjogImJsb2NrZXIiLAogICJsaW5lIjogNDQsCiAgImtpbmQiOiAicHJlc2VudCIsCiAgImhpdCI6ICJiYXJlL3NpbGVudCBleGNlcHQiCiB9LAogewogICJmaWxlIjogIjA3X2NvbWV0LW1sX29waWtfc2Rrc19weXRob25fc3JjX29waWtfZXZhbHVhdGlvbl9ldmFsdWF0b3IucHkucHkiLAogICJyZXBvIjogImNvbWV0LW1sL29waWsiLAogICJwYXRoIjogInNka3MvcHl0aG9uL3NyYy9vcGlrL2V2YWx1YXRpb24vZXZhbHVhdG9yLnB5IiwKICAiZWciOiAiRUcwMTAiLAogICJzZXYiOiAiaW5mbyIsCiAgImxpbmUiOiBudWxsLAogICJraW5kIjogIm1vZHVsZSIsCiAgImhpdCI6ICJmaWxlLWxldmVsIGNsYWltIChubyBsaW5lIGNhbiBleGhpYml0IHRoaXMpOiBvbmx5IG9uZSBtZXRyaWMgZmFtaWx5IHByZXNlbnQiCiB9LAogewogICJmaWxlIjogIjA3X2NvbWV0LW1sX29waWtfc2Rrc19weXRob25fc3JjX29waWtfZXZhbHVhdGlvbl9ldmFsdWF0b3IucHkucHkiLAogICJyZXBvIjogImNvbWV0LW1sL29waWsiLAogICJwYXRoIjogInNka3MvcHl0aG9uL3NyYy9vcGlrL2V2YWx1YXRpb24vZXZhbHVhdG9yLnB5IiwKICAiZWciOiAiRUdQMDUiLAogICJzZXYiOiAiYmxvY2tlciIsCiAgImxpbmUiOiBudWxsLAogICJraW5kIjogIm1vZHVsZSIsCiAgImhpdCI6ICJmaWxlLWxldmVsIGNsYWltIChubyBsaW5lIGNhbiBleGhpYml0IHRoaXMpOiBldmFsdWF0aW9uIHdpdGggbm8gdHJhaW4vZXZhbCBzcGxpdCIKIH0sCiB7CiAgImZpbGUiOiAiMDdfY29tZXQtbWxfb3Bpa19zZGtzX3B5dGhvbl9zcmNfb3Bpa19ldmFsdWF0aW9uX2V2YWx1YXRvci5weS5weSIsCiAgInJlcG8iOiAiY29tZXQtbWwvb3BpayIsCiAgInBhdGgiOiAic2Rrcy9weXRob24vc3JjL29waWsvZXZhbHVhdGlvbi9ldmFsdWF0b3IucHkiLAogICJlZyI6ICJFR1AwNiIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IG51bGwsCiAgImtpbmQiOiAiYWJzZW50IiwKICAiaGl0IjogImZpbGUtbGV2ZWwgY2xhaW0gKG5vIGxpbmUgY2FuIGV4aGliaXQgdGhpcyk6IG1ldHJpYyByZXBvcnRlZCB3aXRoIG5vIHNwcmVhZCBvciByZXBlYXQiCiB9LAogewogICJmaWxlIjogIjA4X0lCTV91bml0eHRfc3JjX3VuaXR4dF9tZXRyaWNzLnB5LnB5IiwKICAicmVwbyI6ICJJQk0vdW5pdHh0IiwKICAicGF0aCI6ICJzcmMvdW5pdHh0L21ldHJpY3MucHkiLAogICJlZyI6ICJFRzAwMiIsCiAgInNldiI6ICJibG9ja2VyIiwKICAibGluZSI6IG51bGwsCiAgImtpbmQiOiAiYWJzZW50IiwKICAiaGl0IjogImZpbGUtbGV2ZWwgY2xhaW0gKG5vIGxpbmUgY2FuIGV4aGliaXQgdGhpcyk6IHNlbGYuc2NvcmVyKHNhbXBsZSkg4oCUIG5vIGJhc2VsaW5lIHN5bWJvbCBmb3VuZCIKIH0sCiB7CiAgImZpbGUiOiAiMDhfSUJNX3VuaXR4dF9zcmNfdW5pdHh0X21ldHJpY3MucHkucHkiLAogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDA1IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMTg0NCwKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogIndpbl9yYXRlc1tcIndpbnNcIl0gLyB3aW5fcmF0ZXNbXCJ0b3RhbF9iYXR0bGVzXCJdIgogfSwKIHsKICAiZmlsZSI6ICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSIsCiAgInJlcG8iOiAiSUJNL3VuaXR4dCIsCiAgInBhdGgiOiAic3JjL3VuaXR4dC9tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAyNTk4LAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAibnAuc3VtKFxuICAgICAgICAgICAgW1xuICAgICAgICAgICAgICAgIGNhdF9yZXN1bHRzW1wiZjFcIl0gKiBjYSIKIH0sCiB7CiAgImZpbGUiOiAiMDhfSUJNX3VuaXR4dF9zcmNfdW5pdHh0X21ldHJpY3MucHkucHkiLAogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDA1IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMzM5OSwKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogImZsb2F0KGNvcnJlY3QpIC8gdG90YWwiCiB9LAogewogICJmaWxlIjogIjA4X0lCTV91bml0eHRfc3JjX3VuaXR4dF9tZXRyaWNzLnB5LnB5IiwKICAicmVwbyI6ICJJQk0vdW5pdHh0IiwKICAicGF0aCI6ICJzcmMvdW5pdHh0L21ldHJpY3MucHkiLAogICJlZyI6ICJFRzAwNSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDQyNzIsCiAgImtpbmQiOiAicHJlc2VudCIsCiAgImhpdCI6ICJ3ZWlnaHRlZF9hdmVyYWdlIC8gdG90YWwiCiB9LAogewogICJmaWxlIjogIjA4X0lCTV91bml0eHRfc3JjX3VuaXR4dF9tZXRyaWNzLnB5LnB5IiwKICAicmVwbyI6ICJJQk0vdW5pdHh0IiwKICAicGF0aCI6ICJzcmMvdW5pdHh0L21ldHJpY3MucHkiLAogICJlZyI6ICJFRzAwNSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDYwMjQsCiAgImtpbmQiOiAicHJlc2VudCIsCiAgImhpdCI6ICJnIC8gbWF4X2Fic29sdXRlX3ZhbHVlIgogfSwKIHsKICAiZmlsZSI6ICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSIsCiAgInJlcG8iOiAiSUJNL3VuaXR4dCIsCiAgInBhdGgiOiAic3JjL3VuaXR4dC9tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMDYiLAogICJzZXYiOiAiYmxvY2tlciIsCiAgImxpbmUiOiAxMjMsCiAgImtpbmQiOiAicHJlc2VudCIsCiAgImhpdCI6ICJiYXJlL3NpbGVudCBleGNlcHQiCiB9LAogewogICJmaWxlIjogIjA4X0lCTV91bml0eHRfc3JjX3VuaXR4dF9tZXRyaWNzLnB5LnB5IiwKICAicmVwbyI6ICJJQk0vdW5pdHh0IiwKICAicGF0aCI6ICJzcmMvdW5pdHh0L21ldHJpY3MucHkiLAogICJlZyI6ICJFRzAwNiIsCiAgInNldiI6ICJibG9ja2VyIiwKICAibGluZSI6IDEzOSwKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogImJhcmUvc2lsZW50IGV4Y2VwdCIKIH0sCiB7CiAgImZpbGUiOiAiMDhfSUJNX3VuaXR4dF9zcmNfdW5pdHh0X21ldHJpY3MucHkucHkiLAogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDA2IiwKICAic2V2IjogImJsb2NrZXIiLAogICJsaW5lIjogMzA5MSwKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogImJhcmUvc2lsZW50IGV4Y2VwdCIKIH0sCiB7CiAgImZpbGUiOiAiMDhfSUJNX3VuaXR4dF9zcmNfdW5pdHh0X21ldHJpY3MucHkucHkiLAogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDA2IiwKICAic2V2IjogImJsb2NrZXIiLAogICJsaW5lIjogMzQ0NSwKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogImJhcmUvc2lsZW50IGV4Y2VwdCIKIH0sCiB7CiAgImZpbGUiOiAiMDhfSUJNX3VuaXR4dF9zcmNfdW5pdHh0X21ldHJpY3MucHkucHkiLAogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDA2IiwKICAic2V2IjogImJsb2NrZXIiLAogICJsaW5lIjogODEzLAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAiYmFyZS9zaWxlbnQgZXhjZXB0IgogfSwKIHsKICAiZmlsZSI6ICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSIsCiAgInJlcG8iOiAiSUJNL3VuaXR4dCIsCiAgInBhdGgiOiAic3JjL3VuaXR4dC9tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMDYiLAogICJzZXYiOiAiYmxvY2tlciIsCiAgImxpbmUiOiAxNTY4LAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAiYmFyZS9zaWxlbnQgZXhjZXB0IgogfSwKIHsKICAiZmlsZSI6ICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSIsCiAgInJlcG8iOiAiSUJNL3VuaXR4dCIsCiAgInBhdGgiOiAic3JjL3VuaXR4dC9tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMDYiLAogICJzZXYiOiAiYmxvY2tlciIsCiAgImxpbmUiOiAzMzg2LAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAiYmFyZS9zaWxlbnQgZXhjZXB0IgogfSwKIHsKICAiZmlsZSI6ICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSIsCiAgInJlcG8iOiAiSUJNL3VuaXR4dCIsCiAgInBhdGgiOiAic3JjL3VuaXR4dC9tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMTEiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiA0MzM2LAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAibG9vcCBza2lwcyBpdGVtcyBhbmQgYWdncmVnYXRlcywgbm8gcGFpcmVkIGRpZmYiCiB9LAogewogICJmaWxlIjogIjA4X0lCTV91bml0eHRfc3JjX3VuaXR4dF9tZXRyaWNzLnB5LnB5IiwKICAicmVwbyI6ICJJQk0vdW5pdHh0IiwKICAicGF0aCI6ICJzcmMvdW5pdHh0L21ldHJpY3MucHkiLAogICJlZyI6ICJFRzAxMSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDU0NDgsCiAgImtpbmQiOiAicHJlc2VudCIsCiAgImhpdCI6ICJsb29wIHNraXBzIGl0ZW1zIGFuZCBhZ2dyZWdhdGVzLCBubyBwYWlyZWQgZGlmZiIKIH0sCiB7CiAgImZpbGUiOiAiMDhfSUJNX3VuaXR4dF9zcmNfdW5pdHh0X21ldHJpY3MucHkucHkiLAogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDEyIiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogbnVsbCwKICAia2luZCI6ICJhYnNlbnQiLAogICJoaXQiOiAiZmlsZS1sZXZlbCBjbGFpbSAobm8gbGluZSBjYW4gZXhoaWJpdCB0aGlzKTogYHRvb2xfbmFtZV9hY2N1cmFjeWAgZGVjbGFyZWQgd2l0aG91dCBwb3NpdGl2ZSBjb250cm9sIgogfSwKIHsKICAiZmlsZSI6ICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSIsCiAgInJlcG8iOiAiSUJNL3VuaXR4dCIsCiAgInBhdGgiOiAic3JjL3VuaXR4dC9tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMTUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiBudWxsLAogICJraW5kIjogIm1vZHVsZSIsCiAgImhpdCI6ICJmaWxlLWxldmVsIGNsYWltIChubyBsaW5lIGNhbiBleGhpYml0IHRoaXMpOiBhZ2dyZWdhdGUgc2NvcmUgcmVwb3J0ZWQgd2l0aG91dCBwZXItYXhpcyBicmVha2Rvd24iCiB9LAogewogICJmaWxlIjogIjA4X0lCTV91bml0eHRfc3JjX3VuaXR4dF9tZXRyaWNzLnB5LnB5IiwKICAicmVwbyI6ICJJQk0vdW5pdHh0IiwKICAicGF0aCI6ICJzcmMvdW5pdHh0L21ldHJpY3MucHkiLAogICJlZyI6ICJFRzAxNiIsCiAgInNldiI6ICJibG9ja2VyIiwKICAibGluZSI6IDM0MTEsCiAgImtpbmQiOiAibm9kZSIsCiAgImhpdCI6ICJyZXF1ZXN0cy5nZXQodXJsKSDigJQgbm8gdGltZXN0YW1wIgogfSwKIHsKICAiZmlsZSI6ICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSIsCiAgInJlcG8iOiAiSUJNL3VuaXR4dCIsCiAgInBhdGgiOiAic3JjL3VuaXR4dC9tZXRyaWNzLnB5IiwKICAiZWciOiAiRUdQMDEiLAogICJzZXYiOiAiYmxvY2tlciIsCiAgImxpbmUiOiA4MTMsCiAgImtpbmQiOiAicHJlc2VudCIsCiAgImhpdCI6ICJzaWxlbnQgaGFuZGxlciBpbnNpZGUgc2NvcmluZyBsb29wIgogfSwKIHsKICAiZmlsZSI6ICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSIsCiAgInJlcG8iOiAiSUJNL3VuaXR4dCIsCiAgInBhdGgiOiAic3JjL3VuaXR4dC9tZXRyaWNzLnB5IiwKICAiZWciOiAiRUdQMDEiLAogICJzZXYiOiAiYmxvY2tlciIsCiAgImxpbmUiOiAzMzg2LAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAic2lsZW50IGhhbmRsZXIgaW5zaWRlIHNjb3JpbmcgbG9vcCIKIH0sCiB7CiAgImZpbGUiOiAiMDhfSUJNX3VuaXR4dF9zcmNfdW5pdHh0X21ldHJpY3MucHkucHkiLAogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIsCiAgImVnIjogIkVHUDAzIiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogbnVsbCwKICAia2luZCI6ICJtb2R1bGUiLAogICJoaXQiOiAiZmlsZS1sZXZlbCBjbGFpbSAobm8gbGluZSBjYW4gZXhoaWJpdCB0aGlzKTogfjMgY29tcGFyaXNvbnMsIG5vIGNvcnJlY3Rpb24iCiB9LAogewogICJmaWxlIjogIjA4X0lCTV91bml0eHRfc3JjX3VuaXR4dF9tZXRyaWNzLnB5LnB5IiwKICAicmVwbyI6ICJJQk0vdW5pdHh0IiwKICAicGF0aCI6ICJzcmMvdW5pdHh0L21ldHJpY3MucHkiLAogICJlZyI6ICJFR1AwNCIsCiAgInNldiI6ICJibG9ja2VyIiwKICAibGluZSI6IG51bGwsCiAgImtpbmQiOiAiYWJzZW50IiwKICAiaGl0IjogImZpbGUtbGV2ZWwgY2xhaW0gKG5vIGxpbmUgY2FuIGV4aGliaXQgdGhpcyk6IHBhaXJ3aXNlIGp1ZGdlbWVudCB3aXRoIG5vIG9yZGVyIHN3YXAgKHNjb3BlOiBfdXBkYXRlX2JhdHRsZXNfZGF0IgogfSwKIHsKICAiZmlsZSI6ICIwOF9JQk1fdW5pdHh0X3NyY191bml0eHRfbWV0cmljcy5weS5weSIsCiAgInJlcG8iOiAiSUJNL3VuaXR4dCIsCiAgInBhdGgiOiAic3JjL3VuaXR4dC9tZXRyaWNzLnB5IiwKICAiZWciOiAiRUdQMDgiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiA1NzY1LAogICJraW5kIjogInByZXNlbnQiLAogICJoaXQiOiAiYXNzZXJ0KHMpIGluIGB2YWxpZGF0ZV9zdWJncm91cF90eXBlcygpYCBvdXRzaWRlIGFueSB0cnkgYmxvY2siCiB9LAogewogICJmaWxlIjogIjA4X0lCTV91bml0eHRfc3JjX3VuaXR4dF9tZXRyaWNzLnB5LnB5IiwKICAicmVwbyI6ICJJQk0vdW5pdHh0IiwKICAicGF0aCI6ICJzcmMvdW5pdHh0L21ldHJpY3MucHkiLAogICJlZyI6ICJFR1AwOCIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDEwMiwKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogImFzc2VydChzKSBpbiBgdmVyaWZ5KClgIG91dHNpZGUgYW55IHRyeSBibG9jayIKIH0sCiB7CiAgImZpbGUiOiAiMDhfSUJNX3VuaXR4dF9zcmNfdW5pdHh0X21ldHJpY3MucHkucHkiLAogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIsCiAgImVnIjogIkVHUDA4IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMTk3NywKICAia2luZCI6ICJwcmVzZW50IiwKICAiaGl0IjogImFzc2VydChzKSBpbiBgX3ZhbGlkYXRlX2dyb3VwX21lYW5fdGFza19kYXRhKClgIG91dHNpZGUgYW55IHRyeSBibG9jayIKIH0sCiB7CiAgImZpbGUiOiAiMDhfSUJNX3VuaXR4dF9zcmNfdW5pdHh0X21ldHJpY3MucHkucHkiLAogICJyZXBvIjogIklCTS91bml0eHQiLAogICJwYXRoIjogInNyYy91bml0eHQvbWV0cmljcy5weSIsCiAgImVnIjogIkVHUDA5IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogbnVsbCwKICAia2luZCI6ICJhYnNlbnQiLAogICJoaXQiOiAiZmlsZS1sZXZlbCBjbGFpbSAobm8gbGluZSBjYW4gZXhoaWJpdCB0aGlzKTogbWVhbiBvdmVyIHNhbXBsZXMgaW4gYHBlcmZvcm1hbmNlX2Ryb3BfcmF0ZWAgd2l0aCBubyB0YWlsIHN0YXRpc3QiCiB9Cl0=
+[
+ {
+  "file": "00_ExplodingGradients_ragas_src_ragas_evaluation.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/evaluation.py",
+  "eg": "EG002",
+  "sev": "blocker",
+  "line": null,
+  "kind": "absent",
+  "hit": "file-level claim (no line can exhibit this): TypeError(\n            \"Metrics should be provided in a list, e.g"
+ },
+ {
+  "file": "00_ExplodingGradients_ragas_src_ragas_evaluation.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/evaluation.py",
+  "eg": "EGP05",
+  "sev": "blocker",
+  "line": null,
+  "kind": "module",
+  "hit": "file-level claim (no line can exhibit this): evaluation with no train/eval split"
+ },
+ {
+  "file": "00_ExplodingGradients_ragas_src_ragas_evaluation.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/evaluation.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": null,
+  "kind": "absent",
+  "hit": "file-level claim (no line can exhibit this): metric reported with no spread or repeat"
+ },
+ {
+  "file": "01_ExplodingGradients_ragas_src_ragas_metrics_base.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/metrics/base.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 1436,
+  "kind": "present",
+  "hit": "sum(\n            x == y for x, y in zip(gold_scores, pred_sc"
+ },
+ {
+  "file": "01_ExplodingGradients_ragas_src_ragas_metrics_base.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/metrics/base.py",
+  "eg": "EG008",
+  "sev": "blocker",
+  "line": null,
+  "kind": "module",
+  "hit": "file-level claim (no line can exhibit this): fit+evaluate on same data, no held-out"
+ },
+ {
+  "file": "01_ExplodingGradients_ragas_src_ragas_metrics_base.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/metrics/base.py",
+  "eg": "EG009",
+  "sev": "warn",
+  "line": 685,
+  "kind": "present",
+  "hit": "`ensembler` assigned, never read"
+ },
+ {
+  "file": "01_ExplodingGradients_ragas_src_ragas_metrics_base.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/metrics/base.py",
+  "eg": "EG009",
+  "sev": "warn",
+  "line": 36,
+  "kind": "present",
+  "hit": "`EmbeddingModelType` assigned, never read"
+ },
+ {
+  "file": "01_ExplodingGradients_ragas_src_ragas_metrics_base.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/metrics/base.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 286,
+  "kind": "present",
+  "hit": "loop skips items and aggregates, no paired diff"
+ },
+ {
+  "file": "01_ExplodingGradients_ragas_src_ragas_metrics_base.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/metrics/base.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 132,
+  "kind": "present",
+  "hit": "loop skips items and aggregates, no paired diff"
+ },
+ {
+  "file": "01_ExplodingGradients_ragas_src_ragas_metrics_base.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/metrics/base.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 132,
+  "kind": "present",
+  "hit": "loop skips items and aggregates, no paired diff"
+ },
+ {
+  "file": "01_ExplodingGradients_ragas_src_ragas_metrics_base.py.py",
+  "repo": "ExplodingGradients/ragas",
+  "path": "src/ragas/metrics/base.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": null,
+  "kind": "absent",
+  "hit": "file-level claim (no line can exhibit this): mean over samples in `validate_alignment` with no tail statistic"
+ },
+ {
+  "file": "02_confident-ai_deepeval_deepeval_evaluate_evaluate.py.py",
+  "repo": "confident-ai/deepeval",
+  "path": "deepeval/evaluate/evaluate.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": null,
+  "kind": "absent",
+  "hit": "file-level claim (no line can exhibit this): metric reported with no spread or repeat"
+ },
+ {
+  "file": "03_confident-ai_deepeval_deepeval_metrics_base_metric.py.py",
+  "repo": "confident-ai/deepeval",
+  "path": "deepeval/metrics/base_metric.py",
+  "eg": "EG009",
+  "sev": "warn",
+  "line": 56,
+  "kind": "present",
+  "hit": "`YesNo` assigned, never read"
+ },
+ {
+  "file": "03_confident-ai_deepeval_deepeval_metrics_base_metric.py.py",
+  "repo": "confident-ai/deepeval",
+  "path": "deepeval/metrics/base_metric.py",
+  "eg": "EG009",
+  "sev": "warn",
+  "line": 57,
+  "kind": "present",
+  "hit": "`YesNoBorderline` assigned, never read"
+ },
+ {
+  "file": "03_confident-ai_deepeval_deepeval_metrics_base_metric.py.py",
+  "repo": "confident-ai/deepeval",
+  "path": "deepeval/metrics/base_metric.py",
+  "eg": "EG010",
+  "sev": "info",
+  "line": null,
+  "kind": "module",
+  "hit": "file-level claim (no line can exhibit this): only one metric family present"
+ },
+ {
+  "file": "05_mlflow_mlflow_mlflow_models_evaluation_base.py.py",
+  "repo": "mlflow/mlflow",
+  "path": "mlflow/models/evaluation/base.py",
+  "eg": "EG006",
+  "sev": "blocker",
+  "line": 44,
+  "kind": "present",
+  "hit": "bare/silent except"
+ },
+ {
+  "file": "07_comet-ml_opik_sdks_python_src_opik_evaluation_evaluator.py.py",
+  "repo": "comet-ml/opik",
+  "path": "sdks/python/src/opik/evaluation/evaluator.py",
+  "eg": "EG010",
+  "sev": "info",
+  "line": null,
+  "kind": "module",
+  "hit": "file-level claim (no line can exhibit this): only one metric family present"
+ },
+ {
+  "file": "07_comet-ml_opik_sdks_python_src_opik_evaluation_evaluator.py.py",
+  "repo": "comet-ml/opik",
+  "path": "sdks/python/src/opik/evaluation/evaluator.py",
+  "eg": "EGP05",
+  "sev": "blocker",
+  "line": null,
+  "kind": "module",
+  "hit": "file-level claim (no line can exhibit this): evaluation with no train/eval split"
+ },
+ {
+  "file": "07_comet-ml_opik_sdks_python_src_opik_evaluation_evaluator.py.py",
+  "repo": "comet-ml/opik",
+  "path": "sdks/python/src/opik/evaluation/evaluator.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": null,
+  "kind": "absent",
+  "hit": "file-level claim (no line can exhibit this): metric reported with no spread or repeat"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG002",
+  "sev": "blocker",
+  "line": null,
+  "kind": "absent",
+  "hit": "file-level claim (no line can exhibit this): self.scorer(sample) — no baseline symbol found"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 1844,
+  "kind": "present",
+  "hit": "win_rates[\"wins\"] / win_rates[\"total_battles\"]"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 2598,
+  "kind": "present",
+  "hit": "np.sum(\n            [\n                cat_results[\"f1\"] * ca"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 3399,
+  "kind": "present",
+  "hit": "float(correct) / total"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 4272,
+  "kind": "present",
+  "hit": "weighted_average / total"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 6024,
+  "kind": "present",
+  "hit": "g / max_absolute_value"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG006",
+  "sev": "blocker",
+  "line": 123,
+  "kind": "present",
+  "hit": "bare/silent except"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG006",
+  "sev": "blocker",
+  "line": 139,
+  "kind": "present",
+  "hit": "bare/silent except"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG006",
+  "sev": "blocker",
+  "line": 3091,
+  "kind": "present",
+  "hit": "bare/silent except"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG006",
+  "sev": "blocker",
+  "line": 3445,
+  "kind": "present",
+  "hit": "bare/silent except"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG006",
+  "sev": "blocker",
+  "line": 813,
+  "kind": "present",
+  "hit": "bare/silent except"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG006",
+  "sev": "blocker",
+  "line": 1568,
+  "kind": "present",
+  "hit": "bare/silent except"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG006",
+  "sev": "blocker",
+  "line": 3386,
+  "kind": "present",
+  "hit": "bare/silent except"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 4336,
+  "kind": "present",
+  "hit": "loop skips items and aggregates, no paired diff"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 5448,
+  "kind": "present",
+  "hit": "loop skips items and aggregates, no paired diff"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG012",
+  "sev": "warn",
+  "line": null,
+  "kind": "absent",
+  "hit": "file-level claim (no line can exhibit this): `tool_name_accuracy` declared without positive control"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG015",
+  "sev": "warn",
+  "line": null,
+  "kind": "module",
+  "hit": "file-level claim (no line can exhibit this): aggregate score reported without per-axis breakdown"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EG016",
+  "sev": "blocker",
+  "line": 3411,
+  "kind": "node",
+  "hit": "requests.get(url) — no timestamp"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EGP01",
+  "sev": "blocker",
+  "line": 813,
+  "kind": "present",
+  "hit": "silent handler inside scoring loop"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EGP01",
+  "sev": "blocker",
+  "line": 3386,
+  "kind": "present",
+  "hit": "silent handler inside scoring loop"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EGP03",
+  "sev": "warn",
+  "line": null,
+  "kind": "module",
+  "hit": "file-level claim (no line can exhibit this): ~3 comparisons, no correction"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EGP04",
+  "sev": "blocker",
+  "line": null,
+  "kind": "absent",
+  "hit": "file-level claim (no line can exhibit this): pairwise judgement with no order swap (scope: _update_battles_dat"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EGP08",
+  "sev": "warn",
+  "line": 5765,
+  "kind": "present",
+  "hit": "assert(s) in `validate_subgroup_types()` outside any try block"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EGP08",
+  "sev": "warn",
+  "line": 102,
+  "kind": "present",
+  "hit": "assert(s) in `verify()` outside any try block"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EGP08",
+  "sev": "warn",
+  "line": 1977,
+  "kind": "present",
+  "hit": "assert(s) in `_validate_group_mean_task_data()` outside any try block"
+ },
+ {
+  "file": "08_IBM_unitxt_src_unitxt_metrics.py.py",
+  "repo": "IBM/unitxt",
+  "path": "src/unitxt/metrics.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": null,
+  "kind": "absent",
+  "hit": "file-level claim (no line can exhibit this): mean over samples in `performance_drop_rate` with no tail statist"
+ }
+]

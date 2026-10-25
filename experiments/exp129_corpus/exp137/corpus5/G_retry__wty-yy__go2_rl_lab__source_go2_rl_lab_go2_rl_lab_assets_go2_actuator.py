@@ -1,1 +1,98 @@
-IiIiR28yIGFjdHVhdG9yIG1vZGVsIHdpdGggbW90b3IgdG9ycXVlLXNwZWVkIGFuZCBmcmljdGlvbiBsaW1pdHMuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgdG9yY2gKCmZyb20gaXNhYWNsYWIuYWN0dWF0b3JzIGltcG9ydCBEZWxheWVkUERBY3R1YXRvciwgRGVsYXllZFBEQWN0dWF0b3JDZmcKZnJvbSBpc2FhY2xhYi5hY3R1YXRvcnMuYWN0dWF0b3JfYmFzZSBpbXBvcnQgcmVzb2x2ZV9qb2ludF9wYXJhbWV0ZXIKZnJvbSBpc2FhY2xhYi51dGlscy5jb25maWdjbGFzcyBpbXBvcnQgY29uZmlnY2xhc3MKZnJvbSBpc2FhY2xhYi51dGlscy50eXBlcyBpbXBvcnQgQXJ0aWN1bGF0aW9uQWN0aW9ucwoKCmNsYXNzIEdvMkFjdHVhdG9yKERlbGF5ZWRQREFjdHVhdG9yKToKICAgICIiIkFwcGx5IHRoZSBHbzIgbW90b3IgdG9ycXVlLXNwZWVkIGN1cnZlIGFuZCBqb2ludCBmcmljdGlvbi4iIiIKCiAgICBjZmc6IEdvMkFjdHVhdG9yQ2ZnCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNmZzogR28yQWN0dWF0b3JDZmcsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhjZmcsICphcmdzLCAqKmt3YXJncykKCiAgICAgICAgc2VsZi5fam9pbnRfdmVsID0gdG9yY2guemVyb3NfbGlrZShzZWxmLmNvbXB1dGVkX2VmZm9ydCkKICAgICAgICBzZWxmLl9lZmZvcnRfeTEgPSBzZWxmLl9yZXNvbHZlX21vdG9yX3BhcmFtZXRlcihjZmcuWTEsIDFlOSkKICAgICAgICBzZWxmLl9lZmZvcnRfeTIgPSBzZWxmLl9yZXNvbHZlX21vdG9yX3BhcmFtZXRlcihjZmcuWTIsIGNmZy5ZMSkKICAgICAgICBzZWxmLl92ZWxvY2l0eV94MSA9IHNlbGYuX3Jlc29sdmVfbW90b3JfcGFyYW1ldGVyKGNmZy5YMSwgMWU5KQogICAgICAgIHNlbGYuX3ZlbG9jaXR5X3gyID0gc2VsZi5fcmVzb2x2ZV9tb3Rvcl9wYXJhbWV0ZXIoY2ZnLlgyLCAxZTkpCiAgICAgICAgc2VsZi5fZnJpY3Rpb25fc3RhdGljID0gc2VsZi5fcmVzb2x2ZV9tb3Rvcl9wYXJhbWV0ZXIoY2ZnLkZzLCAwLjApCiAgICAgICAgc2VsZi5fZnJpY3Rpb25fZHluYW1pYyA9IHNlbGYuX3Jlc29sdmVfbW90b3JfcGFyYW1ldGVyKGNmZy5GZCwgMC4wKQogICAgICAgIHNlbGYuX2FjdGl2YXRpb25fdmVsID0gc2VsZi5fcmVzb2x2ZV9tb3Rvcl9wYXJhbWV0ZXIoY2ZnLlZhLCAwLjAxKQoKICAgIGRlZiBfcmVzb2x2ZV9tb3Rvcl9wYXJhbWV0ZXIoc2VsZiwgdmFsdWUsIGRlZmF1bHQpIC0+IHRvcmNoLlRlbnNvcjoKICAgICAgICAiIiJSZXNvbHZlIG1vdG9yIHBhcmFtZXRlcnMgaW4gYWN0dWF0b3Igam9pbnQgb3JkZXIuIiIiCiAgICAgICAgcmV0dXJuIHJlc29sdmVfam9pbnRfcGFyYW1ldGVyKHZhbHVlLCBkZWZhdWx0LCBzZWxmLmpvaW50X25hbWVzLCBzZWxmLl9udW1fZW52cywgc2VsZi5fZGV2aWNlKQoKICAgIGRlZiBjb21wdXRlKAogICAgICAgIHNlbGYsCiAgICAgICAgY29udHJvbF9hY3Rpb246IEFydGljdWxhdGlvbkFjdGlvbnMsCiAgICAgICAgam9pbnRfcG9zOiB0b3JjaC5UZW5zb3IsCiAgICAgICAgam9pbnRfdmVsOiB0b3JjaC5UZW5zb3IsCiAgICApIC0+IEFydGljdWxhdGlvbkFjdGlvbnM6CiAgICAgICAgIiIiQ29tcHV0ZSBhbmQgbGltaXQgam9pbnQgZWZmb3J0IGZvciBvbmUgc2ltdWxhdGlvbiBzdGVwLiIiIgogICAgICAgIHNlbGYuX2pvaW50X3ZlbFs6XSA9IGpvaW50X3ZlbAogICAgICAgIGNvbnRyb2xfYWN0aW9uID0gc3VwZXIoKS5jb21wdXRlKGNvbnRyb2xfYWN0aW9uLCBqb2ludF9wb3MsIGpvaW50X3ZlbCkKCiAgICAgICAgc2VsZi5hcHBsaWVkX2VmZm9ydCAtPSAoCiAgICAgICAgICAgIHNlbGYuX2ZyaWN0aW9uX3N0YXRpYyAqIHRvcmNoLnRhbmgoam9pbnRfdmVsIC8gc2VsZi5fYWN0aXZhdGlvbl92ZWwpCiAgICAgICAgICAgICsgc2VsZi5fZnJpY3Rpb25fZHluYW1pYyAqIGpvaW50X3ZlbAogICAgICAgICkKCiAgICAgICAgY29udHJvbF9hY3Rpb24uam9pbnRfcG9zaXRpb25zID0gTm9uZQogICAgICAgIGNvbnRyb2xfYWN0aW9uLmpvaW50X3ZlbG9jaXRpZXMgPSBOb25lCiAgICAgICAgY29udHJvbF9hY3Rpb24uam9pbnRfZWZmb3J0cyA9IHNlbGYuYXBwbGllZF9lZmZvcnQKICAgICAgICByZXR1cm4gY29udHJvbF9hY3Rpb24KCiAgICBkZWYgX2NsaXBfZWZmb3J0KHNlbGYsIGVmZm9ydDogdG9yY2guVGVuc29yKSAtPiB0b3JjaC5UZW5zb3I6CiAgICAgICAgc2FtZV9kaXJlY3Rpb24gPSBzZWxmLl9qb2ludF92ZWwgKiBlZmZvcnQgPiAwCiAgICAgICAgbWF4X2VmZm9ydCA9IHRvcmNoLndoZXJlKHNhbWVfZGlyZWN0aW9uLCBzZWxmLl9lZmZvcnRfeTEsIHNlbGYuX2VmZm9ydF95MikKICAgICAgICBtYXhfZWZmb3J0ID0gdG9yY2gud2hlcmUoCiAgICAgICAgICAgIHNlbGYuX2pvaW50X3ZlbC5hYnMoKSA8IHNlbGYuX3ZlbG9jaXR5X3gxLAogICAgICAgICAgICBtYXhfZWZmb3J0LAogICAgICAgICAgICBzZWxmLl9jb21wdXRlX2VmZm9ydF9saW1pdChtYXhfZWZmb3J0KSwKICAgICAgICApCiAgICAgICAgcmV0dXJuIHRvcmNoLmNsaXAoZWZmb3J0LCAtbWF4X2VmZm9ydCwgbWF4X2VmZm9ydCkKCiAgICBkZWYgX2NvbXB1dGVfZWZmb3J0X2xpbWl0KHNlbGYsIG1heF9lZmZvcnQ6IHRvcmNoLlRlbnNvcikgLT4gdG9yY2guVGVuc29yOgogICAgICAgIHNsb3BlID0gLW1heF9lZmZvcnQgLyAoc2VsZi5fdmVsb2NpdHlfeDIgLSBzZWxmLl92ZWxvY2l0eV94MSkKICAgICAgICBsaW1pdCA9IHNsb3BlICogKHNlbGYuX2pvaW50X3ZlbC5hYnMoKSAtIHNlbGYuX3ZlbG9jaXR5X3gxKSArIG1heF9lZmZvcnQKICAgICAgICByZXR1cm4gbGltaXQuY2xpcChtaW49MC4wKQoKCkBjb25maWdjbGFzcwpjbGFzcyBHbzJBY3R1YXRvckNmZyhEZWxheWVkUERBY3R1YXRvckNmZyk6CiAgICAiIiJDb25maWd1cmF0aW9uIGZvciB0aGUgVW5pdHJlZSBHbzIgaGlnaC12b2x0YWdlIG1vdG9yLiIiIgoKICAgIGNsYXNzX3R5cGU6IHR5cGUgPSBHbzJBY3R1YXRvcgoKICAgIGpvaW50X2VmZm9ydF9saW1pdDogZmxvYXQgPSAxLjBlOQogICAgIiIiUHJlc2VydmUgYmV0YTIgc29sdmVyIGxpbWl0czsgdGhlIGN1c3RvbSBtb3RvciBtb2RlbCBjbGlwcyBlZmZvcnQuIiIiCgogICAgWDE6IGZsb2F0ID0gMTMuNQogICAgIiIiTWF4aW11bSBzcGVlZCBhdCBmdWxsIHRvcnF1ZSwgaW4gcmFkL3MuIiIiCgogICAgWDI6IGZsb2F0ID0gMzAuMAogICAgIiIiTm8tbG9hZCBzcGVlZCwgaW4gcmFkL3MuIiIiCgogICAgWTE6IGZsb2F0ID0gMjAuMgogICAgIiIiUGVhayB0b3JxdWUgd2hlbiB0b3JxdWUgYW5kIHNwZWVkIGhhdmUgdGhlIHNhbWUgZGlyZWN0aW9uLCBpbiBOIG0uIiIiCgogICAgWTI6IGZsb2F0ID0gMjMuNAogICAgIiIiUGVhayB0b3JxdWUgd2hlbiB0b3JxdWUgYW5kIHNwZWVkIGhhdmUgb3Bwb3NpdGUgZGlyZWN0aW9ucywgaW4gTiBtLiIiIgoKICAgIEZzOiBmbG9hdCA9IDAuMAogICAgIiIiU3RhdGljIGZyaWN0aW9uIGNvZWZmaWNpZW50LiIiIgoKICAgIEZkOiBmbG9hdCA9IDAuMAogICAgIiIiRHluYW1pYyBmcmljdGlvbiBjb2VmZmljaWVudC4iIiIKCiAgICBWYTogZmxvYXQgPSAwLjAxCiAgICAiIiJWZWxvY2l0eSBhdCB3aGljaCBmcmljdGlvbiBpcyBmdWxseSBhY3RpdmF0ZWQuIiIiCg==
+"""Go2 actuator model with motor torque-speed and friction limits."""
+
+from __future__ import annotations
+
+import torch
+
+from isaaclab.actuators import DelayedPDActuator, DelayedPDActuatorCfg
+from isaaclab.actuators.actuator_base import resolve_joint_parameter
+from isaaclab.utils.configclass import configclass
+from isaaclab.utils.types import ArticulationActions
+
+
+class Go2Actuator(DelayedPDActuator):
+    """Apply the Go2 motor torque-speed curve and joint friction."""
+
+    cfg: Go2ActuatorCfg
+
+    def __init__(self, cfg: Go2ActuatorCfg, *args, **kwargs):
+        super().__init__(cfg, *args, **kwargs)
+
+        self._joint_vel = torch.zeros_like(self.computed_effort)
+        self._effort_y1 = self._resolve_motor_parameter(cfg.Y1, 1e9)
+        self._effort_y2 = self._resolve_motor_parameter(cfg.Y2, cfg.Y1)
+        self._velocity_x1 = self._resolve_motor_parameter(cfg.X1, 1e9)
+        self._velocity_x2 = self._resolve_motor_parameter(cfg.X2, 1e9)
+        self._friction_static = self._resolve_motor_parameter(cfg.Fs, 0.0)
+        self._friction_dynamic = self._resolve_motor_parameter(cfg.Fd, 0.0)
+        self._activation_vel = self._resolve_motor_parameter(cfg.Va, 0.01)
+
+    def _resolve_motor_parameter(self, value, default) -> torch.Tensor:
+        """Resolve motor parameters in actuator joint order."""
+        return resolve_joint_parameter(value, default, self.joint_names, self._num_envs, self._device)
+
+    def compute(
+        self,
+        control_action: ArticulationActions,
+        joint_pos: torch.Tensor,
+        joint_vel: torch.Tensor,
+    ) -> ArticulationActions:
+        """Compute and limit joint effort for one simulation step."""
+        self._joint_vel[:] = joint_vel
+        control_action = super().compute(control_action, joint_pos, joint_vel)
+
+        self.applied_effort -= (
+            self._friction_static * torch.tanh(joint_vel / self._activation_vel)
+            + self._friction_dynamic * joint_vel
+        )
+
+        control_action.joint_positions = None
+        control_action.joint_velocities = None
+        control_action.joint_efforts = self.applied_effort
+        return control_action
+
+    def _clip_effort(self, effort: torch.Tensor) -> torch.Tensor:
+        same_direction = self._joint_vel * effort > 0
+        max_effort = torch.where(same_direction, self._effort_y1, self._effort_y2)
+        max_effort = torch.where(
+            self._joint_vel.abs() < self._velocity_x1,
+            max_effort,
+            self._compute_effort_limit(max_effort),
+        )
+        return torch.clip(effort, -max_effort, max_effort)
+
+    def _compute_effort_limit(self, max_effort: torch.Tensor) -> torch.Tensor:
+        slope = -max_effort / (self._velocity_x2 - self._velocity_x1)
+        limit = slope * (self._joint_vel.abs() - self._velocity_x1) + max_effort
+        return limit.clip(min=0.0)
+
+
+@configclass
+class Go2ActuatorCfg(DelayedPDActuatorCfg):
+    """Configuration for the Unitree Go2 high-voltage motor."""
+
+    class_type: type = Go2Actuator
+
+    joint_effort_limit: float = 1.0e9
+    """Preserve beta2 solver limits; the custom motor model clips effort."""
+
+    X1: float = 13.5
+    """Maximum speed at full torque, in rad/s."""
+
+    X2: float = 30.0
+    """No-load speed, in rad/s."""
+
+    Y1: float = 20.2
+    """Peak torque when torque and speed have the same direction, in N m."""
+
+    Y2: float = 23.4
+    """Peak torque when torque and speed have opposite directions, in N m."""
+
+    Fs: float = 0.0
+    """Static friction coefficient."""
+
+    Fd: float = 0.0
+    """Dynamic friction coefficient."""
+
+    Va: float = 0.01
+    """Velocity at which friction is fully activated."""

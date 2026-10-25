@@ -1,1 +1,53 @@
-aW1wb3J0IGpzb24sbWF0aCxyYW5kb20scmUKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgpyb3dzPVtsLnN0cmlwKCkgZm9yIGwgaW4gb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCcsZW5jb2Rpbmc9J3V0Zi04JykgaWYgbC5zdHJpcCgpXQpyb3dzPVtyIGZvciByIGluIHJvd3MgaWYgbGVuKHIpPjEyXVs6MjQwMF0Kcm5nPXJhbmRvbS5SYW5kb20oNyk7IHJuZy5zaHVmZmxlKHJvd3MpCmxhYj1bMSBpZiByZS5zZWFyY2gocidcZCtcLlxkK3xcZCslJyxyKSBlbHNlIDAgZm9yIHIgaW4gcm93c10KTj1sZW4ocm93cykKSD0tKDAuMjM0Km1hdGgubG9nKDAuMjM0KSswLjc2NiptYXRoLmxvZygwLjc2NikpCnRvaz1sYW1iZGEgczogcmUuZmluZGFsbChyJ1tBLVphLXpfXSt8XGQrXC4/XGQqfFteXHNBLVphLXowLTldJyxzKQpUPVt0b2socikgZm9yIHIgaW4gcm93c10KUkVQUz17J3VuaWdyYW0nOmxhbWJkYSB0OkNvdW50ZXIodCksJ2JpZ3JhbSc6bGFtYmRhIHQ6Q291bnRlcih6aXAodCx0WzE6XSkpLAogICAgICAnZmlyc3QnOmxhbWJkYSB0OkNvdW50ZXIoWygnRicsdFswXSldIGlmIHQgZWxzZSBbXSksJ2xlbic6bGFtYmRhIHQ6Q291bnRlcihbKCdMJyxsZW4odCkvLzEwKV0pfQpkZWYgTUlfbW0obGFiZWxzLGtleXMpOgogICAgcHk9Q291bnRlcihsYWJlbHMpOyBreD1Db3VudGVyKGtleXMpOyBqb2ludD1Db3VudGVyKHppcChsYWJlbHMsa2V5cykpCiAgICBtaT0wLjAKICAgIGZvciAoeSxrKSxjIGluIGpvaW50Lml0ZW1zKCk6CiAgICAgICAgcD1jL047IHE9cHlbeV0vTipreFtrXS9OCiAgICAgICAgbWkrPXAqbWF0aC5sb2cocC9xKQogICAgUj1sZW4oa3gpOyBTPWxlbihweSkKICAgIGJpYXM9KFItMSkqKFMtMSkvKDIqTikgICAgICAgICAgIyBNaWxsZXItTWFkb3cg5YGP5beu5qCh5q2jCiAgICByZXR1cm4gbWksIG1pLWJpYXMsIFIKZGVmIGRpc2MobGFiZWxzLGtleXMsc2VlZD0xKToKICAgIHI9cmFuZG9tLlJhbmRvbShzZWVkKTsgaWR4PWxpc3QocmFuZ2UobGVuKGxhYmVscykpKTsgci5zaHVmZmxlKGlkeCkKICAgIGN1dD1pbnQoMC43Kk4pOyB0cix0ZT1pZHhbOmN1dF0saWR4W2N1dDpdCiAgICB0b3Q9Q291bnRlcihsYWJlbHNbaV0gZm9yIGkgaW4gdHIpOyBwcmk9e30KICAgIGZvciBpIGluIHRyOiBwcmkuc2V0ZGVmYXVsdChsYWJlbHNbaV0sQ291bnRlcigpKVtrZXlzW2ldXSs9MQogICAgVj1sZW4oc2V0KGtleXMpKTsgdHA9ZnA9dG49Zm49MAogICAgZm9yIGkgaW4gdGU6CiAgICAgICAgc2M9e3k6IG1hdGgubG9nKHRvdFt5XS9sZW4odHIpKSttYXRoLmxvZygocHJpW3ldW2tleXNbaV1dKzAuNSkvKHRvdFt5XSswLjUqVikpIGZvciB5IGluIHRvdH0KICAgICAgICBwPW1heChzYyxrZXk9c2MuZ2V0KQogICAgICAgIGlmIHA9PTEgYW5kIGxhYmVsc1tpXT09MTogdHArPTEKICAgICAgICBlbGlmIHA9PTEgYW5kIGxhYmVsc1tpXT09MDogZnArPTEKICAgICAgICBlbGlmIHA9PTAgYW5kIGxhYmVsc1tpXT09MDogdG4rPTEKICAgICAgICBlbHNlOiBmbis9MQogICAgdHByPXRwLyh0cCtmbikgaWYgdHArZm4gZWxzZSAwOyBmcHI9ZnAvKGZwK3RuKSBpZiBmcCt0biBlbHNlIDAKICAgIHJldHVybiBhYnModHByLWZwcikKcHJpbnQoIkgobGFiZWwpPSUuNGYgICBOPSVkXG4iJShILE4pKQpwcmludCgiJS04cyAlOHMgJThzICU4cyAlNnMgJThzIiUoIuihqOekuiIsIk1J5Y6fIiwiTUnmoKHmraMiLCLlgY/lt67pobkiLCLlj5blgLzmlbAiLCLliKTliKvluqYiKSkKb3V0PVtdCmZvciBuXyxmIGluIFJFUFMuaXRlbXMoKToKICAgIGtleXM9W3R1cGxlKHNvcnRlZChmKHQpLml0ZW1zKCkpKSBmb3IgdCBpbiBUXQogICAgbWksbW0sUj1NSV9tbShsYWIsa2V5cyk7IGQ9ZGlzYyhsYWIsa2V5cykKICAgIG91dC5hcHBlbmQoZGljdChyZXA9bl8sbWk9bWksbWlfbW09bW0sUj1SLGRpc2M9ZCkpCiAgICBwcmludCgiJS04cyAlOC40ZiAlOC40ZiAlOC40ZiAlNmQgJTguNGYiJShuXyxtaSxtbSxtaS1tbSxSLGQpKQpkZWYgcmFuayh2KToKICAgIHM9c29ydGVkKHJhbmdlKGxlbih2KSksa2V5PWxhbWJkYSBpOi12W2ldKTsgcj1bMF0qbGVuKHYpCiAgICBmb3IgcCxpIGluIGVudW1lcmF0ZShzKTogcltpXT1wKzEKICAgIHJldHVybiByCmZvciBrIGluIFsnbWknLCdtaV9tbSddOgogICAgcm09cmFuayhbb1trXSBmb3IgbyBpbiBvdXRdKTsgcmQ9cmFuayhbb1snZGlzYyddIGZvciBvIGluIG91dF0pCiAgICBuPWxlbihvdXQpOyBkMj1zdW0oKGEtYikqKjIgZm9yIGEsYiBpbiB6aXAocm0scmQpKTsgcmhvPTEtNipkMi8obioobipuLTEpKQogICAgcHJpbnQoIlxuU3BlYXJtYW4oJXMsIOWIpOWIq+W6pikgPSAlKy4zZiIlKGsscmhvKSkKanNvbi5kdW1wKG91dCxvcGVuKCdzNy5qc29uJywndycpLGluZGVudD0xKQo=
+import json,math,random,re
+from collections import Counter
+rows=[l.strip() for l in open('/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md',encoding='utf-8') if l.strip()]
+rows=[r for r in rows if len(r)>12][:2400]
+rng=random.Random(7); rng.shuffle(rows)
+lab=[1 if re.search(r'\d+\.\d+|\d+%',r) else 0 for r in rows]
+N=len(rows)
+H=-(0.234*math.log(0.234)+0.766*math.log(0.766))
+tok=lambda s: re.findall(r'[A-Za-z_]+|\d+\.?\d*|[^\sA-Za-z0-9]',s)
+T=[tok(r) for r in rows]
+REPS={'unigram':lambda t:Counter(t),'bigram':lambda t:Counter(zip(t,t[1:])),
+      'first':lambda t:Counter([('F',t[0])] if t else []),'len':lambda t:Counter([('L',len(t)//10)])}
+def MI_mm(labels,keys):
+    py=Counter(labels); kx=Counter(keys); joint=Counter(zip(labels,keys))
+    mi=0.0
+    for (y,k),c in joint.items():
+        p=c/N; q=py[y]/N*kx[k]/N
+        mi+=p*math.log(p/q)
+    R=len(kx); S=len(py)
+    bias=(R-1)*(S-1)/(2*N)          # Miller-Madow 偏差校正
+    return mi, mi-bias, R
+def disc(labels,keys,seed=1):
+    r=random.Random(seed); idx=list(range(len(labels))); r.shuffle(idx)
+    cut=int(0.7*N); tr,te=idx[:cut],idx[cut:]
+    tot=Counter(labels[i] for i in tr); pri={}
+    for i in tr: pri.setdefault(labels[i],Counter())[keys[i]]+=1
+    V=len(set(keys)); tp=fp=tn=fn=0
+    for i in te:
+        sc={y: math.log(tot[y]/len(tr))+math.log((pri[y][keys[i]]+0.5)/(tot[y]+0.5*V)) for y in tot}
+        p=max(sc,key=sc.get)
+        if p==1 and labels[i]==1: tp+=1
+        elif p==1 and labels[i]==0: fp+=1
+        elif p==0 and labels[i]==0: tn+=1
+        else: fn+=1
+    tpr=tp/(tp+fn) if tp+fn else 0; fpr=fp/(fp+tn) if fp+tn else 0
+    return abs(tpr-fpr)
+print("H(label)=%.4f   N=%d\n"%(H,N))
+print("%-8s %8s %8s %8s %6s %8s"%("表示","MI原","MI校正","偏差项","取值数","判别度"))
+out=[]
+for n_,f in REPS.items():
+    keys=[tuple(sorted(f(t).items())) for t in T]
+    mi,mm,R=MI_mm(lab,keys); d=disc(lab,keys)
+    out.append(dict(rep=n_,mi=mi,mi_mm=mm,R=R,disc=d))
+    print("%-8s %8.4f %8.4f %8.4f %6d %8.4f"%(n_,mi,mm,mi-mm,R,d))
+def rank(v):
+    s=sorted(range(len(v)),key=lambda i:-v[i]); r=[0]*len(v)
+    for p,i in enumerate(s): r[i]=p+1
+    return r
+for k in ['mi','mi_mm']:
+    rm=rank([o[k] for o in out]); rd=rank([o['disc'] for o in out])
+    n=len(out); d2=sum((a-b)**2 for a,b in zip(rm,rd)); rho=1-6*d2/(n*(n*n-1))
+    print("\nSpearman(%s, 判别度) = %+.3f"%(k,rho))
+json.dump(out,open('s7.json','w'),indent=1)

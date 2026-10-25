@@ -1,1 +1,28 @@
-ewogInNlZWQiOiAyMDI2MTAxOCwKICJjYXAiOiA5MDAsCiAiY2FuZHMiOiBbCiAgIi91c3Ivc2hhcmUiLAogICIvdXNyL2xpYiIsCiAgIi9ldGMiLAogICIvdXNyL3NoYXJlL2RvYyIsCiAgIi91c3IvbGliL3g4Nl82NC1saW51eC1nbnUiCiBdLAogInJvb3QiOiAiL2V0YyIsCiAibm9kZXMiOiAxNzMsCiAic3ltX2VkZ2VzIjogMSwKICJzcGFuX21pbiI6IDUsCiAic3Bhbl9tZWQiOiA1LAogInNwYW5fbWF4IjogNSwKICJzcGFuX21lYW4iOiA1LjAsCiAidHJ1ZV9zaG9ydGN1dCI6IDEuMCwKICJzaG9ydGN1dCI6IHsKICAibl9wYWlycyI6IDM5NywKICAidHJlZV9wYXRoX21lYW4iOiAzLjIwOSwKICAiY3ljbGljX3BhdGhfbWVhbiI6IDMuMjA5LAogICJnYWluX21lYW4iOiAxLjAsCiAgImdhaW5fbWVkaWFuIjogMS4wLAogICJnYWluX21heCI6IDEuMCwKICAicGN0X3BhaXJzX2dhaW5fZ3QxIjogMC4wCiB9Cn0=
+{
+ "seed": 20261018,
+ "cap": 900,
+ "cands": [
+  "/usr/share",
+  "/usr/lib",
+  "/etc",
+  "/usr/share/doc",
+  "/usr/lib/x86_64-linux-gnu"
+ ],
+ "root": "/etc",
+ "nodes": 173,
+ "sym_edges": 1,
+ "span_min": 5,
+ "span_med": 5,
+ "span_max": 5,
+ "span_mean": 5.0,
+ "true_shortcut": 1.0,
+ "shortcut": {
+  "n_pairs": 397,
+  "tree_path_mean": 3.209,
+  "cyclic_path_mean": 3.209,
+  "gain_mean": 1.0,
+  "gain_median": 1.0,
+  "gain_max": 1.0,
+  "pct_pairs_gain_gt1": 0.0
+ }
+}

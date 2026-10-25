@@ -1,1 +1,50 @@
-aW1wb3J0IGFzdAppbXBvcnQgY3N2CmltcG9ydCBqc29uCmltcG9ydCByZQppbXBvcnQgc3FsaXRlMwpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKT1VUPVBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQKcm93cz1bciBmb3IgciBpbiBjc3YuRGljdFJlYWRlcigoT1VULydzbGVlcF9jYWxsc183ZC5jc3YnKS5vcGVuKCkpIGlmIHJbJ3NsZWVwX2tpbmQnXT09J3B5dGhvbl9lbWJlZGRlZCddCmM9c3FsaXRlMy5jb25uZWN0KCdmaWxlOi9ob21lL2tlc2hhL29yY2hlc3RyYS9kYXRhL29yY2hlc3RyYS5kYj9tb2RlPXJvJyx1cmk9VHJ1ZSk7Yy5yb3dfZmFjdG9yeT1zcWxpdGUzLlJvdztjLmV4ZWN1dGUoJ1BSQUdNQSBxdWVyeV9vbmx5PU9OJykKb3V0PVtdCmZvciByb3cgaW4gcm93czoKICAgIHJlYz1jLmV4ZWN1dGUoJ1NFTEVDVCBjb250ZW50IEZST00gbG9ncyBXSEVSRSBpZD0/JywoaW50KHJvd1snY2FsbF9pZCddKSwpKS5mZXRjaG9uZSgpCiAgICB0cnk6cGF5bG9hZD1qc29uLmxvYWRzKHJlY1snY29udGVudCddW3JlY1snY29udGVudCddLmluZGV4KCd7Jyk6XSkgaWYgcmVjIGVsc2Uge30KICAgIGV4Y2VwdCAoVmFsdWVFcnJvcixqc29uLkpTT05EZWNvZGVFcnJvcik6cGF5bG9hZD17fQogICAgY29tbWFuZD1zdHIocGF5bG9hZC5nZXQoJ2NvbW1hbmQnKSBvciAnJykKICAgIG1hdGNoPXJlLnNlYXJjaChyJ3B5dGhvbig/OjMpP1xzKy1ccyo8PFtcJ1wiXT8oXHcrKVtcJ1wiXT8nLGNvbW1hbmQpCiAgICBoZXJlZG9jPWJvb2wobWF0Y2gpCiAgICBjYWxscz1bXTtwYXJzZV9vaz1GYWxzZQogICAgaWYgbWF0Y2g6CiAgICAgICAgbGFiZWw9bWF0Y2guZ3JvdXAoMSk7c3RhcnQ9bWF0Y2guZW5kKCkKICAgICAgICBlbmQ9cmUuc2VhcmNoKHInXG4nK3JlLmVzY2FwZShsYWJlbCkrcicoPz1cc3wkKScsY29tbWFuZFtzdGFydDpdKQogICAgICAgIHNvdXJjZT1jb21tYW5kW3N0YXJ0OnN0YXJ0K2VuZC5zdGFydCgpXSBpZiBlbmQgZWxzZSBjb21tYW5kW3N0YXJ0Ol0KICAgICAgICB0cnk6CiAgICAgICAgICAgIHRyZWU9YXN0LnBhcnNlKHNvdXJjZSk7cGFyc2Vfb2s9VHJ1ZQogICAgICAgICAgICBmb3Igbm9kZSBpbiBhc3Qud2Fsayh0cmVlKToKICAgICAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKG5vZGUsYXN0LkNhbGwpOmNvbnRpbnVlCiAgICAgICAgICAgICAgICBmbj1ub2RlLmZ1bmMKICAgICAgICAgICAgICAgIG5hbWU9KGYne2ZuLnZhbHVlLmlkfS57Zm4uYXR0cn0nIGlmIGlzaW5zdGFuY2UoZm4sYXN0LkF0dHJpYnV0ZSkgYW5kIGlzaW5zdGFuY2UoZm4udmFsdWUsYXN0Lk5hbWUpIGVsc2UgZm4uaWQgaWYgaXNpbnN0YW5jZShmbixhc3QuTmFtZSkgZWxzZSAnJykKICAgICAgICAgICAgICAgIGlmIG5hbWUuZW5kc3dpdGgoJy5zbGVlcCcpIG9yIG5hbWU9PSdzbGVlcCc6CiAgICAgICAgICAgICAgICAgICAgYXJncz1bXQogICAgICAgICAgICAgICAgICAgIGZvciBhcmcgaW4gbm9kZS5hcmdzOgogICAgICAgICAgICAgICAgICAgICAgICB0cnk6YXJncy5hcHBlbmQoYXN0LmxpdGVyYWxfZXZhbChhcmcpKQogICAgICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOmFyZ3MuYXBwZW5kKCc/JykKICAgICAgICAgICAgICAgICAgICBjYWxscy5hcHBlbmQoeydsaW5lJzpub2RlLmxpbmVubywnbmFtZSc6bmFtZSwnYXJncyc6YXJnc30pCiAgICAgICAgZXhjZXB0IFN5bnRheEVycm9yOnBhc3MKICAgIGlmIGNhbGxzOmtpbmQ9J2V4ZWN1dGVkX3B5dGhvbl9zbGVlcF9jYWxsJwogICAgZWxpZiBoZXJlZG9jIGFuZCBwYXJzZV9vazpraW5kPSdweXRob25faGVyZWRvY19ub19leGVjdXRlZF9zbGVlcF9jYWxsJwogICAgZWxpZiBoZXJlZG9jOmtpbmQ9J3VucGFyc2VkX3B5dGhvbl9oZXJlZG9jJwogICAgZWxpZiBhbnkoeCBpbiBjb21tYW5kIGZvciB4IGluICgnY2F0ID4nLCdvcGVuKCcsJ3dyaXRlX3RleHQnLCd3cml0ZSgnKSk6a2luZD0nc2xlZXBfbWVudGlvbmVkX3doaWxlX3dyaXRpbmdfc291cmNlJwogICAgZWxzZTpraW5kPSdlbWJlZGRlZF9zbGVlcF9yZWZlcmVuY2VfdW5jbGFzc2lmaWVkJwogICAgb3V0LmFwcGVuZCh7J2NhbGxfaWQnOnJvd1snY2FsbF9pZCddLCdzZXNzaW9uX2lkJzpyb3dbJ3Nlc3Npb25faWQnXSwnc2Vzc2lvbl9uYW1lJzpyb3dbJ3Nlc3Npb25fbmFtZSddLCdydW50aW1lJzpyb3dbJ3J1bnRpbWUnXSwnY2FsbF90cyc6cm93WydjYWxsX3RzJ10sJ3Rvb2xfZHVyYXRpb25fcyc6cm93Wyd0b29sX2R1cmF0aW9uX3MnXSwna2luZCc6a2luZCwnc2xlZXBfY2FsbHNfYXN0Jzpqc29uLmR1bXBzKGNhbGxzLHNlcGFyYXRvcnM9KCcsJywnOicpKSwnY29tbWFuZF9zYW5pdGl6ZWQnOnJvd1snY29tbWFuZF9zYW5pdGl6ZWQnXX0pCndpdGggKE9VVC8nZW1iZWRkZWRfc2xlZXBfYW5hbHlzaXMuY3N2Jykub3BlbigndycsbmV3bGluZT0nJykgYXMgZjoKICAgIHc9Y3N2LkRpY3RXcml0ZXIoZixmaWVsZG5hbWVzPWxpc3Qob3V0WzBdKSBpZiBvdXQgZWxzZSBbXSk7dy53cml0ZWhlYWRlcigpO3cud3JpdGVyb3dzKG91dCkKY291bnRzPUNvdW50ZXIoclsna2luZCddIGZvciByIGluIG91dCkKcHJpbnQoJ2NhbmRpZGF0ZXMnLGxlbihvdXQpLCdraW5kcycsZGljdChjb3VudHMpKQpmb3IgciBpbiBvdXQ6CiAgICBpZiByWydraW5kJ109PSdleGVjdXRlZF9weXRob25fc2xlZXBfY2FsbCc6cHJpbnQoclsnc2Vzc2lvbl9uYW1lJ10sclsnY2FsbF90cyddLHJbJ3Rvb2xfZHVyYXRpb25fcyddLHJbJ3NsZWVwX2NhbGxzX2FzdCddLHJbJ2NvbW1hbmRfc2FuaXRpemVkJ11bOjE4MF0pCmMuY2xvc2UoKQo=
+import ast
+import csv
+import json
+import re
+import sqlite3
+from collections import Counter
+from pathlib import Path
+
+OUT=Path(__file__).resolve().parent
+rows=[r for r in csv.DictReader((OUT/'sleep_calls_7d.csv').open()) if r['sleep_kind']=='python_embedded']
+c=sqlite3.connect('file:/home/kesha/orchestra/data/orchestra.db?mode=ro',uri=True);c.row_factory=sqlite3.Row;c.execute('PRAGMA query_only=ON')
+out=[]
+for row in rows:
+    rec=c.execute('SELECT content FROM logs WHERE id=?',(int(row['call_id']),)).fetchone()
+    try:payload=json.loads(rec['content'][rec['content'].index('{'):]) if rec else {}
+    except (ValueError,json.JSONDecodeError):payload={}
+    command=str(payload.get('command') or '')
+    match=re.search(r'python(?:3)?\s+-\s*<<[\'\"]?(\w+)[\'\"]?',command)
+    heredoc=bool(match)
+    calls=[];parse_ok=False
+    if match:
+        label=match.group(1);start=match.end()
+        end=re.search(r'\n'+re.escape(label)+r'(?=\s|$)',command[start:])
+        source=command[start:start+end.start()] if end else command[start:]
+        try:
+            tree=ast.parse(source);parse_ok=True
+            for node in ast.walk(tree):
+                if not isinstance(node,ast.Call):continue
+                fn=node.func
+                name=(f'{fn.value.id}.{fn.attr}' if isinstance(fn,ast.Attribute) and isinstance(fn.value,ast.Name) else fn.id if isinstance(fn,ast.Name) else '')
+                if name.endswith('.sleep') or name=='sleep':
+                    args=[]
+                    for arg in node.args:
+                        try:args.append(ast.literal_eval(arg))
+                        except Exception:args.append('?')
+                    calls.append({'line':node.lineno,'name':name,'args':args})
+        except SyntaxError:pass
+    if calls:kind='executed_python_sleep_call'
+    elif heredoc and parse_ok:kind='python_heredoc_no_executed_sleep_call'
+    elif heredoc:kind='unparsed_python_heredoc'
+    elif any(x in command for x in ('cat >','open(','write_text','write(')):kind='sleep_mentioned_while_writing_source'
+    else:kind='embedded_sleep_reference_unclassified'
+    out.append({'call_id':row['call_id'],'session_id':row['session_id'],'session_name':row['session_name'],'runtime':row['runtime'],'call_ts':row['call_ts'],'tool_duration_s':row['tool_duration_s'],'kind':kind,'sleep_calls_ast':json.dumps(calls,separators=(',',':')),'command_sanitized':row['command_sanitized']})
+with (OUT/'embedded_sleep_analysis.csv').open('w',newline='') as f:
+    w=csv.DictWriter(f,fieldnames=list(out[0]) if out else []);w.writeheader();w.writerows(out)
+counts=Counter(r['kind'] for r in out)
+print('candidates',len(out),'kinds',dict(counts))
+for r in out:
+    if r['kind']=='executed_python_sleep_call':print(r['session_name'],r['call_ts'],r['tool_duration_s'],r['sleep_calls_ast'],r['command_sanitized'][:180])
+c.close()

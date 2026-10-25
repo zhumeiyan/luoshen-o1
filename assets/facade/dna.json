@@ -1,1 +1,15 @@
-ewogICJoYXNoIjogIjgyOWY5N2UwZGM5NyIsCiAgIm1vdGlmIjogInBlcmNvbGF0aW9uIiwKICAiaHVlIjogMTU1LjMsCiAgImdyaWQiOiAxMywKICAic2VlZCI6IDIxOTE0OTcxODQsCiAgInJhbXAiOiBbCiAgICAiIzg4ZTZiZiIsCiAgICAiIzgwZGVjNSIsCiAgICAiIzc5ZDRjYSIsCiAgICAiIzczYzVjOSIsCiAgICAiIzZlYWRiZCIsCiAgICAiIzZiOTdhZiIKICBdCn0=
+{
+  "hash": "829f97e0dc97",
+  "motif": "percolation",
+  "hue": 155.3,
+  "grid": 13,
+  "seed": 2191497184,
+  "ramp": [
+    "#88e6bf",
+    "#80dec5",
+    "#79d4ca",
+    "#73c5c9",
+    "#6eadbd",
+    "#6b97af"
+  ]
+}

@@ -1,1 +1,9 @@
-TT0gMiBiaXRzPTAuOTEwIGVmZl9sZXZlbHM9MS44OCBSPTEuMCBzaWdtYQpNPSAzIGJpdHM9MS4xOTUgZWZmX2xldmVscz0yLjI5IFI9MS4xIHNpZ21hCk09IDQgYml0cz0xLjMyOSBlZmZfbGV2ZWxzPTIuNTEgUj0xLjIgc2lnbWEKTT0gNiBiaXRzPTAuOTYzIGVmZl9sZXZlbHM9MS45NSBSPTEuNCBzaWdtYQpNPSA4IGJpdHM9MC44MTUgZWZmX2xldmVscz0xLjc2IFI9MS41IHNpZ21hCk09MTIgYml0cz0wLjg2MyBlZmZfbGV2ZWxzPTEuODIgUj0xLjcgc2lnbWEKTT0xNiBiaXRzPTEuMDI0IGVmZl9sZXZlbHM9Mi4wMyBSPTEuOSBzaWdtYQpNPTI0IGJpdHM9MC45NjEgZWZmX2xldmVscz0xLjk1IFI9Mi4wIHNpZ21hCkRPTkUK
+M= 2 bits=0.910 eff_levels=1.88 R=1.0 sigma
+M= 3 bits=1.195 eff_levels=2.29 R=1.1 sigma
+M= 4 bits=1.329 eff_levels=2.51 R=1.2 sigma
+M= 6 bits=0.963 eff_levels=1.95 R=1.4 sigma
+M= 8 bits=0.815 eff_levels=1.76 R=1.5 sigma
+M=12 bits=0.863 eff_levels=1.82 R=1.7 sigma
+M=16 bits=1.024 eff_levels=2.03 R=1.9 sigma
+M=24 bits=0.961 eff_levels=1.95 R=2.0 sigma
+DONE

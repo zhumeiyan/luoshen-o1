@@ -1,1 +1,179 @@
-IyBDb3B5cmlnaHQgKGMpIE1ldGEgUGxhdGZvcm1zLCBJbmMuIGFuZCBhZmZpbGlhdGVzLgojIEFsbCByaWdodHMgcmVzZXJ2ZWQuCgojIFRoaXMgc291cmNlIGNvZGUgaXMgbGljZW5zZWQgdW5kZXIgdGhlIGxpY2Vuc2UgZm91bmQgaW4gdGhlCiMgTElDRU5TRSBmaWxlIGluIHRoZSByb290IGRpcmVjdG9yeSBvZiB0aGlzIHNvdXJjZSB0cmVlLgoKaW1wb3J0IHRvcmNoCmZyb20gdG9yY2ggaW1wb3J0IG5uCmZyb20gdG9yY2gubm4gaW1wb3J0IGZ1bmN0aW9uYWwgYXMgRgoKZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIFR1cGxlLCBUeXBlCgpmcm9tIC5jb21tb24gaW1wb3J0IExheWVyTm9ybTJkCgoKY2xhc3MgTWFza0RlY29kZXIobm4uTW9kdWxlKToKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgICosCiAgICAgICAgdHJhbnNmb3JtZXJfZGltOiBpbnQsCiAgICAgICAgdHJhbnNmb3JtZXI6IG5uLk1vZHVsZSwKICAgICAgICBudW1fbXVsdGltYXNrX291dHB1dHM6IGludCA9IDMsCiAgICAgICAgYWN0aXZhdGlvbjogVHlwZVtubi5Nb2R1bGVdID0gbm4uR0VMVSwKICAgICAgICBpb3VfaGVhZF9kZXB0aDogaW50ID0gMywKICAgICAgICBpb3VfaGVhZF9oaWRkZW5fZGltOiBpbnQgPSAyNTYsCiAgICApIC0+IE5vbmU6CiAgICAgICAgIiIiCiAgICAgICAgUHJlZGljdHMgbWFza3MgZ2l2ZW4gYW4gaW1hZ2UgYW5kIHByb21wdCBlbWJlZGRpbmdzLCB1c2luZyBhCiAgICAgICAgdHJhbmZvcm1lciBhcmNoaXRlY3R1cmUuCgogICAgICAgIEFyZ3VtZW50czoKICAgICAgICAgIHRyYW5zZm9ybWVyX2RpbSAoaW50KTogdGhlIGNoYW5uZWwgZGltZW5zaW9uIG9mIHRoZSB0cmFuc2Zvcm1lcgogICAgICAgICAgdHJhbnNmb3JtZXIgKG5uLk1vZHVsZSk6IHRoZSB0cmFuc2Zvcm1lciB1c2VkIHRvIHByZWRpY3QgbWFza3MKICAgICAgICAgIG51bV9tdWx0aW1hc2tfb3V0cHV0cyAoaW50KTogdGhlIG51bWJlciBvZiBtYXNrcyB0byBwcmVkaWN0CiAgICAgICAgICAgIHdoZW4gZGlzYW1iaWd1YXRpbmcgbWFza3MKICAgICAgICAgIGFjdGl2YXRpb24gKG5uLk1vZHVsZSk6IHRoZSB0eXBlIG9mIGFjdGl2YXRpb24gdG8gdXNlIHdoZW4KICAgICAgICAgICAgdXBzY2FsaW5nIG1hc2tzCiAgICAgICAgICBpb3VfaGVhZF9kZXB0aCAoaW50KTogdGhlIGRlcHRoIG9mIHRoZSBNTFAgdXNlZCB0byBwcmVkaWN0CiAgICAgICAgICAgIG1hc2sgcXVhbGl0eQogICAgICAgICAgaW91X2hlYWRfaGlkZGVuX2RpbSAoaW50KTogdGhlIGhpZGRlbiBkaW1lbnNpb24gb2YgdGhlIE1MUAogICAgICAgICAgICB1c2VkIHRvIHByZWRpY3QgbWFzayBxdWFsaXR5CiAgICAgICAgIiIiCiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygpCiAgICAgICAgc2VsZi50cmFuc2Zvcm1lcl9kaW0gPSB0cmFuc2Zvcm1lcl9kaW0KICAgICAgICBzZWxmLnRyYW5zZm9ybWVyID0gdHJhbnNmb3JtZXIKCiAgICAgICAgc2VsZi5udW1fbXVsdGltYXNrX291dHB1dHMgPSBudW1fbXVsdGltYXNrX291dHB1dHMKCiAgICAgICAgc2VsZi5pb3VfdG9rZW4gPSBubi5FbWJlZGRpbmcoMSwgdHJhbnNmb3JtZXJfZGltKQogICAgICAgIHNlbGYubnVtX21hc2tfdG9rZW5zID0gbnVtX211bHRpbWFza19vdXRwdXRzICsgMQogICAgICAgIHNlbGYubWFza190b2tlbnMgPSBubi5FbWJlZGRpbmcoc2VsZi5udW1fbWFza190b2tlbnMsIHRyYW5zZm9ybWVyX2RpbSkKCiAgICAgICAgc2VsZi5vdXRwdXRfdXBzY2FsaW5nID0gbm4uU2VxdWVudGlhbCgKICAgICAgICAgICAgbm4uQ29udlRyYW5zcG9zZTJkKHRyYW5zZm9ybWVyX2RpbSwgdHJhbnNmb3JtZXJfZGltIC8vIDQsIGtlcm5lbF9zaXplPTIsIHN0cmlkZT0yKSwKICAgICAgICAgICAgTGF5ZXJOb3JtMmQodHJhbnNmb3JtZXJfZGltIC8vIDQpLAogICAgICAgICAgICBhY3RpdmF0aW9uKCksCiAgICAgICAgICAgIG5uLkNvbnZUcmFuc3Bvc2UyZCh0cmFuc2Zvcm1lcl9kaW0gLy8gNCwgdHJhbnNmb3JtZXJfZGltIC8vIDgsIGtlcm5lbF9zaXplPTIsIHN0cmlkZT0yKSwKICAgICAgICAgICAgYWN0aXZhdGlvbigpLAogICAgICAgICkKICAgICAgICBzZWxmLm91dHB1dF9oeXBlcm5ldHdvcmtzX21scHMgPSBubi5Nb2R1bGVMaXN0KAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICBNTFAodHJhbnNmb3JtZXJfZGltLCB0cmFuc2Zvcm1lcl9kaW0sIHRyYW5zZm9ybWVyX2RpbSAvLyA4LCAzKQogICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uoc2VsZi5udW1fbWFza190b2tlbnMpCiAgICAgICAgICAgIF0KICAgICAgICApCgogICAgICAgIHNlbGYuaW91X3ByZWRpY3Rpb25faGVhZCA9IE1MUCgKICAgICAgICAgICAgdHJhbnNmb3JtZXJfZGltLCBpb3VfaGVhZF9oaWRkZW5fZGltLCBzZWxmLm51bV9tYXNrX3Rva2VucywgaW91X2hlYWRfZGVwdGgKICAgICAgICApCgogICAgZGVmIGZvcndhcmQoCiAgICAgICAgc2VsZiwKICAgICAgICBpbWFnZV9lbWJlZGRpbmdzOiB0b3JjaC5UZW5zb3IsCiAgICAgICAgIyBwYXRjaF9lbWJlZGRpbmdzOiB0b3JjaC5UZW5zb3IsCiAgICAgICAgaW1hZ2VfcGU6IHRvcmNoLlRlbnNvciwKICAgICAgICBzcGFyc2VfcHJvbXB0X2VtYmVkZGluZ3M6IHRvcmNoLlRlbnNvciwKICAgICAgICBkZW5zZV9wcm9tcHRfZW1iZWRkaW5nczogdG9yY2guVGVuc29yLAogICAgICAgIG11bHRpbWFza19vdXRwdXQ6IGJvb2wgPSBOb25lLAogICAgKSAtPiBUdXBsZVt0b3JjaC5UZW5zb3IsIHRvcmNoLlRlbnNvcl06CiAgICAgICAgIiIiCiAgICAgICAgUHJlZGljdCBtYXNrcyBnaXZlbiBpbWFnZSBhbmQgcHJvbXB0IGVtYmVkZGluZ3MuCgogICAgICAgIEFyZ3VtZW50czoKICAgICAgICAgIGltYWdlX2VtYmVkZGluZ3MgKHRvcmNoLlRlbnNvcik6IHRoZSBlbWJlZGRpbmdzIGZyb20gdGhlIGltYWdlIGVuY29kZXIKICAgICAgICAgIGltYWdlX3BlICh0b3JjaC5UZW5zb3IpOiBwb3NpdGlvbmFsIGVuY29kaW5nIHdpdGggdGhlIHNoYXBlIG9mIGltYWdlX2VtYmVkZGluZ3MKICAgICAgICAgIHNwYXJzZV9wcm9tcHRfZW1iZWRkaW5ncyAodG9yY2guVGVuc29yKTogdGhlIGVtYmVkZGluZ3Mgb2YgdGhlIHBvaW50cyBhbmQgYm94ZXMKICAgICAgICAgIGRlbnNlX3Byb21wdF9lbWJlZGRpbmdzICh0b3JjaC5UZW5zb3IpOiB0aGUgZW1iZWRkaW5ncyBvZiB0aGUgbWFzayBpbnB1dHMKICAgICAgICAgIG11bHRpbWFza19vdXRwdXQgKGJvb2wpOiBXaGV0aGVyIHRvIHJldHVybiBtdWx0aXBsZSBtYXNrcyBvciBhIHNpbmdsZQogICAgICAgICAgICBtYXNrLgoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgdG9yY2guVGVuc29yOiBiYXRjaGVkIHByZWRpY3RlZCBtYXNrcwogICAgICAgICAgdG9yY2guVGVuc29yOiBiYXRjaGVkIHByZWRpY3Rpb25zIG9mIG1hc2sgcXVhbGl0eQogICAgICAgICIiIgogICAgICAgIG1hc2tzLCBpb3VfcHJlZCA9IHNlbGYucHJlZGljdF9tYXNrcygKICAgICAgICAgICAgaW1hZ2VfZW1iZWRkaW5ncz1pbWFnZV9lbWJlZGRpbmdzLAogICAgICAgICAgICAjIHBhdGNoX2VtYmVkZGluZ3M9cGF0Y2hfZW1iZWRkaW5ncywKICAgICAgICAgICAgaW1hZ2VfcGU9aW1hZ2VfcGUsCiAgICAgICAgICAgIHNwYXJzZV9wcm9tcHRfZW1iZWRkaW5ncz1zcGFyc2VfcHJvbXB0X2VtYmVkZGluZ3MsCiAgICAgICAgICAgIGRlbnNlX3Byb21wdF9lbWJlZGRpbmdzPWRlbnNlX3Byb21wdF9lbWJlZGRpbmdzLAogICAgICAgICkKCiAgICAgICAgIyBTZWxlY3QgdGhlIGNvcnJlY3QgbWFzayBvciBtYXNrcyBmb3Igb3V0cHR1CiAgICAgICAgaWYgbXVsdGltYXNrX291dHB1dDoKICAgICAgICAgICAgbWFza19zbGljZSA9IHNsaWNlKDEsIE5vbmUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbWFza19zbGljZSA9IHNsaWNlKDAsIDEpCiAgICAgICAgbWFza3MgPSBtYXNrc1s6LCBtYXNrX3NsaWNlLCA6LCA6XQogICAgICAgIGlvdV9wcmVkID0gaW91X3ByZWRbOiwgbWFza19zbGljZV0KCiAgICAgICAgIyBQcmVwYXJlIG91dHB1dAogICAgICAgIHJldHVybiBtYXNrcywgaW91X3ByZWQKCiAgICBkZWYgcHJlZGljdF9tYXNrcygKICAgICAgICBzZWxmLAogICAgICAgIGltYWdlX2VtYmVkZGluZ3M6IHRvcmNoLlRlbnNvciwKICAgICAgICAjIHBhdGNoX2VtYmVkZGluZ3M6IHRvcmNoLlRlbnNvciwKICAgICAgICBpbWFnZV9wZTogdG9yY2guVGVuc29yLAogICAgICAgIHNwYXJzZV9wcm9tcHRfZW1iZWRkaW5nczogdG9yY2guVGVuc29yLAogICAgICAgIGRlbnNlX3Byb21wdF9lbWJlZGRpbmdzOiB0b3JjaC5UZW5zb3IsCiAgICApIC0+IFR1cGxlW3RvcmNoLlRlbnNvciwgdG9yY2guVGVuc29yXToKICAgICAgICAiIiJQcmVkaWN0cyBtYXNrcy4gU2VlICdmb3J3YXJkJyBmb3IgbW9yZSBkZXRhaWxzLiIiIgogICAgICAgICMgQ29uY2F0ZW5hdGUgb3V0cHV0IHRva2VucwogICAgICAgIG91dHB1dF90b2tlbnMgPSB0b3JjaC5jYXQoW3NlbGYuaW91X3Rva2VuLndlaWdodCwgc2VsZi5tYXNrX3Rva2Vucy53ZWlnaHRdLCBkaW09MCkKICAgICAgICBvdXRwdXRfdG9rZW5zID0gb3V0cHV0X3Rva2Vucy51bnNxdWVlemUoMCkuZXhwYW5kKHNwYXJzZV9wcm9tcHRfZW1iZWRkaW5ncy5zaXplKDApLCAtMSwgLTEpCiAgICAgICAgdG9rZW5zID0gdG9yY2guY2F0KChvdXRwdXRfdG9rZW5zLCBzcGFyc2VfcHJvbXB0X2VtYmVkZGluZ3MpLCBkaW09MSkKCiAgICAgICAgIyBFeHBhbmQgcGVyLWltYWdlIGRhdGEgaW4gYmF0Y2ggZGlyZWN0aW9uIHRvIGJlIHBlci1tYXNrCiAgICAgICAgc3JjID0gdG9yY2gucmVwZWF0X2ludGVybGVhdmUoaW1hZ2VfZW1iZWRkaW5ncywgdG9rZW5zLnNoYXBlWzBdLCBkaW09MCkKICAgICAgICBzcmMgPSBzcmMgKyBkZW5zZV9wcm9tcHRfZW1iZWRkaW5ncwogICAgICAgIHBvc19zcmMgPSB0b3JjaC5yZXBlYXRfaW50ZXJsZWF2ZShpbWFnZV9wZSwgdG9rZW5zLnNoYXBlWzBdLCBkaW09MCkKICAgICAgICBiLCBjLCBoLCB3ID0gc3JjLnNoYXBlCgogICAgICAgICMgUnVuIHRoZSB0cmFuc2Zvcm1lcgogICAgICAgIGhzLCBzcmMgPSBzZWxmLnRyYW5zZm9ybWVyKHNyYywgcG9zX3NyYywgdG9rZW5zKQogICAgICAgIGlvdV90b2tlbl9vdXQgPSBoc1s6LCAwLCA6XQogICAgICAgIG1hc2tfdG9rZW5zX291dCA9IGhzWzosIDE6ICgxICsgc2VsZi5udW1fbWFza190b2tlbnMpLCA6XQoKICAgICAgICAjIFVwc2NhbGUgbWFzayBlbWJlZGRpbmdzIGFuZCBwcmVkaWN0IG1hc2tzIHVzaW5nIHRoZSBtYXNrIHRva2VucwogICAgICAgIHNyYyA9IHNyYy50cmFuc3Bvc2UoMSwgMikudmlldyhiLCBjLCBoLCB3KQogICAgICAgIHVwc2NhbGVkX2VtYmVkZGluZyA9IHNlbGYub3V0cHV0X3Vwc2NhbGluZyhzcmMpCiAgICAgICAgaHlwZXJfaW5fbGlzdDogTGlzdFt0b3JjaC5UZW5zb3JdID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm51bV9tYXNrX3Rva2Vucyk6CiAgICAgICAgICAgIGh5cGVyX2luX2xpc3QuYXBwZW5kKHNlbGYub3V0cHV0X2h5cGVybmV0d29ya3NfbWxwc1tpXShtYXNrX3Rva2Vuc19vdXRbOiwgaSwgOl0pKQogICAgICAgIGh5cGVyX2luID0gdG9yY2guc3RhY2soaHlwZXJfaW5fbGlzdCwgZGltPTEpCiAgICAgICAgYiwgYywgaCwgdyA9IHVwc2NhbGVkX2VtYmVkZGluZy5zaGFwZQogICAgICAgIG1hc2tzID0gKGh5cGVyX2luIEAgdXBzY2FsZWRfZW1iZWRkaW5nLnZpZXcoYiwgYywgaCAqIHcpKS52aWV3KGIsIC0xLCBoLCB3KQoKICAgICAgICAjIEdlbmVyYXRlIG1hc2sgcXVhbGl0eSBwcmVkaWN0aW9ucwogICAgICAgIGlvdV9wcmVkID0gc2VsZi5pb3VfcHJlZGljdGlvbl9oZWFkKGlvdV90b2tlbl9vdXQpCgogICAgICAgIHJldHVybiBtYXNrcywgaW91X3ByZWQKCgojIExpZ2h0bHkgYWRhcHRlZCBmcm9tCiMgaHR0cHM6Ly9naXRodWIuY29tL2ZhY2Vib29rcmVzZWFyY2gvTWFza0Zvcm1lci9ibG9iL21haW4vbWFza19mb3JtZXIvbW9kZWxpbmcvdHJhbnNmb3JtZXIvdHJhbnNmb3JtZXJfcHJlZGljdG9yLnB5ICMgbm9xYQpjbGFzcyBNTFAobm4uTW9kdWxlKToKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIGlucHV0X2RpbTogaW50LAogICAgICAgIGhpZGRlbl9kaW06IGludCwKICAgICAgICBvdXRwdXRfZGltOiBpbnQsCiAgICAgICAgbnVtX2xheWVyczogaW50LAogICAgICAgIHNpZ21vaWRfb3V0cHV0OiBib29sID0gRmFsc2UsCiAgICApIC0+IE5vbmU6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygpCiAgICAgICAgc2VsZi5udW1fbGF5ZXJzID0gbnVtX2xheWVycwogICAgICAgIGggPSBbaGlkZGVuX2RpbV0gKiAobnVtX2xheWVycyAtIDEpCiAgICAgICAgc2VsZi5sYXllcnMgPSBubi5Nb2R1bGVMaXN0KAogICAgICAgICAgICBubi5MaW5lYXIobiwgaykgZm9yIG4sIGsgaW4gemlwKFtpbnB1dF9kaW1dICsgaCwgaCArIFtvdXRwdXRfZGltXSkKICAgICAgICApCiAgICAgICAgc2VsZi5zaWdtb2lkX291dHB1dCA9IHNpZ21vaWRfb3V0cHV0CgogICAgZGVmIGZvcndhcmQoc2VsZiwgeCk6CiAgICAgICAgZm9yIGksIGxheWVyIGluIGVudW1lcmF0ZShzZWxmLmxheWVycyk6CiAgICAgICAgICAgIHggPSBGLnJlbHUobGF5ZXIoeCkpIGlmIGkgPCBzZWxmLm51bV9sYXllcnMgLSAxIGVsc2UgbGF5ZXIoeCkKICAgICAgICBpZiBzZWxmLnNpZ21vaWRfb3V0cHV0OgogICAgICAgICAgICB4ID0gRi5zaWdtb2lkKHgpCiAgICAgICAgcmV0dXJuIHgK
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# All rights reserved.
+
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+
+import torch
+from torch import nn
+from torch.nn import functional as F
+
+from typing import List, Tuple, Type
+
+from .common import LayerNorm2d
+
+
+class MaskDecoder(nn.Module):
+    def __init__(
+        self,
+        *,
+        transformer_dim: int,
+        transformer: nn.Module,
+        num_multimask_outputs: int = 3,
+        activation: Type[nn.Module] = nn.GELU,
+        iou_head_depth: int = 3,
+        iou_head_hidden_dim: int = 256,
+    ) -> None:
+        """
+        Predicts masks given an image and prompt embeddings, using a
+        tranformer architecture.
+
+        Arguments:
+          transformer_dim (int): the channel dimension of the transformer
+          transformer (nn.Module): the transformer used to predict masks
+          num_multimask_outputs (int): the number of masks to predict
+            when disambiguating masks
+          activation (nn.Module): the type of activation to use when
+            upscaling masks
+          iou_head_depth (int): the depth of the MLP used to predict
+            mask quality
+          iou_head_hidden_dim (int): the hidden dimension of the MLP
+            used to predict mask quality
+        """
+        super().__init__()
+        self.transformer_dim = transformer_dim
+        self.transformer = transformer
+
+        self.num_multimask_outputs = num_multimask_outputs
+
+        self.iou_token = nn.Embedding(1, transformer_dim)
+        self.num_mask_tokens = num_multimask_outputs + 1
+        self.mask_tokens = nn.Embedding(self.num_mask_tokens, transformer_dim)
+
+        self.output_upscaling = nn.Sequential(
+            nn.ConvTranspose2d(transformer_dim, transformer_dim // 4, kernel_size=2, stride=2),
+            LayerNorm2d(transformer_dim // 4),
+            activation(),
+            nn.ConvTranspose2d(transformer_dim // 4, transformer_dim // 8, kernel_size=2, stride=2),
+            activation(),
+        )
+        self.output_hypernetworks_mlps = nn.ModuleList(
+            [
+                MLP(transformer_dim, transformer_dim, transformer_dim // 8, 3)
+                for i in range(self.num_mask_tokens)
+            ]
+        )
+
+        self.iou_prediction_head = MLP(
+            transformer_dim, iou_head_hidden_dim, self.num_mask_tokens, iou_head_depth
+        )
+
+    def forward(
+        self,
+        image_embeddings: torch.Tensor,
+        # patch_embeddings: torch.Tensor,
+        image_pe: torch.Tensor,
+        sparse_prompt_embeddings: torch.Tensor,
+        dense_prompt_embeddings: torch.Tensor,
+        multimask_output: bool = None,
+    ) -> Tuple[torch.Tensor, torch.Tensor]:
+        """
+        Predict masks given image and prompt embeddings.
+
+        Arguments:
+          image_embeddings (torch.Tensor): the embeddings from the image encoder
+          image_pe (torch.Tensor): positional encoding with the shape of image_embeddings
+          sparse_prompt_embeddings (torch.Tensor): the embeddings of the points and boxes
+          dense_prompt_embeddings (torch.Tensor): the embeddings of the mask inputs
+          multimask_output (bool): Whether to return multiple masks or a single
+            mask.
+
+        Returns:
+          torch.Tensor: batched predicted masks
+          torch.Tensor: batched predictions of mask quality
+        """
+        masks, iou_pred = self.predict_masks(
+            image_embeddings=image_embeddings,
+            # patch_embeddings=patch_embeddings,
+            image_pe=image_pe,
+            sparse_prompt_embeddings=sparse_prompt_embeddings,
+            dense_prompt_embeddings=dense_prompt_embeddings,
+        )
+
+        # Select the correct mask or masks for outptu
+        if multimask_output:
+            mask_slice = slice(1, None)
+        else:
+            mask_slice = slice(0, 1)
+        masks = masks[:, mask_slice, :, :]
+        iou_pred = iou_pred[:, mask_slice]
+
+        # Prepare output
+        return masks, iou_pred
+
+    def predict_masks(
+        self,
+        image_embeddings: torch.Tensor,
+        # patch_embeddings: torch.Tensor,
+        image_pe: torch.Tensor,
+        sparse_prompt_embeddings: torch.Tensor,
+        dense_prompt_embeddings: torch.Tensor,
+    ) -> Tuple[torch.Tensor, torch.Tensor]:
+        """Predicts masks. See 'forward' for more details."""
+        # Concatenate output tokens
+        output_tokens = torch.cat([self.iou_token.weight, self.mask_tokens.weight], dim=0)
+        output_tokens = output_tokens.unsqueeze(0).expand(sparse_prompt_embeddings.size(0), -1, -1)
+        tokens = torch.cat((output_tokens, sparse_prompt_embeddings), dim=1)
+
+        # Expand per-image data in batch direction to be per-mask
+        src = torch.repeat_interleave(image_embeddings, tokens.shape[0], dim=0)
+        src = src + dense_prompt_embeddings
+        pos_src = torch.repeat_interleave(image_pe, tokens.shape[0], dim=0)
+        b, c, h, w = src.shape
+
+        # Run the transformer
+        hs, src = self.transformer(src, pos_src, tokens)
+        iou_token_out = hs[:, 0, :]
+        mask_tokens_out = hs[:, 1: (1 + self.num_mask_tokens), :]
+
+        # Upscale mask embeddings and predict masks using the mask tokens
+        src = src.transpose(1, 2).view(b, c, h, w)
+        upscaled_embedding = self.output_upscaling(src)
+        hyper_in_list: List[torch.Tensor] = []
+        for i in range(self.num_mask_tokens):
+            hyper_in_list.append(self.output_hypernetworks_mlps[i](mask_tokens_out[:, i, :]))
+        hyper_in = torch.stack(hyper_in_list, dim=1)
+        b, c, h, w = upscaled_embedding.shape
+        masks = (hyper_in @ upscaled_embedding.view(b, c, h * w)).view(b, -1, h, w)
+
+        # Generate mask quality predictions
+        iou_pred = self.iou_prediction_head(iou_token_out)
+
+        return masks, iou_pred
+
+
+# Lightly adapted from
+# https://github.com/facebookresearch/MaskFormer/blob/main/mask_former/modeling/transformer/transformer_predictor.py # noqa
+class MLP(nn.Module):
+    def __init__(
+        self,
+        input_dim: int,
+        hidden_dim: int,
+        output_dim: int,
+        num_layers: int,
+        sigmoid_output: bool = False,
+    ) -> None:
+        super().__init__()
+        self.num_layers = num_layers
+        h = [hidden_dim] * (num_layers - 1)
+        self.layers = nn.ModuleList(
+            nn.Linear(n, k) for n, k in zip([input_dim] + h, h + [output_dim])
+        )
+        self.sigmoid_output = sigmoid_output
+
+    def forward(self, x):
+        for i, layer in enumerate(self.layers):
+            x = F.relu(layer(x)) if i < self.num_layers - 1 else layer(x)
+        if self.sigmoid_output:
+            x = F.sigmoid(x)
+        return x

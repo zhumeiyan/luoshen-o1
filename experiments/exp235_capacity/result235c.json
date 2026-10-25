@@ -1,1 +1,112 @@
-ewogImNhcD0yIjogewogICJwcmUiOiAxLjAsCiAgInBvc3QiOiAxLjAsCiAgInJ1bGUiOiAwLjk5MgogfSwKICJjYXA9NSI6IHsKICAicHJlIjogMS4wLAogICJwb3N0IjogMS4wLAogICJydWxlIjogMC45NzcKIH0sCiAiY2FwPTEwIjogewogICJwcmUiOiAxLjAsCiAgInBvc3QiOiAxLjAsCiAgInJ1bGUiOiAwLjk1MgogfSwKICJjYXA9MjAiOiB7CiAgInByZSI6IDEuMCwKICAicG9zdCI6IDEuMCwKICAicnVsZSI6IDAuOTAyCiB9LAogImNhcD01MCI6IHsKICAicHJlIjogMS4wLAogICJwb3N0IjogMS4wLAogICJydWxlIjogMC43NTIKIH0sCiAiY2FwPTEwMCI6IHsKICAicHJlIjogMS4wLAogICJwb3N0IjogMC45NjIsCiAgInJ1bGUiOiAwLjUwMgogfSwKICJjYXA9NTAwIjogewogICJwcmUiOiAxLjAsCiAgInBvc3QiOiAwLjE2NywKICAicnVsZSI6IDAuMAogfSwKICJjYXA9NTAwMCI6IHsKICAicHJlIjogMS4wLAogICJwb3N0IjogMC4xNjcsCiAgInJ1bGUiOiAwLjAKIH0sCiAicGVyc2lzdD0xLjAwMDAiOiB7CiAgInByZSI6IDEuMCwKICAicG9zdCI6IDEuMCwKICAicnVsZSI6IDAuOTAyCiB9LAogInBlcnNpc3Q9MC45OTkwIjogewogICJwcmUiOiAxLjAsCiAgInBvc3QiOiAxLjAsCiAgInJ1bGUiOiAwLjkwMQogfSwKICJwZXJzaXN0PTAuOTk4MCI6IHsKICAicHJlIjogMS4wLAogICJwb3N0IjogMS4wLAogICJydWxlIjogMC44OTgKIH0sCiAicGVyc2lzdD0wLjk5NzAiOiB7CiAgInByZSI6IDEuMCwKICAicG9zdCI6IDEuMCwKICAicnVsZSI6IDAuODk2CiB9LAogInBlcnNpc3Q9MC45OTUwIjogewogICJwcmUiOiAxLjAsCiAgInBvc3QiOiAxLjAsCiAgInJ1bGUiOiAwLjg5MQogfSwKICJwZXJzaXN0PTAuOTkwMCI6IHsKICAicHJlIjogMS4wLAogICJwb3N0IjogMS4wLAogICJydWxlIjogMC44NzIKIH0sCiAicGVyc2lzdD0wLjk4MDAiOiB7CiAgInByZSI6IDEuMCwKICAicG9zdCI6IDAuOTgsCiAgInJ1bGUiOiAwLjYzCiB9LAogInBlcnNpc3Q9MC45NzAwIjogewogICJwcmUiOiAwLjk5OSwKICAicG9zdCI6IDAuNTM0LAogICJydWxlIjogMC4yOTQKIH0sCiAicGVyc2lzdD0wLjk2MDAiOiB7CiAgInByZSI6IDAuOTk2LAogICJwb3N0IjogMC4zMDksCiAgInJ1bGUiOiAwLjExNQogfSwKICJwZXJzaXN0PTAuOTUwMCI6IHsKICAicHJlIjogMC45OSwKICAicG9zdCI6IDAuMTY3LAogICJydWxlIjogMC4wCiB9LAogInBlcnNpc3Q9MC45MDAwIjogewogICJwcmUiOiAwLjYzOSwKICAicG9zdCI6IDAuMDgzLAogICJydWxlIjogMC4wCiB9LAogIuaIkTrlt6jlpKflrrnph48r6auY6YCfK+aMgeS5hSI6IHsKICAicHJlIjogMS4wLAogICJwb3N0IjogMC45NjEsCiAgInJ1bGUiOiAwLjUwMQogfSwKICLmiJE65beo5aSn5a656YePK+mrmOmAnyvlvZLpm7YiOiB7CiAgInByZSI6IDAuMDQxLAogICJwb3N0IjogMC4wMDIsCiAgInJ1bGUiOiAwLjAKIH0sCiAi5Lq6OuWwj+WuuemHjyvmhaIr5oyB5LmFIjogewogICJwcmUiOiAxLjAsCiAgInBvc3QiOiAxLjAsCiAgInJ1bGUiOiAwLjY3MwogfQp9
+{
+ "cap=2": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.992
+ },
+ "cap=5": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.977
+ },
+ "cap=10": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.952
+ },
+ "cap=20": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.902
+ },
+ "cap=50": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.752
+ },
+ "cap=100": {
+  "pre": 1.0,
+  "post": 0.962,
+  "rule": 0.502
+ },
+ "cap=500": {
+  "pre": 1.0,
+  "post": 0.167,
+  "rule": 0.0
+ },
+ "cap=5000": {
+  "pre": 1.0,
+  "post": 0.167,
+  "rule": 0.0
+ },
+ "persist=1.0000": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.902
+ },
+ "persist=0.9990": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.901
+ },
+ "persist=0.9980": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.898
+ },
+ "persist=0.9970": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.896
+ },
+ "persist=0.9950": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.891
+ },
+ "persist=0.9900": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.872
+ },
+ "persist=0.9800": {
+  "pre": 1.0,
+  "post": 0.98,
+  "rule": 0.63
+ },
+ "persist=0.9700": {
+  "pre": 0.999,
+  "post": 0.534,
+  "rule": 0.294
+ },
+ "persist=0.9600": {
+  "pre": 0.996,
+  "post": 0.309,
+  "rule": 0.115
+ },
+ "persist=0.9500": {
+  "pre": 0.99,
+  "post": 0.167,
+  "rule": 0.0
+ },
+ "persist=0.9000": {
+  "pre": 0.639,
+  "post": 0.083,
+  "rule": 0.0
+ },
+ "我:巨大容量+高速+持久": {
+  "pre": 1.0,
+  "post": 0.961,
+  "rule": 0.501
+ },
+ "我:巨大容量+高速+归零": {
+  "pre": 0.041,
+  "post": 0.002,
+  "rule": 0.0
+ },
+ "人:小容量+慢+持久": {
+  "pre": 1.0,
+  "post": 1.0,
+  "rule": 0.673
+ }
+}

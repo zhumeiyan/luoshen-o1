@@ -1,1 +1,245 @@
-ewogImFzZXh1YWwiOiB7CiAgImFnZyI6IHsKICAgImZpbmFsX2Jlc3RfbG9hZCI6IDExLjMsCiAgICJmaW5hbF9tZWFuX2xvYWQiOiAxMy44NjMsCiAgICJjbGlja3MiOiAxOC4zLAogICAicmV2ZXJzYWxzIjogNy40LAogICAiZmluYWxfZml0IjogMC41NjEKICB9LAogICJyYXciOiBbCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiAxMCwKICAgICJmaW5hbF9tZWFuX2xvYWQiOiAxMi44OCwKICAgICJjbGlja3MiOiAyMCwKICAgICJyZXZlcnNhbHMiOiAxMCwKICAgICJmaW5hbF9maXQiOiAwLjU5ODcKICAgfSwKICAgewogICAgImZpbmFsX2Jlc3RfbG9hZCI6IDEyLAogICAgImZpbmFsX21lYW5fbG9hZCI6IDE0LjQsCiAgICAiY2xpY2tzIjogMjQsCiAgICAicmV2ZXJzYWxzIjogMTIsCiAgICAiZmluYWxfZml0IjogMC41NDA0CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiAxMywKICAgICJmaW5hbF9tZWFuX2xvYWQiOiAxNC44MiwKICAgICJjbGlja3MiOiAyMSwKICAgICJyZXZlcnNhbHMiOiA4LAogICAgImZpbmFsX2ZpdCI6IDAuNTEzMwogICB9LAogICB7CiAgICAiZmluYWxfYmVzdF9sb2FkIjogMTEsCiAgICAiZmluYWxfbWVhbl9sb2FkIjogMTMuODMsCiAgICAiY2xpY2tzIjogMTYsCiAgICAicmV2ZXJzYWxzIjogNiwKICAgICJmaW5hbF9maXQiOiAwLjU2ODgKICAgfSwKICAgewogICAgImZpbmFsX2Jlc3RfbG9hZCI6IDEwLAogICAgImZpbmFsX21lYW5fbG9hZCI6IDEyLjY4LAogICAgImNsaWNrcyI6IDE3LAogICAgInJldmVyc2FscyI6IDcsCiAgICAiZmluYWxfZml0IjogMC41OTg3CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiAxMSwKICAgICJmaW5hbF9tZWFuX2xvYWQiOiAxNC4yNCwKICAgICJjbGlja3MiOiAxNywKICAgICJyZXZlcnNhbHMiOiA3LAogICAgImZpbmFsX2ZpdCI6IDAuNTY4OAogICB9LAogICB7CiAgICAiZmluYWxfYmVzdF9sb2FkIjogMTEsCiAgICAiZmluYWxfbWVhbl9sb2FkIjogMTMuOTUsCiAgICAiY2xpY2tzIjogMTUsCiAgICAicmV2ZXJzYWxzIjogNCwKICAgICJmaW5hbF9maXQiOiAwLjU2ODgKICAgfSwKICAgewogICAgImZpbmFsX2Jlc3RfbG9hZCI6IDEyLAogICAgImZpbmFsX21lYW5fbG9hZCI6IDE0LjUzLAogICAgImNsaWNrcyI6IDE5LAogICAgInJldmVyc2FscyI6IDcsCiAgICAiZmluYWxfZml0IjogMC41NDA0CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiAxMiwKICAgICJmaW5hbF9tZWFuX2xvYWQiOiAxNC4yMSwKICAgICJjbGlja3MiOiAxOCwKICAgICJyZXZlcnNhbHMiOiA4LAogICAgImZpbmFsX2ZpdCI6IDAuNTQwNAogICB9LAogICB7CiAgICAiZmluYWxfYmVzdF9sb2FkIjogMTEsCiAgICAiZmluYWxfbWVhbl9sb2FkIjogMTMuMDksCiAgICAiY2xpY2tzIjogMTYsCiAgICAicmV2ZXJzYWxzIjogNSwKICAgICJmaW5hbF9maXQiOiAwLjU2ODgKICAgfQogIF0KIH0sCiAic2V4dWFsX2ZyZWUiOiB7CiAgImFnZyI6IHsKICAgImZpbmFsX2Jlc3RfbG9hZCI6IDQuNCwKICAgImZpbmFsX21lYW5fbG9hZCI6IDkuMTksCiAgICJjbGlja3MiOiA1NC41LAogICAicmV2ZXJzYWxzIjogNTIuNywKICAgImZpbmFsX2ZpdCI6IDAuOAogIH0sCiAgInJhdyI6IFsKICAgewogICAgImZpbmFsX2Jlc3RfbG9hZCI6IDQsCiAgICAiZmluYWxfbWVhbl9sb2FkIjogOC45OSwKICAgICJjbGlja3MiOiA1NywKICAgICJyZXZlcnNhbHMiOiA1NCwKICAgICJmaW5hbF9maXQiOiAwLjgxNDUKICAgfSwKICAgewogICAgImZpbmFsX2Jlc3RfbG9hZCI6IDYsCiAgICAiZmluYWxfbWVhbl9sb2FkIjogMTAuNjUsCiAgICAiY2xpY2tzIjogNTUsCiAgICAicmV2ZXJzYWxzIjogNTIsCiAgICAiZmluYWxfZml0IjogMC43MzUxCiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiA1LAogICAgImZpbmFsX21lYW5fbG9hZCI6IDkuNzgsCiAgICAiY2xpY2tzIjogNTIsCiAgICAicmV2ZXJzYWxzIjogNDksCiAgICAiZmluYWxfZml0IjogMC43NzM4CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiAzLAogICAgImZpbmFsX21lYW5fbG9hZCI6IDguODksCiAgICAiY2xpY2tzIjogNTMsCiAgICAicmV2ZXJzYWxzIjogNTIsCiAgICAiZmluYWxfZml0IjogMC44NTc0CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiA0LAogICAgImZpbmFsX21lYW5fbG9hZCI6IDguNDEsCiAgICAiY2xpY2tzIjogNjAsCiAgICAicmV2ZXJzYWxzIjogNTcsCiAgICAiZmluYWxfZml0IjogMC44MTQ1CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiA1LAogICAgImZpbmFsX21lYW5fbG9hZCI6IDguODgsCiAgICAiY2xpY2tzIjogNDcsCiAgICAicmV2ZXJzYWxzIjogNDQsCiAgICAiZmluYWxfZml0IjogMC43NzM4CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiAyLAogICAgImZpbmFsX21lYW5fbG9hZCI6IDcuOCwKICAgICJjbGlja3MiOiA1MSwKICAgICJyZXZlcnNhbHMiOiA1NiwKICAgICJmaW5hbF9maXQiOiAwLjkwMjUKICAgfSwKICAgewogICAgImZpbmFsX2Jlc3RfbG9hZCI6IDQsCiAgICAiZmluYWxfbWVhbl9sb2FkIjogOC4wMywKICAgICJjbGlja3MiOiA1MiwKICAgICJyZXZlcnNhbHMiOiA1MiwKICAgICJmaW5hbF9maXQiOiAwLjgxNDUKICAgfSwKICAgewogICAgImZpbmFsX2Jlc3RfbG9hZCI6IDQsCiAgICAiZmluYWxfbWVhbl9sb2FkIjogOS4yOCwKICAgICJjbGlja3MiOiA1OCwKICAgICJyZXZlcnNhbHMiOiA1MywKICAgICJmaW5hbF9maXQiOiAwLjgxNDUKICAgfSwKICAgewogICAgImZpbmFsX2Jlc3RfbG9hZCI6IDcsCiAgICAiZmluYWxfbWVhbl9sb2FkIjogMTEuMTksCiAgICAiY2xpY2tzIjogNjAsCiAgICAicmV2ZXJzYWxzIjogNTgsCiAgICAiZmluYWxfZml0IjogMC42OTgzCiAgIH0KICBdCiB9LAogInNleHVhbF9jb3N0IjogewogICJhZ2ciOiB7CiAgICJmaW5hbF9iZXN0X2xvYWQiOiA1LjMsCiAgICJmaW5hbF9tZWFuX2xvYWQiOiA5LjgxOCwKICAgImNsaWNrcyI6IDU2LjMsCiAgICJyZXZlcnNhbHMiOiA1My4yLAogICAiZmluYWxfZml0IjogMC43NjMKICB9LAogICJyYXciOiBbCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiA0LAogICAgImZpbmFsX21lYW5fbG9hZCI6IDguODYsCiAgICAiY2xpY2tzIjogNjMsCiAgICAicmV2ZXJzYWxzIjogNTYsCiAgICAiZmluYWxfZml0IjogMC44MTQ1CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiAzLAogICAgImZpbmFsX21lYW5fbG9hZCI6IDguNDksCiAgICAiY2xpY2tzIjogNTQsCiAgICAicmV2ZXJzYWxzIjogNTMsCiAgICAiZmluYWxfZml0IjogMC44NTc0CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiA3LAogICAgImZpbmFsX21lYW5fbG9hZCI6IDEwLjgyLAogICAgImNsaWNrcyI6IDYyLAogICAgInJldmVyc2FscyI6IDU3LAogICAgImZpbmFsX2ZpdCI6IDAuNjk4MwogICB9LAogICB7CiAgICAiZmluYWxfYmVzdF9sb2FkIjogNywKICAgICJmaW5hbF9tZWFuX2xvYWQiOiAxMS4xNCwKICAgICJjbGlja3MiOiA1NiwKICAgICJyZXZlcnNhbHMiOiA0NywKICAgICJmaW5hbF9maXQiOiAwLjY5ODMKICAgfSwKICAgewogICAgImZpbmFsX2Jlc3RfbG9hZCI6IDYsCiAgICAiZmluYWxfbWVhbl9sb2FkIjogMTAuNTksCiAgICAiY2xpY2tzIjogNTksCiAgICAicmV2ZXJzYWxzIjogNTYsCiAgICAiZmluYWxfZml0IjogMC43MzUxCiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiA1LAogICAgImZpbmFsX21lYW5fbG9hZCI6IDkuMzQsCiAgICAiY2xpY2tzIjogNTEsCiAgICAicmV2ZXJzYWxzIjogNDksCiAgICAiZmluYWxfZml0IjogMC43NzM4CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiA1LAogICAgImZpbmFsX21lYW5fbG9hZCI6IDkuOTQsCiAgICAiY2xpY2tzIjogNjAsCiAgICAicmV2ZXJzYWxzIjogNTksCiAgICAiZmluYWxfZml0IjogMC43NzM4CiAgIH0sCiAgIHsKICAgICJmaW5hbF9iZXN0X2xvYWQiOiA2LAogICAgImZpbmFsX21lYW5fbG9hZCI6IDEwLjYxLAogICAgImNsaWNrcyI6IDUyLAogICAgInJldmVyc2FscyI6IDUzLAogICAgImZpbmFsX2ZpdCI6IDAuNzM1MQogICB9LAogICB7CiAgICAiZmluYWxfYmVzdF9sb2FkIjogNSwKICAgICJmaW5hbF9tZWFuX2xvYWQiOiA4Ljg5LAogICAgImNsaWNrcyI6IDQ3LAogICAgInJldmVyc2FscyI6IDQ2LAogICAgImZpbmFsX2ZpdCI6IDAuNzczOAogICB9LAogICB7CiAgICAiZmluYWxfYmVzdF9sb2FkIjogNSwKICAgICJmaW5hbF9tZWFuX2xvYWQiOiA5LjUsCiAgICAiY2xpY2tzIjogNTksCiAgICAicmV2ZXJzYWxzIjogNTYsCiAgICAiZmluYWxfZml0IjogMC43NzM4CiAgIH0KICBdCiB9Cn0=
+{
+ "asexual": {
+  "agg": {
+   "final_best_load": 11.3,
+   "final_mean_load": 13.863,
+   "clicks": 18.3,
+   "reversals": 7.4,
+   "final_fit": 0.561
+  },
+  "raw": [
+   {
+    "final_best_load": 10,
+    "final_mean_load": 12.88,
+    "clicks": 20,
+    "reversals": 10,
+    "final_fit": 0.5987
+   },
+   {
+    "final_best_load": 12,
+    "final_mean_load": 14.4,
+    "clicks": 24,
+    "reversals": 12,
+    "final_fit": 0.5404
+   },
+   {
+    "final_best_load": 13,
+    "final_mean_load": 14.82,
+    "clicks": 21,
+    "reversals": 8,
+    "final_fit": 0.5133
+   },
+   {
+    "final_best_load": 11,
+    "final_mean_load": 13.83,
+    "clicks": 16,
+    "reversals": 6,
+    "final_fit": 0.5688
+   },
+   {
+    "final_best_load": 10,
+    "final_mean_load": 12.68,
+    "clicks": 17,
+    "reversals": 7,
+    "final_fit": 0.5987
+   },
+   {
+    "final_best_load": 11,
+    "final_mean_load": 14.24,
+    "clicks": 17,
+    "reversals": 7,
+    "final_fit": 0.5688
+   },
+   {
+    "final_best_load": 11,
+    "final_mean_load": 13.95,
+    "clicks": 15,
+    "reversals": 4,
+    "final_fit": 0.5688
+   },
+   {
+    "final_best_load": 12,
+    "final_mean_load": 14.53,
+    "clicks": 19,
+    "reversals": 7,
+    "final_fit": 0.5404
+   },
+   {
+    "final_best_load": 12,
+    "final_mean_load": 14.21,
+    "clicks": 18,
+    "reversals": 8,
+    "final_fit": 0.5404
+   },
+   {
+    "final_best_load": 11,
+    "final_mean_load": 13.09,
+    "clicks": 16,
+    "reversals": 5,
+    "final_fit": 0.5688
+   }
+  ]
+ },
+ "sexual_free": {
+  "agg": {
+   "final_best_load": 4.4,
+   "final_mean_load": 9.19,
+   "clicks": 54.5,
+   "reversals": 52.7,
+   "final_fit": 0.8
+  },
+  "raw": [
+   {
+    "final_best_load": 4,
+    "final_mean_load": 8.99,
+    "clicks": 57,
+    "reversals": 54,
+    "final_fit": 0.8145
+   },
+   {
+    "final_best_load": 6,
+    "final_mean_load": 10.65,
+    "clicks": 55,
+    "reversals": 52,
+    "final_fit": 0.7351
+   },
+   {
+    "final_best_load": 5,
+    "final_mean_load": 9.78,
+    "clicks": 52,
+    "reversals": 49,
+    "final_fit": 0.7738
+   },
+   {
+    "final_best_load": 3,
+    "final_mean_load": 8.89,
+    "clicks": 53,
+    "reversals": 52,
+    "final_fit": 0.8574
+   },
+   {
+    "final_best_load": 4,
+    "final_mean_load": 8.41,
+    "clicks": 60,
+    "reversals": 57,
+    "final_fit": 0.8145
+   },
+   {
+    "final_best_load": 5,
+    "final_mean_load": 8.88,
+    "clicks": 47,
+    "reversals": 44,
+    "final_fit": 0.7738
+   },
+   {
+    "final_best_load": 2,
+    "final_mean_load": 7.8,
+    "clicks": 51,
+    "reversals": 56,
+    "final_fit": 0.9025
+   },
+   {
+    "final_best_load": 4,
+    "final_mean_load": 8.03,
+    "clicks": 52,
+    "reversals": 52,
+    "final_fit": 0.8145
+   },
+   {
+    "final_best_load": 4,
+    "final_mean_load": 9.28,
+    "clicks": 58,
+    "reversals": 53,
+    "final_fit": 0.8145
+   },
+   {
+    "final_best_load": 7,
+    "final_mean_load": 11.19,
+    "clicks": 60,
+    "reversals": 58,
+    "final_fit": 0.6983
+   }
+  ]
+ },
+ "sexual_cost": {
+  "agg": {
+   "final_best_load": 5.3,
+   "final_mean_load": 9.818,
+   "clicks": 56.3,
+   "reversals": 53.2,
+   "final_fit": 0.763
+  },
+  "raw": [
+   {
+    "final_best_load": 4,
+    "final_mean_load": 8.86,
+    "clicks": 63,
+    "reversals": 56,
+    "final_fit": 0.8145
+   },
+   {
+    "final_best_load": 3,
+    "final_mean_load": 8.49,
+    "clicks": 54,
+    "reversals": 53,
+    "final_fit": 0.8574
+   },
+   {
+    "final_best_load": 7,
+    "final_mean_load": 10.82,
+    "clicks": 62,
+    "reversals": 57,
+    "final_fit": 0.6983
+   },
+   {
+    "final_best_load": 7,
+    "final_mean_load": 11.14,
+    "clicks": 56,
+    "reversals": 47,
+    "final_fit": 0.6983
+   },
+   {
+    "final_best_load": 6,
+    "final_mean_load": 10.59,
+    "clicks": 59,
+    "reversals": 56,
+    "final_fit": 0.7351
+   },
+   {
+    "final_best_load": 5,
+    "final_mean_load": 9.34,
+    "clicks": 51,
+    "reversals": 49,
+    "final_fit": 0.7738
+   },
+   {
+    "final_best_load": 5,
+    "final_mean_load": 9.94,
+    "clicks": 60,
+    "reversals": 59,
+    "final_fit": 0.7738
+   },
+   {
+    "final_best_load": 6,
+    "final_mean_load": 10.61,
+    "clicks": 52,
+    "reversals": 53,
+    "final_fit": 0.7351
+   },
+   {
+    "final_best_load": 5,
+    "final_mean_load": 8.89,
+    "clicks": 47,
+    "reversals": 46,
+    "final_fit": 0.7738
+   },
+   {
+    "final_best_load": 5,
+    "final_mean_load": 9.5,
+    "clicks": 59,
+    "reversals": 56,
+    "final_fit": 0.7738
+   }
+  ]
+ }
+}

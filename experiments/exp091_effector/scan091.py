@@ -1,1 +1,48 @@
-aW1wb3J0IG51bXB5IGFzIG5wLCBqc29uCmZyb20gb3B0aWNhbF9tb3VzZTIgaW1wb3J0ICoKCmRlZiBiYXRjaF9ldGEoZXRhLCB0ZXg9MC4wMiwgbj0zMCwgbm9pc2VfZmxvb3I9MC4wMSwgbGVkPTEuMCwgZ2xhcmU9MC4wLCBzaGlmdD0oMywyKSk6CiAgICAiIiLnm7TmjqXmjqfliLYgZXRhIOWBmuWJgumHj+WPjeW6lO+8iOiEseemu+WFt+WQjeihqOmdou+8iSIiIgogICAgcCA9IGRpY3QoZXRhPWV0YSwgZ2xhcmU9Z2xhcmUsIHRleD10ZXgpCiAgICBybmcwID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCiAgICBzdXJmID0gbnAuY2xpcChybmcwLm5vcm1hbCgwLjUsIHRleCwgKDE2MCwxNjApKSwgMCwgMSkKICAgIG9rcz1bXTsgcGVha3M9W10KICAgIGZvciBzIGluIHJhbmdlKG4pOgogICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzKzk5OSkKICAgICAgICBmMCxfID0gY21vc19mcmFtZShzdXJmLHAsNjAsNjAsMTgsbGVkLG5vaXNlX2Zsb29yLHJuZykKICAgICAgICBmMSxfID0gY21vc19mcmFtZShzdXJmLHAsNjArc2hpZnRbMF0sNjArc2hpZnRbMV0sMTgsbGVkLG5vaXNlX2Zsb29yLHJuZykKICAgICAgICBpbWcscGVhayA9IGVzdGltYXRlX3NoaWZ0KGYwLGYxKQogICAgICAgIHBlYWtzLmFwcGVuZChwZWFrKQogICAgICAgIGlmIGltZyBpcyBOb25lOiBva3MuYXBwZW5kKEZhbHNlKTsgY29udGludWUKICAgICAgICBva3MuYXBwZW5kKCgtaW1nWzBdLC1pbWdbMV0pPT1zaGlmdCkKICAgIHJldHVybiBkaWN0KGV0YT1ldGEsIGFjYz1mbG9hdChucC5tZWFuKG9rcykpLCBwZWFrPWZsb2F0KG5wLm1lYW4ocGVha3MpKSkKCmRlZiBzaGlmdF9zY2FuKGtpbmQ9J3BhZCcsIG1heGQ9MTQsIG49MjUpOgogICAgb3V0PVtdCiAgICBmb3IgZCBpbiByYW5nZSgwLCBtYXhkKzEpOgogICAgICAgIHIgPSBiYXRjaChraW5kLCAoZCwgbWF4KDAsZC8vMikpLCBuPW4pCiAgICAgICAgb3V0LmFwcGVuZChkaWN0KGQ9ZCwgYWNjPXJbJ2FjYyddLCBlcnI9clsnZXJyJ10sIHBlYWs9clsncGVhayddKSkKICAgIHJldHVybiBvdXQKCmRlZiBsZWRfcmVzY3VlKGtpbmQ9J2dsYXNzJywgbGVkcz0oMSwyLDQsOCwxNiwzMiksIG49MzApOgogICAgb3V0PVtdCiAgICBmb3IgTCBpbiBsZWRzOgogICAgICAgIHIgPSBiYXRjaChraW5kLCAoMywyKSwgbj1uLCBsZWQ9TCkKICAgICAgICBvdXQuYXBwZW5kKGRpY3QobGVkPUwsIGFjYz1yWydhY2MnXSwgcGVhaz1yWydwZWFrJ10sIHNhdD1yWydzYXQnXSkpCiAgICByZXR1cm4gb3V0CgppZiBfX25hbWVfXz09J19fbWFpbl9fJzoKICAgIHByaW50KCc9PT0gQS4g6L+U5Zue5pWI546HIGV0YSDliYLph4/lj43lupQgKHRleD0wLjAyLCBub2lzZV9mbG9vcj0wLjAxKSA9PT0nKQogICAgZXRhcz1bMC4wMDEsMC4wMDIsMC4wMDUsMC4wMSwwLjAyLDAuMDQsMC4wOCwwLjE2LDAuMzIsMC42NF0KICAgIEE9W2JhdGNoX2V0YShlKSBmb3IgZSBpbiBldGFzXQogICAgZm9yIHIgaW4gQTogcHJpbnQoZiIgIGV0YT17clsnZXRhJ106PDZ9IGFjYz17clsnYWNjJ106LjNmfSBwZWFrPXtyWydwZWFrJ106LjRmfSIpCgogICAgcHJpbnQoJ1xuPT09IEIuIOW4p+mXtOS9jeenu+aJq+aPjyAocGFkLCB3aW49MTggPT4g5Y+v5rWL6IyD5Zu0IMKxOSkgPT09JykKICAgIEI9c2hpZnRfc2NhbigncGFkJywgbWF4ZD0xNCwgbj0yNSkKICAgIGZvciByIGluIEI6IHByaW50KGYiICBkPXtyWydkJ106PDN9IGFjYz17clsnYWNjJ106LjNmfSBwZWFrPXtyWydwZWFrJ106LjRmfSIpCgogICAgcHJpbnQoJ1xuPT09IEMuIOaPkOmrmCBMRUQg6IO95ZCm5pWR5Zue546755KDID09PScpCiAgICBDPWxlZF9yZXNjdWUoJ2dsYXNzJywgbj0zMCkKICAgIGZvciByIGluIEM6IHByaW50KGYiICBsZWQ9e3JbJ2xlZCddOjwzfSBhY2M9e3JbJ2FjYyddOi4zZn0gcGVhaz17clsncGVhayddOi40Zn0gc2F0PXtyWydzYXQnXTouM2Z9IikKCiAgICBqc29uLmR1bXAoZGljdChBPUEsQj1CLEM9QyksIG9wZW4oJ3NjYW4wOTEuanNvbicsJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+import numpy as np, json
+from optical_mouse2 import *
+
+def batch_eta(eta, tex=0.02, n=30, noise_floor=0.01, led=1.0, glare=0.0, shift=(3,2)):
+    """直接控制 eta 做剂量反应（脱离具名表面）"""
+    p = dict(eta=eta, glare=glare, tex=tex)
+    rng0 = np.random.default_rng(0)
+    surf = np.clip(rng0.normal(0.5, tex, (160,160)), 0, 1)
+    oks=[]; peaks=[]
+    for s in range(n):
+        rng = np.random.default_rng(s+999)
+        f0,_ = cmos_frame(surf,p,60,60,18,led,noise_floor,rng)
+        f1,_ = cmos_frame(surf,p,60+shift[0],60+shift[1],18,led,noise_floor,rng)
+        img,peak = estimate_shift(f0,f1)
+        peaks.append(peak)
+        if img is None: oks.append(False); continue
+        oks.append((-img[0],-img[1])==shift)
+    return dict(eta=eta, acc=float(np.mean(oks)), peak=float(np.mean(peaks)))
+
+def shift_scan(kind='pad', maxd=14, n=25):
+    out=[]
+    for d in range(0, maxd+1):
+        r = batch(kind, (d, max(0,d//2)), n=n)
+        out.append(dict(d=d, acc=r['acc'], err=r['err'], peak=r['peak']))
+    return out
+
+def led_rescue(kind='glass', leds=(1,2,4,8,16,32), n=30):
+    out=[]
+    for L in leds:
+        r = batch(kind, (3,2), n=n, led=L)
+        out.append(dict(led=L, acc=r['acc'], peak=r['peak'], sat=r['sat']))
+    return out
+
+if __name__=='__main__':
+    print('=== A. 返回效率 eta 剂量反应 (tex=0.02, noise_floor=0.01) ===')
+    etas=[0.001,0.002,0.005,0.01,0.02,0.04,0.08,0.16,0.32,0.64]
+    A=[batch_eta(e) for e in etas]
+    for r in A: print(f"  eta={r['eta']:<6} acc={r['acc']:.3f} peak={r['peak']:.4f}")
+
+    print('\n=== B. 帧间位移扫描 (pad, win=18 => 可测范围 ±9) ===')
+    B=shift_scan('pad', maxd=14, n=25)
+    for r in B: print(f"  d={r['d']:<3} acc={r['acc']:.3f} peak={r['peak']:.4f}")
+
+    print('\n=== C. 提高 LED 能否救回玻璃 ===')
+    C=led_rescue('glass', n=30)
+    for r in C: print(f"  led={r['led']:<3} acc={r['acc']:.3f} peak={r['peak']:.4f} sat={r['sat']:.3f}")
+
+    json.dump(dict(A=A,B=B,C=C), open('scan091.json','w'), ensure_ascii=False, indent=1)

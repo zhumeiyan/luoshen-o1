@@ -1,1 +1,286 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJCdWlsZCBvbmUgcGxhdGZvcm0vY2hhbm5lbC1zcGVjaWZpYyBEZXNrdG9wIGJ1bmRsZS4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgaGFzaGxpYgppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHBsYXRmb3JtCmltcG9ydCBzaHV0aWwKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHN5cwppbXBvcnQgdGVtcGZpbGUKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKClJPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50c1syXQpERVNLVE9QID0gUk9PVCAvICJkZXNrdG9wIgpUQVVSSSA9IERFU0tUT1AgLyAic3JjLXRhdXJpIgpIRUxQRVJTID0gREVTS1RPUCAvICJoZWxwZXJzIgpGTEFWT1JTID0gREVTS1RPUCAvICJmbGF2b3JzIgpXSU5ET1dTX1VQREFURVJfTUFOSUZFU1QgPSAiaWFjLWNvZGUtZGVza3RvcC11cGRhdGVyLm1hbmlmZXN0Lmpzb24iCldJTkRPV1NfQVVUSEVOVElDT0RFX0VWSURFTkNFX1NDUklQVCA9ICIiIgokc2lnbmF0dXJlID0gR2V0LUF1dGhlbnRpY29kZVNpZ25hdHVyZSAtTGl0ZXJhbFBhdGggJGVudjpJQUNfQ09ERV9WRVJJRllfSEVMUEVSX1BBVEgKJHB1Ymxpc2hlciA9IGlmICgkc2lnbmF0dXJlLlNpZ25lckNlcnRpZmljYXRlKSB7CiAgJHNpZ25hdHVyZS5TaWduZXJDZXJ0aWZpY2F0ZS5HZXROYW1lSW5mbygKICAgIFtTeXN0ZW0uU2VjdXJpdHkuQ3J5cHRvZ3JhcGh5Llg1MDlDZXJ0aWZpY2F0ZXMuWDUwOU5hbWVUeXBlXTo6U2ltcGxlTmFtZSwKICAgICRmYWxzZQogICkKfSBlbHNlIHsgJG51bGwgfQpAeyBzdGF0dXMgPSBbc3RyaW5nXSRzaWduYXR1cmUuU3RhdHVzOyBwdWJsaXNoZXIgPSAkcHVibGlzaGVyIH0gfCBDb252ZXJ0VG8tSnNvbiAtQ29tcHJlc3MKIiIiLnN0cmlwKCkKCgpkZWYgX2RlZmF1bHRfY2hhbm5lbCgpIC0+IHN0cjoKICAgIHJldHVybiB7IkRhcndpbiI6ICJtYWNvcyIsICJXaW5kb3dzIjogIndpbmRvd3MifS5nZXQocGxhdGZvcm0uc3lzdGVtKCksICJhcHBpbWFnZSIpCgoKZGVmIF9wYXJzZV9hcmdzKCkgLT4gYXJncGFyc2UuTmFtZXNwYWNlOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jaGFubmVsIiwgY2hvaWNlcz0oIm1hY29zIiwgIndpbmRvd3MiLCAiYXBwaW1hZ2UiLCAiZGViIiksIGRlZmF1bHQ9X2RlZmF1bHRfY2hhbm5lbCgpKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1za2lwLXNpZGVjYXIiLCBhY3Rpb249InN0b3JlX3RydWUiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1za2lwLXVwZGF0ZXItYXJ0aWZhY3RzIiwKICAgICAgICBhY3Rpb249InN0b3JlX3RydWUiLAogICAgICAgIGhlbHA9ImVtYmVkIHVwZGF0ZXIgY29uZmlndXJhdGlvbiBidXQgbGVhdmUgcGF5bG9hZCBjcmVhdGlvbi9zaWduaW5nIHRvIHRoZSBwcml2YXRlIGxvY2FsIHB1Ymxpc2hlciIsCiAgICApCiAgICByZXR1cm4gcGFyc2VyLnBhcnNlX2FyZ3MoKQoKCmRlZiBfcnVuKGNvbW1hbmQ6IGxpc3Rbc3RyXSwgKiwgY3dkOiBQYXRoLCBlbnZpcm9ubWVudDogZGljdFtzdHIsIHN0cl0pIC0+IE5vbmU6CiAgICBzdWJwcm9jZXNzLnJ1bihjb21tYW5kLCBjd2Q9Y3dkLCBlbnY9ZW52aXJvbm1lbnQsIGNoZWNrPVRydWUpCgoKZGVmIG5wbV9leGVjdXRhYmxlKHN5c3RlbTogc3RyIHwgTm9uZSA9IE5vbmUpIC0+IHN0cjoKICAgICIiIlJldHVybiB0aGUgZGlyZWN0bHkgZXhlY3V0YWJsZSBucG0gbGF1bmNoZXIgZm9yIHRoZSBob3N0IHBsYXRmb3JtLiIiIgogICAgcmV0dXJuICJucG0uY21kIiBpZiAoc3lzdGVtIG9yIHBsYXRmb3JtLnN5c3RlbSgpKSA9PSAiV2luZG93cyIgZWxzZSAibnBtIgoKCmRlZiBjb21wb3NlX292ZXJsYXkoCiAgICBjaGFubmVsOiBzdHIsCiAgICAqLAogICAgcmVzb3VyY2VzOiBkaWN0W3N0ciwgc3RyXSwKICAgIHVwZGF0ZXJfZW5kcG9pbnQ6IHN0ciB8IE5vbmUgPSBOb25lLAogICAgdXBkYXRlcl9wdWJsaWNfa2V5OiBzdHIgfCBOb25lID0gTm9uZSwKICAgIGNyZWF0ZV91cGRhdGVyX2FydGlmYWN0czogYm9vbCA9IFRydWUsCikgLT4gZGljdFtzdHIsIEFueV06CiAgICAjIEtlZXAgZmxhdm9yIG92ZXJsYXlzIG91dHNpZGUgc3JjLXRhdXJpIHNvIFRhdXJpIGNhbm5vdCBhdXRvLWxvYWQgYQogICAgIyBwbGF0Zm9ybS1uYW1lZCBjb25maWcgaW4gYWRkaXRpb24gdG8gdGhlIGNvbXBvc2VkIHRlbXBvcmFyeSBvdmVybGF5LgogICAgZmxhdm9yX3BhdGggPSBGTEFWT1JTIC8gInt9Lmpzb24iLmZvcm1hdChjaGFubmVsKQogICAgb3ZlcmxheV9jb25maWcgPSBqc29uLmxvYWRzKGZsYXZvcl9wYXRoLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkKICAgIG92ZXJsYXlfY29uZmlnWyJidW5kbGUiXVsicmVzb3VyY2VzIl0gPSByZXNvdXJjZXMKICAgIHVwZGF0ZXJfY29uZmlndXJlZCA9IGJvb2wodXBkYXRlcl9lbmRwb2ludCBhbmQgdXBkYXRlcl9wdWJsaWNfa2V5KSBhbmQgY2hhbm5lbCAhPSAiZGViIgogICAgb3ZlcmxheV9jb25maWdbImFwcCJdWyJzZWN1cml0eSJdWyJjYXBhYmlsaXRpZXMiXSA9IFsKICAgICAgICAiZGVza3RvcC1sb2NhbCIsCiAgICAgICAgImRlc2t0b3AtbG9vcGJhY2stdXBkYXRlciIgaWYgdXBkYXRlcl9jb25maWd1cmVkIGVsc2UgImRlc2t0b3AtbG9vcGJhY2stZXh0ZXJuYWwiLAogICAgXQogICAgaWYgdXBkYXRlcl9jb25maWd1cmVkOgogICAgICAgIG92ZXJsYXlfY29uZmlnWyJidW5kbGUiXVsiY3JlYXRlVXBkYXRlckFydGlmYWN0cyJdID0gY3JlYXRlX3VwZGF0ZXJfYXJ0aWZhY3RzCiAgICAgICAgb3ZlcmxheV9jb25maWdbInBsdWdpbnMiXSA9IHsKICAgICAgICAgICAgInVwZGF0ZXIiOiB7ImVuZHBvaW50cyI6IFt1cGRhdGVyX2VuZHBvaW50XSwgInB1YmtleSI6IHVwZGF0ZXJfcHVibGljX2tleX0KICAgICAgICB9CiAgICByZXR1cm4gb3ZlcmxheV9jb25maWcKCgpkZWYgY2xlYXJfc3RhbGVfaG9zdF9oZWxwZXJzKCkgLT4gTm9uZToKICAgICIiIktlZXAgVGF1cmkgZnJvbSBkaXNjb3ZlcmluZyBoZWxwZXIgYXJ0aWZhY3RzIGxlZnQgYnkgZWFybGllciBDYXJnbyBqb2JzLiIiIgogICAgcmVsZWFzZV9kaXIgPSBUQVVSSSAvICJ0YXJnZXQvcmVsZWFzZSIKICAgIGZvciBuYW1lIGluICgiaWFjLWNvZGUtZGVza3RvcC1leGVjIiwgImlhYy1jb2RlLWRlc2t0b3AtdXBkYXRlciIpOgogICAgICAgIGZvciBzdWZmaXggaW4gKCIiLCAiLmV4ZSIsICIuZCIpOgogICAgICAgICAgICAocmVsZWFzZV9kaXIgLyAie317fSIuZm9ybWF0KG5hbWUsIHN1ZmZpeCkpLnVubGluayhtaXNzaW5nX29rPVRydWUpCgoKZGVmIGNvbmZpZ3VyZV91cGRhdGVyX3NpZ25pbmdfZW52aXJvbm1lbnQoZW52aXJvbm1lbnQ6IGRpY3Rbc3RyLCBzdHJdKSAtPiBOb25lOgogICAgIiIiUmVzb2x2ZSBhIHNpZ25pbmcta2V5IHBhdGggd2l0aG91dCBwbGFjaW5nIGtleSBtYXRlcmlhbCBpbiBhcmd2IG9yIGNvbmZpZy4iIiIKICAgIGlmIGVudmlyb25tZW50LmdldCgiVEFVUklfU0lHTklOR19QUklWQVRFX0tFWSIpOgogICAgICAgIHJldHVybgogICAga2V5X3BhdGggPSBlbnZpcm9ubWVudC5nZXQoIlRBVVJJX1NJR05JTkdfUFJJVkFURV9LRVlfUEFUSCIpCiAgICBpZiBub3Qga2V5X3BhdGg6CiAgICAgICAgcmV0dXJuCiAgICBrZXkgPSBQYXRoKGtleV9wYXRoKS5leHBhbmR1c2VyKCkucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpLnN0cmlwKCkKICAgIGlmIG5vdCBrZXk6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdCgiRGVza3RvcCB1cGRhdGVyIHNpZ25pbmcgcHJpdmF0ZSBrZXkgZmlsZSBpcyBlbXB0eSIpCiAgICBlbnZpcm9ubWVudFsiVEFVUklfU0lHTklOR19QUklWQVRFX0tFWSJdID0ga2V5CgoKZGVmIF9zaGEyNTYocGF0aDogUGF0aCkgLT4gc3RyOgogICAgZGlnZXN0ID0gaGFzaGxpYi5zaGEyNTYoKQogICAgd2l0aCBwYXRoLm9wZW4oInJiIikgYXMgc3RyZWFtOgogICAgICAgIGZvciBjaHVuayBpbiBpdGVyKGxhbWJkYTogc3RyZWFtLnJlYWQoMTI4ICogMTAyNCksIGIiIik6CiAgICAgICAgICAgIGRpZ2VzdC51cGRhdGUoY2h1bmspCiAgICByZXR1cm4gZGlnZXN0LmhleGRpZ2VzdCgpCgoKZGVmIGNyZWF0ZV93aW5kb3dzX3VwZGF0ZXJfbWFuaWZlc3QoCiAgICBoZWxwZXI6IFBhdGgsCiAgICAqLAogICAgcmVsZWFzZTogYm9vbCwKICAgIGV4cGVjdGVkX3B1Ymxpc2hlcjogc3RyIHwgTm9uZSwKKSAtPiBkaWN0W3N0ciwgQW55XToKICAgIHB1Ymxpc2hlciA9IGV4cGVjdGVkX3B1Ymxpc2hlci5zdHJpcCgpIGlmIGV4cGVjdGVkX3B1Ymxpc2hlciBlbHNlIE5vbmUKICAgIGlmIHJlbGVhc2UgYW5kIG5vdCBwdWJsaXNoZXI6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdCgiV2luZG93cyByZWxlYXNlIGJ1aWxkcyByZXF1aXJlIElBQ19DT0RFX1dJTkRPV1NfU0lHTklOR19QVUJMSVNIRVIiKQogICAgaWYgbm90IHJlbGVhc2UgYW5kIHB1Ymxpc2hlcjoKICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCJXaW5kb3dzIHNpZ25pbmcgcHVibGlzaGVyIGlzIG9ubHkgdmFsaWQgZm9yIGEgcmVsZWFzZSBoZWxwZXIiKQogICAgcmV0dXJuIHsKICAgICAgICAic2NoZW1hVmVyc2lvbiI6IDEsCiAgICAgICAgImZpbGVOYW1lIjogImlhYy1jb2RlLWRlc2t0b3AtdXBkYXRlci5leGUiLAogICAgICAgICJzaGEyNTYiOiBfc2hhMjU2KGhlbHBlciksCiAgICAgICAgImF1dGhlbnRpY29kZVJlcXVpcmVkIjogcmVsZWFzZSwKICAgICAgICAiZXhwZWN0ZWRQdWJsaXNoZXIiOiBwdWJsaXNoZXIsCiAgICB9CgoKZGVmIHZlcmlmeV93aW5kb3dzX3VwZGF0ZXJfbWFuaWZlc3QoaGVscGVyOiBQYXRoLCBtYW5pZmVzdDogZGljdFtzdHIsIEFueV0pIC0+IE5vbmU6CiAgICBpZiBtYW5pZmVzdC5nZXQoInNjaGVtYVZlcnNpb24iKSAhPSAxOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoIldpbmRvd3MgdXBkYXRlciBoZWxwZXIgbWFuaWZlc3Qgc2NoZW1hIGlzIGludmFsaWQiKQogICAgaWYgbWFuaWZlc3QuZ2V0KCJmaWxlTmFtZSIpICE9ICJpYWMtY29kZS1kZXNrdG9wLXVwZGF0ZXIuZXhlIjoKICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCJXaW5kb3dzIHVwZGF0ZXIgaGVscGVyIG1hbmlmZXN0IGZpbGUgbmFtZSBpcyBpbnZhbGlkIikKICAgIGlmIG1hbmlmZXN0LmdldCgic2hhMjU2IikgIT0gX3NoYTI1NihoZWxwZXIpOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoIldpbmRvd3MgdXBkYXRlciBoZWxwZXIgZG9lcyBub3QgbWF0Y2ggaXRzIGJ1aWxkIG1hbmlmZXN0IikKCgpkZWYgdmVyaWZ5X3dpbmRvd3NfcmVsZWFzZV9oZWxwZXIoaGVscGVyOiBQYXRoLCBleHBlY3RlZF9wdWJsaXNoZXI6IHN0cikgLT4gTm9uZToKICAgICIiIkZhaWwgY2xvc2VkIHVubGVzcyBQb3dlclNoZWxsIHZhbGlkYXRlcyB0aGUgc3RhZ2VkIHJlbGVhc2UgaGVscGVyIHNpZ25lci4iIiIKICAgIGVudmlyb25tZW50ID0gZGljdChvcy5lbnZpcm9uKQogICAgZW52aXJvbm1lbnRbIklBQ19DT0RFX1ZFUklGWV9IRUxQRVJfUEFUSCJdID0gc3RyKGhlbHBlcikKICAgIHJlc3VsdCA9IHN1YnByb2Nlc3MucnVuKAogICAgICAgIFsKICAgICAgICAgICAgInBvd2Vyc2hlbGwuZXhlIiwKICAgICAgICAgICAgIi1Ob1Byb2ZpbGUiLAogICAgICAgICAgICAiLU5vbkludGVyYWN0aXZlIiwKICAgICAgICAgICAgIi1Db21tYW5kIiwKICAgICAgICAgICAgV0lORE9XU19BVVRIRU5USUNPREVfRVZJREVOQ0VfU0NSSVBULAogICAgICAgIF0sCiAgICAgICAgY2hlY2s9VHJ1ZSwKICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLAogICAgICAgIHRleHQ9VHJ1ZSwKICAgICAgICBlbmNvZGluZz0idXRmLTgiLAogICAgICAgIGVudj1lbnZpcm9ubWVudCwKICAgICkKICAgIGV2aWRlbmNlID0ganNvbi5sb2FkcyhyZXN1bHQuc3Rkb3V0KQogICAgaWYgZXZpZGVuY2UuZ2V0KCJzdGF0dXMiKSAhPSAiVmFsaWQiOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoInNpZ25lZCBXaW5kb3dzIHVwZGF0ZXIgaGVscGVyIGZhaWxlZCBBdXRoZW50aWNvZGUgdmFsaWRhdGlvbiIpCiAgICBpZiBldmlkZW5jZS5nZXQoInB1Ymxpc2hlciIpICE9IGV4cGVjdGVkX3B1Ymxpc2hlcjoKICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCJzaWduZWQgV2luZG93cyB1cGRhdGVyIGhlbHBlciBwdWJsaXNoZXIgZG9lcyBub3QgbWF0Y2ggcmVsZWFzZSBjb25maWd1cmF0aW9uIikKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIGFyZ3MgPSBfcGFyc2VfYXJncygpCiAgICBmcm9tIHN5bmNfdmVyc2lvbiBpbXBvcnQgc3luY19kZXNrdG9wX3ZlcnNpb25zCgogICAgc3luY19kZXNrdG9wX3ZlcnNpb25zKCkKICAgIGV4cGVjdGVkX3N5c3RlbSA9IHsibWFjb3MiOiAiRGFyd2luIiwgIndpbmRvd3MiOiAiV2luZG93cyIsICJhcHBpbWFnZSI6ICJMaW51eCIsICJkZWIiOiAiTGludXgifVsKICAgICAgICBhcmdzLmNoYW5uZWwKICAgIF0KICAgIGlmIHBsYXRmb3JtLnN5c3RlbSgpICE9IGV4cGVjdGVkX3N5c3RlbToKICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCJEZXNrdG9wIGJ1bmRsZXMgYXJlIG5hdGl2ZSBidWlsZHM7IHt9IHJlcXVpcmVzIHt9Ii5mb3JtYXQoYXJncy5jaGFubmVsLCBleHBlY3RlZF9zeXN0ZW0pKQogICAgaWYgc3lzLnZlcnNpb25faW5mb1s6Ml0gIT0gKDMsIDEyKToKICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCJyZWxlYXNlIHNpZGVjYXIgYnVpbGRzIHJlcXVpcmUgQ1B5dGhvbiAzLjEyLngiKQogICAgZW5kcG9pbnQgPSBvcy5lbnZpcm9uLmdldCgiSUFDX0NPREVfREVTS1RPUF9VUERBVEVSX0VORFBPSU5UIikKICAgIHB1YmxpY19rZXkgPSBvcy5lbnZpcm9uLmdldCgiSUFDX0NPREVfREVTS1RPUF9VUERBVEVSX1BVQktFWSIpCiAgICBpZiBib29sKGVuZHBvaW50KSAhPSBib29sKHB1YmxpY19rZXkpOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoIkRlc2t0b3AgdXBkYXRlciBlbmRwb2ludCBhbmQgcHVibGljIGtleSBtdXN0IGJlIGNvbmZpZ3VyZWQgdG9nZXRoZXIiKQogICAgdXBkYXRlcl9jb25maWd1cmVkID0gYm9vbChlbmRwb2ludCBhbmQgcHVibGljX2tleSkgYW5kIGFyZ3MuY2hhbm5lbCAhPSAiZGViIgogICAgaWYgb3MuZW52aXJvbi5nZXQoIklBQ19DT0RFX0RFU0tUT1BfUkVMRUFTRSIpID09ICIxIiBhbmQgYXJncy5jaGFubmVsICE9ICJkZWIiIGFuZCBub3QgdXBkYXRlcl9jb25maWd1cmVkOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoInJlbGVhc2UgdXBkYXRlciBidWlsZHMgcmVxdWlyZSBJQUNfQ09ERV9ERVNLVE9QX1VQREFURVJfRU5EUE9JTlQgYW5kIFBVQktFWSIpCiAgICBlbnZpcm9ubWVudCA9IGRpY3Qob3MuZW52aXJvbikKICAgIGVudmlyb25tZW50WyJJQUNfQ09ERV9ERVNLVE9QX0NIQU5ORUwiXSA9IGFyZ3MuY2hhbm5lbAogICAgZW52aXJvbm1lbnRbIklBQ19DT0RFX0RFU0tUT1BfVVBEQVRFUl9DT05GSUdVUkVEIl0gPSAiMSIgaWYgdXBkYXRlcl9jb25maWd1cmVkIGVsc2UgIjAiCiAgICBjcmVhdGVfdXBkYXRlcl9hcnRpZmFjdHMgPSBub3QgYXJncy5za2lwX3VwZGF0ZXJfYXJ0aWZhY3RzCiAgICBpZiB1cGRhdGVyX2NvbmZpZ3VyZWQgYW5kIGNyZWF0ZV91cGRhdGVyX2FydGlmYWN0czoKICAgICAgICBjb25maWd1cmVfdXBkYXRlcl9zaWduaW5nX2Vudmlyb25tZW50KGVudmlyb25tZW50KQogICAgaWYgKAogICAgICAgIG9zLmVudmlyb24uZ2V0KCJJQUNfQ09ERV9ERVNLVE9QX1JFTEVBU0UiKSA9PSAiMSIKICAgICAgICBhbmQgdXBkYXRlcl9jb25maWd1cmVkCiAgICAgICAgYW5kIGNyZWF0ZV91cGRhdGVyX2FydGlmYWN0cwogICAgICAgIGFuZCBub3QgZW52aXJvbm1lbnQuZ2V0KCJUQVVSSV9TSUdOSU5HX1BSSVZBVEVfS0VZIikKICAgICk6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdCgicmVsZWFzZSB1cGRhdGVyIGJ1aWxkcyByZXF1aXJlIGEgVGF1cmkgdXBkYXRlciBzaWduaW5nIHByaXZhdGUga2V5IikKICAgIGlmIG5vdCBhcmdzLnNraXBfc2lkZWNhcjoKICAgICAgICBfcnVuKFtzeXMuZXhlY3V0YWJsZSwgc3RyKERFU0tUT1AgLyAic2NyaXB0cy9idWlsZF9zaWRlY2FyLnB5IildLCBjd2Q9Uk9PVCwgZW52aXJvbm1lbnQ9ZW52aXJvbm1lbnQpCgogICAgaGVscGVyID0gImlhYy1jb2RlLWRlc2t0b3AtdXBkYXRlciIgaWYgYXJncy5jaGFubmVsID09ICJ3aW5kb3dzIiBlbHNlICJpYWMtY29kZS1kZXNrdG9wLWV4ZWMiCiAgICBob3N0X2ZlYXR1cmVzID0gWyJ1cGRhdGVyIl0gaWYgdXBkYXRlcl9jb25maWd1cmVkIGVsc2UgW10KICAgIGhlbHBlcl90YXJnZXQgPSBERVNLVE9QIC8gImRpc3QvbmF0aXZlLWhlbHBlcnMiIC8gYXJncy5jaGFubmVsCiAgICBoZWxwZXJfZW52aXJvbm1lbnQgPSB7KiplbnZpcm9ubWVudCwgIkNBUkdPX1RBUkdFVF9ESVIiOiBzdHIoaGVscGVyX3RhcmdldCl9CiAgICBfcnVuKAogICAgICAgIFsiY2FyZ28iLCAiYnVpbGQiLCAiLS1yZWxlYXNlIiwgIi0tYmluIiwgaGVscGVyXSwKICAgICAgICBjd2Q9SEVMUEVSUywKICAgICAgICBlbnZpcm9ubWVudD1oZWxwZXJfZW52aXJvbm1lbnQsCiAgICApCiAgICBoZWxwZXJfc3VmZml4ID0gIi5leGUiIGlmIGFyZ3MuY2hhbm5lbCA9PSAid2luZG93cyIgZWxzZSAiIgogICAgaGVscGVyX2JpbmFyeSA9IGhlbHBlcl90YXJnZXQgLyAicmVsZWFzZSIgLyAie317fSIuZm9ybWF0KGhlbHBlciwgaGVscGVyX3N1ZmZpeCkKICAgIGlmIGFyZ3MuY2hhbm5lbCA9PSAid2luZG93cyI6CiAgICAgICAgc2lnbmVkX3N0YWJsZV9yZWxlYXNlID0gb3MuZW52aXJvbi5nZXQoIklBQ19DT0RFX0RFU0tUT1BfU1RBQkxFX1NJR05FRF9SRUxFQVNFIikgPT0gIjEiCiAgICAgICAgaWYgc2lnbmVkX3N0YWJsZV9yZWxlYXNlIGFuZCBvcy5lbnZpcm9uLmdldCgiSUFDX0NPREVfREVTS1RPUF9SRUxFQVNFIikgIT0gIjEiOgogICAgICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCJhIHN0YWJsZSBzaWduZWQgV2luZG93cyBidWlsZCBtdXN0IGFsc28gc2V0IElBQ19DT0RFX0RFU0tUT1BfUkVMRUFTRT0xIikKICAgICAgICBleHBlY3RlZF9wdWJsaXNoZXIgPSBvcy5lbnZpcm9uLmdldCgiSUFDX0NPREVfV0lORE9XU19TSUdOSU5HX1BVQkxJU0hFUiIpCiAgICAgICAgc2lnbmVkX2hlbHBlciA9IG9zLmVudmlyb24uZ2V0KCJJQUNfQ09ERV9ERVNLVE9QX1NJR05FRF9VUERBVEVSX0hFTFBFUiIpCiAgICAgICAgaWYgc2lnbmVkX3N0YWJsZV9yZWxlYXNlOgogICAgICAgICAgICBpZiBub3Qgc2lnbmVkX2hlbHBlcjoKICAgICAgICAgICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoInN0YWJsZSBzaWduZWQgV2luZG93cyBidWlsZHMgcmVxdWlyZSBJQUNfQ09ERV9ERVNLVE9QX1NJR05FRF9VUERBVEVSX0hFTFBFUiIpCiAgICAgICAgICAgIGlmIG5vdCBleHBlY3RlZF9wdWJsaXNoZXIgb3Igbm90IGV4cGVjdGVkX3B1Ymxpc2hlci5zdHJpcCgpOgogICAgICAgICAgICAgICAgcmFpc2UgU3lzdGVtRXhpdCgic3RhYmxlIHNpZ25lZCBXaW5kb3dzIGJ1aWxkcyByZXF1aXJlIElBQ19DT0RFX1dJTkRPV1NfU0lHTklOR19QVUJMSVNIRVIiKQogICAgICAgICAgICBzaWduZWRfaGVscGVyX3BhdGggPSBQYXRoKHNpZ25lZF9oZWxwZXIpLmV4cGFuZHVzZXIoKS5yZXNvbHZlKHN0cmljdD1UcnVlKQogICAgICAgICAgICBpZiBzaWduZWRfaGVscGVyX3BhdGggIT0gaGVscGVyX2JpbmFyeS5yZXNvbHZlKCk6CiAgICAgICAgICAgICAgICBzaHV0aWwuY29weTIoc2lnbmVkX2hlbHBlcl9wYXRoLCBoZWxwZXJfYmluYXJ5KQogICAgICAgICAgICB2ZXJpZnlfd2luZG93c19yZWxlYXNlX2hlbHBlcihoZWxwZXJfYmluYXJ5LCBleHBlY3RlZF9wdWJsaXNoZXIuc3RyaXAoKSkKICAgICAgICBlbGlmIHNpZ25lZF9oZWxwZXI6CiAgICAgICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoImEgcHJlLXNpZ25lZCB1cGRhdGVyIGhlbHBlciBpcyBvbmx5IGFjY2VwdGVkIGZvciByZWxlYXNlIGJ1aWxkcyIpCiAgICAgICAgbWFuaWZlc3QgPSBjcmVhdGVfd2luZG93c191cGRhdGVyX21hbmlmZXN0KAogICAgICAgICAgICBoZWxwZXJfYmluYXJ5LAogICAgICAgICAgICByZWxlYXNlPXNpZ25lZF9zdGFibGVfcmVsZWFzZSwKICAgICAgICAgICAgZXhwZWN0ZWRfcHVibGlzaGVyPWV4cGVjdGVkX3B1Ymxpc2hlciwKICAgICAgICApCiAgICAgICAgdmVyaWZ5X3dpbmRvd3NfdXBkYXRlcl9tYW5pZmVzdChoZWxwZXJfYmluYXJ5LCBtYW5pZmVzdCkKICAgICAgICBtYW5pZmVzdF9wYXRoID0gaGVscGVyX3RhcmdldCAvICJyZWxlYXNlIiAvIFdJTkRPV1NfVVBEQVRFUl9NQU5JRkVTVAogICAgICAgIG1hbmlmZXN0X3BhdGgud3JpdGVfdGV4dChqc29uLmR1bXBzKG1hbmlmZXN0LCBzb3J0X2tleXM9VHJ1ZSkgKyAiXG4iLCBlbmNvZGluZz0idXRmLTgiKQogICAgICAgIGVudmlyb25tZW50WyJJQUNfQ09ERV9ERVNLVE9QX1VQREFURVJfSEVMUEVSX1NIQTI1NiJdID0gbWFuaWZlc3RbInNoYTI1NiJdCiAgICAgICAgZW52aXJvbm1lbnRbIklBQ19DT0RFX0RFU0tUT1BfVVBEQVRFUl9IRUxQRVJfQVVUSEVOVElDT0RFX1JFUVVJUkVEIl0gPSAoCiAgICAgICAgICAgICIxIiBpZiBtYW5pZmVzdFsiYXV0aGVudGljb2RlUmVxdWlyZWQiXSBlbHNlICIwIgogICAgICAgICkKICAgICAgICBlbnZpcm9ubWVudFsiSUFDX0NPREVfREVTS1RPUF9VUERBVEVSX0hFTFBFUl9QVUJMSVNIRVIiXSA9IG1hbmlmZXN0WyJleHBlY3RlZFB1Ymxpc2hlciJdIG9yICIiCiAgICBjbGVhcl9zdGFsZV9ob3N0X2hlbHBlcnMoKQogICAgcmVzb3VyY2VzID0gewogICAgICAgICIuLi9kaXN0L3NpZGVjYXIvaWFjLWNvZGUtc2lkZWNhciI6ICJzaWRlY2FyL2lhYy1jb2RlLXNpZGVjYXIiLAogICAgICAgICIuLi9kaXN0L25hdGl2ZS1oZWxwZXJzL3t9L3JlbGVhc2Uve317fSIuZm9ybWF0KAogICAgICAgICAgICBhcmdzLmNoYW5uZWwsCiAgICAgICAgICAgIGhlbHBlciwKICAgICAgICAgICAgaGVscGVyX3N1ZmZpeCwKICAgICAgICApOiAiYmluL3t9e30iLmZvcm1hdChoZWxwZXIsIGhlbHBlcl9zdWZmaXgpLAogICAgfQogICAgaWYgYXJncy5jaGFubmVsID09ICJ3aW5kb3dzIjoKICAgICAgICByZXNvdXJjZXNbImljb25zL2ljb24uaWNvIl0gPSAiaWNvbnMvaWFjLWNvZGUtbG9nby12My5pY28iCiAgICAgICAgcmVzb3VyY2VzWwogICAgICAgICAgICAiLi4vZGlzdC9uYXRpdmUtaGVscGVycy93aW5kb3dzL3JlbGVhc2Uve30iLmZvcm1hdChXSU5ET1dTX1VQREFURVJfTUFOSUZFU1QpCiAgICAgICAgXSA9ICJiaW4ve30iLmZvcm1hdChXSU5ET1dTX1VQREFURVJfTUFOSUZFU1QpCiAgICBvdmVybGF5X2NvbmZpZyA9IGNvbXBvc2Vfb3ZlcmxheSgKICAgICAgICBhcmdzLmNoYW5uZWwsCiAgICAgICAgcmVzb3VyY2VzPXJlc291cmNlcywKICAgICAgICB1cGRhdGVyX2VuZHBvaW50PWVuZHBvaW50LAogICAgICAgIHVwZGF0ZXJfcHVibGljX2tleT1wdWJsaWNfa2V5LAogICAgICAgIGNyZWF0ZV91cGRhdGVyX2FydGlmYWN0cz1jcmVhdGVfdXBkYXRlcl9hcnRpZmFjdHMsCiAgICApCiAgICB3aXRoIHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZSgKICAgICAgICBtb2RlPSJ3IiwKICAgICAgICBlbmNvZGluZz0idXRmLTgiLAogICAgICAgIHN1ZmZpeD0iLmpzb24iLAogICAgICAgIHByZWZpeD0idGF1cmkuYnVpbGQuIiwKICAgICAgICBkaXI9VEFVUkksCiAgICApIGFzIG92ZXJsYXk6CiAgICAgICAganNvbi5kdW1wKG92ZXJsYXlfY29uZmlnLCBvdmVybGF5KQogICAgICAgIG92ZXJsYXkuZmx1c2goKQogICAgICAgIGZlYXR1cmVfYXJndW1lbnRzID0gWyItLWZlYXR1cmVzIiwgIiwiLmpvaW4oaG9zdF9mZWF0dXJlcyldIGlmIGhvc3RfZmVhdHVyZXMgZWxzZSBbXQogICAgICAgIF9ydW4oCiAgICAgICAgICAgIFtucG1fZXhlY3V0YWJsZSgpLCAicnVuIiwgInRhdXJpIiwgIi0tIiwgImJ1aWxkIiwgIi0tY29uZmlnIiwgb3ZlcmxheS5uYW1lLCAqZmVhdHVyZV9hcmd1bWVudHNdLAogICAgICAgICAgICBjd2Q9REVTS1RPUCwKICAgICAgICAgICAgZW52aXJvbm1lbnQ9ZW52aXJvbm1lbnQsCiAgICAgICAgKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcmFpc2UgU3lzdGVtRXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+"""Build one platform/channel-specific Desktop bundle."""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+import os
+import platform
+import shutil
+import subprocess
+import sys
+import tempfile
+from pathlib import Path
+from typing import Any
+
+ROOT = Path(__file__).resolve().parents[2]
+DESKTOP = ROOT / "desktop"
+TAURI = DESKTOP / "src-tauri"
+HELPERS = DESKTOP / "helpers"
+FLAVORS = DESKTOP / "flavors"
+WINDOWS_UPDATER_MANIFEST = "iac-code-desktop-updater.manifest.json"
+WINDOWS_AUTHENTICODE_EVIDENCE_SCRIPT = """
+$signature = Get-AuthenticodeSignature -LiteralPath $env:IAC_CODE_VERIFY_HELPER_PATH
+$publisher = if ($signature.SignerCertificate) {
+  $signature.SignerCertificate.GetNameInfo(
+    [System.Security.Cryptography.X509Certificates.X509NameType]::SimpleName,
+    $false
+  )
+} else { $null }
+@{ status = [string]$signature.Status; publisher = $publisher } | ConvertTo-Json -Compress
+""".strip()
+
+
+def _default_channel() -> str:
+    return {"Darwin": "macos", "Windows": "windows"}.get(platform.system(), "appimage")
+
+
+def _parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--channel", choices=("macos", "windows", "appimage", "deb"), default=_default_channel())
+    parser.add_argument("--skip-sidecar", action="store_true")
+    parser.add_argument(
+        "--skip-updater-artifacts",
+        action="store_true",
+        help="embed updater configuration but leave payload creation/signing to the private local publisher",
+    )
+    return parser.parse_args()
+
+
+def _run(command: list[str], *, cwd: Path, environment: dict[str, str]) -> None:
+    subprocess.run(command, cwd=cwd, env=environment, check=True)
+
+
+def npm_executable(system: str | None = None) -> str:
+    """Return the directly executable npm launcher for the host platform."""
+    return "npm.cmd" if (system or platform.system()) == "Windows" else "npm"
+
+
+def compose_overlay(
+    channel: str,
+    *,
+    resources: dict[str, str],
+    updater_endpoint: str | None = None,
+    updater_public_key: str | None = None,
+    create_updater_artifacts: bool = True,
+) -> dict[str, Any]:
+    # Keep flavor overlays outside src-tauri so Tauri cannot auto-load a
+    # platform-named config in addition to the composed temporary overlay.
+    flavor_path = FLAVORS / "{}.json".format(channel)
+    overlay_config = json.loads(flavor_path.read_text(encoding="utf-8"))
+    overlay_config["bundle"]["resources"] = resources
+    updater_configured = bool(updater_endpoint and updater_public_key) and channel != "deb"
+    overlay_config["app"]["security"]["capabilities"] = [
+        "desktop-local",
+        "desktop-loopback-updater" if updater_configured else "desktop-loopback-external",
+    ]
+    if updater_configured:
+        overlay_config["bundle"]["createUpdaterArtifacts"] = create_updater_artifacts
+        overlay_config["plugins"] = {
+            "updater": {"endpoints": [updater_endpoint], "pubkey": updater_public_key}
+        }
+    return overlay_config
+
+
+def clear_stale_host_helpers() -> None:
+    """Keep Tauri from discovering helper artifacts left by earlier Cargo jobs."""
+    release_dir = TAURI / "target/release"
+    for name in ("iac-code-desktop-exec", "iac-code-desktop-updater"):
+        for suffix in ("", ".exe", ".d"):
+            (release_dir / "{}{}".format(name, suffix)).unlink(missing_ok=True)
+
+
+def configure_updater_signing_environment(environment: dict[str, str]) -> None:
+    """Resolve a signing-key path without placing key material in argv or config."""
+    if environment.get("TAURI_SIGNING_PRIVATE_KEY"):
+        return
+    key_path = environment.get("TAURI_SIGNING_PRIVATE_KEY_PATH")
+    if not key_path:
+        return
+    key = Path(key_path).expanduser().read_text(encoding="utf-8").strip()
+    if not key:
+        raise SystemExit("Desktop updater signing private key file is empty")
+    environment["TAURI_SIGNING_PRIVATE_KEY"] = key
+
+
+def _sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as stream:
+        for chunk in iter(lambda: stream.read(128 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def create_windows_updater_manifest(
+    helper: Path,
+    *,
+    release: bool,
+    expected_publisher: str | None,
+) -> dict[str, Any]:
+    publisher = expected_publisher.strip() if expected_publisher else None
+    if release and not publisher:
+        raise SystemExit("Windows release builds require IAC_CODE_WINDOWS_SIGNING_PUBLISHER")
+    if not release and publisher:
+        raise SystemExit("Windows signing publisher is only valid for a release helper")
+    return {
+        "schemaVersion": 1,
+        "fileName": "iac-code-desktop-updater.exe",
+        "sha256": _sha256(helper),
+        "authenticodeRequired": release,
+        "expectedPublisher": publisher,
+    }
+
+
+def verify_windows_updater_manifest(helper: Path, manifest: dict[str, Any]) -> None:
+    if manifest.get("schemaVersion") != 1:
+        raise SystemExit("Windows updater helper manifest schema is invalid")
+    if manifest.get("fileName") != "iac-code-desktop-updater.exe":
+        raise SystemExit("Windows updater helper manifest file name is invalid")
+    if manifest.get("sha256") != _sha256(helper):
+        raise SystemExit("Windows updater helper does not match its build manifest")
+
+
+def verify_windows_release_helper(helper: Path, expected_publisher: str) -> None:
+    """Fail closed unless PowerShell validates the staged release helper signer."""
+    environment = dict(os.environ)
+    environment["IAC_CODE_VERIFY_HELPER_PATH"] = str(helper)
+    result = subprocess.run(
+        [
+            "powershell.exe",
+            "-NoProfile",
+            "-NonInteractive",
+            "-Command",
+            WINDOWS_AUTHENTICODE_EVIDENCE_SCRIPT,
+        ],
+        check=True,
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        env=environment,
+    )
+    evidence = json.loads(result.stdout)
+    if evidence.get("status") != "Valid":
+        raise SystemExit("signed Windows updater helper failed Authenticode validation")
+    if evidence.get("publisher") != expected_publisher:
+        raise SystemExit("signed Windows updater helper publisher does not match release configuration")
+
+
+def main() -> int:
+    args = _parse_args()
+    from sync_version import sync_desktop_versions
+
+    sync_desktop_versions()
+    expected_system = {"macos": "Darwin", "windows": "Windows", "appimage": "Linux", "deb": "Linux"}[
+        args.channel
+    ]
+    if platform.system() != expected_system:
+        raise SystemExit("Desktop bundles are native builds; {} requires {}".format(args.channel, expected_system))
+    if sys.version_info[:2] != (3, 12):
+        raise SystemExit("release sidecar builds require CPython 3.12.x")
+    endpoint = os.environ.get("IAC_CODE_DESKTOP_UPDATER_ENDPOINT")
+    public_key = os.environ.get("IAC_CODE_DESKTOP_UPDATER_PUBKEY")
+    if bool(endpoint) != bool(public_key):
+        raise SystemExit("Desktop updater endpoint and public key must be configured together")
+    updater_configured = bool(endpoint and public_key) and args.channel != "deb"
+    if os.environ.get("IAC_CODE_DESKTOP_RELEASE") == "1" and args.channel != "deb" and not updater_configured:
+        raise SystemExit("release updater builds require IAC_CODE_DESKTOP_UPDATER_ENDPOINT and PUBKEY")
+    environment = dict(os.environ)
+    environment["IAC_CODE_DESKTOP_CHANNEL"] = args.channel
+    environment["IAC_CODE_DESKTOP_UPDATER_CONFIGURED"] = "1" if updater_configured else "0"
+    create_updater_artifacts = not args.skip_updater_artifacts
+    if updater_configured and create_updater_artifacts:
+        configure_updater_signing_environment(environment)
+    if (
+        os.environ.get("IAC_CODE_DESKTOP_RELEASE") == "1"
+        and updater_configured
+        and create_updater_artifacts
+        and not environment.get("TAURI_SIGNING_PRIVATE_KEY")
+    ):
+        raise SystemExit("release updater builds require a Tauri updater signing private key")
+    if not args.skip_sidecar:
+        _run([sys.executable, str(DESKTOP / "scripts/build_sidecar.py")], cwd=ROOT, environment=environment)
+
+    helper = "iac-code-desktop-updater" if args.channel == "windows" else "iac-code-desktop-exec"
+    host_features = ["updater"] if updater_configured else []
+    helper_target = DESKTOP / "dist/native-helpers" / args.channel
+    helper_environment = {**environment, "CARGO_TARGET_DIR": str(helper_target)}
+    _run(
+        ["cargo", "build", "--release", "--bin", helper],
+        cwd=HELPERS,
+        environment=helper_environment,
+    )
+    helper_suffix = ".exe" if args.channel == "windows" else ""
+    helper_binary = helper_target / "release" / "{}{}".format(helper, helper_suffix)
+    if args.channel == "windows":
+        signed_stable_release = os.environ.get("IAC_CODE_DESKTOP_STABLE_SIGNED_RELEASE") == "1"
+        if signed_stable_release and os.environ.get("IAC_CODE_DESKTOP_RELEASE") != "1":
+            raise SystemExit("a stable signed Windows build must also set IAC_CODE_DESKTOP_RELEASE=1")
+        expected_publisher = os.environ.get("IAC_CODE_WINDOWS_SIGNING_PUBLISHER")
+        signed_helper = os.environ.get("IAC_CODE_DESKTOP_SIGNED_UPDATER_HELPER")
+        if signed_stable_release:
+            if not signed_helper:
+                raise SystemExit("stable signed Windows builds require IAC_CODE_DESKTOP_SIGNED_UPDATER_HELPER")
+            if not expected_publisher or not expected_publisher.strip():
+                raise SystemExit("stable signed Windows builds require IAC_CODE_WINDOWS_SIGNING_PUBLISHER")
+            signed_helper_path = Path(signed_helper).expanduser().resolve(strict=True)
+            if signed_helper_path != helper_binary.resolve():
+                shutil.copy2(signed_helper_path, helper_binary)
+            verify_windows_release_helper(helper_binary, expected_publisher.strip())
+        elif signed_helper:
+            raise SystemExit("a pre-signed updater helper is only accepted for release builds")
+        manifest = create_windows_updater_manifest(
+            helper_binary,
+            release=signed_stable_release,
+            expected_publisher=expected_publisher,
+        )
+        verify_windows_updater_manifest(helper_binary, manifest)
+        manifest_path = helper_target / "release" / WINDOWS_UPDATER_MANIFEST
+        manifest_path.write_text(json.dumps(manifest, sort_keys=True) + "\n", encoding="utf-8")
+        environment["IAC_CODE_DESKTOP_UPDATER_HELPER_SHA256"] = manifest["sha256"]
+        environment["IAC_CODE_DESKTOP_UPDATER_HELPER_AUTHENTICODE_REQUIRED"] = (
+            "1" if manifest["authenticodeRequired"] else "0"
+        )
+        environment["IAC_CODE_DESKTOP_UPDATER_HELPER_PUBLISHER"] = manifest["expectedPublisher"] or ""
+    clear_stale_host_helpers()
+    resources = {
+        "../dist/sidecar/iac-code-sidecar": "sidecar/iac-code-sidecar",
+        "../dist/native-helpers/{}/release/{}{}".format(
+            args.channel,
+            helper,
+            helper_suffix,
+        ): "bin/{}{}".format(helper, helper_suffix),
+    }
+    if args.channel == "windows":
+        resources["icons/icon.ico"] = "icons/iac-code-logo-v3.ico"
+        resources[
+            "../dist/native-helpers/windows/release/{}".format(WINDOWS_UPDATER_MANIFEST)
+        ] = "bin/{}".format(WINDOWS_UPDATER_MANIFEST)
+    overlay_config = compose_overlay(
+        args.channel,
+        resources=resources,
+        updater_endpoint=endpoint,
+        updater_public_key=public_key,
+        create_updater_artifacts=create_updater_artifacts,
+    )
+    with tempfile.NamedTemporaryFile(
+        mode="w",
+        encoding="utf-8",
+        suffix=".json",
+        prefix="tauri.build.",
+        dir=TAURI,
+    ) as overlay:
+        json.dump(overlay_config, overlay)
+        overlay.flush()
+        feature_arguments = ["--features", ",".join(host_features)] if host_features else []
+        _run(
+            [npm_executable(), "run", "tauri", "--", "build", "--config", overlay.name, *feature_arguments],
+            cwd=DESKTOP,
+            environment=environment,
+        )
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

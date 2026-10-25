@@ -1,1 +1,58 @@
-ewogImNiPTAuMCI6IHsKICAiQeWIpOaNriI6IDEyLjk3LAogICLkuIvkuIDot7MiOiA2LjE1LAogICJB5byA5Y+jIjogMS4wLAogICJC5Lqn5Ye6IjogMC4wCiB9LAogImNiPTAuMiI6IHsKICAiQeWIpOaNriI6IDExLjM2LAogICLkuIvkuIDot7MiOiA1LAogICJB5byA5Y+jIjogMC44NzQsCiAgIkLkuqflh7oiOiAwLjE4NwogfSwKICJjYj0wLjQiOiB7CiAgIkHliKTmja4iOiAxMC4yMiwKICAi5LiL5LiA6LezIjogNC41NSwKICAiQeW8gOWPoyI6IDAuNzg5LAogICJC5Lqn5Ye6IjogMC4zNTgKIH0sCiAiY2I9MC42IjogewogICJB5Yik5o2uIjogOS40NSwKICAi5LiL5LiA6LezIjogNC4yLAogICJB5byA5Y+jIjogMC43MjcsCiAgIkLkuqflh7oiOiAwLjUxOAogfSwKICJjYj0wLjgiOiB7CiAgIkHliKTmja4iOiA4LjgsCiAgIuS4i+S4gOi3syI6IDMuODUsCiAgIkHlvIDlj6MiOiAwLjY3OSwKICAiQuS6p+WHuiI6IDAuNjcyCiB9LAogImNiPTEuMCI6IHsKICAiQeWIpOaNriI6IDguMzIsCiAgIuS4i+S4gOi3syI6IDMuNTUsCiAgIkHlvIDlj6MiOiAwLjY0LAogICJC5Lqn5Ye6IjogMC44MgogfSwKICLlj4jkuqflj4jpl63lkIgo5oiR55qE6buY6K6kKSI6IHsKICAiQeWIpOaNriI6IDcuODYsCiAgIuS4i+S4gOi3syI6IDMuMzUsCiAgIkHlvIDlj6MiOiAwLjYKIH0sCiAi5Y+q5Lqn5LiN6Zet5ZCIIjogewogICJB5Yik5o2uIjogMTIuOTcsCiAgIuS4i+S4gOi3syI6IDYuMTUsCiAgIkHlvIDlj6MiOiAxLjAKIH0sCiAi5bCR5Lqn5LiN6Zet5ZCIIjogewogICJB5Yik5o2uIjogMTIuOTcsCiAgIuS4i+S4gOi3syI6IDYuMTUsCiAgIkHlvIDlj6MiOiAxLjAKIH0sCiAi5LiN5Lqn5LiN6Zet5ZCIKOe6r+ayiem7mCkiOiB7CiAgIkHliKTmja4iOiAxMi45NywKICAi5LiL5LiA6LezIjogNi4xNSwKICAiQeW8gOWPoyI6IDEuMAogfQp9
+{
+ "cb=0.0": {
+  "A判据": 12.97,
+  "下一跳": 6.15,
+  "A开口": 1.0,
+  "B产出": 0.0
+ },
+ "cb=0.2": {
+  "A判据": 11.36,
+  "下一跳": 5,
+  "A开口": 0.874,
+  "B产出": 0.187
+ },
+ "cb=0.4": {
+  "A判据": 10.22,
+  "下一跳": 4.55,
+  "A开口": 0.789,
+  "B产出": 0.358
+ },
+ "cb=0.6": {
+  "A判据": 9.45,
+  "下一跳": 4.2,
+  "A开口": 0.727,
+  "B产出": 0.518
+ },
+ "cb=0.8": {
+  "A判据": 8.8,
+  "下一跳": 3.85,
+  "A开口": 0.679,
+  "B产出": 0.672
+ },
+ "cb=1.0": {
+  "A判据": 8.32,
+  "下一跳": 3.55,
+  "A开口": 0.64,
+  "B产出": 0.82
+ },
+ "又产又闭合(我的默认)": {
+  "A判据": 7.86,
+  "下一跳": 3.35,
+  "A开口": 0.6
+ },
+ "只产不闭合": {
+  "A判据": 12.97,
+  "下一跳": 6.15,
+  "A开口": 1.0
+ },
+ "少产不闭合": {
+  "A判据": 12.97,
+  "下一跳": 6.15,
+  "A开口": 1.0
+ },
+ "不产不闭合(纯沉默)": {
+  "A判据": 12.97,
+  "下一跳": 6.15,
+  "A开口": 1.0
+ }
+}

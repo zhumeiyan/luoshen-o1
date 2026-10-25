@@ -1,1 +1,22 @@
-bm8gcHJhY3RpY2UgPSBmZyAwLjAwMDAwIGxpdmUgMCBvZiAxNgoKcHJhY3RpY2Ugb3BlbuKAmSBmZyAwLjAwMTQ5IGxpdmUgMCBvZiAxNgoKcHJhY3RpY2UgY2xvc2VkIGZnIDAuMTAzNjggbGl2ZSAxNSBvZiAxNgoKdG9vbCBvbmx5IGZnIDAuMDAwMDAgbGl2ZSAwIG9mIDE2Cgp0b29sIHBsdXMgc2VsZiBmZyAwLjA5MjQxIGxpdmUgMTUgb2YgMTYKCnZhcmlhdGlvbiBmZyAwLjAyOTAwIGxpdmUgMTEgb2YgMTYKCnRyYW5zaWVudCBiaWFzIGJ1cm4gMCBmZyAwLjAwNzkxIC0+IGJ1cm4gMTAwIGZnIDAuMDAwOTEKSDEgY29udGluZ2VuY3kgZGVsdGEgKzAuMTAyMTkgQ2wgYWxsIHBvc2l0aXZlCkgyIHRvb2wgdnMgc2VsZiBkZWx0YSArMC4wOTI0MSBDSSBhbGwgcG9zaXRpdmUKdmFyaWF0aW9uIGZyZWUgZmcwLjAxOTEyIGxpdmUgOCBvZiAxNgoKdmFyaWF0aW9uIGhhcm0gZmcgMC4wMDAwMCBsaXZlIDAgb2YgMTYgdGlja3MgMTE1ClRPS0VOIDQyMzc4NAoKMTI2IFdFQU4gUFJPVE9DT0wgU0VMRiBDSEVDSwoM
+no practice = fg 0.00000 live 0 of 16
+
+practice open’ fg 0.00149 live 0 of 16
+
+practice closed fg 0.10368 live 15 of 16
+
+tool only fg 0.00000 live 0 of 16
+
+tool plus self fg 0.09241 live 15 of 16
+
+variation fg 0.02900 live 11 of 16
+
+transient bias burn 0 fg 0.00791 -> burn 100 fg 0.00091
+H1 contingency delta +0.10219 Cl all positive
+H2 tool vs self delta +0.09241 CI all positive
+variation free fg0.01912 live 8 of 16
+
+variation harm fg 0.00000 live 0 of 16 ticks 115
+TOKEN 423784
+
+126 WEAN PROTOCOL SELF CHECK
+

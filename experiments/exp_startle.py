@@ -1,1 +1,169 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNDcg5oOK5ZCT5Y+N5bCEIOKAlOKAlCAi54iG54K45piv5oOK5ZCTIiDnmoTpqozor4EKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrimIXimIXimIUg55So5oi35rSe5a+fCiAgICAi55+l6YGT5LqG77yM5Li65LuA5LmI54iG54K45LqG77yM54iG54K45piv5oOK5ZCT44CCIgoK4piFIOaIkSDimIU0NiDkv67niIbngrjnmoTmlrnlvI8gPSDlkI7nva7nva7pm7bvvIjotoXojIPlm7Qg4oaSIOaVtOauteWIpOWkseaViO+8iQrimIUg55So5oi354K556C077ya55Sf54mp5pep5bCx5pyJ6L+Z5LiqIOKAlOKAlCDmg4rlkJPlj43lsITvvIzogIzkuJTmmK/jgJDliY3nva7jgJHnmoQKCuKYheKYhSDmnKzova7kuInku7bkuosKICAgQSDmg4rlkJPlj43lsITnmoTnnJ/lj4LmlbDvvIjmvZzkvI/mnJ8vUFBJL+S5oOaDr+WMlu+8iQogICBCIOKYheKYheKYhSDkuInmlrnmoYjlr7nnhafvvJrml6Dkv53miqQgLyDlkI7nva7nva7pm7YgLyDliY3nva7lop7nm4rmjqfliLYKICAgQyDmg4rlkJMgPT0g5Yqo5oCB6IyD5Zu06LaF6ZmQ77yf55So55yf5Y+C5pWw6aqM6K+B6L+Z5Liq5ZCM5p6ECgrimIXimIUg56Gs57qm5p2f77yI6ZKI5a+5IOKYhTQ2IOWPr+S/oeW6puaJq+aPj+aVmeiure+8iQogICDimIUg5q+P5Liq57uT6K666YO96KaB5pyJ44CQ5a+554Wn44CR5oiW44CQZ3JvdW5kIHRydXRo44CR77yM5LiN6IO95Y+q55yL552A5ZCI55CGCiIiIgppbXBvcnQgb3MsIHN5cywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUuc3RhcnRsZSBpbXBvcnQgKAogICAgc3RhcnRsZV9hbXBsaXR1ZGUsIHN0YXJ0bGVfbGF0ZW5jeSwgcHBpX3JhdGlvLCBzdGFydGxlX3dpdGhfcHBpLAogICAgaGFiaXR1YXRpb24sIGRpc2hhYml0dWF0aW9uLCB1bnByb3RlY3RlZCwgcG9zdF9jbGlwLCBwcmVfZ2Fpbl9jb250cm9sLAogICAgaW5mb19yZXRhaW5lZCwgU1RBUlRMRV9USFJFU0hfREIsIFNUQVJUTEVfTEFURU5DWV9NUywgQ09SVEVYX0xBVEVOQ1lfTVMsCiAgICBGUywKKQoKb2sgPSB7fQpwcmludCgiPSIgKiA4OCkKcHJpbnQoIiDimIU0NyDniIbngrjlsLHmmK/mg4rlkJMg4oCU4oCUIOaDiuWQk+WPjeWwhOWxgiIpCnByaW50KCI9IiAqIDg4KQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIEEKcHJpbnQoIlxu44CQQeOAkeKYhSDmg4rlkJPlj43lsITnnJ/lj4LmlbAiKQpwcmludCgiLSIgKiA4OCkKcHJpbnQoZiIgIHsn5by65bqmZEInOjwxMH17J+W5heW6pic6PjEwfXsn5r2c5LyP5pyfbXMnOj4xMn0iKQpmb3IgZGIgaW4gWzcwLCA4NSwgOTUsIDEwNSwgMTE1LCAxMjVdOgogICAgYSA9IHN0YXJ0bGVfYW1wbGl0dWRlKGRiKTsgbGF0ID0gc3RhcnRsZV9sYXRlbmN5KGRiKQogICAgcHJpbnQoZiIgIHtkYjo8MTB9e2E6PjEwLjRmfXtsYXQ6PjEyLjFmfSIpCm9rWyLikaAg4piFIOmYiOWAvCg4NWRCKeS7peS4i+S4jeaDiuWQkyJdID0gYm9vbChzdGFydGxlX2FtcGxpdHVkZSg3MCkgPT0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgc3RhcnRsZV9hbXBsaXR1ZGUoOTUpID4gMCkKbDg1LCBsMTI1ID0gc3RhcnRsZV9sYXRlbmN5KDk1KSwgc3RhcnRsZV9sYXRlbmN5KDEyNSkKb2tbIuKRoSDimIUg6LaK5by65r2c5LyP5pyf6LaK55+tIl0gPSBib29sKGwxMjUgPCBsODUpCnByaW50KGYiXG4gIOKYhSDmvZzkvI/mnJ8gOTVkQj17bDg1Oi4xZn1tcyDihpIgMTI1ZEI9e2wxMjU6LjFmfW1zIikKcHJpbnQoZiIgIOKYhSDmg4rlkJMofjIwbXMpIHZzIOearuWxguWQrOiniSh+MTAwbXMpID0ge0NPUlRFWF9MQVRFTkNZX01TL1NUQVJUTEVfTEFURU5DWV9NUzouMWZ9w5cg5b+rIikKb2tbIuKRoiDimIUg5oOK5ZCT6L+c5b+r5LqO55qu5bGC77yI6ISR5bmy6YCa6Lev77yM57uV6L+H55qu5bGC77yJIl0gPSBib29sKAogICAgU1RBUlRMRV9MQVRFTkNZX01TIDwgQ09SVEVYX0xBVEVOQ1lfTVMgLyAzKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIEIKcHJpbnQoIlxu44CQQuOAkeKYheKYhSBQUEkg5YmN6ISJ5Yay5oqR5Yi25puy57q/IikKcHJpbnQoIi0iICogODgpCnByaW50KGYiICB7J+mXtOmalG1zJzo8MTB9eyfmipHliLbnjocnOj4xMH0iKQppc2lzID0gWzEwLCAzMCwgNjAsIDEyMCwgMjQwLCA1MDAsIDgwMF0KcHBpID0ge30KZm9yIGlzaSBpbiBpc2lzOgogICAgciA9IHBwaV9yYXRpbyhpc2ksIDcwLjAsIDExNS4wKQogICAgcHBpW2lzaV0gPSByCiAgICBwcmludChmIiAge2lzaTo8MTB9e3IqMTAwOj45LjFmfSUiKQpva1si4pGjIOKYhSBQUEkg5pyA5LyY5ZyoIDEyMG1zIl0gPSBib29sKHBwaVsxMjBdID09IG1heChwcGkudmFsdWVzKCkpIGFuZCBwcGlbMTIwXSA+IDApCm9rWyLikaQg4piFIDwzMG1zIOaXoOaViO+8iOadpeS4jeWPiumXqOaOp++8iSJdID0gYm9vbChwcGlbMTBdID09IDApCm9rWyLikaUg4piFID41MDBtcyDml6DmlYjvvIjpl6jmjqflt7LlhbPvvIkiXSA9IGJvb2wocHBpWzgwMF0gPT0gMCkKcGVhayA9IHBwaVsxMjBdCnByaW50KGYiXG4gIOKYhSDls7DlgLzmipHliLYge3BlYWsqMTAwOi4xZn0lICAg77yIUkVBTCAzMH43MCXvvIkiKQpva1si4pGmIOKYhSDls7DlgLzmipHliLbokL3lnKggMzB+NzAlIl0gPSBib29sKDAuMzAgPD0gcGVhayA8PSAwLjcwKQphX25vID0gc3RhcnRsZV93aXRoX3BwaSgxMTUuMCkKYV9wcCA9IHN0YXJ0bGVfd2l0aF9wcGkoMTE1LjAsIDcwLjAsIDEyMC4wKQpwcmludChmIiAg4piFIOaXoOWJjeiEieWGsiB7YV9ubzouNGZ9IOKGkiDmnInliY3ohInlhrIoMTIwbXMpIHthX3BwOi40Zn0gIOmZjSB7KDEtYV9wcC9hX25vKSoxMDA6LjFmfSUiKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIEMKcHJpbnQoIlxu44CQQ+OAkeKYheKYhSDkuaDmg6/ljJbkuI7ljrvkuaDmg6/ljJYiKQpwcmludCgiLSIgKiA4OCkKaCA9IGhhYml0dWF0aW9uKDE1LCAxMDUuMCkKcHJpbnQoZiIgIHsn5qyh5pWwJzo8OH17J+W5heW6pic6PjEwfSIpCmZvciBpIGluIFswLCAxLCA0LCA5LCAxNF06CiAgICBwcmludChmIiAge2krMTo8OH17aFtpXTo+MTAuNGZ9IikKb2tbIuKRpyDimIUg6YeN5aSN5ZCO5LiL6ZmN77yI5Lmg5oOv5YyW77yJIl0gPSBib29sKGhbLTFdIDwgaFswXSAqIDAuNikKcHJpbnQoZiIgIOKYhSDnrKwx5qyhIHtoWzBdOi40Zn0g4oaSIOesrDE15qyhIHtoWy0xXTouNGZ9ICDpmY3liLAge2hbLTFdL2hbMF0qMTAwOi4wZn0lIikKZGggPSBkaXNoYWJpdHVhdGlvbihoWy0xXSwgMTIwLjAsIDEwNS4wKQpwcmludChmIiAg4piFIOWOu+S5oOaDr+WMlu+8muaNouWIsDEyMGRCIOKGkiB7ZGg6LjRmfSAg77yIPuS5oOaDr+WMluWQjiB7aFstMV06LjRmfe+8iSIpCm9rWyLikagg4piFIOWOu+S5oOaDr+WMlu+8muabtOW8uuWIuua/gOiuqeaDiuWQk+aBouWkjSJdID0gYm9vbChkaCA+IGhbLTFdKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIEQKcHJpbnQoIlxu44CQROOAkeKYheKYheKYhSDmoLjlv4PvvJrkuInmlrnmoYjlr7nnhafvvIjniIbngrggdnMg5oOK5ZCT77yJIikKcHJpbnQoIi0iICogODgpCnByaW50KCIgIOKYheKYhSDov5nlsLHmmK/nlKjmiLfpgqPlj6Xor53nmoTlrp7or4HvvJpcIueIhueCuOaYr+aDiuWQk1wiIikKcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCm4gPSBpbnQoMC41ICogRlMpCnQgPSBucC5hcmFuZ2UobikgLyBGUwojIOS4gOS4queqgeeEtueahOWkp+S/oeWPt++8iOKJiOaDiuWQk+WIuua/gO+8iQp4ID0gMC4wMiAqIG5wLnNpbigyICogbnAucGkgKiAyMDAgKiB0KQp4W24gLy8gMjpdICs9IDAuOSAqIG5wLnNpbigyICogbnAucGkgKiAzMDAgKiB0W24gLy8gMjpdKSAgICMg56qB5Y+R55qE5by65oiQ5YiGCnNyY19wZWFrID0gZmxvYXQobnAuYWJzKHgpLm1heCgpKQoKeTEgPSB1bnByb3RlY3RlZCh4KQp5MiwgYmFkMiA9IHBvc3RfY2xpcCh4KQp5MywgYmFkMyA9IHByZV9nYWluX2NvbnRyb2woeCkKCnIxLCByMiwgcjMgPSBpbmZvX3JldGFpbmVkKHkxKSwgaW5mb19yZXRhaW5lZCh5MiksIGluZm9fcmV0YWluZWQoeTMpCnByaW50KGYiXG4gIHsn5pa55qGIJzo8MjJ9eyfmuqLlh7onOjw4fXsn5bOw5YC8Jzo+MTR9eyfkv6Hmga/kv53nlZknOj4xMn0iKQpwcmludChmIiAgeyfikaAg5peg5L+d5oqkJzo8MjJ9eyfmmK8nOjw4fXtucC5hYnMoeTFbbnAuaXNmaW5pdGUoeTEpXSkubWF4KCk6PjE0LjJlfXtyMTo+MTIuM2Z9IikKcHJpbnQoZiIgIHsn4pGhIOWQjue9rue9rumbtijimIU0NiknOjwyMn17J+WQpic6PDh9e25wLmFicyh5MikubWF4KCk6PjE0LjJlfXtyMjo+MTIuM2Z9IikKcHJpbnQoZiIgIHsn4pGiIOWJjee9ruWinuebiuaOp+WItijnlJ/niakpJzo8MjJ9eyflkKYnIGlmIG5vdCBiYWQzIGVsc2UgJ+aYryc6PDh9e25wLmFicyh5MykubWF4KCk6PjE0LjJlfXtyMzo+MTIuM2Z9IikKCm9rWyLikakg4piF4piFIOaXoOS/neaKpOehruWunua6ouWHuiJdID0gYm9vbChucC5pc2luZihucC5hYnMoeTEpKS5hbnkoKSkKb2tbIuKRqiDimIXimIUg5ZCO572u572u6Zu277ya5YGc5LqG5rqi5Ye65L2G5L+h5oGv5YWo5LiiIl0gPSBib29sKHIyIDwgMC4wNSkKb2tbIuKRqyDimIXimIXimIUg5YmN572u5aKe55uK5o6n5Yi277ya5LiN5rqi5Ye65LiU5L+h5oGv5L+d55WZKD4wLjUpIl0gPSBib29sKChub3QgYmFkMykgYW5kIHIzID4gMC41KQpwcmludChmIlxuICDimIXimIXimIUg5L+h5oGv5L+d55WZ77ya5ZCO572u572u6Zu2IHtyMjouM2Z9ICB2cyAg5YmN572u5aKe55uK5o6n5Yi2IHtyMzouM2Z9IikKcHJpbnQoZiIgIOKYhSDov5nlsLHmmK/lt67lvILvvJp7cjMvbWF4KHIyLDFlLTkpOi4xZn3DlyIpCm9rWyLikawg4piF4piF4piFIOWJjee9ruaWueahiOS/oeaBr+S/neeVmeaYvuiRl+S8mOS6juWQjue9riJdID0gYm9vbChyMyA+IHIyICogNSkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBFCnByaW50KCJcbuOAkEXjgJHimIXimIUg5r2c5LyP5pyf6L+H5YayIOKAlOKAlCDkuLrku4DkuYjlpKflo7DnrKzkuIDkuIvnibnliKvpnIciKQpwcmludCgiLSIgKiA4OCkKcHJpbnQoIiAg4piFIOmVq+mqqOiCjOWPjeWwhOaciSA2MG1zIOa9nOS8j+acnyDihpIg56ys5LiA5LiL5rKh6KGw5YeP5bCx6L+b5p2l5LqGIikKZm9yIGxhdCBpbiBbMC4wLCAyMC4wLCA2MC4wLCAxMjAuMF06CiAgICB5bCwgYmwgPSBwcmVfZ2Fpbl9jb250cm9sKHgsIGxhdGVuY3lfbXM9bGF0KQogICAgb3ZlciA9IGZsb2F0KG5wLmFicyh5bCkubWF4KCkpCiAgICBwcmludChmIiAg5r2c5LyP5pyfIHtsYXQ6PjYuMGZ9IG1zICDihpIgIOWzsOWAvCB7b3ZlcjouM2V9ICAg5rqi5Ye6IHtibH0iKQp5MCwgXyA9IHByZV9nYWluX2NvbnRyb2woeCwgbGF0ZW5jeV9tcz0wLjApCnk2MCwgXyA9IHByZV9nYWluX2NvbnRyb2woeCwgbGF0ZW5jeV9tcz02MC4wKQpva1si4pGtIOKYhSDmvZzkvI/mnJ/otorplb/vvIznrKzkuIDkuIvov4flhrLotorlpKciXSA9IGJvb2wobnAuYWJzKHk2MCkubWF4KCkgPiBucC5hYnMoeTApLm1heCgpKQpwcmludChmIlxuICDimIUgMG1zIOa9nOS8j+WzsOWAvCB7bnAuYWJzKHkwKS5tYXgoKTouM2V9ICB2cyAgNjBtcyDmvZzkvI/ls7DlgLwge25wLmFicyh5NjApLm1heCgpOi4zZX0iKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIEYKcHJpbnQoIlxu44CQRuOAkeKYheKYheKYhSDmg4rlkJMgPT0g5Yqo5oCB6IyD5Zu06LaF6ZmQ77yf5ZCM5p6E5qOA6aqMIikKcHJpbnQoIi0iICogODgpCnByaW50KCIgIOKYhSDnlKjmiLfmtJ7lr5/nmoTlvaLlvI/ljJbvvJoiKQpwcmludCgiICAgIOaVsOWtl+eIhueCuCA9IOi+k+WFpei2heWHuuOAkOaVsOWAvOeos+WumuiMg+WbtOOAkSIpCnByaW50KCIgICAg55Sf54mp5oOK5ZCTID0g6L6T5YWl6LaF5Ye644CQ5oSf6KeJ5Yqo5oCB6IyD5Zu044CRIikKcHJpbnQoIiAgICDkuKTogIXmoLnlm6DlkIzmnoQgPSDotoXlh7rns7vnu5/og73lpITnkIbnmoTojIPlm7QiKQpwcmludCgpCnByaW50KGYiICB7J2RCJzo8OH17J+aDiuWQk+W5heW6pic6PjEyfXsn5piv5ZCm6LaF6ZmQKD44NWRCKSc6PjE4fSIpCmZvciBkYiBpbiBbNjAsIDc1LCA4NSwgOTUsIDExMF06CiAgICBhID0gc3RhcnRsZV9hbXBsaXR1ZGUoZGIpCiAgICBwcmludChmIiAge2RiOjw4fXthOj4xMi40Zn17KCfmmK8nIGlmIGRiID4gU1RBUlRMRV9USFJFU0hfREIgZWxzZSAn5ZCmJyk6PjE4fSIpCm9rWyLika4g4piFIOaDiuWQk+WPquWcqOi2hemZkOaXtuWPkeeUn++8iOWQjOaehOaIkOeri++8iSJdID0gYm9vbCgKICAgIHN0YXJ0bGVfYW1wbGl0dWRlKDc1KSA9PSAwIGFuZCBzdGFydGxlX2FtcGxpdHVkZSg5NSkgPiAwKQoKcHJpbnQoIlxuICDimIUg5Y+N6K+B77ya5aaC5p6c5oOK5ZCT5LiN5piv6LaF6ZmQ77yM6ICM5piv5Lu75oSP5by65bqm6YO95pyJ5Y+N5bqUIikKcHJpbnQoZiIgICAgNjBkQiDluYXluqYge3N0YXJ0bGVfYW1wbGl0dWRlKDYwKTouNGZ9ICDihpIgIOS9juS6jumYiOWAvOWujOWFqOaXoOWPjeW6lCDinIUiKQpva1si4pGvIOKYhSDlj43or4HvvJrpmIjlgLzku6XkuIvnoa7lrp7pm7blj43lupQiXSA9IGJvb2woc3RhcnRsZV9hbXBsaXR1ZGUoNjApID09IDApCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gRwpwcmludCgiXG7jgJBH44CR4pqg77iPIOivmuWunu+8muS7gOS5iOS4jeiDveivtCIpCnByaW50KCItIiAqIDg4KQpwcmludCgiICDinYwg5LiN6IO96K+0XCLmlbDlrZfniIbngrjlkozmg4rlkJPmmK/lkIzkuIDkuKrniannkIbov4fnqItcIiIpCnByaW50KCIgICAgIOaVsOWtl+eIhueCuCA9IOa7pOazouWZqOezu+aVsOeXheaAge+8iGJhIOmrmOmYtiArIOaegeeqhOebuOWvueW4puWuve+8iSIpCnByaW50KCIgICAgIOeUn+eJqeaDiuWQkyA9IOiEkeW5suWPjeWwhOmAmui3ryIpCnByaW50KCIgICAgIOKYhSDlkIzmnoTvvIjpg73mmK/otoXlh7rojIPlm7TvvInvvIzkuI3mmK/lkIzkuIDmnLrliLYiKQpwcmludCgiICDinYwg5YmN572u5aKe55uK5o6n5Yi244CQ5LiN6IO944CR5L+uIGJhIOa7pOazouWZqOeahOaVsOWAvOeXheaAgSIpCnByaW50KCIgICAgIOKYhTQ2IOmCo+S4qiBidWcg5b+F6aG75o2iIHNvcyDmiY3og73kv64g4oCU4oCUIOi/meaYr+e7k+aehOmXrumimO+8jOS4jeaYr+W5heW6pumXrumimCIpCnByaW50KCIgIOKchSDog73or7TvvJrpnaLlr7lcIui2heiMg+WbtFwi77yM55Sf54mp55So44CQ5YmN572u5Y6L57yp44CR77yM5oiR55So44CQ5ZCO572u5Lii5byD44CRIikKcHJpbnQoIiAgICAg4piFIOeUn+eJqeeahOaWueahiOabtOWlve+8jOWboOS4uuS/neeVmeS6huS/oeaBryIpCgpwcmludCgiXG4iICsgIj0iICogODgpCnByaW50KCIg5Yik5o2uIikKcHJpbnQoIj0iICogODgpCmZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICBwcmludChmIiAgeyfinIUnIGlmIHYgZWxzZSAn4p2MJ30ge2t9IikKcHJpbnQoZiJcbiAg4pyFIHtzdW0ob2sudmFsdWVzKCkpfS97bGVuKG9rKX0iKQoKanNvbi5kdW1wKHsib2siOiB7azogYm9vbCh2KSBmb3IgaywgdiBpbiBvay5pdGVtcygpfSwKICAgICAgICAgICAicHBpIjoge3N0cihrKTogdiBmb3IgaywgdiBpbiBwcGkuaXRlbXMoKX0sCiAgICAgICAgICAgImluZm8iOiB7InVucHJvdGVjdGVkIjogcjEsICJwb3N0X2NsaXAiOiByMiwgInByZV9nYWluIjogcjN9fSwKICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAic3RhcnRsZS5qc29uIiksICJ3IiksCiAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★47 惊吓反射 —— "爆炸是惊吓" 的验证
+================================================================
+★★★ 用户洞察
+    "知道了，为什么爆炸了，爆炸是惊吓。"
+
+★ 我 ★46 修爆炸的方式 = 后置置零（超范围 → 整段判失效）
+★ 用户点破：生物早就有这个 —— 惊吓反射，而且是【前置】的
+
+★★ 本轮三件事
+   A 惊吓反射的真参数（潜伏期/PPI/习惯化）
+   B ★★★ 三方案对照：无保护 / 后置置零 / 前置增益控制
+   C 惊吓 == 动态范围超限？用真参数验证这个同构
+
+★★ 硬约束（针对 ★46 可信度扫描教训）
+   ★ 每个结论都要有【对照】或【ground truth】，不能只看着合理
+"""
+import os, sys, json
+import numpy as np
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.startle import (
+    startle_amplitude, startle_latency, ppi_ratio, startle_with_ppi,
+    habituation, dishabituation, unprotected, post_clip, pre_gain_control,
+    info_retained, STARTLE_THRESH_DB, STARTLE_LATENCY_MS, CORTEX_LATENCY_MS,
+    FS,
+)
+
+ok = {}
+print("=" * 88)
+print(" ★47 爆炸就是惊吓 —— 惊吓反射层")
+print("=" * 88)
+
+# ---------------------------------------------------------------- A
+print("\n【A】★ 惊吓反射真参数")
+print("-" * 88)
+print(f"  {'强度dB':<10}{'幅度':>10}{'潜伏期ms':>12}")
+for db in [70, 85, 95, 105, 115, 125]:
+    a = startle_amplitude(db); lat = startle_latency(db)
+    print(f"  {db:<10}{a:>10.4f}{lat:>12.1f}")
+ok["① ★ 阈值(85dB)以下不惊吓"] = bool(startle_amplitude(70) == 0
+                                 and startle_amplitude(95) > 0)
+l85, l125 = startle_latency(95), startle_latency(125)
+ok["② ★ 越强潜伏期越短"] = bool(l125 < l85)
+print(f"\n  ★ 潜伏期 95dB={l85:.1f}ms → 125dB={l125:.1f}ms")
+print(f"  ★ 惊吓(~20ms) vs 皮层听觉(~100ms) = {CORTEX_LATENCY_MS/STARTLE_LATENCY_MS:.1f}× 快")
+ok["③ ★ 惊吓远快于皮层（脑干通路，绕过皮层）"] = bool(
+    STARTLE_LATENCY_MS < CORTEX_LATENCY_MS / 3)
+
+# ---------------------------------------------------------------- B
+print("\n【B】★★ PPI 前脉冲抑制曲线")
+print("-" * 88)
+print(f"  {'间隔ms':<10}{'抑制率':>10}")
+isis = [10, 30, 60, 120, 240, 500, 800]
+ppi = {}
+for isi in isis:
+    r = ppi_ratio(isi, 70.0, 115.0)
+    ppi[isi] = r
+    print(f"  {isi:<10}{r*100:>9.1f}%")
+ok["④ ★ PPI 最优在 120ms"] = bool(ppi[120] == max(ppi.values()) and ppi[120] > 0)
+ok["⑤ ★ <30ms 无效（来不及门控）"] = bool(ppi[10] == 0)
+ok["⑥ ★ >500ms 无效（门控已关）"] = bool(ppi[800] == 0)
+peak = ppi[120]
+print(f"\n  ★ 峰值抑制 {peak*100:.1f}%   （REAL 30~70%）")
+ok["⑦ ★ 峰值抑制落在 30~70%"] = bool(0.30 <= peak <= 0.70)
+a_no = startle_with_ppi(115.0)
+a_pp = startle_with_ppi(115.0, 70.0, 120.0)
+print(f"  ★ 无前脉冲 {a_no:.4f} → 有前脉冲(120ms) {a_pp:.4f}  降 {(1-a_pp/a_no)*100:.1f}%")
+
+# ---------------------------------------------------------------- C
+print("\n【C】★★ 习惯化与去习惯化")
+print("-" * 88)
+h = habituation(15, 105.0)
+print(f"  {'次数':<8}{'幅度':>10}")
+for i in [0, 1, 4, 9, 14]:
+    print(f"  {i+1:<8}{h[i]:>10.4f}")
+ok["⑧ ★ 重复后下降（习惯化）"] = bool(h[-1] < h[0] * 0.6)
+print(f"  ★ 第1次 {h[0]:.4f} → 第15次 {h[-1]:.4f}  降到 {h[-1]/h[0]*100:.0f}%")
+dh = dishabituation(h[-1], 120.0, 105.0)
+print(f"  ★ 去习惯化：换到120dB → {dh:.4f}  （>习惯化后 {h[-1]:.4f}）")
+ok["⑨ ★ 去习惯化：更强刺激让惊吓恢复"] = bool(dh > h[-1])
+
+# ---------------------------------------------------------------- D
+print("\n【D】★★★ 核心：三方案对照（爆炸 vs 惊吓）")
+print("-" * 88)
+print("  ★★ 这就是用户那句话的实证：\"爆炸是惊吓\"")
+rng = np.random.default_rng(0)
+n = int(0.5 * FS)
+t = np.arange(n) / FS
+# 一个突然的大信号（≈惊吓刺激）
+x = 0.02 * np.sin(2 * np.pi * 200 * t)
+x[n // 2:] += 0.9 * np.sin(2 * np.pi * 300 * t[n // 2:])   # 突发的强成分
+src_peak = float(np.abs(x).max())
+
+y1 = unprotected(x)
+y2, bad2 = post_clip(x)
+y3, bad3 = pre_gain_control(x)
+
+r1, r2, r3 = info_retained(y1), info_retained(y2), info_retained(y3)
+print(f"\n  {'方案':<22}{'溢出':<8}{'峰值':>14}{'信息保留':>12}")
+print(f"  {'① 无保护':<22}{'是':<8}{np.abs(y1[np.isfinite(y1)]).max():>14.2e}{r1:>12.3f}")
+print(f"  {'② 后置置零(★46)':<22}{'否':<8}{np.abs(y2).max():>14.2e}{r2:>12.3f}")
+print(f"  {'③ 前置增益控制(生物)':<22}{'否' if not bad3 else '是':<8}{np.abs(y3).max():>14.2e}{r3:>12.3f}")
+
+ok["⑩ ★★ 无保护确实溢出"] = bool(np.isinf(np.abs(y1)).any())
+ok["⑪ ★★ 后置置零：停了溢出但信息全丢"] = bool(r2 < 0.05)
+ok["⑫ ★★★ 前置增益控制：不溢出且信息保留(>0.5)"] = bool((not bad3) and r3 > 0.5)
+print(f"\n  ★★★ 信息保留：后置置零 {r2:.3f}  vs  前置增益控制 {r3:.3f}")
+print(f"  ★ 这就是差异：{r3/max(r2,1e-9):.1f}×")
+ok["⑬ ★★★ 前置方案信息保留显著优于后置"] = bool(r3 > r2 * 5)
+
+# ---------------------------------------------------------------- E
+print("\n【E】★★ 潜伏期过冲 —— 为什么大声第一下特别震")
+print("-" * 88)
+print("  ★ 镫骨肌反射有 60ms 潜伏期 → 第一下没衰减就进来了")
+for lat in [0.0, 20.0, 60.0, 120.0]:
+    yl, bl = pre_gain_control(x, latency_ms=lat)
+    over = float(np.abs(yl).max())
+    print(f"  潜伏期 {lat:>6.0f} ms  →  峰值 {over:.3e}   溢出 {bl}")
+y0, _ = pre_gain_control(x, latency_ms=0.0)
+y60, _ = pre_gain_control(x, latency_ms=60.0)
+ok["⑭ ★ 潜伏期越长，第一下过冲越大"] = bool(np.abs(y60).max() > np.abs(y0).max())
+print(f"\n  ★ 0ms 潜伏峰值 {np.abs(y0).max():.3e}  vs  60ms 潜伏峰值 {np.abs(y60).max():.3e}")
+
+# ---------------------------------------------------------------- F
+print("\n【F】★★★ 惊吓 == 动态范围超限？同构检验")
+print("-" * 88)
+print("  ★ 用户洞察的形式化：")
+print("    数字爆炸 = 输入超出【数值稳定范围】")
+print("    生物惊吓 = 输入超出【感觉动态范围】")
+print("    两者根因同构 = 超出系统能处理的范围")
+print()
+print(f"  {'dB':<8}{'惊吓幅度':>12}{'是否超限(>85dB)':>18}")
+for db in [60, 75, 85, 95, 110]:
+    a = startle_amplitude(db)
+    print(f"  {db:<8}{a:>12.4f}{('是' if db > STARTLE_THRESH_DB else '否'):>18}")
+ok["⑮ ★ 惊吓只在超限时发生（同构成立）"] = bool(
+    startle_amplitude(75) == 0 and startle_amplitude(95) > 0)
+
+print("\n  ★ 反证：如果惊吓不是超限，而是任意强度都有反应")
+print(f"    60dB 幅度 {startle_amplitude(60):.4f}  →  低于阈值完全无反应 ✅")
+ok["⑯ ★ 反证：阈值以下确实零反应"] = bool(startle_amplitude(60) == 0)
+
+# ---------------------------------------------------------------- G
+print("\n【G】⚠️ 诚实：什么不能说")
+print("-" * 88)
+print("  ❌ 不能说\"数字爆炸和惊吓是同一个物理过程\"")
+print("     数字爆炸 = 滤波器系数病态（ba 高阶 + 极窄相对带宽）")
+print("     生物惊吓 = 脑干反射通路")
+print("     ★ 同构（都是超出范围），不是同一机制")
+print("  ❌ 前置增益控制【不能】修 ba 滤波器的数值病态")
+print("     ★46 那个 bug 必须换 sos 才能修 —— 这是结构问题，不是幅度问题")
+print("  ✅ 能说：面对\"超范围\"，生物用【前置压缩】，我用【后置丢弃】")
+print("     ★ 生物的方案更好，因为保留了信息")
+
+print("\n" + "=" * 88)
+print(" 判据")
+print("=" * 88)
+for k, v in ok.items():
+    print(f"  {'✅' if v else '❌'} {k}")
+print(f"\n  ✅ {sum(ok.values())}/{len(ok)}")
+
+json.dump({"ok": {k: bool(v) for k, v in ok.items()},
+           "ppi": {str(k): v for k, v in ppi.items()},
+           "info": {"unprotected": r1, "post_clip": r2, "pre_gain": r3}},
+          open(os.path.join(HERE, ".sense", "startle.json"), "w"),
+          ensure_ascii=False, indent=1)

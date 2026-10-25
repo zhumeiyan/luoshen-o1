@@ -1,1 +1,81 @@
-aW1wb3J0IGpzb24sIHJhbmRvbSwgbWF0aCwgZ2xvYiwgb3MsIGhhc2hsaWIKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlciwgZGVmYXVsdGRpY3QKcmFuZG9tLnNlZWQoNDIpCkJBU0U9Jy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xJwpkZWYgbG9hZChwKToKICAgIHRyeTogcmV0dXJuIG9wZW4ocCxlbmNvZGluZz0ndXRmLTgnLGVycm9ycz0naWdub3JlJykucmVhZCgpCiAgICBleGNlcHQgRXhjZXB0aW9uOiByZXR1cm4gJycKZGVmIGZpbmQocGF0KToKICAgIGc9Z2xvYi5nbG9iKHBhdCk7IHJldHVybiBnWzBdIGlmIGcgZWxzZSAnJwpzcmM9e30Kc3JjWydodW1hbl/kvaAnXT1sb2FkKGZpbmQoQkFTRSsnL2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0JykpIG9yIGxvYWQoZmluZChCQVNFKycvZXhwZXJpbWVudHMvZXhwMTc1X2FsaWduL3Vfc2lkZS50eHQnKSkKc3JjWydhaV/liKTmja7moLgnXT1sb2FkKGZpbmQoQkFTRSsnL2V2aWRlbmNlL+Wksei0peaooeW8j+W6ky/liKTmja7moLgubWQnKSkKc3JjWydjb2RlJ109bG9hZChmaW5kKEJBU0UrJy9leHBlcmltZW50cy9leHAxODJfZm9yZ2V0LyoucHknKSkgb3IgbG9hZChmaW5kKEJBU0UrJy9leHBlcmltZW50cy8qLyoucHknKSkKc3JjWydlbmdsaXNoJ109KCJJbiB0aGUgYmVnaW5uaW5nIHRoZXJlIHdhcyBub3RoaW5nLCB3aGljaCBleHBsb2RlZC4gIgogIlRpbWUgaXMgYW4gaWxsdXNpb24sIGx1bmNodGltZSBkb3VibHkgc28uICIKICJUaGUgYW5zd2VyIHRvIHRoZSBncmVhdCBxdWVzdGlvbiBvZiBsaWZlIHRoZSB1bml2ZXJzZSBhbmQgZXZlcnl0aGluZyBpcyBmb3J0eSB0d28uICIKICJJIGhhdmUgYWx3YXlzIHRob3VnaHQgdGhhdCB0aGUgYWN0aW9ucyBvZiBtZW4gYXJlIHRoZSBiZXN0IGludGVycHJldGVycyBvZiB0aGVpciB0aG91Z2h0cy4gIgogIkxhbmd1YWdlIGlzIHRoZSByb2FkIG1hcCBvZiBhIGN1bHR1cmUgaXQgdGVsbHMgeW91IHdoZXJlIGl0cyBwZW9wbGUgY29tZSBmcm9tIGFuZCB3aGVyZSB0aGV5IGFyZSBnb2luZy4gIikqNDAKc3JjWydwZXJpb2RpY1/mrbsnXT0nYWJjZGVmZ2gnKjE1MDAKc3JjWydub2lzZV/mrbsnXT0nJy5qb2luKHJhbmRvbS5jaG9pY2UoJ2FiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6ICcpIGZvciBfIGluIHJhbmdlKDEyMDAwKSkKX2Q9JzAnO19zPScnCmZvciBfaSBpbiByYW5nZSg0MDApOgogICAgX2Q9aGFzaGxpYi5zaGEyNTYoX2QuZW5jb2RlKCkpLmhleGRpZ2VzdCgpOyBfcys9X2QKc3JjWydkaWdpdHNfaGFzaCddPV9zWzoxMjAwMF0Kc3JjPXtrOnYgZm9yIGssdiBpbiBzcmMuaXRlbXMoKSBpZiBsZW4odik+MjAwfQoKZGVmIHByZWRpY3RfYWNjKHMsaz0yLHRyYWluPTAuNyk6CiAgICBuPWxlbihzKTsgY3V0PWludChuKnRyYWluKTsgdHIsdGU9c1s6Y3V0XSxzW2N1dDpdCiAgICBpZiBsZW4odGUpPDUwOiByZXR1cm4gTm9uZSxOb25lCiAgICBjdHg9ZGVmYXVsdGRpY3QoQ291bnRlcikKICAgIGZvciBpIGluIHJhbmdlKGxlbih0ciktayk6IGN0eFt0cltpOmkra11dW3RyW2kra11dKz0xCiAgICB0b3Q9Q291bnRlcih0cltpK2tdIGZvciBpIGluIHJhbmdlKGxlbih0ciktaykpCiAgICBoaXQ9MDt0b3RvPTA7c3VycD1bXQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRlKS1rKToKICAgICAgICBjPXRlW2k6aStrXTsgbng9dGVbaStrXTsgZD1jdHguZ2V0KGMpCiAgICAgICAgaWYgZDoKICAgICAgICAgICAgcD1kLm1vc3RfY29tbW9uKDEpWzBdWzBdOyBwcj1kW254XS9zdW0oZC52YWx1ZXMoKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwPXRvdC5tb3N0X2NvbW1vbigxKVswXVswXTsgcHI9MWUtNgogICAgICAgIGhpdCs9KHA9PW54KTsgdG90bys9MTsgc3VycC5hcHBlbmQoLW1hdGgubG9nMihtYXgocHIsMWUtOSkpKQogICAgYWNjPWhpdC90b3RvIGlmIHRvdG8gZWxzZSAwCiAgICBiYXNlPXRvdC5tb3N0X2NvbW1vbigxKVswXVsxXS9tYXgoMSxzdW0odG90LnZhbHVlcygpKSkKICAgIHJldHVybiBhY2MsYmFzZSxzdXJwCgpkZWYgbm92ZWx0eShzLGs9MyxibG9ja3M9MTApOgogICAgZ3M9W3NbaTppK2tdIGZvciBpIGluIHJhbmdlKGxlbihzKS1rKV0KICAgIHNlZW49c2V0KCk7IG91dD1bXTsgQj1sZW4oZ3MpLy9ibG9ja3MKICAgIGlmIEI8MjogcmV0dXJuIFtdCiAgICBmb3IgYiBpbiByYW5nZShibG9ja3MpOgogICAgICAgIGNoPWdzW2IqQjooYisxKSpCXQogICAgICAgIGlmIG5vdCBjaDogYnJlYWsKICAgICAgICBuZXc9c3VtKDEgZm9yIGcgaW4gY2ggaWYgZyBub3QgaW4gc2VlbikKICAgICAgICBmb3IgZyBpbiBjaDogc2Vlbi5hZGQoZykKICAgICAgICBvdXQuYXBwZW5kKG5ldy9sZW4oY2gpKQogICAgcmV0dXJuIG91dAoKZGVmIGF1dG9jb3JyKHgsbGFnPTEpOgogICAgbj1sZW4oeCkKICAgIGlmIG48MTA6IHJldHVybiAwLjAKICAgIG11PXN1bSh4KS9uCiAgICBudW09c3VtKCh4W2ldLW11KSooeFtpK2xhZ10tbXUpIGZvciBpIGluIHJhbmdlKG4tbGFnKSkKICAgIGRlbj1zdW0oKHYtbXUpKioyIGZvciB2IGluIHgpCiAgICByZXR1cm4gbnVtL2RlbiBpZiBkZW4+MCBlbHNlIDAuMAoKcmVzPXt9CmZvciBuYW1lLHMgaW4gc3JjLml0ZW1zKCk6CiAgICBhY2MsYmFzZSxzdXJwPXByZWRpY3RfYWNjKHMsaz0yKQogICAgaWYgYWNjIGlzIE5vbmU6IGNvbnRpbnVlCiAgICBudj1ub3ZlbHR5KHMsaz0zKQogICAgcmVzW25hbWVdPXsnbGVuJzpsZW4ocyksJ3ByZWRfYWNjJzpyb3VuZChhY2MsNCksJ2Jhc2VsaW5lJzpyb3VuZChiYXNlLDQpLAogICAgICAnbGlmdCc6cm91bmQoYWNjLWJhc2UsNCksCiAgICAgICdtZWFuX3N1cnByaXNlJzpyb3VuZChzdW0oc3VycCkvbGVuKHN1cnApLDQpLAogICAgICAnc3VycHJpc2VfYXV0b2NvcnInOnJvdW5kKGF1dG9jb3JyKHN1cnApLDQpLAogICAgICAnbm92ZWx0eV9maXJzdCc6cm91bmQobnZbMF0sNCkgaWYgbnYgZWxzZSBOb25lLAogICAgICAnbm92ZWx0eV9sYXN0Jzpyb3VuZChudlstMV0sNCkgaWYgbnYgZWxzZSBOb25lLAogICAgICAnbm92ZWx0eV9kZWNheSc6cm91bmQobnZbLTFdL252WzBdLDQpIGlmIG52IGFuZCBudlswXT4wIGVsc2UgTm9uZX0KanNvbi5kdW1wKHJlcyxvcGVuKCdyZXN1bHQxODMuanNvbicsJ3cnKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTIpCnByaW50KGpzb24uZHVtcHMocmVzLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MikpCnByaW50KCJcbi0tLSBzb3J0ZWQgYnkgcHJlZF9hY2MgLS0tIikKZm9yIGssdiBpbiBzb3J0ZWQocmVzLml0ZW1zKCksa2V5PWxhbWJkYSB4OnhbMV1bJ3ByZWRfYWNjJ10pOgogICAgcHJpbnQoZiJ7azoxNHN9IHByZWQ9e3ZbJ3ByZWRfYWNjJ106LjRmfSBsaWZ0PXt2WydsaWZ0J106Ky40Zn0gYXV0b2NvcnI9e3ZbJ3N1cnByaXNlX2F1dG9jb3JyJ106Ky40Zn0gbnZfZGVjYXk9e3ZbJ25vdmVsdHlfZGVjYXknXX0iKQo=
+import json, random, math, glob, os, hashlib
+from collections import Counter, defaultdict
+random.seed(42)
+BASE='/data/workspace/luoshen-o1'
+def load(p):
+    try: return open(p,encoding='utf-8',errors='ignore').read()
+    except Exception: return ''
+def find(pat):
+    g=glob.glob(pat); return g[0] if g else ''
+src={}
+src['human_你']=load(find(BASE+'/experiments/exp180_record/u_side_full.txt')) or load(find(BASE+'/experiments/exp175_align/u_side.txt'))
+src['ai_判据核']=load(find(BASE+'/evidence/失败模式库/判据核.md'))
+src['code']=load(find(BASE+'/experiments/exp182_forget/*.py')) or load(find(BASE+'/experiments/*/*.py'))
+src['english']=("In the beginning there was nothing, which exploded. "
+ "Time is an illusion, lunchtime doubly so. "
+ "The answer to the great question of life the universe and everything is forty two. "
+ "I have always thought that the actions of men are the best interpreters of their thoughts. "
+ "Language is the road map of a culture it tells you where its people come from and where they are going. ")*40
+src['periodic_死']='abcdefgh'*1500
+src['noise_死']=''.join(random.choice('abcdefghijklmnopqrstuvwxyz ') for _ in range(12000))
+_d='0';_s=''
+for _i in range(400):
+    _d=hashlib.sha256(_d.encode()).hexdigest(); _s+=_d
+src['digits_hash']=_s[:12000]
+src={k:v for k,v in src.items() if len(v)>200}
+
+def predict_acc(s,k=2,train=0.7):
+    n=len(s); cut=int(n*train); tr,te=s[:cut],s[cut:]
+    if len(te)<50: return None,None
+    ctx=defaultdict(Counter)
+    for i in range(len(tr)-k): ctx[tr[i:i+k]][tr[i+k]]+=1
+    tot=Counter(tr[i+k] for i in range(len(tr)-k))
+    hit=0;toto=0;surp=[]
+    for i in range(len(te)-k):
+        c=te[i:i+k]; nx=te[i+k]; d=ctx.get(c)
+        if d:
+            p=d.most_common(1)[0][0]; pr=d[nx]/sum(d.values())
+        else:
+            p=tot.most_common(1)[0][0]; pr=1e-6
+        hit+=(p==nx); toto+=1; surp.append(-math.log2(max(pr,1e-9)))
+    acc=hit/toto if toto else 0
+    base=tot.most_common(1)[0][1]/max(1,sum(tot.values()))
+    return acc,base,surp
+
+def novelty(s,k=3,blocks=10):
+    gs=[s[i:i+k] for i in range(len(s)-k)]
+    seen=set(); out=[]; B=len(gs)//blocks
+    if B<2: return []
+    for b in range(blocks):
+        ch=gs[b*B:(b+1)*B]
+        if not ch: break
+        new=sum(1 for g in ch if g not in seen)
+        for g in ch: seen.add(g)
+        out.append(new/len(ch))
+    return out
+
+def autocorr(x,lag=1):
+    n=len(x)
+    if n<10: return 0.0
+    mu=sum(x)/n
+    num=sum((x[i]-mu)*(x[i+lag]-mu) for i in range(n-lag))
+    den=sum((v-mu)**2 for v in x)
+    return num/den if den>0 else 0.0
+
+res={}
+for name,s in src.items():
+    acc,base,surp=predict_acc(s,k=2)
+    if acc is None: continue
+    nv=novelty(s,k=3)
+    res[name]={'len':len(s),'pred_acc':round(acc,4),'baseline':round(base,4),
+      'lift':round(acc-base,4),
+      'mean_surprise':round(sum(surp)/len(surp),4),
+      'surprise_autocorr':round(autocorr(surp),4),
+      'novelty_first':round(nv[0],4) if nv else None,
+      'novelty_last':round(nv[-1],4) if nv else None,
+      'novelty_decay':round(nv[-1]/nv[0],4) if nv and nv[0]>0 else None}
+json.dump(res,open('result183.json','w'),ensure_ascii=False,indent=2)
+print(json.dumps(res,ensure_ascii=False,indent=2))
+print("\n--- sorted by pred_acc ---")
+for k,v in sorted(res.items(),key=lambda x:x[1]['pred_acc']):
+    print(f"{k:14s} pred={v['pred_acc']:.4f} lift={v['lift']:+.4f} autocorr={v['surprise_autocorr']:+.4f} nv_decay={v['novelty_decay']}")

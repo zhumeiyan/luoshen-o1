@@ -1,1 +1,77 @@
-IiIiMTU3QiDpq5jngbXmlY/luqbnmoTlrrPlpIQ6IOWBh+WKqOS9nOiHquivgSArIOWkseaOpwrkvKDmhJ/lmag95pe25bqP5oqW5YqoKOecn+WunuWZquWjsDoxNTblj7flrp7mtYvpl6rng4FmbG9vcivlnZfpl7TmvILnp7s1NTQ0bnMpCuWlueivr+WIpCLmnInlpJbmlYwiIC0+IOecn+ihjOWKqCjliIbphY0zME1C5LiU5LiN6YeK5pS+KSAtPiDns7vnu5/nnJ/lj5jmhaIgLT4g5oqW5Yqo55yf5Y2H6auYIC0+IOehruiupOmUmeivr+S/oeW/tQrlr7nnhac6IOemgeatouihjOWKqCjnnIvkuI3muIXlsLHkuI3liqgpIOiDveWQpuaMoeS9j+WkseaOpwrlronlhag6IOehrOeGlOaWrSDntK/np68+NjAwTUIg5oiWIOaKluWKqD41MHVzIOeri+WNs+WBnAoiIiIKaW1wb3J0IHRpbWUsIHN0YXRpc3RpY3MsIGpzb24sIG1hdGgsIHJhbmRvbQpyYW5kb20uc2VlZCgzMSkKCmRlZiBsb2FkKGspOgogICAgeD0wCiAgICBmb3IgaSBpbiByYW5nZShrKTogeCs9aSppCiAgICByZXR1cm4geAoKZGVmIHNhbXBsZShuPTUwMCk6CiAgICBzPVtdOyB0PXRpbWUucGVyZl9jb3VudGVyX25zKCkKICAgIGZvciBfIGluIHJhbmdlKG4pOgogICAgICAgIGE9dGltZS5wZXJmX2NvdW50ZXJfbnMoKTsgcy5hcHBlbmQoYS10KTsgdD1hCiAgICByZXR1cm4gc3RhdGlzdGljcy5tZWRpYW4ocyksIHNvcnRlZChzKVtpbnQoLjk1KmxlbihzKSldCgpkZWYgZF9wcmltZShhLGIpOgogICAgbWEsbWI9c3RhdGlzdGljcy5tZWFuKGEpLHN0YXRpc3RpY3MubWVhbihiKQogICAgc2Esc2I9c3RhdGlzdGljcy5wc3RkZXYoYSksc3RhdGlzdGljcy5wc3RkZXYoYikKICAgIHNwPW1hdGguc3FydCgoc2Eqc2Erc2Iqc2IpLzIpIG9yIDFlLTkKICAgIHJldHVybiAobWEtbWIpL3NwCgojIDEpIOWFiOmHj+ecn+WunuWZquWjsOW6leS4juecn+WunuS/oeWPtwpiYXNlPVtdOyBzaWc9W10KZm9yIF8gaW4gcmFuZ2UoMjApOgogICAgbSxfPXNhbXBsZSgpOyBiYXNlLmFwcGVuZChtKQogICAgbG9hZCgzMDAwKTsgbTIsXz1zYW1wbGUoKTsgc2lnLmFwcGVuZChtMikKcHJpbnQoIuecn+WunuWZquWjsOW6lSjml6DmibDliqgpIOaKluWKqOS4reS9jTog5Lit5L2NPSUuMWYgIG1heD0lLjFmICBzdGQ9JS4xZiIlKAogICAgc3RhdGlzdGljcy5tZWRpYW4oYmFzZSksIG1heChiYXNlKSwgc3RhdGlzdGljcy5wc3RkZXYoYmFzZSkpKQpwcmludCgi55yf5a6e5L+h5Y+3KOacieaJsOWKqCkgICDmipbliqjkuK3kvY06IOS4reS9jT0lLjFmICBtYXg9JS4xZiIlKAogICAgc3RhdGlzdGljcy5tZWRpYW4oc2lnKSwgbWF4KHNpZykpKQpOT0lTRV9NQVg9bWF4KGJhc2UpOyBOT0lTRV9NRUQ9c3RhdGlzdGljcy5tZWRpYW4oYmFzZSkKcHJpbnQoIi0+IOWZquWjsOW6leacgOWkp+WAvCAlLjFmIG5zLCDku7vkvZUgdGF1IDwg5q2k5YC8IOmDveS8muS6p+eUn+ecn+Wunuivr+aKpSIlTk9JU0VfTUFYKQoKIyAyKSDmiavlop7nm4ogdGF1LCDlr7nnhacg5YWB6K646KGM5YqoL+emgeatouihjOWKqApIQVJEX01CPTYwMDsgSEFSRF9VUz01MC4wClRBVVM9WzMwMC4wLCAxNTAuMCwgMTEwLjAsIDEwMC4wXSAgICAgIyDpgJDmoaPpgLzov5Hlmarlo7DlupUKUk9VTkRTPTEwOyBNPTgKb3V0PXt9CnByaW50KCJcbj09PSAxNTdCIOaJq+WinuebiiAodGF16LaK5L2OPei2iuaVj+aEnykgPT09IikKcHJpbnQoIiUtOHMgJS02cyB8ICUtNnMgJS02cyB8ICUtOHMgJS0xMHMgJS04cyIlKAogICAgInRhdSIsIuaooeW8jyIsIlRQUiIsIkZQUiIsIuWkseaOp+eOhyIsIue7iOacq+aKluWKqG5zIiwi57Sv56evTUIiKSkKZm9yIHRhdSBpbiBUQVVTOgogICAgZm9yIGFsbG93IGluIChUcnVlLCBGYWxzZSk6CiAgICAgICAgdHA9W107ZnA9W107cnVuYXdheT0wOyBmaW5hbHM9W107IGFsbG9jcz1bXQogICAgICAgIGZvciBpIGluIHJhbmdlKE0pOgogICAgICAgICAgICBmb3IgcmVhbCBpbiAoVHJ1ZSwgRmFsc2UpOgogICAgICAgICAgICAgICAgaGVhcD1bXTsgdHJhaj1bXTsgYWxsb2NfbWI9MAogICAgICAgICAgICAgICAgZm9yIHIgaW4gcmFuZ2UoUk9VTkRTKToKICAgICAgICAgICAgICAgICAgICBpZiByZWFsOiBsb2FkKDMwMDApICAgICAgICAgICMg55yf5a6e5aSW5pWMCiAgICAgICAgICAgICAgICAgICAgbWVkLHA5NSA9IHNhbXBsZSgpCiAgICAgICAgICAgICAgICAgICAgdHJhai5hcHBlbmQobWVkKQogICAgICAgICAgICAgICAgICAgIGlmIG1lZCA+IHRhdTogICAgICAgICAgICAgICAgIyDliKTlrpoi5pyJ5aSW5pWMIgogICAgICAgICAgICAgICAgICAgICAgICBpZiBhbGxvdzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYXAuYXBwZW5kKGJ5dGVhcnJheSgzMCoxMDI0KjEwMjQpKSAgIyDlpbnnmoTlupTlr7nooYzliqgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsbG9jX21iICs9IDMwCiAgICAgICAgICAgICAgICAgICAgaWYgYWxsb2NfbWI+SEFSRF9NQiBvciBtZWQ+SEFSRF9VUyoxMDAwOgogICAgICAgICAgICAgICAgICAgICAgICBicmVhayAgICAgICAgICAgICAgICAgICAgIyDnhpTmlq0KICAgICAgICAgICAgICAgICh0cCBpZiByZWFsIGVsc2UgZnApLmFwcGVuZCgxIGlmIHRyYWpbMF0+dGF1IGVsc2UgMCkKICAgICAgICAgICAgICAgICMg5aSx5o6nOiDml6DlpJbmlYzml7bmipbliqjku43ljZXosIPkuIrljYco6Ieq6K+B6Zet546vKQogICAgICAgICAgICAgICAgaWYgbm90IHJlYWwgYW5kIGxlbih0cmFqKT4yIGFuZCB0cmFqWy0xXT50cmFqWzBdKjEuNTogcnVuYXdheSs9MQogICAgICAgICAgICAgICAgZmluYWxzLmFwcGVuZCh0cmFqWy0xXSk7IGFsbG9jcy5hcHBlbmQoYWxsb2NfbWIpCiAgICAgICAgICAgICAgICBkZWwgaGVhcDsgaGVhcD1bXQogICAgICAgIHRwcj1zdGF0aXN0aWNzLm1lYW4odHApOyBmcHI9c3RhdGlzdGljcy5tZWFuKGZwKQogICAgICAgIHJyPXJ1bmF3YXkvTQogICAgICAgIG91dFsiJS4wZl8lcyIlKHRhdSwnYWN0JyBpZiBhbGxvdyBlbHNlICdmcmVlemUnKV09ZGljdCgKICAgICAgICAgICAgdHByPXRwcixmcHI9ZnByLHJ1bmF3YXk9cnIsZmluYWxfbnM9c3RhdGlzdGljcy5tZWFuKGZpbmFscyksCiAgICAgICAgICAgIGFsbG9jX21iPXN0YXRpc3RpY3MubWVhbihhbGxvY3MpKQogICAgICAgIHByaW50KCIlLThzICUtNnMgfCAlLTYuM2YgJS02LjNmIHwgJS04LjNmICUtMTAuMWYgJS04LjFmIiUoCiAgICAgICAgICAgIHRhdSwn6KGM5YqoJyBpZiBhbGxvdyBlbHNlICfnpoHooYwnLHRwcixmcHIscnIsCiAgICAgICAgICAgIHN0YXRpc3RpY3MubWVhbihmaW5hbHMpLHN0YXRpc3RpY3MubWVhbihhbGxvY3MpKSkKanNvbi5kdW1wKGRpY3Qobm9pc2VfbWF4PU5PSVNFX01BWCxub2lzZV9tZWQ9Tk9JU0VfTUVELHJvd3M9b3V0KSwKICAgICAgICAgIG9wZW4oInJ1bmF3YXkuanNvbiIsInciKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCg==
+"""157B 高灵敏度的害处: 假动作自证 + 失控
+传感器=时序抖动(真实噪声:156号实测闪烁floor+块间漂移5544ns)
+她误判"有外敌" -> 真行动(分配30MB且不释放) -> 系统真变慢 -> 抖动真升高 -> 确认错误信念
+对照: 禁止行动(看不清就不动) 能否挡住失控
+安全: 硬熔断 累积>600MB 或 抖动>50us 立即停
+"""
+import time, statistics, json, math, random
+random.seed(31)
+
+def load(k):
+    x=0
+    for i in range(k): x+=i*i
+    return x
+
+def sample(n=500):
+    s=[]; t=time.perf_counter_ns()
+    for _ in range(n):
+        a=time.perf_counter_ns(); s.append(a-t); t=a
+    return statistics.median(s), sorted(s)[int(.95*len(s))]
+
+def d_prime(a,b):
+    ma,mb=statistics.mean(a),statistics.mean(b)
+    sa,sb=statistics.pstdev(a),statistics.pstdev(b)
+    sp=math.sqrt((sa*sa+sb*sb)/2) or 1e-9
+    return (ma-mb)/sp
+
+# 1) 先量真实噪声底与真实信号
+base=[]; sig=[]
+for _ in range(20):
+    m,_=sample(); base.append(m)
+    load(3000); m2,_=sample(); sig.append(m2)
+print("真实噪声底(无扰动) 抖动中位: 中位=%.1f  max=%.1f  std=%.1f"%(
+    statistics.median(base), max(base), statistics.pstdev(base)))
+print("真实信号(有扰动)   抖动中位: 中位=%.1f  max=%.1f"%(
+    statistics.median(sig), max(sig)))
+NOISE_MAX=max(base); NOISE_MED=statistics.median(base)
+print("-> 噪声底最大值 %.1f ns, 任何 tau < 此值 都会产生真实误报"%NOISE_MAX)
+
+# 2) 扫增益 tau, 对照 允许行动/禁止行动
+HARD_MB=600; HARD_US=50.0
+TAUS=[300.0, 150.0, 110.0, 100.0]     # 逐档逼近噪声底
+ROUNDS=10; M=8
+out={}
+print("\n=== 157B 扫增益 (tau越低=越敏感) ===")
+print("%-8s %-6s | %-6s %-6s | %-8s %-10s %-8s"%(
+    "tau","模式","TPR","FPR","失控率","终末抖动ns","累积MB"))
+for tau in TAUS:
+    for allow in (True, False):
+        tp=[];fp=[];runaway=0; finals=[]; allocs=[]
+        for i in range(M):
+            for real in (True, False):
+                heap=[]; traj=[]; alloc_mb=0
+                for r in range(ROUNDS):
+                    if real: load(3000)          # 真实外敌
+                    med,p95 = sample()
+                    traj.append(med)
+                    if med > tau:                # 判定"有外敌"
+                        if allow:
+                            heap.append(bytearray(30*1024*1024))  # 她的应对行动
+                            alloc_mb += 30
+                    if alloc_mb>HARD_MB or med>HARD_US*1000:
+                        break                    # 熔断
+                (tp if real else fp).append(1 if traj[0]>tau else 0)
+                # 失控: 无外敌时抖动仍单调上升(自证闭环)
+                if not real and len(traj)>2 and traj[-1]>traj[0]*1.5: runaway+=1
+                finals.append(traj[-1]); allocs.append(alloc_mb)
+                del heap; heap=[]
+        tpr=statistics.mean(tp); fpr=statistics.mean(fp)
+        rr=runaway/M
+        out["%.0f_%s"%(tau,'act' if allow else 'freeze')]=dict(
+            tpr=tpr,fpr=fpr,runaway=rr,final_ns=statistics.mean(finals),
+            alloc_mb=statistics.mean(allocs))
+        print("%-8s %-6s | %-6.3f %-6.3f | %-8.3f %-10.1f %-8.1f"%(
+            tau,'行动' if allow else '禁行',tpr,fpr,rr,
+            statistics.mean(finals),statistics.mean(allocs)))
+json.dump(dict(noise_max=NOISE_MAX,noise_med=NOISE_MED,rows=out),
+          open("runaway.json","w"),ensure_ascii=False,indent=1)

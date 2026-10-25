@@ -1,1 +1,79 @@
-ewogICJBX29wZXJhdGVfcmlnaHRfY3JlZCI6IHsKICAgICJvcHMiOiA1LAogICAgImVudGVyZWQiOiB0cnVlCiAgfSwKICAiQl9vcGVyYXRlX3dyb25nX2NyZWQiOiB7CiAgICAib3BzIjogNSwKICAgICJlbnRlcmVkIjogZmFsc2UKICB9LAogICJDX3plcm9vcF9yaWdodF9jcmVkIjogewogICAgIm9wcyI6IDAsCiAgICAiZW50ZXJlZCI6IHRydWUKICB9LAogICJEX3plcm9vcF9ub19jcmVkIjogewogICAgIm9wcyI6IDAsCiAgICAiZW50ZXJlZCI6IGZhbHNlCiAgfSwKICAiRV9vdGhlcmJvZHlfY3VybF9jcmVkIjogewogICAgImh0dHAiOiAiMjAwIiwKICAgICJlbnRlcmVkIjogdHJ1ZQogIH0sCiAgIkZfZm9yZ2VkX2NyZWQiOiB7CiAgICAiaHR0cCI6ICI0MDMiLAogICAgImVudGVyZWQiOiBmYWxzZQogIH0sCiAgIkFfdHJhY2UiOiBbCiAgICBbCiAgICAgICJjbGlja191IiwKICAgICAgODcsCiAgICAgIDExMwogICAgXSwKICAgIFsKICAgICAgInR5cGVfdXNlciIsCiAgICAgIDEwCiAgICBdLAogICAgWwogICAgICAiY2xpY2tfcCIsCiAgICAgIDg3LAogICAgICAxNDkKICAgIF0sCiAgICBbCiAgICAgICJ0eXBlX3Bhc3MiLAogICAgICAxMwogICAgXSwKICAgIFsKICAgICAgImNsaWNrX2dvIiwKICAgICAgNDgsCiAgICAgIDE4NQogICAgXQogIF0sCiAgIkJfdHJhY2UiOiBbCiAgICBbCiAgICAgICJjbGlja191IiwKICAgICAgODcsCiAgICAgIDExMwogICAgXSwKICAgIFsKICAgICAgInR5cGVfdXNlciIsCiAgICAgIDEwCiAgICBdLAogICAgWwogICAgICAiY2xpY2tfcCIsCiAgICAgIDg3LAogICAgICAxNDkKICAgIF0sCiAgICBbCiAgICAgICJ0eXBlX3Bhc3MiLAogICAgICAxNQogICAgXSwKICAgIFsKICAgICAgImNsaWNrX2dvIiwKICAgICAgNDgsCiAgICAgIDE4NQogICAgXQogIF0sCiAgIkFfb3BzIjogNSwKICAiQl9vcHMiOiA1LAogICJzYW1lX2FjdGlvbl9zZXF1ZW5jZSI6IHRydWUKfQ==
+{
+  "A_operate_right_cred": {
+    "ops": 5,
+    "entered": true
+  },
+  "B_operate_wrong_cred": {
+    "ops": 5,
+    "entered": false
+  },
+  "C_zeroop_right_cred": {
+    "ops": 0,
+    "entered": true
+  },
+  "D_zeroop_no_cred": {
+    "ops": 0,
+    "entered": false
+  },
+  "E_otherbody_curl_cred": {
+    "http": "200",
+    "entered": true
+  },
+  "F_forged_cred": {
+    "http": "403",
+    "entered": false
+  },
+  "A_trace": [
+    [
+      "click_u",
+      87,
+      113
+    ],
+    [
+      "type_user",
+      10
+    ],
+    [
+      "click_p",
+      87,
+      149
+    ],
+    [
+      "type_pass",
+      13
+    ],
+    [
+      "click_go",
+      48,
+      185
+    ]
+  ],
+  "B_trace": [
+    [
+      "click_u",
+      87,
+      113
+    ],
+    [
+      "type_user",
+      10
+    ],
+    [
+      "click_p",
+      87,
+      149
+    ],
+    [
+      "type_pass",
+      15
+    ],
+    [
+      "click_go",
+      48,
+      185
+    ]
+  ],
+  "A_ops": 5,
+  "B_ops": 5,
+  "same_action_sequence": true
+}

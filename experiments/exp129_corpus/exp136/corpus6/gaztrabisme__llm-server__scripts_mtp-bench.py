@@ -1,1 +1,102 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwppbXBvcnQgYXJncGFyc2UsIGpzb24sIHN5cywgdGltZQpmcm9tIHVybGxpYiBpbXBvcnQgcmVxdWVzdAoKUFJPTVBUUyA9IFsKICAgIHsibmFtZSI6ICJjb2RlX3B5dGhvbiIsICAgICAgInByb21wdCI6ICJXcml0ZSBhIFB5dGhvbiBmdW5jdGlvbiB0aGF0IHJldHVybnMgdGhlIG4tdGggRmlib25hY2NpIG51bWJlciB1c2luZyBtZW1vaXphdGlvbi4gSW5jbHVkZSBhIGRvY3N0cmluZy4ifSwKICAgIHsibmFtZSI6ICJjb2RlX2NwcCIsICAgICAgICAgInByb21wdCI6ICJXcml0ZSBhIEMrKyB0ZW1wbGF0ZSBmdW5jdGlvbiBgY2xhbXAoeCwgbG8sIGhpKWAgdGhhdCByZXR1cm5zIHggY2xhbXBlZCB0byBbbG8sIGhpXS4gTm8gc3RkOjpjbGFtcC4ifSwKICAgIHsibmFtZSI6ICJleHBsYWluX2NvbmNlcHQiLCAgInByb21wdCI6ICJFeHBsYWluIGhvdyBzcGVjdWxhdGl2ZSBkZWNvZGluZyB3b3JrcyBpbiBsYXJnZSBsYW5ndWFnZSBtb2RlbCBpbmZlcmVuY2UsIGluIHRocmVlIHNob3J0IHBhcmFncmFwaHMuIn0sCiAgICB7Im5hbWUiOiAic3VtbWFyaXplIiwgICAgICAgICJwcm9tcHQiOiAiU3VtbWFyaXplIGluIHR3byBzZW50ZW5jZXM6IFRoZSBJbmR1c3RyaWFsIFJldm9sdXRpb24gYmVnYW4gaW4gQnJpdGFpbiBpbiB0aGUgbGF0ZSAxOHRoIGNlbnR1cnksIHRyYW5zZm9ybWluZyBtYW51ZmFjdHVyaW5nIHRocm91Z2ggbWVjaGFuaXphdGlvbiwgc3RlYW0gcG93ZXIsIGFuZCB0aGUgZmFjdG9yeSBzeXN0ZW0uIEl0IHNwcmVhZCB0byBjb250aW5lbnRhbCBFdXJvcGUgYW5kIE5vcnRoIEFtZXJpY2EgZHVyaW5nIHRoZSAxOXRoIGNlbnR1cnkuIn0sCiAgICB7Im5hbWUiOiAicWFfZmFjdHVhbCIsICAgICAgICJwcm9tcHQiOiAiUTogV2hhdCBhcmUgdGhlIGZvdXIgZnVuZGFtZW50YWwgZm9yY2VzIG9mIHBoeXNpY3M/XG5BOiJ9LAogICAgeyJuYW1lIjogInRyYW5zbGF0aW9uIiwgICAgICAicHJvbXB0IjogIlRyYW5zbGF0ZSB0byBGcmVuY2g6ICdUaGUgcXVpY2sgYnJvd24gZm94IGp1bXBzIG92ZXIgdGhlIGxhenkgZG9nLicifSwKICAgIHsibmFtZSI6ICJjcmVhdGl2ZV9zaG9ydCIsICAgInByb21wdCI6ICJXcml0ZSBhIGZvdXItbGluZSBwb2VtIGFib3V0IGFuIG9sZCBsaWdodGhvdXNlLiJ9LAogICAgeyJuYW1lIjogInN0ZXB3aXNlX21hdGgiLCAgICAicHJvbXB0IjogIlNvbHZlIHN0ZXAgYnkgc3RlcDogQSB0cmFpbiBsZWF2ZXMgc3RhdGlvbiBBIGF0IDYwIGttL2guIFR3byBob3VycyBsYXRlciwgYSBzZWNvbmQgdHJhaW4gbGVhdmVzIHRoZSBzYW1lIHN0YXRpb24gb24gdGhlIHNhbWUgdHJhY2sgYXQgOTAga20vaC4gSG93IGxvbmcgdW50aWwgdGhlIHNlY29uZCB0cmFpbiBjYXRjaGVzIHRoZSBmaXJzdD8ifSwKICAgIHsibmFtZSI6ICJsb25nX2NvZGVfcmV2aWV3IiwgInByb21wdCI6ICgKICAgICAgICAiWW91IGFyZSByZXZpZXdpbmcgYSBiYWNrZW5kIHNlcnZpY2UgdGhhdCBoYXMgYmVlbiBzdWZmZXJpbmcgaW50ZXJtaXR0ZW50IGxhdGVuY3kgc3Bpa2VzICIKICAgICAgICAiaW4gcHJvZHVjdGlvbi4gQmVsb3cgaXMgdGhlIHJlbGV2YW50IGNvZGUgYW5kIGEgZGVzY3JpcHRpb24gb2YgdGhlIHN5c3RlbS4gQWZ0ZXIgcmVhZGluZyAiCiAgICAgICAgImNhcmVmdWxseSwgcHJvZHVjZSBhIHN0cnVjdHVyZWQgcmV2aWV3IHdpdGggdGhyZWUgc2VjdGlvbnM6ICgxKSBsaWtlbHkgcm9vdCBjYXVzZXMgcmFua2VkICIKICAgICAgICAiYnkgcHJvYmFiaWxpdHksICgyKSBjb25jcmV0ZSBjb2RlIG9yIGNvbmZpZ3VyYXRpb24gY2hhbmdlcyB5b3Ugd291bGQgbWFrZSBmaXJzdCwgIgogICAgICAgICIoMykgd2hhdCB0ZWxlbWV0cnkgeW91IHdvdWxkIGFkZCB0byBjb25maXJtIHRoZSBkaWFnbm9zaXMuXG5cbiIKICAgICAgICAiU3lzdGVtIGRlc2NyaXB0aW9uOiBhIFB5dGhvbiBGYXN0QVBJIHNlcnZpY2UgaW4gZnJvbnQgb2YgYSBQb3N0Z3JlcyAxNSBkYXRhYmFzZSwgZGVwbG95ZWQgIgogICAgICAgICJhcyBmb3VyIHJlcGxpY2FzIGJlaGluZCBhbiBuZ2lueCBsb2FkIGJhbGFuY2VyLiBFYWNoIHJlcXVlc3QgcmVhZHMgYSB1c2VyIHJlY29yZCwgZmV0Y2hlcyAiCiAgICAgICAgInRoZWlyIGxhc3QgNTAgZXZlbnRzIGZyb20gYSBwYXJ0aXRpb25lZCBldmVudHMgdGFibGUsIGNvbXB1dGVzIGFuIGFnZ3JlZ2F0ZSBzY29yZSwgd3JpdGVzICIKICAgICAgICAidGhlIHNjb3JlIGJhY2sgdG8gdGhlIHVzZXIgcm93LCBhbmQgcmV0dXJucyBhIEpTT04gcmVzcG9uc2UuIEF2ZXJhZ2UgcGF5bG9hZCBpcyA0IEtCLiAiCiAgICAgICAgInA1MCBsYXRlbmN5IGlzIDM1IG1zOyBwOTkgc3Bpa2VzIHRvIDEuOCBzZWNvbmRzIGFwcHJveGltYXRlbHkgZXZlcnkgOTAgc2Vjb25kcyBpbiBhICIKICAgICAgICAicmVndWxhciBwYXR0ZXJuLiBUaGUgc3Bpa2VzIGNvcnJlbGF0ZSB3aXRoIGVsZXZhdGVkIFBvc3RncmVzIENQVSBidXQgbm90IHdpdGggZWxldmF0ZWQgIgogICAgICAgICJQb3N0Z3JlcyBjb25uZWN0aW9uIGNvdW50LiBUaGUgYXBwbGljYXRpb24gcG9vbCBpcyBzaXplZCBhdCAyMCBjb25uZWN0aW9ucyBwZXIgcmVwbGljYS4gIgogICAgICAgICJQZ0JvdW5jZXIgaXMgaW4gZnJvbnQgb2YgUG9zdGdyZXMgaW4gdHJhbnNhY3Rpb24gcG9vbGluZyBtb2RlIHdpdGggYSBwb29sIHNpemUgb2YgNTAuXG5cbiIKICAgICAgICAiQ29kZSBleGNlcnB0IOKAlCB0aGUgaG90IGVuZHBvaW50OlxuIgogICAgICAgICJgYGBweXRob25cbkBhcHAucG9zdCgnL3Njb3JlL3t1c2VyX2lkfScpXG5hc3luYyBkZWYgc2NvcmUodXNlcl9pZDogaW50LCBwYXlsb2FkOiBTY29yZVJlcXVlc3QpOlxuIgogICAgICAgICIgICAgYXN5bmMgd2l0aCBkYi50cmFuc2FjdGlvbigpIGFzIHR4OlxuICAgICAgICB1c2VyID0gYXdhaXQgdHguZmV0Y2hyb3coXG4iCiAgICAgICAgIiAgICAgICAgICAgICdTRUxFQ1QgaWQsIHRpZXIsIGxhc3Rfc2NvcmUgRlJPTSB1c2VycyBXSEVSRSBpZCA9ICQxIEZPUiBVUERBVEUnLFxuICAgICAgICAgICAgdXNlcl9pZCxcbiAgICAgICAgKVxuIgogICAgICAgICIgICAgICAgIGlmIHVzZXIgaXMgTm9uZTpcbiAgICAgICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oNDA0KVxuICAgICAgICBldmVudHMgPSBhd2FpdCB0eC5mZXRjaChcbiIKICAgICAgICAiICAgICAgICAgICAgJ1NFTEVDVCB0eXBlLCB3ZWlnaHQsIHRzIEZST00gZXZlbnRzICdcbiAgICAgICAgICAgICdXSEVSRSB1c2VyX2lkID0gJDEgT1JERVIgQlkgdHMgREVTQyBMSU1JVCA1MCcsXG4gICAgICAgICAgICB1c2VyX2lkLFxuICAgICAgICApXG4iCiAgICAgICAgIiAgICAgICAgbmV3X3Njb3JlID0gY29tcHV0ZV9zY29yZSh1c2VyWyd0aWVyJ10sIGV2ZW50cywgcGF5bG9hZC5zaWduYWxzKVxuIgogICAgICAgICIgICAgICAgIGF3YWl0IHR4LmV4ZWN1dGUoXG4gICAgICAgICAgICAnVVBEQVRFIHVzZXJzIFNFVCBsYXN0X3Njb3JlID0gJDEsIHVwZGF0ZWRfYXQgPSBub3coKSBXSEVSRSBpZCA9ICQyJyxcbiAgICAgICAgICAgIG5ld19zY29yZSwgdXNlcl9pZCxcbiAgICAgICAgKVxuIgogICAgICAgICIgICAgICAgIGF3YWl0IHR4LmV4ZWN1dGUoXG4gICAgICAgICAgICAnSU5TRVJUIElOVE8gc2NvcmVfaGlzdG9yeSAodXNlcl9pZCwgc2NvcmUsIHRzKSBWQUxVRVMgKCQxLCAkMiwgbm93KCkpJyxcbiAgICAgICAgICAgIHVzZXJfaWQsIG5ld19zY29yZSxcbiAgICAgICAgKVxuIgogICAgICAgICIgICAgYXdhaXQgY2FjaGUuc2V0KGYnc2NvcmU6e3VzZXJfaWR9JywgbmV3X3Njb3JlLCBleD0zMDApXG4iCiAgICAgICAgIiAgICBtZXRyaWNzLmhpc3RvZ3JhbSgnc2NvcmUubGF0ZW5jeV9tcycpLm9ic2VydmUoKHRpbWUudGltZSgpIC0gc3RhcnQpICogMTAwMClcbiIKICAgICAgICAiICAgIHJldHVybiB7J3VzZXJfaWQnOiB1c2VyX2lkLCAnc2NvcmUnOiBuZXdfc2NvcmV9XG5gYGBcblxuIgogICAgICAgICJTY2hlbWEgbm90ZXM6IGB1c2Vyc2AgaXMgfjUwTSByb3dzLCBgZXZlbnRzYCBpcyBwYXJ0aXRpb25lZCBieSBtb250aCB3aXRoIH4yQiByb3dzIHRvdGFsICIKICAgICAgICAiYW5kIGEgYnRyZWUgaW5kZXggb24gYCh1c2VyX2lkLCB0cyBERVNDKWAuIGBzY29yZV9oaXN0b3J5YCBpcyB1bnBhcnRpdGlvbmVkLCB+ODAwTSByb3dzLCAiCiAgICAgICAgIndpdGggYSBzaW5nbGUgaW5kZXggb24gYHVzZXJfaWRgLiBQb3N0Z3JlcyBhdXRvdmFjdXVtIGlzIGF0IGRlZmF1bHQgc2V0dGluZ3MuIFRoZXJlIGlzICIKICAgICAgICAiYSBuaWdodGx5IGJhdGNoIGpvYiB0aGF0IHJlYnVpbGRzIG1hdGVyaWFsaXplZCB2aWV3cyBzdGFydGluZyBhdCAwMjowMCBVVEM7IHNwaWtlcyBvY2N1ciAiCiAgICAgICAgInRocm91Z2hvdXQgdGhlIGRheSwgbm90IGp1c3QgZHVyaW5nIHRoZSBiYXRjaCB3aW5kb3cuIENvbm5lY3Rpb24gcG9vbGluZyBtZXRyaWNzIHNob3cgIgogICAgICAgICJQZ0JvdW5jZXIgd2FpdGluZyBjb25uZWN0aW9ucyBvY2Nhc2lvbmFsbHkgaGl0IDgtMTIgZHVyaW5nIHNwaWtlcyBidXQgbmV2ZXIgc2F0dXJhdGUuICIKICAgICAgICAiQ1BVIG9uIHRoZSBGYXN0QVBJIHJlcGxpY2FzIHN0YXlzIGJlbG93IDMwJSBldmVuIGR1cmluZyBzcGlrZXMuIE5ldHdvcmsgcm91bmQtdHJpcCB0aW1lICIKICAgICAgICAiYmV0d2VlbiB0aGUgYXBwbGljYXRpb24gYW5kIFBvc3RncmVzIGlzIGNvbnNpc3RlbnRseSAwLjQgbXMuXG5cbkJlZ2luIHlvdXIgcmV2aWV3IG5vdy4iCiAgICApfSwKXQoKZGVmIHBvc3QodXJsLCBwYXlsb2FkKToKICAgIHJlcSA9IHJlcXVlc3QuUmVxdWVzdCh1cmwsIGRhdGE9anNvbi5kdW1wcyhwYXlsb2FkKS5lbmNvZGUoKSwgaGVhZGVycz17IkNvbnRlbnQtVHlwZSI6ImFwcGxpY2F0aW9uL2pzb24ifSwgbWV0aG9kPSJQT1NUIikKICAgIHdpdGggcmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD0zMDApIGFzIHI6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMoci5yZWFkKCkpCgpkZWYgcnVuKGFyZ3MpOgogICAgb3V0ID0geyJyZXN1bHRzIjogW119CiAgICBmb3IgcCBpbiBQUk9NUFRTOgogICAgICAgIHQwID0gdGltZS50aW1lKCkKICAgICAgICByID0gcG9zdChmInthcmdzLnVybH0vY29tcGxldGlvbiIsIHsicHJvbXB0IjogcFsicHJvbXB0Il0sICJuX3ByZWRpY3QiOiAxOTIsICJ0ZW1wZXJhdHVyZSI6IDAuMCwgInNlZWQiOiA0MiwgImNhY2hlX3Byb21wdCI6IEZhbHNlLCAic3RyZWFtIjogRmFsc2V9KQogICAgICAgIHdhbGwgPSB0aW1lLnRpbWUoKSAtIHQwCiAgICAgICAgdCA9IHIuZ2V0KCJ0aW1pbmdzIiwge30pIG9yIHt9CiAgICAgICAgcmVjID0geyJuYW1lIjogcFsibmFtZSJdLCAid2FsbF9zIjogcm91bmQod2FsbCwzKSwKICAgICAgICAgICAgICAgInByZWRpY3RlZF9uIjogdC5nZXQoInByZWRpY3RlZF9uIiksICJwcmVkaWN0ZWRfcGVyX3NlY29uZCI6IHQuZ2V0KCJwcmVkaWN0ZWRfcGVyX3NlY29uZCIpLAogICAgICAgICAgICAgICAiZHJhZnRfbiI6IHQuZ2V0KCJkcmFmdF9uIiwwKSwgImRyYWZ0X25fYWNjZXB0ZWQiOiB0LmdldCgiZHJhZnRfbl9hY2NlcHRlZCIsMCl9CiAgICAgICAgcmVjWyJhY2NlcHRfcmF0ZSJdID0gcm91bmQocmVjWyJkcmFmdF9uX2FjY2VwdGVkIl0vcmVjWyJkcmFmdF9uIl0sNCkgaWYgcmVjWyJkcmFmdF9uIl0gZWxzZSBOb25lCiAgICAgICAgb3V0WyJyZXN1bHRzIl0uYXBwZW5kKHJlYykKICAgICAgICBhciA9IGYie3JlY1snYWNjZXB0X3JhdGUnXTouM2Z9IiBpZiByZWNbImFjY2VwdF9yYXRlIl0gaXMgbm90IE5vbmUgZWxzZSAibi9hIgogICAgICAgIHByaW50KGYiICB7cmVjWyduYW1lJ106PDE4fSBwcmVkPXtyZWNbJ3ByZWRpY3RlZF9uJ106PjR9IGRyYWZ0PXtyZWNbJ2RyYWZ0X24nXTo+NH0gYWNjPXtyZWNbJ2RyYWZ0X25fYWNjZXB0ZWQnXTo+NH0gcmF0ZT17YXJ9IHRvay9zPXtyZWNbJ3ByZWRpY3RlZF9wZXJfc2Vjb25kJ106LjFmfSIpCiAgICB0ZCAgPSBzdW0oeFsiZHJhZnRfbiJdIG9yIDAgZm9yIHggaW4gb3V0WyJyZXN1bHRzIl0pCiAgICB0YSAgPSBzdW0oeFsiZHJhZnRfbl9hY2NlcHRlZCJdIG9yIDAgZm9yIHggaW4gb3V0WyJyZXN1bHRzIl0pCiAgICB0cCAgPSBzdW0oeFsicHJlZGljdGVkX24iXSBvciAwIGZvciB4IGluIG91dFsicmVzdWx0cyJdKQogICAgdHcgID0gc3VtKHhbIndhbGxfcyJdIGZvciB4IGluIG91dFsicmVzdWx0cyJdKQogICAgb3V0WyJhZ2dyZWdhdGUiXSA9IHsibl9yZXF1ZXN0cyI6IGxlbihvdXRbInJlc3VsdHMiXSksICJ0b3RhbF9wcmVkaWN0ZWQiOiB0cCwgInRvdGFsX2RyYWZ0IjogdGQsICJ0b3RhbF9kcmFmdF9hY2NlcHRlZCI6IHRhLAogICAgICAgICAgICAgICAgICAgICAgICAiYWdncmVnYXRlX2FjY2VwdF9yYXRlIjogcm91bmQodGEvdGQsNCkgaWYgdGQgZWxzZSBOb25lLCAid2FsbF9zX3RvdGFsIjogcm91bmQodHcsMil9CiAgICBwcmludCgiXG5BZ2dyZWdhdGU6IiwganNvbi5kdW1wcyhvdXRbImFnZ3JlZ2F0ZSJdLCBpbmRlbnQ9MikpCiAgICBpZiBhcmdzLm91dDoKICAgICAgICBqc29uLmR1bXAob3V0LCBvcGVuKGFyZ3Mub3V0LCJ3IiksIGluZGVudD0yKTsgcHJpbnQoIldyb3RlIiwgYXJncy5vdXQpCgpkZWYgZGlmZihhLCBiKToKICAgIEEsIEIgPSBqc29uLmxvYWQob3BlbihhKSksIGpzb24ubG9hZChvcGVuKGIpKQogICAgcHJpbnQoZiJ7J21ldHJpYyc6PDI0fSB7J0EnOj4xNH0geydCJzo+MTR9IHsnZGVsdGEnOj4xMH0iKQogICAgZm9yIGsgaW4gKCJhZ2dyZWdhdGVfYWNjZXB0X3JhdGUiLCJ0b3RhbF9wcmVkaWN0ZWQiLCJ0b3RhbF9kcmFmdCIsInRvdGFsX2RyYWZ0X2FjY2VwdGVkIiwid2FsbF9zX3RvdGFsIik6CiAgICAgICAgdmEsIHZiID0gQVsiYWdncmVnYXRlIl0uZ2V0KGspLCBCWyJhZ2dyZWdhdGUiXS5nZXQoaykKICAgICAgICBpZiB2YSBpcyBOb25lIG9yIHZiIGlzIE5vbmU6IHByaW50KGYie2s6PDI0fSB7c3RyKHZhKTo+MTR9IHtzdHIodmIpOj4xNH0iKTsgY29udGludWUKICAgICAgICBkID0gdmIgLSB2YQogICAgICAgIHMgPSBmIntkOj4rMTAuNGZ9IiBpZiBpc2luc3RhbmNlKGQsZmxvYXQpIGVsc2UgZiJ7ZDo+KzEwfSIKICAgICAgICBwcmludChmIntrOjwyNH0ge3ZhOj4xNH0ge3ZiOj4xNH0ge3N9IikKICAgIGJ5X2EgPSB7eFsibmFtZSJdOiB4IGZvciB4IGluIEFbInJlc3VsdHMiXX0KICAgIHByaW50KCJcbns6PDIwfSB7Oj44fSB7Oj44fSB7Oj44fSIuZm9ybWF0KCJwcm9tcHQiLCJBIiwiQiIsImRlbHRhIikpCiAgICBmb3IgcmIgaW4gQlsicmVzdWx0cyJdOgogICAgICAgIHJhID0gYnlfYS5nZXQocmJbIm5hbWUiXSkgb3Ige30KICAgICAgICBhciA9IHJhLmdldCgiYWNjZXB0X3JhdGUiKSBvciAwOyBiciA9IHJiLmdldCgiYWNjZXB0X3JhdGUiKSBvciAwCiAgICAgICAgcHJpbnQoZiJ7cmJbJ25hbWUnXTo8MjB9IHthcjo+OC4zZn0ge2JyOj44LjNmfSB7YnItYXI6Pis4LjNmfSIpCgphcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKYXAuYWRkX2FyZ3VtZW50KCItLXVybCIsIGRlZmF1bHQ9Imh0dHA6Ly8xMjcuMC4wLjE6ODA4MCIpCmFwLmFkZF9hcmd1bWVudCgiLS1vdXQiKQphcC5hZGRfYXJndW1lbnQoIi0tZGlmZiIsIG5hcmdzPTIpCmEgPSBhcC5wYXJzZV9hcmdzKCkKaWYgYS5kaWZmOiBkaWZmKCphLmRpZmYpCmVsc2U6IHJ1bihhKQo=
+#!/usr/bin/env python3
+import argparse, json, sys, time
+from urllib import request
+
+PROMPTS = [
+    {"name": "code_python",      "prompt": "Write a Python function that returns the n-th Fibonacci number using memoization. Include a docstring."},
+    {"name": "code_cpp",         "prompt": "Write a C++ template function `clamp(x, lo, hi)` that returns x clamped to [lo, hi]. No std::clamp."},
+    {"name": "explain_concept",  "prompt": "Explain how speculative decoding works in large language model inference, in three short paragraphs."},
+    {"name": "summarize",        "prompt": "Summarize in two sentences: The Industrial Revolution began in Britain in the late 18th century, transforming manufacturing through mechanization, steam power, and the factory system. It spread to continental Europe and North America during the 19th century."},
+    {"name": "qa_factual",       "prompt": "Q: What are the four fundamental forces of physics?\nA:"},
+    {"name": "translation",      "prompt": "Translate to French: 'The quick brown fox jumps over the lazy dog.'"},
+    {"name": "creative_short",   "prompt": "Write a four-line poem about an old lighthouse."},
+    {"name": "stepwise_math",    "prompt": "Solve step by step: A train leaves station A at 60 km/h. Two hours later, a second train leaves the same station on the same track at 90 km/h. How long until the second train catches the first?"},
+    {"name": "long_code_review", "prompt": (
+        "You are reviewing a backend service that has been suffering intermittent latency spikes "
+        "in production. Below is the relevant code and a description of the system. After reading "
+        "carefully, produce a structured review with three sections: (1) likely root causes ranked "
+        "by probability, (2) concrete code or configuration changes you would make first, "
+        "(3) what telemetry you would add to confirm the diagnosis.\n\n"
+        "System description: a Python FastAPI service in front of a Postgres 15 database, deployed "
+        "as four replicas behind an nginx load balancer. Each request reads a user record, fetches "
+        "their last 50 events from a partitioned events table, computes an aggregate score, writes "
+        "the score back to the user row, and returns a JSON response. Average payload is 4 KB. "
+        "p50 latency is 35 ms; p99 spikes to 1.8 seconds approximately every 90 seconds in a "
+        "regular pattern. The spikes correlate with elevated Postgres CPU but not with elevated "
+        "Postgres connection count. The application pool is sized at 20 connections per replica. "
+        "PgBouncer is in front of Postgres in transaction pooling mode with a pool size of 50.\n\n"
+        "Code excerpt — the hot endpoint:\n"
+        "```python\n@app.post('/score/{user_id}')\nasync def score(user_id: int, payload: ScoreRequest):\n"
+        "    async with db.transaction() as tx:\n        user = await tx.fetchrow(\n"
+        "            'SELECT id, tier, last_score FROM users WHERE id = $1 FOR UPDATE',\n            user_id,\n        )\n"
+        "        if user is None:\n            raise HTTPException(404)\n        events = await tx.fetch(\n"
+        "            'SELECT type, weight, ts FROM events '\n            'WHERE user_id = $1 ORDER BY ts DESC LIMIT 50',\n            user_id,\n        )\n"
+        "        new_score = compute_score(user['tier'], events, payload.signals)\n"
+        "        await tx.execute(\n            'UPDATE users SET last_score = $1, updated_at = now() WHERE id = $2',\n            new_score, user_id,\n        )\n"
+        "        await tx.execute(\n            'INSERT INTO score_history (user_id, score, ts) VALUES ($1, $2, now())',\n            user_id, new_score,\n        )\n"
+        "    await cache.set(f'score:{user_id}', new_score, ex=300)\n"
+        "    metrics.histogram('score.latency_ms').observe((time.time() - start) * 1000)\n"
+        "    return {'user_id': user_id, 'score': new_score}\n```\n\n"
+        "Schema notes: `users` is ~50M rows, `events` is partitioned by month with ~2B rows total "
+        "and a btree index on `(user_id, ts DESC)`. `score_history` is unpartitioned, ~800M rows, "
+        "with a single index on `user_id`. Postgres autovacuum is at default settings. There is "
+        "a nightly batch job that rebuilds materialized views starting at 02:00 UTC; spikes occur "
+        "throughout the day, not just during the batch window. Connection pooling metrics show "
+        "PgBouncer waiting connections occasionally hit 8-12 during spikes but never saturate. "
+        "CPU on the FastAPI replicas stays below 30% even during spikes. Network round-trip time "
+        "between the application and Postgres is consistently 0.4 ms.\n\nBegin your review now."
+    )},
+]
+
+def post(url, payload):
+    req = request.Request(url, data=json.dumps(payload).encode(), headers={"Content-Type":"application/json"}, method="POST")
+    with request.urlopen(req, timeout=300) as r:
+        return json.loads(r.read())
+
+def run(args):
+    out = {"results": []}
+    for p in PROMPTS:
+        t0 = time.time()
+        r = post(f"{args.url}/completion", {"prompt": p["prompt"], "n_predict": 192, "temperature": 0.0, "seed": 42, "cache_prompt": False, "stream": False})
+        wall = time.time() - t0
+        t = r.get("timings", {}) or {}
+        rec = {"name": p["name"], "wall_s": round(wall,3),
+               "predicted_n": t.get("predicted_n"), "predicted_per_second": t.get("predicted_per_second"),
+               "draft_n": t.get("draft_n",0), "draft_n_accepted": t.get("draft_n_accepted",0)}
+        rec["accept_rate"] = round(rec["draft_n_accepted"]/rec["draft_n"],4) if rec["draft_n"] else None
+        out["results"].append(rec)
+        ar = f"{rec['accept_rate']:.3f}" if rec["accept_rate"] is not None else "n/a"
+        print(f"  {rec['name']:<18} pred={rec['predicted_n']:>4} draft={rec['draft_n']:>4} acc={rec['draft_n_accepted']:>4} rate={ar} tok/s={rec['predicted_per_second']:.1f}")
+    td  = sum(x["draft_n"] or 0 for x in out["results"])
+    ta  = sum(x["draft_n_accepted"] or 0 for x in out["results"])
+    tp  = sum(x["predicted_n"] or 0 for x in out["results"])
+    tw  = sum(x["wall_s"] for x in out["results"])
+    out["aggregate"] = {"n_requests": len(out["results"]), "total_predicted": tp, "total_draft": td, "total_draft_accepted": ta,
+                        "aggregate_accept_rate": round(ta/td,4) if td else None, "wall_s_total": round(tw,2)}
+    print("\nAggregate:", json.dumps(out["aggregate"], indent=2))
+    if args.out:
+        json.dump(out, open(args.out,"w"), indent=2); print("Wrote", args.out)
+
+def diff(a, b):
+    A, B = json.load(open(a)), json.load(open(b))
+    print(f"{'metric':<24} {'A':>14} {'B':>14} {'delta':>10}")
+    for k in ("aggregate_accept_rate","total_predicted","total_draft","total_draft_accepted","wall_s_total"):
+        va, vb = A["aggregate"].get(k), B["aggregate"].get(k)
+        if va is None or vb is None: print(f"{k:<24} {str(va):>14} {str(vb):>14}"); continue
+        d = vb - va
+        s = f"{d:>+10.4f}" if isinstance(d,float) else f"{d:>+10}"
+        print(f"{k:<24} {va:>14} {vb:>14} {s}")
+    by_a = {x["name"]: x for x in A["results"]}
+    print("\n{:<20} {:>8} {:>8} {:>8}".format("prompt","A","B","delta"))
+    for rb in B["results"]:
+        ra = by_a.get(rb["name"]) or {}
+        ar = ra.get("accept_rate") or 0; br = rb.get("accept_rate") or 0
+        print(f"{rb['name']:<20} {ar:>8.3f} {br:>8.3f} {br-ar:>+8.3f}")
+
+ap = argparse.ArgumentParser()
+ap.add_argument("--url", default="http://127.0.0.1:8080")
+ap.add_argument("--out")
+ap.add_argument("--diff", nargs=2)
+a = ap.parse_args()
+if a.diff: diff(*a.diff)
+else: run(a)

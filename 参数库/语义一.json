@@ -1,1 +1,28 @@
-ewogIuaXtumSn+S6pOS7mOaui+W3riI6IHsKICAi55u45a+55beuIjogMC4wMDA3LAogICLlkIzkuIDnmoQiOiB0cnVlCiB9LAogIueUn+aIkOaKluWKqCI6IHsKICAi55u45a+55beuIjogMzkuMCwKICAi5ZCM5LiA55qEIjogZmFsc2UKIH0sCiAi5bGPIDEyMEh6IHZzIOS9oCAzMG1zIjogewogICLnm7jlr7nlt64iOiA3Mi4yMzMzLAogICLlkIzkuIDnmoQiOiBmYWxzZQogfSwKICLnlLXlvbEgMjQgdnMg5L2gIDMwbXMiOiB7CiAgIuebuOWvueW3riI6IDM4LjksCiAgIuWQjOS4gOeahCI6IGZhbHNlCiB9LAogIuS4pOadoea1gemAn+W6puW3riI6IHsKICAi55u45a+55beuIjogMjU2MDAwMDAwMC4wLAogICLlkIzkuIDnmoQiOiBmYWxzZQogfSwKICLov5jljp/njodfMC4wMSI6IDEwMC4wLAogIui/mOWOn+eOh18wLjA1IjogOTcuMSwKICLov5jljp/njodfMC4wOCI6IDkwLjAsCiAi6L+Y5Y6f546HXzAuMTUiOiA3My43LAogIui/mOWOn+eOh18wLjM5IjogNDguMSwKICLov5jljp/njodfMS4wIjogMzEuNQp9
+{
+ "时钟交付残差": {
+  "相对差": 0.0007,
+  "同一的": true
+ },
+ "生成抖动": {
+  "相对差": 39.0,
+  "同一的": false
+ },
+ "屏 120Hz vs 你 30ms": {
+  "相对差": 72.2333,
+  "同一的": false
+ },
+ "电影 24 vs 你 30ms": {
+  "相对差": 38.9,
+  "同一的": false
+ },
+ "两条流速度差": {
+  "相对差": 2560000000.0,
+  "同一的": false
+ },
+ "还原率_0.01": 100.0,
+ "还原率_0.05": 97.1,
+ "还原率_0.08": 90.0,
+ "还原率_0.15": 73.7,
+ "还原率_0.39": 48.1,
+ "还原率_1.0": 31.5
+}

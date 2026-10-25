@@ -1,1 +1,70 @@
-aW1wb3J0IGpzb24sIHN1YnByb2Nlc3MsIHBhdGhsaWIsIGJhc2U2NApUT0sgPSBwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xLy5hdXRoL2doX3Rva2VuIikucmVhZF90ZXh0KCkuc3RyaXAoKQpPVVQgPSBwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyOV9jb3JwdXMvZXhwMTM3L2NvcnB1czUiKQpPVVQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQpCQUQ9KCIvdGVzdHMvIiwiL3Rlc3QiLCIvdGVzdF8iLCJ0ZXN0XyIsIi9leGFtcGxlcy8iLCIvZG9jcy8iLCJjb25mdGVzdCIsIi92ZW5kb3IiLCIvdGhpcmRfcGFydHkiLAogICAgICJfX2luaXRfXyIsInZlcnNpb24iLCJfdmVyc2lvbiIsInNldHVwLnB5IiwiL21pZ3JhdGlvbnMvIiwiL2ZpeHR1cmVzLyIsIi90ZXN0ZGF0YS8iKQoKZGVmIGdoKHApOgogICAgcj1zdWJwcm9jZXNzLnJ1bihbImN1cmwiLCItcyIsIi1IIixmIkF1dGhvcml6YXRpb246IEJlYXJlciB7VE9LfSIsCiAgICAgICAgIi1IIiwiQWNjZXB0OiBhcHBsaWNhdGlvbi92bmQuZ2l0aHViK2pzb24iLCBmImh0dHBzOi8vYXBpLmdpdGh1Yi5jb217cH0iXSwKICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSx0aW1lb3V0PTYwKQogICAgdHJ5OiByZXR1cm4ganNvbi5sb2FkcyhyLnN0ZG91dCkKICAgIGV4Y2VwdCBFeGNlcHRpb246IHJldHVybiBOb25lCgpET01BSU5TID0gewogIkFfZXRsIjogICAgICBbKCJhcGFjaGUiLCJhaXJmbG93IiwibWFpbiIpLCgiZGFnc3Rlci1pbyIsImRhZ3N0ZXIiLCJtYXN0ZXIiKSwKICAgICAgICAgICAgICAgICgiUHJlZmVjdEhRIiwicHJlZmVjdCIsIm1haW4iKSwoInNwb3RpZnkiLCJsdWlnaSIsIm1hc3RlciIpLCgibWFnZS1haSIsIm1hZ2UtYWkiLCJtYXN0ZXIiKV0sCiAiQl9xdWFudCI6ICAgIFsoIm1pY3Jvc29mdCIsInFsaWIiLCJtYWluIiksKCJycSIsInJxYWxwaGEiLCJtYXN0ZXIiKSwoImJhY2t0cmFkZXIiLCJiYWNrdHJhZGVyIiwibWFzdGVyIiksCiAgICAgICAgICAgICAgICAoInZucHkiLCJ2bnB5IiwibWFzdGVyIiksKCJ6dnR2eiIsInp2dCIsIm1hc3RlciIpXSwKICJDX2NyYXdsZXIiOiAgWygiQm9yaXMtY29kZSIsImZlYXBkZXIiLCJtYXN0ZXIiKSwoInB5c3BpZGVyIiwicHlzcGlkZXIiLCJtYXN0ZXIiKSwKICAgICAgICAgICAgICAgICgic2NyYXB5Iiwic2NyYXB5ZCIsIm1hc3RlciIpLCgicHNmIiwicmVxdWVzdHMtaHRtbCIsIm1haW4iKSwoIkdlcmFweSIsIkdlcmFweSIsIm1haW4iKV0sCiAiRF9sbG1hZ2VudCI6IFsoImdlZWthbiIsIk1ldGFHUFQiLCJtYWluIiksKCJTaWduaWZpY2FudC1HcmF2aXRhcyIsIkF1dG9HUFQiLCJtYXN0ZXIiKSwKICAgICAgICAgICAgICAgICgicnVuLWxsYW1hIiwibGxhbWFfaW5kZXgiLCJtYWluIiksKCJsYW5nY2hhaW4tYWkiLCJsYW5nY2hhaW4iLCJtYXN0ZXIiKSwKICAgICAgICAgICAgICAgICgibW9kZWxzY29wZSIsImFnZW50c2NvcGUiLCJtYWluIildLAogIkVfdGVhY2hpbmciOiBbKCJ0cmVraGxlYiIsImxlYXJuLXB5dGhvbiIsIm1hc3RlciIpLCgicmVhbHB5dGhvbiIsInB5dGhvbi1iYXNpY3MtZXhlcmNpc2VzIiwibWFzdGVyIiksCiAgICAgICAgICAgICAgICAoIkFzYWJlbmVoIiwiMzAtRGF5cy1PZi1QeXRob24iLCJtYXN0ZXIiKSwoInJvdWdpZXIiLCJzY2llbnRpZmljLXZpc3VhbGl6YXRpb24tYm9vayIsIm1hc3RlciIpLAogICAgICAgICAgICAgICAgKCJqYWxhbW1hciIsIm5scC1ub3RlYm9vayIsIm1hc3RlciIpXSwKICJGX3NtYWxsIjogICAgTm9uZSwKfQoKZGVmIHNlYXJjaF9zbWFsbChuPTEwKToKICAgIGQ9Z2goIi9zZWFyY2gvcmVwb3NpdG9yaWVzP3E9bGFuZ3VhZ2U6cHl0aG9uK3N0YXJzOjIwLi40MDArcHVzaGVkOj4yMDI1LTA2LTAxJnNvcnQ9dXBkYXRlZCZwZXJfcGFnZT01MCIpCiAgICBvdXQ9W10KICAgIGlmIG5vdCBpc2luc3RhbmNlKGQsZGljdCk6IHJldHVybiBvdXQKICAgIGZvciByIGluIGQuZ2V0KCJpdGVtcyIsW10pOgogICAgICAgIGlmIHIuZ2V0KCJmb3JrIik6IGNvbnRpbnVlCiAgICAgICAgb3V0LmFwcGVuZCgoclsib3duZXIiXVsibG9naW4iXSwgclsibmFtZSJdLCByLmdldCgiZGVmYXVsdF9icmFuY2giLCJtYWluIikpKQogICAgICAgIGlmIGxlbihvdXQpPj1uOiBicmVhawogICAgcmV0dXJuIG91dAoKRE9NQUlOU1siRl9zbWFsbCJdPXNlYXJjaF9zbWFsbCgxMCkKcHJpbnQoIkZfc21hbGwgcmVwb3M6IiwgW2Yie299L3tyfSIgZm9yIG8scixfIGluIERPTUFJTlNbIkZfc21hbGwiXV0sIGZsdXNoPVRydWUpCgpwaWNrZWQ9W10KZm9yIGRvbSwgcmVwb3MgaW4gRE9NQUlOUy5pdGVtcygpOgogICAgbmZpbGVzPTAKICAgIGZvciBvLHIsYiBpbiByZXBvczoKICAgICAgICBkPWdoKGYiL3JlcG9zL3tvfS97cn0vZ2l0L3RyZWVzL3tifT9yZWN1cnNpdmU9MSIpCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoZCxkaWN0KSBvciAidHJlZSIgbm90IGluIGQ6CiAgICAgICAgICAgIHByaW50KGYiW3tkb219XVt7b30ve3J9XSB0cmVlIGZhaWwiLCBmbHVzaD1UcnVlKTsgY29udGludWUKICAgICAgICBjPVt0WyJwYXRoIl0gZm9yIHQgaW4gZFsidHJlZSJdIGlmIHRbInR5cGUiXT09ImJsb2IiIGFuZCB0WyJwYXRoIl0uZW5kc3dpdGgoIi5weSIpCiAgICAgICAgICAgYW5kIG5vdCBhbnkoayBpbiB0WyJwYXRoIl0gZm9yIGsgaW4gQkFEKV0KICAgICAgICBpZiBub3QgYzogY29udGludWUKICAgICAgICBjLnNvcnQoKQogICAgICAgIHN0ZXA9bWF4KDEsbGVuKGMpLy80KQogICAgICAgIHNlbD1jWzo6c3RlcF1bOjRdCiAgICAgICAgZm9yIHAgaW4gc2VsOgogICAgICAgICAgICBmPWdoKGYiL3JlcG9zL3tvfS97cn0vY29udGVudHMve3B9P3JlZj17Yn0iKQogICAgICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShmLGRpY3QpIG9yICJjb250ZW50IiBub3QgaW4gZjogY29udGludWUKICAgICAgICAgICAgdHh0PWJhc2U2NC5iNjRkZWNvZGUoZlsiY29udGVudCJdKS5kZWNvZGUoInV0Zi04IiwicmVwbGFjZSIpCiAgICAgICAgICAgIGlmIGxlbih0eHQpPDUwMCBvciBsZW4odHh0KT40MDAwMDA6IGNvbnRpbnVlCiAgICAgICAgICAgIG5hbWU9ZiJ7ZG9tfV9fe299X197cn1fX3twLnJlcGxhY2UoJy8nLCdfJyl9IgogICAgICAgICAgICAoT1VUL25hbWUpLndyaXRlX3RleHQodHh0KQogICAgICAgICAgICBwaWNrZWQuYXBwZW5kKGRpY3QoZG9tYWluPWRvbSxyZXBvPWYie299L3tyfSIscGF0aD1wLGZpbGU9bmFtZSxieXRlcz1sZW4odHh0KSkpCiAgICAgICAgICAgIG5maWxlcys9MQogICAgICAgIHByaW50KGYiW3tkb219XSB7b30ve3J9ICt7bGVuKHNlbCl9IiwgZmx1c2g9VHJ1ZSkKICAgIHByaW50KGYiICAtPiB7ZG9tfSB0b3RhbCB7bmZpbGVzfSIsIGZsdXNoPVRydWUpCnBhdGhsaWIuUGF0aCgiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9leHAxMzcvbWFuaWZlc3Q1Lmpzb24iKS53cml0ZV90ZXh0KAogICAganNvbi5kdW1wcyhwaWNrZWQsaW5kZW50PTEpKQpwcmludCgiVE9UQUwiLGxlbihwaWNrZWQpLCJCWVRFUyIsc3VtKHBbImJ5dGVzIl0gZm9yIHAgaW4gcGlja2VkKSwgZmx1c2g9VHJ1ZSkK
+import json, subprocess, pathlib, base64
+TOK = pathlib.Path("/data/workspace/luoshen-o1/.auth/gh_token").read_text().strip()
+OUT = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137/corpus5")
+OUT.mkdir(parents=True, exist_ok=True)
+BAD=("/tests/","/test","/test_","test_","/examples/","/docs/","conftest","/vendor","/third_party",
+     "__init__","version","_version","setup.py","/migrations/","/fixtures/","/testdata/")
+
+def gh(p):
+    r=subprocess.run(["curl","-s","-H",f"Authorization: Bearer {TOK}",
+        "-H","Accept: application/vnd.github+json", f"https://api.github.com{p}"],
+        capture_output=True,text=True,timeout=60)
+    try: return json.loads(r.stdout)
+    except Exception: return None
+
+DOMAINS = {
+ "A_etl":      [("apache","airflow","main"),("dagster-io","dagster","master"),
+                ("PrefectHQ","prefect","main"),("spotify","luigi","master"),("mage-ai","mage-ai","master")],
+ "B_quant":    [("microsoft","qlib","main"),("rq","rqalpha","master"),("backtrader","backtrader","master"),
+                ("vnpy","vnpy","master"),("zvtvz","zvt","master")],
+ "C_crawler":  [("Boris-code","feapder","master"),("pyspider","pyspider","master"),
+                ("scrapy","scrapyd","master"),("psf","requests-html","main"),("Gerapy","Gerapy","main")],
+ "D_llmagent": [("geekan","MetaGPT","main"),("Significant-Gravitas","AutoGPT","master"),
+                ("run-llama","llama_index","main"),("langchain-ai","langchain","master"),
+                ("modelscope","agentscope","main")],
+ "E_teaching": [("trekhleb","learn-python","master"),("realpython","python-basics-exercises","master"),
+                ("Asabeneh","30-Days-Of-Python","master"),("rougier","scientific-visualization-book","master"),
+                ("jalammar","nlp-notebook","master")],
+ "F_small":    None,
+}
+
+def search_small(n=10):
+    d=gh("/search/repositories?q=language:python+stars:20..400+pushed:>2025-06-01&sort=updated&per_page=50")
+    out=[]
+    if not isinstance(d,dict): return out
+    for r in d.get("items",[]):
+        if r.get("fork"): continue
+        out.append((r["owner"]["login"], r["name"], r.get("default_branch","main")))
+        if len(out)>=n: break
+    return out
+
+DOMAINS["F_small"]=search_small(10)
+print("F_small repos:", [f"{o}/{r}" for o,r,_ in DOMAINS["F_small"]], flush=True)
+
+picked=[]
+for dom, repos in DOMAINS.items():
+    nfiles=0
+    for o,r,b in repos:
+        d=gh(f"/repos/{o}/{r}/git/trees/{b}?recursive=1")
+        if not isinstance(d,dict) or "tree" not in d:
+            print(f"[{dom}][{o}/{r}] tree fail", flush=True); continue
+        c=[t["path"] for t in d["tree"] if t["type"]=="blob" and t["path"].endswith(".py")
+           and not any(k in t["path"] for k in BAD)]
+        if not c: continue
+        c.sort()
+        step=max(1,len(c)//4)
+        sel=c[::step][:4]
+        for p in sel:
+            f=gh(f"/repos/{o}/{r}/contents/{p}?ref={b}")
+            if not isinstance(f,dict) or "content" not in f: continue
+            txt=base64.b64decode(f["content"]).decode("utf-8","replace")
+            if len(txt)<500 or len(txt)>400000: continue
+            name=f"{dom}__{o}__{r}__{p.replace('/','_')}"
+            (OUT/name).write_text(txt)
+            picked.append(dict(domain=dom,repo=f"{o}/{r}",path=p,file=name,bytes=len(txt)))
+            nfiles+=1
+        print(f"[{dom}] {o}/{r} +{len(sel)}", flush=True)
+    print(f"  -> {dom} total {nfiles}", flush=True)
+pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137/manifest5.json").write_text(
+    json.dumps(picked,indent=1))
+print("TOTAL",len(picked),"BYTES",sum(p["bytes"] for p in picked), flush=True)

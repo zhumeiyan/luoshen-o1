@@ -1,1 +1,218 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJHZW5lcmF0ZSBsbG1zLnR4dCBhbmQgbGxtcy1mdWxsLnR4dCBmcm9tIHRoZSBkb2NzLyBkaXJlY3RvcnkuCgpQcm9kdWNlcyB0d28gZmlsZXMgaW4gdGhlIFplbnNpY2FsIGJ1aWxkIG91dHB1dCAoc2l0ZS8pOgogIC0gbGxtcy50eHQ6ICAgICAgc3RydWN0dXJlZCBpbmRleCB3aXRoIHBhZ2UgZGVzY3JpcHRpb25zIChwZXIgbGxtc3R4dC5vcmcgc3BlYykKICAtIGxsbXMtZnVsbC50eHQ6IGZ1bGwgY29uY2F0ZW5hdGVkIGNvbnRlbnQgb2YgYWxsIHBhZ2VzCgpSdW4gYWZ0ZXIgYHplbnNpY2FsIGJ1aWxkYCBzbyB0aGUgb3V0cHV0IGxhbmRzIGluIHNpdGUvIGFsb25nc2lkZSB0aGUgSFRNTC4KIiIiCgppbXBvcnQgcmUKaW1wb3J0IHN5cwpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCkRPQ1NfRElSID0gUGF0aCgiZG9jcyIpClNJVEVfRElSID0gUGF0aCgic2l0ZSIpClNJVEVfVVJMID0gImh0dHBzOi8vaW5mcmEtZG9jcy5uaWNvbGUuZGV2IgoKIyBTZWN0aW9uIG9yZGVyaW5nIGFuZCBkaXNwbGF5IG5hbWVzLiBQYWdlcyBhcmUgZ3JvdXBlZCBieSB0aGVpciB0b3AtbGV2ZWwKIyBkaXJlY3RvcnkuIFBhZ2VzIGF0IHRoZSBkb2NzIHJvb3QgZ28gaW50byB0aGUgc2VjdGlvbiBtYXRjaGluZyB0aGVpciBzdGVtLAojIG9yICJSZWZlcmVuY2UiIGFzIGEgZmFsbGJhY2suClNFQ1RJT05fT1JERVIgPSBbCiAgICAiU2l0ZXMiLAogICAgIkNvbXB1dGUiLAogICAgIk5ldHdvcmtpbmciLAogICAgIlN0b3JhZ2UiLAogICAgIlJ1bmJvb2tzIiwKICAgICJHdWlkZXMiLAogICAgIlJlZmVyZW5jZSIsCl0KCkRJUl9UT19TRUNUSU9OID0gewogICAgInNpdGVzIjogIlNpdGVzIiwKICAgICJjb21wdXRlIjogIkNvbXB1dGUiLAogICAgIm5ldHdvcmtpbmciOiAiTmV0d29ya2luZyIsCiAgICAic3RvcmFnZSI6ICJTdG9yYWdlIiwKICAgICJydW5ib29rcyI6ICJSdW5ib29rcyIsCiAgICAiZ3VpZGVzIjogIkd1aWRlcyIsCiAgICAicmVmZXJlbmNlIjogIlJlZmVyZW5jZSIsCn0KCgpkZWYgZXh0cmFjdF9mcm9udF9tYXR0ZXIodGV4dDogc3RyKSAtPiB0dXBsZVtkaWN0W3N0ciwgc3RyXSwgc3RyXToKICAgICIiIkV4dHJhY3QgWUFNTCBmcm9udCBtYXR0ZXIgYW5kIHJldHVybiAobWV0YWRhdGEgZGljdCwgYm9keSkuIiIiCiAgICBtZXRhZGF0YSA9IHt9CiAgICBib2R5ID0gdGV4dAogICAgaWYgdGV4dC5zdGFydHN3aXRoKCItLS0iKToKICAgICAgICBwYXJ0cyA9IHRleHQuc3BsaXQoIi0tLSIsIDIpCiAgICAgICAgaWYgbGVuKHBhcnRzKSA+PSAzOgogICAgICAgICAgICBmb3IgbGluZSBpbiBwYXJ0c1sxXS5zdHJpcCgpLnNwbGl0bGluZXMoKToKICAgICAgICAgICAgICAgIGlmICI6IiBpbiBsaW5lOgogICAgICAgICAgICAgICAgICAgIGtleSwgXywgdmFsdWUgPSBsaW5lLnBhcnRpdGlvbigiOiIpCiAgICAgICAgICAgICAgICAgICAgbWV0YWRhdGFba2V5LnN0cmlwKCldID0gdmFsdWUuc3RyaXAoKS5zdHJpcCgnIicpLnN0cmlwKCInIikKICAgICAgICAgICAgYm9keSA9IHBhcnRzWzJdLnN0cmlwKCkKICAgIHJldHVybiBtZXRhZGF0YSwgYm9keQoKCmRlZiBleHRyYWN0X3RpdGxlKGJvZHk6IHN0cikgLT4gc3RyOgogICAgIiIiRXh0cmFjdCB0aGUgZmlyc3QgSDEgaGVhZGluZyBmcm9tIG1hcmtkb3duIGJvZHkuIiIiCiAgICBmb3IgbGluZSBpbiBib2R5LnNwbGl0bGluZXMoKToKICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoIiMgIikgYW5kIG5vdCBsaW5lLnN0YXJ0c3dpdGgoIiMjIik6CiAgICAgICAgICAgIHJldHVybiBsaW5lWzI6XS5zdHJpcCgpCiAgICByZXR1cm4gIiIKCgpkZWYgbWRfcGF0aF90b191cmwobWRfcGF0aDogUGF0aCkgLT4gc3RyOgogICAgIiIiQ29udmVydCBhIGRvY3MvIG1hcmtkb3duIHBhdGggdG8gaXRzIHB1Ymxpc2hlZCBVUkwuIiIiCiAgICByZWwgPSBtZF9wYXRoLnJlbGF0aXZlX3RvKERPQ1NfRElSKQogICAgaWYgcmVsLm5hbWUgPT0gImluZGV4Lm1kIjoKICAgICAgICB1cmxfcGF0aCA9IHN0cihyZWwucGFyZW50KSArICIvIgogICAgICAgIGlmIHVybF9wYXRoID09ICIuLyI6CiAgICAgICAgICAgIHVybF9wYXRoID0gIiIKICAgIGVsc2U6CiAgICAgICAgdXJsX3BhdGggPSBzdHIocmVsLndpdGhfc3VmZml4KCIiKSkgKyAiLyIKICAgIHJldHVybiBmIntTSVRFX1VSTH0ve3VybF9wYXRofSIKCgpkZWYgY2xhc3NpZnlfcGFnZShtZF9wYXRoOiBQYXRoKSAtPiBzdHI6CiAgICAiIiJEZXRlcm1pbmUgd2hpY2ggc2VjdGlvbiBhIHBhZ2UgYmVsb25ncyB0by4iIiIKICAgIHJlbCA9IG1kX3BhdGgucmVsYXRpdmVfdG8oRE9DU19ESVIpCiAgICBwYXJ0cyA9IHJlbC5wYXJ0cwogICAgaWYgbGVuKHBhcnRzKSA9PSAxOgogICAgICAgICMgUm9vdC1sZXZlbCBmaWxlCiAgICAgICAgcmV0dXJuICJSZWZlcmVuY2UiCiAgICByZXR1cm4gRElSX1RPX1NFQ1RJT04uZ2V0KHBhcnRzWzBdLCAiUmVmZXJlbmNlIikKCgpkZWYgc3RyaXBfYWRtb25pdGlvbnMoYm9keTogc3RyKSAtPiBzdHI6CiAgICAiIiJSZW1vdmUgTWtEb2NzL1plbnNpY2FsIGFkbW9uaXRpb24gYmxvY2tzICghISEgdHlwZSkgZnJvbSBib2R5IHRleHQuIiIiCiAgICBsaW5lcyA9IGJvZHkuc3BsaXRsaW5lcygpCiAgICByZXN1bHQgPSBbXQogICAgaW5fYWRtb25pdGlvbiA9IEZhbHNlCiAgICBmb3IgbGluZSBpbiBsaW5lczoKICAgICAgICBpZiByZS5tYXRjaChyIl4hISEgXHcrIiwgbGluZSk6CiAgICAgICAgICAgIGluX2FkbW9uaXRpb24gPSBUcnVlCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgaW5fYWRtb25pdGlvbjoKICAgICAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCIgICAgIikgb3IgbGluZS5zdHJpcCgpID09ICIiOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaW5fYWRtb25pdGlvbiA9IEZhbHNlCiAgICAgICAgcmVzdWx0LmFwcGVuZChsaW5lKQogICAgcmV0dXJuICJcbiIuam9pbihyZXN1bHQpCgoKZGVmIG1haW4oKToKICAgIGlmIG5vdCBET0NTX0RJUi5leGlzdHMoKToKICAgICAgICBwcmludChmIkVycm9yOiB7RE9DU19ESVJ9IG5vdCBmb3VuZCIsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICBzeXMuZXhpdCgxKQoKICAgIFNJVEVfRElSLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKCiAgICAjIENvbGxlY3QgYWxsIG1hcmtkb3duIGZpbGVzIChza2lwIENOQU1FIGFuZCBvdGhlciBub24tZG9jIGZpbGVzKQogICAgbWRfZmlsZXMgPSBzb3J0ZWQoCiAgICAgICAgcCBmb3IgcCBpbiBET0NTX0RJUi5yZ2xvYigiKi5tZCIpCiAgICAgICAgaWYgcC5uYW1lICE9ICJDTkFNRSIKICAgICkKCiAgICAjIFBhcnNlIGFsbCBwYWdlcwogICAgcGFnZXMgPSBbXQogICAgZm9yIG1kX3BhdGggaW4gbWRfZmlsZXM6CiAgICAgICAgdGV4dCA9IG1kX3BhdGgucmVhZF90ZXh0KCkKICAgICAgICBtZXRhZGF0YSwgYm9keSA9IGV4dHJhY3RfZnJvbnRfbWF0dGVyKHRleHQpCiAgICAgICAgdGl0bGUgPSBleHRyYWN0X3RpdGxlKGJvZHkpCiAgICAgICAgZGVzY3JpcHRpb24gPSBtZXRhZGF0YS5nZXQoImRlc2NyaXB0aW9uIiwgIiIpCiAgICAgICAgc2VjdGlvbiA9IGNsYXNzaWZ5X3BhZ2UobWRfcGF0aCkKICAgICAgICB1cmwgPSBtZF9wYXRoX3RvX3VybChtZF9wYXRoKQoKICAgICAgICBwYWdlcy5hcHBlbmQoewogICAgICAgICAgICAicGF0aCI6IG1kX3BhdGgsCiAgICAgICAgICAgICJ0aXRsZSI6IHRpdGxlLAogICAgICAgICAgICAiZGVzY3JpcHRpb24iOiBkZXNjcmlwdGlvbiwKICAgICAgICAgICAgInNlY3Rpb24iOiBzZWN0aW9uLAogICAgICAgICAgICAidXJsIjogdXJsLAogICAgICAgICAgICAiYm9keSI6IGJvZHksCiAgICAgICAgfSkKCiAgICAjIFNraXAgdGhlIHJvb3QgaW5kZXggZnJvbSB0aGUgc2VjdGlvbiBsaXN0aW5ncyAoaXQgYmVjb21lcyB0aGUgaGVhZGVyKQogICAgcm9vdF9pbmRleCA9IE5vbmUKICAgIHNlY3Rpb25fcGFnZXMgPSBbXQogICAgZm9yIHBhZ2UgaW4gcGFnZXM6CiAgICAgICAgcmVsID0gcGFnZVsicGF0aCJdLnJlbGF0aXZlX3RvKERPQ1NfRElSKQogICAgICAgIGlmIHJlbCA9PSBQYXRoKCJpbmRleC5tZCIpOgogICAgICAgICAgICByb290X2luZGV4ID0gcGFnZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlY3Rpb25fcGFnZXMuYXBwZW5kKHBhZ2UpCgogICAgIyBTa2lwIHNob3J0IHNlY3Rpb24gaW5kZXggcGFnZXMgKG5hdmlnYXRpb25hbCBvbmx5KSBidXQga2VlcCBpbmRleAogICAgIyBwYWdlcyB3aXRoIHN1YnN0YW50aWFsIGNvbnRlbnQgKGxpa2UgdGhlIGZhaXJ5IHNpdGUgcGFnZSkuCiAgICBjb250ZW50X3BhZ2VzID0gWwogICAgICAgIHAgZm9yIHAgaW4gc2VjdGlvbl9wYWdlcwogICAgICAgIGlmIHBbInBhdGgiXS5uYW1lICE9ICJpbmRleC5tZCIgb3IgbGVuKHBbImJvZHkiXSkgPiA1MDAKICAgIF0KCiAgICAjIC0tLSBHZW5lcmF0ZSBsbG1zLnR4dCAtLS0KICAgIGxpbmVzID0gW10KICAgIGxpbmVzLmFwcGVuZCgiIyBJbmZyYSBEb2N1bWVudGF0aW9uIikKICAgIGxpbmVzLmFwcGVuZCgiIikKCiAgICBpZiByb290X2luZGV4OgogICAgICAgIF8sIGJvZHkgPSBleHRyYWN0X2Zyb250X21hdHRlcihyb290X2luZGV4WyJwYXRoIl0ucmVhZF90ZXh0KCkpCiAgICAgICAgIyBQdWxsIHRoZSBmaXJzdCBwYXJhZ3JhcGggKGFmdGVyIHRoZSBIMSkgYXMgdGhlIGJsb2NrcXVvdGUKICAgICAgICBib2R5X2NsZWFuID0gc3RyaXBfYWRtb25pdGlvbnMoYm9keSkKICAgICAgICBwYXJhZ3JhcGhzID0gWwogICAgICAgICAgICBwLnN0cmlwKCkgZm9yIHAgaW4gYm9keV9jbGVhbi5zcGxpdCgiXG5cbiIpCiAgICAgICAgICAgIGlmIHAuc3RyaXAoKSBhbmQgbm90IHAuc3RyaXAoKS5zdGFydHN3aXRoKCIjIikKICAgICAgICBdCiAgICAgICAgaWYgcGFyYWdyYXBoczoKICAgICAgICAgICAgZm9yIHBhcmFfbGluZSBpbiBwYXJhZ3JhcGhzWzBdLnNwbGl0bGluZXMoKToKICAgICAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmIj4ge3BhcmFfbGluZX0iKQogICAgICAgICAgICBsaW5lcy5hcHBlbmQoIiIpCgogICAgIyBHcm91cCBwYWdlcyBieSBzZWN0aW9uCiAgICBzZWN0aW9uczogZGljdFtzdHIsIGxpc3RbZGljdF1dID0ge3M6IFtdIGZvciBzIGluIFNFQ1RJT05fT1JERVJ9CiAgICBmb3IgcGFnZSBpbiBjb250ZW50X3BhZ2VzOgogICAgICAgIHNlY3Rpb24gPSBwYWdlWyJzZWN0aW9uIl0KICAgICAgICBpZiBzZWN0aW9uIG5vdCBpbiBzZWN0aW9uczoKICAgICAgICAgICAgc2VjdGlvbnNbc2VjdGlvbl0gPSBbXQogICAgICAgIHNlY3Rpb25zW3NlY3Rpb25dLmFwcGVuZChwYWdlKQoKICAgIGZvciBzZWN0aW9uX25hbWUgaW4gU0VDVElPTl9PUkRFUjoKICAgICAgICBzZWN0aW9uX2xpc3QgPSBzZWN0aW9ucy5nZXQoc2VjdGlvbl9uYW1lLCBbXSkKICAgICAgICBpZiBub3Qgc2VjdGlvbl9saXN0OgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGxpbmVzLmFwcGVuZChmIiMjIHtzZWN0aW9uX25hbWV9IikKICAgICAgICBsaW5lcy5hcHBlbmQoIiIpCiAgICAgICAgZm9yIHBhZ2UgaW4gc2VjdGlvbl9saXN0OgogICAgICAgICAgICBlbnRyeSA9IGYiLSBbe3BhZ2VbJ3RpdGxlJ119XSh7cGFnZVsndXJsJ119KSIKICAgICAgICAgICAgaWYgcGFnZVsiZGVzY3JpcHRpb24iXToKICAgICAgICAgICAgICAgIGVudHJ5ICs9IGYiOiB7cGFnZVsnZGVzY3JpcHRpb24nXX0iCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZChlbnRyeSkKICAgICAgICBsaW5lcy5hcHBlbmQoIiIpCgogICAgbGxtc190eHQgPSAiXG4iLmpvaW4obGluZXMpCiAgICAoU0lURV9ESVIgLyAibGxtcy50eHQiKS53cml0ZV90ZXh0KGxsbXNfdHh0KQogICAgcHJpbnQoZiJHZW5lcmF0ZWQgbGxtcy50eHQgKHtsZW4oY29udGVudF9wYWdlcyl9IHBhZ2VzKSIpCgogICAgIyAtLS0gR2VuZXJhdGUgbGxtcy1mdWxsLnR4dCAtLS0KICAgIGZ1bGxfbGluZXMgPSBbXQogICAgZnVsbF9saW5lcy5hcHBlbmQoIiMgSW5mcmEgRG9jdW1lbnRhdGlvbiDigJQgRnVsbCBDb250ZW50IikKICAgIGZ1bGxfbGluZXMuYXBwZW5kKCIiKQoKICAgIGZvciBwYWdlIGluIHBhZ2VzOgogICAgICAgIGZ1bGxfbGluZXMuYXBwZW5kKGYiIyMge3BhZ2VbJ3RpdGxlJ119IikKICAgICAgICBmdWxsX2xpbmVzLmFwcGVuZChmIlNvdXJjZToge3BhZ2VbJ3VybCddfSIpCiAgICAgICAgZnVsbF9saW5lcy5hcHBlbmQoIiIpCiAgICAgICAgIyBTdHJpcCBmcm9udCBtYXR0ZXIsIGtlZXAgdGhlIGJvZHkgYXMtaXMKICAgICAgICBmdWxsX2xpbmVzLmFwcGVuZChwYWdlWyJib2R5Il0pCiAgICAgICAgZnVsbF9saW5lcy5hcHBlbmQoIiIpCiAgICAgICAgZnVsbF9saW5lcy5hcHBlbmQoIi0tLSIpCiAgICAgICAgZnVsbF9saW5lcy5hcHBlbmQoIiIpCgogICAgbGxtc19mdWxsX3R4dCA9ICJcbiIuam9pbihmdWxsX2xpbmVzKQogICAgKFNJVEVfRElSIC8gImxsbXMtZnVsbC50eHQiKS53cml0ZV90ZXh0KGxsbXNfZnVsbF90eHQpCiAgICBwcmludChmIkdlbmVyYXRlZCBsbG1zLWZ1bGwudHh0ICh7bGVuKGxsbXNfZnVsbF90eHQpfSBjaGFycykiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""Generate llms.txt and llms-full.txt from the docs/ directory.
+
+Produces two files in the Zensical build output (site/):
+  - llms.txt:      structured index with page descriptions (per llmstxt.org spec)
+  - llms-full.txt: full concatenated content of all pages
+
+Run after `zensical build` so the output lands in site/ alongside the HTML.
+"""
+
+import re
+import sys
+from pathlib import Path
+
+DOCS_DIR = Path("docs")
+SITE_DIR = Path("site")
+SITE_URL = "https://infra-docs.nicole.dev"
+
+# Section ordering and display names. Pages are grouped by their top-level
+# directory. Pages at the docs root go into the section matching their stem,
+# or "Reference" as a fallback.
+SECTION_ORDER = [
+    "Sites",
+    "Compute",
+    "Networking",
+    "Storage",
+    "Runbooks",
+    "Guides",
+    "Reference",
+]
+
+DIR_TO_SECTION = {
+    "sites": "Sites",
+    "compute": "Compute",
+    "networking": "Networking",
+    "storage": "Storage",
+    "runbooks": "Runbooks",
+    "guides": "Guides",
+    "reference": "Reference",
+}
+
+
+def extract_front_matter(text: str) -> tuple[dict[str, str], str]:
+    """Extract YAML front matter and return (metadata dict, body)."""
+    metadata = {}
+    body = text
+    if text.startswith("---"):
+        parts = text.split("---", 2)
+        if len(parts) >= 3:
+            for line in parts[1].strip().splitlines():
+                if ":" in line:
+                    key, _, value = line.partition(":")
+                    metadata[key.strip()] = value.strip().strip('"').strip("'")
+            body = parts[2].strip()
+    return metadata, body
+
+
+def extract_title(body: str) -> str:
+    """Extract the first H1 heading from markdown body."""
+    for line in body.splitlines():
+        if line.startswith("# ") and not line.startswith("##"):
+            return line[2:].strip()
+    return ""
+
+
+def md_path_to_url(md_path: Path) -> str:
+    """Convert a docs/ markdown path to its published URL."""
+    rel = md_path.relative_to(DOCS_DIR)
+    if rel.name == "index.md":
+        url_path = str(rel.parent) + "/"
+        if url_path == "./":
+            url_path = ""
+    else:
+        url_path = str(rel.with_suffix("")) + "/"
+    return f"{SITE_URL}/{url_path}"
+
+
+def classify_page(md_path: Path) -> str:
+    """Determine which section a page belongs to."""
+    rel = md_path.relative_to(DOCS_DIR)
+    parts = rel.parts
+    if len(parts) == 1:
+        # Root-level file
+        return "Reference"
+    return DIR_TO_SECTION.get(parts[0], "Reference")
+
+
+def strip_admonitions(body: str) -> str:
+    """Remove MkDocs/Zensical admonition blocks (!!! type) from body text."""
+    lines = body.splitlines()
+    result = []
+    in_admonition = False
+    for line in lines:
+        if re.match(r"^!!! \w+", line):
+            in_admonition = True
+            continue
+        if in_admonition:
+            if line.startswith("    ") or line.strip() == "":
+                continue
+            in_admonition = False
+        result.append(line)
+    return "\n".join(result)
+
+
+def main():
+    if not DOCS_DIR.exists():
+        print(f"Error: {DOCS_DIR} not found", file=sys.stderr)
+        sys.exit(1)
+
+    SITE_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Collect all markdown files (skip CNAME and other non-doc files)
+    md_files = sorted(
+        p for p in DOCS_DIR.rglob("*.md")
+        if p.name != "CNAME"
+    )
+
+    # Parse all pages
+    pages = []
+    for md_path in md_files:
+        text = md_path.read_text()
+        metadata, body = extract_front_matter(text)
+        title = extract_title(body)
+        description = metadata.get("description", "")
+        section = classify_page(md_path)
+        url = md_path_to_url(md_path)
+
+        pages.append({
+            "path": md_path,
+            "title": title,
+            "description": description,
+            "section": section,
+            "url": url,
+            "body": body,
+        })
+
+    # Skip the root index from the section listings (it becomes the header)
+    root_index = None
+    section_pages = []
+    for page in pages:
+        rel = page["path"].relative_to(DOCS_DIR)
+        if rel == Path("index.md"):
+            root_index = page
+        else:
+            section_pages.append(page)
+
+    # Skip short section index pages (navigational only) but keep index
+    # pages with substantial content (like the fairy site page).
+    content_pages = [
+        p for p in section_pages
+        if p["path"].name != "index.md" or len(p["body"]) > 500
+    ]
+
+    # --- Generate llms.txt ---
+    lines = []
+    lines.append("# Infra Documentation")
+    lines.append("")
+
+    if root_index:
+        _, body = extract_front_matter(root_index["path"].read_text())
+        # Pull the first paragraph (after the H1) as the blockquote
+        body_clean = strip_admonitions(body)
+        paragraphs = [
+            p.strip() for p in body_clean.split("\n\n")
+            if p.strip() and not p.strip().startswith("#")
+        ]
+        if paragraphs:
+            for para_line in paragraphs[0].splitlines():
+                lines.append(f"> {para_line}")
+            lines.append("")
+
+    # Group pages by section
+    sections: dict[str, list[dict]] = {s: [] for s in SECTION_ORDER}
+    for page in content_pages:
+        section = page["section"]
+        if section not in sections:
+            sections[section] = []
+        sections[section].append(page)
+
+    for section_name in SECTION_ORDER:
+        section_list = sections.get(section_name, [])
+        if not section_list:
+            continue
+        lines.append(f"## {section_name}")
+        lines.append("")
+        for page in section_list:
+            entry = f"- [{page['title']}]({page['url']})"
+            if page["description"]:
+                entry += f": {page['description']}"
+            lines.append(entry)
+        lines.append("")
+
+    llms_txt = "\n".join(lines)
+    (SITE_DIR / "llms.txt").write_text(llms_txt)
+    print(f"Generated llms.txt ({len(content_pages)} pages)")
+
+    # --- Generate llms-full.txt ---
+    full_lines = []
+    full_lines.append("# Infra Documentation — Full Content")
+    full_lines.append("")
+
+    for page in pages:
+        full_lines.append(f"## {page['title']}")
+        full_lines.append(f"Source: {page['url']}")
+        full_lines.append("")
+        # Strip front matter, keep the body as-is
+        full_lines.append(page["body"])
+        full_lines.append("")
+        full_lines.append("---")
+        full_lines.append("")
+
+    llms_full_txt = "\n".join(full_lines)
+    (SITE_DIR / "llms-full.txt").write_text(llms_full_txt)
+    print(f"Generated llms-full.txt ({len(llms_full_txt)} chars)")
+
+
+if __name__ == "__main__":
+    main()

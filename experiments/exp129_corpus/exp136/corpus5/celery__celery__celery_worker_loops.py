@@ -1,1 +1,205 @@
-IiIiVGhlIGNvbnN1bWVycyBoaWdobHktb3B0aW1pemVkIGlubmVyIGxvb3AuIiIiCmltcG9ydCBlcnJubwppbXBvcnQgc29ja2V0Cgpmcm9tIGNlbGVyeSBpbXBvcnQgYm9vdHN0ZXBzCmZyb20gY2VsZXJ5LmV4Y2VwdGlvbnMgaW1wb3J0IFdvcmtlckxvc3RFcnJvcgpmcm9tIGNlbGVyeS51dGlscy5sb2cgaW1wb3J0IGdldF9sb2dnZXIKCmZyb20gLiBpbXBvcnQgc3RhdGUKCl9fYWxsX18gPSAoJ2FzeW5sb29wJywgJ3N5bmxvb3AnKQoKIyBweWxpbnQ6IGRpc2FibGU9cmVkZWZpbmVkLW91dGVyLW5hbWUKIyBXZSBjYWNoZSBnbG9iYWxzIGFuZCBhdHRyaWJ1dGUgbG9va3Vwcywgc28gZGlzYWJsZSB0aGlzIHdhcm5pbmcuCgpsb2dnZXIgPSBnZXRfbG9nZ2VyKF9fbmFtZV9fKQoKCmRlZiBfcXVpY2tfZHJhaW4oY29ubmVjdGlvbiwgdGltZW91dD0wLjEpOgogICAgdHJ5OgogICAgICAgIGNvbm5lY3Rpb24uZHJhaW5fZXZlbnRzKHRpbWVvdXQ9dGltZW91dCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOiAgIyBweWxpbnQ6IGRpc2FibGU9YnJvYWQtZXhjZXB0CiAgICAgICAgZXhjX2Vycm5vID0gZ2V0YXR0cihleGMsICdlcnJubycsIE5vbmUpCiAgICAgICAgaWYgZXhjX2Vycm5vIGlzIG5vdCBOb25lIGFuZCBleGNfZXJybm8gIT0gZXJybm8uRUFHQUlOOgogICAgICAgICAgICByYWlzZQoKCmRlZiBfZW5hYmxlX2FtcWhlYXJ0YmVhdHModGltZXIsIGNvbm5lY3Rpb24sIHJhdGU9Mi4wKToKICAgIGhlYXJ0YmVhdF9lcnJvciA9IFtOb25lXQoKICAgIGlmIG5vdCBjb25uZWN0aW9uOgogICAgICAgIHJldHVybiBoZWFydGJlYXRfZXJyb3IKCiAgICBoZWFydGJlYXQgPSBjb25uZWN0aW9uLmdldF9oZWFydGJlYXRfaW50ZXJ2YWwoKSAgIyBuZWdvdGlhdGVkCiAgICBpZiBub3QgKGhlYXJ0YmVhdCBhbmQgY29ubmVjdGlvbi5zdXBwb3J0c19oZWFydGJlYXRzKToKICAgICAgICByZXR1cm4gaGVhcnRiZWF0X2Vycm9yCgogICAgZGVmIHRpY2socmF0ZSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBjb25uZWN0aW9uLmhlYXJ0YmVhdF9jaGVjayhyYXRlKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgIyBoZWFydGJlYXRfZXJyb3IgaXMgcGFzc2VkIGJ5IHJlZmVyZW5jZSBjYW4gYmUgdXBkYXRlZAogICAgICAgICAgICAjIG5vIGFwcGVuZCBoZXJlIGxpc3Qgc2hvdWxkIGJlIGZpeGVkIHNpemU9MQogICAgICAgICAgICBoZWFydGJlYXRfZXJyb3JbMF0gPSBlCgogICAgdGltZXIuY2FsbF9yZXBlYXRlZGx5KGhlYXJ0YmVhdCAvIHJhdGUsIHRpY2ssIChyYXRlLCkpCiAgICByZXR1cm4gaGVhcnRiZWF0X2Vycm9yCgoKZGVmIGFzeW5sb29wKG9iaiwgY29ubmVjdGlvbiwgY29uc3VtZXIsIGJsdWVwcmludCwgaHViLCBxb3MsCiAgICAgICAgICAgICBoZWFydGJlYXQsIGNsb2NrLCBoYnJhdGU9Mi4wKToKICAgICIiIk5vbi1ibG9ja2luZyBldmVudCBsb29wLiIiIgogICAgUlVOID0gYm9vdHN0ZXBzLlJVTgogICAgdXBkYXRlX3FvcyA9IHFvcy51cGRhdGUKICAgIGVycm9ycyA9IGNvbm5lY3Rpb24uY29ubmVjdGlvbl9lcnJvcnMKCiAgICBvbl90YXNrX3JlY2VpdmVkID0gb2JqLmNyZWF0ZV90YXNrX2hhbmRsZXIoKQoKICAgIGhlYXJ0YmVhdF9lcnJvciA9IF9lbmFibGVfYW1xaGVhcnRiZWF0cyhodWIudGltZXIsIGNvbm5lY3Rpb24sIHJhdGU9aGJyYXRlKQogICAgZGlzcGF0Y2hlcl9oZWFydGJlYXRfZXJyb3IgPSBbTm9uZV0KICAgIGlmIG9iai5ldmVudF9kaXNwYXRjaGVyOgogICAgICAgIGRpc3BhdGNoZXJfaGVhcnRiZWF0X2Vycm9yID0gX2VuYWJsZV9hbXFoZWFydGJlYXRzKAogICAgICAgICAgICBodWIudGltZXIsIG9iai5ldmVudF9kaXNwYXRjaGVyLmNvbm5lY3Rpb24sIHJhdGU9aGJyYXRlKQoKICAgIGNvbnN1bWVyLm9uX21lc3NhZ2UgPSBvbl90YXNrX3JlY2VpdmVkCiAgICBvYmouY29udHJvbGxlci5yZWdpc3Rlcl93aXRoX2V2ZW50X2xvb3AoaHViKQogICAgb2JqLnJlZ2lzdGVyX3dpdGhfZXZlbnRfbG9vcChodWIpCiAgICBjb25zdW1lci5jb25zdW1lKCkKICAgIG9iai5vbl9yZWFkeSgpCgogICAgIyBkaWRfc3RhcnRfb2sgd2lsbCB2ZXJpZnkgdGhhdCBwb29sIHByb2Nlc3NlcyB3ZXJlIGFibGUgdG8gc3RhcnQsCiAgICAjIGJ1dCB0aGlzIHdpbGwgb25seSB3b3JrIHRoZSBmaXJzdCB0aW1lIHdlIHN0YXJ0LCBhcwogICAgIyBtYXh0YXNrc3BlcmNoaWxkIHdpbGwgbWVzcyB1cCBtZXRyaWNzLgogICAgaWYgbm90IG9iai5yZXN0YXJ0X2NvdW50IGFuZCBub3Qgb2JqLnBvb2wuZGlkX3N0YXJ0X29rKCk6CiAgICAgICAgcmFpc2UgV29ya2VyTG9zdEVycm9yKCdDb3VsZCBub3Qgc3RhcnQgd29ya2VyIHByb2Nlc3NlcycpCgogICAgIyBjb25zdW1lci5jb25zdW1lKCkgbWF5IGhhdmUgcHJlZmV0Y2hlZCB1cCB0byBvdXIKICAgICMgbGltaXQgLSBkcmFpbiBhbiBldmVudCBzbyB3ZSdyZSBpbiBhIGNsZWFuIHN0YXRlCiAgICAjIHByaW9yIHRvIHN0YXJ0aW5nIG91ciBldmVudCBsb29wLgogICAgaWYgY29ubmVjdGlvbi50cmFuc3BvcnQuZHJpdmVyX3R5cGUgPT0gJ2FtcXAnOgogICAgICAgIGh1Yi5jYWxsX3Nvb24oX3F1aWNrX2RyYWluLCBjb25uZWN0aW9uKQoKICAgICMgRklYTUU6IFVzZSBsb29wLnJ1bl9mb3JldmVyCiAgICAjIFRyaWVkIGFuZCB3b3JrcywgYnV0IG5vIHRpbWUgdG8gdGVzdCBwcm9wZXJseSBiZWZvcmUgcmVsZWFzZS4KICAgIGh1Yi5wcm9wYWdhdGVfZXJyb3JzID0gZXJyb3JzCiAgICBsb29wID0gaHViLmNyZWF0ZV9sb29wKCkKCiAgICB0cnk6CiAgICAgICAgd2hpbGUgYmx1ZXByaW50LnN0YXRlID09IFJVTiBhbmQgb2JqLmNvbm5lY3Rpb246CiAgICAgICAgICAgIHN0YXRlLm1heWJlX3NodXRkb3duKCkKICAgICAgICAgICAgaWYgaGVhcnRiZWF0X2Vycm9yWzBdIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgcmFpc2UgaGVhcnRiZWF0X2Vycm9yWzBdCiAgICAgICAgICAgIGlmIGRpc3BhdGNoZXJfaGVhcnRiZWF0X2Vycm9yWzBdIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgcmFpc2UgZGlzcGF0Y2hlcl9oZWFydGJlYXRfZXJyb3JbMF0KCiAgICAgICAgICAgICMgV2Ugb25seSB1cGRhdGUgUW9TIHdoZW4gdGhlcmUncyBubyBtb3JlIG1lc3NhZ2VzIHRvIHJlYWQuCiAgICAgICAgICAgICMgVGhpcyBncm91cHMgdG9nZXRoZXIgcW9zIGNhbGxzLCBhbmQgbWFrZXMgc3VyZSB0aGF0IHJlbW90ZQogICAgICAgICAgICAjIGNvbnRyb2wgY29tbWFuZHMgd2lsbCBiZSBwcmlvcml0aXplZCBvdmVyIHRhc2sgbWVzc2FnZXMuCiAgICAgICAgICAgIGlmIHFvcy5wcmV2ICE9IHFvcy52YWx1ZToKICAgICAgICAgICAgICAgIHVwZGF0ZV9xb3MoKQoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgbmV4dChsb29wKQogICAgICAgICAgICBleGNlcHQgU3RvcEl0ZXJhdGlvbjoKICAgICAgICAgICAgICAgIGxvb3AgPSBodWIuY3JlYXRlX2xvb3AoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAjIFJlc2V0IHRoZSBodWIgb24gZXJyb3IgKGUuZy4gY29ubmVjdGlvbiBsb3NzKSB0byBjbGVhbiB1cAogICAgICAgICMgc3RhbGUgZmlsZSBkZXNjcmlwdG9ycyBhbmQgY2FsbGJhY2tzIGZyb20gdGhlIG9sZCBjb25uZWN0aW9uLgogICAgICAgICMgQWxzbyBjbGVhciB0aGUgdGltZXIgcXVldWUgc28gdGhhdCBzdGFsZSBwZXJpb2RpYyBlbnRyaWVzIGFkZGVkIGJ5CiAgICAgICAgIyByZWdpc3Rlcl93aXRoX2V2ZW50X2xvb3AgKGUuZy4gbWF5YmVfcmVzdG9yZV9tZXNzYWdlcykgZG8gbm90IGZpcmUKICAgICAgICAjIGFnYWluc3QgdGhlIGJyb2tlbiBjb25uZWN0aW9uIGFmdGVyIHJlY29ubmVjdCBhbmQgdHJpZ2dlciBhbm90aGVyCiAgICAgICAgIyBjcmFzaCBiZWZvcmUgdGhlIG5ldyBjb25uZWN0aW9uIGlzIGZ1bGx5IGVzdGFibGlzaGVkLgogICAgICAgICMgQWxsIGh1YiB0aW1lcnMgYXJlIHJlLXJlZ2lzdGVyZWQgZHVyaW5nIGJsdWVwcmludC5zdGFydCgpIG9uY2UgdGhpcwogICAgICAgICMgZXhjZXB0aW9uIHByb3BhZ2F0ZXMgYW5kIHRoZSBjb25zdW1lciByZWNvbm5lY3RzLgogICAgICAgICMgV2UgaW50ZW50aW9uYWxseSBkbyBOT1QgcmVzZXQgb24gbm9ybWFsIGV4aXQgKGdyYWNlZnVsIHNodXRkb3duKQogICAgICAgICMgc28gdGhhdCB0aW1lcnMgKGUuZy4gaGVhcnRiZWF0KSBrZWVwIGZpcmluZyB3aGlsZSB0aGUgcG9vbCBkcmFpbnMuCiAgICAgICAgIyBXb3JrZXJTaHV0ZG93bi9Xb3JrZXJUZXJtaW5hdGUgZXh0ZW5kIFN5c3RlbUV4aXQgKG5vdCBFeGNlcHRpb24pCiAgICAgICAgIyBzbyB0aGV5IHdvbid0IGJlIGNhdWdodCBoZXJlLgogICAgICAgIHRyeToKICAgICAgICAgICAgaHViLnJlc2V0KCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzogICMgcHlsaW50OiBkaXNhYmxlPWJyb2FkLWV4Y2VwdAogICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKAogICAgICAgICAgICAgICAgJ0Vycm9yIGNsZWFuaW5nIHVwIGFmdGVyIGV2ZW50IGxvb3A6ICVyJywgZXhjKQogICAgICAgICMgQ2xlYXIgc3RhbGUgdGltZXIgZW50cmllcyBhY2N1bXVsYXRlZCBhY3Jvc3MgcmVjb25uZWN0cyAoZS5nLgogICAgICAgICMgbWF5YmVfcmVzdG9yZV9tZXNzYWdlcyByZWdpc3RlcmVkIHZpYSBjYWxsX3JlcGVhdGVkbHkpLiBXaXRob3V0CiAgICAgICAgIyB0aGlzLCBlYWNoIHJlY29ubmVjdCBhcHBlbmRzIGEgbmV3IGVudHJ5OyBhbGwgb2YgdGhlbSBmaXJlIGR1cmluZwogICAgICAgICMgdGhlIHJlY29ubmVjdCB3aW5kb3csIHJhaXNlIGFnYWluLCBhbmQgdHJpZ2dlciBhbm90aGVyIHJlc3RhcnQuCiAgICAgICAgIyBVc2UgYSBzZXBhcmF0ZSB0cnkvZXhjZXB0IHNvIHRoaXMgYWx3YXlzIHJ1bnMgZXZlbiBpZiBodWIucmVzZXQoKQogICAgICAgICMgcmFpc2VkIGFib3ZlLiBUaW1lcnMgYXJlIHJlLXJlZ2lzdGVyZWQgYnkgcmVnaXN0ZXJfd2l0aF9ldmVudF9sb29wCiAgICAgICAgIyB3aGVuIGJsdWVwcmludC5zdGFydCgpIGlzIGNhbGxlZCBhZnRlciByZWNvbm5lY3QuCiAgICAgICAgdHJ5OgogICAgICAgICAgICBodWIudGltZXIuY2xlYXIoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOiAgIyBweWxpbnQ6IGRpc2FibGU9YnJvYWQtZXhjZXB0CiAgICAgICAgICAgIGxvZ2dlci5leGNlcHRpb24oCiAgICAgICAgICAgICAgICAnRXJyb3IgY2xlYXJpbmcgaHViIHRpbWVyIGFmdGVyIGV2ZW50IGxvb3A6ICVyJywgZXhjKQogICAgICAgIHJhaXNlCgoKZGVmIHN5bmxvb3Aob2JqLCBjb25uZWN0aW9uLCBjb25zdW1lciwgYmx1ZXByaW50LCBodWIsIHFvcywKICAgICAgICAgICAgaGVhcnRiZWF0LCBjbG9jaywgaGJyYXRlPTIuMCwgKiprd2FyZ3MpOgogICAgIiIiRmFsbGJhY2sgYmxvY2tpbmcgZXZlbnQgbG9vcCBmb3IgdHJhbnNwb3J0cyB0aGF0IGRvZXNuJ3Qgc3VwcG9ydCBBSU8uIiIiCiAgICBSVU4gPSBib290c3RlcHMuUlVOCiAgICBvbl90YXNrX3JlY2VpdmVkID0gb2JqLmNyZWF0ZV90YXNrX2hhbmRsZXIoKQogICAgcGVyZm9ybV9wZW5kaW5nX29wZXJhdGlvbnMgPSBvYmoucGVyZm9ybV9wZW5kaW5nX29wZXJhdGlvbnMKICAgIGhlYXJ0YmVhdF9lcnJvciA9IFtOb25lXQogICAgZGlzcGF0Y2hlcl9oZWFydGJlYXRfZXJyb3IgPSBbTm9uZV0KICAgIGlzX2dyZWVuID0gZ2V0YXR0cihvYmoucG9vbCwgJ2lzX2dyZWVuJywgRmFsc2UpCiAgICBpZiBpc19ncmVlbjoKICAgICAgICBoZWFydGJlYXRfZXJyb3IgPSBfZW5hYmxlX2FtcWhlYXJ0YmVhdHMob2JqLnRpbWVyLCBjb25uZWN0aW9uLCByYXRlPWhicmF0ZSkKICAgICAgICBpZiBvYmouZXZlbnRfZGlzcGF0Y2hlcjoKICAgICAgICAgICAgZGlzcGF0Y2hlcl9oZWFydGJlYXRfZXJyb3IgPSBfZW5hYmxlX2FtcWhlYXJ0YmVhdHMoCiAgICAgICAgICAgICAgICBvYmoudGltZXIsIG9iai5ldmVudF9kaXNwYXRjaGVyLmNvbm5lY3Rpb24sIHJhdGU9aGJyYXRlKQogICAgY29uc3VtZXIub25fbWVzc2FnZSA9IG9uX3Rhc2tfcmVjZWl2ZWQKICAgIGNvbnN1bWVyLmNvbnN1bWUoKQoKICAgIG9iai5vbl9yZWFkeSgpCgogICAgZGVmIF9sb29wX2N5Y2xlKCk6CiAgICAgICAgIiIiCiAgICAgICAgUGVyZm9ybSBvbmUgaXRlcmF0aW9uIG9mIHRoZSBibG9ja2luZyBldmVudCBsb29wLgogICAgICAgICIiIgogICAgICAgIGlmIGhlYXJ0YmVhdF9lcnJvclswXSBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmFpc2UgaGVhcnRiZWF0X2Vycm9yWzBdCiAgICAgICAgaWYgZGlzcGF0Y2hlcl9oZWFydGJlYXRfZXJyb3JbMF0gaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJhaXNlIGRpc3BhdGNoZXJfaGVhcnRiZWF0X2Vycm9yWzBdCiAgICAgICAgaWYgcW9zLnByZXYgIT0gcW9zLnZhbHVlOgogICAgICAgICAgICBxb3MudXBkYXRlKCkKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBlcmZvcm1fcGVuZGluZ19vcGVyYXRpb25zKCkKICAgICAgICAgICAgY29ubmVjdGlvbi5kcmFpbl9ldmVudHModGltZW91dD0yLjApCiAgICAgICAgZXhjZXB0IHNvY2tldC50aW1lb3V0OgogICAgICAgICAgICBwYXNzCiAgICAgICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgICAgIGlmIGJsdWVwcmludC5zdGF0ZSA9PSBSVU46CiAgICAgICAgICAgICAgICByYWlzZQogICAgICAgICMgZHJhaW4gdGhpcyBjb25uZWN0aW9uIHNvIGJyb2tlciBoZWFydGJlYXRzIGFyZSBjb25zdW1lZC4KICAgICAgICBpZiBpc19ncmVlbiBhbmQgb2JqLmFtcWhlYXJ0YmVhdCBhbmQgb2JqLmV2ZW50X2Rpc3BhdGNoZXI6CiAgICAgICAgICAgIGNvbm5lY3Rpb25fID0gb2JqLmV2ZW50X2Rpc3BhdGNoZXIuY29ubmVjdGlvbgogICAgICAgICAgICBpZiBjb25uZWN0aW9uXyBhbmQgY29ubmVjdGlvbl8uc3VwcG9ydHNfaGVhcnRiZWF0czoKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBfcXVpY2tfZHJhaW4ob2JqLmV2ZW50X2Rpc3BhdGNoZXIuY29ubmVjdGlvbikKICAgICAgICAgICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICAgICAgICAgIGlmIGJsdWVwcmludC5zdGF0ZSA9PSBSVU46CiAgICAgICAgICAgICAgICAgICAgICAgIHJhaXNlCgogICAgdHJ5OgogICAgICAgIHdoaWxlIGJsdWVwcmludC5zdGF0ZSA9PSBSVU4gYW5kIG9iai5jb25uZWN0aW9uOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzdGF0ZS5tYXliZV9zaHV0ZG93bigpCiAgICAgICAgICAgIGZpbmFsbHk6CiAgICAgICAgICAgICAgICBfbG9vcF9jeWNsZSgpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICMgUmVzZXQgdGhlIGh1YiBvbiBlcnJvciAoZS5nLiBjb25uZWN0aW9uIGxvc3MpIHRvIGNsZWFuIHVwCiAgICAgICAgIyBzdGFsZSBzdGF0ZSBmcm9tIHRoZSBvbGQgY29ubmVjdGlvbiwgbWF0Y2hpbmcgdGhlIGNsZWFudXAKICAgICAgICAjIGFscmVhZHkgZG9uZSBpbiBhc3lubG9vcC4gIFdpdGhvdXQgdGhpcywgdGhlIHN5bmxvb3AKICAgICAgICAjICh1c2VkIGJ5IGdldmVudC9ldmVudGxldCBwb29scykgY291bGQgbGVhdmUgc3RhbGUgY2FsbGJhY2tzCiAgICAgICAgIyB0aGF0IHByZXZlbnQgY29uc3VtZXIgcmUtcmVnaXN0cmF0aW9uIGFmdGVyIHJlY29ubmVjdGlvbi4KICAgICAgICAjIFNlZTogaHR0cHM6Ly9naXRodWIuY29tL2NlbGVyeS9jZWxlcnkvaXNzdWVzLzkxOTEKICAgICAgICBpZiBodWIgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGh1Yi5yZXNldCgpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOiAgIyBweWxpbnQ6IGRpc2FibGU9YnJvYWQtZXhjZXB0CiAgICAgICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICdFcnJvciBjbGVhbmluZyB1cCBhZnRlciBzeW5jIGV2ZW50IGxvb3A6ICVyJywgZXhjKQogICAgICAgIHJhaXNlCg==
+"""The consumers highly-optimized inner loop."""
+import errno
+import socket
+
+from celery import bootsteps
+from celery.exceptions import WorkerLostError
+from celery.utils.log import get_logger
+
+from . import state
+
+__all__ = ('asynloop', 'synloop')
+
+# pylint: disable=redefined-outer-name
+# We cache globals and attribute lookups, so disable this warning.
+
+logger = get_logger(__name__)
+
+
+def _quick_drain(connection, timeout=0.1):
+    try:
+        connection.drain_events(timeout=timeout)
+    except Exception as exc:  # pylint: disable=broad-except
+        exc_errno = getattr(exc, 'errno', None)
+        if exc_errno is not None and exc_errno != errno.EAGAIN:
+            raise
+
+
+def _enable_amqheartbeats(timer, connection, rate=2.0):
+    heartbeat_error = [None]
+
+    if not connection:
+        return heartbeat_error
+
+    heartbeat = connection.get_heartbeat_interval()  # negotiated
+    if not (heartbeat and connection.supports_heartbeats):
+        return heartbeat_error
+
+    def tick(rate):
+        try:
+            connection.heartbeat_check(rate)
+        except Exception as e:
+            # heartbeat_error is passed by reference can be updated
+            # no append here list should be fixed size=1
+            heartbeat_error[0] = e
+
+    timer.call_repeatedly(heartbeat / rate, tick, (rate,))
+    return heartbeat_error
+
+
+def asynloop(obj, connection, consumer, blueprint, hub, qos,
+             heartbeat, clock, hbrate=2.0):
+    """Non-blocking event loop."""
+    RUN = bootsteps.RUN
+    update_qos = qos.update
+    errors = connection.connection_errors
+
+    on_task_received = obj.create_task_handler()
+
+    heartbeat_error = _enable_amqheartbeats(hub.timer, connection, rate=hbrate)
+    dispatcher_heartbeat_error = [None]
+    if obj.event_dispatcher:
+        dispatcher_heartbeat_error = _enable_amqheartbeats(
+            hub.timer, obj.event_dispatcher.connection, rate=hbrate)
+
+    consumer.on_message = on_task_received
+    obj.controller.register_with_event_loop(hub)
+    obj.register_with_event_loop(hub)
+    consumer.consume()
+    obj.on_ready()
+
+    # did_start_ok will verify that pool processes were able to start,
+    # but this will only work the first time we start, as
+    # maxtasksperchild will mess up metrics.
+    if not obj.restart_count and not obj.pool.did_start_ok():
+        raise WorkerLostError('Could not start worker processes')
+
+    # consumer.consume() may have prefetched up to our
+    # limit - drain an event so we're in a clean state
+    # prior to starting our event loop.
+    if connection.transport.driver_type == 'amqp':
+        hub.call_soon(_quick_drain, connection)
+
+    # FIXME: Use loop.run_forever
+    # Tried and works, but no time to test properly before release.
+    hub.propagate_errors = errors
+    loop = hub.create_loop()
+
+    try:
+        while blueprint.state == RUN and obj.connection:
+            state.maybe_shutdown()
+            if heartbeat_error[0] is not None:
+                raise heartbeat_error[0]
+            if dispatcher_heartbeat_error[0] is not None:
+                raise dispatcher_heartbeat_error[0]
+
+            # We only update QoS when there's no more messages to read.
+            # This groups together qos calls, and makes sure that remote
+            # control commands will be prioritized over task messages.
+            if qos.prev != qos.value:
+                update_qos()
+
+            try:
+                next(loop)
+            except StopIteration:
+                loop = hub.create_loop()
+    except Exception:
+        # Reset the hub on error (e.g. connection loss) to clean up
+        # stale file descriptors and callbacks from the old connection.
+        # Also clear the timer queue so that stale periodic entries added by
+        # register_with_event_loop (e.g. maybe_restore_messages) do not fire
+        # against the broken connection after reconnect and trigger another
+        # crash before the new connection is fully established.
+        # All hub timers are re-registered during blueprint.start() once this
+        # exception propagates and the consumer reconnects.
+        # We intentionally do NOT reset on normal exit (graceful shutdown)
+        # so that timers (e.g. heartbeat) keep firing while the pool drains.
+        # WorkerShutdown/WorkerTerminate extend SystemExit (not Exception)
+        # so they won't be caught here.
+        try:
+            hub.reset()
+        except Exception as exc:  # pylint: disable=broad-except
+            logger.exception(
+                'Error cleaning up after event loop: %r', exc)
+        # Clear stale timer entries accumulated across reconnects (e.g.
+        # maybe_restore_messages registered via call_repeatedly). Without
+        # this, each reconnect appends a new entry; all of them fire during
+        # the reconnect window, raise again, and trigger another restart.
+        # Use a separate try/except so this always runs even if hub.reset()
+        # raised above. Timers are re-registered by register_with_event_loop
+        # when blueprint.start() is called after reconnect.
+        try:
+            hub.timer.clear()
+        except Exception as exc:  # pylint: disable=broad-except
+            logger.exception(
+                'Error clearing hub timer after event loop: %r', exc)
+        raise
+
+
+def synloop(obj, connection, consumer, blueprint, hub, qos,
+            heartbeat, clock, hbrate=2.0, **kwargs):
+    """Fallback blocking event loop for transports that doesn't support AIO."""
+    RUN = bootsteps.RUN
+    on_task_received = obj.create_task_handler()
+    perform_pending_operations = obj.perform_pending_operations
+    heartbeat_error = [None]
+    dispatcher_heartbeat_error = [None]
+    is_green = getattr(obj.pool, 'is_green', False)
+    if is_green:
+        heartbeat_error = _enable_amqheartbeats(obj.timer, connection, rate=hbrate)
+        if obj.event_dispatcher:
+            dispatcher_heartbeat_error = _enable_amqheartbeats(
+                obj.timer, obj.event_dispatcher.connection, rate=hbrate)
+    consumer.on_message = on_task_received
+    consumer.consume()
+
+    obj.on_ready()
+
+    def _loop_cycle():
+        """
+        Perform one iteration of the blocking event loop.
+        """
+        if heartbeat_error[0] is not None:
+            raise heartbeat_error[0]
+        if dispatcher_heartbeat_error[0] is not None:
+            raise dispatcher_heartbeat_error[0]
+        if qos.prev != qos.value:
+            qos.update()
+        try:
+            perform_pending_operations()
+            connection.drain_events(timeout=2.0)
+        except socket.timeout:
+            pass
+        except OSError:
+            if blueprint.state == RUN:
+                raise
+        # drain this connection so broker heartbeats are consumed.
+        if is_green and obj.amqheartbeat and obj.event_dispatcher:
+            connection_ = obj.event_dispatcher.connection
+            if connection_ and connection_.supports_heartbeats:
+                try:
+                    _quick_drain(obj.event_dispatcher.connection)
+                except OSError:
+                    if blueprint.state == RUN:
+                        raise
+
+    try:
+        while blueprint.state == RUN and obj.connection:
+            try:
+                state.maybe_shutdown()
+            finally:
+                _loop_cycle()
+    except Exception:
+        # Reset the hub on error (e.g. connection loss) to clean up
+        # stale state from the old connection, matching the cleanup
+        # already done in asynloop.  Without this, the synloop
+        # (used by gevent/eventlet pools) could leave stale callbacks
+        # that prevent consumer re-registration after reconnection.
+        # See: https://github.com/celery/celery/issues/9191
+        if hub is not None:
+            try:
+                hub.reset()
+            except Exception as exc:  # pylint: disable=broad-except
+                logger.exception(
+                    'Error cleaning up after sync event loop: %r', exc)
+        raise

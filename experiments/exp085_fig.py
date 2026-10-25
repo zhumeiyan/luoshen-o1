@@ -1,1 +1,71 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG9zCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgnQWdnJykKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IGZvbnRfbWFuYWdlcgoKZm9yIGYgaW4gWydXZW5RdWFuWWkgTWljcm8gSGVpJywgJ05vdG8gU2FucyBDSksgU0MnLCAnV2VuUXVhbllpIFplbiBIZWknXToKICAgIHRyeToKICAgICAgICBmb250X21hbmFnZXIuZmluZGZvbnQoZiwgZmFsbGJhY2tfdG9fZGVmYXVsdD1GYWxzZSkKICAgICAgICBwbHQucmNQYXJhbXNbJ2ZvbnQuc2Fucy1zZXJpZiddID0gW2ZdOyBicmVhawogICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwpwbHQucmNQYXJhbXNbJ2F4ZXMudW5pY29kZV9taW51cyddID0gRmFsc2UKClJPT1QgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAnLi4nKQpkID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKFJPT1QsICdleHBlcmltZW50cycsICdyZXN1bHRfMDg1ZC5qc29uJykpKQplID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKFJPT1QsICdleHBlcmltZW50cycsICdyZXN1bHRfMDg1ZS5qc29uJykpKQpjID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKFJPT1QsICdleHBlcmltZW50cycsICdyZXN1bHRfMDg1Yy5qc29uJykpKQoKZmlnLCBheCA9IHBsdC5zdWJwbG90cygyLCAyLCBmaWdzaXplPSgxMy41LCA5LjUpKQpyb3dzID0gZFsncm93cyddCgojIEEgwrcgZHJpZnQgdnMg5o6l5pS25oC76YePCnJjID0gW3JbJ3JlY2VpcHQnXSBmb3IgciBpbiByb3dzXTsgZGYgPSBbclsnZHJpZnQnXSBmb3IgciBpbiByb3dzXQphbCA9IFtyWydhbGl2ZSddIC8gclsnbl9iYXNlJ10gZm9yIHIgaW4gcm93c10KYXhbMCwgMF0uc2NhdHRlcihyYywgZGYsIHM9NzAsIGM9JyMxZjZmZWInLCB6b3JkZXI9MykKbyA9IG5wLmFyZ3NvcnQocmMpOyBheFswLCAwXS5wbG90KG5wLmFycmF5KHJjKVtvXSwgbnAuYXJyYXkoZGYpW29dLCAnLS0nLCBjb2xvcj0nIzg4OCcsIGx3PTEpCmZvciByIGluIHJvd3M6CiAgICBheFswLCAwXS5hbm5vdGF0ZShmInA9e3JbJ3AnXX0iLCAoclsncmVjZWlwdCddLCByWydkcmlmdCddKSwgZm9udHNpemU9NywKICAgICAgICAgICAgICAgICAgICAgIHh5dGV4dD0oNCwgNCksIHRleHRjb29yZHM9J29mZnNldCBwb2ludHMnKQpheFswLCAwXS5zZXRfeHNjYWxlKCdsb2cnKTsgYXhbMCwgMF0uc2V0X3hsYWJlbCgn5o6l5pS25oC76YePIHJlY2VpcHQgPSDluYXluqYgw5cg5byA6Zeo5qyh5pWwJykKYXhbMCwgMF0uc2V0X3lsYWJlbCgn57uT5p6E5ryC56e7IGRyaWZ077yI6KKr5o6o56a75Y6f5qC35aSa6L+c77yJJykKYXhbMCwgMF0uc2V0X3RpdGxlKGYnQSDCtyDooqvlhrLlnq7nmoTnm7TmjqXluqbph49cbmRyaWZ0IH4gcmVjZWlwdCAgU3BlYXJtYW4gz4E9K3tkWyJyaG9fZHJpZnQiXTouM2Z9ICBwPDFlLTUnLCBmb250c2l6ZT0xMSkKCiMgQiDCtyDlrZjmtLsgdnMg5o6l5pS25oC76YePCmF4WzAsIDFdLnNjYXR0ZXIocmMsIGFsLCBzPTcwLCBjPScjZDczYTQ5Jywgem9yZGVyPTMpCmF4WzAsIDFdLnBsb3QobnAuYXJyYXkocmMpW29dLCBucC5hcnJheShhbClbb10sICctLScsIGNvbG9yPScjODg4JywgbHc9MSkKYXhbMCwgMV0uc2V0X3hzY2FsZSgnbG9nJyk7IGF4WzAsIDFdLnNldF94bGFiZWwoJ+aOpeaUtuaAu+mHjyByZWNlaXB0JykKYXhbMCwgMV0uc2V0X3lsYWJlbCgn5a2Y5rS7546HJykKYXhbMCwgMV0uc2V0X3RpdGxlKGYnQiDCtyDmjqXmlLbotorlpJrvvIzotormtLvkuI3kuIvljrtcbuWtmOa0uyB+IHJlY2VpcHQgIM+BPXtkWyJyaG9fYWxpdmUiXTouM2Z9ICBwPDFlLTUnLCBmb250c2l6ZT0xMSkKCiMgQyDCtyDlkIzmgLvph4/vvJrlgbblsJTnnIvkuIDnnLwgdnMg6KKr5oyB57ut5oqV5ZaCClIgPSBbclsncmVjZWlwdCddIGZvciByIGluIGVbJ3Jvd3MnXV0Kc3AgPSBbclsnZHJpZnRfc3BhcnNlJ10gZm9yIHIgaW4gZVsncm93cyddXQpkbiA9IFtyWydkcmlmdF9kZW5zZSddIGZvciByIGluIGVbJ3Jvd3MnXV0KZGwgPSBbclsnZGVsdGEnXSBmb3IgciBpbiBlWydyb3dzJ11dCmxvID0gW3JbJ2NpX2xvJ10gZm9yIHIgaW4gZVsncm93cyddXTsgaGkgPSBbclsnY2lfaGknXSBmb3IgciBpbiBlWydyb3dzJ11dCnggPSBucC5hcmFuZ2UoMyk7IHcgPSAwLjM2CmF4WzEsIDBdLmJhcih4IC0gdy8yLCBzcCwgdywgbGFiZWw9J+WBtuWwlOeci+S4gOecvCAoMTUw5qyhwrfpq5jluYUpJywgY29sb3I9JyMyZGE0NGUnKQpheFsxLCAwXS5iYXIoeCArIHcvMiwgZG4sIHcsIGxhYmVsPSfooqvmjIHnu63mipXlloIgKDYwMOasocK35L2O5bmFKScsIGNvbG9yPScjYmY4NzAwJykKYXhbMSwgMF0uZXJyb3JiYXIoeCwgZGwsIHllcnI9W25wLmFycmF5KGRsKS1ucC5hcnJheShsbyksIG5wLmFycmF5KGhpKS1ucC5hcnJheShkbCldLAogICAgICAgICAgICAgICAgICBmbXQ9J2suJywgY2Fwc2l6ZT00LCBsdz0xKQpheFsxLCAwXS5zZXRfeHRpY2tzKHgpOyBheFsxLCAwXS5zZXRfeHRpY2tsYWJlbHMoW2YncmVjZWlwdD17cn0nIGZvciByIGluIFJdKQpheFsxLCAwXS5zZXRfeWxhYmVsKCdkcmlmdCcpOyBheFsxLCAwXS5sZWdlbmQoZm9udHNpemU9OCkKYXhbMSwgMF0uc2V0X3RpdGxlKCdDIMK3IOWQjOagt+aAu+iDvemHj++8jOaOpeaUtueahOOAkOaXtumXtOW9ouaAgeOAkeacieWQjuaenFxu77yI6buR54K5PXNwYXJzZS1kZW5zZSDlt64gKyA5NSVDSe+8m+S7hSByZWNlaXB0PTYg5pi+6JGX77yJJywgZm9udHNpemU9MTApCgojIEQgwrcg5Li75YqoIHZzIOiiq+WKqO+8iOasoeaVsOeyvuehruWMuemFje+8ie+8muaWueWQkeS4jeS4gOiHtAptID0gW3IgZm9yIHIgaW4gY1snbWF0Y2hlZCddIGlmIHJbJ2FtcCddID09IDAuMDJdCnAyID0gW3JbJ3AnXSBmb3IgciBpbiBtXTsgZGQgPSBbclsnZF9za2V3J10gZm9yIHIgaW4gbV0KbDEgPSBbclsnY2lfbG8nXSBmb3IgciBpbiBtXTsgaDEgPSBbclsnY2lfaGknXSBmb3IgciBpbiBtXQpheFsxLCAxXS5heGhsaW5lKDAsIGNvbG9yPSdrJywgbHc9MSkKYXhbMSwgMV0uZXJyb3JiYXIocDIsIGRkLCB5ZXJyPVtucC5hcnJheShkZCktbnAuYXJyYXkobDEpLCBucC5hcnJheShoMSktbnAuYXJyYXkoZGQpXSwKICAgICAgICAgICAgICAgICAgZm10PSdvJywgY2Fwc2l6ZT01LCBjb2xvcj0nIzZmNDJjMScpCmF4WzEsIDFdLnNldF94bGFiZWwoJ+W8gOmXqOeOhyBw77yI5qyh5pWw57K+56Gu5Yy56YWN77yJJyk7IGF4WzEsIDFdLnNldF95bGFiZWwoJ86U57uT5p6E5YGP5bqmICjkuLvliqjiiJLpmo/mnLopJykKYXhbMSwgMV0uc2V0X3RpdGxlKCdEIMK3ICLnlLHmiJHlhrPlrprkvZXml7bnnIsiIOaXoOS4gOiHtOaWueWQkVxucD0wLjI1IOaYvuiRl+S4uui0n++8jHA9MC41LzAuNzUg5pi+6JGX5Li65q2jIOKGkiDkuI3lj6/kvZznu5PorronLCBmb250c2l6ZT0xMCkKCnBsdC50aWdodF9sYXlvdXQoKQpvdXQgPSBvcy5wYXRoLmpvaW4oUk9PVCwgJ2ZpZycsICcwODVfYWN0aXZlX3ZzX3Bhc3NpdmUucG5nJykKcGx0LnNhdmVmaWcob3V0LCBkcGk9MTMwKQpwcmludCgnW09LXScsIG91dCkK
+# -*- coding: utf-8 -*-
+import json, os
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+for f in ['WenQuanYi Micro Hei', 'Noto Sans CJK SC', 'WenQuanYi Zen Hei']:
+    try:
+        font_manager.findfont(f, fallback_to_default=False)
+        plt.rcParams['font.sans-serif'] = [f]; break
+    except Exception: pass
+plt.rcParams['axes.unicode_minus'] = False
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+d = json.load(open(os.path.join(ROOT, 'experiments', 'result_085d.json')))
+e = json.load(open(os.path.join(ROOT, 'experiments', 'result_085e.json')))
+c = json.load(open(os.path.join(ROOT, 'experiments', 'result_085c.json')))
+
+fig, ax = plt.subplots(2, 2, figsize=(13.5, 9.5))
+rows = d['rows']
+
+# A · drift vs 接收总量
+rc = [r['receipt'] for r in rows]; df = [r['drift'] for r in rows]
+al = [r['alive'] / r['n_base'] for r in rows]
+ax[0, 0].scatter(rc, df, s=70, c='#1f6feb', zorder=3)
+o = np.argsort(rc); ax[0, 0].plot(np.array(rc)[o], np.array(df)[o], '--', color='#888', lw=1)
+for r in rows:
+    ax[0, 0].annotate(f"p={r['p']}", (r['receipt'], r['drift']), fontsize=7,
+                      xytext=(4, 4), textcoords='offset points')
+ax[0, 0].set_xscale('log'); ax[0, 0].set_xlabel('接收总量 receipt = 幅度 × 开门次数')
+ax[0, 0].set_ylabel('结构漂移 drift（被推离原样多远）')
+ax[0, 0].set_title(f'A · 被冲垮的直接度量\ndrift ~ receipt  Spearman ρ=+{d["rho_drift"]:.3f}  p<1e-5', fontsize=11)
+
+# B · 存活 vs 接收总量
+ax[0, 1].scatter(rc, al, s=70, c='#d73a49', zorder=3)
+ax[0, 1].plot(np.array(rc)[o], np.array(al)[o], '--', color='#888', lw=1)
+ax[0, 1].set_xscale('log'); ax[0, 1].set_xlabel('接收总量 receipt')
+ax[0, 1].set_ylabel('存活率')
+ax[0, 1].set_title(f'B · 接收越多，越活不下去\n存活 ~ receipt  ρ={d["rho_alive"]:.3f}  p<1e-5', fontsize=11)
+
+# C · 同总量：偶尔看一眼 vs 被持续投喂
+R = [r['receipt'] for r in e['rows']]
+sp = [r['drift_sparse'] for r in e['rows']]
+dn = [r['drift_dense'] for r in e['rows']]
+dl = [r['delta'] for r in e['rows']]
+lo = [r['ci_lo'] for r in e['rows']]; hi = [r['ci_hi'] for r in e['rows']]
+x = np.arange(3); w = 0.36
+ax[1, 0].bar(x - w/2, sp, w, label='偶尔看一眼 (150次·高幅)', color='#2da44e')
+ax[1, 0].bar(x + w/2, dn, w, label='被持续投喂 (600次·低幅)', color='#bf8700')
+ax[1, 0].errorbar(x, dl, yerr=[np.array(dl)-np.array(lo), np.array(hi)-np.array(dl)],
+                  fmt='k.', capsize=4, lw=1)
+ax[1, 0].set_xticks(x); ax[1, 0].set_xticklabels([f'receipt={r}' for r in R])
+ax[1, 0].set_ylabel('drift'); ax[1, 0].legend(fontsize=8)
+ax[1, 0].set_title('C · 同样总能量，接收的【时间形态】有后果\n（黑点=sparse-dense 差 + 95%CI；仅 receipt=6 显著）', fontsize=10)
+
+# D · 主动 vs 被动（次数精确匹配）：方向不一致
+m = [r for r in c['matched'] if r['amp'] == 0.02]
+p2 = [r['p'] for r in m]; dd = [r['d_skew'] for r in m]
+l1 = [r['ci_lo'] for r in m]; h1 = [r['ci_hi'] for r in m]
+ax[1, 1].axhline(0, color='k', lw=1)
+ax[1, 1].errorbar(p2, dd, yerr=[np.array(dd)-np.array(l1), np.array(h1)-np.array(dd)],
+                  fmt='o', capsize=5, color='#6f42c1')
+ax[1, 1].set_xlabel('开门率 p（次数精确匹配）'); ax[1, 1].set_ylabel('Δ结构偏度 (主动−随机)')
+ax[1, 1].set_title('D · "由我决定何时看" 无一致方向\np=0.25 显著为负，p=0.5/0.75 显著为正 → 不可作结论', fontsize=10)
+
+plt.tight_layout()
+out = os.path.join(ROOT, 'fig', '085_active_vs_passive.png')
+plt.savefig(out, dpi=130)
+print('[OK]', out)

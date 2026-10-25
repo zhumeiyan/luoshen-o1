@@ -1,1 +1,38 @@
-aW1wb3J0IGpzb24sIHJhbmRvbSwgbWF0aApmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdAoKdHh0ID0gb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCcsIGVuY29kaW5nPSd1dGYtOCcpLnJlYWQoKQpzID0gJycuam9pbihjaCBmb3IgY2ggaW4gdHh0IGlmIG5vdCBjaC5pc3NwYWNlKCkpClYgPSBsZW4oc2V0KHMpKQpybmcgPSByYW5kb20uUmFuZG9tKDcpCgpkZWYgcnVuKE4sIHNlZWQpOgogICAgc3ViID0gc1s6Tl0KICAgIHIgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICBpZHggPSBsaXN0KHJhbmdlKE4tOSkpOyByLnNodWZmbGUoaWR4KQogICAgY3V0ID0gaW50KGxlbihpZHgpKjAuOCk7IHRyPXNldChpZHhbOmN1dF0pOyB0ZT1pZHhbY3V0Ol0KICAgIG91dD17fQogICAgZm9yIGsgaW4gcmFuZ2UoMSw4KToKICAgICAgICBjbnQ9ZGVmYXVsdGRpY3QobGFtYmRhOiBkZWZhdWx0ZGljdChpbnQpKQogICAgICAgIGZvciBpIGluIHRyOiBjbnRbc3ViW2k6aStrXV1bc3ViW2kra11dKz0xCiAgICAgICAgZ2xiPWRlZmF1bHRkaWN0KGludCkKICAgICAgICBmb3IgaSBpbiB0cjogZ2xiW3N1YltpK2tdXSs9MQogICAgICAgIGJlc3RfZz1tYXgoZ2xiLGtleT1nbGIuZ2V0KQogICAgICAgIGhpdD0wCiAgICAgICAgZm9yIGkgaW4gdGU6CiAgICAgICAgICAgIGN0eD1zdWJbaTppK2tdCiAgICAgICAgICAgIHAgPSBtYXgoY250W2N0eF0sa2V5PWNudFtjdHhdLmdldCkgaWYgY3R4IGluIGNudCBlbHNlIGJlc3RfZwogICAgICAgICAgICBpZiBwPT1zdWJbaStrXTogaGl0Kz0xCiAgICAgICAgb3V0W2tdPWhpdC9sZW4odGUpCiAgICBiZXN0az1tYXgob3V0LGtleT1vdXQuZ2V0KQogICAgcmV0dXJuIG91dCxiZXN0awoKcHJpbnQoZiJWPXtWfSIpCnByaW50KGYieydOJzo+OH0geydrKl90aGVvcnknOj4xMH0geydiZXN0X2snOj43fSAgIiArICIgICIuam9pbihmIms9e2t9IiBmb3IgayBpbiByYW5nZSgxLDcpKSkKcm93cz1bXQpmb3IgTiBpbiBbNTAwMCwxMDAwMCwyMDAwMCw0MDAwMCw4MDAwMCwxNDIzMzZdOgogICAgb3V0LGJlc3RrID0gcnVuKE4sIDEwMDArTikKICAgIGt0ID0gbWF0aC5sb2coTikvbWF0aC5sb2coVikKICAgIHByaW50KGYie046Pjh9IHtrdDo+MTAuM2Z9IHtiZXN0azo+N30gICIgKyAiICAiLmpvaW4oZiJ7b3V0W2tdOi40Zn0iIGZvciBrIGluIHJhbmdlKDEsNykpKQogICAgcm93cy5hcHBlbmQoZGljdChOPU4sa3N0YXJfdGhlb3J5PWt0LGJlc3Rfaz1iZXN0ayxhY2M9b3V0KSkKanNvbi5kdW1wKHJvd3MsIG9wZW4oJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE2MV9uYm9uYWNjaS9zY2FsZS5qc29uJywndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+import json, random, math
+from collections import defaultdict
+
+txt = open('/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md', encoding='utf-8').read()
+s = ''.join(ch for ch in txt if not ch.isspace())
+V = len(set(s))
+rng = random.Random(7)
+
+def run(N, seed):
+    sub = s[:N]
+    r = random.Random(seed)
+    idx = list(range(N-9)); r.shuffle(idx)
+    cut = int(len(idx)*0.8); tr=set(idx[:cut]); te=idx[cut:]
+    out={}
+    for k in range(1,8):
+        cnt=defaultdict(lambda: defaultdict(int))
+        for i in tr: cnt[sub[i:i+k]][sub[i+k]]+=1
+        glb=defaultdict(int)
+        for i in tr: glb[sub[i+k]]+=1
+        best_g=max(glb,key=glb.get)
+        hit=0
+        for i in te:
+            ctx=sub[i:i+k]
+            p = max(cnt[ctx],key=cnt[ctx].get) if ctx in cnt else best_g
+            if p==sub[i+k]: hit+=1
+        out[k]=hit/len(te)
+    bestk=max(out,key=out.get)
+    return out,bestk
+
+print(f"V={V}")
+print(f"{'N':>8} {'k*_theory':>10} {'best_k':>7}  " + "  ".join(f"k={k}" for k in range(1,7)))
+rows=[]
+for N in [5000,10000,20000,40000,80000,142336]:
+    out,bestk = run(N, 1000+N)
+    kt = math.log(N)/math.log(V)
+    print(f"{N:>8} {kt:>10.3f} {bestk:>7}  " + "  ".join(f"{out[k]:.4f}" for k in range(1,7)))
+    rows.append(dict(N=N,kstar_theory=kt,best_k=bestk,acc=out))
+json.dump(rows, open('/data/workspace/luoshen-o1/experiments/exp161_nbonacci/scale.json','w'), ensure_ascii=False, indent=1)

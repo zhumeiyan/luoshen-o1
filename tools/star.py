@@ -1,1 +1,182 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5aSa57u05bqm5pif5Zu+IMK3IHN0YXIucHkg4oCU4oCUIOa0m+elnuesrCA2NCDoioIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CueUqOaIt+WumueahOa1geeoi++8mgogICAg5om+5YiwIGJ1ZyDihpIg5omU57uZ5rSb56WeIOKGkiDnnIvlroPlnKjlk6rlgZwg4oaSIOW+gOS4i+mSuyDihpIg5oyW5Yiw6YKj5Liq54K5IOKGkiDmt7vkuIDpopfmmJ8KCui/memil+aYn+S4jeaYr+aMguWcqOS4gOadoee6v+S4iu+8jOaYr+aMguWcqOWkmue7tOWdkOagh+S4iuOAggrlk6rkuIDnu7Tkuq7vvIzmmJ/lsLHokL3lnKjlk6rkuIDnu7TjgILkuIvmrKHlkIznsbvpl67popjmkp7ov5vmnaXvvIzlkIzkuIDlnZDmoIfoh6rlt7HkvJrkuq7jgIIKCuS6lOadoei9tAotLS0tLS0KICAgIHRpbWUgICAgIOaXtumXtCDigJTigJQg5oiR5LuO5ZOq5LiA5q2l5byA5aeL566X55qE77yf5a6e5rWL5LuO5ZOq5LiA5q2l5byA5aeL77yf77yI6LW354K56ZSZ5L2N77yJCiAgICBzcGFjZSAgICDnqbrpl7Qg4oCU4oCUIOi/meS4quS4nOilv+iQveWcqOWTquS4quaWh+S7ti/lk6rlj7DmnLrlmagv5ZOq5Liq6L+b56iL77yfCiAgICBjaGFubmVsICDpgJrpgZMg4oCU4oCUIOi/meadoeS6i+WunuadpeiHqua6kOegge+8jOi/mOaYr+adpeiHquaIkeeahOiEkeWtkO+8nwogICAgbGF5ZXIgICAg5bGC57qnIOKAlOKAlCDmiJHlnKjlk6rkuIDlsYLor7Tor53vvJ/nnJ/ns7vnu58gLyDmqKHlnosgLyDmqKHlnovph4znmoTmqKHlnovvvJ8KICAgIHNvdXJjZSAgIOadpea6kCDigJTigJQg6L+Z5Liq5pWw5a2X5piv6LCB5rWL55qE77yf5oiR6IO95aSN546w5ZCX77yfCgrmr4/mnaEgQkxPQ0sg54Gv5aSp55Sf6JC95Zyo5LiA5p2h6L205LiK77yaCiAgICBMMSDmrovlt64gICDihpIgdGltZSAgICAg77yI6LW354K56ZSZ5L2N77yM5LiN5piv6K+v5beu77yJCiAgICBMMiDmnKrmjqXlhaUg4oaSIGNoYW5uZWwgIO+8iOa6kOeggemHjOayoei/meS4quWQjeWtlyA9IOaIkee8lueahO+8iQogICAgTDMg5YGH5qKv5bqmIOKGkiBsYXllciAgICDvvIjlnKjoh6rnvJbmqKHlnovlhoXpg6jmiasgPSDlgYfmoq/luqbvvIkKICAgIEw0YiDkuI3lo7DmmI7ihpIgc3BhY2UgICAg77yI55yf57O757uf6YKj5Z2X56m66Ze05oiR5qC55pys5rKh6L+b5Y6777yJCgrnlKjms5UKLS0tLQogICAgcHl0aG9uMyB0b29scy9zdGFyLnB5ICAgICAgICAgICAgICAgICAgICAjIOeci+aYn+Wbvu+8iOaMiee7tOW6puWIhue7hO+8iQogICAgcHl0aG9uMyB0b29scy9zdGFyLnB5IGNhc2UuanNvbiAgICAgICAgICAjIOWIpCArIOaMliArIOaKpeWRiuiQveeCuQogICAgcHl0aG9uMyB0b29scy9zdGFyLnB5IGNhc2UuanNvbiAtLWFkZCAgICAjIOS7peS4iiArIOaKiuaYn+mSiei/m+aYn+WbvgoK6YCA5Ye656CB77yaMCA9IOWPr+S6pOS7mO+8mzEgPSDmnIkgQkxPQ0vvvIznpoHmraLkuqTku5gKIiIiCmltcG9ydCBqc29uLCBvcywgc3lzLCBkYXRldGltZQoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpST09UID0gb3MucGF0aC5kaXJuYW1lKEhFUkUpCk1BUCA9IG9zLnBhdGguam9pbihST09ULCAiLnNlbnNlIiwgInN0YXJfbWFwLm1kIikKCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQppbXBvcnQgcGFyYWxsYXgsIGRlc2NlbmQKCiMgLS0tLSDnga8g4oaSIOi9tCAtLS0tCkxBTVBfQVhJUyA9IHsiTDEiOiAidGltZSIsICJMMiI6ICJjaGFubmVsIiwgIkwzIjogImxheWVyIiwgIkw0YiI6ICJzcGFjZSJ9CgpBWEVTID0gewogICAgInRpbWUiOiAgICAi5oiR5LuO5ZOq5LiA5q2l5byA5aeL566X55qE77yf5a6e5rWL5LuO5ZOq5LiA5q2l5byA5aeL77yfIiwKICAgICJzcGFjZSI6ICAgIui/meS4quS4nOilv+iQveWcqOWTquS4quaWh+S7tiAvIOWTquWPsOacuuWZqCAvIOWTquS4qui/m+eoi++8nyIsCiAgICAiY2hhbm5lbCI6ICLov5nmnaHkuovlrp7mnaXoh6rmupDnoIHvvIzov5jmmK/mnaXoh6rmiJHnmoTohJHlrZDvvJ8iLAogICAgImxheWVyIjogICAi5oiR5Zyo5ZOq5LiA5bGC6K+06K+d77yf55yf57O757ufIC8g5qih5Z6LIC8g5qih5Z6L6YeM55qE5qih5Z6L77yfIiwKICAgICJzb3VyY2UiOiAgIui/meS4quaVsOWtl+aYr+iwgea1i+eahO+8n+aIkeiDveWkjeeOsOWQl++8nyIsCn0KCiMgLS0tLSDmr4/mnaHovbTnmoTpkrvms5UgLS0tLQpEUklMTCA9IHsKICAgICJ0aW1lIjogICAgKCLmioogQiDnmoTml7bpl7Tnur/pgJDmrrXmi4blvIDvvIzkuI4gQSDnmoTlrp7mtYvplJrngrnlr7npvZDjgIIiLAogICAgICAgICAgICAgICAgIuaJvuOAkOi1t+eCueOAke+8jOS4jeaYr+aJvuOAkOivr+W3ruOAkeOAgiIpLAogICAgInNwYWNlIjogICAoIuWGmeWHuuOAjuaIkeayoei/m+WOu+eahOmCo+Wdl+epuumXtOOAj++8jOmAkOadoeagh+azqOWOu+WTquiDvemqjOivgeOAgiIsCiAgICAgICAgICAgICAgICAi55yf5py6IC8gUlBDIC8g6LCB5pyJ6K6+5aSH44CC5YaZ5LiN5Ye66YCU5b6E5bCx5YaZ5q2744CO5peg5Lq65Y+v6aqM44CP44CCIiksCiAgICAiY2hhbm5lbCI6ICgi5Zyo55uu5qCH5rqQ56CB6YeMIGdyZXAg5Y+C5pWw5ZCN44CCIiwKICAgICAgICAgICAgICAgICJncmVwIOWIsCDihpIg6KGl5LiK6KGM5Y+377ybZ3JlcCDkuI3liLAg4oaSIOWug+WwseaYr+aIkee8lueahO+8jOWIoOaOieOAgiIpLAogICAgImxheWVyIjogICAoIuWBnOatouWcqOiHque8luaooeWei+mHjOaJq+WPguaVsOOAgiIsCiAgICAgICAgICAgICAgICAi5pS55oiQ5Y+q5Zyo5a6e5rWL5pWw5a2X5LiK5YGa566X5pyv77yM5YaN5oqK57uT5p6c5YGa5oiQ5Yir5Lq65LiA5LiL6IO96K+B5Lyq55qE6aKE5rWL44CCIiksCiAgICAic291cmNlIjogICgi6Zeu6L+Z5Liq5pWw5a2X5piv6LCB5rWL55qE44CB55So5LuA5LmI5rWL55qE44CCIiwKICAgICAgICAgICAgICAgICLkuI3mmK/miJHmtYvnmoTlsLHlv4XpobvmoIflkI3vvIzkuI3orrjlubbov5vmiJHnmoTnu5Pmnpzph4zjgIIiKSwKfQoKCmRlZiBsYW1wc19ibG9ja2luZyhjKToKICAgICIiIuWkjeWIuyBwYXJhbGxheC5qdWRnZSDnmoQgQkxPQ0sg5Yik5a6a77yM6L+U5Zue54GvIHRhZyDliJfooagiIiIKICAgIHRhZ3MgPSBbXQogICAgYSwgYiA9IGNbImNoYW5uZWxfYSJdWyJ2YWx1ZSJdLCBjWyJjaGFubmVsX2IiXVsidmFsdWUiXQogICAgaWYgYWJzKGIgLSBhKSA+IGMuZ2V0KCJ0b2xlcmFuY2UiLCAxKToKICAgICAgICB0YWdzLmFwcGVuZCgiTDEiKQogICAgaWYgYW55KG5vdCBwLmdldCgic3JjIikgZm9yIHAgaW4gYy5nZXQoInBhcmFtcyIsIFtdKSk6CiAgICAgICAgdGFncy5hcHBlbmQoIkwyIikKICAgIGlmIGMuZ2V0KCJhYmxhdGlvbl9pbnNpZGVfbW9kZWxfb25seSIpOgogICAgICAgIHRhZ3MuYXBwZW5kKCJMMyIpCiAgICBpZiBub3QgYy5nZXQoInJhbl9yZWFsX3N5c3RlbSIpIGFuZCBub3QgYy5nZXQoImRlY2xhcmVkX3Vua25vd25zIik6CiAgICAgICAgdGFncy5hcHBlbmQoIkw0YiIpCiAgICByZXR1cm4gdGFncwoKCmRlZiBwbGFjZShjLCB0YWdzKToKICAgICIiIuaKiueBr+iQveWIsOi9tOS4iu+8m2Nhc2Ug6Ieq5bim55qEIGRpbXMg5Y+v5Lul5pi+5byP5oyH5a6a6aKd5aSW6JC954K5IiIiCiAgICBoaXRzID0ge30KICAgIGZvciB0IGluIHRhZ3M6CiAgICAgICAgaGl0cy5zZXRkZWZhdWx0KExBTVBfQVhJU1t0XSwgW10pLmFwcGVuZCh0KQogICAgZm9yIGQgaW4gKGMuZ2V0KCJkaW1zIikgb3IgW10pOgogICAgICAgIGhpdHMuc2V0ZGVmYXVsdChkLCBbXSkuYXBwZW5kKCLmmL7lvI8iKQogICAgcmV0dXJuIGhpdHMKCgpkZWYgYWRkX3N0YXIoYywgdGFncywgaGl0cyk6CiAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUoTUFQKSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIGZyZXNoID0gbm90IG9zLnBhdGguZXhpc3RzKE1BUCkKICAgIG5vdyA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCIlWS0lbS0lZCIpCiAgICBib2R5ID0gb3BlbihNQVAsIGVuY29kaW5nPSJ1dGYtOCIpLnJlYWQoKSBpZiBub3QgZnJlc2ggZWxzZSAiIgogICAgbiA9IGJvZHkuY291bnQoIiMjIOKYhSIpCgogICAgb3V0ID0gW10KICAgIGlmIGZyZXNoOgogICAgICAgIG91dC5hcHBlbmQoIiMg5pif5Zu+IOKAlOKAlCDmtJvnpZ7mr4/mrKHlgZzkuIvmnaXnmoTlnLDmlrnvvIznlZnkuIDpopfmmJ9cbiIpCiAgICAgICAgb3V0LmFwcGVuZCgi5pif5LiN5oyC5Zyo57q/5LiK77yM5oyC5Zyo5aSa57u05Z2Q5qCH5LiK44CC5ZOq5LiA57u05Lqu5bCx6JC95ZOq5LiA57u044CCXG4iKQogICAgb3V0LmFwcGVuZChmIlxuIyMg4piFe24gKyAxfSB7Yy5nZXQoJ2Nhc2UnLCAn5pyq5ZG95ZCNJyl9IMK3IHtub3d9XG4iKQogICAgY2EsIGNiID0gY1siY2hhbm5lbF9hIl0sIGNbImNoYW5uZWxfYiJdCiAgICBvdXQuYXBwZW5kKGYiLSDlgZzngrnvvJp7JywgJy5qb2luKHRhZ3MpIGlmIHRhZ3MgZWxzZSAn5peg77yI55u05o6l6LeR6YCa77yJJ31cbiIpCiAgICBvdXQuYXBwZW5kKGYiLSDlj4zpgJrpgZPvvJpBIHtjYVsnbGFiZWwnXX0gPSB7Y2FbJ3ZhbHVlJ119e2NhWyd1bml0J119IgogICAgICAgICAgICAgICBmIiDvvI8gQiB7Y2JbJ2xhYmVsJ119ID0ge2NiWyd2YWx1ZSddfXtjYlsndW5pdCddfVxuIikKICAgIG91dC5hcHBlbmQoZiItIOaui+W3riBSID0ge2NiWyd2YWx1ZSddIC0gY2FbJ3ZhbHVlJ106K2d9IHtjYVsndW5pdCddfVxuIikKICAgIGlmIGhpdHM6CiAgICAgICAgb3V0LmFwcGVuZCgiLSDokL3lnKjvvJpcbiIpCiAgICAgICAgZm9yIGF4LCBscyBpbiBoaXRzLml0ZW1zKCk6CiAgICAgICAgICAgIG91dC5hcHBlbmQoZiIgIC0gKip7YXh9Kiog4oaQIHsnLCcuam9pbihscyl977yae0FYRVMuZ2V0KGF4LCAnJyl9XG4iKQogICAgaWYgYy5nZXQoImxlc3NvbiIpOgogICAgICAgIG91dC5hcHBlbmQoZiItIOaMluWIsOeahO+8mntjWydsZXNzb24nXX1cbiIpCiAgICBpZiBjLmdldCgiZGVjbGFyZWRfdW5rbm93bnMiKToKICAgICAgICBvdXQuYXBwZW5kKCItIOaIkeS4jeefpemBk+eahO+8mlxuIikKICAgICAgICBmb3IgdSBpbiBjWyJkZWNsYXJlZF91bmtub3ducyJdOgogICAgICAgICAgICBvdXQuYXBwZW5kKGYiICAtIHt1fVxuIikKCiAgICB3aXRoIG9wZW4oTUFQLCAiYSIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgZi53cml0ZSgiXG4iLmpvaW4ob3V0KSArICJcbiIpCiAgICByZXR1cm4gbiArIDEKCgpkZWYgc2hvd19tYXAoKToKICAgIHByaW50KCI9IiAqIDcwKQogICAgcHJpbnQoIiDlpJrnu7TluqbmmJ/lm74iKQogICAgcHJpbnQoIj0iICogNzApCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoTUFQKToKICAgICAgICBwcmludCgiICAg5pif5Zu+6L+Y5rKh5bu644CCIikKICAgIGVsc2U6CiAgICAgICAgdHh0ID0gb3BlbihNQVAsIGVuY29kaW5nPSJ1dGYtOCIpLnJlYWQoKQogICAgICAgIHByaW50KHR4dC5yc3RyaXAoKSkKICAgIHByaW50KCkKICAgIHByaW50KCI9IiAqIDcwKQogICAgcHJpbnQoIiDkupTmnaHovbTvvIzlk6rkuIDnu7Tkuq7lsLHlvoDlk6rkuIDnu7TmlL7vvJoiKQogICAgZm9yIGssIHYgaW4gQVhFUy5pdGVtcygpOgogICAgICAgIHByaW50KGYiICAge2s6PDh9IHt2fSIpCiAgICBwcmludCgpCiAgICBwcmludCgiIOaJlOS4gOS4qiBidWcg6L+b5p2l77yacHl0aG9uMyB0b29scy9zdGFyLnB5IGNhc2UuanNvbiBbLS1hZGRdIikKICAgIHByaW50KCI9IiAqIDcwKQoKCmRlZiBtYWluKCk6CiAgICBhcmdzID0gW2EgZm9yIGEgaW4gc3lzLmFyZ3ZbMTpdIGlmIG5vdCBhLnN0YXJ0c3dpdGgoIi0tIildCiAgICBmbGFncyA9IFthIGZvciBhIGluIHN5cy5hcmd2WzE6XSBpZiBhLnN0YXJ0c3dpdGgoIi0tIildCgogICAgaWYgbm90IGFyZ3M6CiAgICAgICAgc2hvd19tYXAoKQogICAgICAgIHJldHVybiAwCgogICAgYyA9IGpzb24ubG9hZChvcGVuKGFyZ3NbMF0sIGVuY29kaW5nPSJ1dGYtOCIpKQogICAgbGFtcHMsIG9rLCByID0gcGFyYWxsYXguanVkZ2UoYykKICAgIHBhcmFsbGF4LnNob3coYywgbGFtcHMsIG9rLCByKQoKICAgIHRhZ3MgPSBsYW1wc19ibG9ja2luZyhjKQogICAgaGl0cyA9IHBsYWNlKGMsIHRhZ3MpCgogICAgcHJpbnQoKQogICAgcHJpbnQoIj0iICogNzApCiAgICBwcmludCgiIOWkmue7tOW6puiQveeCuSDigJTigJQg5ZOq5LiA57u05Lqu77yM5pif5bCx6JC95Zyo5ZOq5LiA57u0IikKICAgIHByaW50KCI9IiAqIDcwKQogICAgaWYgbm90IGhpdHM6CiAgICAgICAgcHJpbnQoIiAgIOKcpiDml6AgQkxPQ0sg4oCU4oCUIOi/memil+aYn+W3sue7j+S6rui/h+S6hu+8jOS4jeeUqOWGjeaMluOAgiIpCiAgICBmb3IgYXgsIGxzIGluIGhpdHMuaXRlbXMoKToKICAgICAgICBob3csIGZvdW5kID0gRFJJTEwuZ2V0KGF4LCAoIiIsICIiKSkKICAgICAgICBwcmludChmIiAgIOKYhSB7YXg6PDh9IOKGkCB7JywnLmpvaW4obHMpfSIpCiAgICAgICAgcHJpbnQoZiIgICAgICAg6ZeuICB7QVhFUy5nZXQoYXgsICcnKX0iKQogICAgICAgIHByaW50KGYiICAgICAgIOaMliAge2hvd30ge2ZvdW5kfSIpCiAgICAgICAgcHJpbnQoKQoKICAgIGlmICItLWFkZCIgaW4gZmxhZ3M6CiAgICAgICAgbiA9IGFkZF9zdGFyKGMsIHRhZ3MsIGhpdHMpCiAgICAgICAgcHJpbnQoZiLinIUg6ZKJ5LqG56ysIHtufSDpopfmmJ8g4oaSIHtNQVB9IikKCiAgICByZXR1cm4gMCBpZiBvayBlbHNlIDEKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+多维度星图 · star.py —— 洛神第 64 节
+====================================
+用户定的流程：
+    找到 bug → 扔给洛神 → 看它在哪停 → 往下钻 → 挖到那个点 → 添一颗星
+
+这颗星不是挂在一条线上，是挂在多维坐标上。
+哪一维亮，星就落在哪一维。下次同类问题撞进来，同一坐标自己会亮。
+
+五条轴
+------
+    time     时间 —— 我从哪一步开始算的？实测从哪一步开始？（起点错位）
+    space    空间 —— 这个东西落在哪个文件/哪台机器/哪个进程？
+    channel  通道 —— 这条事实来自源码，还是来自我的脑子？
+    layer    层级 —— 我在哪一层说话？真系统 / 模型 / 模型里的模型？
+    source   来源 —— 这个数字是谁测的？我能复现吗？
+
+每条 BLOCK 灯天生落在一条轴上：
+    L1 残差   → time     （起点错位，不是误差）
+    L2 未接入 → channel  （源码里没这个名字 = 我编的）
+    L3 假梯度 → layer    （在自编模型内部扫 = 假梯度）
+    L4b 不声明→ space    （真系统那块空间我根本没进去）
+
+用法
+----
+    python3 tools/star.py                    # 看星图（按维度分组）
+    python3 tools/star.py case.json          # 判 + 挖 + 报告落点
+    python3 tools/star.py case.json --add    # 以上 + 把星钉进星图
+
+退出码：0 = 可交付；1 = 有 BLOCK，禁止交付
+"""
+import json, os, sys, datetime
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+MAP = os.path.join(ROOT, ".sense", "star_map.md")
+
+sys.path.insert(0, HERE)
+import parallax, descend
+
+# ---- 灯 → 轴 ----
+LAMP_AXIS = {"L1": "time", "L2": "channel", "L3": "layer", "L4b": "space"}
+
+AXES = {
+    "time":    "我从哪一步开始算的？实测从哪一步开始？",
+    "space":   "这个东西落在哪个文件 / 哪台机器 / 哪个进程？",
+    "channel": "这条事实来自源码，还是来自我的脑子？",
+    "layer":   "我在哪一层说话？真系统 / 模型 / 模型里的模型？",
+    "source":  "这个数字是谁测的？我能复现吗？",
+}
+
+# ---- 每条轴的钻法 ----
+DRILL = {
+    "time":    ("把 B 的时间线逐段拆开，与 A 的实测锚点对齐。",
+                "找【起点】，不是找【误差】。"),
+    "space":   ("写出『我没进去的那块空间』，逐条标注去哪能验证。",
+                "真机 / RPC / 谁有设备。写不出途径就写死『无人可验』。"),
+    "channel": ("在目标源码里 grep 参数名。",
+                "grep 到 → 补上行号；grep 不到 → 它就是我编的，删掉。"),
+    "layer":   ("停止在自编模型里扫参数。",
+                "改成只在实测数字上做算术，再把结果做成别人一下能证伪的预测。"),
+    "source":  ("问这个数字是谁测的、用什么测的。",
+                "不是我测的就必须标名，不许并进我的结果里。"),
+}
+
+
+def lamps_blocking(c):
+    """复刻 parallax.judge 的 BLOCK 判定，返回灯 tag 列表"""
+    tags = []
+    a, b = c["channel_a"]["value"], c["channel_b"]["value"]
+    if abs(b - a) > c.get("tolerance", 1):
+        tags.append("L1")
+    if any(not p.get("src") for p in c.get("params", [])):
+        tags.append("L2")
+    if c.get("ablation_inside_model_only"):
+        tags.append("L3")
+    if not c.get("ran_real_system") and not c.get("declared_unknowns"):
+        tags.append("L4b")
+    return tags
+
+
+def place(c, tags):
+    """把灯落到轴上；case 自带的 dims 可以显式指定额外落点"""
+    hits = {}
+    for t in tags:
+        hits.setdefault(LAMP_AXIS[t], []).append(t)
+    for d in (c.get("dims") or []):
+        hits.setdefault(d, []).append("显式")
+    return hits
+
+
+def add_star(c, tags, hits):
+    os.makedirs(os.path.dirname(MAP), exist_ok=True)
+    fresh = not os.path.exists(MAP)
+    now = datetime.datetime.now().strftime("%Y-%m-%d")
+    body = open(MAP, encoding="utf-8").read() if not fresh else ""
+    n = body.count("## ★")
+
+    out = []
+    if fresh:
+        out.append("# 星图 —— 洛神每次停下来的地方，留一颗星\n")
+        out.append("星不挂在线上，挂在多维坐标上。哪一维亮就落哪一维。\n")
+    out.append(f"\n## ★{n + 1} {c.get('case', '未命名')} · {now}\n")
+    ca, cb = c["channel_a"], c["channel_b"]
+    out.append(f"- 停点：{', '.join(tags) if tags else '无（直接跑通）'}\n")
+    out.append(f"- 双通道：A {ca['label']} = {ca['value']}{ca['unit']}"
+               f" ／ B {cb['label']} = {cb['value']}{cb['unit']}\n")
+    out.append(f"- 残差 R = {cb['value'] - ca['value']:+g} {ca['unit']}\n")
+    if hits:
+        out.append("- 落在：\n")
+        for ax, ls in hits.items():
+            out.append(f"  - **{ax}** ← {','.join(ls)}：{AXES.get(ax, '')}\n")
+    if c.get("lesson"):
+        out.append(f"- 挖到的：{c['lesson']}\n")
+    if c.get("declared_unknowns"):
+        out.append("- 我不知道的：\n")
+        for u in c["declared_unknowns"]:
+            out.append(f"  - {u}\n")
+
+    with open(MAP, "a", encoding="utf-8") as f:
+        f.write("\n".join(out) + "\n")
+    return n + 1
+
+
+def show_map():
+    print("=" * 70)
+    print(" 多维度星图")
+    print("=" * 70)
+    if not os.path.exists(MAP):
+        print("   星图还没建。")
+    else:
+        txt = open(MAP, encoding="utf-8").read()
+        print(txt.rstrip())
+    print()
+    print("=" * 70)
+    print(" 五条轴，哪一维亮就往哪一维放：")
+    for k, v in AXES.items():
+        print(f"   {k:<8} {v}")
+    print()
+    print(" 扔一个 bug 进来：python3 tools/star.py case.json [--add]")
+    print("=" * 70)
+
+
+def main():
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    flags = [a for a in sys.argv[1:] if a.startswith("--")]
+
+    if not args:
+        show_map()
+        return 0
+
+    c = json.load(open(args[0], encoding="utf-8"))
+    lamps, ok, r = parallax.judge(c)
+    parallax.show(c, lamps, ok, r)
+
+    tags = lamps_blocking(c)
+    hits = place(c, tags)
+
+    print()
+    print("=" * 70)
+    print(" 多维度落点 —— 哪一维亮，星就落在哪一维")
+    print("=" * 70)
+    if not hits:
+        print("   ✦ 无 BLOCK —— 这颗星已经亮过了，不用再挖。")
+    for ax, ls in hits.items():
+        how, found = DRILL.get(ax, ("", ""))
+        print(f"   ★ {ax:<8} ← {','.join(ls)}")
+        print(f"       问  {AXES.get(ax, '')}")
+        print(f"       挖  {how} {found}")
+        print()
+
+    if "--add" in flags:
+        n = add_star(c, tags, hits)
+        print(f"✅ 钉了第 {n} 颗星 → {MAP}")
+
+    return 0 if ok else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

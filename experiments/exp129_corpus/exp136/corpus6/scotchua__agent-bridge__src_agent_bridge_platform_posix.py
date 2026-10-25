@@ -1,1 +1,331 @@
-IiIiUE9TSVggaW1wbGVtZW50YXRpb24gb2YgdGhlIGFnZW50LWJyaWRnZSBwbGF0Zm9ybSBpbnRlcmZhY2UuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIC4gaW1wb3J0IGJhc2UKCmltcG9ydCBjb250ZXh0bGliCmltcG9ydCBmY250bAppbXBvcnQgb3MKaW1wb3J0IHNlbGVjdG9ycwppbXBvcnQgc2lnbmFsCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCB0aW1lCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIEl0ZXJhdG9yCgoKY2xhc3MgUG9zaXhQbGF0Zm9ybToKICAgIG5hbWUgPSAicG9zaXgiCiAgICBzdXBwb3J0c19vd25lcl9vbmx5X3Blcm1pc3Npb25zID0gVHJ1ZQoKICAgIGRlZiBzZXRfb3duZXJfb25seV91bWFzayhzZWxmKSAtPiBOb25lOgogICAgICAgIG9zLnVtYXNrKDBvMDc3KQoKICAgIGRlZiBlbmZvcmNlX293bmVyX29ubHlfZmlsZShzZWxmLCBmZDogaW50KSAtPiBOb25lOgogICAgICAgIG9zLmZjaG1vZChmZCwgMG82MDApCgogICAgQGNvbnRleHRsaWIuY29udGV4dG1hbmFnZXIKICAgIGRlZiBsb2NrX2V4Y2x1c2l2ZShzZWxmLCBmZDogaW50LCBsb2NrX3BhdGg6IHN0ciwKICAgICAgICAgICAgICAgICAgICAgICB0aW1lb3V0OiBmbG9hdCkgLT4gSXRlcmF0b3JbTm9uZV06CiAgICAgICAgZGVhZGxpbmUgPSB0aW1lLm1vbm90b25pYygpICsgdGltZW91dAogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGZjbnRsLmZsb2NrKGZkLCBmY250bC5MT0NLX0VYIHwgZmNudGwuTE9DS19OQikKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICAgICAgaWYgdGltZS5tb25vdG9uaWMoKSA+PSBkZWFkbGluZToKICAgICAgICAgICAgICAgICAgICByYWlzZSBUaW1lb3V0RXJyb3IoZiJjb3VsZCBub3QgbG9jayB7bG9ja19wYXRofSIpCiAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDAuMDIpCiAgICAgICAgdHJ5OgogICAgICAgICAgICB5aWVsZAogICAgICAgIGZpbmFsbHk6CiAgICAgICAgICAgIHdpdGggY29udGV4dGxpYi5zdXBwcmVzcyhPU0Vycm9yKToKICAgICAgICAgICAgICAgIGZjbnRsLmZsb2NrKGZkLCBmY250bC5MT0NLX1VOKQoKICAgIGRlZiB2ZXJpZnlfb3duZXJfb25seV9wYXRoKHNlbGYsIGRpcmVjdG9yeTogc3RyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvYmVfZmlsZTogc3RyKSAtPiB0dXBsZVtib29sLCBkaWN0W3N0ciwgQW55XV06CiAgICAgICAgIiIiUmVhZCB0aGUgbW9kZXMgYmFjay4gVW5jaGFuZ2VkIGZyb20gdGhlIG9yaWdpbmFsIGlubGluZSBjaGVjay4KCiAgICAgICAgQ2F0Y2hlcyBhIGZpbGVzeXN0ZW0gdGhhdCBhY2NlcHRzIGNobW9kIHdpdGhvdXQga2VlcGluZyBpdCwgd2hpY2ggaXMKICAgICAgICB3aGF0IFdTTCdzIERydkZzIGRvZXMgd2hlbiBzdGF0ZSBsYW5kcyB1bmRlciAvbW50L2MuCiAgICAgICAgIiIiCiAgICAgICAgb2JzZXJ2ZWRfZGlyID0gb3Muc3RhdChkaXJlY3RvcnkpLnN0X21vZGUgJiAwbzc3NwogICAgICAgIG9ic2VydmVkX2ZpbGUgPSBvcy5zdGF0KHByb2JlX2ZpbGUpLnN0X21vZGUgJiAwbzc3NwogICAgICAgIHJldHVybiAob2JzZXJ2ZWRfZGlyID09IDBvNzAwIGFuZCBvYnNlcnZlZF9maWxlID09IDBvNjAwLCB7CiAgICAgICAgICAgICJtZWNoYW5pc20iOiAicG9zaXggbW9kZSBiaXRzIiwKICAgICAgICAgICAgImRpcmVjdG9yeV9tb2RlIjogb2N0KG9ic2VydmVkX2RpciksCiAgICAgICAgICAgICJmaWxlX21vZGUiOiBvY3Qob2JzZXJ2ZWRfZmlsZSksCiAgICAgICAgfSkKCiAgICBkZWYgc3Bhd25faXNvbGF0ZWQoc2VsZiwgYXJndjogbGlzdFtzdHJdLCAqLCBjd2Q6IHN0ciwKICAgICAgICAgICAgICAgICAgICAgICBlbnY6IGRpY3Rbc3RyLCBzdHJdKSAtPiBzdWJwcm9jZXNzLlBvcGVuW2J5dGVzXToKICAgICAgICByZXR1cm4gc3VicHJvY2Vzcy5Qb3BlbiggICMgbm9xYTogUzYwMyAtIGZpeGVkIGFyZ3YsIHNoZWxsIGV4cGxpY2l0bHkgb2ZmCiAgICAgICAgICAgIGFyZ3YsCiAgICAgICAgICAgIGN3ZD1jd2QsCiAgICAgICAgICAgIGVudj1lbnYsCiAgICAgICAgICAgIHN0ZGluPXN1YnByb2Nlc3MuUElQRSwKICAgICAgICAgICAgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwKICAgICAgICAgICAgc3RkZXJyPXN1YnByb2Nlc3MuUElQRSwKICAgICAgICAgICAgc3RhcnRfbmV3X3Nlc3Npb249VHJ1ZSwgICAjIG93biBwcm9jZXNzIGdyb3VwLCBraWxsYWJsZSBhcyBhIHVuaXQKICAgICAgICAgICAgc2hlbGw9RmFsc2UsCiAgICAgICAgICAgIGNsb3NlX2Zkcz1UcnVlLAogICAgICAgICkKCiAgICBkZWYgaXNvbGF0ZWRfcHJvY2Vzc19ncm91cChzZWxmLCBwaWQ6IGludCkgLT4gaW50IHwgTm9uZToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBvcy5nZXRwZ2lkKHBpZCkKICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgdGVybWluYXRlX3Byb2Nlc3NfdHJlZShzZWxmLCBncm91cF9pZDogaW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhY2U6IGZsb2F0KSAtPiBkaWN0W3N0ciwgQW55XToKICAgICAgICAiIiJTSUdURVJNIHRoZSBncm91cCwgd2FpdCBvdXQgdGhlIGdyYWNlIHBlcmlvZCwgdGhlbiBTSUdLSUxMLiBSZXBvcnQgYm90aC4iIiIKICAgICAgICByZXBvcnQ6IGRpY3Rbc3RyLCBBbnldID0gewogICAgICAgICAgICAicGdpZCI6IGdyb3VwX2lkLCAic2lndGVybSI6IEZhbHNlLCAic2lna2lsbCI6IEZhbHNlLAogICAgICAgIH0KICAgICAgICB0cnk6CiAgICAgICAgICAgIG9zLmtpbGxwZyhncm91cF9pZCwgc2lnbmFsLlNJR1RFUk0pCiAgICAgICAgICAgIHJlcG9ydFsic2lndGVybSJdID0gVHJ1ZQogICAgICAgIGV4Y2VwdCAoUHJvY2Vzc0xvb2t1cEVycm9yLCBQZXJtaXNzaW9uRXJyb3IsIE9TRXJyb3IpOgogICAgICAgICAgICBwYXNzCiAgICAgICAgZGVhZGxpbmUgPSB0aW1lLm1vbm90b25pYygpICsgbWF4KDAuMCwgZ3JhY2UpCiAgICAgICAgd2hpbGUgdGltZS5tb25vdG9uaWMoKSA8IGRlYWRsaW5lOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBvcy5raWxscGcoZ3JvdXBfaWQsIDApCiAgICAgICAgICAgIGV4Y2VwdCBQcm9jZXNzTG9va3VwRXJyb3I6CiAgICAgICAgICAgICAgICByZXBvcnRbImdyb3VwX2dvbmVfYWZ0ZXJfc2lndGVybSJdID0gVHJ1ZQogICAgICAgICAgICAgICAgcmV0dXJuIHJlcG9ydAogICAgICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIHRpbWUuc2xlZXAobWluKDAuMDUsIG1heCgwLjAsIGRlYWRsaW5lIC0gdGltZS5tb25vdG9uaWMoKSkpKQogICAgICAgIHRyeToKICAgICAgICAgICAgb3Mua2lsbHBnKGdyb3VwX2lkLCBzaWduYWwuU0lHS0lMTCkKICAgICAgICAgICAgcmVwb3J0WyJzaWdraWxsIl0gPSBUcnVlCiAgICAgICAgZXhjZXB0IChQcm9jZXNzTG9va3VwRXJyb3IsIFBlcm1pc3Npb25FcnJvciwgT1NFcnJvcik6CiAgICAgICAgICAgIHBhc3MKICAgICAgICB0aW1lLnNsZWVwKDAuMDUpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBvcy5raWxscGcoZ3JvdXBfaWQsIDApCiAgICAgICAgICAgIHJlcG9ydFsiZ3JvdXBfc3Vydml2ZWRfc2lna2lsbCJdID0gVHJ1ZQogICAgICAgIGV4Y2VwdCBQcm9jZXNzTG9va3VwRXJyb3I6CiAgICAgICAgICAgIHJlcG9ydFsiZ3JvdXBfZ29uZV9hZnRlcl9zaWdraWxsIl0gPSBUcnVlCiAgICAgICAgZXhjZXB0IE9TRXJyb3I6CiAgICAgICAgICAgIHBhc3MKICAgICAgICByZXR1cm4gcmVwb3J0CgogICAgZGVmIHByb2Nlc3NfYWxpdmUoc2VsZiwgcGlkOiBpbnQpIC0+IGJvb2w6CiAgICAgICAgIiIiU2lnbmFsIDAgYXNrcyB3aGV0aGVyIHRoZSBwcm9jZXNzIGV4aXN0cywgYW5kIHNlbmRzIG5vdGhpbmcuIiIiCiAgICAgICAgdHJ5OgogICAgICAgICAgICBvcy5raWxsKGludChwaWQpLCAwKQogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGV4Y2VwdCBQcm9jZXNzTG9va3VwRXJyb3I6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIGV4Y2VwdCBQZXJtaXNzaW9uRXJyb3I6CiAgICAgICAgICAgIHJldHVybiBUcnVlICAgICAgICAgICMgZXhpc3RzLCBvd25lZCBieSBzb21lb25lIGVsc2UKICAgICAgICBleGNlcHQgKE9TRXJyb3IsIFZhbHVlRXJyb3IpOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBkZWYgcHJvY2Vzc190cmVlX2FsaXZlKHNlbGYsIGdyb3VwX2lkOiBpbnQpIC0+IGJvb2w6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBvcy5raWxscGcoZ3JvdXBfaWQsIDApCiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZXhjZXB0IChQcm9jZXNzTG9va3VwRXJyb3IsIE9TRXJyb3IpOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBkZWYgcHJvY2Vzc19ncm91cF9tZW1iZXJzKHNlbGYsIGdyb3VwX2lkOiBpbnQpIC0+IGxpc3Rbc3RyXSB8IE5vbmU6CiAgICAgICAgIiIiRW51bWVyYXRlIGEgZ3JvdXAgd2l0aG91dCByZWx5aW5nIG9uIGluY29tcGF0aWJsZSBgcHMgLWdgIG1lYW5pbmdzLgoKICAgICAgICBgcHMgLWcgPHBnaWQ+YCBzZWxlY3RzIGEgcHJvY2VzcyBncm91cCBvbiBtYWNPUyBidXQgYSBzZXNzaW9uIG9yCiAgICAgICAgZWZmZWN0aXZlIGdyb3VwIG5hbWUgb24gTGludXgsIHNvIGxpc3QgZXZlcnkgcHJvY2VzcyBhbmQgZmlsdGVyLgogICAgICAgICIiIgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJvYmUgPSBzdWJwcm9jZXNzLnJ1biggICMgbm9xYTogUzYwMyAtIGZpeGVkIGFyZ3YsIHNoZWxsIG9mZgogICAgICAgICAgICAgICAgWyJwcyIsICItQSIsICItbyIsICJwaWQ9LHBnaWQ9Il0sIGNhcHR1cmVfb3V0cHV0PVRydWUsCiAgICAgICAgICAgICAgICB0aW1lb3V0PTEwLCBjaGVjaz1GYWxzZSwgc2hlbGw9RmFsc2UpCiAgICAgICAgZXhjZXB0IChPU0Vycm9yLCBzdWJwcm9jZXNzLlN1YnByb2Nlc3NFcnJvcik6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgbWVtYmVyczogbGlzdFtzdHJdID0gW10KICAgICAgICBmb3IgbGluZSBpbiBwcm9iZS5zdGRvdXQuZGVjb2RlKCJ1dGYtOCIsICJyZXBsYWNlIikuc3BsaXRsaW5lcygpOgogICAgICAgICAgICBwYXJ0cyA9IGxpbmUuc3BsaXQoKQogICAgICAgICAgICBpZiBsZW4ocGFydHMpIDwgMjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGlmIGludChwYXJ0c1sxXSkgPT0gaW50KGdyb3VwX2lkKSBhbmQgaW50KHBhcnRzWzBdKSAhPSBvcy5nZXRwaWQoKToKICAgICAgICAgICAgICAgICAgICBtZW1iZXJzLmFwcGVuZChwYXJ0c1swXSkKICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgIHJldHVybiBtZW1iZXJzCgogICAgZGVmIHByb2Nlc3NfbGl2ZW5lc3Moc2VsZiwgcGlkOiBpbnQpIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgICAgIGV2aWRlbmNlOiBkaWN0W3N0ciwgQW55XSA9IHsicHJvYmUiOiAib3Mua2lsbCBzaWduYWwgMCJ9CiAgICAgICAgdHJ5OgogICAgICAgICAgICBvcy5raWxsKHBpZCwgMCkKICAgICAgICAgICAgZXZpZGVuY2VbImFsaXZlIl0gPSBUcnVlCiAgICAgICAgZXhjZXB0IFByb2Nlc3NMb29rdXBFcnJvcjoKICAgICAgICAgICAgZXZpZGVuY2UudXBkYXRlKGFsaXZlPUZhbHNlLCByZWFzb249Im5vIHN1Y2ggcHJvY2VzcyIpCiAgICAgICAgZXhjZXB0IFBlcm1pc3Npb25FcnJvcjoKICAgICAgICAgICAgIyBFeGlzdHMsIG93bmVkIGJ5IHNvbWVvbmUgZWxzZS4gQWxpdmUgZm9yIG91ciBwdXJwb3Nlcy4KICAgICAgICAgICAgZXZpZGVuY2UudXBkYXRlKGFsaXZlPVRydWUsIHJlYXNvbj0icGVybWlzc2lvbiBkZW5pZWQsIHNvIGl0IGV4aXN0cyIpCiAgICAgICAgZXhjZXB0IE9TRXJyb3IgYXMgZXhjOgogICAgICAgICAgICBldmlkZW5jZS51cGRhdGUoYWxpdmU9RmFsc2UsIHJlYXNvbj1mImVycm5vIHtleGMuZXJybm99IikKICAgICAgICByZXR1cm4gZXZpZGVuY2UKCiAgICBkZWYgcHJvY2Vzc19pZGVudGl0eShzZWxmLCBwaWQ6IGludCkgLT4gc3RyOgogICAgICAgIHRyeToKICAgICAgICAgICAgcHJvYmUgPSBzdWJwcm9jZXNzLnJ1biggICMgbm9xYTogUzYwMyAtIGZpeGVkIGFyZ3YsIHNoZWxsIG9mZgogICAgICAgICAgICAgICAgWyJwcyIsICItbyIsICJsc3RhcnQ9IiwgIi1wIiwgc3RyKHBpZCldLAogICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGltZW91dD0xMCwgY2hlY2s9RmFsc2UsIHNoZWxsPUZhbHNlKQogICAgICAgICAgICByZXR1cm4gcHJvYmUuc3Rkb3V0LmRlY29kZSgidXRmLTgiLCAicmVwbGFjZSIpLnN0cmlwKCkKICAgICAgICBleGNlcHQgKE9TRXJyb3IsIHN1YnByb2Nlc3MuU3VicHJvY2Vzc0Vycm9yKToKICAgICAgICAgICAgcmV0dXJuICIiCgogICAgZGVmIHByb2Nlc3NfZ3JvdXBfaWRlbnRpdHkoc2VsZiwgcGlkOiBpbnQpIC0+IHR1cGxlW3N0ciwgc3RyXSB8IE5vbmU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBwcm9iZSA9IHN1YnByb2Nlc3MucnVuKCAgIyBub3FhOiBTNjAzIC0gZml4ZWQgYXJndiwgc2hlbGwgb2ZmCiAgICAgICAgICAgICAgICBbInBzIiwgIi1vIiwgImxzdGFydD0scGdpZD0iLCAiLXAiLCBzdHIocGlkKV0sCiAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0aW1lb3V0PTEwLCBjaGVjaz1GYWxzZSwgc2hlbGw9RmFsc2UpCiAgICAgICAgZXhjZXB0IChPU0Vycm9yLCBzdWJwcm9jZXNzLlN1YnByb2Nlc3NFcnJvcik6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgdGV4dCA9IHByb2JlLnN0ZG91dC5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKS5zdHJpcCgpCiAgICAgICAgaWYgbm90IHRleHQ6CiAgICAgICAgICAgIHJldHVybiAoIiIsICIiKQogICAgICAgIHBhcnRzID0gdGV4dC5yc3BsaXQoTm9uZSwgMSkKICAgICAgICBpZiBsZW4ocGFydHMpICE9IDI6CiAgICAgICAgICAgIHJldHVybiAodGV4dCwgIiIpCiAgICAgICAgcmV0dXJuIHBhcnRzWzBdLnN0cmlwKCksIHBhcnRzWzFdLnN0cmlwKCkKCiAgICBkZWYgaXNfb3duX3Byb2Nlc3NfZ3JvdXAoc2VsZiwgZ3JvdXBfaWQ6IGludCkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gZ3JvdXBfaWQgPT0gb3MuZ2V0cGdycCgpCgogICAgZGVmIHJlYWRfc3RyZWFtc193aXRoX2NhcHMoCiAgICAgICAgc2VsZiwKICAgICAgICBwcm9jOiBzdWJwcm9jZXNzLlBvcGVuW2J5dGVzXSwKICAgICAgICBzdGRpbl9kYXRhOiBzdHIsCiAgICAgICAgdGltZW91dDogZmxvYXQsCiAgICAgICAgc3Rkb3V0X2NhcDogaW50LAogICAgICAgIHN0ZGVycl9jYXA6IGludCwKICAgICAgICBwb3N0X2V4aXRfZHJhaW5fc2Vjb25kczogZmxvYXQsCiAgICApIC0+IHR1cGxlW2J5dGVzLCBieXRlcywgYm9vbCwgYm9vbCwgYm9vbF06CiAgICAgICAgdGltZWRfb3V0ID0gRmFsc2UKICAgICAgICBjYXBfZXhjZWVkZWQgPSBGYWxzZQogICAgICAgIGRlc2NlbmRhbnRfaGVsZF9waXBlcyA9IEZhbHNlCgogICAgICAgICMgTm9uLWJsb2NraW5nIHNlbGVjdG9yIGxvb3AsIG5vIHJlYWRlciB0aHJlYWRzLgogICAgICAgIGJ1ZmZlcnM6IGRpY3Rbc3RyLCBieXRlYXJyYXldID0gewogICAgICAgICAgICAic3Rkb3V0IjogYnl0ZWFycmF5KCksICJzdGRlcnIiOiBieXRlYXJyYXkoKSwKICAgICAgICB9CiAgICAgICAgY2FwcyA9IHsic3Rkb3V0IjogbWF4KDAsIHN0ZG91dF9jYXApLCAic3RkZXJyIjogbWF4KDAsIHN0ZGVycl9jYXApfQogICAgICAgIHBlbmRpbmcgPSBzdGRpbl9kYXRhLmVuY29kZSgidXRmLTgiKQogICAgICAgIHNlbGVjdG9yID0gc2VsZWN0b3JzLkRlZmF1bHRTZWxlY3RvcigpCiAgICAgICAgcmVnaXN0ZXJlZDogc2V0W0FueV0gPSBzZXQoKQoKICAgICAgICBkZWYgcmVnaXN0ZXIoc3RyZWFtOiBBbnksIGV2ZW50czogaW50LCBuYW1lOiBzdHIpIC0+IE5vbmU6CiAgICAgICAgICAgIGlmIHN0cmVhbSBpcyBOb25lOgogICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIG9zLnNldF9ibG9ja2luZyhzdHJlYW0uZmlsZW5vKCksIEZhbHNlKQogICAgICAgICAgICAgICAgc2VsZWN0b3IucmVnaXN0ZXIoc3RyZWFtLCBldmVudHMsIG5hbWUpCiAgICAgICAgICAgICAgICByZWdpc3RlcmVkLmFkZChzdHJlYW0pCiAgICAgICAgICAgIGV4Y2VwdCAoT1NFcnJvciwgVmFsdWVFcnJvciwgS2V5RXJyb3IpOgogICAgICAgICAgICAgICAgcGFzcwoKICAgICAgICBkZWYgdW5yZWdpc3RlcihzdHJlYW06IEFueSkgLT4gTm9uZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgc2VsZWN0b3IudW5yZWdpc3RlcihzdHJlYW0pCiAgICAgICAgICAgIGV4Y2VwdCAoS2V5RXJyb3IsIFZhbHVlRXJyb3IsIE9TRXJyb3IpOgogICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICByZWdpc3RlcmVkLmRpc2NhcmQoc3RyZWFtKQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzdHJlYW0uY2xvc2UoKQogICAgICAgICAgICBleGNlcHQgKE9TRXJyb3IsIFZhbHVlRXJyb3IpOgogICAgICAgICAgICAgICAgcGFzcwoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlZ2lzdGVyKHByb2Muc3Rkb3V0LCBzZWxlY3RvcnMuRVZFTlRfUkVBRCwgInN0ZG91dCIpCiAgICAgICAgICAgIHJlZ2lzdGVyKHByb2Muc3RkZXJyLCBzZWxlY3RvcnMuRVZFTlRfUkVBRCwgInN0ZGVyciIpCiAgICAgICAgICAgIGlmIHBlbmRpbmc6CiAgICAgICAgICAgICAgICByZWdpc3Rlcihwcm9jLnN0ZGluLCBzZWxlY3RvcnMuRVZFTlRfV1JJVEUsICJzdGRpbiIpCiAgICAgICAgICAgIGVsaWYgcHJvYy5zdGRpbiBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBwcm9jLnN0ZGluLmNsb3NlKCkKICAgICAgICAgICAgICAgIGV4Y2VwdCAoT1NFcnJvciwgVmFsdWVFcnJvcik6CiAgICAgICAgICAgICAgICAgICAgcGFzcwoKICAgICAgICAgICAgZGVhZGxpbmUgPSB0aW1lLm1vbm90b25pYygpICsgdGltZW91dAogICAgICAgICAgICBleGl0ZWRfYXQ6IGZsb2F0IHwgTm9uZSA9IE5vbmUKICAgICAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgICAgIGlmIHRpbWUubW9ub3RvbmljKCkgPj0gZGVhZGxpbmU6CiAgICAgICAgICAgICAgICAgICAgdGltZWRfb3V0ID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICByZWFkaW5nID0gYW55KAogICAgICAgICAgICAgICAgICAgIGtleS5kYXRhIGluICgic3Rkb3V0IiwgInN0ZGVyciIpCiAgICAgICAgICAgICAgICAgICAgZm9yIGtleSBpbiBzZWxlY3Rvci5nZXRfbWFwKCkudmFsdWVzKCkKICAgICAgICAgICAgICAgICkgaWYgc2VsZWN0b3IuZ2V0X21hcCgpIGVsc2UgRmFsc2UKICAgICAgICAgICAgICAgIGlmIHByb2MucG9sbCgpIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgIGlmIGV4aXRlZF9hdCBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgICAgICBleGl0ZWRfYXQgPSB0aW1lLm1vbm90b25pYygpCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IHJlYWRpbmc6CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICAgICAgaWYgdGltZS5tb25vdG9uaWMoKSAtIGV4aXRlZF9hdCA+IHBvc3RfZXhpdF9kcmFpbl9zZWNvbmRzOgogICAgICAgICAgICAgICAgICAgICAgICBkZXNjZW5kYW50X2hlbGRfcGlwZXMgPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICBmb3Iga2V5LCBfZXZlbnRzIGluIHNlbGVjdG9yLnNlbGVjdCgKICAgICAgICAgICAgICAgICAgICAgICAgdGltZW91dD1taW4oMC4wNSwgbWF4KDAuMCwgZGVhZGxpbmUgLSB0aW1lLm1vbm90b25pYygpKSkpOgogICAgICAgICAgICAgICAgICAgIG5hbWUgPSBrZXkuZGF0YQogICAgICAgICAgICAgICAgICAgIHN0cmVhbSA9IGtleS5maWxlb2JqCiAgICAgICAgICAgICAgICAgICAgaWYgbmFtZSA9PSAic3RkaW4iOgogICAgICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByYXcgPSBnZXRhdHRyKHN0cmVhbSwgInJhdyIsIE5vbmUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3cml0dGVuID0gcmF3LndyaXRlKHBlbmRpbmcpIGlmIHJhdyBpcyBub3QgTm9uZSBcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBzdHJlYW0ud3JpdGUocGVuZGluZykKICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0IEJsb2NraW5nSU9FcnJvciBhcyBleGM6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3cml0dGVuID0gZ2V0YXR0cihleGMsICJjaGFyYWN0ZXJzX3dyaXR0ZW4iLCAwKSBvciAwCiAgICAgICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBJbnRlcnJ1cHRlZEVycm9yOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0IChCcm9rZW5QaXBlRXJyb3IsIE9TRXJyb3IsIFZhbHVlRXJyb3IpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGVuZGluZyA9IGIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdW5yZWdpc3RlcihzdHJlYW0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgICAgICAgICBwZW5kaW5nID0gcGVuZGluZ1sod3JpdHRlbiBvciAwKTpdCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIG5vdCBwZW5kaW5nOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdW5yZWdpc3RlcihzdHJlYW0pCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICBjaHVuayA9IHN0cmVhbS5yZWFkKDY1NTM2KQogICAgICAgICAgICAgICAgICAgIGV4Y2VwdCAoQmxvY2tpbmdJT0Vycm9yLCBJbnRlcnJ1cHRlZEVycm9yKToKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBleGNlcHQgKE9TRXJyb3IsIFZhbHVlRXJyb3IpOgogICAgICAgICAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyKHN0cmVhbSkKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBpZiBub3QgY2h1bms6CiAgICAgICAgICAgICAgICAgICAgICAgIHVucmVnaXN0ZXIoc3RyZWFtKQogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgICAgIGJ1ZmZlciA9IGJ1ZmZlcnNbbmFtZV0KICAgICAgICAgICAgICAgICAgICByb29tID0gY2Fwc1tuYW1lXSAtIGxlbihidWZmZXIpCiAgICAgICAgICAgICAgICAgICAgaWYgcm9vbSA+IDA6CiAgICAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5leHRlbmQoY2h1bmtbOnJvb21dKQogICAgICAgICAgICAgICAgICAgIGlmIGxlbihidWZmZXIpID49IGNhcHNbbmFtZV06CiAgICAgICAgICAgICAgICAgICAgICAgIGNhcF9leGNlZWRlZCA9IFRydWUKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIGlmIGNhcF9leGNlZWRlZDoKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgaWYgbm90IHNlbGVjdG9yLmdldF9tYXAoKSBhbmQgcHJvYy5wb2xsKCkgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBmb3Igc3RyZWFtIGluIGxpc3QocmVnaXN0ZXJlZCk6CiAgICAgICAgICAgICAgICB1bnJlZ2lzdGVyKHN0cmVhbSkKICAgICAgICAgICAgZm9yIHN0cmVhbSBpbiAocHJvYy5zdGRpbiwgcHJvYy5zdGRvdXQsIHByb2Muc3RkZXJyKToKICAgICAgICAgICAgICAgIGlmIHN0cmVhbSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHN0cmVhbS5jbG9zZSgpCiAgICAgICAgICAgICAgICAgICAgZXhjZXB0IChPU0Vycm9yLCBWYWx1ZUVycm9yKToKICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICBzZWxlY3Rvci5jbG9zZSgpCgogICAgICAgIHJldHVybiBiYXNlLlN0cmVhbVJlYWRSZXN1bHQoCiAgICAgICAgICAgIHN0ZG91dD1ieXRlcyhidWZmZXJzWyJzdGRvdXQiXSksCiAgICAgICAgICAgIHN0ZGVycj1ieXRlcyhidWZmZXJzWyJzdGRlcnIiXSksCiAgICAgICAgICAgIHRpbWVkX291dD10aW1lZF9vdXQsCiAgICAgICAgICAgIGNhcF9leGNlZWRlZD1jYXBfZXhjZWVkZWQsCiAgICAgICAgICAgIGRlc2NlbmRhbnRfaGVsZF9waXBlcz1kZXNjZW5kYW50X2hlbGRfcGlwZXMsCiAgICAgICAgKQo=
+"""POSIX implementation of the agent-bridge platform interface."""
+
+from __future__ import annotations
+
+from . import base
+
+import contextlib
+import fcntl
+import os
+import selectors
+import signal
+import subprocess
+import time
+from typing import Any, Iterator
+
+
+class PosixPlatform:
+    name = "posix"
+    supports_owner_only_permissions = True
+
+    def set_owner_only_umask(self) -> None:
+        os.umask(0o077)
+
+    def enforce_owner_only_file(self, fd: int) -> None:
+        os.fchmod(fd, 0o600)
+
+    @contextlib.contextmanager
+    def lock_exclusive(self, fd: int, lock_path: str,
+                       timeout: float) -> Iterator[None]:
+        deadline = time.monotonic() + timeout
+        while True:
+            try:
+                fcntl.flock(fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+                break
+            except OSError:
+                if time.monotonic() >= deadline:
+                    raise TimeoutError(f"could not lock {lock_path}")
+                time.sleep(0.02)
+        try:
+            yield
+        finally:
+            with contextlib.suppress(OSError):
+                fcntl.flock(fd, fcntl.LOCK_UN)
+
+    def verify_owner_only_path(self, directory: str,
+                               probe_file: str) -> tuple[bool, dict[str, Any]]:
+        """Read the modes back. Unchanged from the original inline check.
+
+        Catches a filesystem that accepts chmod without keeping it, which is
+        what WSL's DrvFs does when state lands under /mnt/c.
+        """
+        observed_dir = os.stat(directory).st_mode & 0o777
+        observed_file = os.stat(probe_file).st_mode & 0o777
+        return (observed_dir == 0o700 and observed_file == 0o600, {
+            "mechanism": "posix mode bits",
+            "directory_mode": oct(observed_dir),
+            "file_mode": oct(observed_file),
+        })
+
+    def spawn_isolated(self, argv: list[str], *, cwd: str,
+                       env: dict[str, str]) -> subprocess.Popen[bytes]:
+        return subprocess.Popen(  # noqa: S603 - fixed argv, shell explicitly off
+            argv,
+            cwd=cwd,
+            env=env,
+            stdin=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            start_new_session=True,   # own process group, killable as a unit
+            shell=False,
+            close_fds=True,
+        )
+
+    def isolated_process_group(self, pid: int) -> int | None:
+        try:
+            return os.getpgid(pid)
+        except OSError:
+            return None
+
+    def terminate_process_tree(self, group_id: int,
+                               grace: float) -> dict[str, Any]:
+        """SIGTERM the group, wait out the grace period, then SIGKILL. Report both."""
+        report: dict[str, Any] = {
+            "pgid": group_id, "sigterm": False, "sigkill": False,
+        }
+        try:
+            os.killpg(group_id, signal.SIGTERM)
+            report["sigterm"] = True
+        except (ProcessLookupError, PermissionError, OSError):
+            pass
+        deadline = time.monotonic() + max(0.0, grace)
+        while time.monotonic() < deadline:
+            try:
+                os.killpg(group_id, 0)
+            except ProcessLookupError:
+                report["group_gone_after_sigterm"] = True
+                return report
+            except OSError:
+                break
+            time.sleep(min(0.05, max(0.0, deadline - time.monotonic())))
+        try:
+            os.killpg(group_id, signal.SIGKILL)
+            report["sigkill"] = True
+        except (ProcessLookupError, PermissionError, OSError):
+            pass
+        time.sleep(0.05)
+        try:
+            os.killpg(group_id, 0)
+            report["group_survived_sigkill"] = True
+        except ProcessLookupError:
+            report["group_gone_after_sigkill"] = True
+        except OSError:
+            pass
+        return report
+
+    def process_alive(self, pid: int) -> bool:
+        """Signal 0 asks whether the process exists, and sends nothing."""
+        try:
+            os.kill(int(pid), 0)
+            return True
+        except ProcessLookupError:
+            return False
+        except PermissionError:
+            return True          # exists, owned by someone else
+        except (OSError, ValueError):
+            return False
+
+    def process_tree_alive(self, group_id: int) -> bool:
+        try:
+            os.killpg(group_id, 0)
+            return True
+        except (ProcessLookupError, OSError):
+            return False
+
+    def process_group_members(self, group_id: int) -> list[str] | None:
+        """Enumerate a group without relying on incompatible `ps -g` meanings.
+
+        `ps -g <pgid>` selects a process group on macOS but a session or
+        effective group name on Linux, so list every process and filter.
+        """
+        try:
+            probe = subprocess.run(  # noqa: S603 - fixed argv, shell off
+                ["ps", "-A", "-o", "pid=,pgid="], capture_output=True,
+                timeout=10, check=False, shell=False)
+        except (OSError, subprocess.SubprocessError):
+            return None
+        members: list[str] = []
+        for line in probe.stdout.decode("utf-8", "replace").splitlines():
+            parts = line.split()
+            if len(parts) < 2:
+                continue
+            try:
+                if int(parts[1]) == int(group_id) and int(parts[0]) != os.getpid():
+                    members.append(parts[0])
+            except ValueError:
+                continue
+        return members
+
+    def process_liveness(self, pid: int) -> dict[str, Any]:
+        evidence: dict[str, Any] = {"probe": "os.kill signal 0"}
+        try:
+            os.kill(pid, 0)
+            evidence["alive"] = True
+        except ProcessLookupError:
+            evidence.update(alive=False, reason="no such process")
+        except PermissionError:
+            # Exists, owned by someone else. Alive for our purposes.
+            evidence.update(alive=True, reason="permission denied, so it exists")
+        except OSError as exc:
+            evidence.update(alive=False, reason=f"errno {exc.errno}")
+        return evidence
+
+    def process_identity(self, pid: int) -> str:
+        try:
+            probe = subprocess.run(  # noqa: S603 - fixed argv, shell off
+                ["ps", "-o", "lstart=", "-p", str(pid)],
+                capture_output=True, timeout=10, check=False, shell=False)
+            return probe.stdout.decode("utf-8", "replace").strip()
+        except (OSError, subprocess.SubprocessError):
+            return ""
+
+    def process_group_identity(self, pid: int) -> tuple[str, str] | None:
+        try:
+            probe = subprocess.run(  # noqa: S603 - fixed argv, shell off
+                ["ps", "-o", "lstart=,pgid=", "-p", str(pid)],
+                capture_output=True, timeout=10, check=False, shell=False)
+        except (OSError, subprocess.SubprocessError):
+            return None
+        text = probe.stdout.decode("utf-8", "replace").strip()
+        if not text:
+            return ("", "")
+        parts = text.rsplit(None, 1)
+        if len(parts) != 2:
+            return (text, "")
+        return parts[0].strip(), parts[1].strip()
+
+    def is_own_process_group(self, group_id: int) -> bool:
+        return group_id == os.getpgrp()
+
+    def read_streams_with_caps(
+        self,
+        proc: subprocess.Popen[bytes],
+        stdin_data: str,
+        timeout: float,
+        stdout_cap: int,
+        stderr_cap: int,
+        post_exit_drain_seconds: float,
+    ) -> tuple[bytes, bytes, bool, bool, bool]:
+        timed_out = False
+        cap_exceeded = False
+        descendant_held_pipes = False
+
+        # Non-blocking selector loop, no reader threads.
+        buffers: dict[str, bytearray] = {
+            "stdout": bytearray(), "stderr": bytearray(),
+        }
+        caps = {"stdout": max(0, stdout_cap), "stderr": max(0, stderr_cap)}
+        pending = stdin_data.encode("utf-8")
+        selector = selectors.DefaultSelector()
+        registered: set[Any] = set()
+
+        def register(stream: Any, events: int, name: str) -> None:
+            if stream is None:
+                return
+            try:
+                os.set_blocking(stream.fileno(), False)
+                selector.register(stream, events, name)
+                registered.add(stream)
+            except (OSError, ValueError, KeyError):
+                pass
+
+        def unregister(stream: Any) -> None:
+            try:
+                selector.unregister(stream)
+            except (KeyError, ValueError, OSError):
+                pass
+            registered.discard(stream)
+            try:
+                stream.close()
+            except (OSError, ValueError):
+                pass
+
+        try:
+            register(proc.stdout, selectors.EVENT_READ, "stdout")
+            register(proc.stderr, selectors.EVENT_READ, "stderr")
+            if pending:
+                register(proc.stdin, selectors.EVENT_WRITE, "stdin")
+            elif proc.stdin is not None:
+                try:
+                    proc.stdin.close()
+                except (OSError, ValueError):
+                    pass
+
+            deadline = time.monotonic() + timeout
+            exited_at: float | None = None
+            while True:
+                if time.monotonic() >= deadline:
+                    timed_out = True
+                    break
+                reading = any(
+                    key.data in ("stdout", "stderr")
+                    for key in selector.get_map().values()
+                ) if selector.get_map() else False
+                if proc.poll() is not None:
+                    if exited_at is None:
+                        exited_at = time.monotonic()
+                    if not reading:
+                        break
+                    if time.monotonic() - exited_at > post_exit_drain_seconds:
+                        descendant_held_pipes = True
+                        break
+                for key, _events in selector.select(
+                        timeout=min(0.05, max(0.0, deadline - time.monotonic()))):
+                    name = key.data
+                    stream = key.fileobj
+                    if name == "stdin":
+                        try:
+                            raw = getattr(stream, "raw", None)
+                            written = raw.write(pending) if raw is not None \
+                                else stream.write(pending)
+                        except BlockingIOError as exc:
+                            written = getattr(exc, "characters_written", 0) or 0
+                        except InterruptedError:
+                            continue
+                        except (BrokenPipeError, OSError, ValueError):
+                            pending = b""
+                            unregister(stream)
+                            continue
+                        pending = pending[(written or 0):]
+                        if not pending:
+                            unregister(stream)
+                        continue
+                    try:
+                        chunk = stream.read(65536)
+                    except (BlockingIOError, InterruptedError):
+                        continue
+                    except (OSError, ValueError):
+                        unregister(stream)
+                        continue
+                    if not chunk:
+                        unregister(stream)
+                        continue
+                    buffer = buffers[name]
+                    room = caps[name] - len(buffer)
+                    if room > 0:
+                        buffer.extend(chunk[:room])
+                    if len(buffer) >= caps[name]:
+                        cap_exceeded = True
+                        break
+                if cap_exceeded:
+                    break
+                if not selector.get_map() and proc.poll() is not None:
+                    break
+        finally:
+            for stream in list(registered):
+                unregister(stream)
+            for stream in (proc.stdin, proc.stdout, proc.stderr):
+                if stream is not None:
+                    try:
+                        stream.close()
+                    except (OSError, ValueError):
+                        pass
+            selector.close()
+
+        return base.StreamReadResult(
+            stdout=bytes(buffers["stdout"]),
+            stderr=bytes(buffers["stderr"]),
+            timed_out=timed_out,
+            cap_exceeded=cap_exceeded,
+            descendant_held_pipes=descendant_held_pipes,
+        )

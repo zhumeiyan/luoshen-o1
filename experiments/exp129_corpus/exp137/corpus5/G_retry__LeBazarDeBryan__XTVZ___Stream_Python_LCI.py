@@ -1,1 +1,63 @@
-aW1wb3J0IHN1YnByb2Nlc3MNCmltcG9ydCBvcw0KDQpkZWYgZ2VuZXJhdGVfbTN1OF9jb250ZW50KHN0cmVhbWxpbmtfdXJsKToNCiAgICB0cnk6DQogICAgICAgIHRmMV91c2VyID0gb3MuZW52aXJvbi5nZXQoIlRGMV9VU0VSIikNCiAgICAgICAgdGYxX3Bhc3N3b3JkID0gb3MuZW52aXJvbi5nZXQoIlRGMV9QQVNTV09SRCIpDQoNCiAgICAgICAgaWYgbm90IHRmMV91c2VyIG9yIG5vdCB0ZjFfcGFzc3dvcmQ6DQogICAgICAgICAgICBwcmludCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlQmF6YXJEZUJyeWFuL1hUVlpfL21haW4vSW1hZ2VzL09mZmxpbmUubXA0IikNCiAgICAgICAgICAgIHByaW50KCJcbiIpDQogICAgICAgICAgICBwcmludCgiI0Vycm9yOiBURjFfVVNFUiBvciBURjFfUEFTU1dPUkQgZW52aXJvbm1lbnQgdmFyaWFibGUgaXMgTk9UIHNldC4iKQ0KICAgICAgICAgICAgcmV0dXJuIE5vbmUNCg0KICAgICAgICByZXN1bHQgPSBzdWJwcm9jZXNzLnJ1bigNCiAgICAgICAgICAgIFsNCiAgICAgICAgICAgICAgICAic3RyZWFtbGluayIsDQogICAgICAgICAgICAgICAgIi0tdGYxLXB1cmdlLWNyZWRlbnRpYWxzIiwNCiAgICAgICAgICAgICAgICBmIi0tdGYxLWVtYWlsPXt0ZjFfdXNlcn0iLA0KICAgICAgICAgICAgICAgIGYiLS10ZjEtcGFzc3dvcmQ9e3RmMV9wYXNzd29yZH0iLA0KICAgICAgICAgICAgICAgIHN0cmVhbWxpbmtfdXJsLA0KICAgICAgICAgICAgICAgICItLXN0cmVhbS11cmwiDQogICAgICAgICAgICBdLA0KICAgICAgICAgICAgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwNCiAgICAgICAgICAgIHN0ZGVycj1zdWJwcm9jZXNzLlBJUEUsDQogICAgICAgICAgICB0ZXh0PVRydWUNCiAgICAgICAgKQ0KDQogICAgICAgIGlmIHJlc3VsdC5yZXR1cm5jb2RlID09IDA6DQogICAgICAgICAgICBzdHJlYW1fdXJsID0gcmVzdWx0LnN0ZG91dC5zdHJpcCgpDQoNCiAgICAgICAgICAgIG0zdThfY29udGVudCA9ICgNCiAgICAgICAgICAgICAgICAiI0VYVE0zVVxuIg0KICAgICAgICAgICAgICAgICIjRVhULVgtVkVSU0lPTjo2XG4iDQogICAgICAgICAgICAgICAgIiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UU1xuIg0KICAgICAgICAgICAgICAgIGYnI0VYVC1YLVNUUkVBTS1JTkY6QkFORFdJRFRIPTMxNjUwOTEsQVZFUkFHRS1CQU5EV0lEVEg9Mjg1NjM2OCxSRVNPTFVUSU9OPTEyODB4NzIwLEZSQU1FLVJBVEU9MjUuMDAwLENPREVDUz0iYXZjMS40RDQwMUYsbXA0YS40MC4yIixBVURJTz0iYXVkaW9fMCJcbicNCiAgICAgICAgICAgICAgICBmIntzdHJlYW1fdXJsLnJlcGxhY2UoJ2luZGV4Lm0zdTgnLCAnaW5kZXhfMS5tM3U4Jyl9XG4iDQogICAgICAgICAgICAgICAgZicjRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MjE3OTQ5MSxBVkVSQUdFLUJBTkRXSURUSD0xOTc2MzY4LFJFU09MVVRJT049MTAyNHg1NzYsRlJBTUUtUkFURT0yNS4wMDAsQ09ERUNTPSJhdmMxLjRENDAxRixtcDRhLjQwLjIiLEFVRElPPSJhdWRpb18wIlxuJw0KICAgICAgICAgICAgICAgIGYie3N0cmVhbV91cmwucmVwbGFjZSgnaW5kZXgubTN1OCcsICdpbmRleF8yLm0zdTgnKX1cbiINCiAgICAgICAgICAgICAgICBmJyNFWFQtWC1TVFJFQU0tSU5GOkJBTkRXSURUSD0xNTYzNTIyLEFWRVJBR0UtQkFORFdJRFRIPTE0MjY0MDQsUkVTT0xVVElPTj0xMDI0eDU3NixGUkFNRS1SQVRFPTI1LjAwMCxDT0RFQ1M9ImF2YzEuNEQ0MDFGLG1wNGEuNDAuMiIsQVVESU89ImF1ZGlvXzAiXG4nDQogICAgICAgICAgICAgICAgZiJ7c3RyZWFtX3VybC5yZXBsYWNlKCdpbmRleC5tM3U4JywgJ2luZGV4XzMubTN1OCcpfVxuIg0KICAgICAgICAgICAgICAgIGYnI0VYVC1YLVNUUkVBTS1JTkY6QkFORFdJRFRIPTEwNzA3MjIsQVZFUkFHRS1CQU5EV0lEVEg9OTg2NDA0LFJFU09MVVRJT049NjQweDM2MCxGUkFNRS1SQVRFPTI1LjAwMCxDT0RFQ1M9ImF2YzEuNDJDMDFFLG1wNGEuNDAuMiIsQVVESU89ImF1ZGlvXzAiXG4nDQogICAgICAgICAgICAgICAgZiJ7c3RyZWFtX3VybC5yZXBsYWNlKCdpbmRleC5tM3U4JywgJ2luZGV4XzQubTN1OCcpfVxuIg0KICAgICAgICAgICAgICAgIGYnI0VYVC1YLVNUUkVBTS1JTkY6QkFORFdJRFRIPTU3NzkyMixBVkVSQUdFLUJBTkRXSURUSD01NDY0MDQsUkVTT0xVVElPTj00MTZ4MjM0LEZSQU1FLVJBVEU9MjUuMDAwLENPREVDUz0iYXZjMS40MkMwMEQsbXA0YS40MC4yIixBVURJTz0iYXVkaW9fMCJcbicNCiAgICAgICAgICAgICAgICBmIntzdHJlYW1fdXJsLnJlcGxhY2UoJ2luZGV4Lm0zdTgnLCAnaW5kZXhfNS5tM3U4Jyl9XG4iDQogICAgICAgICAgICAgICAgZicnJyNFWFQtWC1NRURJQTpUWVBFPUFVRElPLEdST1VQLUlEPSJhdWRpb18wIixDSEFOTkVMUz0iMiIsTkFNRT0iZnJhIixMQU5HVUFHRT0iZnJhIixERUZBVUxUPVlFUyxBVVRPU0VMRUNUPVlFUyxVUkk9IntzdHJlYW1fdXJsLnJlcGxhY2UoJ2luZGV4Lm0zdTgnLCAnaW5kZXhfMTNfMC5tM3U4Jyl9IicnJw0KICAgICAgICAgICAgKQ0KICAgICAgICAgICAgcmV0dXJuIG0zdThfY29udGVudA0KICAgICAgICBlbHNlOg0KICAgICAgICAgICAgcHJpbnQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9MZUJhemFyRGVCcnlhbi9YVFZaXy9tYWluL0ltYWdlcy9PZmZsaW5lLm1wNCIpDQogICAgICAgICAgICBwcmludCgiXG4iKQ0KICAgICAgICAgICAgcHJpbnQoIiNFcnJvcjogU3RyZWFtbGluazogc3Rkb3V0OiIsIHJlc3VsdC5zdGRvdXQuc3RyaXAoKSkNCiAgICAgICAgICAgIHJldHVybiBOb25lDQoNCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6DQogICAgICAgIHByaW50KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTGVCYXphckRlQnJ5YW4vWFRWWl8vbWFpbi9JbWFnZXMvT2ZmbGluZS5tcDQiKQ0KICAgICAgICBwcmludCgiXG4iKQ0KICAgICAgICBwcmludChmIiNFcnJvcjoge2V9IikNCiAgICAgICAgcmV0dXJuIE5vbmUNCg0KbTN1OF9jb250ZW50ID0gZ2VuZXJhdGVfbTN1OF9jb250ZW50KCJodHRwczovL3d3dy50ZjEuZnIvbGNpL2RpcmVjdCIpDQppZiBtM3U4X2NvbnRlbnQ6DQogICAgcHJpbnQobTN1OF9jb250ZW50KQ0K
+import subprocess
+import os
+
+def generate_m3u8_content(streamlink_url):
+    try:
+        tf1_user = os.environ.get("TF1_USER")
+        tf1_password = os.environ.get("TF1_PASSWORD")
+
+        if not tf1_user or not tf1_password:
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("\n")
+            print("#Error: TF1_USER or TF1_PASSWORD environment variable is NOT set.")
+            return None
+
+        result = subprocess.run(
+            [
+                "streamlink",
+                "--tf1-purge-credentials",
+                f"--tf1-email={tf1_user}",
+                f"--tf1-password={tf1_password}",
+                streamlink_url,
+                "--stream-url"
+            ],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True
+        )
+
+        if result.returncode == 0:
+            stream_url = result.stdout.strip()
+
+            m3u8_content = (
+                "#EXTM3U\n"
+                "#EXT-X-VERSION:6\n"
+                "#EXT-X-INDEPENDENT-SEGMENTS\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=3165091,AVERAGE-BANDWIDTH=2856368,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_1.m3u8')}\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=2179491,AVERAGE-BANDWIDTH=1976368,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_2.m3u8')}\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=1563522,AVERAGE-BANDWIDTH=1426404,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_3.m3u8')}\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=1070722,AVERAGE-BANDWIDTH=986404,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_4.m3u8')}\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=577922,AVERAGE-BANDWIDTH=546404,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.42C00D,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_5.m3u8')}\n"
+                f'''#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{stream_url.replace('index.m3u8', 'index_13_0.m3u8')}"'''
+            )
+            return m3u8_content
+        else:
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("\n")
+            print("#Error: Streamlink: stdout:", result.stdout.strip())
+            return None
+
+    except Exception as e:
+        print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+        print("\n")
+        print(f"#Error: {e}")
+        return None
+
+m3u8_content = generate_m3u8_content("https://www.tf1.fr/lci/direct")
+if m3u8_content:
+    print(m3u8_content)

@@ -1,1 +1,29 @@
-aW1wb3J0IGNvbGxlY3Rpb25zCmltcG9ydCBqc29uCmltcG9ydCBkb2NrZXIKCmZyb20gc3dlYmVuY2guaGFybmVzcy5jb25zdGFudHMgaW1wb3J0ICgKICAgIEZBSUxfVE9fUEFTUywKICAgIFBBU1NfVE9fUEFTUywKKQpmcm9tIHN3ZWJlbmNoLmhhcm5lc3MucnVuX2V2YWx1YXRpb24gaW1wb3J0IG1ha2VfcnVuX3JlcG9ydAoKVEVTVF9JTlNUQU5DRSA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGxhbWJkYTogInRlc3QiKQpURVNUX0lOU1RBTkNFW1BBU1NfVE9fUEFTU10gPSAiW10iClRFU1RfSU5TVEFOQ0VbInJlcG8iXSA9ICJwdmxpYi9wdmxpYi1weXRob24iClRFU1RfSU5TVEFOQ0VbInZlcnNpb24iXSA9ICIwLjEiClRFU1RfSU5TVEFOQ0VbRkFJTF9UT19QQVNTXSA9ICJbXSIKCgpkZWYgdGVzdF9tYWtlX3J1bl9yZXBvcnQodG1wZGlyKSAtPiBOb25lOgogICAgY2xpZW50ID0gZG9ja2VyLmZyb21fZW52KCkKICAgIHdpdGggdG1wZGlyLmFzX2N3ZCgpOgogICAgICAgIG91dHB1dF9wYXRoID0gbWFrZV9ydW5fcmVwb3J0KAogICAgICAgICAgICB7InRlc3QiOiB7Imluc3RhbmNlX2lkIjogInRlc3QiLCAibW9kZWxfbmFtZV9vcl9wYXRoIjogInRlc3QifX0sCiAgICAgICAgICAgIFtURVNUX0lOU1RBTkNFXSwKICAgICAgICAgICAgInRlc3QiLAogICAgICAgICAgICBjbGllbnQsCiAgICAgICAgKQogICAgICAgIGFzc2VydCBvdXRwdXRfcGF0aC5pc19maWxlKCkKICAgICAgICByZXBvcnQgPSBqc29uLmxvYWRzKG91dHB1dF9wYXRoLnJlYWRfdGV4dCgpKQogICAgICAgIGFzc2VydCByZXBvcnRbInNjaGVtYV92ZXJzaW9uIl0gPT0gMgo=
+import collections
+import json
+import docker
+
+from swebench.harness.constants import (
+    FAIL_TO_PASS,
+    PASS_TO_PASS,
+)
+from swebench.harness.run_evaluation import make_run_report
+
+TEST_INSTANCE = collections.defaultdict(lambda: "test")
+TEST_INSTANCE[PASS_TO_PASS] = "[]"
+TEST_INSTANCE["repo"] = "pvlib/pvlib-python"
+TEST_INSTANCE["version"] = "0.1"
+TEST_INSTANCE[FAIL_TO_PASS] = "[]"
+
+
+def test_make_run_report(tmpdir) -> None:
+    client = docker.from_env()
+    with tmpdir.as_cwd():
+        output_path = make_run_report(
+            {"test": {"instance_id": "test", "model_name_or_path": "test"}},
+            [TEST_INSTANCE],
+            "test",
+            client,
+        )
+        assert output_path.is_file()
+        report = json.loads(output_path.read_text())
+        assert report["schema_version"] == 2

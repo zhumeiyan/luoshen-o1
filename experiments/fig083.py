@@ -1,1 +1,75 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IG9zLCBqc29uLCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCdBZ2cnKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBudW1weSBhcyBucApwbHQucmNQYXJhbXNbJ2ZvbnQuc2Fucy1zZXJpZiddID0gWydXZW5RdWFuWWkgTWljcm8gSGVpJ10KcGx0LnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlClJPT1QgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQoKZDgzID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKFJPT1QsICdleHBlcmltZW50cycsICdyZXN1bHRfMDgzLmpzb24nKSkpCmQ4M2IgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oUk9PVCwgJ2V4cGVyaW1lbnRzJywgJ3Jlc3VsdF8wODNiLmpzb24nKSkpCgpmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKDIsIDIsIGZpZ3NpemU9KDEyLjUsIDkuMCkpCgojIOKRoCBIMS9IMiDmlofmnKwgdnMg6Z+z6aKR6YCa6YGTCmEgPSBheFswLCAwXQpuYW1lcyA9IFsn5paH5pysIHRva2VuXG4o5ZCM5LiA5Y+l6K+dKScsICfpn7PpopEgdG9rZW5cbigxMi41SHogVlEpJ10KdmFscyA9IFtkODNbJ3RleHRfY2hhbm5lbCddWydhY2MnXSwgMS4wXQpjb2xzID0gWycjY2M0NDQ0JywgJyMyMjg4MzMnXQpiID0gYS5iYXIobmFtZXMsIHZhbHMsIGNvbG9yPWNvbHMsIHdpZHRoPTAuNTUpCmEuYXhobGluZSgwLjI1LCBscz0nLS0nLCBjPSdrJywgbHc9MS4yLCBsYWJlbD0n6ZqP5py65Z+657q/IDAuMjUnKQphLnRleHQoZDgzWyd0ZXh0X2NoYW5uZWwnXVsnYWNjJ10sIDAuMDYsIGYie2Q4M1sndGV4dF9jaGFubmVsJ11bJ2FjYyddOi40Zn0iLCBoYT0nY2VudGVyJywgZm9udHNpemU9MTEsIGZvbnR3ZWlnaHQ9J2JvbGQnKQphLnRleHQoMS4wLCAwLjk0LCAiMS4wMDAwIiwgaGE9J2NlbnRlcicsIGZvbnRzaXplPTExLCBmb250d2VpZ2h0PSdib2xkJykKYS5zZXRfeWxpbSgwLCAxLjE1KTsgYS5zZXRfeWxhYmVsKCfpn7XlvovliIbnsbvlh4bnoa7njocgKDUtZm9sZCBDViknKQphLnNldF90aXRsZSgn4pGgIOWQjOS4gOWPpeivne+8muaWh+Wtl+mAmumBk+mbtuS/oeaBr++8jOmfs+mikemAmumBk+a7oeS/oeaBrycsIGZvbnRzaXplPTExLjUsIGZvbnR3ZWlnaHQ9J2JvbGQnKQphLmxlZ2VuZChsb2M9J2xvd2VyIHJpZ2h0JywgZm9udHNpemU9OSkKYS5ncmlkKGF4aXM9J3knLCBhbHBoYT0uMykKCiMg4pGhIOW4p+eOhyDDlyBTTlIg572R5qC877yI6aWx5ZKMID0g6Zi05oCn6K6+6K6h77yJCmEgPSBheFswLCAxXQpzbnJzID0gWydjbGVhbicsICcyMC4wZEInLCAnMTAuMGRCJywgJzUuMGRCJywgJzAuMGRCJ10KcmF0ZXMgPSBbNi4yNSwgMTIuNSwgMjUuMCwgNTAuMF0KTSA9IG5wLmFycmF5KFtbZDgzWydncmlkJ11bc11bc3RyKHIpXVsnYWNjJ10gZm9yIHIgaW4gcmF0ZXNdIGZvciBzIGluIHNucnNdKQppbSA9IGEuaW1zaG93KE0sIHZtaW49MC45MCwgdm1heD0xLjAsIGNtYXA9J1JkWWxHbicsIGFzcGVjdD0nYXV0bycpCmEuc2V0X3h0aWNrcyhyYW5nZShsZW4ocmF0ZXMpKSk7IGEuc2V0X3h0aWNrbGFiZWxzKFtmIntyOmd9SHoiIGZvciByIGluIHJhdGVzXSkKYS5zZXRfeXRpY2tzKHJhbmdlKGxlbihzbnJzKSkpOyBhLnNldF95dGlja2xhYmVscyhzbnJzKQpmb3IgaSBpbiByYW5nZShsZW4oc25ycykpOgogICAgZm9yIGogaW4gcmFuZ2UobGVuKHJhdGVzKSk6CiAgICAgICAgYS50ZXh0KGosIGksIGYie01baSxqXTouM2Z9IiwgaGE9J2NlbnRlcicsIHZhPSdjZW50ZXInLCBmb250c2l6ZT05KQphLnNldF90aXRsZSgn4pGhIOWIhuexu+S7u+WKoeWFqOagvOmlseWSjCAoMC45NeKAkzEuMDApIOKAlOKAlCDml6Dms5Xmo4DpqowgMTIuNUh6XG7vvIjmiJHnmoTlkIjmiJDpn7Xlvovlt67lvILov4flpKfvvIzlsZ7ml6DmlYjorr7orqHvvIknLAogICAgICAgICAgICBmb250c2l6ZT0xMS41LCBmb250d2VpZ2h0PSdib2xkJykKcGx0LmNvbG9yYmFyKGltLCBheD1hLCBmcmFjdGlvbj0uMDQ2KQoKIyDikaIg5Zu65a6a6aKE566X5YmN5rK/77yI5qC45b+D57uT5p6c77yJCmEgPSBheFsxLCAwXQpyciA9IGQ4M2JbJ3Jvd3MnXQp4ID0gW3JbJ3JhdGUnXSBmb3IgciBpbiBycl07IHl2ID0gW3JbJ25tc2UnXSBmb3IgciBpbiBycl0KS3MgPSBbclsnSyddIGZvciByIGluIHJyXQphLnNlbWlsb2d5KHgsIHl2LCAnby0nLCBjPScjMjI1NWFhJywgbHc9Mi4yLCBtcz05KQpmb3IgeGksIHlpLCBLIGluIHppcCh4LCB5diwgS3MpOgogICAgYS5hbm5vdGF0ZShmIks9e0t9IiwgKHhpLCB5aSksIHRleHRjb29yZHM9J29mZnNldCBwb2ludHMnLCB4eXRleHQ9KDAsIDExKSwgaGE9J2NlbnRlcicsIGZvbnRzaXplPTkpCmEuYXh2bGluZSgxMi41LCBscz0nLS0nLCBjPScjY2M0NDQ0JywgbHc9Mi4wLCBsYWJlbD0n5byA5rqQ5pS25pWb54K5IDEyLjVIeicpCmEuc2V0X3hsYWJlbCgn5bin546HIChIeikgIOKGkCDml7bpl7TliIbovqjnjocnKTsgYS5zZXRfeWxhYmVsKCflvZLkuIDljJbph43mnoTor6/lt64gKGxvZyknKQphLnNldF90aXRsZSgn4pGiIOWbuuWumiA1MCB0b2tlbi9zIOmihOeul++8muW4p+eOh+KGkeWImeeggeacrOKGk1xu6YeN5p6E6K+v5beu5Y2V6LCD6YCS5aKeIOKGkiAxMi41SHog5LiN5piv5L+h5oGv5pyA5LyYJywKICAgICAgICAgICAgZm9udHNpemU9MTEuNSwgZm9udHdlaWdodD0nYm9sZCcpCmEubGVnZW5kKGZvbnRzaXplPTkpOyBhLmdyaWQoYWxwaGE9LjMpCgojIOKRoyDovrnpmYXmlLbnm4oKYSA9IGF4WzEsIDFdCm1nID0gW3l2W2ldIC0geXZbaS0xXSBmb3IgaSBpbiByYW5nZSgxLCBsZW4oeXYpKV0KbGJsID0gW2Yie3hbaV06Z33ihpJ7eFtpKzFdOmd9IiBmb3IgaSBpbiByYW5nZShsZW4oeCktMSldCmJhcnMgPSBhLmJhcihsYmwsIG1nLCBjb2xvcj1bJyNjYzQ0NDQnXSpsZW4obWcpLCB3aWR0aD0wLjU1KQpmb3IgYmIsIHYgaW4gemlwKGJhcnMsIG1nKToKICAgIGEudGV4dChiYi5nZXRfeCgpK2JiLmdldF93aWR0aCgpLzIsIHYsIGYie3Y6LjRmfSIsIGhhPSdjZW50ZXInLCB2YT0nYm90dG9tJywgZm9udHNpemU9OSkKYS5heGhsaW5lKDAsIGM9J2snLCBsdz0xKQphLnNldF95bGFiZWwoJ+ivr+W3ruWPmOWMlu+8iOatoz3mm7Tlt67vvIknKQphLnNldF90aXRsZSgn4pGjIOW4p+eOh+e/u+WAjeeahOi+uemZheaUtuebiu+8muWFqOmDqOS4uui0n++8iOi2iue7hui2iuW3ru+8iVxu5peg6IKY6YOoIOKGkiDkuI3lrZjlnKjkuK3pl7TmnIDkvJjluKfnjocnLAogICAgICAgICAgICBmb250c2l6ZT0xMS41LCBmb250d2VpZ2h0PSdib2xkJykKYS5ncmlkKGF4aXM9J3knLCBhbHBoYT0uMykKCnBsdC5zdXB0aXRsZSgn5a6e6aqMIDA4MyDCtyDpn7PpopEgdG9rZW4g6L+Y5piv5paH5pysIHRva2VuIOKAlOKAlCDpobbnuqflvIDmupDor63pn7PmqKHlnosgMTIuNUh6IOaUtuaVm+eCueeahOajgOmqjCcsCiAgICAgICAgICAgICBmb250c2l6ZT0xMy41LCBmb250d2VpZ2h0PSdib2xkJykKcGx0LnRpZ2h0X2xheW91dChyZWN0PVswLCAwLCAxLCAwLjk2NV0pCnAgPSBvcy5wYXRoLmpvaW4oUk9PVCwgJ2ZpZycsICcwODNfYXVkaW9fdG9rZW4ucG5nJykKcGx0LnNhdmVmaWcocCwgZHBpPTE0NSk7IHByaW50KCdbc2F2ZWRdJywgcCkK
+# -*- coding: utf-8 -*-
+import os, json, matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import numpy as np
+plt.rcParams['font.sans-serif'] = ['WenQuanYi Micro Hei']
+plt.rcParams['axes.unicode_minus'] = False
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+d83 = json.load(open(os.path.join(ROOT, 'experiments', 'result_083.json')))
+d83b = json.load(open(os.path.join(ROOT, 'experiments', 'result_083b.json')))
+
+fig, ax = plt.subplots(2, 2, figsize=(12.5, 9.0))
+
+# ① H1/H2 文本 vs 音频通道
+a = ax[0, 0]
+names = ['文本 token\n(同一句话)', '音频 token\n(12.5Hz VQ)']
+vals = [d83['text_channel']['acc'], 1.0]
+cols = ['#cc4444', '#228833']
+b = a.bar(names, vals, color=cols, width=0.55)
+a.axhline(0.25, ls='--', c='k', lw=1.2, label='随机基线 0.25')
+a.text(d83['text_channel']['acc'], 0.06, f"{d83['text_channel']['acc']:.4f}", ha='center', fontsize=11, fontweight='bold')
+a.text(1.0, 0.94, "1.0000", ha='center', fontsize=11, fontweight='bold')
+a.set_ylim(0, 1.15); a.set_ylabel('韵律分类准确率 (5-fold CV)')
+a.set_title('① 同一句话：文字通道零信息，音频通道满信息', fontsize=11.5, fontweight='bold')
+a.legend(loc='lower right', fontsize=9)
+a.grid(axis='y', alpha=.3)
+
+# ② 帧率 × SNR 网格（饱和 = 阴性设计）
+a = ax[0, 1]
+snrs = ['clean', '20.0dB', '10.0dB', '5.0dB', '0.0dB']
+rates = [6.25, 12.5, 25.0, 50.0]
+M = np.array([[d83['grid'][s][str(r)]['acc'] for r in rates] for s in snrs])
+im = a.imshow(M, vmin=0.90, vmax=1.0, cmap='RdYlGn', aspect='auto')
+a.set_xticks(range(len(rates))); a.set_xticklabels([f"{r:g}Hz" for r in rates])
+a.set_yticks(range(len(snrs))); a.set_yticklabels(snrs)
+for i in range(len(snrs)):
+    for j in range(len(rates)):
+        a.text(j, i, f"{M[i,j]:.3f}", ha='center', va='center', fontsize=9)
+a.set_title('② 分类任务全格饱和 (0.95–1.00) —— 无法检验 12.5Hz\n（我的合成韵律差异过大，属无效设计）',
+            fontsize=11.5, fontweight='bold')
+plt.colorbar(im, ax=a, fraction=.046)
+
+# ③ 固定预算前沿（核心结果）
+a = ax[1, 0]
+rr = d83b['rows']
+x = [r['rate'] for r in rr]; yv = [r['nmse'] for r in rr]
+Ks = [r['K'] for r in rr]
+a.semilogy(x, yv, 'o-', c='#2255aa', lw=2.2, ms=9)
+for xi, yi, K in zip(x, yv, Ks):
+    a.annotate(f"K={K}", (xi, yi), textcoords='offset points', xytext=(0, 11), ha='center', fontsize=9)
+a.axvline(12.5, ls='--', c='#cc4444', lw=2.0, label='开源收敛点 12.5Hz')
+a.set_xlabel('帧率 (Hz)  ← 时间分辨率'); a.set_ylabel('归一化重构误差 (log)')
+a.set_title('③ 固定 50 token/s 预算：帧率↑则码本↓\n重构误差单调递增 → 12.5Hz 不是信息最优',
+            fontsize=11.5, fontweight='bold')
+a.legend(fontsize=9); a.grid(alpha=.3)
+
+# ④ 边际收益
+a = ax[1, 1]
+mg = [yv[i] - yv[i-1] for i in range(1, len(yv))]
+lbl = [f"{x[i]:g}→{x[i+1]:g}" for i in range(len(x)-1)]
+bars = a.bar(lbl, mg, color=['#cc4444']*len(mg), width=0.55)
+for bb, v in zip(bars, mg):
+    a.text(bb.get_x()+bb.get_width()/2, v, f"{v:.4f}", ha='center', va='bottom', fontsize=9)
+a.axhline(0, c='k', lw=1)
+a.set_ylabel('误差变化（正=更差）')
+a.set_title('④ 帧率翻倍的边际收益：全部为负（越细越差）\n无肘部 → 不存在中间最优帧率',
+            fontsize=11.5, fontweight='bold')
+a.grid(axis='y', alpha=.3)
+
+plt.suptitle('实验 083 · 音频 token 还是文本 token —— 顶级开源语音模型 12.5Hz 收敛点的检验',
+             fontsize=13.5, fontweight='bold')
+plt.tight_layout(rect=[0, 0, 1, 0.965])
+p = os.path.join(ROOT, 'fig', '083_audio_token.png')
+plt.savefig(p, dpi=145); print('[saved]', p)

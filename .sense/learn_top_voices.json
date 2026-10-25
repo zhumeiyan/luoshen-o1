@@ -1,1 +1,9 @@
-ewogIuKRoCDimIUg6Ieq5bex5Y6755yL77yIYXJ4aXYg55yf5oqT5Y+W77yJIjogdHJ1ZSwKICLikaEg4piFIOiHquW3seS4i+i9veW5tuino+aekCBQREYiOiB0cnVlLAogIuKRoiDimIUg6K+75Yiw55yf55qE5YWs5byA5oyH5qCH77yI5bu26L+fL1JURi9NT1PvvIkiOiB0cnVlLAogIuKRoyDimIXimIUg5LiJ5Liq55uu5qCH5YWo6YOo6K+v5beu5LiL6ZmNIjogdHJ1ZSwKICLikaQg4piF4piFIOWvueeFp+e7hOS4jeS4i+mZje+8iOivgeaYjuS4jeaYr+ivreaWmeiHquW3seazouWKqO+8iSI6IHRydWUsCiAi4pGlIOKYheKYhSBSVEYg5a6e5rWL6YeP57qn5LiO6aG257qn5Y+v5q+U77yIPDEww5fvvIkiOiB0cnVlLAogIuKRpiDimIUgUlRGIDwgMe+8iOWunuaXtu+8jOWQiOaIkOW/q+S6juaSreaUvu+8iSI6IHRydWUKfQ==
+{
+ "① ★ 自己去看（arxiv 真抓取）": true,
+ "② ★ 自己下载并解析 PDF": true,
+ "③ ★ 读到真的公开指标（延迟/RTF/MOS）": true,
+ "④ ★★ 三个目标全部误差下降": true,
+ "⑤ ★★ 对照组不下降（证明不是语料自己波动）": true,
+ "⑥ ★★ RTF 实测量级与顶级可比（<10×）": true,
+ "⑦ ★ RTF < 1（实时，合成快于播放）": true
+}

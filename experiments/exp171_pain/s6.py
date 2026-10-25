@@ -1,1 +1,69 @@
-IiIi55a855qE5q2j56Gu5L+h5rqQ5LiN5pivJ+eOr+Wig+acieWkmuW/mSfvvIzmmK8n5oiR6KKr5oqi6LWw5LqG5aSa5bCRJ+OAggrpgJrpgZPlgJnpgInvvJpydV9uaXZjc3fvvIjpnZ7oh6rmhL/kuIrkuIvmlofliIfmjaLvvIznnJ/lrp7lhoXmoLjorqHmlbDlmajvvIzntK/np6/jgIHkuI3lj6/muIXpm7bvvIkK5a+554Wn77yabG9hZDEgLyBjdHh077yI5bey6K+B556O77yJCuWQjuaenO+8muWQnuWQkOWAjeeOhwoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHRpbWUsIHJhbmRvbSwgcmVzb3VyY2UKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKZnJvbSBoYXJuZXNzIGltcG9ydCB3b3JrLCBzcGF3bl9jcHVfYnVzeSwga2lsbGFsbAoKcmFuZG9tLnNlZWQoMTcxMikKCgpkZWYgbml2Y3N3KCk6CiAgICByID0gcmVzb3VyY2UuZ2V0cnVzYWdlKHJlc291cmNlLlJVU0FHRV9TRUxGKQogICAgcmV0dXJuIHIucnVfbml2Y3N3LCByLnJ1X252Y3N3CgoKZGVmIHNjaGVkX3N0YXQoKToKICAgICIiIi9wcm9jL3NlbGYvc2NoZWRzdGF0OiDntK/orqHov5DooYzml7bpl7Rucywg57Sv6K6h562J5b6FKOiiq+aKoinml7bpl7Rucywg5qyh5pWwIiIiCiAgICB0cnk6CiAgICAgICAgcCA9IG9wZW4oIi9wcm9jL3NlbGYvc2NoZWRzdGF0IikucmVhZCgpLnNwbGl0KCkKICAgICAgICByZXR1cm4gaW50KHBbMF0pLCBpbnQocFsxXSksIGludChwWzJdKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gTm9uZSwgTm9uZSwgTm9uZQoKCmRlZiBsb2FkMSgpOgogICAgcmV0dXJuIGZsb2F0KG9wZW4oIi9wcm9jL2xvYWRhdmciKS5yZWFkKCkuc3BsaXQoKVswXSkKCgpSRVBTID0gNgpDT05EUyA9IFsoIm5vbmUiLCAwKV0gKiAxICsgWygiY3B1IiwgbikgZm9yIG4gaW4gWzEsIDIsIDMsIDQsIDZdXQpDT05EUyA9IENPTkRTICogUkVQUwpyYW5kb20uc2h1ZmZsZShDT05EUykKCnJvd3MgPSBbXQpmb3Iga2luZCwgbHZsIGluIENPTkRTOgogICAgcGlkcyA9IHNwYXduX2NwdV9idXN5KGx2bCkgaWYga2luZCA9PSAiY3B1IiBlbHNlIFtdCiAgICB0aW1lLnNsZWVwKDAuMykKICAgIG4wLCB2MCA9IG5pdmNzdygpCiAgICB3MCwgd2EwLCBjMCA9IHNjaGVkX3N0YXQoKQogICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICB3b3JrKCkKICAgIGxhdCA9IHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MAogICAgbjEsIHYxID0gbml2Y3N3KCkKICAgIHcxLCB3YTEsIGMxID0gc2NoZWRfc3RhdCgpCiAgICBraWxsYWxsKHBpZHMpCiAgICB0aW1lLnNsZWVwKDAuMykKICAgIHJvd3MuYXBwZW5kKHsKICAgICAgICAia2luZCI6IGtpbmQsICJsdmwiOiBsdmwsICJsYXQiOiBsYXQsCiAgICAgICAgImRuaXZjc3ciOiBuMSAtIG4wLCAiZG52Y3N3IjogdjEgLSB2MCwKICAgICAgICAiZHJ1bl9ucyI6ICh3MSAtIHcwKSBpZiB3MSBlbHNlIE5vbmUsCiAgICAgICAgImR3YWl0X25zIjogKHdhMSAtIHdhMCkgaWYgd2ExIGVsc2UgTm9uZSwKICAgICAgICAibG9hZDEiOiBsb2FkMSgpLAogICAgfSkKCmpzb24uZHVtcChyb3dzLCBvcGVuKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICJzNi5qc29uIiksICJ3IikpCgppbXBvcnQgc3RhdGlzdGljcyBhcyBzdApwcmludChmInsnY29uZCc6OHN9IHsnbGF0X21zJzo+OHN9IHsnbic6PjNzfSB7J2ROSVZDU1cnOj45c30geydkd2FpdF9tcyc6PjlzfSB7J2xvYWQxJzo+NnN9IikKZm9yIGx2bCBpbiBbMCwgMSwgMiwgMywgNCwgNl06CiAgICBzdWIgPSBbciBmb3IgciBpbiByb3dzIGlmIHJbImx2bCJdID09IGx2bF0KICAgIGlmIG5vdCBzdWI6CiAgICAgICAgY29udGludWUKICAgIGxhdCA9IHN0Lm1lZGlhbihbclsibGF0Il0gZm9yIHIgaW4gc3ViXSkgKiAxMDAwCiAgICBkbiA9IHN0Lm1lZGlhbihbclsiZG5pdmNzdyJdIGZvciByIGluIHN1Yl0pCiAgICBkdyA9IHN0Lm1lZGlhbihbclsiZHdhaXRfbnMiXSBmb3IgciBpbiBzdWIgaWYgclsiZHdhaXRfbnMiXSBpcyBub3QgTm9uZV0pIC8gMWU2CiAgICBsZCA9IHN0Lm1lZGlhbihbclsibG9hZDEiXSBmb3IgciBpbiBzdWJdKQogICAgcHJpbnQoZiJ7J2NwdScrc3RyKGx2bCk6OHN9IHtsYXQ6OC4yZn0ge2xlbihzdWIpOjNkfSB7ZG46OS4xZn0ge2R3OjkuM2Z9IHtsZDo2LjJmfSIpCg==
+"""疼的正确信源不是'环境有多忙'，是'我被抢走了多少'。
+通道候选：ru_nivcsw（非自愿上下文切换，真实内核计数器，累积、不可清零）
+对照：load1 / ctxt（已证瞎）
+后果：吞吐倍率
+"""
+import os, sys, json, time, random, resource
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from harness import work, spawn_cpu_busy, killall
+
+random.seed(1712)
+
+
+def nivcsw():
+    r = resource.getrusage(resource.RUSAGE_SELF)
+    return r.ru_nivcsw, r.ru_nvcsw
+
+
+def sched_stat():
+    """/proc/self/schedstat: 累计运行时间ns, 累计等待(被抢)时间ns, 次数"""
+    try:
+        p = open("/proc/self/schedstat").read().split()
+        return int(p[0]), int(p[1]), int(p[2])
+    except Exception:
+        return None, None, None
+
+
+def load1():
+    return float(open("/proc/loadavg").read().split()[0])
+
+
+REPS = 6
+CONDS = [("none", 0)] * 1 + [("cpu", n) for n in [1, 2, 3, 4, 6]]
+CONDS = CONDS * REPS
+random.shuffle(CONDS)
+
+rows = []
+for kind, lvl in CONDS:
+    pids = spawn_cpu_busy(lvl) if kind == "cpu" else []
+    time.sleep(0.3)
+    n0, v0 = nivcsw()
+    w0, wa0, c0 = sched_stat()
+    t0 = time.perf_counter()
+    work()
+    lat = time.perf_counter() - t0
+    n1, v1 = nivcsw()
+    w1, wa1, c1 = sched_stat()
+    killall(pids)
+    time.sleep(0.3)
+    rows.append({
+        "kind": kind, "lvl": lvl, "lat": lat,
+        "dnivcsw": n1 - n0, "dnvcsw": v1 - v0,
+        "drun_ns": (w1 - w0) if w1 else None,
+        "dwait_ns": (wa1 - wa0) if wa1 else None,
+        "load1": load1(),
+    })
+
+json.dump(rows, open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "s6.json"), "w"))
+
+import statistics as st
+print(f"{'cond':8s} {'lat_ms':>8s} {'n':>3s} {'dNIVCSW':>9s} {'dwait_ms':>9s} {'load1':>6s}")
+for lvl in [0, 1, 2, 3, 4, 6]:
+    sub = [r for r in rows if r["lvl"] == lvl]
+    if not sub:
+        continue
+    lat = st.median([r["lat"] for r in sub]) * 1000
+    dn = st.median([r["dnivcsw"] for r in sub])
+    dw = st.median([r["dwait_ns"] for r in sub if r["dwait_ns"] is not None]) / 1e6
+    ld = st.median([r["load1"] for r in sub])
+    print(f"{'cpu'+str(lvl):8s} {lat:8.2f} {len(sub):3d} {dn:9.1f} {dw:9.3f} {ld:6.2f}")

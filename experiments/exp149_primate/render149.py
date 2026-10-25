@@ -1,1 +1,62 @@
-aW1wb3J0IGpzb24sIHJhbmRvbSwgb3MKaW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliIGltcG9ydCBmb250X21hbmFnZXIKZnA9Jy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMnCmlmIG9zLnBhdGguZXhpc3RzKGZwKTogZm9udF9tYW5hZ2VyLmZvbnRNYW5hZ2VyLmFkZGZvbnQoZnApOyBwbHQucmNQYXJhbXNbJ2ZvbnQuZmFtaWx5J109J1dlblF1YW5ZaSBNaWNybyBIZWknCnBsdC5yY1BhcmFtc1snYXhlcy51bmljb2RlX21pbnVzJ109RmFsc2UKcmF3PWpzb24ubG9hZChvcGVuKCdyYXcxNDkuanNvbicpKTsgZD1qc29uLmxvYWQob3BlbigncmVzMTQ5ZC5qc29uJykpCmRlZiBib290KHYsbj0zMDAwLHNlZWQ9Nyk6CiAgICByPXJhbmRvbS5SYW5kb20oc2VlZCk7IG09bGVuKHYpCiAgICBzPXNvcnRlZChzdW0oci5jaG9pY2UodikgZm9yIF8gaW4gcmFuZ2UobSkpL20gZm9yIF8gaW4gcmFuZ2UobikpCiAgICByZXR1cm4gc3VtKHYpL20sIHNbaW50KDAuMDI1Km4pXSwgc1tpbnQoMC45NzUqbildCgpmaWcsYXg9cGx0LnN1YnBsb3RzKDIsMyxmaWdzaXplPSgxOCw5KSkKIyAxIFMxIOW9kuWboOS4ieiHggphcm1zPXsnYmFzZSc6eydmdWxsJzoxLjAsJ2Rpc2NhcmQnOjAuNjM5OCwnc3dhcHBlZCc6MC40NzY5LCdzaGlmdGVkJzowLjU4OTV9LAogICAgICAndGVsbCc6eydmdWxsJzoxLjAsJ2Rpc2NhcmQnOjAuNjE2NCwnc3dhcHBlZCc6MC4xNDUwLCdzaGlmdGVkJzowLjc2MzR9fQprcz1bJ2Z1bGwnLCdkaXNjYXJkJywnc3dhcHBlZCcsJ3NoaWZ0ZWQnXTsgeD1yYW5nZShsZW4oa3MpKQp3PTAuMzgKZm9yIGksbW9kZSBpbiBlbnVtZXJhdGUoWydiYXNlJywndGVsbCddKToKICAgIGF4WzAsMF0uYmFyKFt4aStpKncgZm9yIHhpIGluIHhdLFthcm1zW21vZGVdW2tdIGZvciBrIGluIGtzXSx3LGxhYmVsPW1vZGUpCmF4WzAsMF0uYXhobGluZSgwLjUsbHM9Jy0tJyxjPSdyJyxsdz0xKQpheFswLDBdLnNldF94dGlja3MoW3hpK3cvMiBmb3IgeGkgaW4geF0pOyBheFswLDBdLnNldF94dGlja2xhYmVscyhrcykKYXhbMCwwXS5zZXRfeWxpbSgwLDEuMSk7IGF4WzAsMF0ubGVnZW5kKCk7IGF4WzAsMF0uc2V0X3RpdGxlKCdTMSBzZWxmL290aGVyIOW9kuWboOWHhuehrueOh1xuKHN3YXBwZWTlj6rlnKh0ZWxs5LiL5Y+N5ZCROjAuMTQ1KScpCmF4WzAsMF0uc2V0X3lsYWJlbCgnYWNjJykKIyAyIOWvuem9kOW6pgpheFswLDFdLmJhcihbJ2Jhc2Vcbijml6DpgJrkv6EpJywndGVsbFxuKOaciVVEUCknXSxbMC40OTMsMS4wMDBdLGNvbG9yPVsnI2M0NCcsJyM0YTQnXSkKYXhbMCwxXS5zZXRfeWxpbSgwLDEuMTUpOyBheFswLDFdLnNldF90aXRsZSgnQS5kZWx0YSDlkKvlr7nmlrnlkIzntKLlvJXliqjkvZznmoTmr5Tkvotcbj3lhbHkuqvml7bpl7Tnu5PmnoQo6YCa5L+h5bu656uLKScpCmF4WzAsMV0uc2V0X3lsYWJlbCgn5a+56b2Q5bqmJykKZm9yIGksdiBpbiBlbnVtZXJhdGUoWzAuNDkzLDEuMDAwXSk6IGF4WzAsMV0udGV4dChpLHYrMC4wMiwnJS4zZicldixoYT0nY2VudGVyJykKIyAzIFMyIOivu+W/gwptaW5kPXsnYmFzZSc6KDAuNDUyMiwwLjUzNTApLCd0ZWxsJzooMC44Nzk1LDAuNjU2MiksJ3JhbmRvbUInOigwLjM4NzAsMC41ODI2KX0KeHg9cmFuZ2UoMykKYXhbMCwyXS5iYXIoW2ktMC4xOSBmb3IgaSBpbiB4eF0sW21pbmRbbV1bMF0gZm9yIG0gaW4gbWluZF0sMC4zOCxsYWJlbD0n6KGM5Li65o6o5patIGFjYycsY29sb3I9JyM0N2EnKQpheFswLDJdLmJhcihbaSswLjE5IGZvciBpIGluIHh4XSxbbWluZFttXVsxXSBmb3IgbSBpbiBtaW5kXSwwLjM4LGxhYmVsPSfluLjmlbDln7rnur8nLGNvbG9yPScjYmJiJykKYXhbMCwyXS5zZXRfeHRpY2tzKGxpc3QoeHgpKTsgYXhbMCwyXS5zZXRfeHRpY2tsYWJlbHMobGlzdChtaW5kLmtleXMoKSkpCmF4WzAsMl0uYXhobGluZSgwLjUsbHM9Jy0tJyxjPSdyJyxsdz0xKTsgYXhbMCwyXS5sZWdlbmQoKTsgYXhbMCwyXS5zZXRfeWxpbSgwLDEpCmF4WzAsMl0uc2V0X3RpdGxlKCdTMiDor7vlv4M6IOS7juS4lueVjOeXlei/ueaOqOaWreWvueaWueWGhemDqOeKtuaAgVxuYmFzZeWksei0pSjkvY7kuo7ln7rnur8pIC8gdGVsbOaIkOWKnygrMC4yMjMpJykKIyA0IFM0IOWQiOS9nApmb3IgaSwoayxjKSBpbiBlbnVtZXJhdGUoWygnY29vcCcsJyM0YTQnKSwoJ3NvbG8nLCcjYzQ0JyldKToKICAgIHY9W3JbJ2VmZiddIGZvciByIGluIGRba11dCiAgICBtLGxvLGhpPWJvb3QodikKICAgIGF4WzEsMF0uc2NhdHRlcihbaV0qbGVuKHYpLHYsY29sb3I9YyxzPTYwLHpvcmRlcj0zKQogICAgYXhbMSwwXS5iYXIoW2ldLFttXSwwLjUsY29sb3I9YyxhbHBoYT0wLjI1KQogICAgYXhbMSwwXS5lcnJvcmJhcihbaV0sW21dLHllcnI9W1ttLWxvXSxbaGktbV1dLGNvbG9yPSdrJyxjYXBzaXplPTYsem9yZGVyPTQpCiAgICBheFsxLDBdLnRleHQoaSxoaSswLjAxNSwnJS40ZlxuWyUuM2YsJS4zZl0nJShtLGxvLGhpKSxoYT0nY2VudGVyJyxmb250c2l6ZT05KQpheFsxLDBdLnNldF94dGlja3MoWzAsMV0pOyBheFsxLDBdLnNldF94dGlja2xhYmVscyhbJ2Nvb3BcbihVRFDkuqTmjaIpJywnc29sb1xuKOS4jemAmuS/oSknXSkKYXhbMSwwXS5zZXRfeWxpbSgwLjYsMS4xKTsgYXhbMSwwXS5zZXRfdGl0bGUoJ1M0IOWQiOS9nDog5q+P5Y2V5L2N5o6i57Si6aKE566X55qE5ZSv5LiA6KaG55uWXG41LzUgcmVwIOWFqOatoywgQ0nkuI3ph43lj6AnKQpheFsxLDBdLnNldF95bGFiZWwoJ+imhuebli/mjqLntKLmrKHmlbAnKQojIDUg6YeN5aSN546HCm92X2M9W3JbJ292ZXJsYXAnXSBmb3IgciBpbiBkWydjb29wJ11dOyBvdl9zPVtyWydvdmVybGFwJ10gZm9yIHIgaW4gZFsnc29sbyddXQpheFsxLDFdLmJveHBsb3QoW292X2Msb3Zfc10sbGFiZWxzPVsnY29vcCcsJ3NvbG8nXSkKYXhbMSwxXS5zZXRfdGl0bGUoJ1M0IOmHjeWkjeaOoue0ouaVsCBjb29w5Z2H5YC8JS4xZiB2cyBzb2xv5Z2H5YC8JS4xZiclKHN1bShvdl9jKS81LHN1bShvdl9zKS81KSkKYXhbMSwxXS5zZXRfeWxhYmVsKCfph43lpI3nm67lvZXmlbAo6aKE566XNjApJykKIyA2IOeOr+Wig+Wunua1iwplbnY9eydvcGVuKCkgbXMnOjIxLjQzLCdwcmVhZCB4MyBtcyc6Ny42NiwnVURQ5Lii5YyF546HJzowLjAsJ3JhY2XmjZ/lpLElJzo1LjN9CmF4WzEsMl0uYmFyaChsaXN0KGVudi5rZXlzKCkpLGxpc3QoZW52LnZhbHVlcygpKSxjb2xvcj0nIzg4OCcpCmF4WzEsMl0uc2V0X3RpdGxlKCfnnJ/lrp7njq/looPlrp7mtYso6Z2e5bu65qihKVxu5rKZ55uSb3BlbigpPTIxLjQzbXMg5pivMzAwdGlja+i2heaXtueahOagueWboCcpCmZvciBpLHYgaW4gZW51bWVyYXRlKGVudi52YWx1ZXMoKSk6IGF4WzEsMl0udGV4dCh2LGksJyAlLjRmJyV2LHZhPSdjZW50ZXInLGZvbnRzaXplPTkpCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoJ2ZpZzE0OS5wbmcnLGRwaT0xMTApCnByaW50KCdzYXZlZCBmaWcxNDkucG5nJykK
+import json, random, os
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+fp='/usr/share/fonts/truetype/wqy/wqy-microhei.ttc'
+if os.path.exists(fp): font_manager.fontManager.addfont(fp); plt.rcParams['font.family']='WenQuanYi Micro Hei'
+plt.rcParams['axes.unicode_minus']=False
+raw=json.load(open('raw149.json')); d=json.load(open('res149d.json'))
+def boot(v,n=3000,seed=7):
+    r=random.Random(seed); m=len(v)
+    s=sorted(sum(r.choice(v) for _ in range(m))/m for _ in range(n))
+    return sum(v)/m, s[int(0.025*n)], s[int(0.975*n)]
+
+fig,ax=plt.subplots(2,3,figsize=(18,9))
+# 1 S1 归因三臂
+arms={'base':{'full':1.0,'discard':0.6398,'swapped':0.4769,'shifted':0.5895},
+      'tell':{'full':1.0,'discard':0.6164,'swapped':0.1450,'shifted':0.7634}}
+ks=['full','discard','swapped','shifted']; x=range(len(ks))
+w=0.38
+for i,mode in enumerate(['base','tell']):
+    ax[0,0].bar([xi+i*w for xi in x],[arms[mode][k] for k in ks],w,label=mode)
+ax[0,0].axhline(0.5,ls='--',c='r',lw=1)
+ax[0,0].set_xticks([xi+w/2 for xi in x]); ax[0,0].set_xticklabels(ks)
+ax[0,0].set_ylim(0,1.1); ax[0,0].legend(); ax[0,0].set_title('S1 self/other 归因准确率\n(swapped只在tell下反向:0.145)')
+ax[0,0].set_ylabel('acc')
+# 2 对齐度
+ax[0,1].bar(['base\n(无通信)','tell\n(有UDP)'],[0.493,1.000],color=['#c44','#4a4'])
+ax[0,1].set_ylim(0,1.15); ax[0,1].set_title('A.delta 含对方同索引动作的比例\n=共享时间结构(通信建立)')
+ax[0,1].set_ylabel('对齐度')
+for i,v in enumerate([0.493,1.000]): ax[0,1].text(i,v+0.02,'%.3f'%v,ha='center')
+# 3 S2 读心
+mind={'base':(0.4522,0.5350),'tell':(0.8795,0.6562),'randomB':(0.3870,0.5826)}
+xx=range(3)
+ax[0,2].bar([i-0.19 for i in xx],[mind[m][0] for m in mind],0.38,label='行为推断 acc',color='#47a')
+ax[0,2].bar([i+0.19 for i in xx],[mind[m][1] for m in mind],0.38,label='常数基线',color='#bbb')
+ax[0,2].set_xticks(list(xx)); ax[0,2].set_xticklabels(list(mind.keys()))
+ax[0,2].axhline(0.5,ls='--',c='r',lw=1); ax[0,2].legend(); ax[0,2].set_ylim(0,1)
+ax[0,2].set_title('S2 读心: 从世界痕迹推断对方内部状态\nbase失败(低于基线) / tell成功(+0.223)')
+# 4 S4 合作
+for i,(k,c) in enumerate([('coop','#4a4'),('solo','#c44')]):
+    v=[r['eff'] for r in d[k]]
+    m,lo,hi=boot(v)
+    ax[1,0].scatter([i]*len(v),v,color=c,s=60,zorder=3)
+    ax[1,0].bar([i],[m],0.5,color=c,alpha=0.25)
+    ax[1,0].errorbar([i],[m],yerr=[[m-lo],[hi-m]],color='k',capsize=6,zorder=4)
+    ax[1,0].text(i,hi+0.015,'%.4f\n[%.3f,%.3f]'%(m,lo,hi),ha='center',fontsize=9)
+ax[1,0].set_xticks([0,1]); ax[1,0].set_xticklabels(['coop\n(UDP交换)','solo\n(不通信)'])
+ax[1,0].set_ylim(0.6,1.1); ax[1,0].set_title('S4 合作: 每单位探索预算的唯一覆盖\n5/5 rep 全正, CI不重叠')
+ax[1,0].set_ylabel('覆盖/探索次数')
+# 5 重复率
+ov_c=[r['overlap'] for r in d['coop']]; ov_s=[r['overlap'] for r in d['solo']]
+ax[1,1].boxplot([ov_c,ov_s],labels=['coop','solo'])
+ax[1,1].set_title('S4 重复探索数 coop均值%.1f vs solo均值%.1f'%(sum(ov_c)/5,sum(ov_s)/5))
+ax[1,1].set_ylabel('重复目录数(预算60)')
+# 6 环境实测
+env={'open() ms':21.43,'pread x3 ms':7.66,'UDP丢包率':0.0,'race损失%':5.3}
+ax[1,2].barh(list(env.keys()),list(env.values()),color='#888')
+ax[1,2].set_title('真实环境实测(非建模)\n沙盒open()=21.43ms 是300tick超时的根因')
+for i,v in enumerate(env.values()): ax[1,2].text(v,i,' %.4f'%v,va='center',fontsize=9)
+plt.tight_layout(); plt.savefig('fig149.png',dpi=110)
+print('saved fig149.png')

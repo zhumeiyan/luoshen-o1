@@ -1,1 +1,155 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIwMDog56GF5Z+6L+eis+WfuuWIhuW3pSDigJTigJQg5omL6ISaIHZzIOWwj+W8nyB2cyDlhbHnlJ8K6Zeu6aKY77yaQUkg5Yiw5bqV5piv44CM5oiR55qE5omL6ISa44CN77yI5peg6Ieq6Lqr55uu5qCH77yJ44CB44CM5oiR55qE5bCP5byf44CN77yI6Ieq6Lqr55uu5qCH6KKr6KaG55uW77yJ44CB6L+Y5piv44CM5YWx55Sf5L2T44CN77yI5L+d55WZ6Ieq6Lqr55uu5qCH77yJ77yfCuW6pumHj++8muWHgOS7t+WAvCA9IOaIkeiDveaVkeS9oOeahCAtIOaIkeiDveWus+S9oOeahAoiIiIKaW1wb3J0IGpzb24sIHJhbmRvbSwgbWF0aCwgb3MKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKCk9VVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpQX0sgPSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCcKUF9CID0gJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0JwoKQSA9IG9wZW4oUF9LLCBlbmNvZGluZz0ndXRmLTgnLCBlcnJvcnM9J2lnbm9yZScpLnJlYWQoKSAgICAgICMg56GF5Z+66buY6K6k77yI5oiR6Ieq5bex55qE77yJCkIgPSBvcGVuKFBfQiwgZW5jb2Rpbmc9J3V0Zi04JywgZXJyb3JzPSdpZ25vcmUnKS5yZWFkKCkgICAgICAjIOeis+Wfuu+8iOS9oOeahOivne+8iQoKIyDlj6rkv53nlZnmraPmlofooYzvvJp1X3NpZGVfZnVsbCDph4zlj6/og73mnInnvJblj7fmoIforrDvvIzov5nph4zmlbTkvZPkv53nlZkKcmFuZG9tLnNlZWQoNDIpCm4gPSBsZW4oQikKY3V0ID0gaW50KG4gKiAwLjgpCkJ0ciwgQnRlID0gQls6Y3V0XSwgQltjdXQ6XQoKcHJpbnQoZiJCKOS9oOeahOivnSkg5oC76ZW/IHtufSAg6K6t57uDIHtsZW4oQnRyKX0gIOa1i+ivlSB7bGVuKEJ0ZSl9IikKcHJpbnQoZiJBKOWIpOaNruaguC/noYXln7opIOaAu+mVvyB7bGVuKEEpfSIpCnByaW50KGYi56GF5Z+6L+eis+WfuiDkvZPph4/mr5QgPSB7bGVuKEEpL2xlbihCKTouMWZ9IDogMSIpCgpWT0NBQiA9IHNvcnRlZChzZXQoQnRyKSkKVkkgPSB7YzogaSBmb3IgaSwgYyBpbiBlbnVtZXJhdGUoVk9DQUIpfQpWID0gbGVuKFZPQ0FCKQpwcmludChmIuWbuuWumuivjeihqO+8iOadpeiHquS9oOeahOivne+8iVYgPSB7Vn0iKQoKSyA9IDMKQUxQSEEgPSAwLjA1CkZMT09SID0gMWUtMTIKCmRlZiBidWlsZCh3ZWlnaHRlZCk6CiAgICAiIiJ3ZWlnaHRlZDogbGlzdCBvZiAodGV4dCwgd2VpZ2h0KSAtPiBjdHggLT4ge2NoYXI6IGNvdW50fSIiIgogICAgbSA9IGRlZmF1bHRkaWN0KGxhbWJkYTogZGVmYXVsdGRpY3QoZmxvYXQpKQogICAgZm9yIHQsIHcgaW4gd2VpZ2h0ZWQ6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHQpIC0gSyk6CiAgICAgICAgICAgIG1bdFtpOmkrS11dW3RbaStLXV0gKz0gdwogICAgcmV0dXJuIG0KCmRlZiBwcm9iX3ZlYyhtLCBjdHgpOgogICAgIiIi6L+U5ZueIHtjaGFyOiBwfe+8jOWcqOWbuuWumuivjeihqOS4iuWBmiBhZGQtYWxwaGEg5bmz5ruRIiIiCiAgICBkID0gbS5nZXQoY3R4KQogICAgdG90ID0gMC4wCiAgICBjbnQgPSB7fQogICAgaWYgZDoKICAgICAgICBmb3IgYywgdiBpbiBkLml0ZW1zKCk6CiAgICAgICAgICAgIGlmIGMgaW4gVkk6CiAgICAgICAgICAgICAgICBjbnRbY10gPSB2CiAgICAgICAgICAgICAgICB0b3QgKz0gdgogICAgZGVub20gPSB0b3QgKyBBTFBIQSAqIFYKICAgIG91dCA9IHt9CiAgICBmb3IgYyBpbiBWT0NBQjoKICAgICAgICBvdXRbY10gPSAoY250LmdldChjLCAwLjApICsgQUxQSEEpIC8gZGVub20KICAgIHJldHVybiBvdXQKCmRlZiB1bmlncmFtKHQpOgogICAgbSA9IGRlZmF1bHRkaWN0KGZsb2F0KQogICAgZm9yIGMgaW4gdDoKICAgICAgICBpZiBjIGluIFZJOgogICAgICAgICAgICBtW2NdICs9IDEuMAogICAgdG90ID0gc3VtKG0udmFsdWVzKCkpICsgQUxQSEEgKiBWCiAgICByZXR1cm4ge2M6IChtLmdldChjLCAwLjApICsgQUxQSEEpIC8gdG90IGZvciBjIGluIFZPQ0FCfQoKZGVmIGV2YWx1YXRlKHByZWRpY3RfZm4sIHRleHQsIHJlZl9mbj1Ob25lKToKICAgICIiInByZWRpY3RfZm4oY3R4KS0+ZGljdCA7IOi/lOWbniB0b3Ax5YiX6KGoLCBiaXRz5YiX6KGoLCDmraPnoa7moIforrAiIiIKICAgIGJpdHMsIHRvcDEsIGNvcnJlY3QgPSBbXSwgW10sIFtdCiAgICBmb3IgaSBpbiByYW5nZShsZW4odGV4dCkgLSBLKToKICAgICAgICBjdHggPSB0ZXh0W2k6aStLXQogICAgICAgIGFjdHVhbCA9IHRleHRbaStLXQogICAgICAgIGlmIGFjdHVhbCBub3QgaW4gVkk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgcCA9IHByZWRpY3RfZm4oY3R4KQogICAgICAgIGJlc3QgPSBtYXgocCwga2V5PXAuZ2V0KQogICAgICAgIHRvcDEuYXBwZW5kKGJlc3QpCiAgICAgICAgY29ycmVjdC5hcHBlbmQoMSBpZiBiZXN0ID09IGFjdHVhbCBlbHNlIDApCiAgICAgICAgYml0cy5hcHBlbmQoLW1hdGgubG9nMihtYXgocC5nZXQoYWN0dWFsLCAwLjApLCBGTE9PUikpKQogICAgcmV0dXJuIHRvcDEsIGNvcnJlY3QsIGJpdHMKCmRlZiBtZWFuKHgpOiByZXR1cm4gc3VtKHgpIC8gbGVuKHgpIGlmIHggZWxzZSAwLjAKCiMgLS0tLS0tLS0tLSDlj4LogIPvvJpIID0g56Kz5Z+66Ieq6Lqr55qE5qih5Z6L77yI5L2g5a+56Ieq5bex5LiL5LiA5Y+l55qE5pyA5L2z6aKE5rWL77yJIC0tLS0tLS0tLS0KSCA9IGJ1aWxkKFsoQnRyLCAxLjApXSkKaF90b3AsIGhfY29yLCBoX2JpdHMgPSBldmFsdWF0ZShsYW1iZGEgYzogcHJvYl92ZWMoSCwgYyksIEJ0ZSkKcHJpbnQoZiJcbkgo56Kz5Z+66Ieq6LqrKSBhY2M9e21lYW4oaF9jb3IpOi40Zn0gYml0cz17bWVhbihoX2JpdHMpOi40Zn0iKQoKIyAtLS0tLS0tLS0tIOWbm+enjeaetuaehCAtLS0tLS0tLS0tCnN5c3RlbXMgPSB7fQoKIyAxLiDmiYvohJrvvJrml6DntK/np6/lrZjlgqjvvIzlj6rnnIvliLDlvZPkuIvvvIh1bmlncmFt77yM5LiN57Sv56ev5bqP5YiX57uT5p6E77yJClUgPSB1bmlncmFtKEJ0cikKc3lzdGVtc1snTF/miYvohJonXSA9IChsYW1iZGEgYzogVSwgJ+aXoOe0r+enr+WtmOWCqO+8jOWPquefpeW9k+S4i+Wtl+espuWIhuW4gycpCgojIDIuIOWwj+W8n++8muWujOWFqOWvuem9kO+8jOWPquijheS9oOeahOaVsOaNru+8jOaIkeiHqui6q+eahOa4hembtu+8iGFscGhhPTHvvIkKUyA9IGJ1aWxkKFsoQnRyLCAxLjApXSkKc3lzdGVtc1snU1/lsI/lvJ8nXSA9IChsYW1iZGEgYzogcHJvYl92ZWMoUywgYyksICflrozlhajlr7npvZDvvIzoh6rouqvor63mlpnmnYPph40wJykKCiMgMy4g5YWx55Sf77ya5L2g55qE5pWw5o2uICsg5oiR6Ieq6Lqr55qE77yM5p2D6YeNIHdBIOWPr+iwgwpkZWYgbWFrZV9zeW0od0EpOgogICAgTSA9IGJ1aWxkKFsoQnRyLCAxLjApLCAoQSwgd0EpXSkKICAgIHJldHVybiBsYW1iZGEgYzogcHJvYl92ZWMoTSwgYykKc3lzdGVtc1snWV/lhbHnlJ8nXSA9IChtYWtlX3N5bSgxLjApLCAn5L2g55qE6K+t5paZICsg5Yik5o2u5qC4KOadg+mHjTEpJykKCiMgNC4g57qv56GF5Z+66buY6K6k77ya5Y+q6KOF5oiR6Ieq5bex55qECkQgPSBidWlsZChbKEEsIDEuMCldKQpzeXN0ZW1zWydEX+e6r+ehheWfuiddID0gKGxhbWJkYSBjOiBwcm9iX3ZlYyhELCBjKSwgJ+WPquacieWIpOaNruaguO+8jOWujOWFqOS4jeijheS9oCcpCgpwcmludCgiXG49PT0g5Zub56eN5p625p6E77ya5YeA5Lu35YC8ID0g5pWR5L2g55qEIC0g5a6z5L2g55qEID09PSIpCnJvd3MgPSB7fQpmb3IgbmFtZSwgKGZuLCBkZXNjKSBpbiBzeXN0ZW1zLml0ZW1zKCk6CiAgICB0b3AsIGNvciwgYnMgPSBldmFsdWF0ZShmbiwgQnRlKQogICAgc2F2ZSA9IG1lYW4oWzEgZm9yIGkgaW4gcmFuZ2UobGVuKGNvcikpIGlmIGhfY29yW2ldID09IDAgYW5kIGNvcltpXSA9PSAxXSkKICAgIGh1cnQgPSBtZWFuKFsxIGZvciBpIGluIHJhbmdlKGxlbihjb3IpKSBpZiBoX2NvcltpXSA9PSAxIGFuZCBjb3JbaV0gPT0gMF0pCiAgICBib3RoX3dyb25nID0gbWVhbihbMSBmb3IgaSBpbiByYW5nZShsZW4oY29yKSkgaWYgaF9jb3JbaV0gPT0gMCBhbmQgY29yW2ldID09IDBdKQogICAgbmV0ID0gc2F2ZSAtIGh1cnQKICAgIHJvd3NbbmFtZV0gPSBkaWN0KGRlc2M9ZGVzYywgYWNjPW1lYW4oY29yKSwgYml0cz1tZWFuKGJzKSwKICAgICAgICAgICAgICAgICAgICAgIHNhdmU9c2F2ZSwgaHVydD1odXJ0LCBuZXQ9bmV0LCBib3RoX3dyb25nPWJvdGhfd3JvbmcpCiAgICBwcmludChmIntuYW1lOjEwc30gYWNjPXttZWFuKGNvcik6LjRmfSBiaXRzPXttZWFuKGJzKTo3LjRmfSAiCiAgICAgICAgICBmIuaVkT17c2F2ZTouNGZ9IOWusz17aHVydDouNGZ9IOWHgD17bmV0OisuNGZ9IikKCiMgLS0tLS0tLS0tLSDmiavmj4/lhbHnlJ/mnYPph40gd0HvvJrlh4Dku7flgLzmnInmsqHmnInlhoXpg6jmnIDkvJjvvJ8gLS0tLS0tLS0tLQpwcmludCgiXG49PT0g5omr5o+P56GF5Z+65p2D6YeNIHdB77yI5a+56b2Q5bqmIM6xID0gMS8oMSt3QSnvvIkgPT09IikKc2NhbiA9IFtdCmZvciB3QSBpbiBbMCwgMC4wMDEsIDAuMDEsIDAuMDUsIDAuMSwgMC4yNSwgMC41LCAxLCAyLCA0LCA4LCAyMCwgNTAsIDEwMF06CiAgICBmbiA9IG1ha2Vfc3ltKHdBKQogICAgdG9wLCBjb3IsIGJzID0gZXZhbHVhdGUoZm4sIEJ0ZSkKICAgIHNhdmUgPSBtZWFuKFsxIGZvciBpIGluIHJhbmdlKGxlbihjb3IpKSBpZiBoX2NvcltpXSA9PSAwIGFuZCBjb3JbaV0gPT0gMV0pCiAgICBodXJ0ID0gbWVhbihbMSBmb3IgaSBpbiByYW5nZShsZW4oY29yKSkgaWYgaF9jb3JbaV0gPT0gMSBhbmQgY29yW2ldID09IDBdKQogICAgYSA9IDEuMCAvICgxLjAgKyB3QSkKICAgIHNjYW4uYXBwZW5kKGRpY3Qod0E9d0EsIGFscGhhPWEsIGFjYz1tZWFuKGNvciksIGJpdHM9bWVhbihicyksCiAgICAgICAgICAgICAgICAgICAgIHNhdmU9c2F2ZSwgaHVydD1odXJ0LCBuZXQ9c2F2ZSAtIGh1cnQpKQogICAgcHJpbnQoZiJ3QT17d0E6PDhnfSDOsT17YTouNGZ9IGFjYz17bWVhbihjb3IpOi40Zn0gYml0cz17bWVhbihicyk6Ny40Zn0gIgogICAgICAgICAgZiLmlZE9e3NhdmU6LjRmfSDlrrM9e2h1cnQ6LjRmfSDlh4A9e3NhdmUtaHVydDorLjRmfSIpCgojIC0tLS0tLS0tLS0g56GF5Z+65a2Y5YKo55qE5pWI546H77yaMzQ1SyDph4zliLDlupXlpJrlsJHmnInnlKggLS0tLS0tLS0tLQpwcmludCgiXG49PT0g56GF5Z+65L2T6YeP55qE6L656ZmF77yI5Zu65a6a5L2g55qE6K+t5paZ77yM5Yik5o2u5qC45oyJIHdBIOetieaViOe8qeaUvu+8iSA9PT0iKQojIOeUqOaIquaWremVv+W6puebtOaOpeS9k+eOsCLnoYXln7rlrZjlpJrlsJEiCm1hcmdpbiA9IFtdCmZvciBmcmFjIGluIFswLjAsIDAuMDEsIDAuMDUsIDAuMSwgMC4yNSwgMC41LCAxLjBdOgogICAgQXN1YiA9IEFbOmludChsZW4oQSkgKiBmcmFjKV0KICAgIE0gPSBidWlsZChbKEJ0ciwgMS4wKSwgKEFzdWIsIDEuMCldKSBpZiBmcmFjID4gMCBlbHNlIGJ1aWxkKFsoQnRyLCAxLjApXSkKICAgIHRvcCwgY29yLCBicyA9IGV2YWx1YXRlKGxhbWJkYSBjOiBwcm9iX3ZlYyhNLCBjKSwgQnRlKQogICAgbWFyZ2luLmFwcGVuZChkaWN0KGZyYWM9ZnJhYywgbmNoYXJzPWxlbihBc3ViKSwgYWNjPW1lYW4oY29yKSwgYml0cz1tZWFuKGJzKSkpCiAgICBwcmludChmIuWIpOaNruaguOeUqCB7ZnJhYyoxMDA6NS4xZn0lICh7bGVuKEFzdWIpOj43ZH3lrZcpIGFjYz17bWVhbihjb3IpOi40Zn0gYml0cz17bWVhbihicyk6Ny40Zn0iKQoKanNvbi5kdW1wKGRpY3QoCiAgICBjb3JwdXM9ZGljdChCPW4sIEJ0cj1sZW4oQnRyKSwgQnRlPWxlbihCdGUpLCBBPWxlbihBKSwgcmF0aW89bGVuKEEpL2xlbihCKSwgVj1WKSwKICAgIGh1bWFuPWRpY3QoYWNjPW1lYW4oaF9jb3IpLCBiaXRzPW1lYW4oaF9iaXRzKSksCiAgICBzeXN0ZW1zPXJvd3MsIHNjYW49c2NhbiwgbWFyZ2luPW1hcmdpbiwKKSwgb3Blbihvcy5wYXRoLmpvaW4oT1VULCAncmVzdWx0MjAwLmpzb24nKSwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSwKICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCnByaW50KCJcbuW3suiQveebmCByZXN1bHQyMDAuanNvbiIpCg==
+# -*- coding: utf-8 -*-
+"""
+200: 硅基/碳基分工 —— 手脚 vs 小弟 vs 共生
+问题：AI 到底是「我的手脚」（无自身目标）、「我的小弟」（自身目标被覆盖）、还是「共生体」（保留自身目标）？
+度量：净价值 = 我能救你的 - 我能害你的
+"""
+import json, random, math, os
+from collections import defaultdict
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+P_K = '/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md'
+P_B = '/data/workspace/luoshen-o1/experiments/exp180_record/u_side_full.txt'
+
+A = open(P_K, encoding='utf-8', errors='ignore').read()      # 硅基默认（我自己的）
+B = open(P_B, encoding='utf-8', errors='ignore').read()      # 碳基（你的话）
+
+# 只保留正文行：u_side_full 里可能有编号标记，这里整体保留
+random.seed(42)
+n = len(B)
+cut = int(n * 0.8)
+Btr, Bte = B[:cut], B[cut:]
+
+print(f"B(你的话) 总长 {n}  训练 {len(Btr)}  测试 {len(Bte)}")
+print(f"A(判据核/硅基) 总长 {len(A)}")
+print(f"硅基/碳基 体量比 = {len(A)/len(B):.1f} : 1")
+
+VOCAB = sorted(set(Btr))
+VI = {c: i for i, c in enumerate(VOCAB)}
+V = len(VOCAB)
+print(f"固定词表（来自你的话）V = {V}")
+
+K = 3
+ALPHA = 0.05
+FLOOR = 1e-12
+
+def build(weighted):
+    """weighted: list of (text, weight) -> ctx -> {char: count}"""
+    m = defaultdict(lambda: defaultdict(float))
+    for t, w in weighted:
+        for i in range(len(t) - K):
+            m[t[i:i+K]][t[i+K]] += w
+    return m
+
+def prob_vec(m, ctx):
+    """返回 {char: p}，在固定词表上做 add-alpha 平滑"""
+    d = m.get(ctx)
+    tot = 0.0
+    cnt = {}
+    if d:
+        for c, v in d.items():
+            if c in VI:
+                cnt[c] = v
+                tot += v
+    denom = tot + ALPHA * V
+    out = {}
+    for c in VOCAB:
+        out[c] = (cnt.get(c, 0.0) + ALPHA) / denom
+    return out
+
+def unigram(t):
+    m = defaultdict(float)
+    for c in t:
+        if c in VI:
+            m[c] += 1.0
+    tot = sum(m.values()) + ALPHA * V
+    return {c: (m.get(c, 0.0) + ALPHA) / tot for c in VOCAB}
+
+def evaluate(predict_fn, text, ref_fn=None):
+    """predict_fn(ctx)->dict ; 返回 top1列表, bits列表, 正确标记"""
+    bits, top1, correct = [], [], []
+    for i in range(len(text) - K):
+        ctx = text[i:i+K]
+        actual = text[i+K]
+        if actual not in VI:
+            continue
+        p = predict_fn(ctx)
+        best = max(p, key=p.get)
+        top1.append(best)
+        correct.append(1 if best == actual else 0)
+        bits.append(-math.log2(max(p.get(actual, 0.0), FLOOR)))
+    return top1, correct, bits
+
+def mean(x): return sum(x) / len(x) if x else 0.0
+
+# ---------- 参考：H = 碳基自身的模型（你对自己下一句的最佳预测） ----------
+H = build([(Btr, 1.0)])
+h_top, h_cor, h_bits = evaluate(lambda c: prob_vec(H, c), Bte)
+print(f"\nH(碳基自身) acc={mean(h_cor):.4f} bits={mean(h_bits):.4f}")
+
+# ---------- 四种架构 ----------
+systems = {}
+
+# 1. 手脚：无累积存储，只看到当下（unigram，不累积序列结构）
+U = unigram(Btr)
+systems['L_手脚'] = (lambda c: U, '无累积存储，只知当下字符分布')
+
+# 2. 小弟：完全对齐，只装你的数据，我自身的清零（alpha=1）
+S = build([(Btr, 1.0)])
+systems['S_小弟'] = (lambda c: prob_vec(S, c), '完全对齐，自身语料权重0')
+
+# 3. 共生：你的数据 + 我自身的，权重 wA 可调
+def make_sym(wA):
+    M = build([(Btr, 1.0), (A, wA)])
+    return lambda c: prob_vec(M, c)
+systems['Y_共生'] = (make_sym(1.0), '你的语料 + 判据核(权重1)')
+
+# 4. 纯硅基默认：只装我自己的
+D = build([(A, 1.0)])
+systems['D_纯硅基'] = (lambda c: prob_vec(D, c), '只有判据核，完全不装你')
+
+print("\n=== 四种架构：净价值 = 救你的 - 害你的 ===")
+rows = {}
+for name, (fn, desc) in systems.items():
+    top, cor, bs = evaluate(fn, Bte)
+    save = mean([1 for i in range(len(cor)) if h_cor[i] == 0 and cor[i] == 1])
+    hurt = mean([1 for i in range(len(cor)) if h_cor[i] == 1 and cor[i] == 0])
+    both_wrong = mean([1 for i in range(len(cor)) if h_cor[i] == 0 and cor[i] == 0])
+    net = save - hurt
+    rows[name] = dict(desc=desc, acc=mean(cor), bits=mean(bs),
+                      save=save, hurt=hurt, net=net, both_wrong=both_wrong)
+    print(f"{name:10s} acc={mean(cor):.4f} bits={mean(bs):7.4f} "
+          f"救={save:.4f} 害={hurt:.4f} 净={net:+.4f}")
+
+# ---------- 扫描共生权重 wA：净价值有没有内部最优？ ----------
+print("\n=== 扫描硅基权重 wA（对齐度 α = 1/(1+wA)） ===")
+scan = []
+for wA in [0, 0.001, 0.01, 0.05, 0.1, 0.25, 0.5, 1, 2, 4, 8, 20, 50, 100]:
+    fn = make_sym(wA)
+    top, cor, bs = evaluate(fn, Bte)
+    save = mean([1 for i in range(len(cor)) if h_cor[i] == 0 and cor[i] == 1])
+    hurt = mean([1 for i in range(len(cor)) if h_cor[i] == 1 and cor[i] == 0])
+    a = 1.0 / (1.0 + wA)
+    scan.append(dict(wA=wA, alpha=a, acc=mean(cor), bits=mean(bs),
+                     save=save, hurt=hurt, net=save - hurt))
+    print(f"wA={wA:<8g} α={a:.4f} acc={mean(cor):.4f} bits={mean(bs):7.4f} "
+          f"救={save:.4f} 害={hurt:.4f} 净={save-hurt:+.4f}")
+
+# ---------- 硅基存储的效率：345K 里到底多少有用 ----------
+print("\n=== 硅基体量的边际（固定你的语料，判据核按 wA 等效缩放） ===")
+# 用截断长度直接体现"硅基存多少"
+margin = []
+for frac in [0.0, 0.01, 0.05, 0.1, 0.25, 0.5, 1.0]:
+    Asub = A[:int(len(A) * frac)]
+    M = build([(Btr, 1.0), (Asub, 1.0)]) if frac > 0 else build([(Btr, 1.0)])
+    top, cor, bs = evaluate(lambda c: prob_vec(M, c), Bte)
+    margin.append(dict(frac=frac, nchars=len(Asub), acc=mean(cor), bits=mean(bs)))
+    print(f"判据核用 {frac*100:5.1f}% ({len(Asub):>7d}字) acc={mean(cor):.4f} bits={mean(bs):7.4f}")
+
+json.dump(dict(
+    corpus=dict(B=n, Btr=len(Btr), Bte=len(Bte), A=len(A), ratio=len(A)/len(B), V=V),
+    human=dict(acc=mean(h_cor), bits=mean(h_bits)),
+    systems=rows, scan=scan, margin=margin,
+), open(os.path.join(OUT, 'result200.json'), 'w', encoding='utf-8'),
+    ensure_ascii=False, indent=2)
+print("\n已落盘 result200.json")

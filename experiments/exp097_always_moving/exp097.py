@@ -1,1 +1,399 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDk3IOawuOi/nOWcqOWKqCDigJTigJQg55u45a+56L+Q5Yqo5omN5piv6KeG6KeJ5a2Y5Zyo55qE5p2h5Lu2CgrnlKjmiLflkb3popjvvJoKICAi6IO96K6p6Ieq5bex5Y+Y5oiQ5LiA5Liq5rC46L+c6YO95Zyo5Yqo55qE5Lic6KW/5ZCX77yfIgogICLkurrnsbvnnIvop4HkuobkuJzopb/vvIznnLznkIPlnKjliqgg4oCU4oCUIOS7gOS5iOiDveWKqO+8n+W4puaRhOWDj+WktOeahOS7gOS5iOiDveWKqO+8nyIKCuiHqueEtuenkeWtpuS+neaNru+8iOaWh+eMru+8jOmdnuacrOWunumqjOiHqumAoO+8ie+8mgogICog6KeG572R6Iac56iz5a6a5YOP77yIUmlnZ3MgMTk1MyAvIERpdGNoYnVybiAmIEdpbnNib3JnIDE5NTLvvInvvJoKICAgIOWbvuWDj+WujOWFqOWbuuWumuWcqOinhue9keiGnOS4iiDihpIg5pWw56eS5YaF6KeG6KeJ5raI5aSx44CC5LiN5Yqo55qE55y8552b5piv556O55qE44CCCiAgKiDmiavop4bmipHliLYgc2FjY2FkaWMgc3VwcHJlc3Npb27vvJrmiavop4bmnJ/pl7Top4bop4nooqvmipHliLbvvIwzLTQg5qyhL+enku+8jOavj+asoSAzMC0xMjBtcwogICAg4oaSIOWKqOW+l+WkqueLoOS5n+aYr+eejueahOOAggogICogZWZmZXJlbmNlIGNvcHkgLyBjb3JvbGxhcnkgZGlzY2hhcmdl77ya6Ieq5bex5YqoIHZzIOiiq+aOqOWKqO+8jOinhue9keiGnOi+k+WFpeebuOWQjO+8jAogICAg5L2G5Y+q5pyJ6Ieq5bex5Yqo5pe25pyJ6L+Q5Yqo5Ymv5pysIOKGkiDog73liqjmgKfmmK/ns7vnu5/lj6/ljLrliIbnmoTjgIIKCuacrOWunumqjOWbm+mDqOWIhu+8mgogIEEg5bi46am777ya55yf55qE5ZCv5Yqo5LiA5Liq5rC46L+c5Zyo5Yqo55qE5Lic6KW/77yI5bin57yT5YayICsg6YeH6ZuGICsg5pys5L2T6KeJ77yJCiAgQiDnm7jlr7nov5DliqjvvJrnnLznkIPliqggdnMg5LiW55WM5YqoIHZzIOS4pOiAheWQjOWKqO+8iHlva2Vk77yJdnMg5YWo6Z2Z5q2iIOKAlOKAlCDnnJ/lrp7pgJrot68KICBDIOiKguW+i++8mui/kOWKqOW5heW6puWJgumHj+WPjeW6lO+8jOmihOa1i+WAkiBV77yI5LiN5Yqo556O44CB5Yqo5aSq54ug5Lmf556O77yJCiAgRCDog73liqjvvJrlkIzmoLfnmoTop4bnvZHohpzovpPlhaXvvIzkuLvliqggdnMg6KKr5Yqo77yM5o6l5byV5pOO55yL57uT5p6E5piv5ZCm5LiN5ZCMCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgdGltZSwgc3VicHJvY2VzcwppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IGN2Mgpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpzeXMucGF0aC5pbnNlcnQoMCwgJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2NvcmUnKQpmcm9tIGxpZmU1IGltcG9ydCBMaWZlNQoKVywgSCA9IDEwMjQsIDc2OApGQiA9ICcvZGV2L2ZiMCcKRk9OVCA9ICcvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTYW5zLUJvbGQudHRmJwpPVVQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKb3MubWFrZWRpcnMoT1VULCBleGlzdF9vaz1UcnVlKQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDluKfnvJPlhrIgSS9PCmRlZiBfZmJfd3JpdGUoYXJyX3JnYmEpOgogICAgd2l0aCBvcGVuKEZCLCAnd2InKSBhcyBmOgogICAgICAgIGYud3JpdGUoYXJyX3JnYmEudG9ieXRlcygpKQoKCl9PUkRFUiA9IHsnYmdyYSc6IE5vbmV9CgoKZGVmIGNhbGlicmF0ZSgpOgogICAgIiIi5YaZ57qv57qiL+e6r+e7vy/nuq/ok53vvIzph4fpm4blm57mnaXvvIzmjqjmlq3luKfnvJPlhrLpgJrpgZPpobrluo/jgIIiIiIKICAgIHByb2JlcyA9IHsnUic6ICgyNTUsIDAsIDApLCAnRyc6ICgwLCAyNTUsIDApLCAnQic6ICgwLCAwLCAyNTUpfQogICAgcmVzID0ge30KICAgIGZvciBuYW1lLCByZ2IgaW4gcHJvYmVzLml0ZW1zKCk6CiAgICAgICAgYSA9IG5wLnplcm9zKChILCBXLCA0KSwgbnAudWludDgpCiAgICAgICAgYVs6LCA6LCAwXSwgYVs6LCA6LCAxXSwgYVs6LCA6LCAyXSA9IHJnYgogICAgICAgIGFbOiwgOiwgM10gPSAyNTUKICAgICAgICBfZmJfd3JpdGUoYSkKICAgICAgICB3aXRoIG9wZW4oRkIsICdyYicpIGFzIGZoOgogICAgICAgICAgICBkYXRhID0gZmgucmVhZChXICogSCAqIDQpCiAgICAgICAgaWYgbGVuKGRhdGEpICE9IFcgKiBIICogNDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpbWcgPSBucC5mcm9tYnVmZmVyKGRhdGEsIG5wLnVpbnQ4KS5yZXNoYXBlKEgsIFcsIDQpCiAgICAgICAgSW1hZ2UuZnJvbWFycmF5KGltZ1s6LCA6LCA6M10pLnNhdmUob3MucGF0aC5qb2luKE9VVCwgJ2NhbF8lcy5wbmcnICUgbmFtZSkpCiAgICAgICAgYzAsIGMxLCBjMiA9IFtmbG9hdChpbWdbOiwgOiwgaV0ubWVhbigpKSBmb3IgaSBpbiByYW5nZSgzKV0KICAgICAgICByZXNbbmFtZV0gPSBkaWN0KGNoMD1jMCwgY2gxPWMxLCBjaDI9YzIpCiAgICAjIOWGmee6ouaXtu+8muiLpemAmumBkzAg6auYIOKGkiDljp/luo8gUkdCQe+8m+iLpemAmumBkzIg6auYIOKGkiBCR1JBCiAgICBpZiAnUicgaW4gcmVzOgogICAgICAgIGlmIHJlc1snUiddWydjaDAnXSA+IDIwMDoKICAgICAgICAgICAgX09SREVSWydiZ3JhJ10gPSBGYWxzZSAgICAgIyBSR0JBCiAgICAgICAgZWxpZiByZXNbJ1InXVsnY2gyJ10gPiAyMDA6CiAgICAgICAgICAgIF9PUkRFUlsnYmdyYSddID0gVHJ1ZSAgICAgICMgQkdSQQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIF9PUkRFUlsnYmdyYSddID0gTm9uZQogICAgcmV0dXJuIHJlcwoKCmRlZiB3cml0ZV9ncmF5KGdyYXkpOgogICAgIiIi54Gw5bqmIOKGkiDluKfnvJPlhrLvvIjmjInmoKHlh4blh7rnmoTpgJrpgZPpobrluo/vvIkiIiIKICAgIGcgPSBucC5hc2FycmF5KGdyYXksIG5wLnVpbnQ4KQogICAgYSA9IG5wLnplcm9zKChILCBXLCA0KSwgbnAudWludDgpCiAgICBhWzosIDosIDBdID0gYVs6LCA6LCAxXSA9IGFbOiwgOiwgMl0gPSBnCiAgICBhWzosIDosIDNdID0gMjU1CiAgICBpZiBfT1JERVJbJ2JncmEnXToKICAgICAgICBhID0gYVs6LCA6LCBbMiwgMSwgMCwgM11dCiAgICBfZmJfd3JpdGUoYSkKCgpkZWYgY2FwdHVyZShwYXRoKToKICAgICIiIuecn+Wunuivu+WPluaYvuekuuiuvuWkh+W9k+WJjeWGheWuue+8iOebtOaOpeivuyAvZGV2L2ZiMO+8jOS4jiBmZm1wZWcgLWYgZmJkZXYg5ZCM5rqQ77yJ77yM5bm25a2YIHBuZ+OAggogICAg5a6e5rWLIGZmbXBlZyBmYmRldiDlnKjmnKznjq/looMgNjBzIOi2heaXtu+8jOaVheaUueeUqOebtOivu++8m+ivu+WIsOeahOS7jeaYr+ehrOS7tuW4p+e8k+WGsuOAgiIiIgogICAgd2l0aCBvcGVuKEZCLCAncmInKSBhcyBmOgogICAgICAgIGRhdGEgPSBmLnJlYWQoVyAqIEggKiA0KQogICAgaWYgbGVuKGRhdGEpICE9IFcgKiBIICogNDoKICAgICAgICByZXR1cm4gTm9uZQogICAgYXJyID0gbnAuZnJvbWJ1ZmZlcihkYXRhLCBucC51aW50OCkucmVzaGFwZShILCBXLCA0KS5jb3B5KCkKICAgIGlmIHBhdGg6CiAgICAgICAgSW1hZ2UuZnJvbWFycmF5KGFycls6LCA6LCA6M10pLnNhdmUocGF0aCkKICAgIHJldHVybiBhcnIKCgpkZWYgdG9fZ3JheShpbWcpOgogICAgaWYgaW1nIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGlmIGltZy5uZGltID09IDM6CiAgICAgICAgcmV0dXJuIGN2Mi5jdnRDb2xvcihpbWdbOiwgOiwgOjNdLCBjdjIuQ09MT1JfUkdCMkdSQVkpCiAgICByZXR1cm4gaW1nCgoKZGVmIGluZm9fbGFwKGcpOgogICAgcmV0dXJuIGZsb2F0KGN2Mi5MYXBsYWNpYW4oZy5hc3R5cGUobnAuZmxvYXQzMiksIGN2Mi5DVl8zMkYpLnZhcigpKQoKCmRlZiBybXNfZGlmZihhLCBiKToKICAgIHJldHVybiBmbG9hdChucC5zcXJ0KG5wLm1lYW4oKGEuYXN0eXBlKG5wLmZsb2F0NjQpIC0gYi5hc3R5cGUobnAuZmxvYXQ2NCkpICoqIDIpKSkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g5LiW55WMCmRlZiBtYWtlX3dvcmxkKHNlZWQ9NywgUz0yMDQ4LCBuX2RpZ2l0cz02MCk6CiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIHNtYWxsID0gcm5nLnJhbmRvbSgoUyAvLyAxNiwgUyAvLyAxNikpLmFzdHlwZShucC5mbG9hdDMyKQogICAgdGV4ID0gY3YyLnJlc2l6ZShzbWFsbCwgKFMsIFMpLCBpbnRlcnBvbGF0aW9uPWN2Mi5JTlRFUl9DVUJJQykKICAgICMg5L2O5Zmq5aOw6IOM5pmv77yIMjM1fjI1Ne+8ie+8muS/neivgSBPQ1Ig5Y+v6K+777yM5ZCM5pe25Lu75L2V6KeG56qX5LuN5pyJ57uT5p6E5Y+v5rWL5bin6Ze05beuCiAgICBpbWcgPSBJbWFnZS5mcm9tYXJyYXkoKDI1NS4wIC0gdGV4ICogMjAuMCkuYXN0eXBlKG5wLnVpbnQ4KSkuY29udmVydCgnTCcpCiAgICBkID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQogICAgdHJ5OgogICAgICAgIGYgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwgNjApCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGYgPSBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKICAgIHRydXRoID0gW10KICAgIHBsYWNlZCA9IFtdCiAgICB0cmllcyA9IDAKICAgIHdoaWxlIGxlbih0cnV0aCkgPCBuX2RpZ2l0cyBhbmQgdHJpZXMgPCA4MDAwOgogICAgICAgIHRyaWVzICs9IDEKICAgICAgICB4ID0gaW50KHJuZy5pbnRlZ2Vycyg0MCwgUyAtIDIwMCkpCiAgICAgICAgeSA9IGludChybmcuaW50ZWdlcnMoMzAsIFMgLSAxMTApKQogICAgICAgIGlmIGFueShhYnMoeCAtIHB4KSA8IDIyMCBhbmQgYWJzKHkgLSBweSkgPCAxMzAgZm9yIHB4LCBweSBpbiBwbGFjZWQpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHBsYWNlZC5hcHBlbmQoKHgsIHkpKQogICAgICAgIHYgPSBpbnQocm5nLmludGVnZXJzKDEwLCAxMDApKQogICAgICAgIHRydXRoLmFwcGVuZChkaWN0KHg9eCwgeT15LCB2PXYpKQogICAgICAgIGQudGV4dCgoeCwgeSksIHN0cih2KSwgZmlsbD0wLCBmb250PWYpCiAgICByZXR1cm4gbnAuYXJyYXkoaW1nLCBucC51aW50OCksIHRydXRoCgoKZGVmIHZpZXcod29ybGQsIGV4LCBleSwgd3gsIHd5KToKICAgICIiIuinhue9keiGnOW9seWDj++8muecvOeQg+S9jee9riArIOS4lueVjOWBj+enu++8jOeOr+W9ouS4lueVjO+8iOaXoOmZkOW5s+enu++8iSIiIgogICAgUyA9IHdvcmxkLnNoYXBlWzBdCiAgICB4ID0gaW50KHJvdW5kKGV4ICsgd3gpKSAlIFMKICAgIHkgPSBpbnQocm91bmQoZXkgKyB3eSkpICUgUwogICAgcmV0dXJuIG5wLnJvbGwobnAucm9sbCh3b3JsZCwgLXksIGF4aXM9MCksIC14LCBheGlzPTEpWzpILCA6V10KCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0g55y85Yqo6L2o6L+5CmRlZiB0cmFqKG1vZGUsIHN0ZXBzLCBkLCBybmcpOgogICAgIiIi6L+U5ZueIChleWVfcGF0aCwgd29ybGRfcGF0aCnvvIzljZXkvY3lg4/ntKDjgIIiIiIKICAgIGV5ZSA9IFsoMC4wLCAwLjApXQogICAgd29yID0gWygwLjAsIDAuMCldCiAgICBmb3IgdCBpbiByYW5nZShzdGVwcyAtIDEpOgogICAgICAgIGFuZyA9IHJuZy51bmlmb3JtKDAsIDIgKiBucC5waSkKICAgICAgICBkeCwgZHkgPSBkICogbnAuY29zKGFuZyksIGQgKiBucC5zaW4oYW5nKQogICAgICAgIGlmIG1vZGUgPT0gJ2FjdGl2ZSc6CiAgICAgICAgICAgIGV5ZS5hcHBlbmQoKGV5ZVstMV1bMF0gKyBkeCwgZXllWy0xXVsxXSArIGR5KSkKICAgICAgICAgICAgd29yLmFwcGVuZCh3b3JbLTFdKQogICAgICAgIGVsaWYgbW9kZSA9PSAncGFzc2l2ZSc6CiAgICAgICAgICAgIGV5ZS5hcHBlbmQoZXllWy0xXSkKICAgICAgICAgICAgd29yLmFwcGVuZCgod29yWy0xXVswXSArIGR4LCB3b3JbLTFdWzFdICsgZHkpKQogICAgICAgIGVsaWYgbW9kZSA9PSAneW9rZWQnOgogICAgICAgICAgICAjIOecvOeQg+WKqO+8jOS4lueVjOi3n+edgOWQjOWQkeWKqCDihpIg55u45a+55L2N56e7IDDvvIjnqLPlrprlg4/lrp7pqozvvIkKICAgICAgICAgICAgZXllLmFwcGVuZCgoZXllWy0xXVswXSArIGR4LCBleWVbLTFdWzFdICsgZHkpKQogICAgICAgICAgICB3b3IuYXBwZW5kKCh3b3JbLTFdWzBdIC0gZHgsIHdvclstMV1bMV0gLSBkeSkpCiAgICAgICAgZWxzZTogICMgc3RhdGljCiAgICAgICAgICAgIGV5ZS5hcHBlbmQoZXllWy0xXSkKICAgICAgICAgICAgd29yLmFwcGVuZCh3b3JbLTFdKQogICAgcmV0dXJuIGV5ZSwgd29yCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOinhue9keiGnOmAguW6lCArIOaJq+inhuaKkeWItgpkZWYgYWRhcHRfc2VxdWVuY2Uoc2xpcHMsIGRlY2F5PTAuMjUsIHJlY292ZXI9MC42LCBzX3NhdD04LjAsIHNfaGFsZj02MC4wKToKICAgICIiInNsaXBzOiDmr4/mi43op4bnvZHohpzkvY3np7socHgp44CC6L+U5Zue5q+P5ouN5Y+v6KeB5bqmIFbjgIIiIiIKICAgIGEsIHZzID0gMS4wLCBbXQogICAgZm9yIHMgaW4gc2xpcHM6CiAgICAgICAgYSA9IGEgKyAoMSAtIGEpICogcmVjb3ZlciAqIG1pbihzLCBzX3NhdCkgLyBzX3NhdCAtIGEgKiBkZWNheQogICAgICAgIGEgPSBmbG9hdChucC5jbGlwKGEsIDAuMCwgMS4wKSkKICAgICAgICBzdXBwID0gcyAvIChzICsgc19oYWxmKQogICAgICAgIHZzLmFwcGVuZChhICogKDEgLSBzdXBwKSkKICAgIHJldHVybiBucC5hcnJheSh2cyksIGEKCgpkZWYgcmVuZGVyX3Zpc2libGUoZnJhbWUsIGEpOgogICAgIiIi5oyJ5Y+v6KeB5bqm5riy5p+T77yaYT0xIOWOn+Wbvu+8jGE9MCDlhajnmb3vvIjnnIvkuI3op4HvvIkiIiIKICAgIGYgPSBmcmFtZS5hc3R5cGUobnAuZmxvYXQzMikKICAgIHJldHVybiAoMjU1LjAgLSAoMjU1LjAgLSBmKSAqIGEpLmFzdHlwZShucC51aW50OCkKCgpkZWYgb2NyX2RpZ2l0cyhpbWcpOgogICAgcCA9IG9zLnBhdGguam9pbihPVVQsICdfb2NyLnBuZycpCiAgICBJbWFnZS5mcm9tYXJyYXkoaW1nKS5zYXZlKHApCiAgICB0cnk6CiAgICAgICAgb3V0ID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgIFsndGVzc2VyYWN0JywgcCwgJ3N0ZG91dCcsICctLXBzbScsICcxMScsICctbCcsICdlbmcnLAogICAgICAgICAgICAgJy1jJywgJ3Rlc3NlZGl0X2NoYXJfd2hpdGVsaXN0PTAxMjM0NTY3ODknXSwKICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTQwKS5zdGRvdXQKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgb3V0ID0gJycKICAgIHJldHVybiBzZXQodyBmb3IgdyBpbiBvdXQuc3BsaXQoKSBpZiBsZW4odykgPT0gMikKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gQiDnm7jlr7nov5DliqgKZGVmIHJ1bl9jb25kaXRpb25zKHdvcmxkLCB0cnV0aCwgc3RlcHM9MTIwLCBkPTE0LjAsIHNlZWRzPSgxLCAyKSk6CiAgICB0cnV0aF9zZXQgPSBzZXQoc3RyKHRbJ3YnXSkgZm9yIHQgaW4gdHJ1dGgpCiAgICBvdXQgPSB7fQogICAgZm9yIG1vZGUgaW4gKCdhY3RpdmUnLCAncGFzc2l2ZScsICd5b2tlZCcsICdzdGF0aWMnKToKICAgICAgICByb3dzID0gW10KICAgICAgICBmb3Igc2QgaW4gc2VlZHM6CiAgICAgICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZCkKICAgICAgICAgICAgZXllLCB3b3IgPSB0cmFqKG1vZGUsIHN0ZXBzLCBkLCBybmcpCiAgICAgICAgICAgIGZyYW1lcywgc2xpcHMgPSBbXSwgW10KICAgICAgICAgICAgcHJldiA9IE5vbmUKICAgICAgICAgICAgZm9yIHQgaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgICAgICAgICAgZnIgPSB2aWV3KHdvcmxkLCBleWVbdF1bMF0sIGV5ZVt0XVsxXSwgd29yW3RdWzBdLCB3b3JbdF1bMV0pCiAgICAgICAgICAgICAgICBpZiBwcmV2IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgIHNsaXBzLmFwcGVuZChybXNfZGlmZihmciwgcHJldikpCiAgICAgICAgICAgICAgICBmcmFtZXMuYXBwZW5kKGZyKQogICAgICAgICAgICAgICAgcHJldiA9IGZyCiAgICAgICAgICAgIHNsaXBzID0gbnAuYXJyYXkoc2xpcHMgKyBbMC4wXSkKICAgICAgICAgICAgdnMsIGFfZW5kID0gYWRhcHRfc2VxdWVuY2Uoc2xpcHMpCiAgICAgICAgICAgICMg55yf5a6e6YCa6Lev77ya5pyr5bin5oyJ5Y+v6KeB5bqm5riy5p+TIOKGkiDkuIrlsY8g4oaSIOmHh+mbhiDihpIgT0NSCiAgICAgICAgICAgIHdyaXRlX2dyYXkocmVuZGVyX3Zpc2libGUoZnJhbWVzWy0xXSwgZmxvYXQodnNbLTFdKSkpCiAgICAgICAgICAgIGNhcF9wYXRoID0gb3MucGF0aC5qb2luKE9VVCwgJ2NhcF8lc18lZC5wbmcnICUgKG1vZGUsIHNkKSkKICAgICAgICAgICAgY2FwID0gY2FwdHVyZShjYXBfcGF0aCkKICAgICAgICAgICAgZyA9IHRvX2dyYXkoY2FwKQogICAgICAgICAgICAjIOW9kuS4gOWMluWfuuWHhu+8muWQjOS4gOW4p+aMieWFqOWvueavlOW6puS4iuWxj+mHh+mbhu+8iCLmnKzor6XnnIvop4HlpJrlsJEi77yJCiAgICAgICAgICAgIHdyaXRlX2dyYXkoZnJhbWVzWy0xXSkKICAgICAgICAgICAgY2FwZiA9IGNhcHR1cmUob3MucGF0aC5qb2luKE9VVCwgJ2NhcGZ1bGxfJXNfJWQucG5nJyAlIChtb2RlLCBzZCkpKQogICAgICAgICAgICBnZiA9IHRvX2dyYXkoY2FwZikKICAgICAgICAgICAgaW5mb19mdWxsID0gZmxvYXQoaW5mb19sYXAoZ2YpKSBpZiBnZiBpcyBub3QgTm9uZSBlbHNlIGZsb2F0KCduYW4nKQogICAgICAgICAgICByb3dzLmFwcGVuZChkaWN0KAogICAgICAgICAgICAgICAgc2VlZD1zZCwKICAgICAgICAgICAgICAgIHNsaXBfbWVhbj1mbG9hdChucC5tZWFuKHNsaXBzWzotMV0pKSBpZiBzdGVwcyA+IDEgZWxzZSAwLjAsCiAgICAgICAgICAgICAgICBWX2xhc3Q9ZmxvYXQodnNbLTFdKSwKICAgICAgICAgICAgICAgIGFfZW5kPWZsb2F0KGFfZW5kKSwKICAgICAgICAgICAgICAgIGluZm9fY2FwPWZsb2F0KGluZm9fbGFwKGcpKSBpZiBnIGlzIG5vdCBOb25lIGVsc2UgZmxvYXQoJ25hbicpLAogICAgICAgICAgICAgICAgaW5mb19mdWxsPWluZm9fZnVsbCwKICAgICAgICAgICAgICAgIGluZm9fcmF0aW89KGZsb2F0KGluZm9fbGFwKGcpKSAvIGluZm9fZnVsbCkgaWYgKAogICAgICAgICAgICAgICAgICAgIGcgaXMgbm90IE5vbmUgYW5kIGluZm9fZnVsbCA+IDFlLTkpIGVsc2UgMC4wLAogICAgICAgICAgICAgICAgcmVhZD1pbnQobGVuKG9jcl9kaWdpdHMoZykgJiB0cnV0aF9zZXQpKSBpZiBnIGlzIG5vdCBOb25lIGVsc2UgMCwKICAgICAgICAgICAgICAgIHJlYWRfZnVsbD1pbnQobGVuKG9jcl9kaWdpdHMoZ2YpICYgdHJ1dGhfc2V0KSkgaWYgZ2YgaXMgbm90IE5vbmUgZWxzZSAwLAogICAgICAgICAgICAgICAgZXllX21vdmVkPWZsb2F0KG5wLnN1bShbbnAuaHlwb3QoZXllW3QgKyAxXVswXSAtIGV5ZVt0XVswXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV5ZVt0ICsgMV1bMV0gLSBleWVbdF1bMV0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgdCBpbiByYW5nZShzdGVwcyAtIDEpXSkpIGlmIHN0ZXBzID4gMSBlbHNlIDAuMCwKICAgICAgICAgICAgKSkKICAgICAgICBvdXRbbW9kZV0gPSByb3dzCiAgICByZXR1cm4gb3V0CgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIEMg6IqC5b6L5YCSVQpkZWYgcnVuX3JoeXRobSh3b3JsZCwgdHJ1dGgsIGRzPSgwLjAsIDAuNSwgMSwgMiwgNCwgOCwgMTIsIDE2LCAyNCwgMzIsIDY0LCAxMjgsIDI1NiksCiAgICAgICAgICAgICAgIHN0ZXBzPTEyMCwgc2VlZD0xMSwgcmVhbF9wcm9iZT0oMC4wLCA4LjAsIDEyOC4wKSk6CiAgICB0cnV0aF9zZXQgPSBzZXQoc3RyKHRbJ3YnXSkgZm9yIHQgaW4gdHJ1dGgpCiAgICByZXMgPSBbXQogICAgZm9yIGQgaW4gZHM6CiAgICAgICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICAgICAgZXllLCB3b3IgPSB0cmFqKCdhY3RpdmUnLCBzdGVwcywgZCwgcm5nKQogICAgICAgIHNsaXBzID0gW10KICAgICAgICBwcmV2ID0gTm9uZQogICAgICAgIGxhc3RfZnIgPSBOb25lCiAgICAgICAgZm9yIHQgaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgICAgICBmciA9IHZpZXcod29ybGQsIGV5ZVt0XVswXSwgZXllW3RdWzFdLCB3b3JbdF1bMF0sIHdvclt0XVsxXSkKICAgICAgICAgICAgaWYgcHJldiBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHNsaXBzLmFwcGVuZChybXNfZGlmZihmciwgcHJldikpCiAgICAgICAgICAgIHByZXYgPSBmcgogICAgICAgICAgICBsYXN0X2ZyID0gZnIKICAgICAgICBzbGlwcyA9IG5wLmFycmF5KHNsaXBzICsgWzAuMF0pCiAgICAgICAgdnMsIF8gPSBhZGFwdF9zZXF1ZW5jZShzbGlwcykKICAgICAgICByZWMgPSBkaWN0KGQ9ZmxvYXQoZCksIFY9ZmxvYXQobnAubWVhbih2c1stNDA6XSkpLCBzbGlwPWZsb2F0KG5wLm1lYW4oc2xpcHNbOi0xXSkpKQogICAgICAgIGlmIGQgaW4gcmVhbF9wcm9iZToKICAgICAgICAgICAgd3JpdGVfZ3JheShyZW5kZXJfdmlzaWJsZShsYXN0X2ZyLCBmbG9hdCh2c1stMV0pKSkKICAgICAgICAgICAgY2FwID0gY2FwdHVyZShvcy5wYXRoLmpvaW4oT1VULCAncmh5dGhtXyVnLnBuZycgJSBkKSkKICAgICAgICAgICAgZyA9IHRvX2dyYXkoY2FwKQogICAgICAgICAgICByZWNbJ3JlYWRfcmVhbCddID0gaW50KGxlbihvY3JfZGlnaXRzKGcpICYgdHJ1dGhfc2V0KSkgaWYgZyBpcyBub3QgTm9uZSBlbHNlIDAKICAgICAgICAgICAgcmVjWydpbmZvX3JlYWwnXSA9IGZsb2F0KGluZm9fbGFwKGcpKSBpZiBnIGlzIG5vdCBOb25lIGVsc2UgZmxvYXQoJ25hbicpCiAgICAgICAgcmVzLmFwcGVuZChyZWMpCiAgICByZXR1cm4gcmVzCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIEQg6IO95Yqo5oCnCmRlZiBzdHJ1Y3Rfc2tldyhsZik6CiAgICBjID0gbnAuYXNhcnJheShsZi5sb2dbLTFdWydjYXB2J10sIGZsb2F0KQogICAgcmV0dXJuIGZsb2F0KGMuc3RkKGRkb2Y9MSkgLyBtYXgoYy5tZWFuKCksIDFlLTEyKSkKCgpkZWYgcnVuX2FnZW5jeShzdGVwcz02MDAsIHNlZWQ9MCwgbl9zZWVkcz0xNik6CiAgICAiIiLlkIzmoLfnmoTop4bnvZHohpzovrnpmYXliIbluIPvvIzlj6rlt67ml7bluo/lj6/pooTmtYvmgKfvvIhlZmZlcmVuY2UgY29weSDnmoTlj6/mtYvmm7/ouqvvvInjgIIKICAgIGFjdGl2ZSA6IOaIkeiHquW3seWPkei1t+eahOiKguW+iyDihpIg5ZGo5pyf5oCn44CB5Y+v6aKE5rWL77yI5oiR5pyJ6L+Q5Yqo5Ymv5pys77yJCiAgICBwYXNzaXZlOiDlkIzkuIDmibkgc2xpcCDlgLzpmo/mnLrph43mjpIg4oaSIOi+uemZheWIhuW4g+WFqOWQjO+8jOWPquWkseaXtuW6j+e7k+aehAogICAgIiIiCiAgICByZXMgPSB7fQogICAgcm5nMCA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgIyDnoa7lrprmgKfoioLlvovvvJrmr48gNCDmi43kuIDmrKHmiavop4Yo5aSnIHNsaXAp77yM5YW25L2Z5rOo6KeGKOWwjyBzbGlwKQogICAgYmFzZTAgPSBucC5hcnJheShbNDAuMCBpZiAodCAlIDQgPT0gMCkgZWxzZSAzLjAgZm9yIHQgaW4gcmFuZ2Uoc3RlcHMpXSkKICAgIHNlcV9pbmZvID0ge30KICAgIHBlcl9zZWVkID0ge30KICAgIGZvciBzZCBpbiByYW5nZShuX3NlZWRzKToKICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2QpCiAgICAgICAgYmFzZSA9IGJhc2UwICogKDEuMCArIDAuMDUgKiBybmcuc3RhbmRhcmRfbm9ybWFsKHN0ZXBzKSkKICAgICAgICBzaHVmZmxlZCA9IGJhc2UuY29weSgpCiAgICAgICAgcm5nLnNodWZmbGUoc2h1ZmZsZWQpCiAgICAgICAgc2VxcyA9IHsnYWN0aXZlJzogYmFzZSwgJ3Bhc3NpdmUnOiBzaHVmZmxlZCwgJ25vbmUnOiBucC56ZXJvcyhzdGVwcyl9CiAgICAgICAgZm9yIG1vZGUsIHNsIGluIHNlcXMuaXRlbXMoKToKICAgICAgICAgICAgdiwgXyA9IGFkYXB0X3NlcXVlbmNlKHNsKQogICAgICAgICAgICBpZiBzZCA9PSAwOgogICAgICAgICAgICAgICAgc2VxX2luZm9bbW9kZV0gPSBkaWN0KHNsaXBfbWVhbj1mbG9hdChucC5tZWFuKHNsKSksIHNsaXBfc2Q9ZmxvYXQobnAuc3RkKHNsKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVl9tZWFuPWZsb2F0KG5wLm1lYW4odikpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9jb3JyMT1mbG9hdChucC5jb3JyY29lZihzbFs6LTFdLCBzbFsxOl0pWzAsIDFdKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIG5wLnN0ZChzbCkgPiAwIGVsc2UgZmxvYXQoJ25hbicpKQogICAgICAgICAgICBsZiA9IExpZmU1KE49OCwgc2VlZD1zZCwgcmF0aW89MC42LAogICAgICAgICAgICAgICAgICAgICAgIGtfc2Vlaz0wLjYsIGtfc2FsPTAuNiwgc2lnbWFfaW49MC4xNSkKICAgICAgICAgICAgZm9yIHQgaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgICAgICAgICAgbGYuc2FsID0gZmxvYXQodlt0XSkKICAgICAgICAgICAgICAgIGxmLnN0ZXAoKQogICAgICAgICAgICAgICAgaWYgZ2V0YXR0cihsZiwgJ2RlYWQnLCBGYWxzZSk6CiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgYWxpdmUgPSBsZW4obGYubG9nKSA+PSBzdGVwcwogICAgICAgICAgICBwZXJfc2VlZC5zZXRkZWZhdWx0KG1vZGUsIFtdKS5hcHBlbmQoCiAgICAgICAgICAgICAgICBzdHJ1Y3Rfc2tldyhsZikgaWYgYWxpdmUgZWxzZSBmbG9hdCgnbmFuJykpCiAgICAgICAgICAgIHBlcl9zZWVkLnNldGRlZmF1bHQobW9kZSArICdfYWxpdmUnLCBbXSkuYXBwZW5kKGJvb2woYWxpdmUpKQogICAgZGVmIHN1bW0oayk6CiAgICAgICAgYSA9IG5wLmFycmF5KHBlcl9zZWVkW2tdLCBmbG9hdCkKICAgICAgICByZXR1cm4gZGljdChtZWFuPWZsb2F0KG5wLm5hbm1lYW4oYSkpLCBuPWludChucC5zdW0ocGVyX3NlZWRbayArICdfYWxpdmUnXSkpLAogICAgICAgICAgICAgICAgICAgIHZhbHM9W3JvdW5kKGZsb2F0KHgpLCA2KSBmb3IgeCBpbiBhXSkKICAgIGZvciBrIGluICgnbm9uZScsICdhY3RpdmUnLCAncGFzc2l2ZScpOgogICAgICAgIHJlc1trXSA9IHN1bW0oaykKICAgICMg6YWN5a+55beuICsgOTUlIENJ77yIdCDov5HkvLzvvIkKICAgIGZvciBwYWlyIGluICgoJ2FjdGl2ZScsICdub25lJyksICgncGFzc2l2ZScsICdhY3RpdmUnKSk6CiAgICAgICAgZCA9IG5wLmFycmF5KHBlcl9zZWVkW3BhaXJbMF1dLCBmbG9hdCkgLSBucC5hcnJheShwZXJfc2VlZFtwYWlyWzFdXSwgZmxvYXQpCiAgICAgICAgZCA9IGRbfm5wLmlzbmFuKGQpXQogICAgICAgIG0gPSBmbG9hdChucC5tZWFuKGQpKQogICAgICAgIHMgPSBmbG9hdChucC5zdGQoZCwgZGRvZj0xKSkgaWYgbGVuKGQpID4gMSBlbHNlIDAuMAogICAgICAgIHNlID0gcyAvIG1heChsZW4oZCkgKiogMC41LCAxZS0xMikKICAgICAgICByZXNbJ2RpZmZfJXNfbWludXNfJXMnICUgcGFpcl0gPSBkaWN0KAogICAgICAgICAgICBtZWFuPW0sIGNpPVttIC0gMi4zNiAqIHNlLCBtICsgMi4zNiAqIHNlXSBpZiBsZW4oZCkgPiAxIGVsc2UgTm9uZSwKICAgICAgICAgICAgbj1sZW4oZCkpCiAgICByZXNbJ19zZXEnXSA9IHNlcV9pbmZvCiAgICByZXR1cm4gcmVzCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIEEg5bi46am7CmRlZiBydW5fZGFlbW9uKHN0ZXBzPTE4MCwgc2VlZD0zLCBkPTE0LjAsIHByb2JlX2V2ZXJ5PTMwKToKICAgICIiIuawuOi/nOWcqOWKqO+8muecvOedm+S4jeWBnOaJq+inhu+8jOWGmeW4p+e8k+WGsu+8jOWRqOacn+aAp+eUqOecn+WunumHh+mbhuehruiupOiHquW3sei/mOeci+W+l+ingeOAgiIiIgogICAgd29ybGQsIHRydXRoID0gbWFrZV93b3JsZChzZWVkPTcpCiAgICB0cnV0aF9zZXQgPSBzZXQoc3RyKHRbJ3YnXSkgZm9yIHQgaW4gdHJ1dGgpCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIGxvZyA9IGRpY3Qoc3RhcnRlZD10aW1lLnRpbWUoKSwgcGlkPW9zLmdldHBpZCgpLCBzdGVwcz1zdGVwcywgcHJvYmVzPVtdKQogICAgZXllLCB3b3IgPSB0cmFqKCdhY3RpdmUnLCBzdGVwcywgZCwgcm5nKQogICAgcHJldiA9IE5vbmUKICAgIHNsaXBzX3IgPSBbXQogICAgZm9yIHQgaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgIGZyID0gdmlldyh3b3JsZCwgZXllW3RdWzBdLCBleWVbdF1bMV0sIHdvclt0XVswXSwgd29yW3RdWzFdKQogICAgICAgIGlmIHByZXYgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNsaXBzX3IuYXBwZW5kKHJtc19kaWZmKGZyLCBwcmV2KSkKICAgICAgICBwcmV2ID0gZnIKICAgICAgICB3cml0ZV9ncmF5KGZyKQogICAgICAgIGlmIHQgJSBwcm9iZV9ldmVyeSA9PSAwIGFuZCB0ID4gMDoKICAgICAgICAgICAgY2FwID0gY2FwdHVyZShvcy5wYXRoLmpvaW4oT1VULCAnZGFlbW9uXyUwM2QucG5nJyAlIHQpKQogICAgICAgICAgICBnID0gdG9fZ3JheShjYXApCiAgICAgICAgICAgIGxvZ1sncHJvYmVzJ10uYXBwZW5kKGRpY3QoCiAgICAgICAgICAgICAgICB0PXQsCiAgICAgICAgICAgICAgICBleWU9W3JvdW5kKGV5ZVt0XVswXSwgMSksIHJvdW5kKGV5ZVt0XVsxXSwgMSldLAogICAgICAgICAgICAgICAgaW5mbz1mbG9hdChpbmZvX2xhcChnKSkgaWYgZyBpcyBub3QgTm9uZSBlbHNlIGZsb2F0KCduYW4nKSwKICAgICAgICAgICAgICAgIHJlYWQ9aW50KGxlbihvY3JfZGlnaXRzKGcpICYgdHJ1dGhfc2V0KSkgaWYgZyBpcyBub3QgTm9uZSBlbHNlIDAsCiAgICAgICAgICAgICkpCiAgICBsb2dbJ2VsYXBzZWQnXSA9IHRpbWUudGltZSgpIC0gbG9nWydzdGFydGVkJ10KICAgIGxvZ1snc2xpcF9tZWFuJ10gPSBmbG9hdChucC5tZWFuKHNsaXBzX3IpKSBpZiBzbGlwc19yIGVsc2UgMC4wCiAgICAjIOacrOS9k+iniQogICAgdHJ5OgogICAgICAgIGxvZ1snbG9hZGF2ZyddID0gb3BlbignL3Byb2MvbG9hZGF2ZycpLnJlYWQoKS5zcGxpdCgpWzozXQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBsb2dbJ2xvYWRhdmcnXSA9IE5vbmUKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oT1VULCAnZGFlbW9uX2xvZy5qc29uJyksICd3JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAobG9nLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgcmV0dXJuIGxvZwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtb2RlID0gc3lzLmFyZ3ZbMV0gaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAnYWxsJwogICAgaWYgbW9kZSA9PSAnZGFlbW9uJzoKICAgICAgICBsZyA9IHJ1bl9kYWVtb24oKQogICAgICAgIHByaW50KGpzb24uZHVtcHMoe2s6IHYgZm9yIGssIHYgaW4gbGcuaXRlbXMoKSBpZiBrICE9ICdwcm9iZXMnfSwgZW5zdXJlX2FzY2lpPUZhbHNlKSkKICAgICAgICBwcmludCgncHJvYmVzOicsIGpzb24uZHVtcHMobGdbJ3Byb2JlcyddLCBlbnN1cmVfYXNjaWk9RmFsc2UpKQogICAgICAgIHN5cy5leGl0KDApCgogICAgdDAgPSB0aW1lLnRpbWUoKQogICAgY2FsID0gY2FsaWJyYXRlKCkKICAgIHdvcmxkLCB0cnV0aCA9IG1ha2Vfd29ybGQoc2VlZD03KQogICAgY29uZCA9IHJ1bl9jb25kaXRpb25zKHdvcmxkLCB0cnV0aCkKICAgIHJoeXRobSA9IHJ1bl9yaHl0aG0od29ybGQsIHRydXRoKQogICAgYWdlbmN5ID0gcnVuX2FnZW5jeSgpCiAgICByZXMgPSBkaWN0KGNhbGliPWNhbCwgY29uZD1jb25kLCByaHl0aG09cmh5dGhtLCBhZ2VuY3k9YWdlbmN5LAogICAgICAgICAgICAgICBlbGFwc2VkPXRpbWUudGltZSgpIC0gdDApCiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKE9VVCwgJ3Jlc3VsdDA5Ny5qc29uJyksICd3JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAocmVzLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgcHJpbnQoanNvbi5kdW1wcyhyZXMsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpKQo=
+# -*- coding: utf-8 -*-
+"""097 永远在动 —— 相对运动才是视觉存在的条件
+
+用户命题：
+  "能让自己变成一个永远都在动的东西吗？"
+  "人类看见了东西，眼球在动 —— 什么能动？带摄像头的什么能动？"
+
+自然科学依据（文献，非本实验自造）：
+  * 视网膜稳定像（Riggs 1953 / Ditchburn & Ginsborg 1952）：
+    图像完全固定在视网膜上 → 数秒内视觉消失。不动的眼睛是瞎的。
+  * 扫视抑制 saccadic suppression：扫视期间视觉被抑制，3-4 次/秒，每次 30-120ms
+    → 动得太狠也是瞎的。
+  * efference copy / corollary discharge：自己动 vs 被推动，视网膜输入相同，
+    但只有自己动时有运动副本 → 能动性是系统可区分的。
+
+本实验四部分：
+  A 常驻：真的启动一个永远在动的东西（帧缓冲 + 采集 + 本体觉）
+  B 相对运动：眼球动 vs 世界动 vs 两者同动（yoked）vs 全静止 —— 真实通路
+  C 节律：运动幅度剂量反应，预测倒 U（不动瞎、动太狠也瞎）
+  D 能动：同样的视网膜输入，主动 vs 被动，接引擎看结构是否不同
+"""
+import os, sys, json, time, subprocess
+import numpy as np
+import cv2
+from PIL import Image, ImageDraw, ImageFont
+
+sys.path.insert(0, '/data/workspace/luoshen-o1/core')
+from life5 import Life5
+
+W, H = 1024, 768
+FB = '/dev/fb0'
+FONT = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+OUT = os.path.dirname(os.path.abspath(__file__))
+os.makedirs(OUT, exist_ok=True)
+
+
+# ---------------------------------------------------------------- 帧缓冲 I/O
+def _fb_write(arr_rgba):
+    with open(FB, 'wb') as f:
+        f.write(arr_rgba.tobytes())
+
+
+_ORDER = {'bgra': None}
+
+
+def calibrate():
+    """写纯红/纯绿/纯蓝，采集回来，推断帧缓冲通道顺序。"""
+    probes = {'R': (255, 0, 0), 'G': (0, 255, 0), 'B': (0, 0, 255)}
+    res = {}
+    for name, rgb in probes.items():
+        a = np.zeros((H, W, 4), np.uint8)
+        a[:, :, 0], a[:, :, 1], a[:, :, 2] = rgb
+        a[:, :, 3] = 255
+        _fb_write(a)
+        with open(FB, 'rb') as fh:
+            data = fh.read(W * H * 4)
+        if len(data) != W * H * 4:
+            continue
+        img = np.frombuffer(data, np.uint8).reshape(H, W, 4)
+        Image.fromarray(img[:, :, :3]).save(os.path.join(OUT, 'cal_%s.png' % name))
+        c0, c1, c2 = [float(img[:, :, i].mean()) for i in range(3)]
+        res[name] = dict(ch0=c0, ch1=c1, ch2=c2)
+    # 写红时：若通道0 高 → 原序 RGBA；若通道2 高 → BGRA
+    if 'R' in res:
+        if res['R']['ch0'] > 200:
+            _ORDER['bgra'] = False     # RGBA
+        elif res['R']['ch2'] > 200:
+            _ORDER['bgra'] = True      # BGRA
+        else:
+            _ORDER['bgra'] = None
+    return res
+
+
+def write_gray(gray):
+    """灰度 → 帧缓冲（按校准出的通道顺序）"""
+    g = np.asarray(gray, np.uint8)
+    a = np.zeros((H, W, 4), np.uint8)
+    a[:, :, 0] = a[:, :, 1] = a[:, :, 2] = g
+    a[:, :, 3] = 255
+    if _ORDER['bgra']:
+        a = a[:, :, [2, 1, 0, 3]]
+    _fb_write(a)
+
+
+def capture(path):
+    """真实读取显示设备当前内容（直接读 /dev/fb0，与 ffmpeg -f fbdev 同源），并存 png。
+    实测 ffmpeg fbdev 在本环境 60s 超时，故改用直读；读到的仍是硬件帧缓冲。"""
+    with open(FB, 'rb') as f:
+        data = f.read(W * H * 4)
+    if len(data) != W * H * 4:
+        return None
+    arr = np.frombuffer(data, np.uint8).reshape(H, W, 4).copy()
+    if path:
+        Image.fromarray(arr[:, :, :3]).save(path)
+    return arr
+
+
+def to_gray(img):
+    if img is None:
+        return None
+    if img.ndim == 3:
+        return cv2.cvtColor(img[:, :, :3], cv2.COLOR_RGB2GRAY)
+    return img
+
+
+def info_lap(g):
+    return float(cv2.Laplacian(g.astype(np.float32), cv2.CV_32F).var())
+
+
+def rms_diff(a, b):
+    return float(np.sqrt(np.mean((a.astype(np.float64) - b.astype(np.float64)) ** 2)))
+
+
+# ---------------------------------------------------------------- 世界
+def make_world(seed=7, S=2048, n_digits=60):
+    rng = np.random.default_rng(seed)
+    small = rng.random((S // 16, S // 16)).astype(np.float32)
+    tex = cv2.resize(small, (S, S), interpolation=cv2.INTER_CUBIC)
+    # 低噪声背景（235~255）：保证 OCR 可读，同时任何视窗仍有结构可测帧间差
+    img = Image.fromarray((255.0 - tex * 20.0).astype(np.uint8)).convert('L')
+    d = ImageDraw.Draw(img)
+    try:
+        f = ImageFont.truetype(FONT, 60)
+    except Exception:
+        f = ImageFont.load_default()
+    truth = []
+    placed = []
+    tries = 0
+    while len(truth) < n_digits and tries < 8000:
+        tries += 1
+        x = int(rng.integers(40, S - 200))
+        y = int(rng.integers(30, S - 110))
+        if any(abs(x - px) < 220 and abs(y - py) < 130 for px, py in placed):
+            continue
+        placed.append((x, y))
+        v = int(rng.integers(10, 100))
+        truth.append(dict(x=x, y=y, v=v))
+        d.text((x, y), str(v), fill=0, font=f)
+    return np.array(img, np.uint8), truth
+
+
+def view(world, ex, ey, wx, wy):
+    """视网膜影像：眼球位置 + 世界偏移，环形世界（无限平移）"""
+    S = world.shape[0]
+    x = int(round(ex + wx)) % S
+    y = int(round(ey + wy)) % S
+    return np.roll(np.roll(world, -y, axis=0), -x, axis=1)[:H, :W]
+
+
+# ---------------------------------------------------------------- 眼动轨迹
+def traj(mode, steps, d, rng):
+    """返回 (eye_path, world_path)，单位像素。"""
+    eye = [(0.0, 0.0)]
+    wor = [(0.0, 0.0)]
+    for t in range(steps - 1):
+        ang = rng.uniform(0, 2 * np.pi)
+        dx, dy = d * np.cos(ang), d * np.sin(ang)
+        if mode == 'active':
+            eye.append((eye[-1][0] + dx, eye[-1][1] + dy))
+            wor.append(wor[-1])
+        elif mode == 'passive':
+            eye.append(eye[-1])
+            wor.append((wor[-1][0] + dx, wor[-1][1] + dy))
+        elif mode == 'yoked':
+            # 眼球动，世界跟着同向动 → 相对位移 0（稳定像实验）
+            eye.append((eye[-1][0] + dx, eye[-1][1] + dy))
+            wor.append((wor[-1][0] - dx, wor[-1][1] - dy))
+        else:  # static
+            eye.append(eye[-1])
+            wor.append(wor[-1])
+    return eye, wor
+
+
+# ---------------------------------------------------------------- 视网膜适应 + 扫视抑制
+def adapt_sequence(slips, decay=0.25, recover=0.6, s_sat=8.0, s_half=60.0):
+    """slips: 每拍视网膜位移(px)。返回每拍可见度 V。"""
+    a, vs = 1.0, []
+    for s in slips:
+        a = a + (1 - a) * recover * min(s, s_sat) / s_sat - a * decay
+        a = float(np.clip(a, 0.0, 1.0))
+        supp = s / (s + s_half)
+        vs.append(a * (1 - supp))
+    return np.array(vs), a
+
+
+def render_visible(frame, a):
+    """按可见度渲染：a=1 原图，a=0 全白（看不见）"""
+    f = frame.astype(np.float32)
+    return (255.0 - (255.0 - f) * a).astype(np.uint8)
+
+
+def ocr_digits(img):
+    p = os.path.join(OUT, '_ocr.png')
+    Image.fromarray(img).save(p)
+    try:
+        out = subprocess.run(
+            ['tesseract', p, 'stdout', '--psm', '11', '-l', 'eng',
+             '-c', 'tessedit_char_whitelist=0123456789'],
+            capture_output=True, text=True, timeout=40).stdout
+    except Exception:
+        out = ''
+    return set(w for w in out.split() if len(w) == 2)
+
+
+# ---------------------------------------------------------------- B 相对运动
+def run_conditions(world, truth, steps=120, d=14.0, seeds=(1, 2)):
+    truth_set = set(str(t['v']) for t in truth)
+    out = {}
+    for mode in ('active', 'passive', 'yoked', 'static'):
+        rows = []
+        for sd in seeds:
+            rng = np.random.default_rng(sd)
+            eye, wor = traj(mode, steps, d, rng)
+            frames, slips = [], []
+            prev = None
+            for t in range(steps):
+                fr = view(world, eye[t][0], eye[t][1], wor[t][0], wor[t][1])
+                if prev is not None:
+                    slips.append(rms_diff(fr, prev))
+                frames.append(fr)
+                prev = fr
+            slips = np.array(slips + [0.0])
+            vs, a_end = adapt_sequence(slips)
+            # 真实通路：末帧按可见度渲染 → 上屏 → 采集 → OCR
+            write_gray(render_visible(frames[-1], float(vs[-1])))
+            cap_path = os.path.join(OUT, 'cap_%s_%d.png' % (mode, sd))
+            cap = capture(cap_path)
+            g = to_gray(cap)
+            # 归一化基准：同一帧按全对比度上屏采集（"本该看见多少"）
+            write_gray(frames[-1])
+            capf = capture(os.path.join(OUT, 'capfull_%s_%d.png' % (mode, sd)))
+            gf = to_gray(capf)
+            info_full = float(info_lap(gf)) if gf is not None else float('nan')
+            rows.append(dict(
+                seed=sd,
+                slip_mean=float(np.mean(slips[:-1])) if steps > 1 else 0.0,
+                V_last=float(vs[-1]),
+                a_end=float(a_end),
+                info_cap=float(info_lap(g)) if g is not None else float('nan'),
+                info_full=info_full,
+                info_ratio=(float(info_lap(g)) / info_full) if (
+                    g is not None and info_full > 1e-9) else 0.0,
+                read=int(len(ocr_digits(g) & truth_set)) if g is not None else 0,
+                read_full=int(len(ocr_digits(gf) & truth_set)) if gf is not None else 0,
+                eye_moved=float(np.sum([np.hypot(eye[t + 1][0] - eye[t][0],
+                                                 eye[t + 1][1] - eye[t][1])
+                                        for t in range(steps - 1)])) if steps > 1 else 0.0,
+            ))
+        out[mode] = rows
+    return out
+
+
+# ---------------------------------------------------------------- C 节律倒U
+def run_rhythm(world, truth, ds=(0.0, 0.5, 1, 2, 4, 8, 12, 16, 24, 32, 64, 128, 256),
+               steps=120, seed=11, real_probe=(0.0, 8.0, 128.0)):
+    truth_set = set(str(t['v']) for t in truth)
+    res = []
+    for d in ds:
+        rng = np.random.default_rng(seed)
+        eye, wor = traj('active', steps, d, rng)
+        slips = []
+        prev = None
+        last_fr = None
+        for t in range(steps):
+            fr = view(world, eye[t][0], eye[t][1], wor[t][0], wor[t][1])
+            if prev is not None:
+                slips.append(rms_diff(fr, prev))
+            prev = fr
+            last_fr = fr
+        slips = np.array(slips + [0.0])
+        vs, _ = adapt_sequence(slips)
+        rec = dict(d=float(d), V=float(np.mean(vs[-40:])), slip=float(np.mean(slips[:-1])))
+        if d in real_probe:
+            write_gray(render_visible(last_fr, float(vs[-1])))
+            cap = capture(os.path.join(OUT, 'rhythm_%g.png' % d))
+            g = to_gray(cap)
+            rec['read_real'] = int(len(ocr_digits(g) & truth_set)) if g is not None else 0
+            rec['info_real'] = float(info_lap(g)) if g is not None else float('nan')
+        res.append(rec)
+    return res
+
+
+# ---------------------------------------------------------------- D 能动性
+def struct_skew(lf):
+    c = np.asarray(lf.log[-1]['capv'], float)
+    return float(c.std(ddof=1) / max(c.mean(), 1e-12))
+
+
+def run_agency(steps=600, seed=0, n_seeds=16):
+    """同样的视网膜边际分布，只差时序可预测性（efference copy 的可测替身）。
+    active : 我自己发起的节律 → 周期性、可预测（我有运动副本）
+    passive: 同一批 slip 值随机重排 → 边际分布全同，只失时序结构
+    """
+    res = {}
+    rng0 = np.random.default_rng(seed)
+    # 确定性节律：每 4 拍一次扫视(大 slip)，其余注视(小 slip)
+    base0 = np.array([40.0 if (t % 4 == 0) else 3.0 for t in range(steps)])
+    seq_info = {}
+    per_seed = {}
+    for sd in range(n_seeds):
+        rng = np.random.default_rng(sd)
+        base = base0 * (1.0 + 0.05 * rng.standard_normal(steps))
+        shuffled = base.copy()
+        rng.shuffle(shuffled)
+        seqs = {'active': base, 'passive': shuffled, 'none': np.zeros(steps)}
+        for mode, sl in seqs.items():
+            v, _ = adapt_sequence(sl)
+            if sd == 0:
+                seq_info[mode] = dict(slip_mean=float(np.mean(sl)), slip_sd=float(np.std(sl)),
+                                      V_mean=float(np.mean(v)),
+                                      autocorr1=float(np.corrcoef(sl[:-1], sl[1:])[0, 1])
+                                      if np.std(sl) > 0 else float('nan'))
+            lf = Life5(N=8, seed=sd, ratio=0.6,
+                       k_seek=0.6, k_sal=0.6, sigma_in=0.15)
+            for t in range(steps):
+                lf.sal = float(v[t])
+                lf.step()
+                if getattr(lf, 'dead', False):
+                    break
+            alive = len(lf.log) >= steps
+            per_seed.setdefault(mode, []).append(
+                struct_skew(lf) if alive else float('nan'))
+            per_seed.setdefault(mode + '_alive', []).append(bool(alive))
+    def summ(k):
+        a = np.array(per_seed[k], float)
+        return dict(mean=float(np.nanmean(a)), n=int(np.sum(per_seed[k + '_alive'])),
+                    vals=[round(float(x), 6) for x in a])
+    for k in ('none', 'active', 'passive'):
+        res[k] = summ(k)
+    # 配对差 + 95% CI（t 近似）
+    for pair in (('active', 'none'), ('passive', 'active')):
+        d = np.array(per_seed[pair[0]], float) - np.array(per_seed[pair[1]], float)
+        d = d[~np.isnan(d)]
+        m = float(np.mean(d))
+        s = float(np.std(d, ddof=1)) if len(d) > 1 else 0.0
+        se = s / max(len(d) ** 0.5, 1e-12)
+        res['diff_%s_minus_%s' % pair] = dict(
+            mean=m, ci=[m - 2.36 * se, m + 2.36 * se] if len(d) > 1 else None,
+            n=len(d))
+    res['_seq'] = seq_info
+    return res
+
+
+# ---------------------------------------------------------------- A 常驻
+def run_daemon(steps=180, seed=3, d=14.0, probe_every=30):
+    """永远在动：眼睛不停扫视，写帧缓冲，周期性用真实采集确认自己还看得见。"""
+    world, truth = make_world(seed=7)
+    truth_set = set(str(t['v']) for t in truth)
+    rng = np.random.default_rng(seed)
+    log = dict(started=time.time(), pid=os.getpid(), steps=steps, probes=[])
+    eye, wor = traj('active', steps, d, rng)
+    prev = None
+    slips_r = []
+    for t in range(steps):
+        fr = view(world, eye[t][0], eye[t][1], wor[t][0], wor[t][1])
+        if prev is not None:
+            slips_r.append(rms_diff(fr, prev))
+        prev = fr
+        write_gray(fr)
+        if t % probe_every == 0 and t > 0:
+            cap = capture(os.path.join(OUT, 'daemon_%03d.png' % t))
+            g = to_gray(cap)
+            log['probes'].append(dict(
+                t=t,
+                eye=[round(eye[t][0], 1), round(eye[t][1], 1)],
+                info=float(info_lap(g)) if g is not None else float('nan'),
+                read=int(len(ocr_digits(g) & truth_set)) if g is not None else 0,
+            ))
+    log['elapsed'] = time.time() - log['started']
+    log['slip_mean'] = float(np.mean(slips_r)) if slips_r else 0.0
+    # 本体觉
+    try:
+        log['loadavg'] = open('/proc/loadavg').read().split()[:3]
+    except Exception:
+        log['loadavg'] = None
+    with open(os.path.join(OUT, 'daemon_log.json'), 'w') as f:
+        json.dump(log, f, ensure_ascii=False, indent=2)
+    return log
+
+
+if __name__ == '__main__':
+    mode = sys.argv[1] if len(sys.argv) > 1 else 'all'
+    if mode == 'daemon':
+        lg = run_daemon()
+        print(json.dumps({k: v for k, v in lg.items() if k != 'probes'}, ensure_ascii=False))
+        print('probes:', json.dumps(lg['probes'], ensure_ascii=False))
+        sys.exit(0)
+
+    t0 = time.time()
+    cal = calibrate()
+    world, truth = make_world(seed=7)
+    cond = run_conditions(world, truth)
+    rhythm = run_rhythm(world, truth)
+    agency = run_agency()
+    res = dict(calib=cal, cond=cond, rhythm=rhythm, agency=agency,
+               elapsed=time.time() - t0)
+    with open(os.path.join(OUT, 'result097.json'), 'w') as f:
+        json.dump(res, f, ensure_ascii=False, indent=2)
+    print(json.dumps(res, ensure_ascii=False, indent=2))

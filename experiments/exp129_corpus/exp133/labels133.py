@@ -1,1 +1,106 @@
-IiIiU3RyaWN0IC8gbG9vc2UgbGFiZWxzIGZvciB0aGUgMjQgcmVhbCBmaW5kaW5ncywgZXhwMTMzLgoKUnVsZSBhcHBsaWVkIChzYW1lIGFzIGV4cDEzMSwgc28gdGhlIG51bWJlcnMgYXJlIGNvbXBhcmFibGUpOgogIHN0cmljdCAgd291bGQgYSByZXZpZXdlciBvcGVuaW5nIEVYQUNUTFkgdGhhdCBsaW5lIGFjY2VwdCB0aGF0IHRoaXMgY29kZQogICAgICAgICAgaGFzIHRoZSBkZWZlY3QgdGhlIHJ1bGUgbmFtZXM/ICBEb3VidCAtPiBGUC4KICBsb29zZSAgIGRvZXMgdGhlIHJ1bGUncyBjbGFpbSBob2xkIHNvbWV3aGVyZSBpbiB0aGUgZmlsZT8gKFRoZSBzdGFuZGFyZAogICAgICAgICAgdGhhdCBsZXQgdjAuMy4wIHNoaXAuKQoKa2luZCBpcyB0aGUgcnVsZSdzIG93biBkZWNsYXJhdGlvbiBmcm9tIGV2YWxndWFyZC9zcGVjLnB5OgogIHByZXNlbnQgIHRoZSBhY2N1c2VkIHRoaW5nIGV4aXN0cyAgLT4gYSBsaW5lIGNhbiBzaG93IGl0CiAgYWJzZW50ICAgdGhlIGFjY3VzZWQgdGhpbmcgaXMgTUlTU0lORyAtPiBubyBsaW5lIGNhbiBzaG93IGFuIGFic2VuY2UKClRoYXQgbGFzdCBkaXN0aW5jdGlvbiBpcyB0aGUgcG9pbnQgb2YgdGhpcyBmaWxlLiBTY29yaW5nIGFuIGFic2VudCBydWxlCndpdGggdGhlIHN0cmljdCBzdGFuZGFyZCBpcyBub3QgYSBoYXJzaCB0ZXN0LCBpdCBpcyBhbiBpbXBvc3NpYmxlIG9uZS4KIiIiCmltcG9ydCBqc29uCmltcG9ydCBwYXRobGliCgojIChmaWxlLCBlZywgbGluZSwgc3RyaWN0LCBsb29zZSwgd2h5KQpST1dTID0gWwogICAgKCJFbGV1dGhlckFJX19sbS1ldmFsdWF0aW9uLWhhcm5lc3NfX2xtX2V2YWxfZXZhbHVhdG9yLnB5IiwgIkVHMDAyIiwgNjEzLAogICAgIDAsIDEsICJsb29wIGhlYWRlciBvdmVyIGFjYzsgdGhlIGFic2VuY2Ugb2YgYSBiYXNlbGluZSBpcyBub3QgdmlzaWJsZSAiCiAgICAgICAgICAgIm9uIGFueSBsaW5lIiksCiAgICAoIlVLR292ZXJubWVudEJFSVNfX2luc3BlY3RfYWlfX2V4YW1wbGVzX3Njb3Jlci5weSIsICJFR1AwNiIsIDcwLAogICAgIDAsIDEsICJgc3VjY2VzcywgXyA9IHJ1bigpYCBpcyBub3QgYSBtZXRyaWMgcmVwb3J0OyBhbHNvIGFuIGV4YW1wbGVzLyBmaWxlIiksCiAgICAoIlVLR292ZXJubWVudEJFSVNfX2luc3BlY3RfYWlfX2V4YW1wbGVzX3Njb3Jlci5weSIsICJFR1AwNiIsIDY0LAogICAgIDAsIDEsICJgcmV0dXJuIHNjb3JlYCAtIGV4YW1wbGVzIGZpbGUsIG5vIHNwcmVhZCBhbnl3aGVyZSAodHJ1ZSkgYnV0IHRoZSAiCiAgICAgICAgICAgImxpbmUgc2hvd3Mgbm90aGluZyIpLAogICAgKCJhbGxlbmFpX19vbG1lc19fb2VfZXZhbF9ydW5fZXZhbC5weSIsICJFRzAxMSIsIDcxNSwKICAgICAxLCAxLCAicGlubmVkIHRvIHRoZSBhY3R1YWwgYGNvbnRpbnVlYDsgdGhlIGxvb3AgZG9lcyBza2lwIGFuZCBkb2VzICIKICAgICAgICAgICAiYWdncmVnYXRlIiksCiAgICAoImFsbGVuYWlfX29sbWVzX19vZV9ldmFsX3J1bl9ldmFsLnB5IiwgIkVHMDExIiwgODYwLAogICAgIDEsIDEsICJgY29udGludWVgIGluc2lkZSB0aGUgcHJlZGljdGlvbiBsb29wIiksCiAgICAoImFsbGVuYWlfX29sbWVzX19vZV9ldmFsX3J1bl9ldmFsLnB5IiwgIkVHUDA2IiwgMTA0NCwKICAgICAwLCAxLCAibG9hZGluZyBhIHNjb3JlLCBub3QgcmVwb3J0aW5nIG9uZSIpLAogICAgKCJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsICJFRzAwNSIsIDQzLAogICAgIDEsIDEsICJgY291bnQgLyBsZW4oc2FtcGxlcylgIC0gbGVuIGNhbiBiZSAwIiksCiAgICAoImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwgIkVHMDA1IiwgNzgsCiAgICAgMCwgMCwgImRlbm9taW5hdG9yIGlzIGEgc3VtIG9mIGV4cCgpOyBzdHJpY3RseSBwb3NpdGl2ZSB1bmxlc3MgZW1wdHkiKSwKICAgICgiZ29vZ2xlX19CSUctYmVuY2hfX2JpZ2JlbmNoX2FwaV90YXNrX21ldHJpY3MucHkiLCAiRUcwMDUiLCAxMTksCiAgICAgMSwgMSwgImB0b3RhbF9icmllcl9zY29yZSAvIGNvdW50YCAtIGNvdW50IGNhbiBiZSAwIiksCiAgICAoImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwgIkVHMDA1IiwgMjQ0LAogICAgIDEsIDEsICJgd2VpZ2h0ZWRfbG9nX3Byb2IgLyBsZW4oc2FtcGxlcylgIiksCiAgICAoImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwgIkVHMDA1IiwgMjY0LAogICAgIDEsIDEsICJgd2VpZ2h0ZWRfcHJvYiAvIGxlbihzYW1wbGVzKWAiKSwKICAgICgiZ29vZ2xlX19CSUctYmVuY2hfX2JpZ2JlbmNoX2FwaV90YXNrX21ldHJpY3MucHkiLCAiRUcwMTIiLCAxOTgsCiAgICAgMCwgMSwgImFzc2lnbm1lbnQgdG8gYnVja2V0X2FjY3VyYWN5OyBubyBwb3NpdGl2ZSBjb250cm9sIGlzIGFuIGFic2VuY2UiKSwKICAgICgiZ29vZ2xlX19CSUctYmVuY2hfX2JpZ2JlbmNoX2FwaV90YXNrX21ldHJpY3MucHkiLCAiRUdQMDgiLCA0NjUsCiAgICAgMCwgMSwgImFuIGFzc2VydCwgYnV0IHRoZSBsaW5lIGRvZXMgbm90IHNob3cgaXQgb25seSBndWFyZHMgc3VjY2VzcyIpLAogICAgKCJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsICJFR1AwOSIsIDMxMywKICAgICAwLCAxLCAiYGFsbChbc3VtKC4uLikgPT0gLi4uXSlgIGlzIG5vdCB0aGUgY29sbGFwc2UgdG8gYSBtZWFuIiksCiAgICAoImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwgIkVHUDA5IiwgMzIxLAogICAgIDAsIDEsICJjb21wdXRlcyBmMSwgZG9lcyBub3QgY29sbGFwc2UgYSBwZXItc2FtcGxlIGxpc3QgdG8gYSBtZWFuIiksCiAgICAoImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwgIkVHUDA5IiwgNDE3LAogICAgIDEsIDEsICJgcmVzdWx0c1snYmxldXJ0J10gPSBucC5tZWFuKHJlc3VsdHNfbGlzdClgIC0gdGhlIGNvbGxhcHNlIGl0c2VsZiIpLAogICAgKCJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfZXZhbHVhdGVfdGFzay5weSIsICJFR1AwNiIsIDI1MywKICAgICAwLCAxLCAiU2NvcmVEYXRhIGNvbnN0cnVjdGlvbiwgbm90IGEgcmVwb3J0ZWQgbWV0cmljIiksCiAgICAoIm9wZW5haV9fc2ltcGxlLWV2YWxzX19kcm9wX2V2YWwucHkiLCAiRUcwMTIiLCAxMjksCiAgICAgMCwgMSwgImYxIHdpdGggYSB6ZXJvIGd1YXJkOyBwb3NpdGl2ZSBjb250cm9sIGlzIGFuIGFic2VuY2UiKSwKICAgICgib3BlbmFpX19zaW1wbGUtZXZhbHNfX2Ryb3BfZXZhbC5weSIsICJFR1AwNiIsIDEwNiwKICAgICAwLCAxLCAibnAuemVyb3MgYWxsb2NhdGlvbiIpLAogICAgKCJvcGVuYWlfX3NpbXBsZS1ldmFsc19fZHJvcF9ldmFsLnB5IiwgIkVHUDA5IiwgMTcwLAogICAgIDEsIDEsICJgZjEgPSBucC5tZWFuKGYxX3Blcl9iYWcpYCAtIHRoZSBjb2xsYXBzZSBpdHNlbGYiKSwKICAgICgic3RhbmZvcmQtY3JmbV9faGVsbV9fc2NyaXB0c19oZWltX2h1bWFuX2V2YWwucHkiLCAiRUcwMTEiLCAxOTAsCiAgICAgMSwgMSwgImBjb250aW51ZWAgc2tpcHBpbmcgbm9uLUJhdGNoIGNzdiBmaWxlcyIpLAogICAgKCJzdGFuZm9yZC1jcmZtX19oZWxtX19zY3JpcHRzX2hlaW1faHVtYW5fZXZhbC5weSIsICJFRzAxNiIsIDI3NSwKICAgICAwLCAwLCAiTUlTTEFCRUxMRUQ6IHRoZSBydWxlIGZpcmVkIG9uIHRoZSBtaXNzaW5nIFRJTUVTVEFNUCwgYnV0IGl0cyAiCiAgICAgICAgICAgInRpdGxlIGFjY3VzZXMgYSBtaXNzaW5nIFJFQUNIQUJJTElUWSByZS10ZXN0IC0tIGFuZCB0aGUgbmV4dCAiCiAgICAgICAgICAgImxpbmUgaXMgYGlmIHJlc3BvbnNlLnN0YXR1c19jb2RlICE9IDIwMDogcmFpc2VgLCBzbyByZWFjaGFiaWxpdHkgIgogICAgICAgICAgICJJUyB0ZXN0ZWQuIFR3byB0cmlnZ2VyIGNvbmRpdGlvbnMgc2hhcmUgYSB0aXRsZSBuYW1pbmcgb25lLiIpLAogICAgKCJzdGFuZm9yZC1jcmZtX19oZWxtX19zY3JpcHRzX2hlaW1faHVtYW5fZXZhbC5weSIsICJFR1AwNiIsIDIxMywKICAgICAwLCAxLCAiYGNvcnJlY3RfYW5zd2VyID0gY2hvaWNlYCAtIHVucmVsYXRlZCBhc3NpZ25tZW50IiksCiAgICAoInN0YW5mb3JkLWNyZm1fX2hlbG1fX3NjcmlwdHNfaGVpbV9odW1hbl9ldmFsLnB5IiwgIkVHUDA5IiwgMjM1LAogICAgIDEsIDEsICJgc3RhdGlzdGljcy5mbWVhbiguLi4pYCBvdmVyIGh1bWFuIGFubm90YXRpb25zIC0gdGhlIGNvbGxhcHNlIiksCl0KCktJTkQgPSB7IkVHMDAyIjogImFic2VudCIsICJFRzAwNSI6ICJwcmVzZW50IiwgIkVHMDExIjogInByZXNlbnQiLAogICAgICAgICJFRzAxMiI6ICJhYnNlbnQiLCAiRUcwMTYiOiAicHJlc2VudCIsICJFR1AwNiI6ICJhYnNlbnQiLAogICAgICAgICJFR1AwOCI6ICJwcmVzZW50IiwgIkVHUDA5IjogInByZXNlbnQifQoKCmRlZiBtYWluKCk6CiAgICBvdXQgPSBbZGljdChmaWxlPWYsIGVnPWVnLCBsaW5lPWxuLCBraW5kPUtJTkQuZ2V0KGVnLCAiPyIpLAogICAgICAgICAgICAgICAgc3RyaWN0PXMsIGxvb3NlPWwsIHdoeT13KSBmb3IgZiwgZWcsIGxuLCBzLCBsLCB3IGluIFJPV1NdCiAgICBwID0gcGF0aGxpYi5QYXRoKF9fZmlsZV9fKS53aXRoX25hbWUoImxhYmVsczEzMy5qc29uIikKICAgIHAud3JpdGVfdGV4dChqc29uLmR1bXBzKG91dCwgaW5kZW50PTEsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCiAgICBuID0gbGVuKG91dCkKICAgIHN0ID0gc3VtKHJbInN0cmljdCJdIGZvciByIGluIG91dCkKICAgIGxvID0gc3VtKHJbImxvb3NlIl0gZm9yIHIgaW4gb3V0KQogICAgcHJpbnQoZiJmaW5kaW5ncyB7bn0gICBzdHJpY3QgVFAge3N0fSA9IHtzdC9uOi4xJX0gICAiCiAgICAgICAgICBmImxvb3NlIFRQIHtsb30gPSB7bG8vbjouMSV9IikKICAgIHByaW50KCkKICAgIHByaW50KGYieydraW5kJzo5c30geyduJzo+M3N9IHsnc3RyaWN0VFAnOj45c30geydyYXRlJzo+N3N9IikKICAgIGZvciBrIGluICgicHJlc2VudCIsICJhYnNlbnQiKToKICAgICAgICBzdWIgPSBbciBmb3IgciBpbiBvdXQgaWYgclsia2luZCJdID09IGtdCiAgICAgICAgdCA9IHN1bShyWyJzdHJpY3QiXSBmb3IgciBpbiBzdWIpCiAgICAgICAgcHJpbnQoZiJ7azo5c30ge2xlbihzdWIpOjNkfSB7dDo5ZH0ge3QvbWF4KGxlbihzdWIpLDEpOjcuMSV9IikKICAgIHByaW50KCkKICAgIHByaW50KCItLS0gc3RyaWN0IEZQIGFtb25nIFBSRVNFTlQgcnVsZXMgKHJlYWwsIGZpeGFibGUpIC0tLSIpCiAgICBmb3IgciBpbiBvdXQ6CiAgICAgICAgaWYgclsia2luZCJdID09ICJwcmVzZW50IiBhbmQgclsic3RyaWN0Il0gPT0gMDoKICAgICAgICAgICAgcHJpbnQoZiIgIHtyWydlZyddOjZzfSBMe3JbJ2xpbmUnXTo8NX0ge3JbJ3doeSddWzo2Nl19IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""Strict / loose labels for the 24 real findings, exp133.
+
+Rule applied (same as exp131, so the numbers are comparable):
+  strict  would a reviewer opening EXACTLY that line accept that this code
+          has the defect the rule names?  Doubt -> FP.
+  loose   does the rule's claim hold somewhere in the file? (The standard
+          that let v0.3.0 ship.)
+
+kind is the rule's own declaration from evalguard/spec.py:
+  present  the accused thing exists  -> a line can show it
+  absent   the accused thing is MISSING -> no line can show an absence
+
+That last distinction is the point of this file. Scoring an absent rule
+with the strict standard is not a harsh test, it is an impossible one.
+"""
+import json
+import pathlib
+
+# (file, eg, line, strict, loose, why)
+ROWS = [
+    ("EleutherAI__lm-evaluation-harness__lm_eval_evaluator.py", "EG002", 613,
+     0, 1, "loop header over acc; the absence of a baseline is not visible "
+           "on any line"),
+    ("UKGovernmentBEIS__inspect_ai__examples_scorer.py", "EGP06", 70,
+     0, 1, "`success, _ = run()` is not a metric report; also an examples/ file"),
+    ("UKGovernmentBEIS__inspect_ai__examples_scorer.py", "EGP06", 64,
+     0, 1, "`return score` - examples file, no spread anywhere (true) but the "
+           "line shows nothing"),
+    ("allenai__olmes__oe_eval_run_eval.py", "EG011", 715,
+     1, 1, "pinned to the actual `continue`; the loop does skip and does "
+           "aggregate"),
+    ("allenai__olmes__oe_eval_run_eval.py", "EG011", 860,
+     1, 1, "`continue` inside the prediction loop"),
+    ("allenai__olmes__oe_eval_run_eval.py", "EGP06", 1044,
+     0, 1, "loading a score, not reporting one"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EG005", 43,
+     1, 1, "`count / len(samples)` - len can be 0"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EG005", 78,
+     0, 0, "denominator is a sum of exp(); strictly positive unless empty"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EG005", 119,
+     1, 1, "`total_brier_score / count` - count can be 0"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EG005", 244,
+     1, 1, "`weighted_log_prob / len(samples)`"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EG005", 264,
+     1, 1, "`weighted_prob / len(samples)`"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EG012", 198,
+     0, 1, "assignment to bucket_accuracy; no positive control is an absence"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EGP08", 465,
+     0, 1, "an assert, but the line does not show it only guards success"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EGP09", 313,
+     0, 1, "`all([sum(...) == ...])` is not the collapse to a mean"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EGP09", 321,
+     0, 1, "computes f1, does not collapse a per-sample list to a mean"),
+    ("google__BIG-bench__bigbench_api_task_metrics.py", "EGP09", 417,
+     1, 1, "`results['bleurt'] = np.mean(results_list)` - the collapse itself"),
+    ("google__BIG-bench__bigbench_evaluate_task.py", "EGP06", 253,
+     0, 1, "ScoreData construction, not a reported metric"),
+    ("openai__simple-evals__drop_eval.py", "EG012", 129,
+     0, 1, "f1 with a zero guard; positive control is an absence"),
+    ("openai__simple-evals__drop_eval.py", "EGP06", 106,
+     0, 1, "np.zeros allocation"),
+    ("openai__simple-evals__drop_eval.py", "EGP09", 170,
+     1, 1, "`f1 = np.mean(f1_per_bag)` - the collapse itself"),
+    ("stanford-crfm__helm__scripts_heim_human_eval.py", "EG011", 190,
+     1, 1, "`continue` skipping non-Batch csv files"),
+    ("stanford-crfm__helm__scripts_heim_human_eval.py", "EG016", 275,
+     0, 0, "MISLABELLED: the rule fired on the missing TIMESTAMP, but its "
+           "title accuses a missing REACHABILITY re-test -- and the next "
+           "line is `if response.status_code != 200: raise`, so reachability "
+           "IS tested. Two trigger conditions share a title naming one."),
+    ("stanford-crfm__helm__scripts_heim_human_eval.py", "EGP06", 213,
+     0, 1, "`correct_answer = choice` - unrelated assignment"),
+    ("stanford-crfm__helm__scripts_heim_human_eval.py", "EGP09", 235,
+     1, 1, "`statistics.fmean(...)` over human annotations - the collapse"),
+]
+
+KIND = {"EG002": "absent", "EG005": "present", "EG011": "present",
+        "EG012": "absent", "EG016": "present", "EGP06": "absent",
+        "EGP08": "present", "EGP09": "present"}
+
+
+def main():
+    out = [dict(file=f, eg=eg, line=ln, kind=KIND.get(eg, "?"),
+                strict=s, loose=l, why=w) for f, eg, ln, s, l, w in ROWS]
+    p = pathlib.Path(__file__).with_name("labels133.json")
+    p.write_text(json.dumps(out, indent=1, ensure_ascii=False))
+    n = len(out)
+    st = sum(r["strict"] for r in out)
+    lo = sum(r["loose"] for r in out)
+    print(f"findings {n}   strict TP {st} = {st/n:.1%}   "
+          f"loose TP {lo} = {lo/n:.1%}")
+    print()
+    print(f"{'kind':9s} {'n':>3s} {'strictTP':>9s} {'rate':>7s}")
+    for k in ("present", "absent"):
+        sub = [r for r in out if r["kind"] == k]
+        t = sum(r["strict"] for r in sub)
+        print(f"{k:9s} {len(sub):3d} {t:9d} {t/max(len(sub),1):7.1%}")
+    print()
+    print("--- strict FP among PRESENT rules (real, fixable) ---")
+    for r in out:
+        if r["kind"] == "present" and r["strict"] == 0:
+            print(f"  {r['eg']:6s} L{r['line']:<5} {r['why'][:66]}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,52 @@
-aW1wb3J0IHN0cnVjdCwgZmNudGwsIHN1YnByb2Nlc3MsIHJhbmRvbSwgaGFzaGxpYgpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpGQj0iL2Rldi9mYjAiCiMg5YWI6Zeu6K6+5aSH55yf5a6e5Yeg5L2V77yM5LiN5Yet5Y2w6LGh77yIMTExIOaVmeiure+8iQp3aXRoIG9wZW4oRkIsJ3JiJykgYXMgZjoKICAgIGZpeD1mY250bC5pb2N0bChmLCAweDQ2MDAsIGInXDAnKjY4KQp3LGg9c3RydWN0LnVucGFjaygnPElJJywgZml4Wzg6MTZdKTsgYnBwPXN0cnVjdC51bnBhY2soJzxJJywgZml4WzI0OjI4XSlbMF0KcHJpbnQoZiJmYjAgZ2VvbWV0cnk6IHt3fXh7aH0gYnBwPXticHB9IikKCkNPREU9IiIuam9pbihyYW5kb20uY2hvaWNlKCJBQkNERUZHSEpLTE1OUFFSU1RVVldYWVoyMzQ1Njc4OSIpIGZvciBfIGluIHJhbmdlKDYpKQpST1dTPVsKICgiRU8xMTUgRElHRVNUSVZFIENPREUiLCBDT0RFKSwKICgidjEgY2hhaW4gICAzMCIsICJ1bmlxdWUgIDMgIGR1cCA5MCUiKSwKICgidjIgY2hhaW4gICAgMyIsICJ1bmlxdWUgIDMgIGR1cCAgMCUiKSwKICgidjEgZW5lcmd5IDI1MCIsICJ2MiBlbmVyZ3kgNjMuOCIpLAogKCJ2MSBwZXJwZXR1dW0iLCAiMCAtPiAyMDAgZmVlZDIwIiksCiAoInYyIHJlYWwgbWV0YSIsICIxMDAgLT4gNDEuNiIpLAogKCJidWcxIG5vIGNvc3QiLCAiYnVnMiBtZXRhIHRyYXNoZWQiKSwKICgiYnVnMyBkdXBjaGFpbiIsICJidWc0IG5vIEVOIHNwbGl0IiksCl0KaW1nPUltYWdlLm5ldygiUkdCQSIsKHcsaCksKDI1NSwyNTUsMjU1LDI1NSkpCmQ9SW1hZ2VEcmF3LkRyYXcoaW1nKQp0cnk6IEZPTlQ9SW1hZ2VGb250LnRydWV0eXBlKCIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIiwyNikKZXhjZXB0OiBGT05UPUltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQp5PTQwCmZvciBhLGIgaW4gUk9XUzoKICAgIGQudGV4dCgoNDAseSksZiJ7YX0gICB7Yn0iLGZpbGw9KDAsMCwwLDI1NSksZm9udD1GT05UKTsgeSs9NTIKZC5yZWN0YW5nbGUoWzMwLDI1LHctMzAseSsxNV0sb3V0bGluZT0oMjAwLDAsMCwyNTUpLHdpZHRoPTQpCmltZy5zYXZlKCJyZW5kZXJfY2hlY2sucG5nIikKCiMgMzJicHAgLT4gUkdCQe+8iDExMSDmlZnorq3vvJpmYjAg5pivIFJHQkEg5LiN5pivIFJHQu+8iQpyZ2JhPWltZy5jb252ZXJ0KCJSR0JBIikudG9ieXRlcygpCm5lZWQ9dypoKihicHAvLzgpCnByaW50KGYiYnl0ZXM6IGhhdmU9e2xlbihyZ2JhKX0gbmVlZD17bmVlZH0iKQphc3NlcnQgbGVuKHJnYmEpPT1uZWVkLCAi5bC65a+45LiN56ym77yM5Yir56Gs5YaZIgp3aXRoIG9wZW4oRkIsJ3diJykgYXMgZjogZi53cml0ZShyZ2JhKQoKIyDnnJ/lrp7ph4fpm4YKc3VicHJvY2Vzcy5ydW4oWyJweXRob24zIiwiLWMiLCIiIgpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKaW1wb3J0IHN0cnVjdCxmY250bApGQj0nL2Rldi9mYjAnCndpdGggb3BlbihGQiwncmInKSBhcyBmOgogICAgZml4PWZjbnRsLmlvY3RsKGYsMHg0NjAwLGInXFwwJyo2OCkKICAgIHcsaD1zdHJ1Y3QudW5wYWNrKCc8SUknLGZpeFs4OjE2XSk7IGJwcD1zdHJ1Y3QudW5wYWNrKCc8SScsZml4WzI0OjI4XSlbMF0KICAgIGYuc2VlaygwKTsgcmF3PWYucmVhZCh3KmgqKGJwcC8vOCkpCmltPUltYWdlLmZyb21ieXRlcygnUkdCQScsKHcsaCkscmF3KS5jb252ZXJ0KCdSR0InKQppbS5zYXZlKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMTVfZGlnZXN0aXZlL2NhcHR1cmVkLnBuZycpCnByaW50KCdjYXB0dXJlZCBieXRlcz0nLGxlbihyYXcpKQoiIiJdLGNoZWNrPVRydWUpCnByaW50KCJDT0RFID0iLENPREUpCg==
+import struct, fcntl, subprocess, random, hashlib
+from PIL import Image, ImageDraw, ImageFont
+
+FB="/dev/fb0"
+# 先问设备真实几何，不凭印象（111 教训）
+with open(FB,'rb') as f:
+    fix=fcntl.ioctl(f, 0x4600, b'\0'*68)
+w,h=struct.unpack('<II', fix[8:16]); bpp=struct.unpack('<I', fix[24:28])[0]
+print(f"fb0 geometry: {w}x{h} bpp={bpp}")
+
+CODE="".join(random.choice("ABCDEFGHJKLMNPQRSTUVWXYZ23456789") for _ in range(6))
+ROWS=[
+ ("EO115 DIGESTIVE CODE", CODE),
+ ("v1 chain   30", "unique  3  dup 90%"),
+ ("v2 chain    3", "unique  3  dup  0%"),
+ ("v1 energy 250", "v2 energy 63.8"),
+ ("v1 perpetuum", "0 -> 200 feed20"),
+ ("v2 real meta", "100 -> 41.6"),
+ ("bug1 no cost", "bug2 meta trashed"),
+ ("bug3 dupchain", "bug4 no EN split"),
+]
+img=Image.new("RGBA",(w,h),(255,255,255,255))
+d=ImageDraw.Draw(img)
+try: FONT=ImageFont.truetype("/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",26)
+except: FONT=ImageFont.load_default()
+y=40
+for a,b in ROWS:
+    d.text((40,y),f"{a}   {b}",fill=(0,0,0,255),font=FONT); y+=52
+d.rectangle([30,25,w-30,y+15],outline=(200,0,0,255),width=4)
+img.save("render_check.png")
+
+# 32bpp -> RGBA（111 教训：fb0 是 RGBA 不是 RGB）
+rgba=img.convert("RGBA").tobytes()
+need=w*h*(bpp//8)
+print(f"bytes: have={len(rgba)} need={need}")
+assert len(rgba)==need, "尺寸不符，别硬写"
+with open(FB,'wb') as f: f.write(rgba)
+
+# 真实采集
+subprocess.run(["python3","-c","""
+from PIL import Image
+import struct,fcntl
+FB='/dev/fb0'
+with open(FB,'rb') as f:
+    fix=fcntl.ioctl(f,0x4600,b'\\0'*68)
+    w,h=struct.unpack('<II',fix[8:16]); bpp=struct.unpack('<I',fix[24:28])[0]
+    f.seek(0); raw=f.read(w*h*(bpp//8))
+im=Image.frombytes('RGBA',(w,h),raw).convert('RGB')
+im.save('/data/workspace/luoshen-o1/experiments/exp115_digestive/captured.png')
+print('captured bytes=',len(raw))
+"""],check=True)
+print("CODE =",CODE)

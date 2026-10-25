@@ -1,1 +1,157 @@
-IyAxMTEgwrcg55yf5a6e5ZCO56uv77ya5oqKIHByb3ZlbmFuY2Ug5LuOIFNJTVVMQVRFRCDnv7vmiJAgUkVBTAoKPiDkuIrkuIDku70gYGVvX2lvX21hdHJpeC5weWAg6YeMIDkg5p2h6YCa6YGT55qEIHByb3ZlbmFuY2Ug5YWo5pivIGBTSU1VTEFURURg44CCCj4g5o6l5Y+j5b2i54q25a+577yM5L+h5Y+35piv5oiR55Sf5oiQ55qE44CC5pys6L2u5Y+q5YGa5LiA5Lu25LqL77yaKirmiormspnnm5LlhoXnnJ/lrp7lj6/ovr7nmoTpgJrpgZPmjaLmiJDnnJ/nmoTvvIzmjaLkuI3kuobnmoTor7TmuIXkuLrku4DkuYjjgIIqKgoK5qCh6aqM56CBIGBFN0I2RDZgIMK3IOWTiOW4jOmTvuWktCBgMGUzMDI0ZjNgIMK3IDgg5p2h5L+h5Y+35YWo6YOoIFJFQUwKCi0tLQoKIyMg5LiA44CB5qC45b+D5Y6f5YiZCgo+ICoqcHJvdmVuYW5jZSDnlLHjgIzns7vnu5/osIPnlKjmmK/lkKbnnJ/nmoTmiJDlip/kuobjgI3lhrPlrprvvIzkuI3mmK/nlLHms6jph4rph4zlhpnku4DkuYjlhrPlrprjgIIqKgo+IOaJk+W8gOWksei0pSDihpIgYFVOQVZBSUxBQkxFYCDlubblpoLlrp7kuIrmiqUgZXJybm/vvIwqKue7neS4jemdmem7mOmZjee6p+aIkCBTSU1VTEFURUQqKuOAggoK6L+Z5p2h5YaZ6L+bIGByZWFsX2JhY2tlbmRzLnB5YCDnmoTmr4/kuKrmnoTpgKDlh73mlbDvvJrlhYggYG9wZW5gL2Bpb2N0bGDvvIzmiJDlip/miY3nva4gYFJFQUxg44CCCgotLS0KCiMjIOS6jOOAgeaMgui9vee7k+aenAoKfCDpgJrpgZMgfCDorr7lpIcgfCBwcm92ZW5hbmNlIHwg6K+B5o2uIHwKfC0tLXwtLS18LS0tfC0tLXwKfCDop4bop4kgfCBgL2Rldi9mYjBgIHwgKipSRUFMKiogfCBpb2N0bCBgRkJJT0dFVF9WU0NSRUVOSU5GT2Ag4oaSIGAxMDI0w5c3NjjDlzMyYnBwYCB8Cnwg5pWw5a2X6Kem6KeJIHwgYC9kZXYvaW5wdXQvZXZlbnQwYCB8ICoqUkVBTCoqIHwg5YaF5qC4IGV2ZGV2IOa1geWPr+ivuyB8Cnwg5pWI5bqU5ZmoIHwgYC9kZXYvdWlucHV0YCB8ICoqUkVBTCoqIHwg5YaF5qC45rOo5YaMIOKGkiBgL2Rldi9pbnB1dC9ldmVudDFgIHwKfCDmnKzkvZPop4kgfCBgL3Byb2NgIHwgKipSRUFMKiogfCBsb2FkYXZnIC8gbWVtaW5mbyAvIGNsb2NrIHwKCuWGheaguOiupOi0pueahOWOn+Wni+i+k+WHuu+8mgoKYGBgCkk6IEJ1cz0wMDAzIFZlbmRvcj0wMDAxIFByb2R1Y3Q9MDExMCBWZXJzaW9uPTAwMDEKTjogTmFtZT0ibHVvc2hlbi1lby1oaWQiCkg6IEhhbmRsZXJzPXN5c3JxIGtiZCBtb3VzZTAgZXZlbnQxCkI6IFJFTD0zCmBgYAoKKipgSGFuZGxlcnNgIOmHjOW4piBga2JkYCDlkowgYG1vdXNlMGAqKiDigJTigJQg5LiN5piv5oiR5aOw5piO5a6D5piv6ZSu55uY6byg5qCH77yM5piv5YaF5qC46L+Z5LmI5YiG57G75a6D44CCCgotLS0KCiMjIOS4ieOAgeS4iemhuemqjOivge+8iOavj+mhuemDveW/hemhu+iDveWQjOaXtuS6p+eUn+ecn+WSjOWBh++8iQoKIyMjIEEgwrcg5Y+v6K+B5Lyq5oCn77ya5LiJ5oCB5Lik5Lik5Y+v5YiG6L6oCgp8IOeKtuaAgSB8IG1lYW5fbHVtYSB8IGVudHJvcHkgfCBlZGdlIHwgZGV2X3JhdGlvIHwgaW5rIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8IGJsYW5r77yI5YWo6buR77yJIHwgMC4wMDAgfCAwLjAwMDAgfCAwLjAwMDAwMCB8IDAuMDAwMDAwIHwgMS4wMDAwIHwKfCB3aGl0Ze+8iOWFqOeZve+8iSB8IDI1NS4wMDAgfCAwLjAwMDAgfCAwLjAwMDAwMCB8IDAuMDAwMDAwIHwgMC4wMDAwIHwKfCBjb250ZW5077yI5riy5p+T5YaF5a6577yJIHwgMjUxLjQxNyB8IDAuMjE5NSB8IDAuMDExNDIyIHwgMC4wMTg3NjQgfCAwLjAxODggfAoKYGBgCuWPr+WIhiBibGFua3x3aGl0ZSAgICAtPiBtZWFuX2x1bWEK5Y+v5YiGIHdoaXRlfGNvbnRlbnQgIC0+IGVudHJvcHlfYml0cwrlj6/liIYgYmxhbmt8Y29udGVudCAgLT4gbWVhbl9sdW1hCkEg6YCa6L+HID0gVHJ1ZQpgYGAKCiMjIyBCIMK3IOWGheaguOmXreeOr++8muS4i+WPkSDihpIg6K+75ZueCgpgYGAK6Z2Z6buY5a+554WnICjkuI3liqgpICAgICAgICAgIDog6K+75YiwIDAg5Liq5LqL5Lu2ICAgW+W6lD0wXQrkuIvlj5EgbW92ZSgrMTQwLC03MCkgICAgICAtPiDor7vlm54gcmVsPTIga2V5PTAgIGxhdD0wLjEybXMK5LiL5Y+RIGNsaWNrICAgICAgICAgICAgICAgLT4g6K+75ZueIHJlbD0wIGtleT0yICBsYXQ9MC4wNm1zCuS4i+WPkSBtb3ZlKC05MCwrNDUpICAgICAgIC0+IOivu+WbniByZWw9MiBrZXk9MCAgbGF0PTAuMDZtcwpCIOmAmui/hyA9IFRydWUKYGBgCgoqKumdmem7mOaXtuivu+WbniAw77yM5Yqo5L2c5ZCO55yf5a6e6K+75ZueIHJlbD00IC8ga2V5PTLjgIIqKiDov5nmmK/mlYjlupTlmajihpLmhJ/lj5flmajlnKjlhoXmoLjph4znmoTnnJ/pl63njq/vvIzkuI3mmK/miJHmiorlj5jph4/kvKDnu5noh6rlt7HjgIIKCiMjIyBDIMK3IOacrOS9k+iniemaj+aXtumXtOWPmOWMlgoKYGBgCmNwdV9zIDAuNDIzMiAtPiAwLjQ1MDkgKM6UPSswLjAyNzcpCndhbGwgIC4uLjI5OC4wMTUgLT4gLi4uMjk4LjY0NCAozpQ9KzAuNjI5cykKQyDpgJrov4cgPSBUcnVlCmBgYAoKIyMjIOiHquajgOWbnuivuwoK57uT5p6c5riy5p+T5LiK5bGPIOKGkiDku44gYC9kZXYvZmIwYCDnnJ/lrp7ph4fpm4Yg4oaSIE9DUu+8mgoKYGBgCkVPIFJFQUwgQkFDS0VORCBFN0I2RDYKQSBmYWxzaWZpYWJsZSBUcnVlIMK3IEIga2VybmVsIGxvb3AgVHJ1ZSDCtyBDIHByb3ByaW9jZXB0IFRydWUKc2lnbmFscyA4IFJFQUwgOCDCtyBjaGFpbiAwZTMwMjRmMyDCtyByZWwgNCBrZXkgMgpgYGAKCioq5qCh6aqM56CBIGBFN0I2RDZgIOS4jui/kOihjOaXtuS4gOiHtOOAgioqCgotLS0KCiMjIOWbm+OAgeacrOi9ruaKk+WIsOeahOmUmeivrwoKIyMjIDEuIGB1aW5wdXRfdXNlcl9kZXZgIOe7k+aehOS9k+aJk+WMhemUmeS6hiDihpIgYEVJTlZBTCgyMilgCgrmiJHmjIkgMTEyIOWtl+iKguaJk+WMheOAguecn+WunuW4g+WxgOaYryAqKjExMTYg5a2X6IqCKirvvJoKCmBgYApjaGFyIG5hbWVbODBdIHwgc3RydWN0IGlucHV0X2lkICg0w5dfX3UxNikgfCBfX3UzMiBmZl9lZmZlY3RzX21heAp8IF9fdTMyIGFic21heFs2NF0gfCBhYnNtaW5bNjRdIHwgYWJzZnV6els2NF0gfCBhYnNmbGF0WzY0XQpgYGAKCuWJjSA4IOasoeaIkeaAgOeWkeeahOaYr+adg+mZkOOAgeaYryBgZHJ5X3J1bmDjgIHmmK/orr7lpIflkI3vvIwqKuayoeacieS4gOasoeaAgOeWkee7k+aehOS9k+WwuuWvuCoq44CCCuS/ruato+WQjuWGheaguOeri+WNs+aOpeWPl+OAggoKPiDmlZnorq3vvJrlhYjnnIsgc2NoZW1hIC8g57uT5p6E5L2T5a6a5LmJ77yM5YaN6K+V5Y+C5pWw44CC6K+V5Yiw5a+55Li65q2i5LiN5piv6LCD6K+V44CCCgojIyMgMi4g5Yik5o2u6YCJ6ZSZ54m55b6BIOKGkiDlt67ngrnmiornnJ/pgJrpgZPliKTmiJDkuI3lj6/or4HkvKoKCummlueJiCBgb2tfQWAg6KaB5rGCIGBjb250ZW50LmVudHJvcHkgPiBibGFuay5lbnRyb3B5ICsgMS4wYOOAguWunua1i++8mgoKYGBgCmJsYW5rIGVudHJvcHkgPSAwLjAwMDAKd2hpdGUgZW50cm9weSA9IDAuMDAwMCAgICAg4oaQIOeGteWMuuWIhuS4jeS6hum7keWxj+WSjOeZveWxj++8gQpjb250ZW50ICAgICAgID0gMC4yMTk4ICAgICDihpAg55m95bqV6buR5a2X5Y+q5Y2gIDIlIOWDj+e0oArihpIgQSDliKQgRmFsc2UKYGBgCgoqKumAmumBk+WFtuWunuWIhui+qOS6hioq77yIZWRnZSAwLjAwMDAwMCDihpIgMC4wMTE0MjLvvInvvIzmmK/miJHmi7/kuIDkuKrkvJrppbHlkoznmoTnibnlvoHljrvliKTlroPjgIIK5pS55oiQ44CM5LiJ5oCB5Lik5Lik6Iez5bCR6KKr5LiA5Liq54m55b6B5YiG6L6o44CN5ZCO6YCa6L+H44CCCgo+ICoq5Y2V54m55b6B6aWx5ZKMIOKJoCDpgJrpgZPkuI3lj6/or4HkvKrjgIIqKiDov5nmmK/liKTmja7moLggIzQ0M++8iOi/lOWbnuepui/ppbHlkozkuI3nrYnkuo7msqHmnInvvInnmoTlj4jkuIDmrKHlpI3lj5HjgIIKCiMjIyAzLiBjb25maWRlbmNlIOivreS5iea3t+a3hgoK5Y6f5Luj56CBIGBjb25mID0gZW50cm9weS84YCDigJTigJQg5oqK44CM6K+75Yiw5LqG5aSa5bCR5L+h5oGv44CN5b2T5oiQ5LqG44CM5oiR5pyJ5aSa5L+h6L+Z5Liq6K+75pWw44CN44CCCuWQjuaenO+8mueZveW6lem7keWtl+iiq+WIpCBgY29uZj0wLjAyOGDvvIwqKuaKiiLlhoXlrrnnqIDnlo8i6K+v6K+75oiQIuivu+aVsOS4jeWPr+S/oSIqKuOAggoK5bey5pS577yaYGNvbmZgID0g6K6+5aSH6K+75pWw5Y+v5L+h5bqm77yI55yf5a6e6K6+5aSH6K+75oiQ5YqfID0gMS4w77yJ77yM5L+h5oGv6YeP5pS+6L+bIHBheWxvYWTjgIIKCiMjIyA0LiBgdGltZS50aW1lcygpYCDlnKggUHl0aG9uIDMuMTMg5bey56e76ZmkIOKGkiDmlLkgYHRpbWUucHJvY2Vzc190aW1lKClgCgotLS0KCiMjIOS6lOOAgei+ueeVjO+8iOS4jeaJqeWkp+S4u+W8oO+8iQoKKirku43nhLYgU0lNVUxBVEVE77yM5LiU5LiN5YaS5YWF55yf77yaKioK5rex5bqm55u45py6IC8g6Kem6KeJ55S15a2Q55qu6IKkIC8g6bqm5YWL6aOO6Zi15YiXIC8g5py65qKw6IeCIC8gRUVHIC8gRU1HIOKAlOKAlCDmspnnm5Lph4zmsqHmnInov5nkupvnoazku7bvvIzmjqXlj6PlvaLnirbkv53nlZnvvIzkv6Hlj7fku43mmK/lkIjmiJDnmoTjgIIKCioqYC9kZXYvZmIwYCDnmoTor5rlrp7nlYzlrprvvJoqKgrov5nmmK8qKuecn+WunuiuvuWkhyBJL08qKu+8iOecnyBpb2N0bOOAgeecnyByZWFkIDMsMTQ1LDcyOCDlrZfoioLvvInvvIzkvYblroPor7vnmoTmmK8qKuaYvuekuui+k+WHuioq77yM5LiN5piv5aSW6YOo5Zy65pmv44CCCuWug+aYr+Wxj+W5leaEn+efpe+8jOS4jeaYr+aRhOWDj+WktOOAgnByb3ZlbmFuY2Ug5qCHIFJFQUzvvIxzY29wZSDmmK8gYGRpc3BsYXktb3V0cHV0YOOAggoKKipgY29udGVudGAg54q25oCB5Y+q5pyJIDEuODglIOeahOWDj+e0oOWBj+emu+S4u+iJsumYtioqIOKAlOKAlCDliKTliKvmmK/mnInmlYjnmoTvvIzkvYbkvZnph4/lvojoloTjgILnnJ/mnLrkuIropoHnlKjnnJ/lrp7lnLrmma/ph43mlrDmoIflrprpmIjlgLzjgIIKCi0tLQoKIyMg5YWt44CB5Yik5o2uCgrmlrDlop7liKTmja7moLjnrKwgNDQ44oCTNDUzIOadoe+8mgoKLSAqKiM0NDgqKiBwcm92ZW5hbmNlIOeUseezu+e7n+iwg+eUqOe7k+aenOWGs+Wumu+8jOS4jeeUseazqOmHiuWGs+WumgotICoqIzQ0OSoqIOe7k+aehOS9ky/ljY/orq7lsLrlr7jplJnor6/kvJjlhYjkuo7lj4LmlbDor5XplJkKLSAqKiM0NTAqKiDljZXnibnlvoHppbHlkozkuI3nrYnkuo7pgJrpgZPkuI3lj6/or4HkvKrvvIzpnIDlpJrnibnlvoHkuKTkuKTliIbovqgKLSAqKiM0NTEqKiBjb25maWRlbmNlIOivreS5iemhu+WMuuWIhuOAjOivu+aVsOWPr+S/oeW6puOAjeS4juOAjOS/oeaBr+mHj+OAjQotICoqIzQ1MioqIOefreivu++8iHNob3J0IHJlYWTvvInkuI3nrYnkuo7miJDlip8KLSAqKiM0NTMqKiBFQUdBSU4g5piv44CM5pqC5peg5pWw5o2u44CN77yM5LiN5piv5pWF6Zqc77yM5LiN5b6X6ZmN57qn5Li6IFVOQVZBSUxBQkxFCg==
+# 111 · 真实后端：把 provenance 从 SIMULATED 翻成 REAL
+
+> 上一份 `eo_io_matrix.py` 里 9 条通道的 provenance 全是 `SIMULATED`。
+> 接口形状对，信号是我生成的。本轮只做一件事：**把沙盒内真实可达的通道换成真的，换不了的说清为什么。**
+
+校验码 `E7B6D6` · 哈希链头 `0e3024f3` · 8 条信号全部 REAL
+
+---
+
+## 一、核心原则
+
+> **provenance 由「系统调用是否真的成功了」决定，不是由注释里写什么决定。**
+> 打开失败 → `UNAVAILABLE` 并如实上报 errno，**绝不静默降级成 SIMULATED**。
+
+这条写进 `real_backends.py` 的每个构造函数：先 `open`/`ioctl`，成功才置 `REAL`。
+
+---
+
+## 二、挂载结果
+
+| 通道 | 设备 | provenance | 证据 |
+|---|---|---|---|
+| 视觉 | `/dev/fb0` | **REAL** | ioctl `FBIOGET_VSCREENINFO` → `1024×768×32bpp` |
+| 数字触觉 | `/dev/input/event0` | **REAL** | 内核 evdev 流可读 |
+| 效应器 | `/dev/uinput` | **REAL** | 内核注册 → `/dev/input/event1` |
+| 本体觉 | `/proc` | **REAL** | loadavg / meminfo / clock |
+
+内核认账的原始输出：
+
+```
+I: Bus=0003 Vendor=0001 Product=0110 Version=0001
+N: Name="luoshen-eo-hid"
+H: Handlers=sysrq kbd mouse0 event1
+B: REL=3
+```
+
+**`Handlers` 里带 `kbd` 和 `mouse0`** —— 不是我声明它是键盘鼠标，是内核这么分类它。
+
+---
+
+## 三、三项验证（每项都必须能同时产生真和假）
+
+### A · 可证伪性：三态两两可分辨
+
+| 状态 | mean_luma | entropy | edge | dev_ratio | ink |
+|---|---|---|---|---|---|
+| blank（全黑） | 0.000 | 0.0000 | 0.000000 | 0.000000 | 1.0000 |
+| white（全白） | 255.000 | 0.0000 | 0.000000 | 0.000000 | 0.0000 |
+| content（渲染内容） | 251.417 | 0.2195 | 0.011422 | 0.018764 | 0.0188 |
+
+```
+可分 blank|white    -> mean_luma
+可分 white|content  -> entropy_bits
+可分 blank|content  -> mean_luma
+A 通过 = True
+```
+
+### B · 内核闭环：下发 → 读回
+
+```
+静默对照 (不动)          : 读到 0 个事件   [应=0]
+下发 move(+140,-70)      -> 读回 rel=2 key=0  lat=0.12ms
+下发 click               -> 读回 rel=0 key=2  lat=0.06ms
+下发 move(-90,+45)       -> 读回 rel=2 key=0  lat=0.06ms
+B 通过 = True
+```
+
+**静默时读回 0，动作后真实读回 rel=4 / key=2。** 这是效应器→感受器在内核里的真闭环，不是我把变量传给自己。
+
+### C · 本体觉随时间变化
+
+```
+cpu_s 0.4232 -> 0.4509 (Δ=+0.0277)
+wall  ...298.015 -> ...298.644 (Δ=+0.629s)
+C 通过 = True
+```
+
+### 自检回读
+
+结果渲染上屏 → 从 `/dev/fb0` 真实采集 → OCR：
+
+```
+EO REAL BACKEND E7B6D6
+A falsifiable True · B kernel loop True · C propriocept True
+signals 8 REAL 8 · chain 0e3024f3 · rel 4 key 2
+```
+
+**校验码 `E7B6D6` 与运行时一致。**
+
+---
+
+## 四、本轮抓到的错误
+
+### 1. `uinput_user_dev` 结构体打包错了 → `EINVAL(22)`
+
+我按 112 字节打包。真实布局是 **1116 字节**：
+
+```
+char name[80] | struct input_id (4×__u16) | __u32 ff_effects_max
+| __u32 absmax[64] | absmin[64] | absfuzz[64] | absflat[64]
+```
+
+前 8 次我怀疑的是权限、是 `dry_run`、是设备名，**没有一次怀疑结构体尺寸**。
+修正后内核立即接受。
+
+> 教训：先看 schema / 结构体定义，再试参数。试到对为止不是调试。
+
+### 2. 判据选错特征 → 差点把真通道判成不可证伪
+
+首版 `ok_A` 要求 `content.entropy > blank.entropy + 1.0`。实测：
+
+```
+blank entropy = 0.0000
+white entropy = 0.0000     ← 熵区分不了黑屏和白屏！
+content       = 0.2198     ← 白底黑字只占 2% 像素
+→ A 判 False
+```
+
+**通道其实分辨了**（edge 0.000000 → 0.011422），是我拿一个会饱和的特征去判它。
+改成「三态两两至少被一个特征分辨」后通过。
+
+> **单特征饱和 ≠ 通道不可证伪。** 这是判据核 #443（返回空/饱和不等于没有）的又一次复发。
+
+### 3. confidence 语义混淆
+
+原代码 `conf = entropy/8` —— 把「读到了多少信息」当成了「我有多信这个读数」。
+后果：白底黑字被判 `conf=0.028`，**把"内容稀疏"误读成"读数不可信"**。
+
+已改：`conf` = 设备读数可信度（真实设备读成功 = 1.0），信息量放进 payload。
+
+### 4. `time.times()` 在 Python 3.13 已移除 → 改 `time.process_time()`
+
+---
+
+## 五、边界（不扩大主张）
+
+**仍然 SIMULATED，且不冒充真：**
+深度相机 / 触觉电子皮肤 / 麦克风阵列 / 机械臂 / EEG / EMG —— 沙盒里没有这些硬件，接口形状保留，信号仍是合成的。
+
+**`/dev/fb0` 的诚实界定：**
+这是**真实设备 I/O**（真 ioctl、真 read 3,145,728 字节），但它读的是**显示输出**，不是外部场景。
+它是屏幕感知，不是摄像头。provenance 标 REAL，scope 是 `display-output`。
+
+**`content` 状态只有 1.88% 的像素偏离主色阶** —— 判别是有效的，但余量很薄。真机上要用真实场景重新标定阈值。
+
+---
+
+## 六、判据
+
+新增判据核第 448–453 条：
+
+- **#448** provenance 由系统调用结果决定，不由注释决定
+- **#449** 结构体/协议尺寸错误优先于参数试错
+- **#450** 单特征饱和不等于通道不可证伪，需多特征两两分辨
+- **#451** confidence 语义须区分「读数可信度」与「信息量」
+- **#452** 短读（short read）不等于成功
+- **#453** EAGAIN 是「暂无数据」，不是故障，不得降级为 UNAVAILABLE

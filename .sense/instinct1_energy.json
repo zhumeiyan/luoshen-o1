@@ -1,1 +1,83 @@
-ewogIkEiOiB7CiAgImFsaXZlIjogMjUsCiAgIm4iOiAzMiwKICAic3RlcHMiOiA1ODYuODEyNSwKICAiRSI6IDAuNzAwNzU0Mjk0MzkyNzI1MywKICAiY2FwIjogMC4yOTUzNjAwMjEyMzYwMTI4NSwKICAiYmFzYWwiOiAwLjAwNCwKICAidGllcnMiOiBbXQogfSwKICJCIjogewogICJhbGl2ZSI6IDMxLAogICJuIjogMzIsCiAgInN0ZXBzIjogNTk2LjgxMjUsCiAgIkUiOiAwLjcxMjk2Nzc0OTIyMTk5MzIsCiAgImNhcCI6IDAuMjkyMDg0NTU3MTAwOTUwMTYsCiAgImJhc2FsIjogMC4wMDM0MDAwMDAwMDAwMDAwMDAyLAogICJ0aWVycyI6IFsKICAgIuWBj+S9jiIsCiAgICLlhYXotrMiLAogICAi5Y2x5oClIiwKICAgIumlpemlvyIKICBdCiB9LAogIkMiOiB7CiAgImFsaXZlIjogMjUsCiAgIm4iOiAzMiwKICAic3RlcHMiOiA1ODYuODEyNSwKICAiRSI6IDAuNzAwNzU0Mjk0MzkyNzI1MywKICAiY2FwIjogMC4yOTUzNjAwMjEyMzYwMTI4NSwKICAiYmFzYWwiOiAwLjAwNCwKICAidGllcnMiOiBbCiAgICLlgY/kvY4iLAogICAi5YWF6LazIiwKICAgIuWNseaApSIsCiAgICLppaXppb8iCiAgXQogfSwKICJzaHV0IjogWwogIHsKICAgImJ1ZGdldCI6IDIuMCwKICAgInNodXQiOiAxLAogICAic3RlcHMiOiA1OTUuNzUsCiAgICJvdiI6IDAuMAogIH0sCiAgewogICAiYnVkZ2V0IjogMS4wLAogICAic2h1dCI6IDEsCiAgICJzdGVwcyI6IDU5NS43NSwKICAgIm92IjogMC4wCiAgfSwKICB7CiAgICJidWRnZXQiOiAwLjUsCiAgICJzaHV0IjogMTMsCiAgICJzdGVwcyI6IDM0Ny4wLAogICAib3YiOiAwLjU0MTY2NjY2NjY2NjY2NjYKICB9LAogIHsKICAgImJ1ZGdldCI6IDAuMiwKICAgInNodXQiOiAyNCwKICAgInN0ZXBzIjogNDIuMjkxNjY2NjY2NjY2NjY0LAogICAib3YiOiAxLjAKICB9LAogIHsKICAgImJ1ZGdldCI6IDAuMSwKICAgInNodXQiOiAyNCwKICAgInN0ZXBzIjogMjIuMTI1LAogICAib3YiOiAxLjAKICB9LAogIHsKICAgImJ1ZGdldCI6IDAuMDUsCiAgICJzaHV0IjogMjQsCiAgICJzdGVwcyI6IDEwLjc5MTY2NjY2NjY2NjY2NiwKICAgIm92IjogMS4wCiAgfQogXSwKICJvayI6IHsKICAi4pGgIOmZjee6p+ecn+eUn+aViO+8iGJhc2Fs6KKr6LCD5L2O77yJIjogdHJ1ZSwKICAi4pGhIOecn+i1sOi/h+WkmuS4quaho+S9jSI6IHRydWUsCiAgIuKRoiDorrDotKbnu4QgYmFzYWwg5LiN5Y+Y77yI5a+554Wn5bmy5YeA77yJIjogdHJ1ZSwKICAi4pGjIOmihOeul+i2iue0p+WBnOacuui2iuWkmiI6IHRydWUKIH0KfQ==
+{
+ "A": {
+  "alive": 25,
+  "n": 32,
+  "steps": 586.8125,
+  "E": 0.7007542943927253,
+  "cap": 0.29536002123601285,
+  "basal": 0.004,
+  "tiers": []
+ },
+ "B": {
+  "alive": 31,
+  "n": 32,
+  "steps": 596.8125,
+  "E": 0.7129677492219932,
+  "cap": 0.29208455710095016,
+  "basal": 0.0034000000000000002,
+  "tiers": [
+   "偏低",
+   "充足",
+   "危急",
+   "饥饿"
+  ]
+ },
+ "C": {
+  "alive": 25,
+  "n": 32,
+  "steps": 586.8125,
+  "E": 0.7007542943927253,
+  "cap": 0.29536002123601285,
+  "basal": 0.004,
+  "tiers": [
+   "偏低",
+   "充足",
+   "危急",
+   "饥饿"
+  ]
+ },
+ "shut": [
+  {
+   "budget": 2.0,
+   "shut": 1,
+   "steps": 595.75,
+   "ov": 0.0
+  },
+  {
+   "budget": 1.0,
+   "shut": 1,
+   "steps": 595.75,
+   "ov": 0.0
+  },
+  {
+   "budget": 0.5,
+   "shut": 13,
+   "steps": 347.0,
+   "ov": 0.5416666666666666
+  },
+  {
+   "budget": 0.2,
+   "shut": 24,
+   "steps": 42.291666666666664,
+   "ov": 1.0
+  },
+  {
+   "budget": 0.1,
+   "shut": 24,
+   "steps": 22.125,
+   "ov": 1.0
+  },
+  {
+   "budget": 0.05,
+   "shut": 24,
+   "steps": 10.791666666666666,
+   "ov": 1.0
+  }
+ ],
+ "ok": {
+  "① 降级真生效（basal被调低）": true,
+  "② 真走过多个档位": true,
+  "③ 记账组 basal 不变（对照干净）": true,
+  "④ 预算越紧停机越多": true
+ }
+}

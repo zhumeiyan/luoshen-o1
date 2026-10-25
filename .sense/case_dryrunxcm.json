@@ -1,1 +1,20 @@
-ewogICJjYXNlIjogIkRlZG90QXBpLmdldERyeVJ1blhjbSDlnKjpk77kuI3mlK/mjIEgWGNtUGF5bWVudEFwaSDml7bnm7TmjqXov5Tlm57lpLHotKXvvIzogIwgUEFQSS9QSlMg6YO95pyJIGVtaXR0ZWQtZXZlbnQg5Zue6YCA6ZO+IiwKICAiY2hhbm5lbF9hIjogeyJsYWJlbCI6ICJQQVBJIGdldERyeVJ1blhjbSDnmoTotLnnlKjmnaXmupDot6/lvoTmlbDvvIhYY21QYXltZW50QXBpICsg5LqL5Lu25Zue6YCA6ZO+77yJIiwgInZhbHVlIjogNywgInVuaXQiOiAi5p2hIn0sCiAgImNoYW5uZWxfYiI6IHsibGFiZWwiOiAiREVET1QgZ2V0RHJ5UnVuWGNtIOeahOi0ueeUqOadpea6kOi3r+W+hOaVsCIsICJ2YWx1ZSI6IDAsICJ1bml0IjogIuadoSJ9LAogICJ0b2xlcmFuY2UiOiAwLAogICJub3RlIjogIumAmumBk0Eg6YCQ54K55pWw6L+H77yaZmVlQXNzZXRGZWVFdmVudCAvIE15dGhvc8K3QmFsYW5jZXPCt0lzc3VlZCAvIHByb2Nlc3NlZEFzc2V0c0Ftb3VudCAvIEFzc2V0Q29udmVyc2lvbsK3U3dhcENyZWRpdEV4ZWN1dGVkIC8gQmFsYW5jZXPCt0ZvcmVpZ25Bc3NldHPCt01pbnRlZCAvIHBhbGxldHNXaXRoSXNzdWVkwrdJc3N1ZWQgLyBDdXJyZW5jaWVzwrdUb2tlbnPCt0RlcG9zaXRlZOOAgumAmumBk0Ig5Zyo6L+Z5Lqb5L2N572u5LiK5Li6IDDjgIIiLAogICJldmlkZW5jZSI6IFsKICAgICJQQVBJOiBpZiAodGhpcy5oYXNYY21QYXltZW50QXBpU3VwcG9ydChjaGFpbikgJiYgYXNzZXQpICDigJTigJQg5pyJICYmIGFzc2V0IiwKICAgICJQSlMgOiBpZiAodGhpcy5oYXNYY21QYXltZW50QXBpU3VwcG9ydChjaGFpbikgJiYgYXNzZXQpICDigJTigJQg5pyJICYmIGFzc2V0IiwKICAgICJERURPVDogaWYgKHRoaXMuaGFzWGNtUGF5bWVudEFwaVN1cHBvcnQoY2hhaW4pKSAgICAgICAgICDigJTigJQg5pegICYmIGFzc2V0IiwKICAgICJQQVBJL1BKUyDlnKggWGNtUGF5bWVudEFwaSDkuI3lj6/nlKjmiJbov5Tlm57pnZ4gYmlnaW50IOaXtue7p+e7reS7jiBlbWl0dGVkRXZlbnRzIOaJvui0ueeUqCIsCiAgICAiREVET1Qg55u05o6lIHJldHVybiB7IHN1Y2Nlc3M6ZmFsc2UsIHJlYXNvbjonQ2Fubm90IGRldGVybWluZSBkZXN0aW5hdGlvbiBmZWUuIFhjbVBheW1lbnRBcGkgaXMgbm90IHN1cHBvcnRlZCBieSB0aGlzIGNoYWluJyB9IgogIF0sCiAgInJhbl9yZWFsX3N5c3RlbSI6IGZhbHNlLAogICJkZWNsYXJlZF91bmtub3ducyI6IFsKICAgICLmsqHot5EgZGVkb3Qg5a6i5oi356uv77yM5pyq5aSN546wIiwKICAgICJkZWRvdCDmmK/lkKbmnInmhI/nroDljJbvvIjovoPmlrDnmoTljIXvvInpnIDnu7TmiqTogIXnoa7orqQiLAogICAgIuacquehruiupCBkZWRvdCDmlK/mjIHnmoTpk77ph4zmmK/lkKbmgbDlpb3pg73mlK/mjIEgWGNtUGF5bWVudEFwae+8iOiLpemDveaUr+aMgeWImeivpei3r+W+hOS4jeWPr+i+vu+8iSIKICBdCn0K
+{
+  "case": "DedotApi.getDryRunXcm 在链不支持 XcmPaymentApi 时直接返回失败，而 PAPI/PJS 都有 emitted-event 回退链",
+  "channel_a": {"label": "PAPI getDryRunXcm 的费用来源路径数（XcmPaymentApi + 事件回退链）", "value": 7, "unit": "条"},
+  "channel_b": {"label": "DEDOT getDryRunXcm 的费用来源路径数", "value": 0, "unit": "条"},
+  "tolerance": 0,
+  "note": "通道A 逐点数过：feeAssetFeeEvent / Mythos·Balances·Issued / processedAssetsAmount / AssetConversion·SwapCreditExecuted / Balances·ForeignAssets·Minted / palletsWithIssued·Issued / Currencies·Tokens·Deposited。通道B 在这些位置上为 0。",
+  "evidence": [
+    "PAPI: if (this.hasXcmPaymentApiSupport(chain) && asset)  —— 有 && asset",
+    "PJS : if (this.hasXcmPaymentApiSupport(chain) && asset)  —— 有 && asset",
+    "DEDOT: if (this.hasXcmPaymentApiSupport(chain))          —— 无 && asset",
+    "PAPI/PJS 在 XcmPaymentApi 不可用或返回非 bigint 时继续从 emittedEvents 找费用",
+    "DEDOT 直接 return { success:false, reason:'Cannot determine destination fee. XcmPaymentApi is not supported by this chain' }"
+  ],
+  "ran_real_system": false,
+  "declared_unknowns": [
+    "没跑 dedot 客户端，未复现",
+    "dedot 是否有意简化（较新的包）需维护者确认",
+    "未确认 dedot 支持的链里是否恰好都支持 XcmPaymentApi（若都支持则该路径不可达）"
+  ]
+}

@@ -1,1 +1,118 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIwojIENvcHlyaWdodCAyMDE4IFZvdGUgaW5jLgojCiMgTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiMgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgojIFlvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdAojCiMgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiMKIyBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiMgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKIyBXSVRIT1VUIFdBUlJBTlRJRVMgT1IgQ09ORElUSU9OUyBPRiBBTlkgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4KIyBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiMgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiMKaW1wb3J0IG9zCgpmcm9tIGhlbHBlcnMgaW1wb3J0IEx1aWdpVGVzdENhc2UsIHdpdGhfY29uZmlnCgpmcm9tIGx1aWdpLmNvbmZpZ3VyYXRpb24gaW1wb3J0IEx1aWdpQ29uZmlnUGFyc2VyLCBMdWlnaVRvbWxQYXJzZXIsIGdldF9jb25maWcKZnJvbSBsdWlnaS5jb25maWd1cmF0aW9uLmNmZ19wYXJzZXIgaW1wb3J0IEludGVycG9sYXRpb25NaXNzaW5nRW52dmFyRXJyb3IKCgpjbGFzcyBDb25maWdQYXJzZXJUZXN0KEx1aWdpVGVzdENhc2UpOgogICAgZW52aXJvbiA9IHsKICAgICAgICAiVEVTVFZBUiI6ICIxIiwKICAgIH0KCiAgICBkZWYgc2V0VXAoc2VsZik6CiAgICAgICAgc2VsZi5lbnZpcm9uX2JhY2t1cCA9IHtvcy5lbnZpcm9uW2tleV0gZm9yIGtleSBpbiBzZWxmLmVudmlyb24gaWYga2V5IGluIG9zLmVudmlyb259CiAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gc2VsZi5lbnZpcm9uLml0ZW1zKCk6CiAgICAgICAgICAgIG9zLmVudmlyb25ba2V5XSA9IHZhbHVlCiAgICAgICAgTHVpZ2lDb25maWdQYXJzZXIuX2luc3RhbmNlID0gTm9uZQogICAgICAgIHN1cGVyKENvbmZpZ1BhcnNlclRlc3QsIHNlbGYpLnNldFVwKCkKCiAgICBkZWYgdGVhckRvd24oc2VsZik6CiAgICAgICAgZm9yIGtleSBpbiBzZWxmLmVudmlyb246CiAgICAgICAgICAgIG9zLmVudmlyb24ucG9wKGtleSkKICAgICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBzZWxmLmVudmlyb25fYmFja3VwOgogICAgICAgICAgICBvcy5lbnZpcm9uW2tleV0gPSB2YWx1ZQogICAgICAgIGlmICJMVUlHSV9DT05GSUdfUEFSU0VSIiBpbiBvcy5lbnZpcm9uOgogICAgICAgICAgICBkZWwgb3MuZW52aXJvblsiTFVJR0lfQ09ORklHX1BBUlNFUiJdCgogICAgQHdpdGhfY29uZmlnKAogICAgICAgIHsKICAgICAgICAgICAgInRlc3QiOiB7CiAgICAgICAgICAgICAgICAiYSI6ICJ0ZXN0dmFsIiwKICAgICAgICAgICAgICAgICJiIjogIiUoYSlzIiwKICAgICAgICAgICAgICAgICJjIjogIiUoYSlzJShhKXMiLAogICAgICAgICAgICB9CiAgICAgICAgfQogICAgKQogICAgZGVmIHRlc3RfYmFzaWNfaW50ZXJwb2xhdGlvbihzZWxmKToKICAgICAgICAjIE1ha2Ugc3VyZSB0aGUgZGVmYXVsdCBDb25maWdQYXJzZXIgYmVoYXZpb3VyIGlzIG5vdCBicm9rZW4KICAgICAgICBjb25maWcgPSBnZXRfY29uZmlnKCkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb25maWcuZ2V0KCJ0ZXN0IiwgImIiKSwgY29uZmlnLmdldCgidGVzdCIsICJhIikpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb25maWcuZ2V0KCJ0ZXN0IiwgImMiKSwgMiAqIGNvbmZpZy5nZXQoInRlc3QiLCAiYSIpKQoKICAgIEB3aXRoX2NvbmZpZygKICAgICAgICB7CiAgICAgICAgICAgICJ0ZXN0IjogewogICAgICAgICAgICAgICAgImEiOiAiJHtURVNUVkFSfSIsCiAgICAgICAgICAgICAgICAiYiI6ICIke1RFU1RWQVJ9ICR7VEVTVFZBUn0iLAogICAgICAgICAgICAgICAgImMiOiAiJHtURVNUVkFSfSAlKGEpcyIsCiAgICAgICAgICAgICAgICAiZCI6ICIke05PTkVYSVNUSU5HfSIsCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICApCiAgICBkZWYgdGVzdF9lbnZfaW50ZXJwb2xhdGlvbihzZWxmKToKICAgICAgICBjb25maWcgPSBnZXRfY29uZmlnKCkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb25maWcuZ2V0KCJ0ZXN0IiwgImEiKSwgIjEiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29uZmlnLmdldGludCgidGVzdCIsICJhIiksIDEpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb25maWcuZ2V0Ym9vbGVhbigidGVzdCIsICJhIiksIFRydWUpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29uZmlnLmdldCgidGVzdCIsICJiIiksICIxIDEiKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNvbmZpZy5nZXQoInRlc3QiLCAiYyIpLCAiMSAxIikKCiAgICAgICAgd2l0aCBzZWxmLmFzc2VydFJhaXNlcyhJbnRlcnBvbGF0aW9uTWlzc2luZ0VudnZhckVycm9yKToKICAgICAgICAgICAgY29uZmlnLmdldCgidGVzdCIsICJkIikKCiAgICBAd2l0aF9jb25maWcoCiAgICAgICAgewogICAgICAgICAgICAidGVzdCI6IHsKICAgICAgICAgICAgICAgICJmb28tYmFyIjogImZvYiIsCiAgICAgICAgICAgICAgICAiYmF6X3F1eCI6ICJiYXgiLAogICAgICAgICAgICB9CiAgICAgICAgfQogICAgKQogICAgZGVmIHRlc3RfdW5kZXJzY29yZV92c19kYXNoX3N0eWxlKHNlbGYpOgogICAgICAgIGNvbmZpZyA9IGdldF9jb25maWcoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29uZmlnLmdldCgidGVzdCIsICJmb28tYmFyIiksICJmb2IiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29uZmlnLmdldCgidGVzdCIsICJmb29fYmFyIiksICJmb2IiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29uZmlnLmdldCgidGVzdCIsICJiYXotcXV4IiksICJiYXgiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY29uZmlnLmdldCgidGVzdCIsICJiYXpfcXV4IiksICJiYXgiKQoKICAgIEB3aXRoX2NvbmZpZygKICAgICAgICB7CiAgICAgICAgICAgICJ0ZXN0IjogewogICAgICAgICAgICAgICAgImZvby1iYXIiOiAiZm9iIiwKICAgICAgICAgICAgICAgICJmb29fYmFyIjogImJheCIsCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICApCiAgICBkZWYgdGVzdF91bmRlcnNjb3JlX3ZzX2Rhc2hfc3R5bGVfcHJpb3JpdHkoc2VsZik6CiAgICAgICAgY29uZmlnID0gZ2V0X2NvbmZpZygpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb25maWcuZ2V0KCJ0ZXN0IiwgImZvby1iYXIiKSwgImJheCIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjb25maWcuZ2V0KCJ0ZXN0IiwgImZvb19iYXIiKSwgImJheCIpCgogICAgZGVmIHRlc3RfZGVmYXVsdF9wYXJzZXIoc2VsZik6CiAgICAgICAgY29uZmlnID0gZ2V0X2NvbmZpZygpCiAgICAgICAgc2VsZi5hc3NlcnRJc0luc3RhbmNlKGNvbmZpZywgTHVpZ2lDb25maWdQYXJzZXIpCiAgICAgICAgb3MuZW52aXJvblsiTFVJR0lfQ09ORklHX1BBUlNFUiJdID0gInRvbWwiCiAgICAgICAgY29uZmlnID0gZ2V0X2NvbmZpZygpCiAgICAgICAgc2VsZi5hc3NlcnRJc0luc3RhbmNlKGNvbmZpZywgTHVpZ2lUb21sUGFyc2VyKQo=
+# -*- coding: utf-8 -*-
+#
+# Copyright 2018 Vote inc.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+import os
+
+from helpers import LuigiTestCase, with_config
+
+from luigi.configuration import LuigiConfigParser, LuigiTomlParser, get_config
+from luigi.configuration.cfg_parser import InterpolationMissingEnvvarError
+
+
+class ConfigParserTest(LuigiTestCase):
+    environ = {
+        "TESTVAR": "1",
+    }
+
+    def setUp(self):
+        self.environ_backup = {os.environ[key] for key in self.environ if key in os.environ}
+        for key, value in self.environ.items():
+            os.environ[key] = value
+        LuigiConfigParser._instance = None
+        super(ConfigParserTest, self).setUp()
+
+    def tearDown(self):
+        for key in self.environ:
+            os.environ.pop(key)
+        for key, value in self.environ_backup:
+            os.environ[key] = value
+        if "LUIGI_CONFIG_PARSER" in os.environ:
+            del os.environ["LUIGI_CONFIG_PARSER"]
+
+    @with_config(
+        {
+            "test": {
+                "a": "testval",
+                "b": "%(a)s",
+                "c": "%(a)s%(a)s",
+            }
+        }
+    )
+    def test_basic_interpolation(self):
+        # Make sure the default ConfigParser behaviour is not broken
+        config = get_config()
+
+        self.assertEqual(config.get("test", "b"), config.get("test", "a"))
+        self.assertEqual(config.get("test", "c"), 2 * config.get("test", "a"))
+
+    @with_config(
+        {
+            "test": {
+                "a": "${TESTVAR}",
+                "b": "${TESTVAR} ${TESTVAR}",
+                "c": "${TESTVAR} %(a)s",
+                "d": "${NONEXISTING}",
+            }
+        }
+    )
+    def test_env_interpolation(self):
+        config = get_config()
+
+        self.assertEqual(config.get("test", "a"), "1")
+        self.assertEqual(config.getint("test", "a"), 1)
+        self.assertEqual(config.getboolean("test", "a"), True)
+
+        self.assertEqual(config.get("test", "b"), "1 1")
+
+        self.assertEqual(config.get("test", "c"), "1 1")
+
+        with self.assertRaises(InterpolationMissingEnvvarError):
+            config.get("test", "d")
+
+    @with_config(
+        {
+            "test": {
+                "foo-bar": "fob",
+                "baz_qux": "bax",
+            }
+        }
+    )
+    def test_underscore_vs_dash_style(self):
+        config = get_config()
+        self.assertEqual(config.get("test", "foo-bar"), "fob")
+        self.assertEqual(config.get("test", "foo_bar"), "fob")
+        self.assertEqual(config.get("test", "baz-qux"), "bax")
+        self.assertEqual(config.get("test", "baz_qux"), "bax")
+
+    @with_config(
+        {
+            "test": {
+                "foo-bar": "fob",
+                "foo_bar": "bax",
+            }
+        }
+    )
+    def test_underscore_vs_dash_style_priority(self):
+        config = get_config()
+        self.assertEqual(config.get("test", "foo-bar"), "bax")
+        self.assertEqual(config.get("test", "foo_bar"), "bax")
+
+    def test_default_parser(self):
+        config = get_config()
+        self.assertIsInstance(config, LuigiConfigParser)
+        os.environ["LUIGI_CONFIG_PARSER"] = "toml"
+        config = get_config()
+        self.assertIsInstance(config, LuigiTomlParser)

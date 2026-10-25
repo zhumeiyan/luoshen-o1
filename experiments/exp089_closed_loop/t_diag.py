@@ -1,1 +1,27 @@
-ZnJvbSBwbGF5d3JpZ2h0LnN5bmNfYXBpIGltcG9ydCBzeW5jX3BsYXl3cmlnaHQKZnJvbSBydW4gaW1wb3J0IEV5ZSwgc2xvd19vY3IsIEhUTUwKd2l0aCBzeW5jX3BsYXl3cmlnaHQoKSBhcyBwdzoKICAgIGJyID0gcHcuY2hyb21pdW0ubGF1bmNoKGV4ZWN1dGFibGVfcGF0aD0iL3Vzci9iaW4vZ29vZ2xlLWNocm9tZSIsIGFyZ3M9WyItLW5vLXNhbmRib3giXSkKICAgIHBnID0gYnIubmV3X3BhZ2Uodmlld3BvcnQ9eyJ3aWR0aCI6MTAyNCwiaGVpZ2h0Ijo3Njh9KQogICAgZXllID0gRXllKHBnLCAic2hvdHNfdGVzdCIpOyBleWUuYnVpbGRfdGVtcGxhdGVzKCkKICAgIHBnLmdvdG8oZiJ7SFRNTH0/c2VlZD0xMDAxJnNodWZmbGU9MCZtb2RhbD0wIik7IHBnLndhaXRfZm9yX3RpbWVvdXQoMTUwKQogICAgZyxwID0gZXllLnNob3QoKTsgcHJpbnQoIk9DUjoiLCBzbG93X29jcihnKSkKICAgIG1vZGFsLHBvcyxuYiA9IGV5ZS5sb29rKCkKICAgIHByaW50KCJib3hlcyIsbmIsInBvcyBrZXlzIixsaXN0KHBvcy5rZXlzKCkpKQogICAgZm9yIHMgaW4gZXllLmxhc3Rfc2NvcmVzOiBwcmludCgiICAiLHMpCiAgICAjIOebtOaOpeeci+avj+S4quaooeadv+S4juavj+S4qmJveOeahOWIhuaVsOefqemYtQogICAgaW1wb3J0IGN2MiwgbnVtcHkgYXMgbnAKICAgIGZyb20gcnVuIGltcG9ydCBnZW9tX2JveGVzCiAgICBib3hlcz1nZW9tX2JveGVzKGcpCiAgICBwcmludCgic2NvcmUgbWF0cml4IHJvd3M9Ym94ZXMgY29scz10ZW1wbGF0ZXMiKQogICAgd29yZHM9c29ydGVkKGV5ZS50cGwua2V5cygpKQogICAgcHJpbnQoIiAgICAgICAgIisiICAiLmpvaW4oIiU3cyIldyBmb3IgdyBpbiB3b3JkcykpCiAgICBmb3IgKHgseSx3LGgpIGluIGJveGVzOgogICAgICAgIHJvaT1nW3k6eStoLHg6eCt3XQogICAgICAgIHJvdz1bXQogICAgICAgIGZvciB3ZCBpbiB3b3JkczoKICAgICAgICAgICAgdD1leWUudHBsW3dkXTsgdGgsdHc9dC5zaGFwZVs6Ml0KICAgICAgICAgICAgcj1jdjIucmVzaXplKHJvaSwodHcsdGgpLGludGVycG9sYXRpb249Y3YyLklOVEVSX0FSRUEpCiAgICAgICAgICAgIHJvdy5hcHBlbmQoZmxvYXQoY3YyLm1hdGNoVGVtcGxhdGUocix0LGN2Mi5UTV9DQ09FRkZfTk9STUVEKVswXVswXSkpCiAgICAgICAgcHJpbnQoImJveCglNGQsJTNkKTogIiUoeCx5KSsiICAiLmpvaW4oIiU3LjNmIiV2IGZvciB2IGluIHJvdykpCiAgICBici5jbG9zZSgpCg==
+from playwright.sync_api import sync_playwright
+from run import Eye, slow_ocr, HTML
+with sync_playwright() as pw:
+    br = pw.chromium.launch(executable_path="/usr/bin/google-chrome", args=["--no-sandbox"])
+    pg = br.new_page(viewport={"width":1024,"height":768})
+    eye = Eye(pg, "shots_test"); eye.build_templates()
+    pg.goto(f"{HTML}?seed=1001&shuffle=0&modal=0"); pg.wait_for_timeout(150)
+    g,p = eye.shot(); print("OCR:", slow_ocr(g))
+    modal,pos,nb = eye.look()
+    print("boxes",nb,"pos keys",list(pos.keys()))
+    for s in eye.last_scores: print("  ",s)
+    # 直接看每个模板与每个box的分数矩阵
+    import cv2, numpy as np
+    from run import geom_boxes
+    boxes=geom_boxes(g)
+    print("score matrix rows=boxes cols=templates")
+    words=sorted(eye.tpl.keys())
+    print("        "+"  ".join("%7s"%w for w in words))
+    for (x,y,w,h) in boxes:
+        roi=g[y:y+h,x:x+w]
+        row=[]
+        for wd in words:
+            t=eye.tpl[wd]; th,tw=t.shape[:2]
+            r=cv2.resize(roi,(tw,th),interpolation=cv2.INTER_AREA)
+            row.append(float(cv2.matchTemplate(r,t,cv2.TM_CCOEFF_NORMED)[0][0]))
+        print("box(%4d,%3d): "%(x,y)+"  ".join("%7.3f"%v for v in row))
+    br.close()

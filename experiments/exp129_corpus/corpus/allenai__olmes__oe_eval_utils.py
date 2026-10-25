@@ -1,1 +1,511 @@
-aW1wb3J0IGRhdGFjbGFzc2VzCmltcG9ydCBoYXNobGliCmltcG9ydCBpbnNwZWN0CmltcG9ydCBqc29uCmltcG9ydCBsb2dnaW5nCmltcG9ydCBvcwppbXBvcnQgcmUKaW1wb3J0IHNobGV4CmZyb20gY29weSBpbXBvcnQgZGVlcGNvcHkKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgTGlzdCwgT3B0aW9uYWwsIFVuaW9uCgojIyBOT1RFOiBEbyBub3QgYWRkIGFueSBvZV9ldmFsIG9yIG5vbi1zdGFuZGFyZCBpbXBvcnRzIGhlcmUsIHNvIGxhdW5jaC5weSB3b3JrcyB3aXRob3V0IGFueSBkZXBlbmRlbmN5CgoKZGVmIHRha2VfZmlyc3RfaWZfbGlzdChkYXRhKToKICAgIGlmIChpc2luc3RhbmNlKGRhdGEsIGxpc3QpIG9yIGlzaW5zdGFuY2UoZGF0YSwgdHVwbGUpKSBhbmQgbGVuKGRhdGEpID4gMDoKICAgICAgICByZXR1cm4gZGF0YVswXQogICAgcmV0dXJuIGRhdGEKCgojIFRoZXNlIGtleXMgd2lsbCBub3QgYmUgaGFzaGVkCk5PTl9IQVNISU5HX0tFWVMgPSBbIm1ldGFkYXRhIl0KSEFTSF9UUkFOU0ZPUk1fVkFMVUVTID0geyJtb2RlbF9wYXRoIjogdGFrZV9maXJzdF9pZl9saXN0fQoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQoKCmRlZiBsb2FkX2pzb25sKGZpbGVfbmFtZSk6CiAgICB3aXRoIG9wZW4oZmlsZV9uYW1lLCAiciIpIGFzIGZpbGU6CiAgICAgICAgcmV0dXJuIFtqc29uLmxvYWRzKGxpbmUuc3RyaXAoKSkgZm9yIGxpbmUgaW4gZmlsZV0KCgpkZWYgbG9hZF9qc29uKGZpbGVfbmFtZSk6CiAgICB3aXRoIG9wZW4oZmlsZV9uYW1lLCAiciIpIGFzIGZpbGU6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMoZmlsZS5yZWFkKCkpCgoKZGVmIHNhdmVfanNvbmwoZmlsZV9uYW1lLCBkYXRhKToKICAgIHdpdGggb3BlbihmaWxlX25hbWUsICJ3IikgYXMgZmlsZToKICAgICAgICBmb3IgZCBpbiBkYXRhOgogICAgICAgICAgICBmaWxlLndyaXRlKGpzb24uZHVtcHMoZCkpCiAgICAgICAgICAgIGZpbGUud3JpdGUoIlxuIikKICAgIHJldHVybiBmaWxlX25hbWUKCgpkZWYgc2F2ZV9qc29uKGZpbGVfbmFtZSwgZGF0YSk6CiAgICB3aXRoIG9wZW4oZmlsZV9uYW1lLCAidyIpIGFzIGZpbGU6CiAgICAgICAgZmlsZS53cml0ZShqc29uLmR1bXBzKGRhdGEpKQoKCmRlZiB0YXNrX2ZpbGVfbmFtZShvdXRwdXRfZGlyOiBzdHIsIHRhc2tfaWR4OiBpbnQsIHRhc2tfbmFtZTogc3RyLCBmaWxlX25hbWU6IHN0cikgLT4gc3RyOgogICAgcmV0dXJuIG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBmInRhc2ste3Rhc2tfaWR4OjAzZH0te3Rhc2tfbmFtZX0te2ZpbGVfbmFtZX0iKQoKCmRlZiBjdXRfYXRfc3RvcF9zZXF1ZW5jZSh0ZXh0OiBzdHIsIHN0b3Bfc2VxdWVuY2VzOiBMaXN0W3N0cl0pIC0+IHN0cjoKICAgICMgQ3V0IHRoZSB0ZXh0IGF0IHRoZSBmaXJzdCBvY2N1cnJlbmNlIG9mIGFueSAgc3RvcCBzZXF1ZW5jZQogICAgc21hbGxlc3RfaWR4ID0gbGVuKHRleHQpCiAgICBmb3Igc3RvcF9zZXF1ZW5jZSBpbiBzdG9wX3NlcXVlbmNlczoKICAgICAgICBpZiBsZW4oc3RvcF9zZXF1ZW5jZSkgPT0gMDogICMgU2tpcCBlbXB0eSBzdG9wIHNlcXVlbmNlcwogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlkeCA9IHRleHQuZmluZChzdG9wX3NlcXVlbmNlKQogICAgICAgIGlmIGlkeCAhPSAtMSBhbmQgaWR4IDwgc21hbGxlc3RfaWR4OgogICAgICAgICAgICBzbWFsbGVzdF9pZHggPSBpZHgKICAgIHJldHVybiB0ZXh0WzpzbWFsbGVzdF9pZHhdCgoKZGVmIHVwZGF0ZV9uZXN0ZWRfZGljdChvbGRfZGljdDogZGljdCwgbmV3X2RpY3Q6IGRpY3QsIG1ha2VfY29weT1GYWxzZSkgLT4gZGljdDoKICAgICMgVXBkYXRlIGEgZGljdGlvbmFyeSB3aXRoIGFub3RoZXIgZGljdGlvbmFyeSwgcmVjdXJzaXZlbHkgdG8gc3ViIGRpY3Rpb25hcmllcyBhcmUKICAgICMgbm90IG92ZXJ3cml0dGVuLCBqdXN0IHVwZGF0ZWQKICAgIGlmIG1ha2VfY29weToKICAgICAgICBvbGRfZGljdCA9IGRlZXBjb3B5KG9sZF9kaWN0KQogICAgZm9yIGssIHYgaW4gbmV3X2RpY3QuaXRlbXMoKToKICAgICAgICBpZiBpc2luc3RhbmNlKHYsIGRpY3QpIGFuZCBrIGluIG9sZF9kaWN0OgogICAgICAgICAgICBvbGRfZGljdFtrXSA9IHVwZGF0ZV9uZXN0ZWRfZGljdChvbGRfZGljdFtrXSwgdikKICAgICAgICBlbHNlOgogICAgICAgICAgICBvbGRfZGljdFtrXSA9IHYKICAgIHJldHVybiBvbGRfZGljdAoKCmRlZiBnZXRfZGljdF93aXRoX2RlZmF1bHRzKGQ6IE9wdGlvbmFsW2RpY3RdLCBkZWZhdWx0czogT3B0aW9uYWxbZGljdF0pIC0+IGRpY3Q6CiAgICAjIENvbWJpbmVzIGEgZGljdGlvbmFyeSB3aXRoIGEgc2V0IG9mIGRlZmF1bHRzIGlmIHRoZSBrZXkgaXMgbm90IHByZXNlbnQKICAgICMgSWYgdGhlIHZhbHVlIGlzIGEgZGljdGlvbmFyeSwgaXQgd2lsbCByZWN1cnNpdmVseSBjb21iaW5lIHRoZSBkaWN0aW9uYXJpZXMKICAgIGlmIGQgaXMgTm9uZToKICAgICAgICBpZiBkZWZhdWx0cyBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuIGRlZXBjb3B5KGRlZmF1bHRzKQogICAgICAgIHJldHVybiB7fQogICAgaWYgZGVmYXVsdHMgaXMgTm9uZToKICAgICAgICByZXR1cm4gZAogICAgcmVzID0gZGVlcGNvcHkoZGVmYXVsdHMpCiAgICBmb3IgaywgdiBpbiBkLml0ZW1zKCk6CiAgICAgICAgaWYgaXNpbnN0YW5jZSh2LCBkaWN0KToKICAgICAgICAgICAgcmVzW2tdID0gZ2V0X2RpY3Rfd2l0aF9kZWZhdWx0cyh2LCBkZWZhdWx0cy5nZXQoaykpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzW2tdID0gdgogICAgcmV0dXJuIHJlcwoKCmRlZiBoYW5kbGVfYXJnX3N0cmluZyhhcmcpOgogICAgaWYgYXJnLmxvd2VyKCkgPT0gInRydWUiOgogICAgICAgIHJldHVybiBUcnVlCiAgICBlbGlmIGFyZy5sb3dlcigpID09ICJmYWxzZSI6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBlbGlmIGFyZy5pc251bWVyaWMoKToKICAgICAgICByZXR1cm4gaW50KGFyZykKICAgIHRyeToKICAgICAgICByZXR1cm4gZmxvYXQoYXJnKQogICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgcmV0dXJuIGFyZwoKCmRlZiBwYXJzZV9hcmdzX3N0cmluZyhhcmdzX3N0cmluZzogT3B0aW9uYWxbc3RyXSwgbm9fYXJnc19rZXk6IHN0ciA9ICJub19hcmdzIikgLT4gZGljdDoKICAgICIiIgogICAgUGFyc2VzIHNvbWV0aGluZyBsaWtlCiAgICAgICAgJ2FyZ3MxPXZhbDEsYXJnMj12YWwyJyAgIE9SICd7ImFyZzEiOiAidmFsMSIsICJhcmcyIjogInZhbDIifScKICAgIGludG8gYSBkaWN0aW9uYXJ5LiBEYXNoZXMgaW4ga2V5cyBhcmUgcmVwbGFjZWQgd2l0aCB1bmRlcnNjb3Jlcy4KICAgIElmIGFyZ3Nfc3RyaW5nIGRvZXMgbm90IGhhdmUgYXJncywgcmV0dXJuIGRpY3Qgd2l0aCBub19hcmdzX2tleSBhcyBrZXkuCiAgICAiIiIKICAgIGlmIGFyZ3Nfc3RyaW5nIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIHt9CiAgICBhcmdzX3N0cmluZyA9IGFyZ3Nfc3RyaW5nLnN0cmlwKCkKICAgIGlmIG5vdCBhcmdzX3N0cmluZzoKICAgICAgICByZXR1cm4ge30KICAgIGlmIGFyZ3Nfc3RyaW5nWzBdID09ICJ7IjoKICAgICAgICBhcmdzX2RpY3QgPSBqc29uLmxvYWRzKGFyZ3Nfc3RyaW5nKQogICAgZWxpZiAiPSIgbm90IGluIGFyZ3Nfc3RyaW5nOgogICAgICAgIHJldHVybiB7bm9fYXJnc19rZXk6IGFyZ3Nfc3RyaW5nfQogICAgZWxzZToKICAgICAgICBhcmdfbGlzdCA9IFthcmcgZm9yIGFyZyBpbiBhcmdzX3N0cmluZy5zcGxpdCgiLCIpIGlmIGFyZ10KICAgICAgICBhcmdzX2RpY3QgPSB7azogaGFuZGxlX2FyZ19zdHJpbmcodikgZm9yIGssIHYgaW4gW2FyZy5zcGxpdCgiPSIpIGZvciBhcmcgaW4gYXJnX2xpc3RdfQogICAgYXJnc19kaWN0X2ZpbmFsID0ge30KICAgICMgUmVwbGFjZSBkYXNoZXMgaW4ga2V5cyB3aXRoIHVuZGVyc2NvcmVzCiAgICBmb3IgaywgdiBpbiBhcmdzX2RpY3QuaXRlbXMoKToKICAgICAgICBrX2ZpeGVkID0gay5yZXBsYWNlKCItIiwgIl8iKQogICAgICAgIGFyZ3NfZGljdF9maW5hbFtrX2ZpeGVkXSA9IHYKCiAgICByZXR1cm4gYXJnc19kaWN0X2ZpbmFsCgoKZGVmIHJlbW92ZV9ub25lX3ZhbHVlcyhkOiBkaWN0KSAtPiBkaWN0OgogICAgcmV0dXJuIHtrOiB2IGZvciBrLCB2IGluIGQuaXRlbXMoKSBpZiB2IGlzIG5vdCBOb25lfQoKCiMgRnJvbTogaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMjc5NzM5ODgvaG93LXRvLXJlbW92ZS1hbGwtZW1wdHktZmllbGRzLWluLWEtbmVzdGVkLWRpY3QKZGVmIHJlbW92ZV9uZXN0ZWRfbm9uZXMoZDogVW5pb25bZGljdCwgbGlzdF0pIC0+IFVuaW9uW2RpY3QsIGxpc3RdOgogICAgIiIiCiAgICByZW1vdmUgTm9uZSBmaWVsZHMgZnJvbSBuZXN0ZWQgcHl0aG9uIGRpY3Rpb25hcnkgKHdpdGggZGljdCwgbGlzdCBkYXRhdHlwZXMpCiAgICAiIiIKICAgIGlmIGlzaW5zdGFuY2UoZCwgZGljdCk6CiAgICAgICAgcmV0dXJuIHtrOiB2IGZvciBrLCB2IGluICgoaywgcmVtb3ZlX25lc3RlZF9ub25lcyh2KSkgZm9yIGssIHYgaW4gZC5pdGVtcygpKSBpZiB2fQogICAgaWYgaXNpbnN0YW5jZShkLCBsaXN0KToKICAgICAgICByZXR1cm4gW3YgZm9yIHYgaW4gbWFwKHJlbW92ZV9uZXN0ZWRfbm9uZXMsIGQpIGlmIHZdCiAgICByZXR1cm4gZAoKCiMgTGVnYWN5LCBidWdneSB2ZXJzaW9uIHRvIGNvbXBhcmUgaGFzaGVzIGZyb20gb2xkIGV2YWxzCmRlZiBoYXNoX2RpY3RfbGVnYWN5KGQ6IGRpY3QsIGRlZmF1bHRzOiBkaWN0LCB2YWx1ZV90cmFuc2Zvcm1zOiBPcHRpb25hbFtkaWN0XSA9IE5vbmUpIC0+IGRpY3Q6CiAgICAjIEhhc2ggYSBkaWN0aW9uYXJ5IGJhc2VkIG9uIGFueSB2YWx1ZXMgZGlmZmVyZW50IGZyb20gdGhlIGRlZmF1bHRzCiAgICBub25fZGVmYXVsdCA9IHt9CiAgICBza2lwX2tleXMgPSBbCiAgICAgICAgIm1vZGVsX3BhdGgiLAogICAgICAgICJtZXRhZGF0YSIsCiAgICAgICAgImRhdGFzZXRfcGF0aCIsCiAgICBdICAjIER1ZSB0byBidWcgaW4gdGhpcyBmdW5jdGlvbiwgbm90IGFjdHVhbGx5IHNraXBwZWQKICAgIGZvciBrLCB2IGluIGQuaXRlbXMoKToKICAgICAgICBpZiBrIGluIHNraXBfa2V5czoKICAgICAgICAgICAgbm9uX2RlZmF1bHRba10gPSB2CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgayBub3QgaW4gZGVmYXVsdHM6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJIYXNoaW5nIGVycm9yISBLZXkge2t9IG5vdCBpbiBkZWZhdWx0cyEiKQogICAgICAgIGRlZmF1bHQgPSBkZWZhdWx0c1trXQogICAgICAgIGlmIGRlZmF1bHQgPT0gIklHTk9SRV9IQVNIIjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBpc2luc3RhbmNlKHYsIGRpY3QpIGFuZCBsZW4odikgPT0gMDoKICAgICAgICAgICAgdiA9IE5vbmUgICMgV2UgdXNlIE5vbmUgZm9yIGRlZmF1bHQgZW1wdHkgZGljdHMKICAgICAgICBpZiB2ICE9IGRlZmF1bHQ6CiAgICAgICAgICAgIGlmIHZhbHVlX3RyYW5zZm9ybXMgaXMgbm90IE5vbmUgYW5kIGsgaW4gdmFsdWVfdHJhbnNmb3JtczoKICAgICAgICAgICAgICAgIHYgPSB2YWx1ZV90cmFuc2Zvcm1zW2tdKHYpCiAgICAgICAgICAgIG5vbl9kZWZhdWx0W2tdID0gdgogICAgaGFzaCA9IGhhc2hsaWIubWQ1KGpzb24uZHVtcHMobm9uX2RlZmF1bHQsIHNvcnRfa2V5cz1UcnVlKS5lbmNvZGUoKSkuaGV4ZGlnZXN0KCkKICAgIHJldHVybiB7Imhhc2giOiBoYXNoLCAibm9uX2RlZmF1bHQiOiBub25fZGVmYXVsdH0KCgojIFZhbHVlcyBhcmUgbm90IGhhc2hlZCBpZiB0aGV5IG1hdGNoIGRlZmF1bHQsIGtleSBpcyBpbiBub19oYXNoIGxpc3QsIG9yIGlmIHRoZSB2YWx1ZSBpcyBOb25lCmRlZiBoYXNoX2RpY3QoCiAgICBkOiBkaWN0LAogICAgZGVmYXVsdHM6IGRpY3QsCiAgICByZXF1aXJlX3RvcF9sZXZlbF9kZWZhdWx0PVRydWUsCiAgICByZXF1aXJlX25lc3RlZF9kZWZhdWx0PUZhbHNlLAogICAgc2tpcF9rZXlzPU5PTl9IQVNISU5HX0tFWVMsCiAgICB2YWx1ZV90cmFuc2Zvcm1zPUhBU0hfVFJBTlNGT1JNX1ZBTFVFUywKKSAtPiBkaWN0OgogICAgIyBIYXNoIGEgZGljdGlvbmFyeSBiYXNlZCBvbiBhbnkgdmFsdWVzIGRpZmZlcmVudCBmcm9tIHRoZSBkZWZhdWx0cwogICAgIyBBbnkgdG9wLWxldmVsIHZhbHVlcyB0aGF0IGFyZSBhbHNvIGRpY3Rpb25hcmllcyB1c2UgZGVmYXVsdHMgYXQgdGhlIG5lc3RlZCBrZXkgbGV2ZWwgYXMgd2VsbAogICAgIyBJZiByZXF1aXJlX3RvcF9sZXZlbF9kZWZhdWx0IGlzIFRydWUsIHRoZW4gdG9wLWxldmVsIGtleXMgd2l0aG91dCBkZWZhdWx0cyBhcmUgbm90IGFsbG93ZWQKICAgICMgSWYgcmVxdWlyZV9uZXN0ZWRfZGVmYXVsdCBpcyBUcnVlLCB0aGVuIG5lc3RlZCBrZXlzIHdpdGhvdXQgZGVmYXVsdHMgYXJlIG5vdCBhbGxvd2VkCiAgICAjIHNraXBfa2V5cyBpbmRpY2F0ZSBrZXlzIHRoYXQgYXJlIG5vdCBoYXNoZWQKICAgICMgdmFsdWVfdHJhbnNmb3JtcyBtYXBzIGtleXMgdG8gdHJhbnNmb3JtYXRpb24gZnVuY3Rpb25zIGZvciB2YWx1ZXMgZm9yIGhhc2hpbmcgcHVycG9zZXMKICAgIG5vbl9kZWZhdWx0cyA9IHt9ICAjIEdhdGhlciB0aGUgdmFsdWVzIGRpZmZlcmVudCBmcm9tIGRlZmF1bHQKICAgIHRvX2hhc2ggPSB7fSAgIyBHYXRoZXIgdmFsdWVzIHRvIGhhc2gKICAgIGZvciBrLCB2IGluIGQuaXRlbXMoKToKICAgICAgICBpZiBrIG5vdCBpbiBkZWZhdWx0czoKICAgICAgICAgICAgaWYgayBub3QgaW4gc2tpcF9rZXlzIGFuZCByZXF1aXJlX3RvcF9sZXZlbF9kZWZhdWx0OgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIkhhc2hpbmcgZXJyb3IhIEtleSB7a30gbm90IGluIGRlZmF1bHRzISIpCgogICAgICAgIGRlZmF1bHQgPSBkZWZhdWx0cy5nZXQoaykgICMgTWlzc2luZyBkZWZhdWx0LCB3aGVuIGFsbG93ZWQsIGlzIHRyZWF0ZWQgYXMgTm9uZQogICAgICAgIGlmIGlzaW5zdGFuY2UodiwgZGljdCkgYW5kIGxlbih2KSA9PSAwOgogICAgICAgICAgICB2ID0gTm9uZSAgIyBXZSB1c2UgTm9uZSBmb3IgZGVmYXVsdCBlbXB0eSBkaWN0cwogICAgICAgIGlmIGlzaW5zdGFuY2UodiwgZGljdCk6CiAgICAgICAgICAgIGlmIGRlZmF1bHQgaXMgTm9uZToKICAgICAgICAgICAgICAgIGRlZmF1bHQgPSB7fQogICAgICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShkZWZhdWx0LCBkaWN0KToKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJIYXNoaW5nIGVycm9yISBLZXkge2t9IGlzIG5vdCBkaWN0IGluIGRlZmF1bHQiKQogICAgICAgICAgICBzdWJfbm9uX2RlZmF1bHRzID0ge30KICAgICAgICAgICAgZm9yIHN1Yl9rLCBzdWJfdiBpbiB2Lml0ZW1zKCk6CiAgICAgICAgICAgICAgICBpZiBzdWJfayBub3QgaW4gZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICBpZiBrIG5vdCBpbiBza2lwX2tleXMgYW5kIHJlcXVpcmVfbmVzdGVkX2RlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmIkhhc2hpbmcgZXJyb3IhIEtleSB7c3ViX2t9IG5vdCBpbiBkZWZhdWx0IGRpY3QgZm9yIGtleSB7a30hIgogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBzdWJfZGVmYXVsdCA9IGRlZmF1bHQuZ2V0KHN1Yl9rKQogICAgICAgICAgICAgICAgaWYgc3ViX2RlZmF1bHQgIT0gc3ViX3Y6CiAgICAgICAgICAgICAgICAgICAgc3ViX25vbl9kZWZhdWx0c1tzdWJfa10gPSBzdWJfdgogICAgICAgICAgICBpZiBsZW4oc3ViX25vbl9kZWZhdWx0cykgPT0gMDoKICAgICAgICAgICAgICAgIHN1Yl9ub25fZGVmYXVsdHMgPSBOb25lICAjIHR5cGU6IGlnbm9yZQogICAgICAgICAgICBpZiBrIG5vdCBpbiBza2lwX2tleXMgYW5kIHN1Yl9ub25fZGVmYXVsdHMgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICB0b19oYXNoW2tdID0gc3ViX25vbl9kZWZhdWx0cwogICAgICAgICAgICBpZiBzdWJfbm9uX2RlZmF1bHRzIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgbm9uX2RlZmF1bHRzW2tdID0gc3ViX25vbl9kZWZhdWx0cwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoZGVmYXVsdCwgZGljdCkgYW5kIGxlbihkZWZhdWx0KSA9PSAwOgogICAgICAgICAgICAgICAgZGVmYXVsdCA9IE5vbmUKICAgICAgICAgICAgaWYgZGVmYXVsdCAhPSB2OgogICAgICAgICAgICAgICAgbm9uX2RlZmF1bHRzW2tdID0gdgogICAgICAgICAgICAgICAgaWYgayBub3QgaW4gc2tpcF9rZXlzOgogICAgICAgICAgICAgICAgICAgIGlmIGsgaW4gdmFsdWVfdHJhbnNmb3JtczoKICAgICAgICAgICAgICAgICAgICAgICAgdG9faGFzaFtrXSA9IHZhbHVlX3RyYW5zZm9ybXNba10odikKICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICB0b19oYXNoW2tdID0gdgogICAgcmVzX2hhc2ggPSBoYXNobGliLm1kNShqc29uLmR1bXBzKHRvX2hhc2gsIHNvcnRfa2V5cz1UcnVlKS5lbmNvZGUoKSkuaGV4ZGlnZXN0KCkKICAgIHJldHVybiB7Imhhc2giOiByZXNfaGFzaCwgIm5vbl9kZWZhdWx0Ijogbm9uX2RlZmF1bHRzLCAiaGFzaGVkX2RpY3QiOiB0b19oYXNofQoKCmRlZiBlc2NhcGVfY2xpX2FyZyhhcmc6IHN0cikgLT4gc3RyOgogICAgIyBFc2NhcGUgYSBjb21tYW5kIGxpbmUgYXJndW1lbnQKICAgIHJldHVybiBzaGxleC5xdW90ZShhcmcpCgoKZGVmIG1ha2VfaW50KGY6IE9wdGlvbmFsW2Zsb2F0XSwgZXhjbHVkZV9mbG9hdDE9RmFsc2UpIC0+IE9wdGlvbmFsW1VuaW9uW2ludCwgZmxvYXRdXToKICAgIGlmIG5vdCBpc2luc3RhbmNlKGYsIGZsb2F0KToKICAgICAgICByZXR1cm4gZgogICAgIyBNYWtlIGEgZmxvYXQgYW4gaW50IGlmIGl0J3MgYSB3aG9sZSBudW1iZXIKICAgIGlmIGYuaXNfaW50ZWdlcigpIGFuZCAobm90IGV4Y2x1ZGVfZmxvYXQxIG9yIGYgIT0gMS4wKToKICAgICAgICByZXR1cm4gaW50KGYpCiAgICByZXR1cm4gZgoKCmRlZiBtYWtlX2NsaV9jb21tYW5kKGNvbW1hbmQsIGFyZ3NfZGljdCk6CiAgICAjIENyZWF0ZSBhIGNvbW1hbmQgbGluZSBjb21tYW5kIGZyb20gYSBjb21tYW5kIGFuZCBhIGRpY3Rpb25hcnkgb2YgYXJndW1lbnRzCiAgICAjIElmIHRoZSB2YWx1ZSBpcyBhIGRpY3Rpb25hcnksIGl0IHdpbGwgYmUgY29udmVydGVkIHRvIGEgSlNPTiBzdHJpbmcKICAgIG91dHB1dCA9IFtjb21tYW5kXQogICAgZm9yIGssIHYgaW4gYXJnc19kaWN0Lml0ZW1zKCk6CiAgICAgICAga2V5ID0gay5yZXBsYWNlKCJfIiwgIi0iKQogICAgICAgIGlmIGlzaW5zdGFuY2UodiwgYm9vbCk6CiAgICAgICAgICAgIGlmIHY6CiAgICAgICAgICAgICAgICBvdXRwdXQuYXBwZW5kKGYiLS17a2V5fSIpCiAgICAgICAgZWxpZiB2IGlzIE5vbmU6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZWxpZiBpc2luc3RhbmNlKHYsIGxpc3QpOgogICAgICAgICAgICBvdXRwdXQuYXBwZW5kKGYiLS17a2V5fSIpCiAgICAgICAgICAgIGZvciB2X2kgaW4gdjoKICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uodl9pLCBkaWN0KToKICAgICAgICAgICAgICAgICAgICBvdXRwdXQuYXBwZW5kKGVzY2FwZV9jbGlfYXJnKGpzb24uZHVtcHModl9pKSkpCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIG91dHB1dC5hcHBlbmQoZXNjYXBlX2NsaV9hcmcoc3RyKHZfaSkpKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZSh2LCBkaWN0KToKICAgICAgICAgICAgb3V0cHV0LmFwcGVuZChmIi0te2tleX0iKQogICAgICAgICAgICBvdXRwdXQuYXBwZW5kKGVzY2FwZV9jbGlfYXJnKGpzb24uZHVtcHModikpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG91dHB1dC5hcHBlbmQoZiItLXtrZXl9IikKICAgICAgICAgICAgb3V0cHV0LmFwcGVuZChlc2NhcGVfY2xpX2FyZyhzdHIodikpKQogICAgcmV0dXJuICIgIi5qb2luKG91dHB1dCkKCgpkZWYgcnVuX2V2YWxfZnJvbV9saWJyYXJ5KG1vZGVsX2xpYnJhcnlfY29uZmlnLCB0YXNrX2xpYnJhcnlfY29uZmlncywgb3ZlcnJpZGVzKToKICAgICMgQ29uc3RydWN0IHJ1bl9ldmFsIGNvbW1hbmQgZnJvbSBtb2RlbF9jb25maWcgYW5kIHRhc2tfY29uZmlnCiAgICByZXR1cm4gTm9uZQoKCmRlZiBjb250ZXh0X2FzX3N0cmluZyhjb250ZXh0OiBVbmlvbltzdHIsIGRpY3RdKSAtPiBzdHI6CiAgICBpZiBpc2luc3RhbmNlKGNvbnRleHQsIHN0cik6CiAgICAgICAgcmV0dXJuIGNvbnRleHQKICAgIGZyb20gb2VfZXZhbC50YXNrcy5jaGF0X3RlbXBsYXRlcyBpbXBvcnQgQ0hBVF9URU1QTEFURVMKCiAgICByZXR1cm4gQ0hBVF9URU1QTEFURVNbInR1bHUiXShjb250ZXh0WyJtZXNzYWdlcyJdLCB0b2tlbml6ZXI9Tm9uZSkgKyBjb250ZXh0LmdldCggICMgdHlwZTogaWdub3JlCiAgICAgICAgImFzc2lzdGFudF9wcmVmaXgiLCAiIgogICAgKQoKCmRlZiBzaG93X21vZGVsX2lucHV0KGlucHV0OiBkaWN0LCB0cnVuY2F0aW9uX3NpemU9Tm9uZSk6CiAgICBvdXRwdXRfbGluZXMgPSBbXQogICAgcmVxdWVzdHMgPSBpbnB1dFsicmVxdWVzdHMiXQogICAgcmNfaW5wdXRzID0gW10KICAgIGdlbl9pbnB1dHMgPSBbXQogICAgb3RoZXJfaW5wdXRzID0gW10KICAgIGZvciByZXEgaW4gcmVxdWVzdHM6CiAgICAgICAgaWYgcmVxWyJyZXF1ZXN0X3R5cGUiXSA9PSAibG9nbGlrZWxpaG9vZCI6CiAgICAgICAgICAgIHJjX2lucHV0cy5hcHBlbmQoCiAgICAgICAgICAgICAgICAoY29udGV4dF9hc19zdHJpbmcocmVxWyJyZXF1ZXN0Il1bImNvbnRleHQiXSksIHJlcVsicmVxdWVzdCJdWyJjb250aW51YXRpb24iXSkKICAgICAgICAgICAgKQogICAgICAgIGVsaWYgcmVxWyJyZXF1ZXN0X3R5cGUiXSA9PSAiZ2VuZXJhdGVfdW50aWwiOgogICAgICAgICAgICBuZXh0X2lucHV0ID0gKAogICAgICAgICAgICAgICAgY29udGV4dF9hc19zdHJpbmcocmVxWyJyZXF1ZXN0Il1bImNvbnRleHQiXSksCiAgICAgICAgICAgICAgICByZXFbInJlcXVlc3QiXVsic3RvcF9zZXF1ZW5jZXMiXSwKICAgICAgICAgICAgKQogICAgICAgICAgICBpZiBuZXh0X2lucHV0IG5vdCBpbiBnZW5faW5wdXRzOgogICAgICAgICAgICAgICAgZ2VuX2lucHV0cy5hcHBlbmQobmV4dF9pbnB1dCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBvdGhlcl9pbnB1dHMuYXBwZW5kKChyZXFbInJlcXVlc3RfdHlwZSJdLCByZXFbInJlcXVlc3QiXSkpCiAgICBpbnB1dF9jb3JlID0gaW5wdXQuY29weSgpCiAgICBkZWwgaW5wdXRfY29yZVsicmVxdWVzdHMiXQogICAgb3V0cHV0X2xpbmVzLmFwcGVuZCh0cnVuY2F0ZV9sb25nKGYiRmlyc3QgaW5zdGFuY2U6IHtpbnB1dF9jb3JlfSIsIHRydW5jYXRpb25fc2l6ZSkpCiAgICBpZiByY19pbnB1dHM6CiAgICAgICAgcHJvbXB0cyA9IHNldCh4WzBdIGZvciB4IGluIHJjX2lucHV0cykKICAgICAgICBpZiBsZW4ocHJvbXB0cykgPT0gMToKICAgICAgICAgICAgb3V0cHV0X2xpbmVzLmFwcGVuZCgKICAgICAgICAgICAgICAgIHRydW5jYXRlX2xvbmcoZiJcbiAgKiogU2hhcmVkIHByb21wdDogKipcbntsaXN0KHByb21wdHMpWzBdfSIsIHRydW5jYXRpb25fc2l6ZSkKICAgICAgICAgICAgKQogICAgICAgICAgICBvdXRwdXRfbGluZXMuYXBwZW5kKCJcbiAgKiogT3V0cHV0czogKioiKQogICAgICAgICAgICBmb3IgeCBpbiByY19pbnB1dHM6CiAgICAgICAgICAgICAgICBvdXRwdXRfbGluZXMuYXBwZW5kKGYnICAgICJ7eFsxXX0iJykKICAgICAgICBlbHNlOgogICAgICAgICAgICBmb3IgeCBpbiByY19pbnB1dHM6CiAgICAgICAgICAgICAgICBvdXRwdXRfbGluZXMuYXBwZW5kKGYnXG4gICoqIFByb21wdDogKipcbnt4WzBdfVxuXG4gICoqIE91dHB1dDogKipcbiAgICAie3hbMV19IicpCiAgICBpZiBnZW5faW5wdXRzOgogICAgICAgIGZvciB4IGluIGdlbl9pbnB1dHM6CiAgICAgICAgICAgIG91dHB1dF9saW5lcy5hcHBlbmQoCiAgICAgICAgICAgICAgICB0cnVuY2F0ZV9sb25nKGYiXG4gICoqIENvbXBsZXRpb24gcHJvbXB0OiAqKlxue3hbMF19IiwgdHJ1bmNhdGlvbl9zaXplKQogICAgICAgICAgICApCiAgICAgICAgICAgIHN0b3Bfc2VxdWVuY2VzID0gIiB8ICIuam9pbignIicgKyByZS5zdWIoIlxuIiwgIlxcXFxuIiwgeSkgKyAnIicgZm9yIHkgaW4geFsxXSkKICAgICAgICAgICAgb3V0cHV0X2xpbmVzLmFwcGVuZChmIlxuICAqKiBHZW5lcmF0ZSB1bnRpbDogKipcbiAgICB7c3RvcF9zZXF1ZW5jZXN9IikKICAgIGlmIG90aGVyX2lucHV0czoKICAgICAgICBmb3IgeCBpbiBvdGhlcl9pbnB1dHM6CiAgICAgICAgICAgIG91dHB1dF9saW5lcy5hcHBlbmQodHJ1bmNhdGVfbG9uZyhmIiAgKioge3hbMF19OiAqKlxue3hbMV19IiwgdHJ1bmNhdGlvbl9zaXplKSkKICAgIG91dHB1dF9saW5lcy5hcHBlbmQoIiIpCiAgICByZXR1cm4gb3V0cHV0X2xpbmVzCgoKZGVmIGdldF9yZWNvcmRlZF9pbnB1dHMoCiAgICBldmFsX3JlcXVlc3RzX3JhdzogTGlzdFtkaWN0XSwKICAgIHByZWRpY3Rpb25zX3JhdzogTGlzdFtkaWN0XSwKICAgIG51bV9yZWNvcmRlZF9pbnB1dHM6IGludCwKICAgIGxvZ19maXJzdD1UcnVlLAopOgogICAgcmVjb3JkZWRfaW5wdXRzID0gW10KICAgIHBlcl9yZXF1ZXN0X2ZpZWxkcyA9IFsicmVxdWVzdF90eXBlIiwgInJlcXVlc3QiLCAiaWR4Il0KICAgIGZvciBwcmVkaWN0aW9uIGluIHByZWRpY3Rpb25zX3Jhd1s6bnVtX3JlY29yZGVkX2lucHV0c106CiAgICAgICAgcmVxdWVzdHNfcmF3ID0gW3IgZm9yIHIgaW4gZXZhbF9yZXF1ZXN0c19yYXcgaWYgclsiZG9jX2lkIl0gPT0gcHJlZGljdGlvblsiZG9jX2lkIl1dCiAgICAgICAgcmVxdWVzdF9kYXRhID0gcmVxdWVzdHNfcmF3WzBdLmNvcHkoKQogICAgICAgIGZvciBmaWVsZCBpbiBwZXJfcmVxdWVzdF9maWVsZHM6CiAgICAgICAgICAgIGRlbCByZXF1ZXN0X2RhdGFbZmllbGRdCiAgICAgICAgcmVxdWVzdF9kYXRhWyJyZXF1ZXN0cyJdID0gW10KICAgICAgICBmb3IgcmVxIGluIHJlcXVlc3RzX3JhdzoKICAgICAgICAgICAgcmVxdWVzdF9kYXRhWyJyZXF1ZXN0cyJdLmFwcGVuZCh7ZmllbGQ6IHJlcVtmaWVsZF0gZm9yIGZpZWxkIGluIHBlcl9yZXF1ZXN0X2ZpZWxkc30pCiAgICAgICAgcmVjb3JkZWRfaW5wdXRzLmFwcGVuZChyZXF1ZXN0X2RhdGEpCiAgICBpZiBsb2dfZmlyc3Q6CiAgICAgICAgbG9nX2xpbmVzID0gc2hvd19tb2RlbF9pbnB1dChyZWNvcmRlZF9pbnB1dHNbMF0pCiAgICAgICAgbG9nZ2VyLmluZm8oIlxuIi5qb2luKGxvZ19saW5lcykpCiAgICByZXR1cm4gcmVjb3JkZWRfaW5wdXRzCgoKZGVmIGNvbmNhdF93aXRoX3NwYWNlKHN0cmluZzE6IHN0ciwgc3RyaW5nMjogc3RyKSAtPiBzdHI6CiAgICAjIEFkZCBzcGFjZSBiZXR3ZWVuIHN0cmluZ3MgaWYgdGhleSdyZSBib3RoIG5vbi1lbXB0eQogICAgc3RyaW5nMSA9IHN0cmluZzEuc3RyaXAoKQogICAgc3RyaW5nMiA9IHN0cmluZzIuc3RyaXAoKQogICAgaWYgc3RyaW5nMSBhbmQgc3RyaW5nMjoKICAgICAgICByZXR1cm4gc3RyaW5nMSArICIgIiArIHN0cmluZzIKICAgIHJldHVybiBzdHJpbmcxIG9yIHN0cmluZzIKCgpFTEVVVEhFUl9UQVNLX01BTkFHRVIgPSBOb25lCgoKZGVmIGdldF9lbGV1dGhlcl90YXNrX21hbmFnZXIoKToKICAgIGZyb20gbG1fZXZhbC50YXNrcyBpbXBvcnQgVGFza01hbmFnZXIgICMgSW1wb3J0IGhlcmUgc28gaXQgb25seSBraWNrcyBpbiBpZiBuZWVkZWQKCiAgICBnbG9iYWwgRUxFVVRIRVJfVEFTS19NQU5BR0VSCiAgICBpZiBFTEVVVEhFUl9UQVNLX01BTkFHRVIgaXMgTm9uZToKICAgICAgICBFTEVVVEhFUl9UQVNLX01BTkFHRVIgPSBUYXNrTWFuYWdlcigiSU5GTyIpCiAgICByZXR1cm4gRUxFVVRIRVJfVEFTS19NQU5BR0VSCgoKZGVmIHJlYWRfZ3NoZWV0KAogICAgZ3NoZWV0OiBzdHIsCiAgICBzaGVldF90aXRsZTogc3RyID0gIlNoZWV0MSIsCiAgICBzZXJ2aWNlX2FjY291bnRfanNvbjogT3B0aW9uYWxbc3RyXSA9IE5vbmUsCiAgICByZXR1cm5fanNvbjogYm9vbCA9IEZhbHNlLAopOgogICAgZnJvbSBvZV9ldmFsLnV0aWxpdGllcy5nc2hlZXRfd3JpdGluZyBpbXBvcnQgR1NoZWV0V3JpdGVyCgogICAgaWYgaXNpbnN0YW5jZShzZXJ2aWNlX2FjY291bnRfanNvbiwgc3RyKSBhbmQgb3MucGF0aC5leGlzdHMoc2VydmljZV9hY2NvdW50X2pzb24pOgogICAgICAgIHdpdGggb3BlbihzZXJ2aWNlX2FjY291bnRfanNvbikgYXMgZmlsZToKICAgICAgICAgICAgc2VydmljZV9hY2NvdW50X2pzb24gPSBmaWxlLnJlYWQoKQogICAgc2hlZXQgPSBHU2hlZXRXcml0ZXIoc2VydmljZV9hY2NvdW50X2pzb24pCiAgICBzcHJlYWRzaGVldCA9IHNoZWV0LmNsaWVudC5vcGVuKGdzaGVldCkKICAgIGlmIHNoZWV0X3RpdGxlIGluIFtzLnRpdGxlIGZvciBzIGluIHNwcmVhZHNoZWV0LndvcmtzaGVldHMoKV06CiAgICAgICAgd29ya3NoZWV0ID0gc3ByZWFkc2hlZXQud29ya3NoZWV0X2J5X3RpdGxlKHNoZWV0X3RpdGxlKQogICAgZWxzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiV29ya3NoZWV0IHtzaGVldF90aXRsZX0gbm90IGZvdW5kIGluIHNwcmVhZHNoZWV0IHtnc2hlZXR9LiIpCiAgICByZXNfZGYgPSB3b3Jrc2hlZXQuZ2V0X2FzX2RmKCkKICAgIGlmIHJldHVybl9qc29uOgogICAgICAgIHJldHVybiByZXNfZGYudG9fZGljdChvcmllbnQ9InJlY29yZHMiKQogICAgcmV0dXJuIHJlc19kZgoKCmRlZiB0cnVuY2F0ZV9sb25nKGRhdGEsIG1heF9sZW49MTAwMCk6CiAgICBpZiBtYXhfbGVuIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIGRhdGEKICAgIHJlcywgXyA9IHRydW5jYXRlX2xvbmdfc3RyaW5ncyhkYXRhLCBtYXhfbGVuKQogICAgcmV0dXJuIHJlcwoKCmRlZiB0cnVuY2F0ZV9sb25nX3N0cmluZ3MoZGF0YSwgbWF4X2xlbj0xMDAwKToKICAgICIiIgogICAgOnBhcmFtIGRhdGE6IGlucHV0IHN0cmluZyBvciBkaWN0CiAgICA6cGFyYW0gbWF4X2xlbjogbWF4IGxlbmd0aCBvZiBzdHJpbmcgKG9yIHN0cmluZyB2YWx1ZXMpCiAgICA6cmV0dXJuOiAodHJ1bmNhdGVkIGRhdGEsIGlzX21vZGlmaWVkIGJvb2xlYW4pCiAgICAiIiIKICAgIGlmIG1heF9sZW4gaXMgTm9uZToKICAgICAgICByZXR1cm4gZGF0YSwgRmFsc2UKICAgIGFzc2VydCBtYXhfbGVuID49IDEwMAogICAgaWYgaXNpbnN0YW5jZShkYXRhLCBzdHIpOgogICAgICAgIGlmIGxlbihkYXRhKSA8PSBtYXhfbGVuOgogICAgICAgICAgICByZXR1cm4gZGF0YSwgRmFsc2UKICAgICAgICBlbHNlOgogICAgICAgICAgICBzdHJfbGVuID0gbGVuKGRhdGEpCiAgICAgICAgICAgIG5ld19zdHIgPSBkYXRhWzogbWF4X2xlbiAtIDUwXSArIGYiPDx0cnVuY2F0ZWQge3N0cl9sZW4tbWF4X2xlbn0gY2hhcnM+PiIgKyBkYXRhWy01MDpdCiAgICAgICAgICAgIHJldHVybiBuZXdfc3RyLCBUcnVlCiAgICByZXMgPSBOb25lCiAgICBpZiBpc2luc3RhbmNlKGRhdGEsIGRpY3QpOgogICAgICAgIG9sZF92YWx1ZXMgPSBkYXRhLml0ZW1zKCkKICAgICAgICBmb3IgaywgdiBpbiBvbGRfdmFsdWVzOgogICAgICAgICAgICB2X25ldywgaXNfbW9kaWZpZWQgPSB0cnVuY2F0ZV9sb25nX3N0cmluZ3ModiwgbWF4X2xlbikKICAgICAgICAgICAgaWYgaXNfbW9kaWZpZWQ6CiAgICAgICAgICAgICAgICBpZiByZXMgaXMgTm9uZToKICAgICAgICAgICAgICAgICAgICByZXMgPSBkYXRhLmNvcHkoKSAgIyB0eXBlOiBpZ25vcmUKICAgICAgICAgICAgICAgIHJlc1trXSA9IHZfbmV3ICAjIHR5cGU6IGlnbm9yZQogICAgZWxpZiBpc2luc3RhbmNlKGRhdGEsIGxpc3QpOgogICAgICAgIHN1bV9sZW4gPSAwCiAgICAgICAgaGl0X21heF9hdCA9IE5vbmUKICAgICAgICBmb3IgaSwgdiBpbiBlbnVtZXJhdGUoZGF0YSk6CiAgICAgICAgICAgIHZfbmV3LCBpc19tb2RpZmllZCA9IHRydW5jYXRlX2xvbmdfc3RyaW5ncyh2LCBtYXhfbGVuKQogICAgICAgICAgICBzdW1fbGVuICs9IGxlbihzdHIodl9uZXcpKQogICAgICAgICAgICBpZiBzdW1fbGVuID4gbWF4X2xlbiBhbmQgaGl0X21heF9hdCBpcyBOb25lOgogICAgICAgICAgICAgICAgaGl0X21heF9hdCA9IGkKICAgICAgICAgICAgaWYgaXNfbW9kaWZpZWQ6CiAgICAgICAgICAgICAgICBpZiByZXMgaXMgTm9uZToKICAgICAgICAgICAgICAgICAgICByZXMgPSBkYXRhLmNvcHkoKSAgIyB0eXBlOiBpZ25vcmUKICAgICAgICAgICAgICAgIHJlc1tpXSA9IHZfbmV3ICAjIHR5cGU6IGlnbm9yZQogICAgICAgIGlmIGhpdF9tYXhfYXQgaXMgbm90IE5vbmUgYW5kIGhpdF9tYXhfYXQgPCBsZW4oZGF0YSkgLSAzOgogICAgICAgICAgICB0cnVuY2F0ZWQgPSBsZW4oZGF0YSkgLSBoaXRfbWF4X2F0IC0gMQogICAgICAgICAgICByZXMgPSBkYXRhWzpoaXRfbWF4X2F0XSArIFtmIjw8dHJ1bmNhdGVkIHt0cnVuY2F0ZWR9IGVsZW1lbnRzPj4iXSArIFtkYXRhWy0xXV0gICMgdHlwZTogaWdub3JlCiAgICBpZiByZXMgaXMgTm9uZToKICAgICAgICByZXR1cm4gZGF0YSwgRmFsc2UKICAgIHJldHVybiByZXMsIFRydWUKCgpkZWYgc2FuaXRpemUoeDogQW55KSAtPiBBbnk6CiAgICAiIiIKICAgIFNhbml0aXplIHR1cm5zIFB5VG9yY2ggdHlwZXMgaW50byBiYXNpYyBQeXRob24gdHlwZXMgc28gdGhleSBjYW4gYmUgc2VyaWFsaXplZCBpbnRvIEpTT04uCiAgICAiIiIKICAgIGltcG9ydCBudW1weQogICAgaW1wb3J0IHRvcmNoCgogICAgaWYgaXNpbnN0YW5jZSh4LCBmbG9hdCkgYW5kIG51bXB5LmlzbmFuKHgpOgogICAgICAgICMgTmFOIHNob3VsZCB0dXJuIGludG8gc3RyaW5nICJOYU4iCiAgICAgICAgcmV0dXJuICJOYU4iCiAgICBpZiBpc2luc3RhbmNlKHgsIChzdHIsIGZsb2F0LCBpbnQsIGJvb2wpKToKICAgICAgICAjIHggaXMgYWxyZWFkeSBzZXJpYWxpemFibGUKICAgICAgICByZXR1cm4geAogICAgZWxpZiBpc2luc3RhbmNlKHgsIHRvcmNoLlRlbnNvcik6CiAgICAgICAgIyB0ZW5zb3IgbmVlZHMgdG8gYmUgY29udmVydGVkIHRvIGEgbGlzdCAoYW5kIG1vdmVkIHRvIGNwdSBpZiBuZWNlc3NhcnkpCiAgICAgICAgcmV0dXJuIHguY3B1KCkudG9saXN0KCkKICAgIGVsaWYgaXNpbnN0YW5jZSh4LCBudW1weS5uZGFycmF5KToKICAgICAgICAjIGFycmF5IG5lZWRzIHRvIGJlIGNvbnZlcnRlZCB0byBhIGxpc3QKICAgICAgICByZXR1cm4geC50b2xpc3QoKQogICAgZWxpZiBpc2luc3RhbmNlKHgsIG51bXB5Lm51bWJlcik6CiAgICAgICAgIyBOdW1QeSBudW1iZXJzIG5lZWQgdG8gYmUgY29udmVydGVkIHRvIFB5dGhvbiBudW1iZXJzCiAgICAgICAgcmV0dXJuIHguaXRlbSgpCiAgICBlbGlmIGlzaW5zdGFuY2UoeCwgbnVtcHkuYm9vbF8pOgogICAgICAgICMgTnVtcHkgYm9vbF8gbmVlZCB0byBiZSBjb252ZXJ0ZWQgdG8gcHl0aG9uIGJvb2wuCiAgICAgICAgcmV0dXJuIGJvb2woeCkKICAgIGVsaWYgaXNpbnN0YW5jZSh4LCBkaWN0KToKICAgICAgICAjIERpY3RzIG5lZWQgdGhlaXIgdmFsdWVzIHNhbml0aXplZAogICAgICAgIHJldHVybiB7a2V5OiBzYW5pdGl6ZSh2YWx1ZSkgZm9yIGtleSwgdmFsdWUgaW4geC5pdGVtcygpfQogICAgZWxpZiBpc2luc3RhbmNlKHgsIChsaXN0LCB0dXBsZSwgc2V0KSk6CiAgICAgICAgIyBMaXN0cywgdHVwbGVzLCBhbmQgc2V0cyBuZWVkIHRoZWlyIHZhbHVlcyBzYW5pdGl6ZWQKICAgICAgICByZXR1cm4gW3Nhbml0aXplKHhfaSkgZm9yIHhfaSBpbiB4XQogICAgZWxpZiB4IGlzIE5vbmU6CiAgICAgICAgcmV0dXJuICJOb25lIgogICAgZWxpZiBoYXNhdHRyKHgsICJ0b19qc29uIik6CiAgICAgICAgcmV0dXJuIHgudG9fanNvbigpCiAgICBlbGlmIGRhdGFjbGFzc2VzLmlzX2RhdGFjbGFzcyh4KSBhbmQgbm90IGlzaW5zdGFuY2UoeCwgdHlwZSk6CiAgICAgICAgcmV0dXJuIHNhbml0aXplKGRhdGFjbGFzc2VzLmFzZGljdCh4KSkKICAgIGVsaWYgaW5zcGVjdC5pc2NsYXNzKHgpOgogICAgICAgIHJldHVybiBzdHIoeCkgICMgd29ya2Fyb3VuZCBmb3IgbW9kZWxfY2xhc3Mgc2V0dGluZwogICAgZWxzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICBmIkNhbm5vdCBzYW5pdGl6ZSB7eH0gb2YgdHlwZSB7dHlwZSh4KX0uICIKICAgICAgICAgICAgIklmIHRoaXMgaXMgeW91ciBvd24gY3VzdG9tIGNsYXNzLCBhZGQgYSBgdG9fanNvbihzZWxmKWAgbWV0aG9kICIKICAgICAgICAgICAgInRoYXQgcmV0dXJucyBhIEpTT04tbGlrZSBvYmplY3QuIgogICAgICAgICkK
+import dataclasses
+import hashlib
+import inspect
+import json
+import logging
+import os
+import re
+import shlex
+from copy import deepcopy
+from typing import Any, List, Optional, Union
+
+## NOTE: Do not add any oe_eval or non-standard imports here, so launch.py works without any dependency
+
+
+def take_first_if_list(data):
+    if (isinstance(data, list) or isinstance(data, tuple)) and len(data) > 0:
+        return data[0]
+    return data
+
+
+# These keys will not be hashed
+NON_HASHING_KEYS = ["metadata"]
+HASH_TRANSFORM_VALUES = {"model_path": take_first_if_list}
+
+logger = logging.getLogger()
+
+
+def load_jsonl(file_name):
+    with open(file_name, "r") as file:
+        return [json.loads(line.strip()) for line in file]
+
+
+def load_json(file_name):
+    with open(file_name, "r") as file:
+        return json.loads(file.read())
+
+
+def save_jsonl(file_name, data):
+    with open(file_name, "w") as file:
+        for d in data:
+            file.write(json.dumps(d))
+            file.write("\n")
+    return file_name
+
+
+def save_json(file_name, data):
+    with open(file_name, "w") as file:
+        file.write(json.dumps(data))
+
+
+def task_file_name(output_dir: str, task_idx: int, task_name: str, file_name: str) -> str:
+    return os.path.join(output_dir, f"task-{task_idx:03d}-{task_name}-{file_name}")
+
+
+def cut_at_stop_sequence(text: str, stop_sequences: List[str]) -> str:
+    # Cut the text at the first occurrence of any  stop sequence
+    smallest_idx = len(text)
+    for stop_sequence in stop_sequences:
+        if len(stop_sequence) == 0:  # Skip empty stop sequences
+            continue
+        idx = text.find(stop_sequence)
+        if idx != -1 and idx < smallest_idx:
+            smallest_idx = idx
+    return text[:smallest_idx]
+
+
+def update_nested_dict(old_dict: dict, new_dict: dict, make_copy=False) -> dict:
+    # Update a dictionary with another dictionary, recursively to sub dictionaries are
+    # not overwritten, just updated
+    if make_copy:
+        old_dict = deepcopy(old_dict)
+    for k, v in new_dict.items():
+        if isinstance(v, dict) and k in old_dict:
+            old_dict[k] = update_nested_dict(old_dict[k], v)
+        else:
+            old_dict[k] = v
+    return old_dict
+
+
+def get_dict_with_defaults(d: Optional[dict], defaults: Optional[dict]) -> dict:
+    # Combines a dictionary with a set of defaults if the key is not present
+    # If the value is a dictionary, it will recursively combine the dictionaries
+    if d is None:
+        if defaults is not None:
+            return deepcopy(defaults)
+        return {}
+    if defaults is None:
+        return d
+    res = deepcopy(defaults)
+    for k, v in d.items():
+        if isinstance(v, dict):
+            res[k] = get_dict_with_defaults(v, defaults.get(k))
+        else:
+            res[k] = v
+    return res
+
+
+def handle_arg_string(arg):
+    if arg.lower() == "true":
+        return True
+    elif arg.lower() == "false":
+        return False
+    elif arg.isnumeric():
+        return int(arg)
+    try:
+        return float(arg)
+    except ValueError:
+        return arg
+
+
+def parse_args_string(args_string: Optional[str], no_args_key: str = "no_args") -> dict:
+    """
+    Parses something like
+        'args1=val1,arg2=val2'   OR '{"arg1": "val1", "arg2": "val2"}'
+    into a dictionary. Dashes in keys are replaced with underscores.
+    If args_string does not have args, return dict with no_args_key as key.
+    """
+    if args_string is None:
+        return {}
+    args_string = args_string.strip()
+    if not args_string:
+        return {}
+    if args_string[0] == "{":
+        args_dict = json.loads(args_string)
+    elif "=" not in args_string:
+        return {no_args_key: args_string}
+    else:
+        arg_list = [arg for arg in args_string.split(",") if arg]
+        args_dict = {k: handle_arg_string(v) for k, v in [arg.split("=") for arg in arg_list]}
+    args_dict_final = {}
+    # Replace dashes in keys with underscores
+    for k, v in args_dict.items():
+        k_fixed = k.replace("-", "_")
+        args_dict_final[k_fixed] = v
+
+    return args_dict_final
+
+
+def remove_none_values(d: dict) -> dict:
+    return {k: v for k, v in d.items() if v is not None}
+
+
+# From: https://stackoverflow.com/questions/27973988/how-to-remove-all-empty-fields-in-a-nested-dict
+def remove_nested_nones(d: Union[dict, list]) -> Union[dict, list]:
+    """
+    remove None fields from nested python dictionary (with dict, list datatypes)
+    """
+    if isinstance(d, dict):
+        return {k: v for k, v in ((k, remove_nested_nones(v)) for k, v in d.items()) if v}
+    if isinstance(d, list):
+        return [v for v in map(remove_nested_nones, d) if v]
+    return d
+
+
+# Legacy, buggy version to compare hashes from old evals
+def hash_dict_legacy(d: dict, defaults: dict, value_transforms: Optional[dict] = None) -> dict:
+    # Hash a dictionary based on any values different from the defaults
+    non_default = {}
+    skip_keys = [
+        "model_path",
+        "metadata",
+        "dataset_path",
+    ]  # Due to bug in this function, not actually skipped
+    for k, v in d.items():
+        if k in skip_keys:
+            non_default[k] = v
+            continue
+        if k not in defaults:
+            raise ValueError(f"Hashing error! Key {k} not in defaults!")
+        default = defaults[k]
+        if default == "IGNORE_HASH":
+            continue
+        if isinstance(v, dict) and len(v) == 0:
+            v = None  # We use None for default empty dicts
+        if v != default:
+            if value_transforms is not None and k in value_transforms:
+                v = value_transforms[k](v)
+            non_default[k] = v
+    hash = hashlib.md5(json.dumps(non_default, sort_keys=True).encode()).hexdigest()
+    return {"hash": hash, "non_default": non_default}
+
+
+# Values are not hashed if they match default, key is in no_hash list, or if the value is None
+def hash_dict(
+    d: dict,
+    defaults: dict,
+    require_top_level_default=True,
+    require_nested_default=False,
+    skip_keys=NON_HASHING_KEYS,
+    value_transforms=HASH_TRANSFORM_VALUES,
+) -> dict:
+    # Hash a dictionary based on any values different from the defaults
+    # Any top-level values that are also dictionaries use defaults at the nested key level as well
+    # If require_top_level_default is True, then top-level keys without defaults are not allowed
+    # If require_nested_default is True, then nested keys without defaults are not allowed
+    # skip_keys indicate keys that are not hashed
+    # value_transforms maps keys to transformation functions for values for hashing purposes
+    non_defaults = {}  # Gather the values different from default
+    to_hash = {}  # Gather values to hash
+    for k, v in d.items():
+        if k not in defaults:
+            if k not in skip_keys and require_top_level_default:
+                raise ValueError(f"Hashing error! Key {k} not in defaults!")
+
+        default = defaults.get(k)  # Missing default, when allowed, is treated as None
+        if isinstance(v, dict) and len(v) == 0:
+            v = None  # We use None for default empty dicts
+        if isinstance(v, dict):
+            if default is None:
+                default = {}
+            if not isinstance(default, dict):
+                raise ValueError(f"Hashing error! Key {k} is not dict in default")
+            sub_non_defaults = {}
+            for sub_k, sub_v in v.items():
+                if sub_k not in default:
+                    if k not in skip_keys and require_nested_default:
+                        raise ValueError(
+                            f"Hashing error! Key {sub_k} not in default dict for key {k}!"
+                        )
+                sub_default = default.get(sub_k)
+                if sub_default != sub_v:
+                    sub_non_defaults[sub_k] = sub_v
+            if len(sub_non_defaults) == 0:
+                sub_non_defaults = None  # type: ignore
+            if k not in skip_keys and sub_non_defaults is not None:
+                to_hash[k] = sub_non_defaults
+            if sub_non_defaults is not None:
+                non_defaults[k] = sub_non_defaults
+        else:
+            if isinstance(default, dict) and len(default) == 0:
+                default = None
+            if default != v:
+                non_defaults[k] = v
+                if k not in skip_keys:
+                    if k in value_transforms:
+                        to_hash[k] = value_transforms[k](v)
+                    else:
+                        to_hash[k] = v
+    res_hash = hashlib.md5(json.dumps(to_hash, sort_keys=True).encode()).hexdigest()
+    return {"hash": res_hash, "non_default": non_defaults, "hashed_dict": to_hash}
+
+
+def escape_cli_arg(arg: str) -> str:
+    # Escape a command line argument
+    return shlex.quote(arg)
+
+
+def make_int(f: Optional[float], exclude_float1=False) -> Optional[Union[int, float]]:
+    if not isinstance(f, float):
+        return f
+    # Make a float an int if it's a whole number
+    if f.is_integer() and (not exclude_float1 or f != 1.0):
+        return int(f)
+    return f
+
+
+def make_cli_command(command, args_dict):
+    # Create a command line command from a command and a dictionary of arguments
+    # If the value is a dictionary, it will be converted to a JSON string
+    output = [command]
+    for k, v in args_dict.items():
+        key = k.replace("_", "-")
+        if isinstance(v, bool):
+            if v:
+                output.append(f"--{key}")
+        elif v is None:
+            continue
+        elif isinstance(v, list):
+            output.append(f"--{key}")
+            for v_i in v:
+                if isinstance(v_i, dict):
+                    output.append(escape_cli_arg(json.dumps(v_i)))
+                else:
+                    output.append(escape_cli_arg(str(v_i)))
+        elif isinstance(v, dict):
+            output.append(f"--{key}")
+            output.append(escape_cli_arg(json.dumps(v)))
+        else:
+            output.append(f"--{key}")
+            output.append(escape_cli_arg(str(v)))
+    return " ".join(output)
+
+
+def run_eval_from_library(model_library_config, task_library_configs, overrides):
+    # Construct run_eval command from model_config and task_config
+    return None
+
+
+def context_as_string(context: Union[str, dict]) -> str:
+    if isinstance(context, str):
+        return context
+    from oe_eval.tasks.chat_templates import CHAT_TEMPLATES
+
+    return CHAT_TEMPLATES["tulu"](context["messages"], tokenizer=None) + context.get(  # type: ignore
+        "assistant_prefix", ""
+    )
+
+
+def show_model_input(input: dict, truncation_size=None):
+    output_lines = []
+    requests = input["requests"]
+    rc_inputs = []
+    gen_inputs = []
+    other_inputs = []
+    for req in requests:
+        if req["request_type"] == "loglikelihood":
+            rc_inputs.append(
+                (context_as_string(req["request"]["context"]), req["request"]["continuation"])
+            )
+        elif req["request_type"] == "generate_until":
+            next_input = (
+                context_as_string(req["request"]["context"]),
+                req["request"]["stop_sequences"],
+            )
+            if next_input not in gen_inputs:
+                gen_inputs.append(next_input)
+        else:
+            other_inputs.append((req["request_type"], req["request"]))
+    input_core = input.copy()
+    del input_core["requests"]
+    output_lines.append(truncate_long(f"First instance: {input_core}", truncation_size))
+    if rc_inputs:
+        prompts = set(x[0] for x in rc_inputs)
+        if len(prompts) == 1:
+            output_lines.append(
+                truncate_long(f"\n  ** Shared prompt: **\n{list(prompts)[0]}", truncation_size)
+            )
+            output_lines.append("\n  ** Outputs: **")
+            for x in rc_inputs:
+                output_lines.append(f'    "{x[1]}"')
+        else:
+            for x in rc_inputs:
+                output_lines.append(f'\n  ** Prompt: **\n{x[0]}\n\n  ** Output: **\n    "{x[1]}"')
+    if gen_inputs:
+        for x in gen_inputs:
+            output_lines.append(
+                truncate_long(f"\n  ** Completion prompt: **\n{x[0]}", truncation_size)
+            )
+            stop_sequences = " | ".join('"' + re.sub("\n", "\\\\n", y) + '"' for y in x[1])
+            output_lines.append(f"\n  ** Generate until: **\n    {stop_sequences}")
+    if other_inputs:
+        for x in other_inputs:
+            output_lines.append(truncate_long(f"  ** {x[0]}: **\n{x[1]}", truncation_size))
+    output_lines.append("")
+    return output_lines
+
+
+def get_recorded_inputs(
+    eval_requests_raw: List[dict],
+    predictions_raw: List[dict],
+    num_recorded_inputs: int,
+    log_first=True,
+):
+    recorded_inputs = []
+    per_request_fields = ["request_type", "request", "idx"]
+    for prediction in predictions_raw[:num_recorded_inputs]:
+        requests_raw = [r for r in eval_requests_raw if r["doc_id"] == prediction["doc_id"]]
+        request_data = requests_raw[0].copy()
+        for field in per_request_fields:
+            del request_data[field]
+        request_data["requests"] = []
+        for req in requests_raw:
+            request_data["requests"].append({field: req[field] for field in per_request_fields})
+        recorded_inputs.append(request_data)
+    if log_first:
+        log_lines = show_model_input(recorded_inputs[0])
+        logger.info("\n".join(log_lines))
+    return recorded_inputs
+
+
+def concat_with_space(string1: str, string2: str) -> str:
+    # Add space between strings if they're both non-empty
+    string1 = string1.strip()
+    string2 = string2.strip()
+    if string1 and string2:
+        return string1 + " " + string2
+    return string1 or string2
+
+
+ELEUTHER_TASK_MANAGER = None
+
+
+def get_eleuther_task_manager():
+    from lm_eval.tasks import TaskManager  # Import here so it only kicks in if needed
+
+    global ELEUTHER_TASK_MANAGER
+    if ELEUTHER_TASK_MANAGER is None:
+        ELEUTHER_TASK_MANAGER = TaskManager("INFO")
+    return ELEUTHER_TASK_MANAGER
+
+
+def read_gsheet(
+    gsheet: str,
+    sheet_title: str = "Sheet1",
+    service_account_json: Optional[str] = None,
+    return_json: bool = False,
+):
+    from oe_eval.utilities.gsheet_writing import GSheetWriter
+
+    if isinstance(service_account_json, str) and os.path.exists(service_account_json):
+        with open(service_account_json) as file:
+            service_account_json = file.read()
+    sheet = GSheetWriter(service_account_json)
+    spreadsheet = sheet.client.open(gsheet)
+    if sheet_title in [s.title for s in spreadsheet.worksheets()]:
+        worksheet = spreadsheet.worksheet_by_title(sheet_title)
+    else:
+        raise ValueError(f"Worksheet {sheet_title} not found in spreadsheet {gsheet}.")
+    res_df = worksheet.get_as_df()
+    if return_json:
+        return res_df.to_dict(orient="records")
+    return res_df
+
+
+def truncate_long(data, max_len=1000):
+    if max_len is None:
+        return data
+    res, _ = truncate_long_strings(data, max_len)
+    return res
+
+
+def truncate_long_strings(data, max_len=1000):
+    """
+    :param data: input string or dict
+    :param max_len: max length of string (or string values)
+    :return: (truncated data, is_modified boolean)
+    """
+    if max_len is None:
+        return data, False
+    assert max_len >= 100
+    if isinstance(data, str):
+        if len(data) <= max_len:
+            return data, False
+        else:
+            str_len = len(data)
+            new_str = data[: max_len - 50] + f"<<truncated {str_len-max_len} chars>>" + data[-50:]
+            return new_str, True
+    res = None
+    if isinstance(data, dict):
+        old_values = data.items()
+        for k, v in old_values:
+            v_new, is_modified = truncate_long_strings(v, max_len)
+            if is_modified:
+                if res is None:
+                    res = data.copy()  # type: ignore
+                res[k] = v_new  # type: ignore
+    elif isinstance(data, list):
+        sum_len = 0
+        hit_max_at = None
+        for i, v in enumerate(data):
+            v_new, is_modified = truncate_long_strings(v, max_len)
+            sum_len += len(str(v_new))
+            if sum_len > max_len and hit_max_at is None:
+                hit_max_at = i
+            if is_modified:
+                if res is None:
+                    res = data.copy()  # type: ignore
+                res[i] = v_new  # type: ignore
+        if hit_max_at is not None and hit_max_at < len(data) - 3:
+            truncated = len(data) - hit_max_at - 1
+            res = data[:hit_max_at] + [f"<<truncated {truncated} elements>>"] + [data[-1]]  # type: ignore
+    if res is None:
+        return data, False
+    return res, True
+
+
+def sanitize(x: Any) -> Any:
+    """
+    Sanitize turns PyTorch types into basic Python types so they can be serialized into JSON.
+    """
+    import numpy
+    import torch
+
+    if isinstance(x, float) and numpy.isnan(x):
+        # NaN should turn into string "NaN"
+        return "NaN"
+    if isinstance(x, (str, float, int, bool)):
+        # x is already serializable
+        return x
+    elif isinstance(x, torch.Tensor):
+        # tensor needs to be converted to a list (and moved to cpu if necessary)
+        return x.cpu().tolist()
+    elif isinstance(x, numpy.ndarray):
+        # array needs to be converted to a list
+        return x.tolist()
+    elif isinstance(x, numpy.number):
+        # NumPy numbers need to be converted to Python numbers
+        return x.item()
+    elif isinstance(x, numpy.bool_):
+        # Numpy bool_ need to be converted to python bool.
+        return bool(x)
+    elif isinstance(x, dict):
+        # Dicts need their values sanitized
+        return {key: sanitize(value) for key, value in x.items()}
+    elif isinstance(x, (list, tuple, set)):
+        # Lists, tuples, and sets need their values sanitized
+        return [sanitize(x_i) for x_i in x]
+    elif x is None:
+        return "None"
+    elif hasattr(x, "to_json"):
+        return x.to_json()
+    elif dataclasses.is_dataclass(x) and not isinstance(x, type):
+        return sanitize(dataclasses.asdict(x))
+    elif inspect.isclass(x):
+        return str(x)  # workaround for model_class setting
+    else:
+        raise ValueError(
+            f"Cannot sanitize {x} of type {type(x)}. "
+            "If this is your own custom class, add a `to_json(self)` method "
+            "that returns a JSON-like object."
+        )

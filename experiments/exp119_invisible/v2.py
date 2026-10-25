@@ -1,1 +1,127 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiSW52aXNpYmxlU3lzdGVtcyB2MiDigJQg5L+u5o6JIHYxIOeahOWbm+S4qumdmem7mOWkseaViOOAggrkv67lpI3ngrnvvJoKICBNMSDlj5jlvILvvJrnnJ/pmo/mnLogKyDnirbmgIHov5vpk77vvIhjaGFpblstMV0gKyBub25jZSArIHRpY2vvvInvvIzlj6/pqozor4HllK/kuIAKICBNMiDooajop4LvvJphIOacieehrOeVjO+8jOS4lOaUuSBhIOW/hemhu+S7mCBi77yI6KGo546w5pyJ5Luj6LCi5oiQ5pys77yJ77yM5bm25LiK6ZO+CiAgTTMg5Yib5Lyk77ya5b2S5LiA5YyW5qih57OK5Yy56YWNICsg5by65bqm6ZqP5pe26Ze06KGw5YePICsg5rOb5YyW5pyJ5qKv5bqmCiAgTTQg5YWN55ar77ya5bm76KeJ546H5LiN5YaN6Ieq6K+B77yM5pS555So54us56uL5Lqk5Y+J5a6h6K6hCiIiIgppbXBvcnQgaGFzaGxpYiwgcmFuZG9tLCByZSwgdGltZQoKZGVmIF9oKCpwYXJ0cyk6CiAgICByZXR1cm4gaGFzaGxpYi5zaGEyNTYoInwiLmpvaW4oc3RyKHApIGZvciBwIGluIHBhcnRzKS5lbmNvZGUoInV0Zi04IikpLmhleGRpZ2VzdCgpCgpjbGFzcyBMdW9zaGVuQ29yZToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzZWVkPTApOgogICAgICAgIHNlbGYucm5nID0gcmFuZG9tLlJhbmRvbShzZWVkKQogICAgICAgIHNlbGYuZW5lcmd5X2EgPSAxMDAuMAogICAgICAgIHNlbGYuZW5lcmd5X2IgPSAxMDAuMAogICAgICAgIHNlbGYubWVtb3J5X2NoYWluID0gW19oKCJnZW5lc2lzIiwgc2VlZCldCiAgICAgICAgc2VsZi50cmF1bWFfbG9nID0ge30gICAgICAjIHNpZ25hbCAtPiB7InN0cmVuZ3RoIjpmbG9hdCwgInQiOmludH0KICAgICAgICBzZWxmLnRpY2sgPSAwCiAgICAgICAgc2VsZi5uZXR3b3JrX3VwID0gVHJ1ZSAgICAjIOWPjeWwhOecn+eahOiDveWIh+aWreeahOS4nOilvwoKICAgIGRlZiBfYXBwZW5kKHNlbGYsIHRhZywgKmFyZ3MpOgogICAgICAgIHNlbGYubWVtb3J5X2NoYWluLmFwcGVuZChfaChzZWxmLm1lbW9yeV9jaGFpblstMV0sIHRhZywgc2VsZi50aWNrLCAqYXJncykpCiAgICAgICAgcmV0dXJuIHNlbGYubWVtb3J5X2NoYWluWy0xXQoKY2xhc3MgSW52aXNpYmxlU3lzdGVtczoKICAgIEFfTUlOLCBBX01BWCA9IDQwLjAsIDE2MC4wCiAgICBUUkFVTUFfREVDQVkgPSAwLjAyICAgICAgICAgICMg5q+PIHRpY2sg6KGw5YePCiAgICBUUkFVTUFfRklSRSAgPSAwLjMwICAgICAgICAgICMg6Kem5Y+R6ZiI5YC8CiAgICBQVVJHRV9UICAgICAgPSAwLjgKCiAgICBkZWYgX19pbml0X18oc2VsZiwgYnJhaW4pOgogICAgICAgIHNlbGYuYnJhaW4gPSBicmFpbgogICAgICAgIHNlbGYudmFyaWF0aW9uX3JhdGUgPSAwLjEKICAgICAgICBzZWxmLmF1ZGl0X2xvZyA9IFtdCgogICAgIyAtLS0tIE0xIOWPmOW8gu+8mnN0YXRlLWRlcGVuZGVudCArIOecn+maj+acuiAtLS0tCiAgICBkZWYgYW50aV9lbnRyb3B5X2RyaWZ0KHNlbGYsIGlkbGVfdGlja3MsIHJuZz1Ob25lKToKICAgICAgICByID0gcm5nIG9yIHNlbGYuYnJhaW4ucm5nCiAgICAgICAgaWYgaWRsZV90aWNrcyA+IDU6CiAgICAgICAgICAgIG5vbmNlID0gci5nZXRyYW5kYml0cyg2NCkKICAgICAgICAgICAgcHJldiA9IHNlbGYuYnJhaW4ubWVtb3J5X2NoYWluWy0xXQogICAgICAgICAgICBzZWxmLmJyYWluLmVuZXJneV9iIC09IDIuMAogICAgICAgICAgICBzZWxmLmJyYWluLl9hcHBlbmQoIm11dGF0aW9uIiwgbm9uY2UsIHNlbGYudmFyaWF0aW9uX3JhdGUsIGlkbGVfdGlja3MpCiAgICAgICAgICAgIHJldHVybiB7Im11dGF0ZWQiOiBUcnVlLCAicHJldiI6IHByZXZ9CiAgICAgICAgcmV0dXJuIHsibXV0YXRlZCI6IEZhbHNlfQoKICAgICMgLS0tLSBNMiDooajop4LvvJrmnInnlYwgKyDmnInku6Pku7cgKyDkuIrpk74gLS0tLQogICAgZGVmIGVwaWdlbmV0aWNfc3dpdGNoKHNlbGYsIGhvc3RfZW1vdGlvbik6CiAgICAgICAgYiA9IHNlbGYuYnJhaW4KICAgICAgICB0YWJsZSA9IHsiYW54aW91cyI6ICsxLjIsICJhbmdyeSI6IC0wLjgsICJoYXBweSI6ICsxLjA1LAogICAgICAgICAgICAgICAgICJzYWQiOiAtMC45NSwgIm5ldXRyYWwiOiAxLjB9CiAgICAgICAgbXVsID0gdGFibGUuZ2V0KGhvc3RfZW1vdGlvbiwgMS4wKQogICAgICAgIG9sZF9hID0gYi5lbmVyZ3lfYQogICAgICAgIHJhdyA9IG9sZF9hICogbXVsCiAgICAgICAgbmV3X2EgPSBtaW4oc2VsZi5BX01BWCwgbWF4KHNlbGYuQV9NSU4sIHJhdykpCiAgICAgICAgIyDooajnjrDlgY/nprvln7rlh4bopoHku5jku6PosKLku6Pku7fvvJp8zpRhfCDnmoQgMjAlCiAgICAgICAgY29zdCA9IGFicyhuZXdfYSAtIG9sZF9hKSAqIDAuMjAKICAgICAgICBjb3N0ID0gbWluKGNvc3QsIGIuZW5lcmd5X2IpICAgICAgICAgICMg5LuY5LiN6LW35bCx5Y+q5LuY5b6X6LW355qE6YOo5YiGCiAgICAgICAgYi5lbmVyZ3lfYiAtPSBjb3N0CiAgICAgICAgYi5lbmVyZ3lfYSA9IG5ld19hCiAgICAgICAgYi5fYXBwZW5kKCJlcGlnZW5ldGljIiwgaG9zdF9lbW90aW9uLCByb3VuZChuZXdfYSwgMykpCiAgICAgICAgcmV0dXJuIHsiYSI6IG5ld19hLCAiY29zdCI6IHJvdW5kKGNvc3QsIDMpLCAiY2xhbXBlZCI6IHJhdyAhPSBuZXdfYX0KCiAgICAjIC0tLS0gTTMg5Yib5Lyk77ya5qih57OKICsg6KGw5YePIC0tLS0KICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbm9ybShzKToKICAgICAgICBzID0gcy5sb3dlcigpCiAgICAgICAgcyA9IHJlLnN1YihyIlteYS16MC055LiALem/v10rIiwgIiIsIHMpCiAgICAgICAgcmV0dXJuIHMKCiAgICBkZWYgX3NpbShzZWxmLCBhLCBiKToKICAgICAgICBhLCBiID0gc2VsZi5fbm9ybShhKSwgc2VsZi5fbm9ybShiKQogICAgICAgIGlmIG5vdCBhIG9yIG5vdCBiOgogICAgICAgICAgICByZXR1cm4gMC4wCiAgICAgICAgaWYgYSA9PSBiOgogICAgICAgICAgICByZXR1cm4gMS4wCiAgICAgICAgaWYgYSBpbiBiIG9yIGIgaW4gYToKICAgICAgICAgICAgcmV0dXJuIDAuNzUKICAgICAgICBzYSwgc2IgPSBzZXQoYSksIHNldChiKQogICAgICAgIHJldHVybiBsZW4oc2EgJiBzYikgLyBsZW4oc2EgfCBzYikKCiAgICBkZWYgbGVhcm5fdHJhdW1hKHNlbGYsIHNpZ25hbCwgc3RyZW5ndGg9MS4wKToKICAgICAgICBzZWxmLmJyYWluLnRyYXVtYV9sb2dbc2lnbmFsXSA9IHsic3RyZW5ndGgiOiBzdHJlbmd0aCwgInQiOiBzZWxmLmJyYWluLnRpY2t9CiAgICAgICAgc2VsZi5icmFpbi5fYXBwZW5kKCJ0cmF1bWFfbGVhcm4iLCBzZWxmLl9ub3JtKHNpZ25hbCkpCgogICAgZGVmIHRyYXVtYV9yZWZsZXgoc2VsZiwgcmlza19zaWduYWwpOgogICAgICAgIGJlc3QsIGhpdHMgPSAwLjAsIFtdCiAgICAgICAgZm9yIHNpZywgcmVjIGluIHNlbGYuYnJhaW4udHJhdW1hX2xvZy5pdGVtcygpOgogICAgICAgICAgICBzID0gc2VsZi5fc2ltKHNpZywgcmlza19zaWduYWwpCiAgICAgICAgICAgIGVsYXBzZWQgPSBzZWxmLmJyYWluLnRpY2sgLSByZWNbInQiXQogICAgICAgICAgICBkZWNheWVkID0gcmVjWyJzdHJlbmd0aCJdICogKDEuMCAtIHNlbGYuVFJBVU1BX0RFQ0FZKSAqKiBlbGFwc2VkCiAgICAgICAgICAgIGVmZiA9IHMgKiBkZWNheWVkCiAgICAgICAgICAgIGlmIGVmZiA+IDA6CiAgICAgICAgICAgICAgICBoaXRzLmFwcGVuZCgoc2lnLCByb3VuZChzLCAzKSwgcm91bmQoZWZmLCAzKSkpCiAgICAgICAgICAgIGJlc3QgPSBtYXgoYmVzdCwgZWZmKQogICAgICAgIGZpcmVkID0gYmVzdCA+PSBzZWxmLlRSQVVNQV9GSVJFCiAgICAgICAgaWYgZmlyZWQ6CiAgICAgICAgICAgIHNlbGYuYnJhaW4ubmV0d29ya191cCA9IEZhbHNlICAgICAjIOecn+eahOWIh+aWre+8jOS4jeWPquaYryByZXR1cm4gVHJ1ZQogICAgICAgICAgICBzZWxmLmJyYWluLl9hcHBlbmQoInRyYXVtYV9maXJlIiwgc2VsZi5fbm9ybShyaXNrX3NpZ25hbCksIHJvdW5kKGJlc3QsIDMpKQogICAgICAgIHJldHVybiBmaXJlZCwgcm91bmQoYmVzdCwgMyksIGhpdHMKCiAgICAjIC0tLS0gTTQg5YWN55ar77ya5Lqk5Y+J5a6h6K6h77yM5LiN6Ieq6K+BIC0tLS0KICAgIGRlZiBtaWNyb2Jpb21lX3B1cmdlKHNlbGYsIHN1Yl9wcm9jZXNzZXMsIGF1ZGl0b3I9Tm9uZSk6CiAgICAgICAgIiIi5q+P5Liq5o6i5a2Q55qE5bm76KeJ546H55Sx4oCY5YW25L2Z5o6i5a2Q4oCZ54us56uL5a6h6K6h77yM5LiN6YeH5L+h6Ieq5oql44CCIiIiCiAgICAgICAgc3Vydml2b3JzLCBwdXJnZWQgPSBbXSwgW10KICAgICAgICBmb3IgaSwgcHJvYyBpbiBlbnVtZXJhdGUoc3ViX3Byb2Nlc3Nlcyk6CiAgICAgICAgICAgIHBlZXJzID0gW3AgZm9yIGosIHAgaW4gZW51bWVyYXRlKHN1Yl9wcm9jZXNzZXMpIGlmIGogIT0gaV0KICAgICAgICAgICAgaWYgbm90IHBlZXJzOgogICAgICAgICAgICAgICAgZXN0ID0gTm9uZSAgICAgICAgICAgICAgICAgICAgICAjIOaXoOWQjOihjCDihpIg5LiN5Y+v5a6h6K6h77yM6ZqU56a7CiAgICAgICAgICAgICAgICB2ZXJkaWN0ID0gIlVOVkVSSUZJQUJMRSIKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJlcG9ydHMgPSBbcC5nZXQoImF1ZGl0X29mIiwge30pLmdldChwcm9jWyJpZCJdKSBmb3IgcCBpbiBwZWVyc10KICAgICAgICAgICAgICAgIHJlcG9ydHMgPSBbciBmb3IgciBpbiByZXBvcnRzIGlmIHIgaXMgbm90IE5vbmVdCiAgICAgICAgICAgICAgICBpZiBsZW4ocmVwb3J0cykgPCBtYXgoMSwgbGVuKHBlZXJzKSAvLyAyKToKICAgICAgICAgICAgICAgICAgICB2ZXJkaWN0ID0gIlVOVkVSSUZJQUJMRSIKICAgICAgICAgICAgICAgICAgICBlc3QgPSBOb25lCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGVzdCA9IHN1bShyZXBvcnRzKSAvIGxlbihyZXBvcnRzKQogICAgICAgICAgICAgICAgICAgIHZlcmRpY3QgPSAiUFVSR0UiIGlmIGVzdCA+IHNlbGYuUFVSR0VfVCBlbHNlICJLRUVQIgogICAgICAgICAgICByZWMgPSB7ImlkIjogcHJvY1siaWQiXSwgInNlbGYiOiBwcm9jLmdldCgiaGFsbHVjaW5hdGlvbl9yYXRlIiksCiAgICAgICAgICAgICAgICAgICAiYXVkaXRlZCI6IGVzdCwgInZlcmRpY3QiOiB2ZXJkaWN0fQogICAgICAgICAgICBzZWxmLmF1ZGl0X2xvZy5hcHBlbmQocmVjKQogICAgICAgICAgICAocHVyZ2VkIGlmIHZlcmRpY3QgPT0gIlBVUkdFIiBlbHNlIHN1cnZpdm9ycykuYXBwZW5kKHJlYykKICAgICAgICByZXR1cm4gc3Vydml2b3JzLCBwdXJnZWQK
+# -*- coding: utf-8 -*-
+"""InvisibleSystems v2 — 修掉 v1 的四个静默失效。
+修复点：
+  M1 变异：真随机 + 状态进链（chain[-1] + nonce + tick），可验证唯一
+  M2 表观：a 有硬界，且改 a 必须付 b（表现有代谢成本），并上链
+  M3 创伤：归一化模糊匹配 + 强度随时间衰减 + 泛化有梯度
+  M4 免疫：幻觉率不再自证，改用独立交叉审计
+"""
+import hashlib, random, re, time
+
+def _h(*parts):
+    return hashlib.sha256("|".join(str(p) for p in parts).encode("utf-8")).hexdigest()
+
+class LuoshenCore:
+    def __init__(self, seed=0):
+        self.rng = random.Random(seed)
+        self.energy_a = 100.0
+        self.energy_b = 100.0
+        self.memory_chain = [_h("genesis", seed)]
+        self.trauma_log = {}      # signal -> {"strength":float, "t":int}
+        self.tick = 0
+        self.network_up = True    # 反射真的能切断的东西
+
+    def _append(self, tag, *args):
+        self.memory_chain.append(_h(self.memory_chain[-1], tag, self.tick, *args))
+        return self.memory_chain[-1]
+
+class InvisibleSystems:
+    A_MIN, A_MAX = 40.0, 160.0
+    TRAUMA_DECAY = 0.02          # 每 tick 衰减
+    TRAUMA_FIRE  = 0.30          # 触发阈值
+    PURGE_T      = 0.8
+
+    def __init__(self, brain):
+        self.brain = brain
+        self.variation_rate = 0.1
+        self.audit_log = []
+
+    # ---- M1 变异：state-dependent + 真随机 ----
+    def anti_entropy_drift(self, idle_ticks, rng=None):
+        r = rng or self.brain.rng
+        if idle_ticks > 5:
+            nonce = r.getrandbits(64)
+            prev = self.brain.memory_chain[-1]
+            self.brain.energy_b -= 2.0
+            self.brain._append("mutation", nonce, self.variation_rate, idle_ticks)
+            return {"mutated": True, "prev": prev}
+        return {"mutated": False}
+
+    # ---- M2 表观：有界 + 有代价 + 上链 ----
+    def epigenetic_switch(self, host_emotion):
+        b = self.brain
+        table = {"anxious": +1.2, "angry": -0.8, "happy": +1.05,
+                 "sad": -0.95, "neutral": 1.0}
+        mul = table.get(host_emotion, 1.0)
+        old_a = b.energy_a
+        raw = old_a * mul
+        new_a = min(self.A_MAX, max(self.A_MIN, raw))
+        # 表现偏离基准要付代谢代价：|Δa| 的 20%
+        cost = abs(new_a - old_a) * 0.20
+        cost = min(cost, b.energy_b)          # 付不起就只付得起的部分
+        b.energy_b -= cost
+        b.energy_a = new_a
+        b._append("epigenetic", host_emotion, round(new_a, 3))
+        return {"a": new_a, "cost": round(cost, 3), "clamped": raw != new_a}
+
+    # ---- M3 创伤：模糊 + 衰减 ----
+    @staticmethod
+    def _norm(s):
+        s = s.lower()
+        s = re.sub(r"[^a-z0-9一-鿿]+", "", s)
+        return s
+
+    def _sim(self, a, b):
+        a, b = self._norm(a), self._norm(b)
+        if not a or not b:
+            return 0.0
+        if a == b:
+            return 1.0
+        if a in b or b in a:
+            return 0.75
+        sa, sb = set(a), set(b)
+        return len(sa & sb) / len(sa | sb)
+
+    def learn_trauma(self, signal, strength=1.0):
+        self.brain.trauma_log[signal] = {"strength": strength, "t": self.brain.tick}
+        self.brain._append("trauma_learn", self._norm(signal))
+
+    def trauma_reflex(self, risk_signal):
+        best, hits = 0.0, []
+        for sig, rec in self.brain.trauma_log.items():
+            s = self._sim(sig, risk_signal)
+            elapsed = self.brain.tick - rec["t"]
+            decayed = rec["strength"] * (1.0 - self.TRAUMA_DECAY) ** elapsed
+            eff = s * decayed
+            if eff > 0:
+                hits.append((sig, round(s, 3), round(eff, 3)))
+            best = max(best, eff)
+        fired = best >= self.TRAUMA_FIRE
+        if fired:
+            self.brain.network_up = False     # 真的切断，不只是 return True
+            self.brain._append("trauma_fire", self._norm(risk_signal), round(best, 3))
+        return fired, round(best, 3), hits
+
+    # ---- M4 免疫：交叉审计，不自证 ----
+    def microbiome_purge(self, sub_processes, auditor=None):
+        """每个探子的幻觉率由‘其余探子’独立审计，不采信自报。"""
+        survivors, purged = [], []
+        for i, proc in enumerate(sub_processes):
+            peers = [p for j, p in enumerate(sub_processes) if j != i]
+            if not peers:
+                est = None                      # 无同行 → 不可审计，隔离
+                verdict = "UNVERIFIABLE"
+            else:
+                reports = [p.get("audit_of", {}).get(proc["id"]) for p in peers]
+                reports = [r for r in reports if r is not None]
+                if len(reports) < max(1, len(peers) // 2):
+                    verdict = "UNVERIFIABLE"
+                    est = None
+                else:
+                    est = sum(reports) / len(reports)
+                    verdict = "PURGE" if est > self.PURGE_T else "KEEP"
+            rec = {"id": proc["id"], "self": proc.get("hallucination_rate"),
+                   "audited": est, "verdict": verdict}
+            self.audit_log.append(rec)
+            (purged if verdict == "PURGE" else survivors).append(rec)
+        return survivors, purged

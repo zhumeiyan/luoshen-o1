@@ -1,1 +1,90 @@
-ewogICJ0cyI6ICIyMDI2LTEwLTIwIDE1OjM1OjIzIiwKICAiY2hhbm5lbHMiOiB7CiAgICAi6KeG6KeJwrfnrKblj7coT0NSKSI6ICJSRUFMIiwKICAgICLop4bop4nCt+WHoOS9lSjlvaLnirYpIjogIlJFQUwiLAogICAgIuWxj+W5lcK35bin57yT5YayIjogIlJFQUwiLAogICAgIui+k+WFpcK35LqL5Lu25rWBIjogIlJFQUwiLAogICAgIuWQrOinicK36YeH6ZuGIjogIlVOQVZBSUxBQkxFIiwKICAgICLnjq/looPCt+a4qea5v+WOiyI6ICJSRUFMIiwKICAgICLmnKzkvZPop4nCt+i0n+i9veWGheWtmCI6ICJSRUFMIgogIH0sCiAgImNvbnRyYWRpY3Rpb24iOiB7CiAgICAiY2FzZXMiOiBbCiAgICAgIHsKICAgICAgICAic2hhcGUiOiAi5ZyGIiwKICAgICAgICAibGFiZWwiOiAi5pa5IiwKICAgICAgICAib2NyIjogIuaWuSIsCiAgICAgICAgImdlbyI6ICLlnIYiLAogICAgICAgICJjaXJjIjogMC44OTYsCiAgICAgICAgImlzX2NvbmZsaWN0IjogdHJ1ZSwKICAgICAgICAic3RyaWN0IjogdHJ1ZSwKICAgICAgICAibG9vc2UiOiB0cnVlCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAic2hhcGUiOiAi5pa5IiwKICAgICAgICAibGFiZWwiOiAi5ZyGIiwKICAgICAgICAib2NyIjogIuWbviIsCiAgICAgICAgImdlbyI6ICLmlrkiLAogICAgICAgICJjaXJjIjogMC43ODUsCiAgICAgICAgImlzX2NvbmZsaWN0IjogdHJ1ZSwKICAgICAgICAic3RyaWN0IjogZmFsc2UsCiAgICAgICAgImxvb3NlIjogdHJ1ZQogICAgICB9LAogICAgICB7CiAgICAgICAgInNoYXBlIjogIuS4ieinkiIsCiAgICAgICAgImxhYmVsIjogIuaYnyIsCiAgICAgICAgIm9jciI6ICLkuIkiLAogICAgICAgICJnZW8iOiAi5LiJ6KeSIiwKICAgICAgICAiY2lyYyI6IDAuNTU0LAogICAgICAgICJpc19jb25mbGljdCI6IHRydWUsCiAgICAgICAgInN0cmljdCI6IGZhbHNlLAogICAgICAgICJsb29zZSI6IHRydWUKICAgICAgfSwKICAgICAgewogICAgICAgICJzaGFwZSI6ICLmmJ8iLAogICAgICAgICJsYWJlbCI6ICLkuInop5IiLAogICAgICAgICJvY3IiOiAi5LiJ6KeSIiwKICAgICAgICAiZ2VvIjogIuaYnyIsCiAgICAgICAgImNpcmMiOiAwLjI4LAogICAgICAgICJpc19jb25mbGljdCI6IHRydWUsCiAgICAgICAgInN0cmljdCI6IHRydWUsCiAgICAgICAgImxvb3NlIjogdHJ1ZQogICAgICB9LAogICAgICB7CiAgICAgICAgInNoYXBlIjogIuWchiIsCiAgICAgICAgImxhYmVsIjogIuWchiIsCiAgICAgICAgIm9jciI6ICLlm74iLAogICAgICAgICJnZW8iOiAi5ZyGIiwKICAgICAgICAiY2lyYyI6IDAuODk2LAogICAgICAgICJpc19jb25mbGljdCI6IGZhbHNlLAogICAgICAgICJzdHJpY3QiOiBmYWxzZSwKICAgICAgICAibG9vc2UiOiBmYWxzZQogICAgICB9LAogICAgICB7CiAgICAgICAgInNoYXBlIjogIuaWuSIsCiAgICAgICAgImxhYmVsIjogIuaWuSIsCiAgICAgICAgIm9jciI6ICLmlrkiLAogICAgICAgICJnZW8iOiAi5pa5IiwKICAgICAgICAiY2lyYyI6IDAuNzg1LAogICAgICAgICJpc19jb25mbGljdCI6IGZhbHNlLAogICAgICAgICJzdHJpY3QiOiBmYWxzZSwKICAgICAgICAibG9vc2UiOiBmYWxzZQogICAgICB9CiAgICBdLAogICAgImNvbmZsaWN0X3RvdGFsIjogNCwKICAgICJzdHJpY3RfZGV0ZWN0ZWQiOiAyLAogICAgImxvb3NlX2RldGVjdGVkIjogNCwKICAgICJvY3JfYWNjIjogIjMvNiIsCiAgICAiZ2VvX2FjYyI6ICI2LzYiLAogICAgIm5vdGUiOiAi5Lil5qC8PeS4pOmAmumBk+Wdh+WIpOWvuTsg5a695p2+PeS4pOmAmumBk+etlOahiOS4jeS4gOiHtOWNs+aatOmcsuWGsueqgeOAgjA4OOWPt+abvua1izQvNCwg5LuK5pel5Lil5qC85Y+j5b6E5LiL6ZmNLCDlm6AgdGVzc2VyYWN0IGNoaV9zaW0g5a+55Y2V5a2X6K+G5Yir5oqW5YqoKOWchi0+5Zu+L+WRmCksIOmdnumAu+i+keWPmOabtOOAguWmguWunuiusOW9lSwg5LiN5Zue5pS55Yik5a6a5Lul5Yi35pWw44CCIgogIH0sCiAgImRldGFpbCI6IHsKICAgICLlsY/luZXCt+W4p+e8k+WGsiI6ICJieXRlcz0xMjI4ODAwIGluaz0xLjAwMDAiLAogICAgIui+k+WFpcK35LqL5Lu25rWBIjogImV2ZGV2IG9wZW5fb2siLAogICAgIuWQrOinicK36YeH6ZuGIjogInBjbUMwRDBjIGV4aXN0cyBidXQgbW9kZSA2MDAsIG5vdCByZWFkYWJsZSIsCiAgICAi546v5aKDwrfmuKnmub/ljosiOiAiSFRUUCAyMDAiLAogICAgIuacrOS9k+inicK36LSf6L295YaF5a2YIjogImxvYWQ9MS4yMyBtZW1BdmFpbD0xODE3NzUyIGtCIgogIH0sCiAgInVuYXZhaWxhYmxlX25vdGUiOiAiVU5BVkFJTEFCTEUgPSDnjq/looPmi5Lnu50v57y656Gs5Lu2L+e8uuadg+mZkCwg5aaC5a6e5LiK5oql5Y6f5ZugLCDnu53kuI3pnZnpu5jpmY3nuqfmiJAgU0lNVUxBVEVEIOWGkuWFhSIKfQ==
+{
+  "ts": "2026-10-20 15:35:23",
+  "channels": {
+    "视觉·符号(OCR)": "REAL",
+    "视觉·几何(形状)": "REAL",
+    "屏幕·帧缓冲": "REAL",
+    "输入·事件流": "REAL",
+    "听觉·采集": "UNAVAILABLE",
+    "环境·温湿压": "REAL",
+    "本体觉·负载内存": "REAL"
+  },
+  "contradiction": {
+    "cases": [
+      {
+        "shape": "圆",
+        "label": "方",
+        "ocr": "方",
+        "geo": "圆",
+        "circ": 0.896,
+        "is_conflict": true,
+        "strict": true,
+        "loose": true
+      },
+      {
+        "shape": "方",
+        "label": "圆",
+        "ocr": "图",
+        "geo": "方",
+        "circ": 0.785,
+        "is_conflict": true,
+        "strict": false,
+        "loose": true
+      },
+      {
+        "shape": "三角",
+        "label": "星",
+        "ocr": "三",
+        "geo": "三角",
+        "circ": 0.554,
+        "is_conflict": true,
+        "strict": false,
+        "loose": true
+      },
+      {
+        "shape": "星",
+        "label": "三角",
+        "ocr": "三角",
+        "geo": "星",
+        "circ": 0.28,
+        "is_conflict": true,
+        "strict": true,
+        "loose": true
+      },
+      {
+        "shape": "圆",
+        "label": "圆",
+        "ocr": "图",
+        "geo": "圆",
+        "circ": 0.896,
+        "is_conflict": false,
+        "strict": false,
+        "loose": false
+      },
+      {
+        "shape": "方",
+        "label": "方",
+        "ocr": "方",
+        "geo": "方",
+        "circ": 0.785,
+        "is_conflict": false,
+        "strict": false,
+        "loose": false
+      }
+    ],
+    "conflict_total": 4,
+    "strict_detected": 2,
+    "loose_detected": 4,
+    "ocr_acc": "3/6",
+    "geo_acc": "6/6",
+    "note": "严格=两通道均判对; 宽松=两通道答案不一致即暴露冲突。088号曾测4/4, 今日严格口径下降, 因 tesseract chi_sim 对单字识别抖动(圆->图/员), 非逻辑变更。如实记录, 不回改判定以刷数。"
+  },
+  "detail": {
+    "屏幕·帧缓冲": "bytes=1228800 ink=1.0000",
+    "输入·事件流": "evdev open_ok",
+    "听觉·采集": "pcmC0D0c exists but mode 600, not readable",
+    "环境·温湿压": "HTTP 200",
+    "本体觉·负载内存": "load=1.23 memAvail=1817752 kB"
+  },
+  "unavailable_note": "UNAVAILABLE = 环境拒绝/缺硬件/缺权限, 如实上报原因, 绝不静默降级成 SIMULATED 冒充"
+}

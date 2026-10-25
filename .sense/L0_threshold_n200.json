@@ -1,1 +1,22 @@
-ewogIjAuMCI6IHsKICAibiI6IDIwMCwKICAiYWxpdmUiOiAxNzcsCiAgInJhdGUiOiAwLjg4NSwKICAiY2kiOiBbCiAgIDAuODQsCiAgIDAuOTI1CiAgXSwKICAic3RlcHMiOiA1ODcuNTEKIH0sCiAiMC4wNSI6IHsKICAibiI6IDIwMCwKICAiYWxpdmUiOiAxNjYsCiAgInJhdGUiOiAwLjgzLAogICJjaSI6IFsKICAgMC43NzUsCiAgIDAuODgKICBdLAogICJzdGVwcyI6IDU3NS4xNgogfQp9
+{
+ "0.0": {
+  "n": 200,
+  "alive": 177,
+  "rate": 0.885,
+  "ci": [
+   0.84,
+   0.925
+  ],
+  "steps": 587.51
+ },
+ "0.05": {
+  "n": 200,
+  "alive": 166,
+  "rate": 0.83,
+  "ci": [
+   0.775,
+   0.88
+  ],
+  "steps": 575.16
+ }
+}

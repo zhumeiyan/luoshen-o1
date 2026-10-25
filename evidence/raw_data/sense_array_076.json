@@ -1,1 +1,227 @@
-ewogInRpbWVzdGFtcCI6ICIyMDI2LTEwLTE2IDIzOjI4OjQ4IENTVCIsCiAiY2l0aWVzIjogWwogIHsKICAgImNpdHkiOiAi5aiB5rW3IiwKICAgImxhdCI6IDM3LjUxMzA5LAogICAibG9uIjogMTIyLjEyMDc0LAogICAidGVtcGVyYXR1cmUiOiAxNy4wLAogICAiaHVtaWRpdHkiOiA4OC4wLAogICAicHJlc3N1cmUiOiAxMDEwLjAsCiAgICJ3ZWF0aGVyIjogIuaZtOWkqSIsCiAgICJ1cGRhdGVfdGltZSI6ICIyMDI2LTEwLTE2IDIzOjI1IgogIH0sCiAgewogICAiY2l0eSI6ICLljJfkuqwiLAogICAibGF0IjogMzkuOTA0MiwKICAgImxvbiI6IDExNi40MDc0LAogICAidGVtcGVyYXR1cmUiOiAxNi4wLAogICAiaHVtaWRpdHkiOiA1NC4wLAogICAicHJlc3N1cmUiOiAxMDE5LjAsCiAgICJ3ZWF0aGVyIjogIumYtCIsCiAgICJ1cGRhdGVfdGltZSI6ICIyMDI2LTEwLTE2IDIzOjI1IgogIH0sCiAgewogICAiY2l0eSI6ICLkuIrmtbciLAogICAibGF0IjogMzEuMjMwNCwKICAgImxvbiI6IDEyMS40NzM3LAogICAidGVtcGVyYXR1cmUiOiAyMi4wLAogICAiaHVtaWRpdHkiOiA3Ny4wLAogICAicHJlc3N1cmUiOiAxMDE4LjAsCiAgICJ3ZWF0aGVyIjogIuWkmuS6kSIsCiAgICJ1cGRhdGVfdGltZSI6ICIyMDI2LTEwLTE2IDIzOjI1IgogIH0sCiAgewogICAiY2l0eSI6ICLlub/lt54iLAogICAibGF0IjogMjMuMTI5MSwKICAgImxvbiI6IDExMy4yNjQ0LAogICAidGVtcGVyYXR1cmUiOiAyMy4wLAogICAiaHVtaWRpdHkiOiA5Mi4wLAogICAicHJlc3N1cmUiOiAxMDA3LjAsCiAgICJ3ZWF0aGVyIjogIuaZtOWkqSIsCiAgICJ1cGRhdGVfdGltZSI6ICIyMDI2LTEwLTE2IDIzOjI1IgogIH0sCiAgewogICAiY2l0eSI6ICLmt7HlnLMiLAogICAibGF0IjogMjIuNTQzMSwKICAgImxvbiI6IDExNC4wNTc5LAogICAidGVtcGVyYXR1cmUiOiAyNi4wLAogICAiaHVtaWRpdHkiOiA3OS4wLAogICAicHJlc3N1cmUiOiAxMDA4LjAsCiAgICJ3ZWF0aGVyIjogIuWkmuS6kSIsCiAgICJ1cGRhdGVfdGltZSI6ICIyMDI2LTEwLTE2IDIzOjI1IgogIH0sCiAgewogICAiY2l0eSI6ICLmi4nokKgiLAogICAibGF0IjogMjkuNjUyLAogICAibG9uIjogOTEuMTcyMSwKICAgInRlbXBlcmF0dXJlIjogOC4wLAogICAiaHVtaWRpdHkiOiAzMS4wLAogICAicHJlc3N1cmUiOiA2NDAuMCwKICAgIndlYXRoZXIiOiAi5pm05aSpIiwKICAgInVwZGF0ZV90aW1lIjogIjIwMjYtMTAtMTYgMjM6MjUiCiAgfSwKICB7CiAgICJjaXR5IjogIuS4ieS6miIsCiAgICJsYXQiOiAxOC4yNTI4LAogICAibG9uIjogMTA5LjUxMTksCiAgICJ0ZW1wZXJhdHVyZSI6IDIzLjAsCiAgICJodW1pZGl0eSI6IDkzLjAsCiAgICJwcmVzc3VyZSI6IDk3Ni4wLAogICAid2VhdGhlciI6ICLlpJrkupEiLAogICAidXBkYXRlX3RpbWUiOiAiMjAyNi0xMC0xNiAyMzoyNSIKICB9LAogIHsKICAgImNpdHkiOiAi5oiQ6YO9IiwKICAgImxhdCI6IDMwLjU3MjgsCiAgICJsb24iOiAxMDQuMDY2OCwKICAgInRlbXBlcmF0dXJlIjogMTkuMCwKICAgImh1bWlkaXR5IjogMTAwLjAsCiAgICJwcmVzc3VyZSI6IDk1MC4wLAogICAid2VhdGhlciI6ICLpmLQiLAogICAidXBkYXRlX3RpbWUiOiAiMjAyNi0xMC0xNiAyMzoyNSIKICB9LAogIHsKICAgImNpdHkiOiAi6KW/5a6JIiwKICAgImxhdCI6IDM0LjM0MTYsCiAgICJsb24iOiAxMDguOTM5OCwKICAgInRlbXBlcmF0dXJlIjogMTcuMCwKICAgImh1bWlkaXR5IjogODcuMCwKICAgInByZXNzdXJlIjogOTY0LjAsCiAgICJ3ZWF0aGVyIjogIumYtCIsCiAgICJ1cGRhdGVfdGltZSI6ICIyMDI2LTEwLTE2IDIzOjI1IgogIH0sCiAgewogICAiY2l0eSI6ICLmrabmsYkiLAogICAibGF0IjogMzAuNTkyOCwKICAgImxvbiI6IDExNC4zMDU1LAogICAidGVtcGVyYXR1cmUiOiAyMS4wLAogICAiaHVtaWRpdHkiOiAxMDAuMCwKICAgInByZXNzdXJlIjogMTAxMC4wLAogICAid2VhdGhlciI6ICLpm74iLAogICAidXBkYXRlX3RpbWUiOiAiMjAyNi0xMC0xNiAyMzoyNSIKICB9CiBdLAogImludGVybyI6IFsKICB7CiAgICJ0IjogMCwKICAgImxvYWQiOiAwLjkzLAogICAibWVtX2F2YWlsX21iIjogMTc5My41ODk4NDM3NSwKICAgInJ0dF9tcyI6IDgzLjcsCiAgICJjbG9jayI6ICIyMzoyODo0OSIKICB9LAogIHsKICAgInQiOiAzLAogICAibG9hZCI6IDAuOTQsCiAgICJtZW1fYXZhaWxfbWIiOiAxNzkzLjU4OTg0Mzc1LAogICAicnR0X21zIjogOTMuMywKICAgImNsb2NrIjogIjIzOjI4OjUyIgogIH0sCiAgewogICAidCI6IDYsCiAgICJsb2FkIjogMC45NCwKICAgIm1lbV9hdmFpbF9tYiI6IDE3OTMuNTg5ODQzNzUsCiAgICJydHRfbXMiOiAxNDkuMCwKICAgImNsb2NrIjogIjIzOjI4OjU1IgogIH0sCiAgewogICAidCI6IDksCiAgICJsb2FkIjogMC45NCwKICAgIm1lbV9hdmFpbF9tYiI6IDE3OTMuMzQ3NjU2MjUsCiAgICJydHRfbXMiOiA5Ny44LAogICAiY2xvY2siOiAiMjM6Mjg6NTgiCiAgfSwKICB7CiAgICJ0IjogMTIsCiAgICJsb2FkIjogMC44NywKICAgIm1lbV9hdmFpbF9tYiI6IDE3OTMuMzQ3NjU2MjUsCiAgICJydHRfbXMiOiA5NS40LAogICAiY2xvY2siOiAiMjM6Mjk6MDEiCiAgfSwKICB7CiAgICJ0IjogMTUsCiAgICJsb2FkIjogMC44LAogICAibWVtX2F2YWlsX21iIjogMTc5My4zNDc2NTYyNSwKICAgInJ0dF9tcyI6IDk3LjMsCiAgICJjbG9jayI6ICIyMzoyOTowNSIKICB9LAogIHsKICAgInQiOiAxOCwKICAgImxvYWQiOiAwLjgsCiAgICJtZW1fYXZhaWxfbWIiOiAxNzkzLjM1NTQ2ODc1LAogICAicnR0X21zIjogMTAyLjYsCiAgICJjbG9jayI6ICIyMzoyOTowOCIKICB9LAogIHsKICAgInQiOiAyMSwKICAgImxvYWQiOiAwLjgxLAogICAibWVtX2F2YWlsX21iIjogMTc5My4zNTU0Njg3NSwKICAgInJ0dF9tcyI6IDkwLjAsCiAgICJjbG9jayI6ICIyMzoyOToxMSIKICB9LAogIHsKICAgInQiOiAyNCwKICAgImxvYWQiOiAwLjgxLAogICAibWVtX2F2YWlsX21iIjogMTc5My4xMTMyODEyNSwKICAgInJ0dF9tcyI6IDkxLjIsCiAgICJjbG9jayI6ICIyMzoyOToxNCIKICB9LAogIHsKICAgInQiOiAyNywKICAgImxvYWQiOiAwLjkxLAogICAibWVtX2F2YWlsX21iIjogMTc5My4xMTMyODEyNSwKICAgInJ0dF9tcyI6IDg5LjgsCiAgICJjbG9jayI6ICIyMzoyOToxNyIKICB9CiBdLAogInJ0dF9wcm9iZSI6IFsKICB7CiAgICJjaXR5IjogIuWogea1tyIsCiAgICJydHRfbXMiOiA5Ny42CiAgfSwKICB7CiAgICJjaXR5IjogIuWMl+S6rCIsCiAgICJydHRfbXMiOiA4Ni4zCiAgfSwKICB7CiAgICJjaXR5IjogIuS4iua1tyIsCiAgICJydHRfbXMiOiA4OS4zCiAgfSwKICB7CiAgICJjaXR5IjogIuW5v+W3niIsCiAgICJydHRfbXMiOiA5OC4wCiAgfSwKICB7CiAgICJjaXR5IjogIua3seWcsyIsCiAgICJydHRfbXMiOiA5NC40CiAgfSwKICB7CiAgICJjaXR5IjogIuWTiOWwlOa7qCIsCiAgICJydHRfbXMiOiA3MC43CiAgfSwKICB7CiAgICJjaXR5IjogIuS5jOmygeacqOm9kCIsCiAgICJydHRfbXMiOiA4MS43CiAgfSwKICB7CiAgICJjaXR5IjogIuaLieiQqCIsCiAgICJydHRfbXMiOiA4NC42CiAgfSwKICB7CiAgICJjaXR5IjogIuS4ieS6miIsCiAgICJydHRfbXMiOiA5NS43CiAgfSwKICB7CiAgICJjaXR5IjogIuaIkOmDvSIsCiAgICJydHRfbXMiOiA5Mi45CiAgfSwKICB7CiAgICJjaXR5IjogIuilv+WuiSIsCiAgICJydHRfbXMiOiA5MS4zCiAgfSwKICB7CiAgICJjaXR5IjogIuatpuaxiSIsCiAgICJydHRfbXMiOiA5Mi40CiAgfQogXQp9
+{
+ "timestamp": "2026-10-16 23:28:48 CST",
+ "cities": [
+  {
+   "city": "威海",
+   "lat": 37.51309,
+   "lon": 122.12074,
+   "temperature": 17.0,
+   "humidity": 88.0,
+   "pressure": 1010.0,
+   "weather": "晴天",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "北京",
+   "lat": 39.9042,
+   "lon": 116.4074,
+   "temperature": 16.0,
+   "humidity": 54.0,
+   "pressure": 1019.0,
+   "weather": "阴",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "上海",
+   "lat": 31.2304,
+   "lon": 121.4737,
+   "temperature": 22.0,
+   "humidity": 77.0,
+   "pressure": 1018.0,
+   "weather": "多云",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "广州",
+   "lat": 23.1291,
+   "lon": 113.2644,
+   "temperature": 23.0,
+   "humidity": 92.0,
+   "pressure": 1007.0,
+   "weather": "晴天",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "深圳",
+   "lat": 22.5431,
+   "lon": 114.0579,
+   "temperature": 26.0,
+   "humidity": 79.0,
+   "pressure": 1008.0,
+   "weather": "多云",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "拉萨",
+   "lat": 29.652,
+   "lon": 91.1721,
+   "temperature": 8.0,
+   "humidity": 31.0,
+   "pressure": 640.0,
+   "weather": "晴天",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "三亚",
+   "lat": 18.2528,
+   "lon": 109.5119,
+   "temperature": 23.0,
+   "humidity": 93.0,
+   "pressure": 976.0,
+   "weather": "多云",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "成都",
+   "lat": 30.5728,
+   "lon": 104.0668,
+   "temperature": 19.0,
+   "humidity": 100.0,
+   "pressure": 950.0,
+   "weather": "阴",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "西安",
+   "lat": 34.3416,
+   "lon": 108.9398,
+   "temperature": 17.0,
+   "humidity": 87.0,
+   "pressure": 964.0,
+   "weather": "阴",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "武汉",
+   "lat": 30.5928,
+   "lon": 114.3055,
+   "temperature": 21.0,
+   "humidity": 100.0,
+   "pressure": 1010.0,
+   "weather": "雾",
+   "update_time": "2026-10-16 23:25"
+  }
+ ],
+ "intero": [
+  {
+   "t": 0,
+   "load": 0.93,
+   "mem_avail_mb": 1793.58984375,
+   "rtt_ms": 83.7,
+   "clock": "23:28:49"
+  },
+  {
+   "t": 3,
+   "load": 0.94,
+   "mem_avail_mb": 1793.58984375,
+   "rtt_ms": 93.3,
+   "clock": "23:28:52"
+  },
+  {
+   "t": 6,
+   "load": 0.94,
+   "mem_avail_mb": 1793.58984375,
+   "rtt_ms": 149.0,
+   "clock": "23:28:55"
+  },
+  {
+   "t": 9,
+   "load": 0.94,
+   "mem_avail_mb": 1793.34765625,
+   "rtt_ms": 97.8,
+   "clock": "23:28:58"
+  },
+  {
+   "t": 12,
+   "load": 0.87,
+   "mem_avail_mb": 1793.34765625,
+   "rtt_ms": 95.4,
+   "clock": "23:29:01"
+  },
+  {
+   "t": 15,
+   "load": 0.8,
+   "mem_avail_mb": 1793.34765625,
+   "rtt_ms": 97.3,
+   "clock": "23:29:05"
+  },
+  {
+   "t": 18,
+   "load": 0.8,
+   "mem_avail_mb": 1793.35546875,
+   "rtt_ms": 102.6,
+   "clock": "23:29:08"
+  },
+  {
+   "t": 21,
+   "load": 0.81,
+   "mem_avail_mb": 1793.35546875,
+   "rtt_ms": 90.0,
+   "clock": "23:29:11"
+  },
+  {
+   "t": 24,
+   "load": 0.81,
+   "mem_avail_mb": 1793.11328125,
+   "rtt_ms": 91.2,
+   "clock": "23:29:14"
+  },
+  {
+   "t": 27,
+   "load": 0.91,
+   "mem_avail_mb": 1793.11328125,
+   "rtt_ms": 89.8,
+   "clock": "23:29:17"
+  }
+ ],
+ "rtt_probe": [
+  {
+   "city": "威海",
+   "rtt_ms": 97.6
+  },
+  {
+   "city": "北京",
+   "rtt_ms": 86.3
+  },
+  {
+   "city": "上海",
+   "rtt_ms": 89.3
+  },
+  {
+   "city": "广州",
+   "rtt_ms": 98.0
+  },
+  {
+   "city": "深圳",
+   "rtt_ms": 94.4
+  },
+  {
+   "city": "哈尔滨",
+   "rtt_ms": 70.7
+  },
+  {
+   "city": "乌鲁木齐",
+   "rtt_ms": 81.7
+  },
+  {
+   "city": "拉萨",
+   "rtt_ms": 84.6
+  },
+  {
+   "city": "三亚",
+   "rtt_ms": 95.7
+  },
+  {
+   "city": "成都",
+   "rtt_ms": 92.9
+  },
+  {
+   "city": "西安",
+   "rtt_ms": 91.3
+  },
+  {
+   "city": "武汉",
+   "rtt_ms": 92.4
+  }
+ ]
+}

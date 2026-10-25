@@ -1,1 +1,5 @@
-ewogImNvZGUiOiAiOFkyRks4IiwKICJvY3IiOiAiRTAxMTYgTE9HSUMgQ09ERSA4WTJGSzhcbmNsYXNzaWNhbCB0cnVlT1EgZmFsc2UgNCBERUFEXG5MUCB0cnVlNSBmYWxzZSA0IE9LXG5yZWxhdGl2ZSB0cnVlNSBmYWxzZSA4IE9LXG50ZW1wb3JhbCB0cnVlNiBmYWxzZSAxIE9LXG5keW4gaz0wIGdhcCAwLjUgaz0yIGZsaXAgZm9yZXZlclxuZHluIGs+MiBkaXZlcmdlIGs8MiBjb252ZXJnZVxucHJlcyBzYXRyYW5nZSAwLjAwMzRcblxuZW5naW5lIGZsaXAtaG9sZCBkZWx0YSAwLjAwOTMgbnNcblxmIiwKICJoaXQiOiB0cnVlCn0=
+{
+ "code": "8Y2FK8",
+ "ocr": "E0116 LOGIC CODE 8Y2FK8\nclassical trueOQ false 4 DEAD\nLP true5 false 4 OK\nrelative true5 false 8 OK\ntemporal true6 false 1 OK\ndyn k=0 gap 0.5 k=2 flip forever\ndyn k>2 diverge k<2 converge\npres satrange 0.0034\n\nengine flip-hold delta 0.0093 ns\n\f",
+ "hit": true
+}

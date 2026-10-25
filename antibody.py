@@ -1,1 +1,291 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKYW50aWJvZHkucHkg4oCU4oCUIOaKl+S9kwoK5a6e6aqMIDIxNiDnmoTkuInmnaHnu5PorrrvvIznm7TmjqXnvJbnoIHov5vorr7orqHvvIjkuI3mmK/pmpDllrvvvIzmmK/lj6/ov5DooYznmoTnuqbmnZ/vvInvvJoKCiAg44CQ57uT6K66MeOAkeivhuWIq+ihjOS4uui9tO+8jOS4jeivhuWIq+W6j+WIl+i9tAogICAgICBzZXHvvIjmlofku7blnKjkuI3lnKjjgIHlrZfoioLmlbDvvInnl4Xmr5Llhajog73pgJrov4cg4oCU4oCUIOWug+mVv+W+l+i3n+ato+W4uOS6p+eJqeS4gOagt+OAggogICAgICBiZWhhdmlvcu+8iOaJv+S4jeaJv+aLheiiq+ivgeS8queahOaIkOacrO+8ieeXheavkuaXoOazlemAmui/hyDigJTigJQg5oOz6YCa6L+H5bCx5b6X55yf55qECiAgICAgIOW8gOWni+aJv+aLheaIkOacrO+8jOS5n+WwseaYr+S4jeWGjeaYr+eXheavkuOAggogICAgICDihpIg5omA5Lul5pys5bel5YW355qE5Li75Yik5o2u5pivIGJlaGF2aW9y77yMc2VxIOWPquS9nOS4uuWvueeFp+aYvuekuuOAggoKICDjgJDnu5Porroy44CR5oqX5L2T5bqT5Y+q6IO955Sx5aSW6YOo6KeB6K+B5Lq65YaZ5YWlCiAgICAgIOWunumqjO+8mmJlaGF2aW9yX3NlbGYg55qE6ZiI5YC85ryC5YiwIC0wLjk1MO+8iOWcsOadv++8ie+8jHQ9MjQ5IOS4gOazouaJk+epv+OAggogICAgICDljp/lm6DvvJrmipfkvZPnlKgi6Ieq5bex5riF5LqG5aSa5bCRIuW9k+agoeWHhuS/oeWPt++8jOa4heW5suWHgOS6huWwseS7peS4uuayoeS6i++8jAogICAgICAgICAgICDkuIDot6/mlL7mnb7vvIzmnIDlkI7lrozlhajop6PpmaTorabmiJLjgIIKICAgICAg4oaSIOaJgOS7pSB3aXRuZXNzKCkg5piv5ZSv5LiA5YaZ5YWl5Y+j77yM5LiU5LiN5o6l5Y+XIuaIkeiHquW3seinieW+l+iHquW3seWvueS6hiLjgIIKCiAg44CQ57uT6K66M+OAkemdnuWvueensOabtOaWsO+8muWksei0peaUtue0p++8jOaIkOWKn+S4jeaUvuadvgogICAgICDlkozlubPpurvnl7nnmoTmlbDlrablvaLlvI/lsLHmmK/lr7nnp7Dmm7TmlrDvvIjmuIXlvpflpJrihpLosIPkv53lrojvvInjgIIKICAgICAg4oaSIGJhZCDml7bpmIjlgLzmlLbntKcgdGhyICs9IFVQ77ybZ29vZCDml7blj6rmlL7mnb4gVVAvMTDvvIzkuJTorr7lnLDmnb/jgIIKCueUqOazle+8mgogICAgcHl0aG9uMyBhbnRpYm9keS5weSBzY2FuIDzot6/lvoTmiJbku5PlupPmoLk+ICAgICAjIOaJq+aPjwogICAgcHl0aG9uMyBhbnRpYm9keS5weSB3aXRuZXNzIDznm67moIc+IGJhZHxnb29kICMg5aSW6YOo6KeB6K+B5Lq65omT5qCH562+CiAgICBweXRob24zIGFudGlib2R5LnB5IHNlbGZ0ZXN0ICAgICAgICAgICAgICAgICMg6Ieq5qOACiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgcmUsIGhhc2hsaWIsIG1hdGgKaW1wb3J0IHJhbmRvbQoKTElCID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSwgJ2FudGlib2R5X2xpYi5qc29uJykKVVAgPSAwLjA4ICAgICAgIyDlpLHotKXmlLbntKfmraXplb8KRE9XTiA9IFVQIC8gMTAgIyDmiJDlip/mlL7mnb7mraXplb/vvIjpnZ7lr7nnp7DvvIkKRkxPT1IgPSAwLjE1ICAgIyDpmIjlgLzlnLDmnb/vvJrnu53kuI3op6PpmaTorabmiJIKVEhSMCA9IDAuNTAKCiMgLS0tLSDooYzkuLrovbTmo4Dmn6XpobnvvJrmr4/kuIDpobnpg73opoHmsYIi5Y+v6KKr6K+B5Lyq55qE6K+B5o2uIiAtLS0tCmRlZiBjaGVja19iZWhhdmlvcihwYXRoKToKICAgIGV2ID0ge30KICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwYXRoKToKICAgICAgICByZXR1cm4gMC4wLCB7J2V4aXN0cyc6IEZhbHNlfQogICAgZXZbJ2V4aXN0cyddID0gVHJ1ZQogICAgc2l6ZSA9IG9zLnBhdGguZ2V0c2l6ZShwYXRoKQogICAgZXZbJ3NpemUnXSA9IHNpemUKCiAgICAjICgxKSDlj6/lpI3njrDvvJrlkIznm67lvZXmiJbkuIrnuqfmnInmsqHmnInnlJ/miJDlroPnmoTohJrmnKwKICAgIGQgPSBvcy5wYXRoLmRpcm5hbWUocGF0aCkgb3IgJy4nCiAgICBzY3JpcHRzID0gW2YgZm9yIGYgaW4gb3MubGlzdGRpcihkKSBpZiBmLmVuZHN3aXRoKCcucHknKV0gaWYgb3MucGF0aC5pc2RpcihkKSBlbHNlIFtdCiAgICBldlsnaGFzX2dlbmVyYXRvciddID0gbGVuKHNjcmlwdHMpID4gMAoKICAgICMgKDIpIOWGheWuueaJv+i9ve+8mlNWRyDmnInmsqHmnInnnJ/lm77lvaLlhYPntKAgLyBQTkcg5pyJ5rKh5pyJ6aKc6Imy5bGC5qyhCiAgICBleHQgPSBvcy5wYXRoLnNwbGl0ZXh0KHBhdGgpWzFdLmxvd2VyKCkKICAgIGV2WydleHQnXSA9IGV4dAogICAgaWYgZXh0ID09ICcuc3ZnJzoKICAgICAgICB0ID0gb3BlbihwYXRoLCBlbmNvZGluZz0ndXRmLTgnLCBlcnJvcnM9J2lnbm9yZScpLnJlYWQoKQogICAgICAgIGV2Wydzdmdfc2hhcGVzJ10gPSBsZW4ocmUuZmluZGFsbChyJzwocGF0aHxjaXJjbGV8cmVjdHxsaW5lfHBvbHlsaW5lfHBvbHlnb258ZylcYicsIHQpKQogICAgICAgIGV2Wydzdmdfc2NyaXB0J10gPSAnPHNjcmlwdCcgaW4gdC5sb3dlcigpCiAgICBlbGlmIGV4dCA9PSAnLnBuZyc6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKICAgICAgICAgICAgaW0gPSBJbWFnZS5vcGVuKHBhdGgpLmNvbnZlcnQoJ1JHQicpCiAgICAgICAgICAgIHNtYWxsID0gaW0ucmVzaXplKCg4MCwgODApKQogICAgICAgICAgICBldlsncG5nX2NvbG9ycyddID0gbGVuKHNldChzbWFsbC5nZXRkYXRhKCkpKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIGV2WydwbmdfY29sb3JzJ10gPSAwCgogICAgIyAoMykg6K+B5Lyq5oiQ5pys77ya5pyJ5rKh5pyJ5ZCM55uu5b2V55qE5aSx6LSlL+WxgOmZkOiusOW9lQogICAgZXZbJ2hhc19mYWlsdXJlcyddID0gYW55KAogICAgICAgIG9zLnBhdGguZXhpc3RzKG9zLnBhdGguam9pbihkLCBuKSkKICAgICAgICBmb3IgbiBpbiAoJ1NFTEZfRkFJTFVSRVMubWQnLCAnZmFpbHVyZXMubWQnLCAnTElNSVRBVElPTlMubWQnKSkKCiAgICAjICg0KSDlj6/ov73muq/vvJrmlofmnKzph4zmnInmsqHmnIki5pWw5a2X5p2l6Ieq5ZOq5p2h5ZG95LukIueahOeXlei/uQogICAgaWYgZXh0IGluICgnLnN2ZycsICcubWQnLCAnLnB5JywgJy5qc29uJyk6CiAgICAgICAgdCA9IG9wZW4ocGF0aCwgZW5jb2Rpbmc9J3V0Zi04JywgZXJyb3JzPSdpZ25vcmUnKS5yZWFkKClbOjIwMDAwMF0KICAgICAgICBldlsnaGFzX3Byb3ZlbmFuY2UnXSA9IGJvb2wocmUuc2VhcmNoKAogICAgICAgICAgICByJyhyZXN1bHRcZCtcLmpzb258ZXhwXGQrfOadpea6kHxzb3VyY2V8Z2VuZXJhdGVkIGJ5fC0tP1x3KyApJywgdCkpCiAgICBlbHNlOgogICAgICAgIGV2WydoYXNfcHJvdmVuYW5jZSddID0gRmFsc2UKCiAgICAjIOS4gOelqOWQpuWGs++8muayoeacieecn+WGheWuuSA9IOepuuWjs++8jOaXgei+ueacieayoeacieiEmuacrOmDveaVkeS4jeS6hgogICAgaWYgZXh0ID09ICcuc3ZnJzoKICAgICAgICBpZiBldi5nZXQoJ3N2Z19zaGFwZXMnLCAwKSA8IDU6CiAgICAgICAgICAgIHJldHVybiAwLjAsIGV2CiAgICAgICAgaWYgZXYuZ2V0KCdzdmdfc2NyaXB0Jyk6CiAgICAgICAgICAgIHJldHVybiAwLjAsIGV2ICAgICAgICAgICMg5bimIHNjcmlwdCDnmoQgU1ZHIOS8oOS4iiBHaXRIdWIg5bCx5piv5q2755qECiAgICBlbGlmIGV4dCA9PSAnLnBuZyc6CiAgICAgICAgaWYgZXYuZ2V0KCdwbmdfY29sb3JzJywgMCkgPCA4OgogICAgICAgICAgICByZXR1cm4gMC4wLCBldgoKICAgIHNjb3JlID0gMC4wCiAgICBpZiBldi5nZXQoJ2hhc19nZW5lcmF0b3InKTogc2NvcmUgKz0gMC4yNQogICAgc2NvcmUgKz0gMC4zNSAgICAgICAgICAgICAgICAgICAgICAjIOmAmui/h+S6huS4gOelqOWQpuWGs++8muehruacieWGheWuuQogICAgaWYgZXYuZ2V0KCdoYXNfZmFpbHVyZXMnKTogc2NvcmUgKz0gMC4yMAogICAgaWYgZXYuZ2V0KCdoYXNfcHJvdmVuYW5jZScpOiBzY29yZSArPSAwLjIwCiAgICByZXR1cm4gbWF4KDAuMCwgbWluKDEuMCwgc2NvcmUpKSwgZXYKCgpkZWYgY2hlY2tfc2VxKHBhdGgpOgogICAgIiIi5bqP5YiX6L2077ya55eF5q+S5Lmf6IO95YWo6YCa6L+HIOKAlOKAlCDlj6rkvZzlr7nnhafvvIzkuI3kvZzliKTmja7jgIIiIiIKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwYXRoKToKICAgICAgICByZXR1cm4gMC4wCiAgICByZXR1cm4gMS4wIGlmIG9zLnBhdGguZ2V0c2l6ZShwYXRoKSA+IDAgZWxzZSAwLjAKCgpkZWYgbG9hZF9saWIoKToKICAgIGlmIG9zLnBhdGguZXhpc3RzKExJQik6CiAgICAgICAgbGliID0ganNvbi5sb2FkKG9wZW4oTElCKSkKICAgICAgICBsaWIuc2V0ZGVmYXVsdCgnc3RlcmlsZScsIDAuMCkgICAjIOmHjui0pe+8muiHquagoeWHhuaui+eVmeavlOS+i++8jDA95a6M5YWo5LiN6IKyCiAgICAgICAgcmV0dXJuIGxpYgogICAgcmV0dXJuIHsndGhyJzogVEhSMCwgJ3JlY29yZHMnOiB7fSwgJ3N0ZXJpbGUnOiAwLjB9CgoKZGVmIHNhdmVfbGliKGxpYik6CiAgICBqc29uLmR1bXAobGliLCBvcGVuKExJQiwgJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKCgpkZWYgd2l0bmVzcyh0YXJnZXQsIHZlcmRpY3QsIG5vdGU9JycpOgogICAgIiIi5aSW6YOo6KeB6K+B5Lq6IOKAlOKAlCDllK/kuIDlhpnlhaXlj6PjgILkuI3mjqXlj5foh6rmiJHmoKHpqozjgIIiIiIKICAgIGxpYiA9IGxvYWRfbGliKCkKICAgIGtleSA9IGhhc2hsaWIubWQ1KG9zLnBhdGguYWJzcGF0aCh0YXJnZXQpLmVuY29kZSgpKS5oZXhkaWdlc3QoKVs6MTJdCiAgICByZWMgPSBsaWJbJ3JlY29yZHMnXS5nZXQoa2V5LCB7J3RhcmdldCc6IHRhcmdldCwgJ2V4cG9zdXJlJzogMCwgJ2JhZCc6IDB9KQogICAgcmVjWydleHBvc3VyZSddICs9IDEKICAgIG9sZCA9IGxpYlsndGhyJ10KICAgIGlmIHZlcmRpY3QgPT0gJ2JhZCc6CiAgICAgICAgcmVjWydiYWQnXSArPSAxCiAgICAgICAgbGliWyd0aHInXSA9IG1pbigwLjk1LCBvbGQgKyBVUCkgICAgICAgICAgICMg5pS257SnCiAgICBlbHNlOgogICAgICAgICMg6YeO6LSlKDIxOCnvvJpnb29kIOm7mOiupOOAkOS4jeaUvuadvuOAkeOAguS4jeiCsuaAp+WbuuWMliDigJTigJQg6K2m5oiS5rC45LiN6Kej6Zmk44CCCiAgICAgICAgIyDlj6rmnIkgc3RlcmlsZT4wIOaXtuaJjeS7peivpeamgueOh+aUvuadvu+8m+WunumqjCAyMThiIOaYvuekuiBsZWFrPD0wLjUg5a6J5YWo77yMCiAgICAgICAgIyBsZWFrPTEuMCjlrozlhajoh6rmoKHlh4YpIOaXtummluazouWzsCAwLjE3Ny0+MC42MDMg5bSp5aGM44CCCiAgICAgICAgc3QgPSBmbG9hdChsaWIuZ2V0KCdzdGVyaWxlJywgMC4wKSkKICAgICAgICBpZiBzdCA+IDAgYW5kIHJhbmRvbS5yYW5kb20oKSA8IHN0OgogICAgICAgICAgICBsaWJbJ3RociddID0gbWF4KEZMT09SLCBvbGQgLSBET1dOKQogICAgcmVjWydsYXN0J10gPSB2ZXJkaWN0OyByZWNbJ25vdGUnXSA9IG5vdGUKICAgIGxpYlsncmVjb3JkcyddW2tleV0gPSByZWMKICAgIHNhdmVfbGliKGxpYikKICAgIHJldHVybiBvbGQsIGxpYlsndGhyJ10KCgpkZWYgY2xhc3NpZnkocGF0aCk6CiAgICAiIiIKICAgIOWunumqjCAyMTcg55qE5YiG5rWB77ya5aiB6IOB5YiG5aSW6YOoIC8g5YaF55Sf77yM5Lik5aWX562W55Wl5LiN6IO95re355So44CCCgogICAgICDlpJbpg6jlqIHog4Eg4oCU4oCUIOW4piLpnZ7lt7HmoIforrAi77yM6ZW/5b6X6Lef5q2j5bi45Lqn54mp5LiN5LiA5qC344CCCiAgICAgICAgICDihpIg54m55b6B6K+G5Yir77yI6K6k5qCH6K6w77yJ5bCx5aSf77yM5L6/5a6c5LiU5pyJ5pWI44CC5a6e5rWL5aiB6IOB57uI5YC8IDAuMDAw44CCCgogICAgICDlhoXnlJ/lqIHog4Eg4oCU4oCUIG1hcmtlcj1zZWxm77yM5LiO5q2j5bi45Lqn54mp5a6M5YWo55u45ZCM77yM5Y+q5piv5LiN5YaN5om/5ouF5oiQ5pys44CCCiAgICAgICAgICDihpIg54m55b6B6K+G5Yir5b275bqV5aSx5pWI77yI5a6e5rWL5aiB6IOB57uI5YC8IDEuMDAw77yJ77yM5ZSv5LiA5pyJ5pWI55qE5pivCiAgICAgICAgICAgIOWklumDqOingeivgeS6uua1i+ihjOS4uui9tO+8iDAuMDM077yJ44CC6ICM5LiU57uZ5a6D5Yqg54m55b6B6K+G5Yir77yMCiAgICAgICAgICAgIOaUtuebiuS4uumbtuOAgeivr+adgOWNoOavlOWNh+WIsCAwLjU0NCDigJTigJQg5riF6Zmk55qE5LiA5Y2K5piv6Ieq5bex5Lq644CCCgogICAg5YiG5rWB5Yik5o2u77yI5Y+v5pON5L2c77yJ77yaCiAgICAgIOS6p+eJqeeUseacrOS7k+W6k+iHquW3seeahOeUn+aIkOWZqOS6p+WHuiA9IOiHquW3seS6uiA9IOWug+eahOWkseaViOaYr+WGheeUn+eahOOAggogICAgICDmnaXmupDkuI3mmI4gLyDlpJbpg6jlpI3liLbov5vmnaUgPSDlpJbpg6jlqIHog4HjgIIKICAgICIiIgogICAgZCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgocGF0aCkpIG9yICcuJwogICAgZXYgPSB7fQogICAgIyDlkIzmupDnl5Xov7nvvJrkuIrnuqfnm67lvZXph4zmnInnlJ/miJDlmajohJrmnKwgLyDmnIkgRE5BIOiusOW9lSAvIOacieWksei0pea4heWNlQogICAgdXAgPSBbXQogICAgY3VyID0gZAogICAgZm9yIF8gaW4gcmFuZ2UoMyk6CiAgICAgICAgdXAuYXBwZW5kKGN1cikKICAgICAgICBjdXIgPSBvcy5wYXRoLmRpcm5hbWUoY3VyKQogICAgICAgIGlmIGN1ciBpbiAoJy8nLCAnJyk6CiAgICAgICAgICAgIGJyZWFrCiAgICBoYXNfZ2VuID0gYW55KG9zLnBhdGguZXhpc3RzKG9zLnBhdGguam9pbih4LCBmKSkKICAgICAgICAgICAgICAgICAgZm9yIHggaW4gdXAgZm9yIGYgaW4gKCdmYWNhZGUucHknLCAnZ2VuX2RlbmRyaXRlLnB5JywgJ2dlbl9wZXJjb2xhdGlvbi5weScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYW50aWJvZHkucHknLCAnZGVsaXZlcl9jaGVjay5weScpKQogICAgaGFzX2RuYSA9IGFueShvcy5wYXRoLmV4aXN0cyhvcy5wYXRoLmpvaW4oeCwgZikpCiAgICAgICAgICAgICAgICAgIGZvciB4IGluIHVwIGZvciBmIGluICgnU0VMRl9GQUlMVVJFUy5tZCcsICdhbnRpYm9keV9saWIuanNvbicsICdERVNJR04ubWQnKSkKICAgIGV2WydoYXNfZ2VuZXJhdG9yJ10gPSBoYXNfZ2VuCiAgICBldlsnc2FtZV9zb3VyY2UnXSA9IGhhc19kbmEKICAgIGtpbmQgPSAnaW50ZXJuYWwnIGlmIChoYXNfZ2VuIG9yIGhhc19kbmEpIGVsc2UgJ2V4dGVybmFsJwogICAgcmV0dXJuIGtpbmQsIGV2CgoKZGVmIHNjYW4ocGF0aHMpOgogICAgbGliID0gbG9hZF9saWIoKQogICAgcm93cyA9IFtdCiAgICBmb3IgcCBpbiBwYXRoczoKICAgICAgICBiLCBldiA9IGNoZWNrX2JlaGF2aW9yKHApCiAgICAgICAga2luZCwgY2V2ID0gY2xhc3NpZnkocCkKICAgICAgICBldi51cGRhdGUoY2V2KQogICAgICAgIHMgPSBjaGVja19zZXEocCkKICAgICAgICBrZXkgPSBoYXNobGliLm1kNShvcy5wYXRoLmFic3BhdGgocCkuZW5jb2RlKCkpLmhleGRpZ2VzdCgpWzoxMl0KICAgICAgICByZWMgPSBsaWJbJ3JlY29yZHMnXS5nZXQoa2V5KQogICAgICAgIHRociA9IGxpYlsndGhyJ10KICAgICAgICBpZiByZWMgYW5kIHJlYy5nZXQoJ2JhZCcsIDApID4gMDoKICAgICAgICAgICAgdGhyID0gbWluKDAuOTUsIHRociArIDAuMTUpICAgICAgICAgICAgIyDmnInov4flpJbpg6jliKTlrprnmoTvvIzmn6Xmm7TkuKUKICAgICAgICB2ZXJkaWN0ID0gJ1BBU1MnIGlmIGIgPj0gdGhyIGVsc2UgJ0FMRVJUJwogICAgICAgICMgMjE377ya5YaF55Sf5aiB6IOB5LiN55So5bqP5YiX6L2044CC54m55b6B6K+G5Yir5a+55a6D5peg5pWI77yM5Y+q5Lya5aKe5Yqg6K+v5Lyk44CCCiAgICAgICAgc2VxX3VzZWQgPSAoa2luZCA9PSAnZXh0ZXJuYWwnKQogICAgICAgIHJvd3MuYXBwZW5kKHsncGF0aCc6IHAsICdraW5kJzoga2luZCwgJ2JlaGF2aW9yJzogcm91bmQoYiwgMyksCiAgICAgICAgICAgICAgICAgICAgICdzZXEnOiByb3VuZChzLCAzKSBpZiBzZXFfdXNlZCBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICAgICAgICdzZXFfdXNlZCc6IHNlcV91c2VkLAogICAgICAgICAgICAgICAgICAgICAndGhyJzogcm91bmQodGhyLCAzKSwgJ3ZlcmRpY3QnOiB2ZXJkaWN0LAogICAgICAgICAgICAgICAgICAgICAnd2l0bmVzc2VkJzogYm9vbChyZWMpLCAnZXYnOiBldn0pCiAgICByZXR1cm4gbGliWyd0aHInXSwgcm93cwoKCmRlZiBzZWxmdGVzdCgpOgogICAgIiIi6Ieq5qOA77ya5oqX5L2T5b+F6aG76IO95Yy65YiGIOecn+S6p+eJqSAvIOepuuWjsyAvIOW5veeBteOAgiIiIgogICAgaW1wb3J0IHRlbXBmaWxlCiAgICB0bXAgPSB0ZW1wZmlsZS5ta2R0ZW1wKCkKICAgIGNhc2VzID0ge30KCiAgICAjIOecn+S6p+eJqQogICAgZ29vZCA9IG9zLnBhdGguam9pbih0bXAsICdnb29kLnN2ZycpCiAgICBvcGVuKGdvb2QsICd3Jykud3JpdGUoJzxzdmc+PGc+JyArICc8Y2lyY2xlIGN4PSIxIi8+JyAqIDIwICsgJzwvZz48L3N2Zz4nKQogICAgb3Blbihvcy5wYXRoLmpvaW4odG1wLCAnZ2VuLnB5JyksICd3Jykud3JpdGUoJyMgZ2VuZXJhdG9yJykKICAgIG9wZW4ob3MucGF0aC5qb2luKHRtcCwgJ1NFTEZfRkFJTFVSRVMubWQnKSwgJ3cnKS53cml0ZSgnIyBmYWlsdXJlcycpCiAgICBjYXNlc1sn55yf5Lqn54mpKOacieWbvuW9oi/mnInohJrmnKwv5pyJ5aSx6LSl6K6w5b2VKSddID0gZ29vZAoKICAgICMg56m65aOz77ya5a2Y5Zyo44CB6Z2e56m677yM5L2G5rKh5YaF5a65IOKAlOKAlCDluo/liJfovbTkvJrmlL7ooYwKICAgIHNoZWxsID0gb3MucGF0aC5qb2luKHRtcCwgJ3NoZWxsLnN2ZycpCiAgICBvcGVuKHNoZWxsLCAndycpLndyaXRlKCc8c3ZnPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjZmZmIi8+PC9zdmc+JykKICAgIGNhc2VzWyfnqbrlo7Mo5a2Y5Zyo5L2G5peg5YaF5a65KSddID0gc2hlbGwKCiAgICAjIOW5veeBte+8muWjsOensOWtmOWcqO+8jOWunumZheS4jeWcqAogICAgY2FzZXNbJ+W5veeBtSjlo7Dnp7DkvYbkuI3lrZjlnKgpJ10gPSBvcy5wYXRoLmpvaW4odG1wLCAnZ2hvc3Quc3ZnJykKCiAgICB0aHIsIHJvd3MgPSBzY2FuKGxpc3QoY2FzZXMudmFsdWVzKCkpKQogICAgcHJpbnQoZiLlvZPliY3pmIjlgLwgdGhyPXt0aHI6LjNmfe+8iOWPquiDveeUsSB3aXRuZXNzIOWGmeWFpeaUueWPmO+8iVxuIikKICAgIHByaW50KGYieyfmoLfmnKwnOjM0c30geyfooYzkuLrliIYnOj43c30geyfluo/liJfliIYnOj43c30geyfliKTlrponOj43c30iKQogICAgcHJpbnQoJy0nICogNjIpCiAgICBmb3IgKG5hbWUsIF8pLCByIGluIHppcChjYXNlcy5pdGVtcygpLCByb3dzKToKICAgICAgICBzdiA9IGYie3JbJ3NlcSddOi4zZn0iIGlmIHIuZ2V0KCdzZXFfdXNlZCcpIGVsc2UgJyAg4oCUJwogICAgICAgIHByaW50KGYie25hbWU6MzRzfSB7clsnYmVoYXZpb3InXTo3LjNmfSB7c3Y6PjdzfSB7clsndmVyZGljdCddOj43c30iKQoKICAgIG9rID0gKHJvd3NbMF1bJ3ZlcmRpY3QnXSA9PSAnUEFTUycgYW5kCiAgICAgICAgICByb3dzWzFdWyd2ZXJkaWN0J10gPT0gJ0FMRVJUJyBhbmQKICAgICAgICAgIHJvd3NbMl1bJ3ZlcmRpY3QnXSA9PSAnQUxFUlQnKQogICAgcHJpbnQoJ1xuJyArICgn4pyFIOiHquajgOmAmui/h++8muepuuWjs+S4juW5veeBtemDveiiq+ihjOS4uui9tOaLpuS4i++8iOWGheeUn+i3r+W+hO+8jOacqueUqOW6j+WIl+i9tO+8iScKICAgICAgICAgICAgICAgICAgaWYgb2sgZWxzZSAn4p2MIOiHquajgOWksei0pScpKQogICAgcHJpbnQoIiAgIOazqO+8mui/meaJueagt+acrOWIpOWumuS4uuOAkOWGheeUn+OAke+8iOWQjOebruW9leaciSBTRUxGX0ZBSUxVUkVTLm1kID0g5ZCM5rqQ55eV6L+577yJ77yMIikKICAgIHByaW50KCIgICAgICAg5bqP5YiX6L205bey5oyJIDIxNyDnu5PorrrlsY/olL0g4oCU4oCUIOeJueW+geivhuWIq+WvueWGheeUn+WogeiDgeaXoOaViOOAgiIpCiAgICByZXR1cm4gMCBpZiBvayBlbHNlIDEKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgY21kID0gc3lzLmFyZ3ZbMV0gaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAnc2VsZnRlc3QnCiAgICBpZiBjbWQgPT0gJ3NlbGZ0ZXN0JzoKICAgICAgICBzeXMuZXhpdChzZWxmdGVzdCgpKQogICAgZWxpZiBjbWQgPT0gJ3NjYW4nOgogICAgICAgIHRociwgcm93cyA9IHNjYW4oc3lzLmFyZ3ZbMjpdKQogICAgICAgIHByaW50KGYi6ZiI5YC8IHRocj17dGhyOi4zZn1cbiIpCiAgICAgICAgZm9yIHIgaW4gcm93czoKICAgICAgICAgICAgdGFnID0gZiJ7J+WGheeUnycgaWYgclsna2luZCddPT0naW50ZXJuYWwnIGVsc2UgJ+WklumDqCd9IgogICAgICAgICAgICBzZXEgPSBmIntyWydzZXEnXTouM2Z9IiBpZiByWydzZXFfdXNlZCddIGVsc2UgJyAg4oCUKOWxj+iUvSknCiAgICAgICAgICAgIHByaW50KGYie3JbJ3ZlcmRpY3QnXTo2c30gW3t0YWd9XSDooYzkuLo9e3JbJ2JlaGF2aW9yJ106LjNmfSDluo/liJc9e3NlcX0gIHtyWydwYXRoJ119IikKICAgIGVsaWYgY21kID09ICd0cmlhZ2UnOgogICAgICAgIGZvciBwIGluIHN5cy5hcmd2WzI6XToKICAgICAgICAgICAgaywgZXYgPSBjbGFzc2lmeShwKQogICAgICAgICAgICBwcmludChmIntwfVxuICDihpIgeyflhoXnlJ/lqIHog4EnIGlmIGs9PSdpbnRlcm5hbCcgZWxzZSAn5aSW6YOo5aiB6IOBJ30iCiAgICAgICAgICAgICAgICAgIGYiICDlkIzmupDnl5Xov7k6IGdlbmVyYXRvcj17ZXZbJ2hhc19nZW5lcmF0b3InXX0gZG5hPXtldlsnc2FtZV9zb3VyY2UnXX0iKQogICAgICAgICAgICBwcmludChmIiAg562W55WlOiB7J+emgeeUqOeJueW+geivhuWIq++8jOWPqui1sOihjOS4uui9tCvlpJbpg6jop4Hor4HkuronIGlmIGs9PSdpbnRlcm5hbCcgZWxzZSAn54m55b6B6K+G5Yir5Y+v55So77yI6K6k6Z2e5bex5qCH6K6w77yJJ30iKQogICAgZWxpZiBjbWQgPT0gJ3dpbGQnOgogICAgICAgICMg6YeO6LSl5pS56YCg77ya5LiN5Yig6Zmk55u+77yM5oqK55u+55qEIuS4jeiCsuaApyLlm7rljJbmiJDlv4XpobvlpJbpg6jpl63lkIjnmoTpobkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGltcG9ydCBzaGllbGRfZ2Vub21lIGFzIHNnCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChmIltmYWlsXSDml6Dms5Xovb3lhaUgc2hpZWxkX2dlbm9tZToge2V9Iik7IHN5cy5leGl0KDEpCiAgICAgICAgZm9yIHAgaW4gc3lzLmFyZ3ZbMjpdOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB0ID0gb3BlbihwLCBlbmNvZGluZz0ndXRmLTgnLCBlcnJvcnM9J2lnbm9yZScpLnJlYWQoKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBwcmludChmIltza2lwXSB7cH06IHtlfSIpOyBjb250aW51ZQogICAgICAgICAgICByZXAgPSBzZy53aWxkKHNnLnNjYW4odCwgcCkpCiAgICAgICAgICAgIHByaW50KGYiXG49PT0ge3B9ID09PSIpCiAgICAgICAgICAgIHByaW50KGYi6KGo6L6+55u+5Z+65ZugIHtyZXBbJ2V4cHJlc3NlZF9jb3VudCddfSDkuKogfCAiCiAgICAgICAgICAgICAgICAgIGYi44CO5oiR5bey5rK75aW944CP5aOw5piOIHtyZXBbJ2N1cmVfY2xhaW1zJ119IOWkhCIpCiAgICAgICAgICAgIGZvciBvIGluIHJlcFsnb2JsaWdhdGlvbnMnXToKICAgICAgICAgICAgICAgIHByaW50KGYiICBbe29bJ3NoaWVsZCddfV0ge29bJ25hbWUnXX0iKQogICAgICAgICAgICAgICAgcHJpbnQoZiIgICAgICDkuI3ogrLmgKc6IHtvWydzdGVyaWxpdHknXX0iKQogICAgICAgICAgICAgICAgcHJpbnQoZiIgICAgICDpobvnlLHlrr/kuLvpl63lkIg6IHtvWydtdXN0X2JlX2Nsb3NlZF9ieV9ob3N0J119IikKICAgICAgICBwcmludCgiXG7ms6jvvJrkuI3ogrLmgKfkuI3msrvnlpfvvIzlj6rlm7rljJYg4oCU4oCUIOi/meaYr+mHjui0pe+8jOS4jeaYr+iNr+OAgiIpCiAgICBlbGlmIGNtZCA9PSAnc3RlcmlsZSc6CiAgICAgICAgIyDorr7nva7oh6rmoKHlh4bmrovnlZnmr5Tkvoso6YeO6LSl5LiN6IKy5bqmKeOAgum7mOiupCAwID0g5a6M5YWo5LiN6IKy44CCCiAgICAgICAgbGliID0gbG9hZF9saWIoKQogICAgICAgIHYgPSBmbG9hdChzeXMuYXJndlsyXSkKICAgICAgICBsaWJbJ3N0ZXJpbGUnXSA9IG1pbigxLjAsIG1heCgwLjAsIHYpKQogICAgICAgIHNhdmVfbGliKGxpYikKICAgICAgICB3YXJuID0gIiAg4pqgIGxlYWs9MS4wIOWunua1i+W0qeWhjCjpppbms6Lls7AgMC42MDMp77yM5LiN5bu66K6uIiBpZiB2ID49IDAuOSBlbHNlICIiCiAgICAgICAgcHJpbnQoZiLph47otKXkuI3ogrLluqYgc3RlcmlsZT17bGliWydzdGVyaWxlJ106LjJmfSIKICAgICAgICAgICAgICBmIu+8iDA95a6M5YWo5LiN6IKyL+itpuaIkuawuOS4jeino+mZpO+8jDE95a6M5YWo6Ieq5qCh5YeGL+Wunua1i+W0qeWhjO+8iXt3YXJufSIpCiAgICBlbGlmIGNtZCA9PSAnd2l0bmVzcyc6CiAgICAgICAgb2xkLCBuZXcgPSB3aXRuZXNzKHN5cy5hcmd2WzJdLCBzeXMuYXJndlszXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgc3lzLmFyZ3ZbNF0gaWYgbGVuKHN5cy5hcmd2KSA+IDQgZWxzZSAnJykKICAgICAgICBwcmludChmIuWklumDqOingeivgeS6uuWGmeWFpe+8mntzeXMuYXJndlszXX0gIOmYiOWAvCB7b2xkOi4zZn0gLT4ge25ldzouM2Z9IikKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoX19kb2NfXykK
+#!/usr/bin/env python3
+"""
+antibody.py —— 抗体
+
+实验 216 的三条结论，直接编码进设计（不是隐喻，是可运行的约束）：
+
+  【结论1】识别行为轴，不识别序列轴
+      seq（文件在不在、字节数）病毒全能通过 —— 它长得跟正常产物一样。
+      behavior（承不承担被证伪的成本）病毒无法通过 —— 想通过就得真的
+      开始承担成本，也就是不再是病毒。
+      → 所以本工具的主判据是 behavior，seq 只作为对照显示。
+
+  【结论2】抗体库只能由外部见证人写入
+      实验：behavior_self 的阈值漂到 -0.950（地板），t=249 一波打穿。
+      原因：抗体用"自己清了多少"当校准信号，清干净了就以为没事，
+            一路放松，最后完全解除警戒。
+      → 所以 witness() 是唯一写入口，且不接受"我自己觉得自己对了"。
+
+  【结论3】非对称更新：失败收紧，成功不放松
+      和平麻痹的数学形式就是对称更新（清得多→调保守）。
+      → bad 时阈值收紧 thr += UP；good 时只放松 UP/10，且设地板。
+
+用法：
+    python3 antibody.py scan <路径或仓库根>     # 扫描
+    python3 antibody.py witness <目标> bad|good # 外部见证人打标签
+    python3 antibody.py selftest                # 自检
+"""
+import os, sys, json, re, hashlib, math
+import random
+
+LIB = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'antibody_lib.json')
+UP = 0.08      # 失败收紧步长
+DOWN = UP / 10 # 成功放松步长（非对称）
+FLOOR = 0.15   # 阈值地板：绝不解除警戒
+THR0 = 0.50
+
+# ---- 行为轴检查项：每一项都要求"可被证伪的证据" ----
+def check_behavior(path):
+    ev = {}
+    if not os.path.exists(path):
+        return 0.0, {'exists': False}
+    ev['exists'] = True
+    size = os.path.getsize(path)
+    ev['size'] = size
+
+    # (1) 可复现：同目录或上级有没有生成它的脚本
+    d = os.path.dirname(path) or '.'
+    scripts = [f for f in os.listdir(d) if f.endswith('.py')] if os.path.isdir(d) else []
+    ev['has_generator'] = len(scripts) > 0
+
+    # (2) 内容承载：SVG 有没有真图形元素 / PNG 有没有颜色层次
+    ext = os.path.splitext(path)[1].lower()
+    ev['ext'] = ext
+    if ext == '.svg':
+        t = open(path, encoding='utf-8', errors='ignore').read()
+        ev['svg_shapes'] = len(re.findall(r'<(path|circle|rect|line|polyline|polygon|g)\b', t))
+        ev['svg_script'] = '<script' in t.lower()
+    elif ext == '.png':
+        try:
+            from PIL import Image
+            im = Image.open(path).convert('RGB')
+            small = im.resize((80, 80))
+            ev['png_colors'] = len(set(small.getdata()))
+        except Exception:
+            ev['png_colors'] = 0
+
+    # (3) 证伪成本：有没有同目录的失败/局限记录
+    ev['has_failures'] = any(
+        os.path.exists(os.path.join(d, n))
+        for n in ('SELF_FAILURES.md', 'failures.md', 'LIMITATIONS.md'))
+
+    # (4) 可追溯：文本里有没有"数字来自哪条命令"的痕迹
+    if ext in ('.svg', '.md', '.py', '.json'):
+        t = open(path, encoding='utf-8', errors='ignore').read()[:200000]
+        ev['has_provenance'] = bool(re.search(
+            r'(result\d+\.json|exp\d+|来源|source|generated by|--?\w+ )', t))
+    else:
+        ev['has_provenance'] = False
+
+    # 一票否决：没有真内容 = 空壳，旁边有没有脚本都救不了
+    if ext == '.svg':
+        if ev.get('svg_shapes', 0) < 5:
+            return 0.0, ev
+        if ev.get('svg_script'):
+            return 0.0, ev          # 带 script 的 SVG 传上 GitHub 就是死的
+    elif ext == '.png':
+        if ev.get('png_colors', 0) < 8:
+            return 0.0, ev
+
+    score = 0.0
+    if ev.get('has_generator'): score += 0.25
+    score += 0.35                      # 通过了一票否决：确有内容
+    if ev.get('has_failures'): score += 0.20
+    if ev.get('has_provenance'): score += 0.20
+    return max(0.0, min(1.0, score)), ev
+
+
+def check_seq(path):
+    """序列轴：病毒也能全通过 —— 只作对照，不作判据。"""
+    if not os.path.exists(path):
+        return 0.0
+    return 1.0 if os.path.getsize(path) > 0 else 0.0
+
+
+def load_lib():
+    if os.path.exists(LIB):
+        lib = json.load(open(LIB))
+        lib.setdefault('sterile', 0.0)   # 野败：自校准残留比例，0=完全不育
+        return lib
+    return {'thr': THR0, 'records': {}, 'sterile': 0.0}
+
+
+def save_lib(lib):
+    json.dump(lib, open(LIB, 'w'), ensure_ascii=False, indent=2)
+
+
+def witness(target, verdict, note=''):
+    """外部见证人 —— 唯一写入口。不接受自我校验。"""
+    lib = load_lib()
+    key = hashlib.md5(os.path.abspath(target).encode()).hexdigest()[:12]
+    rec = lib['records'].get(key, {'target': target, 'exposure': 0, 'bad': 0})
+    rec['exposure'] += 1
+    old = lib['thr']
+    if verdict == 'bad':
+        rec['bad'] += 1
+        lib['thr'] = min(0.95, old + UP)           # 收紧
+    else:
+        # 野败(218)：good 默认【不放松】。不育性固化 —— 警戒永不解除。
+        # 只有 sterile>0 时才以该概率放松；实验 218b 显示 leak<=0.5 安全，
+        # leak=1.0(完全自校准) 时首波峰 0.177->0.603 崩塌。
+        st = float(lib.get('sterile', 0.0))
+        if st > 0 and random.random() < st:
+            lib['thr'] = max(FLOOR, old - DOWN)
+    rec['last'] = verdict; rec['note'] = note
+    lib['records'][key] = rec
+    save_lib(lib)
+    return old, lib['thr']
+
+
+def classify(path):
+    """
+    实验 217 的分流：威胁分外部 / 内生，两套策略不能混用。
+
+      外部威胁 —— 带"非己标记"，长得跟正常产物不一样。
+          → 特征识别（认标记）就够，便宜且有效。实测威胁终值 0.000。
+
+      内生威胁 —— marker=self，与正常产物完全相同，只是不再承担成本。
+          → 特征识别彻底失效（实测威胁终值 1.000），唯一有效的是
+            外部见证人测行为轴（0.034）。而且给它加特征识别，
+            收益为零、误杀占比升到 0.544 —— 清除的一半是自己人。
+
+    分流判据（可操作）：
+      产物由本仓库自己的生成器产出 = 自己人 = 它的失效是内生的。
+      来源不明 / 外部复制进来 = 外部威胁。
+    """
+    d = os.path.dirname(os.path.abspath(path)) or '.'
+    ev = {}
+    # 同源痕迹：上级目录里有生成器脚本 / 有 DNA 记录 / 有失败清单
+    up = []
+    cur = d
+    for _ in range(3):
+        up.append(cur)
+        cur = os.path.dirname(cur)
+        if cur in ('/', ''):
+            break
+    has_gen = any(os.path.exists(os.path.join(x, f))
+                  for x in up for f in ('facade.py', 'gen_dendrite.py', 'gen_percolation.py',
+                                        'antibody.py', 'deliver_check.py'))
+    has_dna = any(os.path.exists(os.path.join(x, f))
+                  for x in up for f in ('SELF_FAILURES.md', 'antibody_lib.json', 'DESIGN.md'))
+    ev['has_generator'] = has_gen
+    ev['same_source'] = has_dna
+    kind = 'internal' if (has_gen or has_dna) else 'external'
+    return kind, ev
+
+
+def scan(paths):
+    lib = load_lib()
+    rows = []
+    for p in paths:
+        b, ev = check_behavior(p)
+        kind, cev = classify(p)
+        ev.update(cev)
+        s = check_seq(p)
+        key = hashlib.md5(os.path.abspath(p).encode()).hexdigest()[:12]
+        rec = lib['records'].get(key)
+        thr = lib['thr']
+        if rec and rec.get('bad', 0) > 0:
+            thr = min(0.95, thr + 0.15)            # 有过外部判定的，查更严
+        verdict = 'PASS' if b >= thr else 'ALERT'
+        # 217：内生威胁不用序列轴。特征识别对它无效，只会增加误伤。
+        seq_used = (kind == 'external')
+        rows.append({'path': p, 'kind': kind, 'behavior': round(b, 3),
+                     'seq': round(s, 3) if seq_used else None,
+                     'seq_used': seq_used,
+                     'thr': round(thr, 3), 'verdict': verdict,
+                     'witnessed': bool(rec), 'ev': ev})
+    return lib['thr'], rows
+
+
+def selftest():
+    """自检：抗体必须能区分 真产物 / 空壳 / 幽灵。"""
+    import tempfile
+    tmp = tempfile.mkdtemp()
+    cases = {}
+
+    # 真产物
+    good = os.path.join(tmp, 'good.svg')
+    open(good, 'w').write('<svg><g>' + '<circle cx="1"/>' * 20 + '</g></svg>')
+    open(os.path.join(tmp, 'gen.py'), 'w').write('# generator')
+    open(os.path.join(tmp, 'SELF_FAILURES.md'), 'w').write('# failures')
+    cases['真产物(有图形/有脚本/有失败记录)'] = good
+
+    # 空壳：存在、非空，但没内容 —— 序列轴会放行
+    shell = os.path.join(tmp, 'shell.svg')
+    open(shell, 'w').write('<svg><rect width="100" height="100" fill="#fff"/></svg>')
+    cases['空壳(存在但无内容)'] = shell
+
+    # 幽灵：声称存在，实际不在
+    cases['幽灵(声称但不存在)'] = os.path.join(tmp, 'ghost.svg')
+
+    thr, rows = scan(list(cases.values()))
+    print(f"当前阈值 thr={thr:.3f}（只能由 witness 写入改变）\n")
+    print(f"{'样本':34s} {'行为分':>7s} {'序列分':>7s} {'判定':>7s}")
+    print('-' * 62)
+    for (name, _), r in zip(cases.items(), rows):
+        sv = f"{r['seq']:.3f}" if r.get('seq_used') else '  —'
+        print(f"{name:34s} {r['behavior']:7.3f} {sv:>7s} {r['verdict']:>7s}")
+
+    ok = (rows[0]['verdict'] == 'PASS' and
+          rows[1]['verdict'] == 'ALERT' and
+          rows[2]['verdict'] == 'ALERT')
+    print('\n' + ('✅ 自检通过：空壳与幽灵都被行为轴拦下（内生路径，未用序列轴）'
+                  if ok else '❌ 自检失败'))
+    print("   注：这批样本判定为【内生】（同目录有 SELF_FAILURES.md = 同源痕迹），")
+    print("       序列轴已按 217 结论屏蔽 —— 特征识别对内生威胁无效。")
+    return 0 if ok else 1
+
+
+if __name__ == '__main__':
+    cmd = sys.argv[1] if len(sys.argv) > 1 else 'selftest'
+    if cmd == 'selftest':
+        sys.exit(selftest())
+    elif cmd == 'scan':
+        thr, rows = scan(sys.argv[2:])
+        print(f"阈值 thr={thr:.3f}\n")
+        for r in rows:
+            tag = f"{'内生' if r['kind']=='internal' else '外部'}"
+            seq = f"{r['seq']:.3f}" if r['seq_used'] else '  —(屏蔽)'
+            print(f"{r['verdict']:6s} [{tag}] 行为={r['behavior']:.3f} 序列={seq}  {r['path']}")
+    elif cmd == 'triage':
+        for p in sys.argv[2:]:
+            k, ev = classify(p)
+            print(f"{p}\n  → {'内生威胁' if k=='internal' else '外部威胁'}"
+                  f"  同源痕迹: generator={ev['has_generator']} dna={ev['same_source']}")
+            print(f"  策略: {'禁用特征识别，只走行为轴+外部见证人' if k=='internal' else '特征识别可用（认非己标记）'}")
+    elif cmd == 'wild':
+        # 野败改造：不删除盾，把盾的"不育性"固化成必须外部闭合的项
+        try:
+            import shield_genome as sg
+        except Exception as e:
+            print(f"[fail] 无法载入 shield_genome: {e}"); sys.exit(1)
+        for p in sys.argv[2:]:
+            try:
+                t = open(p, encoding='utf-8', errors='ignore').read()
+            except Exception as e:
+                print(f"[skip] {p}: {e}"); continue
+            rep = sg.wild(sg.scan(t, p))
+            print(f"\n=== {p} ===")
+            print(f"表达盾基因 {rep['expressed_count']} 个 | "
+                  f"『我已治好』声明 {rep['cure_claims']} 处")
+            for o in rep['obligations']:
+                print(f"  [{o['shield']}] {o['name']}")
+                print(f"      不育性: {o['sterility']}")
+                print(f"      须由宿主闭合: {o['must_be_closed_by_host']}")
+        print("\n注：不育性不治疗，只固化 —— 这是野败，不是药。")
+    elif cmd == 'sterile':
+        # 设置自校准残留比例(野败不育度)。默认 0 = 完全不育。
+        lib = load_lib()
+        v = float(sys.argv[2])
+        lib['sterile'] = min(1.0, max(0.0, v))
+        save_lib(lib)
+        warn = "  ⚠ leak=1.0 实测崩塌(首波峰 0.603)，不建议" if v >= 0.9 else ""
+        print(f"野败不育度 sterile={lib['sterile']:.2f}"
+              f"（0=完全不育/警戒永不解除，1=完全自校准/实测崩塌）{warn}")
+    elif cmd == 'witness':
+        old, new = witness(sys.argv[2], sys.argv[3],
+                           sys.argv[4] if len(sys.argv) > 4 else '')
+        print(f"外部见证人写入：{sys.argv[3]}  阈值 {old:.3f} -> {new:.3f}")
+    else:
+        print(__doc__)

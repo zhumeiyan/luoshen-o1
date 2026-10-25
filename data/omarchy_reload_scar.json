@@ -1,1 +1,325 @@
-ewogIm1lYXN1cmVkIjogewogICJBX3JlbG9hZCI6IHsKICAgImxvIjogMTg2LAogICAiaGkiOiAzMzMsCiAgICJyZWxvYWRzIjogNAogIH0sCiAgIkJfbm9yZWxvYWQiOiB7CiAgICJsbyI6IDM3LAogICAiaGkiOiAxMTMsCiAgICJyZWxvYWRzIjogMAogIH0KIH0sCiAidGlja19tcyI6IDEwLAogInN0YXJ2ZV90aWNrcyI6IHsKICAiQSI6IDI2LAogICJCIjogOAogfSwKICJBIjogWwogIHsKICAgInNlZWQiOiAwLAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNTk5ODIyMjkxNDIwNDQ2NiwKICAgImNhcF9tZWFuIjogMC4yOTkwMjU2NjUwOTU2MTc5NSwKICAgInNoYXJlMCI6IDAuMCwKICAgImZpbmFsX0UiOiAwLjk5MTcyNzc0NTU2MDYyMzUKICB9LAogIHsKICAgInNlZWQiOiAxLAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNjAxMjY5MjcxOTk1MzQ4NCwKICAgImNhcF9tZWFuIjogMC4yOTY4MTY0MDQ2ODkzNjk2NSwKICAgInNoYXJlMCI6IDAuMCwKICAgImZpbmFsX0UiOiAwLjk5MTczNzk5MjExMjAyMzQKICB9LAogIHsKICAgInNlZWQiOiAyLAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNTkzODE3Njk2MjA3MDY1MiwKICAgImNhcF9tZWFuIjogMC4yOTc2MjMyMzI3MjEzNjI4LAogICAic2hhcmUwIjogMC4wLAogICAiZmluYWxfRSI6IDEuMAogIH0sCiAgewogICAic2VlZCI6IDMsCiAgICJhbGl2ZSI6IHRydWUsCiAgICJkZWF0aF90IjogbnVsbCwKICAgImNhcDAiOiAwLjE1OTIxMzM1NDgyMDc1NTc3LAogICAiY2FwX21lYW4iOiAwLjI5OTM4NDQwNTkxMDM1MzYsCiAgICJzaGFyZTAiOiAwLjAsCiAgICJmaW5hbF9FIjogMC44MTQ1ODU5MTIyMjA4OTY3CiAgfSwKICB7CiAgICJzZWVkIjogNCwKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTU4NjY4NDA2MTY3MDc0NzgsCiAgICJjYXBfbWVhbiI6IDAuMjk0ODg2ODY5NTEyNDQ3NywKICAgInNoYXJlMCI6IDAuMCwKICAgImZpbmFsX0UiOiAxLjAKICB9LAogIHsKICAgInNlZWQiOiA1LAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNTkyNjQ1MjE2MjcwMDExNywKICAgImNhcF9tZWFuIjogMC4zMDA1NTEzMTk0NTgxNjM0LAogICAic2hhcmUwIjogMC4wLAogICAiZmluYWxfRSI6IDEuMAogIH0sCiAgewogICAic2VlZCI6IDYsCiAgICJhbGl2ZSI6IHRydWUsCiAgICJkZWF0aF90IjogbnVsbCwKICAgImNhcDAiOiAwLjE2OTU1OTkzNTg3NzE5MTksCiAgICJjYXBfbWVhbiI6IDAuMzA2OTY0MTk1NTEyOTY5OSwKICAgInNoYXJlMCI6IDAuMDAwOTYxODM3MDYwMjI3ODY1OSwKICAgImZpbmFsX0UiOiAwLjcxMzIwMjQ0MTk5NTM0NTMKICB9LAogIHsKICAgInNlZWQiOiA3LAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNjc2MDIyNTQ1NjUwNTY1LAogICAiY2FwX21lYW4iOiAwLjI4MjU5NjgxMDU1NTAxMDg1LAogICAic2hhcmUwIjogMC4wMDg2MzgwNzM2NzEwNjI0NiwKICAgImZpbmFsX0UiOiAwLjAKICB9LAogIHsKICAgInNlZWQiOiA4LAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNTg4ODUzMzc2NzU1OTg1LAogICAiY2FwX21lYW4iOiAwLjI5OTYwMDczMzMwNzkzNjM1LAogICAic2hhcmUwIjogMC4wLAogICAiZmluYWxfRSI6IDAuOTkzCiAgfSwKICB7CiAgICJzZWVkIjogOSwKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTU5NTc3ODAwMzQzMjc4MTgsCiAgICJjYXBfbWVhbiI6IDAuMjk4ODM2NjkwNTg5NzMxNTYsCiAgICJzaGFyZTAiOiAwLjAsCiAgICJmaW5hbF9FIjogMS4wCiAgfSwKICB7CiAgICJzZWVkIjogMTAsCiAgICJhbGl2ZSI6IHRydWUsCiAgICJkZWF0aF90IjogbnVsbCwKICAgImNhcDAiOiAwLjE1ODgyNjM1MzczNjc5ODM1LAogICAiY2FwX21lYW4iOiAwLjI5ODU4NTgxNTI4MzkxMzI2LAogICAic2hhcmUwIjogMC4wLAogICAiZmluYWxfRSI6IDAuNzcwNDE0NjYxNzc5NjcwNAogIH0sCiAgewogICAic2VlZCI6IDExLAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNTkzOTk5MTU2NzMwMTU4NCwKICAgImNhcF9tZWFuIjogMC4zMDI2MTAxOTA3NTIzODU1NCwKICAgInNoYXJlMCI6IDAuMCwKICAgImZpbmFsX0UiOiAxLjAKICB9LAogIHsKICAgInNlZWQiOiAxMiwKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTU5NjY0MTk3NTQ2ODkyNywKICAgImNhcF9tZWFuIjogMC4zMDAzNzY3ODU1MzcyODYwMywKICAgInNoYXJlMCI6IDAuMCwKICAgImZpbmFsX0UiOiAxLjAKICB9LAogIHsKICAgInNlZWQiOiAxMywKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTYwMTk5MzM0MTE2OTkyNjYsCiAgICJjYXBfbWVhbiI6IDAuMzAwMzgwNzIxODI3MDg2NjQsCiAgICJzaGFyZTAiOiAwLjAsCiAgICJmaW5hbF9FIjogMS4wCiAgfSwKICB7CiAgICJzZWVkIjogMTQsCiAgICJhbGl2ZSI6IHRydWUsCiAgICJkZWF0aF90IjogbnVsbCwKICAgImNhcDAiOiAwLjI0NTI0NTI0NjYyODE2NjQ0LAogICAiY2FwX21lYW4iOiAwLjI5NzkyODQ1MDY4MzkwMTMsCiAgICJzaGFyZTAiOiAwLjA4Nzg3MTc2NjAyNDIzMzYsCiAgICJmaW5hbF9FIjogMC45OTI4Nzk5MzE0ODc5MDk4CiAgfSwKICB7CiAgICJzZWVkIjogMTUsCiAgICJhbGl2ZSI6IHRydWUsCiAgICJkZWF0aF90IjogbnVsbCwKICAgImNhcDAiOiAwLjE1OTAyMDQzNDA1Nzk2NDQzLAogICAiY2FwX21lYW4iOiAwLjI5NzA5Mjg4MDM2NzA5NzgsCiAgICJzaGFyZTAiOiAwLjAsCiAgICJmaW5hbF9FIjogMC45OTI5MjQ2NzY4MTkyMjA4CiAgfQogXSwKICJCIjogWwogIHsKICAgInNlZWQiOiAwLAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNjUzOTM4NzY0Mjc5NzA5LAogICAiY2FwX21lYW4iOiAwLjI5NjUxMjkwNDgyNzY5OTEsCiAgICJzaGFyZTAiOiAwLjAsCiAgICJmaW5hbF9FIjogMC43NzI4OTM0OTYxNTM4NTIzCiAgfSwKICB7CiAgICJzZWVkIjogMSwKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTgxNzYyNzQ5MzEwNjQ2NiwKICAgImNhcF9tZWFuIjogMC4yOTg3NjEyNzI1Nzk4NzMzNCwKICAgInNoYXJlMCI6IDAuMDAyNzAwMjY3NjkxNjIxNzY0OCwKICAgImZpbmFsX0UiOiAwLjk5MTc2MTkyMjU0MTQxMzMKICB9LAogIHsKICAgInNlZWQiOiAyLAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xODU0MzYwMDcyMzY3NTc5MywKICAgImNhcF9tZWFuIjogMC4yOTkxMjc0ODAwODM1NTQ5LAogICAic2hhcmUwIjogMC4wMDQxMzc0MTQ2OTQxMDk0NzYsCiAgICJmaW5hbF9FIjogMS4wCiAgfSwKICB7CiAgICJzZWVkIjogMywKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTc1NTgzNjkxODA5NTE0ODksCiAgICJjYXBfbWVhbiI6IDAuMjk1NTgzNDYxNzc0MTc4MDUsCiAgICJzaGFyZTAiOiAwLjAwMDcwMDMxNzM5MTQzODkwOTksCiAgICJmaW5hbF9FIjogMC44MzA3MTk3MzQ2OTAyNzYyCiAgfSwKICB7CiAgICJzZWVkIjogNCwKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTgyMjgzNzc4NjQ0MTQ5MiwKICAgImNhcF9tZWFuIjogMC4yOTI0NzE1OTA2MzI4MTkzNiwKICAgInNoYXJlMCI6IDAuMDAxNjg3MDQxMzgyODUyNDQwMywKICAgImZpbmFsX0UiOiAxLjAKICB9LAogIHsKICAgInNlZWQiOiA1LAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNjQ0NjIxNDI1NTM5OTE0NCwKICAgImNhcF9tZWFuIjogMC4yOTk3OTY1MDc3MTA2MDUzLAogICAic2hhcmUwIjogMC4wLAogICAiZmluYWxfRSI6IDEuMAogIH0sCiAgewogICAic2VlZCI6IDYsCiAgICJhbGl2ZSI6IGZhbHNlLAogICAiZGVhdGhfdCI6IDQ3MywKICAgImNhcDAiOiAwLjI3MTQzNjIzOTg5MTIwODksCiAgICJjYXBfbWVhbiI6IDAuMzMzOTMwODY4MTEzNjU4MTMsCiAgICJzaGFyZTAiOiAwLjA4NzU5OTMzNjU0Nzk4NDQ5LAogICAiZmluYWxfRSI6IDAuMAogIH0sCiAgewogICAic2VlZCI6IDcsCiAgICJhbGl2ZSI6IHRydWUsCiAgICJkZWF0aF90IjogbnVsbCwKICAgImNhcDAiOiAwLjE5NDY5OTM5OTMyOTM5MDIsCiAgICJjYXBfbWVhbiI6IDAuMjg4MjgzODAzMzk2NzU1NjMsCiAgICJzaGFyZTAiOiAwLjAxNTU3Mzc0NTIyMjY2OTcxNiwKICAgImZpbmFsX0UiOiAwLjg1NDQ3NDg4OTQxOTU4MTMKICB9LAogIHsKICAgInNlZWQiOiA4LAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNjU3OTgyNzc1ODk0NzIzOCwKICAgImNhcF9tZWFuIjogMC4yOTk1NTAwNjQ5MjMzNTU4LAogICAic2hhcmUwIjogMC4wLAogICAiZmluYWxfRSI6IDAuOTkzCiAgfSwKICB7CiAgICJzZWVkIjogOSwKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTc5NzAwMzUxNDkwMzczMTcsCiAgICJjYXBfbWVhbiI6IDAuMjk5NDc4NDk4NzYwODM1MiwKICAgInNoYXJlMCI6IDAuMDAyMzQwMTQ0NDk4NzA1MTA0NywKICAgImZpbmFsX0UiOiAxLjAKICB9LAogIHsKICAgInNlZWQiOiAxMCwKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTgzOTMzMDQ4MTg1ODgxMywKICAgImNhcF9tZWFuIjogMC4yOTk5NDM3MTMzNTY1OTYyLAogICAic2hhcmUwIjogMC4wMDA3MDI3OTA2MjIwMTY2MDYsCiAgICJmaW5hbF9FIjogMS4wCiAgfSwKICB7CiAgICJzZWVkIjogMTEsCiAgICJhbGl2ZSI6IHRydWUsCiAgICJkZWF0aF90IjogbnVsbCwKICAgImNhcDAiOiAwLjE2NTk5NDI2NTcwMTg4MDg2LAogICAiY2FwX21lYW4iOiAwLjI5ODc5MzI1ODU0ODEwNzM0LAogICAic2hhcmUwIjogMC4wLAogICAiZmluYWxfRSI6IDEuMAogIH0sCiAgewogICAic2VlZCI6IDEyLAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xNzE2MDE3NjczNTc1MzUwNywKICAgImNhcF9tZWFuIjogMC4zMDA4MzAwMDE1Nzg2Njc5LAogICAic2hhcmUwIjogMC4wLAogICAiZmluYWxfRSI6IDEuMAogIH0sCiAgewogICAic2VlZCI6IDEzLAogICAiYWxpdmUiOiB0cnVlLAogICAiZGVhdGhfdCI6IG51bGwsCiAgICJjYXAwIjogMC4xODQ2NzgwODIyNDgwMzQ3NSwKICAgImNhcF9tZWFuIjogMC4yOTczMDMxNzc0NjIwNzM0NiwKICAgInNoYXJlMCI6IDAuMDAwOTc3NzM2NDc4MzM2NzU5NiwKICAgImZpbmFsX0UiOiAxLjAKICB9LAogIHsKICAgInNlZWQiOiAxNCwKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMzM2NTQ3NzE4MjM0MzU0MiwKICAgImNhcF9tZWFuIjogMC4yOTUwNDgzMjU2ODM5NTA3LAogICAic2hhcmUwIjogMC4xODg4NDIzNjI4MzMwMDQ2MiwKICAgImZpbmFsX0UiOiAwLjk2MTU3MDk1NjEzNDAxNDkKICB9LAogIHsKICAgInNlZWQiOiAxNSwKICAgImFsaXZlIjogdHJ1ZSwKICAgImRlYXRoX3QiOiBudWxsLAogICAiY2FwMCI6IDAuMTk5NjYwMjUzNTg3MDgxMSwKICAgImNhcF9tZWFuIjogMC4yOTgwODczODA1MTA5NjcxNywKICAgInNoYXJlMCI6IDAuMDExNDQ4NjYyMjkwOTUwNTk1LAogICAiZmluYWxfRSI6IDAuOTkyOTUzMzIwODcwNjExMgogIH0KIF0sCiAiZGVsdGFfY2FwMCI6IC0wLjAyODM5NzEwMTkyNTAxMDYwNCwKICJkZWx0YV9zaGFyZSI6IC0wLjAxMzcwMjM4MzkzMTEzNTQxLAogInBhaXJlZF9jb25zaXN0ZW50IjogMTYsCiAidmVyZGljdCI6ICLinIUg5pyJ5qKv5bqm5LiU5pa55ZCR5LiA6Ie0IOKAlOKAlCByZWxvYWQg55qE5Luj5Lu36L+b5LqG44CQ57uT5p6E44CR77yM5LiN5piv5Y+q6L+b5LqG44CQ562J5b6F44CR44CCXG4gICBjYXAwIOaYr+WNleiwg+ihsOWHj+mHj++8mumZjeS6huimgeS4jeWbnuadpeOAgui/meWwseaYr+S4jeWPr+mAhuOAgiIsCiAiZXF1YWxfdG90YWwiOiB7CiAgIkFfbG9uZ18yNHgxMCI6IDAuMTY2ODMzNzUxODQ5NjkxNjgsCiAgIkNfc2hvcnRfMngxMjAiOiAwLjE3ODc0MjE2NzIyNTQ2NjMsCiAgImRlbHRhIjogLTAuMDExOTA4NDE1Mzc1Nzc0NjExLAogICJjaTk1IjogWwogICAtMC4wMTQ3NzQxMTUzMzc2MjczLAogICAtMC4wMDk0MjMzOTAxNDc3NzM1MzEKICBdLAogICJ2ZXJkaWN0IjogIuKchSBDSSDkuI3ot6ggMCDigJTigJQg5oC76YeP5LiA5qC377yM5o2f5a6z6L+Y5piv5LiN5ZCM44CCXG4gICDihpIg5Lyk5p2l6Ieq44CQ5Y2V5qyh5bOw5YC844CR77yM5LiN5piv44CQ57Sv6K6h5pe26ZW/44CR44CCXG4gICDihpIg5a+5IG9tYXJjaHnvvJrkuIDmrKEgMjYwbXMg55qE5Y2h6aG/77yM5q+U5ZCM5qC35oC75pe26ZW/55qE5aSa5qyh5bCP5Y2h6aG/5pu05Lyk57uT5p6E44CCIgogfQp9
+{
+ "measured": {
+  "A_reload": {
+   "lo": 186,
+   "hi": 333,
+   "reloads": 4
+  },
+  "B_noreload": {
+   "lo": 37,
+   "hi": 113,
+   "reloads": 0
+  }
+ },
+ "tick_ms": 10,
+ "starve_ticks": {
+  "A": 26,
+  "B": 8
+ },
+ "A": [
+  {
+   "seed": 0,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.15998222914204466,
+   "cap_mean": 0.29902566509561795,
+   "share0": 0.0,
+   "final_E": 0.9917277455606235
+  },
+  {
+   "seed": 1,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.16012692719953484,
+   "cap_mean": 0.29681640468936965,
+   "share0": 0.0,
+   "final_E": 0.9917379921120234
+  },
+  {
+   "seed": 2,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.15938176962070652,
+   "cap_mean": 0.2976232327213628,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 3,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.15921335482075577,
+   "cap_mean": 0.2993844059103536,
+   "share0": 0.0,
+   "final_E": 0.8145859122208967
+  },
+  {
+   "seed": 4,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.15866840616707478,
+   "cap_mean": 0.2948868695124477,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 5,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.15926452162700117,
+   "cap_mean": 0.3005513194581634,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 6,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1695599358771919,
+   "cap_mean": 0.3069641955129699,
+   "share0": 0.0009618370602278659,
+   "final_E": 0.7132024419953453
+  },
+  {
+   "seed": 7,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1676022545650565,
+   "cap_mean": 0.28259681055501085,
+   "share0": 0.00863807367106246,
+   "final_E": 0.0
+  },
+  {
+   "seed": 8,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1588853376755985,
+   "cap_mean": 0.29960073330793635,
+   "share0": 0.0,
+   "final_E": 0.993
+  },
+  {
+   "seed": 9,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.15957780034327818,
+   "cap_mean": 0.29883669058973156,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 10,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.15882635373679835,
+   "cap_mean": 0.29858581528391326,
+   "share0": 0.0,
+   "final_E": 0.7704146617796704
+  },
+  {
+   "seed": 11,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.15939991567301584,
+   "cap_mean": 0.30261019075238554,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 12,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1596641975468927,
+   "cap_mean": 0.30037678553728603,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 13,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.16019933411699266,
+   "cap_mean": 0.30038072182708664,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 14,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.24524524662816644,
+   "cap_mean": 0.2979284506839013,
+   "share0": 0.0878717660242336,
+   "final_E": 0.9928799314879098
+  },
+  {
+   "seed": 15,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.15902043405796443,
+   "cap_mean": 0.2970928803670978,
+   "share0": 0.0,
+   "final_E": 0.9929246768192208
+  }
+ ],
+ "B": [
+  {
+   "seed": 0,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1653938764279709,
+   "cap_mean": 0.2965129048276991,
+   "share0": 0.0,
+   "final_E": 0.7728934961538523
+  },
+  {
+   "seed": 1,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1817627493106466,
+   "cap_mean": 0.29876127257987334,
+   "share0": 0.0027002676916217648,
+   "final_E": 0.9917619225414133
+  },
+  {
+   "seed": 2,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.18543600723675793,
+   "cap_mean": 0.2991274800835549,
+   "share0": 0.004137414694109476,
+   "final_E": 1.0
+  },
+  {
+   "seed": 3,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.17558369180951489,
+   "cap_mean": 0.29558346177417805,
+   "share0": 0.0007003173914389099,
+   "final_E": 0.8307197346902762
+  },
+  {
+   "seed": 4,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1822837786441492,
+   "cap_mean": 0.29247159063281936,
+   "share0": 0.0016870413828524403,
+   "final_E": 1.0
+  },
+  {
+   "seed": 5,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.16446214255399144,
+   "cap_mean": 0.2997965077106053,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 6,
+   "alive": false,
+   "death_t": 473,
+   "cap0": 0.2714362398912089,
+   "cap_mean": 0.33393086811365813,
+   "share0": 0.08759933654798449,
+   "final_E": 0.0
+  },
+  {
+   "seed": 7,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1946993993293902,
+   "cap_mean": 0.28828380339675563,
+   "share0": 0.015573745222669716,
+   "final_E": 0.8544748894195813
+  },
+  {
+   "seed": 8,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.16579827758947238,
+   "cap_mean": 0.2995500649233558,
+   "share0": 0.0,
+   "final_E": 0.993
+  },
+  {
+   "seed": 9,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.17970035149037317,
+   "cap_mean": 0.2994784987608352,
+   "share0": 0.0023401444987051047,
+   "final_E": 1.0
+  },
+  {
+   "seed": 10,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1839330481858813,
+   "cap_mean": 0.2999437133565962,
+   "share0": 0.000702790622016606,
+   "final_E": 1.0
+  },
+  {
+   "seed": 11,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.16599426570188086,
+   "cap_mean": 0.29879325854810734,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 12,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.17160176735753507,
+   "cap_mean": 0.3008300015786679,
+   "share0": 0.0,
+   "final_E": 1.0
+  },
+  {
+   "seed": 13,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.18467808224803475,
+   "cap_mean": 0.29730317746207346,
+   "share0": 0.0009777364783367596,
+   "final_E": 1.0
+  },
+  {
+   "seed": 14,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.3365477182343542,
+   "cap_mean": 0.2950483256839507,
+   "share0": 0.18884236283300462,
+   "final_E": 0.9615709561340149
+  },
+  {
+   "seed": 15,
+   "alive": true,
+   "death_t": null,
+   "cap0": 0.1996602535870811,
+   "cap_mean": 0.29808738051096717,
+   "share0": 0.011448662290950595,
+   "final_E": 0.9929533208706112
+  }
+ ],
+ "delta_cap0": -0.028397101925010604,
+ "delta_share": -0.01370238393113541,
+ "paired_consistent": 16,
+ "verdict": "✅ 有梯度且方向一致 —— reload 的代价进了【结构】，不是只进了【等待】。\n   cap0 是单调衰减量：降了要不回来。这就是不可逆。",
+ "equal_total": {
+  "A_long_24x10": 0.16683375184969168,
+  "C_short_2x120": 0.1787421672254663,
+  "delta": -0.011908415375774611,
+  "ci95": [
+   -0.0147741153376273,
+   -0.009423390147773531
+  ],
+  "verdict": "✅ CI 不跨 0 —— 总量一样，损害还是不同。\n   → 伤来自【单次峰值】，不是【累计时长】。\n   → 对 omarchy：一次 260ms 的卡顿，比同样总时长的多次小卡顿更伤结构。"
+ }
+}

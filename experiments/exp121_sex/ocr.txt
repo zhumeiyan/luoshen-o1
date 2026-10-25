@@ -1,1 +1,25 @@
-RU8gU0VYIEFORCBSRVBST0RVQ1RJT04gQ09ERSBRVUlRSE0KRjEgdjEgcmVjb21iaW5hdGlvbiBhdmVyYWdlZCAyMCBraWRzIHVuaXF1ZSAxIHYyIDE5CkYyIHYxIHBvcCByZXBsYWNlZCBieSBraWRzIGdlbjEgRVhUSU5DVAoKQXNpbmdsZXBlYWsgYXNleCAwLjc1MDMgc2V4ZnJlZSAwLjY3NzQgc2V4Y29zdCAwLjI0NDAKQW11bHRpcGVhayBhc2V4IDAuNzA5OCBzZXhmcmVlIDAuNzQwMyBzZXhjb3N0IDAuMjUwNApCIGRvc2UgbWFnMC4wMCBhc2V4IDAuNzE0MCBzZXhmcmVlIDAuNzE5MiBnYXAgKzAuMDA1CgpCIGRvc2UgbWFnMC4wMiBhc2V4IDAuNzAzOSBzZXhmcmVlIDAuNzQ5NSBnYXAgKzAuMDQ2CgpCIGRvc2UgbWFnMC4wNSBhc2V4IDAuNjE3NyBzZXhmcmVlIDAuNzIyMSBnYXAgKzAuMTA0CgpCIGRvc2UgbWFnMC4yOCBBTEwgRVhUSU5DVCBubyBzYW1wbGUgYmFkIGludGVydmFsCgpDIHJhdGNoZXQgaXJyZXZlcnNpYmlsaXR5IGFzZXggMC41OTU2IHNleGZyZWUgMC4wMzMwIDE4eApDIHJhdGNoZXQgbmV0IGRyaWZ0IGFzZXggMTEuMyBzZXhmcmVlIDQuNAoKQyB0ZXJtaW5hbCBmaXRuZXNzIGFzZXggMC41NjA3IHNleGZyZWUgMC43OTk5CgpEIGNvbXBldGUgc3RhdGljIGFzZXggZnJhYzAuOTAgc2V4IG5ldmVyIHdpbnMKCkQgY29tcGV0ZSBzaGlmdGluZyBhc2V4IGZyYWMgMC42MCBzZXggbmV2ZXIgd2lucwoKRCBkb3NlIFUgMTAgY2VsbHMgc2V4IHdpbiAwIHN0YXRpYyAwLjc1IHRvIDAuNTAKDA==
+EO SEX AND REPRODUCTION CODE QUIQHM
+F1 v1 recombination averaged 20 kids unique 1 v2 19
+F2 v1 pop replaced by kids gen1 EXTINCT
+
+Asinglepeak asex 0.7503 sexfree 0.6774 sexcost 0.2440
+Amultipeak asex 0.7098 sexfree 0.7403 sexcost 0.2504
+B dose mag0.00 asex 0.7140 sexfree 0.7192 gap +0.005
+
+B dose mag0.02 asex 0.7039 sexfree 0.7495 gap +0.046
+
+B dose mag0.05 asex 0.6177 sexfree 0.7221 gap +0.104
+
+B dose mag0.28 ALL EXTINCT no sample bad interval
+
+C ratchet irreversibility asex 0.5956 sexfree 0.0330 18x
+C ratchet net drift asex 11.3 sexfree 4.4
+
+C terminal fitness asex 0.5607 sexfree 0.7999
+
+D compete static asex frac0.90 sex never wins
+
+D compete shifting asex frac 0.60 sex never wins
+
+D dose U 10 cells sex win 0 static 0.75 to 0.50
+

@@ -1,1 +1,43 @@
-aW1wb3J0IGpzb24sIG9zLCB0aW1lLCBiYXNlNjQsIHVybGxpYi5yZXF1ZXN0ClRPS0VOID0gb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvLmF1dGgvZ2hfdG9rZW4nKS5yZWFkKCkuc3RyaXAoKQpIID0geyJBdXRob3JpemF0aW9uIjogIkJlYXJlciAiICsgVE9LRU4sICJBY2NlcHQiOiAiYXBwbGljYXRpb24vdm5kLmdpdGh1Yitqc29uIiwKICAgICAiVXNlci1BZ2VudCI6ICJsdW9zaGVuIn0KIyByZXBvIC0+IChicmFuY2gsIFtjYW5kaWRhdGUgcGF0aHNdKSAgIE5FVyByZXBvcyBvbmx5LCBub25lIG9mIHRoZSBleHAxMjkgbmluZQpUQVJHRVRTID0gewogIkV4cGxvZGluZ0dyYWRpZW50cy9yYWdhcyI6ICgibWFpbiIsIFsic3JjL3JhZ2FzL2V2YWx1YXRpb24ucHkiLCJzcmMvcmFnYXMvbWV0cmljcy9iYXNlLnB5Il0pLAogImNvbmZpZGVudC1haS9kZWVwZXZhbCI6ICgibWFpbiIsIFsiZGVlcGV2YWwvZXZhbHVhdGUvZXZhbHVhdGUucHkiLCJkZWVwZXZhbC9tZXRyaWNzL2Jhc2VfbWV0cmljLnB5Il0pLAogInByb21wdGZvby9wcm9tcHRmb28iOiAoIm1haW4iLCBbInNyYy9ldmFsdWF0b3IudHMiXSksCiAibWxmbG93L21sZmxvdyI6ICgibWFzdGVyIiwgWyJtbGZsb3cvbW9kZWxzL2V2YWx1YXRpb24vYmFzZS5weSIsIm1sZmxvdy9ldmFsdWF0aW9uL2V2YWx1YXRpb24ucHkiXSksCiAiY29tZXQtbWwvb3BpayI6ICgibWFpbiIsIFsic2Rrcy9weXRob24vc3JjL29waWsvZXZhbHVhdGlvbi9ldmFsdWF0b3IucHkiXSksCiAiQXJpemUtYWkvcGhvZW5peCI6ICgibWFpbiIsIFsic3JjL3Bob2VuaXgvZXZhbHMvZXZhbHVhdG9ycy5weSJdKSwKICJJQk0vdW5pdHh0IjogKCJtYWluIiwgWyJzcmMvdW5pdHh0L2V2YWx1YXRlLnB5Iiwic3JjL3VuaXR4dC9tZXRyaWNzLnB5Il0pLAogImJpZ2NvZGUtcHJvamVjdC9iaWdjb2RlLWV2YWx1YXRpb24taGFybmVzcyI6ICgibWFpbiIsIFsiYmlnY29kZV9ldmFsL2V2YWx1YXRvci5weSJdKSwKICJldmFscGx1cy9ldmFscGx1cyI6ICgibWFpbiIsIFsiZXZhbHBsdXMvZXZhbHVhdGUucHkiXSksCiAiZW1iZWRkaW5ncy1iZW5jaG1hcmsvbXRlYiI6ICgibWFpbiIsIFsibXRlYi9ldmFsdWF0aW9uL01URUIucHkiXSksCn0KZGVmIGdldCh1cmwsIHRyaWVzPTIpOgogICAgZm9yIGkgaW4gcmFuZ2UodHJpZXMpOgogICAgICAgIHRyeToKICAgICAgICAgICAgciA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsLCBoZWFkZXJzPUgpCiAgICAgICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyLCB0aW1lb3V0PTEyKSBhcyBmOgogICAgICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZChmKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgaWYgaSA9PSB0cmllcy0xOiByZXR1cm4geyJfZXJyIjogc3RyKGUpWzo3MF19CiAgICAgICAgICAgIHRpbWUuc2xlZXAoMS4wKQpvdXQgPSBbXQpmb3IgcmVwbywoYnIscGF0aHMpIGluIFRBUkdFVFMuaXRlbXMoKToKICAgIGZvciBwIGluIHBhdGhzOgogICAgICAgIGQgPSBnZXQoZiJodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL3tyZXBvfS9jb250ZW50cy97cH0/cmVmPXticn0iKQogICAgICAgIGlmIGlzaW5zdGFuY2UoZCwgZGljdCkgYW5kICJjb250ZW50IiBpbiBkOgogICAgICAgICAgICB0eHQgPSBiYXNlNjQuYjY0ZGVjb2RlKGRbImNvbnRlbnQiXSkuZGVjb2RlKCJ1dGYtOCIsInJlcGxhY2UiKQogICAgICAgICAgICBvdXQuYXBwZW5kKHsicmVwbyI6cmVwbywicGF0aCI6cCwidGV4dCI6dHh0fSkKICAgICAgICAgICAgcHJpbnQoIk9LICAiLCByZXBvLCBwLCBsZW4odHh0KSwgZmx1c2g9VHJ1ZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgiTUlTUyIsIHJlcG8sIHAsIChkLmdldCgiX2VyciIsIj8iKSBpZiBpc2luc3RhbmNlKGQsZGljdCkgZWxzZSAiPyIpLCBmbHVzaD1UcnVlKQpvcy5tYWtlZGlycygiY29ycHVzMyIsIGV4aXN0X29rPVRydWUpCmZvciBpLGYgaW4gZW51bWVyYXRlKG91dCk6CiAgICBleHQgPSAiLnRzIiBpZiBmWyJwYXRoIl0uZW5kc3dpdGgoIi50cyIpIGVsc2UgIi5weSIKICAgIGZuID0gImNvcnB1czMvJTAyZF8lcyVzIiAlIChpLCAoZlsicmVwbyJdLnJlcGxhY2UoIi8iLCJfIikrIl8iK2ZbInBhdGgiXS5yZXBsYWNlKCIvIiwiXyIpKVs6NjBdLCBleHQpCiAgICBvcGVuKGZuLCJ3Iikud3JpdGUoZlsidGV4dCJdKQpqc29uLmR1bXAoW3trOnYgZm9yIGssdiBpbiBmLml0ZW1zKCkgaWYgayE9InRleHQifSBmb3IgZiBpbiBvdXRdLCBvcGVuKCJtYW5pZmVzdDMuanNvbiIsInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKcHJpbnQoIlRPVEFMIiwgbGVuKG91dCksIGZsdXNoPVRydWUpCg==
+import json, os, time, base64, urllib.request
+TOKEN = open('/data/workspace/luoshen-o1/.auth/gh_token').read().strip()
+H = {"Authorization": "Bearer " + TOKEN, "Accept": "application/vnd.github+json",
+     "User-Agent": "luoshen"}
+# repo -> (branch, [candidate paths])   NEW repos only, none of the exp129 nine
+TARGETS = {
+ "ExplodingGradients/ragas": ("main", ["src/ragas/evaluation.py","src/ragas/metrics/base.py"]),
+ "confident-ai/deepeval": ("main", ["deepeval/evaluate/evaluate.py","deepeval/metrics/base_metric.py"]),
+ "promptfoo/promptfoo": ("main", ["src/evaluator.ts"]),
+ "mlflow/mlflow": ("master", ["mlflow/models/evaluation/base.py","mlflow/evaluation/evaluation.py"]),
+ "comet-ml/opik": ("main", ["sdks/python/src/opik/evaluation/evaluator.py"]),
+ "Arize-ai/phoenix": ("main", ["src/phoenix/evals/evaluators.py"]),
+ "IBM/unitxt": ("main", ["src/unitxt/evaluate.py","src/unitxt/metrics.py"]),
+ "bigcode-project/bigcode-evaluation-harness": ("main", ["bigcode_eval/evaluator.py"]),
+ "evalplus/evalplus": ("main", ["evalplus/evaluate.py"]),
+ "embeddings-benchmark/mteb": ("main", ["mteb/evaluation/MTEB.py"]),
+}
+def get(url, tries=2):
+    for i in range(tries):
+        try:
+            r = urllib.request.Request(url, headers=H)
+            with urllib.request.urlopen(r, timeout=12) as f:
+                return json.load(f)
+        except Exception as e:
+            if i == tries-1: return {"_err": str(e)[:70]}
+            time.sleep(1.0)
+out = []
+for repo,(br,paths) in TARGETS.items():
+    for p in paths:
+        d = get(f"https://api.github.com/repos/{repo}/contents/{p}?ref={br}")
+        if isinstance(d, dict) and "content" in d:
+            txt = base64.b64decode(d["content"]).decode("utf-8","replace")
+            out.append({"repo":repo,"path":p,"text":txt})
+            print("OK  ", repo, p, len(txt), flush=True)
+        else:
+            print("MISS", repo, p, (d.get("_err","?") if isinstance(d,dict) else "?"), flush=True)
+os.makedirs("corpus3", exist_ok=True)
+for i,f in enumerate(out):
+    ext = ".ts" if f["path"].endswith(".ts") else ".py"
+    fn = "corpus3/%02d_%s%s" % (i, (f["repo"].replace("/","_")+"_"+f["path"].replace("/","_"))[:60], ext)
+    open(fn,"w").write(f["text"])
+json.dump([{k:v for k,v in f.items() if k!="text"} for f in out], open("manifest3.json","w"), ensure_ascii=False, indent=1)
+print("TOTAL", len(out), flush=True)

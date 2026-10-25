@@ -1,1 +1,10 @@
-PCFkb2N0eXBlIGh0bWw+PGh0bWw+PGJvZHk+CjxkaXYgaWQ9InJhdGUiPuWKoOi9veS4rTwvZGl2Pgo8ZGl2IGlkPSJmZWUiPuWKoOi9veS4rTwvZGl2Pgo8c2NyaXB0PgpmZXRjaCgncmF0ZS5qc29uJykudGhlbihyPT5yLmpzb24oKSkudGhlbihkPT57CiAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3JhdGUnKS50ZXh0Q29udGVudD1kLnJhdGU7CiAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2ZlZScpLnRleHRDb250ZW50PWQuZmVlOwp9KTsKPC9zY3JpcHQ+CjwvYm9keT48L2h0bWw+Cg==
+<!doctype html><html><body>
+<div id="rate">加载中</div>
+<div id="fee">加载中</div>
+<script>
+fetch('rate.json').then(r=>r.json()).then(d=>{
+  document.getElementById('rate').textContent=d.rate;
+  document.getElementById('fee').textContent=d.fee;
+});
+</script>
+</body></html>

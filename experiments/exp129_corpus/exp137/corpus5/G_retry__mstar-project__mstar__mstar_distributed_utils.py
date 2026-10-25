@@ -1,1 +1,45 @@
-ZnJvbSB0eXBpbmcgaW1wb3J0IFNlcXVlbmNlCgppbXBvcnQgdG9yY2gKCgpkZWYgZW5zdXJlX2RpdmlzaWJpbGl0eShudW1lcmF0b3IsIGRlbm9taW5hdG9yKToKICAgICIiIkVuc3VyZSB0aGF0IG51bWVyYXRvciBpcyBkaXZpc2libGUgYnkgdGhlIGRlbm9taW5hdG9yLiIiIgogICAgYXNzZXJ0IG51bWVyYXRvciAlIGRlbm9taW5hdG9yID09IDAsICJ7fSBpcyBub3QgZGl2aXNpYmxlIGJ5IHt9Ii5mb3JtYXQoCiAgICAgICAgbnVtZXJhdG9yLCBkZW5vbWluYXRvcgogICAgKQoKCmRlZiBkaXZpZGUobnVtZXJhdG9yLCBkZW5vbWluYXRvcik6CiAgICAiIiJFbnN1cmUgdGhhdCBudW1lcmF0b3IgaXMgZGl2aXNpYmxlIGJ5IHRoZSBkZW5vbWluYXRvciBhbmQgcmV0dXJuCiAgICB0aGUgZGl2aXNpb24gdmFsdWUuIiIiCiAgICBlbnN1cmVfZGl2aXNpYmlsaXR5KG51bWVyYXRvciwgZGVub21pbmF0b3IpCiAgICByZXR1cm4gbnVtZXJhdG9yIC8vIGRlbm9taW5hdG9yCgoKZGVmIHNwbGl0X3RlbnNvcl9hbG9uZ19sYXN0X2RpbSgKICAgIHRlbnNvcjogdG9yY2guVGVuc29yLAogICAgbnVtX3BhcnRpdGlvbnM6IGludCwKICAgIGNvbnRpZ3VvdXNfc3BsaXRfY2h1bmtzOiBib29sID0gRmFsc2UsCikgLT4gU2VxdWVuY2VbdG9yY2guVGVuc29yXToKICAgICIiIlNwbGl0IGEgdGVuc29yIGFsb25nIGl0cyBsYXN0IGRpbWVuc2lvbi4KCiAgICBBcmd1bWVudHM6CiAgICAgICAgdGVuc29yOiBpbnB1dCB0ZW5zb3IuCiAgICAgICAgbnVtX3BhcnRpdGlvbnM6IG51bWJlciBvZiBwYXJ0aXRpb25zIHRvIHNwbGl0IHRoZSB0ZW5zb3IKICAgICAgICBjb250aWd1b3VzX3NwbGl0X2NodW5rczogSWYgVHJ1ZSwgbWFrZSBlYWNoIGNodW5rIGNvbnRpZ3VvdXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW4gbWVtb3J5LgoKICAgIFJldHVybnM6CiAgICAgICAgQSBsaXN0IG9mIFRlbnNvcnMKICAgICIiIgogICAgIyBHZXQgdGhlIHNpemUgYW5kIGRpbWVuc2lvbi4KICAgIGxhc3RfZGltID0gdGVuc29yLmRpbSgpIC0gMQogICAgbGFzdF9kaW1fc2l6ZSA9IGRpdmlkZSh0ZW5zb3Iuc2l6ZSgpW2xhc3RfZGltXSwgbnVtX3BhcnRpdGlvbnMpCiAgICAjIFNwbGl0LgogICAgdGVuc29yX2xpc3QgPSB0b3JjaC5zcGxpdCh0ZW5zb3IsIGxhc3RfZGltX3NpemUsIGRpbT1sYXN0X2RpbSkKICAgICMgTk9URTogdG9yY2guc3BsaXQgZG9lcyBub3QgY3JlYXRlIGNvbnRpZ3VvdXMgdGVuc29ycyBieSBkZWZhdWx0LgogICAgaWYgY29udGlndW91c19zcGxpdF9jaHVua3M6CiAgICAgICAgcmV0dXJuIHR1cGxlKGNodW5rLmNvbnRpZ3VvdXMoKSBmb3IgY2h1bmsgaW4gdGVuc29yX2xpc3QpCgogICAgcmV0dXJuIHRlbnNvcl9saXN0Cg==
+from typing import Sequence
+
+import torch
+
+
+def ensure_divisibility(numerator, denominator):
+    """Ensure that numerator is divisible by the denominator."""
+    assert numerator % denominator == 0, "{} is not divisible by {}".format(
+        numerator, denominator
+    )
+
+
+def divide(numerator, denominator):
+    """Ensure that numerator is divisible by the denominator and return
+    the division value."""
+    ensure_divisibility(numerator, denominator)
+    return numerator // denominator
+
+
+def split_tensor_along_last_dim(
+    tensor: torch.Tensor,
+    num_partitions: int,
+    contiguous_split_chunks: bool = False,
+) -> Sequence[torch.Tensor]:
+    """Split a tensor along its last dimension.
+
+    Arguments:
+        tensor: input tensor.
+        num_partitions: number of partitions to split the tensor
+        contiguous_split_chunks: If True, make each chunk contiguous
+                                 in memory.
+
+    Returns:
+        A list of Tensors
+    """
+    # Get the size and dimension.
+    last_dim = tensor.dim() - 1
+    last_dim_size = divide(tensor.size()[last_dim], num_partitions)
+    # Split.
+    tensor_list = torch.split(tensor, last_dim_size, dim=last_dim)
+    # NOTE: torch.split does not create contiguous tensors by default.
+    if contiguous_split_chunks:
+        return tuple(chunk.contiguous() for chunk in tensor_list)
+
+    return tensor_list

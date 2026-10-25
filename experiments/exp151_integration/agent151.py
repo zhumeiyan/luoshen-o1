@@ -1,1 +1,271 @@
-IiIiMTUxIOWFreagvOaVtOWQiCBhZ2VudOOAguavj+agvOWPr+eLrOeri+W8gOWFs++8jOeUqOS6jua2iOiejeS4jui2heWKoOaAp+ajgOmqjOOAgiIiIgppbXBvcnQgb3MsIG1hdGgsIHJhbmRvbSwganNvbiwgdGltZSwgc29ja2V0LCBzdWJwcm9jZXNzLCBzeXMKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVxdWUKCkZCID0gIi9kZXYvZmIwIgpORiA9IDUKCmNsYXNzIEV5ZToKICAgICIiIkwxOiDnnJ/lrp4gZmIwIOW+gOi/lOOAguWFs+mXrT3nm7Io55So5LiK5LiA5ouN57yT5a2YLDE0MCDnmoQgb3Blbj09YmxpbmQg6K6+6K6hKSIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG9uKToKICAgICAgICBzZWxmLm9uID0gb24KICAgICAgICBzZWxmLmZkID0gb3Mub3BlbihGQiwgb3MuT19SRFdSKSBpZiBvbiBlbHNlIE5vbmUKICAgICAgICBzZWxmLmNhY2hlID0gWzAuMF0qTkYKICAgIGRlZiBzZWUoc2VsZiwgZmVhdCk6CiAgICAgICAgaWYgbm90IHNlbGYub246CiAgICAgICAgICAgIHJldHVybiBsaXN0KHNlbGYuY2FjaGUpICAgICAgICAgICMg55uy77ya55y85a2Y5Zyo5L2G5LiN5pu05pawCiAgICAgICAgYiA9IGJ5dGVzKGludChtYXgoMCxtaW4oMjU1LCB4KjIwMCkpKSBmb3IgeCBpbiBmZWF0KQogICAgICAgIHRyeToKICAgICAgICAgICAgb3MubHNlZWsoc2VsZi5mZCwgMCwgMCk7IG9zLndyaXRlKHNlbGYuZmQsIGIgKyBiJ1x4MDAnKigzMi1ORikpCiAgICAgICAgICAgIG9zLmxzZWVrKHNlbGYuZmQsIDAsIDApOyByYiA9IG9zLnJlYWQoc2VsZi5mZCwgTkYpICAgIyDnq4vljbPlm57ph4cKICAgICAgICAgICAgZ290ID0gW3YvMjAwLjAgZm9yIHYgaW4gcmJdCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgZ290ID0gbGlzdChmZWF0KQogICAgICAgIHNlbGYuY2FjaGUgPSBnb3QKICAgICAgICByZXR1cm4gZ290CiAgICBkZWYgY2xvc2Uoc2VsZik6CiAgICAgICAgaWYgc2VsZi5mZCBpcyBub3QgTm9uZTogb3MuY2xvc2Uoc2VsZi5mZCkKCmNsYXNzIFBlZXI6CiAgICAiIiJMNTog55yf5a2Q6L+b56iLICsgVURQ44CCcGVlciDni6znq4vmjqLntKIsIGFnZW50IOivoumXruWFtiB2aXNpdGVkIOS7pemBv+WFjeaSnui9piIiIgogICAgUE9SVCA9IDE4NzMxCiAgICBkZWYgX19pbml0X18oc2VsZiwgd29ybGQsIG9uKToKICAgICAgICBzZWxmLm9uID0gb24KICAgICAgICBzZWxmLnNvY2sgPSBOb25lCiAgICAgICAgaWYgb246CiAgICAgICAgICAgIHNlbGYuc29jayA9IHNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsIHNvY2tldC5TT0NLX0RHUkFNKQogICAgICAgICAgICBzZWxmLnNvY2suYmluZCgoJzEyNy4wLjAuMScsIHNlbGYuUE9SVCkpCiAgICAgICAgICAgIHNlbGYuc29jay5zZXR0aW1lb3V0KDEuMCkKICAgICAgICAgICAgc2VsZi5wcm9jID0gc3VicHJvY2Vzcy5Qb3BlbigKICAgICAgICAgICAgICAgIFtzeXMuZXhlY3V0YWJsZSwgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICJwZWVyMTUxLnB5IildLAogICAgICAgICAgICAgICAgc3Rkb3V0PXN1YnByb2Nlc3MuREVWTlVMTCwgc3RkZXJyPXN1YnByb2Nlc3MuREVWTlVMTCkKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjgpCiAgICBkZWYgcmVzZXQoc2VsZik6CiAgICAgICAgaWYgbm90IHNlbGYub246IHJldHVybgogICAgICAgIHRyeToKICAgICAgICAgICAgc2VsZi5zb2NrLnNlbmR0byhiJ1JFU0VUJywgKCcxMjcuMC4wLjEnLCBzZWxmLlBPUlQpKTsgc2VsZi5zb2NrLnJlY3YoNjQpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwogICAgZGVmIGFzayhzZWxmKToKICAgICAgICAiIiLov5Tlm54gcGVlciDnmoQgdmlzaXRlZCAoYml0IHN0cmluZykg5oiWIE5vbmUiIiIKICAgICAgICBpZiBub3Qgc2VsZi5vbjogcmV0dXJuIE5vbmUKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYuc29jay5zZW5kdG8oYidBU0snLCAoJzEyNy4wLjAuMScsIHNlbGYuUE9SVCkpCiAgICAgICAgICAgIGQsIF8gPSBzZWxmLnNvY2sucmVjdmZyb20oNjU1MzYpCiAgICAgICAgICAgIHJldHVybiBzZXQoaW50KHgpIGZvciB4IGluIGQuZGVjb2RlKCkuc3BsaXQoJywnKSBpZiB4KQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHJldHVybiBOb25lCiAgICBkZWYgdGVsbChzZWxmLCBpKToKICAgICAgICBpZiBub3Qgc2VsZi5vbjogcmV0dXJuCiAgICAgICAgdHJ5OiBzZWxmLnNvY2suc2VuZHRvKGInVklTSVQgJWQnICUgaSwgKCcxMjcuMC4wLjEnLCBzZWxmLlBPUlQpKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKICAgIGRlZiBzdG9wKHNlbGYpOgogICAgICAgIGlmIHNlbGYub246CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHNlbGYuc29jay5zZW5kdG8oYidTVE9QJywgKCcxMjcuMC4wLjEnLCBzZWxmLlBPUlQpKTsgc2VsZi5wcm9jLndhaXQodGltZW91dD0zKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgdHJ5OiBzZWxmLnByb2Mua2lsbCgpCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCgpjbGFzcyBBZ2VudDoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB3b3JsZCwgZmxhZ3MsIHJuZywgY3VsdHVyZV9zdG9yZT1Ob25lKToKICAgICAgICBzZWxmLlcgPSB3b3JsZAogICAgICAgIHNlbGYuZiA9IGZsYWdzCiAgICAgICAgc2VsZi5ybmcgPSBybmcKICAgICAgICBzZWxmLmV5ZSA9IEV5ZShmbGFncy5nZXQoIkwxIiwgRmFsc2UpKQogICAgICAgIHNlbGYud3QgPSBbMC4wXSpORgogICAgICAgIHNlbGYua25vd24gPSBzZXQoY3VsdHVyZV9zdG9yZS5nZXQoImZvdW5kIiwgW10pKSBpZiAoZmxhZ3MuZ2V0KCJMNmMiLCBGYWxzZSkgYW5kIGN1bHR1cmVfc3RvcmUpIGVsc2Ugc2V0KCkKICAgICAgICBpZiBmbGFncy5nZXQoIkw2YyIsIEZhbHNlKSBhbmQgY3VsdHVyZV9zdG9yZToKICAgICAgICAgICAgcGFzcwogICAgICAgIHNlbGYubHIgPSAwLjA4CiAgICAgICAgc2VsZi52aXNpdGVkID0gc2V0KCkKICAgICAgICBzZWxmLnBvcyA9IDAKICAgICAgICBzZWxmLmhpc3QgPSBbXQogICAgICAgIHNlbGYuZ19zZWxmID0gMC41CiAgICAgICAgc2VsZi5yZWNlbnQgPSBkZXF1ZShtYXhsZW49OCkKICAgICAgICBzZWxmLm1vbm8gPSBkZXF1ZShtYXhsZW49MTIpICAgICAjIEw2IOeLrOeZveeuoemBkwogICAgICAgIHNlbGYubW9ub19yLCBzZWxmLm1vbm9fdyA9IG9zLnBpcGUoKSBpZiBmbGFncy5nZXQoIkw2bSIsIEZhbHNlKSBlbHNlIChOb25lLCBOb25lKQogICAgICAgIHNlbGYuZXh0ID0gZGVxdWUobWF4bGVuPTIwKSAgICAgICMgTDZkIOefpeatu+WkluWMlu+8muWuuemHj+S4iumZkO+8jOmcgOmAieaLqeWkluWMluS7gOS5iAogICAgICAgIHNlbGYuZXh0X2tleXMgPSBzZXQoKQogICAgICAgIHNlbGYub3dlX2hpdHMgPSBzZXQoKSAgICAgICAgICAgICMg6K6h5YWlIGhpdHMg55qE55uu5qCHCiAgICAgICAgc2VsZi5jYXVzYWxfdyA9IE5vbmUgICAgICAgICAgICAgIyBMNiDoh6rkvKDlm6DmnpzmnYPph40KICAgICAgICBzZWxmLnRvdGFsID0gMC4wCiAgICAgICAgc2VsZi5ub3ZlbCA9IDAKICAgICAgICBzZWxmLmdsb2JhbF9hdmcgPSAwLjAKICAgICAgICBzZWxmLmxvbmdfanVtcHMgPSAwCiAgICAgICAgc2VsZi5wbGFucyA9IDAKICAgICAgICBzZWxmLnZpc2l0X2NvdW50ID0ge30KCgogICAgZGVmIHByZWRpY3Qoc2VsZiwgeCk6CiAgICAgICAgcmV0dXJuIHN1bShhKmIgZm9yIGEsIGIgaW4gemlwKHNlbGYud3QsIHgpKQoKICAgIGRlZiBlc3Qoc2VsZiwgeCk6CiAgICAgICAgIiIi5Lu35YC85Lyw6K6h77yaTDYg6Ieq5Lyg5byA5ZCv5pe255SoIGRvLeW5sumihOW+l+WIsOeahOWboOaenOadg+mHje+8jOWQpuWImeeUqOWcqOe6vyBTR0Qg5p2D6YeNIiIiCiAgICAgICAgaWYgc2VsZi5mLmdldCgiTDZhIiwgRmFsc2UpIGFuZCBzZWxmLmNhdXNhbF93IGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gc3VtKGEqYiBmb3IgYSwgYiBpbiB6aXAoc2VsZi5jYXVzYWxfdywgeCkpCiAgICAgICAgcmV0dXJuIHNlbGYucHJlZGljdCh4KQoKICAgIGRlZiBiZnNfcGF0aChzZWxmLCBzcmMsIHRhcmdldHMpOgogICAgICAgICIiIkwzIOWcsOWbvu+8muecn+WunuWbvuS4iueahCBCRlMg5pyA55+t6LevIiIiCiAgICAgICAgZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVxdWUgYXMgRFEKICAgICAgICBpZiBub3QgdGFyZ2V0czogcmV0dXJuIE5vbmUKICAgICAgICB0Z3QgPSBzZXQodGFyZ2V0cykKICAgICAgICBwcmV2ID0ge3NyYzogTm9uZX0KICAgICAgICBkcSA9IERRKFtzcmNdKQogICAgICAgIGhpdCA9IE5vbmUKICAgICAgICB3aGlsZSBkcToKICAgICAgICAgICAgdSA9IGRxLnBvcGxlZnQoKQogICAgICAgICAgICBpZiB1IGluIHRndCBhbmQgdSAhPSBzcmM6CiAgICAgICAgICAgICAgICBoaXQgPSB1OyBicmVhawogICAgICAgICAgICBmb3IgdiBpbiBzZWxmLlcubmVpZ2hib3JzKHUpOgogICAgICAgICAgICAgICAgaWYgdiBub3QgaW4gcHJldjoKICAgICAgICAgICAgICAgICAgICBwcmV2W3ZdID0gdTsgZHEuYXBwZW5kKHYpCiAgICAgICAgaWYgaGl0IGlzIE5vbmU6IHJldHVybiBOb25lCiAgICAgICAgcGF0aCA9IFtdCiAgICAgICAgd2hpbGUgaGl0IGlzIG5vdCBOb25lOgogICAgICAgICAgICBwYXRoLmFwcGVuZChoaXQpOyBoaXQgPSBwcmV2W2hpdF0KICAgICAgICByZXR1cm4gcGF0aFs6Oi0xXQoKICAgIGRlZiBzdGVwKHNlbGYsIHQpOgogICAgICAgIFcgPSBzZWxmLlcKICAgICAgICBuYnMgPSBXLm5laWdoYm9ycyhzZWxmLnBvcykKICAgICAgICBpZiBub3QgbmJzOiByZXR1cm4KICAgICAgICBvYnMgPSB7ajogc2VsZi5leWUuc2VlKFcuZmVhdFtqXSkgZm9yIGogaW4gbmJzfQogICAgICAgIGcgPSBzZWxmLmdfc2VsZgogICAgICAgIGV4cGwgPSAoMC4wMiArIDAuMTIqKDEuMC1nKSkgaWYgc2VsZi5mLmdldCgiTDRwIiwgRmFsc2UpIGVsc2UgMC4wCiAgICAgICAgbHJfbm93ID0gKHNlbGYubHIqKDEuMCsxLjUqKDEuMC1nKSkpIGlmIHNlbGYuZi5nZXQoIkw0ZyIsIEZhbHNlKSBlbHNlIHNlbGYubHIKCiAgICAgICAgIyAtLS0gTDIg6KCV6Jmr77ya5peg6IGK5qOA5rWLIC0+IOiHquWPkei1t+aEj+mVv+i3s++8iOS4jeWcqOmCu+WxhemHjOmAie+8iS0tLQogICAgICAgIGp1bXBlZCA9IEZhbHNlCiAgICAgICAgaWYgc2VsZi5mLmdldCgiTDIiLCBGYWxzZSk6CiAgICAgICAgICAgIHJlY2VudF9hdmcgPSBzdW0oc2VsZi5yZWNlbnQpL21heCgxLCBsZW4oc2VsZi5yZWNlbnQpKQogICAgICAgICAgICBiYXNlbGluZSA9IHNlbGYuZ2xvYmFsX2F2ZyBpZiBzZWxmLm5vdmVsID4gNSBlbHNlIDAuMAogICAgICAgICAgICBib3JlZG9tID0gbWF4KDAuMCwgYmFzZWxpbmUgLSByZWNlbnRfYXZnKQogICAgICAgICAgICBpZiBib3JlZG9tID4gMC4wMiBhbmQgc2VsZi5ybmcucmFuZG9tKCkgPCBtaW4oMC41LCBib3JlZG9tKjYpOgogICAgICAgICAgICAgICAgcG9vbCA9IFtqIGZvciBqIGluIHJhbmdlKFcubikgaWYgaiBub3QgaW4gc2VsZi52aXNpdGVkXQogICAgICAgICAgICAgICAgaWYgcG9vbDoKICAgICAgICAgICAgICAgICAgICBzZWxmLnJuZy5zaHVmZmxlKHBvb2wpOyBwb29sID0gcG9vbFs6NDBdCiAgICAgICAgICAgICAgICAgICAgZmFyID0gbWF4KHBvb2wsIGtleT1sYW1iZGEgajogc2VsZi5lc3QoVy5mZWF0W2pdKSkKICAgICAgICAgICAgICAgICAgICBpZiBmYXIgIT0gc2VsZi5wb3M6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubG9uZ19qdW1wcyArPSAxCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucG9zID0gZmFyCiAgICAgICAgICAgICAgICAgICAgICAgIGp1bXBlZCA9IFRydWUKICAgICAgICBpZiBqdW1wZWQ6CiAgICAgICAgICAgIG5icyA9IFcubmVpZ2hib3JzKHNlbGYucG9zKQogICAgICAgICAgICBvYnMgPSB7ajogc2VsZi5leWUuc2VlKFcuZmVhdFtqXSkgZm9yIGogaW4gbmJzfQogICAgICAgICAgICBpZiBub3QgbmJzOiByZXR1cm4KCiAgICAgICAgIyAtLS0gTDMg6bG877yaQkZTIOinhOWIkuWIsOi/nOWkhOacquiuv+mXrumrmOS7t+WAvOebruaghyAtLS0KICAgICAgICBwbGFuX25leHQgPSBOb25lCiAgICAgICAgaWYgc2VsZi5mLmdldCgiTDMiLCBGYWxzZSkgYW5kIHQgJSAzID09IDA6CiAgICAgICAgICAgIGNhbmQgPSBbaiBmb3IgaiBpbiByYW5nZShXLm4pIGlmIGogbm90IGluIHNlbGYudmlzaXRlZF0KICAgICAgICAgICAgaWYgY2FuZDoKICAgICAgICAgICAgICAgIHNlbGYucm5nLnNodWZmbGUoY2FuZCkKICAgICAgICAgICAgICAgIGNhbmQgPSBjYW5kWzo2MF0KICAgICAgICAgICAgICAgIGJlc3RqLCBiZXN0diA9IE5vbmUsIC0xZTkKICAgICAgICAgICAgICAgIGZvciBqIGluIGNhbmQ6CiAgICAgICAgICAgICAgICAgICAgc2MgPSBzZWxmLmVzdChXLmZlYXRbal0pIC0gMC4wMDQqYWJzKGogLSBzZWxmLnBvcykKICAgICAgICAgICAgICAgICAgICBpZiBzZWxmLmtub3duIGFuZCBqIGluIHNlbGYua25vd246IHNjICs9IDAuOCAgICMgTDZjIOaWh+WMluWFiOmqjAogICAgICAgICAgICAgICAgICAgIGlmIHNjID4gYmVzdHY6IGJlc3R2LCBiZXN0aiA9IHNjLCBqCiAgICAgICAgICAgICAgICBwID0gc2VsZi5iZnNfcGF0aChzZWxmLnBvcywgW2Jlc3RqXSBpZiBiZXN0aiBpcyBub3QgTm9uZSBlbHNlIFtdKQogICAgICAgICAgICAgICAgaWYgcCBhbmQgbGVuKHApID4gMToKICAgICAgICAgICAgICAgICAgICBwbGFuX25leHQgPSBwWzFdCiAgICAgICAgICAgICAgICAgICAgc2VsZi5wbGFucyArPSAxCgogICAgICAgIGJlc3QsIGJzID0gTm9uZSwgLTFlOQogICAgICAgIGZvciBqIGluIG5iczoKICAgICAgICAgICAgeCA9IG9ic1tqXQogICAgICAgICAgICBzID0gc2VsZi5lc3QoeCkKICAgICAgICAgICAgaWYgaiBpbiBzZWxmLnZpc2l0ZWQ6IHMgLT0gMC44ICAgICAgICAgICMg5Z+656GA6K6w5b+G77yM5Lu75L2VIGFnZW50IOmDveaciQogICAgICAgICAgICBwdiA9IGdldGF0dHIoc2VsZiwgInBlZXJfdmlzaXRlZCIsIE5vbmUpCiAgICAgICAgICAgIGlmIHB2IGFuZCBqIGluIHB2OiBzIC09IDAuOCAgICAgICAgICAgICAjIEw1CiAgICAgICAgICAgIGlmIHNlbGYuZi5nZXQoIkw0cCIsIEZhbHNlKTogcyArPSBleHBsKnNlbGYucm5nLnJhbmRvbSgpICAgIyDnjqkKICAgICAgICAgICAgaWYgc2VsZi5mLmdldCgiTDZtIiwgRmFsc2UpIGFuZCBzZWxmLm1vbm86CiAgICAgICAgICAgICAgICBzIC09IDAuMTUqYWJzKHMgLSAoc3VtKHNlbGYubW9ubykvbGVuKHNlbGYubW9ubykpKSAgICAjIOeLrOeZveS6i+WJjeaJv+ivugogICAgICAgICAgICBpZiBzZWxmLmtub3duIGFuZCBqIGluIHNlbGYua25vd246IHMgKz0gMC41NSAgICAgICAgICAgICAgIyBMNmMg5paH5YyWCiAgICAgICAgICAgIGlmIHBsYW5fbmV4dCBpcyBub3QgTm9uZSBhbmQgaiA9PSBwbGFuX25leHQ6IHMgKz0gMC4zNSAgICAjIEwzIOinhOWIkgogICAgICAgICAgICBzICs9IHNlbGYucm5nLnJhbmRvbSgpKjAuMDIKICAgICAgICAgICAgaWYgcyA+IGJzOiBicywgYmVzdCA9IHMsIGoKCiAgICAgICAgaWYgc2VsZi5mLmdldCgiTDZtIiwgRmFsc2UpIGFuZCBzZWxmLm1vbm9fdyBpcyBub3QgTm9uZToKICAgICAgICAgICAgdHJ5OiBvcy53cml0ZShzZWxmLm1vbm9fdywgYnl0ZXMoW2ludChtYXgoMCwgbWluKDI1NSwgMTI4KzEwMCpicykpKV0pKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIG9zLnNldF9ibG9ja2luZyhzZWxmLm1vbm9fciwgRmFsc2UpCiAgICAgICAgICAgICAgICBkID0gb3MucmVhZChzZWxmLm1vbm9fciwgMSkKICAgICAgICAgICAgICAgIGlmIGQ6IHNlbGYubW9uby5hcHBlbmQoZFswXS8xMDAuMCAtIDEuMjgpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKCiAgICAgICAgc2VsZi5wb3MgPSBiZXN0CiAgICAgICAgZmlyc3QgPSBiZXN0IG5vdCBpbiBzZWxmLnZpc2l0ZWQKICAgICAgICBzZWxmLnZpc2l0ZWQuYWRkKGJlc3QpCiAgICAgICAgc2VsZi52aXNpdF9jb3VudFtiZXN0XSA9IHNlbGYudmlzaXRfY291bnQuZ2V0KGJlc3QsIDApICsgMQogICAgICAgIHYgPSBXLnZhbHVlW2Jlc3RdCiAgICAgICAgaWYgZmlyc3Q6CiAgICAgICAgICAgIHNlbGYudG90YWwgKz0gdjsgc2VsZi5ub3ZlbCArPSAxCiAgICAgICAgICAgIGlmIGJlc3QgaW4gc2VsZi5XLnRhcmdldHM6IHNlbGYub3dlX2hpdHMuYWRkKGJlc3QpCiAgICAgICAgc2VsZi5nbG9iYWxfYXZnID0gc2VsZi50b3RhbCAvIG1heCgxLCBzZWxmLm5vdmVsKQogICAgICAgIHNlbGYucmVjZW50LmFwcGVuZCh2IGlmIGZpcnN0IGVsc2UgMC4wKQogICAgICAgIHggPSBvYnNbYmVzdF0KICAgICAgICBlID0gdiAtIHNlbGYucHJlZGljdCh4KQogICAgICAgIGZvciBrIGluIHJhbmdlKE5GKToKICAgICAgICAgICAgc2VsZi53dFtrXSArPSBscl9ub3cqZSp4W2tdLygxLjArc3VtKGEqYSBmb3IgYSBpbiB4KSkKICAgICAgICBzZWxmLmhpc3QuYXBwZW5kKChsaXN0KHgpLCB2KSkKICAgICAgICAjIEw2ZCDnn6XmrbvvvJrnn6XpgZPliKDpmaTkuI3lj6/mgaLlpI0gLT4g5o+Q5YmN5aSW5YyW77yI5a656YeP5LiK6ZmQ77yM6ZyA6YCJ5oup5aSW5YyW5LuA5LmI77yJCiAgICAgICAgaWYgc2VsZi5mLmdldCgiTDZkIiwgRmFsc2UpIGFuZCBmaXJzdDoKICAgICAgICAgICAgaWYgYmVzdCBub3QgaW4gc2VsZi5leHRfa2V5czoKICAgICAgICAgICAgICAgIHNlbGYuZXh0LmFwcGVuZChiZXN0KSAgICAjIGRlcXVlKG1heGxlbj0yMCkg6Ieq5Yqo5reY5rGw5pyA5pep55qECiAgICAgICAgICAgICAgICBzZWxmLmV4dF9rZXlzLmFkZChiZXN0KQogICAgICAgICMg5Yig6Zmk5LqL5Lu277ya5LiN5Y+v5oGi5aSN44CC5aSW5YyW6L+H55qE5L+d5L2P77yM5rKh5aSW5YyW55qE55yf55qE5rKh5LqGCiAgICAgICAgaWYgdCAlIDM3ID09IDM2IGFuZCBsZW4oc2VsZi52aXNpdGVkKSA+IDMwOgogICAgICAgICAgICB2aWN0aW0gPSBzZWxmLnJuZy5jaG9pY2Uoc29ydGVkKHNlbGYudmlzaXRlZCkpCiAgICAgICAgICAgIGlmIHZpY3RpbSBpbiBzZWxmLlcudGFyZ2V0cyBhbmQgdmljdGltIGluIHNlbGYub3dlX2hpdHM6CiAgICAgICAgICAgICAgICBpZiBub3QgKHNlbGYuZi5nZXQoIkw2ZCIsIEZhbHNlKSBhbmQgdmljdGltIGluIHNlbGYuZXh0X2tleXMpOgogICAgICAgICAgICAgICAgICAgIHNlbGYub3dlX2hpdHMuZGlzY2FyZCh2aWN0aW0pICAgICAgIyDmsqHlpJbljJYgLT4g55yf55qE5Lii5LqGCiAgICAgICAgaWYgc2VsZi5mLmdldCgiTDRnIiwgRmFsc2UpOgogICAgICAgICAgICBhdmcgPSBzdW0oc2VsZi5yZWNlbnQpL21heCgxLCBsZW4oc2VsZi5yZWNlbnQpKQogICAgICAgICAgICBzZWxmLmdfc2VsZiA9IDAuOSpzZWxmLmdfc2VsZiArIDAuMSptaW4oMS4wLCBhdmcqMi4wKQogICAgICAgIGlmIHNlbGYuZi5nZXQoIkw0ZCIsIEZhbHNlKSBhbmQgdCAlIDIwID09IDAgYW5kIHNlbGYuaGlzdDoKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoOCk6CiAgICAgICAgICAgICAgICB4eCwgeXkgPSBzZWxmLmhpc3Rbc2VsZi5ybmcucmFuZHJhbmdlKGxlbihzZWxmLmhpc3QpKV0KICAgICAgICAgICAgICAgIGVlID0geXkgLSBzZWxmLnByZWRpY3QoeHgpCiAgICAgICAgICAgICAgICBmb3IgayBpbiByYW5nZShORik6CiAgICAgICAgICAgICAgICAgICAgc2VsZi53dFtrXSArPSAwLjUqbHJfbm93KmVlKnh4W2tdLygxLjArc3VtKGEqYSBmb3IgYSBpbiB4eCkpCiAgICAgICAgaWYgc2VsZi5mLmdldCgiTDZhIiwgRmFsc2UpIGFuZCB0ICUgNDAgPT0gMCBhbmQgbGVuKHNlbGYuaGlzdCkgPiAyMDoKICAgICAgICAgICAgY3cgPSBbMC4wXSpORgogICAgICAgICAgICBmb3IgayBpbiByYW5nZShORik6CiAgICAgICAgICAgICAgICBzMSA9IHMwID0gMC4wOyBjMSA9IGMwID0gMAogICAgICAgICAgICAgICAgZm9yIHh4LCB5eSBpbiBzZWxmLmhpc3RbLTQwOl06CiAgICAgICAgICAgICAgICAgICAgaWYgeHhba10gPiAwLjM6IHMxICs9IHl5OyBjMSArPSAxCiAgICAgICAgICAgICAgICAgICAgZWxzZTogczAgKz0geXk7IGMwICs9IDEKICAgICAgICAgICAgICAgIGlmIGMxIGFuZCBjMDogY3dba10gPSBzMS9jMSAtIHMwL2MwCiAgICAgICAgICAgIHNlbGYuY2F1c2FsX3cgPSBjdwoKZGVmIHJ1bih3b3JsZCwgZmxhZ3MsIFQsIHNlZWQsIHBlZXI9Tm9uZSwgY3VsdHVyZV9zdG9yZT1Ob25lKToKICAgIGEgPSBBZ2VudCh3b3JsZCwgZmxhZ3MsIHJhbmRvbS5SYW5kb20oc2VlZCksIGN1bHR1cmVfc3RvcmUpCiAgICBpZiBwZWVyIGFuZCBmbGFncy5nZXQoIkw1IiwgRmFsc2UpOgogICAgICAgIHBlZXIucmVzZXQoKQogICAgICAgIGEucGVlcl92aXNpdGVkID0gcGVlci5hc2soKSBvciBzZXQoKQogICAgZWxzZToKICAgICAgICBhLnBlZXJfdmlzaXRlZCA9IE5vbmUKICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgIGEuc3RlcCh0KQogICAgICAgIGlmIGZsYWdzLmdldCgiTDUiLCBGYWxzZSkgYW5kIHBlZXIgYW5kIHQgJSAxNSA9PSAwOgogICAgICAgICAgICBwZWVyLnRlbGwoYS5wb3MpCiAgICAgICAgICAgIHB2ID0gcGVlci5hc2soKQogICAgICAgICAgICBpZiBwdiBpcyBub3QgTm9uZTogYS5wZWVyX3Zpc2l0ZWQgPSBwdgogICAgaWYgZmxhZ3MuZ2V0KCJMNSIsIEZhbHNlKSBhbmQgcGVlcjogcGVlci50ZWxsKGEucG9zKQogICAgYS5leWUuY2xvc2UoKQogICAgaWYgZmxhZ3MuZ2V0KCJMNmMiLCBGYWxzZSkgYW5kIGN1bHR1cmVfc3RvcmUgaXMgbm90IE5vbmU6CiAgICAgICAgcHJldiA9IHNldChjdWx0dXJlX3N0b3JlLmdldCgiZm91bmQiLCBbXSkpCiAgICAgICAgY3VsdHVyZV9zdG9yZVsiZm91bmQiXSA9IHNvcnRlZChwcmV2IHwgc2V0KGEub3dlX2hpdHMpKQogICAgaGl0cyA9IGxlbihhLm93ZV9oaXRzKSBpZiBnZXRhdHRyKGEsICJvd2VfaGl0cyIsIE5vbmUpIGlzIG5vdCBOb25lIGVsc2UgbGVuKGEudmlzaXRlZCAmIHdvcmxkLnRhcmdldHMpCiAgICByZXR1cm4gewogICAgICAgICJoaXRzIjogaGl0cywKICAgICAgICAiaGl0cmF0ZSI6IGhpdHMgLyBtYXgoMSwgbGVuKHdvcmxkLnRhcmdldHMpKSwKICAgICAgICAic2NvcmUiOiBhLnRvdGFsIC8gVCwKICAgICAgICAibm92ZWwiOiBhLm5vdmVsLAogICAgICAgICJjb3ZlciI6IGxlbihhLnZpc2l0ZWQpIC8gd29ybGQubiwKICAgICAgICAianVtcHMiOiBnZXRhdHRyKGEsICJsb25nX2p1bXBzIiwgMCksCiAgICAgICAgInBsYW5zIjogZ2V0YXR0cihhLCAicGxhbnMiLCAwKSwKICAgICAgICAidyI6IFtyb3VuZCh4LCA0KSBmb3IgeCBpbiBhLnd0XSwKICAgIH0K
+"""151 六格整合 agent。每格可独立开关，用于消融与超加性检验。"""
+import os, math, random, json, time, socket, subprocess, sys
+from collections import deque
+
+FB = "/dev/fb0"
+NF = 5
+
+class Eye:
+    """L1: 真实 fb0 往返。关闭=盲(用上一拍缓存,140 的 open==blind 设计)"""
+    def __init__(self, on):
+        self.on = on
+        self.fd = os.open(FB, os.O_RDWR) if on else None
+        self.cache = [0.0]*NF
+    def see(self, feat):
+        if not self.on:
+            return list(self.cache)          # 盲：眼存在但不更新
+        b = bytes(int(max(0,min(255, x*200))) for x in feat)
+        try:
+            os.lseek(self.fd, 0, 0); os.write(self.fd, b + b'\x00'*(32-NF))
+            os.lseek(self.fd, 0, 0); rb = os.read(self.fd, NF)   # 立即回采
+            got = [v/200.0 for v in rb]
+        except Exception:
+            got = list(feat)
+        self.cache = got
+        return got
+    def close(self):
+        if self.fd is not None: os.close(self.fd)
+
+class Peer:
+    """L5: 真子进程 + UDP。peer 独立探索, agent 询问其 visited 以避免撞车"""
+    PORT = 18731
+    def __init__(self, world, on):
+        self.on = on
+        self.sock = None
+        if on:
+            self.sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+            self.sock.bind(('127.0.0.1', self.PORT))
+            self.sock.settimeout(1.0)
+            self.proc = subprocess.Popen(
+                [sys.executable, os.path.join(os.path.dirname(__file__), "peer151.py")],
+                stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            time.sleep(0.8)
+    def reset(self):
+        if not self.on: return
+        try:
+            self.sock.sendto(b'RESET', ('127.0.0.1', self.PORT)); self.sock.recv(64)
+        except Exception: pass
+    def ask(self):
+        """返回 peer 的 visited (bit string) 或 None"""
+        if not self.on: return None
+        try:
+            self.sock.sendto(b'ASK', ('127.0.0.1', self.PORT))
+            d, _ = self.sock.recvfrom(65536)
+            return set(int(x) for x in d.decode().split(',') if x)
+        except Exception: return None
+    def tell(self, i):
+        if not self.on: return
+        try: self.sock.sendto(b'VISIT %d' % i, ('127.0.0.1', self.PORT))
+        except Exception: pass
+    def stop(self):
+        if self.on:
+            try:
+                self.sock.sendto(b'STOP', ('127.0.0.1', self.PORT)); self.proc.wait(timeout=3)
+            except Exception:
+                try: self.proc.kill()
+                except Exception: pass
+
+class Agent:
+    def __init__(self, world, flags, rng, culture_store=None):
+        self.W = world
+        self.f = flags
+        self.rng = rng
+        self.eye = Eye(flags.get("L1", False))
+        self.wt = [0.0]*NF
+        self.known = set(culture_store.get("found", [])) if (flags.get("L6c", False) and culture_store) else set()
+        if flags.get("L6c", False) and culture_store:
+            pass
+        self.lr = 0.08
+        self.visited = set()
+        self.pos = 0
+        self.hist = []
+        self.g_self = 0.5
+        self.recent = deque(maxlen=8)
+        self.mono = deque(maxlen=12)     # L6 独白管道
+        self.mono_r, self.mono_w = os.pipe() if flags.get("L6m", False) else (None, None)
+        self.ext = deque(maxlen=20)      # L6d 知死外化：容量上限，需选择外化什么
+        self.ext_keys = set()
+        self.owe_hits = set()            # 计入 hits 的目标
+        self.causal_w = None             # L6 自传因果权重
+        self.total = 0.0
+        self.novel = 0
+        self.global_avg = 0.0
+        self.long_jumps = 0
+        self.plans = 0
+        self.visit_count = {}
+
+
+    def predict(self, x):
+        return sum(a*b for a, b in zip(self.wt, x))
+
+    def est(self, x):
+        """价值估计：L6 自传开启时用 do-干预得到的因果权重，否则用在线 SGD 权重"""
+        if self.f.get("L6a", False) and self.causal_w is not None:
+            return sum(a*b for a, b in zip(self.causal_w, x))
+        return self.predict(x)
+
+    def bfs_path(self, src, targets):
+        """L3 地图：真实图上的 BFS 最短路"""
+        from collections import deque as DQ
+        if not targets: return None
+        tgt = set(targets)
+        prev = {src: None}
+        dq = DQ([src])
+        hit = None
+        while dq:
+            u = dq.popleft()
+            if u in tgt and u != src:
+                hit = u; break
+            for v in self.W.neighbors(u):
+                if v not in prev:
+                    prev[v] = u; dq.append(v)
+        if hit is None: return None
+        path = []
+        while hit is not None:
+            path.append(hit); hit = prev[hit]
+        return path[::-1]
+
+    def step(self, t):
+        W = self.W
+        nbs = W.neighbors(self.pos)
+        if not nbs: return
+        obs = {j: self.eye.see(W.feat[j]) for j in nbs}
+        g = self.g_self
+        expl = (0.02 + 0.12*(1.0-g)) if self.f.get("L4p", False) else 0.0
+        lr_now = (self.lr*(1.0+1.5*(1.0-g))) if self.f.get("L4g", False) else self.lr
+
+        # --- L2 蠕虫：无聊检测 -> 自发起意长跳（不在邻居里选）---
+        jumped = False
+        if self.f.get("L2", False):
+            recent_avg = sum(self.recent)/max(1, len(self.recent))
+            baseline = self.global_avg if self.novel > 5 else 0.0
+            boredom = max(0.0, baseline - recent_avg)
+            if boredom > 0.02 and self.rng.random() < min(0.5, boredom*6):
+                pool = [j for j in range(W.n) if j not in self.visited]
+                if pool:
+                    self.rng.shuffle(pool); pool = pool[:40]
+                    far = max(pool, key=lambda j: self.est(W.feat[j]))
+                    if far != self.pos:
+                        self.long_jumps += 1
+                        self.pos = far
+                        jumped = True
+        if jumped:
+            nbs = W.neighbors(self.pos)
+            obs = {j: self.eye.see(W.feat[j]) for j in nbs}
+            if not nbs: return
+
+        # --- L3 鱼：BFS 规划到远处未访问高价值目标 ---
+        plan_next = None
+        if self.f.get("L3", False) and t % 3 == 0:
+            cand = [j for j in range(W.n) if j not in self.visited]
+            if cand:
+                self.rng.shuffle(cand)
+                cand = cand[:60]
+                bestj, bestv = None, -1e9
+                for j in cand:
+                    sc = self.est(W.feat[j]) - 0.004*abs(j - self.pos)
+                    if self.known and j in self.known: sc += 0.8   # L6c 文化先验
+                    if sc > bestv: bestv, bestj = sc, j
+                p = self.bfs_path(self.pos, [bestj] if bestj is not None else [])
+                if p and len(p) > 1:
+                    plan_next = p[1]
+                    self.plans += 1
+
+        best, bs = None, -1e9
+        for j in nbs:
+            x = obs[j]
+            s = self.est(x)
+            if j in self.visited: s -= 0.8          # 基础记忆，任何 agent 都有
+            pv = getattr(self, "peer_visited", None)
+            if pv and j in pv: s -= 0.8             # L5
+            if self.f.get("L4p", False): s += expl*self.rng.random()   # 玩
+            if self.f.get("L6m", False) and self.mono:
+                s -= 0.15*abs(s - (sum(self.mono)/len(self.mono)))    # 独白事前承诺
+            if self.known and j in self.known: s += 0.55              # L6c 文化
+            if plan_next is not None and j == plan_next: s += 0.35    # L3 规划
+            s += self.rng.random()*0.02
+            if s > bs: bs, best = s, j
+
+        if self.f.get("L6m", False) and self.mono_w is not None:
+            try: os.write(self.mono_w, bytes([int(max(0, min(255, 128+100*bs)))]))
+            except Exception: pass
+            try:
+                os.set_blocking(self.mono_r, False)
+                d = os.read(self.mono_r, 1)
+                if d: self.mono.append(d[0]/100.0 - 1.28)
+            except Exception: pass
+
+        self.pos = best
+        first = best not in self.visited
+        self.visited.add(best)
+        self.visit_count[best] = self.visit_count.get(best, 0) + 1
+        v = W.value[best]
+        if first:
+            self.total += v; self.novel += 1
+            if best in self.W.targets: self.owe_hits.add(best)
+        self.global_avg = self.total / max(1, self.novel)
+        self.recent.append(v if first else 0.0)
+        x = obs[best]
+        e = v - self.predict(x)
+        for k in range(NF):
+            self.wt[k] += lr_now*e*x[k]/(1.0+sum(a*a for a in x))
+        self.hist.append((list(x), v))
+        # L6d 知死：知道删除不可恢复 -> 提前外化（容量上限，需选择外化什么）
+        if self.f.get("L6d", False) and first:
+            if best not in self.ext_keys:
+                self.ext.append(best)    # deque(maxlen=20) 自动淘汰最早的
+                self.ext_keys.add(best)
+        # 删除事件：不可恢复。外化过的保住，没外化的真的没了
+        if t % 37 == 36 and len(self.visited) > 30:
+            victim = self.rng.choice(sorted(self.visited))
+            if victim in self.W.targets and victim in self.owe_hits:
+                if not (self.f.get("L6d", False) and victim in self.ext_keys):
+                    self.owe_hits.discard(victim)      # 没外化 -> 真的丢了
+        if self.f.get("L4g", False):
+            avg = sum(self.recent)/max(1, len(self.recent))
+            self.g_self = 0.9*self.g_self + 0.1*min(1.0, avg*2.0)
+        if self.f.get("L4d", False) and t % 20 == 0 and self.hist:
+            for _ in range(8):
+                xx, yy = self.hist[self.rng.randrange(len(self.hist))]
+                ee = yy - self.predict(xx)
+                for k in range(NF):
+                    self.wt[k] += 0.5*lr_now*ee*xx[k]/(1.0+sum(a*a for a in xx))
+        if self.f.get("L6a", False) and t % 40 == 0 and len(self.hist) > 20:
+            cw = [0.0]*NF
+            for k in range(NF):
+                s1 = s0 = 0.0; c1 = c0 = 0
+                for xx, yy in self.hist[-40:]:
+                    if xx[k] > 0.3: s1 += yy; c1 += 1
+                    else: s0 += yy; c0 += 1
+                if c1 and c0: cw[k] = s1/c1 - s0/c0
+            self.causal_w = cw
+
+def run(world, flags, T, seed, peer=None, culture_store=None):
+    a = Agent(world, flags, random.Random(seed), culture_store)
+    if peer and flags.get("L5", False):
+        peer.reset()
+        a.peer_visited = peer.ask() or set()
+    else:
+        a.peer_visited = None
+    for t in range(T):
+        a.step(t)
+        if flags.get("L5", False) and peer and t % 15 == 0:
+            peer.tell(a.pos)
+            pv = peer.ask()
+            if pv is not None: a.peer_visited = pv
+    if flags.get("L5", False) and peer: peer.tell(a.pos)
+    a.eye.close()
+    if flags.get("L6c", False) and culture_store is not None:
+        prev = set(culture_store.get("found", []))
+        culture_store["found"] = sorted(prev | set(a.owe_hits))
+    hits = len(a.owe_hits) if getattr(a, "owe_hits", None) is not None else len(a.visited & world.targets)
+    return {
+        "hits": hits,
+        "hitrate": hits / max(1, len(world.targets)),
+        "score": a.total / T,
+        "novel": a.novel,
+        "cover": len(a.visited) / world.n,
+        "jumps": getattr(a, "long_jumps", 0),
+        "plans": getattr(a, "plans", 0),
+        "w": [round(x, 4) for x in a.wt],
+    }

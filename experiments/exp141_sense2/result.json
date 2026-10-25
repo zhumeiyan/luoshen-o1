@@ -1,1 +1,127 @@
-ewogInRzIjogIjIwMjYtMTAtMTggMTU6MzU6MzEiLAogImZiX2dlb21ldHJ5IjogewogICJ3IjogMTAyNCwKICAiaCI6IDc2OCwKICAiYnBwIjogMzIsCiAgImJ5dGVzIjogMzE0NTcyOAogfSwKICJBX2NoaXJhbF92aXNpb24iOiB7CiAgImJhZ19pZGVudGljYWwiOiB0cnVlLAogICJiYWdfc2hhIjogIjlmOTBlYTBkYmFmNzc4ZWMiLAogICJkZWNvZGVycyI6IHsKICAgImJhZyI6IHsKICAgICJ0cHIiOiAxLjAsCiAgICAiZnByIjogMS4wLAogICAgImRpc2MiOiAwLjAsCiAgICAibiI6IDYKICAgfSwKICAgInBvcyI6IHsKICAgICJ0cHIiOiAxLjAsCiAgICAiZnByIjogMC4wLAogICAgImRpc2MiOiAxLjAsCiAgICAibiI6IDYKICAgfQogIH0KIH0sCiAiQl9lYXIiOiB7CiAgInBvcnQiOiAzODU4OSwKICAiZmFsc2lmaWFibGUiOiB7CiAgICJoZWFyZCI6IFsKICAgIDAuMCwKICAgIDUuMCwKICAgIDEwLjAsCiAgICA1LjAsCiAgICAwLjAKICAgXSwKICAgInVuaXF1ZSI6IDMsCiAgICJzZXEiOiBbCiAgICAwLjAsCiAgICA1LjAsCiAgICAxMC4wLAogICAgNS4wLAogICAgMC4wCiAgIF0sCiAgICJwYXNzIjogdHJ1ZSwKICAgInNpbGVudF9hcm1fb2siOiB0cnVlCiAgfSwKICAicmV2ZXJzYWwiOiB7CiAgICJzZXEiOiBbCiAgICAwLjAsCiAgICA1LjAsCiAgICAxMC4wLAogICAgNS4wLAogICAgMC4wCiAgIF0sCiAgICJyZXNpZCI6IDAuMCwKICAgInJldiI6IDEuMCwKICAgImNsb2NrX3Jlc2lkIjogMS4wNAogIH0sCiAgIm5lY2Vzc2l0eSI6IHsKICAgImVhciI6IDAuMCwKICAgImVhcl90Z3RzIjogWwogICAgNy44NTQyLAogICAgMi42MDcxLAogICAgNy4yNDc2LAogICAgNy45MDgyLAogICAgNS4wMTg2LAogICAgNS4zNjAxCiAgIF0sCiAgICJibGluZCI6IDMuNzg4OCwKICAgImJsaW5kX3RndHMiOiBbCiAgICAxLjkyNDYsCiAgICAyLjc2NjQsCiAgICAxLjQ0ODEsCiAgICAzLjE4MTEsCiAgICA1LjYwNjEsCiAgICA3LjgwNjYKICAgXSwKICAgImRlbHRhIjogMy43ODg4LAogICAiZHJvcF9wY3QiOiAxMDAuMAogIH0KIH0sCiAiQ19yZXNjYW4iOiBbCiAgewogICAicGF0aCI6ICIvZGV2L3NuZC9wY21DMEQwYyIsCiAgICJleGlzdHMiOiB0cnVlLAogICAibWFqb3IiOiAxMTYsCiAgICJtaW5vciI6IDI0LAogICAicmVhZGFibGUiOiB0cnVlCiAgfSwKICB7CiAgICJwYXRoIjogIi9kZXYvc25kL3BjbUMwRDBwIiwKICAgImV4aXN0cyI6IHRydWUsCiAgICJtYWpvciI6IDExNiwKICAgIm1pbm9yIjogMTYsCiAgICJyZWFkYWJsZSI6IHRydWUKICB9LAogIHsKICAgInBhdGgiOiAiL2Rldi9zbmQvY29udHJvbEMwIiwKICAgImV4aXN0cyI6IHRydWUsCiAgICJtYWpvciI6IDExNiwKICAgIm1pbm9yIjogMCwKICAgInJlYWRhYmxlIjogdHJ1ZQogIH0sCiAgewogICAicGF0aCI6ICIvZGV2L2ZiMCIsCiAgICJleGlzdHMiOiB0cnVlLAogICAibWFqb3IiOiAyOSwKICAgIm1pbm9yIjogMCwKICAgInJlYWRhYmxlIjogdHJ1ZQogIH0sCiAgewogICAicGF0aCI6ICIvcHJvYy91cHRpbWUiLAogICAiZXhpc3RzIjogdHJ1ZSwKICAgIm1ham9yIjogMCwKICAgIm1pbm9yIjogMCwKICAgInJlYWRhYmxlIjogdHJ1ZQogIH0sCiAgewogICAicGF0aCI6ICIvcHJvYy9sb2FkYXZnIiwKICAgImV4aXN0cyI6IHRydWUsCiAgICJtYWpvciI6IDAsCiAgICJtaW5vciI6IDAsCiAgICJyZWFkYWJsZSI6IHRydWUKICB9CiBdCn0=
+{
+ "ts": "2026-10-18 15:35:31",
+ "fb_geometry": {
+  "w": 1024,
+  "h": 768,
+  "bpp": 32,
+  "bytes": 3145728
+ },
+ "A_chiral_vision": {
+  "bag_identical": true,
+  "bag_sha": "9f90ea0dbaf778ec",
+  "decoders": {
+   "bag": {
+    "tpr": 1.0,
+    "fpr": 1.0,
+    "disc": 0.0,
+    "n": 6
+   },
+   "pos": {
+    "tpr": 1.0,
+    "fpr": 0.0,
+    "disc": 1.0,
+    "n": 6
+   }
+  }
+ },
+ "B_ear": {
+  "port": 38589,
+  "falsifiable": {
+   "heard": [
+    0.0,
+    5.0,
+    10.0,
+    5.0,
+    0.0
+   ],
+   "unique": 3,
+   "seq": [
+    0.0,
+    5.0,
+    10.0,
+    5.0,
+    0.0
+   ],
+   "pass": true,
+   "silent_arm_ok": true
+  },
+  "reversal": {
+   "seq": [
+    0.0,
+    5.0,
+    10.0,
+    5.0,
+    0.0
+   ],
+   "resid": 0.0,
+   "rev": 1.0,
+   "clock_resid": 1.04
+  },
+  "necessity": {
+   "ear": 0.0,
+   "ear_tgts": [
+    7.8542,
+    2.6071,
+    7.2476,
+    7.9082,
+    5.0186,
+    5.3601
+   ],
+   "blind": 3.7888,
+   "blind_tgts": [
+    1.9246,
+    2.7664,
+    1.4481,
+    3.1811,
+    5.6061,
+    7.8066
+   ],
+   "delta": 3.7888,
+   "drop_pct": 100.0
+  }
+ },
+ "C_rescan": [
+  {
+   "path": "/dev/snd/pcmC0D0c",
+   "exists": true,
+   "major": 116,
+   "minor": 24,
+   "readable": true
+  },
+  {
+   "path": "/dev/snd/pcmC0D0p",
+   "exists": true,
+   "major": 116,
+   "minor": 16,
+   "readable": true
+  },
+  {
+   "path": "/dev/snd/controlC0",
+   "exists": true,
+   "major": 116,
+   "minor": 0,
+   "readable": true
+  },
+  {
+   "path": "/dev/fb0",
+   "exists": true,
+   "major": 29,
+   "minor": 0,
+   "readable": true
+  },
+  {
+   "path": "/proc/uptime",
+   "exists": true,
+   "major": 0,
+   "minor": 0,
+   "readable": true
+  },
+  {
+   "path": "/proc/loadavg",
+   "exists": true,
+   "major": 0,
+   "minor": 0,
+   "readable": true
+  }
+ ]
+}

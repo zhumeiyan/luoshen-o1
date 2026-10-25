@@ -1,1 +1,138 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiLomZrmi5/plK7pvKDlrp7pqozvvJpGaXR0cyAvIOaJi+aKliAvIOaJk+WtlyAvIOa7mui9riAvIOecn+aTjeS9nCIiIgppbXBvcnQgb3MsIHN5cywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUudmlydHVhbF9pbnB1dCBpbXBvcnQgKAogICAgZml0dHMsIGZpdHRzX3NjYW4sIHRyZW1vcl9lZmZlY3Rfc2NhbiwgZWZmZWN0aXZlX3dpZHRoLAogICAgdHJlbW9yLCBwaW5rLCBWaXJ0dWFsTW91c2UsIFZpcnR1YWxLZXlib2FyZCwgT3BlcmF0b3IsIFRSRU1PUl9NTSwKKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG9rID0ge30KICAgIHByaW50KCI9Iio4MCk7IHByaW50KCIg6Jma5ouf6ZSu6byg77ya6K6p5rSb56We6Ieq5bex5Yqo5omLIik7IHByaW50KCI9Iio4MCkKCiAgICBwcmludCgiXG7jgJAx44CRRml0dHPvvJrov5zihpLmhaIgLyDlsI/ihpLmhaIiKQogICAgcHJpbnQoIi0iKjgwKQogICAgcHJpbnQoZiIgIHsnJzo8Nn17J+WAvCc6Pjh9eyfnp7vliqjml7bpl7QnOj4xMn0iKQogICAgcHJldiA9IDA7IG1vbm9EID0gVHJ1ZTsgcHJldiA9IDA7IG1vbm9XID0gVHJ1ZTsgZmlyc3QgPSBUcnVlCiAgICBmb3IgaywgdiwgbXQgaW4gZml0dHNfc2NhbigpOgogICAgICAgIHByaW50KGYiICB7aysnPSc6PDZ9e3Y6Pjh9e210KjEwMDA6PjEwLjFmfSBtcyIpCiAgICAgICAgaWYgayA9PSAiRCI6CiAgICAgICAgICAgIGlmIG5vdCBmaXJzdCBhbmQgbXQgPD0gcHJldjogbW9ub0QgPSBGYWxzZQogICAgICAgICAgICBwcmV2ID0gbXQ7IGZpcnN0ID0gRmFsc2UKICAgICAgICBpZiBrID09ICJXIjoKICAgICAgICAgICAgaWYgbXQgPj0gcHJldl93IGlmICdwcmV2X3cnIGluIGRpcigpIGVsc2UgRmFsc2U6IG1vbm9XID0gRmFsc2UKICAgICAgICAgICAgcHJldl93ID0gbXQKICAgIG9rWyLikaAg4piFIOi3neemu+i2iui/nOi2iuaFou+8iOWNleiwg++8iSJdID0gYm9vbChtb25vRCkKICAgIG9rWyLikaEg4piFIOebruagh+i2iuWwj+i2iuaFou+8iOWNleiwg++8iSJdID0gYm9vbCgKICAgICAgICBhbGwoZml0dHMoMTAwLCB3MSkgPiBmaXR0cygxMDAsIHcyKQogICAgICAgICAgICBmb3IgdzEsIHcyIGluIFsoMiwgNCksICg0LCAxMCksICgxMCwgMjApLCAoMjAsIDQwKV0pKQoKICAgIHByaW50KCJcbuOAkDLjgJHimIXimIUg5omL5oqW5a+55bCP55uu5qCH5o2f5aSx5pu05aSn77yI5pys5bGC5pyA56Gs5Yik5o2u77yJIikKICAgIHByaW50KCItIio4MCkKICAgIHByaW50KGYiICB7J+ebruaghyhtbSknOj4xMH17J+acieaViChtbSknOj4xMH17J+aNn+WksSc6PjEwfSIpCiAgICBsb3NzZXMgPSBbXQogICAgZm9yIFcsIFdlLCBsb3NzIGluIHRyZW1vcl9lZmZlY3Rfc2NhbigpOgogICAgICAgIHByaW50KGYiICB7Vzo+MTAuMWZ9e1dlOj4xMC4xZn17bG9zcyoxMDA6PjkuMWZ9JSIpCiAgICAgICAgbG9zc2VzLmFwcGVuZChsb3NzKQogICAgb2tbIuKRoiDimIXimIUg5omL5oqW5Zu65a6a5pe277yM55uu5qCH6LaK5bCP55u45a+55o2f5aSx6LaK5aSnIl0gPSBib29sKAogICAgICAgIGFsbChsb3NzZXNbaV0gPiBsb3NzZXNbaSsxXSBmb3IgaSBpbiByYW5nZShsZW4obG9zc2VzKS0xKSkpCiAgICBva1si4pGjIOKYhSDmipbliqjluYXluqYgPSAwLjVtbe+8iFJFQUwg55Sf55CG5oCn6ZyH6aKk77yJIl0gPSBib29sKAogICAgICAgIGFicyhucC5hYnModHJlbW9yKDQwMCwgc2VlZD0zKSkubWF4KCkgLSBUUkVNT1JfTU0pIDwgMWUtNikKCiAgICBwcmludCgiXG7jgJAz44CR5omL5oqW5pivIDEvZu+8jOS4jeaYr+eZveWZquWjsCIpCiAgICBwcmludCgiLSIqODApCiAgICBwayA9IHBpbmsoMjA0OCwgbnAucmFuZG9tLmRlZmF1bHRfcm5nKDEpKQogICAgd24gPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMSkubm9ybWFsKDAsIDEsIDIwNDgpCiAgICBscCA9IG5wLmFicyhucC5mZnQucmZmdChwaykpWzE6MjAwXS5tZWFuKCkKICAgIGx3ID0gbnAuYWJzKG5wLmZmdC5yZmZ0KHduKSlbMToyMDBdLm1lYW4oKQogICAgaHAgPSBucC5hYnMobnAuZmZ0LnJmZnQocGspKVs2MDA6MTAwMF0ubWVhbigpCiAgICBodyA9IG5wLmFicyhucC5mZnQucmZmdCh3bikpWzYwMDoxMDAwXS5tZWFuKCkKICAgIHByaW50KGYiICDkvY7popEv6auY6aKRIOavlO+8miAgMS9mID0ge2xwL2hwOi4zZn0gICDnmb3lmarlo7AgPSB7bHcvaHc6LjNmfSIpCiAgICBva1si4pGkIOKYhSAxL2Yg5L2O6aKR6IO96YeP5Y2g5q+UID4g55m95Zmq5aOwIl0gPSBib29sKGxwL2hwID4gbHcvaHcpCgogICAgcHJpbnQoIlxu44CQNOOAkeaJk+Wtl+mXtOmalOS4jeaYr+WMgOmAnyIpCiAgICBwcmludCgiLSIqODApCiAgICBrYiA9IFZpcnR1YWxLZXlib2FyZChyZWFsPUZhbHNlKQogICAgY3YgPSBrYi5jdl9jaGVjaygpCiAgICBwcmludChmIiAg5Ye76ZSu6Ze06ZqUIENWID0ge2N2Oi4zZn0gICDvvIhSRUFMIDAuNH4wLjbvvIkiKQogICAgb2tbIuKRpSDimIUg5omT5a2X6Ze06ZqUIENWIOiQveWcqCBSRUFMIDAuNH4wLjYiXSA9IGJvb2woMC40IDw9IGN2IDw9IDAuNikKCiAgICBwcmludCgiXG7jgJA144CR4piFIOecn+aTjeS9nO+8mua0m+elnuiHquW3seWOu+aLv+aVsOaNriIpCiAgICBwcmludCgiLSIqODApCiAgICB0cmFjZV9wID0gb3MucGF0aC5qb2luKEhFUkUsICJkYXRhIiwgIm9wZXJhdG9yX3RyYWNlLmpzb24iKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKHRyYWNlX3ApIGFuZCBvcy5lbnZpcm9uLmdldCgiUlVOX0JST1dTRVIiKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGZyb20gcGxheXdyaWdodC5zeW5jX2FwaSBpbXBvcnQgc3luY19wbGF5d3JpZ2h0CiAgICAgICAgICAgIHdpdGggc3luY19wbGF5d3JpZ2h0KCkgYXMgcHc6CiAgICAgICAgICAgICAgICBiciA9IHB3LmNocm9taXVtLmxhdW5jaCgKICAgICAgICAgICAgICAgICAgICBleGVjdXRhYmxlX3BhdGg9Ii91c3IvYmluL2dvb2dsZS1jaHJvbWUtc3RhYmxlIiwKICAgICAgICAgICAgICAgICAgICBhcmdzPVsiLS1uby1zYW5kYm94IiwgIi0tZGlzYWJsZS1kZXYtc2htLXVzYWdlIl0pCiAgICAgICAgICAgICAgICBjeCA9IGJyLm5ld19jb250ZXh0KAogICAgICAgICAgICAgICAgICAgIHVzZXJfYWdlbnQ9Ik1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJDaHJvbWUvMTUzLjAuMC4wIFNhZmFyaS81MzcuMzYiLAogICAgICAgICAgICAgICAgICAgIGFjY2VwdF9kb3dubG9hZHM9VHJ1ZSkKICAgICAgICAgICAgICAgIHBneCA9IGN4Lm5ld19wYWdlKCkKICAgICAgICAgICAgICAgIG9weCA9IE9wZXJhdG9yKHBneCwgc2VlZD00MiwgcmVhbD1UcnVlKQogICAgICAgICAgICAgICAgb3B4LmdvdG8oImh0dHBzOi8vYXJ4aXYub3JnL2xpc3QvY3MuUk8vcmVjZW50IikKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBmb3IgZSBpbiBwZ3gucXVlcnlfc2VsZWN0b3JfYWxsKCJhIik6CiAgICAgICAgICAgICAgICAgICAgICAgIGggPSBlLmdldF9hdHRyaWJ1dGUoImhyZWYiKSBvciAiIgogICAgICAgICAgICAgICAgICAgICAgICBpZiAiL2Ficy8iIGluIGg6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYiA9IGUuYm91bmRpbmdfYm94KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGJiOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9weC5tb3VzZS5jbGljaygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmJbIngiXSArIGJiWyJ3aWR0aCJdLzIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJiWyJ5Il0gKyBiYlsiaGVpZ2h0Il0vMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV19tbT1tYXgoYmJbIndpZHRoIl0sIGJiWyJoZWlnaHQiXSkvMy44LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpY3Q9RmFsc2UpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICAgICAgZm9yIHUgaW4gWyJodHRwczovL2h1Z2dpbmdmYWNlLmNvL2RhdGFzZXRzL0JpdFJvYm90L0hJVy01MDAtTGVSb2JvdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgImh0dHBzOi8vc2ltdGsub3JnL2hvbWUvZnVsbF9ib2R5LyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgImh0dHBzOi8vemVub2RvLm9yZy9yZWNvcmRzLzExMjA5MzIzIl06CiAgICAgICAgICAgICAgICAgICAgb3B4LmdvdG8odSwgd2FpdF9tcz0xMjAwKQogICAgICAgICAgICAgICAganNvbi5kdW1wKG9weC50cmFjZSwgb3Blbih0cmFjZV9wLCAidyIpLAogICAgICAgICAgICAgICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICAgICAgICAgICAgICBici5jbG9zZSgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleDoKICAgICAgICAgICAgcHJpbnQoZiIgIOa1j+iniOWZqOa1geeoi+W8guW4uO+8mnt0eXBlKGV4KS5fX25hbWVfX306IHtzdHIoZXgpWzo4MF19IikKICAgIGlmIG9zLnBhdGguZXhpc3RzKHRyYWNlX3ApOgogICAgICAgIHRyID0ganNvbi5sb2FkKG9wZW4odHJhY2VfcCkpCiAgICAgICAgcHJpbnQoZiIgIOaTjeS9nOi9qOi/uSB7bGVuKHRyKX0g5p2h77yaIikKICAgICAgICBmb3IgdCBpbiB0cjoKICAgICAgICAgICAgcHJpbnQoZiIgICAge3QuZ2V0KCdhY3QnKTo8MTZ9IgogICAgICAgICAgICAgICAgICBmIntzdHIodC5nZXQoJ3VybCcpIG9yIHQuZ2V0KCdzZWwnKSBvciAnJylbOjQwXTo8NDJ9IgogICAgICAgICAgICAgICAgICBmImZhaWxlZD17dC5nZXQoJ2ZhaWxlZCcpfSIpCiAgICAgICAgb2tbIuKRpiDimIUg55yf5rWP6KeI5Zmo5pON5L2c5pyJ55WZ55eVIl0gPSBib29sKGxlbih0cikgPiAwKQogICAgICAgIG9rWyLikacg4piF4piFIOWksei0peWmguWunuagh+iusO+8iDQwMyDkuI3kvKroo4XmiJDmiJDlip/vvIkiXSA9IGJvb2woCiAgICAgICAgICAgIGFueSh0LmdldCgiZmFpbGVkIikgZm9yIHQgaW4gdHIpKQogICAgZWxzZToKICAgICAgICBwcmludCgiICDvvIjmnKrov5DooYznnJ/mtY/op4jlmajmtYHnqIvvvIkiKQogICAgICAgIG9rWyLikaYg4piFIOecn+a1j+iniOWZqOaTjeS9nOacieeVmeeXlSJdID0gRmFsc2UKICAgICAgICBva1si4pGnIOKYheKYhSDlpLHotKXlpoLlrp7moIforrAiXSA9IEZhbHNlCgogICAgcGRmID0gb3MucGF0aC5qb2luKEhFUkUsICJkYXRhIiwgImh1bWFub2lkYmVuY2hfMjQwMy4xMDUwNi5wZGYiKQogICAgaWYgb3MucGF0aC5leGlzdHMocGRmKToKICAgICAgICBzeiA9IG9zLnBhdGguZ2V0c2l6ZShwZGYpCiAgICAgICAgcHJpbnQoZiJcbiAg4piFIOa0m+elnuiHquW3seS4i+i9veeahOiuuuaWh++8mntvcy5wYXRoLmJhc2VuYW1lKHBkZil9ICB7c3p9IGJ5dGVzIikKICAgICAgICBva1si4pGoIOKYhSDnnJ/kuIvovb3okL3nm5jvvIgyMU1CIFBERu+8iSJdID0gYm9vbChzeiA+IDFfMDAwXzAwMCkKICAgIGVsc2U6CiAgICAgICAgb2tbIuKRqCDimIUg55yf5LiL6L296JC955uYIl0gPSBGYWxzZQoKICAgIHByaW50KCJcbiIrIj0iKjgwKTsgcHJpbnQoIiDliKTmja7msYfmgLsiKTsgcHJpbnQoIj0iKjgwKQogICAgZm9yIGssIHYgaW4gb2suaXRlbXMoKToKICAgICAgICBwcmludChmIiAgeyfinIUnIGlmIHYgZWxzZSAn4p2MJ30ge2t9IikKICAgIHByaW50KGYiXG4gIOKchSB7c3VtKG9rLnZhbHVlcygpKX0ve2xlbihvayl9IikKICAgIHByaW50KCJcbiAg4p2MIOacquW7uuaooe+8muecvOWKqOS4juaJi+enu+WKqOeahOWNj+WQjO+8iOecvOWFiOWIsOOAgeaJi+WQjuWIsO+8iSIpCiAgICBwcmludCgiICDinYwg5pyq5bu65qih77ya6K+v54K55ZCO55qE57qg6ZSZ5Yqo5L2cIikKICAgIHByaW50KCIgIOKdjCDmnKrlu7rmqKHvvJrplb/mjIkv5ouW5ou9L+WPjOWHuyIpCiAgICBwcmludCgiICDimqDvuI8g55yf5rWP6KeI5Zmo5Y+X5Ye65Y+j562W55Wl6ZmQ5Yi277yM5aSa5pWw5pWw5o2u56uZIDQwMyIpCiAgICBqc29uLmR1bXAoe2s6IGJvb2wodikgZm9yIGssIHYgaW4gb2suaXRlbXMoKX0sCiAgICAgICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZW5zZSIsICJ2aXJ0dWFsX2lucHV0Lmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""虚拟键鼠实验：Fitts / 手抖 / 打字 / 滚轮 / 真操作"""
+import os, sys, json
+import numpy as np
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.virtual_input import (
+    fitts, fitts_scan, tremor_effect_scan, effective_width,
+    tremor, pink, VirtualMouse, VirtualKeyboard, Operator, TREMOR_MM,
+)
+
+if __name__ == "__main__":
+    ok = {}
+    print("="*80); print(" 虚拟键鼠：让洛神自己动手"); print("="*80)
+
+    print("\n【1】Fitts：远→慢 / 小→慢")
+    print("-"*80)
+    print(f"  {'':<6}{'值':>8}{'移动时间':>12}")
+    prev = 0; monoD = True; prev = 0; monoW = True; first = True
+    for k, v, mt in fitts_scan():
+        print(f"  {k+'=':<6}{v:>8}{mt*1000:>10.1f} ms")
+        if k == "D":
+            if not first and mt <= prev: monoD = False
+            prev = mt; first = False
+        if k == "W":
+            if mt >= prev_w if 'prev_w' in dir() else False: monoW = False
+            prev_w = mt
+    ok["① ★ 距离越远越慢（单调）"] = bool(monoD)
+    ok["② ★ 目标越小越慢（单调）"] = bool(
+        all(fitts(100, w1) > fitts(100, w2)
+            for w1, w2 in [(2, 4), (4, 10), (10, 20), (20, 40)]))
+
+    print("\n【2】★★ 手抖对小目标损失更大（本层最硬判据）")
+    print("-"*80)
+    print(f"  {'目标(mm)':>10}{'有效(mm)':>10}{'损失':>10}")
+    losses = []
+    for W, We, loss in tremor_effect_scan():
+        print(f"  {W:>10.1f}{We:>10.1f}{loss*100:>9.1f}%")
+        losses.append(loss)
+    ok["③ ★★ 手抖固定时，目标越小相对损失越大"] = bool(
+        all(losses[i] > losses[i+1] for i in range(len(losses)-1)))
+    ok["④ ★ 抖动幅度 = 0.5mm（REAL 生理性震颤）"] = bool(
+        abs(np.abs(tremor(400, seed=3)).max() - TREMOR_MM) < 1e-6)
+
+    print("\n【3】手抖是 1/f，不是白噪声")
+    print("-"*80)
+    pk = pink(2048, np.random.default_rng(1))
+    wn = np.random.default_rng(1).normal(0, 1, 2048)
+    lp = np.abs(np.fft.rfft(pk))[1:200].mean()
+    lw = np.abs(np.fft.rfft(wn))[1:200].mean()
+    hp = np.abs(np.fft.rfft(pk))[600:1000].mean()
+    hw = np.abs(np.fft.rfft(wn))[600:1000].mean()
+    print(f"  低频/高频 比：  1/f = {lp/hp:.3f}   白噪声 = {lw/hw:.3f}")
+    ok["⑤ ★ 1/f 低频能量占比 > 白噪声"] = bool(lp/hp > lw/hw)
+
+    print("\n【4】打字间隔不是匀速")
+    print("-"*80)
+    kb = VirtualKeyboard(real=False)
+    cv = kb.cv_check()
+    print(f"  击键间隔 CV = {cv:.3f}   （REAL 0.4~0.6）")
+    ok["⑥ ★ 打字间隔 CV 落在 REAL 0.4~0.6"] = bool(0.4 <= cv <= 0.6)
+
+    print("\n【5】★ 真操作：洛神自己去拿数据")
+    print("-"*80)
+    trace_p = os.path.join(HERE, "data", "operator_trace.json")
+    if not os.path.exists(trace_p) and os.environ.get("RUN_BROWSER"):
+        try:
+            from playwright.sync_api import sync_playwright
+            with sync_playwright() as pw:
+                br = pw.chromium.launch(
+                    executable_path="/usr/bin/google-chrome-stable",
+                    args=["--no-sandbox", "--disable-dev-shm-usage"])
+                cx = br.new_context(
+                    user_agent="Mozilla/5.0 (X11; Linux x86_64) "
+                               "AppleWebKit/537.36 (KHTML, like Gecko) "
+                               "Chrome/153.0.0.0 Safari/537.36",
+                    accept_downloads=True)
+                pgx = cx.new_page()
+                opx = Operator(pgx, seed=42, real=True)
+                opx.goto("https://arxiv.org/list/cs.RO/recent")
+                try:
+                    for e in pgx.query_selector_all("a"):
+                        h = e.get_attribute("href") or ""
+                        if "/abs/" in h:
+                            bb = e.bounding_box()
+                            if bb:
+                                opx.mouse.click(
+                                    bb["x"] + bb["width"]/2,
+                                    bb["y"] + bb["height"]/2,
+                                    W_mm=max(bb["width"], bb["height"])/3.8,
+                                    strict=False)
+                                break
+                except Exception:
+                    pass
+                for u in ["https://huggingface.co/datasets/BitRobot/HIW-500-LeRobot",
+                          "https://simtk.org/home/full_body/",
+                          "https://zenodo.org/records/11209323"]:
+                    opx.goto(u, wait_ms=1200)
+                json.dump(opx.trace, open(trace_p, "w"),
+                          ensure_ascii=False, indent=1)
+                br.close()
+        except Exception as ex:
+            print(f"  浏览器流程异常：{type(ex).__name__}: {str(ex)[:80]}")
+    if os.path.exists(trace_p):
+        tr = json.load(open(trace_p))
+        print(f"  操作轨迹 {len(tr)} 条：")
+        for t in tr:
+            print(f"    {t.get('act'):<16}"
+                  f"{str(t.get('url') or t.get('sel') or '')[:40]:<42}"
+                  f"failed={t.get('failed')}")
+        ok["⑦ ★ 真浏览器操作有留痕"] = bool(len(tr) > 0)
+        ok["⑧ ★★ 失败如实标记（403 不伪装成成功）"] = bool(
+            any(t.get("failed") for t in tr))
+    else:
+        print("  （未运行真浏览器流程）")
+        ok["⑦ ★ 真浏览器操作有留痕"] = False
+        ok["⑧ ★★ 失败如实标记"] = False
+
+    pdf = os.path.join(HERE, "data", "humanoidbench_2403.10506.pdf")
+    if os.path.exists(pdf):
+        sz = os.path.getsize(pdf)
+        print(f"\n  ★ 洛神自己下载的论文：{os.path.basename(pdf)}  {sz} bytes")
+        ok["⑨ ★ 真下载落盘（21MB PDF）"] = bool(sz > 1_000_000)
+    else:
+        ok["⑨ ★ 真下载落盘"] = False
+
+    print("\n"+"="*80); print(" 判据汇总"); print("="*80)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n  ✅ {sum(ok.values())}/{len(ok)}")
+    print("\n  ❌ 未建模：眼动与手移动的协同（眼先到、手后到）")
+    print("  ❌ 未建模：误点后的纠错动作")
+    print("  ❌ 未建模：长按/拖拽/双击")
+    print("  ⚠️ 真浏览器受出口策略限制，多数数据站 403")
+    json.dump({k: bool(v) for k, v in ok.items()},
+              open(os.path.join(HERE, ".sense", "virtual_input.json"), "w"),
+              ensure_ascii=False, indent=1)

@@ -1,1 +1,305 @@
-IiIiRXhjZXB0aW9uIHR5cGVzIGZvciBtYXJrZG93bi12YXVsdC1tY3AuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIHR5cGluZyBpbXBvcnQgTGl0ZXJhbAoKIyBDb25maWd1cmF0aW9uRXJyb3IgaXMgb3duZWQgYnkgZmFzdG1jcC1wdmwtY29yZSDigJQgdGhlIHNoYXJlZCBiYXNlIGd1YXJhbnRlZWQKIyBhY3Jvc3MgdGhlIHdob2xlICotbWNwIHNlcnZlciBzZXJpZXMg4oCUIGFuZCByZS1leHBvcnRlZCBoZXJlIGFzIHRoZSBwcm9qZWN0J3MKIyBvbmUgY2Fub25pY2FsIGNvbmZpZyBlcnJvciAoIzYzOCkuIGVudl9pbnQvZW52X2Zsb2F0KHN0cmljdD0uLi4pIHJhaXNlIGl0LAojIGFuZCBjb25maWcgdmFsaWRhdGlvbiArIGdpdC1yZW1vdGUgY2hlY2tzIHJhaXNlIHRoZSBzYW1lIGNhdGNoYWJsZSB0eXBlLCBzbwojIGBtYXJrZG93bl92YXVsdF9tY3AuZXhjZXB0aW9ucy5Db25maWd1cmF0aW9uRXJyb3JgIGFuZCB0aGUgcHZsLWNvcmUgY2xhc3MgYXJlCiMgaWRlbnRpY2FsLgpmcm9tIGZhc3RtY3BfcHZsX2NvcmUgaW1wb3J0IENvbmZpZ3VyYXRpb25FcnJvciBhcyBDb25maWd1cmF0aW9uRXJyb3IKCgpjbGFzcyBNYXJrZG93bk1DUEVycm9yKEV4Y2VwdGlvbik6CiAgICAiIiJCYXNlIGV4Y2VwdGlvbiBmb3IgYWxsIG1hcmtkb3duLXZhdWx0LW1jcCBlcnJvcnMuIiIiCgoKY2xhc3MgSW52YWxpZFJlcXVlc3RFcnJvcihNYXJrZG93bk1DUEVycm9yLCBWYWx1ZUVycm9yKToKICAgICIiIlJhaXNlZCB3aGVuIHRoZSBjYWxsZXIncyByZXF1ZXN0IGNhbm5vdCBiZSBzZXJ2ZWQgYXMgc2VudC4KCiAgICBUaGUgY2FsbGVyIG11c3Qgc2VuZCBhIGRpZmZlcmVudCByZXF1ZXN0OiBhbiBhcmd1bWVudCBvdXQgb2YgcmFuZ2UsIGEKICAgIHBhdGggb3V0c2lkZSB0aGUgdmF1bHQsIGEgd3JvbmcgZmlsZSB0eXBlLCBhIGhlYWRpbmcgb3IgZG9jdW1lbnQgdGhhdCBkb2VzCiAgICBub3QgZXhpc3QuIEl0IGlzIGFsc28gYSBgYFZhbHVlRXJyb3JgYCwgc28gYW4gYGBleGNlcHQgVmFsdWVFcnJvcmBgIGhhbmRsZXIKICAgIHdyaXR0ZW4gYmVmb3JlIHRoaXMgdHlwZSBleGlzdGVkIHN0aWxsIGNhdGNoZXMgaXQgKCMxNjA4KS4KICAgICIiIgoKCkZJTkRfTk9URSA9ICJGaW5kIHRoZSBwYXRoIHdpdGggc2VhcmNoIG9yIGxpc3RfZG9jdW1lbnRzLiIKIiIiVGhlIG5leHQgc3RlcCBhIG5vdGUgcmVmdXNhbCBnaXZlcyB0aGUgbW9kZWwgKCMxNjM5KS4iIiIKCgpjbGFzcyBEb2N1bWVudE5vdEZvdW5kRXJyb3IoSW52YWxpZFJlcXVlc3RFcnJvcik6CiAgICAiIiJSYWlzZWQgd2hlbiB0aGUgcmVxdWVzdGVkIGRvY3VtZW50IHBhdGggZG9lcyBub3QgZXhpc3Qgb24gZGlzay4KCiAgICBBIGNhbGxlcidzIHJlcXVlc3QgbmFtaW5nIGEgZG9jdW1lbnQgdGhhdCBpcyBub3QgdGhlcmUsIHNvIGFuCiAgICA6Y2xhc3M6YEludmFsaWRSZXF1ZXN0RXJyb3JgLCBhbmQgdGhyb3VnaCBpdCBhIGBgVmFsdWVFcnJvcmBgICgjMTYwOCkuCiAgICBUaGUgY29uc3RydWN0b3JzIGJlbG93IGdpdmUgZWFjaCBraW5kIG9mIHRhcmdldCB0aGUgc2FtZSBtZXNzYWdlOiBhCiAgICBgYCI8S2luZD4gbm90IGZvdW5kOiAnPHBhdGg+JyJgYCBwcmVmaXggY2FsbGVycyBtYXRjaCBvbiwgdGhlbiB0aGUgdG9vbAogICAgdGhhdCBmaW5kcyB0aGUgcmlnaHQgcGF0aCAoIzE2MzkpLgogICAgIiIiCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgbm90ZShjbHMsIHBhdGg6IHN0cikgLT4gRG9jdW1lbnROb3RGb3VuZEVycm9yOgogICAgICAgICIiIkEgbm90ZSB0aGF0IGlzIG5vdCB0aGVyZS4iIiIKICAgICAgICByZXR1cm4gY2xzKGYiRG9jdW1lbnQgbm90IGZvdW5kOiB7cGF0aCFyfS4ge0ZJTkRfTk9URX0iKQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGF0dGFjaG1lbnQoY2xzLCBwYXRoOiBzdHIpIC0+IERvY3VtZW50Tm90Rm91bmRFcnJvcjoKICAgICAgICAiIiJBbiBhdHRhY2htZW50IHRoYXQgaXMgbm90IHRoZXJlLiIiIgogICAgICAgIHJldHVybiBjbHMoCiAgICAgICAgICAgIGYiQXR0YWNobWVudCBub3QgZm91bmQ6IHtwYXRoIXJ9LiBGaW5kIHRoZSBwYXRoIHdpdGggIgogICAgICAgICAgICAibGlzdF9kb2N1bWVudHMoaW5jbHVkZV9hdHRhY2htZW50cz1UcnVlKS4iCiAgICAgICAgKQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZvbGRlcihjbHMsIHBhdGg6IHN0cikgLT4gRG9jdW1lbnROb3RGb3VuZEVycm9yOgogICAgICAgICIiIkEgZm9sZGVyIHRoYXQgaXMgbm90IHRoZXJlLiIiIgogICAgICAgIHJldHVybiBjbHMoZiJGb2xkZXIgbm90IGZvdW5kOiB7cGF0aCFyfS4gRmluZCB0aGUgcGF0aCB3aXRoIGxpc3RfZm9sZGVycy4iKQoKCmNsYXNzIE5vdGVUb29MYXJnZUVycm9yKEludmFsaWRSZXF1ZXN0RXJyb3IpOgogICAgIiIiUmFpc2VkIHdoZW4gYGByZWFkKClgYCBvZiBhIHdob2xlIG5vdGUgaXMgb3ZlciB0aGUgc2VydmVyJ3MgcmVhZCBsaW1pdC4KCiAgICBBIHJlYWQgYXQgYSBnaXQgcmV2aXNpb24gYXBwbGllcyB0aGUgc2FtZSBjYXAgYnV0IHJhaXNlcyBhIHBsYWluCiAgICA6Y2xhc3M6YEludmFsaWRSZXF1ZXN0RXJyb3JgLgoKICAgIFRoZSBjYWxsZXIgY2FuIHJlYWQgdGhlIG5vdGUgb25lIHNlY3Rpb24gYXQgYSB0aW1lIGluc3RlYWQsIHNvIGl0IGlzIGFuCiAgICA6Y2xhc3M6YEludmFsaWRSZXF1ZXN0RXJyb3JgLiBJdHMgb3duIHR5cGUgbGV0cyBhIGNhbGxlciB0aGF0IHNraXBzIHN1Y2gKICAgIG5vdGVzLCBzdWNoIGFzIGBgc3VtbWFyaXplYGAsIHNheSB3aHkgKCMxNjM3KS4KICAgICIiIgoKCmNsYXNzIERvY3VtZW50VW5yZWFkYWJsZUVycm9yKE1hcmtkb3duTUNQRXJyb3IpOgogICAgIiIiUmFpc2VkIHdoZW4gYSBkb2N1bWVudCBleGlzdHMgYnV0IHRoZSBzZXJ2ZXIgY2Fubm90IHJlYWQgb3IgcGFyc2UgaXQuCgogICAgVGhlIGZpbGUgaXMgdGhlcmUsIHNvIHRoaXMgaXMgbm90ICJub3QgZm91bmQiOiB0aGUgYnl0ZXMgYXJlIG5vdCB2YWxpZAogICAgVVRGLTgsIHRoZSBmcm9udG1hdHRlciBibG9jayBkb2VzIG5vdCBwYXJzZSwgb3IgdGhlIGZpbGUgc3lzdGVtIHJlZnVzZWQgYQogICAgc3RhdCBvciBhIHJlYWQuIEEgcmV2aXNpb24gcmVhZCByYWlzZXMgaXQgdG9vLCB3aGVuIHRoZSBub3RlJ3MgY29udGVudCBhdAogICAgdGhhdCByZXZpc2lvbiBpcyBub3QgdmFsaWQgVVRGLTggb3IgaXMgYSBHaXQgTEZTIHBvaW50ZXIuIE5vdCBhCiAgICBgYFZhbHVlRXJyb3JgYC4gVGhlIGNhdXNlIGlzIGNoYWluZWQgYXMgYGBfX2NhdXNlX19gYCAoIzE2MDgpLgoKICAgIEF0dHJpYnV0ZXM6CiAgICAgICAgcGF0aDogVGhlIHZhdWx0LXJlbGF0aXZlIHBhdGggdGhhdCBjb3VsZCBub3QgYmUgcmVhZC4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwYXRoOiBzdHIsIHJlYXNvbjogc3RyKSAtPiBOb25lOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oZiJ7cGF0aH0gZXhpc3RzIGJ1dCBjYW5ub3QgYmUgcmVhZDoge3JlYXNvbn0iKQogICAgICAgIHNlbGYucGF0aCA9IHBhdGgKCgpjbGFzcyBSZWFkT25seUVycm9yKE1hcmtkb3duTUNQRXJyb3IpOgogICAgIiIiUmFpc2VkIHdoZW4gYSB3cml0ZSBvcGVyYXRpb24gaXMgYXR0ZW1wdGVkIG9uIGEgcmVhZC1vbmx5IHZhdWx0LiIiIgoKCmNsYXNzIEVkaXRDb25mbGljdEVycm9yKE1hcmtkb3duTUNQRXJyb3IpOgogICAgIiIiUmFpc2VkIHdoZW4gYGBvbGRfdGV4dGBgIGlzIG5vdCBmb3VuZCBvciBhcHBlYXJzIG1vcmUgdGhhbiBvbmNlIGluIGEgZG9jdW1lbnQuCgogICAgQXR0cmlidXRlczoKICAgICAgICBjbG9zZXN0X21hdGNoX2xpbmU6IDEtYmFzZWQgZmlsZSBsaW5lIHdoZXJlIGBgb2xkX3RleHRgYCBmaXJzdCBkaXZlcmdlcy4KICAgICAgICBmaXJzdF9kaWZmX2NoYXI6IENoYXJhY3RlciBvZmZzZXQgb2YgdGhlIGRpdmVyZ2VuY2Ugd2l0aGluIHRoYXQgbGluZS4KICAgICAgICBleHBlY3RlZF9zbmlwcGV0OiBUaGUgZGl2ZXJnZW50IGBgb2xkX3RleHRgYCBsaW5lICh0cnVuY2F0ZWQpLgogICAgICAgIGZvdW5kX3NuaXBwZXQ6IFRoZSBjb3JyZXNwb25kaW5nIGZpbGUgbGluZSAodHJ1bmNhdGVkLCBlbXB0eSBwYXN0IEVPRikuCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwKICAgICAgICBtZXNzYWdlOiBzdHIsCiAgICAgICAgKiwKICAgICAgICBjbG9zZXN0X21hdGNoX2xpbmU6IGludCB8IE5vbmUgPSBOb25lLAogICAgICAgIGZpcnN0X2RpZmZfY2hhcjogaW50IHwgTm9uZSA9IE5vbmUsCiAgICAgICAgZXhwZWN0ZWRfc25pcHBldDogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICAgICAgZm91bmRfc25pcHBldDogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICApIC0+IE5vbmU6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhtZXNzYWdlKQogICAgICAgIHNlbGYuY2xvc2VzdF9tYXRjaF9saW5lID0gY2xvc2VzdF9tYXRjaF9saW5lCiAgICAgICAgc2VsZi5maXJzdF9kaWZmX2NoYXIgPSBmaXJzdF9kaWZmX2NoYXIKICAgICAgICBzZWxmLmV4cGVjdGVkX3NuaXBwZXQgPSBleHBlY3RlZF9zbmlwcGV0CiAgICAgICAgc2VsZi5mb3VuZF9zbmlwcGV0ID0gZm91bmRfc25pcHBldAoKCmNsYXNzIEVtYmVkZGluZ3NOb3RDb25maWd1cmVkRXJyb3IoSW52YWxpZFJlcXVlc3RFcnJvcik6CiAgICAiIiJSYWlzZWQgd2hlbiBhbiBlbWJlZGRpbmdzIG9wZXJhdGlvbiBydW5zIHdpdGhvdXQgYSBwcm92aWRlciBjb25maWd1cmVkLgoKICAgIEVtYmVkZGluZ3MgYXJlIG9wdC1pbiBhbmQgb2ZmIGJ5IGRlZmF1bHQsIHNvIGEgdmF1bHQgd2l0aG91dCB0aGVtIGlzIGEKICAgIGNob2ljZSB0aGUgb3BlcmF0b3IgbWFkZSwgbm90IGEgYnJva2VuIGNvbmZpZ3VyYXRpb246IHRoZSBjYWxsZXIgbXVzdAogICAgY2hhbmdlIHRoZSByZXF1ZXN0IChrZXl3b3JkIHNlYXJjaCBpbnN0ZWFkIG9mIHNlbWFudGljKSwgaGVuY2UgYW4KICAgIDpjbGFzczpgSW52YWxpZFJlcXVlc3RFcnJvcmAgKCMxNjA4KS4KCiAgICBTdGlsbCBhIDpjbGFzczpgVmFsdWVFcnJvcmAgKHRocm91Z2ggOmNsYXNzOmBJbnZhbGlkUmVxdWVzdEVycm9yYCksIHNvCiAgICBjYWxsZXJzIHRoYXQgY2F0Y2ggYGBWYWx1ZUVycm9yYGAgKHRoZSBoaXN0b3JpY2FsICJlbWJlZGRpbmdzIG5vdAogICAgY29uZmlndXJlZCIgY29udHJhY3QpIHN0aWxsIGNhdGNoIGl0LCB3aGlsZSBjYWxsZXJzIHRoYXQgd2FudCAqb25seSogdGhpcwogICAgY2FzZSwgc3VjaCBhcyB0aGUgYGBpbmRleGBgL2BgcmVpbmRleGBgIENMSSBjb21tYW5kcywgY2FuIG5hcnJvdyB0byBpdCBhbmQKICAgIGxldCBnZW51aW5lIGludGVybmFsIGBgVmFsdWVFcnJvcmBgcyBmcm9tIGEgY29ycnVwdCB2ZWN0b3IgaW5kZXggc3VyZmFjZQogICAgKCM3NzQpLgogICAgIiIiCgoKY2xhc3MgU3VtbWFyaXplVGltZW91dEVycm9yKEludmFsaWRSZXF1ZXN0RXJyb3IsIFJ1bnRpbWVFcnJvcik6CiAgICAiIiJSYWlzZWQgd2hlbiBhIHN1bW1hcml6YXRpb24gcmVxdWVzdCBvdXRydW5zIGl0cyBwZXItcmVxdWVzdCBidWRnZXQuCgogICAgVGhlIGNhbGxlciBjYW4gZml0IHVuZGVyIHRoZSBidWRnZXQgYnkgYXNraW5nIGZvciBsZXNzIChmZXdlciBwYXRocywgYQogICAgc21hbGxlciBgYG1heF9ub3Rlc2BgLCBhIG5hcnJvd2VyIGBgZm9jdXNgYCwgYGBwZXJfbm90ZWBgIG1vZGUpLCBzbyBpdCBpcwogICAgYW4gOmNsYXNzOmBJbnZhbGlkUmVxdWVzdEVycm9yYC4gSXQgaXMgYWxzbyBhIGBgUnVudGltZUVycm9yYGAsIHRoZSB0eXBlCiAgICBzdW1tYXJpemF0aW9uIHJhaXNlZCBmb3IgYSB0aW1lb3V0IGJlZm9yZSAoIzkzNyksIHNvIGEgaGFuZGxlciB3cml0dGVuCiAgICBhZ2FpbnN0IHRoYXQgY29udHJhY3Qgc3RpbGwgY2F0Y2hlcyBpdCAoIzE2MDgpLgogICAgIiIiCgoKY2xhc3MgRG9jdW1lbnRFeGlzdHNFcnJvcihNYXJrZG93bk1DUEVycm9yKToKICAgICIiIlJhaXNlZCB3aGVuIHRoZSB0YXJnZXQgcGF0aCBhbHJlYWR5IGV4aXN0cyAoZS5nLiByZW5hbWUgZGVzdGluYXRpb24pLiIiIgoKCmNsYXNzIEZvbGRlck1vdmVJbnRlcnJ1cHRlZEVycm9yKE1hcmtkb3duTUNQRXJyb3IsIE9TRXJyb3IpOgogICAgIiIiUmFpc2VkIHdoZW4gYW4gT1MgZXJyb3Igc3RvcHMgYGBtb3ZlX2ZvbGRlcmBgIGFmdGVyIGZpbGVzIGJlZ2FuIG1vdmluZy4KCiAgICBUaGUgc3VidHJlZSBtYXkgYmUgcGFydGx5IG1vdmVkIGFuZCB0aGUgaW5kZXggc3RpbGwgbmFtZXMgdGhlIG9sZCBwYXRoczsKICAgIGEgcmVpbmRleCByZWNvbmNpbGVzIGl0LiBTdWJjbGFzc2VzIDpjbGFzczpgT1NFcnJvcmAsIHdoaWNoIHRoZSBtb3ZlIHBoYXNlCiAgICByYWlzZWQgYmVmb3JlIHRoaXMgdHlwZSBleGlzdGVkLCBzbyBleGlzdGluZyBoYW5kbGVycyBzdGlsbCBjYXRjaCBpdC4gVGhlCiAgICBvcmlnaW5hbCBlcnJvciBpcyB0aGUgYGBfX2NhdXNlX19gYC4KCiAgICBBdHRyaWJ1dGVzOgogICAgICAgIG9sZF9kaXI6IFRoZSBmb2xkZXIgYmVpbmcgbW92ZWQuCiAgICAgICAgbmV3X2RpcjogSXRzIGRlc3RpbmF0aW9uLgogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG9sZF9kaXI6IHN0ciwgbmV3X2Rpcjogc3RyKSAtPiBOb25lOgogICAgICAgIHNlbGYub2xkX2RpciA9IG9sZF9kaXIKICAgICAgICBzZWxmLm5ld19kaXIgPSBuZXdfZGlyCiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygKICAgICAgICAgICAgZiJtb3ZlX2ZvbGRlciB7b2xkX2RpciFyfSAtPiB7bmV3X2RpciFyfSBzdG9wcGVkIHBhcnQtd2F5IG9uIGFuIE9TIGVycm9yIgogICAgICAgICkKCgpjbGFzcyBDb25jdXJyZW50TW9kaWZpY2F0aW9uRXJyb3IoTWFya2Rvd25NQ1BFcnJvcik6CiAgICAiIiJSYWlzZWQgd2hlbiBhbiBgYGlmX21hdGNoYGAgZXRhZyBkb2VzIG5vdCBtYXRjaCB0aGUgY3VycmVudCBmaWxlIHN0YXRlLgoKICAgIEF0dHJpYnV0ZXM6CiAgICAgICAgcGF0aDogUmVsYXRpdmUgcGF0aCBvZiB0aGUgZG9jdW1lbnQgdGhhdCB3YXMgbW9kaWZpZWQgY29uY3VycmVudGx5LgogICAgICAgIGV4cGVjdGVkOiBUaGUgZXRhZyB2YWx1ZSB0aGUgY2FsbGVyIHByb3ZpZGVkLgogICAgICAgIGFjdHVhbDogVGhlIGV0YWcgdmFsdWUgZm91bmQgb24gZGlzay4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwYXRoOiBzdHIsIGV4cGVjdGVkOiBzdHIsIGFjdHVhbDogc3RyKSAtPiBOb25lOgogICAgICAgIHNlbGYucGF0aCA9IHBhdGgKICAgICAgICBzZWxmLmV4cGVjdGVkID0gZXhwZWN0ZWQKICAgICAgICBzZWxmLmFjdHVhbCA9IGFjdHVhbAogICAgICAgIHN1cGVyKCkuX19pbml0X18oCiAgICAgICAgICAgIGYiQ29uY3VycmVudCBtb2RpZmljYXRpb24gb24ge3BhdGh9OiAiCiAgICAgICAgICAgIGYiZXhwZWN0ZWQgZXRhZyB7ZXhwZWN0ZWQhcn0sIGFjdHVhbCB7YWN0dWFsIXJ9IgogICAgICAgICkKCgpJbmRleFVuYXZhaWxhYmxlUmVhc29uID0gTGl0ZXJhbFsKICAgICJuZXZlcl9idWlsdCIsICJidWlsZF9mYWlsZWQiLCAidGltZW91dCIsICJicm9rZW4iLCAiYnVzeSIKXQoiIiJEaXNjcmltaW5hdG9yIGZvciBJbmRleFVuYXZhaWxhYmxlRXJyb3IncyBjYXVzZS4KCi0gYGAibmV2ZXJfYnVpbHQiYGAg4oCUIG5vIGJ1aWxkIGhhcyBiZWVuIHNjaGVkdWxlZCAoY29sZCB2YXVsdCBvbiBhCiAgZnJlc2ggcHJvY2VzczsgYGBidWlsZF9pbmRleCgpYGAgLyBgYGJ1aWxkX2luZGV4X2FzeW5jKClgYCBuZXZlciBjYWxsZWQpLgotIGBgImJ1aWxkX2ZhaWxlZCJgYCDigJQgYSBidWlsZCB3YXMgc2NoZWR1bGVkLCByYW4sIGFuZCBmYWlsZWQ7IHRoZSBjYXB0dXJlZAogIGVycm9yIGlzIGF2YWlsYWJsZSB2aWEgYGBnZXRfaW5kZXhfc3RhdHVzKClgYCdzIGBgZXJyb3JgYCBmaWVsZCAoIzU4NikuCi0gYGAidGltZW91dCJgYCDigJQgY2FsbGVyIHdhaXRlZCB2aWEgYGB3YWl0X3VudGlsX3F1ZXJ5YWJsZSgpYGAgYW5kIHRoZQogIGJvdW5kZWQgdGltZW91dCBlbGFwc2VkIGJlZm9yZSB0aGUgYnVpbGQgZXZlbnQgd2FzIHNldC4KLSBgYCJicm9rZW4iYGAg4oCUIGEgU1FMaXRlIGBgT3BlcmF0aW9uYWxFcnJvcmBgIHN1cmZhY2VkIGZyb20gYQogIGJ1Y2tldC0zLzQgaGFuZGxlciBjYWxsIHdpdGggYW4gZXJyb3JuYW1lIE9VVFNJREUgdGhlIGJ1c3kgc2V0CiAgKGUuZy4sIGBgU1FMSVRFX0NPUlJVUFRgYCwgYGBTUUxJVEVfTk9UQURCYGAsIGBgU1FMSVRFX0NBTlRPUEVOYGAsCiAgYGBTUUxJVEVfU0NIRU1BYGAsIGBgU1FMSVRFX0lPRVJSYGAsIGBgU1FMSVRFX0ZVTExgYCwgZ2VuZXJpYwogIGBgU1FMSVRFX0VSUk9SYGApLiBUaGUgY2hhaW5lZCBgYF9fY2F1c2VfX2BgIGNhcnJpZXMgdGhlIG9yaWdpbmFsCiAgZXhjZXB0aW9uIHdpdGggZnVsbCB0cmFjZWJhY2suIE9wZXJhdG9yIGFjdGlvbjogaW5zcGVjdCB0aGUgY2F1c2UKICBhbmQgbGlrZWx5IHJlYnVpbGQgdGhlIGluZGV4IG9yIGZyZWUgZGlzayBzcGFjZSwgZGVwZW5kaW5nIG9uIHRoZQogIHVuZGVybHlpbmcgZXJyb3JuYW1lLgotIGBgImJ1c3kiYGAg4oCUIGEgU1FMaXRlIGBgT3BlcmF0aW9uYWxFcnJvcmBgIHdpdGggZXJyb3JuYW1lIGluCiAgYGB7U1FMSVRFX0JVU1ksIFNRTElURV9MT0NLRUR9YGAg4oCUIGxvY2sgY29udGVudGlvbiBmcm9tIGNvbmN1cnJlbnQKICBjb25uZWN0aW9ucy4gVGhlIGNoYWluZWQgYGBfX2NhdXNlX19gYCBjYXJyaWVzIHRoZSBvcmlnaW5hbAogIGV4Y2VwdGlvbi4gQSByZXRyeSBhZnRlciBhIHNob3J0IGJhY2tvZmYgbWF5IHN1Y2NlZWQuCiIiIgoKCmNsYXNzIEluZGV4VW5hdmFpbGFibGVFcnJvcihNYXJrZG93bk1DUEVycm9yKToKICAgICIiIlJhaXNlZCB3aGVuIHRoZSBGVFMgaW5kZXggaXMgbm90IGluIGEgc3RhdGUgdG8gc2VydmUgYSBxdWVyeS4KCiAgICBBdHRyaWJ1dGVzOgogICAgICAgIHJlYXNvbjogT25lIG9mIGBgIm5ldmVyX2J1aWx0ImBgLCBgYCJidWlsZF9mYWlsZWQiYGAsCiAgICAgICAgICAgIGBgInRpbWVvdXQiYGAsIGBgImJyb2tlbiJgYCwgYGAiYnVzeSJgYCDigJQgZGlzYW1iaWd1YXRlcyB3aGljaAogICAgICAgICAgICBvZiB0aGUgb3BlcmF0aW9uYWwgc2l0dWF0aW9ucyBiZWxvdyBmaXJlZC4gU2VlIHRoZQogICAgICAgICAgICA6ZGF0YTpgSW5kZXhVbmF2YWlsYWJsZVJlYXNvbmAgTGl0ZXJhbCBmb3IgZGVmaW5pdGlvbnMuCgogICAgQ292ZXJzIHRoZSBmb2xsb3dpbmcgb3BlcmF0aW9uYWwgc2l0dWF0aW9uczoKCiAgICAtICoqTmV2ZXIgYnVpbHQqKiAoYGByZWFzb249Im5ldmVyX2J1aWx0ImBgKS4gTm8gYnVpbGQgaGFzIGJlZW4KICAgICAgc2NoZWR1bGVkIOKAlCB0aGUgVmF1bHQgaGFzIG5ldmVyIGhhZCBgYGJ1aWxkX2luZGV4KClgYCAvCiAgICAgIGBgYnVpbGRfaW5kZXhfYXN5bmMoKWBgIGNhbGxlZCAoY29sZCB2YXVsdCBvbiBhIGZyZXNoIHByb2Nlc3MpLgogICAgLSAqKkJ1aWxkIGRpZCBub3QgY29tcGxldGUgc3VjY2Vzc2Z1bGx5KiogKGBgcmVhc29uPSJidWlsZF9mYWlsZWQiYGApLgogICAgICBBIHByZXZpb3VzIGJ1aWxkIHdhcyBzY2hlZHVsZWQsIHJhbiwgcmFpc2VkLCBhbmQgd2FzIG5vdCByZXRyaWVkCiAgICAgIChgYF9pbmRleF9idWlsdGBgIHJlbWFpbmVkIEZhbHNlOyB0aGUgY2FwdHVyZWQgZXJyb3IgaXMgYXZhaWxhYmxlCiAgICAgIHZpYSA6bWV0aDpgSW5kZXhGYWNldC5nZXRfaW5kZXhfc3RhdHVzYCdzIGBgZXJyb3JgYCBmaWVsZCkgKCM1ODYpLgogICAgLSAqKlRpbWVvdXQqKiAoYGByZWFzb249InRpbWVvdXQiYGApLiBBIGNhbGxlciB3YWl0ZWQgdmlhCiAgICAgIDptZXRoOmBJbmRleEZhY2V0LndhaXRfdW50aWxfcXVlcnlhYmxlYCBhbmQgdGhlIGJvdW5kZWQgdGltZW91dAogICAgICBlbGFwc2VkIGJlZm9yZSB0aGUgYmFja2dyb3VuZCBidWlsZCBzaWduYWxlZCBjb21wbGV0aW9uLgogICAgLSAqKlNRTGl0ZSBvcGVyYXRpb25hbCBlcnJvciDigJQgYnJva2VuKiogKGBgcmVhc29uPSJicm9rZW4iYGApLiBBCiAgICAgIGJ1Y2tldC0zLzQgTUNQIGhhbmRsZXIgY2FsbCByYWlzZWQgYGBzcWxpdGUzLk9wZXJhdGlvbmFsRXJyb3JgYAogICAgICB3aXRoIGFuIGVycm9ybmFtZSBvdXRzaWRlIHRoZSBidXN5IHdoaXRlbGlzdCAoZS5nLiwKICAgICAgYGBTUUxJVEVfQ09SUlVQVGBgLCBgYFNRTElURV9OT1RBREJgYCwgYGBTUUxJVEVfSU9FUlJgYCkuIFRoZQogICAgICBjaGFpbmVkIGBgX19jYXVzZV9fYGAgY2FycmllcyB0aGUgb3JpZ2luYWw7IG9wZXJhdG9ycyBzaG91bGQKICAgICAgaW5zcGVjdCBhbmQgbGlrZWx5IHJlYnVpbGQgdGhlIGluZGV4IGZyb20gc2NyYXRjaC4KICAgIC0gKipTUUxpdGUgb3BlcmF0aW9uYWwgZXJyb3Ig4oCUIGJ1c3kqKiAoYGByZWFzb249ImJ1c3kiYGApLiBBCiAgICAgIGJ1Y2tldC0zLzQgTUNQIGhhbmRsZXIgY2FsbCByYWlzZWQgYGBzcWxpdGUzLk9wZXJhdGlvbmFsRXJyb3JgYAogICAgICB3aXRoIGVycm9ybmFtZSBpbiBgYHtTUUxJVEVfQlVTWSwgU1FMSVRFX0xPQ0tFRH1gYCDigJQgbG9jawogICAgICBjb250ZW50aW9uIGZyb20gY29uY3VycmVudCBjb25uZWN0aW9ucy4gQSByZXRyeSBhZnRlciBhIHNob3J0CiAgICAgIGJhY2tvZmYgbWF5IHN1Y2NlZWQuCgogICAgQSBjYXB0dXJlZCBiYWNrZ3JvdW5kLWJ1aWxkIGVycm9yIGlzIE5PVCBhIHNlcGFyYXRlIGV4Y2VwdGlvbgogICAgY2xhc3M6IGl0IGlzIGRpYWdub3N0aWMgc3RhdGUgc3VyZmFjZWQgdmlhCiAgICA6bWV0aDpgSW5kZXhGYWNldC5nZXRfaW5kZXhfc3RhdHVzYCdzIGBgZXJyb3JgYCBmaWVsZC4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBtZXNzYWdlOiBzdHIsICosIHJlYXNvbjogSW5kZXhVbmF2YWlsYWJsZVJlYXNvbikgLT4gTm9uZToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKG1lc3NhZ2UpCiAgICAgICAgc2VsZi5yZWFzb246IEluZGV4VW5hdmFpbGFibGVSZWFzb24gPSByZWFzb24KCgpjbGFzcyBTdG9yZU9wZW5FcnJvcihNYXJrZG93bk1DUEVycm9yKToKICAgICIiIk9wZW5pbmcgYSBzdG9yZSBmYWlsZWQgaW4gYSB3YXkgaXRzIGJhY2tlbmQgY291bGQgY2xhc3NpZnkgKCMxNzY2KS4KCiAgICBPbmUgc3ViY2xhc3MgcGVyIG91dGNvbWUuIE5vbmUgb2YgdGhlbSBtZWFucyAiZW1wdHkgc3RvcmUiOiBhIGNhbGxlcgogICAgdGhhdCBjYW5ub3Qgb3BlbiBpdHMgc3RvcmUgbmV2ZXIgY29sZC1idWlsZHMgb3ZlciBpdC4gT25seQogICAgOmNsYXNzOmBTdG9yZUNvcnJ1cHRFcnJvcmAgbWF5IGxlYWQgdG8gYSBzZWxmLWhlYWwsIGFuZCBvbmx5IHdoZW4gdGhlCiAgICB2YXVsdCBvd25zIHRoZSBmaWxlcy4KCiAgICBBdHRyaWJ1dGVzOgogICAgICAgIGJhY2tlbmQ6IFRoZSByZWdpc3RyeSBuYW1lIG9mIHRoZSBiYWNrZW5kIHRoYXQgcmVmdXNlZC4KICAgICAgICBsb2NhdGlvbjogVGhlIGxvY2F0aW9uIGl0IHdhcyBhc2tlZCB0byBvcGVuLCBhcyBnaXZlbi4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBtZXNzYWdlOiBzdHIsICosIGJhY2tlbmQ6IHN0ciwgbG9jYXRpb246IHN0cikgLT4gTm9uZToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKG1lc3NhZ2UpCiAgICAgICAgc2VsZi5iYWNrZW5kID0gYmFja2VuZAogICAgICAgIHNlbGYubG9jYXRpb24gPSBsb2NhdGlvbgoKCmNsYXNzIFN0b3JlTm90Q29uZmlndXJlZEVycm9yKFN0b3JlT3BlbkVycm9yKToKICAgICIiIlRoZSBiYWNrZW5kIG5lZWRzIGEgbG9jYXRpb24gb3Igc2VydmljZSB0aGF0IGlzIG5vdCBjb25maWd1cmVkLiIiIgoKCmNsYXNzIFN0b3JlVW5hdmFpbGFibGVFcnJvcihTdG9yZU9wZW5FcnJvcik6CiAgICAiIiJUaGUgc3RvcmUgZXhpc3RzLCBvciBtYXksIGJ1dCBjYW5ub3QgYmUgcmVhY2hlZCBub3cuCgogICAgQSBzZXJ2aWNlIHRoYXQgaXMgZG93biwgYSB2b2x1bWUgdGhhdCBpcyBub3QgbW91bnRlZCwgYSBwYXJlbnQgdGhhdCBpcwogICAgbm90IGEgZGlyZWN0b3J5LCBhIHBlcm1pc3Npb24gdGhhdCBpcyByZWZ1c2VkLiBQb3NzaWJseSB0cmFuc2llbnQ7IG5ldmVyCiAgICBhIHJlYXNvbiB0byByZWJ1aWxkLgogICAgIiIiCgoKY2xhc3MgU3RvcmVJbmNvbXBhdGlibGVFcnJvcihTdG9yZU9wZW5FcnJvcik6CiAgICAiIiJUaGUgc3RvcmUgaG9sZHMgZGF0YSBmb3IgYSBkaWZmZXJlbnQgaWRlbnRpdHkgdGhhbiB0aGUgb25lIGFza2VkIGZvci4iIiIKCgpjbGFzcyBTdG9yZVVuc3VwcG9ydGVkU2NoZW1hRXJyb3IoU3RvcmVPcGVuRXJyb3IpOgogICAgIiIiVGhlIHN0b3JlJ3MgbGF5b3V0IGlzIG5ld2VyIHRoYW4sIG9yIHVua25vd24gdG8sIHRoaXMgdmVyc2lvbi4iIiIKCgpjbGFzcyBTdG9yZUNvcnJ1cHRFcnJvcihTdG9yZU9wZW5FcnJvcik6CiAgICAiIiJUaGUgc3RvcmUncyBieXRlcyBhcmUgbm90IGEgc3RvcmUgb2YgdGhpcyBiYWNrZW5kJ3Mga2luZC4iIiIK
+"""Exception types for markdown-vault-mcp."""
+
+from __future__ import annotations
+
+from typing import Literal
+
+# ConfigurationError is owned by fastmcp-pvl-core — the shared base guaranteed
+# across the whole *-mcp server series — and re-exported here as the project's
+# one canonical config error (#638). env_int/env_float(strict=...) raise it,
+# and config validation + git-remote checks raise the same catchable type, so
+# `markdown_vault_mcp.exceptions.ConfigurationError` and the pvl-core class are
+# identical.
+from fastmcp_pvl_core import ConfigurationError as ConfigurationError
+
+
+class MarkdownMCPError(Exception):
+    """Base exception for all markdown-vault-mcp errors."""
+
+
+class InvalidRequestError(MarkdownMCPError, ValueError):
+    """Raised when the caller's request cannot be served as sent.
+
+    The caller must send a different request: an argument out of range, a
+    path outside the vault, a wrong file type, a heading or document that does
+    not exist. It is also a ``ValueError``, so an ``except ValueError`` handler
+    written before this type existed still catches it (#1608).
+    """
+
+
+FIND_NOTE = "Find the path with search or list_documents."
+"""The next step a note refusal gives the model (#1639)."""
+
+
+class DocumentNotFoundError(InvalidRequestError):
+    """Raised when the requested document path does not exist on disk.
+
+    A caller's request naming a document that is not there, so an
+    :class:`InvalidRequestError`, and through it a ``ValueError`` (#1608).
+    The constructors below give each kind of target the same message: a
+    ``"<Kind> not found: '<path>'"`` prefix callers match on, then the tool
+    that finds the right path (#1639).
+    """
+
+    @classmethod
+    def note(cls, path: str) -> DocumentNotFoundError:
+        """A note that is not there."""
+        return cls(f"Document not found: {path!r}. {FIND_NOTE}")
+
+    @classmethod
+    def attachment(cls, path: str) -> DocumentNotFoundError:
+        """An attachment that is not there."""
+        return cls(
+            f"Attachment not found: {path!r}. Find the path with "
+            "list_documents(include_attachments=True)."
+        )
+
+    @classmethod
+    def folder(cls, path: str) -> DocumentNotFoundError:
+        """A folder that is not there."""
+        return cls(f"Folder not found: {path!r}. Find the path with list_folders.")
+
+
+class NoteTooLargeError(InvalidRequestError):
+    """Raised when ``read()`` of a whole note is over the server's read limit.
+
+    A read at a git revision applies the same cap but raises a plain
+    :class:`InvalidRequestError`.
+
+    The caller can read the note one section at a time instead, so it is an
+    :class:`InvalidRequestError`. Its own type lets a caller that skips such
+    notes, such as ``summarize``, say why (#1637).
+    """
+
+
+class DocumentUnreadableError(MarkdownMCPError):
+    """Raised when a document exists but the server cannot read or parse it.
+
+    The file is there, so this is not "not found": the bytes are not valid
+    UTF-8, the frontmatter block does not parse, or the file system refused a
+    stat or a read. A revision read raises it too, when the note's content at
+    that revision is not valid UTF-8 or is a Git LFS pointer. Not a
+    ``ValueError``. The cause is chained as ``__cause__`` (#1608).
+
+    Attributes:
+        path: The vault-relative path that could not be read.
+    """
+
+    def __init__(self, path: str, reason: str) -> None:
+        super().__init__(f"{path} exists but cannot be read: {reason}")
+        self.path = path
+
+
+class ReadOnlyError(MarkdownMCPError):
+    """Raised when a write operation is attempted on a read-only vault."""
+
+
+class EditConflictError(MarkdownMCPError):
+    """Raised when ``old_text`` is not found or appears more than once in a document.
+
+    Attributes:
+        closest_match_line: 1-based file line where ``old_text`` first diverges.
+        first_diff_char: Character offset of the divergence within that line.
+        expected_snippet: The divergent ``old_text`` line (truncated).
+        found_snippet: The corresponding file line (truncated, empty past EOF).
+    """
+
+    def __init__(
+        self,
+        message: str,
+        *,
+        closest_match_line: int | None = None,
+        first_diff_char: int | None = None,
+        expected_snippet: str | None = None,
+        found_snippet: str | None = None,
+    ) -> None:
+        super().__init__(message)
+        self.closest_match_line = closest_match_line
+        self.first_diff_char = first_diff_char
+        self.expected_snippet = expected_snippet
+        self.found_snippet = found_snippet
+
+
+class EmbeddingsNotConfiguredError(InvalidRequestError):
+    """Raised when an embeddings operation runs without a provider configured.
+
+    Embeddings are opt-in and off by default, so a vault without them is a
+    choice the operator made, not a broken configuration: the caller must
+    change the request (keyword search instead of semantic), hence an
+    :class:`InvalidRequestError` (#1608).
+
+    Still a :class:`ValueError` (through :class:`InvalidRequestError`), so
+    callers that catch ``ValueError`` (the historical "embeddings not
+    configured" contract) still catch it, while callers that want *only* this
+    case, such as the ``index``/``reindex`` CLI commands, can narrow to it and
+    let genuine internal ``ValueError``s from a corrupt vector index surface
+    (#774).
+    """
+
+
+class SummarizeTimeoutError(InvalidRequestError, RuntimeError):
+    """Raised when a summarization request outruns its per-request budget.
+
+    The caller can fit under the budget by asking for less (fewer paths, a
+    smaller ``max_notes``, a narrower ``focus``, ``per_note`` mode), so it is
+    an :class:`InvalidRequestError`. It is also a ``RuntimeError``, the type
+    summarization raised for a timeout before (#937), so a handler written
+    against that contract still catches it (#1608).
+    """
+
+
+class DocumentExistsError(MarkdownMCPError):
+    """Raised when the target path already exists (e.g. rename destination)."""
+
+
+class FolderMoveInterruptedError(MarkdownMCPError, OSError):
+    """Raised when an OS error stops ``move_folder`` after files began moving.
+
+    The subtree may be partly moved and the index still names the old paths;
+    a reindex reconciles it. Subclasses :class:`OSError`, which the move phase
+    raised before this type existed, so existing handlers still catch it. The
+    original error is the ``__cause__``.
+
+    Attributes:
+        old_dir: The folder being moved.
+        new_dir: Its destination.
+    """
+
+    def __init__(self, old_dir: str, new_dir: str) -> None:
+        self.old_dir = old_dir
+        self.new_dir = new_dir
+        super().__init__(
+            f"move_folder {old_dir!r} -> {new_dir!r} stopped part-way on an OS error"
+        )
+
+
+class ConcurrentModificationError(MarkdownMCPError):
+    """Raised when an ``if_match`` etag does not match the current file state.
+
+    Attributes:
+        path: Relative path of the document that was modified concurrently.
+        expected: The etag value the caller provided.
+        actual: The etag value found on disk.
+    """
+
+    def __init__(self, path: str, expected: str, actual: str) -> None:
+        self.path = path
+        self.expected = expected
+        self.actual = actual
+        super().__init__(
+            f"Concurrent modification on {path}: "
+            f"expected etag {expected!r}, actual {actual!r}"
+        )
+
+
+IndexUnavailableReason = Literal[
+    "never_built", "build_failed", "timeout", "broken", "busy"
+]
+"""Discriminator for IndexUnavailableError's cause.
+
+- ``"never_built"`` — no build has been scheduled (cold vault on a
+  fresh process; ``build_index()`` / ``build_index_async()`` never called).
+- ``"build_failed"`` — a build was scheduled, ran, and failed; the captured
+  error is available via ``get_index_status()``'s ``error`` field (#586).
+- ``"timeout"`` — caller waited via ``wait_until_queryable()`` and the
+  bounded timeout elapsed before the build event was set.
+- ``"broken"`` — a SQLite ``OperationalError`` surfaced from a
+  bucket-3/4 handler call with an errorname OUTSIDE the busy set
+  (e.g., ``SQLITE_CORRUPT``, ``SQLITE_NOTADB``, ``SQLITE_CANTOPEN``,
+  ``SQLITE_SCHEMA``, ``SQLITE_IOERR``, ``SQLITE_FULL``, generic
+  ``SQLITE_ERROR``). The chained ``__cause__`` carries the original
+  exception with full traceback. Operator action: inspect the cause
+  and likely rebuild the index or free disk space, depending on the
+  underlying errorname.
+- ``"busy"`` — a SQLite ``OperationalError`` with errorname in
+  ``{SQLITE_BUSY, SQLITE_LOCKED}`` — lock contention from concurrent
+  connections. The chained ``__cause__`` carries the original
+  exception. A retry after a short backoff may succeed.
+"""
+
+
+class IndexUnavailableError(MarkdownMCPError):
+    """Raised when the FTS index is not in a state to serve a query.
+
+    Attributes:
+        reason: One of ``"never_built"``, ``"build_failed"``,
+            ``"timeout"``, ``"broken"``, ``"busy"`` — disambiguates which
+            of the operational situations below fired. See the
+            :data:`IndexUnavailableReason` Literal for definitions.
+
+    Covers the following operational situations:
+
+    - **Never built** (``reason="never_built"``). No build has been
+      scheduled — the Vault has never had ``build_index()`` /
+      ``build_index_async()`` called (cold vault on a fresh process).
+    - **Build did not complete successfully** (``reason="build_failed"``).
+      A previous build was scheduled, ran, raised, and was not retried
+      (``_index_built`` remained False; the captured error is available
+      via :meth:`IndexFacet.get_index_status`'s ``error`` field) (#586).
+    - **Timeout** (``reason="timeout"``). A caller waited via
+      :meth:`IndexFacet.wait_until_queryable` and the bounded timeout
+      elapsed before the background build signaled completion.
+    - **SQLite operational error — broken** (``reason="broken"``). A
+      bucket-3/4 MCP handler call raised ``sqlite3.OperationalError``
+      with an errorname outside the busy whitelist (e.g.,
+      ``SQLITE_CORRUPT``, ``SQLITE_NOTADB``, ``SQLITE_IOERR``). The
+      chained ``__cause__`` carries the original; operators should
+      inspect and likely rebuild the index from scratch.
+    - **SQLite operational error — busy** (``reason="busy"``). A
+      bucket-3/4 MCP handler call raised ``sqlite3.OperationalError``
+      with errorname in ``{SQLITE_BUSY, SQLITE_LOCKED}`` — lock
+      contention from concurrent connections. A retry after a short
+      backoff may succeed.
+
+    A captured background-build error is NOT a separate exception
+    class: it is diagnostic state surfaced via
+    :meth:`IndexFacet.get_index_status`'s ``error`` field.
+    """
+
+    def __init__(self, message: str, *, reason: IndexUnavailableReason) -> None:
+        super().__init__(message)
+        self.reason: IndexUnavailableReason = reason
+
+
+class StoreOpenError(MarkdownMCPError):
+    """Opening a store failed in a way its backend could classify (#1766).
+
+    One subclass per outcome. None of them means "empty store": a caller
+    that cannot open its store never cold-builds over it. Only
+    :class:`StoreCorruptError` may lead to a self-heal, and only when the
+    vault owns the files.
+
+    Attributes:
+        backend: The registry name of the backend that refused.
+        location: The location it was asked to open, as given.
+    """
+
+    def __init__(self, message: str, *, backend: str, location: str) -> None:
+        super().__init__(message)
+        self.backend = backend
+        self.location = location
+
+
+class StoreNotConfiguredError(StoreOpenError):
+    """The backend needs a location or service that is not configured."""
+
+
+class StoreUnavailableError(StoreOpenError):
+    """The store exists, or may, but cannot be reached now.
+
+    A service that is down, a volume that is not mounted, a parent that is
+    not a directory, a permission that is refused. Possibly transient; never
+    a reason to rebuild.
+    """
+
+
+class StoreIncompatibleError(StoreOpenError):
+    """The store holds data for a different identity than the one asked for."""
+
+
+class StoreUnsupportedSchemaError(StoreOpenError):
+    """The store's layout is newer than, or unknown to, this version."""
+
+
+class StoreCorruptError(StoreOpenError):
+    """The store's bytes are not a store of this backend's kind."""

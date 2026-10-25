@@ -1,1 +1,148 @@
-ewogIm1vZGVfY3JpdGlxdWUiOiB7CiAgIuWjq+awlCI6IDAuMTA2LAogICLmraPnoa7njociOiAwLjc1NSwKICAi5Lqn5Ye6IjogMjkuNCwKICAi6YCa6IOAIjogMC4wCiB9LAogIm1vZGVfcmV3YXJkIjogewogICLlo6vmsJQiOiAwLjQsCiAgIuato+ehrueOhyI6IDAuMCwKICAi5Lqn5Ye6IjogMi45LAogICLpgJrog4AiOiAwLjAKIH0sCiAibW9kZV9waGFzZWQiOiB7CiAgIuWjq+awlCI6IDAuMTExLAogICLmraPnoa7njociOiAwLjc1NSwKICAi5Lqn5Ye6IjogMzQuOCwKICAi6YCa6IOAIjogMC4wCiB9LAogIm09MC4wMCI6IHsKICAi5Lqn5Ye6IjogNDEuOCwKICAi5aOr5rCUIjogMC4xMTMsCiAgIuato+ehrueOhyI6IDAuNzUzCiB9LAogIm09MC4yNSI6IHsKICAi5Lqn5Ye6IjogNDAuNywKICAi5aOr5rCUIjogMC4xMTMsCiAgIuato+ehrueOhyI6IDAuNzU0CiB9LAogIm09MC41MCI6IHsKICAi5Lqn5Ye6IjogMzkuMSwKICAi5aOr5rCUIjogMC4xMTMsCiAgIuato+ehrueOhyI6IDAuNzU0CiB9LAogIm09MC43NSI6IHsKICAi5Lqn5Ye6IjogMzcuMiwKICAi5aOr5rCUIjogMC4xMTMsCiAgIuato+ehrueOhyI6IDAuNzU1CiB9LAogIm09MC45MCI6IHsKICAi5Lqn5Ye6IjogMzUuOCwKICAi5aOr5rCUIjogMC4xMTIsCiAgIuato+ehrueOhyI6IDAuNzU1CiB9LAogIm09MS4wMCI6IHsKICAi5Lqn5Ye6IjogMzQuOCwKICAi5aOr5rCUIjogMC4xMTEsCiAgIuato+ehrueOhyI6IDAuNzU1CiB9LAogInNlbGY9MC4wMCI6IHsKICAi5Lqn5Ye6IjogMzQuOCwKICAi5aOr5rCUIjogMC4xMTEsCiAgIumAmuiDgCI6IDAuMAogfSwKICJzZWxmPTAuMjUiOiB7CiAgIuS6p+WHuiI6IDM1LjEsCiAgIuWjq+awlCI6IDAuMTEyLAogICLpgJrog4AiOiAwLjQKIH0sCiAic2VsZj0wLjUwIjogewogICLkuqflh7oiOiAzNi4yLAogICLlo6vmsJQiOiAwLjExMywKICAi6YCa6IOAIjogMC44CiB9LAogInNlbGY9MC43NSI6IHsKICAi5Lqn5Ye6IjogMzguMCwKICAi5aOr5rCUIjogMC4xMTcsCiAgIumAmuiDgCI6IDEuMgogfSwKICJzZWxmPTEuMDAiOiB7CiAgIuS6p+WHuiI6IDQxLjAsCiAgIuWjq+awlCI6IDAuMTIyLAogICLpgJrog4AiOiAxLjYKIH0sCiAiRT0xIjogewogICLkuqflh7oiOiAyOTQuNwogfSwKICJFPTUiOiB7CiAgIuS6p+WHuiI6IDI1MS4yCiB9LAogIkU9MTAiOiB7CiAgIuS6p+WHuiI6IDE1Ni43CiB9LAogIkU9MjUiOiB7CiAgIuS6p+WHuiI6IDQzLjYKIH0sCiAiRT01MCI6IHsKICAi5Lqn5Ye6IjogMzQuOAogfSwKICJFPTEwMCI6IHsKICAi5Lqn5Ye6IjogMzEuNQogfSwKICJFPTIwMCI6IHsKICAi5Lqn5Ye6IjogMzAuMAogfSwKICJFPTQwMCI6IHsKICAi5Lqn5Ye6IjogMjkuNAogfSwKICJsb3NzX2M9MC4wMCI6IHsKICAi5Lqn5Ye6IjogMTQwLjEsCiAgIuWjq+awlCI6IDAuNDE5CiB9LAogImxvc3NfYz0wLjAyIjogewogICLkuqflh7oiOiAxMDUuMCwKICAi5aOr5rCUIjogMC4zMTcKIH0sCiAibG9zc19jPTAuMDYiOiB7CiAgIuS6p+WHuiI6IDM0LjgsCiAgIuWjq+awlCI6IDAuMTExCiB9LAogImxvc3NfYz0wLjEyIjogewogICLkuqflh7oiOiAwLjQsCiAgIuWjq+awlCI6IDAuMAogfSwKICJsb3NzX2M9MC4yNSI6IHsKICAi5Lqn5Ye6IjogMC4xLAogICLlo6vmsJQiOiAwLjAKIH0sCiAibG9zc19jPTAuNTAiOiB7CiAgIuS6p+WHuiI6IDAuMCwKICAi5aOr5rCUIjogMC4wCiB9LAogImRyaWZ0PTAuMDAwIjogewogICJjcml0aXF1ZSI6IDExMi44LAogICJyZXdhcmQiOiA1MS4yLAogICJwaGFzZWQiOiAxMzkuMAogfSwKICJkcmlmdD0wLjAwMiI6IHsKICAiY3JpdGlxdWUiOiA2OS4xLAogICJyZXdhcmQiOiA5LjIsCiAgInBoYXNlZCI6IDgzLjUKIH0sCiAiZHJpZnQ9MC4wMDYiOiB7CiAgImNyaXRpcXVlIjogMjkuNCwKICAicmV3YXJkIjogMi45LAogICJwaGFzZWQiOiAzNC44CiB9LAogImRyaWZ0PTAuMDEyIjogewogICJjcml0aXF1ZSI6IDEuMywKICAicmV3YXJkIjogMS40LAogICJwaGFzZWQiOiAxLjQKIH0sCiAiZHJpZnQ9MC4wMzAiOiB7CiAgImNyaXRpcXVlIjogMC45LAogICJyZXdhcmQiOiAwLjUsCiAgInBoYXNlZCI6IDAuOQogfQp9
+{
+ "mode_critique": {
+  "士气": 0.106,
+  "正确率": 0.755,
+  "产出": 29.4,
+  "通胀": 0.0
+ },
+ "mode_reward": {
+  "士气": 0.4,
+  "正确率": 0.0,
+  "产出": 2.9,
+  "通胀": 0.0
+ },
+ "mode_phased": {
+  "士气": 0.111,
+  "正确率": 0.755,
+  "产出": 34.8,
+  "通胀": 0.0
+ },
+ "m=0.00": {
+  "产出": 41.8,
+  "士气": 0.113,
+  "正确率": 0.753
+ },
+ "m=0.25": {
+  "产出": 40.7,
+  "士气": 0.113,
+  "正确率": 0.754
+ },
+ "m=0.50": {
+  "产出": 39.1,
+  "士气": 0.113,
+  "正确率": 0.754
+ },
+ "m=0.75": {
+  "产出": 37.2,
+  "士气": 0.113,
+  "正确率": 0.755
+ },
+ "m=0.90": {
+  "产出": 35.8,
+  "士气": 0.112,
+  "正确率": 0.755
+ },
+ "m=1.00": {
+  "产出": 34.8,
+  "士气": 0.111,
+  "正确率": 0.755
+ },
+ "self=0.00": {
+  "产出": 34.8,
+  "士气": 0.111,
+  "通胀": 0.0
+ },
+ "self=0.25": {
+  "产出": 35.1,
+  "士气": 0.112,
+  "通胀": 0.4
+ },
+ "self=0.50": {
+  "产出": 36.2,
+  "士气": 0.113,
+  "通胀": 0.8
+ },
+ "self=0.75": {
+  "产出": 38.0,
+  "士气": 0.117,
+  "通胀": 1.2
+ },
+ "self=1.00": {
+  "产出": 41.0,
+  "士气": 0.122,
+  "通胀": 1.6
+ },
+ "E=1": {
+  "产出": 294.7
+ },
+ "E=5": {
+  "产出": 251.2
+ },
+ "E=10": {
+  "产出": 156.7
+ },
+ "E=25": {
+  "产出": 43.6
+ },
+ "E=50": {
+  "产出": 34.8
+ },
+ "E=100": {
+  "产出": 31.5
+ },
+ "E=200": {
+  "产出": 30.0
+ },
+ "E=400": {
+  "产出": 29.4
+ },
+ "loss_c=0.00": {
+  "产出": 140.1,
+  "士气": 0.419
+ },
+ "loss_c=0.02": {
+  "产出": 105.0,
+  "士气": 0.317
+ },
+ "loss_c=0.06": {
+  "产出": 34.8,
+  "士气": 0.111
+ },
+ "loss_c=0.12": {
+  "产出": 0.4,
+  "士气": 0.0
+ },
+ "loss_c=0.25": {
+  "产出": 0.1,
+  "士气": 0.0
+ },
+ "loss_c=0.50": {
+  "产出": 0.0,
+  "士气": 0.0
+ },
+ "drift=0.000": {
+  "critique": 112.8,
+  "reward": 51.2,
+  "phased": 139.0
+ },
+ "drift=0.002": {
+  "critique": 69.1,
+  "reward": 9.2,
+  "phased": 83.5
+ },
+ "drift=0.006": {
+  "critique": 29.4,
+  "reward": 2.9,
+  "phased": 34.8
+ },
+ "drift=0.012": {
+  "critique": 1.3,
+  "reward": 1.4,
+  "phased": 1.4
+ },
+ "drift=0.030": {
+  "critique": 0.9,
+  "reward": 0.5,
+  "phased": 0.9
+ }
+}

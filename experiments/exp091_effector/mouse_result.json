@@ -1,1 +1,41 @@
-ewogIm5vZGUiOiAiL2Rldi9pbnB1dC9ldmVudDEiLAogInhzIjogWwogIDEyLAogIDcsCiAgLTksCiAgMjUsCiAgLTMKIF0sCiAieXMiOiBbCiAgLTUsCiAgMywKICAtMTQsCiAgMTgKIF0sCiAiZXhwX3giOiBbCiAgMTIsCiAgNywKICAtOSwKICAyNSwKICAtMwogXSwKICJleHBfeSI6IFsKICAtNSwKICAzLAogIC0xNCwKICAwLAogIDE4CiBdLAogIm1hdGNoIjogZmFsc2UsCiAiYnRuIjogWwogIFsKICAgMjcyLAogICAxCiAgXSwKICBbCiAgIDI3MiwKICAgMAogIF0KIF0KfQ==
+{
+ "node": "/dev/input/event1",
+ "xs": [
+  12,
+  7,
+  -9,
+  25,
+  -3
+ ],
+ "ys": [
+  -5,
+  3,
+  -14,
+  18
+ ],
+ "exp_x": [
+  12,
+  7,
+  -9,
+  25,
+  -3
+ ],
+ "exp_y": [
+  -5,
+  3,
+  -14,
+  0,
+  18
+ ],
+ "match": false,
+ "btn": [
+  [
+   272,
+   1
+  ],
+  [
+   272,
+   0
+  ]
+ ]
+}

@@ -1,1 +1,309 @@
-IiIiQ0lTIEdDUCA2Lng6IENsb3VkIFNRTCBpbnN0YW5jZSBjb25maWd1cmF0aW9uLiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGxvZ2dpbmcKCmZyb20gYWdlbnRfYm9tLmNsb3VkLmF3c19jaXNfYmVuY2htYXJrIGltcG9ydCBDaGVja1N0YXR1cywgQ0lTQ2hlY2tSZXN1bHQKZnJvbSBhZ2VudF9ib20uY2xvdWQubm9ybWFsaXphdGlvbiBpbXBvcnQgc2FuaXRpemVfZGlzY292ZXJ5X3dhcm5pbmcKCmZyb20gLl9iYXNlIGltcG9ydCAoCiAgICBfU1FMX1NFQ1RJT04sCiAgICBfZ2NwX2Nsb3VkX3NxbF9pbnN0YW5jZXMsCikKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCJhZ2VudF9ib20uY2xvdWQuZ2NwX2Npc19iZW5jaG1hcmsiKQoKCmRlZiBfY2hlY2tfNl8xKHByb2plY3RfaWQ6IHN0cikgLT4gQ0lTQ2hlY2tSZXN1bHQ6CiAgICAiIiJDSVMgNi4xIOKAlCBFbnN1cmUgQ2xvdWQgU1FMIGRhdGFiYXNlIGluc3RhbmNlcyByZXF1aXJlIGFsbCBpbmNvbWluZyBjb25uZWN0aW9ucyB0byB1c2UgU1NMLiIiIgogICAgcmVzdWx0ID0gQ0lTQ2hlY2tSZXN1bHQoCiAgICAgICAgY2hlY2tfaWQ9IjYuMSIsCiAgICAgICAgdGl0bGU9IkNsb3VkIFNRTCByZXF1aXJlcyBTU0wgZm9yIGFsbCBjb25uZWN0aW9ucyIsCiAgICAgICAgc3RhdHVzPUNoZWNrU3RhdHVzLkVSUk9SLAogICAgICAgIHNldmVyaXR5PSJoaWdoIiwKICAgICAgICByZWNvbW1lbmRhdGlvbj0iRW5hYmxlICdSZXF1aXJlIFNTTCcgKHJlcXVpcmVTc2wpIG9uIGFsbCBDbG91ZCBTUUwgaW5zdGFuY2VzIHRvIGVuY3J5cHQgY29ubmVjdGlvbnMgaW4gdHJhbnNpdC4iLAogICAgICAgIGNpc19zZWN0aW9uPV9TUUxfU0VDVElPTiwKICAgICkKICAgIHRyeToKICAgICAgICBpbnN0YW5jZXMgPSBfZ2NwX2Nsb3VkX3NxbF9pbnN0YW5jZXMocHJvamVjdF9pZCkKCiAgICAgICAgZmFpbGluZzogbGlzdFtzdHJdID0gW10KICAgICAgICBmb3IgaW5zdCBpbiBpbnN0YW5jZXM6CiAgICAgICAgICAgIG5hbWUgPSBpbnN0LmdldCgibmFtZSIsICJ1bmtub3duIikKICAgICAgICAgICAgc2V0dGluZ3MgPSBpbnN0LmdldCgic2V0dGluZ3MiLCB7fSkKICAgICAgICAgICAgaXBfY29uZmlnID0gc2V0dGluZ3MuZ2V0KCJpcENvbmZpZ3VyYXRpb24iLCB7fSkKICAgICAgICAgICAgcmVxdWlyZV9zc2wgPSBpcF9jb25maWcuZ2V0KCJyZXF1aXJlU3NsIiwgRmFsc2UpCiAgICAgICAgICAgIGlmIG5vdCByZXF1aXJlX3NzbDoKICAgICAgICAgICAgICAgIGZhaWxpbmcuYXBwZW5kKG5hbWUpCgogICAgICAgIGlmIGZhaWxpbmc6CiAgICAgICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5GQUlMCiAgICAgICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9IGYiQ2xvdWQgU1FMIGluc3RhbmNlcyBub3QgcmVxdWlyaW5nIFNTTCAoe2xlbihmYWlsaW5nKX0ve2xlbihpbnN0YW5jZXMpfSk6IHsnLCAnLmpvaW4oZmFpbGluZ1s6MTBdKX0iCiAgICAgICAgICAgIHJlc3VsdC5yZXNvdXJjZV9pZHMgPSBmYWlsaW5nCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLlBBU1MKICAgICAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gZiJBbGwge2xlbihpbnN0YW5jZXMpfSBDbG91ZCBTUUwgaW5zdGFuY2UocykgcmVxdWlyZSBTU0wgY29ubmVjdGlvbnMuIgogICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5FUlJPUgogICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9ICJnb29nbGUtYXBpLXB5dGhvbi1jbGllbnQgbm90IGluc3RhbGxlZC4gSW5zdGFsbCB3aXRoOiBwaXAgaW5zdGFsbCBnb29nbGUtYXBpLXB5dGhvbi1jbGllbnQiCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICByZXN1bHQuc3RhdHVzID0gQ2hlY2tTdGF0dXMuRVJST1IKICAgICAgICByZXN1bHQuZXZpZGVuY2UgPSBmIkNvdWxkIG5vdCBjaGVjayBDbG91ZCBTUUwgU1NMIGNvbmZpZ3VyYXRpb246IHtzYW5pdGl6ZV9kaXNjb3Zlcnlfd2FybmluZyhleGMpfSIKICAgIHJldHVybiByZXN1bHQKCgpkZWYgX2NoZWNrXzZfMihwcm9qZWN0X2lkOiBzdHIpIC0+IENJU0NoZWNrUmVzdWx0OgogICAgIiIiQ0lTIDYuMiDigJQgRW5zdXJlIENsb3VkIFNRTCBkYXRhYmFzZSBpbnN0YW5jZXMgZG8gbm90IGhhdmUgcHVibGljIElQcy4iIiIKICAgIHJlc3VsdCA9IENJU0NoZWNrUmVzdWx0KAogICAgICAgIGNoZWNrX2lkPSI2LjIiLAogICAgICAgIHRpdGxlPSJDbG91ZCBTUUwgaW5zdGFuY2VzIGxhY2sgcHVibGljIElQcyIsCiAgICAgICAgc3RhdHVzPUNoZWNrU3RhdHVzLkVSUk9SLAogICAgICAgIHNldmVyaXR5PSJoaWdoIiwKICAgICAgICByZWNvbW1lbmRhdGlvbj0iUmVtb3ZlIHB1YmxpYyBJUCBhZGRyZXNzZXMgZnJvbSBDbG91ZCBTUUwgaW5zdGFuY2VzIGFuZCB1c2UgcHJpdmF0ZSBJUCBvciBDbG91ZCBTUUwgUHJveHkgaW5zdGVhZC4iLAogICAgICAgIGNpc19zZWN0aW9uPV9TUUxfU0VDVElPTiwKICAgICkKICAgIHRyeToKICAgICAgICBpbnN0YW5jZXMgPSBfZ2NwX2Nsb3VkX3NxbF9pbnN0YW5jZXMocHJvamVjdF9pZCkKCiAgICAgICAgZmFpbGluZzogbGlzdFtzdHJdID0gW10KICAgICAgICBmb3IgaW5zdCBpbiBpbnN0YW5jZXM6CiAgICAgICAgICAgIG5hbWUgPSBpbnN0LmdldCgibmFtZSIsICJ1bmtub3duIikKICAgICAgICAgICAgaXBfYWRkcmVzc2VzID0gaW5zdC5nZXQoImlwQWRkcmVzc2VzIiwgW10pCiAgICAgICAgICAgIGZvciBpcCBpbiBpcF9hZGRyZXNzZXM6CiAgICAgICAgICAgICAgICBpZiBpcC5nZXQoInR5cGUiKSA9PSAiUFJJTUFSWSI6CiAgICAgICAgICAgICAgICAgICAgZmFpbGluZy5hcHBlbmQobmFtZSkKICAgICAgICAgICAgICAgICAgICBicmVhawoKICAgICAgICBpZiBmYWlsaW5nOgogICAgICAgICAgICByZXN1bHQuc3RhdHVzID0gQ2hlY2tTdGF0dXMuRkFJTAogICAgICAgICAgICByZXN1bHQuZXZpZGVuY2UgPSBmIkNsb3VkIFNRTCBpbnN0YW5jZXMgd2l0aCBwdWJsaWMgSVBzICh7bGVuKGZhaWxpbmcpfS97bGVuKGluc3RhbmNlcyl9KTogeycsICcuam9pbihmYWlsaW5nWzoxMF0pfSIKICAgICAgICAgICAgcmVzdWx0LnJlc291cmNlX2lkcyA9IGZhaWxpbmcKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXN1bHQuc3RhdHVzID0gQ2hlY2tTdGF0dXMuUEFTUwogICAgICAgICAgICByZXN1bHQuZXZpZGVuY2UgPSBmIk5vIENsb3VkIFNRTCBpbnN0YW5jZXMgaGF2ZSBwdWJsaWMgSVAgYWRkcmVzc2VzIGFjcm9zcyB7bGVuKGluc3RhbmNlcyl9IGluc3RhbmNlKHMpLiIKICAgIGV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgICAgICByZXN1bHQuc3RhdHVzID0gQ2hlY2tTdGF0dXMuRVJST1IKICAgICAgICByZXN1bHQuZXZpZGVuY2UgPSAiZ29vZ2xlLWFwaS1weXRob24tY2xpZW50IG5vdCBpbnN0YWxsZWQuIEluc3RhbGwgd2l0aDogcGlwIGluc3RhbGwgZ29vZ2xlLWFwaS1weXRob24tY2xpZW50IgogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkVSUk9SCiAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gZiJDb3VsZCBub3QgY2hlY2sgQ2xvdWQgU1FMIHB1YmxpYyBJUHM6IHtzYW5pdGl6ZV9kaXNjb3Zlcnlfd2FybmluZyhleGMpfSIKICAgIHJldHVybiByZXN1bHQKCgpkZWYgX2NoZWNrXzZfMyhwcm9qZWN0X2lkOiBzdHIpIC0+IENJU0NoZWNrUmVzdWx0OgogICAgIiIiQ0lTIDYuMyDigJQgRW5zdXJlIENsb3VkIFNRTCBkYXRhYmFzZSBpbnN0YW5jZXMgaGF2ZSBhdXRvbWF0ZWQgYmFja3VwcyBlbmFibGVkLiIiIgogICAgcmVzdWx0ID0gQ0lTQ2hlY2tSZXN1bHQoCiAgICAgICAgY2hlY2tfaWQ9IjYuMyIsCiAgICAgICAgdGl0bGU9IkNsb3VkIFNRTCBhdXRvbWF0ZWQgYmFja3VwcyBlbmFibGVkIiwKICAgICAgICBzdGF0dXM9Q2hlY2tTdGF0dXMuRVJST1IsCiAgICAgICAgc2V2ZXJpdHk9ImhpZ2giLAogICAgICAgIHJlY29tbWVuZGF0aW9uPSJFbmFibGUgYXV0b21hdGVkIGJhY2t1cHMgb24gYWxsIENsb3VkIFNRTCBpbnN0YW5jZXMuIiwKICAgICAgICBjaXNfc2VjdGlvbj1fU1FMX1NFQ1RJT04sCiAgICApCiAgICB0cnk6CiAgICAgICAgaW5zdGFuY2VzID0gX2djcF9jbG91ZF9zcWxfaW5zdGFuY2VzKHByb2plY3RfaWQpCgogICAgICAgIGZhaWxpbmc6IGxpc3Rbc3RyXSA9IFtdCiAgICAgICAgZm9yIGluc3QgaW4gaW5zdGFuY2VzOgogICAgICAgICAgICBuYW1lID0gaW5zdC5nZXQoIm5hbWUiLCAidW5rbm93biIpCiAgICAgICAgICAgIHNldHRpbmdzID0gaW5zdC5nZXQoInNldHRpbmdzIiwge30pCiAgICAgICAgICAgIGJhY2t1cF9jb25maWcgPSBzZXR0aW5ncy5nZXQoImJhY2t1cENvbmZpZ3VyYXRpb24iLCB7fSkKICAgICAgICAgICAgaWYgbm90IGJhY2t1cF9jb25maWcuZ2V0KCJlbmFibGVkIiwgRmFsc2UpOgogICAgICAgICAgICAgICAgZmFpbGluZy5hcHBlbmQobmFtZSkKCiAgICAgICAgaWYgZmFpbGluZzoKICAgICAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkZBSUwKICAgICAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gZiJDbG91ZCBTUUwgaW5zdGFuY2VzIHdpdGhvdXQgYXV0b21hdGVkIGJhY2t1cHMgKHtsZW4oZmFpbGluZyl9L3tsZW4oaW5zdGFuY2VzKX0pOiB7JywgJy5qb2luKGZhaWxpbmdbOjEwXSl9IgogICAgICAgICAgICByZXN1bHQucmVzb3VyY2VfaWRzID0gZmFpbGluZwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5QQVNTCiAgICAgICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9IGYiQWxsIHtsZW4oaW5zdGFuY2VzKX0gQ2xvdWQgU1FMIGluc3RhbmNlKHMpIGhhdmUgYXV0b21hdGVkIGJhY2t1cHMgZW5hYmxlZC4iCiAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkVSUk9SCiAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gImdvb2dsZS1hcGktcHl0aG9uLWNsaWVudCBub3QgaW5zdGFsbGVkLiBJbnN0YWxsIHdpdGg6IHBpcCBpbnN0YWxsIGdvb2dsZS1hcGktcHl0aG9uLWNsaWVudCIKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5FUlJPUgogICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9IGYiQ291bGQgbm90IGNoZWNrIENsb3VkIFNRTCBiYWNrdXAgY29uZmlndXJhdGlvbjoge3Nhbml0aXplX2Rpc2NvdmVyeV93YXJuaW5nKGV4Yyl9IgogICAgcmV0dXJuIHJlc3VsdAoKCmRlZiBfY2hlY2tfNl80KHByb2plY3RfaWQ6IHN0cikgLT4gQ0lTQ2hlY2tSZXN1bHQ6CiAgICAiIiJDSVMgNi40IOKAlCBFbnN1cmUgQ2xvdWQgU1FMIFBvc3RncmVTUUwgaW5zdGFuY2VzIGhhdmUgbG9nX2Vycm9yX3ZlcmJvc2l0eSBzZXQgdG8gREVGQVVMVCBvciBzdHJpY3Rlci4iIiIKICAgIHJlc3VsdCA9IENJU0NoZWNrUmVzdWx0KAogICAgICAgIGNoZWNrX2lkPSI2LjQiLAogICAgICAgIHRpdGxlPSJDbG91ZCBTUUwgUG9zdGdyZVNRTCBsb2dfZXJyb3JfdmVyYm9zaXR5IERFRkFVTFQgb3Igc3RyaWN0ZXIiLAogICAgICAgIHN0YXR1cz1DaGVja1N0YXR1cy5FUlJPUiwKICAgICAgICBzZXZlcml0eT0ibWVkaXVtIiwKICAgICAgICByZWNvbW1lbmRhdGlvbj0iU2V0IHRoZSBsb2dfZXJyb3JfdmVyYm9zaXR5IGRhdGFiYXNlIGZsYWcgdG8gREVGQVVMVCBvciBURVJTRSBvbiBQb3N0Z3JlU1FMIGluc3RhbmNlcy4iLAogICAgICAgIGNpc19zZWN0aW9uPV9TUUxfU0VDVElPTiwKICAgICkKICAgIHRyeToKICAgICAgICBpbnN0YW5jZXMgPSBfZ2NwX2Nsb3VkX3NxbF9pbnN0YW5jZXMocHJvamVjdF9pZCkKCiAgICAgICAgZmFpbGluZzogbGlzdFtzdHJdID0gW10KICAgICAgICBhY2NlcHRhYmxlX3ZhbHVlcyA9IHsiZGVmYXVsdCIsICJ0ZXJzZSJ9CiAgICAgICAgZm9yIGluc3QgaW4gaW5zdGFuY2VzOgogICAgICAgICAgICBkYl90eXBlID0gaW5zdC5nZXQoImRhdGFiYXNlVmVyc2lvbiIsICIiKQogICAgICAgICAgICBpZiBub3QgZGJfdHlwZS51cHBlcigpLnN0YXJ0c3dpdGgoIlBPU1RHUkVTIik6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBuYW1lID0gaW5zdC5nZXQoIm5hbWUiLCAidW5rbm93biIpCiAgICAgICAgICAgIHNldHRpbmdzID0gaW5zdC5nZXQoInNldHRpbmdzIiwge30pCiAgICAgICAgICAgIGRiX2ZsYWdzID0gc2V0dGluZ3MuZ2V0KCJkYXRhYmFzZUZsYWdzIiwgW10pCiAgICAgICAgICAgIGZsYWdfdmFsdWUgPSBOb25lCiAgICAgICAgICAgIGZvciBmbGFnIGluIGRiX2ZsYWdzOgogICAgICAgICAgICAgICAgaWYgZmxhZy5nZXQoIm5hbWUiKSA9PSAibG9nX2Vycm9yX3ZlcmJvc2l0eSI6CiAgICAgICAgICAgICAgICAgICAgZmxhZ192YWx1ZSA9IGZsYWcuZ2V0KCJ2YWx1ZSIsICIiKS5sb3dlcigpCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWYgZmxhZ192YWx1ZSBpcyBOb25lIG9yIGZsYWdfdmFsdWUgbm90IGluIGFjY2VwdGFibGVfdmFsdWVzOgogICAgICAgICAgICAgICAgZmFpbGluZy5hcHBlbmQobmFtZSkKCiAgICAgICAgaWYgZmFpbGluZzoKICAgICAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkZBSUwKICAgICAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gZiJQb3N0Z3JlU1FMIGluc3RhbmNlcyB3aXRob3V0IHByb3BlciBsb2dfZXJyb3JfdmVyYm9zaXR5OiB7JywgJy5qb2luKGZhaWxpbmdbOjEwXSl9IgogICAgICAgICAgICByZXN1bHQucmVzb3VyY2VfaWRzID0gZmFpbGluZwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5QQVNTCiAgICAgICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9ICJBbGwgUG9zdGdyZVNRTCBpbnN0YW5jZXMgaGF2ZSBsb2dfZXJyb3JfdmVyYm9zaXR5IHNldCB0byBERUZBVUxUIG9yIHN0cmljdGVyLiIKICAgIGV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgICAgICByZXN1bHQuc3RhdHVzID0gQ2hlY2tTdGF0dXMuRVJST1IKICAgICAgICByZXN1bHQuZXZpZGVuY2UgPSAiZ29vZ2xlLWFwaS1weXRob24tY2xpZW50IG5vdCBpbnN0YWxsZWQuIgogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkVSUk9SCiAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gZiJDb3VsZCBub3QgY2hlY2sgUG9zdGdyZVNRTCBsb2dfZXJyb3JfdmVyYm9zaXR5OiB7c2FuaXRpemVfZGlzY292ZXJ5X3dhcm5pbmcoZXhjKX0iCiAgICByZXR1cm4gcmVzdWx0CgoKZGVmIF9jaGVja182XzUocHJvamVjdF9pZDogc3RyKSAtPiBDSVNDaGVja1Jlc3VsdDoKICAgICIiIkNJUyA2LjUg4oCUIEVuc3VyZSBDbG91ZCBTUUwgUG9zdGdyZVNRTCBpbnN0YW5jZXMgaGF2ZSBsb2dfY29ubmVjdGlvbnMgZW5hYmxlZC4iIiIKICAgIHJlc3VsdCA9IENJU0NoZWNrUmVzdWx0KAogICAgICAgIGNoZWNrX2lkPSI2LjUiLAogICAgICAgIHRpdGxlPSJDbG91ZCBTUUwgUG9zdGdyZVNRTCBsb2dfY29ubmVjdGlvbnMgZmxhZyBvbiIsCiAgICAgICAgc3RhdHVzPUNoZWNrU3RhdHVzLkVSUk9SLAogICAgICAgIHNldmVyaXR5PSJtZWRpdW0iLAogICAgICAgIHJlY29tbWVuZGF0aW9uPSJTZXQgdGhlIGxvZ19jb25uZWN0aW9ucyBkYXRhYmFzZSBmbGFnIHRvICdvbicgb24gYWxsIFBvc3RncmVTUUwgaW5zdGFuY2VzLiIsCiAgICAgICAgY2lzX3NlY3Rpb249X1NRTF9TRUNUSU9OLAogICAgKQogICAgdHJ5OgogICAgICAgIGluc3RhbmNlcyA9IF9nY3BfY2xvdWRfc3FsX2luc3RhbmNlcyhwcm9qZWN0X2lkKQoKICAgICAgICBmYWlsaW5nOiBsaXN0W3N0cl0gPSBbXQogICAgICAgIGZvciBpbnN0IGluIGluc3RhbmNlczoKICAgICAgICAgICAgZGJfdHlwZSA9IGluc3QuZ2V0KCJkYXRhYmFzZVZlcnNpb24iLCAiIikKICAgICAgICAgICAgaWYgbm90IGRiX3R5cGUudXBwZXIoKS5zdGFydHN3aXRoKCJQT1NUR1JFUyIpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgbmFtZSA9IGluc3QuZ2V0KCJuYW1lIiwgInVua25vd24iKQogICAgICAgICAgICBzZXR0aW5ncyA9IGluc3QuZ2V0KCJzZXR0aW5ncyIsIHt9KQogICAgICAgICAgICBkYl9mbGFncyA9IHNldHRpbmdzLmdldCgiZGF0YWJhc2VGbGFncyIsIFtdKQogICAgICAgICAgICBmbGFnX3ZhbHVlID0gTm9uZQogICAgICAgICAgICBmb3IgZmxhZyBpbiBkYl9mbGFnczoKICAgICAgICAgICAgICAgIGlmIGZsYWcuZ2V0KCJuYW1lIikgPT0gImxvZ19jb25uZWN0aW9ucyI6CiAgICAgICAgICAgICAgICAgICAgZmxhZ192YWx1ZSA9IGZsYWcuZ2V0KCJ2YWx1ZSIsICIiKS5sb3dlcigpCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWYgZmxhZ192YWx1ZSAhPSAib24iOgogICAgICAgICAgICAgICAgZmFpbGluZy5hcHBlbmQobmFtZSkKCiAgICAgICAgaWYgZmFpbGluZzoKICAgICAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkZBSUwKICAgICAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gZiJQb3N0Z3JlU1FMIGluc3RhbmNlcyB3aXRob3V0IGxvZ19jb25uZWN0aW9ucyBlbmFibGVkOiB7JywgJy5qb2luKGZhaWxpbmdbOjEwXSl9IgogICAgICAgICAgICByZXN1bHQucmVzb3VyY2VfaWRzID0gZmFpbGluZwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5QQVNTCiAgICAgICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9ICJBbGwgUG9zdGdyZVNRTCBpbnN0YW5jZXMgaGF2ZSBsb2dfY29ubmVjdGlvbnMgZW5hYmxlZC4iCiAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkVSUk9SCiAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gImdvb2dsZS1hcGktcHl0aG9uLWNsaWVudCBub3QgaW5zdGFsbGVkLiIKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5FUlJPUgogICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9IGYiQ291bGQgbm90IGNoZWNrIFBvc3RncmVTUUwgbG9nX2Nvbm5lY3Rpb25zOiB7c2FuaXRpemVfZGlzY292ZXJ5X3dhcm5pbmcoZXhjKX0iCiAgICByZXR1cm4gcmVzdWx0CgoKZGVmIF9jaGVja182XzYocHJvamVjdF9pZDogc3RyKSAtPiBDSVNDaGVja1Jlc3VsdDoKICAgICIiIkNJUyA2LjYg4oCUIEVuc3VyZSBDbG91ZCBTUUwgUG9zdGdyZVNRTCBpbnN0YW5jZXMgaGF2ZSBsb2dfZGlzY29ubmVjdGlvbnMgZW5hYmxlZC4iIiIKICAgIHJlc3VsdCA9IENJU0NoZWNrUmVzdWx0KAogICAgICAgIGNoZWNrX2lkPSI2LjYiLAogICAgICAgIHRpdGxlPSJDbG91ZCBTUUwgUG9zdGdyZVNRTCBsb2dfZGlzY29ubmVjdGlvbnMgZmxhZyBvbiIsCiAgICAgICAgc3RhdHVzPUNoZWNrU3RhdHVzLkVSUk9SLAogICAgICAgIHNldmVyaXR5PSJtZWRpdW0iLAogICAgICAgIHJlY29tbWVuZGF0aW9uPSJTZXQgdGhlIGxvZ19kaXNjb25uZWN0aW9ucyBkYXRhYmFzZSBmbGFnIHRvICdvbicgb24gYWxsIFBvc3RncmVTUUwgaW5zdGFuY2VzLiIsCiAgICAgICAgY2lzX3NlY3Rpb249X1NRTF9TRUNUSU9OLAogICAgKQogICAgdHJ5OgogICAgICAgIGluc3RhbmNlcyA9IF9nY3BfY2xvdWRfc3FsX2luc3RhbmNlcyhwcm9qZWN0X2lkKQoKICAgICAgICBmYWlsaW5nOiBsaXN0W3N0cl0gPSBbXQogICAgICAgIGZvciBpbnN0IGluIGluc3RhbmNlczoKICAgICAgICAgICAgZGJfdHlwZSA9IGluc3QuZ2V0KCJkYXRhYmFzZVZlcnNpb24iLCAiIikKICAgICAgICAgICAgaWYgbm90IGRiX3R5cGUudXBwZXIoKS5zdGFydHN3aXRoKCJQT1NUR1JFUyIpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgbmFtZSA9IGluc3QuZ2V0KCJuYW1lIiwgInVua25vd24iKQogICAgICAgICAgICBzZXR0aW5ncyA9IGluc3QuZ2V0KCJzZXR0aW5ncyIsIHt9KQogICAgICAgICAgICBkYl9mbGFncyA9IHNldHRpbmdzLmdldCgiZGF0YWJhc2VGbGFncyIsIFtdKQogICAgICAgICAgICBmbGFnX3ZhbHVlID0gTm9uZQogICAgICAgICAgICBmb3IgZmxhZyBpbiBkYl9mbGFnczoKICAgICAgICAgICAgICAgIGlmIGZsYWcuZ2V0KCJuYW1lIikgPT0gImxvZ19kaXNjb25uZWN0aW9ucyI6CiAgICAgICAgICAgICAgICAgICAgZmxhZ192YWx1ZSA9IGZsYWcuZ2V0KCJ2YWx1ZSIsICIiKS5sb3dlcigpCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWYgZmxhZ192YWx1ZSAhPSAib24iOgogICAgICAgICAgICAgICAgZmFpbGluZy5hcHBlbmQobmFtZSkKCiAgICAgICAgaWYgZmFpbGluZzoKICAgICAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkZBSUwKICAgICAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gZiJQb3N0Z3JlU1FMIGluc3RhbmNlcyB3aXRob3V0IGxvZ19kaXNjb25uZWN0aW9ucyBlbmFibGVkOiB7JywgJy5qb2luKGZhaWxpbmdbOjEwXSl9IgogICAgICAgICAgICByZXN1bHQucmVzb3VyY2VfaWRzID0gZmFpbGluZwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5QQVNTCiAgICAgICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9ICJBbGwgUG9zdGdyZVNRTCBpbnN0YW5jZXMgaGF2ZSBsb2dfZGlzY29ubmVjdGlvbnMgZW5hYmxlZC4iCiAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkVSUk9SCiAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gImdvb2dsZS1hcGktcHl0aG9uLWNsaWVudCBub3QgaW5zdGFsbGVkLiIKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5FUlJPUgogICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9IGYiQ291bGQgbm90IGNoZWNrIFBvc3RncmVTUUwgbG9nX2Rpc2Nvbm5lY3Rpb25zOiB7c2FuaXRpemVfZGlzY292ZXJ5X3dhcm5pbmcoZXhjKX0iCiAgICByZXR1cm4gcmVzdWx0CgoKZGVmIF9jaGVja182XzcocHJvamVjdF9pZDogc3RyKSAtPiBDSVNDaGVja1Jlc3VsdDoKICAgICIiIkNJUyA2Ljcg4oCUIEVuc3VyZSBDbG91ZCBTUUwgUG9zdGdyZVNRTCBpbnN0YW5jZXMgaGF2ZSBsb2dfbWluX2R1cmF0aW9uX3N0YXRlbWVudCBzZXQgdG8gLTEuIiIiCiAgICByZXN1bHQgPSBDSVNDaGVja1Jlc3VsdCgKICAgICAgICBjaGVja19pZD0iNi43IiwKICAgICAgICB0aXRsZT0iQ2xvdWQgU1FMIFBvc3RncmVTUUwgbG9nX21pbl9kdXJhdGlvbl9zdGF0ZW1lbnQgc2V0IHRvIC0xIiwKICAgICAgICBzdGF0dXM9Q2hlY2tTdGF0dXMuRVJST1IsCiAgICAgICAgc2V2ZXJpdHk9Im1lZGl1bSIsCiAgICAgICAgcmVjb21tZW5kYXRpb249IlNldCB0aGUgbG9nX21pbl9kdXJhdGlvbl9zdGF0ZW1lbnQgZGF0YWJhc2UgZmxhZyB0byAnLTEnIHRvIGRpc2FibGUgbG9nZ2luZyBvZiBzdGF0ZW1lbnQgZHVyYXRpb25zIChwcmV2ZW50cyBzZW5zaXRpdmUgZGF0YSBsZWFrYWdlKS4iLCAgIyBub3FhOiBFNTAxIChDSVMgcmVtZWRpYXRpb24vbG9nLWZpbHRlciBzdHJpbmcg4oCUIGtlcHQgdmVyYmF0aW0gZm9yIGNvcHktcGFzdGUpCiAgICAgICAgY2lzX3NlY3Rpb249X1NRTF9TRUNUSU9OLAogICAgKQogICAgdHJ5OgogICAgICAgIGluc3RhbmNlcyA9IF9nY3BfY2xvdWRfc3FsX2luc3RhbmNlcyhwcm9qZWN0X2lkKQoKICAgICAgICBmYWlsaW5nOiBsaXN0W3N0cl0gPSBbXQogICAgICAgIGZvciBpbnN0IGluIGluc3RhbmNlczoKICAgICAgICAgICAgZGJfdHlwZSA9IGluc3QuZ2V0KCJkYXRhYmFzZVZlcnNpb24iLCAiIikKICAgICAgICAgICAgaWYgbm90IGRiX3R5cGUudXBwZXIoKS5zdGFydHN3aXRoKCJQT1NUR1JFUyIpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgbmFtZSA9IGluc3QuZ2V0KCJuYW1lIiwgInVua25vd24iKQogICAgICAgICAgICBzZXR0aW5ncyA9IGluc3QuZ2V0KCJzZXR0aW5ncyIsIHt9KQogICAgICAgICAgICBkYl9mbGFncyA9IHNldHRpbmdzLmdldCgiZGF0YWJhc2VGbGFncyIsIFtdKQogICAgICAgICAgICBmbGFnX3ZhbHVlID0gTm9uZQogICAgICAgICAgICBmb3IgZmxhZyBpbiBkYl9mbGFnczoKICAgICAgICAgICAgICAgIGlmIGZsYWcuZ2V0KCJuYW1lIikgPT0gImxvZ19taW5fZHVyYXRpb25fc3RhdGVtZW50IjoKICAgICAgICAgICAgICAgICAgICBmbGFnX3ZhbHVlID0gZmxhZy5nZXQoInZhbHVlIiwgIiIpCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWYgZmxhZ192YWx1ZSAhPSAiLTEiOgogICAgICAgICAgICAgICAgZmFpbGluZy5hcHBlbmQobmFtZSkKCiAgICAgICAgaWYgZmFpbGluZzoKICAgICAgICAgICAgcmVzdWx0LnN0YXR1cyA9IENoZWNrU3RhdHVzLkZBSUwKICAgICAgICAgICAgcmVzdWx0LmV2aWRlbmNlID0gZiJQb3N0Z3JlU1FMIGluc3RhbmNlcyB3aXRob3V0IGxvZ19taW5fZHVyYXRpb25fc3RhdGVtZW50PS0xOiB7JywgJy5qb2luKGZhaWxpbmdbOjEwXSl9IgogICAgICAgICAgICByZXN1bHQucmVzb3VyY2VfaWRzID0gZmFpbGluZwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5QQVNTCiAgICAgICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9ICJBbGwgUG9zdGdyZVNRTCBpbnN0YW5jZXMgaGF2ZSBsb2dfbWluX2R1cmF0aW9uX3N0YXRlbWVudCBzZXQgdG8gLTEuIgogICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgIHJlc3VsdC5zdGF0dXMgPSBDaGVja1N0YXR1cy5FUlJPUgogICAgICAgIHJlc3VsdC5ldmlkZW5jZSA9ICJnb29nbGUtYXBpLXB5dGhvbi1jbGllbnQgbm90IGluc3RhbGxlZC4iCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICByZXN1bHQuc3RhdHVzID0gQ2hlY2tTdGF0dXMuRVJST1IKICAgICAgICByZXN1bHQuZXZpZGVuY2UgPSBmIkNvdWxkIG5vdCBjaGVjayBQb3N0Z3JlU1FMIGxvZ19taW5fZHVyYXRpb25fc3RhdGVtZW50OiB7c2FuaXRpemVfZGlzY292ZXJ5X3dhcm5pbmcoZXhjKX0iCiAgICByZXR1cm4gcmVzdWx0Cg==
+"""CIS GCP 6.x: Cloud SQL instance configuration."""
+
+from __future__ import annotations
+
+import logging
+
+from agent_bom.cloud.aws_cis_benchmark import CheckStatus, CISCheckResult
+from agent_bom.cloud.normalization import sanitize_discovery_warning
+
+from ._base import (
+    _SQL_SECTION,
+    _gcp_cloud_sql_instances,
+)
+
+logger = logging.getLogger("agent_bom.cloud.gcp_cis_benchmark")
+
+
+def _check_6_1(project_id: str) -> CISCheckResult:
+    """CIS 6.1 — Ensure Cloud SQL database instances require all incoming connections to use SSL."""
+    result = CISCheckResult(
+        check_id="6.1",
+        title="Cloud SQL requires SSL for all connections",
+        status=CheckStatus.ERROR,
+        severity="high",
+        recommendation="Enable 'Require SSL' (requireSsl) on all Cloud SQL instances to encrypt connections in transit.",
+        cis_section=_SQL_SECTION,
+    )
+    try:
+        instances = _gcp_cloud_sql_instances(project_id)
+
+        failing: list[str] = []
+        for inst in instances:
+            name = inst.get("name", "unknown")
+            settings = inst.get("settings", {})
+            ip_config = settings.get("ipConfiguration", {})
+            require_ssl = ip_config.get("requireSsl", False)
+            if not require_ssl:
+                failing.append(name)
+
+        if failing:
+            result.status = CheckStatus.FAIL
+            result.evidence = f"Cloud SQL instances not requiring SSL ({len(failing)}/{len(instances)}): {', '.join(failing[:10])}"
+            result.resource_ids = failing
+        else:
+            result.status = CheckStatus.PASS
+            result.evidence = f"All {len(instances)} Cloud SQL instance(s) require SSL connections."
+    except ImportError:
+        result.status = CheckStatus.ERROR
+        result.evidence = "google-api-python-client not installed. Install with: pip install google-api-python-client"
+    except Exception as exc:
+        result.status = CheckStatus.ERROR
+        result.evidence = f"Could not check Cloud SQL SSL configuration: {sanitize_discovery_warning(exc)}"
+    return result
+
+
+def _check_6_2(project_id: str) -> CISCheckResult:
+    """CIS 6.2 — Ensure Cloud SQL database instances do not have public IPs."""
+    result = CISCheckResult(
+        check_id="6.2",
+        title="Cloud SQL instances lack public IPs",
+        status=CheckStatus.ERROR,
+        severity="high",
+        recommendation="Remove public IP addresses from Cloud SQL instances and use private IP or Cloud SQL Proxy instead.",
+        cis_section=_SQL_SECTION,
+    )
+    try:
+        instances = _gcp_cloud_sql_instances(project_id)
+
+        failing: list[str] = []
+        for inst in instances:
+            name = inst.get("name", "unknown")
+            ip_addresses = inst.get("ipAddresses", [])
+            for ip in ip_addresses:
+                if ip.get("type") == "PRIMARY":
+                    failing.append(name)
+                    break
+
+        if failing:
+            result.status = CheckStatus.FAIL
+            result.evidence = f"Cloud SQL instances with public IPs ({len(failing)}/{len(instances)}): {', '.join(failing[:10])}"
+            result.resource_ids = failing
+        else:
+            result.status = CheckStatus.PASS
+            result.evidence = f"No Cloud SQL instances have public IP addresses across {len(instances)} instance(s)."
+    except ImportError:
+        result.status = CheckStatus.ERROR
+        result.evidence = "google-api-python-client not installed. Install with: pip install google-api-python-client"
+    except Exception as exc:
+        result.status = CheckStatus.ERROR
+        result.evidence = f"Could not check Cloud SQL public IPs: {sanitize_discovery_warning(exc)}"
+    return result
+
+
+def _check_6_3(project_id: str) -> CISCheckResult:
+    """CIS 6.3 — Ensure Cloud SQL database instances have automated backups enabled."""
+    result = CISCheckResult(
+        check_id="6.3",
+        title="Cloud SQL automated backups enabled",
+        status=CheckStatus.ERROR,
+        severity="high",
+        recommendation="Enable automated backups on all Cloud SQL instances.",
+        cis_section=_SQL_SECTION,
+    )
+    try:
+        instances = _gcp_cloud_sql_instances(project_id)
+
+        failing: list[str] = []
+        for inst in instances:
+            name = inst.get("name", "unknown")
+            settings = inst.get("settings", {})
+            backup_config = settings.get("backupConfiguration", {})
+            if not backup_config.get("enabled", False):
+                failing.append(name)
+
+        if failing:
+            result.status = CheckStatus.FAIL
+            result.evidence = f"Cloud SQL instances without automated backups ({len(failing)}/{len(instances)}): {', '.join(failing[:10])}"
+            result.resource_ids = failing
+        else:
+            result.status = CheckStatus.PASS
+            result.evidence = f"All {len(instances)} Cloud SQL instance(s) have automated backups enabled."
+    except ImportError:
+        result.status = CheckStatus.ERROR
+        result.evidence = "google-api-python-client not installed. Install with: pip install google-api-python-client"
+    except Exception as exc:
+        result.status = CheckStatus.ERROR
+        result.evidence = f"Could not check Cloud SQL backup configuration: {sanitize_discovery_warning(exc)}"
+    return result
+
+
+def _check_6_4(project_id: str) -> CISCheckResult:
+    """CIS 6.4 — Ensure Cloud SQL PostgreSQL instances have log_error_verbosity set to DEFAULT or stricter."""
+    result = CISCheckResult(
+        check_id="6.4",
+        title="Cloud SQL PostgreSQL log_error_verbosity DEFAULT or stricter",
+        status=CheckStatus.ERROR,
+        severity="medium",
+        recommendation="Set the log_error_verbosity database flag to DEFAULT or TERSE on PostgreSQL instances.",
+        cis_section=_SQL_SECTION,
+    )
+    try:
+        instances = _gcp_cloud_sql_instances(project_id)
+
+        failing: list[str] = []
+        acceptable_values = {"default", "terse"}
+        for inst in instances:
+            db_type = inst.get("databaseVersion", "")
+            if not db_type.upper().startswith("POSTGRES"):
+                continue
+            name = inst.get("name", "unknown")
+            settings = inst.get("settings", {})
+            db_flags = settings.get("databaseFlags", [])
+            flag_value = None
+            for flag in db_flags:
+                if flag.get("name") == "log_error_verbosity":
+                    flag_value = flag.get("value", "").lower()
+                    break
+            if flag_value is None or flag_value not in acceptable_values:
+                failing.append(name)
+
+        if failing:
+            result.status = CheckStatus.FAIL
+            result.evidence = f"PostgreSQL instances without proper log_error_verbosity: {', '.join(failing[:10])}"
+            result.resource_ids = failing
+        else:
+            result.status = CheckStatus.PASS
+            result.evidence = "All PostgreSQL instances have log_error_verbosity set to DEFAULT or stricter."
+    except ImportError:
+        result.status = CheckStatus.ERROR
+        result.evidence = "google-api-python-client not installed."
+    except Exception as exc:
+        result.status = CheckStatus.ERROR
+        result.evidence = f"Could not check PostgreSQL log_error_verbosity: {sanitize_discovery_warning(exc)}"
+    return result
+
+
+def _check_6_5(project_id: str) -> CISCheckResult:
+    """CIS 6.5 — Ensure Cloud SQL PostgreSQL instances have log_connections enabled."""
+    result = CISCheckResult(
+        check_id="6.5",
+        title="Cloud SQL PostgreSQL log_connections flag on",
+        status=CheckStatus.ERROR,
+        severity="medium",
+        recommendation="Set the log_connections database flag to 'on' on all PostgreSQL instances.",
+        cis_section=_SQL_SECTION,
+    )
+    try:
+        instances = _gcp_cloud_sql_instances(project_id)
+
+        failing: list[str] = []
+        for inst in instances:
+            db_type = inst.get("databaseVersion", "")
+            if not db_type.upper().startswith("POSTGRES"):
+                continue
+            name = inst.get("name", "unknown")
+            settings = inst.get("settings", {})
+            db_flags = settings.get("databaseFlags", [])
+            flag_value = None
+            for flag in db_flags:
+                if flag.get("name") == "log_connections":
+                    flag_value = flag.get("value", "").lower()
+                    break
+            if flag_value != "on":
+                failing.append(name)
+
+        if failing:
+            result.status = CheckStatus.FAIL
+            result.evidence = f"PostgreSQL instances without log_connections enabled: {', '.join(failing[:10])}"
+            result.resource_ids = failing
+        else:
+            result.status = CheckStatus.PASS
+            result.evidence = "All PostgreSQL instances have log_connections enabled."
+    except ImportError:
+        result.status = CheckStatus.ERROR
+        result.evidence = "google-api-python-client not installed."
+    except Exception as exc:
+        result.status = CheckStatus.ERROR
+        result.evidence = f"Could not check PostgreSQL log_connections: {sanitize_discovery_warning(exc)}"
+    return result
+
+
+def _check_6_6(project_id: str) -> CISCheckResult:
+    """CIS 6.6 — Ensure Cloud SQL PostgreSQL instances have log_disconnections enabled."""
+    result = CISCheckResult(
+        check_id="6.6",
+        title="Cloud SQL PostgreSQL log_disconnections flag on",
+        status=CheckStatus.ERROR,
+        severity="medium",
+        recommendation="Set the log_disconnections database flag to 'on' on all PostgreSQL instances.",
+        cis_section=_SQL_SECTION,
+    )
+    try:
+        instances = _gcp_cloud_sql_instances(project_id)
+
+        failing: list[str] = []
+        for inst in instances:
+            db_type = inst.get("databaseVersion", "")
+            if not db_type.upper().startswith("POSTGRES"):
+                continue
+            name = inst.get("name", "unknown")
+            settings = inst.get("settings", {})
+            db_flags = settings.get("databaseFlags", [])
+            flag_value = None
+            for flag in db_flags:
+                if flag.get("name") == "log_disconnections":
+                    flag_value = flag.get("value", "").lower()
+                    break
+            if flag_value != "on":
+                failing.append(name)
+
+        if failing:
+            result.status = CheckStatus.FAIL
+            result.evidence = f"PostgreSQL instances without log_disconnections enabled: {', '.join(failing[:10])}"
+            result.resource_ids = failing
+        else:
+            result.status = CheckStatus.PASS
+            result.evidence = "All PostgreSQL instances have log_disconnections enabled."
+    except ImportError:
+        result.status = CheckStatus.ERROR
+        result.evidence = "google-api-python-client not installed."
+    except Exception as exc:
+        result.status = CheckStatus.ERROR
+        result.evidence = f"Could not check PostgreSQL log_disconnections: {sanitize_discovery_warning(exc)}"
+    return result
+
+
+def _check_6_7(project_id: str) -> CISCheckResult:
+    """CIS 6.7 — Ensure Cloud SQL PostgreSQL instances have log_min_duration_statement set to -1."""
+    result = CISCheckResult(
+        check_id="6.7",
+        title="Cloud SQL PostgreSQL log_min_duration_statement set to -1",
+        status=CheckStatus.ERROR,
+        severity="medium",
+        recommendation="Set the log_min_duration_statement database flag to '-1' to disable logging of statement durations (prevents sensitive data leakage).",  # noqa: E501 (CIS remediation/log-filter string — kept verbatim for copy-paste)
+        cis_section=_SQL_SECTION,
+    )
+    try:
+        instances = _gcp_cloud_sql_instances(project_id)
+
+        failing: list[str] = []
+        for inst in instances:
+            db_type = inst.get("databaseVersion", "")
+            if not db_type.upper().startswith("POSTGRES"):
+                continue
+            name = inst.get("name", "unknown")
+            settings = inst.get("settings", {})
+            db_flags = settings.get("databaseFlags", [])
+            flag_value = None
+            for flag in db_flags:
+                if flag.get("name") == "log_min_duration_statement":
+                    flag_value = flag.get("value", "")
+                    break
+            if flag_value != "-1":
+                failing.append(name)
+
+        if failing:
+            result.status = CheckStatus.FAIL
+            result.evidence = f"PostgreSQL instances without log_min_duration_statement=-1: {', '.join(failing[:10])}"
+            result.resource_ids = failing
+        else:
+            result.status = CheckStatus.PASS
+            result.evidence = "All PostgreSQL instances have log_min_duration_statement set to -1."
+    except ImportError:
+        result.status = CheckStatus.ERROR
+        result.evidence = "google-api-python-client not installed."
+    except Exception as exc:
+        result.status = CheckStatus.ERROR
+        result.evidence = f"Could not check PostgreSQL log_min_duration_statement: {sanitize_discovery_warning(exc)}"
+    return result

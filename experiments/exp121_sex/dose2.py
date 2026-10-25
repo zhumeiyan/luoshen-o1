@@ -1,1 +1,37 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5pyJ5oCn5Li65L2V5rKh6LWi77yf5Y+v6IO95pivIFUo5pyJ5a6z56qB5Y+Y5Y6L5YqbKSDlpKrkvY7jgIIK5omrIE1VX0QgeCBNVV9C77yM55yL5peg5oCn5Y2g5q+U5piv5ZCm6ZqP5Y6L5Yqb5LiK5Y2H6ICM5LiL6ZmN77yI5oCn57+755uY77yJIiIiCmltcG9ydCByYW5kb20sIHN0YXRpc3RpY3MKaW1wb3J0IGNvbXBldGUgYXMgQwoKU0VFRFMgPSBsaXN0KHJhbmdlKDgpKQpkZWYgX2ZtdCh2KToKICAgIHJldHVybiBmInt2Oi40Zn0iIGlmIHYgaXMgbm90IE5vbmUgZWxzZSAiTkEiCgpwcmludChmInsnTVVfRCc6PjZ9eydNVV9CJzo+N317J1UnOj42fSB8IHsnc3RhdGljX2FzZXhmcmFjJzo+MTd9eydzaGlmdF9hc2V4ZnJhYyc6PjE3fSB8IOWIpOaNriIpCnJvd3MgPSBbXQpmb3IgbXVfZCBpbiBbMC4wMSwgMC4wMywgMC4wNiwgMC4xMCwgMC4xNV06CiAgICBmb3IgbXVfYiBpbiBbMC4wMDEsIDAuMF06CiAgICAgICAgQy5NVV9ELCBDLk1VX0IgPSBtdV9kLCBtdV9iCiAgICAgICAgVSA9IEMuTF9CQUQgKiBtdV9kCiAgICAgICAgciA9IHt9CiAgICAgICAgZm9yIGtpbmQgaW4gWyJzdGF0aWMiLCAic2hpZnRpbmciXToKICAgICAgICAgICAgcnMgPSBbQy5ydW4oa2luZCwgcykgZm9yIHMgaW4gU0VFRFNdCiAgICAgICAgICAgIG9rID0gW3ggZm9yIHggaW4gcnMgaWYgbm90IHhbImV4dGluY3QiXSBhbmQgeFsiZmluYWxfYXNleF9mcmFjIl0gaXMgbm90IE5vbmVdCiAgICAgICAgICAgIHJba2luZF0gPSByb3VuZChzdGF0aXN0aWNzLm1lYW4oeFsiZmluYWxfYXNleF9mcmFjIl0gZm9yIHggaW4gb2spLCA0KSBpZiBvayBlbHNlIE5vbmUKICAgICAgICAjIOWIpOaNrjog5pe25Y+Y5LiW55WM5LiL5peg5oCn5Y2g5q+UIDwgMC41IOinhuS4uuaAp+e/u+ebmAogICAgICAgIHZlcmRpY3QgPSAiU0VYIFdJTlMiIGlmIHJbInNoaWZ0aW5nIl0gaXMgbm90IE5vbmUgYW5kIHJbInNoaWZ0aW5nIl0gPCAwLjUgZWxzZSAiYXNleCBob2xkcyIKICAgICAgICByb3dzLmFwcGVuZCgobXVfZCwgbXVfYiwgVSwgclsic3RhdGljIl0sIHJbInNoaWZ0aW5nIl0sIHZlcmRpY3QpKQogICAgICAgIHByaW50KGYie211X2Q6PjYuM2Z9e211X2I6PjcuM2Z9e1U6PjYuMmZ9IHwgIgogICAgICAgICAgICAgIGYie19mbXQoclsnc3RhdGljJ10pOj4xN317X2ZtdChyWydzaGlmdGluZyddKTo+MTd9IHwge3ZlcmRpY3R9IikKCnByaW50KCkKcHJpbnQoIj09PSDmnInmgKfnv7vnm5jmmK/lkKblh7rnjrAgPT09IikKd2lucyA9IFt4IGZvciB4IGluIHJvd3MgaWYgeFs1XSA9PSAiU0VYIFdJTlMiXQpwcmludChmIiAg5omr5o+PIDEwIOagvO+8jOaAp+e/u+ebmCB7bGVuKHdpbnMpfSDmoLwiKQppZiBub3Qgd2luczoKICAgIHByaW50KCIgIC0+IOWcqOacrOaooeWei+S4juWPguaVsOiMg+WbtOWGhe+8jHR3by1mb2xkIGNvc3Qg5aeL57uI5Y6L5YCS6YeN57uE5pS255uKIikKICAgIHByaW50KCIgIC0+IOS4jeS4u+W8oOOAjuaAp+aXoOS7t+WAvOOAj++8jOWPquS4u+W8oOOAjuacrOaooeWei+acquWkjeeOsOaAp+eahOiDnOWIqeOAjyIpCnNoaWZ0cyA9IFt4WzRdIGZvciB4IGluIHJvd3MgaWYgeFs0XSBpcyBub3QgTm9uZV0KaWYgc2hpZnRzOgogICAgcHJpbnQoZiIgIOaXtuWPmOS4lueVjOaXoOaAp+WNoOavlOiMg+WbtCB7bWluKHNoaWZ0cyk6LjRmfSB+IHttYXgoc2hpZnRzKTouNGZ9IikK
+# -*- coding: utf-8 -*-
+"""有性为何没赢？可能是 U(有害突变压力) 太低。
+扫 MU_D x MU_B，看无性占比是否随压力上升而下降（性翻盘）"""
+import random, statistics
+import compete as C
+
+SEEDS = list(range(8))
+def _fmt(v):
+    return f"{v:.4f}" if v is not None else "NA"
+
+print(f"{'MU_D':>6}{'MU_B':>7}{'U':>6} | {'static_asexfrac':>17}{'shift_asexfrac':>17} | 判据")
+rows = []
+for mu_d in [0.01, 0.03, 0.06, 0.10, 0.15]:
+    for mu_b in [0.001, 0.0]:
+        C.MU_D, C.MU_B = mu_d, mu_b
+        U = C.L_BAD * mu_d
+        r = {}
+        for kind in ["static", "shifting"]:
+            rs = [C.run(kind, s) for s in SEEDS]
+            ok = [x for x in rs if not x["extinct"] and x["final_asex_frac"] is not None]
+            r[kind] = round(statistics.mean(x["final_asex_frac"] for x in ok), 4) if ok else None
+        # 判据: 时变世界下无性占比 < 0.5 视为性翻盘
+        verdict = "SEX WINS" if r["shifting"] is not None and r["shifting"] < 0.5 else "asex holds"
+        rows.append((mu_d, mu_b, U, r["static"], r["shifting"], verdict))
+        print(f"{mu_d:>6.3f}{mu_b:>7.3f}{U:>6.2f} | "
+              f"{_fmt(r['static']):>17}{_fmt(r['shifting']):>17} | {verdict}")
+
+print()
+print("=== 有性翻盘是否出现 ===")
+wins = [x for x in rows if x[5] == "SEX WINS"]
+print(f"  扫描 10 格，性翻盘 {len(wins)} 格")
+if not wins:
+    print("  -> 在本模型与参数范围内，two-fold cost 始终压倒重组收益")
+    print("  -> 不主张『性无价值』，只主张『本模型未复现性的胜利』")
+shifts = [x[4] for x in rows if x[4] is not None]
+if shifts:
+    print(f"  时变世界无性占比范围 {min(shifts):.4f} ~ {max(shifts):.4f}")

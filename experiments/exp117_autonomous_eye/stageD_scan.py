@@ -1,1 +1,139 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTE3IMK3IOmYtuautSBEOiDlhajpgJrpgZPmiavmj48g4oCU4oCUIOi/meWPsOacuuWZqOS4iuWIsOW6leacieWHoOWPquecvOedmwoK5a+56Zi25q61Qeetm+WHuueahOWFqOmDqCLnqLPlrprpgJrpgZMiICsgZmIwLCDnu5/kuIDot5HlkIzkuIDlpZfmo4DpqowsIOS4jemihOiuvuetlOahiDoKICAgIFMxIOWTjeW6lOaApyAgIOaIkeaJsOWKqOaXtiwg5L2g5Y+Y5LiN5Y+YCiAgICBTMiDlj6/pgIbmgKcgICDmibDliqjmkqTmjonlkI4sIOS9oOWbnuS4jeWbnuW+l+WOuyAgICjov5nmnaHmiornnLznnZvlkozpkp/ooajliIblvIApCiAgICBTMyDlj6/or4HkvKogICDkvaDnmoTliKTmja7og73kuI3og73lkIzml7bkuqfnlJ/nnJ/lkozlgYcKCuS4ieadoeWFqOi/hyA9IOecvOedm+OAgue8uuS4gOadoemZjee6pywg5bm257uZ5Ye66ZmN57qn55CG55Sx44CCCiIiIgppbXBvcnQgb3MsIHJlLCBqc29uLCB0aW1lLCBzaWduYWwKaW1wb3J0IG51bXB5IGFzIG5wCgpPVVQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTE3X2F1dG9ub21vdXNfZXllIgpGQiA9ICIvZGV2L2ZiMCI7IFcsIEggPSAxMDI0LCA3NjgKc2lnbmFsLnNpZ25hbChzaWduYWwuU0lHQUxSTSwgbGFtYmRhIHMsIGY6IChfIGZvciBfIGluICgpKS50aHJvdyhUaW1lb3V0RXJyb3IoKSkpCk5VTSA9IHJlLmNvbXBpbGUocmIiLT9cZCtcLj9cZCooPzpbZUVdWy0rXT9cZCspPyIpCgpkZWYgcmVhZF9wcm9jKHAsIG49NDA5Nik6CiAgICBzaWduYWwuYWxhcm0oMykKICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4ocCwgInJiIiwgYnVmZmVyaW5nPTApIGFzIGY6CiAgICAgICAgICAgIHRyeTogb3Muc2V0X2Jsb2NraW5nKGYuZmlsZW5vKCksIEZhbHNlKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCiAgICAgICAgICAgIHRyeTogZCA9IGYucmVhZChuKQogICAgICAgICAgICBleGNlcHQgKEJsb2NraW5nSU9FcnJvciwgT1NFcnJvcik6IHJldHVybiBOb25lCiAgICBleGNlcHQgVGltZW91dEVycm9yOiByZXR1cm4gTm9uZQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIE5vbmUKICAgIGZpbmFsbHk6IHNpZ25hbC5hbGFybSgwKQogICAgaWYgbm90IGQ6IHJldHVybiBOb25lCiAgICB2ID0gW10KICAgIGZvciBtIGluIE5VTS5maW5kYWxsKGQpWzozMDBdOgogICAgICAgIHRyeTogdi5hcHBlbmQoZmxvYXQobSkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwogICAgcmV0dXJuIG5wLmFycmF5KHYpIGlmIHYgZWxzZSBOb25lCgpkZWYgcmVhZF9mYigpOgogICAgd2l0aCBvcGVuKEZCLCAicmIiLCBidWZmZXJpbmc9MCkgYXMgZjoKICAgICAgICByYXcgPSBmLnJlYWQoVyAqIEggKiA0KQogICAgYSA9IG5wLmZyb21idWZmZXIocmF3LCBucC51aW50OCkucmVzaGFwZShILCBXLCA0KQogICAgbHVtID0gYVsuLi4sIDozXS5hc3R5cGUobnAuZmxvYXQzMikubWVhbihheGlzPTIpCiAgICByZXR1cm4gbnAuYXJyYXkoW2x1bS5tZWFuKCksIGx1bS5zdGQoKSwKICAgICAgICAgICAgICAgICAgICAgZmxvYXQobnAuYWJzKG5wLmRpZmYobHVtLCBheGlzPTEpKS5tZWFuKCkgKyBucC5hYnMobnAuZGlmZihsdW0sIGF4aXM9MCkpLm1lYW4oKSksCiAgICAgICAgICAgICAgICAgICAgIGZsb2F0KChsdW0gPiAyMDApLnN1bSgpKV0pCgpkZWYgcGFpbnQoayk6CiAgICBpbWcgPSBucC56ZXJvcygoSCwgVywgNCksIG5wLnVpbnQ4KQogICAgeXksIHh4ID0gbnAubWdyaWRbMDpILCAwOlddCiAgICBpZiBrID09IDA6ICAgdiA9IG5wLmZ1bGwoKEgsIFcpLCAxMjgsIG5wLnVpbnQ4KQogICAgZWxpZiBrID09IDE6IHYgPSAoKHh4IC8vIDE2KSAlIDIgKiAyNTUpLmFzdHlwZShucC51aW50OCkKICAgIGVsc2U6ICAgICAgICB2ID0gKCgoeHggLy8gMTYpICsgKHl5IC8vIDE2KSkgJSAyICogMjU1KS5hc3R5cGUobnAudWludDgpCiAgICBpbWdbLi4uLCAwXSA9IHY7IGltZ1suLi4sIDFdID0gdjsgaW1nWy4uLiwgMl0gPSB2OyBpbWdbLi4uLCAzXSA9IDI1NQogICAgd2l0aCBvcGVuKEZCLCAid2IiLCBidWZmZXJpbmc9MCkgYXMgZjoKICAgICAgICBmLndyaXRlKGltZy50b2J5dGVzKCkpCgpkZWYgYnVzeShrKToKICAgIG4gPSBpbnQoNDAgKiAoMiAqKiBrKSk7IGEgPSBucC5yYW5kb20uUmFuZG9tU3RhdGUoMCkucmFuZChuLCBuKQogICAgcmV0dXJuIGZsb2F0KChhIEAgYS5UKS5zdW0oKSkKCmRlZiBzY29yZShzZXFfdmFscyk6CiAgICAiIiJzZXE6IOW8sS/kuK0v5by6L+S4rS/lvLEg55qE6K+75pWw5bqP5YiXKOagh+mHjynjgILov5Tlm54g5ZON5bqU5bmF5bqmL+WPr+mAhuW6puOAgiIiIgogICAgeCA9IG5wLmFycmF5KFt2IGZvciB2IGluIHNlcV92YWxzXSwgZHR5cGU9bnAuZmxvYXQ2NCkKICAgIGlmIG5vdCBucC5hbGwobnAuaXNmaW5pdGUoeCkpOgogICAgICAgIHJldHVybiBOb25lCiAgICBybmcgPSB4Lm1heCgpIC0geC5taW4oKQogICAgaWYgcm5nIDwgMWUtMTI6CiAgICAgICAgcmV0dXJuIHsiYW1wIjogMC4wLCAicmV2IjogZmxvYXQoIm5hbiIpLCAicm5nIjogMC4wLCAibW9ubyI6IEZhbHNlfQogICAgcmVzaWQgPSBhYnMoeFstMV0gLSB4WzBdKSAvIHJuZwogICAgbW9ub191cCA9IGFsbCh4W2kgKyAxXSA+PSB4W2ldIC0gMWUtOSBmb3IgaSBpbiByYW5nZShsZW4oeCkgLSAxKSkKICAgIHJldHVybiB7ImFtcCI6IGZsb2F0KHJuZyksICJyZXYiOiBmbG9hdCgxLjAgLSByZXNpZCksICJybmciOiBmbG9hdChybmcpLAogICAgICAgICAgICAicmVzaWQiOiBmbG9hdChyZXNpZCksICJtb25vIjogYm9vbChtb25vX3VwKX0KCmRlZiBtYWluKCk6CiAgICB0MCA9IHRpbWUudGltZSgpCiAgICByb3dzID0ganNvbi5sb2FkKG9wZW4oZiJ7T1VUfS9zdGFnZUFfcHJvYy5qc29uIikpCiAgICBjaGFucyA9IFtyWyJwYXRoIl0gZm9yIHIgaW4gcm93cyBpZiByWyJzdGF0dXMiXSA9PSAicmVhZGFibGUiXQogICAgc2VxID0gWzAsIDEsIDIsIDEsIDBdCiAgICBwcmludChmIlvpmLbmrrVEXSDnu5/kuIDmo4Dpqowge2xlbihjaGFucyl9IOadoSAvcHJvYyDpgJrpgZMgKyBmYjAiLCBmbHVzaD1UcnVlKQoKICAgIG91dCA9IFtdCiAgICAjIC0tLS0gZmIwICjmoIfph4/lj5bovrnnvJjlr4bluqYpCiAgICBmYl9zZXEgPSBbXQogICAgZm9yIGsgaW4gc2VxOgogICAgICAgIHBhaW50KGspOyBmYl9zZXEuYXBwZW5kKHJlYWRfZmIoKVsyXSkKICAgIGZiX3MgPSBzY29yZShmYl9zZXEpCiAgICBvdXQuYXBwZW5kKHsiY2giOiAiL2Rldi9mYjAiLCAiZG9tYWluIjogInZpc3VhbCIsICJzZXEiOiBbZmxvYXQoeCkgZm9yIHggaW4gZmJfc2VxXSwgKipmYl9zLAogICAgICAgICAgICAgICAgInJlc3BvbmQiOiBmYl9zWyJhbXAiXSA+IDEuMCwgInJldmVyc2libGUiOiAoZmJfc1sicmV2Il0gPT0gZmJfc1sicmV2Il0pIGFuZCBmYl9zWyJyZXYiXSA+IDAuOTUsCiAgICAgICAgICAgICAgICAiZmFsc2lmaWFibGUiOiBUcnVlfSkKCiAgICAjIC0tLS0gL3Byb2M6IOeUqCLmlbDlgLzlkJHph4/lkowi5L2c5qCH6YePCiAgICBmb3IgcCBpbiBjaGFuczoKICAgICAgICB2YWxzID0gW10KICAgICAgICBvayA9IFRydWUKICAgICAgICBmb3IgayBpbiBzZXE6CiAgICAgICAgICAgIGJ1c3koaykKICAgICAgICAgICAgdiA9IHJlYWRfcHJvYyhwKQogICAgICAgICAgICBpZiB2IGlzIE5vbmU6IG9rID0gRmFsc2U7IGJyZWFrCiAgICAgICAgICAgIHZhbHMuYXBwZW5kKGZsb2F0KHZbOjUwXS5zdW0oKSkpCiAgICAgICAgaWYgbm90IG9rOiBjb250aW51ZQogICAgICAgIHMgPSBzY29yZSh2YWxzKQogICAgICAgIGlmIHMgaXMgTm9uZTogY29udGludWUKICAgICAgICBhbXBfb2sgPSBzWyJhbXAiXSA+IDAKICAgICAgICBvdXQuYXBwZW5kKHsiY2giOiBwLCAiZG9tYWluIjogInByb2MiLCAic2VxIjogW2Zsb2F0KHgpIGZvciB4IGluIHZhbHNdLAogICAgICAgICAgICAgICAgICAgICoqcywgInJlc3BvbmQiOiBhbXBfb2ssCiAgICAgICAgICAgICAgICAgICAgInJldmVyc2libGUiOiAoc1sicmV2Il0gPT0gc1sicmV2Il0pIGFuZCBzWyJyZXYiXSA+IDAuOTUgYW5kIGFtcF9vaywKICAgICAgICAgICAgICAgICAgICAiZmFsc2lmaWFibGUiOiBGYWxzZX0pCgogICAgZXllcyA9IFtyIGZvciByIGluIG91dCBpZiByWyJyZXNwb25kIl0gYW5kIHJbInJldmVyc2libGUiXSBhbmQgclsiZmFsc2lmaWFibGUiXV0KICAgIGNsb2NrcyA9IFtyIGZvciByIGluIG91dCBpZiByWyJyZXNwb25kIl0gYW5kIG5vdCByWyJyZXZlcnNpYmxlIl1dCiAgICBkZWFkID0gW3IgZm9yIHIgaW4gb3V0IGlmIG5vdCByWyJyZXNwb25kIl1dCgogICAgcHJpbnQoZiJcbuaAu+mAmumBkyB7bGVuKG91dCl9IiwgZmx1c2g9VHJ1ZSkKICAgIHByaW50KGYiICDkuInmnaHlhajov4co55y8552bKSAgICAgIDoge2xlbihleWVzKX0iLCBmbHVzaD1UcnVlKQogICAgcHJpbnQoZiIgIOS8muWPmOS9huS4jeWPr+mAhijpkp/ooagpICA6IHtsZW4oY2xvY2tzKX0iLCBmbHVzaD1UcnVlKQogICAgcHJpbnQoZiIgIOaIkeWKqOS6huWug+S5n+S4jeWKqCjmrbspICA6IHtsZW4oZGVhZCl9IiwgZmx1c2g9VHJ1ZSkKCiAgICBwcmludCgiXG4tLS0g5Lya5Y+Y55qE6YCa6YGTLCDmjInlj6/pgIbluqbmjpLluo8gLS0tIiwgZmx1c2g9VHJ1ZSkKICAgIHByaW50KGYiICB7J+mAmumBkyc6MzBzfSB7J+WTjeW6lOW5heW6pic6PjEyc30geyflj6/pgIbluqYnOj44c30geyfmnKvmgIHmrovlt64nOj4xMHN9IHsn5Y2V6LCD5aKeJzo+NnN9IiwgZmx1c2g9VHJ1ZSkKICAgIG12ID0gW3IgZm9yIHIgaW4gb3V0IGlmIHJbInJlc3BvbmQiXV0KICAgIG12LnNvcnQoa2V5PWxhbWJkYSByOiAoLShyWyJyZXYiXSBpZiByWyJyZXYiXSA9PSByWyJyZXYiXSBlbHNlIC0xKSkpCiAgICBmb3IgciBpbiBtdls6MTRdOgogICAgICAgIHJldiA9IHJbInJldiJdIGlmIHJbInJldiJdID09IHJbInJldiJdIGVsc2UgZmxvYXQoIm5hbiIpCiAgICAgICAgcHJpbnQoZiIgIHtyWydjaCddWzoyOF06MjhzfSB7clsnYW1wJ106MTIuM2V9IHtyZXY6OC4zZn0ge3IuZ2V0KCdyZXNpZCcsMCk6MTAuM2Z9ICIKICAgICAgICAgICAgICBmInsn5pivJyBpZiByWydtb25vJ10gZWxzZSAn5ZCmJzo+NnN9IiwgZmx1c2g9VHJ1ZSkKCiAgICBwcmludCgiXG4tLS0g55y8552bKOS4ieadoeWFqOi/hykgLS0tIiwgZmx1c2g9VHJ1ZSkKICAgIGZvciByIGluIGV5ZXM6CiAgICAgICAgcHJpbnQoZiIgIHtyWydjaCddfSAg5Y+v6YCG5bqmPXtyWydyZXYnXTouNGZ9ICDlk43lupTluYXluqY9e3JbJ2FtcCddOi4zZX0iLCBmbHVzaD1UcnVlKQogICAgaWYgbm90IGV5ZXM6CiAgICAgICAgcHJpbnQoIiAgKOaXoCkiLCBmbHVzaD1UcnVlKQoKICAgIGpzb24uZHVtcCh7ImFsbCI6IG91dCwgIm5fZXllcyI6IGxlbihleWVzKSwgIm5fY2xvY2tzIjogbGVuKGNsb2NrcyksICJuX2RlYWQiOiBsZW4oZGVhZCl9LAogICAgICAgICAgICAgIG9wZW4oZiJ7T1VUfS9zdGFnZUQuanNvbiIsICJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludChmIlxuW+iAl+aXtl0ge3RpbWUudGltZSgpLXQwOi4xZn1zIiwgZmx1c2g9VHJ1ZSkKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp117 · 阶段 D: 全通道扫描 —— 这台机器上到底有几只眼睛
+
+对阶段A筛出的全部"稳定通道" + fb0, 统一跑同一套检验, 不预设答案:
+    S1 响应性   我扰动时, 你变不变
+    S2 可逆性   扰动撤掉后, 你回不回得去   (这条把眼睛和钟表分开)
+    S3 可证伪   你的判据能不能同时产生真和假
+
+三条全过 = 眼睛。缺一条降级, 并给出降级理由。
+"""
+import os, re, json, time, signal
+import numpy as np
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp117_autonomous_eye"
+FB = "/dev/fb0"; W, H = 1024, 768
+signal.signal(signal.SIGALRM, lambda s, f: (_ for _ in ()).throw(TimeoutError()))
+NUM = re.compile(rb"-?\d+\.?\d*(?:[eE][-+]?\d+)?")
+
+def read_proc(p, n=4096):
+    signal.alarm(3)
+    try:
+        with open(p, "rb", buffering=0) as f:
+            try: os.set_blocking(f.fileno(), False)
+            except Exception: pass
+            try: d = f.read(n)
+            except (BlockingIOError, OSError): return None
+    except TimeoutError: return None
+    except Exception: return None
+    finally: signal.alarm(0)
+    if not d: return None
+    v = []
+    for m in NUM.findall(d)[:300]:
+        try: v.append(float(m))
+        except Exception: pass
+    return np.array(v) if v else None
+
+def read_fb():
+    with open(FB, "rb", buffering=0) as f:
+        raw = f.read(W * H * 4)
+    a = np.frombuffer(raw, np.uint8).reshape(H, W, 4)
+    lum = a[..., :3].astype(np.float32).mean(axis=2)
+    return np.array([lum.mean(), lum.std(),
+                     float(np.abs(np.diff(lum, axis=1)).mean() + np.abs(np.diff(lum, axis=0)).mean()),
+                     float((lum > 200).sum())])
+
+def paint(k):
+    img = np.zeros((H, W, 4), np.uint8)
+    yy, xx = np.mgrid[0:H, 0:W]
+    if k == 0:   v = np.full((H, W), 128, np.uint8)
+    elif k == 1: v = ((xx // 16) % 2 * 255).astype(np.uint8)
+    else:        v = (((xx // 16) + (yy // 16)) % 2 * 255).astype(np.uint8)
+    img[..., 0] = v; img[..., 1] = v; img[..., 2] = v; img[..., 3] = 255
+    with open(FB, "wb", buffering=0) as f:
+        f.write(img.tobytes())
+
+def busy(k):
+    n = int(40 * (2 ** k)); a = np.random.RandomState(0).rand(n, n)
+    return float((a @ a.T).sum())
+
+def score(seq_vals):
+    """seq: 弱/中/强/中/弱 的读数序列(标量)。返回 响应幅度/可逆度。"""
+    x = np.array([v for v in seq_vals], dtype=np.float64)
+    if not np.all(np.isfinite(x)):
+        return None
+    rng = x.max() - x.min()
+    if rng < 1e-12:
+        return {"amp": 0.0, "rev": float("nan"), "rng": 0.0, "mono": False}
+    resid = abs(x[-1] - x[0]) / rng
+    mono_up = all(x[i + 1] >= x[i] - 1e-9 for i in range(len(x) - 1))
+    return {"amp": float(rng), "rev": float(1.0 - resid), "rng": float(rng),
+            "resid": float(resid), "mono": bool(mono_up)}
+
+def main():
+    t0 = time.time()
+    rows = json.load(open(f"{OUT}/stageA_proc.json"))
+    chans = [r["path"] for r in rows if r["status"] == "readable"]
+    seq = [0, 1, 2, 1, 0]
+    print(f"[阶段D] 统一检验 {len(chans)} 条 /proc 通道 + fb0", flush=True)
+
+    out = []
+    # ---- fb0 (标量取边缘密度)
+    fb_seq = []
+    for k in seq:
+        paint(k); fb_seq.append(read_fb()[2])
+    fb_s = score(fb_seq)
+    out.append({"ch": "/dev/fb0", "domain": "visual", "seq": [float(x) for x in fb_seq], **fb_s,
+                "respond": fb_s["amp"] > 1.0, "reversible": (fb_s["rev"] == fb_s["rev"]) and fb_s["rev"] > 0.95,
+                "falsifiable": True})
+
+    # ---- /proc: 用"数值向量和"作标量
+    for p in chans:
+        vals = []
+        ok = True
+        for k in seq:
+            busy(k)
+            v = read_proc(p)
+            if v is None: ok = False; break
+            vals.append(float(v[:50].sum()))
+        if not ok: continue
+        s = score(vals)
+        if s is None: continue
+        amp_ok = s["amp"] > 0
+        out.append({"ch": p, "domain": "proc", "seq": [float(x) for x in vals],
+                    **s, "respond": amp_ok,
+                    "reversible": (s["rev"] == s["rev"]) and s["rev"] > 0.95 and amp_ok,
+                    "falsifiable": False})
+
+    eyes = [r for r in out if r["respond"] and r["reversible"] and r["falsifiable"]]
+    clocks = [r for r in out if r["respond"] and not r["reversible"]]
+    dead = [r for r in out if not r["respond"]]
+
+    print(f"\n总通道 {len(out)}", flush=True)
+    print(f"  三条全过(眼睛)      : {len(eyes)}", flush=True)
+    print(f"  会变但不可逆(钟表)  : {len(clocks)}", flush=True)
+    print(f"  我动了它也不动(死)  : {len(dead)}", flush=True)
+
+    print("\n--- 会变的通道, 按可逆度排序 ---", flush=True)
+    print(f"  {'通道':30s} {'响应幅度':>12s} {'可逆度':>8s} {'末态残差':>10s} {'单调增':>6s}", flush=True)
+    mv = [r for r in out if r["respond"]]
+    mv.sort(key=lambda r: (-(r["rev"] if r["rev"] == r["rev"] else -1)))
+    for r in mv[:14]:
+        rev = r["rev"] if r["rev"] == r["rev"] else float("nan")
+        print(f"  {r['ch'][:28]:28s} {r['amp']:12.3e} {rev:8.3f} {r.get('resid',0):10.3f} "
+              f"{'是' if r['mono'] else '否':>6s}", flush=True)
+
+    print("\n--- 眼睛(三条全过) ---", flush=True)
+    for r in eyes:
+        print(f"  {r['ch']}  可逆度={r['rev']:.4f}  响应幅度={r['amp']:.3e}", flush=True)
+    if not eyes:
+        print("  (无)", flush=True)
+
+    json.dump({"all": out, "n_eyes": len(eyes), "n_clocks": len(clocks), "n_dead": len(dead)},
+              open(f"{OUT}/stageD.json", "w"), ensure_ascii=False, indent=2)
+    print(f"\n[耗时] {time.time()-t0:.1f}s", flush=True)
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,14 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIOino+mUgeWPl+aOp+aWh+S7tuS4uuWPr+WGme+8iOS7heiQveW6k+e8lui+keaXtuS9v+eUqO+8iQojIOeUqOazle+8mmd1YXJkL3VubG9jay5zaAojIOiQveW6k+a1geeoi++8mnVubG9jayDihpIg57yW6L6RIOKGkiB2ZXJpZnkg5pu05pawIE1BTklGRVNUIOKGkiBjb21taXQg4oaSIGxvY2sKc2V0IC1lCkRJUj0iJChjZCAiJChkaXJuYW1lICIke0JBU0hfU09VUkNFWzBdfSIpLy4uIiAmJiBwd2QpIgpjZCAiJERJUiIKIyDoi6XmnInlhbbku5bov5vnqIvmraPlnKjlhpnlhaXvvIzmi5Lnu53op6PplIHvvIjlhpnplIHnuqblrprvvIkKaWYgWyAtZiBndWFyZC9MT0NLIF07IHRoZW4KICBlY2hvICJbTE9DS10g5a2Y5ZyoIGd1YXJkL0xPQ0vvvIjlj6bkuIDov5vnqIvmraPlnKjlhpnvvInvvIzmi5Lnu53op6PplIHjgILnoa7orqTml6DlhrLnqoHlkI4gcm0gZ3VhcmQvTE9DSyDlho3or5XjgIIiID4mMgogIGV4aXQgMQpmaQpjaG1vZCA2NDQgU0tJTEwubWQgcmVmZXJlbmNlcy9jYWxpYnJhdGlvbl9jYXNlcy5qc29uIHJlZmVyZW5jZXMvY29vcmRpbmF0ZV9kYXRhLmpzb24KZWNobyAi5Y+X5o6n5paH5Lu25bey6Kej6ZSB5Li65Y+v5YaZ77yINjQ077yJ44CC57yW6L6R5a6M5oiQ5ZCO77ya5pu05pawIGd1YXJkL01BTklGRVNULmpzb24g4oaSIGdpdCBjb21taXQg4oaSIGd1YXJkL2xvY2suc2gg6YeN5paw6ZSB5a6a44CCIgo=
+#!/usr/bin/env bash
+# 解锁受控文件为可写（仅落库编辑时使用）
+# 用法：guard/unlock.sh
+# 落库流程：unlock → 编辑 → verify 更新 MANIFEST → commit → lock
+set -e
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$DIR"
+# 若有其他进程正在写入，拒绝解锁（写锁约定）
+if [ -f guard/LOCK ]; then
+  echo "[LOCK] 存在 guard/LOCK（另一进程正在写），拒绝解锁。确认无冲突后 rm guard/LOCK 再试。" >&2
+  exit 1
+fi
+chmod 644 SKILL.md references/calibration_cases.json references/coordinate_data.json
+echo "受控文件已解锁为可写（644）。编辑完成后：更新 guard/MANIFEST.json → git commit → guard/lock.sh 重新锁定。"

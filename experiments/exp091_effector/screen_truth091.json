@@ -1,1 +1,14 @@
-ewogInRydXRoIjogewogICJldGFfdGhyIjogIjAuMzIiLAogICJkbWF4IjogIjkiLAogICJiYXNlIjogIjAuNTY2MiIsCiAgImV5ZSI6ICIwLjcyNTQiLAogICJoYmlhcyI6ICIwLjU2NDEiLAogICJocmFuZCI6ICIwLjcwMjgiLAogICJmbGlwX2xvIjogIjE0LjUiLAogICJmbGlwX2hpIjogIjE5MC45IgogfSwKICJjaGVjayI6ICI5M0UyRjYiLAogInNoYTI1NiI6ICJiYWE5Mzc3NmU4ZTM4Mzc4Igp9
+{
+ "truth": {
+  "eta_thr": "0.32",
+  "dmax": "9",
+  "base": "0.5662",
+  "eye": "0.7254",
+  "hbias": "0.5641",
+  "hrand": "0.7028",
+  "flip_lo": "14.5",
+  "flip_hi": "190.9"
+ },
+ "check": "93E2F6",
+ "sha256": "baa93776e8e38378"
+}

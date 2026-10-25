@@ -1,1 +1,39 @@
-aW1wb3J0IG9zCmltcG9ydCByZXF1ZXN0cwpmcm9tIHppcGZpbGUgaW1wb3J0IFppcEZpbGUKaW1wb3J0IGNzdgppbXBvcnQganNvbgoKQ0FQRUNfRklMRV9VUkwgPSAiaHR0cHM6Ly9jYXBlYy5taXRyZS5vcmcvZGF0YS9jc3YvMTAwMC5jc3YuemlwIgpDQVBFQ19GSUxFID0gInJlc291cmNlcy9jYXBlY19kYi5qc29uIgoKIyBEb3dubG9hZCBhbmQgZXh0cmFjdCBDQVBFQyBkYXRhCmRlZiBkb3dubG9hZF9jYXBlYygpOgogICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQoQ0FQRUNfRklMRV9VUkwpCiAgICB3aXRoIG9wZW4oIjEwMDAuY3N2LnppcCIsICd3YicpIGFzIGY6CiAgICAgICAgZi53cml0ZShyZXNwb25zZS5jb250ZW50KQogICAgd2l0aCBaaXBGaWxlKCIxMDAwLmNzdi56aXAiLCAncicpIGFzIHppcF9yZWY6CiAgICAgICAgemlwX3JlZi5leHRyYWN0YWxsKCkKICAgIG9zLnJlbW92ZSgiMTAwMC5jc3YuemlwIikKICAgIHdpdGggb3BlbigiMTAwMC5jc3YiLCAncicpIGFzIGY6CiAgICAgICAgcmVhZGVyID0gY3N2LkRpY3RSZWFkZXIoZikKICAgICAgICBjYXBlY19saXN0ID0gW3JvdyBmb3Igcm93IGluIHJlYWRlcl0KICAgIG9zLnJlbW92ZSgiMTAwMC5jc3YiKQogICAgcmV0dXJuIGNhcGVjX2xpc3QKCgojIEZvcm1hdCBDQVBFQyBkYXRhIGFuZCBzYXZlIHRvIEpTT04gZmlsZQpkZWYgZm9ybWF0X2NhcGVjKGNhcGVjX2xpc3QpOgogICAgY2FwZWNfZGF0YSA9IHt9CiAgICBmb3IgY2FwZWMgaW4gY2FwZWNfbGlzdDoKICAgICAgICBjYXBlY19kYXRhW2NhcGVjWyInSUQiXV0gPSB7Im5hbWUiOiBjYXBlY1siTmFtZSJdLCAidGVjaG5pcXVlcyI6IGNhcGVjWyJUYXhvbm9teSBNYXBwaW5ncyJdfQoKICAgIHdpdGggb3BlbihDQVBFQ19GSUxFLCAndycpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKGNhcGVjX2RhdGEsIGYsIGluZGVudD00KQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiWyFdIFTDqWzDqWNoYXJnZW1lbnQgZGVzIGRvbm7DqWVzIENBUEVDLi4uIikKICAgIGNhcGVjX2xpc3QgPSBkb3dubG9hZF9jYXBlYygpCiAgICBwcmludCgiWyFdIE1pc2Ugw6Agam91ciBkZXMgZG9ubsOpZXMgQ0FQRUMuLi4iKQogICAgZm9ybWF0X2NhcGVjKGNhcGVjX2xpc3QpCg==
+import os
+import requests
+from zipfile import ZipFile
+import csv
+import json
+
+CAPEC_FILE_URL = "https://capec.mitre.org/data/csv/1000.csv.zip"
+CAPEC_FILE = "resources/capec_db.json"
+
+# Download and extract CAPEC data
+def download_capec():
+    response = requests.get(CAPEC_FILE_URL)
+    with open("1000.csv.zip", 'wb') as f:
+        f.write(response.content)
+    with ZipFile("1000.csv.zip", 'r') as zip_ref:
+        zip_ref.extractall()
+    os.remove("1000.csv.zip")
+    with open("1000.csv", 'r') as f:
+        reader = csv.DictReader(f)
+        capec_list = [row for row in reader]
+    os.remove("1000.csv")
+    return capec_list
+
+
+# Format CAPEC data and save to JSON file
+def format_capec(capec_list):
+    capec_data = {}
+    for capec in capec_list:
+        capec_data[capec["'ID"]] = {"name": capec["Name"], "techniques": capec["Taxonomy Mappings"]}
+
+    with open(CAPEC_FILE, 'w') as f:
+        json.dump(capec_data, f, indent=4)
+
+
+if __name__ == "__main__":
+    print("[!] Téléchargement des données CAPEC...")
+    capec_list = download_capec()
+    print("[!] Mise à jour des données CAPEC...")
+    format_capec(capec_list)

@@ -1,1 +1,29 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIyMThiIOS4jeiCsuW6puaJq+aPj++8mumHjui0peW/hemhu+aYryLlrozlhajkuI3ogrIi5ZCX77yfIiIiCmltcG9ydCBudW1weSBhcyBucCwganNvbiwgb3MsIGltcG9ydGxpYi51dGlsCgpzcGVjID0gaW1wb3J0bGliLnV0aWwuc3BlY19mcm9tX2ZpbGVfbG9jYXRpb24oImUyMTgiLCBvcy5wYXRoLmpvaW4oCiAgICBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICJleHAyMTgucHkiKSkKbSA9IGltcG9ydGxpYi51dGlsLm1vZHVsZV9mcm9tX3NwZWMoc3BlYyk7IHNwZWMubG9hZGVyLmV4ZWNfbW9kdWxlKG0pCgpMRUFLUyA9IFswLjAsIDAuMDUsIDAuMTAsIDAuMjUsIDAuNTAsIDAuNzUsIDEuMDBdCnJlcyA9IFtdCmZvciBsayBpbiBMRUFLUzoKICAgIG0uTEVBSyA9IGxrCiAgICBwZWFrcywgYW1pbnMsIHJlY3MgPSBbXSwgW10sIFtdCiAgICBmb3Igc2QgaW4gcmFuZ2UobS5TRUVEUyk6CiAgICAgICAgdGgsIGFhID0gbS5ydW4oIndpbGRfbGVha3kiLCBzZCkKICAgICAgICBtdCA9IG0ubWV0cmljcyh0aCwgYWEpCiAgICAgICAgcGVha3MuYXBwZW5kKG10WyJwZWFrX2ZpcnN0Il0pOyBhbWlucy5hcHBlbmQobXRbImFfbWluIl0pOyByZWNzLmFwcGVuZChtdFsicmVjb3ZlciJdWzBdKQogICAgciA9IHsibGVhayI6IGxrLAogICAgICAgICAicGVhayI6IHJvdW5kKGZsb2F0KG5wLm1lYW4ocGVha3MpKSwgNCksCiAgICAgICAgICJhX21pbiI6IHJvdW5kKGZsb2F0KG5wLm1lYW4oYW1pbnMpKSwgNCksCiAgICAgICAgICJyZWNvdmVyIjogcm91bmQoZmxvYXQobnAubWVhbihyZWNzKSksIDEpfQogICAgcmVzLmFwcGVuZChyKQogICAgcHJpbnQoZiJsZWFrPXtsazo8NX0g6aaW5rOi5bOwIHtyWydwZWFrJ106LjNmfSB8IGFfbWluIHtyWydhX21pbiddOi4zZn0gfCDmgaLlpI0ge3JbJ3JlY292ZXInXX0g5LujIikKCmpzb24uZHVtcChyZXMsIG9wZW4ob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInJlc3VsdDIxOGIuanNvbiIpLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpLAogICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKcHJpbnQoIlxu5bey5YaZIHJlc3VsdDIxOGIuanNvbiIpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""218b 不育度扫描：野败必须是"完全不育"吗？"""
+import numpy as np, json, os, importlib.util
+
+spec = importlib.util.spec_from_file_location("e218", os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "exp218.py"))
+m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+
+LEAKS = [0.0, 0.05, 0.10, 0.25, 0.50, 0.75, 1.00]
+res = []
+for lk in LEAKS:
+    m.LEAK = lk
+    peaks, amins, recs = [], [], []
+    for sd in range(m.SEEDS):
+        th, aa = m.run("wild_leaky", sd)
+        mt = m.metrics(th, aa)
+        peaks.append(mt["peak_first"]); amins.append(mt["a_min"]); recs.append(mt["recover"][0])
+    r = {"leak": lk,
+         "peak": round(float(np.mean(peaks)), 4),
+         "a_min": round(float(np.mean(amins)), 4),
+         "recover": round(float(np.mean(recs)), 1)}
+    res.append(r)
+    print(f"leak={lk:<5} 首波峰 {r['peak']:.3f} | a_min {r['a_min']:.3f} | 恢复 {r['recover']} 代")
+
+json.dump(res, open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                 "result218b.json"), "w", encoding="utf-8"),
+          ensure_ascii=False, indent=2)
+print("\n已写 result218b.json")

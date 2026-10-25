@@ -1,1 +1,89 @@
-IiIiClRoaXMgZmlsZSBkZWZpbmVzIHRoZSBiYXNlIHNwZWNpZmljYXRpb25zIGZvciBtb2RlbHMsIGV2YWxzLCBhbmQgcnVucy4gUnVubmluZwpldmFscyBhbmQgbW9zdCBkZXZlbG9wbWVudCB3b3JrIHNob3VsZCBub3QgcmVxdWlyZSBmYW1pbGlhcml0eSB3aXRoIHRoaXMgZmlsZS4KIiIiCmltcG9ydCBiYXNlNjQKaW1wb3J0IGRhdGV0aW1lCmltcG9ydCBvcwpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKZnJvbSB0eXBpbmcgaW1wb3J0IFRZUEVfQ0hFQ0tJTkcsIEFueSwgRGljdCwgT3B0aW9uYWwsIFNlcXVlbmNlCgppZiBUWVBFX0NIRUNLSU5HOgogICAgZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmVsc2U6CiAgICBmcm9tIHB5ZGFudGljLmRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MKCgpAZGF0YWNsYXNzCmNsYXNzIENvbXBsZXRpb25GblNwZWM6CiAgICAiIiIKICAgIFNwZWNpZmljYXRpb24gZm9yIGEgQ29tcGxldGlvbkZuLgogICAgIiIiCgogICAgY2xzOiBzdHIKICAgIGFyZ3M6IE9wdGlvbmFsW0RpY3Rbc3RyLCBBbnldXSA9IE5vbmUKICAgIGtleTogT3B0aW9uYWxbc3RyXSA9IE5vbmUKICAgIGdyb3VwOiBPcHRpb25hbFtzdHJdID0gTm9uZQoKCkBkYXRhY2xhc3MKY2xhc3MgQmFzZUV2YWxTcGVjOgogICAgIiIiCiAgICBTcGVjaWZpY2F0aW9uIGZvciBhIGJhc2UgZXZhbC4KICAgICIiIgoKICAgIGlkOiBPcHRpb25hbFtzdHJdID0gTm9uZQogICAgbWV0cmljczogT3B0aW9uYWxbU2VxdWVuY2Vbc3RyXV0gPSBOb25lCiAgICBkZXNjcmlwdGlvbjogT3B0aW9uYWxbc3RyXSA9IE5vbmUKICAgIGRpc2NsYWltZXI6IE9wdGlvbmFsW3N0cl0gPSBOb25lCgogICAgIiIiCiAgICBUcnVlIGlmIGhpZ2hlciB2YWx1ZXMgYXJlIGJldHRlciwgRmFsc2UgaWYgbG93ZXIgdmFsdWVzIGFyZSBiZXR0ZXIuCiAgICBUaGlzIHNob3VsZCByZWFsbHkgYmUgcGFydCBvZiBhIG1ldHJpYywgYnV0IGl0J3MgZWFzaWVyIHRvIHB1dCBpdCBoZXJlLgogICAgIiIiCiAgICBoaWdoZXJfaXNfYmV0dGVyOiBib29sID0gVHJ1ZQoKICAgIGtleTogT3B0aW9uYWxbc3RyXSA9IE5vbmUKICAgIGdyb3VwOiBPcHRpb25hbFtzdHJdID0gTm9uZQoKCkBkYXRhY2xhc3MKY2xhc3MgRXZhbFNwZWM6CiAgICAiIiIKICAgIFNwZWNpZmljYXRpb24gZm9yIGFuIGV2YWwuCiAgICAiIiIKCiAgICBjbHM6IHN0cgogICAgcmVnaXN0cnlfcGF0aDogUGF0aAogICAgYXJnczogT3B0aW9uYWxbRGljdFtzdHIsIEFueV1dID0gTm9uZQogICAga2V5OiBPcHRpb25hbFtzdHJdID0gTm9uZQogICAgZ3JvdXA6IE9wdGlvbmFsW3N0cl0gPSBOb25lCgoKQGRhdGFjbGFzcwpjbGFzcyBFdmFsU2V0U3BlYzoKICAgICIiIgogICAgU3BlY2lmaWNhdGlvbiBmb3IgYW4gZXZhbCBzZXQuCiAgICAiIiIKCiAgICBldmFsczogU2VxdWVuY2Vbc3RyXQogICAga2V5OiBPcHRpb25hbFtzdHJdID0gTm9uZQogICAgZ3JvdXA6IE9wdGlvbmFsW3N0cl0gPSBOb25lCgoKQGRhdGFjbGFzcwpjbGFzcyBSdW5TcGVjOgogICAgY29tcGxldGlvbl9mbnM6IGxpc3Rbc3RyXQogICAgZXZhbF9uYW1lOiBzdHIKICAgIGJhc2VfZXZhbDogc3RyCiAgICBzcGxpdDogc3RyCiAgICBydW5fY29uZmlnOiBEaWN0W3N0ciwgQW55XQogICAgY3JlYXRlZF9ieTogc3RyCiAgICBydW5faWQ6IHN0ciA9IE5vbmUKICAgIGNyZWF0ZWRfYXQ6IHN0ciA9IE5vbmUKCiAgICBkZWYgX19wb3N0X2luaXRfXyhzZWxmKToKICAgICAgICBub3cgPSBkYXRldGltZS5kYXRldGltZS51dGNub3coKQogICAgICAgIHJhbmRfc3VmZml4ID0gYmFzZTY0LmIzMmVuY29kZShvcy51cmFuZG9tKDUpKS5kZWNvZGUoImFzY2lpIikKICAgICAgICBzZWxmLnJ1bl9pZCA9IG5vdy5zdHJmdGltZSgiJXklbSVkJUglTSVTIikgKyByYW5kX3N1ZmZpeAogICAgICAgIHNlbGYuY3JlYXRlZF9hdCA9IHN0cihub3cpCg==
+"""
+This file defines the base specifications for models, evals, and runs. Running
+evals and most development work should not require familiarity with this file.
+"""
+import base64
+import datetime
+import os
+from pathlib import Path
+from typing import TYPE_CHECKING, Any, Dict, Optional, Sequence
+
+if TYPE_CHECKING:
+    from dataclasses import dataclass
+else:
+    from pydantic.dataclasses import dataclass
+
+
+@dataclass
+class CompletionFnSpec:
+    """
+    Specification for a CompletionFn.
+    """
+
+    cls: str
+    args: Optional[Dict[str, Any]] = None
+    key: Optional[str] = None
+    group: Optional[str] = None
+
+
+@dataclass
+class BaseEvalSpec:
+    """
+    Specification for a base eval.
+    """
+
+    id: Optional[str] = None
+    metrics: Optional[Sequence[str]] = None
+    description: Optional[str] = None
+    disclaimer: Optional[str] = None
+
+    """
+    True if higher values are better, False if lower values are better.
+    This should really be part of a metric, but it's easier to put it here.
+    """
+    higher_is_better: bool = True
+
+    key: Optional[str] = None
+    group: Optional[str] = None
+
+
+@dataclass
+class EvalSpec:
+    """
+    Specification for an eval.
+    """
+
+    cls: str
+    registry_path: Path
+    args: Optional[Dict[str, Any]] = None
+    key: Optional[str] = None
+    group: Optional[str] = None
+
+
+@dataclass
+class EvalSetSpec:
+    """
+    Specification for an eval set.
+    """
+
+    evals: Sequence[str]
+    key: Optional[str] = None
+    group: Optional[str] = None
+
+
+@dataclass
+class RunSpec:
+    completion_fns: list[str]
+    eval_name: str
+    base_eval: str
+    split: str
+    run_config: Dict[str, Any]
+    created_by: str
+    run_id: str = None
+    created_at: str = None
+
+    def __post_init__(self):
+        now = datetime.datetime.utcnow()
+        rand_suffix = base64.b32encode(os.urandom(5)).decode("ascii")
+        self.run_id = now.strftime("%y%m%d%H%M%S") + rand_suffix
+        self.created_at = str(now)

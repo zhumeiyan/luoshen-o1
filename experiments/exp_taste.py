@@ -1,1 +1,200 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5ZGz6KeJIOKAlOKAlCDljJblrabmhJ/lj5fvvIzkuZ/mmK/jgJDliIblrZDmiYvmgKfjgJHmmrTpnLLlvpfmnIDlvbvlupXnmoTkuIDlsYIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrimIUg5LiO5YmN6Z2i5omA5pyJ5bGC55qE5qC55pys5LiN5ZCM77yaCiAgICDnnLzogLPpvLvmhJ/lj5fjgJDniannkIbph4/jgJHvvIzlkbPop4nnm7TmjqXmhJ/lj5fjgJDljJblrabplK7nmoTnq4vkvZPmnoTlnovjgJEKCuKYhSDmoLjlv4PvvJoKICDikaAg4piF4piFIOWRs+inieWcsOWbvuaYr+WBh+eahO+8iOaVmeenkeS5pue6p+WBh+i0p++8jDE5NDIg6K+v6K+R77yJCiAg4pGhIOKYheKYheKYhSDliIblrZDmiYvmgKfvvJrpmL/mlq/lt7TnlJwgTCxMIOeUnCAvIEQsRCDoi6Yg4oCU4oCUIOeUnOiLpuWujOWFqOWPjei9rAogIOKRoiDimIXimIUg6L6j5LiN5piv5ZGz6KeJ77yM5pivIFRSUFYxIOeXm+inie+8iOS4jiDimIUyNyDnmq7ogqTlkIzkuIDkuKrlj5fkvZPvvIkKICDikaMg4piFIOmjjuWRsyA9IOWRs+iniSArIOm8u+WQjuWXheinie+8iOaNj+m8u+WtkOWIhuS4jeWHuuiLueaenOa0i+iRse+8iQogIOKRpCDoi6bpmIjlgLzmmK/nlJznmoQgMS8xMjUwIOKAlOKAlCDmr5Lnianmo4DmtYsKICDikaUg5ZGz6KeJ57uG6IOe5piv5LiK55qu57uG6IOe77yMMTB+MTQg5aSp5o2i5LiA5om5CiIiIgppbXBvcnQgb3MsIHN5cywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUudGFzdGUgaW1wb3J0ICgKICAgIFRIUkVTSE9MRF9NTSwgSElMTF9OLCBUMVJfQ09VTlQsIFQyUl9DT1VOVCwgU1dFRVRORVNTX1gsCiAgICBUQVNURV9DRUxMX0xJRkVUSU1FX0RBWVMsIE9MRkFDVE9SWV9DRUxMX0xJRkVUSU1FX0RBWVMsCiAgICBUUlBWMV9USFJFU0hPTERfQywgVFJQTThfUEVBS19DLAogICAgQ0xBU1NJQ19NQVAsIFJFQUxfTUFQLAogICAgaGlsbCwgdGFzdGVfcmVzcG9uc2UsIHRocmVzaG9sZF9jdXJ2ZSwgYml0dGVyX2FkdmFudGFnZSwKICAgIHRhc3RlX21hcCwgbWFwX2Rpc2NyZXBhbmN5LAogICAgY2hpcmFsaXR5X3ZhbGVuY2UsIGFzcGFydGFtZSwgY2hpcmFsaXR5X3N3ZWVwLCBsaW1vbmVuZSwKICAgIGNoaXJhbGl0eV9raW5kcywgbm9fY2hpcmFsaXR5X2NvbnRyb2wsCiAgICB0cnB2MV90aHJlc2hvbGQsIHRycG04X3RocmVzaG9sZCwgcHVuZ2VuY3ksIGNvb2xuZXNzLCBpc190YXN0ZSwKICAgIGZsYXZvciwgcGluY2hfbm9zZSwgYXBwbGVfdnNfb25pb24sIHR1cm5vdmVyX2ZyYWN0aW9uLAogICAgYWRhcHRhdGlvbiwgc2FsdF90aGVuX3dhdGVyLCBhY2lkX2VuaGFuY2VzX3NhbHQsCikKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiPSIqODgpOyBwcmludCgiIOWRs+inie+8muebtOaOpeaEn+WPl+WIhuWtkOeri+S9k+aehOWei+eahOS4gOWxgiIpOyBwcmludCgiPSIqODgpCiAgICBvayA9IHt9CgogICAgIyAtLS0tLS0tLS0tIDEg5LqU56eN5ZGz6KeJ6ZiI5YC8IC0tLS0tLS0tLS0KICAgIHByaW50KCJcbuOAkOWunumqjDHjgJHkupTnp43ln7rmnKzlkbPop4nnmoTmo4DmtYvpmIjlgLzvvIhSRUFM77yJIikKICAgIHByaW50KCItIio4OCkKICAgIHByaW50KGYiICB7J+WRs+iniSc6PDZ9eyfpmIjlgLwobU0pJzo+MTJ9eyflj5fkvZMnOj4xMn17J1JFQUzlr7nnhacnOj4yMH0iKQogICAgbm90ZXMgPSB7IueUnCI6ICLolJfns5YgMTBtTSIsICLlkrgiOiAiTmFDbCAxMG1NIiwgIumynCI6ICJNU0cgMS41bU0iLAogICAgICAgICAgICAgIumFuCI6ICJIQ2wgMW1NIiwgIuiLpiI6ICLlpY7lroEgMC4wMDhtTSJ9CiAgICBmb3IgbSBpbiBbIueUnCIsICLlkrgiLCAi6bKcIiwgIumFuCIsICLoi6YiXToKICAgICAgICByZWMgPSAiVDJSw5cyNSIgaWYgbSA9PSAi6IumIiBlbHNlICgiRU5hQyIgaWYgbSA9PSAi5ZK4IgogICAgICAgICAgICAgIGVsc2UgKCJPVE9QMSIgaWYgbSA9PSAi6YW4IiBlbHNlICJUMVIiKSkKICAgICAgICBwcmludChmIiAge206PDZ9e1RIUkVTSE9MRF9NTVttXTo+MTJ9e3JlYzo+MTJ9e25vdGVzW21dOj4yMH0iKQogICAgYWR2ID0gYml0dGVyX2FkdmFudGFnZSgpCiAgICBva1si4pGgIOKYhSDoi6bnmoTpmIjlgLzmnIDkvY7vvIjmr5Lnianmo4DmtYvkvJjlhYjvvIkiXSA9IGJvb2woCiAgICAgICAgVEhSRVNIT0xEX01NWyLoi6YiXSA9PSBtaW4oVEhSRVNIT0xEX01NLnZhbHVlcygpKSkKICAgIG9rWyLikaEg4piFIOiLpi/nlJzpmIjlgLzmr5QgPiA1MDDvvIhSRUFMIOe6piAxMjUw77yJIl0gPSBib29sKGFkdlsi6Ium6ZiI5YC8L+eUnOmYiOWAvCJdID4gNTAwKQogICAgb2tbIuKRoiDimIUg6Ium5Y+X5L2T5pWwID4+IOeUnOWPl+S9k+e7hOWQiOaVsO+8iDI1IHZzIDHvvIkiXSA9IGJvb2woVDJSX0NPVU5UID4gMTAgKiAxKQogICAgcHJpbnQoZiJcbiAg4piFIOiLpueahOmYiOWAvCB7VEhSRVNIT0xEX01NWyfoi6YnXX0gbU3vvIzmmK/nlJwge1RIUkVTSE9MRF9NTVsn55ScJ119IG1NIOeahCAiCiAgICAgICAgICBmIjEve2Fkdlsn6Ium6ZiI5YC8L+eUnOmYiOWAvCddOi4wZn0iKQogICAgcHJpbnQoZiIgIOKYhSDoi6bmnIkge1QyUl9DT1VOVH0g56eN5Y+X5L2T77yM55Sc5Y+q5pyJIDEg56eN57uE5ZCIIikKICAgIHByaW50KCIgIOKYheKYhSDnlJzlj6rpnIDmo4DmtYvns5bvvIjkuIDnp43liIblrZDvvInvvIzoi6bopoHmo4DmtYvmiJDljYPkuIrkuIfnp43mr5LniakiKQogICAgcHJpbnQoIiAgICAg4piFIOWPl+S9k+Wkmuagt+aAp+WvueW6lOOAkOW+heajgOa1i+eJqeeahOWkmuagt+aAp+OAkeKAlOKAlCDov5nmmK/orr7orqHnuqbmnZ/vvIzkuI3mmK/lgbbnhLYiKQoKICAgICMgLS0tLS0tLS0tLSAyIOKYheKYhSDlkbPop4nlnLDlm77mmK/lgYfnmoQgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMMuOAkeKYheKYhSDlkbPop4nlnLDlm77mmK/lgYfnmoTvvIjmlZnnp5HkuabnuqflgYfotKfvvIkiKQogICAgcHJpbnQoIi0iKjg4KQogICAgcHJpbnQoZiIgIHsn6YOo5L2NJzo8OH17J+WRs+iniSc6PDZ9eyfnu4/lhbjlnLDlm74nOj4xMH17J+ecn+Wunic6PjEwfXsn5beuJzo+OH0iKQogICAgd29yc3QgPSBtYXBfZGlzY3JlcGFuY3koKQogICAgZm9yIHNpdGUgaW4gUkVBTF9NQVA6CiAgICAgICAgZm9yIG1vZCBpbiBbIueUnCIsICLlkrgiLCAi6YW4IiwgIuiLpiJdOgogICAgICAgICAgICBjID0gdGFzdGVfbWFwKHNpdGUsIG1vZCwgcmVhbD1GYWxzZSkKICAgICAgICAgICAgciA9IHRhc3RlX21hcChzaXRlLCBtb2QsIHJlYWw9VHJ1ZSkKICAgICAgICAgICAgbWFyayA9ICIgIOKYhSIgaWYgKHNpdGUsIG1vZCkgPT0gKHdvcnN0WyJzaXRlIl0sIHdvcnN0WyJtb2RhbGl0eSJdKSBlbHNlICIiCiAgICAgICAgICAgIHByaW50KGYiICB7c2l0ZTo8OH17bW9kOjw2fXtjOj4xMC4yZn17cjo+MTAuMmZ9e3ItYzo+OC4yZn17bWFya30iKQogICAgbnpfY2xhc3NpYyA9IHN1bSgxIGZvciBzIGluIENMQVNTSUNfTUFQIGZvciBtIGluIENMQVNTSUNfTUFQW3NdCiAgICAgICAgICAgICAgICAgICAgIGlmIENMQVNTSUNfTUFQW3NdW21dID4gMCkKICAgIG56X3JlYWwgPSBzdW0oMSBmb3IgcyBpbiBSRUFMX01BUCBmb3IgbSBpbiBSRUFMX01BUFtzXSBpZiBSRUFMX01BUFtzXVttXSA+IDApCiAgICBva1si4pGjIOKYhSDnu4/lhbjlnLDlm77lj6rmnIkgNC8xNiDmoLzpnZ7pm7bvvIjnu53lr7nliIbljLrvvIkiXSA9IGJvb2wobnpfY2xhc3NpYyA9PSA0KQogICAgb2tbIuKRpCDimIUg55yf5a6e5Zyw5Zu+IDE2LzE2IOagvOWFqOmdnumbtu+8iOaJgOacieWMuuWfn+aJgOacieWRs+inie+8iSJdID0gYm9vbChuel9yZWFsID09IDE2KQogICAgb2tbIuKRpSDimIUg6IiM5qC555Sc77ya57uP5YW4IDDvvIznnJ/lrp4gPjAuNSJdID0gYm9vbCgKICAgICAgICB0YXN0ZV9tYXAoIuiIjOaguSIsICLnlJwiLCBGYWxzZSkgPT0gMCBhbmQgdGFzdGVfbWFwKCLoiIzmoLkiLCAi55ScIiwgVHJ1ZSkgPiAwLjUpCiAgICBhbGx2ID0gW1JFQUxfTUFQW3NdW21dIGZvciBzIGluIFJFQUxfTUFQIGZvciBtIGluIFJFQUxfTUFQW3NdXQogICAgb2tbIuKRpiDimIUg55yf5a6e5pWP5oSf5bqm5p6B5beuIDwgMiDlgI3vvIhIw6RuaWcg5Y6f5rWL5piv55u45a+56YeP77yJIl0gPSBib29sKAogICAgICAgIG1heChhbGx2KSAvIG1pbihhbGx2KSA8IDIuMCkKICAgIHByaW50KGYiXG4gIOKYhSDnu4/lhbjlnLDlm77mlq3oqIDvvJroiIzmoLnlsJ3kuI3lh7rnlJzvvIgwLjAw77yJIikKICAgIHByaW50KGYiICDimIUg55yf5a6e77ya6IiM5qC555Sc5ZGz5pWP5oSf5bqmIHt0YXN0ZV9tYXAoJ+iIjOaguScsJ+eUnCcsVHJ1ZSk6LjJmfSDigJTigJQg5bCd5b6X5Ye6IikKICAgIHByaW50KGYiICDimIUg5p2l5rqQ77yaMTkwMSBIw6RuaWcg5rWL55qE5piv44CQ55u45a+55pWP5oSf5bqm44CR77yMMTk0MiBCb3Jpbmcg6Iux6K+R5pe2IikKICAgIHByaW50KGYiICAgICAgICDmiornm7jlr7nph4/nlLvmiJDkuobjgJDnu53lr7nliIbljLrlm77jgJHvvIzku47mraTmtYHkvKAiKQogICAgcHJpbnQoIiAg4piF4piFIOS4jiDimIUyNifop6PliZbmiYvmgKfiiaDlip/og73miYvmgKcn5ZCM5LiA57G777ya5pWZ56eR5Lmm5LiK55qE5Zu+IOKJoCDnnJ/lrp7mnLrliLYiKQoKICAgICMgLS0tLS0tLS0tLSAzIOKYheKYheKYhSDliIblrZDmiYvmgKcgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMM+OAkeKYheKYheKYhSDliIblrZDmiYvmgKfvvJrpmL/mlq/lt7TnlJznmoTnlJzoi6blj43ovawiKQogICAgcHJpbnQoIi0iKjg4KQogICAgcHJpbnQoZiIgIHsn5omL5oCnYyc6Pjh9eyfnlJzluqYnOj4xMH17J+iLpuW6pic6PjEwfXsn5YeA5Lu35oCBJzo+MTJ9eyfmhJ/nn6UnOj44fSIpCiAgICBmb3IgYyBpbiBbMS4wLCAwLjUsIDAuMCwgLTAuNSwgLTEuMF06CiAgICAgICAgYSA9IGFzcGFydGFtZShjKQogICAgICAgIHByaW50KGYiICB7Yzo+KzguMWZ9e2FbJ3N3ZWV0J106PjEwLjJmfXthWydiaXR0ZXInXTo+MTAuMmZ9IgogICAgICAgICAgICAgIGYie2FbJ3ZhbGVuY2UnXTo+KzEyLjJmfXthWydwZXJjZXB0J106Pjh9IikKICAgIHAsIG4gPSBhc3BhcnRhbWUoKzEuMCksIGFzcGFydGFtZSgtMS4wKQogICAgb2tbIuKRpyDimIXimIUgTCxMKGM9KzEpIOWIpOS4uueUnO+8jEQsRChjPeKIkjEpIOWIpOS4uuiLpiJdID0gYm9vbCgKICAgICAgICBwWyJwZXJjZXB0Il0gPT0gIueUnCIgYW5kIG5bInBlcmNlcHQiXSA9PSAi6IumIikKICAgIG9rWyLikagg4piF4piFIOS7t+aAgeespuWPt+WcqOaJi+aAp+e/u+i9rOaXtuOAkOWPjei9rOOAkSJdID0gYm9vbCgKICAgICAgICBwWyJ2YWxlbmNlIl0gPiAwIGFuZCBuWyJ2YWxlbmNlIl0gPCAwKQogICAgc3cgPSBjaGlyYWxpdHlfc3dlZXAoKQogICAgIyDimIUg56ys5LiA54mI5YaZIG5wLmFsbChucC5kaWZmKHZhbGVuY2UpIDwgMCnvvJpjIOS7jiDiiJIxIOWIsCArMe+8jOS7t+aAgeaYr+OAkOmAkuWinuOAkeeahAogICAgIyAgIOKGkiDmlrnlkJHlhpnlj43vvIzliKTmja7lv4XnhLblpLHotKUKICAgIG9rWyLikakg4piFIOS7t+aAgemaj+aJi+aAp+WNleiwg+WPmOWMlu+8iOaXoOi3s+WPmO+8iSJdID0gYm9vbCgKICAgICAgICBucC5hbGwobnAuZGlmZihzd1sidmFsZW5jZSJdKSA+IDApKQogICAgY3RybCA9IG5vX2NoaXJhbGl0eV9jb250cm9sKCkKICAgIG9rWyLikaog4piF4piFIOWvueeFp++8muWOu+aOieaJi+aAp+e7tOW6pihjPTApIOKGkiDkuI3og73lj43ovazvvIjku7fmgIHmgZLmraPvvIkiXSA9IGJvb2woCiAgICAgICAgbm90IGN0cmxbInJldmVyc2libGUiXSBhbmQgY3RybFsidmFsZW5jZSJdID4gMCkKICAgIHByaW50KGYiXG4gIOKYhSDlkIzkuIDkuKrliIblrZDlvI/jgIHlkIzmoLfnmoTljp/lrZDnu4TmiJDvvJoiKQogICAgcHJpbnQoZiIgICAgTCxMIOKGkiDnlJwge3BbJ3N3ZWV0J106LjBmfcOX6JSX57OWICAgICAgRCxEIOKGkiDoi6Yge25bJ2JpdHRlciddOi4wZn0iKQogICAgcHJpbnQoZiIgIOKYhSDljrvmjonmiYvmgKfnu7TluqbvvIznlJzoi6blsLHplIHmrbvkuobvvIhjPTAg5pe25Lu35oCBIHtjdHJsWyd2YWxlbmNlJ106Ky4yZn0g5oGS5q2j77yJIikKICAgIHByaW50KCIgIOKYheKYhSDmiYvmgKfnu7TluqbmmK/jgJDlv4XpnIDjgJHnmoQg4oCU4oCUIOayoeacieWug+WwseS6p+eUn+S4jeS6hui/meS4queOsOixoSIpCiAgICBraW5kcyA9IGNoaXJhbGl0eV9raW5kcygpCiAgICBwcmludChmIlxuICDimIUg5Lik56eN5omL5oCn5pWI5bqU6KaB5Yy65YiG77yaIikKICAgIHByaW50KGYiICAgIOmYv+aWr+W3tOeUnCA9IOOAkOS7t+aAgeWPjei9rOOAkXtraW5kc1sn6Zi/5pav5be055ScJ11bJ0wsTCddfSDihpQge2tpbmRzWyfpmL/mlq/lt7TnlJwnXVsnRCxEJ119IikKICAgIHByaW50KGYiICAgIOafoOaqrOeDryAgID0g44CQ6Lqr5Lu95Y+Y5YyW44CRe2tpbmRzWyfmn6Dmqqzng68nXVsnUigrKSddfSDihpQge2tpbmRzWyfmn6Dmqqzng68nXVsnUygtKSddfSIpCiAgICBva1si4pGrIOKYhSDmn6Dmqqzng6/mmK/ouqvku73lj5jljJbvvIjpg73mmK/lpb3msJTlkbPvvInvvIzkuI3mmK/ku7fmgIHlj43ovawiXSA9IGJvb2woCiAgICAgICAgbGltb25lbmUoKzEuMCkgIT0gbGltb25lbmUoLTEuMCkpCiAgICBwcmludCgiICDimIXimIUg5aSp54S25rCo5Z+66YW45YWo5pivIEwg5Z6L77yM5aSp54S257OW5YWo5pivIEQg5Z6LIOKAlOKAlCDnlJ/lkb3mnKzouqvlsLHmmK/miYvmgKfnmoQiKQoKICAgICMgLS0tLS0tLS0tLSA0IOKYheKYhSDovqPkuI3mmK/lkbPop4kgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMNOOAkeKYheKYhSDovqPkuI3mmK/lkbPop4nvvIzmmK/nl5vop4nvvIhUUlBWMe+8iSIpCiAgICBwcmludCgiLSIqODgpCiAgICBwcmludChmIiAgeyfovqPmpJLntKAozrxNKSc6PjEyfXsnVFJQVjHpmIjlgLwowrBDKSc6PjE2fXsn6L6j5bqmKDM3wrBDKSc6PjE0fSIpCiAgICBmb3IgY2FwIGluIFswLCAxLCAyLCA1LCAxMCwgMjBdOgogICAgICAgIHByaW50KGYiICB7Y2FwOj4xMn17dHJwdjFfdGhyZXNob2xkKGNhcCk6PjE2LjFmfXtwdW5nZW5jeShjYXApOj4xNC4yZn0iKQogICAgb2tbIuKRrCDimIUg5peg6L6j5qSS57Sg5pe26ZiI5YC8IDQzwrBDID4g5L2T5ripIDM3wrBDIOKGkiDkuI3ovqMiXSA9IGJvb2woCiAgICAgICAgdHJwdjFfdGhyZXNob2xkKDApID4gMzcuMCBhbmQgcHVuZ2VuY3koMCkgPT0gMC4wKQogICAgb2tbIuKRrSDimIUg6L6j5qSS57Sg5oqK6ZiI5YC85ouJ5Yiw5L2T5rip5Lul5LiLIOKGkiDovqMiXSA9IGJvb2woCiAgICAgICAgdHJwdjFfdGhyZXNob2xkKDEwKSA8IDM3LjAgYW5kIHB1bmdlbmN5KDEwKSA+IDApCiAgICBwcmludChmIlxuICB7J+iWhOiNt+mGhyhtTSknOj4xMn17J1RSUE046ZiI5YC8KMKwQyknOj4xNn17J+WHieW6pigzN8KwQyknOj4xNH0iKQogICAgZm9yIG0gaW4gWzAsIDEsIDMsIDUsIDEwXToKICAgICAgICBwcmludChmIiAge206PjEyfXt0cnBtOF90aHJlc2hvbGQobSk6PjE2LjFmfXtjb29sbmVzcyhtKTo+MTQuMmZ9IikKICAgIG9rWyLika4g4piFIOiWhOiNt+mGh+aKiiBUUlBNOCDpmIjlgLzmjqjliLDkvZPmuKnku6XkuIog4oaSIOWHiSJdID0gYm9vbCgKICAgICAgICB0cnBtOF90aHJlc2hvbGQoNSkgPiAzNy4wIGFuZCBjb29sbmVzcyg1KSA+IDApCiAgICBva1si4pGvIOKYhSDovqMv5YeJ6YO95LiN5bGe5LqO5ZGz6KeJ77yI6LWw5LiJ5Y+J56We57uPIENOIFbvvIkiXSA9IGJvb2woCiAgICAgICAgbm90IGlzX3Rhc3RlKCLovqMiKSBhbmQgbm90IGlzX3Rhc3RlKCLlh4kiKSBhbmQgaXNfdGFzdGUoIueUnCIpKQogICAgcHJpbnQoZiJcbiAg4piF4piFIOi+oyA9IFRSUFYxIOiiq+WMluWtpuaLieS9jumYiOWAvO+8iOKYhTI3IOearuiCpOeahOeDreeXm+mAmumBk++8jDQzwrBD77yJIikKICAgIHByaW50KGYiICDimIXimIUg5YeJID0gVFJQTTgg6KKr5YyW5a2m5o6o6auY6ZiI5YC877yI4piFMjcg55qu6IKk55qE5Ya36YCa6YGT77yM5bOw5YC8IDI1wrBD77yJIikKICAgIHByaW50KGYiICDimIUg6L+Z5Lik5Liq5Y+X5L2T5LiOIOKYhTI3IOearuiCpOOAkOaYr+WQjOS4gOS4quOAkeKAlOKAlCDlj6PohZTph4znmoTkvZPmhJ8iKQogICAgcHJpbnQoZiIgIOKYhSDkvKDlr7zvvJrovqPlh4notbDkuInlj4nnpZ7nu48gQ04gVu+8jOeUnOWSuOmFuOiLpumynOi1sCBDTiBWSUkvSVgvWCIpCgogICAgIyAtLS0tLS0tLS0tIDUg4piFIOmjjuWRsyAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqow144CR4piFIOmjjuWRsyA9IOWRs+iniSArIOm8u+WQjuWXheiniSIpCiAgICBwcmludCgiLSIqODgpCiAgICBmID0gZmxhdm9yKG5wLnplcm9zKDUpLCBucC56ZXJvcyg0MDApLCAwLjApCiAgICBwcmludChmIiAg5ZGz6KeJ57u05bqmIHtmWyd0YXN0ZV9kaW0nXX0gICDpvLvlkI7ll4Xop4nnu7TluqYge2ZbJ3JldHJvbmFzYWxfZGltJ119ICAgIgogICAgICAgICAgZiLlkIjorqEge2ZbJ3RvdGFsX2RpbSddfSIpCiAgICBwcmludChmIiAg5o2P6by75a2Q77yI6by75ZCO6YCa6Lev5pat77yJ4oaSIOWPquWJqSB7cGluY2hfbm9zZSgwLjApOi4wZn0g57u0IikKICAgIHByaW50KGYiICDimIUg6Iu55p6cIHZzIOa0i+iRse+8mnthcHBsZV92c19vbmlvbihUcnVlKX0gLyB7YXBwbGVfdnNfb25pb24oRmFsc2UpfSIpCiAgICBva1si4pGwIOKYhSDmjY/pvLvlrZDlkI7nu7Tluqbku44gfjQwMCDmjonliLAgNSJdID0gYm9vbChwaW5jaF9ub3NlKDAuMCkgPCAxMCkKICAgIG9rWyLikbEg4piFIOaNj+m8u+WtkOWIhuS4jeWHuuiLueaenOWSjOa0i+iRsSJdID0gYm9vbCgKICAgICAgICBhcHBsZV92c19vbmlvbihGYWxzZSkuc3RhcnRzd2l0aCgi5YiG5LiN5Ye6IikpCiAgICBwcmludCgiXG4gIOKYhSDlkbPop4nmnKzouqvlj6rmnIkgNSDkuKrnu7TluqbvvIzpo47lkbPnmoTkuLDlr4zluqblh6DkuY7jgJDlhajmnaXoh6rll4Xop4njgJEiKQogICAgcHJpbnQoIiAg4piFIOm8u+WQjumAmui3r++8iHJldHJvbmFzYWzvvInku47lj6PohZTlkI7pg6jov5vpvLvohZQiKQogICAgcHJpbnQoIiAg4piFIOS4jiDimIUyNiDpvLvlrZDlhbHnlKjlkIzkuIDlpZflj5fkvZPvvIzlj6rmmK/lhaXlj6PkuI3lkIwiKQogICAgcHJpbnQoIiAg4piFIOaEn+WGkum8u+WhnuWQg+S4nOilv+ayoeWRs+mBkyDigJTigJQg5bCx5piv6L+Z5Liq6YCa6Lev5pat5LqGIikKCiAgICAjIC0tLS0tLS0tLS0gNiDnu4bog57mm7TmlrAgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMNuOAkeKYhSDlkbPop4nnu4bog57mmK/jgJDkuIrnmq7nu4bog57jgJHvvIwxMH4xNCDlpKnmjaLkuIDmibkiKQogICAgcHJpbnQoIi0iKjg4KQogICAgcHJpbnQoZiIgIHsn5aSp5pWwJzo+OH17J+abtOaWsOavlOS+iyc6PjEyfSIpCiAgICBmb3IgZCBpbiBbMSwgMywgNywgMTIsIDIxLCAzMF06CiAgICAgICAgcHJpbnQoZiIgIHtkOj44fXtmbG9hdCh0dXJub3Zlcl9mcmFjdGlvbihucC5hcnJheShbZF0pKVswXSk6PjEyLjElfSIpCiAgICB0YXUgPSBzdW0oVEFTVEVfQ0VMTF9MSUZFVElNRV9EQVlTKSAvIDIuMAogICAgdGF1X28gPSBzdW0oT0xGQUNUT1JZX0NFTExfTElGRVRJTUVfREFZUykgLyAyLjAKICAgIG9rWyLikbIg4piFIDEyIOWkqeaXtuabtOaWsOi/h+WNiu+8iFJFQUwg5a+/5ZG9IDEwfjE0IOWkqe+8iSJdID0gYm9vbCgKICAgICAgICAwLjUgPCBmbG9hdCh0dXJub3Zlcl9mcmFjdGlvbihucC5hcnJheShbMTIuMF0pKVswXSkgPCAwLjgpCiAgICBva1si4pGzIOKYhSDlkbPop4nmm7TmlrDlv6vkuo7ll4Xop4nvvIgxMiDlpKkgdnMgNDUg5aSp77yJIl0gPSBib29sKHRhdSA8IHRhdV9vKQogICAgcHJpbnQoZiJcbiAg4piFIOWRs+iniSB7dGF1Oi4wZn0g5aSpIHZzIOWXheinie+8iOKYhTI277yJe3RhdV9vOi4wZn0g5aSpIOKAlOKAlCDlkbPop4nlv6vnuqYgIgogICAgICAgICAgZiJ7dGF1X28vdGF1Oi4xZn0g5YCNIikKICAgIHByaW50KCIgIOKYhSDljp/lm6DvvJrlj6PohZTnjq/looPmgbbliqPvvIjmuKnluqbliaflj5jjgIHmnLrmorDno6jmjZ/jgIFwSCDms6LliqjvvIkiKQoKICAgICMgLS0tLS0tLS0tLSA3IOmAguW6lOS4juWvueavlCAtLS0tLS0tLS0tCiAgICBwcmludCgiXG7jgJDlrp7pqow344CR6YCC5bqU5LiO5a+55q+U5aKe5by6IikKICAgIHByaW50KCItIio4OCkKICAgIHQgPSBucC5hcnJheShbMCwgMSwgMywgNiwgMTJdKQogICAgYSA9IGFkYXB0YXRpb24oMTAwLjAsIHQpCiAgICBwcmludChmIiAgeyfmjIHnu60ocyknOj45fXsn55Sc5ZON5bqUJzo+MTB9IikKICAgIGZvciB0dCwgdiBpbiB6aXAodCwgYSk6CiAgICAgICAgcHJpbnQoZiIgIHt0dDo+OX17djo+MTAuM2Z9IikKICAgIG9rWyIyMSDimIUg5oyB57ut5Yi65r+A5ZON5bqU6KGw5YeP77yINiDnp5LlkI4gPDEwJe+8iSJdID0gYm9vbChhWzNdIDwgMC4xKQogICAgdyA9IHNhbHRfdGhlbl93YXRlcigxMDAuMCkKICAgIG9rWyIyMiDimIXimIUg55uQ5rC05ryx5Y+j5ZCO77yM5rC044CQ5Y+Y55Sc44CR77yI5Lqk5Y+J6YCC5bqU77yJIl0gPSBib29sKHcgPiAwLjMpCiAgICBlMSA9IHRhc3RlX3Jlc3BvbnNlKDUuMCwgIuWSuCIpOyBlMiA9IGFjaWRfZW5oYW5jZXNfc2FsdCgyLjAsIDUuMCkKICAgIG9rWyIyMyDimIUg6YW46IO95aKe5by65ZK45ZGz5oSf55+lIl0gPSBib29sKGUyID4gZTEpCiAgICBwcmludChmIlxuICDimIUgMTAwbU0g55uQ5rC05ryx5Y+j5ZCO77yM57qv5rC055Sc5bqmIHt3Oi4zZn3vvIjljp/mnKwgMO+8iSIpCiAgICBwcmludChmIiAg4piFIDVtTSDlkrjlkbPvvJrnuq/lkrgge2UxOi4zZn0g4oaSIOWKoCAybU0g6YW45ZCOIHtlMjouM2Z977yIK3soZTIvZTEtMSk6LjAlfe+8iSIpCiAgICBwcmludCgiICDimIUg5bqU55So77ya5bCR5pS+55uQ77yM5Yqg54K55p+g5qqs5rGB5Lya5pi+5b6X5pu05ZK4IikKCiAgICBwcmludCgiXG4iKyI9Iio4OCk7IHByaW50KCIg5Yik5o2u5rGH5oC7Iik7IHByaW50KCI9Iio4OCkKICAgIGZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiB2IGVsc2UgJ+KdjCd9IHtrfSIpCiAgICBwcmludChmIlxuICDinIUge3N1bShvay52YWx1ZXMoKSl9L3tsZW4ob2spfSIpCiAgICBwcmludCgiXG4gIOKdjCDmnKrlu7rmqKHvvJrohILogqrlkbMob2xlb2d1c3R1cywgQ0QzNinigJTigJQg5YCZ6YCJ56ys5YWt5ZGzIikKICAgIHByaW50KCIgIOKdjCDmnKrlu7rmqKHvvJrotoXnuqflk4HlsJ3ogIUoVEFTMlIzOC9QUk9Q77yM57qmIDI1JSDkurrnvqQpIikKICAgIHByaW50KCIgIOKdjCDmnKrlu7rmqKHvvJrlkbPop4nnmoTkuK3mnqLnvJbnoIHvvIhOVFPihpJWUE1wY+KGkuWym+WPtu+8iSIpCiAgICBwcmludCgiICDimqDvuI8g6Zi/5pav5be055Sc55Sc6Ium5puy57q/55So6auY5pav6L+R5Ly877yM6Z2e55yf5a6e5YmC6YeP5Y+N5bqU5pWw5o2uIikKICAgIGpzb24uZHVtcCh7azogYm9vbCh2KSBmb3IgaywgdiBpbiBvay5pdGVtcygpfSwKICAgICAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihIRVJFLCAiLnNlbnNlIiwgInRhc3RlLmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+味觉 —— 化学感受，也是【分子手性】暴露得最彻底的一层
+==========================================================
+★ 与前面所有层的根本不同：
+    眼耳鼻感受【物理量】，味觉直接感受【化学键的立体构型】
+
+★ 核心：
+  ① ★★ 味觉地图是假的（教科书级假货，1942 误译）
+  ② ★★★ 分子手性：阿斯巴甜 L,L 甜 / D,D 苦 —— 甜苦完全反转
+  ③ ★★ 辣不是味觉，是 TRPV1 痛觉（与 ★27 皮肤同一个受体）
+  ④ ★ 风味 = 味觉 + 鼻后嗅觉（捏鼻子分不出苹果洋葱）
+  ⑤ 苦阈值是甜的 1/1250 —— 毒物检测
+  ⑥ 味觉细胞是上皮细胞，10~14 天换一批
+"""
+import os, sys, json
+import numpy as np
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.taste import (
+    THRESHOLD_MM, HILL_N, T1R_COUNT, T2R_COUNT, SWEETNESS_X,
+    TASTE_CELL_LIFETIME_DAYS, OLFACTORY_CELL_LIFETIME_DAYS,
+    TRPV1_THRESHOLD_C, TRPM8_PEAK_C,
+    CLASSIC_MAP, REAL_MAP,
+    hill, taste_response, threshold_curve, bitter_advantage,
+    taste_map, map_discrepancy,
+    chirality_valence, aspartame, chirality_sweep, limonene,
+    chirality_kinds, no_chirality_control,
+    trpv1_threshold, trpm8_threshold, pungency, coolness, is_taste,
+    flavor, pinch_nose, apple_vs_onion, turnover_fraction,
+    adaptation, salt_then_water, acid_enhances_salt,
+)
+
+if __name__ == "__main__":
+    print("="*88); print(" 味觉：直接感受分子立体构型的一层"); print("="*88)
+    ok = {}
+
+    # ---------- 1 五种味觉阈值 ----------
+    print("\n【实验1】五种基本味觉的检测阈值（REAL）")
+    print("-"*88)
+    print(f"  {'味觉':<6}{'阈值(mM)':>12}{'受体':>12}{'REAL对照':>20}")
+    notes = {"甜": "蔗糖 10mM", "咸": "NaCl 10mM", "鲜": "MSG 1.5mM",
+             "酸": "HCl 1mM", "苦": "奎宁 0.008mM"}
+    for m in ["甜", "咸", "鲜", "酸", "苦"]:
+        rec = "T2R×25" if m == "苦" else ("ENaC" if m == "咸"
+              else ("OTOP1" if m == "酸" else "T1R"))
+        print(f"  {m:<6}{THRESHOLD_MM[m]:>12}{rec:>12}{notes[m]:>20}")
+    adv = bitter_advantage()
+    ok["① ★ 苦的阈值最低（毒物检测优先）"] = bool(
+        THRESHOLD_MM["苦"] == min(THRESHOLD_MM.values()))
+    ok["② ★ 苦/甜阈值比 > 500（REAL 约 1250）"] = bool(adv["苦阈值/甜阈值"] > 500)
+    ok["③ ★ 苦受体数 >> 甜受体组合数（25 vs 1）"] = bool(T2R_COUNT > 10 * 1)
+    print(f"\n  ★ 苦的阈值 {THRESHOLD_MM['苦']} mM，是甜 {THRESHOLD_MM['甜']} mM 的 "
+          f"1/{adv['苦阈值/甜阈值']:.0f}")
+    print(f"  ★ 苦有 {T2R_COUNT} 种受体，甜只有 1 种组合")
+    print("  ★★ 甜只需检测糖（一种分子），苦要检测成千上万种毒物")
+    print("     ★ 受体多样性对应【待检测物的多样性】—— 这是设计约束，不是偶然")
+
+    # ---------- 2 ★★ 味觉地图是假的 ----------
+    print("\n【实验2】★★ 味觉地图是假的（教科书级假货）")
+    print("-"*88)
+    print(f"  {'部位':<8}{'味觉':<6}{'经典地图':>10}{'真实':>10}{'差':>8}")
+    worst = map_discrepancy()
+    for site in REAL_MAP:
+        for mod in ["甜", "咸", "酸", "苦"]:
+            c = taste_map(site, mod, real=False)
+            r = taste_map(site, mod, real=True)
+            mark = "  ★" if (site, mod) == (worst["site"], worst["modality"]) else ""
+            print(f"  {site:<8}{mod:<6}{c:>10.2f}{r:>10.2f}{r-c:>8.2f}{mark}")
+    nz_classic = sum(1 for s in CLASSIC_MAP for m in CLASSIC_MAP[s]
+                     if CLASSIC_MAP[s][m] > 0)
+    nz_real = sum(1 for s in REAL_MAP for m in REAL_MAP[s] if REAL_MAP[s][m] > 0)
+    ok["④ ★ 经典地图只有 4/16 格非零（绝对分区）"] = bool(nz_classic == 4)
+    ok["⑤ ★ 真实地图 16/16 格全非零（所有区域所有味觉）"] = bool(nz_real == 16)
+    ok["⑥ ★ 舌根甜：经典 0，真实 >0.5"] = bool(
+        taste_map("舌根", "甜", False) == 0 and taste_map("舌根", "甜", True) > 0.5)
+    allv = [REAL_MAP[s][m] for s in REAL_MAP for m in REAL_MAP[s]]
+    ok["⑦ ★ 真实敏感度极差 < 2 倍（Hänig 原测是相对量）"] = bool(
+        max(allv) / min(allv) < 2.0)
+    print(f"\n  ★ 经典地图断言：舌根尝不出甜（0.00）")
+    print(f"  ★ 真实：舌根甜味敏感度 {taste_map('舌根','甜',True):.2f} —— 尝得出")
+    print(f"  ★ 来源：1901 Hänig 测的是【相对敏感度】，1942 Boring 英译时")
+    print(f"        把相对量画成了【绝对分区图】，从此流传")
+    print("  ★★ 与 ★26'解剖手性≠功能手性'同一类：教科书上的图 ≠ 真实机制")
+
+    # ---------- 3 ★★★ 分子手性 ----------
+    print("\n【实验3】★★★ 分子手性：阿斯巴甜的甜苦反转")
+    print("-"*88)
+    print(f"  {'手性c':>8}{'甜度':>10}{'苦度':>10}{'净价态':>12}{'感知':>8}")
+    for c in [1.0, 0.5, 0.0, -0.5, -1.0]:
+        a = aspartame(c)
+        print(f"  {c:>+8.1f}{a['sweet']:>10.2f}{a['bitter']:>10.2f}"
+              f"{a['valence']:>+12.2f}{a['percept']:>8}")
+    p, n = aspartame(+1.0), aspartame(-1.0)
+    ok["⑧ ★★ L,L(c=+1) 判为甜，D,D(c=−1) 判为苦"] = bool(
+        p["percept"] == "甜" and n["percept"] == "苦")
+    ok["⑨ ★★ 价态符号在手性翻转时【反转】"] = bool(
+        p["valence"] > 0 and n["valence"] < 0)
+    sw = chirality_sweep()
+    # ★ 第一版写 np.all(np.diff(valence) < 0)：c 从 −1 到 +1，价态是【递增】的
+    #   → 方向写反，判据必然失败
+    ok["⑩ ★ 价态随手性单调变化（无跳变）"] = bool(
+        np.all(np.diff(sw["valence"]) > 0))
+    ctrl = no_chirality_control()
+    ok["⑪ ★★ 对照：去掉手性维度(c=0) → 不能反转（价态恒正）"] = bool(
+        not ctrl["reversible"] and ctrl["valence"] > 0)
+    print(f"\n  ★ 同一个分子式、同样的原子组成：")
+    print(f"    L,L → 甜 {p['sweet']:.0f}×蔗糖      D,D → 苦 {n['bitter']:.0f}")
+    print(f"  ★ 去掉手性维度，甜苦就锁死了（c=0 时价态 {ctrl['valence']:+.2f} 恒正）")
+    print("  ★★ 手性维度是【必需】的 —— 没有它就产生不了这个现象")
+    kinds = chirality_kinds()
+    print(f"\n  ★ 两种手性效应要区分：")
+    print(f"    阿斯巴甜 = 【价态反转】{kinds['阿斯巴甜']['L,L']} ↔ {kinds['阿斯巴甜']['D,D']}")
+    print(f"    柠檬烯   = 【身份变化】{kinds['柠檬烯']['R(+)']} ↔ {kinds['柠檬烯']['S(-)']}")
+    ok["⑫ ★ 柠檬烯是身份变化（都是好气味），不是价态反转"] = bool(
+        limonene(+1.0) != limonene(-1.0))
+    print("  ★★ 天然氨基酸全是 L 型，天然糖全是 D 型 —— 生命本身就是手性的")
+
+    # ---------- 4 ★★ 辣不是味觉 ----------
+    print("\n【实验4】★★ 辣不是味觉，是痛觉（TRPV1）")
+    print("-"*88)
+    print(f"  {'辣椒素(μM)':>12}{'TRPV1阈值(°C)':>16}{'辣度(37°C)':>14}")
+    for cap in [0, 1, 2, 5, 10, 20]:
+        print(f"  {cap:>12}{trpv1_threshold(cap):>16.1f}{pungency(cap):>14.2f}")
+    ok["⑬ ★ 无辣椒素时阈值 43°C > 体温 37°C → 不辣"] = bool(
+        trpv1_threshold(0) > 37.0 and pungency(0) == 0.0)
+    ok["⑭ ★ 辣椒素把阈值拉到体温以下 → 辣"] = bool(
+        trpv1_threshold(10) < 37.0 and pungency(10) > 0)
+    print(f"\n  {'薄荷醇(mM)':>12}{'TRPM8阈值(°C)':>16}{'凉度(37°C)':>14}")
+    for m in [0, 1, 3, 5, 10]:
+        print(f"  {m:>12}{trpm8_threshold(m):>16.1f}{coolness(m):>14.2f}")
+    ok["⑮ ★ 薄荷醇把 TRPM8 阈值推到体温以上 → 凉"] = bool(
+        trpm8_threshold(5) > 37.0 and coolness(5) > 0)
+    ok["⑯ ★ 辣/凉都不属于味觉（走三叉神经 CN V）"] = bool(
+        not is_taste("辣") and not is_taste("凉") and is_taste("甜"))
+    print(f"\n  ★★ 辣 = TRPV1 被化学拉低阈值（★27 皮肤的热痛通道，43°C）")
+    print(f"  ★★ 凉 = TRPM8 被化学推高阈值（★27 皮肤的冷通道，峰值 25°C）")
+    print(f"  ★ 这两个受体与 ★27 皮肤【是同一个】—— 口腔里的体感")
+    print(f"  ★ 传导：辣凉走三叉神经 CN V，甜咸酸苦鲜走 CN VII/IX/X")
+
+    # ---------- 5 ★ 风味 ----------
+    print("\n【实验5】★ 风味 = 味觉 + 鼻后嗅觉")
+    print("-"*88)
+    f = flavor(np.zeros(5), np.zeros(400), 0.0)
+    print(f"  味觉维度 {f['taste_dim']}   鼻后嗅觉维度 {f['retronasal_dim']}   "
+          f"合计 {f['total_dim']}")
+    print(f"  捏鼻子（鼻后通路断）→ 只剩 {pinch_nose(0.0):.0f} 维")
+    print(f"  ★ 苹果 vs 洋葱：{apple_vs_onion(True)} / {apple_vs_onion(False)}")
+    ok["⑰ ★ 捏鼻子后维度从 ~400 掉到 5"] = bool(pinch_nose(0.0) < 10)
+    ok["⑱ ★ 捏鼻子分不出苹果和洋葱"] = bool(
+        apple_vs_onion(False).startswith("分不出"))
+    print("\n  ★ 味觉本身只有 5 个维度，风味的丰富度几乎【全来自嗅觉】")
+    print("  ★ 鼻后通路（retronasal）从口腔后部进鼻腔")
+    print("  ★ 与 ★26 鼻子共用同一套受体，只是入口不同")
+    print("  ★ 感冒鼻塞吃东西没味道 —— 就是这个通路断了")
+
+    # ---------- 6 细胞更新 ----------
+    print("\n【实验6】★ 味觉细胞是【上皮细胞】，10~14 天换一批")
+    print("-"*88)
+    print(f"  {'天数':>8}{'更新比例':>12}")
+    for d in [1, 3, 7, 12, 21, 30]:
+        print(f"  {d:>8}{float(turnover_fraction(np.array([d]))[0]):>12.1%}")
+    tau = sum(TASTE_CELL_LIFETIME_DAYS) / 2.0
+    tau_o = sum(OLFACTORY_CELL_LIFETIME_DAYS) / 2.0
+    ok["⑲ ★ 12 天时更新过半（REAL 寿命 10~14 天）"] = bool(
+        0.5 < float(turnover_fraction(np.array([12.0]))[0]) < 0.8)
+    ok["⑳ ★ 味觉更新快于嗅觉（12 天 vs 45 天）"] = bool(tau < tau_o)
+    print(f"\n  ★ 味觉 {tau:.0f} 天 vs 嗅觉（★26）{tau_o:.0f} 天 —— 味觉快约 "
+          f"{tau_o/tau:.1f} 倍")
+    print("  ★ 原因：口腔环境恶劣（温度剧变、机械磨损、pH 波动）")
+
+    # ---------- 7 适应与对比 ----------
+    print("\n【实验7】适应与对比增强")
+    print("-"*88)
+    t = np.array([0, 1, 3, 6, 12])
+    a = adaptation(100.0, t)
+    print(f"  {'持续(s)':>9}{'甜响应':>10}")
+    for tt, v in zip(t, a):
+        print(f"  {tt:>9}{v:>10.3f}")
+    ok["21 ★ 持续刺激响应衰减（6 秒后 <10%）"] = bool(a[3] < 0.1)
+    w = salt_then_water(100.0)
+    ok["22 ★★ 盐水漱口后，水【变甜】（交叉适应）"] = bool(w > 0.3)
+    e1 = taste_response(5.0, "咸"); e2 = acid_enhances_salt(2.0, 5.0)
+    ok["23 ★ 酸能增强咸味感知"] = bool(e2 > e1)
+    print(f"\n  ★ 100mM 盐水漱口后，纯水甜度 {w:.3f}（原本 0）")
+    print(f"  ★ 5mM 咸味：纯咸 {e1:.3f} → 加 2mM 酸后 {e2:.3f}（+{(e2/e1-1):.0%}）")
+    print("  ★ 应用：少放盐，加点柠檬汁会显得更咸")
+
+    print("\n"+"="*88); print(" 判据汇总"); print("="*88)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n  ✅ {sum(ok.values())}/{len(ok)}")
+    print("\n  ❌ 未建模：脂肪味(oleogustus, CD36)—— 候选第六味")
+    print("  ❌ 未建模：超级品尝者(TAS2R38/PROP，约 25% 人群)")
+    print("  ❌ 未建模：味觉的中枢编码（NTS→VPMpc→岛叶）")
+    print("  ⚠️ 阿斯巴甜甜苦曲线用高斯近似，非真实剂量反应数据")
+    json.dump({k: bool(v) for k, v in ok.items()},
+              open(os.path.join(HERE, ".sense", "taste.json"), "w"),
+              ensure_ascii=False, indent=1)

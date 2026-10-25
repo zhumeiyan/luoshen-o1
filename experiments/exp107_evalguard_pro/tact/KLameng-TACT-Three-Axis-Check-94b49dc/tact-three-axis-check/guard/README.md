@@ -1,1 +1,49 @@
-IyBUQUNUIOW3peWFt+WMheeJiOacrOmUgeS4juadg+mZkOmYsuaKpO+8iGd1YXJkL++8iQoK5pys55uu5b2V5o+Q5L6bIueJiOacrOmUgSArIOWujOaVtOaAp+ajgOa1iyArIOWGmemUgee6puWumiLvvIznlKjkuo7pmLLmraLlj5fmjqfmlofku7booqvlpJbpg6jov5vnqIvlm57mu5ov56+h5pS577yI5pu+5ZyoIDIwMjYtMTAtMDEg5Y+R55Sf6L+H5LiA5qyh77yadjEuMS4wIOiQveW6k+aUueWKqOiiq+WklumDqOWbnua7muWIsCB2MS4wLjPvvInjgIIKCiMjIOWPl+aOp+aWh+S7tgotIGBTS0lMTC5tZGDvvIjliKTmja7lvJXlr7zvvIx2MS4xLjHvvIkKLSBgcmVmZXJlbmNlcy9jYWxpYnJhdGlvbl9jYXNlcy5qc29uYO+8iOagoeWHhumbhu+8jHYxLjEuMe+8iQotIGByZWZlcmVuY2VzL2Nvb3JkaW5hdGVfZGF0YS5qc29uYO+8iOWdkOagh+W6leW6p++8jHYyLjcuOO+8jCoq5rC45LiN5pS55YqoKirvvIkKCiMjIOS4ieS7tuW3peWFtwp8IOW3peWFtyB8IOS9nOeUqCB8IOeUqOazlSB8CnwtLS18LS0tfC0tLXwKfCBgdmVyaWZ5LnNoYCB8ICoq5a6M5pW05oCn5qOA5rWLKirvvJrmr5Tlr7nlj5fmjqfmlofku7YgU0hBLTI1NiDkuI4gTUFOSUZFU1Qg5Z+657q/77yM5Zue5ruaL+evoeaUueWNs+aKpeitpu+8iGV4aXQgMe+8iSB8IGBndWFyZC92ZXJpZnkuc2hgIHwKfCBgbG9jay5zaGAgfCDlj5fmjqfmlofku7borr7kuLrlj6ror7sgNDQ077yM6Ziy6K+v5YaZL+S9juadg+mZkOimhuebliB8IGBndWFyZC9sb2NrLnNoYCB8CnwgYHVubG9jay5zaGAgfCDlj5fmjqfmlofku7bmgaLlpI3lj6/lhpkgNjQ077yMKirku4XokL3lupPnvJbovpHml7bnlKgqKu+8m+iLpeaciSBgTE9DS2Ag5paH5Lu25YiZ5ouS57ud6Kej6ZSBIHwgYGd1YXJkL3VubG9jay5zaGAgfAoKYE1BTklGRVNULmpzb25gIOaYryBTSEEtMjU2ICsgdmVyc2lvbiDln7rnur/vvIwqKuWPl+aOp+aWh+S7tuabtOaWsOWQjuW/hemhu+mHjeaWsOeUn+aIkCoq77yI6KeB5LiL77yJ44CCCgojIyDmoIflh4bokL3lupPmtYHnqIvvvIjlhpnplIHnuqblrprvvIkKYGBgYmFzaApndWFyZC91bmxvY2suc2ggICAgICAgICMgMS4g6Kej6ZSB77yI5pegIExPQ0sg5Yay56qB77yJCiMgMi4g57yW6L6R5Y+X5o6n5paH5Lu2CiMgMy4g5pu05pawIGd1YXJkL01BTklGRVNULmpzb27vvIjph43mlrDnrpcgc2hhMjU277yb5Y+v55SoIGdpdCBkaWZmIOi+heWKqe+8iQpnaXQgYWRkIC1BICYmIGdpdCBjb21taXQgLW0gIuaPj+i/sOacrOasoeWPmOabtCIgICAjIDQuIOaPkOS6pO+8jOeVmeWOhuWPsuWPr+a6r+a6kApndWFyZC9sb2NrLnNoICAgICAgICAgICMgNS4g6YeN5paw6ZSB5a6a5Y+q6K+7Cmd1YXJkL3ZlcmlmeS5zaCAgICAgICAgIyA2LiDlpI3moLggUEFTUwpgYGAKCiMjIOWNleWGmeiAheayu+eQhgotIOW3peWFt+WMheebruW9lSoq5Y+q5YWB6K645Li7IGFnZW50IOiQveW6kyArIOeUqOaIt+aJi+WKqCoq77yM5YW25LuW6L+b56iL5Y+q6K+744CCCi0g6Iul5aSa6L+b56iL5bm25Y+R57yW6L6R77yM5YWI55SoIGB0b3VjaCBndWFyZC9MT0NLYCDljaDplIHvvIzlrozmiJDlkI4gYHJtIGd1YXJkL0xPQ0tg77ybdW5sb2NrLnNoIOingeWIsCBMT0NLIOS8muaLkue7neino+mUge+8jOmYsuatouS6kuebuOimhuebluOAggotIOWPl+aOp+aWh+S7tuW3sue6s+WFpSAqKmdpdCDniYjmnKzmjqfliLYqKu+8iOacrOebruW9lSBgLmdpdGDvvInjgILku7vkvZXlvILluLjmlLnliqjlj6/nlKjvvJoKICAtIGBnaXQgc3RhdHVzYCDnq4vljbPlj5HnjrDmlLnliqgKICAtIGBnaXQgbG9nYCDmuq/mupDosIHlnKjkvZXml7bmlLnkuobku4DkuYgKICAtIGBnaXQgcmVzdG9yZSA8ZmlsZT5gIOS4gOmUruaBouWkjQogIC0gYGdpdCBkaWZmYCDnnIvlt67lvIIKCiMjIOWbnua7muWkhOe9riBTT1AKMS4gYGd1YXJkL3ZlcmlmeS5zaGAg4oaSIEZBSUwg5a6a5L2N6KKr5pS55paH5Lu2CjIuIGBnaXQgbG9nIC0tb25lbGluZWAgKyBgZ2l0IGRpZmZgIOeci+iiq+aUueaIkOS6huS7gOS5iAozLiBgZ2l0IHJlc3RvcmUgPGZpbGU+YCDmgaLlpI3liLDlt7Lnn6Xoia/lpb3ln7rnur8KNC4gYGd1YXJkL3ZlcmlmeS5zaGAg4oaSIFBBU1Mg56Gu6K6kCjUuIOa6r+a6kOa6kOWktO+8iOingSBgZ3VhcmQvd2F0Y2guc2hgIOS4jiLmuq/mupAi5bCP6IqC77yJ77yM6Ziy5q2i5YaN5qyh5Y+R55SfCgojIyDmuq/mupDvvIjmjpLmn6Xlm57mu5rmupDlpLTvvIkKLSDmo4Dmn6Xnsr7noa7mlLnliqjml7bpl7TvvJpgc3RhdCBTS0lMTC5tZCByZWZlcmVuY2VzL2NhbGlicmF0aW9uX2Nhc2VzLmpzb25gCi0g6LCB5Zyo5Y2g55SoL+WGmeWFpe+8mmBsc29mICtEIC5gCi0g5a6a5pe25Lu75Yqh77yaYGNyb250YWIgLWxg77ybYGxzIC9ldGMvY3JvbipgCi0g5a6e5pe25oqT5YaZ5YWl6ICF77yaYGd1YXJkL3dhdGNoLnNoYO+8iOWfuuS6jiBpbm90aWZ5d2FpdO+8jOaMguS4iuWQjuS7u+S9leWvueWPl+aOp+aWh+S7tueahOWGmemDveS8muaKpSBQSUTvvIkK
+# TACT 工具包版本锁与权限防护（guard/）
+
+本目录提供"版本锁 + 完整性检测 + 写锁约定"，用于防止受控文件被外部进程回滚/篡改（曾在 2026-10-01 发生过一次：v1.1.0 落库改动被外部回滚到 v1.0.3）。
+
+## 受控文件
+- `SKILL.md`（判据引导，v1.1.1）
+- `references/calibration_cases.json`（校准集，v1.1.1）
+- `references/coordinate_data.json`（坐标底座，v2.7.8，**永不改动**）
+
+## 三件工具
+| 工具 | 作用 | 用法 |
+|---|---|---|
+| `verify.sh` | **完整性检测**：比对受控文件 SHA-256 与 MANIFEST 基线，回滚/篡改即报警（exit 1） | `guard/verify.sh` |
+| `lock.sh` | 受控文件设为只读 444，防误写/低权限覆盖 | `guard/lock.sh` |
+| `unlock.sh` | 受控文件恢复可写 644，**仅落库编辑时用**；若有 `LOCK` 文件则拒绝解锁 | `guard/unlock.sh` |
+
+`MANIFEST.json` 是 SHA-256 + version 基线，**受控文件更新后必须重新生成**（见下）。
+
+## 标准落库流程（写锁约定）
+```bash
+guard/unlock.sh        # 1. 解锁（无 LOCK 冲突）
+# 2. 编辑受控文件
+# 3. 更新 guard/MANIFEST.json（重新算 sha256；可用 git diff 辅助）
+git add -A && git commit -m "描述本次变更"   # 4. 提交，留历史可溯源
+guard/lock.sh          # 5. 重新锁定只读
+guard/verify.sh        # 6. 复核 PASS
+```
+
+## 单写者治理
+- 工具包目录**只允许主 agent 落库 + 用户手动**，其他进程只读。
+- 若多进程并发编辑，先用 `touch guard/LOCK` 占锁，完成后 `rm guard/LOCK`；unlock.sh 见到 LOCK 会拒绝解锁，防止互相覆盖。
+- 受控文件已纳入 **git 版本控制**（本目录 `.git`）。任何异常改动可用：
+  - `git status` 立即发现改动
+  - `git log` 溯源谁在何时改了什么
+  - `git restore <file>` 一键恢复
+  - `git diff` 看差异
+
+## 回滚处置 SOP
+1. `guard/verify.sh` → FAIL 定位被改文件
+2. `git log --oneline` + `git diff` 看被改成了什么
+3. `git restore <file>` 恢复到已知良好基线
+4. `guard/verify.sh` → PASS 确认
+5. 溯源源头（见 `guard/watch.sh` 与"溯源"小节），防止再次发生
+
+## 溯源（排查回滚源头）
+- 检查精确改动时间：`stat SKILL.md references/calibration_cases.json`
+- 谁在占用/写入：`lsof +D .`
+- 定时任务：`crontab -l`；`ls /etc/cron*`
+- 实时抓写入者：`guard/watch.sh`（基于 inotifywait，挂上后任何对受控文件的写都会报 PID）

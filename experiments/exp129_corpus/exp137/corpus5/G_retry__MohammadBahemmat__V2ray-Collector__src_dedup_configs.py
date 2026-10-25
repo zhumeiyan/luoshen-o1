@@ -1,1 +1,608 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGJhc2U2NAppbXBvcnQganNvbgppbXBvcnQgbG9nZ2luZwppbXBvcnQgb3MKaW1wb3J0IHJlCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIsIE9yZGVyZWREaWN0CmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcwpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBPcHRpb25hbApmcm9tIHVybGxpYi5wYXJzZSBpbXBvcnQgcGFyc2VfcXNsLCBxdW90ZSwgdXJsZW5jb2RlLCB1cmxzcGxpdCwgdXJsdW5zcGxpdAoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIExvZ2dpbmcKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpsb2dnaW5nLmJhc2ljQ29uZmlnKAogICAgbGV2ZWw9bG9nZ2luZy5JTkZPLAogICAgZm9ybWF0PSIlKGFzY3RpbWUpcyAtICUobGV2ZWxuYW1lKXMgLSAlKG1lc3NhZ2UpcyIsCiAgICBoYW5kbGVycz1bbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCldLAopCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCJkZWR1cF9jb25maWdzIikKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDYW5vbmljYWxpemF0aW9uIHBvbGljeQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCklHTk9SRURfUkVNQVJLX0tFWVMgPSB7InBzIiwgInJlbWFyayIsICJhbGlhcyIsICJuYW1lIiwgInRhZyJ9CgojIFZhbHVlcyB0aGF0IGFyZSB1c3VhbGx5IGNhc2UtaW5zZW5zaXRpdmUgaW4gc2hhcmUgbGlua3MuCkxPV0VSX1ZBTFVFX0tFWVMgPSB7CiAgICAidHlwZSIsCiAgICAic2VjdXJpdHkiLAogICAgImZwIiwKICAgICJhbHBuIiwKICAgICJzbmkiLAogICAgImZsb3ciLAogICAgImVuY3J5cHRpb24iLAogICAgImhlYWRlcnR5cGUiLAogICAgIm5ldHdvcmsiLAogICAgIm5ldCIsCiAgICAidGxzIiwKICAgICJzY3kiLAogICAgIm1vZGUiLAogICAgInByb3RvIiwKfQoKIyBLbm93biBob3N0LWxpa2UgdmFsdWVzIHRoYXQgc2hvdWxkIGJlIGxvd2VyY2FzZWQuCkhPU1RfVkFMVUVfS0VZUyA9IHsKICAgICJhZGQiLAogICAgImhvc3QiLAogICAgInNuaSIsCiAgICAic2VydmVyIiwKICAgICJzZXJ2ZXJuYW1lIiwKICAgICJhZGRyZXNzIiwKfQoKIyBLbm93biBVVUlEIC8gaWRlbnRpZmllciBmaWVsZHMgdGhhdCBhcmUgY2FzZS1pbnNlbnNpdGl2ZS4KVVVJRF9WQUxVRV9LRVlTID0gewogICAgImlkIiwKICAgICJ1dWlkIiwKfQoKIyBOdW1iZXItaXNoIGZpZWxkcyB0aGF0IGFyZSB0eXBpY2FsbHkgcmVwcmVzZW50ZWQgYXMgc3RyaW5ncyBpbiBzaGFyZSBsaW5rcy4KU1RSSU5HX05VTUJFUl9LRVlTID0gewogICAgInBvcnQiLAogICAgImFpZCIsCiAgICAiYWx0ZXJpZCIsCiAgICAibXR1IiwKICAgICJ0dGkiLAogICAgInVkcHBvcnQiLAogICAgInRjcHBvcnQiLAogICAgInBhY2tldGVuY29kaW5nIiwKfQoKU0NIRU1FX0FMSUFTRVMgPSB7CiAgICAic2hhZG93c29ja3MiOiAic3MiLAogICAgInNvY2tzNSI6ICJzb2NrcyIsCiAgICAiaHkyIjogImh5c3RlcmlhMiIsCn0KCkJBU0U2NF9SRSA9IHJlLmNvbXBpbGUociJeW0EtWmEtejAtOSsvPV8tXSskIikKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgSGVscGVycwojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmRlZiBzYWZlX2I2NF9kZWNvZGVfdGV4dCh0ZXh0OiBzdHIpIC0+IE9wdGlvbmFsW2J5dGVzXToKICAgICIiIgogICAgRGVjb2RlIHN0YW5kYXJkIG9yIFVSTC1zYWZlIGJhc2U2NCwgd2l0aCBvciB3aXRob3V0IHBhZGRpbmcuCiAgICBSZXR1cm5zIE5vbmUgb24gZmFpbHVyZS4KICAgICIiIgogICAgcyA9IHJlLnN1YihyIlxzKyIsICIiLCB0ZXh0IG9yICIiKQogICAgaWYgbm90IHM6CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBjYW5kaWRhdGVzID0gKHMsIHMgKyAiPSIgKiAoLWxlbihzKSAlIDQpKQogICAgZm9yIGNhbmRpZGF0ZSBpbiBjYW5kaWRhdGVzOgogICAgICAgIGZvciBkZWNvZGVyIGluIChiYXNlNjQudXJsc2FmZV9iNjRkZWNvZGUsIGJhc2U2NC5iNjRkZWNvZGUpOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICByZXR1cm4gZGVjb2RlcihjYW5kaWRhdGUuZW5jb2RlKCJ1dGYtOCIpKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgY29udGludWUKICAgIHJldHVybiBOb25lCgoKZGVmIGI2NF9lbmNvZGVfbm9wYWQoZGF0YTogYnl0ZXMpIC0+IHN0cjoKICAgIHJldHVybiBiYXNlNjQuYjY0ZW5jb2RlKGRhdGEpLmRlY29kZSgidXRmLTgiKS5yc3RyaXAoIj0iKQoKCmRlZiBpc19wcm9iYWJseV9iYXNlNjRfbGluZSh0ZXh0OiBzdHIpIC0+IGJvb2w6CiAgICBzID0gcmUuc3ViKHIiXHMrIiwgIiIsIHRleHQgb3IgIiIpCiAgICBpZiBsZW4ocykgPCAxNjoKICAgICAgICByZXR1cm4gRmFsc2UKICAgIGlmICI6Ly8iIGluIHMgb3IgIkAiIGluIHMgb3IgIiMiIGluIHMgb3IgIj8iIGluIHM6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICByZXR1cm4gYm9vbChCQVNFNjRfUkUuZnVsbG1hdGNoKHMpKQoKCmRlZiBkZWNvZGVfc3Vic2NyaXB0aW9uX3BheWxvYWRfaWZfbmVlZGVkKHRleHQ6IHN0cikgLT4gc3RyOgogICAgIiIiCiAgICBJZiB0aGUgd2hvbGUgZmlsZSBpcyBhIGJhc2U2NC1lbmNvZGVkIHN1YnNjcmlwdGlvbiBib2R5LCBkZWNvZGUgaXQuCiAgICBPdGhlcndpc2UgcmV0dXJuIHRoZSBvcmlnaW5hbCB0ZXh0LgogICAgIiIiCiAgICByYXcgPSB0ZXh0LnN0cmlwKCkKICAgIGlmIG5vdCByYXc6CiAgICAgICAgcmV0dXJuIHRleHQKCiAgICAjIElmIGl0IGFscmVhZHkgY29udGFpbnMgZGlyZWN0IFVSSXMsIGxlYXZlIGl0IGFsb25lLgogICAgaWYgIjovLyIgaW4gcmF3OgogICAgICAgIHJldHVybiB0ZXh0CgogICAgZGVjb2RlZCA9IHNhZmVfYjY0X2RlY29kZV90ZXh0KHJhdykKICAgIGlmIG5vdCBkZWNvZGVkOgogICAgICAgIHJldHVybiB0ZXh0CgogICAgZGVjb2RlZF90ZXh0ID0gZGVjb2RlZC5kZWNvZGUoInV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKQogICAgaWYgIjovLyIgaW4gZGVjb2RlZF90ZXh0OgogICAgICAgIHJldHVybiBkZWNvZGVkX3RleHQKICAgIHJldHVybiB0ZXh0CgoKZGVmIHBhcnNlX2hvc3RfcG9ydChob3N0X3BvcnQ6IHN0cikgLT4gdHVwbGVbc3RyLCBPcHRpb25hbFtpbnRdXToKICAgICIiIgogICAgUGFyc2UgaG9zdFs6cG9ydF0sIHdpdGggSVB2NiBicmFja2V0cyBzdXBwb3J0ZWQuCiAgICBSZXR1cm5zIChob3N0LCBwb3J0X29yX05vbmUpLgogICAgIiIiCiAgICBzID0gKGhvc3RfcG9ydCBvciAiIikuc3RyaXAoKQogICAgaWYgbm90IHM6CiAgICAgICAgcmV0dXJuICIiLCBOb25lCgogICAgaWYgcy5zdGFydHN3aXRoKCJbIik6CiAgICAgICAgZW5kID0gcy5maW5kKCJdIikKICAgICAgICBpZiBlbmQgPT0gLTE6CiAgICAgICAgICAgIHJldHVybiBzLmxvd2VyKCksIE5vbmUKICAgICAgICBob3N0ID0gc1sxOmVuZF0ubG93ZXIoKQogICAgICAgIHJlc3QgPSBzW2VuZCArIDEgOl0KICAgICAgICBpZiByZXN0LnN0YXJ0c3dpdGgoIjoiKToKICAgICAgICAgICAgcG9ydF9zdHIgPSByZXN0WzE6XS5zdHJpcCgpCiAgICAgICAgICAgIGlmIHBvcnRfc3RyLmlzZGlnaXQoKToKICAgICAgICAgICAgICAgIHJldHVybiBob3N0LCBpbnQocG9ydF9zdHIpCiAgICAgICAgcmV0dXJuIGhvc3QsIE5vbmUKCiAgICBpZiBzLmNvdW50KCI6IikgPT0gMToKICAgICAgICBob3N0LCBwb3J0X3N0ciA9IHMucnNwbGl0KCI6IiwgMSkKICAgICAgICBob3N0ID0gaG9zdC5sb3dlcigpLnN0cmlwKCkKICAgICAgICBpZiBwb3J0X3N0ci5pc2RpZ2l0KCk6CiAgICAgICAgICAgIHJldHVybiBob3N0LCBpbnQocG9ydF9zdHIpCiAgICAgICAgcmV0dXJuIGhvc3QsIE5vbmUKCiAgICAjIE11bHRpcGxlIGNvbG9ucyB1c3VhbGx5IG1lYW5zIGEgcmF3IElQdjYgbGl0ZXJhbCB3aXRob3V0IGJyYWNrZXRzLgogICAgcmV0dXJuIHMubG93ZXIoKSwgTm9uZQoKCmRlZiBub3JtYWxpemVfc2NhbGFyKGtleTogc3RyLCB2YWx1ZTogQW55LCAqLCBsb3dlcl9zZW5zaXRpdmU6IGJvb2wgPSBGYWxzZSkgLT4gQW55OgogICAgIiIiCiAgICBOb3JtYWxpemUgYSBzY2FsYXIgdmFsdWUgZm9yIGRlZHVwIGtleSBnZW5lcmF0aW9uLgogICAgIiIiCiAgICBpZiB2YWx1ZSBpcyBOb25lOgogICAgICAgIHJldHVybiBOb25lCgogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgYm9vbCk6CiAgICAgICAgcmV0dXJuIHZhbHVlCgogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgKGludCwgZmxvYXQpKToKICAgICAgICBpZiBrZXkgaW4gU1RSSU5HX05VTUJFUl9LRVlTOgogICAgICAgICAgICByZXR1cm4gc3RyKGludCh2YWx1ZSkpCiAgICAgICAgcmV0dXJuIHZhbHVlCgogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgc3RyKToKICAgICAgICBzID0gdmFsdWUuc3RyaXAoKQogICAgICAgIGlmIGtleSBpbiBVVUlEX1ZBTFVFX0tFWVMgb3IgbG93ZXJfc2Vuc2l0aXZlOgogICAgICAgICAgICByZXR1cm4gcy5sb3dlcigpCiAgICAgICAgaWYga2V5IGluIEhPU1RfVkFMVUVfS0VZUzoKICAgICAgICAgICAgcmV0dXJuIHMubG93ZXIoKQogICAgICAgIGlmIGtleSBpbiBMT1dFUl9WQUxVRV9LRVlTOgogICAgICAgICAgICByZXR1cm4gcy5sb3dlcigpCiAgICAgICAgaWYga2V5IGluIFNUUklOR19OVU1CRVJfS0VZUyBhbmQgcy5pc2RpZ2l0KCk6CiAgICAgICAgICAgIHJldHVybiBzdHIoaW50KHMpKQogICAgICAgIHJldHVybiBzCgogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgbGlzdCk6CiAgICAgICAgcmV0dXJuIFtub3JtYWxpemVfc2NhbGFyKGtleSwgaXRlbSwgbG93ZXJfc2Vuc2l0aXZlPWxvd2VyX3NlbnNpdGl2ZSkgZm9yIGl0ZW0gaW4gdmFsdWVdCgogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgZGljdCk6CiAgICAgICAgaXRlbXMgPSBbXQogICAgICAgIGZvciBrLCB2IGluIHZhbHVlLml0ZW1zKCk6CiAgICAgICAgICAgIGxrID0gc3RyKGspLnN0cmlwKCkubG93ZXIoKQogICAgICAgICAgICBpZiBsayBpbiBJR05PUkVEX1JFTUFSS19LRVlTOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaXRlbXMuYXBwZW5kKChsaywgbm9ybWFsaXplX3NjYWxhcihsaywgdikpKQogICAgICAgIGl0ZW1zLnNvcnQoCiAgICAgICAgICAgIGtleT1sYW1iZGEgeDogKAogICAgICAgICAgICAgICAgeFswXSwKICAgICAgICAgICAgICAgIGpzb24uZHVtcHMoeFsxXSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBzb3J0X2tleXM9VHJ1ZSwgc2VwYXJhdG9ycz0oIiwiLCAiOiIpKSwKICAgICAgICAgICAgKQogICAgICAgICkKICAgICAgICByZXR1cm4ge2s6IHYgZm9yIGssIHYgaW4gaXRlbXN9CgogICAgcmV0dXJuIHN0cih2YWx1ZSkuc3RyaXAoKQoKCmRlZiBjYW5vbmljYWxfcXVlcnlfcGFpcnMocXVlcnk6IHN0cikgLT4gbGlzdFt0dXBsZVtzdHIsIHN0cl1dOgogICAgcGFpcnM6IGxpc3RbdHVwbGVbc3RyLCBzdHJdXSA9IFtdCiAgICBmb3Iga2V5LCB2YWx1ZSBpbiBwYXJzZV9xc2wocXVlcnksIGtlZXBfYmxhbmtfdmFsdWVzPVRydWUsIHN0cmljdF9wYXJzaW5nPUZhbHNlKToKICAgICAgICBsayA9IGtleS5zdHJpcCgpLmxvd2VyKCkKICAgICAgICBpZiBsayBpbiBJR05PUkVEX1JFTUFSS19LRVlTOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIG52ID0gbm9ybWFsaXplX3NjYWxhcihsaywgdmFsdWUpCiAgICAgICAgaWYgaXNpbnN0YW5jZShudiwgc3RyKToKICAgICAgICAgICAgcGFpcnMuYXBwZW5kKChsaywgbnYpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHBhaXJzLmFwcGVuZCgobGssIGpzb24uZHVtcHMobnYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgc29ydF9rZXlzPVRydWUsIHNlcGFyYXRvcnM9KCIsIiwgIjoiKSkpKQogICAgcGFpcnMuc29ydChrZXk9bGFtYmRhIHg6ICh4WzBdLCB4WzFdKSkKICAgIHJldHVybiBwYWlycwoKCmRlZiBidWlsZF91cmkoCiAgICBzY2hlbWU6IHN0ciwKICAgIHVzZXJpbmZvOiBPcHRpb25hbFtzdHJdLAogICAgaG9zdDogc3RyLAogICAgcG9ydDogT3B0aW9uYWxbaW50XSwKICAgIHBhdGg6IHN0ciA9ICIiLAogICAgcXVlcnlfcGFpcnM6IE9wdGlvbmFsW2xpc3RbdHVwbGVbc3RyLCBzdHJdXV0gPSBOb25lLAogICAgZnJhZ21lbnQ6IHN0ciA9ICIiLAopIC0+IHN0cjoKICAgICIiIgogICAgQnVpbGQgYSBub3JtYWxpemVkIFVSSS4KICAgICIiIgogICAgbmV0bG9jID0gIiIKCiAgICBpZiB1c2VyaW5mbzoKICAgICAgICBuZXRsb2MgKz0gcXVvdGUodXNlcmluZm8sIHNhZmU9IiIpCiAgICAgICAgbmV0bG9jICs9ICJAIgoKICAgIGlmIGhvc3Q6CiAgICAgICAgaWYgIjoiIGluIGhvc3QgYW5kIG5vdCBob3N0LnN0YXJ0c3dpdGgoIlsiKToKICAgICAgICAgICAgbmV0bG9jICs9IGYiW3tob3N0fV0iCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbmV0bG9jICs9IGhvc3QubG93ZXIoKQoKICAgIGlmIHBvcnQgaXMgbm90IE5vbmU6CiAgICAgICAgbmV0bG9jICs9IGYiOntpbnQocG9ydCl9IgoKICAgIHF1ZXJ5ID0gdXJsZW5jb2RlKHF1ZXJ5X3BhaXJzIG9yIFtdLCBkb3NlcT1UcnVlKSBpZiBxdWVyeV9wYWlycyBlbHNlICIiCiAgICByZXR1cm4gdXJsdW5zcGxpdCgoc2NoZW1lLCBuZXRsb2MsIHBhdGggb3IgIiIsIHF1ZXJ5LCBmcmFnbWVudCBvciAiIikpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIFByb3RvY29sLXNwZWNpZmljIG5vcm1hbGl6ZXJzCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZGVmIG5vcm1hbGl6ZV92bWVzcyhyYXc6IHN0cikgLT4gdHVwbGVbT3B0aW9uYWxbc3RyXSwgT3B0aW9uYWxbc3RyXV06CiAgICAiIiIKICAgIFJldHVybnM6IChkZWR1cF9rZXksIGNhbm9uaWNhbF91cmkpCiAgICAiIiIKICAgIGlmICI6Ly8iIG5vdCBpbiByYXc6CiAgICAgICAgcmV0dXJuIE5vbmUsIE5vbmUKCiAgICBwYXlsb2FkID0gcmF3LnNwbGl0KCI6Ly8iLCAxKVsxXS5zdHJpcCgpCiAgICBkZWNvZGVkID0gc2FmZV9iNjRfZGVjb2RlX3RleHQocGF5bG9hZCkKICAgIGlmIG5vdCBkZWNvZGVkOgogICAgICAgIHJldHVybiBOb25lLCBOb25lCgogICAgdHJ5OgogICAgICAgIG9iaiA9IGpzb24ubG9hZHMoZGVjb2RlZC5kZWNvZGUoInV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKSkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuIE5vbmUsIE5vbmUKCiAgICBpZiBub3QgaXNpbnN0YW5jZShvYmosIGRpY3QpOgogICAgICAgIHJldHVybiBOb25lLCBOb25lCgogICAgbm9ybWFsaXplZDogZGljdFtzdHIsIEFueV0gPSB7fQogICAgZm9yIGssIHYgaW4gb2JqLml0ZW1zKCk6CiAgICAgICAgbGsgPSBzdHIoaykuc3RyaXAoKS5sb3dlcigpCiAgICAgICAgaWYgbGsgaW4gSUdOT1JFRF9SRU1BUktfS0VZUzoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBub3JtYWxpemVkW2xrXSA9IG5vcm1hbGl6ZV9zY2FsYXIobGssIHYsIGxvd2VyX3NlbnNpdGl2ZT0obGsgPT0gImlkIikpCgogICAga2V5X2pzb24gPSBqc29uLmR1bXBzKAogICAgICAgIG5vcm1hbGl6ZWQsCiAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLAogICAgICAgIHNvcnRfa2V5cz1UcnVlLAogICAgICAgIHNlcGFyYXRvcnM9KCIsIiwgIjoiKSwKICAgICkKCiAgICAjIEtlZXAgc2hhcmUtbGluayBzdHlsZSBKU09OIHZhbHVlcyBhcyBzdHJpbmdzIHdoZXJlIHRoYXQgaXMgdHlwaWNhbC4KICAgIHJld3JpdGVfb2JqOiBkaWN0W3N0ciwgQW55XSA9IHt9CiAgICBmb3IgaywgdiBpbiBub3JtYWxpemVkLml0ZW1zKCk6CiAgICAgICAgaWYgayBpbiBTVFJJTkdfTlVNQkVSX0tFWVMgYW5kIHYgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJld3JpdGVfb2JqW2tdID0gc3RyKHYpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV3cml0ZV9vYmpba10gPSB2CgogICAgcmV3cml0ZV9qc29uID0ganNvbi5kdW1wcygKICAgICAgICByZXdyaXRlX29iaiwKICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsCiAgICAgICAgc29ydF9rZXlzPVRydWUsCiAgICAgICAgc2VwYXJhdG9ycz0oIiwiLCAiOiIpLAogICAgKQogICAgY2Fub25pY2FsX3VyaSA9IGYidm1lc3M6Ly97YjY0X2VuY29kZV9ub3BhZChyZXdyaXRlX2pzb24uZW5jb2RlKCd1dGYtOCcpKX0iCiAgICByZXR1cm4ga2V5X2pzb24sIGNhbm9uaWNhbF91cmkKCgpkZWYgbm9ybWFsaXplX3NzKHJhdzogc3RyKSAtPiB0dXBsZVtPcHRpb25hbFtzdHJdLCBPcHRpb25hbFtzdHJdXToKICAgICIiIgogICAgTm9ybWFsaXplIFNoYWRvd3NvY2tzIC8gU0lQMDAyLgogICAgIiIiCiAgICBpZiAiOi8vIiBub3QgaW4gcmF3OgogICAgICAgIHJldHVybiBOb25lLCBOb25lCgogICAgXywgcmVzdCA9IHJhdy5zcGxpdCgiOi8vIiwgMSkKICAgIGZyYWdtZW50ID0gIiIKICAgIGlmICIjIiBpbiByZXN0OgogICAgICAgIHJlc3QsIGZyYWdtZW50ID0gcmVzdC5zcGxpdCgiIyIsIDEpCiAgICBxdWVyeSA9ICIiCiAgICBpZiAiPyIgaW4gcmVzdDoKICAgICAgICByZXN0LCBxdWVyeSA9IHJlc3Quc3BsaXQoIj8iLCAxKQoKICAgIGhvc3QgPSAiIgogICAgcG9ydDogT3B0aW9uYWxbaW50XSA9IE5vbmUKICAgIG1ldGhvZCA9ICIiCiAgICBwYXNzd29yZCA9ICIiCiAgICBxdWVyeV9wYWlycyA9IGNhbm9uaWNhbF9xdWVyeV9wYWlycyhxdWVyeSkKCiAgICAjIENhc2UgMTogU0lQMDAyIHN0eWxlIHNzOi8vdXNlcmluZm9AaG9zdDpwb3J0CiAgICBpZiAiQCIgaW4gcmVzdDoKICAgICAgICBjcmVkX3BhcnQsIGhvc3RfcG9ydCA9IHJlc3QucnNwbGl0KCJAIiwgMSkKICAgICAgICBob3N0LCBwb3J0ID0gcGFyc2VfaG9zdF9wb3J0KGhvc3RfcG9ydCkKCiAgICAgICAgZGVjb2RlZCA9IHNhZmVfYjY0X2RlY29kZV90ZXh0KGNyZWRfcGFydCkKICAgICAgICBpZiBkZWNvZGVkOgogICAgICAgICAgICBjcmVkX3RleHQgPSBkZWNvZGVkLmRlY29kZSgidXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpCiAgICAgICAgICAgIGlmICI6IiBpbiBjcmVkX3RleHQ6CiAgICAgICAgICAgICAgICBtZXRob2QsIHBhc3N3b3JkID0gY3JlZF90ZXh0LnNwbGl0KCI6IiwgMSkKICAgICAgICAgICAgICAgIG1ldGhvZCA9IG1ldGhvZC5zdHJpcCgpLmxvd2VyKCkKICAgICAgICAgICAgICAgIHBhc3N3b3JkID0gcGFzc3dvcmQuc3RyaXAoKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbWV0aG9kID0gY3JlZF9wYXJ0LnN0cmlwKCkubG93ZXIoKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmICI6IiBpbiBjcmVkX3BhcnQ6CiAgICAgICAgICAgICAgICBtZXRob2QsIHBhc3N3b3JkID0gY3JlZF9wYXJ0LnNwbGl0KCI6IiwgMSkKICAgICAgICAgICAgICAgIG1ldGhvZCA9IG1ldGhvZC5zdHJpcCgpLmxvd2VyKCkKICAgICAgICAgICAgICAgIHBhc3N3b3JkID0gcGFzc3dvcmQuc3RyaXAoKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbWV0aG9kID0gY3JlZF9wYXJ0LnN0cmlwKCkubG93ZXIoKQoKICAgICMgQ2FzZSAyOiBsZWdhY3kgc3M6Ly9iYXNlNjQobWV0aG9kOnBhc3N3b3JkQGhvc3Q6cG9ydCkKICAgIGVsc2U6CiAgICAgICAgZGVjb2RlZCA9IHNhZmVfYjY0X2RlY29kZV90ZXh0KHJlc3QpCiAgICAgICAgaWYgZGVjb2RlZDoKICAgICAgICAgICAgZGVjb2RlZF90ZXh0ID0gZGVjb2RlZC5kZWNvZGUoInV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKQogICAgICAgICAgICBpZiAiQCIgaW4gZGVjb2RlZF90ZXh0IGFuZCAiOiIgaW4gZGVjb2RlZF90ZXh0OgogICAgICAgICAgICAgICAgY3JlZF9wYXJ0LCBob3N0X3BvcnQgPSBkZWNvZGVkX3RleHQucnNwbGl0KCJAIiwgMSkKICAgICAgICAgICAgICAgIGhvc3QsIHBvcnQgPSBwYXJzZV9ob3N0X3BvcnQoaG9zdF9wb3J0KQogICAgICAgICAgICAgICAgbWV0aG9kLCBwYXNzd29yZCA9IGNyZWRfcGFydC5zcGxpdCgiOiIsIDEpCiAgICAgICAgICAgICAgICBtZXRob2QgPSBtZXRob2Quc3RyaXAoKS5sb3dlcigpCiAgICAgICAgICAgICAgICBwYXNzd29yZCA9IHBhc3N3b3JkLnN0cmlwKCkKCiAgICBpZiBob3N0OgogICAgICAgIGtleV9vYmogPSB7CiAgICAgICAgICAgICJzY2hlbWUiOiAic3MiLAogICAgICAgICAgICAibWV0aG9kIjogbWV0aG9kLAogICAgICAgICAgICAicGFzc3dvcmQiOiBwYXNzd29yZCwKICAgICAgICAgICAgImhvc3QiOiBob3N0Lmxvd2VyKCksCiAgICAgICAgICAgICJwb3J0IjogcG9ydCwKICAgICAgICAgICAgInF1ZXJ5IjogcXVlcnlfcGFpcnMsCiAgICAgICAgfQogICAgZWxzZToKICAgICAgICBrZXlfb2JqID0gewogICAgICAgICAgICAic2NoZW1lIjogInNzIiwKICAgICAgICAgICAgInJhdyI6IHJlc3Quc3RyaXAoKSwKICAgICAgICAgICAgInF1ZXJ5IjogcXVlcnlfcGFpcnMsCiAgICAgICAgfQoKICAgIGtleSA9IGpzb24uZHVtcHMoa2V5X29iaiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBzb3J0X2tleXM9VHJ1ZSwgc2VwYXJhdG9ycz0oIiwiLCAiOiIpKQoKICAgIGNhbm9uaWNhbF91cmkgPSBOb25lCiAgICBpZiBob3N0IGFuZCBwb3J0IGlzIG5vdCBOb25lIGFuZCBtZXRob2Q6CiAgICAgICAgdXNlcmluZm8gPSBiNjRfZW5jb2RlX25vcGFkKGYie21ldGhvZH06e3Bhc3N3b3JkfSIuZW5jb2RlKCJ1dGYtOCIpKQogICAgICAgIGNhbm9uaWNhbF91cmkgPSBidWlsZF91cmkoInNzIiwgdXNlcmluZm8sIGhvc3QubG93ZXIoKSwgcG9ydCwgIiIsIHF1ZXJ5X3BhaXJzLCAiIikKICAgIGVsaWYgaG9zdDoKICAgICAgICBjYW5vbmljYWxfdXJpID0gYnVpbGRfdXJpKCJzcyIsIE5vbmUsIGhvc3QubG93ZXIoKSwgcG9ydCwgIiIsIHF1ZXJ5X3BhaXJzLCAiIikKCiAgICByZXR1cm4ga2V5LCBjYW5vbmljYWxfdXJpCgoKZGVmIG5vcm1hbGl6ZV9nZW5lcmljKHJhdzogc3RyLCBzY2hlbWVfaW46IHN0cikgLT4gdHVwbGVbT3B0aW9uYWxbc3RyXSwgT3B0aW9uYWxbc3RyXV06CiAgICAiIiIKICAgIEdlbmVyaWMgVVJJIGNhbm9uaWNhbGl6ZXIgZm9yIFZMRVNTIC8gVHJvamFuIC8gU09DS1MgLyBIeXN0ZXJpYSAvIFRVSUMgLyBKdWljaXR5IC8gQW55VExTLgogICAgUmV0dXJucyAoZGVkdXBfa2V5LCBjYW5vbmljYWxfdXJpKS4KICAgIEludmFsaWQgbGlua3MgYXJlIHNraXBwZWQgc2FmZWx5IGluc3RlYWQgb2YgY3Jhc2hpbmcgdGhlIGpvYi4KICAgICIiIgogICAgaWYgIjovLyIgbm90IGluIHJhdzoKICAgICAgICByZXR1cm4gTm9uZSwgTm9uZQoKICAgIHRyeToKICAgICAgICBwYXJzZWQgPSB1cmxzcGxpdChyYXcpCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICBsb2dnZXIud2FybmluZygiU2tpcHBpbmcgaW52YWxpZCBVUkk6ICVzIiwgcmF3KQogICAgICAgIHJldHVybiBOb25lLCBOb25lCgogICAgc2NoZW1lID0gU0NIRU1FX0FMSUFTRVMuZ2V0KHBhcnNlZC5zY2hlbWUubG93ZXIoKSwgcGFyc2VkLnNjaGVtZS5sb3dlcigpKSBvciBzY2hlbWVfaW4ubG93ZXIoKQogICAgaWYgbm90IHNjaGVtZToKICAgICAgICByZXR1cm4gTm9uZSwgTm9uZQoKICAgIHRyeToKICAgICAgICBwb3J0ID0gcGFyc2VkLnBvcnQKICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgIGxvZ2dlci53YXJuaW5nKCJTa2lwcGluZyBpbnZhbGlkIFVSSSB3aXRoIGJhZCBwb3J0OiAlcyIsIHJhdykKICAgICAgICByZXR1cm4gTm9uZSwgTm9uZQoKICAgIHVzZXJpbmZvID0gcGFyc2VkLnVzZXJuYW1lIG9yICIiCiAgICBob3N0ID0gcGFyc2VkLmhvc3RuYW1lIG9yICIiCiAgICBwYXRoID0gcGFyc2VkLnBhdGggb3IgIiIKICAgIHF1ZXJ5X3BhaXJzID0gY2Fub25pY2FsX3F1ZXJ5X3BhaXJzKHBhcnNlZC5xdWVyeSkKCiAgICBpZiBzY2hlbWUgPT0gInZsZXNzIjoKICAgICAgICB1c2VyaW5mbyA9IHVzZXJpbmZvLmxvd2VyKCkKCiAgICBob3N0ID0gaG9zdC5sb3dlcigpCgogICAga2V5X29iaiA9IHsKICAgICAgICAic2NoZW1lIjogc2NoZW1lLAogICAgICAgICJ1c2VyaW5mbyI6IHVzZXJpbmZvLAogICAgICAgICJob3N0IjogaG9zdCwKICAgICAgICAicG9ydCI6IHBvcnQsCiAgICAgICAgInBhdGgiOiBwYXRoLAogICAgICAgICJxdWVyeSI6IHF1ZXJ5X3BhaXJzLAogICAgfQoKICAgIGtleSA9IGpzb24uZHVtcHMoa2V5X29iaiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBzb3J0X2tleXM9VHJ1ZSwgc2VwYXJhdG9ycz0oIiwiLCAiOiIpKQoKICAgIHRyeToKICAgICAgICBjYW5vbmljYWxfdXJpID0gYnVpbGRfdXJpKHNjaGVtZSwgdXNlcmluZm8gb3IgTm9uZSwgaG9zdCwgcG9ydCwgcGF0aCwgcXVlcnlfcGFpcnMsICIiKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBsb2dnZXIud2FybmluZygiU2tpcHBpbmcgaW52YWxpZCBVUkkgZHVyaW5nIHJlYnVpbGQ6ICVzIiwgcmF3KQogICAgICAgIHJldHVybiBOb25lLCBOb25lCgogICAgcmV0dXJuIGtleSwgY2Fub25pY2FsX3VyaQoKCmRlZiBub3JtYWxpemVfY29uZmlnKHJhdzogc3RyKSAtPiB0dXBsZVtPcHRpb25hbFtzdHJdLCBPcHRpb25hbFtzdHJdXToKICAgICIiIgogICAgUmV0dXJuIChkZWR1cF9rZXksIGNhbm9uaWNhbF91cmkpLgogICAgIiIiCiAgICBsaW5lID0gKHJhdyBvciAiIikuc3RyaXAoKQogICAgaWYgbm90IGxpbmUgb3IgbGluZS5zdGFydHN3aXRoKCIjIik6CiAgICAgICAgcmV0dXJuIE5vbmUsIE5vbmUKICAgIGlmICI6Ly8iIG5vdCBpbiBsaW5lOgogICAgICAgIHJldHVybiBOb25lLCBOb25lCgogICAgc2NoZW1lID0gbGluZS5zcGxpdCgiOi8vIiwgMSlbMF0uc3RyaXAoKS5sb3dlcigpCiAgICBzY2hlbWUgPSBTQ0hFTUVfQUxJQVNFUy5nZXQoc2NoZW1lLCBzY2hlbWUpCgogICAgaWYgc2NoZW1lID09ICJ2bWVzcyI6CiAgICAgICAgcmV0dXJuIG5vcm1hbGl6ZV92bWVzcyhsaW5lKQogICAgaWYgc2NoZW1lID09ICJzcyI6CiAgICAgICAgcmV0dXJuIG5vcm1hbGl6ZV9zcyhsaW5lKQogICAgaWYgc2NoZW1lIGluIHsidmxlc3MiLCAidHJvamFuIiwgInNvY2tzIiwgImh5c3RlcmlhIiwgImh5c3RlcmlhMiIsICJ0dWljIiwgImp1aWNpdHkiLCAid2lyZWd1YXJkIiwgImFueXRscyJ9OgogICAgICAgIHJldHVybiBub3JtYWxpemVfZ2VuZXJpYyhsaW5lLCBzY2hlbWUpCgogICAgIyBVbmtub3duIHNjaGVtZTogc3RpbGwgZG8gYSBzYWZlIGdlbmVyaWMgZGVkdXAgd2l0aCBob3N0IGxvd2VyY2FzaW5nIGFuZCBxdWVyeSBzb3J0LgogICAgcmV0dXJuIG5vcm1hbGl6ZV9nZW5lcmljKGxpbmUsIHNjaGVtZSkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgRmlsZSBoYW5kbGluZwojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkBkYXRhY2xhc3MKY2xhc3MgU3RvcmVkQ29uZmlnOgogICAgcmF3OiBzdHIKICAgIGNhbm9uaWNhbDogc3RyCgoKZGVmIGxvYWRfY2FuZGlkYXRlX2xpbmVzKGlucHV0X3BhdGg6IHN0cikgLT4gbGlzdFtzdHJdOgogICAgd2l0aCBvcGVuKGlucHV0X3BhdGgsICJyIiwgZW5jb2Rpbmc9InV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKSBhcyBmOgogICAgICAgIHRleHQgPSBmLnJlYWQoKQoKICAgIGlmICI6Ly8iIG5vdCBpbiB0ZXh0OgogICAgICAgIGRlY29kZWQgPSBkZWNvZGVfc3Vic2NyaXB0aW9uX3BheWxvYWRfaWZfbmVlZGVkKHRleHQpCiAgICAgICAgaWYgZGVjb2RlZCAhPSB0ZXh0OgogICAgICAgICAgICB0ZXh0ID0gZGVjb2RlZAoKICAgIGxpbmVzOiBsaXN0W3N0cl0gPSBbXQogICAgZm9yIHJhd19saW5lIGluIHRleHQuc3BsaXRsaW5lcygpOgogICAgICAgIGxpbmUgPSByYXdfbGluZS5zdHJpcCgpCiAgICAgICAgaWYgbm90IGxpbmUgb3IgbGluZS5zdGFydHN3aXRoKCIjIik6CiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICMgSWYgYSBzaW5nbGUgbGluZSBpdHNlbGYgaXMgYmFzZTY0IHN1YnNjcmlwdGlvbiBjb250ZW50LCB0cnkgdG8gZXhwYW5kIGl0LgogICAgICAgIGlmICI6Ly8iIG5vdCBpbiBsaW5lIGFuZCBpc19wcm9iYWJseV9iYXNlNjRfbGluZShsaW5lKToKICAgICAgICAgICAgZGVjb2RlZCA9IHNhZmVfYjY0X2RlY29kZV90ZXh0KGxpbmUpCiAgICAgICAgICAgIGlmIGRlY29kZWQ6CiAgICAgICAgICAgICAgICBkZWNvZGVkX3RleHQgPSBkZWNvZGVkLmRlY29kZSgidXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpCiAgICAgICAgICAgICAgICBpZiAiOi8vIiBpbiBkZWNvZGVkX3RleHQ6CiAgICAgICAgICAgICAgICAgICAgZm9yIHN1YiBpbiBkZWNvZGVkX3RleHQuc3BsaXRsaW5lcygpOgogICAgICAgICAgICAgICAgICAgICAgICBzdWIgPSBzdWIuc3RyaXAoKQogICAgICAgICAgICAgICAgICAgICAgICBpZiBzdWIgYW5kIG5vdCBzdWIuc3RhcnRzd2l0aCgiIyIpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKHN1YikKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBsaW5lcy5hcHBlbmQobGluZSkKCiAgICByZXR1cm4gbGluZXMKCgpkZWYgcHJvY2Vzc19zZXJ2ZXJzKGlucHV0X3BhdGg6IHN0ciwgb3V0cHV0X3BhdGg6IHN0ciwgKiwgcmV3cml0ZTogYm9vbCA9IEZhbHNlLCBzb3J0X291dHB1dDogYm9vbCA9IEZhbHNlKSAtPiBOb25lOgogICAgbG9nZ2VyLmluZm8oIlByb2Nlc3NpbmcgJXMiLCBpbnB1dF9wYXRoKQoKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhpbnB1dF9wYXRoKToKICAgICAgICByYWlzZSBGaWxlTm90Rm91bmRFcnJvcihmIklucHV0IGZpbGUgbm90IGZvdW5kOiB7aW5wdXRfcGF0aH0iKQoKICAgIGxpbmVzID0gbG9hZF9jYW5kaWRhdGVfbGluZXMoaW5wdXRfcGF0aCkKCiAgICB1bmlxdWU6ICJPcmRlcmVkRGljdFtzdHIsIFN0b3JlZENvbmZpZ10iID0gT3JkZXJlZERpY3QoKQogICAgc3RhdHM6IENvdW50ZXJbc3RyXSA9IENvdW50ZXIoKQogICAgaW52YWxpZCA9IDAKCiAgICBmb3IgcmF3X2xpbmsgaW4gbGluZXM6CiAgICAgICAgaWYgbm90IHJhd19saW5rIG9yIHJhd19saW5rLnN0YXJ0c3dpdGgoIiMiKToKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgcHJvdG8gPSByYXdfbGluay5zcGxpdCgiOi8vIiwgMSlbMF0ubG93ZXIoKSBpZiAiOi8vIiBpbiByYXdfbGluayBlbHNlICJ1bmtub3duIgogICAgICAgIHByb3RvID0gU0NIRU1FX0FMSUFTRVMuZ2V0KHByb3RvLCBwcm90bykKCiAgICAgICAgY2Fub25pY2FsLCBub3JtYWxpemVkX3VyaSA9IG5vcm1hbGl6ZV9jb25maWcocmF3X2xpbmspCiAgICAgICAgaWYgY2Fub25pY2FsIGlzIE5vbmU6CiAgICAgICAgICAgIGludmFsaWQgKz0gMQogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBpZiBjYW5vbmljYWwgbm90IGluIHVuaXF1ZToKICAgICAgICAgICAgdW5pcXVlW2Nhbm9uaWNhbF0gPSBTdG9yZWRDb25maWcoCiAgICAgICAgICAgICAgICByYXc9cmF3X2xpbmssCiAgICAgICAgICAgICAgICBjYW5vbmljYWw9bm9ybWFsaXplZF91cmkgb3IgcmF3X2xpbmssCiAgICAgICAgICAgICkKICAgICAgICAgICAgc3RhdHNbcHJvdG9dICs9IDEKCiAgICBpdGVtcyA9IGxpc3QodW5pcXVlLml0ZW1zKCkpCiAgICBpZiBzb3J0X291dHB1dDoKICAgICAgICBpdGVtcy5zb3J0KGtleT1sYW1iZGEga3Y6IGt2WzBdKQoKICAgIHdpdGggb3BlbihvdXRwdXRfcGF0aCwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGZvciBfLCByZWNvcmQgaW4gaXRlbXM6CiAgICAgICAgICAgIGYud3JpdGUoKHJlY29yZC5jYW5vbmljYWwgaWYgcmV3cml0ZSBlbHNlIHJlY29yZC5yYXcpLnJzdHJpcCgpICsgIlxuIikKCiAgICBsb2dnZXIuaW5mbygiSW5wdXQ6ICVkLCBJbnZhbGlkOiAlZCwgT3V0cHV0OiAlZCIsIGxlbihsaW5lcyksIGludmFsaWQsIGxlbih1bmlxdWUpKQogICAgZm9yIHByb3RvLCBjb3VudCBpbiBzdGF0cy5tb3N0X2NvbW1vbigpOgogICAgICAgIGxvZ2dlci5pbmZvKCIlczogJWQiLCBwcm90bywgY291bnQpCgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249IkRlZHVwbGljYXRlIFYyUmF5L1hyYXkgc2hhcmUgbGlua3MgdXNpbmcgcHJvdG9jb2wtYXdhcmUgY2Fub25pY2FsaXphdGlvbi4iCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCJpbnB1dF9maWxlIiwgaGVscD0iSW5wdXQgZmlsZSBjb250YWluaW5nIG9uZSBjb25maWcgcGVyIGxpbmUiKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLW8iLAogICAgICAgICItLW91dHB1dCIsCiAgICAgICAgaGVscD0iT3V0cHV0IGZpbGUuIERlZmF1bHQ6IG92ZXJ3cml0ZSBpbnB1dCBmaWxlIHZpYSBhIHRlbXBvcmFyeSBmaWxlLiIsCiAgICAgICAgZGVmYXVsdD1Ob25lLAogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1yZXdyaXRlIiwKICAgICAgICBhY3Rpb249InN0b3JlX3RydWUiLAogICAgICAgIGhlbHA9IldyaXRlIG5vcm1hbGl6ZWQgc2hhcmUgbGlua3MgaW5zdGVhZCBvZiB0aGUgZmlyc3QgcmF3IG9jY3VycmVuY2UuIiwKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tc29ydC1vdXRwdXQiLAogICAgICAgIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsCiAgICAgICAgaGVscD0iU29ydCBvdXRwdXQgYnkgY2Fub25pY2FsIGtleS4gRGVmYXVsdCBrZWVwcyBmaXJzdC1zZWVuIG9yZGVyLiIsCiAgICApCgogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpbnB1dF9maWxlID0gYXJncy5pbnB1dF9maWxlCiAgICBvdXRwdXRfZmlsZSA9IGFyZ3Mub3V0cHV0IG9yIGYie2lucHV0X2ZpbGV9LnRtcCIKCiAgICBwcm9jZXNzX3NlcnZlcnMoaW5wdXRfZmlsZSwgb3V0cHV0X2ZpbGUsIHJld3JpdGU9YXJncy5yZXdyaXRlLCBzb3J0X291dHB1dD1hcmdzLnNvcnRfb3V0cHV0KQoKICAgIGlmIGFyZ3Mub3V0cHV0IGlzIE5vbmU6CiAgICAgICAgb3MucmVwbGFjZShvdXRwdXRfZmlsZSwgaW5wdXRfZmlsZSkKICAgICAgICBwcmludChmIkRlZHVwIGNvbXBsZXRlZC4gVW5pcXVlIGNvbmZpZ3Mgd3JpdHRlbiB0byB7aW5wdXRfZmlsZX0iKQogICAgZWxzZToKICAgICAgICBwcmludChmIkRlZHVwIGNvbXBsZXRlZC4gVW5pcXVlIGNvbmZpZ3Mgd3JpdHRlbiB0byB7b3V0cHV0X2ZpbGV9IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import argparse
+import base64
+import json
+import logging
+import os
+import re
+from collections import Counter, OrderedDict
+from dataclasses import dataclass
+from typing import Any, Optional
+from urllib.parse import parse_qsl, quote, urlencode, urlsplit, urlunsplit
+
+# -----------------------------------------------------------------------------
+# Logging
+# -----------------------------------------------------------------------------
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[logging.StreamHandler()],
+)
+logger = logging.getLogger("dedup_configs")
+
+# -----------------------------------------------------------------------------
+# Canonicalization policy
+# -----------------------------------------------------------------------------
+IGNORED_REMARK_KEYS = {"ps", "remark", "alias", "name", "tag"}
+
+# Values that are usually case-insensitive in share links.
+LOWER_VALUE_KEYS = {
+    "type",
+    "security",
+    "fp",
+    "alpn",
+    "sni",
+    "flow",
+    "encryption",
+    "headertype",
+    "network",
+    "net",
+    "tls",
+    "scy",
+    "mode",
+    "proto",
+}
+
+# Known host-like values that should be lowercased.
+HOST_VALUE_KEYS = {
+    "add",
+    "host",
+    "sni",
+    "server",
+    "servername",
+    "address",
+}
+
+# Known UUID / identifier fields that are case-insensitive.
+UUID_VALUE_KEYS = {
+    "id",
+    "uuid",
+}
+
+# Number-ish fields that are typically represented as strings in share links.
+STRING_NUMBER_KEYS = {
+    "port",
+    "aid",
+    "alterid",
+    "mtu",
+    "tti",
+    "udpport",
+    "tcpport",
+    "packetencoding",
+}
+
+SCHEME_ALIASES = {
+    "shadowsocks": "ss",
+    "socks5": "socks",
+    "hy2": "hysteria2",
+}
+
+BASE64_RE = re.compile(r"^[A-Za-z0-9+/=_-]+$")
+
+
+# -----------------------------------------------------------------------------
+# Helpers
+# -----------------------------------------------------------------------------
+def safe_b64_decode_text(text: str) -> Optional[bytes]:
+    """
+    Decode standard or URL-safe base64, with or without padding.
+    Returns None on failure.
+    """
+    s = re.sub(r"\s+", "", text or "")
+    if not s:
+        return None
+
+    candidates = (s, s + "=" * (-len(s) % 4))
+    for candidate in candidates:
+        for decoder in (base64.urlsafe_b64decode, base64.b64decode):
+            try:
+                return decoder(candidate.encode("utf-8"))
+            except Exception:
+                continue
+    return None
+
+
+def b64_encode_nopad(data: bytes) -> str:
+    return base64.b64encode(data).decode("utf-8").rstrip("=")
+
+
+def is_probably_base64_line(text: str) -> bool:
+    s = re.sub(r"\s+", "", text or "")
+    if len(s) < 16:
+        return False
+    if "://" in s or "@" in s or "#" in s or "?" in s:
+        return False
+    return bool(BASE64_RE.fullmatch(s))
+
+
+def decode_subscription_payload_if_needed(text: str) -> str:
+    """
+    If the whole file is a base64-encoded subscription body, decode it.
+    Otherwise return the original text.
+    """
+    raw = text.strip()
+    if not raw:
+        return text
+
+    # If it already contains direct URIs, leave it alone.
+    if "://" in raw:
+        return text
+
+    decoded = safe_b64_decode_text(raw)
+    if not decoded:
+        return text
+
+    decoded_text = decoded.decode("utf-8", errors="ignore")
+    if "://" in decoded_text:
+        return decoded_text
+    return text
+
+
+def parse_host_port(host_port: str) -> tuple[str, Optional[int]]:
+    """
+    Parse host[:port], with IPv6 brackets supported.
+    Returns (host, port_or_None).
+    """
+    s = (host_port or "").strip()
+    if not s:
+        return "", None
+
+    if s.startswith("["):
+        end = s.find("]")
+        if end == -1:
+            return s.lower(), None
+        host = s[1:end].lower()
+        rest = s[end + 1 :]
+        if rest.startswith(":"):
+            port_str = rest[1:].strip()
+            if port_str.isdigit():
+                return host, int(port_str)
+        return host, None
+
+    if s.count(":") == 1:
+        host, port_str = s.rsplit(":", 1)
+        host = host.lower().strip()
+        if port_str.isdigit():
+            return host, int(port_str)
+        return host, None
+
+    # Multiple colons usually means a raw IPv6 literal without brackets.
+    return s.lower(), None
+
+
+def normalize_scalar(key: str, value: Any, *, lower_sensitive: bool = False) -> Any:
+    """
+    Normalize a scalar value for dedup key generation.
+    """
+    if value is None:
+        return None
+
+    if isinstance(value, bool):
+        return value
+
+    if isinstance(value, (int, float)):
+        if key in STRING_NUMBER_KEYS:
+            return str(int(value))
+        return value
+
+    if isinstance(value, str):
+        s = value.strip()
+        if key in UUID_VALUE_KEYS or lower_sensitive:
+            return s.lower()
+        if key in HOST_VALUE_KEYS:
+            return s.lower()
+        if key in LOWER_VALUE_KEYS:
+            return s.lower()
+        if key in STRING_NUMBER_KEYS and s.isdigit():
+            return str(int(s))
+        return s
+
+    if isinstance(value, list):
+        return [normalize_scalar(key, item, lower_sensitive=lower_sensitive) for item in value]
+
+    if isinstance(value, dict):
+        items = []
+        for k, v in value.items():
+            lk = str(k).strip().lower()
+            if lk in IGNORED_REMARK_KEYS:
+                continue
+            items.append((lk, normalize_scalar(lk, v)))
+        items.sort(
+            key=lambda x: (
+                x[0],
+                json.dumps(x[1], ensure_ascii=False, sort_keys=True, separators=(",", ":")),
+            )
+        )
+        return {k: v for k, v in items}
+
+    return str(value).strip()
+
+
+def canonical_query_pairs(query: str) -> list[tuple[str, str]]:
+    pairs: list[tuple[str, str]] = []
+    for key, value in parse_qsl(query, keep_blank_values=True, strict_parsing=False):
+        lk = key.strip().lower()
+        if lk in IGNORED_REMARK_KEYS:
+            continue
+        nv = normalize_scalar(lk, value)
+        if isinstance(nv, str):
+            pairs.append((lk, nv))
+        else:
+            pairs.append((lk, json.dumps(nv, ensure_ascii=False, sort_keys=True, separators=(",", ":"))))
+    pairs.sort(key=lambda x: (x[0], x[1]))
+    return pairs
+
+
+def build_uri(
+    scheme: str,
+    userinfo: Optional[str],
+    host: str,
+    port: Optional[int],
+    path: str = "",
+    query_pairs: Optional[list[tuple[str, str]]] = None,
+    fragment: str = "",
+) -> str:
+    """
+    Build a normalized URI.
+    """
+    netloc = ""
+
+    if userinfo:
+        netloc += quote(userinfo, safe="")
+        netloc += "@"
+
+    if host:
+        if ":" in host and not host.startswith("["):
+            netloc += f"[{host}]"
+        else:
+            netloc += host.lower()
+
+    if port is not None:
+        netloc += f":{int(port)}"
+
+    query = urlencode(query_pairs or [], doseq=True) if query_pairs else ""
+    return urlunsplit((scheme, netloc, path or "", query, fragment or ""))
+
+
+# -----------------------------------------------------------------------------
+# Protocol-specific normalizers
+# -----------------------------------------------------------------------------
+def normalize_vmess(raw: str) -> tuple[Optional[str], Optional[str]]:
+    """
+    Returns: (dedup_key, canonical_uri)
+    """
+    if "://" not in raw:
+        return None, None
+
+    payload = raw.split("://", 1)[1].strip()
+    decoded = safe_b64_decode_text(payload)
+    if not decoded:
+        return None, None
+
+    try:
+        obj = json.loads(decoded.decode("utf-8", errors="ignore"))
+    except Exception:
+        return None, None
+
+    if not isinstance(obj, dict):
+        return None, None
+
+    normalized: dict[str, Any] = {}
+    for k, v in obj.items():
+        lk = str(k).strip().lower()
+        if lk in IGNORED_REMARK_KEYS:
+            continue
+        normalized[lk] = normalize_scalar(lk, v, lower_sensitive=(lk == "id"))
+
+    key_json = json.dumps(
+        normalized,
+        ensure_ascii=False,
+        sort_keys=True,
+        separators=(",", ":"),
+    )
+
+    # Keep share-link style JSON values as strings where that is typical.
+    rewrite_obj: dict[str, Any] = {}
+    for k, v in normalized.items():
+        if k in STRING_NUMBER_KEYS and v is not None:
+            rewrite_obj[k] = str(v)
+        else:
+            rewrite_obj[k] = v
+
+    rewrite_json = json.dumps(
+        rewrite_obj,
+        ensure_ascii=False,
+        sort_keys=True,
+        separators=(",", ":"),
+    )
+    canonical_uri = f"vmess://{b64_encode_nopad(rewrite_json.encode('utf-8'))}"
+    return key_json, canonical_uri
+
+
+def normalize_ss(raw: str) -> tuple[Optional[str], Optional[str]]:
+    """
+    Normalize Shadowsocks / SIP002.
+    """
+    if "://" not in raw:
+        return None, None
+
+    _, rest = raw.split("://", 1)
+    fragment = ""
+    if "#" in rest:
+        rest, fragment = rest.split("#", 1)
+    query = ""
+    if "?" in rest:
+        rest, query = rest.split("?", 1)
+
+    host = ""
+    port: Optional[int] = None
+    method = ""
+    password = ""
+    query_pairs = canonical_query_pairs(query)
+
+    # Case 1: SIP002 style ss://userinfo@host:port
+    if "@" in rest:
+        cred_part, host_port = rest.rsplit("@", 1)
+        host, port = parse_host_port(host_port)
+
+        decoded = safe_b64_decode_text(cred_part)
+        if decoded:
+            cred_text = decoded.decode("utf-8", errors="ignore")
+            if ":" in cred_text:
+                method, password = cred_text.split(":", 1)
+                method = method.strip().lower()
+                password = password.strip()
+            else:
+                method = cred_part.strip().lower()
+        else:
+            if ":" in cred_part:
+                method, password = cred_part.split(":", 1)
+                method = method.strip().lower()
+                password = password.strip()
+            else:
+                method = cred_part.strip().lower()
+
+    # Case 2: legacy ss://base64(method:password@host:port)
+    else:
+        decoded = safe_b64_decode_text(rest)
+        if decoded:
+            decoded_text = decoded.decode("utf-8", errors="ignore")
+            if "@" in decoded_text and ":" in decoded_text:
+                cred_part, host_port = decoded_text.rsplit("@", 1)
+                host, port = parse_host_port(host_port)
+                method, password = cred_part.split(":", 1)
+                method = method.strip().lower()
+                password = password.strip()
+
+    if host:
+        key_obj = {
+            "scheme": "ss",
+            "method": method,
+            "password": password,
+            "host": host.lower(),
+            "port": port,
+            "query": query_pairs,
+        }
+    else:
+        key_obj = {
+            "scheme": "ss",
+            "raw": rest.strip(),
+            "query": query_pairs,
+        }
+
+    key = json.dumps(key_obj, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+
+    canonical_uri = None
+    if host and port is not None and method:
+        userinfo = b64_encode_nopad(f"{method}:{password}".encode("utf-8"))
+        canonical_uri = build_uri("ss", userinfo, host.lower(), port, "", query_pairs, "")
+    elif host:
+        canonical_uri = build_uri("ss", None, host.lower(), port, "", query_pairs, "")
+
+    return key, canonical_uri
+
+
+def normalize_generic(raw: str, scheme_in: str) -> tuple[Optional[str], Optional[str]]:
+    """
+    Generic URI canonicalizer for VLESS / Trojan / SOCKS / Hysteria / TUIC / Juicity / AnyTLS.
+    Returns (dedup_key, canonical_uri).
+    Invalid links are skipped safely instead of crashing the job.
+    """
+    if "://" not in raw:
+        return None, None
+
+    try:
+        parsed = urlsplit(raw)
+    except ValueError:
+        logger.warning("Skipping invalid URI: %s", raw)
+        return None, None
+
+    scheme = SCHEME_ALIASES.get(parsed.scheme.lower(), parsed.scheme.lower()) or scheme_in.lower()
+    if not scheme:
+        return None, None
+
+    try:
+        port = parsed.port
+    except ValueError:
+        logger.warning("Skipping invalid URI with bad port: %s", raw)
+        return None, None
+
+    userinfo = parsed.username or ""
+    host = parsed.hostname or ""
+    path = parsed.path or ""
+    query_pairs = canonical_query_pairs(parsed.query)
+
+    if scheme == "vless":
+        userinfo = userinfo.lower()
+
+    host = host.lower()
+
+    key_obj = {
+        "scheme": scheme,
+        "userinfo": userinfo,
+        "host": host,
+        "port": port,
+        "path": path,
+        "query": query_pairs,
+    }
+
+    key = json.dumps(key_obj, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+
+    try:
+        canonical_uri = build_uri(scheme, userinfo or None, host, port, path, query_pairs, "")
+    except Exception:
+        logger.warning("Skipping invalid URI during rebuild: %s", raw)
+        return None, None
+
+    return key, canonical_uri
+
+
+def normalize_config(raw: str) -> tuple[Optional[str], Optional[str]]:
+    """
+    Return (dedup_key, canonical_uri).
+    """
+    line = (raw or "").strip()
+    if not line or line.startswith("#"):
+        return None, None
+    if "://" not in line:
+        return None, None
+
+    scheme = line.split("://", 1)[0].strip().lower()
+    scheme = SCHEME_ALIASES.get(scheme, scheme)
+
+    if scheme == "vmess":
+        return normalize_vmess(line)
+    if scheme == "ss":
+        return normalize_ss(line)
+    if scheme in {"vless", "trojan", "socks", "hysteria", "hysteria2", "tuic", "juicity", "wireguard", "anytls"}:
+        return normalize_generic(line, scheme)
+
+    # Unknown scheme: still do a safe generic dedup with host lowercasing and query sort.
+    return normalize_generic(line, scheme)
+
+
+# -----------------------------------------------------------------------------
+# File handling
+# -----------------------------------------------------------------------------
+@dataclass
+class StoredConfig:
+    raw: str
+    canonical: str
+
+
+def load_candidate_lines(input_path: str) -> list[str]:
+    with open(input_path, "r", encoding="utf-8", errors="ignore") as f:
+        text = f.read()
+
+    if "://" not in text:
+        decoded = decode_subscription_payload_if_needed(text)
+        if decoded != text:
+            text = decoded
+
+    lines: list[str] = []
+    for raw_line in text.splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#"):
+            continue
+
+        # If a single line itself is base64 subscription content, try to expand it.
+        if "://" not in line and is_probably_base64_line(line):
+            decoded = safe_b64_decode_text(line)
+            if decoded:
+                decoded_text = decoded.decode("utf-8", errors="ignore")
+                if "://" in decoded_text:
+                    for sub in decoded_text.splitlines():
+                        sub = sub.strip()
+                        if sub and not sub.startswith("#"):
+                            lines.append(sub)
+                    continue
+
+        lines.append(line)
+
+    return lines
+
+
+def process_servers(input_path: str, output_path: str, *, rewrite: bool = False, sort_output: bool = False) -> None:
+    logger.info("Processing %s", input_path)
+
+    if not os.path.exists(input_path):
+        raise FileNotFoundError(f"Input file not found: {input_path}")
+
+    lines = load_candidate_lines(input_path)
+
+    unique: "OrderedDict[str, StoredConfig]" = OrderedDict()
+    stats: Counter[str] = Counter()
+    invalid = 0
+
+    for raw_link in lines:
+        if not raw_link or raw_link.startswith("#"):
+            continue
+
+        proto = raw_link.split("://", 1)[0].lower() if "://" in raw_link else "unknown"
+        proto = SCHEME_ALIASES.get(proto, proto)
+
+        canonical, normalized_uri = normalize_config(raw_link)
+        if canonical is None:
+            invalid += 1
+            continue
+
+        if canonical not in unique:
+            unique[canonical] = StoredConfig(
+                raw=raw_link,
+                canonical=normalized_uri or raw_link,
+            )
+            stats[proto] += 1
+
+    items = list(unique.items())
+    if sort_output:
+        items.sort(key=lambda kv: kv[0])
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        for _, record in items:
+            f.write((record.canonical if rewrite else record.raw).rstrip() + "\n")
+
+    logger.info("Input: %d, Invalid: %d, Output: %d", len(lines), invalid, len(unique))
+    for proto, count in stats.most_common():
+        logger.info("%s: %d", proto, count)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Deduplicate V2Ray/Xray share links using protocol-aware canonicalization."
+    )
+    parser.add_argument("input_file", help="Input file containing one config per line")
+    parser.add_argument(
+        "-o",
+        "--output",
+        help="Output file. Default: overwrite input file via a temporary file.",
+        default=None,
+    )
+    parser.add_argument(
+        "--rewrite",
+        action="store_true",
+        help="Write normalized share links instead of the first raw occurrence.",
+    )
+    parser.add_argument(
+        "--sort-output",
+        action="store_true",
+        help="Sort output by canonical key. Default keeps first-seen order.",
+    )
+
+    args = parser.parse_args()
+
+    input_file = args.input_file
+    output_file = args.output or f"{input_file}.tmp"
+
+    process_servers(input_file, output_file, rewrite=args.rewrite, sort_output=args.sort_output)
+
+    if args.output is None:
+        os.replace(output_file, input_file)
+        print(f"Dedup completed. Unique configs written to {input_file}")
+    else:
+        print(f"Dedup completed. Unique configs written to {output_file}")
+
+
+if __name__ == "__main__":
+    main()

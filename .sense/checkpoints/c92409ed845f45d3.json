@@ -1,1 +1,10 @@
-ewogInJ1bl9pZCI6ICJjOTI0MDllZDg0NWY0NWQzIiwKICJzZXEiOiA1LAogInRzIjogIjIwMjYtMTAtMjRUMTA6MDI6MDciLAogInN0YXRlIjogewogICJyb2xlIjogImJldGEiLAogICJ2YWx1ZSI6IDEwLAogICJydWxlIjogIuWPquaVsCAnIyMg4piFTicg5byA5aS055qEIgogfQp9
+{
+ "run_id": "c92409ed845f45d3",
+ "seq": 5,
+ "ts": "2026-10-24T10:02:07",
+ "state": {
+  "role": "beta",
+  "value": 10,
+  "rule": "只数 '## ★N' 开头的"
+ }
+}

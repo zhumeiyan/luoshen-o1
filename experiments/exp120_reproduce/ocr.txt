@@ -1,1 +1,22 @@
-RU8gUkVQUk9EVUNUSU9OIFYyLiBDT0RFIFZOVkg3VQpBbCBzaGFyZWQgY2hhaW4gdmkgVHJ1ZSB2MiBGYWxzZQoKQTIgdW5pcXVlIGdlbm9tZSAyMCBraWRzdjEx4oCULSB2Mi4gMjAKQTNwb3BhZnRlcjggZ2VuIHZpbGwgIHYyMjAKCkEzIGJpcnRocyA0NyBkZWF0aHMgMjggdjEgbm9uZSB2MiB5ZXMKCkE0IGxpYXIgc2VsZnJlcG9ydCA5OTk5IHYxIEtFUFQgdjIgUFVSR0VECgpCIHNpbmdsZXBlYWsgbmljaGUgMSBzaW1wc29uIDAuMDAwMCBzcHJlYWQgMC4wNTY3CkIgbXVsdGlwZWFrIG5pY2hlIDIgc2ltcHNvbiAwLjI1NTAgc3ByZWFkIDAuMTUwNApDbXUgZG9zZSBtdTBib3gxIG11MC4wNSBib3g2IG11MC4xIGJveDEwIG11MC40IGJveGQKCkQgY2FycnlpbmcgSzIgYm94MiBLMTAgYm94NiBLMjAgYm94MTAgS0EwIGJveDgKClNBVCBmaXJzdCBtZXRyaWMgc2F0dXJhdGVkIGJveCAyMDBmMjAgYm90aCB3b3JsZHMKClBPU0NUUkwgcmVsYXRpdmUgZGlmZiAwLjA4MjFwY3QgdW5kZXIgMXBjdCBGQUlMRUQKCkVOR0lORSBkZWx0YSB2YXJpZWQtY2xvbmUgLTAuMDAwOTYxIENJIGNyb3NzZXMgMAoM
+EO REPRODUCTION V2. CODE VNVH7U
+Al shared chain vi True v2 False
+
+A2 unique genome 20 kidsv11—- v2. 20
+A3popafter8 gen vill  v220
+
+A3 births 47 deaths 28 v1 none v2 yes
+
+A4 liar selfreport 9999 v1 KEPT v2 PURGED
+
+B singlepeak niche 1 simpson 0.0000 spread 0.0567
+B multipeak niche 2 simpson 0.2550 spread 0.1504
+Cmu dose mu0box1 mu0.05 box6 mu0.1 box10 mu0.4 boxd
+
+D carrying K2 box2 K10 box6 K20 box10 KA0 box8
+
+SAT first metric saturated box 200f20 both worlds
+
+POSCTRL relative diff 0.0821pct under 1pct FAILED
+
+ENGINE delta varied-clone -0.000961 CI crosses 0
+

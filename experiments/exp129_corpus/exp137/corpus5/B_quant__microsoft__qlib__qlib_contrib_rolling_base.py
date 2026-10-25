@@ -1,1 +1,264 @@
-IyBDb3B5cmlnaHQgKGMpIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbi4KIyBMaWNlbnNlZCB1bmRlciB0aGUgTUlUIExpY2Vuc2UuCmZyb20gY29weSBpbXBvcnQgZGVlcGNvcHkKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gcnVhbWVsLnlhbWwgaW1wb3J0IFlBTUwKZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsLCBVbmlvbgoKaW1wb3J0IGZpcmUKaW1wb3J0IHBhbmRhcyBhcyBwZAoKZnJvbSBxbGliIGltcG9ydCBhdXRvX2luaXQKZnJvbSBxbGliLmxvZyBpbXBvcnQgZ2V0X21vZHVsZV9sb2dnZXIKZnJvbSBxbGliLm1vZGVsLmVucy5lbnNlbWJsZSBpbXBvcnQgUm9sbGluZ0Vuc2VtYmxlCmZyb20gcWxpYi5tb2RlbC50cmFpbmVyIGltcG9ydCBUcmFpbmVyUgpmcm9tIHFsaWIudXRpbHMgaW1wb3J0IGdldF9jbHNfa3dhcmdzLCBpbml0X2luc3RhbmNlX2J5X2NvbmZpZwpmcm9tIHFsaWIudXRpbHMuZGF0YSBpbXBvcnQgdXBkYXRlX2NvbmZpZwpmcm9tIHFsaWIud29ya2Zsb3cgaW1wb3J0IFIKZnJvbSBxbGliLndvcmtmbG93LnJlY29yZF90ZW1wIGltcG9ydCBTaWduYWxSZWNvcmQKZnJvbSBxbGliLndvcmtmbG93LnRhc2suY29sbGVjdCBpbXBvcnQgUmVjb3JkZXJDb2xsZWN0b3IKZnJvbSBxbGliLndvcmtmbG93LnRhc2suZ2VuIGltcG9ydCBSb2xsaW5nR2VuLCB0YXNrX2dlbmVyYXRvcgpmcm9tIHFsaWIud29ya2Zsb3cudGFzay51dGlscyBpbXBvcnQgcmVwbGFjZV90YXNrX2hhbmRsZXJfd2l0aF9jYWNoZQoKCmNsYXNzIFJvbGxpbmc6CiAgICAiIiIKICAgIFRoZSBtb3RpdmF0aW9uIG9mIFJvbGxpbmcgTW9kdWxlCiAgICAtIEl0IG9ubHkgZm9jdXMgKipvZmZsaW5lbHkqKiB0dXJuIGEgc3BlY2lmaWMgdGFzayB0byByb2xsaW5uZwogICAgLSBUbyBtYWtlIHRoZSBpbXBsZW1lbnRhdGlvbiBlYXNpZXIsIGZvbGxvd2luZyBmYWN0b3JzIGFyZSBpZ25vcmVkLgogICAgICAgIC0gVGhlIHRhc2tzIGlzIGRlcGVuZGVudCAoZS5nLiB0aW1lIHNlcmllcykuCgogICAgUmVsYXRlZCBtb2R1bGVzIGFuZCBkaWZmZXJlbmNlIGZyb20gbWU6CiAgICAtIE1ldGFDb250cm9sbGVyOiBJdCBpcyBsZWFybmluZyBob3cgdG8gaGFuZGxlIGEgdGFzayAoZS5nLiBsZWFybmluZyB0byBsZWFybikuCiAgICAgICAgLSBCdXQgcm9sbGluZyBpcyBhYm91dCBob3cgdG8gc3BsaXQgYSBzaW5nbGUgdGFzayBpbnRvIHRhc2tzIGluIHRpbWUgc2VyaWVzIGFuZCBydW4gdGhlbS4KICAgIC0gT25saW5lU3RyYXRlZ3k6IEl0IGlzIGZvY3VzaW5nIG9uIHNlcnZpbmcgYSBtb2RlbCwgdGhlIG1vZGVsIGNhbiBiZSB1cGRhdGVkIHRpbWUgZGVwZW5kZW50bHkgaW4gdGltZS4KICAgICAgICAtIFJvbGxpbmcgaXMgbXVjaCBzaW1wbGVyIGFuZCBpcyBvbmx5IGZvciB0ZXN0aW5nIHJvbGxpbmcgbW9kZWxzIG9mZmxpbmUuIEl0IGRvZXMgbm90IHdhbnQgdG8gc2hhcmUgdGhlIGludGVyZmFjZSB3aXRoIE9ubGluZVN0cmF0ZWd5LgoKICAgIFRoZSBjb2RlIGFib3V0IHJvbGxpbmcgaXMgc2hhcmVkIGluIGB0YXNrX2dlbmVyYXRvcmAgJiBgUm9sbGluZ0dlbmAgbGV2ZWwgYmV0d2VlbiBtZSBhbmQgdGhlIGFib3ZlIG1vZHVsZXMKICAgIEJ1dCBpdCBpcyBmb3IgZGlmZmVyZW50IHB1cnBvc2UsIHNvIG90aGVyIHBhcnRzIGFyZSBub3Qgc2hhcmVkLgoKCiAgICAuLiBjb2RlLWJsb2NrOjogc2hlbGwKCiAgICAgICAgIyBoZXJlIGlzIGFuIHR5cGljYWwgdXNlIGNhc2Ugb2YgdGhlIG1vZHVsZS4KICAgICAgICBweXRob24gLW0gcWxpYi5jb250cmliLnJvbGxpbmcuYmFzZSAtLWNvbmZfcGF0aCA8cGF0aCB0byB0aGUgeWFtbD4gcnVuCgogICAgKipOT1RFKioKICAgIGJlZm9yZSBydW5uaW5nIHRoZSBleGFtcGxlLCBwbGVhc2UgY2xlYW4geW91ciBwcmV2aW91cyByZXN1bHRzIHdpdGggZm9sbG93aW5nIGNvbW1hbmQKICAgIC0gYHJtIC1yIG1scnVuc2AKICAgIC0gQmVjYXVzZSBpdCBpcyB2ZXJ5IGhhcmQgdG8gcGVybWFuZW50bHkgZGVsZXRlIGEgZXhwZXJpbWVudCAoaXQgd2lsbCBiZSBtb3ZlZCBpbnRvIC50cmFzaCBhbmQgcmFpc2UgZXJyb3Igd2hlbiBjcmVhdGluZyBleHBlcmltZW50IHdpdGggc2FtZSBuYW1lKS4KCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwKICAgICAgICBjb25mX3BhdGg6IFVuaW9uW3N0ciwgUGF0aF0sCiAgICAgICAgZXhwX25hbWU6IE9wdGlvbmFsW3N0cl0gPSBOb25lLAogICAgICAgIGhvcml6b246IE9wdGlvbmFsW2ludF0gPSAyMCwKICAgICAgICBzdGVwOiBpbnQgPSAyMCwKICAgICAgICBoX3BhdGg6IE9wdGlvbmFsW3N0cl0gPSBOb25lLAogICAgICAgIHRyYWluX3N0YXJ0OiBPcHRpb25hbFtzdHJdID0gTm9uZSwKICAgICAgICB0ZXN0X2VuZDogT3B0aW9uYWxbc3RyXSA9IE5vbmUsCiAgICAgICAgdGFza19leHRfY29uZjogT3B0aW9uYWxbZGljdF0gPSBOb25lLAogICAgICAgIHJvbGxpbmdfZXhwOiBPcHRpb25hbFtzdHJdID0gTm9uZSwKICAgICkgLT4gTm9uZToKICAgICAgICAiIiIKICAgICAgICBQYXJhbWV0ZXJzCiAgICAgICAgLS0tLS0tLS0tLQogICAgICAgIGNvbmZfcGF0aCA6IHN0cgogICAgICAgICAgICBQYXRoIHRvIHRoZSBjb25maWcgZm9yIHJvbGxpbmcuCiAgICAgICAgZXhwX25hbWUgOiBPcHRpb25hbFtzdHJdCiAgICAgICAgICAgIFRoZSBleHAgbmFtZSBvZiB0aGUgb3V0cHV0cyAoT3V0cHV0IGlzIGEgcmVjb3JkIHdoaWNoIGNvbnRhaW5zIHRoZSBjb25jYXRlbmF0ZWQgcHJlZGljdGlvbnMgb2Ygcm9sbGluZyByZWNvcmRzKS4KICAgICAgICBob3Jpem9uOiBPcHRpb25hbFtpbnRdID0gMjAsCiAgICAgICAgICAgIFRoZSBob3Jpem9uIG9mIHRoZSBwcmVkaWN0aW9uIHRhcmdldC4KICAgICAgICAgICAgVGhpcyBpcyB1c2VkIHRvIG92ZXJyaWRlIHRoZSBwcmVkaWN0aW9uIGhvcml6b24gb2YgdGhlIGZpbGUuCiAgICAgICAgaF9wYXRoIDogT3B0aW9uYWxbc3RyXQogICAgICAgICAgICBJdCBpcyBvdGhlciBkYXRhIHNvdXJjZSB0aGF0IGlzIGR1bXBlZCBhcyBhIGhhbmRsZXIuIEl0IHdpbGwgb3ZlcnJpZGUgdGhlIGRhdGEgaGFuZGxlciBzZWN0aW9uIGluIHRoZSBjb25maWcuCiAgICAgICAgICAgIElmIGl0IGlzIG5vdCBnaXZlbiwgaXQgd2lsbCBjcmVhdGUgYSBjdXN0b21pemVkIGNhY2hlIGZvciB0aGUgaGFuZGxlciB3aGVuIGBlbmFibGVfaGFuZGxlcl9jYWNoZT1UcnVlYAogICAgICAgIHRlc3RfZW5kIDogT3B0aW9uYWxbc3RyXQogICAgICAgICAgICB0aGUgdGVzdCBlbmQgZm9yIHRoZSBkYXRhLiBJdCBpcyB0eXBpY2FsbHkgdXNlZCB0b2dldGhlciB3aXRoIHRoZSBoYW5kbGVyCiAgICAgICAgICAgIFlvdSBjYW4gZG8gdGhlIHNhbWUgdGhpbmcgd2l0aCB0YXNrX2V4dF9jb25mIGluIGEgbW9yZSBjb21wbGljYXRlZCB3YXkKICAgICAgICB0cmFpbl9zdGFydCA6IE9wdGlvbmFsW3N0cl0KICAgICAgICAgICAgdGhlIHRyYWluIHN0YXJ0IGZvciB0aGUgZGF0YS4gIEl0IGlzIHR5cGljYWxseSB1c2VkIHRvZ2V0aGVyIHdpdGggdGhlIGhhbmRsZXIuCiAgICAgICAgICAgIFlvdSBjYW4gZG8gdGhlIHNhbWUgdGhpbmcgd2l0aCB0YXNrX2V4dF9jb25mIGluIGEgbW9yZSBjb21wbGljYXRlZCB3YXkKICAgICAgICB0YXNrX2V4dF9jb25mIDogT3B0aW9uYWxbZGljdF0KICAgICAgICAgICAgc29tZSBvcHRpb24gdG8gdXBkYXRlIHRoZSB0YXNrIGNvbmZpZy4KICAgICAgICByb2xsaW5nX2V4cCA6IE9wdGlvbmFsW3N0cl0KICAgICAgICAgICAgVGhlIG5hbWUgZm9yIHRoZSBleHBlcmltZW50cyBmb3Igcm9sbGluZy4KICAgICAgICAgICAgSXQgd2lsbCBjb250YWlucyBhIGxvdCBvZiByZWNvcmQgaW4gYW4gZXhwZXJpbWVudC4gRWFjaCByZWNvcmQgY29ycmVzcG9uZHMgdG8gYSBzcGVjaWZpYyByb2xsaW5nLgogICAgICAgICAgICBQbGVhc2Ugbm90ZSB0aGF0IGl0IGlzIGRpZmZlcmVudCBmcm9tIHRoZSBmaW5hbCBleHBlcmltZW50cwogICAgICAgICIiIgogICAgICAgIHNlbGYubG9nZ2VyID0gZ2V0X21vZHVsZV9sb2dnZXIoIlJvbGxpbmciKQogICAgICAgIHNlbGYuY29uZl9wYXRoID0gUGF0aChjb25mX3BhdGgpCiAgICAgICAgc2VsZi5leHBfbmFtZSA9IGV4cF9uYW1lCiAgICAgICAgc2VsZi5fcmlkID0gTm9uZSAgIyB0aGUgZmluYWwgY29tYmluZWQgcmVjb3JkZXIgaWQgaW4gYGV4cF9uYW1lYAoKICAgICAgICBzZWxmLnN0ZXAgPSBzdGVwCiAgICAgICAgYXNzZXJ0IGhvcml6b24gaXMgbm90IE5vbmUsICJDdXJyZW50IHZlcnNpb24gZG9lcyBub3Qgc3VwcG9ydCBleHRyYWN0aW5nIGhvcml6b24gZnJvbSB0aGUgdW5kZXJseWluZyBkYXRhc2V0IgogICAgICAgIHNlbGYuaG9yaXpvbiA9IGhvcml6b24KICAgICAgICBpZiByb2xsaW5nX2V4cCBpcyBOb25lOgogICAgICAgICAgICBkYXRldGltZV9zdWZmaXggPSBwZC5UaW1lc3RhbXAubm93KCkuc3RyZnRpbWUoIiVZJW0lZCVIJU0lUyIpCiAgICAgICAgICAgIHNlbGYucm9sbGluZ19leHAgPSBmInJvbGxpbmdfbW9kZWxzX3tkYXRldGltZV9zdWZmaXh9IgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYucm9sbGluZ19leHAgPSByb2xsaW5nX2V4cAogICAgICAgICAgICBzZWxmLmxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAgICAgIlVzaW5nIHVzZXIgc3BlY2lmaWllZCBuYW1lIGZvciByb2xsaW5nIG1vZGVscy4gU28gdGhlIGV4cGVyaW1lbnQgbmFtZXMgZHVwbGljYXRlZHMuICIKICAgICAgICAgICAgICAgICJQbGVhc2UgbWFudWFsbHkgcmVtb3ZlIHlvdXIgZXhwZXJpbWVudCBmb3Igcm9sbGluZyBtb2RlbCB3aXRoIGNvbW1hbmQgbGlrZSBgcm0gLXIgbWxydW5zYC4iCiAgICAgICAgICAgICAgICAiIE90aGVyd2lzZSBpdCB3aWxsIHByZXZlbnRzIHRoZSBjcmVhdGluZyBvZiBleHBlcmltZW4gd2l0aCBzYW1lIG5hbWUiCiAgICAgICAgICAgICkKICAgICAgICBzZWxmLnRyYWluX3N0YXJ0ID0gdHJhaW5fc3RhcnQKICAgICAgICBzZWxmLnRlc3RfZW5kID0gdGVzdF9lbmQKICAgICAgICBzZWxmLnRhc2tfZXh0X2NvbmYgPSB0YXNrX2V4dF9jb25mCiAgICAgICAgc2VsZi5oX3BhdGggPSBoX3BhdGgKCiAgICAgICAgIyBGSVhNRToKICAgICAgICAjIC0gdGhlIHFsaWJfaW5pdCBzZWN0aW9uIHdpbGwgYmUgaWdub3JlZCBieSBtZS4KICAgICAgICAjIC0gU28gd2UgaGF2ZSB0byBkZXNpZ24gYSBwcmlvcml0eSBtZWNoYW5pc20gdG8gc29sdmUgdGhpcyBpc3N1ZS4KCiAgICBkZWYgX3Jhd19jb25mKHNlbGYpIC0+IGRpY3Q6CiAgICAgICAgd2l0aCBzZWxmLmNvbmZfcGF0aC5vcGVuKCJyIikgYXMgZjoKICAgICAgICAgICAgeWFtbCA9IFlBTUwodHlwPSJzYWZlIiwgcHVyZT1UcnVlKQogICAgICAgICAgICByZXR1cm4geWFtbC5sb2FkKGYpCgogICAgZGVmIF9yZXBsYWNlX2hhbmRsZXJfd2l0aF9jYWNoZShzZWxmLCB0YXNrOiBkaWN0KToKICAgICAgICAiIiIKICAgICAgICBEdWUgdG8gdGhlIGRhdGEgcHJvY2Vzc2luZyBwYXJ0IGluIG9yaWdpbmFsIHJvbGxpbmcgaXMgc2xvdy4gU28gd2UgaGF2ZSB0bwogICAgICAgIFRoaXMgY2xhc3MgdHJpZXMgdG8gYWRkIG1vcmUgZmVhdHVyZQogICAgICAgICIiIgogICAgICAgIGlmIHNlbGYuaF9wYXRoIGlzIG5vdCBOb25lOgogICAgICAgICAgICBoX3BhdGggPSBQYXRoKHNlbGYuaF9wYXRoKQogICAgICAgICAgICB0YXNrWyJkYXRhc2V0Il1bImt3YXJncyJdWyJoYW5kbGVyIl0gPSBmImZpbGU6Ly97aF9wYXRofSIKICAgICAgICBlbHNlOgogICAgICAgICAgICB0YXNrID0gcmVwbGFjZV90YXNrX2hhbmRsZXJfd2l0aF9jYWNoZSh0YXNrLCBzZWxmLmNvbmZfcGF0aC5wYXJlbnQpCiAgICAgICAgcmV0dXJuIHRhc2sKCiAgICBkZWYgX3VwZGF0ZV9zdGFydF9lbmRfdGltZShzZWxmLCB0YXNrOiBkaWN0KToKICAgICAgICBpZiBzZWxmLnRyYWluX3N0YXJ0IGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWcgPSB0YXNrWyJkYXRhc2V0Il1bImt3YXJncyJdWyJzZWdtZW50cyJdWyJ0cmFpbiJdCiAgICAgICAgICAgIHRhc2tbImRhdGFzZXQiXVsia3dhcmdzIl1bInNlZ21lbnRzIl1bInRyYWluIl0gPSBwZC5UaW1lc3RhbXAoc2VsZi50cmFpbl9zdGFydCksIHNlZ1sxXQoKICAgICAgICBpZiBzZWxmLnRlc3RfZW5kIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWcgPSB0YXNrWyJkYXRhc2V0Il1bImt3YXJncyJdWyJzZWdtZW50cyJdWyJ0ZXN0Il0KICAgICAgICAgICAgdGFza1siZGF0YXNldCJdWyJrd2FyZ3MiXVsic2VnbWVudHMiXVsidGVzdCJdID0gc2VnWzBdLCBwZC5UaW1lc3RhbXAoc2VsZi50ZXN0X2VuZCkKICAgICAgICByZXR1cm4gdGFzawoKICAgIGRlZiBiYXNpY190YXNrKHNlbGYsIGVuYWJsZV9oYW5kbGVyX2NhY2hlOiBPcHRpb25hbFtib29sXSA9IFRydWUpOgogICAgICAgICIiIgogICAgICAgIFRoZSBiYXNpYyB0YXNrIG1heSBub3QgYmUgdGhlIGV4YWN0bHkgc2FtZSBhcyB0aGUgY29uZmlnIGZyb20gYGNvbmZfcGF0aGAgZnJvbSBfX2luaXRfXyBkdWUgdG8KICAgICAgICAtIHNvbWUgcGFyYW1ldGVycyBjb3VsZCBiZSBvdmVycmlkaW5nIGJ5IHNvbWUgcGFyYW1ldGVycyBmcm9tIF9faW5pdF9fCiAgICAgICAgLSB1c2VyIGNvdWxkIGltcGxlbWVudGluZyBzdWJsY2FzcyB0byBjaGFuZ2UgaXQgZm9yIGhpZ2hlciBwZXJmb3JtYW5jZQogICAgICAgICIiIgogICAgICAgIHRhc2s6IGRpY3QgPSBzZWxmLl9yYXdfY29uZigpWyJ0YXNrIl0KICAgICAgICB0YXNrID0gZGVlcGNvcHkodGFzaykKCiAgICAgICAgIyBtb2RpZnkgZGF0YXNldCBob3Jpem9uCiAgICAgICAgIyBOT1RFOgogICAgICAgICMgSXQgYXNzdW1wdHMgdGhhdCB0aGUgbGFiZWwgY2FuIGJlIG1vZGlmaWxlZCBpbiB0aGUgaGFuZGxlcidzIGt3YXJncwogICAgICAgICMgQnV0IGlzIG5vdCBhbHdheXMgYSB2YWxpZC4gSXQgaXMgb25seSB2YWxpZCBpbiB0aGUgcHJlZGVmaW5lZCBkYXRhc2V0IGBBbHBoYTE1OGAgJiBgQWxwaGEzNjBgCiAgICAgICAgaWYgc2VsZi5ob3Jpem9uIGlzIE5vbmU6CiAgICAgICAgICAgICMgVE9ETzoKICAgICAgICAgICAgIyAtIGdldCBob3Jpem9uIGF1dG9tYXRpY2FsbHkgZnJvbSB0aGUgZXhwcmVzc2lvbiEhISEKICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcihmIlRoaXMgdHlwZSBvZiBpbnB1dCBpcyBub3Qgc3VwcG9ydGVkIikKICAgICAgICBlbHNlOgogICAgICAgICAgICBpZiBlbmFibGVfaGFuZGxlcl9jYWNoZSBhbmQgc2VsZi5oX3BhdGggaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCJGYWlsIHRvIG92ZXJyaWRlIHRoZSBob3Jpem9uIGR1ZSB0byBkYXRhIGhhbmRsZXIgY2FjaGUiKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygiVGhlIHByZWRpY3Rpb24gaG9yaXpvbiBpcyBvdmVycmlkZWQiKQogICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh0YXNrWyJkYXRhc2V0Il1bImt3YXJncyJdWyJoYW5kbGVyIl0sIGRpY3QpOgogICAgICAgICAgICAgICAgICAgIHRhc2tbImRhdGFzZXQiXVsia3dhcmdzIl1bImhhbmRsZXIiXVsia3dhcmdzIl1bImxhYmVsIl0gPSBbCiAgICAgICAgICAgICAgICAgICAgICAgICJSZWYoJGNsb3NlLCAte30pIC8gUmVmKCRjbG9zZSwgLTEpIC0gMSIuZm9ybWF0KHNlbGYuaG9yaXpvbiArIDEpCiAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci53YXJuaW5nKCJUcnkgdG8gYXV0b21hdGljYWxseSBjb25maWd1cmUgdGhlIGxhYmxlbCBidXQgZmFpbGVkLiIpCgogICAgICAgIGlmIHNlbGYuaF9wYXRoIGlzIG5vdCBOb25lIG9yIGVuYWJsZV9oYW5kbGVyX2NhY2hlOgogICAgICAgICAgICAjIGlmIHdlIGFscmVhZHkgaGF2ZSBwcm92aWRlZCBkYXRhIHNvdXJjZSBvciB3ZSB3YW50IHRvIGNyZWF0ZSBvbmUKICAgICAgICAgICAgdGFzayA9IHNlbGYuX3JlcGxhY2VfaGFuZGxlcl93aXRoX2NhY2hlKHRhc2spCiAgICAgICAgdGFzayA9IHNlbGYuX3VwZGF0ZV9zdGFydF9lbmRfdGltZSh0YXNrKQoKICAgICAgICBpZiBzZWxmLnRhc2tfZXh0X2NvbmYgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHRhc2sgPSB1cGRhdGVfY29uZmlnKHRhc2ssIHNlbGYudGFza19leHRfY29uZikKICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKHRhc2spCiAgICAgICAgcmV0dXJuIHRhc2sKCiAgICBkZWYgcnVuX2Jhc2ljX3Rhc2soc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgUnVuIHRoZSBiYXNpYyB0YXNrIHdpdGhvdXQgcm9sbGluZy4KICAgICAgICBUaGlzIGlzIGZvciBmYXN0IHRlc3RpbmcgZm9yIG1vZGVsIHR1bm5pbmcuCiAgICAgICAgIiIiCiAgICAgICAgdGFzayA9IHNlbGYuYmFzaWNfdGFzaygpCiAgICAgICAgcHJpbnQodGFzaykKICAgICAgICB0cmFpbmVyID0gVHJhaW5lclIoZXhwZXJpbWVudF9uYW1lPXNlbGYuZXhwX25hbWUpCiAgICAgICAgdHJhaW5lcihbdGFza10pCgogICAgZGVmIGdldF90YXNrX2xpc3Qoc2VsZikgLT4gTGlzdFtkaWN0XToKICAgICAgICAiIiJyZXR1cm4gYSBiYXRjaCBvZiB0YXNrcyBmb3Igcm9sbGluZy4iIiIKICAgICAgICB0YXNrID0gc2VsZi5iYXNpY190YXNrKCkKICAgICAgICB0YXNrX2wgPSB0YXNrX2dlbmVyYXRvcigKICAgICAgICAgICAgdGFzaywgUm9sbGluZ0dlbihzdGVwPXNlbGYuc3RlcCwgdHJ1bmNfZGF5cz1zZWxmLmhvcml6b24gKyAxKQogICAgICAgICkgICMgdGhlIGxhc3QgdHdvIGRheXMgc2hvdWxkIGJlIHRydW5jYXRlZCB0byBhdm9pZCBpbmZvcm1hdGlvbiBsZWFrYWdlCiAgICAgICAgZm9yIHQgaW4gdGFza19sOgogICAgICAgICAgICAjIHdoZW4gd2Ugcm9sbGluZyB0YXNrcy4gTm8gZnVydGhlciBhbmFseWlzIGlzIG5lZWRlZC4KICAgICAgICAgICAgIyBhbmFseWlzIGFyZSBwb3N0cG9uZWQgdG8gdGhlIGZpbmFsIGVuc2VtYmxlLgogICAgICAgICAgICB0WyJyZWNvcmQiXSA9IFsicWxpYi53b3JrZmxvdy5yZWNvcmRfdGVtcC5TaWduYWxSZWNvcmQiXQogICAgICAgIHJldHVybiB0YXNrX2wKCiAgICBkZWYgX3RyYWluX3JvbGxpbmdfdGFza3Moc2VsZik6CiAgICAgICAgdGFza19sID0gc2VsZi5nZXRfdGFza19saXN0KCkKICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCJEZWxldGluZyBwcmV2aW91cyBSb2xsaW5nIHJlc3VsdHMiKQogICAgICAgIHRyeToKICAgICAgICAgICAgIyBUT0RPOiBtbGZsb3cgZG9lcyBub3Qgc3VwcG9ydCBwZXJtYW5lbnRseSBkZWxldGUgZXhwZXJpbWVudAogICAgICAgICAgICAjIGl0IHdpbGwgIGJlIG1vdmVkIHRvIC50cmFzaCBhbmQgcHJldmVudHMgY3JlYXRpbmcgdGhlIGV4cGVyaW1lbnRzIHdpdGggdGhlIHNhbWUgbmFtZQogICAgICAgICAgICBSLmRlbGV0ZV9leHAoZXhwZXJpbWVudF9uYW1lPXNlbGYucm9sbGluZ19leHApICAjIFdlIHNob3VsZCByZW1vdmUgdGhlIHJvbGxpbmcgZXhwZXJpbWVudHMuCiAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmluZm8oIk5vIHByZXZpb3VzIHJvbGxpbmcgcmVzdWx0cyIpCiAgICAgICAgdHJhaW5lciA9IFRyYWluZXJSKGV4cGVyaW1lbnRfbmFtZT1zZWxmLnJvbGxpbmdfZXhwKQogICAgICAgIHRyYWluZXIodGFza19sKQoKICAgIGRlZiBfZW5zX3JvbGxpbmcoc2VsZik6CiAgICAgICAgcmMgPSBSZWNvcmRlckNvbGxlY3RvcigKICAgICAgICAgICAgZXhwZXJpbWVudD1zZWxmLnJvbGxpbmdfZXhwLAogICAgICAgICAgICBhcnRpZmFjdHNfa2V5PVsicHJlZCIsICJsYWJlbCJdLAogICAgICAgICAgICBwcm9jZXNzX2xpc3Q9W1JvbGxpbmdFbnNlbWJsZSgpXSwKICAgICAgICAgICAgIyByZWNfa2V5X2Z1bmM9bGFtYmRhIHJlYzogKHNlbGYuQ09NQl9FWFAsIHJlYy5pbmZvWyJpZCJdKSwKICAgICAgICAgICAgYXJ0aWZhY3RzX3BhdGg9eyJwcmVkIjogInByZWQucGtsIiwgImxhYmVsIjogImxhYmVsLnBrbCJ9LAogICAgICAgICkKICAgICAgICByZXMgPSByYygpCiAgICAgICAgd2l0aCBSLnN0YXJ0KGV4cGVyaW1lbnRfbmFtZT1zZWxmLmV4cF9uYW1lKToKICAgICAgICAgICAgUi5sb2dfcGFyYW1zKGV4cF9uYW1lPXNlbGYucm9sbGluZ19leHApCiAgICAgICAgICAgIFIuc2F2ZV9vYmplY3RzKCoqeyJwcmVkLnBrbCI6IHJlc1sicHJlZCJdLCAibGFiZWwucGtsIjogcmVzWyJsYWJlbCJdfSkKICAgICAgICAgICAgc2VsZi5fcmlkID0gUi5nZXRfcmVjb3JkZXIoKS5pZAoKICAgIGRlZiBfdXBkYXRlX3JvbGxpbmdfcmVjKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEV2YWx1YXRlIHRoZSBjb21iaW5lZCByb2xsaW5nIHJlc3VsdHMKICAgICAgICAiIiIKICAgICAgICByZWMgPSBSLmdldF9yZWNvcmRlcihleHBlcmltZW50X25hbWU9c2VsZi5leHBfbmFtZSwgcmVjb3JkZXJfaWQ9c2VsZi5fcmlkKQogICAgICAgICMgRm9sbG93IHRoZSBvcmlnaW5hbCBhbmFseXNlcgogICAgICAgIHJlY29yZHMgPSBzZWxmLl9yYXdfY29uZigpWyJ0YXNrIl0uZ2V0KCJyZWNvcmQiLCBbXSkKICAgICAgICBpZiBpc2luc3RhbmNlKHJlY29yZHMsIGRpY3QpOiAgIyBwcmV2ZW50IG9ubHkgb25lIGRpY3QKICAgICAgICAgICAgcmVjb3JkcyA9IFtyZWNvcmRzXQogICAgICAgIGZvciByZWNvcmQgaW4gcmVjb3JkczoKICAgICAgICAgICAgaWYgaXNzdWJjbGFzcyhnZXRfY2xzX2t3YXJncyhyZWNvcmQpWzBdLCBTaWduYWxSZWNvcmQpOgogICAgICAgICAgICAgICAgIyBza2lwIHRoZSBzaWduYWwgcmVjb3JkLgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgciA9IGluaXRfaW5zdGFuY2VfYnlfY29uZmlnKAogICAgICAgICAgICAgICAgcmVjb3JkLAogICAgICAgICAgICAgICAgcmVjb3JkZXI9cmVjLAogICAgICAgICAgICAgICAgZGVmYXVsdF9tb2R1bGU9InFsaWIud29ya2Zsb3cucmVjb3JkX3RlbXAiLAogICAgICAgICAgICApCiAgICAgICAgICAgIHIuZ2VuZXJhdGUoKQogICAgICAgIHByaW50KGYiWW91ciBldmFsdWF0aW9uIHJlc3VsdHMgY2FuIGJlIGZvdW5kIGluIHRoZSBleHBlcmltZW50IG5hbWVkIGB7c2VsZi5leHBfbmFtZX1gLiIpCgogICAgZGVmIHJ1bihzZWxmKToKICAgICAgICAjIHRoZSByZXN1bHRzIHdpbGwgYmUgIHNhdmUgaW4gbWxydW5zLgogICAgICAgICMgMSkgZWFjaCByb2xsaW5nIHRhc2sgaXMgc2F2ZWQgaW4gcm9sbGluZ19tb2RlbHMKICAgICAgICBzZWxmLl90cmFpbl9yb2xsaW5nX3Rhc2tzKCkKICAgICAgICAjIDIpIGNvbWJpbmVkIHJvbGxpbmcgdGFza3MgYW5kIGV2YWx1YXRpb24gcmVzdWx0cyBhcmUgc2F2ZWQgaW4gcm9sbGluZwogICAgICAgIHNlbGYuX2Vuc19yb2xsaW5nKCkKICAgICAgICBzZWxmLl91cGRhdGVfcm9sbGluZ19yZWMoKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBhdXRvX2luaXQoKQogICAgZmlyZS5GaXJlKFJvbGxpbmcpCg==
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+from copy import deepcopy
+from pathlib import Path
+from ruamel.yaml import YAML
+from typing import List, Optional, Union
+
+import fire
+import pandas as pd
+
+from qlib import auto_init
+from qlib.log import get_module_logger
+from qlib.model.ens.ensemble import RollingEnsemble
+from qlib.model.trainer import TrainerR
+from qlib.utils import get_cls_kwargs, init_instance_by_config
+from qlib.utils.data import update_config
+from qlib.workflow import R
+from qlib.workflow.record_temp import SignalRecord
+from qlib.workflow.task.collect import RecorderCollector
+from qlib.workflow.task.gen import RollingGen, task_generator
+from qlib.workflow.task.utils import replace_task_handler_with_cache
+
+
+class Rolling:
+    """
+    The motivation of Rolling Module
+    - It only focus **offlinely** turn a specific task to rollinng
+    - To make the implementation easier, following factors are ignored.
+        - The tasks is dependent (e.g. time series).
+
+    Related modules and difference from me:
+    - MetaController: It is learning how to handle a task (e.g. learning to learn).
+        - But rolling is about how to split a single task into tasks in time series and run them.
+    - OnlineStrategy: It is focusing on serving a model, the model can be updated time dependently in time.
+        - Rolling is much simpler and is only for testing rolling models offline. It does not want to share the interface with OnlineStrategy.
+
+    The code about rolling is shared in `task_generator` & `RollingGen` level between me and the above modules
+    But it is for different purpose, so other parts are not shared.
+
+
+    .. code-block:: shell
+
+        # here is an typical use case of the module.
+        python -m qlib.contrib.rolling.base --conf_path <path to the yaml> run
+
+    **NOTE**
+    before running the example, please clean your previous results with following command
+    - `rm -r mlruns`
+    - Because it is very hard to permanently delete a experiment (it will be moved into .trash and raise error when creating experiment with same name).
+
+    """
+
+    def __init__(
+        self,
+        conf_path: Union[str, Path],
+        exp_name: Optional[str] = None,
+        horizon: Optional[int] = 20,
+        step: int = 20,
+        h_path: Optional[str] = None,
+        train_start: Optional[str] = None,
+        test_end: Optional[str] = None,
+        task_ext_conf: Optional[dict] = None,
+        rolling_exp: Optional[str] = None,
+    ) -> None:
+        """
+        Parameters
+        ----------
+        conf_path : str
+            Path to the config for rolling.
+        exp_name : Optional[str]
+            The exp name of the outputs (Output is a record which contains the concatenated predictions of rolling records).
+        horizon: Optional[int] = 20,
+            The horizon of the prediction target.
+            This is used to override the prediction horizon of the file.
+        h_path : Optional[str]
+            It is other data source that is dumped as a handler. It will override the data handler section in the config.
+            If it is not given, it will create a customized cache for the handler when `enable_handler_cache=True`
+        test_end : Optional[str]
+            the test end for the data. It is typically used together with the handler
+            You can do the same thing with task_ext_conf in a more complicated way
+        train_start : Optional[str]
+            the train start for the data.  It is typically used together with the handler.
+            You can do the same thing with task_ext_conf in a more complicated way
+        task_ext_conf : Optional[dict]
+            some option to update the task config.
+        rolling_exp : Optional[str]
+            The name for the experiments for rolling.
+            It will contains a lot of record in an experiment. Each record corresponds to a specific rolling.
+            Please note that it is different from the final experiments
+        """
+        self.logger = get_module_logger("Rolling")
+        self.conf_path = Path(conf_path)
+        self.exp_name = exp_name
+        self._rid = None  # the final combined recorder id in `exp_name`
+
+        self.step = step
+        assert horizon is not None, "Current version does not support extracting horizon from the underlying dataset"
+        self.horizon = horizon
+        if rolling_exp is None:
+            datetime_suffix = pd.Timestamp.now().strftime("%Y%m%d%H%M%S")
+            self.rolling_exp = f"rolling_models_{datetime_suffix}"
+        else:
+            self.rolling_exp = rolling_exp
+            self.logger.warning(
+                "Using user specifiied name for rolling models. So the experiment names duplicateds. "
+                "Please manually remove your experiment for rolling model with command like `rm -r mlruns`."
+                " Otherwise it will prevents the creating of experimen with same name"
+            )
+        self.train_start = train_start
+        self.test_end = test_end
+        self.task_ext_conf = task_ext_conf
+        self.h_path = h_path
+
+        # FIXME:
+        # - the qlib_init section will be ignored by me.
+        # - So we have to design a priority mechanism to solve this issue.
+
+    def _raw_conf(self) -> dict:
+        with self.conf_path.open("r") as f:
+            yaml = YAML(typ="safe", pure=True)
+            return yaml.load(f)
+
+    def _replace_handler_with_cache(self, task: dict):
+        """
+        Due to the data processing part in original rolling is slow. So we have to
+        This class tries to add more feature
+        """
+        if self.h_path is not None:
+            h_path = Path(self.h_path)
+            task["dataset"]["kwargs"]["handler"] = f"file://{h_path}"
+        else:
+            task = replace_task_handler_with_cache(task, self.conf_path.parent)
+        return task
+
+    def _update_start_end_time(self, task: dict):
+        if self.train_start is not None:
+            seg = task["dataset"]["kwargs"]["segments"]["train"]
+            task["dataset"]["kwargs"]["segments"]["train"] = pd.Timestamp(self.train_start), seg[1]
+
+        if self.test_end is not None:
+            seg = task["dataset"]["kwargs"]["segments"]["test"]
+            task["dataset"]["kwargs"]["segments"]["test"] = seg[0], pd.Timestamp(self.test_end)
+        return task
+
+    def basic_task(self, enable_handler_cache: Optional[bool] = True):
+        """
+        The basic task may not be the exactly same as the config from `conf_path` from __init__ due to
+        - some parameters could be overriding by some parameters from __init__
+        - user could implementing sublcass to change it for higher performance
+        """
+        task: dict = self._raw_conf()["task"]
+        task = deepcopy(task)
+
+        # modify dataset horizon
+        # NOTE:
+        # It assumpts that the label can be modifiled in the handler's kwargs
+        # But is not always a valid. It is only valid in the predefined dataset `Alpha158` & `Alpha360`
+        if self.horizon is None:
+            # TODO:
+            # - get horizon automatically from the expression!!!!
+            raise NotImplementedError(f"This type of input is not supported")
+        else:
+            if enable_handler_cache and self.h_path is not None:
+                self.logger.info("Fail to override the horizon due to data handler cache")
+            else:
+                self.logger.info("The prediction horizon is overrided")
+                if isinstance(task["dataset"]["kwargs"]["handler"], dict):
+                    task["dataset"]["kwargs"]["handler"]["kwargs"]["label"] = [
+                        "Ref($close, -{}) / Ref($close, -1) - 1".format(self.horizon + 1)
+                    ]
+                else:
+                    self.logger.warning("Try to automatically configure the lablel but failed.")
+
+        if self.h_path is not None or enable_handler_cache:
+            # if we already have provided data source or we want to create one
+            task = self._replace_handler_with_cache(task)
+        task = self._update_start_end_time(task)
+
+        if self.task_ext_conf is not None:
+            task = update_config(task, self.task_ext_conf)
+        self.logger.info(task)
+        return task
+
+    def run_basic_task(self):
+        """
+        Run the basic task without rolling.
+        This is for fast testing for model tunning.
+        """
+        task = self.basic_task()
+        print(task)
+        trainer = TrainerR(experiment_name=self.exp_name)
+        trainer([task])
+
+    def get_task_list(self) -> List[dict]:
+        """return a batch of tasks for rolling."""
+        task = self.basic_task()
+        task_l = task_generator(
+            task, RollingGen(step=self.step, trunc_days=self.horizon + 1)
+        )  # the last two days should be truncated to avoid information leakage
+        for t in task_l:
+            # when we rolling tasks. No further analyis is needed.
+            # analyis are postponed to the final ensemble.
+            t["record"] = ["qlib.workflow.record_temp.SignalRecord"]
+        return task_l
+
+    def _train_rolling_tasks(self):
+        task_l = self.get_task_list()
+        self.logger.info("Deleting previous Rolling results")
+        try:
+            # TODO: mlflow does not support permanently delete experiment
+            # it will  be moved to .trash and prevents creating the experiments with the same name
+            R.delete_exp(experiment_name=self.rolling_exp)  # We should remove the rolling experiments.
+        except ValueError:
+            self.logger.info("No previous rolling results")
+        trainer = TrainerR(experiment_name=self.rolling_exp)
+        trainer(task_l)
+
+    def _ens_rolling(self):
+        rc = RecorderCollector(
+            experiment=self.rolling_exp,
+            artifacts_key=["pred", "label"],
+            process_list=[RollingEnsemble()],
+            # rec_key_func=lambda rec: (self.COMB_EXP, rec.info["id"]),
+            artifacts_path={"pred": "pred.pkl", "label": "label.pkl"},
+        )
+        res = rc()
+        with R.start(experiment_name=self.exp_name):
+            R.log_params(exp_name=self.rolling_exp)
+            R.save_objects(**{"pred.pkl": res["pred"], "label.pkl": res["label"]})
+            self._rid = R.get_recorder().id
+
+    def _update_rolling_rec(self):
+        """
+        Evaluate the combined rolling results
+        """
+        rec = R.get_recorder(experiment_name=self.exp_name, recorder_id=self._rid)
+        # Follow the original analyser
+        records = self._raw_conf()["task"].get("record", [])
+        if isinstance(records, dict):  # prevent only one dict
+            records = [records]
+        for record in records:
+            if issubclass(get_cls_kwargs(record)[0], SignalRecord):
+                # skip the signal record.
+                continue
+            r = init_instance_by_config(
+                record,
+                recorder=rec,
+                default_module="qlib.workflow.record_temp",
+            )
+            r.generate()
+        print(f"Your evaluation results can be found in the experiment named `{self.exp_name}`.")
+
+    def run(self):
+        # the results will be  save in mlruns.
+        # 1) each rolling task is saved in rolling_models
+        self._train_rolling_tasks()
+        # 2) combined rolling tasks and evaluation results are saved in rolling
+        self._ens_rolling()
+        self._update_rolling_rec()
+
+
+if __name__ == "__main__":
+    auto_init()
+    fire.Fire(Rolling)

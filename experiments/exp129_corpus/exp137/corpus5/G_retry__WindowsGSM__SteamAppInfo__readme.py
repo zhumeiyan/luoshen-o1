@@ -1,1 +1,29 @@
-aW1wb3J0IGpzb24KCgpkZWYgbWFpbigpOgogICAgIiIiR2VuZXJhdGUgUkVBRE1FLm1kIiIiCiAgICB3aXRoIG9wZW4oJ2FwcHMuanNvbicsICdyJywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZnA6CiAgICAgICAgYXBwcyA9IGpzb24ubG9hZHMoZnAucmVhZCgpKQoKICAgIGhlYWRlciA9ICcnJyMgU3RlYW1BcHBJbmZvCkdldCB0aGUgbGF0ZXN0IHN0ZWFtIGFwcCBpbmZvIGpzb24gaGVyZSwgYXV0b21hdGljIHVwZGF0ZWQgZXZlcnkgNSBtaW51dGVzLgoKVGhpcyByZXBvc2l0b3J5IG9ubHkgdXBkYXRlcyB0aGUgZGVkaWNhdGVkIHNlcnZlciBhcHBzIGZvciBnYW1lIHNlcnZlciBtYW5hZ2VtZW50IHB1cnBvc2VzLgoKRm9yIHRoZSBkZWRpY2F0ZWQgc2VydmVyIGxhdGVzdCBicmFuY2hlcywgcGxlYXNlIGNoZWNrIFticmFuY2hlcy5qc29uXShicmFuY2hlcy5qc29uKQoKIyMgQXBwIExpc3QKCicnJwoKICAgIHRhYmxlID0gJycnfCBBcHBJZCB8IE5hbWUgfCBBcHBJbmZvIEpzb24gfFxufCAtIHwgLSB8IC0gfFxuJycnCgogICAgZm9yIGFwcCBpbiBhcHBzOgogICAgICAgIHRhYmxlICs9IGYifCBge2FwcFsnYXBwaWQnXX1gIHwge2FwcFsnbmFtZSddfSB8IFt7YXBwWydhcHBpZCddfS5qc29uXShBcHBJbmZvL3thcHBbJ2FwcGlkJ119Lmpzb24pIHxcbiIKCiAgICB3aXRoIG9wZW4oJ1JFQURNRS5tZCcsICd3JywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZnA6CiAgICAgICAgZnAud3JpdGUoaGVhZGVyICsgdGFibGUpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+import json
+
+
+def main():
+    """Generate README.md"""
+    with open('apps.json', 'r', encoding='utf-8') as fp:
+        apps = json.loads(fp.read())
+
+    header = '''# SteamAppInfo
+Get the latest steam app info json here, automatic updated every 5 minutes.
+
+This repository only updates the dedicated server apps for game server management purposes.
+
+For the dedicated server latest branches, please check [branches.json](branches.json)
+
+## App List
+
+'''
+
+    table = '''| AppId | Name | AppInfo Json |\n| - | - | - |\n'''
+
+    for app in apps:
+        table += f"| `{app['appid']}` | {app['name']} | [{app['appid']}.json](AppInfo/{app['appid']}.json) |\n"
+
+    with open('README.md', 'w', encoding='utf-8') as fp:
+        fp.write(header + table)
+
+if __name__ == "__main__":
+    main()

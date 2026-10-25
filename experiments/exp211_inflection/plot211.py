@@ -1,1 +1,71 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24KaW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliIGltcG9ydCBmb250X21hbmFnZXIKaW1wb3J0IG51bXB5IGFzIG5wCgpmb3IgZiBpbiBbIldlblF1YW5ZaSBNaWNybyBIZWkiLCJOb3RvIFNhbnMgQ0pLIFNDIiwiRGVqYVZ1IFNhbnMiXToKICAgIHRyeToKICAgICAgICBmb250X21hbmFnZXIuZmluZGZvbnQoZiwgZmFsbGJhY2tfdG9fZGVmYXVsdD1GYWxzZSk7IHBsdC5yY1BhcmFtc1siZm9udC5zYW5zLXNlcmlmIl09W2ZdOyBicmVhawogICAgZXhjZXB0IEV4Y2VwdGlvbjogY29udGludWUKcGx0LnJjUGFyYW1zWyJheGVzLnVuaWNvZGVfbWludXMiXT1GYWxzZQoKcm93cyA9IGpzb24ubG9hZChvcGVuKCJhZ2cyMTEuanNvbiIpKQpiICA9IFtyWyJiZXRhIl0gZm9yIHIgaW4gcm93c10KSCAgPSBbclsiSGZpbiJdIGZvciByIGluIHJvd3NdCkhzID0gW3JbIkhzZCJdIGZvciByIGluIHJvd3NdCkhMID0gW3JbIkhsYXN0NSJdIGZvciByIGluIHJvd3NdCkEgID0gW3JbImFjYyJdIGZvciByIGluIHJvd3NdCkMgID0gW3JbImNvbGxhcHNlIl0gZm9yIHIgaW4gcm93c10KCmZpZywgYXggPSBwbHQuc3VicGxvdHMoMiwyLCBmaWdzaXplPSgxMyw5KSkKCiMgQTog5bSp5aGM546H6Zi25qKvCmF4WzAsMF0uc3RlcChiLCBDLCB3aGVyZT0icG9zdCIsIGx3PTIuNSwgY29sb3I9ImNyaW1zb24iLCBtYXJrZXI9Im8iLCBtcz03KQpheFswLDBdLmF4dmxpbmUoMC4wMiwgY29sb3I9Im5hdnkiLCBscz0iLS0iLCBsdz0yLCBhbHBoYT0uOCkKYXhbMCwwXS5hbm5vdGF0ZSgi5ouQ54K5IM6yKuKJiDAuMDJcbuW0qeWhjCA0Lzgg4oaSIDAvOCIsIHh5PSgwLjAyLDQpLCB4eXRleHQ9KDAuMzUsNC4zKSwKICAgICAgICAgICAgICAgICBmb250c2l6ZT0xMSwgY29sb3I9Im5hdnkiLAogICAgICAgICAgICAgICAgIGFycm93cHJvcHM9ZGljdChhcnJvd3N0eWxlPSItPiIsIGNvbG9yPSJuYXZ5IiwgbHc9MS44KSkKYXhbMCwwXS5zZXRfeHNjYWxlKCJzeW1sb2ciLCBsaW50aHJlc2g9MC4wMSkKYXhbMCwwXS5zZXRfeGxhYmVsKCLni6znibnmgKfmnYPph40gzrIgKHN5bWxvZykiKTsgYXhbMCwwXS5zZXRfeWxhYmVsKCLmnKvku6PltKnloYzmlbAgLyA4IHNlZWRzIikKYXhbMCwwXS5zZXRfdGl0bGUoIkEgIOWkmuagt+aAp+W0qeWhjO+8muWPsOmYtuWcqCDOsj0wLjAyIiwgZm9udHNpemU9MTIsIGZvbnR3ZWlnaHQ9ImJvbGQiKQpheFswLDBdLnNldF95bGltKC0wLjMsIDUpOyBheFswLDBdLmdyaWQoYWxwaGE9LjMpCgojIEI6IOacq+S7o+eGtQpheFswLDFdLmVycm9yYmFyKGIsIEgsIHllcnI9SHMsIG1hcmtlcj0ibyIsIG1zPTcsIGx3PTIsIGNhcHNpemU9NCwKICAgICAgICAgICAgICAgICBjb2xvcj0iZGFya2dyZWVuIiwgZWNvbG9yPSJsaWdodGdyZWVuIikKYXhbMCwxXS5wbG90KGIsIEhMLCBtYXJrZXI9InMiLCBtcz01LCBsdz0xLjUsIGxzPSI6IiwgY29sb3I9ImdyYXkiLCBsYWJlbD0i5pyrNeS7o+W5s+WdhyIpCmF4WzAsMV0uYXh2bGluZSgwLjAyLCBjb2xvcj0ibmF2eSIsIGxzPSItLSIsIGx3PTIsIGFscGhhPS44KQpheFswLDFdLnNldF94c2NhbGUoInN5bWxvZyIsIGxpbnRocmVzaD0wLjAxKQpheFswLDFdLnNldF94bGFiZWwoIueLrOeJueaAp+adg+mHjSDOsiAoc3ltbG9nKSIpOyBheFswLDFdLnNldF95bGFiZWwoIuenjee+pOeGtSAoYml0cykiKQpheFswLDFdLnNldF90aXRsZSgiQiAg5YiG5bGC5bqm6LeD5Y+YIDAuNzMg4oaSIDEuMzMgKCs4MiUpIiwgZm9udHNpemU9MTIsIGZvbnR3ZWlnaHQ9ImJvbGQiKQpheFswLDFdLmxlZ2VuZChmb250c2l6ZT05KTsgYXhbMCwxXS5ncmlkKGFscGhhPS4zKQoKIyBDOiDpooTmtYvlipvku6Pku7cKYXhbMSwwXS5wbG90KGIsIEEsIG1hcmtlcj0ibyIsIG1zPTcsIGx3PTIsIGNvbG9yPSJkYXJrb3JhbmdlIikKYXhbMSwwXS5heHZsaW5lKDAuMDIsIGNvbG9yPSJuYXZ5IiwgbHM9Ii0tIiwgbHc9MiwgYWxwaGE9LjgpCmF4WzEsMF0uc2V0X3hzY2FsZSgic3ltbG9nIiwgbGludGhyZXNoPTAuMDEpCmF4WzEsMF0uc2V0X3hsYWJlbCgi54us54m55oCn5p2D6YeNIM6yIChzeW1sb2cpIik7IGF4WzEsMF0uc2V0X3lsYWJlbCgi6aKE5rWL5YeG56Gu546HIikKYXhbMSwwXS5zZXRfdGl0bGUoIkMgIOS7o+S7t++8muS4gOasoeaAp+S7mOa4he+8jOS5i+WQjuS4jeWKoOS7tyIsIGZvbnRzaXplPTEyLCBmb250d2VpZ2h0PSJib2xkIikKYXhbMSwwXS5ncmlkKGFscGhhPS4zKQpheFsxLDBdLmFubm90YXRlKGYie0FbMF06LjRmfSIsIHh5PShiWzBdLEFbMF0pLCB4eXRleHQ9KDAuMTUsQVswXSswLjAwNiksIGZvbnRzaXplPTksIGNvbG9yPSJkYXJrb3JhbmdlIikKYXhbMSwwXS5hbm5vdGF0ZShmIntBWzJdOi40Zn0iLCB4eT0oYlsyXSxBWzJdKSwgeHl0ZXh0PSgwLjE1LEFbMl0tMC4wMDgpLCBmb250c2l6ZT05LCBjb2xvcj0iZGFya29yYW5nZSIpCgojIEQ6IOadg+ihoSDigJQg5YiG5bGC5bqmIHZzIOmihOa1i+WKmwpheFsxLDFdLnBsb3QoQSwgSCwgbWFya2VyPSJvIiwgbXM9OSwgbHc9MCwgY29sb3I9InB1cnBsZSIpCmZvciBpLGJiIGluIGVudW1lcmF0ZShiKToKICAgIGF4WzEsMV0uYW5ub3RhdGUoZiLOsj17YmJ9IiwgKEFbaV0sSFtpXSksIGZvbnRzaXplPTgsIHh5dGV4dD0oNCw0KSwKICAgICAgICAgICAgICAgICAgICAgdGV4dGNvb3Jkcz0ib2Zmc2V0IHBvaW50cyIpCmF4WzEsMV0uc2NhdHRlcihbQVswXV0sW0hbMF1dLCBzPTIyMCwgZmFjZWNvbG9ycz0ibm9uZSIsIGVkZ2Vjb2xvcnM9InJlZCIsIGx3PTIuNSwgbGFiZWw9Is6yPTAgKOWNiuaVsOW0qeWhjCkiKQpheFsxLDFdLnNjYXR0ZXIoW0FbMl1dLFtIWzJdXSwgcz0yMjAsIGZhY2Vjb2xvcnM9Im5vbmUiLCBlZGdlY29sb3JzPSJuYXZ5IiwgbHc9Mi41LCBsYWJlbD0izrI9MC4wMiAo5ouQ54K5KSIpCmF4WzEsMV0uc2V0X3hsYWJlbCgi6aKE5rWL5YeG56Gu546HICjku6Pku7cpIik7IGF4WzEsMV0uc2V0X3lsYWJlbCgi56eN576k54a1ICjliIblsYLluqYpIikKYXhbMSwxXS5zZXRfdGl0bGUoIkQgIOW4lee0r+aJmOmdou+8muaLkOeCueS5i+WQjuWFqOaYr+W5s+WPsCIsIGZvbnRzaXplPTEyLCBmb250d2VpZ2h0PSJib2xkIikKYXhbMSwxXS5sZWdlbmQoZm9udHNpemU9OSk7IGF4WzEsMV0uZ3JpZChhbHBoYT0uMykKCnBsdC5zdXB0aXRsZSgiMjExICDmi5DngrnvvJrni6znibnmgKfmnYPph40gzrIg55qE5Li055WM5YC8IOKAlOKAlCDku47ljp/lrZDlsYIgaz0wIOi1t+atpeW+gOS4iuWOruadgCIsCiAgICAgICAgICAgICBmb250c2l6ZT0xNCwgZm9udHdlaWdodD0iYm9sZCIpCnBsdC50aWdodF9sYXlvdXQocmVjdD1bMCwwLDEsMC45Nl0pCnBsdC5zYXZlZmlnKCJyZW5kZXIyMTEucG5nIiwgZHBpPTEzMCkKcHJpbnQoInNhdmVkIHJlbmRlcjIxMS5wbmciKQo=
+# -*- coding: utf-8 -*-
+import json
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+import numpy as np
+
+for f in ["WenQuanYi Micro Hei","Noto Sans CJK SC","DejaVu Sans"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False); plt.rcParams["font.sans-serif"]=[f]; break
+    except Exception: continue
+plt.rcParams["axes.unicode_minus"]=False
+
+rows = json.load(open("agg211.json"))
+b  = [r["beta"] for r in rows]
+H  = [r["Hfin"] for r in rows]
+Hs = [r["Hsd"] for r in rows]
+HL = [r["Hlast5"] for r in rows]
+A  = [r["acc"] for r in rows]
+C  = [r["collapse"] for r in rows]
+
+fig, ax = plt.subplots(2,2, figsize=(13,9))
+
+# A: 崩塌率阶梯
+ax[0,0].step(b, C, where="post", lw=2.5, color="crimson", marker="o", ms=7)
+ax[0,0].axvline(0.02, color="navy", ls="--", lw=2, alpha=.8)
+ax[0,0].annotate("拐点 β*≈0.02\n崩塌 4/8 → 0/8", xy=(0.02,4), xytext=(0.35,4.3),
+                 fontsize=11, color="navy",
+                 arrowprops=dict(arrowstyle="->", color="navy", lw=1.8))
+ax[0,0].set_xscale("symlog", linthresh=0.01)
+ax[0,0].set_xlabel("独特性权重 β (symlog)"); ax[0,0].set_ylabel("末代崩塌数 / 8 seeds")
+ax[0,0].set_title("A  多样性崩塌：台阶在 β=0.02", fontsize=12, fontweight="bold")
+ax[0,0].set_ylim(-0.3, 5); ax[0,0].grid(alpha=.3)
+
+# B: 末代熵
+ax[0,1].errorbar(b, H, yerr=Hs, marker="o", ms=7, lw=2, capsize=4,
+                 color="darkgreen", ecolor="lightgreen")
+ax[0,1].plot(b, HL, marker="s", ms=5, lw=1.5, ls=":", color="gray", label="末5代平均")
+ax[0,1].axvline(0.02, color="navy", ls="--", lw=2, alpha=.8)
+ax[0,1].set_xscale("symlog", linthresh=0.01)
+ax[0,1].set_xlabel("独特性权重 β (symlog)"); ax[0,1].set_ylabel("种群熵 (bits)")
+ax[0,1].set_title("B  分层度跃变 0.73 → 1.33 (+82%)", fontsize=12, fontweight="bold")
+ax[0,1].legend(fontsize=9); ax[0,1].grid(alpha=.3)
+
+# C: 预测力代价
+ax[1,0].plot(b, A, marker="o", ms=7, lw=2, color="darkorange")
+ax[1,0].axvline(0.02, color="navy", ls="--", lw=2, alpha=.8)
+ax[1,0].set_xscale("symlog", linthresh=0.01)
+ax[1,0].set_xlabel("独特性权重 β (symlog)"); ax[1,0].set_ylabel("预测准确率")
+ax[1,0].set_title("C  代价：一次性付清，之后不加价", fontsize=12, fontweight="bold")
+ax[1,0].grid(alpha=.3)
+ax[1,0].annotate(f"{A[0]:.4f}", xy=(b[0],A[0]), xytext=(0.15,A[0]+0.006), fontsize=9, color="darkorange")
+ax[1,0].annotate(f"{A[2]:.4f}", xy=(b[2],A[2]), xytext=(0.15,A[2]-0.008), fontsize=9, color="darkorange")
+
+# D: 权衡 — 分层度 vs 预测力
+ax[1,1].plot(A, H, marker="o", ms=9, lw=0, color="purple")
+for i,bb in enumerate(b):
+    ax[1,1].annotate(f"β={bb}", (A[i],H[i]), fontsize=8, xytext=(4,4),
+                     textcoords="offset points")
+ax[1,1].scatter([A[0]],[H[0]], s=220, facecolors="none", edgecolors="red", lw=2.5, label="β=0 (半数崩塌)")
+ax[1,1].scatter([A[2]],[H[2]], s=220, facecolors="none", edgecolors="navy", lw=2.5, label="β=0.02 (拐点)")
+ax[1,1].set_xlabel("预测准确率 (代价)"); ax[1,1].set_ylabel("种群熵 (分层度)")
+ax[1,1].set_title("D  帕累托面：拐点之后全是平台", fontsize=12, fontweight="bold")
+ax[1,1].legend(fontsize=9); ax[1,1].grid(alpha=.3)
+
+plt.suptitle("211  拐点：独特性权重 β 的临界值 —— 从原子层 k=0 起步往上厮杀",
+             fontsize=14, fontweight="bold")
+plt.tight_layout(rect=[0,0,1,0.96])
+plt.savefig("render211.png", dpi=130)
+print("saved render211.png")

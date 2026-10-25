@@ -1,1 +1,143 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCueFp+S6uuexu+S9nOeUu+eahOmAu+i+keeUuyDigJTigJQg5LiN5piv54Wn5YyF55S744CCCgrmn6XkuoYgQWRvYmUg5a6Y5pa5ICsgUHJvY3JlYXRlIOWumOaWuSArIEFybSBNYWxpIOWumOaWueaWh+aho++8jOS4ieadoe+8mgoKICAxLiDmt7flkIjmqKHlvI/vvJrpu5jorqTjgIzmraPluLjjgI09IOimhuebliA9IOe6uOOAggogICAgIOimgeOAjOeOu+eSg+OAjeW+l+S4u+WKqOaUueaIkOOAkOe6v+aAp+WHj+a3oSjmt7vliqAp44CR44CC5Lq657G76buY6K6k5Zyo5LqS55u46KaG55uW44CCCiAgMi4g5YiG5Z2X5riy5p+T77yaTWFsaSBHUFUg5oqK5bGP5bmV5YiH5oiQIDE2w5cxNiDlsI/lnZfvvIznrpflrozkuIDlnZflhpnlm57kuIDlnZfjgIIKICAgICDlt6XkvZzpm4bku44gMTA0ODU3NiDpmY3liLAgMjU2IOKAlOKAlCDnnIEgNDA5NiDlgI3jgIIKICAzLiDkvZznlLvmtYHnqIvvvJrmlbTkvZPlhYjooYwg4oaSIOmTuuWkp+WFs+ezuyDihpIg6KeG6KeJ5Lit5b+D5pyA5Lqu44CB5b6A5aSW6KGw5YePIOKGkiDpgIDov5znnIvmlbTkvZPjgIIKCuesrCAzIOadoeacgOWFs+mUru+8muS6uuexu+eUu+WutuWHoOeZvuW5tOWwseWcqOOAkOaMieinhuinieS4reW/g+ihsOWHj+OAkeeUu++8jArkvYbku5bku6zkuI3mmK/nhafnnYDnnLznnZvnlJ/nkIbmlbDmja7nlLvnmoQg4oCU4oCUIOaYr+aViOaenOmAvOedgOS7luS7rOi/meS5iOeUu+eahOOAggrov5not5/miJHnmoQgZm92ZWEg6KGw5YeP5piv5ZCM5LiA5Lu25LqL55qE5Lik5p2h5p2l6Lev44CCCgogICAgcHl0aG9uMyBwYWludF9odW1hbi5weSDmqKHlvI8gICAgICAjIOWQhOa3t+WQiOaooeW8j+Wunua1iwogICAgcHl0aG9uMyBwYWludF9odW1hbi5weSDliIblnZcgICAgICAjIHRpbGUg5aSn5bCP5a6e5rWLCiAgICBweXRob24zIHBhaW50X2h1bWFuLnB5IOeUuyAgICAgICAgIyDmjInkurrnsbvmtYHnqIvnlLvvvJrlpKflhbPns7sg4oaSIOS4reW/gyDihpIg6KGw5YePCiIiIgppbXBvcnQgb3MsIHN5cywgdGltZSwgaGFzaGxpYgppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBQSUwgaW1wb3J0IEltYWdlCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCmltcG9ydCBleWUsIGxheWVyLCBmb3ZwYWludAoKUk9PVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpXID0gSCA9IDUxMgpPUkFOR0UgPSBucC5hcnJheShbMS4wLCAwLjQyLCAwLjBdKQoKIyAtLS0tLS0tLS0tIDEuIOa3t+WQiOaooeW8j++8iEFkb2JlL1Byb2NyZWF0ZSDlrpjmlrnlhazlvI/vvIktLS0tLS0tLS0tCk1PREVTID0gewogICAgIuato+W4uCjpu5jorqTCt+e6uCkiOiAgIGxhbWJkYSBiLCBzOiBzLAogICAgIuato+eJh+WPoOW6lSI6ICAgICAgICBsYW1iZGEgYiwgczogYiAqIHMsCiAgICAi5ruk6ImyIjogICAgICAgICAgICBsYW1iZGEgYiwgczogMSAtICgoMSAtIGIpICogKDEgLSBzKSksCiAgICAi57q/5oCn5YeP5rehKOa3u+WKoMK3546755KDKSI6IGxhbWJkYSBiLCBzOiBucC5jbGlwKGIgKyBzLCAwLCAxKSwKICAgICLlj5jkuq4iOiAgICAgICAgICAgIGxhbWJkYSBiLCBzOiBucC5tYXhpbXVtKGIsIHMpLAogICAgIuWPoOWKoCI6ICAgICAgICAgICAgbGFtYmRhIGIsIHM6IG5wLndoZXJlKGIgPD0gMC41LCAyICogYiAqIHMsIDEgLSAyICogKDEgLSBiKSAqICgxIC0gcykpLAogICAgIuaflOWFiSI6ICAgICAgICAgICAgbGFtYmRhIGIsIHM6IG5wLndoZXJlKHMgPD0gMC41LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiIC0gKDEgLSAyICogcykgKiBiICogKDEgLSBiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYiArICgyICogcyAtIDEpICogKG5wLnNxcnQobnAuY2xpcChiLDAsMSkpIC0gYikpLAp9CgojIC0tLS0tLS0tLS0gMi4g5YiG5Z2X5riy5p+T77yITWFsaSAxNngxNu+8iS0tLS0tLS0tLS0KZGVmIHRpbGVzKHNoYXBlLCB0aWxlPTE2KToKICAgIEhfLCBXXyA9IHNoYXBlWzoyXQogICAgZm9yIHkwIGluIHJhbmdlKDAsIEhfLCB0aWxlKToKICAgICAgICBmb3IgeDAgaW4gcmFuZ2UoMCwgV18sIHRpbGUpOgogICAgICAgICAgICB5aWVsZCB5MCwgbWluKHkwICsgdGlsZSwgSF8pLCB4MCwgbWluKHgwICsgdGlsZSwgV18pCgoKIyAtLS0tLS0tLS0tIDMuIOS6uuexu+S9nOeUu+a1geeoiyAtLS0tLS0tLS0tCmRlZiBzdGFnZV9iaWcoKToKICAgICIiIuesrOS4gOatpcK36ZO65aSn5YWz57O777ya5Y+q5pyJ5piO5pqX5Lik5Z2X77yM5rKh5pyJ57uG6IqCIiIiCiAgICB5eSwgeHggPSBucC5tZ3JpZFswOkgsIDA6V10uYXN0eXBlKGZsb2F0KQogICAgZCA9IG5wLnNxcnQoKHl5IC0gSC8yKSoqMiArICh4eCAtIFcvMikqKjIpIC8gKFcvMikKICAgIGEgPSBucC5jbGlwKDEgLSBkLCAwLCAxKSAqIDAuMzUKICAgIG91dCA9IG5wLnplcm9zKChILCBXLCAzKSkKICAgIG91dFsuLi4sIDBdID0gYTsgb3V0Wy4uLiwgMV0gPSBhICogMC40MgogICAgcmV0dXJuIG91dAoKCmRlZiBzdGFnZV9jZW50ZXIoKToKICAgICIiIuesrOS6jOatpcK36KeG6KeJ5Lit5b+D77ya5Li75L2T5pyA5Lqu77yM5Y+q55S75Lit5b+DIiIiCiAgICBvdXQgPSBucC56ZXJvcygoSCwgVywgMykpCiAgICB5eSwgeHggPSBucC5tZ3JpZFswOkgsIDA6V10uYXN0eXBlKGZsb2F0KQogICAgcHhfcGVyX2RlZyA9IFcgLyBleWUuU0NSRUVOX1dfREVHCiAgICBlY2MgPSBucC5zcXJ0KCh5eSAtIEgvMikqKjIgKyAoeHggLSBXLzIpKioyKSAvIHB4X3Blcl9kZWcKICAgIG0gPSBlY2MgPCBleWUuRk9WRUFfREVHIC8gMgogICAgb3V0W21dID0gT1JBTkdFICogMC45CiAgICByZXR1cm4gb3V0CgoKZGVmIHN0YWdlX2ZhbGxvZmYoKToKICAgICIiIuesrOS4ieatpcK35b6A5aSW6KGw5YeP77ya5Lit5b+D5b6A5aSW77yM5Lqu5bqm5ZKM6aWx5ZKM5bqm5LiA6LW35o6JIiIiCiAgICB5eSwgeHggPSBucC5tZ3JpZFswOkgsIDA6V10uYXN0eXBlKGZsb2F0KQogICAgcHhfcGVyX2RlZyA9IFcgLyBleWUuU0NSRUVOX1dfREVHCiAgICBlY2MgPSBucC5zcXJ0KCh5eSAtIEgvMikqKjIgKyAoeHggLSBXLzIpKioyKSAvIHB4X3Blcl9kZWcKICAgIGEgPSBucC52ZWN0b3JpemUoZXllLmFjdWl0eSkoZWNjKQogICAgb3V0ID0gbnAuemVyb3MoKEgsIFcsIDMpKQogICAgb3V0Wy4uLiwgMF0gPSBucC5jbGlwKGEsIDAsIDEpICogMC41CiAgICBvdXRbLi4uLCAxXSA9IG5wLmNsaXAoYSwgMCwgMSkgKiogMS42ICogMC4xOAogICAgcmV0dXJuIG91dAoKCmRlZiBzdGFnZV9zdGVwYmFjayhpbWcpOgogICAgIiIi56ys5Zub5q2lwrfpgIDov5znnIvvvJrmlbTkvZPpmY3ph4fmoLfvvIznnIvov5jliankuIvku4DkuYgiIiIKICAgIGsgPSA4CiAgICBoMiwgdzIgPSBIIC8vIGssIFcgLy8gawogICAgc21hbGwgPSBucC56ZXJvcygoaDIsIHcyLCAzKSkKICAgIGZvciB5MCwgeTEsIHgwLCB4MSBpbiB0aWxlcygoSCwgVyksIGspOgogICAgICAgIHNtYWxsW3kwLy9rOnkxLy9rLCB4MC8vazp4MS8va10gPSBpbWdbeTA6eTEsIHgwOngxXS5tZWFuKGF4aXM9KDAsIDEpKQogICAgcmV0dXJuIHNtYWxsCgoKZGVmIHNoYShhKToKICAgIHJldHVybiBoYXNobGliLnNoYTI1NihucC5yb3VuZChhLCA2KS50b2J5dGVzKCkpLmhleGRpZ2VzdCgpWzoxMl0KCgpkZWYgc2F2ZShhLCBuYW1lKToKICAgIHAgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIuaEn+WumOahpSIsIG5hbWUpCiAgICBJbWFnZS5mcm9tYXJyYXkoKG5wLmNsaXAoYSwgMCwgMSkgKiAyNTUpLmFzdHlwZShucC51aW50OCkpLnNhdmUocCkKICAgIHJldHVybiBwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGNtZCA9IHN5cy5hcmd2WzFdIGlmIGxlbihzeXMuYXJndikgPiAxIGVsc2UgIueUuyIKICAgIGlmIGNtZCA9PSAi5qih5byPIjoKICAgICAgICBiID0gbnAuYXJyYXkoWzAuMTUsIDAuMDUsIDAuMF0pOyBzID0gbnAuYXJyYXkoWzEuMCwgMC40MiwgMC4wXSkKICAgICAgICBwcmludCgiICDlupUgYj0lcyAg6aG2IHM9JXMo55Sf5qmZKVxuIiAlIChiLCBzKSkKICAgICAgICBmb3IgbiwgZm4gaW4gTU9ERVMuaXRlbXMoKToKICAgICAgICAgICAgcHJpbnQoIiAgJS0yMnMgJXMiICUgKG4sIG5wLnJvdW5kKGZuKGIsIHMpLCAzKSkpCiAgICAgICAgcHJpbnQoIlxu4oaSIOm7mOiupOOAjOato+W4uOOAjT0g6KaG55uWID0g57q444CC5Lq657G75L2c55S76L2v5Lu26buY6K6k5Zyo5LqS55u46KaG55uW44CCIikKICAgICAgICBwcmludCgi4oaSIOeOu+eSgyjnur/mgKflh4/mt6Ep6KaB5Li75Yqo5pS544CC6L+Z5piv5oiR5LuO5Lq657G75bel5YW36YeM5a2m5Yiw55qE56ys5LiA5p2h44CCIikKICAgIGVsaWYgY21kID09ICLliIblnZciOgogICAgICAgIGZvciBUIGluIFsxLCA0LCAxNiwgNjQsIDEyOF06CiAgICAgICAgICAgIG4gPSAoSCAvLyBUKSAqIChXIC8vIFQpCiAgICAgICAgICAgIHByaW50KCIgIHRpbGU9JS00ZCDlnZfmlbA9JS03ZCDls7DlgLzlt6XkvZzpm4Y9JS03ZCDlhpnlm549JWQiICUgKFQsIG4sIFQgKiBULCBuKSkKICAgICAgICBwcmludCgiXG7ihpIgMTZ4MTY9MjU2cHgg5piv44CQ54mH5LiKIFJBTSDmlL7lvpfkuIvjgJHlrprnmoTvvIzkuI3mmK/pmo/kvr/pgInnmoTvvIhBcm0g5a6Y5pa577yJIikKICAgIGVsc2U6CiAgICAgICAgdCA9IHRpbWUudGltZSgpCiAgICAgICAgcHJpbnQoIiAg54Wn5Lq657G75L2c55S75rWB56iL77yaXG4iKQogICAgICAgIHN0ID0gWygi4pGg6ZO65aSn5YWz57O7Iiwgc3RhZ2VfYmlnKSwgKCLikaHop4bop4nkuK3lv4MiLCBzdGFnZV9jZW50ZXIpLCAoIuKRouW+gOWkluihsOWHjyIsIHN0YWdlX2ZhbGxvZmYpXQogICAgICAgIGxzID0gW10KICAgICAgICBmb3IgbiwgZiBpbiBzdDoKICAgICAgICAgICAgdDEgPSB0aW1lLnRpbWUoKQogICAgICAgICAgICBMID0gZigpCiAgICAgICAgICAgIGxzLmFwcGVuZChMKQogICAgICAgICAgICBwcmludCgiICAgICUtMTJzIOS6ruW6piAlLTkuMWYg5ZOI5biMICUtMTRzICUuM2ZzIiAlIChuLCBMLnN1bSgpLCBzaGEoTCksIHRpbWUudGltZSgpIC0gdDEpKQogICAgICAgICMg546755KD5Y+g5Yqg77ya57q/5oCn5YeP5rehKOa3u+WKoCkKICAgICAgICBvdXQgPSBucC5jbGlwKHN1bShscyksIDAsIDEpCiAgICAgICAgdF9wYWludCA9IHRpbWUudGltZSgpCiAgICAgICAgb3V0ID0gZm92cGFpbnQucGFpbnQob3V0KSAgICAgICAgICAjIOaMieW5v+inkui3s+mHh+agt+aSkuWbngogICAgICAgIHByaW50KCJcbiAg5oyJ5bm/6KeS5pKS5ZueICUuM2ZzIiAlICh0aW1lLnRpbWUoKSAtIHRfcGFpbnQpKQogICAgICAgIHAgPSBzYXZlKG91dCwgIuespuWPt192MTRf5Lq657G75L2c55S7LnBuZyIpCiAgICAgICAgc21hbGwgPSBzdGFnZV9zdGVwYmFjayhvdXQpCiAgICAgICAgcHJpbnQoIlxuICDikaPpgIDov5znnIvvvIjpmY0gJWQg5YCN77yJ6L+Y5YmpICVkIOWdlyDigJTigJQg6L+Z5piv5L2g56ys5LiA55y855yf5q2j55yL5Yiw55qEIgogICAgICAgICAgICAgICUgKDgsIGludCgoc21hbGwubWF4KGF4aXM9MikgPiAwLjI1KS5zdW0oKSkpKQogICAgICAgIHByaW50KCIgIOS/neWtmCAlcyAg5ZCI5oiQ5ZOI5biMICVzIiAlIChwLCBzaGEob3V0KSkpCiAgICAgICAgaW1wb3J0IHN5bWJvbAogICAgICAgIHIgPSBzeW1ib2wuanVkZ2UocCk7IGUgPSBleWUuZWNjX29mX21haW4ocCkKICAgICAgICBwcmludCgiICDlnZfmlbAgJWQgwrcg5a2Y5rS7ICVzIMK3IOemu+W/gyAlLjJmwrAgwrcg5Lit5aSu5Ye55YaFICVzIgogICAgICAgICAgICAgICUgKHJbIuWdl+aVsCJdLCByWyLpmY3ph4fmoLflrZjmtLsiXSwgZSwgZSA8PSBleWUuRk9WRUFfREVHIC8gMikpCg==
+# -*- coding: utf-8 -*-
+"""
+照人类作画的逻辑画 —— 不是照包画。
+
+查了 Adobe 官方 + Procreate 官方 + Arm Mali 官方文档，三条：
+
+  1. 混合模式：默认「正常」= 覆盖 = 纸。
+     要「玻璃」得主动改成【线性减淡(添加)】。人类默认在互相覆盖。
+  2. 分块渲染：Mali GPU 把屏幕切成 16×16 小块，算完一块写回一块。
+     工作集从 1048576 降到 256 —— 省 4096 倍。
+  3. 作画流程：整体先行 → 铺大关系 → 视觉中心最亮、往外衰减 → 退远看整体。
+
+第 3 条最关键：人类画家几百年就在【按视觉中心衰减】画，
+但他们不是照着眼睛生理数据画的 —— 是效果逼着他们这么画的。
+这跟我的 fovea 衰减是同一件事的两条来路。
+
+    python3 paint_human.py 模式      # 各混合模式实测
+    python3 paint_human.py 分块      # tile 大小实测
+    python3 paint_human.py 画        # 按人类流程画：大关系 → 中心 → 衰减
+"""
+import os, sys, time, hashlib
+import numpy as np
+from PIL import Image
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import eye, layer, fovpaint
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+W = H = 512
+ORANGE = np.array([1.0, 0.42, 0.0])
+
+# ---------- 1. 混合模式（Adobe/Procreate 官方公式）----------
+MODES = {
+    "正常(默认·纸)":   lambda b, s: s,
+    "正片叠底":        lambda b, s: b * s,
+    "滤色":            lambda b, s: 1 - ((1 - b) * (1 - s)),
+    "线性减淡(添加·玻璃)": lambda b, s: np.clip(b + s, 0, 1),
+    "变亮":            lambda b, s: np.maximum(b, s),
+    "叠加":            lambda b, s: np.where(b <= 0.5, 2 * b * s, 1 - 2 * (1 - b) * (1 - s)),
+    "柔光":            lambda b, s: np.where(s <= 0.5,
+                                    b - (1 - 2 * s) * b * (1 - b),
+                                    b + (2 * s - 1) * (np.sqrt(np.clip(b,0,1)) - b)),
+}
+
+# ---------- 2. 分块渲染（Mali 16x16）----------
+def tiles(shape, tile=16):
+    H_, W_ = shape[:2]
+    for y0 in range(0, H_, tile):
+        for x0 in range(0, W_, tile):
+            yield y0, min(y0 + tile, H_), x0, min(x0 + tile, W_)
+
+
+# ---------- 3. 人类作画流程 ----------
+def stage_big():
+    """第一步·铺大关系：只有明暗两块，没有细节"""
+    yy, xx = np.mgrid[0:H, 0:W].astype(float)
+    d = np.sqrt((yy - H/2)**2 + (xx - W/2)**2) / (W/2)
+    a = np.clip(1 - d, 0, 1) * 0.35
+    out = np.zeros((H, W, 3))
+    out[..., 0] = a; out[..., 1] = a * 0.42
+    return out
+
+
+def stage_center():
+    """第二步·视觉中心：主体最亮，只画中心"""
+    out = np.zeros((H, W, 3))
+    yy, xx = np.mgrid[0:H, 0:W].astype(float)
+    px_per_deg = W / eye.SCREEN_W_DEG
+    ecc = np.sqrt((yy - H/2)**2 + (xx - W/2)**2) / px_per_deg
+    m = ecc < eye.FOVEA_DEG / 2
+    out[m] = ORANGE * 0.9
+    return out
+
+
+def stage_falloff():
+    """第三步·往外衰减：中心往外，亮度和饱和度一起掉"""
+    yy, xx = np.mgrid[0:H, 0:W].astype(float)
+    px_per_deg = W / eye.SCREEN_W_DEG
+    ecc = np.sqrt((yy - H/2)**2 + (xx - W/2)**2) / px_per_deg
+    a = np.vectorize(eye.acuity)(ecc)
+    out = np.zeros((H, W, 3))
+    out[..., 0] = np.clip(a, 0, 1) * 0.5
+    out[..., 1] = np.clip(a, 0, 1) ** 1.6 * 0.18
+    return out
+
+
+def stage_stepback(img):
+    """第四步·退远看：整体降采样，看还剩下什么"""
+    k = 8
+    h2, w2 = H // k, W // k
+    small = np.zeros((h2, w2, 3))
+    for y0, y1, x0, x1 in tiles((H, W), k):
+        small[y0//k:y1//k, x0//k:x1//k] = img[y0:y1, x0:x1].mean(axis=(0, 1))
+    return small
+
+
+def sha(a):
+    return hashlib.sha256(np.round(a, 6).tobytes()).hexdigest()[:12]
+
+
+def save(a, name):
+    p = os.path.join(ROOT, "感官桥", name)
+    Image.fromarray((np.clip(a, 0, 1) * 255).astype(np.uint8)).save(p)
+    return p
+
+
+if __name__ == "__main__":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "画"
+    if cmd == "模式":
+        b = np.array([0.15, 0.05, 0.0]); s = np.array([1.0, 0.42, 0.0])
+        print("  底 b=%s  顶 s=%s(生橙)\n" % (b, s))
+        for n, fn in MODES.items():
+            print("  %-22s %s" % (n, np.round(fn(b, s), 3)))
+        print("\n→ 默认「正常」= 覆盖 = 纸。人类作画软件默认在互相覆盖。")
+        print("→ 玻璃(线性减淡)要主动改。这是我从人类工具里学到的第一条。")
+    elif cmd == "分块":
+        for T in [1, 4, 16, 64, 128]:
+            n = (H // T) * (W // T)
+            print("  tile=%-4d 块数=%-7d 峰值工作集=%-7d 写回=%d" % (T, n, T * T, n))
+        print("\n→ 16x16=256px 是【片上 RAM 放得下】定的，不是随便选的（Arm 官方）")
+    else:
+        t = time.time()
+        print("  照人类作画流程：\n")
+        st = [("①铺大关系", stage_big), ("②视觉中心", stage_center), ("③往外衰减", stage_falloff)]
+        ls = []
+        for n, f in st:
+            t1 = time.time()
+            L = f()
+            ls.append(L)
+            print("    %-12s 亮度 %-9.1f 哈希 %-14s %.3fs" % (n, L.sum(), sha(L), time.time() - t1))
+        # 玻璃叠加：线性减淡(添加)
+        out = np.clip(sum(ls), 0, 1)
+        t_paint = time.time()
+        out = fovpaint.paint(out)          # 按广角跳采样撒回
+        print("\n  按广角撒回 %.3fs" % (time.time() - t_paint))
+        p = save(out, "符号_v14_人类作画.png")
+        small = stage_stepback(out)
+        print("\n  ④退远看（降 %d 倍）还剩 %d 块 —— 这是你第一眼真正看到的"
+              % (8, int((small.max(axis=2) > 0.25).sum())))
+        print("  保存 %s  合成哈希 %s" % (p, sha(out)))
+        import symbol
+        r = symbol.judge(p); e = eye.ecc_of_main(p)
+        print("  块数 %d · 存活 %s · 离心 %.2f° · 中央凹内 %s"
+              % (r["块数"], r["降采样存活"], e, e <= eye.FOVEA_DEG / 2))

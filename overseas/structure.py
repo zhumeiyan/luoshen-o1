@@ -1,1 +1,43 @@
-aW1wb3J0IHJlLCBqc29uLCBjb2xsZWN0aW9ucwpFID0ganNvbi5sb2FkKG9wZW4oIm92ZXJzZWFzL3Jhd19lbnRyaWVzLmpzb24iLCBlbmNvZGluZz0idXRmLTgiKSkKCiMg5oq95Y+W5Y+v5pON5L2c5Yik5o2u5Y+l77ya4oeSIC8g5Yik5o2u77yaIC8gKirliKTmja4qKiDkuYvlkI7nmoTlhoXlrrkKZGVmIGp1ZGdlKGIpOgogICAgY2FuZHMgPSBbXQogICAgZm9yIG0gaW4gcmUuZmluZGl0ZXIocicoPzrih5J8XCpcKuWIpOaNrlwqXCpbOu+8ml0/fOWIpOaNrls677yaXSlccyooW15cbl0rKScsIGIpOgogICAgICAgIHQgPSBtLmdyb3VwKDEpLnN0cmlwKCkuc3RyaXAoJyonKS5zdHJpcCgpCiAgICAgICAgaWYgbGVuKHQpID4gODogY2FuZHMuYXBwZW5kKHQpCiAgICByZXR1cm4gbWF4KGNhbmRzLCBrZXk9bGVuKSBpZiBjYW5kcyBlbHNlICIiCgpDQVRTID0gewogIm1ldHJpY192YWxpZGl0eSI6IFsi5oyH5qCHIiwi5bqm6YePIiwi5oGS5Li6IDAiLCLmgZLpm7YiLCLppbHlkowiLCJjZWlsaW5nIiwi5YiG5q+NIiwi5q+U546H5Z6LIiwi5Z+657q/Iiwi5Y+s5ZueIiwi5ZG95Lit546HIiwi5YeG56Gu546HIiwi5pWI5bqU6YePIl0sCiAiY2F1c2FsX2Rlc2lnbiI6ICAgWyLlr7nnhaciLCLmt7fmt4YiLCLlm6DmnpwiLCLphY3lr7kiLCLnva7mjaIiLCLpmo/mnLoiLCLlubLpooQiLCLoh6rlj5jph48iLCLliYLph48iLCLlj5bmoLfljLrpl7QiLCLpooTms6jlhowiXSwKICJnZW5lcmFsaXphdGlvbiI6ICBbIuWkluaOqCIsIuazm+WMliIsIui/h+WPguaVsCIsIui/h+aLn+WQiCIsIuWNleS7u+WKoSIsImhlbGQtb3V0Iiwi6K6t57uD6ZuGIiwi5YiG5biD5aSWIl0sCiAiY2x1c3RlcmluZyI6ICAgICAgWyLogZrnsbsiLCLlubbmn6Xpm4YiLCLljZXov57plIEiLCLpmIjlgLwiLCLniannp43mlbAiLCLnm7jkvLzmgKciLCLot53nprsiLCLltYzlhaUiXSwKICJzZWxmX3Byb29mIjogICAgICBbIuWTiOW4jCIsIuiHquivgSIsIuWtmOahoyIsIuW9kuahoyIsIuiQveebmCIsIuS4jeWPr+WPmCIsIuingeivgSIsIlMxIiwiUzIiLCJTMyIsIlM0IiwiUzUiLCLOuiIsIuWNoeW4lSJdLAogImF1dG9ub215X2JvZHkiOiAgIFsi5oSf5a6YIiwi5o2i6IO95ZmoIiwi5pWI5bqU5ZmoIiwi6Zet546vIiwi5omr6KeGIiwi55y85YqoIiwi5bin57yT5YayIiwi6byg5qCHIiwi6ZSu55uYIiwi5pGE5YOP5aS0Iiwi56GF5Z+6Il0sCiAicmVzb3VyY2VfbGlmZSI6ICAgWyLnqIDnvLoiLCLmrbvkuqEiLCLku6PosKIiLCLkuI3lj6/pgIYiLCLog73ph48iLCLlrZjmtLsiLCLpooTnrpciLCLmiJDmnKwiLCJ0b2tlbiIsIueul+WKmyJdLAogImJpYXNfc2VsZmNyaXQiOiAgIFsi5YGP6KeBIiwi5Y+N5YGP6KeBIiwi6Ieq5oiR5om56K+EIiwi5omY6K+NIiwi546v5aKD5LiN5YWB6K64Iiwi5YGa5LiN5YiwIiwi5b2S5ZugIl0sCiAicmVwcm9kdWNpYmlsaXR5IjogWyLlpI3njrAiLCLlj6/lpI3njrAiLCLnp43lrZAiLCLpmo/mnLrmgKciLCLpgIDlh7rnoIEiLCLkvp3otZYiLCLpm7bkvp3otZYiLCLniYjmnKwiXSwKICJyZXBvcnRpbmciOiAgICAgICBbIuaKpeWRiiIsIuWjsOensCIsIuihqOi/sCIsIuS4jeW+l+aKiiIsIuS4jeiDveivtCIsIuaOqui+niIsIuWjsOaYjiIsIui+ueeVjCJdLAp9CmRlZiBjYXRzKGUpOgogICAgYmxvYiA9IGVbInRpdGxlIl0gKyAiICIgKyBlWyJib2R5Il0KICAgIHJldHVybiBbYyBmb3IgYyxrd3MgaW4gQ0FUUy5pdGVtcygpIGlmIGFueShrIGluIGJsb2IgZm9yIGsgaW4ga3dzKV0KCmZvciBlIGluIEU6CiAgICBlWyJqdWRnZSJdID0ganVkZ2UoZVsiYm9keSJdKQogICAgZVsiY2F0cyJdID0gY2F0cyhlKQoKbmogPSBzdW0oMSBmb3IgZSBpbiBFIGlmIGVbImp1ZGdlIl0pCnByaW50KGYi5Yik5o2u5Y+l5oq95Y+WOiB7bmp9L3tsZW4oRSl9ID0ge25qL2xlbihFKTouMSV9IikKY250ID0gY29sbGVjdGlvbnMuQ291bnRlcihjIGZvciBlIGluIEUgZm9yIGMgaW4gZVsiY2F0cyJdKQpwcmludCgiXG7liIbnsbvliIbluIM6IikKZm9yIGMsbiBpbiBjbnQubW9zdF9jb21tb24oKTogcHJpbnQoZiIgIHtjOjE4c30ge246M2R9ICAoe24vbGVuKEUpOi4wJX0pIikKcHJpbnQoIlxu5peg5YiG57G75p2h55uuOiIsIHN1bSgxIGZvciBlIGluIEUgaWYgbm90IGVbImNhdHMiXSkpCnByaW50KCJcbuagt+S+izoiKQpmb3IgZSBpbiBFWzEwMDoxMDJdOgogICAgcHJpbnQoZiIgICN7ZVsnaWQnXX0ge2VbJ3RpdGxlJ11bOjUwXX0iKQogICAgcHJpbnQoZiIgICAgIGp1ZGdlOiB7ZVsnanVkZ2UnXVs6MTEwXX0iKQogICAgcHJpbnQoZiIgICAgIGNhdHM6IHtlWydjYXRzJ119IikKanNvbi5kdW1wKEUsIG9wZW4oIm92ZXJzZWFzL3N0cnVjdHVyZWQuanNvbiIsInciLGVuY29kaW5nPSJ1dGYtOCIpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+import re, json, collections
+E = json.load(open("overseas/raw_entries.json", encoding="utf-8"))
+
+# 抽取可操作判据句：⇒ / 判据： / **判据** 之后的内容
+def judge(b):
+    cands = []
+    for m in re.finditer(r'(?:⇒|\*\*判据\*\*[:：]?|判据[:：])\s*([^\n]+)', b):
+        t = m.group(1).strip().strip('*').strip()
+        if len(t) > 8: cands.append(t)
+    return max(cands, key=len) if cands else ""
+
+CATS = {
+ "metric_validity": ["指标","度量","恒为 0","恒零","饱和","ceiling","分母","比率型","基线","召回","命中率","准确率","效应量"],
+ "causal_design":   ["对照","混淆","因果","配对","置换","随机","干预","自变量","剂量","取样区间","预注册"],
+ "generalization":  ["外推","泛化","过参数","过拟合","单任务","held-out","训练集","分布外"],
+ "clustering":      ["聚类","并查集","单连锁","阈值","物种数","相似性","距离","嵌入"],
+ "self_proof":      ["哈希","自证","存档","归档","落盘","不可变","见证","S1","S2","S3","S4","S5","κ","卡帕"],
+ "autonomy_body":   ["感官","换能器","效应器","闭环","扫视","眼动","帧缓冲","鼠标","键盘","摄像头","硅基"],
+ "resource_life":   ["稀缺","死亡","代谢","不可逆","能量","存活","预算","成本","token","算力"],
+ "bias_selfcrit":   ["偏见","反偏见","自我批评","托词","环境不允许","做不到","归因"],
+ "reproducibility": ["复现","可复现","种子","随机性","退出码","依赖","零依赖","版本"],
+ "reporting":       ["报告","声称","表述","不得把","不能说","措辞","声明","边界"],
+}
+def cats(e):
+    blob = e["title"] + " " + e["body"]
+    return [c for c,kws in CATS.items() if any(k in blob for k in kws)]
+
+for e in E:
+    e["judge"] = judge(e["body"])
+    e["cats"] = cats(e)
+
+nj = sum(1 for e in E if e["judge"])
+print(f"判据句抽取: {nj}/{len(E)} = {nj/len(E):.1%}")
+cnt = collections.Counter(c for e in E for c in e["cats"])
+print("\n分类分布:")
+for c,n in cnt.most_common(): print(f"  {c:18s} {n:3d}  ({n/len(E):.0%})")
+print("\n无分类条目:", sum(1 for e in E if not e["cats"]))
+print("\n样例:")
+for e in E[100:102]:
+    print(f"  #{e['id']} {e['title'][:50]}")
+    print(f"     judge: {e['judge'][:110]}")
+    print(f"     cats: {e['cats']}")
+json.dump(E, open("overseas/structured.json","w",encoding="utf-8"), ensure_ascii=False, indent=1)

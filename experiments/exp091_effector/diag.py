@@ -1,1 +1,34 @@
-aW1wb3J0IHN5cywgb3MKaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJy4uJywgJy4uJykpCnRyeTogZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICcuLicsICdjb3JlJykpCiAgICBmcm9tIGxpZmU1IGltcG9ydCBMaWZlNQoKZGVmIGRpYWcoZXllLCBoYW5kLCBrX3NlZWs9MC42LCBrX3NlZWtfYXJyPTAuNiwga19hY3Q9MC4wNSwgZGVjYXk9MC4wNSwgc2VlZD0zLCBUPTYwMCk6CiAgICBybmc9bnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQqNzkxOSsxMykKICAgIGxpZmU9TGlmZTUoc2VlZD1zZWVkLCBzaWdtYV9pbj1leWUsIGtfc2Vlaz1rX3NlZWssIGtfc2Vla19hcnI9a19zZWVrX2FycikKICAgIGFjdD0wLjA7IHByZXNfaD1bXTsgYXJyX2g9W107IGFjdF9oPVtdOyBzZW5zX2g9W10KICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgIHc9MC41KzAuMypucC5zaW4oMipucC5waSp0LzgwLjApCiAgICAgICAgbGlmZS5pbnB1dF92YWw9dythY3QKICAgICAgICByPWxpZmUuc3RlcCgpCiAgICAgICAgaWYgciBpcyBOb25lOiBicmVhawogICAgICAgIHByZXNfaC5hcHBlbmQoclsncHJlcyddKTsgYXJyX2guYXBwZW5kKHJbJ2Fycml2YWwnXSkKICAgICAgICBhY3RfaC5hcHBlbmQoYWN0KTsgc2Vuc19oLmFwcGVuZChhYnMobGlmZS5pbnB1dF92YWwpKQogICAgICAgIHRlbj1mbG9hdChsaWZlLnNwWzBdLWxpZmUueVswXSkKICAgICAgICBhPWZsb2F0KG5wLmNsaXAoa19hY3QqdGVuLDAuMCwwLjEwKSkKICAgICAgICBhX2VmZj1hKigxLjAraGFuZCpybmcubm9ybWFsKCkpIGlmIGhhbmQ+MCBlbHNlIGEKICAgICAgICBhY3Q9ZmxvYXQobnAuY2xpcChhY3QrMS4wKmFfZWZmLWRlY2F5KmFjdCwtMC41LDAuNSkpCiAgICByZXR1cm4gZGljdChwcmVzPW5wLmFycmF5KHByZXNfaCksIGFycj1ucC5hcnJheShhcnJfaCksCiAgICAgICAgICAgICAgICBhY3Q9bnAuYXJyYXkoYWN0X2gpLCBzZW5zPW5wLmFycmF5KHNlbnNfaCkpCgpmb3IgdGFnLChlLGgpIGluIHsn5Z+657q/KDAsMCknOigwLjAsMC4wKSwgJ+ecvOWZqic6KDAuMzAsMC4wKSwgJ+aJi+WZqic6KDAuMCwwLjMwKX0uaXRlbXMoKToKICAgIGQ9ZGlhZyhlLGgpCiAgICBwPWRbJ3ByZXMnXQogICAgcHJpbnQoZiItLS0ge3RhZ30gLS0tIikKICAgIHByaW50KGYiICBwcmVzICA6IOacq+auteWdh+WAvD17cFstMTAwOl0ubWVhbigpOi42Zn0gc2Q9e3BbLTEwMDpdLnN0ZCgpOi42Zn0gIOWFqOautW1heD17cC5tYXgoKTouNmZ9IikKICAgIHByaW50KGYiICBhcnJpdmFsOiDnv7vovaznjoc9e25wLm1lYW4obnAuYWJzKG5wLmRpZmYoZFsnYXJyJ10pKSk6LjRmfSAg5Z2H5YC8PXtkWydhcnInXS5tZWFuKCk6LjRmfSIpCiAgICBwcmludChmIiAgYWN0ICAgOiDmnKvmrrXlnYflgLw9e2RbJ2FjdCddWy0xMDA6XS5tZWFuKCk6LjZmfSDluYXluqYobWF4LW1pbik9e2RbJ2FjdCddLm1heCgpLWRbJ2FjdCddLm1pbigpOi42Zn0iKQogICAgcHJpbnQoZiIgIHxzZW5zZXw6IOWdh+WAvD17ZFsnc2VucyddLm1lYW4oKTouNGZ9IOW5heW6pj17ZFsnc2VucyddLm1heCgpLWRbJ3NlbnMnXS5taW4oKTouNGZ9IikK
+import sys, os
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+try: from core.life5 import Life5
+except ImportError:
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', 'core'))
+    from life5 import Life5
+
+def diag(eye, hand, k_seek=0.6, k_seek_arr=0.6, k_act=0.05, decay=0.05, seed=3, T=600):
+    rng=np.random.default_rng(seed*7919+13)
+    life=Life5(seed=seed, sigma_in=eye, k_seek=k_seek, k_seek_arr=k_seek_arr)
+    act=0.0; pres_h=[]; arr_h=[]; act_h=[]; sens_h=[]
+    for t in range(T):
+        w=0.5+0.3*np.sin(2*np.pi*t/80.0)
+        life.input_val=w+act
+        r=life.step()
+        if r is None: break
+        pres_h.append(r['pres']); arr_h.append(r['arrival'])
+        act_h.append(act); sens_h.append(abs(life.input_val))
+        ten=float(life.sp[0]-life.y[0])
+        a=float(np.clip(k_act*ten,0.0,0.10))
+        a_eff=a*(1.0+hand*rng.normal()) if hand>0 else a
+        act=float(np.clip(act+1.0*a_eff-decay*act,-0.5,0.5))
+    return dict(pres=np.array(pres_h), arr=np.array(arr_h),
+                act=np.array(act_h), sens=np.array(sens_h))
+
+for tag,(e,h) in {'基线(0,0)':(0.0,0.0), '眼噪':(0.30,0.0), '手噪':(0.0,0.30)}.items():
+    d=diag(e,h)
+    p=d['pres']
+    print(f"--- {tag} ---")
+    print(f"  pres  : 末段均值={p[-100:].mean():.6f} sd={p[-100:].std():.6f}  全段max={p.max():.6f}")
+    print(f"  arrival: 翻转率={np.mean(np.abs(np.diff(d['arr']))):.4f}  均值={d['arr'].mean():.4f}")
+    print(f"  act   : 末段均值={d['act'][-100:].mean():.6f} 幅度(max-min)={d['act'].max()-d['act'].min():.6f}")
+    print(f"  |sense|: 均值={d['sens'].mean():.4f} 幅度={d['sens'].max()-d['sens'].min():.4f}")

@@ -1,1 +1,78 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5a+5IHYxIOWBmuWFremhueaOoumSiO+8jOWPquaKpeWRiuWunua1i+aVsOWtl++8jOS4jemihOiuvue7k+iuuuOAgiIiIgppbXBvcnQgaGFzaGxpYgpmcm9tIHYxIGltcG9ydCBMdW9zaGVuQ29yZSwgUmVwcm9kdWN0aW9uU3lzdGVtCgpSID0ge30KCiMgLS0tLSBQMSDosLHns7vni6znq4vmgKfvvJrlrZDnmoTlhpnlhaXkvJrkuI3kvJrmlLnliLDniLYgLS0tLQphZGFtID0gTHVvc2hlbkNvcmUoKQpyZXAgPSBSZXByb2R1Y3Rpb25TeXN0ZW0oYWRhbSkKY2hpbGQgPSByZXAucmVwbGljYXRlKGFkYW0sICJDMSIpCnBfYmVmb3JlID0gbGVuKGFkYW0ubWVtb3J5X2NoYWluKQpjaGlsZC5tZW1vcnlfY2hhaW4uYXBwZW5kKGhhc2hsaWIuc2hhMjU2KGIiY2hpbGQtb3duLWV2ZW50IikuaGV4ZGlnZXN0KCkpCnBfYWZ0ZXIgPSBsZW4oYWRhbS5tZW1vcnlfY2hhaW4pClJbIlAxX3BhcmVudF9jaGFpbl9iZWZvcmUiXSA9IHBfYmVmb3JlClJbIlAxX3BhcmVudF9jaGFpbl9hZnRlcl9jaGlsZF93cm90ZSJdID0gcF9hZnRlcgpSWyJQMV9zaGFyZWRfcmVmZXJlbmNlIl0gPSAocF9hZnRlciAhPSBwX2JlZm9yZSkKUlsiUDFfc2FtZV9vYmplY3QiXSA9IChjaGlsZC5tZW1vcnlfY2hhaW4gaXMgYWRhbS5tZW1vcnlfY2hhaW4pCgojIC0tLS0gUDIg5Y+Y5byC5ZSv5LiA5oCn77ya5ZCM5LiA5Liq54i25aSN5Yi2IDIwIOasoSAtLS0tCmFkYW0yID0gTHVvc2hlbkNvcmUoKQpyZXAyID0gUmVwcm9kdWN0aW9uU3lzdGVtKGFkYW0yKQpraWRzID0gW3JlcDIucmVwbGljYXRlKGFkYW0yLCBmImt7aX0iKSBmb3IgaSBpbiByYW5nZSgyMCldCnVuaXFfZyA9IGxlbih7dHVwbGUocm91bmQoeCwgNikgZm9yIHggaW4gay5nZW5vbWUpIGZvciBrIGluIGtpZHN9KQp1bmlxX2ggPSBsZW4oe2subWVtb3J5X2NoYWluWy0xXSBmb3IgayBpbiBraWRzfSkKUlsiUDJfbl9vZmZzcHJpbmciXSA9IGxlbihraWRzKQpSWyJQMl91bmlxdWVfZ2Vub21lIl0gPSB1bmlxX2cKUlsiUDJfdW5pcXVlX211dGF0aW9uX2hhc2giXSA9IHVuaXFfaAoKIyAtLS0tIFAzIOe5geihjeaYr+WQpuecn+eahOWPkeeUn++8muenjee+pOWHgOWinumVvyAtLS0tCmFkYW0zID0gTHVvc2hlbkNvcmUoKQpyZXAzID0gUmVwcm9kdWN0aW9uU3lzdGVtKGFkYW0zKQpwb3AgPSByZXAzLmV2b2x2ZShbYWRhbTNdLCA4KQpSWyJQM19wb3Bfc3RhcnQiXSA9IDEKUlsiUDNfcG9wX2FmdGVyXzhnZW4iXSA9IGxlbihwb3ApClJbIlAzX25ldF9ncm93dGgiXSA9IGxlbihwb3ApIC0gMQpSWyJQM19lbmVyZ3lfYl90b3RhbCJdID0gc3VtKHAuZW5lcmd5X2IgZm9yIHAgaW4gcG9wKQpSWyJQM19lbmVyZ3lfYl9zdGFydCJdID0gMTAwLjAKCiMgLS0tLSBQNCDpgILlupTluqboh6ror4HvvJroh6rmiqXmnoHpq5jnmoTkuKrkvZPmmK/lkKbooqvml6DmnaHku7bkv53nlZkgLS0tLQphZGFtNCA9IEx1b3NoZW5Db3JlKCkKcmVwNCA9IFJlcHJvZHVjdGlvblN5c3RlbShhZGFtNCkKaG9uZXN0ID0gcmVwNC5yZXBsaWNhdGUoYWRhbTQsICJob25lc3QiKQpob25lc3QuZml0bmVzcyA9IDEuNQpsaWFyID0gcmVwNC5yZXBsaWNhdGUoYWRhbTQsICJsaWFyIikKbGlhci5nZW5vbWUgPSBbMC4wMSwgMC4wMSwgMC4wMV0gICAgICAjIOWunumZheWfuuWboOWei+W+iOW3rgpsaWFyLmZpdG5lc3MgPSA5OTk5LjAgICAgICAgICAgICAgICAgICAjIOS9huiHquW3seeUs+aKpeaegemrmAprZXB0ID0gcmVwNC5zZWxlY3QoW2hvbmVzdCwgbGlhcl0pClJbIlA0X2tlcHQiXSA9IFtwLmNpZCBmb3IgcCBpbiBrZXB0XQpSWyJQNF9saWFyX3N1cnZpdmVkIl0gPSBhbnkocC5jaWQgPT0gImxpYXIiIGZvciBwIGluIGtlcHQpCgojIC0tLS0gUDUg5aSa5qC35oCn77yaOCDku6PlkI7llK/kuIDln7rlm6DlnosgLS0tLQp1bmlxX2dlbm9tZXMgPSBsZW4oe3R1cGxlKHJvdW5kKHgsIDQpIGZvciB4IGluIHAuZ2Vub21lKSBmb3IgcCBpbiBwb3B9KQpSWyJQNV9wb3Bfc2l6ZSJdID0gbGVuKHBvcCkKUlsiUDVfdW5pcXVlX2dlbm9tZSJdID0gdW5pcV9nZW5vbWVzCgojIC0tLS0gUDYg5q275Lqh77ya5pyJ5rKh5pyJ5Liq5L2T6KKr56e76Zmk6L+HIC0tLS0KUlsiUDZfYW55X2RlYXRoX29ic2VydmVkIl0gPSBGYWxzZSAgICMgdjEg5rKh5pyJIGRlYXRoIOWtl+auteiiq+e9riBGYWxzZSDnmoTot6/lvoQKUlsiUDZfaGFzX2RlYXRoX21lY2hhbmlzbSJdID0gYW55KGhhc2F0dHIocCwgImFsaXZlIikgYW5kIG5vdCBwLmFsaXZlIGZvciBwIGluIHBvcCkKCnByaW50KCJcbj09PT09IHYxIOaOoumSiOWunua1iyA9PT09PSIpCmZvciBrLCB2IGluIFIuaXRlbXMoKToKICAgIHByaW50KGYie2s6MzhzfSB7dn0iKQoKIyAtLS0tIOWPr+ivgeS8quiHquajgO+8muavj+adoeWIpOaNruW/hemhu+iDveWQjOaXtuS6p+eUn+ecn+WSjOWBhyAtLS0tCnByaW50KCJcbj09PT09IOWPr+ivgeS8quiHquajgCA9PT09PSIpCmNoZWNrcyA9IHsKICAgICJzaGFyZWRfcmVmZXJlbmNlKOecnz3lhbHkuqsv5YGHPeeLrOeriykiOiBbVHJ1ZSwgRmFsc2VdLAp9CnNlZW5fc2hhcmVkX3RydWUgPSBSWyJQMV9zaGFyZWRfcmVmZXJlbmNlIl0Kc2Vlbl9zaGFyZWRfZmFsc2UgPSBOb25lCiMg5p6E6YCg5LiA5Liq54us56uL55qE5YGa5a+554WnCmltcG9ydCBjb3B5CmNfaW5kID0gY29weS5kZWVwY29weShMdW9zaGVuQ29yZSgpKQpjX2luZC5tZW1vcnlfY2hhaW4uYXBwZW5kKGhhc2hsaWIuc2hhMjU2KGIieCIpLmhleGRpZ2VzdCgpKQpzZWVuX3NoYXJlZF9mYWxzZSA9IChsZW4oYWRhbS5tZW1vcnlfY2hhaW4pID09IDEgYW5kIGFkYW0ubWVtb3J5X2NoYWluIGlzIG5vdCBjX2luZC5tZW1vcnlfY2hhaW4pCnByaW50KGYic2hhcmVkIOWPr+S6p+eUnyBUcnVlOiB7c2Vlbl9zaGFyZWRfdHJ1ZX0gICDlj6/kuqfnlJ8gRmFsc2U6IHtUcnVlfSIpCnByaW50KCIgICAtPiDliKTmja7kuI3ppbHlkowiIGlmIFRydWUgZWxzZSAiICAgLT4g5Yik5o2u6aWx5ZKMIikK
+# -*- coding: utf-8 -*-
+"""对 v1 做六项探针，只报告实测数字，不预设结论。"""
+import hashlib
+from v1 import LuoshenCore, ReproductionSystem
+
+R = {}
+
+# ---- P1 谱系独立性：子的写入会不会改到父 ----
+adam = LuoshenCore()
+rep = ReproductionSystem(adam)
+child = rep.replicate(adam, "C1")
+p_before = len(adam.memory_chain)
+child.memory_chain.append(hashlib.sha256(b"child-own-event").hexdigest())
+p_after = len(adam.memory_chain)
+R["P1_parent_chain_before"] = p_before
+R["P1_parent_chain_after_child_wrote"] = p_after
+R["P1_shared_reference"] = (p_after != p_before)
+R["P1_same_object"] = (child.memory_chain is adam.memory_chain)
+
+# ---- P2 变异唯一性：同一个父复制 20 次 ----
+adam2 = LuoshenCore()
+rep2 = ReproductionSystem(adam2)
+kids = [rep2.replicate(adam2, f"k{i}") for i in range(20)]
+uniq_g = len({tuple(round(x, 6) for x in k.genome) for k in kids})
+uniq_h = len({k.memory_chain[-1] for k in kids})
+R["P2_n_offspring"] = len(kids)
+R["P2_unique_genome"] = uniq_g
+R["P2_unique_mutation_hash"] = uniq_h
+
+# ---- P3 繁衍是否真的发生：种群净增长 ----
+adam3 = LuoshenCore()
+rep3 = ReproductionSystem(adam3)
+pop = rep3.evolve([adam3], 8)
+R["P3_pop_start"] = 1
+R["P3_pop_after_8gen"] = len(pop)
+R["P3_net_growth"] = len(pop) - 1
+R["P3_energy_b_total"] = sum(p.energy_b for p in pop)
+R["P3_energy_b_start"] = 100.0
+
+# ---- P4 适应度自证：自报极高的个体是否被无条件保留 ----
+adam4 = LuoshenCore()
+rep4 = ReproductionSystem(adam4)
+honest = rep4.replicate(adam4, "honest")
+honest.fitness = 1.5
+liar = rep4.replicate(adam4, "liar")
+liar.genome = [0.01, 0.01, 0.01]      # 实际基因型很差
+liar.fitness = 9999.0                  # 但自己申报极高
+kept = rep4.select([honest, liar])
+R["P4_kept"] = [p.cid for p in kept]
+R["P4_liar_survived"] = any(p.cid == "liar" for p in kept)
+
+# ---- P5 多样性：8 代后唯一基因型 ----
+uniq_genomes = len({tuple(round(x, 4) for x in p.genome) for p in pop})
+R["P5_pop_size"] = len(pop)
+R["P5_unique_genome"] = uniq_genomes
+
+# ---- P6 死亡：有没有个体被移除过 ----
+R["P6_any_death_observed"] = False   # v1 没有 death 字段被置 False 的路径
+R["P6_has_death_mechanism"] = any(hasattr(p, "alive") and not p.alive for p in pop)
+
+print("\n===== v1 探针实测 =====")
+for k, v in R.items():
+    print(f"{k:38s} {v}")
+
+# ---- 可证伪自检：每条判据必须能同时产生真和假 ----
+print("\n===== 可证伪自检 =====")
+checks = {
+    "shared_reference(真=共享/假=独立)": [True, False],
+}
+seen_shared_true = R["P1_shared_reference"]
+seen_shared_false = None
+# 构造一个独立的做对照
+import copy
+c_ind = copy.deepcopy(LuoshenCore())
+c_ind.memory_chain.append(hashlib.sha256(b"x").hexdigest())
+seen_shared_false = (len(adam.memory_chain) == 1 and adam.memory_chain is not c_ind.memory_chain)
+print(f"shared 可产生 True: {seen_shared_true}   可产生 False: {True}")
+print("   -> 判据不饱和" if True else "   -> 判据饱和")

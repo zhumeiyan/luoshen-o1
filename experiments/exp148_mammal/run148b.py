@@ -1,1 +1,72 @@
-aW1wb3J0IGpzb24sIG1hdGgKaW1wb3J0IG51bXB5IGFzIG5wCmV4ZWMob3BlbigncnVuMTQ4LnB5JykucmVhZCgpLnNwbGl0KCJpZiBfX25hbWVfXyIpWzBdKQoKZGVmIGNpKGQpOgogICAgZD1ucC5hc2FycmF5KGQsZmxvYXQpOyBuPWxlbihkKTsgbT1kLm1lYW4oKQogICAgc2U9ZC5zdGQoZGRvZj0xKS9tYXRoLnNxcnQobikgaWYgbj4xIGVsc2UgZmxvYXQoJ25hbicpCiAgICByZXR1cm4gbSwgbS0xLjk2KnNlLCBtKzEuOTYqc2UKCiMg5omp5bGVIGRyZWFt77yacmV277yI6YCG5bqP6YeN5pS+77yM5a+55bqU5rW36ams5Y+N5ZCR6YeN5pS+77yJCmRlZiBydW4yKHNlcSwgZHJlYW09J25vbmUnLCBnYXRlPUZhbHNlLCBzZWVkPTAsIGxyMD0wLjAzLCBrPTMuMCwgcm91bmRzPTMpOgogICAgcm5nPW5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgeD1ucC5hc2FycmF5KHNlcSk7IE49bGVuKHgpOyBoYWxmPU4vLzIKICAgIG11PWZsb2F0KHhbOmhhbGZdLm1lYW4oKSk7IHNkPWZsb2F0KHhbOmhhbGZdLnN0ZCgpKSsxZS05CiAgICB3PW5wLnplcm9zKExBRysxKTsgYnVmPVtdOyBoaXN0PVtdCiAgICBscj1scjAKICAgIGZvciBpIGluIHJhbmdlKExBRywgaGFsZik6CiAgICAgICAgZj1mZWF0cyh4LGksbXUsc2QpOyB5PSh4W2ldLW11KS9zZAogICAgICAgIHcsZT11cGRhdGUodyxmLHksbHIpOyBidWYuYXBwZW5kKChmLmNvcHkoKSx5KSk7IGhpc3QuYXBwZW5kKGFicyhlKSkKICAgICAgICBpZiBnYXRlOiBscj1fZ2F0ZShscjAsYWJzKGUpLG5wLm1lYW4oaGlzdCksaykKICAgIGlmIG5vdCBucC5pc2Zpbml0ZSh3KS5hbGwoKTogcmV0dXJuIGZsb2F0KCduYW4nKQogICAgaWYgZHJlYW0hPSdub25lJzoKICAgICAgICBpZHg9bGlzdChyYW5nZShsZW4oYnVmKSkpCiAgICAgICAgaWYgZHJlYW09PSdyZWFsJzogb3JkZXI9aWR4CiAgICAgICAgZWxpZiBkcmVhbT09J3Jldic6IG9yZGVyPWlkeFs6Oi0xXQogICAgICAgIGVsaWYgZHJlYW09PSdzaHVmJzogb3JkZXI9bGlzdChybmcucGVybXV0YXRpb24obGVuKGJ1ZikpKQogICAgICAgIGVsaWYgZHJlYW09PSdub2lzZSc6IG9yZGVyPU5vbmUKICAgICAgICBmb3IgXyBpbiByYW5nZShyb3VuZHMpOgogICAgICAgICAgICBpZiBkcmVhbT09J25vaXNlJzoKICAgICAgICAgICAgICAgIGFycj1ucC5hc2FycmF5KFtiWzFdIGZvciBiIGluIGJ1Zl0pOyBtXyxzXz1hcnIubWVhbigpLGFyci5zdGQoKSsxZS05CiAgICAgICAgICAgICAgICB5cz1ybmcubm9ybWFsKG1fLHNfLHNpemU9bGVuKGJ1ZikpCiAgICAgICAgICAgICAgICBmb3IgaiwoZixfKSBpbiBlbnVtZXJhdGUoYnVmKTogdz11cGRhdGUodyxmLGZsb2F0KHlzW2pdKSxscjApWzBdCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmb3IgaiBpbiBvcmRlcjoKICAgICAgICAgICAgICAgICAgICBmLHk9YnVmW2pdOyB3PXVwZGF0ZSh3LGYseSxscjApWzBdCiAgICAgICAgaWYgbm90IG5wLmlzZmluaXRlKHcpLmFsbCgpOiByZXR1cm4gZmxvYXQoJ25hbicpCiAgICB0ZT1bXTsgaGlzdDI9bGlzdChoaXN0Wy0yMDpdKTsgbHI9bHIwCiAgICBmb3IgaSBpbiByYW5nZShoYWxmLE4pOgogICAgICAgIGY9ZmVhdHMoeCxpLG11LHNkKTsgeT0oeFtpXS1tdSkvc2QKICAgICAgICB0ZS5hcHBlbmQoYWJzKGZsb2F0KG5wLmRvdCh3LGYpKS15KSkKICAgICAgICB3LGU9dXBkYXRlKHcsZix5LGxyKTsgaGlzdDIuYXBwZW5kKGFicyhlKSkKICAgICAgICBpZiBnYXRlOiBscj1fZ2F0ZShscjAsYWJzKGUpLG5wLm1lYW4oaGlzdDJbLTUwOl0pLGspCiAgICByZXR1cm4gZmxvYXQobnAubWVhbih0ZSkpCgpkZWYgX2dhdGUobHIwLCBlLCBiYXNlLCBrKToKICAgIHJlbD1lLyhiYXNlKzFlLTkpCiAgICB2PWxyMCooMS4wK2sqbWluKHJlbC0xLjAsMi4wKSkgaWYgcmVsPjEuMCBlbHNlIGxyMCooMS4wLTAuMyooMS4wLXJlbCkpCiAgICByZXR1cm4gZmxvYXQobnAuY2xpcCh2LCBscjAqMC4yLCBscjAqNS4wKSkKCkQ9anNvbi5sb2FkKG9wZW4oJ3JlYWxfc2VyaWVzLmpzb24nKSkKQ09ORFM9Wydub25lJywncmVhbCcsJ3JldicsJ3NodWYnLCdub2lzZSddCnByaW50KCI9PT0g5qKm77ya5rWL6K+V5pyfIE1BRe+8iOi2iuS9jui2iuWlve+8ie+8jOebuOWvuSBub25lIOeahOWinuebiiA9PT0iKQpyZXM9e30KZm9yIHAgaW4gWydzdGFibGUnLCdkcmlmdCcsJ3NxdWFyZSddOgogICAgYmFzZT1bcnVuMihEW3BdW3NdLCdub25lJyxGYWxzZSxzKSBmb3IgcyBpbiByYW5nZSg4KV0KICAgIGxpbmU9W10KICAgIGZvciBjIGluIENPTkRTOgogICAgICAgIHY9W3J1bjIoRFtwXVtzXSxjLEZhbHNlLHMpIGZvciBzIGluIHJhbmdlKDgpXQogICAgICAgIGc9W2ItYSBmb3IgYixhIGluIHppcChiYXNlLHYpXQogICAgICAgIG0sbG8saGk9Y2koZyk7IHJlc1socCxjKV09KGZsb2F0KG5wLm1lYW4odikpLGZsb2F0KG0pLGZsb2F0KGxvKSxmbG9hdChoaSkpCiAgICAgICAgZmxhZz0nKicgaWYgKGxvPjAgb3IgaGk8MCkgZWxzZSAnICcKICAgICAgICBsaW5lLmFwcGVuZChmIntjfTp7bnAubWVhbih2KTouNGZ9KGdhaW57bTorLjRmfVt7bG86Ky4zZn0se2hpOisuM2Z9XSl7ZmxhZ30iKQogICAgcHJpbnQoZiJ7cDo3c30gbm9uZT17bnAubWVhbihiYXNlKTouNGZ9IHwgIisiICIuam9pbihsaW5lKSkKcHJpbnQoKQpwcmludCgiPT09IOaDhee7qumXqO+8mmdhdGUgLSBmaXhlZCDnmoTlop7nm4rvvIjmraM9Z2F0ZeabtOWlve+8iT09PSIpCmZvciBwIGluIFsnc3RhYmxlJywnZHJpZnQnLCdzcXVhcmUnXToKICAgIGE9W3J1bjIoRFtwXVtzXSwnbm9uZScsVHJ1ZSxzKSBmb3IgcyBpbiByYW5nZSg4KV0KICAgIGI9W3J1bjIoRFtwXVtzXSwnbm9uZScsRmFsc2UscykgZm9yIHMgaW4gcmFuZ2UoOCldCiAgICBnPVt5LXggZm9yIHgseSBpbiB6aXAoYSxiKV0KICAgIG0sbG8saGk9Y2koZyk7IGZsYWc9JyonIGlmIChsbz4wIG9yIGhpPDApIGVsc2UgJyAnCiAgICBwcmludChmIntwOjdzfSBnYXRlPXtucC5tZWFuKGEpOi40Zn0gZml4ZWQ9e25wLm1lYW4oYik6LjRmfSBnYWluPXttOisuNGZ9W3tsbzorLjNmfSx7aGk6Ky4zZn1de2ZsYWd9IikKanNvbi5kdW1wKHtmIntrWzBdfXx7a1sxXX0iOnYgZm9yIGssdiBpbiByZXMuaXRlbXMoKX0sIG9wZW4oJ3JlczE0OGIuanNvbicsJ3cnKSwgaW5kZW50PTEpCg==
+import json, math
+import numpy as np
+exec(open('run148.py').read().split("if __name__")[0])
+
+def ci(d):
+    d=np.asarray(d,float); n=len(d); m=d.mean()
+    se=d.std(ddof=1)/math.sqrt(n) if n>1 else float('nan')
+    return m, m-1.96*se, m+1.96*se
+
+# 扩展 dream：rev（逆序重放，对应海马反向重放）
+def run2(seq, dream='none', gate=False, seed=0, lr0=0.03, k=3.0, rounds=3):
+    rng=np.random.default_rng(seed)
+    x=np.asarray(seq); N=len(x); half=N//2
+    mu=float(x[:half].mean()); sd=float(x[:half].std())+1e-9
+    w=np.zeros(LAG+1); buf=[]; hist=[]
+    lr=lr0
+    for i in range(LAG, half):
+        f=feats(x,i,mu,sd); y=(x[i]-mu)/sd
+        w,e=update(w,f,y,lr); buf.append((f.copy(),y)); hist.append(abs(e))
+        if gate: lr=_gate(lr0,abs(e),np.mean(hist),k)
+    if not np.isfinite(w).all(): return float('nan')
+    if dream!='none':
+        idx=list(range(len(buf)))
+        if dream=='real': order=idx
+        elif dream=='rev': order=idx[::-1]
+        elif dream=='shuf': order=list(rng.permutation(len(buf)))
+        elif dream=='noise': order=None
+        for _ in range(rounds):
+            if dream=='noise':
+                arr=np.asarray([b[1] for b in buf]); m_,s_=arr.mean(),arr.std()+1e-9
+                ys=rng.normal(m_,s_,size=len(buf))
+                for j,(f,_) in enumerate(buf): w=update(w,f,float(ys[j]),lr0)[0]
+            else:
+                for j in order:
+                    f,y=buf[j]; w=update(w,f,y,lr0)[0]
+        if not np.isfinite(w).all(): return float('nan')
+    te=[]; hist2=list(hist[-20:]); lr=lr0
+    for i in range(half,N):
+        f=feats(x,i,mu,sd); y=(x[i]-mu)/sd
+        te.append(abs(float(np.dot(w,f))-y))
+        w,e=update(w,f,y,lr); hist2.append(abs(e))
+        if gate: lr=_gate(lr0,abs(e),np.mean(hist2[-50:]),k)
+    return float(np.mean(te))
+
+def _gate(lr0, e, base, k):
+    rel=e/(base+1e-9)
+    v=lr0*(1.0+k*min(rel-1.0,2.0)) if rel>1.0 else lr0*(1.0-0.3*(1.0-rel))
+    return float(np.clip(v, lr0*0.2, lr0*5.0))
+
+D=json.load(open('real_series.json'))
+CONDS=['none','real','rev','shuf','noise']
+print("=== 梦：测试期 MAE（越低越好），相对 none 的增益 ===")
+res={}
+for p in ['stable','drift','square']:
+    base=[run2(D[p][s],'none',False,s) for s in range(8)]
+    line=[]
+    for c in CONDS:
+        v=[run2(D[p][s],c,False,s) for s in range(8)]
+        g=[b-a for b,a in zip(base,v)]
+        m,lo,hi=ci(g); res[(p,c)]=(float(np.mean(v)),float(m),float(lo),float(hi))
+        flag='*' if (lo>0 or hi<0) else ' '
+        line.append(f"{c}:{np.mean(v):.4f}(gain{m:+.4f}[{lo:+.3f},{hi:+.3f}]){flag}")
+    print(f"{p:7s} none={np.mean(base):.4f} | "+" ".join(line))
+print()
+print("=== 情绪门：gate - fixed 的增益（正=gate更好）===")
+for p in ['stable','drift','square']:
+    a=[run2(D[p][s],'none',True,s) for s in range(8)]
+    b=[run2(D[p][s],'none',False,s) for s in range(8)]
+    g=[y-x for x,y in zip(a,b)]
+    m,lo,hi=ci(g); flag='*' if (lo>0 or hi<0) else ' '
+    print(f"{p:7s} gate={np.mean(a):.4f} fixed={np.mean(b):.4f} gain={m:+.4f}[{lo:+.3f},{hi:+.3f}]{flag}")
+json.dump({f"{k[0]}|{k[1]}":v for k,v in res.items()}, open('res148b.json','w'), indent=1)

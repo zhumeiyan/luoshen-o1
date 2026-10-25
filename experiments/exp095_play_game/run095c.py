@@ -1,1 +1,23 @@
-aW1wb3J0IHN5cywgb3MsIGpzb24sIHRpbWUKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gZXhwMDk1X3BsYXlfZ2FtZSBpbXBvcnQgKgpPVVQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKUkVOREVSX0NPU1QsIERFQ0lERV9DT1NUID0gMC41LCAyMC4wCldJRFRIUyA9IFs4LDE2LDMyLDY0LDEyOCwyNTYsNTEyLDgwMF0KRyA9IHt9CmZvciBUIGluIFs2MDAuMCwgMTUwMC4wLCAzMDAwLjAsIDYwMDAuMF06CiAgICByb3cgPSB7fQogICAgZm9yIHdyIGluIFdJRFRIUzoKICAgICAgICBmcmFtZXMgPSBtYXgoMiwgaW50KFQvKHdyKlJFTkRFUl9DT1NUK0RFQ0lERV9DT1NUKSkpCiAgICAgICAgc2MgPSBTY3JlZW4oa2VlcF9oaXN0b3J5PVRydWUpCiAgICAgICAgZiA9IHJ1bihuPTQ4LCBtb2RlPSdjbG9zZWQnLCBleWU9RXllKHNjLCBjb2xzPW1pbih3ciwgV19GQikpLAogICAgICAgICAgICAgICAgc2NyZWVuPXNjLCBtYXhfc3RlcHM9ZnJhbWVzLCBoYW5kPU5vbmUpCiAgICAgICAgZlsnZnJhbWVzJ10gPSBmcmFtZXMKICAgICAgICByb3dbd3JdID0gZgogICAgICAgIHByaW50KGYnVD17VDo2LjBmfSAge3dyOjRkfeWIly/luKcg4oaSIHtmcmFtZXM6M2R95binICDlkb3kuK3njocge2ZbInJhdGUiXTouM2Z9JywgZmx1c2g9VHJ1ZSkKICAgIHBlYWsgPSBtYXgoV0lEVEhTLCBrZXk9bGFtYmRhIHc6IHJvd1t3XVsncmF0ZSddKQogICAgcHJpbnQoZicgIOKGkiBUPXtUOi4wZn0g5bOw5YC85ZyoIHtwZWFrfSDliJcv5binXG4nLCBmbHVzaD1UcnVlKQogICAgR1tUXSA9IHJvdwpqc29uLmR1bXAoe3N0cihrKToge3N0cihhKTogYiBmb3IgYSwgYiBpbiB2Lml0ZW1zKCl9IGZvciBrLCB2IGluIEcuaXRlbXMoKX0sCiAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihPVVQsJ3Jlc3VsdDA5NWMuanNvbicpLCd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+import sys, os, json, time
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import numpy as np
+from exp095_play_game import *
+OUT = os.path.dirname(os.path.abspath(__file__))
+RENDER_COST, DECIDE_COST = 0.5, 20.0
+WIDTHS = [8,16,32,64,128,256,512,800]
+G = {}
+for T in [600.0, 1500.0, 3000.0, 6000.0]:
+    row = {}
+    for wr in WIDTHS:
+        frames = max(2, int(T/(wr*RENDER_COST+DECIDE_COST)))
+        sc = Screen(keep_history=True)
+        f = run(n=48, mode='closed', eye=Eye(sc, cols=min(wr, W_FB)),
+                screen=sc, max_steps=frames, hand=None)
+        f['frames'] = frames
+        row[wr] = f
+        print(f'T={T:6.0f}  {wr:4d}列/帧 → {frames:3d}帧  命中率 {f["rate"]:.3f}', flush=True)
+    peak = max(WIDTHS, key=lambda w: row[w]['rate'])
+    print(f'  → T={T:.0f} 峰值在 {peak} 列/帧\n', flush=True)
+    G[T] = row
+json.dump({str(k): {str(a): b for a, b in v.items()} for k, v in G.items()},
+          open(os.path.join(OUT,'result095c.json'),'w'), ensure_ascii=False, indent=1)

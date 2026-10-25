@@ -1,1 +1,70 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWBmuWujOiHquW3seeciyDCtyAwODUK5oqK5a6e6aqM57uT5p6c55qE5YWz6ZSu5pWw5a2X5riy5p+T5Yiw5bin57yT5YayKOWxj+W5lSnvvIzlho3nlKggZmZtcGVnIOmHh+mbhiArIE9DUiDor7vlm57mnaXvvIwK5LiO6ISa5pys566X5Ye655qE55yf5YC86YCQ6aG55q+U5a+5IOKAlOKAlCDpl63njq/or4HmmI4i5oiR5YGa5a6M6Ieq5bex55yL5LqGIu+8jOS4jeaYr+i9rOi/sOOAggoiIiIKaW1wb3J0IGpzb24sIG9zLCBzdWJwcm9jZXNzLCBoYXNobGliLCBzZWNyZXRzCmltcG9ydCBudW1weSBhcyBucApmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpST09UID0gJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xJwpGQiA9ICcvZGV2L2ZiMCcKRk9OVCA9ICcvbml4L3N0b3JlL3NtZ2J2ejlzcWNpa2MxOHZmM2k5cnkycDV6bG5iN2g1LW5vdG8tZm9udHMtY2prLXNhbnMtMi4wMDQvc2hhcmUvZm9udHMvb3BlbnR5cGUvbm90by1jamsvTm90b1NhbnNDSkstVkYub3RmLnR0YycKCmQgPSBqc29uLmxvYWQob3BlbihmJ3tST09UfS9leHBlcmltZW50cy9yZXN1bHRfMDg1ZC5qc29uJykpCmUgPSBqc29uLmxvYWQob3BlbihmJ3tST09UfS9leHBlcmltZW50cy9yZXN1bHRfMDg1ZS5qc29uJykpCgojIC0tLS0g55yf5YC877yI55Sx6ISa5pys566X5Ye677yM5YWI5bCB5a2YIFNIQTI1Nu+8jOS6i+WQjuaUueS4jeS6hu+8iS0tLS0KdHJ1dGggPSB7CiAgICAnUkhPX0RSSUZUJzogIGYie2RbJ3Job19kcmlmdCddOi40Zn0iLAogICAgJ1JIT19BTElWRSc6ICBmIntkWydyaG9fYWxpdmUnXTouNGZ9IiwKICAgICdERUxUQV9SNic6ICAgZiJ7ZVsncm93cyddWzJdWydkZWx0YSddOi41Zn0iLAogICAgJ0RSSUZUX01BWCc6ICBmInttYXgoclsnZHJpZnQnXSBmb3IgciBpbiBkWydyb3dzJ10pOi41Zn0iLAp9CnRhZyA9IHNlY3JldHMudG9rZW5faGV4KDMpLnVwcGVyKCkKZmggPSBoYXNobGliLnNoYTI1Nihqc29uLmR1bXBzKHRydXRoLCBzb3J0X2tleXM9VHJ1ZSkuZW5jb2RlKCkpLmhleGRpZ2VzdCgpWzoxNl0KcHJpbnQoJ1vlsIHlrZjnnJ/lgLxdJywgdHJ1dGgpCnByaW50KCdbU0hBMjU2XSAgJywgZmgsICcg6ZqP5py65qCh6aqM56CBOicsIHRhZykKCiMgLS0tLSDmuLLmn5PliLDlsY/luZUgLS0tLQpXLCBIID0gMTAyNCwgNzY4CmltZyA9IEltYWdlLm5ldygnUkdCJywgKFcsIEgpLCAnd2hpdGUnKQpkciA9IEltYWdlRHJhdy5EcmF3KGltZykKZl9iaWcgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwgMzQpCmZfc20gPSBJbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwgMjYpCmxpbmVzID0gWwogICAgKCLlrp7pqowwODUg5oiR6Ieq5bex55yL57uT5p6cIiwgZl9iaWcpLAogICAgKGYiUkhPX0RSSUZUIHt0cnV0aFsnUkhPX0RSSUZUJ119IiwgZl9zbSksCiAgICAoZiJSSE9fQUxJVkUge3RydXRoWydSSE9fQUxJVkUnXX0iLCBmX3NtKSwKICAgIChmIkRFTFRBX1I2IHt0cnV0aFsnREVMVEFfUjYnXX0iLCBmX3NtKSwKICAgIChmIkRSSUZUX01BWCB7dHJ1dGhbJ0RSSUZUX01BWCddfSIsIGZfc20pLAogICAgKGYiQ0hFQ0sge3RhZ30iLCBmX3NtKSwKXQp5ID0gOTAKZm9yIHQsIGYgaW4gbGluZXM6CiAgICBkci50ZXh0KCg3MCwgeSksIHQsIGZpbGw9J2JsYWNrJywgZm9udD1mKTsgeSArPSA3OAppbWcuc2F2ZShmJ3tST09UfS9ldmlkZW5jZS9yYXdfZGF0YS8wODVfcmVuZGVyZWQucG5nJykKCnJhdyA9IGltZy5jb252ZXJ0KCdSR0JBJykudG9ieXRlcygpICAgIyBmYjAg5pivIDMyYnBw77yM5b+F6aG7IFJHQkHvvIgwODIg55qE57uP6aqM77yJCndpdGggb3BlbihGQiwgJ3diJykgYXMgZjoKICAgICMg5bin57yT5Yay5Y+v6IO95pivIDMyYnBwIEJHUkHvvJvmjInlrp7pmYUgc3RyaWRlIOWGmQogICAgZi53cml0ZShyYXcpCnByaW50KCdb5riy5p+TXSDlt7LlhpnlhaUnLCBGQikKCnN1YnByb2Nlc3MucnVuKFsnZmZtcGVnJywgJy15JywgJy1mJywgJ2ZiZGV2JywgJy1pJywgRkIsICctZnJhbWVzOnYnLCAnMScsCiAgICAgICAgICAgICAgICBmJ3tST09UfS9ldmlkZW5jZS9yYXdfZGF0YS8wODVfY2FwdHVyZWQucG5nJ10sCiAgICAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUpCnByaW50KCdb6YeH6ZuGXSDlt7Lph4fpm4YgMDg1X2NhcHR1cmVkLnBuZycpCgppbXBvcnQgcHl0ZXNzZXJhY3QKdHh0ID0gcHl0ZXNzZXJhY3QuaW1hZ2VfdG9fc3RyaW5nKEltYWdlLm9wZW4oZid7Uk9PVH0vZXZpZGVuY2UvcmF3X2RhdGEvMDg1X2NhcHR1cmVkLnBuZycpKQpwcmludCgnXG5bT0NSIOivu+Wbnl1cbicgKyB0eHQpCgpvayA9IGFsbCh2IGluIHR4dC5yZXBsYWNlKCcgJywgJycpIGZvciB2IGluIGxpc3QodHJ1dGgudmFsdWVzKCkpICsgW3RhZ10pCnByaW50KCdb5q+U5a+5XSDlhajpg6jlkb3kuK06Jywgb2spCmZvciBrLCB2IGluIHRydXRoLml0ZW1zKCk6CiAgICBwcmludChmJyAgIHtrOjEyc30g55yf5YC8PXt2Oj4xMHN9ICDlnKhPQ1LkuK06IHt2IGluIHR4dC5yZXBsYWNlKCIgIiwiIil9JykKcHJpbnQoZicgICBDSEVDSyAgICAgICDpmo/mnLrnoIE9e3RhZ30gIOWcqE9DUuS4rToge3RhZyBpbiB0eHQucmVwbGFjZSgiICIsIiIpfScpCmpzb24uZHVtcChkaWN0KHRydXRoPXRydXRoLCBzaGEyNTY9ZmgsIHRhZz10YWcsIG9jcj10eHQsIG1hdGNoPWJvb2wob2spKSwKICAgICAgICAgIG9wZW4oZid7Uk9PVH0vZXZpZGVuY2UvcmF3X2RhdGEvMDg1X3NlbGZsb29rLmpzb24nLCAndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+# -*- coding: utf-8 -*-
+"""
+做完自己看 · 085
+把实验结果的关键数字渲染到帧缓冲(屏幕)，再用 ffmpeg 采集 + OCR 读回来，
+与脚本算出的真值逐项比对 —— 闭环证明"我做完自己看了"，不是转述。
+"""
+import json, os, subprocess, hashlib, secrets
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+ROOT = '/data/workspace/luoshen-o1'
+FB = '/dev/fb0'
+FONT = '/nix/store/smgbvz9sqcikc18vf3i9ry2p5zlnb7h5-noto-fonts-cjk-sans-2.004/share/fonts/opentype/noto-cjk/NotoSansCJK-VF.otf.ttc'
+
+d = json.load(open(f'{ROOT}/experiments/result_085d.json'))
+e = json.load(open(f'{ROOT}/experiments/result_085e.json'))
+
+# ---- 真值（由脚本算出，先封存 SHA256，事后改不了）----
+truth = {
+    'RHO_DRIFT':  f"{d['rho_drift']:.4f}",
+    'RHO_ALIVE':  f"{d['rho_alive']:.4f}",
+    'DELTA_R6':   f"{e['rows'][2]['delta']:.5f}",
+    'DRIFT_MAX':  f"{max(r['drift'] for r in d['rows']):.5f}",
+}
+tag = secrets.token_hex(3).upper()
+fh = hashlib.sha256(json.dumps(truth, sort_keys=True).encode()).hexdigest()[:16]
+print('[封存真值]', truth)
+print('[SHA256]  ', fh, ' 随机校验码:', tag)
+
+# ---- 渲染到屏幕 ----
+W, H = 1024, 768
+img = Image.new('RGB', (W, H), 'white')
+dr = ImageDraw.Draw(img)
+f_big = ImageFont.truetype(FONT, 34)
+f_sm = ImageFont.truetype(FONT, 26)
+lines = [
+    ("实验085 我自己看结果", f_big),
+    (f"RHO_DRIFT {truth['RHO_DRIFT']}", f_sm),
+    (f"RHO_ALIVE {truth['RHO_ALIVE']}", f_sm),
+    (f"DELTA_R6 {truth['DELTA_R6']}", f_sm),
+    (f"DRIFT_MAX {truth['DRIFT_MAX']}", f_sm),
+    (f"CHECK {tag}", f_sm),
+]
+y = 90
+for t, f in lines:
+    dr.text((70, y), t, fill='black', font=f); y += 78
+img.save(f'{ROOT}/evidence/raw_data/085_rendered.png')
+
+raw = img.convert('RGBA').tobytes()   # fb0 是 32bpp，必须 RGBA（082 的经验）
+with open(FB, 'wb') as f:
+    # 帧缓冲可能是 32bpp BGRA；按实际 stride 写
+    f.write(raw)
+print('[渲染] 已写入', FB)
+
+subprocess.run(['ffmpeg', '-y', '-f', 'fbdev', '-i', FB, '-frames:v', '1',
+                f'{ROOT}/evidence/raw_data/085_captured.png'],
+               capture_output=True)
+print('[采集] 已采集 085_captured.png')
+
+import pytesseract
+txt = pytesseract.image_to_string(Image.open(f'{ROOT}/evidence/raw_data/085_captured.png'))
+print('\n[OCR 读回]\n' + txt)
+
+ok = all(v in txt.replace(' ', '') for v in list(truth.values()) + [tag])
+print('[比对] 全部命中:', ok)
+for k, v in truth.items():
+    print(f'   {k:12s} 真值={v:>10s}  在OCR中: {v in txt.replace(" ","")}')
+print(f'   CHECK       随机码={tag}  在OCR中: {tag in txt.replace(" ","")}')
+json.dump(dict(truth=truth, sha256=fh, tag=tag, ocr=txt, match=bool(ok)),
+          open(f'{ROOT}/evidence/raw_data/085_selflook.json', 'w'), ensure_ascii=False, indent=1)

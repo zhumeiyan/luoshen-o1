@@ -1,1 +1,56 @@
-IyBTUERYLUZpbGVDb3B5cmlnaHRUZXh0OiBDb3B5cmlnaHQgKGMpIDIwMjUtMjAyNiBOVklESUEgQ09SUE9SQVRJT04gJiBBRkZJTElBVEVTLiBBbGwgcmlnaHRzIHJlc2VydmVkLgojIFNQRFgtTGljZW5zZS1JZGVudGlmaWVyOiBBcGFjaGUtMi4wCgoiIiJCcmlkZ2UgQXV0b21vZGVsIGBgVHJhaW5pbmdTdGVwQ29uZmlnYGAgdG8gc2hhcmVkIGludGVncmF0aW9uIHJ1bnRpbWUgaGVscGVycy4iIiIKCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmZyb20gbmh4LmF1dG9tb2RlbC5hcHAuam9icy50cmFpbmluZy5zY2hlbWFzIGltcG9ydCBUcmFpbmluZ1N0ZXBDb25maWcKZnJvbSBuaHguY3VzdG9taXphdGlvbl9jb21tb24uaW50ZWdyYXRpb25zIGltcG9ydCAoCiAgICBJbnRlZ3JhdGlvblJ1bnRpbWVDb250ZXh0LAopCmZyb20gbmh4LmN1c3RvbWl6YXRpb25fY29tbW9uLmludGVncmF0aW9ucyBpbXBvcnQgKAogICAgYnVpbGRfbWxmbG93X2NvbmZpZyBhcyBfYnVpbGRfbWxmbG93X2NvbmZpZywKKQpmcm9tIG5oeC5jdXN0b21pemF0aW9uX2NvbW1vbi5pbnRlZ3JhdGlvbnMgaW1wb3J0ICgKICAgIGJ1aWxkX3dhbmRiX2NvbmZpZyBhcyBfYnVpbGRfd2FuZGJfY29uZmlnLAopCmZyb20gbmh4LmN1c3RvbWl6YXRpb25fY29tbW9uLnNlcnZpY2UuY29udGV4dCBpbXBvcnQgTkhYSm9iQ29udGV4dAoKCmRlZiBpbnRlZ3JhdGlvbl9jb250ZXh0X2Zyb21fdHJhaW5pbmdfc3RlcCgKICAgIGN1c3RvbWl6ZXJfY29uZmlnOiBUcmFpbmluZ1N0ZXBDb25maWcsCiAgICBqb2JfY3R4OiBOSFhKb2JDb250ZXh0LAogICAgZnJhbWV3b3JrOiBzdHIsCikgLT4gSW50ZWdyYXRpb25SdW50aW1lQ29udGV4dDoKICAgICIiIk1hcCBjb21waWxlZCB0cmFpbmluZy1zdGVwIGNvbmZpZyB0byBzaGFyZWQgaW50ZWdyYXRpb24gcnVudGltZSBjb250ZXh0LiIiIgogICAgcmV0dXJuIEludGVncmF0aW9uUnVudGltZUNvbnRleHQuZnJvbV9pbnRlZ3JhdGlvbnNfc3BlYygKICAgICAgICBpbnRlZ3JhdGlvbnM9Y3VzdG9taXplcl9jb25maWcuaW50ZWdyYXRpb25zLAogICAgICAgIG91dHB1dF9uYW1lPWN1c3RvbWl6ZXJfY29uZmlnLm91dHB1dF9tb2RlbCwKICAgICAgICB3b3Jrc3BhY2VfcGF0aD1jdXN0b21pemVyX2NvbmZpZy53b3Jrc3BhY2VfcGF0aCwKICAgICAgICBtb2RlbF9uYW1lPWN1c3RvbWl6ZXJfY29uZmlnLm1vZGVsLm5hbWUsCiAgICAgICAgam9iX2N0eD1qb2JfY3R4LAogICAgICAgIGZyYW1ld29yaz1mcmFtZXdvcmssCiAgICApCgoKZGVmIGJ1aWxkX21sZmxvd19jb25maWcoCiAgICBjdXN0b21pemVyX2NvbmZpZzogVHJhaW5pbmdTdGVwQ29uZmlnLAogICAgam9iX2N0eDogTkhYSm9iQ29udGV4dCwKICAgIGZyYW1ld29yazogc3RyLAopIC0+IGRpY3Rbc3RyLCBBbnldIHwgTm9uZToKICAgICIiIkJ1aWxkIE1MZmxvdyBjb25maWcgZm9yIEF1dG9tb2RlbCB0cmFpbmluZy4iIiIKICAgIHJldHVybiBfYnVpbGRfbWxmbG93X2NvbmZpZygKICAgICAgICBpbnRlZ3JhdGlvbl9jb250ZXh0X2Zyb21fdHJhaW5pbmdfc3RlcChjdXN0b21pemVyX2NvbmZpZywgam9iX2N0eCwgZnJhbWV3b3JrKSwKICAgICkKCgpkZWYgYnVpbGRfd2FuZGJfY29uZmlnKAogICAgY3VzdG9taXplcl9jb25maWc6IFRyYWluaW5nU3RlcENvbmZpZywKICAgIGpvYl9jdHg6IE5IWEpvYkNvbnRleHQsCiAgICBmcmFtZXdvcms6IHN0ciwKKSAtPiBkaWN0W3N0ciwgQW55XSB8IE5vbmU6CiAgICAiIiJCdWlsZCBXJkIgY29uZmlnIGZvciBBdXRvbW9kZWwgdHJhaW5pbmcuIiIiCiAgICByZXR1cm4gX2J1aWxkX3dhbmRiX2NvbmZpZygKICAgICAgICBpbnRlZ3JhdGlvbl9jb250ZXh0X2Zyb21fdHJhaW5pbmdfc3RlcChjdXN0b21pemVyX2NvbmZpZywgam9iX2N0eCwgZnJhbWV3b3JrKSwKICAgICkK
+# SPDX-FileCopyrightText: Copyright (c) 2025-2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
+
+"""Bridge Automodel ``TrainingStepConfig`` to shared integration runtime helpers."""
+
+from typing import Any
+
+from nhx.automodel.app.jobs.training.schemas import TrainingStepConfig
+from nhx.customization_common.integrations import (
+    IntegrationRuntimeContext,
+)
+from nhx.customization_common.integrations import (
+    build_mlflow_config as _build_mlflow_config,
+)
+from nhx.customization_common.integrations import (
+    build_wandb_config as _build_wandb_config,
+)
+from nhx.customization_common.service.context import NHXJobContext
+
+
+def integration_context_from_training_step(
+    customizer_config: TrainingStepConfig,
+    job_ctx: NHXJobContext,
+    framework: str,
+) -> IntegrationRuntimeContext:
+    """Map compiled training-step config to shared integration runtime context."""
+    return IntegrationRuntimeContext.from_integrations_spec(
+        integrations=customizer_config.integrations,
+        output_name=customizer_config.output_model,
+        workspace_path=customizer_config.workspace_path,
+        model_name=customizer_config.model.name,
+        job_ctx=job_ctx,
+        framework=framework,
+    )
+
+
+def build_mlflow_config(
+    customizer_config: TrainingStepConfig,
+    job_ctx: NHXJobContext,
+    framework: str,
+) -> dict[str, Any] | None:
+    """Build MLflow config for Automodel training."""
+    return _build_mlflow_config(
+        integration_context_from_training_step(customizer_config, job_ctx, framework),
+    )
+
+
+def build_wandb_config(
+    customizer_config: TrainingStepConfig,
+    job_ctx: NHXJobContext,
+    framework: str,
+) -> dict[str, Any] | None:
+    """Build W&B config for Automodel training."""
+    return _build_wandb_config(
+        integration_context_from_training_step(customizer_config, job_ctx, framework),
+    )

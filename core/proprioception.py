@@ -1,1 +1,253 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrmnKzkvZPop4kg4oCU4oCUIOefpemBk+iHquW3seeahOi6q+S9k+WcqOWTqu+8jOiAjOS4lOOAkOmXreedgOecvOS5n+efpemBk+OAkQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYhSDlroPmmK/jgJDllK/kuIDkuIDkuKrkuI3pnIDopoHlpJbnlYzliLrmv4DlsLHog73lt6XkvZzjgJHnmoTmhJ/lrpgKICAgIOecvOiAs+m8u+earuiCpO+8mumcgOimgeWklumDqOiDvemHj++8iOWFiS/lo7Av5YiG5a2QL+WOi+WKm++8iQogICAg4piFIOacrOS9k+inie+8mui6q+S9k+iHquW3seS6p+eUn+S/oeWPtyDigJTigJQg6IKM6IKJ5LiA5pS257yp5bCx5pyJCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS4gOOAgeWbm+exu+aEn+WPl+WZqO+8iFJFQUzvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg6IKM5qKtIG11c2NsZSBzcGluZGxlICAgICDmtYvogozogonjgJDplb/luqbjgJHlkozjgJDplb/luqblj5jljJbpgJ/luqbjgJEKICAgICAgICBJYSDkvKDlhaXvvIhkeW5hbWlj77yJICDlr7npgJ/luqbmlY/mhJ/vvIznuqYgMTIwIG0vcyDkvKDlr7zvvIjmnIDlv6vvvIkKICAgICAgICBJSSDkvKDlhaXvvIhzdGF0aWPvvIkgICDlr7npnZnmgIHplb/luqbmlY/mhJ8KICAgICAgICDimIUg5qC46KKL57qk57u0IG51Y2xlYXIgYmFnIC8g5qC46ZO+57qk57u0IG51Y2xlYXIgY2hhaW4KICAgIOmrmOWwlOWfuuiFseWZqCBHVE8gICAgICAgICAg5rWL6IKM6IKJ44CQ5byg5Yqb44CR77yM6ZiI5YC85L2O5L2G6aWx5ZKM6auYCiAgICAgICAgSWIg5Lyg5YWl77yM57qmIDEwMCBtL3MKICAgIOWFs+iKguaEn+WPl+WZqCAgICAgICAgICAgICAg5p6B56uv6KeS5bqm5omN5ZON5bqUIOKAlOKAlCDlj6rmiqXmnoHpmZDvvIzkuI3miqXkuK3pl7QKICAgIOearuiCpOaLieS8uOaEn+WPl+WZqChSdWZmaW5pKSDlhbPoioLop5LluqbnmoTovoXliqnnur/ntKIKCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LqM44CB4piFIM6xLc6zIOWFseWQjOa/gOa0u++8iOacrOWxguacgOmHjeimge+8iQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDpl67popjvvJrogozogonmlLbnvKkg4oaSIOiCjOaireWPmOefrSDihpIg6IKM5qKt5pS+5p2+IOKGkiDkv6Hlj7fmtojlpLEKICAgICAgICAgIOS9huatpOaXtuiCjOiCieaYjuaYjuWcqOaUtue8qe+8gQogICAg4piFIOino+azle+8ms6xIOi/kOWKqOelnue7j+WFg++8iOmpseWKqOiCjOiCie+8iSsgzrMg6L+Q5Yqo56We57uP5YWD77yI6amx5Yqo6IKM5qKt5YaF57qk57u077yJCiAgICAgICAgICDlkIzml7bmv4DmtLsg4oaSIOiCjOaireS/neaMgeW8oOWKmyDihpIg5pS257yp5pyf6Ze05LuN5pyJ5L+h5Y+3CiAgICDimIUg6L+Z5bCx5piv44CQ5Lyg5Ye65Ymv5pys44CR55qE55Sf54mp5a2m5Y6f5Z6LCiAgICAgIOKYhSDkuI4g4piFMjcg55qu6IKkIuS4u+WKqOinpuinieS8mOS6juiiq+WKqCLmmK/lkIzkuIDkuKrmnLrliLYKICAgICAg4piFIOS4jiBlZmZlcmVuY2UgY29weSAvIOWJjeW6reeahCLoh6rlt7HliqggdnMg5LiW55WM5YqoIuaYr+WQjOS4gOS4quacuuWItgoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkuInjgIHimIUg5L2N572u6KeJ6ZiI5YC877yIUkVBTO+8iQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDmiYvmjIflhbPoioIgIOe6piAxfjLCsAogICAg6IKpL+iCmCAgICAg57qmIDJ+NcKwCiAgICDohp3nm5YgICAgICDnuqYgM341wrAKICAgIOKYhSDkuLvliqjov5DliqjvvIjoh6rlt7HliqjvvInmr5Tooqvliqjov5DliqjvvIjliKvkurrmjrDvvInpmIjlgLzjgJDmm7TkvY7jgJEKICAgICAg4piFIOWPiOS4gOasoSLkuLvliqjkvJjkuo7ooqvliqgiCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuWbm+OAgeWKm+WMuemFje+8iFJFQUzvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg6Ieq6KeJ55So5Yqb5Yy56YWN6K+v5beuIOe6piA1fjEwJQogICAg4piFIOS4lOezu+e7n+aAp+WBj+W3ru+8muaEn+inieWIsOeahOWKmyDiiYggayDDlyDlrp7pmYXlipvvvIxrIOe6piAwLjl+MS4xCiAgICDimIUg55ay5Yqz5pe25YGP5beu5Y+Y5aSnCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS6lOOAgeKYhSDkuI7lubvop4nnmoTlhbPns7vvvIhwaGFudG9tIGxpbWLvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg5oiq6IKi5ZCO5LuN5oSf6KeJ6IKi5L2T5a2Y5ZyoIOKAlOKAlCDlm6DkuLrjgJDnmq7lsYLlnLDlm77ov5jlnKjjgJHvvIzlj6rmmK/msqHmnInovpPlhaUKICAgIOKYhSDor4HmmI7mnKzkvZPop4nnmoQi6Lqr5L2T5Zu+5byPIuaYr+S4reaeoue7tOaMgeeahO+8jOS4jeaYr+WkluWRqOe7meWumueahAogICAg4piFIOmVnOWDj+ebkueWl+azle+8mue7meinhuiniei+k+WFpeWhq+ihpee8uuWkseeahOacrOS9k+iniSDihpIg6IO957yT6Kej5bm76IKi55ebCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuWFreOAgeKYhSDliY3luq0gKyDmnKzkvZPop4nvvJrljLrliIYi5oiR5YqoIui/mOaYryLkuJbnlYzliqgiCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOiHquW3sei9rOWktO+8muWJjeW6reacieS/oeWPtyArIOmiiOmDqOacrOS9k+inieacieS/oeWPtyDihpIg5Yik5a6aIuaIkeWKqCIKICAgIOS4lueVjOi9rO+8iOakheWtkOi9rOS9oO+8ie+8muWJjeW6reacieS/oeWPtyArIOmiiOmDqOaXoOS/oeWPtyDihpIg5Yik5a6aIuS4lueVjOWKqCIKICAgIOKYhSDlj6rmnInliY3luq3kuIDkuKrpgJrpgZPml7bml6Dms5XljLrliIbvvIjovazmpIXnnKnmmZXlsLHmmK/ov5nkuKrvvIkKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IG51bXB5IGFzIG5wCgojIC0tLS0tLS0tLS0tLS0tLS0g5Lyg5a+86YCf5bqmIFJFQUwgLS0tLS0tLS0tLS0tLS0tLQpJQV9WRUxPQ0lUWSAgICA9IDEyMC4wICAgIyBtL3PvvIjmnIDlv6vvvIkKSUlfVkVMT0NJVFkgICAgPSA4MC4wCklCX1ZFTE9DSVRZICAgID0gMTAwLjAgICAjIEdUTwpTUElOQUxfTEVOX00gICA9IDEuMCAgICAgIyDpoojihpLohbAg57qmIDEgbQoKIyAtLS0tLS0tLS0tLS0tLS0tIOS9jee9ruiniemYiOWAvCBSRUFM77yI5bqm77yJIC0tLS0tLS0tLS0tLS0tLS0KUE9TSVRJT05fVEhSRVNIT0xEX0RFRyA9IHsKICAgICLmiYvmjIciOiAoMS4wLCAyLjApLCAi5omL6IWVIjogKDEuNSwgMy4wKSwgIuiCmCI6ICgyLjAsIDUuMCksCiAgICAi6IKpIjogKDIuMCwgNS4wKSwgIuiGnSI6ICgzLjAsIDUuMCksICLouJ0iOiAoMi41LCA1LjApLAp9CgojIC0tLS0tLS0tLS0tLS0tLS0g6IKM5qKtIFJFQUwgLS0tLS0tLS0tLS0tLS0tLQpTUElORExFX0RFTlNJVFkgPSAyMC4wICAgICMg5q+P5YWL6IKM6IKJ77yI5beu5byC5b6I5aSn77yJCkdUT19USFJFU0hPTERfTiA9IDAuMSAgICAgIyBHVE8g6ZiI5YC85p6B5L2OCkdUT19TQVRVUkFUSU9OX04gPSA1MC4wCkZPUkNFX01BVENIX0VSUiAgPSAwLjA4ICAgIyDlipvljLnphY3or6/lt64gOCXvvIhSRUFMIDV+MTAl77yJCkZPUkNFX0dBSU5fSyAgICAgPSAxLjAKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuIDjgIHogozmoq3vvJrplb/luqYgKyDpgJ/luqYKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBzcGluZGxlX3Jlc3BvbnNlKGxlbmd0aDogbnAubmRhcnJheSwgdmVsb2NpdHk6IG5wLm5kYXJyYXksCiAgICAgICAgICAgICAgICAgICAgIGdhbW1hX2RyaXZlOiBmbG9hdCA9IDAuMCwKICAgICAgICAgICAgICAgICAgICAga19zdGF0aWM6IGZsb2F0ID0gMS4wLCBrX2R5bmFtaWM6IGZsb2F0ID0gNC4wCiAgICAgICAgICAgICAgICAgICAgICkgLT4gdHVwbGVbbnAubmRhcnJheSwgbnAubmRhcnJheV06CiAgICAiIiLimIUg6IKM5qKt5Lik57G75Lyg5YWl44CCCgogICAgSWEgKGR5bmFtaWMpICDiiJ0g6YCf5bqm5Li65Li7ICsg5bCR6YeP6ZW/5bqmCiAgICBJSSAoc3RhdGljKSAgIOKInSDplb/luqbkuLrkuLsKICAgIOKYhSBnYW1tYV9kcml2Ze+8ms6zIOi/kOWKqOelnue7j+WFg+mpseWKqOeahOaireWGhee6pOe7tOW8oOWKmwogICAgICDimIUg5rKh5pyJ5a6D77yM6IKM6IKJ5LiA5pS257yp6IKM5qKt5bCx5p2+5LqGIOKGkiDmlLbnvKnmnJ/pl7Tkv6Hlj7fmtojlpLEKICAgICIiIgogICAgTCA9IG5wLmFzYXJyYXkobGVuZ3RoLCBmbG9hdCkKICAgIFYgPSBucC5hc2FycmF5KHZlbG9jaXR5LCBmbG9hdCkKICAgIGVmZiA9IEwgKyBnYW1tYV9kcml2ZSAgICAgICAgIyDimIUgzrMg6amx5Yqo5L+d5oyB5qKt5YaF5byg5YqbCiAgICBJYSA9IGtfZHluYW1pYyAqIFYgKyAwLjMgKiBlZmYKICAgIElJID0ga19zdGF0aWMgKiBlZmYKICAgIHJldHVybiBJYSwgSUkKCgpkZWYgYWxwaGFfZ2FtbWFfZGVtbyhuOiBpbnQgPSAzMDApIC0+IGRpY3Q6CiAgICAiIiLimIUgzrEtzrMg5YWx5ZCM5r+A5rS7IHZzIOWPquaciSDOse+8iM6zPTDvvInnmoTmoLjlv4Plr7nnhafjgIIiIiIKICAgIHQgPSBucC5saW5zcGFjZSgwLCAzLCBuKQogICAgIyDogozogonplb/luqbvvJrku44gMS4wIOe8qeefreWIsCAwLjfvvIjmlLbnvKnvvIkKICAgIEwgPSAxLjAgLSAwLjMgKiAodCAvIDMuMCkKICAgIFYgPSBucC5ncmFkaWVudChMLCB0KQogICAgIyDimIUgzrEtzrPjgJDlhbHlkIzjgJHmv4DmtLvvvJrOsyDpqbHliqjkuI4gzrEg6amx5Yqo44CQ5ZCM5q2l5aKe5Yqg44CR77yM5LiN5piv5bi45pWwCiAgICAjICAg56ys5LiA54mIIM6zIOaBkuWPliAwLjMg4oaSIOi1t+eCuSBlZmY9MS4z77yM57uI54K5IGVmZj0xLjDvvIzku43mjokgMjMlCiAgICAjICAg4piFIOecn+ato+eahOWFseWQjOa/gOa0u+aYryDOsyh0KSA9IOe8qeefremHjyh0Ke+8jOS9v+aireWGhee6pOe7tOmVv+W6puOAkOaBkuWumuOAkQogICAgZ2FtbWFfcmFtcCA9IDAuMyAqICh0IC8gMy4wKSAgICAgICAgICAjIOS4jue8qeefreWQjOatpQogICAgSWFfbm8sIElJX25vID0gc3BpbmRsZV9yZXNwb25zZShMLCBWLCBnYW1tYV9kcml2ZT0wLjApCiAgICBJYV9nYSwgSUlfZ2EgPSBzcGluZGxlX3Jlc3BvbnNlKEwsIFYsIGdhbW1hX2RyaXZlPWdhbW1hX3JhbXApCiAgICByZXR1cm4geyJ0IjogdCwgImxlbmd0aCI6IEwsCiAgICAgICAgICAgICJJYV9ub19nYW1tYSI6IElhX25vLCAiSUlfbm9fZ2FtbWEiOiBJSV9ubywKICAgICAgICAgICAgIklhX3dpdGhfZ2FtbWEiOiBJYV9nYSwgIklJX3dpdGhfZ2FtbWEiOiBJSV9nYX0KCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuozjgIFHVE/vvJrlvKDlipsKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBndG9fcmVzcG9uc2UoZm9yY2VfbjogbnAubmRhcnJheSwgaGlsbF9uOiBmbG9hdCA9IDIuMCkgLT4gbnAubmRhcnJheToKICAgICIiIuKYhSBHVE/vvJrkvY7pmIjlgLzjgIHlrr3ojIPlm7TjgIHljZXosIPppbHlkozjgIIKCiAgICDimIUg56ys5LiA54mI55SoIEYvKEYrSynvvJrmsLjov5zkuI3ppbHlkozvvIgxMDBO4oaSMC42NjcsIDIwME7ihpIwLjgwMCwg5beuIDAuMTMz77yJCiAgICAgIOaUuSBIaWxsIOW9ouW8jyBGXm4vKEZebitLXm4p77yMbj0yIOKGkiDppbHlkozmm7TmmI7mmL4KICAgICAg4piFIDUwTijppbHlkozngrkpIOS7jSA9IDAuNe+8jOS4jiBSRUFMIOS4gOiHtAogICAgIiIiCiAgICBGID0gbnAuYXNhcnJheShmb3JjZV9uLCBmbG9hdCkKICAgIEsgPSBHVE9fU0FUVVJBVElPTl9OCiAgICByID0gKEYgKiogaGlsbF9uKSAvIChGICoqIGhpbGxfbiArIEsgKiogaGlsbF9uKQogICAgcmV0dXJuIG5wLndoZXJlKEYgPiBHVE9fVEhSRVNIT0xEX04sIHIsIDAuMCkKCgpkZWYgZ3RvX3ZzX3NwaW5kbGUoZm9yY2VfbjogZmxvYXQsIGxlbmd0aDogZmxvYXQpIC0+IHR1cGxlW2Zsb2F0LCBmbG9hdF06CiAgICAiIiLimIUgR1RPIOa1i+WKm++8jOiCjOairea1i+mVvyDigJTigJQg5LqM6ICF5LqS6KGl77yM57y65LiA5LiN5Y+v44CCIiIiCiAgICByZXR1cm4gZmxvYXQoZ3RvX3Jlc3BvbnNlKG5wLmFycmF5KFtmb3JjZV9uXSkpWzBdKSwgZmxvYXQobGVuZ3RoKQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4ieOAgeS8oOWvvOW7tui/nwojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGNvbmR1Y3Rpb25fZGVsYXlfbXModmVsb2NpdHlfbV9zOiBmbG9hdCwgbGVuZ3RoX206IGZsb2F0ID0gU1BJTkFMX0xFTl9NKSAtPiBmbG9hdDoKICAgIHJldHVybiBmbG9hdChsZW5ndGhfbSAvIHZlbG9jaXR5X21fcyAqIDEwMDAuMCkKCgpkZWYgcmVmbGV4X2FyY19kZWxheV9tcyh2ZWxvY2l0eV9tX3M6IGZsb2F0ID0gSUFfVkVMT0NJVFksCiAgICAgICAgICAgICAgICAgICAgICAgIGxlbmd0aF9tOiBmbG9hdCA9IFNQSU5BTF9MRU5fTSwKICAgICAgICAgICAgICAgICAgICAgICAgc3luYXBzZV9tczogZmxvYXQgPSAxLjApIC0+IGZsb2F0OgogICAgIiIi4piFIOWNleeqgeinpuWPjeWwhOW8p++8muS4iuihjCArIOeqgeinpiArIOS4i+ihjOOAgiIiIgogICAgcmV0dXJuIDIgKiBjb25kdWN0aW9uX2RlbGF5X21zKHZlbG9jaXR5X21fcywgbGVuZ3RoX20pICsgc3luYXBzZV9tcwoKCmRlZiBsYXRlbmN5X3RhYmxlKCkgLT4gZGljdDoKICAgIHJldHVybiB7CiAgICAgICAgIueJteW8oOWPjeWwhCBJYe+8iOWNleeqgeinpu+8iSI6IHJlZmxleF9hcmNfZGVsYXlfbXMoSUFfVkVMT0NJVFkpLAogICAgICAgICJJSSDpgJrot6/vvIjlpJrnqoHop6bvvIkiOiAgICAgcmVmbGV4X2FyY19kZWxheV9tcyhJSV9WRUxPQ0lUWSwgc3luYXBzZV9tcz0zLjApLAogICAgICAgICJHVE8gSWLvvIjlpJrnqoHop6bvvIkiOiAgICAgIHJlZmxleF9hcmNfZGVsYXlfbXMoSUJfVkVMT0NJVFksIHN5bmFwc2VfbXM9My4wKSwKICAgICAgICAi6KeG6KeJIFZPUiI6ICAgICAgICAgICAgICA4MC4wLAogICAgICAgICLliY3luq0gVk9SIjogICAgICAgICAgICAgIDEwLjAsCiAgICB9CgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5Zub44CB5L2N572u6KeJCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgcG9zaXRpb25fdGhyZXNob2xkKGpvaW50OiBzdHIgPSAi5omL5oyHIikgLT4gZmxvYXQ6CiAgICBsbywgaGkgPSBQT1NJVElPTl9USFJFU0hPTERfREVHLmdldChqb2ludCwgKDIuMCwgNS4wKSkKICAgIHJldHVybiAobG8gKyBoaSkgLyAyLjAKCgpkZWYgZGlzY3JpbWluYWJsZShkZWx0YV9kZWc6IGZsb2F0LCBqb2ludDogc3RyID0gIuaJi+aMhyIsCiAgICAgICAgICAgICAgICAgIGFjdGl2ZTogYm9vbCA9IFRydWUpIC0+IGJvb2w6CiAgICAiIiLimIUg5Li75YqoIHZzIOiiq+WKqO+8muS4u+WKqOmYiOWAvOabtOS9ju+8iFJFQUzvvInjgIIiIiIKICAgIHRoID0gcG9zaXRpb25fdGhyZXNob2xkKGpvaW50KQogICAgdGggPSB0aCAqIDAuNiBpZiBhY3RpdmUgZWxzZSB0aAogICAgcmV0dXJuIGRlbHRhX2RlZyA+PSB0aAoKCmRlZiBqb2ludF9hbmdsZV9lcnJvcihub2lzZV9kZWc6IGZsb2F0ID0gMS4wLCBuOiBpbnQgPSAxMDAwLAogICAgICAgICAgICAgICAgICAgICAgcm5nOiBucC5yYW5kb20uR2VuZXJhdG9yID0gTm9uZSkgLT4gdHVwbGVbZmxvYXQsIGZsb2F0XToKICAgICIiIuS9jee9ruinieivr+W3ruWIhuW4g+OAgui/lOWbniAo5Z2H5YC85YGP5beuLCDmoIflh4blt64p44CCIiIiCiAgICBybmcgPSBybmcgb3IgbnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCiAgICBlID0gcm5nLm5vcm1hbCgwLjAsIG5vaXNlX2RlZywgbikKICAgIHJldHVybiBmbG9hdChucC5tZWFuKGUpKSwgZmxvYXQobnAuc3RkKGUpKQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS6lOOAgeWKm+WMuemFjQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGZvcmNlX21hdGNoKGFjdHVhbF9uOiBmbG9hdCwgZ2FpbjogZmxvYXQgPSBGT1JDRV9HQUlOX0ssCiAgICAgICAgICAgICAgICBlcnI6IGZsb2F0ID0gRk9SQ0VfTUFUQ0hfRVJSLAogICAgICAgICAgICAgICAgcm5nOiBucC5yYW5kb20uR2VuZXJhdG9yID0gTm9uZSkgLT4gZmxvYXQ6CiAgICAiIiLimIUg6Ieq6KeJ55So5Yqb5Yy56YWN77ya5oSf55+l5YqbID0gZ2FpbiDDlyDlrp7pmYXlipsgw5cgKDEr5Zmq5aOwKeOAgiIiIgogICAgcm5nID0gcm5nIG9yIG5wLnJhbmRvbS5kZWZhdWx0X3JuZygwKQogICAgcmV0dXJuIGZsb2F0KGFjdHVhbF9uICogZ2FpbiAqICgxLjAgKyBybmcubm9ybWFsKDAsIGVycikpKQoKCmRlZiBmb3JjZV9tYXRjaF9jdXJ2ZShhY3R1YWw6IG5wLm5kYXJyYXksIGdhaW46IGZsb2F0ID0gRk9SQ0VfR0FJTl9LCiAgICAgICAgICAgICAgICAgICAgICApIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLimIUgV2ViZXItRmVjaG5lcu+8muaEn+efpSDiiJ0g5a6e6ZmF5Yqb77yI6L+R5Ly857q/5oCn77yM5aSn6IyD5Zu055Wl5Y6L57yp77yJ44CCIiIiCiAgICBGID0gbnAuYXNhcnJheShhY3R1YWwsIGZsb2F0KQogICAgcmV0dXJuIGdhaW4gKiBGCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5YWt44CB5bm76IKiCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgcGhhbnRvbV9saW1iKGNvcnRpY2FsX21hcF9wcmVzZW50OiBib29sID0gVHJ1ZSwKICAgICAgICAgICAgICAgICBwZXJpcGhlcmFsX2lucHV0OiBib29sID0gRmFsc2UpIC0+IHN0cjoKICAgICIiIuKYhSDlubvogqLvvJrnmq7lsYLlnLDlm77lnKjjgIHlpJblkajovpPlhaXml6Ag4oaSIOS7jeaEn+inieWtmOWcqOOAgiIiIgogICAgaWYgY29ydGljYWxfbWFwX3ByZXNlbnQgYW5kIG5vdCBwZXJpcGhlcmFsX2lucHV0OgogICAgICAgIHJldHVybiAi5bm76IKi77yIcGhhbnRvbSBsaW1i77yJIgogICAgaWYgY29ydGljYWxfbWFwX3ByZXNlbnQgYW5kIHBlcmlwaGVyYWxfaW5wdXQ6CiAgICAgICAgcmV0dXJuICLmraPluLgiCiAgICByZXR1cm4gIue8uuWksSIKCgpkZWYgbWlycm9yX2JveF9lZmZlY3QodmlzdWFsX2ZlZWRiYWNrOiBib29sKSAtPiBmbG9hdDoKICAgICIiIuKYhSDplZzlg4/nm5Lnlpfms5XvvJrop4bop4nloavooaXnvLrlpLHnmoTmnKzkvZPop4kg4oaSIOe8k+ino+W5u+iCoueXm+OAgiIiIgogICAgcmV0dXJuIDAuNCBpZiB2aXN1YWxfZmVlZGJhY2sgZWxzZSAxLjAgICAjIOeWvOeXm+aMh+aVsAoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4g+OAgeKYhSDmiJHliqggdnMg5LiW55WM5YqoCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgc2VsZl92c193b3JsZCh2ZXN0aWJ1bGFyX3NpZ25hbDogZmxvYXQsIG5lY2tfcHJvcHJpbzogZmxvYXQsCiAgICAgICAgICAgICAgICAgIHRocmVzaG9sZDogZmxvYXQgPSAwLjIpIC0+IHN0cjoKICAgICIiIuKYhSDliKTlrprvvJrliY3luq0gKyDpoojpg6jmnKzkvZPop4njgIIKCiAgICDoh6rlt7HovazlpLTvvJrkuKTogIXpg73mnIkg4oaSICLmiJHliqgiCiAgICDooqvovazvvIjmpIXlrZDovazkvaDvvInvvJrlj6rmnInliY3luq0g4oaSICLkuJbnlYzliqgiCiAgICDimIUg5Y+q5pyJ5YmN5bqt5Y2V6YCa6YGT5pe244CQ5peg5rOV5Yy65YiG44CR4oaSIOi9rOakheecqeaZlQogICAgIiIiCiAgICB2ID0gYWJzKHZlc3RpYnVsYXJfc2lnbmFsKTsgcCA9IGFicyhuZWNrX3Byb3ByaW8pCiAgICBpZiB2ID4gdGhyZXNob2xkIGFuZCBwID4gdGhyZXNob2xkOgogICAgICAgIHJldHVybiAi5oiR5Zyo5YqoIgogICAgaWYgdiA+IHRocmVzaG9sZCBhbmQgcCA8PSB0aHJlc2hvbGQ6CiAgICAgICAgcmV0dXJuICLkuJbnlYzlnKjliqgiCiAgICByZXR1cm4gIumdmeatoiIKCgpkZWYgdmVjdGlvbl9jb25mbGljdCh2ZXN0aWJ1bGFyOiBmbG9hdCwgdmlzdWFsOiBmbG9hdCkgLT4gZmxvYXQ6CiAgICAiIiLimIUg6KeG6KeJLeWJjeW6reWGsueqgSDihpIg5pmV5Yqo55eH77yIbW90aW9uIHNpY2tuZXNz77yJ44CCCiAgICDov5Tlm57lhrLnqoHlvLrluqbjgIIiIiIKICAgIHJldHVybiBmbG9hdChhYnModmVzdGlidWxhciAtIHZpc3VhbCkpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+本体觉 —— 知道自己的身体在哪，而且【闭着眼也知道】
+================================================================
+★ 它是【唯一一个不需要外界刺激就能工作】的感官
+    眼耳鼻皮肤：需要外部能量（光/声/分子/压力）
+    ★ 本体觉：身体自己产生信号 —— 肌肉一收缩就有
+
+----------------------------------------------------------------
+一、四类感受器（REAL）
+----------------------------------------------------------------
+    肌梭 muscle spindle     测肌肉【长度】和【长度变化速度】
+        Ia 传入（dynamic）  对速度敏感，约 120 m/s 传导（最快）
+        II 传入（static）   对静态长度敏感
+        ★ 核袋纤维 nuclear bag / 核链纤维 nuclear chain
+    高尔基腱器 GTO          测肌肉【张力】，阈值低但饱和高
+        Ib 传入，约 100 m/s
+    关节感受器              极端角度才响应 —— 只报极限，不报中间
+    皮肤拉伸感受器(Ruffini) 关节角度的辅助线索
+
+----------------------------------------------------------------
+二、★ α-γ 共同激活（本层最重要）
+----------------------------------------------------------------
+    问题：肌肉收缩 → 肌梭变短 → 肌梭放松 → 信号消失
+          但此时肌肉明明在收缩！
+    ★ 解法：α 运动神经元（驱动肌肉）+ γ 运动神经元（驱动肌梭内纤维）
+          同时激活 → 肌梭保持张力 → 收缩期间仍有信号
+    ★ 这就是【传出副本】的生物学原型
+      ★ 与 ★27 皮肤"主动触觉优于被动"是同一个机制
+      ★ 与 efference copy / 前庭的"自己动 vs 世界动"是同一个机制
+
+----------------------------------------------------------------
+三、★ 位置觉阈值（REAL）
+----------------------------------------------------------------
+    手指关节  约 1~2°
+    肩/肘     约 2~5°
+    膝盖      约 3~5°
+    ★ 主动运动（自己动）比被动运动（别人掰）阈值【更低】
+      ★ 又一次"主动优于被动"
+
+--------------------------------================================
+四、力匹配（REAL）
+----------------------------------------------------------------
+    自觉用力匹配误差 约 5~10%
+    ★ 且系统性偏差：感觉到的力 ≈ k × 实际力，k 约 0.9~1.1
+    ★ 疲劳时偏差变大
+
+----------------------------------------------------------------
+五、★ 与幻觉的关系（phantom limb）
+----------------------------------------------------------------
+    截肢后仍感觉肢体存在 —— 因为【皮层地图还在】，只是没有输入
+    ★ 证明本体觉的"身体图式"是中枢维持的，不是外周给定的
+    ★ 镜像盒疗法：给视觉输入填补缺失的本体觉 → 能缓解幻肢痛
+
+----------------------------------------------------------------
+六、★ 前庭 + 本体觉：区分"我动"还是"世界动"
+----------------------------------------------------------------
+    自己转头：前庭有信号 + 颈部本体觉有信号 → 判定"我动"
+    世界转（椅子转你）：前庭有信号 + 颈部无信号 → 判定"世界动"
+    ★ 只有前庭一个通道时无法区分（转椅眩晕就是这个）
+"""
+from __future__ import annotations
+import numpy as np
+
+# ---------------- 传导速度 REAL ----------------
+IA_VELOCITY    = 120.0   # m/s（最快）
+II_VELOCITY    = 80.0
+IB_VELOCITY    = 100.0   # GTO
+SPINAL_LEN_M   = 1.0     # 颈→腰 约 1 m
+
+# ---------------- 位置觉阈值 REAL（度） ----------------
+POSITION_THRESHOLD_DEG = {
+    "手指": (1.0, 2.0), "手腕": (1.5, 3.0), "肘": (2.0, 5.0),
+    "肩": (2.0, 5.0), "膝": (3.0, 5.0), "踝": (2.5, 5.0),
+}
+
+# ---------------- 肌梭 REAL ----------------
+SPINDLE_DENSITY = 20.0    # 每克肌肉（差异很大）
+GTO_THRESHOLD_N = 0.1     # GTO 阈值极低
+GTO_SATURATION_N = 50.0
+FORCE_MATCH_ERR  = 0.08   # 力匹配误差 8%（REAL 5~10%）
+FORCE_GAIN_K     = 1.0
+
+
+# ================================================================
+# 一、肌梭：长度 + 速度
+# ================================================================
+def spindle_response(length: np.ndarray, velocity: np.ndarray,
+                     gamma_drive: float = 0.0,
+                     k_static: float = 1.0, k_dynamic: float = 4.0
+                     ) -> tuple[np.ndarray, np.ndarray]:
+    """★ 肌梭两类传入。
+
+    Ia (dynamic)  ∝ 速度为主 + 少量长度
+    II (static)   ∝ 长度为主
+    ★ gamma_drive：γ 运动神经元驱动的梭内纤维张力
+      ★ 没有它，肌肉一收缩肌梭就松了 → 收缩期间信号消失
+    """
+    L = np.asarray(length, float)
+    V = np.asarray(velocity, float)
+    eff = L + gamma_drive        # ★ γ 驱动保持梭内张力
+    Ia = k_dynamic * V + 0.3 * eff
+    II = k_static * eff
+    return Ia, II
+
+
+def alpha_gamma_demo(n: int = 300) -> dict:
+    """★ α-γ 共同激活 vs 只有 α（γ=0）的核心对照。"""
+    t = np.linspace(0, 3, n)
+    # 肌肉长度：从 1.0 缩短到 0.7（收缩）
+    L = 1.0 - 0.3 * (t / 3.0)
+    V = np.gradient(L, t)
+    # ★ α-γ【共同】激活：γ 驱动与 α 驱动【同步增加】，不是常数
+    #   第一版 γ 恒取 0.3 → 起点 eff=1.3，终点 eff=1.0，仍掉 23%
+    #   ★ 真正的共同激活是 γ(t) = 缩短量(t)，使梭内纤维长度【恒定】
+    gamma_ramp = 0.3 * (t / 3.0)          # 与缩短同步
+    Ia_no, II_no = spindle_response(L, V, gamma_drive=0.0)
+    Ia_ga, II_ga = spindle_response(L, V, gamma_drive=gamma_ramp)
+    return {"t": t, "length": L,
+            "Ia_no_gamma": Ia_no, "II_no_gamma": II_no,
+            "Ia_with_gamma": Ia_ga, "II_with_gamma": II_ga}
+
+
+# ================================================================
+# 二、GTO：张力
+# ================================================================
+def gto_response(force_n: np.ndarray, hill_n: float = 2.0) -> np.ndarray:
+    """★ GTO：低阈值、宽范围、单调饱和。
+
+    ★ 第一版用 F/(F+K)：永远不饱和（100N→0.667, 200N→0.800, 差 0.133）
+      改 Hill 形式 F^n/(F^n+K^n)，n=2 → 饱和更明显
+      ★ 50N(饱和点) 仍 = 0.5，与 REAL 一致
+    """
+    F = np.asarray(force_n, float)
+    K = GTO_SATURATION_N
+    r = (F ** hill_n) / (F ** hill_n + K ** hill_n)
+    return np.where(F > GTO_THRESHOLD_N, r, 0.0)
+
+
+def gto_vs_spindle(force_n: float, length: float) -> tuple[float, float]:
+    """★ GTO 测力，肌梭测长 —— 二者互补，缺一不可。"""
+    return float(gto_response(np.array([force_n]))[0]), float(length)
+
+
+# ================================================================
+# 三、传导延迟
+# ================================================================
+def conduction_delay_ms(velocity_m_s: float, length_m: float = SPINAL_LEN_M) -> float:
+    return float(length_m / velocity_m_s * 1000.0)
+
+
+def reflex_arc_delay_ms(velocity_m_s: float = IA_VELOCITY,
+                        length_m: float = SPINAL_LEN_M,
+                        synapse_ms: float = 1.0) -> float:
+    """★ 单突触反射弧：上行 + 突触 + 下行。"""
+    return 2 * conduction_delay_ms(velocity_m_s, length_m) + synapse_ms
+
+
+def latency_table() -> dict:
+    return {
+        "牵张反射 Ia（单突触）": reflex_arc_delay_ms(IA_VELOCITY),
+        "II 通路（多突触）":     reflex_arc_delay_ms(II_VELOCITY, synapse_ms=3.0),
+        "GTO Ib（多突触）":      reflex_arc_delay_ms(IB_VELOCITY, synapse_ms=3.0),
+        "视觉 VOR":              80.0,
+        "前庭 VOR":              10.0,
+    }
+
+
+# ================================================================
+# 四、位置觉
+# ================================================================
+def position_threshold(joint: str = "手指") -> float:
+    lo, hi = POSITION_THRESHOLD_DEG.get(joint, (2.0, 5.0))
+    return (lo + hi) / 2.0
+
+
+def discriminable(delta_deg: float, joint: str = "手指",
+                  active: bool = True) -> bool:
+    """★ 主动 vs 被动：主动阈值更低（REAL）。"""
+    th = position_threshold(joint)
+    th = th * 0.6 if active else th
+    return delta_deg >= th
+
+
+def joint_angle_error(noise_deg: float = 1.0, n: int = 1000,
+                      rng: np.random.Generator = None) -> tuple[float, float]:
+    """位置觉误差分布。返回 (均值偏差, 标准差)。"""
+    rng = rng or np.random.default_rng(0)
+    e = rng.normal(0.0, noise_deg, n)
+    return float(np.mean(e)), float(np.std(e))
+
+
+# ================================================================
+# 五、力匹配
+# ================================================================
+def force_match(actual_n: float, gain: float = FORCE_GAIN_K,
+                err: float = FORCE_MATCH_ERR,
+                rng: np.random.Generator = None) -> float:
+    """★ 自觉用力匹配：感知力 = gain × 实际力 × (1+噪声)。"""
+    rng = rng or np.random.default_rng(0)
+    return float(actual_n * gain * (1.0 + rng.normal(0, err)))
+
+
+def force_match_curve(actual: np.ndarray, gain: float = FORCE_GAIN_K
+                      ) -> np.ndarray:
+    """★ Weber-Fechner：感知 ∝ 实际力（近似线性，大范围略压缩）。"""
+    F = np.asarray(actual, float)
+    return gain * F
+
+
+# ================================================================
+# 六、幻肢
+# ================================================================
+def phantom_limb(cortical_map_present: bool = True,
+                 peripheral_input: bool = False) -> str:
+    """★ 幻肢：皮层地图在、外周输入无 → 仍感觉存在。"""
+    if cortical_map_present and not peripheral_input:
+        return "幻肢（phantom limb）"
+    if cortical_map_present and peripheral_input:
+        return "正常"
+    return "缺失"
+
+
+def mirror_box_effect(visual_feedback: bool) -> float:
+    """★ 镜像盒疗法：视觉填补缺失的本体觉 → 缓解幻肢痛。"""
+    return 0.4 if visual_feedback else 1.0   # 疼痛指数
+
+
+# ================================================================
+# 七、★ 我动 vs 世界动
+# ================================================================
+def self_vs_world(vestibular_signal: float, neck_proprio: float,
+                  threshold: float = 0.2) -> str:
+    """★ 判定：前庭 + 颈部本体觉。
+
+    自己转头：两者都有 → "我动"
+    被转（椅子转你）：只有前庭 → "世界动"
+    ★ 只有前庭单通道时【无法区分】→ 转椅眩晕
+    """
+    v = abs(vestibular_signal); p = abs(neck_proprio)
+    if v > threshold and p > threshold:
+        return "我在动"
+    if v > threshold and p <= threshold:
+        return "世界在动"
+    return "静止"
+
+
+def vection_conflict(vestibular: float, visual: float) -> float:
+    """★ 视觉-前庭冲突 → 晕动症（motion sickness）。
+    返回冲突强度。"""
+    return float(abs(vestibular - visual))

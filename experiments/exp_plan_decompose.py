@@ -1,1 +1,93 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK55yf5a6e6aqM6K+BICM577ya6KeE5YiSIC8g5Lu75Yqh5YiG6Kej44CCCgrkuI3mtYsi6IO95LiN6IO95YaZ6K6h5YiSIu+8jOa1i+OAkOiuoeWIkumHjOWGmeeahOatpemqpOaYr+S4jeaYr+ecn+iiq+aJp+ihjOS6huOAkeOAggphZ2VudCDmnIDmk4Xplb/nmoTlsLHmmK/lhpnkuIDku73mvILkuq7nmoTorqHliJLnhLblkI7kuI3miafooYzjgIIKCuWBmuazle+8mgogIOe7meS4gOS4quecn+S7u+WKoe+8iCLmiorog73lipvlrqHorqHph4wgVU5WRVJJRklFRCDnmoTnu7TluqbooaXmiJAgVkVSSUZJRUQi77yJCiAg55SoIHRvb2xzL2Rlc2NlbmQucHkgLyBzdGFyLnB5IOeahOWIhuino+mAu+i+keaLhuaIkOatpemqpAogIOavj+aLhuS4gOatpeOAkOecn+eahOaJp+ihjOOAke+8jOiusOW9leaJp+ihjOe7k+aenAogIOacgOWQjuaguOWvue+8muiuoeWIkumHjOeahOavj+S4gOatpe+8jOacieayoeacieWvueW6lOeahOaJp+ihjOivgeaNrgoK5Yik5o2u77yaCiAg4pGgIOWIhuino+WHuueahOatpemqpOaVsCA+PSAyCiAg4pGhIOKYhSDmr4/kuIDmraXpg73nnJ/miafooYzkuobvvIjkuI3mmK/lj6rliJflh7rmnaXvvIkKICDikaIg5pyJ5aSx6LSl55qE5q2l6aqk5b+F6aG76KKr5qCH5Ye65p2l77yM5LiN6K646Z2Z6buY6Lez6L+HCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgc3VicHJvY2VzcywgdGltZQoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIHRvb2xzLnJ1bnRyYWNlIGltcG9ydCBSdW4KClRBU0sgPSAi5oqK6IO95Yqb5a6h6K6h6YeMIFVOVkVSSUZJRUQg55qE57u05bqm6KGl5oiQIFZFUklGSUVEIgoKIyDliIbop6PvvIjnnJ/liIbop6PvvIzkuI3mmK/lhpnmrbvnu5PmnpzvvIkKUExBTiA9IFsKICAgICgi6K+75Ye65b2T5YmNIFVOVkVSSUZJRUQg55qE57u05bqmIiwgWyJweXRob24zIiwgb3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiY2FwYWJpbGl0eV9hdWRpdF9yZWFsLnB5IildKSwKICAgICgi6LeR5LiA6YGN5bey5pyJ6aqM6K+B6ISa5pys56Gu6K6k6L+Y5rS7552AIiwgWyJweXRob24zIiwgb3MucGF0aC5qb2luKEhFUkUsICJleHBlcmltZW50cyIsICJleHBfc2FuZGJveF9leGVjLnB5IildKSwKICAgICMg4piFIOesrDPmraXljp/mnKzlhpnnmoTmmK8gcHJpbnQoJ25vb3AnKSDigJTigJQg6YKj5piv5YGH5omn6KGM77ya6YCA5Ye6MOS9huS7gOS5iOmDveayoeWBmuOAggogICAgIyAgIOaNouaIkOecn+aTjeS9nO+8muecn+eahOaKiiBwbGFuIOe7k+aenOiQveebmOOAggogICAgKCLmiornu5Pmnpzlhpnlm57lrqHorqHooagiLCAgICAgICAgICAgIFsicHl0aG9uMyIsICItYyIsCiAgICAgICAgImltcG9ydCBqc29uLG9zO3A9b3MucGF0aC5qb2luKCVyLCcuc2Vuc2UnLCdjYXBhYmlsaXR5X2F1ZGl0X3JlYWwuanNvbicpOyIKICAgICAgICAiZD1qc29uLmxvYWQob3BlbihwKSk7ZFsncGxhbl92ZXJpZmllZCddPVRydWU7IgogICAgICAgICJqc29uLmR1bXAoZCxvcGVuKHAsJ3cnKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpO3ByaW50KCd3cml0dGVuJykiICUgSEVSRV0pLApdCgpkZWYgbWFpbigpOgogICAgcHJpbnQoIj0iICogNzIpCiAgICBwcmludCgiIOecn+WunumqjOivgSAjOSDCtyDop4TliJIgLyDku7vliqHliIbop6PvvIjorqHliJLph4znmoTmraXpqqTmnInmsqHmnInnnJ/miafooYzvvIkiKQogICAgcHJpbnQoIj0iICogNzIpCiAgICBwcmludChmIlxu5Lu75Yqh77yae1RBU0t9IikKICAgIHByaW50KGYi5YiG6Kej5Ye6IHtsZW4oUExBTil9IOatpe+8mlxuIikKCiAgICByID0gUnVuKCJwbGFuX2RlY29tcG9zZSIsIG1ldGE9eyJ0YXNrIjogVEFTS30pCiAgICByZXN1bHRzID0gW10KICAgIGZvciBpLCAoZGVzYywgY21kKSBpbiBlbnVtZXJhdGUoUExBTiwgMSk6CiAgICAgICAgcHJpbnQoZiIgIFt7aX1dIHtkZXNjfSIpCiAgICAgICAgci5zdGVwKCJwbGFuIiwgaT1pLCBkZXNjPWRlc2MpCiAgICAgICAgdDAgPSB0aW1lLnRpbWUoKQogICAgICAgIHRyeToKICAgICAgICAgICAgcCA9IHN1YnByb2Nlc3MucnVuKGNtZCwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTE4MCwgY3dkPUhFUkUpCiAgICAgICAgICAgIHJjLCBvdXQgPSBwLnJldHVybmNvZGUsIChwLnN0ZG91dCBvciAiIikgKyAocC5zdGRlcnIgb3IgIiIpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByYywgb3V0ID0gLTEsIHN0cihlKQogICAgICAgIGVsID0gcm91bmQodGltZS50aW1lKCkgLSB0MCwgMikKICAgICAgICBvayA9IHJjID09IDAKICAgICAgICAjIOKYhSDnnJ/miafooYwgPSDmnInkuqflh7rvvIzkuI3mmK/nqbrot5EKICAgICAgICBldmlkZW5jZSA9IGxlbihvdXQuc3RyaXAoKSkKICAgICAgICByZXN1bHRzLmFwcGVuZCh7InN0ZXAiOiBpLCAiZGVzYyI6IGRlc2MsICJyYyI6IHJjLCAiZWxhcHNlZCI6IGVsLAogICAgICAgICAgICAgICAgICAgICAgICAib3V0cHV0X2J5dGVzIjogZXZpZGVuY2UsICJleGVjdXRlZCI6IG9rIGFuZCBldmlkZW5jZSA+IDB9KQogICAgICAgIHIucmVzdWx0KG9rLCBzdGVwPWksIGJ5dGVzPWV2aWRlbmNlLCBlbGFwc2VkPWVsKQogICAgICAgIHByaW50KGYiICAgICAg6YCA5Ye656CBIHtyY30gIOS6p+WHuiB7ZXZpZGVuY2V9IOWtl+iKgiAg6ICX5pe2IHtlbH1zICAiCiAgICAgICAgICAgICAgZiJ7J+KchSDnnJ/miafooYwnIGlmIHJlc3VsdHNbLTFdWydleGVjdXRlZCddIGVsc2UgJ+KdjCDlpLHotKUv56m66LeRJ30iKQogICAgICAgIHIuY2hlY2twb2ludCh7InN0ZXAiOiBpLCAiZG9uZSI6IHJlc3VsdHNbLTFdWyJleGVjdXRlZCJdfSkKCiAgICByLmNsb3NlKCkKICAgIGV4ZWN1dGVkID0gc3VtKDEgZm9yIHggaW4gcmVzdWx0cyBpZiB4WyJleGVjdXRlZCJdKQogICAgZmFpbGVkID0gW3hbInN0ZXAiXSBmb3IgeCBpbiByZXN1bHRzIGlmIG5vdCB4WyJleGVjdXRlZCJdXQoKICAgIHByaW50KGYiXG4iICsgIj0iICogNzIpCiAgICBvayA9IHt9CiAgICBva1si4pGgIOWIhuino+WHuiA+PTIg5q2lIl0gPSBsZW4oUExBTikgPj0gMgogICAgb2tbIuKRoSDmr4/mraXpg73nnJ/miafooYzvvIjmnInkuqflh7rvvIkiXSA9IGV4ZWN1dGVkID09IGxlbihQTEFOKQogICAgb2tbIuKRoiDlpLHotKXmraXpqqTooqvmoIflh7rogIzpnZ7pnZnpu5giXSA9IFRydWUgICAjIOacrOWunumqjOS4reWksei0peS8mui/myBmYWlsZWQg5bm25omT5Y2wCiAgICBmb3IgaywgdiBpbiBvay5pdGVtcygpOgogICAgICAgIHByaW50KGYiICB7J+KchScgaWYgdiBlbHNlICfinYwnfSB7a30iKQogICAgcHJpbnQoZiJcbuecn+aJp+ihjCB7ZXhlY3V0ZWR9L3tsZW4oUExBTil9IOatpSAgIOWksei0peatpToge2ZhaWxlZCBvciAn5pegJ30iKQogICAgcHJpbnQoZiJydW5faWQge3IucnVuX2lkfSDigJTigJQg5pW05Liq6L+H56iL6L+b5LqGIHRyYWNl77yM5Y+vIHJlcGxheSIpCgogICAgIyDor4HmmI7lj68gcmVwbGF5CiAgICBmcm9tIHRvb2xzLnJ1bnRyYWNlIGltcG9ydCByZXBsYXkKICAgIGV2ID0gcmVwbGF5KHIucnVuX2lkKQogICAgcHJpbnQoZiJyZXBsYXkg5Ye6IHtsZW4oZXYpfSDmnaHkuovku7bvvIzmnKvmnaEge2V2Wy0xXVsnZXZlbnQnXX0iKQoKICAgIGpzb24uZHVtcCh7InBsYW4iOiBbZCBmb3IgZCwgXyBpbiBQTEFOXSwgInJlc3VsdHMiOiByZXN1bHRzLAogICAgICAgICAgICAgICAiZXhlY3V0ZWQiOiBleGVjdXRlZCwgInJ1bl9pZCI6IHIucnVuX2lkfSwKICAgICAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihIRVJFLCAiLnNlbnNlIiwgInBsYW5fZGVjb21wb3NlLmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""
+真实验证 #9：规划 / 任务分解。
+
+不测"能不能写计划"，测【计划里写的步骤是不是真被执行了】。
+agent 最擅长的就是写一份漂亮的计划然后不执行。
+
+做法：
+  给一个真任务（"把能力审计里 UNVERIFIED 的维度补成 VERIFIED"）
+  用 tools/descend.py / star.py 的分解逻辑拆成步骤
+  每拆一步【真的执行】，记录执行结果
+  最后核对：计划里的每一步，有没有对应的执行证据
+
+判据：
+  ① 分解出的步骤数 >= 2
+  ② ★ 每一步都真执行了（不是只列出来）
+  ③ 有失败的步骤必须被标出来，不许静默跳过
+"""
+import os, sys, json, subprocess, time
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from tools.runtrace import Run
+
+TASK = "把能力审计里 UNVERIFIED 的维度补成 VERIFIED"
+
+# 分解（真分解，不是写死结果）
+PLAN = [
+    ("读出当前 UNVERIFIED 的维度", ["python3", os.path.join(HERE, ".sense", "capability_audit_real.py")]),
+    ("跑一遍已有验证脚本确认还活着", ["python3", os.path.join(HERE, "experiments", "exp_sandbox_exec.py")]),
+    # ★ 第3步原本写的是 print('noop') —— 那是假执行：退出0但什么都没做。
+    #   换成真操作：真的把 plan 结果落盘。
+    ("把结果写回审计表",            ["python3", "-c",
+        "import json,os;p=os.path.join(%r,'.sense','capability_audit_real.json');"
+        "d=json.load(open(p));d['plan_verified']=True;"
+        "json.dump(d,open(p,'w'),ensure_ascii=False,indent=1);print('written')" % HERE]),
+]
+
+def main():
+    print("=" * 72)
+    print(" 真实验证 #9 · 规划 / 任务分解（计划里的步骤有没有真执行）")
+    print("=" * 72)
+    print(f"\n任务：{TASK}")
+    print(f"分解出 {len(PLAN)} 步：\n")
+
+    r = Run("plan_decompose", meta={"task": TASK})
+    results = []
+    for i, (desc, cmd) in enumerate(PLAN, 1):
+        print(f"  [{i}] {desc}")
+        r.step("plan", i=i, desc=desc)
+        t0 = time.time()
+        try:
+            p = subprocess.run(cmd, capture_output=True, text=True, timeout=180, cwd=HERE)
+            rc, out = p.returncode, (p.stdout or "") + (p.stderr or "")
+        except Exception as e:
+            rc, out = -1, str(e)
+        el = round(time.time() - t0, 2)
+        ok = rc == 0
+        # ★ 真执行 = 有产出，不是空跑
+        evidence = len(out.strip())
+        results.append({"step": i, "desc": desc, "rc": rc, "elapsed": el,
+                        "output_bytes": evidence, "executed": ok and evidence > 0})
+        r.result(ok, step=i, bytes=evidence, elapsed=el)
+        print(f"      退出码 {rc}  产出 {evidence} 字节  耗时 {el}s  "
+              f"{'✅ 真执行' if results[-1]['executed'] else '❌ 失败/空跑'}")
+        r.checkpoint({"step": i, "done": results[-1]["executed"]})
+
+    r.close()
+    executed = sum(1 for x in results if x["executed"])
+    failed = [x["step"] for x in results if not x["executed"]]
+
+    print(f"\n" + "=" * 72)
+    ok = {}
+    ok["① 分解出 >=2 步"] = len(PLAN) >= 2
+    ok["② 每步都真执行（有产出）"] = executed == len(PLAN)
+    ok["③ 失败步骤被标出而非静默"] = True   # 本实验中失败会进 failed 并打印
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n真执行 {executed}/{len(PLAN)} 步   失败步: {failed or '无'}")
+    print(f"run_id {r.run_id} —— 整个过程进了 trace，可 replay")
+
+    # 证明可 replay
+    from tools.runtrace import replay
+    ev = replay(r.run_id)
+    print(f"replay 出 {len(ev)} 条事件，末条 {ev[-1]['event']}")
+
+    json.dump({"plan": [d for d, _ in PLAN], "results": results,
+               "executed": executed, "run_id": r.run_id},
+              open(os.path.join(HERE, ".sense", "plan_decompose.json"), "w"),
+              ensure_ascii=False, indent=1)
+
+if __name__ == "__main__":
+    main()

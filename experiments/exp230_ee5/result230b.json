@@ -1,1 +1,18 @@
-ewogIkwzPWV4byxMND1leG8iOiB7CiAgImJlc3QiOiA3NC41MDEsCiAgImNvbGxhcHNlIjogMAogfSwKICJMMz1leG8sTDQ9ZW5kbyI6IHsKICAiYmVzdCI6IDc0LjUwMSwKICAiY29sbGFwc2UiOiAwCiB9LAogIkwzPWVuZG8sTDQ9ZXhvIjogewogICJiZXN0IjogMy45ODgsCiAgImNvbGxhcHNlIjogMQogfSwKICJMMz1lbmRvLEw0PWVuZG8iOiB7CiAgImJlc3QiOiAzLjg5NywKICAiY29sbGFwc2UiOiAxCiB9Cn0=
+{
+ "L3=exo,L4=exo": {
+  "best": 74.501,
+  "collapse": 0
+ },
+ "L3=exo,L4=endo": {
+  "best": 74.501,
+  "collapse": 0
+ },
+ "L3=endo,L4=exo": {
+  "best": 3.988,
+  "collapse": 1
+ },
+ "L3=endo,L4=endo": {
+  "best": 3.897,
+  "collapse": 1
+ }
+}

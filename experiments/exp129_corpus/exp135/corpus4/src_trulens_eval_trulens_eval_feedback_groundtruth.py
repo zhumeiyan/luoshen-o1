@@ -1,1 +1,12 @@
-IyBydWZmOiBub3FhOiBFNDAyLCBGNDAzLCBGNDAxCiIiIgohISEgd2FybmluZwogICAgVGhpcyBtb2R1bGUgaXMgZGVwcmVjYXRlZCBhbmQgd2lsbCBiZSByZW1vdmVkLiBVc2UKICAgIGB0cnVsZW5zLmZlZWRiYWNrLmdyb3VuZHRydXRoYCBpbnN0ZWFkLgoiIiIKCmZyb20gdHJ1bGVucy5jb3JlLnV0aWxzIGltcG9ydCBkZXByZWNhdGlvbiBhcyBkZXByZWNhdGlvbl91dGlscwoKZGVwcmVjYXRpb25fdXRpbHMucGFja2FnZXNfZGVwX3dhcm4oKQoKZnJvbSB0cnVsZW5zLmZlZWRiYWNrLmdyb3VuZHRydXRoIGltcG9ydCBHcm91bmRUcnV0aEFncmVlbWVudAo=
+# ruff: noqa: E402, F403, F401
+"""
+!!! warning
+    This module is deprecated and will be removed. Use
+    `trulens.feedback.groundtruth` instead.
+"""
+
+from trulens.core.utils import deprecation as deprecation_utils
+
+deprecation_utils.packages_dep_warn()
+
+from trulens.feedback.groundtruth import GroundTruthAgreement

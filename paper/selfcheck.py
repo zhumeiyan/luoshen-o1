@@ -1,1 +1,79 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIOiuuuaWh+iHquajgO+8mua4suafk+WFs+mUruaVsOaNruihqCAtPiDlhpkgL2Rldi9mYjAgLT4g55yf5a6e6YeH6ZuGIC0+IE9DUiDlm57or7sKaW1wb3J0IG9zLCBzdHJ1Y3QsIGhhc2hsaWIsIHN1YnByb2Nlc3MsIHJhbmRvbSwgc3RyaW5nCgpXLCBILCBCUFAgPSAxMDI0LCA3NjgsIDMyCkZCID0gJy9kZXYvZmIwJwpPVVQgPSAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvcGFwZXInCkZPTlQgPSAnL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93ZW5xdWFueWkvV2VuUXVhbllpTWljcm9IZWkudHRjJwppZiBub3Qgb3MucGF0aC5leGlzdHMoRk9OVCk6CiAgICBmb3IgcCBpbiBbJy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd2VucXVhbnlpL3dxeS1taWNyb2hlaS50dGMnLAogICAgICAgICAgICAgICcvdXNyL3NoYXJlL2ZvbnRzL3dlbnF1YW55aS93cXktbWljcm9oZWkudHRjJ106CiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMocCk6IEZPTlQgPSBwOyBicmVhawoKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAoKIyDmoKHpqoznoIHvvJrpgb/lvIDmmJPmt7fmt4blrZfnrKYgKE8vMCwgMS9JL2wsIDgvQiwgOS9nKQpBTFBIQSA9ICdBQ0RFRkdISktNTlBRUlRVVldYWTIzNDU2NycKVE9LRU4gPSAnJy5qb2luKHJhbmRvbS5jaG9pY2UoQUxQSEEpIGZvciBfIGluIHJhbmdlKDYpKQoKZGVmIGxvYWQoc3opOgogICAgdHJ5OiByZXR1cm4gSW1hZ2VGb250LnRydWV0eXBlKEZPTlQsIHN6KQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQoKaW1nID0gSW1hZ2UubmV3KCdSR0InLCAoVywgSCksICd3aGl0ZScpCmQgPSBJbWFnZURyYXcuRHJhdyhpbWcpCmZfdCA9IGxvYWQoMzQpOyBmX2ggPSBsb2FkKDI1KTsgZl9iID0gbG9hZCgyMSkKCnkgPSAyNApkLnRleHQoKDQwLCB5KSwgJ+iuuuaWh+iHquajgCAvIENoaXJhbCBCbGluZG5lc3MnLCBmb250PWZfdCwgZmlsbD0nYmxhY2snKTsgeSArPSA0OApkLnRleHQoKDQwLCB5KSwgJ+agoemqjOeggSBUT0tFTjogJyArIFRPS0VOLCBmb250PWZfdCwgZmlsbD0nYmxhY2snKTsgeSArPSA1MgoKcm93cyA9IFsKICAgICgn6K+t5LmJ6ZWc5YOPIOivjeiiiyBkaXNjJywgJzAuMDAwMCcpLAogICAgKCfor63kuYnplZzlg48g5ZCr5bqPIGRpc2MnLCAnMS4wMDAwJyksCiAgICAoJ+WvueeFpyDor43ooosgZGlzYycsICcwLjMyMDAnKSwKICAgICgn5Z2N5aGMIFJFUExBQ0Ug56iA5pyJ57G7JywgJzAuMDA1IC0+IDAuMDAwJyksCiAgICAoJ+e0r+enryBBQ0NVTSDnqIDmnInnsbsnLCAnMC4wMjggLT4gMC4wMDMnKSwKICAgICgn6Ieq5Y+R56C057y6IOmUgeWumueOhycsICcxMjAgLyAxMjAnKSwKICAgICgn5omL5oCn5pa55ZCRIEwgLyBSJywgJzU2IC8gNjQnKSwKICAgICgn6L6T5ray57uEIOWtmOa0uycsICcxNiAvIDE2ICBmZz0wJyksCiAgICAoJ+aSpOS+m+WQjiDlrZjmtLsnLCAnMCAvIDEyICBtZWFuIDIzNScpLAogICAgKCfnm7jlgJogdnMg55u457unIGZnJywgJzAuMTAzNjggLyAwLjAwMTQ5JyksCiAgICAoJ+ivreazleWxgiDnsr7luqYnLCAnMTggLyAyMCA9IDkwJScpLAogICAgKCfmlrnms5XorrrlsYIg57K+5bqmJywgJzEgLyA1NSA9IDEuOCUnKSwKICAgICgn6Leo5bGC57+76L2sIOe/uy/kuI3nv7snLCAnMiAvIDQnKSwKICAgICgnVEhFU0lTJywgJ2Rpc2MgPSBUUFIgLSBGUFInKSwKXQpmb3IgaywgdiBpbiByb3dzOgogICAgZC50ZXh0KCg0NiwgeSksIGssIGZvbnQ9Zl9iLCBmaWxsPSdibGFjaycpCiAgICBkLnRleHQoKDU2MCwgeSksIHYsIGZvbnQ9Zl9oLCBmaWxsPSdibGFjaycpCiAgICB5ICs9IDMzCgp5ICs9IDYKZC50ZXh0KCg0MCwgeSksICdWRVJESUNUOiBQQVRFTlRfTk9WRUxUWV9QQVJUSUFMJywgZm9udD1mX2gsIGZpbGw9J2JsYWNrJyk7IHkgKz0gMzQKZC50ZXh0KCg0MCwgeSksICdTQ0lFTkNFX0RJU0NPVkVSWTogTk9UX1BBVEVOVEFCTEUnLCBmb250PWZfaCwgZmlsbD0nYmxhY2snKTsgeSArPSAzNApkLnRleHQoKDQwLCB5KSwgJ09SREVSOiBGSUxFX1BBVEVOVF9CRUZPUkVfUEFQRVInLCBmb250PWZfaCwgZmlsbD0nYmxhY2snKTsgeSArPSAzNAoKaW1nLnNhdmUob3MucGF0aC5qb2luKE9VVCwgJ3JlbmRlci5wbmcnKSkKcmF3ID0gaW1nLmNvbnZlcnQoJ1JHQkEnKS50b2J5dGVzKCkKYXNzZXJ0IGxlbihyYXcpID09IFcgKiBIICogNCwgKGxlbihyYXcpLCBXICogSCAqIDQpCgp3aXRoIG9wZW4oRkIsICd3YicpIGFzIGY6CiAgICBmLndyaXRlKHJhdykKICAgIGYuZmx1c2goKQogICAgb3MuZnN5bmMoZi5maWxlbm8oKSkKcHJpbnQoJ1dST1RFJywgbGVuKHJhdyksICdieXRlcycpCgojIOecn+WunumHh+mbhgp3aXRoIG9wZW4oRkIsICdyYicpIGFzIGY6CiAgICBjYXAgPSBmLnJlYWQoVyAqIEggKiA0KQpwcmludCgnQ0FQVFVSRUQnLCBsZW4oY2FwKSwgJ2J5dGVzJykKCndpdGggb3Blbihvcy5wYXRoLmpvaW4oT1VULCAnY2FwdHVyZWQucG5nJyksICd3YicpIGFzIGY6CiAgICBJbWFnZS5mcm9tYnl0ZXMoJ1JHQkEnLCAoVywgSCksIGNhcCkuY29udmVydCgnUkdCJykuc2F2ZShmKQoKcHJpbnQoJ3NoYV9yZW5kZXInLCBoYXNobGliLnNoYTI1NihyYXcpLmhleGRpZ2VzdCgpWzoxNl0pCnByaW50KCdzaGFfY2FwICAgJywgaGFzaGxpYi5zaGEyNTYoY2FwKS5oZXhkaWdlc3QoKVs6MTZdKQpwcmludCgnSURFTlRJQ0FMICcsIHJhdyA9PSBjYXApCnByaW50KCdUT0tFTicsIFRPS0VOKQo=
+#!/usr/bin/env python3
+# 论文自检：渲染关键数据表 -> 写 /dev/fb0 -> 真实采集 -> OCR 回读
+import os, struct, hashlib, subprocess, random, string
+
+W, H, BPP = 1024, 768, 32
+FB = '/dev/fb0'
+OUT = '/data/workspace/luoshen-o1/paper'
+FONT = '/usr/share/fonts/truetype/wenquanyi/WenQuanYiMicroHei.ttc'
+if not os.path.exists(FONT):
+    for p in ['/usr/share/fonts/truetype/wenquanyi/wqy-microhei.ttc',
+              '/usr/share/fonts/wenquanyi/wqy-microhei.ttc']:
+        if os.path.exists(p): FONT = p; break
+
+from PIL import Image, ImageDraw, ImageFont
+
+# 校验码：避开易混淆字符 (O/0, 1/I/l, 8/B, 9/g)
+ALPHA = 'ACDEFGHJKMNPQRTUVWXY234567'
+TOKEN = ''.join(random.choice(ALPHA) for _ in range(6))
+
+def load(sz):
+    try: return ImageFont.truetype(FONT, sz)
+    except Exception: return ImageFont.load_default()
+
+img = Image.new('RGB', (W, H), 'white')
+d = ImageDraw.Draw(img)
+f_t = load(34); f_h = load(25); f_b = load(21)
+
+y = 24
+d.text((40, y), '论文自检 / Chiral Blindness', font=f_t, fill='black'); y += 48
+d.text((40, y), '校验码 TOKEN: ' + TOKEN, font=f_t, fill='black'); y += 52
+
+rows = [
+    ('语义镜像 词袋 disc', '0.0000'),
+    ('语义镜像 含序 disc', '1.0000'),
+    ('对照 词袋 disc', '0.3200'),
+    ('坍塌 REPLACE 稀有类', '0.005 -> 0.000'),
+    ('累积 ACCUM 稀有类', '0.028 -> 0.003'),
+    ('自发破缺 锁定率', '120 / 120'),
+    ('手性方向 L / R', '56 / 64'),
+    ('输液组 存活', '16 / 16  fg=0'),
+    ('撤供后 存活', '0 / 12  mean 235'),
+    ('相倚 vs 相继 fg', '0.10368 / 0.00149'),
+    ('语法层 精度', '18 / 20 = 90%'),
+    ('方法论层 精度', '1 / 55 = 1.8%'),
+    ('跨层翻转 翻/不翻', '2 / 4'),
+    ('THESIS', 'disc = TPR - FPR'),
+]
+for k, v in rows:
+    d.text((46, y), k, font=f_b, fill='black')
+    d.text((560, y), v, font=f_h, fill='black')
+    y += 33
+
+y += 6
+d.text((40, y), 'VERDICT: PATENT_NOVELTY_PARTIAL', font=f_h, fill='black'); y += 34
+d.text((40, y), 'SCIENCE_DISCOVERY: NOT_PATENTABLE', font=f_h, fill='black'); y += 34
+d.text((40, y), 'ORDER: FILE_PATENT_BEFORE_PAPER', font=f_h, fill='black'); y += 34
+
+img.save(os.path.join(OUT, 'render.png'))
+raw = img.convert('RGBA').tobytes()
+assert len(raw) == W * H * 4, (len(raw), W * H * 4)
+
+with open(FB, 'wb') as f:
+    f.write(raw)
+    f.flush()
+    os.fsync(f.fileno())
+print('WROTE', len(raw), 'bytes')
+
+# 真实采集
+with open(FB, 'rb') as f:
+    cap = f.read(W * H * 4)
+print('CAPTURED', len(cap), 'bytes')
+
+with open(os.path.join(OUT, 'captured.png'), 'wb') as f:
+    Image.frombytes('RGBA', (W, H), cap).convert('RGB').save(f)
+
+print('sha_render', hashlib.sha256(raw).hexdigest()[:16])
+print('sha_cap   ', hashlib.sha256(cap).hexdigest()[:16])
+print('IDENTICAL ', raw == cap)
+print('TOKEN', TOKEN)

@@ -1,1 +1,31 @@
-aW1wb3J0IGpzb24KCmZyb20gc3RlYW0uY2xpZW50IGltcG9ydCBTdGVhbUNsaWVudAoKCmRlZiBtYWluKCk6CiAgICAiIiJHZW5lcmF0ZSBhcHAgaW5mbyBqc29uIGZpbGVzIiIiCiAgICBjbGllbnQgPSBTdGVhbUNsaWVudCgpCiAgICBjbGllbnQuYW5vbnltb3VzX2xvZ2luKCkKCiAgICB3aXRoIG9wZW4oJ2FwcHMuanNvbicsICdyJywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZnA6CiAgICAgICAgYXBwX2lkcyA9IGxpc3QobWFwKGxhbWJkYSBhcHA6IGFwcFsnYXBwaWQnXSwganNvbi5sb2FkcyhmcC5yZWFkKCkpKSkKICAgICAgICBpbmZvcyA9IGNsaWVudC5nZXRfcHJvZHVjdF9pbmZvKGFwcF9pZHMpWydhcHBzJ10KCiAgICBicmFuY2hlcyA9IHt9CgogICAgZm9yIGFwcF9pZCBpbiBhcHBfaWRzOgogICAgICAgIGlmICdkZXBvdHMnIG5vdCBpbiBpbmZvc1thcHBfaWRdIG9yICdicmFuY2hlcycgbm90IGluIGluZm9zW2FwcF9pZF1bJ2RlcG90cyddOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBicmFuY2hlc1thcHBfaWRdID0gaW5mb3NbYXBwX2lkXVsnZGVwb3RzJ11bJ2JyYW5jaGVzJ10KCiAgICAgICAgd2l0aCBvcGVuKGYnQXBwSW5mby97YXBwX2lkfS5qc29uJywgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmcDoKICAgICAgICAgICAganNvbi5kdW1wKGluZm9zW2FwcF9pZF0sIGZwLCBpbmRlbnQ9NCwgZW5zdXJlX2FzY2lpPUZhbHNlKQoKICAgIHdpdGggb3BlbignYnJhbmNoZXMuanNvbicsICd3JywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZnA6CiAgICAgICAganNvbi5kdW1wKGJyYW5jaGVzLCBmcCwgaW5kZW50PTQsIGVuc3VyZV9hc2NpaT1GYWxzZSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+import json
+
+from steam.client import SteamClient
+
+
+def main():
+    """Generate app info json files"""
+    client = SteamClient()
+    client.anonymous_login()
+
+    with open('apps.json', 'r', encoding='utf-8') as fp:
+        app_ids = list(map(lambda app: app['appid'], json.loads(fp.read())))
+        infos = client.get_product_info(app_ids)['apps']
+
+    branches = {}
+
+    for app_id in app_ids:
+        if 'depots' not in infos[app_id] or 'branches' not in infos[app_id]['depots']:
+            continue
+
+        branches[app_id] = infos[app_id]['depots']['branches']
+
+        with open(f'AppInfo/{app_id}.json', 'w', encoding='utf-8') as fp:
+            json.dump(infos[app_id], fp, indent=4, ensure_ascii=False)
+
+    with open('branches.json', 'w', encoding='utf-8') as fp:
+        json.dump(branches, fp, indent=4, ensure_ascii=False)
+
+
+if __name__ == "__main__":
+    main()

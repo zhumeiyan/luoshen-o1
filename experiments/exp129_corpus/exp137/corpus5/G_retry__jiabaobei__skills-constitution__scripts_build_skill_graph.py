@@ -1,1 +1,91 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJidWlsZF9za2lsbF9ncmFwaCDigJTigJQg5LuO5bey5pyJ5oqA6IO95qCRICsgcmVnaXN0cnkg6YeN5bu65oqA6IO95Zu+6LCx77yIdjIuMjMuMO+8iQoK5LiOIGJ1aWxkX3NraWxsX3RyZWUucHkg55qE5YiG5bel77yaCiAgLSBidWlsZF9za2lsbF90cmVlLnB5IOaJq+aPj+aKgOiDveebruW9leeUn+aIkOagkeaXtuS8mioq6aG65bimKirph43lu7rlm77osLHvvIjmjqjojZDot6/lvoTvvIkKICAtIOacrOiEmuacrOS4jemcgOimgeaKgOiDveebruW9le+8muebtOaOpeS7juS7k+W6k+mHjOeahCBza2lsbF90cmVlLmpzb27vvIjkvZzogIXlv6vnhafmiJbkvaAKICAgIOW3sueUn+aIkOeahOagke+8iSsgcmVnaXN0cnkuanNvbiDph43lu7rlm77osLEg4oCU4oCUIOeUqOS6juW/q+eFp+e7tOaKpOOAgUNJIOagoemqjOOAgQogICAg5Lul5Y+KIuagkeayoeWPmOWPquaDs+WIt+aWsOWbviLnmoTlnLrmma8KCueUqOazlToKICBweXRob24gc2NyaXB0cy9idWlsZF9za2lsbF9ncmFwaC5weSAgICAgICAgICAgICAgICAgICAgICMg6buY6K6k6K+75LuT5bqT5YaF5Lik5paH5Lu2CiAgcHl0aG9uIHNjcmlwdHMvYnVpbGRfc2tpbGxfZ3JhcGgucHkgLS10cmVlIOi3r+W+hCAtLXJlZ2lzdHJ5IOi3r+W+hCAtLW91dCDot6/lvoQKIiIiCmltcG9ydCBhcmdwYXJzZQppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHN5cwpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQoKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKZnJvbSBsaWIgaW1wb3J0IGdyYXBoIGFzIEcgICMgbm9xYTogRTQwMgoKUk9PVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCgoKZGVmIHNraWxsc19mcm9tX3RyZWUodHJlZSk6CiAgICAiIiLmiormioDog73moJHmkYrlubPmiJDljrvph43mioDog73muIXljZUo5L+d55WZIG5hbWUvZGVzY3JpcHRpb24vY2F0ZWdvcmllcy9xdWFsaWZpZWRfbmFtZSkiIiIKICAgIHNraWxscywgc2VlbiA9IFtdLCBzZXQoKQogICAgZm9yIGl0ZW1zIGluIHRyZWUuZ2V0KCJjYXRlZ29yaWVzIiwge30pLnZhbHVlcygpOgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGl0ZW1zLCBsaXN0KToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmb3IgaXRlbSBpbiBpdGVtczoKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShpdGVtLCBkaWN0KSBhbmQgaXRlbS5nZXQoIm5hbWUiKToKICAgICAgICAgICAgICAgIGlmIGl0ZW1bIm5hbWUiXSBpbiBzZWVuOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBzZWVuLmFkZChpdGVtWyJuYW1lIl0pCiAgICAgICAgICAgICAgICBza2lsbHMuYXBwZW5kKGl0ZW0pCiAgICByZXR1cm4gc2tpbGxzCgoKZGVmIGJ1aWxkX2dyYXBoX3BheWxvYWQodHJlZSwgcmVnaXN0cnlfcGF0aCk6CiAgICAiIiLnlJ/miJDlrozmlbTnmoQgc2tpbGxfZ3JhcGguanNvbiDlhoXlrrko5ZCr54mI5pys5LiO5p2l5rqQ5L+h5oGvKSIiIgogICAgZyA9IEcuYnVpbGRfZ3JhcGgoc2tpbGxzX2Zyb21fdHJlZSh0cmVlKSwgcmVnaXN0cnlfcGF0aCkKICAgIHZlcnNpb24gPSB0cmVlLmdldCgidmVyc2lvbiIsICIiKQogICAgaWYgbm90IHZlcnNpb246CiAgICAgICAgIyDkuI4gYnVpbGRfc2tpbGxfdHJlZSDlkIzmupA65LuOIFNLSUxMLm1kIGZyb250bWF0dGVyIOivuwogICAgICAgIHRyeToKICAgICAgICAgICAgaW1wb3J0IHJlIGFzIF9yZQogICAgICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKFJPT1QsICJTS0lMTC5tZCIpLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICAgICAgbSA9IF9yZS5zZWFyY2gociJedmVyc2lvbjpccyooXFMrKSIsIGYucmVhZCgpLCBfcmUuTVVMVElMSU5FKQogICAgICAgICAgICAgICAgdmVyc2lvbiA9IG0uZ3JvdXAoMSkgaWYgbSBlbHNlICJ1bmtub3duIgogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHZlcnNpb24gPSAidW5rbm93biIKICAgIHJldHVybiB7CiAgICAgICAgInZlcnNpb24iOiB2ZXJzaW9uLAogICAgICAgICJnZW5lcmF0ZWRfYXQiOiBkYXRldGltZS5ub3coKS5pc29mb3JtYXQoKSwKICAgICAgICAic291cmNlIjogeyJ0cmVlIjogInNraWxsX3RyZWUuanNvbiIsICJyZWdpc3RyeSI6ICJyZWdpc3RyeS5qc29uIn0sCiAgICAgICAgKipnLAogICAgfQoKCmRlZiBtYWluKCk6CiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSLph43lu7rmioDog73lm77osLEo5oqA6IO95qCRICsgcmVnaXN0cnkg4oaSIHNraWxsX2dyYXBoLmpzb24pIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS10cmVlIiwgZGVmYXVsdD1vcy5wYXRoLmpvaW4oUk9PVCwgInNraWxsX3RyZWUuanNvbiIpKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXJlZ2lzdHJ5IiwgZGVmYXVsdD1vcy5wYXRoLmpvaW4oUk9PVCwgInJlZ2lzdHJ5Lmpzb24iKSkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1vdXQiLCBkZWZhdWx0PW9zLnBhdGguam9pbihST09ULCAic2tpbGxfZ3JhcGguanNvbiIpKQogICAgYSA9IGFwLnBhcnNlX2FyZ3MoKQoKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhhLnRyZWUpOgogICAgICAgIHByaW50KGYi6ZSZ6K+vOuaKgOiDveagkeS4jeWtmOWcqCB7YS50cmVlfSjlhYjov5DooYwgYnVpbGRfc2tpbGxfdHJlZS5weSkiLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmV0dXJuIDEKICAgIHdpdGggb3BlbihhLnRyZWUsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgdHJlZSA9IGpzb24ubG9hZChmKQoKICAgIHBheWxvYWQgPSBidWlsZF9ncmFwaF9wYXlsb2FkKHRyZWUsIGEucmVnaXN0cnkpCiAgICB3aXRoIG9wZW4oYS5vdXQsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAocGF5bG9hZCwgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKCiAgICBraW5kcyA9IHt9CiAgICBmb3IgZSBpbiBwYXlsb2FkWyJlZGdlcyJdOgogICAgICAgIGtpbmRzW2VbImtpbmQiXV0gPSBraW5kcy5nZXQoZVsia2luZCJdLCAwKSArIDEKICAgIHByaW50KGYi4pyTIOaKgOiDveWbvuiwseW3sueUn+aIkDoge2Eub3V0fSIpCiAgICBwcmludChmIiAg6IqC54K5IHtwYXlsb2FkWydub2RlX2NvdW50J119IHwg6L65IHtwYXlsb2FkWydlZGdlX2NvdW50J119IgogICAgICAgICAgZiIoeycsICcuam9pbihmJ3trfcOXe3Z9JyBmb3IgaywgdiBpbiBzb3J0ZWQoa2luZHMuaXRlbXMoKSkpfSkiCiAgICAgICAgICBmIiB8IOewhyB7bGVuKHBheWxvYWRbJ2NsdXN0ZXJzJ10pfSIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""build_skill_graph —— 从已有技能树 + registry 重建技能图谱（v2.23.0）
+
+与 build_skill_tree.py 的分工：
+  - build_skill_tree.py 扫描技能目录生成树时会**顺带**重建图谱（推荐路径）
+  - 本脚本不需要技能目录：直接从仓库里的 skill_tree.json（作者快照或你
+    已生成的树）+ registry.json 重建图谱 —— 用于快照维护、CI 校验、
+    以及"树没变只想刷新图"的场景
+
+用法:
+  python scripts/build_skill_graph.py                     # 默认读仓库内两文件
+  python scripts/build_skill_graph.py --tree 路径 --registry 路径 --out 路径
+"""
+import argparse
+import json
+import os
+import sys
+from datetime import datetime
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from lib import graph as G  # noqa: E402
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def skills_from_tree(tree):
+    """把技能树摊平成去重技能清单(保留 name/description/categories/qualified_name)"""
+    skills, seen = [], set()
+    for items in tree.get("categories", {}).values():
+        if not isinstance(items, list):
+            continue
+        for item in items:
+            if isinstance(item, dict) and item.get("name"):
+                if item["name"] in seen:
+                    continue
+                seen.add(item["name"])
+                skills.append(item)
+    return skills
+
+
+def build_graph_payload(tree, registry_path):
+    """生成完整的 skill_graph.json 内容(含版本与来源信息)"""
+    g = G.build_graph(skills_from_tree(tree), registry_path)
+    version = tree.get("version", "")
+    if not version:
+        # 与 build_skill_tree 同源:从 SKILL.md frontmatter 读
+        try:
+            import re as _re
+            with open(os.path.join(ROOT, "SKILL.md"), encoding="utf-8") as f:
+                m = _re.search(r"^version:\s*(\S+)", f.read(), _re.MULTILINE)
+                version = m.group(1) if m else "unknown"
+        except Exception:
+            version = "unknown"
+    return {
+        "version": version,
+        "generated_at": datetime.now().isoformat(),
+        "source": {"tree": "skill_tree.json", "registry": "registry.json"},
+        **g,
+    }
+
+
+def main():
+    ap = argparse.ArgumentParser(description="重建技能图谱(技能树 + registry → skill_graph.json)")
+    ap.add_argument("--tree", default=os.path.join(ROOT, "skill_tree.json"))
+    ap.add_argument("--registry", default=os.path.join(ROOT, "registry.json"))
+    ap.add_argument("--out", default=os.path.join(ROOT, "skill_graph.json"))
+    a = ap.parse_args()
+
+    if not os.path.exists(a.tree):
+        print(f"错误:技能树不存在 {a.tree}(先运行 build_skill_tree.py)", file=sys.stderr)
+        return 1
+    with open(a.tree, encoding="utf-8") as f:
+        tree = json.load(f)
+
+    payload = build_graph_payload(tree, a.registry)
+    with open(a.out, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+    kinds = {}
+    for e in payload["edges"]:
+        kinds[e["kind"]] = kinds.get(e["kind"], 0) + 1
+    print(f"✓ 技能图谱已生成: {a.out}")
+    print(f"  节点 {payload['node_count']} | 边 {payload['edge_count']}"
+          f"({', '.join(f'{k}×{v}' for k, v in sorted(kinds.items()))})"
+          f" | 簇 {len(payload['clusters'])}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

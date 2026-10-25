@@ -1,1 +1,32 @@
-aW1wb3J0IGFzeW5jaW8sIHN1YnByb2Nlc3MsIGpzb24sIHRpbWUKZnJvbSBwbGF5d3JpZ2h0LmFzeW5jX2FwaSBpbXBvcnQgYXN5bmNfcGxheXdyaWdodApVQT0iTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMxLjAuMC4wIFNhZmFyaS81MzcuMzYiCkRPTT1bImh0dHBzOi8vZ2l0aHViLmNvbS9LTGFtZW5nL1RBQ1QtVGhyZWUtQXhpcy1DaGVjayIsImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vemVuIl0KZGVmIHByb3RvKHUpOgogICAgdHJ5OgogICAgICAgIHI9c3VicHJvY2Vzcy5ydW4oWyJjdXJsIiwiLXMiLCItbyIsIi9kZXYvbnVsbCIsIi13IiwiJXtodHRwX2NvZGV9IiwiLW0iLCIxMiIsIi1BIixVQSx1XSxjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSkKICAgICAgICByZXR1cm4gaW50KHIuc3Rkb3V0LnN0cmlwKCkpIGlmIHIuc3Rkb3V0LnN0cmlwKCkuaXNkaWdpdCgpIGVsc2UgMAogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIDAKYXN5bmMgZGVmIG1haW4oKToKICAgIG91dD17fQogICAgYXN5bmMgd2l0aCBhc3luY19wbGF5d3JpZ2h0KCkgYXMgcDoKICAgICAgICBiPWF3YWl0IHAuY2hyb21pdW0ubGF1bmNoKGV4ZWN1dGFibGVfcGF0aD0iL3Vzci9iaW4vZ29vZ2xlLWNocm9tZSIsYXJncz1bIi0tbm8tc2FuZGJveCIsIi0tZGlzYWJsZS1kZXYtc2htLXVzYWdlIl0pCiAgICAgICAgcGc9YXdhaXQgYi5uZXdfcGFnZSgpOyBhd2FpdCBwZy5zZXRfZXh0cmFfaHR0cF9oZWFkZXJzKHsiVXNlci1BZ2VudCI6VUF9KQogICAgICAgIGZvciB1IGluIERPTToKICAgICAgICAgICAgZz0wCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHI9YXdhaXQgcGcuZ290byh1LHRpbWVvdXQ9MjAwMDAsd2FpdF91bnRpbD0iZG9tY29udGVudGxvYWRlZCIpOyBnPXIuc3RhdHVzIGlmIHIgZWxzZSAwCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKICAgICAgICAgICAgcHI9cHJvdG8odSkKICAgICAgICAgICAgb3V0W3VdPXsiZ3VpIjpnLCJwcm90byI6cHJ9CiAgICAgICAgICAgIHByaW50KGYie3VbOjUwXTo1MnN9IGd1aT17Zzo0ZH0gcHJvdG89e3ByOjRkfSIpCiAgICAgICAgYXdhaXQgYi5jbG9zZSgpCiAgICBqc29uLmR1bXAob3V0LG9wZW4oImdyaWQuanNvbiIsInciKSxpbmRlbnQ9MSkKICAgIHByaW50KCJcbj09PSDlvZLlm6AgPT09IikKICAgIGE9b3V0W0RPTVswXV07IGJiPW91dFtET01bMV1dCiAgICBjaGFuX2VmZmVjdCA9IGFicyhhWyJndWkiXS1hWyJwcm90byJdKSthYnMoYmJbImd1aSJdLWJiWyJwcm90byJdKQogICAgZG9tX2VmZmVjdCAgPSBhYnMoYVsiZ3VpIl0tYmJbImd1aSJdKSthYnMoYVsicHJvdG8iXS1iYlsicHJvdG8iXSkKICAgIHByaW50KGYiICDpgJrpgZPnu7Tlt67lvIIo5ZCM5Z+f5ZCNLEdVSSB2cyDljY/orq4pID0ge2NoYW5fZWZmZWN0fSIpCiAgICBwcmludChmIiAg5Z+f5ZCN57u05beu5byCKOWQjOmAmumBkyxnaXRodWIgdnMgYXBpKT0ge2RvbV9lZmZlY3R9IikKICAgIHByaW50KGYiICAtPiDlhpfkvZnlnKh7J+Wfn+WQjScgaWYgZG9tX2VmZmVjdD5jaGFuX2VmZmVjdCBlbHNlICfpgJrpgZMnfSIpCmFzeW5jaW8ucnVuKG1haW4oKSkK
+import asyncio, subprocess, json, time
+from playwright.async_api import async_playwright
+UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+DOM=["https://github.com/KLameng/TACT-Three-Axis-Check","https://api.github.com/zen"]
+def proto(u):
+    try:
+        r=subprocess.run(["curl","-s","-o","/dev/null","-w","%{http_code}","-m","12","-A",UA,u],capture_output=True,text=True)
+        return int(r.stdout.strip()) if r.stdout.strip().isdigit() else 0
+    except Exception: return 0
+async def main():
+    out={}
+    async with async_playwright() as p:
+        b=await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox","--disable-dev-shm-usage"])
+        pg=await b.new_page(); await pg.set_extra_http_headers({"User-Agent":UA})
+        for u in DOM:
+            g=0
+            try:
+                r=await pg.goto(u,timeout=20000,wait_until="domcontentloaded"); g=r.status if r else 0
+            except Exception: pass
+            pr=proto(u)
+            out[u]={"gui":g,"proto":pr}
+            print(f"{u[:50]:52s} gui={g:4d} proto={pr:4d}")
+        await b.close()
+    json.dump(out,open("grid.json","w"),indent=1)
+    print("\n=== 归因 ===")
+    a=out[DOM[0]]; bb=out[DOM[1]]
+    chan_effect = abs(a["gui"]-a["proto"])+abs(bb["gui"]-bb["proto"])
+    dom_effect  = abs(a["gui"]-bb["gui"])+abs(a["proto"]-bb["proto"])
+    print(f"  通道维差异(同域名,GUI vs 协议) = {chan_effect}")
+    print(f"  域名维差异(同通道,github vs api)= {dom_effect}")
+    print(f"  -> 冗余在{'域名' if dom_effect>chan_effect else '通道'}")
+asyncio.run(main())

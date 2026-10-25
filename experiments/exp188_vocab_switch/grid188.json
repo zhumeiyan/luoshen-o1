@@ -1,1 +1,284 @@
-ewogICJncmlkX3NjYW4iOiBbCiAgICB7CiAgICAgICJhIjogMSwKICAgICAgImdhaW4iOiA4ODEyLjY4MTc4MjM3NDk3NSwKICAgICAgImlzX2ZpYm9uYWNjaSI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJhIjogMiwKICAgICAgImdhaW4iOiAxMjAyNi4xMTc0MzMyNzExMywKICAgICAgImlzX2ZpYm9uYWNjaSI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJhIjogMywKICAgICAgImdhaW4iOiAxMzg0MC42NDEzNjU4Njc2NTQsCiAgICAgICJpc19maWJvbmFjY2kiOiB0cnVlCiAgICB9LAogICAgewogICAgICAiYSI6IDQsCiAgICAgICJnYWluIjogMTUwMzguNzQ0MzkyMjcxNDA1LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogNSwKICAgICAgImdhaW4iOiAxNTc0Ny4xODc4NzgyMDUwMjQsCiAgICAgICJpc19maWJvbmFjY2kiOiB0cnVlCiAgICB9LAogICAgewogICAgICAiYSI6IDYsCiAgICAgICJnYWluIjogMTYxMzkuNjU2Njg5OTk0NzA1LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogNywKICAgICAgImdhaW4iOiAxNjM1Mi42NDkwMjU1ODE0NDgsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiA4LAogICAgICAiZ2FpbiI6IDE2NDk4LjUxNjE4MTM0NTI1NCwKICAgICAgImlzX2ZpYm9uYWNjaSI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJhIjogOSwKICAgICAgImdhaW4iOiAxNjYwMS4wOTUzNzQ1OTUwNDMsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiAxMCwKICAgICAgImdhaW4iOiAxNjY3MC45MjU0Nzc2Njc4OSwKICAgICAgImlzX2ZpYm9uYWNjaSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiYSI6IDExLAogICAgICAiZ2FpbiI6IDE2NzE3LjY4MTY4ODMxMDM1NywKICAgICAgImlzX2ZpYm9uYWNjaSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiYSI6IDEyLAogICAgICAiZ2FpbiI6IDE2NzQ3LjIwOTIzNTgyNzY1NywKICAgICAgImlzX2ZpYm9uYWNjaSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiYSI6IDEzLAogICAgICAiZ2FpbiI6IDE2NzYyLjgzMjE2NjAzMjI3NiwKICAgICAgImlzX2ZpYm9uYWNjaSI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTQsCiAgICAgICJnYWluIjogMTY3NjYuNjc3MzQyOTI1ODg2LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTUsCiAgICAgICJnYWluIjogMTY3NjMuNzQ1OTY4MzY2Mjc1LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTYsCiAgICAgICJnYWluIjogMTY3NTIuMjY0NTczMjE1MzE0LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTcsCiAgICAgICJnYWluIjogMTY3MzYuMDIyNTU4NDI2Njc0LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTgsCiAgICAgICJnYWluIjogMTY3MTQuNzU0MDA5NTU1NTc4LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTksCiAgICAgICJnYWluIjogMTY2ODkuNjA2MTg2MzcxOTQsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiAyMCwKICAgICAgImdhaW4iOiAxNjY2MC4zOTg1ODI4NDgyNzYsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiAyMSwKICAgICAgImdhaW4iOiAxNjYyOC4zMzk2NTEyOTA3MDIsCiAgICAgICJpc19maWJvbmFjY2kiOiB0cnVlCiAgICB9LAogICAgewogICAgICAiYSI6IDIyLAogICAgICAiZ2FpbiI6IDE2NTk0LjY1NjM4ODIxNTQ5LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMjMsCiAgICAgICJnYWluIjogMTY1NTcuODgwNzgyMzE3ODk4LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMjQsCiAgICAgICJnYWluIjogMTY1MjAuNjI5ODI5NDk4MjEsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiAyNSwKICAgICAgImdhaW4iOiAxNjQ4MS44MDIyOTUyMjE5NTQsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiAyNiwKICAgICAgImdhaW4iOiAxNjQ0NS4yNTc2MzkyNTc2NywKICAgICAgImlzX2ZpYm9uYWNjaSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiYSI6IDI3LAogICAgICAiZ2FpbiI6IDE2NDEwLjY2NjM4NjU5Nzk1NywKICAgICAgImlzX2ZpYm9uYWNjaSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiYSI6IDI4LAogICAgICAiZ2FpbiI6IDE2Mzc2LjQxODg5NjMzMzg3LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMjksCiAgICAgICJnYWluIjogMTYzNDMuNTk5NDEzNDczNjA3LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMzAsCiAgICAgICJnYWluIjogMTYzMTEuOTg3MTkyNjcyOTY3LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMzEsCiAgICAgICJnYWluIjogMTYyODEuMzg2OTI5ODA2MjIsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiAzMiwKICAgICAgImdhaW4iOiAxNjI1MS42MjQ4OTQwMjExLAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMzMsCiAgICAgICJnYWluIjogMTYyMjMuODQ4MjAzNDc0MDg4LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMzQsCiAgICAgICJnYWluIjogMTYxOTYuNjA4MTc3MDY4MjIzLAogICAgICAiaXNfZmlib25hY2NpIjogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgImEiOiAzNSwKICAgICAgImdhaW4iOiAxNjE2OS43ODUxNzUwMzEzMiwKICAgICAgImlzX2ZpYm9uYWNjaSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiYSI6IDM2LAogICAgICAiZ2FpbiI6IDE2MTQzLjI2NzI3MjU5NDU3LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMzcsCiAgICAgICJnYWluIjogMTYxMTguMjM3MjU2NzgxNzYsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiAzOCwKICAgICAgImdhaW4iOiAxNjA5NC41OTI5MDEzNjcxNjEsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiAzOSwKICAgICAgImdhaW4iOiAxNjA3MC45Njk0MzkxMDU4MjIsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiA0MCwKICAgICAgImdhaW4iOiAxNjA0Ny4yOTQ0ODQyMDU5MTUsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfQogIF0sCiAgInRvcDEwIjogWwogICAgewogICAgICAiYSI6IDE0LAogICAgICAiZ2FpbiI6IDE2NzY2LjY3NzM0MjkyNTg4NiwKICAgICAgImlzX2ZpYm9uYWNjaSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiYSI6IDE1LAogICAgICAiZ2FpbiI6IDE2NzYzLjc0NTk2ODM2NjI3NSwKICAgICAgImlzX2ZpYm9uYWNjaSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiYSI6IDEzLAogICAgICAiZ2FpbiI6IDE2NzYyLjgzMjE2NjAzMjI3NiwKICAgICAgImlzX2ZpYm9uYWNjaSI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTYsCiAgICAgICJnYWluIjogMTY3NTIuMjY0NTczMjE1MzE0LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTIsCiAgICAgICJnYWluIjogMTY3NDcuMjA5MjM1ODI3NjU3LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTcsCiAgICAgICJnYWluIjogMTY3MzYuMDIyNTU4NDI2Njc0LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTEsCiAgICAgICJnYWluIjogMTY3MTcuNjgxNjg4MzEwMzU3LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTgsCiAgICAgICJnYWluIjogMTY3MTQuNzU0MDA5NTU1NTc4LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTksCiAgICAgICJnYWluIjogMTY2ODkuNjA2MTg2MzcxOTQsCiAgICAgICJpc19maWJvbmFjY2kiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImEiOiAxMCwKICAgICAgImdhaW4iOiAxNjY3MC45MjU0Nzc2Njc4OSwKICAgICAgImlzX2ZpYm9uYWNjaSI6IGZhbHNlCiAgICB9CiAgXSwKICAidG9wNV9ub25maWJvbmFjY2kiOiBbCiAgICB7CiAgICAgICJhIjogMTQsCiAgICAgICJnYWluIjogMTY3NjYuNjc3MzQyOTI1ODg2LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTUsCiAgICAgICJnYWluIjogMTY3NjMuNzQ1OTY4MzY2Mjc1LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTYsCiAgICAgICJnYWluIjogMTY3NTIuMjY0NTczMjE1MzE0LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTIsCiAgICAgICJnYWluIjogMTY3NDcuMjA5MjM1ODI3NjU3LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJhIjogMTcsCiAgICAgICJnYWluIjogMTY3MzYuMDIyNTU4NDI2Njc0LAogICAgICAiaXNfZmlib25hY2NpIjogZmFsc2UKICAgIH0KICBdLAogICJncmVlZHkiOiAxODE4Mi44NzcyNDc5OTY5NTIKfQ==
+{
+  "grid_scan": [
+    {
+      "a": 1,
+      "gain": 8812.681782374975,
+      "is_fibonacci": true
+    },
+    {
+      "a": 2,
+      "gain": 12026.11743327113,
+      "is_fibonacci": true
+    },
+    {
+      "a": 3,
+      "gain": 13840.641365867654,
+      "is_fibonacci": true
+    },
+    {
+      "a": 4,
+      "gain": 15038.744392271405,
+      "is_fibonacci": false
+    },
+    {
+      "a": 5,
+      "gain": 15747.187878205024,
+      "is_fibonacci": true
+    },
+    {
+      "a": 6,
+      "gain": 16139.656689994705,
+      "is_fibonacci": false
+    },
+    {
+      "a": 7,
+      "gain": 16352.649025581448,
+      "is_fibonacci": false
+    },
+    {
+      "a": 8,
+      "gain": 16498.516181345254,
+      "is_fibonacci": true
+    },
+    {
+      "a": 9,
+      "gain": 16601.095374595043,
+      "is_fibonacci": false
+    },
+    {
+      "a": 10,
+      "gain": 16670.92547766789,
+      "is_fibonacci": false
+    },
+    {
+      "a": 11,
+      "gain": 16717.681688310357,
+      "is_fibonacci": false
+    },
+    {
+      "a": 12,
+      "gain": 16747.209235827657,
+      "is_fibonacci": false
+    },
+    {
+      "a": 13,
+      "gain": 16762.832166032276,
+      "is_fibonacci": true
+    },
+    {
+      "a": 14,
+      "gain": 16766.677342925886,
+      "is_fibonacci": false
+    },
+    {
+      "a": 15,
+      "gain": 16763.745968366275,
+      "is_fibonacci": false
+    },
+    {
+      "a": 16,
+      "gain": 16752.264573215314,
+      "is_fibonacci": false
+    },
+    {
+      "a": 17,
+      "gain": 16736.022558426674,
+      "is_fibonacci": false
+    },
+    {
+      "a": 18,
+      "gain": 16714.754009555578,
+      "is_fibonacci": false
+    },
+    {
+      "a": 19,
+      "gain": 16689.60618637194,
+      "is_fibonacci": false
+    },
+    {
+      "a": 20,
+      "gain": 16660.398582848276,
+      "is_fibonacci": false
+    },
+    {
+      "a": 21,
+      "gain": 16628.339651290702,
+      "is_fibonacci": true
+    },
+    {
+      "a": 22,
+      "gain": 16594.65638821549,
+      "is_fibonacci": false
+    },
+    {
+      "a": 23,
+      "gain": 16557.880782317898,
+      "is_fibonacci": false
+    },
+    {
+      "a": 24,
+      "gain": 16520.62982949821,
+      "is_fibonacci": false
+    },
+    {
+      "a": 25,
+      "gain": 16481.802295221954,
+      "is_fibonacci": false
+    },
+    {
+      "a": 26,
+      "gain": 16445.25763925767,
+      "is_fibonacci": false
+    },
+    {
+      "a": 27,
+      "gain": 16410.666386597957,
+      "is_fibonacci": false
+    },
+    {
+      "a": 28,
+      "gain": 16376.41889633387,
+      "is_fibonacci": false
+    },
+    {
+      "a": 29,
+      "gain": 16343.599413473607,
+      "is_fibonacci": false
+    },
+    {
+      "a": 30,
+      "gain": 16311.987192672967,
+      "is_fibonacci": false
+    },
+    {
+      "a": 31,
+      "gain": 16281.38692980622,
+      "is_fibonacci": false
+    },
+    {
+      "a": 32,
+      "gain": 16251.6248940211,
+      "is_fibonacci": false
+    },
+    {
+      "a": 33,
+      "gain": 16223.848203474088,
+      "is_fibonacci": false
+    },
+    {
+      "a": 34,
+      "gain": 16196.608177068223,
+      "is_fibonacci": true
+    },
+    {
+      "a": 35,
+      "gain": 16169.78517503132,
+      "is_fibonacci": false
+    },
+    {
+      "a": 36,
+      "gain": 16143.26727259457,
+      "is_fibonacci": false
+    },
+    {
+      "a": 37,
+      "gain": 16118.23725678176,
+      "is_fibonacci": false
+    },
+    {
+      "a": 38,
+      "gain": 16094.592901367161,
+      "is_fibonacci": false
+    },
+    {
+      "a": 39,
+      "gain": 16070.969439105822,
+      "is_fibonacci": false
+    },
+    {
+      "a": 40,
+      "gain": 16047.294484205915,
+      "is_fibonacci": false
+    }
+  ],
+  "top10": [
+    {
+      "a": 14,
+      "gain": 16766.677342925886,
+      "is_fibonacci": false
+    },
+    {
+      "a": 15,
+      "gain": 16763.745968366275,
+      "is_fibonacci": false
+    },
+    {
+      "a": 13,
+      "gain": 16762.832166032276,
+      "is_fibonacci": true
+    },
+    {
+      "a": 16,
+      "gain": 16752.264573215314,
+      "is_fibonacci": false
+    },
+    {
+      "a": 12,
+      "gain": 16747.209235827657,
+      "is_fibonacci": false
+    },
+    {
+      "a": 17,
+      "gain": 16736.022558426674,
+      "is_fibonacci": false
+    },
+    {
+      "a": 11,
+      "gain": 16717.681688310357,
+      "is_fibonacci": false
+    },
+    {
+      "a": 18,
+      "gain": 16714.754009555578,
+      "is_fibonacci": false
+    },
+    {
+      "a": 19,
+      "gain": 16689.60618637194,
+      "is_fibonacci": false
+    },
+    {
+      "a": 10,
+      "gain": 16670.92547766789,
+      "is_fibonacci": false
+    }
+  ],
+  "top5_nonfibonacci": [
+    {
+      "a": 14,
+      "gain": 16766.677342925886,
+      "is_fibonacci": false
+    },
+    {
+      "a": 15,
+      "gain": 16763.745968366275,
+      "is_fibonacci": false
+    },
+    {
+      "a": 16,
+      "gain": 16752.264573215314,
+      "is_fibonacci": false
+    },
+    {
+      "a": 12,
+      "gain": 16747.209235827657,
+      "is_fibonacci": false
+    },
+    {
+      "a": 17,
+      "gain": 16736.022558426674,
+      "is_fibonacci": false
+    }
+  ],
+  "greedy": 18182.877247996952
+}

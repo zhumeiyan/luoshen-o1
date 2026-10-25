@@ -1,1 +1,115 @@
-bmFtZTogZXZhbGd1YXJkCmRlc2NyaXB0aW9uOiA+LQogIENhdGNoIGV2YWx1YXRpb24gY29kZSB0aGF0IGZhaWxzIHNpbGVudGx5IOKAlCBhIHNjcmlwdCB0aGF0IHJ1bnMgdG8KICBjb21wbGV0aW9uLCBleGl0cyAwLCBwcmludHMgYSBjb25maWRlbnQgbnVtYmVyLCBhbmQgaXMgd3JvbmcuCmF1dGhvcjogemh1bWVpeWFuCmJyYW5kaW5nOgogIGljb246IHNoaWVsZAogIGNvbG9yOiBwdXJwbGUKCmlucHV0czoKICBwYXRoczoKICAgIGRlc2NyaXB0aW9uOiBGaWxlcyBvciBkaXJlY3RvcmllcyB0byBzY2FuCiAgICByZXF1aXJlZDogZmFsc2UKICAgIGRlZmF1bHQ6ICIuIgogIHNldmVyaXR5OgogICAgZGVzY3JpcHRpb246IE1pbmltdW0gc2V2ZXJpdHkgdG8gcmVwb3J0IOKAlCBibG9ja2VyLCB3YXJuIG9yIGluZm8KICAgIHJlcXVpcmVkOiBmYWxzZQogICAgZGVmYXVsdDogd2FybgogIHBybzoKICAgIGRlc2NyaXB0aW9uOiBFbmFibGUgdGhlIFBSTyBydWxlIHBhY2sgKDEwIGFkZGl0aW9uYWwgcnVsZXMpCiAgICByZXF1aXJlZDogZmFsc2UKICAgIGRlZmF1bHQ6ICJmYWxzZSIKICBmYWlsLW9uOgogICAgZGVzY3JpcHRpb246ID4tCiAgICAgIEZhaWwgdGhlIGpvYiBhdCB0aGlzIHNldmVyaXR5IG9yIGFib3ZlLiBVc2UgIm5vbmUiIHRvIHJlcG9ydCB3aXRob3V0CiAgICAgIGZhaWxpbmcsIHdoaWNoIGlzIHRoZSByaWdodCBzZXR0aW5nIHdoaWxlIHlvdSB0cmlhZ2UgYW4gZXhpc3RpbmcgcmVwby4KICAgIHJlcXVpcmVkOiBmYWxzZQogICAgZGVmYXVsdDogYmxvY2tlcgogIHNhcmlmOgogICAgZGVzY3JpcHRpb246ID4tCiAgICAgIFdyaXRlIGEgU0FSSUYgMi4xLjAgZmlsZSBmb3IgdXBsb2FkIHRvIEdpdEh1YiBDb2RlIFNjYW5uaW5nLiBGaW5kaW5ncwogICAgICB0aGVuIGFwcGVhciBpbmxpbmUgb24gdGhlIHB1bGwgcmVxdWVzdCBkaWZmLgogICAgcmVxdWlyZWQ6IGZhbHNlCiAgICBkZWZhdWx0OiAidHJ1ZSIKICBzYXJpZi1maWxlOgogICAgZGVzY3JpcHRpb246IFdoZXJlIHRvIHdyaXRlIHRoZSBTQVJJRiBvdXRwdXQKICAgIHJlcXVpcmVkOiBmYWxzZQogICAgZGVmYXVsdDogZXZhbGd1YXJkLnNhcmlmCgpvdXRwdXRzOgogIGJsb2NrZXJzOgogICAgZGVzY3JpcHRpb246IE51bWJlciBvZiBibG9ja2VyLXNldmVyaXR5IGZpbmRpbmdzCiAgICB2YWx1ZTogJHt7IHN0ZXBzLnNjYW4ub3V0cHV0cy5ibG9ja2VycyB9fQogIHdhcm5zOgogICAgZGVzY3JpcHRpb246IE51bWJlciBvZiB3YXJuLXNldmVyaXR5IGZpbmRpbmdzCiAgICB2YWx1ZTogJHt7IHN0ZXBzLnNjYW4ub3V0cHV0cy53YXJucyB9fQogIGZpbmRpbmdzOgogICAgZGVzY3JpcHRpb246IFRvdGFsIGZpbmRpbmdzIGF0IG9yIGFib3ZlIHRoZSByZXF1ZXN0ZWQgc2V2ZXJpdHkKICAgIHZhbHVlOiAke3sgc3RlcHMuc2Nhbi5vdXRwdXRzLmZpbmRpbmdzIH19CiAgc2FyaWYtZmlsZToKICAgIGRlc2NyaXB0aW9uOiBQYXRoIHRvIHRoZSBTQVJJRiBmaWxlLCBpZiB3cml0dGVuCiAgICB2YWx1ZTogJHt7IHN0ZXBzLnNjYW4ub3V0cHV0cy5zYXJpZi1maWxlIH19CgpydW5zOgogIHVzaW5nOiBjb21wb3NpdGUKICBzdGVwczoKICAgICMgTm8gcGlwIGluc3RhbGwsIG5vIG5ldHdvcms6IHRoZSBhY3Rpb24gcnVucyB0aGUgdmVuZG9yZWQgc291cmNlIHdpdGgKICAgICMgd2hhdGV2ZXIgcHl0aG9uMyB0aGUgcnVubmVyIGFscmVhZHkgaGFzLiBBIHNlY3VyaXR5IHNjYW5uZXIgdGhhdAogICAgIyBuZWVkcyB0byBkb3dubG9hZCBhIHBhY2thZ2UgYmVmb3JlIGl0IGNhbiB0ZWxsIHlvdSBhIHNjcmlwdCBpcwogICAgIyBseWluZyBoYXMgdGhlIHdyb25nIGRlcGVuZGVuY3kgc3RvcnkuCiAgICAtIG5hbWU6IFNjYW4KICAgICAgaWQ6IHNjYW4KICAgICAgc2hlbGw6IGJhc2gKICAgICAgZW52OgogICAgICAgIElOUFVUX1BBVEhTOiAke3sgaW5wdXRzLnBhdGhzIH19CiAgICAgICAgSU5QVVRfU0VWRVJJVFk6ICR7eyBpbnB1dHMuc2V2ZXJpdHkgfX0KICAgICAgICBJTlBVVF9QUk86ICR7eyBpbnB1dHMucHJvIH19CiAgICAgICAgSU5QVVRfRkFJTE9OOiAke3sgaW5wdXRzLmZhaWwtb24gfX0KICAgICAgICBJTlBVVF9TQVJJRjogJHt7IGlucHV0cy5zYXJpZiB9fQogICAgICAgIElOUFVUX1NBUklGX0ZJTEU6ICR7eyBpbnB1dHMuc2FyaWYtZmlsZSB9fQogICAgICAgIEFDVElPTl9ESVI6ICR7eyBnaXRodWIuYWN0aW9uX3BhdGggfX0KICAgICAgcnVuOiB8CiAgICAgICAgc2V0IC1ldW8gcGlwZWZhaWwKICAgICAgICBQWT0iJHtQWVRIT046LXB5dGhvbjN9IgogICAgICAgIGV4cG9ydCBQWVRIT05QQVRIPSIkQUNUSU9OX0RJUiIKICAgICAgICBmbGFncz0oKQogICAgICAgIFsgIiRJTlBVVF9QUk8iID0gInRydWUiIF0gJiYgZmxhZ3MrPSgiLS1wcm8iKQogICAgICAgIGlmIFsgIiRJTlBVVF9TQVJJRiIgPSAidHJ1ZSIgXTsgdGhlbgogICAgICAgICAgIiRQWSIgLW0gZXZhbGd1YXJkICRJTlBVVF9QQVRIUyBcCiAgICAgICAgICAgIC0tZm9ybWF0IHNhcmlmIC0tc2V2ZXJpdHkgIiRJTlBVVF9TRVZFUklUWSIgIiR7ZmxhZ3NbQF19IiBcCiAgICAgICAgICAgID4gIiRJTlBVVF9TQVJJRl9GSUxFIgogICAgICAgICAgZWNobyAic2FyaWYtZmlsZT0kSU5QVVRfU0FSSUZfRklMRSIgPj4gIiRHSVRIVUJfT1VUUFVUIgogICAgICAgIGZpCiAgICAgICAgIyBIdW1hbi1yZWFkYWJsZSBydW4gZm9yIHRoZSBqb2IgbG9nLiBgLS1zZXZlcml0eSBpbmZvYCBvbiBwdXJwb3NlOgogICAgICAgICMgdGhlIGxvZyBpcyB3aGVyZSB5b3UgbGVhcm4sIHRoZSBnYXRlIGlzIHdoYXQgZmFpbHMgdGhlIGJ1aWxkLgogICAgICAgICIkUFkiIC1tIGV2YWxndWFyZCAkSU5QVVRfUEFUSFMgXAogICAgICAgICAgLS1mb3JtYXQganNvbiAtLXNldmVyaXR5IGluZm8gIiR7ZmxhZ3NbQF19IiA+IF9lZy5qc29uIHx8IHRydWUKICAgICAgICAiJFBZIiAtICIkSU5QVVRfUEFUSFMiICIkSU5QVVRfU0VWRVJJVFkiICIkSU5QVVRfRkFJTE9OIiA8PCdQWUVPRicKICAgICAgICBpbXBvcnQganNvbiwgb3MsIHN5cwogICAgICAgIHBhdGhzLCBzZXYsIGZhaWxvbiA9IHN5cy5hcmd2WzFdLCBzeXMuYXJndlsyXSwgc3lzLmFyZ3ZbM10KICAgICAgICBvcmRlciA9IHsiYmxvY2tlciI6IDAsICJ3YXJuIjogMSwgImluZm8iOiAyfQogICAgICAgIHRyeToKICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZChvcGVuKCJfZWcuanNvbiIpKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcHJpbnQoZiI6Ondhcm5pbmc6OmNvdWxkIG5vdCByZWFkIHNjYW4gb3V0cHV0OiB7ZX0iKQogICAgICAgICAgICBzeXMuZXhpdCgwKQogICAgICAgIGNvdW50cyA9IHsiYmxvY2tlciI6IDAsICJ3YXJuIjogMCwgImluZm8iOiAwfQogICAgICAgIGZvciBfZiwgcm93cyBpbiBkYXRhLml0ZW1zKCk6CiAgICAgICAgICAgIGZvciByIGluIHJvd3Mgb3IgW106CiAgICAgICAgICAgICAgICBpZiByLmdldCgiZWdfaWQiKSA9PSAiRUcwMDAiOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlICAgICAgICAgICMgZ2F0ZSBib29ra2VlcGluZywgbm90IGEgZmluZGluZwogICAgICAgICAgICAgICAgcyA9IHIuZ2V0KCJzZXZlcml0eSIsICJpbmZvIikKICAgICAgICAgICAgICAgIGNvdW50c1tzXSA9IGNvdW50cy5nZXQocywgMCkgKyAxCiAgICAgICAgdG90YWwgPSBzdW0oY291bnRzW3NdIGZvciBzIGluIG9yZGVyIGlmIG9yZGVyW3NdIDw9IG9yZGVyW3Nldl0pCiAgICAgICAgcHJpbnQoZiI6Om5vdGljZTo6ZXZhbGd1YXJkIOKAlCB7Y291bnRzWydibG9ja2VyJ119IGJsb2NrZXIsICIKICAgICAgICAgICAgICBmIntjb3VudHNbJ3dhcm4nXX0gd2Fybiwge2NvdW50c1snaW5mbyddfSBpbmZvIikKICAgICAgICB3aXRoIG9wZW4ob3MuZW52aXJvblsiR0lUSFVCX09VVFBVVCJdLCAiYSIpIGFzIGZoOgogICAgICAgICAgICBmaC53cml0ZShmImJsb2NrZXJzPXtjb3VudHNbJ2Jsb2NrZXInXX1cbiIpCiAgICAgICAgICAgIGZoLndyaXRlKGYid2FybnM9e2NvdW50c1snd2FybiddfVxuIikKICAgICAgICAgICAgZmgud3JpdGUoZiJmaW5kaW5ncz17dG90YWx9XG4iKQogICAgICAgIGlmIGZhaWxvbiAhPSAibm9uZSIgYW5kIGNvdW50cy5nZXQoZmFpbG9uLCAwKToKICAgICAgICAgICAgcHJpbnQoZiI6OmVycm9yOjpldmFsZ3VhcmQgZm91bmQge2NvdW50c1tmYWlsb25dfSB7ZmFpbG9ufS1zZXZlcml0eSAiCiAgICAgICAgICAgICAgICAgICJmaW5kaW5nKHMpIikKICAgICAgICAgICAgc3lzLmV4aXQoMSkKICAgICAgICBQWUVPRgo=
+name: evalguard
+description: >-
+  Catch evaluation code that fails silently — a script that runs to
+  completion, exits 0, prints a confident number, and is wrong.
+author: zhumeiyan
+branding:
+  icon: shield
+  color: purple
+
+inputs:
+  paths:
+    description: Files or directories to scan
+    required: false
+    default: "."
+  severity:
+    description: Minimum severity to report — blocker, warn or info
+    required: false
+    default: warn
+  pro:
+    description: Enable the PRO rule pack (10 additional rules)
+    required: false
+    default: "false"
+  fail-on:
+    description: >-
+      Fail the job at this severity or above. Use "none" to report without
+      failing, which is the right setting while you triage an existing repo.
+    required: false
+    default: blocker
+  sarif:
+    description: >-
+      Write a SARIF 2.1.0 file for upload to GitHub Code Scanning. Findings
+      then appear inline on the pull request diff.
+    required: false
+    default: "true"
+  sarif-file:
+    description: Where to write the SARIF output
+    required: false
+    default: evalguard.sarif
+
+outputs:
+  blockers:
+    description: Number of blocker-severity findings
+    value: ${{ steps.scan.outputs.blockers }}
+  warns:
+    description: Number of warn-severity findings
+    value: ${{ steps.scan.outputs.warns }}
+  findings:
+    description: Total findings at or above the requested severity
+    value: ${{ steps.scan.outputs.findings }}
+  sarif-file:
+    description: Path to the SARIF file, if written
+    value: ${{ steps.scan.outputs.sarif-file }}
+
+runs:
+  using: composite
+  steps:
+    # No pip install, no network: the action runs the vendored source with
+    # whatever python3 the runner already has. A security scanner that
+    # needs to download a package before it can tell you a script is
+    # lying has the wrong dependency story.
+    - name: Scan
+      id: scan
+      shell: bash
+      env:
+        INPUT_PATHS: ${{ inputs.paths }}
+        INPUT_SEVERITY: ${{ inputs.severity }}
+        INPUT_PRO: ${{ inputs.pro }}
+        INPUT_FAILON: ${{ inputs.fail-on }}
+        INPUT_SARIF: ${{ inputs.sarif }}
+        INPUT_SARIF_FILE: ${{ inputs.sarif-file }}
+        ACTION_DIR: ${{ github.action_path }}
+      run: |
+        set -euo pipefail
+        PY="${PYTHON:-python3}"
+        export PYTHONPATH="$ACTION_DIR"
+        flags=()
+        [ "$INPUT_PRO" = "true" ] && flags+=("--pro")
+        if [ "$INPUT_SARIF" = "true" ]; then
+          "$PY" -m evalguard $INPUT_PATHS \
+            --format sarif --severity "$INPUT_SEVERITY" "${flags[@]}" \
+            > "$INPUT_SARIF_FILE"
+          echo "sarif-file=$INPUT_SARIF_FILE" >> "$GITHUB_OUTPUT"
+        fi
+        # Human-readable run for the job log. `--severity info` on purpose:
+        # the log is where you learn, the gate is what fails the build.
+        "$PY" -m evalguard $INPUT_PATHS \
+          --format json --severity info "${flags[@]}" > _eg.json || true
+        "$PY" - "$INPUT_PATHS" "$INPUT_SEVERITY" "$INPUT_FAILON" <<'PYEOF'
+        import json, os, sys
+        paths, sev, failon = sys.argv[1], sys.argv[2], sys.argv[3]
+        order = {"blocker": 0, "warn": 1, "info": 2}
+        try:
+            data = json.load(open("_eg.json"))
+        except Exception as e:
+            print(f"::warning::could not read scan output: {e}")
+            sys.exit(0)
+        counts = {"blocker": 0, "warn": 0, "info": 0}
+        for _f, rows in data.items():
+            for r in rows or []:
+                if r.get("eg_id") == "EG000":
+                    continue          # gate bookkeeping, not a finding
+                s = r.get("severity", "info")
+                counts[s] = counts.get(s, 0) + 1
+        total = sum(counts[s] for s in order if order[s] <= order[sev])
+        print(f"::notice::evalguard — {counts['blocker']} blocker, "
+              f"{counts['warn']} warn, {counts['info']} info")
+        with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+            fh.write(f"blockers={counts['blocker']}\n")
+            fh.write(f"warns={counts['warn']}\n")
+            fh.write(f"findings={total}\n")
+        if failon != "none" and counts.get(failon, 0):
+            print(f"::error::evalguard found {counts[failon]} {failon}-severity "
+                  "finding(s)")
+            sys.exit(1)
+        PYEOF

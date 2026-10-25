@@ -1,1 +1,185 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJleHAyMDdiOiDlubLlh4Dlr7nnhacg4oCU4oCUIOWQjOagt+Wtl+espumihOeul++8jOadpea6kOS4jeWQjO+8iOWFrOWFsee9kee7nCB2cyDnp4HmnInorrDlv4bvvIkiIiIKaW1wb3J0IGpzb24sIG1hdGgsIHJhbmRvbSwgb3MsIHRpbWUKCksgPSAyCkFMUEhBID0gMC4xMApIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClJPT1QgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiCgpkZWYgcmVhZChwKToKICAgIHdpdGggb3BlbihwLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpIGFzIGY6CiAgICAgICAgcmV0dXJuIGYucmVhZCgpCgpkZWYgY2xlYW4ocyk6CiAgICBvdXQgPSBbXQogICAgZm9yIGNoIGluIHM6CiAgICAgICAgaWYgY2guaXNzcGFjZSgpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIG8gPSBvcmQoY2gpCiAgICAgICAgaWYgMHg0ZTAwIDw9IG8gPD0gMHg5ZmZmIG9yIG8gPCAxMjggb3IgY2ggaW4gIu+8jOOAgu+8ge+8n+OAge+8m++8miIiJyfvvIjvvInjgIrjgIvigJTigKbCtyI6CiAgICAgICAgICAgIG91dC5hcHBlbmQoY2gpCiAgICByZXR1cm4gIiIuam9pbihvdXQpCgpjbGFzcyBORzoKICAgIF9fc2xvdHNfXyA9ICgiayIsICJhbHBoYSIsICJjdHgiLCAidG90IikKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBrPUssIGFscGhhPUFMUEhBKToKICAgICAgICBzZWxmLmsgPSBrOyBzZWxmLmFscGhhID0gYWxwaGE7IHNlbGYuY3R4ID0ge307IHNlbGYudG90ID0ge30KICAgIGRlZiB0cmFpbihzZWxmLCBzKToKICAgICAgICBzID0gKCJeIiAqIHNlbGYuaykgKyBzCiAgICAgICAgY3R4LCB0b3QsIGEsIGtrID0gc2VsZi5jdHgsIHNlbGYudG90LCBzZWxmLmFscGhhLCBzZWxmLmsKICAgICAgICBmb3IgaSBpbiByYW5nZShraywgbGVuKHMpKToKICAgICAgICAgICAgYyA9IHNbaSAtIGtrOmldOyBuID0gc1tpXQogICAgICAgICAgICBkID0gY3R4LmdldChjKQogICAgICAgICAgICBpZiBkIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBkID0gY3R4W2NdID0ge307IHRvdFtjXSA9IDAKICAgICAgICAgICAgZFtuXSA9IGQuZ2V0KG4sIDApICsgMTsgdG90W2NdICs9IDEKICAgIGRlZiBwcm9iKHNlbGYsIGN0eCwgY2gsIFYpOgogICAgICAgIGQgPSBzZWxmLmN0eC5nZXQoY3R4KQogICAgICAgIHQgPSBzZWxmLnRvdC5nZXQoY3R4LCAwKSBpZiBkIGlzIG5vdCBOb25lIGVsc2UgMAogICAgICAgIGMgPSBkLmdldChjaCwgMCkgaWYgZCBpcyBub3QgTm9uZSBlbHNlIDAKICAgICAgICByZXR1cm4gKGMgKyBzZWxmLmFscGhhKSAvICh0ICsgc2VsZi5hbHBoYSAqIFYpCgpkZWYgZXZhbF9taXgobW9kZWxzLCB3ZWlnaHRzLCB0ZXN0LCBWLCBrPUspOgogICAgcyA9ICgiXiIgKiBrKSArIHRlc3QKICAgIHRvdCA9IDAuMDsgbiA9IDA7IGhpdCA9IDAKICAgIGZvciBpIGluIHJhbmdlKGssIGxlbihzKSk6CiAgICAgICAgY3R4ID0gc1tpIC0gazppXTsgY2ggPSBzW2ldCiAgICAgICAgcCA9IDAuMDsgYmVzdF9wID0gLTEuMDsgYmVzdF9jaCA9IE5vbmUKICAgICAgICBmb3Igd2ksIG0gaW4gZW51bWVyYXRlKG1vZGVscyk6CiAgICAgICAgICAgIHcgPSB3ZWlnaHRzW3dpXQogICAgICAgICAgICBpZiB3ID09IDAuMDoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGQgPSBtLmN0eC5nZXQoY3R4KTsgdCA9IG0udG90LmdldChjdHgsIDApIGlmIGQgaXMgbm90IE5vbmUgZWxzZSAwCiAgICAgICAgICAgIHByID0gKGQuZ2V0KGNoLCAwKSBpZiBkIGlzIG5vdCBOb25lIGVsc2UgMCkKICAgICAgICAgICAgcCArPSB3ICogKHByICsgbS5hbHBoYSkgLyAodCArIG0uYWxwaGEgKiBWKQogICAgICAgICAgICBpZiBkIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgZm9yIGMyLCBjbnQgaW4gZC5pdGVtcygpOgogICAgICAgICAgICAgICAgICAgIHB2ID0gKGNudCArIG0uYWxwaGEpIC8gKHQgKyBtLmFscGhhICogVikKICAgICAgICAgICAgICAgICAgICBpZiBwdiA+IGJlc3RfcDoKICAgICAgICAgICAgICAgICAgICAgICAgYmVzdF9wID0gcHY7IGJlc3RfY2ggPSBjMgogICAgICAgIHRvdCArPSAtbWF0aC5sb2cyKG1heChwLCAxZS0xMikpOyBuICs9IDEKICAgICAgICBpZiBiZXN0X2NoID09IGNoOgogICAgICAgICAgICBoaXQgKz0gMQogICAgcmV0dXJuIHRvdCAvIG1heChuLCAxKSwgaGl0IC8gbWF4KG4sIDEpCgpkZWYgdG9wMV9vZihtLCBjdHgsIFYpOgogICAgZCA9IG0uY3R4LmdldChjdHgpCiAgICBpZiBkIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHQgPSBtLnRvdC5nZXQoY3R4LCAwKQogICAgYmMgPSBOb25lOyBicCA9IC0xLjAKICAgIGZvciBjLCBjbnQgaW4gZC5pdGVtcygpOgogICAgICAgIHB2ID0gKGNudCArIG0uYWxwaGEpIC8gKHQgKyBtLmFscGhhICogVikKICAgICAgICBpZiBwdiA+IGJwOgogICAgICAgICAgICBicCA9IHB2OyBiYyA9IGMKICAgIHJldHVybiBiYwoKdDAgPSB0aW1lLnRpbWUoKQpQVUIgPSBjbGVhbihyZWFkKG9zLnBhdGguam9pbihST09ULCAiZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCIpKSkKVVNSID0gY2xlYW4ocmVhZChvcy5wYXRoLmpvaW4oUk9PVCwgImV4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0IikpKQpjdXQgPSBpbnQobGVuKFVTUikgKiAwLjgpClBSSVYsIFRFU1QgPSBVU1JbOmN1dF0sIFVTUltjdXQ6XQpWID0gbGVuKHNldChQVUIpIHwgc2V0KFBSSVYpIHwgc2V0KFRFU1QpKQoKTV9QID0gTkcoKTsgTV9QLnRyYWluKFBVQikKYl9wdWIsIGFfcHViID0gZXZhbF9taXgoW01fUF0sIFsxLjBdLCBURVNULCBWKQpNX2Z1bGwgPSBORygpOyBNX2Z1bGwudHJhaW4oUFJJVikKYl9vbmUsIGFfb25lID0gZXZhbF9taXgoW01fUCwgTV9mdWxsXSwgWzAuNSwgMC41XSwgVEVTVCwgVikKcHJpbnQoZiJbYW5jaG9yXSBwdWI9e2JfcHViOi40Zn0gcHViK2Z1bGxwcml2PXtiX29uZTouNGZ9IFY9e1Z9IFRFU1Q9e2xlbihURVNUKX0iLCBmbHVzaD1UcnVlKQoKQlVER0VUID0gbGVuKFBSSVYpCkxBTSA9IDAuNQpvdXQgPSB7ImNvbmZpZyI6IHsiSyI6IEssICJBTFBIQSI6IEFMUEhBLCAiViI6IFYsICJCVURHRVQiOiBCVURHRVQsICJMQU0iOiBMQU0sCiAgICAgICAgICAgICAgICAgICJQVUIiOiBsZW4oUFVCKSwgIlBSSVYiOiBsZW4oUFJJViksICJURVNUIjogbGVuKFRFU1QpLAogICAgICAgICAgICAgICAgICAicHViX2JpdHMiOiBiX3B1YiwgInB1Yl9hY2MiOiBhX3B1YiwKICAgICAgICAgICAgICAgICAgIm9uZV9iaXRzIjogYl9vbmUsICJvbmVfYWNjIjogYV9vbmV9LCAicm93cyI6IFtdfQoKZGVmIG1ha2Vfc2VlZHMoc3JjLCBOLCBybmQpOgogICAgcGFydHMgPSBbXQogICAgaWYgc3JjID09ICJwcml2IjoKICAgICAgICBmb3IgaiBpbiByYW5nZShOKToKICAgICAgICAgICAgcGFydHMuYXBwZW5kKFBSSVZbajo6Tl0pCiAgICBlbHNlOgogICAgICAgIGZvciBqIGluIHJhbmdlKE4pOgogICAgICAgICAgICBzdCA9IHJuZC5yYW5kcmFuZ2UoMCwgbWF4KDEsIGxlbihQVUIpIC0gQlVER0VUKSkKICAgICAgICAgICAgcGFydHMuYXBwZW5kKFBVQltzdDpzdCArIEJVREdFVF0pCiAgICByZXR1cm4gcGFydHMKCmRlZiBkaXZlcmdlbmNlKG1vZGVscywgbm1heD0xNik6CiAgICBpZHhzID0gbGlzdChyYW5nZShsZW4obW9kZWxzKSkpCiAgICBpZiBsZW4oaWR4cykgPiBubWF4OgogICAgICAgIHJhbmRvbS5zaHVmZmxlKGlkeHMpOyBpZHhzID0gaWR4c1s6bm1heF0KICAgIHNjdHggPSBbVEVTVFtpOmkgKyBLXSBmb3IgaSBpbiByYW5nZSgwLCBtaW4obGVuKFRFU1QpIC0gSywgMjAwKSwgMTEpXQogICAgYWdyZWUgPSAwOyBwYWlycyA9IDAKICAgIGZvciBjIGluIHNjdHg6CiAgICAgICAgcHJlZHMgPSBbdG9wMV9vZihtb2RlbHNbaV0sIGMsIFYpIGZvciBpIGluIGlkeHNdCiAgICAgICAgZm9yIHggaW4gcmFuZ2UobGVuKHByZWRzKSk6CiAgICAgICAgICAgIGZvciB5IGluIHJhbmdlKHggKyAxLCBsZW4ocHJlZHMpKToKICAgICAgICAgICAgICAgIHBhaXJzICs9IDEKICAgICAgICAgICAgICAgIGlmIHByZWRzW3hdID09IHByZWRzW3ldOgogICAgICAgICAgICAgICAgICAgIGFncmVlICs9IDEKICAgIHJldHVybiAxIC0gYWdyZWUgLyBtYXgocGFpcnMsIDEpCgpmb3Igc3JjIGluICgicHViIiwgInByaXYiKToKICAgIGZvciBOIGluICgxLCAyLCA0LCA4LCAxNik6CiAgICAgICAgYWNjcyA9IHsid2lubmVyIjogMCwgImVucyI6IDAsICJkaXYiOiAwLCAiY2hhcnNfcGVyX3NlZWQiOiAwLCAibWVhbiI6IDB9CiAgICAgICAgZm9yIHNkIGluICgwLCAxLCAyKToKICAgICAgICAgICAgcm5kID0gcmFuZG9tLlJhbmRvbShzZCkKICAgICAgICAgICAgcGFydHMgPSBtYWtlX3NlZWRzKHNyYywgTiwgcm5kKQogICAgICAgICAgICBtcyA9IFtdCiAgICAgICAgICAgIGZvciBwIGluIHBhcnRzOgogICAgICAgICAgICAgICAgbSA9IE5HKCk7IG0udHJhaW4ocCk7IG1zLmFwcGVuZChtKQogICAgICAgICAgICBiaXRzX2ogPSBbZXZhbF9taXgoW01fUCwgbV0sIFsxIC0gTEFNLCBMQU1dLCBURVNULCBWKVswXSBmb3IgbSBpbiBtc10KICAgICAgICAgICAgYl9lbnMsIF8gPSBldmFsX21peChbTV9QXSArIG1zLCBbMSAtIExBTV0gKyBbTEFNIC8gTl0gKiBOLCBURVNULCBWKQogICAgICAgICAgICByb3cgPSB7InNyYyI6IHNyYywgIk4iOiBOLCAic2VlZCI6IHNkLCAid2lubmVyIjogbWluKGJpdHNfaiksCiAgICAgICAgICAgICAgICAgICAibWVhbiI6IHN1bShiaXRzX2opIC8gTiwgImVucyI6IGJfZW5zLAogICAgICAgICAgICAgICAgICAgInNwcmVhZCI6IG1heChiaXRzX2opIC0gbWluKGJpdHNfaiksCiAgICAgICAgICAgICAgICAgICAiZGl2IjogZGl2ZXJnZW5jZShtcykgaWYgTiA+IDEgZWxzZSAwLjAsCiAgICAgICAgICAgICAgICAgICAiY2hhcnNfcGVyX3NlZWQiOiBzdW0obGVuKHApIGZvciBwIGluIHBhcnRzKSAvIE59CiAgICAgICAgICAgIG91dFsicm93cyJdLmFwcGVuZChyb3cpCiAgICAgICAgICAgIGZvciBrayBpbiBhY2NzOgogICAgICAgICAgICAgICAgYWNjc1tra10gKz0gcm93W2trXQogICAgICAgIHByaW50KGYiW3tzcmN9IE49e046M2R9XSB3aW5uZXI9e2FjY3NbJ3dpbm5lciddLzM6LjRmfSBlbnM9e2FjY3NbJ2VucyddLzM6LjRmfSAiCiAgICAgICAgICAgICAgZiJkaXY9e2FjY3NbJ2RpdiddLzM6LjNmfSBjaGFycz17YWNjc1snY2hhcnNfcGVyX3NlZWQnXS8zOi4wZn0gKHt0aW1lLnRpbWUoKS10MDouMGZ9cykiLCBmbHVzaD1UcnVlKQoKZGVmIHJ1bl93YXIoTiwgZ2Vucywgc2VlZCk6CiAgICBybmQgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICBwYXJ0cyA9IFtQUklWW2o6Ok5dIGZvciBqIGluIHJhbmdlKE4pXQogICAgaGlzdCA9IFtdCiAgICBmb3IgZyBpbiByYW5nZShnZW5zKToKICAgICAgICBtcyA9IFtdCiAgICAgICAgZm9yIHAgaW4gcGFydHM6CiAgICAgICAgICAgIG0gPSBORygpOyBtLnRyYWluKHApOyBtcy5hcHBlbmQobSkKICAgICAgICBiaiA9IFtldmFsX21peChbTV9QLCBtXSwgWzEgLSBMQU0sIExBTV0sIFRFU1QsIFYpWzBdIGZvciBtIGluIG1zXQogICAgICAgIG9yZGVyID0gc29ydGVkKHJhbmdlKE4pLCBrZXk9bGFtYmRhIGk6IGJqW2ldKQogICAgICAgIGtzID0gbWF4KDEsIE4gLy8gNCkKICAgICAgICBzdXJ2LCBkZWFkID0gb3JkZXJbOmtzXSwgb3JkZXJba3M6XQogICAgICAgIGlmIGRlYWQ6CiAgICAgICAgICAgIG1lcmdlZCA9ICIiLmpvaW4ocGFydHNbaV0gZm9yIGkgaW4gZGVhZCkKICAgICAgICAgICAgcGVyID0gbWF4KDEsIGxlbihtZXJnZWQpIC8vIGtzKQogICAgICAgICAgICBmb3IgdCwgaSBpbiBlbnVtZXJhdGUoc3Vydik6CiAgICAgICAgICAgICAgICBwYXJ0c1tpXSA9IHBhcnRzW2ldICsgbWVyZ2VkW3QgKiBwZXI6KHQgKyAxKSAqIHBlcl0KICAgICAgICBuZXcgPSBbcGFydHNbaV0gZm9yIGkgaW4gc3Vydl0KICAgICAgICB3aGlsZSBsZW4obmV3KSA8IE46CiAgICAgICAgICAgIG5ldy5hcHBlbmQocGFydHNbcm5kLmNob2ljZShzdXJ2KV0pCiAgICAgICAgcGFydHMgPSBuZXcKICAgICAgICBtczIgPSBbXQogICAgICAgIGZvciBwIGluIHBhcnRzOgogICAgICAgICAgICBtID0gTkcoKTsgbS50cmFpbihwKTsgbXMyLmFwcGVuZChtKQogICAgICAgIGIyID0gW2V2YWxfbWl4KFtNX1AsIG1dLCBbMSAtIExBTSwgTEFNXSwgVEVTVCwgVilbMF0gZm9yIG0gaW4gbXMyXQogICAgICAgIGhpc3QuYXBwZW5kKHsiZ2VuIjogZywgImJlc3QiOiBtaW4oYjIpLCAibWVhbiI6IHN1bShiMikgLyBOLAogICAgICAgICAgICAgICAgICAgICAidW5pcXVlIjogbGVuKHNldChwYXJ0cykpfSkKICAgIHJldHVybiBoaXN0CgpvdXRbIndhciJdID0ge30KZm9yIHNkIGluICgwLCAxLCAyKToKICAgIGggPSBydW5fd2FyKDE2LCA4LCBzZCkKICAgIG91dFsid2FyIl1bZiJze3NkfSJdID0gaAogICAgcHJpbnQoZiJbd2FyMTYgcz17c2R9XSAiICsgIiAiLmpvaW4oZiJ7eFsnYmVzdCddOi4zZn0iIGZvciB4IGluIGgpCiAgICAgICAgICArIGYiICAgfCBOPTHnm7TmjqXlhajph48gPSB7Yl9vbmU6LjNmfSIsIGZsdXNoPVRydWUpCgp3aXRoIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICJyZXN1bHQyMDdiLmpzb24iKSwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAganNvbi5kdW1wKG91dCwgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKcHJpbnQoZiJbZG9uZV0ge3RpbWUudGltZSgpLXQwOi4wZn1zIikK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""exp207b: 干净对照 —— 同样字符预算，来源不同（公共网络 vs 私有记忆）"""
+import json, math, random, os, time
+
+K = 2
+ALPHA = 0.10
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = "/data/workspace/luoshen-o1"
+
+def read(p):
+    with open(p, encoding="utf-8", errors="ignore") as f:
+        return f.read()
+
+def clean(s):
+    out = []
+    for ch in s:
+        if ch.isspace():
+            continue
+        o = ord(ch)
+        if 0x4e00 <= o <= 0x9fff or o < 128 or ch in "，。！？、；：""''（）《》—…·":
+            out.append(ch)
+    return "".join(out)
+
+class NG:
+    __slots__ = ("k", "alpha", "ctx", "tot")
+    def __init__(self, k=K, alpha=ALPHA):
+        self.k = k; self.alpha = alpha; self.ctx = {}; self.tot = {}
+    def train(self, s):
+        s = ("^" * self.k) + s
+        ctx, tot, a, kk = self.ctx, self.tot, self.alpha, self.k
+        for i in range(kk, len(s)):
+            c = s[i - kk:i]; n = s[i]
+            d = ctx.get(c)
+            if d is None:
+                d = ctx[c] = {}; tot[c] = 0
+            d[n] = d.get(n, 0) + 1; tot[c] += 1
+    def prob(self, ctx, ch, V):
+        d = self.ctx.get(ctx)
+        t = self.tot.get(ctx, 0) if d is not None else 0
+        c = d.get(ch, 0) if d is not None else 0
+        return (c + self.alpha) / (t + self.alpha * V)
+
+def eval_mix(models, weights, test, V, k=K):
+    s = ("^" * k) + test
+    tot = 0.0; n = 0; hit = 0
+    for i in range(k, len(s)):
+        ctx = s[i - k:i]; ch = s[i]
+        p = 0.0; best_p = -1.0; best_ch = None
+        for wi, m in enumerate(models):
+            w = weights[wi]
+            if w == 0.0:
+                continue
+            d = m.ctx.get(ctx); t = m.tot.get(ctx, 0) if d is not None else 0
+            pr = (d.get(ch, 0) if d is not None else 0)
+            p += w * (pr + m.alpha) / (t + m.alpha * V)
+            if d is not None:
+                for c2, cnt in d.items():
+                    pv = (cnt + m.alpha) / (t + m.alpha * V)
+                    if pv > best_p:
+                        best_p = pv; best_ch = c2
+        tot += -math.log2(max(p, 1e-12)); n += 1
+        if best_ch == ch:
+            hit += 1
+    return tot / max(n, 1), hit / max(n, 1)
+
+def top1_of(m, ctx, V):
+    d = m.ctx.get(ctx)
+    if d is None:
+        return None
+    t = m.tot.get(ctx, 0)
+    bc = None; bp = -1.0
+    for c, cnt in d.items():
+        pv = (cnt + m.alpha) / (t + m.alpha * V)
+        if pv > bp:
+            bp = pv; bc = c
+    return bc
+
+t0 = time.time()
+PUB = clean(read(os.path.join(ROOT, "evidence/失败模式库/判据核.md")))
+USR = clean(read(os.path.join(ROOT, "experiments/exp180_record/u_side_full.txt")))
+cut = int(len(USR) * 0.8)
+PRIV, TEST = USR[:cut], USR[cut:]
+V = len(set(PUB) | set(PRIV) | set(TEST))
+
+M_P = NG(); M_P.train(PUB)
+b_pub, a_pub = eval_mix([M_P], [1.0], TEST, V)
+M_full = NG(); M_full.train(PRIV)
+b_one, a_one = eval_mix([M_P, M_full], [0.5, 0.5], TEST, V)
+print(f"[anchor] pub={b_pub:.4f} pub+fullpriv={b_one:.4f} V={V} TEST={len(TEST)}", flush=True)
+
+BUDGET = len(PRIV)
+LAM = 0.5
+out = {"config": {"K": K, "ALPHA": ALPHA, "V": V, "BUDGET": BUDGET, "LAM": LAM,
+                  "PUB": len(PUB), "PRIV": len(PRIV), "TEST": len(TEST),
+                  "pub_bits": b_pub, "pub_acc": a_pub,
+                  "one_bits": b_one, "one_acc": a_one}, "rows": []}
+
+def make_seeds(src, N, rnd):
+    parts = []
+    if src == "priv":
+        for j in range(N):
+            parts.append(PRIV[j::N])
+    else:
+        for j in range(N):
+            st = rnd.randrange(0, max(1, len(PUB) - BUDGET))
+            parts.append(PUB[st:st + BUDGET])
+    return parts
+
+def divergence(models, nmax=16):
+    idxs = list(range(len(models)))
+    if len(idxs) > nmax:
+        random.shuffle(idxs); idxs = idxs[:nmax]
+    sctx = [TEST[i:i + K] for i in range(0, min(len(TEST) - K, 200), 11)]
+    agree = 0; pairs = 0
+    for c in sctx:
+        preds = [top1_of(models[i], c, V) for i in idxs]
+        for x in range(len(preds)):
+            for y in range(x + 1, len(preds)):
+                pairs += 1
+                if preds[x] == preds[y]:
+                    agree += 1
+    return 1 - agree / max(pairs, 1)
+
+for src in ("pub", "priv"):
+    for N in (1, 2, 4, 8, 16):
+        accs = {"winner": 0, "ens": 0, "div": 0, "chars_per_seed": 0, "mean": 0}
+        for sd in (0, 1, 2):
+            rnd = random.Random(sd)
+            parts = make_seeds(src, N, rnd)
+            ms = []
+            for p in parts:
+                m = NG(); m.train(p); ms.append(m)
+            bits_j = [eval_mix([M_P, m], [1 - LAM, LAM], TEST, V)[0] for m in ms]
+            b_ens, _ = eval_mix([M_P] + ms, [1 - LAM] + [LAM / N] * N, TEST, V)
+            row = {"src": src, "N": N, "seed": sd, "winner": min(bits_j),
+                   "mean": sum(bits_j) / N, "ens": b_ens,
+                   "spread": max(bits_j) - min(bits_j),
+                   "div": divergence(ms) if N > 1 else 0.0,
+                   "chars_per_seed": sum(len(p) for p in parts) / N}
+            out["rows"].append(row)
+            for kk in accs:
+                accs[kk] += row[kk]
+        print(f"[{src} N={N:3d}] winner={accs['winner']/3:.4f} ens={accs['ens']/3:.4f} "
+              f"div={accs['div']/3:.3f} chars={accs['chars_per_seed']/3:.0f} ({time.time()-t0:.0f}s)", flush=True)
+
+def run_war(N, gens, seed):
+    rnd = random.Random(seed)
+    parts = [PRIV[j::N] for j in range(N)]
+    hist = []
+    for g in range(gens):
+        ms = []
+        for p in parts:
+            m = NG(); m.train(p); ms.append(m)
+        bj = [eval_mix([M_P, m], [1 - LAM, LAM], TEST, V)[0] for m in ms]
+        order = sorted(range(N), key=lambda i: bj[i])
+        ks = max(1, N // 4)
+        surv, dead = order[:ks], order[ks:]
+        if dead:
+            merged = "".join(parts[i] for i in dead)
+            per = max(1, len(merged) // ks)
+            for t, i in enumerate(surv):
+                parts[i] = parts[i] + merged[t * per:(t + 1) * per]
+        new = [parts[i] for i in surv]
+        while len(new) < N:
+            new.append(parts[rnd.choice(surv)])
+        parts = new
+        ms2 = []
+        for p in parts:
+            m = NG(); m.train(p); ms2.append(m)
+        b2 = [eval_mix([M_P, m], [1 - LAM, LAM], TEST, V)[0] for m in ms2]
+        hist.append({"gen": g, "best": min(b2), "mean": sum(b2) / N,
+                     "unique": len(set(parts))})
+    return hist
+
+out["war"] = {}
+for sd in (0, 1, 2):
+    h = run_war(16, 8, sd)
+    out["war"][f"s{sd}"] = h
+    print(f"[war16 s={sd}] " + " ".join(f"{x['best']:.3f}" for x in h)
+          + f"   | N=1直接全量 = {b_one:.3f}", flush=True)
+
+with open(os.path.join(HERE, "result207b.json"), "w", encoding="utf-8") as f:
+    json.dump(out, f, ensure_ascii=False, indent=1)
+print(f"[done] {time.time()-t0:.0f}s")

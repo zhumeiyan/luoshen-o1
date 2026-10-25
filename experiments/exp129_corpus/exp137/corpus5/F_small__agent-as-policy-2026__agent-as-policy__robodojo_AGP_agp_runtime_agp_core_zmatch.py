@@ -1,1 +1,351 @@
-IiIiSGVpZ2h0IG9mIGEgcGlja2VkIHN1cmZhY2UgcG9pbnQgd2l0aG91dCBkZXB0aDogZXBpcG9sYXIgcGxhbmUgc3dlZXAgYmV0d2VlbiB0d28gY2FsaWJyYXRlZCBSR0Igdmlld3MuCgpOdW1weSBvbmx5LCBzbyBpdCBydW5zIGluIHRoZSBNQ1Agc2VydmVyJ3MgZW52aXJvbm1lbnQgKC52ZW52LWFnZW50OiBudW1weSArIFBJTCwgbm8gT3BlbkNWL3NjaXB5KTogY3YyLnB5ckRvd24sCmN2Mi5Tb2JlbCBhbmQgY3YyLmN2dENvbG9yIGFyZSByZXBsYWNlZCBieSBlcXVpdmFsZW50IG51bXB5IGNvZGUgKGJvcmRlciBCT1JERVJfUkVGTEVDVF8xMDEsIHRoZSBzYW1lIGtlcm5lbHMpLCB3aGljaAphZ3BfY29yZS90ZXN0cy90ZXN0X3JnYl9vbmx5LnB5IGNoZWNrcyBhZ2FpbnN0IE9wZW5DVi4KCk1ldGhvZCAoYSBwaXhlbCBwIHBpY2tlZCBpbiB2aWV3IEEsIG1hdGNoZWQgaW50byB2aWV3IEIpOgogICogU3dlZXAgaGVpZ2h0cyBoIG9mIGEgaG9yaXpvbnRhbCBwbGFuZSB6ID0gaCAoZnJhbWU6IGFuIGFybSBiYXNlLCB0YWJsZSB0b3AgeiA9IDApLiBGb3IgZWFjaCBoLCB0aGUgd2luZG93CiAgICBhcm91bmQgcCBpbiBBIGlzIG1hcHBlZCB0byBCIHRocm91Z2ggdGhlIGhvbW9ncmFwaHkgb2YgdGhhdCBwbGFuZSBhbmQgY29tcGFyZWQgd2l0aCBCIChhbnRpLWFsaWFzZWQ6IHRoZQogICAgZmluZXIgdmlldyBpcyBzYW1wbGVkIGF0IHRoZSBHYXVzc2lhbi1weXJhbWlkIGxldmVsIG9mIHRoZSBsb2NhbCBzY2FsZSkuIFNjb3JlczogWk5DQyBvbiBSR0IgcGx1cyBhCiAgICBncmFkaWVudCBjaGFubmVsLCBvciBjZW5zdXMsIGVhY2ggYXZlcmFnZWQgb3ZlciBzZXZlcmFsIHdpbmRvdyByYWRpaSwgbWludXMgYSBjb2xvdXItZGlmZmVyZW5jZSBwZW5hbHR5LgogICogUGljayB0aGUgYmVzdCBoZWlnaHQgKHBhcmFib2xhIHJlZmluZW1lbnQpLCBpdHMgc2NvcmUgYHBlYWtgIGFuZCB0aGUgYmVzdCBzY29yZSBhdCBsZWFzdCA0IG1tIGF3YXkKICAgIChgc2Vjb25kYCk7IG1hcmdpbiA9IHBlYWsgLSBzZWNvbmQuCiAgKiBUd28td2F5IGNoZWNrOiBwcm9qZWN0IHRoZSBtYXRjaGVkIHBvaW50IGludG8gQiBhbmQgc3dlZXAgYmFjayBhbG9uZyBCJ3MgcmF5IGludG8gQTsgdGhlIHR3byBoZWlnaHRzIG11c3QKICAgIGFncmVlIHdpdGhpbiAzIG1tLgogICogUnVsZSAoImZpcnN0IExSLWNvbnNpc3RlbnQgKHRvbCAzIG1tLCBtYXJnaW4gPj0gLjA1KSBvZiBjZW5zdXMsIHpuY2MiKTogdHJ5IHRoZSBjZW5zdXMKICAgIHZhcmlhbnQsIHRoZW4gdGhlIFpOQ0MgdmFyaWFudDsgdGhlIGZpcnN0IHRoYXQgcGFzc2VzIHRoZSB0d28td2F5IGNoZWNrIGFuZCB0aGUgbWFyZ2luIGdhdGUgZ2l2ZXMgdGhlCiAgICBoZWlnaHQgKCdtYXRjaCcpLiBJZiBub25lIHBhc3NlcywgdGhlIHJlc3VsdCBpcyAndW5jZXJ0YWluJyB3aXRoIHRoZSBiZXN0IGd1ZXNzLgoKQ29udmVudGlvbnM6IHBpeGVsIGluZGljZXMgKHUsIHYpID0gaW1hZ2VbdiwgdV07IGNvbnRpbnVvdXMgaW1hZ2UgY29vcmRpbmF0ZXMgcHV0IHRoZSBjZW50cmUgb2YgcGl4ZWwgdSBhdAp1ICsgMC41ICh0aGUgbW9kdWxlJ3MgcCBhcmd1bWVudHMgYXJlIGNvbnRpbnVvdXMpOyBLIGhhcyB0aGUgcHJpbmNpcGFsIHBvaW50IGluIGNvbnRpbnVvdXMgY29vcmRpbmF0ZXM7ClQgPSBmcmFtZSA8LSBvcHRpY2FsIChST1MvT3BlbkNWIG9wdGljYWwgYXhlcykuCiIiIgppbXBvcnQgbnVtcHkgYXMgbnAKCkhTID0gbnAuYXJhbmdlKC0wLjAwNSwgMC4yMDA1LCAwLjAwMDUpICAgICAgICMgc3dlcHQgcGxhbmUgaGVpZ2h0cyAobSBhYm92ZSB0aGUgdGFibGUsIGFybSBiYXNlIGZyYW1lKQpFWENMVVNJT05fTSA9IDAuMDA0ICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBgc2Vjb25kYCBpcyB0aGUgYmVzdCBzY29yZSBhdCBsZWFzdCB0aGlzIGZhciBmcm9tIHRoZSBwZWFrCkxSX1RPTEVSQU5DRV9NID0gMC4wMDMgICAgICAgICAgICAgICAgICAgICAgICAjIHR3by13YXkgY2hlY2sKTUFSR0lOX0dBVEUgPSAwLjA1ICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgcGVhayAtIHNlY29uZApMUl9CT1JERVJfUFggPSA4ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyB0aGUgYmFjay1wcm9qZWN0ZWQgcG9pbnQgbXVzdCBsaWUgdGhpcyBmYXIgaW5zaWRlIEIKQ0FNRVJBX0NMRUFSQU5DRV9NID0gMC4wMyAgICAgICAgICAgICAgICAgICAgICMgcGxhbmVzIHN0b3AgdGhpcyBmYXIgYmVsb3cgdGhlIGxvd2VyIGNhbWVyYQpWQVJJQU5UUyA9IHsKICAgICMgbmFtZTogc3dlZXAgb3B0aW9ucwogICAgImNlbnN1cyI6IGRpY3QocmFkaWk9KDQsIDcsIDEyKSwgY2Vuc3VzPVRydWUsIGNvbG9yX3Blbj0xLjApLAogICAgInpuY2MiOiBkaWN0KHJhZGlpPSgzLCA2LCAxMiksIHVzZV9ncmFkPVRydWUsIGNvbG9yX3Blbj0yLjApLAp9ClJVTEVfT1JERVIgPSAoImNlbnN1cyIsICJ6bmNjIikKUFlSQU1JRF9MRVZFTFMgPSA2CgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBpbWFnZSBwcmltaXRpdmVzIChudW1weSkKZGVmIF9wYWQxMDEoYSwgcCk6CiAgICByZXR1cm4gbnAucGFkKGEsICgocCwgcCksIChwLCBwKSkgKyAoKDAsIDApLCkgKiAoYS5uZGltIC0gMiksIG1vZGU9InJlZmxlY3QiKQoKCmRlZiBweXJfZG93bihpbWcpOgogICAgIiIiY3YyLnB5ckRvd246IDV4NSBHYXVzc2lhbiBbMSA0IDYgNCAxXV4yLzI1NiwgQk9SREVSX1JFRkxFQ1RfMTAxLCBrZWVwIGV2ZW4gcm93cy9jb2x1bW5zLgoKICAgIGZsb2F0MzIgb3BlcmF0aW9ucyBpbiB0aGUgb3JkZXIgb2YgT3BlbkNWJ3MgdmVjdG9yaXNlZCBwYXRoLCAocy0xICsgczEgKyBzMCkqNCArIChzLTIgKyBzMiArIDIqczApLCBmaXJzdAogICAgYWxvbmcgcm93cyBvbiB0aGUga2VwdCBjb2x1bW5zLCB0aGVuIGFsb25nIGNvbHVtbnMsIHRoZW4gKiAxLzI1Ni4gVGhlIGNvbG91ciBjaGFubmVscyBvZiBsZXZlbHMgMSBhbmQgMiBvZiBhbgogICAgOC1iaXQgaW1hZ2UgY29tZSBvdXQgYml0LWlkZW50aWNhbCB0byBPcGVuQ1Y7IGNvYXJzZXIgbGV2ZWxzIGFuZCB0aGUgZ3JhZGllbnQgY2hhbm5lbCBjYW4gZGlmZmVyIGluIHRoZSBsYXN0CiAgICBiaXQgKE9wZW5DViBtYXkgZnVzZSBtdWx0aXBseS1hZGRzKSwgd2hpY2ggb25seSBtYXR0ZXJzIGZvciBjZW5zdXMgY29tcGFyaXNvbnMgb2YgbmVhcmx5IGVxdWFsIG5laWdoYm91cnMuIiIiCiAgICBpbWcgPSBucC5hc2FycmF5KGltZywgbnAuZmxvYXQzMikKICAgIGgsIHcgPSBpbWcuc2hhcGVbOjJdCiAgICBvaCwgb3cgPSAoaCArIDEpIC8vIDIsICh3ICsgMSkgLy8gMgogICAgcCA9IF9wYWQxMDEoaW1nLCAyKQogICAgZm91ciA9IG5wLmZsb2F0MzIoNC4wKQogICAgYyA9IDIgKyAyICogbnAuYXJhbmdlKG93KSAgICAgICAgICAgICAgICAgICAgICAjIHBhZGRlZCBjb2x1bW4gb2YgZWFjaCBrZXB0IG91dHB1dCBjb2x1bW4KICAgIHMwLCBzMSwgczIsIHMzLCBzNCA9IHBbOiwgYyAtIDJdLCBwWzosIGMgLSAxXSwgcFs6LCBjXSwgcFs6LCBjICsgMV0sIHBbOiwgYyArIDJdCiAgICByb3dzID0gKChzMSArIHMzKSArIHMyKSAqIGZvdXIgKyAoKHMwICsgczQpICsgKHMyICsgczIpKQogICAgciA9IDIgKyAyICogbnAuYXJhbmdlKG9oKQogICAgcjAsIHIxLCByMiwgcjMsIHI0ID0gcm93c1tyIC0gMl0sIHJvd3NbciAtIDFdLCByb3dzW3JdLCByb3dzW3IgKyAxXSwgcm93c1tyICsgMl0KICAgIG91dCA9ICgocjEgKyByMykgKyByMikgKiBmb3VyICsgKChyMCArIHI0KSArIChyMiArIHIyKSkKICAgIHJldHVybiAob3V0ICogbnAuZmxvYXQzMigxLjAgLyAyNTYuMCkpLmFzdHlwZShucC5mbG9hdDMyKQoKCmRlZiBzb2JlbF9tYWduaXR1ZGUoZ3JheSk6CiAgICAiIiJzcXJ0KFNvYmVsX3heMiArIFNvYmVsX3leMikgd2l0aCBjdjIuU29iZWwoa3NpemU9MywgQk9SREVSX1JFRkxFQ1RfMTAxKSBrZXJuZWxzIChyb3cgZmlsdGVyIGZpcnN0KS4iIiIKICAgIGcgPSBfcGFkMTAxKG5wLmFzYXJyYXkoZ3JheSwgbnAuZmxvYXQzMiksIDEpCiAgICBoLCB3ID0gZ3JheS5zaGFwZQogICAgdHdvID0gbnAuZmxvYXQzMigyLjApCiAgICBkeCA9IGdbOiwgMjp3ICsgMl0gLSBnWzosIDA6d10gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyByb3cgZmlsdGVyIFstMSAwIDFdCiAgICBneCA9IChkeFswOmhdICsgZHhbMTpoICsgMV0gKiB0d28pICsgZHhbMjpoICsgMl0gICAgICAgICAgICAgICAgIyBjb2x1bW4gZmlsdGVyIFsxIDIgMV0KICAgIHN4ID0gKGdbOiwgMDp3XSArIGdbOiwgMTp3ICsgMV0gKiB0d28pICsgZ1s6LCAyOncgKyAyXSAgICAgICAgICAjIHJvdyBmaWx0ZXIgWzEgMiAxXQogICAgZ3kgPSBzeFsyOmggKyAyXSAtIHN4WzA6aF0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgY29sdW1uIGZpbHRlciBbLTEgMCAxXQogICAgcmV0dXJuIG5wLnNxcnQoZ3ggKiBneCArIGd5ICogZ3kpLmFzdHlwZShucC5mbG9hdDMyKQoKCmRlZiBmZWF0dXJlcyhpbWcpOgogICAgIiIiUkdCIChmbG9hdDMyKSArIGdyYWRpZW50IG1hZ25pdHVkZSBvZiB0aGUgZ3JleSBpbWFnZSAoY3YyIFJHQjJHUkFZIHdlaWdodHMpLiIiIgogICAgcmdiID0gbnAuYXNhcnJheShpbWcsIG5wLmZsb2F0MzIpCiAgICBncmF5ID0gcmdiWy4uLiwgMF0gKiBucC5mbG9hdDMyKDAuMjk5KSArIHJnYlsuLi4sIDFdICogbnAuZmxvYXQzMigwLjU4NykgKyByZ2JbLi4uLCAyXSAqIG5wLmZsb2F0MzIoMC4xMTQpCiAgICByZXR1cm4gbnAuZHN0YWNrKFtyZ2IsIHNvYmVsX21hZ25pdHVkZShncmF5KVsuLi4sIE5vbmVdXSkKCgpkZWYgcHlyYW1pZChpbWcsIGxldmVscz1QWVJBTUlEX0xFVkVMUyk6CiAgICBwID0gW25wLmFzYXJyYXkoaW1nLCBucC5mbG9hdDMyKV0KICAgIGZvciBfIGluIHJhbmdlKGxldmVscyAtIDEpOgogICAgICAgIHAuYXBwZW5kKHB5cl9kb3duKHBbLTFdKSkKICAgIHJldHVybiBwCgoKZGVmIGJpbGluZWFyKGltZywgeCwgeSk6CiAgICAiIiJpbWcgSHhXeEMgc2FtcGxlZCBhdCBpbmRleCBjb29yZGluYXRlcyB4LCB5IChhcnJheXMpOyByZXR1cm5zICguLi4sIEMpIGFuZCB0aGUgaW4taW1hZ2UgbWFzay4iIiIKICAgIGhoLCB3dyA9IGltZy5zaGFwZVs6Ml0KICAgIHZhbGlkID0gKHggPj0gMCkgJiAoeCA8PSB3dyAtIDEuMDAxKSAmICh5ID49IDApICYgKHkgPD0gaGggLSAxLjAwMSkKICAgIHggPSBucC5jbGlwKHgsIDAsIHd3IC0gMS4wMDEpCiAgICB5ID0gbnAuY2xpcCh5LCAwLCBoaCAtIDEuMDAxKQogICAgeDAgPSBucC5mbG9vcih4KS5hc3R5cGUobnAuaW50MzIpCiAgICB5MCA9IG5wLmZsb29yKHkpLmFzdHlwZShucC5pbnQzMikKICAgIGR4ID0gKHggLSB4MClbLi4uLCBOb25lXQogICAgZHkgPSAoeSAtIHkwKVsuLi4sIE5vbmVdCiAgICBvdXQgPSAoaW1nW3kwLCB4MF0gKiAoMSAtIGR4KSAqICgxIC0gZHkpICsgaW1nW3kwLCB4MCArIDFdICogZHggKiAoMSAtIGR5KQogICAgICAgICAgICsgaW1nW3kwICsgMSwgeDBdICogKDEgLSBkeCkgKiBkeSArIGltZ1t5MCArIDEsIHgwICsgMV0gKiBkeCAqIGR5KQogICAgcmV0dXJuIG91dCwgdmFsaWQKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIGdlb21ldHJ5CmRlZiBwbGFuZV9wb2ludHMoSywgVCwgeHMsIHlzLCBoKToKICAgICIiIkNvbnRpbnVvdXMgcGl4ZWwgY29vcmRpbmF0ZXMgb2YgY2FtZXJhIChLLCBUKSBiYWNrLXByb2plY3RlZCBvbnRvIHogPSBoOyBwb2ludHMgYW5kIGEgbGFtYmRhID4gMCBtYXNrLiIiIgogICAgciA9IG5wLnN0YWNrKFsoeHMgLSBLWzAsIDJdKSAvIEtbMCwgMF0sICh5cyAtIEtbMSwgMl0pIC8gS1sxLCAxXSwgbnAub25lc19saWtlKHhzKV0sIC0xKSBAIFRbOjMsIDozXS5UCiAgICBsYW0gPSAoaCAtIFRbMiwgM10pIC8gclsuLi4sIDJdCiAgICByZXR1cm4gVFs6MywgM10gKyBsYW1bLi4uLCBOb25lXSAqIHIsIGxhbSA+IDAKCgpkZWYgcHJvamVjdChLLCBULCBYKToKICAgICIiIkNvbnRpbnVvdXMgcGl4ZWwgY29vcmRpbmF0ZXMgYW5kIG9wdGljYWwgZGVwdGggb2YgcG9pbnRzIFggKGZyYW1lIG9mIFQpLiIiIgogICAgeGMgPSAoWCAtIFRbOjMsIDNdKSBAIFRbOjMsIDozXQogICAgeiA9IHhjWy4uLiwgMl0KICAgIHdpdGggbnAuZXJyc3RhdGUoZGl2aWRlPSJpZ25vcmUiLCBpbnZhbGlkPSJpZ25vcmUiKToKICAgICAgICB4ID0geGNbLi4uLCAwXSAvIHogKiBLWzAsIDBdICsgS1swLCAyXQogICAgICAgIHkgPSB4Y1suLi4sIDFdIC8geiAqIEtbMSwgMV0gKyBLWzEsIDJdCiAgICByZXR1cm4geCwgeSwgegoKCmRlZiByYXlfcG9pbnQoSywgVCwgcCwgaCk6CiAgICAiIiJQb2ludCB3aGVyZSB0aGUgcmF5IHRocm91Z2ggY29udGludW91cyBwaXhlbCBwIG1lZXRzIHogPSBoLiIiIgogICAgciA9IFRbOjMsIDozXSBAIG5wLmFycmF5KFsocFswXSAtIEtbMCwgMl0pIC8gS1swLCAwXSwgKHBbMV0gLSBLWzEsIDJdKSAvIEtbMSwgMV0sIDEuMF0pCiAgICByZXR1cm4gVFs6MywgM10gKyAoaCAtIFRbMiwgM10pIC8gclsyXSAqIHIKCgpjbGFzcyBWaWV3OgogICAgIiIiT25lIGNhbGlicmF0ZWQgaW1hZ2U6IEssIFQgKGZyYW1lIDwtIG9wdGljYWwpLCBmZWF0dXJlIHB5cmFtaWQgYW5kIGFuIG9wdGlvbmFsIGlnbm9yZSBtYXNrIChIeFcgYm9vbCkuIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGltZywgSywgVCwgbWFzaz1Ob25lLCBsZXZlbHM9UFlSQU1JRF9MRVZFTFMpOgogICAgICAgIHNlbGYuSyA9IG5wLmFzYXJyYXkoSywgZmxvYXQpCiAgICAgICAgc2VsZi5UID0gbnAuYXNhcnJheShULCBmbG9hdCkKICAgICAgICBzZWxmLnB5ciA9IHB5cmFtaWQoZmVhdHVyZXMoaW1nKSwgbGV2ZWxzKQogICAgICAgIHNlbGYubWFzayA9IE5vbmUgaWYgbWFzayBpcyBOb25lIGVsc2UgbnAuYXNhcnJheShtYXNrLCBib29sKQogICAgICAgIHNlbGYuc2hhcGUgPSBzZWxmLnB5clswXS5zaGFwZVs6Ml0KCgpkZWYgbG9jYWxfc2NhbGUoQSwgQiwgcCwgaCk6CiAgICAiIiJCIHBpeGVscyBwZXIgQSBwaXhlbCBhdCB0aGUgcGxhbmUgcG9pbnQgdW5kZXIgQSdzIHBpeGVsIHAgKGNvbnRpbnVvdXMgY29vcmRpbmF0ZXMpLiIiIgogICAgeHMgPSBucC5hcnJheShbcFswXSwgcFswXSArIDEsIHBbMF1dKQogICAgeXMgPSBucC5hcnJheShbcFsxXSwgcFsxXSwgcFsxXSArIDFdKQogICAgWCwgb2sgPSBwbGFuZV9wb2ludHMoQS5LLCBBLlQsIHhzLCB5cywgaCkKICAgIHgsIHksIHogPSBwcm9qZWN0KEIuSywgQi5ULCBYKQogICAgSiA9IG5wLmFycmF5KFtbeFsxXSAtIHhbMF0sIHhbMl0gLSB4WzBdXSwgW3lbMV0gLSB5WzBdLCB5WzJdIC0geVswXV1dKQogICAgcmV0dXJuIGZsb2F0KG5wLnNxcnQoYWJzKG5wLmxpbmFsZy5kZXQoSikpKSksIGJvb2wob2suYWxsKCkgYW5kICh6ID4gMC4wMikuYWxsKCkpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBzY29yZXMgKHZlY3RvcmlzZWQgb3ZlciBoZWlnaHRzKQpkZWYgX3puY2MoYSwgYiwgdyk6CiAgICAiIiJhLCBiIChuLCBOLCBDKSwgdyAobiwgTik6IHdlaWdodGVkIFpOQ0Mgb3ZlciBhbGwgY2hhbm5lbHMgam9pbnRseSAocGVyLWNoYW5uZWwgbWVhbnMgcmVtb3ZlZCkuIiIiCiAgICBzdyA9IHcuc3VtKDEpCiAgICBzYWZlID0gbnAud2hlcmUoc3cgPiAwLCBzdywgMS4wKQogICAgbWEgPSAoYSAqIHdbLi4uLCBOb25lXSkuc3VtKDEpIC8gc2FmZVs6LCBOb25lXQogICAgbWIgPSAoYiAqIHdbLi4uLCBOb25lXSkuc3VtKDEpIC8gc2FmZVs6LCBOb25lXQogICAgYSA9IGEgLSBtYVs6LCBOb25lLCA6XQogICAgYiA9IGIgLSBtYls6LCBOb25lLCA6XQogICAgbnVtID0gKHdbLi4uLCBOb25lXSAqIGEgKiBiKS5zdW0oKDEsIDIpKQogICAgZGVuID0gbnAuc3FydCgod1suLi4sIE5vbmVdICogYSAqIGEpLnN1bSgoMSwgMikpICogKHdbLi4uLCBOb25lXSAqIGIgKiBiKS5zdW0oKDEsIDIpKSkKICAgIG91dCA9IG5wLndoZXJlKGRlbiA8IDFlLTYsIC0xLjAsIG51bSAvIG5wLndoZXJlKGRlbiA8IDFlLTYsIDEuMCwgZGVuKSkKICAgIHJldHVybiBucC53aGVyZShzdyA8PSAwLCAtMS4wLCBvdXQpCgoKZGVmIF9jZW5zdXMoYSwgYiwgdywgcmFkPTIpOgogICAgIiIiYSwgYiAobiwgUywgUywgMyksIHcgKG4sIFMsIFMpOiAxIC0gd2VpZ2h0ZWQgbWVhbiBub3JtYWxpc2VkIEhhbW1pbmcgZGlzdGFuY2Ugb2YgY2Vuc3VzIHNpZ25hdHVyZXMuIiIiCiAgICBnYSA9IGEubWVhbigtMSkKICAgIGdiID0gYi5tZWFuKC0xKQogICAgcyA9IGdhLnNoYXBlWzFdCiAgICBpZiBzIDw9IDIgKiByYWQgKyAxOgogICAgICAgIHJldHVybiBucC5mdWxsKGdhLnNoYXBlWzBdLCBucC5uYW4pCiAgICBjID0gc2xpY2UocmFkLCBzIC0gcmFkKQogICAgaGFtID0gbnAuemVyb3MoKGdhLnNoYXBlWzBdLCBzIC0gMiAqIHJhZCwgcyAtIDIgKiByYWQpKQogICAgYml0cyA9IDAKICAgIGZvciBkeSBpbiByYW5nZSgtcmFkLCByYWQgKyAxKToKICAgICAgICBmb3IgZHggaW4gcmFuZ2UoLXJhZCwgcmFkICsgMSk6CiAgICAgICAgICAgIGlmIGR4ID09IDAgYW5kIGR5ID09IDA6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBzYSA9IGdhWzosIHJhZCArIGR5OnMgLSByYWQgKyBkeSwgcmFkICsgZHg6cyAtIHJhZCArIGR4XSA+IGdhWzosIGMsIGNdCiAgICAgICAgICAgIHNiID0gZ2JbOiwgcmFkICsgZHk6cyAtIHJhZCArIGR5LCByYWQgKyBkeDpzIC0gcmFkICsgZHhdID4gZ2JbOiwgYywgY10KICAgICAgICAgICAgaGFtICs9IHNhICE9IHNiCiAgICAgICAgICAgIGJpdHMgKz0gMQogICAgd3cgPSB3WzosIGMsIGNdCiAgICB0b3RhbCA9IHd3LnN1bSgoMSwgMikpCiAgICB3aXRoIG5wLmVycnN0YXRlKGRpdmlkZT0iaWdub3JlIiwgaW52YWxpZD0iaWdub3JlIik6CiAgICAgICAgb3V0ID0gMS4wIC0gKHd3ICogaGFtKS5zdW0oKDEsIDIpKSAvICh0b3RhbCAqIGJpdHMpCiAgICByZXR1cm4gbnAud2hlcmUodG90YWwgPiAwLCBvdXQsIG5wLm5hbikKCgpkZWYgc3dlZXAoQSwgQiwgcCwgaHMsIHJhZGlpPSgzLCA2LCAxMiksIGNvbG9yX3NpZ21hPU5vbmUsIHVzZV9ncmFkPVRydWUsIG1pbl92YWxpZD0wLjgsIGNvbG9yX3Blbj0wLjAsCiAgICAgICAgICBjZW5zdXM9RmFsc2UpOgogICAgIiIiU2NvcmVzIChsZW4oaHMpLCBsZW4ocmFkaWkpKSBmb3IgY29udGludW91cyBwaXhlbCBwIG9mIEEgbWF0Y2hlZCBpbnRvIEI7IE5hTiB3aGVyZSBpbnZhbGlkLiIiIgogICAgaHMgPSBucC5hc2FycmF5KGhzLCBmbG9hdCkKICAgIHJtYXggPSBtYXgocmFkaWkpCiAgICBneSwgZ3ggPSBucC5tZ3JpZFstcm1heDpybWF4ICsgMSwgLXJtYXg6cm1heCArIDFdLmFzdHlwZShucC5mbG9hdDY0KQogICAgb3V0ID0gbnAuZnVsbCgobGVuKGhzKSwgbGVuKHJhZGlpKSksIG5wLm5hbikKICAgIGNoYW5zID0gWzAsIDEsIDIsIDNdIGlmIHVzZV9ncmFkIGVsc2UgWzAsIDEsIDJdCiAgICB0ZW1wbGF0ZXMgPSB7fSAgICAgICAgICAgICAgICAgICAgICMgKHJvdW5kKHN0ZXBBLCAyKSwgTEEpIC0+IHRlbXBsYXRlIG9mIHRoZSBmaXJzdCBoZWlnaHQgd2l0aCB0aGF0IGtleQogICAgZ3JvdXBzID0ge30gICAgICAgICAgICAgICAgICAgICAgICAjICh0ZW1wbGF0ZSBrZXksIExCKSAtPiBoZWlnaHQgaW5kaWNlcwogICAgZm9yIGksIGggaW4gZW51bWVyYXRlKGhzKToKICAgICAgICBzLCBvayA9IGxvY2FsX3NjYWxlKEEsIEIsIHAsIGgpCiAgICAgICAgaWYgbm90IG9rIG9yIG5vdCBucC5pc2Zpbml0ZShzKSBvciBzIDw9IDA6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgcyA+PSAxOgogICAgICAgICAgICBzdGVwLCBsYSA9IDEuMCwgMAogICAgICAgICAgICBsYiA9IGludChucC5jbGlwKG5wLmZsb29yKG5wLmxvZzIocykgKyAwLjI1KSwgMCwgbGVuKEIucHlyKSAtIDEpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHN0ZXAgPSAxLjAgLyBzCiAgICAgICAgICAgIGxhID0gaW50KG5wLmNsaXAobnAuZmxvb3IobnAubG9nMihzdGVwKSArIDAuMjUpLCAwLCBsZW4oQS5weXIpIC0gMSkpCiAgICAgICAgICAgIGxiID0gMAogICAgICAgIGtleSA9IChyb3VuZChzdGVwLCAyKSwgbGEpCiAgICAgICAgaWYga2V5IG5vdCBpbiB0ZW1wbGF0ZXM6CiAgICAgICAgICAgIHhhID0gcFswXSArIGd4ICogc3RlcAogICAgICAgICAgICB5YSA9IHBbMV0gKyBneSAqIHN0ZXAKICAgICAgICAgICAgdGEsIHZhID0gYmlsaW5lYXIoQS5weXJbbGFdLCAoeGEgLSAwLjUpIC8gMiAqKiBsYSwgKHlhIC0gMC41KSAvIDIgKiogbGEpCiAgICAgICAgICAgIHRlbXBsYXRlc1trZXldID0gKHhhLCB5YSwgdGFbLi4uLCBjaGFuc10sIHZhKQogICAgICAgIGdyb3Vwcy5zZXRkZWZhdWx0KChrZXksIGxiKSwgW10pLmFwcGVuZChpKQogICAgd2VpZ2h0cyA9IHt9CiAgICBmb3IgciBpbiByYWRpaToKICAgICAgICBzbCA9IHNsaWNlKHJtYXggLSByLCBybWF4ICsgciArIDEpCiAgICAgICAgd2VpZ2h0c1tyXSA9IG5wLmV4cCgtKGd4W3NsLCBzbF0gKiogMiArIGd5W3NsLCBzbF0gKiogMikgLyAoMiAqIChyIC8gMi4wKSAqKiAyKSkKICAgIGZvciAoa2V5LCBsYiksIGluZGV4IGluIGdyb3Vwcy5pdGVtcygpOgogICAgICAgIGluZGV4ID0gbnAuYXNhcnJheShpbmRleCkKICAgICAgICB4YSwgeWEsIHRhLCB2YSA9IHRlbXBsYXRlc1trZXldCiAgICAgICAgaCA9IGhzW2luZGV4XVs6LCBOb25lLCBOb25lXQogICAgICAgIFgsIG9rcCA9IHBsYW5lX3BvaW50cyhBLkssIEEuVCwgeGFbTm9uZV0sIHlhW05vbmVdLCBoKQogICAgICAgIHhiLCB5YiwgemIgPSBwcm9qZWN0KEIuSywgQi5ULCBYKQogICAgICAgIHRiLCB2YiA9IGJpbGluZWFyKEIucHlyW2xiXSwgKHhiIC0gMC41KSAvIDIgKiogbGIsICh5YiAtIDAuNSkgLyAyICoqIGxiKQogICAgICAgIHRiID0gdGJbLi4uLCBjaGFuc10KICAgICAgICB2YWxpZCA9IHZhW05vbmVdICYgdmIgJiBva3AgJiAoemIgPiAwLjAyKQogICAgICAgIGlmIEIubWFzayBpcyBub3QgTm9uZToKICAgICAgICAgICAgeGkgPSBucC5jbGlwKHhiLmFzdHlwZShpbnQpLCAwLCBCLm1hc2suc2hhcGVbMV0gLSAxKQogICAgICAgICAgICB5aSA9IG5wLmNsaXAoeWIuYXN0eXBlKGludCksIDAsIEIubWFzay5zaGFwZVswXSAtIDEpCiAgICAgICAgICAgIHZhbGlkICY9IH5CLm1hc2tbeWksIHhpXQogICAgICAgIG4gPSBsZW4oaW5kZXgpCiAgICAgICAgZm9yIGssIHIgaW4gZW51bWVyYXRlKHJhZGlpKToKICAgICAgICAgICAgc2wgPSBzbGljZShybWF4IC0gciwgcm1heCArIHIgKyAxKQogICAgICAgICAgICB3MCA9IHdlaWdodHNbcl0KICAgICAgICAgICAgaWYgY29sb3Jfc2lnbWE6CiAgICAgICAgICAgICAgICBjMCA9IHRhW3JtYXgsIHJtYXgsIDozXQogICAgICAgICAgICAgICAgdzAgPSB3MCAqIG5wLmV4cCgtbnAubGluYWxnLm5vcm0odGFbc2wsIHNsLCA6M10gLSBjMCwgYXhpcz0tMSkgLyBjb2xvcl9zaWdtYSkKICAgICAgICAgICAgdnYgPSB2YWxpZFs6LCBzbCwgc2xdCiAgICAgICAgICAgIGVub3VnaCA9ICh3MFtOb25lXSAqIHZ2KS5zdW0oKDEsIDIpKSA+PSBtaW5fdmFsaWQgKiB3MC5zdW0oKQogICAgICAgICAgICBpZiBub3QgZW5vdWdoLmFueSgpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgdyA9ICh3MFtOb25lXSAqIHZ2KS5yZXNoYXBlKG4sIC0xKQogICAgICAgICAgICBhID0gbnAuYnJvYWRjYXN0X3RvKHRhW3NsLCBzbF0sIChuLCkgKyB0YVtzbCwgc2xdLnNoYXBlKS5yZXNoYXBlKG4sIC0xLCB0YS5zaGFwZVstMV0pCiAgICAgICAgICAgIGIgPSB0Yls6LCBzbCwgc2xdLnJlc2hhcGUobiwgLTEsIHRiLnNoYXBlWy0xXSkKICAgICAgICAgICAgaWYgY2Vuc3VzOgogICAgICAgICAgICAgICAgc2l6ZSA9IDIgKiByICsgMQogICAgICAgICAgICAgICAgc2MgPSBfY2Vuc3VzKGFbLi4uLCA6M10ucmVzaGFwZShuLCBzaXplLCBzaXplLCAzKSwgYlsuLi4sIDozXS5yZXNoYXBlKG4sIHNpemUsIHNpemUsIDMpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHcucmVzaGFwZShuLCBzaXplLCBzaXplKSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNjID0gX3puY2MoYVsuLi4sIDozXSwgYlsuLi4sIDozXSwgdykKICAgICAgICAgICAgICAgIGlmIHVzZV9ncmFkOgogICAgICAgICAgICAgICAgICAgIHNjID0gMC41ICogKHNjICsgX3puY2MoYVsuLi4sIDM6NF0sIGJbLi4uLCAzOjRdLCB3KSkKICAgICAgICAgICAgaWYgY29sb3JfcGVuOgogICAgICAgICAgICAgICAgd2l0aCBucC5lcnJzdGF0ZShkaXZpZGU9Imlnbm9yZSIsIGludmFsaWQ9Imlnbm9yZSIpOiAgICAgIyByb3dzIHdpdGhvdXQgd2VpZ2h0IGFyZSBkcm9wcGVkIGJlbG93CiAgICAgICAgICAgICAgICAgICAgc2MgPSBzYyAtIGNvbG9yX3BlbiAqICgod1suLi4sIE5vbmVdICogbnAuYWJzKGFbLi4uLCA6M10gLSBiWy4uLiwgOjNdKSkuc3VtKCgxLCAyKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8gKDMgKiB3LnN1bSgxKSAqIDI1NS4wKSkKICAgICAgICAgICAgb3V0W2luZGV4W2Vub3VnaF0sIGtdID0gc2NbZW5vdWdoXQogICAgcmV0dXJuIG91dAoKCmRlZiBwaWNrKGhzLCBzY29yZSwgZXhjbD1FWENMVVNJT05fTSk6CiAgICAiIiJCZXN0IGhlaWdodCAocGFyYWJvbGEgcmVmaW5lbWVudCksIGl0cyBzY29yZSBhbmQgdGhlIGJlc3Qgc2NvcmUgYXQgbGVhc3QgYGV4Y2xgIGF3YXkuIiIiCiAgICBzID0gbnAud2hlcmUobnAuaXNmaW5pdGUoc2NvcmUpLCBzY29yZSwgLTIuMCkKICAgIGlmIChzIDw9IC0yKS5hbGwoKToKICAgICAgICByZXR1cm4gTm9uZQogICAgaSA9IGludChucC5hcmdtYXgocykpCiAgICBiZXN0ID0gaHNbaV0KICAgIGlmIDAgPCBpIDwgbGVuKGhzKSAtIDEgYW5kIHNbaSAtIDFdID4gLTIgYW5kIHNbaSArIDFdID4gLTI6CiAgICAgICAgZGVuID0gc1tpIC0gMV0gLSAyICogc1tpXSArIHNbaSArIDFdCiAgICAgICAgaWYgZGVuIDwgMDoKICAgICAgICAgICAgYmVzdCA9IGhzW2ldICsgMC41ICogKHNbaSAtIDFdIC0gc1tpICsgMV0pIC8gZGVuICogKGhzWzFdIC0gaHNbMF0pCiAgICBmYXIgPSBzW25wLmFicyhocyAtIGhzW2ldKSA+PSBleGNsXQogICAgc2Vjb25kID0gZmxvYXQoZmFyLm1heCgpKSBpZiBmYXIuc2l6ZSBlbHNlIC0yLjAKICAgIHJldHVybiB7ImgiOiBmbG9hdChiZXN0KSwgInBlYWsiOiBmbG9hdChzW2ldKSwgInNlY29uZCI6IHNlY29uZH0KCgpkZWYgY3VydmUoQSwgQiwgcCwgaHM9SFMsICoqb3B0aW9ucyk6CiAgICAiIiJNZWFuIHNjb3JlIG92ZXIgdGhlIHJhZGlpIGZvciBlYWNoIGhlaWdodCBiZWxvdyBib3RoIGNhbWVyYXMgKE5hTiBhYm92ZSkuIiIiCiAgICB6bWF4ID0gbWluKEEuVFsyLCAzXSwgQi5UWzIsIDNdKSAtIENBTUVSQV9DTEVBUkFOQ0VfTQogICAgb2sgPSBocyA8IHptYXgKICAgIHNjID0gbnAuZnVsbCgobGVuKGhzKSwgbGVuKG9wdGlvbnMuZ2V0KCJyYWRpaSIsICgxLCkpKSksIG5wLm5hbikKICAgIGlmIG9rLmFueSgpOgogICAgICAgIHNjW29rXSA9IHN3ZWVwKEEsIEIsIHAsIGhzW29rXSwgKipvcHRpb25zKQogICAgaWYgc2Muc2hhcGVbMV0gPT0gMToKICAgICAgICByZXR1cm4gc2NbOiwgMF0KICAgIHdpdGggbnAuZXJyc3RhdGUoYWxsPSJpZ25vcmUiKToKICAgICAgICB2YWxpZCA9IG5wLmlzZmluaXRlKHNjKQogICAgICAgIGNvdW50ID0gdmFsaWQuc3VtKDEpCiAgICAgICAgbWVhbiA9IG5wLndoZXJlKHZhbGlkLCBzYywgMC4wKS5zdW0oMSkgLyBucC53aGVyZShjb3VudCA+IDAsIGNvdW50LCAxKQogICAgcmV0dXJuIG5wLndoZXJlKGNvdW50ID4gMCwgbWVhbiwgbnAubmFuKQoKCmRlZiBiYWNrX3BvaW50KEEsIEIsIHAsIGgpOgogICAgIiIiVGhlIG1hdGNoZWQgcG9pbnQncyBjb250aW51b3VzIHBpeGVsIGluIEIsIG9yIE5vbmUgaWYgYmVoaW5kIEIgb3Igd2l0aGluIExSX0JPUkRFUl9QWCBvZiBpdHMgYm9yZGVyLiIiIgogICAgWCA9IHJheV9wb2ludChBLkssIEEuVCwgcCwgaCkKICAgIHgsIHksIHogPSBwcm9qZWN0KEIuSywgQi5ULCBYW05vbmVdKQogICAgaWYgbm90IHpbMF0gPiAwLjAyOgogICAgICAgIHJldHVybiBOb25lCiAgICBoYiwgd2IgPSBCLnNoYXBlCiAgICBwYiA9IChmbG9hdCh4WzBdKSwgZmxvYXQoeVswXSkpCiAgICBpZiBub3QgKExSX0JPUkRFUl9QWCA8PSBwYlswXSA8IHdiIC0gTFJfQk9SREVSX1BYIGFuZCBMUl9CT1JERVJfUFggPD0gcGJbMV0gPCBoYiAtIExSX0JPUkRFUl9QWCk6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHJldHVybiBwYgoKCmRlZiBscl9jaGVjayhBLCBCLCBwLCBoLCBvcHRpb25zLCBocz1IUyk6CiAgICAiIiJIZWlnaHQgZm91bmQgYnkgc3dlZXBpbmcgYmFjayBmcm9tIHRoZSBtYXRjaGVkIHBvaW50IGluIEIgYWxvbmcgQidzIHJheSBpbnRvIEEgKE5vbmUgaWYgbm90IHBvc3NpYmxlKS4iIiIKICAgIHBiID0gYmFja19wb2ludChBLCBCLCBwLCBoKQogICAgaWYgcGIgaXMgTm9uZToKICAgICAgICByZXR1cm4gTm9uZQogICAgcGsgPSBwaWNrKGhzLCBjdXJ2ZShCLCBBLCBwYiwgaHMsICoqb3B0aW9ucykpCiAgICByZXR1cm4gTm9uZSBpZiBwayBpcyBOb25lIGVsc2UgcGtbImgiXQoKCmRlZiBtYXRjaF9oZWlnaHQoQSwgQiwgcCwgaHM9SFMsIG9yZGVyPVJVTEVfT1JERVIpOgogICAgIiIiVGhlIG1hdGNoaW5nIHJ1bGUgKG1vZHVsZSBkb2NzdHJpbmcpIGZvciBwaXhlbCBwIChjb250aW51b3VzKSBvZiBBIG1hdGNoZWQgaW50byBCLgoKICAgIFJldHVybnMgeydzdGF0dXMnOiAnbWF0Y2gnIHwgJ3VuY2VydGFpbicgfCAnbm9uZScsICdoJywgJ3ZhcmlhbnQnLCAncGVhaycsICdzZWNvbmQnLCAnbWFyZ2luJywgJ2xyX2gnLAogICAgJ3ZhcmlhbnRzJzoge25hbWU6IC4uLn19LiAnbm9uZSc6IG5vIGhlaWdodCBoYWQgYSB2YWxpZCBzY29yZSAodGhlIHBvaW50IGlzIG91dHNpZGUgQiwgaGlkZGVuIGJ5IHRoZSBtYXNrCiAgICBvciBiZWhpbmQgYSBjYW1lcmEpLiIiIgogICAgdHJpZWQgPSB7fQogICAgZm9yIG5hbWUgaW4gb3JkZXI6CiAgICAgICAgb3B0aW9ucyA9IFZBUklBTlRTW25hbWVdCiAgICAgICAgcGsgPSBwaWNrKGhzLCBjdXJ2ZShBLCBCLCBwLCBocywgKipvcHRpb25zKSkKICAgICAgICBpZiBwayBpcyBOb25lOgogICAgICAgICAgICB0cmllZFtuYW1lXSA9IE5vbmUKICAgICAgICAgICAgY29udGludWUKICAgICAgICBwa1sibWFyZ2luIl0gPSBwa1sicGVhayJdIC0gcGtbInNlY29uZCJdCiAgICAgICAgcGtbImxyX2giXSA9IGxyX2NoZWNrKEEsIEIsIHAsIHBrWyJoIl0sIG9wdGlvbnMsIGhzKQogICAgICAgIHBrWyJjb25zaXN0ZW50Il0gPSBwa1sibHJfaCJdIGlzIG5vdCBOb25lIGFuZCBhYnMocGtbImxyX2giXSAtIHBrWyJoIl0pIDw9IExSX1RPTEVSQU5DRV9NCiAgICAgICAgcGtbInBhc3NlZCJdID0gYm9vbChwa1siY29uc2lzdGVudCJdIGFuZCBwa1sibWFyZ2luIl0gPj0gTUFSR0lOX0dBVEUpCiAgICAgICAgdHJpZWRbbmFtZV0gPSBwawogICAgICAgIGlmIHBrWyJwYXNzZWQiXToKICAgICAgICAgICAgcmV0dXJuIGRpY3QocGssIHN0YXR1cz0ibWF0Y2giLCB2YXJpYW50PW5hbWUsIHZhcmlhbnRzPXRyaWVkKQogICAgZm91bmQgPSBbKG5hbWUsIHBrKSBmb3IgbmFtZSwgcGsgaW4gdHJpZWQuaXRlbXMoKSBpZiBwayBpcyBub3QgTm9uZV0KICAgIGlmIG5vdCBmb3VuZDoKICAgICAgICByZXR1cm4geyJzdGF0dXMiOiAibm9uZSIsICJoIjogTm9uZSwgInZhcmlhbnQiOiBOb25lLCAidmFyaWFudHMiOiB0cmllZH0KICAgICMgQmVzdCBndWVzczogdGhlIHZhcmlhbnQgd2hvc2UgdHdvLXdheSBoZWlnaHQgYWdyZWVzIGJlc3QsIGVsc2UgdGhlIGxhcmdlc3QgbWFyZ2luLgogICAgZGVmIHF1YWxpdHkoaXRlbSk6CiAgICAgICAgcGsgPSBpdGVtWzFdCiAgICAgICAgZGlzYWdyZWVtZW50ID0gYWJzKHBrWyJscl9oIl0gLSBwa1siaCJdKSBpZiBwa1sibHJfaCJdIGlzIG5vdCBOb25lIGVsc2UgbnAuaW5mCiAgICAgICAgcmV0dXJuIChkaXNhZ3JlZW1lbnQsIC1wa1sibWFyZ2luIl0pCiAgICBuYW1lLCBwayA9IG1pbihmb3VuZCwga2V5PXF1YWxpdHkpCiAgICByZXR1cm4gZGljdChwaywgc3RhdHVzPSJ1bmNlcnRhaW4iLCB2YXJpYW50PW5hbWUsIHZhcmlhbnRzPXRyaWVkKQo=
+"""Height of a picked surface point without depth: epipolar plane sweep between two calibrated RGB views.
+
+Numpy only, so it runs in the MCP server's environment (.venv-agent: numpy + PIL, no OpenCV/scipy): cv2.pyrDown,
+cv2.Sobel and cv2.cvtColor are replaced by equivalent numpy code (border BORDER_REFLECT_101, the same kernels), which
+agp_core/tests/test_rgb_only.py checks against OpenCV.
+
+Method (a pixel p picked in view A, matched into view B):
+  * Sweep heights h of a horizontal plane z = h (frame: an arm base, table top z = 0). For each h, the window
+    around p in A is mapped to B through the homography of that plane and compared with B (anti-aliased: the
+    finer view is sampled at the Gaussian-pyramid level of the local scale). Scores: ZNCC on RGB plus a
+    gradient channel, or census, each averaged over several window radii, minus a colour-difference penalty.
+  * Pick the best height (parabola refinement), its score `peak` and the best score at least 4 mm away
+    (`second`); margin = peak - second.
+  * Two-way check: project the matched point into B and sweep back along B's ray into A; the two heights must
+    agree within 3 mm.
+  * Rule ("first LR-consistent (tol 3 mm, margin >= .05) of census, zncc"): try the census
+    variant, then the ZNCC variant; the first that passes the two-way check and the margin gate gives the
+    height ('match'). If none passes, the result is 'uncertain' with the best guess.
+
+Conventions: pixel indices (u, v) = image[v, u]; continuous image coordinates put the centre of pixel u at
+u + 0.5 (the module's p arguments are continuous); K has the principal point in continuous coordinates;
+T = frame <- optical (ROS/OpenCV optical axes).
+"""
+import numpy as np
+
+HS = np.arange(-0.005, 0.2005, 0.0005)       # swept plane heights (m above the table, arm base frame)
+EXCLUSION_M = 0.004                           # `second` is the best score at least this far from the peak
+LR_TOLERANCE_M = 0.003                        # two-way check
+MARGIN_GATE = 0.05                            # peak - second
+LR_BORDER_PX = 8                              # the back-projected point must lie this far inside B
+CAMERA_CLEARANCE_M = 0.03                     # planes stop this far below the lower camera
+VARIANTS = {
+    # name: sweep options
+    "census": dict(radii=(4, 7, 12), census=True, color_pen=1.0),
+    "zncc": dict(radii=(3, 6, 12), use_grad=True, color_pen=2.0),
+}
+RULE_ORDER = ("census", "zncc")
+PYRAMID_LEVELS = 6
+
+
+# ----------------------------------------------------------------------------- image primitives (numpy)
+def _pad101(a, p):
+    return np.pad(a, ((p, p), (p, p)) + ((0, 0),) * (a.ndim - 2), mode="reflect")
+
+
+def pyr_down(img):
+    """cv2.pyrDown: 5x5 Gaussian [1 4 6 4 1]^2/256, BORDER_REFLECT_101, keep even rows/columns.
+
+    float32 operations in the order of OpenCV's vectorised path, (s-1 + s1 + s0)*4 + (s-2 + s2 + 2*s0), first
+    along rows on the kept columns, then along columns, then * 1/256. The colour channels of levels 1 and 2 of an
+    8-bit image come out bit-identical to OpenCV; coarser levels and the gradient channel can differ in the last
+    bit (OpenCV may fuse multiply-adds), which only matters for census comparisons of nearly equal neighbours."""
+    img = np.asarray(img, np.float32)
+    h, w = img.shape[:2]
+    oh, ow = (h + 1) // 2, (w + 1) // 2
+    p = _pad101(img, 2)
+    four = np.float32(4.0)
+    c = 2 + 2 * np.arange(ow)                      # padded column of each kept output column
+    s0, s1, s2, s3, s4 = p[:, c - 2], p[:, c - 1], p[:, c], p[:, c + 1], p[:, c + 2]
+    rows = ((s1 + s3) + s2) * four + ((s0 + s4) + (s2 + s2))
+    r = 2 + 2 * np.arange(oh)
+    r0, r1, r2, r3, r4 = rows[r - 2], rows[r - 1], rows[r], rows[r + 1], rows[r + 2]
+    out = ((r1 + r3) + r2) * four + ((r0 + r4) + (r2 + r2))
+    return (out * np.float32(1.0 / 256.0)).astype(np.float32)
+
+
+def sobel_magnitude(gray):
+    """sqrt(Sobel_x^2 + Sobel_y^2) with cv2.Sobel(ksize=3, BORDER_REFLECT_101) kernels (row filter first)."""
+    g = _pad101(np.asarray(gray, np.float32), 1)
+    h, w = gray.shape
+    two = np.float32(2.0)
+    dx = g[:, 2:w + 2] - g[:, 0:w]                                  # row filter [-1 0 1]
+    gx = (dx[0:h] + dx[1:h + 1] * two) + dx[2:h + 2]                # column filter [1 2 1]
+    sx = (g[:, 0:w] + g[:, 1:w + 1] * two) + g[:, 2:w + 2]          # row filter [1 2 1]
+    gy = sx[2:h + 2] - sx[0:h]                                      # column filter [-1 0 1]
+    return np.sqrt(gx * gx + gy * gy).astype(np.float32)
+
+
+def features(img):
+    """RGB (float32) + gradient magnitude of the grey image (cv2 RGB2GRAY weights)."""
+    rgb = np.asarray(img, np.float32)
+    gray = rgb[..., 0] * np.float32(0.299) + rgb[..., 1] * np.float32(0.587) + rgb[..., 2] * np.float32(0.114)
+    return np.dstack([rgb, sobel_magnitude(gray)[..., None]])
+
+
+def pyramid(img, levels=PYRAMID_LEVELS):
+    p = [np.asarray(img, np.float32)]
+    for _ in range(levels - 1):
+        p.append(pyr_down(p[-1]))
+    return p
+
+
+def bilinear(img, x, y):
+    """img HxWxC sampled at index coordinates x, y (arrays); returns (..., C) and the in-image mask."""
+    hh, ww = img.shape[:2]
+    valid = (x >= 0) & (x <= ww - 1.001) & (y >= 0) & (y <= hh - 1.001)
+    x = np.clip(x, 0, ww - 1.001)
+    y = np.clip(y, 0, hh - 1.001)
+    x0 = np.floor(x).astype(np.int32)
+    y0 = np.floor(y).astype(np.int32)
+    dx = (x - x0)[..., None]
+    dy = (y - y0)[..., None]
+    out = (img[y0, x0] * (1 - dx) * (1 - dy) + img[y0, x0 + 1] * dx * (1 - dy)
+           + img[y0 + 1, x0] * (1 - dx) * dy + img[y0 + 1, x0 + 1] * dx * dy)
+    return out, valid
+
+
+# ----------------------------------------------------------------------------- geometry
+def plane_points(K, T, xs, ys, h):
+    """Continuous pixel coordinates of camera (K, T) back-projected onto z = h; points and a lambda > 0 mask."""
+    r = np.stack([(xs - K[0, 2]) / K[0, 0], (ys - K[1, 2]) / K[1, 1], np.ones_like(xs)], -1) @ T[:3, :3].T
+    lam = (h - T[2, 3]) / r[..., 2]
+    return T[:3, 3] + lam[..., None] * r, lam > 0
+
+
+def project(K, T, X):
+    """Continuous pixel coordinates and optical depth of points X (frame of T)."""
+    xc = (X - T[:3, 3]) @ T[:3, :3]
+    z = xc[..., 2]
+    with np.errstate(divide="ignore", invalid="ignore"):
+        x = xc[..., 0] / z * K[0, 0] + K[0, 2]
+        y = xc[..., 1] / z * K[1, 1] + K[1, 2]
+    return x, y, z
+
+
+def ray_point(K, T, p, h):
+    """Point where the ray through continuous pixel p meets z = h."""
+    r = T[:3, :3] @ np.array([(p[0] - K[0, 2]) / K[0, 0], (p[1] - K[1, 2]) / K[1, 1], 1.0])
+    return T[:3, 3] + (h - T[2, 3]) / r[2] * r
+
+
+class View:
+    """One calibrated image: K, T (frame <- optical), feature pyramid and an optional ignore mask (HxW bool)."""
+
+    def __init__(self, img, K, T, mask=None, levels=PYRAMID_LEVELS):
+        self.K = np.asarray(K, float)
+        self.T = np.asarray(T, float)
+        self.pyr = pyramid(features(img), levels)
+        self.mask = None if mask is None else np.asarray(mask, bool)
+        self.shape = self.pyr[0].shape[:2]
+
+
+def local_scale(A, B, p, h):
+    """B pixels per A pixel at the plane point under A's pixel p (continuous coordinates)."""
+    xs = np.array([p[0], p[0] + 1, p[0]])
+    ys = np.array([p[1], p[1], p[1] + 1])
+    X, ok = plane_points(A.K, A.T, xs, ys, h)
+    x, y, z = project(B.K, B.T, X)
+    J = np.array([[x[1] - x[0], x[2] - x[0]], [y[1] - y[0], y[2] - y[0]]])
+    return float(np.sqrt(abs(np.linalg.det(J)))), bool(ok.all() and (z > 0.02).all())
+
+
+# ----------------------------------------------------------------------------- scores (vectorised over heights)
+def _zncc(a, b, w):
+    """a, b (n, N, C), w (n, N): weighted ZNCC over all channels jointly (per-channel means removed)."""
+    sw = w.sum(1)
+    safe = np.where(sw > 0, sw, 1.0)
+    ma = (a * w[..., None]).sum(1) / safe[:, None]
+    mb = (b * w[..., None]).sum(1) / safe[:, None]
+    a = a - ma[:, None, :]
+    b = b - mb[:, None, :]
+    num = (w[..., None] * a * b).sum((1, 2))
+    den = np.sqrt((w[..., None] * a * a).sum((1, 2)) * (w[..., None] * b * b).sum((1, 2)))
+    out = np.where(den < 1e-6, -1.0, num / np.where(den < 1e-6, 1.0, den))
+    return np.where(sw <= 0, -1.0, out)
+
+
+def _census(a, b, w, rad=2):
+    """a, b (n, S, S, 3), w (n, S, S): 1 - weighted mean normalised Hamming distance of census signatures."""
+    ga = a.mean(-1)
+    gb = b.mean(-1)
+    s = ga.shape[1]
+    if s <= 2 * rad + 1:
+        return np.full(ga.shape[0], np.nan)
+    c = slice(rad, s - rad)
+    ham = np.zeros((ga.shape[0], s - 2 * rad, s - 2 * rad))
+    bits = 0
+    for dy in range(-rad, rad + 1):
+        for dx in range(-rad, rad + 1):
+            if dx == 0 and dy == 0:
+                continue
+            sa = ga[:, rad + dy:s - rad + dy, rad + dx:s - rad + dx] > ga[:, c, c]
+            sb = gb[:, rad + dy:s - rad + dy, rad + dx:s - rad + dx] > gb[:, c, c]
+            ham += sa != sb
+            bits += 1
+    ww = w[:, c, c]
+    total = ww.sum((1, 2))
+    with np.errstate(divide="ignore", invalid="ignore"):
+        out = 1.0 - (ww * ham).sum((1, 2)) / (total * bits)
+    return np.where(total > 0, out, np.nan)
+
+
+def sweep(A, B, p, hs, radii=(3, 6, 12), color_sigma=None, use_grad=True, min_valid=0.8, color_pen=0.0,
+          census=False):
+    """Scores (len(hs), len(radii)) for continuous pixel p of A matched into B; NaN where invalid."""
+    hs = np.asarray(hs, float)
+    rmax = max(radii)
+    gy, gx = np.mgrid[-rmax:rmax + 1, -rmax:rmax + 1].astype(np.float64)
+    out = np.full((len(hs), len(radii)), np.nan)
+    chans = [0, 1, 2, 3] if use_grad else [0, 1, 2]
+    templates = {}                     # (round(stepA, 2), LA) -> template of the first height with that key
+    groups = {}                        # (template key, LB) -> height indices
+    for i, h in enumerate(hs):
+        s, ok = local_scale(A, B, p, h)
+        if not ok or not np.isfinite(s) or s <= 0:
+            continue
+        if s >= 1:
+            step, la = 1.0, 0
+            lb = int(np.clip(np.floor(np.log2(s) + 0.25), 0, len(B.pyr) - 1))
+        else:
+            step = 1.0 / s
+            la = int(np.clip(np.floor(np.log2(step) + 0.25), 0, len(A.pyr) - 1))
+            lb = 0
+        key = (round(step, 2), la)
+        if key not in templates:
+            xa = p[0] + gx * step
+            ya = p[1] + gy * step
+            ta, va = bilinear(A.pyr[la], (xa - 0.5) / 2 ** la, (ya - 0.5) / 2 ** la)
+            templates[key] = (xa, ya, ta[..., chans], va)
+        groups.setdefault((key, lb), []).append(i)
+    weights = {}
+    for r in radii:
+        sl = slice(rmax - r, rmax + r + 1)
+        weights[r] = np.exp(-(gx[sl, sl] ** 2 + gy[sl, sl] ** 2) / (2 * (r / 2.0) ** 2))
+    for (key, lb), index in groups.items():
+        index = np.asarray(index)
+        xa, ya, ta, va = templates[key]
+        h = hs[index][:, None, None]
+        X, okp = plane_points(A.K, A.T, xa[None], ya[None], h)
+        xb, yb, zb = project(B.K, B.T, X)
+        tb, vb = bilinear(B.pyr[lb], (xb - 0.5) / 2 ** lb, (yb - 0.5) / 2 ** lb)
+        tb = tb[..., chans]
+        valid = va[None] & vb & okp & (zb > 0.02)
+        if B.mask is not None:
+            xi = np.clip(xb.astype(int), 0, B.mask.shape[1] - 1)
+            yi = np.clip(yb.astype(int), 0, B.mask.shape[0] - 1)
+            valid &= ~B.mask[yi, xi]
+        n = len(index)
+        for k, r in enumerate(radii):
+            sl = slice(rmax - r, rmax + r + 1)
+            w0 = weights[r]
+            if color_sigma:
+                c0 = ta[rmax, rmax, :3]
+                w0 = w0 * np.exp(-np.linalg.norm(ta[sl, sl, :3] - c0, axis=-1) / color_sigma)
+            vv = valid[:, sl, sl]
+            enough = (w0[None] * vv).sum((1, 2)) >= min_valid * w0.sum()
+            if not enough.any():
+                continue
+            w = (w0[None] * vv).reshape(n, -1)
+            a = np.broadcast_to(ta[sl, sl], (n,) + ta[sl, sl].shape).reshape(n, -1, ta.shape[-1])
+            b = tb[:, sl, sl].reshape(n, -1, tb.shape[-1])
+            if census:
+                size = 2 * r + 1
+                sc = _census(a[..., :3].reshape(n, size, size, 3), b[..., :3].reshape(n, size, size, 3),
+                             w.reshape(n, size, size))
+            else:
+                sc = _zncc(a[..., :3], b[..., :3], w)
+                if use_grad:
+                    sc = 0.5 * (sc + _zncc(a[..., 3:4], b[..., 3:4], w))
+            if color_pen:
+                with np.errstate(divide="ignore", invalid="ignore"):     # rows without weight are dropped below
+                    sc = sc - color_pen * ((w[..., None] * np.abs(a[..., :3] - b[..., :3])).sum((1, 2))
+                                           / (3 * w.sum(1) * 255.0))
+            out[index[enough], k] = sc[enough]
+    return out
+
+
+def pick(hs, score, excl=EXCLUSION_M):
+    """Best height (parabola refinement), its score and the best score at least `excl` away."""
+    s = np.where(np.isfinite(score), score, -2.0)
+    if (s <= -2).all():
+        return None
+    i = int(np.argmax(s))
+    best = hs[i]
+    if 0 < i < len(hs) - 1 and s[i - 1] > -2 and s[i + 1] > -2:
+        den = s[i - 1] - 2 * s[i] + s[i + 1]
+        if den < 0:
+            best = hs[i] + 0.5 * (s[i - 1] - s[i + 1]) / den * (hs[1] - hs[0])
+    far = s[np.abs(hs - hs[i]) >= excl]
+    second = float(far.max()) if far.size else -2.0
+    return {"h": float(best), "peak": float(s[i]), "second": second}
+
+
+def curve(A, B, p, hs=HS, **options):
+    """Mean score over the radii for each height below both cameras (NaN above)."""
+    zmax = min(A.T[2, 3], B.T[2, 3]) - CAMERA_CLEARANCE_M
+    ok = hs < zmax
+    sc = np.full((len(hs), len(options.get("radii", (1,)))), np.nan)
+    if ok.any():
+        sc[ok] = sweep(A, B, p, hs[ok], **options)
+    if sc.shape[1] == 1:
+        return sc[:, 0]
+    with np.errstate(all="ignore"):
+        valid = np.isfinite(sc)
+        count = valid.sum(1)
+        mean = np.where(valid, sc, 0.0).sum(1) / np.where(count > 0, count, 1)
+    return np.where(count > 0, mean, np.nan)
+
+
+def back_point(A, B, p, h):
+    """The matched point's continuous pixel in B, or None if behind B or within LR_BORDER_PX of its border."""
+    X = ray_point(A.K, A.T, p, h)
+    x, y, z = project(B.K, B.T, X[None])
+    if not z[0] > 0.02:
+        return None
+    hb, wb = B.shape
+    pb = (float(x[0]), float(y[0]))
+    if not (LR_BORDER_PX <= pb[0] < wb - LR_BORDER_PX and LR_BORDER_PX <= pb[1] < hb - LR_BORDER_PX):
+        return None
+    return pb
+
+
+def lr_check(A, B, p, h, options, hs=HS):
+    """Height found by sweeping back from the matched point in B along B's ray into A (None if not possible)."""
+    pb = back_point(A, B, p, h)
+    if pb is None:
+        return None
+    pk = pick(hs, curve(B, A, pb, hs, **options))
+    return None if pk is None else pk["h"]
+
+
+def match_height(A, B, p, hs=HS, order=RULE_ORDER):
+    """The matching rule (module docstring) for pixel p (continuous) of A matched into B.
+
+    Returns {'status': 'match' | 'uncertain' | 'none', 'h', 'variant', 'peak', 'second', 'margin', 'lr_h',
+    'variants': {name: ...}}. 'none': no height had a valid score (the point is outside B, hidden by the mask
+    or behind a camera)."""
+    tried = {}
+    for name in order:
+        options = VARIANTS[name]
+        pk = pick(hs, curve(A, B, p, hs, **options))
+        if pk is None:
+            tried[name] = None
+            continue
+        pk["margin"] = pk["peak"] - pk["second"]
+        pk["lr_h"] = lr_check(A, B, p, pk["h"], options, hs)
+        pk["consistent"] = pk["lr_h"] is not None and abs(pk["lr_h"] - pk["h"]) <= LR_TOLERANCE_M
+        pk["passed"] = bool(pk["consistent"] and pk["margin"] >= MARGIN_GATE)
+        tried[name] = pk
+        if pk["passed"]:
+            return dict(pk, status="match", variant=name, variants=tried)
+    found = [(name, pk) for name, pk in tried.items() if pk is not None]
+    if not found:
+        return {"status": "none", "h": None, "variant": None, "variants": tried}
+    # Best guess: the variant whose two-way height agrees best, else the largest margin.
+    def quality(item):
+        pk = item[1]
+        disagreement = abs(pk["lr_h"] - pk["h"]) if pk["lr_h"] is not None else np.inf
+        return (disagreement, -pk["margin"])
+    name, pk = min(found, key=quality)
+    return dict(pk, status="uncertain", variant=name, variants=tried)

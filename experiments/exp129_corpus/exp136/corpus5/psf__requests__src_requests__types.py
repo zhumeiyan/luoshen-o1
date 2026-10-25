@@ -1,1 +1,188 @@
-IiIiCnJlcXVlc3RzLl90eXBlcwp+fn5+fn5+fn5+fn5+fn4KClRoaXMgbW9kdWxlIGNvbnRhaW5zIHR5cGUgYWxpYXNlcyB1c2VkIGludGVybmFsbHkgYnkgdGhlIFJlcXVlc3RzIGxpYnJhcnkuClRoZXNlIHR5cGVzIGFyZSBub3QgcGFydCBvZiB0aGUgcHVibGljIEFQSSBhbmQgbXVzdCBub3QgYmUgcmVsaWVkIHVwb24KYnkgZXh0ZXJuYWwgY29kZS4KIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIGNvbGxlY3Rpb25zLmFiYyBpbXBvcnQgQ2FsbGFibGUsIEl0ZXJhYmxlLCBNYXBwaW5nLCBNdXRhYmxlTWFwcGluZywgU2VxdWVuY2UKZnJvbSB0eXBpbmcgaW1wb3J0ICgKICAgIFRZUEVfQ0hFQ0tJTkcsCiAgICBBbnksCiAgICBQcm90b2NvbCwKICAgIFR5cGVBbGlhcywKICAgIFR5cGVWYXIsCiAgICBydW50aW1lX2NoZWNrYWJsZSwKKQoKX1RfY28gPSBUeXBlVmFyKCJfVF9jbyIsIGNvdmFyaWFudD1UcnVlKQpfS1RfY28gPSBUeXBlVmFyKCJfS1RfY28iLCBjb3ZhcmlhbnQ9VHJ1ZSkKX1ZUX2NvID0gVHlwZVZhcigiX1ZUX2NvIiwgY292YXJpYW50PVRydWUpCgoKQHJ1bnRpbWVfY2hlY2thYmxlCmNsYXNzIFN1cHBvcnRzUmVhZChQcm90b2NvbFtfVF9jb10pOgogICAgZGVmIHJlYWQoc2VsZiwgbGVuZ3RoOiBpbnQgPSAuLi4sIC8pIC0+IF9UX2NvOiAuLi4KCgpkZWYgaGFzX3JlYWQob2JqOiBBbnkpIC0+IFR5cGVJc1tTdXBwb3J0c1JlYWRbc3RyIHwgYnl0ZXNdXToKICAgICIiIkNoZWNrIGlmIG9iaiBzdXBwb3J0cyByZWFkLCBpbmNsdWRpbmcgX19nZXRhdHRyX18gYmFzZWQgcHJveGllcy4iIiIKICAgIHJldHVybiBpc2luc3RhbmNlKG9iaiwgU3VwcG9ydHNSZWFkKSBvciBoYXNhdHRyKG9iaiwgInJlYWQiKQoKCkBydW50aW1lX2NoZWNrYWJsZQpjbGFzcyBTdXBwb3J0c0l0ZW1zKFByb3RvY29sW19LVF9jbywgX1ZUX2NvXSk6CiAgICBkZWYgaXRlbXMoc2VsZikgLT4gSXRlcmFibGVbdHVwbGVbX0tUX2NvLCBfVlRfY29dXTogLi4uCgoKIyBUaGVzZSBhcmUgbmVlZGVkIGF0IHJ1bnRpbWUgZm9yIGRlZmF1bHRfaG9va3MoKSByZXR1cm4gdHlwZQpIb29rVHlwZTogVHlwZUFsaWFzID0gQ2FsbGFibGVbWyJSZXNwb25zZSJdLCBBbnldCkhvb2tzSW5wdXRUeXBlOiBUeXBlQWxpYXMgPSBNYXBwaW5nW3N0ciwgSXRlcmFibGVbSG9va1R5cGVdIHwgSG9va1R5cGVdCgoKZGVmIGlzX3ByZXBhcmVkKHJlcXVlc3Q6IFByZXBhcmVkUmVxdWVzdCkgLT4gVHlwZUlzW19WYWxpZGF0ZWRSZXF1ZXN0XToKICAgICIiIlZlcmlmeSBhIFByZXBhcmVkUmVxdWVzdCBoYXMgYmVlbiBmdWxseSBwcmVwYXJlZC4iIiIKICAgIGlmIFRZUEVfQ0hFQ0tJTkc6CiAgICAgICAgcmV0dXJuIHJlcXVlc3QudXJsIGlzIG5vdCBOb25lIGFuZCByZXF1ZXN0Lm1ldGhvZCBpcyBub3QgTm9uZQogICAgIyBub29wIGF0IHJ1bnRpbWUgdG8gYXZvaWQgQXNzZXJ0aW9uRXJyb3IKICAgIHJldHVybiBUcnVlCgoKaWYgVFlQRV9DSEVDS0lORzoKICAgIGZyb20gaHR0cC5jb29raWVqYXIgaW1wb3J0IENvb2tpZUphcgogICAgZnJvbSB0eXBpbmcgaW1wb3J0IFR5cGVBbGlhcywgVHlwZWREaWN0CgogICAgZnJvbSB0eXBpbmdfZXh0ZW5zaW9ucyBpbXBvcnQgKAogICAgICAgIEJ1ZmZlciwgICMgVE9ETzogbW92ZSB0byBjb2xsZWN0aW9ucy5hYmMgd2hlbiBQeXRob24gPj0gMy4xMgogICAgICAgIFR5cGVJcywgICMgVE9ETzogbW92ZSB0byB0eXBpbmcgd2hlbiBQeXRob24gPj0gMy4xMwogICAgKQoKICAgIGZyb20gLmF1dGggaW1wb3J0IEF1dGhCYXNlCiAgICBmcm9tIC5jb29raWVzIGltcG9ydCBSZXF1ZXN0c0Nvb2tpZUphcgogICAgZnJvbSAubW9kZWxzIGltcG9ydCBQcmVwYXJlZFJlcXVlc3QsIFJlc3BvbnNlCiAgICBmcm9tIC5zdHJ1Y3R1cmVzIGltcG9ydCBDYXNlSW5zZW5zaXRpdmVEaWN0CgogICAgY2xhc3MgX1ZhbGlkYXRlZFJlcXVlc3QoUHJlcGFyZWRSZXF1ZXN0KToKICAgICAgICAiIiJTdWJ0eXBlIGFzc2VydGluZyBhIFByZXBhcmVkUmVxdWVzdCBoYXMgYmVlbiBmdWxseSBwcmVwYXJlZCBiZWZvcmUgY2FsbGluZy4KCiAgICAgICAgVGhlIG92ZXJyaWRlIHN1cHByZXNzaW9uIGlzIHJlcXVpcmVkIGJlY2F1c2UgbXV0YWJsZSBhdHRyaWJ1dGUgdHlwZXMgYXJlCiAgICAgICAgaW52YXJpYW50IChMaXNrb3YpLCBidXQgd2Ugb25seSBuYXJyb3cgYWZ0ZXIgcHJlcGFyYXRpb24gaXMgY29tcGxldGUuIFRoaXMKICAgICAgICBpcyB0aGUgZXhwbGljaXQgY29udHJhY3QgZm9yIFJlcXVlc3RzIGJ1dCBQeXRob24ncyB0eXBpbmcgZG9lc24ndCBoYXZlIGEKICAgICAgICBiZXR0ZXIgd2F5IHRvIHJlcHJlc2VudCB0aGUgcmVxdWlyZW1lbnQuCiAgICAgICAgIiIiCgogICAgICAgIHVybDogc3RyICAjIHR5cGU6IGlnbm9yZVtyZXBvcnRJbmNvbXBhdGlibGVWYXJpYWJsZU92ZXJyaWRlXQogICAgICAgIG1ldGhvZDogc3RyICAjIHR5cGU6IGlnbm9yZVtyZXBvcnRJbmNvbXBhdGlibGVWYXJpYWJsZU92ZXJyaWRlXQoKICAgICMgVHlwZSBhbGlhc2VzIGZvciBjb3JlIEFQSSBjb25jZXB0cyAob3JkZXJlZCBieSByZXF1ZXN0KCkgc2lnbmF0dXJlKQogICAgVXJpVHlwZTogVHlwZUFsaWFzID0gc3RyIHwgYnl0ZXMKCiAgICBfUGFyYW1zTWFwcGluZ0tleVR5cGU6IFR5cGVBbGlhcyA9IHN0ciB8IGJ5dGVzIHwgaW50IHwgZmxvYXQKICAgIF9QYXJhbXNNYXBwaW5nVmFsdWVUeXBlOiBUeXBlQWxpYXMgPSAoCiAgICAgICAgc3RyIHwgYnl0ZXMgfCBpbnQgfCBmbG9hdCB8IEl0ZXJhYmxlW3N0ciB8IGJ5dGVzIHwgaW50IHwgZmxvYXRdIHwgTm9uZQogICAgKQogICAgUGFyYW1zVHlwZTogVHlwZUFsaWFzID0gKAogICAgICAgIFN1cHBvcnRzSXRlbXNbX1BhcmFtc01hcHBpbmdLZXlUeXBlLCBfUGFyYW1zTWFwcGluZ1ZhbHVlVHlwZV0KICAgICAgICB8IHR1cGxlW3R1cGxlW19QYXJhbXNNYXBwaW5nS2V5VHlwZSwgX1BhcmFtc01hcHBpbmdWYWx1ZVR5cGVdLCAuLi5dCiAgICAgICAgfCBJdGVyYWJsZVt0dXBsZVtfUGFyYW1zTWFwcGluZ0tleVR5cGUsIF9QYXJhbXNNYXBwaW5nVmFsdWVUeXBlXV0KICAgICAgICB8IHN0cgogICAgICAgIHwgYnl0ZXMKICAgICAgICB8IE5vbmUKICAgICkKCiAgICBLVkRhdGFUeXBlOiBUeXBlQWxpYXMgPSBJdGVyYWJsZVt0dXBsZVtBbnksIEFueV1dIHwgU3VwcG9ydHNJdGVtc1tBbnksIEFueV0KCiAgICBSYXdEYXRhVHlwZTogVHlwZUFsaWFzID0gS1ZEYXRhVHlwZSB8IHN0ciB8IGJ5dGVzCiAgICBTdHJlYW1EYXRhVHlwZTogVHlwZUFsaWFzID0gU3VwcG9ydHNSZWFkW3N0ciB8IGJ5dGVzXQogICAgRW5jb2RhYmxlRGF0YVR5cGU6IFR5cGVBbGlhcyA9IFJhd0RhdGFUeXBlIHwgU3RyZWFtRGF0YVR5cGUKCiAgICBEYXRhVHlwZTogVHlwZUFsaWFzID0gKAogICAgICAgIEtWRGF0YVR5cGUKICAgICAgICB8IEl0ZXJhYmxlW2J5dGVzIHwgc3RyXQogICAgICAgIHwgc3RyCiAgICAgICAgfCBieXRlcwogICAgICAgIHwgQnVmZmVyCiAgICAgICAgfCBTdXBwb3J0c1JlYWRbc3RyIHwgYnl0ZXNdCiAgICAgICAgfCBOb25lCiAgICApCgogICAgQm9keVR5cGU6IFR5cGVBbGlhcyA9ICgKICAgICAgICBieXRlcyB8IHN0ciB8IEl0ZXJhYmxlW2J5dGVzIHwgc3RyXSB8IFN1cHBvcnRzUmVhZFtieXRlcyB8IHN0cl0gfCBOb25lCiAgICApCgogICAgSGVhZGVyc1R5cGU6IFR5cGVBbGlhcyA9IE1hcHBpbmdbc3RyLCBzdHIgfCBieXRlc10gfCBOb25lCgogICAgQ29va2llc1R5cGU6IFR5cGVBbGlhcyA9IFJlcXVlc3RzQ29va2llSmFyIHwgTWFwcGluZ1tzdHIsIHN0cl0KCiAgICAjIEJ1aWxkaW5nIGJsb2NrcyBmb3IgRmlsZXNUeXBlCiAgICBfRmlsZU5hbWU6IFR5cGVBbGlhcyA9IHN0ciB8IE5vbmUKICAgIF9GaWxlQ29udGVudDogVHlwZUFsaWFzID0gU3VwcG9ydHNSZWFkW3N0ciB8IGJ5dGVzXSB8IHN0ciB8IGJ5dGVzCiAgICBfRmlsZVNwZWNCYXNpYzogVHlwZUFsaWFzID0gdHVwbGVbX0ZpbGVOYW1lLCBfRmlsZUNvbnRlbnRdCiAgICBfRmlsZVNwZWNXaXRoQ29udGVudFR5cGU6IFR5cGVBbGlhcyA9IHR1cGxlW19GaWxlTmFtZSwgX0ZpbGVDb250ZW50LCBzdHJdCiAgICBfRmlsZVNwZWNXaXRoSGVhZGVyczogVHlwZUFsaWFzID0gdHVwbGVbCiAgICAgICAgX0ZpbGVOYW1lLCBfRmlsZUNvbnRlbnQsIHN0ciwgQ2FzZUluc2Vuc2l0aXZlRGljdFtzdHJdIHwgTWFwcGluZ1tzdHIsIHN0cl0KICAgIF0KICAgIF9GaWxlU3BlYzogVHlwZUFsaWFzID0gKAogICAgICAgIF9GaWxlQ29udGVudCB8IF9GaWxlU3BlY0Jhc2ljIHwgX0ZpbGVTcGVjV2l0aENvbnRlbnRUeXBlIHwgX0ZpbGVTcGVjV2l0aEhlYWRlcnMKICAgICkKICAgIEZpbGVzVHlwZTogVHlwZUFsaWFzID0gKAogICAgICAgIE1hcHBpbmdbc3RyLCBfRmlsZVNwZWNdIHwgSXRlcmFibGVbdHVwbGVbc3RyLCBfRmlsZVNwZWNdXSB8IE5vbmUKICAgICkKCiAgICBBdXRoVHlwZTogVHlwZUFsaWFzID0gKAogICAgICAgIHR1cGxlW3N0ciwgc3RyXSB8IEF1dGhCYXNlIHwgQ2FsbGFibGVbW1ByZXBhcmVkUmVxdWVzdF0sIFByZXBhcmVkUmVxdWVzdF0gfCBOb25lCiAgICApCgogICAgVGltZW91dFR5cGU6IFR5cGVBbGlhcyA9IGZsb2F0IHwgdHVwbGVbZmxvYXQgfCBOb25lLCBmbG9hdCB8IE5vbmVdIHwgTm9uZQogICAgUHJveGllc1R5cGU6IFR5cGVBbGlhcyA9IE11dGFibGVNYXBwaW5nW3N0ciwgc3RyXQogICAgSG9va3NUeXBlOiBUeXBlQWxpYXMgPSBkaWN0W3N0ciwgbGlzdFtIb29rVHlwZV1dIHwgTm9uZQogICAgVmVyaWZ5VHlwZTogVHlwZUFsaWFzID0gYm9vbCB8IHN0cgogICAgQ2VydFR5cGU6IFR5cGVBbGlhcyA9IHN0ciB8IHR1cGxlW3N0ciwgc3RyXSB8IE5vbmUKICAgIEpzb25UeXBlOiBUeXBlQWxpYXMgPSAoCiAgICAgICAgTm9uZQogICAgICAgIHwgYm9vbAogICAgICAgIHwgaW50CiAgICAgICAgfCBmbG9hdAogICAgICAgIHwgc3RyCiAgICAgICAgfCBTZXF1ZW5jZVsiSnNvblR5cGUiXQogICAgICAgIHwgTWFwcGluZ1tzdHIsICJKc29uVHlwZSJdCiAgICApCgogICAgIyBUeXBlZERpY3RzIGZvciBVbnBhY2sga3dhcmdzIChQRVAgNjkyKQoKICAgIGNsYXNzIEJhc2VSZXF1ZXN0S3dhcmdzKFR5cGVkRGljdCwgdG90YWw9RmFsc2UpOgogICAgICAgIGhlYWRlcnM6IEhlYWRlcnNUeXBlCiAgICAgICAgY29va2llczogUmVxdWVzdHNDb29raWVKYXIgfCBDb29raWVKYXIgfCBkaWN0W3N0ciwgc3RyXSB8IE5vbmUKICAgICAgICBmaWxlczogRmlsZXNUeXBlCiAgICAgICAgYXV0aDogQXV0aFR5cGUKICAgICAgICB0aW1lb3V0OiBUaW1lb3V0VHlwZQogICAgICAgIGFsbG93X3JlZGlyZWN0czogYm9vbAogICAgICAgIHByb3hpZXM6IGRpY3Rbc3RyLCBzdHJdIHwgTm9uZQogICAgICAgIGhvb2tzOiBIb29rc0lucHV0VHlwZSB8IE5vbmUKICAgICAgICBzdHJlYW06IGJvb2wgfCBOb25lCiAgICAgICAgdmVyaWZ5OiBWZXJpZnlUeXBlIHwgTm9uZQogICAgICAgIGNlcnQ6IENlcnRUeXBlCgogICAgY2xhc3MgUmVxdWVzdEt3YXJncyhCYXNlUmVxdWVzdEt3YXJncywgdG90YWw9RmFsc2UpOgogICAgICAgICIiImt3YXJncyBmb3IgcmVxdWVzdCgpLCBvcHRpb25zKCksIGhlYWQoKSwgZGVsZXRlKCkuIiIiCgogICAgICAgIHBhcmFtczogUGFyYW1zVHlwZQogICAgICAgIGRhdGE6IERhdGFUeXBlCiAgICAgICAganNvbjogSnNvblR5cGUKCiAgICBjbGFzcyBHZXRLd2FyZ3MoQmFzZVJlcXVlc3RLd2FyZ3MsIHRvdGFsPUZhbHNlKToKICAgICAgICBkYXRhOiBEYXRhVHlwZQogICAgICAgIGpzb246IEpzb25UeXBlCgogICAgY2xhc3MgUG9zdEt3YXJncyhCYXNlUmVxdWVzdEt3YXJncywgdG90YWw9RmFsc2UpOgogICAgICAgIHBhcmFtczogUGFyYW1zVHlwZQoKICAgIGNsYXNzIERhdGFLd2FyZ3MoQmFzZVJlcXVlc3RLd2FyZ3MsIHRvdGFsPUZhbHNlKToKICAgICAgICAiIiJrd2FyZ3MgZm9yIHB1dCgpLCBwYXRjaCgpLiIiIgoKICAgICAgICBwYXJhbXM6IFBhcmFtc1R5cGUKICAgICAgICBqc29uOiBKc29uVHlwZQo=
+"""
+requests._types
+~~~~~~~~~~~~~~~
+
+This module contains type aliases used internally by the Requests library.
+These types are not part of the public API and must not be relied upon
+by external code.
+"""
+
+from __future__ import annotations
+
+from collections.abc import Callable, Iterable, Mapping, MutableMapping, Sequence
+from typing import (
+    TYPE_CHECKING,
+    Any,
+    Protocol,
+    TypeAlias,
+    TypeVar,
+    runtime_checkable,
+)
+
+_T_co = TypeVar("_T_co", covariant=True)
+_KT_co = TypeVar("_KT_co", covariant=True)
+_VT_co = TypeVar("_VT_co", covariant=True)
+
+
+@runtime_checkable
+class SupportsRead(Protocol[_T_co]):
+    def read(self, length: int = ..., /) -> _T_co: ...
+
+
+def has_read(obj: Any) -> TypeIs[SupportsRead[str | bytes]]:
+    """Check if obj supports read, including __getattr__ based proxies."""
+    return isinstance(obj, SupportsRead) or hasattr(obj, "read")
+
+
+@runtime_checkable
+class SupportsItems(Protocol[_KT_co, _VT_co]):
+    def items(self) -> Iterable[tuple[_KT_co, _VT_co]]: ...
+
+
+# These are needed at runtime for default_hooks() return type
+HookType: TypeAlias = Callable[["Response"], Any]
+HooksInputType: TypeAlias = Mapping[str, Iterable[HookType] | HookType]
+
+
+def is_prepared(request: PreparedRequest) -> TypeIs[_ValidatedRequest]:
+    """Verify a PreparedRequest has been fully prepared."""
+    if TYPE_CHECKING:
+        return request.url is not None and request.method is not None
+    # noop at runtime to avoid AssertionError
+    return True
+
+
+if TYPE_CHECKING:
+    from http.cookiejar import CookieJar
+    from typing import TypeAlias, TypedDict
+
+    from typing_extensions import (
+        Buffer,  # TODO: move to collections.abc when Python >= 3.12
+        TypeIs,  # TODO: move to typing when Python >= 3.13
+    )
+
+    from .auth import AuthBase
+    from .cookies import RequestsCookieJar
+    from .models import PreparedRequest, Response
+    from .structures import CaseInsensitiveDict
+
+    class _ValidatedRequest(PreparedRequest):
+        """Subtype asserting a PreparedRequest has been fully prepared before calling.
+
+        The override suppression is required because mutable attribute types are
+        invariant (Liskov), but we only narrow after preparation is complete. This
+        is the explicit contract for Requests but Python's typing doesn't have a
+        better way to represent the requirement.
+        """
+
+        url: str  # type: ignore[reportIncompatibleVariableOverride]
+        method: str  # type: ignore[reportIncompatibleVariableOverride]
+
+    # Type aliases for core API concepts (ordered by request() signature)
+    UriType: TypeAlias = str | bytes
+
+    _ParamsMappingKeyType: TypeAlias = str | bytes | int | float
+    _ParamsMappingValueType: TypeAlias = (
+        str | bytes | int | float | Iterable[str | bytes | int | float] | None
+    )
+    ParamsType: TypeAlias = (
+        SupportsItems[_ParamsMappingKeyType, _ParamsMappingValueType]
+        | tuple[tuple[_ParamsMappingKeyType, _ParamsMappingValueType], ...]
+        | Iterable[tuple[_ParamsMappingKeyType, _ParamsMappingValueType]]
+        | str
+        | bytes
+        | None
+    )
+
+    KVDataType: TypeAlias = Iterable[tuple[Any, Any]] | SupportsItems[Any, Any]
+
+    RawDataType: TypeAlias = KVDataType | str | bytes
+    StreamDataType: TypeAlias = SupportsRead[str | bytes]
+    EncodableDataType: TypeAlias = RawDataType | StreamDataType
+
+    DataType: TypeAlias = (
+        KVDataType
+        | Iterable[bytes | str]
+        | str
+        | bytes
+        | Buffer
+        | SupportsRead[str | bytes]
+        | None
+    )
+
+    BodyType: TypeAlias = (
+        bytes | str | Iterable[bytes | str] | SupportsRead[bytes | str] | None
+    )
+
+    HeadersType: TypeAlias = Mapping[str, str | bytes] | None
+
+    CookiesType: TypeAlias = RequestsCookieJar | Mapping[str, str]
+
+    # Building blocks for FilesType
+    _FileName: TypeAlias = str | None
+    _FileContent: TypeAlias = SupportsRead[str | bytes] | str | bytes
+    _FileSpecBasic: TypeAlias = tuple[_FileName, _FileContent]
+    _FileSpecWithContentType: TypeAlias = tuple[_FileName, _FileContent, str]
+    _FileSpecWithHeaders: TypeAlias = tuple[
+        _FileName, _FileContent, str, CaseInsensitiveDict[str] | Mapping[str, str]
+    ]
+    _FileSpec: TypeAlias = (
+        _FileContent | _FileSpecBasic | _FileSpecWithContentType | _FileSpecWithHeaders
+    )
+    FilesType: TypeAlias = (
+        Mapping[str, _FileSpec] | Iterable[tuple[str, _FileSpec]] | None
+    )
+
+    AuthType: TypeAlias = (
+        tuple[str, str] | AuthBase | Callable[[PreparedRequest], PreparedRequest] | None
+    )
+
+    TimeoutType: TypeAlias = float | tuple[float | None, float | None] | None
+    ProxiesType: TypeAlias = MutableMapping[str, str]
+    HooksType: TypeAlias = dict[str, list[HookType]] | None
+    VerifyType: TypeAlias = bool | str
+    CertType: TypeAlias = str | tuple[str, str] | None
+    JsonType: TypeAlias = (
+        None
+        | bool
+        | int
+        | float
+        | str
+        | Sequence["JsonType"]
+        | Mapping[str, "JsonType"]
+    )
+
+    # TypedDicts for Unpack kwargs (PEP 692)
+
+    class BaseRequestKwargs(TypedDict, total=False):
+        headers: HeadersType
+        cookies: RequestsCookieJar | CookieJar | dict[str, str] | None
+        files: FilesType
+        auth: AuthType
+        timeout: TimeoutType
+        allow_redirects: bool
+        proxies: dict[str, str] | None
+        hooks: HooksInputType | None
+        stream: bool | None
+        verify: VerifyType | None
+        cert: CertType
+
+    class RequestKwargs(BaseRequestKwargs, total=False):
+        """kwargs for request(), options(), head(), delete()."""
+
+        params: ParamsType
+        data: DataType
+        json: JsonType
+
+    class GetKwargs(BaseRequestKwargs, total=False):
+        data: DataType
+        json: JsonType
+
+    class PostKwargs(BaseRequestKwargs, total=False):
+        params: ParamsType
+
+    class DataKwargs(BaseRequestKwargs, total=False):
+        """kwargs for put(), patch()."""
+
+        params: ParamsType
+        json: JsonType

@@ -1,1 +1,711 @@
-IiIiCkNvbW1vbiBkYXRhIHN0cnVjdHVyZXMgYW5kIHV0aWxpdGllcy4KIiIiCgppbXBvcnQgYXN0CmltcG9ydCBkYXRhY2xhc3NlcwppbXBvcnQgZ2xvYgppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHJlCmltcG9ydCB0aW1lCmZyb20gdHlwaW5nIGltcG9ydCBPcHRpb25hbAoKaW1wb3J0IG9wZW5haQppbXBvcnQgYW50aHJvcGljCgpmcm9tIGZhc3RjaGF0Lm1vZGVsLm1vZGVsX2FkYXB0ZXIgaW1wb3J0ICgKICAgIGdldF9jb252ZXJzYXRpb25fdGVtcGxhdGUsCiAgICBBTlRIUk9QSUNfTU9ERUxfTElTVCwKICAgIE9QRU5BSV9NT0RFTF9MSVNULAopCgojIEFQSSBzZXR0aW5nIGNvbnN0YW50cwpBUElfTUFYX1JFVFJZID0gMTYKQVBJX1JFVFJZX1NMRUVQID0gMTAKQVBJX0VSUk9SX09VVFBVVCA9ICIkRVJST1IkIgoKVElFX0RFTFRBID0gMC4xCgojIENhdGVnb3JpZXMgdGhhdCBuZWVkIHJlZmVyZW5jZSBhbnN3ZXJzCk5FRURfUkVGX0NBVFMgPSBbIm1hdGgiLCAicmVhc29uaW5nIiwgImNvZGluZyIsICJhcmVuYS1oYXJkLTIwMCJdCgojIEV4dHJhY3Qgc2NvcmVzIGZyb20ganVkZ21lbnRzCnR3b19zY29yZV9wYXR0ZXJuID0gcmUuY29tcGlsZSgiXFtcWyhcZCtcLj9cZCopLFxzPyhcZCtcLj9cZCopXF1cXSIpCnR3b19zY29yZV9wYXR0ZXJuX2JhY2t1cCA9IHJlLmNvbXBpbGUoIlxbKFxkK1wuP1xkKiksXHM/KFxkK1wuP1xkKilcXSIpCm9uZV9zY29yZV9wYXR0ZXJuID0gcmUuY29tcGlsZSgiXFtcWyhcZCtcLj9cZCopXF1cXSIpCm9uZV9zY29yZV9wYXR0ZXJuX2JhY2t1cCA9IHJlLmNvbXBpbGUoIlxbKFxkK1wuP1xkKilcXSIpCgojIFNhbXBsaW5nIHRlbXBlcmF0dXJlIGNvbmZpZ3MgZm9yCnRlbXBlcmF0dXJlX2NvbmZpZyA9IHsKICAgICJ3cml0aW5nIjogMC43LAogICAgInJvbGVwbGF5IjogMC43LAogICAgImV4dHJhY3Rpb24iOiAwLjAsCiAgICAibWF0aCI6IDAuMCwKICAgICJjb2RpbmciOiAwLjAsCiAgICAicmVhc29uaW5nIjogMC4wLAogICAgInN0ZW0iOiAwLjEsCiAgICAiaHVtYW5pdGllcyI6IDAuMSwKICAgICJhcmVuYS1oYXJkLTIwMCI6IDAuMCwKfQoKcmV2ZXJzZV9tb2RlbF9tYXAgPSB7CiAgICAibW9kZWxfMSI6ICJtb2RlbF8yIiwKICAgICJtb2RlbF8yIjogIm1vZGVsXzEiLAp9CgoKQGRhdGFjbGFzc2VzLmRhdGFjbGFzcwpjbGFzcyBKdWRnZToKICAgIG1vZGVsX25hbWU6IHN0cgogICAgcHJvbXB0X3RlbXBsYXRlOiBkaWN0CiAgICByZWZfYmFzZWQ6IGJvb2wgPSBGYWxzZQogICAgbXVsdGlfdHVybjogYm9vbCA9IEZhbHNlCgoKQGRhdGFjbGFzc2VzLmRhdGFjbGFzcwpjbGFzcyBNYXRjaFNpbmdsZToKICAgIHF1ZXN0aW9uOiBkaWN0CiAgICBtb2RlbDogc3RyCiAgICBhbnN3ZXI6IGRpY3QKICAgIGp1ZGdlOiBKdWRnZQogICAgcmVmX2Fuc3dlcjogZGljdCA9IE5vbmUKICAgIG11bHRpX3R1cm46IGJvb2wgPSBGYWxzZQoKCkBkYXRhY2xhc3Nlcy5kYXRhY2xhc3MKY2xhc3MgTWF0Y2hQYWlyOgogICAgcXVlc3Rpb246IGRpY3QKICAgIG1vZGVsXzE6IHN0cgogICAgbW9kZWxfMjogc3RyCiAgICBhbnN3ZXJfMTogZGljdAogICAgYW5zd2VyXzI6IGRpY3QKICAgIGp1ZGdlOiBKdWRnZQogICAgcmVmX2Fuc3dlcjogZGljdCA9IE5vbmUKICAgIG11bHRpX3R1cm46IGJvb2wgPSBGYWxzZQoKCmRlZiBsb2FkX3F1ZXN0aW9ucyhxdWVzdGlvbl9maWxlOiBzdHIsIGJlZ2luOiBPcHRpb25hbFtpbnRdLCBlbmQ6IE9wdGlvbmFsW2ludF0pOgogICAgIiIiTG9hZCBxdWVzdGlvbnMgZnJvbSBhIGZpbGUuIiIiCiAgICBxdWVzdGlvbnMgPSBbXQogICAgd2l0aCBvcGVuKHF1ZXN0aW9uX2ZpbGUsICJyIikgYXMgcXVlc19maWxlOgogICAgICAgIGZvciBsaW5lIGluIHF1ZXNfZmlsZToKICAgICAgICAgICAgaWYgbGluZToKICAgICAgICAgICAgICAgIHF1ZXN0aW9ucy5hcHBlbmQoanNvbi5sb2FkcyhsaW5lKSkKICAgIHF1ZXN0aW9ucyA9IHF1ZXN0aW9uc1tiZWdpbjplbmRdCiAgICByZXR1cm4gcXVlc3Rpb25zCgoKZGVmIGxvYWRfbW9kZWxfYW5zd2VycyhhbnN3ZXJfZGlyOiBzdHIpOgogICAgIiIiTG9hZCBtb2RlbCBhbnN3ZXJzLgoKICAgIFRoZSByZXR1cm4gdmFsdWUgaXMgYSBweXRob24gZGljdCBvZiB0eXBlOgogICAgRGljdFttb2RlbF9uYW1lOiBzdHIgLT4gRGljdFtxdWVzdGlvbl9pZDogaW50IC0+IGFuc3dlcjogZGljdF1dCiAgICAiIiIKICAgIGZpbGVuYW1lcyA9IGdsb2IuZ2xvYihvcy5wYXRoLmpvaW4oYW5zd2VyX2RpciwgIiouanNvbmwiKSkKICAgIGZpbGVuYW1lcy5zb3J0KCkKICAgIG1vZGVsX2Fuc3dlcnMgPSB7fQoKICAgIGZvciBmaWxlbmFtZSBpbiBmaWxlbmFtZXM6CiAgICAgICAgbW9kZWxfbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUoZmlsZW5hbWUpWzotNl0KICAgICAgICBhbnN3ZXIgPSB7fQogICAgICAgIHdpdGggb3BlbihmaWxlbmFtZSkgYXMgZmluOgogICAgICAgICAgICBmb3IgbGluZSBpbiBmaW46CiAgICAgICAgICAgICAgICBsaW5lID0ganNvbi5sb2FkcyhsaW5lKQogICAgICAgICAgICAgICAgYW5zd2VyW2xpbmVbInF1ZXN0aW9uX2lkIl1dID0gbGluZQogICAgICAgIG1vZGVsX2Fuc3dlcnNbbW9kZWxfbmFtZV0gPSBhbnN3ZXIKCiAgICByZXR1cm4gbW9kZWxfYW5zd2VycwoKCmRlZiBsb2FkX2p1ZGdlX3Byb21wdHMocHJvbXB0X2ZpbGU6IHN0cik6CiAgICAiIiJMb2FkIGp1ZGdlIHByb21wdHMuCgogICAgVGhlIHJldHVybiB2YWx1ZSBpcyBhIHB5dGhvbiBkaWN0IG9mIHR5cGU6CiAgICBEaWN0W2p1ZGdlX25hbWU6IHN0ciAtPiBkaWN0XQogICAgIiIiCiAgICBwcm9tcHRzID0ge30KICAgIHdpdGggb3Blbihwcm9tcHRfZmlsZSkgYXMgZmluOgogICAgICAgIGZvciBsaW5lIGluIGZpbjoKICAgICAgICAgICAgbGluZSA9IGpzb24ubG9hZHMobGluZSkKICAgICAgICAgICAgcHJvbXB0c1tsaW5lWyJuYW1lIl1dID0gbGluZQogICAgcmV0dXJuIHByb21wdHMKCgpkZWYgcnVuX2p1ZGdlX3NpbmdsZShxdWVzdGlvbiwgYW5zd2VyLCBqdWRnZSwgcmVmX2Fuc3dlciwgbXVsdGlfdHVybj1GYWxzZSk6CiAgICBrd2FyZ3MgPSB7fQogICAgbW9kZWwgPSBqdWRnZS5tb2RlbF9uYW1lCiAgICBpZiByZWZfYW5zd2VyIGlzIG5vdCBOb25lOgogICAgICAgIGt3YXJnc1sicmVmX2Fuc3dlcl8xIl0gPSByZWZfYW5zd2VyWyJjaG9pY2VzIl1bMF1bInR1cm5zIl1bMF0KICAgICAgICBpZiBtdWx0aV90dXJuOgogICAgICAgICAgICBrd2FyZ3NbInJlZl9hbnN3ZXJfMiJdID0gcmVmX2Fuc3dlclsiY2hvaWNlcyJdWzBdWyJ0dXJucyJdWzFdCgogICAgaWYgbXVsdGlfdHVybjoKICAgICAgICB1c2VyX3Byb21wdCA9IGp1ZGdlLnByb21wdF90ZW1wbGF0ZVsicHJvbXB0X3RlbXBsYXRlIl0uZm9ybWF0KAogICAgICAgICAgICBxdWVzdGlvbl8xPXF1ZXN0aW9uWyJ0dXJucyJdWzBdLAogICAgICAgICAgICBxdWVzdGlvbl8yPXF1ZXN0aW9uWyJ0dXJucyJdWzFdLAogICAgICAgICAgICBhbnN3ZXJfMT1hbnN3ZXJbImNob2ljZXMiXVswXVsidHVybnMiXVswXSwKICAgICAgICAgICAgYW5zd2VyXzI9YW5zd2VyWyJjaG9pY2VzIl1bMF1bInR1cm5zIl1bMV0sCiAgICAgICAgICAgICoqa3dhcmdzLAogICAgICAgICkKICAgIGVsc2U6CiAgICAgICAgdXNlcl9wcm9tcHQgPSBqdWRnZS5wcm9tcHRfdGVtcGxhdGVbInByb21wdF90ZW1wbGF0ZSJdLmZvcm1hdCgKICAgICAgICAgICAgcXVlc3Rpb249cXVlc3Rpb25bInR1cm5zIl1bMF0sCiAgICAgICAgICAgIGFuc3dlcj1hbnN3ZXJbImNob2ljZXMiXVswXVsidHVybnMiXVswXSwKICAgICAgICAgICAgKiprd2FyZ3MsCiAgICAgICAgKQoKICAgIHJhdGluZyA9IC0xCgogICAgc3lzdGVtX3Byb21wdCA9IGp1ZGdlLnByb21wdF90ZW1wbGF0ZVsic3lzdGVtX3Byb21wdCJdCiAgICBjb252ID0gZ2V0X2NvbnZlcnNhdGlvbl90ZW1wbGF0ZShtb2RlbCkKICAgIGNvbnYuc2V0X3N5c3RlbV9tZXNzYWdlKHN5c3RlbV9wcm9tcHQpCiAgICBjb252LmFwcGVuZF9tZXNzYWdlKGNvbnYucm9sZXNbMF0sIHVzZXJfcHJvbXB0KQogICAgY29udi5hcHBlbmRfbWVzc2FnZShjb252LnJvbGVzWzFdLCBOb25lKQoKICAgIGlmIG1vZGVsIGluIE9QRU5BSV9NT0RFTF9MSVNUOgogICAgICAgIGp1ZGdtZW50ID0gY2hhdF9jb21wbGV0aW9uX29wZW5haShtb2RlbCwgY29udiwgdGVtcGVyYXR1cmU9MCwgbWF4X3Rva2Vucz0yMDQ4KQogICAgZWxpZiBtb2RlbCBpbiBBTlRIUk9QSUNfTU9ERUxfTElTVDoKICAgICAgICBqdWRnbWVudCA9IGNoYXRfY29tcGxldGlvbl9hbnRocm9waWMoCiAgICAgICAgICAgIG1vZGVsLCBjb252LCB0ZW1wZXJhdHVyZT0wLCBtYXhfdG9rZW5zPTEwMjQKICAgICAgICApCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJJbnZhbGlkIGp1ZGdlIG1vZGVsIG5hbWU6IHttb2RlbH0iKQoKICAgIGlmIGp1ZGdlLnByb21wdF90ZW1wbGF0ZVsib3V0cHV0X2Zvcm1hdCJdID09ICJbW3JhdGluZ11dIjoKICAgICAgICBtYXRjaCA9IHJlLnNlYXJjaChvbmVfc2NvcmVfcGF0dGVybiwganVkZ21lbnQpCiAgICAgICAgaWYgbm90IG1hdGNoOgogICAgICAgICAgICBtYXRjaCA9IHJlLnNlYXJjaChvbmVfc2NvcmVfcGF0dGVybl9iYWNrdXAsIGp1ZGdtZW50KQoKICAgICAgICBpZiBtYXRjaDoKICAgICAgICAgICAgcmF0aW5nID0gYXN0LmxpdGVyYWxfZXZhbChtYXRjaC5ncm91cHMoKVswXSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByYXRpbmcgPSAtMQogICAgZWxzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICBmImludmFsaWQgb3V0cHV0IGZvcm1hdDoge2p1ZGdlLnByb21wdF90ZW1wbGF0ZVsnb3V0cHV0X2Zvcm1hdCddfSIKICAgICAgICApCgogICAgcmV0dXJuIHJhdGluZywgdXNlcl9wcm9tcHQsIGp1ZGdtZW50CgoKZGVmIHBsYXlfYV9tYXRjaF9zaW5nbGUobWF0Y2g6IE1hdGNoU2luZ2xlLCBvdXRwdXRfZmlsZTogc3RyKToKICAgIHF1ZXN0aW9uLCBtb2RlbCwgYW5zd2VyLCBqdWRnZSwgcmVmX2Fuc3dlciwgbXVsdGlfdHVybiA9ICgKICAgICAgICBtYXRjaC5xdWVzdGlvbiwKICAgICAgICBtYXRjaC5tb2RlbCwKICAgICAgICBtYXRjaC5hbnN3ZXIsCiAgICAgICAgbWF0Y2guanVkZ2UsCiAgICAgICAgbWF0Y2gucmVmX2Fuc3dlciwKICAgICAgICBtYXRjaC5tdWx0aV90dXJuLAogICAgKQoKICAgIGlmIGp1ZGdlLnByb21wdF90ZW1wbGF0ZVsidHlwZSJdID09ICJzaW5nbGUiOgogICAgICAgIHNjb3JlLCB1c2VyX3Byb21wdCwganVkZ21lbnQgPSBydW5fanVkZ2Vfc2luZ2xlKAogICAgICAgICAgICBxdWVzdGlvbiwgYW5zd2VyLCBqdWRnZSwgcmVmX2Fuc3dlciwgbXVsdGlfdHVybj1tdWx0aV90dXJuCiAgICAgICAgKQoKICAgICAgICBxdWVzdGlvbl9pZCA9IHF1ZXN0aW9uWyJxdWVzdGlvbl9pZCJdCiAgICAgICAgdHVybiA9IDEgaWYgbm90IG11bHRpX3R1cm4gZWxzZSAyCiAgICAgICAgcmVzdWx0ID0gewogICAgICAgICAgICAicXVlc3Rpb25faWQiOiBxdWVzdGlvbl9pZCwKICAgICAgICAgICAgIm1vZGVsIjogbW9kZWwsCiAgICAgICAgICAgICJqdWRnZSI6IChqdWRnZS5tb2RlbF9uYW1lLCBqdWRnZS5wcm9tcHRfdGVtcGxhdGVbIm5hbWUiXSksCiAgICAgICAgICAgICJ1c2VyX3Byb21wdCI6IHVzZXJfcHJvbXB0LAogICAgICAgICAgICAianVkZ21lbnQiOiBqdWRnbWVudCwKICAgICAgICAgICAgInNjb3JlIjogc2NvcmUsCiAgICAgICAgICAgICJ0dXJuIjogdHVybiwKICAgICAgICAgICAgInRzdGFtcCI6IHRpbWUudGltZSgpLAogICAgICAgIH0KICAgICAgICBwcmludCgKICAgICAgICAgICAgZiJxdWVzdGlvbjoge3F1ZXN0aW9uX2lkfSwgdHVybjoge3R1cm59LCBtb2RlbDoge21vZGVsfSwgIgogICAgICAgICAgICBmInNjb3JlOiB7c2NvcmV9LCAiCiAgICAgICAgICAgIGYianVkZ2U6IHsoanVkZ2UubW9kZWxfbmFtZSwganVkZ2UucHJvbXB0X3RlbXBsYXRlWyduYW1lJ10pfSIKICAgICAgICApCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJpbnZhbGlkIGp1ZGdlIHR5cGU6IHtqdWRnZVsndHlwZSddfSIpCgogICAgaWYgb3V0cHV0X2ZpbGU6CiAgICAgICAgb3MubWFrZWRpcnMob3MucGF0aC5kaXJuYW1lKG91dHB1dF9maWxlKSwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICB3aXRoIG9wZW4ob3V0cHV0X2ZpbGUsICJhIikgYXMgZm91dDoKICAgICAgICAgICAgZm91dC53cml0ZShqc29uLmR1bXBzKHJlc3VsdCkgKyAiXG4iKQoKICAgIHJldHVybiByZXN1bHQKCgpkZWYgcnVuX2p1ZGdlX3BhaXIocXVlc3Rpb24sIGFuc3dlcl9hLCBhbnN3ZXJfYiwganVkZ2UsIHJlZl9hbnN3ZXIsIG11bHRpX3R1cm49RmFsc2UpOgogICAga3dhcmdzID0ge30KICAgIG1vZGVsID0ganVkZ2UubW9kZWxfbmFtZQogICAgaWYgcmVmX2Fuc3dlciBpcyBub3QgTm9uZToKICAgICAgICBrd2FyZ3NbInJlZl9hbnN3ZXJfMSJdID0gcmVmX2Fuc3dlclsiY2hvaWNlcyJdWzBdWyJ0dXJucyJdWzBdCiAgICAgICAgaWYgbXVsdGlfdHVybjoKICAgICAgICAgICAga3dhcmdzWyJyZWZfYW5zd2VyXzIiXSA9IHJlZl9hbnN3ZXJbImNob2ljZXMiXVswXVsidHVybnMiXVsxXQoKICAgIGlmIG11bHRpX3R1cm46CiAgICAgICAgc3lzdGVtX3Byb21wdCA9IGp1ZGdlLnByb21wdF90ZW1wbGF0ZVsic3lzdGVtX3Byb21wdCJdCiAgICAgICAgdXNlcl9wcm9tcHQgPSBqdWRnZS5wcm9tcHRfdGVtcGxhdGVbInByb21wdF90ZW1wbGF0ZSJdLmZvcm1hdCgKICAgICAgICAgICAgcXVlc3Rpb25fMT1xdWVzdGlvblsidHVybnMiXVswXSwKICAgICAgICAgICAgcXVlc3Rpb25fMj1xdWVzdGlvblsidHVybnMiXVsxXSwKICAgICAgICAgICAgYW5zd2VyX2FfMT1hbnN3ZXJfYVsiY2hvaWNlcyJdWzBdWyJ0dXJucyJdWzBdLAogICAgICAgICAgICBhbnN3ZXJfYl8xPWFuc3dlcl9iWyJjaG9pY2VzIl1bMF1bInR1cm5zIl1bMF0sCiAgICAgICAgICAgIGFuc3dlcl9hXzI9YW5zd2VyX2FbImNob2ljZXMiXVswXVsidHVybnMiXVsxXSwKICAgICAgICAgICAgYW5zd2VyX2JfMj1hbnN3ZXJfYlsiY2hvaWNlcyJdWzBdWyJ0dXJucyJdWzFdLAogICAgICAgICAgICAqKmt3YXJncywKICAgICAgICApCiAgICBlbHNlOgogICAgICAgIHN5c3RlbV9wcm9tcHQgPSBqdWRnZS5wcm9tcHRfdGVtcGxhdGVbInN5c3RlbV9wcm9tcHQiXQogICAgICAgIHVzZXJfcHJvbXB0ID0ganVkZ2UucHJvbXB0X3RlbXBsYXRlWyJwcm9tcHRfdGVtcGxhdGUiXS5mb3JtYXQoCiAgICAgICAgICAgIHF1ZXN0aW9uPXF1ZXN0aW9uWyJ0dXJucyJdWzBdLAogICAgICAgICAgICBhbnN3ZXJfYT1hbnN3ZXJfYVsiY2hvaWNlcyJdWzBdWyJ0dXJucyJdWzBdLAogICAgICAgICAgICBhbnN3ZXJfYj1hbnN3ZXJfYlsiY2hvaWNlcyJdWzBdWyJ0dXJucyJdWzBdLAogICAgICAgICAgICAqKmt3YXJncywKICAgICAgICApCgogICAgd2lubmVyID0gImVycm9yIgoKICAgIGNvbnYgPSBnZXRfY29udmVyc2F0aW9uX3RlbXBsYXRlKG1vZGVsKQogICAgY29udi5hcHBlbmRfbWVzc2FnZShjb252LnJvbGVzWzBdLCB1c2VyX3Byb21wdCkKICAgIGNvbnYuYXBwZW5kX21lc3NhZ2UoY29udi5yb2xlc1sxXSwgTm9uZSkKCiAgICBpZiBtb2RlbCBpbiBPUEVOQUlfTU9ERUxfTElTVDoKICAgICAgICBjb252LnNldF9zeXN0ZW1fbWVzc2FnZShzeXN0ZW1fcHJvbXB0KQogICAgICAgIGp1ZGdtZW50ID0gY2hhdF9jb21wbGV0aW9uX29wZW5haShtb2RlbCwgY29udiwgdGVtcGVyYXR1cmU9MCwgbWF4X3Rva2Vucz0yMDQ4KQogICAgZWxpZiBtb2RlbCBpbiBBTlRIUk9QSUNfTU9ERUxfTElTVDoKICAgICAgICBpZiBzeXN0ZW1fcHJvbXB0ICE9ICJZb3UgYXJlIGEgaGVscGZ1bCBhc3Npc3RhbnQuIjoKICAgICAgICAgICAgdXNlcl9wcm9tcHQgPSAiW0luc3RydWN0aW9uXVxuIiArIHN5c3RlbV9wcm9tcHQgKyAiXG5cbiIgKyB1c2VyX3Byb21wdAogICAgICAgICAgICBjb252Lm1lc3NhZ2VzWzBdWzFdID0gdXNlcl9wcm9tcHQKICAgICAgICBqdWRnbWVudCA9IGNoYXRfY29tcGxldGlvbl9hbnRocm9waWMoCiAgICAgICAgICAgIG1vZGVsLCBjb252LCB0ZW1wZXJhdHVyZT0wLCBtYXhfdG9rZW5zPTEwMjQKICAgICAgICApCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJJbnZhbGlkIGp1ZGdlIG1vZGVsIG5hbWU6IHttb2RlbH0iKQoKICAgIGlmIGp1ZGdlLnByb21wdF90ZW1wbGF0ZVsib3V0cHV0X2Zvcm1hdCJdID09ICJbW0FdXSI6CiAgICAgICAgaWYgIltbQV1dIiBpbiBqdWRnbWVudDoKICAgICAgICAgICAgd2lubmVyID0gIkEiCiAgICAgICAgZWxpZiAiW1tCXV0iIGluIGp1ZGdtZW50OgogICAgICAgICAgICB3aW5uZXIgPSAiQiIKICAgICAgICBlbGlmICJbW0NdXSIgaW4ganVkZ21lbnQ6CiAgICAgICAgICAgIHdpbm5lciA9ICJ0aWUiCiAgICAgICAgZWxzZToKICAgICAgICAgICAgd2lubmVyID0gImVycm9yIgogICAgZWxpZiBqdWRnZS5wcm9tcHRfdGVtcGxhdGVbIm91dHB1dF9mb3JtYXQiXSA9PSAiW1tyYXRpbmdfYSxyYXRpbmdfYl1dIjoKICAgICAgICBtYXRjaCA9IHJlLnNlYXJjaCh0d29fc2NvcmVfcGF0dGVybiwganVkZ21lbnQpCiAgICAgICAgaWYgbm90IG1hdGNoOgogICAgICAgICAgICBtYXRjaCA9IHJlLnNlYXJjaCh0d29fc2NvcmVfcGF0dGVybl9iYWNrdXAsIGp1ZGdtZW50KQogICAgICAgIGlmIG1hdGNoOgogICAgICAgICAgICBzY29yZXMgPSBbYXN0LmxpdGVyYWxfZXZhbChzLnN0cmlwKCkpIGZvciBzIGluIG1hdGNoLmdyb3VwcygpXQogICAgICAgICAgICBpZiBhYnMoc2NvcmVzWzBdIC0gc2NvcmVzWzFdKSA8PSBUSUVfREVMVEE6CiAgICAgICAgICAgICAgICB3aW5uZXIgPSAidGllIgogICAgICAgICAgICBlbGlmIHNjb3Jlc1swXSA+IHNjb3Jlc1sxXToKICAgICAgICAgICAgICAgIHdpbm5lciA9ICJBIgogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgd2lubmVyID0gIkIiCiAgICAgICAgZWxzZToKICAgICAgICAgICAgd2lubmVyID0gImVycm9yIgogICAgZWxzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICBmImludmFsaWQgb3V0cHV0IGZvcm1hdDoge2p1ZGdlLnByb21wdF90ZW1wbGF0ZVsnb3V0cHV0X2Zvcm1hdCddfSIKICAgICAgICApCgogICAgcmV0dXJuIHdpbm5lciwgdXNlcl9wcm9tcHQsIGp1ZGdtZW50CgoKZGVmIHBsYXlfYV9tYXRjaF9wYWlyKG1hdGNoOiBNYXRjaFBhaXIsIG91dHB1dF9maWxlOiBzdHIpOgogICAgcXVlc3Rpb24sIG1vZGVsXzEsIG1vZGVsXzIsIGFuc3dlcl8xLCBhbnN3ZXJfMiwganVkZ2UsIHJlZl9hbnN3ZXIsIG11bHRpX3R1cm4gPSAoCiAgICAgICAgbWF0Y2gucXVlc3Rpb24sCiAgICAgICAgbWF0Y2gubW9kZWxfMSwKICAgICAgICBtYXRjaC5tb2RlbF8yLAogICAgICAgIG1hdGNoLmFuc3dlcl8xLAogICAgICAgIG1hdGNoLmFuc3dlcl8yLAogICAgICAgIG1hdGNoLmp1ZGdlLAogICAgICAgIG1hdGNoLnJlZl9hbnN3ZXIsCiAgICAgICAgbWF0Y2gubXVsdGlfdHVybiwKICAgICkKCiAgICBpZiBqdWRnZS5wcm9tcHRfdGVtcGxhdGVbInR5cGUiXSA9PSAicGFpcndpc2UiOgogICAgICAgIGcxX3dpbm5lciwgZzFfdXNlcl9wcm9tcHQsIGcxX2p1ZGdtZW50ID0gcnVuX2p1ZGdlX3BhaXIoCiAgICAgICAgICAgIHF1ZXN0aW9uLCBhbnN3ZXJfMSwgYW5zd2VyXzIsIGp1ZGdlLCByZWZfYW5zd2VyLCBtdWx0aV90dXJuPW11bHRpX3R1cm4KICAgICAgICApCiAgICAgICAgZzJfd2lubmVyLCBnMl91c2VyX3Byb21wdCwgZzJfanVkZ21lbnQgPSBydW5fanVkZ2VfcGFpcigKICAgICAgICAgICAgcXVlc3Rpb24sIGFuc3dlcl8yLCBhbnN3ZXJfMSwganVkZ2UsIHJlZl9hbnN3ZXIsIG11bHRpX3R1cm49bXVsdGlfdHVybgogICAgICAgICkKCiAgICAgICAgZzFfbWFwID0geyJBIjogIm1vZGVsXzEiLCAiQiI6ICJtb2RlbF8yIn0KICAgICAgICBnMl9tYXAgPSB7IkEiOiAibW9kZWxfMiIsICJCIjogIm1vZGVsXzEifQogICAgICAgIGcxX3dpbm5lciA9IGcxX21hcC5nZXQoZzFfd2lubmVyLCBnMV93aW5uZXIpCiAgICAgICAgZzJfd2lubmVyID0gZzJfbWFwLmdldChnMl93aW5uZXIsIGcyX3dpbm5lcikKICAgICAgICBxdWVzdGlvbl9pZCA9IHF1ZXN0aW9uWyJxdWVzdGlvbl9pZCJdCiAgICAgICAgdHVybiA9IDEgaWYgbm90IG11bHRpX3R1cm4gZWxzZSAyCgogICAgICAgIHJlc3VsdCA9IHsKICAgICAgICAgICAgInF1ZXN0aW9uX2lkIjogcXVlc3Rpb25faWQsCiAgICAgICAgICAgICJtb2RlbF8xIjogbW9kZWxfMSwKICAgICAgICAgICAgIm1vZGVsXzIiOiBtb2RlbF8yLAogICAgICAgICAgICAiZzFfd2lubmVyIjogZzFfd2lubmVyLAogICAgICAgICAgICAiZzJfd2lubmVyIjogZzJfd2lubmVyLAogICAgICAgICAgICAianVkZ2UiOiAoanVkZ2UubW9kZWxfbmFtZSwganVkZ2UucHJvbXB0X3RlbXBsYXRlWyJuYW1lIl0pLAogICAgICAgICAgICAiZzFfdXNlcl9wcm9tcHQiOiBnMV91c2VyX3Byb21wdCwKICAgICAgICAgICAgImcxX2p1ZGdtZW50IjogZzFfanVkZ21lbnQsCiAgICAgICAgICAgICJnMl91c2VyX3Byb21wdCI6IGcyX3VzZXJfcHJvbXB0LAogICAgICAgICAgICAiZzJfanVkZ21lbnQiOiBnMl9qdWRnbWVudCwKICAgICAgICAgICAgInR1cm4iOiB0dXJuLAogICAgICAgICAgICAidHN0YW1wIjogdGltZS50aW1lKCksCiAgICAgICAgfQoKICAgICAgICBwcmludCgKICAgICAgICAgICAgZiJxdWVzdGlvbjoge3F1ZXN0aW9uX2lkfSwgdHVybjoge3R1cm59LCBtb2RlbF8xOiB7bW9kZWxfMX0sIG1vZGVsXzI6IHttb2RlbF8yfSwgIgogICAgICAgICAgICBmImcxX3dpbm5lcjoge2cxX3dpbm5lcn0sIGcyX3dpbm5lcjoge2cyX3dpbm5lcn0sICIKICAgICAgICAgICAgZiJqdWRnZTogeyhqdWRnZS5tb2RlbF9uYW1lLCBqdWRnZS5wcm9tcHRfdGVtcGxhdGVbJ25hbWUnXSl9IgogICAgICAgICkKICAgIGVsaWYganVkZ2UucHJvbXB0X3RlbXBsYXRlWyJ0eXBlIl0gPT0gInNpbmdsZSI6CiAgICAgICAgbTFfc2NvcmUsIG0xX3VzZXJfcHJvbXB0LCBtMV9qdWRnbWVudCA9IHJ1bl9qdWRnZV9zaW5nbGUoCiAgICAgICAgICAgIHF1ZXN0aW9uLCBhbnN3ZXJfMSwganVkZ2UKICAgICAgICApCiAgICAgICAgbTJfc2NvcmUsIG0yX3VzZXJfcHJvbXB0LCBtMl9qdWRnbWVudCA9IHJ1bl9qdWRnZV9zaW5nbGUoCiAgICAgICAgICAgIHF1ZXN0aW9uLCBhbnN3ZXJfMiwganVkZ2UKICAgICAgICApCgogICAgICAgIGlmIGFicyhtMV9zY29yZSAtIG0yX3Njb3JlKSA8PSBUSUVfREVMVEE6CiAgICAgICAgICAgIHdpbm5lciA9ICJ0aWUiCiAgICAgICAgZWxpZiBtMV9zY29yZSA+IG0yX3Njb3JlOgogICAgICAgICAgICB3aW5uZXIgPSAibW9kZWxfMSIKICAgICAgICBlbHNlOgogICAgICAgICAgICB3aW5uZXIgPSAibW9kZWxfMiIKCiAgICAgICAgcXVlc3Rpb25faWQgPSBxdWVzdGlvblsicXVlc3Rpb25faWQiXQogICAgICAgIHJlc3VsdCA9IHsKICAgICAgICAgICAgInF1ZXN0aW9uX2lkIjogcXVlc3Rpb25faWQsCiAgICAgICAgICAgICJtb2RlbF8xIjogbW9kZWxfMSwKICAgICAgICAgICAgIm1vZGVsXzIiOiBtb2RlbF8yLAogICAgICAgICAgICAiZzFfd2lubmVyIjogd2lubmVyLAogICAgICAgICAgICAiZzJfd2lubmVyIjogd2lubmVyLAogICAgICAgICAgICAianVkZ2UiOiAoanVkZ2UubW9kZWxfbmFtZSwganVkZ2UucHJvbXB0X3RlbXBsYXRlWyJuYW1lIl0pLAogICAgICAgICAgICAiZzFfdXNlcl9wcm9tcHQiOiBtMV91c2VyX3Byb21wdCwKICAgICAgICAgICAgImcxX2p1ZGdtZW50IjogbTFfanVkZ21lbnQsCiAgICAgICAgICAgICJnMl91c2VyX3Byb21wdCI6IG0yX3VzZXJfcHJvbXB0LAogICAgICAgICAgICAiZzJfanVkZ21lbnQiOiBtMl9qdWRnbWVudCwKICAgICAgICAgICAgIm0xX3Njb3JlIjogbTFfc2NvcmUsCiAgICAgICAgICAgICJtMl9zY29yZSI6IG0yX3Njb3JlLAogICAgICAgICAgICAidHN0YW1wIjogdGltZS50aW1lKCksCiAgICAgICAgfQogICAgICAgIHByaW50KAogICAgICAgICAgICBmInF1ZXN0aW9uOiB7cXVlc3Rpb25faWR9LCBtb2RlbF8xOiB7bW9kZWxfMX0sIG1vZGVsXzI6IHttb2RlbF8yfSwgIgogICAgICAgICAgICBmIndpbm5lcjoge3dpbm5lcn0sIG0xX3Njb3JlOiB7bTFfc2NvcmV9LCBtMl9zY29yZToge20yX3Njb3JlfSwgIgogICAgICAgICAgICBmImp1ZGdlOiB7KGp1ZGdlLm1vZGVsX25hbWUsIGp1ZGdlLnByb21wdF90ZW1wbGF0ZVsnbmFtZSddKX0iCiAgICAgICAgKQogICAgZWxzZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiaW52YWxpZCBqdWRnZSB0eXBlOiB7anVkZ2VbJ3R5cGUnXX0iKQoKICAgIGlmIG91dHB1dF9maWxlOgogICAgICAgIG9zLm1ha2VkaXJzKG9zLnBhdGguZGlybmFtZShvdXRwdXRfZmlsZSksIGV4aXN0X29rPVRydWUpCiAgICAgICAgd2l0aCBvcGVuKG91dHB1dF9maWxlLCAiYSIpIGFzIGZvdXQ6CiAgICAgICAgICAgIGZvdXQud3JpdGUoanNvbi5kdW1wcyhyZXN1bHQpICsgIlxuIikKCiAgICByZXR1cm4gcmVzdWx0CgoKZGVmIGNoYXRfY29tcGxldGlvbl9vcGVuYWkobW9kZWwsIGNvbnYsIHRlbXBlcmF0dXJlLCBtYXhfdG9rZW5zLCBhcGlfZGljdD1Ob25lKToKICAgIGlmIGFwaV9kaWN0IGlzIG5vdCBOb25lOgogICAgICAgIG9wZW5haS5hcGlfYmFzZSA9IGFwaV9kaWN0WyJhcGlfYmFzZSJdCiAgICAgICAgb3BlbmFpLmFwaV9rZXkgPSBhcGlfZGljdFsiYXBpX2tleSJdCiAgICBvdXRwdXQgPSBBUElfRVJST1JfT1VUUFVUCiAgICBmb3IgXyBpbiByYW5nZShBUElfTUFYX1JFVFJZKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIG1lc3NhZ2VzID0gY29udi50b19vcGVuYWlfYXBpX21lc3NhZ2VzKCkKICAgICAgICAgICAgcmVzcG9uc2UgPSBvcGVuYWkuQ2hhdENvbXBsZXRpb24uY3JlYXRlKAogICAgICAgICAgICAgICAgbW9kZWw9bW9kZWwsCiAgICAgICAgICAgICAgICBtZXNzYWdlcz1tZXNzYWdlcywKICAgICAgICAgICAgICAgIG49MSwKICAgICAgICAgICAgICAgIHRlbXBlcmF0dXJlPXRlbXBlcmF0dXJlLAogICAgICAgICAgICAgICAgbWF4X3Rva2Vucz1tYXhfdG9rZW5zLAogICAgICAgICAgICApCiAgICAgICAgICAgIG91dHB1dCA9IHJlc3BvbnNlWyJjaG9pY2VzIl1bMF1bIm1lc3NhZ2UiXVsiY29udGVudCJdCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZXhjZXB0IG9wZW5haS5lcnJvci5PcGVuQUlFcnJvciBhcyBlOgogICAgICAgICAgICBwcmludCh0eXBlKGUpLCBlKQogICAgICAgICAgICB0aW1lLnNsZWVwKEFQSV9SRVRSWV9TTEVFUCkKCiAgICByZXR1cm4gb3V0cHV0CgoKZGVmIGNoYXRfY29tcGxldGlvbl9vcGVuYWlfYXp1cmUobW9kZWwsIGNvbnYsIHRlbXBlcmF0dXJlLCBtYXhfdG9rZW5zLCBhcGlfZGljdD1Ob25lKToKICAgIG9wZW5haS5hcGlfdHlwZSA9ICJhenVyZSIKICAgIG9wZW5haS5hcGlfdmVyc2lvbiA9ICIyMDIzLTA3LTAxLXByZXZpZXciCiAgICBpZiBhcGlfZGljdCBpcyBub3QgTm9uZToKICAgICAgICBvcGVuYWkuYXBpX2Jhc2UgPSBhcGlfZGljdFsiYXBpX2Jhc2UiXQogICAgICAgIG9wZW5haS5hcGlfa2V5ID0gYXBpX2RpY3RbImFwaV9rZXkiXQogICAgZWxzZToKICAgICAgICBvcGVuYWkuYXBpX2Jhc2UgPSBvcy5lbnZpcm9uWyJBWlVSRV9PUEVOQUlfRU5EUE9JTlQiXQogICAgICAgIG9wZW5haS5hcGlfa2V5ID0gb3MuZW52aXJvblsiQVpVUkVfT1BFTkFJX0tFWSJdCgogICAgaWYgImF6dXJlLSIgaW4gbW9kZWw6CiAgICAgICAgbW9kZWwgPSBtb2RlbFs2Ol0KCiAgICBvdXRwdXQgPSBBUElfRVJST1JfT1VUUFVUCiAgICBmb3IgXyBpbiByYW5nZShBUElfTUFYX1JFVFJZKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIG1lc3NhZ2VzID0gY29udi50b19vcGVuYWlfYXBpX21lc3NhZ2VzKCkKICAgICAgICAgICAgcmVzcG9uc2UgPSBvcGVuYWkuQ2hhdENvbXBsZXRpb24uY3JlYXRlKAogICAgICAgICAgICAgICAgZW5naW5lPW1vZGVsLAogICAgICAgICAgICAgICAgbWVzc2FnZXM9bWVzc2FnZXMsCiAgICAgICAgICAgICAgICBuPTEsCiAgICAgICAgICAgICAgICB0ZW1wZXJhdHVyZT10ZW1wZXJhdHVyZSwKICAgICAgICAgICAgICAgIG1heF90b2tlbnM9bWF4X3Rva2VucywKICAgICAgICAgICAgKQogICAgICAgICAgICBvdXRwdXQgPSByZXNwb25zZVsiY2hvaWNlcyJdWzBdWyJtZXNzYWdlIl1bImNvbnRlbnQiXQogICAgICAgICAgICBicmVhawogICAgICAgIGV4Y2VwdCBvcGVuYWkuZXJyb3IuT3BlbkFJRXJyb3IgYXMgZToKICAgICAgICAgICAgcHJpbnQodHlwZShlKSwgZSkKICAgICAgICAgICAgdGltZS5zbGVlcChBUElfUkVUUllfU0xFRVApCiAgICAgICAgZXhjZXB0IG9wZW5haS5lcnJvci5JbnZhbGlkUmVxdWVzdEVycm9yIGFzIGU6CiAgICAgICAgICAgIHByaW50KHR5cGUoZSksIGUpCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICBwcmludChyZXNwb25zZSkKICAgICAgICAgICAgYnJlYWsKCiAgICByZXR1cm4gb3V0cHV0CgoKZGVmIGNoYXRfY29tcGxldGlvbl9hbnRocm9waWMobW9kZWwsIGNvbnYsIHRlbXBlcmF0dXJlLCBtYXhfdG9rZW5zLCBhcGlfZGljdD1Ob25lKToKICAgIGlmIGFwaV9kaWN0IGlzIG5vdCBOb25lIGFuZCAiYXBpX2tleSIgaW4gYXBpX2RpY3Q6CiAgICAgICAgYXBpX2tleSA9IGFwaV9kaWN0WyJhcGlfa2V5Il0KICAgIGVsc2U6CiAgICAgICAgYXBpX2tleSA9IG9zLmVudmlyb25bIkFOVEhST1BJQ19BUElfS0VZIl0KCiAgICBvdXRwdXQgPSBBUElfRVJST1JfT1VUUFVUCiAgICBmb3IgXyBpbiByYW5nZShBUElfTUFYX1JFVFJZKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGMgPSBhbnRocm9waWMuQW50aHJvcGljKGFwaV9rZXk9YXBpX2tleSkKICAgICAgICAgICAgcHJvbXB0ID0gY29udi5nZXRfcHJvbXB0KCkKICAgICAgICAgICAgcmVzcG9uc2UgPSBjLmNvbXBsZXRpb25zLmNyZWF0ZSgKICAgICAgICAgICAgICAgIG1vZGVsPW1vZGVsLAogICAgICAgICAgICAgICAgcHJvbXB0PXByb21wdCwKICAgICAgICAgICAgICAgIHN0b3Bfc2VxdWVuY2VzPVthbnRocm9waWMuSFVNQU5fUFJPTVBUXSwKICAgICAgICAgICAgICAgIG1heF90b2tlbnNfdG9fc2FtcGxlPW1heF90b2tlbnMsCiAgICAgICAgICAgICAgICB0ZW1wZXJhdHVyZT10ZW1wZXJhdHVyZSwKICAgICAgICAgICAgKQogICAgICAgICAgICBvdXRwdXQgPSByZXNwb25zZS5jb21wbGV0aW9uCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZXhjZXB0IGFudGhyb3BpYy5BUElFcnJvciBhcyBlOgogICAgICAgICAgICBwcmludCh0eXBlKGUpLCBlKQogICAgICAgICAgICB0aW1lLnNsZWVwKEFQSV9SRVRSWV9TTEVFUCkKICAgIHJldHVybiBvdXRwdXQuc3RyaXAoKQoKCmRlZiBjaGF0X2NvbXBsZXRpb25fcGFsbShjaGF0X3N0YXRlLCBtb2RlbCwgY29udiwgdGVtcGVyYXR1cmUsIG1heF90b2tlbnMpOgogICAgZnJvbSBmYXN0Y2hhdC5zZXJ2ZS5hcGlfcHJvdmlkZXIgaW1wb3J0IGluaXRfcGFsbV9jaGF0CgogICAgYXNzZXJ0IG1vZGVsID09ICJwYWxtLTItY2hhdC1iaXNvbi0wMDEiCgogICAgaWYgY2hhdF9zdGF0ZSBpcyBOb25lOgogICAgICAgIGNoYXRfc3RhdGUgPSBpbml0X3BhbG1fY2hhdCgiY2hhdC1iaXNvbkAwMDEiKQoKICAgIHBhcmFtZXRlcnMgPSB7CiAgICAgICAgInRlbXBlcmF0dXJlIjogdGVtcGVyYXR1cmUsCiAgICAgICAgInRvcF9wIjogMC44LAogICAgICAgICJ0b3BfayI6IDQwLAogICAgICAgICJtYXhfb3V0cHV0X3Rva2VucyI6IG1heF90b2tlbnMsCiAgICB9CiAgICBvdXRwdXQgPSBBUElfRVJST1JfT1VUUFVUCiAgICBmb3IgXyBpbiByYW5nZShBUElfTUFYX1JFVFJZKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlc3BvbnNlID0gY2hhdF9zdGF0ZS5zZW5kX21lc3NhZ2UoY29udi5tZXNzYWdlc1stMl1bMV0sICoqcGFyYW1ldGVycykKICAgICAgICAgICAgb3V0cHV0ID0gcmVzcG9uc2UudGV4dAogICAgICAgICAgICBicmVhawogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcHJpbnQodHlwZShlKSwgZSkKICAgICAgICAgICAgdGltZS5zbGVlcChBUElfUkVUUllfU0xFRVApCiAgICByZXR1cm4gY2hhdF9zdGF0ZSwgb3V0cHV0CgoKZGVmIG5vcm1hbGl6ZV9nYW1lX2tleV9zaW5nbGUoZ2FtZWtleSwgcmVzdWx0KToKICAgICIiIk1ha2UgdGhlIG1vZGVsIG5hbWVzIHNvcnRlZCBpbiBhIGdhbWUga2V5LiIiIgogICAgcWlkLCBtb2RlbF8xLCBtb2RlbF8yID0gZ2FtZWtleQogICAgaWYgbW9kZWxfMSA8IG1vZGVsXzI6CiAgICAgICAgcmV0dXJuIGdhbWVrZXksIHJlc3VsdAogICAgZWxzZToKICAgICAgICBuZXdfZ2FtZWtleSA9IChxaWQsIG1vZGVsXzIsIG1vZGVsXzEpCiAgICAgICAgbmV3X3Jlc3VsdCA9IHsKICAgICAgICAgICAgIndpbm5lcnMiOiB0dXBsZShyZXZlcnNlX21vZGVsX21hcC5nZXQoeCwgeCkgZm9yIHggaW4gcmVzdWx0WyJ3aW5uZXJzIl0pLAogICAgICAgICAgICAiZzFfanVkZ21lbnQiOiByZXN1bHRbImcyX2p1ZGdtZW50Il0sCiAgICAgICAgICAgICJnMl9qdWRnbWVudCI6IHJlc3VsdFsiZzFfanVkZ21lbnQiXSwKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG5ld19nYW1la2V5LCBuZXdfcmVzdWx0CgoKZGVmIG5vcm1hbGl6ZV9nYW1lX2tleV9kaWN0KGp1ZGdtZW50X2RpY3QpOgogICAgIiIiTWFrZSB0aGUgbW9kZWwgbmFtZXMgc29ydGVkIGluIHRoZSBnYW1lIGtleXMuIiIiCiAgICByZXQgPSB7fQogICAgZm9yIGtleSwgdmFsdWUgaW4ganVkZ21lbnRfZGljdC5pdGVtcygpOgogICAgICAgIG5ld19rZXksIG5ld192YWx1ZSA9IG5vcm1hbGl6ZV9nYW1lX2tleV9zaW5nbGUoa2V5LCB2YWx1ZSkKICAgICAgICByZXRbbmV3X2tleV0gPSBuZXdfdmFsdWUKICAgIHJldHVybiByZXQKCgpkZWYgbG9hZF9wYWlyd2lzZV9tb2RlbF9qdWRnbWVudHMoZmlsZW5hbWU6IHN0cik6CiAgICAiIiJMb2FkIG1vZGVsIGp1ZGdtZW50cy4KCiAgICBUaGUgcmV0dXJuIHZhbHVlIGlzIGEgZGljdCBvZiB0eXBlOgogICAgRGljdFtqdWRnZTogVHVwbGUgLT4gRGljdFtnYW1lX2tleTogdHVwbGUgLT4gZ2FtZV9yZXN1bHQ6IGRpY3RdCiAgICAiIiIKICAgIGp1ZGdlX2RpY3QgPSB7fQoKICAgIGZvciBsaW5lIGluIG9wZW4oZmlsZW5hbWUpOgogICAgICAgIG9iaiA9IGpzb24ubG9hZHMobGluZSkKICAgICAgICBqdWRnZSA9IHR1cGxlKG9ialsianVkZ2UiXSkKICAgICAgICBxaWQsIG1vZGVsXzEsIG1vZGVsXzIgPSBvYmpbInF1ZXN0aW9uX2lkIl0sIG9ialsibW9kZWxfMSJdLCBvYmpbIm1vZGVsXzIiXQoKICAgICAgICBpZiBqdWRnZSBub3QgaW4ganVkZ2VfZGljdDoKICAgICAgICAgICAganVkZ2VfZGljdFtqdWRnZV0gPSB7fQoKICAgICAgICBpZiAid2lubmVyIiBpbiBvYmo6CiAgICAgICAgICAgIHdpbm5lciA9IG9ialsid2lubmVyIl0KICAgICAgICBlbGlmICJnMV93aW5uZXIiIGluIG9iaiBhbmQgImcyX3dpbm5lciIgaW4gb2JqOgogICAgICAgICAgICBnMV93aW5uZXIsIGcyX3dpbm5lciA9IG9ialsiZzFfd2lubmVyIl0sIG9ialsiZzJfd2lubmVyIl0KICAgICAgICAgICAgaWYgZzFfd2lubmVyID09IGcyX3dpbm5lcjoKICAgICAgICAgICAgICAgIHdpbm5lciA9IGcxX3dpbm5lcgogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgd2lubmVyID0gImluY29uc2lzdGVudCIKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiSW52YWxpZCBrZXlzOiB7bGlzdChvYmoua2V5cygpKX0iKQoKICAgICAgICBnYW1la2V5ID0gKHFpZCwgbW9kZWxfMSwgbW9kZWxfMikKICAgICAgICB3aW5uZXJzID0gKHdpbm5lciwpCgogICAgICAgIGp1ZGdlX2RpY3RbanVkZ2VdW2dhbWVrZXldID0gewogICAgICAgICAgICAid2lubmVycyI6IHdpbm5lcnMsCiAgICAgICAgICAgICJnMV9qdWRnbWVudCI6IG9ialsiZzFfanVkZ21lbnQiXSwKICAgICAgICAgICAgImcyX2p1ZGdtZW50Ijogb2JqWyJnMl9qdWRnbWVudCJdLAogICAgICAgIH0KCiAgICAjIE1ha2UgdGhlIG1vZGVsIG5hbWVzIHNvcnRlZCBpbiB0aGUgZ2FtZSBrZXlzCiAgICBub3JtYWxpemVkID0ge30KICAgIGZvciBqdWRnZSwgdmFsdWUgaW4ganVkZ2VfZGljdC5pdGVtcygpOgogICAgICAgIG5vcm1hbGl6ZWRbanVkZ2VdID0gbm9ybWFsaXplX2dhbWVfa2V5X2RpY3QodmFsdWUpCiAgICByZXR1cm4gbm9ybWFsaXplZAoKCmRlZiBsb2FkX3NpbmdsZV9tb2RlbF9qdWRnbWVudHMoZmlsZW5hbWU6IHN0cik6CiAgICAiIiJMb2FkIG1vZGVsIGp1ZGdtZW50cy4KCiAgICBUaGUgcmV0dXJuIHZhbHVlIGlzIGEgZGljdCBvZiB0eXBlOgogICAgRGljdFtqdWRnZTogVHVwbGUgLT4gRGljdFtnYW1lX2tleTogdHVwbGUgLT4gZ2FtZV9yZXN1bHQ6IGRpY3RdCiAgICAiIiIKICAgIGp1ZGdlX2RpY3QgPSB7fQoKICAgIGZvciBsaW5lIGluIG9wZW4oZmlsZW5hbWUpOgogICAgICAgIG9iaiA9IGpzb24ubG9hZHMobGluZSkKICAgICAgICBqdWRnZSA9IHR1cGxlKG9ialsianVkZ2UiXSkKICAgICAgICBxaWQsIG1vZGVsID0gb2JqWyJxdWVzdGlvbl9pZCJdLCBvYmpbIm1vZGVsIl0KCiAgICAgICAgaWYganVkZ2Ugbm90IGluIGp1ZGdlX2RpY3Q6CiAgICAgICAgICAgIGp1ZGdlX2RpY3RbanVkZ2VdID0ge30KCiAgICAgICAgZ2FtZWtleSA9IChxaWQsIG1vZGVsKQoKICAgICAgICBqdWRnZV9kaWN0W2p1ZGdlXVtnYW1la2V5XSA9IHsKICAgICAgICAgICAgInNjb3JlIjogb2JqWyJzY29yZSJdLAogICAgICAgICAgICAianVkZ21lbnQiOiBvYmpbImp1ZGdtZW50Il0sCiAgICAgICAgfQogICAgcmV0dXJuIGp1ZGdlX2RpY3QKCgpkZWYgcmVzb2x2ZV9wYWlyd2lzZV9qdWRnbWVudF9kaWN0KAogICAgcXVlc3Rpb24sIG1vZGVsX2p1ZGdtZW50c19ub3JtYWwsIG1vZGVsX2p1ZGdtZW50c19tYXRoLCBtdWx0aV90dXJuPUZhbHNlCik6CiAgICAiIiJSZXR1cm4gdGhlIGNvcnJlY3QgcGFpcndpc2UganVkZ2UuIiIiCiAgICBpZiBtdWx0aV90dXJuOgogICAgICAgIGlmIHF1ZXN0aW9uWyJjYXRlZ29yeSJdIGluIE5FRURfUkVGX0NBVFM6CiAgICAgICAgICAgIHJldHVybiBtb2RlbF9qdWRnbWVudHNfbWF0aFsoImdwdC00IiwgInBhaXItbWF0aC12MS1tdWx0aS10dXJuIildCiAgICAgICAgcmV0dXJuIG1vZGVsX2p1ZGdtZW50c19ub3JtYWxbKCJncHQtNCIsICJwYWlyLXYyLW11bHRpLXR1cm4iKV0KCiAgICBpZiBxdWVzdGlvblsiY2F0ZWdvcnkiXSBpbiBORUVEX1JFRl9DQVRTOgogICAgICAgIHJldHVybiBtb2RlbF9qdWRnbWVudHNfbWF0aFsoImdwdC00IiwgInBhaXItbWF0aC12MSIpXQogICAgZWxzZToKICAgICAgICByZXR1cm4gbW9kZWxfanVkZ21lbnRzX25vcm1hbFsoImdwdC00IiwgInBhaXItdjIiKV0KCgpkZWYgcmVzb2x2ZV9zaW5nbGVfanVkZ21lbnRfZGljdCgKICAgIHF1ZXN0aW9uLCBtb2RlbF9qdWRnbWVudHNfbm9ybWFsLCBtb2RlbF9qdWRnbWVudHNfbWF0aCwgbXVsdGlfdHVybj1GYWxzZQopOgogICAgIiIiUmV0dXJuIHRoZSBjb3JyZWN0IHNpbmdsZSBhbnN3ZXIgZ3JhZGluZyBqdWRnZS4iIiIKICAgIGlmIG11bHRpX3R1cm46CiAgICAgICAgaWYgcXVlc3Rpb25bImNhdGVnb3J5Il0gaW4gTkVFRF9SRUZfQ0FUUzoKICAgICAgICAgICAgcmV0dXJuIG1vZGVsX2p1ZGdtZW50c19tYXRoWygiZ3B0LTQiLCAic2luZ2xlLW1hdGgtdjEtbXVsdGktdHVybiIpXQogICAgICAgIHJldHVybiBtb2RlbF9qdWRnbWVudHNfbm9ybWFsWygiZ3B0LTQiLCAic2luZ2xlLXYxLW11bHRpLXR1cm4iKV0KCiAgICBpZiBxdWVzdGlvblsiY2F0ZWdvcnkiXSBpbiBORUVEX1JFRl9DQVRTOgogICAgICAgIHJldHVybiBtb2RlbF9qdWRnbWVudHNfbWF0aFsoImdwdC00IiwgInNpbmdsZS1tYXRoLXYxIildCiAgICBlbHNlOgogICAgICAgIHJldHVybiBtb2RlbF9qdWRnbWVudHNfbm9ybWFsWygiZ3B0LTQiLCAic2luZ2xlLXYxIildCgoKZGVmIGdldF9wYWlyd2lzZV9qdWRnZV9leHBsYW5hdGlvbihnYW1la2V5LCBqdWRnbWVudF9kaWN0KToKICAgICIiIkdldCBtb2RlbCBqdWRnZSBleHBsYW5hdGlvbi4iIiIKICAgIHRyeToKICAgICAgICBxaWQsIG1vZGVsXzEsIG1vZGVsXzIgPSBnYW1la2V5CiAgICAgICAgaWYgbW9kZWxfMSA8IG1vZGVsXzI6CiAgICAgICAgICAgIHJlcyA9IGp1ZGdtZW50X2RpY3RbZ2FtZWtleV0KICAgICAgICAgICAgZzFfanVkZ21lbnQsIGcyX2p1ZGdtZW50ID0gcmVzWyJnMV9qdWRnbWVudCJdLCByZXNbImcyX2p1ZGdtZW50Il0KICAgICAgICBlbHNlOgogICAgICAgICAgICBuZXdfZ2FtZWtleSA9IChxaWQsIG1vZGVsXzIsIG1vZGVsXzEpCiAgICAgICAgICAgIHJlcyA9IGp1ZGdtZW50X2RpY3RbbmV3X2dhbWVrZXldCgogICAgICAgICAgICBtb2RlbF8xLCBtb2RlbF8yID0gbW9kZWxfMSwgbW9kZWxfMgogICAgICAgICAgICBnMV9qdWRnbWVudCwgZzJfanVkZ21lbnQgPSByZXNbImcyX2p1ZGdtZW50Il0sIHJlc1siZzFfanVkZ21lbnQiXQoKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICBmIioqR2FtZSAxKiouICoqQSoqOiB7bW9kZWxfMX0sICoqQioqOiB7bW9kZWxfMn1cblxuIgogICAgICAgICAgICBmIioqSnVkZ21lbnQqKjoge2cxX2p1ZGdtZW50fSIKICAgICAgICAgICAgKyBmIlxuXG5gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1gXG5cbiIKICAgICAgICAgICAgKyBmIioqR2FtZSAyKiouICoqQSoqOiB7bW9kZWxfMn0sICoqQioqOiB7bW9kZWxfMX1cblxuIgogICAgICAgICAgICBmIioqSnVkZ21lbnQqKjoge2cyX2p1ZGdtZW50fSIKICAgICAgICApCiAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgcmV0dXJuICJOL0EiCgoKZGVmIGdldF9zaW5nbGVfanVkZ2VfZXhwbGFuYXRpb24oZ2FtZWtleSwganVkZ21lbnRfZGljdCk6CiAgICAiIiJHZXQgbW9kZWwganVkZ2UgZXhwbGFuYXRpb24uIiIiCiAgICB0cnk6CiAgICAgICAgcWlkLCBtb2RlbCA9IGdhbWVrZXkKCiAgICAgICAgcmVzID0ganVkZ21lbnRfZGljdFtnYW1la2V5XQoKICAgICAgICBnMV9qdWRnbWVudCA9IHJlc1sianVkZ21lbnQiXQogICAgICAgIGcxX3Njb3JlID0gcmVzWyJzY29yZSJdCgogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIGYiKipHYW1lIDEqKi4gKipBKio6IHttb2RlbH0sICoqU2NvcmUqKjoge2cxX3Njb3JlfVxuXG4iCiAgICAgICAgICAgIGYiKipKdWRnbWVudCoqOiB7ZzFfanVkZ21lbnR9IgogICAgICAgICkKICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICByZXR1cm4gIk4vQSIKCgpkZWYgY2hlY2tfZGF0YShxdWVzdGlvbnMsIG1vZGVsX2Fuc3dlcnMsIHJlZl9hbnN3ZXJzLCBtb2RlbHMsIGp1ZGdlcyk6CiAgICAjIGNoZWNrIG1vZGVsIGFuc3dlcnMKICAgIGZvciBtIGluIG1vZGVsczoKICAgICAgICBhc3NlcnQgbSBpbiBtb2RlbF9hbnN3ZXJzLCBmIk1pc3NpbmcgbW9kZWwgYW5zd2VyIGZvciB7bX0iCiAgICAgICAgbV9hbnN3ZXIgPSBtb2RlbF9hbnN3ZXJzW21dCiAgICAgICAgZm9yIHEgaW4gcXVlc3Rpb25zOgogICAgICAgICAgICBhc3NlcnQgKAogICAgICAgICAgICAgICAgcVsicXVlc3Rpb25faWQiXSBpbiBtX2Fuc3dlcgogICAgICAgICAgICApLCBmIk1pc3NpbmcgbW9kZWwge219J3MgYW5zd2VyIHRvIFF1ZXN0aW9uIHtxWydxdWVzdGlvbl9pZCddfSIKICAgICMgY2hlY2sgcmVmIGFuc3dlcnMKICAgIGZvciBqZyBpbiBqdWRnZXMudmFsdWVzKCk6CiAgICAgICAgaWYgbm90IGpnLnJlZl9iYXNlZDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmb3IgcSBpbiBxdWVzdGlvbnM6CiAgICAgICAgICAgIGlmIHFbImNhdGVnb3J5Il0gbm90IGluIE5FRURfUkVGX0NBVFM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBhc3NlcnQgKAogICAgICAgICAgICAgICAgcVsicXVlc3Rpb25faWQiXSBpbiByZWZfYW5zd2Vyc1tqZy5tb2RlbF9uYW1lXQogICAgICAgICAgICApLCBmIk1pc3NpbmcgcmVmZXJlbmNlIGFuc3dlciB0byBRdWVzdGlvbiB7cVsncXVlc3Rpb25faWQnXX0gZm9yIGp1ZGdlIHtqZy5tb2RlbF9uYW1lfSIKCgpkZWYgZ2V0X21vZGVsX2xpc3QoYW5zd2VyX2Rpcik6CiAgICBmaWxlX3BhdGhzID0gZ2xvYi5nbG9iKGYie2Fuc3dlcl9kaXJ9LyouanNvbmwiKQogICAgZmlsZV9uYW1lcyA9IFtvcy5wYXRoLnNwbGl0ZXh0KG9zLnBhdGguYmFzZW5hbWUoZikpWzBdIGZvciBmIGluIGZpbGVfcGF0aHNdCiAgICByZXR1cm4gZmlsZV9uYW1lcwo=
+"""
+Common data structures and utilities.
+"""
+
+import ast
+import dataclasses
+import glob
+import json
+import os
+import re
+import time
+from typing import Optional
+
+import openai
+import anthropic
+
+from fastchat.model.model_adapter import (
+    get_conversation_template,
+    ANTHROPIC_MODEL_LIST,
+    OPENAI_MODEL_LIST,
+)
+
+# API setting constants
+API_MAX_RETRY = 16
+API_RETRY_SLEEP = 10
+API_ERROR_OUTPUT = "$ERROR$"
+
+TIE_DELTA = 0.1
+
+# Categories that need reference answers
+NEED_REF_CATS = ["math", "reasoning", "coding", "arena-hard-200"]
+
+# Extract scores from judgments
+two_score_pattern = re.compile("\[\[(\d+\.?\d*),\s?(\d+\.?\d*)\]\]")
+two_score_pattern_backup = re.compile("\[(\d+\.?\d*),\s?(\d+\.?\d*)\]")
+one_score_pattern = re.compile("\[\[(\d+\.?\d*)\]\]")
+one_score_pattern_backup = re.compile("\[(\d+\.?\d*)\]")
+
+# Sampling temperature configs for
+temperature_config = {
+    "writing": 0.7,
+    "roleplay": 0.7,
+    "extraction": 0.0,
+    "math": 0.0,
+    "coding": 0.0,
+    "reasoning": 0.0,
+    "stem": 0.1,
+    "humanities": 0.1,
+    "arena-hard-200": 0.0,
+}
+
+reverse_model_map = {
+    "model_1": "model_2",
+    "model_2": "model_1",
+}
+
+
+@dataclasses.dataclass
+class Judge:
+    model_name: str
+    prompt_template: dict
+    ref_based: bool = False
+    multi_turn: bool = False
+
+
+@dataclasses.dataclass
+class MatchSingle:
+    question: dict
+    model: str
+    answer: dict
+    judge: Judge
+    ref_answer: dict = None
+    multi_turn: bool = False
+
+
+@dataclasses.dataclass
+class MatchPair:
+    question: dict
+    model_1: str
+    model_2: str
+    answer_1: dict
+    answer_2: dict
+    judge: Judge
+    ref_answer: dict = None
+    multi_turn: bool = False
+
+
+def load_questions(question_file: str, begin: Optional[int], end: Optional[int]):
+    """Load questions from a file."""
+    questions = []
+    with open(question_file, "r") as ques_file:
+        for line in ques_file:
+            if line:
+                questions.append(json.loads(line))
+    questions = questions[begin:end]
+    return questions
+
+
+def load_model_answers(answer_dir: str):
+    """Load model answers.
+
+    The return value is a python dict of type:
+    Dict[model_name: str -> Dict[question_id: int -> answer: dict]]
+    """
+    filenames = glob.glob(os.path.join(answer_dir, "*.jsonl"))
+    filenames.sort()
+    model_answers = {}
+
+    for filename in filenames:
+        model_name = os.path.basename(filename)[:-6]
+        answer = {}
+        with open(filename) as fin:
+            for line in fin:
+                line = json.loads(line)
+                answer[line["question_id"]] = line
+        model_answers[model_name] = answer
+
+    return model_answers
+
+
+def load_judge_prompts(prompt_file: str):
+    """Load judge prompts.
+
+    The return value is a python dict of type:
+    Dict[judge_name: str -> dict]
+    """
+    prompts = {}
+    with open(prompt_file) as fin:
+        for line in fin:
+            line = json.loads(line)
+            prompts[line["name"]] = line
+    return prompts
+
+
+def run_judge_single(question, answer, judge, ref_answer, multi_turn=False):
+    kwargs = {}
+    model = judge.model_name
+    if ref_answer is not None:
+        kwargs["ref_answer_1"] = ref_answer["choices"][0]["turns"][0]
+        if multi_turn:
+            kwargs["ref_answer_2"] = ref_answer["choices"][0]["turns"][1]
+
+    if multi_turn:
+        user_prompt = judge.prompt_template["prompt_template"].format(
+            question_1=question["turns"][0],
+            question_2=question["turns"][1],
+            answer_1=answer["choices"][0]["turns"][0],
+            answer_2=answer["choices"][0]["turns"][1],
+            **kwargs,
+        )
+    else:
+        user_prompt = judge.prompt_template["prompt_template"].format(
+            question=question["turns"][0],
+            answer=answer["choices"][0]["turns"][0],
+            **kwargs,
+        )
+
+    rating = -1
+
+    system_prompt = judge.prompt_template["system_prompt"]
+    conv = get_conversation_template(model)
+    conv.set_system_message(system_prompt)
+    conv.append_message(conv.roles[0], user_prompt)
+    conv.append_message(conv.roles[1], None)
+
+    if model in OPENAI_MODEL_LIST:
+        judgment = chat_completion_openai(model, conv, temperature=0, max_tokens=2048)
+    elif model in ANTHROPIC_MODEL_LIST:
+        judgment = chat_completion_anthropic(
+            model, conv, temperature=0, max_tokens=1024
+        )
+    else:
+        raise ValueError(f"Invalid judge model name: {model}")
+
+    if judge.prompt_template["output_format"] == "[[rating]]":
+        match = re.search(one_score_pattern, judgment)
+        if not match:
+            match = re.search(one_score_pattern_backup, judgment)
+
+        if match:
+            rating = ast.literal_eval(match.groups()[0])
+        else:
+            rating = -1
+    else:
+        raise ValueError(
+            f"invalid output format: {judge.prompt_template['output_format']}"
+        )
+
+    return rating, user_prompt, judgment
+
+
+def play_a_match_single(match: MatchSingle, output_file: str):
+    question, model, answer, judge, ref_answer, multi_turn = (
+        match.question,
+        match.model,
+        match.answer,
+        match.judge,
+        match.ref_answer,
+        match.multi_turn,
+    )
+
+    if judge.prompt_template["type"] == "single":
+        score, user_prompt, judgment = run_judge_single(
+            question, answer, judge, ref_answer, multi_turn=multi_turn
+        )
+
+        question_id = question["question_id"]
+        turn = 1 if not multi_turn else 2
+        result = {
+            "question_id": question_id,
+            "model": model,
+            "judge": (judge.model_name, judge.prompt_template["name"]),
+            "user_prompt": user_prompt,
+            "judgment": judgment,
+            "score": score,
+            "turn": turn,
+            "tstamp": time.time(),
+        }
+        print(
+            f"question: {question_id}, turn: {turn}, model: {model}, "
+            f"score: {score}, "
+            f"judge: {(judge.model_name, judge.prompt_template['name'])}"
+        )
+    else:
+        raise ValueError(f"invalid judge type: {judge['type']}")
+
+    if output_file:
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        with open(output_file, "a") as fout:
+            fout.write(json.dumps(result) + "\n")
+
+    return result
+
+
+def run_judge_pair(question, answer_a, answer_b, judge, ref_answer, multi_turn=False):
+    kwargs = {}
+    model = judge.model_name
+    if ref_answer is not None:
+        kwargs["ref_answer_1"] = ref_answer["choices"][0]["turns"][0]
+        if multi_turn:
+            kwargs["ref_answer_2"] = ref_answer["choices"][0]["turns"][1]
+
+    if multi_turn:
+        system_prompt = judge.prompt_template["system_prompt"]
+        user_prompt = judge.prompt_template["prompt_template"].format(
+            question_1=question["turns"][0],
+            question_2=question["turns"][1],
+            answer_a_1=answer_a["choices"][0]["turns"][0],
+            answer_b_1=answer_b["choices"][0]["turns"][0],
+            answer_a_2=answer_a["choices"][0]["turns"][1],
+            answer_b_2=answer_b["choices"][0]["turns"][1],
+            **kwargs,
+        )
+    else:
+        system_prompt = judge.prompt_template["system_prompt"]
+        user_prompt = judge.prompt_template["prompt_template"].format(
+            question=question["turns"][0],
+            answer_a=answer_a["choices"][0]["turns"][0],
+            answer_b=answer_b["choices"][0]["turns"][0],
+            **kwargs,
+        )
+
+    winner = "error"
+
+    conv = get_conversation_template(model)
+    conv.append_message(conv.roles[0], user_prompt)
+    conv.append_message(conv.roles[1], None)
+
+    if model in OPENAI_MODEL_LIST:
+        conv.set_system_message(system_prompt)
+        judgment = chat_completion_openai(model, conv, temperature=0, max_tokens=2048)
+    elif model in ANTHROPIC_MODEL_LIST:
+        if system_prompt != "You are a helpful assistant.":
+            user_prompt = "[Instruction]\n" + system_prompt + "\n\n" + user_prompt
+            conv.messages[0][1] = user_prompt
+        judgment = chat_completion_anthropic(
+            model, conv, temperature=0, max_tokens=1024
+        )
+    else:
+        raise ValueError(f"Invalid judge model name: {model}")
+
+    if judge.prompt_template["output_format"] == "[[A]]":
+        if "[[A]]" in judgment:
+            winner = "A"
+        elif "[[B]]" in judgment:
+            winner = "B"
+        elif "[[C]]" in judgment:
+            winner = "tie"
+        else:
+            winner = "error"
+    elif judge.prompt_template["output_format"] == "[[rating_a,rating_b]]":
+        match = re.search(two_score_pattern, judgment)
+        if not match:
+            match = re.search(two_score_pattern_backup, judgment)
+        if match:
+            scores = [ast.literal_eval(s.strip()) for s in match.groups()]
+            if abs(scores[0] - scores[1]) <= TIE_DELTA:
+                winner = "tie"
+            elif scores[0] > scores[1]:
+                winner = "A"
+            else:
+                winner = "B"
+        else:
+            winner = "error"
+    else:
+        raise ValueError(
+            f"invalid output format: {judge.prompt_template['output_format']}"
+        )
+
+    return winner, user_prompt, judgment
+
+
+def play_a_match_pair(match: MatchPair, output_file: str):
+    question, model_1, model_2, answer_1, answer_2, judge, ref_answer, multi_turn = (
+        match.question,
+        match.model_1,
+        match.model_2,
+        match.answer_1,
+        match.answer_2,
+        match.judge,
+        match.ref_answer,
+        match.multi_turn,
+    )
+
+    if judge.prompt_template["type"] == "pairwise":
+        g1_winner, g1_user_prompt, g1_judgment = run_judge_pair(
+            question, answer_1, answer_2, judge, ref_answer, multi_turn=multi_turn
+        )
+        g2_winner, g2_user_prompt, g2_judgment = run_judge_pair(
+            question, answer_2, answer_1, judge, ref_answer, multi_turn=multi_turn
+        )
+
+        g1_map = {"A": "model_1", "B": "model_2"}
+        g2_map = {"A": "model_2", "B": "model_1"}
+        g1_winner = g1_map.get(g1_winner, g1_winner)
+        g2_winner = g2_map.get(g2_winner, g2_winner)
+        question_id = question["question_id"]
+        turn = 1 if not multi_turn else 2
+
+        result = {
+            "question_id": question_id,
+            "model_1": model_1,
+            "model_2": model_2,
+            "g1_winner": g1_winner,
+            "g2_winner": g2_winner,
+            "judge": (judge.model_name, judge.prompt_template["name"]),
+            "g1_user_prompt": g1_user_prompt,
+            "g1_judgment": g1_judgment,
+            "g2_user_prompt": g2_user_prompt,
+            "g2_judgment": g2_judgment,
+            "turn": turn,
+            "tstamp": time.time(),
+        }
+
+        print(
+            f"question: {question_id}, turn: {turn}, model_1: {model_1}, model_2: {model_2}, "
+            f"g1_winner: {g1_winner}, g2_winner: {g2_winner}, "
+            f"judge: {(judge.model_name, judge.prompt_template['name'])}"
+        )
+    elif judge.prompt_template["type"] == "single":
+        m1_score, m1_user_prompt, m1_judgment = run_judge_single(
+            question, answer_1, judge
+        )
+        m2_score, m2_user_prompt, m2_judgment = run_judge_single(
+            question, answer_2, judge
+        )
+
+        if abs(m1_score - m2_score) <= TIE_DELTA:
+            winner = "tie"
+        elif m1_score > m2_score:
+            winner = "model_1"
+        else:
+            winner = "model_2"
+
+        question_id = question["question_id"]
+        result = {
+            "question_id": question_id,
+            "model_1": model_1,
+            "model_2": model_2,
+            "g1_winner": winner,
+            "g2_winner": winner,
+            "judge": (judge.model_name, judge.prompt_template["name"]),
+            "g1_user_prompt": m1_user_prompt,
+            "g1_judgment": m1_judgment,
+            "g2_user_prompt": m2_user_prompt,
+            "g2_judgment": m2_judgment,
+            "m1_score": m1_score,
+            "m2_score": m2_score,
+            "tstamp": time.time(),
+        }
+        print(
+            f"question: {question_id}, model_1: {model_1}, model_2: {model_2}, "
+            f"winner: {winner}, m1_score: {m1_score}, m2_score: {m2_score}, "
+            f"judge: {(judge.model_name, judge.prompt_template['name'])}"
+        )
+    else:
+        raise ValueError(f"invalid judge type: {judge['type']}")
+
+    if output_file:
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        with open(output_file, "a") as fout:
+            fout.write(json.dumps(result) + "\n")
+
+    return result
+
+
+def chat_completion_openai(model, conv, temperature, max_tokens, api_dict=None):
+    if api_dict is not None:
+        openai.api_base = api_dict["api_base"]
+        openai.api_key = api_dict["api_key"]
+    output = API_ERROR_OUTPUT
+    for _ in range(API_MAX_RETRY):
+        try:
+            messages = conv.to_openai_api_messages()
+            response = openai.ChatCompletion.create(
+                model=model,
+                messages=messages,
+                n=1,
+                temperature=temperature,
+                max_tokens=max_tokens,
+            )
+            output = response["choices"][0]["message"]["content"]
+            break
+        except openai.error.OpenAIError as e:
+            print(type(e), e)
+            time.sleep(API_RETRY_SLEEP)
+
+    return output
+
+
+def chat_completion_openai_azure(model, conv, temperature, max_tokens, api_dict=None):
+    openai.api_type = "azure"
+    openai.api_version = "2023-07-01-preview"
+    if api_dict is not None:
+        openai.api_base = api_dict["api_base"]
+        openai.api_key = api_dict["api_key"]
+    else:
+        openai.api_base = os.environ["AZURE_OPENAI_ENDPOINT"]
+        openai.api_key = os.environ["AZURE_OPENAI_KEY"]
+
+    if "azure-" in model:
+        model = model[6:]
+
+    output = API_ERROR_OUTPUT
+    for _ in range(API_MAX_RETRY):
+        try:
+            messages = conv.to_openai_api_messages()
+            response = openai.ChatCompletion.create(
+                engine=model,
+                messages=messages,
+                n=1,
+                temperature=temperature,
+                max_tokens=max_tokens,
+            )
+            output = response["choices"][0]["message"]["content"]
+            break
+        except openai.error.OpenAIError as e:
+            print(type(e), e)
+            time.sleep(API_RETRY_SLEEP)
+        except openai.error.InvalidRequestError as e:
+            print(type(e), e)
+            break
+        except KeyError:
+            print(response)
+            break
+
+    return output
+
+
+def chat_completion_anthropic(model, conv, temperature, max_tokens, api_dict=None):
+    if api_dict is not None and "api_key" in api_dict:
+        api_key = api_dict["api_key"]
+    else:
+        api_key = os.environ["ANTHROPIC_API_KEY"]
+
+    output = API_ERROR_OUTPUT
+    for _ in range(API_MAX_RETRY):
+        try:
+            c = anthropic.Anthropic(api_key=api_key)
+            prompt = conv.get_prompt()
+            response = c.completions.create(
+                model=model,
+                prompt=prompt,
+                stop_sequences=[anthropic.HUMAN_PROMPT],
+                max_tokens_to_sample=max_tokens,
+                temperature=temperature,
+            )
+            output = response.completion
+            break
+        except anthropic.APIError as e:
+            print(type(e), e)
+            time.sleep(API_RETRY_SLEEP)
+    return output.strip()
+
+
+def chat_completion_palm(chat_state, model, conv, temperature, max_tokens):
+    from fastchat.serve.api_provider import init_palm_chat
+
+    assert model == "palm-2-chat-bison-001"
+
+    if chat_state is None:
+        chat_state = init_palm_chat("chat-bison@001")
+
+    parameters = {
+        "temperature": temperature,
+        "top_p": 0.8,
+        "top_k": 40,
+        "max_output_tokens": max_tokens,
+    }
+    output = API_ERROR_OUTPUT
+    for _ in range(API_MAX_RETRY):
+        try:
+            response = chat_state.send_message(conv.messages[-2][1], **parameters)
+            output = response.text
+            break
+        except Exception as e:
+            print(type(e), e)
+            time.sleep(API_RETRY_SLEEP)
+    return chat_state, output
+
+
+def normalize_game_key_single(gamekey, result):
+    """Make the model names sorted in a game key."""
+    qid, model_1, model_2 = gamekey
+    if model_1 < model_2:
+        return gamekey, result
+    else:
+        new_gamekey = (qid, model_2, model_1)
+        new_result = {
+            "winners": tuple(reverse_model_map.get(x, x) for x in result["winners"]),
+            "g1_judgment": result["g2_judgment"],
+            "g2_judgment": result["g1_judgment"],
+        }
+        return new_gamekey, new_result
+
+
+def normalize_game_key_dict(judgment_dict):
+    """Make the model names sorted in the game keys."""
+    ret = {}
+    for key, value in judgment_dict.items():
+        new_key, new_value = normalize_game_key_single(key, value)
+        ret[new_key] = new_value
+    return ret
+
+
+def load_pairwise_model_judgments(filename: str):
+    """Load model judgments.
+
+    The return value is a dict of type:
+    Dict[judge: Tuple -> Dict[game_key: tuple -> game_result: dict]
+    """
+    judge_dict = {}
+
+    for line in open(filename):
+        obj = json.loads(line)
+        judge = tuple(obj["judge"])
+        qid, model_1, model_2 = obj["question_id"], obj["model_1"], obj["model_2"]
+
+        if judge not in judge_dict:
+            judge_dict[judge] = {}
+
+        if "winner" in obj:
+            winner = obj["winner"]
+        elif "g1_winner" in obj and "g2_winner" in obj:
+            g1_winner, g2_winner = obj["g1_winner"], obj["g2_winner"]
+            if g1_winner == g2_winner:
+                winner = g1_winner
+            else:
+                winner = "inconsistent"
+        else:
+            raise ValueError(f"Invalid keys: {list(obj.keys())}")
+
+        gamekey = (qid, model_1, model_2)
+        winners = (winner,)
+
+        judge_dict[judge][gamekey] = {
+            "winners": winners,
+            "g1_judgment": obj["g1_judgment"],
+            "g2_judgment": obj["g2_judgment"],
+        }
+
+    # Make the model names sorted in the game keys
+    normalized = {}
+    for judge, value in judge_dict.items():
+        normalized[judge] = normalize_game_key_dict(value)
+    return normalized
+
+
+def load_single_model_judgments(filename: str):
+    """Load model judgments.
+
+    The return value is a dict of type:
+    Dict[judge: Tuple -> Dict[game_key: tuple -> game_result: dict]
+    """
+    judge_dict = {}
+
+    for line in open(filename):
+        obj = json.loads(line)
+        judge = tuple(obj["judge"])
+        qid, model = obj["question_id"], obj["model"]
+
+        if judge not in judge_dict:
+            judge_dict[judge] = {}
+
+        gamekey = (qid, model)
+
+        judge_dict[judge][gamekey] = {
+            "score": obj["score"],
+            "judgment": obj["judgment"],
+        }
+    return judge_dict
+
+
+def resolve_pairwise_judgment_dict(
+    question, model_judgments_normal, model_judgments_math, multi_turn=False
+):
+    """Return the correct pairwise judge."""
+    if multi_turn:
+        if question["category"] in NEED_REF_CATS:
+            return model_judgments_math[("gpt-4", "pair-math-v1-multi-turn")]
+        return model_judgments_normal[("gpt-4", "pair-v2-multi-turn")]
+
+    if question["category"] in NEED_REF_CATS:
+        return model_judgments_math[("gpt-4", "pair-math-v1")]
+    else:
+        return model_judgments_normal[("gpt-4", "pair-v2")]
+
+
+def resolve_single_judgment_dict(
+    question, model_judgments_normal, model_judgments_math, multi_turn=False
+):
+    """Return the correct single answer grading judge."""
+    if multi_turn:
+        if question["category"] in NEED_REF_CATS:
+            return model_judgments_math[("gpt-4", "single-math-v1-multi-turn")]
+        return model_judgments_normal[("gpt-4", "single-v1-multi-turn")]
+
+    if question["category"] in NEED_REF_CATS:
+        return model_judgments_math[("gpt-4", "single-math-v1")]
+    else:
+        return model_judgments_normal[("gpt-4", "single-v1")]
+
+
+def get_pairwise_judge_explanation(gamekey, judgment_dict):
+    """Get model judge explanation."""
+    try:
+        qid, model_1, model_2 = gamekey
+        if model_1 < model_2:
+            res = judgment_dict[gamekey]
+            g1_judgment, g2_judgment = res["g1_judgment"], res["g2_judgment"]
+        else:
+            new_gamekey = (qid, model_2, model_1)
+            res = judgment_dict[new_gamekey]
+
+            model_1, model_2 = model_1, model_2
+            g1_judgment, g2_judgment = res["g2_judgment"], res["g1_judgment"]
+
+        return (
+            f"**Game 1**. **A**: {model_1}, **B**: {model_2}\n\n"
+            f"**Judgment**: {g1_judgment}"
+            + f"\n\n`--------------------------`\n\n"
+            + f"**Game 2**. **A**: {model_2}, **B**: {model_1}\n\n"
+            f"**Judgment**: {g2_judgment}"
+        )
+    except KeyError:
+        return "N/A"
+
+
+def get_single_judge_explanation(gamekey, judgment_dict):
+    """Get model judge explanation."""
+    try:
+        qid, model = gamekey
+
+        res = judgment_dict[gamekey]
+
+        g1_judgment = res["judgment"]
+        g1_score = res["score"]
+
+        return (
+            f"**Game 1**. **A**: {model}, **Score**: {g1_score}\n\n"
+            f"**Judgment**: {g1_judgment}"
+        )
+    except KeyError:
+        return "N/A"
+
+
+def check_data(questions, model_answers, ref_answers, models, judges):
+    # check model answers
+    for m in models:
+        assert m in model_answers, f"Missing model answer for {m}"
+        m_answer = model_answers[m]
+        for q in questions:
+            assert (
+                q["question_id"] in m_answer
+            ), f"Missing model {m}'s answer to Question {q['question_id']}"
+    # check ref answers
+    for jg in judges.values():
+        if not jg.ref_based:
+            continue
+        for q in questions:
+            if q["category"] not in NEED_REF_CATS:
+                continue
+            assert (
+                q["question_id"] in ref_answers[jg.model_name]
+            ), f"Missing reference answer to Question {q['question_id']} for judge {jg.model_name}"
+
+
+def get_model_list(answer_dir):
+    file_paths = glob.glob(f"{answer_dir}/*.jsonl")
+    file_names = [os.path.splitext(os.path.basename(f))[0] for f in file_paths]
+    return file_names

@@ -1,1 +1,78 @@
-aW1wb3J0IGpzb24sbWF0aCxyYW5kb20sc3VicHJvY2VzcyxzeXMsdGltZQpkZWYgaml0dGVyKG49NDAwMCk6CiAgICBvdXQ9W107YT0wCiAgICBmb3IgXyBpbiByYW5nZShuKToKICAgICAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoNDAwKTogYT0oYSoxMTAzNTE1MjQ1KzEyMzQ1KSYweDdmZmZmZmZmCiAgICAgICAgb3V0LmFwcGVuZCh0aW1lLnBlcmZfY291bnRlcl9ucygpLXQwKQogICAgcmV0dXJuIG91dApKPWppdHRlcigpOyBtMD1zdW0oSikvbGVuKEopOyBzZDA9KHN1bSgoeC1tMCkqKjIgZm9yIHggaW4gSikvbGVuKEopKSoqMC41CnRzPVtdCmZvciBfIGluIHJhbmdlKDEyMCk6CiAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpOyBwPXN1YnByb2Nlc3MuUG9wZW4oW3N5cy5leGVjdXRhYmxlLCItYyIsInBhc3MiXSk7IHAua2lsbCgpOyBwLndhaXQoKQogICAgdHMuYXBwZW5kKHRpbWUucGVyZl9jb3VudGVyX25zKCktdDApCkNBPXN1bSh0cykvbGVuKHRzKTsgQ009Q0EqOC4wCnJuZz1yYW5kb20uUmFuZG9tKDIwMjYxMDE5KQoKIyAtLS0tIOe7j+mqjOWvhuW6puavlOafpeaJvuihqO+8iOmdnuWPguaVsO+8jOmbtuWIhuW4g+WBh+iuvu+8iS0tLS0KTkI9NjA7IExPPW0wLTQqc2QwOyBIST1tMCs4KnNkMDsgVz0oSEktTE8pL05CCmRlZiBoaXN0KHZhbHMpOgogICAgaD1bMF0qTkIKICAgIGZvciB2IGluIHZhbHM6CiAgICAgICAgYj1pbnQoKHYtTE8pL1cpCiAgICAgICAgaWYgMDw9YjxOQjogaFtiXSs9MQogICAgcmV0dXJuIFtjL2xlbih2YWxzKSBmb3IgYyBpbiBoXQpIMD1oaXN0KEopICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOiDjOaZr++8muecn+WunuaKluWKqApkZWYgZW1wX2xyKHNpZyk6CiAgICBIMT1oaXN0KFt4K3NpZypzZDAgZm9yIHggaW4gSl0pICAgICAgICAgICMg5L+h5Y+377ya55yf5a6e5oqW5YqoK+enu+S9jQogICAgcmV0dXJuIFsoSDFbaV0rMWUtNCkvKEgwW2ldKzFlLTQpIGZvciBpIGluIHJhbmdlKE5CKV0KZGVmIGxyX2xvb2t1cChzaWcpOgogICAgTD1lbXBfbHIoc2lnKQogICAgZGVmIGYobyk6CiAgICAgICAgYj1pbnQoKG8tTE8pL1cpCiAgICAgICAgcmV0dXJuIExbYl0gaWYgMDw9YjxOQiBlbHNlIExbLTFdIGlmIG8+PUhJIGVsc2UgTFswXQogICAgcmV0dXJuIGYKCmRlZiBydW4ocGksc2lnLG1vZGUsTj0yNTAwLHRhdT0xLjApOgogICAgdGhyX2xyPShDQS9DTSkqKCgxLXBpKS9waSkgICAgICAgICAgICAgICAjIOe6r+WGs+etluiuuu+8jOS4jeS+nei1luWIhuW4gwogICAgTD1scl9sb29rdXAoc2lnKSBpZiBzaWc+MCBlbHNlIE5vbmUKICAgIGlmIHNpZz4wOiB0aHJfej1zZDAqKHNpZy8yLjArbWF0aC5sb2cobWF4KHRocl9sciwxZS0xMikpL3NpZykKICAgIGVsc2U6IHRocl96PWZsb2F0KCdpbmYnKQogICAgdG90PTAuMDtoaXRzPTA7ZnBzPTA7bWlzcz0wO2FjdGVkPTAKICAgIGZvciBfIGluIHJhbmdlKE4pOgogICAgICAgIGQ9MSBpZiBybmcucmFuZG9tKCk8cGkgZWxzZSAwCiAgICAgICAgbz1ybmcuY2hvaWNlKEopKyhzaWcqc2QwIGlmIGQgZWxzZSAwLjApCiAgICAgICAgej1vLW0wCiAgICAgICAgaWYgbW9kZT09J2VtcCc6ICAgYWN0PShzaWc+MCBhbmQgTChvKT50aHJfbHIpCiAgICAgICAgZWxpZiBtb2RlPT0nZ2F1c3MnOmFjdD0oej50aHJfeikKICAgICAgICBlbGlmIG1vZGUuc3RhcnRzd2l0aCgnc2NhbicpOiBhY3Q9KHo+dGF1KnNkMCkKICAgICAgICBlbGlmIG1vZGU9PSduZXZlcic6IGFjdD1GYWxzZQogICAgICAgIGVsc2U6IGFjdD1UcnVlCiAgICAgICAgaWYgYWN0OgogICAgICAgICAgICBhY3RlZCs9MTsgdG90Kz1DQQogICAgICAgICAgICBpZiBkOiBoaXRzKz0xCiAgICAgICAgICAgIGVsc2U6IGZwcys9MQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIGQ6IG1pc3MrPTE7IHRvdCs9Q00KICAgIHJldHVybiBkaWN0KG1vZGU9bW9kZSxwcmlvcj1waSxzaWc9c2lnLGNvc3Q9dG90L04sYWN0ZWQ9YWN0ZWQsaGl0cz1oaXRzLGZwcz1mcHMsbWlzcz1taXNzKQpyZXM9W10KVEFVUz1bMC41LDEuMCwxLjUsMi4wLDMuMF0KZm9yIHBpIGluIFswLjMsMC41LDAuN106CiAgICBmb3IgcyBpbiBbMC4wLDEuMCwyLjAsNC4wXToKICAgICAgICBmb3IgbSBpbiBbJ2VtcCcsJ2dhdXNzJywnYWx3YXlzJywnbmV2ZXInXTogcmVzLmFwcGVuZChydW4ocGkscyxtKSkKICAgICAgICBmb3IgdCBpbiBUQVVTOiByZXMuYXBwZW5kKHJ1bihwaSxzLCdzY2FuX3QlLjFmJyV0LHRhdT10KSkKanNvbi5kdW1wKGRpY3QobTA9bTAsc2QwPXNkMCxDQT1DQSxDTT1DTSxyZXM9cmVzKSxvcGVuKCdzNC5qc29uJywndycpLGluZGVudD0xKQpwcmludCgi55yf5a6e5oqi5Y2gICUuMGYgbnMgfCDmvI/miqUgJS4wZiBucyB8IOecn+WunuWZquWjsCBzZCAlLjBmIiUoQ0EsQ00sc2QwKSkKcHJpbnQoIlxucHJpb3Igc2lnIHwgZW1wKDDosIPlj4IpIGdhdXNzKDDosIPlj4IpIHNjYW5fYmVzdCg15qyh5omrKSBmaXhlZDEuMCgxNTcpIG5ldmVyIHwg6LWi5a62IikKdz17J2VtcCc6MCwnZ2F1c3MnOjAsJ3NjYW4nOjAsJ2ZpeGVkJzowLCduZXZlcic6MH0KZm9yIHBpIGluIFswLjMsMC41LDAuN106CiAgICBmb3IgcyBpbiBbMC4wLDEuMCwyLjAsNC4wXToKICAgICAgICBnPXtyWydtb2RlJ106ciBmb3IgciBpbiByZXMgaWYgclsncHJpb3InXT09cGkgYW5kIHJbJ3NpZyddPT1zfQogICAgICAgIGU9Z1snZW1wJ11bJ2Nvc3QnXTsgZ3U9Z1snZ2F1c3MnXVsnY29zdCddCiAgICAgICAgc2I9bWluKGdbJ3NjYW5fdCUuMWYnJXRdWydjb3N0J10gZm9yIHQgaW4gVEFVUykKICAgICAgICBmMT1nWydzY2FuX3QxLjAnXVsnY29zdCddOyBudj1nWyduZXZlciddWydjb3N0J107IGFsPWdbJ2Fsd2F5cyddWydjb3N0J10KICAgICAgICBjYW5kPXsnZW1wJzplLCdnYXVzcyc6Z3UsJ3NjYW4nOnNiLCdmaXhlZCc6ZjEsJ25ldmVyJzpudn0KICAgICAgICB0YWc9bWluKGNhbmQsa2V5PWNhbmQuZ2V0KTsgd1t0YWddKz0xCiAgICAgICAgcHJpbnQoIiAlLjFmICAlLjFmIHwgJTkuMGYgJTExLjBmICUxNC4wZiAlMTMuMGYgJTguMGYgfCAlcyIlKHBpLHMsZSxndSxzYixmMSxudix0YWcpKQpwcmludCgiXG7og5zlh7rmoLzmlbA6Iix3KQpwcmludCgiXG5lbXAg5Zyo5ZCE5qC86KGM5Yqo5qyh5pWwKHNpZz0w5bqU5oGSMCk6IixbKHJbJ3NpZyddLHJbJ2FjdGVkJ10pIGZvciByIGluIHJlcyBpZiByWydtb2RlJ109PSdlbXAnIGFuZCByWydzaWcnXT09MC4wXSkK
+import json,math,random,subprocess,sys,time
+def jitter(n=4000):
+    out=[];a=0
+    for _ in range(n):
+        t0=time.perf_counter_ns()
+        for _ in range(400): a=(a*1103515245+12345)&0x7fffffff
+        out.append(time.perf_counter_ns()-t0)
+    return out
+J=jitter(); m0=sum(J)/len(J); sd0=(sum((x-m0)**2 for x in J)/len(J))**0.5
+ts=[]
+for _ in range(120):
+    t0=time.perf_counter_ns(); p=subprocess.Popen([sys.executable,"-c","pass"]); p.kill(); p.wait()
+    ts.append(time.perf_counter_ns()-t0)
+CA=sum(ts)/len(ts); CM=CA*8.0
+rng=random.Random(20261019)
+
+# ---- 经验密度比查找表（非参数，零分布假设）----
+NB=60; LO=m0-4*sd0; HI=m0+8*sd0; W=(HI-LO)/NB
+def hist(vals):
+    h=[0]*NB
+    for v in vals:
+        b=int((v-LO)/W)
+        if 0<=b<NB: h[b]+=1
+    return [c/len(vals) for c in h]
+H0=hist(J)                                   # 背景：真实抖动
+def emp_lr(sig):
+    H1=hist([x+sig*sd0 for x in J])          # 信号：真实抖动+移位
+    return [(H1[i]+1e-4)/(H0[i]+1e-4) for i in range(NB)]
+def lr_lookup(sig):
+    L=emp_lr(sig)
+    def f(o):
+        b=int((o-LO)/W)
+        return L[b] if 0<=b<NB else L[-1] if o>=HI else L[0]
+    return f
+
+def run(pi,sig,mode,N=2500,tau=1.0):
+    thr_lr=(CA/CM)*((1-pi)/pi)               # 纯决策论，不依赖分布
+    L=lr_lookup(sig) if sig>0 else None
+    if sig>0: thr_z=sd0*(sig/2.0+math.log(max(thr_lr,1e-12))/sig)
+    else: thr_z=float('inf')
+    tot=0.0;hits=0;fps=0;miss=0;acted=0
+    for _ in range(N):
+        d=1 if rng.random()<pi else 0
+        o=rng.choice(J)+(sig*sd0 if d else 0.0)
+        z=o-m0
+        if mode=='emp':   act=(sig>0 and L(o)>thr_lr)
+        elif mode=='gauss':act=(z>thr_z)
+        elif mode.startswith('scan'): act=(z>tau*sd0)
+        elif mode=='never': act=False
+        else: act=True
+        if act:
+            acted+=1; tot+=CA
+            if d: hits+=1
+            else: fps+=1
+        else:
+            if d: miss+=1; tot+=CM
+    return dict(mode=mode,prior=pi,sig=sig,cost=tot/N,acted=acted,hits=hits,fps=fps,miss=miss)
+res=[]
+TAUS=[0.5,1.0,1.5,2.0,3.0]
+for pi in [0.3,0.5,0.7]:
+    for s in [0.0,1.0,2.0,4.0]:
+        for m in ['emp','gauss','always','never']: res.append(run(pi,s,m))
+        for t in TAUS: res.append(run(pi,s,'scan_t%.1f'%t,tau=t))
+json.dump(dict(m0=m0,sd0=sd0,CA=CA,CM=CM,res=res),open('s4.json','w'),indent=1)
+print("真实抢占 %.0f ns | 漏报 %.0f ns | 真实噪声 sd %.0f"%(CA,CM,sd0))
+print("\nprior sig | emp(0调参) gauss(0调参) scan_best(5次扫) fixed1.0(157) never | 赢家")
+w={'emp':0,'gauss':0,'scan':0,'fixed':0,'never':0}
+for pi in [0.3,0.5,0.7]:
+    for s in [0.0,1.0,2.0,4.0]:
+        g={r['mode']:r for r in res if r['prior']==pi and r['sig']==s}
+        e=g['emp']['cost']; gu=g['gauss']['cost']
+        sb=min(g['scan_t%.1f'%t]['cost'] for t in TAUS)
+        f1=g['scan_t1.0']['cost']; nv=g['never']['cost']; al=g['always']['cost']
+        cand={'emp':e,'gauss':gu,'scan':sb,'fixed':f1,'never':nv}
+        tag=min(cand,key=cand.get); w[tag]+=1
+        print(" %.1f  %.1f | %9.0f %11.0f %14.0f %13.0f %8.0f | %s"%(pi,s,e,gu,sb,f1,nv,tag))
+print("\n胜出格数:",w)
+print("\nemp 在各格行动次数(sig=0应恒0):",[(r['sig'],r['acted']) for r in res if r['mode']=='emp' and r['sig']==0.0])

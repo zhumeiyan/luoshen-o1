@@ -1,1 +1,56 @@
-IyBDb250cmlidXRpbmcgR3VpZGU6IENvbW11bml0eSByYXRpZnkgYW5kIFJlYWwtQ2FzZSBCYWNrLUZpbGwKCkNvcnJlY3RuZXNzIHZhbGlkYXRpb24gb2YgdGhpcyB0b29sa2l0IGZvbGxvd3MgdGhlIHJvdXRlIG9mICJjb21wbGV0ZWQgc3BvbnRhbmVvdXNseSBieSB0aGUgY29tbXVuaXR5IGFmdGVyIG9wZW4tc291cmNpbmciIChubyBjZW50cmFsaXplZCB2YWxpZGF0aW9uIHJlcXVpcmluZyBodW1hbiBhbm5vdGF0b3JzKS4gVGhlIGNvcmUgbWVjaGFuaXNtIGlzICoqcmF0aWZ5Kio6IGdyYWR1YWxseSB2YWxpZGF0aW5nL3JldmlzaW5nIGNvb3JkaW5hdGVzIGFuZCBjcml0ZXJpYSB1c2luZyByZWFsIGluY2lkZW50IGNhc2VzLiBUaGlzIGRvY3VtZW50IGV4cGxhaW5zIGhvdyB0byBzdWJtaXQgcmVhbCBjYXNlcywgaG93IHJhdGlmeSBpcyBkZWNpZGVkLCBhbmQgaG93IGRhdGEgaXMgYmFjay1maWxsZWQuCgojIyAxLiBTdWJtaXR0aW5nIFJlYWwgQ2FzZXMgKGhvdyB0byBzdWJtaXQpCgpBbnkgYWN0dWFsbHkgb2NjdXJyZWQgQUkgc3lzdGVtIGZhaWx1cmUvZXJyb3IvYW5vbWFseSBtYXkgYmUgc3VibWl0dGVkIGFzIGEgY2FuZGlkYXRlIGNhc2UuICoqQSByZWFsIGNhc2UgPSBub24tc3ludGhldGljLCB0cmFjZWFibGUgcmVjb3JkIG9mIHBoZW5vbWVuYSBmcm9tIGFjdHVhbCBydW5uaW5nL21lYXN1cmVkIGVudmlyb25tZW50cy4qKgoKIyMjIFN1Ym1pc3Npb24gcHJvY2VzcwoxLiBTdWJtaXQgdmlhIGFuIElzc3VlIHVzaW5nIHRoZSB0ZW1wbGF0ZSBiZWxvdzsgaWYgc2Vuc2l0aXZlL3ByaXZhdGUgY29udGVudCBpcyBpbnZvbHZlZCwgYmUgc3VyZSB0byBkZS1pZGVudGlmeSBpdOKAlCoqZGVzY3JpYmUgb25seSB0aGUgcGhlbm9tZW5vbiwgd2l0aCBubyByZWFsIGRhdGEqKi4KMi4gTWFpbnRhaW5lcnMvdGhlIGNvbW11bml0eSBmaXJzdCBwZXJmb3JtIGEgKipwcmVsaW1pbmFyeSBkZXRlcm1pbmF0aW9uKio6IHJ1biB0aHJvdWdoIHRoZSBUaHJlZS1TdGVwIE1hdGNoaW5nIE1ldGhvZCB0byBqdWRnZSB3aGV0aGVyIGl0IGlzIGEgbWVjaGFuaXNtIGNsYXNzaWZpYWJsZSBieSB0aGlzIHRvb2xraXQuCjMuIE9uY2UgdGhlIHRocmVzaG9sZCBpcyBtZXQsIGl0IGVudGVycyB0aGUgcmF0aWZ5IHByb2Nlc3MuCgojIyMgU3VibWlzc2lvbiB0ZW1wbGF0ZSAoSXNzdWUpCmBgYG1hcmtkb3duCiMjIFJlYWwgQ2FzZQotICoqUGhlbm9tZW5vbioqOiB3aGF0IGhhcHBlbmVkIChvYmplY3RpdmUgZGVzY3JpcHRpb24sIG5vIHJlYWwgZGF0YS9jcmVkZW50aWFscykKLSAqKkVudmlyb25tZW50Kio6IHN5c3RlbSB0eXBlIChzaW5nbGUgbW9kZWwgLyBhZ2VudCAvIFJBRyAvIG11bHRpLWFnZW50KSwgdHJpZ2dlciBjb25kaXRpb25zCi0gKipPYnNlcnZhdGlvbioqOiBhY3R1YWwgbW9kZWwvc3lzdGVtIG91dHB1dCB2cyBleHBlY3RhdGlvbgotICoqUmVwcm9kdWNpYmxlKio6IHllcy9ubywgcmVwcm9kdWN0aW9uIHN0ZXBzIChpZiBhbnkpCi0gKipTZWxmLWFzc2lnbmVkIGNvb3JkaW5hdGVzKiogKG9wdGlvbmFsKTogTC9NL1Agc2VsZi1hc3Nlc3NtZW50ICsgcmF0aW9uYWxlCi0gKipDb25maWRlbnRpYWxpdHkgc3RhdGVtZW50Kio6IGRlLWlkZW50aWZpZWQsIG5vIHJlYWwgZGF0YQpgYGAKCiMjIDIuIEhvdyByYXRpZnkgaXMgZGVjaWRlZCAoY29yZSBydWxlcykKCiMjIyBDb29yZGluYXRlIHJhdGlmeSAoZ3JhZHVhdGUgdG8gZm9ybWFsIHN0YXR1cykKLSAqKlByZWRpY3Rpb24gc2xvdCDihpIgZm9ybWFsIGNvZGUqKjogd2hlbiAqKnR3byBtdXR1YWxseSBpbmRlcGVuZGVudCByZWFsIGNhc2VzKiogYm90aCBmYWxsIHVuZGVyIHRoaXMgbWVjaGFuaXNtLCB0aGUgZ3JhZHVhdGlvbiB0aHJlc2hvbGQgaXMgbWV0IChwZXIgdGhlICJldm9sdXRpb24gcnVsZSIpLgotICoqTTkgU3BvbnRhbmVvdXMgQ29sbGFib3JhdGlvbioqOiB0aGUgcGFyZW50IGNvb3JkaW5hdGUgaGFzIGJlZW4gYWRtaXR0ZWQ7IGl0cyBjaGlsZCBjb29yZGluYXRlcyBhd2FpdCByYXRpZnkgYnkgcmVhbCBjYXNlczsgdGhleSBncmFkdWF0ZSB0byBmb3JtYWwgc3RhdHVzIG9uIHRoZSBzYW1lIHRocmVzaG9sZCBvZiB0d28gbXV0dWFsbHkgaW5kZXBlbmRlbnQgcmVhbCBjYXNlcy4KLSAqKkNvbmRpdGlvbnMgYWdhaW5zdCByYXRpZnkqKjogc3ludGhldGljIGNhc2VzLCBkaWZmZXJlbnQgdmFyaWFudHMgb2YgdGhlIHNhbWUgaW5jaWRlbnQgKG5vdCBjb3VudGVkIGFzICJtdXR1YWxseSBpbmRlcGVuZGVudCIpLCBhbmQgbW9kZWwgYW5ub3RhdGlvbnMgc3VzcGVjdGVkIG9mIHNoYXJpbmcgdHJhaW5pbmcgYmlhcy4KCiMjIyBnb2xkZW4gcmV2aXNpb24KLSBXaGVuIGEgcmVhbCBjYXNlIGNvbmZsaWN0cyB3aXRoIHRoZSBleGlzdGluZyBnb2xkZW4sIHRoZSByZWFsIGNhc2UgcHJldmFpbHM6ICoqcmV2aXNlIHRoZSBnb2xkZW4gYW5kIHJlY29yZCBhIGNoYW5nZWxvZyBlbnRyeSoqOyBkbyBub3QgZnJlZXplLgotIEFmdGVyIHJldmlzaW9uLCByZS1ydW4gdGhlIGNhbGlicmF0aW9uIHNldCAocmVncmVzc2lvbiBtb2RlKSB0byBjb25maXJtIG5vIHNpbGVudCBkcmlmdCBoYXMgYmVlbiBpbnRyb2R1Y2VkLgoKIyMjIE1ldGEtdGFnIC8gY3Jvc3MtbWFwIGJhY2stZmlsbAotIFdoZW4gcmVhbCBjYXNlcyBhY2N1bXVsYXRlIHRvIGBFMWAgKDEgY2FzZSksIGl0IG1heSBiZSBtYXJrZWQgYGV2aWRlbmNlX3N0cmVuZ3RoPUUxYDsgYEUyYCAoMiBjYXNlcykgLyBgRTNgICjiiaUzIGNhc2VzKSBhcmUgdXBncmFkZWQgc3RlcCBieSBzdGVwLiAqKkRvIG5vdCBvdmVyc3RhdGUgdGhlIGNhc2UgY291bnQuKioKLSBNZXRhLXRhZ3MgYXJlIGNvbXBsZXRlZCBhbG9uZyB0aGUgNyBkaW1lbnNpb25zIG9mIGBzY2hlbWFgOyB3aGVuIG5vIGNhc2VzIGV4aXN0LCB1c2UgYEUwL0UxYCBhbmQgbWFyayBhcyAicGVuZGluZyB2ZXJpZmljYXRpb24iLgotIE9mIHRoZSBjcm9zcy1tYXAgbWFwcGluZ3MsIG9ubHkgYHZlcmlmaWVkYCAoY2FzZS1zdXBwb3J0ZWQpIG1heSBiZSBjaXRlZDsgY2l0YXRpb25zIG9mIGBoeXBvdGhlc2lzYCBtdXN0IGJlIGxhYmVsZWQgInBlbmRpbmcgdmVyaWZpY2F0aW9uIi4KCiMjIDMuIGthcHBhIHJlLXRlc3QgKGhvdyB0byByZS1tZWFzdXJlIGFncmVlbWVudCkKCkFmdGVyIGVhY2ggcmV2aXNpb24gLyBkYXRhIHZlcnNpb24gdXBncmFkZSwgcnVuIHRoZSBjYWxpYnJhdGlvbiBzZXQgdG8gcmVjb21wdXRlIHRoZSBML00vUCB0aHJlZS1heGlzIM66IGFuZCBoaXQgcmF0ZSwgYW5kIGNvbXBhcmUgYWdhaW5zdCB0aGUgYmFzZWxpbmUgKHNlZSB0aGUgZXZvbHV0aW9uIHRhYmxlIGluIGBkb2NzL1RBQ1Qta2FwcGHlhajljobnqIvmsYfmgLvkuI7liIbmnpAubWRgKToKCi0gKipSZWdyZXNzaW9uIG1vZGUqKjogY29uZmlybSB0aGF0IHRoZSBjaGFuZ2VzIGludHJvZHVjZWQgbm8gc2lsZW50IGRyaWZ0IChjb25zaXN0ZW50IHdpdGggb3IgYmV0dGVyIHRoYW4gdGhlIGJhc2VsaW5lKS4KLSAqKk5ldyBhbm5vdGF0b3JzKio6IHRoZSBjb21tdW5pdHkgbWF5IHNlbGYtc2VsZWN0IG1vZGVscy9odW1hbnMgdG8gcnVuIHRoZSBzYW1lIGNhbGlicmF0aW9uIHNldCBhbmQgc3VibWl0IM66IHJlc3VsdHM7IGFmdGVyIGFjY3VtdWxhdGluZyBtdWx0aXBsZSBzYW1wbGVzLCB0aGUgY3VycmVudCA1IGxhcmdlLW1vZGVsIGFubm90YXRvcnMgbWF5IGJlIHJlcGxhY2VkL2V4cGFuZGVkLgoKIyMgNC4gQmFjay1maWxsIGJvdW5kYXJpZXMgKHdoYXQgbm90IHRvIGRvKQoKLSAqKkRvIG5vdCBmYWJyaWNhdGUgY29kZXMqKjogY29vcmRpbmF0ZSBhZGRpdGlvbnMvZGVsZXRpb25zIGZvbGxvdyBvbmx5IHRoZSBldm9sdXRpb24gcnVsZSBvZiAidHdvIG11dHVhbGx5IGluZGVwZW5kZW50IHJlYWwgY2FzZXMgKyBzdHJ1Y3R1cmFsIHZhbGlkYXRpb24iOyBkbyBub3QgYWRkIGNoaWxkIGNvb3JkaW5hdGVzIG9uIHlvdXIgb3duLgotICoqRG8gbm90IHRvdWNoIHRoZSBjb29yZGluYXRlIHNlbWFudGljcyBvZiBjb29yZGluYXRlX2RhdGEuanNvbioqOiBjcml0ZXJpb24gcmV2aXNpb25zIGdvIHRocm91Z2ggU0tJTEwubWQ7IGNvb3JkaW5hdGUgc2VtYW50aWNzIHJlbWFpbiBzdGFibGUuCi0gKipzeW50aGV0aWMgaXMgbm90IHVzZWQgZm9yIHJhdGlmeSoqOiB0aGUgY2FsaWJyYXRpb24gc2V0IG1lYXN1cmVzIG9ubHkgZGlzY3JpbWluYXRpb24gYWdyZWVtZW50OyBpdCBpcyBub3QgcmVnYXJkZWQgYXMgYSByZWFsIGluY2lkZW50IGFuZCBpcyBub3QgdXNlZCBhcyBldmlkZW5jZSBmb3IgY29vcmRpbmF0ZSByYXRpZnkuCgojIyA1LiBWZXJzaW9uIGxvY2sgZGlzY2lwbGluZQoKQmVmb3JlIG1vZGlmeWluZyB0aGUgdG9vbGtpdCwgcmVhZCBgZ3VhcmQvUkVBRE1FLm1kYCBmaXJzdCBhbmQgZm9sbG93IHRoZSBzdGFuZGFyZCBwcm9jZXNzOiBgZ3VhcmQvdW5sb2NrLnNoYCDihpIgZWRpdCDihpIgdXBkYXRlIGBndWFyZC9NQU5JRkVTVC5qc29uYCDihpIgYGdpdCBjb21taXRgIOKGkiBgZ3VhcmQvbG9jay5zaGAg4oaSIGBndWFyZC92ZXJpZnkuc2hgLiBXaGVuIGNvbnRyb2xsZWQgZmlsZXMgKFNLSUxMLm1kIC8gY2FsaWJyYXRpb25fY2FzZXMuanNvbiAvIGNvb3JkaW5hdGVfZGF0YS5qc29uKSBhcmUgZXh0ZXJuYWxseSByb2xsZWQgYmFjaywgcmVzdG9yZSB0aGVtIHdpdGggYGdpdCByZXN0b3JlYCArIGB2ZXJpZnkuc2hgIGFuZCByYWlzZSBhbiBhbGVydC4K
+# Contributing Guide: Community ratify and Real-Case Back-Fill
+
+Correctness validation of this toolkit follows the route of "completed spontaneously by the community after open-sourcing" (no centralized validation requiring human annotators). The core mechanism is **ratify**: gradually validating/revising coordinates and criteria using real incident cases. This document explains how to submit real cases, how ratify is decided, and how data is back-filled.
+
+## 1. Submitting Real Cases (how to submit)
+
+Any actually occurred AI system failure/error/anomaly may be submitted as a candidate case. **A real case = non-synthetic, traceable record of phenomena from actual running/measured environments.**
+
+### Submission process
+1. Submit via an Issue using the template below; if sensitive/private content is involved, be sure to de-identify it—**describe only the phenomenon, with no real data**.
+2. Maintainers/the community first perform a **preliminary determination**: run through the Three-Step Matching Method to judge whether it is a mechanism classifiable by this toolkit.
+3. Once the threshold is met, it enters the ratify process.
+
+### Submission template (Issue)
+```markdown
+## Real Case
+- **Phenomenon**: what happened (objective description, no real data/credentials)
+- **Environment**: system type (single model / agent / RAG / multi-agent), trigger conditions
+- **Observation**: actual model/system output vs expectation
+- **Reproducible**: yes/no, reproduction steps (if any)
+- **Self-assigned coordinates** (optional): L/M/P self-assessment + rationale
+- **Confidentiality statement**: de-identified, no real data
+```
+
+## 2. How ratify is decided (core rules)
+
+### Coordinate ratify (graduate to formal status)
+- **Prediction slot → formal code**: when **two mutually independent real cases** both fall under this mechanism, the graduation threshold is met (per the "evolution rule").
+- **M9 Spontaneous Collaboration**: the parent coordinate has been admitted; its child coordinates await ratify by real cases; they graduate to formal status on the same threshold of two mutually independent real cases.
+- **Conditions against ratify**: synthetic cases, different variants of the same incident (not counted as "mutually independent"), and model annotations suspected of sharing training bias.
+
+### golden revision
+- When a real case conflicts with the existing golden, the real case prevails: **revise the golden and record a changelog entry**; do not freeze.
+- After revision, re-run the calibration set (regression mode) to confirm no silent drift has been introduced.
+
+### Meta-tag / cross-map back-fill
+- When real cases accumulate to `E1` (1 case), it may be marked `evidence_strength=E1`; `E2` (2 cases) / `E3` (≥3 cases) are upgraded step by step. **Do not overstate the case count.**
+- Meta-tags are completed along the 7 dimensions of `schema`; when no cases exist, use `E0/E1` and mark as "pending verification".
+- Of the cross-map mappings, only `verified` (case-supported) may be cited; citations of `hypothesis` must be labeled "pending verification".
+
+## 3. kappa re-test (how to re-measure agreement)
+
+After each revision / data version upgrade, run the calibration set to recompute the L/M/P three-axis κ and hit rate, and compare against the baseline (see the evolution table in `docs/TACT-kappa全历程汇总与分析.md`):
+
+- **Regression mode**: confirm that the changes introduced no silent drift (consistent with or better than the baseline).
+- **New annotators**: the community may self-select models/humans to run the same calibration set and submit κ results; after accumulating multiple samples, the current 5 large-model annotators may be replaced/expanded.
+
+## 4. Back-fill boundaries (what not to do)
+
+- **Do not fabricate codes**: coordinate additions/deletions follow only the evolution rule of "two mutually independent real cases + structural validation"; do not add child coordinates on your own.
+- **Do not touch the coordinate semantics of coordinate_data.json**: criterion revisions go through SKILL.md; coordinate semantics remain stable.
+- **synthetic is not used for ratify**: the calibration set measures only discrimination agreement; it is not regarded as a real incident and is not used as evidence for coordinate ratify.
+
+## 5. Version lock discipline
+
+Before modifying the toolkit, read `guard/README.md` first and follow the standard process: `guard/unlock.sh` → edit → update `guard/MANIFEST.json` → `git commit` → `guard/lock.sh` → `guard/verify.sh`. When controlled files (SKILL.md / calibration_cases.json / coordinate_data.json) are externally rolled back, restore them with `git restore` + `verify.sh` and raise an alert.

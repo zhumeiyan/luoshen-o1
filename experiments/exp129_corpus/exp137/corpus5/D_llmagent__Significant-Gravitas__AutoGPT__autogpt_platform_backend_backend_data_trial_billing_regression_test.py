@@ -1,1 +1,136 @@
-ZnJvbSB1bml0dGVzdC5tb2NrIGltcG9ydCBBc3luY01vY2ssIE1hZ2ljTW9jaywgcGF0Y2gKCmltcG9ydCBweXRlc3QKaW1wb3J0IHN0cmlwZQpmcm9tIHByaXNtYS5lbnVtcyBpbXBvcnQgU3Vic2NyaXB0aW9uVGllcgoKZnJvbSBiYWNrZW5kLmRhdGEuY3JlZGl0IGltcG9ydCBfY2FuY2VsX2N1c3RvbWVyX3N1YnNjcmlwdGlvbnMKZnJvbSBiYWNrZW5kLmRhdGEuc3RyaXBlX3JlY29uY2lsaWF0aW9uIGltcG9ydCBfY29sbGVjdF9zdGF0dXNfcGFnZQoKCkBweXRlc3QubWFyay5hc3luY2lvCkBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgKICAgICJlcnJvciIsCiAgICBbVmFsdWVFcnJvcigiTWlzc2luZyBlbnJvbGxtZW50IiksIHN0cmlwZS5BUElDb25uZWN0aW9uRXJyb3IoIlVuYXZhaWxhYmxlIildLAopCmFzeW5jIGRlZiB0ZXN0X3N0YWxlX3RyaWFsX2RvZXNfbm90X2Fib3J0X2xhdGVyX3BhZ2VzKGVycm9yOiBFeGNlcHRpb24pOgogICAgc3RhbGUgPSBzdHJpcGUuU3Vic2NyaXB0aW9uLmNvbnN0cnVjdF9mcm9tKAogICAgICAgIHsKICAgICAgICAgICAgImlkIjogInN1Yl9zdGFsZSIsCiAgICAgICAgICAgICJjdXN0b21lciI6ICJjdXNfc3RhbGUiLAogICAgICAgICAgICAibWV0YWRhdGEiOiB7InRyaWFsX2Vucm9sbG1lbnRfaWQiOiAibWlzc2luZyJ9LAogICAgICAgIH0sCiAgICAgICAgInRlc3QiLAogICAgKQogICAgcGFpZCA9IHN0cmlwZS5TdWJzY3JpcHRpb24uY29uc3RydWN0X2Zyb20oCiAgICAgICAgewogICAgICAgICAgICAiaWQiOiAic3ViX3BhaWQiLAogICAgICAgICAgICAiY3VzdG9tZXIiOiAiY3VzX3BhaWQiLAogICAgICAgICAgICAiaXRlbXMiOiB7ImRhdGEiOiBbeyJwcmljZSI6IHsiaWQiOiAicHJpY2VfcHJvIn19XX0sCiAgICAgICAgfSwKICAgICAgICAidGVzdCIsCiAgICApCiAgICBwYWdlcyA9IFsKICAgICAgICBNYWdpY01vY2soZGF0YT1bc3RhbGVdLCBoYXNfbW9yZT1UcnVlKSwKICAgICAgICBNYWdpY01vY2soZGF0YT1bcGFpZF0sIGhhc19tb3JlPUZhbHNlKSwKICAgIF0KICAgIHdpdGggKAogICAgICAgIHBhdGNoKAogICAgICAgICAgICAiYmFja2VuZC5kYXRhLnN0cmlwZV9yZWNvbmNpbGlhdGlvbi5zdHJpcGUuU3Vic2NyaXB0aW9uLmxpc3RfYXN5bmMiLAogICAgICAgICAgICBuZXdfY2FsbGFibGU9QXN5bmNNb2NrLAogICAgICAgICAgICBzaWRlX2VmZmVjdD1wYWdlcywKICAgICAgICApIGFzIGxpc3RpbmcsCiAgICAgICAgcGF0Y2goCiAgICAgICAgICAgICJiYWNrZW5kLmRhdGEuc3RyaXBlX3JlY29uY2lsaWF0aW9uLnN5bmNfc3Vic2NyaXB0aW9uX2Zyb21fc3RyaXBlIiwKICAgICAgICAgICAgbmV3X2NhbGxhYmxlPUFzeW5jTW9jaywKICAgICAgICAgICAgc2lkZV9lZmZlY3Q9ZXJyb3IsCiAgICAgICAgKSwKICAgICk6CiAgICAgICAgdGllcnM6IGRpY3Rbc3RyLCBTdWJzY3JpcHRpb25UaWVyXSA9IHt9CiAgICAgICAgaW5jb21wbGV0ZSA9IGF3YWl0IF9jb2xsZWN0X3N0YXR1c19wYWdlKAogICAgICAgICAgICAiYWN0aXZlIiwgeyJwcmljZV9wcm8iOiBTdWJzY3JpcHRpb25UaWVyLlBST30sIHRpZXJzCiAgICAgICAgKQogICAgYXNzZXJ0IGluY29tcGxldGUgaXMgVHJ1ZQogICAgYXNzZXJ0IHRpZXJzID09IHsiY3VzX3BhaWQiOiBTdWJzY3JpcHRpb25UaWVyLlBST30KICAgIGFzc2VydCBsaXN0aW5nLmF3YWl0X2FyZ3NfbGlzdFsxXS5rd2FyZ3NbInN0YXJ0aW5nX2FmdGVyIl0gPT0gInN1Yl9zdGFsZSIKCgpAcHl0ZXN0Lm1hcmsuYXN5bmNpbwpAcHl0ZXN0Lm1hcmsucGFyYW1ldHJpemUoInN0YXR1cyIsIFsiYWN0aXZlIiwgInRyaWFsaW5nIl0pCmFzeW5jIGRlZiB0ZXN0X2NhbmNlbGxhdGlvbl9mb2xsb3dzX2FsbF9wYWdlcyhzdGF0dXM6IHN0cik6CiAgICBzdWJzY3JpcHRpb25zID0gWwogICAgICAgIHN0cmlwZS5TdWJzY3JpcHRpb24uY29uc3RydWN0X2Zyb20oCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJpZCI6IGYic3ViX3tpbmRleH0iLAogICAgICAgICAgICAgICAgInNjaGVkdWxlIjogTm9uZSwKICAgICAgICAgICAgICAgICJtZXRhZGF0YSI6ICgKICAgICAgICAgICAgICAgICAgICB7InRyaWFsX2Vucm9sbG1lbnRfaWQiOiAidHJpYWwifSBpZiBzdGF0dXMgPT0gInRyaWFsaW5nIiBlbHNlIHt9CiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICB9LAogICAgICAgICAgICAidGVzdCIsCiAgICAgICAgKQogICAgICAgIGZvciBpbmRleCBpbiByYW5nZSgxMSkKICAgIF0KICAgIHNlY29uZCA9IE1hZ2ljTW9jayhkYXRhPXN1YnNjcmlwdGlvbnNbMTA6XSwgaGFzX21vcmU9RmFsc2UpCiAgICBmaXJzdCA9IE1hZ2ljTW9jayhkYXRhPXN1YnNjcmlwdGlvbnNbOjEwXSwgaGFzX21vcmU9VHJ1ZSkKICAgIGZpcnN0Lm5leHRfcGFnZV9hc3luYyA9IEFzeW5jTW9jayhyZXR1cm5fdmFsdWU9c2Vjb25kKQogICAgZW1wdHkgPSBNYWdpY01vY2soZGF0YT1bXSwgaGFzX21vcmU9RmFsc2UpCiAgICB3aXRoICgKICAgICAgICBwYXRjaCgKICAgICAgICAgICAgImJhY2tlbmQuZGF0YS5jcmVkaXQuc3RyaXBlLlN1YnNjcmlwdGlvbi5saXN0X2FzeW5jIiwKICAgICAgICAgICAgbmV3X2NhbGxhYmxlPUFzeW5jTW9jaywKICAgICAgICAgICAgc2lkZV9lZmZlY3Q9W2ZpcnN0LCBlbXB0eV0gaWYgc3RhdHVzID09ICJhY3RpdmUiIGVsc2UgW2VtcHR5LCBmaXJzdF0sCiAgICAgICAgKSwKICAgICAgICBwYXRjaCgKICAgICAgICAgICAgImJhY2tlbmQuZGF0YS5jcmVkaXQuc3RyaXBlLlN1YnNjcmlwdGlvbi5tb2RpZnlfYXN5bmMiLAogICAgICAgICAgICBuZXdfY2FsbGFibGU9QXN5bmNNb2NrLAogICAgICAgICkgYXMgbW9kaWZ5LAogICAgICAgIHBhdGNoKAogICAgICAgICAgICAiYmFja2VuZC5kYXRhLmNyZWRpdC5zdHJpcGUuU3Vic2NyaXB0aW9uLmNhbmNlbF9hc3luYyIsCiAgICAgICAgICAgIG5ld19jYWxsYWJsZT1Bc3luY01vY2ssCiAgICAgICAgICAgIHNpZGVfZWZmZWN0PXN1YnNjcmlwdGlvbnMsCiAgICAgICAgKSBhcyBjYW5jZWwsCiAgICAgICAgcGF0Y2goCiAgICAgICAgICAgICJiYWNrZW5kLmRhdGEuY3JlZGl0LnN5bmNfc3Vic2NyaXB0aW9uX2Zyb21fc3RyaXBlIiwgbmV3X2NhbGxhYmxlPUFzeW5jTW9jawogICAgICAgICkgYXMgc3luYywKICAgICk6CiAgICAgICAgY291bnQgPSBhd2FpdCBfY2FuY2VsX2N1c3RvbWVyX3N1YnNjcmlwdGlvbnMoImN1c190ZXN0IiwgYXRfcGVyaW9kX2VuZD1UcnVlKQogICAgYXNzZXJ0IGNvdW50ID09IDExCiAgICBmaXJzdC5uZXh0X3BhZ2VfYXN5bmMuYXNzZXJ0X2F3YWl0ZWRfb25jZV93aXRoKCkKICAgIGlmIHN0YXR1cyA9PSAiYWN0aXZlIjoKICAgICAgICBhc3NlcnQgbW9kaWZ5LmF3YWl0X2NvdW50ID09IDExCiAgICAgICAgbW9kaWZ5LmFzc2VydF9hbnlfYXdhaXQoInN1Yl8xMCIsIGNhbmNlbF9hdF9wZXJpb2RfZW5kPVRydWUpCiAgICAgICAgY2FuY2VsLmFzc2VydF9ub3RfYXdhaXRlZCgpCiAgICBlbHNlOgogICAgICAgIGFzc2VydCBjYW5jZWwuYXdhaXRfY291bnQgPT0gMTEKICAgICAgICBjYW5jZWwuYXNzZXJ0X2FueV9hd2FpdCgic3ViXzEwIiwgaW52b2ljZV9ub3c9RmFsc2UsIHByb3JhdGU9RmFsc2UpCiAgICAgICAgYXNzZXJ0IHN5bmMuYXdhaXRfY291bnQgPT0gMTEKICAgICAgICBtb2RpZnkuYXNzZXJ0X25vdF9hd2FpdGVkKCkKCgpAcHl0ZXN0Lm1hcmsuYXN5bmNpbwphc3luYyBkZWYgdGVzdF9jYW5jZWxsYXRpb25fcHJvcGFnYXRlc19sYXRlcl9wYWdlX2ZhaWx1cmUoKToKICAgIGZpcnN0ID0gTWFnaWNNb2NrKAogICAgICAgIGRhdGE9WwogICAgICAgICAgICBzdHJpcGUuU3Vic2NyaXB0aW9uLmNvbnN0cnVjdF9mcm9tKAogICAgICAgICAgICAgICAgeyJpZCI6ICJzdWJfZmlyc3QiLCAic2NoZWR1bGUiOiBOb25lfSwgInRlc3QiCiAgICAgICAgICAgICkKICAgICAgICBdLAogICAgICAgIGhhc19tb3JlPVRydWUsCiAgICApCiAgICBmaXJzdC5uZXh0X3BhZ2VfYXN5bmMgPSBBc3luY01vY2soCiAgICAgICAgc2lkZV9lZmZlY3Q9c3RyaXBlLkFQSUNvbm5lY3Rpb25FcnJvcigiTmV4dCBwYWdlIHVuYXZhaWxhYmxlIikKICAgICkKICAgIHdpdGggKAogICAgICAgIHBhdGNoKAogICAgICAgICAgICAiYmFja2VuZC5kYXRhLmNyZWRpdC5zdHJpcGUuU3Vic2NyaXB0aW9uLmxpc3RfYXN5bmMiLAogICAgICAgICAgICBuZXdfY2FsbGFibGU9QXN5bmNNb2NrLAogICAgICAgICAgICByZXR1cm5fdmFsdWU9Zmlyc3QsCiAgICAgICAgKSwKICAgICAgICBwYXRjaCgKICAgICAgICAgICAgImJhY2tlbmQuZGF0YS5jcmVkaXQuc3RyaXBlLlN1YnNjcmlwdGlvbi5tb2RpZnlfYXN5bmMiLAogICAgICAgICAgICBuZXdfY2FsbGFibGU9QXN5bmNNb2NrLAogICAgICAgICksCiAgICAgICAgcHl0ZXN0LnJhaXNlcyhzdHJpcGUuQVBJQ29ubmVjdGlvbkVycm9yLCBtYXRjaD0iTmV4dCBwYWdlIHVuYXZhaWxhYmxlIiksCiAgICApOgogICAgICAgIGF3YWl0IF9jYW5jZWxfY3VzdG9tZXJfc3Vic2NyaXB0aW9ucygiY3VzX3Rlc3QiLCBhdF9wZXJpb2RfZW5kPVRydWUpCg==
+from unittest.mock import AsyncMock, MagicMock, patch
+
+import pytest
+import stripe
+from prisma.enums import SubscriptionTier
+
+from backend.data.credit import _cancel_customer_subscriptions
+from backend.data.stripe_reconciliation import _collect_status_page
+
+
+@pytest.mark.asyncio
+@pytest.mark.parametrize(
+    "error",
+    [ValueError("Missing enrollment"), stripe.APIConnectionError("Unavailable")],
+)
+async def test_stale_trial_does_not_abort_later_pages(error: Exception):
+    stale = stripe.Subscription.construct_from(
+        {
+            "id": "sub_stale",
+            "customer": "cus_stale",
+            "metadata": {"trial_enrollment_id": "missing"},
+        },
+        "test",
+    )
+    paid = stripe.Subscription.construct_from(
+        {
+            "id": "sub_paid",
+            "customer": "cus_paid",
+            "items": {"data": [{"price": {"id": "price_pro"}}]},
+        },
+        "test",
+    )
+    pages = [
+        MagicMock(data=[stale], has_more=True),
+        MagicMock(data=[paid], has_more=False),
+    ]
+    with (
+        patch(
+            "backend.data.stripe_reconciliation.stripe.Subscription.list_async",
+            new_callable=AsyncMock,
+            side_effect=pages,
+        ) as listing,
+        patch(
+            "backend.data.stripe_reconciliation.sync_subscription_from_stripe",
+            new_callable=AsyncMock,
+            side_effect=error,
+        ),
+    ):
+        tiers: dict[str, SubscriptionTier] = {}
+        incomplete = await _collect_status_page(
+            "active", {"price_pro": SubscriptionTier.PRO}, tiers
+        )
+    assert incomplete is True
+    assert tiers == {"cus_paid": SubscriptionTier.PRO}
+    assert listing.await_args_list[1].kwargs["starting_after"] == "sub_stale"
+
+
+@pytest.mark.asyncio
+@pytest.mark.parametrize("status", ["active", "trialing"])
+async def test_cancellation_follows_all_pages(status: str):
+    subscriptions = [
+        stripe.Subscription.construct_from(
+            {
+                "id": f"sub_{index}",
+                "schedule": None,
+                "metadata": (
+                    {"trial_enrollment_id": "trial"} if status == "trialing" else {}
+                ),
+            },
+            "test",
+        )
+        for index in range(11)
+    ]
+    second = MagicMock(data=subscriptions[10:], has_more=False)
+    first = MagicMock(data=subscriptions[:10], has_more=True)
+    first.next_page_async = AsyncMock(return_value=second)
+    empty = MagicMock(data=[], has_more=False)
+    with (
+        patch(
+            "backend.data.credit.stripe.Subscription.list_async",
+            new_callable=AsyncMock,
+            side_effect=[first, empty] if status == "active" else [empty, first],
+        ),
+        patch(
+            "backend.data.credit.stripe.Subscription.modify_async",
+            new_callable=AsyncMock,
+        ) as modify,
+        patch(
+            "backend.data.credit.stripe.Subscription.cancel_async",
+            new_callable=AsyncMock,
+            side_effect=subscriptions,
+        ) as cancel,
+        patch(
+            "backend.data.credit.sync_subscription_from_stripe", new_callable=AsyncMock
+        ) as sync,
+    ):
+        count = await _cancel_customer_subscriptions("cus_test", at_period_end=True)
+    assert count == 11
+    first.next_page_async.assert_awaited_once_with()
+    if status == "active":
+        assert modify.await_count == 11
+        modify.assert_any_await("sub_10", cancel_at_period_end=True)
+        cancel.assert_not_awaited()
+    else:
+        assert cancel.await_count == 11
+        cancel.assert_any_await("sub_10", invoice_now=False, prorate=False)
+        assert sync.await_count == 11
+        modify.assert_not_awaited()
+
+
+@pytest.mark.asyncio
+async def test_cancellation_propagates_later_page_failure():
+    first = MagicMock(
+        data=[
+            stripe.Subscription.construct_from(
+                {"id": "sub_first", "schedule": None}, "test"
+            )
+        ],
+        has_more=True,
+    )
+    first.next_page_async = AsyncMock(
+        side_effect=stripe.APIConnectionError("Next page unavailable")
+    )
+    with (
+        patch(
+            "backend.data.credit.stripe.Subscription.list_async",
+            new_callable=AsyncMock,
+            return_value=first,
+        ),
+        patch(
+            "backend.data.credit.stripe.Subscription.modify_async",
+            new_callable=AsyncMock,
+        ),
+        pytest.raises(stripe.APIConnectionError, match="Next page unavailable"),
+    ):
+        await _cancel_customer_subscriptions("cus_test", at_period_end=True)

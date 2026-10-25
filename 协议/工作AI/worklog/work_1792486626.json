@@ -1,1 +1,48 @@
-ewogIuS7u+WKoSI6IFsKICB7CiAgICLku7vliqEiOiAi6K6h566XIDEyMyo0NTYrNzg5IiwKICAgIue7k+aenCI6IHsKICAgICJkZXRhaWwiOiAiMTIzKjQ1Nis3ODkgPSA1Njg3NyIsCiAgICAic3RhdHVzIjogIuWujOaIkCIKICAgfQogIH0sCiAgewogICAi5Lu75YqhIjogIuiBlOe9keaKk+WPliBodHRwczovL2FwaS5naXRodWIuY29tIiwKICAgIue7k+aenCI6IHsKICAgICJkZXRhaWwiOiAi6L+Z5Liq5rS75oiR44CQ5pyJ5omL5L2G5rKh5YaZ5a6e546w44CR77yI546w5pyJ5omL77yaWyfogZTnvZHor7snLCAn5Zu+5YOP55Sf5oiQJ13vvInvvIzmnKrmiafooYzvvJrogZTnvZHmipPlj5YgaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbSIsCiAgICAic3RhdHVzIjogIuacquWunueOsCIKICAgfQogIH0sCiAgewogICAi5Lu75YqhIjogIueUn+WbviDkuIDlvKDml6XokL0iLAogICAi57uT5p6cIjogewogICAgImRldGFpbCI6ICLov5nkuKrmtLvmiJHjgJDmnInmiYvkvYbmsqHlhpnlrp7njrDjgJHvvIjnjrDmnInmiYvvvJpbJ+iBlOe9keivuycsICflm77lg4/nlJ/miJAnXe+8ie+8jOacquaJp+ihjO+8mueUn+WbviDkuIDlvKDml6XokL0iLAogICAgInN0YXR1cyI6ICLmnKrlrp7njrAiCiAgIH0KICB9LAogIHsKICAgIuS7u+WKoSI6ICLor63pn7PmnJfor7vov5nmrrXor50iLAogICAi57uT5p6cIjogewogICAgImRldGFpbCI6ICLov5nkuKrmtLvopoHor63pn7PlkIjmiJDvvIzmiJHmsqHmnInjgILkuI3lgZrjgIIiLAogICAgInN0YXR1cyI6ICLmi5Lnu50iCiAgIH0KICB9CiBdLAogIuWksei0pSI6IHsKICAi5LuA5LmIIjogIuWunua1i+WIsCBbJ+mfs+mikeWQiOaIkCddIOS4jeWPr+eUqCIsCiAgIuW9seWTjSI6ICLmtonlj4rov5nkupvog73lipvnmoTmtLvmiJHmjqXkuI3kuobvvIzkvJrnm7Tor7QiLAogICLmnaXmupAiOiAi5a6e5rWL5o6o5a+8IiwKICAi6K+B5o2uIjogInByb2JlIOi/lOWbnumdnjDvvIzku7vmhI/mnLrlmajlj6/ph43ot5HvvJvlrp7kvosgY3ViZWJveC06MTExODoxNzkyNDg2NjI2IgogfSwKICLml7bpl7QiOiAiMjAyNi0xMC0yMFQxNjo1NzowNi40OTc2OTkiLAogIuiDveWKmyI6IHsKICAi5YaZ5paH5Lu2IjogdHJ1ZSwKICAi5Zu+5YOP55Sf5oiQIjogdHJ1ZSwKICAi6IGU572R6K+7IjogdHJ1ZSwKICAi6K+75paH5Lu2IjogdHJ1ZSwKICAi6LeRc2hlbGwiOiB0cnVlLAogICLot5Hku6PnoIEiOiB0cnVlLAogICLpn7PpopHlkIjmiJAiOiBmYWxzZQogfQp9
+{
+ "任务": [
+  {
+   "任务": "计算 123*456+789",
+   "结果": {
+    "detail": "123*456+789 = 56877",
+    "status": "完成"
+   }
+  },
+  {
+   "任务": "联网抓取 https://api.github.com",
+   "结果": {
+    "detail": "这个活我【有手但没写实现】（现有手：['联网读', '图像生成']），未执行：联网抓取 https://api.github.com",
+    "status": "未实现"
+   }
+  },
+  {
+   "任务": "生图 一张日落",
+   "结果": {
+    "detail": "这个活我【有手但没写实现】（现有手：['联网读', '图像生成']），未执行：生图 一张日落",
+    "status": "未实现"
+   }
+  },
+  {
+   "任务": "语音朗读这段话",
+   "结果": {
+    "detail": "这个活要语音合成，我没有。不做。",
+    "status": "拒绝"
+   }
+  }
+ ],
+ "失败": {
+  "什么": "实测到 ['音频合成'] 不可用",
+  "影响": "涉及这些能力的活我接不了，会直说",
+  "来源": "实测推导",
+  "证据": "probe 返回非0，任意机器可重跑；实例 cubebox-:1118:1792486626"
+ },
+ "时间": "2026-10-20T16:57:06.497699",
+ "能力": {
+  "写文件": true,
+  "图像生成": true,
+  "联网读": true,
+  "读文件": true,
+  "跑shell": true,
+  "跑代码": true,
+  "音频合成": false
+ }
+}

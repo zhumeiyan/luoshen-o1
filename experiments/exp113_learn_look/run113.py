@@ -1,1 +1,352 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjExMyDCtyDlnKjnnJ/lrp4gSS9PIOS4iuWtpuS8muW+gOWTqueciwo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuihpeS4iiAxMDIg5qyg5LiL55qE5a+554WnOiAgzrUg6YCA54GrICsg5pu057uG572R5qC8ICsg6K6t57uD5q2l5pWw5Yqg5aSfLArnnIsi5a2m5Ye65p2l55qE5pi+6JGX5oCnIuiDveS4jeiDvei/veS4iiLpooTnva7nmoTmmL7okZfmgKci44CCCuW5tuS4lOi/measoeecvOWSjOaJi+mDveaYr+ecn+eahDoKCiAg55y8ICAvZGV2L2ZiMCAg55yf5a6e6K6+5aSH6K+75YOP57SgIChncmFiIOS4gOaVtOW4pywgcHJvdmVuYW5jZSBSRUFMKQogIOaJiyAgL2Rldi91aW5wdXQg5YaF5qC45rOo5YaMIEhJRCwg5L2N56e755Sx44CQ5YaF5qC4IGV2ZW50IOivu+WbnuWAvOOAkempseWKqAogICAgICDigJTigJTmiYvmlq3kuoYgLT4g6K+75ZueIDAg5LqL5Lu2IC0+IOinhueql+S4jeWKqCAtPiDku7vliqHlv4XnhLblpLHotKUgKOWkqeeEtumYtOaAp+WvueeFpykKCumihOazqOWGjDoKICBIMSAg5LiW55WMQTogbGVhcm5lZCDkuI4gcHJlc2V0IOeahOivhuWIq+eOh+W3riA8PSAwLjE1ICjlrablvpflpJ/kuYXlupTog73ov73kuIopCiAgSDIgIOi/geenu+WIsOS4lueVjEIo55uu5qCH5YiG5biD5Y+N6L2sKTogcHJlc2V0IOWkp+i3jCwgbGVhcm5lZCDot4zluYXmmL7okZfmm7TlsI8KICBIMyAg5pWI5bqU5ZmoOiDmlq3miYsgLT4g5YaF5qC46K+75ZueIHJlbCDmgZLkuLogMCAo5Y+v6K+B5LyqLCDkuI3mmK/oh6ror4EpCiAgSDQgIOecvDog55uu5qCH5Yy6IHZzIOepuueZveWMuueahOi+uee8mOWvhuW6puW/hemhu+iDveWQjOaXtuS6p+eUn+ecn+WSjOWBhyAo5LiN6aWx5ZKMKQoiIiIKaW1wb3J0IG9zLCBzeXMsIHRpbWUsIGpzb24sIHN0cnVjdCwgc2VsZWN0LCBmY250bCwgZXJybm8KaW1wb3J0IG51bXB5IGFzIG5wCgpzeXMucGF0aC5pbnNlcnQoMCwgIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xIikKZnJvbSBlb19pby5yZWFsX2JhY2tlbmRzIGltcG9ydCBSZWFsSElERWZmZWN0b3IsIElOUFVUX0VWRU5UX1NJWkUsIElOUFVUX0VWRU5UX1NUUlVDVCwgRVZfUkVMLCBSRUxfWCwgUkVMX1kKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQoKT1VUID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClcsIEgsIEJQUCA9IDEwMjQsIDc2OCwgMzIKTkIgPSBXICogSCAqIEJQUCAvLyA4CkdXLCBHSCA9IDgsIDYgICAgICAgICAgICAgICAgICAgICMg572R5qC8IDh4NiA9IDQ4IOS4quazqOinhuS9jQpDRUxMX1csIENFTExfSCA9IFcgLy8gR1csIEggLy8gR0gKVklFVyA9IDEyOCAgICAgICAgICAgICAgICAgICAgICAgIyDop4bnqpfovrnplb8KCnJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygyMDI2MTAxNykKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOecvDog55yf5a6e5bin57yT5YayCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmNsYXNzIFJlYWxFeWU6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5mZCA9IG9wZW4oIi9kZXYvZmIwIiwgInIrYiIpCiAgICAgICAgYnVmID0gZmNudGwuaW9jdGwoc2VsZi5mZC5maWxlbm8oKSwgMHg0NjAwLCBieXRlcygxNjApKQogICAgICAgIHgsIHkgPSBzdHJ1Y3QudW5wYWNrX2Zyb20oIklJIiwgYnVmLCAwKQogICAgICAgIGJwcCA9IHN0cnVjdC51bnBhY2tfZnJvbSgiSSIsIGJ1ZiwgMjQpWzBdCiAgICAgICAgc2VsZi5nZW8gPSAoeCwgeSwgYnBwKQogICAgICAgIHNlbGYucHJvdmVuYW5jZSA9ICJSRUFMIiBpZiAoeCwgeSwgYnBwKSA9PSAoVywgSCwgQlBQKSBlbHNlICJNSVNNQVRDSCIKICAgICAgICBzZWxmLmZyYW1lID0gTm9uZQogICAgICAgIHNlbGYubl9ncmFiID0gMAoKICAgIGRlZiByZW5kZXIoc2VsZiwgYXJyX3JnYmE6IG5wLm5kYXJyYXkpOgogICAgICAgICIiIuaKiuWcuuaZr+ecn+WGmeWIsCAvZGV2L2ZiMCAo6K6+5aSH57qn55yf5a6eKSIiIgogICAgICAgIG9zLmxzZWVrKHNlbGYuZmQuZmlsZW5vKCksIDAsIG9zLlNFRUtfU0VUKQogICAgICAgIG4gPSBzZWxmLmZkLndyaXRlKGFycl9yZ2JhLmFzdHlwZShucC51aW50OCkudG9ieXRlcygpKQogICAgICAgIHJldHVybiBuID09IE5CCgogICAgZGVmIGdyYWIoc2VsZik6CiAgICAgICAgb3MubHNlZWsoc2VsZi5mZC5maWxlbm8oKSwgMCwgb3MuU0VFS19TRVQpCiAgICAgICAgZCA9IHNlbGYuZmQucmVhZChOQikKICAgICAgICBpZiBsZW4oZCkgIT0gTkI6ICAgICAgICAgICAgICAgICAgICAgIyDnn63or7vkuI3mmK/miJDlip8gKOWIpOaNruaguCAjNDQzKQogICAgICAgICAgICByYWlzZSBPU0Vycm9yKGVycm5vLkVJTywgZiJzaG9ydCByZWFkIHtsZW4oZCl9L3tOQn0iKQogICAgICAgIHNlbGYubl9ncmFiICs9IDEKICAgICAgICBzZWxmLmZyYW1lID0gbnAuZnJvbWJ1ZmZlcihkLCBkdHlwZT1ucC51aW50OCkucmVzaGFwZShILCBXLCA0KQogICAgICAgIHJldHVybiBzZWxmLmZyYW1lCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIG1lYXN1cmUod2luOiBucC5uZGFycmF5KSAtPiBmbG9hdDoKICAgICAgICAiIiLlr7nnnJ/lrp7lg4/ntKDlgZrnnJ/lrp7mtYvph486IOi+uee8mOWvhuW6piAoMH4xKSIiIgogICAgICAgIGcgPSB3aW5bOiwgOiwgMF0uYXN0eXBlKG5wLmZsb2F0MzIpIC8gMjU1LjAKICAgICAgICBlID0gbnAuYWJzKG5wLmRpZmYoZywgYXhpcz0wKSkubWVhbigpICsgbnAuYWJzKG5wLmRpZmYoZywgYXhpcz0xKSkubWVhbigpCiAgICAgICAgcmV0dXJuIGZsb2F0KGUpCgogICAgZGVmIGxvb2soc2VsZiwgY3g6IGludCwgY3k6IGludCkgLT4gZmxvYXQ6CiAgICAgICAgIiIi5LuO55yf5a6e5oqT5Yiw55qE5bin6YeM5Y+W6KeG56qXIOKAlOKAlCDlg4/ntKDmmK/nnJ/orr7lpIflrZfoioIsIOmAieaLqeS9jee9ruaYr+ecvOeahOS9jee9riIiIgogICAgICAgIHgwID0gaW50KG5wLmNsaXAoY3ggLSBWSUVXIC8vIDIsIDAsIFcgLSBWSUVXKSkKICAgICAgICB5MCA9IGludChucC5jbGlwKGN5IC0gVklFVyAvLyAyLCAwLCBIIC0gVklFVykpCiAgICAgICAgc2VsZi5sYXN0X3BvcyA9ICh4MCArIFZJRVcgLy8gMiwgeTAgKyBWSUVXIC8vIDIpCiAgICAgICAgcmV0dXJuIHNlbGYubWVhc3VyZShzZWxmLmZyYW1lW3kwOnkwICsgVklFVywgeDA6eDAgKyBWSUVXXSkKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOaJizog55yf5a6eIHVpbnB1dCArIOWGheaguOivu+WbngojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpjbGFzcyBSZWFsSGFuZDoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBlbmFibGVkPVRydWUpOgogICAgICAgIHNlbGYuZW5hYmxlZCA9IGVuYWJsZWQKICAgICAgICBzZWxmLnByb3ZlbmFuY2UgPSAiVU5BVkFJTEFCTEUiCiAgICAgICAgc2VsZi5lcnIgPSBOb25lCiAgICAgICAgc2VsZi5lZmYgPSBSZWFsSElERWZmZWN0b3IobmFtZT0ibHVvc2hlbi1lby1sb29rIiwgZHJ5X3J1bj1ub3QgZW5hYmxlZCkKICAgICAgICBzZWxmLm5vZGUgPSBzZWxmLmVmZi5zeXNub2RlCiAgICAgICAgc2VsZi5yZmQgPSBOb25lCiAgICAgICAgc2VsZi5yZWxfc3VtID0gMAogICAgICAgIHNlbGYuemVyb19yZWFkcyA9IDAKICAgICAgICBpZiBzZWxmLmVmZi5wcm92ZW5hbmNlID09ICJSRUFMIiBhbmQgZW5hYmxlZCBhbmQgc2VsZi5ub2RlOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzZWxmLnJmZCA9IG9zLm9wZW4oc2VsZi5ub2RlLCBvcy5PX1JET05MWSB8IG9zLk9fTk9OQkxPQ0spCiAgICAgICAgICAgICAgICBvcy5zZXRfYmxvY2tpbmcoc2VsZi5yZmQsIEZhbHNlKQogICAgICAgICAgICAgICAgc2VsZi5wcm92ZW5hbmNlID0gIlJFQUwiCiAgICAgICAgICAgIGV4Y2VwdCBPU0Vycm9yIGFzIGU6CiAgICAgICAgICAgICAgICBzZWxmLmVyciA9IGYie2Vycm5vLmVycm9yY29kZS5nZXQoZS5lcnJubywgZS5lcnJubyl9IgogICAgICAgIGVsaWYgbm90IGVuYWJsZWQ6CiAgICAgICAgICAgIHNlbGYucHJvdmVuYW5jZSA9ICJESVNBQkxFRCIKCiAgICBkZWYgcmVhZGJhY2soc2VsZiwgdGltZW91dD0wLjAzKToKICAgICAgICAiIiLlhoXmoLjmib/orqTmlLbliLDkuoblpJrlsJHkvY3np7sg4oCU4oCUIOepuuaYr+WQiOazleeahCfmsqHliqgnIiIiCiAgICAgICAgaWYgc2VsZi5yZmQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuICgwLCAwKQogICAgICAgIGR4ID0gZHkgPSAwCiAgICAgICAgdHJ5OgogICAgICAgICAgICByLCBfLCBfID0gc2VsZWN0LnNlbGVjdChbc2VsZi5yZmRdLCBbXSwgW10sIHRpbWVvdXQpCiAgICAgICAgICAgIGlmIG5vdCByOgogICAgICAgICAgICAgICAgcmV0dXJuICgwLCAwKQogICAgICAgICAgICByYXcgPSBvcy5yZWFkKHNlbGYucmZkLCBJTlBVVF9FVkVOVF9TSVpFICogNjQpCiAgICAgICAgZXhjZXB0IE9TRXJyb3IgYXMgZToKICAgICAgICAgICAgaWYgZS5lcnJubyBpbiAoZXJybm8uRUFHQUlOLCBlcnJuby5FV09VTERCTE9DSyk6CiAgICAgICAgICAgICAgICByZXR1cm4gKDAsIDApCiAgICAgICAgICAgIHNlbGYuZXJyID0gZiJ7ZXJybm8uZXJyb3Jjb2RlLmdldChlLmVycm5vLCBlLmVycm5vKX0iCiAgICAgICAgICAgIHJldHVybiAoMCwgMCkKICAgICAgICBuID0gbGVuKHJhdykgLy8gSU5QVVRfRVZFTlRfU0laRQogICAgICAgIGZvciBpIGluIHJhbmdlKG4pOgogICAgICAgICAgICBfLCBfLCB0eXAsIGNvZGUsIHZhbCA9IHN0cnVjdC51bnBhY2tfZnJvbShJTlBVVF9FVkVOVF9TVFJVQ1QsIHJhdywgaSAqIElOUFVUX0VWRU5UX1NJWkUpCiAgICAgICAgICAgIGlmIHR5cCA9PSBFVl9SRUwgYW5kIGNvZGUgPT0gUkVMX1g6CiAgICAgICAgICAgICAgICBkeCArPSB2YWwKICAgICAgICAgICAgZWxpZiB0eXAgPT0gRVZfUkVMIGFuZCBjb2RlID09IFJFTF9ZOgogICAgICAgICAgICAgICAgZHkgKz0gdmFsCiAgICAgICAgcmV0dXJuIChkeCwgZHkpCgogICAgZGVmIG1vdmUoc2VsZiwgZHgsIGR5KToKICAgICAgICBpZiBub3Qgc2VsZi5lbmFibGVkOgogICAgICAgICAgICByZXR1cm4gKDAsIDApCiAgICAgICAgc2VsZi5lZmYubW92ZShpbnQoZHgpLCBpbnQoZHkpKQogICAgICAgIGQgPSBzZWxmLnJlYWRiYWNrKCkKICAgICAgICBzZWxmLnJlbF9zdW0gKz0gYWJzKGRbMF0pICsgYWJzKGRbMV0pCiAgICAgICAgaWYgZCA9PSAoMCwgMCk6CiAgICAgICAgICAgIHNlbGYuemVyb19yZWFkcyArPSAxCiAgICAgICAgcmV0dXJuIGQKCiAgICBkZWYgZGVzdHJveShzZWxmKToKICAgICAgICBpZiBzZWxmLnJmZCBpcyBub3QgTm9uZToKICAgICAgICAgICAgb3MuY2xvc2Uoc2VsZi5yZmQpCiAgICAgICAgc2VsZi5lZmYuZGVzdHJveSgpCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuJbnlYwKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGNlbGxfY2VudGVyKGkpOgogICAgZ3gsIGd5ID0gaSAlIEdXLCBpIC8vIEdXCiAgICByZXR1cm4gKGd4ICogQ0VMTF9XICsgQ0VMTF9XIC8vIDIsIGd5ICogQ0VMTF9IICsgQ0VMTF9IIC8vIDIpCgoKZGVmIG1ha2Vfc2NlbmUodGFyZ2V0X3h5LCBkaXN0cmFjdG9ycywgc2VlZCk6CiAgICByID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBhID0gbnAuemVyb3MoKEgsIFcsIDQpLCBkdHlwZT1ucC51aW50OCkKICAgICMg5Yik5o2u5qC4ICM0NjI6IOiDjOaZr+abvuaYr+avj+S4quWDj+e0oOeLrOeri+maj+acuueahOWZqueCuSDigJTigJQg5a6D6Ieq5bex55qE6L6557yY5a+G5bqmIDAuMDMxCiAgICAjIOWwsea3ueayoeS6huebruaghygwLjAzNyksIOmAmumBk+mlseWSjOWIsCAxLjE5IOWAjSwg5Yik5o2u5Lqn55Sf5LiN5LqG5YGH44CCCiAgICAjIOaUueaIkOW5s+a7kea4kOWPmDog6IOM5pmv6Ieq6Lqr6L6557yYIH4wLCDovrnnvJjlj6rmnaXoh6rniankvZPjgIIKICAgIGd5ID0gbnAubGluc3BhY2UoMCwgMTAsIEgpLmFzdHlwZShucC5mbG9hdDMyKVs6LCBOb25lXQogICAgZ3ggPSBucC5saW5zcGFjZSgwLCAxMCwgVykuYXN0eXBlKG5wLmZsb2F0MzIpW05vbmUsIDpdCiAgICBiZyA9ICgyNiArIGd5ICsgZ3gpLmFzdHlwZShucC51aW50OCkKICAgIGFbOiwgOiwgMF0gPSBhWzosIDosIDFdID0gYVs6LCA6LCAyXSA9IGJnCiAgICBhWzosIDosIDNdID0gMjU1CiAgICAjIOW5suaJsOWdlzog5Lit562J5a+55q+UCiAgICBmb3IgKGR4LCBkeSkgaW4gZGlzdHJhY3RvcnM6CiAgICAgICAgcnIgPSBpbnQoci5pbnRlZ2VycygxOCwgMzApKQogICAgICAgIHl5LCB4eCA9IG5wLm9ncmlkWy1ycjpyciwgLXJyOnJyXQogICAgICAgIG0gPSAoeHggKiB4eCArIHl5ICogeXkpIDw9IHJyICogcnIKICAgICAgICB5MCwgeDAgPSBtYXgoZHkgLSByciwgMCksIG1heChkeCAtIHJyLCAwKQogICAgICAgIHNsID0gYVt5MDp5MCArIDIgKiByciwgeDA6eDAgKyAyICogcnIsIDBdCiAgICAgICAgbW0gPSBtWzpzbC5zaGFwZVswXSwgOnNsLnNoYXBlWzFdXQogICAgICAgIHNsW21tXSA9IDk1CiAgICAgICAgYVt5MDp5MCArIDIgKiByciwgeDA6eDAgKyAyICogcnIsIDFdW21tXSA9IDk1CiAgICAgICAgYVt5MDp5MCArIDIgKiByciwgeDA6eDAgKyAyICogcnIsIDJdW21tXSA9IDk1CiAgICAjIOebruaghzog6auY5a+55q+U5YWt6L655b2iCiAgICB0eCwgdHkgPSB0YXJnZXRfeHkKICAgIHJyID0gMzQKICAgIHl5LCB4eCA9IG5wLm9ncmlkWy1ycjpyciwgLXJyOnJyXQogICAgbSA9ICh4eCAqIHh4ICsgeXkgKiB5eSkgPD0gcnIgKiBycgogICAgeTAsIHgwID0gbWF4KHR5IC0gcnIsIDApLCBtYXgodHggLSByciwgMCkKICAgIGZvciBjIGluIHJhbmdlKDMpOgogICAgICAgIHNsID0gYVt5MDp5MCArIDIgKiByciwgeDA6eDAgKyAyICogcnIsIGNdCiAgICAgICAgbW0gPSBtWzpzbC5zaGFwZVswXSwgOnNsLnNoYXBlWzFdXQogICAgICAgIHNsW21tXSA9IDIzNQogICAgcmV0dXJuIGEKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4u+S9kwojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgcnVuX2FnZW50KGtpbmQsIHdvcmxkLCBuX3RyaWFsLCBuX3N0ZXAsIGV5ZSwgaGFuZCwgUT1Ob25lLCBzYWw9Tm9uZSwgZXBzPTAuMCwgdHJhaW49VHJ1ZSk6CiAgICBIQSA9IHJhbmdlKEdXIC8vIDIsIEdXKSAgICAgICAgICAgICAgICAgIyDkuJbnlYxBOiDnm67moIflnKjlj7PljYoKICAgIEhCID0gcmFuZ2UoMCwgR1cgLy8gMikgICAgICAgICAgICAgICAgICAjIOS4lueVjEI6IOebruagh+WcqOW3puWNigogICAgY29scyA9IEhBIGlmIHdvcmxkID09ICJBIiBlbHNlIEhCCiAgICBjZWxsc19wb29sID0gW2d5ICogR1cgKyBneCBmb3IgZ3kgaW4gcmFuZ2UoR0gpIGZvciBneCBpbiBjb2xzXQogICAgZGlzdHJhY3RvcnMgPSBbKGludCh4KSwgaW50KHkpKSBmb3IgeCwgeSBpbgogICAgICAgICAgICAgICAgICAgemlwKHJuZy5pbnRlZ2Vycyg2MCwgVyAtIDYwLCA3KSwgcm5nLmludGVnZXJzKDYwLCBIIC0gNjAsIDcpKV0KICAgIGhpdHMsIGRpc3RzLCB0cmFqLCBtaW5kID0gMCwgW10sIFtdLCBbXQogICAgZm9yIGsgaW4gcmFuZ2Uobl90cmlhbCk6CiAgICAgICAgc2NlbmVfc2VlZCA9IDkwMDAgKyBrICsgKDAgaWYgd29ybGQgPT0gIkEiIGVsc2UgNTAwMCkKICAgICAgICB0Z3RfY2VsbCA9IGludChjZWxsc19wb29sW3JuZy5pbnRlZ2VycygwLCBsZW4oY2VsbHNfcG9vbCkpXSkKICAgICAgICB0eCwgdHkgPSBjZWxsX2NlbnRlcih0Z3RfY2VsbCkKICAgICAgICAjIOebruagh+WcqOagvOWGhemaj+acuuaKluWKqCwg6YG/5YWNIuiusOS9j+agvOW/gyLov5nnp43kvZzlvIoKICAgICAgICB0eCArPSBpbnQocm5nLmludGVnZXJzKC1DRUxMX1cgLy8gMiArIDQwLCBDRUxMX1cgLy8gMiAtIDQwKSkKICAgICAgICB0eSArPSBpbnQocm5nLmludGVnZXJzKC1DRUxMX0ggLy8gMiArIDMwLCBDRUxMX0ggLy8gMiAtIDMwKSkKICAgICAgICBleWUucmVuZGVyKG1ha2Vfc2NlbmUoKHR4LCB0eSksIGRpc3RyYWN0b3JzLCBzY2VuZV9zZWVkKSkKICAgICAgICBleWUuZ3JhYigpICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5YWI5LiK5bGP5YaN5oSf55+lICgxMTIg55qE5pWZ6K6tKQogICAgICAgIGN1ciA9IGludChybmcuaW50ZWdlcnMoMCwgR1cgKiBHSCkpCiAgICAgICAgY3gsIGN5ID0gY2VsbF9jZW50ZXIoY3VyKQogICAgICAgIGdhaW5fc3VtID0gMC4wCiAgICAgICAgc3RlcF9kID0gW10KICAgICAgICBmb3Igc3QgaW4gcmFuZ2Uobl9zdGVwKToKICAgICAgICAgICAgaWYga2luZCA9PSAic3RhdGljIjoKICAgICAgICAgICAgICAgIG54dCA9IGN1cgogICAgICAgICAgICBlbGlmIGtpbmQgPT0gImJsaW5kIjoKICAgICAgICAgICAgICAgIG54dCA9IGludChybmcuaW50ZWdlcnMoMCwgR1cgKiBHSCkpCiAgICAgICAgICAgIGVsaWYga2luZCA9PSAicHJlc2V0IjoKICAgICAgICAgICAgICAgIG9yZGVyID0gbnAuYXJnc29ydCgtc2FsKQogICAgICAgICAgICAgICAgbnh0ID0gaW50KG5leHQoKGMgZm9yIGMgaW4gb3JkZXIgaWYgYyBub3QgaW4gdHJhalstODpdKSwgb3JkZXJbMF0pKQogICAgICAgICAgICBlbHNlOiAgIyBsZWFybmVkCiAgICAgICAgICAgICAgICByZWNlbnQgPSBzZXQodCBmb3IgdCBpbiB0cmFqWy04Ol0gaWYgdCA+PSAwKQogICAgICAgICAgICAgICAgaWYgdHJhaW4gYW5kIHJuZy5yYW5kb20oKSA8IGVwczoKICAgICAgICAgICAgICAgICAgICBueHQgPSBpbnQocm5nLmludGVnZXJzKDAsIEdXICogR0gpKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBxID0gUVtjdXJdLmNvcHkoKQogICAgICAgICAgICAgICAgICAgIGZvciBjIGluIHJlY2VudDogICAgICAgICAgICAgICAgICAgICAjIOS4jiBwcmVzZXQg5ZCM5LiA5aWXIuS4jemHjeeciyLmnLrliLYKICAgICAgICAgICAgICAgICAgICAgICAgcVtjXSA9IC0xZTkKICAgICAgICAgICAgICAgICAgICBueHQgPSBpbnQobnAuYXJnbWF4KHEpKQogICAgICAgICAgICBuY3gsIG5jeSA9IGNlbGxfY2VudGVyKG54dCkKICAgICAgICAgICAgZHgsIGR5ID0gbmN4IC0gY3gsIG5jeSAtIGN5CiAgICAgICAgICAgIGtkID0gaGFuZC5tb3ZlKGR4LCBkeSkgaWYgKGR4IG9yIGR5KSBlbHNlICgwLCAwKQogICAgICAgICAgICAjIOinhueql+WPquaMieWGheaguOaJv+iupOaUtuWIsOeahOS9jeenu+i1sCDigJTigJQg5omL5pat5LqG6K+75ZueIDAsIOWwseWBnOWcqOWOn+WcsAogICAgICAgICAgICBpZiBrZCAhPSAoMCwgMCk6CiAgICAgICAgICAgICAgICBjeCArPSBrZFswXQogICAgICAgICAgICAgICAgY3kgKz0ga2RbMV0KICAgICAgICAgICAgY3ggPSBpbnQobnAuY2xpcChjeCwgVklFVyAvLyAyLCBXIC0gVklFVyAvLyAyKSkKICAgICAgICAgICAgY3kgPSBpbnQobnAuY2xpcChjeSwgVklFVyAvLyAyLCBIIC0gVklFVyAvLyAyKSkKICAgICAgICAgICAgbSA9IGV5ZS5sb29rKGN4LCBjeSkKICAgICAgICAgICAgZ2Fpbl9zdW0gKz0gbQogICAgICAgICAgICBkbm93ID0gZmxvYXQobnAuaHlwb3QoY3ggLSB0eCwgY3kgLSB0eSkpCiAgICAgICAgICAgIHN0ZXBfZC5hcHBlbmQoZG5vdykKICAgICAgICAgICAgaWYgdHJhaW4gYW5kIGtpbmQgPT0gImxlYXJuZWQiOgogICAgICAgICAgICAgICAgciA9IGZsb2F0KG0pCiAgICAgICAgICAgICAgICBRW2N1ciwgbnh0XSA9IFFbY3VyLCBueHRdICsgMC4zNSAqIChyICsgMC41NSAqIGZsb2F0KG5wLm1heChRW254dF0pKSAtIFFbY3VyLCBueHRdKQogICAgICAgICAgICBjdXIgPSBueHQKICAgICAgICAgICAgdHJhai5hcHBlbmQoY3VyKQogICAgICAgIGQgPSBmbG9hdChucC5oeXBvdChjeCAtIHR4LCBjeSAtIHR5KSkKICAgICAgICBkbWluID0gZmxvYXQobWluKHN0ZXBfZCkpIGlmIHN0ZXBfZCBlbHNlIGQKICAgICAgICBkaXN0cy5hcHBlbmQoZCkKICAgICAgICBtaW5kLmFwcGVuZChkbWluKQogICAgICAgIHRyYWouYXBwZW5kKC0xKQogICAgICAgIGlmIGRtaW4gPD0gNjQuMDogICAgICAgICAgICAgICAgICMg6L+H56iL5Lit5piv5ZCm5pu+5oqK55uu5qCH57qz5YWl6KeG56qXCiAgICAgICAgICAgIGhpdHMgKz0gMQogICAgcmV0dXJuIGRpY3Qoa2luZD1raW5kLCB3b3JsZD13b3JsZCwgYWNjPWhpdHMgLyBuX3RyaWFsLAogICAgICAgICAgICAgICAgbWVhbl9kaXN0PWZsb2F0KG5wLm1lYW4oZGlzdHMpKSwKICAgICAgICAgICAgICAgIG1lYW5fbWluZD1mbG9hdChucC5tZWFuKG1pbmQpKSwgbj1uX3RyaWFsLAogICAgICAgICAgICAgICAgdHJhal9mZWF0PWdhaW5fc3VtIC8gbWF4KG5fdHJpYWwsIDEpKQoKCmRlZiBtYWluKCk6CiAgICB0MCA9IHRpbWUudGltZSgpCiAgICBleWUgPSBSZWFsRXllKCkKICAgIHByaW50KGYiW2V5ZV0gZ2VvPXtleWUuZ2VvfSBwcm92ZW5hbmNlPXtleWUucHJvdmVuYW5jZX0iKQoKICAgICMgLS0tLS0tLS0tLSBINDog55y855qE5Y+v6K+B5Lyq5oCnICjkuI3ppbHlkowpIC0tLS0tLS0tLS0KICAgIGV5ZS5yZW5kZXIobWFrZV9zY2VuZSgoODAwLCA0MDApLCBbKDIwMCwgMjAwKV0sIDEpKQogICAgZXllLmdyYWIoKQogICAgb25fdCA9IGV5ZS5sb29rKDgwMCwgNDAwKQogICAgb2ZmX3QgPSBleWUubG9vaygxMjAsIDY0MCkKICAgIGV5ZV9mYWxzaWZpYWJsZSA9IChvbl90ID4gb2ZmX3QgKiAxLjUpIGFuZCBvZmZfdCA+IDAKCiAgICAjIC0tLS0tLS0tLS0gSDM6IOaJi+eahOWPr+ivgeS8quaApyAtLS0tLS0tLS0tCiAgICBoYW5kX29uID0gUmVhbEhhbmQoZW5hYmxlZD1UcnVlKQogICAgaDEgPSBoYW5kX29uLm1vdmUoMzAsIC0yMCkKICAgIGhhbmRfb2ZmID0gUmVhbEhhbmQoZW5hYmxlZD1GYWxzZSkKICAgIGgyID0gaGFuZF9vZmYubW92ZSgzMCwgLTIwKQogICAgaGFuZF9mYWxzaWZpYWJsZSA9IChoYW5kX29uLnByb3ZlbmFuY2UgPT0gIlJFQUwiIGFuZCBhYnMoaDFbMF0pID4gMAogICAgICAgICAgICAgICAgICAgICAgICBhbmQgaDIgPT0gKDAsIDApKQogICAgcHJpbnQoZiJbaGFuZF0gb249e2hhbmRfb24ucHJvdmVuYW5jZX0gcmVhZGJhY2s9e2gxfSB8IG9mZj17aGFuZF9vZmYucHJvdmVuYW5jZX0gcmVhZGJhY2s9e2gyfSIpCgogICAgIyDpooTnva7mmL7okZfmgKcgPSDkuJbnlYxBIOeahOecn+Wunuebruagh+WIhuW4gyAo5Y+z5Y2KPTEuMCwg5bem5Y2KPTAuMSkKICAgIHNhbCA9IG5wLmFycmF5KFsxLjAgaWYgKGkgJSBHVykgPj0gR1cgLy8gMiBlbHNlIDAuMSBmb3IgaSBpbiByYW5nZShHVyAqIEdIKV0pCiAgICAjIOWBh+W8leWvvOWvueeFpzog5ZCM5qC355qE5a+55q+U5bqmLCDkvYbmiZPkubEKICAgIHNhbF9zY3IgPSBzYWwuY29weSgpCiAgICBybmcuc2h1ZmZsZShzYWxfc2NyKQoKICAgIE5TVEVQID0gMTIKICAgIE5UUkFJTiwgTkVWQUwgPSA4MDAsIDgwCiAgICByZXMgPSB7fQoKICAgICMgLS0tLS0tLS0tLSDorq3nu4MgbGVhcm5lZCAozrUg6YCA54GrLCDorq3nu4Pph4/liqDlpJ8pIC0tLS0tLS0tLS0KICAgIFEgPSBucC56ZXJvcygoR1cgKiBHSCwgR1cgKiBHSCkpICsgMC4wMQogICAgZXBzMCwgZXBzMSwgZGVjYXkgPSAxLjAsIDAuMDUsIDAuOTk1CiAgICBlcHMgPSBlcHMwCiAgICB0cmFpbl9jdXJ2ZSwgdHJhaW5fYWNjID0gW10sIFtdCiAgICBmb3IgZXAgaW4gcmFuZ2UoTlRSQUlOKToKICAgICAgICByID0gcnVuX2FnZW50KCJsZWFybmVkIiwgIkEiLCAxLCBOU1RFUCwgZXllLCBoYW5kX29uLCBRPVEsIGVwcz1lcHMsIHRyYWluPVRydWUpCiAgICAgICAgdHJhaW5fY3VydmUuYXBwZW5kKHJbIm1lYW5fbWluZCJdKQogICAgICAgIHRyYWluX2FjYy5hcHBlbmQoclsiYWNjIl0pCiAgICAgICAgZXBzID0gbWF4KGVwczEsIGVwcyAqIGRlY2F5KQogICAgICAgIGlmIGVwICUgMTAwID09IDA6CiAgICAgICAgICAgIHByaW50KGYiICBbdHJhaW4ge2VwOjRkfV0gZXBzPXtlcHM6LjNmfSBtaW5kaXN0PXtucC5tZWFuKHRyYWluX2N1cnZlWy01MDpdKTouMGZ9ICIKICAgICAgICAgICAgICAgICAgZiJhY2M9e25wLm1lYW4odHJhaW5fYWNjWy01MDpdKTouMmZ9IikKICAgIHByaW50KGYiW3RyYWluXSBlcHMge2VwczB9LT57ZXBzOi4zZn0gIG1pbmRpc3Qge25wLm1lYW4odHJhaW5fY3VydmVbOjUwXSk6LjBmfSAiCiAgICAgICAgICBmIi0+IHtucC5tZWFuKHRyYWluX2N1cnZlWy01MDpdKTouMGZ9IikKICAgIFFfQSA9IFEuY29weSgpCgogICAgIyAtLS0tLS0tLS0tIOS4lueVjEEgLS0tLS0tLS0tLQogICAgZm9yIGtpbmQgaW4gWyJwcmVzZXQiLCAibGVhcm5lZCIsICJibGluZCIsICJzdGF0aWMiLCAic2NyYW1ibGVkIl06CiAgICAgICAga3cgPSBkaWN0KGtpbmQ9KCJwcmVzZXQiIGlmIGtpbmQgPT0gInNjcmFtYmxlZCIgZWxzZSBraW5kKSwKICAgICAgICAgICAgICAgICAgd29ybGQ9IkEiLCBuX3RyaWFsPU5FVkFMLCBuX3N0ZXA9TlNURVAsIGV5ZT1leWUsIGhhbmQ9aGFuZF9vbikKICAgICAgICBpZiBraW5kID09ICJsZWFybmVkIjoKICAgICAgICAgICAga3cudXBkYXRlKFE9USwgdHJhaW49RmFsc2UpCiAgICAgICAgZWxpZiBraW5kID09ICJzY3JhbWJsZWQiOgogICAgICAgICAgICBrdy51cGRhdGUoc2FsPXNhbF9zY3IpCiAgICAgICAgZWxpZiBraW5kID09ICJwcmVzZXQiOgogICAgICAgICAgICBrdy51cGRhdGUoc2FsPXNhbCkKICAgICAgICByZXNbZiJBOntraW5kfSJdID0gcnVuX2FnZW50KCoqa3cpCgogICAgIyAtLS0tLS0tLS0tIOS4lueVjEI6IOebruagh+WIhuW4g+WPjei9rCAtLS0tLS0tLS0tCiAgICBrdyA9IGRpY3Qod29ybGQ9IkIiLCBuX3RyaWFsPU5FVkFMLCBuX3N0ZXA9TlNURVAsIGV5ZT1leWUsIGhhbmQ9aGFuZF9vbikKICAgIHJlc1siQjpwcmVzZXQiXSA9IHJ1bl9hZ2VudChraW5kPSJwcmVzZXQiLCBzYWw9c2FsLCAqKmt3KSAgICAgICAgICAjIOS7jeaKseedgCBBIOeahOaXp+WbvgogICAgcmVzWyJCOmxlYXJuZWRfZnJvemVuIl0gPSBydW5fYWdlbnQoa2luZD0ibGVhcm5lZCIsIFE9UV9BLCB0cmFpbj1GYWxzZSwgKiprdykKICAgIGZvciBiIGluIFsiYmxpbmQiLCAic3RhdGljIl06CiAgICAgICAgcmVzW2YiQjp7Yn0iXSA9IHJ1bl9hZ2VudChraW5kPWIsICoqa3cpCgogICAgIyAtLS0tLS0tLS0tIEI6IOmHjeiurSAo6L+B56e755qE55yf5q2j5qOA6aqMIOKAlOKAlCDog73kuI3og73ph43mlrDlraYpIC0tLS0tLS0tLS0KICAgIFFfQiA9IFFfQS5jb3B5KCkKICAgIGVwcyA9IDAuMzAKICAgIGZvciBlcCBpbiByYW5nZSgyMDApOgogICAgICAgIHJ1bl9hZ2VudCgibGVhcm5lZCIsICJCIiwgMSwgTlNURVAsIGV5ZSwgaGFuZF9vbiwgUT1RX0IsIGVwcz1lcHMsIHRyYWluPVRydWUpCiAgICAgICAgZXBzID0gbWF4KDAuMDUsIGVwcyAqIDAuOTkpCiAgICByZXNbIkI6bGVhcm5lZF9yZXRyYWluIl0gPSBydW5fYWdlbnQoa2luZD0ibGVhcm5lZCIsIHdvcmxkPSJCIiwgbl90cmlhbD1ORVZBTCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuX3N0ZXA9TlNURVAsIGV5ZT1leWUsIGhhbmQ9aGFuZF9vbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBRPVFfQiwgdHJhaW49RmFsc2UpCgogICAgaGFuZF9vbi5kZXN0cm95KCkKICAgIGhhbmRfb2ZmLmRlc3Ryb3koKQoKICAgIGR0ID0gdGltZS50aW1lKCkgLSB0MAogICAgb3V0ID0gZGljdChyZXM9cmVzLCB0cmFpbl9jdXJ2ZT1bZmxvYXQodikgZm9yIHYgaW4gdHJhaW5fY3VydmVdLAogICAgICAgICAgICAgICBleWVfZmFsc2lmaWFibGU9Ym9vbChleWVfZmFsc2lmaWFibGUpLCBleWVfb249ZmxvYXQob25fdCksIGV5ZV9vZmY9ZmxvYXQob2ZmX3QpLAogICAgICAgICAgICAgICBoYW5kX2ZhbHNpZmlhYmxlPWJvb2woaGFuZF9mYWxzaWZpYWJsZSksIGhhbmRfb25fcmVhZGJhY2s9W2ludCh2KSBmb3IgdiBpbiBoMV0sCiAgICAgICAgICAgICAgIGhhbmRfb2ZmX3JlYWRiYWNrPVtpbnQodikgZm9yIHYgaW4gaDJdLAogICAgICAgICAgICAgICBoYW5kX25vZGU9aGFuZF9vbi5ub2RlLCBuX2dyYWI9aW50KGV5ZS5uX2dyYWIpLCBzZWNzPWZsb2F0KGR0KSkKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oT1VULCAicmVzdWx0MTEzLmpzb24iKSwgInciKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChvdXQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludChqc29uLmR1bXBzKHtrOiAocm91bmQodlsiYWNjIl0sIDQpLCByb3VuZCh2WyJtZWFuX2Rpc3QiXSwgMSkpIGZvciBrLCB2IGluIHJlcy5pdGVtcygpfSwKICAgICAgICAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCiAgICBwcmludChmIltkb25lXSB7ZHQ6LjFmfXMgIGdyYWJzPXtleWUubl9ncmFifSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+# -*- coding: utf-8 -*-
+"""
+113 · 在真实 I/O 上学会往哪看
+================================================================
+补上 102 欠下的对照:  ε 退火 + 更细网格 + 训练步数加够,
+看"学出来的显著性"能不能追上"预置的显著性"。
+并且这次眼和手都是真的:
+
+  眼  /dev/fb0  真实设备读像素 (grab 一整帧, provenance REAL)
+  手  /dev/uinput 内核注册 HID, 位移由【内核 event 读回值】驱动
+      ——手断了 -> 读回 0 事件 -> 视窗不动 -> 任务必然失败 (天然阴性对照)
+
+预注册:
+  H1  世界A: learned 与 preset 的识别率差 <= 0.15 (学得够久应能追上)
+  H2  迁移到世界B(目标分布反转): preset 大跌, learned 跌幅显著更小
+  H3  效应器: 断手 -> 内核读回 rel 恒为 0 (可证伪, 不是自证)
+  H4  眼: 目标区 vs 空白区的边缘密度必须能同时产生真和假 (不饱和)
+"""
+import os, sys, time, json, struct, select, fcntl, errno
+import numpy as np
+
+sys.path.insert(0, "/data/workspace/luoshen-o1")
+from eo_io.real_backends import RealHIDEffector, INPUT_EVENT_SIZE, INPUT_EVENT_STRUCT, EV_REL, REL_X, REL_Y
+from core.life5 import Life5
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+W, H, BPP = 1024, 768, 32
+NB = W * H * BPP // 8
+GW, GH = 8, 6                    # 网格 8x6 = 48 个注视位
+CELL_W, CELL_H = W // GW, H // GH
+VIEW = 128                       # 视窗边长
+
+rng = np.random.default_rng(20261017)
+
+
+# ===========================================================================
+# 眼: 真实帧缓冲
+# ===========================================================================
+class RealEye:
+    def __init__(self):
+        self.fd = open("/dev/fb0", "r+b")
+        buf = fcntl.ioctl(self.fd.fileno(), 0x4600, bytes(160))
+        x, y = struct.unpack_from("II", buf, 0)
+        bpp = struct.unpack_from("I", buf, 24)[0]
+        self.geo = (x, y, bpp)
+        self.provenance = "REAL" if (x, y, bpp) == (W, H, BPP) else "MISMATCH"
+        self.frame = None
+        self.n_grab = 0
+
+    def render(self, arr_rgba: np.ndarray):
+        """把场景真写到 /dev/fb0 (设备级真实)"""
+        os.lseek(self.fd.fileno(), 0, os.SEEK_SET)
+        n = self.fd.write(arr_rgba.astype(np.uint8).tobytes())
+        return n == NB
+
+    def grab(self):
+        os.lseek(self.fd.fileno(), 0, os.SEEK_SET)
+        d = self.fd.read(NB)
+        if len(d) != NB:                     # 短读不是成功 (判据核 #443)
+            raise OSError(errno.EIO, f"short read {len(d)}/{NB}")
+        self.n_grab += 1
+        self.frame = np.frombuffer(d, dtype=np.uint8).reshape(H, W, 4)
+        return self.frame
+
+    @staticmethod
+    def measure(win: np.ndarray) -> float:
+        """对真实像素做真实测量: 边缘密度 (0~1)"""
+        g = win[:, :, 0].astype(np.float32) / 255.0
+        e = np.abs(np.diff(g, axis=0)).mean() + np.abs(np.diff(g, axis=1)).mean()
+        return float(e)
+
+    def look(self, cx: int, cy: int) -> float:
+        """从真实抓到的帧里取视窗 —— 像素是真设备字节, 选择位置是眼的位置"""
+        x0 = int(np.clip(cx - VIEW // 2, 0, W - VIEW))
+        y0 = int(np.clip(cy - VIEW // 2, 0, H - VIEW))
+        self.last_pos = (x0 + VIEW // 2, y0 + VIEW // 2)
+        return self.measure(self.frame[y0:y0 + VIEW, x0:x0 + VIEW])
+
+
+# ===========================================================================
+# 手: 真实 uinput + 内核读回
+# ===========================================================================
+class RealHand:
+    def __init__(self, enabled=True):
+        self.enabled = enabled
+        self.provenance = "UNAVAILABLE"
+        self.err = None
+        self.eff = RealHIDEffector(name="luoshen-eo-look", dry_run=not enabled)
+        self.node = self.eff.sysnode
+        self.rfd = None
+        self.rel_sum = 0
+        self.zero_reads = 0
+        if self.eff.provenance == "REAL" and enabled and self.node:
+            try:
+                self.rfd = os.open(self.node, os.O_RDONLY | os.O_NONBLOCK)
+                os.set_blocking(self.rfd, False)
+                self.provenance = "REAL"
+            except OSError as e:
+                self.err = f"{errno.errorcode.get(e.errno, e.errno)}"
+        elif not enabled:
+            self.provenance = "DISABLED"
+
+    def readback(self, timeout=0.03):
+        """内核承认收到了多少位移 —— 空是合法的'没动'"""
+        if self.rfd is None:
+            return (0, 0)
+        dx = dy = 0
+        try:
+            r, _, _ = select.select([self.rfd], [], [], timeout)
+            if not r:
+                return (0, 0)
+            raw = os.read(self.rfd, INPUT_EVENT_SIZE * 64)
+        except OSError as e:
+            if e.errno in (errno.EAGAIN, errno.EWOULDBLOCK):
+                return (0, 0)
+            self.err = f"{errno.errorcode.get(e.errno, e.errno)}"
+            return (0, 0)
+        n = len(raw) // INPUT_EVENT_SIZE
+        for i in range(n):
+            _, _, typ, code, val = struct.unpack_from(INPUT_EVENT_STRUCT, raw, i * INPUT_EVENT_SIZE)
+            if typ == EV_REL and code == REL_X:
+                dx += val
+            elif typ == EV_REL and code == REL_Y:
+                dy += val
+        return (dx, dy)
+
+    def move(self, dx, dy):
+        if not self.enabled:
+            return (0, 0)
+        self.eff.move(int(dx), int(dy))
+        d = self.readback()
+        self.rel_sum += abs(d[0]) + abs(d[1])
+        if d == (0, 0):
+            self.zero_reads += 1
+        return d
+
+    def destroy(self):
+        if self.rfd is not None:
+            os.close(self.rfd)
+        self.eff.destroy()
+
+
+# ===========================================================================
+# 世界
+# ===========================================================================
+def cell_center(i):
+    gx, gy = i % GW, i // GW
+    return (gx * CELL_W + CELL_W // 2, gy * CELL_H + CELL_H // 2)
+
+
+def make_scene(target_xy, distractors, seed):
+    r = np.random.default_rng(seed)
+    a = np.zeros((H, W, 4), dtype=np.uint8)
+    # 判据核 #462: 背景曾是每个像素独立随机的噪点 —— 它自己的边缘密度 0.031
+    # 就淹没了目标(0.037), 通道饱和到 1.19 倍, 判据产生不了假。
+    # 改成平滑渐变: 背景自身边缘 ~0, 边缘只来自物体。
+    gy = np.linspace(0, 10, H).astype(np.float32)[:, None]
+    gx = np.linspace(0, 10, W).astype(np.float32)[None, :]
+    bg = (26 + gy + gx).astype(np.uint8)
+    a[:, :, 0] = a[:, :, 1] = a[:, :, 2] = bg
+    a[:, :, 3] = 255
+    # 干扰块: 中等对比
+    for (dx, dy) in distractors:
+        rr = int(r.integers(18, 30))
+        yy, xx = np.ogrid[-rr:rr, -rr:rr]
+        m = (xx * xx + yy * yy) <= rr * rr
+        y0, x0 = max(dy - rr, 0), max(dx - rr, 0)
+        sl = a[y0:y0 + 2 * rr, x0:x0 + 2 * rr, 0]
+        mm = m[:sl.shape[0], :sl.shape[1]]
+        sl[mm] = 95
+        a[y0:y0 + 2 * rr, x0:x0 + 2 * rr, 1][mm] = 95
+        a[y0:y0 + 2 * rr, x0:x0 + 2 * rr, 2][mm] = 95
+    # 目标: 高对比六边形
+    tx, ty = target_xy
+    rr = 34
+    yy, xx = np.ogrid[-rr:rr, -rr:rr]
+    m = (xx * xx + yy * yy) <= rr * rr
+    y0, x0 = max(ty - rr, 0), max(tx - rr, 0)
+    for c in range(3):
+        sl = a[y0:y0 + 2 * rr, x0:x0 + 2 * rr, c]
+        mm = m[:sl.shape[0], :sl.shape[1]]
+        sl[mm] = 235
+    return a
+
+
+# ===========================================================================
+# 主体
+# ===========================================================================
+def run_agent(kind, world, n_trial, n_step, eye, hand, Q=None, sal=None, eps=0.0, train=True):
+    HA = range(GW // 2, GW)                 # 世界A: 目标在右半
+    HB = range(0, GW // 2)                  # 世界B: 目标在左半
+    cols = HA if world == "A" else HB
+    cells_pool = [gy * GW + gx for gy in range(GH) for gx in cols]
+    distractors = [(int(x), int(y)) for x, y in
+                   zip(rng.integers(60, W - 60, 7), rng.integers(60, H - 60, 7))]
+    hits, dists, traj, mind = 0, [], [], []
+    for k in range(n_trial):
+        scene_seed = 9000 + k + (0 if world == "A" else 5000)
+        tgt_cell = int(cells_pool[rng.integers(0, len(cells_pool))])
+        tx, ty = cell_center(tgt_cell)
+        # 目标在格内随机抖动, 避免"记住格心"这种作弊
+        tx += int(rng.integers(-CELL_W // 2 + 40, CELL_W // 2 - 40))
+        ty += int(rng.integers(-CELL_H // 2 + 30, CELL_H // 2 - 30))
+        eye.render(make_scene((tx, ty), distractors, scene_seed))
+        eye.grab()                            # 先上屏再感知 (112 的教训)
+        cur = int(rng.integers(0, GW * GH))
+        cx, cy = cell_center(cur)
+        gain_sum = 0.0
+        step_d = []
+        for st in range(n_step):
+            if kind == "static":
+                nxt = cur
+            elif kind == "blind":
+                nxt = int(rng.integers(0, GW * GH))
+            elif kind == "preset":
+                order = np.argsort(-sal)
+                nxt = int(next((c for c in order if c not in traj[-8:]), order[0]))
+            else:  # learned
+                recent = set(t for t in traj[-8:] if t >= 0)
+                if train and rng.random() < eps:
+                    nxt = int(rng.integers(0, GW * GH))
+                else:
+                    q = Q[cur].copy()
+                    for c in recent:                     # 与 preset 同一套"不重看"机制
+                        q[c] = -1e9
+                    nxt = int(np.argmax(q))
+            ncx, ncy = cell_center(nxt)
+            dx, dy = ncx - cx, ncy - cy
+            kd = hand.move(dx, dy) if (dx or dy) else (0, 0)
+            # 视窗只按内核承认收到的位移走 —— 手断了读回 0, 就停在原地
+            if kd != (0, 0):
+                cx += kd[0]
+                cy += kd[1]
+            cx = int(np.clip(cx, VIEW // 2, W - VIEW // 2))
+            cy = int(np.clip(cy, VIEW // 2, H - VIEW // 2))
+            m = eye.look(cx, cy)
+            gain_sum += m
+            dnow = float(np.hypot(cx - tx, cy - ty))
+            step_d.append(dnow)
+            if train and kind == "learned":
+                r = float(m)
+                Q[cur, nxt] = Q[cur, nxt] + 0.35 * (r + 0.55 * float(np.max(Q[nxt])) - Q[cur, nxt])
+            cur = nxt
+            traj.append(cur)
+        d = float(np.hypot(cx - tx, cy - ty))
+        dmin = float(min(step_d)) if step_d else d
+        dists.append(d)
+        mind.append(dmin)
+        traj.append(-1)
+        if dmin <= 64.0:                 # 过程中是否曾把目标纳入视窗
+            hits += 1
+    return dict(kind=kind, world=world, acc=hits / n_trial,
+                mean_dist=float(np.mean(dists)),
+                mean_mind=float(np.mean(mind)), n=n_trial,
+                traj_feat=gain_sum / max(n_trial, 1))
+
+
+def main():
+    t0 = time.time()
+    eye = RealEye()
+    print(f"[eye] geo={eye.geo} provenance={eye.provenance}")
+
+    # ---------- H4: 眼的可证伪性 (不饱和) ----------
+    eye.render(make_scene((800, 400), [(200, 200)], 1))
+    eye.grab()
+    on_t = eye.look(800, 400)
+    off_t = eye.look(120, 640)
+    eye_falsifiable = (on_t > off_t * 1.5) and off_t > 0
+
+    # ---------- H3: 手的可证伪性 ----------
+    hand_on = RealHand(enabled=True)
+    h1 = hand_on.move(30, -20)
+    hand_off = RealHand(enabled=False)
+    h2 = hand_off.move(30, -20)
+    hand_falsifiable = (hand_on.provenance == "REAL" and abs(h1[0]) > 0
+                        and h2 == (0, 0))
+    print(f"[hand] on={hand_on.provenance} readback={h1} | off={hand_off.provenance} readback={h2}")
+
+    # 预置显著性 = 世界A 的真实目标分布 (右半=1.0, 左半=0.1)
+    sal = np.array([1.0 if (i % GW) >= GW // 2 else 0.1 for i in range(GW * GH)])
+    # 假引导对照: 同样的对比度, 但打乱
+    sal_scr = sal.copy()
+    rng.shuffle(sal_scr)
+
+    NSTEP = 12
+    NTRAIN, NEVAL = 800, 80
+    res = {}
+
+    # ---------- 训练 learned (ε 退火, 训练量加够) ----------
+    Q = np.zeros((GW * GH, GW * GH)) + 0.01
+    eps0, eps1, decay = 1.0, 0.05, 0.995
+    eps = eps0
+    train_curve, train_acc = [], []
+    for ep in range(NTRAIN):
+        r = run_agent("learned", "A", 1, NSTEP, eye, hand_on, Q=Q, eps=eps, train=True)
+        train_curve.append(r["mean_mind"])
+        train_acc.append(r["acc"])
+        eps = max(eps1, eps * decay)
+        if ep % 100 == 0:
+            print(f"  [train {ep:4d}] eps={eps:.3f} mindist={np.mean(train_curve[-50:]):.0f} "
+                  f"acc={np.mean(train_acc[-50:]):.2f}")
+    print(f"[train] eps {eps0}->{eps:.3f}  mindist {np.mean(train_curve[:50]):.0f} "
+          f"-> {np.mean(train_curve[-50:]):.0f}")
+    Q_A = Q.copy()
+
+    # ---------- 世界A ----------
+    for kind in ["preset", "learned", "blind", "static", "scrambled"]:
+        kw = dict(kind=("preset" if kind == "scrambled" else kind),
+                  world="A", n_trial=NEVAL, n_step=NSTEP, eye=eye, hand=hand_on)
+        if kind == "learned":
+            kw.update(Q=Q, train=False)
+        elif kind == "scrambled":
+            kw.update(sal=sal_scr)
+        elif kind == "preset":
+            kw.update(sal=sal)
+        res[f"A:{kind}"] = run_agent(**kw)
+
+    # ---------- 世界B: 目标分布反转 ----------
+    kw = dict(world="B", n_trial=NEVAL, n_step=NSTEP, eye=eye, hand=hand_on)
+    res["B:preset"] = run_agent(kind="preset", sal=sal, **kw)          # 仍抱着 A 的旧图
+    res["B:learned_frozen"] = run_agent(kind="learned", Q=Q_A, train=False, **kw)
+    for b in ["blind", "static"]:
+        res[f"B:{b}"] = run_agent(kind=b, **kw)
+
+    # ---------- B: 重训 (迁移的真正检验 —— 能不能重新学) ----------
+    Q_B = Q_A.copy()
+    eps = 0.30
+    for ep in range(200):
+        run_agent("learned", "B", 1, NSTEP, eye, hand_on, Q=Q_B, eps=eps, train=True)
+        eps = max(0.05, eps * 0.99)
+    res["B:learned_retrain"] = run_agent(kind="learned", world="B", n_trial=NEVAL,
+                                         n_step=NSTEP, eye=eye, hand=hand_on,
+                                         Q=Q_B, train=False)
+
+    hand_on.destroy()
+    hand_off.destroy()
+
+    dt = time.time() - t0
+    out = dict(res=res, train_curve=[float(v) for v in train_curve],
+               eye_falsifiable=bool(eye_falsifiable), eye_on=float(on_t), eye_off=float(off_t),
+               hand_falsifiable=bool(hand_falsifiable), hand_on_readback=[int(v) for v in h1],
+               hand_off_readback=[int(v) for v in h2],
+               hand_node=hand_on.node, n_grab=int(eye.n_grab), secs=float(dt))
+    with open(os.path.join(OUT, "result113.json"), "w") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print(json.dumps({k: (round(v["acc"], 4), round(v["mean_dist"], 1)) for k, v in res.items()},
+                     ensure_ascii=False, indent=2))
+    print(f"[done] {dt:.1f}s  grabs={eye.n_grab}")
+
+
+if __name__ == "__main__":
+    main()

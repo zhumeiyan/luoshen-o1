@@ -1,1 +1,132 @@
-IiIiYHN3ZWJlbmNoIGV2YWxgIGFuZCBgc3dlYmVuY2ggcmVwb3J0YC4iIiIKCmZyb20gdHlwaW5nIGltcG9ydCBPcHRpb25hbAoKaW1wb3J0IHR5cGVyCgpmcm9tIHN3ZWJlbmNoLmNsaS5fZGF0YXNldHMgaW1wb3J0IGFsaWFzX2hlbHAsIHJlc29sdmVfZGF0YXNldAoKREFUQVNFVF9BUkcgPSB0eXBlci5Bcmd1bWVudCgKICAgIC4uLiwKICAgIG1ldGF2YXI9IkRBVEFTRVQiLAogICAgaGVscD1mIkRhdGFzZXQgYWxpYXMsIEh1Z2dpbmdGYWNlIGlkLCBvciBsb2NhbCBwYXRoLiBBbGlhc2VzOiB7YWxpYXNfaGVscCgpfSIsCikKCgpkZWYgZXZhbF9jb21tYW5kKAogICAgZGF0YXNldDogc3RyID0gREFUQVNFVF9BUkcsCiAgICBnb2xkOiBib29sID0gdHlwZXIuT3B0aW9uKEZhbHNlLCAiLS1nb2xkIiwgaGVscD0iRXZhbHVhdGUgdGhlIHJlZmVyZW5jZSBwYXRjaGVzIiksCiAgICBwcmVkaWN0aW9uczogT3B0aW9uYWxbc3RyXSA9IHR5cGVyLk9wdGlvbigKICAgICAgICBOb25lLCAiLXAiLCAiLS1wcmVkaWN0aW9ucyIsIGhlbHA9IlBhdGggdG8gYSBwcmVkaWN0aW9ucyAuanNvbi8uanNvbmwiCiAgICApLAogICAgcnVuX2lkOiBzdHIgPSB0eXBlci5PcHRpb24oInJ1biIsICItciIsICItLXJ1bi1pZCIsIGhlbHA9Ik5hbWVzIHRoZSBsb2cgZGlyZWN0b3J5IiksCiAgICBpbnN0YW5jZV9pZHM6IE9wdGlvbmFsW2xpc3Rbc3RyXV0gPSB0eXBlci5PcHRpb24oCiAgICAgICAgTm9uZSwgIi1pIiwgIi0taW5zdGFuY2UiLCBoZWxwPSJMaW1pdCB0byB0aGVzZSBpbnN0YW5jZXMgKHJlcGVhdGFibGUpIgogICAgKSwKICAgIHNwbGl0OiBzdHIgPSB0eXBlci5PcHRpb24oInRlc3QiLCAiLXMiLCAiLS1zcGxpdCIpLAogICAgd29ya2VyczogaW50ID0gdHlwZXIuT3B0aW9uKAogICAgICAgIDQsICItaiIsICItLXdvcmtlcnMiLCBoZWxwPSJJbnN0YW5jZXMgZXZhbHVhdGVkIGluIHBhcmFsbGVsIgogICAgKSwKICAgIHRpbWVvdXQ6IGludCA9IHR5cGVyLk9wdGlvbigxODAwLCAiLXQiLCAiLS10aW1lb3V0IiwgaGVscD0iUGVyLWluc3RhbmNlIHNlY29uZHMiKSwKICAgIHRhc2tfcmVwbzogT3B0aW9uYWxbc3RyXSA9IHR5cGVyLk9wdGlvbigKICAgICAgICBOb25lLAogICAgICAgICItLXRhc2stcmVwbyIsCiAgICAgICAgaGVscD0oCiAgICAgICAgICAgICJCdWlsZCBpbWFnZXMgZnJvbSB0aGlzIHRhc2sgcmVwbyBpbnN0ZWFkIG9mIHRydXN0aW5nIHRoZSByZWdpc3RyeS4gIgogICAgICAgICAgICAiV2l0aG91dCBpdCBpbWFnZXMgYXJlIHB1bGxlZCwgc28gYSBzdGFsZSBwdWJsaXNoZWQgaW1hZ2UgY2FuIG1hc2sgYSBicm9rZW4gIgogICAgICAgICAgICAiYnVpbGQ7IGZhaWxlZCBidWlsZHMgYXJlIHJlcG9ydGVkIGFuZCBvbmx5IGZhbGwgYmFjayB0byBhIHB1Ymxpc2hlZCBpbWFnZSAiCiAgICAgICAgICAgICJ3aGVuIG9uZSBleGlzdHMuIgogICAgICAgICksCiAgICApLAogICAgbW9kYWw6IGJvb2wgPSB0eXBlci5PcHRpb24oCiAgICAgICAgRmFsc2UsICItLW1vZGFsIiwgaGVscD0iUnVuIG9uIE1vZGFsIGluc3RlYWQgb2YgbG9jYWwgRG9ja2VyIgogICAgKSwKICAgIG9wZW5fZmlsZV9saW1pdDogaW50ID0gdHlwZXIuT3B0aW9uKDQwOTYsICItLW9wZW4tZmlsZS1saW1pdCIpLAopOgogICAgIiIiRXZhbHVhdGUgZ29sZCBvciBtb2RlbCBwcmVkaWN0aW9ucyBhZ2FpbnN0IGEgZGF0YXNldC4KCiAgICBbeWVsbG93XVtib2xkXUV4YW1wbGVzOlsvYm9sZF1bL3llbGxvd10KCiAgICAgICAgc3dlYmVuY2ggZXZhbCB2ZXJpZmllZCAtLWdvbGQKCiAgICAgICAgc3dlYmVuY2ggZXZhbCB2ZXJpZmllZCAtcCBwcmVkcy5qc29ubCAtLXJ1bi1pZCBncHQ1IC1qIDE2CgogICAgICAgIHN3ZWJlbmNoIGV2YWwgbXVsdGltb2RhbCAtLWdvbGQgLWkgY2FyYm9uLWRlc2lnbi1zeXN0ZW1fX2NhcmJvbi0xMDE4OAoKICAgICAgICBzd2ViZW5jaCBldmFsIGZ1bGwgLS1nb2xkIC0tbW9kYWwKICAgICIiIgogICAgaWYgZ29sZCBhbmQgcHJlZGljdGlvbnM6CiAgICAgICAgcmFpc2UgdHlwZXIuQmFkUGFyYW1ldGVyKCJwYXNzIGVpdGhlciAtLWdvbGQgb3IgLS1wcmVkaWN0aW9ucywgbm90IGJvdGgiKQogICAgaWYgbm90IGdvbGQgYW5kIG5vdCBwcmVkaWN0aW9uczoKICAgICAgICByYWlzZSB0eXBlci5CYWRQYXJhbWV0ZXIoInBhc3MgLS1nb2xkIG9yIC0tcHJlZGljdGlvbnMgPHBhdGg+IikKCiAgICBmcm9tIHN3ZWJlbmNoLmhhcm5lc3MucnVuX2V2YWx1YXRpb24gaW1wb3J0IG1haW4gYXMgcnVuX2V2YWx1YXRpb24KCiAgICBydW5fZXZhbHVhdGlvbigKICAgICAgICBkYXRhc2V0X25hbWU9cmVzb2x2ZV9kYXRhc2V0KGRhdGFzZXQpLAogICAgICAgIHNwbGl0PXNwbGl0LAogICAgICAgIGluc3RhbmNlX2lkcz1saXN0KGluc3RhbmNlX2lkcykgaWYgaW5zdGFuY2VfaWRzIGVsc2UgTm9uZSwKICAgICAgICBwcmVkaWN0aW9uc19wYXRoPSJnb2xkIiBpZiBnb2xkIGVsc2UgcHJlZGljdGlvbnMsCiAgICAgICAgbWF4X3dvcmtlcnM9d29ya2VycywKICAgICAgICBvcGVuX2ZpbGVfbGltaXQ9b3Blbl9maWxlX2xpbWl0LAogICAgICAgIHJ1bl9pZD1ydW5faWQsCiAgICAgICAgdGltZW91dD10aW1lb3V0LAogICAgICAgIHJld3JpdGVfcmVwb3J0cz1GYWxzZSwKICAgICAgICBtb2RhbD1tb2RhbCwKICAgICAgICB0YXNrX3JlcG89dGFza19yZXBvLAogICAgKQoKCmRlZiByZXBvcnRfY29tbWFuZCgKICAgIHJ1bl9pZDogc3RyID0gdHlwZXIuQXJndW1lbnQoLi4uLCBoZWxwPSJSdW4gaWQgdG8gcmUtZ3JhZGUiKSwKICAgIGRhdGFzZXQ6IE9wdGlvbmFsW3N0cl0gPSB0eXBlci5PcHRpb24oCiAgICAgICAgTm9uZSwKICAgICAgICAiLWQiLAogICAgICAgICItLWRhdGFzZXQiLAogICAgICAgIGhlbHA9IkRhdGFzZXQgdGhlIHJ1biB1c2VkOyB0YWtlbiBmcm9tIHRoZSBydW4gaWYgb21pdHRlZCIsCiAgICApLAogICAgc3BsaXQ6IE9wdGlvbmFsW3N0cl0gPSB0eXBlci5PcHRpb24oTm9uZSwgIi1zIiwgIi0tc3BsaXQiKSwKICAgIGluc3RhbmNlX2lkczogT3B0aW9uYWxbbGlzdFtzdHJdXSA9IHR5cGVyLk9wdGlvbihOb25lLCAiLWkiLCAiLS1pbnN0YW5jZSIpLAopOgogICAgIiIiUmUtZ3JhZGUgYSBmaW5pc2hlZCBydW4gZnJvbSBpdHMgc2F2ZWQgbG9ncywgd2l0aG91dCBzdGFydGluZyBjb250YWluZXJzLgoKICAgIFVzZWZ1bCBhZnRlciBhIGxvZy1wYXJzZXIgZml4OiB0aGUgdGVzdCBvdXRwdXQgaXMgYWxyZWFkeSBvbiBkaXNrLCBzbyB0aGUKICAgIHZlcmRpY3RzIGNhbiBiZSByZWNvbXB1dGVkIGluIHNlY29uZHMuCgogICAgW3llbGxvd11bYm9sZF1FeGFtcGxlczpbL2JvbGRdWy95ZWxsb3ddCgogICAgICAgIHN3ZWJlbmNoIHJlcG9ydCBteS1ydW4gLWQgdmVyaWZpZWQKCiAgICAgICAgc3dlYmVuY2ggcmVwb3J0IG15LXJ1biAtZCBtdWx0aW1vZGFsIC1pIGdyb21tZXRfX2dyb21tZXQtNjI4MgogICAgIiIiCiAgICBmcm9tIHN3ZWJlbmNoLmhhcm5lc3MucnVuX2V2YWx1YXRpb24gaW1wb3J0IG1haW4gYXMgcnVuX2V2YWx1YXRpb24KICAgIGZyb20gc3dlYmVuY2guaGFybmVzcy5ydW5fZXZhbHVhdGlvbiBpbXBvcnQgcmVhZF9ydW5fbWV0YWRhdGEKCiAgICByZWNvcmRlZCA9IHJlYWRfcnVuX21ldGFkYXRhKHJ1bl9pZCkgb3Ige30KICAgIGlmIGRhdGFzZXQgaXMgTm9uZToKICAgICAgICBpZiBub3QgcmVjb3JkZWQuZ2V0KCJkYXRhc2V0Iik6CiAgICAgICAgICAgIHR5cGVyLmVjaG8oCiAgICAgICAgICAgICAgICBmIlJ1biB7cnVuX2lkIXJ9IGRpZCBub3QgcmVjb3JkIHdoaWNoIGRhdGFzZXQgaXQgdXNlZCwgc28gcGFzcyAtZC4gIgogICAgICAgICAgICAgICAgIlJ1bnMgbWFkZSBiZWZvcmUgdGhpcyB3YXMgYWRkZWQgaGF2ZSBubyByZWNvcmQgb2YgaXQuIiwKICAgICAgICAgICAgICAgIGVycj1UcnVlLAogICAgICAgICAgICApCiAgICAgICAgICAgIHJhaXNlIHR5cGVyLkV4aXQoMSkKICAgICAgICBkYXRhc2V0ID0gcmVjb3JkZWRbImRhdGFzZXQiXQogICAgaWYgc3BsaXQgaXMgTm9uZToKICAgICAgICBzcGxpdCA9IHJlY29yZGVkLmdldCgic3BsaXQiLCAidGVzdCIpCgogICAgcnVuX2V2YWx1YXRpb24oCiAgICAgICAgZGF0YXNldF9uYW1lPXJlc29sdmVfZGF0YXNldChkYXRhc2V0KSwKICAgICAgICBzcGxpdD1zcGxpdCwKICAgICAgICBpbnN0YW5jZV9pZHM9bGlzdChpbnN0YW5jZV9pZHMpIGlmIGluc3RhbmNlX2lkcyBlbHNlIE5vbmUsCiAgICAgICAgcHJlZGljdGlvbnNfcGF0aD0iZ29sZCIsCiAgICAgICAgbWF4X3dvcmtlcnM9MSwKICAgICAgICBvcGVuX2ZpbGVfbGltaXQ9NDA5NiwKICAgICAgICBydW5faWQ9cnVuX2lkLAogICAgICAgIHRpbWVvdXQ9MTgwMCwKICAgICAgICByZXdyaXRlX3JlcG9ydHM9VHJ1ZSwKICAgICAgICBtb2RhbD1GYWxzZSwKICAgICAgICAjIGEgcnVuIG1hZGUgYWdhaW5zdCBhIHRhc2sgcmVwbyBoYXMgdG8gYmUgcmUtZ3JhZGVkIGFnYWluc3QgdGhlIHNhbWUgdGVzdHMsCiAgICAgICAgIyBvciB0aGUgZGF0YXNldCdzIGNvcHkgc2lsZW50bHkgb3ZlcnJpZGVzIHRoZW0gYW5kIHRoZSB2ZXJkaWN0IGNoYW5nZXMKICAgICAgICB0YXNrX3JlcG89cmVjb3JkZWQuZ2V0KCJ0YXNrX3JlcG8iKSwKICAgICkK
+"""`swebench eval` and `swebench report`."""
+
+from typing import Optional
+
+import typer
+
+from swebench.cli._datasets import alias_help, resolve_dataset
+
+DATASET_ARG = typer.Argument(
+    ...,
+    metavar="DATASET",
+    help=f"Dataset alias, HuggingFace id, or local path. Aliases: {alias_help()}",
+)
+
+
+def eval_command(
+    dataset: str = DATASET_ARG,
+    gold: bool = typer.Option(False, "--gold", help="Evaluate the reference patches"),
+    predictions: Optional[str] = typer.Option(
+        None, "-p", "--predictions", help="Path to a predictions .json/.jsonl"
+    ),
+    run_id: str = typer.Option("run", "-r", "--run-id", help="Names the log directory"),
+    instance_ids: Optional[list[str]] = typer.Option(
+        None, "-i", "--instance", help="Limit to these instances (repeatable)"
+    ),
+    split: str = typer.Option("test", "-s", "--split"),
+    workers: int = typer.Option(
+        4, "-j", "--workers", help="Instances evaluated in parallel"
+    ),
+    timeout: int = typer.Option(1800, "-t", "--timeout", help="Per-instance seconds"),
+    task_repo: Optional[str] = typer.Option(
+        None,
+        "--task-repo",
+        help=(
+            "Build images from this task repo instead of trusting the registry. "
+            "Without it images are pulled, so a stale published image can mask a broken "
+            "build; failed builds are reported and only fall back to a published image "
+            "when one exists."
+        ),
+    ),
+    modal: bool = typer.Option(
+        False, "--modal", help="Run on Modal instead of local Docker"
+    ),
+    open_file_limit: int = typer.Option(4096, "--open-file-limit"),
+):
+    """Evaluate gold or model predictions against a dataset.
+
+    [yellow][bold]Examples:[/bold][/yellow]
+
+        swebench eval verified --gold
+
+        swebench eval verified -p preds.jsonl --run-id gpt5 -j 16
+
+        swebench eval multimodal --gold -i carbon-design-system__carbon-10188
+
+        swebench eval full --gold --modal
+    """
+    if gold and predictions:
+        raise typer.BadParameter("pass either --gold or --predictions, not both")
+    if not gold and not predictions:
+        raise typer.BadParameter("pass --gold or --predictions <path>")
+
+    from swebench.harness.run_evaluation import main as run_evaluation
+
+    run_evaluation(
+        dataset_name=resolve_dataset(dataset),
+        split=split,
+        instance_ids=list(instance_ids) if instance_ids else None,
+        predictions_path="gold" if gold else predictions,
+        max_workers=workers,
+        open_file_limit=open_file_limit,
+        run_id=run_id,
+        timeout=timeout,
+        rewrite_reports=False,
+        modal=modal,
+        task_repo=task_repo,
+    )
+
+
+def report_command(
+    run_id: str = typer.Argument(..., help="Run id to re-grade"),
+    dataset: Optional[str] = typer.Option(
+        None,
+        "-d",
+        "--dataset",
+        help="Dataset the run used; taken from the run if omitted",
+    ),
+    split: Optional[str] = typer.Option(None, "-s", "--split"),
+    instance_ids: Optional[list[str]] = typer.Option(None, "-i", "--instance"),
+):
+    """Re-grade a finished run from its saved logs, without starting containers.
+
+    Useful after a log-parser fix: the test output is already on disk, so the
+    verdicts can be recomputed in seconds.
+
+    [yellow][bold]Examples:[/bold][/yellow]
+
+        swebench report my-run -d verified
+
+        swebench report my-run -d multimodal -i grommet__grommet-6282
+    """
+    from swebench.harness.run_evaluation import main as run_evaluation
+    from swebench.harness.run_evaluation import read_run_metadata
+
+    recorded = read_run_metadata(run_id) or {}
+    if dataset is None:
+        if not recorded.get("dataset"):
+            typer.echo(
+                f"Run {run_id!r} did not record which dataset it used, so pass -d. "
+                "Runs made before this was added have no record of it.",
+                err=True,
+            )
+            raise typer.Exit(1)
+        dataset = recorded["dataset"]
+    if split is None:
+        split = recorded.get("split", "test")
+
+    run_evaluation(
+        dataset_name=resolve_dataset(dataset),
+        split=split,
+        instance_ids=list(instance_ids) if instance_ids else None,
+        predictions_path="gold",
+        max_workers=1,
+        open_file_limit=4096,
+        run_id=run_id,
+        timeout=1800,
+        rewrite_reports=True,
+        modal=False,
+        # a run made against a task repo has to be re-graded against the same tests,
+        # or the dataset's copy silently overrides them and the verdict changes
+        task_repo=recorded.get("task_repo"),
+    )

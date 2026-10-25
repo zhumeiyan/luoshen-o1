@@ -1,1 +1,30 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5pe25Y+Y5LiW55WM5Li65LuA5LmI5YWo54Gt77yac2hpZnRfbWFnIOWkquWkpyAtPiDnga3nu50gLT4g5peg5qC35pys77yIMTAxIOaVmeiure+8muWPluagt+WMuumXtOimgeWvue+8iSIiIgppbXBvcnQgcmFuZG9tLCBzdGF0aXN0aWNzLCBzeXMKc3lzLnBhdGguaW5zZXJ0KDAsICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjFfc2V4IikKZnJvbSB2MiBpbXBvcnQgSW5kLCBFbnYsIFJlcHJvU3lzdGVtCgpMLCBLLCBHRU5TLCBOMCwgTVUgPSA4LCAzMCwgNjAsIDIwLCAwLjEyCgpkZWYgcnVuKG1vZGUsIHNlZWQsIG1hZywgZXZlcnkpOgogICAgcm5nID0gcmFuZG9tLlJhbmRvbShzZWVkKQogICAgZW52ID0gRW52KFtbMC41XSpMXSwgcm5nPXJuZywgc2hpZnRfZXZlcnk9ZXZlcnksIHNoaWZ0X21hZz1tYWcpCiAgICBycyA9IFJlcHJvU3lzdGVtKGVudiwgcm5nLCBtdT1NVSwgbW9kZT1tb2RlKQogICAgcG9wID0gW0luZChmInN7aX0iLCBbcm5nLnJhbmRvbSgpIGZvciBfIGluIHJhbmdlKEwpXSwKICAgICAgICAgICAgICAgcm5nLmNob2ljZShbIk0iLCJGIl0pIGlmIG1vZGUhPSJhc2V4dWFsIiBlbHNlICJOIiwgWyJnIl0sIDIwLjApCiAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTjApXQogICAgZm9yIHQgaW4gcmFuZ2UoR0VOUyk6CiAgICAgICAgZW52LnRpY2soKQogICAgICAgIHBvcCA9IHJzLnN0ZXAocG9wLCBLKQogICAgICAgIGlmIG5vdCBwb3A6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICByZXR1cm4gc3RhdGlzdGljcy5tZWFuKGVudi5ldmFsdWF0ZShwKSBmb3IgcCBpbiBwb3ApCgpwcmludChmInsnbWFnJzo+Nn17J2FzZXh1YWwnOj4yMn17J3NleHVhbF9mcmVlJzo+MjJ9eydzZXh1YWxfY29zdCc6PjIyfSIpCmZvciBtYWcgaW4gWzAuMCwgMC4wMiwgMC4wNSwgMC4wOCwgMC4xMiwgMC4xOCwgMC4yOF06CiAgICByb3cgPSBbXQogICAgZm9yIG1vZGUgaW4gWyJhc2V4dWFsIiwgInNleHVhbF9mcmVlIiwgInNleHVhbF9jb3N0Il06CiAgICAgICAgdmFscyA9IFtydW4obW9kZSwgcywgbWFnLCAxMCkgZm9yIHMgaW4gcmFuZ2UoOCldCiAgICAgICAgb2sgPSBbdiBmb3IgdiBpbiB2YWxzIGlmIHYgaXMgbm90IE5vbmVdCiAgICAgICAgcm93LmFwcGVuZChmIntzdGF0aXN0aWNzLm1lYW4ob2spOi40Zn0gKHtsZW4ob2spfS84KSIgaWYgb2sgZWxzZSAiQUxMIEVYVElOQ1QiKQogICAgcHJpbnQoZiJ7bWFnOj42LjJmfXtyb3dbMF06PjIyfXtyb3dbMV06PjIyfXtyb3dbMl06PjIyfSIpCg==
+# -*- coding: utf-8 -*-
+"""时变世界为什么全灭：shift_mag 太大 -> 灭绝 -> 无样本（101 教训：取样区间要对）"""
+import random, statistics, sys
+sys.path.insert(0, "/data/workspace/luoshen-o1/experiments/exp121_sex")
+from v2 import Ind, Env, ReproSystem
+
+L, K, GENS, N0, MU = 8, 30, 60, 20, 0.12
+
+def run(mode, seed, mag, every):
+    rng = random.Random(seed)
+    env = Env([[0.5]*L], rng=rng, shift_every=every, shift_mag=mag)
+    rs = ReproSystem(env, rng, mu=MU, mode=mode)
+    pop = [Ind(f"s{i}", [rng.random() for _ in range(L)],
+               rng.choice(["M","F"]) if mode!="asexual" else "N", ["g"], 20.0)
+           for i in range(N0)]
+    for t in range(GENS):
+        env.tick()
+        pop = rs.step(pop, K)
+        if not pop:
+            return None
+    return statistics.mean(env.evaluate(p) for p in pop)
+
+print(f"{'mag':>6}{'asexual':>22}{'sexual_free':>22}{'sexual_cost':>22}")
+for mag in [0.0, 0.02, 0.05, 0.08, 0.12, 0.18, 0.28]:
+    row = []
+    for mode in ["asexual", "sexual_free", "sexual_cost"]:
+        vals = [run(mode, s, mag, 10) for s in range(8)]
+        ok = [v for v in vals if v is not None]
+        row.append(f"{statistics.mean(ok):.4f} ({len(ok)}/8)" if ok else "ALL EXTINCT")
+    print(f"{mag:>6.2f}{row[0]:>22}{row[1]:>22}{row[2]:>22}")

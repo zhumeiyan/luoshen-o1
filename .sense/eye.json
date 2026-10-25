@@ -1,1 +1,32 @@
-ewogIkUxIjogewogICJBIOWFs+mUruacn+acieWFiSI6IDAuOTk3OTAwNzQ0ODk4ODQ0MSwKICAiQiDlhbPplK7mnJ/nvJ3lkIgiOiAwLjAwMTA3MzY2NTg3MzU0MTUzNzIsCiAgIkMg5YWz6ZSu5pyf5ZCO5omN6KeB5YWJIjogMC4wMDEwNzM2NjU4NzM1NDE1MzcyCiB9LAogIkUyIjogewogICJ1bmlmb3JtK+S4jeWKqCI6IDAuMCwKICAidW5pZm9ybSvnnLzliqgiOiAwLjEyNSwKICAiZm92ZWEr5LiN5YqoIjogMC4wLAogICJmb3ZlYSvnnLzliqgiOiAwLjU4MzMzMzMzMzMzMzMzMzQKIH0sCiAiRTMiOiB7CiAgImFjYyI6IDAuMTMzMzMzMzMzMzMzMzMzMzMsCiAgImN1cnZlIjogWwogICAwLjA1LAogICAwLjEyNSwKICAgMC4xLAogICAwLjA4NzUsCiAgIDAuMTIsCiAgIDAuMTMzMzMzMzMzMzMzMzMzMzMKICBdLAogICJjZW50ZXIiOiAzNS41LAogICJjb3JuZXIiOiA1Ljc1LAogICJyYXRpbyI6IDYuMTczOTEzMDQzNDc4MjYxCiB9LAogIm9rIjogewogICLnnYHnnLwiOiB0cnVlLAogICLnnLzliqgiOiB0cnVlLAogICLoh6rlt7Hplb8iOiB0cnVlCiB9Cn0=
+{
+ "E1": {
+  "A 关键期有光": 0.9979007448988441,
+  "B 关键期缝合": 0.0010736658735415372,
+  "C 关键期后才见光": 0.0010736658735415372
+ },
+ "E2": {
+  "uniform+不动": 0.0,
+  "uniform+眼动": 0.125,
+  "fovea+不动": 0.0,
+  "fovea+眼动": 0.5833333333333334
+ },
+ "E3": {
+  "acc": 0.13333333333333333,
+  "curve": [
+   0.05,
+   0.125,
+   0.1,
+   0.0875,
+   0.12,
+   0.13333333333333333
+  ],
+  "center": 35.5,
+  "corner": 5.75,
+  "ratio": 6.173913043478261
+ },
+ "ok": {
+  "睁眼": true,
+  "眼动": true,
+  "自己长": true
+ }
+}

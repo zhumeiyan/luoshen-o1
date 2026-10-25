@@ -1,1 +1,77 @@
-aW1wb3J0IG9zCmltcG9ydCBzaHV0aWwKaW1wb3J0IHRlbXBmaWxlCmZyb20gY29udGV4dGxpYiBpbXBvcnQgY29udGV4dG1hbmFnZXIKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgppbXBvcnQgcGtnX3Jlc291cmNlcwoKZnJvbSBzY3JhcHlkIGltcG9ydCBDb25maWcKZnJvbSBzY3JhcHlkLmV4Y2VwdGlvbnMgaW1wb3J0IEJhZEVnZ0Vycm9yCmZyb20gc2NyYXB5ZC51dGlscyBpbXBvcnQgaW5pdGlhbGl6ZV9jb21wb25lbnQKCgpkZWYgYWN0aXZhdGVfZWdnKGVnZ3BhdGgpOgogICAgIiIiQWN0aXZhdGUgYSBTY3JhcHkgZWdnIGZpbGUuIFRoaXMgaXMgbWVhbnQgdG8gYmUgdXNlZCBmcm9tIGVnZyBydW5uZXJzCiAgICB0byBhY3RpdmF0ZSBhIFNjcmFweSBlZ2cgZmlsZS4gRG9uJ3QgdXNlIGl0IGZyb20gb3RoZXIgY29kZSBhcyBpdCBtYXkKICAgIGxlYXZlIHVud2FudGVkIHNpZGUgZWZmZWN0cy4KICAgICIiIgogICAgZGlzdHJpYnV0aW9ucyA9IHBrZ19yZXNvdXJjZXMuZmluZF9kaXN0cmlidXRpb25zKGVnZ3BhdGgpCiAgICBpZiBpc2luc3RhbmNlKGRpc3RyaWJ1dGlvbnMsIHR1cGxlKToKICAgICAgICByYWlzZSBCYWRFZ2dFcnJvcgoKICAgIHRyeToKICAgICAgICBkaXN0cmlidXRpb24gPSBuZXh0KGRpc3RyaWJ1dGlvbnMpCiAgICBleGNlcHQgU3RvcEl0ZXJhdGlvbjoKICAgICAgICByYWlzZSBCYWRFZ2dFcnJvciBmcm9tIE5vbmUKCiAgICBkaXN0cmlidXRpb24uYWN0aXZhdGUoKQoKICAgICMgc2V0ZGVmYXVsdCgpIHdhcyBhZGRlZCBpbiBodHRwczovL2dpdGh1Yi5jb20vc2NyYXB5L3NjcmFweWQvY29tbWl0LzA2NDFhNTcuIEl0J3Mgbm90IGNsZWFyIHdoeSwgc2luY2UgdGhlIGVnZwogICAgIyBzaG91bGQgY29udHJvbCBpdHMgc2V0dGluZ3MgbW9kdWxlLiBUaGF0IHNhaWQsIGl0IGlzIHVubGlrZWx5IHRvIGFscmVhZHkgYmUgc2V0LgogICAgb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJTQ1JBUFlfU0VUVElOR1NfTU9EVUxFIiwgZGlzdHJpYnV0aW9uLmdldF9lbnRyeV9pbmZvKCJzY3JhcHkiLCAic2V0dGluZ3MiKS5tb2R1bGVfbmFtZSkKCgpAY29udGV4dG1hbmFnZXIKZGVmIHByb2plY3RfZW52aXJvbm1lbnQocHJvamVjdCk6CiAgICBjb25maWcgPSBDb25maWcoKQogICAgZWdnc3RvcmFnZSA9IGluaXRpYWxpemVfY29tcG9uZW50KGNvbmZpZywgImVnZ3N0b3JhZ2UiLCAic2NyYXB5ZC5lZ2dzdG9yYWdlLkZpbGVzeXN0ZW1FZ2dTdG9yYWdlIikKCiAgICBlZ2d2ZXJzaW9uID0gb3MuZW52aXJvbi5nZXQoIlNDUkFQWURfRUdHX1ZFUlNJT04iLCBOb25lKQogICAgc2FuaXRpemVkX3ZlcnNpb24sIGVnZyA9IGVnZ3N0b3JhZ2UuZ2V0KHByb2plY3QsIGVnZ3ZlcnNpb24pCgogICAgdG1wID0gTm9uZQogICAgIyBlZ2cgY2FuIGJlIE5vbmUgaWYgdGhlIHByb2plY3QgaXMgbm90IGluIGVnZyBzdG9yYWdlOiBmb3IgZXhhbXBsZSwgaWYgU2NyYXB5ZCBpcyBpbnZva2VkIHdpdGhpbiBhIFNjcmFweSBwcm9qZWN0LgogICAgaWYgZWdnOgogICAgICAgIHRyeToKICAgICAgICAgICAgaWYgaGFzYXR0cihlZ2csICJuYW1lIik6ICAjIGZvciBleGFtcGxlLCBGaWxlSU8KICAgICAgICAgICAgICAgIGFjdGl2YXRlX2VnZyhlZ2cubmFtZSkKICAgICAgICAgICAgZWxzZTogICMgZm9yIGV4YW1wbGUsIEJ5dGVzSU8KICAgICAgICAgICAgICAgIHByZWZpeCA9IGYie3Byb2plY3R9LXtzYW5pdGl6ZWRfdmVyc2lvbn0tIgogICAgICAgICAgICAgICAgd2l0aCB0ZW1wZmlsZS5OYW1lZFRlbXBvcmFyeUZpbGUoc3VmZml4PSIuZWdnIiwgcHJlZml4PXByZWZpeCwgZGVsZXRlPUZhbHNlKSBhcyB0bXA6CiAgICAgICAgICAgICAgICAgICAgc2h1dGlsLmNvcHlmaWxlb2JqKGVnZywgdG1wKQogICAgICAgICAgICAgICAgYWN0aXZhdGVfZWdnKHRtcC5uYW1lKQogICAgICAgIGZpbmFsbHk6CiAgICAgICAgICAgIGVnZy5jbG9zZSgpCgogICAgdHJ5OgogICAgICAgIHlpZWxkCiAgICBmaW5hbGx5OgogICAgICAgIGlmIHRtcDoKICAgICAgICAgICAgUGF0aCh0bXAubmFtZSkudW5saW5rKCkKCgpkZWYgbWFpbigpOgogICAgcHJvamVjdCA9IG9zLmVudmlyb25bIlNDUkFQWV9QUk9KRUNUIl0KICAgIHdpdGggcHJvamVjdF9lbnZpcm9ubWVudChwcm9qZWN0KToKICAgICAgICBmcm9tIHNjcmFweS5jbWRsaW5lIGltcG9ydCBleGVjdXRlICAjIG5vcWE6IFBMQzA0MTUKCiAgICAgICAgIyBUaGlzIGNhbGxzIHNjcmFweS51dGlscy5wcm9qZWN0LmdldF9wcm9qZWN0X3NldHRpbmdzKCkuIEl0IHVzZXMgU0NSQVBZX1NFVFRJTkdTX01PRFVMRSBpZiBzZXQuIE90aGVyd2lzZSwgaXQKICAgICAgICAjIGNhbGxzIHNjcmFweS51dGlscy5jb25mLmluaXRfZW52KCksIHdoaWNoIHJlYWRzIFNjcmFweSdzIGNvbmZpZ3VyYXRpb24gc291cmNlcywgbG9va3MgZm9yIGEgcHJvamVjdCBtYXRjaGluZwogICAgICAgICMgU0NSQVBZX1BST0pFQ1QgaW4gdGhlIFtzZXR0aW5nc10gc2VjdGlvbiwgYW5kIHVzZXMgaXRzIHZhbHVlIGZvciBTQ1JBUFlfU0VUVElOR1NfTU9EVUxFLgogICAgICAgICMgaHR0cHM6Ly9kb2NzLnNjcmFweS5vcmcvZW4vbGF0ZXN0L3RvcGljcy9jb21tYW5kcy5odG1sI2NvbmZpZ3VyYXRpb24tc2V0dGluZ3MKICAgICAgICBleGVjdXRlKCkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+import os
+import shutil
+import tempfile
+from contextlib import contextmanager
+from pathlib import Path
+
+import pkg_resources
+
+from scrapyd import Config
+from scrapyd.exceptions import BadEggError
+from scrapyd.utils import initialize_component
+
+
+def activate_egg(eggpath):
+    """Activate a Scrapy egg file. This is meant to be used from egg runners
+    to activate a Scrapy egg file. Don't use it from other code as it may
+    leave unwanted side effects.
+    """
+    distributions = pkg_resources.find_distributions(eggpath)
+    if isinstance(distributions, tuple):
+        raise BadEggError
+
+    try:
+        distribution = next(distributions)
+    except StopIteration:
+        raise BadEggError from None
+
+    distribution.activate()
+
+    # setdefault() was added in https://github.com/scrapy/scrapyd/commit/0641a57. It's not clear why, since the egg
+    # should control its settings module. That said, it is unlikely to already be set.
+    os.environ.setdefault("SCRAPY_SETTINGS_MODULE", distribution.get_entry_info("scrapy", "settings").module_name)
+
+
+@contextmanager
+def project_environment(project):
+    config = Config()
+    eggstorage = initialize_component(config, "eggstorage", "scrapyd.eggstorage.FilesystemEggStorage")
+
+    eggversion = os.environ.get("SCRAPYD_EGG_VERSION", None)
+    sanitized_version, egg = eggstorage.get(project, eggversion)
+
+    tmp = None
+    # egg can be None if the project is not in egg storage: for example, if Scrapyd is invoked within a Scrapy project.
+    if egg:
+        try:
+            if hasattr(egg, "name"):  # for example, FileIO
+                activate_egg(egg.name)
+            else:  # for example, BytesIO
+                prefix = f"{project}-{sanitized_version}-"
+                with tempfile.NamedTemporaryFile(suffix=".egg", prefix=prefix, delete=False) as tmp:
+                    shutil.copyfileobj(egg, tmp)
+                activate_egg(tmp.name)
+        finally:
+            egg.close()
+
+    try:
+        yield
+    finally:
+        if tmp:
+            Path(tmp.name).unlink()
+
+
+def main():
+    project = os.environ["SCRAPY_PROJECT"]
+    with project_environment(project):
+        from scrapy.cmdline import execute  # noqa: PLC0415
+
+        # This calls scrapy.utils.project.get_project_settings(). It uses SCRAPY_SETTINGS_MODULE if set. Otherwise, it
+        # calls scrapy.utils.conf.init_env(), which reads Scrapy's configuration sources, looks for a project matching
+        # SCRAPY_PROJECT in the [settings] section, and uses its value for SCRAPY_SETTINGS_MODULE.
+        # https://docs.scrapy.org/en/latest/topics/commands.html#configuration-settings
+        execute()
+
+
+if __name__ == "__main__":
+    main()

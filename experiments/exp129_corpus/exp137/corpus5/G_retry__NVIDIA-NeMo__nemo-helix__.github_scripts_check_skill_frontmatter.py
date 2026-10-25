@@ -1,1 +1,197 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC8vLyBzY3JpcHQKIyByZXF1aXJlcy1weXRob24gPSAiPj0zLjExIgojIGRlcGVuZGVuY2llcyA9IFsKIyAgICJweXlhbWw+PTYuMC4yIiwKIyBdCiMgLy8vCgojIFNQRFgtRmlsZUNvcHlyaWdodFRleHQ6IENvcHlyaWdodCAoYykgMjAyNS0yMDI2IE5WSURJQSBDT1JQT1JBVElPTiAmIEFGRklMSUFURVMuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCiMgU1BEWC1MaWNlbnNlLUlkZW50aWZpZXI6IEFwYWNoZS0yLjAKCiIiIkNoZWNrIHRoYXQgbmV3IG9yIG1vZGlmaWVkIGNhbm9uaWNhbCBTS0lMTC5tZCBmaWxlcyBjYXJyeSBgbWV0YWRhdGEuYXV0aG9yYCBhbmQgYGFsbG93ZWQtdG9vbHNgLgoKQm90aCBmaWVsZHMgYXJlIGxvYWQtYmVhcmluZyBwZXIgZG9jcy9jb250cmlidXRpbmcvc2tpbGxzLXNwZWMubWR4OiBgYWxsb3dlZC10b29sc2AgaXMgdGhlCnNhZmV0eSBzaWduYWwgdGhlIGFnZW50IGhhcm5lc3MgaG9ub3JzLCBhbmQgYG1ldGFkYXRhLmF1dGhvcmAgaXMgaG93IGEgc2tpbGwgbWFpbnRhaW5lciBpcwpmb3VuZC4gVGhpcyBvbmx5IGNoZWNrcyBmaWxlcyBhIFBSIGFjdHVhbGx5IHRvdWNoZXMsIHNvIGl0IGRvZXMgbm90IGJsb2NrIHVucmVsYXRlZCB3b3JrIG9uCnNraWxscyB0aGF0IHByZWRhdGUgdGhlIHJ1bGU7IGl0IHN0b3BzIHRoZSBnYXAgZnJvbSBncm93aW5nLgoKRXhpdCBjb2RlczoKICAgIDAgIG5vIHZpb2xhdGlvbnMKICAgIDEgIG9uZSBvciBtb3JlIGNhbm9uaWNhbCBTS0lMTC5tZCBmaWxlcyBhcmUgbWlzc2luZyBhIHJlcXVpcmVkIGZpZWxkCiAgICAyICBpbnRlcm5hbCBlcnJvciAoYmFkIGZyb250bWF0dGVyLCBnaXQgZmFpbHVyZSwgZXRjLikKIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IHJlCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKaW1wb3J0IHlhbWwKCiMgQ2Fub25pY2FsIHNraWxsIGxvY2F0aW9ucyBwZXIgZG9jcy9jb250cmlidXRpbmcvc2tpbGxzLXNwZWMubWR4LiBJbnRlcm5hbCBkZXYtb25seSBza2lsbAojIGRpcnMgKC5hZ2VudHMvc2tpbGxzLywgLmN1cnNvci9ydWxlcy8sIGFnZW50LXJ1bnRpbWUgc2tpbGwgYnVuZGxlcyB1bmRlciBhZ2VudHMvLCB3ZWIvLmFnZW50cy8KIyBza2lsbHMvKSBpbnRlbnRpb25hbGx5IHVzZSBhIGxpZ2h0ZXIgZnJvbnRtYXR0ZXIgYW5kIGFyZSBvdXQgb2Ygc2NvcGUuCkNBTk9OSUNBTF9TS0lMTF9HTE9CUyA9IFsKICAgICJza2lsbHMvKi9TS0lMTC5tZCIsCiAgICAicGFja2FnZXMvbmVtb19oZWxpeF9leHQvc3JjL25lbW9faGVsaXhfZXh0L3NraWxscy8qL1NLSUxMLm1kIiwKICAgICJwbHVnaW5zLyovc2tpbGxzLyovU0tJTEwubWQiLAogICAgInBsdWdpbnMvKi9zcmMvKi9za2lsbHMvKi9TS0lMTC5tZCIsCiAgICAicGx1Z2lucy8qL2ZyYW1ld29yay1za2lsbHMvKi9TS0lMTC5tZCIsCl0KClJFUVVJUkVEX0ZJRUxEUyA9ICgibWV0YWRhdGEuYXV0aG9yIiwgImFsbG93ZWQtdG9vbHMiKQoKIyBDb21tYS1zZXBhcmF0ZWQgYGFsbG93ZWQtdG9vbHNgIGVudHJpZXMgbXVzdCBiZSBiYXJlIHRvb2wgbmFtZXMgKGUuZy4gYEJhc2hgLCBgbWNwX19uZW1vX19saXN0YCksCiMgbm90IGZyZWUgdGV4dDogdGhpcyBjYXRjaGVzIHVucGFyc2VhYmxlIHZhbHVlcyBsaWtlICJCYXNoIFJlYWQiIChtaXNzaW5nIGNvbW1hKS4KX1RPT0xfTkFNRV9SRSA9IHJlLmNvbXBpbGUociJeW0EtWmEtejAtOV9dKyQiKQoKCmNsYXNzIE1hbGZvcm1lZEZyb250bWF0dGVyRXJyb3IoRXhjZXB0aW9uKToKICAgICIiIlJhaXNlZCB3aGVuIGEgU0tJTEwubWQncyBmcm9udG1hdHRlciBibG9jayBpcyBwcmVzZW50IGJ1dCBub3QgdmFsaWQgWUFNTC4iIiIKCgpkZWYgX2dsb2JfdG9fcGF0aF9yZWdleChwYXR0ZXJuOiBzdHIpIC0+IHJlLlBhdHRlcm5bc3RyXToKICAgICMgYCpgIG1hdGNoZXMgb25lIHBhdGggc2VnbWVudCBvbmx5ICh1bmxpa2UgZm5tYXRjaCwgd2hpY2ggYWxzbyBtYXRjaGVzIGAvYCkuCiAgICBzZWdtZW50cyA9IChyZS5lc2NhcGUoc2VnbWVudCkucmVwbGFjZShyIlwqIiwgIlteL10rIikgZm9yIHNlZ21lbnQgaW4gcGF0dGVybi5zcGxpdCgiLyIpKQogICAgcmV0dXJuIHJlLmNvbXBpbGUoIl4iICsgIi8iLmpvaW4oc2VnbWVudHMpICsgIiQiKQoKCl9DQU5PTklDQUxfU0tJTExfUEFUVEVSTlMgPSBbX2dsb2JfdG9fcGF0aF9yZWdleChwYXR0ZXJuKSBmb3IgcGF0dGVybiBpbiBDQU5PTklDQUxfU0tJTExfR0xPQlNdCgoKQGRhdGFjbGFzcwpjbGFzcyBWaW9sYXRpb246CiAgICBmaWxlOiBQYXRoCiAgICBpc3N1ZTogc3RyCgoKZGVmIGlzX2Nhbm9uaWNhbF9za2lsbChwYXRoOiBQYXRoKSAtPiBib29sOgogICAgcG9zaXggPSBwYXRoLmFzX3Bvc2l4KCkKICAgIHJldHVybiBhbnkocGF0dGVybi5tYXRjaChwb3NpeCkgZm9yIHBhdHRlcm4gaW4gX0NBTk9OSUNBTF9TS0lMTF9QQVRURVJOUykKCgpkZWYgY2hhbmdlZF9za2lsbF9maWxlcyhyb290OiBQYXRoLCBiYXNlX3JlZjogc3RyKSAtPiBsaXN0W1BhdGhdOgogICAgcmVzdWx0ID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgWyJnaXQiLCAiZGlmZiIsICItLW5hbWUtb25seSIsICItLWRpZmYtZmlsdGVyPUFDTVIiLCBmIntiYXNlX3JlZn0uLi5IRUFEIiwgIi0tIiwgIioqL1NLSUxMLm1kIl0sCiAgICAgICAgY3dkPXJvb3QsCiAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwKICAgICAgICB0ZXh0PVRydWUsCiAgICAgICAgY2hlY2s9VHJ1ZSwKICAgICkKICAgIHJldHVybiBbcm9vdCAvIGxpbmUgZm9yIGxpbmUgaW4gcmVzdWx0LnN0ZG91dC5zcGxpdGxpbmVzKCkgaWYgbGluZS5zdHJpcCgpXQoKCmRlZiBmcm9udG1hdHRlcihwYXRoOiBQYXRoKSAtPiBkaWN0IHwgTm9uZToKICAgIHRleHQgPSBwYXRoLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKQogICAgaWYgbm90IHRleHQuc3RhcnRzd2l0aCgiLS0tXG4iKToKICAgICAgICByZXR1cm4gTm9uZQogICAgZW5kID0gdGV4dC5maW5kKCJcbi0tLVxuIiwgNCkKICAgIGlmIGVuZCA9PSAtMToKICAgICAgICByZXR1cm4gTm9uZQogICAgYmxvY2sgPSB0ZXh0WzQ6ZW5kXQogICAgdHJ5OgogICAgICAgIGRhdGEgPSB5YW1sLnNhZmVfbG9hZChibG9jaykKICAgIGV4Y2VwdCB5YW1sLllBTUxFcnJvciBhcyBleGM6CiAgICAgICAgcmFpc2UgTWFsZm9ybWVkRnJvbnRtYXR0ZXJFcnJvcihmIntwYXRofTogZnJvbnRtYXR0ZXIgYmxvY2sgaXMgbm90IHZhbGlkIFlBTUw6IHtleGN9IikgZnJvbSBleGMKICAgIHJldHVybiBkYXRhIGlmIGlzaW5zdGFuY2UoZGF0YSwgZGljdCkgZWxzZSBOb25lCgoKZGVmIGNoZWNrX2ZpbGUocGF0aDogUGF0aCkgLT4gbGlzdFtWaW9sYXRpb25dOgogICAgdmlvbGF0aW9uczogbGlzdFtWaW9sYXRpb25dID0gW10KICAgIGRhdGEgPSBmcm9udG1hdHRlcihwYXRoKQogICAgaWYgZGF0YSBpcyBOb25lOgogICAgICAgIHJldHVybiBbVmlvbGF0aW9uKHBhdGgsICJmaWxlIGRvZXMgbm90IG9wZW4gd2l0aCBhIHZhbGlkIFlBTUwgZnJvbnRtYXR0ZXIgYmxvY2siKV0KCiAgICBtZXRhZGF0YSA9IGRhdGEuZ2V0KCJtZXRhZGF0YSIpCiAgICBhdXRob3IgPSBtZXRhZGF0YS5nZXQoImF1dGhvciIpIGlmIGlzaW5zdGFuY2UobWV0YWRhdGEsIGRpY3QpIGVsc2UgTm9uZQogICAgaWYgbm90IGlzaW5zdGFuY2UoYXV0aG9yLCBzdHIpIG9yIG5vdCBhdXRob3Iuc3RyaXAoKToKICAgICAgICB2aW9sYXRpb25zLmFwcGVuZChWaW9sYXRpb24ocGF0aCwgIm1pc3Npbmcgb3IgaW52YWxpZCBgbWV0YWRhdGEuYXV0aG9yYCAobXVzdCBiZSBhIG5vbi1lbXB0eSBzdHJpbmcpIikpCgogICAgdG9vbHMgPSBkYXRhLmdldCgiYWxsb3dlZC10b29scyIpCiAgICBpZiBub3QgaXNpbnN0YW5jZSh0b29scywgc3RyKSBvciBub3QgdG9vbHMuc3RyaXAoKToKICAgICAgICB2aW9sYXRpb25zLmFwcGVuZCgKICAgICAgICAgICAgVmlvbGF0aW9uKHBhdGgsICJtaXNzaW5nIG9yIGVtcHR5IGBhbGxvd2VkLXRvb2xzYCAobXVzdCBiZSBhIGNvbW1hLXNlcGFyYXRlZCBzdHJpbmcsIGUuZy4gQmFzaCwgUmVhZCkiKQogICAgICAgICkKICAgIGVsaWYgbm90IGFsbChfVE9PTF9OQU1FX1JFLm1hdGNoKGVudHJ5LnN0cmlwKCkpIGZvciBlbnRyeSBpbiB0b29scy5zcGxpdCgiLCIpKToKICAgICAgICB2aW9sYXRpb25zLmFwcGVuZCgKICAgICAgICAgICAgVmlvbGF0aW9uKAogICAgICAgICAgICAgICAgcGF0aCwKICAgICAgICAgICAgICAgIGYiaW52YWxpZCBgYWxsb3dlZC10b29sc2Age3Rvb2xzIXJ9IChtdXN0IGJlIGEgY29tbWEtc2VwYXJhdGVkIGxpc3Qgb2YgdG9vbCBuYW1lcywgZS5nLiBCYXNoLCBSZWFkKSIsCiAgICAgICAgICAgICkKICAgICAgICApCgogICAgcmV0dXJuIHZpb2xhdGlvbnMKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPV9fZG9jX18pCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXJvb3QiLCB0eXBlPVBhdGgsIGRlZmF1bHQ9UGF0aC5jd2QoKSwgaGVscD0iUmVwbyByb290IChkZWZhdWx0OiBjd2QpIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tYmFzZS1yZWYiLCBkZWZhdWx0PSJvcmlnaW4vbWFpbiIsIGhlbHA9IkRpZmYgYmFzZSByZWYgKGRlZmF1bHQ6IG9yaWdpbi9tYWluKSIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWZvcm1hdCIsIGNob2ljZXM9WyJodW1hbiIsICJnaXRodWIiXSwgZGVmYXVsdD0iaHVtYW4iKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiZmlsZXMiLCBuYXJncz0iKiIsIHR5cGU9UGF0aCwgaGVscD0iRXhwbGljaXQgU0tJTEwubWQgcGF0aHMgdG8gY2hlY2sgaW5zdGVhZCBvZiBkaWZmaW5nIGFnYWluc3QgYmFzZS1yZWYiCiAgICApCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQoKICAgIGlmIGFyZ3MuZmlsZXM6CiAgICAgICAgY2FuZGlkYXRlcyA9IFthcmdzLnJvb3QgLyBmIGlmIG5vdCBmLmlzX2Fic29sdXRlKCkgZWxzZSBmIGZvciBmIGluIGFyZ3MuZmlsZXNdCiAgICBlbHNlOgogICAgICAgIHRyeToKICAgICAgICAgICAgY2FuZGlkYXRlcyA9IGNoYW5nZWRfc2tpbGxfZmlsZXMoYXJncy5yb290LCBhcmdzLmJhc2VfcmVmKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBleGM6CiAgICAgICAgICAgIHByaW50KGYiRVJST1I6IGdpdCBkaWZmIGFnYWluc3Qge2FyZ3MuYmFzZV9yZWYhcn0gZmFpbGVkOiB7ZXhjLnN0ZGVycn0iLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgICAgIHJldHVybiAyCgogICAgc2tpbGxfZmlsZXMgPSBbXQogICAgZm9yIGYgaW4gY2FuZGlkYXRlczoKICAgICAgICBpZiBub3QgZi5leGlzdHMoKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlbCA9IGYucmVsYXRpdmVfdG8oYXJncy5yb290KQogICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIGlzX2Nhbm9uaWNhbF9za2lsbChyZWwpOgogICAgICAgICAgICBza2lsbF9maWxlcy5hcHBlbmQoZikKCiAgICBpZiBub3Qgc2tpbGxfZmlsZXM6CiAgICAgICAgcHJpbnQoIk9LOiBubyBuZXcgb3IgbW9kaWZpZWQgY2Fub25pY2FsIFNLSUxMLm1kIGZpbGVzLiIpCiAgICAgICAgcmV0dXJuIDAKCiAgICBhbGxfdmlvbGF0aW9uczogbGlzdFtWaW9sYXRpb25dID0gW10KICAgIHRyeToKICAgICAgICBmb3Igc2tpbGwgaW4gc29ydGVkKHNraWxsX2ZpbGVzKToKICAgICAgICAgICAgYWxsX3Zpb2xhdGlvbnMuZXh0ZW5kKGNoZWNrX2ZpbGUoc2tpbGwpKQogICAgZXhjZXB0IE1hbGZvcm1lZEZyb250bWF0dGVyRXJyb3IgYXMgZXhjOgogICAgICAgIHByaW50KGYiRVJST1I6IHtleGN9IiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIHJldHVybiAyCgogICAgaWYgbm90IGFsbF92aW9sYXRpb25zOgogICAgICAgIHByaW50KGYiT0s6IHtsZW4oc2tpbGxfZmlsZXMpfSBjaGFuZ2VkIHNraWxsKHMpLCB7JyBhbmQgJy5qb2luKFJFUVVJUkVEX0ZJRUxEUyl9IHByZXNlbnQuIikKICAgICAgICByZXR1cm4gMAoKICAgIGlmIGFyZ3MuZm9ybWF0ID09ICJnaXRodWIiOgogICAgICAgIGZvciB2IGluIGFsbF92aW9sYXRpb25zOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICByZWwgPSB2LmZpbGUucmVsYXRpdmVfdG8oYXJncy5yb290KQogICAgICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgICAgIHJlbCA9IHYuZmlsZQogICAgICAgICAgICBwcmludChmIjo6ZXJyb3IgZmlsZT17cmVsfTo6e3YuaXNzdWV9IikKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoZiJGb3VuZCB7bGVuKGFsbF92aW9sYXRpb25zKX0gaXNzdWVzIGFjcm9zcyB7bGVuKHt2LmZpbGUgZm9yIHYgaW4gYWxsX3Zpb2xhdGlvbnN9KX0gc2tpbGxzOlxuIikKICAgICAgICBjdXJyZW50X2ZpbGU6IFBhdGggfCBOb25lID0gTm9uZQogICAgICAgIGZvciB2IGluIGFsbF92aW9sYXRpb25zOgogICAgICAgICAgICBpZiB2LmZpbGUgIT0gY3VycmVudF9maWxlOgogICAgICAgICAgICAgICAgcHJpbnQoZiJcbnt2LmZpbGV9IikKICAgICAgICAgICAgICAgIGN1cnJlbnRfZmlsZSA9IHYuZmlsZQogICAgICAgICAgICBwcmludChmIiAge3YuaXNzdWV9IikKCiAgICByZXR1cm4gMQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#   "pyyaml>=6.0.2",
+# ]
+# ///
+
+# SPDX-FileCopyrightText: Copyright (c) 2025-2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
+
+"""Check that new or modified canonical SKILL.md files carry `metadata.author` and `allowed-tools`.
+
+Both fields are load-bearing per docs/contributing/skills-spec.mdx: `allowed-tools` is the
+safety signal the agent harness honors, and `metadata.author` is how a skill maintainer is
+found. This only checks files a PR actually touches, so it does not block unrelated work on
+skills that predate the rule; it stops the gap from growing.
+
+Exit codes:
+    0  no violations
+    1  one or more canonical SKILL.md files are missing a required field
+    2  internal error (bad frontmatter, git failure, etc.)
+"""
+
+from __future__ import annotations
+
+import argparse
+import re
+import subprocess
+import sys
+from dataclasses import dataclass
+from pathlib import Path
+
+import yaml
+
+# Canonical skill locations per docs/contributing/skills-spec.mdx. Internal dev-only skill
+# dirs (.agents/skills/, .cursor/rules/, agent-runtime skill bundles under agents/, web/.agents/
+# skills/) intentionally use a lighter frontmatter and are out of scope.
+CANONICAL_SKILL_GLOBS = [
+    "skills/*/SKILL.md",
+    "packages/nemo_helix_ext/src/nemo_helix_ext/skills/*/SKILL.md",
+    "plugins/*/skills/*/SKILL.md",
+    "plugins/*/src/*/skills/*/SKILL.md",
+    "plugins/*/framework-skills/*/SKILL.md",
+]
+
+REQUIRED_FIELDS = ("metadata.author", "allowed-tools")
+
+# Comma-separated `allowed-tools` entries must be bare tool names (e.g. `Bash`, `mcp__nemo__list`),
+# not free text: this catches unparseable values like "Bash Read" (missing comma).
+_TOOL_NAME_RE = re.compile(r"^[A-Za-z0-9_]+$")
+
+
+class MalformedFrontmatterError(Exception):
+    """Raised when a SKILL.md's frontmatter block is present but not valid YAML."""
+
+
+def _glob_to_path_regex(pattern: str) -> re.Pattern[str]:
+    # `*` matches one path segment only (unlike fnmatch, which also matches `/`).
+    segments = (re.escape(segment).replace(r"\*", "[^/]+") for segment in pattern.split("/"))
+    return re.compile("^" + "/".join(segments) + "$")
+
+
+_CANONICAL_SKILL_PATTERNS = [_glob_to_path_regex(pattern) for pattern in CANONICAL_SKILL_GLOBS]
+
+
+@dataclass
+class Violation:
+    file: Path
+    issue: str
+
+
+def is_canonical_skill(path: Path) -> bool:
+    posix = path.as_posix()
+    return any(pattern.match(posix) for pattern in _CANONICAL_SKILL_PATTERNS)
+
+
+def changed_skill_files(root: Path, base_ref: str) -> list[Path]:
+    result = subprocess.run(
+        ["git", "diff", "--name-only", "--diff-filter=ACMR", f"{base_ref}...HEAD", "--", "**/SKILL.md"],
+        cwd=root,
+        capture_output=True,
+        text=True,
+        check=True,
+    )
+    return [root / line for line in result.stdout.splitlines() if line.strip()]
+
+
+def frontmatter(path: Path) -> dict | None:
+    text = path.read_text(encoding="utf-8")
+    if not text.startswith("---\n"):
+        return None
+    end = text.find("\n---\n", 4)
+    if end == -1:
+        return None
+    block = text[4:end]
+    try:
+        data = yaml.safe_load(block)
+    except yaml.YAMLError as exc:
+        raise MalformedFrontmatterError(f"{path}: frontmatter block is not valid YAML: {exc}") from exc
+    return data if isinstance(data, dict) else None
+
+
+def check_file(path: Path) -> list[Violation]:
+    violations: list[Violation] = []
+    data = frontmatter(path)
+    if data is None:
+        return [Violation(path, "file does not open with a valid YAML frontmatter block")]
+
+    metadata = data.get("metadata")
+    author = metadata.get("author") if isinstance(metadata, dict) else None
+    if not isinstance(author, str) or not author.strip():
+        violations.append(Violation(path, "missing or invalid `metadata.author` (must be a non-empty string)"))
+
+    tools = data.get("allowed-tools")
+    if not isinstance(tools, str) or not tools.strip():
+        violations.append(
+            Violation(path, "missing or empty `allowed-tools` (must be a comma-separated string, e.g. Bash, Read)")
+        )
+    elif not all(_TOOL_NAME_RE.match(entry.strip()) for entry in tools.split(",")):
+        violations.append(
+            Violation(
+                path,
+                f"invalid `allowed-tools` {tools!r} (must be a comma-separated list of tool names, e.g. Bash, Read)",
+            )
+        )
+
+    return violations
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--root", type=Path, default=Path.cwd(), help="Repo root (default: cwd)")
+    parser.add_argument("--base-ref", default="origin/main", help="Diff base ref (default: origin/main)")
+    parser.add_argument("--format", choices=["human", "github"], default="human")
+    parser.add_argument(
+        "files", nargs="*", type=Path, help="Explicit SKILL.md paths to check instead of diffing against base-ref"
+    )
+    args = parser.parse_args()
+
+    if args.files:
+        candidates = [args.root / f if not f.is_absolute() else f for f in args.files]
+    else:
+        try:
+            candidates = changed_skill_files(args.root, args.base_ref)
+        except subprocess.CalledProcessError as exc:
+            print(f"ERROR: git diff against {args.base_ref!r} failed: {exc.stderr}", file=sys.stderr)
+            return 2
+
+    skill_files = []
+    for f in candidates:
+        if not f.exists():
+            continue
+        try:
+            rel = f.relative_to(args.root)
+        except ValueError:
+            continue
+        if is_canonical_skill(rel):
+            skill_files.append(f)
+
+    if not skill_files:
+        print("OK: no new or modified canonical SKILL.md files.")
+        return 0
+
+    all_violations: list[Violation] = []
+    try:
+        for skill in sorted(skill_files):
+            all_violations.extend(check_file(skill))
+    except MalformedFrontmatterError as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        return 2
+
+    if not all_violations:
+        print(f"OK: {len(skill_files)} changed skill(s), {' and '.join(REQUIRED_FIELDS)} present.")
+        return 0
+
+    if args.format == "github":
+        for v in all_violations:
+            try:
+                rel = v.file.relative_to(args.root)
+            except ValueError:
+                rel = v.file
+            print(f"::error file={rel}::{v.issue}")
+    else:
+        print(f"Found {len(all_violations)} issues across {len({v.file for v in all_violations})} skills:\n")
+        current_file: Path | None = None
+        for v in all_violations:
+            if v.file != current_file:
+                print(f"\n{v.file}")
+                current_file = v.file
+            print(f"  {v.issue}")
+
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

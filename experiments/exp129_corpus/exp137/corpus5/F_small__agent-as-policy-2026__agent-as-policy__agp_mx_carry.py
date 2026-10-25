@@ -1,1 +1,197 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJDYXJyeSB0aGUgbXVsdGlwbGUtZXhwZXJpZW5jZSBtZW1vcnkgc3RhdGUgYmV0d2VlbiB0aGlzIGZyYW1ld29yaydzIHBlci1jeWNsZSBzZXNzaW9ucy4KCiAgICBweXRob24zIG14L2NhcnJ5LnB5IGluc3RhbGwgPHN0b3JlPiA8c2Vzc2lvbj4gPGN5Y2xlPiAgIGJlZm9yZSB0aGUgc2Vzc2lvbidzIHNlcnZlciBzdGFydHMKICAgIHB5dGhvbjMgbXgvY2FycnkucHkgc2F2ZSAgICA8c3RvcmU+IDxzZXNzaW9uPiA8Y3ljbGU+ICAgYWZ0ZXIgdGhlIHNlc3Npb24gc3RvcHBlZAogICAgcHl0aG9uMyBteC9jYXJyeS5weSBjaGVjayAgIDxzdG9yZT4gPGN5Y2xlPiAgICAgICAgICAgICBoYW5kb2ZmIGdhdGU6IGV4aXQgMCA9IGN5Y2xlIG1heSBzdGFydAoKUmVhZC1vbmx5IHJldXNlICgyMDI2LTA5LTExLCBhbm90aGVyIG1vZGVsIGluaGVyaXRzIGEgZmluaXNoZWQgc2VxdWVuY2UsIGUuZy4gdGVycmEgPC0gYXN0cmEpOgogICAgcHl0aG9uMyBteC9jYXJyeS5weSBzZWVkICAgICAgIDxzb3VyY2Ugc3RvcmU+IDxzdG9yZT4gICBjb3B5IGEgZmluaXNoZWQgc3RvcmUgb25jZSAoU0VFREVEX0ZST00udHh0KQogICAgcHl0aG9uMyBteC9jYXJyeS5weSBjaGVjay1ybyAgIDxzdG9yZT4gICAgICAgICAgICAgICAgICBleGl0IDAgPSB0aGUgc3RvcmUgaG9sZHMgY2hlY2twb2ludHMKICAgIHB5dGhvbjMgbXgvY2FycnkucHkgaW5zdGFsbC1ybyA8c3RvcmU+IDxzZXNzaW9uPiAgICAgICAgZXZlcnkgY2hlY2twb2ludCArIHRoZSBzaGFyZWQgc2NyYXRjaDsgYSBmcmVzaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlIHJlY29yZDsgbm90aGluZyBpcyBldmVyIHNhdmVkIGJhY2sKClRoZSBvcmlnaW5hbCBtdWx0aXBsZS1leHBlcmllbmNlIHJ1bnRpbWUgcmFuIGFsbCBmaXZlIGN5Y2xlcyBpbiBPTkUgc2Vzc2lvbiwgc28gZXZlcnkgZnJlc2ggYWdlbnQgc2F3IHRoYXQgc2Vzc2lvbidzCmV4cGVyaWVuY2UvIChhbGwgY2hlY2twb2ludHMpLCB0aGUgc2hhcmVkIHNjcmF0Y2gvIChhdHRlbXB0cy5tZCwgc2NyaXB0cywgbWVhc3VyZW1lbnRzLCBlYXJsaWVyCnJvdW5kIHJlcG9ydHMpIGFuZCB0aGUgc3RhZ2UgcmVjb3JkcyAoZXBpc29kZXMuanNvbmwgLyBlcGlzb2Rlcy5qc29uKS4gSGVyZSBldmVyeSBjeWNsZSBoYXMgaXRzCm93biBzZXNzaW9uOiBpbnN0YWxsIGNvcGllcyB0aGUgc3RhdGUgdGhlIGxhc3QgY29tbWl0dGVkIGN5Y2xlIGxlZnQgaW50byB0aGUgbmV3IHNlc3Npb24sIHNhdmUKY29waWVzIGl0IGJhY2sgb3V0IG9ubHkgd2hlbiB0aGlzIHNlc3Npb24gY29tbWl0dGVkIGl0cyBjaGVja3BvaW50IChhIGN5Y2xlIHdpdGhvdXQgYSBjaGVja3BvaW50CmxlYXZlcyB0aGUgY2FycmllZCBzdGF0ZSB1bnRvdWNoZWQsIHNvIGEgcmUtcnVuIG9mIHRoYXQgY3ljbGUgc3RhcnRzIGZyb20gdGhlIHNhbWUgc3RhdGUpLgpmcmFtZXMvIGlzIG5vdCBjYXJyaWVkOiBsYXRlciBhZ2VudHMgbmV2ZXIgb3BlbmVkIGFuIGVhcmxpZXIgY3ljbGUncyBmcmFtZXMgKGNoZWNrZWQgb24gdGhlIHJlZmVyZW5jZQpmaXZlLWZyZXNoLWFnZW50IHNlc3Npb24sIDIwMjYtMDktMTEpLgoKU3RvcmUgbGF5b3V0ICg8c3RvcmU+ID0gcGFwZXJfcnVucy88dGFzaz5fPGJhdGNoPi9teCk6CiAgZXhwZXJpZW5jZS8gICAgICAgICAgICBjeWNsZV9OTi97bWVtb3J5Lmpzb24sIGFydGlmYWN0cy99LCBsYXRlc3QuanNvbiwgbWV0cmljcy5qc29uLCBtZXRyaWNzLmNzdgogIGNhcnJ5L3NjcmF0Y2gvICAgICAgICAgdGhlIHNoYXJlZCBzY3JhdGNoIGFzIHRoZSBsYXN0IGNvbW1pdHRlZCBjeWNsZSBsZWZ0IGl0CiAgY2FycnkvZXBpc29kZXMuanNvbmwgICBzdGFnZSByZWNvcmRzIG9mIGFsbCBjb21taXR0ZWQgY3ljbGVzIChpbmNsLiB0aGVpciBmYWlsZWQgYXR0ZW1wdHMpCiAgY2FycnkvY29tbWFuZF9tZXRyaWNzLmpzb25sLCBjYXJyeS9yb3VuZHMuanNvbmwgICBpbnB1dHMgb2YgZXhwZXJpZW5jZS9tZXRyaWNzLmpzb24KIiIiCgppbXBvcnQganNvbgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKaW1wb3J0IHNodXRpbAppbXBvcnQgc3lzCmltcG9ydCB0aW1lCmltcG9ydCB1dWlkCgpzeXMucGF0aC5pbnNlcnQoMCwgc3RyKFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQucGFyZW50KSkKZnJvbSBteC5jeWNsZV9kYXRhc2V0IGltcG9ydCBwcm9ncmVzcywgX3dyaXRlICAjIG5vcWE6IEU0MDIKCkNBUlJJRUQgPSAoImVwaXNvZGVzLmpzb25sIiwgImNvbW1hbmRfbWV0cmljcy5qc29ubCIsICJyb3VuZHMuanNvbmwiKQoKCmRlZiBfY2hlY2twb2ludHMoZXhwZXJpZW5jZSk6CiAgICByZXR1cm4gc29ydGVkKHAubmFtZSBmb3IgcCBpbiBQYXRoKGV4cGVyaWVuY2UpLmdsb2IoImN5Y2xlX1swLTldWzAtOV0iKSBpZiAocCAvICJtZW1vcnkuanNvbiIpLmlzX2ZpbGUoKSkKCgpkZWYgaW5zdGFsbChzdG9yZSwgc2Vzc2lvbiwgY3ljbGUpOgogICAgc3RvcmUsIHNlc3Npb24sIGN5Y2xlID0gUGF0aChzdG9yZSksIFBhdGgoc2Vzc2lvbiksIGludChjeWNsZSkKICAgIGV4cCwgY2FycnkgPSBzdG9yZSAvICJleHBlcmllbmNlIiwgc3RvcmUgLyAiY2FycnkiCiAgICB0YXJnZXQgPSBzZXNzaW9uIC8gImV4cGVyaWVuY2UiCiAgICB0YXJnZXQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgaWYgZXhwLmlzX2RpcigpOgogICAgICAgIGZvciBwIGluIHNvcnRlZChleHAuaXRlcmRpcigpKToKICAgICAgICAgICAgaWYgcC5uYW1lLnN0YXJ0c3dpdGgoIi4iKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlmIHAuaXNfZGlyKCk6CiAgICAgICAgICAgICAgICBzaHV0aWwuY29weXRyZWUocCwgdGFyZ2V0IC8gcC5uYW1lKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc2h1dGlsLmNvcHkyKHAsIHRhcmdldCAvIHAubmFtZSkKICAgIGlmIChjYXJyeSAvICJzY3JhdGNoIikuaXNfZGlyKCk6CiAgICAgICAgc2h1dGlsLmNvcHl0cmVlKGNhcnJ5IC8gInNjcmF0Y2giLCBzZXNzaW9uIC8gInNjcmF0Y2giLCBkaXJzX2V4aXN0X29rPVRydWUpCiAgICBmb3IgbmFtZSBpbiBDQVJSSUVEOgogICAgICAgIGlmIChjYXJyeSAvIG5hbWUpLmlzX2ZpbGUoKToKICAgICAgICAgICAgc2h1dGlsLmNvcHkyKGNhcnJ5IC8gbmFtZSwgc2Vzc2lvbiAvIG5hbWUpCiAgICBzdGF0ZSA9IHByb2dyZXNzKHNlc3Npb24pCiAgICBpZiAoc2Vzc2lvbiAvICJlcGlzb2Rlcy5qc29ubCIpLmV4aXN0cygpOgogICAgICAgIF93cml0ZShzZXNzaW9uIC8gImVwaXNvZGVzLmpzb24iLCBzdGF0ZSkKICAgIG91dCA9IHsKICAgICAgICAib2siOiBUcnVlLAogICAgICAgICJjeWNsZSI6IGN5Y2xlLAogICAgICAgICJjaGVja3BvaW50cyI6IF9jaGVja3BvaW50cyh0YXJnZXQpLAogICAgICAgICJjb21wbGV0ZWRfY3ljbGVzIjogc3RhdGVbImNvbXBsZXRlZF9jeWNsZXMiXSwKICAgICAgICAic2NyYXRjaF9maWxlcyI6IHN1bSgxIGZvciBmIGluIChzZXNzaW9uIC8gInNjcmF0Y2giKS5yZ2xvYigiKiIpIGlmIGYuaXNfZmlsZSgpKSwKICAgIH0KICAgIHByaW50KGpzb24uZHVtcHMob3V0KSkKICAgIHJldHVybiAwCgoKZGVmIHNhdmUoc3RvcmUsIHNlc3Npb24sIGN5Y2xlKToKICAgIHN0b3JlLCBzZXNzaW9uLCBjeWNsZSA9IFBhdGgoc3RvcmUpLCBQYXRoKHNlc3Npb24pLCBpbnQoY3ljbGUpCiAgICBmb2xkZXIgPSBzZXNzaW9uIC8gImV4cGVyaWVuY2UiIC8gZiJjeWNsZV97Y3ljbGU6MDJkfSIKICAgIGlmIG5vdCAoZm9sZGVyIC8gIm1lbW9yeS5qc29uIikuaXNfZmlsZSgpOgogICAgICAgIHByaW50KGpzb24uZHVtcHMoeyJvayI6IEZhbHNlLCAiY3ljbGUiOiBjeWNsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAibm90ZSI6ICJubyBjaGVja3BvaW50IGNvbW1pdHRlZCBpbiB0aGlzIHNlc3Npb247IGNhcnJpZWQgc3RhdGUgbGVmdCB1bmNoYW5nZWQifSkpCiAgICAgICAgcmV0dXJuIDAKICAgIGV4cCA9IHN0b3JlIC8gImV4cGVyaWVuY2UiCiAgICBleHAubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgaGF2ZSA9IF9jaGVja3BvaW50cyhleHApCiAgICBpZiBmImN5Y2xlX3tjeWNsZTowMmR9IiBpbiBoYXZlIG9yIGxlbihoYXZlKSAhPSBjeWNsZSAtIDE6CiAgICAgICAgcHJpbnQoanNvbi5kdW1wcyh7Im9rIjogRmFsc2UsICJjeWNsZSI6IGN5Y2xlLCAiZXJyb3IiOiBmInN0b3JlIGhvbGRzIHtoYXZlfTsgY3ljbGUge2N5Y2xlfSBub3Qgc2F2ZWQifSkpCiAgICAgICAgcmV0dXJuIDMKICAgIHBlbmRpbmcgPSBleHAgLyBmIi5wZW5kaW5nX3t1dWlkLnV1aWQ0KCkuaGV4fSIKICAgIHNodXRpbC5jb3B5dHJlZShmb2xkZXIsIHBlbmRpbmcpCiAgICBwZW5kaW5nLnJlbmFtZShleHAgLyBmb2xkZXIubmFtZSkKICAgIGZvciBuYW1lIGluICgibGF0ZXN0Lmpzb24iLCAibWV0cmljcy5qc29uIiwgIm1ldHJpY3MuY3N2Iik6CiAgICAgICAgc3JjID0gc2Vzc2lvbiAvICJleHBlcmllbmNlIiAvIG5hbWUKICAgICAgICBpZiBzcmMuaXNfZmlsZSgpOgogICAgICAgICAgICBzaHV0aWwuY29weTIoc3JjLCBleHAgLyBuYW1lKQogICAgY2FycnkgPSBzdG9yZSAvICJjYXJyeSIKICAgIGNhcnJ5Lm1rZGlyKGV4aXN0X29rPVRydWUpCiAgICBmcmVzaCA9IGNhcnJ5IC8gZiIuc2NyYXRjaF97dXVpZC51dWlkNCgpLmhleH0iCiAgICBzaHV0aWwuY29weXRyZWUoc2Vzc2lvbiAvICJzY3JhdGNoIiwgZnJlc2gsIGlnbm9yZT1zaHV0aWwuaWdub3JlX3BhdHRlcm5zKCJfX3B5Y2FjaGVfXyIpKQogICAgaWYgKGNhcnJ5IC8gInNjcmF0Y2giKS5leGlzdHMoKToKICAgICAgICBzaHV0aWwucm10cmVlKGNhcnJ5IC8gInNjcmF0Y2giKQogICAgZnJlc2gucmVuYW1lKGNhcnJ5IC8gInNjcmF0Y2giKQogICAgIyB0aGUgYWdlbnQncyBsYXN0IGV2ZW50ID0gaXRzIGV4aXQ7IHRoZSBuZXh0IGN5Y2xlJ3MgYmV0d2Vlbl9jeWNsZV9zIGNvdW50cyB0aGlzIGFnZW50J3MgdGltZSBhZnRlcgogICAgIyBpdHMgY2hlY2twb2ludCwgYXMgdGhlIG9yaWdpbmFsIGNvbnRpZ3VvdXMgaW50ZXJ2YWwgZG9lcyAobXgvZXhwZXJpZW5jZS5weSBtZXRyaWNzKQogICAgZXZlbnRzID0gc2Vzc2lvbiAvICJhZ2VudF9ldmVudHMuanNvbmwiCiAgICBpZiBldmVudHMuaXNfZmlsZSgpOgogICAgICAgIHdpdGggKHNlc3Npb24gLyAicm91bmRzLmpzb25sIikub3BlbigiYSIpIGFzIHN0cmVhbToKICAgICAgICAgICAgc3RyZWFtLndyaXRlKGpzb24uZHVtcHMoeyJjeWNsZSI6IGN5Y2xlLCAic2Vzc2lvbiI6IHNlc3Npb24ubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhZ2VudF9leGl0X3dhbGxfdGltZV9ucyI6IGV2ZW50cy5zdGF0KCkuc3RfbXRpbWVfbnN9KSArICJcbiIpCiAgICBmb3IgbmFtZSBpbiBDQVJSSUVEOgogICAgICAgIGlmIChzZXNzaW9uIC8gbmFtZSkuaXNfZmlsZSgpOgogICAgICAgICAgICBzaHV0aWwuY29weTIoc2Vzc2lvbiAvIG5hbWUsIGNhcnJ5IC8gbmFtZSkKICAgIHByaW50KGpzb24uZHVtcHMoeyJvayI6IFRydWUsICJjeWNsZSI6IGN5Y2xlLCAiY2hlY2twb2ludHMiOiBfY2hlY2twb2ludHMoZXhwKSwKICAgICAgICAgICAgICAgICAgICAgICJzY3JhdGNoX2ZpbGVzIjogc3VtKDEgZm9yIGYgaW4gKGNhcnJ5IC8gInNjcmF0Y2giKS5yZ2xvYigiKiIpIGlmIGYuaXNfZmlsZSgpKX0pKQogICAgcmV0dXJuIDAKCgpkZWYgY2hlY2soc3RvcmUsIGN5Y2xlKToKICAgICIiIlRoZSBvcmlnaW5hbCB2ZXJpZnlfaGFuZG9mZihzZXNzaW9uLCBjeWNsZSAtIDEpLCBvbiB0aGUgY2FycmllZCBzdGF0ZS4iIiIKICAgIHN0b3JlLCBjeWNsZSA9IFBhdGgoc3RvcmUpLCBpbnQoY3ljbGUpCiAgICBjb21wbGV0ZWQgPSBjeWNsZSAtIDEKICAgIGhhdmUgPSBfY2hlY2twb2ludHMoc3RvcmUgLyAiZXhwZXJpZW5jZSIpCiAgICBzdGF0ZSA9IHByb2dyZXNzKHN0b3JlIC8gImNhcnJ5IikgICAgICAgICAgIyByZWFkcyBjYXJyeS9lcGlzb2Rlcy5qc29ubAogICAgaGlzdG9yeSA9IFtqc29uLmxvYWRzKChzdG9yZSAvICJleHBlcmllbmNlIiAvIG4gLyAibWVtb3J5Lmpzb24iKS5yZWFkX3RleHQoKSlbImN5Y2xlIl0gZm9yIG4gaW4gaGF2ZV0KICAgIG9rID0gKHN0YXRlWyJjb21wbGV0ZWRfY3ljbGVzIl0gPT0gY29tcGxldGVkIGFuZCBzdGF0ZVsic3VjY2Vzc2Z1bF9zdGFnZXMiXSA9PSBjb21wbGV0ZWQKICAgICAgICAgIGFuZCBub3Qgc3RhdGVbIm9wZW5fc2VnbWVudCJdIGFuZCBoaXN0b3J5ID09IGxpc3QocmFuZ2UoMSwgY29tcGxldGVkICsgMSkpKQogICAgbXNnID0gKGYiY3ljbGUge2N5Y2xlfTogY2hlY2twb2ludHMge2hpc3Rvcnl9LCBjb21wbGV0ZWQgc3RhZ2VzIHtzdGF0ZVsnc3VjY2Vzc2Z1bF9zdGFnZXMnXX0sICIKICAgICAgICAgICBmIm9wZW4gc2VnbWVudCB7c3RhdGVbJ29wZW5fc2VnbWVudCddfSIpCiAgICBpZiBub3Qgb2s6CiAgICAgICAgcHJpbnQoZiJjeWNsZSB7Y29tcGxldGVkfSByZXF1aXJlcyBjb21wbGV0ZWQgc3RhZ2VzIGFuZCBhIHNhdmVkIGV4cGVyaWVuY2UgY2hlY2twb2ludCAoe21zZ30pIikKICAgICAgICByZXR1cm4gMwogICAgcHJpbnQoZiJoYW5kb2ZmIG9rIGZvciB7bXNnfSIpCiAgICByZXR1cm4gMAoKCmRlZiBzZWVkKHNvdXJjZSwgc3RvcmUpOgogICAgIiIiQ29weSBhIGZpbmlzaGVkIHN0b3JlIChpdHMgY2hlY2twb2ludHMgYW5kIGNhcnJpZWQgc2NyYXRjaCkgb25jZSBpbnRvIGEgcmVhZC1vbmx5IGJhdGNoLiIiIgogICAgc291cmNlLCBzdG9yZSA9IFBhdGgoc291cmNlKSwgUGF0aChzdG9yZSkKICAgIGhhdmUgPSBfY2hlY2twb2ludHMoc291cmNlIC8gImV4cGVyaWVuY2UiKQogICAgaWYgbm90IGhhdmU6CiAgICAgICAgcHJpbnQoZiJbc2VlZF0gbm8gY29tbWl0dGVkIGNoZWNrcG9pbnRzIGF0IHtzb3VyY2UgLyAnZXhwZXJpZW5jZSd9IikKICAgICAgICByZXR1cm4gMgogICAgaWYgX2NoZWNrcG9pbnRzKHN0b3JlIC8gImV4cGVyaWVuY2UiKToKICAgICAgICBwcmludChmIltzZWVkXSB0YXJnZXQgc3RvcmUgYWxyZWFkeSBoYXMgY2hlY2twb2ludHM6IHtzdG9yZX0iKQogICAgICAgIHJldHVybiAzCiAgICBzdG9yZS5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBmb3IgbmFtZSBpbiAoImV4cGVyaWVuY2UiLCAiY2FycnkiKToKICAgICAgICBpZiAoc291cmNlIC8gbmFtZSkuaXNfZGlyKCk6CiAgICAgICAgICAgIHNodXRpbC5jb3B5dHJlZShzb3VyY2UgLyBuYW1lLCBzdG9yZSAvIG5hbWUsIGRpcnNfZXhpc3Rfb2s9VHJ1ZSkKICAgIChzdG9yZSAvICJTRUVERURfRlJPTS50eHQiKS53cml0ZV90ZXh0KAogICAgICAgIGYic2VlZGVkX2Zyb206IHtzb3VyY2V9XG5kYXRlOiB7dGltZS5zdHJmdGltZSgnJVktJW0tJWQgJUg6JU06JVMnKX1cbmNoZWNrcG9pbnRzOiB7JyAnLmpvaW4oaGF2ZSl9XG4iKQogICAgcHJpbnQoZiJbc2VlZF0ge3N0b3JlfSA8LSB7c291cmNlfSAoe2xlbihoYXZlKX0gY2hlY2twb2ludChzKSkiKQogICAgcmV0dXJuIDAKCgpkZWYgY2hlY2tfcm8oc3RvcmUpOgogICAgaGF2ZSA9IF9jaGVja3BvaW50cyhQYXRoKHN0b3JlKSAvICJleHBlcmllbmNlIikKICAgIGlmIG5vdCBoYXZlOgogICAgICAgIHByaW50KGYibm8gY2hlY2twb2ludHMgaW4ge1BhdGgoc3RvcmUpIC8gJ2V4cGVyaWVuY2UnfTogc2VlZCBpdCBmaXJzdCAoLS1rbm93bGVkZ2UtZnJvbSA8YmF0Y2g+KSIpCiAgICAgICAgcmV0dXJuIDMKICAgIHByaW50KGYicmVhZC1vbmx5IHJldXNlIG9mIHtsZW4oaGF2ZSl9IGNoZWNrcG9pbnQocykge2hhdmV9IikKICAgIHJldHVybiAwCgoKZGVmIGluc3RhbGxfcm8oc3RvcmUsIHNlc3Npb24pOgogICAgIiIiRXZlcnkgY2hlY2twb2ludCBhbmQgdGhlIHNoYXJlZCBzY3JhdGNoIHRoZSBmaW5pc2hlZCBzZXF1ZW5jZSBsZWZ0LiBUaGUgc3RhZ2UgcmVjb3JkIHN0YXJ0cyBmcmVzaAogICAgKHRoaXMgc2Vzc2lvbidzIG93biBhc3NlbWJseSBpcyBpdHMgY3ljbGUgMSkgYW5kIG5vdGhpbmcgaXMgc2F2ZWQgYmFjayBvbiBzdG9wLiIiIgogICAgc3RvcmUsIHNlc3Npb24gPSBQYXRoKHN0b3JlKSwgUGF0aChzZXNzaW9uKQogICAgZXhwLCBjYXJyeSA9IHN0b3JlIC8gImV4cGVyaWVuY2UiLCBzdG9yZSAvICJjYXJyeSIKICAgIHRhcmdldCA9IHNlc3Npb24gLyAiZXhwZXJpZW5jZSIKICAgIHRhcmdldC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBpZiBleHAuaXNfZGlyKCk6CiAgICAgICAgZm9yIHAgaW4gc29ydGVkKGV4cC5pdGVyZGlyKCkpOgogICAgICAgICAgICBpZiBwLm5hbWUuc3RhcnRzd2l0aCgiLiIpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaWYgcC5pc19kaXIoKToKICAgICAgICAgICAgICAgIHNodXRpbC5jb3B5dHJlZShwLCB0YXJnZXQgLyBwLm5hbWUpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzaHV0aWwuY29weTIocCwgdGFyZ2V0IC8gcC5uYW1lKQogICAgaWYgKGNhcnJ5IC8gInNjcmF0Y2giKS5pc19kaXIoKToKICAgICAgICBzaHV0aWwuY29weXRyZWUoY2FycnkgLyAic2NyYXRjaCIsIHNlc3Npb24gLyAic2NyYXRjaCIsIGRpcnNfZXhpc3Rfb2s9VHJ1ZSkKICAgIHByaW50KGpzb24uZHVtcHMoeyJvayI6IFRydWUsICJyZWFkX29ubHkiOiBUcnVlLCAiY2hlY2twb2ludHMiOiBfY2hlY2twb2ludHModGFyZ2V0KSwKICAgICAgICAgICAgICAgICAgICAgICJzY3JhdGNoX2ZpbGVzIjogc3VtKDEgZm9yIGYgaW4gKHNlc3Npb24gLyAic2NyYXRjaCIpLnJnbG9iKCIqIikgaWYgZi5pc19maWxlKCkpfSkpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBDT01NQU5EUyA9IHsiaW5zdGFsbCI6IGluc3RhbGwsICJzYXZlIjogc2F2ZSwgImNoZWNrIjogY2hlY2ssCiAgICAgICAgICAgICAgICAic2VlZCI6IHNlZWQsICJjaGVjay1ybyI6IGNoZWNrX3JvLCAiaW5zdGFsbC1ybyI6IGluc3RhbGxfcm99CiAgICBpZiBsZW4oc3lzLmFyZ3YpIDwgMiBvciBzeXMuYXJndlsxXSBub3QgaW4gQ09NTUFORFM6CiAgICAgICAgcHJpbnQoX19kb2NfXykKICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KDIpCiAgICBjbWQsIGFyZ3MgPSBzeXMuYXJndlsxXSwgc3lzLmFyZ3ZbMjpdCiAgICByYWlzZSBTeXN0ZW1FeGl0KENPTU1BTkRTW2NtZF0oKmFyZ3MpKQo=
+#!/usr/bin/env python3
+"""Carry the multiple-experience memory state between this framework's per-cycle sessions.
+
+    python3 mx/carry.py install <store> <session> <cycle>   before the session's server starts
+    python3 mx/carry.py save    <store> <session> <cycle>   after the session stopped
+    python3 mx/carry.py check   <store> <cycle>             handoff gate: exit 0 = cycle may start
+
+Read-only reuse (2026-09-11, another model inherits a finished sequence, e.g. terra <- astra):
+    python3 mx/carry.py seed       <source store> <store>   copy a finished store once (SEEDED_FROM.txt)
+    python3 mx/carry.py check-ro   <store>                  exit 0 = the store holds checkpoints
+    python3 mx/carry.py install-ro <store> <session>        every checkpoint + the shared scratch; a fresh
+                                                           stage record; nothing is ever saved back
+
+The original multiple-experience runtime ran all five cycles in ONE session, so every fresh agent saw that session's
+experience/ (all checkpoints), the shared scratch/ (attempts.md, scripts, measurements, earlier
+round reports) and the stage records (episodes.jsonl / episodes.json). Here every cycle has its
+own session: install copies the state the last committed cycle left into the new session, save
+copies it back out only when this session committed its checkpoint (a cycle without a checkpoint
+leaves the carried state untouched, so a re-run of that cycle starts from the same state).
+frames/ is not carried: later agents never opened an earlier cycle's frames (checked on the reference
+five-fresh-agent session, 2026-09-11).
+
+Store layout (<store> = paper_runs/<task>_<batch>/mx):
+  experience/            cycle_NN/{memory.json, artifacts/}, latest.json, metrics.json, metrics.csv
+  carry/scratch/         the shared scratch as the last committed cycle left it
+  carry/episodes.jsonl   stage records of all committed cycles (incl. their failed attempts)
+  carry/command_metrics.jsonl, carry/rounds.jsonl   inputs of experience/metrics.json
+"""
+
+import json
+from pathlib import Path
+import shutil
+import sys
+import time
+import uuid
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from mx.cycle_dataset import progress, _write  # noqa: E402
+
+CARRIED = ("episodes.jsonl", "command_metrics.jsonl", "rounds.jsonl")
+
+
+def _checkpoints(experience):
+    return sorted(p.name for p in Path(experience).glob("cycle_[0-9][0-9]") if (p / "memory.json").is_file())
+
+
+def install(store, session, cycle):
+    store, session, cycle = Path(store), Path(session), int(cycle)
+    exp, carry = store / "experience", store / "carry"
+    target = session / "experience"
+    target.mkdir(parents=True, exist_ok=True)
+    if exp.is_dir():
+        for p in sorted(exp.iterdir()):
+            if p.name.startswith("."):
+                continue
+            if p.is_dir():
+                shutil.copytree(p, target / p.name)
+            else:
+                shutil.copy2(p, target / p.name)
+    if (carry / "scratch").is_dir():
+        shutil.copytree(carry / "scratch", session / "scratch", dirs_exist_ok=True)
+    for name in CARRIED:
+        if (carry / name).is_file():
+            shutil.copy2(carry / name, session / name)
+    state = progress(session)
+    if (session / "episodes.jsonl").exists():
+        _write(session / "episodes.json", state)
+    out = {
+        "ok": True,
+        "cycle": cycle,
+        "checkpoints": _checkpoints(target),
+        "completed_cycles": state["completed_cycles"],
+        "scratch_files": sum(1 for f in (session / "scratch").rglob("*") if f.is_file()),
+    }
+    print(json.dumps(out))
+    return 0
+
+
+def save(store, session, cycle):
+    store, session, cycle = Path(store), Path(session), int(cycle)
+    folder = session / "experience" / f"cycle_{cycle:02d}"
+    if not (folder / "memory.json").is_file():
+        print(json.dumps({"ok": False, "cycle": cycle,
+                          "note": "no checkpoint committed in this session; carried state left unchanged"}))
+        return 0
+    exp = store / "experience"
+    exp.mkdir(parents=True, exist_ok=True)
+    have = _checkpoints(exp)
+    if f"cycle_{cycle:02d}" in have or len(have) != cycle - 1:
+        print(json.dumps({"ok": False, "cycle": cycle, "error": f"store holds {have}; cycle {cycle} not saved"}))
+        return 3
+    pending = exp / f".pending_{uuid.uuid4().hex}"
+    shutil.copytree(folder, pending)
+    pending.rename(exp / folder.name)
+    for name in ("latest.json", "metrics.json", "metrics.csv"):
+        src = session / "experience" / name
+        if src.is_file():
+            shutil.copy2(src, exp / name)
+    carry = store / "carry"
+    carry.mkdir(exist_ok=True)
+    fresh = carry / f".scratch_{uuid.uuid4().hex}"
+    shutil.copytree(session / "scratch", fresh, ignore=shutil.ignore_patterns("__pycache__"))
+    if (carry / "scratch").exists():
+        shutil.rmtree(carry / "scratch")
+    fresh.rename(carry / "scratch")
+    # the agent's last event = its exit; the next cycle's between_cycle_s counts this agent's time after
+    # its checkpoint, as the original contiguous interval does (mx/experience.py metrics)
+    events = session / "agent_events.jsonl"
+    if events.is_file():
+        with (session / "rounds.jsonl").open("a") as stream:
+            stream.write(json.dumps({"cycle": cycle, "session": session.name,
+                                     "agent_exit_wall_time_ns": events.stat().st_mtime_ns}) + "\n")
+    for name in CARRIED:
+        if (session / name).is_file():
+            shutil.copy2(session / name, carry / name)
+    print(json.dumps({"ok": True, "cycle": cycle, "checkpoints": _checkpoints(exp),
+                      "scratch_files": sum(1 for f in (carry / "scratch").rglob("*") if f.is_file())}))
+    return 0
+
+
+def check(store, cycle):
+    """The original verify_handoff(session, cycle - 1), on the carried state."""
+    store, cycle = Path(store), int(cycle)
+    completed = cycle - 1
+    have = _checkpoints(store / "experience")
+    state = progress(store / "carry")          # reads carry/episodes.jsonl
+    history = [json.loads((store / "experience" / n / "memory.json").read_text())["cycle"] for n in have]
+    ok = (state["completed_cycles"] == completed and state["successful_stages"] == completed
+          and not state["open_segment"] and history == list(range(1, completed + 1)))
+    msg = (f"cycle {cycle}: checkpoints {history}, completed stages {state['successful_stages']}, "
+           f"open segment {state['open_segment']}")
+    if not ok:
+        print(f"cycle {completed} requires completed stages and a saved experience checkpoint ({msg})")
+        return 3
+    print(f"handoff ok for {msg}")
+    return 0
+
+
+def seed(source, store):
+    """Copy a finished store (its checkpoints and carried scratch) once into a read-only batch."""
+    source, store = Path(source), Path(store)
+    have = _checkpoints(source / "experience")
+    if not have:
+        print(f"[seed] no committed checkpoints at {source / 'experience'}")
+        return 2
+    if _checkpoints(store / "experience"):
+        print(f"[seed] target store already has checkpoints: {store}")
+        return 3
+    store.mkdir(parents=True, exist_ok=True)
+    for name in ("experience", "carry"):
+        if (source / name).is_dir():
+            shutil.copytree(source / name, store / name, dirs_exist_ok=True)
+    (store / "SEEDED_FROM.txt").write_text(
+        f"seeded_from: {source}\ndate: {time.strftime('%Y-%m-%d %H:%M:%S')}\ncheckpoints: {' '.join(have)}\n")
+    print(f"[seed] {store} <- {source} ({len(have)} checkpoint(s))")
+    return 0
+
+
+def check_ro(store):
+    have = _checkpoints(Path(store) / "experience")
+    if not have:
+        print(f"no checkpoints in {Path(store) / 'experience'}: seed it first (--knowledge-from <batch>)")
+        return 3
+    print(f"read-only reuse of {len(have)} checkpoint(s) {have}")
+    return 0
+
+
+def install_ro(store, session):
+    """Every checkpoint and the shared scratch the finished sequence left. The stage record starts fresh
+    (this session's own assembly is its cycle 1) and nothing is saved back on stop."""
+    store, session = Path(store), Path(session)
+    exp, carry = store / "experience", store / "carry"
+    target = session / "experience"
+    target.mkdir(parents=True, exist_ok=True)
+    if exp.is_dir():
+        for p in sorted(exp.iterdir()):
+            if p.name.startswith("."):
+                continue
+            if p.is_dir():
+                shutil.copytree(p, target / p.name)
+            else:
+                shutil.copy2(p, target / p.name)
+    if (carry / "scratch").is_dir():
+        shutil.copytree(carry / "scratch", session / "scratch", dirs_exist_ok=True)
+    print(json.dumps({"ok": True, "read_only": True, "checkpoints": _checkpoints(target),
+                      "scratch_files": sum(1 for f in (session / "scratch").rglob("*") if f.is_file())}))
+    return 0
+
+
+if __name__ == "__main__":
+    COMMANDS = {"install": install, "save": save, "check": check,
+                "seed": seed, "check-ro": check_ro, "install-ro": install_ro}
+    if len(sys.argv) < 2 or sys.argv[1] not in COMMANDS:
+        print(__doc__)
+        raise SystemExit(2)
+    cmd, args = sys.argv[1], sys.argv[2:]
+    raise SystemExit(COMMANDS[cmd](*args))

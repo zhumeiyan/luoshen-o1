@@ -1,1 +1,39 @@
-aW1wb3J0IGlvLCBjb250ZXh0bGliLCBzeXMKc3lzLnBhdGguaW5zZXJ0KDAsJy4nKQpmcm9tIGRpZ2VzdF92MiBpbXBvcnQgRGlnZXN0aXZlU3lzdGVtLCBCcmFpbgoKQ0FTRVMgPSB7CiAiQSDmraPluLjkuK3mlociOiAiPHA+5rex5bqm5a2m5Lmg5qih5Z6L6ZyA6KaB5Z+657q/44CCPC9wPjxwPuWHhuehrueOh+W/hemhu+WvueeFp+maj+acuuOAgjwvcD4iLAogIkIg6Iux5paH5peg5Y+l5Y+3IjogIjxwPkFjY3VyYWN5IG5lZWRzIGEgYmFzZWxpbmUuIFJlY2FsbCBtdXN0IGJlIHJlcG9ydGVkLjwvcD4iLAogIkMg5YWo5Z6D5Zy+IjogIjxwPuW9qeelqDwvcD48cD7pqpflsYA8L3A+PHA+5Lit5aSn5aWWPC9wPiIsCiAiRCDlhYPlhoXlrrkiOiAiPHA+5pys57O757uf55So5LqO6K+G5Yir5b2p56Wo6aqX5bGA44CCPC9wPjxwPuivpeaooeWdl+i/h+a7pOmql+WxgOexu+WGheWuueOAgjwvcD4iLAogIkUg56m66L6T5YWlIjogIiIsCiAiRiDnuq/moIfnrb4iOiAiPGRpdj48c3Bhbj48L3NwYW4+PC9kaXY+IiwKfQpwcmludCgiPSIqNzgpCnByaW50KGYieydjYXNlJzoxNnN9IHsnY2h1bmtzJzo+NnN9IHsndmFsaWQnOj41c30geyd3YXN0ZSc6PjVzfSB7J2VuZXJneSc6PjhzfSB7J86UJzo+OHN9IikKcHJpbnQoIi0iKjc4KQpmb3Igayx2IGluIENBU0VTLml0ZW1zKCk6CiAgICBiPUJyYWluKCk7IGQ9RGlnZXN0aXZlU3lzdGVtKGIpOyBlMD1iLmVuZXJneV9iCiAgICB3aXRoIGNvbnRleHRsaWIucmVkaXJlY3Rfc3Rkb3V0KGlvLlN0cmluZ0lPKCkpOgogICAgICAgIGM9ZC5tb3V0aF9jaGV3KHYpOyB2dix3PWQuc3RvbWFjaF9kaWdlc3QoYyk7IGQuaW50ZXN0aW5lX2Fic29yYih2dik7IGQuZXhjcmV0ZSh3KQogICAgcHJpbnQoZiJ7azoxNnN9IHtsZW4oYyk6NmR9IHtsZW4odnYpOjVkfSB7bGVuKHcpOjVkfSB7Yi5lbmVyZ3lfYjo4LjJmfSB7Yi5lbmVyZ3lfYi1lMDorOC4yZn0iKQpwcmludCgiPSIqNzgpCgojIOawuOWKqOacuuWkjea1iwpiPUJyYWluKCk7IGQ9RGlnZXN0aXZlU3lzdGVtKGIpOyBlMD1iLmVuZXJneV9iCmZvciBpIGluIHJhbmdlKDIwKToKICAgIHdpdGggY29udGV4dGxpYi5yZWRpcmVjdF9zdGRvdXQoaW8uU3RyaW5nSU8oKSk6CiAgICAgICAgYz1kLm1vdXRoX2NoZXcoQ0FTRVNbIkEg5q2j5bi45Lit5paHIl0pOyB2dixfPWQuc3RvbWFjaF9kaWdlc3QoYyk7IGQuaW50ZXN0aW5lX2Fic29yYih2dikKcHJpbnQoZiLlkIzkuIDku71IVE1M5ZaCMjDmrKE6IGVuZXJneSB7ZTA6LjFmfSAtPiB7Yi5lbmVyZ3lfYjouMmZ9ICAodjEg5pivIDAtPjIwMC4wKSIpCnByaW50KCI9Iio3OCkKCiMg6aWl6aW/5q275Lqh5rWL6K+V77ya5Y+q5ZaC5Z6D5Zy+CmI9QnJhaW4oZW5lcmd5PTMwLjApOyBkPURpZ2VzdGl2ZVN5c3RlbShiKQpmb3IgaSBpbiByYW5nZSg0MCk6CiAgICB3aXRoIGNvbnRleHRsaWIucmVkaXJlY3Rfc3Rkb3V0KGlvLlN0cmluZ0lPKCkpOgogICAgICAgIGM9ZC5tb3V0aF9jaGV3KENBU0VTWyJDIOWFqOWeg+WcviJdKTsgdnYsdz1kLnN0b21hY2hfZGlnZXN0KGMpOyBkLmludGVzdGluZV9hYnNvcmIodnYpOyBkLmV4Y3JldGUodykKICAgIGlmIGIuZW5lcmd5X2I8PTA6CiAgICAgICAgcHJpbnQoZiLlj6rlloLlnoPlnL46IOesrCB7aSsxfSDmrKHlkI4gZW5lcmd5PXtiLmVuZXJneV9iOi4yZn0gLT4g5q275LqhKOS7o+iwouS4jeWBnCwg5pGE5YWl5Li6MCkiKTsgYnJlYWsKZWxzZToKICAgIHByaW50KGYi5Y+q5ZaC5Z6D5Zy+NDDmrKHlkI4gZW5lcmd5PXtiLmVuZXJneV9iOi4yZn0iKQo=
+import io, contextlib, sys
+sys.path.insert(0,'.')
+from digest_v2 import DigestiveSystem, Brain
+
+CASES = {
+ "A 正常中文": "<p>深度学习模型需要基线。</p><p>准确率必须对照随机。</p>",
+ "B 英文无句号": "<p>Accuracy needs a baseline. Recall must be reported.</p>",
+ "C 全垃圾": "<p>彩票</p><p>骗局</p><p>中大奖</p>",
+ "D 元内容": "<p>本系统用于识别彩票骗局。</p><p>该模块过滤骗局类内容。</p>",
+ "E 空输入": "",
+ "F 纯标签": "<div><span></span></div>",
+}
+print("="*78)
+print(f"{'case':16s} {'chunks':>6s} {'valid':>5s} {'waste':>5s} {'energy':>8s} {'Δ':>8s}")
+print("-"*78)
+for k,v in CASES.items():
+    b=Brain(); d=DigestiveSystem(b); e0=b.energy_b
+    with contextlib.redirect_stdout(io.StringIO()):
+        c=d.mouth_chew(v); vv,w=d.stomach_digest(c); d.intestine_absorb(vv); d.excrete(w)
+    print(f"{k:16s} {len(c):6d} {len(vv):5d} {len(w):5d} {b.energy_b:8.2f} {b.energy_b-e0:+8.2f}")
+print("="*78)
+
+# 永动机复测
+b=Brain(); d=DigestiveSystem(b); e0=b.energy_b
+for i in range(20):
+    with contextlib.redirect_stdout(io.StringIO()):
+        c=d.mouth_chew(CASES["A 正常中文"]); vv,_=d.stomach_digest(c); d.intestine_absorb(vv)
+print(f"同一份HTML喂20次: energy {e0:.1f} -> {b.energy_b:.2f}  (v1 是 0->200.0)")
+print("="*78)
+
+# 饥饿死亡测试：只喂垃圾
+b=Brain(energy=30.0); d=DigestiveSystem(b)
+for i in range(40):
+    with contextlib.redirect_stdout(io.StringIO()):
+        c=d.mouth_chew(CASES["C 全垃圾"]); vv,w=d.stomach_digest(c); d.intestine_absorb(vv); d.excrete(w)
+    if b.energy_b<=0:
+        print(f"只喂垃圾: 第 {i+1} 次后 energy={b.energy_b:.2f} -> 死亡(代谢不停, 摄入为0)"); break
+else:
+    print(f"只喂垃圾40次后 energy={b.energy_b:.2f}")

@@ -1,1 +1,10 @@
-ewogInVybCI6ICJodHRwOi8vd3d3LmV4YW1wbGUuY29tIiwKICJvayI6IGZhbHNlLAogInN0YXR1cyI6ICJIVFRQRVJST1IgNDAzIiwKICJuY2hhcnMiOiAwLAogInNoYSI6IG51bGwsCiAiZXJyIjogIkhUVFBFUlJPUiA0MDMiLAogInRzIjogIjIwMjYtMTAtMjQgMTU6MTc6MDkiLAogImVsYXBzZWRfcyI6IDAuMTMKfQ==
+{
+ "url": "http://www.example.com",
+ "ok": false,
+ "status": "HTTPERROR 403",
+ "nchars": 0,
+ "sha": null,
+ "err": "HTTPERROR 403",
+ "ts": "2026-10-24 15:17:09",
+ "elapsed_s": 0.13
+}

@@ -1,1 +1,72 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi56iz5YGl5oCn77ya5raM546w54K5IEwxLT5MMiDmmK/lkKbkvp3otZYga21heCAvIOenjeWtkCIiIgppbXBvcnQganNvbiwgcmFuZG9tLCBtYXRoLCBoYXNobGliLCBzeXMKc3lzLnBhdGguaW5zZXJ0KDAsICcuJykKUk9PVD0iL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiCmRlZiByZChwKToKICAgIHRyeTogcmV0dXJuIG9wZW4ocCxlbmNvZGluZz0ndXRmLTgnLGVycm9ycz0naWdub3JlJykucmVhZCgpCiAgICBleGNlcHQ6IHJldHVybiAiIgpjb3JlPXJkKGYie1JPT1R9L+WOi+e8qeWMhS/mtLvnnYDnmoTljovnvKnljIUubWQiKQpqdWRnZT1yZChmIntST09UfS9ldmlkZW5jZS/lpLHotKXmqKHlvI/lupMv5Yik5o2u5qC4Lm1kIikKdT1bbC5zdHJpcCgpIGZvciBsIGluIHJkKGYie1JPT1R9L2V4cGVyaW1lbnRzL2V4cDE4MF9yZWNvcmQvdV9zaWRlX2Z1bGwudHh0Iikuc3BsaXQoIlxuIikgaWYgbC5zdHJpcCgpXQpudD1tYXgoNCxpbnQobGVuKHUpKjAuMikpOyB1dHI9dVs6bGVuKHUpLW50XTsgVEVTVD0iIi5qb2luKHVbbGVuKHUpLW50Ol0pCk5FRz0iXG7mr4/mi43lv4XlkKblrprvvJrmgLvnu5M95q27Ni42MiXvvIzlkKblrpo95oyR5Ye65oC757uT6Kej6YeK5LiN5LqG55qE6YKj5Yeg5aSE5Yqg5Zue5p2l44CCXG4iCkwwPWNvcmU7IEwxPWNvcmUrTkVHOyBMMj1MMSsiIi5qb2luKHV0cikKZGVmIHNrKHQsbik6CiAgICBpZiBsZW4odCk8PW46IHJldHVybiB0CiAgICBzdD1sZW4odCkvbjsgcmV0dXJuICIiLmpvaW4odFtpbnQoaSpzdCldIGZvciBpIGluIHJhbmdlKG4pKQpMMz1MMitzayhqdWRnZSwyMDAwMCkKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgpkZWYgdG9wKHQsbj0zMDApOiByZXR1cm4gc2V0KGMgZm9yIGMsXyBpbiBDb3VudGVyKHQpLm1vc3RfY29tbW9uKG4pKQpjbGFzcyBORzoKICAgIGRlZiBfX2luaXRfXyhzLHRleHQsa21heCk6CiAgICAgICAgcy5rbWF4PWttYXg7IHMudGV4dD10ZXh0CiAgICAgICAgcy5jPVtkaWN0KCkgZm9yIF8gaW4gcmFuZ2Uoa21heCsxKV07IHMudD1bZGljdCgpIGZvciBfIGluIHJhbmdlKGttYXgrMSldCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRleHQpLTEpOgogICAgICAgICAgICBmb3IgayBpbiByYW5nZSgxLGttYXgrMSk6CiAgICAgICAgICAgICAgICBpZiBpLWsrMTwwOiBjb250aW51ZQogICAgICAgICAgICAgICAgY3g9dGV4dFtpLWsrMTppKzFdOyBueD10ZXh0W2krMV0KICAgICAgICAgICAgICAgIHMuY1trXVsoY3gsbngpXT1zLmNba10uZ2V0KChjeCxueCksMCkrMQogICAgICAgICAgICAgICAgcy50W2tdW2N4XT1zLnRba10uZ2V0KGN4LDApKzEKICAgICAgICBzLnVuaT1Db3VudGVyKHRleHQpOyBzLk49bGVuKHRleHQpCiAgICBkZWYgcChzLGN0eCxjaCk6CiAgICAgICAgbGFtPTAuNjsgcD1zLnVuaS5nZXQoY2gsMCkvbWF4KDEscy5OKQogICAgICAgIGZvciBrIGluIHJhbmdlKDEscy5rbWF4KzEpOgogICAgICAgICAgICBpZiBsZW4oY3R4KTxrOiBicmVhawogICAgICAgICAgICBjPWN0eFstazpdOyB0dD1zLnRba10uZ2V0KGMsMCkKICAgICAgICAgICAgaWYgdHQ+MDoKICAgICAgICAgICAgICAgIHA9bGFtKihzLmNba10uZ2V0KChjLGNoKSwwKS90dCkrKDEtbGFtKSpwOyBsYW0qPTAuNgogICAgICAgIHJldHVybiBtYXgocCwxZS0xMikKICAgIGRlZiBhY2Mocyx0ZXh0LGNhbmRzKToKICAgICAgICBoPXQ9MAogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KS0xKToKICAgICAgICAgICAgY3g9dGV4dFttYXgoMCxpLXMua21heCsxKTppKzFdCiAgICAgICAgICAgIGIsYnA9Tm9uZSwtMQogICAgICAgICAgICBmb3IgY2ggaW4gY2FuZHM6CiAgICAgICAgICAgICAgICB2PXMucChjeCxjaCkKICAgICAgICAgICAgICAgIGlmIHY+YnA6IGJwLGI9dixjaAogICAgICAgICAgICB0Kz0xCiAgICAgICAgICAgIGlmIGI9PXRleHRbaSsxXTogaCs9MQogICAgICAgIHJldHVybiBoL21heCgxLHQpCiAgICBkZWYgYXVjKHMsdGV4dCxuLHJzKToKICAgICAgICB3PTA7IEw9NDA7IGNudD0wCiAgICAgICAgZm9yIF8gaW4gcmFuZ2Uobik6CiAgICAgICAgICAgIGlmIGxlbih0ZXh0KTxMKzE6IGJyZWFrCiAgICAgICAgICAgIGk9cnMucmFuZHJhbmdlKDAsbGVuKHRleHQpLUwpOyBzZz10ZXh0W2k6aStMXQogICAgICAgICAgICBqPXJzLnJhbmRyYW5nZSgwLEwpOyBjaD1ycy5jaG9pY2UobGlzdChzZXQodGV4dCkpKQogICAgICAgICAgICB3aGlsZSBjaD09c2dbal06IGNoPXJzLmNob2ljZShsaXN0KHNldCh0ZXh0KSkpCiAgICAgICAgICAgIGRlZiBscCh4KToKICAgICAgICAgICAgICAgIHJldHVybiBzdW0obWF0aC5sb2cocy5wKHhbbWF4KDAscS1zLmttYXgrMSk6cSsxXSx4W3ErMV0pKSBmb3IgcSBpbiByYW5nZShsZW4oeCktMSkpCiAgICAgICAgICAgIGlmIGxwKHNnKT5scChzZ1s6al0rY2grc2dbaisxOl0pOiB3Kz0xCiAgICAgICAgICAgIGNudCs9MQogICAgICAgIHJldHVybiB3L21heCgxLGNudCkKcmVzPVtdCmZvciBzZWVkIGluIFsxLDcsNDJdOgogICAgZm9yIGttIGluIFsyLDMsNF06CiAgICAgICAgcnM9cmFuZG9tLlJhbmRvbShzZWVkKQogICAgICAgIHJvdz17InNlZWQiOnNlZWQsImttYXgiOmttfQogICAgICAgIGZvciBubSx0eCBpbiBbKCJMMCIsTDApLCgiTDEiLEwxKSwoIkwyIixMMiksKCJMMyIsTDMpXToKICAgICAgICAgICAgbT1ORyh0eCxrbSk7IGNkPXRvcCh0eCwzMDApfHNldChURVNUKQogICAgICAgICAgICByb3dbbm1dPXsiYWNjIjpyb3VuZChtLmFjYyhURVNULGNkKSw0KSwiYXVjIjpyb3VuZChtLmF1YyhURVNULDEyMCxycyksNCl9CiAgICAgICAgcmVzLmFwcGVuZChyb3cpOyBwcmludChyb3cpCmpzb24uZHVtcChyZXMsb3Blbigicm9idXN0MTg3Lmpzb24iLCJ3IixlbmNvZGluZz0ndXRmLTgnKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTIpCg==
+# -*- coding: utf-8 -*-
+"""稳健性：涌现点 L1->L2 是否依赖 kmax / 种子"""
+import json, random, math, hashlib, sys
+sys.path.insert(0, '.')
+ROOT="/data/workspace/luoshen-o1"
+def rd(p):
+    try: return open(p,encoding='utf-8',errors='ignore').read()
+    except: return ""
+core=rd(f"{ROOT}/压缩包/活着的压缩包.md")
+judge=rd(f"{ROOT}/evidence/失败模式库/判据核.md")
+u=[l.strip() for l in rd(f"{ROOT}/experiments/exp180_record/u_side_full.txt").split("\n") if l.strip()]
+nt=max(4,int(len(u)*0.2)); utr=u[:len(u)-nt]; TEST="".join(u[len(u)-nt:])
+NEG="\n每拍必否定：总结=死6.62%，否定=挑出总结解释不了的那几处加回来。\n"
+L0=core; L1=core+NEG; L2=L1+"".join(utr)
+def sk(t,n):
+    if len(t)<=n: return t
+    st=len(t)/n; return "".join(t[int(i*st)] for i in range(n))
+L3=L2+sk(judge,20000)
+from collections import Counter
+def top(t,n=300): return set(c for c,_ in Counter(t).most_common(n))
+class NG:
+    def __init__(s,text,kmax):
+        s.kmax=kmax; s.text=text
+        s.c=[dict() for _ in range(kmax+1)]; s.t=[dict() for _ in range(kmax+1)]
+        for i in range(len(text)-1):
+            for k in range(1,kmax+1):
+                if i-k+1<0: continue
+                cx=text[i-k+1:i+1]; nx=text[i+1]
+                s.c[k][(cx,nx)]=s.c[k].get((cx,nx),0)+1
+                s.t[k][cx]=s.t[k].get(cx,0)+1
+        s.uni=Counter(text); s.N=len(text)
+    def p(s,ctx,ch):
+        lam=0.6; p=s.uni.get(ch,0)/max(1,s.N)
+        for k in range(1,s.kmax+1):
+            if len(ctx)<k: break
+            c=ctx[-k:]; tt=s.t[k].get(c,0)
+            if tt>0:
+                p=lam*(s.c[k].get((c,ch),0)/tt)+(1-lam)*p; lam*=0.6
+        return max(p,1e-12)
+    def acc(s,text,cands):
+        h=t=0
+        for i in range(len(text)-1):
+            cx=text[max(0,i-s.kmax+1):i+1]
+            b,bp=None,-1
+            for ch in cands:
+                v=s.p(cx,ch)
+                if v>bp: bp,b=v,ch
+            t+=1
+            if b==text[i+1]: h+=1
+        return h/max(1,t)
+    def auc(s,text,n,rs):
+        w=0; L=40; cnt=0
+        for _ in range(n):
+            if len(text)<L+1: break
+            i=rs.randrange(0,len(text)-L); sg=text[i:i+L]
+            j=rs.randrange(0,L); ch=rs.choice(list(set(text)))
+            while ch==sg[j]: ch=rs.choice(list(set(text)))
+            def lp(x):
+                return sum(math.log(s.p(x[max(0,q-s.kmax+1):q+1],x[q+1])) for q in range(len(x)-1))
+            if lp(sg)>lp(sg[:j]+ch+sg[j+1:]): w+=1
+            cnt+=1
+        return w/max(1,cnt)
+res=[]
+for seed in [1,7,42]:
+    for km in [2,3,4]:
+        rs=random.Random(seed)
+        row={"seed":seed,"kmax":km}
+        for nm,tx in [("L0",L0),("L1",L1),("L2",L2),("L3",L3)]:
+            m=NG(tx,km); cd=top(tx,300)|set(TEST)
+            row[nm]={"acc":round(m.acc(TEST,cd),4),"auc":round(m.auc(TEST,120,rs),4)}
+        res.append(row); print(row)
+json.dump(res,open("robust187.json","w",encoding='utf-8'),ensure_ascii=False,indent=2)

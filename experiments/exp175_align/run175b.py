@@ -1,1 +1,164 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTc1Yjog5Lik5Liq6KGl5YWFCjEpIOWvuem9kOeoi+W6puaJq+aPjzog5oiR5Y+q55yL6KeB5L2g55qE5LiA6YOo5YiGKHAlKSwg6aKE5rWL5Yqb5oCO5LmI5Y+YIC0+IOWvuem9kOeahOi+uemZheaUtuebiuabsue6vwoyKSDmnaHku7bnhrXlvZLkuIDljJY6IOaOkumZpOivjeaxh+Wkmuagt+aAp+a3t+a3hiwg55SoIChIMCAtIEhrKS9IMCDmr5TovoMgVS9NIOS4pOS+p+eahCLooqvljoblj7LnuqbmnZ/nqIvluqYiCiAgIOW5tuS/ruatoyAxNzVhIOmHjCBwcGwg6KKr5Zue6YCA56iA6YeK5aSx55yf55qE6Zeu6aKYKOaUueeUqCBzdHVwaWQgYmFja29mZiwg5LiN56iA6YeKKQoiIiIKaW1wb3J0IGpzb24sIG1hdGgsIG9zCgpCQVNFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCktFRVAgPSBzZXQoJ++8jOOAgu+8n++8geOAge+8mu+8myIiJyfvvIjvvInigJTigKbCtycpCgpkZWYgY2xlYW4ocyk6CiAgICBvdXQgPSBbXQogICAgZm9yIGNoIGluIHM6CiAgICAgICAgaWYgY2guaXNzcGFjZSgpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmICdcdTRlMDAnIDw9IGNoIDw9ICdcdTlmZmYnIG9yIGNoLmlzYWxudW0oKSBvciBjaCBpbiBLRUVQOgogICAgICAgICAgICBvdXQuYXBwZW5kKGNoKQogICAgcmV0dXJuICcnLmpvaW4ob3V0KQoKVSA9IGNsZWFuKG9wZW4ob3MucGF0aC5qb2luKEJBU0UsJ3Vfc2lkZS50eHQnKSwgZW5jb2Rpbmc9J3V0Zi04JykucmVhZCgpKQpNcmF3ID0gY2xlYW4ob3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCcsIGVuY29kaW5nPSd1dGYtOCcpLnJlYWQoKSkKTSA9IE1yYXdbOmxlbihVKV0KCmRlZiBidWlsZCh0ZXh0LCBrKToKICAgIGQgPSB7fQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRleHQpLWspOgogICAgICAgIGMgPSB0ZXh0W2k6aStrXTsgbiA9IHRleHRbaStrXQogICAgICAgIGQuc2V0ZGVmYXVsdChjLCB7fSkuc2V0ZGVmYXVsdChuLCAwKQogICAgICAgIGRbY11bbl0gKz0gMQogICAgcmV0dXJuIGQKCmRlZiB1bmlncmFtKHRleHQpOgogICAgZCA9IHt9CiAgICBmb3IgY2ggaW4gdGV4dDoKICAgICAgICBkW2NoXSA9IGQuZ2V0KGNoLDApKzEKICAgIHJldHVybiBkCgpkZWYgZW50cm9weShjb3VudGVyKToKICAgIHRvdCA9IHN1bShjb3VudGVyLnZhbHVlcygpKQogICAgaCA9IDAuMAogICAgZm9yIG4gaW4gY291bnRlci52YWx1ZXMoKToKICAgICAgICBwID0gbi90b3QKICAgICAgICBoIC09IHAqbWF0aC5sb2cyKHApCiAgICByZXR1cm4gaAoKZGVmIGV2YWxfYmFja29mZihtb2RlbHMsIHVnLCB0ZXN0LCBrLCBiYWNrb2ZmX3c9MC40KToKICAgICIiInN0dXBpZCBiYWNrb2ZmOiDlkb3kuK3mnIDpq5jpmLblsLHnlKjlroMsIOacquWRveS4remAkOe6p+WbnumAgCjkuZjmg6nnvZopLCDkuI3nqIDph4ogLT4gcHBsIOWPr+S/oSIiIgogICAgY29ycmVjdD0wOyB0b3RhbD0wOyBsb2dwPTAuMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRlc3QpLWspOgogICAgICAgIGN0eCA9IHRlc3RbaTppK2tdOyBueHQgPSB0ZXN0W2kra10KICAgICAgICBwcm9icz1Ob25lOyB3PTEuMAogICAgICAgIGZvciBrayBpbiByYW5nZShrLDAsLTEpOgogICAgICAgICAgICBzdWIgPSBjdHhbLWtrOl0KICAgICAgICAgICAgbSA9IG1vZGVsc1tray0xXQogICAgICAgICAgICBpZiBzdWIgaW4gbToKICAgICAgICAgICAgICAgIGMgPSBtW3N1Yl07IHRvdD1zdW0oYy52YWx1ZXMoKSk7IFY9bGVuKHVnKQogICAgICAgICAgICAgICAgcHJvYnMgPSB7fQogICAgICAgICAgICAgICAgZm9yIGNoIGluIHVnOgogICAgICAgICAgICAgICAgICAgIHByb2JzW2NoXSA9IHcqKGMuZ2V0KGNoLDApKzAuMDUpLyh0b3QrMC4wNSpWKQogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgdyAqPSBiYWNrb2ZmX3cKICAgICAgICBpZiBwcm9icyBpcyBOb25lOgogICAgICAgICAgICB0b3Q9c3VtKHVnLnZhbHVlcygpKQogICAgICAgICAgICBwcm9icyA9IHtjaDogbi90b3QgZm9yIGNoLG4gaW4gdWcuaXRlbXMoKX0KICAgICAgICBiZXN0ID0gbWF4KHByb2JzLml0ZW1zKCksIGtleT1sYW1iZGEgeDp4WzFdKVswXQogICAgICAgIHRvdGFsICs9IDEKICAgICAgICBpZiBiZXN0ID09IG54dDogY29ycmVjdCArPSAxCiAgICAgICAgcCA9IG1heChwcm9icy5nZXQobnh0LDAuMCksIDFlLTEyKQogICAgICAgIGxvZ3AgKz0gbWF0aC5sb2cyKHApCiAgICBpZiB0b3RhbD09MDogcmV0dXJuIDAuMCwwLjAsMC4wLDAKICAgIGFjYyA9IGNvcnJlY3QvdG90YWwKICAgIGNlICA9IC1sb2dwL3RvdGFsICAgICAgICAgICAgIyBiaXRzL2NoYXIg5Lqk5Y+J54a1CiAgICBwcGwgPSAyKipjZQogICAgcmV0dXJuIGFjYywgY2UsIHBwbCwgdG90YWwKCmRlZiBob2xkb3V0KHRleHQsIHJhdGlvPTAuMjUpOgogICAgbj1sZW4odGV4dCk7IHRuPWludChuKnJhdGlvKQogICAgcmV0dXJuIHRleHRbOm4tdG5dLCB0ZXh0W24tdG46XQoKZGVmIG1haW4oKToKICAgIGttYXg9NgogICAgVXRyX2Z1bGwsIFV0ZSA9IGhvbGRvdXQoVSkKICAgIE10cl9mdWxsLCBNdGUgPSBob2xkb3V0KE0pCiAgICBvdXQ9eydtZXRhJzp7J2xlbl9VJzpsZW4oVSksJ2xlbl9NJzpsZW4oTSksCiAgICAgICAgICAgICAgICAgJ1VfdHJhaW4nOmxlbihVdHJfZnVsbCksJ1VfdGVzdCc6bGVuKFV0ZSksCiAgICAgICAgICAgICAgICAgJ01fdHJhaW4nOmxlbihNdHJfZnVsbCksJ01fdGVzdCc6bGVuKE10ZSl9fQoKICAgICMgLS0tLSAxKSDlr7npvZDnqIvluqbmiavmj48gLS0tLQogICAgIyB0cmFpbiDlj5YgVV90cmFpbl9mdWxsIOeahOWJjSBwJQogICAgc2Nhbj17fQogICAgZm9yIHAgaW4gWzUsMTAsMjAsMzAsNTAsNzUsMTAwXToKICAgICAgICBudHIgPSBtYXgoMjAwLCBpbnQobGVuKFV0cl9mdWxsKSpwLzEwMCkpCiAgICAgICAgdHIgPSBVdHJfZnVsbFs6bnRyXQogICAgICAgIG1vZGVscz1bYnVpbGQodHIsaykgZm9yIGsgaW4gcmFuZ2UoMSxrbWF4KzEpXQogICAgICAgIHVnPXVuaWdyYW0odHIpCiAgICAgICAgcm93PXt9CiAgICAgICAgZm9yIGsgaW4gcmFuZ2UoMSxrbWF4KzEpOgogICAgICAgICAgICBhY2MsY2UscHBsLHRvdCA9IGV2YWxfYmFja29mZihtb2RlbHMsdWcsVXRlLGspCiAgICAgICAgICAgIHJvd1trXT17J2FjYyc6YWNjLCdjZSc6Y2UsJ3BwbCc6cHBsLCduJzp0b3R9CiAgICAgICAgc2NhbltwXT1yb3cKICAgIG91dFsn5a+56b2Q56iL5bqm5omr5o+PJ109c2NhbgoKICAgICMgLS0tLSAyKSDmnaHku7bnhrXlvZLkuIDljJblr7nnhacgLS0tLQogICAgbm9ybT17fQogICAgZm9yIG5hbWUsKHRyLHRlKSBpbiB7J1UnOihVdHJfZnVsbCxVdGUpLCdNJzooTXRyX2Z1bGwsTXRlKX0uaXRlbXMoKToKICAgICAgICB1Zz11bmlncmFtKHRyKQogICAgICAgIEgwPWVudHJvcHkodWcpCiAgICAgICAgbW9kZWxzPVtidWlsZCh0cixrKSBmb3IgayBpbiByYW5nZSgxLGttYXgrMSldCiAgICAgICAgcm93PXsnSDAnOkgwLCdrJzp7fX0KICAgICAgICBmb3IgayBpbiByYW5nZSgxLGttYXgrMSk6CiAgICAgICAgICAgIGFjYyxjZSxwcGwsdG90PWV2YWxfYmFja29mZihtb2RlbHMsdWcsdGUsaykKICAgICAgICAgICAgcm93WydrJ11ba109eydhY2MnOmFjYywnY2UnOmNlLCdwcGwnOnBwbCwKICAgICAgICAgICAgICAgICAgICAgICAgICfnuqbmnZ/njocnOihIMC1jZSkvSDAgaWYgSDA+MCBlbHNlIDAuMH0KICAgICAgICBub3JtW25hbWVdPXJvdwogICAgb3V0WyflvZLkuIDljJblr7nnhacnXT1ub3JtCgogICAgIyAtLS0tIDMpIOi3qOS+pyjkv67mraMgcHBsKSAtLS0tCiAgICBjcm9zcz17fQogICAgZm9yIG5hbWUsKHRyLHRlKSBpbiB7J1UtPlVf5a+56b2QJzooVXRyX2Z1bGwsVXRlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICdNLT5VX+S4jeWvuem9kCc6KE10cl9mdWxsLFV0ZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAnTS0+TV/oh6rpooTmtYsnOihNdHJfZnVsbCxNdGUpLAogICAgICAgICAgICAgICAgICAgICAgICAgJ1UtPk1f5Y+N5ZCRJzooVXRyX2Z1bGwsTXRlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICdNK1UtPlVf5re35ZCIJzooTXRyX2Z1bGwrVXRyX2Z1bGwsVXRlKX0uaXRlbXMoKToKICAgICAgICB1Zz11bmlncmFtKHRyKQogICAgICAgIG1vZGVscz1bYnVpbGQodHIsaykgZm9yIGsgaW4gcmFuZ2UoMSxrbWF4KzEpXQogICAgICAgIHJvdz17fQogICAgICAgIGZvciBrIGluIHJhbmdlKDEsa21heCsxKToKICAgICAgICAgICAgYWNjLGNlLHBwbCx0b3Q9ZXZhbF9iYWNrb2ZmKG1vZGVscyx1Zyx0ZSxrKQogICAgICAgICAgICByb3dba109eydhY2MnOmFjYywnY2UnOmNlLCdwcGwnOnBwbH0KICAgICAgICBjcm9zc1tuYW1lXT1yb3cKICAgIG91dFsn6Leo5L6nX+S/ruato3BwbCddPWNyb3NzCgogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihCQVNFLCdyZXN1bHQxNzViLmpzb24nKSwndycsZW5jb2Rpbmc9J3V0Zi04JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAob3V0LGYsZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQoKICAgIHByaW50KCc9PSAxKSDlr7npvZDnqIvluqbmiavmj48gKHRyYWluIOWPliBVIOWJjSBwJSwg6aKE5rWLIFUgaGVsZC1vdXQpID09JykKICAgIHByaW50KCclLTZzJyUncCUnLCAnJy5qb2luKCclOXMnJSgnaz0lZCclaykgZm9yIGsgaW4gcmFuZ2UoMSxrbWF4KzEpKSkKICAgIGZvciBwIGluIFs1LDEwLDIwLDMwLDUwLDc1LDEwMF06CiAgICAgICAgcHJpbnQoJyUtNmQnJXAsICcnLmpvaW4oJyU5LjRmJyVzY2FuW3BdW2tdWydhY2MnXSBmb3IgayBpbiByYW5nZSgxLGttYXgrMSkpKQogICAgcHJpbnQoKQogICAgcHJpbnQoJ2s9MiDml7YgYWNjIOmajyBwOicpCiAgICBwcmV2PU5vbmUKICAgIGZvciBwIGluIFs1LDEwLDIwLDMwLDUwLDc1LDEwMF06CiAgICAgICAgYT1zY2FuW3BdWzJdWydhY2MnXQogICAgICAgIGQ9JycgaWYgcHJldiBpcyBOb25lIGVsc2UgJyAo6L656ZmFICUrLjRmKSclKGEtcHJldikKICAgICAgICBwcmludCgnICBwPSUzZCUlICBhY2M9JS40ZiVzJyUocCxhLGQpKTsgcHJldj1hCiAgICBwcmludCgpCiAgICBwcmludCgnPT0gMikg5b2S5LiA5YyW5a+554WnICjmjpLpmaTor43msYflpJrmoLfmgKfmt7fmt4YpID09JykKICAgIGZvciBuYW1lIGluIFsnVScsJ00nXToKICAgICAgICByPW5vcm1bbmFtZV0KICAgICAgICBwcmludCgnICAlcyAgSDAodW5pZ3JhbeeGtSk9JS4zZiBiaXRzJyUobmFtZSxyWydIMCddKSkKICAgICAgICBmb3IgayBpbiByYW5nZSgxLGttYXgrMSk6CiAgICAgICAgICAgIHByaW50KCcgICAgaz0lZCAgY2U9JS4zZiAgcHBsPSUuMWYgIOe6puadn+eOhz0lLjRmJyUoayxyWydrJ11ba11bJ2NlJ10sclsnayddW2tdWydwcGwnXSxyWydrJ11ba11bJ+e6puadn+eOhyddKSkKICAgIHByaW50KCkKICAgIHByaW50KCc9PSAzKSDot6jkvqcgKOS/ruato+WQjueahCBwcGwpID09JykKICAgIHByaW50KCclLTE0cyclJ3BhaXInLCAnJy5qb2luKCclMTBzJyUoJ2s9JWQnJWspIGZvciBrIGluIHJhbmdlKDEsa21heCsxKSksICcgICAocHBsQGs9MiknKQogICAgZm9yIG5hbWUscm93IGluIGNyb3NzLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoJyUtMTRzJyVuYW1lLCAnJy5qb2luKCclMTAuNGYnJXJvd1trXVsnYWNjJ10gZm9yIGsgaW4gcmFuZ2UoMSxrbWF4KzEpKSwgJyAgJS4xZiclcm93WzJdWydwcGwnXSkKCmlmIF9fbmFtZV9fPT0nX19tYWluX18nOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp175b: 两个补充
+1) 对齐程度扫描: 我只看见你的一部分(p%), 预测力怎么变 -> 对齐的边际收益曲线
+2) 条件熵归一化: 排除词汇多样性混淆, 用 (H0 - Hk)/H0 比较 U/M 两侧的"被历史约束程度"
+   并修正 175a 里 ppl 被回退稀释失真的问题(改用 stupid backoff, 不稀释)
+"""
+import json, math, os
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+KEEP = set('，。？！、：；""''（）—…·')
+
+def clean(s):
+    out = []
+    for ch in s:
+        if ch.isspace():
+            continue
+        if '\u4e00' <= ch <= '\u9fff' or ch.isalnum() or ch in KEEP:
+            out.append(ch)
+    return ''.join(out)
+
+U = clean(open(os.path.join(BASE,'u_side.txt'), encoding='utf-8').read())
+Mraw = clean(open('/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md', encoding='utf-8').read())
+M = Mraw[:len(U)]
+
+def build(text, k):
+    d = {}
+    for i in range(len(text)-k):
+        c = text[i:i+k]; n = text[i+k]
+        d.setdefault(c, {}).setdefault(n, 0)
+        d[c][n] += 1
+    return d
+
+def unigram(text):
+    d = {}
+    for ch in text:
+        d[ch] = d.get(ch,0)+1
+    return d
+
+def entropy(counter):
+    tot = sum(counter.values())
+    h = 0.0
+    for n in counter.values():
+        p = n/tot
+        h -= p*math.log2(p)
+    return h
+
+def eval_backoff(models, ug, test, k, backoff_w=0.4):
+    """stupid backoff: 命中最高阶就用它, 未命中逐级回退(乘惩罚), 不稀释 -> ppl 可信"""
+    correct=0; total=0; logp=0.0
+    for i in range(len(test)-k):
+        ctx = test[i:i+k]; nxt = test[i+k]
+        probs=None; w=1.0
+        for kk in range(k,0,-1):
+            sub = ctx[-kk:]
+            m = models[kk-1]
+            if sub in m:
+                c = m[sub]; tot=sum(c.values()); V=len(ug)
+                probs = {}
+                for ch in ug:
+                    probs[ch] = w*(c.get(ch,0)+0.05)/(tot+0.05*V)
+                break
+            w *= backoff_w
+        if probs is None:
+            tot=sum(ug.values())
+            probs = {ch: n/tot for ch,n in ug.items()}
+        best = max(probs.items(), key=lambda x:x[1])[0]
+        total += 1
+        if best == nxt: correct += 1
+        p = max(probs.get(nxt,0.0), 1e-12)
+        logp += math.log2(p)
+    if total==0: return 0.0,0.0,0.0,0
+    acc = correct/total
+    ce  = -logp/total            # bits/char 交叉熵
+    ppl = 2**ce
+    return acc, ce, ppl, total
+
+def holdout(text, ratio=0.25):
+    n=len(text); tn=int(n*ratio)
+    return text[:n-tn], text[n-tn:]
+
+def main():
+    kmax=6
+    Utr_full, Ute = holdout(U)
+    Mtr_full, Mte = holdout(M)
+    out={'meta':{'len_U':len(U),'len_M':len(M),
+                 'U_train':len(Utr_full),'U_test':len(Ute),
+                 'M_train':len(Mtr_full),'M_test':len(Mte)}}
+
+    # ---- 1) 对齐程度扫描 ----
+    # train 取 U_train_full 的前 p%
+    scan={}
+    for p in [5,10,20,30,50,75,100]:
+        ntr = max(200, int(len(Utr_full)*p/100))
+        tr = Utr_full[:ntr]
+        models=[build(tr,k) for k in range(1,kmax+1)]
+        ug=unigram(tr)
+        row={}
+        for k in range(1,kmax+1):
+            acc,ce,ppl,tot = eval_backoff(models,ug,Ute,k)
+            row[k]={'acc':acc,'ce':ce,'ppl':ppl,'n':tot}
+        scan[p]=row
+    out['对齐程度扫描']=scan
+
+    # ---- 2) 条件熵归一化对照 ----
+    norm={}
+    for name,(tr,te) in {'U':(Utr_full,Ute),'M':(Mtr_full,Mte)}.items():
+        ug=unigram(tr)
+        H0=entropy(ug)
+        models=[build(tr,k) for k in range(1,kmax+1)]
+        row={'H0':H0,'k':{}}
+        for k in range(1,kmax+1):
+            acc,ce,ppl,tot=eval_backoff(models,ug,te,k)
+            row['k'][k]={'acc':acc,'ce':ce,'ppl':ppl,
+                         '约束率':(H0-ce)/H0 if H0>0 else 0.0}
+        norm[name]=row
+    out['归一化对照']=norm
+
+    # ---- 3) 跨侧(修正 ppl) ----
+    cross={}
+    for name,(tr,te) in {'U->U_对齐':(Utr_full,Ute),
+                         'M->U_不对齐':(Mtr_full,Ute),
+                         'M->M_自预测':(Mtr_full,Mte),
+                         'U->M_反向':(Utr_full,Mte),
+                         'M+U->U_混合':(Mtr_full+Utr_full,Ute)}.items():
+        ug=unigram(tr)
+        models=[build(tr,k) for k in range(1,kmax+1)]
+        row={}
+        for k in range(1,kmax+1):
+            acc,ce,ppl,tot=eval_backoff(models,ug,te,k)
+            row[k]={'acc':acc,'ce':ce,'ppl':ppl}
+        cross[name]=row
+    out['跨侧_修正ppl']=cross
+
+    with open(os.path.join(BASE,'result175b.json'),'w',encoding='utf-8') as f:
+        json.dump(out,f,ensure_ascii=False,indent=1)
+
+    print('== 1) 对齐程度扫描 (train 取 U 前 p%, 预测 U held-out) ==')
+    print('%-6s'%'p%', ''.join('%9s'%('k=%d'%k) for k in range(1,kmax+1)))
+    for p in [5,10,20,30,50,75,100]:
+        print('%-6d'%p, ''.join('%9.4f'%scan[p][k]['acc'] for k in range(1,kmax+1)))
+    print()
+    print('k=2 时 acc 随 p:')
+    prev=None
+    for p in [5,10,20,30,50,75,100]:
+        a=scan[p][2]['acc']
+        d='' if prev is None else ' (边际 %+.4f)'%(a-prev)
+        print('  p=%3d%%  acc=%.4f%s'%(p,a,d)); prev=a
+    print()
+    print('== 2) 归一化对照 (排除词汇多样性混淆) ==')
+    for name in ['U','M']:
+        r=norm[name]
+        print('  %s  H0(unigram熵)=%.3f bits'%(name,r['H0']))
+        for k in range(1,kmax+1):
+            print('    k=%d  ce=%.3f  ppl=%.1f  约束率=%.4f'%(k,r['k'][k]['ce'],r['k'][k]['ppl'],r['k'][k]['约束率']))
+    print()
+    print('== 3) 跨侧 (修正后的 ppl) ==')
+    print('%-14s'%'pair', ''.join('%10s'%('k=%d'%k) for k in range(1,kmax+1)), '   (ppl@k=2)')
+    for name,row in cross.items():
+        print('%-14s'%name, ''.join('%10.4f'%row[k]['acc'] for k in range(1,kmax+1)), '  %.1f'%row[2]['ppl'])
+
+if __name__=='__main__':
+    main()

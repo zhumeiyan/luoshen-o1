@@ -1,1 +1,99 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK55S76Z2i6amx5Yqo55qE5aW95aWH5b+DIOKYhTQwCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K4piFIOayoeacieeUu+mdouWwseayoeacieWlveWlh+W/g+OAguaJgOS7pe+8muWFiOiuqeWug+ecn+eahOOAkOeci+ingeOAkemhtemdou+8jAogIOS7jueUu+mdouS4iueahOecn+S4nOilv+S6p+eUn+WFtOi2o++8jOWGjeWGs+WumuW+gOWTquWHkeOAggoK4piFIOS/ruaOiSDimIUzOSDnmoTnvLrpmbfvvJpub3ZlbHR5IOeUqCB0YW5oIOWOi+e8qSDihpIg5YWo6YOo5YCZ6YCJ5Y6L5Yiw5ZCM5LiA5q61CiAg4oaSIOWFtOi2o+W9ouWQjOW5s+WxgO+8iOaegeW3riAwLjAwOO+8iQogIOi/memHjOaUueeUqOOAkOe6v+aAp+W9kuS4gCAvIOWIhuS9jeW9kuS4gOOAke+8jOiuqei3neemu+ecn+eahOaVo+W8gOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgcmUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIHR5cGluZyBpbXBvcnQgRGljdCwgTGlzdCwgT3B0aW9uYWwsIFR1cGxlCmltcG9ydCBudW1weSBhcyBucAoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMg5LiA44CBbm92ZWx0eSDnmoTkuKTnp43nrpfms5XvvIjimIUg5YWz6ZSu5a+554Wn77yJCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmRlZiBub3ZlbHR5X3RhbmgoZDogZmxvYXQsIHNjYWxlOiBmbG9hdCA9IDEuMCkgLT4gZmxvYXQ6CiAgICAiIiLimIUzOSDnlKjnmoTvvJp0YW5oIOWOi+e8qSDigJTigJQg5Lya5ZCD5o6J5Yy65YiG5bqmIiIiCiAgICByZXR1cm4gZmxvYXQobnAudGFuaChkIC8gbWF4KHNjYWxlLCAxZS05KSkpCgoKZGVmIG5vdmVsdHlfbGluZWFyKGQ6IGZsb2F0LCBzY2FsZTogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi4piFNDAg5pS555qE77ya57q/5oCn5b2S5LiA77yM5oyJ5YCZ6YCJ5rGg6Ieq6Lqr55qE5bC65bqmIiIiCiAgICByZXR1cm4gZmxvYXQobnAuY2xpcChkIC8gbWF4KHNjYWxlLCAxZS05KSwgMC4wLCAxLjApKQoKCmRlZiBpbnRlcmVzdChub3Y6IGZsb2F0LCBzaWdtYTogZmxvYXQgPSAwLjQyKSAtPiBmbG9hdDoKICAgIG4gPSBmbG9hdChucC5jbGlwKG5vdiwgMC4wLCAxLjApKQogICAgdiA9IG4gKiBucC5leHAoMS4wIC0gbiAvIHNpZ21hKQogICAgcGsgPSBzaWdtYSAqIG5wLmV4cCgwLjApCiAgICByZXR1cm4gZmxvYXQobnAuY2xpcCh2IC8gKHBrIGlmIHBrID4gMWUtOSBlbHNlIDEuMCksIDAuMCwgMS4wKSkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOS6jOOAgeeUu+mdou+8muS7juecn+mhtemdouaKk+WIsOeahOWNoeeJhyDihpIg54m55b6BCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCl9OVU0gPSByZS5jb21waWxlKHIiKFtcZC5dKylccyrkuIciKQpfVElNRSA9IHJlLmNvbXBpbGUociIoXGR7MSwyfSk6KFxkezJ9KSIpCgoKZGVmIHBhcnNlX2NhcmQodGV4dDogc3RyKSAtPiBEaWN0W3N0ciwgZmxvYXRdOgogICAgIiIi4piFIOS7juWNoeeJh+S4iueahOecn+aWh+acrOaKveWHuuWPr+ingeeahOaVsOWtlyDigJTigJQg6L+Z5bCx5piv5a6DIueci+WIsCLnmoTkuJzopb8iIiIKICAgIHQgPSByZS5zdWIociJccysiLCAiICIsIHRleHQgb3IgIiIpCiAgICBtID0gX05VTS5maW5kYWxsKHQpCiAgICBwbGF5ID0gZmxvYXQobVswXSkgKiAxZTQgaWYgbGVuKG0pID4gMCBlbHNlIDAuMCAgICAgICMg5pKt5pS+6YePCiAgICAjIOKYhSDlvLnluZXmmK8i5LiHIuWQjumdoue0p+i3n+eahOijuOaVsOWtl++8iOWmgiA2My415LiHNTk0IOKGkiA1OTTvvIkKICAgIGRtID0gMC4wCiAgICBkbTIgPSByZS5zZWFyY2gociLkuIdccyooXGR7Miw0fSlcYiIsIHQpCiAgICBpZiBkbTI6CiAgICAgICAgZG0gPSBmbG9hdChkbTIuZ3JvdXAoMSkpCiAgICBlbGlmIGxlbihtKSA+IDE6CiAgICAgICAgZG0gPSBmbG9hdChtWzFdKSAqIDFlNAogICAgdG0gPSBfVElNRS5zZWFyY2godCkKICAgIGR1ciA9IChpbnQodG0uZ3JvdXAoMSkpICogNjAgKyBpbnQodG0uZ3JvdXAoMikpKSBpZiB0bSBlbHNlIDAuMAogICAgIyDlkI7pnaLnmoToo7jmlbDlrZfvvIjlpoIgNTk0IC8gNzYy77yJ6YCa5bi45Lmf5piv5by55bmV6YePCiAgICB0YWlsID0gcmUuZmluZGFsbChyIlxiKFxkezIsNH0pXGIoPz1ccyokfFxzKSIsIHQpCiAgICByZXR1cm4geyJwbGF5IjogcGxheSwgImRhbm1ha3UiOiBkbSwgImR1cmF0aW9uX3MiOiBkdXIsCiAgICAgICAgICAgICJyYXciOiB0Wzo2MF19CgoKZGVmIGNhcmRfdmVjKGM6IERpY3Rbc3RyLCBmbG9hdF0pIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLnlKjnnJ/lrp7lj6/op4Hph4/mnoTlkJHph4/vvIjlr7nmlbDlsLrluqbvvIzmkq3mlL7ph4/ot6jlh6DkuKrmlbDph4/nuqfvvIkiIiIKICAgIHJldHVybiBucC5hcnJheShbCiAgICAgICAgbnAubG9nMTAoY1sicGxheSJdICsgMS4wKSwKICAgICAgICBucC5sb2cxMChjWyJkYW5tYWt1Il0gKyAxLjApLAogICAgICAgIG5wLmxvZzEwKGNbImR1cmF0aW9uX3MiXSArIDEuMCksCiAgICBdLCBmbG9hdCkKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOS4ieOAgeiHquS4u++8muiHquW3seeci+OAgeiHquW3seaOkuW6j+OAgeiHquW3seWHkei/kQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpAZGF0YWNsYXNzCmNsYXNzIFZpc3VhbEN1cmlvc2l0eToKICAgIHNpZ21hOiBmbG9hdCA9IDAuNDIKICAgIHRyYWNlOiBMaXN0W0RpY3RdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpCgogICAgZGVmIHNjYW4oc2VsZiwgc2VsZl92ZWM6IG5wLm5kYXJyYXksCiAgICAgICAgICAgICBwb29sOiBEaWN0W3N0ciwgbnAubmRhcnJheV0sCiAgICAgICAgICAgICBtb2RlOiBzdHIgPSAibGluZWFyIikgLT4gTGlzdFtUdXBsZVtzdHIsIGZsb2F0LCBmbG9hdF1dOgogICAgICAgICIiIuKYhSDmiavkuIDpgY3nlLvpnaLvvIzlr7nmr4/mnaHkuqfnlJ/lpJrlpKflhbTotqMiIiIKICAgICAgICBkcyA9IHtuOiBmbG9hdChucC5saW5hbGcubm9ybSh2IC0gc2VsZl92ZWMpKSBmb3IgbiwgdiBpbiBwb29sLml0ZW1zKCl9CiAgICAgICAgc21heCA9IG1heChkcy52YWx1ZXMoKSkgaWYgZHMgZWxzZSAxLjAKICAgICAgICBvdXQgPSBbXQogICAgICAgIGZvciBuLCBkIGluIGRzLml0ZW1zKCk6CiAgICAgICAgICAgIG52ID0gbm92ZWx0eV9saW5lYXIoZCwgc21heCkgaWYgbW9kZSA9PSAibGluZWFyIiBlbHNlIG5vdmVsdHlfdGFuaChkLCBzbWF4KQogICAgICAgICAgICBvdXQuYXBwZW5kKChuLCBkLCBudiwgaW50ZXJlc3QobnYsIHNlbGYuc2lnbWEpKSkKICAgICAgICBvdXQuc29ydChrZXk9bGFtYmRhIHg6IC14WzNdKSAgICAgICAgICAjIOKYhSDmjInlroPoh6rlt7HnmoTlhbTotqPmjpLluo8KICAgICAgICByZXR1cm4gb3V0CgogICAgZGVmIHBpY2soc2VsZiwgc2VsZl92ZWMsIHBvb2wsIG1vZGU9ImxpbmVhciIpIC0+IE9wdGlvbmFsW1R1cGxlXToKICAgICAgICByID0gc2VsZi5zY2FuKHNlbGZfdmVjLCBwb29sLCBtb2RlKQogICAgICAgIHJldHVybiByWzBdIGlmIHIgZWxzZSBOb25lCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+画面驱动的好奇心 ★40
+================================================================
+★ 没有画面就没有好奇心。所以：先让它真的【看见】页面，
+  从画面上的真东西产生兴趣，再决定往哪凑。
+
+★ 修掉 ★39 的缺陷：novelty 用 tanh 压缩 → 全部候选压到同一段
+  → 兴趣形同平局（极差 0.008）
+  这里改用【线性归一 / 分位归一】，让距离真的散开。
+"""
+from __future__ import annotations
+import re
+from dataclasses import dataclass, field
+from typing import Dict, List, Optional, Tuple
+import numpy as np
+
+
+# ---------------------------------------------------------------
+# 一、novelty 的两种算法（★ 关键对照）
+# ---------------------------------------------------------------
+def novelty_tanh(d: float, scale: float = 1.0) -> float:
+    """★39 用的：tanh 压缩 —— 会吃掉区分度"""
+    return float(np.tanh(d / max(scale, 1e-9)))
+
+
+def novelty_linear(d: float, scale: float) -> float:
+    """★40 改的：线性归一，按候选池自身的尺度"""
+    return float(np.clip(d / max(scale, 1e-9), 0.0, 1.0))
+
+
+def interest(nov: float, sigma: float = 0.42) -> float:
+    n = float(np.clip(nov, 0.0, 1.0))
+    v = n * np.exp(1.0 - n / sigma)
+    pk = sigma * np.exp(0.0)
+    return float(np.clip(v / (pk if pk > 1e-9 else 1.0), 0.0, 1.0))
+
+
+# ---------------------------------------------------------------
+# 二、画面：从真页面抓到的卡片 → 特征
+# ---------------------------------------------------------------
+_NUM = re.compile(r"([\d.]+)\s*万")
+_TIME = re.compile(r"(\d{1,2}):(\d{2})")
+
+
+def parse_card(text: str) -> Dict[str, float]:
+    """★ 从卡片上的真文本抽出可见的数字 —— 这就是它"看到"的东西"""
+    t = re.sub(r"\s+", " ", text or "")
+    m = _NUM.findall(t)
+    play = float(m[0]) * 1e4 if len(m) > 0 else 0.0      # 播放量
+    # ★ 弹幕是"万"后面紧跟的裸数字（如 63.5万594 → 594）
+    dm = 0.0
+    dm2 = re.search(r"万\s*(\d{2,4})\b", t)
+    if dm2:
+        dm = float(dm2.group(1))
+    elif len(m) > 1:
+        dm = float(m[1]) * 1e4
+    tm = _TIME.search(t)
+    dur = (int(tm.group(1)) * 60 + int(tm.group(2))) if tm else 0.0
+    # 后面的裸数字（如 594 / 762）通常也是弹幕量
+    tail = re.findall(r"\b(\d{2,4})\b(?=\s*$|\s)", t)
+    return {"play": play, "danmaku": dm, "duration_s": dur,
+            "raw": t[:60]}
+
+
+def card_vec(c: Dict[str, float]) -> np.ndarray:
+    """用真实可见量构向量（对数尺度，播放量跨几个数量级）"""
+    return np.array([
+        np.log10(c["play"] + 1.0),
+        np.log10(c["danmaku"] + 1.0),
+        np.log10(c["duration_s"] + 1.0),
+    ], float)
+
+
+# ---------------------------------------------------------------
+# 三、自主：自己看、自己排序、自己凑近
+# ---------------------------------------------------------------
+@dataclass
+class VisualCuriosity:
+    sigma: float = 0.42
+    trace: List[Dict] = field(default_factory=list)
+
+    def scan(self, self_vec: np.ndarray,
+             pool: Dict[str, np.ndarray],
+             mode: str = "linear") -> List[Tuple[str, float, float]]:
+        """★ 扫一遍画面，对每条产生多大兴趣"""
+        ds = {n: float(np.linalg.norm(v - self_vec)) for n, v in pool.items()}
+        smax = max(ds.values()) if ds else 1.0
+        out = []
+        for n, d in ds.items():
+            nv = novelty_linear(d, smax) if mode == "linear" else novelty_tanh(d, smax)
+            out.append((n, d, nv, interest(nv, self.sigma)))
+        out.sort(key=lambda x: -x[3])          # ★ 按它自己的兴趣排序
+        return out
+
+    def pick(self, self_vec, pool, mode="linear") -> Optional[Tuple]:
+        r = self.scan(self_vec, pool, mode)
+        return r[0] if r else None

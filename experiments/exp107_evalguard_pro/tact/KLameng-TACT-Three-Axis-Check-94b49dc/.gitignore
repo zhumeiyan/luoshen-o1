@@ -1,1 +1,19 @@
-IyDmnoTlu7ov5YaF6YOo5Lqn54mp77yI5LiN5YWl5bqT77yJDQpfd29yay8NCg0KIyDlpIfku73mlofku7bvvIjkuI3lhaXlupPvvIkNCiouYmFrKg0KKi5iYWsNCg0KIyBQeXRob24g57yT5a2YDQpfX3B5Y2FjaGVfXy8NCioucHljDQoNCiMg5pys5Zyw6YWN572u77yI5Y+v6IO95ZCrIEFQSSBrZXnvvIzkuI3lhaXlupPvvIkNCmNvbmZpZy5qc29uDQouZW52DQoNCiMg5pON5L2c57O757ufL+e8lui+keWZqOadgumhuQ0KVGh1bWJzLmRiDQouRFNfU3RvcmUNCiouc3dwDQo=
+# 构建/内部产物（不入库）
+_work/
+
+# 备份文件（不入库）
+*.bak*
+*.bak
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地配置（可能含 API key，不入库）
+config.json
+.env
+
+# 操作系统/编辑器杂项
+Thumbs.db
+.DS_Store
+*.swp

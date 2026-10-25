@@ -1,1 +1,117 @@
-IyBDb3B5cmlnaHQgQW1hem9uLmNvbSwgSW5jLiBvciBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4KIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogQXBhY2hlLTIuMAoiIiJCTTI1IHNjb3JpbmcgYXMgT3BlblNlYXJjaCBjb21wdXRlcyBpdCAoTHVjZW5lJ3MgYGBMZWdhY3lCTTI1U2ltaWxhcml0eWBgKS4KClBlciBxdWVyeSB0ZXJtLCB3aXRoIGBgTmBgIHRoZSBkb2N1bWVudHMgdGhhdCBoYXZlIHRoZSBmaWVsZCwgYGBuYGAgdGhvc2Ugb2YKdGhlbSB0aGF0IGNvbnRhaW4gdGhlIHRlcm0sIGBgdGZgYCBpdHMgZnJlcXVlbmN5IGluIHRoZSBkb2N1bWVudCwgYGBkbGBgIHRoZQpkb2N1bWVudCdzIGZpZWxkIGxlbmd0aCBpbiB0b2tlbnMgYW5kIGBgYXZnZGxgYCB0aGUgbWVhbiBsZW5ndGggb3ZlciB0aGUKYGBOYGAgZG9jdW1lbnRzOjoKCiAgICBpZGYgICA9IGxuKDEgKyAoTiAtIG4gKyAwLjUpIC8gKG4gKyAwLjUpKQogICAgc2NvcmUgPSBpZGYgKiAoazEgKyAxKSAqIHRmIC8gKHRmICsgazEgKiAoMSAtIGIgKyBiICogZGwgLyBhdmdkbCkpCgp3aXRoIGBgazEgPSAxLjJgYCBhbmQgYGBiID0gMC43NWBgLiBMdWNlbmUgOCBkcm9wcGVkIHRoZSBgYChrMSArIDEpYGAgZmFjdG9yCmZyb20gYGBCTTI1U2ltaWxhcml0eWBgLCBidXQgT3BlblNlYXJjaCdzIGRlZmF1bHQgc2ltaWxhcml0eSBrZWVwcyBpdCAoaXRzCmV4cGxhaW4gb3V0cHV0IHNob3dzIGl0IGFzIGEgYm9vc3Qgb2YgMi4yKTsgaXQgc2NhbGVzIGV2ZXJ5IHNjb3JlIGFsaWtlLCBzbwppdCBjaGFuZ2VzIHRoZSBzY29yZXMsIG5vdCB0aGUgcmFua2luZy4gTHVjZW5lIHN0b3JlcyBgYGRsYGAgYXMgYSBvbmUtYnl0ZQpub3JtIChgYFNtYWxsRmxvYXQuaW50VG9CeXRlNGBgKSwgc28gYSBsb25nIGZpZWxkJ3MgbGVuZ3RoIGlzIHJvdW5kZWQgZG93biB0bwpvbmUgb2YgMjU2IHZhbHVlczsgYGBxdWFudGl6ZWRfbGVuZ3RoYGAgZG9lcyB0aGUgc2FtZSBzbyBzY29yZXMgbWF0Y2guClN0YXRpc3RpY3MgYXJlIHBlciBmaWVsZCwgcGVyIGluZGV4LiBBIHF1ZXJ5IHRlcm0gcmVwZWF0ZWQgaW4gdGhlIHF1ZXJ5IGNvdW50cwpvbmNlIHBlciByZXBldGl0aW9uLCBhcyB0aGUgY2xhdXNlcyBvZiBMdWNlbmUncyBib29sZWFuIHF1ZXJ5IGRvLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBtYXRoCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKZnJvbSBjb2xsZWN0aW9ucy5hYmMgaW1wb3J0IEl0ZXJhYmxlCgpLMSA9IDEuMgpCID0gMC43NQoKCmRlZiBfbG9uZ190b19pbnQ0KHZhbHVlOiBpbnQpIC0+IGludDoKICAgIGJpdHMgPSB2YWx1ZS5iaXRfbGVuZ3RoKCkKICAgIGlmIGJpdHMgPCA0OgogICAgICAgIHJldHVybiB2YWx1ZQogICAgc2hpZnQgPSBiaXRzIC0gNAogICAgZW5jb2RlZCA9ICh2YWx1ZSA+PiBzaGlmdCkgJiAweDA3CiAgICByZXR1cm4gZW5jb2RlZCB8ICgoc2hpZnQgKyAxKSA8PCAzKQoKCmRlZiBfaW50NF90b19sb25nKHZhbHVlOiBpbnQpIC0+IGludDoKICAgIGJpdHMgPSB2YWx1ZSAmIDB4MDcKICAgIHNoaWZ0ID0gKHZhbHVlID4+IDMpIC0gMQogICAgcmV0dXJuIGJpdHMgaWYgc2hpZnQgPT0gLTEgZWxzZSAoYml0cyB8IDB4MDgpIDw8IHNoaWZ0CgoKX01BWF9JTlQ0ID0gX2xvbmdfdG9faW50NCgyKiozMSAtIDEpCl9OVU1fRlJFRV9WQUxVRVMgPSAyNTUgLSBfTUFYX0lOVDQKCgpkZWYgcXVhbnRpemVkX2xlbmd0aChsZW5ndGg6IGludCkgLT4gaW50OgogICAgIiIiYGBsZW5ndGhgYCBhZnRlciBMdWNlbmUncyBub3JtIHJvdW5kIHRyaXAgKGBgaW50VG9CeXRlNGBgL2BgYnl0ZTRUb0ludGBgKS4iIiIKICAgIGlmIGxlbmd0aCA8IF9OVU1fRlJFRV9WQUxVRVM6CiAgICAgICAgcmV0dXJuIGxlbmd0aAogICAgZW5jb2RlZCA9IF9OVU1fRlJFRV9WQUxVRVMgKyBfbG9uZ190b19pbnQ0KGxlbmd0aCAtIF9OVU1fRlJFRV9WQUxVRVMpCiAgICByZXR1cm4gX05VTV9GUkVFX1ZBTFVFUyArIF9pbnQ0X3RvX2xvbmcoZW5jb2RlZCAtIF9OVU1fRlJFRV9WQUxVRVMpCgoKZGVmIGlkZihkb2NfZnJlcTogaW50LCBkb2NfY291bnQ6IGludCkgLT4gZmxvYXQ6CiAgICByZXR1cm4gbWF0aC5sb2coMSArIChkb2NfY291bnQgLSBkb2NfZnJlcSArIDAuNSkgLyAoZG9jX2ZyZXEgKyAwLjUpKQoKCmRlZiB0ZXJtX3Njb3JlKAogICAgdGY6IGludCwKICAgIGxlbmd0aDogaW50LAogICAgYXZnX2xlbmd0aDogZmxvYXQsCiAgICB0ZXJtX2lkZjogZmxvYXQsCiAgICBrMTogZmxvYXQgPSBLMSwKICAgIGI6IGZsb2F0ID0gQiwKKSAtPiBmbG9hdDoKICAgICIiIk9uZSBxdWVyeSB0ZXJtJ3Mgc2NvcmUgaW4gb25lIGRvY3VtZW50IChgYGxlbmd0aGBgIGFscmVhZHkgcXVhbnRpemVkKS4iIiIKICAgIHJldHVybiB0ZXJtX2lkZiAqIChrMSArIDEpICogdGYgLyAodGYgKyBrMSAqICgxIC0gYiArIGIgKiBsZW5ndGggLyBhdmdfbGVuZ3RoKSkKCgpjbGFzcyBGaWVsZEluZGV4OgogICAgIiIiVGhlIGludmVydGVkIGluZGV4IGFuZCBzdGF0aXN0aWNzIG9mIG9uZSB0ZXh0IGZpZWxkIG9mIG9uZSBpbmRleC4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZikgLT4gTm9uZToKICAgICAgICBzZWxmLnBvc3RpbmdzOiBkaWN0W3N0ciwgZGljdFtzdHIsIGludF1dID0ge30KICAgICAgICBzZWxmLmxlbmd0aHM6IGRpY3Rbc3RyLCBpbnRdID0ge30KICAgICAgICBzZWxmLl90b3RhbF90ZXJtcyA9IDAKCiAgICBkZWYgYWRkKHNlbGYsIGRvY19pZDogc3RyLCB0b2tlbnM6IGxpc3Rbc3RyXSkgLT4gTm9uZToKICAgICAgICAiIiJJbmRleCBgYHRva2Vuc2BgIGFzIHRoZSBmaWVsZCBvZiBgYGRvY19pZGBgIChhIGRvY3VtZW50IGFkZGVkIG9uY2UpLiIiIgogICAgICAgIGlmIG5vdCB0b2tlbnM6CiAgICAgICAgICAgIHJldHVybiAgIyBMdWNlbmUgY291bnRzIG9ubHkgZG9jdW1lbnRzIHdpdGggYSB0ZXJtIGluIHRoZSBmaWVsZC4KICAgICAgICBmb3IgdGVybSwgY291bnQgaW4gQ291bnRlcih0b2tlbnMpLml0ZW1zKCk6CiAgICAgICAgICAgIHNlbGYucG9zdGluZ3Muc2V0ZGVmYXVsdCh0ZXJtLCB7fSlbZG9jX2lkXSA9IGNvdW50CiAgICAgICAgc2VsZi5sZW5ndGhzW2RvY19pZF0gPSBxdWFudGl6ZWRfbGVuZ3RoKGxlbih0b2tlbnMpKQogICAgICAgIHNlbGYuX3RvdGFsX3Rlcm1zICs9IGxlbih0b2tlbnMpCgogICAgQHByb3BlcnR5CiAgICBkZWYgZG9jX2NvdW50KHNlbGYpIC0+IGludDoKICAgICAgICByZXR1cm4gbGVuKHNlbGYubGVuZ3RocykKCiAgICBAcHJvcGVydHkKICAgIGRlZiBhdmdfbGVuZ3RoKHNlbGYpIC0+IGZsb2F0OgogICAgICAgIHJldHVybiBzZWxmLl90b3RhbF90ZXJtcyAvIHNlbGYuZG9jX2NvdW50IGlmIHNlbGYuZG9jX2NvdW50IGVsc2UgMC4wCgogICAgZGVmIGRvY3Nfd2l0aChzZWxmLCB0ZXJtOiBzdHIpIC0+IEl0ZXJhYmxlW3N0cl06CiAgICAgICAgcmV0dXJuIHNlbGYucG9zdGluZ3MuZ2V0KHRlcm0sIHt9KS5rZXlzKCkKCiAgICBkZWYgc2NvcmUoc2VsZiwgcXVlcnlfdG9rZW5zOiBsaXN0W3N0cl0pIC0+IGRpY3Rbc3RyLCBmbG9hdF06CiAgICAgICAgIiIiU3VtbWVkIHRlcm0gc2NvcmVzIG9mIGV2ZXJ5IGRvY3VtZW50IG1hdGNoaW5nIGFueSBxdWVyeSB0b2tlbi4iIiIKICAgICAgICBzY29yZXM6IGRpY3Rbc3RyLCBmbG9hdF0gPSB7fQogICAgICAgIGF2Z19sZW5ndGggPSBzZWxmLmF2Z19sZW5ndGgKICAgICAgICBmb3IgdGVybSBpbiBxdWVyeV90b2tlbnM6CiAgICAgICAgICAgIHBvc3RpbmdzID0gc2VsZi5wb3N0aW5ncy5nZXQodGVybSkKICAgICAgICAgICAgaWYgbm90IHBvc3RpbmdzOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgdGVybV9pZGYgPSBpZGYobGVuKHBvc3RpbmdzKSwgc2VsZi5kb2NfY291bnQpCiAgICAgICAgICAgIGZvciBkb2NfaWQsIHRmIGluIHBvc3RpbmdzLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBzY29yZXNbZG9jX2lkXSA9IHNjb3Jlcy5nZXQoZG9jX2lkLCAwLjApICsgdGVybV9zY29yZSgKICAgICAgICAgICAgICAgICAgICB0Ziwgc2VsZi5sZW5ndGhzW2RvY19pZF0sIGF2Z19sZW5ndGgsIHRlcm1faWRmCiAgICAgICAgICAgICAgICApCiAgICAgICAgcmV0dXJuIHNjb3Jlcwo=
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: Apache-2.0
+"""BM25 scoring as OpenSearch computes it (Lucene's ``LegacyBM25Similarity``).
+
+Per query term, with ``N`` the documents that have the field, ``n`` those of
+them that contain the term, ``tf`` its frequency in the document, ``dl`` the
+document's field length in tokens and ``avgdl`` the mean length over the
+``N`` documents::
+
+    idf   = ln(1 + (N - n + 0.5) / (n + 0.5))
+    score = idf * (k1 + 1) * tf / (tf + k1 * (1 - b + b * dl / avgdl))
+
+with ``k1 = 1.2`` and ``b = 0.75``. Lucene 8 dropped the ``(k1 + 1)`` factor
+from ``BM25Similarity``, but OpenSearch's default similarity keeps it (its
+explain output shows it as a boost of 2.2); it scales every score alike, so
+it changes the scores, not the ranking. Lucene stores ``dl`` as a one-byte
+norm (``SmallFloat.intToByte4``), so a long field's length is rounded down to
+one of 256 values; ``quantized_length`` does the same so scores match.
+Statistics are per field, per index. A query term repeated in the query counts
+once per repetition, as the clauses of Lucene's boolean query do.
+"""
+
+from __future__ import annotations
+
+import math
+from collections import Counter
+from collections.abc import Iterable
+
+K1 = 1.2
+B = 0.75
+
+
+def _long_to_int4(value: int) -> int:
+    bits = value.bit_length()
+    if bits < 4:
+        return value
+    shift = bits - 4
+    encoded = (value >> shift) & 0x07
+    return encoded | ((shift + 1) << 3)
+
+
+def _int4_to_long(value: int) -> int:
+    bits = value & 0x07
+    shift = (value >> 3) - 1
+    return bits if shift == -1 else (bits | 0x08) << shift
+
+
+_MAX_INT4 = _long_to_int4(2**31 - 1)
+_NUM_FREE_VALUES = 255 - _MAX_INT4
+
+
+def quantized_length(length: int) -> int:
+    """``length`` after Lucene's norm round trip (``intToByte4``/``byte4ToInt``)."""
+    if length < _NUM_FREE_VALUES:
+        return length
+    encoded = _NUM_FREE_VALUES + _long_to_int4(length - _NUM_FREE_VALUES)
+    return _NUM_FREE_VALUES + _int4_to_long(encoded - _NUM_FREE_VALUES)
+
+
+def idf(doc_freq: int, doc_count: int) -> float:
+    return math.log(1 + (doc_count - doc_freq + 0.5) / (doc_freq + 0.5))
+
+
+def term_score(
+    tf: int,
+    length: int,
+    avg_length: float,
+    term_idf: float,
+    k1: float = K1,
+    b: float = B,
+) -> float:
+    """One query term's score in one document (``length`` already quantized)."""
+    return term_idf * (k1 + 1) * tf / (tf + k1 * (1 - b + b * length / avg_length))
+
+
+class FieldIndex:
+    """The inverted index and statistics of one text field of one index."""
+
+    def __init__(self) -> None:
+        self.postings: dict[str, dict[str, int]] = {}
+        self.lengths: dict[str, int] = {}
+        self._total_terms = 0
+
+    def add(self, doc_id: str, tokens: list[str]) -> None:
+        """Index ``tokens`` as the field of ``doc_id`` (a document added once)."""
+        if not tokens:
+            return  # Lucene counts only documents with a term in the field.
+        for term, count in Counter(tokens).items():
+            self.postings.setdefault(term, {})[doc_id] = count
+        self.lengths[doc_id] = quantized_length(len(tokens))
+        self._total_terms += len(tokens)
+
+    @property
+    def doc_count(self) -> int:
+        return len(self.lengths)
+
+    @property
+    def avg_length(self) -> float:
+        return self._total_terms / self.doc_count if self.doc_count else 0.0
+
+    def docs_with(self, term: str) -> Iterable[str]:
+        return self.postings.get(term, {}).keys()
+
+    def score(self, query_tokens: list[str]) -> dict[str, float]:
+        """Summed term scores of every document matching any query token."""
+        scores: dict[str, float] = {}
+        avg_length = self.avg_length
+        for term in query_tokens:
+            postings = self.postings.get(term)
+            if not postings:
+                continue
+            term_idf = idf(len(postings), self.doc_count)
+            for doc_id, tf in postings.items():
+                scores[doc_id] = scores.get(doc_id, 0.0) + term_score(
+                    tf, self.lengths[doc_id], avg_length, term_idf
+                )
+        return scores

@@ -1,1 +1,206 @@
-IiIiQ2hhbm5lbC1vd25lZCB2YXJpYWJsZSAvIGV2ZW50IHB1Ymxpc2hlcnM7IG5vIFNESyBvYmplY3RzIGVzY2FwZSB0aGUgY29yZS4iIiIKCmltcG9ydCBhc3luY2lvCmZyb20gY29udGV4dGxpYiBpbXBvcnQgc3VwcHJlc3MKZnJvbSBkYXRldGltZSBpbXBvcnQgVVRDLCBkYXRldGltZQppbXBvcnQganNvbgpmcm9tIHV1aWQgaW1wb3J0IE5BTUVTUEFDRV9VUkwsIHV1aWQ0LCB1dWlkNQoKaW1wb3J0IGFpb21xdHQKCmZyb20gc3JjLnByb3RvLm9wY3VhLmNvcmUuZmVhdHVyZV9jb25maWcgaW1wb3J0IFB1YlN1YkNvbmZpZwpmcm9tIHNyYy5wcm90by5vcGN1YS5jb3JlLm1xdHQgaW1wb3J0IE1xdHRQdWJsaXNoZXIKZnJvbSBzcmMucHJvdG8ub3BjdWEuY29yZS5wdWJzdWJfanNvbiBpbXBvcnQgRVZFTlRfVFlQRVMsIGRhdGFfdmFsdWUsIGZpZWxkX21ldGFkYXRhLCBvdmVyYWxsX3N0YXR1cywgdmFyaWFudApmcm9tIHNyYy5wcm90by5vcGN1YS5wbHVnaW5zLmJhc2UgaW1wb3J0IFBsdWdpbkNvbnRleHQKCgpjbGFzcyBQdWJTdWJQbHVnaW46CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fdGFzayA9IE5vbmUKICAgICAgICBzZWxmLl9tcXR0ID0gTXF0dFB1Ymxpc2hlcigpCiAgICAgICAgc2VsZi5fZXJyb3IgPSBOb25lCiAgICAgICAgc2VsZi5fcHVibGlzaGVkID0gMAogICAgICAgIHNlbGYuX2xhc3RfcHVibGlzaCA9IE5vbmUKICAgICAgICBzZWxmLl93cml0ZXJzID0ge30KICAgICAgICBzZWxmLl9jdXJzb3IgPSAwCiAgICAgICAgc2VsZi5fc2VxdWVuY2UgPSB7fQogICAgICAgIHNlbGYuX3ByZXZpb3VzID0ge30KICAgICAgICBzZWxmLl9zdG9wcGluZyA9IEZhbHNlCgogICAgYXN5bmMgZGVmIGluaXRpYWxpemUoc2VsZiwgY29udGV4dDogUGx1Z2luQ29udGV4dCkgLT4gTm9uZToKICAgICAgICBzZWxmLl9jb25maWcgPSBQdWJTdWJDb25maWcubW9kZWxfdmFsaWRhdGUoY29udGV4dC5jb25maWcuZ2V0KCJwdWJzdWIiLCB7fSkpCiAgICAgICAgc2VsZi5fcG9ydCwgc2VsZi5fc3RyZWFtLCBzZWxmLl9jaGFubmVsID0gY29udGV4dC51YV9wb3J0LCBjb250ZXh0LmV2ZW50X3NpbmssIGNvbnRleHQuY2hhbm5lbF9pZAogICAgICAgIHNlbGYuX2V2ZW50c19jb25maWcgPSBkaWN0KGNvbnRleHQuY29uZmlnLmdldCgiZXZlbnRzIiwge30pKQogICAgICAgIGlmIHNlbGYuX3BvcnQgaXMgTm9uZSBvciBzZWxmLl9zdHJlYW0gaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigi5Y+R5biD5Zmo57y65bCR6IqC54K56K+75Y+W5o6l5Y+j5oiW5LqL5Lu25rWBIikKICAgICAgICBub2RlcyA9IHtub2RlWyJub2RlX2lkIl0gZm9yIG5vZGUgaW4gY29udGV4dC5jb25maWcuZ2V0KCJkZWZpbml0aW9ucyIsIFtdKX0KICAgICAgICBpZiBhbnkoZi5ub2RlX2lkIG5vdCBpbiBub2RlcyBmb3IgdyBpbiBzZWxmLl9jb25maWcud3JpdGVycyBmb3IgZiBpbiB3LmZpZWxkcyk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuWPkeW4g+aVsOaNrumbhuWMheWQq+S4jeWtmOWcqOeahOWPmOmHjyIpCgogICAgYXN5bmMgZGVmIHN0YXJ0KHNlbGYpIC0+IE5vbmU6CiAgICAgICAgaWYgc2VsZi5fY29uZmlnLmVuYWJsZWQ6CiAgICAgICAgICAgIHNlbGYuX3N0b3BwaW5nID0gRmFsc2UKICAgICAgICAgICAgIyBEbyBub3QgcmVwbGF5IG9sZCBldmVudHMgd2hlbiBhIHB1Ymxpc2hlciBpcyBlbmFibGVkL3JlY29uZmlndXJlZC4KICAgICAgICAgICAgc2VsZi5fY3Vyc29yID0gc2VsZi5fc3RyZWFtLnBhZ2UoKVsibGF0ZXN0X3NlcXVlbmNlIl0KICAgICAgICAgICAgc2VsZi5fdGFzayA9IGFzeW5jaW8uY3JlYXRlX3Rhc2soc2VsZi5fcnVuKCksIG5hbWU9ZiJvcGN1YS1wdWJzdWIte3NlbGYuX2NoYW5uZWx9IikKCiAgICBhc3luYyBkZWYgc3RvcChzZWxmKSAtPiBOb25lOgogICAgICAgIHNlbGYuX3N0b3BwaW5nID0gVHJ1ZQogICAgICAgIGlmIHNlbGYuX3Rhc2s6CiAgICAgICAgICAgIHNlbGYuX3Rhc2suY2FuY2VsKCkKICAgICAgICAgICAgd2l0aCBzdXBwcmVzcyhhc3luY2lvLkNhbmNlbGxlZEVycm9yKToKICAgICAgICAgICAgICAgIGF3YWl0IHNlbGYuX3Rhc2sKICAgICAgICAgICAgc2VsZi5fdGFzayA9IE5vbmUKCiAgICBkZWYgc3RhdHVzKHNlbGYpIC0+IGRpY3Q6CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgImVuYWJsZWQiOiBzZWxmLl9jb25maWcuZW5hYmxlZCwKICAgICAgICAgICAgImNvbm5lY3RlZCI6IHNlbGYuX21xdHQuY29ubmVjdGVkLAogICAgICAgICAgICAiZXJyb3IiOiBzZWxmLl9lcnJvciBvciBzZWxmLl9tcXR0LmVycm9yLAogICAgICAgICAgICAicHVibGlzaGVkX2NvdW50Ijogc2VsZi5fcHVibGlzaGVkLAogICAgICAgICAgICAibGFzdF9wdWJsaXNoIjogc2VsZi5fbGFzdF9wdWJsaXNoLAogICAgICAgICAgICAid3JpdGVycyI6IHNlbGYuX3dyaXRlcnMsCiAgICAgICAgfQoKICAgIGRlZiBjb25maWd1cmVfZXZlbnRzKHNlbGYsIGNvbmZpZzogZGljdCkgLT4gTm9uZToKICAgICAgICBzZWxmLl9ldmVudHNfY29uZmlnID0gZGljdChjb25maWcpCgogICAgYXN5bmMgZGVmIF9zZW5kKHNlbGYsIHRvcGljOiBzdHIsIG1lc3NhZ2U6IGRpY3QsIHJldGFpbmVkOiBib29sID0gRmFsc2UpIC0+IE5vbmU6CiAgICAgICAgYXdhaXQgc2VsZi5fbXF0dC5wdWJsaXNoKAogICAgICAgICAgICB0b3BpYywganNvbi5kdW1wcyhtZXNzYWdlLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGFsbG93X25hbj1GYWxzZSwgc2VwYXJhdG9ycz0oIiwiLCAiOiIpKS5lbmNvZGUoKSwgcmV0YWluZWQKICAgICAgICApCgogICAgYXN5bmMgZGVmIF9tZXRhZGF0YShzZWxmLCB3cml0ZXIpIC0+IE5vbmU6CiAgICAgICAgZmllbGRzID0gW10KICAgICAgICBpZiB3cml0ZXIua2luZCA9PSAidmFyaWFibGVzIjoKICAgICAgICAgICAgZm9yIGZpZWxkIGluIHdyaXRlci5maWVsZHM6CiAgICAgICAgICAgICAgICBzbmFwc2hvdCA9IGF3YWl0IHNlbGYuX3BvcnQucmVhZChmaWVsZC5ub2RlX2lkKQogICAgICAgICAgICAgICAgZmllbGRzLmFwcGVuZCgKICAgICAgICAgICAgICAgICAgICBmaWVsZF9tZXRhZGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQuYWxpYXMsCiAgICAgICAgICAgICAgICAgICAgICAgIHNuYXBzaG90LmdldCgidmFyaWFudF90eXBlIiksCiAgICAgICAgICAgICAgICAgICAgICAgIHN0cih1dWlkNShOQU1FU1BBQ0VfVVJMLCBmIntzZWxmLl9jaGFubmVsfS97d3JpdGVyLndyaXRlcl9pZH0ve2ZpZWxkLm5vZGVfaWR9IikpLAogICAgICAgICAgICAgICAgICAgICAgICBpc2luc3RhbmNlKHNuYXBzaG90LmdldCgidmFsdWUiKSwgbGlzdCksCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGZvciBuYW1lIGluIHdyaXRlci5ldmVudF9maWVsZHM6CiAgICAgICAgICAgICAgICBmaWVsZHMuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgIGZpZWxkX21ldGFkYXRhKG5hbWUsIEVWRU5UX1RZUEVTW25hbWVdLCBzdHIodXVpZDUoTkFNRVNQQUNFX1VSTCwgZiJ7d3JpdGVyLndyaXRlcl9pZH0ve25hbWV9IikpKQogICAgICAgICAgICAgICAgKQogICAgICAgIGF3YWl0IHNlbGYuX3NlbmQoCiAgICAgICAgICAgIHdyaXRlci5tZXRhZGF0YV90b3BpYywKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIk1lc3NhZ2VJZCI6IHN0cih1dWlkNCgpKSwKICAgICAgICAgICAgICAgICJNZXNzYWdlVHlwZSI6ICJ1YS1tZXRhZGF0YSIsCiAgICAgICAgICAgICAgICAiUHVibGlzaGVySWQiOiBzZWxmLl9jb25maWcucHVibGlzaGVyX2lkLAogICAgICAgICAgICAgICAgIkRhdGFTZXRXcml0ZXJJZCI6IHdyaXRlci53cml0ZXJfaWQsCiAgICAgICAgICAgICAgICAiRGF0YVNldFdyaXRlck5hbWUiOiB3cml0ZXIubmFtZSwKICAgICAgICAgICAgICAgICJXcml0ZXJHcm91cE5hbWUiOiBzZWxmLl9jb25maWcud3JpdGVyX2dyb3VwX25hbWUsCiAgICAgICAgICAgICAgICAiVGltZXN0YW1wIjogZGF0ZXRpbWUubm93KFVUQykuaXNvZm9ybWF0KCksCiAgICAgICAgICAgICAgICAiTWV0YURhdGEiOiB7CiAgICAgICAgICAgICAgICAgICAgIk5hbWUiOiB3cml0ZXIubmFtZSwKICAgICAgICAgICAgICAgICAgICAiRmllbGRzIjogZmllbGRzLAogICAgICAgICAgICAgICAgICAgICJEYXRhU2V0Q2xhc3NJZCI6ICIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLAogICAgICAgICAgICAgICAgICAgICJDb25maWd1cmF0aW9uVmVyc2lvbiI6IHsiTWFqb3JWZXJzaW9uIjogc2VsZi5fY29uZmlnLmNvbmZpZ192ZXJzaW9uLCAiTWlub3JWZXJzaW9uIjogMH0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgICAgICBUcnVlLAogICAgICAgICkKCiAgICBhc3luYyBkZWYgX21lc3NhZ2Uoc2VsZiwgd3JpdGVyLCBwYXlsb2FkOiBkaWN0LCBtZXNzYWdlX3R5cGU6IHN0ciwgc3RhdHVzOiBpbnQgPSAwKSAtPiBOb25lOgogICAgICAgIG51bWJlciA9IHNlbGYuX3NlcXVlbmNlLmdldCh3cml0ZXIud3JpdGVyX2lkLCAwKQogICAgICAgIG1lc3NhZ2UgPSB7IkRhdGFTZXRXcml0ZXJJZCI6IHdyaXRlci53cml0ZXJfaWQsICJNZXNzYWdlVHlwZSI6IG1lc3NhZ2VfdHlwZSwgIlBheWxvYWQiOiBwYXlsb2FkfQogICAgICAgIGNvbnRlbnQgPSBzZWxmLl9jb25maWcubWVzc2FnZV9jb250ZW50CiAgICAgICAgaWYgInNlcXVlbmNlX251bWJlciIgaW4gY29udGVudDoKICAgICAgICAgICAgbWVzc2FnZVsiU2VxdWVuY2VOdW1iZXIiXSA9IG51bWJlcgogICAgICAgIGlmICJ0aW1lc3RhbXAiIGluIGNvbnRlbnQ6CiAgICAgICAgICAgIG1lc3NhZ2VbIlRpbWVzdGFtcCJdID0gZGF0ZXRpbWUubm93KFVUQykuaXNvZm9ybWF0KCkKICAgICAgICBpZiAic3RhdHVzIiBpbiBjb250ZW50OgogICAgICAgICAgICBtZXNzYWdlWyJTdGF0dXMiXSA9IHN0YXR1cwogICAgICAgIGlmICJtZXRhZGF0YV92ZXJzaW9uIiBpbiBjb250ZW50OgogICAgICAgICAgICBtZXNzYWdlWyJNZXRhRGF0YVZlcnNpb24iXSA9IHsiTWFqb3JWZXJzaW9uIjogc2VsZi5fY29uZmlnLmNvbmZpZ192ZXJzaW9uLCAiTWlub3JWZXJzaW9uIjogMH0KICAgICAgICBuZXR3b3JrID0geyJNZXNzYWdlSWQiOiBzdHIodXVpZDQoKSksICJNZXNzYWdlVHlwZSI6ICJ1YS1kYXRhIiwgIk1lc3NhZ2VzIjogW21lc3NhZ2VdfQogICAgICAgIGlmICJwdWJsaXNoZXJfaWQiIGluIGNvbnRlbnQ6CiAgICAgICAgICAgIG5ldHdvcmtbIlB1Ymxpc2hlcklkIl0gPSBzZWxmLl9jb25maWcucHVibGlzaGVyX2lkCiAgICAgICAgaWYgIndyaXRlcl9ncm91cF9uYW1lIiBpbiBjb250ZW50OgogICAgICAgICAgICBuZXR3b3JrWyJXcml0ZXJHcm91cE5hbWUiXSA9IHNlbGYuX2NvbmZpZy53cml0ZXJfZ3JvdXBfbmFtZQogICAgICAgIGF3YWl0IHNlbGYuX3NlbmQod3JpdGVyLnRvcGljLCBuZXR3b3JrKQogICAgICAgIHNlbGYuX3NlcXVlbmNlW3dyaXRlci53cml0ZXJfaWRdID0gKG51bWJlciArIDEpICYgMHhGRkZGRkZGRgogICAgICAgIHNlbGYuX3B1Ymxpc2hlZCArPSAxCiAgICAgICAgc2VsZi5fbGFzdF9wdWJsaXNoID0gZGF0ZXRpbWUubm93KFVUQykuaXNvZm9ybWF0KCkKICAgICAgICBzZWxmLl93cml0ZXJzW3N0cih3cml0ZXIud3JpdGVyX2lkKV0gPSB7CiAgICAgICAgICAgICJwdWJsaXNoZWRfY291bnQiOiBzZWxmLl9zZXF1ZW5jZVt3cml0ZXIud3JpdGVyX2lkXSwKICAgICAgICAgICAgImVycm9yIjogTm9uZSwKICAgICAgICAgICAgImxhc3RfcHVibGlzaCI6IHNlbGYuX2xhc3RfcHVibGlzaCwKICAgICAgICB9CgogICAgYXN5bmMgZGVmIF92YXJpYWJsZXMoc2VsZiwgd3JpdGVyKSAtPiBOb25lOgogICAgICAgIHNuYXBzaG90cywgcGF5bG9hZCA9IFtdLCB7fQogICAgICAgIGZvciBmaWVsZCBpbiB3cml0ZXIuZmllbGRzOgogICAgICAgICAgICBzbmFwc2hvdCA9IGF3YWl0IHNlbGYuX3BvcnQucmVhZChmaWVsZC5ub2RlX2lkKQogICAgICAgICAgICBzbmFwc2hvdHMuYXBwZW5kKHNuYXBzaG90KQogICAgICAgICAgICBwYXlsb2FkW2ZpZWxkLmFsaWFzXSA9IGRhdGFfdmFsdWUoc25hcHNob3QsIHNlbGYuX2NvbmZpZy5maWVsZF9jb250ZW50KQogICAgICAgIHByZXZpb3VzID0gc2VsZi5fcHJldmlvdXMuZ2V0KHdyaXRlci53cml0ZXJfaWQpCiAgICAgICAga2V5ZnJhbWUgPSBwcmV2aW91cyBpcyBOb25lIG9yIHNlbGYuX3NlcXVlbmNlLmdldCh3cml0ZXIud3JpdGVyX2lkLCAwKSAlIHdyaXRlci5rZXlfZnJhbWVfY291bnQgPT0gMAogICAgICAgIGNoYW5nZWQgPSBwYXlsb2FkIGlmIGtleWZyYW1lIGVsc2Uge2tleTogdmFsdWUgZm9yIGtleSwgdmFsdWUgaW4gcGF5bG9hZC5pdGVtcygpIGlmIHByZXZpb3VzLmdldChrZXkpICE9IHZhbHVlfQogICAgICAgIGF3YWl0IHNlbGYuX21lc3NhZ2Uod3JpdGVyLCBjaGFuZ2VkLCAidWEta2V5ZnJhbWUiIGlmIGtleWZyYW1lIGVsc2UgInVhLWRlbHRhZnJhbWUiLCBvdmVyYWxsX3N0YXR1cyhzbmFwc2hvdHMpKQogICAgICAgIHNlbGYuX3ByZXZpb3VzW3dyaXRlci53cml0ZXJfaWRdID0gcGF5bG9hZAogICAgICAgIGZvciBzbmFwc2hvdCBpbiBzbmFwc2hvdHM6CiAgICAgICAgICAgIGF3YWl0IHNlbGYuX3N0cmVhbS5lbWl0KHsia2luZCI6ICJ2YWx1ZSIsICJzb3VyY2UiOiAicHVic3ViIiwgIndyaXRlcl9pZCI6IHdyaXRlci53cml0ZXJfaWQsICoqc25hcHNob3R9KQoKICAgIGFzeW5jIGRlZiBfZXZlbnRzKHNlbGYsIHdyaXRlciwgZXZlbnRzOiBsaXN0W2RpY3RdKSAtPiBOb25lOgogICAgICAgIGlmIG5vdCBzZWxmLl9ldmVudHNfY29uZmlnLmdldCgiZW5hYmxlZCIpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCLkuovku7blip/og73mnKrlkK/nlKjvvIzml6Dms5Xlj5HluIPkuovku7bmlbDmja7pm4YiKQogICAgICAgIGZvciBldmVudCBpbiBldmVudHM6CiAgICAgICAgICAgIHNvdXJjZXMgPSB7a2V5LnJlbW92ZXByZWZpeCgibnM9MDsiKSBmb3Iga2V5IGluIHdyaXRlci5zb3VyY2Vfbm9kZXN9CiAgICAgICAgICAgIGlmIGV2ZW50LmdldCgia2luZCIpICE9ICJldmVudCIgb3Igc3RyKGV2ZW50LmdldCgiU291cmNlTm9kZSIpKS5yZW1vdmVwcmVmaXgoIm5zPTA7Iikgbm90IGluIHNvdXJjZXM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBpZiBldmVudC5nZXQoIlNldmVyaXR5IiwgMCkgPCBzZWxmLl9ldmVudHNfY29uZmlnLmdldCgibWluaW11bV9zZXZlcml0eSIsIDApOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaWYgc2VsZi5fZXZlbnRzX2NvbmZpZy5nZXQoIm1lc3NhZ2VfZmlsdGVyIiwgIiIpLmNhc2Vmb2xkKCkgbm90IGluIHN0cihldmVudC5nZXQoIk1lc3NhZ2UiLCAiIikpLmNhc2Vmb2xkKCk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBwYXlsb2FkID0ge25hbWU6IHZhcmlhbnQoZXZlbnQuZ2V0KG5hbWUpLCBFVkVOVF9UWVBFU1tuYW1lXSkgZm9yIG5hbWUgaW4gd3JpdGVyLmV2ZW50X2ZpZWxkc30KICAgICAgICAgICAgYXdhaXQgc2VsZi5fbWVzc2FnZSh3cml0ZXIsIHBheWxvYWQsICJ1YS1ldmVudCIpCgogICAgYXN5bmMgZGVmIF9ydW4oc2VsZikgLT4gTm9uZToKICAgICAgICBkZWxheSA9IDEKICAgICAgICB3cml0ZXJzID0gWwogICAgICAgICAgICB3IGZvciB3IGluIHNlbGYuX2NvbmZpZy53cml0ZXJzIGlmIHcuZW5hYmxlZCBhbmQgKHcuZmllbGRzIGlmIHcua2luZCA9PSAidmFyaWFibGVzIiBlbHNlIHcuc291cmNlX25vZGVzKQogICAgICAgIF0KICAgICAgICB3aGlsZSBub3Qgc2VsZi5fc3RvcHBpbmc6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGFzeW5jIHdpdGggc2VsZi5fbXF0dC5jb25uZWN0aW9uKHNlbGYuX2NvbmZpZy5icm9rZXJfdXJsLCBmImVtcy17c2VsZi5fY2hhbm5lbH0te3V1aWQ0KCkuaGV4WzoxMl19Iik6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5fcHJldmlvdXMuY2xlYXIoKQogICAgICAgICAgICAgICAgICAgIGZvciB3cml0ZXIgaW4gd3JpdGVyczoKICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgc2VsZi5fbWV0YWRhdGEod3JpdGVyKQogICAgICAgICAgICAgICAgICAgIGRlbGF5ID0gMQogICAgICAgICAgICAgICAgICAgIHdoaWxlIG5vdCBzZWxmLl9zdG9wcGluZzoKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZSA9IHNlbGYuX3N0cmVhbS5wYWdlKHNlbGYuX2N1cnNvciwgbGltaXQ9MjAwMCkKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5fZXJyb3IgPSAi5LqL5Lu25rWB5bey5rqi5Ye677yM6YOo5YiG5LqL5Lu25pyq5Y+R5biDIiBpZiBwYWdlWyJnYXAiXSBlbHNlIE5vbmUKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHdyaXRlciBpbiB3cml0ZXJzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHdyaXRlci5raW5kID09ICJ2YXJpYWJsZXMiOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCBzZWxmLl92YXJpYWJsZXMod3JpdGVyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF3YWl0IHNlbGYuX2V2ZW50cyh3cml0ZXIsIHBhZ2VbImV2ZW50cyJdKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0IChhaW9tcXR0Lk1xdHRFcnJvciwgT1NFcnJvciwgVGltZW91dEVycm9yKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByYWlzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5fd3JpdGVyc1tzdHIod3JpdGVyLndyaXRlcl9pZCldID0geyJlcnJvciI6IHN0cihleGMpLCAibGFzdF9wdWJsaXNoIjogTm9uZX0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgcGFnZVsiZXZlbnRzIl06CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jdXJzb3IgPSBwYWdlWyJldmVudHMiXVstMV1bInNlcXVlbmNlIl0KICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2N1cnNvciA9IHBhZ2VbImxhdGVzdF9zZXF1ZW5jZSJdCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGF3YWl0IHNlbGYuX21xdHQud2FpdF9mb3JfZGlzY29ubmVjdChzZWxmLl9jb25maWcucHVibGlzaGluZ19pbnRlcnZhbF9tcyAvIDEwMDApOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgYWlvbXF0dC5NcXR0RXJyb3Ioc2VsZi5fbXF0dC5lcnJvciBvciAiTVFUVCDov57mjqXlt7Lmlq3lvIAiKQogICAgICAgICAgICBleGNlcHQgKGFpb21xdHQuTXF0dEVycm9yLCBPU0Vycm9yLCBUaW1lb3V0RXJyb3IpIGFzIGV4YzoKICAgICAgICAgICAgICAgIHNlbGYuX2Vycm9yID0gc3RyKGV4Yykgb3IgdHlwZShleGMpLl9fbmFtZV9fCiAgICAgICAgICAgICAgICBpZiBzZWxmLl9zdG9wcGluZzoKICAgICAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoZGVsYXkpCiAgICAgICAgICAgICAgICBkZWxheSA9IG1pbigzMCwgZGVsYXkgKiAyKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICAgICAgICAgICMgSW52YWxpZCBsb2NhbCBtZXRhZGF0YS9jb25maWd1cmF0aW9uIGNhbm5vdCBoZWFsIGJ5IHJlY29ubmVjdGluZy4KICAgICAgICAgICAgICAgIHNlbGYuX2Vycm9yID0gc3RyKGV4Yykgb3IgdHlwZShleGMpLl9fbmFtZV9fCiAgICAgICAgICAgICAgICByZXR1cm4K
+"""Channel-owned variable / event publishers; no SDK objects escape the core."""
+
+import asyncio
+from contextlib import suppress
+from datetime import UTC, datetime
+import json
+from uuid import NAMESPACE_URL, uuid4, uuid5
+
+import aiomqtt
+
+from src.proto.opcua.core.feature_config import PubSubConfig
+from src.proto.opcua.core.mqtt import MqttPublisher
+from src.proto.opcua.core.pubsub_json import EVENT_TYPES, data_value, field_metadata, overall_status, variant
+from src.proto.opcua.plugins.base import PluginContext
+
+
+class PubSubPlugin:
+    def __init__(self):
+        self._task = None
+        self._mqtt = MqttPublisher()
+        self._error = None
+        self._published = 0
+        self._last_publish = None
+        self._writers = {}
+        self._cursor = 0
+        self._sequence = {}
+        self._previous = {}
+        self._stopping = False
+
+    async def initialize(self, context: PluginContext) -> None:
+        self._config = PubSubConfig.model_validate(context.config.get("pubsub", {}))
+        self._port, self._stream, self._channel = context.ua_port, context.event_sink, context.channel_id
+        self._events_config = dict(context.config.get("events", {}))
+        if self._port is None or self._stream is None:
+            raise ValueError("发布器缺少节点读取接口或事件流")
+        nodes = {node["node_id"] for node in context.config.get("definitions", [])}
+        if any(f.node_id not in nodes for w in self._config.writers for f in w.fields):
+            raise ValueError("发布数据集包含不存在的变量")
+
+    async def start(self) -> None:
+        if self._config.enabled:
+            self._stopping = False
+            # Do not replay old events when a publisher is enabled/reconfigured.
+            self._cursor = self._stream.page()["latest_sequence"]
+            self._task = asyncio.create_task(self._run(), name=f"opcua-pubsub-{self._channel}")
+
+    async def stop(self) -> None:
+        self._stopping = True
+        if self._task:
+            self._task.cancel()
+            with suppress(asyncio.CancelledError):
+                await self._task
+            self._task = None
+
+    def status(self) -> dict:
+        return {
+            "enabled": self._config.enabled,
+            "connected": self._mqtt.connected,
+            "error": self._error or self._mqtt.error,
+            "published_count": self._published,
+            "last_publish": self._last_publish,
+            "writers": self._writers,
+        }
+
+    def configure_events(self, config: dict) -> None:
+        self._events_config = dict(config)
+
+    async def _send(self, topic: str, message: dict, retained: bool = False) -> None:
+        await self._mqtt.publish(
+            topic, json.dumps(message, ensure_ascii=False, allow_nan=False, separators=(",", ":")).encode(), retained
+        )
+
+    async def _metadata(self, writer) -> None:
+        fields = []
+        if writer.kind == "variables":
+            for field in writer.fields:
+                snapshot = await self._port.read(field.node_id)
+                fields.append(
+                    field_metadata(
+                        field.alias,
+                        snapshot.get("variant_type"),
+                        str(uuid5(NAMESPACE_URL, f"{self._channel}/{writer.writer_id}/{field.node_id}")),
+                        isinstance(snapshot.get("value"), list),
+                    )
+                )
+        else:
+            for name in writer.event_fields:
+                fields.append(
+                    field_metadata(name, EVENT_TYPES[name], str(uuid5(NAMESPACE_URL, f"{writer.writer_id}/{name}")))
+                )
+        await self._send(
+            writer.metadata_topic,
+            {
+                "MessageId": str(uuid4()),
+                "MessageType": "ua-metadata",
+                "PublisherId": self._config.publisher_id,
+                "DataSetWriterId": writer.writer_id,
+                "DataSetWriterName": writer.name,
+                "WriterGroupName": self._config.writer_group_name,
+                "Timestamp": datetime.now(UTC).isoformat(),
+                "MetaData": {
+                    "Name": writer.name,
+                    "Fields": fields,
+                    "DataSetClassId": "00000000-0000-0000-0000-000000000000",
+                    "ConfigurationVersion": {"MajorVersion": self._config.config_version, "MinorVersion": 0},
+                },
+            },
+            True,
+        )
+
+    async def _message(self, writer, payload: dict, message_type: str, status: int = 0) -> None:
+        number = self._sequence.get(writer.writer_id, 0)
+        message = {"DataSetWriterId": writer.writer_id, "MessageType": message_type, "Payload": payload}
+        content = self._config.message_content
+        if "sequence_number" in content:
+            message["SequenceNumber"] = number
+        if "timestamp" in content:
+            message["Timestamp"] = datetime.now(UTC).isoformat()
+        if "status" in content:
+            message["Status"] = status
+        if "metadata_version" in content:
+            message["MetaDataVersion"] = {"MajorVersion": self._config.config_version, "MinorVersion": 0}
+        network = {"MessageId": str(uuid4()), "MessageType": "ua-data", "Messages": [message]}
+        if "publisher_id" in content:
+            network["PublisherId"] = self._config.publisher_id
+        if "writer_group_name" in content:
+            network["WriterGroupName"] = self._config.writer_group_name
+        await self._send(writer.topic, network)
+        self._sequence[writer.writer_id] = (number + 1) & 0xFFFFFFFF
+        self._published += 1
+        self._last_publish = datetime.now(UTC).isoformat()
+        self._writers[str(writer.writer_id)] = {
+            "published_count": self._sequence[writer.writer_id],
+            "error": None,
+            "last_publish": self._last_publish,
+        }
+
+    async def _variables(self, writer) -> None:
+        snapshots, payload = [], {}
+        for field in writer.fields:
+            snapshot = await self._port.read(field.node_id)
+            snapshots.append(snapshot)
+            payload[field.alias] = data_value(snapshot, self._config.field_content)
+        previous = self._previous.get(writer.writer_id)
+        keyframe = previous is None or self._sequence.get(writer.writer_id, 0) % writer.key_frame_count == 0
+        changed = payload if keyframe else {key: value for key, value in payload.items() if previous.get(key) != value}
+        await self._message(writer, changed, "ua-keyframe" if keyframe else "ua-deltaframe", overall_status(snapshots))
+        self._previous[writer.writer_id] = payload
+        for snapshot in snapshots:
+            await self._stream.emit({"kind": "value", "source": "pubsub", "writer_id": writer.writer_id, **snapshot})
+
+    async def _events(self, writer, events: list[dict]) -> None:
+        if not self._events_config.get("enabled"):
+            raise ValueError("事件功能未启用，无法发布事件数据集")
+        for event in events:
+            sources = {key.removeprefix("ns=0;") for key in writer.source_nodes}
+            if event.get("kind") != "event" or str(event.get("SourceNode")).removeprefix("ns=0;") not in sources:
+                continue
+            if event.get("Severity", 0) < self._events_config.get("minimum_severity", 0):
+                continue
+            if self._events_config.get("message_filter", "").casefold() not in str(event.get("Message", "")).casefold():
+                continue
+            payload = {name: variant(event.get(name), EVENT_TYPES[name]) for name in writer.event_fields}
+            await self._message(writer, payload, "ua-event")
+
+    async def _run(self) -> None:
+        delay = 1
+        writers = [
+            w for w in self._config.writers if w.enabled and (w.fields if w.kind == "variables" else w.source_nodes)
+        ]
+        while not self._stopping:
+            try:
+                async with self._mqtt.connection(self._config.broker_url, f"ems-{self._channel}-{uuid4().hex[:12]}"):
+                    self._previous.clear()
+                    for writer in writers:
+                        await self._metadata(writer)
+                    delay = 1
+                    while not self._stopping:
+                        page = self._stream.page(self._cursor, limit=2000)
+                        self._error = "事件流已溢出，部分事件未发布" if page["gap"] else None
+                        for writer in writers:
+                            try:
+                                if writer.kind == "variables":
+                                    await self._variables(writer)
+                                else:
+                                    await self._events(writer, page["events"])
+                            except (aiomqtt.MqttError, OSError, TimeoutError):
+                                raise
+                            except Exception as exc:
+                                self._writers[str(writer.writer_id)] = {"error": str(exc), "last_publish": None}
+                        if page["events"]:
+                            self._cursor = page["events"][-1]["sequence"]
+                        else:
+                            self._cursor = page["latest_sequence"]
+                        if await self._mqtt.wait_for_disconnect(self._config.publishing_interval_ms / 1000):
+                            raise aiomqtt.MqttError(self._mqtt.error or "MQTT 连接已断开")
+            except (aiomqtt.MqttError, OSError, TimeoutError) as exc:
+                self._error = str(exc) or type(exc).__name__
+                if self._stopping:
+                    return
+                await asyncio.sleep(delay)
+                delay = min(30, delay * 2)
+            except Exception as exc:
+                # Invalid local metadata/configuration cannot heal by reconnecting.
+                self._error = str(exc) or type(exc).__name__
+                return

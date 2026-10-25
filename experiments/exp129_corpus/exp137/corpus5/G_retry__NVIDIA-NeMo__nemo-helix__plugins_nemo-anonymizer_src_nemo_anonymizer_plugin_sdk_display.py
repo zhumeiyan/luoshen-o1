@@ -1,1 +1,58 @@
-IyBTUERYLUZpbGVDb3B5cmlnaHRUZXh0OiBDb3B5cmlnaHQgKGMpIDIwMjUtMjAyNiBOVklESUEgQ09SUE9SQVRJT04gJiBBRkZJTElBVEVTLiBBbGwgcmlnaHRzIHJlc2VydmVkLgojIFNQRFgtTGljZW5zZS1JZGVudGlmaWVyOiBBcGFjaGUtMi4wCgoiIiJOb3RlYm9vayBkaXNwbGF5IGhlbHBlcnMgZm9yIEFub255bWl6ZXIgU0RLIHJlc3VsdCBvYmplY3RzLiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHBhbmRhcyBhcyBwZApmcm9tIGFub255bWl6ZXIuaW50ZXJmYWNlLmRpc3BsYXkgaW1wb3J0IHJlbmRlcl9yZWNvcmRfaHRtbAoKT1JJR0lOQUxfVEVYVF9DT0xVTU5fQVRUUiA9ICJvcmlnaW5hbF90ZXh0X2NvbHVtbiIKREVGQVVMVF9URVhUX0NPTFVNTiA9ICJ0ZXh0IgoKCmNsYXNzIERpc3BsYXlSZWNvcmRNaXhpbjoKICAgICIiIk1hdGNoIHVwc3RyZWFtIEFub255bWl6ZXIgcmVzdWx0IGBgZGlzcGxheV9yZWNvcmRgYCBiZWhhdmlvci4iIiIKCiAgICBfZGlzcGxheV9jeWNsZV9pbmRleDogaW50CgogICAgZGVmIF9kaXNwbGF5X3RyYWNlX2RhdGFmcmFtZShzZWxmKSAtPiBwZC5EYXRhRnJhbWU6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoKICAgIGRlZiBkaXNwbGF5X3JlY29yZChzZWxmLCBpbmRleDogaW50IHwgTm9uZSA9IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgIiIiUmVuZGVyIGEgcmVjb3JkIHdpdGggZW50aXR5IGhpZ2hsaWdodHMgYW5kIHJlcGxhY2VtZW50IG1hcCBpbiBhIG5vdGVib29rLiIiIgogICAgICAgIHRyYWNlX2RhdGFmcmFtZSA9IHNlbGYuX2Rpc3BsYXlfdHJhY2VfZGF0YWZyYW1lKCkKICAgICAgICBpID0gaW5kZXggaWYgaW5kZXggaXMgbm90IE5vbmUgZWxzZSBzZWxmLl9kaXNwbGF5X2N5Y2xlX2luZGV4CiAgICAgICAgaWYgaSA8IDAgb3IgaSA+PSBsZW4odHJhY2VfZGF0YWZyYW1lKToKICAgICAgICAgICAgcmFpc2UgSW5kZXhFcnJvcihmIlJlY29yZCBpbmRleCB7aX0gaXMgb3V0IG9mIGJvdW5kcyBmb3Ige2xlbih0cmFjZV9kYXRhZnJhbWUpfSByZWNvcmRzLiIpCgogICAgICAgIHJvdyA9IHRyYWNlX2RhdGFmcmFtZS5pbG9jW2ldCiAgICAgICAgaHRtbF9zdHIgPSByZW5kZXJfcmVjb3JkX2h0bWwoCiAgICAgICAgICAgIHJvdywKICAgICAgICAgICAgcmVjb3JkX2luZGV4PWksCiAgICAgICAgICAgIHJlc29sdmVkX3RleHRfY29sdW1uPWdldF9vcmlnaW5hbF90ZXh0X2NvbHVtbih0cmFjZV9kYXRhZnJhbWUpLAogICAgICAgICkKCiAgICAgICAgdHJ5OgogICAgICAgICAgICBmcm9tIElQeXRob24uZGlzcGxheSBpbXBvcnQgSFRNTCwgZGlzcGxheQoKICAgICAgICAgICAgZGlzcGxheShIVE1MKGh0bWxfc3RyKSkKICAgICAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgICAgIHByaW50KGh0bWxfc3RyKQoKICAgICAgICBpZiBpbmRleCBpcyBOb25lOgogICAgICAgICAgICBzZWxmLl9kaXNwbGF5X2N5Y2xlX2luZGV4ID0gKHNlbGYuX2Rpc3BsYXlfY3ljbGVfaW5kZXggKyAxKSAlIGxlbih0cmFjZV9kYXRhZnJhbWUpCgoKZGVmIHNldF9vcmlnaW5hbF90ZXh0X2NvbHVtbihkZjogcGQuRGF0YUZyYW1lLCB0ZXh0X2NvbHVtbjogc3RyIHwgTm9uZSkgLT4gcGQuRGF0YUZyYW1lOgogICAgaWYgdGV4dF9jb2x1bW46CiAgICAgICAgZGYuYXR0cnNbT1JJR0lOQUxfVEVYVF9DT0xVTU5fQVRUUl0gPSB0ZXh0X2NvbHVtbgogICAgcmV0dXJuIGRmCgoKZGVmIGdldF9vcmlnaW5hbF90ZXh0X2NvbHVtbihkZjogcGQuRGF0YUZyYW1lKSAtPiBzdHI6CiAgICB2YWx1ZSA9IGRmLmF0dHJzLmdldChPUklHSU5BTF9URVhUX0NPTFVNTl9BVFRSKQogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgc3RyKSBhbmQgdmFsdWU6CiAgICAgICAgcmV0dXJuIHZhbHVlCiAgICByZXR1cm4gREVGQVVMVF9URVhUX0NPTFVNTgo=
+# SPDX-FileCopyrightText: Copyright (c) 2025-2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
+
+"""Notebook display helpers for Anonymizer SDK result objects."""
+
+from __future__ import annotations
+
+import pandas as pd
+from anonymizer.interface.display import render_record_html
+
+ORIGINAL_TEXT_COLUMN_ATTR = "original_text_column"
+DEFAULT_TEXT_COLUMN = "text"
+
+
+class DisplayRecordMixin:
+    """Match upstream Anonymizer result ``display_record`` behavior."""
+
+    _display_cycle_index: int
+
+    def _display_trace_dataframe(self) -> pd.DataFrame:
+        raise NotImplementedError
+
+    def display_record(self, index: int | None = None) -> None:
+        """Render a record with entity highlights and replacement map in a notebook."""
+        trace_dataframe = self._display_trace_dataframe()
+        i = index if index is not None else self._display_cycle_index
+        if i < 0 or i >= len(trace_dataframe):
+            raise IndexError(f"Record index {i} is out of bounds for {len(trace_dataframe)} records.")
+
+        row = trace_dataframe.iloc[i]
+        html_str = render_record_html(
+            row,
+            record_index=i,
+            resolved_text_column=get_original_text_column(trace_dataframe),
+        )
+
+        try:
+            from IPython.display import HTML, display
+
+            display(HTML(html_str))
+        except ImportError:
+            print(html_str)
+
+        if index is None:
+            self._display_cycle_index = (self._display_cycle_index + 1) % len(trace_dataframe)
+
+
+def set_original_text_column(df: pd.DataFrame, text_column: str | None) -> pd.DataFrame:
+    if text_column:
+        df.attrs[ORIGINAL_TEXT_COLUMN_ATTR] = text_column
+    return df
+
+
+def get_original_text_column(df: pd.DataFrame) -> str:
+    value = df.attrs.get(ORIGINAL_TEXT_COLUMN_ATTR)
+    if isinstance(value, str) and value:
+        return value
+    return DEFAULT_TEXT_COLUMN

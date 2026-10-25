@@ -1,1 +1,76 @@
-IyBDb25maWd1cmF0aW9uIGZpbGUgZm9yIHRoZSBTcGhpbnggZG9jdW1lbnRhdGlvbiBidWlsZGVyLgojCiMgVGhpcyBmaWxlIG9ubHkgY29udGFpbnMgYSBzZWxlY3Rpb24gb2YgdGhlIG1vc3QgY29tbW9uIG9wdGlvbnMuIEZvciBhIGZ1bGwKIyBsaXN0IHNlZSB0aGUgZG9jdW1lbnRhdGlvbjoKIyBodHRwczovL3d3dy5zcGhpbngtZG9jLm9yZy9lbi9tYXN0ZXIvdXNhZ2UvY29uZmlndXJhdGlvbi5odG1sCgojIC0tIFBhdGggc2V0dXAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiMgSWYgZXh0ZW5zaW9ucyAob3IgbW9kdWxlcyB0byBkb2N1bWVudCB3aXRoIGF1dG9kb2MpIGFyZSBpbiBhbm90aGVyIGRpcmVjdG9yeSwKIyBhZGQgdGhlc2UgZGlyZWN0b3JpZXMgdG8gc3lzLnBhdGggaGVyZS4gSWYgdGhlIGRpcmVjdG9yeSBpcyByZWxhdGl2ZSB0byB0aGUKIyBkb2N1bWVudGF0aW9uIHJvb3QsIHVzZSBvcy5wYXRoLmFic3BhdGggdG8gbWFrZSBpdCBhYnNvbHV0ZSwgbGlrZSBzaG93biBoZXJlLgppbXBvcnQgc3lzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKc3lzLnBhdGguaW5zZXJ0KDAsIHN0cihQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50KSkKCgojIC0tIFByb2plY3QgaW5mb3JtYXRpb24gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCnByb2plY3QgPSAiU2NyYXB5ZCIKY29weXJpZ2h0ID0gIjIwMTMtMjAyMywgU2NyYXB5IGdyb3VwIgphdXRob3IgPSAiU2NyYXB5IGdyb3VwIgoKIyBUaGUgc2hvcnQgWC5ZIHZlcnNpb24KdmVyc2lvbiA9ICIxLjYuMCIKIyBUaGUgZnVsbCB2ZXJzaW9uLCBpbmNsdWRpbmcgYWxwaGEvYmV0YS9yYyB0YWdzCnJlbGVhc2UgPSB2ZXJzaW9uCgoKIyAtLSBHZW5lcmFsIGNvbmZpZ3VyYXRpb24gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgojIEFkZCBhbnkgU3BoaW54IGV4dGVuc2lvbiBtb2R1bGUgbmFtZXMgaGVyZSwgYXMgc3RyaW5ncy4gVGhleSBjYW4gYmUKIyBleHRlbnNpb25zIGNvbWluZyB3aXRoIFNwaGlueCAobmFtZWQgJ3NwaGlueC5leHQuKicpIG9yIHlvdXIgY3VzdG9tCiMgb25lcy4KZXh0ZW5zaW9ucyA9IFsKICAgICJzcGhpbnguZXh0LmF1dG9kb2MiLAogICAgInNwaGlueC5leHQuZXh0bGlua3MiLAogICAgInNwaGlueC5leHQudmlld2NvZGUiLAogICAgInNwaGlueGNvbnRyaWIuem9wZWV4dC5hdXRvaW50ZXJmYWNlIiwKXQoKIyBBZGQgYW55IHBhdGhzIHRoYXQgY29udGFpbiB0ZW1wbGF0ZXMgaGVyZSwgcmVsYXRpdmUgdG8gdGhpcyBkaXJlY3RvcnkuCnRlbXBsYXRlc19wYXRoID0gWyJfdGVtcGxhdGVzIl0KCiMgTGlzdCBvZiBwYXR0ZXJucywgcmVsYXRpdmUgdG8gc291cmNlIGRpcmVjdG9yeSwgdGhhdCBtYXRjaCBmaWxlcyBhbmQKIyBkaXJlY3RvcmllcyB0byBpZ25vcmUgd2hlbiBsb29raW5nIGZvciBzb3VyY2UgZmlsZXMuCiMgVGhpcyBwYXR0ZXJuIGFsc28gYWZmZWN0cyBodG1sX3N0YXRpY19wYXRoIGFuZCBodG1sX2V4dHJhX3BhdGguCmV4Y2x1ZGVfcGF0dGVybnMgPSBbIl9idWlsZCJdCgoKIyAtLSBPcHRpb25zIGZvciBIVE1MIG91dHB1dCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgojIFRoZSB0aGVtZSB0byB1c2UgZm9yIEhUTUwgYW5kIEhUTUwgSGVscCBwYWdlcy4gIFNlZSB0aGUgZG9jdW1lbnRhdGlvbiBmb3IKIyBhIGxpc3Qgb2YgYnVpbHRpbiB0aGVtZXMuCiMKaHRtbF90aGVtZSA9ICJmdXJvIgoKIyBBZGQgYW55IHBhdGhzIHRoYXQgY29udGFpbiBjdXN0b20gc3RhdGljIGZpbGVzIChzdWNoIGFzIHN0eWxlIHNoZWV0cykgaGVyZSwKIyByZWxhdGl2ZSB0byB0aGlzIGRpcmVjdG9yeS4gVGhleSBhcmUgY29waWVkIGFmdGVyIHRoZSBidWlsdGluIHN0YXRpYyBmaWxlcywKIyBzbyBhIGZpbGUgbmFtZWQgImRlZmF1bHQuY3NzIiB3aWxsIG92ZXJ3cml0ZSB0aGUgYnVpbHRpbiAiZGVmYXVsdC5jc3MiLgpodG1sX3N0YXRpY19wYXRoID0gW10KCgojIC0tIEV4dGVuc2lvbiBjb25maWd1cmF0aW9uIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCmF1dG9kb2NfZGVmYXVsdF9vcHRpb25zID0gewogICAgIm1lbWJlcnMiOiBOb25lLAogICAgIm1lbWJlci1vcmRlciI6ICJieXNvdXJjZSIsCn0KYXV0b2RvY190eXBlaGludHMgPSAiZGVzY3JpcHRpb24iCmF1dG9kb2NfdHlwZV9hbGlhc2VzID0ge30KCmV4dGxpbmtzID0gewogICAgImlzc3VlIjogKCJodHRwczovL2dpdGh1Yi5jb20vb3Blbi1jb250cmFjdGluZy9wZWxpY2FuLWZyb250ZW5kL2lzc3Vlcy8lcyIsICIjJXMiKSwKICAgICJjb21taXQiOiAoImh0dHBzOi8vZ2l0aHViLmNvbS9vcGVuLWNvbnRyYWN0aW5nL3BlbGljYW4tZnJvbnRlbmQvY29tbWl0LyVzIiwgIiVzIiksCn0K
+# Configuration file for the Sphinx documentation builder.
+#
+# This file only contains a selection of the most common options. For a full
+# list see the documentation:
+# https://www.sphinx-doc.org/en/master/usage/configuration.html
+
+# -- Path setup --------------------------------------------------------------
+
+# If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+
+# -- Project information -----------------------------------------------------
+
+project = "Scrapyd"
+copyright = "2013-2023, Scrapy group"
+author = "Scrapy group"
+
+# The short X.Y version
+version = "1.6.0"
+# The full version, including alpha/beta/rc tags
+release = version
+
+
+# -- General configuration ---------------------------------------------------
+
+# Add any Sphinx extension module names here, as strings. They can be
+# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
+# ones.
+extensions = [
+    "sphinx.ext.autodoc",
+    "sphinx.ext.extlinks",
+    "sphinx.ext.viewcode",
+    "sphinxcontrib.zopeext.autointerface",
+]
+
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ["_templates"]
+
+# List of patterns, relative to source directory, that match files and
+# directories to ignore when looking for source files.
+# This pattern also affects html_static_path and html_extra_path.
+exclude_patterns = ["_build"]
+
+
+# -- Options for HTML output -------------------------------------------------
+
+# The theme to use for HTML and HTML Help pages.  See the documentation for
+# a list of builtin themes.
+#
+html_theme = "furo"
+
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = []
+
+
+# -- Extension configuration -------------------------------------------------
+
+autodoc_default_options = {
+    "members": None,
+    "member-order": "bysource",
+}
+autodoc_typehints = "description"
+autodoc_type_aliases = {}
+
+extlinks = {
+    "issue": ("https://github.com/open-contracting/pelican-frontend/issues/%s", "#%s"),
+    "commit": ("https://github.com/open-contracting/pelican-frontend/commit/%s", "%s"),
+}

@@ -1,1 +1,222 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJleHAxNDdiIOmxvOagvDog6K6k55+l5Zyw5Zu+ICh2MiDkv67mraPmt7fmt4YpCuS/ruatozE6IGhvbWUg5rex5bqm5LiJ5Zyw5b2i57uf5LiAPTMK5L+u5q2jMjog5o6i57Si5pS55Li6IuimhuebluWIsCBUQVJHRVRfS05PV04g5Liq6IqC54K55Li65q2iIiwg6KaG55uW546H5LiJ5Zyw5b2i55u45ZCMCuS/ruatozM6IOWinuWKoCBDSEFJTijmr5vliLrpk74pIOmYtOaAp+WcsOW9oiAtPiDliKTmja7lv4Xpobvog73kuqfnlJ8i5Zyw5Zu+5peg55SoIueahOWBhwrnrZbnlaU6IE1BUCjorqTnn6XlnLDlm74pIC8gUk9VVEUo5q276K6w6Lev57q/KSAvIFJBTkRPTSAvIE1BUF9TSFVGKOWcsOWbvumUmeS5seegtOe8uikKIiIiCmltcG9ydCBvcywganNvbiwgcmFuZG9tLCBoZWFwcQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZXF1ZSwgZGVmYXVsdGRpY3QKClNFRUQ9MjAyNjEwMTg7IENBUD00Mjg7IFRfTElNSVQ9MTUwMDsgVEFSR0VUX0tOT1dOPTEzMApOX1RSSUFMPTYwOyBSRUFMX1JPT1Q9Jy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xJwoKZGVmIGJ1aWxkX3JlYWwocm9vdCwgY2FwPUNBUCk6CiAgICBwYXI9e3Jvb3Q6Tm9uZX07IG9yZGVyPVtyb290XTsgcT1kZXF1ZShbcm9vdF0pCiAgICB3aGlsZSBxIGFuZCBsZW4ob3JkZXIpPGNhcDoKICAgICAgICBkPXEucG9wbGVmdCgpCiAgICAgICAgdHJ5OiBzdWJzPXNvcnRlZChvcy5saXN0ZGlyKGQpKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IGNvbnRpbnVlCiAgICAgICAgZm9yIHggaW4gc3ViczoKICAgICAgICAgICAgcD1vcy5wYXRoLmpvaW4oZCx4KQogICAgICAgICAgICBpZiBvcy5wYXRoLmlzbGluayhwKSBvciBub3Qgb3MucGF0aC5pc2RpcihwKSBvciBwIGluIHBhcjogY29udGludWUKICAgICAgICAgICAgcGFyW3BdPWQ7IG9yZGVyLmFwcGVuZChwKTsgcS5hcHBlbmQocCkKICAgICAgICAgICAgaWYgbGVuKG9yZGVyKT49Y2FwOiBicmVhawogICAgcmV0dXJuIHBhciwgb3JkZXIKCmRlZiBidWlsZF9zeW50aChuLCBybmcpOgogICAgcGFyPXsnbjAnOk5vbmV9OyBub2Rlcz1bJ24wJ107IHE9ZGVxdWUoWyduMCddKTsgaT0xCiAgICB3aGlsZSBsZW4obm9kZXMpPG4gYW5kIHE6CiAgICAgICAgZD1xLnBvcGxlZnQoKQogICAgICAgIGZvciBfIGluIHJhbmdlKHJuZy5jaG9pY2UoWzEsMiwzXSkpOgogICAgICAgICAgICBpZiBsZW4obm9kZXMpPj1uOiBicmVhawogICAgICAgICAgICBuYW1lPWYnbntpfSc7IGkrPTEKICAgICAgICAgICAgcGFyW25hbWVdPWQ7IG5vZGVzLmFwcGVuZChuYW1lKTsgcS5hcHBlbmQobmFtZSkKICAgIHJldHVybiBwYXIsIG5vZGVzCgpkZWYgYnVpbGRfY2hhaW4obiwgcm5nKToKICAgICIiIuavm+WIuumTvjog5Li75bmyICsg5q+PIDgg5Liq5Li75bmy6IqC54K55oyCIDEg5Liq5Y+25a2QOyDot6/lvoTov5HkvLzllK/kuIAgLT4g5Zyw5Zu+5bqU5peg55SoIiIiCiAgICBwYXI9eydjMCc6Tm9uZX07IG5vZGVzPVsnYzAnXTsgaT0xCiAgICB3aGlsZSBsZW4obm9kZXMpPG46CiAgICAgICAgcHJldj1ub2Rlc1stMV0gaWYgbm9kZXNbLTFdLnN0YXJ0c3dpdGgoJ2MnKSBlbHNlIE5vbmUKICAgICAgICAjIOaJvuS4u+W5suacq+errwogICAgICAgIG1haW49W3ggZm9yIHggaW4gbm9kZXMgaWYgeC5zdGFydHN3aXRoKCdjJyldCiAgICAgICAgdGFpbD1tYWluWy0xXQogICAgICAgIG5hbWU9Zidje2l9JzsgaSs9MQogICAgICAgIHBhcltuYW1lXT10YWlsOyBub2Rlcy5hcHBlbmQobmFtZSkKICAgICAgICBpZiBsZW4obm9kZXMpJTg9PTAgYW5kIGxlbihub2Rlcyk8bjoKICAgICAgICAgICAgbGY9Zidse2l9JzsgaSs9MQogICAgICAgICAgICBwYXJbbGZdPXRhaWw7IG5vZGVzLmFwcGVuZChsZikKICAgIHJldHVybiBwYXIsIG5vZGVzCgpkZWYgdG9fYWRqKHBhciwgbm9kZXMpOgogICAgYWRqPWRlZmF1bHRkaWN0KHNldCkKICAgIGZvciBuIGluIG5vZGVzOgogICAgICAgIHA9cGFyW25dCiAgICAgICAgaWYgcCBpcyBub3QgTm9uZTogYWRqW25dLmFkZChwKTsgYWRqW3BdLmFkZChuKQogICAgcmV0dXJuIGFkagoKZGVmIGRlcHRocyhwYXIsIG5vZGVzKToKICAgIGQ9e30KICAgIGZvciBuIGluIG5vZGVzOgogICAgICAgIGs9MDsgeD1uCiAgICAgICAgd2hpbGUgcGFyLmdldCh4KSBpcyBub3QgTm9uZTogeD1wYXJbeF07IGsrPTEKICAgICAgICBkW25dPWsKICAgIHJldHVybiBkCgpkZWYgZ2luaSh2YWxzKToKICAgIHY9c29ydGVkKHZhbHMpOyBuPWxlbih2KTsgcz1zdW0odikKICAgIGlmIHM9PTAgb3Igbj09MDogcmV0dXJuIDAuMAogICAgcmV0dXJuICgyKnN1bSgoaSsxKSp4IGZvciBpLHggaW4gZW51bWVyYXRlKHYpKSkvKG4qcyktKG4rMSkvbgoKZGVmIGV4cGxvcmVfdW50aWwoYWRqLCBob21lLCB0YXJnZXQsIHJuZywgbWF4X3N0ZXBzPTIwMDAwKToKICAgIGtub3duPWRlZmF1bHRkaWN0KHNldCk7IGN1cj1ob21lOyBzZWVuPXtob21lfTsgcm91dGU9W2hvbWVdOyBzdGVwcz0wCiAgICB3aGlsZSBsZW4oc2Vlbik8dGFyZ2V0IGFuZCBzdGVwczxtYXhfc3RlcHM6CiAgICAgICAgc3RlcHMrPTEKICAgICAgICBuYj1zb3J0ZWQoYWRqW2N1cl0pCiAgICAgICAgaWYgbm90IG5iOiBicmVhawogICAgICAgIG54dD1ybmcuY2hvaWNlKG5iKQogICAgICAgIGtub3duW2N1cl0uYWRkKG54dCk7IGtub3duW254dF0uYWRkKGN1cikKICAgICAgICBzZWVuLmFkZChueHQpOyBjdXI9bnh0OyByb3V0ZS5hcHBlbmQoY3VyKQogICAgcmV0dXJuIGtub3duLCByb3V0ZSwgc3RlcHMKCmRlZiBkaWprc3RyYV9uZXh0KGtub3duLCBzcmMsIGRzdCk6CiAgICBpZiBzcmM9PWRzdDogcmV0dXJuIE5vbmUKICAgIGRpc3Q9e3NyYzowfTsgcHJldj17fTsgcHE9WygwLHNyYyldOyBzZWVuPXNldCgpCiAgICB3aGlsZSBwcToKICAgICAgICBkLHU9aGVhcHEuaGVhcHBvcChwcSkKICAgICAgICBpZiB1IGluIHNlZW46IGNvbnRpbnVlCiAgICAgICAgc2Vlbi5hZGQodSkKICAgICAgICBpZiB1PT1kc3Q6IGJyZWFrCiAgICAgICAgZm9yIHYgaW4ga25vd25bdV06CiAgICAgICAgICAgIGlmIGQrMTxkaXN0LmdldCh2LDFlOSk6CiAgICAgICAgICAgICAgICBkaXN0W3ZdPWQrMTsgcHJldlt2XT11OyBoZWFwcS5oZWFwcHVzaChwcSwoZCsxLHYpKQogICAgaWYgZHN0IG5vdCBpbiBkaXN0OiByZXR1cm4gTm9uZQogICAgeD1kc3QKICAgIHdoaWxlIHByZXYuZ2V0KHgpIT1zcmM6CiAgICAgICAgeD1wcmV2W3hdCiAgICAgICAgaWYgeD09c3JjOiBicmVhawogICAgcmV0dXJuIHgKCmRlZiBzaHVmZmxlX2tub3duKGtub3duLCBybmcpOgogICAgbm9kZXM9bGlzdChrbm93bi5rZXlzKCkpCiAgICBpZiBsZW4obm9kZXMpPDM6IHJldHVybiBrbm93bgogICAgZWM9c3VtKGxlbih2KSBmb3IgdiBpbiBrbm93bi52YWx1ZXMoKSkvLzIKICAgIGJhZD1kZWZhdWx0ZGljdChzZXQpCiAgICBmb3IgXyBpbiByYW5nZShlYyk6CiAgICAgICAgdT1ybmcuY2hvaWNlKG5vZGVzKTsgdj1ybmcuY2hvaWNlKG5vZGVzKQogICAgICAgIGlmIHUhPXY6IGJhZFt1XS5hZGQodik7IGJhZFt2XS5hZGQodSkKICAgIHJldHVybiBiYWQKCmRlZiBuYXZpZ2F0ZShhZGosIGhvbWUsIHN0YXJ0LCBwb2xpY3ksIGtub3duLCByb3V0ZSwgcm5nLCB0bGltaXQ9VF9MSU1JVCk6CiAgICBjdXI9c3RhcnQ7IHN0ZXBzPTAKICAgIGtub3duPWRlZmF1bHRkaWN0KHNldCx7azpzZXQodikgZm9yIGssdiBpbiBrbm93bi5pdGVtcygpfSkKICAgIGlmIHBvbGljeT09J01BUF9TSFVGJzoga25vd249c2h1ZmZsZV9rbm93bihrbm93bixybmcpCiAgICByc2V0PXNldChyb3V0ZSk7IHJpZHg9e30KICAgIGZvciBpLG4gaW4gZW51bWVyYXRlKHJvdXRlKTogcmlkeC5zZXRkZWZhdWx0KG4saSkKICAgIHdoaWxlIGN1ciE9aG9tZSBhbmQgc3RlcHM8dGxpbWl0OgogICAgICAgIHN0ZXBzKz0xCiAgICAgICAgaWYgcG9saWN5IGluICgnTUFQJywnTUFQX1NIVUYnKToKICAgICAgICAgICAgbnh0PWRpamtzdHJhX25leHQoa25vd24sY3VyLGhvbWUpCiAgICAgICAgICAgIGlmIG54dCBpcyBOb25lOgogICAgICAgICAgICAgICAgbmI9c29ydGVkKGFkaltjdXJdKQogICAgICAgICAgICAgICAgaWYgbm90IG5iOiBicmVhawogICAgICAgICAgICAgICAgbnh0PXJuZy5jaG9pY2UobmIpCiAgICAgICAgZWxpZiBwb2xpY3k9PSdST1VURSc6CiAgICAgICAgICAgIGlmIGN1ciBpbiByc2V0OgogICAgICAgICAgICAgICAgaT1yaWR4W2N1cl0KICAgICAgICAgICAgICAgIHdoaWxlIGk+MCBhbmQgc3RlcHM8dGxpbWl0OgogICAgICAgICAgICAgICAgICAgIHN0ZXBzKz0xOyBjdXI9cm91dGVbaS0xXTsgaS09MQogICAgICAgICAgICAgICAgcmV0dXJuIHN0ZXBzLCBjdXI9PWhvbWUKICAgICAgICAgICAgbmI9c29ydGVkKGFkaltjdXJdKQogICAgICAgICAgICBpZiBub3QgbmI6IGJyZWFrCiAgICAgICAgICAgIG54dD1ybmcuY2hvaWNlKG5iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5iPXNvcnRlZChhZGpbY3VyXSkKICAgICAgICAgICAgaWYgbm90IG5iOiBicmVhawogICAgICAgICAgICBueHQ9cm5nLmNob2ljZShuYikKICAgICAgICBrbm93bltjdXJdLmFkZChueHQpOyBrbm93bltueHRdLmFkZChjdXIpCiAgICAgICAgY3VyPW54dAogICAgcmV0dXJuIHN0ZXBzLCBjdXI9PWhvbWUKCmRlZiBib290X2NpKGEsYj1Ob25lLG49NDAwMCxzZWVkPTEpOgogICAgcm5nPXJhbmRvbS5SYW5kb20oc2VlZCk7IG09bGVuKGEpOyB2YWxzPVtdCiAgICBmb3IgXyBpbiByYW5nZShuKToKICAgICAgICBpZiBiIGlzIE5vbmU6CiAgICAgICAgICAgIHZhbHMuYXBwZW5kKHN1bShhW3JuZy5yYW5kcmFuZ2UobSldIGZvciBfIGluIHJhbmdlKG0pKS9tKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlkeD1bcm5nLnJhbmRyYW5nZShtKSBmb3IgXyBpbiByYW5nZShtKV0KICAgICAgICAgICAgdmFscy5hcHBlbmQoc3VtKGFbaV0tYltpXSBmb3IgaSBpbiBpZHgpL20pCiAgICB2YWxzLnNvcnQoKTsgcmV0dXJuIHJvdW5kKHZhbHNbaW50KDAuMDI1Km4pXSw0KSwgcm91bmQodmFsc1tpbnQoMC45NzUqbildLDQpCgpkZWYgcnVuKCk6CiAgICBybmc9cmFuZG9tLlJhbmRvbShTRUVEKTsgb3V0PXsnc2VlZCc6U0VFRCwnY2FwJzpDQVAsJ3RhcmdldF9rbm93bic6VEFSR0VUX0tOT1dOLAogICAgICAgICduX3RyaWFsJzpOX1RSSUFMLCd0X2xpbWl0JzpUX0xJTUlULCdyZWFsX3Jvb3QnOlJFQUxfUk9PVH0KICAgIFQ9e30KICAgIHBhckEsbkE9YnVpbGRfcmVhbChSRUFMX1JPT1QsQ0FQKQogICAgcGFyQixuQj1idWlsZF9zeW50aChsZW4obkEpLHJuZykKICAgIHBhckMsbkM9YnVpbGRfY2hhaW4obGVuKG5BKSxybmcpCiAgICB0ZXJyPXt9CiAgICBmb3IgbmFtZSwocGFyLG5vZGVzKSBpbiB7J1JFQUwnOihwYXJBLG5BKSwnU1lOVEgnOihwYXJCLG5CKSwnQ0hBSU4nOihwYXJDLG5DKX0uaXRlbXMoKToKICAgICAgICBhZGo9dG9fYWRqKHBhcixub2Rlcyk7IGRlcD1kZXB0aHMocGFyLG5vZGVzKQogICAgICAgIGRlZ3M9W2xlbihhZGpbbl0pIGZvciBuIGluIG5vZGVzXQogICAgICAgICMgaG9tZTog57uf5LiA5Y+WIGRlcHRoPT0zIOeahOiKgueCuSjlkKbliJnlj5bmnIDmjqXov5EzKQogICAgICAgIGMzPVtuIGZvciBuIGluIG5vZGVzIGlmIGRlcFtuXT09M10KICAgICAgICBpZiBub3QgYzM6CiAgICAgICAgICAgIG09bWluKGRlcC52YWx1ZXMoKSxrZXk9bGFtYmRhIGQ6YWJzKGQtMykpOyBjMz1bbiBmb3IgbiBpbiBub2RlcyBpZiBkZXBbbl09PW1dCiAgICAgICAgaG9tZT1yYW5kb20uUmFuZG9tKFNFRUQpLmNob2ljZShzb3J0ZWQoYzMpKQogICAgICAgIGtub3duLHJvdXRlLGVzdGVwcz1leHBsb3JlX3VudGlsKGFkaixob21lLFRBUkdFVF9LTk9XTixyYW5kb20uUmFuZG9tKFNFRUQpKQogICAgICAgIHRlcnJbbmFtZV09ZGljdChhZGo9YWRqLG5vZGVzPW5vZGVzLGRlcD1kZXAsaG9tZT1ob21lLGtub3duPWtub3duLHJvdXRlPXJvdXRlLAogICAgICAgICAgICBleHBsb3JlX3N0ZXBzPWVzdGVwcyxjb3ZlcmFnZT1yb3VuZChsZW4oa25vd24pL2xlbihub2RlcyksNCksCiAgICAgICAgICAgIGRlcHRoX21heD1tYXgoZGVwLnZhbHVlcygpKSxkZXB0aF9tZWFuPXJvdW5kKHN1bShkZXAudmFsdWVzKCkpL2xlbihkZXApLDMpLAogICAgICAgICAgICBkZWdfbWF4PW1heChkZWdzKSxnaW5pX2RlZz1yb3VuZChnaW5pKGRlZ3MpLDQpKQogICAgICAgIHByaW50KGYnW3tuYW1lfV0gbj17bGVuKG5vZGVzKX0gaG9tZV9kPXtkZXBbaG9tZV19IGtub3duPXtsZW4oa25vd24pfSAnCiAgICAgICAgICAgICAgZidjb3Y9e3RlcnJbbmFtZV1bImNvdmVyYWdlIl19IGRlcHRoX21lYW49e3RlcnJbbmFtZV1bImRlcHRoX21lYW4iXX0gJwogICAgICAgICAgICAgIGYnZGVnX21heD17bWF4KGRlZ3MpfSBnaW5pPXt0ZXJyW25hbWVdWyJnaW5pX2RlZyJdfSBlc3RlcHM9e2VzdGVwc30nKQogICAgIyDlr7zoiKoKICAgIHN0YXJ0c19zZWVkPVNFRUQrMQogICAgZm9yIG5hbWUsdCBpbiB0ZXJyLml0ZW1zKCk6CiAgICAgICAgbm9kZXM9dFsnbm9kZXMnXTsgc3RhcnRzPVtub2Rlc1tpXSBmb3IgaSBpbiByYW5kb20uUmFuZG9tKHN0YXJ0c19zZWVkKS5zYW1wbGUocmFuZ2UobGVuKG5vZGVzKSksTl9UUklBTCldCiAgICAgICAgcmVzPXt9CiAgICAgICAgZm9yIHBvbCBpbiBbJ01BUCcsJ1JPVVRFJywnUkFORE9NJywnTUFQX1NIVUYnXToKICAgICAgICAgICAgc3RlcHM9W107IHN1Y2M9W10KICAgICAgICAgICAgZm9yIGsscyBpbiBlbnVtZXJhdGUoc3RhcnRzKToKICAgICAgICAgICAgICAgIHN0LG9rPW5hdmlnYXRlKHRbJ2FkaiddLHRbJ2hvbWUnXSxzLHBvbCx0Wydrbm93biddLHRbJ3JvdXRlJ10scmFuZG9tLlJhbmRvbShTRUVEKzEwMCtrKSkKICAgICAgICAgICAgICAgIHN0ZXBzLmFwcGVuZChzdCk7IHN1Y2MuYXBwZW5kKDEgaWYgb2sgZWxzZSAwKQogICAgICAgICAgICByZXNbcG9sXT1kaWN0KG1lYW49cm91bmQoc3VtKHN0ZXBzKS9sZW4oc3RlcHMpLDMpLG1lZGlhbj1zb3J0ZWQoc3RlcHMpW05fVFJJQUwvLzJdLAogICAgICAgICAgICAgICAgICAgICAgICAgIHN1Y2M9cm91bmQoc3VtKHN1Y2MpL2xlbihzdWNjKSw0KSxzdGVwcz1zdGVwcykKICAgICAgICB0WydyZXMnXT1yZXMKICAgICAgICBwcmludChmJyAge25hbWV9OiBNQVA9e3Jlc1siTUFQIl1bIm1lYW4iXX0gUk9VVEU9e3Jlc1siUk9VVEUiXVsibWVhbiJdfSAnCiAgICAgICAgICAgICAgZidSQU5ET009e3Jlc1siUkFORE9NIl1bIm1lYW4iXX0gU0hVRj17cmVzWyJNQVBfU0hVRiJdWyJtZWFuIl19ICcKICAgICAgICAgICAgICBmJ3N1Y2M9e3Jlc1siTUFQIl1bInN1Y2MiXX0ve3Jlc1siUk9VVEUiXVsic3VjYyJdfS97cmVzWyJSQU5ET00iXVsic3VjYyJdfScpCiAgICAjIE1BUCB2cyBST1VURSAoVG9sbWFuIOS4u+WIpOaNrikgcGFpcmVkCiAgICBvdXRbJ3RvbG1hbiddPXt9CiAgICBmb3IgbmFtZSx0IGluIHRlcnIuaXRlbXMoKToKICAgICAgICBhPXRbJ3JlcyddWydNQVAnXVsnc3RlcHMnXTsgYj10WydyZXMnXVsnUk9VVEUnXVsnc3RlcHMnXQogICAgICAgIG91dFsndG9sbWFuJ11bbmFtZV09ZGljdChtYXBfbWVhbj1yb3VuZChzdW0oYSkvbGVuKGEpLDMpLHJvdXRlX21lYW49cm91bmQoc3VtKGIpL2xlbihiKSwzKSwKICAgICAgICAgICAgZGVsdGFfcm91dGVfbWludXNfbWFwPXJvdW5kKHN1bShiKS9sZW4oYiktc3VtKGEpL2xlbihhKSwzKSxjaT1ib290X2NpKGIsYSkpCiAgICAjIOegtOe8uiBTSFVGIHZzIE1BUAogICAgb3V0WydicmVhayddPXt9CiAgICBmb3IgbmFtZSx0IGluIHRlcnIuaXRlbXMoKToKICAgICAgICBhPXRbJ3JlcyddWydNQVBfU0hVRiddWydzdGVwcyddOyBiPXRbJ3JlcyddWydNQVAnXVsnc3RlcHMnXQogICAgICAgIG91dFsnYnJlYWsnXVtuYW1lXT1kaWN0KHNodWY9cm91bmQoc3VtKGEpL2xlbihhKSwzKSxtYXA9cm91bmQoc3VtKGIpL2xlbihiKSwzKSwKICAgICAgICAgICAgZGVsdGE9cm91bmQoc3VtKGEpL2xlbihhKS1zdW0oYikvbGVuKGIpLDMpLGNpPWJvb3RfY2koYSxiKSkKICAgICMg5Lqk5LqSIFJFQUwgdnMgQ0hBSU46IFRvbG1hbiDlop7nm4oKICAgIGRlZiBnYWluKG4pOgogICAgICAgIHQ9dGVycltuXTsgcmV0dXJuIFsoYi1hKSBmb3IgYSxiIGluIHppcCh0WydyZXMnXVsnTUFQJ11bJ3N0ZXBzJ10sdFsncmVzJ11bJ1JPVVRFJ11bJ3N0ZXBzJ10pXQogICAgZ1IsZ0M9Z2FpbignUkVBTCcpLGdhaW4oJ0NIQUlOJykKICAgIG91dFsnaW50ZXJhY3Rpb25fUkVBTF92c19DSEFJTiddPWRpY3QoZ2Fpbl9SRUFMPXJvdW5kKHN1bShnUikvbGVuKGdSKSwzKSwKICAgICAgICBnYWluX0NIQUlOPXJvdW5kKHN1bShnQykvbGVuKGdDKSwzKSwKICAgICAgICBkZWx0YT1yb3VuZChzdW0oZ1IpL2xlbihnUiktc3VtKGdDKS9sZW4oZ0MpLDMpLGNpPWJvb3RfY2koZ1IsZ0MpKQogICAgb3V0WydwcmV0ZXN0J109e2s6e2trOnZ2IGZvciBrayx2diBpbiB2Lml0ZW1zKCkgaWYga2sgbm90IGluICgnYWRqJywna25vd24nLCdyb3V0ZScsJ25vZGVzJywnZGVwJywncmVzJyl9CiAgICAgICAgICAgICAgICAgICAgZm9yIGssdiBpbiB0ZXJyLml0ZW1zKCl9CiAgICByZXR1cm4gb3V0LHRlcnIKCmlmIF9fbmFtZV9fPT0nX19tYWluX18nOgogICAgbyx0PXJ1bigpCiAgICBwPScvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNDdfbWFwL3Jlc3VsdDE0N2IuanNvbicKICAgIGpzb24uZHVtcChvLG9wZW4ocCwndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkKICAgIHByaW50KCdXUk9URScscCkKICAgIHByaW50KCd0b2xtYW4nLG9bJ3RvbG1hbiddKTsgcHJpbnQoJ2JyZWFrJyxvWydicmVhayddKQogICAgcHJpbnQoJ2ludGVyJyxvWydpbnRlcmFjdGlvbl9SRUFMX3ZzX0NIQUlOJ10pCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""exp147b 鱼格: 认知地图 (v2 修正混淆)
+修正1: home 深度三地形统一=3
+修正2: 探索改为"覆盖到 TARGET_KNOWN 个节点为止", 覆盖率三地形相同
+修正3: 增加 CHAIN(毛刺链) 阴性地形 -> 判据必须能产生"地图无用"的假
+策略: MAP(认知地图) / ROUTE(死记路线) / RANDOM / MAP_SHUF(地图错乱破缺)
+"""
+import os, json, random, heapq
+from collections import deque, defaultdict
+
+SEED=20261018; CAP=428; T_LIMIT=1500; TARGET_KNOWN=130
+N_TRIAL=60; REAL_ROOT='/data/workspace/luoshen-o1'
+
+def build_real(root, cap=CAP):
+    par={root:None}; order=[root]; q=deque([root])
+    while q and len(order)<cap:
+        d=q.popleft()
+        try: subs=sorted(os.listdir(d))
+        except Exception: continue
+        for x in subs:
+            p=os.path.join(d,x)
+            if os.path.islink(p) or not os.path.isdir(p) or p in par: continue
+            par[p]=d; order.append(p); q.append(p)
+            if len(order)>=cap: break
+    return par, order
+
+def build_synth(n, rng):
+    par={'n0':None}; nodes=['n0']; q=deque(['n0']); i=1
+    while len(nodes)<n and q:
+        d=q.popleft()
+        for _ in range(rng.choice([1,2,3])):
+            if len(nodes)>=n: break
+            name=f'n{i}'; i+=1
+            par[name]=d; nodes.append(name); q.append(name)
+    return par, nodes
+
+def build_chain(n, rng):
+    """毛刺链: 主干 + 每 8 个主干节点挂 1 个叶子; 路径近似唯一 -> 地图应无用"""
+    par={'c0':None}; nodes=['c0']; i=1
+    while len(nodes)<n:
+        prev=nodes[-1] if nodes[-1].startswith('c') else None
+        # 找主干末端
+        main=[x for x in nodes if x.startswith('c')]
+        tail=main[-1]
+        name=f'c{i}'; i+=1
+        par[name]=tail; nodes.append(name)
+        if len(nodes)%8==0 and len(nodes)<n:
+            lf=f'l{i}'; i+=1
+            par[lf]=tail; nodes.append(lf)
+    return par, nodes
+
+def to_adj(par, nodes):
+    adj=defaultdict(set)
+    for n in nodes:
+        p=par[n]
+        if p is not None: adj[n].add(p); adj[p].add(n)
+    return adj
+
+def depths(par, nodes):
+    d={}
+    for n in nodes:
+        k=0; x=n
+        while par.get(x) is not None: x=par[x]; k+=1
+        d[n]=k
+    return d
+
+def gini(vals):
+    v=sorted(vals); n=len(v); s=sum(v)
+    if s==0 or n==0: return 0.0
+    return (2*sum((i+1)*x for i,x in enumerate(v)))/(n*s)-(n+1)/n
+
+def explore_until(adj, home, target, rng, max_steps=20000):
+    known=defaultdict(set); cur=home; seen={home}; route=[home]; steps=0
+    while len(seen)<target and steps<max_steps:
+        steps+=1
+        nb=sorted(adj[cur])
+        if not nb: break
+        nxt=rng.choice(nb)
+        known[cur].add(nxt); known[nxt].add(cur)
+        seen.add(nxt); cur=nxt; route.append(cur)
+    return known, route, steps
+
+def dijkstra_next(known, src, dst):
+    if src==dst: return None
+    dist={src:0}; prev={}; pq=[(0,src)]; seen=set()
+    while pq:
+        d,u=heapq.heappop(pq)
+        if u in seen: continue
+        seen.add(u)
+        if u==dst: break
+        for v in known[u]:
+            if d+1<dist.get(v,1e9):
+                dist[v]=d+1; prev[v]=u; heapq.heappush(pq,(d+1,v))
+    if dst not in dist: return None
+    x=dst
+    while prev.get(x)!=src:
+        x=prev[x]
+        if x==src: break
+    return x
+
+def shuffle_known(known, rng):
+    nodes=list(known.keys())
+    if len(nodes)<3: return known
+    ec=sum(len(v) for v in known.values())//2
+    bad=defaultdict(set)
+    for _ in range(ec):
+        u=rng.choice(nodes); v=rng.choice(nodes)
+        if u!=v: bad[u].add(v); bad[v].add(u)
+    return bad
+
+def navigate(adj, home, start, policy, known, route, rng, tlimit=T_LIMIT):
+    cur=start; steps=0
+    known=defaultdict(set,{k:set(v) for k,v in known.items()})
+    if policy=='MAP_SHUF': known=shuffle_known(known,rng)
+    rset=set(route); ridx={}
+    for i,n in enumerate(route): ridx.setdefault(n,i)
+    while cur!=home and steps<tlimit:
+        steps+=1
+        if policy in ('MAP','MAP_SHUF'):
+            nxt=dijkstra_next(known,cur,home)
+            if nxt is None:
+                nb=sorted(adj[cur])
+                if not nb: break
+                nxt=rng.choice(nb)
+        elif policy=='ROUTE':
+            if cur in rset:
+                i=ridx[cur]
+                while i>0 and steps<tlimit:
+                    steps+=1; cur=route[i-1]; i-=1
+                return steps, cur==home
+            nb=sorted(adj[cur])
+            if not nb: break
+            nxt=rng.choice(nb)
+        else:
+            nb=sorted(adj[cur])
+            if not nb: break
+            nxt=rng.choice(nb)
+        known[cur].add(nxt); known[nxt].add(cur)
+        cur=nxt
+    return steps, cur==home
+
+def boot_ci(a,b=None,n=4000,seed=1):
+    rng=random.Random(seed); m=len(a); vals=[]
+    for _ in range(n):
+        if b is None:
+            vals.append(sum(a[rng.randrange(m)] for _ in range(m))/m)
+        else:
+            idx=[rng.randrange(m) for _ in range(m)]
+            vals.append(sum(a[i]-b[i] for i in idx)/m)
+    vals.sort(); return round(vals[int(0.025*n)],4), round(vals[int(0.975*n)],4)
+
+def run():
+    rng=random.Random(SEED); out={'seed':SEED,'cap':CAP,'target_known':TARGET_KNOWN,
+        'n_trial':N_TRIAL,'t_limit':T_LIMIT,'real_root':REAL_ROOT}
+    T={}
+    parA,nA=build_real(REAL_ROOT,CAP)
+    parB,nB=build_synth(len(nA),rng)
+    parC,nC=build_chain(len(nA),rng)
+    terr={}
+    for name,(par,nodes) in {'REAL':(parA,nA),'SYNTH':(parB,nB),'CHAIN':(parC,nC)}.items():
+        adj=to_adj(par,nodes); dep=depths(par,nodes)
+        degs=[len(adj[n]) for n in nodes]
+        # home: 统一取 depth==3 的节点(否则取最接近3)
+        c3=[n for n in nodes if dep[n]==3]
+        if not c3:
+            m=min(dep.values(),key=lambda d:abs(d-3)); c3=[n for n in nodes if dep[n]==m]
+        home=random.Random(SEED).choice(sorted(c3))
+        known,route,esteps=explore_until(adj,home,TARGET_KNOWN,random.Random(SEED))
+        terr[name]=dict(adj=adj,nodes=nodes,dep=dep,home=home,known=known,route=route,
+            explore_steps=esteps,coverage=round(len(known)/len(nodes),4),
+            depth_max=max(dep.values()),depth_mean=round(sum(dep.values())/len(dep),3),
+            deg_max=max(degs),gini_deg=round(gini(degs),4))
+        print(f'[{name}] n={len(nodes)} home_d={dep[home]} known={len(known)} '
+              f'cov={terr[name]["coverage"]} depth_mean={terr[name]["depth_mean"]} '
+              f'deg_max={max(degs)} gini={terr[name]["gini_deg"]} esteps={esteps}')
+    # 导航
+    starts_seed=SEED+1
+    for name,t in terr.items():
+        nodes=t['nodes']; starts=[nodes[i] for i in random.Random(starts_seed).sample(range(len(nodes)),N_TRIAL)]
+        res={}
+        for pol in ['MAP','ROUTE','RANDOM','MAP_SHUF']:
+            steps=[]; succ=[]
+            for k,s in enumerate(starts):
+                st,ok=navigate(t['adj'],t['home'],s,pol,t['known'],t['route'],random.Random(SEED+100+k))
+                steps.append(st); succ.append(1 if ok else 0)
+            res[pol]=dict(mean=round(sum(steps)/len(steps),3),median=sorted(steps)[N_TRIAL//2],
+                          succ=round(sum(succ)/len(succ),4),steps=steps)
+        t['res']=res
+        print(f'  {name}: MAP={res["MAP"]["mean"]} ROUTE={res["ROUTE"]["mean"]} '
+              f'RANDOM={res["RANDOM"]["mean"]} SHUF={res["MAP_SHUF"]["mean"]} '
+              f'succ={res["MAP"]["succ"]}/{res["ROUTE"]["succ"]}/{res["RANDOM"]["succ"]}')
+    # MAP vs ROUTE (Tolman 主判据) paired
+    out['tolman']={}
+    for name,t in terr.items():
+        a=t['res']['MAP']['steps']; b=t['res']['ROUTE']['steps']
+        out['tolman'][name]=dict(map_mean=round(sum(a)/len(a),3),route_mean=round(sum(b)/len(b),3),
+            delta_route_minus_map=round(sum(b)/len(b)-sum(a)/len(a),3),ci=boot_ci(b,a))
+    # 破缺 SHUF vs MAP
+    out['break']={}
+    for name,t in terr.items():
+        a=t['res']['MAP_SHUF']['steps']; b=t['res']['MAP']['steps']
+        out['break'][name]=dict(shuf=round(sum(a)/len(a),3),map=round(sum(b)/len(b),3),
+            delta=round(sum(a)/len(a)-sum(b)/len(b),3),ci=boot_ci(a,b))
+    # 交互 REAL vs CHAIN: Tolman 增益
+    def gain(n):
+        t=terr[n]; return [(b-a) for a,b in zip(t['res']['MAP']['steps'],t['res']['ROUTE']['steps'])]
+    gR,gC=gain('REAL'),gain('CHAIN')
+    out['interaction_REAL_vs_CHAIN']=dict(gain_REAL=round(sum(gR)/len(gR),3),
+        gain_CHAIN=round(sum(gC)/len(gC),3),
+        delta=round(sum(gR)/len(gR)-sum(gC)/len(gC),3),ci=boot_ci(gR,gC))
+    out['pretest']={k:{kk:vv for kk,vv in v.items() if kk not in ('adj','known','route','nodes','dep','res')}
+                    for k,v in terr.items()}
+    return out,terr
+
+if __name__=='__main__':
+    o,t=run()
+    p='/data/workspace/luoshen-o1/experiments/exp147_map/result147b.json'
+    json.dump(o,open(p,'w'),ensure_ascii=False,indent=1)
+    print('WROTE',p)
+    print('tolman',o['tolman']); print('break',o['break'])
+    print('inter',o['interaction_REAL_vs_CHAIN'])

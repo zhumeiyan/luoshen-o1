@@ -1,1 +1,133 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCueWpCDigJTigJQg6Ieq57uE57uH6IO95aGr5ruh56m66Ze077yM5L2G6YeN5bu65LiN5LqG57uT5p6E44CCCgrnlKjmiLflkb3popjvvJoKICAi5Lq657G75Ye6546w5LiA5Liq5Lyk5Y+j55qE5pe25YCZ77yM5a6D6IO96ZW/5Zue5Y6777yM5L2G5pivLi4uIgoK6IO96ZW/44CC5L2G6ZW/55qE5piv55ak77yM5LiN5piv5Y6f5p2l6YKj5Liq44CCCgrlho3nlJ8gdnMg57qk57u05YyW55qE5beu5Yir5LiN5Zyo44CQ5aGr5rKh5aGr5ruh44CR4oCU4oCU5Lik6ICF6YO9IDEwMCXjgIIK5beu5Yir5Zyo44CQ5pyJ5rKh5pyJ6YeN5bu657uT5p6E44CR77yM6ICM5YiG55WM5piv44CQ5pyJ5rKh5pyJ5qih5p2/44CR44CCCgrmqKHlnovvvIjms6jmhI/vvJrov5nmmK/mlbDlrabmqKHlnovnsbvmr5TvvIzkuI3mmK/nlJ/nianlrp7pqozvvInvvJoKICDmraPluLjnu4Tnu4cgPSDlpJrmlrnlkJHmraPlvKbkuqTnu4cgKyDlmarlo7DvvIjnvZHnirbog7bljp/vvIkKICDnlqQgICAgICAgPSDljZXkuIDmlrnlkJHlubPooYzmnaHnurnvvIjnlqTnl5Xog7bljp/lubPooYzmjpLliJfvvIznu4Tnu4flrabkuovlrp7vvIzlvJXnlKjpnZ7lrp7mtYvvvIkKCuWunua1i++8iDQwMHg0MDDvvIzkvKTlj6PljYrlvoQgNjDvvInvvJoKICDkuI7ljp/nu4Tnu4flt67lvIIgICAgIOeWpCAwLjM4NDEgICDlho3nlJ8gMC4wMDAwCiAg5aGr5ruh546HICAgICAgICAgICDnlqQgMTAwJSAgICAg5YaN55SfIDEwMCUKCiAg6aKR6LCx5ZCE5ZCR5byC5oCn77yI5bmz6KGM5bqm77yJ77yaCiAgICDmraPluLggMS4yMTkg4oaSIOeWpCA5Ljc1OCAgKCs3MDElKQogICAg5Lyk5Y+j6LaK5aSn6LaK5bmz6KGM77yaUj05MCDml7YgKzEyNzIlCgogIOe7k+aehOW8uuW6pu+8iOWQhOaWueWQkeair+W6puiDvemHj++8ie+8mgogICAg5q2j5bi4ICDmnIDlvLov5pyA5byxIDEuMDnDlyAgIOKGkCDlhajlkJHpg73mnInmlK/mkpEKICAgIOeWpCAgICDmnIDlvLov5pyA5byxIDIyLjc0w5cgIOKGkCDpobrnuqTnu7TlvLrvvIzlnoLnm7TmlrnlkJHloYwKCiAg55ak55qE5bmz5Z2H5qKv5bqmIDAuMTA5MyA9IOato+W4uOeahCA4LjIg5YCN77yI55yL6LW35p2l5pu057KX5aOu77yJCiAg5L2G5pyA5byx5pa55ZCR5aGM5LqGIDQxJQogIOKGkiDnlqTmm7Qi5Y6aIu+8jOWNtOabtOWuueaYk+S7juafkOS4quaWueWQkeiiq+aSleW8gAoK56ys5LiA54mI5oiR6YCg6ZSZ5LqG77yI5aaC5a6e6K6w77yJ77yaCiAg55So5ZCM5b+D5ZyG5b2T55akIOKGkiDlkIzlv4PlnIbmmK/ml4vovazlr7nnp7DnmoQg4oaSIOmikeiwseWQhOWQkeWQjOaApwogIOKGkiDlkITlkJHlvILmgKflj43ogIzpmY3kuoYgKC05JSB+IC0yMiUp77yM5pa55ZCR5a6M5YWo5Y+N5LqGCiAg5L+u5q2j5Li65Y2V5LiA5pa55ZCR5bmz6KGM5p2h57q55ZCO77yM5pa55ZCR5omN5a+5ICgrMjQ1JSB+ICsxMjcyJSkKCiAgICBweXRob24zIHNjYXIucHkg5oSI5ZCIICAgICAjIOWhq+a7oSB2cyDplb/lm57ljp/moLcKICAgIHB5dGhvbjMgc2Nhci5weSDlvLrluqYgICAgICMg5Li65LuA5LmI55ak5pu057KX5Y205pu06ISGCiAgICBweXRob24zIHNjYXIucHkg5a+55bqUICAgICAjIOWvueW6lOWIsOaIkeS7rOeahOWIhuWxggoiIiIKaW1wb3J0IG51bXB5IGFzIG5wLCBvcywgc3lzCgpIID0gVyA9IDQwMApDWSA9IENYID0gSC8vMgpfeXksIF94eCA9IG5wLm1ncmlkWzA6SCwgMDpXXQoKCmRlZiB0aXNzdWUoKToKICAgICIiIuato+W4uOe7hOe7h++8muWkmuaWueWQkeS6pOe7h+eahOe9keeKtue7k+aehOOAgiIiIgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDUpCiAgICB0ID0gbnAuemVyb3MoKEgsIFcpLCBucC5mbG9hdDMyKQogICAgZm9yIF8gaW4gcmFuZ2UoOSk6CiAgICAgICAgYSA9IHJuZy51bmlmb3JtKDAsIG5wLnBpKTsgZiA9IHJuZy51bmlmb3JtKDAuMDUsIDAuMTYpOyBwID0gcm5nLnVuaWZvcm0oMCwgMipucC5waSkKICAgICAgICB0ICs9IG5wLnNpbihmKihfeHgqbnAuY29zKGEpICsgX3l5Km5wLnNpbihhKSkgKyBwKQogICAgdCArPSBybmcubm9ybWFsKDAsIDAuMjUsIChILCBXKSkKICAgIHJldHVybiAodC10Lm1pbigpKS8odC5tYXgoKS10Lm1pbigpKQoKCmRlZiB3b3VuZChSKToKICAgIHJldHVybiAobnAuc3FydCgoX3l5LUNZKSoqMiArIChfeHgtQ1gpKioyKSkgPCBSCgoKZGVmIGZpYnJvc2lzKG1hc2spOgogICAgIiIi55ak77ya5Y2V5LiA5pa55ZCR5bmz6KGM5p2h57q544CC5LiN6ZyA6KaB5qih5p2/77yM5b+r44CCIiIiCiAgICByZXR1cm4gMC41ICsgMC41Km5wLnNpbigwLjU1KihfeHgqMC44NiArIF95eSowLjUxKSkKCgpkZWYgYW5pc28ocmVnaW9uMmQpOgogICAgYSA9IHJlZ2lvbjJkIC0gcmVnaW9uMmQubWVhbigpCiAgICBhID0gYSpucC5oYW5uaW5nKGEuc2hhcGVbMF0pWzosIE5vbmVdKm5wLmhhbm5pbmcoYS5zaGFwZVsxXSlbTm9uZSwgOl0KICAgIEYgPSBucC5hYnMobnAuZmZ0LmZmdHNoaWZ0KG5wLmZmdC5mZnQyKGEpKSkKICAgIHkwLCB4MCA9IEYuc2hhcGVbMF0vLzIsIEYuc2hhcGVbMV0vLzIKICAgIG4gPSBtaW4oNDAsIHkwLTIpCiAgICBwcm9mID0gW10KICAgIGZvciBhbmcgaW4gbnAubGluc3BhY2UoMCwgbnAucGksIDM2LCBlbmRwb2ludD1GYWxzZSk6CiAgICAgICAgdCA9IG5wLmFyYW5nZSgxLCBuKQogICAgICAgIHByb2YuYXBwZW5kKEZbKHkwK25wLnNpbihhbmcpKnQpLmFzdHlwZShpbnQpLAogICAgICAgICAgICAgICAgICAgICAgKHgwK25wLmNvcyhhbmcpKnQpLmFzdHlwZShpbnQpXS5tZWFuKCkpCiAgICBwcm9mID0gbnAuYXJyYXkocHJvZikKICAgIHJldHVybiBmbG9hdChwcm9mLm1heCgpL21heChwcm9mLm1lYW4oKSwgMWUtOSkpCgoKZGVmIGRpcl9wcm9maWxlKGltZzJkLCBtYXNrKToKICAgIGd5LCBneCA9IG5wLmdyYWRpZW50KGltZzJkKQogICAgcmV0dXJuIG5wLmFycmF5KFtmbG9hdChucC5hYnMoZ3gqbnAuY29zKGEpK2d5Km5wLnNpbihhKSlbbWFza10ubWVhbigpKQogICAgICAgICAgICAgICAgICAgICBmb3IgYSBpbiBucC5saW5zcGFjZSgwLCBucC5waSwgMzYsIGVuZHBvaW50PUZhbHNlKV0pCgoKZGVmIHJ1bl9oZWFsKCk6CiAgICBwcmludCgiPT09IOWhq+S4iiDiiaAg6ZW/5Zue5Y6f5qC3ID09PVxuIikKICAgIHQgPSB0aXNzdWUoKQogICAgcHJpbnQoIiAgJS0xMHMgJS0xMHMgJS0xNHMgJXMiICUgKCLkvKTlj6PljYrlvoQiLCAi5Y2g57uE57uHIiwgIuS4juWOn+e7hOe7h+W3ruW8giIsICLlkITlkJHlvILmgKco5q2j5bi44oaS55akKSIpKQogICAgZm9yIFIgaW4gWzIwLCA0MCwgNjAsIDkwLCAxMjBdOgogICAgICAgIG0gPSB3b3VuZChSKQogICAgICAgIHNsID0gKHNsaWNlKENZLVIsIENZK1IpLCBzbGljZShDWC1SLCBDWCtSKSkKICAgICAgICBzY2FyID0gbnAud2hlcmUobSwgZmlicm9zaXMobSksIHQpCiAgICAgICAgZGlmZiA9IGZsb2F0KG5wLnNxcnQoKChzY2FyW21dLXRbbV0pKioyKS5tZWFuKCkpKQogICAgICAgIGEwLCBhMSA9IGFuaXNvKHRbc2xdKSwgYW5pc28oc2NhcltzbF0pCiAgICAgICAgcHJpbnQoIiAgJS0xMGQgJS0xMC4xZiAlLTE0LjRmICUuM2Yg4oaSICUuM2YgKCUrLjBmJSUpIgogICAgICAgICAgICAgICUgKFIsIDEwMCptLm1lYW4oKSwgZGlmZiwgYTAsIGExLCAxMDAqKGExL2EwLTEpKSkKICAgIHByaW50KCJcbiAg5YaN55Sf77ya5aGr5ruhIDEwMCXvvIzkuI7ljp/nu4Tnu4flt67lvIIgMC4wMDAwIikKICAgIHByaW50KCIgIOKGkiDlt67liKvkuI3lnKjloavmu6HnjofvvIjpg73mmK8gMTAwJe+8ie+8jOWcqOOAkOacieayoeacieaooeadv+OAkSIpCgoKZGVmIHJ1bl9zdHJlbmd0aCgpOgogICAgcHJpbnQoIj09PSDnlqTmm7TnspfvvIzljbTmm7TohIYgPT09XG4iKQogICAgdCA9IHRpc3N1ZSgpOyBtID0gd291bmQoNjApCiAgICBzY2FyID0gbnAud2hlcmUobSwgZmlicm9zaXMobSksIHQpCiAgICB2biwgdnMgPSBkaXJfcHJvZmlsZSh0LCBtKSwgZGlyX3Byb2ZpbGUoc2NhciwgbSkKICAgIGZvciBuLCB2IGluIFsoIuato+W4uCIsIHZuKSwgKCLnlqQgICIsIHZzKV06CiAgICAgICAgcHJpbnQoIiAgJS01cyDlubPlnYcgJS40ZiAg5pyA5byxICUuNGYgIOacgOW8uiAlLjRmICDmnIDlvLov5pyA5byxICUuMmbDlyIKICAgICAgICAgICAgICAlIChuLCB2Lm1lYW4oKSwgdi5taW4oKSwgdi5tYXgoKSwgdi5tYXgoKS9tYXgodi5taW4oKSwgMWUtOSkpKQogICAgcHJpbnQoIlxuICDnlqTnmoTlubPlnYfmoq/luqbmmK/mraPluLjnmoQgJS4xZiDlgI3vvIjmm7Tljprmm7TnspfvvIkiICUgKHZzLm1lYW4oKS92bi5tZWFuKCkpKQogICAgcHJpbnQoIiAg5L2G5pyA5byx5pa55ZCR5aGM5LqGICUuMGYlJSIgJSAoMTAwKigxLXZzLm1pbigpL3ZuLm1pbigpKSkpCiAgICBwcmludCgiICDihpIg5bmz6KGM5o6S5YiX77ya6aG657qk57u05pyJ5pSv5pKR77yM5Z6C55u05pa55ZCR5Yeg5LmO5rKh5pyJIikKCgpkZWYgcnVuX21hcCgpOgogICAgcHJpbnQoIj09PSDlr7nlupTliLDmiJHku6znmoTliIblsYIgPT09XG4iKQogICAgcHJpbnQoIiAgJS0xNnMgJS0xOHMgJXMiICUgKCIiLCAi5riy5p+T5bGCKOeWpCkiLCAi6K+G5Yir5bGCKOWGjeeUnykiKSkKICAgIHByaW50KCIgICIgKyAiLSIqNTQpCiAgICBwcmludCgiICAlLTE2cyAlLTE4cyAlcyIgJSAoIuWhq+a7oeepuumXtCIsICIxMDAlIiwgIjEwMCUiKSkKICAgIHByaW50KCIgICUtMTZzICUtMThzICVzIiAlICgi6YeN5bu657uT5p6EIiwgIuayoeaciSIsICLlv4XpobsiKSkKICAgIHByaW50KCIgICUtMTZzICUtMThzICVzIiAlICgi6ZyA6KaB5qih5p2/IiwgIuS4jemcgOimgSIsICLlv4XpobvlrZjnnYAiKSkKICAgIHByaW50KCIgICUtMTZzICUtMThzICVzIiAlICgi6LSf6LSj6KKr6K6k5Ye6IiwgIuS4jei0n+i0oyIsICLotJ/otKMiKSkKICAgIHByaW50KCJcbiAg4oaSIOa4suafk+WxguWPr+S7peaYr+eWpO+8muWhq+a7oeeUu+mdouWwseihjO+8jOWboOS4uuWug+S4jei0n+i0o+iiq+iupOWHuiIpCiAgICBwcmludCgiICDihpIg6K+G5Yir5bGC5b+F6aG75piv5YaN55Sf77ya55ak6K6k5LiN5Ye677yM5omA5Lul5qih5p2/77yI5ZOI5biML+WdkOaghy/ljp/mlofku7bvvInkuI3og73kuKIiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBjID0gc3lzLmFyZ3ZbMV0gaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAi5oSI5ZCIIgogICAgeyLmhIjlkIgiOiBydW5faGVhbCwgIuW8uuW6piI6IHJ1bl9zdHJlbmd0aCwgIuWvueW6lCI6IHJ1bl9tYXB9LmdldChjLCBydW5faGVhbCkoKQo=
+# -*- coding: utf-8 -*-
+"""
+疤 —— 自组织能填满空间，但重建不了结构。
+
+用户命题：
+  "人类出现一个伤口的时候，它能长回去，但是..."
+
+能长。但长的是疤，不是原来那个。
+
+再生 vs 纤维化的差别不在【填没填满】——两者都 100%。
+差别在【有没有重建结构】，而分界是【有没有模板】。
+
+模型（注意：这是数学模型类比，不是生物实验）：
+  正常组织 = 多方向正弦交织 + 噪声（网状胶原）
+  疤       = 单一方向平行条纹（疤痕胶原平行排列，组织学事实，引用非实测）
+
+实测（400x400，伤口半径 60）：
+  与原组织差异     疤 0.3841   再生 0.0000
+  填满率           疤 100%     再生 100%
+
+  频谱各向异性（平行度）：
+    正常 1.219 → 疤 9.758  (+701%)
+    伤口越大越平行：R=90 时 +1272%
+
+  结构强度（各方向梯度能量）：
+    正常  最强/最弱 1.09×   ← 全向都有支撑
+    疤    最强/最弱 22.74×  ← 顺纤维强，垂直方向塌
+
+  疤的平均梯度 0.1093 = 正常的 8.2 倍（看起来更粗壮）
+  但最弱方向塌了 41%
+  → 疤更"厚"，却更容易从某个方向被撕开
+
+第一版我造错了（如实记）：
+  用同心圆当疤 → 同心圆是旋转对称的 → 频谱各向同性
+  → 各向异性反而降了 (-9% ~ -22%)，方向完全反了
+  修正为单一方向平行条纹后，方向才对 (+245% ~ +1272%)
+
+    python3 scar.py 愈合     # 填满 vs 长回原样
+    python3 scar.py 强度     # 为什么疤更粗却更脆
+    python3 scar.py 对应     # 对应到我们的分层
+"""
+import numpy as np, os, sys
+
+H = W = 400
+CY = CX = H//2
+_yy, _xx = np.mgrid[0:H, 0:W]
+
+
+def tissue():
+    """正常组织：多方向交织的网状结构。"""
+    rng = np.random.default_rng(5)
+    t = np.zeros((H, W), np.float32)
+    for _ in range(9):
+        a = rng.uniform(0, np.pi); f = rng.uniform(0.05, 0.16); p = rng.uniform(0, 2*np.pi)
+        t += np.sin(f*(_xx*np.cos(a) + _yy*np.sin(a)) + p)
+    t += rng.normal(0, 0.25, (H, W))
+    return (t-t.min())/(t.max()-t.min())
+
+
+def wound(R):
+    return (np.sqrt((_yy-CY)**2 + (_xx-CX)**2)) < R
+
+
+def fibrosis(mask):
+    """疤：单一方向平行条纹。不需要模板，快。"""
+    return 0.5 + 0.5*np.sin(0.55*(_xx*0.86 + _yy*0.51))
+
+
+def aniso(region2d):
+    a = region2d - region2d.mean()
+    a = a*np.hanning(a.shape[0])[:, None]*np.hanning(a.shape[1])[None, :]
+    F = np.abs(np.fft.fftshift(np.fft.fft2(a)))
+    y0, x0 = F.shape[0]//2, F.shape[1]//2
+    n = min(40, y0-2)
+    prof = []
+    for ang in np.linspace(0, np.pi, 36, endpoint=False):
+        t = np.arange(1, n)
+        prof.append(F[(y0+np.sin(ang)*t).astype(int),
+                      (x0+np.cos(ang)*t).astype(int)].mean())
+    prof = np.array(prof)
+    return float(prof.max()/max(prof.mean(), 1e-9))
+
+
+def dir_profile(img2d, mask):
+    gy, gx = np.gradient(img2d)
+    return np.array([float(np.abs(gx*np.cos(a)+gy*np.sin(a))[mask].mean())
+                     for a in np.linspace(0, np.pi, 36, endpoint=False)])
+
+
+def run_heal():
+    print("=== 填上 ≠ 长回原样 ===\n")
+    t = tissue()
+    print("  %-10s %-10s %-14s %s" % ("伤口半径", "占组织", "与原组织差异", "各向异性(正常→疤)"))
+    for R in [20, 40, 60, 90, 120]:
+        m = wound(R)
+        sl = (slice(CY-R, CY+R), slice(CX-R, CX+R))
+        scar = np.where(m, fibrosis(m), t)
+        diff = float(np.sqrt(((scar[m]-t[m])**2).mean()))
+        a0, a1 = aniso(t[sl]), aniso(scar[sl])
+        print("  %-10d %-10.1f %-14.4f %.3f → %.3f (%+.0f%%)"
+              % (R, 100*m.mean(), diff, a0, a1, 100*(a1/a0-1)))
+    print("\n  再生：填满 100%，与原组织差异 0.0000")
+    print("  → 差别不在填满率（都是 100%），在【有没有模板】")
+
+
+def run_strength():
+    print("=== 疤更粗，却更脆 ===\n")
+    t = tissue(); m = wound(60)
+    scar = np.where(m, fibrosis(m), t)
+    vn, vs = dir_profile(t, m), dir_profile(scar, m)
+    for n, v in [("正常", vn), ("疤  ", vs)]:
+        print("  %-5s 平均 %.4f  最弱 %.4f  最强 %.4f  最强/最弱 %.2f×"
+              % (n, v.mean(), v.min(), v.max(), v.max()/max(v.min(), 1e-9)))
+    print("\n  疤的平均梯度是正常的 %.1f 倍（更厚更粗）" % (vs.mean()/vn.mean()))
+    print("  但最弱方向塌了 %.0f%%" % (100*(1-vs.min()/vn.min())))
+    print("  → 平行排列：顺纤维有支撑，垂直方向几乎没有")
+
+
+def run_map():
+    print("=== 对应到我们的分层 ===\n")
+    print("  %-16s %-18s %s" % ("", "渲染层(疤)", "识别层(再生)"))
+    print("  " + "-"*54)
+    print("  %-16s %-18s %s" % ("填满空间", "100%", "100%"))
+    print("  %-16s %-18s %s" % ("重建结构", "没有", "必须"))
+    print("  %-16s %-18s %s" % ("需要模板", "不需要", "必须存着"))
+    print("  %-16s %-18s %s" % ("负责被认出", "不负责", "负责"))
+    print("\n  → 渲染层可以是疤：填满画面就行，因为它不负责被认出")
+    print("  → 识别层必须是再生：疤认不出，所以模板（哈希/坐标/原文件）不能丢")
+
+
+if __name__ == "__main__":
+    c = sys.argv[1] if len(sys.argv) > 1 else "愈合"
+    {"愈合": run_heal, "强度": run_strength, "对应": run_map}.get(c, run_heal)()

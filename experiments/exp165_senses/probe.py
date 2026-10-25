@@ -1,1 +1,53 @@
-aW1wb3J0IHRpbWUsIG9zLCBqc29uLCBzdGF0aXN0aWNzIGFzIHN0CgpkZWYgcmQocCk6CiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKHApIGFzIGY6IHJldHVybiBmLnJlYWQoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIE5vbmUKCmRlZiBudW0ocCwgaWR4PU5vbmUsIGtleT1Ob25lKToKICAgIHMgPSByZChwKQogICAgaWYgcyBpcyBOb25lOiByZXR1cm4gTm9uZQogICAgaWYga2V5OgogICAgICAgIGZvciBsaW5lIGluIHMuc3BsaXRsaW5lcygpOgogICAgICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoa2V5KTogcmV0dXJuIGZsb2F0KGxpbmUuc3BsaXQoKVsxXSkKICAgICAgICByZXR1cm4gTm9uZQogICAgcGFydHMgPSBzLnNwbGl0KCkKICAgIHJldHVybiBmbG9hdChwYXJ0c1tpZHhdKSBpZiBpZHggaXMgbm90IE5vbmUgZWxzZSBmbG9hdChwYXJ0c1swXSkKCkNIID0gewogICJ2aXNjZXJhX2lvX3JjaGFyIjogIGxhbWJkYTogbnVtKCIvcHJvYy9zZWxmL2lvIiwga2V5PSJyY2hhciIpLAogICJ2aXNjZXJhX3V0aW1lIjogICAgIGxhbWJkYTogbnVtKCIvcHJvYy9zZWxmL3N0YXQiLCBpZHg9MTMpLAogICJ3b3JsZF9pZGxlIjogICAgICAgIGxhbWJkYTogZmxvYXQocmQoIi9wcm9jL3VwdGltZSIpLnNwbGl0KClbMV0pLAogICJ3b3JsZF91cHRpbWUiOiAgICAgIGxhbWJkYTogZmxvYXQocmQoIi9wcm9jL3VwdGltZSIpLnNwbGl0KClbMF0pLAogICJlbnRyb3B5X2F2YWlsIjogICAgIGxhbWJkYTogbnVtKCIvcHJvYy9zeXMva2VybmVsL3JhbmRvbS9lbnRyb3B5X2F2YWlsIiksCiAgImZkX29wZW4iOiAgICAgICAgICAgbGFtYmRhOiBmbG9hdChyZCgiL3Byb2Mvc3lzL2ZzL2ZpbGUtbnIiKS5zcGxpdCgpWzBdKSwKICAibWVtX2F2YWlsIjogICAgICAgICBsYW1iZGE6IG51bSgiL3Byb2MvbWVtaW5mbyIsIGtleT0iTWVtQXZhaWxhYmxlOiIpLAogICJsb2FkYXZnIjogICAgICAgICAgIGxhbWJkYTogZmxvYXQocmQoIi9wcm9jL2xvYWRhdmciKS5zcGxpdCgpWzBdKSwKICAiY3R4X3N3aXRjaGVzIjogICAgICBsYW1iZGE6IG51bSgiL3Byb2Mvc3RhdCIsIGtleT0iY3R4dCIpLAogICJwcm9jc19ydW5uaW5nIjogICAgIGxhbWJkYTogbnVtKCIvcHJvYy9zdGF0Iiwga2V5PSJwcm9jc19ydW5uaW5nIiksCn0KCk49MTIwCnJlcz17fQpmb3IgbmFtZSwgZm4gaW4gQ0guaXRlbXMoKToKICAgIHZhbHM9W10KICAgIGZvciBfIGluIHJhbmdlKE4pOgogICAgICAgIHRyeTogdj1mbigpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogdj1Ob25lCiAgICAgICAgaWYgdiBpcyBub3QgTm9uZTogdmFscy5hcHBlbmQodikKICAgICAgICB0aW1lLnNsZWVwKDAuMDA1KQogICAgaWYgbGVuKHZhbHMpPDEwOgogICAgICAgIHJlc1tuYW1lXT17Im4iOmxlbih2YWxzKSwiYWxpdmUiOkZhbHNlLCJub3RlIjoidW5yZWFkYWJsZSJ9OyBjb250aW51ZQogICAgIyDoh6rlj5Hlj5jljJbnjofvvJrnm7jpgrvlt67pnZ7pm7bnmoTmr5TkvosKICAgIGRpZmZzPVthYnModmFsc1tpKzFdLXZhbHNbaV0pIGZvciBpIGluIHJhbmdlKGxlbih2YWxzKS0xKV0KICAgIG5vbnplcm89c3VtKDEgZm9yIGQgaW4gZGlmZnMgaWYgZD4wKS9sZW4oZGlmZnMpCiAgICByZXNbbmFtZV09ewogICAgICAibiI6bGVuKHZhbHMpLAogICAgICAibm9uemVyb19yYXRlIjpyb3VuZChub256ZXJvLDQpLAogICAgICAic3RkZXYiOnJvdW5kKHN0LnBzdGRldih2YWxzKSw2KSwKICAgICAgIm1lYW4iOnJvdW5kKHN0Lm1lYW4odmFscyksNCksCiAgICAgICJyYW5nZSI6cm91bmQobWF4KHZhbHMpLW1pbih2YWxzKSw2KSwKICAgIH0KcHJpbnQoanNvbi5kdW1wcyhyZXMsaW5kZW50PTEsZW5zdXJlX2FzY2lpPUZhbHNlKSkKanNvbi5kdW1wKHJlcyxvcGVuKCJwcm9iZS5qc29uIiwidyIpLGluZGVudD0xLGVuc3VyZV9hc2NpaT1GYWxzZSkK
+import time, os, json, statistics as st
+
+def rd(p):
+    try:
+        with open(p) as f: return f.read()
+    except Exception: return None
+
+def num(p, idx=None, key=None):
+    s = rd(p)
+    if s is None: return None
+    if key:
+        for line in s.splitlines():
+            if line.startswith(key): return float(line.split()[1])
+        return None
+    parts = s.split()
+    return float(parts[idx]) if idx is not None else float(parts[0])
+
+CH = {
+  "viscera_io_rchar":  lambda: num("/proc/self/io", key="rchar"),
+  "viscera_utime":     lambda: num("/proc/self/stat", idx=13),
+  "world_idle":        lambda: float(rd("/proc/uptime").split()[1]),
+  "world_uptime":      lambda: float(rd("/proc/uptime").split()[0]),
+  "entropy_avail":     lambda: num("/proc/sys/kernel/random/entropy_avail"),
+  "fd_open":           lambda: float(rd("/proc/sys/fs/file-nr").split()[0]),
+  "mem_avail":         lambda: num("/proc/meminfo", key="MemAvailable:"),
+  "loadavg":           lambda: float(rd("/proc/loadavg").split()[0]),
+  "ctx_switches":      lambda: num("/proc/stat", key="ctxt"),
+  "procs_running":     lambda: num("/proc/stat", key="procs_running"),
+}
+
+N=120
+res={}
+for name, fn in CH.items():
+    vals=[]
+    for _ in range(N):
+        try: v=fn()
+        except Exception: v=None
+        if v is not None: vals.append(v)
+        time.sleep(0.005)
+    if len(vals)<10:
+        res[name]={"n":len(vals),"alive":False,"note":"unreadable"}; continue
+    # 自发变化率：相邻差非零的比例
+    diffs=[abs(vals[i+1]-vals[i]) for i in range(len(vals)-1)]
+    nonzero=sum(1 for d in diffs if d>0)/len(diffs)
+    res[name]={
+      "n":len(vals),
+      "nonzero_rate":round(nonzero,4),
+      "stdev":round(st.pstdev(vals),6),
+      "mean":round(st.mean(vals),4),
+      "range":round(max(vals)-min(vals),6),
+    }
+print(json.dumps(res,indent=1,ensure_ascii=False))
+json.dump(res,open("probe.json","w"),indent=1,ensure_ascii=False)

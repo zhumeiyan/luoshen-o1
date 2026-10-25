@@ -1,1 +1,75 @@
-ewogImY9MC4wMCI6IHsKICAic3VydiI6IDAuOTE3LAogICJmaXQiOiA3Ni4yNywKICAidGVjaCI6IDcuNDUKIH0sCiAiZj0wLjAyIjogewogICJzdXJ2IjogMS4wLAogICJmaXQiOiAxMTIuOTMsCiAgInRlY2giOiA2NzY4My44OAogfSwKICJmPTAuMDUiOiB7CiAgInN1cnYiOiAxLjAsCiAgImZpdCI6IDEyMi4wNSwKICAidGVjaCI6IDM4MDIyMTkyOTgxLjUzCiB9LAogImY9MC4xMCI6IHsKICAic3VydiI6IDEuMCwKICAiZml0IjogMTAzLjUzLAogICJ0ZWNoIjogNC4xNTYwMTcwMzcwNjk1NGUrMjIKIH0sCiAiZj0wLjIwIjogewogICJzdXJ2IjogMS4wLAogICJmaXQiOiA4MS4xNiwKICAidGVjaCI6IDEuODEwOTIyNzYzODc2NDU4MmUrNDIKIH0sCiAiZj0wLjM1IjogewogICJzdXJ2IjogMS4wLAogICJmaXQiOiA0NS4wNSwKICAidGVjaCI6IDEuMzg2NTE0ODEzNTc5OTI0OGUrNzIKIH0sCiAiZj0wLjUwIjogewogICJzdXJ2IjogMS4wLAogICJmaXQiOiA5LjM3LAogICJ0ZWNoIjogMi43OTYxNDcyMTM1MTIzNzk1ZSsxMDgKIH0sCiAiZj0wLjgwIjogewogICJzdXJ2IjogMS4wLAogICJmaXQiOiAtNTEuNDYsCiAgInRlY2giOiA3LjY3NTU0MTY1MDc4MTI4NmUrMTY3CiB9LAogImY9MS4wMCI6IHsKICAic3VydiI6IDEuMCwKICAiZml0IjogLTExMy4wNCwKICAidGVjaCI6IDguOTc5OTU0NjQ5NTIxNTFlKzIwNwogfSwKICJLPTAiOiB7CiAgInN1cnYiOiAwLjUsCiAgImZpdCI6IDc0Ljk4CiB9LAogIks9MSI6IHsKICAic3VydiI6IDEuMCwKICAiZml0IjogMTAzLjUzCiB9LAogIks9MiI6IHsKICAic3VydiI6IDEuMCwKICAiZml0IjogMTAzLjUzCiB9LAogIks9MyI6IHsKICAic3VydiI6IDEuMCwKICAiZml0IjogMTAzLjUzCiB9LAogIks9NSI6IHsKICAic3VydiI6IDEuMCwKICAiZml0IjogMTA0LjM4CiB9LAogIks9OCI6IHsKICAic3VydiI6IDEuMCwKICAiZml0IjogMTAxLjgyCiB9LAogIks9MTIiOiB7CiAgInN1cnYiOiAxLjAsCiAgImZpdCI6IDk4LjUxCiB9Cn0=
+{
+ "f=0.00": {
+  "surv": 0.917,
+  "fit": 76.27,
+  "tech": 7.45
+ },
+ "f=0.02": {
+  "surv": 1.0,
+  "fit": 112.93,
+  "tech": 67683.88
+ },
+ "f=0.05": {
+  "surv": 1.0,
+  "fit": 122.05,
+  "tech": 38022192981.53
+ },
+ "f=0.10": {
+  "surv": 1.0,
+  "fit": 103.53,
+  "tech": 4.15601703706954e+22
+ },
+ "f=0.20": {
+  "surv": 1.0,
+  "fit": 81.16,
+  "tech": 1.8109227638764582e+42
+ },
+ "f=0.35": {
+  "surv": 1.0,
+  "fit": 45.05,
+  "tech": 1.3865148135799248e+72
+ },
+ "f=0.50": {
+  "surv": 1.0,
+  "fit": 9.37,
+  "tech": 2.7961472135123795e+108
+ },
+ "f=0.80": {
+  "surv": 1.0,
+  "fit": -51.46,
+  "tech": 7.675541650781286e+167
+ },
+ "f=1.00": {
+  "surv": 1.0,
+  "fit": -113.04,
+  "tech": 8.97995464952151e+207
+ },
+ "K=0": {
+  "surv": 0.5,
+  "fit": 74.98
+ },
+ "K=1": {
+  "surv": 1.0,
+  "fit": 103.53
+ },
+ "K=2": {
+  "surv": 1.0,
+  "fit": 103.53
+ },
+ "K=3": {
+  "surv": 1.0,
+  "fit": 103.53
+ },
+ "K=5": {
+  "surv": 1.0,
+  "fit": 104.38
+ },
+ "K=8": {
+  "surv": 1.0,
+  "fit": 101.82
+ },
+ "K=12": {
+  "surv": 1.0,
+  "fit": 98.51
+ }
+}

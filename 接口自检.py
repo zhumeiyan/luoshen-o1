@@ -1,1 +1,178 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLkuIDplK7pqozor4EgZXZhbGd1YXJkIOeahOWFqOmDqOWvueWkluaOpeWPo+OAggoK5Li65LuA5LmI6KaB5pyJ6L+Z5Liq5paH5Lu2Ci0tLS0tLS0tLS0tLS0tLS0tLQrmjqXlj6PmlofmoaPph4zlhpnnmoTlkozmjqXlj6PnnJ/nmoTog73ot5HvvIzmmK/kuKTku7bkuovjgILmnKzmlofmoaPlnovpobnnm67mnIDlrrnmmJPlh7rnmoTmr5vnl4XlsLHmmK8K5YmN6ICF6b2Q5YWo44CB5ZCO6ICF5rKh5Lq66aqM6L+H44CC6L+Z5Liq6ISa5pys5oqKIuaLv+i/h+adpeWwseiDvea1iyLlj5jmiJDkuIDmnaHlkb3ku6TvvJoKCiAgICBweXRob24zIOaOpeWPo+iHquajgC5weQoK5a6D5Lya6Ieq5bex6LW35pyN5Yqh44CB5omT5a6M5Zub5Liq56uv54K544CB6aqM5a6MIENMSSDpgIDlh7rnoIHlkowgU0FSSUYg57uT5p6E77yM54S25ZCO5YWz5o6J5pyN5Yqh77yMCuaJk+WNsOS4gOW8oOmAmui/hy/lpLHotKXooajjgILpgIDlh7rnoIEgMCA9IOWFqOmAmui/h+OAggoK5LiN5L6d6LWWIHB5dGVzdO+8jOS4jeiBlOe9ke+8jOagh+WHhuW6kyBvbmx544CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHNvY2tldAppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCmltcG9ydCB0aW1lCmltcG9ydCB1cmxsaWIuZXJyb3IKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClBLR19ST09UID0gb3MucGF0aC5qb2luKEhFUkUsICJvdmVyc2VhcyIpICAgICAgICAgICMgZXZhbGd1YXJkIOWMheeahOeItuebruW9lQpQT1JUID0gODc4NwpCQVNFID0gZiJodHRwOi8vMTI3LjAuMC4xOntQT1JUfSIKCkJBRF9TUkMgPSAiZGVmIGYoKTpcbiAgICB0cnk6XG4gICAgICAgIHBhc3NcbiAgICBleGNlcHQgRXhjZXB0aW9uOlxuICAgICAgICBwYXNzXG4iCkNMRUFOX1NSQyA9ICJpbXBvcnQgcmFuZG9tXG5yYW5kb20uc2VlZCgwKVxuXG5kZWYgZih4KTpcbiAgICByZXR1cm4geFxuIgoKX3Jlc3VsdHM6IGxpc3RbdHVwbGVbc3RyLCBib29sLCBzdHJdXSA9IFtdCgoKZGVmIGNoZWNrKG5hbWU6IHN0ciwgb2s6IGJvb2wsIGRldGFpbDogc3RyID0gIiIpIC0+IGJvb2w6CiAgICBfcmVzdWx0cy5hcHBlbmQoKG5hbWUsIG9rLCBkZXRhaWwpKQogICAgbWFyayA9ICJQQVNTIiBpZiBvayBlbHNlICJGQUlMIgogICAgcHJpbnQoZiIgIFt7bWFya31dIHtuYW1lfSIgKyAoZiIgIOKAlCB7ZGV0YWlsfSIgaWYgZGV0YWlsIGVsc2UgIiIpKQogICAgcmV0dXJuIG9rCgoKZGVmIHBvcnRfb3Blbihwb3J0OiBpbnQpIC0+IGJvb2w6CiAgICB3aXRoIHNvY2tldC5zb2NrZXQoKSBhcyBzOgogICAgICAgIHMuc2V0dGltZW91dCgwLjQpCiAgICAgICAgcmV0dXJuIHMuY29ubmVjdF9leCgoIjEyNy4wLjAuMSIsIHBvcnQpKSA9PSAwCgoKZGVmIHBvc3QocGF0aDogc3RyLCBwYXlsb2FkOiBkaWN0KSAtPiBkaWN0OgogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCgKICAgICAgICBCQVNFICsgcGF0aCwKICAgICAgICBkYXRhPWpzb24uZHVtcHMocGF5bG9hZCkuZW5jb2RlKCksCiAgICAgICAgaGVhZGVycz17IkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0sCiAgICAgICAgbWV0aG9kPSJQT1NUIiwKICAgICkKICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9MTApIGFzIHI6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMoci5yZWFkKCkuZGVjb2RlKCkpCgoKZGVmIGdldChwYXRoOiBzdHIpIC0+IGRpY3Q6CiAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4oQkFTRSArIHBhdGgsIHRpbWVvdXQ9MTApIGFzIHI6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMoci5yZWFkKCkuZGVjb2RlKCkpCgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICBwcmludCgiZXZhbGd1YXJkIOaOpeWPo+iHquajgCIpCiAgICBwcmludCgiPSIgKiA2NCkKCiAgICAjIC0tLS0gMC4gQ0xJ77yI5LiN6ZyA6KaB5pyN5Yqh77yJLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuWzBdIOWRveS7pOihjCIpCiAgICBlbnYgPSBkaWN0KG9zLmVudmlyb24sIFBZVEhPTlBBVEg9UEtHX1JPT1QpCiAgICB0bXAgPSBvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZWxmY2hlY2tfYmFkLnB5IikKICAgIHdpdGggb3Blbih0bXAsICJ3IikgYXMgZmg6CiAgICAgICAgZmgud3JpdGUoQkFEX1NSQykKICAgIHRyeToKICAgICAgICBwID0gc3VicHJvY2Vzcy5ydW4oW3N5cy5leGVjdXRhYmxlLCAiLW0iLCAiZXZhbGd1YXJkIiwgdG1wXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCBlbnY9ZW52LCBjd2Q9UEtHX1JPT1QpCiAgICAgICAgY2hlY2soIkNMSSDlr7nnl4Xku6PnoIHpgIDlh7rnoIEgPSAxIiwgcC5yZXR1cm5jb2RlID09IDEsIGYicmM9e3AucmV0dXJuY29kZX0iKQogICAgICAgIHAyID0gc3VicHJvY2Vzcy5ydW4oW3N5cy5leGVjdXRhYmxlLCAiLW0iLCAiZXZhbGd1YXJkIiwgIi0taGVscCJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCBlbnY9ZW52LCBjd2Q9UEtHX1JPT1QpCiAgICAgICAgY2hlY2soIkNMSSAtLWhlbHAg5LiN5bSp5rqDIiwgcDIucmV0dXJuY29kZSA9PSAwLCBmInJjPXtwMi5yZXR1cm5jb2RlfSIpCiAgICBmaW5hbGx5OgogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHRtcCk6CiAgICAgICAgICAgIG9zLnJlbW92ZSh0bXApCgogICAgIyAtLS0tIDEuIOi1t+acjeWKoSAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCJcblsxXSDlkK/liqggSFRUUCDmnI3liqEiKQogICAgc3J2ID0gTm9uZQogICAgaWYgcG9ydF9vcGVuKFBPUlQpOgogICAgICAgIGNoZWNrKCLnq6/lj6Plt7LljaDnlKjvvIzlpI3nlKjnjrDmnInmnI3liqEiLCBUcnVlLCBmIntCQVNFfSIpCiAgICBlbHNlOgogICAgICAgIHNydiA9IHN1YnByb2Nlc3MuUG9wZW4oCiAgICAgICAgICAgIFtzeXMuZXhlY3V0YWJsZSwgIi1tIiwgImV2YWxndWFyZCIsICJzZXJ2ZSJdLAogICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQsCiAgICAgICAgICAgIGVudj1lbnYsIGN3ZD1QS0dfUk9PVCwKICAgICAgICApCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoNDApOgogICAgICAgICAgICBpZiBwb3J0X29wZW4oUE9SVCk6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICB0aW1lLnNsZWVwKDAuMjUpCiAgICAgICAgY2hlY2soIuacjeWKoeWcqCAxMHMg5YaF6LW35p2lIiwgcG9ydF9vcGVuKFBPUlQpLCBCQVNFKQoKICAgIHRyeToKICAgICAgICAjIC0tLS0gMi4gR0VUIOerr+eCuSAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICBwcmludCgiXG5bMl0gR0VUIOerr+eCuSIpCiAgICAgICAgaCA9IGdldCgiL2hlYWx0aCIpCiAgICAgICAgY2hlY2soIi9oZWFsdGggb2s9dHJ1ZSIsIGguZ2V0KCJvayIpIGlzIFRydWUsIGpzb24uZHVtcHMoaCwgZW5zdXJlX2FzY2lpPUZhbHNlKVs6ODBdKQogICAgICAgIGNoZWNrKCIvaGVhbHRoIOaKpeWHuuinhOWImeaVsCAyNiIsIGguZ2V0KCJydWxlcyIpID09IDI2LCBmInJ1bGVzPXtoLmdldCgncnVsZXMnKX0iKQoKICAgICAgICBybCA9IGdldCgiL3J1bGVzIikKICAgICAgICBydWxlcyA9IHJsIGlmIGlzaW5zdGFuY2UocmwsIGxpc3QpIGVsc2UgcmwuZ2V0KCJydWxlcyIsIFtdKQogICAgICAgIHNoaXBwZWQgPSBbciBmb3IgciBpbiBydWxlcyBpZiByLmdldCgic2hpcHBlZCIpXQogICAgICAgIGNoZWNrKCIvcnVsZXMg6L+U5ZueIDI2IOadoSIsIGxlbihydWxlcykgPT0gMjYsIGYibj17bGVuKHJ1bGVzKX0iKQogICAgICAgIGNoZWNrKCLlh7rotKfop4TliJnmgbDlpb0gMyDmnaEiLCBsZW4oc2hpcHBlZCkgPT0gMywKICAgICAgICAgICAgICAiLCIuam9pbihyLmdldCgiZWdfaWQiLCAiPyIpIGZvciByIGluIHNoaXBwZWQpKQoKICAgICAgICAjIC0tLS0gMy4gUE9TVCAvc2NhbiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgcHJpbnQoIlxuWzNdIFBPU1QgL3NjYW4iKQogICAgICAgIGJhZCA9IHBvc3QoIi9zY2FuIiwgeyJzb3VyY2UiOiBCQURfU1JDLCAicGF0aCI6ICJiYWQucHkifSkKICAgICAgICBjaGVjaygi55eF5Luj56CBIG9rPWZhbHNlIiwgYmFkLmdldCgib2siKSBpcyBGYWxzZSwgZiJjb3VudHM9e2JhZC5nZXQoJ2NvdW50cycpfSIpCiAgICAgICAgY2hlY2soIueXheS7o+eggeWHuiAxIOS4qiBibG9ja2VyIiwKICAgICAgICAgICAgICBiYWQuZ2V0KCJjb3VudHMiLCB7fSkuZ2V0KCJibG9ja2VyIikgPT0gMSwKICAgICAgICAgICAgICBzdHIoW2ZbImVnX2lkIl0gZm9yIGYgaW4gYmFkLmdldCgiZmluZGluZ3MiLCBbXSldKSkKICAgICAgICBjbGVhbiA9IHBvc3QoIi9zY2FuIiwgeyJzb3VyY2UiOiBDTEVBTl9TUkMsICJwYXRoIjogImNsZWFuLnB5In0pCiAgICAgICAgIyDov5nkuIDmnaHmmK/mnIDlrrnmmJPlnY/nmoTvvJrlgYfpmLPmgKfkvJrorqki5bmy5YeA5Luj56CBIuS5n+aKpeS4nOilvwogICAgICAgIGNoZWNrKCLlubLlh4Dku6PnoIEgMCBmaW5kaW5ncyIsIGxlbihjbGVhbi5nZXQoImZpbmRpbmdzIiwgW10pKSA9PSAwLAogICAgICAgICAgICAgIGYiY291bnRzPXtjbGVhbi5nZXQoJ2NvdW50cycpfSIpCgogICAgICAgICMgLS0tLSA0LiBTQVJJRiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgcHJpbnQoIlxuWzRdIFBPU1QgL3NjYW4vc2FyaWYiKQogICAgICAgIHMgPSBwb3N0KCIvc2Nhbi9zYXJpZiIsIHsic291cmNlIjogQkFEX1NSQywgInBhdGgiOiAieC5weSJ9KQogICAgICAgIHJ1biA9IHMuZ2V0KCJydW5zIiwgW3t9XSlbMF0KICAgICAgICBjaGVjaygiU0FSSUYg54mI5pysIDIuMS4wIiwgcy5nZXQoInZlcnNpb24iKSA9PSAiMi4xLjAiLCBzLmdldCgidmVyc2lvbiIsICIiKSkKICAgICAgICBjaGVjaygiZHJpdmVyIOWQjeensOato+ehriIsCiAgICAgICAgICAgICAgcnVuLmdldCgidG9vbCIsIHt9KS5nZXQoImRyaXZlciIsIHt9KS5nZXQoIm5hbWUiKSA9PSAiZXZhbGd1YXJkIikKICAgICAgICBjaGVjaygi6Iez5bCRIDEg5p2hIHJlc3VsdCIsIGxlbihydW4uZ2V0KCJyZXN1bHRzIiwgW10pKSA+PSAxLAogICAgICAgICAgICAgIGYibj17bGVuKHJ1bi5nZXQoJ3Jlc3VsdHMnLCBbXSkpfSIpCiAgICAgICAgY2hlY2soIuavj+adoSByZXN1bHQg5pyJIHN0YXJ0TGluZSIsCiAgICAgICAgICAgICAgYWxsKHJbImxvY2F0aW9ucyJdWzBdWyJwaHlzaWNhbExvY2F0aW9uIl1bInJlZ2lvbiJdLmdldCgic3RhcnRMaW5lIikKICAgICAgICAgICAgICAgICAgZm9yIHIgaW4gcnVuLmdldCgicmVzdWx0cyIsIFtdKSkpCgogICAgICAgICMgLS0tLSA1LiDku5PlupPmjqXlj6PkuqfniakgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgcHJpbnQoIlxuWzVdIOS7k+W6k+aOpeWPo+aWh+S7tiIpCiAgICAgICAgZm9yIHJlbCwgd2h5IGluIFsKICAgICAgICAgICAgKCJvdmVyc2Vhcy9ldmFsZ3VhcmQvYWN0aW9uLnltbCIsICJHaXRIdWIgQWN0aW9uIOWFpeWPoyIpLAogICAgICAgICAgICAoIm92ZXJzZWFzL2V2YWxndWFyZC9leGFtcGxlcy9jaS55bWwiLCAi5Y+v5aSN5Yi255qEIHdvcmtmbG93IiksCiAgICAgICAgICAgICgib3ZlcnNlYXMvZXZhbGd1YXJkL2V4YW1wbGVzL3ByZS1jb21taXQtY29uZmlnLnlhbWwiLCAicHJlLWNvbW1pdCDpkqnlrZAiKSwKICAgICAgICAgICAgKCJvdmVyc2Vhcy9ldmFsZ3VhcmQvQVBJLm1kIiwgIuaOpeWPo+aWh+ahoyIpLAogICAgICAgIF06CiAgICAgICAgICAgIGNoZWNrKGYi5a2Y5ZyoIHtvcy5wYXRoLmJhc2VuYW1lKHJlbCl9Iiwgb3MucGF0aC5leGlzdHMob3MucGF0aC5qb2luKEhFUkUsIHJlbCkpLCB3aHkpCgogICAgZXhjZXB0ICh1cmxsaWIuZXJyb3IuVVJMRXJyb3IsIE9TRXJyb3IpIGFzIGU6CiAgICAgICAgY2hlY2soIkhUVFAg56uv54K55Y+v6L6+IiwgRmFsc2UsIGYie3R5cGUoZSkuX19uYW1lX199OiB7ZX0iKQogICAgZmluYWxseToKICAgICAgICBpZiBzcnY6CiAgICAgICAgICAgIHNydi50ZXJtaW5hdGUoKQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzcnYud2FpdCh0aW1lb3V0PTUpCiAgICAgICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLlRpbWVvdXRFeHBpcmVkOgogICAgICAgICAgICAgICAgc3J2LmtpbGwoKQoKICAgICMgLS0tLSDmsYfmgLsgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIHBhc3NlZCA9IHN1bSgxIGZvciBfLCBvaywgXyBpbiBfcmVzdWx0cyBpZiBvaykKICAgIHRvdGFsID0gbGVuKF9yZXN1bHRzKQogICAgcHJpbnQoIlxuIiArICI9IiAqIDY0KQogICAgcHJpbnQoZiJ7cGFzc2VkfS97dG90YWx9IOmAmui/hyIpCiAgICBpZiBwYXNzZWQgPCB0b3RhbDoKICAgICAgICBwcmludCgiXG7lpLHotKXpobnvvJoiKQogICAgICAgIGZvciBuYW1lLCBvaywgZGV0YWlsIGluIF9yZXN1bHRzOgogICAgICAgICAgICBpZiBub3Qgb2s6CiAgICAgICAgICAgICAgICBwcmludChmIiAgLSB7bmFtZX0gIHtkZXRhaWx9IikKICAgIHJldHVybiAwIGlmIHBhc3NlZCA9PSB0b3RhbCBlbHNlIDEKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""一键验证 evalguard 的全部对外接口。
+
+为什么要有这个文件
+------------------
+接口文档里写的和接口真的能跑，是两件事。本文档型项目最容易出的毛病就是
+前者齐全、后者没人验过。这个脚本把"拿过来就能测"变成一条命令：
+
+    python3 接口自检.py
+
+它会自己起服务、打完四个端点、验完 CLI 退出码和 SARIF 结构，然后关掉服务，
+打印一张通过/失败表。退出码 0 = 全通过。
+
+不依赖 pytest，不联网，标准库 only。
+"""
+from __future__ import annotations
+
+import json
+import os
+import socket
+import subprocess
+import sys
+import time
+import urllib.error
+import urllib.request
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+PKG_ROOT = os.path.join(HERE, "overseas")          # evalguard 包的父目录
+PORT = 8787
+BASE = f"http://127.0.0.1:{PORT}"
+
+BAD_SRC = "def f():\n    try:\n        pass\n    except Exception:\n        pass\n"
+CLEAN_SRC = "import random\nrandom.seed(0)\n\ndef f(x):\n    return x\n"
+
+_results: list[tuple[str, bool, str]] = []
+
+
+def check(name: str, ok: bool, detail: str = "") -> bool:
+    _results.append((name, ok, detail))
+    mark = "PASS" if ok else "FAIL"
+    print(f"  [{mark}] {name}" + (f"  — {detail}" if detail else ""))
+    return ok
+
+
+def port_open(port: int) -> bool:
+    with socket.socket() as s:
+        s.settimeout(0.4)
+        return s.connect_ex(("127.0.0.1", port)) == 0
+
+
+def post(path: str, payload: dict) -> dict:
+    req = urllib.request.Request(
+        BASE + path,
+        data=json.dumps(payload).encode(),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=10) as r:
+        return json.loads(r.read().decode())
+
+
+def get(path: str) -> dict:
+    with urllib.request.urlopen(BASE + path, timeout=10) as r:
+        return json.loads(r.read().decode())
+
+
+def main() -> int:
+    print("evalguard 接口自检")
+    print("=" * 64)
+
+    # ---- 0. CLI（不需要服务）-------------------------------------------
+    print("\n[0] 命令行")
+    env = dict(os.environ, PYTHONPATH=PKG_ROOT)
+    tmp = os.path.join(HERE, ".selfcheck_bad.py")
+    with open(tmp, "w") as fh:
+        fh.write(BAD_SRC)
+    try:
+        p = subprocess.run([sys.executable, "-m", "evalguard", tmp],
+                           capture_output=True, text=True, env=env, cwd=PKG_ROOT)
+        check("CLI 对病代码退出码 = 1", p.returncode == 1, f"rc={p.returncode}")
+        p2 = subprocess.run([sys.executable, "-m", "evalguard", "--help"],
+                            capture_output=True, text=True, env=env, cwd=PKG_ROOT)
+        check("CLI --help 不崩溃", p2.returncode == 0, f"rc={p2.returncode}")
+    finally:
+        if os.path.exists(tmp):
+            os.remove(tmp)
+
+    # ---- 1. 起服务 ------------------------------------------------------
+    print("\n[1] 启动 HTTP 服务")
+    srv = None
+    if port_open(PORT):
+        check("端口已占用，复用现有服务", True, f"{BASE}")
+    else:
+        srv = subprocess.Popen(
+            [sys.executable, "-m", "evalguard", "serve"],
+            stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+            env=env, cwd=PKG_ROOT,
+        )
+        for _ in range(40):
+            if port_open(PORT):
+                break
+            time.sleep(0.25)
+        check("服务在 10s 内起来", port_open(PORT), BASE)
+
+    try:
+        # ---- 2. GET 端点 ------------------------------------------------
+        print("\n[2] GET 端点")
+        h = get("/health")
+        check("/health ok=true", h.get("ok") is True, json.dumps(h, ensure_ascii=False)[:80])
+        check("/health 报出规则数 26", h.get("rules") == 26, f"rules={h.get('rules')}")
+
+        rl = get("/rules")
+        rules = rl if isinstance(rl, list) else rl.get("rules", [])
+        shipped = [r for r in rules if r.get("shipped")]
+        check("/rules 返回 26 条", len(rules) == 26, f"n={len(rules)}")
+        check("出货规则恰好 3 条", len(shipped) == 3,
+              ",".join(r.get("eg_id", "?") for r in shipped))
+
+        # ---- 3. POST /scan ----------------------------------------------
+        print("\n[3] POST /scan")
+        bad = post("/scan", {"source": BAD_SRC, "path": "bad.py"})
+        check("病代码 ok=false", bad.get("ok") is False, f"counts={bad.get('counts')}")
+        check("病代码出 1 个 blocker",
+              bad.get("counts", {}).get("blocker") == 1,
+              str([f["eg_id"] for f in bad.get("findings", [])]))
+        clean = post("/scan", {"source": CLEAN_SRC, "path": "clean.py"})
+        # 这一条是最容易坏的：假阳性会让"干净代码"也报东西
+        check("干净代码 0 findings", len(clean.get("findings", [])) == 0,
+              f"counts={clean.get('counts')}")
+
+        # ---- 4. SARIF ----------------------------------------------------
+        print("\n[4] POST /scan/sarif")
+        s = post("/scan/sarif", {"source": BAD_SRC, "path": "x.py"})
+        run = s.get("runs", [{}])[0]
+        check("SARIF 版本 2.1.0", s.get("version") == "2.1.0", s.get("version", ""))
+        check("driver 名称正确",
+              run.get("tool", {}).get("driver", {}).get("name") == "evalguard")
+        check("至少 1 条 result", len(run.get("results", [])) >= 1,
+              f"n={len(run.get('results', []))}")
+        check("每条 result 有 startLine",
+              all(r["locations"][0]["physicalLocation"]["region"].get("startLine")
+                  for r in run.get("results", [])))
+
+        # ---- 5. 仓库接口产物 ---------------------------------------------
+        print("\n[5] 仓库接口文件")
+        for rel, why in [
+            ("overseas/evalguard/action.yml", "GitHub Action 入口"),
+            ("overseas/evalguard/examples/ci.yml", "可复制的 workflow"),
+            ("overseas/evalguard/examples/pre-commit-config.yaml", "pre-commit 钩子"),
+            ("overseas/evalguard/API.md", "接口文档"),
+        ]:
+            check(f"存在 {os.path.basename(rel)}", os.path.exists(os.path.join(HERE, rel)), why)
+
+    except (urllib.error.URLError, OSError) as e:
+        check("HTTP 端点可达", False, f"{type(e).__name__}: {e}")
+    finally:
+        if srv:
+            srv.terminate()
+            try:
+                srv.wait(timeout=5)
+            except subprocess.TimeoutExpired:
+                srv.kill()
+
+    # ---- 汇总 -----------------------------------------------------------
+    passed = sum(1 for _, ok, _ in _results if ok)
+    total = len(_results)
+    print("\n" + "=" * 64)
+    print(f"{passed}/{total} 通过")
+    if passed < total:
+        print("\n失败项：")
+        for name, ok, detail in _results:
+            if not ok:
+                print(f"  - {name}  {detail}")
+    return 0 if passed == total else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

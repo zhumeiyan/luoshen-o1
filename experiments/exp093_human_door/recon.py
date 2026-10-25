@@ -1,1 +1,37 @@
-aW1wb3J0IGFzeW5jaW8sIG9zLCBqc29uCmZyb20gcGxheXdyaWdodC5hc3luY19hcGkgaW1wb3J0IGFzeW5jX3BsYXl3cmlnaHQKCk9VVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAwOTNfaHVtYW5fZG9vciIKCmFzeW5jIGRlZiBtYWluKCk6CiAgICBhc3luYyB3aXRoIGFzeW5jX3BsYXl3cmlnaHQoKSBhcyBwOgogICAgICAgIGIgPSBhd2FpdCBwLmNocm9taXVtLmxhdW5jaChleGVjdXRhYmxlX3BhdGg9Ii91c3IvYmluL2dvb2dsZS1jaHJvbWUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmdzPVsiLS1uby1zYW5kYm94IiwiLS1kaXNhYmxlLWRldi1zaG0tdXNhZ2UiXSkKICAgICAgICBwZyA9IGF3YWl0IGIubmV3X3BhZ2Uodmlld3BvcnQ9eyJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo5MDB9KQogICAgICAgIHJlcyA9IHt9CiAgICAgICAgZm9yIG5hbWUsIHVybCBpbiBbKCJtYWlsIiwiaHR0cHM6Ly9tYWlsLnFxLmNvbSIpLCgid3htYWlsIiwiaHR0cHM6Ly93eC5tYWlsLnFxLmNvbSIpXToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgciA9IGF3YWl0IHBnLmdvdG8odXJsLCB0aW1lb3V0PTQ1MDAwLCB3YWl0X3VudGlsPSJkb21jb250ZW50bG9hZGVkIikKICAgICAgICAgICAgICAgIGF3YWl0IHBnLndhaXRfZm9yX3RpbWVvdXQoNDAwMCkKICAgICAgICAgICAgICAgIGF3YWl0IHBnLnNjcmVlbnNob3QocGF0aD1mIntPVVR9L3tuYW1lfS5wbmciKQogICAgICAgICAgICAgICAgIyDor7sgRE9NIOWFs+mUruWFg+e0oAogICAgICAgICAgICAgICAgaW5mbyA9IGF3YWl0IHBnLmV2YWx1YXRlKCIiIigpID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBvdXQgPSB7dXJsOiBsb2NhdGlvbi5ocmVmLCB0aXRsZTogZG9jdW1lbnQudGl0bGUsCiAgICAgICAgICAgICAgICAgICAgICBpbnB1dHM6IFtdLCBpZnJhbWVzOiBbXSwgdGV4dDogZG9jdW1lbnQuYm9keT9kb2N1bWVudC5ib2R5LmlubmVyVGV4dC5zbGljZSgwLDYwMCk6Jyd9OwogICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ2lucHV0JykuZm9yRWFjaChlPT57CiAgICAgICAgICAgICAgICAgICAgICBjb25zdCByPWUuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCk7CiAgICAgICAgICAgICAgICAgICAgICBvdXQuaW5wdXRzLnB1c2goe2lkOmUuaWQsdHlwZTplLnR5cGUscGg6ZS5wbGFjZWhvbGRlcix3Ok1hdGgucm91bmQoci53aWR0aCksaDpNYXRoLnJvdW5kKHIuaGVpZ2h0KSx4Ok1hdGgucm91bmQoci54KSx5Ok1hdGgucm91bmQoci55KX0pOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ2lmcmFtZScpLmZvckVhY2goZT0+ewogICAgICAgICAgICAgICAgICAgICAgY29uc3Qgcj1lLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpOwogICAgICAgICAgICAgICAgICAgICAgb3V0LmlmcmFtZXMucHVzaCh7c3JjOihlLnNyY3x8JycpLnNsaWNlKDAsMTIwKSx3Ok1hdGgucm91bmQoci53aWR0aCksaDpNYXRoLnJvdW5kKHIuaGVpZ2h0KX0pOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBvdXQ7CiAgICAgICAgICAgICAgICB9IiIiKQogICAgICAgICAgICAgICAgcmVzW25hbWVdID0geyJzdGF0dXMiOiByLnN0YXR1cyBpZiByIGVsc2UgTm9uZSwgKippbmZvfQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICByZXNbbmFtZV0gPSB7ImVycm9yIjogc3RyKGUpWzozMDBdfQogICAgICAgIGF3YWl0IGIuY2xvc2UoKQogICAgICAgIHByaW50KGpzb24uZHVtcHMocmVzLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSkKCmFzeW5jaW8ucnVuKG1haW4oKSkK
+import asyncio, os, json
+from playwright.async_api import async_playwright
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp093_human_door"
+
+async def main():
+    async with async_playwright() as p:
+        b = await p.chromium.launch(executable_path="/usr/bin/google-chrome",
+                                    args=["--no-sandbox","--disable-dev-shm-usage"])
+        pg = await b.new_page(viewport={"width":1280,"height":900})
+        res = {}
+        for name, url in [("mail","https://mail.qq.com"),("wxmail","https://wx.mail.qq.com")]:
+            try:
+                r = await pg.goto(url, timeout=45000, wait_until="domcontentloaded")
+                await pg.wait_for_timeout(4000)
+                await pg.screenshot(path=f"{OUT}/{name}.png")
+                # 读 DOM 关键元素
+                info = await pg.evaluate("""() => {
+                    const out = {url: location.href, title: document.title,
+                      inputs: [], iframes: [], text: document.body?document.body.innerText.slice(0,600):''};
+                    document.querySelectorAll('input').forEach(e=>{
+                      const r=e.getBoundingClientRect();
+                      out.inputs.push({id:e.id,type:e.type,ph:e.placeholder,w:Math.round(r.width),h:Math.round(r.height),x:Math.round(r.x),y:Math.round(r.y)});
+                    });
+                    document.querySelectorAll('iframe').forEach(e=>{
+                      const r=e.getBoundingClientRect();
+                      out.iframes.push({src:(e.src||'').slice(0,120),w:Math.round(r.width),h:Math.round(r.height)});
+                    });
+                    return out;
+                }""")
+                res[name] = {"status": r.status if r else None, **info}
+            except Exception as e:
+                res[name] = {"error": str(e)[:300]}
+        await b.close()
+        print(json.dumps(res, ensure_ascii=False, indent=1))
+
+asyncio.run(main())

@@ -1,1 +1,135 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIDE5NmI6IOWdjee8qeaJq+aPjyDigJTigJQg6K6w5b+G5aKe55uK5Yiw5bqV55Sx5LuA5LmI5Yaz5a6a77yfCiMg5YGH6K6+77ya5aKe55uK5Y+q5L6d6LWWIHIvdGF177yI6YeH5qC36Ze06ZqUIC8g5LiW55WM55u45YWz5pe26Ze077yJ77yM5LiOIHRhdeOAgXIg5ZCE6Ieq5peg5YWzCmltcG9ydCBudW1weSBhcyBucCwganNvbiwgb3MKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKCk9VVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxOTZfZXllX21lbW9yeSIKcm5nX21hc3RlciA9IDE5NgoKCmRlZiBxdWFudGl6ZSh4LCBWPTEwKToKICAgIHFzID0gbnAucXVhbnRpbGUoeCwgbnAubGluc3BhY2UoMCwgMSwgViArIDEpWzE6LTFdKQogICAgcmV0dXJuIG5wLmRpZ2l0aXplKHgsIHFzKQoKCmRlZiBtYWtlX291KG4sIHRhdSwgcm5nLCBzaWdtYT0xLjApOgogICAgYSA9IG5wLmV4cCgtMS4wIC8gdGF1KQogICAgeCA9IG5wLnplcm9zKG4pCiAgICBzID0gc2lnbWEgKiBucC5zcXJ0KDEgLSBhICogYSkKICAgIG5vaXNlID0gcm5nLnN0YW5kYXJkX25vcm1hbChuKQogICAgZm9yIGkgaW4gcmFuZ2UoMSwgbik6CiAgICAgICAgeFtpXSA9IGEgKiB4W2kgLSAxXSArIHMgKiBub2lzZVtpXQogICAgcmV0dXJuIHgKCgpkZWYgZXZhbF9rKHNlcSwgaywgbnRlc3Q9NDAwMCk6CiAgICBuID0gbGVuKHNlcSkKICAgIHNwbGl0ID0gaW50KG4gKiAwLjgpCiAgICB0ciwgdGUgPSBzZXFbOnNwbGl0XSwgc2VxW3NwbGl0OnNwbGl0ICsgbnRlc3RdCiAgICBpZiBsZW4odGUpIDw9IGsgKyAxOgogICAgICAgIHJldHVybiBOb25lCiAgICBjb3VudHMgPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGZsb2F0KSkKICAgIGN0eCA9IGRlZmF1bHRkaWN0KGZsb2F0KQogICAgbWFyZyA9IGRlZmF1bHRkaWN0KGZsb2F0KQogICAgdG90ID0gMC4wCiAgICBmb3IgaSBpbiByYW5nZShrLCBsZW4odHIpKToKICAgICAgICBjID0gdHVwbGUodHJbaSAtIGs6aV0pCiAgICAgICAgY291bnRzW2NdW3RyW2ldXSArPSAxCiAgICAgICAgY3R4W2NdICs9IDEKICAgICAgICBtYXJnW3RyW2ldXSArPSAxCiAgICAgICAgdG90ICs9IDEKICAgIGJhc2UgPSBtYXgobWFyZy52YWx1ZXMoKSkgLyB0b3QgaWYgdG90ID4gMCBlbHNlIDAuMAogICAgdG9wX20gPSBtYXgobWFyZy5pdGVtcygpLCBrZXk9bGFtYmRhIGt2OiBrdlsxXSlbMF0gaWYgbWFyZyBlbHNlIDAKICAgIGNvcnIgPSAwLjAKICAgIG4yID0gMAogICAgZm9yIGkgaW4gcmFuZ2UoaywgbGVuKHRlKSk6CiAgICAgICAgYyA9IHR1cGxlKHRlW2kgLSBrOmldKQogICAgICAgIHByZWQgPSBtYXgoY291bnRzW2NdLml0ZW1zKCksIGtleT1sYW1iZGEga3Y6IGt2WzFdKVswXSBpZiBjdHhbY10gPiAwIGVsc2UgdG9wX20KICAgICAgICBjb3JyICs9IChwcmVkID09IHRlW2ldKQogICAgICAgIG4yICs9IDEKICAgIHJldHVybiBjb3JyIC8gbjIsIGJhc2UKCgpkZWYgYmVzdF9nYWluKHNlcSwga21heD02LCBudGVzdD00MDAwKToKICAgIGJlc3QgPSAtOQogICAgYmsgPSBOb25lCiAgICBmb3IgayBpbiByYW5nZSgxLCBrbWF4ICsgMSk6CiAgICAgICAgciA9IGV2YWxfayhzZXEsIGssIG50ZXN0KQogICAgICAgIGlmIHIgaXMgTm9uZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBhY2MsIGJhc2UgPSByCiAgICAgICAgaWYgYWNjIC0gYmFzZSA+IGJlc3Q6CiAgICAgICAgICAgIGJlc3QgPSBhY2MgLSBiYXNlCiAgICAgICAgICAgIGJrID0gawogICAgcmV0dXJuIGJlc3QsIGJrCgoKIyAtLS0tIOWdjee8qeaJq+aPj++8muWbuuWumuaAu+aXtumVvyBO77yM5pS55Y+Y6YeH5qC3546HIHIgLS0tLQpOID0gNDAwMDAKeHMgPSBbMC4wNSwgMC4xLCAwLjIsIDAuNCwgMC44LCAxLjZdCnRhdXMgPSBbNSwgMTAsIDIwLCA0MCwgODBdCnNlZWRzID0gWzEsIDIsIDNdCgpjb2xsYXBzZSA9IHt9CmZvciB4IGluIHhzOgogICAgY29sbGFwc2Vbc3RyKHgpXSA9IHt9CiAgICBmb3IgdGF1IGluIHRhdXM6CiAgICAgICAgciA9IG1heCgxLCBpbnQocm91bmQoeCAqIHRhdSkpKQogICAgICAgIGdhaW5zID0gW10KICAgICAgICBrcyA9IFtdCiAgICAgICAgZm9yIHNkIGluIHNlZWRzOgogICAgICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcocm5nX21hc3RlciArIHNkKQogICAgICAgICAgICBmdWxsID0gbWFrZV9vdShOLCB0YXUsIHJuZykKICAgICAgICAgICAgcSA9IHF1YW50aXplKGZ1bGxbOjpyXSkKICAgICAgICAgICAgZywgayA9IGJlc3RfZ2FpbihxKQogICAgICAgICAgICBnYWlucy5hcHBlbmQoZykKICAgICAgICAgICAga3MuYXBwZW5kKGspCiAgICAgICAgY29sbGFwc2Vbc3RyKHgpXVtzdHIodGF1KV0gPSB7CiAgICAgICAgICAgICJyIjogciwgInJfb3Zlcl90YXUiOiByIC8gdGF1LAogICAgICAgICAgICAiZ2Fpbl9tZWFuIjogZmxvYXQobnAubWVhbihnYWlucykpLAogICAgICAgICAgICAiZ2Fpbl9zdGQiOiBmbG9hdChucC5zdGQoZ2FpbnMpKSwKICAgICAgICAgICAgImtzdGFyIjogW2ludCh0KSBmb3IgdCBpbiBrc10sCiAgICAgICAgICAgICJuX3NhbXBsZXMiOiBpbnQoTiAvIHIpLAogICAgICAgIH0KCiMg5Z2N57yp6LSo6YeP77ya57uE6Ze05pa55beuIC8g57uE5YaF5pa55beuCnJvd3MgPSBbXQpmb3IgeCBpbiB4czoKICAgIGZvciB0YXUgaW4gdGF1czoKICAgICAgICBkID0gY29sbGFwc2Vbc3RyKHgpXVtzdHIodGF1KV0KICAgICAgICByb3dzLmFwcGVuZCgoeCwgdGF1LCBkWyJnYWluX21lYW4iXSwgZFsiZ2Fpbl9zdGQiXSkpCgpncm91cF9tZWFucyA9IHt9CmZvciB4IGluIHhzOgogICAgdmFscyA9IFt2IGZvciAoeHgsIHR0LCB2LCBzKSBpbiByb3dzIGlmIHh4ID09IHhdCiAgICBncm91cF9tZWFuc1t4XSA9IG5wLm1lYW4odmFscykKd2l0aGluID0gbnAubWVhbihbcyBmb3IgKHh4LCB0dCwgdiwgcykgaW4gcm93c10pICoqIDIKYmV0d2VlbiA9IG5wLnZhcihbZ3JvdXBfbWVhbnNbeF0gZm9yIHggaW4geHNdKQojIOavj+S4qiB0YXUg5YaF6YOo55qE56a75pWj5bqm77yI5ZCMIHgg5LiL5LiN5ZCMIHRhdSDnmoTlt67vvIkKc3ByZWFkID0ge3N0cih4KTogZmxvYXQobnAuc3RkKFt2IGZvciAoeHgsIHR0LCB2LCBzKSBpbiByb3dzIGlmIHh4ID09IHhdKSkgZm9yIHggaW4geHN9CmxldmVsID0gZmxvYXQobnAuc3RkKFtncm91cF9tZWFuc1t4XSBmb3IgeCBpbiB4c10pKQoKc3VtbWFyeSA9IHsKICAgICJjb2xsYXBzZV9ncmlkIjogY29sbGFwc2UsCiAgICAiZ3JvdXBfbWVhbl9ieV94Ijoge3N0cihrKTogZmxvYXQodikgZm9yIGssIHYgaW4gZ3JvdXBfbWVhbnMuaXRlbXMoKX0sCiAgICAic3ByZWFkX3dpdGhpbl94Ijogc3ByZWFkLAogICAgInNwcmVhZF9hY3Jvc3NfeCI6IGxldmVsLAogICAgImNvbGxhcHNlX3JhdGlvIjogZmxvYXQobnAubWVhbihsaXN0KHNwcmVhZC52YWx1ZXMoKSkpIC8gbGV2ZWwpIGlmIGxldmVsID4gMCBlbHNlIE5vbmUsCiAgICAic2VlZF9zdGRfbWVhbiI6IGZsb2F0KG5wLm1lYW4oW3MgZm9yICh4eCwgdHQsIHYsIHMpIGluIHJvd3NdKSksCn0KanNvbi5kdW1wKHN1bW1hcnksIG9wZW4oT1VUICsgIi9jb2xsYXBzZTE5Ni5qc29uIiwgInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKCnByaW50KCI9PT0g5Z2N57yp5omr5o+P77yaZ2FpbiDlj6rkvp3otZYgci90YXUgPyA9PT0iKQpwcmludChmInsnci90YXUnOj42fSB8ICIgKyAiIHwgIi5qb2luKGYidGF1PXt0OjwzfSIgZm9yIHQgaW4gdGF1cykgKyAiIHwg57uE5YaFc3RkIHwg57uE5Z2H5YC8IikKZm9yIHggaW4geHM6CiAgICBsaW5lID0gZiJ7eDo+Nn0gfCAiCiAgICBmb3IgdGF1IGluIHRhdXM6CiAgICAgICAgbGluZSArPSBmIntjb2xsYXBzZVtzdHIoeCldW3N0cih0YXUpXVsnZ2Fpbl9tZWFuJ106LjRmfSB8ICIKICAgIGxpbmUgKz0gZiIge3NwcmVhZFtzdHIoeCldOi40Zn0gfCB7Z3JvdXBfbWVhbnNbeF06LjRmfSIKICAgIHByaW50KGxpbmUpCnByaW50KCkKcHJpbnQoZiLnu4TlhoUo5ZCMIHIvdGF1LCDkuI3lkIwgdGF1KeW5s+Wdh+emu+aVoyA9IHtucC5tZWFuKGxpc3Qoc3ByZWFkLnZhbHVlcygpKSk6LjVmfSIpCnByaW50KGYi57uE6Ze0KOS4jeWQjCByL3RhdSnnprvmlaMgICAgICAgICAgID0ge2xldmVsOi41Zn0iKQpwcmludChmIuWdjee8qeavlCA9IOe7hOWGhS/nu4Tpl7QgPSB7c3VtbWFyeVsnY29sbGFwc2VfcmF0aW8nXTouNGZ9ICAgKOi2iuWwj+i2iuWdjee8qSkiKQpwcmludChmIuenjeWtkOmXtCBzdGQg5Z2H5YC8ID0ge3N1bW1hcnlbJ3NlZWRfc3RkX21lYW4nXTouNWZ9IikK
+#!/usr/bin/env python3
+# 196b: 坍缩扫描 —— 记忆增益到底由什么决定？
+# 假设：增益只依赖 r/tau（采样间隔 / 世界相关时间），与 tau、r 各自无关
+import numpy as np, json, os
+from collections import defaultdict
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp196_eye_memory"
+rng_master = 196
+
+
+def quantize(x, V=10):
+    qs = np.quantile(x, np.linspace(0, 1, V + 1)[1:-1])
+    return np.digitize(x, qs)
+
+
+def make_ou(n, tau, rng, sigma=1.0):
+    a = np.exp(-1.0 / tau)
+    x = np.zeros(n)
+    s = sigma * np.sqrt(1 - a * a)
+    noise = rng.standard_normal(n)
+    for i in range(1, n):
+        x[i] = a * x[i - 1] + s * noise[i]
+    return x
+
+
+def eval_k(seq, k, ntest=4000):
+    n = len(seq)
+    split = int(n * 0.8)
+    tr, te = seq[:split], seq[split:split + ntest]
+    if len(te) <= k + 1:
+        return None
+    counts = defaultdict(lambda: defaultdict(float))
+    ctx = defaultdict(float)
+    marg = defaultdict(float)
+    tot = 0.0
+    for i in range(k, len(tr)):
+        c = tuple(tr[i - k:i])
+        counts[c][tr[i]] += 1
+        ctx[c] += 1
+        marg[tr[i]] += 1
+        tot += 1
+    base = max(marg.values()) / tot if tot > 0 else 0.0
+    top_m = max(marg.items(), key=lambda kv: kv[1])[0] if marg else 0
+    corr = 0.0
+    n2 = 0
+    for i in range(k, len(te)):
+        c = tuple(te[i - k:i])
+        pred = max(counts[c].items(), key=lambda kv: kv[1])[0] if ctx[c] > 0 else top_m
+        corr += (pred == te[i])
+        n2 += 1
+    return corr / n2, base
+
+
+def best_gain(seq, kmax=6, ntest=4000):
+    best = -9
+    bk = None
+    for k in range(1, kmax + 1):
+        r = eval_k(seq, k, ntest)
+        if r is None:
+            continue
+        acc, base = r
+        if acc - base > best:
+            best = acc - base
+            bk = k
+    return best, bk
+
+
+# ---- 坍缩扫描：固定总时长 N，改变采样率 r ----
+N = 40000
+xs = [0.05, 0.1, 0.2, 0.4, 0.8, 1.6]
+taus = [5, 10, 20, 40, 80]
+seeds = [1, 2, 3]
+
+collapse = {}
+for x in xs:
+    collapse[str(x)] = {}
+    for tau in taus:
+        r = max(1, int(round(x * tau)))
+        gains = []
+        ks = []
+        for sd in seeds:
+            rng = np.random.default_rng(rng_master + sd)
+            full = make_ou(N, tau, rng)
+            q = quantize(full[::r])
+            g, k = best_gain(q)
+            gains.append(g)
+            ks.append(k)
+        collapse[str(x)][str(tau)] = {
+            "r": r, "r_over_tau": r / tau,
+            "gain_mean": float(np.mean(gains)),
+            "gain_std": float(np.std(gains)),
+            "kstar": [int(t) for t in ks],
+            "n_samples": int(N / r),
+        }
+
+# 坍缩质量：组间方差 / 组内方差
+rows = []
+for x in xs:
+    for tau in taus:
+        d = collapse[str(x)][str(tau)]
+        rows.append((x, tau, d["gain_mean"], d["gain_std"]))
+
+group_means = {}
+for x in xs:
+    vals = [v for (xx, tt, v, s) in rows if xx == x]
+    group_means[x] = np.mean(vals)
+within = np.mean([s for (xx, tt, v, s) in rows]) ** 2
+between = np.var([group_means[x] for x in xs])
+# 每个 tau 内部的离散度（同 x 下不同 tau 的差）
+spread = {str(x): float(np.std([v for (xx, tt, v, s) in rows if xx == x])) for x in xs}
+level = float(np.std([group_means[x] for x in xs]))
+
+summary = {
+    "collapse_grid": collapse,
+    "group_mean_by_x": {str(k): float(v) for k, v in group_means.items()},
+    "spread_within_x": spread,
+    "spread_across_x": level,
+    "collapse_ratio": float(np.mean(list(spread.values())) / level) if level > 0 else None,
+    "seed_std_mean": float(np.mean([s for (xx, tt, v, s) in rows])),
+}
+json.dump(summary, open(OUT + "/collapse196.json", "w"), ensure_ascii=False, indent=1)
+
+print("=== 坍缩扫描：gain 只依赖 r/tau ? ===")
+print(f"{'r/tau':>6} | " + " | ".join(f"tau={t:<3}" for t in taus) + " | 组内std | 组均值")
+for x in xs:
+    line = f"{x:>6} | "
+    for tau in taus:
+        line += f"{collapse[str(x)][str(tau)]['gain_mean']:.4f} | "
+    line += f" {spread[str(x)]:.4f} | {group_means[x]:.4f}"
+    print(line)
+print()
+print(f"组内(同 r/tau, 不同 tau)平均离散 = {np.mean(list(spread.values())):.5f}")
+print(f"组间(不同 r/tau)离散           = {level:.5f}")
+print(f"坍缩比 = 组内/组间 = {summary['collapse_ratio']:.4f}   (越小越坍缩)")
+print(f"种子间 std 均值 = {summary['seed_std_mean']:.5f}")

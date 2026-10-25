@@ -1,1 +1,55 @@
-aW1wb3J0IGpzb24sIG51bXB5IGFzIG5wCnIgPSBqc29uLmxvYWQob3BlbigicmVzdWx0MTU1Lmpzb24iKSkKUCA9IHJbInJlcHMiXVsiMC4wMDQiXVsiUCJdOyBQMiA9IFAvMgpybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMTU1KQoKZGVmIHNsb3BlX2NpKGN1cnZlcywgbl9ib290PTQwMDApOgogICAgIiIi5a+55q2l5pWw5YGa57q/5oCn5Zue5b2S77yM6L+U5Zue5pac546H5LiOIGJvb3RzdHJhcCBDSSIiIgogICAgQSA9IG5wLmFycmF5KGN1cnZlcykgICAgICAgICAgICAgICAgICAgICAjIChSLCBMKQogICAgTCA9IEEuc2hhcGVbMV0KICAgIHggPSBucC5hcmFuZ2UoMSwgTCsxLCBkdHlwZT1mbG9hdCkKICAgIHhjID0geCAtIHgubWVhbigpCiAgICBkZWYgc2woTSk6CiAgICAgICAgeSA9IE0ubWVhbihheGlzPTApCiAgICAgICAgcmV0dXJuIGZsb2F0KCh4YyBAICh5IC0geS5tZWFuKCkpKSAvICh4YyBAIHhjKSkKICAgIGJzID0gW10KICAgIGZvciBfIGluIHJhbmdlKG5fYm9vdCk6CiAgICAgICAgaWR4ID0gcm5nLmludGVnZXJzKDAsIEEuc2hhcGVbMF0sIEEuc2hhcGVbMF0pCiAgICAgICAgYnMuYXBwZW5kKHNsKEFbaWR4XSkpCiAgICBsbywgaGkgPSBucC5wZXJjZW50aWxlKGJzLCBbMi41LCA5Ny41XSkKICAgIHJldHVybiBzbChBKSwgZmxvYXQobG8pLCBmbG9hdChoaSkKCmRlZiBtZWFuX2NpKHYpOgogICAgdiA9IG5wLmFzYXJyYXkodiwgZmxvYXQpCiAgICBicyA9IFtybmcuY2hvaWNlKHYsIGxlbih2KSwgcmVwbGFjZT1UcnVlKS5tZWFuKCkgZm9yIF8gaW4gcmFuZ2UoNDAwMCldCiAgICByZXR1cm4gZmxvYXQodi5tZWFuKCkpLCBmbG9hdChucC5wZXJjZW50aWxlKGJzLCAyLjUpKSwgZmxvYXQobnAucGVyY2VudGlsZShicywgOTcuNSkpCgpwcmludCgi5ZGo5pyfIFAgPSAlLjRmIHJhZCAoJS4xZsKwKe+8jOaooeeziuWNiuWuvSA9ICUuNGYgcmFkIiAlIChQLCBucC5kZWdyZWVzKFApLCBQMikpCnByaW50KCJcbiUtOHMgJS0yOHMgJS0yOHMiICUgKCJzaWdtYSIsICJkZWFkIOaWnOeOhy/mraUgKDk1JUNJKSIsICJjb21iIOaWnOeOhy/mraUgKDk1JUNJKSIpKQpvdXQgPSB7fQpmb3IgcyBpbiAoIjAuMDA0IiwgIjAuMDEyIiwgIjAuMDM2Iik6CiAgICBkID0gbnAuYXJyYXkoclsicmVwcyJdW3NdWyJkZWFkX2FsbCJdKTsgYyA9IG5wLmFycmF5KHJbInJlcHMiXVtzXVsiY29tYl9hbGwiXSkKICAgIHNkID0gc2xvcGVfY2koZCk7IHNjID0gc2xvcGVfY2koYykKICAgIHByaW50KCIlLThzICUrLjZmIFslKy42ZiwlKy42Zl0gICUrLjZmIFslKy42ZiwlKy42Zl0iICUgKHMsIHNkWzBdLHNkWzFdLHNkWzJdLCBzY1swXSxzY1sxXSxzY1syXSkpCiAgICAjIOacq+eCueW3riAoY29tYiAtIGRlYWQp77yM6LSf5YC8PeejgeWcuuabtOS8mAogICAgZGlmZiA9IGNbOiwgLTFdIC0gZFs6LCAtMV0KICAgIG0sIGxvLCBoaSA9IG1lYW5fY2koZGlmZikKICAgICMg6Kej5qih57OK5aSx6LSl546H77ya6K+v5beu6LaF6L+H5Y2K5Liq5ZGo5pyf5Y2z5Yik6ZSZ5YiG5pSvCiAgICBmYWlsID0gZmxvYXQoKGMgPiBQMikubWVhbigpKQogICAgZGVhZF9mYWlsID0gZmxvYXQoKGQgPiBQMikubWVhbigpKQogICAgb3V0W3NdID0geyJkZWFkX3Nsb3BlIjogc2QsICJjb21iX3Nsb3BlIjogc2MsCiAgICAgICAgICAgICAgImVuZF9kaWZmX21lYW4iOiBtLCAiZW5kX2RpZmZfQ0kiOiBbbG8sIGhpXSwKICAgICAgICAgICAgICAiY29tYl9mYWlsX3JhdGUiOiBmYWlsLCAiZGVhZF9leGNlZWRfaGFsZlAiOiBkZWFkX2ZhaWwsCiAgICAgICAgICAgICAgImRlYWRfZW5kIjogZmxvYXQoZFs6LC0xXS5tZWFuKCkpLCAiY29tYl9lbmQiOiBmbG9hdChjWzosLTFdLm1lYW4oKSl9CiAgICBwcmludCgiICAgICAgICAg5pyr54K55beuIGNvbWItZGVhZCA9ICUrLjRmIENJWyUrLjRmLCUrLjRmXSAg6Kej5qih57OK5aSx6LSl546HICUuM2YgIOenr+WIhui2heWNiuWRqOacn+eOhyAlLjNmIgogICAgICAgICAgJSAobSwgbG8sIGhpLCBmYWlsLCBkZWFkX2ZhaWwpKQoKanNvbi5kdW1wKG91dCwgb3BlbigiYW5hbHlzaXMxNTUuanNvbiIsInciKSwgaW5kZW50PTIsIGVuc3VyZV9hc2NpaT1GYWxzZSkKCnByaW50KCJcbi0tLSDpgJDmo4Dmn6XngrnlnYflgLwgLS0tIikKZm9yIHMgaW4gKCIwLjAwNCIsIjAuMDEyIiwiMC4wMzYiKToKICAgIHNjID0gclsic2lnbWFfc2NhbiJdW3NdCiAgICBwcmludCgic2lnbWE9JXMiICUgcykKICAgIHByaW50KCIgIOatpeaVsCAgIiwgc2NbImNoZWNrcG9pbnRzIl0pCiAgICBwcmludCgiICBkZWFkICAiLCBbcm91bmQoeCw0KSBmb3IgeCBpbiBzY1siZGVhZCJdXSkKICAgIHByaW50KCIgIGNvbWIgICIsIFtyb3VuZCh4LDQpIGZvciB4IGluIHNjWyJjb21iIl1dKQo=
+import json, numpy as np
+r = json.load(open("result155.json"))
+P = r["reps"]["0.004"]["P"]; P2 = P/2
+rng = np.random.default_rng(155)
+
+def slope_ci(curves, n_boot=4000):
+    """对步数做线性回归，返回斜率与 bootstrap CI"""
+    A = np.array(curves)                     # (R, L)
+    L = A.shape[1]
+    x = np.arange(1, L+1, dtype=float)
+    xc = x - x.mean()
+    def sl(M):
+        y = M.mean(axis=0)
+        return float((xc @ (y - y.mean())) / (xc @ xc))
+    bs = []
+    for _ in range(n_boot):
+        idx = rng.integers(0, A.shape[0], A.shape[0])
+        bs.append(sl(A[idx]))
+    lo, hi = np.percentile(bs, [2.5, 97.5])
+    return sl(A), float(lo), float(hi)
+
+def mean_ci(v):
+    v = np.asarray(v, float)
+    bs = [rng.choice(v, len(v), replace=True).mean() for _ in range(4000)]
+    return float(v.mean()), float(np.percentile(bs, 2.5)), float(np.percentile(bs, 97.5))
+
+print("周期 P = %.4f rad (%.1f°)，模糊半宽 = %.4f rad" % (P, np.degrees(P), P2))
+print("\n%-8s %-28s %-28s" % ("sigma", "dead 斜率/步 (95%CI)", "comb 斜率/步 (95%CI)"))
+out = {}
+for s in ("0.004", "0.012", "0.036"):
+    d = np.array(r["reps"][s]["dead_all"]); c = np.array(r["reps"][s]["comb_all"])
+    sd = slope_ci(d); sc = slope_ci(c)
+    print("%-8s %+.6f [%+.6f,%+.6f]  %+.6f [%+.6f,%+.6f]" % (s, sd[0],sd[1],sd[2], sc[0],sc[1],sc[2]))
+    # 末点差 (comb - dead)，负值=磁场更优
+    diff = c[:, -1] - d[:, -1]
+    m, lo, hi = mean_ci(diff)
+    # 解模糊失败率：误差超过半个周期即判错分支
+    fail = float((c > P2).mean())
+    dead_fail = float((d > P2).mean())
+    out[s] = {"dead_slope": sd, "comb_slope": sc,
+              "end_diff_mean": m, "end_diff_CI": [lo, hi],
+              "comb_fail_rate": fail, "dead_exceed_halfP": dead_fail,
+              "dead_end": float(d[:,-1].mean()), "comb_end": float(c[:,-1].mean())}
+    print("         末点差 comb-dead = %+.4f CI[%+.4f,%+.4f]  解模糊失败率 %.3f  积分超半周期率 %.3f"
+          % (m, lo, hi, fail, dead_fail))
+
+json.dump(out, open("analysis155.json","w"), indent=2, ensure_ascii=False)
+
+print("\n--- 逐检查点均值 ---")
+for s in ("0.004","0.012","0.036"):
+    sc = r["sigma_scan"][s]
+    print("sigma=%s" % s)
+    print("  步数  ", sc["checkpoints"])
+    print("  dead  ", [round(x,4) for x in sc["dead"]])
+    print("  comb  ", [round(x,4) for x in sc["comb"]])

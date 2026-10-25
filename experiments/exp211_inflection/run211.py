@@ -1,1 +1,172 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIxMTog5om+5ouQ54K5IOKAlOKAlCDni6znibnmgKfmnYPph40gzrIg55qE5Li055WM5YC8Cuenjee+pOS7juacgOWOn+WtkOWxgiBrPTAg6LW35q2l77yM5b6A5LiK5Y6u5p2A44CCCumAguW6lOW6piA9IOmihOa1i+WinuebiiArIM6yIMOXIOeLrOeJueaApwrmiasgzrLvvIzmib4i5aSa5qC35oCn5LuOIDAg6Lez6LW35p2lIueahOmCo+S4queCue+8jOS7peWPiumihOa1i+WKm+W8gOWni+aOieeahOmCo+S4queCueOAggoiIiIKaW1wb3J0IGpzb24sIHJhbmRvbSwgbWF0aCwgb3MsIGNvbGxlY3Rpb25zCgpLTUFYID0gNQpOQSAgID0gMTIgICAgICAgICAgIyBhZ2VudCDmlbAKR0VOUyA9IDE1ClRSQUlOID0gMzAwMDAgICAgICAjIOavjyBhZ2VudCDorq3nu4PlrZfnrKYKVEVTVCAgPSA1MDAwICAgICAgICMg5YWx5Lqr5rWL6K+V6ZuG5a2X56ymCgpkZWYgbG9hZF9jb3JwdXMoKToKICAgIHAgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCIKICAgIHQgPSBvcGVuKHAsIGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0iaWdub3JlIikucmVhZCgpCiAgICB0ID0gIiIuam9pbihjaCBmb3IgY2ggaW4gdCBpZiBvcmQoY2gpID4gMzEpCiAgICByZXR1cm4gdAoKZGVmIGJ1aWxkX21vZGVsKHRleHQsIGssIGxhbWI9MC4wNSk6CiAgICAiIiJr6Zi26ams5bCU5Y+v5aSr77yM6L+U5ZueIChjdHgtPkNvdW50ZXIsIHZvY2FiKSIiIgogICAgaWYgayA9PSAwOgogICAgICAgIGNudCA9IGNvbGxlY3Rpb25zLkNvdW50ZXIodGV4dCkKICAgICAgICBWID0gbGVuKGNudCkKICAgICAgICB0b3QgPSBzdW0oY250LnZhbHVlcygpKSArIGxhbWIgKiBWCiAgICAgICAgcmV0dXJuICh7fSwgY250LCBWLCB0b3QsIGspCiAgICBkID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoY29sbGVjdGlvbnMuQ291bnRlcikKICAgIGZvciBpIGluIHJhbmdlKGssIGxlbih0ZXh0KSk6CiAgICAgICAgZFt0ZXh0W2ktazppXV1bdGV4dFtpXV0gKz0gMQogICAgdm9jYWIgPSBjb2xsZWN0aW9ucy5Db3VudGVyKHRleHQpCiAgICBWID0gbGVuKHZvY2FiKQogICAgcmV0dXJuIChkLCB2b2NhYiwgViwgTm9uZSwgaykKCmRlZiBwcm9iKG0sIGN0eCwgY2gpOgogICAgZCwgdm9jYWIsIFYsIHRvdCwgayA9IG0KICAgIGlmIGsgPT0gMDoKICAgICAgICByZXR1cm4gKHZvY2FiW2NoXSArIDAuMDUpIC8gdG90CiAgICBjID0gZC5nZXQoY3R4KQogICAgaWYgYyBpcyBOb25lOgogICAgICAgIHJldHVybiAodm9jYWJbY2hdICsgMC4wNSkgLyAoc3VtKHZvY2FiLnZhbHVlcygpKSArIDAuMDUgKiBWKQogICAgcyA9IHN1bShjLnZhbHVlcygpKSArIDAuMDUgKiBWCiAgICByZXR1cm4gKGNbY2hdICsgMC4wNSkgLyBzCgpkZWYgZXZhbHVhdGUobSwgdGVzdCk6CiAgICAiIiLov5Tlm54gKHRvcDHmraPnoa7luIPlsJTliJfooagsIGJpdHPmgLvlkowpIiIiCiAgICBkLCB2b2NhYiwgViwgdG90LCBrID0gbQogICAgb2sgPSBbXQogICAgYml0cyA9IDAuMAogICAgbiA9IGxlbih0ZXN0KQogICAgZm9yIGkgaW4gcmFuZ2UoS01BWCwgbik6CiAgICAgICAgY3R4ID0gdGVzdFtpLWs6aV0gaWYgayA+IDAgZWxzZSAiIgogICAgICAgIGNoICA9IHRlc3RbaV0KICAgICAgICBwID0gcHJvYihtLCBjdHgsIGNoKQogICAgICAgIGJpdHMgLT0gbWF0aC5sb2cyKHApCiAgICAgICAgIyB0b3AxCiAgICAgICAgaWYgayA9PSAwOgogICAgICAgICAgICBiZXN0ID0gdm9jYWIubW9zdF9jb21tb24oMSlbMF1bMF0KICAgICAgICBlbHNlOgogICAgICAgICAgICBjID0gZC5nZXQoY3R4KQogICAgICAgICAgICBpZiBjOgogICAgICAgICAgICAgICAgYmVzdCA9IGMubW9zdF9jb21tb24oMSlbMF1bMF0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJlc3QgPSB2b2NhYi5tb3N0X2NvbW1vbigxKVswXVswXQogICAgICAgIG9rLmFwcGVuZCgxIGlmIGJlc3QgPT0gY2ggZWxzZSAwKQogICAgcmV0dXJuIG9rLCBiaXRzIC8gbWF4KDEsIGxlbihvaykpCgpkZWYgbWFpbigpOgogICAgdGV4dCA9IGxvYWRfY29ycHVzKCkKICAgIHByaW50KGYiW2NvcnB1c10ge2xlbih0ZXh0KX0gY2hhcnMsIHZvY2FiIHtsZW4oc2V0KHRleHQpKX0iKQogICAgIyDliJLliIbvvJrorq3nu4PmsaAgLyDmtYvor5Xpm4YKICAgIHNwbGl0ID0gbGVuKHRleHQpIC0gVEVTVAogICAgcG9vbCAgPSB0ZXh0WzpzcGxpdF0KICAgIHRlc3QgID0gdGV4dFtzcGxpdDpdCiAgICBwcmludChmIltzcGxpdF0gcG9vbD17bGVuKHBvb2wpfSB0ZXN0PXtsZW4odGVzdCl9IikKCiAgICByZXN1bHRzID0gW10KICAgIEJFVEFTID0gWzAuMCwgMC4wMiwgMC4wNSwgMC4wOCwgMC4xMiwgMC4xOCwgMC4yNSwgMC4zNSwgMC41LCAwLjc1LCAxLjAsIDEuNSwgMi41XQogICAgU0VFRFMgPSBbMSwgMiwgM10KCiAgICBmb3Igc2VlZCBpbiBTRUVEUzoKICAgICAgICBybmcgPSByYW5kb20uUmFuZG9tKHNlZWQpCiAgICAgICAgIyDmr4/kuKogYWdlbnQg5LiA5Liq5Zu65a6a55qEIGJvb3RzdHJhcCDmoLfmnKzvvIhydW4g5YaF5Zu65a6a77yJCiAgICAgICAgc2FtcGxlcyA9IFtdCiAgICAgICAgZm9yIGEgaW4gcmFuZ2UoTkEpOgogICAgICAgICAgICBzdGFydCA9IHJuZy5yYW5kcmFuZ2UoMCwgbWF4KDEsIGxlbihwb29sKSAtIFRSQUlOKSkKICAgICAgICAgICAgc2FtcGxlcy5hcHBlbmQocG9vbFtzdGFydDpzdGFydCArIFRSQUlOXSkKICAgICAgICAjIOmihOiuoeeulyAoYWdlbnQsIGspIC0+IG9r5ZCR6YePLCBiaXRzCiAgICAgICAgY2FjaGUgPSB7fQogICAgICAgIGZvciBhIGluIHJhbmdlKE5BKToKICAgICAgICAgICAgZm9yIGsgaW4gcmFuZ2UoS01BWCArIDEpOgogICAgICAgICAgICAgICAgbSA9IGJ1aWxkX21vZGVsKHNhbXBsZXNbYV0sIGspCiAgICAgICAgICAgICAgICBvaywgYml0cyA9IGV2YWx1YXRlKG0sIHRlc3QpCiAgICAgICAgICAgICAgICBjYWNoZVsoYSwgayldID0gKG9rLCBiaXRzKQogICAgICAgIFQgPSBsZW4oY2FjaGVbKDAsIDApXVswXSkKICAgICAgICBwcmludChmIltzZWVkIHtzZWVkfV0gY2FjaGUgZG9uZSwgVD17VH0iKQoKICAgICAgICBmb3IgYmV0YSBpbiBCRVRBUzoKICAgICAgICAgICAgcm5nMiA9IHJhbmRvbS5SYW5kb20oc2VlZCAqIDEwMDAgKyBpbnQoYmV0YSAqIDEwMCkpCiAgICAgICAgICAgICMg5Yid5aeL5YWo5ZGYIGs9MO+8iOacgOWOn+WtkOWxgu+8iQogICAgICAgICAgICBwb3AgPSBbMF0gKiBOQQogICAgICAgICAgICBoaXN0ID0gW10KICAgICAgICAgICAgZm9yIGcgaW4gcmFuZ2UoR0VOUyk6CiAgICAgICAgICAgICAgICAjIOiuoeeul+avj+S4qiBhZ2VudCDnmoTmraPnoa7kvY3nva7pm4blkIgKICAgICAgICAgICAgICAgIG9rcyA9IFtjYWNoZVsoYSwgcG9wW2FdKV1bMF0gZm9yIGEgaW4gcmFuZ2UoTkEpXQogICAgICAgICAgICAgICAgIyDni6znibnmgKcgPSDmiJHlr7nogIzlpJrmlbDkurrplJnnmoTkvY3nva7mr5TkvosKICAgICAgICAgICAgICAgIHVuaXEgPSBbXQogICAgICAgICAgICAgICAgZm9yIGEgaW4gcmFuZ2UoTkEpOgogICAgICAgICAgICAgICAgICAgIGNudCA9IDAKICAgICAgICAgICAgICAgICAgICBvdGhlcnMgPSAwCiAgICAgICAgICAgICAgICAgICAgZm9yIHQgaW4gcmFuZ2UoVCk6CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIG9rc1thXVt0XToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG90aGVycyArPSAxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBub2sgPSBzdW0oMSBmb3IgYiBpbiByYW5nZShOQSkgaWYgYiAhPSBhIGFuZCBva3NbYl1bdF0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBub2sgPT0gMDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbnQgKz0gMQogICAgICAgICAgICAgICAgICAgIHVuaXEuYXBwZW5kKGNudCAvIG1heCgxLCBvdGhlcnMpKQogICAgICAgICAgICAgICAgZml0ID0gW10KICAgICAgICAgICAgICAgIGZvciBhIGluIHJhbmdlKE5BKToKICAgICAgICAgICAgICAgICAgICBhY2MgPSBzdW0ob2tzW2FdKSAvIFQKICAgICAgICAgICAgICAgICAgICBmaXQuYXBwZW5kKGFjYyArIGJldGEgKiB1bmlxW2FdKQogICAgICAgICAgICAgICAgaGlzdC5hcHBlbmQoeyJnZW4iOiBnLCAicG9wIjogbGlzdChwb3ApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhY2MiOiByb3VuZChzdW0oc3VtKG8pIGZvciBvIGluIG9rcykgLyAoTkEgKiBUKSwgNSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInVuaXEiOiByb3VuZChzdW0odW5pcSkgLyBOQSwgNSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImZpdCI6IHJvdW5kKHN1bShmaXQpIC8gTkEsIDUpfSkKICAgICAgICAgICAgICAgICMg6L2u55uY6LWM5aSN5Yi2ICsg56qB5Y+YCiAgICAgICAgICAgICAgICBtbiA9IG1pbihmaXQpCiAgICAgICAgICAgICAgICB3ID0gW2YgLSBtbiArIDFlLTYgZm9yIGYgaW4gZml0XQogICAgICAgICAgICAgICAgcyA9IHN1bSh3KQogICAgICAgICAgICAgICAgbmV3cG9wID0gW10KICAgICAgICAgICAgICAgIGZvciBfIGluIHJhbmdlKE5BKToKICAgICAgICAgICAgICAgICAgICByID0gcm5nMi5yYW5kb20oKSAqIHMKICAgICAgICAgICAgICAgICAgICBhY2NfdyA9IDAKICAgICAgICAgICAgICAgICAgICBwaWNrID0gMAogICAgICAgICAgICAgICAgICAgIGZvciBpLCB3aSBpbiBlbnVtZXJhdGUodyk6CiAgICAgICAgICAgICAgICAgICAgICAgIGFjY193ICs9IHdpCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGFjY193ID49IHI6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwaWNrID0gaQogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgICAgICBrID0gcG9wW3BpY2tdCiAgICAgICAgICAgICAgICAgICAgaWYgcm5nMi5yYW5kb20oKSA8IDAuMjU6CiAgICAgICAgICAgICAgICAgICAgICAgIGsgPSBtYXgoMCwgbWluKEtNQVgsIGsgKyAoMSBpZiBybmcyLnJhbmRvbSgpIDwgMC41IGVsc2UgLTEpKSkKICAgICAgICAgICAgICAgICAgICBuZXdwb3AuYXBwZW5kKGspCiAgICAgICAgICAgICAgICBwb3AgPSBuZXdwb3AKICAgICAgICAgICAgIyDnu4jku6Pnu5/orqEKICAgICAgICAgICAgY250ID0gY29sbGVjdGlvbnMuQ291bnRlcihwb3ApCiAgICAgICAgICAgIEggPSAtc3VtKCh2IC8gTkEpICogbWF0aC5sb2cyKHYgLyBOQSkgZm9yIHYgaW4gY250LnZhbHVlcygpKQogICAgICAgICAgICBva3MgPSBbY2FjaGVbKGEsIHBvcFthXSldWzBdIGZvciBhIGluIHJhbmdlKE5BKV0KICAgICAgICAgICAgYWNjID0gc3VtKHN1bShvKSBmb3IgbyBpbiBva3MpIC8gKE5BICogVCkKICAgICAgICAgICAgYml0cyA9IHN1bShjYWNoZVsoYSwgcG9wW2FdKV1bMV0gZm9yIGEgaW4gcmFuZ2UoTkEpKSAvIE5BCiAgICAgICAgICAgIHJlc3VsdHMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICJzZWVkIjogc2VlZCwgImJldGEiOiBiZXRhLAogICAgICAgICAgICAgICAgImZpbmFsX3BvcCI6IGxpc3QocG9wKSwKICAgICAgICAgICAgICAgICJrX2hpc3QiOiBkaWN0KGNudCksCiAgICAgICAgICAgICAgICAiZW50cm9weSI6IHJvdW5kKEgsIDQpLAogICAgICAgICAgICAgICAgIm5fbGF5ZXJzIjogbGVuKGNudCksCiAgICAgICAgICAgICAgICAiYWNjIjogcm91bmQoYWNjLCA1KSwKICAgICAgICAgICAgICAgICJiaXRzIjogcm91bmQoYml0cywgNSksCiAgICAgICAgICAgICAgICAia19tYXhfcmVhY2hlZCI6IG1heChwb3ApLAogICAgICAgICAgICAgICAgImhpc3QiOiBoaXN0LAogICAgICAgICAgICB9KQogICAgICAgICAgICBwcmludChmIiAgc2VlZD17c2VlZH0gYmV0YT17YmV0YTo8NX0gZW50PXtIOi4zZn0gbGF5ZXJzPXtsZW4oY250KX0gIgogICAgICAgICAgICAgICAgICBmImFjYz17YWNjOi40Zn0gYml0cz17Yml0czouNGZ9IHBvcD17c29ydGVkKHBvcCl9IikKCiAgICBvdXQgPSB7IktNQVgiOiBLTUFYLCAiTkEiOiBOQSwgIkdFTlMiOiBHRU5TLCAiVFJBSU4iOiBUUkFJTiwgIlRFU1QiOiBURVNULAogICAgICAgICAgICJCRVRBUyI6IEJFVEFTLCAiU0VFRFMiOiBTRUVEUywgInJlc3VsdHMiOiByZXN1bHRzfQogICAganNvbi5kdW1wKG91dCwgb3BlbigicmVzdWx0MjExLmpzb24iLCAidyIpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQogICAgcHJpbnQoInNhdmVkIHJlc3VsdDIxMS5qc29uIikKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+# -*- coding: utf-8 -*-
+"""
+211: 找拐点 —— 独特性权重 β 的临界值
+种群从最原子层 k=0 起步，往上厮杀。
+适应度 = 预测增益 + β × 独特性
+扫 β，找"多样性从 0 跳起来"的那个点，以及预测力开始掉的那个点。
+"""
+import json, random, math, os, collections
+
+KMAX = 5
+NA   = 12          # agent 数
+GENS = 15
+TRAIN = 30000      # 每 agent 训练字符
+TEST  = 5000       # 共享测试集字符
+
+def load_corpus():
+    p = "/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md"
+    t = open(p, encoding="utf-8", errors="ignore").read()
+    t = "".join(ch for ch in t if ord(ch) > 31)
+    return t
+
+def build_model(text, k, lamb=0.05):
+    """k阶马尔可夫，返回 (ctx->Counter, vocab)"""
+    if k == 0:
+        cnt = collections.Counter(text)
+        V = len(cnt)
+        tot = sum(cnt.values()) + lamb * V
+        return ({}, cnt, V, tot, k)
+    d = collections.defaultdict(collections.Counter)
+    for i in range(k, len(text)):
+        d[text[i-k:i]][text[i]] += 1
+    vocab = collections.Counter(text)
+    V = len(vocab)
+    return (d, vocab, V, None, k)
+
+def prob(m, ctx, ch):
+    d, vocab, V, tot, k = m
+    if k == 0:
+        return (vocab[ch] + 0.05) / tot
+    c = d.get(ctx)
+    if c is None:
+        return (vocab[ch] + 0.05) / (sum(vocab.values()) + 0.05 * V)
+    s = sum(c.values()) + 0.05 * V
+    return (c[ch] + 0.05) / s
+
+def evaluate(m, test):
+    """返回 (top1正确布尔列表, bits总和)"""
+    d, vocab, V, tot, k = m
+    ok = []
+    bits = 0.0
+    n = len(test)
+    for i in range(KMAX, n):
+        ctx = test[i-k:i] if k > 0 else ""
+        ch  = test[i]
+        p = prob(m, ctx, ch)
+        bits -= math.log2(p)
+        # top1
+        if k == 0:
+            best = vocab.most_common(1)[0][0]
+        else:
+            c = d.get(ctx)
+            if c:
+                best = c.most_common(1)[0][0]
+            else:
+                best = vocab.most_common(1)[0][0]
+        ok.append(1 if best == ch else 0)
+    return ok, bits / max(1, len(ok))
+
+def main():
+    text = load_corpus()
+    print(f"[corpus] {len(text)} chars, vocab {len(set(text))}")
+    # 划分：训练池 / 测试集
+    split = len(text) - TEST
+    pool  = text[:split]
+    test  = text[split:]
+    print(f"[split] pool={len(pool)} test={len(test)}")
+
+    results = []
+    BETAS = [0.0, 0.02, 0.05, 0.08, 0.12, 0.18, 0.25, 0.35, 0.5, 0.75, 1.0, 1.5, 2.5]
+    SEEDS = [1, 2, 3]
+
+    for seed in SEEDS:
+        rng = random.Random(seed)
+        # 每个 agent 一个固定的 bootstrap 样本（run 内固定）
+        samples = []
+        for a in range(NA):
+            start = rng.randrange(0, max(1, len(pool) - TRAIN))
+            samples.append(pool[start:start + TRAIN])
+        # 预计算 (agent, k) -> ok向量, bits
+        cache = {}
+        for a in range(NA):
+            for k in range(KMAX + 1):
+                m = build_model(samples[a], k)
+                ok, bits = evaluate(m, test)
+                cache[(a, k)] = (ok, bits)
+        T = len(cache[(0, 0)][0])
+        print(f"[seed {seed}] cache done, T={T}")
+
+        for beta in BETAS:
+            rng2 = random.Random(seed * 1000 + int(beta * 100))
+            # 初始全员 k=0（最原子层）
+            pop = [0] * NA
+            hist = []
+            for g in range(GENS):
+                # 计算每个 agent 的正确位置集合
+                oks = [cache[(a, pop[a])][0] for a in range(NA)]
+                # 独特性 = 我对而多数人错的位置比例
+                uniq = []
+                for a in range(NA):
+                    cnt = 0
+                    others = 0
+                    for t in range(T):
+                        if oks[a][t]:
+                            others += 1
+                            nok = sum(1 for b in range(NA) if b != a and oks[b][t])
+                            if nok == 0:
+                                cnt += 1
+                    uniq.append(cnt / max(1, others))
+                fit = []
+                for a in range(NA):
+                    acc = sum(oks[a]) / T
+                    fit.append(acc + beta * uniq[a])
+                hist.append({"gen": g, "pop": list(pop),
+                             "acc": round(sum(sum(o) for o in oks) / (NA * T), 5),
+                             "uniq": round(sum(uniq) / NA, 5),
+                             "fit": round(sum(fit) / NA, 5)})
+                # 轮盘赌复制 + 突变
+                mn = min(fit)
+                w = [f - mn + 1e-6 for f in fit]
+                s = sum(w)
+                newpop = []
+                for _ in range(NA):
+                    r = rng2.random() * s
+                    acc_w = 0
+                    pick = 0
+                    for i, wi in enumerate(w):
+                        acc_w += wi
+                        if acc_w >= r:
+                            pick = i
+                            break
+                    k = pop[pick]
+                    if rng2.random() < 0.25:
+                        k = max(0, min(KMAX, k + (1 if rng2.random() < 0.5 else -1)))
+                    newpop.append(k)
+                pop = newpop
+            # 终代统计
+            cnt = collections.Counter(pop)
+            H = -sum((v / NA) * math.log2(v / NA) for v in cnt.values())
+            oks = [cache[(a, pop[a])][0] for a in range(NA)]
+            acc = sum(sum(o) for o in oks) / (NA * T)
+            bits = sum(cache[(a, pop[a])][1] for a in range(NA)) / NA
+            results.append({
+                "seed": seed, "beta": beta,
+                "final_pop": list(pop),
+                "k_hist": dict(cnt),
+                "entropy": round(H, 4),
+                "n_layers": len(cnt),
+                "acc": round(acc, 5),
+                "bits": round(bits, 5),
+                "k_max_reached": max(pop),
+                "hist": hist,
+            })
+            print(f"  seed={seed} beta={beta:<5} ent={H:.3f} layers={len(cnt)} "
+                  f"acc={acc:.4f} bits={bits:.4f} pop={sorted(pop)}")
+
+    out = {"KMAX": KMAX, "NA": NA, "GENS": GENS, "TRAIN": TRAIN, "TEST": TEST,
+           "BETAS": BETAS, "SEEDS": SEEDS, "results": results}
+    json.dump(out, open("result211.json", "w"), ensure_ascii=False, indent=1)
+    print("saved result211.json")
+
+if __name__ == "__main__":
+    main()

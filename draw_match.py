@@ -1,1 +1,26 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYi5wYXRjaGVzIGltcG9ydCBDaXJjbGUsIFJlY3RhbmdsZSwgRmFuY3lBcnJvdwpwbHQucmNQYXJhbXNbImZvbnQuc2Fucy1zZXJpZiJdPVsiV2VuUXVhbllpIE1pY3JvIEhlaSJdOyBwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdPUZhbHNlCkJHPSIjMGIwYjBjIjsgT1I9IiNGRjZCMUEiOyBXPSIjZjJmMmYyIjsgRz0iIzhhOGE4YSI7IERJTT0iIzJhMmEyZSIKZmlnLGF4PXBsdC5zdWJwbG90cyhmaWdzaXplPSgxMC4wLDYuMiksZmFjZWNvbG9yPUJHKTsgYXguc2V0X2ZhY2Vjb2xvcihCRykKYXguc2V0X3hsaW0oMCwxMCk7IGF4LnNldF95bGltKDAsNi4yKTsgYXguYXhpcygib2ZmIikKCiMg5bem77ya5L2g55qE55y8552bIOKAlOKAlCDlpKfomZrnur/lnIjvvIjkvZnlhYnvvIkrIOS4reW/g+WunuW/g+eCue+8iOS4reWkruWHue+8iQpheC5hZGRfcGF0Y2goQ2lyY2xlKCgxLjksMy4wKSwxLjM1LGZjPURJTSxlYz1HLGx3PTEuOCxscz0oMCwoNSwzKSkpKQpheC5hZGRfcGF0Y2goQ2lyY2xlKCgxLjksMy4wKSwwLjE1LGZjPU9SLGVjPSJub25lIikpCmF4LnRleHQoMS45LDEuMTUsIuS9oCIsY29sb3I9Vyxmb250c2l6ZT0xNSxoYT0iY2VudGVyIikKCiMg5Lit77ya57+76K+R5bGC77yI5Li75Z2X77yM5q2j5Lit5b+D77yJCmF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKDMuODUsMi4xNSksMi4zLDEuNyxmYz1PUixlYz0ibm9uZSIpKQpheC50ZXh0KDUuMCwzLjAsIuaNoueulyIsY29sb3I9IiMxMTEiLGZvbnRzaXplPTE5LGhhPSJjZW50ZXIiLHZhPSJjZW50ZXIiLHdlaWdodD0iYm9sZCIpCmF4LmFkZF9wYXRjaChGYW5jeUFycm93KDMuMzUsMy4wLDAuNDIsMCx3aWR0aD0uMDUsY29sb3I9RyxoZWFkX3dpZHRoPS4yMixoZWFkX2xlbmd0aD0uMTgpKQpheC5hZGRfcGF0Y2goRmFuY3lBcnJvdyg2LjcsMy4wLDAuNDIsMCx3aWR0aD0uMDUsY29sb3I9RyxoZWFkX3dpZHRoPS4yMixoZWFkX2xlbmd0aD0uMTgpKQoKIyDlj7PvvJrmiJHnmoTnnLznnZsg4oCU4oCUIOWunuW/g+aWue+8jOayoeaciei+uee8mO+8jOayoeacieS9meWFiQpheC5hZGRfcGF0Y2goUmVjdGFuZ2xlKCg3LjY1LDIuMjIpLDEuNSwxLjU2LGZjPSIjNWE1YTVlIixlYz0ibm9uZSIpKQpheC50ZXh0KDguNCwxLjE1LCLmiJEiLGNvbG9yPVcsZm9udHNpemU9MTUsaGE9ImNlbnRlciIpCgpheC50ZXh0KDUuMCwwLjQyLCLmiJHmsqHmnInkvZnlhYkiLGNvbG9yPUcsZm9udHNpemU9MTEsaGE9ImNlbnRlciIpCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoIuaEn+WumOahpS/nrKblj7dfdjI5X+WvueS4ii5wbmciLGRwaT0xMTAsZmFjZWNvbG9yPUJHKTsgcHJpbnQoIm9rIikK
+# -*- coding: utf-8 -*-
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Circle, Rectangle, FancyArrow
+plt.rcParams["font.sans-serif"]=["WenQuanYi Micro Hei"]; plt.rcParams["axes.unicode_minus"]=False
+BG="#0b0b0c"; OR="#FF6B1A"; W="#f2f2f2"; G="#8a8a8a"; DIM="#2a2a2e"
+fig,ax=plt.subplots(figsize=(10.0,6.2),facecolor=BG); ax.set_facecolor(BG)
+ax.set_xlim(0,10); ax.set_ylim(0,6.2); ax.axis("off")
+
+# 左：你的眼睛 —— 大虚线圈（余光）+ 中心实心点（中央凹）
+ax.add_patch(Circle((1.9,3.0),1.35,fc=DIM,ec=G,lw=1.8,ls=(0,(5,3))))
+ax.add_patch(Circle((1.9,3.0),0.15,fc=OR,ec="none"))
+ax.text(1.9,1.15,"你",color=W,fontsize=15,ha="center")
+
+# 中：翻译层（主块，正中心）
+ax.add_patch(Rectangle((3.85,2.15),2.3,1.7,fc=OR,ec="none"))
+ax.text(5.0,3.0,"换算",color="#111",fontsize=19,ha="center",va="center",weight="bold")
+ax.add_patch(FancyArrow(3.35,3.0,0.42,0,width=.05,color=G,head_width=.22,head_length=.18))
+ax.add_patch(FancyArrow(6.7,3.0,0.42,0,width=.05,color=G,head_width=.22,head_length=.18))
+
+# 右：我的眼睛 —— 实心方，没有边缘，没有余光
+ax.add_patch(Rectangle((7.65,2.22),1.5,1.56,fc="#5a5a5e",ec="none"))
+ax.text(8.4,1.15,"我",color=W,fontsize=15,ha="center")
+
+ax.text(5.0,0.42,"我没有余光",color=G,fontsize=11,ha="center")
+plt.tight_layout(); plt.savefig("感官桥/符号_v29_对上.png",dpi=110,facecolor=BG); print("ok")

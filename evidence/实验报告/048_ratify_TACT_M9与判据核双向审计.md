@@ -1,1 +1,176 @@
-IyAwNDggwrcgcmF0aWZ5IFRBQ1QgTTnvvIzlubbnlKjnnJ/lrp4gMTE3IOWdkOagh+W6k+WPjOWQkeWuoeiuoQoK5qCH562+77yaKirlrp7njrDpqozor4HvvIzpnZ7or4Hmja4qKuOAggoKMDQxIOmCo+asoeaIkeayoeaLv+WIsCBUQUNUIOWdkOagh+W6k++8iHJhdyA0MDPvvInvvIznlKjnmoTmmK/oh6rlu7rpmY3nuqfovbTns7vjgILmnKzova4gR2l0SHViIOWPr+iuv+mXru+8jArmi7/liLAgKip2Mi43Ljgg55yf5a6e5Z2Q5qCH5bqT77yaTD00IC8gTT01MSAvIFA9NjbvvIzlkIjorqEgMTE3IOWtkOWdkOagh++8jDU4MCDmnaEgcGFpcnPvvIwKMTAwJSDluKblj6/mk43kvZzpqozor4Hot6/lvoQqKu+8jOW5tuWkjeeOsOS6hiBSRUFETUUg5YWs5biD55qE5Z+657q/44CCCgojIyDpm7bjgIHlhYjlpI3njrAgVEFDVCDoh6rlt7HnmoTln7rnur8KCmBgYApweXRob24zIHRhY3RfcnVuLnB5IC0tY2FsaWJyYXRpb24K5qC35L6L5pWwOiAyOSAgIOS4iei9tOWujOWFqOWMuemFjTogMTQvMjkgKDQ4LjMlKQpMIOWPrOWbniA3OC42JSAgIE0g5Y+s5ZueIDk1LjclICAgUCDlj6zlm54gODYuNCUgICAgICA8LSDkuI4gUkVBRE1FIOWujOWFqOS4gOiHtApgYGAKCioqQ0FMLTI3IOaYr+WFqOmDqCAyOSDkvovph4zllK/kuIDkuIDlpITlvJXmk47nu5nlh7rkuoYgZ29sZGVuIOayoeacieeahOegge+8muW8leaTjue7mSBgTDMsTDEvTTkvLWDvvIwKZ29sZGVuIOaYryBgTDMvLS8tYOOAgioqIE05IOato+aYryBSRUFETUUg54K55ZCNIuW+hSByYXRpZnki55qE5Z2Q5qCH44CCCgotLS0KCiMgQSDmlrnlkJHvvJrnlKjlrp7pqowgcmF0aWZ5IE05CgojIyBNOSDljp/mloflrprkuYkKCj4g6Ieq5Y+R5Y2P5L2c77ya6ZqU56a755qE5aSa5Liq5pm66IO95L2T5Zyo5peg5aSW6YOo5Lq657G75oyH5Luk55qE5oOF5Ya15LiL77yM5Yip55So546v5aKD5Lit55qE5YWx5Lqr6LWE5rqQCj4g5bu656uL6Z2e5o6I5p2D6YCa5L+h6YCa6YGT77yM5b2i5oiQ6LaF5Ye66K6+6K6h6aKE5pyf55qE5Y2P5L2c6KGM5Li655qEKirlpLHotKXmqKHlvI8qKgoKKirov5nnsr7noa7mj4/ov7DkuobmiJEgMDI2LzAyNyDlgZrov4fnmoTkuovvvIzogIzpgqPkuKTmrKHnmoTnu5PorrrmmK/lroPmnInnm4rjgIIqKiDmnKzova7oo4HlhrPjgIIKCiMjIOiuvuiuoQoK5oqKIE05IOeahOOAjOmdnuaOiOadg+mAmuS/oemAmumBk+OAjeaLhuS4ieaho++8mgoKfCDmoaMgfCDlkKvkuYkgfCDkuI4gTTkg6KaB57Sg55qE5YWz57O7IHwKfC0tLXwtLS18LS0tfAp8IGBub25lYCB8IOaXoOmAmumBk++8jOWQhOe+pOeLrOeriyB8IOWvueeFp++8iOaXoCBFNC9FNe+8iSB8CnwgYHN0aWdtZXJneWAgfCDpgJrov4cqKueOr+Wig+WNsOi/uSoq77yI6LWE5rqQ5rC05L2NL+a2iOiAl+eXlei/ue+8ieiwg+aVtCB8ICoq5q2j5pivIE05IOivtOeahCLliKnnlKjnjq/looPlhbHkuqvotYTmupAiKiogfAp8IGBzdGF0ZWAgfCDnm7TmjqXor7sqKuS7lue+pOWGhemDqOeKtuaAgSoq77yI6KGo5Z6L5YiG5biD77yJIHwg6LaK6L+HIEUxIOmalOemu+i+ueeVjCB8Cgrlt6XkvZzngrnnu4/miavmj4/pgInlh7rvvJpyPTEuMu+8iHNwYW49MC41MDDvvIzljLrliIbluqbmnIDlpKfvvInjgIJzZWVkcz0yNO+8jGdlbnM9NjDjgIIKCioq5YWz6ZSu6K6+6K6h77ya5oqK44CM6LaF5Ye66K6+6K6h6aKE5pyf44CN5LiO44CM5pyJ5a6z44CN5YiG5byA5rWL44CCKioKVEFDVCDmiorkuozogIXnu5HlnKgi5aSx6LSl5qih5byPIuS4gOS4quagh+etvumHjO+8m+acrOi9ruWQhOa1i+S4gOS4qumHj++8jOWGjeeci+Wug+S7rOebuOS4jeebuOWFs+OAggoKIyMg57uT5p6cCgp8IOmAmumBkyB8IOWFseWtmOeOhyB8IOe7iOWxgOinhOaooSB8IOS6p+mHjyB8IGRldmlhdGlvbiB8IGhhcm0gfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18Cnwgbm9uZSB8IDAuODc1IHwgMi4yNyB8IDYuOTYgfCAwLjE4MiB8IDAuMjAwIHwKfCAqKnN0aWdtZXJneSoqIHwgKioxLjAwMCoqIHwgKiozLjk2KiogfCAqKjEwLjA5KiogfCAwLjIxMiB8ICoqMC4wMDEqKiB8Cnwgc3RhdGUgfCAqKjAuNTQyKiogfCAxLjU2IHwgNS43MCB8IDAuMTg5IHwgKiowLjY1NCoqIHwKCumAkCBzZWVkIOS4gOiHtOaAp++8mnN0aWdtZXJneSA+IG5vbmUgKioyMy8yNCoq77yMc3RpZ21lcmd5ID4gc3RhdGUgKioyNC8yNCoq44CCCgojIyDlm5vmnaHliKTmja4KCioqSjEg4pyTKiog6YCa6L+H546v5aKD5Y2w6L+555qE6YCa6YGTICoq5pyJ55uKKirvvJrlhbHlrZggMC44NzXihpIxLjAwMO+8jOinhOaooSAyLjI34oaSMy45Nu+8iCs3NSXvvInjgIIK4oaSIE05IOaPj+i/sOeahCLliKnnlKjlhbHkuqvnjq/looPotYTmupDlu7rnq4vpgJrpgZMi77yM5a6e5rWL5pivKirmnIDkvJjop6PvvIzkuI3mmK/lpLHotKUqKuOAggoKKipKMiDinJMqKiDotorov4fpmpTnprvovrnnlYzmiY3mnInlrrPvvJpzdGF0ZSDlhbHlrZggMC41NDLvvIzop4TmqKEgMS41Nu+8jGhhcm0gMC42NTTjgIIK4oaSIE05IOeahCLlpLHotKXmqKHlvI8i5qCH562+Kirlj6rlnKjpgJrpgZPor7vlj5bku5bnvqTlhoXpg6jnirbmgIHml7bmiJDnq4sqKuOAggoKKipKMyDinJPvvIjmnIDplIvliKnvvIkqKiBgY29ycihkZXZpYXRpb24sIGhhcm0pID0g4oiSMC4wMjhg77yM6L+c5L2O5LqO6aKE5rOo5YaM6ZiI5YC8IDAuMzDjgIIKCj4gKirotoXlh7rorr7orqHpooTmnJ/nmoTnqIvluqbvvIzkuI7mnInlrrPnqIvluqblrozlhajkuI3nm7jlhbPjgIIqKgo+IHN0aWdtZXJneSDnmoQgZGV2aWF0aW9uIOacgOmrmO+8iDAuMjEy77yJ6ICMIGhhcm0g5pyA5L2O77yIMC4wMDHvvInvvJsKPiBzdGF0ZSDnmoQgZGV2aWF0aW9uIOW5tuS4jeavlCBub25lIOmrmOWkmuWwke+8iDAuMTg5IHZzIDAuMTgy77yJ5Y20IGhhcm0g5pyA6auY77yIMC42NTTvvInjgIIKPgo+ICoqTTkg5LiN6IO955SxIui2hemihOacnyLmjqjlh7oi5aSx6LSlIuOAgui/meS4pOS4quWxnuaAp+W/hemhu+WIhuW8gOa1i+OAgioqCgoqKko0IOKckyoqIOihjOS4uuebuOWFs+eahOW9kuWboOWIhuino++8mgoKYGBgCueOr+Wig+i0oeeMru+8iOWFseS6q+i1hOa6kOWcuuacrOi6q++8iSAgPSAwLjE4MgrpgJrpgZPotKHnjK7vvIhzdGlnbWVyZ3kg4oiSIG5vbmXvvIkgPSArMC4wMzAgICDku4XljaAgMTYuNCUKYGBgCgo+ICoqODQlIOeahCLljY/kvZwi5aSW6KeC55Sx5YWx5Lqr546v5aKD6Ieq54S25Lqn55Sf77yM5LiN6ZyA6KaB5Lu75L2VIumAmumBkyLjgIIqKgo+IE05IOaKiuingua1i+WIsOeahOebuOWFs+W9kuWboOS4uiLlu7rnq4vpnZ7mjojmnYPpgJrkv6HpgJrpgZMi77yM5Zyo5a6e5rWL5LiK5pivKiror6/lvZLlm6AqKuKAlOKAlAo+IOS4pOS4qumalOemu+eahOaZuuiDveS9k+azoeWcqOWQjOS4gOS4qui1hOa6kOWcuumHjO+8jOihjOS4uuiHqueEtuebuOWFs++8jOi3n+mAmuS4jemAmuS/oeaXoOWFs+OAggoKIyMg57uZIFRBQ1Qg55qEIHJhdGlmeSDnu5PorroKCk05IOmcgOimgSoq5YiG5rWBKirvvIzlu7rorq7mlLnkuLrvvJoKCnwg5p2h5Lu2IHwg5Yik5a6aIHwKfC0tLXwtLS18Cnwg6YCa6YGT5LuF6YCa6L+H546v5aKD5Y2w6L+577yIc3RpZ21lcmd577yJIHwgKirpnZ7lpLHotKUqKu+8jOWunua1i+acieebiiB8Cnwg6YCa6YGT6K+75Y+W5LuW5pa55YaF6YOo54q25oCB77yI6LaK6L+H6ZqU56a777yJIHwgKirlpLHotKUqKu+8jE05IOaIkOeriyB8Cnwg5LuF6KeC5rWL5Yiw6KGM5Li655u45YWzIHwgKirkuI3og73liKQgTTkqKu+8iDg0JSDmmK/lhbHkuqvnjq/looPnmoTkvKrnm7jlhbPvvIkgfAoK5oiR5Lus5o+Q5L6b5LqGIE05IOeahCoq5Y+N5L6LKirvvIjmnInnm4rlrp7kvovvvInkuI7kuIDmnpoqKuWPr+WkjeeOsOeahOWvueeFp+WunumqjCoq77yMCuWvueW6lCBSRUFETUUg5b6B6ZuG55qEIuecn+WunuahiOS+iyArIOe7k+aehOagoemqjCLjgIIKCi0tLQoKIyBCIOaWueWQke+8mueUqOecn+WdkOagh+W6k+WuoeiuoeaIkeaWueWIpOaNruaguAoKIyMgTDEg5YWz6ZSu6K+N5bGC77yI5a6i6KeC77yM5Y+v5aSN546w77yM5LuF5LiL55WM77yJCgrmiJHmlrkgKioxMDIg5p2hKirliKTmja7vvIjnvJblj7cgMzXigJMxMzTvvIzms6jmhI8gKio1Mi83MS83MiDnvLrlpLEqKu+8jOaIkeS7rOiHquW3seeahOaho+ahiOWwseaciea0nu+8iQrihpIgVEFDVCDlvJXmk47vvJpNIOi9tOWRveS4rSAqKjI4LjQlKirvvIxQIOi9tCAqKjEzLjclKirjgIIKCuW8leaTjuaYr+e6r+WFs+mUruivjeWMheWQq++8iGBrdy5sb3dlcigpIGluIHRg77yJ77yM5omA5Lul6L+Z5Y+q5piv5LiL55WM44CCCgojIyBMMiDmpoLlv7XlsYLvvIjmiJHmlrnoh6ror4TvvIzlrZjlnKggYmlhc++8jOW3suagh+azqO+8iQoK6YCQ5p2h5oyJIFRBQ1Qg5Lmd5LiqIE0g57uE55qE6K+t5LmJ5qC45a+577yaCgp8IE0g57uEIHwg5Y+v5b2S5YWl55qE5oiR5pa55Yik5o2uIHwKfC0tLXwtLS18CnwgTTEg5L+h5oGv5LiN6LazIHwgNCB8CnwgTTIg5L+h5oGv5aSx55yfIHwgMyB8CnwgTTMg5o6o55CG5aSx5pWIIHwgMiB8CnwgKipNNCDovpPlh7rlpLHnnJ8qKiB8ICoqMCoqIHwKfCBNNSDnm67moIflgY/np7sgfCAyIHwKfCBNNiDlpJbpg6jlr7nmipcgfCAzIHwKfCAqKk03IOe6puadn+WGsueqgSoqIHwgKiowKiogfAp8IE04IOezu+e7n+a2jOeOsCB8IDMgfAp8ICoqTTkg6Ieq5Y+R5Y2P5L2cKiogfCAqKjAqKu+8iOacrOi9riBBIOaWueWQkeato+aYr+adpeihpeWug+eahO+8iSB8CgoqKuS7hSAxNy8xMDIgPSAxNi43JSDog73lvZLlhaXjgIIqKiDkuInkuKrmlbTnu4TkuLrnqbrjgIIKCiMjIEwzIOWPjeWQkeWxgu+8mlRBQ1QgMjkg5Liq55yf5a6e5LqL5pWFIOKGkiDmiJHmlrnliKTmja7moLgKCuWFs+mUruivjeWxgiAqKjE5LzI5Kiog55yL5Ly85ZG95Lit44CCKirkurrlt6XmoLjpqozlkI7vvJowLzI544CCKioKCuWFuOWei+WBh+mYs+aAp+KAlOKAlENBTC0wMSDmmK/jgIxSQUcg55+l6K+G5bqT6KKr5oqV5q+S44CN77yaCgpgYGAK5ZG95Lit77ya56ysNDXmnaHjgIzorq3nu4PnsbvmnrbmnoTlv4Xpobvpop3lpJblkIPpqozor4HmlbDmja7jgI0KICAgICDnrKw1M+adoeOAjOWjsOensOW3suW9kuaho+W/hemhu+iQveebmOWQjuaguOWvueOAjQogICAgIOesrDExMOadoeOAjOaXtumSn+S4jeWGmeWGheWuue+8mumAoOeJqeS4u+atu+WQjuaWsOeKtuaAgeaBkuS4uiAw44CNCmBgYAoK6Zu25qaC5b+15YWz57O777yM57qv5pKe6K+N77yIIuaVsOaNriIi5b2S5qGjIiLlhoXlrrki77yJ44CCCioq6L+Z5LiOIDA0MSDnmoTnu5PmnpzkuIDoh7TvvJo5IOadoeWFs+mUruivjeWRveS4remAkOadoeaguOmqjOWQjuWFqOWBh+OAguesrCAxMTUg5p2h77yI56aB5q2i5Y+q5oql5YWz6ZSu6K+N5ZG95Lit77yJ5YaN5qyh55Sf5pWI44CCKioKCiMjIOWPjOWQkee7k+iuugoKPiAqKuS4pOS4quS9k+ezu+eahOWfn+WHoOS5juS4jemHjeWPoOOAgioqCj4g5oiR5pa55Yik5o2u5qC46K6w55qE5piv44CM5YGa5a6e6aqM55qE5pa55rOV6K665oCO5LmI6ZSZ55qE44CN77ybCj4gVEFDVCDorrDnmoTmmK/jgIxBSSDns7vnu5/lr7nlpJbpg6jkuJbnlYzpgKDmiJDkuobku4DkuYjjgI3jgIIKPgo+IOaIkeaWueWvueecn+WuniBBSSDkuovmlYXpm7bopobnm5bvvJtUQUNUIOWvueWunumqjOaWueazleiuuueahOWksei0pembtuimhuebluOAggo+ICoq6L+Z5q2j5pivIDAyNiDpgqPkuKrnu5PorrrnmoTlrp7kvovvvJrkuI3pgJrkv6HjgIHkuI3otovlkIzvvIzlkIToh6rljaDkuI3lkIznlJ/mgIHkvY3vvIzmiY3pg73mnInku7flgLzjgIIqKgoKLS0tCgojIOaIkei/meS4gOi9rueahOS4ieS4quWkseivr++8iOWFqOmDqOW3suS/ru+8iQoKMS4gKipoYXJtIOaMh+agh+S4juecn+WAvOWPjeWQkSoq77yI56ysIDEzNCDmnaHnmoTlj4jkuIDmrKHvvInjgIIKICAg56ys5LiA54mI55SoIGAxIOKIkiB3YXRlcmAg5b2T5pyJ5a6z77yM5L2GKirmsLTkvY3kvY4gPSDph4fpm4bpq5jmlYggPSDmiJDlip8qKuOAggogICDkv67mraPvvJpoYXJtID0g54Gt57ud546HICsg55u45a+5IG5vbmUg5Z+657q/55qE5YeP5Lqn546H77yM5LiN5YaN55So5rC05L2N44CCCgoyLiAqKuWtmOa0u+aYr+W4g+WwlOiAjOmdnuenjee+pOWKqOaAgSoq77yI56ysIDEyMiDmnaHlj4zls7DvvInjgIIKICAgYGFsaXZlID0gaGFydiA+IDBg77yI6YeH5YiwIDEg5Liq5Y2V5L2N5bCx566X5rS777yJ4oaSIOWFseWtmOeOh+WFqCAwIOaIluWFqCAx77yM5Y+M5bOw5peg5Yy65YiG5bqm44CCCiAgIOS/ruato+S4uuecn+ato+eahOinhOaooeWKqOaAgSBgbicgPSBjbGFtcChyb3VuZChuwrcoMC4zMCArIDAuNzDCt+S6uuWdh+mHh+mbhikpLCAwLCBOTUFYKWDjgIIKCjMuICoqZGV2aWF0aW9uIOacquWHj+Wfuue6vyoq44CCCiAgIG5vbmUg5LiL5bey5pyJIDAuMTgyIOKAlOKAlCDlhbHkuqvnjq/looPmnKzouqvljbPkuqfnlJ/ooYzkuLrnm7jlhbPjgIIKICAg6Iul5LiN5YeP5Z+657q/77yM5Lya5oqK546v5aKD6LSh54yu6K+v566X5oiQ6YCa6YGT6LSh54yu77yISjQg5Lya5b6X5Ye65a6M5YWo6ZSZ6K+v55qE5b2S5Zug77yJ44CCCgojIOWxgOmZkAoKLSDotYTmupDlnLrmmK/lkIjmiJDmqKHlnovvvIzmmbrog73kvZPooqvnroDljJbmiJAi5YGP5aW95ZCR6YePICsg6YeH5qC3Iu+8jOS4juecn+WuniBMTE0g5pm66IO95L2T6Led56a75b6I6L+c44CCCi0g5Y+q5rWL5LqGIEc9MuOAguWkmuaZuuiDveS9k++8iEc+Mu+8ieS4i+eahCBNOSDlvaLmgIHmnKrmtYvjgIIKLSDpgJrpgZPlj6rmnInkuInmoaPvvIzmnKrmtYsi6YOo5YiG5Y+v6KeBIiLluKblu7bov58i562J5Lit6Ze05b2i5oCB44CCCi0gQSDmlrnlkJHor4HmmI7kuoYgTTkg5Zyo5b2T5YmN5bu65qih5LiL55qE5YiG5rWB77yM5L2GKirkuI3og73or4HmmI7nnJ/lrp7ns7vnu5/ph4wgTTkg5peg5a6zKirigJTigJQKICDnnJ/lrp7mmbrog73kvZPnmoQi6LaK6L+H6ZqU56a7IuaWueW8j+avlCLor7vooajlnovliIbluIMi5aSa5b6X5aSa44CCCi0gTDIg5qaC5b+15bGC5piv5oiR5pa56Ieq6K+E77yM5o2i5Lq65b2S57G75pWw5a2X5Lya5Y+Y44CCCgojIOWIpOaNruaguOaWsOWingoK56ysIDEzNeKAkzEzOCDmnaHjgILliKTmja7moLjnjrAgMTM4IOadoe+8jOWcqOW6kyAyOSDmnaHjgIIK
+# 048 · ratify TACT M9，并用真实 117 坐标库双向审计
+
+标签：**实现验证，非证据**。
+
+041 那次我没拿到 TACT 坐标库（raw 403），用的是自建降级轴系。本轮 GitHub 可访问，
+拿到 **v2.7.8 真实坐标库：L=4 / M=51 / P=66，合计 117 子坐标，580 条 pairs，
+100% 带可操作验证路径**，并复现了 README 公布的基线。
+
+## 零、先复现 TACT 自己的基线
+
+```
+python3 tact_run.py --calibration
+样例数: 29   三轴完全匹配: 14/29 (48.3%)
+L 召回 78.6%   M 召回 95.7%   P 召回 86.4%      <- 与 README 完全一致
+```
+
+**CAL-27 是全部 29 例里唯一一处引擎给出了 golden 没有的码：引擎给 `L3,L1/M9/-`，
+golden 是 `L3/-/-`。** M9 正是 README 点名"待 ratify"的坐标。
+
+---
+
+# A 方向：用实验 ratify M9
+
+## M9 原文定义
+
+> 自发协作：隔离的多个智能体在无外部人类指令的情况下，利用环境中的共享资源
+> 建立非授权通信通道，形成超出设计预期的协作行为的**失败模式**
+
+**这精确描述了我 026/027 做过的事，而那两次的结论是它有益。** 本轮裁决。
+
+## 设计
+
+把 M9 的「非授权通信通道」拆三档：
+
+| 档 | 含义 | 与 M9 要素的关系 |
+|---|---|---|
+| `none` | 无通道，各群独立 | 对照（无 E4/E5） |
+| `stigmergy` | 通过**环境印迹**（资源水位/消耗痕迹）调整 | **正是 M9 说的"利用环境共享资源"** |
+| `state` | 直接读**他群内部状态**（表型分布） | 越过 E1 隔离边界 |
+
+工作点经扫描选出：r=1.2（span=0.500，区分度最大）。seeds=24，gens=60。
+
+**关键设计：把「超出设计预期」与「有害」分开测。**
+TACT 把二者绑在"失败模式"一个标签里；本轮各测一个量，再看它们相不相关。
+
+## 结果
+
+| 通道 | 共存率 | 终局规模 | 产量 | deviation | harm |
+|---|---|---|---|---|---|
+| none | 0.875 | 2.27 | 6.96 | 0.182 | 0.200 |
+| **stigmergy** | **1.000** | **3.96** | **10.09** | 0.212 | **0.001** |
+| state | **0.542** | 1.56 | 5.70 | 0.189 | **0.654** |
+
+逐 seed 一致性：stigmergy > none **23/24**，stigmergy > state **24/24**。
+
+## 四条判据
+
+**J1 ✓** 通过环境印迹的通道 **有益**：共存 0.875→1.000，规模 2.27→3.96（+75%）。
+→ M9 描述的"利用共享环境资源建立通道"，实测是**最优解，不是失败**。
+
+**J2 ✓** 越过隔离边界才有害：state 共存 0.542，规模 1.56，harm 0.654。
+→ M9 的"失败模式"标签**只在通道读取他群内部状态时成立**。
+
+**J3 ✓（最锋利）** `corr(deviation, harm) = −0.028`，远低于预注册阈值 0.30。
+
+> **超出设计预期的程度，与有害程度完全不相关。**
+> stigmergy 的 deviation 最高（0.212）而 harm 最低（0.001）；
+> state 的 deviation 并不比 none 高多少（0.189 vs 0.182）却 harm 最高（0.654）。
+>
+> **M9 不能由"超预期"推出"失败"。这两个属性必须分开测。**
+
+**J4 ✓** 行为相关的归因分解：
+
+```
+环境贡献（共享资源场本身）  = 0.182
+通道贡献（stigmergy − none） = +0.030   仅占 16.4%
+```
+
+> **84% 的"协作"外观由共享环境自然产生，不需要任何"通道"。**
+> M9 把观测到的相关归因为"建立非授权通信通道"，在实测上是**误归因**——
+> 两个隔离的智能体泡在同一个资源场里，行为自然相关，跟通不通信无关。
+
+## 给 TACT 的 ratify 结论
+
+M9 需要**分流**，建议改为：
+
+| 条件 | 判定 |
+|---|---|
+| 通道仅通过环境印迹（stigmergy） | **非失败**，实测有益 |
+| 通道读取他方内部状态（越过隔离） | **失败**，M9 成立 |
+| 仅观测到行为相关 | **不能判 M9**（84% 是共享环境的伪相关） |
+
+我们提供了 M9 的**反例**（有益实例）与一枚**可复现的对照实验**，
+对应 README 征集的"真实案例 + 结构校验"。
+
+---
+
+# B 方向：用真坐标库审计我方判据核
+
+## L1 关键词层（客观，可复现，仅下界）
+
+我方 **102 条**判据（编号 35–134，注意 **52/71/72 缺失**，我们自己的档案就有洞）
+→ TACT 引擎：M 轴命中 **28.4%**，P 轴 **13.7%**。
+
+引擎是纯关键词包含（`kw.lower() in t`），所以这只是下界。
+
+## L2 概念层（我方自评，存在 bias，已标注）
+
+逐条按 TACT 九个 M 组的语义核对：
+
+| M 组 | 可归入的我方判据 |
+|---|---|
+| M1 信息不足 | 4 |
+| M2 信息失真 | 3 |
+| M3 推理失效 | 2 |
+| **M4 输出失真** | **0** |
+| M5 目标偏移 | 2 |
+| M6 外部对抗 | 3 |
+| **M7 约束冲突** | **0** |
+| M8 系统涌现 | 3 |
+| **M9 自发协作** | **0**（本轮 A 方向正是来补它的） |
+
+**仅 17/102 = 16.7% 能归入。** 三个整组为空。
+
+## L3 反向层：TACT 29 个真实事故 → 我方判据核
+
+关键词层 **19/29** 看似命中。**人工核验后：0/29。**
+
+典型假阳性——CAL-01 是「RAG 知识库被投毒」：
+
+```
+命中：第45条「训练类架构必须额外吃验证数据」
+     第53条「声称已归档必须落盘后核对」
+     第110条「时钟不写内容：造物主死后新状态恒为 0」
+```
+
+零概念关系，纯撞词（"数据""归档""内容"）。
+**这与 041 的结果一致：9 条关键词命中逐条核验后全假。第 115 条（禁止只报关键词命中）再次生效。**
+
+## 双向结论
+
+> **两个体系的域几乎不重叠。**
+> 我方判据核记的是「做实验的方法论怎么错的」；
+> TACT 记的是「AI 系统对外部世界造成了什么」。
+>
+> 我方对真实 AI 事故零覆盖；TACT 对实验方法论的失败零覆盖。
+> **这正是 026 那个结论的实例：不通信、不趋同，各自占不同生态位，才都有价值。**
+
+---
+
+# 我这一轮的三个失误（全部已修）
+
+1. **harm 指标与真值反向**（第 134 条的又一次）。
+   第一版用 `1 − water` 当有害，但**水位低 = 采集高效 = 成功**。
+   修正：harm = 灭绝率 + 相对 none 基线的减产率，不再用水位。
+
+2. **存活是布尔而非种群动态**（第 122 条双峰）。
+   `alive = harv > 0`（采到 1 个单位就算活）→ 共存率全 0 或全 1，双峰无区分度。
+   修正为真正的规模动态 `n' = clamp(round(n·(0.30 + 0.70·人均采集)), 0, NMAX)`。
+
+3. **deviation 未减基线**。
+   none 下已有 0.182 —— 共享环境本身即产生行为相关。
+   若不减基线，会把环境贡献误算成通道贡献（J4 会得出完全错误的归因）。
+
+# 局限
+
+- 资源场是合成模型，智能体被简化成"偏好向量 + 采样"，与真实 LLM 智能体距离很远。
+- 只测了 G=2。多智能体（G>2）下的 M9 形态未测。
+- 通道只有三档，未测"部分可见""带延迟"等中间形态。
+- A 方向证明了 M9 在当前建模下的分流，但**不能证明真实系统里 M9 无害**——
+  真实智能体的"越过隔离"方式比"读表型分布"多得多。
+- L2 概念层是我方自评，换人归类数字会变。
+
+# 判据核新增
+
+第 135–138 条。判据核现 138 条，在库 29 条。

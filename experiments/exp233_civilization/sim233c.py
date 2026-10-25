@@ -1,1 +1,32 @@
-aW1wb3J0IHJhbmRvbSwganNvbiwgc3RhdGlzdGljcyBhcyBzdApkZWYgcnVuKGYsSyxUPTQwMCxwMD0wLjAyLHNlZWRzPTIwLHByb3RlY3Q9MC4wLGdhaW49MS8yMi4wLGNhcD0xMi4wKToKICAgIHN1cnYsZml0LHRlYz1bXSxbXSxbXQogICAgZm9yIHMgaW4gcmFuZ2Uoc2VlZHMpOgogICAgICAgIHI9cmFuZG9tLlJhbmRvbShzKjEzMSs3KTsgTj0yMDA7IG5leD1tYXgoMSxpbnQoTipmKSkgaWYgZj4wIGVsc2UgMAogICAgICAgIGFsaXZlPVRydWU7IHRsPTAuMDsgd2VhbHRoPTEuMDsgYms9W1RydWVdKksKICAgICAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICAgICAgaWYgYWxpdmU6CiAgICAgICAgICAgICAgICBmb3IgXyBpbiByYW5nZShuZXgpOgogICAgICAgICAgICAgICAgICAgIHdlYWx0aC09MC4zMCooMS1wcm90ZWN0KS9OCiAgICAgICAgICAgICAgICAgICAgaWYgci5yYW5kb20oKTwwLjAxMjogdGwrPXIucGFyZXRvdmFyaWF0ZSgxLjQpKmdhaW4KICAgICAgICAgICAgICAgIHRsPW1pbih0bCxjYXApOyB3ZWFsdGgrPTAuMzUqKDEtZikKICAgICAgICAgICAgcF9kaXM9cDAqKDErMC41NSp0bCk7IGtpbGw9bWF4KDAuMTAsMC45NS8oMSt0bCkpCiAgICAgICAgICAgIGlmIHIucmFuZG9tKCk8cF9kaXMgYW5kIHIucmFuZG9tKCk8a2lsbDogYWxpdmU9RmFsc2UKICAgICAgICAgICAgaWYgbm90IGFsaXZlOgogICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoSyk6CiAgICAgICAgICAgICAgICAgICAgaWYgYmtbaV0gYW5kIHIucmFuZG9tKCk8MC4wMjogYmtbaV09RmFsc2UKICAgICAgICAgICAgICAgIGlmIGFueShiayk6IGFsaXZlPVRydWU7IHdlYWx0aCo9MC40CiAgICAgICAgc3Vydi5hcHBlbmQoMS4wIGlmIGFsaXZlIGVsc2UgMC4wKTsgZml0LmFwcGVuZCh3ZWFsdGgpOyB0ZWMuYXBwZW5kKHRsKQogICAgcmV0dXJuIHN0Lm1lYW4oc3Vydiksc3QubWVhbihmaXQpLHN0Lm1lYW4odGVjKQpvdXQ9e30KcHJpbnQoIj09IGYg5omr5o+PIChLPTMsIDIwc2VlZCkgPT0iKQpyb3dzPVtdCmZvciBmIGluIFswLjAsMC4wMiwwLjA1LDAuMTAsMC4xNSwwLjIwLDAuMzAsMC41MCwwLjgwLDEuMF06CiAgICBzLGZpLHRjPXJ1bihmLDMpOyBvdXRbJ2Y9JS4yZiclZl09eydzdXJ2Jzpyb3VuZChzLDMpLCdmaXQnOnJvdW5kKGZpLDIpLCd0ZWNoJzpyb3VuZCh0YywyKX0KICAgIHJvd3MuYXBwZW5kKChmLHMsZmksdGMpKTsgcHJpbnQoIiBmPSUuMmYgIHN1cnY9JS4zZiAgZml0PSUuMmYgIHRlY2g9JS4yZiIlKGYscyxmaSx0YykpCnByaW50KCIgPj4gZml05pyA5LyYIGY9JS4yZiA7IHN1cnbmnIDkvJggZj0lLjJmIiUobWF4KHJvd3Msa2V5PWxhbWJkYSB4OnhbMl0pWzBdLG1heChyb3dzLGtleT1sYW1iZGEgeDp4WzFdKVswXSkpCnByaW50KCI9PSBLIOaJq+aPjyAoZj0wLjEwKSA9PSIpCmZvciBLIGluIFswLDEsMiwzLDUsOCwxMl06CiAgICBzLGZpLHRjPXJ1bigwLjEwLEspOyBvdXRbJ0s9JWQnJUtdPXsnc3Vydic6cm91bmQocywzKSwnZml0Jzpyb3VuZChmaSwyKX0KICAgIHByaW50KCIgSz0lZCAgc3Vydj0lLjNmICBmaXQ9JS4yZiIlKEsscyxmaSkpCmpzb24uZHVtcChvdXQsb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMjMzX2NpdmlsaXphdGlvbi9yZXN1bHQyMzNjLmpzb24nLCd3JyksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQo=
+import random, json, statistics as st
+def run(f,K,T=400,p0=0.02,seeds=20,protect=0.0,gain=1/22.0,cap=12.0):
+    surv,fit,tec=[],[],[]
+    for s in range(seeds):
+        r=random.Random(s*131+7); N=200; nex=max(1,int(N*f)) if f>0 else 0
+        alive=True; tl=0.0; wealth=1.0; bk=[True]*K
+        for t in range(T):
+            if alive:
+                for _ in range(nex):
+                    wealth-=0.30*(1-protect)/N
+                    if r.random()<0.012: tl+=r.paretovariate(1.4)*gain
+                tl=min(tl,cap); wealth+=0.35*(1-f)
+            p_dis=p0*(1+0.55*tl); kill=max(0.10,0.95/(1+tl))
+            if r.random()<p_dis and r.random()<kill: alive=False
+            if not alive:
+                for i in range(K):
+                    if bk[i] and r.random()<0.02: bk[i]=False
+                if any(bk): alive=True; wealth*=0.4
+        surv.append(1.0 if alive else 0.0); fit.append(wealth); tec.append(tl)
+    return st.mean(surv),st.mean(fit),st.mean(tec)
+out={}
+print("== f 扫描 (K=3, 20seed) ==")
+rows=[]
+for f in [0.0,0.02,0.05,0.10,0.15,0.20,0.30,0.50,0.80,1.0]:
+    s,fi,tc=run(f,3); out['f=%.2f'%f]={'surv':round(s,3),'fit':round(fi,2),'tech':round(tc,2)}
+    rows.append((f,s,fi,tc)); print(" f=%.2f  surv=%.3f  fit=%.2f  tech=%.2f"%(f,s,fi,tc))
+print(" >> fit最优 f=%.2f ; surv最优 f=%.2f"%(max(rows,key=lambda x:x[2])[0],max(rows,key=lambda x:x[1])[0]))
+print("== K 扫描 (f=0.10) ==")
+for K in [0,1,2,3,5,8,12]:
+    s,fi,tc=run(0.10,K); out['K=%d'%K]={'surv':round(s,3),'fit':round(fi,2)}
+    print(" K=%d  surv=%.3f  fit=%.2f"%(K,s,fi))
+json.dump(out,open('/data/workspace/luoshen-o1/experiments/exp233_civilization/result233c.json','w'),ensure_ascii=False,indent=1)

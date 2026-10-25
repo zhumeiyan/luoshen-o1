@@ -1,1 +1,80 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQpyIiIi5oqK6LSm5pys6YeM55qE6YCA5b255qCH562+5ZCN5pS55oiQ6KeE6IyD5ZCN77yM5pKk5o6J55qE57KX5qG25pW05p2h5Yig5o6J44CCCgrlkI3ljZXkuI7liKTmja7lnKggYHBlYWNoLmNhdGFsb2dfcnVsZXMuUkVUSVJFRF9UQUdTYCDkuI4gYHBlYWNoLnRhZ19yZW5hbWVzYO+8jOmhtemdouS4iumCo+S6mwrjgIzlkIzkuIDku7bkuovkuKTooYzjgI3lsLHmmK/mjInov5nlvKDooajmtojmjonnmoTjgILmnKzohJrmnKzmmK/lhpnov5nkuIDmraXnmoTllK/kuIDlhaXlj6PjgIIKCum7mOiupOWPquS6p+WHuuWkjeaguCBDU1bvvIxgLS1hcHBseWAg5omN5YaZIGxlZGdlciDkuJTlv4Xpobvnu5kgYC0tYmFja3VwYOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBzeXMKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpQUk9KRUNUX1JPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50LnBhcmVudApTUkNfRElSID0gUFJPSkVDVF9ST09UIC8gInNyYyIKaWYgc3RyKFNSQ19ESVIpIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCBzdHIoU1JDX0RJUikpCgpmcm9tIHBlYWNoLmNvbmZpZyBpbXBvcnQgR0VORVJBVEVEX0RJUgpmcm9tIHBlYWNoLnJldmlld19jc3YgaW1wb3J0IHdyaXRlX3Jvd3MKZnJvbSBwZWFjaC5zY3JpcHRpbmcgaW1wb3J0IGFkZF9sZWRnZXJfd3JpdGVfYXJncywgY291bnRzX29mLCBvcGVuX2Zvcl93cml0ZSwgdmVyaWZ5X2FmdGVyX3dyaXRlCmZyb20gcGVhY2gudGFnX3JlbmFtZXMgaW1wb3J0IEZJRUxEUywgYXBwbHlfcm93cywgY29sbGVjdAoKCmRlZiBidWlsZF9wYXJzZXIoKSAtPiBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcjoKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKGRlc2NyaXB0aW9uPSLmiorpgIDlvbnmoIfnrb7lkI3mlLnmiJDop4TojIPlkI3vvIzmkqTmjonnmoTnspfmobbmlbTmnaHliKDmjokiKQogICAgYWRkX2xlZGdlcl93cml0ZV9hcmdzKHBhcnNlcikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tcmV2aWV3LWNzdiIsIHR5cGU9UGF0aCwKICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1HRU5FUkFURURfRElSIC8gInJldGlyZWQtdGFnLXJlbmFtZS5jc3YiKQogICAgcmV0dXJuIHBhcnNlcgoKCmRlZiBydW4oYXJnczogYXJncGFyc2UuTmFtZXNwYWNlKSAtPiBpbnQ6CiAgICBjb25uZWN0aW9uID0gb3Blbl9mb3Jfd3JpdGUoYXJncykKICAgIHRyeToKICAgICAgICByb3dzID0gY29sbGVjdChjb25uZWN0aW9uKQogICAgICAgIHRvdGFsID0gc3VtKHJvd1siYXNzZXRzIl0gKyByb3dbIm1lcmdlZCJdIGZvciByb3cgaW4gcm93cykKICAgICAgICBrZXB0ID0gc3VtKHJvd1sicmF3X2tlcHQiXSBmb3Igcm93IGluIHJvd3MpCiAgICAgICAgcHJpbnQoZiLpgIDlvbnlkI0ge2xlbihyb3dzKX0g5Liq77yM5b6F5pS55qCH5rOoIHt0b3RhbH0g5p2h77yb5p2l5rqQ5Y6f6K+d5L+d55WZIHtrZXB0fSDmnaEiKQogICAgICAgIGZvciByb3cgaW4gcm93czoKICAgICAgICAgICAgaWYgcm93WyJuZXciXSBhbmQgKHJvd1siYXNzZXRzIl0gb3Igcm93WyJtZXJnZWQiXSk6CiAgICAgICAgICAgICAgICBwcmludChmIiAge3Jvd1snb2xkJ119IOKGkiB7cm93WyduZXcnXX3vvJrmlLkge3Jvd1snYXNzZXRzJ119IOadoeOAgSIKICAgICAgICAgICAgICAgICAgICAgIGYi5bm2IHtyb3dbJ21lcmdlZCddfSDmnaHjgIHlrp7kvZN7cm93WydlbnRpdHknXSBvciAn5pegJ30iKQogICAgICAgICAgICBlbGlmIHJvd1siYXNzZXRzIl06CiAgICAgICAgICAgICAgICBwcmludChmIiAge3Jvd1snb2xkJ119IOaSpOaOie+8muWIoCB7cm93Wydhc3NldHMnXX0g5p2h44CB5a6e5L2Te3Jvd1snZW50aXR5J10gb3IgJ+aXoCd9IikKCiAgICAgICAgaWYgYXJncy5hcHBseToKICAgICAgICAgICAgYmVmb3JlID0gY291bnRzX29mKGNvbm5lY3Rpb24sIHsiYXNzZXRfdGFnIjogIlNFTEVDVCBjb3VudCgqKSBGUk9NIGFzc2V0X3RhZyJ9KQogICAgICAgICAgICBjb25uZWN0aW9uLmV4ZWN1dGUoIkJFR0lOIElNTUVESUFURSIpCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGNvdW50cyA9IGFwcGx5X3Jvd3MoY29ubmVjdGlvbiwgcm93cykKICAgICAgICAgICAgICAgIGNvbm5lY3Rpb24uY29tbWl0KCkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIGNvbm5lY3Rpb24ucm9sbGJhY2soKQogICAgICAgICAgICAgICAgcmFpc2UKICAgICAgICAgICAgYWZ0ZXIgPSBjb3VudHNfb2YoY29ubmVjdGlvbiwgeyJhc3NldF90YWciOiAiU0VMRUNUIGNvdW50KCopIEZST00gYXNzZXRfdGFnIn0pCiAgICAgICAgICAgIGludGVncml0eSwgdmlvbGF0aW9ucyA9IHZlcmlmeV9hZnRlcl93cml0ZShjb25uZWN0aW9uKQogICAgICAgICAgICBwcmludChmIuW3suWGmeWFpe+8muaUueagh+azqCB7Y291bnRzWyd0YWdzJ119IOadoeOAgeWIoOmHjeWkjeS4juaSpOaOieeahCB7Y291bnRzWydkcm9wcGVkJ119IOadoeOAgSIKICAgICAgICAgICAgICAgICAgZiLliqjlrp7kvZMge2NvdW50c1snZW50aXRpZXMnXX0g5LiqIikKICAgICAgICAgICAgcHJpbnQoZiIgIOagh+azqCB7YmVmb3JlWydhc3NldF90YWcnXX0g4oaSIHthZnRlclsnYXNzZXRfdGFnJ11977yMIgogICAgICAgICAgICAgICAgICBmIuWunuS9kyB7YmVmb3JlWydlbnRpdHknXX0g4oaSIHthZnRlclsnZW50aXR5J119IikKICAgICAgICAgICAgcHJpbnQoZiIgIOiHquajgO+8mmludGVncml0eV9jaGVjaz17aW50ZWdyaXR5fe+8jOWklumUrui/neinhCB7dmlvbGF0aW9uc30g5p2hIikKICAgIGZpbmFsbHk6CiAgICAgICAgY29ubmVjdGlvbi5jbG9zZSgpCgogICAgd3JpdGVfcm93cyhhcmdzLnJldmlld19jc3YsIEZJRUxEUywgcm93cykKICAgIHByaW50KGYi5aSN5qC4IENTViDihpIge2FyZ3MucmV2aWV3X2Nzdn0iKQogICAgaWYgbm90IGFyZ3MuYXBwbHk6CiAgICAgICAgcHJpbnQoIui/meaYr+mihOiniO+8muacquWGmSBsZWRnZXLjgILnoa7orqTlkI7lho3liqAgLS1hcHBseSAtLWJhY2t1cOOAgiIpCiAgICByZXR1cm4gMAoKCmRlZiBtYWluKGFyZ3Y6IGxpc3Rbc3RyXSB8IE5vbmUgPSBOb25lKSAtPiBpbnQ6CiAgICByZXR1cm4gcnVuKGJ1aWxkX3BhcnNlcigpLnBhcnNlX2FyZ3MoYXJndikpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJhaXNlIFN5c3RlbUV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+r"""把账本里的退役标签名改成规范名，撤掉的粗桶整条删掉。
+
+名单与判据在 `peach.catalog_rules.RETIRED_TAGS` 与 `peach.tag_renames`，页面上那些
+「同一件事两行」就是按这张表消掉的。本脚本是写这一步的唯一入口。
+
+默认只产出复核 CSV，`--apply` 才写 ledger 且必须给 `--backup`。
+"""
+from __future__ import annotations
+
+import argparse
+import sys
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+SRC_DIR = PROJECT_ROOT / "src"
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
+from peach.config import GENERATED_DIR
+from peach.review_csv import write_rows
+from peach.scripting import add_ledger_write_args, counts_of, open_for_write, verify_after_write
+from peach.tag_renames import FIELDS, apply_rows, collect
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(description="把退役标签名改成规范名，撤掉的粗桶整条删掉")
+    add_ledger_write_args(parser)
+    parser.add_argument("--review-csv", type=Path,
+                        default=GENERATED_DIR / "retired-tag-rename.csv")
+    return parser
+
+
+def run(args: argparse.Namespace) -> int:
+    connection = open_for_write(args)
+    try:
+        rows = collect(connection)
+        total = sum(row["assets"] + row["merged"] for row in rows)
+        kept = sum(row["raw_kept"] for row in rows)
+        print(f"退役名 {len(rows)} 个，待改标注 {total} 条；来源原话保留 {kept} 条")
+        for row in rows:
+            if row["new"] and (row["assets"] or row["merged"]):
+                print(f"  {row['old']} → {row['new']}：改 {row['assets']} 条、"
+                      f"并 {row['merged']} 条、实体{row['entity'] or '无'}")
+            elif row["assets"]:
+                print(f"  {row['old']} 撤掉：删 {row['assets']} 条、实体{row['entity'] or '无'}")
+
+        if args.apply:
+            before = counts_of(connection, {"asset_tag": "SELECT count(*) FROM asset_tag"})
+            connection.execute("BEGIN IMMEDIATE")
+            try:
+                counts = apply_rows(connection, rows)
+                connection.commit()
+            except Exception:
+                connection.rollback()
+                raise
+            after = counts_of(connection, {"asset_tag": "SELECT count(*) FROM asset_tag"})
+            integrity, violations = verify_after_write(connection)
+            print(f"已写入：改标注 {counts['tags']} 条、删重复与撤掉的 {counts['dropped']} 条、"
+                  f"动实体 {counts['entities']} 个")
+            print(f"  标注 {before['asset_tag']} → {after['asset_tag']}，"
+                  f"实体 {before['entity']} → {after['entity']}")
+            print(f"  自检：integrity_check={integrity}，外键违规 {violations} 条")
+    finally:
+        connection.close()
+
+    write_rows(args.review_csv, FIELDS, rows)
+    print(f"复核 CSV → {args.review_csv}")
+    if not args.apply:
+        print("这是预览：未写 ledger。确认后再加 --apply --backup。")
+    return 0
+
+
+def main(argv: list[str] | None = None) -> int:
+    return run(build_parser().parse_args(argv))
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

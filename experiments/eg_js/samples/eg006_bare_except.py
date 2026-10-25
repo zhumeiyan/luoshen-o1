@@ -1,1 +1,9 @@
-ZGVmIGxvYWQocGF0aCk6CiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKHBhdGgpIGFzIGY6CiAgICAgICAgICAgIHJldHVybiBbbC5zdHJpcCgpIGZvciBsIGluIGZdCiAgICBleGNlcHQ6CiAgICAgICAgcmV0dXJuIFtdCgpyb3dzID0gbG9hZCgiZGF0YS50c3YiKQpwcmludCgibG9hZGVkIiwgbGVuKHJvd3MpKQo=
+def load(path):
+    try:
+        with open(path) as f:
+            return [l.strip() for l in f]
+    except:
+        return []
+
+rows = load("data.tsv")
+print("loaded", len(rows))

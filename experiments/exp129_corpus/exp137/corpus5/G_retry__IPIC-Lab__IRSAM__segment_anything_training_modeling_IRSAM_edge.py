@@ -1,1 +1,204 @@
-IyBDb3B5cmlnaHQgKGMpIE1ldGEgUGxhdGZvcm1zLCBJbmMuIGFuZCBhZmZpbGlhdGVzLgojIEFsbCByaWdodHMgcmVzZXJ2ZWQuCmltcG9ydCBjdjIKIyBUaGlzIHNvdXJjZSBjb2RlIGlzIGxpY2Vuc2VkIHVuZGVyIHRoZSBsaWNlbnNlIGZvdW5kIGluIHRoZQojIExJQ0VOU0UgZmlsZSBpbiB0aGUgcm9vdCBkaXJlY3Rvcnkgb2YgdGhpcyBzb3VyY2UgdHJlZS4KCmltcG9ydCBvcy5wYXRoIGFzIG9wcwppbXBvcnQgdG9yY2gKZnJvbSB0b3JjaCBpbXBvcnQgbm4sIFRlbnNvcgpmcm9tIHRvcmNoLm5uIGltcG9ydCBmdW5jdGlvbmFsIGFzIEYKCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIERpY3QsIExpc3QsIFR1cGxlLCBVbmlvbgoKZnJvbSAuaW1hZ2VfZW5jb2RlciBpbXBvcnQgSW1hZ2VFbmNvZGVyVmlUCmZyb20gLm1hc2tfZGVjb2RlciBpbXBvcnQgTWFza0RlY29kZXIKZnJvbSAucHJvbXB0X2VuY29kZXIgaW1wb3J0IFByb21wdEVuY29kZXIKZnJvbSAuSVJTQU1fZW5jb2RlciBpbXBvcnQgY29tcHV0ZV9ncmFkaWVudF9wcmlvcgoKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAoKCmNsYXNzIFNhbShubi5Nb2R1bGUpOgogICAgbWFza190aHJlc2hvbGQ6IGZsb2F0ID0gMC4wCiAgICBpbWFnZV9mb3JtYXQ6IHN0ciA9ICJSR0IiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgaW1hZ2VfZW5jb2RlcjogSW1hZ2VFbmNvZGVyVmlULAogICAgICAgIHByb21wdF9lbmNvZGVyOiBQcm9tcHRFbmNvZGVyLAogICAgICAgIG1hc2tfZGVjb2RlcjogTWFza0RlY29kZXIsCiAgICAgICAgcGl4ZWxfbWVhbjogTGlzdFtmbG9hdF0gPSBbMTIzLjY3NSwgMTE2LjI4LCAxMDMuNTNdLAogICAgICAgIHBpeGVsX3N0ZDogTGlzdFtmbG9hdF0gPSBbNTguMzk1LCA1Ny4xMiwgNTcuMzc1XSwKICAgICAgICB1c2VfZ3JhZGllbnRfcHJpb3I6IGJvb2wgPSBUcnVlLAogICAgKSAtPiBOb25lOgogICAgICAgICIiIgogICAgICAgIFNBTSBwcmVkaWN0cyBvYmplY3QgbWFza3MgZnJvbSBhbiBpbWFnZSBhbmQgaW5wdXQgcHJvbXB0cy4KCiAgICAgICAgQXJndW1lbnRzOgogICAgICAgICAgaW1hZ2VfZW5jb2RlciAoSW1hZ2VFbmNvZGVyVmlUKTogVGhlIGJhY2tib25lIHVzZWQgdG8gZW5jb2RlIHRoZQogICAgICAgICAgICBpbWFnZSBpbnRvIGltYWdlIGVtYmVkZGluZ3MgdGhhdCBhbGxvdyBmb3IgZWZmaWNpZW50IG1hc2sgcHJlZGljdGlvbi4KICAgICAgICAgIHByb21wdF9lbmNvZGVyIChQcm9tcHRFbmNvZGVyKTogRW5jb2RlcyB2YXJpb3VzIHR5cGVzIG9mIGlucHV0IHByb21wdHMuCiAgICAgICAgICBtYXNrX2RlY29kZXIgKE1hc2tEZWNvZGVyKTogUHJlZGljdHMgbWFza3MgZnJvbSB0aGUgaW1hZ2UgZW1iZWRkaW5ncwogICAgICAgICAgICBhbmQgZW5jb2RlZCBwcm9tcHRzLgogICAgICAgICAgcGl4ZWxfbWVhbiAobGlzdChmbG9hdCkpOiBNZWFuIHZhbHVlcyBmb3Igbm9ybWFsaXppbmcgcGl4ZWxzIGluIHRoZSBpbnB1dCBpbWFnZS4KICAgICAgICAgIHBpeGVsX3N0ZCAobGlzdChmbG9hdCkpOiBTdGQgdmFsdWVzIGZvciBub3JtYWxpemluZyBwaXhlbHMgaW4gdGhlIGlucHV0IGltYWdlLgogICAgICAgICAgdXNlX2dyYWRpZW50X3ByaW9yIChib29sKTogV2hldGhlciB0byBjb21wdXRlIHRoZSBncmFkaWVudCBwcmlvciBmcm9tIHRoZQogICAgICAgICAgICBvcmlnaW5hbCBpbWFnZSBhbmQgZmVlZCBpdCB0byB0aGUgZW5jb2RlcidzIGdyYWRpZW50IGNvbXBlbnNhdGlvbiBicmFuY2guCiAgICAgICAgIiIiCiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygpCiAgICAgICAgc2VsZi5pbWFnZV9lbmNvZGVyID0gaW1hZ2VfZW5jb2RlcgogICAgICAgIHNlbGYucHJvbXB0X2VuY29kZXIgPSBwcm9tcHRfZW5jb2RlcgogICAgICAgIHNlbGYubWFza19kZWNvZGVyID0gbWFza19kZWNvZGVyCgogICAgICAgIHNlbGYudXNlX2dyYWRpZW50X3ByaW9yID0gdXNlX2dyYWRpZW50X3ByaW9yCgogICAgICAgIHNlbGYucmVnaXN0ZXJfYnVmZmVyKCJwaXhlbF9tZWFuIiwgdG9yY2guVGVuc29yKHBpeGVsX21lYW4pLnZpZXcoLTEsIDEsIDEpLCBGYWxzZSkKICAgICAgICBzZWxmLnJlZ2lzdGVyX2J1ZmZlcigicGl4ZWxfc3RkIiwgdG9yY2guVGVuc29yKHBpeGVsX3N0ZCkudmlldygtMSwgMSwgMSksIEZhbHNlKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGRldmljZShzZWxmKSAtPiBBbnk6CiAgICAgICAgcmV0dXJuIHNlbGYucGl4ZWxfbWVhbi5kZXZpY2UKCiAgICBkZWYgZm9yd2FyZCgKICAgICAgICBzZWxmLAogICAgICAgIGJhdGNoZWRfaW5wdXQ6IExpc3RbRGljdFtzdHIsIEFueV1dLAogICAgKSAtPiBbVGVuc29yLCBUZW5zb3JdOgogICAgICAgICIiIgogICAgICAgIFByZWRpY3RzIG1hc2tzIGVuZC10by1lbmQgZnJvbSBwcm92aWRlZCBpbWFnZXMgYW5kIHByb21wdHMuCiAgICAgICAgSWYgcHJvbXB0cyBhcmUgbm90IGtub3duIGluIGFkdmFuY2UsIHVzaW5nIFNhbVByZWRpY3RvciBpcwogICAgICAgIHJlY29tbWVuZGVkIG92ZXIgY2FsbGluZyB0aGUgbW9kZWwgZGlyZWN0bHkuCgogICAgICAgIEFyZ3VtZW50czoKICAgICAgICAgIGJhdGNoZWRfaW5wdXQgKGxpc3QoZGljdCkpOiBBIGxpc3Qgb3ZlciBpbnB1dCBpbWFnZXMsIGVhY2ggYQogICAgICAgICAgICBkaWN0aW9uYXJ5IHdpdGggdGhlIGZvbGxvd2luZyBrZXlzLiBBIHByb21wdCBrZXkgY2FuIGJlCiAgICAgICAgICAgIGV4Y2x1ZGVkIGlmIGl0IGlzIG5vdCBwcmVzZW50LgogICAgICAgICAgICAgICdpbWFnZSc6IFRoZSBpbWFnZSBhcyBhIHRvcmNoIHRlbnNvciBpbiAzeEh4VyBmb3JtYXQsCiAgICAgICAgICAgICAgICBhbHJlYWR5IHRyYW5zZm9ybWVkIGZvciBpbnB1dCB0byB0aGUgbW9kZWwuCiAgICAgICAgICAgICAgJ29yaWdpbmFsX3NpemUnOiAodHVwbGUoaW50LCBpbnQpKSBUaGUgb3JpZ2luYWwgc2l6ZSBvZgogICAgICAgICAgICAgICAgdGhlIGltYWdlIGJlZm9yZSB0cmFuc2Zvcm1hdGlvbiwgYXMgKEgsIFcpLgogICAgICAgICAgICAgICdwb2ludF9jb29yZHMnOiAodG9yY2guVGVuc29yKSBCYXRjaGVkIHBvaW50IHByb21wdHMgZm9yCiAgICAgICAgICAgICAgICB0aGlzIGltYWdlLCB3aXRoIHNoYXBlIEJ4TngyLiBBbHJlYWR5IHRyYW5zZm9ybWVkIHRvIHRoZQogICAgICAgICAgICAgICAgaW5wdXQgZnJhbWUgb2YgdGhlIG1vZGVsLgogICAgICAgICAgICAgICdwb2ludF9sYWJlbHMnOiAodG9yY2guVGVuc29yKSBCYXRjaGVkIGxhYmVscyBmb3IgcG9pbnQgcHJvbXB0cywKICAgICAgICAgICAgICAgIHdpdGggc2hhcGUgQnhOLgogICAgICAgICAgICAgICdib3hlcyc6ICh0b3JjaC5UZW5zb3IpIEJhdGNoZWQgYm94IGlucHV0cywgd2l0aCBzaGFwZSBCeDQuCiAgICAgICAgICAgICAgICBBbHJlYWR5IHRyYW5zZm9ybWVkIHRvIHRoZSBpbnB1dCBmcmFtZSBvZiB0aGUgbW9kZWwuCiAgICAgICAgICAgICAgJ21hc2tfaW5wdXRzJzogKHRvcmNoLlRlbnNvcikgQmF0Y2hlZCBtYXNrIGlucHV0cyB0byB0aGUgbW9kZWwsCiAgICAgICAgICAgICAgICBpbiB0aGUgZm9ybSBCeDF4SHhXLgogICAgICAgICAgbXVsdGltYXNrX291dHB1dCAoYm9vbCk6IFdoZXRoZXIgdGhlIG1vZGVsIHNob3VsZCBwcmVkaWN0IG11bHRpcGxlCiAgICAgICAgICAgIGRpc2FtYmlndWF0aW5nIG1hc2tzLCBvciByZXR1cm4gYSBzaW5nbGUgbWFzay4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgIChsaXN0KGRpY3QpKTogQSBsaXN0IG92ZXIgaW5wdXQgaW1hZ2VzLCB3aGVyZSBlYWNoIGVsZW1lbnQgaXMKICAgICAgICAgICAgYXMgZGljdGlvbmFyeSB3aXRoIHRoZSBmb2xsb3dpbmcga2V5cy4KICAgICAgICAgICAgICAnbWFza3MnOiAodG9yY2guVGVuc29yKSBCYXRjaGVkIGJpbmFyeSBtYXNrIHByZWRpY3Rpb25zLAogICAgICAgICAgICAgICAgd2l0aCBzaGFwZSBCeEN4SHhXLCB3aGVyZSBCIGlzIHRoZSBudW1iZXIgb2YgaW5wdXQgcHJvbXRzLAogICAgICAgICAgICAgICAgQyBpcyBkZXRlcm1pZW5kIGJ5IG11bHRpbWFza19vdXRwdXQsIGFuZCAoSCwgVykgaXMgdGhlCiAgICAgICAgICAgICAgICBvcmlnaW5hbCBzaXplIG9mIHRoZSBpbWFnZS4KICAgICAgICAgICAgICAnaW91X3ByZWRpY3Rpb25zJzogKHRvcmNoLlRlbnNvcikgVGhlIG1vZGVsJ3MgcHJlZGljdGlvbnMKICAgICAgICAgICAgICAgIG9mIG1hc2sgcXVhbGl0eSwgaW4gc2hhcGUgQnhDLgogICAgICAgICAgICAgICdsb3dfcmVzX2xvZ2l0cyc6ICh0b3JjaC5UZW5zb3IpIExvdyByZXNvbHV0aW9uIGxvZ2l0cyB3aXRoCiAgICAgICAgICAgICAgICBzaGFwZSBCeEN4SHhXLCB3aGVyZSBIPVc9MjU2LiBDYW4gYmUgcGFzc2VkIGFzIG1hc2sgaW5wdXQKICAgICAgICAgICAgICAgIHRvIHN1YnNlcXVlbnQgaXRlcmF0aW9ucyBvZiBwcmVkaWN0aW9uLgogICAgICAgICIiIgoKICAgICAgICBpbnB1dF9pbWFnZXMgPSB0b3JjaC5jYXQoW3NlbGYucHJlcHJvY2Vzcyh4WyJpbWFnZSJdKSBmb3IgeCBpbiBiYXRjaGVkX2lucHV0XSwgZGltPTApCgogICAgICAgIGdyYWRfcHJpb3IgPSBOb25lCiAgICAgICAgaWYgc2VsZi51c2VfZ3JhZGllbnRfcHJpb3IgYW5kIGdldGF0dHIoCiAgICAgICAgICAgICAgICBzZWxmLmltYWdlX2VuY29kZXIsICJncmFkaWVudF9jb21wZW5zYXRpb24iLCBOb25lKSBpcyBub3QgTm9uZToKICAgICAgICAgICAgZ3JhZF9wcmlvciA9IHRvcmNoLmNhdChbCiAgICAgICAgICAgICAgICBjb21wdXRlX2dyYWRpZW50X3ByaW9yKEYuaW50ZXJwb2xhdGUoCiAgICAgICAgICAgICAgICAgICAgeFsiaW1hZ2UiXS51bnNxdWVlemUoMCkuZmxvYXQoKSwKICAgICAgICAgICAgICAgICAgICBzaXplPWlucHV0X2ltYWdlcy5zaGFwZVstMjpdLCBtb2RlPSJiaWxpbmVhciIsIGFsaWduX2Nvcm5lcnM9RmFsc2UpKQogICAgICAgICAgICAgICAgZm9yIHggaW4gYmF0Y2hlZF9pbnB1dAogICAgICAgICAgICBdLCBkaW09MCkKICAgICAgICAgICAgaW1hZ2VfZW1iZWRkaW5ncywgZWRnZV9lbWJlZGRpbmdzID0gc2VsZi5pbWFnZV9lbmNvZGVyKAogICAgICAgICAgICAgICAgaW5wdXRfaW1hZ2VzLCBncmFkX3ByaW9yPWdyYWRfcHJpb3IpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaW1hZ2VfZW1iZWRkaW5ncywgZWRnZV9lbWJlZGRpbmdzID0gc2VsZi5pbWFnZV9lbmNvZGVyKGlucHV0X2ltYWdlcykKICAgICAgICAjIHByaW50KCJtYXg6IiwgdG9yY2gubWF4KGltYWdlX2VtYmVkZGluZ3NbMF1bMjExXSksICIgbWluOiIsIHRvcmNoLm1pbihpbWFnZV9lbWJlZGRpbmdzWzBdWzIxMV0pKQogICAgICAgICMgcHJpbnQoaW1hZ2VfZW1iZWRkaW5ncy5zaGFwZSkKICAgICAgICAjCiAgICAgICAgIyBwbHQuaW1zaG93KGltYWdlX2VtYmVkZGluZ3NbMF1bMjExXS5jcHUoKS5kZXRhY2goKS5udW1weSgpKjI1NS4pCiAgICAgICAgIyBwbHQuc2hvdygpCiAgICAgICAgIyBjdjIuaW13cml0ZSgic2hvd19zYW1wbGUucG5nIiwgaW1hZ2VfZW1iZWRkaW5nc1swXVsyMTFdLmNwdSgpLmRldGFjaCgpLm51bXB5KCkqMjU1LikKCiAgICAgICAgb3V0cHV0cyA9IFtdCiAgICAgICAgZm9yIGltYWdlX3JlY29yZCwgY3Vycl9lbWJlZGRpbmcsIGVkZ2VfZW1iZWRkaW5nIGluIHppcChiYXRjaGVkX2lucHV0LCBpbWFnZV9lbWJlZGRpbmdzLCBlZGdlX2VtYmVkZGluZ3MpOgogICAgICAgICAgICBzcGFyc2VfZW1iZWRkaW5ncywgZGVuc2VfZW1iZWRkaW5ncyA9IHNlbGYucHJvbXB0X2VuY29kZXIoCiAgICAgICAgICAgICAgICBwb2ludHM9Tm9uZSwKICAgICAgICAgICAgICAgIGJveGVzPWltYWdlX3JlY29yZC5nZXQoImJveGVzIiwgTm9uZSksCiAgICAgICAgICAgICAgICBtYXNrcz1pbWFnZV9yZWNvcmQuZ2V0KCJtYXNrX2lucHV0cyIsIE5vbmUpLAogICAgICAgICAgICApCgogICAgICAgICAgICBsb3dfcmVzX21hc2ssIGxvd19yZXNfZWRnZSwgaW91ID0gc2VsZi5tYXNrX2RlY29kZXIoCiAgICAgICAgICAgICAgICBpbWFnZV9lbWJlZGRpbmdzPWN1cnJfZW1iZWRkaW5nLnVuc3F1ZWV6ZSgwKSwKICAgICAgICAgICAgICAgIGVkZ2VfZW1iZWRkaW5ncz1lZGdlX2VtYmVkZGluZy51bnNxdWVlemUoMCksCiAgICAgICAgICAgICAgICBpbWFnZV9wZT1zZWxmLnByb21wdF9lbmNvZGVyLmdldF9kZW5zZV9wZSgpLAogICAgICAgICAgICAgICAgc3BhcnNlX3Byb21wdF9lbWJlZGRpbmdzPXNwYXJzZV9lbWJlZGRpbmdzLAogICAgICAgICAgICAgICAgZGVuc2VfcHJvbXB0X2VtYmVkZGluZ3M9ZGVuc2VfZW1iZWRkaW5ncywKICAgICAgICAgICAgKQoKICAgICAgICAgICAgbWFzayA9IHNlbGYucG9zdHByb2Nlc3NfbWFza3MoCiAgICAgICAgICAgICAgICBsb3dfcmVzX21hc2ssCiAgICAgICAgICAgICAgICBpbnB1dF9zaXplPWltYWdlX3JlY29yZFsiaW1hZ2UiXS5zaGFwZVstMjpdLAogICAgICAgICAgICAgICAgb3JpZ2luYWxfc2l6ZT1pbWFnZV9yZWNvcmRbIm9yaWdpbmFsX3NpemUiXSwKICAgICAgICAgICAgKQoKICAgICAgICAgICAgZWRnZSA9IHNlbGYucG9zdHByb2Nlc3NfbWFza3MoCiAgICAgICAgICAgICAgICBsb3dfcmVzX2VkZ2UsCiAgICAgICAgICAgICAgICBpbnB1dF9zaXplPWltYWdlX3JlY29yZFsiaW1hZ2UiXS5zaGFwZVstMjpdLAogICAgICAgICAgICAgICAgb3JpZ2luYWxfc2l6ZT1pbWFnZV9yZWNvcmRbIm9yaWdpbmFsX3NpemUiXSwKICAgICAgICAgICAgKQoKICAgICAgICAgICAgb3V0cHV0cy5hcHBlbmQoCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIm1hc2siOiBtYXNrLAogICAgICAgICAgICAgICAgICAgICJlZGdlIjogZWRnZSwKICAgICAgICAgICAgICAgICAgICAibG93X3Jlc19sb2dpdHMiOiBsb3dfcmVzX21hc2ssCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICkKICAgICAgICBtYXNrcyA9IHRvcmNoLmNhdChbeFsibWFzayJdIGZvciB4IGluIG91dHB1dHNdLCBkaW09MCkKICAgICAgICBlZGdlcyA9IHRvcmNoLmNhdChbeFsiZWRnZSJdIGZvciB4IGluIG91dHB1dHNdLCBkaW09MCkKCiAgICAgICAgcmV0dXJuIG1hc2tzLCBlZGdlcwoKICAgIGRlZiBwb3N0cHJvY2Vzc19tYXNrcygKICAgICAgICBzZWxmLAogICAgICAgIG1hc2tzOiB0b3JjaC5UZW5zb3IsCiAgICAgICAgaW5wdXRfc2l6ZTogVHVwbGVbaW50LCAuLi5dLAogICAgICAgIG9yaWdpbmFsX3NpemU6IFR1cGxlW2ludCwgLi4uXSwKICAgICkgLT4gdG9yY2guVGVuc29yOgogICAgICAgICIiIgogICAgICAgIFJlbW92ZSBwYWRkaW5nIGFuZCB1cHNjYWxlIG1hc2tzIHRvIHRoZSBvcmlnaW5hbCBpbWFnZSBzaXplLgoKICAgICAgICBBcmd1bWVudHM6CiAgICAgICAgICBtYXNrcyAodG9yY2guVGVuc29yKTogQmF0Y2hlZCBtYXNrcyBmcm9tIHRoZSBtYXNrX2RlY29kZXIsCiAgICAgICAgICAgIGluIEJ4Q3hIeFcgZm9ybWF0LgogICAgICAgICAgaW5wdXRfc2l6ZSAodHVwbGUoaW50LCBpbnQpKTogVGhlIHNpemUgb2YgdGhlIGltYWdlIGlucHV0IHRvIHRoZQogICAgICAgICAgICBtb2RlbCwgaW4gKEgsIFcpIGZvcm1hdC4gVXNlZCB0byByZW1vdmUgcGFkZGluZy4KICAgICAgICAgIG9yaWdpbmFsX3NpemUgKHR1cGxlKGludCwgaW50KSk6IFRoZSBvcmlnaW5hbCBzaXplIG9mIHRoZSBpbWFnZQogICAgICAgICAgICBiZWZvcmUgcmVzaXppbmcgZm9yIGlucHV0IHRvIHRoZSBtb2RlbCwgaW4gKEgsIFcpIGZvcm1hdC4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICh0b3JjaC5UZW5zb3IpOiBCYXRjaGVkIG1hc2tzIGluIEJ4Q3hIeFcgZm9ybWF0LCB3aGVyZSAoSCwgVykKICAgICAgICAgICAgaXMgZ2l2ZW4gYnkgb3JpZ2luYWxfc2l6ZS4KICAgICAgICAiIiIKICAgICAgICAjIHBsdC5zdWJwbG90KDEsIDIsIDIpCiAgICAgICAgIyBwbHQuaW1zaG93KG1hc2tzWzBdLnBlcm11dGUoMSwgMiwgMCkuZGV0YWNoKCkuY3B1KCkubnVtcHkoKSkKICAgICAgICAjIHBsdC5zaG93KCkKICAgICAgICBtYXNrcyA9IEYuaW50ZXJwb2xhdGUobWFza3MsICg1MTIsIDUxMiksIG1vZGU9ImJpbGluZWFyIikKCiAgICAgICAgcmV0dXJuIG1hc2tzCgogICAgZGVmIHByZXByb2Nlc3Moc2VsZiwgeDogdG9yY2guVGVuc29yKSAtPiB0b3JjaC5UZW5zb3I6CiAgICAgICAgIiIiTm9ybWFsaXplIHBpeGVsIHZhbHVlcyBhbmQgcGFkIHRvIGEgc3F1YXJlIGlucHV0LiIiIgogICAgICAgICMgTm9ybWFsaXplIGNvbG9ycwogICAgICAgIHggPSAoeCAtIHNlbGYucGl4ZWxfbWVhbikgLyBzZWxmLnBpeGVsX3N0ZAoKICAgICAgICB4ID0gRi5pbnRlcnBvbGF0ZSh4LnVuc3F1ZWV6ZSgwKSwgKHNlbGYuaW1hZ2VfZW5jb2Rlci5pbWdfc2l6ZSwgc2VsZi5pbWFnZV9lbmNvZGVyLmltZ19zaXplKSwgbW9kZT0ibmVhcmVzdCIpCiAgICAgICAgIyBwbHQuc3VicGxvdCgxLCAyLCAxKQogICAgICAgICMgcGx0Lmltc2hvdyh4WzBdLnBlcm11dGUoMSwgMiwgMCkuZGV0YWNoKCkuY3B1KCkubnVtcHkoKSkKICAgICAgICByZXR1cm4geAo=
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# All rights reserved.
+import cv2
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+
+import os.path as ops
+import torch
+from torch import nn, Tensor
+from torch.nn import functional as F
+
+from typing import Any, Dict, List, Tuple, Union
+
+from .image_encoder import ImageEncoderViT
+from .mask_decoder import MaskDecoder
+from .prompt_encoder import PromptEncoder
+from .IRSAM_encoder import compute_gradient_prior
+
+import matplotlib.pyplot as plt
+
+
+class Sam(nn.Module):
+    mask_threshold: float = 0.0
+    image_format: str = "RGB"
+
+    def __init__(
+        self,
+        image_encoder: ImageEncoderViT,
+        prompt_encoder: PromptEncoder,
+        mask_decoder: MaskDecoder,
+        pixel_mean: List[float] = [123.675, 116.28, 103.53],
+        pixel_std: List[float] = [58.395, 57.12, 57.375],
+        use_gradient_prior: bool = True,
+    ) -> None:
+        """
+        SAM predicts object masks from an image and input prompts.
+
+        Arguments:
+          image_encoder (ImageEncoderViT): The backbone used to encode the
+            image into image embeddings that allow for efficient mask prediction.
+          prompt_encoder (PromptEncoder): Encodes various types of input prompts.
+          mask_decoder (MaskDecoder): Predicts masks from the image embeddings
+            and encoded prompts.
+          pixel_mean (list(float)): Mean values for normalizing pixels in the input image.
+          pixel_std (list(float)): Std values for normalizing pixels in the input image.
+          use_gradient_prior (bool): Whether to compute the gradient prior from the
+            original image and feed it to the encoder's gradient compensation branch.
+        """
+        super().__init__()
+        self.image_encoder = image_encoder
+        self.prompt_encoder = prompt_encoder
+        self.mask_decoder = mask_decoder
+
+        self.use_gradient_prior = use_gradient_prior
+
+        self.register_buffer("pixel_mean", torch.Tensor(pixel_mean).view(-1, 1, 1), False)
+        self.register_buffer("pixel_std", torch.Tensor(pixel_std).view(-1, 1, 1), False)
+
+    @property
+    def device(self) -> Any:
+        return self.pixel_mean.device
+
+    def forward(
+        self,
+        batched_input: List[Dict[str, Any]],
+    ) -> [Tensor, Tensor]:
+        """
+        Predicts masks end-to-end from provided images and prompts.
+        If prompts are not known in advance, using SamPredictor is
+        recommended over calling the model directly.
+
+        Arguments:
+          batched_input (list(dict)): A list over input images, each a
+            dictionary with the following keys. A prompt key can be
+            excluded if it is not present.
+              'image': The image as a torch tensor in 3xHxW format,
+                already transformed for input to the model.
+              'original_size': (tuple(int, int)) The original size of
+                the image before transformation, as (H, W).
+              'point_coords': (torch.Tensor) Batched point prompts for
+                this image, with shape BxNx2. Already transformed to the
+                input frame of the model.
+              'point_labels': (torch.Tensor) Batched labels for point prompts,
+                with shape BxN.
+              'boxes': (torch.Tensor) Batched box inputs, with shape Bx4.
+                Already transformed to the input frame of the model.
+              'mask_inputs': (torch.Tensor) Batched mask inputs to the model,
+                in the form Bx1xHxW.
+          multimask_output (bool): Whether the model should predict multiple
+            disambiguating masks, or return a single mask.
+
+        Returns:
+          (list(dict)): A list over input images, where each element is
+            as dictionary with the following keys.
+              'masks': (torch.Tensor) Batched binary mask predictions,
+                with shape BxCxHxW, where B is the number of input promts,
+                C is determiend by multimask_output, and (H, W) is the
+                original size of the image.
+              'iou_predictions': (torch.Tensor) The model's predictions
+                of mask quality, in shape BxC.
+              'low_res_logits': (torch.Tensor) Low resolution logits with
+                shape BxCxHxW, where H=W=256. Can be passed as mask input
+                to subsequent iterations of prediction.
+        """
+
+        input_images = torch.cat([self.preprocess(x["image"]) for x in batched_input], dim=0)
+
+        grad_prior = None
+        if self.use_gradient_prior and getattr(
+                self.image_encoder, "gradient_compensation", None) is not None:
+            grad_prior = torch.cat([
+                compute_gradient_prior(F.interpolate(
+                    x["image"].unsqueeze(0).float(),
+                    size=input_images.shape[-2:], mode="bilinear", align_corners=False))
+                for x in batched_input
+            ], dim=0)
+            image_embeddings, edge_embeddings = self.image_encoder(
+                input_images, grad_prior=grad_prior)
+        else:
+            image_embeddings, edge_embeddings = self.image_encoder(input_images)
+        # print("max:", torch.max(image_embeddings[0][211]), " min:", torch.min(image_embeddings[0][211]))
+        # print(image_embeddings.shape)
+        #
+        # plt.imshow(image_embeddings[0][211].cpu().detach().numpy()*255.)
+        # plt.show()
+        # cv2.imwrite("show_sample.png", image_embeddings[0][211].cpu().detach().numpy()*255.)
+
+        outputs = []
+        for image_record, curr_embedding, edge_embedding in zip(batched_input, image_embeddings, edge_embeddings):
+            sparse_embeddings, dense_embeddings = self.prompt_encoder(
+                points=None,
+                boxes=image_record.get("boxes", None),
+                masks=image_record.get("mask_inputs", None),
+            )
+
+            low_res_mask, low_res_edge, iou = self.mask_decoder(
+                image_embeddings=curr_embedding.unsqueeze(0),
+                edge_embeddings=edge_embedding.unsqueeze(0),
+                image_pe=self.prompt_encoder.get_dense_pe(),
+                sparse_prompt_embeddings=sparse_embeddings,
+                dense_prompt_embeddings=dense_embeddings,
+            )
+
+            mask = self.postprocess_masks(
+                low_res_mask,
+                input_size=image_record["image"].shape[-2:],
+                original_size=image_record["original_size"],
+            )
+
+            edge = self.postprocess_masks(
+                low_res_edge,
+                input_size=image_record["image"].shape[-2:],
+                original_size=image_record["original_size"],
+            )
+
+            outputs.append(
+                {
+                    "mask": mask,
+                    "edge": edge,
+                    "low_res_logits": low_res_mask,
+                }
+            )
+        masks = torch.cat([x["mask"] for x in outputs], dim=0)
+        edges = torch.cat([x["edge"] for x in outputs], dim=0)
+
+        return masks, edges
+
+    def postprocess_masks(
+        self,
+        masks: torch.Tensor,
+        input_size: Tuple[int, ...],
+        original_size: Tuple[int, ...],
+    ) -> torch.Tensor:
+        """
+        Remove padding and upscale masks to the original image size.
+
+        Arguments:
+          masks (torch.Tensor): Batched masks from the mask_decoder,
+            in BxCxHxW format.
+          input_size (tuple(int, int)): The size of the image input to the
+            model, in (H, W) format. Used to remove padding.
+          original_size (tuple(int, int)): The original size of the image
+            before resizing for input to the model, in (H, W) format.
+
+        Returns:
+          (torch.Tensor): Batched masks in BxCxHxW format, where (H, W)
+            is given by original_size.
+        """
+        # plt.subplot(1, 2, 2)
+        # plt.imshow(masks[0].permute(1, 2, 0).detach().cpu().numpy())
+        # plt.show()
+        masks = F.interpolate(masks, (512, 512), mode="bilinear")
+
+        return masks
+
+    def preprocess(self, x: torch.Tensor) -> torch.Tensor:
+        """Normalize pixel values and pad to a square input."""
+        # Normalize colors
+        x = (x - self.pixel_mean) / self.pixel_std
+
+        x = F.interpolate(x.unsqueeze(0), (self.image_encoder.img_size, self.image_encoder.img_size), mode="nearest")
+        # plt.subplot(1, 2, 1)
+        # plt.imshow(x[0].permute(1, 2, 0).detach().cpu().numpy())
+        return x

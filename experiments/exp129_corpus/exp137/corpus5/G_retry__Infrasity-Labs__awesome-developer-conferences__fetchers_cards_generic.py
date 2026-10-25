@@ -1,1 +1,154 @@
-aW1wb3J0IGpzb24KaW1wb3J0IHJlCmltcG9ydCB0aW1lCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCmZyb20gdXJsbGliLnBhcnNlIGltcG9ydCB1cmxqb2luLCB1cmxwYXJzZQoKZnJvbSBiczQgaW1wb3J0IEJlYXV0aWZ1bFNvdXAKCmZyb20gZ2VuZXJpY19jb21tb24gaW1wb3J0IGh0dHBfZ2V0LCBidWlsZF9ldmVudCwgZmluYWxpemUsIGNsZWFuCgojIFNlcnZlci1yZW5kZXJlZCBldmVudCBsaXN0aW5nIHBhZ2VzIHdpdGhvdXQgc3RydWN0dXJlZCBkYXRhLiBFYWNoIGNhcmQgaXMKIyBkZXRlY3RlZCBoZXVyaXN0aWNhbGx5OiB0aGUgc21hbGxlc3QgZWxlbWVudCBob2xkaW5nIGV4YWN0bHkgb25lIGRhdGUsIG9uZQojIGxpbmsgYW5kIGEgaGVhZGluZy9saW5rIHRleHQuIEFkZCBhIFVSTCBoZXJlIHRvIGFkZCBhIHNvdXJjZS4KU09VUkNFUyA9IFsKICAgICJodHRwczovL3d3dy5weXRob24ub3JnL2V2ZW50cy8iLAogICAgImh0dHBzOi8vd3d3LnBocC5uZXQvY29uZmVyZW5jZXMvIiwKICAgICJodHRwczovL3d3dy5pbmZvcS5jb20vZXZlbnRzLyIsCiAgICAiaHR0cHM6Ly90ZWNoLmV1L2V2ZW50cyIsCiAgICAiaHR0cHM6Ly93d3cuZG9ja2VyLmNvbS9ldmVudHMvIiwKICAgICJodHRwczovL2F3cy5hbWF6b24uY29tL2V2ZW50cy9jb21tdW5pdHktZGF5LyIsCiAgICAiaHR0cHM6Ly93d3cuc2FuaXR5LmlvL2V2ZW50cyIsCiAgICAiaHR0cHM6Ly93d3cuYXRsYXNzaWFuLmNvbS9jb21wYW55L2V2ZW50cyIsCiAgICAiaHR0cHM6Ly93d3cuY29ja3JvYWNobGFicy5jb20vZXZlbnRzLyIsCiAgICAiaHR0cHM6Ly93d3cucGFnZXJkdXR5LmNvbS9ldmVudHMvIiwKICAgICJodHRwczovL3d3dy5mYXN0bHkuY29tL2V2ZW50cyIsCiAgICAiaHR0cHM6Ly93d3cudGlnZXJhLmlvL2V2ZW50cy8iLAogICAgImh0dHBzOi8vd3d3Lml0bmV3cy5jb20uYXUvZXZlbnRzIiwKICAgICJodHRwczovL3d3dy5zdGFydHVwdGlja2VyLmNoL2VuL2V2ZW50cyIsCiAgICAiaHR0cHM6Ly93d3cubmV4dGV2ZW50LmFpL3VuaXRlZC1hcmFiLWVtaXJhdGVzL2R1YmFpIiwKICAgICJodHRwczovL2V4cG9zaWduYWwuY29tLyIsCiAgICAiaHR0cHM6Ly9hYm91dC5naXRsYWIuY29tL2V2ZW50cy8iLAogICAgImh0dHBzOi8vbGFibGFiLmFpL2V2ZW50IiwKICAgICJodHRwczovL3Fjb25mZXJlbmNlcy5jb20vIiwKICAgICJodHRwczovL2dvLmRldi93aWtpL0NvbmZlcmVuY2VzIiwKICAgICJodHRwczovL3ZlcmNlbC5jb20vZXZlbnRzIiwKICAgICJodHRwczovL3d3dy5jaW8uY29tL2V2ZW50cy8iLAogICAgImh0dHBzOi8vd3d3LmNzb29ubGluZS5jb20vZXZlbnRzLyIsCiAgICAiaHR0cHM6Ly93d3cuZGF0YXZlcnNpdHkubmV0L2V2ZW50cy8iLAogICAgImh0dHBzOi8vd3d3Lm9wZW5zdGFjay5vcmcvZXZlbnRzLyIsCiAgICAiaHR0cHM6Ly93d3cuc2Fucy5vcmcvY3liZXItc2VjdXJpdHktdHJhaW5pbmctZXZlbnRzLyIsCiAgICAiaHR0cHM6Ly93d3cudGVycmFwaW5uLmNvbS9leGhpYml0aW9uLyIsCiAgICAiaHR0cHM6Ly9pbmM0Mi5jb20vZXZlbnRzLyIsCiAgICAiaHR0cHM6Ly9yZWRpcy5pby9ldmVudHMvIiwKICAgICJodHRwczovL3NueWsuaW8vZXZlbnRzLyIsCiAgICAiaHR0cHM6Ly93d3cuY2Fub25pY2FsLmNvbS9ldmVudHMiLAogICAgImh0dHBzOi8vd3d3Lm5hc3Njb20uaW4vZXZlbnRzIiwKICAgICJodHRwczovL3d3dy5uZXRsaWZ5LmNvbS9ldmVudHMvIiwKICAgICJodHRwczovL3d3dy50ZWNoY2VudHJhbC5jby56YS9ldmVudHMiLAogICAgImh0dHBzOi8vYWxpZW5zLnpvbmUvZXZlbnRzIiwKICAgICJodHRwczovL2V2ZW50c3RvcHRlbi5jb20vIiwKICAgICJodHRwczovL2R1YmFpY29uLmFwcC9lbi9ldmVudHMiLAogICAgImh0dHBzOi8vZXZlbnRpZnkuaW8vIiwKICAgICJodHRwczovL3d3dy5vcGVuc2VzYW1lLmNvbS9ldmVudHMiLApdCgojIFNpdGVzIHRoYXQgb25seSBsaXN0IGRldmVsb3Blci90ZWNoIGV2ZW50czogc2tpcCB0aGUga2V5d29yZCBmaWx0ZXIuCkRFVl9PTkxZID0gKCJweXRob24ub3JnIiwgInBocC5uZXQiLCAiaW5mb3EuY29tIiwgImRvY2tlci5jb20iLCAiYXdzLmFtYXpvbi5jb20iLAogICAgICAgICAgICAic2FuaXR5LmlvIiwgImF0bGFzc2lhbi5jb20iLCAiY29ja3JvYWNobGFicy5jb20iLCAicGFnZXJkdXR5LmNvbSIsCiAgICAgICAgICAgICJmYXN0bHkuY29tIiwgInRpZ2VyYS5pbyIsICJnby5kZXYiLCAiZ2l0bGFiLmNvbSIsICJsYWJsYWIuYWkiLAogICAgICAgICAgICAicWNvbmZlcmVuY2VzLmNvbSIsICJ2ZXJjZWwuY29tIiwgIm9wZW5zdGFjay5vcmciLCAic2Fucy5vcmciLCAibmV0bGlmeS5jb20iLAogICAgICAgICAgICAic255ay5pbyIsICJyZWRpcy5pbyIsICJjYW5vbmljYWwuY29tIikKCk1PTlRIUyA9IHttOiBpIGZvciBpLCBtIGluIGVudW1lcmF0ZSgKICAgIFsiamFuIiwgImZlYiIsICJtYXIiLCAiYXByIiwgIm1heSIsICJqdW4iLCAianVsIiwgImF1ZyIsICJzZXAiLCAib2N0IiwgIm5vdiIsICJkZWMiXSwgMSl9Ck1PTiA9IHInKEphbnxGZWJ8TWFyfEFwcnxNYXl8SnVufEp1bHxBdWd8U2VwfE9jdHxOb3Z8RGVjKVthLXpdKlwuPycKIyAiT2N0IDIyLCAyMDI2IiwgIjIyIE9jdG9iZXIgMjAyNiIsICJPY3QgMjIgMjAyNiIKREFURV9QQVRURVJOUyA9IFsKICAgIHJlLmNvbXBpbGUocmYnXGJ7TU9OfVxzKyhcZHt7MSwyfX0pKD86XHMqWy3igJNdXHMqXGR7ezEsMn19KT8sP1xzKygyMFxke3syfX0pXGInLCByZS5JKSwKICAgIHJlLmNvbXBpbGUocmYnXGIoXGR7ezEsMn19KSg/OlxzKlst4oCTXVxzKlxke3sxLDJ9fSk/XHMre01PTn0sP1xzKygyMFxke3syfX0pXGInLCByZS5JKSwKXQpJU08gPSByZS5jb21waWxlKHInXGIoMjBcZHsyfSktKFxkezJ9KS0oXGR7Mn0pXGInKQoKCmRlZiBmaW5kX2RhdGVzKHRleHQpOgogICAgZm91bmQgPSBbXQogICAgZm9yIG0gaW4gSVNPLmZpbmRpdGVyKHRleHQpOgogICAgICAgIGZvdW5kLmFwcGVuZCgoaW50KG0uZ3JvdXAoMSkpLCBpbnQobS5ncm91cCgyKSksIGludChtLmdyb3VwKDMpKSkpCiAgICBtID0gREFURV9QQVRURVJOU1swXS5zZWFyY2godGV4dCkKICAgIGlmIG06CiAgICAgICAgZm91bmQuYXBwZW5kKChpbnQobS5ncm91cCgzKSksIE1PTlRIU1ttLmdyb3VwKDEpLmxvd2VyKClbOjNdXSwgaW50KG0uZ3JvdXAoMikpKSkKICAgIG0gPSBEQVRFX1BBVFRFUk5TWzFdLnNlYXJjaCh0ZXh0KQogICAgaWYgbToKICAgICAgICBmb3VuZC5hcHBlbmQoKGludChtLmdyb3VwKDMpKSwgTU9OVEhTW20uZ3JvdXAoMikubG93ZXIoKVs6M11dLCBpbnQobS5ncm91cCgxKSkpKQogICAgb3V0ID0gc2V0KCkKICAgIGZvciB5LCBtbywgZCBpbiBmb3VuZDoKICAgICAgICB0cnk6CiAgICAgICAgICAgIG91dC5hZGQoZGF0ZXRpbWUoeSwgbW8sIGQpLmRhdGUoKSkKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgcGFzcwogICAgcmV0dXJuIG91dAoKCmRlZiBjYXJkX25hbWUoZWwpOgogICAgZm9yIHRhZyBpbiAoJ2gxJywgJ2gyJywgJ2gzJywgJ2g0JywgJ2g1Jyk6CiAgICAgICAgaCA9IGVsLmZpbmQodGFnKQogICAgICAgIGlmIGggYW5kIGguZ2V0X3RleHQoc3RyaXA9VHJ1ZSk6CiAgICAgICAgICAgIHJldHVybiBjbGVhbihoLmdldF90ZXh0KCcgJywgc3RyaXA9VHJ1ZSkpCiAgICBhID0gZWwuZmluZCgnYScsIGhyZWY9VHJ1ZSkKICAgIHJldHVybiBjbGVhbihhLmdldF90ZXh0KCcgJywgc3RyaXA9VHJ1ZSkpIGlmIGEgZWxzZSAnJwoKCmRlZiBmZXRjaF9wYWdlKHVybCk6CiAgICByZXNwID0gaHR0cF9nZXQodXJsKQogICAgaWYgbm90IHJlc3A6CiAgICAgICAgcmV0dXJuIFtdLCAwCiAgICBzb3VwID0gQmVhdXRpZnVsU291cChyZXNwLnRleHQsICdodG1sLnBhcnNlcicpCiAgICBmb3IgdCBpbiBzb3VwKFsnc2NyaXB0JywgJ3N0eWxlJywgJ25hdicsICdmb290ZXInLCAnaGVhZGVyJ10pOgogICAgICAgIHQuZGVjb21wb3NlKCkKICAgIG91dCwgcmF3LCBzZWVuID0gW10sIDAsIHNldCgpCiAgICBmb3IgZWwgaW4gc291cC5maW5kX2FsbChbJ2FydGljbGUnLCAnbGknLCAnZGl2JywgJ3RyJywgJ3NlY3Rpb24nXSk6CiAgICAgICAgdGV4dCA9IGVsLmdldF90ZXh0KCcgJywgc3RyaXA9VHJ1ZSkKICAgICAgICBpZiBub3QgKDI1IDw9IGxlbih0ZXh0KSA8PSA1MDApOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGRhdGVzID0gZmluZF9kYXRlcyh0ZXh0KQogICAgICAgIGlmIGxlbihkYXRlcykgIT0gMSBvciBub3QgZWwuZmluZCgnYScsIGhyZWY9VHJ1ZSk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgIyBrZWVwIG9ubHkgdGhlIHNtYWxsZXN0IG1hdGNoaW5nIGVsZW1lbnQKICAgICAgICBpZiBhbnkobGVuKGMuZ2V0X3RleHQoJyAnLCBzdHJpcD1UcnVlKSkgPj0gMjUgYW5kIGZpbmRfZGF0ZXMoYy5nZXRfdGV4dCgnICcsIHN0cmlwPVRydWUpKQogICAgICAgICAgICAgICBhbmQgYy5maW5kKCdhJywgaHJlZj1UcnVlKSBmb3IgYyBpbiBlbC5maW5kX2FsbChbJ2FydGljbGUnLCAnbGknLCAnZGl2JywgJ3RyJ10sIHJlY3Vyc2l2ZT1UcnVlKSk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbmFtZSA9IGNhcmRfbmFtZShlbCkKICAgICAgICBpZiBuYW1lLnN0YXJ0c3dpdGgoJ2h0dHAnKToKICAgICAgICAgICAgbmFtZSA9IHVybHBhcnNlKG5hbWUpLm5ldGxvYy5yZXBsYWNlKCd3d3cuJywgJycpCiAgICAgICAgaWYgbm90ICg2IDw9IGxlbihuYW1lKSA8PSAxNTApOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHJhdyArPSAxCiAgICAgICAgc3RhcnQgPSBuZXh0KGl0ZXIoZGF0ZXMpKQogICAgICAgIGxpbmsgPSB1cmxqb2luKHVybCwgZWwuZmluZCgnYScsIGhyZWY9VHJ1ZSlbJ2hyZWYnXSkKICAgICAgICBrZXkgPSAobmFtZS5sb3dlcigpLCBzdGFydCkKICAgICAgICBpZiBrZXkgaW4gc2VlbjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzZWVuLmFkZChrZXkpCiAgICAgICAgb3V0LmFwcGVuZCgoYnVpbGRfZXZlbnQobmFtZSwgc3RhcnQsIHN0YXJ0LCAnJywgbGluayksIHN0YXJ0KSkKICAgIHJldHVybiBvdXQsIHJhdwoKCmRlZiBtYWluKCk6CiAgICBzY29wZWQsIGZpbHRlcmVkLCByYXdfdG90YWwgPSBbXSwgW10sIDAKICAgIGZvciB1cmwgaW4gU09VUkNFUzoKICAgICAgICBldnMsIHJhdyA9IGZldGNoX3BhZ2UodXJsKQogICAgICAgIHByaW50KGYiW0NhcmRzXSB7dXJsfSAtPiB7bGVuKGV2cyl9IGNhcmRzIikKICAgICAgICAoc2NvcGVkIGlmIGFueShkIGluIHVybCBmb3IgZCBpbiBERVZfT05MWSkgZWxzZSBmaWx0ZXJlZCkuZXh0ZW5kKGV2cykKICAgICAgICByYXdfdG90YWwgKz0gcmF3CiAgICAgICAgdGltZS5zbGVlcCgwLjUpCiAgICBrZXB0ID0gZmluYWxpemUoZmlsdGVyZWQsICJDYXJkcyIsICJldmVudHNfY2FyZHNfZ2VuZXJpYy5qc29uIiwgcmF3X3RvdGFsKQogICAga2VwdF9zY29wZWQgPSBmaW5hbGl6ZShzY29wZWQsICJDYXJkcy1kZXYiLCAiZXZlbnRzX2NhcmRzX2dlbmVyaWMuanNvbiIsIDAsIHJlbGV2YW5jZT1GYWxzZSkKICAgIG1lcmdlZCA9IGtlcHQgKyBrZXB0X3Njb3BlZAogICAgd2l0aCBvcGVuKCJldmVudHNfY2FyZHNfZ2VuZXJpYy5qc29uIiwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChtZXJnZWQsIGYsIGluZGVudD0yKQogICAgcHJpbnQoZiJTYXZlZCB7bGVuKG1lcmdlZCl9IGV2ZW50cyB0byBldmVudHNfY2FyZHNfZ2VuZXJpYy5qc29uIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+import json
+import re
+import time
+from datetime import datetime
+from urllib.parse import urljoin, urlparse
+
+from bs4 import BeautifulSoup
+
+from generic_common import http_get, build_event, finalize, clean
+
+# Server-rendered event listing pages without structured data. Each card is
+# detected heuristically: the smallest element holding exactly one date, one
+# link and a heading/link text. Add a URL here to add a source.
+SOURCES = [
+    "https://www.python.org/events/",
+    "https://www.php.net/conferences/",
+    "https://www.infoq.com/events/",
+    "https://tech.eu/events",
+    "https://www.docker.com/events/",
+    "https://aws.amazon.com/events/community-day/",
+    "https://www.sanity.io/events",
+    "https://www.atlassian.com/company/events",
+    "https://www.cockroachlabs.com/events/",
+    "https://www.pagerduty.com/events/",
+    "https://www.fastly.com/events",
+    "https://www.tigera.io/events/",
+    "https://www.itnews.com.au/events",
+    "https://www.startupticker.ch/en/events",
+    "https://www.nextevent.ai/united-arab-emirates/dubai",
+    "https://exposignal.com/",
+    "https://about.gitlab.com/events/",
+    "https://lablab.ai/event",
+    "https://qconferences.com/",
+    "https://go.dev/wiki/Conferences",
+    "https://vercel.com/events",
+    "https://www.cio.com/events/",
+    "https://www.csoonline.com/events/",
+    "https://www.dataversity.net/events/",
+    "https://www.openstack.org/events/",
+    "https://www.sans.org/cyber-security-training-events/",
+    "https://www.terrapinn.com/exhibition/",
+    "https://inc42.com/events/",
+    "https://redis.io/events/",
+    "https://snyk.io/events/",
+    "https://www.canonical.com/events",
+    "https://www.nasscom.in/events",
+    "https://www.netlify.com/events/",
+    "https://www.techcentral.co.za/events",
+    "https://aliens.zone/events",
+    "https://eventstopten.com/",
+    "https://dubaicon.app/en/events",
+    "https://eventify.io/",
+    "https://www.opensesame.com/events",
+]
+
+# Sites that only list developer/tech events: skip the keyword filter.
+DEV_ONLY = ("python.org", "php.net", "infoq.com", "docker.com", "aws.amazon.com",
+            "sanity.io", "atlassian.com", "cockroachlabs.com", "pagerduty.com",
+            "fastly.com", "tigera.io", "go.dev", "gitlab.com", "lablab.ai",
+            "qconferences.com", "vercel.com", "openstack.org", "sans.org", "netlify.com",
+            "snyk.io", "redis.io", "canonical.com")
+
+MONTHS = {m: i for i, m in enumerate(
+    ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
+MON = r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?'
+# "Oct 22, 2026", "22 October 2026", "Oct 22 2026"
+DATE_PATTERNS = [
+    re.compile(rf'\b{MON}\s+(\d{{1,2}})(?:\s*[-–]\s*\d{{1,2}})?,?\s+(20\d{{2}})\b', re.I),
+    re.compile(rf'\b(\d{{1,2}})(?:\s*[-–]\s*\d{{1,2}})?\s+{MON},?\s+(20\d{{2}})\b', re.I),
+]
+ISO = re.compile(r'\b(20\d{2})-(\d{2})-(\d{2})\b')
+
+
+def find_dates(text):
+    found = []
+    for m in ISO.finditer(text):
+        found.append((int(m.group(1)), int(m.group(2)), int(m.group(3))))
+    m = DATE_PATTERNS[0].search(text)
+    if m:
+        found.append((int(m.group(3)), MONTHS[m.group(1).lower()[:3]], int(m.group(2))))
+    m = DATE_PATTERNS[1].search(text)
+    if m:
+        found.append((int(m.group(3)), MONTHS[m.group(2).lower()[:3]], int(m.group(1))))
+    out = set()
+    for y, mo, d in found:
+        try:
+            out.add(datetime(y, mo, d).date())
+        except ValueError:
+            pass
+    return out
+
+
+def card_name(el):
+    for tag in ('h1', 'h2', 'h3', 'h4', 'h5'):
+        h = el.find(tag)
+        if h and h.get_text(strip=True):
+            return clean(h.get_text(' ', strip=True))
+    a = el.find('a', href=True)
+    return clean(a.get_text(' ', strip=True)) if a else ''
+
+
+def fetch_page(url):
+    resp = http_get(url)
+    if not resp:
+        return [], 0
+    soup = BeautifulSoup(resp.text, 'html.parser')
+    for t in soup(['script', 'style', 'nav', 'footer', 'header']):
+        t.decompose()
+    out, raw, seen = [], 0, set()
+    for el in soup.find_all(['article', 'li', 'div', 'tr', 'section']):
+        text = el.get_text(' ', strip=True)
+        if not (25 <= len(text) <= 500):
+            continue
+        dates = find_dates(text)
+        if len(dates) != 1 or not el.find('a', href=True):
+            continue
+        # keep only the smallest matching element
+        if any(len(c.get_text(' ', strip=True)) >= 25 and find_dates(c.get_text(' ', strip=True))
+               and c.find('a', href=True) for c in el.find_all(['article', 'li', 'div', 'tr'], recursive=True)):
+            continue
+        name = card_name(el)
+        if name.startswith('http'):
+            name = urlparse(name).netloc.replace('www.', '')
+        if not (6 <= len(name) <= 150):
+            continue
+        raw += 1
+        start = next(iter(dates))
+        link = urljoin(url, el.find('a', href=True)['href'])
+        key = (name.lower(), start)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append((build_event(name, start, start, '', link), start))
+    return out, raw
+
+
+def main():
+    scoped, filtered, raw_total = [], [], 0
+    for url in SOURCES:
+        evs, raw = fetch_page(url)
+        print(f"[Cards] {url} -> {len(evs)} cards")
+        (scoped if any(d in url for d in DEV_ONLY) else filtered).extend(evs)
+        raw_total += raw
+        time.sleep(0.5)
+    kept = finalize(filtered, "Cards", "events_cards_generic.json", raw_total)
+    kept_scoped = finalize(scoped, "Cards-dev", "events_cards_generic.json", 0, relevance=False)
+    merged = kept + kept_scoped
+    with open("events_cards_generic.json", "w", encoding="utf-8") as f:
+        json.dump(merged, f, indent=2)
+    print(f"Saved {len(merged)} events to events_cards_generic.json")
+
+
+if __name__ == "__main__":
+    main()

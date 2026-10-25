@@ -1,1 +1,197 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKS3VzdG9taXphdGlvbiBTY2hlbWEgVmFsaWRhdG9yCgpWYWxpZGF0ZXMgS3ViZXJuZXRlcyBLdXN0b21pemF0aW9uIGZpbGVzIGFnYWluc3QgdGhlIG9mZmljaWFsIEpTT04gc2NoZW1hLgpDYW4gYmUgcnVuIHN0YW5kYWxvbmUgb3IgYXMgcGFydCBvZiBDSS9DRCBwaXBlbGluZXMuCgpVc2FnZToKICAgIHB5dGhvbjMgc2NyaXB0cy92YWxpZGF0ZS1rdXN0b21pemF0aW9ucy5weSBbZmlsZV9vcl9kaXJlY3RvcnldCiAgICAKRXhhbXBsZXM6CiAgICAjIFZhbGlkYXRlIHNpbmdsZSBmaWxlCiAgICBweXRob24zIHNjcmlwdHMvdmFsaWRhdGUta3VzdG9taXphdGlvbnMucHkga3ViZXJuZXRlcy9hcHBzL2FwcC9rdXN0b21pemF0aW9uLnlhbWwKICAgIAogICAgIyBWYWxpZGF0ZSBhbGwga3VzdG9taXphdGlvbiBmaWxlcyBpbiBkaXJlY3RvcnkKICAgIHB5dGhvbjMgc2NyaXB0cy92YWxpZGF0ZS1rdXN0b21pemF0aW9ucy5weSBrdWJlcm5ldGVzLwogICAgCiAgICAjIFZhbGlkYXRlIGFsbCBrdXN0b21pemF0aW9uIGZpbGVzIChkZWZhdWx0KQogICAgcHl0aG9uMyBzY3JpcHRzL3ZhbGlkYXRlLWt1c3RvbWl6YXRpb25zLnB5CiIiIgoKaW1wb3J0IGpzb24KaW1wb3J0IHlhbWwKaW1wb3J0IHN5cwppbXBvcnQgb3MKaW1wb3J0IGdsb2IKaW1wb3J0IGFyZ3BhcnNlCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgVHVwbGUsIExpc3QsIE9wdGlvbmFsCgp0cnk6CiAgICBmcm9tIGpzb25zY2hlbWEgaW1wb3J0IHZhbGlkYXRlLCBWYWxpZGF0aW9uRXJyb3IKICAgIGltcG9ydCByZXF1ZXN0cwpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBwcmludCgi4p2MIE1pc3NpbmcgZGVwZW5kZW5jaWVzLiBJbnN0YWxsIHdpdGg6IikKICAgIHByaW50KCIgICBwaXAzIGluc3RhbGwganNvbnNjaGVtYSByZXF1ZXN0cyBweXlhbWwiKQogICAgcHJpbnQoIiAgICMgb3IiKQogICAgcHJpbnQoIiAgIHN1ZG8gYXB0LWdldCBpbnN0YWxsIHB5dGhvbjMtanNvbnNjaGVtYSBweXRob24zLXJlcXVlc3RzIHB5dGhvbjMteWFtbCIpCiAgICBzeXMuZXhpdCgxKQoKCmNsYXNzIEt1c3RvbWl6YXRpb25WYWxpZGF0b3I6CiAgICAiIiJWYWxpZGF0ZXMgS3VzdG9taXphdGlvbiBmaWxlcyBhZ2FpbnN0IHRoZSBvZmZpY2lhbCBKU09OIHNjaGVtYSIiIgogICAgCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5zY2hlbWEgPSBOb25lCiAgICAgICAgc2VsZi5zY2hlbWFfdXJsID0gJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9TY2hlbWFTdG9yZS9zY2hlbWFzdG9yZS9tYXN0ZXIvc3JjL3NjaGVtYXMvanNvbi9rdXN0b21pemF0aW9uLmpzb24nCiAgICAKICAgIGRlZiBsb2FkX3NjaGVtYShzZWxmKSAtPiBib29sOgogICAgICAgICIiIkxvYWQgdGhlIEt1c3RvbWl6YXRpb24gc2NoZW1hIGZyb20gU2NoZW1hU3RvcmUiIiIKICAgICAgICBpZiBzZWxmLnNjaGVtYSBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICAgICAgCiAgICAgICAgdHJ5OgogICAgICAgICAgICBwcmludCgi8J+TpSBEb3dubG9hZGluZyBLdXN0b21pemF0aW9uIHNjaGVtYS4uLiIpCiAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHNlbGYuc2NoZW1hX3VybCwgdGltZW91dD0zMCkKICAgICAgICAgICAgcmVzcG9uc2UucmFpc2VfZm9yX3N0YXR1cygpCiAgICAgICAgICAgIHNlbGYuc2NoZW1hID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgICAgIHByaW50KCLinIUgU2NoZW1hIGxvYWRlZCBzdWNjZXNzZnVsbHkiKQogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcHJpbnQoZiLinYwgRmFpbGVkIHRvIGRvd25sb2FkIHNjaGVtYToge2V9IikKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAKICAgIGRlZiB2YWxpZGF0ZV9maWxlKHNlbGYsIGZpbGVfcGF0aDogc3RyKSAtPiBUdXBsZVtib29sLCBPcHRpb25hbFtzdHJdXToKICAgICAgICAiIiJWYWxpZGF0ZSBhIHNpbmdsZSBrdXN0b21pemF0aW9uIGZpbGUiIiIKICAgICAgICB0cnk6CiAgICAgICAgICAgICMgTG9hZCBZQU1MIGZpbGUKICAgICAgICAgICAgd2l0aCBvcGVuKGZpbGVfcGF0aCwgJ3InLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgogICAgICAgICAgICAgICAgZGF0YSA9IHlhbWwuc2FmZV9sb2FkKGYpCiAgICAgICAgICAgIAogICAgICAgICAgICAjIFNraXAgZW1wdHkgZmlsZXMKICAgICAgICAgICAgaWYgbm90IGRhdGE6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UsICJGaWxlIGlzIGVtcHR5IG9yIGNvbnRhaW5zIG5vIFlBTUwgZGF0YSIKICAgICAgICAgICAgCiAgICAgICAgICAgICMgVmFsaWRhdGUgYWdhaW5zdCBzY2hlbWEKICAgICAgICAgICAgdmFsaWRhdGUoaW5zdGFuY2U9ZGF0YSwgc2NoZW1hPXNlbGYuc2NoZW1hKQogICAgICAgICAgICByZXR1cm4gVHJ1ZSwgTm9uZQogICAgICAgICAgICAKICAgICAgICBleGNlcHQgVmFsaWRhdGlvbkVycm9yIGFzIGU6CiAgICAgICAgICAgIGVycm9yX3BhdGggPSAiIOKGkiAiLmpvaW4oc3RyKHApIGZvciBwIGluIGUucGF0aCkgaWYgZS5wYXRoIGVsc2UgInJvb3QiCiAgICAgICAgICAgIHJldHVybiBGYWxzZSwgZiJTY2hlbWEgdmFsaWRhdGlvbiBmYWlsZWQgYXQgJ3tlcnJvcl9wYXRofSc6IHtlLm1lc3NhZ2V9IgogICAgICAgIGV4Y2VwdCB5YW1sLllBTUxFcnJvciBhcyBlOgogICAgICAgICAgICByZXR1cm4gRmFsc2UsIGYiWUFNTCBwYXJzaW5nIGVycm9yOiB7ZX0iCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXR1cm4gRmFsc2UsIGYiRXJyb3IgcHJvY2Vzc2luZyBmaWxlOiB7ZX0iCiAgICAKICAgIGRlZiBmaW5kX2t1c3RvbWl6YXRpb25fZmlsZXMoc2VsZiwgcGF0aDogc3RyKSAtPiBMaXN0W3N0cl06CiAgICAgICAgIiIiRmluZCBhbGwga3VzdG9taXphdGlvbi55YW1sIGZpbGVzIGluIHRoZSBnaXZlbiBwYXRoIiIiCiAgICAgICAgaWYgb3MucGF0aC5pc2ZpbGUocGF0aCk6CiAgICAgICAgICAgIHJldHVybiBbcGF0aF0gaWYgcGF0aC5lbmRzd2l0aCgoJ2t1c3RvbWl6YXRpb24ueWFtbCcsICdrdXN0b21pemF0aW9uLnltbCcpKSBlbHNlIFtdCiAgICAgICAgCiAgICAgICAgIyBTZWFyY2ggZm9yIGt1c3RvbWl6YXRpb24gZmlsZXMKICAgICAgICBwYXR0ZXJucyA9IFsKICAgICAgICAgICAgb3MucGF0aC5qb2luKHBhdGgsICcqKi9rdXN0b21pemF0aW9uLnlhbWwnKSwKICAgICAgICAgICAgb3MucGF0aC5qb2luKHBhdGgsICcqKi9rdXN0b21pemF0aW9uLnltbCcpCiAgICAgICAgXQogICAgICAgIAogICAgICAgIGZpbGVzID0gW10KICAgICAgICBmb3IgcGF0dGVybiBpbiBwYXR0ZXJuczoKICAgICAgICAgICAgZmlsZXMuZXh0ZW5kKGdsb2IuZ2xvYihwYXR0ZXJuLCByZWN1cnNpdmU9VHJ1ZSkpCiAgICAgICAgCiAgICAgICAgcmV0dXJuIHNvcnRlZChzZXQoZmlsZXMpKQogICAgCiAgICBkZWYgdmFsaWRhdGVfcGF0aChzZWxmLCBwYXRoOiBzdHIpIC0+IFR1cGxlW2ludCwgaW50LCBMaXN0W3N0cl1dOgogICAgICAgICIiIlZhbGlkYXRlIGFsbCBrdXN0b21pemF0aW9uIGZpbGVzIGluIHRoZSBnaXZlbiBwYXRoIiIiCiAgICAgICAgZmlsZXMgPSBzZWxmLmZpbmRfa3VzdG9taXphdGlvbl9maWxlcyhwYXRoKQogICAgICAgIAogICAgICAgIGlmIG5vdCBmaWxlczoKICAgICAgICAgICAgcHJpbnQoZiLimqDvuI8gIE5vIGt1c3RvbWl6YXRpb24gZmlsZXMgZm91bmQgaW46IHtwYXRofSIpCiAgICAgICAgICAgIHJldHVybiAwLCAwLCBbXQogICAgICAgIAogICAgICAgIHByaW50KGYi8J+UjSBGb3VuZCB7bGVuKGZpbGVzKX0ga3VzdG9taXphdGlvbiBmaWxlKHMpIHRvIHZhbGlkYXRlIikKICAgICAgICAKICAgICAgICBmYWlsZWRfZmlsZXMgPSBbXQogICAgICAgIHZhbGlkYXRlZF9jb3VudCA9IDAKICAgICAgICAKICAgICAgICBmb3IgZmlsZV9wYXRoIGluIGZpbGVzOgogICAgICAgICAgICBwcmludChmIlxuVmFsaWRhdGluZzoge2ZpbGVfcGF0aH0iKQogICAgICAgICAgICBzdWNjZXNzLCBlcnJvciA9IHNlbGYudmFsaWRhdGVfZmlsZShmaWxlX3BhdGgpCiAgICAgICAgICAgIAogICAgICAgICAgICBpZiBzdWNjZXNzOgogICAgICAgICAgICAgICAgcHJpbnQoZiLinIUgVmFsaWQiKQogICAgICAgICAgICAgICAgdmFsaWRhdGVkX2NvdW50ICs9IDEKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHByaW50KGYi4p2MIHtlcnJvcn0iKQogICAgICAgICAgICAgICAgZmFpbGVkX2ZpbGVzLmFwcGVuZChmaWxlX3BhdGgpCiAgICAgICAgCiAgICAgICAgcmV0dXJuIHZhbGlkYXRlZF9jb3VudCwgbGVuKGZpbGVzKSwgZmFpbGVkX2ZpbGVzCgoKZGVmIG1haW4oKToKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKAogICAgICAgIGRlc2NyaXB0aW9uPSdWYWxpZGF0ZSBLdXN0b21pemF0aW9uIGZpbGVzIGFnYWluc3Qgb2ZmaWNpYWwgSlNPTiBzY2hlbWEnLAogICAgICAgIGZvcm1hdHRlcl9jbGFzcz1hcmdwYXJzZS5SYXdEZXNjcmlwdGlvbkhlbHBGb3JtYXR0ZXIsCiAgICAgICAgZXBpbG9nPSIiIgpFeGFtcGxlczoKICAlKHByb2cpcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVmFsaWRhdGUgYWxsIGt1c3RvbWl6YXRpb24gZmlsZXMKICAlKHByb2cpcyBrdWJlcm5ldGVzLyAgICAgICAgICAgICAgICAgICAgICAgICMgVmFsaWRhdGUgZmlsZXMgaW4ga3ViZXJuZXRlcy8gZGlyZWN0b3J5ICAKICAlKHByb2cpcyBhcHBzL2FwcC9rdXN0b21pemF0aW9uLnlhbWwgICAgICAgICMgVmFsaWRhdGUgc2luZ2xlIGZpbGUKICAgICAgICAiIiIKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ3BhdGgnLCAKICAgICAgICBuYXJncz0nPycsIAogICAgICAgIGRlZmF1bHQ9J2t1YmVybmV0ZXMnLAogICAgICAgIGhlbHA9J1BhdGggdG8ga3VzdG9taXphdGlvbiBmaWxlIG9yIGRpcmVjdG9yeSAoZGVmYXVsdDoga3ViZXJuZXRlcyknCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICctLXZlcmJvc2UnLCAnLXYnLAogICAgICAgIGFjdGlvbj0nc3RvcmVfdHJ1ZScsCiAgICAgICAgaGVscD0nRW5hYmxlIHZlcmJvc2Ugb3V0cHV0JwogICAgKQogICAgCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQogICAgCiAgICAjIENoZWNrIGlmIHBhdGggZXhpc3RzCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoYXJncy5wYXRoKToKICAgICAgICBwcmludChmIuKdjCBQYXRoIGRvZXMgbm90IGV4aXN0OiB7YXJncy5wYXRofSIpCiAgICAgICAgc3lzLmV4aXQoMSkKICAgIAogICAgIyBJbml0aWFsaXplIHZhbGlkYXRvcgogICAgdmFsaWRhdG9yID0gS3VzdG9taXphdGlvblZhbGlkYXRvcigpCiAgICAKICAgICMgTG9hZCBzY2hlbWEKICAgIGlmIG5vdCB2YWxpZGF0b3IubG9hZF9zY2hlbWEoKToKICAgICAgICBzeXMuZXhpdCgxKQogICAgCiAgICBwcmludChmIlxu8J+UjSBWYWxpZGF0aW5nIEt1c3RvbWl6YXRpb24gZmlsZXMgaW46IHthcmdzLnBhdGh9IikKICAgIHByaW50KCI9IiAqIDYwKQogICAgCiAgICAjIFZhbGlkYXRlIGZpbGVzCiAgICB2YWxpZGF0ZWRfY291bnQsIHRvdGFsX2NvdW50LCBmYWlsZWRfZmlsZXMgPSB2YWxpZGF0b3IudmFsaWRhdGVfcGF0aChhcmdzLnBhdGgpCiAgICAKICAgICMgUHJpbnQgc3VtbWFyeQogICAgcHJpbnQoIlxuIiArICI9IiAqIDYwKQogICAgcHJpbnQoIvCfk4ogVmFsaWRhdGlvbiBTdW1tYXJ5IikKICAgIHByaW50KGYiICAgVG90YWwgZmlsZXM6IHt0b3RhbF9jb3VudH0iKQogICAgcHJpbnQoZiIgICBWYWxpZCBmaWxlczoge3ZhbGlkYXRlZF9jb3VudH0iKQogICAgcHJpbnQoZiIgICBGYWlsZWQgZmlsZXM6IHtsZW4oZmFpbGVkX2ZpbGVzKX0iKQogICAgCiAgICBpZiBmYWlsZWRfZmlsZXM6CiAgICAgICAgcHJpbnQoZiJcbvCfkqUgRmFpbGVkIHZhbGlkYXRpb24gZm9yIHtsZW4oZmFpbGVkX2ZpbGVzKX0gZmlsZShzKToiKQogICAgICAgIGZvciBmaWxlX3BhdGggaW4gZmFpbGVkX2ZpbGVzOgogICAgICAgICAgICBwcmludChmIiAgIC0ge2ZpbGVfcGF0aH0iKQogICAgICAgIHByaW50KCJcbuKdjCBTY2hlbWEgdmFsaWRhdGlvbiBmYWlsZWQhIikKICAgICAgICBzeXMuZXhpdCgxKQogICAgZWxpZiB0b3RhbF9jb3VudCA+IDA6CiAgICAgICAgcHJpbnQoZiJcbvCfjokgQWxsIHt2YWxpZGF0ZWRfY291bnR9IGt1c3RvbWl6YXRpb24gZmlsZXMgcGFzcyBzY2hlbWEgdmFsaWRhdGlvbiEiKQogICAgICAgIHN5cy5leGl0KDApCiAgICBlbHNlOgogICAgICAgIHByaW50KCJcbuKaoO+4jyAgTm8ga3VzdG9taXphdGlvbiBmaWxlcyBmb3VuZCB0byB2YWxpZGF0ZSIpCiAgICAgICAgc3lzLmV4aXQoMCkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+"""
+Kustomization Schema Validator
+
+Validates Kubernetes Kustomization files against the official JSON schema.
+Can be run standalone or as part of CI/CD pipelines.
+
+Usage:
+    python3 scripts/validate-kustomizations.py [file_or_directory]
+    
+Examples:
+    # Validate single file
+    python3 scripts/validate-kustomizations.py kubernetes/apps/app/kustomization.yaml
+    
+    # Validate all kustomization files in directory
+    python3 scripts/validate-kustomizations.py kubernetes/
+    
+    # Validate all kustomization files (default)
+    python3 scripts/validate-kustomizations.py
+"""
+
+import json
+import yaml
+import sys
+import os
+import glob
+import argparse
+from pathlib import Path
+from typing import Tuple, List, Optional
+
+try:
+    from jsonschema import validate, ValidationError
+    import requests
+except ImportError:
+    print("❌ Missing dependencies. Install with:")
+    print("   pip3 install jsonschema requests pyyaml")
+    print("   # or")
+    print("   sudo apt-get install python3-jsonschema python3-requests python3-yaml")
+    sys.exit(1)
+
+
+class KustomizationValidator:
+    """Validates Kustomization files against the official JSON schema"""
+    
+    def __init__(self):
+        self.schema = None
+        self.schema_url = 'https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/kustomization.json'
+    
+    def load_schema(self) -> bool:
+        """Load the Kustomization schema from SchemaStore"""
+        if self.schema is not None:
+            return True
+            
+        try:
+            print("📥 Downloading Kustomization schema...")
+            response = requests.get(self.schema_url, timeout=30)
+            response.raise_for_status()
+            self.schema = response.json()
+            print("✅ Schema loaded successfully")
+            return True
+        except Exception as e:
+            print(f"❌ Failed to download schema: {e}")
+            return False
+    
+    def validate_file(self, file_path: str) -> Tuple[bool, Optional[str]]:
+        """Validate a single kustomization file"""
+        try:
+            # Load YAML file
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = yaml.safe_load(f)
+            
+            # Skip empty files
+            if not data:
+                return False, "File is empty or contains no YAML data"
+            
+            # Validate against schema
+            validate(instance=data, schema=self.schema)
+            return True, None
+            
+        except ValidationError as e:
+            error_path = " → ".join(str(p) for p in e.path) if e.path else "root"
+            return False, f"Schema validation failed at '{error_path}': {e.message}"
+        except yaml.YAMLError as e:
+            return False, f"YAML parsing error: {e}"
+        except Exception as e:
+            return False, f"Error processing file: {e}"
+    
+    def find_kustomization_files(self, path: str) -> List[str]:
+        """Find all kustomization.yaml files in the given path"""
+        if os.path.isfile(path):
+            return [path] if path.endswith(('kustomization.yaml', 'kustomization.yml')) else []
+        
+        # Search for kustomization files
+        patterns = [
+            os.path.join(path, '**/kustomization.yaml'),
+            os.path.join(path, '**/kustomization.yml')
+        ]
+        
+        files = []
+        for pattern in patterns:
+            files.extend(glob.glob(pattern, recursive=True))
+        
+        return sorted(set(files))
+    
+    def validate_path(self, path: str) -> Tuple[int, int, List[str]]:
+        """Validate all kustomization files in the given path"""
+        files = self.find_kustomization_files(path)
+        
+        if not files:
+            print(f"⚠️  No kustomization files found in: {path}")
+            return 0, 0, []
+        
+        print(f"🔍 Found {len(files)} kustomization file(s) to validate")
+        
+        failed_files = []
+        validated_count = 0
+        
+        for file_path in files:
+            print(f"\nValidating: {file_path}")
+            success, error = self.validate_file(file_path)
+            
+            if success:
+                print(f"✅ Valid")
+                validated_count += 1
+            else:
+                print(f"❌ {error}")
+                failed_files.append(file_path)
+        
+        return validated_count, len(files), failed_files
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description='Validate Kustomization files against official JSON schema',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  %(prog)s                                    # Validate all kustomization files
+  %(prog)s kubernetes/                        # Validate files in kubernetes/ directory  
+  %(prog)s apps/app/kustomization.yaml        # Validate single file
+        """
+    )
+    parser.add_argument(
+        'path', 
+        nargs='?', 
+        default='kubernetes',
+        help='Path to kustomization file or directory (default: kubernetes)'
+    )
+    parser.add_argument(
+        '--verbose', '-v',
+        action='store_true',
+        help='Enable verbose output'
+    )
+    
+    args = parser.parse_args()
+    
+    # Check if path exists
+    if not os.path.exists(args.path):
+        print(f"❌ Path does not exist: {args.path}")
+        sys.exit(1)
+    
+    # Initialize validator
+    validator = KustomizationValidator()
+    
+    # Load schema
+    if not validator.load_schema():
+        sys.exit(1)
+    
+    print(f"\n🔍 Validating Kustomization files in: {args.path}")
+    print("=" * 60)
+    
+    # Validate files
+    validated_count, total_count, failed_files = validator.validate_path(args.path)
+    
+    # Print summary
+    print("\n" + "=" * 60)
+    print("📊 Validation Summary")
+    print(f"   Total files: {total_count}")
+    print(f"   Valid files: {validated_count}")
+    print(f"   Failed files: {len(failed_files)}")
+    
+    if failed_files:
+        print(f"\n💥 Failed validation for {len(failed_files)} file(s):")
+        for file_path in failed_files:
+            print(f"   - {file_path}")
+        print("\n❌ Schema validation failed!")
+        sys.exit(1)
+    elif total_count > 0:
+        print(f"\n🎉 All {validated_count} kustomization files pass schema validation!")
+        sys.exit(0)
+    else:
+        print("\n⚠️  No kustomization files found to validate")
+        sys.exit(0)
+
+
+if __name__ == "__main__":
+    main()

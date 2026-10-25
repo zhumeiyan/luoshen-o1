@@ -1,1 +1,144 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KMDY5YiDCtyDmo4DntKLor4Tku7fvvJrpmIjlgLzmlY/mhJ/mgKcgKyDnlKjni6znq4vnnJ/lgLzlgZrnnJ/mraPnmoTmo4DntKLlr7nmr5QKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQowNjkg55WZ5LiL5Lik5Liq5b+F6aG75Zue562U55qE6LSo55aR77yaCiAgUTEgUDIg55qEIui/nue7rTUw5p2h5Y+q5pyJMjDmnaHmlrDkv6Hmga8i5piv5LiN5pivIDk1IOWIhuS9jemYiOWAvOmAoOaIkOeahCBhcnRpZmFjdO+8nwogIFEyIFAzIOivtCLliLDovr7ml7blhpfkvZnku4UgMiUi77yMUDEg6K+0IuebuOmCu+ebuOS8vOW6puaYr+maj+acuiAzLjM3IOWAjSLigJTigJTkuKTogIXnn5vnm77lkJfvvJ8KCuacrOi9ruihpeS4pOWdl++8mgogIEEuIOmYiOWAvOaVj+aEn+aAp++8muaKiuWGl+S9memYiOWAvOS7jiA1MCDliIbkvY3miavliLAgOTkuOSDliIbkvY3vvIznnIsgUDIg57uT6K665piv5ZCm56iz5YGl44CCCiAgQi4g55yf5q2j55qE5qOA57Si6K+E5Lu377yI55yf5YC854us56uL5LqO5paH5pys55u45Ly85bqm77yJ77yaCiAgICAgICDmn6Xor6IgPSDkuIDmnaHliKTmja7vvJvnnJ/lgLwgPSDkuI7lroPjgJDlkIzlrp7pqoznvJblj7fjgJHnmoTlhbbku5bliKTmja4KICAgICAgIO+8iOWunumqjOe8luWPt+adpeiHquato+aWh+mHjOeahCAzIOS9jeaVsOWtl++8jOS4juaWh+acrOivreS5ieOAgeS4jue8luWPt+mhuuW6j+mDveaXoOWFs++8iQogICAgICAg562W55WlIEEg5pe26Ze05bqP77ya5Y+W57yW5Y+35pyA6L+R55qEIEsg5p2hCiAgICAgICDnrZbnlaUgQiDor63kuYnluo/vvJrlj5bnm7jkvLzluqYgVG9wLUsKICAgICAgIOetlueVpSBDIOmaj+acuiAg77ya5Z+657q/CiAgICAg5oyH5qCHIHJlY2FsbEBLIC8gcHJlY2lzaW9uQEvjgIIKICAgICDnrZbnlaUgQiDoi6Xog5zlh7rvvIzliJki5oyJ6K+t5LmJ6YeN57uE5qOA57Si57uT5p6EIuehruacieWinuebiu+8jOS4lOS4jeaYr+W+queOr+iuuuivgeOAggoK6L+Q6KGM77yaIHB5dGhvbjMgZXhwZXJpbWVudHMvZXhwMDY5Yl9yZXRyaWV2YWxfZXZhbC5weQoiIiIKaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IGltcG9ydGxpYi51dGlsCgpST09UID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKUkVTVUxUID0gb3MucGF0aC5qb2luKFJPT1QsICdyZXN1bHRfMDY5Yi5qc29uJykKCnNwZWMgPSBpbXBvcnRsaWIudXRpbC5zcGVjX2Zyb21fZmlsZV9sb2NhdGlvbigKICAgICdlMDY5Jywgb3MucGF0aC5qb2luKFJPT1QsICdleHBlcmltZW50cycsICdleHAwNjlfY3JpdGVyaW9uX3JlZHVuZGFuY3kucHknKSkKZTA2OSA9IGltcG9ydGxpYi51dGlsLm1vZHVsZV9mcm9tX3NwZWMoc3BlYykKc3BlYy5sb2FkZXIuZXhlY19tb2R1bGUoZTA2OSkKClNFRUQgPSAyMDI2MTAxNgoKCmRlZiBtYWluKCk6CiAgICBucC5yYW5kb20uc2VlZChTRUVEKQogICAgaXRlbXMgPSBlMDY5LmxvYWRfaXRlbXMoKQogICAgdGV4dHMgPSBbaXRbJ3RleHQnXSBmb3IgaXQgaW4gaXRlbXNdCiAgICBOID0gbGVuKGl0ZW1zKQogICAgZXhwcyA9IFtzZXQoZTA2OS5leHRyYWN0X2V4cChpdFsndGV4dCddKSkgZm9yIGl0IGluIGl0ZW1zXQogICAgc2ltcyA9IGUwNjkuYnVpbGRfc2ltcyh0ZXh0cykKICAgIFMgPSBzaW1zWydiaWdyYW0nXQogICAgYWxsdiA9IFNbbnAudHJpdV9pbmRpY2VzKE4sIDEpXQoKICAgIHByaW50KCc9JyAqIDY2KQogICAgcHJpbnQoJzA2OWIgwrcg6ZiI5YC85pWP5oSf5oCnICsg54us56uL55yf5YC85LiL55qE5qOA57Si6K+E5Lu3JykKICAgIHByaW50KCc9JyAqIDY2KQogICAgcHJpbnQoJ+adoeebriAlZCDvvJvlj6/mj5Dlj5blrp7pqoznvJblj7cgJWQnICUgKE4sIHN1bSgxIGZvciBlIGluIGV4cHMgaWYgZSkpKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLSBBIOmYiOWAvOaVj+aEn+aApyAtLS0tLS0tLS0tLS0tLS0tCiAgICBwcmludCgnXG4nICsgJy0nICogNjYpCiAgICBwcmludCgnQS4gUDIg55qE6ZiI5YC85pWP5oSf5oCn77yI5YaX5L2Z546H5piv5ZCm5Y+q5piv5L2O6ZiI5YC855qEIGFydGlmYWN077yJJykKICAgIHByaW50KCctJyAqIDY2KQogICAgcHJpbnQoJyAgJS0xMHMgJS0xMHMgJS0xNnMgJS0xNnMnICUgKCfliIbkvY0nLCAn6ZiI5YC8JywgJ+i/nue7rTUw5p2h5paw5L+h5oGvJywgJ+WGl+S9meeOhycpKQogICAgcm93cyA9IFtdCiAgICBmb3IgcSBpbiAoNTAsIDc1LCA5MCwgOTUsIDk5LCA5OS41LCA5OS45KToKICAgICAgICB0aHIgPSBmbG9hdChucC5wZXJjZW50aWxlKGFsbHYsIHEpKQogICAgICAgIGNvbnQgPSBbXQogICAgICAgIGZvciBzIGluIHJhbmdlKDAsIE4gLSA1MCArIDEpOgogICAgICAgICAgICBzZWwgPSBsaXN0KHJhbmdlKHMsIHMgKyA1MCkpCiAgICAgICAgICAgIGNvbnQuYXBwZW5kKGUwNjkuY291bnRfbm92ZWwoc2VsLCBTLCB0aHIpKQogICAgICAgIGMgPSBmbG9hdChucC5tZWFuKGNvbnQpKQogICAgICAgIHJvd3MuYXBwZW5kKHsncGVyY2VudGlsZSc6IHEsICd0aHJlc2hvbGQnOiB0aHIsCiAgICAgICAgICAgICAgICAgICAgICdjb250NTBfbm92ZWwnOiBjLCAncmVkdW5kYW5jeV9yYXRlJzogMSAtIGMgLyA1MH0pCiAgICAgICAgcHJpbnQoJyAgJS0xMHMgJS0xMC40ZiAlLTE2LjJmICUtMTYuMWYlJScKICAgICAgICAgICAgICAlICgncCVzJyAlIHEsIHRociwgYywgMTAwICogKDEgLSBjIC8gNTApKSkKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0gQiDni6znq4vnnJ/lgLznmoTmo4DntKLor4Tku7cgLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoJ1xuJyArICctJyAqIDY2KQogICAgcHJpbnQoJ0IuIOajgOe0ouivhOS7t++8iOecn+WAvCA9IOWQjOWunumqjOW9kuWxnu+8jOS4juaWh+acrOebuOS8vOW6puOAgeS4jue8luWPt+mhuuW6j+Wdh+aXoOWFs++8iScpCiAgICBwcmludCgnLScgKiA2NikKICAgIHVzYWJsZSA9IFtpIGZvciBpIGluIHJhbmdlKE4pIGlmIGV4cHNbaV1dCiAgICAjIOWPquS/neeVmSLnnJ/lgLzpnZ7nqboi55qE5p+l6K+i77ya6Iez5bCR5pyJ5LiA5Liq5YW25LuW5p2h55uu5LiO5LmL5ZCM5a6e6aqMCiAgICBxdWVyaWVzID0gW10KICAgIGZvciBpIGluIHVzYWJsZToKICAgICAgICB0cnV0aCA9IFtqIGZvciBqIGluIHVzYWJsZSBpZiBqICE9IGkgYW5kIChleHBzW2ldICYgZXhwc1tqXSldCiAgICAgICAgaWYgdHJ1dGg6CiAgICAgICAgICAgIHF1ZXJpZXMuYXBwZW5kKChpLCB0cnV0aCkpCiAgICBwcmludCgnICDlj6/nlKjmn6Xor6LmlbA6ICVkIO+8iOW5s+Wdh+ecn+WAvOmbhiAlLjFmIOadoe+8iScKICAgICAgICAgICUgKGxlbihxdWVyaWVzKSwgbnAubWVhbihbbGVuKHQpIGZvciBfLCB0IGluIHF1ZXJpZXNdKSkpCgogICAgb3V0ID0geyd0aHJlc2hvbGRfc2Vuc2l0aXZpdHknOiByb3dzLCAncmV0cmlldmFsJzoge319CiAgICBwcmludCgnXG4gICUtNnMgJS0xMnMgJS0xMnMgJS0xMnMgJS0xMnMnICUgKCdLJywgJ+aXtumXtOW6j1JASycsICfor63kuYnluo9SQEsnLCAn6ZqP5py6UkBLJywgJ+ivreS5iS/ml7bpl7QnKSkKICAgIGZvciBLIGluICg1LCAxMCwgMjAsIDUwKToKICAgICAgICBydCwgcnMsIHJyID0gW10sIFtdLCBbXQogICAgICAgIGZvciBpLCB0cnV0aCBpbiBxdWVyaWVzOgogICAgICAgICAgICAjIOaXtumXtOW6j++8mue8luWPt+S9jee9ruacgOi/keeahCBLIOadoQogICAgICAgICAgICBkID0gbnAuYWJzKG5wLmFyYW5nZShOKSAtIGkpCiAgICAgICAgICAgIGRbaV0gPSAxMCAqKiA5CiAgICAgICAgICAgIHRpbWVfc2VsID0gbGlzdChucC5hcmdzb3J0KGQpWzpLXSkKICAgICAgICAgICAgIyDor63kuYnluo/vvJrnm7jkvLzluqYgVG9wLUsKICAgICAgICAgICAgc3YgPSBTW2ldLmNvcHkoKQogICAgICAgICAgICBzdltpXSA9IC0xCiAgICAgICAgICAgIHNlbV9zZWwgPSBsaXN0KG5wLmFyZ3NvcnQoLXN2KVs6S10pCiAgICAgICAgICAgICMg6ZqP5py6CiAgICAgICAgICAgIHJuZF9zZWwgPSBsaXN0KG5wLnJhbmRvbS5jaG9pY2UoW3ggZm9yIHggaW4gcmFuZ2UoTikgaWYgeCAhPSBpXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW4oSywgTiAtIDEpLCByZXBsYWNlPUZhbHNlKSkKICAgICAgICAgICAgdHNldCA9IHNldCh0cnV0aCkKICAgICAgICAgICAgcnQuYXBwZW5kKGxlbih0c2V0ICYgc2V0KHRpbWVfc2VsKSkgLyBsZW4odHNldCkpCiAgICAgICAgICAgIHJzLmFwcGVuZChsZW4odHNldCAmIHNldChzZW1fc2VsKSkgLyBsZW4odHNldCkpCiAgICAgICAgICAgIHJyLmFwcGVuZChsZW4odHNldCAmIHNldChybmRfc2VsKSkgLyBsZW4odHNldCkpCiAgICAgICAgcnQsIHJzLCByciA9IG5wLm1lYW4ocnQpLCBucC5tZWFuKHJzKSwgbnAubWVhbihycikKICAgICAgICBvdXRbJ3JldHJpZXZhbCddWydLJWQnICUgS10gPSB7CiAgICAgICAgICAgICd0aW1lX29yZGVyX3JlY2FsbCc6IGZsb2F0KHJ0KSwgJ3NlbWFudGljX3JlY2FsbCc6IGZsb2F0KHJzKSwKICAgICAgICAgICAgJ3JhbmRvbV9yZWNhbGwnOiBmbG9hdChyciksCiAgICAgICAgICAgICdyYXRpb19zZW1hbnRpY19vdmVyX3RpbWUnOiBmbG9hdChycyAvIChydCArIDFlLTkpKX0KICAgICAgICBwcmludCgnICAlLTZkICUtMTIuNGYgJS0xMi40ZiAlLTEyLjRmICUtMTIuMmYnICUgKEssIHJ0LCBycywgcnIsIHJzIC8gKHJ0ICsgMWUtOSkpKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLSBDIOino+mHiiBQMSDkuI4gUDMg55qE5byg5YqbIC0tLS0tLS0tLS0tLS0tLS0KICAgIHByaW50KCdcbicgKyAnLScgKiA2NikKICAgIHByaW50KCdDLiBQMe+8iOebuOmCuz3pmo/mnLrDlzMuMzfvvInkuI4gUDPvvIjliLDovr7ml7blhpfkvZnku4UyJe+8ieS4uuS9leS4jeefm+ebvicpCiAgICBwcmludCgnLScgKiA2NikKICAgIGFkaiA9IG5wLmFycmF5KFtTW2ksIGkgKyAxXSBmb3IgaSBpbiByYW5nZShOIC0gMSldKQogICAgcHJpbnQoJyAg55u46YK755u45Ly85bqm5YiG5biDOiDlnYflgLwgJS40ZiB8IOS4reS9jSAlLjRmIHwgOTDliIbkvY0gJS40ZiB8IOacgOWkpyAlLjRmJwogICAgICAgICAgJSAoYWRqLm1lYW4oKSwgbnAubWVkaWFuKGFkaiksIG5wLnBlcmNlbnRpbGUoYWRqLCA5MCksIGFkai5tYXgoKSkpCiAgICBwcmludCgnICBQMyDnlKjnmoQi5YaX5L2ZIumYiOWAvCA9IDAuMzAgLyAwLjUwIC8gMC43MCcpCiAgICBmb3IgdGhyIGluICgwLjMwLCAwLjUwLCAwLjcwKToKICAgICAgICBwcmludCgnICAgIOKGkiDnm7jpgrvlr7nkuK3otoXov4cgJS4yZiDnmoQ6ICVkIC8gJWQgKCUuMWYlJSknCiAgICAgICAgICAgICAgJSAodGhyLCBpbnQoKGFkaiA+PSB0aHIpLnN1bSgpKSwgbGVuKGFkaiksIDEwMCAqIChhZGogPj0gdGhyKS5tZWFuKCkpKQogICAgcHJpbnQoJyAg57uT6K6677ya55u46YK744CQ5pu055u45Ly844CR5piv55u45a+555qE77yIw5czLjM377yJ77yM5L2G44CQ5pyq6L6+6YeN5aSN44CR5piv57ud5a+555qEJykKICAgIHByaW50KCcgICAgICAgIOKGkiAwNjkg55qEIFEyMSDlo7Dnp7Ai55u46YK75Y2B5p2h6K6y5ZCM5LiA5Lu25LqLIuWxnuS6juWkuOWkp++8jOacrOi9ruS/ruatoycpCgogICAgb3V0Wyd0ZW5zaW9uJ10gPSB7CiAgICAgICAgJ2FkamFjZW50X21lYW4nOiBmbG9hdChhZGoubWVhbigpKSwKICAgICAgICAnYWRqYWNlbnRfbWVkaWFuJzogZmxvYXQobnAubWVkaWFuKGFkaikpLAogICAgICAgICdhZGphY2VudF9wOTAnOiBmbG9hdChucC5wZXJjZW50aWxlKGFkaiwgOTApKSwKICAgICAgICAnYWRqYWNlbnRfbWF4JzogZmxvYXQoYWRqLm1heCgpKSwKICAgICAgICAnZnJhY19hZGpfZ2VfMDMwJzogZmxvYXQoKGFkaiA+PSAwLjMwKS5tZWFuKCkpLAogICAgICAgICdmcmFjX2Fkal9nZV8wNTAnOiBmbG9hdCgoYWRqID49IDAuNTApLm1lYW4oKSksCiAgICB9CgogICAgd2l0aCBvcGVuKFJFU1VMVCwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChvdXQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludCgnXG7lt7Llhpnlh7o6ICVzJyAlIFJFU1VMVCkKICAgIHJldHVybiAwCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHJhaXNlIFN5c3RlbUV4aXQobWFpbigpKQo=
+# -*- coding: utf-8 -*-
+"""
+================================================================
+069b · 检索评价：阈值敏感性 + 用独立真值做真正的检索对比
+================================================================
+069 留下两个必须回答的质疑：
+  Q1 P2 的"连续50条只有20条新信息"是不是 95 分位阈值造成的 artifact？
+  Q2 P3 说"到达时冗余仅 2%"，P1 说"相邻相似度是随机 3.37 倍"——两者矛盾吗？
+
+本轮补两块：
+  A. 阈值敏感性：把冗余阈值从 50 分位扫到 99.9 分位，看 P2 结论是否稳健。
+  B. 真正的检索评价（真值独立于文本相似度）：
+       查询 = 一条判据；真值 = 与它【同实验编号】的其他判据
+       （实验编号来自正文里的 3 位数字，与文本语义、与编号顺序都无关）
+       策略 A 时间序：取编号最近的 K 条
+       策略 B 语义序：取相似度 Top-K
+       策略 C 随机  ：基线
+     指标 recall@K / precision@K。
+     策略 B 若胜出，则"按语义重组检索结构"确有增益，且不是循环论证。
+
+运行： python3 experiments/exp069b_retrieval_eval.py
+"""
+import os
+import re
+import json
+import numpy as np
+import importlib.util
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RESULT = os.path.join(ROOT, 'result_069b.json')
+
+spec = importlib.util.spec_from_file_location(
+    'e069', os.path.join(ROOT, 'experiments', 'exp069_criterion_redundancy.py'))
+e069 = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(e069)
+
+SEED = 20261016
+
+
+def main():
+    np.random.seed(SEED)
+    items = e069.load_items()
+    texts = [it['text'] for it in items]
+    N = len(items)
+    exps = [set(e069.extract_exp(it['text'])) for it in items]
+    sims = e069.build_sims(texts)
+    S = sims['bigram']
+    allv = S[np.triu_indices(N, 1)]
+
+    print('=' * 66)
+    print('069b · 阈值敏感性 + 独立真值下的检索评价')
+    print('=' * 66)
+    print('条目 %d ；可提取实验编号 %d' % (N, sum(1 for e in exps if e)))
+
+    # ---------------- A 阈值敏感性 ----------------
+    print('\n' + '-' * 66)
+    print('A. P2 的阈值敏感性（冗余率是否只是低阈值的 artifact）')
+    print('-' * 66)
+    print('  %-10s %-10s %-16s %-16s' % ('分位', '阈值', '连续50条新信息', '冗余率'))
+    rows = []
+    for q in (50, 75, 90, 95, 99, 99.5, 99.9):
+        thr = float(np.percentile(allv, q))
+        cont = []
+        for s in range(0, N - 50 + 1):
+            sel = list(range(s, s + 50))
+            cont.append(e069.count_novel(sel, S, thr))
+        c = float(np.mean(cont))
+        rows.append({'percentile': q, 'threshold': thr,
+                     'cont50_novel': c, 'redundancy_rate': 1 - c / 50})
+        print('  %-10s %-10.4f %-16.2f %-16.1f%%'
+              % ('p%s' % q, thr, c, 100 * (1 - c / 50)))
+
+    # ---------------- B 独立真值的检索评价 ----------------
+    print('\n' + '-' * 66)
+    print('B. 检索评价（真值 = 同实验归属，与文本相似度、与编号顺序均无关）')
+    print('-' * 66)
+    usable = [i for i in range(N) if exps[i]]
+    # 只保留"真值非空"的查询：至少有一个其他条目与之同实验
+    queries = []
+    for i in usable:
+        truth = [j for j in usable if j != i and (exps[i] & exps[j])]
+        if truth:
+            queries.append((i, truth))
+    print('  可用查询数: %d （平均真值集 %.1f 条）'
+          % (len(queries), np.mean([len(t) for _, t in queries])))
+
+    out = {'threshold_sensitivity': rows, 'retrieval': {}}
+    print('\n  %-6s %-12s %-12s %-12s %-12s' % ('K', '时间序R@K', '语义序R@K', '随机R@K', '语义/时间'))
+    for K in (5, 10, 20, 50):
+        rt, rs, rr = [], [], []
+        for i, truth in queries:
+            # 时间序：编号位置最近的 K 条
+            d = np.abs(np.arange(N) - i)
+            d[i] = 10 ** 9
+            time_sel = list(np.argsort(d)[:K])
+            # 语义序：相似度 Top-K
+            sv = S[i].copy()
+            sv[i] = -1
+            sem_sel = list(np.argsort(-sv)[:K])
+            # 随机
+            rnd_sel = list(np.random.choice([x for x in range(N) if x != i],
+                                            min(K, N - 1), replace=False))
+            tset = set(truth)
+            rt.append(len(tset & set(time_sel)) / len(tset))
+            rs.append(len(tset & set(sem_sel)) / len(tset))
+            rr.append(len(tset & set(rnd_sel)) / len(tset))
+        rt, rs, rr = np.mean(rt), np.mean(rs), np.mean(rr)
+        out['retrieval']['K%d' % K] = {
+            'time_order_recall': float(rt), 'semantic_recall': float(rs),
+            'random_recall': float(rr),
+            'ratio_semantic_over_time': float(rs / (rt + 1e-9))}
+        print('  %-6d %-12.4f %-12.4f %-12.4f %-12.2f' % (K, rt, rs, rr, rs / (rt + 1e-9)))
+
+    # ---------------- C 解释 P1 与 P3 的张力 ----------------
+    print('\n' + '-' * 66)
+    print('C. P1（相邻=随机×3.37）与 P3（到达时冗余仅2%）为何不矛盾')
+    print('-' * 66)
+    adj = np.array([S[i, i + 1] for i in range(N - 1)])
+    print('  相邻相似度分布: 均值 %.4f | 中位 %.4f | 90分位 %.4f | 最大 %.4f'
+          % (adj.mean(), np.median(adj), np.percentile(adj, 90), adj.max()))
+    print('  P3 用的"冗余"阈值 = 0.30 / 0.50 / 0.70')
+    for thr in (0.30, 0.50, 0.70):
+        print('    → 相邻对中超过 %.2f 的: %d / %d (%.1f%%)'
+              % (thr, int((adj >= thr).sum()), len(adj), 100 * (adj >= thr).mean()))
+    print('  结论：相邻【更相似】是相对的（×3.37），但【未达重复】是绝对的')
+    print('        → 069 的 Q21 声称"相邻十条讲同一件事"属于夸大，本轮修正')
+
+    out['tension'] = {
+        'adjacent_mean': float(adj.mean()),
+        'adjacent_median': float(np.median(adj)),
+        'adjacent_p90': float(np.percentile(adj, 90)),
+        'adjacent_max': float(adj.max()),
+        'frac_adj_ge_030': float((adj >= 0.30).mean()),
+        'frac_adj_ge_050': float((adj >= 0.50).mean()),
+    }
+
+    with open(RESULT, 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print('\n已写出: %s' % RESULT)
+    return 0
+
+
+if __name__ == '__main__':
+    raise SystemExit(main())

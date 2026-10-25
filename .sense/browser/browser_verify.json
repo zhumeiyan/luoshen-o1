@@ -1,1 +1,51 @@
-ewogIm9rIjogewogICLikaAg5rWP6KeI5Zmo55yf5ZCv5YqoIjogdHJ1ZSwKICAi4pGhIOecn+a4suafk+WHuuWGheWuuSg+PTHnq5kpIjogdHJ1ZSwKICAi4pGiIOaIquWbvumdnuepuiI6IHRydWUsCiAgIuKRoyDor5rlrp7liJflh7rooqvmjKHln5/lkI0iOiB0cnVlCiB9LAogInJvd3MiOiBbCiAgewogICAic2l0ZSI6ICJtYWlsLnFxLmNvbSIsCiAgICJodHRwIjogMjAwLAogICAidGl0bGUiOiAi55m75b2VUVHpgq7nrrEiLAogICAidGV4dF9sZW4iOiAxMjAsCiAgICJzaG90IjogNDYxNzEsCiAgICJyZW5kZXJlZCI6IHRydWUKICB9LAogIHsKICAgInNpdGUiOiAiYmFpZHUuY29tIiwKICAgImh0dHAiOiAyMDAsCiAgICJ0aXRsZSI6ICLnmb7luqbkuIDkuIvvvIzkvaDlsLHnn6XpgZMiLAogICAidGV4dF9sZW4iOiAxMjAsCiAgICJzaG90IjogNzQxOTMsCiAgICJyZW5kZXJlZCI6IHRydWUKICB9LAogIHsKICAgInNpdGUiOiAiemhpaHUuY29tIiwKICAgImh0dHAiOiAyMDAsCiAgICJ0aXRsZSI6ICLlronlhajpqozor4EgLSDnn6XkuY4iLAogICAidGV4dF9sZW4iOiAwLAogICAic2hvdCI6IDUwMjQsCiAgICJyZW5kZXJlZCI6IGZhbHNlCiAgfSwKICB7CiAgICJzaXRlIjogImdpdGh1Yi5jb20iLAogICAiaHR0cCI6IDQwMywKICAgInRpdGxlIjogIiIsCiAgICJ0ZXh0X2xlbiI6IDEyMCwKICAgInNob3QiOiAyMDQwOCwKICAgInJlbmRlcmVkIjogZmFsc2UKICB9LAogIHsKICAgInNpdGUiOiAicGFyYXNwZWxsIOaWh+ahoyIsCiAgICJodHRwIjogNDAzLAogICAidGl0bGUiOiAiIiwKICAgInRleHRfbGVuIjogMTIwLAogICAic2hvdCI6IDIxMDAxLAogICAicmVuZGVyZWQiOiBmYWxzZQogIH0KIF0sCiAiY2hyb21lIjogIjE1My4wLjgwMTAuNTIiCn0=
+{
+ "ok": {
+  "① 浏览器真启动": true,
+  "② 真渲染出内容(>=1站)": true,
+  "③ 截图非空": true,
+  "④ 诚实列出被挡域名": true
+ },
+ "rows": [
+  {
+   "site": "mail.qq.com",
+   "http": 200,
+   "title": "登录QQ邮箱",
+   "text_len": 120,
+   "shot": 46171,
+   "rendered": true
+  },
+  {
+   "site": "baidu.com",
+   "http": 200,
+   "title": "百度一下，你就知道",
+   "text_len": 120,
+   "shot": 74193,
+   "rendered": true
+  },
+  {
+   "site": "zhihu.com",
+   "http": 200,
+   "title": "安全验证 - 知乎",
+   "text_len": 0,
+   "shot": 5024,
+   "rendered": false
+  },
+  {
+   "site": "github.com",
+   "http": 403,
+   "title": "",
+   "text_len": 120,
+   "shot": 20408,
+   "rendered": false
+  },
+  {
+   "site": "paraspell 文档",
+   "http": 403,
+   "title": "",
+   "text_len": 120,
+   "shot": 21001,
+   "rendered": false
+  }
+ ],
+ "chrome": "153.0.8010.52"
+}

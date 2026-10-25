@@ -1,1 +1,65 @@
-IiIiY2FwYWJpbGl0aWVzIMK3IOWkmuaooeaAgeS6p+eJqeWxgiArIOWIpOWumuWxggoK5Li65LuA5LmI5YiG5Lik5bGCCi0tLS0tLS0tLS0tLQrlpKfmqKHlnovpgqPkuIDmoLzph4zvvIwi5Lqn54mp6IO95LiN6IO96KKr5L+h5Lu7IuaYr+epuueahO+8muWug+iHquivhCAwLjQwOe+8jOWklumDqOaJk+WIhiAwLjAzNOOAggrmiYDku6XmiJHku6zlr7nmoIfnmoTmlrnlvI/kuI3mmK8i5Lmf6IO955Sf5oiQIuKAlOKAlOaLvOW4puWuveW/hei+k+KAlOKAlOiAjOaYr++8mgoKICAgIOeUn+aIkOS4gOWxgiArIOWIpOWumuS4gOWxgu+8jOWIpOWumuWxgueLrOeri+S6jueUn+aIkOWxgu+8jOS4lOWIpOWumuS4jeivu+eUn+aIkOWxgueahOiHquaIkeWjsOaYjuOAggoK5Yik5a6a5bGC55qE5LiJ5p2h56Gs6KeE5YiZ77yI6L+d5Y+N5LqG5bCx562J5LqO5rKh5pyJ5Yik5a6a5bGC77yJ77yaCiAgMS4g5Yik5a6a5b+F6aG76K+7KirkuqfnianmnKzouqsqKu+8iOWDj+e0oC/ph4fmoLcv5a2X6IqC77yJ77yM5LiN6K+755Sf5oiQ5pe25Lyg5YWl55qE5Y+C5pWw44CCCiAgMi4g5Yik5a6a5aSx6LSl6KaB6K+05Ye6KirlhbfkvZPlk6rkuKrmjIfmoIcqKuS4jeWQiOagvO+8jOS4jeiuuOi/lOWbniLnnIvotbfmnaXkuI3plJki44CCCiAgMy4g5Yik5a6a5bGC6Ieq5bex5Lmf6KaB6KKr6Ieq5qOA77yI6KeBIHNlbGZ0ZXN0LnB577yJ77yM5ZCm5YiZ5a6D5bCx5piv5LiA5Liq5Lya6Z2Z6buY5aSx5pWI55qE5Luq6KGo44CCCgrnlKjms5UKLS0tLQogICAgZnJvbSBjYXBhYmlsaXRpZXMgaW1wb3J0IGltYWdlLCB2aWRlbywgYXVkaW8sIHZlcmlmeQoKICAgIGltZyA9IGltYWdlLnJlbmRlcihzcGVjKSAgICAgICAgICAjIC0+IEFydGlmYWN0CiAgICBwcmludCh2ZXJpZnkuaW1hZ2UoaW1nKS5yZXBvcnQoKSkgIyAg54us56uL5Yik5a6a77yM5LiN6K+7IHNwZWMKCiAgICBjYXAgPSBjYXBhYmlsaXRpZXNfbWFuaWZlc3QoKSAgICAgIyDog73lipvmuIXljZXvvIzmnLrlmajlj6/or7sKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gLmFydGlmYWN0IGltcG9ydCBBcnRpZmFjdCwgS2luZCwgdmVyZGljdApmcm9tIC4gaW1wb3J0IGltYWdlLCB2aWRlbywgYXVkaW8sIHZlcmlmeQoKX192ZXJzaW9uX18gPSAiMC4xLjAiCgpfX2FsbF9fID0gWyJBcnRpZmFjdCIsICJLaW5kIiwgInZlcmRpY3QiLCAiaW1hZ2UiLCAidmlkZW8iLCAiYXVkaW8iLAogICAgICAgICAgICJ2ZXJpZnkiLCAiY2FwYWJpbGl0aWVzX21hbmlmZXN0IiwgIl9fdmVyc2lvbl9fIl0KCgpkZWYgY2FwYWJpbGl0aWVzX21hbmlmZXN0KCkgLT4gZGljdDoKICAgICIiIuacuuWZqOWPr+ivu+eahOiDveWKm+a4heWNleOAggoKICAgIOavj+S4gOagvOmDveW/hemhu+WbnuetlOS4pOS4qumXrumimO+8jOWPquWbnuetlOesrOS4gOS4queahOaghyBgZ2VuZXJhdGVkX29ubHlg77yaCiAgICAgIC0g6IO95LiN6IO95Lqn5Ye66L+Z5Liq5qih5oCB55qE5Lic6KW/77yfICAgICAgLT4gYHByb2R1Y2VgCiAgICAgIC0g6IO95LiN6IO954us56uL5Yik5a6a5Lqn54mp5piv5ZCm5ZCI5qC877yfICAgIC0+IGB2ZXJpZnlgCiAgICAiIiIKICAgIHJldHVybiB7CiAgICAgICAgInZlcnNpb24iOiBfX3ZlcnNpb25fXywKICAgICAgICAibW9kYWxpdGllcyI6IHsKICAgICAgICAgICAgImltYWdlIjogIHsicHJvZHVjZSI6IFRydWUsICAidmVyaWZ5IjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAiZW5naW5lIjogIm1hdHBsb3RsaWIgKyBQSUwiLAogICAgICAgICAgICAgICAgICAgICAgICJmb3JtYXRzIjogWyJwbmciXSwgIm5vdGUiOiAi5riy5p+T57G777yM6Z2e5omp5pWj5qih5Z6LIn0sCiAgICAgICAgICAgICJ2aWRlbyI6ICB7InByb2R1Y2UiOiBUcnVlLCAgInZlcmlmeSI6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgImVuZ2luZSI6ICJmcmFtZSBzZXF1ZW5jZSArIGZmbXBlZyAobGlieDI2NCkiLAogICAgICAgICAgICAgICAgICAgICAgICJmb3JtYXRzIjogWyJtcDQiXSwgIm5vdGUiOiAi55Sx5bin5ZCI5oiQ77yM6Z2e5paH55Sf6KeG6aKR5qih5Z6LIn0sCiAgICAgICAgICAgICJhdWRpbyI6ICB7InByb2R1Y2UiOiBUcnVlLCAgInZlcmlmeSI6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgImVuZ2luZSI6ICJudW1weSDms6LlvaLlkIjmiJAgKyBmZm1wZWcg5bCB6KOFIiwKICAgICAgICAgICAgICAgICAgICAgICAiZm9ybWF0cyI6IFsid2F2IiwgIm1wMyJdLAogICAgICAgICAgICAgICAgICAgICAgICJub3RlIjogIuWQiOaIkOazouW9ou+8jOmdnuelnue7jyBUVFPvvJvml6Dkurrlo7DlrZflhbgifSwKICAgICAgICAgICAgInRleHQiOiAgIHsicHJvZHVjZSI6IFRydWUsICAidmVyaWZ5IjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAiZW5naW5lIjogImV2YWxndWFyZCDpnZnmgIHliKTlrpoiLAogICAgICAgICAgICAgICAgICAgICAgICJmb3JtYXRzIjogWyJweSJdLCAibm90ZSI6ICLllK/kuIDkuKTlsYLpg73oh6rmjIHnmoTmqKHmgIEifSwKICAgICAgICAgICAgInNlYXJjaCI6IHsicHJvZHVjZSI6IEZhbHNlLCAidmVyaWZ5IjogRmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgImVuZ2luZSI6IE5vbmUsCiAgICAgICAgICAgICAgICAgICAgICAgIm5vdGUiOiAi5Zyo5a6/5Li75L6n77yM5LiN5Zyo5pys5L6n44CC6L+Z5LiA5qC85piv56m655qE77yM5LiN5YyF6KOF5oiQ5pyJ44CCIn0sCiAgICAgICAgfSwKICAgICAgICAjIOi/meS4gOihjOaYr+acrOWMheS4jiLmiJHku4DkuYjpg73og73nlJ/miJAi55qE5YiG55WM57q/CiAgICAgICAgImNsYWltIjogKCLnlJ/miJDog73lipvpg6jliIbmnaXoh6rlt6Xlhbfpk77vvIjmjaLnjq/looPlj6/og73lpLHmlYjvvInvvJsiCiAgICAgICAgICAgICAgICAgICLliKTlrprlsYLkuI3kvp3otZblt6Xlhbfpk77vvIzmmK/mnKzljIXoh6rmjIHnmoTpg6jliIbjgIIiKSwKICAgIH0K
+"""capabilities · 多模态产物层 + 判定层
+
+为什么分两层
+------------
+大模型那一格里，"产物能不能被信任"是空的：它自评 0.409，外部打分 0.034。
+所以我们对标的方式不是"也能生成"——拼带宽必输——而是：
+
+    生成一层 + 判定一层，判定层独立于生成层，且判定不读生成层的自我声明。
+
+判定层的三条硬规则（违反了就等于没有判定层）：
+  1. 判定必须读**产物本身**（像素/采样/字节），不读生成时传入的参数。
+  2. 判定失败要说出**具体哪个指标**不合格，不许返回"看起来不错"。
+  3. 判定层自己也要被自检（见 selftest.py），否则它就是一个会静默失效的仪表。
+
+用法
+----
+    from capabilities import image, video, audio, verify
+
+    img = image.render(spec)          # -> Artifact
+    print(verify.image(img).report()) #  独立判定，不读 spec
+
+    cap = capabilities_manifest()     # 能力清单，机器可读
+"""
+from __future__ import annotations
+
+from .artifact import Artifact, Kind, verdict
+from . import image, video, audio, verify
+
+__version__ = "0.1.0"
+
+__all__ = ["Artifact", "Kind", "verdict", "image", "video", "audio",
+           "verify", "capabilities_manifest", "__version__"]
+
+
+def capabilities_manifest() -> dict:
+    """机器可读的能力清单。
+
+    每一格都必须回答两个问题，只回答第一个的标 `generated_only`：
+      - 能不能产出这个模态的东西？      -> `produce`
+      - 能不能独立判定产物是否合格？    -> `verify`
+    """
+    return {
+        "version": __version__,
+        "modalities": {
+            "image":  {"produce": True,  "verify": True,
+                       "engine": "matplotlib + PIL",
+                       "formats": ["png"], "note": "渲染类，非扩散模型"},
+            "video":  {"produce": True,  "verify": True,
+                       "engine": "frame sequence + ffmpeg (libx264)",
+                       "formats": ["mp4"], "note": "由帧合成，非文生视频模型"},
+            "audio":  {"produce": True,  "verify": True,
+                       "engine": "numpy 波形合成 + ffmpeg 封装",
+                       "formats": ["wav", "mp3"],
+                       "note": "合成波形，非神经 TTS；无人声字典"},
+            "text":   {"produce": True,  "verify": True,
+                       "engine": "evalguard 静态判定",
+                       "formats": ["py"], "note": "唯一两层都自持的模态"},
+            "search": {"produce": False, "verify": False,
+                       "engine": None,
+                       "note": "在宿主侧，不在本侧。这一格是空的，不包装成有。"},
+        },
+        # 这一行是本包与"我什么都能生成"的分界线
+        "claim": ("生成能力部分来自工具链（换环境可能失效）；"
+                  "判定层不依赖工具链，是本包自持的部分。"),
+    }

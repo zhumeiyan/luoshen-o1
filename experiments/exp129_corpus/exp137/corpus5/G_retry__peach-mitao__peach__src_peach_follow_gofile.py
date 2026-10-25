@@ -1,1 +1,157 @@
-IiIi5bGV5byAIEdvZmlsZSDmlofku7bpobXjgIIKCkdvZmlsZSDmmK/nrKzkuInmlrnmlofku7bnq5nvvIzkuI3mmK/ov73mm7TmnaXmupDjgIJGOTUg5ZKMIEZBTkJPWCDnmoTluJblrZDph4zlj6/og73otLQgR29maWxlIOmTvuaOpe+8jArkvYYgR29maWxlIOacrOi6q+i3n+i/meS4pOS4quermeayoeacieWFs+ezu+OAggoK6L+Z5q616YC76L6R54us56uL5oiQ5qih5Z2X77yM5LiN5oyC5ZyoIGBfQmFzZUNvbm5lY3RvcmAg5LiK77ya5oyC5LiK5Y6755qE6K+d5q+P5Liq6L+e5o6l5Zmo4oCU4oCU5YyF5ous5qC55pys5LiN56KwCkdvZmlsZSDnmoQgcnVsZTM044CBa2Vtb25v44CBcGFoZWFs4oCU4oCU6YO957un5om/552A5a6D77yM6ICM5LiU5Y+R6K+35rGC5b+F6aG76K6w5b6X5YaZCmBjb25uZWN0b3JfaGVhZGVycz1GYWxzZWDvvJrmvI/mjonnmoTor53vvIzmnaXmupDnq5nnmoQgQ29va2ll77yIRjk1IOeahOS8muivneOAgUZBTkJPWCDnmoTnmbvlvZXmgIHvvIkK5Lya6Lef552A5LiA6LW35Y+R5YiwIGdvZmlsZS5pb+OAgumCo+aYr+S4quWPqumdoOOAjOiwg+eUqOaWueiusOW+l+S8oOWPguOAjee7tOaMgeeahOWuieWFqOe6puadn+OAggoK5pCs5Ye65p2l5LmL5ZCO77yM5bGV5byA5Zmo6Ieq5bex5oyB5pyJIHRyYW5zcG9ydO+8jOWPquWPkeiHquW3seeahCBVc2VyLUFnZW50IOWSjOiHquW3seeahCBCZWFyZXIgdG9rZW7jgIIK5oqK5p2l5rqQ56uZ5Yet5o2u5bim5Yiw56ys5LiJ5pa55Li75py66L+Z5Lu25LqL77yM5LuO44CM5Y+C5pWw5Lyg5a+55LqG44CN5Y+Y5oiQ57uT5p6E5LiK5YGa5LiN5Yiw44CCCgp0b2tlbiDlj6rov5sgQXV0aG9yaXphdGlvbiDlpLTvvIzmsLjov5zkuI3ov5sgVVJM44CB5LiN6L+b5YCZ6YCJ44CB5LiN6L+b5pel5b+X44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgppbXBvcnQgcmUKaW1wb3J0IHVybGxpYi5wYXJzZQpmcm9tIHR5cGluZyBpbXBvcnQgTWFwcGluZwoKaW1wb3J0IGh0dHB4Cgpmcm9tIC5mb2xsb3cgaW1wb3J0IERFRkFVTFRfTUFYX0JZVEVTLCBGb2xsb3dTb3VyY2VFcnJvciwgcGxhaW5fdGV4dCwgc3RhYmxlX2lkCmZyb20gLmZvbGxvd19zZWNyZXRzIGltcG9ydCBDcmVkZW50aWFsLCBDcmVkZW50aWFsRXJyb3IKZnJvbSAuaHR0cCBpbXBvcnQgSHR0cFJlcXVlc3QsIEh0dHBSZXNwb25zZSwgSHR0cFRyYW5zcG9ydAoKIzog6K+35rGCIEdvZmlsZSDnlKjnmoTlm7rlrpogVUHjgILliLvmhI/kuI3lpI3nlKjov57mjqXlmajnmoQgYF9oZWFkZXJzKClg4oCU4oCU6YKj6YeM6Z2i5Y+v6IO95pyJ5p2l5rqQ56uZCiM6IOeahCBDb29raWXvvIzogIzov5nph4zmmK/lj6bkuIDkuKrkuLvmnLrjgIIKZnJvbSAudXNlcl9hZ2VudCBpbXBvcnQgVVNFUl9BR0VOVAoKX0ZPTERFUl9QQVRIID0gcmUuY29tcGlsZShyIi9kLyhbQS1aYS16MC05Xy1dKykiKQpfTEFCRUxFRF9GT0xERVIgPSByZS5jb21waWxlKAogICAgciJnb2ZpbGVccypcKChbXildKylcKVxzKlstOu+8ml0/XHMqaHR0cHM6Ly8oPzpbXi9dK1wuKT9nb2ZpbGVcLmlvL2QvIgogICAgciIoW0EtWmEtejAtOV8tXSspIiwgcmUuSUdOT1JFQ0FTRSkKCgpkZWYgZm9sZGVyX2lkcyhsaW5rczogbGlzdFtzdHJdKSAtPiBsaXN0W3N0cl06CiAgICAiIiLku47kuIDloIbpk77mjqXph4zmjJHlh7ogR29maWxlIOaWh+S7tuWkuSBpZO+8jOS/neaMgeWHuueOsOmhuuW6j+S4lOWOu+mHjeOAgiIiIgogICAgZm91bmQ6IGxpc3Rbc3RyXSA9IFtdCiAgICBmb3IgbGluayBpbiBsaW5rczoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBhcnNlZCA9IHVybGxpYi5wYXJzZS51cmxzcGxpdChsaW5rKQogICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGhvc3QgPSAocGFyc2VkLmhvc3RuYW1lIG9yICIiKS5jYXNlZm9sZCgpCiAgICAgICAgbWF0Y2hlZCA9IF9GT0xERVJfUEFUSC5mdWxsbWF0Y2gocGFyc2VkLnBhdGgucnN0cmlwKCIvIikpCiAgICAgICAgaWYgKGhvc3QgPT0gImdvZmlsZS5pbyIgb3IgaG9zdC5lbmRzd2l0aCgiLmdvZmlsZS5pbyIpKSBhbmQgbWF0Y2hlZDoKICAgICAgICAgICAgZm91bmQuYXBwZW5kKG1hdGNoZWQuZ3JvdXAoMSkpCiAgICByZXR1cm4gbGlzdChkaWN0LmZyb21rZXlzKGZvdW5kKSkKCgpkZWYgZm9sZGVyX2xhYmVscyh0ZXh0OiBzdHIgfCBOb25lKSAtPiBkaWN0W3N0ciwgc3RyXToKICAgICIiIlJlYWQgb3B0aW9uYWwgaHVtYW4gbGFiZWxzIG5leHQgdG8gRkFOQk9YIEdvZmlsZSBsaW5rcy4iIiIKICAgIHJldHVybiB7Zm9sZGVyOiBsYWJlbC5zdHJpcCgpIGZvciBsYWJlbCwgZm9sZGVyIGluIF9MQUJFTEVEX0ZPTERFUi5maW5kYWxsKHRleHQgb3IgIiIpCiAgICAgICAgICAgIGlmIGxhYmVsLnN0cmlwKCl9CgoKY2xhc3MgR29maWxlRXhwYW5kZXI6CiAgICAiIiLnlKjnlKjmiLfoh6rlt7HnmoQgQVBJIHRva2VuIOaKiiBHb2ZpbGUg5paH5Lu25aS55bGV5byA5oiQ5aqS5L2T5p2h55uu44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHRyYW5zcG9ydDogSHR0cFRyYW5zcG9ydCwgKiwKICAgICAgICAgICAgICAgICBjcmVkZW50aWFsOiBDcmVkZW50aWFsIHwgTm9uZSA9IE5vbmUsCiAgICAgICAgICAgICAgICAgdGltZW91dDogZmxvYXQgPSAxNS4wLAogICAgICAgICAgICAgICAgIG1heF9ieXRlczogaW50ID0gREVGQVVMVF9NQVhfQllURVMsCiAgICAgICAgICAgICAgICAgbWF4X2l0ZW1zOiBpbnQgPSAxMDApOgogICAgICAgIHNlbGYudHJhbnNwb3J0ID0gdHJhbnNwb3J0CiAgICAgICAgc2VsZi5jcmVkZW50aWFsID0gY3JlZGVudGlhbAogICAgICAgIHNlbGYudGltZW91dCA9IHRpbWVvdXQKICAgICAgICBzZWxmLm1heF9ieXRlcyA9IG1heF9ieXRlcwogICAgICAgIHNlbGYubWF4X2l0ZW1zID0gbWF4X2l0ZW1zCgogICAgZGVmIGV4cGFuZChzZWxmLCBsaW5rczogbGlzdFtzdHJdLCAqLAogICAgICAgICAgICAgICBsYWJlbHM6IE1hcHBpbmdbc3RyLCBzdHJdIHwgTm9uZSA9IE5vbmUsCiAgICAgICAgICAgICAgICkgLT4gdHVwbGVbZGljdFtzdHIsIG9iamVjdF0sIC4uLl06CiAgICAgICAgZm9sZGVycyA9IGZvbGRlcl9pZHMobGlua3MpCiAgICAgICAgaWYgbm90IGZvbGRlcnMgb3Igc2VsZi5jcmVkZW50aWFsIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiAoKQogICAgICAgIHRva2VuLCA9IHNlbGYuY3JlZGVudGlhbC5yZXF1aXJlKCJhcGlfdG9rZW4iKQogICAgICAgIGl0ZW1zOiBsaXN0W2RpY3Rbc3RyLCBvYmplY3RdXSA9IFtdCiAgICAgICAgc2Vlbjogc2V0W3N0cl0gPSBzZXQoKQogICAgICAgIGZvciBmb2xkZXIgaW4gZm9sZGVyczoKICAgICAgICAgICAgcGF5bG9hZCA9IHNlbGYuX2NvbnRlbnRzKGZvbGRlciwgdG9rZW4pCiAgICAgICAgICAgIHNlbGYuX2NvbGxlY3QocGF5bG9hZCwgaXRlbXMsIHNlZW4sIGZvbGRlciwKICAgICAgICAgICAgICAgICAgICAgICAgICBzdHIoKGxhYmVscyBvciB7fSkuZ2V0KGZvbGRlcikgb3IgIiIpKQogICAgICAgIHJldHVybiB0dXBsZShpdGVtcykKCiAgICBkZWYgX2NvbnRlbnRzKHNlbGYsIGZvbGRlcjogc3RyLCB0b2tlbjogc3RyKSAtPiBkaWN0OgogICAgICAgIHVybCA9IGYiaHR0cHM6Ly9hcGkuZ29maWxlLmlvL2NvbnRlbnRzL3t1cmxsaWIucGFyc2UucXVvdGUoZm9sZGVyKX0iCiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLl9nZXQodXJsLCB0b2tlbikKICAgICAgICBwYXlsb2FkID0gTm9uZQogICAgICAgIHRyeToKICAgICAgICAgICAgcGF5bG9hZCA9IGpzb24ubG9hZHMocmVzcG9uc2UuYm9keS5kZWNvZGUoInV0Zi04IikpCiAgICAgICAgZXhjZXB0IChVbmljb2RlRGVjb2RlRXJyb3IsIGpzb24uSlNPTkRlY29kZUVycm9yKToKICAgICAgICAgICAgIyDpnZ4gSlNPTiDnmoQgNDAxLzQwMyDku43mjInlh63mja7mi5Lnu53lpITnkIbvvJvlhbbku5bnirbmgIHkuqTnu5nkuIvpnaLnmoTpgJrnlKjplJnor6/jgIIKICAgICAgICAgICAgcGFzcwogICAgICAgIGFwaV9zdGF0dXMgPSBwYXlsb2FkLmdldCgic3RhdHVzIikgaWYgaXNpbnN0YW5jZShwYXlsb2FkLCBkaWN0KSBlbHNlIE5vbmUKICAgICAgICBpZiBhcGlfc3RhdHVzID09ICJlcnJvci1ub3RQcmVtaXVtIjoKICAgICAgICAgICAgcmFpc2UgRm9sbG93U291cmNlRXJyb3IoCiAgICAgICAgICAgICAgICAiR29maWxlIOaWh+S7tuWIl+ihqCBBUEkg6ZyA6KaBIFByZW1pdW0g6LSm5oi377ybdG9rZW4g5pyJ5pWI77yMIgogICAgICAgICAgICAgICAgIuS9huW9k+WJjei0puaIt+Wll+mkkOS4jeaUr+aMgeatpOaOpeWPoyIpCiAgICAgICAgaWYgcmVzcG9uc2Uuc3RhdHVzIGluICg0MDEsIDQwMykgb3IgYXBpX3N0YXR1cyA9PSAiZXJyb3ItdG9rZW4iOgogICAgICAgICAgICByYWlzZSBDcmVkZW50aWFsRXJyb3IoIkdvZmlsZSDmi5Lnu53kuoYgQVBJIHRva2VuIikKICAgICAgICBpZiByZXNwb25zZS5zdGF0dXMgIT0gMjAwOgogICAgICAgICAgICByYWlzZSBGb2xsb3dTb3VyY2VFcnJvcihmIkdvZmlsZSDov5Tlm54gSFRUUCB7cmVzcG9uc2Uuc3RhdHVzfSIpCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UocGF5bG9hZCwgZGljdCkgb3IgcGF5bG9hZC5nZXQoInN0YXR1cyIpICE9ICJvayI6CiAgICAgICAgICAgIHJhaXNlIEZvbGxvd1NvdXJjZUVycm9yKCJHb2ZpbGUg5paH5Lu25YiX6KGo5pyq5Y+W5b6XIikKICAgICAgICByZXR1cm4gcGF5bG9hZAoKICAgIGRlZiBfZ2V0KHNlbGYsIHVybDogc3RyLCB0b2tlbjogc3RyKSAtPiBIdHRwUmVzcG9uc2U6CiAgICAgICAgaGVhZGVycyA9IHsKICAgICAgICAgICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgICAgICAgICAgIkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dG9rZW59IiwKICAgICAgICAgICAgIlVzZXItQWdlbnQiOiBVU0VSX0FHRU5ULAogICAgICAgIH0KICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlc3BvbnNlID0gc2VsZi50cmFuc3BvcnQoCiAgICAgICAgICAgICAgICBIdHRwUmVxdWVzdCgiR0VUIiwgdXJsLCBoZWFkZXJzKSwgc2VsZi50aW1lb3V0LCBzZWxmLm1heF9ieXRlcykKICAgICAgICBleGNlcHQgKE9TRXJyb3IsIGh0dHB4LkhUVFBFcnJvcikgYXMgZXhjOgogICAgICAgICAgICByYWlzZSBGb2xsb3dTb3VyY2VFcnJvcigiR29maWxlIOivt+axguWksei0pSIpIGZyb20gZXhjCiAgICAgICAgaWYgbGVuKHJlc3BvbnNlLmJvZHkpID4gc2VsZi5tYXhfYnl0ZXM6CiAgICAgICAgICAgIHJhaXNlIEZvbGxvd1NvdXJjZUVycm9yKCJHb2ZpbGUg5ZON5bqU6LaF5Ye65aSn5bCP5LiK6ZmQIikKICAgICAgICByZXR1cm4gcmVzcG9uc2UKCiAgICBkZWYgX2NvbGxlY3Qoc2VsZiwgcGF5bG9hZDogZGljdCwgaXRlbXM6IGxpc3QsIHNlZW46IHNldCwKICAgICAgICAgICAgICAgICBmb2xkZXI6IHN0ciwgbGFiZWw6IHN0cikgLT4gTm9uZToKICAgICAgICBzdGFjayA9IFtwYXlsb2FkLmdldCgiZGF0YSIpXQogICAgICAgIHdoaWxlIHN0YWNrIGFuZCBsZW4oaXRlbXMpIDwgc2VsZi5tYXhfaXRlbXM6CiAgICAgICAgICAgIG5vZGUgPSBzdGFjay5wb3AoKQogICAgICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShub2RlLCBkaWN0KToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGNoaWxkcmVuID0gbm9kZS5nZXQoImNoaWxkcmVuIikKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShjaGlsZHJlbiwgZGljdCk6CiAgICAgICAgICAgICAgICBzdGFjay5leHRlbmQocmV2ZXJzZWQobGlzdChjaGlsZHJlbi52YWx1ZXMoKSkpKQogICAgICAgICAgICBlbGlmIGlzaW5zdGFuY2UoY2hpbGRyZW4sIGxpc3QpOgogICAgICAgICAgICAgICAgc3RhY2suZXh0ZW5kKHJldmVyc2VkKGNoaWxkcmVuKSkKICAgICAgICAgICAgaWYgc3RyKG5vZGUuZ2V0KCJ0eXBlIikgb3IgIiIpLmNhc2Vmb2xkKCkgIT0gImZpbGUiOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgbWVkaWFfdHlwZSA9IHN0cihub2RlLmdldCgibWltZXR5cGUiKSBvciAiIikuY2FzZWZvbGQoKQogICAgICAgICAgICBraW5kID0gKCJ2aWRlbyIgaWYgbWVkaWFfdHlwZS5zdGFydHN3aXRoKCJ2aWRlby8iKSBlbHNlCiAgICAgICAgICAgICAgICAgICAgImltYWdlIiBpZiBtZWRpYV90eXBlLnN0YXJ0c3dpdGgoImltYWdlLyIpIGVsc2UgIiIpCiAgICAgICAgICAgIGxpbmsgPSBzdHIobm9kZS5nZXQoImxpbmsiKSBvciBub2RlLmdldCgiZG93bmxvYWRMaW5rIikgb3IgIiIpCiAgICAgICAgICAgIGlmIG5vdCBraW5kIG9yIG5vdCBsaW5rLnN0YXJ0c3dpdGgoImh0dHBzOi8vIikgb3IgbGluayBpbiBzZWVuOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgc2Vlbi5hZGQobGluaykKICAgICAgICAgICAgaXRlbXMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICJpZCI6IHN0cihub2RlLmdldCgiaWQiKSBvciBzdGFibGVfaWQobGluaykpLAogICAgICAgICAgICAgICAgIm5hbWUiOiBwbGFpbl90ZXh0KHN0cihub2RlLmdldCgibmFtZSIpIG9yICIiKSkgb3IgZiJ7a2luZH0ge2xlbihpdGVtcykrMX0iLAogICAgICAgICAgICAgICAgInVybCI6IGxpbmssCiAgICAgICAgICAgICAgICAidGh1bWJfdXJsIjogc3RyKG5vZGUuZ2V0KCJ0aHVtYm5haWwiKSBvciAiIikgb3IgTm9uZSwKICAgICAgICAgICAgICAgICJtZWRpYV9raW5kIjoga2luZCwKICAgICAgICAgICAgICAgICJzaXplIjogbm9kZS5nZXQoInNpemUiKSwKICAgICAgICAgICAgICAgICJyZXNvdXJjZV9wcm92aWRlciI6ICJnb2ZpbGUiLAogICAgICAgICAgICAgICAgInJlc291cmNlX2dyb3VwIjogZiJnb2ZpbGU6e2ZvbGRlcn0iLAogICAgICAgICAgICAgICAgInJlc291cmNlX2dyb3VwX2xhYmVsIjogbGFiZWwgb3IgZiJHb2ZpbGUgwrcge2ZvbGRlcn0iLAogICAgICAgICAgICB9KQo=
+"""展开 Gofile 文件页。
+
+Gofile 是第三方文件站，不是追更来源。F95 和 FANBOX 的帖子里可能贴 Gofile 链接，
+但 Gofile 本身跟这两个站没有关系。
+
+这段逻辑独立成模块，不挂在 `_BaseConnector` 上：挂上去的话每个连接器——包括根本不碰
+Gofile 的 rule34、kemono、paheal——都继承着它，而且发请求必须记得写
+`connector_headers=False`：漏掉的话，来源站的 Cookie（F95 的会话、FANBOX 的登录态）
+会跟着一起发到 gofile.io。那是个只靠「调用方记得传参」维持的安全约束。
+
+搬出来之后，展开器自己持有 transport，只发自己的 User-Agent 和自己的 Bearer token。
+把来源站凭据带到第三方主机这件事，从「参数传对了」变成结构上做不到。
+
+token 只进 Authorization 头，永远不进 URL、不进候选、不进日志。
+"""
+from __future__ import annotations
+
+import json
+import re
+import urllib.parse
+from typing import Mapping
+
+import httpx
+
+from .follow import DEFAULT_MAX_BYTES, FollowSourceError, plain_text, stable_id
+from .follow_secrets import Credential, CredentialError
+from .http import HttpRequest, HttpResponse, HttpTransport
+
+#: 请求 Gofile 用的固定 UA。刻意不复用连接器的 `_headers()`——那里面可能有来源站
+#: 的 Cookie，而这里是另一个主机。
+from .user_agent import USER_AGENT
+
+_FOLDER_PATH = re.compile(r"/d/([A-Za-z0-9_-]+)")
+_LABELED_FOLDER = re.compile(
+    r"gofile\s*\(([^)]+)\)\s*[-:：]?\s*https://(?:[^/]+\.)?gofile\.io/d/"
+    r"([A-Za-z0-9_-]+)", re.IGNORECASE)
+
+
+def folder_ids(links: list[str]) -> list[str]:
+    """从一堆链接里挑出 Gofile 文件夹 id，保持出现顺序且去重。"""
+    found: list[str] = []
+    for link in links:
+        try:
+            parsed = urllib.parse.urlsplit(link)
+        except ValueError:
+            continue
+        host = (parsed.hostname or "").casefold()
+        matched = _FOLDER_PATH.fullmatch(parsed.path.rstrip("/"))
+        if (host == "gofile.io" or host.endswith(".gofile.io")) and matched:
+            found.append(matched.group(1))
+    return list(dict.fromkeys(found))
+
+
+def folder_labels(text: str | None) -> dict[str, str]:
+    """Read optional human labels next to FANBOX Gofile links."""
+    return {folder: label.strip() for label, folder in _LABELED_FOLDER.findall(text or "")
+            if label.strip()}
+
+
+class GofileExpander:
+    """用用户自己的 API token 把 Gofile 文件夹展开成媒体条目。"""
+
+    def __init__(self, transport: HttpTransport, *,
+                 credential: Credential | None = None,
+                 timeout: float = 15.0,
+                 max_bytes: int = DEFAULT_MAX_BYTES,
+                 max_items: int = 100):
+        self.transport = transport
+        self.credential = credential
+        self.timeout = timeout
+        self.max_bytes = max_bytes
+        self.max_items = max_items
+
+    def expand(self, links: list[str], *,
+               labels: Mapping[str, str] | None = None,
+               ) -> tuple[dict[str, object], ...]:
+        folders = folder_ids(links)
+        if not folders or self.credential is None:
+            return ()
+        token, = self.credential.require("api_token")
+        items: list[dict[str, object]] = []
+        seen: set[str] = set()
+        for folder in folders:
+            payload = self._contents(folder, token)
+            self._collect(payload, items, seen, folder,
+                          str((labels or {}).get(folder) or ""))
+        return tuple(items)
+
+    def _contents(self, folder: str, token: str) -> dict:
+        url = f"https://api.gofile.io/contents/{urllib.parse.quote(folder)}"
+        response = self._get(url, token)
+        payload = None
+        try:
+            payload = json.loads(response.body.decode("utf-8"))
+        except (UnicodeDecodeError, json.JSONDecodeError):
+            # 非 JSON 的 401/403 仍按凭据拒绝处理；其他状态交给下面的通用错误。
+            pass
+        api_status = payload.get("status") if isinstance(payload, dict) else None
+        if api_status == "error-notPremium":
+            raise FollowSourceError(
+                "Gofile 文件列表 API 需要 Premium 账户；token 有效，"
+                "但当前账户套餐不支持此接口")
+        if response.status in (401, 403) or api_status == "error-token":
+            raise CredentialError("Gofile 拒绝了 API token")
+        if response.status != 200:
+            raise FollowSourceError(f"Gofile 返回 HTTP {response.status}")
+        if not isinstance(payload, dict) or payload.get("status") != "ok":
+            raise FollowSourceError("Gofile 文件列表未取得")
+        return payload
+
+    def _get(self, url: str, token: str) -> HttpResponse:
+        headers = {
+            "Accept": "application/json",
+            "Authorization": f"Bearer {token}",
+            "User-Agent": USER_AGENT,
+        }
+        try:
+            response = self.transport(
+                HttpRequest("GET", url, headers), self.timeout, self.max_bytes)
+        except (OSError, httpx.HTTPError) as exc:
+            raise FollowSourceError("Gofile 请求失败") from exc
+        if len(response.body) > self.max_bytes:
+            raise FollowSourceError("Gofile 响应超出大小上限")
+        return response
+
+    def _collect(self, payload: dict, items: list, seen: set,
+                 folder: str, label: str) -> None:
+        stack = [payload.get("data")]
+        while stack and len(items) < self.max_items:
+            node = stack.pop()
+            if not isinstance(node, dict):
+                continue
+            children = node.get("children")
+            if isinstance(children, dict):
+                stack.extend(reversed(list(children.values())))
+            elif isinstance(children, list):
+                stack.extend(reversed(children))
+            if str(node.get("type") or "").casefold() != "file":
+                continue
+            media_type = str(node.get("mimetype") or "").casefold()
+            kind = ("video" if media_type.startswith("video/") else
+                    "image" if media_type.startswith("image/") else "")
+            link = str(node.get("link") or node.get("downloadLink") or "")
+            if not kind or not link.startswith("https://") or link in seen:
+                continue
+            seen.add(link)
+            items.append({
+                "id": str(node.get("id") or stable_id(link)),
+                "name": plain_text(str(node.get("name") or "")) or f"{kind} {len(items)+1}",
+                "url": link,
+                "thumb_url": str(node.get("thumbnail") or "") or None,
+                "media_kind": kind,
+                "size": node.get("size"),
+                "resource_provider": "gofile",
+                "resource_group": f"gofile:{folder}",
+                "resource_group_label": label or f"Gofile · {folder}",
+            })

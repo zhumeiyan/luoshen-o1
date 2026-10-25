@@ -1,1 +1,65 @@
-IyBDb3B5cmlnaHQgQW1hem9uLmNvbSwgSW5jLiBvciBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4KIyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogQXBhY2hlLTIuMAoiIiJGYWlsIG9uIGNvcHlsZWZ0LCBzb3VyY2UtYXZhaWxhYmxlIG9yIHVubGFiZWxlZCBkZXBlbmRlbmN5IGxpY2Vuc2VzLgoKUmVhZHMgYGBwaXAtbGljZW5zZXMgLS1mb3JtYXQ9anNvbmBgIG91dHB1dCBvbiBzdGRpbiAocnVuIGl0IGluIGFuIGVudmlyb25tZW50CnN5bmNlZCB3aXRoIGV2ZXJ5IGV4dHJhKSBhbmQgZXhpdHMgbm9uLXplcm8gd2hlbiBhIHBhY2thZ2UncyBsaWNlbnNlIG1hdGNoZXMKREVOSUVEIGFuZCB0aGUgcGFja2FnZSBpcyBub3Qgb24gQUxMT1dFRC4gRWFjaCBBTExPV0VEIGVudHJ5IG5hbWVzIHdoeSBpdCBpcwphY2NlcHRhYmxlOyBhZGQgb25lIG9ubHkgYWZ0ZXIgcmV2aWV3aW5nIHRoZSBsaWNlbnNlLgoiIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCByZQppbXBvcnQgc3lzCgojIENvcHlsZWZ0IChzdHJvbmcgYW5kIHdlYWspLCBzb3VyY2UtYXZhaWxhYmxlIGFuZCBwcm9wcmlldGFyeSB0ZXJtcy4gV2VhawojIGNvcHlsZWZ0IGlzIGRlbmllZCB0b28gc28gZWFjaCBzdWNoIHBhY2thZ2UgZ2V0cyBhbiBleHBsaWNpdCByZXZpZXcgYmVsb3cuCkRFTklFRCA9IHJlLmNvbXBpbGUoCiAgICByIlxiKD86W0FMXT9HUEx8TVBMfEVQTHxDRERMfEVVUEx8U1NQTHxCVVNMKVxifEdlbmVyYWwgUHVibGljIExpY2Vuc2UiCiAgICByInxNb3ppbGxhIFB1YmxpY3xFY2xpcHNlIFB1YmxpY3xTZXJ2ZXIgU2lkZSBQdWJsaWN8QnVzaW5lc3MgU291cmNlIgogICAgciJ8Q29tbW9ucyBDbGF1c2V8UHJvcHJpZXRhcnkiLAogICAgcmUuSUdOT1JFQ0FTRSwKKQojIHBpcC1saWNlbnNlcyByZXBvcnRzIGEgcGFja2FnZSB3aXRob3V0IGxpY2Vuc2UgbWV0YWRhdGEgYXMgVU5LTk9XTi4KVU5MQUJFTEVEID0geyJVTktOT1dOIiwgIiJ9CgojIG5hbWUgKG9yIG5hbWUgcHJlZml4IGVuZGluZyBpbiAiLSIpIC0+IHJlYXNvbgpBTExPV0VEID0gewogICAgImNlcnRpZmkiOiAiTVBMLTIuMCAod2VhaywgZmlsZS1sZXZlbCBjb3B5bGVmdCksIHVubW9kaWZpZWQiLAogICAgIm9yanNvbiI6ICJNUEwtMi4wIEFORCAoQXBhY2hlLTIuMCBPUiBNSVQpLCB1bm1vZGlmaWVkIiwKICAgICJ0cWRtIjogIk1QTC0yLjAgQU5EIE1JVCwgdW5tb2RpZmllZCIsCiAgICAibnZpZGlhLSI6ICJOVklESUEgQ1VEQSBydW50aW1lIGxpYnJhcmllcywgcHVsbGVkIGluIGJ5IHRvcmNoIGluIFtsb2NhbF0iLAogICAgImN1ZGEtIjogIk5WSURJQSBDVURBIHRvb2xraXQgbWV0YXBhY2thZ2UsIHB1bGxlZCBpbiBieSB0b3JjaCBpbiBbbG9jYWxdIiwKfQoKCmRlZiBfYWxsb3dlZChuYW1lOiBzdHIpIC0+IGJvb2w6CiAgICBuYW1lID0gbmFtZS5sb3dlcigpCiAgICByZXR1cm4gYW55KAogICAgICAgIG5hbWUuc3RhcnRzd2l0aChrZXkpIGlmIGtleS5lbmRzd2l0aCgiLSIpIGVsc2UgbmFtZSA9PSBrZXkgZm9yIGtleSBpbiBBTExPV0VECiAgICApCgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICBwYWNrYWdlcyA9IGpzb24ubG9hZChzeXMuc3RkaW4pCiAgICBpZiBub3QgcGFja2FnZXM6CiAgICAgICAgIyBBbiBlbXB0eSByZXBvcnQgbWVhbnMgcGlwLWxpY2Vuc2VzIHNhdyBubyBlbnZpcm9ubWVudCwgbm90IHRoYXQKICAgICAgICAjIGV2ZXJ5IGxpY2Vuc2UgcGFzc2VkLgogICAgICAgIHByaW50KCJObyBwYWNrYWdlcyB0byBjaGVjazogaXMgdGhlIGVudmlyb25tZW50IHN5bmNlZD8iKQogICAgICAgIHJldHVybiAxCiAgICBkZW5pZWQgPSBbCiAgICAgICAgKHBbIk5hbWUiXSwgcFsiVmVyc2lvbiJdLCAiICIuam9pbihwWyJMaWNlbnNlIl0uc3BsaXQoKSlbOjgwXSkKICAgICAgICBmb3IgcCBpbiBwYWNrYWdlcwogICAgICAgIGlmIChERU5JRUQuc2VhcmNoKHBbIkxpY2Vuc2UiXSkgb3IgcFsiTGljZW5zZSJdLnN0cmlwKCkgaW4gVU5MQUJFTEVEKQogICAgICAgIGFuZCBub3QgX2FsbG93ZWQocFsiTmFtZSJdKQogICAgXQogICAgcHJpbnQoZiJDaGVja2VkIHtsZW4ocGFja2FnZXMpfSBwYWNrYWdlcy4iKQogICAgZm9yIG5hbWUsIHZlcnNpb24sIGxpY2Vuc2VfIGluIGRlbmllZDoKICAgICAgICBwcmludChmIkRFTklFRCB7bmFtZX0ge3ZlcnNpb259OiB7bGljZW5zZV99IikKICAgIHJldHVybiAxIGlmIGRlbmllZCBlbHNlIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: Apache-2.0
+"""Fail on copyleft, source-available or unlabeled dependency licenses.
+
+Reads ``pip-licenses --format=json`` output on stdin (run it in an environment
+synced with every extra) and exits non-zero when a package's license matches
+DENIED and the package is not on ALLOWED. Each ALLOWED entry names why it is
+acceptable; add one only after reviewing the license.
+"""
+
+from __future__ import annotations
+
+import json
+import re
+import sys
+
+# Copyleft (strong and weak), source-available and proprietary terms. Weak
+# copyleft is denied too so each such package gets an explicit review below.
+DENIED = re.compile(
+    r"\b(?:[AL]?GPL|MPL|EPL|CDDL|EUPL|SSPL|BUSL)\b|General Public License"
+    r"|Mozilla Public|Eclipse Public|Server Side Public|Business Source"
+    r"|Commons Clause|Proprietary",
+    re.IGNORECASE,
+)
+# pip-licenses reports a package without license metadata as UNKNOWN.
+UNLABELED = {"UNKNOWN", ""}
+
+# name (or name prefix ending in "-") -> reason
+ALLOWED = {
+    "certifi": "MPL-2.0 (weak, file-level copyleft), unmodified",
+    "orjson": "MPL-2.0 AND (Apache-2.0 OR MIT), unmodified",
+    "tqdm": "MPL-2.0 AND MIT, unmodified",
+    "nvidia-": "NVIDIA CUDA runtime libraries, pulled in by torch in [local]",
+    "cuda-": "NVIDIA CUDA toolkit metapackage, pulled in by torch in [local]",
+}
+
+
+def _allowed(name: str) -> bool:
+    name = name.lower()
+    return any(
+        name.startswith(key) if key.endswith("-") else name == key for key in ALLOWED
+    )
+
+
+def main() -> int:
+    packages = json.load(sys.stdin)
+    if not packages:
+        # An empty report means pip-licenses saw no environment, not that
+        # every license passed.
+        print("No packages to check: is the environment synced?")
+        return 1
+    denied = [
+        (p["Name"], p["Version"], " ".join(p["License"].split())[:80])
+        for p in packages
+        if (DENIED.search(p["License"]) or p["License"].strip() in UNLABELED)
+        and not _allowed(p["Name"])
+    ]
+    print(f"Checked {len(packages)} packages.")
+    for name, version, license_ in denied:
+        print(f"DENIED {name} {version}: {license_}")
+    return 1 if denied else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

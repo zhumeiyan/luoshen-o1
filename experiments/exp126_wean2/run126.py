@@ -1,1 +1,219 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjEyNiDCtyDmlq3lpbbmlrnmoYjvvJrku4DkuYjog73mioogZmcg5LuOIDAg5oqs5Yiw6ZiI5YC85LmL5LiK77yfCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KMTI1IOe7k+iuuu+8mmZnPTAg4oaSIOaSpOaOiei+k+a2siAwLzEyIOWtmOa0u++8jOW5s+Wdh+aSkSAyMzUg5ouN77yb6L6T5ray5Lmw55qE5piv5pe26Ze05LiN5piv6IO95Yqb44CCCjEyNiDov73pl67vvJoqKuaAjuS5iOaWreWltu+8nyoqCgrpooTms6jlhozlgYforr4KICBIMSDkuaDlvpfpnIDopoHjgJDnm7jlgJrjgJEoY29udGluZ2VuY3kp77yM5LiN5piv44CQ55u457un44CRKGNvbnRpZ3VpdHkp44CCCiAgICAg5a2m5Lmg5b6L55So5Y2P5pa55beu77yaIGRmZyA9IGV0YSooYWN0LUVbYWN0XSkqKGZiLUVbZmJdKQogICAgIOmXreeOr+S4lueVjCBmYiDiiJ0gYWN0IOKGkiDljY/mlrnlt64gPiAwIOKGkiDlrabliLAKICAgICDlvIDmlL7kuJbnlYwgZmIg5LiOIGFjdCDml6DlhbMg4oaSIOWNj+aWueW3riDiiYggMCDihpIg5a2m5LiN5YiwCiAgSDIg5aSW572u5bel5YW377yIIzI5IOW7tuWxleihqOWei++8ieiLpeOAkOS7o+abv+OAkeaIkeinhemjn++8jOWImeaYr+esrOS6jOaguei+k+a2sueuoe+8mgogICAgIOaSpOaOieW3peWFtyDihpIgMCDlrZjmtLvjgILlj6rmnIki5bel5YW3ICsg5oiR6Ieq5bex5ZCM5pe25Zyo6KeF6aOfIuaJjeeVmeS4i+iDveWKm+OAggoK5pa55qGI77yI6Zi25q61MSDorq3nu4MgVDE9MTIwMO+8jOmYtuautTIg5pKk6Zmk5omA5pyJ5aSW6YOo5L6b57uZIFQyPTE1MDDvvIkKICAxIG5vX3ByYWN0aWNlICAg5Y+q6L6T5ray5LiN57uD77yIMTI1IOW3suefpeWvueeFp++8iQogIDIgcHJhY3RpY2Vfb3BlbiDovpPmtrIgKyDnu4PvvIzkuJbnlYznm7jnu6fkuI3nm7jlgJoKICAzIHByYWN0aWNlX2Nsb3NlZCDovpPmtrIgKyDnu4PvvIzkuJbnlYznm7jlgJoKICA0IHRvb2xfb25seSAgICAg5bel5YW35pu/5oiR6KeF6aOf77yI5aSn6YeP5aSW6YOo5L6b6IO977yJ77yM5oiR5LiN57uDCiAgNSB0b29sX3BsdXNfc2VsZiDlt6Xlhbfkvpvog70gKyDmiJHlkIzml7boh6rlt7Hop4Xpo5/vvIjnm7jlgJrvvIkKICA2IHZhcmlhdGlvbiAgICAgIzE5IOWPjeeGteWinu+8mumaj+acuuWPmOW8guaSnui/kOawlO+8iOacn+acm+S4jeWPmO+8iQrljp/liJnvvJrpmLPmgKcv6Zi05oCn5a+554Wn5b+F5Zyo77yb5Y+v6K+B5Lyq5b+F5p+l77yb5LiN6LCD5Y+C5Yiw5oOz6KaB55qE562U5qGI44CCCiIiIgppbXBvcnQgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucApzeXMucGF0aC5pbnNlcnQoMCwgJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2NvcmUnKQpmcm9tIGxpZmU1IGltcG9ydCBMaWZlNQoKU0VFRFMgPSBsaXN0KHJhbmdlKDE2KSkKVDEsIFQyID0gMTIwMCwgMTUwMApEUklQID0gMC4wNSAgICAgICAgICAjIOiuree7g+acn+e7tOaMgeeUn+WRveeahOi+k+a2sgpUT09MID0gMC4xMCAgICAgICAgICAjIOW3peWFt+S+m+iDve+8iOavlOi+k+a2sueMm++8iQpFVEEgPSAwLjAwNCAgICAgICAgICAjIOWtpuS5oOeOhwpUQVUgPSA1MC4wICAgICAgICAgICAjIOa7keWKqOWdh+WAvOaXtumXtOW4uOaVsApGR19USFJFU0ggPSAwLjAwOCAgICAjIDEyNSDlrp7mtYvmrbvkuqHovrnnlYwKCkZDSCA9IDcgICAgICAgICAgICAgICMgZm9yYWdlX2NoCgoKZGVmIHNrZXcobGYpOgogICAgYyA9IG5wLmFzYXJyYXkobGYubG9nWy0xXVsnY2FwdiddLCBmbG9hdCkKICAgIHJldHVybiBmbG9hdChjLnN0ZChkZG9mPTEpIC8gbWF4KGMubWVhbigpLCAxZS0xMikpCgoKZGVmIHdvcmxkX3Jlc3BvbnNlKHNjaGVtZSwgYWN0LCBybmcpOgogICAgIiIi5LiW55WM5a+55oiR6KeF6aOf6KGM5Yqo55qE5ZON5bqUIiIiCiAgICBpZiBzY2hlbWUgaW4gKCdwcmFjdGljZV9jbG9zZWQnLCAndG9vbF9wbHVzX3NlbGYnKToKICAgICAgICByZXR1cm4gYWN0ICogKDAuOCArIDAuNCAqIHJuZy5yYW5kb20oKSkgICAgICAjIOebuOWAmu+8muWTjeW6lCDiiJ0g5oiR55qE5oqV5YWlCiAgICBpZiBzY2hlbWUgPT0gJ3ByYWN0aWNlX29wZW4nOgogICAgICAgIHJldHVybiAwLjMwICogKDAuNSArIHJuZy5yYW5kb20oKSkgICAgICAgICAgICMg55u457un5LiN55u45YCa77ya5LiOIGFjdCDml6DlhbMKICAgIGlmIHNjaGVtZSA9PSAndG9vbF9vbmx5JzoKICAgICAgICByZXR1cm4gMC4wICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOW3peWFt+abv+aIkeWBmuS6hu+8jOaIkeayoeWKqOS9nAogICAgcmV0dXJuIDAuMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgbm9fcHJhY3RpY2UgLyB2YXJpYXRpb24KCgpkZWYgcnVuX3NjaGVtZShzY2hlbWUsIHNlZWQsIFQxPVQxLCBUMj1UMiwgZXRhPUVUQSwgZHJpcD1EUklQKToKICAgIGxmID0gTGlmZTUoTj04LCBzZWVkPXNlZWQsIGZnPTAuMCkKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkICogNzkxOSArIDEzKQogICAgZmcgPSAwLjAKICAgIG1hID0gMC4wCiAgICBtZiA9IDAuMAogICAgYWN0X3RyYWNlID0gW10KCiAgICBmb3IgdCBpbiByYW5nZShUMSk6CiAgICAgICAgaWYgbm90IGxmLmFsaXZlOgogICAgICAgICAgICBicmVhawogICAgICAgIGxmLmZnID0gZmcKICAgICAgICBsZi5zdGVwKCkKICAgICAgICByZWMgPSBsZi5sb2dbLTFdCiAgICAgICAgYWN0ID0gcmVjWydhdmVjJ11bRkNIXQogICAgICAgIGFjdF90cmFjZS5hcHBlbmQoYWN0KQogICAgICAgIGZiID0gd29ybGRfcmVzcG9uc2Uoc2NoZW1lLCBhY3QsIHJuZykKCiAgICAgICAgIyAtLS0tIOWklumDqOS+m+iDvSAtLS0tCiAgICAgICAgaWYgc2NoZW1lID09ICd0b29sX29ubHknOgogICAgICAgICAgICBsZi5FID0gbWluKGxmLkVtYXgsIGxmLkUgKyBUT09MKSAgICAgICAgICAjIOW3peWFt+abv+aIkeinhemjnwogICAgICAgIGVsaWYgc2NoZW1lID09ICd0b29sX3BsdXNfc2VsZic6CiAgICAgICAgICAgIGxmLkUgPSBtaW4obGYuRW1heCwgbGYuRSArIFRPT0wgKiAwLjUpICAgICMg5bel5YW35LiO5oiR5bm26KGMCiAgICAgICAgaWYgc2NoZW1lICE9ICd0b29sX29ubHknIG9yIFRydWU6CiAgICAgICAgICAgIHBhc3MKICAgICAgICAjIOiuree7g+acn+i+k+a2su+8muaJgOacieaWueahiOmDvee7me+8iOWQpuWImSBmZz0wIOaSkeS4jeWIsOWtpuS8mu+8iQogICAgICAgIGlmIHNjaGVtZSAhPSAndG9vbF9vbmx5JzoKICAgICAgICAgICAgbGYuRSA9IG1pbihsZi5FbWF4LCBsZi5FICsgZHJpcCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBsZi5FID0gbWluKGxmLkVtYXgsIGxmLkUgKyBkcmlwICogMC4zKQoKICAgICAgICAjIC0tLS0g5a2m5Lmg5b6L77yI55u45YCaID0g5Y2P5pa55beu77yJLS0tLQogICAgICAgIGlmIHNjaGVtZSBpbiAoJ3ByYWN0aWNlX2Nsb3NlZCcsICdwcmFjdGljZV9vcGVuJywgJ3Rvb2xfcGx1c19zZWxmJyk6CiAgICAgICAgICAgIG1hICs9IChhY3QgLSBtYSkgLyBUQVUKICAgICAgICAgICAgbWYgKz0gKGZiIC0gbWYpIC8gVEFVCiAgICAgICAgICAgIGNvdiA9IChhY3QgLSBtYSkgKiAoZmIgLSBtZikKICAgICAgICAgICAgZmcgPSBtYXgoMC4wLCBmZyArIGV0YSAqIGNvdikKICAgICAgICBlbGlmIHNjaGVtZSA9PSAndmFyaWF0aW9uJzoKICAgICAgICAgICAgZmcgPSBtYXgoMC4wLCBmZyArIDAuMDAwOCAqIHJuZy5ub3JtYWwoKSkgICAjIOmaj+acuuWPmOW8gu+8jOacn+acm+S4jeWPmAogICAgICAgICMgbm9fcHJhY3RpY2UgLyB0b29sX29ubHnvvJpmZyDmgZIgMAoKICAgIGZnX2xlYXJuZWQgPSBmbG9hdChmZykKICAgIGNhcF9hdCA9IGZsb2F0KGxmLmNhcGFjaXR5W0ZDSF0pCgogICAgIyA9PT09PT09PT09PT09PT09PSDpmLbmrrUy77ya5pKk6Zmk5YWo6YOo5aSW6YOo5L6b57uZID09PT09PT09PT09PT09PT09CiAgICBsZi5mZyA9IGZnX2xlYXJuZWQKICAgIHQwID0gbGYudAogICAgd2hpbGUgbGYuYWxpdmUgYW5kIGxmLnQgLSB0MCA8IFQyOgogICAgICAgIGxmLnN0ZXAoKQogICAgb3V0ID0gZGljdChmZz1mZ19sZWFybmVkLCBjYXA3PWNhcF9hdCwgYWxpdmU9Ym9vbChsZi5hbGl2ZSksCiAgICAgICAgICAgICAgIHRpY2tzPWludChsZi50IC0gdDApLAogICAgICAgICAgICAgICBhY3Q9ZmxvYXQobnAubWVhbihhY3RfdHJhY2UpKSBpZiBhY3RfdHJhY2UgZWxzZSBmbG9hdCgnbmFuJyksCiAgICAgICAgICAgICAgIHNrZXc9KHNrZXcobGYpIGlmIGxmLmFsaXZlIGVsc2UgZmxvYXQoJ25hbicpKSkKICAgIHJldHVybiBvdXQKCgpTQ0hFTUVTID0gWydub19wcmFjdGljZScsICdwcmFjdGljZV9vcGVuJywgJ3ByYWN0aWNlX2Nsb3NlZCcsCiAgICAgICAgICAgJ3Rvb2xfb25seScsICd0b29sX3BsdXNfc2VsZicsICd2YXJpYXRpb24nXQoKcHJpbnQoIj09PSAxMjYgwrcg5pat5aW25pa55qGI77ya5pKk6Zmk5aSW6YOo5L6b57uZ5ZCO55qE5a2Y5rS7ID09PSIpCnByaW50KGYieyfmlrnmoYgnOjwxOH17J+WtpuWIsGZnJzo+OX17J2NhcDcnOj44fXsn5a2Y5rS7Jzo+OX17J+aSkSjmi40pJzo+OX17J+WBj+W6pic6Pjl9IikKcmVzdWx0ID0ge30KZm9yIHNjIGluIFNDSEVNRVM6CiAgICBycyA9IFtydW5fc2NoZW1lKHNjLCBzZCkgZm9yIHNkIGluIFNFRURTXQogICAgZmcgPSBucC5hcnJheShbclsnZmcnXSBmb3IgciBpbiByc10sIGZsb2F0KQogICAgYWwgPSBucC5hcnJheShbclsnYWxpdmUnXSBmb3IgciBpbiByc10sIGZsb2F0KQogICAgdGsgPSBucC5hcnJheShbclsndGlja3MnXSBmb3IgciBpbiByc10sIGZsb2F0KQogICAgYzcgPSBucC5hcnJheShbclsnY2FwNyddIGZvciByIGluIHJzXSwgZmxvYXQpCiAgICBzayA9IG5wLmFycmF5KFtyWydza2V3J10gZm9yIHIgaW4gcnMgaWYgclsnYWxpdmUnXV0sIGZsb2F0KQogICAgcmVzdWx0W3NjXSA9IGRpY3QoZmc9ZmxvYXQoZmcubWVhbigpKSwgZmdfc2Q9ZmxvYXQoZmcuc3RkKGRkb2Y9MSkpLAogICAgICAgICAgICAgICAgICAgICAgY2FwNz1mbG9hdChjNy5tZWFuKCkpLAogICAgICAgICAgICAgICAgICAgICAgYWxpdmU9ZmxvYXQoYWwubWVhbigpKSwgbj1pbnQoYWwuc3VtKCkpLAogICAgICAgICAgICAgICAgICAgICAgdGlja3M9ZmxvYXQodGsubWVhbigpKSwKICAgICAgICAgICAgICAgICAgICAgIHNrZXc9KGZsb2F0KHNrLm1lYW4oKSkgaWYgbGVuKHNrKSBlbHNlIGZsb2F0KCduYW4nKSksCiAgICAgICAgICAgICAgICAgICAgICByYXc9W2RpY3QoZmc9clsnZmcnXSwgYWxpdmU9clsnYWxpdmUnXSwgdGlja3M9clsndGlja3MnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXA3PXJbJ2NhcDcnXSkgZm9yIHIgaW4gcnNdKQogICAgcHJpbnQoZiJ7c2M6PDE4fXtmZy5tZWFuKCk6OS41Zn17YzcubWVhbigpOjguM2Z9IgogICAgICAgICAgZiJ7aW50KGFsLnN1bSgpKTo2ZH0vMTZ7dGsubWVhbigpOjkuMWZ9IgogICAgICAgICAgZiJ7KHNrLm1lYW4oKSBpZiBsZW4oc2spIGVsc2UgZmxvYXQoJ25hbicpKTo5LjRmfSIpCgojID09PT09PT09PT09PT09PT09IOmFjeWvueavlOi+gyA9PT09PT09PT09PT09PT09PQpkZWYgcGFpcmVkKGEsIGIpOgogICAgeCA9IG5wLmFycmF5KFtyWydmZyddIGZvciByIGluIHJlc3VsdFthXVsncmF3J11dLCBmbG9hdCkKICAgIHkgPSBucC5hcnJheShbclsnZmcnXSBmb3IgciBpbiByZXN1bHRbYl1bJ3JhdyddXSwgZmxvYXQpCiAgICBkID0geCAtIHkKICAgIHNlID0gZC5zdGQoZGRvZj0xKSAvIG5wLnNxcnQobGVuKGQpKQogICAgcmV0dXJuIGRpY3QoZGVsdGE9ZmxvYXQoZC5tZWFuKCkpLCBzZT1mbG9hdChzZSksCiAgICAgICAgICAgICAgICBsbz1mbG9hdChkLm1lYW4oKSAtIDEuOTYgKiBzZSksIGhpPWZsb2F0KGQubWVhbigpICsgMS45NiAqIHNlKSwKICAgICAgICAgICAgICAgIGNyb3NzMD1ib29sKChkLm1lYW4oKSAtIDEuOTYgKiBzZSkgKiAoZC5tZWFuKCkgKyAxLjk2ICogc2UpIDwgMCkpCgpwcmludCgiXG49PT0g6YWN5a+577yI5ZCM5a2m5Yiw55qEIGZn77yM5beu5YC855qEIDk1JUNJ77yJPT09IikKcGFpcnMgPSBbKCdwcmFjdGljZV9jbG9zZWQnLCAncHJhY3RpY2Vfb3BlbicsICdIMSDnm7jlgJogdnMg55u457unJyksCiAgICAgICAgICgncHJhY3RpY2VfY2xvc2VkJywgJ25vX3ByYWN0aWNlJywgJ0gxIOe7gyB2cyDkuI3nu4MnKSwKICAgICAgICAgKCd0b29sX3BsdXNfc2VsZicsICd0b29sX29ubHknLCAnSDIg5bel5YW3K+iHquinhSB2cyDnuq/lt6XlhbcnKSwKICAgICAgICAgKCdwcmFjdGljZV9jbG9zZWQnLCAndG9vbF9wbHVzX3NlbGYnLCAn6Ieq6KeFIHZzIOW3peWFtyvoh6rop4UnKV0KY29tcCA9IHt9CmZvciBhLCBiLCBsYWIgaW4gcGFpcnM6CiAgICBwID0gcGFpcmVkKGEsIGIpCiAgICBjb21wW2Yie2F9LXtifSJdID0gcAogICAgcHJpbnQoZiIgIHtsYWI6PDI2fSDOlGZnPXtwWydkZWx0YSddOisuNWZ9ICBDSVt7cFsnbG8nXTorLjVmfSx7cFsnaGknXTorLjVmfV0iCiAgICAgICAgICBmIiAgeyfot6gwJyBpZiBwWydjcm9zczAnXSBlbHNlICfmmL7okZcnfSIpCgojID09PT09PT09PT09PT09PT09IOWtpuS5oOeOh+WJgumHj+aJq+aPjyA9PT09PT09PT09PT09PT09PQpwcmludCgiXG49PT0g5a2m5Lmg546H5YmC6YeP5omr5o+P77yIcHJhY3RpY2VfY2xvc2Vk77yJPT09IikKZG9zZSA9IFtdCmZvciBldGEgaW4gWzAuMDAwNSwgMC4wMDEsIDAuMDAyLCAwLjAwNCwgMC4wMDgsIDAuMDE2XToKICAgIHJzID0gW3J1bl9zY2hlbWUoJ3ByYWN0aWNlX2Nsb3NlZCcsIHNkLCBldGE9ZXRhKSBmb3Igc2QgaW4gU0VFRFNbOjEyXV0KICAgIGZnID0gbnAuYXJyYXkoW3JbJ2ZnJ10gZm9yIHIgaW4gcnNdLCBmbG9hdCkKICAgIGFsID0gbnAuYXJyYXkoW3JbJ2FsaXZlJ10gZm9yIHIgaW4gcnNdLCBmbG9hdCkKICAgIGRvc2UuYXBwZW5kKGRpY3QoZXRhPWV0YSwgZmc9ZmxvYXQoZmcubWVhbigpKSwgYWxpdmU9ZmxvYXQoYWwubWVhbigpKSwKICAgICAgICAgICAgICAgICAgICAgbj1pbnQoYWwuc3VtKCkpKSkKICAgIHByaW50KGYiICBldGE9e2V0YTo3LjRmfSAg5a2m5YiwZmc9e2ZnLm1lYW4oKTouNWZ9ICDmkqTpmaTlkI7lrZjmtLsge2ludChhbC5zdW0oKSl9LzEyIikKCiMgPT09PT09PT09PT09PT09PT0g5Y+v6K+B5Lyq6Ieq5qOAID09PT09PT09PT09PT09PT09CnByaW50KCJcbj09PSDlj6/or4HkvKroh6rmo4DvvIjmr4/mnaHliKTmja7lv4XpobvnnJ8v5YGH6YO95Ye6546w77yJPT09IikKZmFsID0gW10KCiMgMSkg55u45YCa5Y+v6K+B5Lyq77yaY2xvc2VkIOWtpuWIsCA+IDDvvIxvcGVuIOWtpuS4jeWIsApyID0gZGljdChuYW1lPSdjb250aW5nZW5jeV9sZWFybmFibGUnLAogICAgICAgICBUPXN1bSgxIGZvciB4IGluIHJlc3VsdFsncHJhY3RpY2VfY2xvc2VkJ11bJ3JhdyddIGlmIHhbJ2ZnJ10gPiBGR19USFJFU0gpLAogICAgICAgICBGPXN1bSgxIGZvciB4IGluIHJlc3VsdFsncHJhY3RpY2Vfb3BlbiddWydyYXcnXSBpZiB4WydmZyddID4gRkdfVEhSRVNIKSkKZmFsLmFwcGVuZChyKTsgcHJpbnQoZiIgIHtyWyduYW1lJ106PDI2fSDnnJ97clsnVCddOjNkfSDlgYd7clsnRiddOjNkfSIpCgojIDIpIOaSpOmZpOWQjuWtmOa0u+WPr+ivgeS8qu+8mmNsb3NlZCDmtLvvvIx0b29sX29ubHkg5q27CnIgPSBkaWN0KG5hbWU9J3dlYW5fc3Vydml2YWwnLAogICAgICAgICBUPWludChyZXN1bHRbJ3ByYWN0aWNlX2Nsb3NlZCddWydhbGl2ZSddICogMTYpLAogICAgICAgICBGPWludCgoMSAtIHJlc3VsdFsndG9vbF9vbmx5J11bJ2FsaXZlJ10pICogMTYpKQpmYWwuYXBwZW5kKHIpOyBwcmludChmIiAge3JbJ25hbWUnXTo8MjZ9IOecn3tyWydUJ106M2R9IOWBh3tyWydGJ106M2R9IikKCiMgMykg6Ziz5oCn5a+554Wn77ya55u05o6l57uZIGZnPTAuMDPvvIjkuI3nu4/lrabkuaDvvInlupTmtLsKcG9zID0gW3J1bl9zY2hlbWUoJ25vX3ByYWN0aWNlJywgc2QpIGZvciBzZCBpbiBTRUVEU1s6OF1dCmxmX29rID0gMApmb3Igc2QgaW4gU0VFRFNbOjhdOgogICAgbGYgPSBMaWZlNShOPTgsIHNlZWQ9c2QsIGZnPTAuMDMwKQogICAgbGYucnVuKDEyMDApCiAgICBsZl9vayArPSBpbnQobGYuYWxpdmUpCnIgPSBkaWN0KG5hbWU9J3Bvc2l0aXZlX2ZnMC4wMzAnLCBUPWxmX29rLCBGPTggLSBsZl9vaykKZmFsLmFwcGVuZChyKTsgcHJpbnQoZiIgIHtyWyduYW1lJ106PDI2fSDnnJ97clsnVCddOjNkfSDlgYd7clsnRiddOjNkfSIpCgojIDQpIOmYtOaAp+WvueeFp++8mmZnPTAg5LiN57uD5LiN6L6T5rayIOKGkiDlv4XmrbsKbmVnID0gMApmb3Igc2QgaW4gU0VFRFNbOjhdOgogICAgbGYgPSBMaWZlNShOPTgsIHNlZWQ9c2QsIGZnPTAuMCkKICAgIGxmLnJ1bigxMjAwKQogICAgbmVnICs9IGludChub3QgbGYuYWxpdmUpCnIgPSBkaWN0KG5hbWU9J25lZ2F0aXZlX2ZnMF9ub2RyaXAnLCBUPW5lZywgRj04IC0gbmVnKQpmYWwuYXBwZW5kKHIpOyBwcmludChmIiAge3JbJ25hbWUnXTo8MjZ9IOecn3tyWydUJ106M2R9IOWBh3tyWydGJ106M2R9IikKCiMgNSkg5Y+Y5byC5pa55qGI5LiN5bqU5Lqn55Sf6IO95Yqb77yI5pyf5pyb5LiN5Y+Y77yJCnIgPSBkaWN0KG5hbWU9J3ZhcmlhdGlvbl9ub19nYWluJywKICAgICAgICAgVD1zdW0oMSBmb3IgeCBpbiByZXN1bHRbJ3ZhcmlhdGlvbiddWydyYXcnXSBpZiB4WydmZyddID4gRkdfVEhSRVNIKSwKICAgICAgICAgRj1zdW0oMSBmb3IgeCBpbiByZXN1bHRbJ3ZhcmlhdGlvbiddWydyYXcnXSBpZiB4WydmZyddIDw9IEZHX1RIUkVTSCkpCmZhbC5hcHBlbmQocik7IHByaW50KGYiICB7clsnbmFtZSddOjwyNn0g55yfe3JbJ1QnXTozZH0g5YGHe3JbJ0YnXTozZH0iKQoKYWxsZmFscyA9IGFsbCh4WydUJ10gPiAwIGFuZCB4WydGJ10gPiAwIGZvciB4IGluIGZhbCkKcHJpbnQoZiJcbiAg5YWo6YOo5Y+v6K+B5LyqKOecny/lgYflnYflh7rnjrApOiB7YWxsZmFsc30iKQoKanNvbi5kdW1wKGRpY3QocmVzdWx0PXJlc3VsdCwgY29tcD1jb21wLCBkb3NlPWRvc2UsIGZhbHNpZmlhYmxlPWZhbCwKICAgICAgICAgICAgICAgYWxsX2ZhbHNpZmlhYmxlPWJvb2woYWxsZmFscyksCiAgICAgICAgICAgICAgIGNmZz1kaWN0KFQxPVQxLCBUMj1UMiwgRFJJUD1EUklQLCBUT09MPVRPT0wsIEVUQT1FVEEsIFRBVT1UQVUpKSwKICAgICAgICAgIG9wZW4oJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyNl93ZWFuMi9yZXN1bHQxMjYuanNvbicsICd3JyksCiAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQpwcmludCgiXG5bc2F2ZWRdIHJlc3VsdDEyNi5qc29uIikK
+# -*- coding: utf-8 -*-
+"""
+126 · 断奶方案：什么能把 fg 从 0 抬到阈值之上？
+=================================================
+125 结论：fg=0 → 撤掉输液 0/12 存活，平均撑 235 拍；输液买的是时间不是能力。
+126 追问：**怎么断奶？**
+
+预注册假设
+  H1 习得需要【相倚】(contingency)，不是【相继】(contiguity)。
+     学习律用协方差： dfg = eta*(act-E[act])*(fb-E[fb])
+     闭环世界 fb ∝ act → 协方差 > 0 → 学到
+     开放世界 fb 与 act 无关 → 协方差 ≈ 0 → 学不到
+  H2 外置工具（#29 延展表型）若【代替】我觅食，则是第二根输液管：
+     撤掉工具 → 0 存活。只有"工具 + 我自己同时在觅食"才留下能力。
+
+方案（阶段1 训练 T1=1200，阶段2 撤除所有外部供给 T2=1500）
+  1 no_practice   只输液不练（125 已知对照）
+  2 practice_open 输液 + 练，世界相继不相倚
+  3 practice_closed 输液 + 练，世界相倚
+  4 tool_only     工具替我觅食（大量外部供能），我不练
+  5 tool_plus_self 工具供能 + 我同时自己觅食（相倚）
+  6 variation     #19 反熵增：随机变异撞运气（期望不变）
+原则：阳性/阴性对照必在；可证伪必查；不调参到想要的答案。
+"""
+import sys, json
+import numpy as np
+sys.path.insert(0, '/data/workspace/luoshen-o1/core')
+from life5 import Life5
+
+SEEDS = list(range(16))
+T1, T2 = 1200, 1500
+DRIP = 0.05          # 训练期维持生命的输液
+TOOL = 0.10          # 工具供能（比输液猛）
+ETA = 0.004          # 学习率
+TAU = 50.0           # 滑动均值时间常数
+FG_THRESH = 0.008    # 125 实测死亡边界
+
+FCH = 7              # forage_ch
+
+
+def skew(lf):
+    c = np.asarray(lf.log[-1]['capv'], float)
+    return float(c.std(ddof=1) / max(c.mean(), 1e-12))
+
+
+def world_response(scheme, act, rng):
+    """世界对我觅食行动的响应"""
+    if scheme in ('practice_closed', 'tool_plus_self'):
+        return act * (0.8 + 0.4 * rng.random())      # 相倚：响应 ∝ 我的投入
+    if scheme == 'practice_open':
+        return 0.30 * (0.5 + rng.random())           # 相继不相倚：与 act 无关
+    if scheme == 'tool_only':
+        return 0.0                                   # 工具替我做了，我没动作
+    return 0.0                                       # no_practice / variation
+
+
+def run_scheme(scheme, seed, T1=T1, T2=T2, eta=ETA, drip=DRIP):
+    lf = Life5(N=8, seed=seed, fg=0.0)
+    rng = np.random.default_rng(seed * 7919 + 13)
+    fg = 0.0
+    ma = 0.0
+    mf = 0.0
+    act_trace = []
+
+    for t in range(T1):
+        if not lf.alive:
+            break
+        lf.fg = fg
+        lf.step()
+        rec = lf.log[-1]
+        act = rec['avec'][FCH]
+        act_trace.append(act)
+        fb = world_response(scheme, act, rng)
+
+        # ---- 外部供能 ----
+        if scheme == 'tool_only':
+            lf.E = min(lf.Emax, lf.E + TOOL)          # 工具替我觅食
+        elif scheme == 'tool_plus_self':
+            lf.E = min(lf.Emax, lf.E + TOOL * 0.5)    # 工具与我并行
+        if scheme != 'tool_only' or True:
+            pass
+        # 训练期输液：所有方案都给（否则 fg=0 撑不到学会）
+        if scheme != 'tool_only':
+            lf.E = min(lf.Emax, lf.E + drip)
+        else:
+            lf.E = min(lf.Emax, lf.E + drip * 0.3)
+
+        # ---- 学习律（相倚 = 协方差）----
+        if scheme in ('practice_closed', 'practice_open', 'tool_plus_self'):
+            ma += (act - ma) / TAU
+            mf += (fb - mf) / TAU
+            cov = (act - ma) * (fb - mf)
+            fg = max(0.0, fg + eta * cov)
+        elif scheme == 'variation':
+            fg = max(0.0, fg + 0.0008 * rng.normal())   # 随机变异，期望不变
+        # no_practice / tool_only：fg 恒 0
+
+    fg_learned = float(fg)
+    cap_at = float(lf.capacity[FCH])
+
+    # ================= 阶段2：撤除全部外部供给 =================
+    lf.fg = fg_learned
+    t0 = lf.t
+    while lf.alive and lf.t - t0 < T2:
+        lf.step()
+    out = dict(fg=fg_learned, cap7=cap_at, alive=bool(lf.alive),
+               ticks=int(lf.t - t0),
+               act=float(np.mean(act_trace)) if act_trace else float('nan'),
+               skew=(skew(lf) if lf.alive else float('nan')))
+    return out
+
+
+SCHEMES = ['no_practice', 'practice_open', 'practice_closed',
+           'tool_only', 'tool_plus_self', 'variation']
+
+print("=== 126 · 断奶方案：撤除外部供给后的存活 ===")
+print(f"{'方案':<18}{'学到fg':>9}{'cap7':>8}{'存活':>9}{'撑(拍)':>9}{'偏度':>9}")
+result = {}
+for sc in SCHEMES:
+    rs = [run_scheme(sc, sd) for sd in SEEDS]
+    fg = np.array([r['fg'] for r in rs], float)
+    al = np.array([r['alive'] for r in rs], float)
+    tk = np.array([r['ticks'] for r in rs], float)
+    c7 = np.array([r['cap7'] for r in rs], float)
+    sk = np.array([r['skew'] for r in rs if r['alive']], float)
+    result[sc] = dict(fg=float(fg.mean()), fg_sd=float(fg.std(ddof=1)),
+                      cap7=float(c7.mean()),
+                      alive=float(al.mean()), n=int(al.sum()),
+                      ticks=float(tk.mean()),
+                      skew=(float(sk.mean()) if len(sk) else float('nan')),
+                      raw=[dict(fg=r['fg'], alive=r['alive'], ticks=r['ticks'],
+                                cap7=r['cap7']) for r in rs])
+    print(f"{sc:<18}{fg.mean():9.5f}{c7.mean():8.3f}"
+          f"{int(al.sum()):6d}/16{tk.mean():9.1f}"
+          f"{(sk.mean() if len(sk) else float('nan')):9.4f}")
+
+# ================= 配对比较 =================
+def paired(a, b):
+    x = np.array([r['fg'] for r in result[a]['raw']], float)
+    y = np.array([r['fg'] for r in result[b]['raw']], float)
+    d = x - y
+    se = d.std(ddof=1) / np.sqrt(len(d))
+    return dict(delta=float(d.mean()), se=float(se),
+                lo=float(d.mean() - 1.96 * se), hi=float(d.mean() + 1.96 * se),
+                cross0=bool((d.mean() - 1.96 * se) * (d.mean() + 1.96 * se) < 0))
+
+print("\n=== 配对（同学到的 fg，差值的 95%CI）===")
+pairs = [('practice_closed', 'practice_open', 'H1 相倚 vs 相继'),
+         ('practice_closed', 'no_practice', 'H1 练 vs 不练'),
+         ('tool_plus_self', 'tool_only', 'H2 工具+自觅 vs 纯工具'),
+         ('practice_closed', 'tool_plus_self', '自觅 vs 工具+自觅')]
+comp = {}
+for a, b, lab in pairs:
+    p = paired(a, b)
+    comp[f"{a}-{b}"] = p
+    print(f"  {lab:<26} Δfg={p['delta']:+.5f}  CI[{p['lo']:+.5f},{p['hi']:+.5f}]"
+          f"  {'跨0' if p['cross0'] else '显著'}")
+
+# ================= 学习率剂量扫描 =================
+print("\n=== 学习率剂量扫描（practice_closed）===")
+dose = []
+for eta in [0.0005, 0.001, 0.002, 0.004, 0.008, 0.016]:
+    rs = [run_scheme('practice_closed', sd, eta=eta) for sd in SEEDS[:12]]
+    fg = np.array([r['fg'] for r in rs], float)
+    al = np.array([r['alive'] for r in rs], float)
+    dose.append(dict(eta=eta, fg=float(fg.mean()), alive=float(al.mean()),
+                     n=int(al.sum())))
+    print(f"  eta={eta:7.4f}  学到fg={fg.mean():.5f}  撤除后存活 {int(al.sum())}/12")
+
+# ================= 可证伪自检 =================
+print("\n=== 可证伪自检（每条判据必须真/假都出现）===")
+fal = []
+
+# 1) 相倚可证伪：closed 学到 > 0，open 学不到
+r = dict(name='contingency_learnable',
+         T=sum(1 for x in result['practice_closed']['raw'] if x['fg'] > FG_THRESH),
+         F=sum(1 for x in result['practice_open']['raw'] if x['fg'] > FG_THRESH))
+fal.append(r); print(f"  {r['name']:<26} 真{r['T']:3d} 假{r['F']:3d}")
+
+# 2) 撤除后存活可证伪：closed 活，tool_only 死
+r = dict(name='wean_survival',
+         T=int(result['practice_closed']['alive'] * 16),
+         F=int((1 - result['tool_only']['alive']) * 16))
+fal.append(r); print(f"  {r['name']:<26} 真{r['T']:3d} 假{r['F']:3d}")
+
+# 3) 阳性对照：直接给 fg=0.03（不经学习）应活
+pos = [run_scheme('no_practice', sd) for sd in SEEDS[:8]]
+lf_ok = 0
+for sd in SEEDS[:8]:
+    lf = Life5(N=8, seed=sd, fg=0.030)
+    lf.run(1200)
+    lf_ok += int(lf.alive)
+r = dict(name='positive_fg0.030', T=lf_ok, F=8 - lf_ok)
+fal.append(r); print(f"  {r['name']:<26} 真{r['T']:3d} 假{r['F']:3d}")
+
+# 4) 阴性对照：fg=0 不练不输液 → 必死
+neg = 0
+for sd in SEEDS[:8]:
+    lf = Life5(N=8, seed=sd, fg=0.0)
+    lf.run(1200)
+    neg += int(not lf.alive)
+r = dict(name='negative_fg0_nodrip', T=neg, F=8 - neg)
+fal.append(r); print(f"  {r['name']:<26} 真{r['T']:3d} 假{r['F']:3d}")
+
+# 5) 变异方案不应产生能力（期望不变）
+r = dict(name='variation_no_gain',
+         T=sum(1 for x in result['variation']['raw'] if x['fg'] > FG_THRESH),
+         F=sum(1 for x in result['variation']['raw'] if x['fg'] <= FG_THRESH))
+fal.append(r); print(f"  {r['name']:<26} 真{r['T']:3d} 假{r['F']:3d}")
+
+allfals = all(x['T'] > 0 and x['F'] > 0 for x in fal)
+print(f"\n  全部可证伪(真/假均出现): {allfals}")
+
+json.dump(dict(result=result, comp=comp, dose=dose, falsifiable=fal,
+               all_falsifiable=bool(allfals),
+               cfg=dict(T1=T1, T2=T2, DRIP=DRIP, TOOL=TOOL, ETA=ETA, TAU=TAU)),
+          open('/data/workspace/luoshen-o1/experiments/exp126_wean2/result126.json', 'w'),
+          ensure_ascii=False, indent=1)
+print("\n[saved] result126.json")

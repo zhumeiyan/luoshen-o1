@@ -1,1 +1,281 @@
-WwogewogICJmaWxlIjogIkVsZXV0aGVyQUlfX2xtLWV2YWx1YXRpb24taGFybmVzc19fbG1fZXZhbF9ldmFsdWF0b3IucHkiLAogICJlZyI6ICJFRzAwMiIsCiAgInNldiI6ICJibG9ja2VyIiwKICAibGluZSI6IDYxMywKICAiaGl0IjogInppcChldmFsX3Jlc3VsdHNfYWNjLml0ZW1zKCksIGxpbWl0cywgc3RyaWN0PVRydWUpIOKAlCBubyBiYXNlIiwKICAidmVyZGljdCI6ICJQUk9WRU4iLAogICJ3aHkiOiAiemlwKGV2YWxfcmVzdWx0c19hY2MuaXRlbXMoKSwgbGltaXRzLCBzdHJpY3Q9VHJ1ZSkiCiB9LAogewogICJmaWxlIjogIlNXRS1iZW5jaF9fU1dFLWJlbmNoX19zd2ViZW5jaF9jbGlfZXZhbHVhdGUucHkiLAogICJlZyI6ICJFRzAwMCIsCiAgInNldiI6ICJpbmZvIiwKICAibGluZSI6IDAsCiAgImhpdCI6ICIxIGRyb3BwZWQgKG5vIGxpbmUpLCAwIHJlc2N1ZWQgdmlhIGFuY2hvciwgMCBtb2R1bGUtbGV2ZWwgKHUiLAogICJ2ZXJkaWN0IjogIk1PRFVMRV9PSyIsCiAgIndoeSI6ICJtb2R1bGUgY2xhaW0sIG5vIHBpbiIKIH0sCiB7CiAgImZpbGUiOiAiVUtHb3Zlcm5tZW50QkVJU19faW5zcGVjdF9haV9fZXhhbXBsZXNfZXZhbHNldC5weSIsCiAgImVnIjogIkVHUDA2IiwKICAic2V2IjogImluZm8iLAogICJsaW5lIjogNzAsCiAgImhpdCI6ICJkZW1vIGZpbGUg4oCUIGRlbW90ZWQgdG8gaW5mbyAobWV0cmljIHJlcG9ydGVkIHdpdGggbm8gc3ByZWFkICIsCiAgInZlcmRpY3QiOiAiVU5QUk9WRU4iLAogICJ3aHkiOiAibm9kZSBmb3VuZCBidXQgaXRzIHNvdXJjZSBuYW1lcyBub25lIG9mIFsnYWNjdXJhY3knLCAnYWNjJywgJ3JlY2FsbCcsICdwcmVjaXNpb24nXSIKIH0sCiB7CiAgImZpbGUiOiAiVUtHb3Zlcm5tZW50QkVJU19faW5zcGVjdF9haV9fZXhhbXBsZXNfZXZhbHNldC5weSIsCiAgImVnIjogIkVHMDAwIiwKICAic2V2IjogImluZm8iLAogICJsaW5lIjogMCwKICAiaGl0IjogIjAgZHJvcHBlZCAobm8gbGluZSksIDAgcmVzY3VlZCB2aWEgYW5jaG9yLCAwIG1vZHVsZS1sZXZlbCAodSIsCiAgInZlcmRpY3QiOiAiTU9EVUxFX09LIiwKICAid2h5IjogIm1vZHVsZSBjbGFpbSwgbm8gcGluIgogfSwKIHsKICAiZmlsZSI6ICJVS0dvdmVybm1lbnRCRUlTX19pbnNwZWN0X2FpX19leGFtcGxlc19zY29yZXIucHkiLAogICJlZyI6ICJFR1AwNiIsCiAgInNldiI6ICJpbmZvIiwKICAibGluZSI6IDY0LAogICJoaXQiOiAiZGVtbyBmaWxlIOKAlCBkZW1vdGVkIHRvIGluZm8gKG1ldHJpYyByZXBvcnRlZCB3aXRoIG5vIHNwcmVhZCAiLAogICJ2ZXJkaWN0IjogIlBST1ZFTiIsCiAgIndoeSI6ICJzY29yZSIKIH0sCiB7CiAgImZpbGUiOiAiVUtHb3Zlcm5tZW50QkVJU19faW5zcGVjdF9haV9fZXhhbXBsZXNfc2NvcmVyLnB5IiwKICAiZWciOiAiRUcwMDAiLAogICJzZXYiOiAiaW5mbyIsCiAgImxpbmUiOiAwLAogICJoaXQiOiAiMCBkcm9wcGVkIChubyBsaW5lKSwgMCByZXNjdWVkIHZpYSBhbmNob3IsIDAgbW9kdWxlLWxldmVsICh1IiwKICAidmVyZGljdCI6ICJNT0RVTEVfT0siLAogICJ3aHkiOiAibW9kdWxlIGNsYWltLCBubyBwaW4iCiB9LAogewogICJmaWxlIjogImFsbGVuYWlfX29sbWVzX19vZV9ldmFsX3J1bl9ldmFsLnB5IiwKICAiZWciOiAiRUcwMTEiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiA3MTUsCiAgImhpdCI6ICJsb29wIHNraXBzIGl0ZW1zIGFuZCBhZ2dyZWdhdGVzLCBubyBwYWlyZWQgZGlmZiIsCiAgInZlcmRpY3QiOiAiUFJPVkVOIiwKICAid2h5IjogImNvbnRpbnVlIgogfSwKIHsKICAiZmlsZSI6ICJhbGxlbmFpX19vbG1lc19fb2VfZXZhbF9ydW5fZXZhbC5weSIsCiAgImVnIjogIkVHMDExIiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogODYwLAogICJoaXQiOiAibG9vcCBza2lwcyBpdGVtcyBhbmQgYWdncmVnYXRlcywgbm8gcGFpcmVkIGRpZmYiLAogICJ2ZXJkaWN0IjogIlBST1ZFTiIsCiAgIndoeSI6ICJjb250aW51ZSIKIH0sCiB7CiAgImZpbGUiOiAiYWxsZW5haV9fb2xtZXNfX29lX2V2YWxfcnVuX2V2YWwucHkiLAogICJlZyI6ICJFR1AwNiIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDEwNDQsCiAgImhpdCI6ICJtZXRyaWMgcmVwb3J0ZWQgd2l0aCBubyBzcHJlYWQgb3IgcmVwZWF0IiwKICAidmVyZGljdCI6ICJQUk9WRU4iLAogICJ3aHkiOiAic2NvcmUgPSBtW1wibWV0cmljc1wiXS5nZXQoXCJwcmltYXJ5X3Njb3JlXCIsIFwiTkFcIikiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiA0MywKICAiaGl0IjogImNvdW50IC8gbGVuKHNhbXBsZXMpIiwKICAidmVyZGljdCI6ICJQUk9WRU4iLAogICJ3aHkiOiAiY291bnQgLyBsZW4oc2FtcGxlcykiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiA3OCwKICAiaGl0IjogIm5wLmV4cChsb2dfcHJvYikgLyBucC5zdW0obnAuZXhwKGxvZ19wcm9iKSkiLAogICJ2ZXJkaWN0IjogIlBST1ZFTiIsCiAgIndoeSI6ICJucC5leHAobG9nX3Byb2IpIC8gbnAuc3VtKG5wLmV4cChsb2dfcHJvYikpIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDA1IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMTE5LAogICJoaXQiOiAidG90YWxfYnJpZXJfc2NvcmUgLyBjb3VudCIsCiAgInZlcmRpY3QiOiAiUFJPVkVOIiwKICAid2h5IjogInRvdGFsX2JyaWVyX3Njb3JlIC8gY291bnQiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAyNDQsCiAgImhpdCI6ICJ3ZWlnaHRlZF9sb2dfcHJvYiAvIGxlbihzYW1wbGVzKSIsCiAgInZlcmRpY3QiOiAiUFJPVkVOIiwKICAid2h5IjogIndlaWdodGVkX2xvZ19wcm9iIC8gbGVuKHNhbXBsZXMpIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDA1IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMjY0LAogICJoaXQiOiAid2VpZ2h0ZWRfcHJvYiAvIGxlbihzYW1wbGVzKSIsCiAgInZlcmRpY3QiOiAiUFJPVkVOIiwKICAid2h5IjogIndlaWdodGVkX3Byb2IgLyBsZW4oc2FtcGxlcykiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMTIiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAxOTgsCiAgImhpdCI6ICJgYnVja2V0X2FjY3VyYWN5YCBkZWNsYXJlZCB3aXRob3V0IHBvc2l0aXZlIGNvbnRyb2wgKyBjaGFuY2UiLAogICJ2ZXJkaWN0IjogIlBST1ZFTiIsCiAgIndoeSI6ICJidWNrZXRfYWNjdXJhY3kgPSBfY29tcHV0ZV9idWNrZXRfYWNjdXJhY3koXG4gICAgICAgIGJ1Y2tldF9pIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsCiAgImVnIjogIkVHUDA4IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogNDY1LAogICJoaXQiOiAiYXNzZXJ0KHMpIGluIGBjaGVja19pZl9udW1lcmljX3ZhbHVlX2lzX3dpdGhpbl9yZWxhdGl2ZV9lcnJvIiwKICAidmVyZGljdCI6ICJQUk9WRU4iLAogICJ3aHkiOiAiYXNzZXJ0IGlzaW5zdGFuY2UodGFyZ2V0LCBsaXN0KSIKIH0sCiB7CiAgImZpbGUiOiAiZ29vZ2xlX19CSUctYmVuY2hfX2JpZ2JlbmNoX2FwaV90YXNrX21ldHJpY3MucHkiLAogICJlZyI6ICJFR1AwOSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDMxMywKICAiaGl0IjogIm1lYW4gb3ZlciBzYW1wbGVzIGluIGBtYWNyb19mMV9mbmAgd2l0aCBubyB0YWlsIHN0YXRpc3RpYyIsCiAgInZlcmRpY3QiOiAiUFJPVkVOIiwKICAid2h5IjogIm5vX3NvZnRfc2NvcmVzID0gYWxsKFtzdW0oc1tcInRhcmdldF9zY29yZXNcIl0udmFsdWVzKCkpID09IDEgIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsCiAgImVnIjogIkVHUDA5IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMzIxLAogICJoaXQiOiAibWVhbiBvdmVyIHNhbXBsZXMgaW4gYG1hY3JvX2YxX2ZuYCB3aXRoIG5vIHRhaWwgc3RhdGlzdGljIiwKICAidmVyZGljdCI6ICJQUk9WRU4iLAogICJ3aHkiOiAiZjFfc2NvcmUoeV90cnVlPXlfdHJ1ZSwgeV9wcmVkPXlfcHJlZCwgYXZlcmFnZT1cIm1hY3JvXCIpIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsCiAgImVnIjogIkVHUDA5IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogNDE3LAogICJoaXQiOiAibWVhbiBvdmVyIHNhbXBsZXMgaW4gYGJsZXVydF9mbmAgd2l0aCBubyB0YWlsIHN0YXRpc3RpYyIsCiAgInZlcmRpY3QiOiAiUFJPVkVOIiwKICAid2h5IjogInJlc3VsdHNbXCJibGV1cnRcIl0gPSBucC5tZWFuKHJlc3VsdHNfbGlzdCkiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9ldmFsdWF0ZV90YXNrLnB5IiwKICAiZWciOiAiRUdQMDYiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAyNTMsCiAgImhpdCI6ICJtZXRyaWMgcmVwb3J0ZWQgd2l0aCBubyBzcHJlYWQgb3IgcmVwZWF0IiwKICAidmVyZGljdCI6ICJQUk9WRU4iLAogICJ3aHkiOiAic2FuaXRpemVkX3Njb3JlX2RhdGEgPSB0YXNrX2FwaS5TY29yZURhdGEoXG4gICAgICAgICAgICBzY29yZSIKIH0sCiB7CiAgImZpbGUiOiAiZ29vZ2xlX19CSUctYmVuY2hfX2JpZ2JlbmNoX2V2YWx1YXRlX3Rhc2sucHkiLAogICJlZyI6ICJFRzAwMCIsCiAgInNldiI6ICJpbmZvIiwKICAibGluZSI6IDAsCiAgImhpdCI6ICIxIGRyb3BwZWQgKG5vIGxpbmUpLCAwIHJlc2N1ZWQgdmlhIGFuY2hvciwgMCBtb2R1bGUtbGV2ZWwgKHUiLAogICJ2ZXJkaWN0IjogIk1PRFVMRV9PSyIsCiAgIndoeSI6ICJtb2R1bGUgY2xhaW0sIG5vIHBpbiIKIH0sCiB7CiAgImZpbGUiOiAiZ29vZ2xlX19CSUctYmVuY2hfX3NjcmlwdHNfZG9ja2VyX2V2YWx1YXRlX3Rhc2sucHkiLAogICJlZyI6ICJFRzAwMCIsCiAgInNldiI6ICJpbmZvIiwKICAibGluZSI6IDAsCiAgImhpdCI6ICIxIGRyb3BwZWQgKG5vIGxpbmUpLCAwIHJlc2N1ZWQgdmlhIGFuY2hvciIsCiAgInZlcmRpY3QiOiAiTU9EVUxFX09LIiwKICAid2h5IjogIm1vZHVsZSBjbGFpbSwgbm8gcGluIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fc2NyaXB0c19kb2NrZXJfZXZhbHVhdGVfdGFzay5weSIsCiAgImVnIjogIkVHMDAwIiwKICAic2V2IjogImluZm8iLAogICJsaW5lIjogMCwKICAiaGl0IjogIjEgZHJvcHBlZCAobm8gbGluZSksIDAgcmVzY3VlZCB2aWEgYW5jaG9yLCAwIG1vZHVsZS1sZXZlbCAodSIsCiAgInZlcmRpY3QiOiAiTU9EVUxFX09LIiwKICAid2h5IjogIm1vZHVsZSBjbGFpbSwgbm8gcGluIgogfSwKIHsKICAiZmlsZSI6ICJvcGVuYWlfX3NpbXBsZS1ldmFsc19fZHJvcF9ldmFsLnB5IiwKICAiZWciOiAiRUcwMTIiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAxMjksCiAgImhpdCI6ICJgZjFgIGRlY2xhcmVkIHdpdGhvdXQgcG9zaXRpdmUgY29udHJvbCArIGNoYW5jZS1sZXZlbCBiYXNlbGkiLAogICJ2ZXJkaWN0IjogIlBST1ZFTiIsCiAgIndoeSI6ICJmMSA9IChcbiAgICAgICAgKDIgKiBwcmVjaXNpb24gKiByZWNhbGwpIC8gKHByZWNpc2lvbiArIHJlY2FsIgogfSwKIHsKICAiZmlsZSI6ICJvcGVuYWlfX3NpbXBsZS1ldmFsc19fZHJvcF9ldmFsLnB5IiwKICAiZWciOiAiRUdQMDYiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAxMDYsCiAgImhpdCI6ICJtZXRyaWMgcmVwb3J0ZWQgd2l0aCBubyBzcHJlYWQgb3IgcmVwZWF0IiwKICAidmVyZGljdCI6ICJQUk9WRU4iLAogICJ3aHkiOiAic2NvcmVzID0gbnAuemVyb3MoW2xlbihnb2xkKSwgbGVuKHByZWRpY3RlZCldKSIKIH0sCiB7CiAgImZpbGUiOiAib3BlbmFpX19zaW1wbGUtZXZhbHNfX2Ryb3BfZXZhbC5weSIsCiAgImVnIjogIkVHUDA5IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMTcwLAogICJoaXQiOiAibWVhbiBvdmVyIHNhbXBsZXMgaW4gYGdldF9kcm9wX21ldHJpY3NgIHdpdGggbm8gdGFpbCBzdGF0aXN0IiwKICAidmVyZGljdCI6ICJQUk9WRU4iLAogICJ3aHkiOiAiZjEgPSBucC5tZWFuKGYxX3Blcl9iYWcpIgogfSwKIHsKICAiZmlsZSI6ICJzdGFuZm9yZC1jcmZtX19oZWxtX19zY3JpcHRzX2hlaW1faHVtYW5fZXZhbC5weSIsCiAgImVnIjogIkVHMDExIiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMTkwLAogICJoaXQiOiAibG9vcCBza2lwcyBpdGVtcyBhbmQgYWdncmVnYXRlcywgbm8gcGFpcmVkIGRpZmYiLAogICJ2ZXJkaWN0IjogIlBST1ZFTiIsCiAgIndoeSI6ICJjb250aW51ZSIKIH0sCiB7CiAgImZpbGUiOiAic3RhbmZvcmQtY3JmbV9faGVsbV9fc2NyaXB0c19oZWltX2h1bWFuX2V2YWwucHkiLAogICJlZyI6ICJFRzAxNiIsCiAgInNldiI6ICJibG9ja2VyIiwKICAibGluZSI6IDI3NSwKICAiaGl0IjogInJlcXVlc3RzLmdldChpbWFnZV91cmwpIOKAlCBubyB0aW1lc3RhbXAiLAogICJ2ZXJkaWN0IjogIlBST1ZFTiIsCiAgIndoeSI6ICJyZXF1ZXN0cy5nZXQoaW1hZ2VfdXJsKSIKIH0sCiB7CiAgImZpbGUiOiAic3RhbmZvcmQtY3JmbV9faGVsbV9fc2NyaXB0c19oZWltX2h1bWFuX2V2YWwucHkiLAogICJlZyI6ICJFR1AwNiIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDIxMywKICAiaGl0IjogIm1ldHJpYyByZXBvcnRlZCB3aXRoIG5vIHNwcmVhZCBvciByZXBlYXQiLAogICJ2ZXJkaWN0IjogIlVOUFJPVkVOIiwKICAid2h5IjogIm5vZGUgZm91bmQgYnV0IGl0cyBzb3VyY2UgbmFtZXMgbm9uZSBvZiBbJ2FjY3VyYWN5JywgJ2FjYycsICdyZWNhbGwnLCAncHJlY2lzaW9uJ10iCiB9LAogewogICJmaWxlIjogInN0YW5mb3JkLWNyZm1fX2hlbG1fX3NjcmlwdHNfaGVpbV9odW1hbl9ldmFsLnB5IiwKICAiZWciOiAiRUdQMDkiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAyMzUsCiAgImhpdCI6ICJtZWFuIG92ZXIgc2FtcGxlcyBpbiBgZ2VuZXJhdGVfaGVpbV9odW1hbl9ldmFsX2RhdGFzZXRgIHdpdGgiLAogICJ2ZXJkaWN0IjogIlBST1ZFTiIsCiAgIndoeSI6ICJleGFtcGxlW1wibWVhbl9zY29yZVwiXSA9IHN0YXRpc3RpY3MuZm1lYW4oZXhhbXBsZVtcImh1bWFuX2Fubm8iCiB9LAogewogICJmaWxlIjogInN0YW5mb3JkLWNyZm1fX2hlbG1fX3NjcmlwdHNfaGVpbV9odW1hbl9ldmFsLnB5IiwKICAiZWciOiAiRUcwMDAiLAogICJzZXYiOiAiaW5mbyIsCiAgImxpbmUiOiAwLAogICJoaXQiOiAiMSBkcm9wcGVkIChubyBsaW5lKSwgMCByZXNjdWVkIHZpYSBhbmNob3IsIDAgbW9kdWxlLWxldmVsICh1IiwKICAidmVyZGljdCI6ICJNT0RVTEVfT0siLAogICJ3aHkiOiAibW9kdWxlIGNsYWltLCBubyBwaW4iCiB9Cl0=
+[
+ {
+  "file": "EleutherAI__lm-evaluation-harness__lm_eval_evaluator.py",
+  "eg": "EG002",
+  "sev": "blocker",
+  "line": 613,
+  "hit": "zip(eval_results_acc.items(), limits, strict=True) — no base",
+  "verdict": "PROVEN",
+  "why": "zip(eval_results_acc.items(), limits, strict=True)"
+ },
+ {
+  "file": "SWE-bench__SWE-bench__swebench_cli_evaluate.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "1 dropped (no line), 0 rescued via anchor, 0 module-level (u",
+  "verdict": "MODULE_OK",
+  "why": "module claim, no pin"
+ },
+ {
+  "file": "UKGovernmentBEIS__inspect_ai__examples_evalset.py",
+  "eg": "EGP06",
+  "sev": "info",
+  "line": 70,
+  "hit": "demo file — demoted to info (metric reported with no spread ",
+  "verdict": "UNPROVEN",
+  "why": "node found but its source names none of ['accuracy', 'acc', 'recall', 'precision']"
+ },
+ {
+  "file": "UKGovernmentBEIS__inspect_ai__examples_evalset.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (u",
+  "verdict": "MODULE_OK",
+  "why": "module claim, no pin"
+ },
+ {
+  "file": "UKGovernmentBEIS__inspect_ai__examples_scorer.py",
+  "eg": "EGP06",
+  "sev": "info",
+  "line": 64,
+  "hit": "demo file — demoted to info (metric reported with no spread ",
+  "verdict": "PROVEN",
+  "why": "score"
+ },
+ {
+  "file": "UKGovernmentBEIS__inspect_ai__examples_scorer.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (u",
+  "verdict": "MODULE_OK",
+  "why": "module claim, no pin"
+ },
+ {
+  "file": "allenai__olmes__oe_eval_run_eval.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 715,
+  "hit": "loop skips items and aggregates, no paired diff",
+  "verdict": "PROVEN",
+  "why": "continue"
+ },
+ {
+  "file": "allenai__olmes__oe_eval_run_eval.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 860,
+  "hit": "loop skips items and aggregates, no paired diff",
+  "verdict": "PROVEN",
+  "why": "continue"
+ },
+ {
+  "file": "allenai__olmes__oe_eval_run_eval.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": 1044,
+  "hit": "metric reported with no spread or repeat",
+  "verdict": "PROVEN",
+  "why": "score = m[\"metrics\"].get(\"primary_score\", \"NA\")"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 43,
+  "hit": "count / len(samples)",
+  "verdict": "PROVEN",
+  "why": "count / len(samples)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 78,
+  "hit": "np.exp(log_prob) / np.sum(np.exp(log_prob))",
+  "verdict": "PROVEN",
+  "why": "np.exp(log_prob) / np.sum(np.exp(log_prob))"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 119,
+  "hit": "total_brier_score / count",
+  "verdict": "PROVEN",
+  "why": "total_brier_score / count"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 244,
+  "hit": "weighted_log_prob / len(samples)",
+  "verdict": "PROVEN",
+  "why": "weighted_log_prob / len(samples)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 264,
+  "hit": "weighted_prob / len(samples)",
+  "verdict": "PROVEN",
+  "why": "weighted_prob / len(samples)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG012",
+  "sev": "warn",
+  "line": 198,
+  "hit": "`bucket_accuracy` declared without positive control + chance",
+  "verdict": "PROVEN",
+  "why": "bucket_accuracy = _compute_bucket_accuracy(\n        bucket_i"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EGP08",
+  "sev": "warn",
+  "line": 465,
+  "hit": "assert(s) in `check_if_numeric_value_is_within_relative_erro",
+  "verdict": "PROVEN",
+  "why": "assert isinstance(target, list)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 313,
+  "hit": "mean over samples in `macro_f1_fn` with no tail statistic",
+  "verdict": "PROVEN",
+  "why": "no_soft_scores = all([sum(s[\"target_scores\"].values()) == 1 "
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 321,
+  "hit": "mean over samples in `macro_f1_fn` with no tail statistic",
+  "verdict": "PROVEN",
+  "why": "f1_score(y_true=y_true, y_pred=y_pred, average=\"macro\")"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 417,
+  "hit": "mean over samples in `bleurt_fn` with no tail statistic",
+  "verdict": "PROVEN",
+  "why": "results[\"bleurt\"] = np.mean(results_list)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_evaluate_task.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": 253,
+  "hit": "metric reported with no spread or repeat",
+  "verdict": "PROVEN",
+  "why": "sanitized_score_data = task_api.ScoreData(\n            score"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_evaluate_task.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "1 dropped (no line), 0 rescued via anchor, 0 module-level (u",
+  "verdict": "MODULE_OK",
+  "why": "module claim, no pin"
+ },
+ {
+  "file": "google__BIG-bench__scripts_docker_evaluate_task.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "1 dropped (no line), 0 rescued via anchor",
+  "verdict": "MODULE_OK",
+  "why": "module claim, no pin"
+ },
+ {
+  "file": "google__BIG-bench__scripts_docker_evaluate_task.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "1 dropped (no line), 0 rescued via anchor, 0 module-level (u",
+  "verdict": "MODULE_OK",
+  "why": "module claim, no pin"
+ },
+ {
+  "file": "openai__simple-evals__drop_eval.py",
+  "eg": "EG012",
+  "sev": "warn",
+  "line": 129,
+  "hit": "`f1` declared without positive control + chance-level baseli",
+  "verdict": "PROVEN",
+  "why": "f1 = (\n        (2 * precision * recall) / (precision + recal"
+ },
+ {
+  "file": "openai__simple-evals__drop_eval.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": 106,
+  "hit": "metric reported with no spread or repeat",
+  "verdict": "PROVEN",
+  "why": "scores = np.zeros([len(gold), len(predicted)])"
+ },
+ {
+  "file": "openai__simple-evals__drop_eval.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 170,
+  "hit": "mean over samples in `get_drop_metrics` with no tail statist",
+  "verdict": "PROVEN",
+  "why": "f1 = np.mean(f1_per_bag)"
+ },
+ {
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 190,
+  "hit": "loop skips items and aggregates, no paired diff",
+  "verdict": "PROVEN",
+  "why": "continue"
+ },
+ {
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "eg": "EG016",
+  "sev": "blocker",
+  "line": 275,
+  "hit": "requests.get(image_url) — no timestamp",
+  "verdict": "PROVEN",
+  "why": "requests.get(image_url)"
+ },
+ {
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": 213,
+  "hit": "metric reported with no spread or repeat",
+  "verdict": "UNPROVEN",
+  "why": "node found but its source names none of ['accuracy', 'acc', 'recall', 'precision']"
+ },
+ {
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 235,
+  "hit": "mean over samples in `generate_heim_human_eval_dataset` with",
+  "verdict": "PROVEN",
+  "why": "example[\"mean_score\"] = statistics.fmean(example[\"human_anno"
+ },
+ {
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "1 dropped (no line), 0 rescued via anchor, 0 module-level (u",
+  "verdict": "MODULE_OK",
+  "why": "module claim, no pin"
+ }
+]

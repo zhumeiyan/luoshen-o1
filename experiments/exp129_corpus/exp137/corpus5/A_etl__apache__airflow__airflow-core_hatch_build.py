@@ -1,1 +1,159 @@
-IyBMaWNlbnNlZCB0byB0aGUgQXBhY2hlIFNvZnR3YXJlIEZvdW5kYXRpb24gKEFTRikgdW5kZXIgb25lCiMgb3IgbW9yZSBjb250cmlidXRvciBsaWNlbnNlIGFncmVlbWVudHMuICBTZWUgdGhlIE5PVElDRSBmaWxlCiMgZGlzdHJpYnV0ZWQgd2l0aCB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24KIyByZWdhcmRpbmcgY29weXJpZ2h0IG93bmVyc2hpcC4gIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlCiMgdG8geW91IHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZQojICJMaWNlbnNlIik7IHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2UKIyB3aXRoIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiMKIyAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAojCiMgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLAojIHNvZnR3YXJlIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuCiMgIkFTIElTIiBCQVNJUywgV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZCiMgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4gIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlCiMgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZCBsaW1pdGF0aW9ucwojIHVuZGVyIHRoZSBMaWNlbnNlLgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgbG9nZ2luZwppbXBvcnQgb3MKaW1wb3J0IHNodXRpbApmcm9tIGNvbGxlY3Rpb25zLmFiYyBpbXBvcnQgQ2FsbGFibGUsIEl0ZXJhYmxlCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHN1YnByb2Nlc3MgaW1wb3J0IHJ1bgpmcm9tIHR5cGluZyBpbXBvcnQgQW55Cgpmcm9tIGhhdGNobGluZy5idWlsZGVycy5jb25maWcgaW1wb3J0IEJ1aWxkZXJDb25maWcKZnJvbSBoYXRjaGxpbmcuYnVpbGRlcnMucGx1Z2luLmludGVyZmFjZSBpbXBvcnQgQnVpbGRlckludGVyZmFjZQpmcm9tIGhhdGNobGluZy5wbHVnaW4ubWFuYWdlciBpbXBvcnQgUGx1Z2luTWFuYWdlcgoKbG9nID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCmxvZ19sZXZlbCA9IGxvZ2dpbmcuZ2V0TGV2ZWxOYW1lKG9zLmdldGVudigiQ1VTVE9NX0FJUkZMT1dfQlVJTERfTE9HX0xFVkVMIiwgIklORk8iKSkKbG9nLnNldExldmVsKGxvZ19sZXZlbCkKCgpjbGFzcyBDdXN0b21CdWlsZChCdWlsZGVySW50ZXJmYWNlW0J1aWxkZXJDb25maWcsIFBsdWdpbk1hbmFnZXJdKToKICAgICIiIkN1c3RvbSBidWlsZCBjbGFzcyBmb3IgQWlyZmxvdyBhc3NldHMgYW5kIGdpdCB2ZXJzaW9uLiIiIgoKICAgICMgTm90ZSB0aGF0IHRoaXMgbmFtZSBvZiB0aGUgcGx1Z2luIE1VU1QgYmUgYGN1c3RvbWAgLSBhcyBsb25nIGFzIHdlIHVzZSBpdCBmcm9tIGN1c3RvbQogICAgIyBoYXRjaF9idWlsZC5weSBmaWxlIGFuZCBub3QgZnJvbSBleHRlcm5hbCBwbHVnaW4uIFNlZSBub3RlIGluIHRoZToKICAgICMgaHR0cHM6Ly9oYXRjaC5weXBhLmlvL2xhdGVzdC9wbHVnaW5zL2J1aWxkLWhvb2svY3VzdG9tLyNleGFtcGxlCiAgICBQTFVHSU5fTkFNRSA9ICJjdXN0b20iCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGNsZWFuX2RpcihwYXRoOiBQYXRoKSAtPiBOb25lOgogICAgICAgIGxvZy53YXJuaW5nKCJDbGVhbmluZyBkaXJlY3Rvcnk6ICVzIiwgcGF0aCkKICAgICAgICBzaHV0aWwucm10cmVlKHBhdGgsIGlnbm9yZV9lcnJvcnM9VHJ1ZSkKCiAgICBkZWYgY2xlYW4oc2VsZiwgZGlyZWN0b3J5OiBzdHIsIHZlcnNpb25zOiBJdGVyYWJsZVtzdHJdKSAtPiBOb25lOgogICAgICAgIHdvcmtfZGlyID0gUGF0aChzZWxmLnJvb3QpCiAgICAgICAgbG9nLndhcm5pbmcoIkNsZWFuaW5nIGdlbmVyYXRlZCBmaWxlcyBpbiBkaXJlY3Rvcnk6ICVzIiwgd29ya19kaXIpCiAgICAgICAgYWlyZmxvd19wYWNrYWdlX3NyYyA9IHdvcmtfZGlyIC8gInNyYyIgLyAiYWlyZmxvdyIKICAgICAgICBhaXJmbG93X3VpX3BhdGggPSBhaXJmbG93X3BhY2thZ2Vfc3JjIC8gInVpIgogICAgICAgIGZhc3RhcGlfdWlfcGF0aCA9IGFpcmZsb3dfcGFja2FnZV9zcmMgLyAiYXBpX2Zhc3RhcGkiIC8gImF1dGgiIC8gIm1hbmFnZXJzIiAvICJzaW1wbGUiIC8gInVpIgogICAgICAgIHNlbGYuY2xlYW5fZGlyKGFpcmZsb3dfdWlfcGF0aCAvICJkaXN0IikKICAgICAgICBzZWxmLmNsZWFuX2RpcihhaXJmbG93X3VpX3BhdGggLyAibm9kZV9tb2R1bGVzIikKICAgICAgICBzZWxmLmNsZWFuX2RpcihmYXN0YXBpX3VpX3BhdGggLyAiZGlzdCIpCiAgICAgICAgc2VsZi5jbGVhbl9kaXIoZmFzdGFwaV91aV9wYXRoIC8gIm5vZGVfbW9kdWxlcyIpCgogICAgZGVmIGdldF92ZXJzaW9uX2FwaShzZWxmKSAtPiBkaWN0W3N0ciwgQ2FsbGFibGVbLi4uLCBzdHJdXToKICAgICAgICAiIiJHZXQgY3VzdG9tIGJ1aWxkIHRhcmdldCBmb3Igc3RhbmRhcmQgcGFja2FnZSBwcmVwYXJhdGlvbi4iIiIKICAgICAgICByZXR1cm4geyJzdGFuZGFyZCI6IHNlbGYuYnVpbGRfc3RhbmRhcmR9CgogICAgZGVmIGJ1aWxkX3N0YW5kYXJkKHNlbGYsIGRpcmVjdG9yeTogc3RyLCBhcnRpZmFjdHM6IEFueSwgKipidWlsZF9kYXRhOiBBbnkpIC0+IHN0cjoKICAgICAgICBzZWxmLndyaXRlX2dpdF92ZXJzaW9uKCkKICAgICAgICAjIHJ1biB0aGlzIGluIHRoZSBwYXJlbnQgZGlyZWN0b3J5IG9mIHRoZSBhaXJmbG93LWNvcmUgKGkuZS4gYWlyZmxvdyByZXBvIHJvb3QpCiAgICAgICAgd29ya19kaXIgPSBQYXRoKHNlbGYucm9vdCkucGFyZW50LnJlc29sdmUoKQogICAgICAgIGNtZCA9IFsicHJlayIsICJydW4iLCAiLS1zdGFnZSIsICJtYW51YWwiLCAiY29tcGlsZS11aS1hc3NldHMiLCAiLS1hbGwtZmlsZXMiXQogICAgICAgIGxvZy53YXJuaW5nKCJSdW5uaW5nIGNvbW1hbmQ6ICVzIiwgIiAiLmpvaW4oY21kKSkKICAgICAgICBydW4oY21kLCBjd2Q9d29ya19kaXIuYXNfcG9zaXgoKSwgY2hlY2s9VHJ1ZSkKICAgICAgICBkaXN0X3BhdGggPSBQYXRoKHNlbGYucm9vdCkgLyAic3JjIiAvICJhaXJmbG93IiAvICJ1aSIgLyAiZGlzdCIKICAgICAgICByZXR1cm4gZGlzdF9wYXRoLnJlc29sdmUoKS5hc19wb3NpeCgpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9kb2NrZXJpZ25vcmVfYWxsb3dlZF9wYXRocyh3b3JrX2RpcjogUGF0aCkgLT4gbGlzdFtzdHJdIHwgTm9uZToKICAgICAgICAjIFRoZSByZXBvJ3MgYGAuZG9ja2VyaWdub3JlYGAgZm9sbG93cyBhIGRlbnktYnktZGVmYXVsdCBwYXR0ZXJuIChgYCoqYGApCiAgICAgICAgIyBwbHVzIGFuIGV4cGxpY2l0IGFsbG93bGlzdCBvZiBgYCFwYXRoYGAgZW50cmllcy4gV2hlbiB0aGUgcGFja2FnZSBpcwogICAgICAgICMgYnVpbHQgaW5zaWRlIHRoZSBkb2NrZXIgaW1hZ2UgKGBgQ09QWSAuIC9vcHQvYWlyZmxvd2BgKSwgb25seSB0aGUKICAgICAgICAjIGFsbG93bGlzdGVkIGZpbGVzIHJlYWNoIHRoZSBjb250YWluZXIsIHNvIHBhdGhzIG91dHNpZGUgdGhlIGFsbG93bGlzdAogICAgICAgICMgYXJlIGd1YXJhbnRlZWQgdG8gYmUgYWJzZW50IGFuZCB3b3VsZCBvdGhlcndpc2UgYmUgcmVwb3J0ZWQgYXMKICAgICAgICAjIGBgZGVsZXRlZGBgIGJ5IGBgZ2l0IGRpZmZgYCDigJQgc3RhbXBpbmcgZXZlcnkgcmVsZWFzZSBhcyBgYC5kaXJ0eWBgLgogICAgICAgICMgUGFyc2UgdGhlIGFsbG93bGlzdCBhdCBidWlsZCB0aW1lIHNvIHRoaXMgc3RheXMgaW4gc3luYyB3aXRoIHRoZSBmaWxlLgogICAgICAgIGRvY2tlcmlnbm9yZSA9IHdvcmtfZGlyIC8gIi5kb2NrZXJpZ25vcmUiCiAgICAgICAgaWYgbm90IGRvY2tlcmlnbm9yZS5leGlzdHMoKToKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICBhbGxvd2VkOiBsaXN0W3N0cl0gPSBbXQogICAgICAgIGZvciByYXdfbGluZSBpbiBkb2NrZXJpZ25vcmUucmVhZF90ZXh0KCkuc3BsaXRsaW5lcygpOgogICAgICAgICAgICBsaW5lID0gcmF3X2xpbmUuc3RyaXAoKQogICAgICAgICAgICBpZiBub3QgbGluZSBvciBsaW5lLnN0YXJ0c3dpdGgoIiMiKSBvciBub3QgbGluZS5zdGFydHN3aXRoKCIhIik6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBwYXRoID0gbGluZVsxOl0uc3RyaXAoKS5yc3RyaXAoIi8iKQogICAgICAgICAgICBpZiBwYXRoOgogICAgICAgICAgICAgICAgYWxsb3dlZC5hcHBlbmQocGF0aCkKICAgICAgICByZXR1cm4gYWxsb3dlZCBvciBOb25lCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgX2lzX2RpcnR5X3dpdGhpbl9idWlsZF9jb250ZXh0KGNscywgcmVwbzogQW55LCB3b3JrX2RpcjogUGF0aCkgLT4gYm9vbDoKICAgICAgICBhbGxvd2VkX3BhdGhzID0gY2xzLl9kb2NrZXJpZ25vcmVfYWxsb3dlZF9wYXRocyh3b3JrX2RpcikKICAgICAgICBpZiBub3QgYWxsb3dlZF9wYXRoczoKICAgICAgICAgICAgcmV0dXJuIHJlcG8uaXNfZGlydHkoKQogICAgICAgIHRyeToKICAgICAgICAgICAgZGlmZiA9IHJlcG8uZ2l0LmRpZmYoIkhFQUQiLCAiLS1uYW1lLW9ubHkiLCAiLS0iLCAqYWxsb3dlZF9wYXRocykKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICAgICAgbG9nLndhcm5pbmcoIlJlc3RyaWN0ZWQgZGlydHkgY2hlY2sgZmFpbGVkICglcyk7IGZhbGxpbmcgYmFjayB0byBpc19kaXJ0eSgpLiIsIGV4YykKICAgICAgICAgICAgcmV0dXJuIHJlcG8uaXNfZGlydHkoKQogICAgICAgIHJldHVybiBib29sKGRpZmYuc3RyaXAoKSkKCiAgICBkZWYgZ2V0X2dpdF92ZXJzaW9uKHNlbGYpIC0+IHN0cjoKICAgICAgICAiIiIKICAgICAgICBSZXR1cm4gYSB2ZXJzaW9uIHRvIGlkZW50aWZ5IHRoZSBzdGF0ZSBvZiB0aGUgdW5kZXJseWluZyBnaXQgcmVwby4KCiAgICAgICAgVGhlIHZlcnNpb24gd2lsbCBpbmRpY2F0ZSB3aGV0aGVyIHRoZSBoZWFkIG9mIHRoZSBjdXJyZW50IGdpdC1iYWNrZWQgd29ya2luZyBkaXJlY3RvcnkKICAgICAgICBpcyB0aWVkIHRvIGEgcmVsZWFzZSB0YWcgb3Igbm90LiBJdCB3aWxsIGluZGljYXRlIHRoZSBmb3JtZXIgd2l0aCBhICdyZWxlYXNlOnt2ZXJzaW9ufScKICAgICAgICBwcmVmaXggYW5kIHRoZSBsYXR0ZXIgd2l0aCBhICcuZGV2MCcgc3VmZml4LiBGb2xsb3dpbmcgdGhlIHByZWZpeCB3aWxsIGJlIGEgc2hhIG9mIHRoZQogICAgICAgIGN1cnJlbnQgYnJhbmNoIGhlYWQuIEZpbmFsbHksIGEgImRpcnR5IiBzdWZmaXggaXMgYXBwZW5kZWQgdG8gaW5kaWNhdGUgdGhhdCB1bmNvbW1pdHRlZAogICAgICAgIGNoYW5nZXMgYXJlIHByZXNlbnQuCgogICAgICAgIFRoZSAiZGlydHkiIGNoZWNrIGlzIHJlc3RyaWN0ZWQgdG8gcGF0aHMgdGhhdCBhcmUgcGFydCBvZiB0aGUgZG9ja2VyIGJ1aWxkIGNvbnRleHQgKHBlcgogICAgICAgIGBgLmRvY2tlcmlnbm9yZWBgKS4gVGhpcyBhdm9pZHMgc3B1cmlvdXMgYGAuZGlydHlgYCBtYXJrZXJzIG9uIG9mZmljaWFsIGJ1aWxkcywgd2hlcmUgdGhlCiAgICAgICAgZGVueS1ieS1kZWZhdWx0IGBgLmRvY2tlcmlnbm9yZWBgIGV4Y2x1ZGVzIHRyYWNrZWQgdG9wLWxldmVsIGZpbGVzIGZyb20gYGBDT1BZYGAuCgogICAgICAgIEV4YW1wbGUgcHJlLXJlbGVhc2UgdmVyc2lvbjogIi5kZXYwKzJmNjM1ZGMyNjVlNzhkYjY3MDhmNTlmNjhlODAwOWFiYjkyYzFlNjUiLgogICAgICAgIEV4YW1wbGUgcmVsZWFzZSB2ZXJzaW9uOiAiLnJlbGVhc2UrMmY2MzVkYzI2NWU3OGRiNjcwOGY1OWY2OGU4MDA5YWJiOTJjMWU2NSIuCiAgICAgICAgRXhhbXBsZSBtb2RpZmllZCByZWxlYXNlIHZlcnNpb246ICIucmVsZWFzZSsyZjYzNWRjMjY1ZTc4ZGI2NzA4ZjU5ZjY4ZTgwMDlhYmI5MmMxZTY1Ii5kaXJ0eQoKICAgICAgICA6cmV0dXJuOiBGb3VuZCBBaXJmbG93IHZlcnNpb24gaW4gR2l0IHJlcG8uCiAgICAgICAgIiIiCiAgICAgICAgdHJ5OgogICAgICAgICAgICBpbXBvcnQgZ2l0CgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBnaXRfcGF0aCA9IFBhdGgoc2VsZi5yb290KS5wYXJlbnQucmVzb2x2ZSgpIC8gIi5naXQiCiAgICAgICAgICAgICAgICBsb2cud2FybmluZygiR2V0dGluZyBnaXQgdmVyc2lvbiBmcm9tOiAlcyIsIGdpdF9wYXRoKQogICAgICAgICAgICAgICAgIyBHZXQgZ2l0IHZlcnNpb24gZnJvbSB0aGUgZ2l0IG9mIHRoZSBhaXJmbG93IHJvb3QgcmVwbwogICAgICAgICAgICAgICAgcmVwbyA9IGdpdC5SZXBvKHN0cihnaXRfcGF0aCkpCiAgICAgICAgICAgIGV4Y2VwdCBnaXQuTm9TdWNoUGF0aEVycm9yOgogICAgICAgICAgICAgICAgbG9nLndhcm5pbmcoIi5naXQgZGlyZWN0b3J5IG5vdCBmb3VuZDogQ2Fubm90IGNvbXB1dGUgdGhlIGdpdCB2ZXJzaW9uIikKICAgICAgICAgICAgICAgIHJldHVybiAiIgogICAgICAgICAgICBleGNlcHQgZ2l0LkludmFsaWRHaXRSZXBvc2l0b3J5RXJyb3I6CiAgICAgICAgICAgICAgICBsb2cud2FybmluZygiSW52YWxpZCAuZ2l0IGRpcmVjdG9yeSBub3QgZm91bmQ6IENhbm5vdCBjb21wdXRlIHRoZSBnaXQgdmVyc2lvbiIpCiAgICAgICAgICAgICAgICByZXR1cm4gIiIKICAgICAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgICAgIGxvZy53YXJuaW5nKCJnaXRweXRob24gbm90IGZvdW5kOiBDYW5ub3QgY29tcHV0ZSB0aGUgZ2l0IHZlcnNpb24uIikKICAgICAgICAgICAgcmV0dXJuICIiCiAgICAgICAgaWYgcmVwbzoKICAgICAgICAgICAgc2hhID0gcmVwby5oZWFkLmNvbW1pdC5oZXhzaGEKICAgICAgICAgICAgd29ya19kaXIgPSBQYXRoKHNlbGYucm9vdCkucGFyZW50LnJlc29sdmUoKQogICAgICAgICAgICBpZiBzZWxmLl9pc19kaXJ0eV93aXRoaW5fYnVpbGRfY29udGV4dChyZXBvLCB3b3JrX2Rpcik6CiAgICAgICAgICAgICAgICByZXR1cm4gZiIuZGV2MCt7c2hhfS5kaXJ0eSIKICAgICAgICAgICAgIyBjb21taXQgaXMgY2xlYW4KICAgICAgICAgICAgcmV0dXJuIGYiLnJlbGVhc2U6e3NoYX0iCiAgICAgICAgcmV0dXJuICJub19naXRfdmVyc2lvbiIKCiAgICBkZWYgd3JpdGVfZ2l0X3ZlcnNpb24oc2VsZikgLT4gTm9uZToKICAgICAgICAiIiJXcml0ZSBnaXQgdmVyc2lvbiB0byBnaXRfdmVyc2lvbiBmaWxlLiIiIgogICAgICAgIHZlcnNpb24gPSBzZWxmLmdldF9naXRfdmVyc2lvbigpCiAgICAgICAgZ2l0X3ZlcnNpb25fZmlsZSA9IFBhdGgoc2VsZi5yb290KSAvICJzcmMiIC8gImFpcmZsb3ciIC8gImdpdF92ZXJzaW9uIgogICAgICAgIHNlbGYuYXBwLmRpc3BsYXkoZiJXcml0aW5nIHZlcnNpb24ge3ZlcnNpb259IHRvIHtnaXRfdmVyc2lvbl9maWxlfSIpCiAgICAgICAgZ2l0X3ZlcnNpb25fZmlsZS53cml0ZV90ZXh0KHZlcnNpb24pCg==
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#   http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+from __future__ import annotations
+
+import logging
+import os
+import shutil
+from collections.abc import Callable, Iterable
+from pathlib import Path
+from subprocess import run
+from typing import Any
+
+from hatchling.builders.config import BuilderConfig
+from hatchling.builders.plugin.interface import BuilderInterface
+from hatchling.plugin.manager import PluginManager
+
+log = logging.getLogger(__name__)
+log_level = logging.getLevelName(os.getenv("CUSTOM_AIRFLOW_BUILD_LOG_LEVEL", "INFO"))
+log.setLevel(log_level)
+
+
+class CustomBuild(BuilderInterface[BuilderConfig, PluginManager]):
+    """Custom build class for Airflow assets and git version."""
+
+    # Note that this name of the plugin MUST be `custom` - as long as we use it from custom
+    # hatch_build.py file and not from external plugin. See note in the:
+    # https://hatch.pypa.io/latest/plugins/build-hook/custom/#example
+    PLUGIN_NAME = "custom"
+
+    @staticmethod
+    def clean_dir(path: Path) -> None:
+        log.warning("Cleaning directory: %s", path)
+        shutil.rmtree(path, ignore_errors=True)
+
+    def clean(self, directory: str, versions: Iterable[str]) -> None:
+        work_dir = Path(self.root)
+        log.warning("Cleaning generated files in directory: %s", work_dir)
+        airflow_package_src = work_dir / "src" / "airflow"
+        airflow_ui_path = airflow_package_src / "ui"
+        fastapi_ui_path = airflow_package_src / "api_fastapi" / "auth" / "managers" / "simple" / "ui"
+        self.clean_dir(airflow_ui_path / "dist")
+        self.clean_dir(airflow_ui_path / "node_modules")
+        self.clean_dir(fastapi_ui_path / "dist")
+        self.clean_dir(fastapi_ui_path / "node_modules")
+
+    def get_version_api(self) -> dict[str, Callable[..., str]]:
+        """Get custom build target for standard package preparation."""
+        return {"standard": self.build_standard}
+
+    def build_standard(self, directory: str, artifacts: Any, **build_data: Any) -> str:
+        self.write_git_version()
+        # run this in the parent directory of the airflow-core (i.e. airflow repo root)
+        work_dir = Path(self.root).parent.resolve()
+        cmd = ["prek", "run", "--stage", "manual", "compile-ui-assets", "--all-files"]
+        log.warning("Running command: %s", " ".join(cmd))
+        run(cmd, cwd=work_dir.as_posix(), check=True)
+        dist_path = Path(self.root) / "src" / "airflow" / "ui" / "dist"
+        return dist_path.resolve().as_posix()
+
+    @staticmethod
+    def _dockerignore_allowed_paths(work_dir: Path) -> list[str] | None:
+        # The repo's ``.dockerignore`` follows a deny-by-default pattern (``**``)
+        # plus an explicit allowlist of ``!path`` entries. When the package is
+        # built inside the docker image (``COPY . /opt/airflow``), only the
+        # allowlisted files reach the container, so paths outside the allowlist
+        # are guaranteed to be absent and would otherwise be reported as
+        # ``deleted`` by ``git diff`` — stamping every release as ``.dirty``.
+        # Parse the allowlist at build time so this stays in sync with the file.
+        dockerignore = work_dir / ".dockerignore"
+        if not dockerignore.exists():
+            return None
+        allowed: list[str] = []
+        for raw_line in dockerignore.read_text().splitlines():
+            line = raw_line.strip()
+            if not line or line.startswith("#") or not line.startswith("!"):
+                continue
+            path = line[1:].strip().rstrip("/")
+            if path:
+                allowed.append(path)
+        return allowed or None
+
+    @classmethod
+    def _is_dirty_within_build_context(cls, repo: Any, work_dir: Path) -> bool:
+        allowed_paths = cls._dockerignore_allowed_paths(work_dir)
+        if not allowed_paths:
+            return repo.is_dirty()
+        try:
+            diff = repo.git.diff("HEAD", "--name-only", "--", *allowed_paths)
+        except Exception as exc:
+            log.warning("Restricted dirty check failed (%s); falling back to is_dirty().", exc)
+            return repo.is_dirty()
+        return bool(diff.strip())
+
+    def get_git_version(self) -> str:
+        """
+        Return a version to identify the state of the underlying git repo.
+
+        The version will indicate whether the head of the current git-backed working directory
+        is tied to a release tag or not. It will indicate the former with a 'release:{version}'
+        prefix and the latter with a '.dev0' suffix. Following the prefix will be a sha of the
+        current branch head. Finally, a "dirty" suffix is appended to indicate that uncommitted
+        changes are present.
+
+        The "dirty" check is restricted to paths that are part of the docker build context (per
+        ``.dockerignore``). This avoids spurious ``.dirty`` markers on official builds, where the
+        deny-by-default ``.dockerignore`` excludes tracked top-level files from ``COPY``.
+
+        Example pre-release version: ".dev0+2f635dc265e78db6708f59f68e8009abb92c1e65".
+        Example release version: ".release+2f635dc265e78db6708f59f68e8009abb92c1e65".
+        Example modified release version: ".release+2f635dc265e78db6708f59f68e8009abb92c1e65".dirty
+
+        :return: Found Airflow version in Git repo.
+        """
+        try:
+            import git
+
+            try:
+                git_path = Path(self.root).parent.resolve() / ".git"
+                log.warning("Getting git version from: %s", git_path)
+                # Get git version from the git of the airflow root repo
+                repo = git.Repo(str(git_path))
+            except git.NoSuchPathError:
+                log.warning(".git directory not found: Cannot compute the git version")
+                return ""
+            except git.InvalidGitRepositoryError:
+                log.warning("Invalid .git directory not found: Cannot compute the git version")
+                return ""
+        except ImportError:
+            log.warning("gitpython not found: Cannot compute the git version.")
+            return ""
+        if repo:
+            sha = repo.head.commit.hexsha
+            work_dir = Path(self.root).parent.resolve()
+            if self._is_dirty_within_build_context(repo, work_dir):
+                return f".dev0+{sha}.dirty"
+            # commit is clean
+            return f".release:{sha}"
+        return "no_git_version"
+
+    def write_git_version(self) -> None:
+        """Write git version to git_version file."""
+        version = self.get_git_version()
+        git_version_file = Path(self.root) / "src" / "airflow" / "git_version"
+        self.app.display(f"Writing version {version} to {git_version_file}")
+        git_version_file.write_text(version)

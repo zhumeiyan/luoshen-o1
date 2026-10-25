@@ -1,1 +1,16 @@
-aW1wb3J0IHVybGxpYi5yZXF1ZXN0LHNzbCxodHRwLmNvb2tpZWphcixyYW5kb20sdGltZQpBPSIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS8uYXV0aC8iCmN0eD1zc2wuY3JlYXRlX2RlZmF1bHRfY29udGV4dCgpOyBjdHguY2hlY2tfaG9zdG5hbWU9RmFsc2U7IGN0eC52ZXJpZnlfbW9kZT1zc2wuQ0VSVF9OT05FCmNqPWh0dHAuY29va2llamFyLk1vemlsbGFDb29raWVKYXIoQSsiY29va2llcy50eHQiKQpvcD11cmxsaWIucmVxdWVzdC5idWlsZF9vcGVuZXIodXJsbGliLnJlcXVlc3QuSFRUUENvb2tpZVByb2Nlc3NvcihjaiksdXJsbGliLnJlcXVlc3QuSFRUUFNIYW5kbGVyKGNvbnRleHQ9Y3R4KSkKb3AuYWRkaGVhZGVycz1bKCJVc2VyLUFnZW50IiwiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IENocm9tZS8xMjAgU2FmYXJpLzUzNy4zNiIpLAogICAgICAgICAgICAgICAoIlJlZmVyZXIiLCJodHRwczovL3h1aS5wdGxvZ2luMi5xcS5jb20vIildCm9wLm9wZW4oImh0dHBzOi8veHVpLnB0bG9naW4yLnFxLmNvbS9jZ2ktYmluL3hsb2dpbj9hcHBpZD01MjIwMDU3MDUmZGFpZD00JnN0eWxlPTMzJnNfdXJsPWh0dHBzJTNBJTJGJTJGbWFpbC5xcS5jb20lMkYiLHRpbWVvdXQ9MjUpLnJlYWQoKQpkPW9wLm9wZW4oZiJodHRwczovL3NzbC5wdGxvZ2luMi5xcS5jb20vcHRxcnNob3c/YXBwaWQ9NTIyMDA1NzA1JmU9MiZsPU0mcz0zJmQ9NzImdj00JmRhaWQ9NCZ0PTAue3JhbmRvbS5yYW5kb20oKX0mcHRfM3JkX2FpZD0wIix0aW1lb3V0PTI1KS5yZWFkKCkKb3BlbihBKyJxcl9saXZlLnBuZyIsIndiIikud3JpdGUoZCkKcXJzaWc9bmV4dCgoYy52YWx1ZSBmb3IgYyBpbiBjaiBpZiBjLm5hbWU9PSJxcnNpZyIpLCIiKQplPTAKZm9yIGNoIGluIHFyc2lnOiBlICs9IChlPDw1KSArIG9yZChjaCkKdG9rZW49ZSAmIDB4N2ZmZmZmZmYKY2ouc2F2ZShpZ25vcmVfZGlzY2FyZD1UcnVlLGlnbm9yZV9leHBpcmVzPVRydWUpCnByaW50KCJxciBieXRlczoiLGxlbihkKSwidG9rZW46Iix0b2tlbiwiY29va2llczoiLGxlbihjaikpCg==
+import urllib.request,ssl,http.cookiejar,random,time
+A="/data/workspace/luoshen-o1/.auth/"
+ctx=ssl.create_default_context(); ctx.check_hostname=False; ctx.verify_mode=ssl.CERT_NONE
+cj=http.cookiejar.MozillaCookieJar(A+"cookies.txt")
+op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj),urllib.request.HTTPSHandler(context=ctx))
+op.addheaders=[("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"),
+               ("Referer","https://xui.ptlogin2.qq.com/")]
+op.open("https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=522005705&daid=4&style=33&s_url=https%3A%2F%2Fmail.qq.com%2F",timeout=25).read()
+d=op.open(f"https://ssl.ptlogin2.qq.com/ptqrshow?appid=522005705&e=2&l=M&s=3&d=72&v=4&daid=4&t=0.{random.random()}&pt_3rd_aid=0",timeout=25).read()
+open(A+"qr_live.png","wb").write(d)
+qrsig=next((c.value for c in cj if c.name=="qrsig"),"")
+e=0
+for ch in qrsig: e += (e<<5) + ord(ch)
+token=e & 0x7fffffff
+cj.save(ignore_discard=True,ignore_expires=True)
+print("qr bytes:",len(d),"token:",token,"cookies:",len(cj))

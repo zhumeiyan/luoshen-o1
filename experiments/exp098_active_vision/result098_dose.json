@@ -1,1 +1,112 @@
-ewogImlvcl9kb3NlIjogewogICJ1bmlmb3JtfDEuMDAiOiB7CiAgICJtZWFuIjogMC4wODEyNSwKICAgInZhbHMiOiBbCiAgICAwLjEsCiAgICAwLjA3NSwKICAgIDAuMDc1LAogICAgMC4wNzUKICAgXQogIH0sCiAgInVuaWZvcm18MC43MCI6IHsKICAgIm1lYW4iOiAwLjI4MTI1LAogICAidmFscyI6IFsKICAgIDAuMTUsCiAgICAwLjM1LAogICAgMC4yNSwKICAgIDAuMzc1CiAgIF0KICB9LAogICJ1bmlmb3JtfDAuNDAiOiB7CiAgICJtZWFuIjogMC4yODc1LAogICAidmFscyI6IFsKICAgIDAuMTc1LAogICAgMC4zNSwKICAgIDAuMjUsCiAgICAwLjM3NQogICBdCiAgfSwKICAidW5pZm9ybXwwLjE1IjogewogICAibWVhbiI6IDAuMjg3NSwKICAgInZhbHMiOiBbCiAgICAwLjE3NSwKICAgIDAuMzUsCiAgICAwLjI1LAogICAgMC4zNzUKICAgXQogIH0sCiAgInVuaWZvcm18MC4wNSI6IHsKICAgIm1lYW4iOiAwLjI4NzUsCiAgICJ2YWxzIjogWwogICAgMC4xNzUsCiAgICAwLjM1LAogICAgMC4yNSwKICAgIDAuMzc1CiAgIF0KICB9LAogICJ1bmlmb3JtfDAuMDAiOiB7CiAgICJtZWFuIjogMC4yODc1LAogICAidmFscyI6IFsKICAgIDAuMTc1LAogICAgMC4zNSwKICAgIDAuMjUsCiAgICAwLjM3NQogICBdCiAgfSwKICAiY2x1c3RlcmVkfDEuMDAiOiB7CiAgICJtZWFuIjogMC4xOTM3NSwKICAgInZhbHMiOiBbCiAgICAwLjE3NSwKICAgIDAuMjc1LAogICAgMC4xNzUsCiAgICAwLjE1CiAgIF0KICB9LAogICJjbHVzdGVyZWR8MC43MCI6IHsKICAgIm1lYW4iOiAwLjY5Mzc1MDAwMDAwMDAwMDEsCiAgICJ2YWxzIjogWwogICAgMC42NzUsCiAgICAwLjM3NSwKICAgIDAuOTI1LAogICAgMC44CiAgIF0KICB9LAogICJjbHVzdGVyZWR8MC40MCI6IHsKICAgIm1lYW4iOiAwLjY5Mzc1MDAwMDAwMDAwMDEsCiAgICJ2YWxzIjogWwogICAgMC42NzUsCiAgICAwLjM3NSwKICAgIDAuOTI1LAogICAgMC44CiAgIF0KICB9LAogICJjbHVzdGVyZWR8MC4xNSI6IHsKICAgIm1lYW4iOiAwLjY5Mzc1MDAwMDAwMDAwMDEsCiAgICJ2YWxzIjogWwogICAgMC42NzUsCiAgICAwLjM3NSwKICAgIDAuOTI1LAogICAgMC44CiAgIF0KICB9LAogICJjbHVzdGVyZWR8MC4wNSI6IHsKICAgIm1lYW4iOiAwLjY5Mzc1MDAwMDAwMDAwMDEsCiAgICJ2YWxzIjogWwogICAgMC42NzUsCiAgICAwLjM3NSwKICAgIDAuOTI1LAogICAgMC44CiAgIF0KICB9LAogICJjbHVzdGVyZWR8MC4wMCI6IHsKICAgIm1lYW4iOiAwLjY5Mzc1MDAwMDAwMDAwMDEsCiAgICJ2YWxzIjogWwogICAgMC42NzUsCiAgICAwLjM3NSwKICAgIDAuOTI1LAogICAgMC44CiAgIF0KICB9CiB9Cn0=
+{
+ "ior_dose": {
+  "uniform|1.00": {
+   "mean": 0.08125,
+   "vals": [
+    0.1,
+    0.075,
+    0.075,
+    0.075
+   ]
+  },
+  "uniform|0.70": {
+   "mean": 0.28125,
+   "vals": [
+    0.15,
+    0.35,
+    0.25,
+    0.375
+   ]
+  },
+  "uniform|0.40": {
+   "mean": 0.2875,
+   "vals": [
+    0.175,
+    0.35,
+    0.25,
+    0.375
+   ]
+  },
+  "uniform|0.15": {
+   "mean": 0.2875,
+   "vals": [
+    0.175,
+    0.35,
+    0.25,
+    0.375
+   ]
+  },
+  "uniform|0.05": {
+   "mean": 0.2875,
+   "vals": [
+    0.175,
+    0.35,
+    0.25,
+    0.375
+   ]
+  },
+  "uniform|0.00": {
+   "mean": 0.2875,
+   "vals": [
+    0.175,
+    0.35,
+    0.25,
+    0.375
+   ]
+  },
+  "clustered|1.00": {
+   "mean": 0.19375,
+   "vals": [
+    0.175,
+    0.275,
+    0.175,
+    0.15
+   ]
+  },
+  "clustered|0.70": {
+   "mean": 0.6937500000000001,
+   "vals": [
+    0.675,
+    0.375,
+    0.925,
+    0.8
+   ]
+  },
+  "clustered|0.40": {
+   "mean": 0.6937500000000001,
+   "vals": [
+    0.675,
+    0.375,
+    0.925,
+    0.8
+   ]
+  },
+  "clustered|0.15": {
+   "mean": 0.6937500000000001,
+   "vals": [
+    0.675,
+    0.375,
+    0.925,
+    0.8
+   ]
+  },
+  "clustered|0.05": {
+   "mean": 0.6937500000000001,
+   "vals": [
+    0.675,
+    0.375,
+    0.925,
+    0.8
+   ]
+  },
+  "clustered|0.00": {
+   "mean": 0.6937500000000001,
+   "vals": [
+    0.675,
+    0.375,
+    0.925,
+    0.8
+   ]
+  }
+ }
+}

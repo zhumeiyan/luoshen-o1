@@ -1,1 +1,40 @@
-IyBDb3B5cmlnaHQ6IChjKSAyMDIzLCBNYXggSMO2c2VsIDxhbnNpYmxlQG1heGhvZXNlbC5kZT4KIyBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSB2My4wKyAoc2VlIENPUFlJTkcgb3IgaHR0cHM6Ly93d3cuZ251Lm9yZy9saWNlbnNlcy9ncGwtMy4wLnR4dCkKCmZyb20gdHlwaW5nIGltcG9ydCBEaWN0LCBBbnkKCmZyb20gYW5zaWJsZS5tb2R1bGVfdXRpbHMuYmFzaWMgaW1wb3J0IEFuc2libGVNb2R1bGUKCmZyb20gLi5jbGlfd3JhcHBlciBpbXBvcnQgQ2xpQ29tbWFuZEFyZ3MKZnJvbSAucGFyYW1zX2hlbHBlciBpbXBvcnQgUGFyYW1zSGVscGVyCgoKY2xhc3MgQ2FDb25uZWN0aW9uUGFyYW1zKFBhcmFtc0hlbHBlcik6CgogICAgYXJndW1lbnRfc3BlYzogRGljdFtzdHIsIERpY3Rbc3RyLCBBbnldXSA9IGRpY3QoCiAgICAgICAgY2FfdXJsPWRpY3QodHlwZT0ic3RyIiksCiAgICAgICAgcm9vdD1kaWN0KHR5cGU9InBhdGgiKSwKICAgICAgICBjYV9jb25maWc9ZGljdCh0eXBlPSJwYXRoIiksCiAgICAgICAgb2ZmbGluZT1kaWN0KHR5cGU9ImJvb2wiKSwKICAgICkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBjbGlfYXJncyhjbHMpIC0+IENsaUNvbW1hbmRBcmdzOgogICAgICAgIHJldHVybiBDbGlDb21tYW5kQXJncyhbXSwge2tleTogZiItLXtrZXkucmVwbGFjZSgnXycsICctJyl9IiBmb3Iga2V5IGluIGNscy5hcmd1bWVudF9zcGVjfSkKCiAgICAjIHB5bGludDogZGlzYWJsZT11c2VsZXNzLXBhcmVudC1kZWxlZ2F0aW9uCiAgICBkZWYgX19pbml0X18oc2VsZiwgbW9kdWxlOiBBbnNpYmxlTW9kdWxlKSAtPiBOb25lOgogICAgICAgIHN1cGVyKCkuX19pbml0X18obW9kdWxlKQoKICAgIGRlZiBjaGVjayhzZWxmKToKICAgICAgICBpZiAoCiAgICAgICAgICAgIChzZWxmLm1vZHVsZS5wYXJhbXNbIm9mZmxpbmUiXSkgYW5kICAjIHR5cGU6IGlnbm9yZQogICAgICAgICAgICAoc2VsZi5tb2R1bGUucGFyYW1zWyJjYV91cmwiXSBvciBzZWxmLm1vZHVsZS5wYXJhbXNbInJvb3QiXSkgICMgdHlwZTogaWdub3JlCiAgICAgICAgKToKICAgICAgICAgICAgc2VsZi5tb2R1bGUuZmFpbF9qc29uKG1zZz0iY2FfY29uZmlnL29mZmxpbmUgYW5kIHJvb3QvY2FfdXJsIGFyZSBtdXR1YWxseSBleGNsdXNpdmUiKQoKICAgIGRlZiBpc19sb2NhbChzZWxmKToKICAgICAgICByZXR1cm4gVHJ1ZSBpZiBzZWxmLm1vZHVsZS5wYXJhbXNbIm9mZmxpbmUiXSBvciBzZWxmLm1vZHVsZS5wYXJhbXNbImNhX2NvbmZpZyJdIGVsc2UgRmFsc2UgICMgdHlwZTogaWdub3JlCgogICAgZGVmIGlzX3JlbW90ZShzZWxmKToKICAgICAgICByZXR1cm4gbm90IHNlbGYuaXNfbG9jYWwoKQo=
+# Copyright: (c) 2023, Max Hösel <ansible@maxhoesel.de>
+# GNU General Public License v3.0+ (see COPYING or https://www.gnu.org/licenses/gpl-3.0.txt)
+
+from typing import Dict, Any
+
+from ansible.module_utils.basic import AnsibleModule
+
+from ..cli_wrapper import CliCommandArgs
+from .params_helper import ParamsHelper
+
+
+class CaConnectionParams(ParamsHelper):
+
+    argument_spec: Dict[str, Dict[str, Any]] = dict(
+        ca_url=dict(type="str"),
+        root=dict(type="path"),
+        ca_config=dict(type="path"),
+        offline=dict(type="bool"),
+    )
+
+    @classmethod
+    def cli_args(cls) -> CliCommandArgs:
+        return CliCommandArgs([], {key: f"--{key.replace('_', '-')}" for key in cls.argument_spec})
+
+    # pylint: disable=useless-parent-delegation
+    def __init__(self, module: AnsibleModule) -> None:
+        super().__init__(module)
+
+    def check(self):
+        if (
+            (self.module.params["offline"]) and  # type: ignore
+            (self.module.params["ca_url"] or self.module.params["root"])  # type: ignore
+        ):
+            self.module.fail_json(msg="ca_config/offline and root/ca_url are mutually exclusive")
+
+    def is_local(self):
+        return True if self.module.params["offline"] or self.module.params["ca_config"] else False  # type: ignore
+
+    def is_remote(self):
+        return not self.is_local()

@@ -1,1 +1,150 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5LiL5rKJ5pifIMK3IERlc2NlbmQg4oCU4oCUIOa0m+elnuesrCA2NCDoioIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K6KeG5beu5pif5Y+q5bmy5LiA5Lu25LqL77ya5oyH5Ye6Iui/meS4gOagvOaYr+aIkee8lueahCLvvIhCTE9DS++8ieOAggrlroPkuI3lkYror4nkvaDkuIvkuIDmoLzlnKjlk6rjgILov5npopfmmJ/lubLnmoTmmK/nrKzkuozmraXvvJoKCiAgICDlgZzlnKjlk6og4oaSIOW+gOS4i+mSu+S4gOWxgiDihpIg5oyW5Ye66YKj5Liq54K5IOKGkiDooaXlm57ljrsg4oaSIOWGjeeci+eBrwoK5LiL5rKJ6KeE5YiZ77yI5q+P5p2hIEJMT0NLIOeBr+WvueW6lOS4gOS4quWFt+S9k+WKqOS9nO+8jOS4jeaYr+azm+azm+eahCLnu6fnu63mn6Ui77yJ77yaCgogICAgTDEg5q6L5beuICAg4oaSIOaKiiBCIOeahOaXtumXtOe6vy/nqbrpl7Tnur/mi4blvIDvvIzmib7jgJDotbfngrnplJnkvY3jgJEKICAgICAgICAgICAgICAgICDmiJHplJnov4fnmoTku47mnaXkuI3mmK8i5pWw5YC85beu5aSa5bCRIu+8jOaYryLmiJHku47lk6rlvIDlp4vnrpfnmoQiCiAgICBMMiDmnKrmjqXlhaUg4oaSIOWOu+a6kOeggSBncmVwIOi/meS4quWPguaVsOWQjeOAgmdyZXAg5LiN5YiwID0g5a6D5bCx5piv5oiR57yW55qE77yM5Yig5o6JCiAgICBMMyDlgYfmoq/luqYg4oaSIOWBnOatouWcqOiHque8luaooeWei+mHjOaJq+WPguaVsOOAguaUueaIkOWPquWcqOWunua1i+aVsOWtl+S4iuWBmueul+acrwogICAgTDRiIOS4jeWjsOaYjiDihpIg5YaZ5LiLIuaIkeS4jeefpemBk+eahCLmuIXljZXvvIzpgJDmnaHnu5nlh7rljrvlk6rog73pqozor4EKCueUqOazle+8mgogICAgcHl0aG9uMyB0b29scy9kZXNjZW5kLnB5ICAgICAgICAgICAgICAgICAjIOi3keahiOS+i+W6k++8jOeci+avj+mil+aYn+aYr+aAjuS5iOaMluWHuuadpeeahAogICAgcHl0aG9uMyB0b29scy9kZXNjZW5kLnB5IC0tZml4IGNhc2UuanNvbiAjIOWvuSBCTE9DSyDnu5nlh7rkuIvkuIDmraXlhbfkvZPliqjkvZwKIiIiCmltcG9ydCBqc29uLCBvcywgc3lzCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClJPT1QgPSBvcy5wYXRoLmRpcm5hbWUoSEVSRSkKQ0FTRVMgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIi5zZW5zZSIsICJwYXJhbGxheF9jYXNlcy5qc29ubCIpClNUQVJTID0gb3MucGF0aC5qb2luKFJPT1QsICIuc2Vuc2UiLCAic3RhcnMubWQiKQoKIyDmr4/mnaEgQkxPQ0sg54GvIOKGkiDlvoDkuIvpkrvnmoTlhbfkvZPliqjkvZwgKyDmjJbliLDkuYvlkI7mgI7kuYjpqowKUExBWUJPT0sgPSB7CiAgICAiTDEiOiB7CiAgICAgICAgIm5hbWUiOiAi5q6L5beuIiwKICAgICAgICAiYXNrIjogIuaIkeS7juWTquS4gOatpeW8gOWni+eul+eahO+8n+Wunua1i+S7juWTquS4gOatpeW8gOWni++8nyIsCiAgICAgICAgImhvdyI6ICLmiorpgJrpgZMgQiDnmoTml7bpl7Tnur/vvIjmiJbnqbrpl7Tnur/vvInpgJDmrrXmi4blvIDvvIwiCiAgICAgICAgICAgICAgICLkuI7pgJrpgZMgQSDnmoTlrp7mtYvplJrngrnlr7npvZDjgILmib7jgJDotbfngrnjgJHvvIzkuI3mmK/mib7jgJDor6/lt67jgJHjgIIiLAogICAgICAgICJmb3VuZF93aGVuIjogIuaLhuWujOS5i+WQju+8jOmihOa1i+WMuumXtOS4juWunua1i+WMuumXtOeahOmXtOmameiQvei/m+a1i+mHj+ivr+W3ruWGheOAgiIsCiAgICAgICAgImV4YW1wbGUiOiAib21hcmNoeSMxNjE0Nu+8muaIkeesrOS4gOS4qiByZWxvYWQg5pS+5ZyoICs2bXPvvIzlrp7mtYsgKzEyOG1z44CCIgogICAgICAgICAgICAgICAgICAgIumUmeS9jSAxMjJtc+OAguaLhuW8gOaJjeWPkeeOsCBldmFsIOWGhemDqOi/mOaciSBhcnJhbmdlIOeahCAyNCDkuKogZGlzcGF0Y2jjgIIiLAogICAgfSwKICAgICJMMiI6IHsKICAgICAgICAibmFtZSI6ICLmnKrmjqXlhaUiLAogICAgICAgICJhc2siOiAi6L+Z5Liq5Y+C5pWw77yM5rqQ56CB6YeM5pyJ5rKh5pyJ5a6D55qE5ZCN5a2X77yfIiwKICAgICAgICAiaG93IjogIuWcqOebruagh+a6kOeggemHjCBncmVwIOWPguaVsOWQjeOAgmdyZXAg5YiwIOKGkiDooaXkuIrooYzlj7fvvJsiCiAgICAgICAgICAgICAgICJncmVwIOS4jeWIsCDihpIg5a6D5bCx5piv5oiR57yW55qE77yM5LuO5qih5Z6L6YeM5Yig5o6J77yM5LiN6K645b2T5L2c5bey55+l5p2h5Lu244CCIiwKICAgICAgICAiZm91bmRfd2hlbiI6ICLmr4/kuKrlj4LmlbDopoHkuYjmnIkg5paH5Lu2OuihjOWPt++8jOimgeS5iOiiq+WIoOmZpOOAguayoeacieesrOS4ieenjeeKtuaAgeOAgiIsCiAgICAgICAgImV4YW1wbGUiOiAib21hcmNoeSMxNjE0Nu+8mmZsb2F0aW5nX3JlYWR5X3Jlc2V0c19vbl9yZWxvYWQg5LiOICIKICAgICAgICAgICAgICAgICAgICJyYWNlX3BsdWdpbl9saXN0X2xhZ3Mg5Lik5p2hIGdyZXAg5LiN5YiwIOKGkiDliKDjgILliakgMyDmnaHpg73mnInooYzlj7fjgIIiLAogICAgfSwKICAgICJMMyI6IHsKICAgICAgICAibmFtZSI6ICLlgYfmoq/luqYiLAogICAgICAgICJhc2siOiAi5oiR55qE5raI6J6N6KGo77yM5omr55qE5piv55yf57O757uf6L+Y5piv5oiR6Ieq5bex57yW55qE5qih5Z6L77yfIiwKICAgICAgICAiaG93IjogIuiLpeaJq+eahOaYr+iHque8luaooeWei++8jOair+W6puaYr+WBh+eahOOAguaUueaIkO+8muWPquWcqOWunua1i+aVsOWtl+S4iuWBmuWKoOWHj+S5mOmZpO+8jCIKICAgICAgICAgICAgICAgIuWGjeaKiue7k+aenOWBmuaIkOS4gOS4quOAkOWIq+S6uuaMieS4gOS4i+WwseiDveivgeS8quOAkeeahOmihOa1i+OAgiIsCiAgICAgICAgImZvdW5kX3doZW4iOiAi6aKE5rWL6IO96KKr5Lq655So5LiA5Liq5Yqo5L2c77yI5bCR5byA5Yeg5Liq56qX5Y+jIC8g5o2i5Liq5Y+C5pWw77yJ5b2T5Zy65o6o57+744CCIiwKICAgICAgICAiZXhhbXBsZSI6ICJvbWFyY2h5IzE2MTQ277ya5pS55oiQ57qv566X5pyv5ZCO57uZ5Ye6IHdhbGwgPSAyMi41ICsgNk7DlzQuNSBtc++8jCIKICAgICAgICAgICAgICAgICAgICLlubblhpnmmI7jgI7nqpflj6Pku44gNCDlh4/liLAgMe+8jOiLpeS4jeaOieWIsCB+NTBtcyDlsLHmmK/miJHplJnjgI/jgIIiLAogICAgfSwKICAgICJMNGIiOiB7CiAgICAgICAgIm5hbWUiOiAi5LiN5aOw5piOIiwKICAgICAgICAiYXNrIjogIuaIkeayoei3kei/h+Wug++8jOivu+iAheS8muS4jeS8muS7peS4uuaIkei3kei/h++8nyIsCiAgICAgICAgImhvdyI6ICLlhpnkuIvjgI7miJHkuI3nn6XpgZPnmoTjgI/muIXljZXvvIzpgJDmnaHmoIfms6jljrvlk6rog73pqozor4HvvIjnnJ/mnLogLyBSUEMgLyDosIHmnInorr7lpIfvvInjgIIiLAogICAgICAgICJmb3VuZF93aGVuIjogIua4heWNlemHjOavj+adoemDveacieaYjuehrueahOmqjOivgemAlOW+hO+8jOaIluaYjuehruWGmeatu+OAjuaXoOS6uuWPr+mqjOOAj+OAgiIsCiAgICAgICAgImV4YW1wbGUiOiAib21hcmNoeSMxNjE0Nu+8mjQg5qyhIHJlbG9hZCDlj6rmuq/liLAgMiDmnaHmnaXmupDvvIwiCiAgICAgICAgICAgICAgICAgICAi5YmpIDIg5p2h5YaZ44CO5oiR5LiN55+l6YGT44CP77yM57uI5q2i5py65Yi25YaZ44CO5oCA55aRIHBsdWdpbi5sb2FkIOW5guetie+8jOacqumqjOivgeOAj+OAgiIsCiAgICB9LAp9CgoKZGVmIGxvYWRfY2FzZXMoKToKICAgIG91dCA9IFtdCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoQ0FTRVMpOgogICAgICAgIHJldHVybiBvdXQKICAgIHdpdGggb3BlbihDQVNFUywgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgICAgICBsaW5lID0gbGluZS5zdHJpcCgpCiAgICAgICAgICAgIGlmIGxpbmU6CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKGpzb24ubG9hZHMobGluZSkpCiAgICByZXR1cm4gb3V0CgoKZGVmIGxhbXBzX29mKGMpOgogICAgIiIi5aSN5Yi7IHBhcmFsbGF4Lmp1ZGdlIOeahOWIpOWumu+8jOi/lOWbniBCTE9DSyDnga/nmoQgdGFnIOWIl+ihqCIiIgogICAgdGFncyA9IFtdCiAgICBhLCBiID0gY1siY2hhbm5lbF9hIl1bInZhbHVlIl0sIGNbImNoYW5uZWxfYiJdWyJ2YWx1ZSJdCiAgICB0b2wgPSBjLmdldCgidG9sZXJhbmNlIiwgMSkKICAgIGlmIGFicyhiIC0gYSkgPiB0b2w6CiAgICAgICAgdGFncy5hcHBlbmQoIkwxIikKICAgIGlmIGFueShub3QgcC5nZXQoInNyYyIpIGZvciBwIGluIGMuZ2V0KCJwYXJhbXMiLCBbXSkpOgogICAgICAgIHRhZ3MuYXBwZW5kKCJMMiIpCiAgICBpZiBjLmdldCgiYWJsYXRpb25faW5zaWRlX21vZGVsX29ubHkiKToKICAgICAgICB0YWdzLmFwcGVuZCgiTDMiKQogICAgaWYgbm90IGMuZ2V0KCJyYW5fcmVhbF9zeXN0ZW0iKSBhbmQgbm90IGMuZ2V0KCJkZWNsYXJlZF91bmtub3ducyIpOgogICAgICAgIHRhZ3MuYXBwZW5kKCJMNGIiKQogICAgcmV0dXJuIHRhZ3MKCgpkZWYgZGVzY2VuZChjKToKICAgIHRhZ3MgPSBsYW1wc19vZihjKQogICAgcHJpbnQoIj0iICogNzApCiAgICBwcmludChmIiDkuIvmsonmmJ8gwrcge2MuZ2V0KCdjYXNlJywn5pyq5ZG95ZCNJyl9IikKICAgIHByaW50KCI9IiAqIDcwKQogICAgYSwgYiA9IGNbImNoYW5uZWxfYSJdWyJ2YWx1ZSJdLCBjWyJjaGFubmVsX2IiXVsidmFsdWUiXQogICAgcHJpbnQoZiIgICDpgJrpgZMgQSB7YX0ge2NbJ2NoYW5uZWxfYSddWyd1bml0J119ICB8ICDpgJrpgZMgQiB7Yn0ge2NbJ2NoYW5uZWxfYiddWyd1bml0J119IikKICAgIHByaW50KGYiICAg5q6L5beuIFIgPSB7YiAtIGE6K2d9IHtjWydjaGFubmVsX2EnXVsndW5pdCddfSIpCiAgICBwcmludCgpCiAgICBpZiBub3QgdGFnczoKICAgICAgICBwcmludCgiICAg4pymIOaXoCBCTE9DSyDigJTigJQg6L+Z6aKX5pif5bey57uP5Lqu6L+H5LqG77yM5LiN55So5YaN5oyW44CCIikKICAgICAgICBwcmludCgiICAg77yI6KeG5beu5pif5rKh5YGc54K555qE5Zyw5pa577yM5LiL5rKJ5pif5Lmf5LiN5LiL6ZK744CC77yJIikKICAgICAgICByZXR1cm4gW10KICAgIHByaW50KGYiICAg8J+aqCDlgZzngrkge2xlbih0YWdzKX0g5aSE77yM6YCQ5bGC5LiL6ZK777yaXG4iKQogICAgZm9yIHQgaW4gdGFnczoKICAgICAgICBwID0gUExBWUJPT0tbdF0KICAgICAgICBwcmludChmIiAgIOKUgOKUgCBbe3R9XSB7cFsnbmFtZSddfSAiICsgIuKUgCIgKiAoNTIgLSBsZW4ocFsnbmFtZSddKSkpCiAgICAgICAgcHJpbnQoZiIgICAgICDpl64gIO+8mntwWydhc2snXX0iKQogICAgICAgIHByaW50KGYiICAgICAg5oyWICDvvJp7cFsnaG93J119IikKICAgICAgICBwcmludChmIiAgICAgIOaIkOS6hu+8mntwWydmb3VuZF93aGVuJ119IikKICAgICAgICBwcmludChmIiAgICAgIOaXp+S+i++8mntwWydleGFtcGxlJ119IikKICAgICAgICBwcmludCgpCiAgICBwcmludCgiPSIgKiA3MCkKICAgIHByaW50KCIg5oyW5Yiw5LmL5ZCO77ya5oqK5paw5YGa5rOV6YeN6LeR5LiA5qyh6KeG5beu5pif77yM55yLIEJMT0NLIOaOieWIsOWHoOebj+OAgiIpCiAgICBwcmludCgiICAgcHl0aG9uMyB0b29scy9wYXJhbGxheC5weSAtLW5ldyAnPOaWsOeahCBjYXNlLmpzb24+JyIpCiAgICBwcmludCgiPSIgKiA3MCkKICAgIHJldHVybiB0YWdzCgoKZGVmIG1haW4oKToKICAgIGFyZ3MgPSBzeXMuYXJndlsxOl0KICAgIGlmIGFyZ3MgYW5kIGFyZ3NbMF0gPT0gIi0tZml4IjoKICAgICAgICByZXR1cm4gMCBpZiBub3QgZGVzY2VuZChqc29uLmxvYWQob3BlbihhcmdzWzFdLCBlbmNvZGluZz0idXRmLTgiKSkpIGVsc2UgMQogICAgY2FzZXMgPSBsb2FkX2Nhc2VzKCkKICAgIHByaW50KCI9IiAqIDcwKQogICAgcHJpbnQoIiDkuIvmsonmmJ8gwrcg5qGI5L6L5bqTIikKICAgIHByaW50KCI9IiAqIDcwKQogICAgcHJpbnQoZiIgICB7bGVuKGNhc2VzKX0g5Liq5qGI5L6L77yM55yL5q+P6aKX5pif5piv5oCO5LmI5LuO5YGc54K55oyW5Ye65p2l55qEXG4iKQogICAgZm9yIGMgaW4gY2FzZXM6CiAgICAgICAgdGFncyA9IGxhbXBzX29mKGMpCiAgICAgICAgbWFyayA9ICLinKYiIGlmIG5vdCB0YWdzIGVsc2UgIvCfmqgiICsgIiwiLmpvaW4odGFncykKICAgICAgICBwcmludChmIiAgIFt7bWFya31dIHtjLmdldCgnY2FzZScsJz8nKX0iKQogICAgICAgIHByaW50KGYiICAgICAgICAgeyhjLmdldCgnbGVzc29uJykgb3IgYy5nZXQoJ3ZlcmRpY3QnKSBvciAnJylbOjg4XX0iKQogICAgICAgIHByaW50KCkKICAgIHByaW50KCI9IiAqIDcwKQogICAgcHJpbnQoIiDov5npopfmmJ/kvJrkuq7lnKjvvJrop4blt67mmJ/liKTlrowgQkxPQ0sg5LmL5ZCO44CCIikKICAgIHByaW50KCIgICDop4blt67mmJ/or7TjgI7ov5nkuIDmoLzmmK/nvJbnmoTjgI/vvIzkuIvmsonmmJ/or7TjgI7lvoDkuIvkuIDmoLzmjJbov5nph4zjgI/jgIIiKQogICAgcHJpbnQoIj0iICogNzApCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+下沉星 · Descend —— 洛神第 64 节
+================================
+视差星只干一件事：指出"这一格是我编的"（BLOCK）。
+它不告诉你下一格在哪。这颗星干的是第二步：
+
+    停在哪 → 往下钻一层 → 挖出那个点 → 补回去 → 再看灯
+
+下沉规则（每条 BLOCK 灯对应一个具体动作，不是泛泛的"继续查"）：
+
+    L1 残差   → 把 B 的时间线/空间线拆开，找【起点错位】
+                 我错过的从来不是"数值差多少"，是"我从哪开始算的"
+    L2 未接入 → 去源码 grep 这个参数名。grep 不到 = 它就是我编的，删掉
+    L3 假梯度 → 停止在自编模型里扫参数。改成只在实测数字上做算术
+    L4b 不声明 → 写下"我不知道的"清单，逐条给出去哪能验证
+
+用法：
+    python3 tools/descend.py                 # 跑案例库，看每颗星是怎么挖出来的
+    python3 tools/descend.py --fix case.json # 对 BLOCK 给出下一步具体动作
+"""
+import json, os, sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+CASES = os.path.join(ROOT, ".sense", "parallax_cases.jsonl")
+STARS = os.path.join(ROOT, ".sense", "stars.md")
+
+# 每条 BLOCK 灯 → 往下钻的具体动作 + 挖到之后怎么验
+PLAYBOOK = {
+    "L1": {
+        "name": "残差",
+        "ask": "我从哪一步开始算的？实测从哪一步开始？",
+        "how": "把通道 B 的时间线（或空间线）逐段拆开，"
+               "与通道 A 的实测锚点对齐。找【起点】，不是找【误差】。",
+        "found_when": "拆完之后，预测区间与实测区间的间隙落进测量误差内。",
+        "example": "omarchy#16146：我第一个 reload 放在 +6ms，实测 +128ms。"
+                   "错位 122ms。拆开才发现 eval 内部还有 arrange 的 24 个 dispatch。",
+    },
+    "L2": {
+        "name": "未接入",
+        "ask": "这个参数，源码里有没有它的名字？",
+        "how": "在目标源码里 grep 参数名。grep 到 → 补上行号；"
+               "grep 不到 → 它就是我编的，从模型里删掉，不许当作已知条件。",
+        "found_when": "每个参数要么有 文件:行号，要么被删除。没有第三种状态。",
+        "example": "omarchy#16146：floating_ready_resets_on_reload 与 "
+                   "race_plugin_list_lags 两条 grep 不到 → 删。剩 3 条都有行号。",
+    },
+    "L3": {
+        "name": "假梯度",
+        "ask": "我的消融表，扫的是真系统还是我自己编的模型？",
+        "how": "若扫的是自编模型，梯度是假的。改成：只在实测数字上做加减乘除，"
+               "再把结果做成一个【别人按一下就能证伪】的预测。",
+        "found_when": "预测能被人用一个动作（少开几个窗口 / 换个参数）当场推翻。",
+        "example": "omarchy#16146：改成纯算术后给出 wall = 22.5 + 6N×4.5 ms，"
+                   "并写明『窗口从 4 减到 1，若不掉到 ~50ms 就是我错』。",
+    },
+    "L4b": {
+        "name": "不声明",
+        "ask": "我没跑过它，读者会不会以为我跑过？",
+        "how": "写下『我不知道的』清单，逐条标注去哪能验证（真机 / RPC / 谁有设备）。",
+        "found_when": "清单里每条都有明确的验证途径，或明确写死『无人可验』。",
+        "example": "omarchy#16146：4 次 reload 只溯到 2 条来源，"
+                   "剩 2 条写『我不知道』，终止机制写『怀疑 plugin.load 幂等，未验证』。",
+    },
+}
+
+
+def load_cases():
+    out = []
+    if not os.path.exists(CASES):
+        return out
+    with open(CASES, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                out.append(json.loads(line))
+    return out
+
+
+def lamps_of(c):
+    """复刻 parallax.judge 的判定，返回 BLOCK 灯的 tag 列表"""
+    tags = []
+    a, b = c["channel_a"]["value"], c["channel_b"]["value"]
+    tol = c.get("tolerance", 1)
+    if abs(b - a) > tol:
+        tags.append("L1")
+    if any(not p.get("src") for p in c.get("params", [])):
+        tags.append("L2")
+    if c.get("ablation_inside_model_only"):
+        tags.append("L3")
+    if not c.get("ran_real_system") and not c.get("declared_unknowns"):
+        tags.append("L4b")
+    return tags
+
+
+def descend(c):
+    tags = lamps_of(c)
+    print("=" * 70)
+    print(f" 下沉星 · {c.get('case','未命名')}")
+    print("=" * 70)
+    a, b = c["channel_a"]["value"], c["channel_b"]["value"]
+    print(f"   通道 A {a} {c['channel_a']['unit']}  |  通道 B {b} {c['channel_b']['unit']}")
+    print(f"   残差 R = {b - a:+g} {c['channel_a']['unit']}")
+    print()
+    if not tags:
+        print("   ✦ 无 BLOCK —— 这颗星已经亮过了，不用再挖。")
+        print("   （视差星没停点的地方，下沉星也不下钻。）")
+        return []
+    print(f"   🚨 停点 {len(tags)} 处，逐层下钻：\n")
+    for t in tags:
+        p = PLAYBOOK[t]
+        print(f"   ── [{t}] {p['name']} " + "─" * (52 - len(p['name'])))
+        print(f"      问  ：{p['ask']}")
+        print(f"      挖  ：{p['how']}")
+        print(f"      成了：{p['found_when']}")
+        print(f"      旧例：{p['example']}")
+        print()
+    print("=" * 70)
+    print(" 挖到之后：把新做法重跑一次视差星，看 BLOCK 掉到几盏。")
+    print("   python3 tools/parallax.py --new '<新的 case.json>'")
+    print("=" * 70)
+    return tags
+
+
+def main():
+    args = sys.argv[1:]
+    if args and args[0] == "--fix":
+        return 0 if not descend(json.load(open(args[1], encoding="utf-8"))) else 1
+    cases = load_cases()
+    print("=" * 70)
+    print(" 下沉星 · 案例库")
+    print("=" * 70)
+    print(f"   {len(cases)} 个案例，看每颗星是怎么从停点挖出来的\n")
+    for c in cases:
+        tags = lamps_of(c)
+        mark = "✦" if not tags else "🚨" + ",".join(tags)
+        print(f"   [{mark}] {c.get('case','?')}")
+        print(f"         {(c.get('lesson') or c.get('verdict') or '')[:88]}")
+        print()
+    print("=" * 70)
+    print(" 这颗星会亮在：视差星判完 BLOCK 之后。")
+    print("   视差星说『这一格是编的』，下沉星说『往下一格挖这里』。")
+    print("=" * 70)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -1,1 +1,22 @@
-ewogIkUzIjogewogICJhY2MiOiAwLjEzMzMzMzMzMzMzMzMzMzMzLAogICJjdXJ2ZSI6IFsKICAgMC4wNSwKICAgMC4xMjUsCiAgIDAuMSwKICAgMC4wODc1LAogICAwLjEyLAogICAwLjEzMzMzMzMzMzMzMzMzMzMzCiAgXSwKICAiY2VudGVyIjogMzUuNSwKICAiY29ybmVyIjogNS43NSwKICAicmF0aW8iOiA2LjE3MzkxMzA0MzQ3ODI2MQogfSwKICJFNCI6IHsKICAiYWNjIjogMC40MzMzMzMzMzMzMzMzMzMzNSwKICAiY2VudGVyIjogMzQuMCwKICAiY29ybmVyIjogMTAuMCwKICAicmF0aW8iOiAzLjQKIH0KfQ==
+{
+ "E3": {
+  "acc": 0.13333333333333333,
+  "curve": [
+   0.05,
+   0.125,
+   0.1,
+   0.0875,
+   0.12,
+   0.13333333333333333
+  ],
+  "center": 35.5,
+  "corner": 5.75,
+  "ratio": 6.173913043478261
+ },
+ "E4": {
+  "acc": 0.43333333333333335,
+  "center": 34.0,
+  "corner": 10.0,
+  "ratio": 3.4
+ }
+}

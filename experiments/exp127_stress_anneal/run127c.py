@@ -1,1 +1,198 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjEyN2Mgwrcg5YmN5YWGKOeUqOa3t+WQiOahoykgKyDpgIDngasK44CQ5YmN5YWG5L+u5q2j44CRMTI3YiDpgInmoaPlpLHotKXvvJrkuInmoaPlhajmmK/jgIzlhajmrbvjgI3miJbjgIzlhajmtLvjgI3vvIzml6Dmt7flkIjmoLfmnKwg4oaSIEFVQyDmgZIgbmFu44CCCiAgICAgICAgICAg5pys6L2u5YWI5omr5Ye65a2Y5rS7546H4omINTAl55qE5qGj5YaN5YGaIEFVQ+OAggrjgJDpgIDngavjgJHpooTms6jlhowgSF9C77ya6YCA54Gr55qE5Lu35YC85piv44CQ56iz44CR5LiN5piv44CQ5aSn44CR44CCCiAgIOecn+ato+eahCLlm7rljJYi5qOA6aqM5LiN5piv55yLIGZnIOWkmuWkp++8jOiAjOaYr+eci+OAkOmZjea4qeWQjui/mOaUueS4jeaUueW+l+WKqOOAke+8mgogICDihpIg6YCA54GrL+aBkua4qeS5i+WQju+8jOi/m+WFpeOAkOWdj+S4lueVjOOAkee7p+e7reWtpuS5oCA1MDAg5ouN77yM55yLIGZnIOiiq+aUueWGmeWkmuWwkeOAggogICAgIOmAgOeBq+WlveeahO+8muWtpuS5oOeOh+W3suWGt++8jGZnIOS/neS9j++8m+aBkua4qemrmOa4qeeahO+8mue7p+e7reiiq+Wdj+e7j+mqjOaUueWGme+8jGZnIOWhjOmZt+OAggogICDpmLTmgKflr7nnhafvvJroi6XmhaIv5b+rL+a3rOeBq+S4ieaho+aXoOW3ruW8giDihpIg6K+05piOIumAgOeBq+mAn+eOhyLov5nkuKrlj5jph4/moLnmnKzmsqHotbfkvZznlKjjgIIKIiIiCmltcG9ydCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvY29yZScpCmZyb20gbGlmZTUgaW1wb3J0IExpZmU1CgpTRUVEUyA9IGxpc3QocmFuZ2UoMTYpKTsgVDEsIFQyID0gMTIwMCwgMTUwMApUQVUsIEJVUk4sIEZDSCwgRFJJUCA9IDUwLjAsIDEwMCwgNywgMC4wNQpFVEFfUiA9IDAuMDAwMTQKVF9ISSwgVF9MTyA9IDMuMCwgMC4xMAoKCmRlZiB0cmFpbihzZWVkLCBldGE9RVRBX1IsIG5vaXNlPTAuNCwgbm9ybWFsaXplZD1UcnVlLCB0ZW1wX2ZuPU5vbmUsIGJ1cm49QlVSTiwKICAgICAgICAgIFQ9VDEsIGJhZF93b3JsZD1GYWxzZSwgcm5nPU5vbmUpOgogICAgIiIiYmFkX3dvcmxkPVRydWXvvJrkuJbnlYzkuI3lm57lupTvvIjkuI3nm7jlgJrvvInvvIznlKjmnaXmo4Dpqozog73lipvmmK/lkKbooqvmlLnlhpkiIiIKICAgIGlmIHJuZyBpcyBOb25lOiBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCAqIDc5MTkgKyAxMykKICAgIGxmID0gTGlmZTUoTj04LCBzZWVkPXNlZWQsIGZnPTAuMCkKICAgIGZnID0gbWEgPSBtZiA9IHNhID0gc2YgPSAwLjAKICAgIGhpc3QgPSBbXQogICAgZm9yIHQgaW4gcmFuZ2UoVCk6CiAgICAgICAgaWYgbm90IGxmLmFsaXZlOiBicmVhawogICAgICAgIHRlbXAgPSAxLjAgaWYgdGVtcF9mbiBpcyBOb25lIGVsc2UgZmxvYXQodGVtcF9mbih0KSkKICAgICAgICBsZi5mZyA9IGZnOyBsZi5zdGVwKCkKICAgICAgICBhY3QgPSBsZi5sb2dbLTFdWydhdmVjJ11bRkNIXQogICAgICAgIGlmIGJhZF93b3JsZDoKICAgICAgICAgICAgZmIgPSAwLjMwICogKDAuNSArIHJuZy5yYW5kb20oKSkgICAgICAgICAgIyDnm7jnu6fkuI3nm7jlgJoKICAgICAgICBlbHNlOgogICAgICAgICAgICBmYiA9IGFjdCAqICgwLjggKyBub2lzZSAqIHRlbXAgKiBybmcucmFuZG9tKCkpCiAgICAgICAgbGYuRSA9IG1pbihsZi5FbWF4LCBsZi5FICsgRFJJUCkKICAgICAgICBtYSArPSAoYWN0IC0gbWEpIC8gVEFVOyBtZiArPSAoZmIgLSBtZikgLyBUQVUKICAgICAgICBzYSArPSAoYWN0ICogYWN0IC0gc2EpIC8gVEFVOyBzZiArPSAoZmIgKiBmYiAtIHNmKSAvIFRBVQogICAgICAgIGlmIHQgPj0gYnVybjoKICAgICAgICAgICAgY292ID0gKGFjdCAtIG1hKSAqIChmYiAtIG1mKQogICAgICAgICAgICBpZiBub3JtYWxpemVkOgogICAgICAgICAgICAgICAgdmEgPSBtYXgoc2EgLSBtYSAqIG1hLCAxZS0xMik7IHZmID0gbWF4KHNmIC0gbWYgKiBtZiwgMWUtMTIpCiAgICAgICAgICAgICAgICBjb3YgPSBjb3YgLyBucC5zcXJ0KHZhICogdmYpCiAgICAgICAgICAgIGZnID0gbWF4KDAuMCwgZmcgKyBldGEgKiB0ZW1wICogY292KQogICAgICAgIGhpc3QuYXBwZW5kKGZnKQogICAgcmV0dXJuIGxmLCBmbG9hdChmZyksIGhpc3QKCgpkZWYgd2VhbihsZiwgZmcsIFQyPVQyKToKICAgIGxmLmZnID0gZmc7IHQwID0gbGYudAogICAgd2hpbGUgbGYuYWxpdmUgYW5kIGxmLnQgLSB0MCA8IFQyOiBsZi5zdGVwKCkKICAgIHJldHVybiBib29sKGxmLmFsaXZlKSwgaW50KGxmLnQgLSB0MCkKCgpkZWYgYXVjKHgsIHkpOgogICAgeCA9IG5wLmFzYXJyYXkoeCwgZmxvYXQpOyB5ID0gbnAuYXNhcnJheSh5LCBmbG9hdCkKICAgIHBvcyA9IHhbeSA9PSAxXTsgbmVnID0geFt5ID09IDBdCiAgICBpZiBsZW4ocG9zKSA9PSAwIG9yIGxlbihuZWcpID09IDA6IHJldHVybiBmbG9hdCgnbmFuJykKICAgIHJldHVybiBmbG9hdCgobnAuc3VtKHBvc1s6LCBOb25lXSA+IG5lZ1tOb25lLCA6XSkgKyAwLjUgKiBucC5zdW0ocG9zWzosIE5vbmVdID09IG5lZ1tOb25lLCA6XSkpCiAgICAgICAgICAgICAgICAgLyAobGVuKHBvcykgKiBsZW4obmVnKSkpCgoKcHJpbnQoIj0iICogNzApOyBwcmludCgiMTI3YyDCtyDliY3lhYYo5re35ZCI5qGjKSArIOmAgOeBqyIpOyBwcmludCgiPSIgKiA3MCkKCiMgLS0tLS0tLS0tLSAxLiDlhYjmiavlh7rlrZjmtLvnjofiiYg1MCXnmoTmoaMgLS0tLS0tLS0tLQpkZWYgc3Vydl9hdChzdHJlc3MpOgogICAgbGZzID0gW10KICAgIGZvciBzZCBpbiBTRUVEUzoKICAgICAgICBsZiwgZiwgXyA9IHRyYWluKHNkKQogICAgICAgIGxmcy5hcHBlbmQoKGxmLCBmKSkKICAgIGFsID0gW10KICAgIGZvciBsZiwgZiBpbiBsZnM6CiAgICAgICAgbGYuZmcgPSBmOyB0MCA9IGxmLnQKICAgICAgICBiID0gc3RyZXNzLmdldCgnYmxlZWQnLCAwLjApOyBjID0gc3RyZXNzLmdldCgnY29zdF9tdWx0JywgMS4wKTsgYSA9IHN0cmVzcy5nZXQoJ2FnaW5nJywgMS4wKQogICAgICAgIHdoaWxlIGxmLmFsaXZlIGFuZCBsZi50IC0gdDAgPCBUMjoKICAgICAgICAgICAgbGYuc3RlcCgpCiAgICAgICAgICAgIGlmIGI6IGxmLkUgLT0gYgogICAgICAgICAgICBpZiBjICE9IDEuMDogbGYuRSAtPSAoYyAtIDEuMCkgKiAwLjAwNAogICAgICAgICAgICBpZiBhICE9IDEuMDogbGYuY2FwYWNpdHkgKj0gYQogICAgICAgIGFsLmFwcGVuZChmbG9hdChsZi5hbGl2ZSkpCiAgICByZXR1cm4gZmxvYXQobnAubWVhbihhbCkpCgpwcmludCgiXG49PT0gMS4g5om+IDUwJSDltKnmuoPmoaMgPT09IikKY2FuZCA9IHsnUzEgYmxlZWQnOiBbMC4wMywgMC4wNCwgMC4wNSwgMC4wNl0sCiAgICAgICAgJ1MyIGNvc3QnOiBbMTAsIDEzLCAxNSwgMTddLAogICAgICAgICdTMyBhZ2luZyc6IFswLjcsIDAuNSwgMC4zLCAwLjIsIDAuMV19CnBpY2tzID0ge30KZm9yIG5tLCB2cyBpbiBjYW5kLml0ZW1zKCk6CiAgICBrZXkgPSB7J1MxIGJsZWVkJzogJ2JsZWVkJywgJ1MyIGNvc3QnOiAnY29zdF9tdWx0JywgJ1MzIGFnaW5nJzogJ2FnaW5nJ31bbm1dCiAgICBycyA9IFsodiwgc3Vydl9hdCh7a2V5OiB2fSkpIGZvciB2IGluIHZzXQogICAgcHJpbnQoZiIgIHtubX06ICIgKyAiICAiLmpvaW4oZiJ7dn3ihpJ7YTouMmZ9IiBmb3IgdiwgYSBpbiBycykpCiAgICBiZXN0ID0gbWluKHJzLCBrZXk9bGFtYmRhIHI6IGFicyhyWzFdIC0gMC41KSkKICAgIHBpY2tzW25tXSA9IChrZXksIGJlc3RbMF0sIGJlc3RbMV0pCiAgICBwcmludChmIiAgICDpgIkge2tleX09e2Jlc3RbMF19ICjlrZjmtLsge2Jlc3RbMV06LjJmfSkiKQpqc29uLmR1bXAoe2s6IFt2WzBdLCB2WzFdLCB2WzJdXSBmb3IgaywgdiBpbiBwaWNrcy5pdGVtcygpfSwgb3BlbigncGlja3MuanNvbicsICd3JykpCgojIC0tLS0tLS0tLS0gMi4g5YmN5YWGIEFVQ++8iOa3t+WQiOaho++8iS0tLS0tLS0tLS0KcHJpbnQoIlxuPT09IDIuIOWJjeWFhu+8muaXqeacn+eql+WPo+mihOa1i+acgOe7iOW0qea6g++8iEFVQ++8iT09PSIpCnByZSA9IHt9CmZvciBubSwgKGtleSwgbHYsIHNyKSBpbiBwaWNrcy5pdGVtcygpOgogICAgcmVjcyA9IFtdCiAgICBmb3Igc2QgaW4gU0VFRFM6CiAgICAgICAgbGYsIGYsIF8gPSB0cmFpbihzZCkKICAgICAgICBsZi5mZyA9IGY7IHQwID0gbGYudAogICAgICAgIGIgPSBrZXkgPT0gJ2JsZWVkJyBhbmQgbHYgb3IgMC4wCiAgICAgICAgYyA9IGx2IGlmIGtleSA9PSAnY29zdF9tdWx0JyBlbHNlIDEuMAogICAgICAgIGEgPSBsdiBpZiBrZXkgPT0gJ2FnaW5nJyBlbHNlIDEuMAogICAgICAgIHRyID0gW10KICAgICAgICB3aGlsZSBsZi5hbGl2ZSBhbmQgbGYudCAtIHQwIDwgVDI6CiAgICAgICAgICAgIGxmLnN0ZXAoKQogICAgICAgICAgICBpZiBiOiBsZi5FIC09IGIKICAgICAgICAgICAgaWYgYyAhPSAxLjA6IGxmLkUgLT0gKGMgLSAxLjApICogMC4wMDQKICAgICAgICAgICAgaWYgYSAhPSAxLjA6IGxmLmNhcGFjaXR5ICo9IGEKICAgICAgICAgICAgdHIuYXBwZW5kKChmbG9hdChsZi5FKSwgZmxvYXQobGYuY2FwYWNpdHkubWVhbigpKSkpCiAgICAgICAgcmVjcy5hcHBlbmQoKGJvb2wobGYuYWxpdmUpLCB0cikpCiAgICBsYWIgPSBbXTsgRiA9IHsnReWdh+WAvCc6IFtdLCAnReaWueW3ric6IFtdLCAnReaWnOeOhyc6IFtdfQogICAgZm9yIGFsaXZlLCB0ciBpbiByZWNzOgogICAgICAgIHcgPSBucC5hcnJheSh0cls6MjAwXSwgZmxvYXQpCiAgICAgICAgaWYgbGVuKHcpIDwgNTA6IGNvbnRpbnVlCiAgICAgICAgbGFiLmFwcGVuZCgwLjAgaWYgYWxpdmUgZWxzZSAxLjApICAgICAjIDEgPSDmnIDnu4jmrbvkuqEKICAgICAgICBGWydF5Z2H5YC8J10uYXBwZW5kKHdbOiwgMF0ubWVhbigpKTsgRlsnReaWueW3riddLmFwcGVuZCh3WzosIDBdLnZhcigpKQogICAgICAgIEZbJ0XmlpznjocnXS5hcHBlbmQobnAucG9seWZpdChucC5hcmFuZ2UobGVuKHcpKSwgd1s6LCAwXSwgMSlbMF0pCiAgICBsYWIgPSBucC5hcnJheShsYWIpCiAgICBwcmludChmIiAge25tfSDmoaM9e2x2fSAg5q27eyhsYWI9PTEpLnN1bSgpOi4wZn0v5rS7eyhsYWI9PTApLnN1bSgpOi4wZn0iKQogICAgcHJlW25tXSA9IGRpY3QobGV2ZWw9bHYsIGRlYWQ9aW50KChsYWIgPT0gMSkuc3VtKCkpKQogICAgaWYgKGxhYiA9PSAxKS5zdW0oKSA9PSAwIG9yIChsYWIgPT0gMCkuc3VtKCkgPT0gMDoKICAgICAgICBwcmludCgiICAgICDimIXku43ml6Dmt7flkIjmoLfmnKzvvIxBVUMg5LiN5Y+v566XIikKICAgICAgICBjb250aW51ZQogICAgZm9yIGZuLCB2IGluIEYuaXRlbXMoKToKICAgICAgICBBID0gYXVjKG5wLmFycmF5KHYpLCBsYWIpCiAgICAgICAgZGV2ID0gYWJzKEEgLSAwLjUpCiAgICAgICAgZGlyZWMgPSAn6auY4oaS5q27JyBpZiBBID4gMC41IGVsc2UgJ+mrmOKGkua0uycKICAgICAgICBwcmludChmIiAgICAge2ZuOjw2fSBBVUM9e0E6LjNmfSAoe2RpcmVjfSkgICIKICAgICAgICAgICAgICBmInsn4piF5YmN5YWGJyBpZiBkZXYgPj0gMC4yNSBlbHNlICgn5byxJyBpZiBkZXYgPj0gMC4xIGVsc2UgJ+aXoCcpfSIpCiAgICAgICAgcHJlW25tXVtmbl0gPSBBCgojIC0tLS0tLS0tLS0gMy4g6YCA54GrIC0tLS0tLS0tLS0KcHJpbnQoIlxuPT09IDMuIOmAgOeBq++8mumZjea4qeWQjui/mOaUueS4jeaUueW+l+WKqCA9PT0iKQpkZWYgc2NoZWQoa2luZCk6CiAgICBpZiBraW5kID09ICdjb25zdGFudCc6ICByZXR1cm4gbGFtYmRhIHQ6IFRfSEkKICAgIGlmIGtpbmQgPT0gJ2Nvb2wnOiAgICAgIHJldHVybiBsYW1iZGEgdDogMS4wICAgICAgICAgICAgIyDluLjmuKnlr7nnhafvvIjml6Dpq5jmuKnvvIkKICAgIGlmIGtpbmQgPT0gJ3Nsb3cnOiAgICAgIHJldHVybiBsYW1iZGEgdDogVF9MTyArIChUX0hJIC0gVF9MTykgKiBucC5leHAoLXQgLyAoVDEgLyAzKSkKICAgIGlmIGtpbmQgPT0gJ2Zhc3QnOiAgICAgIHJldHVybiBsYW1iZGEgdDogVF9MTyArIChUX0hJIC0gVF9MTykgKiBtYXgoMC4wLCAxIC0gdCAvIChUMSAvIDEwKSkKICAgIGlmIGtpbmQgPT0gJ3F1ZW5jaCc6ICAgIHJldHVybiBsYW1iZGEgdDogVF9ISSBpZiB0IDwgVDEgKiAwLjcgZWxzZSBUX0xPCiAgICByYWlzZSBWYWx1ZUVycm9yKGtpbmQpCgpwcmludChmIiAgeyfmlrnmoYgnOjwxMH17J+e7g+WQjmZnJzo+OX17J+a8guenuyc6Pjl9eyflnY/kuJbnlYzlkI5mZyc6PjEyfXsn5L+d5L2P546HJzo+OX17J+WtmOa0uyc6Pjh9IikKcm93cyA9IHt9CmZvciBraW5kIGluIFsnY29vbCcsICdjb25zdGFudCcsICdzbG93JywgJ2Zhc3QnLCAncXVlbmNoJ106CiAgICBmbiA9IHNjaGVkKGtpbmQpCiAgICBmZ3MsIGRyaWZ0cywgYWZ0ZXIsIGFsaXZlcyA9IFtdLCBbXSwgW10sIFtdCiAgICBmb3Igc2QgaW4gU0VFRFM6CiAgICAgICAgbGYsIGYsIGhpc3QgPSB0cmFpbihzZCwgdGVtcF9mbj1mbikKICAgICAgICAjIOa8guenuyA9IOacgOWQjiAzMDAg5ouNIHzOlGZnfAogICAgICAgIGRyaWZ0ID0gZmxvYXQobnAubWVhbihucC5hYnMobnAuZGlmZihoaXN0Wy0zMDA6XSkpKSkgaWYgbGVuKGhpc3QpID4gMzAwIGVsc2UgZmxvYXQoJ25hbicpCiAgICAgICAgIyDlnY/kuJbnlYznu6fnu63lrabkuaAgNTAwIOaLje+8iOa4qeW6puW3suWGt++8jOS9huWtpuS5oOW+i+S7jeWcqOi3ke+8iQogICAgICAgIGZuMiA9IChsYW1iZGEgdDogZm4oVDEgKyB0KSkKICAgICAgICBsZjIsIGYyLCBfID0gdHJhaW4oc2QsIHRlbXBfZm49bGFtYmRhIHQ6IGZuKFQxICsgdCksIFQ9NTAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICBiYWRfd29ybGQ9VHJ1ZSwgcm5nPW5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZCAqIDEwNDcyOSArIDUpKQogICAgICAgICMg5rOo5oSP77ya5LiK6Z2i5piv5paw5Liq5L2T77yM5bqU5o6l57ut44CC5pS55Li65Zyo5ZCM5LiAIGxmIOS4iue7rei3ke+8mgogICAgICAgIGZncy5hcHBlbmQoZik7IGRyaWZ0cy5hcHBlbmQoZHJpZnQpCiAgICAgICAgIyDlkIzkuIAgbGYg57ut6LeR5Z2P5LiW55WMCiAgICAgICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNkICogMTA0NzI5ICsgNSkKICAgICAgICBtYSA9IG1mID0gc2EgPSBzZiA9IDAuMDsgZyA9IGYKICAgICAgICBmb3IgdCBpbiByYW5nZSg1MDApOgogICAgICAgICAgICBpZiBub3QgbGYuYWxpdmU6IGJyZWFrCiAgICAgICAgICAgIHRlbXAgPSBmbG9hdChmbihUMSArIHQpKQogICAgICAgICAgICBsZi5mZyA9IGc7IGxmLnN0ZXAoKQogICAgICAgICAgICBhY3QgPSBsZi5sb2dbLTFdWydhdmVjJ11bRkNIXQogICAgICAgICAgICBmYiA9IDAuMzAgKiAoMC41ICsgcm5nLnJhbmRvbSgpKQogICAgICAgICAgICBsZi5FID0gbWluKGxmLkVtYXgsIGxmLkUgKyBEUklQKQogICAgICAgICAgICBtYSArPSAoYWN0IC0gbWEpIC8gVEFVOyBtZiArPSAoZmIgLSBtZikgLyBUQVUKICAgICAgICAgICAgc2EgKz0gKGFjdCAqIGFjdCAtIHNhKSAvIFRBVTsgc2YgKz0gKGZiICogZmIgLSBzZikgLyBUQVUKICAgICAgICAgICAgY292ID0gKGFjdCAtIG1hKSAqIChmYiAtIG1mKQogICAgICAgICAgICB2YSA9IG1heChzYSAtIG1hICogbWEsIDFlLTEyKTsgdmYgPSBtYXgoc2YgLSBtZiAqIG1mLCAxZS0xMikKICAgICAgICAgICAgZyA9IG1heCgwLjAsIGcgKyBFVEFfUiAqIHRlbXAgKiBjb3YgLyBucC5zcXJ0KHZhICogdmYpKQogICAgICAgIGFmdGVyLmFwcGVuZChnKQogICAgICAgIGEsIHRrID0gd2VhbihsZiwgZykKICAgICAgICBhbGl2ZXMuYXBwZW5kKGZsb2F0KGEpKQogICAgcm93c1traW5kXSA9IGRpY3QoZmc9ZmxvYXQobnAubWVhbihmZ3MpKSwgZHJpZnQ9ZmxvYXQobnAubWVhbihkcmlmdHMpKSwKICAgICAgICAgICAgICAgICAgICAgIGFmdGVyPWZsb2F0KG5wLm1lYW4oYWZ0ZXIpKSwKICAgICAgICAgICAgICAgICAgICAgIGtlZXA9ZmxvYXQobnAubWVhbihhZnRlcikgLyBtYXgobnAubWVhbihmZ3MpLCAxZS0xMikpLAogICAgICAgICAgICAgICAgICAgICAgYWxpdmU9ZmxvYXQobnAubWVhbihhbGl2ZXMpKSkKICAgIHIgPSByb3dzW2tpbmRdCiAgICBwcmludChmIiAge2tpbmQ6PDEwfXtyWydmZyddOjkuNWZ9e3JbJ2RyaWZ0J106OS41Zn17clsnYWZ0ZXInXToxMi41Zn0iCiAgICAgICAgICBmIntyWydrZWVwJ106OS4yZn17aW50KG5wLnN1bShhbGl2ZXMpKTo1ZH0vMTYiKQoKcHJpbnQoIlxuICDpgIDngavpgJ/njoflr7nnhafvvIjpmLTmgKfmo4DpqozvvJroi6XkuInogIXml6Dlt67lvIIg4oaSIOmAgOeBq+WPmOmHj+ayoei1t+S9nOeUqO+8iSIpCmZvciBhLCBiIGluIFsoJ3Nsb3cnLCAnY29uc3RhbnQnKSwgKCdmYXN0JywgJ2NvbnN0YW50JyksICgncXVlbmNoJywgJ2NvbnN0YW50JyksCiAgICAgICAgICAgICAoJ3Nsb3cnLCAncXVlbmNoJyksICgnc2xvdycsICdmYXN0JyldOgogICAgZCA9IHJvd3NbYV1bJ2tlZXAnXSAtIHJvd3NbYl1bJ2tlZXAnXQogICAgcHJpbnQoZiIgICAge2E6PDl9IHZzIHtiOjw5fSDkv53kvY/njoflt64ge2Q6Ky4zZn0iKQpqc29uLmR1bXAoZGljdChwcmVjdXJzb3I9cHJlLCBhbm5lYWw9cm93cyksIG9wZW4oJ3Jlc3VsdDEyN0MuanNvbicsICd3JyksCiAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQpwcmludCgiXG5bc2F2ZWRdIHJlc3VsdDEyN0MuanNvbiIpCg==
+# -*- coding: utf-8 -*-
+"""
+127c · 前兆(用混合档) + 退火
+【前兆修正】127b 选档失败：三档全是「全死」或「全活」，无混合样本 → AUC 恒 nan。
+           本轮先扫出存活率≈50%的档再做 AUC。
+【退火】预注册 H_B：退火的价值是【稳】不是【大】。
+   真正的"固化"检验不是看 fg 多大，而是看【降温后还改不改得动】：
+   → 退火/恒温之后，进入【坏世界】继续学习 500 拍，看 fg 被改写多少。
+     退火好的：学习率已冷，fg 保住；恒温高温的：继续被坏经验改写，fg 塌陷。
+   阴性对照：若慢/快/淬火三档无差异 → 说明"退火速率"这个变量根本没起作用。
+"""
+import sys, json
+import numpy as np
+sys.path.insert(0, '/data/workspace/luoshen-o1/core')
+from life5 import Life5
+
+SEEDS = list(range(16)); T1, T2 = 1200, 1500
+TAU, BURN, FCH, DRIP = 50.0, 100, 7, 0.05
+ETA_R = 0.00014
+T_HI, T_LO = 3.0, 0.10
+
+
+def train(seed, eta=ETA_R, noise=0.4, normalized=True, temp_fn=None, burn=BURN,
+          T=T1, bad_world=False, rng=None):
+    """bad_world=True：世界不回应（不相倚），用来检验能力是否被改写"""
+    if rng is None: rng = np.random.default_rng(seed * 7919 + 13)
+    lf = Life5(N=8, seed=seed, fg=0.0)
+    fg = ma = mf = sa = sf = 0.0
+    hist = []
+    for t in range(T):
+        if not lf.alive: break
+        temp = 1.0 if temp_fn is None else float(temp_fn(t))
+        lf.fg = fg; lf.step()
+        act = lf.log[-1]['avec'][FCH]
+        if bad_world:
+            fb = 0.30 * (0.5 + rng.random())          # 相继不相倚
+        else:
+            fb = act * (0.8 + noise * temp * rng.random())
+        lf.E = min(lf.Emax, lf.E + DRIP)
+        ma += (act - ma) / TAU; mf += (fb - mf) / TAU
+        sa += (act * act - sa) / TAU; sf += (fb * fb - sf) / TAU
+        if t >= burn:
+            cov = (act - ma) * (fb - mf)
+            if normalized:
+                va = max(sa - ma * ma, 1e-12); vf = max(sf - mf * mf, 1e-12)
+                cov = cov / np.sqrt(va * vf)
+            fg = max(0.0, fg + eta * temp * cov)
+        hist.append(fg)
+    return lf, float(fg), hist
+
+
+def wean(lf, fg, T2=T2):
+    lf.fg = fg; t0 = lf.t
+    while lf.alive and lf.t - t0 < T2: lf.step()
+    return bool(lf.alive), int(lf.t - t0)
+
+
+def auc(x, y):
+    x = np.asarray(x, float); y = np.asarray(y, float)
+    pos = x[y == 1]; neg = x[y == 0]
+    if len(pos) == 0 or len(neg) == 0: return float('nan')
+    return float((np.sum(pos[:, None] > neg[None, :]) + 0.5 * np.sum(pos[:, None] == neg[None, :]))
+                 / (len(pos) * len(neg)))
+
+
+print("=" * 70); print("127c · 前兆(混合档) + 退火"); print("=" * 70)
+
+# ---------- 1. 先扫出存活率≈50%的档 ----------
+def surv_at(stress):
+    lfs = []
+    for sd in SEEDS:
+        lf, f, _ = train(sd)
+        lfs.append((lf, f))
+    al = []
+    for lf, f in lfs:
+        lf.fg = f; t0 = lf.t
+        b = stress.get('bleed', 0.0); c = stress.get('cost_mult', 1.0); a = stress.get('aging', 1.0)
+        while lf.alive and lf.t - t0 < T2:
+            lf.step()
+            if b: lf.E -= b
+            if c != 1.0: lf.E -= (c - 1.0) * 0.004
+            if a != 1.0: lf.capacity *= a
+        al.append(float(lf.alive))
+    return float(np.mean(al))
+
+print("\n=== 1. 找 50% 崩溃档 ===")
+cand = {'S1 bleed': [0.03, 0.04, 0.05, 0.06],
+        'S2 cost': [10, 13, 15, 17],
+        'S3 aging': [0.7, 0.5, 0.3, 0.2, 0.1]}
+picks = {}
+for nm, vs in cand.items():
+    key = {'S1 bleed': 'bleed', 'S2 cost': 'cost_mult', 'S3 aging': 'aging'}[nm]
+    rs = [(v, surv_at({key: v})) for v in vs]
+    print(f"  {nm}: " + "  ".join(f"{v}→{a:.2f}" for v, a in rs))
+    best = min(rs, key=lambda r: abs(r[1] - 0.5))
+    picks[nm] = (key, best[0], best[1])
+    print(f"    选 {key}={best[0]} (存活 {best[1]:.2f})")
+json.dump({k: [v[0], v[1], v[2]] for k, v in picks.items()}, open('picks.json', 'w'))
+
+# ---------- 2. 前兆 AUC（混合档）----------
+print("\n=== 2. 前兆：早期窗口预测最终崩溃（AUC）===")
+pre = {}
+for nm, (key, lv, sr) in picks.items():
+    recs = []
+    for sd in SEEDS:
+        lf, f, _ = train(sd)
+        lf.fg = f; t0 = lf.t
+        b = key == 'bleed' and lv or 0.0
+        c = lv if key == 'cost_mult' else 1.0
+        a = lv if key == 'aging' else 1.0
+        tr = []
+        while lf.alive and lf.t - t0 < T2:
+            lf.step()
+            if b: lf.E -= b
+            if c != 1.0: lf.E -= (c - 1.0) * 0.004
+            if a != 1.0: lf.capacity *= a
+            tr.append((float(lf.E), float(lf.capacity.mean())))
+        recs.append((bool(lf.alive), tr))
+    lab = []; F = {'E均值': [], 'E方差': [], 'E斜率': []}
+    for alive, tr in recs:
+        w = np.array(tr[:200], float)
+        if len(w) < 50: continue
+        lab.append(0.0 if alive else 1.0)     # 1 = 最终死亡
+        F['E均值'].append(w[:, 0].mean()); F['E方差'].append(w[:, 0].var())
+        F['E斜率'].append(np.polyfit(np.arange(len(w)), w[:, 0], 1)[0])
+    lab = np.array(lab)
+    print(f"  {nm} 档={lv}  死{(lab==1).sum():.0f}/活{(lab==0).sum():.0f}")
+    pre[nm] = dict(level=lv, dead=int((lab == 1).sum()))
+    if (lab == 1).sum() == 0 or (lab == 0).sum() == 0:
+        print("     ★仍无混合样本，AUC 不可算")
+        continue
+    for fn, v in F.items():
+        A = auc(np.array(v), lab)
+        dev = abs(A - 0.5)
+        direc = '高→死' if A > 0.5 else '高→活'
+        print(f"     {fn:<6} AUC={A:.3f} ({direc})  "
+              f"{'★前兆' if dev >= 0.25 else ('弱' if dev >= 0.1 else '无')}")
+        pre[nm][fn] = A
+
+# ---------- 3. 退火 ----------
+print("\n=== 3. 退火：降温后还改不改得动 ===")
+def sched(kind):
+    if kind == 'constant':  return lambda t: T_HI
+    if kind == 'cool':      return lambda t: 1.0            # 常温对照（无高温）
+    if kind == 'slow':      return lambda t: T_LO + (T_HI - T_LO) * np.exp(-t / (T1 / 3))
+    if kind == 'fast':      return lambda t: T_LO + (T_HI - T_LO) * max(0.0, 1 - t / (T1 / 10))
+    if kind == 'quench':    return lambda t: T_HI if t < T1 * 0.7 else T_LO
+    raise ValueError(kind)
+
+print(f"  {'方案':<10}{'练后fg':>9}{'漂移':>9}{'坏世界后fg':>12}{'保住率':>9}{'存活':>8}")
+rows = {}
+for kind in ['cool', 'constant', 'slow', 'fast', 'quench']:
+    fn = sched(kind)
+    fgs, drifts, after, alives = [], [], [], []
+    for sd in SEEDS:
+        lf, f, hist = train(sd, temp_fn=fn)
+        # 漂移 = 最后 300 拍 |Δfg|
+        drift = float(np.mean(np.abs(np.diff(hist[-300:])))) if len(hist) > 300 else float('nan')
+        # 坏世界继续学习 500 拍（温度已冷，但学习律仍在跑）
+        fn2 = (lambda t: fn(T1 + t))
+        lf2, f2, _ = train(sd, temp_fn=lambda t: fn(T1 + t), T=500,
+                           bad_world=True, rng=np.random.default_rng(sd * 104729 + 5))
+        # 注意：上面是新个体，应接续。改为在同一 lf 上续跑：
+        fgs.append(f); drifts.append(drift)
+        # 同一 lf 续跑坏世界
+        rng = np.random.default_rng(sd * 104729 + 5)
+        ma = mf = sa = sf = 0.0; g = f
+        for t in range(500):
+            if not lf.alive: break
+            temp = float(fn(T1 + t))
+            lf.fg = g; lf.step()
+            act = lf.log[-1]['avec'][FCH]
+            fb = 0.30 * (0.5 + rng.random())
+            lf.E = min(lf.Emax, lf.E + DRIP)
+            ma += (act - ma) / TAU; mf += (fb - mf) / TAU
+            sa += (act * act - sa) / TAU; sf += (fb * fb - sf) / TAU
+            cov = (act - ma) * (fb - mf)
+            va = max(sa - ma * ma, 1e-12); vf = max(sf - mf * mf, 1e-12)
+            g = max(0.0, g + ETA_R * temp * cov / np.sqrt(va * vf))
+        after.append(g)
+        a, tk = wean(lf, g)
+        alives.append(float(a))
+    rows[kind] = dict(fg=float(np.mean(fgs)), drift=float(np.mean(drifts)),
+                      after=float(np.mean(after)),
+                      keep=float(np.mean(after) / max(np.mean(fgs), 1e-12)),
+                      alive=float(np.mean(alives)))
+    r = rows[kind]
+    print(f"  {kind:<10}{r['fg']:9.5f}{r['drift']:9.5f}{r['after']:12.5f}"
+          f"{r['keep']:9.2f}{int(np.sum(alives)):5d}/16")
+
+print("\n  退火速率对照（阴性检验：若三者无差异 → 退火变量没起作用）")
+for a, b in [('slow', 'constant'), ('fast', 'constant'), ('quench', 'constant'),
+             ('slow', 'quench'), ('slow', 'fast')]:
+    d = rows[a]['keep'] - rows[b]['keep']
+    print(f"    {a:<9} vs {b:<9} 保住率差 {d:+.3f}")
+json.dump(dict(precursor=pre, anneal=rows), open('result127C.json', 'w'),
+          ensure_ascii=False, indent=1)
+print("\n[saved] result127C.json")

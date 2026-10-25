@@ -1,1 +1,18 @@
-aW1wb3J0IGpzb24sIHBhdGhsaWIKcmVzID0ganNvbi5sb2FkcyhwYXRobGliLlBhdGgoInNjYW4uanNvbiIpLnJlYWRfdGV4dCgpKQpkZWYgY3R4KGYsIGxpbmUsIHc9Myk6CiAgICBwID0gcGF0aGxpYi5QYXRoKCJjb3JwdXMiKS9mCiAgICBMID0gcC5yZWFkX3RleHQoZXJyb3JzPSJyZXBsYWNlIikuc3BsaXQoIlxuIikKICAgIGkgPSBtYXgoMCwgbGluZS0xLXcpOyBqID0gbWluKGxlbihMKSwgbGluZSt3KQogICAgcmV0dXJuICJcbiIuam9pbihmIntrKzE6NWR9fCB7TFtrXX0iIGZvciBrIGluIHJhbmdlKGksaikpCm49MApmb3IgZixkIGluIHJlcy5pdGVtcygpOgogICAgZm9yIHIgaW4gZFsiZmluZGluZ3MiXToKICAgICAgICBpZiByWyJzZXZlcml0eSJdIT0iYmxvY2tlciI6IGNvbnRpbnVlCiAgICAgICAgbis9MQogICAgICAgIHByaW50KGYiXG4jIyMgQntufSB7clsnZWdfaWQnXX0gY2Fub249e3JbJ2Nhbm9uJ119IHtkWydyZXBvJ119IDo6IHtkWydwYXRoJ119IikKICAgICAgICBwcmludChmIiAgICB7clsndGl0bGUnXX0iKQogICAgICAgIGZvciBoIGluIHJbImhpdHMiXVs6Ml06CiAgICAgICAgICAgIHByaW50KGN0eChmLCBoWyJsaW5lIl0pKQogICAgICAgICAgICBwcmludChmIiAgICAtLT4gTHtoWydsaW5lJ119OiB7aFsnaGl0J11bOjEyMF19IikKcHJpbnQoIlxuQkxPQ0tFUiBUT1RBTCIsIG4pCg==
+import json, pathlib
+res = json.loads(pathlib.Path("scan.json").read_text())
+def ctx(f, line, w=3):
+    p = pathlib.Path("corpus")/f
+    L = p.read_text(errors="replace").split("\n")
+    i = max(0, line-1-w); j = min(len(L), line+w)
+    return "\n".join(f"{k+1:5d}| {L[k]}" for k in range(i,j))
+n=0
+for f,d in res.items():
+    for r in d["findings"]:
+        if r["severity"]!="blocker": continue
+        n+=1
+        print(f"\n### B{n} {r['eg_id']} canon={r['canon']} {d['repo']} :: {d['path']}")
+        print(f"    {r['title']}")
+        for h in r["hits"][:2]:
+            print(ctx(f, h["line"]))
+            print(f"    --> L{h['line']}: {h['hit'][:120]}")
+print("\nBLOCKER TOTAL", n)

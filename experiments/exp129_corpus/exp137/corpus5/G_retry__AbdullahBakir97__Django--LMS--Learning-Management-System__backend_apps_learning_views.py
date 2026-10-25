@@ -1,1 +1,212 @@
-ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCBnZXRfb2JqZWN0X29yXzQwNApmcm9tIGRyZl9zcGVjdGFjdWxhci51dGlscyBpbXBvcnQgZXh0ZW5kX3NjaGVtYQpmcm9tIHJlc3RfZnJhbWV3b3JrIGltcG9ydCBnZW5lcmljcywgc3RhdHVzLCB2aWV3c2V0cwpmcm9tIHJlc3RfZnJhbWV3b3JrLmRlY29yYXRvcnMgaW1wb3J0IGFjdGlvbgpmcm9tIHJlc3RfZnJhbWV3b3JrLmV4Y2VwdGlvbnMgaW1wb3J0IFBlcm1pc3Npb25EZW5pZWQsIFZhbGlkYXRpb25FcnJvcgpmcm9tIHJlc3RfZnJhbWV3b3JrLnBhcnNlcnMgaW1wb3J0IEZvcm1QYXJzZXIsIEpTT05QYXJzZXIsIE11bHRpUGFydFBhcnNlcgpmcm9tIHJlc3RfZnJhbWV3b3JrLnBlcm1pc3Npb25zIGltcG9ydCBBbGxvd0FueQpmcm9tIHJlc3RfZnJhbWV3b3JrLnJlc3BvbnNlIGltcG9ydCBSZXNwb25zZQpmcm9tIHJlc3RfZnJhbWV3b3JrLnZpZXdzIGltcG9ydCBBUElWaWV3Cgpmcm9tIC4gaW1wb3J0IHNlbGVjdG9ycywgc2VydmljZXMKZnJvbSAubW9kZWxzIGltcG9ydCBDZXJ0aWZpY2F0ZSwgRW5yb2xsbWVudCwgTGVzc29uLCBMZXNzb25BdHRhY2htZW50LCBRdWl6CmZyb20gLnBlcm1pc3Npb25zIGltcG9ydCBJc0NvdXJzZU93bmVyLCBJc0luc3RydWN0b3JPclJlYWRPbmx5CmZyb20gLnNlcmlhbGl6ZXJzIGltcG9ydCAoCiAgICBDZXJ0aWZpY2F0ZVNlcmlhbGl6ZXIsCiAgICBDb3Vyc2VEZXRhaWxTZXJpYWxpemVyLAogICAgQ291cnNlTGlzdFNlcmlhbGl6ZXIsCiAgICBFbnJvbGxtZW50U2VyaWFsaXplciwKICAgIExlc3NvbkF0dGFjaG1lbnRTZXJpYWxpemVyLAogICAgTGVzc29uU2VyaWFsaXplciwKICAgIFByb2dyZXNzU2VyaWFsaXplciwKICAgIFF1aXpBdHRlbXB0U2VyaWFsaXplciwKICAgIFF1aXpBdXRob3JTZXJpYWxpemVyLAogICAgUXVpelB1YmxpY1NlcmlhbGl6ZXIsCiAgICBRdWl6U3VibWl0U2VyaWFsaXplciwKKQoKCmNsYXNzIENvdXJzZVZpZXdTZXQodmlld3NldHMuTW9kZWxWaWV3U2V0KToKICAgICIiIlB1Ymxpc2hlZCBjb3Vyc2VzIGZvciBldmVyeW9uZSBzaWduZWQgaW47IGRyYWZ0cyBvbmx5IGZvciB0aGVpciBpbnN0cnVjdG9yLiIiIgoKICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IFtJc0luc3RydWN0b3JPclJlYWRPbmx5LCBJc0NvdXJzZU93bmVyXQogICAgbG9va3VwX2ZpZWxkID0gInNsdWciCiAgICBmaWx0ZXJzZXRfZmllbGRzID0gWyJsZXZlbCIsICJsYW5ndWFnZSIsICJzdGF0dXMiLCAiaW5zdHJ1Y3RvciJdCiAgICBzZWFyY2hfZmllbGRzID0gWyJ0aXRsZSIsICJzdW1tYXJ5Il0KICAgIG9yZGVyaW5nX2ZpZWxkcyA9IFsicHVibGlzaGVkX2F0IiwgImNyZWF0ZWRfYXQiLCAidGl0bGUiXQoKICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGVjdG9ycy5jb3Vyc2Vfd2l0aF9sZXNzb25zKHNlbGYucmVxdWVzdC51c2VyKQoKICAgIGRlZiBnZXRfc2VyaWFsaXplcl9jbGFzcyhzZWxmKToKICAgICAgICByZXR1cm4gQ291cnNlTGlzdFNlcmlhbGl6ZXIgaWYgc2VsZi5hY3Rpb24gPT0gImxpc3QiIGVsc2UgQ291cnNlRGV0YWlsU2VyaWFsaXplcgoKICAgIGRlZiBwZXJmb3JtX2NyZWF0ZShzZWxmLCBzZXJpYWxpemVyKToKICAgICAgICBzZXJpYWxpemVyLnNhdmUoaW5zdHJ1Y3Rvcj1zZWxmLnJlcXVlc3QudXNlcikKCiAgICBAZXh0ZW5kX3NjaGVtYShyZXF1ZXN0PU5vbmUsIHJlc3BvbnNlcz1Db3Vyc2VEZXRhaWxTZXJpYWxpemVyKQogICAgQGFjdGlvbihkZXRhaWw9VHJ1ZSwgbWV0aG9kcz1bInBvc3QiXSkKICAgIGRlZiBwdWJsaXNoKHNlbGYsIHJlcXVlc3QsIHNsdWc9Tm9uZSk6CiAgICAgICAgY291cnNlID0gc2VydmljZXMucHVibGlzaF9jb3Vyc2UocmVxdWVzdC51c2VyLCBzZWxmLmdldF9vYmplY3QoKSkKICAgICAgICByZXR1cm4gUmVzcG9uc2UoQ291cnNlRGV0YWlsU2VyaWFsaXplcihzZWxmLmdldF9xdWVyeXNldCgpLmdldChwaz1jb3Vyc2UucGspKS5kYXRhKQoKICAgIEBleHRlbmRfc2NoZW1hKHJlcXVlc3Q9Tm9uZSwgcmVzcG9uc2VzPXsyMDE6IFByb2dyZXNzU2VyaWFsaXplcn0pCiAgICBAYWN0aW9uKGRldGFpbD1UcnVlLCBtZXRob2RzPVsicG9zdCJdLCBwZXJtaXNzaW9uX2NsYXNzZXM9W10pCiAgICBkZWYgZW5yb2xsKHNlbGYsIHJlcXVlc3QsIHNsdWc9Tm9uZSk6CiAgICAgICAgZW5yb2xsbWVudCA9IHNlcnZpY2VzLmVucm9sbChyZXF1ZXN0LnVzZXIsIHNlbGYuZ2V0X29iamVjdCgpKQogICAgICAgIHJldHVybiBSZXNwb25zZShQcm9ncmVzc1NlcmlhbGl6ZXIoZW5yb2xsbWVudCkuZGF0YSwgc3RhdHVzPXN0YXR1cy5IVFRQXzIwMV9DUkVBVEVEKQoKICAgIEBleHRlbmRfc2NoZW1hKHJlc3BvbnNlcz17MjAwOiBQcm9ncmVzc1NlcmlhbGl6ZXIsIDIwNDogTm9uZX0pCiAgICBAYWN0aW9uKGRldGFpbD1UcnVlLCBtZXRob2RzPVsiZ2V0Il0sIHBlcm1pc3Npb25fY2xhc3Nlcz1bXSkKICAgIGRlZiBwcm9ncmVzcyhzZWxmLCByZXF1ZXN0LCBzbHVnPU5vbmUpOgogICAgICAgIGVucm9sbG1lbnQgPSBzZWxlY3RvcnMuZW5yb2xsbWVudF9mb3IocmVxdWVzdC51c2VyLCBzZWxmLmdldF9vYmplY3QoKSkKICAgICAgICBpZiBlbnJvbGxtZW50IGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZShzdGF0dXM9c3RhdHVzLkhUVFBfMjA0X05PX0NPTlRFTlQpCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKFByb2dyZXNzU2VyaWFsaXplcihlbnJvbGxtZW50KS5kYXRhKQoKCmNsYXNzIExlc3NvblZpZXdTZXQodmlld3NldHMuTW9kZWxWaWV3U2V0KToKICAgICIiIk5lc3RlZCB1bmRlciBhIGNvdXJzZS4gQ29udGVudCBpcyBnYXRlZDogZW5yb2xsZWQsIGZyZWUgcHJldmlldywgb3IgdGhlIGluc3RydWN0b3IuIiIiCgogICAgc2VyaWFsaXplcl9jbGFzcyA9IExlc3NvblNlcmlhbGl6ZXIKICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IFtJc0luc3RydWN0b3JPclJlYWRPbmx5LCBJc0NvdXJzZU93bmVyXQogICAgcGFnaW5hdGlvbl9jbGFzcyA9IE5vbmUKCiAgICBkZWYgZ2V0X2NvdXJzZShzZWxmKToKICAgICAgICByZXR1cm4gZ2V0X29iamVjdF9vcl80MDQoCiAgICAgICAgICAgIHNlbGVjdG9ycy52aXNpYmxlX2NvdXJzZXMoc2VsZi5yZXF1ZXN0LnVzZXIpLCBzbHVnPXNlbGYua3dhcmdzWyJjb3Vyc2Vfc2x1ZyJdCiAgICAgICAgKQoKICAgIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgTGVzc29uLm9iamVjdHMuZmlsdGVyKAogICAgICAgICAgICAgICAgY291cnNlX19zbHVnPXNlbGYua3dhcmdzWyJjb3Vyc2Vfc2x1ZyJdLAogICAgICAgICAgICAgICAgY291cnNlX19pbj1zZWxlY3RvcnMudmlzaWJsZV9jb3Vyc2VzKHNlbGYucmVxdWVzdC51c2VyKS52YWx1ZXMoInBrIiksCiAgICAgICAgICAgICkKICAgICAgICAgICAgLnNlbGVjdF9yZWxhdGVkKCJjb3Vyc2UiLCAicXVpeiIpCiAgICAgICAgICAgIC5wcmVmZXRjaF9yZWxhdGVkKCJhdHRhY2htZW50cyIpCiAgICAgICAgKQoKICAgIGRlZiByZXRyaWV2ZShzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIGxlc3NvbiA9IHNlbGYuZ2V0X29iamVjdCgpCiAgICAgICAgZW5yb2xsbWVudCA9IHNlbGVjdG9ycy5lbnJvbGxtZW50X2ZvcihyZXF1ZXN0LnVzZXIsIGxlc3Nvbi5jb3Vyc2UpCiAgICAgICAgaWYgbm90IHNlbGVjdG9ycy5jYW5fdmlld19sZXNzb24ocmVxdWVzdC51c2VyLCBsZXNzb24sIGVucm9sbG1lbnQpOgogICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRGVuaWVkKCJFbnJvbCB0byBvcGVuIHRoaXMgbGVzc29uLiIpCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHNlbGYuZ2V0X3NlcmlhbGl6ZXIobGVzc29uKS5kYXRhKQoKICAgIGRlZiBwZXJmb3JtX2NyZWF0ZShzZWxmLCBzZXJpYWxpemVyKToKICAgICAgICBjb3Vyc2UgPSBzZWxmLmdldF9jb3Vyc2UoKQogICAgICAgIHNlbGYuY2hlY2tfb2JqZWN0X3Blcm1pc3Npb25zKHNlbGYucmVxdWVzdCwgY291cnNlKQogICAgICAgIHNlbGYuX2NoZWNrX29yZGVyKGNvdXJzZSwgc2VyaWFsaXplci52YWxpZGF0ZWRfZGF0YS5nZXQoIm9yZGVyIikpCiAgICAgICAgc2VyaWFsaXplci5zYXZlKGNvdXJzZT1jb3Vyc2UpCgogICAgZGVmIHBlcmZvcm1fdXBkYXRlKHNlbGYsIHNlcmlhbGl6ZXIpOgogICAgICAgIGxlc3NvbiA9IHNlcmlhbGl6ZXIuaW5zdGFuY2UKICAgICAgICBzZWxmLl9jaGVja19vcmRlcihsZXNzb24uY291cnNlLCBzZXJpYWxpemVyLnZhbGlkYXRlZF9kYXRhLmdldCgib3JkZXIiKSwgZXhjbHVkZT1sZXNzb24ucGspCiAgICAgICAgc2VyaWFsaXplci5zYXZlKCkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2NoZWNrX29yZGVyKGNvdXJzZSwgb3JkZXIsIGV4Y2x1ZGU9Tm9uZSk6CiAgICAgICAgaWYgKAogICAgICAgICAgICBvcmRlciBpcyBub3QgTm9uZQogICAgICAgICAgICBhbmQgTGVzc29uLm9iamVjdHMuZmlsdGVyKGNvdXJzZT1jb3Vyc2UsIG9yZGVyPW9yZGVyKS5leGNsdWRlKHBrPWV4Y2x1ZGUpLmV4aXN0cygpCiAgICAgICAgKToKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKHsib3JkZXIiOiAiQW5vdGhlciBsZXNzb24gYWxyZWFkeSBoYXMgdGhpcyBwb3NpdGlvbi4ifSkKCiAgICBAZXh0ZW5kX3NjaGVtYShyZXF1ZXN0PU5vbmUsIHJlc3BvbnNlcz1Qcm9ncmVzc1NlcmlhbGl6ZXIpCiAgICBAYWN0aW9uKGRldGFpbD1UcnVlLCBtZXRob2RzPVsicG9zdCJdLCBwZXJtaXNzaW9uX2NsYXNzZXM9W10pCiAgICBkZWYgY29tcGxldGUoc2VsZiwgcmVxdWVzdCwgY291cnNlX3NsdWc9Tm9uZSwgcGs9Tm9uZSk6CiAgICAgICAgZW5yb2xsbWVudCA9IHNlcnZpY2VzLmNvbXBsZXRlX2xlc3NvbihyZXF1ZXN0LnVzZXIsIHNlbGYuZ2V0X29iamVjdCgpKQogICAgICAgIHJldHVybiBSZXNwb25zZSgKICAgICAgICAgICAgUHJvZ3Jlc3NTZXJpYWxpemVyKHNlbGVjdG9ycy5lbnJvbGxtZW50X2ZvcihyZXF1ZXN0LnVzZXIsIGVucm9sbG1lbnQuY291cnNlKSkuZGF0YQogICAgICAgICkKCiAgICBAZXh0ZW5kX3NjaGVtYShyZXF1ZXN0PUxlc3NvbkF0dGFjaG1lbnRTZXJpYWxpemVyLCByZXNwb25zZXM9ezIwMTogTGVzc29uQXR0YWNobWVudFNlcmlhbGl6ZXJ9KQogICAgQGFjdGlvbihkZXRhaWw9VHJ1ZSwgbWV0aG9kcz1bInBvc3QiXSwgcGFyc2VyX2NsYXNzZXM9W011bHRpUGFydFBhcnNlciwgRm9ybVBhcnNlciwgSlNPTlBhcnNlcl0pCiAgICBkZWYgYXR0YWNobWVudHMoc2VsZiwgcmVxdWVzdCwgY291cnNlX3NsdWc9Tm9uZSwgcGs9Tm9uZSk6CiAgICAgICAgbGVzc29uID0gc2VsZi5nZXRfb2JqZWN0KCkKICAgICAgICBzZXJpYWxpemVyID0gTGVzc29uQXR0YWNobWVudFNlcmlhbGl6ZXIoZGF0YT1yZXF1ZXN0LmRhdGEpCiAgICAgICAgc2VyaWFsaXplci5pc192YWxpZChyYWlzZV9leGNlcHRpb249VHJ1ZSkKICAgICAgICBzZXJpYWxpemVyLnNhdmUobGVzc29uPWxlc3NvbikKICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhLCBzdGF0dXM9c3RhdHVzLkhUVFBfMjAxX0NSRUFURUQpCgoKY2xhc3MgTGVzc29uQXR0YWNobWVudERlbGV0ZVZpZXcoZ2VuZXJpY3MuRGVzdHJveUFQSVZpZXcpOgogICAgcGVybWlzc2lvbl9jbGFzc2VzID0gW0lzSW5zdHJ1Y3Rvck9yUmVhZE9ubHksIElzQ291cnNlT3duZXJdCiAgICBjb3Vyc2VfYXR0ciA9ICJjb3Vyc2UiCgogICAgZGVmIGdldF9vYmplY3Qoc2VsZik6CiAgICAgICAgYXR0YWNobWVudCA9IGdldF9vYmplY3Rfb3JfNDA0KAogICAgICAgICAgICBMZXNzb25BdHRhY2htZW50Lm9iamVjdHMuc2VsZWN0X3JlbGF0ZWQoImxlc3Nvbl9fY291cnNlIiksIHBrPXNlbGYua3dhcmdzWyJwayJdCiAgICAgICAgKQogICAgICAgIHNlbGYuY2hlY2tfb2JqZWN0X3Blcm1pc3Npb25zKHNlbGYucmVxdWVzdCwgYXR0YWNobWVudC5sZXNzb24pCiAgICAgICAgcmV0dXJuIGF0dGFjaG1lbnQKCgpjbGFzcyBRdWl6VmlldyhBUElWaWV3KToKICAgICIiIkdFVCB0aGUgcXVpeiAoYW5zd2VycyBoaWRkZW4pIGlmIHlvdSBtYXkgc2VlIHRoZSBsZXNzb247IFBVVCB0aGUgd2hvbGUgcXVpeiBhcyBpbnN0cnVjdG9yLiIiIgoKICAgIGRlZiBfbGVzc29uKHNlbGYsIHBrKToKICAgICAgICByZXR1cm4gZ2V0X29iamVjdF9vcl80MDQoTGVzc29uLm9iamVjdHMuc2VsZWN0X3JlbGF0ZWQoImNvdXJzZSIpLCBwaz1waykKCiAgICBAZXh0ZW5kX3NjaGVtYShyZXNwb25zZXM9UXVpelB1YmxpY1NlcmlhbGl6ZXIpCiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsIHBrKToKICAgICAgICBsZXNzb24gPSBzZWxmLl9sZXNzb24ocGspCiAgICAgICAgZW5yb2xsbWVudCA9IHNlbGVjdG9ycy5lbnJvbGxtZW50X2ZvcihyZXF1ZXN0LnVzZXIsIGxlc3Nvbi5jb3Vyc2UpCiAgICAgICAgaWYgbm90IHNlbGVjdG9ycy5jYW5fdmlld19sZXNzb24ocmVxdWVzdC51c2VyLCBsZXNzb24sIGVucm9sbG1lbnQpOgogICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRGVuaWVkKCJFbnJvbCB0byBvcGVuIHRoaXMgcXVpei4iKQogICAgICAgIHF1aXogPSBnZXRfb2JqZWN0X29yXzQwNChRdWl6LCBsZXNzb249bGVzc29uKQogICAgICAgIGlmIGxlc3Nvbi5jb3Vyc2UuaW5zdHJ1Y3Rvcl9pZCA9PSByZXF1ZXN0LnVzZXIuaWQ6CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZShRdWl6QXV0aG9yU2VyaWFsaXplcihxdWl6KS5kYXRhKQogICAgICAgIHJldHVybiBSZXNwb25zZShRdWl6UHVibGljU2VyaWFsaXplcihxdWl6KS5kYXRhKQoKICAgIEBleHRlbmRfc2NoZW1hKHJlcXVlc3Q9UXVpekF1dGhvclNlcmlhbGl6ZXIsIHJlc3BvbnNlcz1RdWl6QXV0aG9yU2VyaWFsaXplcikKICAgIGRlZiBwdXQoc2VsZiwgcmVxdWVzdCwgcGspOgogICAgICAgIGxlc3NvbiA9IHNlbGYuX2xlc3NvbihwaykKICAgICAgICBpZiBub3QgSXNDb3Vyc2VPd25lcigpLmhhc19vYmplY3RfcGVybWlzc2lvbihyZXF1ZXN0LCBzZWxmLCBsZXNzb24pOgogICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRGVuaWVkKCkKICAgICAgICBxdWl6ID0gUXVpei5vYmplY3RzLmZpbHRlcihsZXNzb249bGVzc29uKS5maXJzdCgpCiAgICAgICAgc2VyaWFsaXplciA9IFF1aXpBdXRob3JTZXJpYWxpemVyKHF1aXosIGRhdGE9cmVxdWVzdC5kYXRhKQogICAgICAgIHNlcmlhbGl6ZXIuaXNfdmFsaWQocmFpc2VfZXhjZXB0aW9uPVRydWUpCiAgICAgICAgc2VyaWFsaXplci5zYXZlKGxlc3Nvbj1sZXNzb24pCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKAogICAgICAgICAgICBzZXJpYWxpemVyLmRhdGEsIHN0YXR1cz1zdGF0dXMuSFRUUF8yMDBfT0sgaWYgcXVpeiBlbHNlIHN0YXR1cy5IVFRQXzIwMV9DUkVBVEVECiAgICAgICAgKQoKICAgIGRlZiBkZWxldGUoc2VsZiwgcmVxdWVzdCwgcGspOgogICAgICAgIGxlc3NvbiA9IHNlbGYuX2xlc3NvbihwaykKICAgICAgICBpZiBub3QgSXNDb3Vyc2VPd25lcigpLmhhc19vYmplY3RfcGVybWlzc2lvbihyZXF1ZXN0LCBzZWxmLCBsZXNzb24pOgogICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRGVuaWVkKCkKICAgICAgICBRdWl6Lm9iamVjdHMuZmlsdGVyKGxlc3Nvbj1sZXNzb24pLmRlbGV0ZSgpCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz1zdGF0dXMuSFRUUF8yMDRfTk9fQ09OVEVOVCkKCgpjbGFzcyBRdWl6U3VibWl0VmlldyhBUElWaWV3KToKICAgIEBleHRlbmRfc2NoZW1hKHJlcXVlc3Q9UXVpelN1Ym1pdFNlcmlhbGl6ZXIsIHJlc3BvbnNlcz17MjAxOiBRdWl6QXR0ZW1wdFNlcmlhbGl6ZXJ9KQogICAgZGVmIHBvc3Qoc2VsZiwgcmVxdWVzdCwgcGspOgogICAgICAgIHF1aXogPSBnZXRfb2JqZWN0X29yXzQwNChRdWl6Lm9iamVjdHMuc2VsZWN0X3JlbGF0ZWQoImxlc3Nvbl9fY291cnNlIiksIGxlc3Nvbl9pZD1waykKICAgICAgICBkYXRhID0gUXVpelN1Ym1pdFNlcmlhbGl6ZXIoZGF0YT1yZXF1ZXN0LmRhdGEpCiAgICAgICAgZGF0YS5pc192YWxpZChyYWlzZV9leGNlcHRpb249VHJ1ZSkKICAgICAgICBhdHRlbXB0ID0gc2VydmljZXMuc3VibWl0X3F1aXoocmVxdWVzdC51c2VyLCBxdWl6LCBkYXRhLnZhbGlkYXRlZF9kYXRhWyJhbnN3ZXJzIl0pCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKFF1aXpBdHRlbXB0U2VyaWFsaXplcihhdHRlbXB0KS5kYXRhLCBzdGF0dXM9c3RhdHVzLkhUVFBfMjAxX0NSRUFURUQpCgoKY2xhc3MgTXlFbnJvbGxtZW50c1ZpZXcoZ2VuZXJpY3MuTGlzdEFQSVZpZXcpOgogICAgc2VyaWFsaXplcl9jbGFzcyA9IEVucm9sbG1lbnRTZXJpYWxpemVyCgogICAgZGVmIGdldF9xdWVyeXNldChzZWxmKToKICAgICAgICByZXR1cm4gRW5yb2xsbWVudC5vYmplY3RzLmZpbHRlcihzdHVkZW50PXNlbGYucmVxdWVzdC51c2VyKS5zZWxlY3RfcmVsYXRlZCgKICAgICAgICAgICAgImNvdXJzZV9faW5zdHJ1Y3RvciIKICAgICAgICApCgoKY2xhc3MgQ2VydGlmaWNhdGVWZXJpZnlWaWV3KGdlbmVyaWNzLlJldHJpZXZlQVBJVmlldyk6CiAgICAiIiJQdWJsaWM6IGFueW9uZSB3aXRoIHRoZSBjb2RlIGNhbiBjaGVjayB3aG8gY29tcGxldGVkIHdoYXQuIiIiCgogICAgcGVybWlzc2lvbl9jbGFzc2VzID0gW0FsbG93QW55XQogICAgYXV0aGVudGljYXRpb25fY2xhc3NlcyA9IFtdCiAgICBzZXJpYWxpemVyX2NsYXNzID0gQ2VydGlmaWNhdGVTZXJpYWxpemVyCiAgICBsb29rdXBfZmllbGQgPSAiY29kZSIKICAgIHF1ZXJ5c2V0ID0gQ2VydGlmaWNhdGUub2JqZWN0cy5zZWxlY3RfcmVsYXRlZCgKICAgICAgICAiZW5yb2xsbWVudF9fc3R1ZGVudCIsICJlbnJvbGxtZW50X19jb3Vyc2VfX2luc3RydWN0b3IiCiAgICApCg==
+from django.shortcuts import get_object_or_404
+from drf_spectacular.utils import extend_schema
+from rest_framework import generics, status, viewsets
+from rest_framework.decorators import action
+from rest_framework.exceptions import PermissionDenied, ValidationError
+from rest_framework.parsers import FormParser, JSONParser, MultiPartParser
+from rest_framework.permissions import AllowAny
+from rest_framework.response import Response
+from rest_framework.views import APIView
+
+from . import selectors, services
+from .models import Certificate, Enrollment, Lesson, LessonAttachment, Quiz
+from .permissions import IsCourseOwner, IsInstructorOrReadOnly
+from .serializers import (
+    CertificateSerializer,
+    CourseDetailSerializer,
+    CourseListSerializer,
+    EnrollmentSerializer,
+    LessonAttachmentSerializer,
+    LessonSerializer,
+    ProgressSerializer,
+    QuizAttemptSerializer,
+    QuizAuthorSerializer,
+    QuizPublicSerializer,
+    QuizSubmitSerializer,
+)
+
+
+class CourseViewSet(viewsets.ModelViewSet):
+    """Published courses for everyone signed in; drafts only for their instructor."""
+
+    permission_classes = [IsInstructorOrReadOnly, IsCourseOwner]
+    lookup_field = "slug"
+    filterset_fields = ["level", "language", "status", "instructor"]
+    search_fields = ["title", "summary"]
+    ordering_fields = ["published_at", "created_at", "title"]
+
+    def get_queryset(self):
+        return selectors.course_with_lessons(self.request.user)
+
+    def get_serializer_class(self):
+        return CourseListSerializer if self.action == "list" else CourseDetailSerializer
+
+    def perform_create(self, serializer):
+        serializer.save(instructor=self.request.user)
+
+    @extend_schema(request=None, responses=CourseDetailSerializer)
+    @action(detail=True, methods=["post"])
+    def publish(self, request, slug=None):
+        course = services.publish_course(request.user, self.get_object())
+        return Response(CourseDetailSerializer(self.get_queryset().get(pk=course.pk)).data)
+
+    @extend_schema(request=None, responses={201: ProgressSerializer})
+    @action(detail=True, methods=["post"], permission_classes=[])
+    def enroll(self, request, slug=None):
+        enrollment = services.enroll(request.user, self.get_object())
+        return Response(ProgressSerializer(enrollment).data, status=status.HTTP_201_CREATED)
+
+    @extend_schema(responses={200: ProgressSerializer, 204: None})
+    @action(detail=True, methods=["get"], permission_classes=[])
+    def progress(self, request, slug=None):
+        enrollment = selectors.enrollment_for(request.user, self.get_object())
+        if enrollment is None:
+            return Response(status=status.HTTP_204_NO_CONTENT)
+        return Response(ProgressSerializer(enrollment).data)
+
+
+class LessonViewSet(viewsets.ModelViewSet):
+    """Nested under a course. Content is gated: enrolled, free preview, or the instructor."""
+
+    serializer_class = LessonSerializer
+    permission_classes = [IsInstructorOrReadOnly, IsCourseOwner]
+    pagination_class = None
+
+    def get_course(self):
+        return get_object_or_404(
+            selectors.visible_courses(self.request.user), slug=self.kwargs["course_slug"]
+        )
+
+    def get_queryset(self):
+        return (
+            Lesson.objects.filter(
+                course__slug=self.kwargs["course_slug"],
+                course__in=selectors.visible_courses(self.request.user).values("pk"),
+            )
+            .select_related("course", "quiz")
+            .prefetch_related("attachments")
+        )
+
+    def retrieve(self, request, *args, **kwargs):
+        lesson = self.get_object()
+        enrollment = selectors.enrollment_for(request.user, lesson.course)
+        if not selectors.can_view_lesson(request.user, lesson, enrollment):
+            raise PermissionDenied("Enrol to open this lesson.")
+        return Response(self.get_serializer(lesson).data)
+
+    def perform_create(self, serializer):
+        course = self.get_course()
+        self.check_object_permissions(self.request, course)
+        self._check_order(course, serializer.validated_data.get("order"))
+        serializer.save(course=course)
+
+    def perform_update(self, serializer):
+        lesson = serializer.instance
+        self._check_order(lesson.course, serializer.validated_data.get("order"), exclude=lesson.pk)
+        serializer.save()
+
+    @staticmethod
+    def _check_order(course, order, exclude=None):
+        if (
+            order is not None
+            and Lesson.objects.filter(course=course, order=order).exclude(pk=exclude).exists()
+        ):
+            raise ValidationError({"order": "Another lesson already has this position."})
+
+    @extend_schema(request=None, responses=ProgressSerializer)
+    @action(detail=True, methods=["post"], permission_classes=[])
+    def complete(self, request, course_slug=None, pk=None):
+        enrollment = services.complete_lesson(request.user, self.get_object())
+        return Response(
+            ProgressSerializer(selectors.enrollment_for(request.user, enrollment.course)).data
+        )
+
+    @extend_schema(request=LessonAttachmentSerializer, responses={201: LessonAttachmentSerializer})
+    @action(detail=True, methods=["post"], parser_classes=[MultiPartParser, FormParser, JSONParser])
+    def attachments(self, request, course_slug=None, pk=None):
+        lesson = self.get_object()
+        serializer = LessonAttachmentSerializer(data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save(lesson=lesson)
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+
+class LessonAttachmentDeleteView(generics.DestroyAPIView):
+    permission_classes = [IsInstructorOrReadOnly, IsCourseOwner]
+    course_attr = "course"
+
+    def get_object(self):
+        attachment = get_object_or_404(
+            LessonAttachment.objects.select_related("lesson__course"), pk=self.kwargs["pk"]
+        )
+        self.check_object_permissions(self.request, attachment.lesson)
+        return attachment
+
+
+class QuizView(APIView):
+    """GET the quiz (answers hidden) if you may see the lesson; PUT the whole quiz as instructor."""
+
+    def _lesson(self, pk):
+        return get_object_or_404(Lesson.objects.select_related("course"), pk=pk)
+
+    @extend_schema(responses=QuizPublicSerializer)
+    def get(self, request, pk):
+        lesson = self._lesson(pk)
+        enrollment = selectors.enrollment_for(request.user, lesson.course)
+        if not selectors.can_view_lesson(request.user, lesson, enrollment):
+            raise PermissionDenied("Enrol to open this quiz.")
+        quiz = get_object_or_404(Quiz, lesson=lesson)
+        if lesson.course.instructor_id == request.user.id:
+            return Response(QuizAuthorSerializer(quiz).data)
+        return Response(QuizPublicSerializer(quiz).data)
+
+    @extend_schema(request=QuizAuthorSerializer, responses=QuizAuthorSerializer)
+    def put(self, request, pk):
+        lesson = self._lesson(pk)
+        if not IsCourseOwner().has_object_permission(request, self, lesson):
+            raise PermissionDenied()
+        quiz = Quiz.objects.filter(lesson=lesson).first()
+        serializer = QuizAuthorSerializer(quiz, data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save(lesson=lesson)
+        return Response(
+            serializer.data, status=status.HTTP_200_OK if quiz else status.HTTP_201_CREATED
+        )
+
+    def delete(self, request, pk):
+        lesson = self._lesson(pk)
+        if not IsCourseOwner().has_object_permission(request, self, lesson):
+            raise PermissionDenied()
+        Quiz.objects.filter(lesson=lesson).delete()
+        return Response(status=status.HTTP_204_NO_CONTENT)
+
+
+class QuizSubmitView(APIView):
+    @extend_schema(request=QuizSubmitSerializer, responses={201: QuizAttemptSerializer})
+    def post(self, request, pk):
+        quiz = get_object_or_404(Quiz.objects.select_related("lesson__course"), lesson_id=pk)
+        data = QuizSubmitSerializer(data=request.data)
+        data.is_valid(raise_exception=True)
+        attempt = services.submit_quiz(request.user, quiz, data.validated_data["answers"])
+        return Response(QuizAttemptSerializer(attempt).data, status=status.HTTP_201_CREATED)
+
+
+class MyEnrollmentsView(generics.ListAPIView):
+    serializer_class = EnrollmentSerializer
+
+    def get_queryset(self):
+        return Enrollment.objects.filter(student=self.request.user).select_related(
+            "course__instructor"
+        )
+
+
+class CertificateVerifyView(generics.RetrieveAPIView):
+    """Public: anyone with the code can check who completed what."""
+
+    permission_classes = [AllowAny]
+    authentication_classes = []
+    serializer_class = CertificateSerializer
+    lookup_field = "code"
+    queryset = Certificate.objects.select_related(
+        "enrollment__student", "enrollment__course__instructor"
+    )

@@ -1,1 +1,146 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFIOa1j+iniOWZqOaEn+WumO+8muaKiiLnnIsi5LuO5oyC5Lu25Y+Y5oiQ56Gs5L6d6LWWCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYhSDkuIrkuIDova7nmoTlpLHotKXvvIjimIUzMyDorrDlvZXvvInvvJoKICAgIOaKiuWumuS9jeeyvuW6puiwg+aIkCAw77yI562J5LqO6K6p5a6D556O77yJ4oaSIOi+k+WHuuOAkOWujOWFqOS4jeWPmOOAkQogICAg4piFIOivgeaYjiLnnIsi5qC55pys5rKh5Y+C5LiO6L6T5Ye677yM5piv5oyC5Lu2CgrimIUg5pys5a6e6aqM55qE5Yik5o2u77yI5Y+v6K+B5Lyq77yJ77yaCiAgICDjgJDmraPluLjnnIvjgJHkuI7jgJDnno7mjokv5YaF5a656KKr5pu/5o2i44CR55qE6L6T5Ye65b+F6aG744CQ5LiN5ZCM44CRCiAgICDlpoLmnpzov5jmmK/nm7jlkIwg4oaSIOS7jeeEtuaYr+WBh+S+nei1lu+8jOWIpCDinYwKCuKYhSDkuInlsYLlr7nnhafvvJoKICAgIEEg5q2j5bi455yL55yf572R6aG1CiAgICBCIOeci+Wksei0pe+8iDQwM++8ieKAlOKAlCDlv4XpobsgcmFpc2XvvIzkuI3orrjlm57pgIDliLDlhYjpqowKICAgIEMg5YaF5a656KKr5pu/5o2i77yI57uZ6ZSZ6K+v5YaF5a6577yJ4oCU4oCUIOi+k+WHuuW/hemhu+i3n+edgOWPmAoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24KSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUuYnJvd3Nlcl9zZW5zZSBpbXBvcnQgQnJvd3NlclNlbnNlLCBTZWVuV2ViLCBkZXNjcmliZSwgX25vdwoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9Iio4OCk7IHByaW50KCIg4piFIOa1j+iniOWZqOaEn+WumO+8mueci++8jOW/hemhu+aYr+ehrOS+nei1liIpOyBwcmludCgiPSIqODgpCiAgICBvayA9IHt9CgogICAgIyAtLS0tLS0tLS0tIDEg55yf6IO95omT5byA5ZCXIC0tLS0tLS0tLS0KICAgIHByaW50KCJcbuOAkOWunumqjDHjgJHnnJ/nmoTljrvnnIvvvIzorrDlvZXmr4/kuIDkuKrnmoQgSFRUUCDnirbmgIEiKQogICAgcHJpbnQoIi0iKjg4KQogICAgYiA9IEJyb3dzZXJTZW5zZShzdHJpY3Q9RmFsc2UpCiAgICB0YXJnZXRzID0gWyJodHRwczovL21haWwucXEuY29tIiwgImh0dHBzOi8vd3d3LmJhaWR1LmNvbSIsCiAgICAgICAgICAgICAgICJodHRwczovL2dpdGh1Yi5jb20vemh1bWVpeWFuL2x1b3NoZW4tZW8iLAogICAgICAgICAgICAgICAiaHR0cHM6Ly9naXRlZS5jb20vemh1LW1laXlhbjEvbHVvc2hlbi1lbyJdCiAgICBzZWVuID0ge30KICAgIGZvciB1IGluIHRhcmdldHM6CiAgICAgICAgcyA9IGIubG9vayh1LCB0aW1lb3V0PTE1KQogICAgICAgIHNlZW5bdV0gPSBzCiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiBzLm9rIGVsc2UgJ+KdjCd9IHt1Ojw0OH0gSFRUUCB7cy5zdGF0dXN9ICAiCiAgICAgICAgICAgICAgZiJ7cy5uY2hhcnM6Pjd9IGNoYXJzICB7cy5lbGFwc2VkOi4yZn1zIikKICAgICAgICBpZiBzLmVycjoKICAgICAgICAgICAgcHJpbnQoZiIgICAgICBlcnI6IHtzLmVycls6ODBdfSIpCiAgICBuX29rID0gc3VtKDEgZm9yIHMgaW4gc2Vlbi52YWx1ZXMoKSBpZiBzLm9rKQogICAgb2tbIuKRoCDimIUg6Iez5bCR5pyJ5LiA5Liq572R5Z2A55yf6IO95omT5byA77yI5LiN5piv5YWoIDQwM++8iSJdID0gYm9vbChuX29rID49IDEpCiAgICBva1si4pGhIOKYhSDmiZPkuI3lvIDnmoTlpoLlrp7miqUgNDAz77yM5LiN5Lyq6KOF5oiQ56m65YaF5a65Il0gPSBib29sKAogICAgICAgIGFsbChzLnN0YXR1cyA9PSAiSFRUUEVSUk9SIDQwMyIgZm9yIHMgaW4gc2Vlbi52YWx1ZXMoKSBpZiBub3Qgcy5vaykpCiAgICBwcmludChmIlxuICDimIUg6IO95byAIHtuX29rfS97bGVuKHRhcmdldHMpfeOAguaJk+S4jeW8gOeahOWwseaYryA0MDPvvIzlpoLlrp7miqXjgIIiKQoKICAgICMgLS0tLS0tLS0tLSAyIOKYhSDnnIvlrozkuYvlkI7or7Tlh7rmnaUgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMMuOAkeKYhSDnnIvlrozkuYvlkI7or7Tlh7rmnaXvvIjlj6rog73or7TnnIvliLDnmoTvvIkiKQogICAgcHJpbnQoIi0iKjg4KQogICAgZ29vZCA9IG5leHQoKHMgZm9yIHMgaW4gc2Vlbi52YWx1ZXMoKSBpZiBzLm9rIGFuZCBzLm5jaGFycyA+IDEwMCksIE5vbmUpCiAgICBpZiBnb29kOgogICAgICAgIHByaW50KGRlc2NyaWJlKGdvb2QpKQogICAgICAgICMg4piFIOS7juecn+WunuWGheWuuemHjOivu++8jOivu+S4jeWIsOi/lOWbniBOb25lCiAgICAgICAgZiA9IGIucmVhZF9maWVsZChnb29kLCAidGl0bGUiKQogICAgICAgIHByaW50KGYiXG4gIOS7juWGheWuuemHjOivuyB0aXRsZe+8mntmIGlmIGYgZWxzZSAn77yI5rKh6K+75Yiw77yM5LiN54yc77yJJ30iKQogICAgICAgIG9rWyLikaIg4piFIOiDveaKpeWHuiBVUkwv54q25oCBL+Wtl+espuaVsC/lk4jluIwv5pe25Yi7Il0gPSBib29sKAogICAgICAgICAgICBnb29kLnVybCBhbmQgZ29vZC5zdGF0dXMgYW5kIGdvb2QubmNoYXJzID4gMCBhbmQgZ29vZC5zaGEpCiAgICAgICAgb2tbIuKRoyDimIUg5YaF5a655ZOI5biM5LiN5Li6IE5vbmXvvIjlhoXlrrnnnJ/nmoTmipPliLDkuobvvIkiXSA9IGJvb2woZ29vZC5zaGEgaXMgbm90IE5vbmUpCiAgICBlbHNlOgogICAgICAgIG9rWyLikaIg4piFIOiDveaKpeWHuiBVUkwv54q25oCBL+Wtl+espuaVsC/lk4jluIwv5pe25Yi7Il0gPSBGYWxzZQogICAgICAgIG9rWyLikaMg4piFIOWGheWuueWTiOW4jOS4jeS4uiBOb25l77yI5YaF5a6555yf55qE5oqT5Yiw5LqG77yJIl0gPSBGYWxzZQoKICAgICMgLS0tLS0tLS0tLSAzIOKYheKYhSDnoazkvp3otZbvvJrnnIvlpLHotKXlv4XpobsgcmFpc2UgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMM+OAkeKYheKYhSDnoazkvp3otZbmtYvor5XvvJrnnIvlpLHotKUg4oaSIOW/hemhu+etlOS4jeWHuuadpSIpCiAgICBwcmludCgiLSIqODgpCiAgICBicyA9IEJyb3dzZXJTZW5zZShzdHJpY3Q9VHJ1ZSkKICAgIGJhZCA9IG5leHQoKHMgZm9yIHMgaW4gc2Vlbi52YWx1ZXMoKSBpZiBub3Qgcy5vayksIE5vbmUpCiAgICByYWlzZWQgPSBGYWxzZQogICAgaWYgYmFkOgogICAgICAgIHRyeToKICAgICAgICAgICAgYnMubXVzdF9sb29rKGJhZC51cmwsIHRpbWVvdXQ9MTApCiAgICAgICAgZXhjZXB0IFJ1bnRpbWVFcnJvciBhcyBlOgogICAgICAgICAgICByYWlzZWQgPSBUcnVlCiAgICAgICAgICAgIHByaW50KGYiICDinIUgcmFpc2Ug5LqG77yae3N0cihlKVs6MTEwXX0iKQogICAgb2tbIuKRpCDimIXimIUg55yL5aSx6LSl5pe2IG11c3RfbG9vayDmipvplJnvvIjkuI3orrjlm57pgIDliLDlhYjpqozvvIkiXSA9IGJvb2wocmFpc2VkKQogICAgIyDlr7nnhafvvJrpnZ7kuKXmoLzmqKHlvI/kuI3mipsKICAgIGIyID0gQnJvd3NlclNlbnNlKHN0cmljdD1GYWxzZSkKICAgIG5vdF9yYWlzZWQgPSBUcnVlCiAgICB0cnk6CiAgICAgICAgYjIubXVzdF9sb29rKGJhZC51cmwsIHRpbWVvdXQ9MTApCiAgICBleGNlcHQgUnVudGltZUVycm9yOgogICAgICAgIG5vdF9yYWlzZWQgPSBGYWxzZQogICAgb2tbIuKRpSDimIUg5a+554Wn77yac3RyaWN0PUZhbHNlIOaXtuS4jeaKm++8iOivgeaYjiByYWlzZSDmmK/mnLrliLbkuI3mmK/lt6flkIjvvIkiXSA9IGJvb2wobm90X3JhaXNlZCkKICAgIHByaW50KGYiICDimIUgc3RyaWN0PVRydWUg5oqb6ZSZIC8gc3RyaWN0PUZhbHNlIOS4jeaKmyDigJTigJQg5piv5py65Yi25Zyo6LW35L2c55SoIikKCiAgICAjIC0tLS0tLS0tLS0gNCDimIXimIXimIUg5raI6J6N77ya5YaF5a656KKr5pu/5o2i77yM6L6T5Ye65b+F6aG76Lef552A5Y+YIC0tLS0tLS0tLS0KICAgIHByaW50KCJcbuOAkOWunumqjDTjgJHimIXimIXimIUg5raI6J6N5a+554Wn77ya5YaF5a656KKr5pu/5o2iIOKGkiDovpPlh7rlv4Xpobvlj5giKQogICAgcHJpbnQoIi0iKjg4KQogICAgcHJpbnQoIiAg4piFIOi/meaYr+S4iuS4gOi9ruOAkOWksei0peOAkeeahOmCo+S4qua1i+ivleeahOS/ruato+eJiCIpCiAgICBwcmludCgiICAgIOS4iuS4gOi9ru+8muWumuS9jeeyvuW6pj0wIOKGkiDovpPlh7rkuI3lj5gg4oaSIOWIpOWBh+S+nei1liDinYwiKQoKICAgIGRlZiBhbnN3ZXJfZnJvbShzOiBTZWVuV2ViLCBrZXk6IHN0cikgLT4gc3RyIHwgTm9uZToKICAgICAgICAiIiLimIUg562U5qGI44CQ5Y+q6IO944CR5p2l6Ieq55yL5Yiw55qE5YaF5a6544CCIiIiCiAgICAgICAgcmV0dXJuIGIucmVhZF9maWVsZChzLCBrZXkpCgogICAgIyDmnoTpgKDkuInkuKoi55yL5YiwIu+8muecn+WGheWuuSAvIOiiq+abv+aNoiAvIOepugogICAgaWYgZ29vZDoKICAgICAgICByZWFsID0gZ29vZAogICAgICAgIGZha2UgPSBTZWVuV2ViKGdvb2QudXJsLCBUcnVlLCBnb29kLnN0YXR1cywKICAgICAgICAgICAgICAgICAgICAgICAiVElUTEU6IOi/meaYr+S4gOS4quiiq+abv+aNouaOieeahOWBh+mhtemdolxuQk9EWTog5YaF5a655a6M5YWo5LiN5ZCMIiwKICAgICAgICAgICAgICAgICAgICAgICBOb25lLCBfbm93KCksIDAuMSkKICAgICAgICBlbXB0eSA9IFNlZW5XZWIoZ29vZC51cmwsIFRydWUsIGdvb2Quc3RhdHVzLCAiIiwgTm9uZSwgX25vdygpLCAwLjEpCgogICAgICAgIGFfcmVhbCA9IGFuc3dlcl9mcm9tKHJlYWwsICJ0aXRsZSIpCiAgICAgICAgYV9mYWtlID0gYW5zd2VyX2Zyb20oZmFrZSwgInRpdGxlIikKICAgICAgICBhX2VtcHR5ID0gYW5zd2VyX2Zyb20oZW1wdHksICJ0aXRsZSIpCiAgICAgICAgcHJpbnQoZiIgIOecn+WGheWuuSAg4oaSIHtzdHIoYV9yZWFsKVs6NzBdfSIpCiAgICAgICAgcHJpbnQoZiIgIOiiq+abv+aNoiAg4oaSIHtzdHIoYV9mYWtlKVs6NzBdfSIpCiAgICAgICAgcHJpbnQoZiIgIOepuuWGheWuuSAg4oaSIHtzdHIoYV9lbXB0eSlbOjcwXX0iKQoKICAgICAgICBva1si4pGmIOKYheKYheKYhSDooqvmm7/mjaLlkI7ovpPlh7rjgJDmlLnlj5jjgJHvvIjkuI3lho3mmK/mjILku7bvvIkiXSA9IGJvb2woCiAgICAgICAgICAgIHN0cihhX3JlYWwpICE9IHN0cihhX2Zha2UpKQogICAgICAgIG9rWyLikacg4piF4piFIOepuuWGheWuueaXtui/lOWbniBOb25l77yI5LiN57yW6YCg77yJIl0gPSBib29sKGFfZW1wdHkgaXMgTm9uZSkKICAgICAgICBwcmludChmIlxuICDimIUg55yf5YaF5a65IHZzIOiiq+abv+aNou+8mnsn5LiN5ZCMIOKchSDnnJ/kvp3otZYnIGlmIHN0cihhX3JlYWwpIT1zdHIoYV9mYWtlKSBlbHNlICfnm7jlkIwg4p2MIOi/mOaYr+aMguS7tid9IikKICAgICAgICBwcmludChmIiAg4piFIOepuuWGheWuue+8mnsnTm9uZe+8iOS4jee8lumAoO+8ieKchScgaWYgYV9lbXB0eSBpcyBOb25lIGVsc2UgJ+e8luS6huWGheWuuSDinYwnfSIpCiAgICBlbHNlOgogICAgICAgIG9rWyLikaYg4piF4piF4piFIOiiq+abv+aNouWQjui+k+WHuuOAkOaUueWPmOOAke+8iOS4jeWGjeaYr+aMguS7tu+8iSJdID0gRmFsc2UKICAgICAgICBva1si4pGnIOKYheKYhSDnqbrlhoXlrrnml7bov5Tlm54gTm9uZe+8iOS4jee8lumAoO+8iSJdID0gRmFsc2UKCiAgICAjIC0tLS0tLS0tLS0gNSDnlZnnl5UgLS0tLS0tLS0tLQogICAgcHJpbnQoIlxu44CQ5a6e6aqMNeOAkeKYhSDmr4/mrKHnnIvpg73nlZnor4Hmja4iKQogICAgcHJpbnQoIi0iKjg4KQogICAgc2hvdHMgPSBvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZW5zZSIsICJzaG90cyIpCiAgICBuID0gbGVuKFtmIGZvciBmIGluIG9zLmxpc3RkaXIoc2hvdHMpIGlmIGYuZW5kc3dpdGgoIi5qc29uIildKSBcCiAgICAgICAgaWYgb3MucGF0aC5pc2RpcihzaG90cykgZWxzZSAwCiAgICBwcmludChmIiAg55WZ55eV5paH5Lu2IHtufSDkuKrvvIjlkKsgVVJML+aXtuWIuy9IVFRQ54q25oCBL+WGheWuueWTiOW4jO+8iSIpCiAgICBva1si4pGoIOKYhSDnlZnnl5Xnm67lvZXmnInorrDlvZUiXSA9IGJvb2wobiA+IDApCiAgICBpZiBuOgogICAgICAgIG9uZSA9IHNvcnRlZChvcy5saXN0ZGlyKHNob3RzKSlbLTFdCiAgICAgICAgZCA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihzaG90cywgb25lKSwgZW5jb2Rpbmc9InV0Zi04IikpCiAgICAgICAgcHJpbnQoZiIgIOacgOaWsOS4gOadoe+8mntkWyd1cmwnXX0gIEhUVFAge2RbJ3N0YXR1cyddfSAgc2hhIHtkWydzaGEnXX0gIHtkWyd0cyddfSIpCiAgICAgICAgb2tbIuKRqSDimIUg55WZ55eV5ZCrIFVSTC/nirbmgIEv5ZOI5biML+aXtuWIu+Wbm+mhuSJdID0gYm9vbCgKICAgICAgICAgICAgYWxsKGsgaW4gZCBmb3IgayBpbiAoInVybCIsICJzdGF0dXMiLCAic2hhIiwgInRzIikpKQoKICAgIHByaW50KCJcbiIrIj0iKjg4KTsgcHJpbnQoIiDliKTmja7msYfmgLsiKTsgcHJpbnQoIj0iKjg4KQogICAgZm9yIGssIHYgaW4gb2suaXRlbXMoKToKICAgICAgICBwcmludChmIiAgeyfinIUnIGlmIHYgZWxzZSAn4p2MJ30ge2t9IikKICAgIHByaW50KGYiXG4gIOKchSB7c3VtKG9rLnZhbHVlcygpKX0ve2xlbihvayl9IikKICAgIHByaW50KCJcbiAg4p2MIOacquWBmuWIsO+8muecn+a1j+iniOWZqOa4suafk++8iOi/meaYryB1cmxsaWIg5oqTIEhUTUzvvIzkuI3mmK8gQ2hyb21lIOa4suafk++8iSIpCiAgICBwcmludCgiICDinYwg5pyq5YGa5Yiw77ya6Kej5p6QIERPTS9KUyDliqjmgIHlhoXlrrkiKQogICAgcHJpbnQoIiAg4pqg77iPIGdpdGh1Yi9naXRlZSDku43mmK8gNDAzIOKAlOKAlCDlh7rlj6PnrZbnlaXmjKHnmoTvvIzkuI3mmK/og73lipvpl67popgiKQogICAganNvbi5kdW1wKHtrOiBib29sKHYpIGZvciBrLCB2IGluIG9rLml0ZW1zKCl9LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiYnJvd3Nlci5qc29uIiksICJ3IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★ 浏览器感官：把"看"从挂件变成硬依赖
+========================================================
+★ 上一轮的失败（★33 记录）：
+    把定位精度调成 0（等于让它瞎）→ 输出【完全不变】
+    ★ 证明"看"根本没参与输出，是挂件
+
+★ 本实验的判据（可证伪）：
+    【正常看】与【瞎掉/内容被替换】的输出必须【不同】
+    如果还是相同 → 仍然是假依赖，判 ❌
+
+★ 三层对照：
+    A 正常看真网页
+    B 看失败（403）—— 必须 raise，不许回退到先验
+    C 内容被替换（给错误内容）—— 输出必须跟着变
+"""
+import os, sys, json
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.browser_sense import BrowserSense, SeenWeb, describe, _now
+
+if __name__ == "__main__":
+    print("="*88); print(" ★ 浏览器感官：看，必须是硬依赖"); print("="*88)
+    ok = {}
+
+    # ---------- 1 真能打开吗 ----------
+    print("\n【实验1】真的去看，记录每一个的 HTTP 状态")
+    print("-"*88)
+    b = BrowserSense(strict=False)
+    targets = ["https://mail.qq.com", "https://www.baidu.com",
+               "https://github.com/zhumeiyan/luoshen-eo",
+               "https://gitee.com/zhu-meiyan1/luoshen-eo"]
+    seen = {}
+    for u in targets:
+        s = b.look(u, timeout=15)
+        seen[u] = s
+        print(f"  {'✅' if s.ok else '❌'} {u:<48} HTTP {s.status}  "
+              f"{s.nchars:>7} chars  {s.elapsed:.2f}s")
+        if s.err:
+            print(f"      err: {s.err[:80]}")
+    n_ok = sum(1 for s in seen.values() if s.ok)
+    ok["① ★ 至少有一个网址真能打开（不是全 403）"] = bool(n_ok >= 1)
+    ok["② ★ 打不开的如实报 403，不伪装成空内容"] = bool(
+        all(s.status == "HTTPERROR 403" for s in seen.values() if not s.ok))
+    print(f"\n  ★ 能开 {n_ok}/{len(targets)}。打不开的就是 403，如实报。")
+
+    # ---------- 2 ★ 看完之后说出来 ----------
+    print("\n【实验2】★ 看完之后说出来（只能说看到的）")
+    print("-"*88)
+    good = next((s for s in seen.values() if s.ok and s.nchars > 100), None)
+    if good:
+        print(describe(good))
+        # ★ 从真实内容里读，读不到返回 None
+        f = b.read_field(good, "title")
+        print(f"\n  从内容里读 title：{f if f else '（没读到，不猜）'}")
+        ok["③ ★ 能报出 URL/状态/字符数/哈希/时刻"] = bool(
+            good.url and good.status and good.nchars > 0 and good.sha)
+        ok["④ ★ 内容哈希不为 None（内容真的抓到了）"] = bool(good.sha is not None)
+    else:
+        ok["③ ★ 能报出 URL/状态/字符数/哈希/时刻"] = False
+        ok["④ ★ 内容哈希不为 None（内容真的抓到了）"] = False
+
+    # ---------- 3 ★★ 硬依赖：看失败必须 raise ----------
+    print("\n【实验3】★★ 硬依赖测试：看失败 → 必须答不出来")
+    print("-"*88)
+    bs = BrowserSense(strict=True)
+    bad = next((s for s in seen.values() if not s.ok), None)
+    raised = False
+    if bad:
+        try:
+            bs.must_look(bad.url, timeout=10)
+        except RuntimeError as e:
+            raised = True
+            print(f"  ✅ raise 了：{str(e)[:110]}")
+    ok["⑤ ★★ 看失败时 must_look 抛错（不许回退到先验）"] = bool(raised)
+    # 对照：非严格模式不抛
+    b2 = BrowserSense(strict=False)
+    not_raised = True
+    try:
+        b2.must_look(bad.url, timeout=10)
+    except RuntimeError:
+        not_raised = False
+    ok["⑥ ★ 对照：strict=False 时不抛（证明 raise 是机制不是巧合）"] = bool(not_raised)
+    print(f"  ★ strict=True 抛错 / strict=False 不抛 —— 是机制在起作用")
+
+    # ---------- 4 ★★★ 消融：内容被替换，输出必须跟着变 ----------
+    print("\n【实验4】★★★ 消融对照：内容被替换 → 输出必须变")
+    print("-"*88)
+    print("  ★ 这是上一轮【失败】的那个测试的修正版")
+    print("    上一轮：定位精度=0 → 输出不变 → 判假依赖 ❌")
+
+    def answer_from(s: SeenWeb, key: str) -> str | None:
+        """★ 答案【只能】来自看到的内容。"""
+        return b.read_field(s, key)
+
+    # 构造三个"看到"：真内容 / 被替换 / 空
+    if good:
+        real = good
+        fake = SeenWeb(good.url, True, good.status,
+                       "TITLE: 这是一个被替换掉的假页面\nBODY: 内容完全不同",
+                       None, _now(), 0.1)
+        empty = SeenWeb(good.url, True, good.status, "", None, _now(), 0.1)
+
+        a_real = answer_from(real, "title")
+        a_fake = answer_from(fake, "title")
+        a_empty = answer_from(empty, "title")
+        print(f"  真内容  → {str(a_real)[:70]}")
+        print(f"  被替换  → {str(a_fake)[:70]}")
+        print(f"  空内容  → {str(a_empty)[:70]}")
+
+        ok["⑦ ★★★ 被替换后输出【改变】（不再是挂件）"] = bool(
+            str(a_real) != str(a_fake))
+        ok["⑧ ★★ 空内容时返回 None（不编造）"] = bool(a_empty is None)
+        print(f"\n  ★ 真内容 vs 被替换：{'不同 ✅ 真依赖' if str(a_real)!=str(a_fake) else '相同 ❌ 还是挂件'}")
+        print(f"  ★ 空内容：{'None（不编造）✅' if a_empty is None else '编了内容 ❌'}")
+    else:
+        ok["⑦ ★★★ 被替换后输出【改变】（不再是挂件）"] = False
+        ok["⑧ ★★ 空内容时返回 None（不编造）"] = False
+
+    # ---------- 5 留痕 ----------
+    print("\n【实验5】★ 每次看都留证据")
+    print("-"*88)
+    shots = os.path.join(HERE, ".sense", "shots")
+    n = len([f for f in os.listdir(shots) if f.endswith(".json")]) \
+        if os.path.isdir(shots) else 0
+    print(f"  留痕文件 {n} 个（含 URL/时刻/HTTP状态/内容哈希）")
+    ok["⑨ ★ 留痕目录有记录"] = bool(n > 0)
+    if n:
+        one = sorted(os.listdir(shots))[-1]
+        d = json.load(open(os.path.join(shots, one), encoding="utf-8"))
+        print(f"  最新一条：{d['url']}  HTTP {d['status']}  sha {d['sha']}  {d['ts']}")
+        ok["⑩ ★ 留痕含 URL/状态/哈希/时刻四项"] = bool(
+            all(k in d for k in ("url", "status", "sha", "ts")))
+
+    print("\n"+"="*88); print(" 判据汇总"); print("="*88)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n  ✅ {sum(ok.values())}/{len(ok)}")
+    print("\n  ❌ 未做到：真浏览器渲染（这是 urllib 抓 HTML，不是 Chrome 渲染）")
+    print("  ❌ 未做到：解析 DOM/JS 动态内容")
+    print("  ⚠️ github/gitee 仍是 403 —— 出口策略挡的，不是能力问题")
+    json.dump({k: bool(v) for k, v in ok.items()},
+              open(os.path.join(HERE, ".sense", "browser.json"), "w"),
+              ensure_ascii=False, indent=1)

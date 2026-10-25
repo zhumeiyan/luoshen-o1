@@ -1,1 +1,44 @@
-ewogIuWFqOWklueUnyI6IHsKICAiYmVzdCI6IDc0LjUwMSwKICAiY292IjogMC42ODcsCiAgInN0ZXBzIjogMjAsCiAgImNvbGxhcHNlIjogMAogfSwKICJMMeWGheeUnyI6IHsKICAiYmVzdCI6IDczLjM2MSwKICAiY292IjogMC42OCwKICAic3RlcHMiOiAyMCwKICAiY29sbGFwc2UiOiAwCiB9LAogIkwy5YaF55SfIjogewogICJiZXN0IjogNzQuNTAxLAogICJjb3YiOiAwLjY4NywKICAic3RlcHMiOiAyMCwKICAiY29sbGFwc2UiOiAwCiB9LAogIkwz5YaF55SfIjogewogICJiZXN0IjogMy45ODgsCiAgImNvdiI6IDAuNywKICAic3RlcHMiOiAyMCwKICAiY29sbGFwc2UiOiAxCiB9LAogIkw05YaF55SfIjogewogICJiZXN0IjogNzQuNTAxLAogICJjb3YiOiAwLjY4NywKICAic3RlcHMiOiAyMCwKICAiY29sbGFwc2UiOiAwCiB9LAogIkw15YaF55SfIjogewogICJiZXN0IjogMzguMTcxLAogICJjb3YiOiAwLjE2NywKICAic3RlcHMiOiA1LjYsCiAgImNvbGxhcHNlIjogMC40CiB9LAogIuWFqOWGheeUnyI6IHsKICAiYmVzdCI6IDMuNDIzLAogICJjb3YiOiAwLjMyLAogICJzdGVwcyI6IDQuMiwKICAiY29sbGFwc2UiOiAxCiB9Cn0=
+{
+ "全外生": {
+  "best": 74.501,
+  "cov": 0.687,
+  "steps": 20,
+  "collapse": 0
+ },
+ "L1内生": {
+  "best": 73.361,
+  "cov": 0.68,
+  "steps": 20,
+  "collapse": 0
+ },
+ "L2内生": {
+  "best": 74.501,
+  "cov": 0.687,
+  "steps": 20,
+  "collapse": 0
+ },
+ "L3内生": {
+  "best": 3.988,
+  "cov": 0.7,
+  "steps": 20,
+  "collapse": 1
+ },
+ "L4内生": {
+  "best": 74.501,
+  "cov": 0.687,
+  "steps": 20,
+  "collapse": 0
+ },
+ "L5内生": {
+  "best": 38.171,
+  "cov": 0.167,
+  "steps": 5.6,
+  "collapse": 0.4
+ },
+ "全内生": {
+  "best": 3.423,
+  "cov": 0.32,
+  "steps": 4.2,
+  "collapse": 1
+ }
+}

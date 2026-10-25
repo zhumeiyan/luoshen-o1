@@ -1,1 +1,231 @@
-ewogInRhYmxlIjogWwogIHsKICAgIm1vZGUiOiAibm9uZSIsCiAgICJwIjogMC4wLAogICAiYWxpdmUiOiAyNSwKICAgIm4iOiAzMiwKICAgIm9wZW5fcmF0ZSI6IDAuMCwKICAgInNrZXciOiAwLjI3NDM5MzU5ODIxMzc4Mzg0CiAgfSwKICB7CiAgICJtb2RlIjogInBhc3NpdmUiLAogICAicCI6IDEuMCwKICAgImFsaXZlIjogMjIsCiAgICJuIjogMzIsCiAgICJvcGVuX3JhdGUiOiAxLjAsCiAgICJza2V3IjogMC4yNzg2Njk2NTg4OTY5NjY1NAogIH0sCiAgewogICAibW9kZSI6ICJhY3RpdmUiLAogICAicCI6IDAuMjUsCiAgICJhbGl2ZSI6IDI2LAogICAibiI6IDMyLAogICAib3Blbl9yYXRlIjogMC4xOTEyLAogICAic2tldyI6IDAuMjgxMzgzMDM1MzgzNzEzNAogIH0sCiAgewogICAibW9kZSI6ICJhY3RpdmUiLAogICAicCI6IDAuNSwKICAgImFsaXZlIjogMjEsCiAgICJuIjogMzIsCiAgICJvcGVuX3JhdGUiOiAwLjM4MTcsCiAgICJza2V3IjogMC4yNzU1MDg4ODc3Mjc2OTQxNgogIH0sCiAgewogICAibW9kZSI6ICJhY3RpdmUiLAogICAicCI6IDAuNzUsCiAgICJhbGl2ZSI6IDIyLAogICAibiI6IDMyLAogICAib3Blbl9yYXRlIjogMC41NDE4LAogICAic2tldyI6IDAuMjc5MzIzNjc1MjMwMjc1NAogIH0sCiAgewogICAibW9kZSI6ICJhY3RpdmUiLAogICAicCI6IDEuMCwKICAgImFsaXZlIjogMjIsCiAgICJuIjogMzIsCiAgICJvcGVuX3JhdGUiOiAxLjAsCiAgICJza2V3IjogMC4yNzg2Njk2NTg4OTY5NjY1NAogIH0sCiAgewogICAibW9kZSI6ICJyYW5kb20iLAogICAicCI6IDAuMjUsCiAgICJhbGl2ZSI6IDI4LAogICAibiI6IDMyLAogICAib3Blbl9yYXRlIjogMC4yNDI5LAogICAic2tldyI6IDAuMjgzMjI5NzkwMTU1MTkyNQogIH0sCiAgewogICAibW9kZSI6ICJyYW5kb20iLAogICAicCI6IDAuNSwKICAgImFsaXZlIjogMjUsCiAgICJuIjogMzIsCiAgICJvcGVuX3JhdGUiOiAwLjQ5NjIsCiAgICJza2V3IjogMC4yNzgxOTM4MTkzODQ3OTE3NgogIH0sCiAgewogICAibW9kZSI6ICJyYW5kb20iLAogICAicCI6IDAuNzUsCiAgICJhbGl2ZSI6IDI1LAogICAibiI6IDMyLAogICAib3Blbl9yYXRlIjogMC43NDgxLAogICAic2tldyI6IDAuMjc5MzU3Njg5ODY1OTk0OAogIH0sCiAgewogICAibW9kZSI6ICJyYW5kb20iLAogICAicCI6IDEuMCwKICAgImFsaXZlIjogMjIsCiAgICJuIjogMzIsCiAgICJvcGVuX3JhdGUiOiAxLjAsCiAgICJza2V3IjogMC4yNzg2Njk2NTg4OTY5NjY1NAogIH0KIF0sCiAibWFuaXAiOiBbCiAgewogICAibW9kZSI6ICJhY3RpdmUiLAogICAicCI6IDAuMjUsCiAgICJyIjogMC4yNDYzNDQ1ODU3NzQzOTYsCiAgICJuIjogMzIKICB9LAogIHsKICAgIm1vZGUiOiAiYWN0aXZlIiwKICAgInAiOiAwLjUsCiAgICJyIjogMC4zOTYyOTY3MjI5MjUzMjI2NCwKICAgIm4iOiAzMgogIH0sCiAgewogICAibW9kZSI6ICJhY3RpdmUiLAogICAicCI6IDAuNzUsCiAgICJyIjogMC40MzQ0MDIzMTg1ODM5OTk2LAogICAibiI6IDMyCiAgfSwKICB7CiAgICJtb2RlIjogImFjdGl2ZSIsCiAgICJwIjogMS4wLAogICAiciI6IE5hTiwKICAgIm4iOiAwCiAgfSwKICB7CiAgICJtb2RlIjogInJhbmRvbSIsCiAgICJwIjogMC4yNSwKICAgInIiOiAtMC4wMDc1MzIzODc2MzEzNjE1MDMsCiAgICJuIjogMzIKICB9LAogIHsKICAgIm1vZGUiOiAicmFuZG9tIiwKICAgInAiOiAwLjUsCiAgICJyIjogLTAuMDAyNjgyMTg3MTgwNTIzMzc0LAogICAibiI6IDMyCiAgfSwKICB7CiAgICJtb2RlIjogInJhbmRvbSIsCiAgICJwIjogMC43NSwKICAgInIiOiAwLjAwNjMwNTkxNDU0NjA2MDk2NywKICAgIm4iOiAzMgogIH0sCiAgewogICAibW9kZSI6ICJyYW5kb20iLAogICAicCI6IDEuMCwKICAgInIiOiBOYU4sCiAgICJuIjogMAogIH0KIF0sCiAiZGl2ZXJzaXR5IjogWwogIHsKICAgIm1vZGUiOiAibm9uZSIsCiAgICJwIjogMC4wLAogICAiRF9hbGwiOiAwLjI0MDEzODYyNDk3NTMxMDQ3LAogICAiRF93b3JsZCI6IDAuMjM5OTA2MDQ4MDgwNzc0NzMsCiAgICJza2V3IjogMC4yNjA1MTU4MzE3MDgxMDE4CiAgfSwKICB7CiAgICJtb2RlIjogInBhc3NpdmUiLAogICAicCI6IDEuMCwKICAgIkRfYWxsIjogMC4yMjc3NzUxMzY0NjQ4NjIwMywKICAgIkRfd29ybGQiOiAwLjIwMjM1NTEwODM5MDc2OTUzLAogICAic2tldyI6IDAuMjc4NjIxMjI5MDk4NDc2NzUKICB9LAogIHsKICAgIm1vZGUiOiAiYWN0aXZlIiwKICAgInAiOiAwLjI1LAogICAiRF9hbGwiOiAwLjIyNzgwMzUyMjgzNjYxNjI2LAogICAiRF93b3JsZCI6IDAuMjE3NTYyOTExMTgzOTU3OCwKICAgInNrZXciOiAwLjI2OTMzMzIwNTEwMDQ4MDE0CiAgfSwKICB7CiAgICJtb2RlIjogImFjdGl2ZSIsCiAgICJwIjogMC41LAogICAiRF9hbGwiOiAwLjIyNjUxMzYwNzEzODgzNTEyLAogICAiRF93b3JsZCI6IDAuMjAxMjU3MjU1MjcyMzIzODUsCiAgICJza2V3IjogMC4yNzY2OTMzNDM1OTM1OTIzCiAgfSwKICB7CiAgICJtb2RlIjogImFjdGl2ZSIsCiAgICJwIjogMC43NSwKICAgIkRfYWxsIjogMC4yMjQ0NTM4MDg0NzQzMDc1MSwKICAgIkRfd29ybGQiOiAwLjE5OTE0ODk1Mzc5NDAwNjI0LAogICAic2tldyI6IDAuMjc4OTk3ODQwOTM1Nzc4MQogIH0sCiAgewogICAibW9kZSI6ICJhY3RpdmUiLAogICAicCI6IDEuMCwKICAgIkRfYWxsIjogMC4yMjc3NzUxMzY0NjQ4NjIwMywKICAgIkRfd29ybGQiOiAwLjIwMjM1NTEwODM5MDc2OTUzLAogICAic2tldyI6IDAuMjc4NjIxMjI5MDk4NDc2NzUKICB9LAogIHsKICAgIm1vZGUiOiAicmFuZG9tIiwKICAgInAiOiAwLjI1LAogICAiRF9hbGwiOiAwLjIzMTAwMjg2MzA5NDI2OTU0LAogICAiRF93b3JsZCI6IDAuMjE2OTc1ODEyMDYyMTMxMTUsCiAgICJza2V3IjogMC4yNjU3MDMyMTI5MTQwNDk4CiAgfSwKICB7CiAgICJtb2RlIjogInJhbmRvbSIsCiAgICJwIjogMC41LAogICAiRF9hbGwiOiAwLjIyNjM1NTkyMzQ3MDc1ODA2LAogICAiRF93b3JsZCI6IDAuMjIwMjQ3MzA4MjQxMDk3MTQsCiAgICJza2V3IjogMC4yNzE0MjkwMzk4NjMzMTQ3NAogIH0sCiAgewogICAibW9kZSI6ICJyYW5kb20iLAogICAicCI6IDAuNzUsCiAgICJEX2FsbCI6IDAuMjMzMjAxMDYxMjk3Mzc3NjcsCiAgICJEX3dvcmxkIjogMC4yMjcwOTMzMzkxMzg0NzIxLAogICAic2tldyI6IDAuMjczNzc4ODA1NDk0MTAzMQogIH0sCiAgewogICAibW9kZSI6ICJyYW5kb20iLAogICAicCI6IDEuMCwKICAgIkRfYWxsIjogMC4yMjc3NzUxMzY0NjQ4NjIwMywKICAgIkRfd29ybGQiOiAwLjIwMjM1NTEwODM5MDc2OTUzLAogICAic2tldyI6IDAuMjc4NjIxMjI5MDk4NDc2NzUKICB9CiBdLAogImNvbW1vbiI6IFsKICAwLAogIDEsCiAgMiwKICA4LAogIDksCiAgMTIsCiAgMTQsCiAgMTUsCiAgMTYsCiAgMTcsCiAgMjEsCiAgMjIsCiAgMjQsCiAgMjYsCiAgMjcsCiAgMjksCiAgMzAKIF0sCiAid29ybGRfdmVjIjogWwogIDAuNiwKICAwLjYxMTk5OTk5OTk5OTk5OTksCiAgMC44MzU3MTQyODU3MTQyODU2CiBdLAogIm5fdmlld3MiOiAxMAp9
+{
+ "table": [
+  {
+   "mode": "none",
+   "p": 0.0,
+   "alive": 25,
+   "n": 32,
+   "open_rate": 0.0,
+   "skew": 0.27439359821378384
+  },
+  {
+   "mode": "passive",
+   "p": 1.0,
+   "alive": 22,
+   "n": 32,
+   "open_rate": 1.0,
+   "skew": 0.27866965889696654
+  },
+  {
+   "mode": "active",
+   "p": 0.25,
+   "alive": 26,
+   "n": 32,
+   "open_rate": 0.1912,
+   "skew": 0.2813830353837134
+  },
+  {
+   "mode": "active",
+   "p": 0.5,
+   "alive": 21,
+   "n": 32,
+   "open_rate": 0.3817,
+   "skew": 0.27550888772769416
+  },
+  {
+   "mode": "active",
+   "p": 0.75,
+   "alive": 22,
+   "n": 32,
+   "open_rate": 0.5418,
+   "skew": 0.2793236752302754
+  },
+  {
+   "mode": "active",
+   "p": 1.0,
+   "alive": 22,
+   "n": 32,
+   "open_rate": 1.0,
+   "skew": 0.27866965889696654
+  },
+  {
+   "mode": "random",
+   "p": 0.25,
+   "alive": 28,
+   "n": 32,
+   "open_rate": 0.2429,
+   "skew": 0.2832297901551925
+  },
+  {
+   "mode": "random",
+   "p": 0.5,
+   "alive": 25,
+   "n": 32,
+   "open_rate": 0.4962,
+   "skew": 0.27819381938479176
+  },
+  {
+   "mode": "random",
+   "p": 0.75,
+   "alive": 25,
+   "n": 32,
+   "open_rate": 0.7481,
+   "skew": 0.2793576898659948
+  },
+  {
+   "mode": "random",
+   "p": 1.0,
+   "alive": 22,
+   "n": 32,
+   "open_rate": 1.0,
+   "skew": 0.27866965889696654
+  }
+ ],
+ "manip": [
+  {
+   "mode": "active",
+   "p": 0.25,
+   "r": 0.246344585774396,
+   "n": 32
+  },
+  {
+   "mode": "active",
+   "p": 0.5,
+   "r": 0.39629672292532264,
+   "n": 32
+  },
+  {
+   "mode": "active",
+   "p": 0.75,
+   "r": 0.4344023185839996,
+   "n": 32
+  },
+  {
+   "mode": "active",
+   "p": 1.0,
+   "r": NaN,
+   "n": 0
+  },
+  {
+   "mode": "random",
+   "p": 0.25,
+   "r": -0.007532387631361503,
+   "n": 32
+  },
+  {
+   "mode": "random",
+   "p": 0.5,
+   "r": -0.002682187180523374,
+   "n": 32
+  },
+  {
+   "mode": "random",
+   "p": 0.75,
+   "r": 0.006305914546060967,
+   "n": 32
+  },
+  {
+   "mode": "random",
+   "p": 1.0,
+   "r": NaN,
+   "n": 0
+  }
+ ],
+ "diversity": [
+  {
+   "mode": "none",
+   "p": 0.0,
+   "D_all": 0.24013862497531047,
+   "D_world": 0.23990604808077473,
+   "skew": 0.2605158317081018
+  },
+  {
+   "mode": "passive",
+   "p": 1.0,
+   "D_all": 0.22777513646486203,
+   "D_world": 0.20235510839076953,
+   "skew": 0.27862122909847675
+  },
+  {
+   "mode": "active",
+   "p": 0.25,
+   "D_all": 0.22780352283661626,
+   "D_world": 0.2175629111839578,
+   "skew": 0.26933320510048014
+  },
+  {
+   "mode": "active",
+   "p": 0.5,
+   "D_all": 0.22651360713883512,
+   "D_world": 0.20125725527232385,
+   "skew": 0.2766933435935923
+  },
+  {
+   "mode": "active",
+   "p": 0.75,
+   "D_all": 0.22445380847430751,
+   "D_world": 0.19914895379400624,
+   "skew": 0.2789978409357781
+  },
+  {
+   "mode": "active",
+   "p": 1.0,
+   "D_all": 0.22777513646486203,
+   "D_world": 0.20235510839076953,
+   "skew": 0.27862122909847675
+  },
+  {
+   "mode": "random",
+   "p": 0.25,
+   "D_all": 0.23100286309426954,
+   "D_world": 0.21697581206213115,
+   "skew": 0.2657032129140498
+  },
+  {
+   "mode": "random",
+   "p": 0.5,
+   "D_all": 0.22635592347075806,
+   "D_world": 0.22024730824109714,
+   "skew": 0.27142903986331474
+  },
+  {
+   "mode": "random",
+   "p": 0.75,
+   "D_all": 0.23320106129737767,
+   "D_world": 0.2270933391384721,
+   "skew": 0.2737788054941031
+  },
+  {
+   "mode": "random",
+   "p": 1.0,
+   "D_all": 0.22777513646486203,
+   "D_world": 0.20235510839076953,
+   "skew": 0.27862122909847675
+  }
+ ],
+ "common": [
+  0,
+  1,
+  2,
+  8,
+  9,
+  12,
+  14,
+  15,
+  16,
+  17,
+  21,
+  22,
+  24,
+  26,
+  27,
+  29,
+  30
+ ],
+ "world_vec": [
+  0.6,
+  0.6119999999999999,
+  0.8357142857142856
+ ],
+ "n_views": 10
+}

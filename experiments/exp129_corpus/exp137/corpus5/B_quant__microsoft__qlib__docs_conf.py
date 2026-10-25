@@ -1,1 +1,231 @@
-IyBDb3B5cmlnaHQgKGMpIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbi4KIyBMaWNlbnNlZCB1bmRlciB0aGUgTUlUIExpY2Vuc2UuCgoKIyBRTGliIGRvY3VtZW50YXRpb24gYnVpbGQgY29uZmlndXJhdGlvbiBmaWxlLCBjcmVhdGVkIGJ5CiMgc3BoaW54LXF1aWNrc3RhcnQgb24gV2VkIFNlcCAyNyAxNToxNjowNSAyMDE3LgojCiMgVGhpcyBmaWxlIGlzIGV4ZWNmaWxlKClkIHdpdGggdGhlIGN1cnJlbnQgZGlyZWN0b3J5IHNldCB0byBpdHMKIyBjb250YWluaW5nIGRpci4KIwojIE5vdGUgdGhhdCBub3QgYWxsIHBvc3NpYmxlIGNvbmZpZ3VyYXRpb24gdmFsdWVzIGFyZSBwcmVzZW50IGluIHRoaXMKIyBhdXRvZ2VuZXJhdGVkIGZpbGUuCiMKIyBBbGwgY29uZmlndXJhdGlvbiB2YWx1ZXMgaGF2ZSBhIGRlZmF1bHQ7IHZhbHVlcyB0aGF0IGFyZSBjb21tZW50ZWQgb3V0CiMgc2VydmUgdG8gc2hvdyB0aGUgZGVmYXVsdC4KCiMgSWYgZXh0ZW5zaW9ucyAob3IgbW9kdWxlcyB0byBkb2N1bWVudCB3aXRoIGF1dG9kb2MpIGFyZSBpbiBhbm90aGVyIGRpcmVjdG9yeSwKIyBhZGQgdGhlc2UgZGlyZWN0b3JpZXMgdG8gc3lzLnBhdGggaGVyZS4gSWYgdGhlIGRpcmVjdG9yeSBpcyByZWxhdGl2ZSB0byB0aGUKIyBkb2N1bWVudGF0aW9uIHJvb3QsIHVzZSBvcy5wYXRoLmFic3BhdGggdG8gbWFrZSBpdCBhYnNvbHV0ZSwgbGlrZSBzaG93biBoZXJlLgojCmltcG9ydCBvcwppbXBvcnQgc3lzCgpmcm9tIGltcG9ydGxpYi5tZXRhZGF0YSBpbXBvcnQgdmVyc2lvbiBhcyB2ZXIKCiMgLS0gR2VuZXJhbCBjb25maWd1cmF0aW9uIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKIyBJZiB5b3VyIGRvY3VtZW50YXRpb24gbmVlZHMgYSBtaW5pbWFsIFNwaGlueCB2ZXJzaW9uLCBzdGF0ZSBpdCBoZXJlLgojCiMgbmVlZHNfc3BoaW54ID0gJzEuMCcKCiMgQWRkIGFueSBTcGhpbnggZXh0ZW5zaW9uIG1vZHVsZSBuYW1lcyBoZXJlLCBhcyBzdHJpbmdzLiBUaGV5IGNhbiBiZQojIGV4dGVuc2lvbnMgY29taW5nIHdpdGggU3BoaW54IChuYW1lZCAnc3BoaW54LmV4dC4qJykgb3IgeW91ciBjdXN0b20KIyBvbmVzLgpleHRlbnNpb25zID0gWwogICAgInNwaGlueC5leHQuYXV0b2RvYyIsCiAgICAic3BoaW54LmV4dC50b2RvIiwKICAgICJzcGhpbnguZXh0Lm1hdGhqYXgiLAogICAgInNwaGlueC5leHQubmFwb2xlb24iLApdCgojIEFkZCBhbnkgcGF0aHMgdGhhdCBjb250YWluIHRlbXBsYXRlcyBoZXJlLCByZWxhdGl2ZSB0byB0aGlzIGRpcmVjdG9yeS4KdGVtcGxhdGVzX3BhdGggPSBbIl90ZW1wbGF0ZXMiXQoKIyBUaGUgc3VmZml4KGVzKSBvZiBzb3VyY2UgZmlsZW5hbWVzLgojIFlvdSBjYW4gc3BlY2lmeSBtdWx0aXBsZSBzdWZmaXggYXMgYSBsaXN0IG9mIHN0cmluZzoKIwojIHNvdXJjZV9zdWZmaXggPSBbJy5yc3QnLCAnLm1kJ10Kc291cmNlX3N1ZmZpeCA9ICIucnN0IgoKIyBUaGUgbWFzdGVyIHRvY3RyZWUgZG9jdW1lbnQuCm1hc3Rlcl9kb2MgPSAiaW5kZXgiCgoKIyBHZW5lcmFsIGluZm9ybWF0aW9uIGFib3V0IHRoZSBwcm9qZWN0Lgpwcm9qZWN0ID0gIlFMaWIiCmNvcHlyaWdodCA9ICJNaWNyb3NvZnQiCmF1dGhvciA9ICJNaWNyb3NvZnQiCgojIFRoZSB2ZXJzaW9uIGluZm8gZm9yIHRoZSBwcm9qZWN0IHlvdSdyZSBkb2N1bWVudGluZywgYWN0cyBhcyByZXBsYWNlbWVudCBmb3IKIyB8dmVyc2lvbnwgYW5kIHxyZWxlYXNlfCwgYWxzbyB1c2VkIGluIHZhcmlvdXMgb3RoZXIgcGxhY2VzIHRocm91Z2hvdXQgdGhlCiMgYnVpbHQgZG9jdW1lbnRzLgojCiMgVGhlIHNob3J0IFguWSB2ZXJzaW9uLgp2ZXJzaW9uID0gdmVyKCJweXFsaWIiKQojIFRoZSBmdWxsIHZlcnNpb24sIGluY2x1ZGluZyBhbHBoYS9iZXRhL3JjIHRhZ3MuCnJlbGVhc2UgPSB2ZXJzaW9uCgojIFRoZSBsYW5ndWFnZSBmb3IgY29udGVudCBhdXRvZ2VuZXJhdGVkIGJ5IFNwaGlueC4gUmVmZXIgdG8gZG9jdW1lbnRhdGlvbgojIGZvciBhIGxpc3Qgb2Ygc3VwcG9ydGVkIGxhbmd1YWdlcy4KIwojIFRoaXMgaXMgYWxzbyB1c2VkIGlmIHlvdSBkbyBjb250ZW50IHRyYW5zbGF0aW9uIHZpYSBnZXR0ZXh0IGNhdGFsb2dzLgojIFVzdWFsbHkgeW91IHNldCAibGFuZ3VhZ2UiIGZyb20gdGhlIGNvbW1hbmQgbGluZSBmb3IgdGhlc2UgY2FzZXMuCmxhbmd1YWdlID0gImVuX1VTIgoKIyBMaXN0IG9mIHBhdHRlcm5zLCByZWxhdGl2ZSB0byBzb3VyY2UgZGlyZWN0b3J5LCB0aGF0IG1hdGNoIGZpbGVzIGFuZAojIGRpcmVjdG9yaWVzIHRvIGlnbm9yZSB3aGVuIGxvb2tpbmcgZm9yIHNvdXJjZSBmaWxlcy4KIyBUaGlzIHBhdHRlcm5zIGFsc28gZWZmZWN0IHRvIGh0bWxfc3RhdGljX3BhdGggYW5kIGh0bWxfZXh0cmFfcGF0aApleGNsdWRlX3BhdHRlcm5zID0gWyJfYnVpbGQiLCAiVGh1bWJzLmRiIiwgIi5EU19TdG9yZSIsICJoaWRkZW4iXQoKIyBUaGUgbmFtZSBvZiB0aGUgUHlnbWVudHMgKHN5bnRheCBoaWdobGlnaHRpbmcpIHN0eWxlIHRvIHVzZS4KcHlnbWVudHNfc3R5bGUgPSAic3BoaW54IgoKIyBJZiB0cnVlLCBgdG9kb2AgYW5kIGB0b2RvTGlzdGAgcHJvZHVjZSBvdXRwdXQsIGVsc2UgdGhleSBwcm9kdWNlIG5vdGhpbmcuCnRvZG9faW5jbHVkZV90b2RvcyA9IEZhbHNlCgojIElmIHRydWUsICcoKScgd2lsbCBiZSBhcHBlbmRlZCB0byA6ZnVuYzogZXRjLiBjcm9zcy1yZWZlcmVuY2UgdGV4dC4KYWRkX2Z1bmN0aW9uX3BhcmVudGhlc2VzID0gRmFsc2UKCiMgSWYgdHJ1ZSwgdGhlIGN1cnJlbnQgbW9kdWxlIG5hbWUgd2lsbCBiZSBwcmVwZW5kZWQgdG8gYWxsIGRlc2NyaXB0aW9uCiMgdW5pdCB0aXRsZXMgKHN1Y2ggYXMgLi4gZnVuY3Rpb246OikuCmFkZF9tb2R1bGVfbmFtZXMgPSBUcnVlCgojIElmIHRydWUsIGB0b2RvYCBhbmQgYHRvZG9MaXN0YCBwcm9kdWNlIG91dHB1dCwgZWxzZSB0aGV5IHByb2R1Y2Ugbm90aGluZy4KdG9kb19pbmNsdWRlX3RvZG9zID0gVHJ1ZQoKCiMgLS0gT3B0aW9ucyBmb3IgSFRNTCBvdXRwdXQgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKIyBUaGUgdGhlbWUgdG8gdXNlIGZvciBIVE1MIGFuZCBIVE1MIEhlbHAgcGFnZXMuICBTZWUgdGhlIGRvY3VtZW50YXRpb24gZm9yCiMgYSBsaXN0IG9mIGJ1aWx0aW4gdGhlbWVzLgojCmh0bWxfdGhlbWUgPSAic3BoaW54X3J0ZF90aGVtZSIKCmh0bWxfbG9nbyA9ICJfc3RhdGljL2ltZy9sb2dvLzEucG5nIgoKCiMgVGhlbWUgb3B0aW9ucyBhcmUgdGhlbWUtc3BlY2lmaWMgYW5kIGN1c3RvbWl6ZSB0aGUgbG9vayBhbmQgZmVlbCBvZiBhIHRoZW1lCiMgZnVydGhlci4gIEZvciBhIGxpc3Qgb2Ygb3B0aW9ucyBhdmFpbGFibGUgZm9yIGVhY2ggdGhlbWUsIHNlZSB0aGUKIyBkb2N1bWVudGF0aW9uLgojIGh0bWxfY29udGV4dCA9IHsKIyAgICAgImRpc3BsYXlfZ2l0aHViIjogRmFsc2UsCiMgICAgICJsYXN0X3VwZGF0ZWQiOiBUcnVlLAojICAgICAiY29tbWl0IjogVHJ1ZSwKIyAgICAgImdpdGh1Yl91c2VyIjogIk1pY3Jvc29mdCIsCiMgICAgICJnaXRodWJfcmVwbyI6ICJRTGliIiwKIyAgICAgJ2dpdGh1Yl92ZXJzaW9uJzogJ21hc3RlcicsCiMgICAgICdjb25mX3B5X3BhdGgnOiAnL2RvY3MvJywKCiMgfQojCmh0bWxfdGhlbWVfb3B0aW9ucyA9IHsKICAgICJsb2dvX29ubHkiOiBUcnVlLAogICAgImNvbGxhcHNlX25hdmlnYXRpb24iOiBGYWxzZSwKICAgICJuYXZpZ2F0aW9uX2RlcHRoIjogNCwKfQoKIyBBZGQgYW55IHBhdGhzIHRoYXQgY29udGFpbiBjdXN0b20gc3RhdGljIGZpbGVzIChzdWNoIGFzIHN0eWxlIHNoZWV0cykgaGVyZSwKIyByZWxhdGl2ZSB0byB0aGlzIGRpcmVjdG9yeS4gVGhleSBhcmUgY29waWVkIGFmdGVyIHRoZSBidWlsdGluIHN0YXRpYyBmaWxlcywKIyBzbyBhIGZpbGUgbmFtZWQgImRlZmF1bHQuY3NzIiB3aWxsIG92ZXJ3cml0ZSB0aGUgYnVpbHRpbiAiZGVmYXVsdC5jc3MiLgojIGh0bWxfc3RhdGljX3BhdGggPSBbJ19zdGF0aWMnXQoKIyBDdXN0b20gc2lkZWJhciB0ZW1wbGF0ZXMsIG11c3QgYmUgYSBkaWN0aW9uYXJ5IHRoYXQgbWFwcyBkb2N1bWVudCBuYW1lcwojIHRvIHRlbXBsYXRlIG5hbWVzLgojCiMgVGhpcyBpcyByZXF1aXJlZCBmb3IgdGhlIGFsYWJhc3RlciB0aGVtZQojIHJlZnM6IGh0dHA6Ly9hbGFiYXN0ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0L2luc3RhbGxhdGlvbi5odG1sI3NpZGViYXJzCmh0bWxfc2lkZWJhcnMgPSB7CiAgICAiKioiOiBbCiAgICAgICAgImFib3V0Lmh0bWwiLAogICAgICAgICJuYXZpZ2F0aW9uLmh0bWwiLAogICAgICAgICJyZWxhdGlvbnMuaHRtbCIsICAjIG5lZWRzICdzaG93X3JlbGF0ZWQnOiBUcnVlIHRoZW1lIG9wdGlvbiB0byBkaXNwbGF5CiAgICAgICAgInNlYXJjaGJveC5odG1sIiwKICAgIF0KfQoKCiMgLS0gT3B0aW9ucyBmb3IgSFRNTEhlbHAgb3V0cHV0IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKIyBPdXRwdXQgZmlsZSBiYXNlIG5hbWUgZm9yIEhUTUwgaGVscCBidWlsZGVyLgpodG1saGVscF9iYXNlbmFtZSA9ICJxbGliZG9jIgoKCiMgLS0gT3B0aW9ucyBmb3IgTGFUZVggb3V0cHV0IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKbGF0ZXhfZWxlbWVudHMgPSB7CiAgICAjIFRoZSBwYXBlciBzaXplICgnbGV0dGVycGFwZXInIG9yICdhNHBhcGVyJykuCiAgICAjCiAgICAjICdwYXBlcnNpemUnOiAnbGV0dGVycGFwZXInLAogICAgIyBUaGUgZm9udCBzaXplICgnMTBwdCcsICcxMXB0JyBvciAnMTJwdCcpLgogICAgIwogICAgIyAncG9pbnRzaXplJzogJzEwcHQnLAogICAgIyBBZGRpdGlvbmFsIHN0dWZmIGZvciB0aGUgTGFUZVggcHJlYW1ibGUuCiAgICAjCiAgICAjICdwcmVhbWJsZSc6ICcnLAogICAgIyBMYXRleCBmaWd1cmUgKGZsb2F0KSBhbGlnbm1lbnQKICAgICMKICAgICMgJ2ZpZ3VyZV9hbGlnbic6ICdodGJwJywKfQoKIyBHcm91cGluZyB0aGUgZG9jdW1lbnQgdHJlZSBpbnRvIExhVGVYIGZpbGVzLiBMaXN0IG9mIHR1cGxlcwojIChzb3VyY2Ugc3RhcnQgZmlsZSwgdGFyZ2V0IG5hbWUsIHRpdGxlLAojICBhdXRob3IsIGRvY3VtZW50Y2xhc3MgW2hvd3RvLCBtYW51YWwsIG9yIG93biBjbGFzc10pLgpsYXRleF9kb2N1bWVudHMgPSBbCiAgICAobWFzdGVyX2RvYywgInFsaWIudGV4IiwgIlFMaWIgRG9jdW1lbnRhdGlvbiIsICJNaWNyb3NvZnQiLCAibWFudWFsIiksCl0KCgojIC0tIE9wdGlvbnMgZm9yIG1hbnVhbCBwYWdlIG91dHB1dCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiMgT25lIGVudHJ5IHBlciBtYW51YWwgcGFnZS4gTGlzdCBvZiB0dXBsZXMKIyAoc291cmNlIHN0YXJ0IGZpbGUsIG5hbWUsIGRlc2NyaXB0aW9uLCBhdXRob3JzLCBtYW51YWwgc2VjdGlvbikuCm1hbl9wYWdlcyA9IFsobWFzdGVyX2RvYywgInFsaWIiLCAiUUxpYiBEb2N1bWVudGF0aW9uIiwgW2F1dGhvcl0sIDEpXQoKCiMgLS0gT3B0aW9ucyBmb3IgVGV4aW5mbyBvdXRwdXQgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKIyBHcm91cGluZyB0aGUgZG9jdW1lbnQgdHJlZSBpbnRvIFRleGluZm8gZmlsZXMuIExpc3Qgb2YgdHVwbGVzCiMgKHNvdXJjZSBzdGFydCBmaWxlLCB0YXJnZXQgbmFtZSwgdGl0bGUsIGF1dGhvciwKIyAgZGlyIG1lbnUgZW50cnksIGRlc2NyaXB0aW9uLCBjYXRlZ29yeSkKdGV4aW5mb19kb2N1bWVudHMgPSBbCiAgICAoCiAgICAgICAgbWFzdGVyX2RvYywKICAgICAgICAiUUxpYiIsCiAgICAgICAgIlFMaWIgRG9jdW1lbnRhdGlvbiIsCiAgICAgICAgYXV0aG9yLAogICAgICAgICJRTGliIiwKICAgICAgICAiT25lIGxpbmUgZGVzY3JpcHRpb24gb2YgcHJvamVjdC4iLAogICAgICAgICJNaXNjZWxsYW5lb3VzIiwKICAgICksCl0KCgojIC0tIE9wdGlvbnMgZm9yIEVwdWIgb3V0cHV0IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiMgQmlibGlvZ3JhcGhpYyBEdWJsaW4gQ29yZSBpbmZvLgplcHViX3RpdGxlID0gcHJvamVjdAplcHViX2F1dGhvciA9IGF1dGhvcgplcHViX3B1Ymxpc2hlciA9IGF1dGhvcgplcHViX2NvcHlyaWdodCA9IGNvcHlyaWdodAoKIyBUaGUgdW5pcXVlIGlkZW50aWZpZXIgb2YgdGhlIHRleHQuIFRoaXMgY2FuIGJlIGEgSVNCTiBudW1iZXIKIyBvciB0aGUgcHJvamVjdCBob21lcGFnZS4KIwojIGVwdWJfaWRlbnRpZmllciA9ICcnCgojIEEgdW5pcXVlIGlkZW50aWZpY2F0aW9uIGZvciB0aGUgdGV4dC4KIwojIGVwdWJfdWlkID0gJycKCiMgQSBsaXN0IG9mIGZpbGVzIHRoYXQgc2hvdWxkIG5vdCBiZSBwYWNrZWQgaW50byB0aGUgZXB1YiBmaWxlLgplcHViX2V4Y2x1ZGVfZmlsZXMgPSBbInNlYXJjaC5odG1sIl0KCgphdXRvZG9jX21lbWJlcl9vcmRlciA9ICJieXNvdXJjZSIKYXV0b2RvY19kZWZhdWx0X2ZsYWdzID0gWyJtZW1iZXJzIl0KYXV0b2RvY19kZWZhdWx0X29wdGlvbnMgPSB7CiAgICAibWVtYmVycyI6IFRydWUsCiAgICAibWVtYmVyLW9yZGVyIjogImJ5c291cmNlIiwKICAgICJzcGVjaWFsLW1lbWJlcnMiOiAiX19pbml0X18iLAp9Cg==
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
+
+# QLib documentation build configuration file, created by
+# sphinx-quickstart on Wed Sep 27 15:16:05 2017.
+#
+# This file is execfile()d with the current directory set to its
+# containing dir.
+#
+# Note that not all possible configuration values are present in this
+# autogenerated file.
+#
+# All configuration values have a default; values that are commented out
+# serve to show the default.
+
+# If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+#
+import os
+import sys
+
+from importlib.metadata import version as ver
+
+# -- General configuration ------------------------------------------------
+
+# If your documentation needs a minimal Sphinx version, state it here.
+#
+# needs_sphinx = '1.0'
+
+# Add any Sphinx extension module names here, as strings. They can be
+# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
+# ones.
+extensions = [
+    "sphinx.ext.autodoc",
+    "sphinx.ext.todo",
+    "sphinx.ext.mathjax",
+    "sphinx.ext.napoleon",
+]
+
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ["_templates"]
+
+# The suffix(es) of source filenames.
+# You can specify multiple suffix as a list of string:
+#
+# source_suffix = ['.rst', '.md']
+source_suffix = ".rst"
+
+# The master toctree document.
+master_doc = "index"
+
+
+# General information about the project.
+project = "QLib"
+copyright = "Microsoft"
+author = "Microsoft"
+
+# The version info for the project you're documenting, acts as replacement for
+# |version| and |release|, also used in various other places throughout the
+# built documents.
+#
+# The short X.Y version.
+version = ver("pyqlib")
+# The full version, including alpha/beta/rc tags.
+release = version
+
+# The language for content autogenerated by Sphinx. Refer to documentation
+# for a list of supported languages.
+#
+# This is also used if you do content translation via gettext catalogs.
+# Usually you set "language" from the command line for these cases.
+language = "en_US"
+
+# List of patterns, relative to source directory, that match files and
+# directories to ignore when looking for source files.
+# This patterns also effect to html_static_path and html_extra_path
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "hidden"]
+
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = "sphinx"
+
+# If true, `todo` and `todoList` produce output, else they produce nothing.
+todo_include_todos = False
+
+# If true, '()' will be appended to :func: etc. cross-reference text.
+add_function_parentheses = False
+
+# If true, the current module name will be prepended to all description
+# unit titles (such as .. function::).
+add_module_names = True
+
+# If true, `todo` and `todoList` produce output, else they produce nothing.
+todo_include_todos = True
+
+
+# -- Options for HTML output ----------------------------------------------
+
+# The theme to use for HTML and HTML Help pages.  See the documentation for
+# a list of builtin themes.
+#
+html_theme = "sphinx_rtd_theme"
+
+html_logo = "_static/img/logo/1.png"
+
+
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+# html_context = {
+#     "display_github": False,
+#     "last_updated": True,
+#     "commit": True,
+#     "github_user": "Microsoft",
+#     "github_repo": "QLib",
+#     'github_version': 'master',
+#     'conf_py_path': '/docs/',
+
+# }
+#
+html_theme_options = {
+    "logo_only": True,
+    "collapse_navigation": False,
+    "navigation_depth": 4,
+}
+
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+# html_static_path = ['_static']
+
+# Custom sidebar templates, must be a dictionary that maps document names
+# to template names.
+#
+# This is required for the alabaster theme
+# refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
+html_sidebars = {
+    "**": [
+        "about.html",
+        "navigation.html",
+        "relations.html",  # needs 'show_related': True theme option to display
+        "searchbox.html",
+    ]
+}
+
+
+# -- Options for HTMLHelp output ------------------------------------------
+
+# Output file base name for HTML help builder.
+htmlhelp_basename = "qlibdoc"
+
+
+# -- Options for LaTeX output ---------------------------------------------
+
+latex_elements = {
+    # The paper size ('letterpaper' or 'a4paper').
+    #
+    # 'papersize': 'letterpaper',
+    # The font size ('10pt', '11pt' or '12pt').
+    #
+    # 'pointsize': '10pt',
+    # Additional stuff for the LaTeX preamble.
+    #
+    # 'preamble': '',
+    # Latex figure (float) alignment
+    #
+    # 'figure_align': 'htbp',
+}
+
+# Grouping the document tree into LaTeX files. List of tuples
+# (source start file, target name, title,
+#  author, documentclass [howto, manual, or own class]).
+latex_documents = [
+    (master_doc, "qlib.tex", "QLib Documentation", "Microsoft", "manual"),
+]
+
+
+# -- Options for manual page output ---------------------------------------
+
+# One entry per manual page. List of tuples
+# (source start file, name, description, authors, manual section).
+man_pages = [(master_doc, "qlib", "QLib Documentation", [author], 1)]
+
+
+# -- Options for Texinfo output -------------------------------------------
+
+# Grouping the document tree into Texinfo files. List of tuples
+# (source start file, target name, title, author,
+#  dir menu entry, description, category)
+texinfo_documents = [
+    (
+        master_doc,
+        "QLib",
+        "QLib Documentation",
+        author,
+        "QLib",
+        "One line description of project.",
+        "Miscellaneous",
+    ),
+]
+
+
+# -- Options for Epub output ----------------------------------------------
+
+# Bibliographic Dublin Core info.
+epub_title = project
+epub_author = author
+epub_publisher = author
+epub_copyright = copyright
+
+# The unique identifier of the text. This can be a ISBN number
+# or the project homepage.
+#
+# epub_identifier = ''
+
+# A unique identification for the text.
+#
+# epub_uid = ''
+
+# A list of files that should not be packed into the epub file.
+epub_exclude_files = ["search.html"]
+
+
+autodoc_member_order = "bysource"
+autodoc_default_flags = ["members"]
+autodoc_default_options = {
+    "members": True,
+    "member-order": "bysource",
+    "special-members": "__init__",
+}

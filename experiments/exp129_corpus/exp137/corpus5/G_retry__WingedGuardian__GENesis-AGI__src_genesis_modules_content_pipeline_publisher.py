@@ -1,1 +1,176 @@
-IiIiUHVibGlzaE1hbmFnZXIg4oCUIG1hbmFnZSBjb250ZW50IHB1Ymxpc2hpbmcgd29ya2Zsb3cuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgbG9nZ2luZwppbXBvcnQgdXVpZApmcm9tIGRhdGV0aW1lIGltcG9ydCBVVEMsIGRhdGV0aW1lCmZyb20gdHlwaW5nIGltcG9ydCBUWVBFX0NIRUNLSU5HCgpmcm9tIGdlbmVzaXMubW9kdWxlcy5jb250ZW50X3BpcGVsaW5lLnR5cGVzIGltcG9ydCBQdWJsaXNoUmVzdWx0LCBTY3JpcHQKCmlmIFRZUEVfQ0hFQ0tJTkc6CiAgICBpbXBvcnQgYWlvc3FsaXRlCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCgphc3luYyBkZWYgZW5zdXJlX3RhYmxlKGRiOiBhaW9zcWxpdGUuQ29ubmVjdGlvbikgLT4gTm9uZToKICAgICIiIkNyZWF0ZSB0aGUgY29udGVudF9wdWJsaXNoZXMgdGFibGUgaWYgaXQgZG9lc24ndCBleGlzdCwgdGhlbiBtaWdyYXRlLiIiIgogICAgYXdhaXQgZGIuZXhlY3V0ZSgiIiIKICAgICAgICBDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBjb250ZW50X3B1Ymxpc2hlcyAoCiAgICAgICAgICAgIGlkIFRFWFQgUFJJTUFSWSBLRVksCiAgICAgICAgICAgIGlkZWFfaWQgVEVYVCBOT1QgTlVMTCwKICAgICAgICAgICAgcGxhdGZvcm0gVEVYVCBOT1QgTlVMTCwKICAgICAgICAgICAgY29udGVudF90ZXh0IFRFWFQgTk9UIE5VTEwsCiAgICAgICAgICAgIHB1Ymxpc2hlZF9hdCBURVhULAogICAgICAgICAgICBzdGF0dXMgVEVYVCBOT1QgTlVMTCBERUZBVUxUICdkcmFmdCcsCiAgICAgICAgICAgIHBsYXRmb3JtX3Bvc3RfaWQgVEVYVCwKICAgICAgICAgICAgcG9zdF91cmwgVEVYVCwKICAgICAgICAgICAgZXJyb3JfbWVzc2FnZSBURVhULAogICAgICAgICAgICBkaXN0cmlidXRlZF9hdCBURVhUCiAgICAgICAgKQogICAgIiIiKQogICAgIyBNaWdyYXRlIGV4aXN0aW5nIHRhYmxlcyB0aGF0IGxhY2sgdGhlIG5ldyBjb2x1bW5zLgogICAgY3Vyc29yID0gYXdhaXQgZGIuZXhlY3V0ZSgiUFJBR01BIHRhYmxlX2luZm8oY29udGVudF9wdWJsaXNoZXMpIikKICAgIGV4aXN0aW5nX2NvbHMgPSB7cm93WzFdIGZvciByb3cgaW4gYXdhaXQgY3Vyc29yLmZldGNoYWxsKCl9CiAgICBmb3IgY29sLCBkZWZuIGluIFsKICAgICAgICAoInBsYXRmb3JtX3Bvc3RfaWQiLCAiVEVYVCIpLAogICAgICAgICgicG9zdF91cmwiLCAiVEVYVCIpLAogICAgICAgICgiZXJyb3JfbWVzc2FnZSIsICJURVhUIiksCiAgICAgICAgKCJkaXN0cmlidXRlZF9hdCIsICJURVhUIiksCiAgICBdOgogICAgICAgIGlmIGNvbCBub3QgaW4gZXhpc3RpbmdfY29sczoKICAgICAgICAgICAgYXdhaXQgZGIuZXhlY3V0ZShmIkFMVEVSIFRBQkxFIGNvbnRlbnRfcHVibGlzaGVzIEFERCBDT0xVTU4ge2NvbH0ge2RlZm59IikKICAgIGF3YWl0IGRiLmNvbW1pdCgpCgoKZGVmIF9yb3dfdG9fcHVibGlzaCgKICAgIHJvdzogYWlvc3FsaXRlLlJvdywKICAgIGNvbF9uYW1lczogbGlzdFtzdHJdIHwgTm9uZSA9IE5vbmUsCikgLT4gUHVibGlzaFJlc3VsdDoKICAgICIiIkNvbnZlcnQgYSBkYXRhYmFzZSByb3cgdG8gYSBQdWJsaXNoUmVzdWx0LgoKICAgIFN1cHBvcnRzIGJvdGggcG9zaXRpb25hbCAobGVnYWN5KSBhbmQgbmFtZWQtY29sdW1uIGFjY2Vzcy4KICAgICIiIgogICAgaWYgY29sX25hbWVzIGlzIG5vdCBOb25lOgogICAgICAgIGQgPSBkaWN0KHppcChjb2xfbmFtZXMsIHJvdywgc3RyaWN0PUZhbHNlKSkKICAgICAgICByZXR1cm4gUHVibGlzaFJlc3VsdCgKICAgICAgICAgICAgaWQ9ZFsiaWQiXSwKICAgICAgICAgICAgaWRlYV9pZD1kWyJpZGVhX2lkIl0sCiAgICAgICAgICAgIHBsYXRmb3JtPWRbInBsYXRmb3JtIl0sCiAgICAgICAgICAgIGNvbnRlbnRfdGV4dD1kWyJjb250ZW50X3RleHQiXSwKICAgICAgICAgICAgcHVibGlzaGVkX2F0PWQuZ2V0KCJwdWJsaXNoZWRfYXQiKSwKICAgICAgICAgICAgc3RhdHVzPWQuZ2V0KCJzdGF0dXMiLCAiZHJhZnQiKSwKICAgICAgICAgICAgcGxhdGZvcm1fcG9zdF9pZD1kLmdldCgicGxhdGZvcm1fcG9zdF9pZCIpLAogICAgICAgICAgICBwb3N0X3VybD1kLmdldCgicG9zdF91cmwiKSwKICAgICAgICAgICAgZXJyb3JfbWVzc2FnZT1kLmdldCgiZXJyb3JfbWVzc2FnZSIpLAogICAgICAgICAgICBkaXN0cmlidXRlZF9hdD1kLmdldCgiZGlzdHJpYnV0ZWRfYXQiKSwKICAgICAgICApCiAgICAjIFBvc2l0aW9uYWwgZmFsbGJhY2sgZm9yIGNhbGxlcnMgdGhhdCBkb24ndCBwYXNzIGNvbF9uYW1lcy4KICAgIHJldHVybiBQdWJsaXNoUmVzdWx0KAogICAgICAgIGlkPXJvd1swXSwKICAgICAgICBpZGVhX2lkPXJvd1sxXSwKICAgICAgICBwbGF0Zm9ybT1yb3dbMl0sCiAgICAgICAgY29udGVudF90ZXh0PXJvd1szXSwKICAgICAgICBwdWJsaXNoZWRfYXQ9cm93WzRdLAogICAgICAgIHN0YXR1cz1yb3dbNV0sCiAgICAgICAgcGxhdGZvcm1fcG9zdF9pZD1yb3dbNl0gaWYgbGVuKHJvdykgPiA2IGVsc2UgTm9uZSwKICAgICAgICBwb3N0X3VybD1yb3dbN10gaWYgbGVuKHJvdykgPiA3IGVsc2UgTm9uZSwKICAgICAgICBlcnJvcl9tZXNzYWdlPXJvd1s4XSBpZiBsZW4ocm93KSA+IDggZWxzZSBOb25lLAogICAgICAgIGRpc3RyaWJ1dGVkX2F0PXJvd1s5XSBpZiBsZW4ocm93KSA+IDkgZWxzZSBOb25lLAogICAgKQoKCmNsYXNzIFB1Ymxpc2hNYW5hZ2VyOgogICAgIiIiTWFuYWdlcyBjb250ZW50IHB1Ymxpc2hpbmcgYWNyb3NzIHBsYXRmb3Jtcy4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgZGI6IGFpb3NxbGl0ZS5Db25uZWN0aW9uKSAtPiBOb25lOgogICAgICAgIHNlbGYuX2RiID0gZGIKCiAgICBhc3luYyBkZWYgcHVibGlzaCgKICAgICAgICBzZWxmLCBzY3JpcHQ6IFNjcmlwdCwgcGxhdGZvcm1zOiBsaXN0W3N0cl0sCiAgICApIC0+IGxpc3RbUHVibGlzaFJlc3VsdF06CiAgICAgICAgIiIiQ3JlYXRlIGRyYWZ0IHB1Ymxpc2ggZW50cmllcyBmb3IgZ2l2ZW4gcGxhdGZvcm1zLgoKICAgICAgICBBY3R1YWwgZGVsaXZlcnkgaXMgaGFuZGxlZCBieSBvdXRyZWFjaC9wbGF0Zm9ybSBjb25uZWN0b3JzLgogICAgICAgIFRoaXMgcmVjb3JkcyB0aGUgaW50ZW50IGFuZCB0cmFja3Mgc3RhdHVzLgogICAgICAgICIiIgogICAgICAgIHJlc3VsdHMgPSBbXQogICAgICAgIGZvciBwbGF0Zm9ybSBpbiBwbGF0Zm9ybXM6CiAgICAgICAgICAgIHJlc3VsdCA9IFB1Ymxpc2hSZXN1bHQoCiAgICAgICAgICAgICAgICBpZD1zdHIodXVpZC51dWlkNCgpKSwKICAgICAgICAgICAgICAgIGlkZWFfaWQ9c2NyaXB0LmlkZWFfaWQsCiAgICAgICAgICAgICAgICBwbGF0Zm9ybT1wbGF0Zm9ybSwKICAgICAgICAgICAgICAgIGNvbnRlbnRfdGV4dD1zY3JpcHQuY29udGVudCwKICAgICAgICAgICAgICAgIHB1Ymxpc2hlZF9hdD1Ob25lLAogICAgICAgICAgICAgICAgc3RhdHVzPSJkcmFmdCIsCiAgICAgICAgICAgICkKICAgICAgICAgICAgYXdhaXQgc2VsZi5fZGIuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICIiIklOU0VSVCBJTlRPIGNvbnRlbnRfcHVibGlzaGVzCiAgICAgICAgICAgICAgICAgICAoaWQsIGlkZWFfaWQsIHBsYXRmb3JtLCBjb250ZW50X3RleHQsIHB1Ymxpc2hlZF9hdCwgc3RhdHVzKQogICAgICAgICAgICAgICAgICAgVkFMVUVTICg/LCA/LCA/LCA/LCA/LCA/KSIiIiwKICAgICAgICAgICAgICAgICgKICAgICAgICAgICAgICAgICAgICByZXN1bHQuaWQsCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmlkZWFfaWQsCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnBsYXRmb3JtLAogICAgICAgICAgICAgICAgICAgIHJlc3VsdC5jb250ZW50X3RleHQsCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnB1Ymxpc2hlZF9hdCwKICAgICAgICAgICAgICAgICAgICByZXN1bHQuc3RhdHVzLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgKQogICAgICAgICAgICByZXN1bHRzLmFwcGVuZChyZXN1bHQpCgogICAgICAgIGF3YWl0IHNlbGYuX2RiLmNvbW1pdCgpCiAgICAgICAgbG9nZ2VyLmRlYnVnKAogICAgICAgICAgICAiQ3JlYXRlZCAlZCBwdWJsaXNoIGVudHJpZXMgZm9yIGlkZWEgJXMiLAogICAgICAgICAgICBsZW4ocmVzdWx0cyksCiAgICAgICAgICAgIHNjcmlwdC5pZGVhX2lkLAogICAgICAgICkKICAgICAgICByZXR1cm4gcmVzdWx0cwoKICAgIGFzeW5jIGRlZiBnZXRfcHVibGlzaGVzKAogICAgICAgIHNlbGYsCiAgICAgICAgaWRlYV9pZDogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICAgICAgc3RhdHVzOiBzdHIgfCBOb25lID0gTm9uZSwKICAgICkgLT4gbGlzdFtQdWJsaXNoUmVzdWx0XToKICAgICAgICAiIiJHZXQgcHVibGlzaCByZXN1bHRzLCBvcHRpb25hbGx5IGZpbHRlcmVkLiIiIgogICAgICAgIGNvbmRpdGlvbnMgPSBbXQogICAgICAgIHBhcmFtczogbGlzdFtzdHJdID0gW10KICAgICAgICBpZiBpZGVhX2lkOgogICAgICAgICAgICBjb25kaXRpb25zLmFwcGVuZCgiaWRlYV9pZCA9ID8iKQogICAgICAgICAgICBwYXJhbXMuYXBwZW5kKGlkZWFfaWQpCiAgICAgICAgaWYgc3RhdHVzOgogICAgICAgICAgICBjb25kaXRpb25zLmFwcGVuZCgic3RhdHVzID0gPyIpCiAgICAgICAgICAgIHBhcmFtcy5hcHBlbmQoc3RhdHVzKQoKICAgICAgICBxdWVyeSA9ICJTRUxFQ1QgKiBGUk9NIGNvbnRlbnRfcHVibGlzaGVzIgogICAgICAgIGlmIGNvbmRpdGlvbnM6CiAgICAgICAgICAgIHF1ZXJ5ICs9ICIgV0hFUkUgIiArICIgQU5EICIuam9pbihjb25kaXRpb25zKQogICAgICAgIHF1ZXJ5ICs9ICIgT1JERVIgQlkgcm93aWQgREVTQyIKCiAgICAgICAgY3Vyc29yID0gYXdhaXQgc2VsZi5fZGIuZXhlY3V0ZShxdWVyeSwgcGFyYW1zKQogICAgICAgIHJvd3MgPSBhd2FpdCBjdXJzb3IuZmV0Y2hhbGwoKQogICAgICAgIGNvbF9uYW1lcyA9IFtkZXNjWzBdIGZvciBkZXNjIGluIGN1cnNvci5kZXNjcmlwdGlvbl0gaWYgY3Vyc29yLmRlc2NyaXB0aW9uIGVsc2UgTm9uZQogICAgICAgIHJldHVybiBbX3Jvd190b19wdWJsaXNoKHJvdywgY29sX25hbWVzPWNvbF9uYW1lcykgZm9yIHJvdyBpbiByb3dzXQoKICAgIGFzeW5jIGRlZiB1cGRhdGVfcHVibGlzaF9zdGF0dXMoCiAgICAgICAgc2VsZiwgcHVibGlzaF9pZDogc3RyLCBzdGF0dXM6IHN0ciwKICAgICkgLT4gYm9vbDoKICAgICAgICAiIiJVcGRhdGUgYSBwdWJsaXNoIGVudHJ5J3Mgc3RhdHVzLiBSZXR1cm5zIFRydWUgaWYgaXQgZXhpc3RlZC4iIiIKICAgICAgICBub3cgPSBOb25lCiAgICAgICAgaWYgc3RhdHVzID09ICJwdWJsaXNoZWQiOgogICAgICAgICAgICBub3cgPSBkYXRldGltZS5ub3coVVRDKS5pc29mb3JtYXQoKQoKICAgICAgICBpZiBub3c6CiAgICAgICAgICAgIGN1cnNvciA9IGF3YWl0IHNlbGYuX2RiLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAiVVBEQVRFIGNvbnRlbnRfcHVibGlzaGVzIFNFVCBzdGF0dXMgPSA/LCBwdWJsaXNoZWRfYXQgPSA/IFdIRVJFIGlkID0gPyIsCiAgICAgICAgICAgICAgICAoc3RhdHVzLCBub3csIHB1Ymxpc2hfaWQpLAogICAgICAgICAgICApCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY3Vyc29yID0gYXdhaXQgc2VsZi5fZGIuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJVUERBVEUgY29udGVudF9wdWJsaXNoZXMgU0VUIHN0YXR1cyA9ID8gV0hFUkUgaWQgPSA/IiwKICAgICAgICAgICAgICAgIChzdGF0dXMsIHB1Ymxpc2hfaWQpLAogICAgICAgICAgICApCiAgICAgICAgYXdhaXQgc2VsZi5fZGIuY29tbWl0KCkKICAgICAgICByZXR1cm4gY3Vyc29yLnJvd2NvdW50ID4gMAo=
+"""PublishManager — manage content publishing workflow."""
+
+from __future__ import annotations
+
+import logging
+import uuid
+from datetime import UTC, datetime
+from typing import TYPE_CHECKING
+
+from genesis.modules.content_pipeline.types import PublishResult, Script
+
+if TYPE_CHECKING:
+    import aiosqlite
+
+logger = logging.getLogger(__name__)
+
+
+async def ensure_table(db: aiosqlite.Connection) -> None:
+    """Create the content_publishes table if it doesn't exist, then migrate."""
+    await db.execute("""
+        CREATE TABLE IF NOT EXISTS content_publishes (
+            id TEXT PRIMARY KEY,
+            idea_id TEXT NOT NULL,
+            platform TEXT NOT NULL,
+            content_text TEXT NOT NULL,
+            published_at TEXT,
+            status TEXT NOT NULL DEFAULT 'draft',
+            platform_post_id TEXT,
+            post_url TEXT,
+            error_message TEXT,
+            distributed_at TEXT
+        )
+    """)
+    # Migrate existing tables that lack the new columns.
+    cursor = await db.execute("PRAGMA table_info(content_publishes)")
+    existing_cols = {row[1] for row in await cursor.fetchall()}
+    for col, defn in [
+        ("platform_post_id", "TEXT"),
+        ("post_url", "TEXT"),
+        ("error_message", "TEXT"),
+        ("distributed_at", "TEXT"),
+    ]:
+        if col not in existing_cols:
+            await db.execute(f"ALTER TABLE content_publishes ADD COLUMN {col} {defn}")
+    await db.commit()
+
+
+def _row_to_publish(
+    row: aiosqlite.Row,
+    col_names: list[str] | None = None,
+) -> PublishResult:
+    """Convert a database row to a PublishResult.
+
+    Supports both positional (legacy) and named-column access.
+    """
+    if col_names is not None:
+        d = dict(zip(col_names, row, strict=False))
+        return PublishResult(
+            id=d["id"],
+            idea_id=d["idea_id"],
+            platform=d["platform"],
+            content_text=d["content_text"],
+            published_at=d.get("published_at"),
+            status=d.get("status", "draft"),
+            platform_post_id=d.get("platform_post_id"),
+            post_url=d.get("post_url"),
+            error_message=d.get("error_message"),
+            distributed_at=d.get("distributed_at"),
+        )
+    # Positional fallback for callers that don't pass col_names.
+    return PublishResult(
+        id=row[0],
+        idea_id=row[1],
+        platform=row[2],
+        content_text=row[3],
+        published_at=row[4],
+        status=row[5],
+        platform_post_id=row[6] if len(row) > 6 else None,
+        post_url=row[7] if len(row) > 7 else None,
+        error_message=row[8] if len(row) > 8 else None,
+        distributed_at=row[9] if len(row) > 9 else None,
+    )
+
+
+class PublishManager:
+    """Manages content publishing across platforms."""
+
+    def __init__(self, db: aiosqlite.Connection) -> None:
+        self._db = db
+
+    async def publish(
+        self, script: Script, platforms: list[str],
+    ) -> list[PublishResult]:
+        """Create draft publish entries for given platforms.
+
+        Actual delivery is handled by outreach/platform connectors.
+        This records the intent and tracks status.
+        """
+        results = []
+        for platform in platforms:
+            result = PublishResult(
+                id=str(uuid.uuid4()),
+                idea_id=script.idea_id,
+                platform=platform,
+                content_text=script.content,
+                published_at=None,
+                status="draft",
+            )
+            await self._db.execute(
+                """INSERT INTO content_publishes
+                   (id, idea_id, platform, content_text, published_at, status)
+                   VALUES (?, ?, ?, ?, ?, ?)""",
+                (
+                    result.id,
+                    result.idea_id,
+                    result.platform,
+                    result.content_text,
+                    result.published_at,
+                    result.status,
+                ),
+            )
+            results.append(result)
+
+        await self._db.commit()
+        logger.debug(
+            "Created %d publish entries for idea %s",
+            len(results),
+            script.idea_id,
+        )
+        return results
+
+    async def get_publishes(
+        self,
+        idea_id: str | None = None,
+        status: str | None = None,
+    ) -> list[PublishResult]:
+        """Get publish results, optionally filtered."""
+        conditions = []
+        params: list[str] = []
+        if idea_id:
+            conditions.append("idea_id = ?")
+            params.append(idea_id)
+        if status:
+            conditions.append("status = ?")
+            params.append(status)
+
+        query = "SELECT * FROM content_publishes"
+        if conditions:
+            query += " WHERE " + " AND ".join(conditions)
+        query += " ORDER BY rowid DESC"
+
+        cursor = await self._db.execute(query, params)
+        rows = await cursor.fetchall()
+        col_names = [desc[0] for desc in cursor.description] if cursor.description else None
+        return [_row_to_publish(row, col_names=col_names) for row in rows]
+
+    async def update_publish_status(
+        self, publish_id: str, status: str,
+    ) -> bool:
+        """Update a publish entry's status. Returns True if it existed."""
+        now = None
+        if status == "published":
+            now = datetime.now(UTC).isoformat()
+
+        if now:
+            cursor = await self._db.execute(
+                "UPDATE content_publishes SET status = ?, published_at = ? WHERE id = ?",
+                (status, now, publish_id),
+            )
+        else:
+            cursor = await self._db.execute(
+                "UPDATE content_publishes SET status = ? WHERE id = ?",
+                (status, publish_id),
+            )
+        await self._db.commit()
+        return cursor.rowcount > 0

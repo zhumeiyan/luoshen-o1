@@ -1,1 +1,82 @@
-ewogImxlYXJuPTAuMDAiOiB7CiAgIm1lYW4iOiAzLjIyMSwKICAic2QiOiAwLjAxMSwKICAiYnJrIjogMAogfSwKICJsZWFybj0wLjA1IjogewogICJtZWFuIjogMy43NSwKICAic2QiOiAwLjA1LAogICJicmsiOiA0CiB9LAogImxlYXJuPTAuMTAiOiB7CiAgIm1lYW4iOiAzLjYzOCwKICAic2QiOiAwLjA3MywKICAiYnJrIjogNAogfSwKICJsZWFybj0wLjIwIjogewogICJtZWFuIjogMy41NywKICAic2QiOiAwLjA2MSwKICAiYnJrIjogNAogfSwKICJsZWFybj0wLjUwIjogewogICJtZWFuIjogMy41MzQsCiAgInNkIjogMC4wNTEsCiAgImJyayI6IDQKIH0sCiAibGVhcm49MS4wMCI6IHsKICAibWVhbiI6IDMuNDk2LAogICJzZCI6IDAuMDAzLAogICJicmsiOiA0CiB9LAogIlQ9MzAiOiB7CiAgImN5Y2xlIjogMy4wNzcsCiAgInNkIjogMC4xNTIsCiAgInN0cm9uZyI6IDIuODU5CiB9LAogIlQ9NjAiOiB7CiAgImN5Y2xlIjogMy40NjQsCiAgInNkIjogMC4wNDgsCiAgInN0cm9uZyI6IDMuMTczCiB9LAogIlQ9MTIwIjogewogICJjeWNsZSI6IDMuNTM1LAogICJzZCI6IDAuMDQ5LAogICJzdHJvbmciOiAzLjYxMQogfSwKICJUPTI1MCI6IHsKICAiY3ljbGUiOiAzLjYxMywKICAic2QiOiAwLjA1MiwKICAic3Ryb25nIjogMy42NjcKIH0sCiAiVD01MDAiOiB7CiAgImN5Y2xlIjogMy42NDQsCiAgInNkIjogMC4wNTIsCiAgInN0cm9uZyI6IDMuNzA0CiB9LAogIlQ9MTAwMCI6IHsKICAiY3ljbGUiOiAzLjkwNywKICAic2QiOiAwLjA1MSwKICAic3Ryb25nIjogMy44OTMKIH0sCiAiYz0wLjAiOiB7CiAgIm1lYW4iOiAzLjU1MSwKICAic2QiOiAwLjA0NgogfSwKICJjPTAuNSI6IHsKICAibWVhbiI6IDMuNTM2LAogICJzZCI6IDAuMDQ5CiB9LAogImM9MS4wIjogewogICJtZWFuIjogMy41NDYsCiAgInNkIjogMC4wMjgKIH0sCiAicmVvcmllbnQ9VHJ1ZSI6IHsKICAibWVhbiI6IDMuNTM1LAogICJzZCI6IDAuMDQ5CiB9LAogInJlb3JpZW50PUZhbHNlIjogewogICJtZWFuIjogMy40NDQsCiAgInNkIjogMC4wMjgKIH0KfQ==
+{
+ "learn=0.00": {
+  "mean": 3.221,
+  "sd": 0.011,
+  "brk": 0
+ },
+ "learn=0.05": {
+  "mean": 3.75,
+  "sd": 0.05,
+  "brk": 4
+ },
+ "learn=0.10": {
+  "mean": 3.638,
+  "sd": 0.073,
+  "brk": 4
+ },
+ "learn=0.20": {
+  "mean": 3.57,
+  "sd": 0.061,
+  "brk": 4
+ },
+ "learn=0.50": {
+  "mean": 3.534,
+  "sd": 0.051,
+  "brk": 4
+ },
+ "learn=1.00": {
+  "mean": 3.496,
+  "sd": 0.003,
+  "brk": 4
+ },
+ "T=30": {
+  "cycle": 3.077,
+  "sd": 0.152,
+  "strong": 2.859
+ },
+ "T=60": {
+  "cycle": 3.464,
+  "sd": 0.048,
+  "strong": 3.173
+ },
+ "T=120": {
+  "cycle": 3.535,
+  "sd": 0.049,
+  "strong": 3.611
+ },
+ "T=250": {
+  "cycle": 3.613,
+  "sd": 0.052,
+  "strong": 3.667
+ },
+ "T=500": {
+  "cycle": 3.644,
+  "sd": 0.052,
+  "strong": 3.704
+ },
+ "T=1000": {
+  "cycle": 3.907,
+  "sd": 0.051,
+  "strong": 3.893
+ },
+ "c=0.0": {
+  "mean": 3.551,
+  "sd": 0.046
+ },
+ "c=0.5": {
+  "mean": 3.536,
+  "sd": 0.049
+ },
+ "c=1.0": {
+  "mean": 3.546,
+  "sd": 0.028
+ },
+ "reorient=True": {
+  "mean": 3.535,
+  "sd": 0.049
+ },
+ "reorient=False": {
+  "mean": 3.444,
+  "sd": 0.028
+ }
+}

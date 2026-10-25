@@ -1,1 +1,173 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuS9oOeahOecvOedm+aYr+W5v+inkueahCDigJTigJQgMjAwwrAg5rC05bmz77yM5L2G5Y+q5pyJIDLCsCDmmK/pq5jmuIXnmoTjgIIK5omA5LulIuWcqOS9oOecvOedm+S4iuS9nOeUuyLmmK/mnInniannkIbnuqbmnZ/nmoTvvJrmiJHlj6rog73lnKjpgqMgMsKwIOmHjOeUu+a4healmuOAggoK5pys5bel5YW35oqK5LiA5byg5Zu+5oyJ5Lq655y86KeG5pWP5bqm6KGw5YeP5qih5Z6L5riy5p+T5LiA6YGNIOKAlOKAlArljbPvvJrmqKHmi58i57uP6L+H5L2g55qE55y8552b5LmL5ZCO77yM6L+Z5byg5Zu+6L+Y5Ymp5LuA5LmIIuOAggoKICAgIHB5dGhvbjMgZXllLnB5IOeciyDmhJ/lrpjmoaUv56ym5Y+3X3Y3X+W4puW8r+eahOe6vy5wbmcKICAgIHB5dGhvbjMgZXllLnB5IOWFqOmDqCAgICAgICAgICAjIOaKiuaIkeeUu+i/h+eahOWbvuWFqOi/h+S4gOmBjeS9oOeahOecvOedmwogICAgcHl0aG9uMyBleWUucHkg5pWw5o2uCgroobDlh4/mlbDmja7vvIjlrp7mtYvmlofnjK7vvIzpnZ7miJHnvJbvvInvvJoKICDnprvlv4MgMMKwICAg4oaSIDEwMCXvvIjkuK3lpK7lh7nvvIkKICDnprvlv4MgMTDCsCAg4oaSIDEwfjIwJQogIOemu+W/gyAzMMKwICDihpIgPDUlCiAg56a75b+DIDQ1wrAgIOKGkiB+MO+8iEdlaXNsZXIgJiBQZXJyeSDnur/mgKfmqKHlnovlvZLpm7bngrnvvIkK5rOo77yaR2Vpc2xlci1QZXJyeSDnur/mgKfmqKHlnovlnKggMTDCsCDlpITnu5kgMzEgY3BkLzQwIGNwZOKJiDc4Je+8jAogICAg5LiO5b+D55CG54mp55CG5a6e5rWL55qEIDEwfjIwJSDkuI3kuIDoh7TjgILov5nph4znlKjlv4PnkIbniannkIblrp7mtYvvvIzlubbkv53nlZnliIbmrafjgIIKIiIiCmltcG9ydCBzeXMsIG9zLCBtYXRoLCBnbG9iCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIucGF0Y2hlcyBpbXBvcnQgQ2lyY2xlLCBSZWN0YW5nbGUKcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXSA9IFsiV2VuUXVhbllpIE1pY3JvIEhlaSJdCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl0gPSBGYWxzZQpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKClJPT1QgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKc3lzLnBhdGguaW5zZXJ0KDAsIFJPT1QpCmltcG9ydCBleWVfcHJvZmlsZQpQID0gZXllX3Byb2ZpbGUubG9hZCgpCgojIC0tLS0g5L2g55qE55y8552b77yI5Y+v5p+l77yM6Z2e5oiR57yW77yJLS0tLQpGT1ZfSCwgRk9WX1YgPSBQWyJmb3ZfaCJdLCBQWyJmb3ZfdiJdICAgIyDmnaXoh6ogcHJvZmlsZe+8jOWPr+abv+aNogpGT1ZFQV9ERUcgPSBQWyJmb3ZlYSJdICAgICAgICAgICAgICAgICAgIyDkuK3lpK7lh7nnm7TlvoTvvIjluqbvvIkKX0VDQywgX0FDVSA9IFBbImVjYyJdLCBQWyJhY3UiXQpQSE9ORV9XX0NNLCBQSE9ORV9IX0NNID0gNy4wLCAxNS4wCkRJU1RfQ00gPSAzMC4wICAgICAgICAgICAgICAgIyDmiYvmnLrliLDnnLznnZsKCmRlZiBfYW5nKGhhbGZfY20sIGQ9RElTVF9DTSk6CiAgICByZXR1cm4gMiAqIG1hdGguZGVncmVlcyhtYXRoLmF0YW4oaGFsZl9jbSAvIGQpKQoKU0NSRUVOX1dfREVHID0gX2FuZyhQSE9ORV9XX0NNIC8gMikKU0NSRUVOX0hfREVHID0gX2FuZyhQSE9ORV9IX0NNIC8gMikKCmRlZiBhY3VpdHkoZSk6CiAgICAiIiLmnaXoh6rlvZPliY0gcHJvZmlsZSDigJTigJQg5o2iIHByb2ZpbGUg5bCx5o2i5puy57q/77yM5LiN56Gs57yW56CBIiIiCiAgICByZXR1cm4gZmxvYXQobnAuaW50ZXJwKGUsIF9FQ0MsIF9BQ1UpKQoKCmRlZiBmb3ZlYXRlKGFyciwgc2NyZWVuX2RlZ193PVNDUkVFTl9XX0RFRywgbl9yaW5ncz0xMCk6CiAgICAiIiLmjInnprvlv4PnjofliIbnjq/mqKHns4og4oCU4oCUIOaooeaLn+S9oOeahOecvOedm+OAguazqOinhueCuT3lm77kuK3lv4PjgIIiIiIKICAgIEgsIFcgPSBhcnIuc2hhcGUKICAgIHB4X3Blcl9kZWcgPSBXIC8gc2NyZWVuX2RlZ193CiAgICB5eSwgeHggPSBucC5tZ3JpZFswOkgsIDA6V10uYXN0eXBlKGZsb2F0KQogICAgY3ksIGN4ID0gSCAvIDIsIFcgLyAyCiAgICBlY2MgPSBucC5zcXJ0KCh5eSAtIGN5KSAqKiAyICsgKHh4IC0gY3gpICoqIDIpIC8gcHhfcGVyX2RlZwogICAgb3V0ID0gbnAuemVyb3NfbGlrZShhcnIsIGR0eXBlPWZsb2F0KQogICAgZWRnZXMgPSBucC5saW5zcGFjZSgwLCBlY2MubWF4KCkgKyAxZS02LCBuX3JpbmdzICsgMSkKICAgIGZvciBpIGluIHJhbmdlKG5fcmluZ3MpOgogICAgICAgIGxvLCBoaSA9IGVkZ2VzW2ldLCBlZGdlc1tpICsgMV0KICAgICAgICBtID0gKGVjYyA+PSBsbykgJiAoZWNjIDwgaGkpCiAgICAgICAgaWYgbm90IG0uYW55KCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgYSA9IGFjdWl0eSgobG8gKyBoaSkgLyAyKQogICAgICAgIGlmIGEgPj0gMC45OTk6CiAgICAgICAgICAgIG91dFttXSA9IGFyclttXQogICAgICAgICAgICBjb250aW51ZQogICAgICAgICMg5YiG6L6o546H6ZmN5YiwIGEg4oaSIOaooeeziuWNiuW+hOe6piAxL2EKICAgICAgICByID0gbWF4KDEsIGludChyb3VuZCgxLjAgLyBtYXgoYSwgMC4wMikpKSkKICAgICAgICBrID0gMiAqIHIgKyAxCiAgICAgICAga2VyID0gbnAub25lcygoaywgaykpIC8gKGsgKiBrKQogICAgICAgIHBhZCA9IG5wLnBhZChhcnIuYXN0eXBlKGZsb2F0KSwgciwgbW9kZT0iZWRnZSIpCiAgICAgICAgIyAgc2VwYXJhYmxlIOWNt+enrwogICAgICAgIHRtcCA9IG5wLmFwcGx5X2Fsb25nX2F4aXMobGFtYmRhIHY6IG5wLmNvbnZvbHZlKHYsIG5wLm9uZXMoaykgLyBrLCAidmFsaWQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDAsIHBhZCkKICAgICAgICBibCA9IG5wLmFwcGx5X2Fsb25nX2F4aXMobGFtYmRhIHY6IG5wLmNvbnZvbHZlKHYsIG5wLm9uZXMoaykgLyBrLCAidmFsaWQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMSwgdG1wKVs6SCwgOlddCiAgICAgICAgb3V0W21dID0gYmxbbV0KICAgIHJldHVybiBvdXQKCgpkZWYgbG9vayhwYXRoLCBzYXZlPVRydWUpOgogICAgaW0gPSBJbWFnZS5vcGVuKHBhdGgpLmNvbnZlcnQoIkwiKQogICAgYSA9IG5wLmFycmF5KGltKS5hc3R5cGUoZmxvYXQpCiAgICBmID0gZm92ZWF0ZShhKQogICAgZiA9IG5wLmNsaXAoZiwgMCwgMjU1KS5hc3R5cGUobnAudWludDgpCiAgICBpZiBzYXZlOgogICAgICAgIHAgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIuaEn+WumOahpSIsICJf57uP55y8XyIgKyBvcy5wYXRoLmJhc2VuYW1lKHBhdGgpKQogICAgICAgIEltYWdlLmZyb21hcnJheShmKS5zYXZlKHApCiAgICByZXR1cm4gcCBpZiBzYXZlIGVsc2UgZgoKCmRlZiBzdXJ2aXZlKHBhdGgpOgogICAgIiIi57uP6L+H5L2g55qE55y8552b5ZCO77yM5Li75Z2X6L+Y5Ymp5aSa5bCRIiIiCiAgICBpbXBvcnQgc3ltYm9sCiAgICBiZWZvcmUgPSBzeW1ib2wuanVkZ2UocGF0aCkKICAgIGEgPSBucC5hcnJheShJbWFnZS5vcGVuKHBhdGgpLmNvbnZlcnQoIkwiKSkuYXN0eXBlKGZsb2F0KQogICAgZiA9IG5wLmNsaXAoZm92ZWF0ZShhKSwgMCwgMjU1KS5hc3R5cGUobnAudWludDgpCiAgICB0bXAgPSAiL3RtcC9fZXllLnBuZyIKICAgIEltYWdlLmZyb21hcnJheShmKS5zYXZlKHRtcCkKICAgIGFmdGVyID0gc3ltYm9sLmp1ZGdlKHRtcCkKICAgIHJldHVybiBiZWZvcmUsIGFmdGVyCgoKZGVmIGRhdGEoKToKICAgIGZvdiA9IEZPVl9IICogRk9WX1YKICAgIGZhdiA9IG1hdGgucGkgKiAoRk9WRUFfREVHIC8gMikgKiogMgogICAgcHhfcGVyX2RlZyA9IDEwODAgLyBTQ1JFRU5fV19ERUcKICAgIHByaW50KCIgIOinhumHjiAgICAgICAgICDlj4znnLwgJS4wZsKwIMOXICUuMGbCsCIgJSAoRk9WX0gsIEZPVl9WKSkKICAgIHByaW50KCIgIOS4reWkruWHuSAgICAgICAg5Lit5b+DICUuMGbCsO+8iOWUr+S4gOmrmOa4he+8iSIgJSBGT1ZFQV9ERUcpCiAgICBwcmludCgiICDpq5jmuIXljLrljaDmr5QgICAgJS40ZiUlICDihpAg5L2g55yL6KeB55qE5LiW55WM6YeM5Y+q5pyJ6L+Z5LmI54K55piv55yf55qEIiAlIChmYXYgLyBmb3YgKiAxMDApKQogICAgcHJpbnQoKQogICAgcHJpbnQoIiAg5omL5py656uW5bGPICAgICAg5qiq5ZCRICUuMWbCsCDCtyDnurXlkJEgJS4xZsKwIiAlIChTQ1JFRU5fV19ERUcsIFNDUkVFTl9IX0RFRykpCiAgICBwcmludCgiICAxwrAgPSAlLjBmIHB477yI5bGP5a69MTA4MO+8iSIgJSBweF9wZXJfZGVnKQogICAgcHJpbnQoIiAg5Lit5aSu5Ye55Zyo5bGP5LiKICDnm7TlvoQgJS4wZiBweCDnmoTlnIbvvIzljaDlsY8gJS4yZiUlIgogICAgICAgICAgJSAoMiAqIHB4X3Blcl9kZWcsIG1hdGgucGkgKiBweF9wZXJfZGVnICoqIDIgLyAoMTA4MCAqIDIzNDApICogMTAwKSkKICAgIHByaW50KCkKICAgIHByaW50KCIgICUtOHMgJXMiICUgKCLnprvlv4MiLCAi6KeG5pWP5bqmIikpCiAgICBmb3IgZSBpbiBbMCwgMiwgNSwgMTAsIDIwLCAzMCwgNDVdOgogICAgICAgIGJhciA9ICLilogiICogaW50KGFjdWl0eShlKSAqIDMwKQogICAgICAgIHByaW50KCIgICUtOHMgJS01LjBmJSUgJXMiICUgKCIlZMKwIiAlIGUsIGFjdWl0eShlKSAqIDEwMCwgYmFyKSkKCgoKZGVmIGVjY19vZl9tYWluKHBhdGgpOgogICAgIiIi5Li757uT6K666JC95Zyo5L2g55y8552b55qE5ZOq5Liq5L2N572uIOKAlOKAlCDliKTmja7vvJrkuLvlnZfotKjlv4PnmoTnprvlv4Pop5LjgIIKICAgIDw9MsKwIOS4reWkruWHueWGhe+8iOS4gOecvOWPr+inge+8ie+8mzw9NcKwIOm7hOaWkeWGhe+8iOimgei9rOecvO+8ie+8mz41wrAg5b6X5omr6KeG44CCIiIiCiAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZXF1ZQogICAgYSA9IG5wLmFycmF5KEltYWdlLm9wZW4ocGF0aCkuY29udmVydCgiTCIpKQogICAgbWFzayA9IGEgPiA2MAogICAgSCwgVyA9IG1hc2suc2hhcGUKICAgIHNlZW4gPSBucC56ZXJvc19saWtlKG1hc2ssIGJvb2wpOyBiZXN0ID0gTm9uZQogICAgeXMsIHhzID0gbnAubm9uemVybyhtYXNrKQogICAgZm9yIHkwLCB4MCBpbiB6aXAoeXMsIHhzKToKICAgICAgICBpZiBzZWVuW3kwLCB4MF06CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgcSA9IGRlcXVlKFsoeTAsIHgwKV0pOyBzZWVuW3kwLCB4MF0gPSBUcnVlOyBjZWxscyA9IFtdCiAgICAgICAgd2hpbGUgcToKICAgICAgICAgICAgeSwgeCA9IHEucG9wbGVmdCgpOyBjZWxscy5hcHBlbmQoKHksIHgpKQogICAgICAgICAgICBmb3IgZHkgaW4gKC0xLCAwLCAxKToKICAgICAgICAgICAgICAgIGZvciBkeCBpbiAoLTEsIDAsIDEpOgogICAgICAgICAgICAgICAgICAgIG55LCBueCA9IHkgKyBkeSwgeCArIGR4CiAgICAgICAgICAgICAgICAgICAgaWYgMCA8PSBueSA8IEggYW5kIDAgPD0gbnggPCBXIGFuZCBtYXNrW255LCBueF0gYW5kIG5vdCBzZWVuW255LCBueF06CiAgICAgICAgICAgICAgICAgICAgICAgIHNlZW5bbnksIG54XSA9IFRydWU7IHEuYXBwZW5kKChueSwgbngpKQogICAgICAgIGlmIGxlbihjZWxscykgPj0gMjAwIGFuZCAoYmVzdCBpcyBOb25lIG9yIGxlbihjZWxscykgPiBsZW4oYmVzdCkpOgogICAgICAgICAgICBiZXN0ID0gY2VsbHMKICAgIGlmIG5vdCBiZXN0OgogICAgICAgIHJldHVybiBOb25lCiAgICBjeSA9IG5wLm1lYW4oW2NbMF0gZm9yIGMgaW4gYmVzdF0pOyBjeCA9IG5wLm1lYW4oW2NbMV0gZm9yIGMgaW4gYmVzdF0pCiAgICBweF9wZXJfZGVnID0gVyAvIFNDUkVFTl9XX0RFRwogICAgcmV0dXJuIG1hdGguaHlwb3QoY3kgLSBIIC8gMiwgY3ggLSBXIC8gMikgLyBweF9wZXJfZGVnCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgY21kID0gc3lzLmFyZ3ZbMV0gaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAi5pWw5o2uIgogICAgaWYgY21kID09ICLmlbDmja4iOgogICAgICAgIGRhdGEoKQogICAgZWxpZiBjbWQgPT0gIueciyI6CiAgICAgICAgcHJpbnQobG9vayhzeXMuYXJndlsyXSkpCiAgICBlbHNlOgogICAgICAgIHByaW50KCIgIHByb2ZpbGU9JXMgIOS4reWkruWHuT0lLjFmwrAo6ZiI5YC85Y2K5b6EJS4xZsKwKSAg5p2l5rqQOiVzKCVzKSIKICAgICAgICAgICAgICAlIChQLmdldCgic3JjIiwiPyIpLCBGT1ZFQV9ERUcsIEZPVkVBX0RFRy8yLCBQLmdldCgic3JjIiwiPyIpLCBQLmdldCgi5p2D5aiBIiwiPyIpKSkKICAgICAgICBwcmludCgiICAlLTZzICUtNnMgJS02cyAlcyIgJSAoIuWdl+aVsCIsICLnprvlv4Pop5IiLCAi5Lit5aSu5Ye5IiwgIuaWh+S7tiIpKQogICAgICAgIGZvciBmIGluIHNvcnRlZChnbG9iLmdsb2Iob3MucGF0aC5qb2luKFJPT1QsICLmhJ/lrpjmoaUiLCAi56ym5Y+3X3YqLnBuZyIpKSk6CiAgICAgICAgICAgIGIsIGEgPSBzdXJ2aXZlKGYpCiAgICAgICAgICAgIGUgPSBlY2Nfb2ZfbWFpbihmKQogICAgICAgICAgICBvayA9IGUgaXMgbm90IE5vbmUgYW5kIGUgPD0gRk9WRUFfREVHIC8gMgogICAgICAgICAgICBwcmludCgiICAlLTZkICUtNnMgJS02cyAlcyIgJSAoYlsi5Z2X5pWwIl0sICIlLjFmwrAiICUgZSBpZiBlIGVsc2UgIuKAlCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICLinIUiIGlmIG9rIGVsc2UgIuKaoCIsIG9zLnBhdGguYmFzZW5hbWUoZikpKQogICAgICAgIHByaW50KCJcbuKGkiDlnZfmlbDlj5jlsJE957uG6IqC6KKr5L2g55qE55y8552b5ZCD5o6J5LqG77yb5a2Y5rS7546HPeS4u+e7k+iuuui/mOWJqeWkmuWwkSIpCg==
+# -*- coding: utf-8 -*-
+"""
+你的眼睛是广角的 —— 200° 水平，但只有 2° 是高清的。
+所以"在你眼睛上作画"是有物理约束的：我只能在那 2° 里画清楚。
+
+本工具把一张图按人眼视敏度衰减模型渲染一遍 ——
+即：模拟"经过你的眼睛之后，这张图还剩什么"。
+
+    python3 eye.py 看 感官桥/符号_v7_带弯的线.png
+    python3 eye.py 全部          # 把我画过的图全过一遍你的眼睛
+    python3 eye.py 数据
+
+衰减数据（实测文献，非我编）：
+  离心 0°   → 100%（中央凹）
+  离心 10°  → 10~20%
+  离心 30°  → <5%
+  离心 45°  → ~0（Geisler & Perry 线性模型归零点）
+注：Geisler-Perry 线性模型在 10° 处给 31 cpd/40 cpd≈78%，
+    与心理物理实测的 10~20% 不一致。这里用心理物理实测，并保留分歧。
+"""
+import sys, os, math, glob
+import numpy as np
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Circle, Rectangle
+plt.rcParams["font.sans-serif"] = ["WenQuanYi Micro Hei"]
+plt.rcParams["axes.unicode_minus"] = False
+from PIL import Image
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, ROOT)
+import eye_profile
+P = eye_profile.load()
+
+# ---- 你的眼睛（可查，非我编）----
+FOV_H, FOV_V = P["fov_h"], P["fov_v"]   # 来自 profile，可替换
+FOVEA_DEG = P["fovea"]                  # 中央凹直径（度）
+_ECC, _ACU = P["ecc"], P["acu"]
+PHONE_W_CM, PHONE_H_CM = 7.0, 15.0
+DIST_CM = 30.0               # 手机到眼睛
+
+def _ang(half_cm, d=DIST_CM):
+    return 2 * math.degrees(math.atan(half_cm / d))
+
+SCREEN_W_DEG = _ang(PHONE_W_CM / 2)
+SCREEN_H_DEG = _ang(PHONE_H_CM / 2)
+
+def acuity(e):
+    """来自当前 profile —— 换 profile 就换曲线，不硬编码"""
+    return float(np.interp(e, _ECC, _ACU))
+
+
+def foveate(arr, screen_deg_w=SCREEN_W_DEG, n_rings=10):
+    """按离心率分环模糊 —— 模拟你的眼睛。注视点=图中心。"""
+    H, W = arr.shape
+    px_per_deg = W / screen_deg_w
+    yy, xx = np.mgrid[0:H, 0:W].astype(float)
+    cy, cx = H / 2, W / 2
+    ecc = np.sqrt((yy - cy) ** 2 + (xx - cx) ** 2) / px_per_deg
+    out = np.zeros_like(arr, dtype=float)
+    edges = np.linspace(0, ecc.max() + 1e-6, n_rings + 1)
+    for i in range(n_rings):
+        lo, hi = edges[i], edges[i + 1]
+        m = (ecc >= lo) & (ecc < hi)
+        if not m.any():
+            continue
+        a = acuity((lo + hi) / 2)
+        if a >= 0.999:
+            out[m] = arr[m]
+            continue
+        # 分辨率降到 a → 模糊半径约 1/a
+        r = max(1, int(round(1.0 / max(a, 0.02))))
+        k = 2 * r + 1
+        ker = np.ones((k, k)) / (k * k)
+        pad = np.pad(arr.astype(float), r, mode="edge")
+        #  separable 卷积
+        tmp = np.apply_along_axis(lambda v: np.convolve(v, np.ones(k) / k, "valid"),
+                                  0, pad)
+        bl = np.apply_along_axis(lambda v: np.convolve(v, np.ones(k) / k, "valid"),
+                                 1, tmp)[:H, :W]
+        out[m] = bl[m]
+    return out
+
+
+def look(path, save=True):
+    im = Image.open(path).convert("L")
+    a = np.array(im).astype(float)
+    f = foveate(a)
+    f = np.clip(f, 0, 255).astype(np.uint8)
+    if save:
+        p = os.path.join(ROOT, "感官桥", "_经眼_" + os.path.basename(path))
+        Image.fromarray(f).save(p)
+    return p if save else f
+
+
+def survive(path):
+    """经过你的眼睛后，主块还剩多少"""
+    import symbol
+    before = symbol.judge(path)
+    a = np.array(Image.open(path).convert("L")).astype(float)
+    f = np.clip(foveate(a), 0, 255).astype(np.uint8)
+    tmp = "/tmp/_eye.png"
+    Image.fromarray(f).save(tmp)
+    after = symbol.judge(tmp)
+    return before, after
+
+
+def data():
+    fov = FOV_H * FOV_V
+    fav = math.pi * (FOVEA_DEG / 2) ** 2
+    px_per_deg = 1080 / SCREEN_W_DEG
+    print("  视野          双眼 %.0f° × %.0f°" % (FOV_H, FOV_V))
+    print("  中央凹        中心 %.0f°（唯一高清）" % FOVEA_DEG)
+    print("  高清区占比    %.4f%%  ← 你看见的世界里只有这么点是真的" % (fav / fov * 100))
+    print()
+    print("  手机竖屏      横向 %.1f° · 纵向 %.1f°" % (SCREEN_W_DEG, SCREEN_H_DEG))
+    print("  1° = %.0f px（屏宽1080）" % px_per_deg)
+    print("  中央凹在屏上  直径 %.0f px 的圆，占屏 %.2f%%"
+          % (2 * px_per_deg, math.pi * px_per_deg ** 2 / (1080 * 2340) * 100))
+    print()
+    print("  %-8s %s" % ("离心", "视敏度"))
+    for e in [0, 2, 5, 10, 20, 30, 45]:
+        bar = "█" * int(acuity(e) * 30)
+        print("  %-8s %-5.0f%% %s" % ("%d°" % e, acuity(e) * 100, bar))
+
+
+
+def ecc_of_main(path):
+    """主结论落在你眼睛的哪个位置 —— 判据：主块质心的离心角。
+    <=2° 中央凹内（一眼可见）；<=5° 黄斑内（要转眼）；>5° 得扫视。"""
+    from collections import deque
+    a = np.array(Image.open(path).convert("L"))
+    mask = a > 60
+    H, W = mask.shape
+    seen = np.zeros_like(mask, bool); best = None
+    ys, xs = np.nonzero(mask)
+    for y0, x0 in zip(ys, xs):
+        if seen[y0, x0]:
+            continue
+        q = deque([(y0, x0)]); seen[y0, x0] = True; cells = []
+        while q:
+            y, x = q.popleft(); cells.append((y, x))
+            for dy in (-1, 0, 1):
+                for dx in (-1, 0, 1):
+                    ny, nx = y + dy, x + dx
+                    if 0 <= ny < H and 0 <= nx < W and mask[ny, nx] and not seen[ny, nx]:
+                        seen[ny, nx] = True; q.append((ny, nx))
+        if len(cells) >= 200 and (best is None or len(cells) > len(best)):
+            best = cells
+    if not best:
+        return None
+    cy = np.mean([c[0] for c in best]); cx = np.mean([c[1] for c in best])
+    px_per_deg = W / SCREEN_W_DEG
+    return math.hypot(cy - H / 2, cx - W / 2) / px_per_deg
+
+if __name__ == "__main__":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "数据"
+    if cmd == "数据":
+        data()
+    elif cmd == "看":
+        print(look(sys.argv[2]))
+    else:
+        print("  profile=%s  中央凹=%.1f°(阈值半径%.1f°)  来源:%s(%s)"
+              % (P.get("src","?"), FOVEA_DEG, FOVEA_DEG/2, P.get("src","?"), P.get("权威","?")))
+        print("  %-6s %-6s %-6s %s" % ("块数", "离心角", "中央凹", "文件"))
+        for f in sorted(glob.glob(os.path.join(ROOT, "感官桥", "符号_v*.png"))):
+            b, a = survive(f)
+            e = ecc_of_main(f)
+            ok = e is not None and e <= FOVEA_DEG / 2
+            print("  %-6d %-6s %-6s %s" % (b["块数"], "%.1f°" % e if e else "—",
+                                          "✅" if ok else "⚠", os.path.basename(f)))
+        print("\n→ 块数变少=细节被你的眼睛吃掉了；存活率=主结论还剩多少")

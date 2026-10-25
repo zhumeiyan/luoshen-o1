@@ -1,1 +1,368 @@
-IiIiUnVuIGFuIGV4cG9ydGVkIEdvMiB2ZWxvY2l0eSBwb2xpY3kgaW4gTXVKb0NvLgoKcHl0aG9uIGRlcGxveS9kZXBsb3lfbXVqb2NvL2RlcGxveV9nbzIucHkgXAogICAgLS1wb2xpY3kgbG9ncy9yc2xfcmwvZ28yX21peGVkLzxydW4+L2V4cG9ydGVkL3BvbGljeS5wdCBcCiAgICAtLXRlcnJhaW4gZmxhdCAtLWNvbW1hbmQgMS4wIDAuMCAwLjAKClRoZSBwb2xpY3kgY29uc3VtZXMgb25lIDQ1LWRpbWVuc2lvbmFsIHByb3ByaW9jZXB0aXZlIGZyYW1lIGFuZCBtYWludGFpbnMgaXRzCjEwLWZyYW1lIG9ic2VydmF0aW9uIGhpc3RvcnkgaW50ZXJuYWxseS4gQ29tbWFuZHMgYXJlIGJvZHktZnJhbWUgbGluZWFyCnZlbG9jaXRpZXMgYW5kIHlhdyByYXRlIFt2eCwgdnksIHlhd19yYXRlXSBpbiBbbS9zLCBtL3MsIHJhZC9zXS4gVGhlIGdhbWVwYWQncwpsZWZ0IHN0aWNrIGNvbnRyb2xzIGZvcndhcmQvbGF0ZXJhbCB2ZWxvY2l0eSBhbmQgaXRzIHJpZ2h0IHN0aWNrIGNvbnRyb2xzIHlhdy4KVXNlIC0tbm8tam95c3RpY2sgZm9yIHNjcmlwdGVkIGNvbW1hbmRzIGFuZCAtLWhlYWRsZXNzIC0tbm8tcmVhbC10aW1lIGZvciBiYXRjaApydW5zLiBTZXQgTVVKT0NPX0dMPWVnbCB3aGVuIHJlY29yZGluZyBhbiBvZmZzY3JlZW4gdmlkZW8uCkNQVSBpbmZlcmVuY2UgdXNlcyBvbmUgdGhyZWFkIGJ5IGRlZmF1bHQ7IHR1bmUgaXQgd2l0aCAtLWluZmVyZW5jZS10aHJlYWRzLgpUaGUgaW50ZXJhY3RpdmUgdmlld2VyIHJlZnJlc2hlcyBhdCAtLXZpZXdlci1mcHMgKGRlZmF1bHQgNjApIGluZGVwZW5kZW50bHkgb2YgcGh5c2ljcy4KIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IG1hdGgKaW1wb3J0IHRpbWUKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgppbXBvcnQgbXVqb2NvCmltcG9ydCBtdWpvY28udmlld2VyCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgdG9yY2gKCmZyb20gdXRpbHMubXVqb2NvIGltcG9ydCAoCiAgICBERVBMT1lfRElSLAogICAgY2xpcF90b3JxdWVfc3BlZWQsCiAgICBjb25maWd1cmVfbXVqb2NvLAogICAgZXh0cmFjdF9wb2xpY3lfYWN0aW9uLAogICAgZ2V0X2dyYXZpdHlfb3JpZW50YXRpb24sCiAgICBnZXRfam9pbnRfaW5kaWNlcywKICAgIGdldF92ZWxvY2l0eV9qb3lzdGlja19jb21tYW5kLAogICAgaW5pdGlhbGl6ZV9qb3lzdGljaywKICAgIGxvYWRfY29uZmlnLAogICAgcGRfY29udHJvbCwKICAgIHF1YXRfcm90YXRlX2ludmVyc2UsCiAgICByZXNvbHZlX21vZGVsX3BhdGgsCiAgICByZXNvbHZlX3BvbGljeV9wYXRoLAopCmZyb20gdXRpbHMucmVuZGVyX3V0aWxzIGltcG9ydCBNdWpvY29SZW5kZXJVdGlscwoKCkRFRkFVTFRfQ09ORklHX1BBVEggPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50IC8gImNvbmZpZy55YW1sIgoKCmRlZiBidWlsZF9hcmdfcGFyc2VyKCkgLT4gYXJncGFyc2UuQXJndW1lbnRQYXJzZXI6CiAgICAiIiJCdWlsZCB0aGUgdmVsb2NpdHkgZGVwbG95bWVudCBjb21tYW5kLWxpbmUgYXJndW1lbnRzLiIiIgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249IlJ1biBhbiBleHBvcnRlZCBHbzIgdmVsb2NpdHkgcG9saWN5IGluIE11Sm9Dby4iKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1jb25maWciLCB0eXBlPVBhdGgsIGRlZmF1bHQ9REVGQVVMVF9DT05GSUdfUEFUSCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tcG9saWN5IiwgdHlwZT1zdHIsIGRlZmF1bHQ9Tm9uZSwgaGVscD0iT3ZlcnJpZGUgY29uZmlnIHBvbGljeV9wYXRoLiIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXRlcnJhaW4iLCB0eXBlPXN0ciwgZGVmYXVsdD1Ob25lLCBoZWxwPSJUZXJyYWluIG5hbWUgZnJvbSB0aGUgY29uZmlnLiIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXhtbCIsIHR5cGU9c3RyLCBkZWZhdWx0PU5vbmUsIGhlbHA9IlVzZSBhIGN1c3RvbSBNdUpvQ28gc2NlbmUgWE1MLiIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLWNvbW1hbmQiLAogICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgbmFyZ3M9MywKICAgICAgICBtZXRhdmFyPSgiVlgiLCAiVlkiLCAiWUFXX1JBVEUiKSwKICAgICAgICBoZWxwPSJCb2R5LWZyYW1lIHZlbG9jaXR5IFt2eCwgdnksIHlhd19yYXRlXSBpbiBbbS9zLCBtL3MsIHJhZC9zXS4iLAogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1kdXJhdGlvbiIsIHR5cGU9ZmxvYXQsIGRlZmF1bHQ9Tm9uZSwgaGVscD0iTWF4aW11bSB3YWxsLWNsb2NrIGR1cmF0aW9uIGluIHNlY29uZHMuIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tbm8tam95c3RpY2siLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSJJZ25vcmUgdGhlIGpveXN0aWNrIGFuZCB1c2UgdGhlIGNvbmZpZyBjb21tYW5kLiIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLW5vLXJlYWwtdGltZSIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWluZmVyZW5jZS10aHJlYWRzIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MSwgaGVscD0iQ1BVIHRocmVhZHMgZm9yIHBvbGljeSBpbmZlcmVuY2UuIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tdmlld2VyLWZwcyIsIHR5cGU9ZmxvYXQsIGRlZmF1bHQ9NjAuMCwgaGVscD0iTWF4aW11bSBpbnRlcmFjdGl2ZSB2aWV3ZXIgcmVmcmVzaCByYXRlLiIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWhlYWRsZXNzIiwgYWN0aW9uPSJzdG9yZV90cnVlIiwgaGVscD0iUnVuIHdpdGhvdXQgdGhlIGludGVyYWN0aXZlIE11Sm9DbyB2aWV3ZXIuIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tc2F2ZS12aWRlbyIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXZpZGVvLXBhdGgiLCB0eXBlPVBhdGgsIGRlZmF1bHQ9Tm9uZSkKICAgIHJldHVybiBwYXJzZXIKCgpjbGFzcyBWZWxvY2l0eURlcGxveW1lbnQ6CiAgICAiIiJSdW4gYW4gZXhwb3J0ZWQgcHJvcHJpb2NlcHRpdmUgdmVsb2NpdHkgcG9saWN5IHdpdGggdGhlIHRyYWluaW5nIG1vdG9yIG1vZGVsLiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmdzOiBhcmdwYXJzZS5OYW1lc3BhY2UsIGNvbmZpZ19wYXRoOiBQYXRoKSAtPiBOb25lOgogICAgICAgICIiIlJldGFpbiB0aGUgZGVwbG95bWVudCBhcmd1bWVudHMgYW5kIGNvbmZpZ3VyYXRpb24gcGF0aC4iIiIKICAgICAgICBzZWxmLmFyZ3MgPSBhcmdzCiAgICAgICAgc2VsZi5jb25maWdfcGF0aCA9IGNvbmZpZ19wYXRoCgogICAgZGVmIHJ1bihzZWxmKSAtPiBOb25lOgogICAgICAgICIiIlJ1biBwaHlzaWNzIGFuZCBwb2xpY3kgY29udHJvbCB3aXRoIGluZGVwZW5kZW50bHkgcGFjZWQgdmlzdWFsaXphdGlvbi4iIiIKICAgICAgICBhcmdzID0gc2VsZi5hcmdzCiAgICAgICAgaWYgYXJncy5pbmZlcmVuY2VfdGhyZWFkcyA8IDE6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImluZmVyZW5jZV90aHJlYWRzIG11c3QgYmUgYXQgbGVhc3Qgb25lIikKICAgICAgICBpZiBub3QgbWF0aC5pc2Zpbml0ZShhcmdzLnZpZXdlcl9mcHMpIG9yIGFyZ3Mudmlld2VyX2ZwcyA8PSAwLjA6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoInZpZXdlcl9mcHMgbXVzdCBiZSBmaW5pdGUgYW5kIHBvc2l0aXZlIikKICAgICAgICB0b3JjaC5zZXRfbnVtX3RocmVhZHMoYXJncy5pbmZlcmVuY2VfdGhyZWFkcykKICAgICAgICBjb25maWcgPSBsb2FkX2NvbmZpZyhzZWxmLmNvbmZpZ19wYXRoKQogICAgICAgIGNvbW1hbmRfa2luZCA9IHN0cihjb25maWcuZ2V0KCJjb21tYW5kX2tpbmQiLCAiIikpCiAgICAgICAgaWYgY29tbWFuZF9raW5kICE9ICJjb21tYW5kL2JvZHkvdmVsb2NpdHkiOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiRXhwZWN0ZWQgY29tbWFuZF9raW5kPWNvbW1hbmQvYm9keS92ZWxvY2l0eSwgZ290IHtjb21tYW5kX2tpbmQhcn0uIikKICAgICAgICBjb25maWd1cmVkX2NvbW1hbmQgPSBucC5hc2FycmF5KAogICAgICAgICAgICBhcmdzLmNvbW1hbmQgaWYgYXJncy5jb21tYW5kIGlzIG5vdCBOb25lIGVsc2UgY29uZmlnWyJjb21tYW5kIl0sIGR0eXBlPW5wLmZsb2F0MzIKICAgICAgICApCiAgICAgICAgbWF4aW11bV92ZWxvY2l0eV9jb21tYW5kID0gbnAuYXNhcnJheShjb25maWdbIm1heF92ZWxvY2l0eV9jb21tYW5kIl0sIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgZm9yIG5hbWUsIHZhbHVlIGluICgKICAgICAgICAgICAgKCJjb21tYW5kIiwgY29uZmlndXJlZF9jb21tYW5kKSwKICAgICAgICAgICAgKCJtYXhfdmVsb2NpdHlfY29tbWFuZCIsIG1heGltdW1fdmVsb2NpdHlfY29tbWFuZCksCiAgICAgICAgKToKICAgICAgICAgICAgaWYgdmFsdWUuc2hhcGUgIT0gKDMsKSBvciBub3QgbnAuYWxsKG5wLmlzZmluaXRlKHZhbHVlKSk6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYie25hbWV9IG11c3QgY29udGFpbiB0aHJlZSBmaW5pdGUgdmFsdWVzIikKICAgICAgICBpZiBucC5hbnkobWF4aW11bV92ZWxvY2l0eV9jb21tYW5kIDwgMC4wKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigibWF4X3ZlbG9jaXR5X2NvbW1hbmQgbXVzdCBjb250YWluIG5vbm5lZ2F0aXZlIHZlbG9jaXR5IGxpbWl0cyIpCgogICAgICAgIHJhd19wb2xpY3lfcGF0aCA9IGFyZ3MucG9saWN5IG9yIGNvbmZpZ1sicG9saWN5X3BhdGgiXQogICAgICAgIGlmIG5vdCByYXdfcG9saWN5X3BhdGg6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIlNldCBwb2xpY3lfcGF0aCBpbiB0aGUgY29uZmlnIG9yIHBhc3MgLS1wb2xpY3kgL3BhdGgvdG8vZXhwb3J0ZWQvcG9saWN5LnB0IikKICAgICAgICBwb2xpY3lfcGF0aCA9IHJlc29sdmVfcG9saWN5X3BhdGgocmF3X3BvbGljeV9wYXRoLCBzZWxmLmNvbmZpZ19wYXRoKQogICAgICAgIGlmIG5vdCBwb2xpY3lfcGF0aC5pc19maWxlKCk6CiAgICAgICAgICAgIHJhaXNlIEZpbGVOb3RGb3VuZEVycm9yKGYiUG9saWN5IGRvZXMgbm90IGV4aXN0OiB7cG9saWN5X3BhdGh9IikKCiAgICAgICAgdGVycmFpbiA9IGFyZ3MudGVycmFpbiBvciBjb25maWdbInRlcnJhaW4iXQogICAgICAgIHhtbF9wYXRoID0gcmVzb2x2ZV9tb2RlbF9wYXRoKGNvbmZpZywgdGVycmFpbiwgYXJncy54bWwpCiAgICAgICAgaWYgbm90IHhtbF9wYXRoLmlzX2ZpbGUoKToKICAgICAgICAgICAgcmFpc2UgRmlsZU5vdEZvdW5kRXJyb3IoZiJNdUpvQ28gbW9kZWwgZG9lcyBub3QgZXhpc3Q6IHt4bWxfcGF0aH0iKQoKICAgICAgICBtb2RlbCA9IG11am9jby5Nak1vZGVsLmZyb21feG1sX3BhdGgoc3RyKHhtbF9wYXRoKSkKICAgICAgICBkYXRhID0gbXVqb2NvLk1qRGF0YShtb2RlbCkKICAgICAgICBjb25maWd1cmVfbXVqb2NvKG1vZGVsLCBjb25maWcpCgogICAgICAgIG51bV9hY3Rpb25zID0gaW50KGNvbmZpZ1sibnVtX2FjdGlvbnMiXSkKICAgICAgICBudW1fb2JzZXJ2YXRpb25zID0gaW50KGNvbmZpZ1sibnVtX29icyJdKQogICAgICAgIGlmIG51bV9vYnNlcnZhdGlvbnMgIT0gOSArIDMgKiBudW1fYWN0aW9uczoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiRXhwZWN0ZWQgbnVtX29icyA9IDkgKyAzICogbnVtX2FjdGlvbnMgZm9yIHRoZSBjdXJyZW50IHBvbGljeSBvYnNlcnZhdGlvbiBsYXlvdXQiKQoKICAgICAgICBtdWpvY29fam9pbnRfbmFtZXMgPSBsaXN0KGNvbmZpZ1sibXVqb2NvX2pvaW50X25hbWVzIl0pCiAgICAgICAgcG9saWN5X2pvaW50X25hbWVzID0gbGlzdChjb25maWdbInBvbGljeV9qb2ludF9uYW1lcyJdKQogICAgICAgIGlmIHNldChtdWpvY29fam9pbnRfbmFtZXMpICE9IHNldChwb2xpY3lfam9pbnRfbmFtZXMpIG9yIGxlbihtdWpvY29fam9pbnRfbmFtZXMpICE9IG51bV9hY3Rpb25zOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJNdUpvQ28gYW5kIHBvbGljeSBqb2ludC1uYW1lIGxpc3RzIG11c3QgY29udGFpbiB0aGUgc2FtZSBudW1fYWN0aW9ucyBqb2ludHMiKQoKICAgICAgICBwb2xpY3lfZnJvbV9tdWpvY28gPSBucC5hcnJheShbbXVqb2NvX2pvaW50X25hbWVzLmluZGV4KG5hbWUpIGZvciBuYW1lIGluIHBvbGljeV9qb2ludF9uYW1lc10pCiAgICAgICAgbXVqb2NvX2Zyb21fcG9saWN5ID0gbnAuYXJyYXkoW3BvbGljeV9qb2ludF9uYW1lcy5pbmRleChuYW1lKSBmb3IgbmFtZSBpbiBtdWpvY29fam9pbnRfbmFtZXNdKQogICAgICAgIHFwb3NfaW5kaWNlcywgcXZlbF9pbmRpY2VzLCBhY3R1YXRvcl9pbmRpY2VzID0gZ2V0X2pvaW50X2luZGljZXMobW9kZWwsIG11am9jb19qb2ludF9uYW1lcykKCiAgICAgICAgc3RpZmZuZXNzX3BvbGljeSA9IG5wLmFzYXJyYXkoY29uZmlnWyJrcHMiXSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBkYW1waW5nX3BvbGljeSA9IG5wLmFzYXJyYXkoY29uZmlnWyJrZHMiXSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBkZWZhdWx0X3Bvc2l0aW9uX3BvbGljeSA9IG5wLmFzYXJyYXkoY29uZmlnWyJkZWZhdWx0X2FuZ2xlcyJdLCBkdHlwZT1ucC5mbG9hdDMyKQogICAgICAgIGZvciBuYW1lLCB2YWx1ZSBpbiAoCiAgICAgICAgICAgICgia3BzIiwgc3RpZmZuZXNzX3BvbGljeSksCiAgICAgICAgICAgICgia2RzIiwgZGFtcGluZ19wb2xpY3kpLAogICAgICAgICAgICAoImRlZmF1bHRfYW5nbGVzIiwgZGVmYXVsdF9wb3NpdGlvbl9wb2xpY3kpLAogICAgICAgICk6CiAgICAgICAgICAgIGlmIHZhbHVlLnNoYXBlICE9IChudW1fYWN0aW9ucywpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIntuYW1lfSBtdXN0IGNvbnRhaW4ge251bV9hY3Rpb25zfSB2YWx1ZXMiKQoKICAgICAgICBzdGlmZm5lc3NfbXVqb2NvID0gc3RpZmZuZXNzX3BvbGljeVttdWpvY29fZnJvbV9wb2xpY3ldCiAgICAgICAgZGFtcGluZ19tdWpvY28gPSBkYW1waW5nX3BvbGljeVttdWpvY29fZnJvbV9wb2xpY3ldCiAgICAgICAgZGVmYXVsdF9wb3NpdGlvbl9tdWpvY28gPSBkZWZhdWx0X3Bvc2l0aW9uX3BvbGljeVttdWpvY29fZnJvbV9wb2xpY3ldCiAgICAgICAgZGF0YS5xcG9zW3Fwb3NfaW5kaWNlc10gPSBkZWZhdWx0X3Bvc2l0aW9uX211am9jbwogICAgICAgIG11am9jby5tal9mb3J3YXJkKG1vZGVsLCBkYXRhKQoKICAgICAgICBwb2xpY3kgPSB0b3JjaC5qaXQubG9hZChzdHIocG9saWN5X3BhdGgpLCBtYXBfbG9jYXRpb249ImNwdSIpCiAgICAgICAgcG9saWN5LmV2YWwoKQogICAgICAgIGlmIGhhc2F0dHIocG9saWN5LCAicmVzZXQiKToKICAgICAgICAgICAgcG9saWN5LnJlc2V0KCkKCiAgICAgICAgY29tbWFuZF9zY2FsZSA9IG5wLmFzYXJyYXkoY29uZmlnWyJjb21tYW5kX3NjYWxlIl0sIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgaWYgY29tbWFuZF9zY2FsZS5zaGFwZSAhPSAoMywpIG9yIG5vdCBucC5hbGwobnAuaXNmaW5pdGUoY29tbWFuZF9zY2FsZSkpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJjb21tYW5kX3NjYWxlIG11c3QgY29udGFpbiB0aHJlZSBmaW5pdGUgdmFsdWVzLiIpCgogICAgICAgIGFjdGlvbiA9IG5wLnplcm9zKG51bV9hY3Rpb25zLCBkdHlwZT1ucC5mbG9hdDMyKQogICAgICAgIHRhcmdldF9wb3NpdGlvbl9tdWpvY28gPSBkZWZhdWx0X3Bvc2l0aW9uX211am9jby5jb3B5KCkKICAgICAgICBvYnNlcnZhdGlvbiA9IG5wLnplcm9zKG51bV9vYnNlcnZhdGlvbnMsIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgb2JzZXJ2YXRpb25fdGVuc29yID0gdG9yY2guZnJvbV9udW1weShvYnNlcnZhdGlvbikudW5zcXVlZXplKDApCiAgICAgICAgIyBDb21waWxlL3dhcm0gdGhlIHN0YXRlZnVsIGV4cG9ydCBiZWZvcmUgc3RhcnRpbmcgdGhlIHNpbXVsYXRpb24gY2xvY2suCiAgICAgICAgIyBSZXN0b3JlIGhpc3Rvcnkgc28gd2FybXVwIG9ic2VydmF0aW9ucyBjYW5ub3QgYWZmZWN0IHRoZSBmaXJzdCBhY3Rpb24uCiAgICAgICAgaWYgaGFzYXR0cihwb2xpY3ksICJyZXNldCIpOgogICAgICAgICAgICB3aXRoIHRvcmNoLmluZmVyZW5jZV9tb2RlKCk6CiAgICAgICAgICAgICAgICBmb3IgXyBpbiByYW5nZSgxMCk6CiAgICAgICAgICAgICAgICAgICAgcG9saWN5KG9ic2VydmF0aW9uX3RlbnNvcikKICAgICAgICAgICAgICAgIHBvbGljeS5yZXNldCgpCgogICAgICAgIGNvbnRyb2xfZGVjaW1hdGlvbiA9IGludChjb25maWdbImNvbnRyb2xfZGVjaW1hdGlvbiJdKQogICAgICAgIGlmIGNvbnRyb2xfZGVjaW1hdGlvbiA8IDE6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoImNvbnRyb2xfZGVjaW1hdGlvbiBtdXN0IGJlIGF0IGxlYXN0IG9uZSIpCiAgICAgICAgY29udHJvbF9kdCA9IG1vZGVsLm9wdC50aW1lc3RlcCAqIGNvbnRyb2xfZGVjaW1hdGlvbgogICAgICAgIGR1cmF0aW9uID0gZmxvYXQoYXJncy5kdXJhdGlvbiBpZiBhcmdzLmR1cmF0aW9uIGlzIG5vdCBOb25lIGVsc2UgY29uZmlnWyJzaW11bGF0aW9uX2R1cmF0aW9uIl0pCiAgICAgICAgcmVhbF90aW1lID0gYm9vbChjb25maWdbInJlYWxfdGltZSJdKSBhbmQgbm90IGFyZ3Mubm9fcmVhbF90aW1lCiAgICAgICAgcHlnYW1lLCBqb3lzdGljayA9IGluaXRpYWxpemVfam95c3RpY2soYm9vbChjb25maWdbImpveXN0aWNrIl0pIGFuZCBub3QgYXJncy5ub19qb3lzdGljaykKICAgICAgICBjb21tYW5kX3NvdXJjZSA9ICJqb3lzdGljayIgaWYgam95c3RpY2sgaXMgbm90IE5vbmUgZWxzZSAiY29uZmlnIgoKICAgICAgICBkZWYgdXBkYXRlX2NvbW1hbmQoKSAtPiBucC5uZGFycmF5OgogICAgICAgICAgICAiIiJTYW1wbGUgYm9keS1mcmFtZSB2ZWxvY2l0eSBmcm9tIHRoZSBqb3lzdGljayBvciBzY3JpcHRlZCBjb21tYW5kLiIiIgogICAgICAgICAgICBpZiBqb3lzdGljayBpcyBOb25lOgogICAgICAgICAgICAgICAgcmV0dXJuIGNvbmZpZ3VyZWRfY29tbWFuZAogICAgICAgICAgICByZXR1cm4gZ2V0X3ZlbG9jaXR5X2pveXN0aWNrX2NvbW1hbmQocHlnYW1lLCBqb3lzdGljaywgbWF4aW11bV92ZWxvY2l0eV9jb21tYW5kKQoKICAgICAgICBjb21tYW5kID0gdXBkYXRlX2NvbW1hbmQoKQogICAgICAgIHJlbmRlcl91dGlscyA9IE11am9jb1JlbmRlclV0aWxzKCkKCiAgICAgICAgdmlkZW9fcmVuZGVyZXIgPSBOb25lCiAgICAgICAgdmlkZW9fd3JpdGVyID0gTm9uZQogICAgICAgIHZpZGVvX2ZyYW1lX2ludGVydmFsID0gMQogICAgICAgIGlmIGFyZ3Muc2F2ZV92aWRlbzoKICAgICAgICAgICAgaW1wb3J0IGltYWdlaW8udjIgYXMgaW1hZ2VpbwoKICAgICAgICAgICAgdmlkZW9fcGF0aCA9IGFyZ3MudmlkZW9fcGF0aCBvciBERVBMT1lfRElSIC8gInZpZGVvcyIgLyBmIntwb2xpY3lfcGF0aC5zdGVtfV97dGVycmFpbn0ubXA0IgogICAgICAgICAgICB2aWRlb19wYXRoID0gdmlkZW9fcGF0aC5leHBhbmR1c2VyKCkucmVzb2x2ZSgpCiAgICAgICAgICAgIHZpZGVvX3BhdGgucGFyZW50Lm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICAgICAgdmlkZW9fcmVuZGVyZXIgPSBtdWpvY28uUmVuZGVyZXIobW9kZWwsIGhlaWdodD0zNjAsIHdpZHRoPTY0MCkKICAgICAgICAgICAgdmlkZW9fZnBzID0gNTAKICAgICAgICAgICAgdmlkZW9fZnJhbWVfaW50ZXJ2YWwgPSBtYXgoMSwgcm91bmQoMS4wIC8gKG1vZGVsLm9wdC50aW1lc3RlcCAqIHZpZGVvX2ZwcykpKQogICAgICAgICAgICB2aWRlb193cml0ZXIgPSBpbWFnZWlvLmdldF93cml0ZXIodmlkZW9fcGF0aCwgZnBzPXZpZGVvX2ZwcykKICAgICAgICAgICAgcHJpbnQoZiJbSU5GT10gUmVjb3JkaW5nIHZpZGVvIHRvOiB7dmlkZW9fcGF0aH0iKQoKICAgICAgICBwcmludChmIltJTkZPXSBQb2xpY3k6IHtwb2xpY3lfcGF0aH0iKQogICAgICAgIHByaW50KGYiW0lORk9dIFRlcnJhaW46IHt0ZXJyYWlufSAoe3htbF9wYXRofSkiKQogICAgICAgIHByaW50KGYiW0lORk9dIENvbW1hbmQga2luZDoge2NvbW1hbmRfa2luZH0iKQogICAgICAgIHByaW50KGYiW0lORk9dIENvbW1hbmQgc291cmNlOiB7Y29tbWFuZF9zb3VyY2V9IikKICAgICAgICBwcmludChmIltJTkZPXSBQaHlzaWNzIGR0OiB7bW9kZWwub3B0LnRpbWVzdGVwOi40Zn0gcywgY29udHJvbCBkdDoge2NvbnRyb2xfZHQ6LjRmfSBzIikKICAgICAgICBwcmludChmIltJTkZPXSBQRDogS3A9e3N0aWZmbmVzc19wb2xpY3lbMF06Z30sIEtkPXtkYW1waW5nX3BvbGljeVswXTpnfSIpCiAgICAgICAgcHJpbnQoZiJbSU5GT10gQ1BVIGluZmVyZW5jZSB0aHJlYWRzOiB7dG9yY2guZ2V0X251bV90aHJlYWRzKCl9LCB2aWV3ZXIgbGltaXQ6IHthcmdzLnZpZXdlcl9mcHM6Z30gSHoiKQoKICAgICAgICB2aWV3ZXIgPSBOb25lCiAgICAgICAgaWYgbm90IGFyZ3MuaGVhZGxlc3M6CiAgICAgICAgICAgIHZpZXdlciA9IG11am9jby52aWV3ZXIubGF1bmNoX3Bhc3NpdmUobW9kZWwsIGRhdGEpCiAgICAgICAgICAgIHZpZXdlci5jYW0udHlwZSA9IG11am9jby5tanRDYW1lcmEubWpDQU1FUkFfVFJBQ0tJTkcKICAgICAgICAgICAgdmlld2VyLmNhbS50cmFja2JvZHlpZCA9IG11am9jby5tal9uYW1lMmlkKG1vZGVsLCBtdWpvY28ubWp0T2JqLm1qT0JKX0JPRFksICJiYXNlIikKICAgICAgICAgICAgdmlld2VyLmNhbS5kaXN0YW5jZSA9IDIuMAogICAgICAgICAgICB2aWV3ZXIuY2FtLmVsZXZhdGlvbiA9IC0yMC4wCiAgICAgICAgICAgIHZpZXdlci5jYW0uYXppbXV0aCA9IDYwLjAKCiAgICAgICAgZGVmIF9yZXNldF9kZXBsb3ltZW50X2VwaXNvZGUoKSAtPiBOb25lOgogICAgICAgICAgICAiIiJSZXNldCBzaW11bGF0aW9uLCBwb2xpY3kgaGlzdG9yeSBhbmQgY2FjaGVkIGNvbW1hbmQgaW5wdXRzIHRvZ2V0aGVyLiIiIgogICAgICAgICAgICBtdWpvY28ubWpfcmVzZXREYXRhKG1vZGVsLCBkYXRhKQogICAgICAgICAgICBkYXRhLnFwb3NbcXBvc19pbmRpY2VzXSA9IGRlZmF1bHRfcG9zaXRpb25fbXVqb2NvCiAgICAgICAgICAgIGRhdGEuY3RybC5maWxsKDAuMCkKICAgICAgICAgICAgbXVqb2NvLm1qX2ZvcndhcmQobW9kZWwsIGRhdGEpCgogICAgICAgICAgICBhY3Rpb24uZmlsbCgwLjApCiAgICAgICAgICAgIHRhcmdldF9wb3NpdGlvbl9tdWpvY29bOl0gPSBkZWZhdWx0X3Bvc2l0aW9uX211am9jbwogICAgICAgICAgICBvYnNlcnZhdGlvbi5maWxsKDAuMCkKICAgICAgICAgICAgd2l0aCB0b3JjaC5pbmZlcmVuY2VfbW9kZSgpOgogICAgICAgICAgICAgICAgaWYgaGFzYXR0cihwb2xpY3ksICJyZXNldCIpOgogICAgICAgICAgICAgICAgICAgIHBvbGljeS5yZXNldCgpCgogICAgICAgIGNvdW50ZXIgPSAwCiAgICAgICAgcHJldmlvdXNfc2ltX3RpbWUgPSBmbG9hdChkYXRhLnRpbWUpCiAgICAgICAgc3RhcnRfdGltZSA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICBuZXh0X3N0ZXBfdGltZSA9IHN0YXJ0X3RpbWUKICAgICAgICBuZXh0X3ZpZXdlcl90aW1lID0gc3RhcnRfdGltZQogICAgICAgIG5leHRfc3RhdHVzX3RpbWUgPSBzdGFydF90aW1lCiAgICAgICAgdmlld2VyX2ludGVydmFsID0gMS4wIC8gYXJncy52aWV3ZXJfZnBzCiAgICAgICAgbWF4aW11bV9jYXRjaHVwID0gbWF4KDAuMSwgY29udHJvbF9kdCkKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdoaWxlICh2aWV3ZXIgaXMgTm9uZSBvciB2aWV3ZXIuaXNfcnVubmluZygpKSBhbmQgdGltZS5wZXJmX2NvdW50ZXIoKSAtIHN0YXJ0X3RpbWUgPCBkdXJhdGlvbjoKICAgICAgICAgICAgICAgIGpvaW50X3Bvc2l0aW9uID0gZGF0YS5xcG9zW3Fwb3NfaW5kaWNlc10KICAgICAgICAgICAgICAgIGpvaW50X3ZlbG9jaXR5ID0gZGF0YS5xdmVsW3F2ZWxfaW5kaWNlc10KICAgICAgICAgICAgICAgIGVmZm9ydCA9IHBkX2NvbnRyb2woCiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0X3Bvc2l0aW9uX211am9jbywKICAgICAgICAgICAgICAgICAgICBqb2ludF9wb3NpdGlvbiwKICAgICAgICAgICAgICAgICAgICBzdGlmZm5lc3NfbXVqb2NvLAogICAgICAgICAgICAgICAgICAgIGpvaW50X3ZlbG9jaXR5LAogICAgICAgICAgICAgICAgICAgIGRhbXBpbmdfbXVqb2NvLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgZWZmb3J0ID0gY2xpcF90b3JxdWVfc3BlZWQoZWZmb3J0LCBqb2ludF92ZWxvY2l0eSwgY29uZmlnWyJtb3RvciJdKQogICAgICAgICAgICAgICAgZGF0YS5jdHJsW2FjdHVhdG9yX2luZGljZXNdID0gZWZmb3J0CiAgICAgICAgICAgICAgICBtdWpvY28ubWpfc3RlcChtb2RlbCwgZGF0YSkKICAgICAgICAgICAgICAgIHBvc3Rfc3RlcF90aW1lID0gZmxvYXQoZGF0YS50aW1lKQoKICAgICAgICAgICAgICAgIHJlbmRlcl91dGlscy51cGRhdGUoY29tbWFuZCwgZGF0YSkKICAgICAgICAgICAgICAgIGlmIHZpZXdlciBpcyBub3QgTm9uZSBhbmQgdGltZS5wZXJmX2NvdW50ZXIoKSA+PSBuZXh0X3ZpZXdlcl90aW1lOgogICAgICAgICAgICAgICAgICAgIHdpdGggdmlld2VyLmxvY2soKToKICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyX3V0aWxzLnVwZGF0ZV9leHRlcm5hbF9yZW5kZXJpbmcodmlld2VyLCB0YXJnZXQ9InZpZXdlciIpCiAgICAgICAgICAgICAgICAgICAgdmlld2VyLnN5bmMoKQogICAgICAgICAgICAgICAgICAgIG5leHRfdmlld2VyX3RpbWUgKz0gdmlld2VyX2ludGVydmFsCiAgICAgICAgICAgICAgICAgICAgaWYgbmV4dF92aWV3ZXJfdGltZSA8IHRpbWUucGVyZl9jb3VudGVyKCk6CiAgICAgICAgICAgICAgICAgICAgICAgIG5leHRfdmlld2VyX3RpbWUgPSB0aW1lLnBlcmZfY291bnRlcigpICsgdmlld2VyX2ludGVydmFsCgogICAgICAgICAgICAgICAgIyBUaGUgbmF0aXZlIHZpZXdlcidzIFJlc2V0IGJ1dHRvbiByZXdpbmRzIGRhdGEudGltZS4gRGV0ZWN0IGEKICAgICAgICAgICAgICAgICMgcmVzZXQgd2hldGhlciBpdCBvY2N1cnJlZCBiZWZvcmUgbWpfc3RlcCBvciBkdXJpbmcgdmlld2VyLnN5bmMoKS4KICAgICAgICAgICAgICAgIHJlc2V0X2RldGVjdGVkID0gKAogICAgICAgICAgICAgICAgICAgIHBvc3Rfc3RlcF90aW1lICsgMS4wZS05IDwgcHJldmlvdXNfc2ltX3RpbWUKICAgICAgICAgICAgICAgICAgICBvciBmbG9hdChkYXRhLnRpbWUpICsgMS4wZS05IDwgcG9zdF9zdGVwX3RpbWUKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGlmIHJlc2V0X2RldGVjdGVkOgogICAgICAgICAgICAgICAgICAgIF9yZXNldF9kZXBsb3ltZW50X2VwaXNvZGUoKQogICAgICAgICAgICAgICAgICAgIGNvbW1hbmQgPSB1cGRhdGVfY29tbWFuZCgpCiAgICAgICAgICAgICAgICAgICAgY291bnRlciA9IDAKICAgICAgICAgICAgICAgICAgICBwcmV2aW91c19zaW1fdGltZSA9IGZsb2F0KGRhdGEudGltZSkKICAgICAgICAgICAgICAgICAgICBuZXh0X3N0ZXBfdGltZSA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICAgICAgICAgICAgICBuZXh0X3ZpZXdlcl90aW1lID0gbmV4dF9zdGVwX3RpbWUKICAgICAgICAgICAgICAgICAgICBwcmludCgiXG5bSU5GT10gVmlld2VyIHJlc2V0OiBzaW11bGF0aW9uLCBwb2xpY3kgc3RhdGUgYW5kIGNvbW1hbmQgc291cmNlIHJlc3RvcmVkLiIpCiAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICBpZiB2aWRlb193cml0ZXIgaXMgbm90IE5vbmUgYW5kIHZpZGVvX3JlbmRlcmVyIGlzIG5vdCBOb25lIGFuZCBjb3VudGVyICUgdmlkZW9fZnJhbWVfaW50ZXJ2YWwgPT0gMDoKICAgICAgICAgICAgICAgICAgICBjYW1lcmEgPSB2aWV3ZXIuY2FtIGlmIHZpZXdlciBpcyBub3QgTm9uZSBlbHNlIC0xCiAgICAgICAgICAgICAgICAgICAgdmlkZW9fcmVuZGVyZXIudXBkYXRlX3NjZW5lKGRhdGEsIGNhbWVyYT1jYW1lcmEpCiAgICAgICAgICAgICAgICAgICAgcmVuZGVyX3V0aWxzLnVwZGF0ZV9leHRlcm5hbF9yZW5kZXJpbmcodmlkZW9fcmVuZGVyZXIsIHRhcmdldD0icmVuZGVyZXIiKQogICAgICAgICAgICAgICAgICAgIHZpZGVvX3dyaXRlci5hcHBlbmRfZGF0YSh2aWRlb19yZW5kZXJlci5yZW5kZXIoKSkKCiAgICAgICAgICAgICAgICBjb3VudGVyICs9IDEKICAgICAgICAgICAgICAgIGlmIGNvdW50ZXIgJSBjb250cm9sX2RlY2ltYXRpb24gPT0gMDoKICAgICAgICAgICAgICAgICAgICBqb2ludF9wb3NpdGlvbl9wb2xpY3kgPSBkYXRhLnFwb3NbcXBvc19pbmRpY2VzXVtwb2xpY3lfZnJvbV9tdWpvY29dCiAgICAgICAgICAgICAgICAgICAgam9pbnRfdmVsb2NpdHlfcG9saWN5ID0gZGF0YS5xdmVsW3F2ZWxfaW5kaWNlc11bcG9saWN5X2Zyb21fbXVqb2NvXQogICAgICAgICAgICAgICAgICAgIG9ic2VydmF0aW9uWzA6M10gPSBkYXRhLnF2ZWxbMzo2XSAqIGZsb2F0KGNvbmZpZ1siYW5nX3ZlbF9zY2FsZSJdKQogICAgICAgICAgICAgICAgICAgIG9ic2VydmF0aW9uWzM6Nl0gPSBnZXRfZ3Jhdml0eV9vcmllbnRhdGlvbihkYXRhLnFwb3NbMzo3XSkKICAgICAgICAgICAgICAgICAgICBvYnNlcnZhdGlvbls2OjldID0gY29tbWFuZCAqIGNvbW1hbmRfc2NhbGUKICAgICAgICAgICAgICAgICAgICBvYnNlcnZhdGlvbls5IDogOSArIG51bV9hY3Rpb25zXSA9ICgKICAgICAgICAgICAgICAgICAgICAgICAgam9pbnRfcG9zaXRpb25fcG9saWN5IC0gZGVmYXVsdF9wb3NpdGlvbl9wb2xpY3kKICAgICAgICAgICAgICAgICAgICApICogZmxvYXQoY29uZmlnWyJkb2ZfcG9zX3NjYWxlIl0pCiAgICAgICAgICAgICAgICAgICAgb2JzZXJ2YXRpb25bOSArIG51bV9hY3Rpb25zIDogOSArIDIgKiBudW1fYWN0aW9uc10gPSAoCiAgICAgICAgICAgICAgICAgICAgICAgIGpvaW50X3ZlbG9jaXR5X3BvbGljeSAqIGZsb2F0KGNvbmZpZ1siZG9mX3ZlbF9zY2FsZSJdKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICBvYnNlcnZhdGlvbls5ICsgMiAqIG51bV9hY3Rpb25zIDogOSArIDMgKiBudW1fYWN0aW9uc10gPSBhY3Rpb24KCiAgICAgICAgICAgICAgICAgICAgd2l0aCB0b3JjaC5pbmZlcmVuY2VfbW9kZSgpOgogICAgICAgICAgICAgICAgICAgICAgICBwb2xpY3lfb3V0cHV0ID0gcG9saWN5KG9ic2VydmF0aW9uX3RlbnNvcikKICAgICAgICAgICAgICAgICAgICBhY3Rpb24gPSBleHRyYWN0X3BvbGljeV9hY3Rpb24ocG9saWN5X291dHB1dCkuZGV0YWNoKCkuY3B1KCkubnVtcHkoKS5yZXNoYXBlKC0xKQogICAgICAgICAgICAgICAgICAgIGlmIGFjdGlvbi5zaGFwZSAhPSAobnVtX2FjdGlvbnMsKToKICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIlBvbGljeSByZXR1cm5lZCBhY3Rpb24gc2hhcGUge2FjdGlvbi5zaGFwZX0sIGV4cGVjdGVkIHsobnVtX2FjdGlvbnMsKX0iKQogICAgICAgICAgICAgICAgICAgIGFjdGlvbiA9IG5wLmNsaXAoYWN0aW9uLCAtZmxvYXQoY29uZmlnWyJhY3Rpb25fY2xpcCJdKSwgZmxvYXQoY29uZmlnWyJhY3Rpb25fY2xpcCJdKSkKICAgICAgICAgICAgICAgICAgICB0YXJnZXRfcG9zaXRpb25fcG9saWN5ID0gZGVmYXVsdF9wb3NpdGlvbl9wb2xpY3kgKyBhY3Rpb24gKiBmbG9hdChjb25maWdbImFjdGlvbl9zY2FsZSJdKQogICAgICAgICAgICAgICAgICAgIHRhcmdldF9wb3NpdGlvbl9tdWpvY28gPSB0YXJnZXRfcG9zaXRpb25fcG9saWN5W211am9jb19mcm9tX3BvbGljeV0KCiAgICAgICAgICAgICAgICAgICAgY29tbWFuZCA9IHVwZGF0ZV9jb21tYW5kKCkKICAgICAgICAgICAgICAgIGlmIHRpbWUucGVyZl9jb3VudGVyKCkgPj0gbmV4dF9zdGF0dXNfdGltZToKICAgICAgICAgICAgICAgICAgICBuZXh0X3N0YXR1c190aW1lID0gdGltZS5wZXJmX2NvdW50ZXIoKSArIDAuMgogICAgICAgICAgICAgICAgICAgIHF1YXRlcm5pb24gPSBkYXRhLnFwb3NbMzo3XQogICAgICAgICAgICAgICAgICAgIGxvY2FsX3ZlbG9jaXR5ID0gcXVhdF9yb3RhdGVfaW52ZXJzZShxdWF0ZXJuaW9uLCBkYXRhLnF2ZWxbOjNdKQogICAgICAgICAgICAgICAgICAgIHF3LCBxeCwgcXksIHF6ID0gcXVhdGVybmlvbgogICAgICAgICAgICAgICAgICAgIGhlYWRpbmcgPSBtYXRoLmF0YW4yKAogICAgICAgICAgICAgICAgICAgICAgICAyLjAgKiAocXcgKiBxeiArIHF4ICogcXkpLAogICAgICAgICAgICAgICAgICAgICAgICAxLjAgLSAyLjAgKiAocXkgKiBxeSArIHF6ICogcXopLAogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICBwcmludCgKICAgICAgICAgICAgICAgICAgICAgICAgZiJccntjb21tYW5kX3NvdXJjZX0gY29tbWFuZCAiCiAgICAgICAgICAgICAgICAgICAgICAgIGYiW3tjb21tYW5kWzBdOisuMmZ9LCB7Y29tbWFuZFsxXTorLjJmfSwge2NvbW1hbmRbMl06Ky4yZn1dICAiCiAgICAgICAgICAgICAgICAgICAgICAgIGYiVmVsb2NpdHkgW3tsb2NhbF92ZWxvY2l0eVswXTorLjJmfSwge2xvY2FsX3ZlbG9jaXR5WzFdOisuMmZ9XSAgIgogICAgICAgICAgICAgICAgICAgICAgICBmIkhlYWRpbmcge21hdGguZGVncmVlcyhoZWFkaW5nKTorNi4xZn0gZGVnIiwKICAgICAgICAgICAgICAgICAgICAgICAgZW5kPSIiLAogICAgICAgICAgICAgICAgICAgICkKCiAgICAgICAgICAgICAgICBwcmV2aW91c19zaW1fdGltZSA9IGZsb2F0KGRhdGEudGltZSkKCiAgICAgICAgICAgICAgICBpZiByZWFsX3RpbWU6CiAgICAgICAgICAgICAgICAgICAgbmV4dF9zdGVwX3RpbWUgKz0gbW9kZWwub3B0LnRpbWVzdGVwCiAgICAgICAgICAgICAgICAgICAgbm93ID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgICAgICAgICAgICAgICAgICMgUmVjb3ZlciBmcm9tIG9yZGluYXJ5IG92ZXJydW5zIHdpdGhvdXQgYWNjdW11bGF0aW5nIGRyaWZ0OwogICAgICAgICAgICAgICAgICAgICMgZGlzY2FyZCBleGNlc3NpdmUgYmFja2xvZyBhZnRlciBwYXVzZXMgb3IgbG9uZyBHVUkgc3RhbGxzLgogICAgICAgICAgICAgICAgICAgIGlmIG5vdyAtIG5leHRfc3RlcF90aW1lID4gbWF4aW11bV9jYXRjaHVwOgogICAgICAgICAgICAgICAgICAgICAgICBuZXh0X3N0ZXBfdGltZSA9IG5vdwogICAgICAgICAgICAgICAgICAgIHJlbWFpbmluZyA9IG5leHRfc3RlcF90aW1lIC0gbm93CiAgICAgICAgICAgICAgICAgICAgaWYgcmVtYWluaW5nID4gMC4wOgogICAgICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKHJlbWFpbmluZykKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBwcmludCgpCiAgICAgICAgICAgIGlmIHZpZXdlciBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHZpZXdlci5jbG9zZSgpCiAgICAgICAgICAgIGlmIHZpZGVvX3dyaXRlciBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHZpZGVvX3dyaXRlci5jbG9zZSgpCiAgICAgICAgICAgIGlmIHZpZGVvX3JlbmRlcmVyIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgdmlkZW9fcmVuZGVyZXIuY2xvc2UoKQogICAgICAgICAgICBpZiBweWdhbWUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBweWdhbWUucXVpdCgpCgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgIiIiUGFyc2UgQ0xJIGFyZ3VtZW50cyBhbmQgbGF1bmNoIHZlbG9jaXR5IGRlcGxveW1lbnQuIiIiCiAgICBhcmdzID0gYnVpbGRfYXJnX3BhcnNlcigpLnBhcnNlX2FyZ3MoKQogICAgVmVsb2NpdHlEZXBsb3ltZW50KGFyZ3MsIGFyZ3MuY29uZmlnLmV4cGFuZHVzZXIoKS5yZXNvbHZlKCkpLnJ1bigpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""Run an exported Go2 velocity policy in MuJoCo.
+
+python deploy/deploy_mujoco/deploy_go2.py \
+    --policy logs/rsl_rl/go2_mixed/<run>/exported/policy.pt \
+    --terrain flat --command 1.0 0.0 0.0
+
+The policy consumes one 45-dimensional proprioceptive frame and maintains its
+10-frame observation history internally. Commands are body-frame linear
+velocities and yaw rate [vx, vy, yaw_rate] in [m/s, m/s, rad/s]. The gamepad's
+left stick controls forward/lateral velocity and its right stick controls yaw.
+Use --no-joystick for scripted commands and --headless --no-real-time for batch
+runs. Set MUJOCO_GL=egl when recording an offscreen video.
+CPU inference uses one thread by default; tune it with --inference-threads.
+The interactive viewer refreshes at --viewer-fps (default 60) independently of physics.
+"""
+
+from __future__ import annotations
+
+import argparse
+import math
+import time
+from pathlib import Path
+
+import mujoco
+import mujoco.viewer
+import numpy as np
+import torch
+
+from utils.mujoco import (
+    DEPLOY_DIR,
+    clip_torque_speed,
+    configure_mujoco,
+    extract_policy_action,
+    get_gravity_orientation,
+    get_joint_indices,
+    get_velocity_joystick_command,
+    initialize_joystick,
+    load_config,
+    pd_control,
+    quat_rotate_inverse,
+    resolve_model_path,
+    resolve_policy_path,
+)
+from utils.render_utils import MujocoRenderUtils
+
+
+DEFAULT_CONFIG_PATH = Path(__file__).resolve().parent / "config.yaml"
+
+
+def build_arg_parser() -> argparse.ArgumentParser:
+    """Build the velocity deployment command-line arguments."""
+    parser = argparse.ArgumentParser(description="Run an exported Go2 velocity policy in MuJoCo.")
+    parser.add_argument("--config", type=Path, default=DEFAULT_CONFIG_PATH)
+    parser.add_argument("--policy", type=str, default=None, help="Override config policy_path.")
+    parser.add_argument("--terrain", type=str, default=None, help="Terrain name from the config.")
+    parser.add_argument("--xml", type=str, default=None, help="Use a custom MuJoCo scene XML.")
+    parser.add_argument(
+        "--command",
+        type=float,
+        nargs=3,
+        metavar=("VX", "VY", "YAW_RATE"),
+        help="Body-frame velocity [vx, vy, yaw_rate] in [m/s, m/s, rad/s].",
+    )
+    parser.add_argument("--duration", type=float, default=None, help="Maximum wall-clock duration in seconds.")
+    parser.add_argument("--no-joystick", action="store_true", help="Ignore the joystick and use the config command.")
+    parser.add_argument("--no-real-time", action="store_true")
+    parser.add_argument("--inference-threads", type=int, default=1, help="CPU threads for policy inference.")
+    parser.add_argument("--viewer-fps", type=float, default=60.0, help="Maximum interactive viewer refresh rate.")
+    parser.add_argument("--headless", action="store_true", help="Run without the interactive MuJoCo viewer.")
+    parser.add_argument("--save-video", action="store_true")
+    parser.add_argument("--video-path", type=Path, default=None)
+    return parser
+
+
+class VelocityDeployment:
+    """Run an exported proprioceptive velocity policy with the training motor model."""
+
+    def __init__(self, args: argparse.Namespace, config_path: Path) -> None:
+        """Retain the deployment arguments and configuration path."""
+        self.args = args
+        self.config_path = config_path
+
+    def run(self) -> None:
+        """Run physics and policy control with independently paced visualization."""
+        args = self.args
+        if args.inference_threads < 1:
+            raise ValueError("inference_threads must be at least one")
+        if not math.isfinite(args.viewer_fps) or args.viewer_fps <= 0.0:
+            raise ValueError("viewer_fps must be finite and positive")
+        torch.set_num_threads(args.inference_threads)
+        config = load_config(self.config_path)
+        command_kind = str(config.get("command_kind", ""))
+        if command_kind != "command/body/velocity":
+            raise ValueError(f"Expected command_kind=command/body/velocity, got {command_kind!r}.")
+        configured_command = np.asarray(
+            args.command if args.command is not None else config["command"], dtype=np.float32
+        )
+        maximum_velocity_command = np.asarray(config["max_velocity_command"], dtype=np.float32)
+        for name, value in (
+            ("command", configured_command),
+            ("max_velocity_command", maximum_velocity_command),
+        ):
+            if value.shape != (3,) or not np.all(np.isfinite(value)):
+                raise ValueError(f"{name} must contain three finite values")
+        if np.any(maximum_velocity_command < 0.0):
+            raise ValueError("max_velocity_command must contain nonnegative velocity limits")
+
+        raw_policy_path = args.policy or config["policy_path"]
+        if not raw_policy_path:
+            raise ValueError("Set policy_path in the config or pass --policy /path/to/exported/policy.pt")
+        policy_path = resolve_policy_path(raw_policy_path, self.config_path)
+        if not policy_path.is_file():
+            raise FileNotFoundError(f"Policy does not exist: {policy_path}")
+
+        terrain = args.terrain or config["terrain"]
+        xml_path = resolve_model_path(config, terrain, args.xml)
+        if not xml_path.is_file():
+            raise FileNotFoundError(f"MuJoCo model does not exist: {xml_path}")
+
+        model = mujoco.MjModel.from_xml_path(str(xml_path))
+        data = mujoco.MjData(model)
+        configure_mujoco(model, config)
+
+        num_actions = int(config["num_actions"])
+        num_observations = int(config["num_obs"])
+        if num_observations != 9 + 3 * num_actions:
+            raise ValueError("Expected num_obs = 9 + 3 * num_actions for the current policy observation layout")
+
+        mujoco_joint_names = list(config["mujoco_joint_names"])
+        policy_joint_names = list(config["policy_joint_names"])
+        if set(mujoco_joint_names) != set(policy_joint_names) or len(mujoco_joint_names) != num_actions:
+            raise ValueError("MuJoCo and policy joint-name lists must contain the same num_actions joints")
+
+        policy_from_mujoco = np.array([mujoco_joint_names.index(name) for name in policy_joint_names])
+        mujoco_from_policy = np.array([policy_joint_names.index(name) for name in mujoco_joint_names])
+        qpos_indices, qvel_indices, actuator_indices = get_joint_indices(model, mujoco_joint_names)
+
+        stiffness_policy = np.asarray(config["kps"], dtype=np.float32)
+        damping_policy = np.asarray(config["kds"], dtype=np.float32)
+        default_position_policy = np.asarray(config["default_angles"], dtype=np.float32)
+        for name, value in (
+            ("kps", stiffness_policy),
+            ("kds", damping_policy),
+            ("default_angles", default_position_policy),
+        ):
+            if value.shape != (num_actions,):
+                raise ValueError(f"{name} must contain {num_actions} values")
+
+        stiffness_mujoco = stiffness_policy[mujoco_from_policy]
+        damping_mujoco = damping_policy[mujoco_from_policy]
+        default_position_mujoco = default_position_policy[mujoco_from_policy]
+        data.qpos[qpos_indices] = default_position_mujoco
+        mujoco.mj_forward(model, data)
+
+        policy = torch.jit.load(str(policy_path), map_location="cpu")
+        policy.eval()
+        if hasattr(policy, "reset"):
+            policy.reset()
+
+        command_scale = np.asarray(config["command_scale"], dtype=np.float32)
+        if command_scale.shape != (3,) or not np.all(np.isfinite(command_scale)):
+            raise ValueError("command_scale must contain three finite values.")
+
+        action = np.zeros(num_actions, dtype=np.float32)
+        target_position_mujoco = default_position_mujoco.copy()
+        observation = np.zeros(num_observations, dtype=np.float32)
+        observation_tensor = torch.from_numpy(observation).unsqueeze(0)
+        # Compile/warm the stateful export before starting the simulation clock.
+        # Restore history so warmup observations cannot affect the first action.
+        if hasattr(policy, "reset"):
+            with torch.inference_mode():
+                for _ in range(10):
+                    policy(observation_tensor)
+                policy.reset()
+
+        control_decimation = int(config["control_decimation"])
+        if control_decimation < 1:
+            raise ValueError("control_decimation must be at least one")
+        control_dt = model.opt.timestep * control_decimation
+        duration = float(args.duration if args.duration is not None else config["simulation_duration"])
+        real_time = bool(config["real_time"]) and not args.no_real_time
+        pygame, joystick = initialize_joystick(bool(config["joystick"]) and not args.no_joystick)
+        command_source = "joystick" if joystick is not None else "config"
+
+        def update_command() -> np.ndarray:
+            """Sample body-frame velocity from the joystick or scripted command."""
+            if joystick is None:
+                return configured_command
+            return get_velocity_joystick_command(pygame, joystick, maximum_velocity_command)
+
+        command = update_command()
+        render_utils = MujocoRenderUtils()
+
+        video_renderer = None
+        video_writer = None
+        video_frame_interval = 1
+        if args.save_video:
+            import imageio.v2 as imageio
+
+            video_path = args.video_path or DEPLOY_DIR / "videos" / f"{policy_path.stem}_{terrain}.mp4"
+            video_path = video_path.expanduser().resolve()
+            video_path.parent.mkdir(parents=True, exist_ok=True)
+            video_renderer = mujoco.Renderer(model, height=360, width=640)
+            video_fps = 50
+            video_frame_interval = max(1, round(1.0 / (model.opt.timestep * video_fps)))
+            video_writer = imageio.get_writer(video_path, fps=video_fps)
+            print(f"[INFO] Recording video to: {video_path}")
+
+        print(f"[INFO] Policy: {policy_path}")
+        print(f"[INFO] Terrain: {terrain} ({xml_path})")
+        print(f"[INFO] Command kind: {command_kind}")
+        print(f"[INFO] Command source: {command_source}")
+        print(f"[INFO] Physics dt: {model.opt.timestep:.4f} s, control dt: {control_dt:.4f} s")
+        print(f"[INFO] PD: Kp={stiffness_policy[0]:g}, Kd={damping_policy[0]:g}")
+        print(f"[INFO] CPU inference threads: {torch.get_num_threads()}, viewer limit: {args.viewer_fps:g} Hz")
+
+        viewer = None
+        if not args.headless:
+            viewer = mujoco.viewer.launch_passive(model, data)
+            viewer.cam.type = mujoco.mjtCamera.mjCAMERA_TRACKING
+            viewer.cam.trackbodyid = mujoco.mj_name2id(model, mujoco.mjtObj.mjOBJ_BODY, "base")
+            viewer.cam.distance = 2.0
+            viewer.cam.elevation = -20.0
+            viewer.cam.azimuth = 60.0
+
+        def _reset_deployment_episode() -> None:
+            """Reset simulation, policy history and cached command inputs together."""
+            mujoco.mj_resetData(model, data)
+            data.qpos[qpos_indices] = default_position_mujoco
+            data.ctrl.fill(0.0)
+            mujoco.mj_forward(model, data)
+
+            action.fill(0.0)
+            target_position_mujoco[:] = default_position_mujoco
+            observation.fill(0.0)
+            with torch.inference_mode():
+                if hasattr(policy, "reset"):
+                    policy.reset()
+
+        counter = 0
+        previous_sim_time = float(data.time)
+        start_time = time.perf_counter()
+        next_step_time = start_time
+        next_viewer_time = start_time
+        next_status_time = start_time
+        viewer_interval = 1.0 / args.viewer_fps
+        maximum_catchup = max(0.1, control_dt)
+        try:
+            while (viewer is None or viewer.is_running()) and time.perf_counter() - start_time < duration:
+                joint_position = data.qpos[qpos_indices]
+                joint_velocity = data.qvel[qvel_indices]
+                effort = pd_control(
+                    target_position_mujoco,
+                    joint_position,
+                    stiffness_mujoco,
+                    joint_velocity,
+                    damping_mujoco,
+                )
+                effort = clip_torque_speed(effort, joint_velocity, config["motor"])
+                data.ctrl[actuator_indices] = effort
+                mujoco.mj_step(model, data)
+                post_step_time = float(data.time)
+
+                render_utils.update(command, data)
+                if viewer is not None and time.perf_counter() >= next_viewer_time:
+                    with viewer.lock():
+                        render_utils.update_external_rendering(viewer, target="viewer")
+                    viewer.sync()
+                    next_viewer_time += viewer_interval
+                    if next_viewer_time < time.perf_counter():
+                        next_viewer_time = time.perf_counter() + viewer_interval
+
+                # The native viewer's Reset button rewinds data.time. Detect a
+                # reset whether it occurred before mj_step or during viewer.sync().
+                reset_detected = (
+                    post_step_time + 1.0e-9 < previous_sim_time
+                    or float(data.time) + 1.0e-9 < post_step_time
+                )
+                if reset_detected:
+                    _reset_deployment_episode()
+                    command = update_command()
+                    counter = 0
+                    previous_sim_time = float(data.time)
+                    next_step_time = time.perf_counter()
+                    next_viewer_time = next_step_time
+                    print("\n[INFO] Viewer reset: simulation, policy state and command source restored.")
+                    continue
+
+                if video_writer is not None and video_renderer is not None and counter % video_frame_interval == 0:
+                    camera = viewer.cam if viewer is not None else -1
+                    video_renderer.update_scene(data, camera=camera)
+                    render_utils.update_external_rendering(video_renderer, target="renderer")
+                    video_writer.append_data(video_renderer.render())
+
+                counter += 1
+                if counter % control_decimation == 0:
+                    joint_position_policy = data.qpos[qpos_indices][policy_from_mujoco]
+                    joint_velocity_policy = data.qvel[qvel_indices][policy_from_mujoco]
+                    observation[0:3] = data.qvel[3:6] * float(config["ang_vel_scale"])
+                    observation[3:6] = get_gravity_orientation(data.qpos[3:7])
+                    observation[6:9] = command * command_scale
+                    observation[9 : 9 + num_actions] = (
+                        joint_position_policy - default_position_policy
+                    ) * float(config["dof_pos_scale"])
+                    observation[9 + num_actions : 9 + 2 * num_actions] = (
+                        joint_velocity_policy * float(config["dof_vel_scale"])
+                    )
+                    observation[9 + 2 * num_actions : 9 + 3 * num_actions] = action
+
+                    with torch.inference_mode():
+                        policy_output = policy(observation_tensor)
+                    action = extract_policy_action(policy_output).detach().cpu().numpy().reshape(-1)
+                    if action.shape != (num_actions,):
+                        raise ValueError(f"Policy returned action shape {action.shape}, expected {(num_actions,)}")
+                    action = np.clip(action, -float(config["action_clip"]), float(config["action_clip"]))
+                    target_position_policy = default_position_policy + action * float(config["action_scale"])
+                    target_position_mujoco = target_position_policy[mujoco_from_policy]
+
+                    command = update_command()
+                if time.perf_counter() >= next_status_time:
+                    next_status_time = time.perf_counter() + 0.2
+                    quaternion = data.qpos[3:7]
+                    local_velocity = quat_rotate_inverse(quaternion, data.qvel[:3])
+                    qw, qx, qy, qz = quaternion
+                    heading = math.atan2(
+                        2.0 * (qw * qz + qx * qy),
+                        1.0 - 2.0 * (qy * qy + qz * qz),
+                    )
+                    print(
+                        f"\r{command_source} command "
+                        f"[{command[0]:+.2f}, {command[1]:+.2f}, {command[2]:+.2f}]  "
+                        f"Velocity [{local_velocity[0]:+.2f}, {local_velocity[1]:+.2f}]  "
+                        f"Heading {math.degrees(heading):+6.1f} deg",
+                        end="",
+                    )
+
+                previous_sim_time = float(data.time)
+
+                if real_time:
+                    next_step_time += model.opt.timestep
+                    now = time.perf_counter()
+                    # Recover from ordinary overruns without accumulating drift;
+                    # discard excessive backlog after pauses or long GUI stalls.
+                    if now - next_step_time > maximum_catchup:
+                        next_step_time = now
+                    remaining = next_step_time - now
+                    if remaining > 0.0:
+                        time.sleep(remaining)
+        finally:
+            print()
+            if viewer is not None:
+                viewer.close()
+            if video_writer is not None:
+                video_writer.close()
+            if video_renderer is not None:
+                video_renderer.close()
+            if pygame is not None:
+                pygame.quit()
+
+
+def main() -> None:
+    """Parse CLI arguments and launch velocity deployment."""
+    args = build_arg_parser().parse_args()
+    VelocityDeployment(args, args.config.expanduser().resolve()).run()
+
+
+if __name__ == "__main__":
+    main()

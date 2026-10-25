@@ -1,1 +1,69 @@
-IiIiUmVhZCB0aGUgTG9vbXkgc3VwcGxpZXIgbW9kZWwgbGlzdC4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBodHRweApmcm9tIG1vZGVsX2NhcGFjaXR5IGltcG9ydCBjYXBhY2l0eV9maWVsZHMKCmZyb20gcHJvdmlkZXJzLmxvb215LmNvbnN0YW50cyBpbXBvcnQgTU9ERUxfQkFTRQpmcm9tIHByb3ZpZGVycy5sb29teS5oZWFkZXJzIGltcG9ydCBtb2RlbF9oZWFkZXJzCgoKZGVmIHBhcnNlX3N1cHBsaWVyX21vZGVscyhwYXlsb2FkKSAtPiBsaXN0W2RpY3RdOgogICAgcm93cyA9IF9yb3dzKHBheWxvYWQpCiAgICBtb2RlbHM6IGxpc3RbZGljdF0gPSBbXQogICAgc2Vlbjogc2V0W3N0cl0gPSBzZXQoKQogICAgZm9yIHJvdyBpbiByb3dzOgogICAgICAgIGlmIGlzaW5zdGFuY2Uocm93LCBzdHIpOgogICAgICAgICAgICBtaWQgPSByb3cuc3RyaXAoKQogICAgICAgICAgICBuYW1lID0gbWlkCiAgICAgICAgICAgIHJhdyA9IHt9CiAgICAgICAgZWxpZiBpc2luc3RhbmNlKHJvdywgZGljdCk6CiAgICAgICAgICAgIG1pZCA9IHN0cihyb3cuZ2V0KCJpZCIpIG9yIHJvdy5nZXQoIm5hbWUiKSBvciByb3cuZ2V0KCJtb2RlbCIpIG9yICIiKS5zdHJpcCgpCiAgICAgICAgICAgIG5hbWUgPSBzdHIocm93LmdldCgibmFtZSIpIG9yIHJvdy5nZXQoImRpc3BsYXlfbmFtZSIpIG9yIG1pZCkKICAgICAgICAgICAgcmF3ID0gcm93CiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBtaWQuc3RhcnRzd2l0aCgicHJvdmlkZXIvIik6CiAgICAgICAgICAgIG1pZCA9IG1pZC5zcGxpdCgiLyIsIDEpWzFdCiAgICAgICAgaWYgbm90IG1pZCBvciBtaWQgaW4gc2VlbjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzZWVuLmFkZChtaWQpCiAgICAgICAgaXRlbSA9IHsiaWQiOiBtaWQsICJuYW1lIjogbmFtZSBvciBtaWR9CiAgICAgICAgd2luZG93ID0gcmF3LmdldCgiY29udGV4dF93aW5kb3ciKSBvciByYXcuZ2V0KCJjb250ZXh0X2xlbmd0aCIpCiAgICAgICAgaWYgdHlwZSh3aW5kb3cpIGlzIGludCBhbmQgd2luZG93ID4gMDoKICAgICAgICAgICAgcmF3ID0geyoqcmF3LCAiY29udGV4dF93aW5kb3ciOiB3aW5kb3d9CiAgICAgICAgaXRlbS51cGRhdGUoY2FwYWNpdHlfZmllbGRzKHJhdykpCiAgICAgICAgbW9kZWxzLmFwcGVuZChpdGVtKQogICAgcmV0dXJuIG1vZGVscwoKCmRlZiBfcm93cyhwYXlsb2FkKSAtPiBsaXN0OgogICAgaWYgaXNpbnN0YW5jZShwYXlsb2FkLCBsaXN0KToKICAgICAgICByZXR1cm4gcGF5bG9hZAogICAgaWYgbm90IGlzaW5zdGFuY2UocGF5bG9hZCwgZGljdCk6CiAgICAgICAgcmV0dXJuIFtdCiAgICBkYXRhID0gcGF5bG9hZC5nZXQoImRhdGEiKQogICAgaWYgaXNpbnN0YW5jZShkYXRhLCBsaXN0KToKICAgICAgICByZXR1cm4gZGF0YQogICAgaWYgaXNpbnN0YW5jZShkYXRhLCBkaWN0KToKICAgICAgICBmb3Iga2V5IGluICgibW9kZWxzIiwgImxpc3QiLCAiaXRlbXMiKToKICAgICAgICAgICAgcm93cyA9IGRhdGEuZ2V0KGtleSkKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyb3dzLCBsaXN0KToKICAgICAgICAgICAgICAgIHJldHVybiByb3dzCiAgICBmb3Iga2V5IGluICgibW9kZWxzIiwgImxpc3QiLCAiaXRlbXMiKToKICAgICAgICByb3dzID0gcGF5bG9hZC5nZXQoa2V5KQogICAgICAgIGlmIGlzaW5zdGFuY2Uocm93cywgbGlzdCk6CiAgICAgICAgICAgIHJldHVybiByb3dzCiAgICByZXR1cm4gW10KCgphc3luYyBkZWYgZmV0Y2hfc3VwcGxpZXJfbW9kZWxzKGFjY291bnQ6IGRpY3QpIC0+IGxpc3RbZGljdF06CiAgICBzZXNzaW9uID0gc3RyKGFjY291bnQuZ2V0KCJhY2Nlc3NfdG9rZW4iKSBvciAiIikKICAgIGlmIG5vdCBzZXNzaW9uOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiTG9vbXkgYWNjb3VudCBoYXMgbm8gc2Vzc2lvbiIpCiAgICBhc3luYyB3aXRoIGh0dHB4LkFzeW5jQ2xpZW50KHRpbWVvdXQ9MzAuMCkgYXMgY2xpZW50OgogICAgICAgIHJlc3BvbnNlID0gYXdhaXQgY2xpZW50LmdldChmIntNT0RFTF9CQVNFfS9tb2RlbHMiLCBoZWFkZXJzPW1vZGVsX2hlYWRlcnMoc2Vzc2lvbiwgcHVycG9zZT0iY2hhdC5tZXNzYWdlIikpCiAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSA+PSA0MDA6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGYiTG9vbXkgL21vZGVscyBIVFRQIHtyZXNwb25zZS5zdGF0dXNfY29kZX0iKQogICAgcmV0dXJuIHBhcnNlX3N1cHBsaWVyX21vZGVscyhyZXNwb25zZS5qc29uKCkpCg==
+"""Read the Loomy supplier model list."""
+
+from __future__ import annotations
+
+import httpx
+from model_capacity import capacity_fields
+
+from providers.loomy.constants import MODEL_BASE
+from providers.loomy.headers import model_headers
+
+
+def parse_supplier_models(payload) -> list[dict]:
+    rows = _rows(payload)
+    models: list[dict] = []
+    seen: set[str] = set()
+    for row in rows:
+        if isinstance(row, str):
+            mid = row.strip()
+            name = mid
+            raw = {}
+        elif isinstance(row, dict):
+            mid = str(row.get("id") or row.get("name") or row.get("model") or "").strip()
+            name = str(row.get("name") or row.get("display_name") or mid)
+            raw = row
+        else:
+            continue
+        if mid.startswith("provider/"):
+            mid = mid.split("/", 1)[1]
+        if not mid or mid in seen:
+            continue
+        seen.add(mid)
+        item = {"id": mid, "name": name or mid}
+        window = raw.get("context_window") or raw.get("context_length")
+        if type(window) is int and window > 0:
+            raw = {**raw, "context_window": window}
+        item.update(capacity_fields(raw))
+        models.append(item)
+    return models
+
+
+def _rows(payload) -> list:
+    if isinstance(payload, list):
+        return payload
+    if not isinstance(payload, dict):
+        return []
+    data = payload.get("data")
+    if isinstance(data, list):
+        return data
+    if isinstance(data, dict):
+        for key in ("models", "list", "items"):
+            rows = data.get(key)
+            if isinstance(rows, list):
+                return rows
+    for key in ("models", "list", "items"):
+        rows = payload.get(key)
+        if isinstance(rows, list):
+            return rows
+    return []
+
+
+async def fetch_supplier_models(account: dict) -> list[dict]:
+    session = str(account.get("access_token") or "")
+    if not session:
+        raise RuntimeError("Loomy account has no session")
+    async with httpx.AsyncClient(timeout=30.0) as client:
+        response = await client.get(f"{MODEL_BASE}/models", headers=model_headers(session, purpose="chat.message"))
+    if response.status_code >= 400:
+        raise RuntimeError(f"Loomy /models HTTP {response.status_code}")
+    return parse_supplier_models(response.json())

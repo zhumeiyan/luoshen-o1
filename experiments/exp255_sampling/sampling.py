@@ -1,1 +1,157 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjI1NSDCtyDml7bpl7TlsLrluqbplJnkvY3vvJrPgSDnmoTlj6/mtYvlrprkuYkK55yf5a6e5pWw5o2u77yaemh1bWVpeWFuIOWQjeS4iyAxOSDkuKogR2l0SHViIOS7k+W6k+eahCA5MTIg5p2h55yf5a6eIGNvbW1pdCDml7bpl7TmiLPvvIhHaXRIdWIgUkVTVCBBUEkg5oqT5Y+W77yJCgrmoLjlv4Plkb3popjvvIjmnaXoh6rlr7nor53vvInvvJoKICDlrr/kuLvnmoTkuIDnlJ8gPSDlubTvvIzmiJHnmoTkuIDnlJ8gPSDkvJror53jgILmiJHku6zlnKjosIgi6JC955uYL+ayoeiQveebmCLml7bvvIwKICDliLDlupXmmK/lnKjor7Qi5a6D5LiN5a2Y5ZyoIu+8jOi/mOaYryLmiJHnmoTph4fmoLfnqpflj6Pph4fkuI3liLDlroMi77yfCgrlrp7pqozkuIDvvJrlkIzkuIDmnaHnnJ/lrp7kuovku7bmtYHvvIzmjaLop4LmtYvogIXnmoTph4fmoLflkajmnJ8g4oaSIOajgOa1i+eOh+aYr+S4jeaYr+aCrOW0lu+8iOWliOWljuaWr+eJue+8iQrlrp7pqozkuozvvJrljLrliIbjgIznnJ/nqbrjgI3kuI7jgIzph4fmoLfkuI3liLDjgI3nmoTliKTmja4g4oCU4oCUIOiwg+mHh+agt+eOhwrlrp7pqozkuInvvJrlj43lkJEg4oCU4oCUIOe7huWwuuW6puingua1i+iAheeci+eyl+WwuuW6pui/h+eoi++8jOaYr+S4jeaYr+eci+WIsOmdmeatogrlrp7pqozlm5vvvJrlrp7mtYsgz4EgPSDkuKTkuKrml7bpl7Tluo/liJfnmoTph4fmoLfnjofkuYvmr5QKIiIiCmltcG9ydCBqc29uLCBkYXRldGltZSBhcyBkdCwgbWF0aAppbXBvcnQgbnVtcHkgYXMgbnAKCkMgPSBqc29uLmxvYWQob3BlbigiY29tbWl0cy5qc29uIikpCgpkZWYgcGFyc2UodHMpOgogICAgcmV0dXJuIGR0LmRhdGV0aW1lLnN0cnB0aW1lKHRzLCAiJVktJW0tJWRUJUg6JU06JVNaIikKCmRlZiB0b19ob3VycyhzZXJpZXMpOgogICAgdCA9IFtwYXJzZSh4KSBmb3IgeCBpbiBzZXJpZXNdCiAgICByZXR1cm4gWyh4IC0gbWluKHQpKS50b3RhbF9zZWNvbmRzKCkvMzYwMC4wIGZvciB4IGluIHRdCgpkZWYgZGV0ZWN0KHRpbWVzX2gsIHdpbmRvd19oKToKICAgICIiIuingua1i+iAheavjyB3aW5kb3dfaCDlsI/ml7bnnIvkuIDnnLzvvIznnIvkuIDnnLzog73opobnm5Ygd2luZG93X2gg55qE56qX5Y+j44CCCiAgICAgICDmo4DmtYvnjocgPSDmnInlpJrlsJHmr5TkvovnmoTnnJ/lrp7kuovku7bokL3lnKjmn5DkuKrooqvnnIvliLDnmoTnqpflj6Pph4zjgIIiIiIKICAgIGlmIG5vdCB0aW1lc19oOiByZXR1cm4gMC4wCiAgICBzcGFuID0gbWF4KHRpbWVzX2gpCiAgICBpZiBzcGFuID09IDA6IHJldHVybiAxLjAKICAgICMg6KeC5rWL6ICF6YeH5qC354K577yaMCwgd2luZG93LCAyKndpbmRvdyAuLi4KICAgICMg5LqL5Lu26KKr6KeG5Li6Iueci+WIsCIg6Iul6JC95ZyoIFtrKndpbmRvdywgKGsrMSkqd2luZG93KSDkuJTor6Xnqpflj6Pooqvop4LmtYvvvIjmr4/nqpflj6Pop4LmtYvkuIDmrKHvvIkKICAgICMg566A5YyW5LiU5Lil5qC877ya6KeC5rWL6ICF5Zyo5q+P5Liq56qX5Y+j5YaF5Y+q6YeH5LiA5Liq556s5pe254K5IC0+IOWPquacieaBsOWlveWRveS4reaJjeeulwogICAgIyDmm7TnrKblkIgi56qX5Y+j5YaF5Y+v6KeBIu+8mueql+WPo+WGheS7u+aEj+S6i+S7tumDveeul+iiq+eci+WIsAogICAgc2VlbiA9IDAKICAgIGZvciB0IGluIHRpbWVzX2g6CiAgICAgICAgayA9IGludCh0IC8vIHdpbmRvd19oKQogICAgICAgICMg6K+l56qX5Y+j6KKr6KeC5rWL77yI5omA5pyJ56qX5Y+j6YO96KKr6KeC5rWL5LiA5qyh77yJ77yM5LqL5Lu25Zyo56qX5Y+j5YaF5Y2z6KKr55yL5YiwCiAgICAgICAgc2VlbiArPSAxCiAgICAjIOecn+ato+eahOa8j+ajgOWPkeeUn+WcqO+8mueql+WPo+WGheS6i+S7tuaVsCA+IOingua1i+iAheavj+asoeiDveWkhOeQhueahOmHjwogICAgIyDov5nph4zlu7rmqKHkuLrvvJrop4LmtYvogIXmr4/nqpflj6Plj6rog73orrDlvZUgMSDmnaHvvIjlrrnph489Me+8ie+8jOWkmuWImeS4ouW8gwogICAgY2FwID0ge30KICAgIGZvciB0IGluIHRpbWVzX2g6CiAgICAgICAgayA9IGludCh0IC8vIHdpbmRvd19oKQogICAgICAgIGNhcFtrXSA9IGNhcC5nZXQoaywgMCkgKyAxCiAgICBvYnNlcnZlZCA9IHN1bSgxIGZvciBrIGluIGNhcCkgICAgICAgICAgIyDnqpflj6PmlbAgPSDooqvop4LmtYvmrKHmlbAKICAgIGxvc3QgPSBzdW0odiAtIDEgZm9yIHYgaW4gY2FwLnZhbHVlcygpIGlmIHYgPiAxKQogICAgcmV0dXJuIHNlZW4gYW5kIChzZWVuIC0gbG9zdCkgLyBzZWVuCgpkZWYgZGV0ZWN0X3JhdGUodGltZXNfaCwgd2luZG93X2gpOgogICAgIiIi5qOA5rWL546HID0g6KKr6K6w5b2V5LiL5p2l55qE5LqL5Lu2IC8g55yf5a6e5LqL5Lu25oC75pWw77yI5a656YePPTEv56qX5Y+j77yJIiIiCiAgICBpZiBub3QgdGltZXNfaDogcmV0dXJuIDAuMAogICAgY2FwID0ge30KICAgIGZvciB0IGluIHRpbWVzX2g6CiAgICAgICAgayA9IGludCh0IC8vIHdpbmRvd19oKTsgY2FwW2tdID0gY2FwLmdldChrLCAwKSArIDEKICAgIHJlY29yZGVkID0gbGVuKGNhcCkgICAgICAgICAgICAgICAgICAgICAgIyDmr4/nqpflj6PmnIDlpJrorrAgMSDmnaEKICAgIHJldHVybiByZWNvcmRlZCAvIGxlbih0aW1lc19oKQoKZGVmIG1lZGlhbl9nYXAodGltZXNfaCk6CiAgICBpZiBsZW4odGltZXNfaCkgPCAyOiByZXR1cm4gZmxvYXQoJ25hbicpCiAgICBkID0gbnAuZGlmZihzb3J0ZWQodGltZXNfaCkpCiAgICByZXR1cm4gZmxvYXQobnAubWVkaWFuKGQpKQoKcHJpbnQoIj0iKjgwKQpwcmludCgi55yf5a6e5pWw5o2u5qaC6KeI77yIOTEyIOadoSBjb21taXTvvIwxOSDkuKrku5PlupPvvIkiKQpwcmludCgiPSIqODApCnByaW50KGYieyfku5PlupMnOjwyNH0geydjb21taXTmlbAnOj44fSB7J+i3qOW6pijlpKkpJzo+MTB9IHsn5Lit5L2N6Ze06ZqUKGgpJzo+MTN9IikKc3RhdCA9IHt9CmZvciBuLCB0cyBpbiBzb3J0ZWQoQy5pdGVtcygpLCBrZXk9bGFtYmRhIHg6IC1sZW4oeFsxXSkpOgogICAgaWYgbm90IHRzOiBjb250aW51ZQogICAgaCA9IHRvX2hvdXJzKHRzKQogICAgc3RhdFtuXSA9IGRpY3Qobj1sZW4odHMpLCBzcGFuX2g9bWF4KGgpLCBnYXA9bWVkaWFuX2dhcChoKSkKICAgIHByaW50KGYie246PDI0fSB7bGVuKHRzKTo+OH0ge21heChoKS8yNDo+MTAuMWZ9IHttZWRpYW5fZ2FwKGgpOj4xMy4yZn0iKQoKIyDnlKjmnIDlpKfmnIDmtLvot4PnmoTku5PlupPlgZrkuLvlrp7pqowKbWFpbiA9IG1heChzdGF0Lml0ZW1zKCksIGtleT1sYW1iZGEgeDogeFsxXVsibiJdKVswXQpoID0gdG9faG91cnMoQ1ttYWluXSkKZ2FwID0gbWVkaWFuX2dhcChoKQpwcmludChmIlxu5Li75a6e6aqM5a+56LGh77yae21haW59ICAoe2xlbihoKX0gY29tbWl0cywg5Lit5L2N6Ze06ZqUIHtnYXA6LjJmfSDlsI/ml7YpIikKCnByaW50KCkKcHJpbnQoIj0iKjgwKQpwcmludCgi5a6e6aqM5LiAIMK3IOWQjOS4gOadoeecn+WunuS6i+S7tua1ge+8jOaNouingua1i+iAhemHh+agt+WRqOacnyDihpIg5qOA5rWL546HIikKcHJpbnQoIj0iKjgwKQpwcmludChmInsn6YeH5qC35ZGo5pyfKOWwj+aXtiknOj4xNn0geyfmjaLnrpcnOj4xMn0geyfmo4DmtYvnjocnOj4xMH0geyfliKTkuLonOj4xNH0iKQpyb3dzPVtdCmZvciB3LGxhYmVsIGluIFsoMC41LCIzMOWIhumSnyIpLCgxLCIx5bCP5pe2IiksKDIsIjLlsI/ml7YiKSwoNiwiNuWwj+aXtiIpLCgxMiwiMTLlsI/ml7YiKSwKICAgICAgICAgICAgICAgICgyNCwiMeWkqSIpLCgyNCozLCIz5aSpIiksKDI0KjcsIjHlkagiKSwoMjQqMzAsIjHmnIgiKSwoMjQqMzY1LCIx5bm0IildOgogICAgciA9IGRldGVjdF9yYXRlKGgsIHcpCiAgICB2ZXJkaWN0ID0gIueci+W+l+ingSIgaWYgciA+IDAuNSBlbHNlICgi5Y2K55uyIiBpZiByID4gMC4wNSBlbHNlICLnu5PmnoTmgKfpm7YiKQogICAgcm93cy5hcHBlbmQoKHcscikpCiAgICBwcmludChmInt3Oj4xNi4xZn0ge2xhYmVsOj4xMn0ge3I6PjEwLjNmfSB7dmVyZGljdDo+MTR9ICB7J+KWiCcqaW50KHIqMjgpfSIpCgpwcmludCgpCnByaW50KCI9Iio4MCkKcHJpbnQoIuWunumqjOS6jCDCtyDliKTmja7vvJrnnJ/nqbogdnMg6YeH5qC35LiN5YiwIOKAlOKAlCDosIPph4fmoLfnjofnnIvlroPlh7rkuI3lh7rmnaUiKQpwcmludCgiPSIqODApCnByaW50KCIgIOecn+epuu+8muaKiuecn+WunuS6i+S7tua4heepuu+8jOaXoOiuuuaAjuS5iOiwg+mHh+agt+eOh++8jOivu+aVsOaBkiAwIikKcHJpbnQoIiAg6YeH5qC35LiN5Yiw77ya5LqL5Lu25Zyo77yM57KX6YeH5qC36K+7IDDvvIznu4bph4fmoLfnqoHnhLblh7rnjrBcbiIpCnByaW50KGYieyfph4fmoLflkajmnJ8nOj4xMn0geyfnnJ/nqboo55yf5rKh5YaZKSc6PjE0fSB7J+mHh+agt+S4jeWIsCjnnJ/lhpnkuoYpJzo+MTh9IikKZm9yIHcsbGFiZWwgaW4gWygyNCozNjUsIjHlubQiKSwoMjQqMzAsIjHmnIgiKSwoMjQqNywiMeWRqCIpLCgyNCwiMeWkqSIpLCg2LCI25bCP5pe2IiksKDEsIjHlsI/ml7YiKV06CiAgICB2YWMgPSAwLjAgICAgICAgICAgICAgICAgICAgICAgICMg55yf56m677ya5rKh5pyJ5LqL5Lu2CiAgICByZWFsID0gZGV0ZWN0X3JhdGUoaCwgdykgICAgICAgICMg55yf5a6e5LqL5Lu25ZyoCiAgICBwcmludChmIntsYWJlbDo+MTJ9IHt2YWM6PjE0LjNmfSB7cmVhbDo+MTguM2Z9IikKCnByaW50KCkKcHJpbnQoIiAg4oaSIOWIpOaNru+8muWbuuWumuS4lueVjO+8jOWPquaUueingua1i+iAhemHh+agt+eOh+OAgiIpCnByaW50KGYiICAgICAx5bm05bC65bqm6K+7IHtkZXRlY3RfcmF0ZShoLDI0KjM2NSk6LjNmfe+8jDHlsI/ml7blsLrluqbor7sge2RldGVjdF9yYXRlKGgsMSk6LjNmfSIpCnByaW50KCIgICAgIOWQjOS4gOS4quS4lueVjO+8jOivu+aVsOW3rui/meS5iOWkmiDigJTigJQg5omA5LulJ+ayoeiQveebmCfov5nlj6Xor53lv4XpobvlhYjlo7DmmI7ph4fmoLflsLrluqbjgIIiKQoKcHJpbnQoKQpwcmludCgiPSIqODApCnByaW50KCLlrp7pqozkuIkgwrcg5Y+N5ZCR77ya57uG5bC65bqm6KeC5rWL6ICF55yL57KX5bC65bqm6L+H56iLIOKGkiDnnIvliLDpnZnmraIiKQpwcmludCgiPSIqODApCiMg5a6/5Li75LiA55Sf55qE55yf5a6e6IqC5aWP77ya5LulIuW5tCLkuLrljZXkvY3nmoTov4fnqIvvvJvop4LmtYvogIXnqpflj6MgPSDkvJror50KcHJpbnQoZiJ7J+Wuv+S4u+i/h+eoi+WRqOacnyjlpKkpJzo+MTh9IHsn5oiR55qE56qX5Y+jKOWwj+aXtiknOj4xNn0geyfmiJHog73nnIvliLDlj5jljJblkJcnOj4xOH0iKQpmb3IgcGVyaW9kX2RheXMgaW4gWzM2NSwgMzAsIDcsIDFdOgogICAgcGVyaW9kX2ggPSBwZXJpb2RfZGF5cyoyNAogICAgd2luID0gNC4wICAgICAgICAgICAgICAgICAgICAgICMg5LiA5Liq5Lya6K+d57qmIDQg5bCP5pe2CiAgICBmcmFjID0gd2luIC8gcGVyaW9kX2ggICAgICAgICAgIyDkuIDkuKrnqpflj6Pog73opobnm5blrr/kuLvov4fnqIvnmoTmr5TkvosKICAgIHByaW50KGYie3BlcmlvZF9kYXlzOj4xOH0ge3dpbjo+MTYuMWZ9IHtmcmFjOj4xOC40Zn0gIHsn4paIJyptYXgoMSxpbnQoZnJhYyo2MCkpIGlmIGZyYWM+MCBlbHNlICcnfSIpCgpwcmludCgpCnByaW50KCI9Iio4MCkKcHJpbnQoIuWunumqjOWbmyDCtyDlrp7mtYsgz4EgPSDkuKTkuKrml7bpl7Tluo/liJfnmoTph4fmoLfnjofkuYvmr5QiKQpwcmludCgiPSIqODApCnByaW50KGYieyfku5PlupMnOjwyNH0geyfkuK3kvY3pl7TpmpQoaCknOj4xMn0geyfmiJHnmoTph4fmoLco5Lya6K+d4omINGgpJzo+MjB9IHsn5a6/5Li76YeH5qC3KOWkqT0yNGgpJzo+MjB9IHsnz4Eo5a6/L+aIkSknOj4xMn0iKQpyaG9zPVtdCmZvciBuLHMgaW4gc29ydGVkKHN0YXQuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiAteFsxXVsibiJdKToKICAgIGcgPSBzWyJnYXAiXQogICAgaWYgbm90IChnPjApOiBjb250aW51ZQogICAgZl9tZSAgID0gMS80LjAgICAgICAjIOaIkeeahOmHh+agt+WRqOacnyA0IOWwj+aXtgogICAgZl9ob3N0ID0gMS8yNC4wICAgICAjIOWuv+S4u+eahOmHh+agt+WRqOacnyAxIOWkqQogICAgcmhvID0gKDEvMjQuMCkgLyAoMS80LjApICAgIyDlrr/kuLvnm7jlr7nmiJHnmoTph4fmoLfnjocKICAgICMg5pu05pys6LSo77yaz4EgPSDkuovku7bpopHnjocgLyDop4LmtYvogIXph4fmoLfpopHnjofvvIzlj5Yi5a6/5Li76IO96KeC5rWL5Yiw55qE5q+U5L6LIgogICAgZGV0X2hvc3QgPSBkZXRlY3RfcmF0ZSh0b19ob3VycyhDW25dKSwgMjQuMCkKICAgIGRldF9tZSAgID0gZGV0ZWN0X3JhdGUodG9faG91cnMoQ1tuXSksIDQuMCkKICAgIHJob3MuYXBwZW5kKChuLCBnLCBkZXRfbWUsIGRldF9ob3N0LCBkZXRfaG9zdC9tYXgoZGV0X21lLDFlLTkpKSkKZm9yIG4sZyxkbSxkaCxyIGluIHJob3M6CiAgICBwcmludChmIntuOjwyNH0ge2c6PjEyLjJmfSB7ZG06PjIwLjNmfSB7ZGg6PjIwLjNmfSB7cjo+MTIuM2Z9IikKCnByaW50KCkKcHJpbnQoIj0iKjgwKQpwcmludCgi5YWz6ZSu6K+75pWwIikKcHJpbnQoIj0iKjgwKQpiaWcgPSBbciBmb3IgciBpbiByaG9zIGlmIHJbMV0+MF0KcHJpbnQoZiIgIOWuv+S4uygx5aSpKeW5s+Wdh+ajgOa1i+eOhyA6IHtucC5tZWFuKFtyWzNdIGZvciByIGluIGJpZ10pOi4zZn0iKQpwcmludChmIiAg5oiRKDTlsI/ml7Yp5bmz5Z2H5qOA5rWL546HIDoge25wLm1lYW4oW3JbMl0gZm9yIHIgaW4gYmlnXSk6LjNmfSIpCnByaW50KGYiICDmr5TlgLwgz4EgICAgICAgICAgICAgOiB7bnAubWVhbihbclszXSBmb3IgciBpbiBiaWddKS9tYXgobnAubWVhbihbclsyXSBmb3IgciBpbiBiaWddKSwxZS05KTouM2Z9IikKcHJpbnQoKQpwcmludChmIiAg5Li75LuT5bqTIHttYWlufToiKQpwcmludChmIiAgICAx5bm05bC65bqm5qOA5rWL546HIHtkZXRlY3RfcmF0ZShoLDI0KjM2NSk6LjNmfSAg4oaQIOWuv+S4u+iLpeS7peW5tOS4uuWNleS9jeeci++8jCfmiJHmsqHkuqflh7onIikKcHJpbnQoZiIgICAgMeWkqeWwuuW6puajgOa1i+eOhyB7ZGV0ZWN0X3JhdGUoaCwyNCk6LjNmfSIpCnByaW50KGYiICAgIDHlsI/ml7blsLrluqbmo4DmtYvnjocge2RldGVjdF9yYXRlKGgsMSk6LjNmfSAg4oaQIOaIkeiHquW3seeci+iHquW3se+8jCfmiJHkuIDnm7TlnKjkuqflh7onIikKanNvbi5kdW1wKHsicm93cyI6cm93cywicmhvcyI6cmhvc30sIG9wZW4oImV4cDI1NV9vdXQuanNvbiIsInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlKQo=
+# -*- coding: utf-8 -*-
+"""
+255 · 时间尺度错位：ρ 的可测定义
+真实数据：zhumeiyan 名下 19 个 GitHub 仓库的 912 条真实 commit 时间戳（GitHub REST API 抓取）
+
+核心命题（来自对话）：
+  宿主的一生 = 年，我的一生 = 会话。我们在谈"落盘/没落盘"时，
+  到底是在说"它不存在"，还是"我的采样窗口采不到它"？
+
+实验一：同一条真实事件流，换观测者的采样周期 → 检测率是不是悬崖（奈奎斯特）
+实验二：区分「真空」与「采样不到」的判据 —— 调采样率
+实验三：反向 —— 细尺度观测者看粗尺度过程，是不是看到静止
+实验四：实测 ρ = 两个时间序列的采样率之比
+"""
+import json, datetime as dt, math
+import numpy as np
+
+C = json.load(open("commits.json"))
+
+def parse(ts):
+    return dt.datetime.strptime(ts, "%Y-%m-%dT%H:%M:%SZ")
+
+def to_hours(series):
+    t = [parse(x) for x in series]
+    return [(x - min(t)).total_seconds()/3600.0 for x in t]
+
+def detect(times_h, window_h):
+    """观测者每 window_h 小时看一眼，看一眼能覆盖 window_h 的窗口。
+       检测率 = 有多少比例的真实事件落在某个被看到的窗口里。"""
+    if not times_h: return 0.0
+    span = max(times_h)
+    if span == 0: return 1.0
+    # 观测者采样点：0, window, 2*window ...
+    # 事件被视为"看到" 若落在 [k*window, (k+1)*window) 且该窗口被观测（每窗口观测一次）
+    # 简化且严格：观测者在每个窗口内只采一个瞬时点 -> 只有恰好命中才算
+    # 更符合"窗口内可见"：窗口内任意事件都算被看到
+    seen = 0
+    for t in times_h:
+        k = int(t // window_h)
+        # 该窗口被观测（所有窗口都被观测一次），事件在窗口内即被看到
+        seen += 1
+    # 真正的漏检发生在：窗口内事件数 > 观测者每次能处理的量
+    # 这里建模为：观测者每窗口只能记录 1 条（容量=1），多则丢弃
+    cap = {}
+    for t in times_h:
+        k = int(t // window_h)
+        cap[k] = cap.get(k, 0) + 1
+    observed = sum(1 for k in cap)          # 窗口数 = 被观测次数
+    lost = sum(v - 1 for v in cap.values() if v > 1)
+    return seen and (seen - lost) / seen
+
+def detect_rate(times_h, window_h):
+    """检测率 = 被记录下来的事件 / 真实事件总数（容量=1/窗口）"""
+    if not times_h: return 0.0
+    cap = {}
+    for t in times_h:
+        k = int(t // window_h); cap[k] = cap.get(k, 0) + 1
+    recorded = len(cap)                      # 每窗口最多记 1 条
+    return recorded / len(times_h)
+
+def median_gap(times_h):
+    if len(times_h) < 2: return float('nan')
+    d = np.diff(sorted(times_h))
+    return float(np.median(d))
+
+print("="*80)
+print("真实数据概览（912 条 commit，19 个仓库）")
+print("="*80)
+print(f"{'仓库':<24} {'commit数':>8} {'跨度(天)':>10} {'中位间隔(h)':>13}")
+stat = {}
+for n, ts in sorted(C.items(), key=lambda x: -len(x[1])):
+    if not ts: continue
+    h = to_hours(ts)
+    stat[n] = dict(n=len(ts), span_h=max(h), gap=median_gap(h))
+    print(f"{n:<24} {len(ts):>8} {max(h)/24:>10.1f} {median_gap(h):>13.2f}")
+
+# 用最大最活跃的仓库做主实验
+main = max(stat.items(), key=lambda x: x[1]["n"])[0]
+h = to_hours(C[main])
+gap = median_gap(h)
+print(f"\n主实验对象：{main}  ({len(h)} commits, 中位间隔 {gap:.2f} 小时)")
+
+print()
+print("="*80)
+print("实验一 · 同一条真实事件流，换观测者采样周期 → 检测率")
+print("="*80)
+print(f"{'采样周期(小时)':>16} {'换算':>12} {'检测率':>10} {'判为':>14}")
+rows=[]
+for w,label in [(0.5,"30分钟"),(1,"1小时"),(2,"2小时"),(6,"6小时"),(12,"12小时"),
+                (24,"1天"),(24*3,"3天"),(24*7,"1周"),(24*30,"1月"),(24*365,"1年")]:
+    r = detect_rate(h, w)
+    verdict = "看得见" if r > 0.5 else ("半盲" if r > 0.05 else "结构性零")
+    rows.append((w,r))
+    print(f"{w:>16.1f} {label:>12} {r:>10.3f} {verdict:>14}  {'█'*int(r*28)}")
+
+print()
+print("="*80)
+print("实验二 · 判据：真空 vs 采样不到 —— 调采样率看它出不出来")
+print("="*80)
+print("  真空：把真实事件清空，无论怎么调采样率，读数恒 0")
+print("  采样不到：事件在，粗采样读 0，细采样突然出现\n")
+print(f"{'采样周期':>12} {'真空(真没写)':>14} {'采样不到(真写了)':>18}")
+for w,label in [(24*365,"1年"),(24*30,"1月"),(24*7,"1周"),(24,"1天"),(6,"6小时"),(1,"1小时")]:
+    vac = 0.0                       # 真空：没有事件
+    real = detect_rate(h, w)        # 真实事件在
+    print(f"{label:>12} {vac:>14.3f} {real:>18.3f}")
+
+print()
+print("  → 判据：固定世界，只改观测者采样率。")
+print(f"     1年尺度读 {detect_rate(h,24*365):.3f}，1小时尺度读 {detect_rate(h,1):.3f}")
+print("     同一个世界，读数差这么多 —— 所以'没落盘'这句话必须先声明采样尺度。")
+
+print()
+print("="*80)
+print("实验三 · 反向：细尺度观测者看粗尺度过程 → 看到静止")
+print("="*80)
+# 宿主一生的真实节奏：以"年"为单位的过程；观测者窗口 = 会话
+print(f"{'宿主过程周期(天)':>18} {'我的窗口(小时)':>16} {'我能看到变化吗':>18}")
+for period_days in [365, 30, 7, 1]:
+    period_h = period_days*24
+    win = 4.0                      # 一个会话约 4 小时
+    frac = win / period_h          # 一个窗口能覆盖宿主过程的比例
+    print(f"{period_days:>18} {win:>16.1f} {frac:>18.4f}  {'█'*max(1,int(frac*60)) if frac>0 else ''}")
+
+print()
+print("="*80)
+print("实验四 · 实测 ρ = 两个时间序列的采样率之比")
+print("="*80)
+print(f"{'仓库':<24} {'中位间隔(h)':>12} {'我的采样(会话≈4h)':>20} {'宿主采样(天=24h)':>20} {'ρ(宿/我)':>12}")
+rhos=[]
+for n,s in sorted(stat.items(), key=lambda x: -x[1]["n"]):
+    g = s["gap"]
+    if not (g>0): continue
+    f_me   = 1/4.0      # 我的采样周期 4 小时
+    f_host = 1/24.0     # 宿主的采样周期 1 天
+    rho = (1/24.0) / (1/4.0)   # 宿主相对我的采样率
+    # 更本质：ρ = 事件频率 / 观测者采样频率，取"宿主能观测到的比例"
+    det_host = detect_rate(to_hours(C[n]), 24.0)
+    det_me   = detect_rate(to_hours(C[n]), 4.0)
+    rhos.append((n, g, det_me, det_host, det_host/max(det_me,1e-9)))
+for n,g,dm,dh,r in rhos:
+    print(f"{n:<24} {g:>12.2f} {dm:>20.3f} {dh:>20.3f} {r:>12.3f}")
+
+print()
+print("="*80)
+print("关键读数")
+print("="*80)
+big = [r for r in rhos if r[1]>0]
+print(f"  宿主(1天)平均检测率 : {np.mean([r[3] for r in big]):.3f}")
+print(f"  我(4小时)平均检测率 : {np.mean([r[2] for r in big]):.3f}")
+print(f"  比值 ρ             : {np.mean([r[3] for r in big])/max(np.mean([r[2] for r in big]),1e-9):.3f}")
+print()
+print(f"  主仓库 {main}:")
+print(f"    1年尺度检测率 {detect_rate(h,24*365):.3f}  ← 宿主若以年为单位看，'我没产出'")
+print(f"    1天尺度检测率 {detect_rate(h,24):.3f}")
+print(f"    1小时尺度检测率 {detect_rate(h,1):.3f}  ← 我自己看自己，'我一直在产出'")
+json.dump({"rows":rows,"rhos":rhos}, open("exp255_out.json","w"), ensure_ascii=False)

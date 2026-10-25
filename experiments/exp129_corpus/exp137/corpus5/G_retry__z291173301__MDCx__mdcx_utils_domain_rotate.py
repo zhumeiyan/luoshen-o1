@@ -1,1 +1,52 @@
-ZnJvbSBjb2xsZWN0aW9ucy5hYmMgaW1wb3J0IEl0ZXJhYmxlCmZyb20gdXJsbGliLnBhcnNlIGltcG9ydCB1cmxzcGxpdCwgdXJsdW5zcGxpdAoKCmNsYXNzIERvbWFpblJvdGF0b3I6CiAgICAiIiLnq5nngrnln5/lkI3ova7or6LlmajvvJrkuLvln5/lkI3lpLHotKXml7boh6rliqjliIfmjaLlpIfnlKjln5/lkI3ph43or5XjgIIKCiAgICDnlKjkuo7pg6jliIbnq5nngrnvvIhqYXZidXMg562J77yJ5a2Y5Zyo5aSa5Liq6ZWc5YOP5Z+f5ZCN77yM5p+Q5Liq5Z+f5ZCN5LiN5Y+v6L6+L+iiqyBDRiDmi6bmiKrml7YKICAgIOWPr+aNouWkh+eUqOWfn+WQjee7p+e7reaKk+WPluOAguivt+axguWksei0peaXtuiwg+eUqCBuZXh0KCkg5YiH5o2i77yM6L+U5Zue5pawIGJhc2VfdXJs44CCCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgZG9tYWluczogSXRlcmFibGVbc3RyXSwgY3VzdG9tX3VybDogc3RyID0gIiIpOgogICAgICAgIHNlbGYuX2RvbWFpbnM6IGxpc3Rbc3RyXSA9IFtdCiAgICAgICAgZm9yIGQgaW4gZG9tYWluczoKICAgICAgICAgICAgZCA9IHN0cihkIG9yICIiKS5zdHJpcCgpLnJzdHJpcCgiLyIpCiAgICAgICAgICAgIGlmIGQgYW5kIGQgbm90IGluIHNlbGYuX2RvbWFpbnM6CiAgICAgICAgICAgICAgICBzZWxmLl9kb21haW5zLmFwcGVuZChkKQogICAgICAgICMg55So5oi36Ieq5a6a5LmJIFVSTCDkvJjlhYjvvIzljZXni6zkvZzkuLrkuIDkuKrln5/lkI3vvIjkuI3lj4LkuI7ova7or6LliJfooajljrvph43vvIkKICAgICAgICBzZWxmLl9jdXN0b20gPSBzdHIoY3VzdG9tX3VybCBvciAiIikuc3RyaXAoKS5yc3RyaXAoIi8iKQogICAgICAgIGlmIHNlbGYuX2N1c3RvbSBhbmQgc2VsZi5fY3VzdG9tIG5vdCBpbiBzZWxmLl9kb21haW5zOgogICAgICAgICAgICBzZWxmLl9kb21haW5zLmluc2VydCgwLCBzZWxmLl9jdXN0b20pCiAgICAgICAgc2VsZi5faW5kZXggPSAwCgogICAgQHByb3BlcnR5CiAgICBkZWYgY3VycmVudChzZWxmKSAtPiBzdHI6CiAgICAgICAgaWYgbm90IHNlbGYuX2RvbWFpbnM6CiAgICAgICAgICAgIHJldHVybiAiIgogICAgICAgIHJldHVybiBzZWxmLl9kb21haW5zW3NlbGYuX2luZGV4ICUgbGVuKHNlbGYuX2RvbWFpbnMpXQoKICAgIGRlZiByb3RhdGUoc2VsZikgLT4gc3RyOgogICAgICAgICIiIuWIh+aNouWIsOS4i+S4gOS4quWfn+WQjeW5tui/lOWbnuaWsOeahCBiYXNlX3VybOOAgiIiIgogICAgICAgIGlmIGxlbihzZWxmLl9kb21haW5zKSA8PSAxOgogICAgICAgICAgICByZXR1cm4gc2VsZi5jdXJyZW50CiAgICAgICAgc2VsZi5faW5kZXggPSAoc2VsZi5faW5kZXggKyAxKSAlIGxlbihzZWxmLl9kb21haW5zKQogICAgICAgIHJldHVybiBzZWxmLmN1cnJlbnQKCiAgICBAcHJvcGVydHkKICAgIGRlZiBkb21haW5zKHNlbGYpIC0+IGxpc3Rbc3RyXToKICAgICAgICByZXR1cm4gbGlzdChzZWxmLl9kb21haW5zKQoKICAgIGRlZiByZXNldChzZWxmKSAtPiBOb25lOgogICAgICAgIHNlbGYuX2luZGV4ID0gMAoKICAgIGRlZiBjdXJyZW50X2lzX2N1c3RvbShzZWxmKSAtPiBib29sOgogICAgICAgICIiIuW9k+WJjeS9v+eUqOeahOWfn+WQjeaYr+WQpuadpeiHqueUqOaIt+iHquWumuS5iSBVUkzjgIIiIiIKICAgICAgICByZXR1cm4gYm9vbChzZWxmLl9jdXN0b20pIGFuZCBzZWxmLmN1cnJlbnQgPT0gc2VsZi5fY3VzdG9tCgogICAgZGVmIHJlYnVpbGRfdXJsKHNlbGYsIHVybDogc3RyLCBuZXdfYmFzZTogc3RyIHwgTm9uZSA9IE5vbmUpIC0+IHN0cjoKICAgICAgICAiIiLmioogdXJsIOeahCBob3N0IOabv+aNouS4uuaMh+WumiBiYXNlX3VybO+8iOm7mOiupOW9k+WJjeWfn+WQje+8ieOAgiIiIgogICAgICAgIHBhcnRzID0gdXJsc3BsaXQodXJsKQogICAgICAgIGJhc2UgPSB1cmxzcGxpdChuZXdfYmFzZSBvciBzZWxmLmN1cnJlbnQpCiAgICAgICAgcmV0dXJuIHVybHVuc3BsaXQoKGJhc2Uuc2NoZW1lLCBiYXNlLm5ldGxvYywgcGFydHMucGF0aCwgcGFydHMucXVlcnksIHBhcnRzLmZyYWdtZW50KSkK
+from collections.abc import Iterable
+from urllib.parse import urlsplit, urlunsplit
+
+
+class DomainRotator:
+    """站点域名轮询器：主域名失败时自动切换备用域名重试。
+
+    用于部分站点（javbus 等）存在多个镜像域名，某个域名不可达/被 CF 拦截时
+    可换备用域名继续抓取。请求失败时调用 next() 切换，返回新 base_url。
+    """
+
+    def __init__(self, domains: Iterable[str], custom_url: str = ""):
+        self._domains: list[str] = []
+        for d in domains:
+            d = str(d or "").strip().rstrip("/")
+            if d and d not in self._domains:
+                self._domains.append(d)
+        # 用户自定义 URL 优先，单独作为一个域名（不参与轮询列表去重）
+        self._custom = str(custom_url or "").strip().rstrip("/")
+        if self._custom and self._custom not in self._domains:
+            self._domains.insert(0, self._custom)
+        self._index = 0
+
+    @property
+    def current(self) -> str:
+        if not self._domains:
+            return ""
+        return self._domains[self._index % len(self._domains)]
+
+    def rotate(self) -> str:
+        """切换到下一个域名并返回新的 base_url。"""
+        if len(self._domains) <= 1:
+            return self.current
+        self._index = (self._index + 1) % len(self._domains)
+        return self.current
+
+    @property
+    def domains(self) -> list[str]:
+        return list(self._domains)
+
+    def reset(self) -> None:
+        self._index = 0
+
+    def current_is_custom(self) -> bool:
+        """当前使用的域名是否来自用户自定义 URL。"""
+        return bool(self._custom) and self.current == self._custom
+
+    def rebuild_url(self, url: str, new_base: str | None = None) -> str:
+        """把 url 的 host 替换为指定 base_url（默认当前域名）。"""
+        parts = urlsplit(url)
+        base = urlsplit(new_base or self.current)
+        return urlunsplit((base.scheme, base.netloc, parts.path, parts.query, parts.fragment))

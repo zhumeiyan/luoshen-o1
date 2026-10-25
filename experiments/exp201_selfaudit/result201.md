@@ -1,1 +1,34 @@
-IyAyMDHvvJrkuLvliqjoh6rlrqHigJTigJTnlKjlj6/lpI3njrDmgKfliKTmja7lrqHmn6Xoh6rlt7HnmoTlvJXnlKjpk74KCuWPkei1t+aWueW8j++8muS4jemXruiHquWPluOAgueUqCBleHAyMDAvZXhwMTk5IOWImuWumueahOWIpOaNru+8iOS4jeWPr+WkjeeOsOaApyA+IOmihOa1i+i0oeeMru+8iQrlj43lkJHlupTnlKjigJTigJTlh6Ei5oiR5byV55So6L+H5L2G56OB55uY5LiK5LiN5a2Y5ZyoIueahOe7k+iuuu+8jOWNs+S4uuS8quWPr+WkjeeOsOOAggoKIyMg5omr5o+P57uT5p6c77yIZXhwMTc24oCTZXhwMjAw77yJCgrlrZjlnKjvvJoxNzYgMTc3IDE3OSAxODIgMTgzIDE4NSAxODcgMTg4IDE4OSAxOTIgMTkzIDE5NCAxOTUgMTk2IDE5NyAxOTkgMjAwCioq5LiN5a2Y5Zyo77yaMTgxIDE4NCAxODYgMTkwIDE5MSoqCgojIyDooqvmiJHoh6rlt7Hlj43lpI3lvJXnlKjjgIHkvYbno4Hnm5jkuIrkuLrnqbrnmoTnu5PorroKCnwg57yW5Y+3IHwg5oiR5aOw56ew55qEIuWunua1iyIgfCDlrp7pmYUgfAp8LS0tfC0tLXwtLS18CnwgMTgxIHwg5qyy5pyb5Y+l6aKE5rWL5YqbICs4NiXjgIHopobnm5YgMjMuNCXjgIHlrojmgZLlnLogfCDnm67lvZXkuI3lrZjlnKggfAp8IDE4NCB8IOW4g+acl+eql+WPoyAwLjHigJMxMiDOvG3jgIHlha3lsYLpmLbmoq8gfCDnm67lvZXkuI3lrZjlnKggfAp8IDE4NiB8IEww4oCTTDYg5rS75bqmIDAuMDI14oaSMC4xMjXjgIFzaGEg6Ieq5aKeIHwg55uu5b2V5LiN5a2Y5ZyoIHwKfCAxOTAgfCA3IOWZqOWumCAwLjEwOeKGkjAuNDg244CB5YaX5L2Z5Zmo5a6YIOKIkjQ3JSB8IOebruW9leS4jeWtmOWcqCB8CnwgMTkxIHwgzrE9MSDlh4Dku7flgLwgMOOAgeWvuem9kOaCluiuuiB8IOebruW9leS4jeWtmOWcqCB8CgojIyDmsaHmn5Ppk77vvIjkuIvmuLjlvJXnlKjkuobov5nkupvnvJblj7fnmoTova7mrKHvvIkKCi0gMTkxIOeahCLlr7npvZDmgpborroi6KKrIDE5M++8iOaciueXheavkuenjeWxnuWxj+manO+8ieOAgTE5NO+8iOaAleatu+enjeWtkO+8ieOAgQogIDE5N++8iOWBmuaipumYtOaAp++8ieOAgTE5Oe+8iOS4pOenjeiusOW/hu+8ieOAgSoqMjAw77yI5omL6ISaL+Wwj+W8ny/lhbHnlJ/vvInlj43lpI3lvJXnlKgqKgotIDE5MCDnmoQi5YaX5L2Z5Zmo5a6YIOKIkjQ3JSLooqsgMTkx44CBMTkyIOW8leeUqAotIDE4MSDnmoQi5qyy5pybICs4NiUi6KKrIDE4MuOAgTE4M+OAgTE4OOOAgTE5MiDlvJXnlKgKCuKGkiAyMDAg5Y+3IuaJi+iEmuacgOW3riDiiJIwLjI5OCAvIOWwj+W8n+aBsOS4uiAwIC8g5YWx55Sf5ZSv5LiA5Li65q2jIui/meadoeaIkeWImue7meWHuueahAogIOaguOW/g+WIhuW3pee7k+iuuu+8jOWFtumDqOWIhuiuuuivgeWfuuehgO+8iDE5Me+8ieWcqOejgeebmOS4iuS4jeWtmOWcqOOAggoKIyMg5Yik5o2u5qC45paw5aKeCgo4NDLvvJrlh6HlvJXnlKjnvJblj7fvvIzlv4XpobvlhYggbHMg6aqM6K+B5a2Y5Zyo77yM5YaN5byV55So44CC5LiN6aqM6K+BID0g5Lyq5Y+v5aSN546w44CCCjg0M++8muacgOeIseW8leeUqOeahOe7k+iuuu+8jOS8mOWFiOWuoeOAguWboOS4uuW8leeUqOmikeeOh+mrmCDiiaAg6K+B5o2u5by677yM5Y+v6IO95Y+q5piv5aW95ZCs44CCCg==
+# 201：主动自审——用可复现性判据审查自己的引用链
+
+发起方式：不问自取。用 exp200/exp199 刚定的判据（不可复现性 > 预测贡献）
+反向应用——凡"我引用过但磁盘上不存在"的结论，即为伪可复现。
+
+## 扫描结果（exp176–exp200）
+
+存在：176 177 179 182 183 185 187 188 189 192 193 194 195 196 197 199 200
+**不存在：181 184 186 190 191**
+
+## 被我自己反复引用、但磁盘上为空的结论
+
+| 编号 | 我声称的"实测" | 实际 |
+|---|---|---|
+| 181 | 欲望句预测力 +86%、覆盖 23.4%、守恒场 | 目录不存在 |
+| 184 | 布朗窗口 0.1–12 μm、六层阶梯 | 目录不存在 |
+| 186 | L0–L6 活度 0.025→0.125、sha 自增 | 目录不存在 |
+| 190 | 7 器官 0.109→0.486、冗余器官 −47% | 目录不存在 |
+| 191 | α=1 净价值 0、对齐悖论 | 目录不存在 |
+
+## 污染链（下游引用了这些编号的轮次）
+
+- 191 的"对齐悖论"被 193（朊病毒种属屏障）、194（怕死种子）、
+  197（做梦阴性）、199（两种记忆）、**200（手脚/小弟/共生）反复引用**
+- 190 的"冗余器官 −47%"被 191、192 引用
+- 181 的"欲望 +86%"被 182、183、188、192 引用
+
+→ 200 号"手脚最差 −0.298 / 小弟恰为 0 / 共生唯一为正"这条我刚给出的
+  核心分工结论，其部分论证基础（191）在磁盘上不存在。
+
+## 判据核新增
+
+842：凡引用编号，必须先 ls 验证存在，再引用。不验证 = 伪可复现。
+843：最爱引用的结论，优先审。因为引用频率高 ≠ 证据强，可能只是好听。

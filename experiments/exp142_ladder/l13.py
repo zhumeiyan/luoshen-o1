@@ -1,1 +1,252 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK55Sf54mp6Zi25qKvIC0+IOehheWfuuW9ouaAgSDpgJDmoLzlj6/lrp7mlr3mnLrliLbkuI7pqozmlLYKTDEg5rW36JG1KOmXreeOrykgLyBMMiDooJXomaso6Ieq5Y+R6LCD5bqm5ZmoKSAvIEwzIOmxvCjorqTnn6XlnLDlm74pCuavj+agvOW/hemhu+W4puS4gOS4qiLog73lpLHotKXnmoTlr7nnhaci77yM5ZCm5YiZ5LiN5piv6aqM5pS244CCCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgdGltZSwgbWF0aCwgcmFuZG9tLCBoYXNobGliLCBzdHJ1Y3QsIGZjbnRsLCBzb2NrZXQKaW1wb3J0IG51bXB5IGFzIG5wCgpGQiA9ICIvZGV2L2ZiMCIKUk9PVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMSIKT1VUID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClIgPSB7fQoKZGVmIGxvZyhzKTogcHJpbnQocywgZmx1c2g9VHJ1ZSkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgTDEg5rW36JG177ya5oSf5a6Y5YWoICsg5pyJ5omLICsg5LiN5oyq56qdICsg5q+P5p2h6L6T5Ye65rWB5Zue6L6T5YWlCiMg5py65Yi277yaYWN0IC0+IOWGmSBmYjAgLT4g56uL5Yi75Zue6K+75ZCM5LiA5Yy65Z+fIC0+IOavlOWvuSAtPiDkv67mraMKIyDlr7nnhafvvJpvcGVuKOWBmuS6huWKqOS9nOS9huWbnuivu+S4jeeUqOS6juS/ruatoykgLyBibGluZCjkuI3lm57or7spCiMg5Yik5o2u5b+F6aG76IO95ZCM5pe25Lqn55Sf55yf5ZKM5YGH77yaY2xvc2VkIOW6lOaYvuiRl+S8mOS6jiBvcGVu4omIYmxpbmQKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KZGVmIGwxX3NlYV9hbmVtb25lKG49OCwgc2VlZD03KToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgdHJ5OgogICAgICAgIGZiID0gb3BlbihGQiwgInJiKyIpCiAgICAgICAgZmkgPSBmY250bC5pb2N0bChmYiwgMHg0NjAwLCBieXRlcyg2NCkpCiAgICAgICAgeHJlcywgeXJlcyA9IHN0cnVjdC51bnBhY2soIklJIiwgZmlbMDo4XSkKICAgICAgICBicHAgPSBzdHJ1Y3QudW5wYWNrKCJJIiwgZmlbMjA6MjRdKVswXSBvciAzMgogICAgICAgIFcgPSB4cmVzICogKGJwcCAvLyA4KQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIGxvZyhmIkwxIGZiMCDkuI3lj6/nlKg6IHtlfSIpCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgcHV0KHBpeCwgdmFsKToKICAgICAgICAjIOWcqCBmYjAg5LiK5omT5LiA5LiqIDh4OCDnmoTmlrnlnZfvvIzlgLwgdmFsKDAuLjI1NSkg54Gw5bqmCiAgICAgICAgciA9IDgKICAgICAgICB4MCA9IGludChwaXhbMF0pICogcjsgeTAgPSBpbnQocGl4WzFdKSAqIHIKICAgICAgICBibGsgPSBucC5mdWxsKChyLCByLCA0KSwgdmFsLCBkdHlwZT1ucC51aW50OCk7IGJsa1s6LCA6LCAzXSA9IDI1NQogICAgICAgIGZvciBkeSBpbiByYW5nZShyKToKICAgICAgICAgICAgb2ZmID0gKHkwICsgZHkpICogVyArIHgwICogNAogICAgICAgICAgICBmYi5zZWVrKG9mZik7IGZiLndyaXRlKGJsa1tkeV0udG9ieXRlcygpKQogICAgICAgIGZiLmZsdXNoKCkKCiAgICBkZWYgZ2V0KHBpeCk6CiAgICAgICAgIyDlv4XpobvpgJDooYwgc2Vla++8muWxj+W5leihjOaciSBzdHJpZGXvvIzkuIDmrKHov57nu60gcmVhZCDkvJrlhajokL3lnKjlkIzkuIDooYzlhoUKICAgICAgICByID0gOAogICAgICAgIHgwID0gaW50KHBpeFswXSkgKiByOyB5MCA9IGludChwaXhbMV0pICogcgogICAgICAgIHJvd3MgPSBbXQogICAgICAgIGZvciBkeSBpbiByYW5nZShyKToKICAgICAgICAgICAgZmIuc2VlaygoeTAgKyBkeSkgKiBXICsgeDAgKiA0KQogICAgICAgICAgICByb3dzLmFwcGVuZChmYi5yZWFkKHIgKiA0KSkKICAgICAgICBhID0gbnAuZnJvbWJ1ZmZlcihiIiIuam9pbihyb3dzKSwgZHR5cGU9bnAudWludDgpLnJlc2hhcGUociwgciwgNCkKICAgICAgICByZXR1cm4gZmxvYXQoYVs6LCA6LCAwXS5tZWFuKCkpCgogICAgYXJtcyA9IHt9CiAgICAjIOecn+WunumXreeOr+ivreS5ie+8muaIkeiuvuWumuebruaghyAtPiDkuJbnlYzmiorlroPmlLnkuoYgLT4g5Y+q5pyJ5Zue6K+75bm25L+u5q2j5omN6IO95a6I5L2PCiAgICBmb3IgYXJtIGluICgiY2xvc2VkIiwgIm9wZW4iLCAiYmxpbmQiKToKICAgICAgICBlcnJzID0gW10KICAgICAgICBmb3IgdCBpbiByYW5nZShuKToKICAgICAgICAgICAgdGFyZ2V0ID0gZmxvYXQocm5nLmludGVnZXJzKDQwLCAyMTUpKQogICAgICAgICAgICBsb2MgPSAodCAlIDEwMCwgdCAlIDkwKQogICAgICAgICAgICBwdXQobG9jLCBpbnQodGFyZ2V0KSkgICAgICAgICAgICAgICAgICAgICAgICMg5omL77ya6K6+5a6a55uu5qCHCiAgICAgICAgICAgIHB1dChsb2MsIGludChybmcuaW50ZWdlcnMoMCwgMjU1KSkpICAgICAgICAgICMg5LiW55WM5omw5Yqo77ya6KKr5Yir55qE6L+b56iL6KaG55uWCiAgICAgICAgICAgIGlmIGFybSA9PSAiYmxpbmQiOgogICAgICAgICAgICAgICAgIyDnm7LvvJrkuI3lm57or7vjgILor6/lt67nlLHlpJbpg6jmtYvph4/lmajnu5nlh7ooYWdlbnToh6rlt7HnnIvkuI3liLApCiAgICAgICAgICAgICAgICBlcnJzLmFwcGVuZChhYnModGFyZ2V0IC0gZ2V0KGxvYykpKQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgcmVhZCA9IGdldChsb2MpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDnnLzvvJrlm57or7sKICAgICAgICAgICAgaWYgYXJtID09ICJjbG9zZWQiOgogICAgICAgICAgICAgICAgaWYgYWJzKHJlYWQgLSB0YXJnZXQpID4gMjogICAgICAgICAgICAgICAjIOWPkeeOsOiiq+aUuSAtPiDkv67mraMKICAgICAgICAgICAgICAgICAgICBwdXQobG9jLCBpbnQobnAuY2xpcCh0YXJnZXQsIDAsIDI1NSkpKQogICAgICAgICAgICAgICAgICAgIHJlYWQgPSBnZXQobG9jKQogICAgICAgICAgICAgICAgZXJycy5hcHBlbmQoYWJzKHRhcmdldCAtIHJlYWQpKQogICAgICAgICAgICBlbHNlOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIG9wZW46IOeci+WIsOS6huS9huS4jeaUuQogICAgICAgICAgICAgICAgZXJycy5hcHBlbmQoYWJzKHRhcmdldCAtIHJlYWQpKQogICAgICAgIGFybXNbYXJtXSA9IGRpY3QobWVhbl9lcnI9ZmxvYXQobnAubWVhbihlcnJzKSksIG49bikKCiAgICAjIOWIpOaNru+8mmNsb3NlZCDmmL7okZfkvJjkuo4gb3Blbu+8m29wZW4g5LiOIGJsaW5kIOW6lOmDveWPr+WKowogICAgUlsiTDEiXSA9IGRpY3QoYXJtcz1hcm1zLCByZWFsPSJmYjAgd3JpdGUrcmVhZGJhY2siLAogICAgICAgICAgICAgICAgICAgcGFzc189Ym9vbChhcm1zWyJjbG9zZWQiXVsibWVhbl9lcnIiXSA8IGFybXNbIm9wZW4iXVsibWVhbl9lcnIiXSkpCiAgICBsb2coZiJbTDEg5rW36JG1XSBjbG9zZWQ9e2FybXNbJ2Nsb3NlZCddWydtZWFuX2VyciddOi40Zn0gIgogICAgICAgIGYib3Blbj17YXJtc1snb3BlbiddWydtZWFuX2VyciddOi40Zn0gYmxpbmQ9e2FybXNbJ2JsaW5kJ11bJ21lYW5fZXJyJ106LjRmfSAiCiAgICAgICAgZiItPiB7J1BBU1MnIGlmIFJbJ0wxJ11bJ3Bhc3NfJ10gZWxzZSAnRkFJTCd9IikKICAgIHRyeTogZmIuY2xvc2UoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwogICAgcmV0dXJuIFJbIkwxIl0KCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIEwyIOigleiZq++8muiHquW3sei1t+aEj+eahOiwg+W6puWZqAojIOWFs+mUrumZt+mYse+8mnNwb250YW5lb3VzX3JhdGU+MCDlpKrlvLHigJTigJTpmo/mnLrosIPluqblmajkuZ/mu6HotrPjgIIKIyDmiYDku6XnnJ/liKTmja7mmK8i6Ieq5Y+R55qE5Yqo5L2c5pyJ5rKh5pyJ5bim5p2l5L+h5oGv5aKe55uKKElHKSLvvIzlr7nnhac96ZqP5py66LCD5bqm44CCCiMg5Zyw5b2i77ya55yf5a6e55uu5b2V5qCRCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCmRlZiBidWlsZF90ZXJyYWluKHJvb3Q9Uk9PVCwgbWF4X25vZGVzPTIyMCk6CiAgICBub2RlcyA9IFtdCiAgICBmb3IgZHAsIGRucywgZm5zIGluIG9zLndhbGsocm9vdCk6CiAgICAgICAgbm9kZXMuYXBwZW5kKGRwKQogICAgICAgIGlmIGxlbihub2RlcykgPj0gbWF4X25vZGVzOiBicmVhawogICAgcmV0dXJuIG5vZGVzWzptYXhfbm9kZXNdCgpkZWYgbDJfd29ybShzdGVwcz0yNjAsIHNlZWQ9MTEpOgogICAgdGVyciA9IGJ1aWxkX3RlcnJhaW4oKQogICAgaWYgbGVuKHRlcnIpIDwgMzA6CiAgICAgICAgbG9nKCJMMiDlnLDlvaLlpKrlsI8iKTsgcmV0dXJuIE5vbmUKICAgIGhvbWUgPSB0ZXJyWzBdCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKCiAgICBkZWYgZmVhdHVyZShwKToKICAgICAgICAjIOW7ieS7t+acrOS9k+eJueW+ge+8muebruW9lea3seW6piArIOWtkOmhueaVsCArIOWQjeWtl+WTiOW4jO+8iOWGs+WumiLov5nph4zmnInmsqHmnInkuJzopb8i77yJCiAgICAgICAgdHJ5OgogICAgICAgICAgICBpdGVtcyA9IG9zLmxpc3RkaXIocCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBpdGVtcyA9IFtdCiAgICAgICAgZGVwdGggPSBwLmNvdW50KG9zLnNlcCkKICAgICAgICByZXR1cm4gbnAuYXJyYXkoW2RlcHRoLCBsZW4oaXRlbXMpLCBsZW4ocCkgJSAxN10sIGR0eXBlPWZsb2F0KQoKICAgIGZlYXRzID0ge3A6IGZlYXR1cmUocCkgZm9yIHAgaW4gdGVycn0KCiAgICBGID0gbnAuYXJyYXkoW2ZlYXRzW3BdIGZvciBwIGluIHRlcnJdKQogICAgRiA9IChGIC0gRi5tZWFuKDApKSAvIChGLnN0ZCgwKSArIDFlLTkpICAgICAgIyDmoIflh4bljJbvvIzpgb/lhY3ph4/nurLmlK/phY0KICAgIE4gPSBsZW4odGVycikKCiAgICBkZWYgcnVuKG1vZGUpOgogICAgICAgICMg5YaF6YOo5LiW55WM5qih5Z6L77ya5a+55q+P5Liq6IqC54K555qE54m55b6B5YGa6aKE5rWL77yM6K6/6Zeu5ZCO5pu05pawCiAgICAgICAgcHJlZCA9IG5wLnRpbGUoRi5tZWFuKDApLCAoTiwgMSkpCiAgICAgICAgdmlzaXRlZCA9IG5wLnplcm9zKE4sIGR0eXBlPWJvb2wpCiAgICAgICAgY3VyID0gMAogICAgICAgIGFjdHMgPSAwCiAgICAgICAgY3VydmUgPSBbXQogICAgICAgIGZvciB0IGluIHJhbmdlKHN0ZXBzKToKICAgICAgICAgICAgZXJyID0gbnAubGluYWxnLm5vcm0oRiAtIHByZWQsIGF4aXM9MSkgICAgICMg5qih5Z6L5a+55q+P5Liq54K555qE5LiN56Gu5a6a5oCnCiAgICAgICAgICAgIGlmIG1vZGUgPT0gImRyaXZlbiI6CiAgICAgICAgICAgICAgICAjIOWlveWlh+W/gyA9IOWOu+acgOS4jeehruWumueahOWcsOaWue+8m+aXoOiBiiA9IOWFqOWxgOS4jeehruWumuaAp+W3suW+iOS9jgogICAgICAgICAgICAgICAgc2MgPSBlcnIuY29weSgpCiAgICAgICAgICAgICAgICBzY1tjdXJdID0gLTEuMAogICAgICAgICAgICAgICAgc2MgPSBucC5leHAoc2MgKiAyLjAgLSBzYy5tYXgoKSAqIDIuMCArIDEyLjApCiAgICAgICAgICAgICAgICBzYyA9IG5wLmNsaXAoc2MsIDFlLTEyLCBOb25lKTsgc2MgLz0gc2Muc3VtKCkKICAgICAgICAgICAgICAgIG54dCA9IGludChybmcuY2hvaWNlKE4sIHA9c2MpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbnh0ID0gaW50KHJuZy5pbnRlZ2VycyhOKSkKICAgICAgICAgICAgYWN0cyArPSAxCiAgICAgICAgICAgIHZpc2l0ZWRbbnh0XSA9IFRydWUKICAgICAgICAgICAgcHJlZFtueHRdID0gRltueHRdICAgICAgICAgICAgICAgICAgICAgICAgICAjIOWtpuS5oO+8muabtOaWsOaooeWeiwogICAgICAgICAgICBjdXIgPSBueHQKICAgICAgICAgICAgY3VydmUuYXBwZW5kKGZsb2F0KG5wLmxpbmFsZy5ub3JtKEYgLSBwcmVkLCBheGlzPTEpLm1lYW4oKSkpCiAgICAgICAgcmV0dXJuIGFjdHMsIGN1cnZlLCBmbG9hdChucC5saW5hbGcubm9ybShGIC0gcHJlZCwgYXhpcz0xKS5tZWFuKCkpCgogICAgZGEsIGRjLCBkZmluYWwgPSBydW4oImRyaXZlbiIpCiAgICByYSwgcmMsIHJmaW5hbCA9IHJ1bigicmFuZG9tIikKICAgICMg6Ieq5Y+R546H5Lik6ICF6YO9PjAgLT4g5LiN5piv5Yik5o2u44CC55yf5Yik5o2u5pivIuWGhemDqOS4lueVjOaooeWei+aUtuaVm+mAn+W6piIKICAgIFJbIkwyIl0gPSBkaWN0KHNwb250YW5lb3VzX3JhdGVfZHJpdmVuPWRhIC8gc3RlcHMsIHNwb250YW5lb3VzX3JhdGVfcmFuZG9tPXJhIC8gc3RlcHMsCiAgICAgICAgICAgICAgICAgICBtb2RlbF9lcnJfZmluYWxfZHJpdmVuPWRmaW5hbCwgbW9kZWxfZXJyX2ZpbmFsX3JhbmRvbT1yZmluYWwsCiAgICAgICAgICAgICAgICAgICBtb2RlbF9lcnJfc3RhcnQ9ZmxvYXQoZGNbMF0pLAogICAgICAgICAgICAgICAgICAgcmVkdWN0aW9uX2RyaXZlbj0xIC0gZGZpbmFsIC8gbWF4KGRjWzBdLCAxZS05KSwKICAgICAgICAgICAgICAgICAgIHJlZHVjdGlvbl9yYW5kb209MSAtIHJmaW5hbCAvIG1heChyY1swXSwgMWUtOSksCiAgICAgICAgICAgICAgICAgICB0ZXJyYWluPU4sCiAgICAgICAgICAgICAgICAgICBwYXNzXz1ib29sKGRmaW5hbCA8IHJmaW5hbCAqIDAuOSkpCiAgICBsb2coZiJbTDIg6KCV6JmrXSDoh6rlj5HnjocgZHJpdmVuPXtkYS9zdGVwczouM2Z9IHJhbmRvbT17cmEvc3RlcHM6LjNmfSAgPC0g5Lik6ICF6YO9PjDvvIzkuI3og73kvZzliKTmja4iKQogICAgbG9nKGYiW0wyIOigleiZq10g5YaF6YOo5LiW55WM5qih5Z6L5q6L5beuIOi1t+eCuT17ZGNbMF06LjRmfSAiCiAgICAgICAgZiJkcml2ZW7mnKs9e2RmaW5hbDouNGZ9KOmZjXsxMDAqKDEtZGZpbmFsL2RjWzBdKTouMWZ9JSkgIgogICAgICAgIGYicmFuZG9t5pyrPXtyZmluYWw6LjRmfSjpmY17MTAwKigxLXJmaW5hbC9yY1swXSk6LjFmfSUpICIKICAgICAgICBmIi0+IHsnUEFTUycgaWYgUlsnTDInXVsncGFzc18nXSBlbHNlICdGQUlMJ30iKQogICAgcmV0dXJuIFJbIkwyIl0KCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIEwzIOmxvO+8mua1t+mprOWcsOWbviAvIOiupOi3rwojIOacuuWItu+8muWcqOecn+WunuebruW9leWbvuS4iuW7uue0ouW8lSjovrk95Y+v5YGa6L2s56e7LOadgz1jb3N0Ke+8jOeUqCBCRlMg5rGC5ZueIGhvbWUg55qE5pyA55+t6LevCiMg5a+554Wn77yac2h1ZmZsZWQgbWFwKOi+ueadg+aJk+S5sSkg4oCU4oCUIOW6lOmAgOWbnumaj+acuua4uOi1sOawtOW5swojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZWYgbDNfZmlzaChzZWVkPTEzLCB0cmlhbHM9NDApOgogICAgdGVyciA9IGJ1aWxkX3RlcnJhaW4obWF4X25vZGVzPTE2MCkKICAgIGlmIGxlbih0ZXJyKSA8IDMwOgogICAgICAgIGxvZygiTDMg5Zyw5b2i5aSq5bCPIik7IHJldHVybiBOb25lCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIGlkeCA9IHtwOiBpIGZvciBpLCBwIGluIGVudW1lcmF0ZSh0ZXJyKX0KICAgIGhvbWUgPSB0ZXJyWzBdCgogICAgIyDpgrvmjqXvvJrniLblrZDnm67lvZUgKyDlhYTlvJ8o5ZCM54i2KSDigJTigJQg55yf5a6e5Y+v6LWwCiAgICBwYXJlbnQgPSB7cDogb3MucGF0aC5kaXJuYW1lKHApIGZvciBwIGluIHRlcnJ9CiAgICBhZGogPSB7aTogc2V0KCkgZm9yIGkgaW4gcmFuZ2UobGVuKHRlcnIpKX0KICAgIGZvciBwIGluIHRlcnI6CiAgICAgICAgaWYgcGFyZW50W3BdIGluIGlkeDoKICAgICAgICAgICAgYSwgYiA9IGlkeFtwXSwgaWR4W3BhcmVudFtwXV0KICAgICAgICAgICAgYWRqW2FdLmFkZChiKTsgYWRqW2JdLmFkZChhKQogICAgYnlwYXIgPSB7fQogICAgZm9yIHAgaW4gdGVycjogYnlwYXIuc2V0ZGVmYXVsdChwYXJlbnRbcF0sIFtdKS5hcHBlbmQocCkKICAgIGZvciBfLCBncnAgaW4gYnlwYXIuaXRlbXMoKToKICAgICAgICBpZHMgPSBbaWR4W3hdIGZvciB4IGluIGdycCBpZiB4IGluIGlkeF0KICAgICAgICBmb3IgYSBpbiBpZHM6CiAgICAgICAgICAgIGZvciBiIGluIGlkczoKICAgICAgICAgICAgICAgIGlmIGEgIT0gYjogYWRqW2FdLmFkZChiKQogICAgYWRqID0ge2s6IHNvcnRlZCh2KSBmb3IgaywgdiBpbiBhZGouaXRlbXMoKSBpZiB2fQogICAgIyBjb3N077ya55uu5b2V5rex5bqm5beuICsg5ZCN5a2X6ZW/5bqm5beu77yIIua4uOi/h+WOuyLnmoTku6Pku7fvvIkKICAgIGRlZiBjb3N0KGEsIGIpOgogICAgICAgIHJldHVybiAxLjAgKyBhYnModGVyclthXS5jb3VudChvcy5zZXApIC0gdGVycltiXS5jb3VudChvcy5zZXApKSAqIDAuNQoKICAgIGRlZiBiZnMoc3JjLCBkc3QsIHc9Tm9uZSk6CiAgICAgICAgaW1wb3J0IGhlYXBxCiAgICAgICAgRCA9IHtzcmM6IDAuMH07IHBxID0gWygwLjAsIHNyYyldCiAgICAgICAgd2hpbGUgcHE6CiAgICAgICAgICAgIGQsIHUgPSBoZWFwcS5oZWFwcG9wKHBxKQogICAgICAgICAgICBpZiB1ID09IGRzdDogcmV0dXJuIGQsIEQKICAgICAgICAgICAgaWYgZCA+IEQuZ2V0KHUsIDFlMTgpOiBjb250aW51ZQogICAgICAgICAgICBmb3IgdiBpbiBhZGouZ2V0KHUsIFtdKToKICAgICAgICAgICAgICAgIGMgPSB3KHUsIHYpIGlmIHcgZWxzZSAxLjAKICAgICAgICAgICAgICAgIG5kID0gZCArIGMKICAgICAgICAgICAgICAgIGlmIG5kIDwgRC5nZXQodiwgMWUxOCk6CiAgICAgICAgICAgICAgICAgICAgRFt2XSA9IG5kOyBoZWFwcS5oZWFwcHVzaChwcSwgKG5kLCB2KSkKICAgICAgICByZXR1cm4gTm9uZSwgRAoKICAgIGRlZiByYW5kb21faG9tZShzcmMpOgogICAgICAgIGN1ciA9IHNyYzsgc3RlcHMgPSAwCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoNDAwMCk6CiAgICAgICAgICAgIGlmIGN1ciA9PSBpZHhbaG9tZV06IHJldHVybiBmbG9hdChzdGVwcykKICAgICAgICAgICAgbmIgPSBhZGouZ2V0KGN1ciwgW10pCiAgICAgICAgICAgIGlmIG5vdCBuYjogcmV0dXJuIGZsb2F0KHN0ZXBzKQogICAgICAgICAgICBjdXIgPSBuYltpbnQocm5nLmludGVnZXJzKGxlbihuYikpKV07IHN0ZXBzICs9IDEKICAgICAgICByZXR1cm4gZmxvYXQoc3RlcHMpCgogICAgc3RhcnRzID0gW2kgZm9yIGkgaW4gYWRqLmtleXMoKSBpZiBpICE9IGlkeFtob21lXV0KICAgIGlmIGxlbihzdGFydHMpIDwgdHJpYWxzOiBzdGFydHMgPSBzdGFydHMgKiAodHJpYWxzIC8vIG1heCgxLCBsZW4oc3RhcnRzKSkgKyAxKQogICAgc3RhcnRzID0gc3RhcnRzWzp0cmlhbHNdCgogICAgbWFwX2xlbiwgcm5kX2xlbiwgc2h1Zl9sZW4gPSBbXSwgW10sIFtdCiAgICBkZWYgc2h1Zl93KGEsIGIpOiAgIyDmiZPkubHnmoTlnLDlm77vvJpjb3N0IOmaj+acuuWMlu+8jOegtOWdj+ecn+Wunue7k+aehAogICAgICAgIHJldHVybiBmbG9hdChybmcuaW50ZWdlcnMoMSwgNDApKQogICAgZm9yIHMgaW4gc3RhcnRzOgogICAgICAgIGQsIF8gPSBiZnMocywgaWR4W2hvbWVdLCBjb3N0KQogICAgICAgIGlmIGQgaXMgTm9uZTogY29udGludWUKICAgICAgICBtYXBfbGVuLmFwcGVuZChkKQogICAgICAgIHJuZF9sZW4uYXBwZW5kKHJhbmRvbV9ob21lKHMpKQogICAgICAgIGQyLCBfID0gYmZzKHMsIGlkeFtob21lXSwgc2h1Zl93KQogICAgICAgIHNodWZfbGVuLmFwcGVuZChkMiBpZiBkMiBpcyBub3QgTm9uZSBlbHNlIGZsb2F0KGQpKQoKICAgIG0gPSBmbG9hdChucC5tZWFuKG1hcF9sZW4pKTsgciA9IGZsb2F0KG5wLm1lYW4ocm5kX2xlbikpOyBzaCA9IGZsb2F0KG5wLm1lYW4oc2h1Zl9sZW4pKQogICAgUlsiTDMiXSA9IGRpY3QobWFwX3N0ZXBzPW0sIHJhbmRvbV9zdGVwcz1yLCBzaHVmZmxlZF9zdGVwcz1zaCwKICAgICAgICAgICAgICAgICAgIHNob3J0Y3V0X3JhdGlvPW0gLyBtYXgociwgMWUtOSksIG5fbm9kZXM9bGVuKHRlcnIpLAogICAgICAgICAgICAgICAgICAgcGFzc189Ym9vbChtIDwgciAqIDAuNzUpKQogICAgbG9nKGYiW0wzIOmxvF0g5ZueaG9tZeatpeaVsCDlnLDlm749e206LjNmfSDpmo/mnLo9e3I6LjNmfSDmiZPkubHlnLDlm749e3NoOi4zZn0gIgogICAgICAgIGYi5o235b6E5q+UPXttL21heChyLDFlLTkpOi4zZn0gLT4geydQQVNTJyBpZiBSWydMMyddWydwYXNzXyddIGVsc2UgJ0ZBSUwnfSIpCiAgICByZXR1cm4gUlsiTDMiXQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBsMV9zZWFfYW5lbW9uZSgpOyBsMl93b3JtKCk7IGwzX2Zpc2goKQogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHRfbDEzLmpzb24iKSwgInciKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChSLCBmLCBpbmRlbnQ9MiwgZW5zdXJlX2FzY2lpPUZhbHNlKQogICAgbG9nKCJzYXZlZCByZXN1bHRfbDEzLmpzb24iKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+生物阶梯 -> 硅基形态 逐格可实施机制与验收
+L1 海葵(闭环) / L2 蠕虫(自发调度器) / L3 鱼(认知地图)
+每格必须带一个"能失败的对照"，否则不是验收。
+"""
+import os, sys, json, time, math, random, hashlib, struct, fcntl, socket
+import numpy as np
+
+FB = "/dev/fb0"
+ROOT = "/data/workspace/luoshen-o1"
+OUT = os.path.dirname(os.path.abspath(__file__))
+R = {}
+
+def log(s): print(s, flush=True)
+
+# ---------------------------------------------------------------
+# L1 海葵：感官全 + 有手 + 不挪窝 + 每条输出流回输入
+# 机制：act -> 写 fb0 -> 立刻回读同一区域 -> 比对 -> 修正
+# 对照：open(做了动作但回读不用于修正) / blind(不回读)
+# 判据必须能同时产生真和假：closed 应显著优于 open≈blind
+# ---------------------------------------------------------------
+def l1_sea_anemone(n=8, seed=7):
+    rng = np.random.default_rng(seed)
+    try:
+        fb = open(FB, "rb+")
+        fi = fcntl.ioctl(fb, 0x4600, bytes(64))
+        xres, yres = struct.unpack("II", fi[0:8])
+        bpp = struct.unpack("I", fi[20:24])[0] or 32
+        W = xres * (bpp // 8)
+    except Exception as e:
+        log(f"L1 fb0 不可用: {e}")
+        return None
+
+    def put(pix, val):
+        # 在 fb0 上打一个 8x8 的方块，值 val(0..255) 灰度
+        r = 8
+        x0 = int(pix[0]) * r; y0 = int(pix[1]) * r
+        blk = np.full((r, r, 4), val, dtype=np.uint8); blk[:, :, 3] = 255
+        for dy in range(r):
+            off = (y0 + dy) * W + x0 * 4
+            fb.seek(off); fb.write(blk[dy].tobytes())
+        fb.flush()
+
+    def get(pix):
+        # 必须逐行 seek：屏幕行有 stride，一次连续 read 会全落在同一行内
+        r = 8
+        x0 = int(pix[0]) * r; y0 = int(pix[1]) * r
+        rows = []
+        for dy in range(r):
+            fb.seek((y0 + dy) * W + x0 * 4)
+            rows.append(fb.read(r * 4))
+        a = np.frombuffer(b"".join(rows), dtype=np.uint8).reshape(r, r, 4)
+        return float(a[:, :, 0].mean())
+
+    arms = {}
+    # 真实闭环语义：我设定目标 -> 世界把它改了 -> 只有回读并修正才能守住
+    for arm in ("closed", "open", "blind"):
+        errs = []
+        for t in range(n):
+            target = float(rng.integers(40, 215))
+            loc = (t % 100, t % 90)
+            put(loc, int(target))                       # 手：设定目标
+            put(loc, int(rng.integers(0, 255)))          # 世界扰动：被别的进程覆盖
+            if arm == "blind":
+                # 盲：不回读。误差由外部测量器给出(agent自己看不到)
+                errs.append(abs(target - get(loc)))
+                continue
+            read = get(loc)                              # 眼：回读
+            if arm == "closed":
+                if abs(read - target) > 2:               # 发现被改 -> 修正
+                    put(loc, int(np.clip(target, 0, 255)))
+                    read = get(loc)
+                errs.append(abs(target - read))
+            else:                                        # open: 看到了但不改
+                errs.append(abs(target - read))
+        arms[arm] = dict(mean_err=float(np.mean(errs)), n=n)
+
+    # 判据：closed 显著优于 open；open 与 blind 应都可劣
+    R["L1"] = dict(arms=arms, real="fb0 write+readback",
+                   pass_=bool(arms["closed"]["mean_err"] < arms["open"]["mean_err"]))
+    log(f"[L1 海葵] closed={arms['closed']['mean_err']:.4f} "
+        f"open={arms['open']['mean_err']:.4f} blind={arms['blind']['mean_err']:.4f} "
+        f"-> {'PASS' if R['L1']['pass_'] else 'FAIL'}")
+    try: fb.close()
+    except Exception: pass
+    return R["L1"]
+
+
+# ---------------------------------------------------------------
+# L2 蠕虫：自己起意的调度器
+# 关键陷阱：spontaneous_rate>0 太弱——随机调度器也满足。
+# 所以真判据是"自发的动作有没有带来信息增益(IG)"，对照=随机调度。
+# 地形：真实目录树
+# ---------------------------------------------------------------
+def build_terrain(root=ROOT, max_nodes=220):
+    nodes = []
+    for dp, dns, fns in os.walk(root):
+        nodes.append(dp)
+        if len(nodes) >= max_nodes: break
+    return nodes[:max_nodes]
+
+def l2_worm(steps=260, seed=11):
+    terr = build_terrain()
+    if len(terr) < 30:
+        log("L2 地形太小"); return None
+    home = terr[0]
+    rng = np.random.default_rng(seed)
+
+    def feature(p):
+        # 廉价本体特征：目录深度 + 子项数 + 名字哈希（决定"这里有没有东西"）
+        try:
+            items = os.listdir(p)
+        except Exception:
+            items = []
+        depth = p.count(os.sep)
+        return np.array([depth, len(items), len(p) % 17], dtype=float)
+
+    feats = {p: feature(p) for p in terr}
+
+    F = np.array([feats[p] for p in terr])
+    F = (F - F.mean(0)) / (F.std(0) + 1e-9)      # 标准化，避免量纲支配
+    N = len(terr)
+
+    def run(mode):
+        # 内部世界模型：对每个节点的特征做预测，访问后更新
+        pred = np.tile(F.mean(0), (N, 1))
+        visited = np.zeros(N, dtype=bool)
+        cur = 0
+        acts = 0
+        curve = []
+        for t in range(steps):
+            err = np.linalg.norm(F - pred, axis=1)     # 模型对每个点的不确定性
+            if mode == "driven":
+                # 好奇心 = 去最不确定的地方；无聊 = 全局不确定性已很低
+                sc = err.copy()
+                sc[cur] = -1.0
+                sc = np.exp(sc * 2.0 - sc.max() * 2.0 + 12.0)
+                sc = np.clip(sc, 1e-12, None); sc /= sc.sum()
+                nxt = int(rng.choice(N, p=sc))
+            else:
+                nxt = int(rng.integers(N))
+            acts += 1
+            visited[nxt] = True
+            pred[nxt] = F[nxt]                          # 学习：更新模型
+            cur = nxt
+            curve.append(float(np.linalg.norm(F - pred, axis=1).mean()))
+        return acts, curve, float(np.linalg.norm(F - pred, axis=1).mean())
+
+    da, dc, dfinal = run("driven")
+    ra, rc, rfinal = run("random")
+    # 自发率两者都>0 -> 不是判据。真判据是"内部世界模型收敛速度"
+    R["L2"] = dict(spontaneous_rate_driven=da / steps, spontaneous_rate_random=ra / steps,
+                   model_err_final_driven=dfinal, model_err_final_random=rfinal,
+                   model_err_start=float(dc[0]),
+                   reduction_driven=1 - dfinal / max(dc[0], 1e-9),
+                   reduction_random=1 - rfinal / max(rc[0], 1e-9),
+                   terrain=N,
+                   pass_=bool(dfinal < rfinal * 0.9))
+    log(f"[L2 蠕虫] 自发率 driven={da/steps:.3f} random={ra/steps:.3f}  <- 两者都>0，不能作判据")
+    log(f"[L2 蠕虫] 内部世界模型残差 起点={dc[0]:.4f} "
+        f"driven末={dfinal:.4f}(降{100*(1-dfinal/dc[0]):.1f}%) "
+        f"random末={rfinal:.4f}(降{100*(1-rfinal/rc[0]):.1f}%) "
+        f"-> {'PASS' if R['L2']['pass_'] else 'FAIL'}")
+    return R["L2"]
+
+
+# ---------------------------------------------------------------
+# L3 鱼：海马地图 / 认路
+# 机制：在真实目录图上建索引(边=可做转移,权=cost)，用 BFS 求回 home 的最短路
+# 对照：shuffled map(边权打乱) —— 应退回随机游走水平
+# ---------------------------------------------------------------
+def l3_fish(seed=13, trials=40):
+    terr = build_terrain(max_nodes=160)
+    if len(terr) < 30:
+        log("L3 地形太小"); return None
+    rng = np.random.default_rng(seed)
+    idx = {p: i for i, p in enumerate(terr)}
+    home = terr[0]
+
+    # 邻接：父子目录 + 兄弟(同父) —— 真实可走
+    parent = {p: os.path.dirname(p) for p in terr}
+    adj = {i: set() for i in range(len(terr))}
+    for p in terr:
+        if parent[p] in idx:
+            a, b = idx[p], idx[parent[p]]
+            adj[a].add(b); adj[b].add(a)
+    bypar = {}
+    for p in terr: bypar.setdefault(parent[p], []).append(p)
+    for _, grp in bypar.items():
+        ids = [idx[x] for x in grp if x in idx]
+        for a in ids:
+            for b in ids:
+                if a != b: adj[a].add(b)
+    adj = {k: sorted(v) for k, v in adj.items() if v}
+    # cost：目录深度差 + 名字长度差（"游过去"的代价）
+    def cost(a, b):
+        return 1.0 + abs(terr[a].count(os.sep) - terr[b].count(os.sep)) * 0.5
+
+    def bfs(src, dst, w=None):
+        import heapq
+        D = {src: 0.0}; pq = [(0.0, src)]
+        while pq:
+            d, u = heapq.heappop(pq)
+            if u == dst: return d, D
+            if d > D.get(u, 1e18): continue
+            for v in adj.get(u, []):
+                c = w(u, v) if w else 1.0
+                nd = d + c
+                if nd < D.get(v, 1e18):
+                    D[v] = nd; heapq.heappush(pq, (nd, v))
+        return None, D
+
+    def random_home(src):
+        cur = src; steps = 0
+        for _ in range(4000):
+            if cur == idx[home]: return float(steps)
+            nb = adj.get(cur, [])
+            if not nb: return float(steps)
+            cur = nb[int(rng.integers(len(nb)))]; steps += 1
+        return float(steps)
+
+    starts = [i for i in adj.keys() if i != idx[home]]
+    if len(starts) < trials: starts = starts * (trials // max(1, len(starts)) + 1)
+    starts = starts[:trials]
+
+    map_len, rnd_len, shuf_len = [], [], []
+    def shuf_w(a, b):  # 打乱的地图：cost 随机化，破坏真实结构
+        return float(rng.integers(1, 40))
+    for s in starts:
+        d, _ = bfs(s, idx[home], cost)
+        if d is None: continue
+        map_len.append(d)
+        rnd_len.append(random_home(s))
+        d2, _ = bfs(s, idx[home], shuf_w)
+        shuf_len.append(d2 if d2 is not None else float(d))
+
+    m = float(np.mean(map_len)); r = float(np.mean(rnd_len)); sh = float(np.mean(shuf_len))
+    R["L3"] = dict(map_steps=m, random_steps=r, shuffled_steps=sh,
+                   shortcut_ratio=m / max(r, 1e-9), n_nodes=len(terr),
+                   pass_=bool(m < r * 0.75))
+    log(f"[L3 鱼] 回home步数 地图={m:.3f} 随机={r:.3f} 打乱地图={sh:.3f} "
+        f"捷径比={m/max(r,1e-9):.3f} -> {'PASS' if R['L3']['pass_'] else 'FAIL'}")
+    return R["L3"]
+
+
+if __name__ == "__main__":
+    l1_sea_anemone(); l2_worm(); l3_fish()
+    with open(os.path.join(OUT, "result_l13.json"), "w") as f:
+        json.dump(R, f, indent=2, ensure_ascii=False)
+    log("saved result_l13.json")

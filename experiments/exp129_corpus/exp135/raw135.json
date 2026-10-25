@@ -1,1 +1,272 @@
-WwogewogICJmaWxlIjogImZhc3RjaGF0X2xsbV9qdWRnZV9jb21tb24ucHkiLAogICJlZ19pZCI6ICJFRzAwOSIsCiAgInNldmVyaXR5IjogIndhcm4iLAogICJsaW5lIjogNDAsCiAgImhpdCI6ICJgdGVtcGVyYXR1cmVfY29uZmlnYCBhc3NpZ25lZCwgbmV2ZXIgcmVhZCIsCiAgInRpdGxlIjogIkFzc2lnbmVkIHZhcmlhYmxlIG5ldmVyIHVzZWQgKHNpbGVudCBkZWFkIHZhcmlhYmxlKSIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJmYXN0Y2hhdF9sbG1fanVkZ2VfY29tbW9uLnB5IiwKICAiZWdfaWQiOiAiRUcwMTAiLAogICJzZXZlcml0eSI6ICJpbmZvIiwKICAibGluZSI6IDEsCiAgImhpdCI6ICJvbmx5IG9uZSBtZXRyaWMgZmFtaWx5IHByZXNlbnQiLAogICJ0aXRsZSI6ICJTaW5nbGUgbWV0cmljIGRyaXZlcyB0aGUgY29uY2x1c2lvbjsgbm8gc2Vjb25kIGluZGVwZW5kZW50IG1lYXN1cmUiLAogICJjbGFzcyI6ICJtZXRob2RvbG9neSIKIH0sCiB7CiAgImZpbGUiOiAiZmFzdGNoYXRfbGxtX2p1ZGdlX2NvbW1vbi5weSIsCiAgImVnX2lkIjogIkVHUDA1IiwKICAic2V2ZXJpdHkiOiAiYmxvY2tlciIsCiAgImxpbmUiOiAxLAogICJoaXQiOiAiZXZhbHVhdGlvbiB3aXRoIG5vIHRyYWluL2V2YWwgc3BsaXQiLAogICJ0aXRsZSI6ICJUcmFpbiBhbmQgZXZhbHVhdGlvbiBkYXRhIGxvYWRlZCBmcm9tIHRoZSBzYW1lIHNvdXJjZSB3aXRoIG5vIHNwbGl0IiwKICAiY2xhc3MiOiAibWV0aG9kb2xvZ3kiCiB9LAogewogICJmaWxlIjogImZhc3RjaGF0X2xsbV9qdWRnZV9jb21tb24ucHkiLAogICJlZ19pZCI6ICJFR1AwOCIsCiAgInNldmVyaXR5IjogIndhcm4iLAogICJsaW5lIjogNjkwLAogICJoaXQiOiAiYXNzZXJ0KHMpIGluIGBjaGVja19kYXRhKClgIG91dHNpZGUgYW55IHRyeSBibG9jayIsCiAgInRpdGxlIjogIkFzc2VydGlvbnMgb25seSBndWFyZCB0aGUgc3VjY2VzcyBwYXRoIiwKICAiY2xhc3MiOiAibWV0aG9kb2xvZ3kiCiB9LAogewogICJmaWxlIjogImZhc3RjaGF0X2xsbV9qdWRnZV9jb21tb24ucHkiLAogICJlZ19pZCI6ICJFR1AxMCIsCiAgInNldmVyaXR5IjogImJsb2NrZXIiLAogICJsaW5lIjogMTQ3LAogICJoaXQiOiAiYW5zd2VyW1wiY2hvaWNlc1wiXVswXVtcInR1cm5zXCJdWzBdIiwKICAidGl0bGUiOiAiTW9kZWwgcmVzcG9uc2UgaW5kZXhlZCBpbnRvIHdpdGhvdXQgdmFsaWRhdGluZyBpdHMgc2hhcGUiLAogICJjbGFzcyI6ICJtZXRob2RvbG9neSIKIH0sCiB7CiAgImZpbGUiOiAiZmFzdGNoYXRfbGxtX2p1ZGdlX2NvbW1vbi5weSIsCiAgImVnX2lkIjogIkVHUDEwIiwKICAic2V2ZXJpdHkiOiAiYmxvY2tlciIsCiAgImxpbmUiOiAxNDgsCiAgImhpdCI6ICJhbnN3ZXJbXCJjaG9pY2VzXCJdWzBdW1widHVybnNcIl1bMV0iLAogICJ0aXRsZSI6ICJNb2RlbCByZXNwb25zZSBpbmRleGVkIGludG8gd2l0aG91dCB2YWxpZGF0aW5nIGl0cyBzaGFwZSIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJmYXN0Y2hhdF9sbG1fanVkZ2VfY29tbW9uLnB5IiwKICAiZWdfaWQiOiAiRUdQMTAiLAogICJzZXZlcml0eSI6ICJibG9ja2VyIiwKICAibGluZSI6IDE1NCwKICAiaGl0IjogImFuc3dlcltcImNob2ljZXNcIl1bMF1bXCJ0dXJuc1wiXVswXSIsCiAgInRpdGxlIjogIk1vZGVsIHJlc3BvbnNlIGluZGV4ZWQgaW50byB3aXRob3V0IHZhbGlkYXRpbmcgaXRzIHNoYXBlIiwKICAiY2xhc3MiOiAibWV0aG9kb2xvZ3kiCiB9LAogewogICJmaWxlIjogImZhc3RjaGF0X2xsbV9qdWRnZV9jb21tb24ucHkiLAogICJlZ19pZCI6ICJFR1AxMCIsCiAgInNldmVyaXR5IjogImJsb2NrZXIiLAogICJsaW5lIjogMTQ3LAogICJoaXQiOiAiYW5zd2VyW1wiY2hvaWNlc1wiXVswXVtcInR1cm5zXCJdIiwKICAidGl0bGUiOiAiTW9kZWwgcmVzcG9uc2UgaW5kZXhlZCBpbnRvIHdpdGhvdXQgdmFsaWRhdGluZyBpdHMgc2hhcGUiLAogICJjbGFzcyI6ICJtZXRob2RvbG9neSIKIH0sCiB7CiAgImZpbGUiOiAiaGF5c3RhY2tfY29tcG9uZW50c19ldmFsdWF0b3JzX2RvY3VtZW50X3JlY2FsbC5weSIsCiAgImVnX2lkIjogIkVHMDAyIiwKICAic2V2ZXJpdHkiOiAiYmxvY2tlciIsCiAgImxpbmUiOiA5MCwKICAiaGl0IjogIlJlY2FsbE1vZGUuZnJvbV9zdHIobW9kZSkg4oCUIG5vIGJhc2VsaW5lIHN5bWJvbCBmb3VuZCIsCiAgInRpdGxlIjogIkFjY3VyYWN5L3JlY2FsbCByZXBvcnRlZCB3aXRoIG5vIHJhbmRvbSBiYXNlbGluZSIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJoYXlzdGFja19jb21wb25lbnRzX2V2YWx1YXRvcnNfZG9jdW1lbnRfcmVjYWxsLnB5IiwKICAiZWdfaWQiOiAiRUdQMDYiLAogICJzZXZlcml0eSI6ICJ3YXJuIiwKICAibGluZSI6IDE5MCwKICAiaGl0IjogIm1ldHJpYyByZXBvcnRlZCB3aXRoIG5vIHNwcmVhZCBvciByZXBlYXQiLAogICJ0aXRsZSI6ICJTaW5nbGUtc2VlZCBzaW5nbGUtcnVuOiBubyB2YXJpYW5jZSByZXBvcnRlZCIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJoYXlzdGFja19jb21wb25lbnRzX2V2YWx1YXRvcnNfZG9jdW1lbnRfcmVjYWxsLnB5IiwKICAiZWdfaWQiOiAiRUdQMDkiLAogICJzZXZlcml0eSI6ICJ3YXJuIiwKICAibGluZSI6IDE5MiwKICAiaGl0IjogIm1lYW4gb3ZlciBzYW1wbGVzIGluIGBydW5gIHdpdGggbm8gdGFpbCBzdGF0aXN0aWMiLAogICJ0aXRsZSI6ICJQZXItc2FtcGxlIHNjb3JlcyBjb2xsYXBzZWQgdG8gYSBtZWFuIHdpdGggbm8gdGFpbCByZXBvcnRlZCIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJoYXlzdGFja19ldmFsdWF0aW9uX2V2YWxfcnVuX3Jlc3VsdC5weSIsCiAgImVnX2lkIjogIkVHMDEwIiwKICAic2V2ZXJpdHkiOiAiaW5mbyIsCiAgImxpbmUiOiAxLAogICJoaXQiOiAib25seSBvbmUgbWV0cmljIGZhbWlseSBwcmVzZW50IiwKICAidGl0bGUiOiAiU2luZ2xlIG1ldHJpYyBkcml2ZXMgdGhlIGNvbmNsdXNpb247IG5vIHNlY29uZCBpbmRlcGVuZGVudCBtZWFzdXJlIiwKICAiY2xhc3MiOiAibWV0aG9kb2xvZ3kiCiB9LAogewogICJmaWxlIjogImhheXN0YWNrX2V2YWx1YXRpb25fZXZhbF9ydW5fcmVzdWx0LnB5IiwKICAiZWdfaWQiOiAiRUdQMDUiLAogICJzZXZlcml0eSI6ICJibG9ja2VyIiwKICAibGluZSI6IDEsCiAgImhpdCI6ICJldmFsdWF0aW9uIHdpdGggbm8gdHJhaW4vZXZhbCBzcGxpdCIsCiAgInRpdGxlIjogIlRyYWluIGFuZCBldmFsdWF0aW9uIGRhdGEgbG9hZGVkIGZyb20gdGhlIHNhbWUgc291cmNlIHdpdGggbm8gc3BsaXQiLAogICJjbGFzcyI6ICJtZXRob2RvbG9neSIKIH0sCiB7CiAgImZpbGUiOiAibWV0cmljc19hY2N1cmFjeV9hY2N1cmFjeS5weSIsCiAgImVnX2lkIjogIkVHMDEyIiwKICAic2V2ZXJpdHkiOiAid2FybiIsCiAgImxpbmUiOiAxMDIsCiAgImhpdCI6ICJgYWNjdXJhY3lgIGRlY2xhcmVkIHdpdGhvdXQgcG9zaXRpdmUgY29udHJvbCArIGNoYW5jZS1sZXZlbCBiYXNlbGluZSIsCiAgInRpdGxlIjogIklkZW50aWZpY2F0aW9uIGFjY3VyYWN5IHJlcG9ydGVkIHdpdGhvdXQgYSBwb3NpdGl2ZS1jb250cm9sIGFuY2hvciIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJtZXRyaWNzX2FjY3VyYWN5X2FjY3VyYWN5LnB5IiwKICAiZWdfaWQiOiAiRUdQMDUiLAogICJzZXZlcml0eSI6ICJibG9ja2VyIiwKICAibGluZSI6IDEsCiAgImhpdCI6ICJldmFsdWF0aW9uIHdpdGggbm8gdHJhaW4vZXZhbCBzcGxpdCIsCiAgInRpdGxlIjogIlRyYWluIGFuZCBldmFsdWF0aW9uIGRhdGEgbG9hZGVkIGZyb20gdGhlIHNhbWUgc291cmNlIHdpdGggbm8gc3BsaXQiLAogICJjbGFzcyI6ICJtZXRob2RvbG9neSIKIH0sCiB7CiAgImZpbGUiOiAicGFja2FnZXNfcGhvZW5peC1ldmFsc19zcmNfcGhvZW5peF9ldmFsc19ldmFsdWF0b3JzLnB5IiwKICAiZWdfaWQiOiAiRUcwMDkiLAogICJzZXZlcml0eSI6ICJ3YXJuIiwKICAibGluZSI6IDU0LAogICJoaXQiOiAiYEVuZm9yY2VkU3RyaW5nYCBhc3NpZ25lZCwgbmV2ZXIgcmVhZCIsCiAgInRpdGxlIjogIkFzc2lnbmVkIHZhcmlhYmxlIG5ldmVyIHVzZWQgKHNpbGVudCBkZWFkIHZhcmlhYmxlKSIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJwYWNrYWdlc19waG9lbml4LWV2YWxzX3NyY19waG9lbml4X2V2YWxzX2V2YWx1YXRvcnMucHkiLAogICJlZ19pZCI6ICJFRzAxMCIsCiAgInNldmVyaXR5IjogImluZm8iLAogICJsaW5lIjogMSwKICAiaGl0IjogIm9ubHkgb25lIG1ldHJpYyBmYW1pbHkgcHJlc2VudCIsCiAgInRpdGxlIjogIlNpbmdsZSBtZXRyaWMgZHJpdmVzIHRoZSBjb25jbHVzaW9uOyBubyBzZWNvbmQgaW5kZXBlbmRlbnQgbWVhc3VyZSIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJwcm9tcHRiZW5jaF9tZXRyaWNzX2V2YWwucHkiLAogICJlZ19pZCI6ICJFRzAwMiIsCiAgInNldmVyaXR5IjogImJsb2NrZXIiLAogICJsaW5lIjogMTAzLAogICJoaXQiOiAiQmxldSgpIOKAlCBubyBiYXNlbGluZSBzeW1ib2wgZm91bmQiLAogICJ0aXRsZSI6ICJBY2N1cmFjeS9yZWNhbGwgcmVwb3J0ZWQgd2l0aCBubyByYW5kb20gYmFzZWxpbmUiLAogICJjbGFzcyI6ICJtZXRob2RvbG9neSIKIH0sCiB7CiAgImZpbGUiOiAicHJvbXB0YmVuY2hfbWV0cmljc19ldmFsLnB5IiwKICAiZWdfaWQiOiAiRUcwMDUiLAogICJzZXZlcml0eSI6ICJ3YXJuIiwKICAibGluZSI6IDEzNSwKICAiaGl0IjogInN1bShhID09IGIgZm9yIGEsIGIgaW4gemlwKHByb2Nlc3NlZF9wcmVkcywgcHJvY2Vzc2VkX2d0cykpICIsCiAgInRpdGxlIjogIkRpdmlzaW9uIHdpdGhvdXQgZGVub21pbmF0b3IgZ3VhcmQiLAogICJjbGFzcyI6ICJzeW50YXgiCiB9LAogewogICJmaWxlIjogInByb21wdGJlbmNoX21ldHJpY3NfZXZhbC5weSIsCiAgImVnX2lkIjogIkVHUDA1IiwKICAic2V2ZXJpdHkiOiAiYmxvY2tlciIsCiAgImxpbmUiOiAxLAogICJoaXQiOiAiZXZhbHVhdGlvbiB3aXRoIG5vIHRyYWluL2V2YWwgc3BsaXQiLAogICJ0aXRsZSI6ICJUcmFpbiBhbmQgZXZhbHVhdGlvbiBkYXRhIGxvYWRlZCBmcm9tIHRoZSBzYW1lIHNvdXJjZSB3aXRoIG5vIHNwbGl0IiwKICAiY2xhc3MiOiAibWV0aG9kb2xvZ3kiCiB9LAogewogICJmaWxlIjogInByb21wdGJlbmNoX21ldHJpY3NfZXZhbC5weSIsCiAgImVnX2lkIjogIkVHUDA2IiwKICAic2V2ZXJpdHkiOiAid2FybiIsCiAgImxpbmUiOiA4MSwKICAiaGl0IjogIm1ldHJpYyByZXBvcnRlZCB3aXRoIG5vIHNwcmVhZCBvciByZXBlYXQiLAogICJ0aXRsZSI6ICJTaW5nbGUtc2VlZCBzaW5nbGUtcnVuOiBubyB2YXJpYW5jZSByZXBvcnRlZCIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJwcm9tcHRiZW5jaF9tZXRyaWNzX2V2YWwucHkiLAogICJlZ19pZCI6ICJFR1AwOSIsCiAgInNldmVyaXR5IjogIndhcm4iLAogICJsaW5lIjogNDksCiAgImhpdCI6ICJtZWFuIG92ZXIgc2FtcGxlcyBpbiBgY29tcHV0ZV9jbHNfYWNjdXJhY3lgIHdpdGggbm8gdGFpbCBzdGF0aXN0aWMiLAogICJ0aXRsZSI6ICJQZXItc2FtcGxlIHNjb3JlcyBjb2xsYXBzZWQgdG8gYSBtZWFuIHdpdGggbm8gdGFpbCByZXBvcnRlZCIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJwcm9tcHRiZW5jaF9tZXRyaWNzX2V2YWwucHkiLAogICJlZ19pZCI6ICJFR1AwOSIsCiAgInNldmVyaXR5IjogIndhcm4iLAogICJsaW5lIjogMTM1LAogICJoaXQiOiAibWVhbiBvdmVyIHNhbXBsZXMgaW4gYGNvbXB1dGVfbWF0aF9hY2N1cmFjeWAgd2l0aCBubyB0YWlsIHN0YXRpc3RpYyIsCiAgInRpdGxlIjogIlBlci1zYW1wbGUgc2NvcmVzIGNvbGxhcHNlZCB0byBhIG1lYW4gd2l0aCBubyB0YWlsIHJlcG9ydGVkIiwKICAiY2xhc3MiOiAibWV0aG9kb2xvZ3kiCiB9LAogewogICJmaWxlIjogInByb21wdGJlbmNoX3Byb21wdGV2YWxfbWV0aG9kcy5weSIsCiAgImVnX2lkIjogIkVHMDAxIiwKICAic2V2ZXJpdHkiOiAid2FybiIsCiAgImxpbmUiOiAyMTQsCiAgImhpdCI6ICJucC5yYW5kb20uUmFuZG9tU3RhdGUiLAogICJ0aXRsZSI6ICJTdG9jaGFzdGljIEFQSSB1c2VkIHdpdGhvdXQgYW55IHNlZWQgY2FsbCIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJwcm9tcHRiZW5jaF9wcm9tcHRldmFsX21ldGhvZHMucHkiLAogICJlZ19pZCI6ICJFRzAwNSIsCiAgInNldmVyaXR5IjogIndhcm4iLAogICJsaW5lIjogMjkxLAogICJoaXQiOiAiMSAvICgxICsgbnAuZXhwKC14X2NsaXBwZWQpKSIsCiAgInRpdGxlIjogIkRpdmlzaW9uIHdpdGhvdXQgZGVub21pbmF0b3IgZ3VhcmQiLAogICJjbGFzcyI6ICJzeW50YXgiCiB9LAogewogICJmaWxlIjogInNyY19jb3JlX3RydWxlbnNfY29yZV91dGlsc19ldmFsdWF0b3IucHkiLAogICJlZ19pZCI6ICJFRzAxMSIsCiAgInNldmVyaXR5IjogIndhcm4iLAogICJsaW5lIjogMzEzLAogICJoaXQiOiAibG9vcCBza2lwcyBpdGVtcyBhbmQgYWdncmVnYXRlcywgbm8gcGFpcmVkIGRpZmYiLAogICJ0aXRsZSI6ICJDb25kaXRpb24gY2FuIHNraXAgY2FzZXMsIGJ1dCByZXN1bHRzIGFyZSBjb21wYXJlZCBhcyBncm91cCByYXRlcyIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfSwKIHsKICAiZmlsZSI6ICJzcmNfY29yZV90cnVsZW5zX2NvcmVfdXRpbHNfZXZhbHVhdG9yLnB5IiwKICAiZWdfaWQiOiAiRUcwMTEiLAogICJzZXZlcml0eSI6ICJ3YXJuIiwKICAibGluZSI6IDQxOCwKICAiaGl0IjogImxvb3Agc2tpcHMgaXRlbXMgYW5kIGFnZ3JlZ2F0ZXMsIG5vIHBhaXJlZCBkaWZmIiwKICAidGl0bGUiOiAiQ29uZGl0aW9uIGNhbiBza2lwIGNhc2VzLCBidXQgcmVzdWx0cyBhcmUgY29tcGFyZWQgYXMgZ3JvdXAgcmF0ZXMiLAogICJjbGFzcyI6ICJtZXRob2RvbG9neSIKIH0sCiB7CiAgImZpbGUiOiAic3JjX2V2YWx1YXRlX2V2YWx1YXRvcl9iYXNlLnB5IiwKICAiZWdfaWQiOiAiRUcwMDUiLAogICJzZXZlcml0eSI6ICJ3YXJuIiwKICAibGluZSI6IDE3MiwKICAiaGl0IjogIm51bV9zYW1wbGVzIC8gbGF0ZW5jeSIsCiAgInRpdGxlIjogIkRpdmlzaW9uIHdpdGhvdXQgZGVub21pbmF0b3IgZ3VhcmQiLAogICJjbGFzcyI6ICJzeW50YXgiCiB9LAogewogICJmaWxlIjogInNyY19ldmFsdWF0ZV9ldmFsdWF0b3JfYmFzZS5weSIsCiAgImVnX2lkIjogIkVHMDA1IiwKICAic2V2ZXJpdHkiOiAid2FybiIsCiAgImxpbmUiOiAxNzMsCiAgImhpdCI6ICIxLjAgLyB0aHJvdWdocHV0IiwKICAidGl0bGUiOiAiRGl2aXNpb24gd2l0aG91dCBkZW5vbWluYXRvciBndWFyZCIsCiAgImNsYXNzIjogInN5bnRheCIKIH0sCiB7CiAgImZpbGUiOiAic3JjX2V2aWRlbnRseV9sZWdhY3lfYmFzZV9tZXRyaWMucHkiLAogICJlZ19pZCI6ICJFRzAxMCIsCiAgInNldmVyaXR5IjogImluZm8iLAogICJsaW5lIjogMSwKICAiaGl0IjogIm9ubHkgb25lIG1ldHJpYyBmYW1pbHkgcHJlc2VudCIsCiAgInRpdGxlIjogIlNpbmdsZSBtZXRyaWMgZHJpdmVzIHRoZSBjb25jbHVzaW9uOyBubyBzZWNvbmQgaW5kZXBlbmRlbnQgbWVhc3VyZSIsCiAgImNsYXNzIjogIm1ldGhvZG9sb2d5IgogfQpd
+[
+ {
+  "file": "fastchat_llm_judge_common.py",
+  "eg_id": "EG009",
+  "severity": "warn",
+  "line": 40,
+  "hit": "`temperature_config` assigned, never read",
+  "title": "Assigned variable never used (silent dead variable)",
+  "class": "methodology"
+ },
+ {
+  "file": "fastchat_llm_judge_common.py",
+  "eg_id": "EG010",
+  "severity": "info",
+  "line": 1,
+  "hit": "only one metric family present",
+  "title": "Single metric drives the conclusion; no second independent measure",
+  "class": "methodology"
+ },
+ {
+  "file": "fastchat_llm_judge_common.py",
+  "eg_id": "EGP05",
+  "severity": "blocker",
+  "line": 1,
+  "hit": "evaluation with no train/eval split",
+  "title": "Train and evaluation data loaded from the same source with no split",
+  "class": "methodology"
+ },
+ {
+  "file": "fastchat_llm_judge_common.py",
+  "eg_id": "EGP08",
+  "severity": "warn",
+  "line": 690,
+  "hit": "assert(s) in `check_data()` outside any try block",
+  "title": "Assertions only guard the success path",
+  "class": "methodology"
+ },
+ {
+  "file": "fastchat_llm_judge_common.py",
+  "eg_id": "EGP10",
+  "severity": "blocker",
+  "line": 147,
+  "hit": "answer[\"choices\"][0][\"turns\"][0]",
+  "title": "Model response indexed into without validating its shape",
+  "class": "methodology"
+ },
+ {
+  "file": "fastchat_llm_judge_common.py",
+  "eg_id": "EGP10",
+  "severity": "blocker",
+  "line": 148,
+  "hit": "answer[\"choices\"][0][\"turns\"][1]",
+  "title": "Model response indexed into without validating its shape",
+  "class": "methodology"
+ },
+ {
+  "file": "fastchat_llm_judge_common.py",
+  "eg_id": "EGP10",
+  "severity": "blocker",
+  "line": 154,
+  "hit": "answer[\"choices\"][0][\"turns\"][0]",
+  "title": "Model response indexed into without validating its shape",
+  "class": "methodology"
+ },
+ {
+  "file": "fastchat_llm_judge_common.py",
+  "eg_id": "EGP10",
+  "severity": "blocker",
+  "line": 147,
+  "hit": "answer[\"choices\"][0][\"turns\"]",
+  "title": "Model response indexed into without validating its shape",
+  "class": "methodology"
+ },
+ {
+  "file": "haystack_components_evaluators_document_recall.py",
+  "eg_id": "EG002",
+  "severity": "blocker",
+  "line": 90,
+  "hit": "RecallMode.from_str(mode) — no baseline symbol found",
+  "title": "Accuracy/recall reported with no random baseline",
+  "class": "methodology"
+ },
+ {
+  "file": "haystack_components_evaluators_document_recall.py",
+  "eg_id": "EGP06",
+  "severity": "warn",
+  "line": 190,
+  "hit": "metric reported with no spread or repeat",
+  "title": "Single-seed single-run: no variance reported",
+  "class": "methodology"
+ },
+ {
+  "file": "haystack_components_evaluators_document_recall.py",
+  "eg_id": "EGP09",
+  "severity": "warn",
+  "line": 192,
+  "hit": "mean over samples in `run` with no tail statistic",
+  "title": "Per-sample scores collapsed to a mean with no tail reported",
+  "class": "methodology"
+ },
+ {
+  "file": "haystack_evaluation_eval_run_result.py",
+  "eg_id": "EG010",
+  "severity": "info",
+  "line": 1,
+  "hit": "only one metric family present",
+  "title": "Single metric drives the conclusion; no second independent measure",
+  "class": "methodology"
+ },
+ {
+  "file": "haystack_evaluation_eval_run_result.py",
+  "eg_id": "EGP05",
+  "severity": "blocker",
+  "line": 1,
+  "hit": "evaluation with no train/eval split",
+  "title": "Train and evaluation data loaded from the same source with no split",
+  "class": "methodology"
+ },
+ {
+  "file": "metrics_accuracy_accuracy.py",
+  "eg_id": "EG012",
+  "severity": "warn",
+  "line": 102,
+  "hit": "`accuracy` declared without positive control + chance-level baseline",
+  "title": "Identification accuracy reported without a positive-control anchor",
+  "class": "methodology"
+ },
+ {
+  "file": "metrics_accuracy_accuracy.py",
+  "eg_id": "EGP05",
+  "severity": "blocker",
+  "line": 1,
+  "hit": "evaluation with no train/eval split",
+  "title": "Train and evaluation data loaded from the same source with no split",
+  "class": "methodology"
+ },
+ {
+  "file": "packages_phoenix-evals_src_phoenix_evals_evaluators.py",
+  "eg_id": "EG009",
+  "severity": "warn",
+  "line": 54,
+  "hit": "`EnforcedString` assigned, never read",
+  "title": "Assigned variable never used (silent dead variable)",
+  "class": "methodology"
+ },
+ {
+  "file": "packages_phoenix-evals_src_phoenix_evals_evaluators.py",
+  "eg_id": "EG010",
+  "severity": "info",
+  "line": 1,
+  "hit": "only one metric family present",
+  "title": "Single metric drives the conclusion; no second independent measure",
+  "class": "methodology"
+ },
+ {
+  "file": "promptbench_metrics_eval.py",
+  "eg_id": "EG002",
+  "severity": "blocker",
+  "line": 103,
+  "hit": "Bleu() — no baseline symbol found",
+  "title": "Accuracy/recall reported with no random baseline",
+  "class": "methodology"
+ },
+ {
+  "file": "promptbench_metrics_eval.py",
+  "eg_id": "EG005",
+  "severity": "warn",
+  "line": 135,
+  "hit": "sum(a == b for a, b in zip(processed_preds, processed_gts)) ",
+  "title": "Division without denominator guard",
+  "class": "syntax"
+ },
+ {
+  "file": "promptbench_metrics_eval.py",
+  "eg_id": "EGP05",
+  "severity": "blocker",
+  "line": 1,
+  "hit": "evaluation with no train/eval split",
+  "title": "Train and evaluation data loaded from the same source with no split",
+  "class": "methodology"
+ },
+ {
+  "file": "promptbench_metrics_eval.py",
+  "eg_id": "EGP06",
+  "severity": "warn",
+  "line": 81,
+  "hit": "metric reported with no spread or repeat",
+  "title": "Single-seed single-run: no variance reported",
+  "class": "methodology"
+ },
+ {
+  "file": "promptbench_metrics_eval.py",
+  "eg_id": "EGP09",
+  "severity": "warn",
+  "line": 49,
+  "hit": "mean over samples in `compute_cls_accuracy` with no tail statistic",
+  "title": "Per-sample scores collapsed to a mean with no tail reported",
+  "class": "methodology"
+ },
+ {
+  "file": "promptbench_metrics_eval.py",
+  "eg_id": "EGP09",
+  "severity": "warn",
+  "line": 135,
+  "hit": "mean over samples in `compute_math_accuracy` with no tail statistic",
+  "title": "Per-sample scores collapsed to a mean with no tail reported",
+  "class": "methodology"
+ },
+ {
+  "file": "promptbench_prompteval_methods.py",
+  "eg_id": "EG001",
+  "severity": "warn",
+  "line": 214,
+  "hit": "np.random.RandomState",
+  "title": "Stochastic API used without any seed call",
+  "class": "methodology"
+ },
+ {
+  "file": "promptbench_prompteval_methods.py",
+  "eg_id": "EG005",
+  "severity": "warn",
+  "line": 291,
+  "hit": "1 / (1 + np.exp(-x_clipped))",
+  "title": "Division without denominator guard",
+  "class": "syntax"
+ },
+ {
+  "file": "src_core_trulens_core_utils_evaluator.py",
+  "eg_id": "EG011",
+  "severity": "warn",
+  "line": 313,
+  "hit": "loop skips items and aggregates, no paired diff",
+  "title": "Condition can skip cases, but results are compared as group rates",
+  "class": "methodology"
+ },
+ {
+  "file": "src_core_trulens_core_utils_evaluator.py",
+  "eg_id": "EG011",
+  "severity": "warn",
+  "line": 418,
+  "hit": "loop skips items and aggregates, no paired diff",
+  "title": "Condition can skip cases, but results are compared as group rates",
+  "class": "methodology"
+ },
+ {
+  "file": "src_evaluate_evaluator_base.py",
+  "eg_id": "EG005",
+  "severity": "warn",
+  "line": 172,
+  "hit": "num_samples / latency",
+  "title": "Division without denominator guard",
+  "class": "syntax"
+ },
+ {
+  "file": "src_evaluate_evaluator_base.py",
+  "eg_id": "EG005",
+  "severity": "warn",
+  "line": 173,
+  "hit": "1.0 / throughput",
+  "title": "Division without denominator guard",
+  "class": "syntax"
+ },
+ {
+  "file": "src_evidently_legacy_base_metric.py",
+  "eg_id": "EG010",
+  "severity": "info",
+  "line": 1,
+  "hit": "only one metric family present",
+  "title": "Single metric drives the conclusion; no second independent measure",
+  "class": "methodology"
+ }
+]

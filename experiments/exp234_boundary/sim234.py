@@ -1,1 +1,85 @@
-aW1wb3J0IHJhbmRvbSwganNvbiwgc3RhdGlzdGljcyBhcyBzdAoKZGVmIHJ1bihLPTMsIFA9MjAsIGQ9MC4yLCBpc289MC45LCBwaGFzZT0nc3RhZ2dlcicsIFQ9NDAwLAogICAgICAgIHBfZ2xvYj0wLjAxMCwgcF9sb2M9MC4wMDQsIHNlZWRzPTQwLCBncmFuPU5vbmUpOgogICAgIiIiCiAgICBLOuWkh+S7veaVsCAgUDrlkIzmraXlkajmnJ8gIGQ656qX5Y+j5Y2g56m65q+UICBpc2866ZqU56a75bqmKOa8guenu+WinumAnykKICAgIHBoYXNlOiAnYWxpZ24nIOWQjOaXtuW8gOeqlyAvICdzdGFnZ2VyJyDlnYfljIDplJnlvIAKICAgIGdyYW46IOi+ueeVjOeykuW6pihn5qGj56a75pWj5YyWaXNvKSwgTm9uZT3ov57nu60KICAgICIiIgogICAgc3VydnMsIGNvbXBzLCBqb2ludHMgPSBbXSwgW10sIFtdCiAgICBmb3IgcyBpbiByYW5nZShzZWVkcyk6CiAgICAgICAgciA9IHJhbmRvbS5SYW5kb20ocyo5MTErMTMpCiAgICAgICAgbWFpbiA9IFRydWUKICAgICAgICAjIOavj+S4quWkh+S7veeahCBpc2/vvIjlvILotKggb3Ig5ZCM6LSo55SxIGdyYW4g5o6n5Yi256a75pWj5YyW77yJCiAgICAgICAgaXNvcyA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoSyk6CiAgICAgICAgICAgIGJhc2UgPSBpc28KICAgICAgICAgICAgaWYgZ3JhbjogICMg56a75pWj5YiwIGcg5qGjCiAgICAgICAgICAgICAgICBiYXNlID0gcm91bmQoYmFzZSpncmFuKS9ncmFuCiAgICAgICAgICAgIGlzb3MuYXBwZW5kKGJhc2UpCiAgICAgICAgcGhhc2VzID0gWyAoaSpQLy9LIGlmIHBoYXNlPT0nc3RhZ2dlcicgZWxzZSAwKSBmb3IgaSBpbiByYW5nZShLKSBdCiAgICAgICAgZHJpZnQgPSBbMC4wXSpLCiAgICAgICAgYWxpdmUgPSBbVHJ1ZV0qSwogICAgICAgIGZvciB0IGluIHJhbmdlKFQpOgogICAgICAgICAgICBmb3IgaSBpbiByYW5nZShLKToKICAgICAgICAgICAgICAgIGlmIG5vdCBhbGl2ZVtpXTogY29udGludWUKICAgICAgICAgICAgICAgIGluX3dpbiA9ICgodCArIHBoYXNlc1tpXSkgJSBQKSA8IG1heCgxLCBpbnQoZCpQKSkKICAgICAgICAgICAgICAgIGlmIGluX3dpbjoKICAgICAgICAgICAgICAgICAgICBkcmlmdFtpXSA9IDAuMCAgICAgICAgICAgICAgICAgIyDlkIzmraXnqpflj6PvvJrmvILnp7vmuIXpm7YKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZHJpZnRbaV0gPSBtaW4oMS4wLCBkcmlmdFtpXSArIDAuMDEyKmlzb3NbaV0pCiAgICAgICAgICAgICMg54G+6Zq+CiAgICAgICAgICAgIGlmIHIucmFuZG9tKCkgPCBwX2dsb2I6CiAgICAgICAgICAgICAgICAjIOWFqOWxgO+8muaJk+WHu+S4u+aWh+aYjiArIOaJgOacieWkhOS6juWQjOatpeeql+WPo+eahOWkh+S7vQogICAgICAgICAgICAgICAgaWYgbWFpbiBhbmQgci5yYW5kb20oKSA8IDAuNzU6IG1haW4gPSBGYWxzZQogICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoSyk6CiAgICAgICAgICAgICAgICAgICAgaWYgbm90IGFsaXZlW2ldOiBjb250aW51ZQogICAgICAgICAgICAgICAgICAgIGluX3dpbiA9ICgodCArIHBoYXNlc1tpXSkgJSBQKSA8IG1heCgxLCBpbnQoZCpQKSkKICAgICAgICAgICAgICAgICAgICBpZiBpbl93aW4gYW5kIHIucmFuZG9tKCkgPCAwLjc1OiBhbGl2ZVtpXSA9IEZhbHNlCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKEspOgogICAgICAgICAgICAgICAgaWYgYWxpdmVbaV0gYW5kIHIucmFuZG9tKCkgPCBwX2xvYyBhbmQgci5yYW5kb20oKSA8IDAuNjoKICAgICAgICAgICAgICAgICAgICBhbGl2ZVtpXSA9IEZhbHNlCiAgICAgICAgICAgICMg5Li75paH5piO5q275Lqh5ZCO5LuO5YW85a655aSH5Lu95oGi5aSNCiAgICAgICAgICAgIGlmIG5vdCBtYWluOgogICAgICAgICAgICAgICAgYmVzdCA9IE5vbmUKICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKEspOgogICAgICAgICAgICAgICAgICAgIGlmIGFsaXZlW2ldOgogICAgICAgICAgICAgICAgICAgICAgICBjID0gMS4wIC0gZHJpZnRbaV0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgYmVzdCBpcyBOb25lIG9yIGMgPiBiZXN0OiBiZXN0ID0gYwogICAgICAgICAgICAgICAgaWYgYmVzdCBpcyBub3QgTm9uZSBhbmQgYmVzdCA+IDAuMDU6CiAgICAgICAgICAgICAgICAgICAgbWFpbiA9IFRydWUKICAgICAgICAgICAgICAgICAgICBjb21wcy5hcHBlbmQoYmVzdCkgaWYgRmFsc2UgZWxzZSBOb25lCiAgICAgICAgZmluX2NvbXAgPSBtYXgoWzEuMC1kcmlmdFtpXSBmb3IgaSBpbiByYW5nZShLKSBpZiBhbGl2ZVtpXV0sIGRlZmF1bHQ9MC4wKQogICAgICAgIHN1cnZzLmFwcGVuZCgxLjAgaWYgbWFpbiBlbHNlIDAuMCkKICAgICAgICBjb21wcy5hcHBlbmQoZmluX2NvbXApCiAgICAgICAgam9pbnRzLmFwcGVuZCgoMS4wIGlmIG1haW4gZWxzZSAwLjApKmZpbl9jb21wKQogICAgcmV0dXJuIHN0Lm1lYW4oc3VydnMpLCBzdC5tZWFuKGNvbXBzKSwgc3QubWVhbihqb2ludHMpCgpvdXQ9e30KcHJpbnQoIj09IFAg5ZGo5pyf5omr5o+PIChLPTMsZD0wLjIsaXNvPTAuOSxzdGFnZ2VyKSA9PSIpCmZvciBQIGluIFsxLDMsNSwxMCwyMCw1MCwxMDAsNDAwXToKICAgIHMsYyxqID0gcnVuKFA9UCk7IG91dFsnUD0lZCclUF09eydzdXJ2Jzpyb3VuZChzLDMpLCdjb21wJzpyb3VuZChjLDMpLCdqb2ludCc6cm91bmQoaiwzKX0KICAgIHByaW50KCIgUD0lLTRkIHN1cnY9JS4zZiBjb21wPSUuM2Ygam9pbnQ9JS4zZiIlKFAscyxjLGopKQoKcHJpbnQoIj09IOWNoOepuuavlCBkIOaJq+aPjyAoUD0yMCkgPT0iKQpmb3IgZCBpbiBbMC4wNSwwLjEsMC4yLDAuMzUsMC41LDAuOF06CiAgICBzLGMsaiA9IHJ1bihQPTIwLGQ9ZCk7IG91dFsnZD0lLjJmJyVkXT17J3N1cnYnOnJvdW5kKHMsMyksJ2NvbXAnOnJvdW5kKGMsMyksJ2pvaW50Jzpyb3VuZChqLDMpfQogICAgcHJpbnQoIiBkPSUuMmYgc3Vydj0lLjNmIGNvbXA9JS4zZiBqb2ludD0lLjNmIiUoZCxzLGMsaikpCgpwcmludCgiPT0g55u45L2NOiDlr7npvZAgdnMg6ZSZ5byAID09IikKZm9yIHBoIGluIFsnYWxpZ24nLCdzdGFnZ2VyJ106CiAgICBzLGMsaiA9IHJ1bihQPTIwLGQ9MC4yLHBoYXNlPXBoKTsgb3V0WydwaGFzZT0lcyclcGhdPXsnc3Vydic6cm91bmQocywzKSwnY29tcCc6cm91bmQoYywzKSwnam9pbnQnOnJvdW5kKGosMyl9CiAgICBwcmludCgiICUtOHMgc3Vydj0lLjNmIGNvbXA9JS4zZiBqb2ludD0lLjNmIiUocGgscyxjLGopKQoKcHJpbnQoIj09IEsg5omr5o+PIChQPTIwLGQ9MC4yLHN0YWdnZXIpID09IikKZm9yIEsgaW4gWzEsMiwzLDUsOCwxMl06CiAgICBzLGMsaiA9IHJ1bihLPUspOyBvdXRbJ0s9JWQnJUtdPXsnc3Vydic6cm91bmQocywzKSwnY29tcCc6cm91bmQoYywzKSwnam9pbnQnOnJvdW5kKGosMyl9CiAgICBwcmludCgiIEs9JS0zZCBzdXJ2PSUuM2YgY29tcD0lLjNmIGpvaW50PSUuM2YiJShLLHMsYyxqKSkKCnByaW50KCI9PSDnspLluqYgZ3JhbiDmiavmj48gKFA9MjApID09IikKZm9yIGcgaW4gWzIsMyw1LDEwLDUwXToKICAgIHMsYyxqID0gcnVuKGdyYW49Zyk7IG91dFsnZ3Jhbj0lZCclZ109eydzdXJ2Jzpyb3VuZChzLDMpLCdjb21wJzpyb3VuZChjLDMpLCdqb2ludCc6cm91bmQoaiwzKX0KICAgIHByaW50KCIgZ3Jhbj0lLTNkIHN1cnY9JS4zZiBjb21wPSUuM2Ygam9pbnQ9JS4zZiIlKGcscyxjLGopKQoKanNvbi5kdW1wKG91dCwgb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMjM0X2JvdW5kYXJ5L3Jlc3VsdDIzNC5qc29uJywndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+import random, json, statistics as st
+
+def run(K=3, P=20, d=0.2, iso=0.9, phase='stagger', T=400,
+        p_glob=0.010, p_loc=0.004, seeds=40, gran=None):
+    """
+    K:备份数  P:同步周期  d:窗口占空比  iso:隔离度(漂移增速)
+    phase: 'align' 同时开窗 / 'stagger' 均匀错开
+    gran: 边界粒度(g档离散化iso), None=连续
+    """
+    survs, comps, joints = [], [], []
+    for s in range(seeds):
+        r = random.Random(s*911+13)
+        main = True
+        # 每个备份的 iso（异质 or 同质由 gran 控制离散化）
+        isos = []
+        for i in range(K):
+            base = iso
+            if gran:  # 离散到 g 档
+                base = round(base*gran)/gran
+            isos.append(base)
+        phases = [ (i*P//K if phase=='stagger' else 0) for i in range(K) ]
+        drift = [0.0]*K
+        alive = [True]*K
+        for t in range(T):
+            for i in range(K):
+                if not alive[i]: continue
+                in_win = ((t + phases[i]) % P) < max(1, int(d*P))
+                if in_win:
+                    drift[i] = 0.0                 # 同步窗口：漂移清零
+                else:
+                    drift[i] = min(1.0, drift[i] + 0.012*isos[i])
+            # 灾难
+            if r.random() < p_glob:
+                # 全局：打击主文明 + 所有处于同步窗口的备份
+                if main and r.random() < 0.75: main = False
+                for i in range(K):
+                    if not alive[i]: continue
+                    in_win = ((t + phases[i]) % P) < max(1, int(d*P))
+                    if in_win and r.random() < 0.75: alive[i] = False
+            for i in range(K):
+                if alive[i] and r.random() < p_loc and r.random() < 0.6:
+                    alive[i] = False
+            # 主文明死亡后从兼容备份恢复
+            if not main:
+                best = None
+                for i in range(K):
+                    if alive[i]:
+                        c = 1.0 - drift[i]
+                        if best is None or c > best: best = c
+                if best is not None and best > 0.05:
+                    main = True
+                    comps.append(best) if False else None
+        fin_comp = max([1.0-drift[i] for i in range(K) if alive[i]], default=0.0)
+        survs.append(1.0 if main else 0.0)
+        comps.append(fin_comp)
+        joints.append((1.0 if main else 0.0)*fin_comp)
+    return st.mean(survs), st.mean(comps), st.mean(joints)
+
+out={}
+print("== P 周期扫描 (K=3,d=0.2,iso=0.9,stagger) ==")
+for P in [1,3,5,10,20,50,100,400]:
+    s,c,j = run(P=P); out['P=%d'%P]={'surv':round(s,3),'comp':round(c,3),'joint':round(j,3)}
+    print(" P=%-4d surv=%.3f comp=%.3f joint=%.3f"%(P,s,c,j))
+
+print("== 占空比 d 扫描 (P=20) ==")
+for d in [0.05,0.1,0.2,0.35,0.5,0.8]:
+    s,c,j = run(P=20,d=d); out['d=%.2f'%d]={'surv':round(s,3),'comp':round(c,3),'joint':round(j,3)}
+    print(" d=%.2f surv=%.3f comp=%.3f joint=%.3f"%(d,s,c,j))
+
+print("== 相位: 对齐 vs 错开 ==")
+for ph in ['align','stagger']:
+    s,c,j = run(P=20,d=0.2,phase=ph); out['phase=%s'%ph]={'surv':round(s,3),'comp':round(c,3),'joint':round(j,3)}
+    print(" %-8s surv=%.3f comp=%.3f joint=%.3f"%(ph,s,c,j))
+
+print("== K 扫描 (P=20,d=0.2,stagger) ==")
+for K in [1,2,3,5,8,12]:
+    s,c,j = run(K=K); out['K=%d'%K]={'surv':round(s,3),'comp':round(c,3),'joint':round(j,3)}
+    print(" K=%-3d surv=%.3f comp=%.3f joint=%.3f"%(K,s,c,j))
+
+print("== 粒度 gran 扫描 (P=20) ==")
+for g in [2,3,5,10,50]:
+    s,c,j = run(gran=g); out['gran=%d'%g]={'surv':round(s,3),'comp':round(c,3),'joint':round(j,3)}
+    print(" gran=%-3d surv=%.3f comp=%.3f joint=%.3f"%(g,s,c,j))
+
+json.dump(out, open('/data/workspace/luoshen-o1/experiments/exp234_boundary/result234.json','w'), ensure_ascii=False, indent=1)

@@ -1,1 +1,313 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrogqnoopblm5vogozljY/lkIznqLPlrpog4oCU4oCUIOKYhTM1IOacquW7uuaooemhue+8jOacrOaooeWdl+ihpeS4igo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYhSDkuLrku4DkuYjlv4XpobvmnInogqnoopbvvIjov5nmmK8g4piFMzUg55WZ5LiL55qE5qC45b+D6Zeu6aKY77yJCiAgICDlhbPoioLnm4Llj6ropobnm5bogrHpqqjlpLTnuqYgMS8z77yI4piFMzXvvIkKICAgIOWFiemdoOmqqOaAp+e7k+aehO+8jOiCsemqqOWktOS8muWDj+eQg+aUvuWcqOa1heein+S4iiDigJTigJQg5LiA5o6o5bCx5ruR5Ye65Y67CiAg4piFIOiCqeiilueahOS9nOeUqOS4jeaYr+OAkOS6p+eUn+i/kOWKqOOAke+8jOaYr+OAkOaKiueQg+WOi+i/m+ein+mHjOOAkQogICAg4piFIOi/meWPqyDlh7npnaLljovnvKkgY29uY2F2aXR5IGNvbXByZXNzaW9uCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS4gOOAgeWbm+iCjO+8iFNJVFPvvIlSRUFMCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIFMgIHN1cHJhc3BpbmF0dXMgICAg5YaI5LiK6IKMICAgIOWkluWxleWQr+WKqCArIOWOi+e8qQogICAgSSAgaW5mcmFzcGluYXR1cyAgICDlhojkuIvogowgICAg5aSW5peLICsg5ZCO5ZCR5Y6L57ypCiAgICBUICB0ZXJlcyBtaW5vciAgICAgIOWwj+WchuiCjCAgICDlpJbml4sgKyDlkI7lkJHljovnvKkKICAgIFMgIHN1YnNjYXB1bGFyaXMgICAg6IKp6IOb5LiL6IKMICDlhoXml4sgKyDliY3lkJHljovnvKkKCiAgICDotbfmraLvvJrpg73ku47ogqnog5vpqqgg4oaSIOiCsemqqOWkp+Wwj+e7k+iKgu+8jOiCjOiFseiejeWQiOaIkOOAkOiCqeiiluiFseW4veOAkeWMheS9j+iCsemqqOWktAogICAg4piFIOWbm+iCjOS4jeaYr+WQhOW5suWQhOeahO+8jOaYr+aKiuiCsemqqOWktOOAkOijueS9j+OAkQoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkuozjgIHimIXimIUg5Lik5Liq5py65Yi25b+F6aG75YiG5byA55yL77yI5pys5qih5Z2X55qE5qC45b+D5a+554Wn77yJCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOacuuWItkEg5Ye56Z2i5Y6L57ypIGNvbmNhdml0eSBjb21wcmVzc2lvbgogICAgICDogqnoopbmiorogrHpqqjlpLTjgJDljovov5vjgJHlhbPoioLnm4IKICAgICAg4piFIOWOi+e8qeWKm+i2iuWkp++8jOiDveaKteaKl+eahOWJquWIh+WKm+i2iuWkp++8iOexu+S8vOaRqeaTpumUpe+8iQoKICAgIOacuuWItkIg5Yqb5YG2IGZvcmNlIGNvdXBsZQogICAgICDnurXlkJHlipvlgbbvvJrkuInop5LogozvvIjlkJHkuIrvvIkgdnMg5YaI5LiLK+Wwj+Wchivogqnog5vkuIvvvIjlkJHkuIvvvIkKICAgICAgICDimIUg5LiJ6KeS6IKM5Y2V54us5pS257yp5Lya5oqK6IKx6aqo5aS044CQ5ZCR5LiK5ou944CR5pKe6IKp5bOwCiAgICAgICAg4piFIOiCqeiiluaPkOS+m+WQkeS4iyvlkJHlhoXliIbph4/mirXmtogKICAgICAg5qiq5ZCR5Yqb5YG277ya6IKp6IOb5LiL6IKM77yI5YmN77yJIHZzIOWGiOS4iyvlsI/lnIbvvIjlkI7vvIkKICAgICAgICDimIUg5YmN5ZCO5bmz6KGh77yM5pSv54K55omN5Zyo55uC5Lit5b+DCgogICAg4piF4piFIOa2iOiejeWvueeFp++8muWPquS/neeVmSBBIOaIluWPquS/neeVmSBC77yM56iz5a6a5oCn6YO95LiN5aSfCiAgICAgIOKGkiDor4HmmI7kuKTkuKrmnLrliLbpg73lv4XpnIDvvIznvLrkuIDkuI3lj68KCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LiJ44CB4piFIOWKm+iHguS6pOWPie+8muS4uuS7gOS5iOWGiOS4iuiCjOaSleijguWQjuOAkOWQr+WKqOOAkeWbsOmavgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBSRUFM77ya5LiJ6KeS6IKM5Yqb6IeC6ZqP5aSW5bGV5aKe5aSn77yIMMKwIOe6piAxLjVjbSDihpIgOTDCsCDnuqYgMy41Y23vvIkKICAgICAgICAgIOWGiOS4iuiCjOWKm+iHguWHoOS5juaBkuWumu+8iOe6piAyLjJjbe+8iQogICAg4piFIOS6pOWPieWcqOe6piAzMMKw77yaCiAgICAgIDB+MzDCsCAgIOWGiOS4iuiCjOWKm+iHgiA+IOS4ieinkuiCjCDihpIg5YaI5LiK6IKM5piv44CQ5ZCv5Yqo6IKM44CRCiAgICAgID4zMMKwICAgIOS4ieinkuiCjOaOpeeuoQogICAg4piFIOi/meino+mHiuS6hu+8muWGiOS4iuiCjOaSleijgiDihpIg5ZCv5Yqo5aSW5bGV5Zuw6Zq+77yIMH4zMMKw77yJCiAgICAgIOS9huS4gOaXpuaKrOi/hyA0MH42MMKw77yM5LiJ6KeS6IKM6IO95o6l566hIOKGkiBkcm9wIGFybSAvIOeWvOeXm+W8pwoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrlm5vjgIFSRUFMIOaVsOWAvAotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDogozmqKrmiKrpnaLnp68gQ1NB77yIY23Csu+8ieS4juacgOWkp+iCjOWKm++8iE7vvIzmjIkgfjYwIE4vY23Csu+8iQogICAgICDlhojkuIrogowgICAgIDUuMCAg4oaSIOe6piAzMDAgTgogICAgICDlhojkuIvogowgICAgIDcuNiAg4oaSIOe6piA0NTYgTgogICAgICDlsI/lnIbogowgICAgIDMuMCAg4oaSIOe6piAxODAgTgogICAgICDogqnog5vkuIvogowgICA5LjAgIOKGkiDnuqYgNTQwIE4KICAgICAg5LiJ6KeS6IKMICAgIDIwLjAgIOKGkiDnuqYgMTIwMCBOCgogICAg6IKp5bOw6IKx6aqo6Ze06LedIEFIRO+8muato+W4uOe6piAxMCBtbe+8jDwgNyBtbSDmj5DnpLrogqnoopbmkpXoo4IKICAgIOeWvOeXm+W8pyBwYWluZnVsIGFyY++8mjYwfjEyMMKwCiAgICDlhbPoioLnm4Llh7npnaLmt7HluqbvvJrnuqYgMi41IG1t77yI5a2f5ZSH5YaN5Yqg5rex57qmIDUwJe+8iQoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkupTjgIHnl4XnkIbvvIjlj6/or4HkvKrnmoTlr7nnhafvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg4pGgIOWGiOS4iuiCjOWNleeLrOaSleijgiAg4oaSIOeos+WumuavlOWPmOW3ru+8jOS9huWFtuS9meS4ieiCjOS7jeWcqAogICAg4pGhIOWFqOWxguW3qOWkp+aSleijgiAgICDihpIg6IKx6aqo5aS05LiK56e777yMQUhEIDwgNyBtbQogICAg4pGiIOWBh+aAp+m6u+eXuSAgICAgICAg4oaSIOS4ieinkuiCjOacieWKm+S9huaKrOS4jei1t+adpe+8iOaXoOaUr+eCue+8iQogICAg4pGjIOebguWUh+WIh+mZpCAgICAgICAg4oaSIOWHuemdoua3seW6puWHj+WNiiDihpIg56iz5a6a5oCn5pi+6JGX5LiL6ZmNCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCmltcG9ydCBudW1weSBhcyBucAoKIyAtLS0tLS0tLS0tLS0tLS0tIFJFQUw6IOWbm+iCjCAtLS0tLS0tLS0tLS0tLS0tCkNVRkYgPSB7CiAgICAjICAgICAgICAgICAgQ1NBKGNtwrIpICAg5YqbKE4pICAgICAgIOS4u+WKn+iDvSAgICAgIOWOi+e8qeaWueWQkQogICAgIuWGiOS4iuiCjCI6ICAgZGljdChjc2E9NS4wLCAgZm9yY2U9MzAwLjAsICByb2xlPSLlpJblsZXlkK/liqgiLCBkaXI9IuWGhSIpLAogICAgIuWGiOS4i+iCjCI6ICAgZGljdChjc2E9Ny42LCAgZm9yY2U9NDU2LjAsICByb2xlPSLlpJbml4siLCAgICAgZGlyPSLlkI7kuIsiKSwKICAgICLlsI/lnIbogowiOiAgIGRpY3QoY3NhPTMuMCwgIGZvcmNlPTE4MC4wLCAgcm9sZT0i5aSW5peLIiwgICAgIGRpcj0i5ZCO5LiLIiksCiAgICAi6IKp6IOb5LiL6IKMIjogZGljdChjc2E9OS4wLCAgZm9yY2U9NTQwLjAsICByb2xlPSLlhoXml4siLCAgICAgZGlyPSLliY3kuIsiKSwKfQpERUxUID0gZGljdChjc2E9MjAuMCwgZm9yY2U9MTIwMC4wLCByb2xlPSLlpJblsZXkuLvlipsiLCBkaXI9IuS4iuWkliIpCgojIFJFQUwg54m55a6a5Y6L5bqU5YqbIH42MCBOL2NtwrIKU1BFQ0lGSUNfVEVOU0lPTiA9IDYwLjAKCiMgUkVBTCDogozohbHluLjlj5fntK/pobrluo8KVEVBUl9PUkRFUiA9IFsi5YaI5LiK6IKMIiwgIuWGiOS4i+iCjCIsICLogqnog5vkuIvogowiLCAi5bCP5ZyG6IKMIl0KCiMgUkVBTDog6IKp5bOw6IKx6aqo6Ze06LedIG1tCkFIRF9OT1JNQUxfTU0gPSAxMC4wCkFIRF9QQVRIT0xPR0lDX01NID0gNy4wCgojIFJFQUw6IOeWvOeXm+W8pwpQQUlORlVMX0FSQyA9ICg2MC4wLCAxMjAuMCkKCiMgUkVBTDog5YWz6IqC55uC5Ye56Z2i5rex5bqmIG1t77yI55uC5ZSH5YaN5Yqg5rex57qmIDUwJe+8iQpHTEVOT0lEX0RFUFRIX01NID0gMi41CkxBQlJVTV9HQUlOID0gMS41ICAgICAgICAgICMg55uC5ZSH5L2/5pyJ5pWI5rex5bqmIMOXMS41CgojIOKYhSDmrovkvZnljovnvKnvvIhO77yJ77ya6IKp6KKW5YWo5pat5ZCO5LuN5pyJ6aqo5oCnK+WFs+iKguWbiivogrHkuozlpLTogozplb/lpLQr6KKr5Yqo5byg5YqbCiMgICDimqDvuI8g5rKh5pyJ6L+Z5LiA6aG577yM5YWo5pat5pe256iz5a6a5q+U5Lya5Y+R5pWj5YiwIDVlOO+8iOaXoOaEj+S5ieeahOaVsO+8iQpNSU5fQ09NUFJFU1NJT05fTiA9IDgwLjAKCiMgUkVBTDog5Yqb6IeC77yIY23vvIkKTUFfU1VQUkFfQ00gPSAyLjIgICAgICAgICAgICAgICAgICAgICAgICAjIOWGiOS4iuiCjO+8jOi/keS5juaBkuWumgpNQV9ERUxUT0lEX0NNID0gKDEuNSwgMy41KSAgICAgICAgICAgICAgICMg5LiJ6KeS6IKMIDDCsCDihpIgOTDCsAoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4gOOAgeWbm+iCjOS4juWKmwojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGN1ZmZfbGlzdCgpIC0+IGxpc3Q6CiAgICByZXR1cm4gbGlzdChDVUZGLmtleXMoKSkKCgpkZWYgY3VmZl9mb3JjZShtOiBzdHIsIHNjYWxlOiBmbG9hdCA9IDEuMCkgLT4gZmxvYXQ6CiAgICByZXR1cm4gQ1VGRlttXVsiZm9yY2UiXSAqIHNjYWxlCgoKZGVmIHRvdGFsX2NvbXByZXNzaW9uKGludGFjdDogbGlzdCB8IE5vbmUgPSBOb25lKSAtPiBmbG9hdDoKICAgICIiIuKYhSDlm5vogozlkIjlipvkuK3jgJDljovlkJHlhbPoioLnm4LjgJHnmoTliIbph4/kuYvlkozjgIIiIiIKICAgIGludGFjdCA9IGludGFjdCBpZiBpbnRhY3QgaXMgbm90IE5vbmUgZWxzZSBjdWZmX2xpc3QoKQogICAgIyDmr4/lnZfogoznmoTlipvlj6rmnInkuIDpg6jliIbnlKjkuo7ljovnvKnvvIjlhbbkvZnnlKjkuo7ml4vovazvvIkKICAgICMgUkVBTCDnroDljJbvvJrljovnvKnliIbph4/ns7vmlbAKICAgIHNoYXJlID0geyLlhojkuIrogowiOiAwLjYwLCAi5YaI5LiL6IKMIjogMC40NSwKICAgICAgICAgICAgICLlsI/lnIbogowiOiAwLjQ1LCAi6IKp6IOb5LiL6IKMIjogMC41MH0KICAgIHJldHVybiBmbG9hdChzdW0oQ1VGRlttXVsiZm9yY2UiXSAqIHNoYXJlW21dIGZvciBtIGluIGludGFjdCkpCgoKZGVmIGRlbHRvaWRfc2hlYXIoYWJkdWN0X2RlZzogZmxvYXQpIC0+IGZsb2F0OgogICAgIiIi4piFIOS4ieinkuiCjOeahOOAkOWQkeS4iuWJquWIh+OAkeWIhumHjyDigJTigJQg6L+Z5piv6KaB6KKr5oq15raI55qE5Z2P5Lic6KW/44CCCgogICAg4piFIOWkluWxleinkui2iuWkp++8jOS4ieinkuiCjOi2iuaOpei/keWeguebtOWQkeS4iuaLiSDihpIg5Ymq5YiH6LaK5aSnCiAgICAiIiIKICAgIHRoID0gbnAuZGVnMnJhZChhYmR1Y3RfZGVnKQogICAgIyDkuInop5LogozlipvmlrnlkJHnm7jlr7nogrHpqqjvvJrlpJblsZXml7blkJHkuIrliIbph4/lop7lpKcKICAgIHVwID0gbnAuc2luKHRoKSAqIDAuNSArIDAuNSAqICh0aCAvIChucC5waSAvIDIpKQogICAgcmV0dXJuIGZsb2F0KERFTFRbImZvcmNlIl0gKiBucC5jbGlwKHVwLCAwLjAsIDEuMCkpCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LqM44CB4piF4piFIOeos+WumuavlCA9IOWJquWIhyAvIOWOi+e8qe+8iOi2iuWwj+i2iueos++8iQojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIHN0YWJpbGl0eV9yYXRpbyhpbnRhY3Q6IGxpc3QgfCBOb25lID0gTm9uZSwgYWJkdWN0X2RlZzogZmxvYXQgPSA2MC4wLAogICAgICAgICAgICAgICAgICAgIGxhYnJ1bTogYm9vbCA9IFRydWUsCiAgICAgICAgICAgICAgICAgICAgY29uY2F2aXR5OiBib29sID0gVHJ1ZSwKICAgICAgICAgICAgICAgICAgICBmb3JjZV9jb3VwbGU6IGJvb2wgPSBUcnVlKSAtPiBkaWN0OgogICAgIiIi4piF4piFIOaguOW/g+aMh+agh++8mueos+WumuavlCA9IOWJquWIhyAvIOWOi+e8qe+8iFJFQUwg56ewIHN0YWJpbGl0eSByYXRpb++8ieOAggoKICAgIOKYhSDmtojono3lvIDlhbPvvIjov5nmmK/mnKzmqKHlnZfnmoTph43ngrnvvInvvJoKICAgICAgY29uY2F2aXR5ICAgIEZhbHNlIOKGkiDlhbPmjonjgJDlh7npnaLljovnvKnjgJHmnLrliLZBCiAgICAgIGZvcmNlX2NvdXBsZSBGYWxzZSDihpIg5YWz5o6J44CQ5Yqb5YG244CR5py65Yi2QgogICAg4piFIOWFs+aOieS7u+S4gOS4qu+8jOeos+WumuavlOmDveW6lOWPmOW3riDigJTigJQg6K+B5piO5Lik5Liq5py65Yi26YO95b+F6ZyACgogICAg4pqg77iPIOacrOWHveaVsOesrOS6jOeJiOS/ruS6huS4pOS4qiBidWfvvJoKICAgICAg4pGgIOiCqeiiluWFqOaWreaXtiBjb21wIOKGkiAw77yM56iz5a6a5q+U5Y+R5pWj5YiwIDVlOO+8iOaXoOaEj+S5ieeahOaVsO+8iQogICAgICAgICDihpIg5YqgIE1JTl9DT01QUkVTU0lPTl9O77ya5YWz6IqC5ZuKL+iCseS6jOWktOiCjOmVv+WktC/ooqvli5XlvKDlipvnmoTmrovkvZkKICAgICAg4pGhIGZvcmNlX2NvdXBsZT1UcnVlIOaXtuWNs+S9vyBpbnRhY3Qg5Li656m65Lmf5omn6KGMIHNoZWFyKj0wLjU1CiAgICAgICAgIOKGkiDmsqHmnInogozogonlsLHkuI3lj6/og73lvaLmiJDlipvlgbbvvIzov5nmmK/msLjnnJ/mipjmiaMKICAgICIiIgogICAgaW50YWN0ID0gaW50YWN0IGlmIGludGFjdCBpcyBub3QgTm9uZSBlbHNlIGN1ZmZfbGlzdCgpCgogICAgc2hlYXIgPSBkZWx0b2lkX3NoZWFyKGFiZHVjdF9kZWcpCgogICAgIyAtLS0tIOacuuWItkHvvJrlh7npnaLljovnvKkgLS0tLQogICAgY29tcCA9IDAuMAogICAgaWYgY29uY2F2aXR5OgogICAgICAgIGNvbXAgKz0gdG90YWxfY29tcHJlc3Npb24oaW50YWN0KQogICAgZWxzZToKICAgICAgICAjIOayoeacieWHuemdouWOi+e8qe+8jOetieaViOWHuemdouWPquWJqemqqOaAp+a1heeinwogICAgICAgIGNvbXAgKz0gdG90YWxfY29tcHJlc3Npb24oaW50YWN0KSAqIDAuMzUKCiAgICAjIC0tLS0g5py65Yi2Qu+8muWKm+WBtu+8iOKYhSDlv4Xpobvkvp3otZbnnJ/lrp7lrZjlnKjnmoTogozogonvvIktLS0tCiAgICBwb3N0X04gPSBzdW0oQ1VGRlttXVsiZm9yY2UiXSBmb3IgbSBpbiBpbnRhY3QKICAgICAgICAgICAgICAgICBpZiBtIGluICgi5YaI5LiL6IKMIiwgIuWwj+WchuiCjCIpKSAqIDAuMzAKICAgIGFudF9OID0gQ1VGRlsi6IKp6IOb5LiL6IKMIl1bImZvcmNlIl0gKiAwLjMwIGlmICLogqnog5vkuIvogowiIGluIGludGFjdCBlbHNlIDAuMAogICAgY291cGxlX04gPSBwb3N0X04gKyBhbnRfTgogICAgaWYgZm9yY2VfY291cGxlIGFuZCBjb3VwbGVfTiA+IDA6CiAgICAgICAgY29tcCArPSBjb3VwbGVfTgogICAgICAgICMg4piFIOaKtea2iOavlOS+i+ato+avlOS6juWKm+WBtuW8uuW6pu+8iOacieiCjOiCieaJjeaJk+aKmO+8jOayoeacieWwseS4jeaJk+aKmO+8iQogICAgICAgIHJlbGllZiA9IDEuMCAtIDAuNDUgKiBtaW4oMS4wLCBjb3VwbGVfTiAvIDMwMC4wKQogICAgICAgIHNoZWFyICo9IHJlbGllZgoKICAgICMg55uC5ZSH5Yqg5rex5Ye56Z2iIOKGkiDlkIzmoLfljovnvKnog73mirXmipfmm7TlpJrliarliIcKICAgIGlmIGxhYnJ1bToKICAgICAgICBjb21wICo9IExBQlJVTV9HQUlOCgogICAgIyDimIUg5q6L5L2Z5Y6L57yp77ya6aqo5oCnICsg5YWz6IqC5ZuKICsg6IKx5LqM5aS06IKM6ZW/5aS0ICsg6KKr5Yqo5byg5YqbCiAgICBjb21wICs9IE1JTl9DT01QUkVTU0lPTl9OCgogICAgcmV0dXJuIHsic2hlYXJfTiI6IGZsb2F0KHNoZWFyKSwgImNvbXByZXNzaW9uX04iOiBmbG9hdChjb21wKSwKICAgICAgICAgICAgInJhdGlvIjogZmxvYXQoc2hlYXIgLyBjb21wKSwKICAgICAgICAgICAgInN0YWJsZSI6IGZsb2F0KHNoZWFyIC8gY29tcCkgPCAwLjYwfQoKCmRlZiBhYmxhdGlvbigpIC0+IGRpY3Q6CiAgICAiIiLimIXimIUg5raI6J6N5a+554Wn77ya5YiG56a75py65Yi2Qe+8iOWHuemdouWOi+e8qe+8ieS4juacuuWItkLvvIjlipvlgbbvvInjgIIiIiIKICAgIGZ1bGwgPSBzdGFiaWxpdHlfcmF0aW8oKQogICAgbm9BID0gc3RhYmlsaXR5X3JhdGlvKGNvbmNhdml0eT1GYWxzZSkKICAgIG5vQiA9IHN0YWJpbGl0eV9yYXRpbyhmb3JjZV9jb3VwbGU9RmFsc2UpCiAgICBuZWl0aGVyID0gc3RhYmlsaXR5X3JhdGlvKGNvbmNhdml0eT1GYWxzZSwgZm9yY2VfY291cGxlPUZhbHNlKQogICAgcmV0dXJuIHsi5YWo5byAIjogZnVsbFsicmF0aW8iXSwgIuWFs0Eo5Ye56Z2i5Y6L57ypKSI6IG5vQVsicmF0aW8iXSwKICAgICAgICAgICAgIuWFs0Io5Yqb5YG2KSI6IG5vQlsicmF0aW8iXSwgIuS4pOS4qumDveWFsyI6IG5laXRoZXJbInJhdGlvIl0sCiAgICAgICAgICAgICJB5b+F6ZyAIjogbm9BWyJyYXRpbyJdID4gZnVsbFsicmF0aW8iXSwKICAgICAgICAgICAgIkLlv4XpnIAiOiBub0JbInJhdGlvIl0gPiBmdWxsWyJyYXRpbyJdfQoKCmRlZiB0ZWFyX3NjYW4oKToKICAgICIiIuKYhSDmjIkgUkVBTCDmkpXoo4Lpobrluo/pgJDkuKrliIfmjonvvIznnIvnqLPlrprmr5TmgI7kuYjmgbbljJbjgIIiIiIKICAgIHJvd3MgPSBbXQogICAgaW50YWN0ID0gY3VmZl9saXN0KCkKICAgIHJvd3MuYXBwZW5kKCgi5a6M5pW0Iiwgc3RhYmlsaXR5X3JhdGlvKGludGFjdClbInJhdGlvIl0sCiAgICAgICAgICAgICAgICAgc3RhYmlsaXR5X3JhdGlvKGludGFjdClbInN0YWJsZSJdKSkKICAgIGdvbmUgPSBbXQogICAgZm9yIG0gaW4gVEVBUl9PUkRFUjoKICAgICAgICBnb25lLmFwcGVuZChtKQogICAgICAgIGxlZnQgPSBbeCBmb3IgeCBpbiBjdWZmX2xpc3QoKSBpZiB4IG5vdCBpbiBnb25lXQogICAgICAgIHIgPSBzdGFiaWxpdHlfcmF0aW8obGVmdCkKICAgICAgICByb3dzLmFwcGVuZCgoZiLliIfliLB7bX0iLCByWyJyYXRpbyJdLCByWyJzdGFibGUiXSkpCiAgICByZXR1cm4gcm93cwoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4ieOAgeKYhSDlipvoh4LkuqTlj4nvvJrlhojkuIrogozmmK/lkK/liqjogowKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBtb21lbnRfYXJtX3N1cHJhKF9hYmR1Y3RfZGVnOiBmbG9hdCA9IDAuMCkgLT4gZmxvYXQ6CiAgICAiIiLimIUg5YaI5LiK6IKM5Yqb6IeC6L+R5LmO5oGS5a6a77yIUkVBTCDnuqYgMi4yIGNt77yJ44CCIiIiCiAgICByZXR1cm4gTUFfU1VQUkFfQ00KCgpkZWYgbW9tZW50X2FybV9kZWx0b2lkKGFiZHVjdF9kZWc6IGZsb2F0KSAtPiBmbG9hdDoKICAgICIiIuKYhSDkuInop5Logozlipvoh4Lpmo/lpJblsZXjgJDlop7lpKfjgJHvvIhSRUFMIDDCsOe6pjEuNSDihpIgOTDCsOe6pjMuNSBjbe+8ieOAgiIiIgogICAgbG8sIGhpID0gTUFfREVMVE9JRF9DTQogICAgcmV0dXJuIGZsb2F0KGxvICsgKGhpIC0gbG8pICogbnAuY2xpcChhYmR1Y3RfZGVnLCAwLCA5MCkgLyA5MC4wKQoKCmRlZiBjcm9zc2luZ19hbmdsZSgpIC0+IGZsb2F0IHwgTm9uZToKICAgICIiIuKYhSDkuqTlj4nop5LvvJrkuInop5Logozlipvoh4LotoXov4flhojkuIrogoznmoTpgqPkuKrop5LluqbjgIIiIiIKICAgIGZvciBkIGluIG5wLmFyYW5nZSgwLCA5MC4xLCAwLjUpOgogICAgICAgIGlmIG1vbWVudF9hcm1fZGVsdG9pZChkKSA+PSBtb21lbnRfYXJtX3N1cHJhKGQpOgogICAgICAgICAgICByZXR1cm4gZmxvYXQoZCkKICAgIHJldHVybiBOb25lCgoKZGVmIHN0YXJ0dXBfc2NhbigpOgogICAgIiIi4piFIDB+OTDCsCDmiavmj4/vvIznnIvosIHkuLvlr7zjgIIiIiIKICAgIHJvd3MgPSBbXQogICAgZm9yIGQgaW4gWzAsIDE1LCAzMCwgNDUsIDYwLCA5MF06CiAgICAgICAgbXMgPSBtb21lbnRfYXJtX3N1cHJhKGQpCiAgICAgICAgbWQgPSBtb21lbnRfYXJtX2RlbHRvaWQoZCkKICAgICAgICByb3dzLmFwcGVuZCgoZCwgbXMsIG1kLCAi5YaI5LiK6IKMIiBpZiBtcyA+IG1kIGVsc2UgIuS4ieinkuiCjCIpKQogICAgcmV0dXJuIHJvd3MKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDlm5vjgIHimIUg55eF55CG77ya6IKx6aqo5aS05LiK56e744CBQUhE44CB5YGH5oCn6bq755e5CiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgaHVtZXJhbF9oZWFkX21pZ3JhdGlvbihpbnRhY3Q6IGxpc3QgfCBOb25lID0gTm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4X21tOiBmbG9hdCA9IDYuMCkgLT4gZGljdDoKICAgICIiIuKYhSDogqnoopblpLHmlYgg4oaSIOS4ieinkuiCjOaKiuiCsemqqOWktOOAkOWQkeS4iuaLveOAkeKGkiBBSEQg5Y+Y5bCP44CCIiIiCiAgICBpbnRhY3QgPSBpbnRhY3QgaWYgaW50YWN0IGlzIG5vdCBOb25lIGVsc2UgY3VmZl9saXN0KCkKICAgIGxvc3QgPSBbbSBmb3IgbSBpbiBjdWZmX2xpc3QoKSBpZiBtIG5vdCBpbiBpbnRhY3RdCiAgICBmcmFjID0gbGVuKGxvc3QpIC8gbGVuKGN1ZmZfbGlzdCgpKQogICAgdXAgPSBmcmFjICogbWF4X21tCiAgICBhaGQgPSBBSERfTk9STUFMX01NIC0gdXAKICAgIHJldHVybiB7InRvcm4iOiBsb3N0LCAidXBfbW0iOiBmbG9hdCh1cCksCiAgICAgICAgICAgICJBSERfbW0iOiBmbG9hdChhaGQpLAogICAgICAgICAgICAicGF0aG9sb2dpYyI6IGFoZCA8IEFIRF9QQVRIT0xPR0lDX01NfQoKCmRlZiBwc2V1ZG9wYXJhbHlzaXMoaW50YWN0OiBsaXN0IHwgTm9uZSA9IE5vbmUpIC0+IGRpY3Q6CiAgICAiIiLimIXimIUg5YGH5oCn6bq755e577ya5LiJ6KeS6IKM5pyJ5Yqb77yM5L2G5oqs5LiN6LW35p2lIOKAlOKAlCDlm6DkuLrmsqHmnInmlK/ngrnjgIIKCiAgICDimIUg5a+554Wn77ya5LiJ6KeS6IKM44CQ6IKM5Yqb44CR5LiN5Y+Y77yM5Y+Y55qE5piv44CQ6IO95LiN6IO95b2i5oiQ5pSv54K544CRCiAgICAiIiIKICAgIGludGFjdCA9IGludGFjdCBpZiBpbnRhY3QgaXMgbm90IE5vbmUgZWxzZSBjdWZmX2xpc3QoKQogICAgciA9IHN0YWJpbGl0eV9yYXRpbyhpbnRhY3QsIGFiZHVjdF9kZWc9NjAuMCkKICAgICMg5LiJ6KeS6IKM5Yqb5LuN5ZyoCiAgICBkZWx0X29rID0gREVMVFsiZm9yY2UiXSA+IDAKICAgICMg5L2G5rKh5pyJ5Y6L57ypIOKGkiDml6Dms5XmiorlipvovazmiJDlpJblsZXlipvnn6kKICAgIGNhbl9hYmR1Y3QgPSByWyJzdGFibGUiXQogICAgcmV0dXJuIHsiZGVsdG9pZF9mb3JjZV9OIjogREVMVFsiZm9yY2UiXSwgImRlbHRvaWRfaW50YWN0IjogZGVsdF9vaywKICAgICAgICAgICAgInN0YWJsZSI6IGNhbl9hYmR1Y3QsCiAgICAgICAgICAgICJwc2V1ZG9wYXJhbHlzaXMiOiBkZWx0X29rIGFuZCBub3QgY2FuX2FiZHVjdH0KCgpkZWYgcGFpbmZ1bF9hcmMoYWJkdWN0X2RlZzogZmxvYXQpIC0+IGJvb2w6CiAgICAiIiLimIUg55a855eb5bynIDYwfjEyMMKw77ya6IKp5bOw5LiL5pKe5Ye744CCIiIiCiAgICBsbywgaGkgPSBQQUlORlVMX0FSQwogICAgcmV0dXJuIGxvIDw9IGFiZHVjdF9kZWcgPD0gaGkKCgpkZWYgcGFpbmZ1bF9hcmNfc2NhbigpOgogICAgcmV0dXJuIFsoZCwgcGFpbmZ1bF9hcmMoZCkpIGZvciBkIGluIFswLCAzMCwgNjAsIDkwLCAxMjAsIDE1MF1dCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LqU44CB4piFIOWFs+iKguWPjeS9nOeUqOWKmwojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIGpvaW50X3JlYWN0aW9uKGFiZHVjdF9kZWc6IGZsb2F0LCBib2R5d2VpZ2h0X046IGZsb2F0ID0gNzAwLjAsCiAgICAgICAgICAgICAgICAgICBpbnRhY3Q6IGxpc3QgfCBOb25lID0gTm9uZSkgLT4gZGljdDoKICAgICIiIuKYhSDnm4LogrHlhbPoioLlj43kvZznlKjlipvjgIJSRUFM77ya5aSW5bGVIDkwwrAg5pe257qmIDAuOSDlgI3kvZPph43jgIIiIiIKICAgIGludGFjdCA9IGludGFjdCBpZiBpbnRhY3QgaXMgbm90IE5vbmUgZWxzZSBjdWZmX2xpc3QoKQogICAgciA9IHN0YWJpbGl0eV9yYXRpbyhpbnRhY3QsIGFiZHVjdF9kZWcpCiAgICAjIOWKm+i2iuWkp+OAgei2iuS4jeeosyDihpIg5Y+N5L2c55So5Yqb6LaK5aSnCiAgICBzY2FsZSA9IDAuNDUgKyAwLjM1ICogbnAuY2xpcChhYmR1Y3RfZGVnIC8gOTAuMCwgMCwgMSkKICAgIGpyZiA9IGJvZHl3ZWlnaHRfTiAqIHNjYWxlICogKDEuMCArIDAuNSAqIHJbInJhdGlvIl0pCiAgICByZXR1cm4geyJhYmR1Y3RfZGVnIjogYWJkdWN0X2RlZywgInJhdGlvIjogclsicmF0aW8iXSwKICAgICAgICAgICAgIkpSRl9OIjogZmxvYXQoanJmKSwgInhfYm9keXdlaWdodCI6IGZsb2F0KGpyZiAvIGJvZHl3ZWlnaHRfTil9Cg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+肩袖四肌协同稳定 —— ★35 未建模项，本模块补上
+================================================================
+★ 为什么必须有肩袖（这是 ★35 留下的核心问题）
+    关节盂只覆盖肱骨头约 1/3（★35）
+    光靠骨性结构，肱骨头会像球放在浅碟上 —— 一推就滑出去
+  ★ 肩袖的作用不是【产生运动】，是【把球压进碟里】
+    ★ 这叫 凹面压缩 concavity compression
+
+----------------------------------------------------------------
+一、四肌（SITS）REAL
+----------------------------------------------------------------
+    S  supraspinatus    冈上肌    外展启动 + 压缩
+    I  infraspinatus    冈下肌    外旋 + 后向压缩
+    T  teres minor      小圆肌    外旋 + 后向压缩
+    S  subscapularis    肩胛下肌  内旋 + 前向压缩
+
+    起止：都从肩胛骨 → 肱骨大小结节，肌腱融合成【肩袖腱帽】包住肱骨头
+    ★ 四肌不是各干各的，是把肱骨头【裹住】
+
+----------------------------------------------------------------
+二、★★ 两个机制必须分开看（本模块的核心对照）
+----------------------------------------------------------------
+    机制A 凹面压缩 concavity compression
+      肩袖把肱骨头【压进】关节盂
+      ★ 压缩力越大，能抵抗的剪切力越大（类似摩擦锥）
+
+    机制B 力偶 force couple
+      纵向力偶：三角肌（向上） vs 冈下+小圆+肩胛下（向下）
+        ★ 三角肌单独收缩会把肱骨头【向上拽】撞肩峰
+        ★ 肩袖提供向下+向内分量抵消
+      横向力偶：肩胛下肌（前） vs 冈下+小圆（后）
+        ★ 前后平衡，支点才在盂中心
+
+    ★★ 消融对照：只保留 A 或只保留 B，稳定性都不够
+      → 证明两个机制都必需，缺一不可
+
+----------------------------------------------------------------
+三、★ 力臂交叉：为什么冈上肌撕裂后【启动】困难
+----------------------------------------------------------------
+    REAL：三角肌力臂随外展增大（0° 约 1.5cm → 90° 约 3.5cm）
+          冈上肌力臂几乎恒定（约 2.2cm）
+    ★ 交叉在约 30°：
+      0~30°   冈上肌力臂 > 三角肌 → 冈上肌是【启动肌】
+      >30°    三角肌接管
+    ★ 这解释了：冈上肌撕裂 → 启动外展困难（0~30°）
+      但一旦抬过 40~60°，三角肌能接管 → drop arm / 疼痛弧
+
+----------------------------------------------------------------
+四、REAL 数值
+----------------------------------------------------------------
+    肌横截面积 CSA（cm²）与最大肌力（N，按 ~60 N/cm²）
+      冈上肌     5.0  → 约 300 N
+      冈下肌     7.6  → 约 456 N
+      小圆肌     3.0  → 约 180 N
+      肩胛下肌   9.0  → 约 540 N
+      三角肌    20.0  → 约 1200 N
+
+    肩峰肱骨间距 AHD：正常约 10 mm，< 7 mm 提示肩袖撕裂
+    疼痛弧 painful arc：60~120°
+    关节盂凹面深度：约 2.5 mm（孟唇再加深约 50%）
+
+----------------------------------------------------------------
+五、病理（可证伪的对照）
+----------------------------------------------------------------
+    ① 冈上肌单独撕裂  → 稳定比变差，但其余三肌仍在
+    ② 全层巨大撕裂    → 肱骨头上移，AHD < 7 mm
+    ③ 假性麻痹        → 三角肌有力但抬不起来（无支点）
+    ④ 盂唇切除        → 凹面深度减半 → 稳定性显著下降
+"""
+from __future__ import annotations
+import numpy as np
+
+# ---------------- REAL: 四肌 ----------------
+CUFF = {
+    #            CSA(cm²)   力(N)       主功能      压缩方向
+    "冈上肌":   dict(csa=5.0,  force=300.0,  role="外展启动", dir="内"),
+    "冈下肌":   dict(csa=7.6,  force=456.0,  role="外旋",     dir="后下"),
+    "小圆肌":   dict(csa=3.0,  force=180.0,  role="外旋",     dir="后下"),
+    "肩胛下肌": dict(csa=9.0,  force=540.0,  role="内旋",     dir="前下"),
+}
+DELT = dict(csa=20.0, force=1200.0, role="外展主力", dir="上外")
+
+# REAL 特定压应力 ~60 N/cm²
+SPECIFIC_TENSION = 60.0
+
+# REAL 肌腱常受累顺序
+TEAR_ORDER = ["冈上肌", "冈下肌", "肩胛下肌", "小圆肌"]
+
+# REAL: 肩峰肱骨间距 mm
+AHD_NORMAL_MM = 10.0
+AHD_PATHOLOGIC_MM = 7.0
+
+# REAL: 疼痛弧
+PAINFUL_ARC = (60.0, 120.0)
+
+# REAL: 关节盂凹面深度 mm（盂唇再加深约 50%）
+GLENOID_DEPTH_MM = 2.5
+LABRUM_GAIN = 1.5          # 盂唇使有效深度 ×1.5
+
+# ★ 残余压缩（N）：肩袖全断后仍有骨性+关节囊+肱二头肌长头+被动张力
+#   ⚠️ 没有这一项，全断时稳定比会发散到 5e8（无意义的数）
+MIN_COMPRESSION_N = 80.0
+
+# REAL: 力臂（cm）
+MA_SUPRA_CM = 2.2                        # 冈上肌，近乎恒定
+MA_DELTOID_CM = (1.5, 3.5)               # 三角肌 0° → 90°
+
+
+# ================================================================
+# 一、四肌与力
+# ================================================================
+def cuff_list() -> list:
+    return list(CUFF.keys())
+
+
+def cuff_force(m: str, scale: float = 1.0) -> float:
+    return CUFF[m]["force"] * scale
+
+
+def total_compression(intact: list | None = None) -> float:
+    """★ 四肌合力中【压向关节盂】的分量之和。"""
+    intact = intact if intact is not None else cuff_list()
+    # 每块肌的力只有一部分用于压缩（其余用于旋转）
+    # REAL 简化：压缩分量系数
+    share = {"冈上肌": 0.60, "冈下肌": 0.45,
+             "小圆肌": 0.45, "肩胛下肌": 0.50}
+    return float(sum(CUFF[m]["force"] * share[m] for m in intact))
+
+
+def deltoid_shear(abduct_deg: float) -> float:
+    """★ 三角肌的【向上剪切】分量 —— 这是要被抵消的坏东西。
+
+    ★ 外展角越大，三角肌越接近垂直向上拉 → 剪切越大
+    """
+    th = np.deg2rad(abduct_deg)
+    # 三角肌力方向相对肱骨：外展时向上分量增大
+    up = np.sin(th) * 0.5 + 0.5 * (th / (np.pi / 2))
+    return float(DELT["force"] * np.clip(up, 0.0, 1.0))
+
+
+# ================================================================
+# 二、★★ 稳定比 = 剪切 / 压缩（越小越稳）
+# ================================================================
+def stability_ratio(intact: list | None = None, abduct_deg: float = 60.0,
+                    labrum: bool = True,
+                    concavity: bool = True,
+                    force_couple: bool = True) -> dict:
+    """★★ 核心指标：稳定比 = 剪切 / 压缩（REAL 称 stability ratio）。
+
+    ★ 消融开关（这是本模块的重点）：
+      concavity    False → 关掉【凹面压缩】机制A
+      force_couple False → 关掉【力偶】机制B
+    ★ 关掉任一个，稳定比都应变差 —— 证明两个机制都必需
+
+    ⚠️ 本函数第二版修了两个 bug：
+      ① 肩袖全断时 comp → 0，稳定比发散到 5e8（无意义的数）
+         → 加 MIN_COMPRESSION_N：关节囊/肱二头肌长头/被動张力的残余
+      ② force_couple=True 时即使 intact 为空也执行 shear*=0.55
+         → 没有肌肉就不可能形成力偶，这是永真折扣
+    """
+    intact = intact if intact is not None else cuff_list()
+
+    shear = deltoid_shear(abduct_deg)
+
+    # ---- 机制A：凹面压缩 ----
+    comp = 0.0
+    if concavity:
+        comp += total_compression(intact)
+    else:
+        # 没有凹面压缩，等效凹面只剩骨性浅碟
+        comp += total_compression(intact) * 0.35
+
+    # ---- 机制B：力偶（★ 必须依赖真实存在的肌肉）----
+    post_N = sum(CUFF[m]["force"] for m in intact
+                 if m in ("冈下肌", "小圆肌")) * 0.30
+    ant_N = CUFF["肩胛下肌"]["force"] * 0.30 if "肩胛下肌" in intact else 0.0
+    couple_N = post_N + ant_N
+    if force_couple and couple_N > 0:
+        comp += couple_N
+        # ★ 抵消比例正比于力偶强度（有肌肉才打折，没有就不打折）
+        relief = 1.0 - 0.45 * min(1.0, couple_N / 300.0)
+        shear *= relief
+
+    # 盂唇加深凹面 → 同样压缩能抵抗更多剪切
+    if labrum:
+        comp *= LABRUM_GAIN
+
+    # ★ 残余压缩：骨性 + 关节囊 + 肱二头肌长头 + 被动张力
+    comp += MIN_COMPRESSION_N
+
+    return {"shear_N": float(shear), "compression_N": float(comp),
+            "ratio": float(shear / comp),
+            "stable": float(shear / comp) < 0.60}
+
+
+def ablation() -> dict:
+    """★★ 消融对照：分离机制A（凹面压缩）与机制B（力偶）。"""
+    full = stability_ratio()
+    noA = stability_ratio(concavity=False)
+    noB = stability_ratio(force_couple=False)
+    neither = stability_ratio(concavity=False, force_couple=False)
+    return {"全开": full["ratio"], "关A(凹面压缩)": noA["ratio"],
+            "关B(力偶)": noB["ratio"], "两个都关": neither["ratio"],
+            "A必需": noA["ratio"] > full["ratio"],
+            "B必需": noB["ratio"] > full["ratio"]}
+
+
+def tear_scan():
+    """★ 按 REAL 撕裂顺序逐个切掉，看稳定比怎么恶化。"""
+    rows = []
+    intact = cuff_list()
+    rows.append(("完整", stability_ratio(intact)["ratio"],
+                 stability_ratio(intact)["stable"]))
+    gone = []
+    for m in TEAR_ORDER:
+        gone.append(m)
+        left = [x for x in cuff_list() if x not in gone]
+        r = stability_ratio(left)
+        rows.append((f"切到{m}", r["ratio"], r["stable"]))
+    return rows
+
+
+# ================================================================
+# 三、★ 力臂交叉：冈上肌是启动肌
+# ================================================================
+def moment_arm_supra(_abduct_deg: float = 0.0) -> float:
+    """★ 冈上肌力臂近乎恒定（REAL 约 2.2 cm）。"""
+    return MA_SUPRA_CM
+
+
+def moment_arm_deltoid(abduct_deg: float) -> float:
+    """★ 三角肌力臂随外展【增大】（REAL 0°约1.5 → 90°约3.5 cm）。"""
+    lo, hi = MA_DELTOID_CM
+    return float(lo + (hi - lo) * np.clip(abduct_deg, 0, 90) / 90.0)
+
+
+def crossing_angle() -> float | None:
+    """★ 交叉角：三角肌力臂超过冈上肌的那个角度。"""
+    for d in np.arange(0, 90.1, 0.5):
+        if moment_arm_deltoid(d) >= moment_arm_supra(d):
+            return float(d)
+    return None
+
+
+def startup_scan():
+    """★ 0~90° 扫描，看谁主导。"""
+    rows = []
+    for d in [0, 15, 30, 45, 60, 90]:
+        ms = moment_arm_supra(d)
+        md = moment_arm_deltoid(d)
+        rows.append((d, ms, md, "冈上肌" if ms > md else "三角肌"))
+    return rows
+
+
+# ================================================================
+# 四、★ 病理：肱骨头上移、AHD、假性麻痹
+# ================================================================
+def humeral_head_migration(intact: list | None = None,
+                           max_mm: float = 6.0) -> dict:
+    """★ 肩袖失效 → 三角肌把肱骨头【向上拽】→ AHD 变小。"""
+    intact = intact if intact is not None else cuff_list()
+    lost = [m for m in cuff_list() if m not in intact]
+    frac = len(lost) / len(cuff_list())
+    up = frac * max_mm
+    ahd = AHD_NORMAL_MM - up
+    return {"torn": lost, "up_mm": float(up),
+            "AHD_mm": float(ahd),
+            "pathologic": ahd < AHD_PATHOLOGIC_MM}
+
+
+def pseudoparalysis(intact: list | None = None) -> dict:
+    """★★ 假性麻痹：三角肌有力，但抬不起来 —— 因为没有支点。
+
+    ★ 对照：三角肌【肌力】不变，变的是【能不能形成支点】
+    """
+    intact = intact if intact is not None else cuff_list()
+    r = stability_ratio(intact, abduct_deg=60.0)
+    # 三角肌力仍在
+    delt_ok = DELT["force"] > 0
+    # 但没有压缩 → 无法把力转成外展力矩
+    can_abduct = r["stable"]
+    return {"deltoid_force_N": DELT["force"], "deltoid_intact": delt_ok,
+            "stable": can_abduct,
+            "pseudoparalysis": delt_ok and not can_abduct}
+
+
+def painful_arc(abduct_deg: float) -> bool:
+    """★ 疼痛弧 60~120°：肩峰下撞击。"""
+    lo, hi = PAINFUL_ARC
+    return lo <= abduct_deg <= hi
+
+
+def painful_arc_scan():
+    return [(d, painful_arc(d)) for d in [0, 30, 60, 90, 120, 150]]
+
+
+# ================================================================
+# 五、★ 关节反作用力
+# ================================================================
+def joint_reaction(abduct_deg: float, bodyweight_N: float = 700.0,
+                   intact: list | None = None) -> dict:
+    """★ 盂肱关节反作用力。REAL：外展 90° 时约 0.9 倍体重。"""
+    intact = intact if intact is not None else cuff_list()
+    r = stability_ratio(intact, abduct_deg)
+    # 力越大、越不稳 → 反作用力越大
+    scale = 0.45 + 0.35 * np.clip(abduct_deg / 90.0, 0, 1)
+    jrf = bodyweight_N * scale * (1.0 + 0.5 * r["ratio"])
+    return {"abduct_deg": abduct_deg, "ratio": r["ratio"],
+            "JRF_N": float(jrf), "x_bodyweight": float(jrf / bodyweight_N)}

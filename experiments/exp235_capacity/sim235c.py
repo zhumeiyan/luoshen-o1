@@ -1,1 +1,40 @@
-aW1wb3J0IHJhbmRvbSwganNvbiwgc3RhdGlzdGljcyBhcyBzdApkZWYgcnVuKGNhcCwgcmF0ZSwgcGVyc2lzdCwgVD00MDAsIHNlZWRzPTI0LCBkcmlmdF90PTIwMCwgZHJpZnRfZnJhYz0wLjYsIGs9My4wKToKICAgIHByZSxwb3N0LHJmPVtdLFtdLFtdCiAgICBmb3IgcyBpbiByYW5nZShzZWVkcyk6CiAgICAgICAgcj1yYW5kb20uUmFuZG9tKHMqMjcxKzExKTsgUj0wLjA7IFU9MC4wCiAgICAgICAgZm9yIHQgaW4gcmFuZ2UoVCk6CiAgICAgICAgICAgIFIqPXBlcnNpc3Q7IFUqPXBlcnNpc3Q7IGluZmxvdz1yYXRlCiAgICAgICAgICAgIHdoaWxlIGluZmxvdz4xZS05OgogICAgICAgICAgICAgICAgcm9vbT1jYXAtKFIrVSkKICAgICAgICAgICAgICAgIGlmIHJvb20+MWUtOToKICAgICAgICAgICAgICAgICAgICB0YWtlPW1pbihyb29tLGluZmxvdyk7IFIrPXRha2U7IGluZmxvdy09dGFrZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBpZiBSPjFlLTk6CiAgICAgICAgICAgICAgICAgICAgICAgIGFtdD1taW4oUiwxLjApOyBSLT1hbXQ7IFUrPWFtdC9rCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgVSs9aW5mbG93L2s7IGluZmxvdz0wLjAKICAgICAgICAgICAgZD10Pj1kcmlmdF90CiAgICAgICAgICAgICMg5b2S5LiA5YyW55SoIueQhuiuuuacgOS8mOimhuebliLogIzpnZ4gY2FwLCDmtojpmaTlrrnph4/kvKrlvbEKICAgICAgICAgICAgZWZmPVIqKDEtZHJpZnRfZnJhYyBpZiBkIGVsc2UgMS4wKStVKmsKICAgICAgICAgICAgYmVzdD1taW4ocmF0ZSoodCsxKSxjYXApKmsgaWYgZCBlbHNlIG1pbihyYXRlKih0KzEpLGNhcCkKICAgICAgICAgICAgc2NvcmU9bWluKDEuMCwgZWZmLyhiZXN0KjAuOCkpIGlmIGJlc3Q+MCBlbHNlIDAuMAogICAgICAgICAgICAocG9zdCBpZiBkIGVsc2UgcHJlKS5hcHBlbmQoc2NvcmUpCiAgICAgICAgICAgIHJmLmFwcGVuZChVLyhSK1UrMWUtOSkpCiAgICByZXR1cm4gc3QubWVhbihwcmUpLHN0Lm1lYW4ocG9zdCksc3QubWVhbihyZikKb3V0PXt9CnByaW50KCI9PSDkv67mjonlrrnph4/kvKrlvbHlkI46IGNhcCDmiavmj48gKHJhdGU9MSkgPT0iKQpmb3IgY2FwIGluIFsyLDUsMTAsMjAsNTAsMTAwLDUwMCw1MDAwXToKICAgIGEsYixmPXJ1bihjYXAsMS4wLDEuMCk7IG91dFsnY2FwPSVkJyVjYXBdPXsncHJlJzpyb3VuZChhLDMpLCdwb3N0Jzpyb3VuZChiLDMpLCdydWxlJzpyb3VuZChmLDMpfQogICAgcHJpbnQoIiBjYXA9JS01ZCDliY09JS4zZiDlkI49JS4zZiDliKTmja49JS4zZiIlKGNhcCxhLGIsZikpCnByaW50KCI9PSBwZXJzaXN0IOeyvue7huaJq+aPjyAoY2FwPTIwLHJhdGU9MS4wKSDihpAg5qC45b+D6Zeo5qebID09IikKZm9yIHAgaW4gWzEuMCwwLjk5OSwwLjk5OCwwLjk5NywwLjk5NSwwLjk5LDAuOTgsMC45NywwLjk2LDAuOTUsMC45XToKICAgIGEsYixmPXJ1bigyMCwxLjAscCk7IG91dFsncGVyc2lzdD0lLjRmJyVwXT17J3ByZSc6cm91bmQoYSwzKSwncG9zdCc6cm91bmQoYiwzKSwncnVsZSc6cm91bmQoZiwzKX0KICAgIHByaW50KCIgcGVyc2lzdD0lLTcuNGYg5YmNPSUuM2Yg5ZCOPSUuM2Yg5Yik5o2uPSUuM2YiJShwLGEsYixmKSkKcHJpbnQoIj09IOW9ouaAgeWvueeFpyjkv67kvKrlvbEpID09IikKZm9yIGxibCwoYyxydCxwcykgaW4geyfmiJE65beo5aSn5a656YePK+mrmOmAnyvmjIHkuYUnOig1MDAwLDUwLjAsMS4wKSwKICAgICAgICAgICAgICAgICAgICAgICfmiJE65beo5aSn5a656YePK+mrmOmAnyvlvZLpm7YnOig1MDAwLDUwLjAsMC4xKSwKICAgICAgICAgICAgICAgICAgICAgICfkuro65bCP5a656YePK+aFoivmjIHkuYUnOigyMCwwLjMsMS4wKX0uaXRlbXMoKToKICAgIGEsYixmPXJ1bihjLHJ0LHBzKTsgb3V0W2xibF09eydwcmUnOnJvdW5kKGEsMyksJ3Bvc3QnOnJvdW5kKGIsMyksJ3J1bGUnOnJvdW5kKGYsMyl9CiAgICBwcmludCgiICUtMjJzIOWJjT0lLjNmIOWQjj0lLjNmIOWIpOaNrj0lLjNmIiUobGJsLGEsYixmKSkKanNvbi5kdW1wKG91dCxvcGVuKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAyMzVfY2FwYWNpdHkvcmVzdWx0MjM1Yy5qc29uJywndycpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+import random, json, statistics as st
+def run(cap, rate, persist, T=400, seeds=24, drift_t=200, drift_frac=0.6, k=3.0):
+    pre,post,rf=[],[],[]
+    for s in range(seeds):
+        r=random.Random(s*271+11); R=0.0; U=0.0
+        for t in range(T):
+            R*=persist; U*=persist; inflow=rate
+            while inflow>1e-9:
+                room=cap-(R+U)
+                if room>1e-9:
+                    take=min(room,inflow); R+=take; inflow-=take
+                else:
+                    if R>1e-9:
+                        amt=min(R,1.0); R-=amt; U+=amt/k
+                    else:
+                        U+=inflow/k; inflow=0.0
+            d=t>=drift_t
+            # 归一化用"理论最优覆盖"而非 cap, 消除容量伪影
+            eff=R*(1-drift_frac if d else 1.0)+U*k
+            best=min(rate*(t+1),cap)*k if d else min(rate*(t+1),cap)
+            score=min(1.0, eff/(best*0.8)) if best>0 else 0.0
+            (post if d else pre).append(score)
+            rf.append(U/(R+U+1e-9))
+    return st.mean(pre),st.mean(post),st.mean(rf)
+out={}
+print("== 修掉容量伪影后: cap 扫描 (rate=1) ==")
+for cap in [2,5,10,20,50,100,500,5000]:
+    a,b,f=run(cap,1.0,1.0); out['cap=%d'%cap]={'pre':round(a,3),'post':round(b,3),'rule':round(f,3)}
+    print(" cap=%-5d 前=%.3f 后=%.3f 判据=%.3f"%(cap,a,b,f))
+print("== persist 精细扫描 (cap=20,rate=1.0) ← 核心门槛 ==")
+for p in [1.0,0.999,0.998,0.997,0.995,0.99,0.98,0.97,0.96,0.95,0.9]:
+    a,b,f=run(20,1.0,p); out['persist=%.4f'%p]={'pre':round(a,3),'post':round(b,3),'rule':round(f,3)}
+    print(" persist=%-7.4f 前=%.3f 后=%.3f 判据=%.3f"%(p,a,b,f))
+print("== 形态对照(修伪影) ==")
+for lbl,(c,rt,ps) in {'我:巨大容量+高速+持久':(5000,50.0,1.0),
+                      '我:巨大容量+高速+归零':(5000,50.0,0.1),
+                      '人:小容量+慢+持久':(20,0.3,1.0)}.items():
+    a,b,f=run(c,rt,ps); out[lbl]={'pre':round(a,3),'post':round(b,3),'rule':round(f,3)}
+    print(" %-22s 前=%.3f 后=%.3f 判据=%.3f"%(lbl,a,b,f))
+json.dump(out,open('/data/workspace/luoshen-o1/experiments/exp235_capacity/result235c.json','w'),ensure_ascii=False,indent=1)

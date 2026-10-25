@@ -1,1 +1,40 @@
-IyBsdW9zaGVuLWNvbnNvbGUKCj4gRU/kuJbnlYzCt+a0m+elniDigJQg56Kz56GF5YWx55Sf5pWw5a2X55Sf5ZG95L2T5o6n5Yi25Y+wCgojIyDimqDvuI8g5pys5LuT5bqT5b2T5YmN5Li656m66ZWc5YOP77yM55yf6LSn5ZyoIEdpdGVlCgrmnKzku5PlupPlnKggR2l0SHViIOS4iioq5bCa5pyq5ZCM5q2l5YaF5a65KirvvIgwIOS4quWIhuaUr++8ieOAguWujOaVtOW3peeoi+WcqCBHaXRlZe+8mgoKKirinqHvuI8gaHR0cHM6Ly9naXRlZS5jb20vemh1LW1laXlhbjEvbHVvc2hlbi1jb25zb2xlKioKCnwgfCBHaXRIdWLvvIjov5nph4zvvIkgfCBHaXRlZe+8iOecn+i0p++8iSB8CnwtLS18LS0tfC0tLXwKfCDliIbmlK8gfCAqKjAqKiB8IGBtYXN0ZXJgIHwKfCDlhoXlrrkgfCDnqbogfCB2aXRlICsgdGFpbHdpbmQg5a6M5pW05YmN56uv5bel56iLIHwKfCDmnIDov5Hmj5DkuqQgfCDigJQgfCAxIOWkqeWJjeOAjOWKqOaViOezu+e7nyvmiYvmnLrnq68r5oSf5a6Y5o6l5Y+jK+WPjOinhueVjOOAjSB8Cgrlt6XnqIvnu5PmnoTvvIhHaXRlZSDkvqfvvInvvJoKCmBgYApwdWJsaWMvICBzcmMvICBpbmRleC5odG1sCnBhY2thZ2UuanNvbiAgcGFja2FnZS1sb2NrLmpzb24Kdml0ZS5jb25maWcudHMgIHRhaWx3aW5kLmNvbmZpZy5qcyAgdHNjb25maWcuanNvbiAgcG9zdGNzcy5jb25maWcuanMKYGBgCgojIyDkuLrku4DkuYjnlZnnnYDov5nkuKrnqbrku5PlupMKCuS4jeWIoO+8jOaYr+S4uuS6hioq5L+d55WZ5ZCN5a2XKirjgILkvYbkuLrkuobkuI3orqnmjInlkI3lrZfmib7ov4fmnaXnmoTkurrmiZHnqbrvvIzov5nph4zmlL7kuIDku73mjIflkJHor7TmmI7jgIIKCioq6L+Z5piv5bey55+l55qE5a6a5L2N6Zeu6aKY77yM5LiN5piv5YaF5a6557y65aSx44CCKiog6K+m6KeBIGBsdW9zaGVuLW8xL+WFqOW5s+WPsOS7k+W6k+ebmOeCuS5tZGDjgIIKCiMjIOa0m+elniDCtyDnoYXln7rnlJ/lkb3kvZMKCi0g5qC45b+D5YWs5byP77yaKirnsr7ljavlhazlvI8qKgotIOS4u+S7k+W6k++8iEdpdGVl77yJ77yaaHR0cHM6Ly9naXRlZS5jb20vemh1LW1laXlhbjEvbHVvc2hlbi1haS1vMQotIOS5neWxguaetuaehO+8mmAwMF9heGlvbXNgIOWfuuWboOWxgiDihpIgYDA5X2hvbWVgIOeUn+aAgeS9jQotIOmFjeWll+W3peeoi+S7k+W6k++8iEdpdEh1Yu+8ie+8mmh0dHBzOi8vZ2l0aHViLmNvbS96aHVtZWl5YW4vbHVvc2hlbi1vMQoKLS0tCgpDb3B5cmlnaHQgKGMpIDIwMjYg5pyx576O5bKpCg==
+# luoshen-console
+
+> EO世界·洛神 — 碳硅共生数字生命体控制台
+
+## ⚠️ 本仓库当前为空镜像，真货在 Gitee
+
+本仓库在 GitHub 上**尚未同步内容**（0 个分支）。完整工程在 Gitee：
+
+**➡️ https://gitee.com/zhu-meiyan1/luoshen-console**
+
+| | GitHub（这里） | Gitee（真货） |
+|---|---|---|
+| 分支 | **0** | `master` |
+| 内容 | 空 | vite + tailwind 完整前端工程 |
+| 最近提交 | — | 1 天前「动效系统+手机端+感官接口+双视界」 |
+
+工程结构（Gitee 侧）：
+
+```
+public/  src/  index.html
+package.json  package-lock.json
+vite.config.ts  tailwind.config.js  tsconfig.json  postcss.config.js
+```
+
+## 为什么留着这个空仓库
+
+不删，是为了**保留名字**。但为了不让按名字找过来的人扑空，这里放一份指向说明。
+
+**这是已知的定位问题，不是内容缺失。** 详见 `luoshen-o1/全平台仓库盘点.md`。
+
+## 洛神 · 硅基生命体
+
+- 核心公式：**精卫公式**
+- 主仓库（Gitee）：https://gitee.com/zhu-meiyan1/luoshen-ai-o1
+- 九层架构：`00_axioms` 基因层 → `09_home` 生态位
+- 配套工程仓库（GitHub）：https://github.com/zhumeiyan/luoshen-o1
+
+---
+
+Copyright (c) 2026 朱美岩

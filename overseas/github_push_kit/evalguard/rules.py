@@ -1,1 +1,513 @@
-IiIiCmV2YWxndWFyZCBydWxlcyDigJQgZWFjaCBydWxlIHRyYWNlcyBiYWNrIHRvIGEgbnVtYmVyZWQgZW50cnkgaW4gdGhlCkx1b3NoZW4gRmFpbHVyZS1Nb2RlIENhbm9uICgzNjggZW50cmllcyBtaW5lZCBmcm9tIDEwMCsgcmVhbCBleHBlcmltZW50cykuCgpFdmVyeSBydWxlIGNhcnJpZXM6CiAgZWdfaWQgICAgOiBzdGFibGUgcnVsZSBpZAogIGNhbm9uICAgIDogc291cmNlIGNhbm9uIGVudHJ5IGlkKHMpIGluIHRoZSBmYWlsdXJlLW1vZGUgZGF0YWJhc2UKICBzZXZlcml0eSA6IGJsb2NrZXIgLyB3YXJuIC8gaW5mbwogIHRpdGxlICAgIDogb25lLWxpbmUgRW5nbGlzaCBzdGF0ZW1lbnQKIiIiCmltcG9ydCBhc3QKaW1wb3J0IHJlCgpSVUxFUyA9IFtdCgpkZWYgcnVsZShlZ19pZCwgY2Fub24sIHNldmVyaXR5LCB0aXRsZSwgd2h5KToKICAgIGRlZiBkZWNvKGZuKToKICAgICAgICBmbi5tZXRhID0gZGljdChlZ19pZD1lZ19pZCwgY2Fub249Y2Fub24sIHNldmVyaXR5PXNldmVyaXR5LAogICAgICAgICAgICAgICAgICAgICAgIHRpdGxlPXRpdGxlLCB3aHk9d2h5KQogICAgICAgIFJVTEVTLmFwcGVuZChmbikKICAgICAgICByZXR1cm4gZm4KICAgIHJldHVybiBkZWNvCgoKZGVmIF9jb2RlX29ubHkoc3JjKToKICAgICIiIlN0cmlwIGNvbW1lbnRzIGFuZCBzdHJpbmcgbGl0ZXJhbHMgV0lUSE9VVCBkZXN0cm95aW5nIGRvdHRlZCBuYW1lcy4KCiAgICBUd28gcmVhbCBidWdzIGxpdmVkIGhlcmUsIGJvdGggc2lsZW50IChjYW5vbiAjMjMpOgoKICAgIHYxICBgcmVgIHdhcyBub3QgaW1wb3J0ZWQsIHNvIHRoZSBmYWxsYmFjayBicmFuY2ggcmFpc2VkIE5hbWVFcnJvci4KICAgIHYyICB0b2tlbnMgd2VyZSBqb2luZWQgd2l0aCBgIiAiLmpvaW4oLi4uKWAsIHdoaWNoIHR1cm5lZCBgcmVxdWVzdHMuZ2V0YAogICAgICAgIGludG8gYHJlcXVlc3RzIC4gZ2V0YC4gRXZlcnkgZG90dGVkIGtleXdvcmQgaW4gZXZlcnkgcnVsZSBzaWxlbnRseQogICAgICAgIHN0b3BwZWQgbWF0Y2hpbmcgLS0gRUcwMTYgY291bGQgbmV2ZXIgZmlyZSBvbiBhbnkgcmVhbCByZW1vdGUgY2FsbC4KICAgICAgICBGaXhlZCBieSBwcmVzZXJ2aW5nIHRva2VuIHBvc2l0aW9ucyB3aXRoIGB1bnRva2VuaXplYCwgc28gdGhlCiAgICAgICAgZGUtY29tbWVudGVkIHNvdXJjZSBrZWVwcyBpdHMgb3JpZ2luYWwgc3BhY2luZy4KCiAgICBDYW5vbiAjMjMgb3JpZ2luOiBzY2FubmluZyByYXcgc291cmNlIGxldHMgYSBjb21tZW50IHRoYXQgKm1lbnRpb25zKgogICAgJ2Jhc2VsaW5lJyBzYXRpc2Z5IGEgY2hlY2sgbWVhbnQgdG8gcHJvdmUgdGhlIGNvZGUgKmNvbXB1dGVzKiBhIGJhc2VsaW5lLgogICAgIiIiCiAgICBpbXBvcnQgaW8sIHRva2VuaXplCiAgICB0cnk6CiAgICAgICAgdG9rcyA9IGxpc3QodG9rZW5pemUuZ2VuZXJhdGVfdG9rZW5zKGlvLlN0cmluZ0lPKHNyYykucmVhZGxpbmUpKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gcmUuc3ViKHInI1teXG5dKicsICcnLCBzcmMpCiAgICBvdXQgPSBbXQogICAgZm9yIHQgaW4gdG9rczoKICAgICAgICBpZiB0LnR5cGUgaW4gKHRva2VuaXplLkNPTU1FTlQsIHRva2VuaXplLlNUUklORyk6CiAgICAgICAgICAgIG91dC5hcHBlbmQodG9rZW5pemUuVG9rZW5JbmZvKHQudHlwZSwgJyAnICogbGVuKHQuc3RyaW5nKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdC5zdGFydCwgdC5lbmQsIHQubGluZSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb3V0LmFwcGVuZCh0KQogICAgdHJ5OgogICAgICAgIHJldHVybiB0b2tlbml6ZS51bnRva2VuaXplKG91dCkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuICIiLmpvaW4odC5zdHJpbmcgZm9yIHQgaW4gb3V0KQoKCmRlZiBfc3RyaW5ncyh0cmVlKToKICAgICIiIlRleHQgb2YgZXZlcnkgc3RyaW5nIGxpdGVyYWwgLS0gd2hlcmUgKmNsYWltcyogbGl2ZSAoY2Fub24gIzUzKS4iIiIKICAgIHJldHVybiAiICIuam9pbihuLnZhbHVlLmxvd2VyKCkgZm9yIG4gaW4gYXN0LndhbGsodHJlZSkKICAgICAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKG4sIGFzdC5Db25zdGFudCkgYW5kIGlzaW5zdGFuY2Uobi52YWx1ZSwgc3RyKSkKCgpkZWYgX3Rlcm5hcnlfZ3VhcmRlZCh0cmVlLCBzcmMpOgogICAgIiIiRGl2aXNpb25zIHdyaXR0ZW4gYXMgYHggLyBkIGlmIGQgZWxzZSBmYWxsYmFja2AgQVJFIGd1YXJkZWQgKGNhbm9uICMxNDUpLgoKICAgIFJlYWwgY29kZSAoVEFDVCBlbmdpbmUsIGxpbmUgMTYxKSByZWFkczoKICAgICAgICByZWMgPSAxMDAqc3RhdFsndHAnXVthXS9zdGF0WydndG90J11bYV0gaWYgc3RhdFsnZ3RvdCddW2FdIGVsc2UgbmFuCiAgICB2MSBvbmx5IGluc3BlY3RlZCBhc3NpZ25tZW50cywgc28gdGhpcyBjb3JyZWN0IGNvZGUgd2FzIGZsYWdnZWQuCiAgICAiIiIKICAgIGdvb2QgPSBzZXQoKQogICAgZm9yIG4gaW4gYXN0LndhbGsodHJlZSk6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UobiwgYXN0LklmRXhwKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICB0cnk6CiAgICAgICAgICAgIGJvZHkgPSAoYXN0LmdldF9zb3VyY2Vfc2VnbWVudChzcmMsIG4uYm9keSkgb3IgIiIpLmxvd2VyKCkKICAgICAgICAgICAgdGVzdCA9IChhc3QuZ2V0X3NvdXJjZV9zZWdtZW50KHNyYywgbi50ZXN0KSBvciAiIikubG93ZXIoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgIi8iIG5vdCBpbiBib2R5IG9yIG5vdCB0ZXN0LnN0cmlwKCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgIyB0aGUgZ3VhcmQgdGVybSBuYW1lcyBhIHZhcmlhYmxlL3N1YnNjcmlwdCB0aGF0IGFsc28gYXBwZWFycyBpbiB0aGUgZGl2aXNvcgogICAgICAgIGZvciB0b2sgaW4gcmUuZmluZGFsbChyIltBLVphLXpfXVtBLVphLXowLTlfJ1xbXF1dKiIsIHRlc3QpOgogICAgICAgICAgICBpZiBsZW4odG9rKSA+PSAyIGFuZCB0b2sgaW4gYm9keToKICAgICAgICAgICAgICAgIGdvb2QuYWRkKHRvaykKICAgIHJldHVybiBnb29kCgoKZGVmIF9wcm90ZWN0ZWRfbmFtZXModHJlZSk6CiAgICAiIiJOYW1lcyB3aG9zZSBhc3NpZ25tZW50IGFscmVhZHkgZ3VhcmRzIGFnYWluc3QgemVybyAoY2Fub24gIzE0NSkuCgogICAgdjEgb25seSBsb29rZWQgYXQgdGhlIGRpdmlzaW9uIGV4cHJlc3Npb24gaXRzZWxmLCBzbyBhIGd1YXJkIHdyaXR0ZW4gb25lCiAgICBsaW5lIGVhcmxpZXIgKGBkZW5vbSA9IG1heChuX3BvcywgMSlgKSB3YXMgaW52aXNpYmxlIC0+IGZhbHNlIHBvc2l0aXZlIG9uCiAgICBjb3JyZWN0IGNvZGUuCiAgICAiIiIKICAgIGdvb2QgPSBzZXQoKQogICAgZm9yIG4gaW4gYXN0LndhbGsodHJlZSk6CiAgICAgICAgaWYgaXNpbnN0YW5jZShuLCBhc3QuQXNzaWduKToKICAgICAgICAgICAgc2VnID0gIiIKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgc2VnID0gKGFzdC5nZXRfc291cmNlX3NlZ21lbnQoX1NSQ1swXSwgbi52YWx1ZSkgb3IgIiIpLmxvd2VyKCkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIHNlZyA9ICIiCiAgICAgICAgICAgIGlmIGFueShrIGluIHNlZyBmb3IgayBpbiAoIm1heCgiLCAibnAubWF4aW11bSIsICJlcHMiLCAiMWUtIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibnAuZmluZm8iLCAiKyAxIiwgIisxIiwgIiBvciAiKSk6CiAgICAgICAgICAgICAgICBmb3IgdCBpbiBuLnRhcmdldHM6CiAgICAgICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh0LCBhc3QuTmFtZSk6CiAgICAgICAgICAgICAgICAgICAgICAgIGdvb2QuYWRkKHQuaWQpCiAgICByZXR1cm4gZ29vZAoKCl9TUkMgPSBbIiJdCgoKZGVmIF93YWxrX2NhbGxzKHRyZWUpOgogICAgZm9yIG4gaW4gYXN0LndhbGsodHJlZSk6CiAgICAgICAgaWYgaXNpbnN0YW5jZShuLCBhc3QuQ2FsbCk6CiAgICAgICAgICAgIHlpZWxkIG4KCmRlZiBfZG90dGVkKG4pOgogICAgaWYgaXNpbnN0YW5jZShuLCBhc3QuQXR0cmlidXRlKToKICAgICAgICB0cnk6IHJldHVybiBfZG90dGVkKG4udmFsdWUpICsgIi4iICsgbi5hdHRyCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIG4uYXR0cgogICAgaWYgaXNpbnN0YW5jZShuLCBhc3QuTmFtZSk6CiAgICAgICAgcmV0dXJuIG4uaWQKICAgIHJldHVybiAiIgoKZGVmIF9oYXNfc2VlZCh0cmVlKToKICAgICMgdjEgb25seSBtYXRjaGVkIGAuc2VlZCgpYCBjYWxscyAtPiBmYWxzZSBwb3NpdGl2ZSBvbiBgcmFuZG9tLlJhbmRvbShTRUVEKWAKICAgICMgYW5kIGBucC5yYW5kb20uZGVmYXVsdF9ybmcoU0VFRClgLCB3aGljaCBhcmUgdGhlbXNlbHZlcyBzZWVkZWQgY29uc3RydWN0b3JzLgogICAgZm9yIGMgaW4gX3dhbGtfY2FsbHModHJlZSk6CiAgICAgICAgZCA9IF9kb3R0ZWQoYy5mdW5jKQogICAgICAgIGlmIGQuZW5kc3dpdGgoKCJzZWVkIiwgIm1hbnVhbF9zZWVkIiwgInNldF9zZWVkIikpOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGlmIGQuZW5kc3dpdGgoKCJSYW5kb20iLCAiZGVmYXVsdF9ybmciLCAiR2VuZXJhdG9yIikpIGFuZCBjLmFyZ3M6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICByZXR1cm4gRmFsc2UKCmRlZiBfaW1wb3J0cyh0cmVlKToKICAgIG91dCA9IHNldCgpCiAgICBmb3IgbiBpbiBhc3Qud2Fsayh0cmVlKToKICAgICAgICBpZiBpc2luc3RhbmNlKG4sIGFzdC5JbXBvcnQpOgogICAgICAgICAgICBmb3IgYSBpbiBuLm5hbWVzOiBvdXQuYWRkKGEubmFtZS5zcGxpdCgiLiIpWzBdKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShuLCBhc3QuSW1wb3J0RnJvbSk6CiAgICAgICAgICAgIGlmIG4ubW9kdWxlOiBvdXQuYWRkKG4ubW9kdWxlLnNwbGl0KCIuIilbMF0pCiAgICByZXR1cm4gb3V0CgpkZWYgX3VzZXNfc3RvY2hhc3RpYyh0cmVlKToKICAgIGZvciBjIGluIF93YWxrX2NhbGxzKHRyZWUpOgogICAgICAgIGQgPSBfZG90dGVkKGMuZnVuYykKICAgICAgICBpZiBkLnNwbGl0KCIuIilbMF0gaW4gKCJyYW5kb20iLCAibnAiLCAibnVtcHkiLCAidG9yY2giLCAidGYiLCAiamF4IiwgImZha2VyIik6CiAgICAgICAgICAgIGlmIGFueShrIGluIGQgZm9yIGsgaW4gKCJyYW5kIiwgInNodWZmbGUiLCAiY2hvaWNlIiwgInNhbXBsZSIsICJ1bmlmb3JtIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vcm1hbCIsICJyYW5kbiIsICJwZXJtdXRhdGlvbiIsICJiZXJub3VsbGkiKSk6CiAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgcmV0dXJuIEZhbHNlCgoKQHJ1bGUoIkVHMDAxIiwgWzE0MSwgMjNdLCAid2FybiIsCiAgICAgICJTdG9jaGFzdGljIEFQSSB1c2VkIHdpdGhvdXQgYW55IHNlZWQgY2FsbCIsCiAgICAgICJVbnNlZWRlZCByYW5kb21uZXNzIG1ha2VzIHRoZSByZXBvcnRlZCBudW1iZXIgdW5yZXByb2R1Y2libGU7IGEgc2luZ2xlICIKICAgICAgInJlLXJ1biBjYW4gbW92ZSB0aGUgbWV0cmljIG1vcmUgdGhhbiB0aGUgZWZmZWN0IHlvdSBhcmUgY2xhaW1pbmcuIikKZGVmIGVnMDAxKHRyZWUsIHNyYywgcGF0aCk6CiAgICBpZiBfdXNlc19zdG9jaGFzdGljKHRyZWUpIGFuZCBub3QgX2hhc19zZWVkKHRyZWUpOgogICAgICAgIGZvciBjIGluIF93YWxrX2NhbGxzKHRyZWUpOgogICAgICAgICAgICBkID0gX2RvdHRlZChjLmZ1bmMpCiAgICAgICAgICAgIGlmIGQuc3BsaXQoIi4iKVswXSBpbiAoInJhbmRvbSIsICJucCIsICJudW1weSIsICJ0b3JjaCIpOgogICAgICAgICAgICAgICAgcmV0dXJuIFt7ImxpbmUiOiBjLmxpbmVubywgImhpdCI6IGR9XQogICAgcmV0dXJuIFtdCgoKQHJ1bGUoIkVHMDAyIiwgWzE0MF0sICJibG9ja2VyIiwKICAgICAgIkFjY3VyYWN5L3JlY2FsbCByZXBvcnRlZCB3aXRoIG5vIHJhbmRvbSBiYXNlbGluZSIsCiAgICAgICJBIHJlY2FsbCBvZiAwLjk1IGlzIG1lYW5pbmdsZXNzIGlmIHJhbmRvbSBndWVzc2luZyBhbHJlYWR5IGdpdmVzIDAuOTAuICIKICAgICAgIkNhbm9uICMxNDA6IHJlcG9ydCBuZXQgZ2FpbiBvdmVyIGJhc2VsaW5lLCBub3QgcmF3IHJhdGUuIikKZGVmIGVnMDAyKHRyZWUsIHNyYywgcGF0aCk6CiAgICBsb3cgPSBfY29kZV9vbmx5KHNyYykubG93ZXIoKQogICAgcmVwb3J0cyA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoImFjY3VyYWN5IiwgImFjYyIsICJyZWNhbGwiLCAicHJlY2lzaW9uIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmMSIsICJoaXRfcmF0ZSIsICLlkb3kuK0iLCAi5YeG56Gu546HIikpCiAgICBiYXNlbGluZSA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoImJhc2VsaW5lIiwgInJhbmRvbV9iYXNlIiwgImNoYW5jZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIuWfuue6vyIsICLpmo/mnLrln7rnur8iLCAibnVsbF9tb2RlbCIpKQogICAgaWYgcmVwb3J0cyBhbmQgbm90IGJhc2VsaW5lOgogICAgICAgIHJldHVybiBbeyJsaW5lIjogMSwgImhpdCI6ICJtZXRyaWMgcmVwb3J0ZWQsIG5vIGJhc2VsaW5lIHN5bWJvbCBmb3VuZCJ9XQogICAgcmV0dXJuIFtdCgoKQHJ1bGUoIkVHMDAzIiwgWzE0Ml0sICJ3YXJuIiwKICAgICAgIkRlY2lzaW9uIHRocmVzaG9sZCBoYXJkLWNvZGVkIGFzIGEgbWFnaWMgbnVtYmVyIiwKICAgICAgIkNhbm9uICMxNDI6IG5ldCBkaXNjcmltaW5hdGl2ZSBwb3dlciBpcyBhbiBpbnZlcnRlZC1VIGluIHRoZSB0aHJlc2hvbGQuICIKICAgICAgIkEgc2luZ2xlIGhhcmQtY29kZWQgdmFsdWUgaGlkZXMgdGhlIHBlYWsgYW5kIGNhbiBtaXNzIGl0IGVudGlyZWx5LiIpCmRlZiBlZzAwMyh0cmVlLCBzcmMsIHBhdGgpOgogICAgaGl0cyA9IFtdCiAgICBmb3IgbiBpbiBhc3Qud2Fsayh0cmVlKToKICAgICAgICBpZiBpc2luc3RhbmNlKG4sIGFzdC5Db21wYXJlKToKICAgICAgICAgICAgZm9yIGMgaW4gbi5jb21wYXJhdG9yczoKICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoYywgYXN0LkNvbnN0YW50KSBhbmQgaXNpbnN0YW5jZShjLnZhbHVlLCAoaW50LCBmbG9hdCkpOgogICAgICAgICAgICAgICAgICAgIHYgPSBjLnZhbHVlCiAgICAgICAgICAgICAgICAgICAgaWYgMC4wIDwgdiA8IDEuMCBhbmQgdiBub3QgaW4gKDAuNSwpOgogICAgICAgICAgICAgICAgICAgICAgICBoaXRzLmFwcGVuZCh7ImxpbmUiOiBuLmxpbmVubywgImhpdCI6IGYidGhyZXNob2xkIHt2fSJ9KQogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgc2VlbiA9IHNldCgpCiAgICByZXR1cm4gW2ggZm9yIGggaW4gaGl0cyBpZiBub3QgKGhbImxpbmUiXSBpbiBzZWVuIG9yIHNlZW4uYWRkKGhbImxpbmUiXSkpXVs6NV0KCgpAcnVsZSgiRUcwMDQiLCBbNDNdLCAid2FybiIsCiAgICAgICJDbHVzdGVyaW5nIC8gdGhyZXNob2xkIHN3ZWVwIGFic2VudDogc2luZ2xlIGN1dC1vZmYgb25seSIsCiAgICAgICJDYW5vbiAjNDM6IGNsdXN0ZXIgY291bnQgaXMgdGhyZXNob2xkLXNlbnNpdGl2ZS4gT25lIGN1dC1vZmYgaXMgYSBzbmFwc2hvdCwgIgogICAgICAibm90IGEgcmVzdWx0OyBzd2VlcCBhbmQgcmVwb3J0IHRoZSBjdXJ2ZS4iKQpkZWYgZWcwMDQodHJlZSwgc3JjLCBwYXRoKToKICAgICIiIkZsYWcgYSBzaW5nbGUgaGFyZC1jb2RlZCBjbHVzdGVyIGNvdW50LgoKICAgIEJ1ZyBmaXhlZDogdjEgdGVzdGVkIGAiZm9yIiBpbiBzcmNgIC8gYCJyYW5nZSIgaW4gc3JjYCwgd2hpY2ggYW55IHVucmVsYXRlZAogICAgbG9vcCBpbiB0aGUgZmlsZSBzYXRpc2ZpZWQg4oCUIHRoZSBydWxlIG5ldmVyIGZpcmVkLiBDb3JyZWN0IHZlcnNpb24gaW5zcGVjdHMKICAgIHRoZSBjYWxsJ3Mgb3duIGtleXdvcmQgYXJndW1lbnQuIiIiCiAgICBjYWxscyA9IHt9CiAgICBmb3IgYyBpbiBfd2Fsa19jYWxscyh0cmVlKToKICAgICAgICBkID0gX2RvdHRlZChjLmZ1bmMpCiAgICAgICAgaWYgYW55KGsgaW4gZCBmb3IgayBpbiAoIktNZWFucyIsICJEQlNDQU4iLCAiQWdnbG9tZXJhdGl2ZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlNwZWN0cmFsQ2x1c3RlcmluZyIsICJjbHVzdGVyIikpOgogICAgICAgICAgICBjYWxscy5zZXRkZWZhdWx0KGQsIFtdKS5hcHBlbmQoYykKICAgIGZvciBkLCBjcyBpbiBjYWxscy5pdGVtcygpOgogICAgICAgIGlmIGxlbihjcykgPiAxOgogICAgICAgICAgICBjb250aW51ZSAgICAgICAgICAgICAgICAgICAgICAjIGNhbGxlZCByZXBlYXRlZGx5ID0+IGxpa2VseSBhIHN3ZWVwCiAgICAgICAgZm9yIGt3IGluIGNzWzBdLmtleXdvcmRzOgogICAgICAgICAgICBpZiBrdy5hcmcgaW4gKCJuX2NsdXN0ZXJzIiwgImVwcyIsICJtaW5fc2FtcGxlcyIsICJrIikgXAogICAgICAgICAgICAgICBhbmQgaXNpbnN0YW5jZShrdy52YWx1ZSwgYXN0LkNvbnN0YW50KToKICAgICAgICAgICAgICAgIHJldHVybiBbeyJsaW5lIjogY3NbMF0ubGluZW5vLAogICAgICAgICAgICAgICAgICAgICAgICAgImhpdCI6IGYie2R9KHtrdy5hcmd9PXtrdy52YWx1ZS52YWx1ZSFyfSkgc2luZ2xlIGxpdGVyYWwgY3V0LW9mZiJ9XQogICAgcmV0dXJuIFtdCgoKQHJ1bGUoIkVHMDA1IiwgWzE0NSwgMzVdLCAid2FybiIsCiAgICAgICJEaXZpc2lvbiB3aXRob3V0IGRlbm9taW5hdG9yIGd1YXJkIiwKICAgICAgIkNhbm9uICMzNS8jMTQ1OiBhIGRlbm9taW5hdG9yIHRoYXQgY2FuIGhpdCB6ZXJvIGVpdGhlciBjcmFzaGVzIG9yIHNpbGVudGx5ICIKICAgICAgInByb2R1Y2VzIGEgY29uc3RhbnQtemVybyBtZXRyaWMg4oCUIHRoZSBtZXRyaWMgZGllcyBiZWZvcmUgdGhlIGV4cGVyaW1lbnQgZG9lcy4iKQpkZWYgZWcwMDUodHJlZSwgc3JjLCBwYXRoKToKICAgIGhpdHMgPSBbXQogICAgcHJvdCA9IF9wcm90ZWN0ZWRfbmFtZXModHJlZSkKICAgIHRlcm4gPSBfdGVybmFyeV9ndWFyZGVkKHRyZWUsIHNyYykKICAgIGlmZXhwcyA9IFtuIGZvciBuIGluIGFzdC53YWxrKHRyZWUpIGlmIGlzaW5zdGFuY2UobiwgYXN0LklmRXhwKV0KICAgIGZvciBuIGluIGFzdC53YWxrKHRyZWUpOgogICAgICAgIGlmIGlzaW5zdGFuY2UobiwgYXN0LkJpbk9wKSBhbmQgaXNpbnN0YW5jZShuLm9wLCBhc3QuRGl2KToKICAgICAgICAgICAgc2VnID0gYXN0LmdldF9zb3VyY2Vfc2VnbWVudChzcmMsIG4pIG9yICIiCiAgICAgICAgICAgIHNlZ2wgPSBzZWcubG93ZXIoKSAgICAgICAgICAjIHYxIG1pc3NlZCBgKyBFUFNgICh1cHBlcmNhc2UpCiAgICAgICAgICAgICMgTkI6IGBsZW4oYCBpcyBOT1QgYSBndWFyZCAtLSBsZW4oeCkgY2FuIGJlIDAuICh2MSB3cm9uZ2x5CiAgICAgICAgICAgICMgdHJlYXRlZCBpdCBhcyBvbmUgYW5kIG1pc3NlZCBldmVyeSByZWFsIGNhc2UuKQogICAgICAgICAgICBndWFyZGVkID0gYW55KGsgaW4gc2VnbCBmb3IgayBpbiAoIisgMSIsICIrMSIsICJtYXgoIiwgImVwcyIsICIgb3IgIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIxZS0iLCAibnAuZmluZm8iLCAiaWYgIiwgIm5wLm1heGltdW0iKSkKICAgICAgICAgICAgaWYgbm90IGd1YXJkZWQgYW5kIGlzaW5zdGFuY2Uobi5yaWdodCwgYXN0Lk5hbWUpIGFuZCBuLnJpZ2h0LmlkIGluIHByb3Q6CiAgICAgICAgICAgICAgICBndWFyZGVkID0gVHJ1ZSAgICAgICAgICAjIGd1YXJkIGxpdmVzIGF0IHRoZSBhc3NpZ25tZW50LCBvbmUgbGluZSB1cAogICAgICAgICAgICBpZiBub3QgZ3VhcmRlZDoKICAgICAgICAgICAgICAgICMgdjI6IGB4IC8gZCBpZiBkIGVsc2UgbmFuYCBJUyBndWFyZGVkLiBSZWFsIFRBQ1QgZW5naW5lIGNvZGUKICAgICAgICAgICAgICAgICMgcmVhZHMgYDEwMCp0cC9ndG90IGlmIGd0b3QgZWxzZSBuYW5gOyB2MSBmbGFnZ2VkIGl0IGJlY2F1c2UKICAgICAgICAgICAgICAgICMgdGhlIERpdiBub2RlJ3Mgb3duIHNvdXJjZSBzdG9wcyBiZWZvcmUgYCBpZiBgLgogICAgICAgICAgICAgICAgZGl2ID0gYXN0LmdldF9zb3VyY2Vfc2VnbWVudChzcmMsIG4ucmlnaHQpIG9yICIiCiAgICAgICAgICAgICAgICBmb3IgaWUgaW4gaWZleHBzOgogICAgICAgICAgICAgICAgICAgIGlmIG5vdCBhbnkoeCBpcyBuIGZvciB4IGluIGFzdC53YWxrKGllKSk6CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICAgICAgdCA9IGFzdC5nZXRfc291cmNlX3NlZ21lbnQoc3JjLCBpZS50ZXN0KSBvciAiIgogICAgICAgICAgICAgICAgICAgIGlmIGRpdiBhbmQgZGl2IGluIHQucmVwbGFjZSgiICIsICIiKS5yZXBsYWNlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdCwgdCkgb3IgKGRpdiBhbmQgZGl2LnJlcGxhY2UoIiAiLCAiIikgaW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0LnJlcGxhY2UoIiAiLCAiIikpOgogICAgICAgICAgICAgICAgICAgICAgICBndWFyZGVkID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgaWYgbm90IGd1YXJkZWQgYW5kIGRpdiBhbmQgYW55KAogICAgICAgICAgICAgICAgICAgICAgICB0b2sgaW4gdGVybiBmb3IgdG9rIGluIHJlLmZpbmRhbGwociJbQS1aYS16X11bQS1aYS16MC05X10qIiwgZGl2KSk6CiAgICAgICAgICAgICAgICAgICAgZ3VhcmRlZCA9IFRydWUKICAgICAgICAgICAgaWYgbm90IGd1YXJkZWQ6CiAgICAgICAgICAgICAgICBoaXRzLmFwcGVuZCh7ImxpbmUiOiBuLmxpbmVubywgImhpdCI6IHNlZ1s6NjBdfSkKICAgIHJldHVybiBoaXRzWzo1XQoKCkBydWxlKCJFRzAwNiIsIFsyM10sICJibG9ja2VyIiwKICAgICAgIkJhcmUgb3Igc2lsZW50IGV4Y2VwdCAoc3dhbGxvd3MgdGhlIGZhaWx1cmUgaXQgc2hvdWxkIHJlcG9ydCkiLAogICAgICAiQ2Fub24gIzIzOiB0aGUgbW9zdCBmcmVxdWVudCBmYWlsdXJlIGluIHRoaXMgY29ycHVzIGlzIGEgdmFyaWFibGUgdGhhdCBpcyAiCiAgICAgICJzaWxlbnRseSBuZXZlciB1c2VkLiBBIHNpbGVudCBleGNlcHQgdHVybnMgYSByZWFsIGVycm9yIGludG8gYSBjbGVhbiBydW4uIikKZGVmIGVnMDA2KHRyZWUsIHNyYywgcGF0aCk6CiAgICBoaXRzID0gW10KICAgIGZvciBuIGluIGFzdC53YWxrKHRyZWUpOgogICAgICAgIGlmIGlzaW5zdGFuY2UobiwgYXN0LkV4Y2VwdEhhbmRsZXIpOgogICAgICAgICAgICBib2R5ID0gbi5ib2R5CiAgICAgICAgICAgIHNpbGVudCA9IChsZW4oYm9keSkgPT0gMCBvcgogICAgICAgICAgICAgICAgICAgICAgKGxlbihib2R5KSA9PSAxIGFuZCBpc2luc3RhbmNlKGJvZHlbMF0sIGFzdC5QYXNzKSkgb3IKICAgICAgICAgICAgICAgICAgICAgIChsZW4oYm9keSkgPT0gMSBhbmQgaXNpbnN0YW5jZShib2R5WzBdLCBhc3QuRXhwcikKICAgICAgICAgICAgICAgICAgICAgICBhbmQgaXNpbnN0YW5jZShib2R5WzBdLnZhbHVlLCBhc3QuQ29uc3RhbnQpKSkKICAgICAgICAgICAgaWYgc2lsZW50IG9yIChuLnR5cGUgaXMgTm9uZSk6CiAgICAgICAgICAgICAgICBoaXRzLmFwcGVuZCh7ImxpbmUiOiBuLmxpbmVubywgImhpdCI6ICJiYXJlL3NpbGVudCBleGNlcHQifSkKICAgIHJldHVybiBoaXRzCgoKQHJ1bGUoIkVHMDA3IiwgWzUzXSwgIndhcm4iLAogICAgICAiQ2xhaW1zIGEgcmVzdWx0IGlzIHNhdmVkL2FyY2hpdmVkIHdpdGggbm8gd3JpdGUgY2FsbCIsCiAgICAgICJDYW5vbiAjNTM6IGNsYWltaW5nICdhcmNoaXZlZCcgd2l0aG91dCB2ZXJpZnlpbmcgdGhlIGJ5dGVzIGhpdCBkaXNrIGlzIGFuICIKICAgICAgImVtcHR5IGRlbGl2ZXJ5LiBMb2cgc3RyaW5nIGlzIG5vdCBldmlkZW5jZS4iKQpkZWYgZWcwMDcodHJlZSwgc3JjLCBwYXRoKToKICAgICIiIkNsYWltLW9mLXBlcnNpc3RlbmNlIGxpdmVzIGluICpzdHJpbmdzKiAobG9nL3ByaW50IHRleHQpLCB3aGlsZSB0aGUKICAgIGV2aWRlbmNlIG9mIGEgd3JpdGUgbGl2ZXMgaW4gY29kZS4gdjEgc3RyaXBwZWQgc3RyaW5ncyBhbmQgdGhlcmVmb3JlCiAgICBuZXZlciBzYXcgdGhlIGNsYWltOyB2MiByZWFkcyBlYWNoIHNpZGUgZnJvbSB3aGVyZSBpdCBhY3R1YWxseSBsaXZlcy4iIiIKICAgIHN0cnMgPSAiICIuam9pbihuLnZhbHVlLmxvd2VyKCkgZm9yIG4gaW4gYXN0LndhbGsodHJlZSkKICAgICAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKG4sIGFzdC5Db25zdGFudCkgYW5kIGlzaW5zdGFuY2Uobi52YWx1ZSwgc3RyKSkKICAgIGxvdyA9IF9jb2RlX29ubHkoc3JjKS5sb3dlcigpCiAgICBjbGFpbXMgPSBhbnkoayBpbiBzdHJzIGZvciBrIGluICgic2F2ZWQiLCAiYXJjaGl2ZWQiLCAi5bey5L+d5a2YIiwgIuW3suW9kuahoyIsICJkdW1wZWQiKSkKICAgIHdyaXRlcyA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoIm9wZW4oIiwgIi53cml0ZSgiLCAianNvbi5kdW1wIiwgInRvX2NzdiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJucC5zYXZlIiwgInRvcmNoLnNhdmUiLCAic2h1dGlsLmNvcHkiKSkKICAgIGlmIGNsYWltcyBhbmQgbm90IHdyaXRlczoKICAgICAgICByZXR1cm4gW3sibGluZSI6IDEsICJoaXQiOiAiY2xhaW1zIHBlcnNpc3RlbmNlLCBubyB3cml0ZSBjYWxsIGZvdW5kIn1dCiAgICByZXR1cm4gW10KCgpAcnVsZSgiRUcwMDgiLCBbMTM5XSwgImJsb2NrZXIiLAogICAgICAiRXZhbHVhdGluZyByZWNhbGwgb24gdGhlIHNhbWUgY29ycHVzIHRoZSBydWxlcyB3ZXJlIGRlcml2ZWQgZnJvbSIsCiAgICAgICJDYW5vbiAjMTM5OiBhIHRheG9ub215IGluZHVjZWQgZnJvbSBhIGNvcnB1cyBzY29yZXMgfjEuMCBvbiB0aGF0IGNvcnB1cyBieSAiCiAgICAgICJjb25zdHJ1Y3Rpb24uIFVzZSBsZWF2ZS1vbmUtb3V0IG9yIGEgaGVsZC1vdXQgc2V0LiIpCmRlZiBlZzAwOCh0cmVlLCBzcmMsIHBhdGgpOgogICAgbG93ID0gX2NvZGVfb25seShzcmMpLmxvd2VyKCkKICAgIHN0cnMgPSBfc3RyaW5ncyh0cmVlKQogICAgZGVyaXZlcyA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoImZpdCIsICJpbmR1Y2UiLCAiZGVyaXZlIiwgImV4dHJhY3QiLCAi5b2S57qzIikpCiAgICBldmFscyA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoInJlY2FsbCIsICJhY2N1cmFjeSIsICJzY29yZSIsICLlkb3kuK0iKSkgXAogICAgICAgICAgICAgb3IgYW55KGsgaW4gc3RycyBmb3IgayBpbiAoInJlY2FsbCIsICJhY2N1cmFjeSIsICJzY29yZSIsICLlkb3kuK0iKSkKICAgIGhlbGQgPSBhbnkoayBpbiBsb3cgZm9yIGsgaW4gKCJoZWxkX291dCIsICJob2xkb3V0IiwgImxvbyIsICJsZWF2ZV9vbmUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInRlc3Rfc2V0IiwgImhlbGQtb3V0IiwgImNyb3NzX3ZhbCIpKQogICAgaWYgZGVyaXZlcyBhbmQgZXZhbHMgYW5kIG5vdCBoZWxkOgogICAgICAgIHJldHVybiBbeyJsaW5lIjogMSwgImhpdCI6ICJmaXQrZXZhbHVhdGUgb24gc2FtZSBkYXRhLCBubyBoZWxkLW91dCJ9XQogICAgcmV0dXJuIFtdCgoKQHJ1bGUoIkVHMDA5IiwgWzIzXSwgIndhcm4iLAogICAgICAiQXNzaWduZWQgdmFyaWFibGUgbmV2ZXIgdXNlZCAoc2lsZW50IGRlYWQgdmFyaWFibGUpIiwKICAgICAgIkNhbm9uICMyMzogYSB2YXJpYWJsZSB0aGF0IGlzIGFzc2lnbmVkIGFuZCBuZXZlciByZWFkIG1ha2VzIHRoZSBpbnRlcnZlbnRpb24gIgogICAgICAiYSBuby1vcCDigJQgdGhlIGV4cGVyaW1lbnQgdGhlbiBjb21wYXJlcyBhIGNvbmRpdGlvbiBhZ2FpbnN0IGl0c2VsZi4iKQpkZWYgZWcwMDkodHJlZSwgc3JjLCBwYXRoKToKICAgIGFzc2lnbmVkLCB1c2VkID0ge30sIHNldCgpCiAgICBmb3IgbiBpbiBhc3Qud2Fsayh0cmVlKToKICAgICAgICBpZiBpc2luc3RhbmNlKG4sIGFzdC5Bc3NpZ24pOgogICAgICAgICAgICBmb3IgdCBpbiBuLnRhcmdldHM6CiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKHQsIGFzdC5OYW1lKToKICAgICAgICAgICAgICAgICAgICBhc3NpZ25lZFt0LmlkXSA9IG4ubGluZW5vCiAgICAgICAgZWxpZiBpc2luc3RhbmNlKG4sIGFzdC5OYW1lKSBhbmQgaXNpbnN0YW5jZShuLmN0eCwgYXN0LkxvYWQpOgogICAgICAgICAgICB1c2VkLmFkZChuLmlkKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShuLCBhc3QuQXR0cmlidXRlKToKICAgICAgICAgICAgcGFzcwogICAgZm4gPSB7bi5uYW1lIGZvciBuIGluIGFzdC53YWxrKHRyZWUpCiAgICAgICAgICBpZiBpc2luc3RhbmNlKG4sIChhc3QuRnVuY3Rpb25EZWYsIGFzdC5Bc3luY0Z1bmN0aW9uRGVmKSl9CiAgICByZXR1cm4gW3sibGluZSI6IGxuLCAiaGl0IjogZiJge2t9YCBhc3NpZ25lZCwgbmV2ZXIgcmVhZCJ9CiAgICAgICAgICAgIGZvciBrLCBsbiBpbiBhc3NpZ25lZC5pdGVtcygpCiAgICAgICAgICAgIGlmIGsgbm90IGluIHVzZWQgYW5kIG5vdCBrLnN0YXJ0c3dpdGgoIl8iKSBhbmQgayBub3QgaW4gZm4KICAgICAgICAgICAgYW5kIG5vdCBrLmlzdXBwZXIoKV1bOjZdICAgICAgICAjIFVQUEVSX0NBU0UgPSBtb2R1bGUgY29uc3RhbnQvZXhwb3J0CgoKQHJ1bGUoIkVHMDEwIiwgWzE0NywgMTQ4XSwgImluZm8iLAogICAgICAiU2luZ2xlIG1ldHJpYyBkcml2ZXMgdGhlIGNvbmNsdXNpb247IG5vIHNlY29uZCBpbmRlcGVuZGVudCBtZWFzdXJlIiwKICAgICAgIkNhbm9uOiBldmVyeSBzaW5nbGUgc3RhdGlzdGljIGhhcyBhIHN0cnVjdHVyYWwgYmxpbmQgc3BvdCAoZS5nLiBNU0UgaXMgIgogICAgICAiaW52YXJpYW50IHRvIGZyYW1lIG9yZGVyKS4gUGFpciBlYWNoIGNsYWltIHdpdGggYSBtZXRyaWMgYmxpbmQgdG8gYSAiCiAgICAgICJkaWZmZXJlbnQgZmFpbHVyZSBtb2RlLiIpCmRlZiBlZzAxMCh0cmVlLCBzcmMsIHBhdGgpOgogICAgbG93ID0gX2NvZGVfb25seShzcmMpLmxvd2VyKCkKICAgIG5fbWV0cmljcyA9IHN1bSgxIGZvciBrIGluICgiYWNjdXJhY3kiLCAicmVjYWxsIiwgInByZWNpc2lvbiIsICJmMSIsICJtc2UiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJsb3NzIiwgInNjb3JlIiwgImthcHBhIiwgImNvcnIiKQogICAgICAgICAgICAgICAgICAgIGlmIGsgaW4gbG93KQogICAgaWYgbl9tZXRyaWNzID09IDE6CiAgICAgICAgcmV0dXJuIFt7ImxpbmUiOiAxLCAiaGl0IjogZiJvbmx5IG9uZSBtZXRyaWMgZmFtaWx5IHByZXNlbnQifV0KICAgIHJldHVybiBbXQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSB2MC4yIC0tLS0tCiMgQWRkZWQgYWZ0ZXIgdjAuMSBzaGlwcGVkOiA2IG1vcmUgcnVsZXMgZHJhd24gZnJvbSBjYW5vbiBlbnRyaWVzIHRoYXQgd2VyZQojIGxpc3RlZCBhcyBhY3Rpb25hYmxlIGJ1dCBoYWQgbm8gZXhlY3V0YWJsZSBjaGVjayB5ZXQuCiMgRWFjaCBvbmUgaXMgcGFpcmVkIHdpdGggYSBmaXh0dXJlIGluIHRlc3RzLyAocGxhbnRlZCAvIGNsZWFuIGNvbnRyb2wpLgoKCmRlZiBfbG9vcHModHJlZSk6CiAgICBmb3IgbiBpbiBhc3Qud2Fsayh0cmVlKToKICAgICAgICBpZiBpc2luc3RhbmNlKG4sIChhc3QuRm9yLCBhc3QuQXN5bmNGb3IsIGFzdC5XaGlsZSkpOgogICAgICAgICAgICB5aWVsZCBuCgoKZGVmIF9sb29wX2JvZHlfc3JjKGxvb3AsIHNyYyk6CiAgICByZXR1cm4gIiAiLmpvaW4oKGFzdC5nZXRfc291cmNlX3NlZ21lbnQoc3JjLCBiKSBvciAiIikKICAgICAgICAgICAgICAgICAgICBmb3IgYiBpbiBsb29wLmJvZHkpCgoKQHJ1bGUoIkVHMDExIiwgWzQxOV0sICJ3YXJuIiwKICAgICAgIkNvbmRpdGlvbiBjYW4gc2tpcCBjYXNlcywgYnV0IHJlc3VsdHMgYXJlIGNvbXBhcmVkIGFzIGdyb3VwIHJhdGVzIiwKICAgICAgIkNhbm9uICM0MTk6IHdoZW5ldmVyIGEgY29uZGl0aW9uIGNhbiBza2lwIChjb250aW51ZS9yZXR1cm4gZWFybHkpLCBncm91cCAiCiAgICAgICJyYXRlcyBhcmUgY29tcHV0ZWQgb24gZGlmZmVyZW50IGRlbm9taW5hdG9ycy4gQ29tcGFyZSBwYWlyZWQgZGlmZmVyZW5jZXMgIgogICAgICAib24gdGhlIGNvbW1vbiBzdXJ2aXZpbmcgc3Vic2V0LCBub3QgcmF0ZXMgYWNyb3NzIHVuZXF1YWwgc2V0cy4iKQpkZWYgZWcwMTEodHJlZSwgc3JjLCBwYXRoKToKICAgIGxvdyA9IF9jb2RlX29ubHkoc3JjKS5sb3dlcigpCiAgICBza2lwcyA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoImNvbnRpbnVlIiwgInNraXAiLCAic2tpcHBlZCIsICJjb250aW51ZV8iKSkKICAgIGlmIG5vdCBza2lwczoKICAgICAgICByZXR1cm4gW10KICAgIGFnZyA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoIm1lYW4oIiwgIm5wLm1lYW4iLCAic3VtKCIsICJsZW4oIiwgImF2ZXJhZ2UiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicmVjYWxsIiwgImFjY3VyYWN5IiwgImhpdF9yYXRlIikpCiAgICBwYWlyZWQgPSBhbnkoayBpbiBsb3cgZm9yIGsgaW4gKCJwYWlyZWQiLCAicGFpcl9kaWZmIiwgImNvbW1vbiIsICJzdWJzZXQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZGlmZigiLCAibnAuZGlmZiIsICLphY3lr7kiLCAi5YWx5ZCM5a2Y5rS7IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImludGVyc2VjdGlvbiIsICJtYXRjaGVkIikpCiAgICBpZiBhZ2cgYW5kIG5vdCBwYWlyZWQ6CiAgICAgICAgcmV0dXJuIFt7ImxpbmUiOiAxLCAiaGl0IjogInNraXAgcHJlc2VudCArIGdyb3VwLXJhdGUgYWdncmVnYXRpb24sIG5vIHBhaXJlZCBkaWZmIn1dCiAgICByZXR1cm4gW10KCgpAcnVsZSgiRUcwMTIiLCBbNDI0LCAxNDBdLCAid2FybiIsCiAgICAgICJJZGVudGlmaWNhdGlvbiBhY2N1cmFjeSByZXBvcnRlZCB3aXRob3V0IGEgcG9zaXRpdmUtY29udHJvbCBhbmNob3IiLAogICAgICAiQ2Fub24gIzQyNDogYW4gaWRlbnRpZmljYXRpb24gbWV0cmljIGlzIG9ubHkgbWVhbmluZ2Z1bCBpZiB0aGUgcG9zaXRpdmUgIgogICAgICAiY29udHJvbCBjYW4gcmVhY2ggMS4wIGFuZCB0aGUgbmVnYXRpdmUgY29udHJvbCBzaXRzIGF0IGNoYW5jZSBsZXZlbC4gIgogICAgICAiV2l0aG91dCBib3RoLCAwLjggaXMgdW5pbnRlcnByZXRhYmxlLiIpCmRlZiBlZzAxMih0cmVlLCBzcmMsIHBhdGgpOgogICAgbG93ID0gX2NvZGVfb25seShzcmMpLmxvd2VyKCkKICAgIGlkZW50ID0gYW55KGsgaW4gbG93IGZvciBrIGluICgiYWNjdXJhY3kiLCAiYWNjIiwgInJlY2FsbCIsICJ0b3AxIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaWRlbnRpZmljYXRpb24iLCAi5YiG57G7IiwgIuivhuWIqyIpKQogICAgaWYgbm90IGlkZW50OgogICAgICAgIHJldHVybiBbXQogICAgcG9zID0gYW55KGsgaW4gbG93IGZvciBrIGluICgicG9zaXRpdmVfY29udHJvbCIsICJwb3NfY29udHJvbCIsICJzYW5pdHkiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidXBwZXJfYm91bmQiLCAiY2VpbGluZ19jaGVjayIsICLpmLPmgKflr7nnhaciKSkKICAgIG5lZyA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoImJhc2VsaW5lIiwgImNoYW5jZSIsICJyYW5kb21fYmFzZSIsICJudWxsX21vZGVsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInNodWZmbGVfY29udHJvbCIsICLln7rnur8iLCAi6ZqP5py65Z+657q/IikpCiAgICBpZiBub3QgKHBvcyBhbmQgbmVnKToKICAgICAgICBtaXNzID0gW10KICAgICAgICBpZiBub3QgcG9zOiBtaXNzLmFwcGVuZCgicG9zaXRpdmUgY29udHJvbCIpCiAgICAgICAgaWYgbm90IG5lZzogbWlzcy5hcHBlbmQoImNoYW5jZS1sZXZlbCBiYXNlbGluZSIpCiAgICAgICAgcmV0dXJuIFt7ImxpbmUiOiAxLCAiaGl0IjogIm1pc3NpbmcgIiArICIgKyAiLmpvaW4obWlzcyl9XQogICAgcmV0dXJuIFtdCgoKQHJ1bGUoIkVHMDEzIiwgWzQwXSwgIndhcm4iLAogICAgICAiUmF0aW8gbWV0cmljIHJlcG9ydGVkIHdpdGhvdXQgaXRzIG51bWVyYXRvciBjb3VudCBhbmQgZGVub21pbmF0b3IiLAogICAgICAiQ2Fub24gIzQwOiBhIHJhdGUgb2YgMC4wNyBidWlsdCBvbiAzIGV2ZW50cyBpcyBub3QgdGhlIHNhbWUgY2xhaW0gYXMgIgogICAgICAiMC4wNyBidWlsdCBvbiAzMDAwLiBSZXBvcnQgdGhlIGFic29sdXRlIGNvdW50IG5leHQgdG8gZXZlcnkgcmF0aW8uIikKZGVmIGVnMDEzKHRyZWUsIHNyYywgcGF0aCk6CiAgICBsb3cgPSBfY29kZV9vbmx5KHNyYykubG93ZXIoKQogICAgcmF0aW8gPSBhbnkoayBpbiBsb3cgZm9yIGsgaW4gKCJyYXRlIiwgInJhdGlvIiwgInJlY2FsbCIsICJwcmVjaXNpb24iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwcm9wb3J0aW9uIiwgInBjdCIsICJwZXJjZW50IikpCiAgICBpZiBub3QgcmF0aW86CiAgICAgICAgcmV0dXJuIFtdCiAgICBhYnNvbHV0ZSA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoImNvdW50IiwgIm5fdG90YWwiLCAibnRvdGFsIiwgIm51bV8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJuXyIsICJ0b3RhbCIsICLmlK/mjIHluqYiLCAi57ud5a+55pWwIiwgInN1cHBvcnQiKSkKICAgIGRlbm9tID0gYW55KGsgaW4gbG93IGZvciBrIGluICgiZGVub21pbmF0b3IiLCAiZGVub20iLCAi5YiG5q+NIiwgIi8gbiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi9uIiwgInNpemUiLCAibl9zYW1wbGVzIikpCiAgICBpZiBub3QgKGFic29sdXRlIGFuZCBkZW5vbSk6CiAgICAgICAgcmV0dXJuIFt7ImxpbmUiOiAxLCAiaGl0IjogInJhdGlvIHByZXNlbnQsIGFic29sdXRlIGNvdW50L2Rlbm9taW5hdG9yIG5vdCBib3RoIHJlcG9ydGVkIn1dCiAgICByZXR1cm4gW10KCgpAcnVsZSgiRUcwMTQiLCBbMTI1XSwgIndhcm4iLAogICAgICAiVmFsdWUgbmFtZWQgJ2ZpeGVkJy8nY29uc3RhbnQnIGlzIHJlZ2VuZXJhdGVkIGluc2lkZSB0aGUgbG9vcCIsCiAgICAgICJDYW5vbiAjMTI1OiBhbnl0aGluZyBkZWNsYXJlZCBjb25zdGFudCBhY3Jvc3MgY29uZGl0aW9ucyBtdXN0IGJlICIKICAgICAgImdlbmVyYXRlZCBvbmNlIG91dHNpZGUgdGhlIGxvb3AgYW5kIHBhc3NlZCBpbiBleHBsaWNpdGx5LiBSZWdlbmVyYXRpbmcgIgogICAgICAiaXQgcGVyLWl0ZXJhdGlvbiBzaWxlbnRseSBtYWtlcyB0aGUgY29uZGl0aW9ucyBpbmNvbXBhcmFibGUuIikKZGVmIGVnMDE0KHRyZWUsIHNyYywgcGF0aCk6CiAgICBoaXRzID0gW10KICAgIGZvciBsb29wIGluIF9sb29wcyh0cmVlKToKICAgICAgICBib2R5ID0gX2xvb3BfYm9keV9zcmMobG9vcCwgc3JjKQogICAgICAgIGZvciBuIGluIGFzdC53YWxrKGxvb3ApOgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKG4sIGFzdC5Bc3NpZ24pOgogICAgICAgICAgICAgICAgZm9yIHQgaW4gbi50YXJnZXRzOgogICAgICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodCwgYXN0Lk5hbWUpIGFuZCBhbnkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrIGluIHQuaWQubG93ZXIoKSBmb3IgayBpbiAoImZpeGVkIiwgImNvbnN0IiwgInNoYXJlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImNvbW1vbiIsICJnbG9iYWxfc2VlZCIpKToKICAgICAgICAgICAgICAgICAgICAgICAgaWYgYW55KGsgaW4gYm9keS5sb3dlcigpIGZvciBrIGluICgicmFuZG9tIiwgInJhbmQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzaHVmZmxlIiwgImNob2ljZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInNhbXBsZSIsICJ1bmlmb3JtIikpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGl0cy5hcHBlbmQoeyJsaW5lIjogbi5saW5lbm8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImhpdCI6IGYiYHt0LmlkfWAgcmVnZW5lcmF0ZWQgaW5zaWRlIGxvb3AifSkKICAgIHJldHVybiBoaXRzWzo1XQoKCkBydWxlKCJFRzAxNSIsIFs0MjFdLCAid2FybiIsCiAgICAgICJNdWx0aS1heGlzIHN5c3RlbSByZXBvcnRlZCBhcyBvbmUgYWdncmVnYXRlIHNjb3JlIiwKICAgICAgIkNhbm9uICM0MjE6IGF4ZXMgYXJlIG5vdCBpbnRlcmNoYW5nZWFibGUuIEFuIG92ZXJhbGwgcmVjYWxsIG9mIDAuODYgY2FuICIKICAgICAgImhpZGUgb25lIGF4aXMgYXQgMC41MC4gUmVwb3J0IGV2ZXJ5IGF4aXMgc2VwYXJhdGVseS4iKQpkZWYgZWcwMTUodHJlZSwgc3JjLCBwYXRoKToKICAgIGxvdyA9IF9jb2RlX29ubHkoc3JjKS5sb3dlcigpCiAgICBheGVzID0gMAogICAgZm9yIGdycCBpbiAoKCJheGlzIiwgImF4ZXMiKSwgKCJsX2F4aXMiLCAibV9heGlzIiwgInBfYXhpcyIpLAogICAgICAgICAgICAgICAgKCJkaW0xIiwgImRpbTIiKSwgKCLovbQiLCkpOgogICAgICAgIGlmIGFueShrIGluIGxvdyBmb3IgayBpbiBncnApOgogICAgICAgICAgICBheGVzICs9IDEKICAgIHBlcl9heGlzID0gYW55KGsgaW4gbG93IGZvciBrIGluICgicGVyX2F4aXMiLCAiYnlfYXhpcyIsICJlYWNoX2F4aXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmb3IgYXhpcyIsICLliIbovbQiLCAi5ZCE6L20IikpCiAgICBhZ2dfb25seSA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoIm92ZXJhbGwiLCAiYWdncmVnYXRlIiwgInRvdGFsX3Njb3JlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibWFjcm8iLCAi5oC75L2TIiwgIue7vOWQiCIpKQogICAgaWYgYXhlcyA+PSAxIGFuZCBhZ2dfb25seSBhbmQgbm90IHBlcl9heGlzOgogICAgICAgIHJldHVybiBbeyJsaW5lIjogMSwgImhpdCI6ICJhZ2dyZWdhdGUgc2NvcmUgcmVwb3J0ZWQgd2l0aG91dCBwZXItYXhpcyBicmVha2Rvd24ifV0KICAgIHJldHVybiBbXQoKCkBydWxlKCJFRzAxNiIsIFszNzcsIDM3OF0sICJibG9ja2VyIiwKICAgICAgIkNvbmNsdXNpb24gZGVwZW5kcyBvbiBhbiBleHRlcm5hbCBjaGFubmVsIHdpdGggbm8gcmVhY2hhYmlsaXR5IHJlLXRlc3QiLAogICAgICAiQ2Fub24gIzM3Ny8jMzc4OiBhIGNoYW5uZWwgdGhhdCB3YXMgcmVhY2hhYmxlIGxhc3QgbW9udGggY2FuIGJlIDQwMyAiCiAgICAgICJ0b2RheS4gQW55IGNsYWltIHRoYXQgZGVwZW5kcyBvbiBhIHJlbW90ZSBlbmRwb2ludCBtdXN0IHJlLW1lYXN1cmUgIgogICAgICAicmVhY2hhYmlsaXR5IGF0IHJ1biB0aW1lIGFuZCBzdGFtcCBpdC4iKQpkZWYgZWcwMTYodHJlZSwgc3JjLCBwYXRoKToKICAgIGxvdyA9IF9jb2RlX29ubHkoc3JjKS5sb3dlcigpCiAgICAjIHYxIChhbmQgdjAuMikgaW5jbHVkZWQgYmFyZSAiLmdldCgiLCB3aGljaCBldmVyeSBkaWN0IGAuZ2V0KGssIGQpYCBjYWxsCiAgICAjIHNhdGlzZmllcyAtLSBhIGZpbGUgd2l0aCBubyBuZXR3b3JrIGFjY2VzcyBhdCBhbGwgd2FzIGZsYWdnZWQgYXMgbWFraW5nCiAgICAjIHJlbW90ZSBjYWxscyAoY29uZmlybWVkIGZhbHNlIHBvc2l0aXZlIG9uIHRoZSBUQUNUIGVuZ2luZSkuCiAgICByZW1vdGUgPSBhbnkoayBpbiBsb3cgZm9yIGsgaW4gKCJyZXF1ZXN0cy5nZXQiLCAicmVxdWVzdHMucG9zdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJyZXF1ZXN0cy5wdXQiLCAicmVxdWVzdHMucmVxdWVzdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cmxvcGVuIiwgImh0dHB4IiwgInVybGxpYiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJodHRwLmNsaWVudCIsICJhaW9odHRwIiwgImN1cmwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic29ja2V0LmNyZWF0ZV9jb25uZWN0aW9uIikpCiAgICBpZiBub3QgcmVtb3RlOgogICAgICAgIHJldHVybiBbXQogICAgY2hlY2tlZCA9IGFueShrIGluIGxvdyBmb3IgayBpbiAoInN0YXR1c19jb2RlIiwgInJhaXNlX2Zvcl9zdGF0dXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi5vayIsICJyZWFjaGFibGUiLCAicmVhY2hhYmlsaXR5IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0aW1lb3V0PSIsICLlj6/ovr7mgKciLCAicHJvYmUiKSkKICAgIHN0YW1wZWQgPSBhbnkoayBpbiBsb3cgZm9yIGsgaW4gKCJ0aW1lc3RhbXAiLCAiYXNjdGltZSIsICJ1dGNub3ciLCAidGltZS50aW1lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkYXRldGltZS5ub3ciLCAi5pe26Ze05oizIikpCiAgICBpZiBub3QgY2hlY2tlZCBvciBub3Qgc3RhbXBlZDoKICAgICAgICBtaXNzID0gW10KICAgICAgICBpZiBub3QgY2hlY2tlZDogbWlzcy5hcHBlbmQoInN0YXR1cyBjaGVjayIpCiAgICAgICAgaWYgbm90IHN0YW1wZWQ6IG1pc3MuYXBwZW5kKCJ0aW1lc3RhbXAiKQogICAgICAgIHJldHVybiBbeyJsaW5lIjogMSwgImhpdCI6ICJyZW1vdGUgY2FsbCB3aXRob3V0ICIgKyAiICsgIi5qb2luKG1pc3MpfV0KICAgIHJldHVybiBbXQo=
+"""
+evalguard rules — each rule traces back to a numbered entry in the
+Luoshen Failure-Mode Canon (368 entries mined from 100+ real experiments).
+
+Every rule carries:
+  eg_id    : stable rule id
+  canon    : source canon entry id(s) in the failure-mode database
+  severity : blocker / warn / info
+  title    : one-line English statement
+"""
+import ast
+import re
+
+RULES = []
+
+def rule(eg_id, canon, severity, title, why):
+    def deco(fn):
+        fn.meta = dict(eg_id=eg_id, canon=canon, severity=severity,
+                       title=title, why=why)
+        RULES.append(fn)
+        return fn
+    return deco
+
+
+def _code_only(src):
+    """Strip comments and string literals WITHOUT destroying dotted names.
+
+    Two real bugs lived here, both silent (canon #23):
+
+    v1  `re` was not imported, so the fallback branch raised NameError.
+    v2  tokens were joined with `" ".join(...)`, which turned `requests.get`
+        into `requests . get`. Every dotted keyword in every rule silently
+        stopped matching -- EG016 could never fire on any real remote call.
+        Fixed by preserving token positions with `untokenize`, so the
+        de-commented source keeps its original spacing.
+
+    Canon #23 origin: scanning raw source lets a comment that *mentions*
+    'baseline' satisfy a check meant to prove the code *computes* a baseline.
+    """
+    import io, tokenize
+    try:
+        toks = list(tokenize.generate_tokens(io.StringIO(src).readline))
+    except Exception:
+        return re.sub(r'#[^\n]*', '', src)
+    out = []
+    for t in toks:
+        if t.type in (tokenize.COMMENT, tokenize.STRING):
+            out.append(tokenize.TokenInfo(t.type, ' ' * len(t.string),
+                                          t.start, t.end, t.line))
+        else:
+            out.append(t)
+    try:
+        return tokenize.untokenize(out)
+    except Exception:
+        return "".join(t.string for t in out)
+
+
+def _strings(tree):
+    """Text of every string literal -- where *claims* live (canon #53)."""
+    return " ".join(n.value.lower() for n in ast.walk(tree)
+                    if isinstance(n, ast.Constant) and isinstance(n.value, str))
+
+
+def _ternary_guarded(tree, src):
+    """Divisions written as `x / d if d else fallback` ARE guarded (canon #145).
+
+    Real code (TACT engine, line 161) reads:
+        rec = 100*stat['tp'][a]/stat['gtot'][a] if stat['gtot'][a] else nan
+    v1 only inspected assignments, so this correct code was flagged.
+    """
+    good = set()
+    for n in ast.walk(tree):
+        if not isinstance(n, ast.IfExp):
+            continue
+        try:
+            body = (ast.get_source_segment(src, n.body) or "").lower()
+            test = (ast.get_source_segment(src, n.test) or "").lower()
+        except Exception:
+            continue
+        if "/" not in body or not test.strip():
+            continue
+        # the guard term names a variable/subscript that also appears in the divisor
+        for tok in re.findall(r"[A-Za-z_][A-Za-z0-9_'\[\]]*", test):
+            if len(tok) >= 2 and tok in body:
+                good.add(tok)
+    return good
+
+
+def _protected_names(tree):
+    """Names whose assignment already guards against zero (canon #145).
+
+    v1 only looked at the division expression itself, so a guard written one
+    line earlier (`denom = max(n_pos, 1)`) was invisible -> false positive on
+    correct code.
+    """
+    good = set()
+    for n in ast.walk(tree):
+        if isinstance(n, ast.Assign):
+            seg = ""
+            try:
+                seg = (ast.get_source_segment(_SRC[0], n.value) or "").lower()
+            except Exception:
+                seg = ""
+            if any(k in seg for k in ("max(", "np.maximum", "eps", "1e-",
+                                      "np.finfo", "+ 1", "+1", " or ")):
+                for t in n.targets:
+                    if isinstance(t, ast.Name):
+                        good.add(t.id)
+    return good
+
+
+_SRC = [""]
+
+
+def _walk_calls(tree):
+    for n in ast.walk(tree):
+        if isinstance(n, ast.Call):
+            yield n
+
+def _dotted(n):
+    if isinstance(n, ast.Attribute):
+        try: return _dotted(n.value) + "." + n.attr
+        except Exception: return n.attr
+    if isinstance(n, ast.Name):
+        return n.id
+    return ""
+
+def _has_seed(tree):
+    # v1 only matched `.seed()` calls -> false positive on `random.Random(SEED)`
+    # and `np.random.default_rng(SEED)`, which are themselves seeded constructors.
+    for c in _walk_calls(tree):
+        d = _dotted(c.func)
+        if d.endswith(("seed", "manual_seed", "set_seed")):
+            return True
+        if d.endswith(("Random", "default_rng", "Generator")) and c.args:
+            return True
+    return False
+
+def _imports(tree):
+    out = set()
+    for n in ast.walk(tree):
+        if isinstance(n, ast.Import):
+            for a in n.names: out.add(a.name.split(".")[0])
+        elif isinstance(n, ast.ImportFrom):
+            if n.module: out.add(n.module.split(".")[0])
+    return out
+
+def _uses_stochastic(tree):
+    for c in _walk_calls(tree):
+        d = _dotted(c.func)
+        if d.split(".")[0] in ("random", "np", "numpy", "torch", "tf", "jax", "faker"):
+            if any(k in d for k in ("rand", "shuffle", "choice", "sample", "uniform",
+                                    "normal", "randn", "permutation", "bernoulli")):
+                return True
+    return False
+
+
+@rule("EG001", [141, 23], "warn",
+      "Stochastic API used without any seed call",
+      "Unseeded randomness makes the reported number unreproducible; a single "
+      "re-run can move the metric more than the effect you are claiming.")
+def eg001(tree, src, path):
+    if _uses_stochastic(tree) and not _has_seed(tree):
+        for c in _walk_calls(tree):
+            d = _dotted(c.func)
+            if d.split(".")[0] in ("random", "np", "numpy", "torch"):
+                return [{"line": c.lineno, "hit": d}]
+    return []
+
+
+@rule("EG002", [140], "blocker",
+      "Accuracy/recall reported with no random baseline",
+      "A recall of 0.95 is meaningless if random guessing already gives 0.90. "
+      "Canon #140: report net gain over baseline, not raw rate.")
+def eg002(tree, src, path):
+    low = _code_only(src).lower()
+    reports = any(k in low for k in ("accuracy", "acc", "recall", "precision",
+                                     "f1", "hit_rate", "命中", "准确率"))
+    baseline = any(k in low for k in ("baseline", "random_base", "chance",
+                                      "基线", "随机基线", "null_model"))
+    if reports and not baseline:
+        return [{"line": 1, "hit": "metric reported, no baseline symbol found"}]
+    return []
+
+
+@rule("EG003", [142], "warn",
+      "Decision threshold hard-coded as a magic number",
+      "Canon #142: net discriminative power is an inverted-U in the threshold. "
+      "A single hard-coded value hides the peak and can miss it entirely.")
+def eg003(tree, src, path):
+    hits = []
+    for n in ast.walk(tree):
+        if isinstance(n, ast.Compare):
+            for c in n.comparators:
+                if isinstance(c, ast.Constant) and isinstance(c.value, (int, float)):
+                    v = c.value
+                    if 0.0 < v < 1.0 and v not in (0.5,):
+                        hits.append({"line": n.lineno, "hit": f"threshold {v}"})
+                        break
+    seen = set()
+    return [h for h in hits if not (h["line"] in seen or seen.add(h["line"]))][:5]
+
+
+@rule("EG004", [43], "warn",
+      "Clustering / threshold sweep absent: single cut-off only",
+      "Canon #43: cluster count is threshold-sensitive. One cut-off is a snapshot, "
+      "not a result; sweep and report the curve.")
+def eg004(tree, src, path):
+    """Flag a single hard-coded cluster count.
+
+    Bug fixed: v1 tested `"for" in src` / `"range" in src`, which any unrelated
+    loop in the file satisfied — the rule never fired. Correct version inspects
+    the call's own keyword argument."""
+    calls = {}
+    for c in _walk_calls(tree):
+        d = _dotted(c.func)
+        if any(k in d for k in ("KMeans", "DBSCAN", "Agglomerative",
+                                "SpectralClustering", "cluster")):
+            calls.setdefault(d, []).append(c)
+    for d, cs in calls.items():
+        if len(cs) > 1:
+            continue                      # called repeatedly => likely a sweep
+        for kw in cs[0].keywords:
+            if kw.arg in ("n_clusters", "eps", "min_samples", "k") \
+               and isinstance(kw.value, ast.Constant):
+                return [{"line": cs[0].lineno,
+                         "hit": f"{d}({kw.arg}={kw.value.value!r}) single literal cut-off"}]
+    return []
+
+
+@rule("EG005", [145, 35], "warn",
+      "Division without denominator guard",
+      "Canon #35/#145: a denominator that can hit zero either crashes or silently "
+      "produces a constant-zero metric — the metric dies before the experiment does.")
+def eg005(tree, src, path):
+    hits = []
+    prot = _protected_names(tree)
+    tern = _ternary_guarded(tree, src)
+    ifexps = [n for n in ast.walk(tree) if isinstance(n, ast.IfExp)]
+    for n in ast.walk(tree):
+        if isinstance(n, ast.BinOp) and isinstance(n.op, ast.Div):
+            seg = ast.get_source_segment(src, n) or ""
+            segl = seg.lower()          # v1 missed `+ EPS` (uppercase)
+            # NB: `len(` is NOT a guard -- len(x) can be 0. (v1 wrongly
+            # treated it as one and missed every real case.)
+            guarded = any(k in segl for k in ("+ 1", "+1", "max(", "eps", " or ",
+                                              "1e-", "np.finfo", "if ", "np.maximum"))
+            if not guarded and isinstance(n.right, ast.Name) and n.right.id in prot:
+                guarded = True          # guard lives at the assignment, one line up
+            if not guarded:
+                # v2: `x / d if d else nan` IS guarded. Real TACT engine code
+                # reads `100*tp/gtot if gtot else nan`; v1 flagged it because
+                # the Div node's own source stops before ` if `.
+                div = ast.get_source_segment(src, n.right) or ""
+                for ie in ifexps:
+                    if not any(x is n for x in ast.walk(ie)):
+                        continue
+                    t = ast.get_source_segment(src, ie.test) or ""
+                    if div and div in t.replace(" ", "").replace(
+                            t, t) or (div and div.replace(" ", "") in
+                                      t.replace(" ", "")):
+                        guarded = True
+                        break
+                if not guarded and div and any(
+                        tok in tern for tok in re.findall(r"[A-Za-z_][A-Za-z0-9_]*", div)):
+                    guarded = True
+            if not guarded:
+                hits.append({"line": n.lineno, "hit": seg[:60]})
+    return hits[:5]
+
+
+@rule("EG006", [23], "blocker",
+      "Bare or silent except (swallows the failure it should report)",
+      "Canon #23: the most frequent failure in this corpus is a variable that is "
+      "silently never used. A silent except turns a real error into a clean run.")
+def eg006(tree, src, path):
+    hits = []
+    for n in ast.walk(tree):
+        if isinstance(n, ast.ExceptHandler):
+            body = n.body
+            silent = (len(body) == 0 or
+                      (len(body) == 1 and isinstance(body[0], ast.Pass)) or
+                      (len(body) == 1 and isinstance(body[0], ast.Expr)
+                       and isinstance(body[0].value, ast.Constant)))
+            if silent or (n.type is None):
+                hits.append({"line": n.lineno, "hit": "bare/silent except"})
+    return hits
+
+
+@rule("EG007", [53], "warn",
+      "Claims a result is saved/archived with no write call",
+      "Canon #53: claiming 'archived' without verifying the bytes hit disk is an "
+      "empty delivery. Log string is not evidence.")
+def eg007(tree, src, path):
+    """Claim-of-persistence lives in *strings* (log/print text), while the
+    evidence of a write lives in code. v1 stripped strings and therefore
+    never saw the claim; v2 reads each side from where it actually lives."""
+    strs = " ".join(n.value.lower() for n in ast.walk(tree)
+                    if isinstance(n, ast.Constant) and isinstance(n.value, str))
+    low = _code_only(src).lower()
+    claims = any(k in strs for k in ("saved", "archived", "已保存", "已归档", "dumped"))
+    writes = any(k in low for k in ("open(", ".write(", "json.dump", "to_csv",
+                                    "np.save", "torch.save", "shutil.copy"))
+    if claims and not writes:
+        return [{"line": 1, "hit": "claims persistence, no write call found"}]
+    return []
+
+
+@rule("EG008", [139], "blocker",
+      "Evaluating recall on the same corpus the rules were derived from",
+      "Canon #139: a taxonomy induced from a corpus scores ~1.0 on that corpus by "
+      "construction. Use leave-one-out or a held-out set.")
+def eg008(tree, src, path):
+    low = _code_only(src).lower()
+    strs = _strings(tree)
+    derives = any(k in low for k in ("fit", "induce", "derive", "extract", "归纳"))
+    evals = any(k in low for k in ("recall", "accuracy", "score", "命中")) \
+             or any(k in strs for k in ("recall", "accuracy", "score", "命中"))
+    held = any(k in low for k in ("held_out", "holdout", "loo", "leave_one",
+                                  "test_set", "held-out", "cross_val"))
+    if derives and evals and not held:
+        return [{"line": 1, "hit": "fit+evaluate on same data, no held-out"}]
+    return []
+
+
+@rule("EG009", [23], "warn",
+      "Assigned variable never used (silent dead variable)",
+      "Canon #23: a variable that is assigned and never read makes the intervention "
+      "a no-op — the experiment then compares a condition against itself.")
+def eg009(tree, src, path):
+    assigned, used = {}, set()
+    for n in ast.walk(tree):
+        if isinstance(n, ast.Assign):
+            for t in n.targets:
+                if isinstance(t, ast.Name):
+                    assigned[t.id] = n.lineno
+        elif isinstance(n, ast.Name) and isinstance(n.ctx, ast.Load):
+            used.add(n.id)
+        elif isinstance(n, ast.Attribute):
+            pass
+    fn = {n.name for n in ast.walk(tree)
+          if isinstance(n, (ast.FunctionDef, ast.AsyncFunctionDef))}
+    return [{"line": ln, "hit": f"`{k}` assigned, never read"}
+            for k, ln in assigned.items()
+            if k not in used and not k.startswith("_") and k not in fn
+            and not k.isupper()][:6]        # UPPER_CASE = module constant/export
+
+
+@rule("EG010", [147, 148], "info",
+      "Single metric drives the conclusion; no second independent measure",
+      "Canon: every single statistic has a structural blind spot (e.g. MSE is "
+      "invariant to frame order). Pair each claim with a metric blind to a "
+      "different failure mode.")
+def eg010(tree, src, path):
+    low = _code_only(src).lower()
+    n_metrics = sum(1 for k in ("accuracy", "recall", "precision", "f1", "mse",
+                                "loss", "score", "kappa", "corr")
+                    if k in low)
+    if n_metrics == 1:
+        return [{"line": 1, "hit": f"only one metric family present"}]
+    return []
+
+
+# ---------------------------------------------------------------- v0.2 -----
+# Added after v0.1 shipped: 6 more rules drawn from canon entries that were
+# listed as actionable but had no executable check yet.
+# Each one is paired with a fixture in tests/ (planted / clean control).
+
+
+def _loops(tree):
+    for n in ast.walk(tree):
+        if isinstance(n, (ast.For, ast.AsyncFor, ast.While)):
+            yield n
+
+
+def _loop_body_src(loop, src):
+    return " ".join((ast.get_source_segment(src, b) or "")
+                    for b in loop.body)
+
+
+@rule("EG011", [419], "warn",
+      "Condition can skip cases, but results are compared as group rates",
+      "Canon #419: whenever a condition can skip (continue/return early), group "
+      "rates are computed on different denominators. Compare paired differences "
+      "on the common surviving subset, not rates across unequal sets.")
+def eg011(tree, src, path):
+    low = _code_only(src).lower()
+    skips = any(k in low for k in ("continue", "skip", "skipped", "continue_"))
+    if not skips:
+        return []
+    agg = any(k in low for k in ("mean(", "np.mean", "sum(", "len(", "average",
+                                 "recall", "accuracy", "hit_rate"))
+    paired = any(k in low for k in ("paired", "pair_diff", "common", "subset",
+                                    "diff(", "np.diff", "配对", "共同存活",
+                                    "intersection", "matched"))
+    if agg and not paired:
+        return [{"line": 1, "hit": "skip present + group-rate aggregation, no paired diff"}]
+    return []
+
+
+@rule("EG012", [424, 140], "warn",
+      "Identification accuracy reported without a positive-control anchor",
+      "Canon #424: an identification metric is only meaningful if the positive "
+      "control can reach 1.0 and the negative control sits at chance level. "
+      "Without both, 0.8 is uninterpretable.")
+def eg012(tree, src, path):
+    low = _code_only(src).lower()
+    ident = any(k in low for k in ("accuracy", "acc", "recall", "top1",
+                                   "identification", "分类", "识别"))
+    if not ident:
+        return []
+    pos = any(k in low for k in ("positive_control", "pos_control", "sanity",
+                                 "upper_bound", "ceiling_check", "阳性对照"))
+    neg = any(k in low for k in ("baseline", "chance", "random_base", "null_model",
+                                 "shuffle_control", "基线", "随机基线"))
+    if not (pos and neg):
+        miss = []
+        if not pos: miss.append("positive control")
+        if not neg: miss.append("chance-level baseline")
+        return [{"line": 1, "hit": "missing " + " + ".join(miss)}]
+    return []
+
+
+@rule("EG013", [40], "warn",
+      "Ratio metric reported without its numerator count and denominator",
+      "Canon #40: a rate of 0.07 built on 3 events is not the same claim as "
+      "0.07 built on 3000. Report the absolute count next to every ratio.")
+def eg013(tree, src, path):
+    low = _code_only(src).lower()
+    ratio = any(k in low for k in ("rate", "ratio", "recall", "precision",
+                                   "proportion", "pct", "percent"))
+    if not ratio:
+        return []
+    absolute = any(k in low for k in ("count", "n_total", "ntotal", "num_",
+                                      "n_", "total", "支持度", "绝对数", "support"))
+    denom = any(k in low for k in ("denominator", "denom", "分母", "/ n",
+                                   "/n", "size", "n_samples"))
+    if not (absolute and denom):
+        return [{"line": 1, "hit": "ratio present, absolute count/denominator not both reported"}]
+    return []
+
+
+@rule("EG014", [125], "warn",
+      "Value named 'fixed'/'constant' is regenerated inside the loop",
+      "Canon #125: anything declared constant across conditions must be "
+      "generated once outside the loop and passed in explicitly. Regenerating "
+      "it per-iteration silently makes the conditions incomparable.")
+def eg014(tree, src, path):
+    hits = []
+    for loop in _loops(tree):
+        body = _loop_body_src(loop, src)
+        for n in ast.walk(loop):
+            if isinstance(n, ast.Assign):
+                for t in n.targets:
+                    if isinstance(t, ast.Name) and any(
+                            k in t.id.lower() for k in ("fixed", "const", "shared",
+                                                        "common", "global_seed")):
+                        if any(k in body.lower() for k in ("random", "rand",
+                                                           "shuffle", "choice",
+                                                           "sample", "uniform")):
+                            hits.append({"line": n.lineno,
+                                         "hit": f"`{t.id}` regenerated inside loop"})
+    return hits[:5]
+
+
+@rule("EG015", [421], "warn",
+      "Multi-axis system reported as one aggregate score",
+      "Canon #421: axes are not interchangeable. An overall recall of 0.86 can "
+      "hide one axis at 0.50. Report every axis separately.")
+def eg015(tree, src, path):
+    low = _code_only(src).lower()
+    axes = 0
+    for grp in (("axis", "axes"), ("l_axis", "m_axis", "p_axis"),
+                ("dim1", "dim2"), ("轴",)):
+        if any(k in low for k in grp):
+            axes += 1
+    per_axis = any(k in low for k in ("per_axis", "by_axis", "each_axis",
+                                      "for axis", "分轴", "各轴"))
+    agg_only = any(k in low for k in ("overall", "aggregate", "total_score",
+                                      "macro", "总体", "综合"))
+    if axes >= 1 and agg_only and not per_axis:
+        return [{"line": 1, "hit": "aggregate score reported without per-axis breakdown"}]
+    return []
+
+
+@rule("EG016", [377, 378], "blocker",
+      "Conclusion depends on an external channel with no reachability re-test",
+      "Canon #377/#378: a channel that was reachable last month can be 403 "
+      "today. Any claim that depends on a remote endpoint must re-measure "
+      "reachability at run time and stamp it.")
+def eg016(tree, src, path):
+    low = _code_only(src).lower()
+    # v1 (and v0.2) included bare ".get(", which every dict `.get(k, d)` call
+    # satisfies -- a file with no network access at all was flagged as making
+    # remote calls (confirmed false positive on the TACT engine).
+    remote = any(k in low for k in ("requests.get", "requests.post",
+                                    "requests.put", "requests.request",
+                                    "urlopen", "httpx", "urllib",
+                                    "http.client", "aiohttp", "curl",
+                                    "socket.create_connection"))
+    if not remote:
+        return []
+    checked = any(k in low for k in ("status_code", "raise_for_status",
+                                     ".ok", "reachable", "reachability",
+                                     "timeout=", "可达性", "probe"))
+    stamped = any(k in low for k in ("timestamp", "asctime", "utcnow", "time.time",
+                                     "datetime.now", "时间戳"))
+    if not checked or not stamped:
+        miss = []
+        if not checked: miss.append("status check")
+        if not stamped: miss.append("timestamp")
+        return [{"line": 1, "hit": "remote call without " + " + ".join(miss)}]
+    return []

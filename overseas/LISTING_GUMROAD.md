@@ -1,1 +1,67 @@
-IyBHdW1yb2FkIOS4iuaetuaWh+ahiO+8iGV2YWxndWFyZCB2MC4yLjDvvIkKCiMjIOefreeJiO+8iOWVhuWTgeWJr+agh+mimO+8iQoKPiBTdGF0aWMgbGludGVyIGZvciBMTE0vYWdlbnQgZXZhbCBzY3JpcHRzLiAxNiBydWxlcywgZWFjaCB0cmFjZWQgdG8gYSBudW1iZXJlZAo+IGZhaWx1cmUgbW9kZSBmcm9tIDEwMCsgcmVhbCBleHBlcmltZW50cy4gWmVybyBmYWxzZSBwb3NpdGl2ZXMgb24gY2xlYW4gY29kZS4KCiMjIOmVv+eJiO+8iOWVhuWTgeaPj+i/sO+8iQoKKipZb3VyIGV2YWwgbnVtYmVycyBhcmUgcHJvYmFibHkgd3JvbmcuIE5vdCBiZWNhdXNlIHRoZSBtb2RlbCBpcyBiYWQg4oCUIGJlY2F1c2UKdGhlIG1lYXN1cmVtZW50IGlzIGJyb2tlbi4qKgoKYGV2YWxndWFyZGAgcmVhZHMgeW91ciBldmFsdWF0aW9uIHNjcmlwdCBhbmQgZmxhZ3MgdGhlIGZhaWx1cmUgbW9kZXMgdGhhdAphY3R1YWxseSBpbnZhbGlkYXRlIHB1Ymxpc2hlZCBudW1iZXJzOgoKLSByZWNhbGwgMC45NSB3aGVuIHJhbmRvbSBndWVzc2luZyBhbHJlYWR5IGdpdmVzIDAuOTAKLSBhIHRheG9ub215IHNjb3JpbmcgfjEuMCBvbiB0aGUgY29ycHVzIGl0IHdhcyBpbmR1Y2VkIGZyb20KLSBhIG1ldHJpYyB0aGF0IGlzIHN0cnVjdHVyYWxseSB6ZXJvIGZvciB0aGUgd2hvbGUgZXhwZXJpbWVudAotIGFuICJpbnRlcnZlbnRpb24iIHZhcmlhYmxlIHRoYXQgaXMgYXNzaWduZWQgYW5kIG5ldmVyIHJlYWQKLSAicmVzdWx0cyBhcmNoaXZlZCIgaW4gYSBsb2cgbGluZSB3aXRoIG5vIHdyaXRlIGNhbGwKLSBhIHJlbW90ZSBlbmRwb2ludCB0aGF0IHdhcyByZWFjaGFibGUgbGFzdCBtb250aCBhbmQgaXMgNDAzIHRvZGF5CgoqKkV2ZXJ5IHJ1bGUgdHJhY2VzIHRvIGEgbnVtYmVyZWQgZW50cnkqKiBpbiBhIDM2OC1pdGVtIGZhaWx1cmUtbW9kZSBjYW5vbgptaW5lZCBmcm9tIDEwMCsgcmVhbCBleHBlcmltZW50cyDigJQgZWFjaCB3cml0dGVuIGFmdGVyIHRoZSBmYWlsdXJlIGFjdHVhbGx5CmNvc3QgYW4gZXhwZXJpbWVudC4KCiMjIyBNZWFzdXJlZCwgbm90IGNsYWltZWQKCnwgZml4dHVyZSB8IGJsb2NrZXJzIHwgd2FybnMgfCB8CnwtLS18LS0tfC0tLXwtLS18CnwgMTYgcGxhbnRlZCBkZWZlY3RzIHwgNCB8IDExIHwgKioxNi8xNiBydWxlcyBmaXJlKiogfAp8IGNsZWFuIGNvbnRyb2wgfCAqKjAqKiB8ICoqMCoqIHwgMSBpbmZvIG9ubHkgfAoKKipaZXJvIGZhbHNlIHBvc2l0aXZlcyBvbiBjbGVhbiBjb2RlLioqIEJvdGggZml4dHVyZXMgc2hpcCBpbiB0aGUgcmVwbyDigJQKdmVyaWZ5IGl0IHlvdXJzZWxmLgoKIyMjIEl0IGZvdW5kIHJlYWwgYnVncyBpbiBpdHMgb3duIHJlcG8KClJ1biBhZ2FpbnN0IHRoZSBhdXRob3IncyBvd24gMTc3IFB5dGhvbiBmaWxlczogKio3IGJsb2NrZXJzKiosIGFsbCByZWFsCig1w5cgdW5yZWFjaGFibGUtY2hhbm5lbC13aXRob3V0LXJlLXRlc3QsIDLDlyBzaWxlbnQgYGV4Y2VwdGApLgoKIyMjIHYwLjIgZml4ZWQgdGhyZWUgc2lsZW50IGZhaWx1cmVzIGluIGl0c2VsZgoKVGhlIHdvcnN0OiBgIiAiLmpvaW4odG9rZW5zKWAgdHVybmVkIGByZXF1ZXN0cy5nZXRgIGludG8gYHJlcXVlc3RzIC4gZ2V0YCwgc28KKip0aGUgcmVtb3RlLWNoYW5uZWwgcnVsZSBjb3VsZCBuZXZlciBmaXJlIG9uIGFueSByZWFsIGNhbGwqKiDigJQgaXQgbG9va2VkIGZpbmUKaW4gY29kZSByZXZpZXcgYW5kIG1hdGNoZWQgbm90aGluZyBpbiBwcm9kdWN0aW9uLiBBIHJ1bGUgdGhhdCBuZXZlciBmaXJlcyBpcwppbmRpc3Rpbmd1aXNoYWJsZSBmcm9tIGEgcnVsZSB0aGF0IG5ldmVyIG5lZWRlZCB0byBmaXJlLgoKIyMjIEluc3RhbGwgLyB1c2UKCmBgYGJhc2gKcGlwIGluc3RhbGwgZXZhbGd1YXJkCmV2YWxndWFyZCB5b3VyX2V2YWwucHkKYGBgCgpaZXJvIGRlcGVuZGVuY2llcy4gUHl0aG9uIDMuOCsuIEV4aXQgY29kZSAxIG9uIGFueSBibG9ja2VyIOKAlCBkcm9wIGl0IGluIENJLgoKKipGcmVlIHRpZXIgKDQgcnVsZXMsIE1JVCk6KiogdW5ndWFyZGVkIGRpdmlzaW9uIMK3IHJhdGlvIHdpdGhvdXQgY291bnQgwrcKaGFyZC1jb2RlZCB0aHJlc2hvbGQgwrcgcmVtb3RlIGNhbGwgd2l0aG91dCByZWFjaGFiaWxpdHkgcmUtdGVzdCDigJQgdGhlIGZvdXIKdGhhdCBjb3ZlciA2MSUgb2YgcmVhbCBkZWZlY3RzIG1lYXN1cmVkIG9uIDE3NyBmaWxlcy4KCioqUGFpZCAoMTIgcnVsZXMgKyBjYW5vbiBDU1YvSlNPTiArIENJIHJlY2lwZSkuKioKCiMjIyBMaW1pdGF0aW9ucywgc3RhdGVkIHVwIGZyb250CgpTdGF0aWMgb25seSAobmV2ZXIgcnVucyB5b3VyIGNvZGUpIMK3IHNvbWUgcnVsZXMgYXJlIGtleXdvcmQgaGV1cmlzdGljcyDCtwpQeXRob24gb25seSDCtyBwcmVjaXNpb24gZmF2b3JlZCBvdmVyIHJlY2FsbCBieSBkZXNpZ24uCg==
+# Gumroad 上架文案（evalguard v0.2.0）
+
+## 短版（商品副标题）
+
+> Static linter for LLM/agent eval scripts. 16 rules, each traced to a numbered
+> failure mode from 100+ real experiments. Zero false positives on clean code.
+
+## 长版（商品描述）
+
+**Your eval numbers are probably wrong. Not because the model is bad — because
+the measurement is broken.**
+
+`evalguard` reads your evaluation script and flags the failure modes that
+actually invalidate published numbers:
+
+- recall 0.95 when random guessing already gives 0.90
+- a taxonomy scoring ~1.0 on the corpus it was induced from
+- a metric that is structurally zero for the whole experiment
+- an "intervention" variable that is assigned and never read
+- "results archived" in a log line with no write call
+- a remote endpoint that was reachable last month and is 403 today
+
+**Every rule traces to a numbered entry** in a 368-item failure-mode canon
+mined from 100+ real experiments — each written after the failure actually
+cost an experiment.
+
+### Measured, not claimed
+
+| fixture | blockers | warns | |
+|---|---|---|---|
+| 16 planted defects | 4 | 11 | **16/16 rules fire** |
+| clean control | **0** | **0** | 1 info only |
+
+**Zero false positives on clean code.** Both fixtures ship in the repo —
+verify it yourself.
+
+### It found real bugs in its own repo
+
+Run against the author's own 177 Python files: **7 blockers**, all real
+(5× unreachable-channel-without-re-test, 2× silent `except`).
+
+### v0.2 fixed three silent failures in itself
+
+The worst: `" ".join(tokens)` turned `requests.get` into `requests . get`, so
+**the remote-channel rule could never fire on any real call** — it looked fine
+in code review and matched nothing in production. A rule that never fires is
+indistinguishable from a rule that never needed to fire.
+
+### Install / use
+
+```bash
+pip install evalguard
+evalguard your_eval.py
+```
+
+Zero dependencies. Python 3.8+. Exit code 1 on any blocker — drop it in CI.
+
+**Free tier (4 rules, MIT):** unguarded division · ratio without count ·
+hard-coded threshold · remote call without reachability re-test — the four
+that cover 61% of real defects measured on 177 files.
+
+**Paid (12 rules + canon CSV/JSON + CI recipe).**
+
+### Limitations, stated up front
+
+Static only (never runs your code) · some rules are keyword heuristics ·
+Python only · precision favored over recall by design.

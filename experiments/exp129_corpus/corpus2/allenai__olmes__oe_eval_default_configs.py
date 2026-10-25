@@ -1,1 +1,58 @@
-IyMgSW1wb3J0YW50OiBPbmx5IGNoYW5nZSBkZWZhdWx0IHZhbHVlcyB3aXRoIGV4dHJlbWUgY2FzZSBhcyBpdCB3aWxsIGludmFsaWRhdGUgbW9kZWwvdGFzayBoYXNoZXMhCgpNT0RFTF9ERUZBVUxUUyA9IHsKICAgICJtb2RlbCI6IE5vbmUsCiAgICAibW9kZWxfdHlwZSI6ICJoZiIsCiAgICAicmV2aXNpb24iOiBOb25lLAogICAgInRydXN0X3JlbW90ZV9jb2RlIjogTm9uZSwKICAgICJ0b2tlbml6ZXIiOiBOb25lLAogICAgIm1heF9sZW5ndGgiOiAyMDQ4LAogICAgIm1vZGVsX3BhdGgiOiBOb25lLAogICAgImxvYWRfaW5fNGJpdCI6IEZhbHNlLAogICAgImxvYWRfaW5fOGJpdCI6IEZhbHNlLAogICAgInF1YW50aXphdGlvbl9jb25maWciOiBOb25lLCAgIyBUT0RPOiBQcm9jZXNzIGxvYWRfaW5fNGJpdCBhbmQgbG9hZF9pbl84Yml0IGludG8gdGhpcwogICAgImR0eXBlIjogImF1dG8iLAogICAgInVzZV9mYXN0X3Rva2VuaXplciI6IFRydWUsCiAgICAiYWRkX2Jvc190b2tlbiI6IEZhbHNlLAogICAgInByZWZpeF90b2tlbl9pZCI6IE5vbmUsCiAgICAicGFyYWxsZWxpemUiOiBGYWxzZSwKICAgICJkZXZpY2VfbWFwX29wdGlvbiI6ICJhdXRvIiwKICAgICJwZWZ0IjogTm9uZSwKICAgICJkZWx0YSI6IE5vbmUsCiAgICAiYXV0b2dwdHEiOiBGYWxzZSwKICAgICJjaGF0X21vZGVsIjogRmFsc2UsCiAgICAiY2hhdF90ZW1wbGF0ZSI6IE5vbmUsCiAgICAidmxsbV9mb3JfbWMiOiBGYWxzZSwKICAgICJ2bGxtX2xvZ2l0X2JpYXMiOiBOb25lLAogICAgImdwdV9tZW1vcnlfdXRpbGl6YXRpb24iOiBOb25lLAogICAgInByb2Nlc3Nfb3V0cHV0IjogTm9uZSwKICAgICJjdXN0b21fa3dhcmdzIjogTm9uZSwgICMgQ3VzdG9tIGt3YXJncyBmb3IgbW9kZWwgdXNlZCBpbiBzcGVjaWFsIGNhc2VzCiAgICAiYXBpX2Jhc2VfdXJsIjogTm9uZSwgICMgVXNlZCBmb3IgbGl0ZWxsbSBtb2RlbHMKfQoKVEFTS19ERUZBVUxUUyA9IHsKICAgICJ0YXNrX25hbWUiOiBOb25lLAogICAgInRhc2tfY29yZSI6IE5vbmUsCiAgICAibGltaXQiOiBOb25lLAogICAgInNwbGl0IjogTm9uZSwKICAgICJudW1fc2hvdHMiOiAwLAogICAgImZld3Nob3Rfc2VlZCI6IDEyMzQsCiAgICAicHJpbWFyeV9tZXRyaWMiOiBOb25lLAogICAgInJhbmRvbV9zdWJzYW1wbGVfc2VlZCI6IDEyMzQsCiAgICAiY29udGV4dF9rd2FyZ3MiOiBOb25lLAogICAgImdlbmVyYXRpb25fa3dhcmdzIjogTm9uZSwKICAgICJtZXRyaWNfa3dhcmdzIjogTm9uZSwKICAgICJuYXRpdmVfaWRfZmllbGQiOiAiaWQiLAogICAgImZld3Nob3Rfc291cmNlIjogTm9uZSwKICAgICJkYXRhc2V0X3BhdGgiOiBOb25lLAogICAgImRhdGFzZXRfbmFtZSI6IE5vbmUsCiAgICAidXNlX2NoYXRfZm9ybWF0IjogTm9uZSwKICAgICJ2ZXJzaW9uIjogTm9uZSwKICAgICJjaGF0X292ZXJyaWRlcyI6IE5vbmUsCiAgICAicmV2aXNpb24iOiBOb25lLAogICAgImNvbXB1dGVfZ29sZF9icGIiOiBGYWxzZSwKICAgICJleHRlcm5hbF9ldmFsIjogTm9uZSwKICAgICJjdXN0b21fa3dhcmdzIjogTm9uZSwgICMgQ3VzdG9tIGt3YXJncyBmb3IgdGFzawogICAgInNraXBfbW9kZWxfanVkZ2VzIjogTm9uZSwgICMgRG8gbm90IGluY2x1ZGUgbW9kZWwganVkZ2VzIGluIG1ldHJpY3MKICAgICJtb2RlbF9tYXhfbGVuZ3RoIjogTm9uZSwgICMgVG8gb3ZlcnJpZGUgbW9kZWwgbWF4X2xlbmd0aAp9Cg==
+## Important: Only change default values with extreme case as it will invalidate model/task hashes!
+
+MODEL_DEFAULTS = {
+    "model": None,
+    "model_type": "hf",
+    "revision": None,
+    "trust_remote_code": None,
+    "tokenizer": None,
+    "max_length": 2048,
+    "model_path": None,
+    "load_in_4bit": False,
+    "load_in_8bit": False,
+    "quantization_config": None,  # TODO: Process load_in_4bit and load_in_8bit into this
+    "dtype": "auto",
+    "use_fast_tokenizer": True,
+    "add_bos_token": False,
+    "prefix_token_id": None,
+    "parallelize": False,
+    "device_map_option": "auto",
+    "peft": None,
+    "delta": None,
+    "autogptq": False,
+    "chat_model": False,
+    "chat_template": None,
+    "vllm_for_mc": False,
+    "vllm_logit_bias": None,
+    "gpu_memory_utilization": None,
+    "process_output": None,
+    "custom_kwargs": None,  # Custom kwargs for model used in special cases
+    "api_base_url": None,  # Used for litellm models
+}
+
+TASK_DEFAULTS = {
+    "task_name": None,
+    "task_core": None,
+    "limit": None,
+    "split": None,
+    "num_shots": 0,
+    "fewshot_seed": 1234,
+    "primary_metric": None,
+    "random_subsample_seed": 1234,
+    "context_kwargs": None,
+    "generation_kwargs": None,
+    "metric_kwargs": None,
+    "native_id_field": "id",
+    "fewshot_source": None,
+    "dataset_path": None,
+    "dataset_name": None,
+    "use_chat_format": None,
+    "version": None,
+    "chat_overrides": None,
+    "revision": None,
+    "compute_gold_bpb": False,
+    "external_eval": None,
+    "custom_kwargs": None,  # Custom kwargs for task
+    "skip_model_judges": None,  # Do not include model judges in metrics
+    "model_max_length": None,  # To override model max_length
+}

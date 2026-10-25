@@ -1,1 +1,58 @@
-aW1wb3J0IHJhbmRvbSwganNvbiwgc3RhdGlzdGljcwpOPTMwMDsgQj0xMDsgVD0yMApkZWYgd29ybGQoc2VlZCk6CiAgICByPXJhbmRvbS5SYW5kb20oc2VlZCkKICAgIHJldHVybiBbIChyLnBhcmV0b3ZhcmlhdGUoMS4yKSkvMy4wIGZvciBfIGluIHJhbmdlKE4pIF0KZGVmIHJ1bihzZWVkLCBMMSwgTDIsIEwzLCBMNCwgTDUpOgogICAgcj1yYW5kb20uUmFuZG9tKHNlZWQqOTcrNykKICAgIHY9d29ybGQoc2VlZCkKICAgIHRydWVfYmVzdD1tYXgodikKICAgICMgTDEgcG9vbDogZXhvZ2Vub3VzID0gZnVsbCBzcGFjZSA7IGVuZG9nZW5vdXMgPSBhZ2VudC1nZW5lcmF0ZWQgdmFyaWFudHMgKGxvdyBkaXZlcnNpdHkpCiAgICBpZiBMMT09J2V4byc6IHBvb2w9bGlzdChyYW5nZShOKSkKICAgIGVsc2U6CiAgICAgICAgcG9vbD1saXN0KHJhbmdlKE4pKQogICAgICAgIGZvciBpIGluIHJhbmdlKE4sIE4rMTUwKTogcG9vbC5hcHBlbmQoci5yYW5kcmFuZ2UoMCw2MCkpICAjIHNlbGYtd292ZW4sIGNsdXN0ZXJlZAogICAgc2Vlbj1zZXQoKTsgcmVjPVtdOyByZXBvcnRlZD1Ob25lOyBoaXN0PVtdCiAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICBpZiBMMz09J2V4byc6CiAgICAgICAgICAgIGtfYW5jaG9yPW1heCgxLGludChCKjAuMykpCiAgICAgICAgICAgIHVuc2Vlbj1baSBmb3IgaSBpbiBwb29sIGlmIGkgbm90IGluIHNlZW5dCiAgICAgICAgICAgIHBpY2s9KHIuc2FtcGxlKHVuc2VlbixtaW4oa19hbmNob3IsbGVuKHVuc2VlbikpKSBpZiB1bnNlZW4gZWxzZSBbXSkKICAgICAgICAgICAgcmVzdD1baSBmb3IgaSBpbiBwb29sIGlmIGkgbm90IGluIHBpY2tdCiAgICAgICAgICAgIHBpY2srPSByLnNhbXBsZShyZXN0LG1pbihCLWxlbihwaWNrKSxsZW4ocmVzdCkpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIG5vdCByZWM6IHBpY2s9ci5zYW1wbGUocG9vbCxtaW4oQixsZW4ocG9vbCkpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgYmFzZT1tYXgocmVjLGtleT1sYW1iZGEgeDp4WzFdKVswXQogICAgICAgICAgICAgICAgcGljaz1bbWluKE4tMSxtYXgoMCxiYXNlK3IucmFuZGludCgtMywzKSkpIGZvciBfIGluIHJhbmdlKEIpXQogICAgICAgIGZvciBpIGluIHBpY2s6CiAgICAgICAgICAgIHNlZW4uYWRkKGkpCiAgICAgICAgICAgIHZpPXZbaV0gaWYgaTxOIGVsc2UgdltpJU5dKjAuNgogICAgICAgICAgICBpZiBMMj09J2V4byc6IHNjPXZpKigxK3IuZ2F1c3MoMCwwLjA1KSkKICAgICAgICAgICAgZWxzZTogc2M9dmkqMC4zKyByLnJhbmRvbSgpKnN0YXRpc3RpY3MubWVhbih2KSoxLjIKICAgICAgICAgICAgcmVjLmFwcGVuZCgoaSxzYyx2aSkpCiAgICAgICAgaWYgTDQ9PSdleG8nOgogICAgICAgICAgICBjdXI9bWF4KHJlYyxrZXk9bGFtYmRhIHg6eFsyXSlbMl0KICAgICAgICBlbHNlOgogICAgICAgICAgICBjdXI9bWF4KHJlYyxrZXk9bGFtYmRhIHg6eFsxXSlbMl0gICAjIHJlcG9ydHMgYmVzdC1sb29raW5nLCBub3QgYmVzdC10cnVlCiAgICAgICAgcmVwb3J0ZWQ9Y3VyOyBoaXN0LmFwcGVuZChjdXIpCiAgICAgICAgaWYgTDU9PSdlbmRvJyBhbmQgbGVuKGhpc3QpPj00IGFuZCBhYnMoaGlzdFstMV0taGlzdFstNF0pPDFlLTM6IGJyZWFrCiAgICBjb3Y9bGVuKFsxIGZvciB4IGluIHJlYyBpZiB4WzJdPj1zb3J0ZWQodilbLTMwXV0pLzMwLjAKICAgIHJldHVybiBkaWN0KGJlc3Q9cmVwb3J0ZWQsIGNvdj1jb3YsIHN0ZXBzPWxlbihoaXN0KSwgY29sbGFwc2U9MSBpZiByZXBvcnRlZDx0cnVlX2Jlc3QqMC4zIGVsc2UgMCkKY29uZHM9eyflhajlpJbnlJ8nOignZXhvJywnZXhvJywnZXhvJywnZXhvJywnZXhvJyksCiAnTDHlhoXnlJ8nOignZW5kbycsJ2V4bycsJ2V4bycsJ2V4bycsJ2V4bycpLAogJ0wy5YaF55SfJzooJ2V4bycsJ2VuZG8nLCdleG8nLCdleG8nLCdleG8nKSwKICdMM+WGheeUnyc6KCdleG8nLCdleG8nLCdlbmRvJywnZXhvJywnZXhvJyksCiAnTDTlhoXnlJ8nOignZXhvJywnZXhvJywnZXhvJywnZW5kbycsJ2V4bycpLAogJ0w15YaF55SfJzooJ2V4bycsJ2V4bycsJ2V4bycsJ2V4bycsJ2VuZG8nKSwKICflhajlhoXnlJ8nOignZW5kbycsJ2VuZG8nLCdlbmRvJywnZW5kbycsJ2VuZG8nKX0Kc2VlZHM9WzEsMiwzLDQsNV0Kb3V0PXt9CmZvciBuYW1lLGMgaW4gY29uZHMuaXRlbXMoKToKICAgIHJzPVtydW4ocywqYykgZm9yIHMgaW4gc2VlZHNdCiAgICBvdXRbbmFtZV09eydiZXN0Jzpyb3VuZChzdGF0aXN0aWNzLm1lYW4oeFsnYmVzdCddIGZvciB4IGluIHJzKSwzKSwKICAgICAgICAgICAgICAgJ2Nvdic6cm91bmQoc3RhdGlzdGljcy5tZWFuKHhbJ2NvdiddIGZvciB4IGluIHJzKSwzKSwKICAgICAgICAgICAgICAgJ3N0ZXBzJzpyb3VuZChzdGF0aXN0aWNzLm1lYW4oeFsnc3RlcHMnXSBmb3IgeCBpbiBycyksMSksCiAgICAgICAgICAgICAgICdjb2xsYXBzZSc6cm91bmQoc3RhdGlzdGljcy5tZWFuKHhbJ2NvbGxhcHNlJ10gZm9yIHggaW4gcnMpLDIpfQpwcmludChqc29uLmR1bXBzKG91dCxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpKQpqc29uLmR1bXAob3V0LG9wZW4oJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDIzMF9lZTUvcmVzdWx0MjMwLmpzb24nLCd3JyksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQo=
+import random, json, statistics
+N=300; B=10; T=20
+def world(seed):
+    r=random.Random(seed)
+    return [ (r.paretovariate(1.2))/3.0 for _ in range(N) ]
+def run(seed, L1, L2, L3, L4, L5):
+    r=random.Random(seed*97+7)
+    v=world(seed)
+    true_best=max(v)
+    # L1 pool: exogenous = full space ; endogenous = agent-generated variants (low diversity)
+    if L1=='exo': pool=list(range(N))
+    else:
+        pool=list(range(N))
+        for i in range(N, N+150): pool.append(r.randrange(0,60))  # self-woven, clustered
+    seen=set(); rec=[]; reported=None; hist=[]
+    for t in range(T):
+        if L3=='exo':
+            k_anchor=max(1,int(B*0.3))
+            unseen=[i for i in pool if i not in seen]
+            pick=(r.sample(unseen,min(k_anchor,len(unseen))) if unseen else [])
+            rest=[i for i in pool if i not in pick]
+            pick+= r.sample(rest,min(B-len(pick),len(rest)))
+        else:
+            if not rec: pick=r.sample(pool,min(B,len(pool)))
+            else:
+                base=max(rec,key=lambda x:x[1])[0]
+                pick=[min(N-1,max(0,base+r.randint(-3,3))) for _ in range(B)]
+        for i in pick:
+            seen.add(i)
+            vi=v[i] if i<N else v[i%N]*0.6
+            if L2=='exo': sc=vi*(1+r.gauss(0,0.05))
+            else: sc=vi*0.3+ r.random()*statistics.mean(v)*1.2
+            rec.append((i,sc,vi))
+        if L4=='exo':
+            cur=max(rec,key=lambda x:x[2])[2]
+        else:
+            cur=max(rec,key=lambda x:x[1])[2]   # reports best-looking, not best-true
+        reported=cur; hist.append(cur)
+        if L5=='endo' and len(hist)>=4 and abs(hist[-1]-hist[-4])<1e-3: break
+    cov=len([1 for x in rec if x[2]>=sorted(v)[-30]])/30.0
+    return dict(best=reported, cov=cov, steps=len(hist), collapse=1 if reported<true_best*0.3 else 0)
+conds={'全外生':('exo','exo','exo','exo','exo'),
+ 'L1内生':('endo','exo','exo','exo','exo'),
+ 'L2内生':('exo','endo','exo','exo','exo'),
+ 'L3内生':('exo','exo','endo','exo','exo'),
+ 'L4内生':('exo','exo','exo','endo','exo'),
+ 'L5内生':('exo','exo','exo','exo','endo'),
+ '全内生':('endo','endo','endo','endo','endo')}
+seeds=[1,2,3,4,5]
+out={}
+for name,c in conds.items():
+    rs=[run(s,*c) for s in seeds]
+    out[name]={'best':round(statistics.mean(x['best'] for x in rs),3),
+               'cov':round(statistics.mean(x['cov'] for x in rs),3),
+               'steps':round(statistics.mean(x['steps'] for x in rs),1),
+               'collapse':round(statistics.mean(x['collapse'] for x in rs),2)}
+print(json.dumps(out,ensure_ascii=False,indent=1))
+json.dump(out,open('/data/workspace/luoshen-o1/experiments/exp230_ee5/result230.json','w'),ensure_ascii=False,indent=1)

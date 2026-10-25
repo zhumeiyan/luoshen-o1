@@ -1,1 +1,167 @@
-IiIiQ29uZmlnIGxldmVyIGZvciB0aGUgcmVmbGVjdGlvbiBkZXB0aCDihpIgbW9kZWwvZWZmb3J0IG1hcHBpbmcuCgpDbG9uZWQgZnJvbSBgYGVnby5yZWNvbmNpbGVfY29uZmlnYGA6IGZyZXNoLXJlYWQtcGVyLWNhbGwsIGRlZXAtbWVyZ2Ugb3ZlcgpoYXJkY29kZWQgZGVmYXVsdHMsIGRlZ3JhZGUgZmllbGQtYnktZmllbGQgdG93YXJkIHRoZSBkZWZhdWx0cyBvbiBjb25maWcgZGFtYWdlCnNvIGEgcmVmbGVjdGlvbiBjYW4gbmV2ZXIgY3Jhc2ggb24gYSBiYWQgY29uZmlnLgoKVGhlIHJlZmxlY3Rpb24gYnJpZGdlIChgYF9icmlkZ2UucHk6Ol9tb2RlbF9mb3JfZGVwdGhgYCAvIGBgX2VmZm9ydF9mb3JfY29udGV4dGBgKQphbmQgdGhlIHByb21wdCByZXNvbHZlciAoYGBfcHJvbXB0cy5weWBgKSBib3RoIGRlbGVnYXRlIGhlcmUsIHNvIHRoZSBkZXB0aOKGkm1vZGVsCm1hcHBpbmcgaGFzIGEgc2luZ2xlIHNvdXJjZSBvZiB0cnV0aC4gRWRpdGFibGUgZnJvbSB0aGUgZGFzaGJvYXJkIHZpYSB0aGUKYGByZWZsZWN0aW9uX21vZGVsc2BgIHNldHRpbmdzIGRvbWFpbi4KCkVmZm9ydCBzZW1hbnRpY3M6IEhhaWt1IGRvZXMgbm90IHVzZSBhbiBlZmZvcnQgc2V0dGluZyDigJQgdGhlIENDIGludm9rZXIgT01JVFMKYGAtLWVmZm9ydGBgIGZvciBIYWlrdSAoYGBtb2RlbF9zdXBwb3J0c19lZmZvcnRgYCkuIGBgbGlnaHRgYCB0aGVyZWZvcmUgaGFzIG5vCmBgZWZmb3J0YGAgaW4gdGhlIGJhc2UgeWFtbCAodGhlIGRhc2hib2FyZCBzaG93cyBvbmx5IGl0cyBtb2RlbCkuIFRoZSBpbnRlcm5hbApgYF9IQVJEQ09ERURfREVGQVVMVFNgYCBzdGlsbCByZXNvbHZlcyBgYGxpZ2h0YGAgdG8gYGBsb3dgYCBzbyBjYWxsZXJzIGFsd2F5cyBnZXQKYSBjb25jcmV0ZSBgYEVmZm9ydExldmVsYGAg4oCUIHRoZSB2YWx1ZSBpcyBhIGhhcm1sZXNzIG5vLW9wIGF0IGRpc3BhdGNoIGZvciBIYWlrdS4KCkRlcGVuZGVuY3kgcnVsZTogc3RkbGliICsgeWFtbCArIGdlbmVzaXMuZW52ICsgZ2VuZXNpcy5fY29uZmlnX292ZXJsYXkgKwpnZW5lc2lzLmNjLnR5cGVzICsgZ2VuZXNpcy5hd2FyZW5lc3MudHlwZXMgb25seS4gYGBnZW5lc2lzLm1jcC5oZWFsdGguc2V0dGluZ3NgYAppbXBvcnRzIHRoZSBwdWJsaWMgaGVscGVycyBmcm9tIGhlcmUgKG5ldmVyIHRoZSByZXZlcnNlKSDigJQgbWlycm9yIHJlY29uY2lsZV9jb25maWcuCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGNvcHkKaW1wb3J0IGxvZ2dpbmcKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmltcG9ydCB5YW1sCgpmcm9tIGdlbmVzaXMuX2NvbmZpZ19vdmVybGF5IGltcG9ydCBtZXJnZV9sb2NhbF9vdmVybGF5CmZyb20gZ2VuZXNpcy5hd2FyZW5lc3MudHlwZXMgaW1wb3J0IERlcHRoCmZyb20gZ2VuZXNpcy5jYy50eXBlcyBpbXBvcnQgQ0NNb2RlbCwgRWZmb3J0TGV2ZWwKZnJvbSBnZW5lc2lzLmVudiBpbXBvcnQgcmVwb19yb290Cgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCl9DT05GSUdfTkFNRSA9ICJyZWZsZWN0aW9uX21vZGVscy55YW1sIgoKIyBBdXRob3JpdGF0aXZlIGZhbGxiYWNrcyDigJQgbWF0Y2ggdGhlIGhpc3RvcmljYWwgaGFyZGNvZGVkIF9ERVBUSF9NT0RFTCAvCiMgX2VmZm9ydF9mb3JfY29udGV4dCwgd2l0aCB0aGUgMjAyNi0wNy0zMCBlZmZvcnQgYnVtcCAoZGVlcC9zdHJhdGVnaWMg4oaSIHhoaWdoKS4KIyBgYGxpZ2h0YGAga2VlcHMgYGBlZmZvcnQ6IGxvd2BgIGhlcmUgKG5vdCBpbiB0aGUgeWFtbCkgc28gdGhlIHJ1bnRpbWUgdmFsdWUgaXMKIyBjb25jcmV0ZSBldmVuIHRob3VnaCBIYWlrdSBpZ25vcmVzIGl0IGF0IGRpc3BhdGNoLgpfSEFSRENPREVEX0RFRkFVTFRTOiBkaWN0W3N0ciwgZGljdFtzdHIsIHN0cl1dID0gewogICAgImxpZ2h0IjogeyJtb2RlbCI6ICJoYWlrdSIsICJlZmZvcnQiOiAibG93In0sCiAgICAiZGVlcCI6IHsibW9kZWwiOiAic29ubmV0IiwgImVmZm9ydCI6ICJ4aGlnaCJ9LAogICAgInN0cmF0ZWdpYyI6IHsibW9kZWwiOiAib3B1cyIsICJlZmZvcnQiOiAieGhpZ2gifSwKfQoKIyBQdWJsaWM6IHRoZSBzZXR0aW5ncy1kb21haW4gdmFsaWRhdG9yIGltcG9ydHMgdGhlc2UgdG8gY2hlY2sga2V5cy9kZWZhdWx0cy4KVkFMSURfREVQVEhfS0VZUzogZnJvemVuc2V0W3N0cl0gPSBmcm96ZW5zZXQoX0hBUkRDT0RFRF9ERUZBVUxUUykKCgpkZWYgX2Jhc2VfcGF0aCgpIC0+IFBhdGg6CiAgICByZXR1cm4gcmVwb19yb290KCkgLyAiY29uZmlnIiAvIF9DT05GSUdfTkFNRQoKCmRlZiBsb2FkX2NvbmZpZygpIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgIiIiUmVhZCB0aGUgbWVyZ2VkIGNvbmZpZyBmcmVzaCDigJQgcGVyIGNhbGwsIE5PIGNhY2hlLgoKICAgIERlZXAtbWVyZ2VzIChkZWZhdWx0cyDihpAgYmFzZSB5YW1sIOKGkCAubG9jYWwgb3ZlcmxheSksIHBlciBkZXB0aCwgc28gYSBwYXJ0aWFsCiAgICBvdmVycmlkZSAoZS5nLiBvbmx5IGBgZGVlcC5lZmZvcnRgYCkga2VlcHMgdGhlIG90aGVyIGZpZWxkcyBmcm9tIGRlZmF1bHRzLgogICAgTWlzc2luZyBvciBjb3JydXB0IGZpbGVzIGRlZ3JhZGUgdG93YXJkIGBgX0hBUkRDT0RFRF9ERUZBVUxUU2BgLgogICAgIiIiCiAgICBtZXJnZWQgPSBjb3B5LmRlZXBjb3B5KF9IQVJEQ09ERURfREVGQVVMVFMpCiAgICBiYXNlX3BhdGggPSBfYmFzZV9wYXRoKCkKICAgIGJhc2U6IGRpY3Rbc3RyLCBBbnldID0ge30KICAgIHRyeToKICAgICAgICBsb2FkZWQgPSB5YW1sLnNhZmVfbG9hZChiYXNlX3BhdGgucmVhZF90ZXh0KCkpIG9yIHt9CiAgICAgICAgaWYgaXNpbnN0YW5jZShsb2FkZWQsIGRpY3QpOgogICAgICAgICAgICBiYXNlID0gbG9hZGVkCiAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgcGFzcwogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBsb2dnZXIud2FybmluZygicmVmbGVjdGlvbl9tb2RlbHMgYmFzZSBjb25maWcgdW5yZWFkYWJsZSBhdCAlcyIsIGJhc2VfcGF0aCkKICAgIHRyeToKICAgICAgICBiYXNlID0gbWVyZ2VfbG9jYWxfb3ZlcmxheShiYXNlLCBiYXNlX3BhdGgpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGxvZ2dlci53YXJuaW5nKCJyZWZsZWN0aW9uX21vZGVscyBvdmVybGF5IG1lcmdlIGZhaWxlZCIsIGV4Y19pbmZvPVRydWUpCiAgICBmb3IgZGVwdGhfa2V5LCBmaWVsZHMgaW4gYmFzZS5pdGVtcygpOgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGZpZWxkcywgZGljdCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgZGVwdGhfa2V5IGluIG1lcmdlZDoKICAgICAgICAgICAgbWVyZ2VkW2RlcHRoX2tleV0gPSB7KiptZXJnZWRbZGVwdGhfa2V5XSwgKipmaWVsZHN9CiAgICAgICAgZWxzZToKICAgICAgICAgICAgbWVyZ2VkW2RlcHRoX2tleV0gPSBkaWN0KGZpZWxkcykKICAgIHJldHVybiBtZXJnZWQKCgpkZWYgX2RlcHRoX2tleShkZXB0aDogRGVwdGgpIC0+IHN0cjoKICAgICMgRGVwdGggdmFsdWVzIGFyZSBjYXBpdGFsaXplZCAoIkxpZ2h0Ii8iRGVlcCIvIlN0cmF0ZWdpYyIpOyB0aGUgY29uZmlnIHVzZXMKICAgICMgbG93ZXJjYXNlIGtleXMsIHNvIG5vcm1hbGl6ZS4KICAgIHJhdyA9IGRlcHRoLnZhbHVlIGlmIGlzaW5zdGFuY2UoZGVwdGgsIERlcHRoKSBlbHNlIHN0cihkZXB0aCkKICAgIHJldHVybiByYXcubG93ZXIoKQoKCmRlZiBtb2RlbF9mb3JfZGVwdGgoZGVwdGg6IERlcHRoKSAtPiBDQ01vZGVsOgogICAgIiIiTW9kZWwgZm9yIGEgcmVmbGVjdGlvbiBkZXB0aC4gSW52YWxpZC9taXNzaW5nIOKGkiBoYXJkY29kZWQgZGVmYXVsdCDihpIgU09OTkVULiIiIgogICAga2V5ID0gX2RlcHRoX2tleShkZXB0aCkKICAgIHJhdyA9IGxvYWRfY29uZmlnKCkuZ2V0KGtleSwge30pLmdldCgibW9kZWwiKSBvciBfSEFSRENPREVEX0RFRkFVTFRTLmdldChrZXksIHt9KS5nZXQoIm1vZGVsIikKICAgIHRyeToKICAgICAgICByZXR1cm4gQ0NNb2RlbChyYXcpIGlmIHJhdyBlbHNlIENDTW9kZWwuU09OTkVUCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICBsb2dnZXIud2FybmluZygicmVmbGVjdGlvbl9tb2RlbHM6IGludmFsaWQgbW9kZWwgJXIgZm9yIGRlcHRoICVzIOKAlCB1c2luZyBkZWZhdWx0IiwgcmF3LCBrZXkpCiAgICAgICAgZmFsbGJhY2sgPSBfSEFSRENPREVEX0RFRkFVTFRTLmdldChrZXksIHt9KS5nZXQoIm1vZGVsIiwgInNvbm5ldCIpCiAgICAgICAgcmV0dXJuIENDTW9kZWwoZmFsbGJhY2spCgoKZGVmIGVmZm9ydF9mb3JfZGVwdGgoZGVwdGg6IERlcHRoKSAtPiBFZmZvcnRMZXZlbCB8IE5vbmU6CiAgICAiIiJFZmZvcnQgZm9yIGEgcmVmbGVjdGlvbiBkZXB0aCwgb3IgYGBOb25lYGAgd2hlbiBub25lIGlzIGNvbmZpZ3VyZWQuCgogICAgSW52YWxpZCB2YWx1ZXMgZGVncmFkZSB0byB0aGUgaGFyZGNvZGVkIGRlZmF1bHQgKG9yIGBgTm9uZWBgKS4gQ2FsbGVycyB0aGF0CiAgICBuZWVkIGEgY29uY3JldGUgbGV2ZWwgc2hvdWxkIGNvYWxlc2NlIGBgTm9uZWBgIHRoZW1zZWx2ZXM7IHRoZSBpbnZva2VyIG9taXRzCiAgICBgYC0tZWZmb3J0YGAgZm9yIGVmZm9ydC1sZXNzIG1vZGVscyAoSGFpa3UpIHJlZ2FyZGxlc3Mgb2YgdGhpcyB2YWx1ZS4KICAgICIiIgogICAga2V5ID0gX2RlcHRoX2tleShkZXB0aCkKICAgIHJhdyA9IGxvYWRfY29uZmlnKCkuZ2V0KGtleSwge30pLmdldCgiZWZmb3J0IikKICAgIGlmIHJhdyBpcyBOb25lOgogICAgICAgIHJhdyA9IF9IQVJEQ09ERURfREVGQVVMVFMuZ2V0KGtleSwge30pLmdldCgiZWZmb3J0IikKICAgIGlmIHJhdyBpcyBOb25lOgogICAgICAgIHJldHVybiBOb25lCiAgICB0cnk6CiAgICAgICAgcmV0dXJuIEVmZm9ydExldmVsKHJhdykKICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgIGxvZ2dlci53YXJuaW5nKAogICAgICAgICAgICAicmVmbGVjdGlvbl9tb2RlbHM6IGludmFsaWQgZWZmb3J0ICVyIGZvciBkZXB0aCAlcyDigJQgdXNpbmcgZGVmYXVsdCIsIHJhdywga2V5CiAgICAgICAgKQogICAgICAgIGZhbGxiYWNrID0gX0hBUkRDT0RFRF9ERUZBVUxUUy5nZXQoa2V5LCB7fSkuZ2V0KCJlZmZvcnQiKQogICAgICAgIHJldHVybiBFZmZvcnRMZXZlbChmYWxsYmFjaykgaWYgZmFsbGJhY2sgZWxzZSBOb25lCgoKZGVmIGVkaXRvcl92aWV3KGNvbmZpZzogZGljdFtzdHIsIEFueV0pIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgIiIiTm9ybWFsaXplIGEgc2VydmVkIHJlZmxlY3Rpb25fbW9kZWxzIGNvbmZpZyBmb3IgdGhlIGRhc2hib2FyZCBlZGl0b3IuCgogICAgVGhlIGdlbmVyaWMgc2V0dGluZ3MgZWRpdG9yIG9ubHkgcmVuZGVycyBrZXlzIHByZXNlbnQgaW4gdGhlIHNlcnZlZCBjb25maWcsIHNvCiAgICBhbiBgYGVmZm9ydGBgIGNvbnRyb2wgYXBwZWFycyBmb3IgYSBkZXB0aCBvbmx5IHdoZW4gdGhlIGNvbmZpZyBjYXJyaWVzIGFuCiAgICBgYGVmZm9ydGBgIGtleS4gRXhwb3NlIGBgZWZmb3J0YGAgZm9yIGV4YWN0bHkgdGhlIGRlcHRocyB3aG9zZSBzZWxlY3RlZCBtb2RlbAogICAgc3VwcG9ydHMgaXQ6CgogICAgICAqIGVmZm9ydC1jYXBhYmxlIG1vZGVsIChTb25uZXQvT3B1cy9GYWJsZSkgd2l0aCBubyBgYGVmZm9ydGBgIGtleSDihpIgaW5qZWN0CiAgICAgICAgdGhlIGRlZmF1bHQgZWZmb3J0IHNvIHRoZSBjb250cm9sIHJlbmRlcnMuIFdpdGhvdXQgdGhpcywgc3dpdGNoaW5nIGEgZGVwdGgKICAgICAgICBvZmYgSGFpa3Ugc2lsZW50bHkgYXBwbGllcyB0aGUgaGlkZGVuIGhhcmRjb2RlZCB2YWx1ZSB3aXRoIG5vIHdheSB0byBlZGl0CiAgICAgICAgaXQgKENvZGV4IFAyIG9uICMxMjYxKS4KICAgICAgKiBlZmZvcnQtbGVzcyBtb2RlbCAoSGFpa3UpIOKGkiBkcm9wIGFueSBgYGVmZm9ydGBgIGtleSBzbyBubyBtaXNsZWFkaW5nCiAgICAgICAgY29udHJvbCBzaG93czsgdGhlIGludm9rZXIgb21pdHMgYGAtLWVmZm9ydGBgIGZvciBIYWlrdSBhdCBkaXNwYXRjaC4KCiAgICBQdXJlIHZpZXcgdHJhbnNmb3JtIG92ZXIgYSBDT1BZIOKAlCBuZXZlciBtdXRhdGVzIHRoZSBzdG9yZWQgY29uZmlnLCBzbyBpdCBpcwogICAgc2FmZSB0byBjYWxsIG9uIHRoZSBtZXJnZWQgeWFtbCB0aGUgZGFzaGJvYXJkIHJvdXRlIHNlcnZlcy4KICAgICIiIgogICAgZnJvbSBnZW5lc2lzLmNjLnR5cGVzIGltcG9ydCBDQ01vZGVsLCBtb2RlbF9zdXBwb3J0c19lZmZvcnQKCiAgICB2aWV3ID0gY29weS5kZWVwY29weShjb25maWcpCiAgICBmb3Iga2V5LCBmaWVsZHMgaW4gdmlldy5pdGVtcygpOgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGZpZWxkcywgZGljdCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbW9kZWxfcmF3ID0gZmllbGRzLmdldCgibW9kZWwiKQogICAgICAgIHRyeToKICAgICAgICAgICAgc3VwcG9ydHMgPSBib29sKG1vZGVsX3JhdykgYW5kIG1vZGVsX3N1cHBvcnRzX2VmZm9ydChDQ01vZGVsKG1vZGVsX3JhdykpCiAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgIHN1cHBvcnRzID0gRmFsc2UKICAgICAgICBpZiBzdXBwb3J0czoKICAgICAgICAgICAgaWYgbm90IGZpZWxkcy5nZXQoImVmZm9ydCIpOgogICAgICAgICAgICAgICAgZmllbGRzWyJlZmZvcnQiXSA9IF9IQVJEQ09ERURfREVGQVVMVFMuZ2V0KGtleSwge30pLmdldCgiZWZmb3J0Iikgb3IgIm1lZGl1bSIKICAgICAgICBlbHNlOgogICAgICAgICAgICBmaWVsZHMucG9wKCJlZmZvcnQiLCBOb25lKQogICAgcmV0dXJuIHZpZXcK
+"""Config lever for the reflection depth → model/effort mapping.
+
+Cloned from ``ego.reconcile_config``: fresh-read-per-call, deep-merge over
+hardcoded defaults, degrade field-by-field toward the defaults on config damage
+so a reflection can never crash on a bad config.
+
+The reflection bridge (``_bridge.py::_model_for_depth`` / ``_effort_for_context``)
+and the prompt resolver (``_prompts.py``) both delegate here, so the depth→model
+mapping has a single source of truth. Editable from the dashboard via the
+``reflection_models`` settings domain.
+
+Effort semantics: Haiku does not use an effort setting — the CC invoker OMITS
+``--effort`` for Haiku (``model_supports_effort``). ``light`` therefore has no
+``effort`` in the base yaml (the dashboard shows only its model). The internal
+``_HARDCODED_DEFAULTS`` still resolves ``light`` to ``low`` so callers always get
+a concrete ``EffortLevel`` — the value is a harmless no-op at dispatch for Haiku.
+
+Dependency rule: stdlib + yaml + genesis.env + genesis._config_overlay +
+genesis.cc.types + genesis.awareness.types only. ``genesis.mcp.health.settings``
+imports the public helpers from here (never the reverse) — mirror reconcile_config.
+"""
+
+from __future__ import annotations
+
+import copy
+import logging
+from pathlib import Path
+from typing import Any
+
+import yaml
+
+from genesis._config_overlay import merge_local_overlay
+from genesis.awareness.types import Depth
+from genesis.cc.types import CCModel, EffortLevel
+from genesis.env import repo_root
+
+logger = logging.getLogger(__name__)
+
+_CONFIG_NAME = "reflection_models.yaml"
+
+# Authoritative fallbacks — match the historical hardcoded _DEPTH_MODEL /
+# _effort_for_context, with the 2026-07-30 effort bump (deep/strategic → xhigh).
+# ``light`` keeps ``effort: low`` here (not in the yaml) so the runtime value is
+# concrete even though Haiku ignores it at dispatch.
+_HARDCODED_DEFAULTS: dict[str, dict[str, str]] = {
+    "light": {"model": "haiku", "effort": "low"},
+    "deep": {"model": "sonnet", "effort": "xhigh"},
+    "strategic": {"model": "opus", "effort": "xhigh"},
+}
+
+# Public: the settings-domain validator imports these to check keys/defaults.
+VALID_DEPTH_KEYS: frozenset[str] = frozenset(_HARDCODED_DEFAULTS)
+
+
+def _base_path() -> Path:
+    return repo_root() / "config" / _CONFIG_NAME
+
+
+def load_config() -> dict[str, Any]:
+    """Read the merged config fresh — per call, NO cache.
+
+    Deep-merges (defaults ← base yaml ← .local overlay), per depth, so a partial
+    override (e.g. only ``deep.effort``) keeps the other fields from defaults.
+    Missing or corrupt files degrade toward ``_HARDCODED_DEFAULTS``.
+    """
+    merged = copy.deepcopy(_HARDCODED_DEFAULTS)
+    base_path = _base_path()
+    base: dict[str, Any] = {}
+    try:
+        loaded = yaml.safe_load(base_path.read_text()) or {}
+        if isinstance(loaded, dict):
+            base = loaded
+    except FileNotFoundError:
+        pass
+    except Exception:
+        logger.warning("reflection_models base config unreadable at %s", base_path)
+    try:
+        base = merge_local_overlay(base, base_path)
+    except Exception:
+        logger.warning("reflection_models overlay merge failed", exc_info=True)
+    for depth_key, fields in base.items():
+        if not isinstance(fields, dict):
+            continue
+        if depth_key in merged:
+            merged[depth_key] = {**merged[depth_key], **fields}
+        else:
+            merged[depth_key] = dict(fields)
+    return merged
+
+
+def _depth_key(depth: Depth) -> str:
+    # Depth values are capitalized ("Light"/"Deep"/"Strategic"); the config uses
+    # lowercase keys, so normalize.
+    raw = depth.value if isinstance(depth, Depth) else str(depth)
+    return raw.lower()
+
+
+def model_for_depth(depth: Depth) -> CCModel:
+    """Model for a reflection depth. Invalid/missing → hardcoded default → SONNET."""
+    key = _depth_key(depth)
+    raw = load_config().get(key, {}).get("model") or _HARDCODED_DEFAULTS.get(key, {}).get("model")
+    try:
+        return CCModel(raw) if raw else CCModel.SONNET
+    except ValueError:
+        logger.warning("reflection_models: invalid model %r for depth %s — using default", raw, key)
+        fallback = _HARDCODED_DEFAULTS.get(key, {}).get("model", "sonnet")
+        return CCModel(fallback)
+
+
+def effort_for_depth(depth: Depth) -> EffortLevel | None:
+    """Effort for a reflection depth, or ``None`` when none is configured.
+
+    Invalid values degrade to the hardcoded default (or ``None``). Callers that
+    need a concrete level should coalesce ``None`` themselves; the invoker omits
+    ``--effort`` for effort-less models (Haiku) regardless of this value.
+    """
+    key = _depth_key(depth)
+    raw = load_config().get(key, {}).get("effort")
+    if raw is None:
+        raw = _HARDCODED_DEFAULTS.get(key, {}).get("effort")
+    if raw is None:
+        return None
+    try:
+        return EffortLevel(raw)
+    except ValueError:
+        logger.warning(
+            "reflection_models: invalid effort %r for depth %s — using default", raw, key
+        )
+        fallback = _HARDCODED_DEFAULTS.get(key, {}).get("effort")
+        return EffortLevel(fallback) if fallback else None
+
+
+def editor_view(config: dict[str, Any]) -> dict[str, Any]:
+    """Normalize a served reflection_models config for the dashboard editor.
+
+    The generic settings editor only renders keys present in the served config, so
+    an ``effort`` control appears for a depth only when the config carries an
+    ``effort`` key. Expose ``effort`` for exactly the depths whose selected model
+    supports it:
+
+      * effort-capable model (Sonnet/Opus/Fable) with no ``effort`` key → inject
+        the default effort so the control renders. Without this, switching a depth
+        off Haiku silently applies the hidden hardcoded value with no way to edit
+        it (Codex P2 on #1261).
+      * effort-less model (Haiku) → drop any ``effort`` key so no misleading
+        control shows; the invoker omits ``--effort`` for Haiku at dispatch.
+
+    Pure view transform over a COPY — never mutates the stored config, so it is
+    safe to call on the merged yaml the dashboard route serves.
+    """
+    from genesis.cc.types import CCModel, model_supports_effort
+
+    view = copy.deepcopy(config)
+    for key, fields in view.items():
+        if not isinstance(fields, dict):
+            continue
+        model_raw = fields.get("model")
+        try:
+            supports = bool(model_raw) and model_supports_effort(CCModel(model_raw))
+        except ValueError:
+            supports = False
+        if supports:
+            if not fields.get("effort"):
+                fields["effort"] = _HARDCODED_DEFAULTS.get(key, {}).get("effort") or "medium"
+        else:
+            fields.pop("effort", None)
+    return view

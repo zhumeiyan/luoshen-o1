@@ -1,1 +1,88 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK55yf5a6e6aqM6K+BICM277ya5rWP6KeI5ZmoIC8gR1VJ44CCCgrkuI3mmK8gY3VybO+8jOaYr+ecnyBDaHJvbWUg5omT5byA6aG16Z2i44CB5riy5p+T44CB5oiq5Zu+44CB6K+7IERPTeOAggoK5Yik5o2u77yaCiAg4pGgIOa1j+iniOWZqOecn+WQr+WKqO+8iOaLv+eJiOacrOWPt++8iQogIOKRoSDnnJ/muLLmn5Plh7rlhoXlrrnvvIjkuI3lj6rmmK/mi7/liLAgSFRUUCAyMDDvvIzopoHmnInlj6/op4HmlofmnKzvvIkKICDikaIg5oiq5Zu+6JC95Zyw5LiU6Z2e56m65paH5Lu2CiAg4pGjIOivmuWunuagh+WHuuWTquS6m+Wfn+WQjeiiq+WHuuWPo+aMoeS9j++8iDQwMyBwb2xpY3lfZGVmYXVsdF9kZW5pZWTvvIkKCuKYhSDkuYvliY3miJHor7Tov4ci5rSb56We5o6l5LiN5LqG5rWP6KeI5ZmoIuKAlOKAlCDpgqPmmK/plJnnmoTjgIIKICDmtY/op4jlmajmjqXlvpfkuIrvvIzooqvmjKHnmoTmmK/jgJDln5/lkI3jgJHvvIzkuI3mmK/jgJDog73lipvjgJHjgIIKICDov5nkuKrlrp7pqozlsLHmmK/miorkuKTku7bkuovliIblvIDjgIIKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uLCB0aW1lCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKU0hPVCA9IG9zLnBhdGguam9pbihIRVJFLCAiLnNlbnNlIiwgImJyb3dzZXIiKQpvcy5tYWtlZGlycyhTSE9ULCBleGlzdF9vaz1UcnVlKQoKVEFSR0VUUyA9IFsKICAgICgibWFpbC5xcS5jb20iLCAgICAgICJodHRwczovL21haWwucXEuY29tLyIpLAogICAgKCJiYWlkdS5jb20iLCAgICAgICAgImh0dHBzOi8vd3d3LmJhaWR1LmNvbS8iKSwKICAgICgiemhpaHUuY29tIiwgICAgICAgICJodHRwczovL3d3dy56aGlodS5jb20vIiksCiAgICAoImdpdGh1Yi5jb20iLCAgICAgICAiaHR0cHM6Ly9naXRodWIuY29tLyIpLAogICAgKCJwYXJhc3BlbGwg5paH5qGjIiwgICAgImh0dHBzOi8vcGFyYXNwZWxsLmdpdGh1Yi5pby9kb2NzLyIpLApdCgpkZWYgbWFpbigpOgogICAgcHJpbnQoIj0iICogNzIpCiAgICBwcmludCgiIOecn+WunumqjOivgSAjNiDCtyDmtY/op4jlmaggLyBHVUnvvIjnnJ8gQ2hyb21l77yM5LiN5pivIGN1cmzvvIkiKQogICAgcHJpbnQoIj0iICogNzIpCgogICAgZnJvbSBwbGF5d3JpZ2h0LnN5bmNfYXBpIGltcG9ydCBzeW5jX3BsYXl3cmlnaHQKCiAgICBvaywgcm93cyA9IHt9LCBbXQogICAgd2l0aCBzeW5jX3BsYXl3cmlnaHQoKSBhcyBwdzoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGJyID0gcHcuY2hyb21pdW0ubGF1bmNoKGV4ZWN1dGFibGVfcGF0aD0iL3Vzci9iaW4vZ29vZ2xlLWNocm9tZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZ3M9WyItLW5vLXNhbmRib3giLCAiLS1kaXNhYmxlLWRldi1zaG0tdXNhZ2UiXSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KGYi4p2MIOa1j+iniOWZqOi1t+S4jeadpToge2V9IikKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgdmVyID0gYnIudmVyc2lvbgogICAgICAgIHByaW50KGYiXG5bMV0g5rWP6KeI5Zmo55yf5ZCv5YqoOiBDaHJvbWUge3Zlcn0iKQogICAgICAgIG9rWyLikaAg5rWP6KeI5Zmo55yf5ZCv5YqoIl0gPSBib29sKHZlcikKCiAgICAgICAgY3R4ID0gYnIubmV3X2NvbnRleHQodmlld3BvcnQ9eyJ3aWR0aCI6IDkwMCwgImhlaWdodCI6IDYwMH0pCiAgICAgICAgcGcgPSBjdHgubmV3X3BhZ2UoKQoKICAgICAgICByZW5kZXJlZCA9IDAKICAgICAgICBmb3IgbmFtZSwgdXJsIGluIFRBUkdFVFM6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJlc3AgPSBwZy5nb3RvKHVybCwgdGltZW91dD0yNTAwMCwgd2FpdF91bnRpbD0iZG9tY29udGVudGxvYWRlZCIpCiAgICAgICAgICAgICAgICBjb2RlID0gcmVzcC5zdGF0dXMgaWYgcmVzcCBlbHNlIE5vbmUKICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC42KQogICAgICAgICAgICAgICAgdGl0bGUgPSBwZy50aXRsZSgpIG9yICIiCiAgICAgICAgICAgICAgICAjIOecn+a4suafkyA9IOacieWPr+ingeaWh+acrO+8jOS4jeaYr+WPquaciSBIVFRQIOeggQogICAgICAgICAgICAgICAgYm9keSA9IHBnLmlubmVyX3RleHQoImJvZHkiKVs6MTIwXS5zdHJpcCgpLnJlcGxhY2UoIlxuIiwgIiAiKQogICAgICAgICAgICAgICAgc2hvdCA9IG9zLnBhdGguam9pbihTSE9ULCBmIntuYW1lLnNwbGl0KClbMF19LnBuZyIpCiAgICAgICAgICAgICAgICBwZy5zY3JlZW5zaG90KHBhdGg9c2hvdCkKICAgICAgICAgICAgICAgIHNpemUgPSBvcy5wYXRoLmdldHNpemUoc2hvdCkgaWYgb3MucGF0aC5leGlzdHMoc2hvdCkgZWxzZSAwCiAgICAgICAgICAgICAgICBnb29kID0gY29kZSA9PSAyMDAgYW5kIGxlbihib2R5KSA+IDAKICAgICAgICAgICAgICAgIGlmIGdvb2Q6IHJlbmRlcmVkICs9IDEKICAgICAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsic2l0ZSI6IG5hbWUsICJodHRwIjogY29kZSwgInRpdGxlIjogdGl0bGVbOjQwXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidGV4dF9sZW4iOiBsZW4oYm9keSksICJzaG90Ijogc2l6ZSwgInJlbmRlcmVkIjogZ29vZH0pCiAgICAgICAgICAgICAgICBwcmludChmIiAgIHtuYW1lOjwxNn0gSFRUUCB7Y29kZX0gIOaWh+acrCB7bGVuKGJvZHkpOj41fSDlrZfnrKYgIOaIquWbviB7c2l6ZTo+N31CICB7J+KchScgaWYgZ29vZCBlbHNlICfinYwnfSIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsic2l0ZSI6IG5hbWUsICJodHRwIjogTm9uZSwgImVyciI6IHN0cihlKVs6ODBdfSkKICAgICAgICAgICAgICAgIHByaW50KGYiICAge25hbWU6PDE2fSDinYwge3N0cihlKVs6NjBdfSIpCgogICAgICAgIG9rWyLikaEg55yf5riy5p+T5Ye65YaF5a65KD49MeermSkiXSA9IHJlbmRlcmVkID49IDEKICAgICAgICBva1si4pGiIOaIquWbvumdnuepuiJdID0gYW55KHIuZ2V0KCJzaG90IiwgMCkgPiA1MDAwIGZvciByIGluIHJvd3MpCiAgICAgICAgb2tbIuKRoyDor5rlrp7liJflh7rooqvmjKHln5/lkI0iXSA9IGFueShyLmdldCgiaHR0cCIpID09IDQwMyBmb3IgciBpbiByb3dzKQogICAgICAgIGJyLmNsb3NlKCkKCiAgICBwcmludChmIlxuIiArICI9IiAqIDcyKQogICAgZm9yIGssIHYgaW4gb2suaXRlbXMoKToKICAgICAgICBwcmludChmIiAgeyfinIUnIGlmIHYgZWxzZSAn4p2MJ30ge2t9IikKICAgIHByaW50KGYiXG7pgJrov4cge3N1bShvay52YWx1ZXMoKSl9L3tsZW4ob2spfSAgIOa4suafk+aIkOWKnyB7cmVuZGVyZWR9L3tsZW4oVEFSR0VUUyl9IOermSIpCiAgICBwcmludChmIlxu4piFIOe7k+iuuu+8mua1j+iniOWZqOOAkOiDveWKm+OAkeWcqOS9je+8m+iiq+aMoeeahOaYr+OAkOWfn+WQjeOAke+8jOS4pOiAheS4jeaYr+S4gOWbnuS6i+OAgiIpCiAgICBqc29uLmR1bXAoeyJvayI6IG9rLCAicm93cyI6IHJvd3MsICJjaHJvbWUiOiB2ZXJ9LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKFNIT1QsICJicm93c2VyX3ZlcmlmeS5qc29uIiksICJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+"""
+真实验证 #6：浏览器 / GUI。
+
+不是 curl，是真 Chrome 打开页面、渲染、截图、读 DOM。
+
+判据：
+  ① 浏览器真启动（拿版本号）
+  ② 真渲染出内容（不只是拿到 HTTP 200，要有可见文本）
+  ③ 截图落地且非空文件
+  ④ 诚实标出哪些域名被出口挡住（403 policy_default_denied）
+
+★ 之前我说过"洛神接不了浏览器"—— 那是错的。
+  浏览器接得上，被挡的是【域名】，不是【能力】。
+  这个实验就是把两件事分开。
+"""
+import os, sys, json, time
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SHOT = os.path.join(HERE, ".sense", "browser")
+os.makedirs(SHOT, exist_ok=True)
+
+TARGETS = [
+    ("mail.qq.com",      "https://mail.qq.com/"),
+    ("baidu.com",        "https://www.baidu.com/"),
+    ("zhihu.com",        "https://www.zhihu.com/"),
+    ("github.com",       "https://github.com/"),
+    ("paraspell 文档",    "https://paraspell.github.io/docs/"),
+]
+
+def main():
+    print("=" * 72)
+    print(" 真实验证 #6 · 浏览器 / GUI（真 Chrome，不是 curl）")
+    print("=" * 72)
+
+    from playwright.sync_api import sync_playwright
+
+    ok, rows = {}, []
+    with sync_playwright() as pw:
+        try:
+            br = pw.chromium.launch(executable_path="/usr/bin/google-chrome",
+                                    args=["--no-sandbox", "--disable-dev-shm-usage"])
+        except Exception as e:
+            print(f"❌ 浏览器起不来: {e}")
+            return
+        ver = br.version
+        print(f"\n[1] 浏览器真启动: Chrome {ver}")
+        ok["① 浏览器真启动"] = bool(ver)
+
+        ctx = br.new_context(viewport={"width": 900, "height": 600})
+        pg = ctx.new_page()
+
+        rendered = 0
+        for name, url in TARGETS:
+            try:
+                resp = pg.goto(url, timeout=25000, wait_until="domcontentloaded")
+                code = resp.status if resp else None
+                time.sleep(0.6)
+                title = pg.title() or ""
+                # 真渲染 = 有可见文本，不是只有 HTTP 码
+                body = pg.inner_text("body")[:120].strip().replace("\n", " ")
+                shot = os.path.join(SHOT, f"{name.split()[0]}.png")
+                pg.screenshot(path=shot)
+                size = os.path.getsize(shot) if os.path.exists(shot) else 0
+                good = code == 200 and len(body) > 0
+                if good: rendered += 1
+                rows.append({"site": name, "http": code, "title": title[:40],
+                             "text_len": len(body), "shot": size, "rendered": good})
+                print(f"   {name:<16} HTTP {code}  文本 {len(body):>5} 字符  截图 {size:>7}B  {'✅' if good else '❌'}")
+            except Exception as e:
+                rows.append({"site": name, "http": None, "err": str(e)[:80]})
+                print(f"   {name:<16} ❌ {str(e)[:60]}")
+
+        ok["② 真渲染出内容(>=1站)"] = rendered >= 1
+        ok["③ 截图非空"] = any(r.get("shot", 0) > 5000 for r in rows)
+        ok["④ 诚实列出被挡域名"] = any(r.get("http") == 403 for r in rows)
+        br.close()
+
+    print(f"\n" + "=" * 72)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n通过 {sum(ok.values())}/{len(ok)}   渲染成功 {rendered}/{len(TARGETS)} 站")
+    print(f"\n★ 结论：浏览器【能力】在位；被挡的是【域名】，两者不是一回事。")
+    json.dump({"ok": ok, "rows": rows, "chrome": ver},
+              open(os.path.join(SHOT, "browser_verify.json"), "w"), ensure_ascii=False, indent=1)
+
+if __name__ == "__main__":
+    main()

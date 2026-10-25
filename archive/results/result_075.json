@@ -1,1 +1,105 @@
-ewogInRlbXBzIjogWwogIDE3LAogIDE2LAogIDIyLAogIDIzLAogIDI2LAogIC0xLAogIDEsCiAgOCwKICAyNCwKICAxOSwKICAxNywKICAyMQogXSwKICJjaXRpZXMiOiBbCiAgIuWogea1t+W4giIsCiAgIuWMl+S6rOW4giIsCiAgIuS4iua1t+W4giIsCiAgIuW5v+W3nuW4giIsCiAgIua3seWcs+W4giIsCiAgIuWTiOWwlOa7qOW4giIsCiAgIuS5jOmygeacqOm9kOW4giIsCiAgIuaLieiQqOW4giIsCiAgIuS4ieS6muW4giIsCiAgIuaIkOmDveW4giIsCiAgIuilv+WuieW4giIsCiAgIuatpuaxieW4giIKIF0sCiAibGF0X3RlbXBfciI6IC0wLjgwNjg2MTIxMDQ2MjQxOTUsCiAicmVzdWx0cyI6IHsKICAiMC4wMiI6IHsKICAgInJlYWwiOiB7CiAgICAic2tldyI6IDAuMjY5MTM4MTAwMzUzOTEzNTYsCiAgICAiYWxpdmUiOiAwLjE4NzUKICAgfSwKICAgInNodWZmbGVkIjogewogICAgInNrZXciOiAwLjMyNTUyNjA1NjQ0NzgxNDMsCiAgICAiYWxpdmUiOiAxLjAKICAgfSwKICAgInJhbmRvbSI6IHsKICAgICJza2V3IjogMC4yODM4MTUyMjA5NjI5OTc5NCwKICAgICJhbGl2ZSI6IDAuMDYyNQogICB9LAogICAibm9uZSI6IHsKICAgICJza2V3IjogMC4yNTUyMTk2OTc3NDQ2Mjg1LAogICAgImFsaXZlIjogMC42ODc1CiAgIH0KICB9LAogICIwLjA1IjogewogICAicmVhbCI6IHsKICAgICJza2V3IjogMC4zMzk1MDQzNzM0OTc1NTMxLAogICAgImFsaXZlIjogMC4wCiAgIH0sCiAgICJzaHVmZmxlZCI6IHsKICAgICJza2V3IjogMC40OTczOTM1MTM3MTM1NTEzNCwKICAgICJhbGl2ZSI6IDEuMAogICB9LAogICAicmFuZG9tIjogewogICAgInNrZXciOiAwLjUxMDUwMTU1MTcwNTU5MzcsCiAgICAiYWxpdmUiOiAwLjAKICAgfSwKICAgIm5vbmUiOiB7CiAgICAic2tldyI6IDAuMjU1MjE5Njk3NzQ0NjI4NSwKICAgICJhbGl2ZSI6IDAuNjg3NQogICB9CiAgfSwKICAiMC4xIjogewogICAicmVhbCI6IHsKICAgICJza2V3IjogMC43NDU0MDk5NDA4ODk3NDIxLAogICAgImFsaXZlIjogMC4wCiAgIH0sCiAgICJzaHVmZmxlZCI6IHsKICAgICJza2V3IjogMC44MzYyNzg3NTgzMjU3MzU1LAogICAgImFsaXZlIjogMC42ODc1CiAgIH0sCiAgICJyYW5kb20iOiB7CiAgICAic2tldyI6IDAuNzYzNTEzMTk0ODYwNDMzMiwKICAgICJhbGl2ZSI6IDAuMAogICB9LAogICAibm9uZSI6IHsKICAgICJza2V3IjogMC4yNTUyMTk2OTc3NDQ2Mjg1LAogICAgImFsaXZlIjogMC42ODc1CiAgIH0KICB9LAogICIwLjIiOiB7CiAgICJyZWFsIjogewogICAgInNrZXciOiAwLjkyMzg4NjU2MTAwNTQ3MDgsCiAgICAiYWxpdmUiOiAwLjAKICAgfSwKICAgInNodWZmbGVkIjogewogICAgInNrZXciOiAwLjkyOTE3NDk1MzMyNzQ1NTYsCiAgICAiYWxpdmUiOiAwLjAKICAgfSwKICAgInJhbmRvbSI6IHsKICAgICJza2V3IjogMC43Nzc3ODI4ODcyMjYzMzY4LAogICAgImFsaXZlIjogMC4wCiAgIH0sCiAgICJub25lIjogewogICAgInNrZXciOiAwLjI1NTIxOTY5Nzc0NDYyODUsCiAgICAiYWxpdmUiOiAwLjY4NzUKICAgfQogIH0KIH0KfQ==
+{
+ "temps": [
+  17,
+  16,
+  22,
+  23,
+  26,
+  -1,
+  1,
+  8,
+  24,
+  19,
+  17,
+  21
+ ],
+ "cities": [
+  "威海市",
+  "北京市",
+  "上海市",
+  "广州市",
+  "深圳市",
+  "哈尔滨市",
+  "乌鲁木齐市",
+  "拉萨市",
+  "三亚市",
+  "成都市",
+  "西安市",
+  "武汉市"
+ ],
+ "lat_temp_r": -0.8068612104624195,
+ "results": {
+  "0.02": {
+   "real": {
+    "skew": 0.26913810035391356,
+    "alive": 0.1875
+   },
+   "shuffled": {
+    "skew": 0.3255260564478143,
+    "alive": 1.0
+   },
+   "random": {
+    "skew": 0.28381522096299794,
+    "alive": 0.0625
+   },
+   "none": {
+    "skew": 0.2552196977446285,
+    "alive": 0.6875
+   }
+  },
+  "0.05": {
+   "real": {
+    "skew": 0.3395043734975531,
+    "alive": 0.0
+   },
+   "shuffled": {
+    "skew": 0.49739351371355134,
+    "alive": 1.0
+   },
+   "random": {
+    "skew": 0.5105015517055937,
+    "alive": 0.0
+   },
+   "none": {
+    "skew": 0.2552196977446285,
+    "alive": 0.6875
+   }
+  },
+  "0.1": {
+   "real": {
+    "skew": 0.7454099408897421,
+    "alive": 0.0
+   },
+   "shuffled": {
+    "skew": 0.8362787583257355,
+    "alive": 0.6875
+   },
+   "random": {
+    "skew": 0.7635131948604332,
+    "alive": 0.0
+   },
+   "none": {
+    "skew": 0.2552196977446285,
+    "alive": 0.6875
+   }
+  },
+  "0.2": {
+   "real": {
+    "skew": 0.9238865610054708,
+    "alive": 0.0
+   },
+   "shuffled": {
+    "skew": 0.9291749533274556,
+    "alive": 0.0
+   },
+   "random": {
+    "skew": 0.7777828872263368,
+    "alive": 0.0
+   },
+   "none": {
+    "skew": 0.2552196977446285,
+    "alive": 0.6875
+   }
+  }
+ }
+}

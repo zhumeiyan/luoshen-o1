@@ -1,1 +1,134 @@
-aW1wb3J0IG51bXB5IGFzIG5wLCBqc29uLCBvcywgbWF0aAppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAoKT1VUID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDIwM19vZmZsaW5lIgpvcy5tYWtlZGlycyhPVVQsIGV4aXN0X29rPVRydWUpCgoKZGVmIGNsaXBfcGFyYW1zKGExLCBhMiwgYyk6CiAgICByZXR1cm4gKGZsb2F0KG5wLmNsaXAoYTEsIC0wLjg1LCAwLjg1KSksCiAgICAgICAgICAgIGZsb2F0KG5wLmNsaXAoYTIsIC0wLjQ1LCAwLjQ1KSksCiAgICAgICAgICAgIGZsb2F0KG5wLmNsaXAoYywgLTIuMCwgMi4wKSkpCgoKZGVmIHJ1bihzZWVkLCByaG8sIFRfb2ZmLCBkcmlmdCwgc2lnbWFfZD0xLjAsIFRfb249MTAsIG5fY3ljPTYwLAogICAgICAgIGxyPTAuMDA1LCBkZWNheT0wLjAzLCByZWNvdj0wLjA0LCBIPTIwLCBidWZzaXplPTMwMCk6CiAgICAiIiJyaG86IOemu+e6v+acn+eUqOS6juWBmuaipueahOavlOS+i++8mzEtcmhvIOeUqOS6juS8keecoCjmgaLlpI3mhJ/nn6XmlY/mhJ/mgKcpIiIiCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIGExLCBhMiwgYyA9IDAuNTUsIC0wLjIsIDAuMwogICAgVyA9IG5wLnplcm9zKDIpOyBiID0gMC4wOyBzID0gMS4wCiAgICBidWYgPSBbXTsgZXJycyA9IFtdOyBwZXJyID0gMC4wCiAgICBmb3IgY3ljIGluIHJhbmdlKG5fY3ljKToKICAgICAgICAjIOS4lueVjOa8guenuwogICAgICAgIGExICs9IGRyaWZ0ICogcm5nLm5vcm1hbCgpOyBhMiArPSBkcmlmdCAqIHJuZy5ub3JtYWwoKTsgYyArPSBkcmlmdCAqIHJuZy5ub3JtYWwoKQogICAgICAgIGExLCBhMiwgYyA9IGNsaXBfcGFyYW1zKGExLCBhMiwgYykKICAgICAgICBkID0gcm5nLm5vcm1hbCgwLCBzaWdtYV9kKSAgICAgICAgICAgIyDmnKzmrKHooqvmjInml7bnmoTlsYDpg6jlgY/lt64KICAgICAgICB4ID0gbnAuYXJyYXkoWzAuMCwgMC4wXSkKICAgICAgICAjIC0tLS0g5Zyo57q/5pyf77ya6KKr5oyJ5LqGIC0tLS0KICAgICAgICBmb3IgdCBpbiByYW5nZShUX29uKToKICAgICAgICAgICAgeG4gPSBhMSp4Wy0xXSArIGEyKnhbLTJdICsgYyArIGQgKyBybmcubm9ybWFsKDAsIDAuMikKICAgICAgICAgICAgb2JzID0geG4gKyBybmcubm9ybWFsKDAsIDAuNC9tYXgocywgMWUtMikpCiAgICAgICAgICAgIGYgPSB4Wy0yOl0uY29weSgpCiAgICAgICAgICAgIHAgPSBmbG9hdChXQGYgKyBiKQogICAgICAgICAgICBXICs9IGxyKihvYnMtcCkqZjsgYiArPSBscioob2JzLXApCiAgICAgICAgICAgIGJ1Zi5hcHBlbmQoKGYsIG9icykpCiAgICAgICAgICAgIGlmIGxlbihidWYpID4gYnVmc2l6ZTogYnVmLnBvcCgwKQogICAgICAgICAgICB4ID0gbnAuYXBwZW5kKHhbMTpdLCB4bikKICAgICAgICAgICAgcyAqPSBtYXRoLmV4cCgtZGVjYXkpICAgICAgICAgICAgIyDmhJ/nn6XmlY/mhJ/mgKfoobDlh48KICAgICAgICAjIC0tLS0g56a757q/5pyf77ya5rKh6KKr5oyJIC0tLS0KICAgICAgICBCID0gaW50KHJvdW5kKHJobypUX29mZikpOyBTID0gVF9vZmYgLSBCCiAgICAgICAgcyA9IG1pbigxLjAsIHMgKyBTKnJlY292KSAgICAgICAgICAgICMg5LyR55yg77ya5oGi5aSN5pWP5oSf5oCnCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoQik6ICAgICAgICAgICAgICAgICAgICAjIOWBmuaipu+8mumHjeaUvuaXp+agt+acrAogICAgICAgICAgICBpZiBub3QgYnVmOiBicmVhawogICAgICAgICAgICBpID0gaW50KHJuZy5pbnRlZ2VycygwLCBsZW4oYnVmKSkpCiAgICAgICAgICAgIGYsIHRnID0gYnVmW2ldCiAgICAgICAgICAgIHAgPSBmbG9hdChXQGYgKyBiKQogICAgICAgICAgICBXICs9IGxyKih0Zy1wKSpmOyBiICs9IGxyKih0Zy1wKQogICAgICAgICMgLS0tLSDor4TkvLDvvJrkuIvmrKHooqvmjInml7bvvIzmqKHlnovmnInlpJrlpb0gLS0tLQogICAgICAgIGlmIGN5YyA+PSBuX2N5Yy8vMjoKICAgICAgICAgICAgZyA9IFswLjAsIDAuMF07IHJlZiA9IFswLjAsIDAuMF07IG9rID0gVHJ1ZQogICAgICAgICAgICBmb3IgXyBpbiByYW5nZShIKToKICAgICAgICAgICAgICAgIGduID0gZmxvYXQoV0BucC5hcnJheShnWy0yOl0pICsgYikKICAgICAgICAgICAgICAgIHJuID0gYTEqcmVmWy0xXSArIGEyKnJlZlstMl0gKyBjCiAgICAgICAgICAgICAgICBnLmFwcGVuZChnbik7IHJlZi5hcHBlbmQocm4pCiAgICAgICAgICAgICAgICBpZiBhYnMoZ24pID4gMWU2OiBvayA9IEZhbHNlOyBicmVhawogICAgICAgICAgICBlID0gMTAwLjAgaWYgbm90IG9rIGVsc2UgbWluKG1hdGguc3FydChucC5tZWFuKChucC5hcnJheShnKS1ucC5hcnJheShyZWYpKSoqMikpLCAxMDAuMCkKICAgICAgICAgICAgZXJycy5hcHBlbmQoZSkKICAgICAgICBpZiBjeWMgPT0gbl9jeWMtMToKICAgICAgICAgICAgcGVyciA9IGZsb2F0KGFicyhXWzBdLWExKSArIGFicyhXWzFdLWEyKSArIGFicyhiLWMpKQogICAgcmV0dXJuIChmbG9hdChucC5tZWFuKGVycnMpKSBpZiBlcnJzIGVsc2UgMTAwLjApLCBwZXJyCgoKcmhvcyA9IFswLCAwLjI1LCAwLjUsIDAuNzUsIDEuMF0KVG9mZnMgPSBbMCwgNSwgMjAsIDYwXQpkcmlmdHMgPSBbMC4wLCAwLjAyXQpzZWVkcyA9IFsxLCAyLCAzXQoKcmVzID0ge30KZm9yIGRyIGluIGRyaWZ0czoKICAgIGZvciBUZiBpbiBUb2ZmczoKICAgICAgICBmb3IgciBpbiByaG9zOgogICAgICAgICAgICBlcyA9IFtdOyBwcyA9IFtdCiAgICAgICAgICAgIGZvciBzZCBpbiBzZWVkczoKICAgICAgICAgICAgICAgIGUsIHAgPSBydW4oc2QsIHIsIFRmLCBkcikKICAgICAgICAgICAgICAgIGVzLmFwcGVuZChlKTsgcHMuYXBwZW5kKHApCiAgICAgICAgICAgIHJlc1tmImRyaWZ0e2RyfXxUe1RmfXxyaG97cn0iXSA9IHsKICAgICAgICAgICAgICAgICJlcnJfbWVhbiI6IGZsb2F0KG5wLm1lYW4oZXMpKSwKICAgICAgICAgICAgICAgICJlcnJfYWxsIjogW3JvdW5kKGZsb2F0KHgpLCA0KSBmb3IgeCBpbiBlc10sCiAgICAgICAgICAgICAgICAicGFyYW1fZXJyIjogZmxvYXQobnAubWVhbihwcykpLAogICAgICAgICAgICB9Cgpqc29uLmR1bXAocmVzLCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHQyMDMuanNvbiIpLCAidyIpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQoKCmRlZiBnZXQoZHIsIFRmLCByLCBrZXk9ImVycl9tZWFuIik6CiAgICByZXR1cm4gcmVzW2YiZHJpZnR7ZHJ9fFR7VGZ9fHJob3tyfSJdW2tleV0KCgojIOacgOS8mCByaG8qCmJlc3QgPSB7fQpmb3IgZHIgaW4gZHJpZnRzOgogICAgZm9yIFRmIGluIFRvZmZzOgogICAgICAgIGIgPSBtaW4ocmhvcywga2V5PWxhbWJkYSByOiBnZXQoZHIsIFRmLCByKSkKICAgICAgICBiZXN0W2YiZHJpZnR7ZHJ9fFR7VGZ9Il0gPSBiCmpzb24uZHVtcChiZXN0LCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJiZXN0MjAzLmpzb24iKSwgInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKCnBsdC5yY1BhcmFtc1snZm9udC5zYW5zLXNlcmlmJ10gPSBbJ1dlblF1YW5ZaSBNaWNybyBIZWknXQpwbHQucmNQYXJhbXNbJ2F4ZXMudW5pY29kZV9taW51cyddID0gRmFsc2UKZmlnLCBheGVzID0gcGx0LnN1YnBsb3RzKDIsIDIsIGZpZ3NpemU9KDEyLCA5KSkKCmF4ID0gYXhlc1swLCAwXQpmb3IgZHIsIG1rLCBsYiBpbiBbKDAuMCwgJ28nLCAn5LiW55WM5LiN5Y+YIGRyaWZ0PTAnKSwgKDAuMDIsICdzJywgJ+S4lueVjOa8guenuyBkcmlmdD0wLjAyJyldOgogICAgYXgucGxvdChUb2ZmcywgW2dldChkciwgVCwgMC41KSBmb3IgVCBpbiBUb2Zmc10sIG1hcmtlcj1taywgbGFiZWw9bGIpCmF4LnNldF94bGFiZWwoIuiiq+aMieeahOmXtOmalCBUX29mZu+8iOWBmuaipuWNoOavlCByaG89MC4177yJIikKYXguc2V0X3lsYWJlbCgi6aKE5rWL6K+v5beuIikKYXguc2V0X3RpdGxlKCJBLiDmjInlvpflpKrlr4bkvJrnno7vvIzmjInlvpflpKrnlo/kvJrov4fml7YiKQpheC5sZWdlbmQoZm9udHNpemU9OCkKCmZvciBpZHgsIFRmIGluIGVudW1lcmF0ZShbMjAsIDYwXSk6CiAgICBheCA9IGF4ZXNbMCwgMV0gaWYgaWR4ID09IDAgZWxzZSBheGVzWzEsIDBdCiAgICBmb3IgZHIsIG1rLCBsYiBpbiBbKDAuMCwgJ28nLCAnZHJpZnQ9MCcpLCAoMC4wMiwgJ3MnLCAnZHJpZnQ9MC4wMicpXToKICAgICAgICBheC5wbG90KHJob3MsIFtnZXQoZHIsIFRmLCByKSBmb3IgciBpbiByaG9zXSwgbWFya2VyPW1rLCBsYWJlbD1sYikKICAgIGIwID0gYmVzdFtmImRyaWZ0MC4wfFR7VGZ9Il07IGIyID0gYmVzdFtmImRyaWZ0MC4wMnxUe1RmfSJdCiAgICBheC5zZXRfeGxhYmVsKCLnprvnur/mnJ/nlKjkuo7lgZrmoqbnmoTmr5TkvosgcmhvIikKICAgIGF4LnNldF95bGFiZWwoIumihOa1i+ivr+W3riIpCiAgICBheC5zZXRfdGl0bGUoZiJ7J0InIGlmIGlkeD09MCBlbHNlICdDJ30uIFRfb2ZmPXtUZn0gIOacgOS8mOWBmuaipuWNoOavlFxuIgogICAgICAgICAgICAgICAgIGYiKOS4jeWPmOS4lueVjCByaG8qPXtiMH0sIOa8guenu+S4lueVjCByaG8qPXtiMn0pIikKICAgIGF4LmxlZ2VuZChmb250c2l6ZT04KQoKYXggPSBheGVzWzEsIDFdCncgPSAwLjM1CnhzID0gbnAuYXJhbmdlKGxlbihyaG9zKSkKZm9yIGksIChkciwgbGIpIGluIGVudW1lcmF0ZShbKDAuMCwgJ2RyaWZ0PTAnKSwgKDAuMDIsICdkcmlmdD0wLjAyJyldKToKICAgIGF4LmJhcih4cyArIGkqdywgW2dldChkciwgMjAsIHIsICJwYXJhbV9lcnIiKSBmb3IgciBpbiByaG9zXSwgdywgbGFiZWw9bGIpCmF4LnNldF94dGlja3MoeHMgKyB3LzIpOyBheC5zZXRfeHRpY2tsYWJlbHMoW3N0cihyKSBmb3IgciBpbiByaG9zXSkKYXguc2V0X3hsYWJlbCgi5YGa5qKm5Y2g5q+UIHJobyIpCmF4LnNldF95bGFiZWwoIuaooeWei+S4juecn+WunuS4lueVjOeahOWPguaVsOi3neemu++8iOi/m+WMluaMh+agh++8iSIpCmF4LnNldF90aXRsZSgiRC4g6L+b5YyW77ya5Y+C5pWw6L+95LiK5LqG5aSa5bCR77yI6LaK5L2O6LaK5aW977yJIikKYXgubGVnZW5kKGZvbnRzaXplPTgpCgpwbHQudGlnaHRfbGF5b3V0KCkKcGx0LnNhdmVmaWcob3MucGF0aC5qb2luKE9VVCwgInJlbmRlcjIwMy5wbmciKSwgZHBpPTExMCkKcHJpbnQoIk9LIiwganNvbi5kdW1wcyhiZXN0LCBlbnN1cmVfYXNjaWk9RmFsc2UpKQo=
+import numpy as np, json, os, math
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp203_offline"
+os.makedirs(OUT, exist_ok=True)
+
+
+def clip_params(a1, a2, c):
+    return (float(np.clip(a1, -0.85, 0.85)),
+            float(np.clip(a2, -0.45, 0.45)),
+            float(np.clip(c, -2.0, 2.0)))
+
+
+def run(seed, rho, T_off, drift, sigma_d=1.0, T_on=10, n_cyc=60,
+        lr=0.005, decay=0.03, recov=0.04, H=20, bufsize=300):
+    """rho: 离线期用于做梦的比例；1-rho 用于休眠(恢复感知敏感性)"""
+    rng = np.random.default_rng(seed)
+    a1, a2, c = 0.55, -0.2, 0.3
+    W = np.zeros(2); b = 0.0; s = 1.0
+    buf = []; errs = []; perr = 0.0
+    for cyc in range(n_cyc):
+        # 世界漂移
+        a1 += drift * rng.normal(); a2 += drift * rng.normal(); c += drift * rng.normal()
+        a1, a2, c = clip_params(a1, a2, c)
+        d = rng.normal(0, sigma_d)           # 本次被按时的局部偏差
+        x = np.array([0.0, 0.0])
+        # ---- 在线期：被按了 ----
+        for t in range(T_on):
+            xn = a1*x[-1] + a2*x[-2] + c + d + rng.normal(0, 0.2)
+            obs = xn + rng.normal(0, 0.4/max(s, 1e-2))
+            f = x[-2:].copy()
+            p = float(W@f + b)
+            W += lr*(obs-p)*f; b += lr*(obs-p)
+            buf.append((f, obs))
+            if len(buf) > bufsize: buf.pop(0)
+            x = np.append(x[1:], xn)
+            s *= math.exp(-decay)            # 感知敏感性衰减
+        # ---- 离线期：没被按 ----
+        B = int(round(rho*T_off)); S = T_off - B
+        s = min(1.0, s + S*recov)            # 休眠：恢复敏感性
+        for _ in range(B):                    # 做梦：重放旧样本
+            if not buf: break
+            i = int(rng.integers(0, len(buf)))
+            f, tg = buf[i]
+            p = float(W@f + b)
+            W += lr*(tg-p)*f; b += lr*(tg-p)
+        # ---- 评估：下次被按时，模型有多好 ----
+        if cyc >= n_cyc//2:
+            g = [0.0, 0.0]; ref = [0.0, 0.0]; ok = True
+            for _ in range(H):
+                gn = float(W@np.array(g[-2:]) + b)
+                rn = a1*ref[-1] + a2*ref[-2] + c
+                g.append(gn); ref.append(rn)
+                if abs(gn) > 1e6: ok = False; break
+            e = 100.0 if not ok else min(math.sqrt(np.mean((np.array(g)-np.array(ref))**2)), 100.0)
+            errs.append(e)
+        if cyc == n_cyc-1:
+            perr = float(abs(W[0]-a1) + abs(W[1]-a2) + abs(b-c))
+    return (float(np.mean(errs)) if errs else 100.0), perr
+
+
+rhos = [0, 0.25, 0.5, 0.75, 1.0]
+Toffs = [0, 5, 20, 60]
+drifts = [0.0, 0.02]
+seeds = [1, 2, 3]
+
+res = {}
+for dr in drifts:
+    for Tf in Toffs:
+        for r in rhos:
+            es = []; ps = []
+            for sd in seeds:
+                e, p = run(sd, r, Tf, dr)
+                es.append(e); ps.append(p)
+            res[f"drift{dr}|T{Tf}|rho{r}"] = {
+                "err_mean": float(np.mean(es)),
+                "err_all": [round(float(x), 4) for x in es],
+                "param_err": float(np.mean(ps)),
+            }
+
+json.dump(res, open(os.path.join(OUT, "result203.json"), "w"), ensure_ascii=False, indent=1)
+
+
+def get(dr, Tf, r, key="err_mean"):
+    return res[f"drift{dr}|T{Tf}|rho{r}"][key]
+
+
+# 最优 rho*
+best = {}
+for dr in drifts:
+    for Tf in Toffs:
+        b = min(rhos, key=lambda r: get(dr, Tf, r))
+        best[f"drift{dr}|T{Tf}"] = b
+json.dump(best, open(os.path.join(OUT, "best203.json"), "w"), ensure_ascii=False, indent=1)
+
+plt.rcParams['font.sans-serif'] = ['WenQuanYi Micro Hei']
+plt.rcParams['axes.unicode_minus'] = False
+fig, axes = plt.subplots(2, 2, figsize=(12, 9))
+
+ax = axes[0, 0]
+for dr, mk, lb in [(0.0, 'o', '世界不变 drift=0'), (0.02, 's', '世界漂移 drift=0.02')]:
+    ax.plot(Toffs, [get(dr, T, 0.5) for T in Toffs], marker=mk, label=lb)
+ax.set_xlabel("被按的间隔 T_off（做梦占比 rho=0.5）")
+ax.set_ylabel("预测误差")
+ax.set_title("A. 按得太密会瞎，按得太疏会过时")
+ax.legend(fontsize=8)
+
+for idx, Tf in enumerate([20, 60]):
+    ax = axes[0, 1] if idx == 0 else axes[1, 0]
+    for dr, mk, lb in [(0.0, 'o', 'drift=0'), (0.02, 's', 'drift=0.02')]:
+        ax.plot(rhos, [get(dr, Tf, r) for r in rhos], marker=mk, label=lb)
+    b0 = best[f"drift0.0|T{Tf}"]; b2 = best[f"drift0.02|T{Tf}"]
+    ax.set_xlabel("离线期用于做梦的比例 rho")
+    ax.set_ylabel("预测误差")
+    ax.set_title(f"{'B' if idx==0 else 'C'}. T_off={Tf}  最优做梦占比\n"
+                 f"(不变世界 rho*={b0}, 漂移世界 rho*={b2})")
+    ax.legend(fontsize=8)
+
+ax = axes[1, 1]
+w = 0.35
+xs = np.arange(len(rhos))
+for i, (dr, lb) in enumerate([(0.0, 'drift=0'), (0.02, 'drift=0.02')]):
+    ax.bar(xs + i*w, [get(dr, 20, r, "param_err") for r in rhos], w, label=lb)
+ax.set_xticks(xs + w/2); ax.set_xticklabels([str(r) for r in rhos])
+ax.set_xlabel("做梦占比 rho")
+ax.set_ylabel("模型与真实世界的参数距离（进化指标）")
+ax.set_title("D. 进化：参数追上了多少（越低越好）")
+ax.legend(fontsize=8)
+
+plt.tight_layout()
+plt.savefig(os.path.join(OUT, "render203.png"), dpi=110)
+print("OK", json.dumps(best, ensure_ascii=False))

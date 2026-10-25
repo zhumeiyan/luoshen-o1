@@ -1,1 +1,90 @@
-ewogICJf6K+05piOIjogIuiuvuWkh+WPguaVsOW6k+OAguavj+S4quWPguaVsOW4puadpea6kOS4juadg+WogeaAp+OAguacieWGsueqgeeahOiusOWcqOOAjuWGsueqgeOAj+Wtl+aute+8jOS4jemdmem7mOmAieS4gOS4quOAgiIsCiAgIl/mnYPlqIHmgKfliIbnuqciOiAi5p6B6auYPeWOguWVhuWumOaWueinhOagvOmhtSAvIOi+g+mrmD3kuJPkuJror4TmtYvnq5kgLyDkuK3nrYk95LqM5omL5rGH5oC7IC8g5p6B5L2OPeiHquWqkuS9kyIsCgogICLljY7kuLogUDUwIFBybyI6IHsKICAgICJf5aSH5rOoIjogIueUqOaIt+iHquW3seeahOacuuWZqO+8jOiuvuWkh+WQjeaUueS4uuOAjua0m+elnmFp44CP44CC5Y+C5pWw5p2l6Ieq55So5oi35o+Q5L6b5oiq5Zu+44CCIiwKICAgICLliIbovqjnjociOiBbMjcwMCwgMTIyOF0sCiAgICAi5bC65a+46Iux5a+4IjogNi42LAogICAgIl/lsLrlr7joi7Hlr7jmnaXmupAiOiAiUDUwIFBybyDlhazlvIDop4TmoLzvvIjpnZ7miKrlm77nu5nlh7rvvIzlsZ7luLjor4bvvIkiLAogICAgIlBQSSI6IDQ0OS40LAogICAgIl9QUEnmnaXmupAiOiAi55Sx5YiG6L6o546H5LiO5bC65a+4566X5Ye677yM6Z2e5byV55SoIiwKICAgICLliLfmlrDnjociOiAxMjAsCiAgICAiX+WIt+aWsOeOh+adpea6kCI6ICJQNTAgUHJvIOWFrOW8gOinhOagvO+8iOmdnuaIquWbvue7meWHuu+8iSIsCiAgICAiU29DIjogIlF1YWxjb21tIFNuYXBkcmFnb24gODg4IDRHIiwKICAgICJSQU0iOiAiOEdCIiwKICAgICLlrZjlgqgiOiAiMjU2R0LvvIjlj6/nlKggODUuNTFHQu+8iSIsCiAgICAi57O757ufIjogIkhhcm1vbnlPUyA0LjIuMCIsCiAgICAi5Z6L5Y+3IjogIkpBRC1BTDgwIiwKICAgICJf5p2D5aiB5oCnIjogIuaegemrmO+8iOaIquWbvuebtOivu++8jOmZpOWwuuWvuOS4juWIt+aWsOeOh++8iSIKICB9LAoKICAiaVBob25lIDE2IFBybyBNYXgiOiB7CiAgICAi5YiG6L6o546HIjogWzI4NjgsIDEzMjBdLAogICAgIlBQSSI6IDQ2MCwKICAgICLlsLrlr7joi7Hlr7giOiA2LjksCiAgICAi5Yi35paw546HIjogMTIwLAogICAgIl/mnaXmupAiOiAiQXBwbGUg5a6Y5pa55pSv5oyB6aG1IHN1cHBvcnQuYXBwbGUuY29tL3poLWNuLzEyMTAzMiIsCiAgICAiX+adg+WogeaApyI6ICLmnoHpq5giLAogICAgIuWGsueqgSI6IHsKICAgICAgIuWIhui+qOeOhyI6IHsKICAgICAgICAiQXBwbGXlrpjmlrkiOiBbMjg2OCwgMTMyMF0sCiAgICAgICAgIuS4reWFs+adkeWcqOe6vyI6IFsyNjIyLCAxMjA2XSwKICAgICAgICAi6K+05piOIjogIuWumOaWueaMieagh+WHhuefqeW9oua1i++8jOesrOS4ieaWueWPo+W+hOS4jeWQjOOAguW3riA4LjUlIOe6v+aApyAvIDE3LjglIOmdouenryIKICAgICAgfQogICAgfQogIH0sCgogICLljY7kuLogTWF0ZSA3MCI6IHsKICAgICLliIbovqjnjociOiBbMjY4OCwgMTIxNl0sCiAgICAiUFBJIjogNDQxLAogICAgIuWwuuWvuOiLseWvuCI6IDYuNywKICAgICLliLfmlrDnjociOiAxMjAsCiAgICAi6Kem5o6n6YeH5qC3546HIjogMzAwLAogICAgIuiwg+WFiSI6ICIxNDQwSHog6auY6aKRIFBXTSIsCiAgICAi5Lqu5bqmIjogMjUwMCwKICAgICJf5p2l5rqQIjogIuWNjuS4uuWumOe9kSBjb25zdW1lci5odWF3ZWkuY29tICsg5Lit5YWz5p2R5Zyo57q/IiwKICAgICJf5p2D5aiB5oCnIjogIuaegemrmCIKICB9LAoKICAiR2FsYXh5IFMyNSBVbHRyYSI6IHsKICAgICLliIbovqjnjociOiBbMzEyMCwgMTQ0MF0sCiAgICAiUFBJIjogNDk4LAogICAgIuWwuuWvuOiLseWvuCI6IDYuOSwKICAgICLliLfmlrDnjociOiAxMjAsCiAgICAi5Lqu5bqmIjogMjYwMCwKICAgICJf5p2l5rqQIjogIuS4ieaYn+S4reWbveWumOe9kSArIOS4ieaYn1dpa2kiLAogICAgIl/mnYPlqIHmgKciOiAi5p6B6auYIiwKICAgICJf5rOoIjogIjQ5OCBQUEkg5piv55uu5YmN5pS25b2V5py65Z6L6YeM5pyA6auY55qEIgogIH0sCgogICJpUGFkIFBybyAxMyAoTTQpIjogewogICAgIuWIhui+qOeOhyI6IFsyNzUyLCAyMDY0XSwKICAgICJQUEkiOiAyNjQsCiAgICAi5bC65a+46Iux5a+4IjogMTMuMCwKICAgICLliLfmlrDnjociOiAiMTAtMTIwIOiHqumAguW6lCIsCiAgICAiX+adpea6kCI6ICJBcHBsZSDlrpjmlrkgc3VwcG9ydC5hcHBsZS5jb20vemgtY24vMTE5ODkxIiwKICAgICJf5p2D5aiB5oCnIjogIuaegemrmCIsCiAgICAiX+azqCI6ICLlubPmnb8gUFBJIOWPquacieaJi+acuueahOS4gOWNiu+8jOWboOS4uuingueci+i3neemu+i/nCIKICB9LAoKICAiTWFjQm9vayBQcm8gMTYiOiB7CiAgICAi5YiG6L6o546HIjogWzMwMjQsIDE5NjRdLAogICAgIlBQSSI6IDI1NCwKICAgICLliLfmlrDnjociOiAxMjAsCiAgICAi5a+55q+U5bqmIjogMTAwMDAwMCwKICAgICJf5p2l5rqQIjogIkFwcGxlIOWumOaWuSBhcHBsZS5jb20uY24vbWFjYm9vay1wcm8vc3BlY3MiLAogICAgIl/mnYPlqIHmgKciOiAi5p6B6auYIgogIH0sCgogICJBcHBsZSBWaXNpb24gUHJvIjogewogICAgIuaAu+WDj+e0oCI6IDIzMDAwMDAwLAogICAgIuWDj+e0oOmXtOi3neW+ruexsyI6IDcuNSwKICAgICLmnZDotKgiOiAibWljcm8tT0xFRCIsCiAgICAi5Yi35paw546HIjogWzkwLCA5NiwgMTAwLCAxMjBdLAogICAgIuiJsuWfnyI6ICI5MiUgRENJLVAzIiwKICAgICJf5p2l5rqQIjogIkFwcGxlIOWumOaWuSBhcHBsZS5jb20uY24vYXBwbGUtdmlzaW9uLXByby9zcGVjcyIsCiAgICAiX+adg+WogeaApyI6ICLmnoHpq5giLAogICAgIl/ms6giOiAi5a6Y5pa55pyq5YWs5biD5Y2V55y85YiG6L6o546H5LiOIFBQROOAgjIzMDDkuIfmmK/lj4znnLzmgLvlkozjgIIiCiAgfQp9Cg==
+{
+  "_说明": "设备参数库。每个参数带来源与权威性。有冲突的记在『冲突』字段，不静默选一个。",
+  "_权威性分级": "极高=厂商官方规格页 / 较高=专业评测站 / 中等=二手汇总 / 极低=自媒体",
+
+  "华为 P50 Pro": {
+    "_备注": "用户自己的机器，设备名改为『洛神ai』。参数来自用户提供截图。",
+    "分辨率": [2700, 1228],
+    "尺寸英寸": 6.6,
+    "_尺寸英寸来源": "P50 Pro 公开规格（非截图给出，属常识）",
+    "PPI": 449.4,
+    "_PPI来源": "由分辨率与尺寸算出，非引用",
+    "刷新率": 120,
+    "_刷新率来源": "P50 Pro 公开规格（非截图给出）",
+    "SoC": "Qualcomm Snapdragon 888 4G",
+    "RAM": "8GB",
+    "存储": "256GB（可用 85.51GB）",
+    "系统": "HarmonyOS 4.2.0",
+    "型号": "JAD-AL80",
+    "_权威性": "极高（截图直读，除尺寸与刷新率）"
+  },
+
+  "iPhone 16 Pro Max": {
+    "分辨率": [2868, 1320],
+    "PPI": 460,
+    "尺寸英寸": 6.9,
+    "刷新率": 120,
+    "_来源": "Apple 官方支持页 support.apple.com/zh-cn/121032",
+    "_权威性": "极高",
+    "冲突": {
+      "分辨率": {
+        "Apple官方": [2868, 1320],
+        "中关村在线": [2622, 1206],
+        "说明": "官方按标准矩形测，第三方口径不同。差 8.5% 线性 / 17.8% 面积"
+      }
+    }
+  },
+
+  "华为 Mate 70": {
+    "分辨率": [2688, 1216],
+    "PPI": 441,
+    "尺寸英寸": 6.7,
+    "刷新率": 120,
+    "触控采样率": 300,
+    "调光": "1440Hz 高频 PWM",
+    "亮度": 2500,
+    "_来源": "华为官网 consumer.huawei.com + 中关村在线",
+    "_权威性": "极高"
+  },
+
+  "Galaxy S25 Ultra": {
+    "分辨率": [3120, 1440],
+    "PPI": 498,
+    "尺寸英寸": 6.9,
+    "刷新率": 120,
+    "亮度": 2600,
+    "_来源": "三星中国官网 + 三星Wiki",
+    "_权威性": "极高",
+    "_注": "498 PPI 是目前收录机型里最高的"
+  },
+
+  "iPad Pro 13 (M4)": {
+    "分辨率": [2752, 2064],
+    "PPI": 264,
+    "尺寸英寸": 13.0,
+    "刷新率": "10-120 自适应",
+    "_来源": "Apple 官方 support.apple.com/zh-cn/119891",
+    "_权威性": "极高",
+    "_注": "平板 PPI 只有手机的一半，因为观看距离远"
+  },
+
+  "MacBook Pro 16": {
+    "分辨率": [3024, 1964],
+    "PPI": 254,
+    "刷新率": 120,
+    "对比度": 1000000,
+    "_来源": "Apple 官方 apple.com.cn/macbook-pro/specs",
+    "_权威性": "极高"
+  },
+
+  "Apple Vision Pro": {
+    "总像素": 23000000,
+    "像素间距微米": 7.5,
+    "材质": "micro-OLED",
+    "刷新率": [90, 96, 100, 120],
+    "色域": "92% DCI-P3",
+    "_来源": "Apple 官方 apple.com.cn/apple-vision-pro/specs",
+    "_权威性": "极高",
+    "_注": "官方未公布单眼分辨率与 PPD。2300万是双眼总和。"
+  }
+}

@@ -1,1 +1,82 @@
-aW1wb3J0IG9zLCBqc29uLCB0aW1lLCByZSwgc3RhdGlzdGljcwoKQkFTRT0nL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEnOyBFWFBESVI9b3MucGF0aC5qb2luKEJBU0UsJ2V4cGVyaW1lbnRzJykKCiMgLS0tLS0tLS0tLSDkv67mt7fmt4bvvJrlhYggc3RhdCDliKTlrZjlnKjvvIzlho3lhrPlrpror7vkuI3or7vvvIzpgb/lhY3lvILluLjlvIDplIAgLS0tLS0tLS0tLQpkZWYgdG91Y2gocGF0aCwgbj00MCwgYnM9NDA5Nik6CiAgICB0cz1bXQogICAgZm9yIF8gaW4gcmFuZ2Uobik6CiAgICAgICAgZXhpc3RzID0gb3MucGF0aC5leGlzdHMocGF0aCkgICAgICAgICAgIyDlu4nku7fnmoTlrZjlnKjmgKfmjqLpkogKICAgICAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICAgICAgaWYgZXhpc3RzOgogICAgICAgICAgICB3aXRoIG9wZW4ocGF0aCwncmInKSBhcyBmOiBmLnJlYWQoYnMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb3Muc3RhdChwYXRoKSBpZiBGYWxzZSBlbHNlIE5vbmUgICAjIOS4jeinpuWPkeW8guW4uAogICAgICAgIHRzLmFwcGVuZCgodGltZS5wZXJmX2NvdW50ZXJfbnMoKS10MCkvMTAwMC4wKQogICAgcmV0dXJuIHRzCgpkZWYgZHByaW1lKGEsYik6CiAgICBtYSxtYj1zdGF0aXN0aWNzLm1lYW4oYSksc3RhdGlzdGljcy5tZWFuKGIpCiAgICBzYSxzYj1zdGF0aXN0aWNzLnBzdGRldihhKSxzdGF0aXN0aWNzLnBzdGRldihiKQogICAgcz0oKHNhKnNhK3NiKnNiKS8yKSoqMC41CiAgICByZXR1cm4gMC4wIGlmIHM9PTAgZWxzZSBhYnMobWEtbWIpL3MKCnJlYWw9b3MucGF0aC5qb2luKEVYUERJUiwnZXhwMTcxX3BhaW4nLCdzN2IuanNvbicpCmFpcj0nL2Rldi96ZXJvJwpmb3IgcCBpbiAocmVhbCxhaXIpOiB0b3VjaChwLDEwKSAgICMg6aKE54Ot77yM5Y675o6J5Ya35ZCv5YqoCnRyPXRvdWNoKHJlYWwpOyB0YT10b3VjaChhaXIpCnByaW50KCI9PT0gQjIuIOS/rua3t+a3huWQjueahOinpuinie+8iOmihOeDreWQju+8jOaXoOW8guW4uOW8gOmUgO+8iT09PSIpCnByaW50KGYiICDnnJ/lrp7ooajpnaIgbWVkaWFuIHtzdGF0aXN0aWNzLm1lZGlhbih0cik6OC4yZn0gdXMgICBtaW4ge21pbih0cik6Ny4yZn0iKQpwcmludChmIiAg56m65rCUICAgICAgbWVkaWFuIHtzdGF0aXN0aWNzLm1lZGlhbih0YSk6OC4yZn0gdXMgICBtaW4ge21pbih0YSk6Ny4yZn0iKQpwcmludChmIiAgZCco55yf5a6eIHZzIOepuuawlCkgPSB7ZHByaW1lKHRyLHRhKTouM2Z9ICAgcmF0aW89e3N0YXRpc3RpY3MubWVkaWFuKHRyKS9zdGF0aXN0aWNzLm1lZGlhbih0YSk6LjFmfXgiKQoKIyAtLS0tLS0tLS0tIOaJi+S8uOWQkeiHquW3seeahOWOhuWPsu+8muW7uuWunueJqeaVsOWtl+axoCAtLS0tLS0tLS0tCnBvb2w9e30gICAjIOebruW9lSAtPiBzZXQo5rWu54K55pWwKQplbXB0eT1bXQpmb3IgZCBpbiBzb3J0ZWQob3MubGlzdGRpcihFWFBESVIpKToKICAgIHA9b3MucGF0aC5qb2luKEVYUERJUixkKQogICAgaWYgbm90IG9zLnBhdGguaXNkaXIocCk6IGNvbnRpbnVlCiAgICBudW1zPXNldCgpCiAgICBmb3Igcm9vdCxfLGZpbGVzIGluIG9zLndhbGsocCk6CiAgICAgICAgZm9yIGYgaW4gZmlsZXM6CiAgICAgICAgICAgIGlmIGYuZW5kc3dpdGgoJy5qc29uJyk6CiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgcz1qc29uLmR1bXBzKGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihyb290LGYpLGVuY29kaW5nPSd1dGYtOCcsZXJyb3JzPSdpZ25vcmUnKSkpCiAgICAgICAgICAgICAgICAgICAgbnVtc3w9c2V0KGZsb2F0KHgpIGZvciB4IGluIHJlLmZpbmRhbGwocictP1xkK1wuXGQrJywgcykpCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCiAgICBpZiBudW1zOiBwb29sW2RdPW51bXMKICAgIGVsc2U6IGVtcHR5LmFwcGVuZChkKQoKcHJpbnQoZiJcbj09PSBDLiDmiYvmkbjov4fnmoTlnLDmlrnvvJp7bGVuKHBvb2wpfSDkuKrnm67lvZXmnInlrp7nianmlbDlrZfvvIx7bGVuKGVtcHR5KX0g5Liq5piv56m655qEID09PSIpCnByaW50KCIgIOaRuOepuijml6Dku7vkvZXmta7ngrnmlbDmja4pOiIsIGVtcHR5WzoyNV0pCgojIC0tLS0tLS0tLS0g5pat6KiA5qC45a+577ya5oqK5oiR5Y6G5qyh57uZ5Ye655qE5YWz6ZSu5pWw5a2X5pGB5Yiw5a6e54mp5LiKIC0tLS0tLS0tLS0KY2xhaW1zPVsKICgiMTY2Iiwi5bCB6KOFQeWNh+e7tCIsICAgICAgWzAuOTE2LDAuOTM3XSksCiAoIjE2NiIsIuWwgeijhULljYfnu7QiLCAgICAgIFswLjY1NCwwLjc2MCwwLjY1NiwwLjYxNl0pLAogKCIxNjgiLCLmsYnlrZdIZWFwcyBiIiwgICAgWzAuMjg1XSksCiAoIjE2OCIsIuS7o+eggUhlYXBzIGIiLCAgICBbMC43NDldKSwKICgiMTcwIiwiYyrlha3moaMiLCAgICAgICAgIFsxLjA4MCwxLjM4NSwyLjA3NSwzLjY0Niw0LjcyNyw1LjY0M10pLAogKCIxNzEiLCJkd2FpdOWbm+ahoyIsICAgICAgWzEwLjA1LDIwLjEwLDc2LjU0LDQ4LjIwXSksCiAoIjE1NSIsIuejgeWcuuacq+ivr+W3riIsICAgICAgWzAuMzI4Ml0pLAogKCIxNjQiLCJtZW0gc3RkZXbkuInmoaMiLCAgWzgyLjUsMC4wLDg3NDcuMF0pLAogKCIxNjEiLCLkuInms6LpgqPlpZHluLjmlbAiLCAgICBbMS44MzkyODddKSwKICgiMTYxIiwi6buE6YeR5q+UIiwgICAgICAgICBbMS42MTgwMzRdKSwKXQpkZWYgaGl0KHYsIG51bXMsIHRvbD0wLjAyKToKICAgIGZvciBuIGluIG51bXM6CiAgICAgICAgaWYgYWJzKG4tdikgPD0gbWF4KHRvbCphYnModiksIDFlLTYpOiByZXR1cm4gVHJ1ZQogICAgcmV0dXJuIEZhbHNlCgpwcmludCgiXG49PT0gRC4g5omL5pGB5oiR6Ieq5bex6K+06L+H55qE5pWw5a2X77ya5ZG95LitPeaRuOWIsOWunueJqe+8jOiQveepuj3nqbrmsJQgPT09IikKcm93cz1bXQpmb3IgZXhwLG5hbWUsdmFscyBpbiBjbGFpbXM6CiAgICBjYW5kcz1bZCBmb3IgZCBpbiBwb29sIGlmIGQuc3RhcnRzd2l0aCgnZXhwJytleHApXQogICAgZm91bmQ9c3VtKDEgZm9yIHYgaW4gdmFscyBpZiBhbnkoaGl0KHYscG9vbFtkXSkgZm9yIGQgaW4gY2FuZHMpKQogICAgdG90PWxlbih2YWxzKQogICAgZGlyc19leGlzdD1bZCBmb3IgZCBpbiBvcy5saXN0ZGlyKEVYUERJUikgaWYgZC5zdGFydHN3aXRoKCdleHAnK2V4cCldCiAgICByb3dzLmFwcGVuZCgoZXhwLG5hbWUsZm91bmQsdG90LGRpcnNfZXhpc3QpKQogICAgZmxhZyA9ICJTT0xJRCIgaWYgZm91bmQ+MCBlbHNlICgiQUlSIiBpZiBub3QgZGlyc19leGlzdCBlbHNlICJESVJfQlVUX05PX05VTSIpCiAgICBwcmludChmIiAgZXhwe2V4cH0ge25hbWU6MTRzfSB7Zm91bmR9L3t0b3R9IOWRveS4rSAg55uu5b2Ve2RpcnNfZXhpc3Qgb3IgJ+S4jeWtmOWcqCd9ICAtPiB7ZmxhZ30iKQpqc29uLmR1bXAoeydwb29sX3NpemVzJzp7azpsZW4odikgZm9yIGssdiBpbiBwb29sLml0ZW1zKCl9LCdlbXB0eSc6ZW1wdHksCiAgICAgICAgICAgJ2NsYWltcyc6WyhlLG4sZix0LGQpIGZvciBlLG4sZix0LGQgaW4gcm93c119LCBvcGVuKCdoYW5kMi5qc29uJywndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+import os, json, time, re, statistics
+
+BASE='/data/workspace/luoshen-o1'; EXPDIR=os.path.join(BASE,'experiments')
+
+# ---------- 修混淆：先 stat 判存在，再决定读不读，避免异常开销 ----------
+def touch(path, n=40, bs=4096):
+    ts=[]
+    for _ in range(n):
+        exists = os.path.exists(path)          # 廉价的存在性探针
+        t0=time.perf_counter_ns()
+        if exists:
+            with open(path,'rb') as f: f.read(bs)
+        else:
+            os.stat(path) if False else None   # 不触发异常
+        ts.append((time.perf_counter_ns()-t0)/1000.0)
+    return ts
+
+def dprime(a,b):
+    ma,mb=statistics.mean(a),statistics.mean(b)
+    sa,sb=statistics.pstdev(a),statistics.pstdev(b)
+    s=((sa*sa+sb*sb)/2)**0.5
+    return 0.0 if s==0 else abs(ma-mb)/s
+
+real=os.path.join(EXPDIR,'exp171_pain','s7b.json')
+air='/dev/zero'
+for p in (real,air): touch(p,10)   # 预热，去掉冷启动
+tr=touch(real); ta=touch(air)
+print("=== B2. 修混淆后的触觉（预热后，无异常开销）===")
+print(f"  真实表面 median {statistics.median(tr):8.2f} us   min {min(tr):7.2f}")
+print(f"  空气      median {statistics.median(ta):8.2f} us   min {min(ta):7.2f}")
+print(f"  d'(真实 vs 空气) = {dprime(tr,ta):.3f}   ratio={statistics.median(tr)/statistics.median(ta):.1f}x")
+
+# ---------- 手伸向自己的历史：建实物数字池 ----------
+pool={}   # 目录 -> set(浮点数)
+empty=[]
+for d in sorted(os.listdir(EXPDIR)):
+    p=os.path.join(EXPDIR,d)
+    if not os.path.isdir(p): continue
+    nums=set()
+    for root,_,files in os.walk(p):
+        for f in files:
+            if f.endswith('.json'):
+                try:
+                    s=json.dumps(json.load(open(os.path.join(root,f),encoding='utf-8',errors='ignore')))
+                    nums|=set(float(x) for x in re.findall(r'-?\d+\.\d+', s))
+                except Exception: pass
+    if nums: pool[d]=nums
+    else: empty.append(d)
+
+print(f"\n=== C. 手摸过的地方：{len(pool)} 个目录有实物数字，{len(empty)} 个是空的 ===")
+print("  摸空(无任何浮点数据):", empty[:25])
+
+# ---------- 断言核对：把我历次给出的关键数字摁到实物上 ----------
+claims=[
+ ("166","封装A升维",      [0.916,0.937]),
+ ("166","封装B升维",      [0.654,0.760,0.656,0.616]),
+ ("168","汉字Heaps b",    [0.285]),
+ ("168","代码Heaps b",    [0.749]),
+ ("170","c*六档",         [1.080,1.385,2.075,3.646,4.727,5.643]),
+ ("171","dwait四档",      [10.05,20.10,76.54,48.20]),
+ ("155","磁场末误差",      [0.3282]),
+ ("164","mem stdev三档",  [82.5,0.0,8747.0]),
+ ("161","三波那契常数",    [1.839287]),
+ ("161","黄金比",         [1.618034]),
+]
+def hit(v, nums, tol=0.02):
+    for n in nums:
+        if abs(n-v) <= max(tol*abs(v), 1e-6): return True
+    return False
+
+print("\n=== D. 手摁我自己说过的数字：命中=摸到实物，落空=空气 ===")
+rows=[]
+for exp,name,vals in claims:
+    cands=[d for d in pool if d.startswith('exp'+exp)]
+    found=sum(1 for v in vals if any(hit(v,pool[d]) for d in cands))
+    tot=len(vals)
+    dirs_exist=[d for d in os.listdir(EXPDIR) if d.startswith('exp'+exp)]
+    rows.append((exp,name,found,tot,dirs_exist))
+    flag = "SOLID" if found>0 else ("AIR" if not dirs_exist else "DIR_BUT_NO_NUM")
+    print(f"  exp{exp} {name:14s} {found}/{tot} 命中  目录{dirs_exist or '不存在'}  -> {flag}")
+json.dump({'pool_sizes':{k:len(v) for k,v in pool.items()},'empty':empty,
+           'claims':[(e,n,f,t,d) for e,n,f,t,d in rows]}, open('hand2.json','w'), ensure_ascii=False, indent=1)

@@ -1,1 +1,330 @@
-IyBzeXN0ZW1fYW5hbHl6ZXIucHkKCmltcG9ydCBvcwppbXBvcnQgcmUKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHBsYXRmb3JtCgpmcm9tIExsYW1hY3BwX01vZGVsX2xhdW5jaGVyLmNvcmUucGxhdGZvcm1fdXRpbHMgaW1wb3J0IElTX1dJTkRPV1MsIElTX01BQ09TLCBnZXRfc3VicHJvY2Vzc19rd2FyZ3MKCiMgLS0tIE9wdGlvbmFsIERlcGVuZGVuY2llcyAtLS0KdHJ5OgogICAgaW1wb3J0IHBzdXRpbAogICAgUFNVVElMX0FWQUlMQUJMRSA9IFRydWUKZXhjZXB0IEltcG9ydEVycm9yOgogICAgUFNVVElMX0FWQUlMQUJMRSA9IEZhbHNlCgp0cnk6CiAgICBpbXBvcnQgcHludm1sCiAgICBQWU5WTUxfQVZBSUxBQkxFID0gVHJ1ZQogICAgIyAtLS0gRklYOiBSRU1PVkVEIHB5bnZtbC5udm1sSW5pdCgpIGZyb20gbW9kdWxlIGxldmVsIC0tLQpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBQWU5WTUxfQVZBSUxBQkxFID0gRmFsc2UKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgIyBIYW5kbGUgY2FzZXMgd2hlcmUgTlZNTCBtaWdodCBiZSBwcmVzZW50IGJ1dCBmYWlscyB0byBpbml0IChlLmcuLCBkcml2ZXIgaXNzdWVzKQogICAgcHJpbnQoZiJbQU5BTFlaRVIgV0FSTklOR10gcHludm1sIGNvdWxkIG5vdCBiZSBpbXBvcnRlZDoge2V9IikKICAgIFBZTlZNTF9BVkFJTEFCTEUgPSBGYWxzZQoKCiMgLS0tIE5FVzogQ2VudHJhbGl6ZWQgbGlmZWN5Y2xlIG1hbmFnZW1lbnQgZnVuY3Rpb25zIC0tLQpkZWYgaW5pdGlhbGl6ZV9weW52bWwoKToKICAgICIiIkluaXRpYWxpemVzIHRoZSBOVk1MIGxpYnJhcnkuIFRvIGJlIGNhbGxlZCBvbmNlIGF0IGFwcCBzdGFydC4iIiIKICAgIGdsb2JhbCBQWU5WTUxfQVZBSUxBQkxFCiAgICBpZiBQWU5WTUxfQVZBSUxBQkxFOgogICAgICAgIHRyeToKICAgICAgICAgICAgcHludm1sLm52bWxJbml0KCkKICAgICAgICAgICAgcHJpbnQoIltIQVJEV0FSRV0gUFlOVk1MIEluaXRpYWxpemVkIHN1Y2Nlc3NmdWxseS4iKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcHJpbnQoZiJbQU5BTFlaRVIgV0FSTklOR10gcHludm1sIGluaXRpYWxpemF0aW9uIGZhaWxlZDoge2V9IikKICAgICAgICAgICAgUFlOVk1MX0FWQUlMQUJMRSA9IEZhbHNlCgpkZWYgc2h1dGRvd25fcHludm1sKCk6CiAgICAiIiJTaHV0cyBkb3duIHRoZSBOVk1MIGxpYnJhcnkuIFRvIGJlIGNhbGxlZCBvbmNlIGF0IGFwcCBleGl0LiIiIgogICAgZ2xvYmFsIFBZTlZNTF9BVkFJTEFCTEUKICAgICMgQ2hlY2sgaWYgdGhlIG1vZHVsZSB3YXMgaW1wb3J0ZWQgYW5kIG91ciBmbGFnIGlzIHN0aWxsIHRydWUKICAgIGlmICdweW52bWwnIGluIGdsb2JhbHMoKSBhbmQgUFlOVk1MX0FWQUlMQUJMRToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHB5bnZtbC5udm1sU2h1dGRvd24oKQogICAgICAgICAgICBwcmludCgiW0hBUkRXQVJFXSBQWU5WTUwgU2h1dGRvd24gc3VjY2Vzc2Z1bGx5LiIpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChmIltBTkFMWVpFUiBXQVJOSU5HXSBweW52bWwgc2h1dGRvd24gZmFpbGVkOiB7ZX0iKQojIC0tLSBFTkQgTkVXIC0tLQoKCmNsYXNzIFN5c3RlbUFuYWx5emVyOgogICAgIiIiCiAgICBBIGNsYXNzIHRvIHByb2JlIHRoZSB1c2VyJ3Mgc3lzdGVtIGZvciBoYXJkd2FyZSBzcGVjcyBhbmQgYW5hbHl6ZSBhIEdHVUYgbW9kZWwgZmlsZS4KICAgIERlc2lnbmVkIHRvIGJlIHVzZWQgYXMgYSBnZW5lcmF0b3IgdG8gcHJvdmlkZSByZWFsLXRpbWUgZmVlZGJhY2suCiAgICAiIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLnJlc3VsdHMgPSB7CiAgICAgICAgICAgICJjcHVfcGh5c2ljYWxfY29yZXMiOiBOb25lLAogICAgICAgICAgICAiY3B1X2xvZ2ljYWxfY29yZXMiOiBOb25lLAogICAgICAgICAgICAicmFtIjoge30sCiAgICAgICAgICAgICJncHVzIjogW10sCiAgICAgICAgICAgICJtb2RlbF9zaXplX2diIjogTm9uZSwKICAgICAgICAgICAgIm1vZGVsX2FyY2hpdGVjdHVyZSI6ICJVbmtub3duIiwKICAgICAgICB9CgogICAgZGVmIF9nZXRfY3B1X2luZm8oc2VsZik6CiAgICAgICAgIiIiR2V0cyBDUFUgY29yZSBjb3VudC4iIiIKICAgICAgICB5aWVsZCAiW0FOQUxZU0lTXSBQcm9iaW5nIGZvciBDUFUgYW5kIFJBTSBkZXRhaWxzLi4uIgogICAgICAgIGlmIFBTVVRJTF9BVkFJTEFCTEU6CiAgICAgICAgICAgIHNlbGYucmVzdWx0c1siY3B1X2xvZ2ljYWxfY29yZXMiXSA9IHBzdXRpbC5jcHVfY291bnQobG9naWNhbD1UcnVlKQogICAgICAgICAgICBzZWxmLnJlc3VsdHNbImNwdV9waHlzaWNhbF9jb3JlcyJdID0gcHN1dGlsLmNwdV9jb3VudChsb2dpY2FsPUZhbHNlKQogICAgICAgICAgICB5aWVsZCBmIj4gRm91bmQge3NlbGYucmVzdWx0c1snY3B1X3BoeXNpY2FsX2NvcmVzJ119IHBoeXNpY2FsIGFuZCB7c2VsZi5yZXN1bHRzWydjcHVfbG9naWNhbF9jb3JlcyddfSBsb2dpY2FsIENQVSBjb3Jlcy4iCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5yZXN1bHRzWyJjcHVfbG9naWNhbF9jb3JlcyJdID0gb3MuY3B1X2NvdW50KCkKICAgICAgICAgICAgeWllbGQgZiI+IEZvdW5kIHtzZWxmLnJlc3VsdHNbJ2NwdV9sb2dpY2FsX2NvcmVzJ119IGxvZ2ljYWwgQ1BVIGNvcmVzIChwc3V0aWwgbm90IGluc3RhbGxlZCwgcGh5c2ljYWwgY291bnQgdW5hdmFpbGFibGUpLiIKCiAgICBkZWYgX2dldF9yYW1faW5mbyhzZWxmKToKICAgICAgICAiIiJHZXRzIHRvdGFsLCB1c2VkLCBhbmQgZnJlZSBzeXN0ZW0gUkFNLiIiIgogICAgICAgIGlmIFBTVVRJTF9BVkFJTEFCTEU6CiAgICAgICAgICAgIHJhbV9pbmZvID0gcHN1dGlsLnZpcnR1YWxfbWVtb3J5KCkKICAgICAgICAgICAgdG90YWxfZ2IgPSByb3VuZChyYW1faW5mby50b3RhbCAvICgxMDI0ICoqIDMpLCAyKQogICAgICAgICAgICB1c2VkX2diID0gcm91bmQocmFtX2luZm8udXNlZCAvICgxMDI0ICoqIDMpLCAyKQogICAgICAgICAgICBmcmVlX2diID0gcm91bmQocmFtX2luZm8uYXZhaWxhYmxlIC8gKDEwMjQgKiogMyksIDIpCiAgICAgICAgICAgIHNlbGYucmVzdWx0c1sicmFtIl0gPSB7InRvdGFsX2diIjogdG90YWxfZ2IsICJ1c2VkX2diIjogdXNlZF9nYiwgImZyZWVfZ2IiOiBmcmVlX2difQogICAgICAgICAgICB5aWVsZCBmIj4gRm91bmQge3RvdGFsX2difSBHQiBvZiBzeXN0ZW0gUkFNICh7ZnJlZV9nYn0gR0IgYXZhaWxhYmxlKS4iCiAgICAgICAgZWxzZToKICAgICAgICAgICAgeWllbGQgIj4gQ291bGQgbm90IGRldGVybWluZSBzeXN0ZW0gUkFNIChwc3V0aWwgbGlicmFyeSBub3QgaW5zdGFsbGVkKS4iCgogICAgZGVmIF9nZXRfZ3B1X2luZm9fcHludm1sKHNlbGYpOgogICAgICAgICIiIkdldHMgR1BVIGluZm8gdXNpbmcgdGhlIHB5bnZtbCBsaWJyYXJ5IChwcmVmZXJyZWQgZm9yIE5WSURJQSkuIiIiCiAgICAgICAgIyAtLS0gRklYOiBSZW1vdmVkIG52bWxJbml0KCkgY2FsbC4gSXQgaXMgbm93IG1hbmFnZWQgZ2xvYmFsbHkuIC0tLQogICAgICAgIGRldmljZV9jb3VudCA9IHB5bnZtbC5udm1sRGV2aWNlR2V0Q291bnQoKQogICAgICAgIGlmIGRldmljZV9jb3VudCA9PSAwOgogICAgICAgICAgICB5aWVsZCAiPiBweW52bWwgZm91bmQgMCBOVklESUEgR1BVcy4iCiAgICAgICAgICAgIHJldHVybgoKICAgICAgICB5aWVsZCBmIj4gcHludm1sIGZvdW5kIHtkZXZpY2VfY291bnR9IE5WSURJQSBHUFUocykuIgogICAgICAgIGZvciBpIGluIHJhbmdlKGRldmljZV9jb3VudCk6CiAgICAgICAgICAgIGhhbmRsZSA9IHB5bnZtbC5udm1sRGV2aWNlR2V0SGFuZGxlQnlJbmRleChpKQogICAgICAgICAgICBuYW1lID0gcHludm1sLm52bWxEZXZpY2VHZXROYW1lKGhhbmRsZSkKICAgICAgICAgICAgbWVtX2luZm8gPSBweW52bWwubnZtbERldmljZUdldE1lbW9yeUluZm8oaGFuZGxlKQogICAgICAgICAgICB0b3RhbF9nYiA9IHJvdW5kKG1lbV9pbmZvLnRvdGFsIC8gKDEwMjQgKiogMyksIDIpCiAgICAgICAgICAgIHVzZWRfZ2IgPSByb3VuZChtZW1faW5mby51c2VkIC8gKDEwMjQgKiogMyksIDIpCiAgICAgICAgICAgIGZyZWVfZ2IgPSByb3VuZChtZW1faW5mby5mcmVlIC8gKDEwMjQgKiogMyksIDIpCgogICAgICAgICAgICAjIEZldGNoIENvbXB1dGUgQ2FwYWJpbGl0eSAoVHJ5IHB5bnZtbCwgZmFpbCBzaWxlbnRseSB0byAwLjApCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIG1ham9yLCBtaW5vciA9IHB5bnZtbC5udm1sRGV2aWNlR2V0Q3VkYUNvbXB1dGVDYXBhYmlsaXR5KGhhbmRsZSkKICAgICAgICAgICAgICAgIGNvbXB1dGVfY2FwID0gZmxvYXQoZiJ7bWFqb3J9LnttaW5vcn0iKQogICAgICAgICAgICBleGNlcHQgKEF0dHJpYnV0ZUVycm9yLCBweW52bWwuTlZNTEVycm9yKToKICAgICAgICAgICAgICAgIGNvbXB1dGVfY2FwID0gMC4wCgogICAgICAgICAgICB2cmFtX2RldGFpbHMgPSB7InRvdGFsX2diIjogdG90YWxfZ2IsICJ1c2VkX2diIjogdXNlZF9nYiwgImZyZWVfZ2IiOiBmcmVlX2difQogICAgICAgICAgICBzZWxmLnJlc3VsdHNbImdwdXMiXS5hcHBlbmQoeyJpZCI6IGksICJuYW1lIjogbmFtZS5zdHJpcCgpLCAidnJhbSI6IHZyYW1fZGV0YWlscywgImNvbXB1dGVfY2FwIjogY29tcHV0ZV9jYXB9KQogICAgICAgICAgICB5aWVsZCBmIiAgLSBHUFUge2l9OiB7bmFtZS5zdHJpcCgpfSAoe3RvdGFsX2difSBHQiBWUkFNLCB7ZnJlZV9nYn0gR0IgZnJlZSkiCgogICAgZGVmIF9nZXRfZ3B1X2luZm9fZmFsbGJhY2soc2VsZik6CiAgICAgICAgIiIiRmFsbGJhY2sgbWV0aG9kIHVzaW5nIG52aWRpYS1zbWkgaWYgcHludm1sIGlzIHVuYXZhaWxhYmxlLiIiIgogICAgICAgIHRyeToKICAgICAgICAgICAgY29tbWFuZCA9IFsibnZpZGlhLXNtaSIsICItLXF1ZXJ5LWdwdT1uYW1lLG1lbW9yeS50b3RhbCxtZW1vcnkudXNlZCIsICItLWZvcm1hdD1jc3Ysbm9oZWFkZXIsbm91bml0cyJdCiAgICAgICAgICAgIHByb2Nlc3MgPSBzdWJwcm9jZXNzLnJ1bihjb21tYW5kLCBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUsIGNoZWNrPVRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqKmdldF9zdWJwcm9jZXNzX2t3YXJncygpKQogICAgICAgICAgICBvdXRwdXQgPSBwcm9jZXNzLnN0ZG91dC5zdHJpcCgpLnNwbGl0KCdcbicpCiAgICAgICAgICAgIGlmIG5vdCBvdXRwdXQgb3Igbm90IG91dHB1dFswXToKICAgICAgICAgICAgICAgIHlpZWxkICI+IG52aWRpYS1zbWkgZm91bmQgMCBOVklESUEgR1BVcy4iCiAgICAgICAgICAgICAgICByZXR1cm4KCiAgICAgICAgICAgIHlpZWxkIGYiPiBudmlkaWEtc21pIGZvdW5kIHtsZW4ob3V0cHV0KX0gTlZJRElBIEdQVShzKS4iCiAgICAgICAgICAgIGZvciBpLCBsaW5lIGluIGVudW1lcmF0ZShvdXRwdXQpOgogICAgICAgICAgICAgICAgcGFydHMgPSBsaW5lLnNwbGl0KCcsJykKICAgICAgICAgICAgICAgICMgVGhlIGxhc3QgdHdvIGZpZWxkcyBhcmUgYWx3YXlzIHRoZSBtZW1vcnkgbnVtYmVyczsgdGhlIG5hbWUgaXMKICAgICAgICAgICAgICAgICMgZXZlcnl0aGluZyBiZWZvcmUgdGhlbSAobmFtZXMgbWF5IHRoZW1zZWx2ZXMgY29udGFpbiBjb21tYXMpLgogICAgICAgICAgICAgICAgaWYgbGVuKHBhcnRzKSA8IDM6CiAgICAgICAgICAgICAgICAgICAgeWllbGQgZiIgIC0gU2tpcHBpbmcgbWFsZm9ybWVkIEdQVSBsaW5lOiB7bGluZX0iCiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICB2cmFtX3RvdGFsX21pYiA9IGludChwYXJ0c1stMl0uc3RyaXAoKSkKICAgICAgICAgICAgICAgICAgICB2cmFtX3VzZWRfbWliID0gaW50KHBhcnRzWy0xXS5zdHJpcCgpKQogICAgICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgICAgICAgICAgeWllbGQgZiIgIC0gU2tpcHBpbmcgbWFsZm9ybWVkIEdQVSBsaW5lOiB7bGluZX0iCiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIG5hbWUgPSAiLCIuam9pbihwYXJ0c1s6LTJdKS5zdHJpcCgpCiAgICAgICAgICAgICAgICB0b3RhbF9nYiA9IHJvdW5kKGludCh2cmFtX3RvdGFsX21pYikgLyAxMDI0LCAyKQogICAgICAgICAgICAgICAgdXNlZF9nYiA9IHJvdW5kKGludCh2cmFtX3VzZWRfbWliKSAvIDEwMjQsIDIpCiAgICAgICAgICAgICAgICBmcmVlX2diID0gcm91bmQodG90YWxfZ2IgLSB1c2VkX2diLCAyKQogICAgICAgICAgICAgICAgdnJhbV9kZXRhaWxzID0geyJ0b3RhbF9nYiI6IHRvdGFsX2diLCAidXNlZF9nYiI6IHVzZWRfZ2IsICJmcmVlX2diIjogZnJlZV9nYn0KICAgICAgICAgICAgICAgICMgY29tcHV0ZV9jYXAgaXMgcmVwb3J0ZWQgYXMgMC4wICh1bmtub3duKSBvbiB0aGlzIHBhdGggdG8gbWF0Y2gKICAgICAgICAgICAgICAgICMgdGhlIGtleSBzZXQgb2YgdGhlIHB5bnZtbCBwYXRoCiAgICAgICAgICAgICAgICBzZWxmLnJlc3VsdHNbImdwdXMiXS5hcHBlbmQoeyJpZCI6IGksICJuYW1lIjogbmFtZSwgInZyYW0iOiB2cmFtX2RldGFpbHMsICJjb21wdXRlX2NhcCI6IDAuMH0pCiAgICAgICAgICAgICAgICB5aWVsZCBmIiAgLSBHUFUge2l9OiB7bmFtZX0gKHt0b3RhbF9nYn0gR0IgVlJBTSwge2ZyZWVfZ2J9IEdCIGZyZWUpIgoKICAgICAgICBleGNlcHQgKEZpbGVOb3RGb3VuZEVycm9yLCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcik6CiAgICAgICAgICAgIHlpZWxkICI+IG52aWRpYS1zbWkgbm90IGZvdW5kLiBDb3VsZCBub3QgZGV0ZWN0IE5WSURJQSBHUFVzLiIKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHlpZWxkIGYiPiBBbiBlcnJvciBvY2N1cnJlZCB3aGlsZSBydW5uaW5nIG52aWRpYS1zbWk6IHtlfSIKCiAgICBkZWYgX2dldF9ncHVfaW5mb19tYWNvcyhzZWxmKToKICAgICAgICAiIiJEZXRlY3RzIEFwcGxlIFNpbGljb24gR1BVIGluZm8gdXNpbmcgdW5pZmllZCBtZW1vcnkuIiIiCiAgICAgICAgaWYgcGxhdGZvcm0ubWFjaGluZSgpICE9ICJhcm02NCI6CiAgICAgICAgICAgIHlpZWxkICI+IEludGVsIE1hYyBkZXRlY3RlZC4gR1BVIGFjY2VsZXJhdGlvbiB2aWEgTWV0YWwgaXMgbGltaXRlZCBvbiBJbnRlbCBNYWNzLiIKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIHRyeToKICAgICAgICAgICAgY2hpcF9yZXN1bHQgPSBzdWJwcm9jZXNzLnJ1bigKICAgICAgICAgICAgICAgIFsic3lzY3RsIiwgIi1uIiwgIm1hY2hkZXAuY3B1LmJyYW5kX3N0cmluZyJdLAogICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCBjaGVjaz1UcnVlCiAgICAgICAgICAgICkKICAgICAgICAgICAgY2hpcF9uYW1lID0gY2hpcF9yZXN1bHQuc3Rkb3V0LnN0cmlwKCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBjaGlwX25hbWUgPSAiQXBwbGUgU2lsaWNvbiIKCiAgICAgICAgaWYgUFNVVElMX0FWQUlMQUJMRToKICAgICAgICAgICAgcmFtX2luZm8gPSBwc3V0aWwudmlydHVhbF9tZW1vcnkoKQogICAgICAgICAgICB0b3RhbF9nYiA9IHJvdW5kKHJhbV9pbmZvLnRvdGFsIC8gKDEwMjQgKiogMyksIDIpCiAgICAgICAgICAgIHVzZWRfZ2IgPSByb3VuZChyYW1faW5mby51c2VkIC8gKDEwMjQgKiogMyksIDIpCiAgICAgICAgICAgIGZyZWVfZ2IgPSByb3VuZChyYW1faW5mby5hdmFpbGFibGUgLyAoMTAyNCAqKiAzKSwgMikKICAgICAgICBlbHNlOgogICAgICAgICAgICB0b3RhbF9nYiwgdXNlZF9nYiwgZnJlZV9nYiA9IDAuMCwgMC4wLCAwLjAKCiAgICAgICAgdnJhbV9kZXRhaWxzID0geyJ0b3RhbF9nYiI6IHRvdGFsX2diLCAidXNlZF9nYiI6IHVzZWRfZ2IsICJmcmVlX2diIjogZnJlZV9nYn0KICAgICAgICBzZWxmLnJlc3VsdHNbImdwdXMiXS5hcHBlbmQoewogICAgICAgICAgICAiaWQiOiAwLCAibmFtZSI6IGYie2NoaXBfbmFtZX0gKE1ldGFsKSIsICJ2cmFtIjogdnJhbV9kZXRhaWxzLCAiY29tcHV0ZV9jYXAiOiAwLjAKICAgICAgICB9KQogICAgICAgIHlpZWxkIGYiICAtIEdQVSAwOiB7Y2hpcF9uYW1lfSAoTWV0YWwpIOKAlCB7dG90YWxfZ2J9IEdCIHVuaWZpZWQgbWVtb3J5ICh7ZnJlZV9nYn0gR0IgYXZhaWxhYmxlKSIKCiAgICBkZWYgX2dldF9ncHVfaW5mbyhzZWxmKToKICAgICAgICAiIiJEZXRlY3RzIEdQVSBpbmZvcm1hdGlvbiwgcHJlZmVycmluZyBweW52bWwgb24gV2luZG93cyBhbmQgTWV0YWwgb24gbWFjT1MuIiIiCiAgICAgICAgeWllbGQgIltBTkFMWVNJU10gUHJvYmluZyBmb3IgYXZhaWxhYmxlIEdQVXMgYW5kIFZSQU0uLi4iCgogICAgICAgIGlmIElTX01BQ09TOgogICAgICAgICAgICB5aWVsZCBmcm9tIHNlbGYuX2dldF9ncHVfaW5mb19tYWNvcygpCiAgICAgICAgZWxpZiBJU19XSU5ET1dTOgogICAgICAgICAgICBpZiBQWU5WTUxfQVZBSUxBQkxFOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIHlpZWxkIGZyb20gc2VsZi5fZ2V0X2dwdV9pbmZvX3B5bnZtbCgpCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgeWllbGQgZiI+IHB5bnZtbCBmYWlsZWQgd2l0aCBhbiBlcnJvcjoge2V9LiBUcnlpbmcgZmFsbGJhY2suLi4iCiAgICAgICAgICAgICAgICAgICAgc2VsZi5yZXN1bHRzWyJncHVzIl0gPSBbXQogICAgICAgICAgICAgICAgICAgIHlpZWxkIGZyb20gc2VsZi5fZ2V0X2dwdV9pbmZvX2ZhbGxiYWNrKCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHlpZWxkICI+IHB5bnZtbCBsaWJyYXJ5IG5vdCBpbnN0YWxsZWQuIEZhbGxpbmcgYmFjayB0byBudmlkaWEtc21pLi4uIgogICAgICAgICAgICAgICAgeWllbGQgZnJvbSBzZWxmLl9nZXRfZ3B1X2luZm9fZmFsbGJhY2soKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHlpZWxkICI+IEdQVSBkZXRlY3Rpb24gaXMgbm90IHlldCBzdXBwb3J0ZWQgb24gdGhpcyBwbGF0Zm9ybS4iCgogICAgICAgIGlmIG5vdCBzZWxmLnJlc3VsdHNbImdwdXMiXToKICAgICAgICAgICAgeWllbGQgIj4gTm8gY29tcGF0aWJsZSBHUFVzIGRldGVjdGVkIG9uIHRoZSBzeXN0ZW0uIgoKICAgIGRlZiBfZ2V0X21vZGVsX2luZm8oc2VsZiwgbW9kZWxfcGF0aCk6CiAgICAgICAgIiIiR2V0cyBtb2RlbCBmaWxlIHNpemUgYW5kIGFyY2hpdGVjdHVyZSBmcm9tIHRoZSBtb2RlbCdzIGZpbGVuYW1lLiIiIgogICAgICAgIHlpZWxkIGYiW0FOQUxZU0lTXSBBY2Nlc3NpbmcgbW9kZWwgZmlsZSBhdDoge21vZGVsX3BhdGh9Li4uIgogICAgICAgIHRyeToKICAgICAgICAgICAgZmlsZW5hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKG1vZGVsX3BhdGgpCiAgICAgICAgICAgIGRpcmVjdG9yeSA9IG9zLnBhdGguZGlybmFtZShtb2RlbF9wYXRoKQoKICAgICAgICAgICAgbXVsdGlfcGFydF9wYXR0ZXJuID0gcmUuY29tcGlsZShyJy1cZHs1fS1vZi1cZHs1fVwuZ2d1ZiQnLCByZS5JR05PUkVDQVNFKQoKICAgICAgICAgICAgaWYgbXVsdGlfcGFydF9wYXR0ZXJuLnNlYXJjaChmaWxlbmFtZSk6CiAgICAgICAgICAgICAgICB5aWVsZCAiPiBNdWx0aS1wYXJ0IG1vZGVsIHBhdHRlcm4gZGV0ZWN0ZWQuIENhbGN1bGF0aW5nIHRvdGFsIHNpemUuLi4iCiAgICAgICAgICAgICAgICBiYXNlX25hbWUgPSBtdWx0aV9wYXJ0X3BhdHRlcm4uc3BsaXQoZmlsZW5hbWUpWzBdCiAgICAgICAgICAgICAgICB0b3RhbF9zaXplX2J5dGVzID0gMAogICAgICAgICAgICAgICAgcGFydF9jb3VudCA9IDAKCiAgICAgICAgICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2RpcihkaXJlY3RvcnkpOgogICAgICAgICAgICAgICAgICAgIHlpZWxkIGYiPiBFUlJPUjogTW9kZWwgZGlyZWN0b3J5IG5vdCBmb3VuZCBhdCAne2RpcmVjdG9yeX0nLiIKICAgICAgICAgICAgICAgICAgICBzZWxmLnJlc3VsdHNbIm1vZGVsX2FyY2hpdGVjdHVyZSJdID0gIkRpcmVjdG9yeSBOb3QgRm91bmQiCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuCgogICAgICAgICAgICAgICAgZm9yIHBhcnRfZmlsZW5hbWUgaW4gb3MubGlzdGRpcihkaXJlY3RvcnkpOgogICAgICAgICAgICAgICAgICAgIGlmIHBhcnRfZmlsZW5hbWUubG93ZXIoKS5zdGFydHN3aXRoKGJhc2VfbmFtZS5sb3dlcigpKSBhbmQgcGFydF9maWxlbmFtZS5sb3dlcigpLmVuZHN3aXRoKCcuZ2d1ZicpOgogICAgICAgICAgICAgICAgICAgICAgICBwYXJ0X3BhdGggPSBvcy5wYXRoLmpvaW4oZGlyZWN0b3J5LCBwYXJ0X2ZpbGVuYW1lKQogICAgICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaXplID0gb3MucGF0aC5nZXRzaXplKHBhcnRfcGF0aCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvdGFsX3NpemVfYnl0ZXMgKz0gc2l6ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFydF9jb3VudCArPSAxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB5aWVsZCBmIiAgLSBGb3VuZCBwYXJ0OiB7cGFydF9maWxlbmFtZX0gKHtyb3VuZChzaXplIC8gKDEwMjQgKiogMyksIDIpfSBHQikiCiAgICAgICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBGaWxlTm90Rm91bmRFcnJvcjoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHlpZWxkIGYiICAtIFdhcm5pbmc6IENvdWxkIG5vdCBhY2Nlc3MgcGFydCB7cGFydF9maWxlbmFtZX0iCgogICAgICAgICAgICAgICAgc2VsZi5yZXN1bHRzWyJtb2RlbF9zaXplX2diIl0gPSByb3VuZCh0b3RhbF9zaXplX2J5dGVzIC8gKDEwMjQgKiogMyksIDIpCiAgICAgICAgICAgICAgICB5aWVsZCBmIj4gRm91bmQge3BhcnRfY291bnR9IHBhcnRzLiBUb3RhbCBtb2RlbCBzaXplIGlzIHtzZWxmLnJlc3VsdHNbJ21vZGVsX3NpemVfZ2InXX0gR0IuIgoKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHlpZWxkICI+IFNpbmdsZS1maWxlIG1vZGVsIGRldGVjdGVkLiIKICAgICAgICAgICAgICAgIGZpbGVfc2l6ZV9ieXRlcyA9IG9zLnBhdGguZ2V0c2l6ZShtb2RlbF9wYXRoKQogICAgICAgICAgICAgICAgc2VsZi5yZXN1bHRzWyJtb2RlbF9zaXplX2diIl0gPSByb3VuZChmaWxlX3NpemVfYnl0ZXMgLyAoMTAyNCAqKiAzKSwgMikKICAgICAgICAgICAgICAgIHlpZWxkIGYiPiBNb2RlbCBmaWxlIHNpemUgaXMge3NlbGYucmVzdWx0c1snbW9kZWxfc2l6ZV9nYiddfSBHQi4iCgogICAgICAgICAgICB5aWVsZCAiW0FOQUxZU0lTXSBEZXRlcm1pbmluZyBhcmNoaXRlY3R1cmUgZnJvbSBmaWxlbmFtZS4uLiIKICAgICAgICAgICAgbG93ZXJfZmlsZW5hbWUgPSBmaWxlbmFtZS5sb3dlcigpCgogICAgICAgICAgICBpZiAoJ21vZScgaW4gbG93ZXJfZmlsZW5hbWUgb3IKICAgICAgICAgICAgICAgICAgICAnbWl4dHVyZScgaW4gbG93ZXJfZmlsZW5hbWUgb3IKICAgICAgICAgICAgICAgICAgICAnZ3B0LW9zcycgaW4gbG93ZXJfZmlsZW5hbWUgb3IKICAgICAgICAgICAgICAgICAgICByZS5zZWFyY2gocidhXGQrYicsIGxvd2VyX2ZpbGVuYW1lKSk6CiAgICAgICAgICAgICAgICBzZWxmLnJlc3VsdHNbIm1vZGVsX2FyY2hpdGVjdHVyZSJdID0gIk1peHR1cmUgb2YgRXhwZXJ0cyAoTW9FKSIKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYucmVzdWx0c1sibW9kZWxfYXJjaGl0ZWN0dXJlIl0gPSAiRGVuc2UiCgogICAgICAgICAgICB5aWVsZCBmIj4gTW9kZWwgYXJjaGl0ZWN0dXJlIGlkZW50aWZpZWQgYXM6IHtzZWxmLnJlc3VsdHNbJ21vZGVsX2FyY2hpdGVjdHVyZSddfS4iCgogICAgICAgIGV4Y2VwdCBGaWxlTm90Rm91bmRFcnJvcjoKICAgICAgICAgICAgeWllbGQgZiI+IEVSUk9SOiBNb2RlbCBmaWxlIG5vdCBmb3VuZCBhdCAne21vZGVsX3BhdGh9Jy4iCiAgICAgICAgICAgIHNlbGYucmVzdWx0c1sibW9kZWxfYXJjaGl0ZWN0dXJlIl0gPSAiRmlsZSBOb3QgRm91bmQiCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICB5aWVsZCBmIj4gRVJST1I6IENvdWxkIG5vdCByZWFkIG1vZGVsIGZpbGUuIFJlYXNvbjoge2V9IgogICAgICAgICAgICBzZWxmLnJlc3VsdHNbIm1vZGVsX2FyY2hpdGVjdHVyZSJdID0gIlJlYWQgRXJyb3IiCgogICAgZGVmIGdldF9saXZlX3JhbV91c2FnZShzZWxmKToKICAgICAgICAiIiJSZXR1cm5zIGZyZWUgc3lzdGVtIFJBTSBpbiBHQiBhcyBhIGZsb2F0LiIiIgogICAgICAgIGlmIFBTVVRJTF9BVkFJTEFCTEU6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJldHVybiByb3VuZChwc3V0aWwudmlydHVhbF9tZW1vcnkoKS5hdmFpbGFibGUgLyAoMTAyNCAqKiAzKSwgMikKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIHJldHVybiAwLjAKICAgICAgICByZXR1cm4gMC4wCgogICAgZGVmIGdldF9saXZlX3ZyYW1fdXNhZ2Uoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgR2V0cyB0aGUgY3VycmVudCBWUkFNIHVzYWdlLiBVc2VzIHB5bnZtbCBvbiBXaW5kb3dzIChOVklESUEpLAogICAgICAgIG9yIHVuaWZpZWQgbWVtb3J5IHN0YXRzIG9uIG1hY09TIEFwcGxlIFNpbGljb24uCiAgICAgICAgUmV0dXJucyBhIGRpY3Rpb25hcnkgb3IgTm9uZSBpZiB1bmF2YWlsYWJsZS4KICAgICAgICAiIiIKICAgICAgICBpZiBJU19NQUNPUyBhbmQgcGxhdGZvcm0ubWFjaGluZSgpID09ICJhcm02NCIgYW5kIFBTVVRJTF9BVkFJTEFCTEU6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJhbV9pbmZvID0gcHN1dGlsLnZpcnR1YWxfbWVtb3J5KCkKICAgICAgICAgICAgICAgIHJldHVybiB7MDogewogICAgICAgICAgICAgICAgICAgICJ1c2VkX2diIjogcm91bmQocmFtX2luZm8udXNlZCAvICgxMDI0ICoqIDMpLCAyKSwKICAgICAgICAgICAgICAgICAgICAidG90YWxfZ2IiOiByb3VuZChyYW1faW5mby50b3RhbCAvICgxMDI0ICoqIDMpLCAyKQogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgICAgIGlmIG5vdCBQWU5WTUxfQVZBSUxBQkxFOgogICAgICAgICAgICByZXR1cm4gTm9uZQoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGRldmljZV9jb3VudCA9IHB5bnZtbC5udm1sRGV2aWNlR2V0Q291bnQoKQogICAgICAgICAgICB2cmFtX3N0YXRzID0ge30KICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoZGV2aWNlX2NvdW50KToKICAgICAgICAgICAgICAgIGhhbmRsZSA9IHB5bnZtbC5udm1sRGV2aWNlR2V0SGFuZGxlQnlJbmRleChpKQogICAgICAgICAgICAgICAgbWVtX2luZm8gPSBweW52bWwubnZtbERldmljZUdldE1lbW9yeUluZm8oaGFuZGxlKQogICAgICAgICAgICAgICAgdnJhbV9zdGF0c1tpXSA9IHsKICAgICAgICAgICAgICAgICAgICAidXNlZF9nYiI6IHJvdW5kKG1lbV9pbmZvLnVzZWQgLyAoMTAyNCAqKiAzKSwgMiksCiAgICAgICAgICAgICAgICAgICAgInRvdGFsX2diIjogcm91bmQobWVtX2luZm8udG90YWwgLyAoMTAyNCAqKiAzKSwgMikKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHZyYW1fc3RhdHMKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KGYiW0FOQUxZWkVSIEVSUk9SXSBDb3VsZCBub3QgZ2V0IGxpdmUgVlJBTSB1c2FnZToge2V9IikKICAgICAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgcnVuX2FuYWx5c2lzKHNlbGYsIG1vZGVsX3BhdGgpOgogICAgICAgICIiIgogICAgICAgIFJ1bnMgdGhlIGZ1bGwgc3lzdGVtIGFuZCBtb2RlbCBhbmFseXNpcyBwcm9jZXNzLgogICAgICAgIFRoaXMgaXMgYSBnZW5lcmF0b3IgdGhhdCB5aWVsZHMgc3RhdHVzIHN0cmluZ3MgZm9yIGxpdmUgVUkgdXBkYXRlcy4KICAgICAgICAiIiIKICAgICAgICB5aWVsZCAiW0FOQUxZU0lTIFNUQVJURURdIgogICAgICAgIHlpZWxkIGZyb20gc2VsZi5fZ2V0X2NwdV9pbmZvKCkKICAgICAgICB5aWVsZCBmcm9tIHNlbGYuX2dldF9yYW1faW5mbygpCiAgICAgICAgeWllbGQgZnJvbSBzZWxmLl9nZXRfZ3B1X2luZm8oKQogICAgICAgIGlmIG1vZGVsX3BhdGg6CiAgICAgICAgICAgIHlpZWxkIGZyb20gc2VsZi5fZ2V0X21vZGVsX2luZm8obW9kZWxfcGF0aCkKICAgICAgICBlbHNlOgogICAgICAgICAgICB5aWVsZCAiW0FOQUxZU0lTXSBTa2lwcGVkIG1vZGVsIGFuYWx5c2lzIGJlY2F1c2Ugbm8gcGF0aCB3YXMgcHJvdmlkZWQuIgoKICAgICAgICB5aWVsZCAiW0FOQUxZU0lTIENPTVBMRVRFXSIKICAgICAgICByZXR1cm4gc2VsZi5yZXN1bHRz
+# system_analyzer.py
+
+import os
+import re
+import subprocess
+import platform
+
+from Llamacpp_Model_launcher.core.platform_utils import IS_WINDOWS, IS_MACOS, get_subprocess_kwargs
+
+# --- Optional Dependencies ---
+try:
+    import psutil
+    PSUTIL_AVAILABLE = True
+except ImportError:
+    PSUTIL_AVAILABLE = False
+
+try:
+    import pynvml
+    PYNVML_AVAILABLE = True
+    # --- FIX: REMOVED pynvml.nvmlInit() from module level ---
+except ImportError:
+    PYNVML_AVAILABLE = False
+except Exception as e:
+    # Handle cases where NVML might be present but fails to init (e.g., driver issues)
+    print(f"[ANALYZER WARNING] pynvml could not be imported: {e}")
+    PYNVML_AVAILABLE = False
+
+
+# --- NEW: Centralized lifecycle management functions ---
+def initialize_pynvml():
+    """Initializes the NVML library. To be called once at app start."""
+    global PYNVML_AVAILABLE
+    if PYNVML_AVAILABLE:
+        try:
+            pynvml.nvmlInit()
+            print("[HARDWARE] PYNVML Initialized successfully.")
+        except Exception as e:
+            print(f"[ANALYZER WARNING] pynvml initialization failed: {e}")
+            PYNVML_AVAILABLE = False
+
+def shutdown_pynvml():
+    """Shuts down the NVML library. To be called once at app exit."""
+    global PYNVML_AVAILABLE
+    # Check if the module was imported and our flag is still true
+    if 'pynvml' in globals() and PYNVML_AVAILABLE:
+        try:
+            pynvml.nvmlShutdown()
+            print("[HARDWARE] PYNVML Shutdown successfully.")
+        except Exception as e:
+            print(f"[ANALYZER WARNING] pynvml shutdown failed: {e}")
+# --- END NEW ---
+
+
+class SystemAnalyzer:
+    """
+    A class to probe the user's system for hardware specs and analyze a GGUF model file.
+    Designed to be used as a generator to provide real-time feedback.
+    """
+    def __init__(self):
+        self.results = {
+            "cpu_physical_cores": None,
+            "cpu_logical_cores": None,
+            "ram": {},
+            "gpus": [],
+            "model_size_gb": None,
+            "model_architecture": "Unknown",
+        }
+
+    def _get_cpu_info(self):
+        """Gets CPU core count."""
+        yield "[ANALYSIS] Probing for CPU and RAM details..."
+        if PSUTIL_AVAILABLE:
+            self.results["cpu_logical_cores"] = psutil.cpu_count(logical=True)
+            self.results["cpu_physical_cores"] = psutil.cpu_count(logical=False)
+            yield f"> Found {self.results['cpu_physical_cores']} physical and {self.results['cpu_logical_cores']} logical CPU cores."
+        else:
+            self.results["cpu_logical_cores"] = os.cpu_count()
+            yield f"> Found {self.results['cpu_logical_cores']} logical CPU cores (psutil not installed, physical count unavailable)."
+
+    def _get_ram_info(self):
+        """Gets total, used, and free system RAM."""
+        if PSUTIL_AVAILABLE:
+            ram_info = psutil.virtual_memory()
+            total_gb = round(ram_info.total / (1024 ** 3), 2)
+            used_gb = round(ram_info.used / (1024 ** 3), 2)
+            free_gb = round(ram_info.available / (1024 ** 3), 2)
+            self.results["ram"] = {"total_gb": total_gb, "used_gb": used_gb, "free_gb": free_gb}
+            yield f"> Found {total_gb} GB of system RAM ({free_gb} GB available)."
+        else:
+            yield "> Could not determine system RAM (psutil library not installed)."
+
+    def _get_gpu_info_pynvml(self):
+        """Gets GPU info using the pynvml library (preferred for NVIDIA)."""
+        # --- FIX: Removed nvmlInit() call. It is now managed globally. ---
+        device_count = pynvml.nvmlDeviceGetCount()
+        if device_count == 0:
+            yield "> pynvml found 0 NVIDIA GPUs."
+            return
+
+        yield f"> pynvml found {device_count} NVIDIA GPU(s)."
+        for i in range(device_count):
+            handle = pynvml.nvmlDeviceGetHandleByIndex(i)
+            name = pynvml.nvmlDeviceGetName(handle)
+            mem_info = pynvml.nvmlDeviceGetMemoryInfo(handle)
+            total_gb = round(mem_info.total / (1024 ** 3), 2)
+            used_gb = round(mem_info.used / (1024 ** 3), 2)
+            free_gb = round(mem_info.free / (1024 ** 3), 2)
+
+            # Fetch Compute Capability (Try pynvml, fail silently to 0.0)
+            try:
+                major, minor = pynvml.nvmlDeviceGetCudaComputeCapability(handle)
+                compute_cap = float(f"{major}.{minor}")
+            except (AttributeError, pynvml.NVMLError):
+                compute_cap = 0.0
+
+            vram_details = {"total_gb": total_gb, "used_gb": used_gb, "free_gb": free_gb}
+            self.results["gpus"].append({"id": i, "name": name.strip(), "vram": vram_details, "compute_cap": compute_cap})
+            yield f"  - GPU {i}: {name.strip()} ({total_gb} GB VRAM, {free_gb} GB free)"
+
+    def _get_gpu_info_fallback(self):
+        """Fallback method using nvidia-smi if pynvml is unavailable."""
+        try:
+            command = ["nvidia-smi", "--query-gpu=name,memory.total,memory.used", "--format=csv,noheader,nounits"]
+            process = subprocess.run(command, capture_output=True, text=True, check=True,
+                                     **get_subprocess_kwargs())
+            output = process.stdout.strip().split('\n')
+            if not output or not output[0]:
+                yield "> nvidia-smi found 0 NVIDIA GPUs."
+                return
+
+            yield f"> nvidia-smi found {len(output)} NVIDIA GPU(s)."
+            for i, line in enumerate(output):
+                parts = line.split(',')
+                # The last two fields are always the memory numbers; the name is
+                # everything before them (names may themselves contain commas).
+                if len(parts) < 3:
+                    yield f"  - Skipping malformed GPU line: {line}"
+                    continue
+                try:
+                    vram_total_mib = int(parts[-2].strip())
+                    vram_used_mib = int(parts[-1].strip())
+                except ValueError:
+                    yield f"  - Skipping malformed GPU line: {line}"
+                    continue
+                name = ",".join(parts[:-2]).strip()
+                total_gb = round(int(vram_total_mib) / 1024, 2)
+                used_gb = round(int(vram_used_mib) / 1024, 2)
+                free_gb = round(total_gb - used_gb, 2)
+                vram_details = {"total_gb": total_gb, "used_gb": used_gb, "free_gb": free_gb}
+                # compute_cap is reported as 0.0 (unknown) on this path to match
+                # the key set of the pynvml path
+                self.results["gpus"].append({"id": i, "name": name, "vram": vram_details, "compute_cap": 0.0})
+                yield f"  - GPU {i}: {name} ({total_gb} GB VRAM, {free_gb} GB free)"
+
+        except (FileNotFoundError, subprocess.CalledProcessError):
+            yield "> nvidia-smi not found. Could not detect NVIDIA GPUs."
+        except Exception as e:
+            yield f"> An error occurred while running nvidia-smi: {e}"
+
+    def _get_gpu_info_macos(self):
+        """Detects Apple Silicon GPU info using unified memory."""
+        if platform.machine() != "arm64":
+            yield "> Intel Mac detected. GPU acceleration via Metal is limited on Intel Macs."
+            return
+
+        try:
+            chip_result = subprocess.run(
+                ["sysctl", "-n", "machdep.cpu.brand_string"],
+                capture_output=True, text=True, check=True
+            )
+            chip_name = chip_result.stdout.strip()
+        except Exception:
+            chip_name = "Apple Silicon"
+
+        if PSUTIL_AVAILABLE:
+            ram_info = psutil.virtual_memory()
+            total_gb = round(ram_info.total / (1024 ** 3), 2)
+            used_gb = round(ram_info.used / (1024 ** 3), 2)
+            free_gb = round(ram_info.available / (1024 ** 3), 2)
+        else:
+            total_gb, used_gb, free_gb = 0.0, 0.0, 0.0
+
+        vram_details = {"total_gb": total_gb, "used_gb": used_gb, "free_gb": free_gb}
+        self.results["gpus"].append({
+            "id": 0, "name": f"{chip_name} (Metal)", "vram": vram_details, "compute_cap": 0.0
+        })
+        yield f"  - GPU 0: {chip_name} (Metal) — {total_gb} GB unified memory ({free_gb} GB available)"
+
+    def _get_gpu_info(self):
+        """Detects GPU information, preferring pynvml on Windows and Metal on macOS."""
+        yield "[ANALYSIS] Probing for available GPUs and VRAM..."
+
+        if IS_MACOS:
+            yield from self._get_gpu_info_macos()
+        elif IS_WINDOWS:
+            if PYNVML_AVAILABLE:
+                try:
+                    yield from self._get_gpu_info_pynvml()
+                except Exception as e:
+                    yield f"> pynvml failed with an error: {e}. Trying fallback..."
+                    self.results["gpus"] = []
+                    yield from self._get_gpu_info_fallback()
+            else:
+                yield "> pynvml library not installed. Falling back to nvidia-smi..."
+                yield from self._get_gpu_info_fallback()
+        else:
+            yield "> GPU detection is not yet supported on this platform."
+
+        if not self.results["gpus"]:
+            yield "> No compatible GPUs detected on the system."
+
+    def _get_model_info(self, model_path):
+        """Gets model file size and architecture from the model's filename."""
+        yield f"[ANALYSIS] Accessing model file at: {model_path}..."
+        try:
+            filename = os.path.basename(model_path)
+            directory = os.path.dirname(model_path)
+
+            multi_part_pattern = re.compile(r'-\d{5}-of-\d{5}\.gguf$', re.IGNORECASE)
+
+            if multi_part_pattern.search(filename):
+                yield "> Multi-part model pattern detected. Calculating total size..."
+                base_name = multi_part_pattern.split(filename)[0]
+                total_size_bytes = 0
+                part_count = 0
+
+                if not os.path.isdir(directory):
+                    yield f"> ERROR: Model directory not found at '{directory}'."
+                    self.results["model_architecture"] = "Directory Not Found"
+                    return
+
+                for part_filename in os.listdir(directory):
+                    if part_filename.lower().startswith(base_name.lower()) and part_filename.lower().endswith('.gguf'):
+                        part_path = os.path.join(directory, part_filename)
+                        try:
+                            size = os.path.getsize(part_path)
+                            total_size_bytes += size
+                            part_count += 1
+                            yield f"  - Found part: {part_filename} ({round(size / (1024 ** 3), 2)} GB)"
+                        except FileNotFoundError:
+                            yield f"  - Warning: Could not access part {part_filename}"
+
+                self.results["model_size_gb"] = round(total_size_bytes / (1024 ** 3), 2)
+                yield f"> Found {part_count} parts. Total model size is {self.results['model_size_gb']} GB."
+
+            else:
+                yield "> Single-file model detected."
+                file_size_bytes = os.path.getsize(model_path)
+                self.results["model_size_gb"] = round(file_size_bytes / (1024 ** 3), 2)
+                yield f"> Model file size is {self.results['model_size_gb']} GB."
+
+            yield "[ANALYSIS] Determining architecture from filename..."
+            lower_filename = filename.lower()
+
+            if ('moe' in lower_filename or
+                    'mixture' in lower_filename or
+                    'gpt-oss' in lower_filename or
+                    re.search(r'a\d+b', lower_filename)):
+                self.results["model_architecture"] = "Mixture of Experts (MoE)"
+            else:
+                self.results["model_architecture"] = "Dense"
+
+            yield f"> Model architecture identified as: {self.results['model_architecture']}."
+
+        except FileNotFoundError:
+            yield f"> ERROR: Model file not found at '{model_path}'."
+            self.results["model_architecture"] = "File Not Found"
+        except Exception as e:
+            yield f"> ERROR: Could not read model file. Reason: {e}"
+            self.results["model_architecture"] = "Read Error"
+
+    def get_live_ram_usage(self):
+        """Returns free system RAM in GB as a float."""
+        if PSUTIL_AVAILABLE:
+            try:
+                return round(psutil.virtual_memory().available / (1024 ** 3), 2)
+            except Exception:
+                return 0.0
+        return 0.0
+
+    def get_live_vram_usage(self):
+        """
+        Gets the current VRAM usage. Uses pynvml on Windows (NVIDIA),
+        or unified memory stats on macOS Apple Silicon.
+        Returns a dictionary or None if unavailable.
+        """
+        if IS_MACOS and platform.machine() == "arm64" and PSUTIL_AVAILABLE:
+            try:
+                ram_info = psutil.virtual_memory()
+                return {0: {
+                    "used_gb": round(ram_info.used / (1024 ** 3), 2),
+                    "total_gb": round(ram_info.total / (1024 ** 3), 2)
+                }}
+            except Exception:
+                return None
+
+        if not PYNVML_AVAILABLE:
+            return None
+
+        try:
+            device_count = pynvml.nvmlDeviceGetCount()
+            vram_stats = {}
+            for i in range(device_count):
+                handle = pynvml.nvmlDeviceGetHandleByIndex(i)
+                mem_info = pynvml.nvmlDeviceGetMemoryInfo(handle)
+                vram_stats[i] = {
+                    "used_gb": round(mem_info.used / (1024 ** 3), 2),
+                    "total_gb": round(mem_info.total / (1024 ** 3), 2)
+                }
+            return vram_stats
+        except Exception as e:
+            print(f"[ANALYZER ERROR] Could not get live VRAM usage: {e}")
+            return None
+
+    def run_analysis(self, model_path):
+        """
+        Runs the full system and model analysis process.
+        This is a generator that yields status strings for live UI updates.
+        """
+        yield "[ANALYSIS STARTED]"
+        yield from self._get_cpu_info()
+        yield from self._get_ram_info()
+        yield from self._get_gpu_info()
+        if model_path:
+            yield from self._get_model_info(model_path)
+        else:
+            yield "[ANALYSIS] Skipped model analysis because no path was provided."
+
+        yield "[ANALYSIS COMPLETE]"
+        return self.results

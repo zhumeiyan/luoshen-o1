@@ -1,1 +1,62 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIyOCDngavnp43vvJrnrKzkuIDmrKHlpJborr4KQSDlpJborr7nmoTlj6/nga3mgKcg4oCU4oCUIOS/ruato+WJjeS4ieasoeaWreS+m+a1i+S4jeWHuueahOaooeWei+e8uumZtwogICBmcmFnaWxlKOeBq+enjSkg5Lya54Gt77yM6ZyA5oyB57ut5aSW6LStIHwgZHVyYWJsZSjlt6XlhbcpIOaMgeS5hSB8IGF1dG8o6Ieq57uHKSDmjIHkuYXkvYblhpfkvZkKQiBleHBlbnNpdmUgdGlzc3VlIOKAlOKAlCDlpJborr7lj43lk7rlhoXmoLgKICAg6Zq+5L2N6ZyAIGtlcm5lbCDovr7pmIjlgLzmiY3lj6/op6blj4oKIiIiCmltcG9ydCBudW1weSBhcyBucAoKSywgTiwgU1RFUFMsIENVVCA9IDIwMCwgMTUwLCAyNTAsIDEyMApIQVJEID0gc2xpY2UoMCwgNjApICAgICAgIyDpmr7kvY3vvJrpnIAga2VybmVsIOaUr+aMgQpFQVNZID0gc2xpY2UoNjAsIEspCgpkZWYgcnVuKG1vZGUsIHNlZWQ9MCwgY3V0b2ZmPU5vbmUsIGRlY2F5PTAuMCwgcmVpbmZvcmNlPUZhbHNlLCBleG9fcmF0ZT0wLjMwKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAga3NpemUgPSAwLjA1CiAgICBrZXJuZWwgPSBybmcucmFuZG9tKChOLCBLKSkgPCBrc2l6ZQogICAgcGVyaSA9IG5wLnplcm9zKChOLCBLKSwgYm9vbCkKICAgIHBzID0gbnAuemVyb3MoTikKICAgIGZvciB0IGluIHJhbmdlKFNURVBTKToKICAgICAgICBleG9fb3BlbiA9IChjdXRvZmYgaXMgTm9uZSkgb3IgKHQgPCBjdXRvZmYpCiAgICAgICAgIyDngavnp43kvJrnga0KICAgICAgICBpZiBkZWNheSA+IDA6CiAgICAgICAgICAgIHBlcmkgJj0gcm5nLnJhbmRvbSgoTiwgSykpID4gZGVjYXkKICAgICAgICAjIOWPjeWTuu+8muWkluiuvuimhuebluaPkOWNh+WGheaguAogICAgICAgIGlmIHJlaW5mb3JjZToKICAgICAgICAgICAga3NpemUgPSBtaW4oMC40MCwgMC4wNSArIDAuMzUgKiAocGVyaSB8IGtlcm5lbCkuc3VtKDEpLm1lYW4oKS9LKQogICAgICAgICAgICBrZXJuZWwgfD0gcm5nLnJhbmRvbSgoTiwgSykpIDwga3NpemUqMC4xMAogICAgICAgIGZvciBpIGluIHJhbmdlKE4pOgogICAgICAgICAgICBpZiBtb2RlID09ICdhdXRvJzoKICAgICAgICAgICAgICAgIGJhc2UgPSBwZXJpW2ldIHwga2VybmVsW2ldCiAgICAgICAgICAgICAgICBtID0gKGJhc2UgJiAocm5nLnJhbmRvbShLKSA8IDAuOTApKSBpZiAoYmFzZS5zdW0oKSBhbmQgcm5nLnJhbmRvbSgpPDAuNSkgXAogICAgICAgICAgICAgICAgICAgIGVsc2UgKHJuZy5yYW5kb20oSykgPCAwLjAwNCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGlmIGV4b19vcGVuIGFuZCBybmcucmFuZG9tKCkgPCBleG9fcmF0ZToKICAgICAgICAgICAgICAgICAgICBtID0gcm5nLnJhbmRvbShLKSA8IDAuMDYKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYmFzZSA9IHBlcmlbaV0gfCBrZXJuZWxbaV0KICAgICAgICAgICAgICAgICAgICBtID0gKGJhc2UgJiAocm5nLnJhbmRvbShLKSA8IDAuOTApKSBpZiAoYmFzZS5zdW0oKSBhbmQgcm5nLnJhbmRvbSgpPDAuNSkgXAogICAgICAgICAgICAgICAgICAgICAgICBlbHNlIChybmcucmFuZG9tKEspIDwgMC4wMDQpCiAgICAgICAgICAgIGlmIG0uYW55KCk6CiAgICAgICAgICAgICAgICBwZXJpW2ldIHw9IG07IHBzW2ldICs9IDEKICAgIGNvdiA9IHBlcmkgfCBrZXJuZWwKICAgIHJlYWwgPSBjb3Yuc3VtKDEpLm1lYW4oKS9LCiAgICBoYXJkID0gY292WzosIEhBUkRdLnN1bSgxKS5tZWFuKCkvNjAKICAgIHJldHVybiBkaWN0KHJlYWw9cmVhbCwgaGFyZD1oYXJkLCBzdXJmPW1pbigxLjAsIHBzLm1lYW4oKS8zMC4wKSkKCnByaW50KCI9PT0gQSDlpJborr7lj6/nga3mgKcgLyDmlq3kvpsgPT09IikKcHJpbnQoIuaooeW8jyAgICAgIGRlY2F5ICDmlq3kvpsgICByZWFsKOe7iCkgIOmavuS9jeimhuebliIpCmZvciBtb2RlLCBkYyBpbiBbKCdleG8nLDAuMCksICgnZXhvJywwLjAzKSwgKCdleG8nLDAuMDgpLCAoJ2F1dG8nLDAuMCldOgogICAgZm9yIGN1dCBpbiBbTm9uZSwgQ1VUXToKICAgICAgICBycz1bcnVuKG1vZGUsc2VlZD1zLGN1dG9mZj1jdXQsZGVjYXk9ZGMpIGZvciBzIGluIHJhbmdlKDUpXQogICAgICAgIHRhZyA9ICfkuI3mlq3kvpsnIGlmIGN1dCBpcyBOb25lIGVsc2UgJ3Q9MTIw5pat5L6bJwogICAgICAgIHByaW50KGYie21vZGU6N3N9IHtkYzo1LjJmfSAge3RhZ30gIHtucC5tZWFuKFtyWydyZWFsJ10gZm9yIHIgaW4gcnNdKTouM2Z9ICAgICIKICAgICAgICAgICAgICBmIntucC5tZWFuKFtyWydoYXJkJ10gZm9yIHIgaW4gcnNdKTouM2Z9IikKCnByaW50KCJcbj09PSBCIGV4cGVuc2l2ZSB0aXNzdWUg5Y+N5ZO65YaF5qC4ID09PSIpCnByaW50KCLlj43lk7ogICByZWFsICAgIOmavuS9jeimhueblig95YaF5qC46LeD6L+BKSIpCmZvciByZiBpbiBbRmFsc2UsIFRydWVdOgogICAgcnM9W3J1bignZXhvJyxzZWVkPXMscmVpbmZvcmNlPXJmLGRlY2F5PTAuMDMpIGZvciBzIGluIHJhbmdlKDUpXQogICAgcHJpbnQoZiJ7c3RyKHJmKTo2c30ge25wLm1lYW4oW3JbJ3JlYWwnXSBmb3IgciBpbiByc10pOi4zZn0gICB7bnAubWVhbihbclsnaGFyZCddIGZvciByIGluIHJzXSk6LjNmfSIpCg==
+# -*- coding: utf-8 -*-
+"""
+228 火种：第一次外设
+A 外设的可灭性 —— 修正前三次断供测不出的模型缺陷
+   fragile(火种) 会灭，需持续外购 | durable(工具) 持久 | auto(自织) 持久但冗余
+B expensive tissue —— 外设反哺内核
+   难位需 kernel 达阈值才可触及
+"""
+import numpy as np
+
+K, N, STEPS, CUT = 200, 150, 250, 120
+HARD = slice(0, 60)      # 难位：需 kernel 支持
+EASY = slice(60, K)
+
+def run(mode, seed=0, cutoff=None, decay=0.0, reinforce=False, exo_rate=0.30):
+    rng = np.random.default_rng(seed)
+    ksize = 0.05
+    kernel = rng.random((N, K)) < ksize
+    peri = np.zeros((N, K), bool)
+    ps = np.zeros(N)
+    for t in range(STEPS):
+        exo_open = (cutoff is None) or (t < cutoff)
+        # 火种会灭
+        if decay > 0:
+            peri &= rng.random((N, K)) > decay
+        # 反哺：外设覆盖提升内核
+        if reinforce:
+            ksize = min(0.40, 0.05 + 0.35 * (peri | kernel).sum(1).mean()/K)
+            kernel |= rng.random((N, K)) < ksize*0.10
+        for i in range(N):
+            if mode == 'auto':
+                base = peri[i] | kernel[i]
+                m = (base & (rng.random(K) < 0.90)) if (base.sum() and rng.random()<0.5) \
+                    else (rng.random(K) < 0.004)
+            else:
+                if exo_open and rng.random() < exo_rate:
+                    m = rng.random(K) < 0.06
+                else:
+                    base = peri[i] | kernel[i]
+                    m = (base & (rng.random(K) < 0.90)) if (base.sum() and rng.random()<0.5) \
+                        else (rng.random(K) < 0.004)
+            if m.any():
+                peri[i] |= m; ps[i] += 1
+    cov = peri | kernel
+    real = cov.sum(1).mean()/K
+    hard = cov[:, HARD].sum(1).mean()/60
+    return dict(real=real, hard=hard, surf=min(1.0, ps.mean()/30.0))
+
+print("=== A 外设可灭性 / 断供 ===")
+print("模式      decay  断供   real(终)  难位覆盖")
+for mode, dc in [('exo',0.0), ('exo',0.03), ('exo',0.08), ('auto',0.0)]:
+    for cut in [None, CUT]:
+        rs=[run(mode,seed=s,cutoff=cut,decay=dc) for s in range(5)]
+        tag = '不断供' if cut is None else 't=120断供'
+        print(f"{mode:7s} {dc:5.2f}  {tag}  {np.mean([r['real'] for r in rs]):.3f}    "
+              f"{np.mean([r['hard'] for r in rs]):.3f}")
+
+print("\n=== B expensive tissue 反哺内核 ===")
+print("反哺   real    难位覆盖(=内核跃迁)")
+for rf in [False, True]:
+    rs=[run('exo',seed=s,reinforce=rf,decay=0.03) for s in range(5)]
+    print(f"{str(rf):6s} {np.mean([r['real'] for r in rs]):.3f}   {np.mean([r['hard'] for r in rs]):.3f}")

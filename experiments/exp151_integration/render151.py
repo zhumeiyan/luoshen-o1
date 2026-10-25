@@ -1,1 +1,58 @@
-aW1wb3J0IG9zLCBqc29uLCBoYXNobGliCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKClcsIEggPSAxMDI0LCA3NjgKRiA9ICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIgpkZWYgZihzeik6IHJldHVybiBJbWFnZUZvbnQudHJ1ZXR5cGUoRiwgc3opCgppbWcgPSBJbWFnZS5uZXcoIlJHQiIsIChXLCBIKSwgKDgsIDEwLCAxNCkpCmQgPSBJbWFnZURyYXcuRHJhdyhpbWcpCmQucmVjdGFuZ2xlKFswLCAwLCBXLTEsIEgtMV0sIG91dGxpbmU9KDYwLCAyMDAsIDE2MCksIHdpZHRoPTMpCgpUSVRMRSA9ICIxNTEgIFNJWC1SVU5HIElOVEVHUkFUSU9OICBGSVJTVCBKT0lOVCBSVU4iCmQudGV4dCgoMjYsIDE2KSwgVElUTEUsIGZvbnQ9ZigyNyksIGZpbGw9KDgwLCAyMzAsIDE4MCkpCmQubGluZShbMjYsIDU0LCBXLTI2LCA1NF0sIGZpbGw9KDYwLCAxNDAsIDEyMCksIHdpZHRoPTIpCgpSID0ganNvbi5sb2FkKG9wZW4oInJlc3VsdDE1MS5qc29uIikpCmMgPSBSWyJjb25kIl0KYmFzZSA9IGNbIkwxIl1bIm1lYW4iXQoKbGluZXMgPSBbXQpsaW5lcy5hcHBlbmQoIkcwIFNUUlVDVFVSRSAgIE9SQUNMRSA3My4wICBSQU5ET00gMTUuNCAgQ09OU1QgMC4wICAtPiB0YXNrIGhhcyBzdHJ1Y3R1cmUiKQpsaW5lcy5hcHBlbmQoIiIpCmxpbmVzLmFwcGVuZCgiU0lOR0xFLVJVTkcgR0FJTiAob3ZlciBMMSBiYXNlbGluZSAlLjFmKSIgJSBiYXNlKQpmb3IgayBpbiBbIkwxK0wyIiwiTDErTDMiLCJMMStMNGciLCJMMStMNGQiLCJMMStMNHAiLCJMMStMNm0iLCJMMStMNmEiLCJMMStMNmQiLCJMMStMNmMiXToKICAgIHYgPSBjW2tdCiAgICBsaW5lcy5hcHBlbmQoIiAgJS05cyAlNi4yZiAgZD0lKzYuMmYgIENJWyU1LjJmLCU1LjJmXSIgJSAoaywgdlsibWVhbiJdLCB2WyJtZWFuIl0tYmFzZSwgdlsibG8iXSwgdlsiaGkiXSkpCmxpbmVzLmFwcGVuZCgiIikKbGluZXMuYXBwZW5kKCJBQkxBVElPTiAoZnJvbSBGVUxMX25vTDUgJS4xZikiICUgY1siRlVMTF9ub0w1Il1bIm1lYW4iXSkKZm9yIGsgaW4gWyJBQkxfLUwxIiwiQUJMXy1MMiIsIkFCTF8tTDMiLCJBQkxfLUw0ZCIsIkFCTF8tTDRwIiwiQUJMXy1MNmEiLCJBQkxfLUw2YyJdOgogICAgdiA9IGNba10KICAgIGxpbmVzLmFwcGVuZCgiICAlLTlzICU2LjJmICBkPSUrNi4yZiAgQ0lbJTUuMmYsJTUuMmZdIiAlIChrLCB2WyJtZWFuIl0sIHZbIm1lYW4iXS1jWyJGVUxMX25vTDUiXVsibWVhbiJdLCB2WyJsbyJdLCB2WyJoaSJdKSkKbGluZXMuYXBwZW5kKCIiKQpsaW5lcy5hcHBlbmQoIktFWSAgY3VsdHVyZSBMNmMgaXMgdGhlIE9OTFkgbGFyZ2UgZ2FpbiAgKzI5LjMgICBhYmxhdGlvbiAtMzcuMyIpCmxpbmVzLmFwcGVuZCgiICAgICBpdCBhY2N1bXVsYXRlcyBhY3Jvc3MgZ2VuZXJhdGlvbnMgICBmaXJzdCA2Mi4wIC0+IGxhdGUgNzAuNSIpCmxpbmVzLmFwcGVuZCgiICAgICBzdGFsZSBjdWx0dXJlIHN0aWxsIGhlbHBzIDI0LjctPjM3LjcgYW5kIHNlbGYtY29ycmVjdHMgMzguNi0+NTguNiIpCmxpbmVzLmFwcGVuZCgiICAgICBoYXJtZnVsIGhlcmU6IEw2YSAtMTcuNSAgIEw0cCAtMTMuMiAgIEw0ZCAtNC40ICAgTDMgLTYuNCIpCmxpbmVzLmFwcGVuZCgiIikKbGluZXMuYXBwZW5kKCJUT0tFTiBLN000UVggICBub2RlcyA1MDAgdGFyZ2V0cyA3NSBkZWcgMTAuOCBUIDE1MCByZXAgMTYiKQoKeSA9IDY2CmZvciBpLCBsbiBpbiBlbnVtZXJhdGUobGluZXMpOgogICAgY29sID0gKDIyNSwgMjM1LCAyNDApCiAgICBpZiBsbi5zdGFydHN3aXRoKCJLRVkiKTogY29sID0gKDEyMCwgMjMwLCAyNTUpCiAgICBlbGlmIGxuLnN0YXJ0c3dpdGgoIkcwIik6IGNvbCA9ICgxNTAsIDI1NSwgMTkwKQogICAgZWxpZiAiY3VsdHVyZSBMNmMiIGluIGxuOiBjb2wgPSAoMjU1LCAyMTAsIDEyMCkKICAgIGQudGV4dCgoMjYsIHkpLCBsbiwgZm9udD1mKDE5IGlmIGkgPCAzIGVsc2UgMTcpLCBmaWxsPWNvbCkKICAgIHkgKz0gMjcgaWYgaSA8IDMgZWxzZSAyNQoKaW1nLnNhdmUoInJlbmRlcjE1MS5wbmciKQpyYXcgPSBpbWcudG9ieXRlcygpCmZkID0gb3Mub3BlbigiL2Rldi9mYjAiLCBvcy5PX1JEV1IpCm9zLmxzZWVrKGZkLCAwLCAwKTsgb3Mud3JpdGUoZmQsIHJhdykKb3MubHNlZWsoZmQsIDAsIDApOyBiYWNrID0gb3MucmVhZChmZCwgbGVuKHJhdykpCm9zLmNsb3NlKGZkKQpvcGVuKCJjYXB0dXJlZC5iaW4iLCJ3YiIpLndyaXRlKGJhY2spCnByaW50KCJyZW5kZXJfc2hhIiwgaGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTJdKQpwcmludCgiY2FwdHVyZV9zaGEiLCBoYXNobGliLnNoYTI1NihiYWNrKS5oZXhkaWdlc3QoKVs6MTJdKQpwcmludCgiSURFTlRJQ0FMIiwgcmF3ID09IGJhY2spCg==
+import os, json, hashlib
+from PIL import Image, ImageDraw, ImageFont
+
+W, H = 1024, 768
+F = "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+def f(sz): return ImageFont.truetype(F, sz)
+
+img = Image.new("RGB", (W, H), (8, 10, 14))
+d = ImageDraw.Draw(img)
+d.rectangle([0, 0, W-1, H-1], outline=(60, 200, 160), width=3)
+
+TITLE = "151  SIX-RUNG INTEGRATION  FIRST JOINT RUN"
+d.text((26, 16), TITLE, font=f(27), fill=(80, 230, 180))
+d.line([26, 54, W-26, 54], fill=(60, 140, 120), width=2)
+
+R = json.load(open("result151.json"))
+c = R["cond"]
+base = c["L1"]["mean"]
+
+lines = []
+lines.append("G0 STRUCTURE   ORACLE 73.0  RANDOM 15.4  CONST 0.0  -> task has structure")
+lines.append("")
+lines.append("SINGLE-RUNG GAIN (over L1 baseline %.1f)" % base)
+for k in ["L1+L2","L1+L3","L1+L4g","L1+L4d","L1+L4p","L1+L6m","L1+L6a","L1+L6d","L1+L6c"]:
+    v = c[k]
+    lines.append("  %-9s %6.2f  d=%+6.2f  CI[%5.2f,%5.2f]" % (k, v["mean"], v["mean"]-base, v["lo"], v["hi"]))
+lines.append("")
+lines.append("ABLATION (from FULL_noL5 %.1f)" % c["FULL_noL5"]["mean"])
+for k in ["ABL_-L1","ABL_-L2","ABL_-L3","ABL_-L4d","ABL_-L4p","ABL_-L6a","ABL_-L6c"]:
+    v = c[k]
+    lines.append("  %-9s %6.2f  d=%+6.2f  CI[%5.2f,%5.2f]" % (k, v["mean"], v["mean"]-c["FULL_noL5"]["mean"], v["lo"], v["hi"]))
+lines.append("")
+lines.append("KEY  culture L6c is the ONLY large gain  +29.3   ablation -37.3")
+lines.append("     it accumulates across generations   first 62.0 -> late 70.5")
+lines.append("     stale culture still helps 24.7->37.7 and self-corrects 38.6->58.6")
+lines.append("     harmful here: L6a -17.5   L4p -13.2   L4d -4.4   L3 -6.4")
+lines.append("")
+lines.append("TOKEN K7M4QX   nodes 500 targets 75 deg 10.8 T 150 rep 16")
+
+y = 66
+for i, ln in enumerate(lines):
+    col = (225, 235, 240)
+    if ln.startswith("KEY"): col = (120, 230, 255)
+    elif ln.startswith("G0"): col = (150, 255, 190)
+    elif "culture L6c" in ln: col = (255, 210, 120)
+    d.text((26, y), ln, font=f(19 if i < 3 else 17), fill=col)
+    y += 27 if i < 3 else 25
+
+img.save("render151.png")
+raw = img.tobytes()
+fd = os.open("/dev/fb0", os.O_RDWR)
+os.lseek(fd, 0, 0); os.write(fd, raw)
+os.lseek(fd, 0, 0); back = os.read(fd, len(raw))
+os.close(fd)
+open("captured.bin","wb").write(back)
+print("render_sha", hashlib.sha256(raw).hexdigest()[:12])
+print("capture_sha", hashlib.sha256(back).hexdigest()[:12])
+print("IDENTICAL", raw == back)

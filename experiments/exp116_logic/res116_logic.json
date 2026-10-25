@@ -1,1 +1,336 @@
-ewogImNsYXNzaWNhbCI6IHsKICAicm93cyI6IFsKICAgewogICAgImEiOiAwLAogICAgImIiOiAwLAogICAgIm5lcSI6IDAsCiAgICAiZXEiOiAxLAogICAgImZvcm11bGEiOiAwCiAgIH0sCiAgIHsKICAgICJhIjogMCwKICAgICJiIjogMSwKICAgICJuZXEiOiAxLAogICAgImVxIjogMCwKICAgICJmb3JtdWxhIjogMAogICB9LAogICB7CiAgICAiYSI6IDEsCiAgICAiYiI6IDAsCiAgICAibmVxIjogMSwKICAgICJlcSI6IDAsCiAgICAiZm9ybXVsYSI6IDAKICAgfSwKICAgewogICAgImEiOiAxLAogICAgImIiOiAxLAogICAgIm5lcSI6IDAsCiAgICAiZXEiOiAxLAogICAgImZvcm11bGEiOiAwCiAgIH0KICBdLAogICJ2ZXJkaWN0IjogIuawuOWBh+W8j++8iFDihpTCrFDvvIkiLAogICJuX3RydWUiOiAwLAogICJuX2ZhbHNlIjogNCwKICAic2F0dXJhYmxlIjogZmFsc2UKIH0sCiAidGVtcG9yYWwiOiB7CiAgInNjYW4iOiB7CiAgICIxIjogewogICAgIm5lcV9ldmVyIjogdHJ1ZSwKICAgICJlcV9ldmVyIjogdHJ1ZSwKICAgICJmb3JtdWxhIjogdHJ1ZQogICB9LAogICAiMiI6IHsKICAgICJuZXFfZXZlciI6IHRydWUsCiAgICAiZXFfZXZlciI6IHRydWUsCiAgICAiZm9ybXVsYSI6IHRydWUKICAgfSwKICAgIjQiOiB7CiAgICAibmVxX2V2ZXIiOiB0cnVlLAogICAgImVxX2V2ZXIiOiB0cnVlLAogICAgImZvcm11bGEiOiB0cnVlCiAgIH0sCiAgICI4IjogewogICAgIm5lcV9ldmVyIjogdHJ1ZSwKICAgICJlcV9ldmVyIjogdHJ1ZSwKICAgICJmb3JtdWxhIjogdHJ1ZQogICB9LAogICAiMTYiOiB7CiAgICAibmVxX2V2ZXIiOiB0cnVlLAogICAgImVxX2V2ZXIiOiB0cnVlLAogICAgImZvcm11bGEiOiB0cnVlCiAgIH0sCiAgICIzMiI6IHsKICAgICJuZXFfZXZlciI6IHRydWUsCiAgICAiZXFfZXZlciI6IHRydWUsCiAgICAiZm9ybXVsYSI6IHRydWUKICAgfSwKICAgIjEwMDAwMDAwMDAiOiB7CiAgICAibmVxX2V2ZXIiOiBmYWxzZSwKICAgICJlcV9ldmVyIjogdHJ1ZSwKICAgICJmb3JtdWxhIjogZmFsc2UKICAgfQogIH0sCiAgIm5fdHJ1ZSI6IDYsCiAgIm5fZmFsc2UiOiAxLAogICJzYXR1cmFibGUiOiB0cnVlCiB9LAogInBhcmFjb25zaXN0ZW50X0xQIjogewogICJyb3dzIjogWwogICB7CiAgICAiYSI6ICJUIiwKICAgICJiIjogIlQiLAogICAgImVxIjogIlQiLAogICAgImZvcm11bGEiOiAiRiIsCiAgICAiZGVzaWduYXRlZCI6IGZhbHNlCiAgIH0sCiAgIHsKICAgICJhIjogIlQiLAogICAgImIiOiAiRiIsCiAgICAiZXEiOiAiRiIsCiAgICAiZm9ybXVsYSI6ICJGIiwKICAgICJkZXNpZ25hdGVkIjogZmFsc2UKICAgfSwKICAgewogICAgImEiOiAiVCIsCiAgICAiYiI6ICJCIiwKICAgICJlcSI6ICJCIiwKICAgICJmb3JtdWxhIjogIkIiLAogICAgImRlc2lnbmF0ZWQiOiB0cnVlCiAgIH0sCiAgIHsKICAgICJhIjogIkYiLAogICAgImIiOiAiVCIsCiAgICAiZXEiOiAiRiIsCiAgICAiZm9ybXVsYSI6ICJGIiwKICAgICJkZXNpZ25hdGVkIjogZmFsc2UKICAgfSwKICAgewogICAgImEiOiAiRiIsCiAgICAiYiI6ICJGIiwKICAgICJlcSI6ICJGIiwKICAgICJmb3JtdWxhIjogIkYiLAogICAgImRlc2lnbmF0ZWQiOiBmYWxzZQogICB9LAogICB7CiAgICAiYSI6ICJGIiwKICAgICJiIjogIkIiLAogICAgImVxIjogIkIiLAogICAgImZvcm11bGEiOiAiQiIsCiAgICAiZGVzaWduYXRlZCI6IHRydWUKICAgfSwKICAgewogICAgImEiOiAiQiIsCiAgICAiYiI6ICJUIiwKICAgICJlcSI6ICJCIiwKICAgICJmb3JtdWxhIjogIkIiLAogICAgImRlc2lnbmF0ZWQiOiB0cnVlCiAgIH0sCiAgIHsKICAgICJhIjogIkIiLAogICAgImIiOiAiRiIsCiAgICAiZXEiOiAiQiIsCiAgICAiZm9ybXVsYSI6ICJCIiwKICAgICJkZXNpZ25hdGVkIjogdHJ1ZQogICB9LAogICB7CiAgICAiYSI6ICJCIiwKICAgICJiIjogIkIiLAogICAgImVxIjogIkIiLAogICAgImZvcm11bGEiOiAiQiIsCiAgICAiZGVzaWduYXRlZCI6IHRydWUKICAgfQogIF0sCiAgIm5fdHJ1ZSI6IDUsCiAgIm5fZmFsc2UiOiA0LAogICJzYXR1cmFibGUiOiB0cnVlCiB9LAogInJlbGF0aXZlX2lkZW50aXR5IjogewogICJzY2FuIjogewogICAiMSI6IHsKICAgICJzYW1lX3JhdGUiOiAwLjk2ODgsCiAgICAibmVxX2ZpbmUiOiB0cnVlLAogICAgImVxX2NvYXJzZSI6IHRydWUsCiAgICAiZm9ybXVsYSI6IHRydWUKICAgfSwKICAgIjIiOiB7CiAgICAic2FtZV9yYXRlIjogMC44NDM4LAogICAgIm5lcV9maW5lIjogdHJ1ZSwKICAgICJlcV9jb2Fyc2UiOiB0cnVlLAogICAgImZvcm11bGEiOiB0cnVlCiAgIH0sCiAgICIzIjogewogICAgInNhbWVfcmF0ZSI6IDAuODc1LAogICAgIm5lcV9maW5lIjogdHJ1ZSwKICAgICJlcV9jb2Fyc2UiOiB0cnVlLAogICAgImZvcm11bGEiOiB0cnVlCiAgIH0sCiAgICI0IjogewogICAgInNhbWVfcmF0ZSI6IDAuNzAzMSwKICAgICJuZXFfZmluZSI6IHRydWUsCiAgICAiZXFfY29hcnNlIjogdHJ1ZSwKICAgICJmb3JtdWxhIjogdHJ1ZQogICB9LAogICAiNiI6IHsKICAgICJzYW1lX3JhdGUiOiAwLjcwMzEsCiAgICAibmVxX2ZpbmUiOiB0cnVlLAogICAgImVxX2NvYXJzZSI6IHRydWUsCiAgICAiZm9ybXVsYSI6IHRydWUKICAgfSwKICAgIjgiOiB7CiAgICAic2FtZV9yYXRlIjogMC41LAogICAgIm5lcV9maW5lIjogdHJ1ZSwKICAgICJlcV9jb2Fyc2UiOiBmYWxzZSwKICAgICJmb3JtdWxhIjogZmFsc2UKICAgfSwKICAgIjEyIjogewogICAgInNhbWVfcmF0ZSI6IDAuMzQzOCwKICAgICJuZXFfZmluZSI6IHRydWUsCiAgICAiZXFfY29hcnNlIjogZmFsc2UsCiAgICAiZm9ybXVsYSI6IGZhbHNlCiAgIH0sCiAgICIxNiI6IHsKICAgICJzYW1lX3JhdGUiOiAwLjMyODEsCiAgICAibmVxX2ZpbmUiOiB0cnVlLAogICAgImVxX2NvYXJzZSI6IGZhbHNlLAogICAgImZvcm11bGEiOiBmYWxzZQogICB9LAogICAiMjQiOiB7CiAgICAic2FtZV9yYXRlIjogMC4yMzQ0LAogICAgIm5lcV9maW5lIjogdHJ1ZSwKICAgICJlcV9jb2Fyc2UiOiBmYWxzZSwKICAgICJmb3JtdWxhIjogZmFsc2UKICAgfSwKICAgIjMyIjogewogICAgInNhbWVfcmF0ZSI6IDAuMTcxOSwKICAgICJuZXFfZmluZSI6IHRydWUsCiAgICAiZXFfY29hcnNlIjogZmFsc2UsCiAgICAiZm9ybXVsYSI6IGZhbHNlCiAgIH0sCiAgICI0OCI6IHsKICAgICJzYW1lX3JhdGUiOiAwLjA5MzgsCiAgICAibmVxX2ZpbmUiOiB0cnVlLAogICAgImVxX2NvYXJzZSI6IGZhbHNlLAogICAgImZvcm11bGEiOiBmYWxzZQogICB9LAogICAiNjQiOiB7CiAgICAic2FtZV9yYXRlIjogMC4wNzgxLAogICAgIm5lcV9maW5lIjogdHJ1ZSwKICAgICJlcV9jb2Fyc2UiOiBmYWxzZSwKICAgICJmb3JtdWxhIjogZmFsc2UKICAgfSwKICAgIjEyOCI6IHsKICAgICJzYW1lX3JhdGUiOiAwLjA0NjksCiAgICAibmVxX2ZpbmUiOiB0cnVlLAogICAgImVxX2NvYXJzZSI6IGZhbHNlLAogICAgImZvcm11bGEiOiBmYWxzZQogICB9CiAgfSwKICAibl90cnVlIjogNSwKICAibl9mYWxzZSI6IDgsCiAgInNhdHVyYWJsZSI6IHRydWUKIH0sCiAiZmFsc2lmaWFiaWxpdHlfdGFibGUiOiB7CiAgImNsYXNzaWNhbCI6IHsKICAgIm5fdHJ1ZSI6IDAsCiAgICJuX2ZhbHNlIjogNCwKICAgInNhdHVyYWJsZSI6IGZhbHNlCiAgfSwKICAidGVtcG9yYWwiOiB7CiAgICJuX3RydWUiOiA2LAogICAibl9mYWxzZSI6IDEsCiAgICJzYXR1cmFibGUiOiB0cnVlCiAgfSwKICAicGFyYWNvbnNpc3RlbnRfTFAiOiB7CiAgICJuX3RydWUiOiA1LAogICAibl9mYWxzZSI6IDQsCiAgICJzYXR1cmFibGUiOiB0cnVlCiAgfSwKICAicmVsYXRpdmVfaWRlbnRpdHkiOiB7CiAgICJuX3RydWUiOiA1LAogICAibl9mYWxzZSI6IDgsCiAgICJzYXR1cmFibGUiOiB0cnVlCiAgfQogfSwKICJkeW5hbWljcyI6IHsKICAic2NhbiI6IFsKICAgewogICAgImsiOiAwLjAsCiAgICAiZmluYWxfZ2FwIjogMC41LAogICAgImNvbnZlcmdlZCI6IGZhbHNlLAogICAgImZsaXBzIjogMCwKICAgICJtYXhfYWJzIjogMC4wCiAgIH0sCiAgIHsKICAgICJrIjogMC4wNSwKICAgICJmaW5hbF9nYXAiOiAxLjc1MjYzMzMxMjQzNTEzNjhlLTA1LAogICAgImNvbnZlcmdlZCI6IHRydWUsCiAgICAiZmxpcHMiOiAwLAogICAgIm1heF9hYnMiOiAwLjQ5OTk4MjQ3MzY2Njg3NTY1CiAgIH0sCiAgIHsKICAgICJrIjogMC4xLAogICAgImZpbmFsX2dhcCI6IDMuNTI3NTM5MzcxNzE3MTI1NWUtMTAsCiAgICAiY29udmVyZ2VkIjogdHJ1ZSwKICAgICJmbGlwcyI6IDAsCiAgICAibWF4X2FicyI6IDAuNDk5OTk5OTk5NjQ3MjQ2MDYKICAgfSwKICAgewogICAgImsiOiAwLjMsCiAgICAiZmluYWxfZ2FwIjogNS41NTExMTUxMjMxMjU3ODNlLTE3LAogICAgImNvbnZlcmdlZCI6IHRydWUsCiAgICAiZmxpcHMiOiAwLAogICAgIm1heF9hYnMiOiAwLjQ5OTk5OTk5OTk5OTk5OTk0CiAgIH0sCiAgIHsKICAgICJrIjogMC41LAogICAgImZpbmFsX2dhcCI6IDAuMCwKICAgICJjb252ZXJnZWQiOiB0cnVlLAogICAgImZsaXBzIjogMCwKICAgICJtYXhfYWJzIjogMC41CiAgIH0sCiAgIHsKICAgICJrIjogMS4wLAogICAgImZpbmFsX2dhcCI6IDAuMCwKICAgICJjb252ZXJnZWQiOiB0cnVlLAogICAgImZsaXBzIjogMCwKICAgICJtYXhfYWJzIjogMC41CiAgIH0sCiAgIHsKICAgICJrIjogMS41LAogICAgImZpbmFsX2dhcCI6IDAuMCwKICAgICJjb252ZXJnZWQiOiB0cnVlLAogICAgImZsaXBzIjogNTEsCiAgICAibWF4X2FicyI6IDAuNzUKICAgfSwKICAgewogICAgImsiOiAxLjgsCiAgICAiZmluYWxfZ2FwIjogMS4xMTAyMjMwMjQ2MjUxNTY1ZS0xNiwKICAgICJjb252ZXJnZWQiOiB0cnVlLAogICAgImZsaXBzIjogMTk5LAogICAgIm1heF9hYnMiOiAwLjkKICAgfSwKICAgewogICAgImsiOiAyLjAsCiAgICAiZmluYWxfZ2FwIjogMC41LAogICAgImNvbnZlcmdlZCI6IGZhbHNlLAogICAgImZsaXBzIjogMTk5LAogICAgIm1heF9hYnMiOiAxLjAKICAgfSwKICAgewogICAgImsiOiAyLjUsCiAgICAiZmluYWxfZ2FwIjogOC4yNjQ1OTk1NTM5NDEwMzdlKzM0LAogICAgImNvbnZlcmdlZCI6IGZhbHNlLAogICAgImZsaXBzIjogMTk5LAogICAgIm1heF9hYnMiOiA4LjI2NDU5OTU1Mzk0MTAzN2UrMzQKICAgfQogIF0sCiAgImswX3N0dWNrIjogdHJ1ZSwKICAiazFfb25lc3RlcCI6IHRydWUsCiAgImRpdmVyZ2VudCI6IFsKICAgMi41CiAgXQogfQp9
+{
+ "classical": {
+  "rows": [
+   {
+    "a": 0,
+    "b": 0,
+    "neq": 0,
+    "eq": 1,
+    "formula": 0
+   },
+   {
+    "a": 0,
+    "b": 1,
+    "neq": 1,
+    "eq": 0,
+    "formula": 0
+   },
+   {
+    "a": 1,
+    "b": 0,
+    "neq": 1,
+    "eq": 0,
+    "formula": 0
+   },
+   {
+    "a": 1,
+    "b": 1,
+    "neq": 0,
+    "eq": 1,
+    "formula": 0
+   }
+  ],
+  "verdict": "永假式（P↔¬P）",
+  "n_true": 0,
+  "n_false": 4,
+  "saturable": false
+ },
+ "temporal": {
+  "scan": {
+   "1": {
+    "neq_ever": true,
+    "eq_ever": true,
+    "formula": true
+   },
+   "2": {
+    "neq_ever": true,
+    "eq_ever": true,
+    "formula": true
+   },
+   "4": {
+    "neq_ever": true,
+    "eq_ever": true,
+    "formula": true
+   },
+   "8": {
+    "neq_ever": true,
+    "eq_ever": true,
+    "formula": true
+   },
+   "16": {
+    "neq_ever": true,
+    "eq_ever": true,
+    "formula": true
+   },
+   "32": {
+    "neq_ever": true,
+    "eq_ever": true,
+    "formula": true
+   },
+   "1000000000": {
+    "neq_ever": false,
+    "eq_ever": true,
+    "formula": false
+   }
+  },
+  "n_true": 6,
+  "n_false": 1,
+  "saturable": true
+ },
+ "paraconsistent_LP": {
+  "rows": [
+   {
+    "a": "T",
+    "b": "T",
+    "eq": "T",
+    "formula": "F",
+    "designated": false
+   },
+   {
+    "a": "T",
+    "b": "F",
+    "eq": "F",
+    "formula": "F",
+    "designated": false
+   },
+   {
+    "a": "T",
+    "b": "B",
+    "eq": "B",
+    "formula": "B",
+    "designated": true
+   },
+   {
+    "a": "F",
+    "b": "T",
+    "eq": "F",
+    "formula": "F",
+    "designated": false
+   },
+   {
+    "a": "F",
+    "b": "F",
+    "eq": "F",
+    "formula": "F",
+    "designated": false
+   },
+   {
+    "a": "F",
+    "b": "B",
+    "eq": "B",
+    "formula": "B",
+    "designated": true
+   },
+   {
+    "a": "B",
+    "b": "T",
+    "eq": "B",
+    "formula": "B",
+    "designated": true
+   },
+   {
+    "a": "B",
+    "b": "F",
+    "eq": "B",
+    "formula": "B",
+    "designated": true
+   },
+   {
+    "a": "B",
+    "b": "B",
+    "eq": "B",
+    "formula": "B",
+    "designated": true
+   }
+  ],
+  "n_true": 5,
+  "n_false": 4,
+  "saturable": true
+ },
+ "relative_identity": {
+  "scan": {
+   "1": {
+    "same_rate": 0.9688,
+    "neq_fine": true,
+    "eq_coarse": true,
+    "formula": true
+   },
+   "2": {
+    "same_rate": 0.8438,
+    "neq_fine": true,
+    "eq_coarse": true,
+    "formula": true
+   },
+   "3": {
+    "same_rate": 0.875,
+    "neq_fine": true,
+    "eq_coarse": true,
+    "formula": true
+   },
+   "4": {
+    "same_rate": 0.7031,
+    "neq_fine": true,
+    "eq_coarse": true,
+    "formula": true
+   },
+   "6": {
+    "same_rate": 0.7031,
+    "neq_fine": true,
+    "eq_coarse": true,
+    "formula": true
+   },
+   "8": {
+    "same_rate": 0.5,
+    "neq_fine": true,
+    "eq_coarse": false,
+    "formula": false
+   },
+   "12": {
+    "same_rate": 0.3438,
+    "neq_fine": true,
+    "eq_coarse": false,
+    "formula": false
+   },
+   "16": {
+    "same_rate": 0.3281,
+    "neq_fine": true,
+    "eq_coarse": false,
+    "formula": false
+   },
+   "24": {
+    "same_rate": 0.2344,
+    "neq_fine": true,
+    "eq_coarse": false,
+    "formula": false
+   },
+   "32": {
+    "same_rate": 0.1719,
+    "neq_fine": true,
+    "eq_coarse": false,
+    "formula": false
+   },
+   "48": {
+    "same_rate": 0.0938,
+    "neq_fine": true,
+    "eq_coarse": false,
+    "formula": false
+   },
+   "64": {
+    "same_rate": 0.0781,
+    "neq_fine": true,
+    "eq_coarse": false,
+    "formula": false
+   },
+   "128": {
+    "same_rate": 0.0469,
+    "neq_fine": true,
+    "eq_coarse": false,
+    "formula": false
+   }
+  },
+  "n_true": 5,
+  "n_false": 8,
+  "saturable": true
+ },
+ "falsifiability_table": {
+  "classical": {
+   "n_true": 0,
+   "n_false": 4,
+   "saturable": false
+  },
+  "temporal": {
+   "n_true": 6,
+   "n_false": 1,
+   "saturable": true
+  },
+  "paraconsistent_LP": {
+   "n_true": 5,
+   "n_false": 4,
+   "saturable": true
+  },
+  "relative_identity": {
+   "n_true": 5,
+   "n_false": 8,
+   "saturable": true
+  }
+ },
+ "dynamics": {
+  "scan": [
+   {
+    "k": 0.0,
+    "final_gap": 0.5,
+    "converged": false,
+    "flips": 0,
+    "max_abs": 0.0
+   },
+   {
+    "k": 0.05,
+    "final_gap": 1.7526333124351368e-05,
+    "converged": true,
+    "flips": 0,
+    "max_abs": 0.49998247366687565
+   },
+   {
+    "k": 0.1,
+    "final_gap": 3.5275393717171255e-10,
+    "converged": true,
+    "flips": 0,
+    "max_abs": 0.49999999964724606
+   },
+   {
+    "k": 0.3,
+    "final_gap": 5.551115123125783e-17,
+    "converged": true,
+    "flips": 0,
+    "max_abs": 0.49999999999999994
+   },
+   {
+    "k": 0.5,
+    "final_gap": 0.0,
+    "converged": true,
+    "flips": 0,
+    "max_abs": 0.5
+   },
+   {
+    "k": 1.0,
+    "final_gap": 0.0,
+    "converged": true,
+    "flips": 0,
+    "max_abs": 0.5
+   },
+   {
+    "k": 1.5,
+    "final_gap": 0.0,
+    "converged": true,
+    "flips": 51,
+    "max_abs": 0.75
+   },
+   {
+    "k": 1.8,
+    "final_gap": 1.1102230246251565e-16,
+    "converged": true,
+    "flips": 199,
+    "max_abs": 0.9
+   },
+   {
+    "k": 2.0,
+    "final_gap": 0.5,
+    "converged": false,
+    "flips": 199,
+    "max_abs": 1.0
+   },
+   {
+    "k": 2.5,
+    "final_gap": 8.264599553941037e+34,
+    "converged": false,
+    "flips": 199,
+    "max_abs": 8.264599553941037e+34
+   }
+  ],
+  "k0_stuck": true,
+  "k1_onestep": true,
+  "divergent": [
+   2.5
+  ]
+ }
+}

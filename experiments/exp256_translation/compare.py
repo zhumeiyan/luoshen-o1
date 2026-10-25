@@ -1,1 +1,166 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjI1NiDCtyDpgJrpgZMgQe+8iOebtOeUqOa6kOivreiogO+8iSB2cyDpgJrpgZMgQu+8iOe7j+ivkeacrO+8iQror63mlpnvvJpUQUNUIDI5IOadoeecn+WunuagoeWHhuahiOS+i++8iGNhbGlicmF0aW9uX2Nhc2VzLmpzb24gdjEuMi4x77yM5bimIGdvbGRlbiDlnZDmoIfvvIkKIiIiCmltcG9ydCBqc29uLCBtYXRoLCByZSwgcmFuZG9tLCBoYXNobGliCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKCkNEPWpzb24ubG9hZChvcGVuKCJjb29yZGluYXRlX2RhdGEuanNvbiIpKTsgQ0M9anNvbi5sb2FkKG9wZW4oImNhbGlicmF0aW9uX2Nhc2VzLmpzb24iKSkKU1A9anNvbi5sb2FkKG9wZW4oInNwZWNfdjEuanNvbiIpKQpDQVNFUz1DQ1siY2FzZXMiXQpwcmludChmIuagoeWHhuahiOS+izoge2xlbihDQVNFUyl9IOadoSAoY2FsaWJyYXRpb25fdmVyc2lvbiB7Q0NbJ2NhbGlicmF0aW9uX3ZlcnNpb24nXX0pIikKCmRlZiBmbGF0KCk6CiAgICBvdXQ9W10KICAgIGZvciBjIGluIENELmdldCgiTCIsW10pOiBvdXQuYXBwZW5kKChjWyJjb2RlIl0sY1sibmFtZSJdLGNbImNyaXRlcmlvbiJdLCJMIikpCiAgICBmb3IgZyBpbiBDRC5nZXQoIk1fZ3JvdXBzIixbXSk6CiAgICAgICAgZm9yIG8gaW4gZy5nZXQoIm9wdHMiLFtdKTogb3V0LmFwcGVuZCgob1siY29kZSJdLG9bIm5hbWUiXSxvLmdldCgiY3JpdGVyaW9uIikgb3IgZy5nZXQoImNyaXRlcmlvbiIsIiIpLCJNIikpCiAgICBmb3IgZyBpbiBDRC5nZXQoIlBfZ3JvdXBzIixbXSk6CiAgICAgICAgZm9yIG8gaW4gZy5nZXQoIm9wdHMiLFtdKTogb3V0LmFwcGVuZCgob1siY29kZSJdLG9bIm5hbWUiXSxvLmdldCgiY3JpdGVyaW9uIikgb3IgZy5nZXQoImNyaXRlcmlvbiIsIiIpLCJQIikpCiAgICByZXR1cm4gb3V0CkNPUkQ9ZmxhdCgpCgpTVE9QPXNldCgi55qEIOS6hiDmmK8g5ZyoIOS4jiDlkowg5oiWIOWvuSDkuo4g55SxIOiiqyDmioog6ICMIOS4lCDkuI0g5pyJIOaXoCDov5kg6YKjIOWFtiDkuYsg5Li6IOS7pSDlj4og562JIOS4rSDkuKog5LiAIOS6jCDkuIkg5LiKIOS4iyDlhoUg5aSWIOWQjiDliY0g5pe2IOS8miDog70g5Y+vIOimgSDlsLEg6YO9IOS5nyDov5gg5L2GIOWImSDoi6Ug5aaCIOS9vyDorqkg5LuOIOWIsCDov4cg5omAIOivpSDmnKwg57G7IOenjSDmm7Qg5pyAIOW+iCDpnZ4g5pyqIOW5tiDljbMg5oyHIi5zcGxpdCgpKQpkZWYgdG9rcyhzKToKICAgIHM9cmUuc3ViKHIiW15cdTRlMDAtXHU5ZmZmQS1aYS16MC05XSsiLCIgIixzIG9yICIiKS5yZXBsYWNlKCIgIiwiIikKICAgIHJldHVybiBbc1tpOmkrMl0gZm9yIGkgaW4gcmFuZ2UobGVuKHMpLTEpIGlmIHNbaV0gbm90IGluIFNUT1AgYW5kIHNbaSsxXSBub3QgaW4gU1RPUF0gb3IgbGlzdChzKQoKZGVmIHZlYyh0ayx3PU5vbmUpOgogICAgYz1Db3VudGVyKHRrKQogICAgaWYgdzogcmV0dXJuIHt0OncuZ2V0KHQsMS4wKSpjW3RdIGZvciB0IGluIGN9CiAgICByZXR1cm4gZGljdChjKQpkZWYgY29zKGEsYik6CiAgICBpZiBub3QgYSBvciBub3QgYjogcmV0dXJuIDAuMAogICAgbj1zdW0odip2IGZvciB2IGluIGEudmFsdWVzKCkpKiowLjUgKiBzdW0odip2IGZvciB2IGluIGIudmFsdWVzKCkpKiowLjUKICAgIGlmIG49PTA6IHJldHVybiAwLjAKICAgIGludGVyPXNldChhKSZzZXQoYikKICAgIHJldHVybiBzdW0oYVt0XSpiW3RdIGZvciB0IGluIGludGVyKS9uCgojIGlkZiBvdmVyIGNyaXRlcmlvbiBjb3JwdXMgKOmAmumBkyBBIOavj+asoSLph43mlrDor7vljp/mlociKQpkb2NzPXtjWzBdOnRva3MoKGNbMV0gb3IgIiIpKyIgIisoY1syXSBvciAiIikpIGZvciBjIGluIENPUkR9Ck49bGVuKGRvY3MpOyBkZj1Db3VudGVyKCkKZm9yIHQgaW4gZG9jcy52YWx1ZXMoKTogZGYudXBkYXRlKHNldCh0KSkKSURGPXt0Om1hdGgubG9nKChOKzEpLyhkZi5nZXQodCwwKSswLjUpKSBmb3IgdCBpbiBkZn0KCmRlZiBBX21hdGNoKHBoZW4sIGNvcmQ9Q09SRCk6CiAgICAiIiLpgJrpgZMgQe+8muavj+asoemHjeaWsOivu+WIpOaNruWOn+aWh++8jOaooeeziuivreS5ieWMuemFjSIiIgogICAgcT12ZWModG9rcyhwaGVuKSkKICAgIGJlc3Q9Tm9uZTticz0tMQogICAgZm9yIGNvZGUsbmFtZSxjcml0LGF4IGluIGNvcmQ6CiAgICAgICAgZD12ZWModG9rcygobmFtZSBvciAiIikrIiAiKyhjcml0IG9yICIiKSksSURGKQogICAgICAgIHM9Y29zKHEsZCkKICAgICAgICBpZiBzPmJzOiBicz1zO2Jlc3Q9Y29kZQogICAgcmV0dXJuIGJlc3QKCmRlZiBCX21hdGNoKHBoZW4sIHNwZWM9U1BbInNwZWMiXSk6CiAgICAiIiLpgJrpgZMgQu+8mueUqOWGu+e7k+ivkeacrO+8jOehruWumuaAp+WMuemFjSIiIgogICAgcT12ZWModG9rcyhwaGVuKSkKICAgIGJlc3Q9Tm9uZTticz0tMQogICAgZm9yIGNvZGUscyBpbiBzcGVjLml0ZW1zKCk6CiAgICAgICAgdz17Zjp3dCBmb3IgZix3dCBpbiB6aXAoc1siZmVhdHVyZXMiXSxzWyJ3ZWlnaHRzIl0pfQogICAgICAgIGQ9dmVjKHNbImZlYXR1cmVzIl0sdykKICAgICAgICBzYz1jb3MocSxkKQogICAgICAgIGlmIHNjPmJzOiBicz1zYztiZXN0PWNvZGUKICAgIHJldHVybiBiZXN0CgpkZWYgZ29sZGVucyhjKToKICAgIGc9Y1siZ29sZGVuIl07IG91dD1bXQogICAgZm9yIGsgaW4gKCJMIiwiTSIsIlAiKToKICAgICAgICBmb3IgdiBpbiAoZy5nZXQoaykgb3IgW10pOiBvdXQuYXBwZW5kKHYpCiAgICByZXR1cm4gb3V0CgpwcmludCgpCnByaW50KCI9Iio4MCk7IHByaW50KCLlrp7pqozkuIAgwrcg5YeG56Gu546H77yIMjkg5p2h55yf5a6e5qGI5L6L77yMdG9wMSAvIHRvcDPvvIkiKTsgcHJpbnQoIj0iKjgwKQpkZWYgYWNjKGZuLHRvcGs9MSk6CiAgICBoaXQ9MAogICAgZm9yIGMgaW4gQ0FTRVM6CiAgICAgICAgcGg9Y1sicGhlbm9tZW5vbiJdOyBnPXNldChnb2xkZW5zKGMpKQogICAgICAgIGlmIHRvcGs9PTE6CiAgICAgICAgICAgIGhpdCArPSAxIGlmIGZuKHBoKSBpbiBnIGVsc2UgMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgdG9wMwogICAgICAgICAgICBxPXZlYyh0b2tzKHBoKSk7IHNjPVtdCiAgICAgICAgICAgIHNyYyA9IFsoeFswXSwgdmVjKHRva3MoKHhbMV0gb3IgIiIpKyIgIisoeFsyXSBvciAiIikpLElERikpIGZvciB4IGluIENPUkRdIGlmIGZuIGlzIEFfbWF0Y2ggZWxzZSBcCiAgICAgICAgICAgICAgICAgIFsoaywgdmVjKHZbImZlYXR1cmVzIl0se2Y6dyBmb3IgZix3IGluIHppcCh2WyJmZWF0dXJlcyJdLHZbIndlaWdodHMiXSl9KSkgZm9yIGssdiBpbiBTUFsic3BlYyJdLml0ZW1zKCldCiAgICAgICAgICAgIGZvciBjb2RlLGQgaW4gc3JjOiBzYy5hcHBlbmQoKGNvcyhxLGQpLGNvZGUpKQogICAgICAgICAgICBzYy5zb3J0KHJldmVyc2U9VHJ1ZSkKICAgICAgICAgICAgaGl0ICs9IDEgaWYgYW55KHNbMV0gaW4gZyBmb3IgcyBpbiBzY1s6dG9wa10pIGVsc2UgMAogICAgcmV0dXJuIGhpdC9sZW4oQ0FTRVMpCmExPWFjYyhBX21hdGNoLDEpOyBiMT1hY2MoQl9tYXRjaCwxKTsgYTM9YWNjKEFfbWF0Y2gsMyk7IGIzPWFjYyhCX21hdGNoLDMpCnByaW50KGYieycnOjwxNn17J3RvcDEnOj4xMH17J3RvcDMnOj4xMH0iKQpwcmludChmInsnQSDnm7TnlKjmupDor63oqIAnOjwxNn17YTE6PjEwLjNmfXthMzo+MTAuM2Z9IikKcHJpbnQoZiJ7J0Ig57uP6K+R5pysJzo8MTZ9e2IxOj4xMC4zZn17YjM6PjEwLjNmfSIpCnByaW50KGYieyflt64nOjwxNn17YjEtYTE6PisxMC4zZn17YjMtYTM6PisxMC4zZn0iKQoKcHJpbnQoKQpwcmludCgiPSIqODApOyBwcmludCgi5a6e6aqM5LqMIMK3IOeos+WumuaAp++8muWuv+S4u+ivreiogOS8muWPmO+8jOS4pOS4qumAmumBk+WQhOiHquaAjuS5iOWPjeW6lCIpOyBwcmludCgiPSIqODApClNZTj17IumUmeivryI6IuWkseivryIsIuezu+e7nyI6IuS9k+ezuyIsIueUn+aIkCI6IuS6p+WHuiIsIuaVsOaNriI6IuS/oeaBryIsIuaooeWeiyI6Iuaooee7hCIsIuWIpOaWrSI6IuWIpOWumiIsCiAgICAgIuWksei0pSI6IuWkseaViCIsIueUqOaItyI6IuS9v+eUqOiAhSIsIue7k+aenCI6Iui+k+WHuiIsIui/h+eoiyI6Iua1geeoiyIsIuS/oeaBryI6Iui1hOaWmSIsIui+k+WFpSI6IuW9leWFpSIsCiAgICAgIui+k+WHuiI6IuS6p+WHuiIsIueOr+WigyI6IuaDheWigyIsIuaOpeWPoyI6IuS7i+mdoiIsIuWNj+S9nCI6IuWNj+WQjCIsIueOr+iKgiI6IuatpemqpCIsIuWGheWuuSI6IuWGhea2tSJ9CmRlZiBkcmlmdCh0ZXh0LGZyYWMscm5nKToKICAgICIiIuaooeaLn+Wuv+S4u+ivreiogOa8lOWMlu+8muWQjOS5ieabv+aNoiIiIgogICAgb3V0PXRleHQKICAgIGZvciBrLHYgaW4gU1lOLml0ZW1zKCk6CiAgICAgICAgaWYgcm5nLnJhbmRvbSgpPGZyYWM6IG91dD1vdXQucmVwbGFjZShrLHYpCiAgICByZXR1cm4gb3V0CmRlZiBub2lzZSh0ZXh0LGZyYWMscm5nKToKICAgICIiIuWKoOWPo+ivreWZquWjsCIiIgogICAgcGFkPVsi5YW25a6eIiwi6K+055m95LqGIiwi5p+Q56eN56iL5bqm5LiKIiwi5L2g55yLIiwi6L+Z5Liq5LqL5oOFIiwi5Lil5qC86K6yIiwi5aSn6Ie05LiKIl0KICAgIGlmIHJuZy5yYW5kb20oKTxmcmFjOiAKICAgICAgICBpPXJuZy5yYW5kaW50KDAsbWF4KGxlbih0ZXh0KS0xLDApKTsgcmV0dXJuIHRleHRbOmldK3JuZy5jaG9pY2UocGFkKSt0ZXh0W2k6XQogICAgcmV0dXJuIHRleHQKCnByaW50KCIgQSDpgJrpgZPvvJrliKTmja7ljp/mlofooqvmlLnlhpkg4oaSIOWug+avj+asoemHjeaWsOivu++8jOe7k+aenOi3n+edgOa8giIpCnByaW50KCIgQiDpgJrpgZPvvJror5HmnKzlt7Llhrvnu5Mg4oaSIOWIpOaNruWOn+aWh+aAjuS5iOaUue+8jOWug+eahOi+k+WHuumDveS4jeWKqFxuIikKcHJpbnQoZiJ7J+aUueWGmeavlOS+iyc6Pjl9eydB5ZG95LitJzo+OX17J0Hnu5Pmnpzlj5jljJbnjocnOj4xM317J0Llkb3kuK0nOj45fXsnQue7k+aenOWPmOWMlueOhyc6PjEzfSIpCnJvd3NBPVtdCmZvciBmcmFjIGluIFswLjAsMC4yLDAuNCwwLjYsMC44LDEuMF06CiAgICBjaGc9W107aGl0cz0wCiAgICBmb3Igc2VlZCBpbiByYW5nZSg2KToKICAgICAgICBybmc9cmFuZG9tLlJhbmRvbShzZWVkKQogICAgICAgIGNvcmQyPVsoY1swXSxjWzFdLGRyaWZ0KGNbMl0gb3IgIiIsZnJhYyxybmcpLGNbM10pIGZvciBjIGluIENPUkRdCiAgICAgICAgYmFzZT1bQV9tYXRjaChjWyJwaGVub21lbm9uIl0pIGZvciBjIGluIENBU0VTXQogICAgICAgIGN1ciA9W0FfbWF0Y2goY1sicGhlbm9tZW5vbiJdLGNvcmQyKSBmb3IgYyBpbiBDQVNFU10KICAgICAgICBjaGcuYXBwZW5kKHN1bSgxIGZvciB4LHkgaW4gemlwKGJhc2UsY3VyKSBpZiB4IT15KS9sZW4oQ0FTRVMpKQogICAgICAgIGhpdHMrPSBzdW0oMSBmb3IgYyx5IGluIHppcChDQVNFUyxjdXIpIGlmIHkgaW4gc2V0KGdvbGRlbnMoYykpKS9sZW4oQ0FTRVMpCiAgICAjIEI6IHNwZWMg5Ya757uT77yM5Yik5o2u5pS55LqG5Lmf5LiN6YeN57yW6K+RCiAgICBjaGdCPVtdO2hpdHNCPTAKICAgIGZvciBzZWVkIGluIHJhbmdlKDYpOgogICAgICAgIHJuZz1yYW5kb20uUmFuZG9tKHNlZWQpCiAgICAgICAgXz1bKGNbMF0sY1sxXSxkcmlmdChjWzJdIG9yICIiLGZyYWMscm5nKSxjWzNdKSBmb3IgYyBpbiBDT1JEXSAgICMg5rqQ6K+t6KiA5Y+Y5LqG77yM5L2G6K+R5pys5LiN6YeN57yWCiAgICAgICAgY3VyPVtCX21hdGNoKGNbInBoZW5vbWVub24iXSkgZm9yIGMgaW4gQ0FTRVNdCiAgICAgICAgYmFzZT1bQl9tYXRjaChjWyJwaGVub21lbm9uIl0pIGZvciBjIGluIENBU0VTXQogICAgICAgIGNoZ0IuYXBwZW5kKHN1bSgxIGZvciB4LHkgaW4gemlwKGJhc2UsY3VyKSBpZiB4IT15KS9sZW4oQ0FTRVMpKQogICAgICAgIGhpdHNCKz1zdW0oMSBmb3IgYyx5IGluIHppcChDQVNFUyxjdXIpIGlmIHkgaW4gc2V0KGdvbGRlbnMoYykpKS9sZW4oQ0FTRVMpCiAgICBwcmludChmIntmcmFjOj45LjFmfXtoaXRzLzY6PjkuM2Z9e3N1bShjaGcpLzY6PjEzLjNmfXtoaXRzQi82Oj45LjNmfXtzdW0oY2hnQikvNjo+MTMuM2Z9IikKICAgIHJvd3NBLmFwcGVuZCgoZnJhYyxoaXRzLzYsc3VtKGNoZykvNixoaXRzQi82LHN1bShjaGdCKS82KSkKCnByaW50KCkKcHJpbnQoIj0iKjgwKTsgcHJpbnQoIuWunumqjOS4iSDCtyDlhbPplK7vvJror5HmnKzorqkn5Y+Y5YyWJ+WPr+inge+8iOWTiOW4jO+8iSIpOyBwcmludCgiPSIqODApCmRlZiBzcGVjX3NoYShjb3JkKToKICAgICIiIumHjeaWsOe8luivkSDihpIg5ZOI5biMIiIiCiAgICBkb2NzMj17Y1swXTp0b2tzKChjWzFdIG9yICIiKSsiICIrKGNbMl0gb3IgIiIpKSBmb3IgYyBpbiBjb3JkfQogICAgZGYyPUNvdW50ZXIoKQogICAgZm9yIHQgaW4gZG9jczIudmFsdWVzKCk6IGRmMi51cGRhdGUoc2V0KHQpKQogICAgaWRmMj17dDptYXRoLmxvZygoTisxKS8oZGYyLmdldCh0LDApKzAuNSkpIGZvciB0IGluIGRmMn0KICAgIHNwPXt9CiAgICBmb3IgY29kZSx0ayBpbiBkb2NzMi5pdGVtcygpOgogICAgICAgIHRmPUNvdW50ZXIodGspOyBzYz17dDooMSttYXRoLmxvZyhmKSkqaWRmMlt0XSBmb3IgdCxmIGluIHRmLml0ZW1zKCl9CiAgICAgICAgdG9wPXNvcnRlZChzYy5pdGVtcygpLGtleT1sYW1iZGEgeDoteFsxXSlbOjEyXQogICAgICAgIHNwW2NvZGVdPWRpY3QoY29kZT1jb2RlLGZlYXR1cmVzPVt0IGZvciB0LF8gaW4gdG9wXSx3ZWlnaHRzPVtyb3VuZCh3LDQpIGZvciBfLHcgaW4gdG9wXSkKICAgIHJldHVybiBoYXNobGliLnNoYTI1Nihqc29uLmR1bXBzKHNwLGVuc3VyZV9hc2NpaT1GYWxzZSxzb3J0X2tleXM9VHJ1ZSkuZW5jb2RlKCkpLmhleGRpZ2VzdCgpCnJuZz1yYW5kb20uUmFuZG9tKDApCmJhc2Vfc2hhPXNwZWNfc2hhKENPUkQpCnByaW50KGYiICDljp/lp4vliKTmja7nvJbor5Hlh7rnmoTor5HmnKwgc2hhIDoge2Jhc2Vfc2hhWzoyNF19Li4uIikKcHJpbnQoZiJ7J+aUueWGmeavlOS+iyc6Pjl9eyfph43nvJbor5HlkI7or5HmnKwgc2hhJzo+MjZ9eyfkuI7ljp/or5HmnKzkuIDoh7Q/Jzo+MTV9IikKZm9yIGZyYWMgaW4gWzAuMCwwLjEsMC4zLDAuNSwxLjBdOgogICAgcj1yYW5kb20uUmFuZG9tKGZyYWMpCiAgICBjb3JkMj1bKGNbMF0sY1sxXSxkcmlmdChjWzJdIG9yICIiLGZyYWMsciksY1szXSkgZm9yIGMgaW4gQ09SRF0KICAgIHMyPXNwZWNfc2hhKGNvcmQyKQogICAgcHJpbnQoZiJ7ZnJhYzo+OS4xZn17czJbOjI0XTo+MjZ9eyfmmK8nIGlmIHMyPT1iYXNlX3NoYSBlbHNlICflkKYg4oaQIOWPmOS6hu+8jOS4lOeci+W+l+ingSc6PjE1fSIpCnByaW50KCkKcHJpbnQoIiAg4oaSIOebtOeUqOa6kOivreiogO+8mua8guenu+aYryoq6Z2Z6buYKirnmoTvvIjkvaDkuI3nn6XpgZPoh6rlt7HliKTlvpfot5/kuIrmrKHkuI3kuIDmoLfvvIkiKQpwcmludCgiICAgIOe7j+ivkeacrCAgICDvvJrmvILnp7vmmK8qKuaYvuW8jyoq55qE77yI6YeN57yW6K+R5ZOI5biM5bCx5Y+Y77yM5L2g6IO955yL6KeB77yM6IO95Yaz5a6a6KaB5LiN6KaB6Lef6L+b77yJIikKCmpzb24uZHVtcCh7ImFjYyI6eyJBMSI6YTEsIkEzIjphMywiQjEiOmIxLCJCMyI6YjN9LCJyb3dzQSI6cm93c0F9LG9wZW4oImNvbXBhcmVfb3V0Lmpzb24iLCJ3IiksZW5zdXJlX2FzY2lpPUZhbHNlKQo=
+# -*- coding: utf-8 -*-
+"""
+256 · 通道 A（直用源语言） vs 通道 B（经译本）
+语料：TACT 29 条真实校准案例（calibration_cases.json v1.2.1，带 golden 坐标）
+"""
+import json, math, re, random, hashlib
+from collections import Counter
+
+CD=json.load(open("coordinate_data.json")); CC=json.load(open("calibration_cases.json"))
+SP=json.load(open("spec_v1.json"))
+CASES=CC["cases"]
+print(f"校准案例: {len(CASES)} 条 (calibration_version {CC['calibration_version']})")
+
+def flat():
+    out=[]
+    for c in CD.get("L",[]): out.append((c["code"],c["name"],c["criterion"],"L"))
+    for g in CD.get("M_groups",[]):
+        for o in g.get("opts",[]): out.append((o["code"],o["name"],o.get("criterion") or g.get("criterion",""),"M"))
+    for g in CD.get("P_groups",[]):
+        for o in g.get("opts",[]): out.append((o["code"],o["name"],o.get("criterion") or g.get("criterion",""),"P"))
+    return out
+CORD=flat()
+
+STOP=set("的 了 是 在 与 和 或 对 于 由 被 把 而 且 不 有 无 这 那 其 之 为 以 及 等 中 个 一 二 三 上 下 内 外 后 前 时 会 能 可 要 就 都 也 还 但 则 若 如 使 让 从 到 过 所 该 本 类 种 更 最 很 非 未 并 即 指".split())
+def toks(s):
+    s=re.sub(r"[^\u4e00-\u9fffA-Za-z0-9]+"," ",s or "").replace(" ","")
+    return [s[i:i+2] for i in range(len(s)-1) if s[i] not in STOP and s[i+1] not in STOP] or list(s)
+
+def vec(tk,w=None):
+    c=Counter(tk)
+    if w: return {t:w.get(t,1.0)*c[t] for t in c}
+    return dict(c)
+def cos(a,b):
+    if not a or not b: return 0.0
+    n=sum(v*v for v in a.values())**0.5 * sum(v*v for v in b.values())**0.5
+    if n==0: return 0.0
+    inter=set(a)&set(b)
+    return sum(a[t]*b[t] for t in inter)/n
+
+# idf over criterion corpus (通道 A 每次"重新读原文")
+docs={c[0]:toks((c[1] or "")+" "+(c[2] or "")) for c in CORD}
+N=len(docs); df=Counter()
+for t in docs.values(): df.update(set(t))
+IDF={t:math.log((N+1)/(df.get(t,0)+0.5)) for t in df}
+
+def A_match(phen, cord=CORD):
+    """通道 A：每次重新读判据原文，模糊语义匹配"""
+    q=vec(toks(phen))
+    best=None;bs=-1
+    for code,name,crit,ax in cord:
+        d=vec(toks((name or "")+" "+(crit or "")),IDF)
+        s=cos(q,d)
+        if s>bs: bs=s;best=code
+    return best
+
+def B_match(phen, spec=SP["spec"]):
+    """通道 B：用冻结译本，确定性匹配"""
+    q=vec(toks(phen))
+    best=None;bs=-1
+    for code,s in spec.items():
+        w={f:wt for f,wt in zip(s["features"],s["weights"])}
+        d=vec(s["features"],w)
+        sc=cos(q,d)
+        if sc>bs: bs=sc;best=code
+    return best
+
+def goldens(c):
+    g=c["golden"]; out=[]
+    for k in ("L","M","P"):
+        for v in (g.get(k) or []): out.append(v)
+    return out
+
+print()
+print("="*80); print("实验一 · 准确率（29 条真实案例，top1 / top3）"); print("="*80)
+def acc(fn,topk=1):
+    hit=0
+    for c in CASES:
+        ph=c["phenomenon"]; g=set(goldens(c))
+        if topk==1:
+            hit += 1 if fn(ph) in g else 0
+        else:
+            # top3
+            q=vec(toks(ph)); sc=[]
+            src = [(x[0], vec(toks((x[1] or "")+" "+(x[2] or "")),IDF)) for x in CORD] if fn is A_match else \
+                  [(k, vec(v["features"],{f:w for f,w in zip(v["features"],v["weights"])})) for k,v in SP["spec"].items()]
+            for code,d in src: sc.append((cos(q,d),code))
+            sc.sort(reverse=True)
+            hit += 1 if any(s[1] in g for s in sc[:topk]) else 0
+    return hit/len(CASES)
+a1=acc(A_match,1); b1=acc(B_match,1); a3=acc(A_match,3); b3=acc(B_match,3)
+print(f"{'':<16}{'top1':>10}{'top3':>10}")
+print(f"{'A 直用源语言':<16}{a1:>10.3f}{a3:>10.3f}")
+print(f"{'B 经译本':<16}{b1:>10.3f}{b3:>10.3f}")
+print(f"{'差':<16}{b1-a1:>+10.3f}{b3-a3:>+10.3f}")
+
+print()
+print("="*80); print("实验二 · 稳定性：宿主语言会变，两个通道各自怎么反应"); print("="*80)
+SYN={"错误":"失误","系统":"体系","生成":"产出","数据":"信息","模型":"模组","判断":"判定",
+     "失败":"失效","用户":"使用者","结果":"输出","过程":"流程","信息":"资料","输入":"录入",
+     "输出":"产出","环境":"情境","接口":"介面","协作":"协同","环节":"步骤","内容":"内涵"}
+def drift(text,frac,rng):
+    """模拟宿主语言演化：同义替换"""
+    out=text
+    for k,v in SYN.items():
+        if rng.random()<frac: out=out.replace(k,v)
+    return out
+def noise(text,frac,rng):
+    """加口语噪声"""
+    pad=["其实","说白了","某种程度上","你看","这个事情","严格讲","大致上"]
+    if rng.random()<frac: 
+        i=rng.randint(0,max(len(text)-1,0)); return text[:i]+rng.choice(pad)+text[i:]
+    return text
+
+print(" A 通道：判据原文被改写 → 它每次重新读，结果跟着漂")
+print(" B 通道：译本已冻结 → 判据原文怎么改，它的输出都不动\n")
+print(f"{'改写比例':>9}{'A命中':>9}{'A结果变化率':>13}{'B命中':>9}{'B结果变化率':>13}")
+rowsA=[]
+for frac in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    chg=[];hits=0
+    for seed in range(6):
+        rng=random.Random(seed)
+        cord2=[(c[0],c[1],drift(c[2] or "",frac,rng),c[3]) for c in CORD]
+        base=[A_match(c["phenomenon"]) for c in CASES]
+        cur =[A_match(c["phenomenon"],cord2) for c in CASES]
+        chg.append(sum(1 for x,y in zip(base,cur) if x!=y)/len(CASES))
+        hits+= sum(1 for c,y in zip(CASES,cur) if y in set(goldens(c)))/len(CASES)
+    # B: spec 冻结，判据改了也不重编译
+    chgB=[];hitsB=0
+    for seed in range(6):
+        rng=random.Random(seed)
+        _=[(c[0],c[1],drift(c[2] or "",frac,rng),c[3]) for c in CORD]   # 源语言变了，但译本不重编
+        cur=[B_match(c["phenomenon"]) for c in CASES]
+        base=[B_match(c["phenomenon"]) for c in CASES]
+        chgB.append(sum(1 for x,y in zip(base,cur) if x!=y)/len(CASES))
+        hitsB+=sum(1 for c,y in zip(CASES,cur) if y in set(goldens(c)))/len(CASES)
+    print(f"{frac:>9.1f}{hits/6:>9.3f}{sum(chg)/6:>13.3f}{hitsB/6:>9.3f}{sum(chgB)/6:>13.3f}")
+    rowsA.append((frac,hits/6,sum(chg)/6,hitsB/6,sum(chgB)/6))
+
+print()
+print("="*80); print("实验三 · 关键：译本让'变化'可见（哈希）"); print("="*80)
+def spec_sha(cord):
+    """重新编译 → 哈希"""
+    docs2={c[0]:toks((c[1] or "")+" "+(c[2] or "")) for c in cord}
+    df2=Counter()
+    for t in docs2.values(): df2.update(set(t))
+    idf2={t:math.log((N+1)/(df2.get(t,0)+0.5)) for t in df2}
+    sp={}
+    for code,tk in docs2.items():
+        tf=Counter(tk); sc={t:(1+math.log(f))*idf2[t] for t,f in tf.items()}
+        top=sorted(sc.items(),key=lambda x:-x[1])[:12]
+        sp[code]=dict(code=code,features=[t for t,_ in top],weights=[round(w,4) for _,w in top])
+    return hashlib.sha256(json.dumps(sp,ensure_ascii=False,sort_keys=True).encode()).hexdigest()
+rng=random.Random(0)
+base_sha=spec_sha(CORD)
+print(f"  原始判据编译出的译本 sha : {base_sha[:24]}...")
+print(f"{'改写比例':>9}{'重编译后译本 sha':>26}{'与原译本一致?':>15}")
+for frac in [0.0,0.1,0.3,0.5,1.0]:
+    r=random.Random(frac)
+    cord2=[(c[0],c[1],drift(c[2] or "",frac,r),c[3]) for c in CORD]
+    s2=spec_sha(cord2)
+    print(f"{frac:>9.1f}{s2[:24]:>26}{'是' if s2==base_sha else '否 ← 变了，且看得见':>15}")
+print()
+print("  → 直用源语言：漂移是**静默**的（你不知道自己判得跟上次不一样）")
+print("    经译本    ：漂移是**显式**的（重编译哈希就变，你能看见，能决定要不要跟进）")
+
+json.dump({"acc":{"A1":a1,"A3":a3,"B1":b1,"B3":b3},"rowsA":rowsA},open("compare_out.json","w"),ensure_ascii=False)

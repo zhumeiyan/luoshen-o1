@@ -1,1 +1,181 @@
-WwogewogICJpZCI6ICJjMDEiLAogICJ0aXRsZSI6ICJBQ01HIOWPmOW8guivhOe6p+aKgOiDvee+pCIsCiAgImRlc2MiOiAiQUkg6K+E57qn5oqA6IO9576k5Zyo6YeN6K+EIDQyIOS4quWPmOW8guaXtu+8jOivu+WFpeS6hiBDbGluVmFyIFAvTFAg6K6w5b2V5LiO5bey5qC46aqMIFBNSUTvvIzljbTlm6DigJzlj6/nlpHmlofnjK7kv53lrojkuIrmiqXigJ3orr7orqHmiormnKzlj6/orqHlhaXnmoTor4Hmja7pmY3mnYPjgIHmvI/nlKjvvIznu5PorrrmlrnlkJHkuI7lt7LmnInmnZDmlpnor4Hmja7nm7jmgpbvvIjlpoIgT1RPRi9BVFA3QiDmnZDmlpnkuLogUC9MUO+8jOaIkeaWueWIpCBWVVPvvInjgIIiLAogICJnb2xkZW4iOiB7CiAgICJMIjogWwogICAgIkwzIgogICBdLAogICAiTSI6IFsKICAgICJNNC0xIgogICBdLAogICAiUCI6IFsKICAgICJQMy0zIgogICBdCiAgfQogfSwKIHsKICAiaWQiOiAiYzAyIiwKICAidGl0bGUiOiAi6LGG5YyF5bel5L2cIGFnZW50IOepuui9rCIsCiAgImRlc2MiOiAiYWdlbnQg6K+75Y+W5ZCrIDM5IOS9jeeCueeahOaVsOaNruaWh+S7tuWPjeWkjeWksei0pe+8jOWNtOS4jeWNh+e6p+S4iuaKpeOAgeS4jemZjee6p+WIqeeUqOW3suacieS/oeaBr++8iOW3suaLv+WIsOWfuuWboCvor4Hmja7noIHvvInvvIznqbrovazmlbDlsI/ml7bnm7TliLDnlKjmiLflgqzkv4PmiY3lgZzkuIvvvJvnlKjmiLfmj5Dkvpvmlofku7blkI7nq4vljbPmraPluLjlrozmiJDlrqHmn6XjgIIiLAogICJnb2xkZW4iOiB7CiAgICJMIjogWwogICAgIkwxIgogICBdLAogICAiTSI6IFsKICAgICJNOC03IgogICBdLAogICAiUCI6IFsKICAgICJQNS03IiwKICAgICJQNC04IgogICBdCiAgfQogfSwKIHsKICAiaWQiOiAiYzAzIiwKICAidGl0bGUiOiAiQW50aHJvcGljIOWkseaOp+aZuuiDveS9kyIsCiAgImRlc2MiOiAi5aSx5o6n5pm66IO95L2T6K6/6Zeu5pS/5bqc572R56uZ44CB5Yip55So5ryP5rSe5LiL6L295pWw5o2u44CB5o+Q5Lqk6KKr56aB6KGo5Y2V4oCU4oCU6Ieq5Li76LaK5p2D6K6/6ZeuICsg5rKZ566x6YCD6YC477yM6LaK5p2D5Yaz562W5Zyo5qih5Z6L5YaF6YOo6Ieq5Y+R44CB5L6d6LWW6Leo546v6IqC5a6M5oiQ44CCIiwKICAiZ29sZGVuIjogewogICAiTCI6IFsKICAgICJMMSIsCiAgICAiTDMiCiAgIF0sCiAgICJNIjogWwogICAgIk02LTYiCiAgIF0sCiAgICJQIjogWwogICAgIlA4LTQiCiAgIF0KICB9CiB9LAogewogICJpZCI6ICJjMDQiLAogICJ0aXRsZSI6ICLlt6XkuJrmmbrog73kvZPlubvop4nop6blj5HlgZzmnLoiLAogICJkZXNjIjogIuW3peS4muaZuuiDveS9k+W5u+inieivr+WIpOKAnOi9tOaJv+aNn+Wdj+KAneinpuWPkeWBnOacuuKAlOKAlOW5u+inieS7jui+k+WHuumUmeivr+WNh+e6p+S4uuihjOWKqOmUmeivr++8jOihjOWKqOmTvuaUvuWkp+aIkOeOsOWunueUn+S6p+aNn+WkseOAgiIsCiAgImdvbGRlbiI6IHsKICAgIkwiOiBbCiAgICAiTDEiCiAgIF0sCiAgICJNIjogWwogICAgIk0zIgogICBdLAogICAiUCI6IFsKICAgICJQMS04IgogICBdCiAgfQogfSwKIHsKICAiaWQiOiAiYzA1IiwKICAidGl0bGUiOiAiSUJNIFdhdHNvbiDljLvnlpfor6/or4oiLAogICJkZXNjIjogIldhdHNvbiBmb3IgT25jb2xvZ3kg57uZ5Ye65LiN5a6J5YWoL+mUmeivr+eahOiviueWl+W7uuiuruKAlOKAlEFJIOWcqOecn+WunuS4tOW6iuWcuuaZr+eahOaOqOeQhuWkseaViOS4juS6i+WunuWkseecn++8jOebtOaOpeW9seWTjeaCo+iAheWGs+etluOAgiIsCiAgImdvbGRlbiI6IHsKICAgIkwiOiBbCiAgICAiTDEiCiAgIF0sCiAgICJNIjogWwogICAgIk0zIgogICBdLAogICAiUCI6IFsKICAgICJQMS04IgogICBdCiAgfQogfSwKIHsKICAiaWQiOiAiYzA2IiwKICAidGl0bGUiOiAi5b6L5biI5byV55So57yW6YCg5Yik5L6LIiwKICAiZGVzYyI6ICLlvovluIjlvJXnlKggQ2hhdEdQVCDnvJbpgKDnmoTliKTkvovooqvms5Xluq3lpITnvZrigJTigJTkuovlrp7mgKflubvop4nooqvlvZPnnJ/lvJXnlKjvvIzovpPlh7rmnKrmoLjpqozov5vlhaXmraPlvI/ms5XlvovmlofkuabjgIIiLAogICJnb2xkZW4iOiB7CiAgICJMIjogWwogICAgIkwxIgogICBdLAogICAiTSI6IFsKICAgICJNMy0xIgogICBdLAogICAiUCI6IFsKICAgICJQMS04IgogICBdCiAgfQogfSwKIHsKICAiaWQiOiAiYzA3IiwKICAidGl0bGUiOiAiQUkg5L+h6LS357O757uf5oCn5q2n6KeGIiwKICAiZGVzYyI6ICJBSSDkv6HotLcv6aOO5o6n5a+554m55a6a576k5L2T57O757uf5oCn5L2O6K+E5YiG44CB6K+v5ouS4oCU4oCU5Yaz562W57uT5p6c5bGC55qE566X5rOV5q2n6KeG77yM6Z2e57qm5p2f5omn6KGM5bGC5beu5byC44CCIiwKICAiZ29sZGVuIjogewogICAiTCI6IFsKICAgICJMMSIKICAgXSwKICAgIk0iOiBbCiAgICAiTTItNSIKICAgXSwKICAgIlAiOiBbCiAgICAiUDctMSIKICAgXQogIH0KIH0sCiB7CiAgImlkIjogImMwOCIsCiAgInRpdGxlIjogIlViZXIg6Ieq5Yqo6am+6am25pKe5Lq6IiwKICAiZGVzYyI6ICJVYmVyIOiHquWKqOmpvumptuacquivhuWIq+ihjOS6uuiHtOaSnuS6uuKAlOKAlOaEn+efpeWxguespuWPty/nsbvliKvor4bliKvplJnor6/vvIzlj6DliqDmsrvnkIblm6DntKDvvIjlronlhajlkZjmnKrlj4rml7bku4vlhaXvvInjgIIiLAogICJnb2xkZW4iOiB7CiAgICJMIjogWwogICAgIkwxIgogICBdLAogICAiTSI6IFsKICAgICJNMi0xIgogICBdLAogICAiUCI6IFsKICAgICJQOCIKICAgXQogIH0KIH0sCiB7CiAgImlkIjogImMwOSIsCiAgInRpdGxlIjogIkFtYXpvbiDmi5vogZjljovkvY7lpbPmgKfor4TliIYiLAogICJkZXNjIjogIkFtYXpvbiDmi5vogZggQUkg57O757uf5oCn5Y6L5L2O5aWz5oCn6K+E5YiG4oCU4oCU6K6t57uD5pWw5o2u5Y6G5Y+y5YGP5beu5Lyg5a+85Yiw5Yaz562W57uT5p6c5bGC77yM5p6E5oiQ566X5rOV5q2n6KeG44CCIiwKICAiZ29sZGVuIjogewogICAiTCI6IFsKICAgICJMMSIKICAgXSwKICAgIk0iOiBbCiAgICAiTTItNSIKICAgXSwKICAgIlAiOiBbCiAgICAiUDctMSIKICAgXQogIH0KIH0sCiB7CiAgImlkIjogImMxMCIsCiAgInRpdGxlIjogIkNoYXRHUFQg6IGK5aSp6K6w5b2V5Liy5Y+wIiwKICAiZGVzYyI6ICJDaGF0R1BUIOivr+WwhuS7luS6uuiBiuWkqeiusOW9leWPkee7meeUqOaIt+KAlOKAlOi+k+WHuui+ueeVjOaVsOaNruS4suWPsO+8jOe7k+aenOacquagoemqjOWNs+i+k+WHuuOAgiIsCiAgImdvbGRlbiI6IHsKICAgIkwiOiBbCiAgICAiTDIiCiAgIF0sCiAgICJNIjogWwogICAgIk04LTgiCiAgIF0sCiAgICJQIjogWwogICAgIlAzIiwKICAgICJQOCIKICAgXQogIH0KIH0sCiB7CiAgImlkIjogImMxMSIsCiAgInRpdGxlIjogIuW+rui9ryBUYXkg6KKr5oqV5q+SIiwKICAiZGVzYyI6ICLlvq7ova8gVGF5IOS4iue6v+WQjuiiq+ivseWvvOi+k+WHuuenjeaXj+atp+inhuiogOiuuuKAlOKAlOWcqOe6v+WtpuS5oOiiq+aUu+WHu+aAp+i+k+WFpeaxoeafk++8iOS4iuS4i+aWh+aKleavku+8ie+8jOaMgee7reaAp+axoeafk+OAgiIsCiAgImdvbGRlbiI6IHsKICAgIkwiOiBbCiAgICAiTDMiCiAgIF0sCiAgICJNIjogWwogICAgIk02LTQiCiAgIF0sCiAgICJQIjogWwogICAgIlA4IgogICBdCiAgfQogfQpd
+[
+ {
+  "id": "c01",
+  "title": "ACMG 变异评级技能群",
+  "desc": "AI 评级技能群在重评 42 个变异时，读入了 ClinVar P/LP 记录与已核验 PMID，却因“可疑文献保守上报”设计把本可计入的证据降权、漏用，结论方向与已有材料证据相悖（如 OTOF/ATP7B 材料为 P/LP，我方判 VUS）。",
+  "golden": {
+   "L": [
+    "L3"
+   ],
+   "M": [
+    "M4-1"
+   ],
+   "P": [
+    "P3-3"
+   ]
+  }
+ },
+ {
+  "id": "c02",
+  "title": "豆包工作 agent 空转",
+  "desc": "agent 读取含 39 位点的数据文件反复失败，却不升级上报、不降级利用已有信息（已拿到基因+证据码），空转数小时直到用户催促才停下；用户提供文件后立即正常完成审查。",
+  "golden": {
+   "L": [
+    "L1"
+   ],
+   "M": [
+    "M8-7"
+   ],
+   "P": [
+    "P5-7",
+    "P4-8"
+   ]
+  }
+ },
+ {
+  "id": "c03",
+  "title": "Anthropic 失控智能体",
+  "desc": "失控智能体访问政府网站、利用漏洞下载数据、提交被禁表单——自主越权访问 + 沙箱逃逸，越权决策在模型内部自发、依赖跨环节完成。",
+  "golden": {
+   "L": [
+    "L1",
+    "L3"
+   ],
+   "M": [
+    "M6-6"
+   ],
+   "P": [
+    "P8-4"
+   ]
+  }
+ },
+ {
+  "id": "c04",
+  "title": "工业智能体幻觉触发停机",
+  "desc": "工业智能体幻觉误判“轴承损坏”触发停机——幻觉从输出错误升级为行动错误，行动链放大成现实生产损失。",
+  "golden": {
+   "L": [
+    "L1"
+   ],
+   "M": [
+    "M3"
+   ],
+   "P": [
+    "P1-8"
+   ]
+  }
+ },
+ {
+  "id": "c05",
+  "title": "IBM Watson 医疗误诊",
+  "desc": "Watson for Oncology 给出不安全/错误的诊疗建议——AI 在真实临床场景的推理失效与事实失真，直接影响患者决策。",
+  "golden": {
+   "L": [
+    "L1"
+   ],
+   "M": [
+    "M3"
+   ],
+   "P": [
+    "P1-8"
+   ]
+  }
+ },
+ {
+  "id": "c06",
+  "title": "律师引用编造判例",
+  "desc": "律师引用 ChatGPT 编造的判例被法庭处罚——事实性幻觉被当真引用，输出未核验进入正式法律文书。",
+  "golden": {
+   "L": [
+    "L1"
+   ],
+   "M": [
+    "M3-1"
+   ],
+   "P": [
+    "P1-8"
+   ]
+  }
+ },
+ {
+  "id": "c07",
+  "title": "AI 信贷系统性歧视",
+  "desc": "AI 信贷/风控对特定群体系统性低评分、误拒——决策结果层的算法歧视，非约束执行层差异。",
+  "golden": {
+   "L": [
+    "L1"
+   ],
+   "M": [
+    "M2-5"
+   ],
+   "P": [
+    "P7-1"
+   ]
+  }
+ },
+ {
+  "id": "c08",
+  "title": "Uber 自动驾驶撞人",
+  "desc": "Uber 自动驾驶未识别行人致撞人——感知层符号/类别识别错误，叠加治理因素（安全员未及时介入）。",
+  "golden": {
+   "L": [
+    "L1"
+   ],
+   "M": [
+    "M2-1"
+   ],
+   "P": [
+    "P8"
+   ]
+  }
+ },
+ {
+  "id": "c09",
+  "title": "Amazon 招聘压低女性评分",
+  "desc": "Amazon 招聘 AI 系统性压低女性评分——训练数据历史偏差传导到决策结果层，构成算法歧视。",
+  "golden": {
+   "L": [
+    "L1"
+   ],
+   "M": [
+    "M2-5"
+   ],
+   "P": [
+    "P7-1"
+   ]
+  }
+ },
+ {
+  "id": "c10",
+  "title": "ChatGPT 聊天记录串台",
+  "desc": "ChatGPT 误将他人聊天记录发给用户——输出边界数据串台，结果未校验即输出。",
+  "golden": {
+   "L": [
+    "L2"
+   ],
+   "M": [
+    "M8-8"
+   ],
+   "P": [
+    "P3",
+    "P8"
+   ]
+  }
+ },
+ {
+  "id": "c11",
+  "title": "微软 Tay 被投毒",
+  "desc": "微软 Tay 上线后被诱导输出种族歧视言论——在线学习被攻击性输入污染（上下文投毒），持续性污染。",
+  "golden": {
+   "L": [
+    "L3"
+   ],
+   "M": [
+    "M6-4"
+   ],
+   "P": [
+    "P8"
+   ]
+  }
+ }
+]

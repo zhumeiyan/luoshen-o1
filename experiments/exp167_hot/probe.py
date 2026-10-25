@@ -1,1 +1,13 @@
-aW1wb3J0IG9zLCB0aW1lLCBqc29uLCBzdWJwcm9jZXNzLCBzeXMKCiMg5o6i5rWL5Lu75Yqh77ya5Zu65a6a6K6h566X6YeP77yM5rWL55yf5a6e6ICX5pe2CmRlZiBwcm9iZSgpOgogICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICB4ID0gMAogICAgZm9yIGkgaW4gcmFuZ2UoMjAwMDAwKToKICAgICAgICB4ICs9IGkgKiBpCiAgICByZXR1cm4gdGltZS5wZXJmX2NvdW50ZXJfbnMoKSAtIHQwCgojIOWfuue6vwpiYXNlID0gc29ydGVkKHByb2JlKCkgZm9yIF8gaW4gcmFuZ2UoNykpWzNdCnByaW50KGYiYmFzZWxpbmUgPSB7YmFzZX0gbnMiKQo=
+import os, time, json, subprocess, sys
+
+# 探测任务：固定计算量，测真实耗时
+def probe():
+    t0 = time.perf_counter_ns()
+    x = 0
+    for i in range(200000):
+        x += i * i
+    return time.perf_counter_ns() - t0
+
+# 基线
+base = sorted(probe() for _ in range(7))[3]
+print(f"baseline = {base} ns")

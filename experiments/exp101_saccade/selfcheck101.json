@@ -1,1 +1,17 @@
-ewogImNvZGUiOiAiNDk0MTk2IiwKICJjb2RlX2hpdCI6IHRydWUsCiAibnVtcyI6IFsKICAiMS4wMDAwIiwKICAiMC43NTAwIiwKICAiMC4xMjUwIiwKICAiMC41MzEyIiwKICAiMC43MTg4IiwKICAiLTM2LjEiLAogICItMC42MzkxIiwKICAiLTAuNzI3MyIsCiAgIisxLjgzNDYiLAogICItMS42NDYiCiBdLAogIm5fbnVtcyI6IDEwCn0=
+{
+ "code": "494196",
+ "code_hit": true,
+ "nums": [
+  "1.0000",
+  "0.7500",
+  "0.1250",
+  "0.5312",
+  "0.7188",
+  "-36.1",
+  "-0.6391",
+  "-0.7273",
+  "+1.8346",
+  "-1.646"
+ ],
+ "n_nums": 10
+}

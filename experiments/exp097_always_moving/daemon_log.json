@@ -1,1 +1,59 @@
-ewogICJzdGFydGVkIjogMTc5MjIxMjgzMS40NjgyODUzLAogICJwaWQiOiAxMTAwLAogICJzdGVwcyI6IDE4MCwKICAicHJvYmVzIjogWwogICAgewogICAgICAidCI6IDMwLAogICAgICAiZXllIjogWwogICAgICAgIC0zNC4zLAogICAgICAgIDAuMgogICAgICBdLAogICAgICAiaW5mbyI6IDk4NC4wMTIwMjM5MjU3ODEyLAogICAgICAicmVhZCI6IDgKICAgIH0sCiAgICB7CiAgICAgICJ0IjogNjAsCiAgICAgICJleWUiOiBbCiAgICAgICAgLTY4LjAsCiAgICAgICAgLTM0LjcKICAgICAgXSwKICAgICAgImluZm8iOiA5MjUuMjY0NDA0Mjk2ODc1LAogICAgICAicmVhZCI6IDcKICAgIH0sCiAgICB7CiAgICAgICJ0IjogOTAsCiAgICAgICJleWUiOiBbCiAgICAgICAgMTEuMiwKICAgICAgICAtNjQuNgogICAgICBdLAogICAgICAiaW5mbyI6IDEwMzcuNjI3MTk3MjY1NjI1LAogICAgICAicmVhZCI6IDEwCiAgICB9LAogICAgewogICAgICAidCI6IDEyMCwKICAgICAgImV5ZSI6IFsKICAgICAgICAtMTQyLjYsCiAgICAgICAgLTY4LjAKICAgICAgXSwKICAgICAgImluZm8iOiA4NTguMDQ2NTY5ODI0MjE4OCwKICAgICAgInJlYWQiOiA3CiAgICB9LAogICAgewogICAgICAidCI6IDE1MCwKICAgICAgImV5ZSI6IFsKICAgICAgICAtMTkzLjcsCiAgICAgICAgMTUuMAogICAgICBdLAogICAgICAiaW5mbyI6IDkxMS43NTA3OTM0NTcwMzEyLAogICAgICAicmVhZCI6IDgKICAgIH0KICBdLAogICJlbGFwc2VkIjogNDAuNDk4MzYzOTcxNzEwMjA1LAogICJzbGlwX21lYW4iOiA0OS44ODQwODI3Mzk0MDc4MywKICAibG9hZGF2ZyI6IFsKICAgICIwLjg1IiwKICAgICIwLjMxIiwKICAgICIwLjExIgogIF0KfQ==
+{
+  "started": 1792212831.4682853,
+  "pid": 1100,
+  "steps": 180,
+  "probes": [
+    {
+      "t": 30,
+      "eye": [
+        -34.3,
+        0.2
+      ],
+      "info": 984.0120239257812,
+      "read": 8
+    },
+    {
+      "t": 60,
+      "eye": [
+        -68.0,
+        -34.7
+      ],
+      "info": 925.264404296875,
+      "read": 7
+    },
+    {
+      "t": 90,
+      "eye": [
+        11.2,
+        -64.6
+      ],
+      "info": 1037.627197265625,
+      "read": 10
+    },
+    {
+      "t": 120,
+      "eye": [
+        -142.6,
+        -68.0
+      ],
+      "info": 858.0465698242188,
+      "read": 7
+    },
+    {
+      "t": 150,
+      "eye": [
+        -193.7,
+        15.0
+      ],
+      "info": 911.7507934570312,
+      "read": 8
+    }
+  ],
+  "elapsed": 40.498363971710205,
+  "slip_mean": 49.88408273940783,
+  "loadavg": [
+    "0.85",
+    "0.31",
+    "0.11"
+  ]
+}

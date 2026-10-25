@@ -1,1 +1,32 @@
-aW1wb3J0IG9zLCB0aW1lLCB0aHJlYWRpbmcKaW1wb3J0IG51bXB5IGFzIG5wCkxPQUQ9WzBdOyBTVE9QPVtGYWxzZV0KZGVmIHdvcmtlcigpOgogICAgd2hpbGUgbm90IFNUT1BbMF06CiAgICAgICAgbj1MT0FEWzBdCiAgICAgICAgaWYgbjoKICAgICAgICAgICAgcz0wCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKG4pOiBzKz1pKmkKICAgICAgICBlbHNlOiB0aW1lLnNsZWVwKDAuMDAxKQp0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD13b3JrZXIsZGFlbW9uPVRydWUpLnN0YXJ0KCkKCmRlZiB3b3JrKGs9NDAwMDApOgogICAgcz0wCiAgICBmb3IgaSBpbiByYW5nZShrKTogcys9aQogICAgcmV0dXJuIHMKZGVmIG1lYXN1cmUoKToKICAgIHQwPXRpbWUucGVyZl9jb3VudGVyKCk7IHdvcmsoKTsgcmV0dXJuICh0aW1lLnBlcmZfY291bnRlcigpLXQwKSoxMDAwLjAKCmRlZiBydW4ocHJvZmlsZSxuPTI0MCk6CiAgICBvdXQ9W10KICAgIGZvciBpIGluIHJhbmdlKG4pOgogICAgICAgIGlmIHByb2ZpbGU9PSdzdGFibGUnOiBMT0FEWzBdPTAKICAgICAgICBlbGlmIHByb2ZpbGU9PSdkcmlmdCc6IExPQURbMF09aW50KDMwMDAwMCooaS9uKSkKICAgICAgICBlbGlmIHByb2ZpbGU9PSdzcXVhcmUnOiBMT0FEWzBdPTMwMDAwMCBpZiAoaS8vMzApJTIgZWxzZSAwCiAgICAgICAgb3V0LmFwcGVuZChtZWFzdXJlKCkpCiAgICByZXR1cm4gbnAuYXNhcnJheShvdXQpCmZvciBwIGluIFsnc3RhYmxlJywnZHJpZnQnLCdzcXVhcmUnXToKICAgIHg9cnVuKHApOyB0cj1ucC5wb2x5Zml0KG5wLmFyYW5nZShsZW4oeCkpLHgsMSlbMF0KICAgIHByaW50KGYie3A6N3N9IGZpcnN0NTA9e3hbOjUwXS5tZWFuKCk6LjRmfW1zIGxhc3Q1MD17eFstNTA6XS5tZWFuKCk6LjRmfW1zIHN0ZD17eC5zdGQoKTouNGZ9IHRyZW5kPXt0cjouNmZ9IikKICAgIGlmIHA9PSdzcXVhcmUnOiBwcmludCgiICAgcGhhc2UgbWVhbnM6IiwgW3JvdW5kKGZsb2F0KHhbaTppKzMwXS5tZWFuKCkpLDMpIGZvciBpIGluIHJhbmdlKDAsMjQwLDMwKV0pClNUT1BbMF09VHJ1ZQo=
+import os, time, threading
+import numpy as np
+LOAD=[0]; STOP=[False]
+def worker():
+    while not STOP[0]:
+        n=LOAD[0]
+        if n:
+            s=0
+            for i in range(n): s+=i*i
+        else: time.sleep(0.001)
+threading.Thread(target=worker,daemon=True).start()
+
+def work(k=40000):
+    s=0
+    for i in range(k): s+=i
+    return s
+def measure():
+    t0=time.perf_counter(); work(); return (time.perf_counter()-t0)*1000.0
+
+def run(profile,n=240):
+    out=[]
+    for i in range(n):
+        if profile=='stable': LOAD[0]=0
+        elif profile=='drift': LOAD[0]=int(300000*(i/n))
+        elif profile=='square': LOAD[0]=300000 if (i//30)%2 else 0
+        out.append(measure())
+    return np.asarray(out)
+for p in ['stable','drift','square']:
+    x=run(p); tr=np.polyfit(np.arange(len(x)),x,1)[0]
+    print(f"{p:7s} first50={x[:50].mean():.4f}ms last50={x[-50:].mean():.4f}ms std={x.std():.4f} trend={tr:.6f}")
+    if p=='square': print("   phase means:", [round(float(x[i:i+30].mean()),3) for i in range(0,240,30)])
+STOP[0]=True

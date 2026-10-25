@@ -1,1 +1,59 @@
-IyAxNDkg54G16ZW/57G75qC8IMK3IOmihOazqOWGjO+8iOi3keS5i+WJjeWGmeatu++8iQoKIyMg6KaB6aqM5pS25LuA5LmI77yI55So5oi357uZ55qE6Zi25qKv77yJCi0g5ZCM5Ly077ya5byA56ys5LqM5Liq5a6e5L6LCi0g5b+D5pm655CG6K6677ya57uZ5a+55pa55bu65qih5Z6L77yI5a+55pa555qEIGdfc2VsZuOAgeWvueaWueeahCDOte+8iQotIOmVnOWDj+iHquaIke+8muWMuuWIhiLmiJHnmoTovpPlh7oi5ZKMIuWug+eahOi+k+WHuiIKLSDpqozmlLbvvJrot6jlrp7kvosgVEUg5b2S5Zug5oiQ56uL77yb5ZCI5L2c5Lu75Yqh5a6M5oiQCgojIyDkuJbnlYzvvIjnnJ/lrp7vvIzpnZ7mqKHmi5/vvIkKLSBXID0g55yf5a6e5paH5Lu2IHdvcmxkLmJpbu+8jDY0IOanveS9jSDDlyBpbnQzMu+8jOecnyBvcGVuL3NlZWsvcmVhZC93cml0ZS9mc3luYwotIEHjgIFCIOmDveiDveivu+WFqOmDqCA2NCDmp73vvJtB44CBQiDpg73og73lhpnlhajpg6ggNjQg5qe977yI5p2D6ZmQ5a6M5YWo6YeN5Y+g77yJCiAg4oaSIOWboOatpCLosIHmlLnnmoQi5Y+q6IO96Z2g56eB5pyJ5Yqo5L2c6K6w5b2V5b2S5Zug77yM5LiN6IO96Z2g5p2D6ZmQ5rOE5ryP44CC6L+Z5p2h5piv6K6+6K6h5qC45b+D44CCCgojIyDov5vnqIvvvIjnnJ/lj4zov5vnqIvvvIwyIENQVSDnnJ/lrp7nq57kuonvvIkKLSBB44CBQiDlkIToh6rni6znq4sgcHl0aG9uIOi/m+eoi++8jOWQhOiHqiBVRFAg56uv5Y+j77yM55yf5a6eIHNlbmR0by9yZWN2ZnJvbe+8jOecn+WunuaXtumXtOaIswoKIyMg5Zub5Liq5a2Q5a6e6aqM5LiO5Yik5o2u77yI5q+P5p2h5b+F6aG76IO95ZCM5pe25Lqn55Sf55yf5ZKM5YGH77yJCgojIyMgUzEg6ZWc5YOP6Ieq5oiR77yIc2VsZi9vdGhlciDlvZLlm6DvvIkK5Lu75Yqh77ya5LiW55WM5p+Q5qe95L2N5Y+R55Sf5Y+Y5YyW77yM5Zue562UIui/measoeWPmOWMluaYr+aIkemAoOaIkOeahOWQlyIK6IeC77yaCi0gZnVsbCAgIDog5L+d55WZ6Ieq5bex55qE56eB5pyJ5Yqo5L2c6K6w5b2VIOKGkiDmnJ/mnJvpq5jlvZLlm6DmraPnoa7njocKLSBkaXNjYXJkOiAqKuaUtuWIsOS9huS4ouW8gyoq6Ieq5bex55qE5Yqo5L2c6K6w5b2V77yI5LuN6IO955yL5LiW55WM77yJ4oaSIOacn+acm+mZjeWIsOmaj+acugotIHN3YXBwZWQ6IOe7mSBBIOeciyBCIOeahOWKqOS9nOiusOW9le+8iOmUmemFje+8ieKGkiDmnJ/mnJsqKuezu+e7n+aAp+W9kumUmSoq77yI5LiN5piv6ZqP5py677yM5piv5Y+N5ZCR77yJCuWIpOaNru+8mgogIFAxOiBhY2NfZnVsbCA+IGFjY19kaXNjYXJk77yMQ0kg5LiN6LeoIDAKICBQMjogc3dhcHBlZCDnmoTplJnphY3mlrnlkJHkuIDoh7TvvIjplJnphY3njofmmL7okZcgPiAwLjXvvIzkuJTnrKblj7fkuI7pmo/mnLrnm7jlj43vvIkKICDihpIgUDIg5piv5YWz6ZSu55qEIuiDveS6p+eUn+WBhyLnmoTkuIDmnaHvvJroi6Ugc3dhcHBlZCDlj6rnu5npmo/mnLrvvIzor7TmmI7ku7vliqHmsqHmtYvliLDmiYDmnInmnYMKCiMjIyBTMiDlv4PmmbrnkIborrrvvIjpooTmtYvlr7nmlrnvvIkKQiDnmoTkuKTnp43vvJoKLSBCX3B1YmxpYyA6IOWKqOS9nOeUseWFrOWFseWPr+ingeS/oeaBr+WGs+WumiDihpIgQSDkuI3pnIDopoHmjqjmlq0gQiDnmoTlhoXpg6jnirbmgIEKLSBCX3ByaXZhdGU6IOWKqOS9nOeUsSBCIOeahCoq56eB5pyJKirop4LmtYvlhrPlrpog4oaSIEEg5b+F6aG75o6o5patIuWug+eci+WIsOS6huS7gOS5iCIKLSBCX3JhbmRvbSA6IOmaj+acuiDihpIg6Zi05oCn5a+554Wn77yMQSDnmoTpooTmtYvkvJjlir/lupTmtojlpLEK5Yik5o2u77yaCiAgUDM6IEEg5a+5IEJfcHJpdmF0ZSDnmoTpooTmtYvkvJjlir8gPiAw77yI55u45a+55bi45pWw5Z+657q/77yJ77yMQ0kg5LiN6LeoIDAKICBQNDogQSDlr7kgQl9yYW5kb20g55qE5LyY5Yq/IOKJiCAw77yMQ0kg6LeoIDDvvIjpmLTmgKflr7nnhafmiJDnq4vvvIkKICBQNTogQl9wcml2YXRlIOeahCoq5o6o5pat5Ye65p2l55qE5YaF6YOo54q25oCBKirkuI4gQiDnnJ/lrp7lhoXpg6jnirbmgIHnm7jlhbMgPiDpmo/mnLrln7rnur8KCiMjIyBTMyDot6jlrp7kvosgVEUg5b2S5ZugCi0g5pa55ZCR5oCnIFRFKEHihpJCKSB2cyBURShC4oaSQSnvvIzlr7nnhafvvJpCIOaNouaIkOmaj+acuuW6j+WIlwrliKTmja7vvJoKICBQNjog55yf5a6e5Lqk5LqS5LiL5pa55ZCR5oCn5pi+6JGX77yb6ZqP5py65a+554Wn5LiL5raI5aSxCgojIyMgUzQg5ZCI5L2c5Lu75Yqh77yI55yf5a6e55uu5b2V5qCR77yM5aSN55SoIDE0NyDlnLDlvaLvvIkKLSDkuKTlrp7kvovpgJrov4cgVURQIOS6pOaNouW3suaOoue0oumbhuWQiO+8jOmBv+WFjemHjeWkjQrliKTmja7vvJoKICBQNzog5ZCI5L2c5ZCI5bm26KaG55uW546HID4g54us56uL5o6i57Si5ZCI5bm26KaG55uW546H77yMQ0kg5LiN6LeoIDAKCiMjIOW3suefpeimgemBv+W8gOeahOWdke+8iOWIpOaNruaguO+8iQoxLiDnm7Loh4Llv4Xpobsi5pS25Yiw5L2G5Lii5byDIu+8jOS4jeaYryLmlLbkuI3liLAi77yIMTQx77yJCjIuIOWvueeFp+S4jeiDvemAgOWMlu+8iDE0MyBjbG9uZSDotbDlkIzkuIDliIbmlK/pgJDkvY3nm7jlkIzvvInigJTigJQg5q+P6IeC6LeR5a6M5b+F6aG75omT5Y2wIuS4pOiHguaYr+WQpumAkOS9jeebuOWQjCLoh6rmo4AKMy4g5Yik5o2u5b+F6aG76IO95ZCM5pe25Lqn55Sf55yf5ZKM5YGH77yIMTM5LzE0Ne+8iQo0LiDnjq/looPlj5jph4/vvIhVRFAg5Lii5YyF546H44CBcnR077yJ5b+F6aG755yf5rWL77yM5LiN54yc77yIMTQzIOaIkeeUqOS6hiAwLjIwIOWunumZhSAwLjAwODPvvIkKNS4g5LiN5oqKIGJ1ZyDlvZPniannkIbnjrDosaHvvIgxNDMg5oqK6Kej5p6Q5re35Lmx5b2T5Lii5YyF77yJCgojIyDlo7DmmI4K5Lul5LiK5Yik5o2u5Zyo6LeR5pWw5o2u5LmL5YmN5YaZ5q2744CC6LeR5a6M5Y+q5YGa5a+56LSo77yM5LiN5pS55Yik5o2u44CCCuiLpeWIpOaNruacqumAmui/h++8jOeFp+aKpSBGQUlM77yM5LiN5o2i5oyH5qCH57+75q2j44CCCg==
+# 149 灵长类格 · 预注册（跑之前写死）
+
+## 要验收什么（用户给的阶梯）
+- 同伴：开第二个实例
+- 心智理论：给对方建模型（对方的 g_self、对方的 ε）
+- 镜像自我：区分"我的输出"和"它的输出"
+- 验收：跨实例 TE 归因成立；合作任务完成
+
+## 世界（真实，非模拟）
+- W = 真实文件 world.bin，64 槽位 × int32，真 open/seek/read/write/fsync
+- A、B 都能读全部 64 槽；A、B 都能写全部 64 槽（权限完全重叠）
+  → 因此"谁改的"只能靠私有动作记录归因，不能靠权限泄漏。这条是设计核心。
+
+## 进程（真双进程，2 CPU 真实竞争）
+- A、B 各自独立 python 进程，各自 UDP 端口，真实 sendto/recvfrom，真实时间戳
+
+## 四个子实验与判据（每条必须能同时产生真和假）
+
+### S1 镜像自我（self/other 归因）
+任务：世界某槽位发生变化，回答"这次变化是我造成的吗"
+臂：
+- full   : 保留自己的私有动作记录 → 期望高归因正确率
+- discard: **收到但丢弃**自己的动作记录（仍能看世界）→ 期望降到随机
+- swapped: 给 A 看 B 的动作记录（错配）→ 期望**系统性归错**（不是随机，是反向）
+判据：
+  P1: acc_full > acc_discard，CI 不跨 0
+  P2: swapped 的错配方向一致（错配率显著 > 0.5，且符号与随机相反）
+  → P2 是关键的"能产生假"的一条：若 swapped 只给随机，说明任务没测到所有权
+
+### S2 心智理论（预测对方）
+B 的两种：
+- B_public : 动作由公共可见信息决定 → A 不需要推断 B 的内部状态
+- B_private: 动作由 B 的**私有**观测决定 → A 必须推断"它看到了什么"
+- B_random : 随机 → 阴性对照，A 的预测优势应消失
+判据：
+  P3: A 对 B_private 的预测优势 > 0（相对常数基线），CI 不跨 0
+  P4: A 对 B_random 的优势 ≈ 0，CI 跨 0（阴性对照成立）
+  P5: B_private 的**推断出来的内部状态**与 B 真实内部状态相关 > 随机基线
+
+### S3 跨实例 TE 归因
+- 方向性 TE(A→B) vs TE(B→A)，对照：B 换成随机序列
+判据：
+  P6: 真实交互下方向性显著；随机对照下消失
+
+### S4 合作任务（真实目录树，复用 147 地形）
+- 两实例通过 UDP 交换已探索集合，避免重复
+判据：
+  P7: 合作合并覆盖率 > 独立探索合并覆盖率，CI 不跨 0
+
+## 已知要避开的坑（判据核）
+1. 盲臂必须"收到但丢弃"，不是"收不到"（141）
+2. 对照不能退化（143 clone 走同一分支逐位相同）—— 每臂跑完必须打印"两臂是否逐位相同"自检
+3. 判据必须能同时产生真和假（139/145）
+4. 环境变量（UDP 丢包率、rtt）必须真测，不猜（143 我用了 0.20 实际 0.0083）
+5. 不把 bug 当物理现象（143 把解析混乱当丢包）
+
+## 声明
+以上判据在跑数据之前写死。跑完只做对质，不改判据。
+若判据未通过，照报 FAIL，不换指标翻正。

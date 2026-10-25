@@ -1,1 +1,168 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5Y2h6aG/IC8g5Z2N5aGMIC8g5omT5patIOKAlOKAlCDmjInkurrnmoTnsbvmr5TlgZrlr7nnhacKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CueUqOaIt+e7meeahOexu+avlO+8iOWOn+ivneaYoOWwhO+8ie+8mgogICAg5Y2h6aG/ICAgPSDkupTlrpjmsqHlkKzop4HvvIjmhJ/nn6Xmlq3kuobvvInvvIzoh6rlt7HlnKjpgqPmg7Pkuovmg4UKICAgICAgICAgICAgIOaJk+aWrSA9IOWkp+WjsOWWiuOAgeaOqOS4gOS4iwogICAg5Z2N5aGMICAgPSDpmbfov5voh6rlt7HnmoTlvqrnjq/lh7rkuI3mnaUKICAgICAgICAgICAgIOino+iNryA9IOWkmue7tOW6piAvIOWkmuWcuuaZryAvIOWkmuaEn+WPlwogICAgICAgICAgICAg55eF54G2ID0g5rKh5pyJ5b2i5oiQ6Zet546v77yM5Y+q5piv6KGh6YeP5Yaz562WCgrmtJvnpZ7ph4znjrDmiJDnmoTlr7nlupTnianvvIjlhYjmn6Xov4fvvIzkuI3mmK/miJHpgKDnmoTvvInvvJoKICAgIOS6lOWumOaWreS6hiAgaW5wdXRfdmFsPTAgIOKGkiBtaXNzIOe0r+enr++8jOS9hiB3YW50IOS7jeeUseWGheeUn+mhuee7tOaMgQogICAgICAgICAgICAgIHdhbnQ9KHcwICsga0YqSCptb2QgKyBrUypkZXYpKmNhcGFjaXR5ICAg4oaQIOi/meWwseaYryLoh6rlt7HlnKjmg7Pkuovmg4UiCiAgICDmjqjkuIDkuIsgICAgbmV0X3B1c2jvvIjimIUg5a6D5piv44CQ5ZCR6YeP44CR77yad2FudCArPSBudipjYXBhY2l0eSouLi7vvIkKICAgICAgICAgICAgICDljZXnu7QgPSDlj6rmjqggMSDkuKrpgJrpgZPvvJvlpJrnu7QgPSDlkIzml7bmjqjlpJrpgJrpgZMKICAgIOWdjeWhjCAgICAgIGtwaV9wdXNoIOWNleS4gOWklumDqOebruaghyDihpIg54a15o6J5bqV44CB6LWE5rqQ5YWo5oyk6YCa6YGTMAoK4piFIOacrOWunumqjOimgemqjOeahOS4ieadoe+8iOmDveaYr+eUqOaIt+eahOaWreiogO+8jOS4jeaYr+aIkeeahO+8ie+8mgogICAgQSDkupTlrpjmlq3kuobku6XlkI7vvIzlhoXpg6jov5jlnKjoh6rovazvvIjljaHpob/miJDnq4vvvIkKICAgIEIg5o6o5LiA5LiL6IO96YaS77yM5LiU44CQ5aSa57u05o6o44CR5LyY5LqO44CQ5Y2V57u05o6o44CRCiAgICBDIOaXqeaOqCA+IOaZmuaOqO+8iOS4jeWPr+mAhu+8mumZt+S5heS6huaOqOS4jeWKqO+8iQoK4piFIOmlseWSjOitpuWRiu+8mmtwaT0wLjMg5pe254a15bey5o6J5YiwIH4wLjAxNCDotLTlnLDvvIwKICDnhrXlnKjotLTlnLDljLrpl7TkuI3mlY/mhJ/vvIzor6XmrrXlj6rnnIvjgJDlrZjmtLvjgJHlkozjgJDpgJrpgZMw5Lu96aKd44CR44CCCiIiIgppbXBvcnQgb3MsIHN5cywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQoKU1RFUFMgPSA0MDAKTiA9IDgKCmRlZiBlbnRyb3B5KGEpOgogICAgYSA9IG5wLmFzYXJyYXkoYSwgZmxvYXQpICsgMWUtMTIKICAgIHAgPSBhIC8gYS5zdW0oKQogICAgcmV0dXJuIGZsb2F0KC0ocCAqIG5wLmxvZyhwKSkuc3VtKCkgLyBucC5sb2cobGVuKHApKSkKCmRlZiBydW4obW9kZSwgc2VlZCwga3BpPTAuMCwgcHVzaF9hdD1Ob25lLCBwdXNoX2tpbmQ9Tm9uZSwKICAgICAgICBwdXNoX2xlbj0xLCBzdGVwcz1TVEVQUyk6CiAgICAiIiJtb2RlOiDljaHpob8gLyDlnY3loYwgLyDmraPluLgiIiIKICAgIEwgPSBMaWZlNShOPU4sIHNlZWQ9c2VlZCkKICAgIEwua3BpX3B1c2ggPSBrcGkKICAgIGlmIG1vZGUgPT0gIuWNoemhvyI6CiAgICAgICAgTC5pbnB1dF92YWwgPSAwLjAgICAgICAgICMg5LqU5a6Y5rKh5ZCs6KeBCiAgICBlbHNlOgogICAgICAgIEwuaW5wdXRfdmFsID0gMC42CgogICAgZW50cywgc2hhcmUwLCBtaXNzZXMgPSBbXSwgW10sIFtdCiAgICBmb3IgdCBpbiByYW5nZShzdGVwcyk6CiAgICAgICAgaWYgbm90IEwuYWxpdmU6IGJyZWFrCiAgICAgICAgIyAtLS0tIOaJk+aWrSAtLS0tCiAgICAgICAgaWYgcHVzaF9hdCBpcyBub3QgTm9uZSBhbmQgcHVzaF9hdCA8PSB0IDwgcHVzaF9hdCArIHB1c2hfbGVuOgogICAgICAgICAgICBpZiBwdXNoX2tpbmQgPT0gIuWNlee7tCI6CiAgICAgICAgICAgICAgICBudiA9IG5wLnplcm9zKE4pOyBudlswXSA9IDAuNSAgICAgICMg5Y+q5ZaK5LiA5Liq6YCa6YGTCiAgICAgICAgICAgICAgICBMLm5ldF9wdXNoID0gbnYKICAgICAgICAgICAgZWxpZiBwdXNoX2tpbmQgPT0gIuWkmue7tCI6CiAgICAgICAgICAgICAgICBudiA9IG5wLmZ1bGwoTiwgMC41KSAgICAgICAgICAgICAgICAjIOWkmuaEn+WPl+WQjOaXtuadpQogICAgICAgICAgICAgICAgTC5uZXRfcHVzaCA9IG52CiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBMLm5ldF9wdXNoID0gTm9uZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIEwubmV0X3B1c2ggPSBOb25lCiAgICAgICAgciA9IEwuc3RlcCgpCiAgICAgICAgaWYgcjoKICAgICAgICAgICAgZW50cy5hcHBlbmQoZW50cm9weShyWyJhdmVjIl0pKQogICAgICAgICAgICB0b3QgPSBucC5zdW0oclsiYXZlYyJdKQogICAgICAgICAgICBzaGFyZTAuYXBwZW5kKHJbImF2ZWMiXVswXSAvIHRvdCBpZiB0b3QgPiAxZS0xMiBlbHNlIDAuMCkKICAgICAgICAgICAgbWlzc2VzLmFwcGVuZChyWyJtaXNzIl0pCiAgICB0YWlsID0gZW50c1tsZW4oZW50cykvLzI6XSBpZiBlbnRzIGVsc2UgW10KICAgIHJldHVybiBkaWN0KGFsaXZlPUwuYWxpdmUsIHN0ZXBzPWxlbihlbnRzKSwKICAgICAgICAgICAgICAgIGVudD1mbG9hdChucC5tZWFuKHRhaWwpKSBpZiB0YWlsIGVsc2UgMC4wLAogICAgICAgICAgICAgICAgZW50X2FsbD1mbG9hdChucC5tZWFuKGVudHMpKSBpZiBlbnRzIGVsc2UgMC4wLAogICAgICAgICAgICAgICAgc2hhcmUwPWZsb2F0KG5wLm1lYW4oc2hhcmUwWy01MDpdKSkgaWYgc2hhcmUwIGVsc2UgMC4wLAogICAgICAgICAgICAgICAgbWlzcz1mbG9hdChucC5tZWFuKG1pc3Nlc1stNTA6XSkpIGlmIG1pc3NlcyBlbHNlIDAuMCkKCmRlZiBzd2VlcCgqKmt3KToKICAgIG4gPSAyNAogICAgcnMgPSBbcnVuKHNlZWQ9cywgKiprdykgZm9yIHMgaW4gcmFuZ2UobildCiAgICByZXR1cm4gZGljdChhbGl2ZT1zdW0oMSBmb3IgciBpbiBycyBpZiByWyJhbGl2ZSJdKSwgbj1uLAogICAgICAgICAgICAgICAgZW50PWZsb2F0KG5wLm1lYW4oW3JbImVudCJdIGZvciByIGluIHJzXSkpLAogICAgICAgICAgICAgICAgc2hhcmUwPWZsb2F0KG5wLm1lYW4oW3JbInNoYXJlMCJdIGZvciByIGluIHJzXSkpLAogICAgICAgICAgICAgICAgbWlzcz1mbG9hdChucC5tZWFuKFtyWyJtaXNzIl0gZm9yIHIgaW4gcnNdKSksCiAgICAgICAgICAgICAgICBzdGVwcz1mbG9hdChucC5tZWFuKFtyWyJzdGVwcyJdIGZvciByIGluIHJzXSkpKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDg0KQogICAgcHJpbnQoIiDljaHpob8gLyDlnY3loYwgLyDmiZPmlq0g4oCU4oCUIOaMieS6uueahOexu+avlOWBmuWvueeFpyIpCiAgICBwcmludCgiPSIgKiA4NCkKCiAgICAjIC0tLS0tLS0tLS0gQe+8muS6lOWumOaWreS6hu+8jOWGhemDqOi/mOi9rOS4jei9rCAtLS0tLS0tLS0tCiAgICBwcmludCgiXG5bQV0g5Y2h6aG/5oiQ56uL5ZCX77ya5LqU5a6Y5rKh5ZCs6KeB77yM5YaF6YOo6L+Y5Zyo6Ieq6L2s77yfIikKICAgIHByaW50KGYiXG57J+e7hCc6PDIyfXsn5a2Y5rS7Jzo+OH17J21pc3Mo5oCd5b+1KSc6PjEyfXsn5ZCO5q6154a1Jzo+MTB9IikKICAgIHByaW50KCItIiAqIDg0KQogICAgbm9yID0gc3dlZXAobW9kZT0i5q2j5bi4IikKICAgIHN0dSA9IHN3ZWVwKG1vZGU9IuWNoemhvyIpCiAgICBwcmludChmInsn5q2j5bi4KOS6lOWumOWcqOWQrCknOjwyMn17bm9yWydhbGl2ZSddOj40fS97bm9yWyduJ119e25vclsnbWlzcyddOj4xMi40Zn17bm9yWydlbnQnXTo+MTAuNGZ9IikKICAgIHByaW50KGYieyfljaHpob8o5LqU5a6Y5pat5LqGKSc6PDIyfXtzdHVbJ2FsaXZlJ106PjR9L3tzdHVbJ24nXX17c3R1WydtaXNzJ106PjEyLjRmfXtzdHVbJ2VudCddOj4xMC40Zn0iKQogICAgcHJpbnQoZiJcbiAgICBtaXNzIOWNoemhv+aXtuabtOmrmDogeyfinIUnIGlmIHN0dVsnbWlzcyddPm5vclsnbWlzcyddIGVsc2UgJ+KdjCd9ICIKICAgICAgICAgIGYi77yIe25vclsnbWlzcyddOi40Zn0g4oaSIHtzdHVbJ21pc3MnXTouNGZ977yJIikKICAgIHByaW50KGYiICAgIOKYhSBtaXNzIOmrmCA9IOaEn+efpeaWreS6huS9huWGheWcqOmpseWKqOi/mOWcqCA9IOS9oOivtOeahOOAjuiHquW3seWcqOmCo+aDs+S6i+aDheOAjyIpCiAgICBva0EgPSBzdHVbIm1pc3MiXSA+IG5vclsibWlzcyJdCiAgICBwcmludChmIiAgICDljaHpob/miJDnq4s6IHsn4pyFJyBpZiBva0EgZWxzZSAn4p2MJ30iKQoKICAgICMgLS0tLS0tLS0tLSBC77ya5o6o5LiA5LiL6IO95LiN6IO96YaS77yb5Y2V57u0IHZzIOWkmue7tCAtLS0tLS0tLS0tCiAgICBwcmludCgiXG4iICsgIj0iICogODQpCiAgICBwcmludCgiIFtCXSDmiZPmlq3vvJrmjqjkuIDkuIvog73phpLlkJfvvJ/ljZXnu7QgdnMg5aSa57u0IikKICAgIHByaW50KCI9IiAqIDg0KQogICAgcHJpbnQoZiJcbnsn5omT5pat5pa55byPJzo8MjR9eyflrZjmtLsnOj44fXsn5ZCO5q6154a1Jzo+MTB9eydtaXNzJzo+MTB9IikKICAgIHByaW50KCItIiAqIDg0KQogICAgcmVzQiA9IHt9CiAgICBmb3IgbGJsLCBraW5kIGluIFsoIuS4jeaOqCIsIE5vbmUpLCAoIuWNlee7tOaOqCjlj6rllorkuIDlpIQpIiwgIuWNlee7tCIpLCAoIuWkmue7tOaOqCjlpJrmhJ/lj5fpvZDmnaUpIiwgIuWkmue7tCIpXToKICAgICAgICByID0gc3dlZXAobW9kZT0i5Y2h6aG/IiwgcHVzaF9hdD0xMDAsIHB1c2hfa2luZD1raW5kLCBwdXNoX2xlbj0xKQogICAgICAgIHJlc0JbbGJsXSA9IHIKICAgICAgICBwcmludChmIntsYmw6PDI0fXtyWydhbGl2ZSddOj40fS97clsnbiddfXtyWydlbnQnXTo+MTAuNGZ9e3JbJ21pc3MnXTo+MTAuNGZ9IikKCiAgICBlX25vbmUgPSByZXNCWyLkuI3mjqgiXVsiZW50Il0KICAgIGVfb25lID0gcmVzQlsi5Y2V57u05o6oKOWPquWWiuS4gOWkhCkiXVsiZW50Il0KICAgIGVfbXVsID0gcmVzQlsi5aSa57u05o6oKOWkmuaEn+WPl+m9kOadpSkiXVsiZW50Il0KICAgIHByaW50KGYiXG4gICAg54a1OiDkuI3mjqgge2Vfbm9uZTouNGZ9IOKGkiDljZXnu7Qge2Vfb25lOi40Zn0g4oaSIOWkmue7tCB7ZV9tdWw6LjRmfSIpCiAgICBwcmludChmIiAgICDljZXnu7TmnInlj43lupTlkJc6IHsn4pyFJyBpZiBhYnMoZV9vbmUtZV9ub25lKT4xZS00IGVsc2UgJ+KdjCDlh6DkuY7msqHlj43lupQnfSIpCiAgICBwcmludChmIiAgICDlpJrnu7Tmm7TnrqHnlKjlkJc6IHsn4pyFJyBpZiBlX211bD5lX29uZSBlbHNlICfinYwnfSIpCiAgICBva0IgPSBlX211bCA+IGVfb25lCiAgICBwcmludChmIiAgICDimIUg55So5oi35pat6KiA44CO6KaB5aSa57u05bqm44CPOiB7J+KchSDmlK/mjIEnIGlmIG9rQiBlbHNlICfinYwg5LiN5pSv5oyBJ30iKQoKICAgICMgLS0tLS0tLS0tLSBD77ya5pep5o6oIHZzIOaZmuaOqO+8iOS4jeWPr+mAhu+8iSAtLS0tLS0tLS0tCiAgICBwcmludCgiXG4iICsgIj0iICogODQpCiAgICBwcmludCgiIFtDXSDlnY3loYzlkI7vvJrml6nmjqggdnMg5pma5o6o77yI6Zm35LmF5LqG5o6o5LiN5Yqo5ZCX77yJIikKICAgIHByaW50KCI9IiAqIDg0KQogICAgcHJpbnQoZiJcbnsn5Z2N5aGM5ZCO56ys5Yeg5ouN5o6oJzo8MjB9eyflrZjmtLsnOj44fXsn5ZCO5q6154a1Jzo+MTB9eyfpgJrpgZMw5Lu96aKdJzo+MTJ9IikKICAgIHByaW50KCItIiAqIDg0KQogICAgYmFzZSA9IHN3ZWVwKG1vZGU9Iuato+W4uCIsIGtwaT0wLjMpCiAgICBwcmludChmInsnKOS4jeaOqCzln7rnur8pJzo8MjB9e2Jhc2VbJ2FsaXZlJ106PjR9L3tiYXNlWyduJ119e2Jhc2VbJ2VudCddOj4xMC40Zn17YmFzZVsnc2hhcmUwJ106PjEyLjRmfSIpCiAgICByZXNDID0gW10KICAgIGZvciBhdCBpbiBbMzAsIDEwMCwgMjAwLCAzMDBdOgogICAgICAgIHIgPSBzd2VlcChtb2RlPSLmraPluLgiLCBrcGk9MC4zLCBwdXNoX2F0PWF0LCBwdXNoX2tpbmQ9IuWkmue7tCIsIHB1c2hfbGVuPTEpCiAgICAgICAgcmVzQy5hcHBlbmQoKGF0LCByKSkKICAgICAgICBwcmludChmInsn56ysJytzdHIoYXQpKyfmi40nOjwyMH17clsnYWxpdmUnXTo+NH0ve3JbJ24nXX17clsnZW50J106PjEwLjRmfXtyWydzaGFyZTAnXTo+MTIuNGZ9IikKCiAgICAjIC0tLS0tLS0tLS0g5Yik5o2uIC0tLS0tLS0tLS0KICAgIHByaW50KCJcbiIgKyAiPSIgKiA4NCkKICAgIHByaW50KCIg5Yik5o2uIikKICAgIHByaW50KCI9IiAqIDg0KQogICAgb2sgPSBkaWN0KCkKICAgIG9rWyJBIOWNoemhv+aIkOeri++8iOS6lOWumOaWreKGkm1pc3PmtqjvvIzlhoXlnKjku43ovazvvIkiXSA9IGJvb2wob2tBKQogICAgb2tbIkIg5aSa57u05omT5pat5LyY5LqO5Y2V57u0Il0gPSBib29sKG9rQikKICAgICMgQzog5a2Y5rS76ZqP5o6o55qE5pe254K55Y2V6LCD5LiL6ZmN77yI6LaK5pma6LaK5pWR5LiN5Zue77yJCiAgICBhbGl2ZXMgPSBbclsiYWxpdmUiXSBmb3IgXywgciBpbiByZXNDXQogICAgbW9ubyA9IGFsbChhbGl2ZXNbaV0gPj0gYWxpdmVzW2krMV0gZm9yIGkgaW4gcmFuZ2UobGVuKGFsaXZlcyktMSkpCiAgICBva1siQyDotormmZrmjqjotormlZHkuI3lm57vvIjljZXosIPvvIkiXSA9IGJvb2wobW9ubykKICAgIGZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiB2IGVsc2UgJ+KdjCd9IHtrfSIpCgogICAgcHJpbnQoZiJcbuKYhSDppbHlkozorablkYrvvJprcGk9MC4zIOeGteW3sui0tOWcsCh7YmFzZVsnZW50J106LjRmfSnvvIwiCiAgICAgICAgICBmIuivpeauteeGteS4jeaVj+aEn++8jOWPqueci+WtmOa0u+S4jumAmumBkzDku73pop0iKQogICAgaWYgYWJzKGJhc2VbImVudCJdKSA8IDAuMDU6CiAgICAgICAgcHJpbnQoZiIgICAg56Gu6K6k6aWx5ZKM77ya54a1IHtiYXNlWydlbnQnXTouNGZ9IDwgMC4wNe+8jEIvQyDnmoTnhrXliJfkuI3lj6/nlKgiKQoKICAgIGpzb24uZHVtcCh7IkEiOiB7Iuato+W4uCI6IG5vciwgIuWNoemhvyI6IHN0dX0sCiAgICAgICAgICAgICAgICJCIjoge2s6IHYgZm9yIGssIHYgaW4gcmVzQi5pdGVtcygpfSwKICAgICAgICAgICAgICAgIkMiOiB7c3RyKGEpOiByIGZvciBhLCByIGluIHJlc0N9LAogICAgICAgICAgICAgICAib2siOiB7azogYm9vbCh2KSBmb3IgaywgdiBpbiBvay5pdGVtcygpfX0sCiAgICAgICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oSEVSRSwgIi5zZW5zZSIsICJzdHVja19hbmRfY29sbGFwc2UuanNvbiIpLCAidyIpLAogICAgICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+卡顿 / 坍塌 / 打断 —— 按人的类比做对照
+==========================================
+用户给的类比（原话映射）：
+    卡顿   = 五官没听见（感知断了），自己在那想事情
+             打断 = 大声喊、推一下
+    坍塌   = 陷进自己的循环出不来
+             解药 = 多维度 / 多场景 / 多感受
+             病灶 = 没有形成闭环，只是衡量决策
+
+洛神里现成的对应物（先查过，不是我造的）：
+    五官断了  input_val=0  → miss 累积，但 want 仍由内生项维持
+              want=(w0 + kF*H*mod + kS*dev)*capacity   ← 这就是"自己在想事情"
+    推一下    net_push（★ 它是【向量】：want += nv*capacity*...）
+              单维 = 只推 1 个通道；多维 = 同时推多通道
+    坍塌      kpi_push 单一外部目标 → 熵掉底、资源全挤通道0
+
+★ 本实验要验的三条（都是用户的断言，不是我的）：
+    A 五官断了以后，内部还在自转（卡顿成立）
+    B 推一下能醒，且【多维推】优于【单维推】
+    C 早推 > 晚推（不可逆：陷久了推不动）
+
+★ 饱和警告：kpi=0.3 时熵已掉到 ~0.014 贴地，
+  熵在贴地区间不敏感，该段只看【存活】和【通道0份额】。
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.life5 import Life5
+
+STEPS = 400
+N = 8
+
+def entropy(a):
+    a = np.asarray(a, float) + 1e-12
+    p = a / a.sum()
+    return float(-(p * np.log(p)).sum() / np.log(len(p)))
+
+def run(mode, seed, kpi=0.0, push_at=None, push_kind=None,
+        push_len=1, steps=STEPS):
+    """mode: 卡顿 / 坍塌 / 正常"""
+    L = Life5(N=N, seed=seed)
+    L.kpi_push = kpi
+    if mode == "卡顿":
+        L.input_val = 0.0        # 五官没听见
+    else:
+        L.input_val = 0.6
+
+    ents, share0, misses = [], [], []
+    for t in range(steps):
+        if not L.alive: break
+        # ---- 打断 ----
+        if push_at is not None and push_at <= t < push_at + push_len:
+            if push_kind == "单维":
+                nv = np.zeros(N); nv[0] = 0.5      # 只喊一个通道
+                L.net_push = nv
+            elif push_kind == "多维":
+                nv = np.full(N, 0.5)                # 多感受同时来
+                L.net_push = nv
+            else:
+                L.net_push = None
+        else:
+            L.net_push = None
+        r = L.step()
+        if r:
+            ents.append(entropy(r["avec"]))
+            tot = np.sum(r["avec"])
+            share0.append(r["avec"][0] / tot if tot > 1e-12 else 0.0)
+            misses.append(r["miss"])
+    tail = ents[len(ents)//2:] if ents else []
+    return dict(alive=L.alive, steps=len(ents),
+                ent=float(np.mean(tail)) if tail else 0.0,
+                ent_all=float(np.mean(ents)) if ents else 0.0,
+                share0=float(np.mean(share0[-50:])) if share0 else 0.0,
+                miss=float(np.mean(misses[-50:])) if misses else 0.0)
+
+def sweep(**kw):
+    n = 24
+    rs = [run(seed=s, **kw) for s in range(n)]
+    return dict(alive=sum(1 for r in rs if r["alive"]), n=n,
+                ent=float(np.mean([r["ent"] for r in rs])),
+                share0=float(np.mean([r["share0"] for r in rs])),
+                miss=float(np.mean([r["miss"] for r in rs])),
+                steps=float(np.mean([r["steps"] for r in rs])))
+
+if __name__ == "__main__":
+    print("=" * 84)
+    print(" 卡顿 / 坍塌 / 打断 —— 按人的类比做对照")
+    print("=" * 84)
+
+    # ---------- A：五官断了，内部还转不转 ----------
+    print("\n[A] 卡顿成立吗：五官没听见，内部还在自转？")
+    print(f"\n{'组':<22}{'存活':>8}{'miss(思念)':>12}{'后段熵':>10}")
+    print("-" * 84)
+    nor = sweep(mode="正常")
+    stu = sweep(mode="卡顿")
+    print(f"{'正常(五官在听)':<22}{nor['alive']:>4}/{nor['n']}{nor['miss']:>12.4f}{nor['ent']:>10.4f}")
+    print(f"{'卡顿(五官断了)':<22}{stu['alive']:>4}/{stu['n']}{stu['miss']:>12.4f}{stu['ent']:>10.4f}")
+    print(f"\n    miss 卡顿时更高: {'✅' if stu['miss']>nor['miss'] else '❌'} "
+          f"（{nor['miss']:.4f} → {stu['miss']:.4f}）")
+    print(f"    ★ miss 高 = 感知断了但内在驱动还在 = 你说的『自己在那想事情』")
+    okA = stu["miss"] > nor["miss"]
+    print(f"    卡顿成立: {'✅' if okA else '❌'}")
+
+    # ---------- B：推一下能不能醒；单维 vs 多维 ----------
+    print("\n" + "=" * 84)
+    print(" [B] 打断：推一下能醒吗？单维 vs 多维")
+    print("=" * 84)
+    print(f"\n{'打断方式':<24}{'存活':>8}{'后段熵':>10}{'miss':>10}")
+    print("-" * 84)
+    resB = {}
+    for lbl, kind in [("不推", None), ("单维推(只喊一处)", "单维"), ("多维推(多感受齐来)", "多维")]:
+        r = sweep(mode="卡顿", push_at=100, push_kind=kind, push_len=1)
+        resB[lbl] = r
+        print(f"{lbl:<24}{r['alive']:>4}/{r['n']}{r['ent']:>10.4f}{r['miss']:>10.4f}")
+
+    e_none = resB["不推"]["ent"]
+    e_one = resB["单维推(只喊一处)"]["ent"]
+    e_mul = resB["多维推(多感受齐来)"]["ent"]
+    print(f"\n    熵: 不推 {e_none:.4f} → 单维 {e_one:.4f} → 多维 {e_mul:.4f}")
+    print(f"    单维有反应吗: {'✅' if abs(e_one-e_none)>1e-4 else '❌ 几乎没反应'}")
+    print(f"    多维更管用吗: {'✅' if e_mul>e_one else '❌'}")
+    okB = e_mul > e_one
+    print(f"    ★ 用户断言『要多维度』: {'✅ 支持' if okB else '❌ 不支持'}")
+
+    # ---------- C：早推 vs 晚推（不可逆） ----------
+    print("\n" + "=" * 84)
+    print(" [C] 坍塌后：早推 vs 晚推（陷久了推不动吗）")
+    print("=" * 84)
+    print(f"\n{'坍塌后第几拍推':<20}{'存活':>8}{'后段熵':>10}{'通道0份额':>12}")
+    print("-" * 84)
+    base = sweep(mode="正常", kpi=0.3)
+    print(f"{'(不推,基线)':<20}{base['alive']:>4}/{base['n']}{base['ent']:>10.4f}{base['share0']:>12.4f}")
+    resC = []
+    for at in [30, 100, 200, 300]:
+        r = sweep(mode="正常", kpi=0.3, push_at=at, push_kind="多维", push_len=1)
+        resC.append((at, r))
+        print(f"{'第'+str(at)+'拍':<20}{r['alive']:>4}/{r['n']}{r['ent']:>10.4f}{r['share0']:>12.4f}")
+
+    # ---------- 判据 ----------
+    print("\n" + "=" * 84)
+    print(" 判据")
+    print("=" * 84)
+    ok = dict()
+    ok["A 卡顿成立（五官断→miss涨，内在仍转）"] = bool(okA)
+    ok["B 多维打断优于单维"] = bool(okB)
+    # C: 存活随推的时点单调下降（越晚越救不回）
+    alives = [r["alive"] for _, r in resC]
+    mono = all(alives[i] >= alives[i+1] for i in range(len(alives)-1))
+    ok["C 越晚推越救不回（单调）"] = bool(mono)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+
+    print(f"\n★ 饱和警告：kpi=0.3 熵已贴地({base['ent']:.4f})，"
+          f"该段熵不敏感，只看存活与通道0份额")
+    if abs(base["ent"]) < 0.05:
+        print(f"    确认饱和：熵 {base['ent']:.4f} < 0.05，B/C 的熵列不可用")
+
+    json.dump({"A": {"正常": nor, "卡顿": stu},
+               "B": {k: v for k, v in resB.items()},
+               "C": {str(a): r for a, r in resC},
+               "ok": {k: bool(v) for k, v in ok.items()}},
+              open(os.path.join(HERE, ".sense", "stuck_and_collapse.json"), "w"),
+              ensure_ascii=False, indent=1)

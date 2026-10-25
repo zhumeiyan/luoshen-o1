@@ -1,1 +1,9 @@
-ewogInJ1bl9pZCI6ICJjMThkODIwMTQ1MzI0ODk2IiwKICJzZXEiOiA5LAogInRzIjogIjIwMjYtMTAtMjRUMTA6MDE6NTEiLAogInN0YXRlIjogewogICJzdGVwIjogMywKICAiZG9uZSI6IHRydWUKIH0KfQ==
+{
+ "run_id": "c18d820145324896",
+ "seq": 9,
+ "ts": "2026-10-24T10:01:51",
+ "state": {
+  "step": 3,
+  "done": true
+ }
+}

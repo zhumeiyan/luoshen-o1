@@ -1,1 +1,52 @@
-ewogIjUiOiB7CiAgImdhaW5fZDhfdG9fZDI2IjogMC4wNSwKICAic2UiOiAwLjAxNTQsCiAgInZlcmRpY3QiOiAiXHU0ZTBkXHU2NTM2XHU2NTViKFx1NTNkMVx1NjU2MykiCiB9LAogIjYiOiB7CiAgImdhaW5fZDhfdG9fZDI2IjogMC4wMDI4LAogICJzZSI6IDAuMDA5NCwKICAidmVyZGljdCI6ICJcdTY1MzZcdTY1NWIiCiB9LAogIjciOiB7CiAgImdhaW5fZDhfdG9fZDI2IjogMC4wMDk3LAogICJzZSI6IDAuMDEyMSwKICAidmVyZGljdCI6ICJcdTY1MzZcdTY1NWIiCiB9LAogIjgiOiB7CiAgImdhaW5fZDhfdG9fZDI2IjogMC4wMTQ2LAogICJzZSI6IDAuMDE3MywKICAidmVyZGljdCI6ICJcdTRlMGRcdTY1MzZcdTY1NWIoXHU1M2QxXHU2NTYzKSIKIH0sCiAiOSI6IHsKICAiZ2Fpbl9kOF90b19kMjYiOiAwLjAwMzUsCiAgInNlIjogMC4wMTQxLAogICJ2ZXJkaWN0IjogIlx1NjUzNlx1NjU1YiIKIH0sCiAiMTAiOiB7CiAgImdhaW5fZDhfdG9fZDI2IjogMC4wMzYxLAogICJzZSI6IDAuMDA5MiwKICAidmVyZGljdCI6ICJcdTRlMGRcdTY1MzZcdTY1NWIoXHU1M2QxXHU2NTYzKSIKIH0sCiAiMTEiOiB7CiAgImdhaW5fZDhfdG9fZDI2IjogMC4wNDQ0LAogICJzZSI6IDAuMDE5NCwKICAidmVyZGljdCI6ICJcdTRlMGRcdTY1MzZcdTY1NWIoXHU1M2QxXHU2NTYzKSIKIH0sCiAiMTIiOiB7CiAgImdhaW5fZDhfdG9fZDI2IjogMC4wMDM1LAogICJzZSI6IDAuMDEyMywKICAidmVyZGljdCI6ICJcdTY1MzZcdTY1NWIiCiB9LAogIjE0IjogewogICJnYWluX2Q4X3RvX2QyNiI6IDAuMDI1LAogICJzZSI6IDAuMDEsCiAgInZlcmRpY3QiOiAiXHU0ZTBkXHU2NTM2XHU2NTViKFx1NTNkMVx1NjU2MykiCiB9LAogIjE2IjogewogICJnYWluX2Q4X3RvX2QyNiI6IDAuMDIyMiwKICAic2UiOiAwLjAxMjMsCiAgInZlcmRpY3QiOiAiXHU0ZTBkXHU2NTM2XHU2NTViKFx1NTNkMVx1NjU2MykiCiB9Cn0=
+{
+ "5": {
+  "gain_d8_to_d26": 0.05,
+  "se": 0.0154,
+  "verdict": "\u4e0d\u6536\u655b(\u53d1\u6563)"
+ },
+ "6": {
+  "gain_d8_to_d26": 0.0028,
+  "se": 0.0094,
+  "verdict": "\u6536\u655b"
+ },
+ "7": {
+  "gain_d8_to_d26": 0.0097,
+  "se": 0.0121,
+  "verdict": "\u6536\u655b"
+ },
+ "8": {
+  "gain_d8_to_d26": 0.0146,
+  "se": 0.0173,
+  "verdict": "\u4e0d\u6536\u655b(\u53d1\u6563)"
+ },
+ "9": {
+  "gain_d8_to_d26": 0.0035,
+  "se": 0.0141,
+  "verdict": "\u6536\u655b"
+ },
+ "10": {
+  "gain_d8_to_d26": 0.0361,
+  "se": 0.0092,
+  "verdict": "\u4e0d\u6536\u655b(\u53d1\u6563)"
+ },
+ "11": {
+  "gain_d8_to_d26": 0.0444,
+  "se": 0.0194,
+  "verdict": "\u4e0d\u6536\u655b(\u53d1\u6563)"
+ },
+ "12": {
+  "gain_d8_to_d26": 0.0035,
+  "se": 0.0123,
+  "verdict": "\u6536\u655b"
+ },
+ "14": {
+  "gain_d8_to_d26": 0.025,
+  "se": 0.01,
+  "verdict": "\u4e0d\u6536\u655b(\u53d1\u6563)"
+ },
+ "16": {
+  "gain_d8_to_d26": 0.0222,
+  "se": 0.0123,
+  "verdict": "\u4e0d\u6536\u655b(\u53d1\u6563)"
+ }
+}

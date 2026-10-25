@@ -1,1 +1,31 @@
-IyAxNzYgwrcg5Li65LqG6aKE5rWL5L2g77yM55y8552b6ZW/5Yiw5aSa5rex5omN5YGcCgojIyDor63mlpkKLSDnlKjmiLfkvqfnnJ/lrp7mtojmga8gMzc4MCDlrZfnrKbvvIx0cmFpbiAyNjQ2IC8gdGVzdCAxMTM077yM5a2X6KGoIFY9NDU0Ci0g55uu5qCH77ya6aKE5rWL5LiL5LiA5Liq5a2X56ym44CC5LiK5LiL5paH5rex5bqmIGsgPSAi55y8552b55yL5aSa6L+cIgoKIyMg57uT5p6cCnwga++8iOecvOa3se+8iSB8IOWHhuehrueOhyB8IOaJk+S5seWvueeFpyB8IOi+uemZheWinuebiiB8IOWPguaVsOmHjyB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IDEgfCAwLjIwODEgfCAwLjA0MjMgfCDigJQgfCA0LjU0ZSswMiB8CnwgMiB8IDAuMjM0NiB8IDAuMDQzMiB8ICswLjAyNjUgfCAyLjA2ZSswNSB8CnwgMyB8IDAuMjMxMCB8IDAuMDQyMyB8IC0wLjAwMzUgfCA5LjM2ZSswNyB8CnwgNCB8IDAuMjI5MyB8IDAuMDQyMyB8IC0wLjAwMTggfCA0LjI1ZSsxMCB8CnwgNSB8IDAuMjI4NCB8IDAuMDQyMyB8IC0wLjAwMDkgfCAxLjkzZSsxMyB8CnwgNiB8IDAuMjI4NCB8IDAuMDQyMyB8ICswLjAwMDAgfCA4Ljc2ZSsxNSB8Cgrlmarlo7DlupUgPSAwLjA0MzIKCiMjIOe7k+iuugoxLiDnnLznnZvplb/liLAgKiprPTIqKiDlsLHlgZzvvJprPTMg6LW36L656ZmF5aKe55uK6L2s6LSf77yILTAuMDAzNSAvIC0wLjAwMTjvvInjgIIKMi4g5Luj5Lu354iG54K477yaaz0y4oaSNu+8jOWPguaVsOS7jiAyLjFlNSDmtqjliLAgOC44ZTE177yINMOXMTBeMTAg5YCN77yJ77yM5aKe55uK5Li6IDDjgIIqKuWZqOWumOacieiHqueEtuWkp+Wwj++8jOeUseebruagh+eahOe7n+iuoeWGs+Wumu+8jOS4jeeUsemHjuW/g+WGs+WumuOAgioqCjMuIOWzsOWAvCBhY2M9MC4yMzQ277yM6L+c5pyq5YiwIDHigJTigJTmrovkvZnlsLHmmK/ku5bogIXnmoTor7vmlbDjgIIKCiMjIOS4gOadoemcgOimgeagh+azqOeahOW3p+WQiO+8iOS4jeS4u+W8oOWboOaenO+8iQrlrp7mtYvmnIDkvJjnnLzmt7EgPSAy77yb6ICMIHBoaSDmgbDlpb3lnKggaz0yIOmCo+S4gOmYtuOAgioq5Lik6ICF54us56uL5b6X5Ye677yM6JC95Zyo5ZCM5LiA5aSE44CCKioK5L2G5qC35pys5LuFIDM3ODAg5a2X56ym77yMaz0zIOS4jiBrPTIg55qE5beu77yIMC4wMDM177yJ5o6l6L+R5Zmq5aOw6YeP57qn77yM5Y+q5aSH5qGI5LiN5Li75byg44CCCgojIyDovrnnlYwKLSDlrZfnrKbnuqcgbi1ncmFtIOWPquaYryLnnLznnZsi55qE5pyA6L+R5Luj55CG77yM5LiN5piv55yf55qE5oSf5a6Y44CCCi0g6K+t5paZIDM3ODAg5a2X56ym44CB5Y2V5qyh5YiS5YiG77yM5pyq5YGa5aSa5oqY5Lqk5Y+J44CCCi0g56iz5oCB5Zue6YCA5bmz5ruR5pyq5YGa77yMaz49MyDnmoTotJ/ovrnpmYXpg6jliIbmnaXoh6rmlbDmja7nqIDnlo/vvIzmlrnlkJHkuI7lpKflsI/pg73pnIDmm7TlpJror63mlpnnoa7orqTjgII=
+# 176 · 为了预测你，眼睛长到多深才停
+
+## 语料
+- 用户侧真实消息 3780 字符，train 2646 / test 1134，字表 V=454
+- 目标：预测下一个字符。上下文深度 k = "眼睛看多远"
+
+## 结果
+| k（眼深） | 准确率 | 打乱对照 | 边际增益 | 参数量 |
+|---|---|---|---|---|
+| 1 | 0.2081 | 0.0423 | — | 4.54e+02 |
+| 2 | 0.2346 | 0.0432 | +0.0265 | 2.06e+05 |
+| 3 | 0.2310 | 0.0423 | -0.0035 | 9.36e+07 |
+| 4 | 0.2293 | 0.0423 | -0.0018 | 4.25e+10 |
+| 5 | 0.2284 | 0.0423 | -0.0009 | 1.93e+13 |
+| 6 | 0.2284 | 0.0423 | +0.0000 | 8.76e+15 |
+
+噪声底 = 0.0432
+
+## 结论
+1. 眼睛长到 **k=2** 就停：k=3 起边际增益转负（-0.0035 / -0.0018）。
+2. 代价爆炸：k=2→6，参数从 2.1e5 涨到 8.8e15（4×10^10 倍），增益为 0。**器官有自然大小，由目标的统计决定，不由野心决定。**
+3. 峰值 acc=0.2346，远未到 1——残余就是他者的读数。
+
+## 一条需要标注的巧合（不主张因果）
+实测最优眼深 = 2；而 phi 恰好在 k=2 那一阶。**两者独立得出，落在同一处。**
+但样本仅 3780 字符，k=3 与 k=2 的差（0.0035）接近噪声量级，只备案不主张。
+
+## 边界
+- 字符级 n-gram 只是"眼睛"的最近代理，不是真的感官。
+- 语料 3780 字符、单次划分，未做多折交叉。
+- 稳态回退平滑未做，k>=3 的负边际部分来自数据稀疏，方向与大小都需更多语料确认。

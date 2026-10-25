@@ -1,1 +1,160 @@
-IiIi57u/5rOh5rOhIDMueCDmlbDmja7lupPop6PmnpDlkIzmraXmqKHlnZcKCue7v+azoeazoSAzLngg5pWw5o2u54m55b6B77yaCi0g5pWw5o2u5bqT5L2N5LqOIE1pY3JvTXNnLmRiLCBNU0cwLmRiLCBNU0cxLmRiLCBNZWRpYU1TRzAuZGIg562JCi0gTWljcm9Nc2cuZGI6CiAgICAtIENvbnRhY3Qg6KGoOiBVc2VyTmFtZSwgQWxpYXMsIFJlbWFyaywgTmlja05hbWUsIFR5cGUKICAgIC0gQ2hhdFJvb20g6KGoOiBDaGF0Um9vbU5hbWUsIFVzZXJOYW1lLCBEaXNwbGF5TmFtZQotIE1TRyouZGI6CiAgICAtIE1TRyDooajpm4bkuK3lrZjlgqjmiYDmnInogYrlpKnorrDlvZU6IGxvY2FsSWQsIFN0clRhbGtlciwgSXNTZW5kZXIsIENyZWF0ZVRpbWUsIFR5cGUsIFN1YlR5cGUsIFN0ckNvbnRlbnQsIEJ5dGVzRXh0cmEsIENvbXByZXNzQ29udGVudAoiIiIKCmltcG9ydCBzcWxpdGUzCmltcG9ydCByZQppbXBvcnQgbG9nZ2luZwpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmZyb20gLi5wYXJzZXIgaW1wb3J0IGJ1aWxkX2NvbnRlbnQKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKCmRlZiBfZXh0cmFjdF92M19ncm91cF9zZW5kZXIoYnl0ZXNfZXh0cmEpIC0+IHN0cjoKICAgICIiIjMueCDnvqTogYrnmoTlj5HoqIDkurrkuI3ljZXni6zmiJDliJfvvIzogIzmmK/nvJbnoIHlnKggQnl0ZXNFeHRyYSDkuozov5vliLbph4zjgIIKCiAgICDlsL3lipvmj5Dlj5Ygd3hpZF8vZ2hfIOW9ouW8j+eahOagh+ivhu+8m+aPkOWPluS4jeWIsOWwsei/lOWbnuepuuS4su+8jOeUseiwg+eUqOaWueWbnumAgOS4uuS8muivnSBJRAogICAg77yI5Y2z5L+u5aSN5YmN55qE6KGM5Li677yJ77yM5Zug5q2k5LiN5Lya5q+U546w54q25pu05beu44CCCiAgICAiIiIKICAgIGlmIG5vdCBieXRlc19leHRyYToKICAgICAgICByZXR1cm4gIiIKICAgIGlmIGlzaW5zdGFuY2UoYnl0ZXNfZXh0cmEsIHN0cik6CiAgICAgICAgYnl0ZXNfZXh0cmEgPSBieXRlc19leHRyYS5lbmNvZGUoInV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKQogICAgaWYgbm90IGlzaW5zdGFuY2UoYnl0ZXNfZXh0cmEsIChieXRlcywgYnl0ZWFycmF5KSk6CiAgICAgICAgcmV0dXJuICIiCiAgICBtYXRjaCA9IHJlLnNlYXJjaChyYiIod3hpZF9bQS1aYS16MC05X1wtXXszLH18Z2hfW0EtWmEtejAtOV9cLV17Myx9KSIsIGJ5dGVzKGJ5dGVzX2V4dHJhKSkKICAgIHJldHVybiBtYXRjaC5ncm91cCgxKS5kZWNvZGUoImFzY2lpIiwgZXJyb3JzPSJpZ25vcmUiKSBpZiBtYXRjaCBlbHNlICIiCgoKZGVmIGlzX3YzX2xheW91dChkZWNyeXB0ZWRfZGlyOiBQYXRoKSAtPiBib29sOgogICAgIiIi5Yik5pat5piv5ZCm5Li657u/5rOh5rOhIDMueCDop6Plr4bnu5PmnoQiIiIKICAgIHBhdHRlcm5zID0gWwogICAgICAgIGRlY3J5cHRlZF9kaXIgLyAiTWljcm9Nc2cuZGIiLAogICAgICAgIGRlY3J5cHRlZF9kaXIgLyAiTXNnIiAvICJNaWNyb01zZy5kYiIsCiAgICAgICAgZGVjcnlwdGVkX2RpciAvICJNdWx0aSIgLyAiTVNHMC5kYiIsCiAgICAgICAgZGVjcnlwdGVkX2RpciAvICJNc2ciIC8gIk11bHRpIiAvICJNU0cwLmRiIiwKICAgICAgICBkZWNyeXB0ZWRfZGlyIC8gIk1TRzAuZGIiLAogICAgXQogICAgcmV0dXJuIGFueShwLmV4aXN0cygpIGZvciBwIGluIHBhdHRlcm5zKQoKCmRlZiBzeW5jX3YzKGRlY3J5cHRlZF9kaXI6IFBhdGgsIGN1cjogc3FsaXRlMy5DdXJzb3IpIC0+IE5vbmU6CiAgICAiIiLmiafooYznu7/ms6Hms6EgMy54IOaVsOaNruW6k+WQjOatpSIiIgogICAgIyDmn6Xmib4gTWljcm9Nc2cuZGIKICAgIG1pY3JvbXNnX2NhbmRpZGF0ZXMgPSBsaXN0KGRlY3J5cHRlZF9kaXIucmdsb2IoIk1pY3JvTXNnLmRiIikpCiAgICBmb3IgZGJfZmlsZSBpbiBtaWNyb21zZ19jYW5kaWRhdGVzOgogICAgICAgIHRyeToKICAgICAgICAgICAgY19jb25uID0gc3FsaXRlMy5jb25uZWN0KGYiZmlsZTp7ZGJfZmlsZX0/bW9kZT1ybyIsIHVyaT1UcnVlKQogICAgICAgICAgICBjX2Nvbm4ucm93X2ZhY3RvcnkgPSBzcWxpdGUzLlJvdwogICAgICAgICAgICB0YWJsZXMgPSBbclswXSBmb3IgciBpbiBjX2Nvbm4uZXhlY3V0ZSgiU0VMRUNUIG5hbWUgRlJPTSBzcWxpdGVfbWFzdGVyIFdIRVJFIHR5cGU9J3RhYmxlJyIpXQoKICAgICAgICAgICAgIyDogZTns7vkurrooaggKENvbnRhY3QpCiAgICAgICAgICAgIGlmICJDb250YWN0IiBpbiB0YWJsZXM6CiAgICAgICAgICAgICAgICBmb3IgciBpbiBjX2Nvbm4uZXhlY3V0ZSgiU0VMRUNUIFVzZXJOYW1lLCBBbGlhcywgUmVtYXJrLCBOaWNrTmFtZSwgVHlwZSBGUk9NIENvbnRhY3QiKToKICAgICAgICAgICAgICAgICAgICB1bmFtZSA9IHJbIlVzZXJOYW1lIl0KICAgICAgICAgICAgICAgICAgICBpZiBub3QgdW5hbWU6CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICAgICAgZGlzcCA9IHJbIlJlbWFyayJdIG9yIHJbIk5pY2tOYW1lIl0gb3IgclsiQWxpYXMiXSBvciB1bmFtZQogICAgICAgICAgICAgICAgICAgIGN1ci5leGVjdXRlKCIiIgogICAgICAgICAgICAgICAgICAgICAgICBJTlNFUlQgT1IgUkVQTEFDRSBJTlRPIGNvbnRhY3RzICh1c2VybmFtZSwgYWxpYXMsIGRpc3BsYXlfbmFtZSwgdHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgVkFMVUVTICg/LCA/LCA/LCA/KQogICAgICAgICAgICAgICAgICAgICIiIiwgKHVuYW1lLCByWyJBbGlhcyJdLCBkaXNwLCByWyJUeXBlIl0gb3IgMCkpCgogICAgICAgICAgICAjIOe+pOaIkOWRmOihqCAoQ2hhdFJvb20pCiAgICAgICAgICAgIGlmICJDaGF0Um9vbSIgaW4gdGFibGVzOgogICAgICAgICAgICAgICAgZm9yIHIgaW4gY19jb25uLmV4ZWN1dGUoIlNFTEVDVCBDaGF0Um9vbU5hbWUsIFVzZXJOYW1lLCBEaXNwbGF5TmFtZSBGUk9NIENoYXRSb29tIik6CiAgICAgICAgICAgICAgICAgICAgaWYgclsiQ2hhdFJvb21OYW1lIl0gYW5kIHJbIlVzZXJOYW1lIl06CiAgICAgICAgICAgICAgICAgICAgICAgIGN1ci5leGVjdXRlKCIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgSU5TRVJUIE9SIFJFUExBQ0UgSU5UTyBjaGF0cm9vbV9tZW1iZXJzIChjaGF0cm9vbV91c2VybmFtZSwgbWVtYmVyX3VzZXJuYW1lLCBkaXNwbGF5X25hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBWQUxVRVMgKD8sID8sID8pCiAgICAgICAgICAgICAgICAgICAgICAgICIiIiwgKHJbIkNoYXRSb29tTmFtZSJdLCByWyJVc2VyTmFtZSJdLCByWyJEaXNwbGF5TmFtZSJdKSkKCiAgICAgICAgICAgICMg5Lya6K+d6KGoIChTZXNzaW9uKQogICAgICAgICAgICBpZiAiU2Vzc2lvbiIgaW4gdGFibGVzOgogICAgICAgICAgICAgICAgY29scyA9IFtyWzFdIGZvciByIGluIGNfY29ubi5leGVjdXRlKCJQUkFHTUEgdGFibGVfaW5mbyhTZXNzaW9uKSIpLmZldGNoYWxsKCldCiAgICAgICAgICAgICAgICB0aW1lX2NvbCA9ICJDcmVhdGVUaW1lIiBpZiAiQ3JlYXRlVGltZSIgaW4gY29scyBlbHNlICIwIgogICAgICAgICAgICAgICAgY29udGVudF9jb2wgPSAiQ29udGVudCIgaWYgIkNvbnRlbnQiIGluIGNvbHMgZWxzZSAiJyciCiAgICAgICAgICAgICAgICAjIOmihOi9veiBlOezu+S6uuaYteensO+8jOmBv+WFjemAkOS8muivneWbnuafpe+8iE4rMe+8iQogICAgICAgICAgICAgICAgbmFtZV9ieV91c2VyID0gewogICAgICAgICAgICAgICAgICAgIHJvd1swXTogcm93WzFdCiAgICAgICAgICAgICAgICAgICAgZm9yIHJvdyBpbiBjdXIuZXhlY3V0ZSgiU0VMRUNUIHVzZXJuYW1lLCBkaXNwbGF5X25hbWUgRlJPTSBjb250YWN0cyIpCiAgICAgICAgICAgICAgICAgICAgaWYgcm93WzBdCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBmb3IgciBpbiBjX2Nvbm4uZXhlY3V0ZShmIlNFTEVDVCBzdHJVc3JOYW1lLCB7dGltZV9jb2x9IEFTIGxhc3RfdGltZSwge2NvbnRlbnRfY29sfSBBUyBzdW1tYXJ5IEZST00gU2Vzc2lvbiIpOgogICAgICAgICAgICAgICAgICAgIHVuYW1lID0gclsic3RyVXNyTmFtZSJdCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IHVuYW1lOgogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgICAgIHN0eXBlID0gInJvb20iIGlmICJAY2hhdHJvb20iIGluIHVuYW1lIG9yICJAb3BlbmltIiBpbiB1bmFtZSBlbHNlICgiZ2giIGlmIHVuYW1lLnN0YXJ0c3dpdGgoImdoXyIpIGVsc2UgImMyYyIpCiAgICAgICAgICAgICAgICAgICAgZG5hbWUgPSBuYW1lX2J5X3VzZXIuZ2V0KHVuYW1lKSBvciB1bmFtZQoKICAgICAgICAgICAgICAgICAgICBjdXIuZXhlY3V0ZSgiIiIKICAgICAgICAgICAgICAgICAgICAgICAgSU5TRVJUIE9SIFJFUExBQ0UgSU5UTyBzZXNzaW9ucyAodXNlcm5hbWUsIHR5cGUsIGRpc3BsYXlfbmFtZSwgbGFzdF90aW1lLCBsYXN0X21zZ19wcmV2aWV3KQogICAgICAgICAgICAgICAgICAgICAgICBWQUxVRVMgKD8sID8sID8sID8sID8pCiAgICAgICAgICAgICAgICAgICAgIiIiLCAodW5hbWUsIHN0eXBlLCBkbmFtZSwgclsibGFzdF90aW1lIl0sIHJbInN1bW1hcnkiXSkpCgogICAgICAgICAgICBjX2Nvbm4uY2xvc2UoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoZiJFcnJvciBwYXJzaW5nIDMueCBNaWNyb01zZy5kYiB7ZGJfZmlsZX06IHtlfSIpCgogICAgIyDmn6Xmib4gTVNHKi5kYgogICAgIyAzLngg55qE5raI5oGv5bqT5ZCN5LiN5q2iIE1TRyouZGLvvJpNZWRpYU1TRyouZGLvvIjlqpLkvZPmtojmga/vvInlkIzmoLflj6/og73mib/ovb3mtojmga/ooajjgIIKICAgICMg57uf5LiA55SoICpNU0cqLmRiIOimhueblu+8jOeUseWGhemDqOeahCBNU0cvQ2hhdENSTXNnIOihqOaOoua1i+i/h+a7pO+8jOWboOatpOWkmuWMuemFjeWIsOeahAogICAgIyBNaWNyb01zZy5kYu+8iOWPquaciSBDb250YWN0L0NoYXRSb29tL1Nlc3Npb24g6KGo77yJ5Lya6KKr5a6J5YWo6Lez6L+H44CCCiAgICBtc2dfZGJfZmlsZXMgPSBzb3J0ZWQoc2V0KGxpc3QoZGVjcnlwdGVkX2Rpci5yZ2xvYigiKk1TRyouZGIiKSkgKyBsaXN0KGRlY3J5cHRlZF9kaXIucmdsb2IoIkNoYXRNc2cuZGIiKSkpKQogICAgZm9yIGRiX2ZpbGUgaW4gbXNnX2RiX2ZpbGVzOgogICAgICAgIHRyeToKICAgICAgICAgICAgbV9jb25uID0gc3FsaXRlMy5jb25uZWN0KGYiZmlsZTp7ZGJfZmlsZX0/bW9kZT1ybyIsIHVyaT1UcnVlKQogICAgICAgICAgICBtX2Nvbm4ucm93X2ZhY3RvcnkgPSBzcWxpdGUzLlJvdwogICAgICAgICAgICB0YWJsZXMgPSBbclswXSBmb3IgciBpbiBtX2Nvbm4uZXhlY3V0ZSgiU0VMRUNUIG5hbWUgRlJPTSBzcWxpdGVfbWFzdGVyIFdIRVJFIHR5cGU9J3RhYmxlJyIpXQogICAgICAgICAgICB0YXJnZXRfdGFibGUgPSAiTVNHIiBpZiAiTVNHIiBpbiB0YWJsZXMgZWxzZSAoIkNoYXRDUk1zZyIgaWYgIkNoYXRDUk1zZyIgaW4gdGFibGVzIGVsc2UgTm9uZSkKCiAgICAgICAgICAgIGlmIHRhcmdldF90YWJsZToKICAgICAgICAgICAgICAgIGNvbHMgPSBbclsxXSBmb3IgciBpbiBtX2Nvbm4uZXhlY3V0ZShmIlBSQUdNQSB0YWJsZV9pbmZvKCd7dGFyZ2V0X3RhYmxlfScpIikuZmV0Y2hhbGwoKV0KICAgICAgICAgICAgICAgIHRhbGtlcl9jb2wgPSAiU3RyVGFsa2VyIiBpZiAiU3RyVGFsa2VyIiBpbiBjb2xzIGVsc2UgKCJUYWxrZXJJZCIgaWYgIlRhbGtlcklkIiBpbiBjb2xzIGVsc2UgIicnIikKICAgICAgICAgICAgICAgIGNvbnRlbnRfY29sID0gIlN0ckNvbnRlbnQiIGlmICJTdHJDb250ZW50IiBpbiBjb2xzIGVsc2UgIicnIgogICAgICAgICAgICAgICAgdHlwZV9jb2wgPSAiVHlwZSIgaWYgIlR5cGUiIGluIGNvbHMgZWxzZSAiMSIKICAgICAgICAgICAgICAgIHRpbWVfY29sID0gIkNyZWF0ZVRpbWUiIGlmICJDcmVhdGVUaW1lIiBpbiBjb2xzIGVsc2UgIjAiCiAgICAgICAgICAgICAgICBleHRyYV9jb2wgPSAiQnl0ZXNFeHRyYSIgaWYgIkJ5dGVzRXh0cmEiIGluIGNvbHMgZWxzZSAiTlVMTCIKCiAgICAgICAgICAgICAgICBmb3IgciBpbiBtX2Nvbm4uZXhlY3V0ZSgKICAgICAgICAgICAgICAgICAgICBmIlNFTEVDVCBsb2NhbElkLCB7dGFsa2VyX2NvbH0gQVMgU3RyVGFsa2VyLCBJc1NlbmRlciwge3R5cGVfY29sfSBBUyBUeXBlLCAiCiAgICAgICAgICAgICAgICAgICAgZiJ7dGltZV9jb2x9IEFTIENyZWF0ZVRpbWUsIHtjb250ZW50X2NvbH0gQVMgU3RyQ29udGVudCwge2V4dHJhX2NvbH0gQVMgQnl0ZXNFeHRyYSAiCiAgICAgICAgICAgICAgICAgICAgZiJGUk9NICd7dGFyZ2V0X3RhYmxlfSciCiAgICAgICAgICAgICAgICApOgogICAgICAgICAgICAgICAgICAgIHNlc3Npb25fbmFtZSA9IHJbIlN0clRhbGtlciJdCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IHNlc3Npb25fbmFtZToKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBpc19zZW5kZXIgPSByWyJJc1NlbmRlciJdCiAgICAgICAgICAgICAgICAgICAgaWYgaXNfc2VuZGVyID09IDE6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbmRlcl9uYW1lID0gIm1lIgogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgICMg576k6IGK6YeMIFN0clRhbGtlciDmmK/nvqQgSUTvvIznnJ/lrp7lj5HoqIDkurrlnKggQnl0ZXNFeHRyYSDkuK3vvJsKICAgICAgICAgICAgICAgICAgICAgICAgIyDmj5Dlj5blpLHotKXliJnlm57pgIDkuLrnvqQgSUTvvIjljbPkv67lpI3liY3nmoTooYzkuLrvvIkKICAgICAgICAgICAgICAgICAgICAgICAgc2VuZGVyX25hbWUgPSBfZXh0cmFjdF92M19ncm91cF9zZW5kZXIoclsiQnl0ZXNFeHRyYSJdKSBvciBzZXNzaW9uX25hbWUKICAgICAgICAgICAgICAgICAgICAjIOebtOaOpeWtmCBTdHJDb250ZW50IOS8mue7lei/hyBidWlsZF9jb250ZW5077yM5a+86Ie0IFvmlofku7ZdL1vlm77niYddIOetiQogICAgICAgICAgICAgICAgICAgICMg5qCH562+57y65aSx44CBc2VhcmNoX3NoYXJlZF9maWxlcyDlnKggMy54IOaVsOaNruS4iuaBkuS4uuepuuOAgue7n+S4gOi1sOWQjOS4gOWFpeWPo+OAggogICAgICAgICAgICAgICAgICAgIGNvbnRlbnQgPSBidWlsZF9jb250ZW50KHJbIlR5cGUiXSwgclsiU3RyQ29udGVudCJdLCBOb25lKQoKICAgICAgICAgICAgICAgICAgICBjdXIuZXhlY3V0ZSgiIiIKICAgICAgICAgICAgICAgICAgICAgICAgSU5TRVJUIElOVE8gbWVzc2FnZXMKICAgICAgICAgICAgICAgICAgICAgICAgKHNvdXJjZV9maWxlLCBsb2NhbF9pZCwgc2Vzc2lvbl91c2VybmFtZSwgc2VuZGVyX3VzZXJuYW1lLCBjcmVhdGVfdGltZSwgbG9jYWxfdHlwZSwgY29udGVudCkKICAgICAgICAgICAgICAgICAgICAgICAgVkFMVUVTICg/LCA/LCA/LCA/LCA/LCA/LCA/KQogICAgICAgICAgICAgICAgICAgICAgICBPTiBDT05GTElDVChzb3VyY2VfZmlsZSwgc2Vzc2lvbl91c2VybmFtZSwgbG9jYWxfaWQpIERPIFVQREFURSBTRVQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbmRlcl91c2VybmFtZSA9IGV4Y2x1ZGVkLnNlbmRlcl91c2VybmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZV90aW1lICAgICA9IGV4Y2x1ZGVkLmNyZWF0ZV90aW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9jYWxfdHlwZSAgICAgID0gZXhjbHVkZWQubG9jYWxfdHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQgICAgICAgICA9IGV4Y2x1ZGVkLmNvbnRlbnQKICAgICAgICAgICAgICAgICAgICAiIiIsIChkYl9maWxlLm5hbWUsIHJbImxvY2FsSWQiXSwgc2Vzc2lvbl9uYW1lLCBzZW5kZXJfbmFtZSwgclsiQ3JlYXRlVGltZSJdLCByWyJUeXBlIl0sIGNvbnRlbnQpKQoKICAgICAgICAgICAgbV9jb25uLmNsb3NlKCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKGYiRXJyb3IgcGFyc2luZyAzLnggTVNHIGRiIHtkYl9maWxlfToge2V9IikK
+"""绿泡泡 3.x 数据库解析同步模块
+
+绿泡泡 3.x 数据特征：
+- 数据库位于 MicroMsg.db, MSG0.db, MSG1.db, MediaMSG0.db 等
+- MicroMsg.db:
+    - Contact 表: UserName, Alias, Remark, NickName, Type
+    - ChatRoom 表: ChatRoomName, UserName, DisplayName
+- MSG*.db:
+    - MSG 表集中存储所有聊天记录: localId, StrTalker, IsSender, CreateTime, Type, SubType, StrContent, BytesExtra, CompressContent
+"""
+
+import sqlite3
+import re
+import logging
+from pathlib import Path
+
+from ..parser import build_content
+
+logger = logging.getLogger(__name__)
+
+
+def _extract_v3_group_sender(bytes_extra) -> str:
+    """3.x 群聊的发言人不单独成列，而是编码在 BytesExtra 二进制里。
+
+    尽力提取 wxid_/gh_ 形式的标识；提取不到就返回空串，由调用方回退为会话 ID
+    （即修复前的行为），因此不会比现状更差。
+    """
+    if not bytes_extra:
+        return ""
+    if isinstance(bytes_extra, str):
+        bytes_extra = bytes_extra.encode("utf-8", errors="ignore")
+    if not isinstance(bytes_extra, (bytes, bytearray)):
+        return ""
+    match = re.search(rb"(wxid_[A-Za-z0-9_\-]{3,}|gh_[A-Za-z0-9_\-]{3,})", bytes(bytes_extra))
+    return match.group(1).decode("ascii", errors="ignore") if match else ""
+
+
+def is_v3_layout(decrypted_dir: Path) -> bool:
+    """判断是否为绿泡泡 3.x 解密结构"""
+    patterns = [
+        decrypted_dir / "MicroMsg.db",
+        decrypted_dir / "Msg" / "MicroMsg.db",
+        decrypted_dir / "Multi" / "MSG0.db",
+        decrypted_dir / "Msg" / "Multi" / "MSG0.db",
+        decrypted_dir / "MSG0.db",
+    ]
+    return any(p.exists() for p in patterns)
+
+
+def sync_v3(decrypted_dir: Path, cur: sqlite3.Cursor) -> None:
+    """执行绿泡泡 3.x 数据库同步"""
+    # 查找 MicroMsg.db
+    micromsg_candidates = list(decrypted_dir.rglob("MicroMsg.db"))
+    for db_file in micromsg_candidates:
+        try:
+            c_conn = sqlite3.connect(f"file:{db_file}?mode=ro", uri=True)
+            c_conn.row_factory = sqlite3.Row
+            tables = [r[0] for r in c_conn.execute("SELECT name FROM sqlite_master WHERE type='table'")]
+
+            # 联系人表 (Contact)
+            if "Contact" in tables:
+                for r in c_conn.execute("SELECT UserName, Alias, Remark, NickName, Type FROM Contact"):
+                    uname = r["UserName"]
+                    if not uname:
+                        continue
+                    disp = r["Remark"] or r["NickName"] or r["Alias"] or uname
+                    cur.execute("""
+                        INSERT OR REPLACE INTO contacts (username, alias, display_name, type)
+                        VALUES (?, ?, ?, ?)
+                    """, (uname, r["Alias"], disp, r["Type"] or 0))
+
+            # 群成员表 (ChatRoom)
+            if "ChatRoom" in tables:
+                for r in c_conn.execute("SELECT ChatRoomName, UserName, DisplayName FROM ChatRoom"):
+                    if r["ChatRoomName"] and r["UserName"]:
+                        cur.execute("""
+                            INSERT OR REPLACE INTO chatroom_members (chatroom_username, member_username, display_name)
+                            VALUES (?, ?, ?)
+                        """, (r["ChatRoomName"], r["UserName"], r["DisplayName"]))
+
+            # 会话表 (Session)
+            if "Session" in tables:
+                cols = [r[1] for r in c_conn.execute("PRAGMA table_info(Session)").fetchall()]
+                time_col = "CreateTime" if "CreateTime" in cols else "0"
+                content_col = "Content" if "Content" in cols else "''"
+                # 预载联系人昵称，避免逐会话回查（N+1）
+                name_by_user = {
+                    row[0]: row[1]
+                    for row in cur.execute("SELECT username, display_name FROM contacts")
+                    if row[0]
+                }
+                for r in c_conn.execute(f"SELECT strUsrName, {time_col} AS last_time, {content_col} AS summary FROM Session"):
+                    uname = r["strUsrName"]
+                    if not uname:
+                        continue
+                    stype = "room" if "@chatroom" in uname or "@openim" in uname else ("gh" if uname.startswith("gh_") else "c2c")
+                    dname = name_by_user.get(uname) or uname
+
+                    cur.execute("""
+                        INSERT OR REPLACE INTO sessions (username, type, display_name, last_time, last_msg_preview)
+                        VALUES (?, ?, ?, ?, ?)
+                    """, (uname, stype, dname, r["last_time"], r["summary"]))
+
+            c_conn.close()
+        except Exception as e:
+            logger.warning(f"Error parsing 3.x MicroMsg.db {db_file}: {e}")
+
+    # 查找 MSG*.db
+    # 3.x 的消息库名不止 MSG*.db：MediaMSG*.db（媒体消息）同样可能承载消息表。
+    # 统一用 *MSG*.db 覆盖，由内部的 MSG/ChatCRMsg 表探测过滤，因此多匹配到的
+    # MicroMsg.db（只有 Contact/ChatRoom/Session 表）会被安全跳过。
+    msg_db_files = sorted(set(list(decrypted_dir.rglob("*MSG*.db")) + list(decrypted_dir.rglob("ChatMsg.db"))))
+    for db_file in msg_db_files:
+        try:
+            m_conn = sqlite3.connect(f"file:{db_file}?mode=ro", uri=True)
+            m_conn.row_factory = sqlite3.Row
+            tables = [r[0] for r in m_conn.execute("SELECT name FROM sqlite_master WHERE type='table'")]
+            target_table = "MSG" if "MSG" in tables else ("ChatCRMsg" if "ChatCRMsg" in tables else None)
+
+            if target_table:
+                cols = [r[1] for r in m_conn.execute(f"PRAGMA table_info('{target_table}')").fetchall()]
+                talker_col = "StrTalker" if "StrTalker" in cols else ("TalkerId" if "TalkerId" in cols else "''")
+                content_col = "StrContent" if "StrContent" in cols else "''"
+                type_col = "Type" if "Type" in cols else "1"
+                time_col = "CreateTime" if "CreateTime" in cols else "0"
+                extra_col = "BytesExtra" if "BytesExtra" in cols else "NULL"
+
+                for r in m_conn.execute(
+                    f"SELECT localId, {talker_col} AS StrTalker, IsSender, {type_col} AS Type, "
+                    f"{time_col} AS CreateTime, {content_col} AS StrContent, {extra_col} AS BytesExtra "
+                    f"FROM '{target_table}'"
+                ):
+                    session_name = r["StrTalker"]
+                    if not session_name:
+                        continue
+                    is_sender = r["IsSender"]
+                    if is_sender == 1:
+                        sender_name = "me"
+                    else:
+                        # 群聊里 StrTalker 是群 ID，真实发言人在 BytesExtra 中；
+                        # 提取失败则回退为群 ID（即修复前的行为）
+                        sender_name = _extract_v3_group_sender(r["BytesExtra"]) or session_name
+                    # 直接存 StrContent 会绕过 build_content，导致 [文件]/[图片] 等
+                    # 标签缺失、search_shared_files 在 3.x 数据上恒为空。统一走同一入口。
+                    content = build_content(r["Type"], r["StrContent"], None)
+
+                    cur.execute("""
+                        INSERT INTO messages
+                        (source_file, local_id, session_username, sender_username, create_time, local_type, content)
+                        VALUES (?, ?, ?, ?, ?, ?, ?)
+                        ON CONFLICT(source_file, session_username, local_id) DO UPDATE SET
+                            sender_username = excluded.sender_username,
+                            create_time     = excluded.create_time,
+                            local_type      = excluded.local_type,
+                            content         = excluded.content
+                    """, (db_file.name, r["localId"], session_name, sender_name, r["CreateTime"], r["Type"], content))
+
+            m_conn.close()
+        except Exception as e:
+            logger.warning(f"Error parsing 3.x MSG db {db_file}: {e}")

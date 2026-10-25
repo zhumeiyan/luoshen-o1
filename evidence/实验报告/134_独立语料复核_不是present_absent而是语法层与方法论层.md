@@ -1,1 +1,85 @@
-IyBleHAxMzQg54us56uL6K+t5paZ5aSN5qC477ya5YiG5bGC5LiN5pivIHByZXNlbnQvYWJzZW5077yM5pivIHN5bnRheC9tZXRob2RvbG9neQoKIyMg5Li65LuA5LmI5b+F6aG75o2i6K+t5paZCmV4cDEzMyDnmoQgcHJlc2VudC9hYnNlbnQg5ouG5YiG77yIcHJlc2VudCA2Ni43JSAvIGFic2VudCAwJe+8ieaYryoq55yL5Yiw5pWw5o2u5LmL5ZCOKirmiY3lgZrnmoTjgIIK6ICM5LiUIGNvcnB1czHvvIg2MSDmlofku7YgLyA5IOS7k+W6k++8ieaYr+aJgOaciSBidWcg5L+u5aSN55qE5p2l5rqQ4oCU4oCU6KeE5YiZ5q2j5piv5Zyo6L+Z5Lqb5LuT5bqT5LiK6LCD5Ye65p2l55qE44CCCmNvcnB1czIg5piv5ZCM5qC3IDkg5LuT5bqT55qE55WZ5Ye65paH5Lu277yM5YWx5Lqr5LuT5bqT57qn5rGh5p+T77yMKirkuI3nrpfni6znq4sqKuOAggoK5pys6L2u5paw5bu6IGNvcnB1czPvvJoqKjcg5Liq5q2k5YmN5LuO5pyq55So6L+H55qE5LuT5bqT77yMMTAg5Liq5paH5Lu2KirvvIhyYWdhcyAvIGRlZXBldmFsIC8KcHJvbXB0Zm9vIC8gbWxmbG93IC8gb3BpayAvIHVuaXR4dCAvIGJpZ2NvZGUtZXZhbHVhdGlvbi1oYXJuZXNz77yJ44CCCgojIyDpooTms6jlhozvvIjot5HkuYvliY3lhpnlhaUgUFJFUkVHLm1k77yM5Yik5o2u5LiN6ZqP57uT5p6c5pS577yJCi0gRzEg5Y+s5Zue5LiN5o6J44CARzIg5bSp5rqDPTDjgIBHMyBwcmVzZW50IOihjOe6p+S4peagvOeyvuW6puKJpTYwJeOAgEc0IGFic2VudCDmlofku7bnuqfiiaU2MCUKLSBIMSBwcmVzZW50IOihjOe6p+KJpTYwJeOAgEgyIGFic2VudCDmlofku7bnuqfiiaU2MCXjgIBIMyBhYnNlbnQg6KGM57qnIDwgcHJlc2VudCDooYznuqcKCiMjIOe7k+aenO+8muS4ieS4qumihOazqOWGjOmXuOmXqOWFqCBGQUlMCgp8IOWIh+eJhyB8IG4gfCDkuKXmoLxUUCB8ICUgfCDlrZfpnaLmiJDnq4sobG9vc2UpIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18Cnwg6KGM57qn5YWo6YOoIChHMykgfCAyOSB8IDE1IHwgKio1MS43JSoqIEZBSUwgfCA5Ni42JSB8Cnwg5paH5Lu257qnIChHNCkgfCAxNiB8IDEgfCAqKjYuMiUqKiBGQUlMIHwgODcuNSUgfAp8IOWFqOmDqCB8IDQ1IHwgMTYgfCAzNS42JSB8IDkzLjMlIHwKCioqSDHjgIFIMiDlnYfooqvmjqjnv7vjgIIqKiBleHAxMzMg55qEIDY2LjclIOacquWcqOeLrOeri+ivreaWmeWkjeeOsOKAlOKAlOivtOaYjumCo+S4quaLhuWIhuS4jeaYr+S4u+aViOW6lOOAggoKIyMg55yf5q2j55qE5YiG5bGC77yI5LqL5ZCO5Y+R546w77yM5b+F6aG75qCH6K6w77yJCgp8IOinhOWImeexuyB8IG4gfCDkuKXmoLxUUCB8ICUgfAp8LS0tfC0tLXwtLS18LS0tfAp8ICoqc3ludGF4KirvvIhFRzAwNSDmnKrkv53miqTpmaTms5UgLyBFRzAwNiDoo7hleGNlcHQgLyBFR1AwMSDlvqrnjq/lhoXpnZnpu5jlpITnkIbvvIkgfCAxNiB8ICoqMTUqKiB8ICoqOTMuOCUqKiB8CnwgKiptZXRob2RvbG9neSoq77yI5Z+657q/IC8g55WZ5Ye66ZuGIC8g572u5L+h5Yy66Ze0IC8g6aG65bqP5Lqk5o2iIC8g5Y2V5oyH5qCH5peP4oCm77yJIHwgMjkgfCAqKjEqKiB8ICoqMy40JSoqIHwKCuivreazleWxguaWreiogOeahOaYryoq5LiA5Liq6IqC54K5KirnmoTmgKfotKjvvJrov5nkuKrpmaTms5XmsqHmnInlrojljavjgIHov5nkuKogZXhjZXB0IOaYr+ijuOeahOOAguivgeaNruWwseWcqOiKgueCuemHjO+8jAror4TlrqHogIXnnIvkuIDnnLzlsLHog73noa7orqTvvIzmiYDku6Xog73mjqjlub/liLDku47mnKrop4Hov4fnmoTku6PnoIHjgIIKCuaWueazleiuuuWxguaWreiogOeahOaYryoq5LiA6aG556CU56m2KirnmoTmgKfotKjjgILlnKjnnJ/lrp7ku6PnoIHkuIrlroPku6zlhajpg6jokL3lnKgqKuaMh+agh+W6k+WSjOahhuaetueuoemBkyoq6YeM4oCU4oCUCuiiq+aMh+aOp+eahOWvueixoeagueacrOS4jeWtmOWcqOOAggoKIyMjIGxvb3NlIOWFqOi/h+e6v++8jOS9huaIkeS7rOaLkue7neWugwptZXRob2RvbG9neSDnmoTlrZfpnaLmiJDnq4vnjocgKio4OS43JSoq77yIIuacrOaWh+S7tuehruWunuayoeacieWfuue6vyLigJTigJTnnJ/nmoTmsqHmnInvvInjgIIK5L2GIGV4cDEzMSDlt7Lnu4/or4HmmI7vvJoqKmxvb3NlIOagh+WHhuato+aYr+iuqSB2MC4zLjAg5LulIDExJSDnsr7luqbkuIrmnrbnmoTpgqPmiorlsLrlrZAqKuOAggrmiYDku6XmnKzova7kuI3ku6UgbG9vc2Ug5Li65Y+R6LSn5L6d5o2u44CCCgojIyDljZXkuKrop4TliJkKCmBgYApFRzAwNSDpmaTms5UgICA2LzYgICAgRUcwMDYg6KO4ZXhjZXB0IDcvOCAgICBFR1AwMSAyLzIgICAgRUdQMDQgMS8xKG49MSzkuI3lj5HotKcpCkVHMDExIDAvNSAgIEVHMDA5IDAvNCAgIEVHUDA4IDAvMyAgIEVHUDA2IDAvMyAgIEVHMDAyIDAvMiAgIEVHUDA1IDAvMgpFR1AwOSAwLzIgICBFRzAxMCAwLzIgICBFRzAwOCAwLzEgICBFR1AwMyAwLzEgICBFRzAxMiAwLzEgICBFRzAxNSAwLzEgICBFRzAxNiAwLzEKYGBgCgoqKkVHMDAy44CM5oql5oyH5qCH5peg5Z+657q/44CN4oCU4oCU5oiR5Lus55qE5peX6Iiw5Y2W54K54oCU4oCU5Zyo5paw6K+t5paZ5LiKIDAvMuOAgioqCuWug+WcqCBleHAxMzAg5piv5ZSv5LiA5LiA5p2h5Lil5qC855yf6Ziz5oCn44CC6YKj5p2h55yf6Ziz5oCn5piv6K+t5paZ54m55byC55qE44CCCgojIyDlhrPlrpoKLSBzaGlwcGVkID0gKipFRzAwNSAvIEVHMDA2IC8gRUdQMDEqKu+8iGBjbGFzc2VzLnB5YO+8iQotIG1ldGhvZG9sb2d5IOWFqOmDqOenu+WIsCBgTUVUSE9ET0xPR1lfT05gIOeglOeptuW8gOWFs+WQju+8jOS4jei/m+WPkei0p+mXuOmXqAotICoqRUdQMDQg6Jm9IDEvMe+8jG49Me+8jOS4jeWPkei0pyoq4oCU4oCU5ZyoIDEg5Liq5qC35pys5LiK5o+Q5Y2H6KeE5YiZ5bCx5piv5a+56YKj5Liq5qC35pys6L+H5ouf5ZCICgojIyDmlrDpspzor63ms5XlpLnlhbfkuIrnmoTlj6zlm57vvIjljp/lpLnlhbflhajmmK/mlrnms5XorrrlsYLvvIzpqozor4HkuI3kuobor63ms5XlsYLvvIkK5paw5bu6IGB0ZXN0cy9taW5lZmllbGRfc3ludGF4LnB5YO+8mkVHMDA1ICoqMy8zKirjgIFFRzAwNiAqKjIvMioq44CBRUdQMDEgKioxLzEqKu+8mwpgY2xlYW5fZXZhbC5weWAgLyBgcHJvX2NsZWFuLnB5YCAqKjAvMCoq44CCCgoqKuWOn+acieWfi+mbt+WkueWFt+eahCAxMi8xMiDlj6rog73pqozor4Hmlrnms5Xorrrop4TliJkqKuKAlOKAlOiAjOaWueazleiuuuinhOWImeato+aYr+iiq+ivgeS8queahOmCo+S4gOexu+OAggrmiYDku6XpgqPkuKoi5Y+s5ZueIDEyLzEyIuWvueS6p+WTgeaYryoq5b6q546v6K666K+BKirvvIzmraTliY3kuIDnm7TooqvlvZPmiJDmraPpnaLor4Hmja7jgIIKCiMjIOWbm+S4qumUmeivrwoKMS4gKirlpLnlhbfms6jph4rmiorop4TliJnpnZnpn7PkuoYqKu+8muaIkeWGmSBgIyBFRzAwNjogYmFyZSBleGNlcHRg77yM6ICMIEVHMDA2IOS8muivu+S9nOiAheaJueazqOadpQogICDliKTmlq0i6L+Z5Liq5ZCe5o6J5piv5pyJ5oSP55qEIuKAlOKAlOaPj+i/sOi/meS4qumbt+eahOazqOmHiu+8jOato+aYr+iuqeinhOWImeS4jeWTjeeahOWOn+WboOOAggogICAqKuWIpOaNruaguCAjMjMg56ys5Zub5qyh5aSN5Y+RKirvvIh2MC4xIC8gdjAuMiAvIDEzMCAvIDEzNO+8ieOAggoyLiAqKuaJk+WNsOWPquWPliBgaGl0c1swXWAqKu+8jOivr+S7peS4uiBFRzAwNSDlj6rlkb3kuK0gMSDmnaHvvIzlt67ngrnlhpnmiJAi5Y+s5Zue5LiN6LazIuOAggozLiBgY2xhc3Nlcy5weWAg5Yid54mI5oqKIEVHUDA0IOaUvui/myBTWU5UQVjvvIzkuI7nu5/orqHooajlj6PlvoTkuI3kuIDoh7TvvIjooajmmK8gMTYg5p2h5LiN5ZCrIEVHUDA077yJ77yMCiAgIOWxnuS6juS6i+WQjuaMkemAieOAggo0LiBmaWxlLWxldmVsIOWIhuaUryBgY29udGludWVgIOaXqeS6juWPkei0p+i/h+a7pO+8jHNoaXBwZWQoKSDlr7nlroPml6DmlYjigJTigJTooaXkuIHmiZPkuobkvYbmsqHnlJ/mlYjvvIwKICAg5LiOIDEzMiDpgqPkuKoicGF0Y2gg5rKh55Sf5pWI5Y205b2S5Zug5LqO6YC76L6RIuWQjOexu+OAggoKIyMg6L6555WMCi0g5Yik5a6a6ICF5Y+q5pyJ5oiR5LiA5Liq77yb5a2Y55aR5LiA5b6L6K6wIEZQ77yI5L+d5a6I5pa55ZCR77yM6aKE5rOo5YaM77yJ44CCCi0gY29ycHVzMyDlj6rmnIkgMTAg5Liq5paH5Lu244CBNDUg5p2h5Y+R546w77yMKirlj6rmiqXmlbDkuI3miqUgQ0kqKuOAggotIHN5bnRheC9tZXRob2RvbG9neSDnmoTliJLliIbmmK8qKueci+WIsOaVsOaNruS5i+WQjioq5YGa55qE77yM5b+F6aG75Zyo56ys5LiJ5Liq6K+t5paZ5LiK56Gu6K6k44CCCi0g57K+5bqm5ZyoIGNvcnB1czMg5LiK6YeP44CB5Y+s5Zue5Zyo6Ieq5bex5aS55YW35LiK6YeP77yM5Lik6ICF5LiN5Y+v55u45LmY5b6X5Ye6IuaVtOS9k+i0qOmHjyLjgIIKCiMjIOiHquajgArlhpkgYC9kZXYvZmIwYCAzLDE0NSw3Mjgg5a2X6IqC44CB5Zue6YeH5ZCM5a2X6IqC44CB6YCQ5L2N55u4562JIFRydWXvvJsKT0NSIOagoemqjOeggSAqKk04UjRWWCoqIOWRveS4re+8jDEwLzEwIOaOoumSiOOAggo=
+# exp134 独立语料复核：分层不是 present/absent，是 syntax/methodology
+
+## 为什么必须换语料
+exp133 的 present/absent 拆分（present 66.7% / absent 0%）是**看到数据之后**才做的。
+而且 corpus1（61 文件 / 9 仓库）是所有 bug 修复的来源——规则正是在这些仓库上调出来的。
+corpus2 是同样 9 仓库的留出文件，共享仓库级污染，**不算独立**。
+
+本轮新建 corpus3：**7 个此前从未用过的仓库，10 个文件**（ragas / deepeval /
+promptfoo / mlflow / opik / unitxt / bigcode-evaluation-harness）。
+
+## 预注册（跑之前写入 PREREG.md，判据不随结果改）
+- G1 召回不掉　G2 崩溃=0　G3 present 行级严格精度≥60%　G4 absent 文件级≥60%
+- H1 present 行级≥60%　H2 absent 文件级≥60%　H3 absent 行级 < present 行级
+
+## 结果：三个预注册闸门全 FAIL
+
+| 切片 | n | 严格TP | % | 字面成立(loose) |
+|---|---|---|---|---|
+| 行级全部 (G3) | 29 | 15 | **51.7%** FAIL | 96.6% |
+| 文件级 (G4) | 16 | 1 | **6.2%** FAIL | 87.5% |
+| 全部 | 45 | 16 | 35.6% | 93.3% |
+
+**H1、H2 均被推翻。** exp133 的 66.7% 未在独立语料复现——说明那个拆分不是主效应。
+
+## 真正的分层（事后发现，必须标记）
+
+| 规则类 | n | 严格TP | % |
+|---|---|---|---|
+| **syntax**（EG005 未保护除法 / EG006 裸except / EGP01 循环内静默处理） | 16 | **15** | **93.8%** |
+| **methodology**（基线 / 留出集 / 置信区间 / 顺序交换 / 单指标族…） | 29 | **1** | **3.4%** |
+
+语法层断言的是**一个节点**的性质：这个除法没有守卫、这个 except 是裸的。证据就在节点里，
+评审者看一眼就能确认，所以能推广到从未见过的代码。
+
+方法论层断言的是**一项研究**的性质。在真实代码上它们全部落在**指标库和框架管道**里——
+被指控的对象根本不存在。
+
+### loose 全过线，但我们拒绝它
+methodology 的字面成立率 **89.7%**（"本文件确实没有基线"——真的没有）。
+但 exp131 已经证明：**loose 标准正是让 v0.3.0 以 11% 精度上架的那把尺子**。
+所以本轮不以 loose 为发货依据。
+
+## 单个规则
+
+```
+EG005 除法   6/6    EG006 裸except 7/8    EGP01 2/2    EGP04 1/1(n=1,不发货)
+EG011 0/5   EG009 0/4   EGP08 0/3   EGP06 0/3   EG002 0/2   EGP05 0/2
+EGP09 0/2   EG010 0/2   EG008 0/1   EGP03 0/1   EG012 0/1   EG015 0/1   EG016 0/1
+```
+
+**EG002「报指标无基线」——我们的旗舰卖点——在新语料上 0/2。**
+它在 exp130 是唯一一条严格真阳性。那条真阳性是语料特异的。
+
+## 决定
+- shipped = **EG005 / EG006 / EGP01**（`classes.py`）
+- methodology 全部移到 `METHODOLOGY_ON` 研究开关后，不进发货闸门
+- **EGP04 虽 1/1，n=1，不发货**——在 1 个样本上提升规则就是对那个样本过拟合
+
+## 新鲜语法夹具上的召回（原夹具全是方法论层，验证不了语法层）
+新建 `tests/minefield_syntax.py`：EG005 **3/3**、EG006 **2/2**、EGP01 **1/1**；
+`clean_eval.py` / `pro_clean.py` **0/0**。
+
+**原有埋雷夹具的 12/12 只能验证方法论规则**——而方法论规则正是被证伪的那一类。
+所以那个"召回 12/12"对产品是**循环论证**，此前一直被当成正面证据。
+
+## 四个错误
+
+1. **夹具注释把规则静音了**：我写 `# EG006: bare except`，而 EG006 会读作者批注来
+   判断"这个吞掉是有意的"——描述这个雷的注释，正是让规则不响的原因。
+   **判据核 #23 第四次复发**（v0.1 / v0.2 / 130 / 134）。
+2. **打印只取 `hits[0]`**，误以为 EG005 只命中 1 条，差点写成"召回不足"。
+3. `classes.py` 初版把 EGP04 放进 SYNTAX，与统计表口径不一致（表是 16 条不含 EGP04），
+   属于事后挑选。
+4. file-level 分支 `continue` 早于发货过滤，shipped() 对它无效——补丁打了但没生效，
+   与 132 那个"patch 没生效却归因于逻辑"同类。
+
+## 边界
+- 判定者只有我一个；存疑一律记 FP（保守方向，预注册）。
+- corpus3 只有 10 个文件、45 条发现，**只报数不报 CI**。
+- syntax/methodology 的划分是**看到数据之后**做的，必须在第三个语料上确认。
+- 精度在 corpus3 上量、召回在自己夹具上量，两者不可相乘得出"整体质量"。
+
+## 自检
+写 `/dev/fb0` 3,145,728 字节、回采同字节、逐位相等 True；
+OCR 校验码 **M8R4VX** 命中，10/10 探针。

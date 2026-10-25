@@ -1,1 +1,129 @@
-IiIiSW5zdGFsbCB0aGUgcGlubmVkIFNHTGFuZyBydW50aW1lIGFuZCBpdHMgQ1VEQSBjb21waWxlciBjb21wb25lbnRzLiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGN0eXBlcwppbXBvcnQgaGFzaGxpYgppbXBvcnQgaW1wb3J0bGliLnV0aWwKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAppbXBvcnQgcGxhdGZvcm0KaW1wb3J0IHNobGV4CmltcG9ydCBzaHV0aWwKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHN5cwppbXBvcnQgdGVtcGZpbGUKaW1wb3J0IHZlbnYKCmZyb20gdG9vbGNoYWluIGltcG9ydCBpbnN0YWxsX3Rvb2xjaGFpbiwgcHJlcGFyZV9oZWFkZXJzCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KS0VSTkVMMTMwID0gKCJodHRwczovL2dpdGh1Yi5jb20vc2dsLXByb2plY3Qvd2hsL3JlbGVhc2VzL2Rvd25sb2FkL3YwLjQuNy8iCiAgICAic2dsYW5nX2tlcm5lbC0wLjQuNytjdTEzMC1jcDMxMC1hYmkzLW1hbnlsaW51eDIwMTRfeDg2XzY0LndobCIKICAgICIjc2hhMjU2PWQzMTIxMjhmMzNlOTVkZWMyZjdlOWY2YjdmNDI5NWQwOTJlNDMwY2I5ZWYzZTA3YTNhOTcwZTA3NDFjNzAyM2UiKQoKCmRlZiBydW4oYXJndiwgKiprd2FyZ3MpOgogICAgc3VicHJvY2Vzcy5ydW4obGlzdChtYXAoc3RyLCBhcmd2KSksIGNoZWNrPVRydWUsICoqa3dhcmdzKQoKCmRlZiBjdWRhX2J1aWxkKHJlcXVlc3RlZCk6CiAgICBsaWIgPSBjdHlwZXMuQ0RMTCgibGliY3VkYS5zby4xIikKICAgIGRlZiBjYWxsKG5hbWUsICphcmdzKToKICAgICAgICBpZiBnZXRhdHRyKGxpYiwgbmFtZSkoKmFyZ3MpOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoZiJ7bmFtZX0gZmFpbGVkOyBydW4gb24gYSBtYWNoaW5lIHdpdGggYSB2aXNpYmxlIE5WSURJQSBHUFUiKQogICAgY2FsbCgiY3VJbml0IiwgMCkKICAgIGNvdW50LCBkcml2ZXIgPSBjdHlwZXMuY19pbnQoKSwgY3R5cGVzLmNfaW50KCkKICAgIGNhbGwoImN1RGV2aWNlR2V0Q291bnQiLCBjdHlwZXMuYnlyZWYoY291bnQpKQogICAgY2FsbCgiY3VEcml2ZXJHZXRWZXJzaW9uIiwgY3R5cGVzLmJ5cmVmKGRyaXZlcikpCiAgICBpZiBjb3VudC52YWx1ZSA9PSAwOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigibm8gTlZJRElBIEdQVXMgYXJlIHZpc2libGUiKQogICAgYnVpbGQgPSAiY3UxMzAiIGlmIHJlcXVlc3RlZCA9PSAiYXV0byIgZWxzZSByZXF1ZXN0ZWQKICAgIGlmIGJ1aWxkICE9ICJjdTEzMCI6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJ0aGUgc2hhcmVkIFF3ZW4vR0xNIFNHTGFuZyBydW50aW1lIHJlcXVpcmVzIENVREEgMTMuMCIpCiAgICBpZiBkcml2ZXIudmFsdWUgPCAxMzAwMDoKICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoZiJOVklESUEgZHJpdmVyIGlzIHRvbyBvbGQgZm9yIHtidWlsZH0iKQogICAgcmV0dXJuIGJ1aWxkCgoKZGVmIHNldHVwX21vZHVsZSgpOgogICAgc3BlYyA9IGltcG9ydGxpYi51dGlsLnNwZWNfZnJvbV9maWxlX2xvY2F0aW9uKCJzZ2xhbmdfc2V0dXAiLCBST09UIC8gInNyYy9yZW1vcnkvYmFja2VuZHMvc2dsYW5nX3NldHVwLnB5IikKICAgIG1vZHVsZSA9IGltcG9ydGxpYi51dGlsLm1vZHVsZV9mcm9tX3NwZWMoc3BlYykKICAgIHNwZWMubG9hZGVyLmV4ZWNfbW9kdWxlKG1vZHVsZSkKICAgIHJldHVybiBtb2R1bGUKCgpkZWYgaW5zdGFsbChzdGF0ZSwgYnVpbGQpOgogICAgc3RhdGUubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgc2V0dXAgPSBzZXR1cF9tb2R1bGUoKQogICAgcmVjaXBlID0gc2V0dXAucmVjaXBlKCkKICAgIGZpbmdlcnByaW50ID0gaGFzaGxpYi5zaGEyNTYoanNvbi5kdW1wcyhyZWNpcGUsIHNvcnRfa2V5cz1UcnVlKS5lbmNvZGUoKQogICAgICAgICsgKFJPT1QgLyAicHlwcm9qZWN0LnRvbWwiKS5yZWFkX2J5dGVzKCkgKyAoUk9PVCAvICJkZXBsb3kvY29uc3RyYWludHMudHh0IikucmVhZF9ieXRlcygpCiAgICAgICAgKyAoUk9PVCAvICJkZXBsb3kvY3VkYS10b29sY2hhaW5zLmpzb24iKS5yZWFkX2J5dGVzKCkKICAgICAgICArIGJ1aWxkLmVuY29kZSgpKS5oZXhkaWdlc3QoKQogICAgbWFya2VyID0gc3RhdGUgLyAiaW5zdGFsbGF0aW9uLmpzb24iCiAgICBweXRob24gPSBzdGF0ZSAvICJ2ZW52L2Jpbi9weXRob24iCiAgICBzb3VyY2UgPSBzdGF0ZSAvICJzZ2xhbmciCiAgICBpZiBtYXJrZXIuZXhpc3RzKCk6CiAgICAgICAgcmVjZWlwdCA9IGpzb24ubG9hZHMobWFya2VyLnJlYWRfdGV4dCgpKQogICAgICAgIGlmIHJlY2VpcHRbImZpbmdlcnByaW50Il0gIT0gZmluZ2VycHJpbnQ6CiAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiZGVwbG95bWVudCByZWNpcGUgY2hhbmdlZDsgdXNlIGEgbmV3IC0tcnVudGltZS1kaXIgZm9yIHRoaXMgcmV2aXNpb24iKQogICAgICAgIHNldHVwLnZlcmlmeV9pbnN0YWxsYXRpb24oc291cmNlIC8gInB5dGhvbi9zZ2xhbmciKQogICAgICAgIHJldHVybiBweXRob24sIFBhdGgocmVjZWlwdFsiY3VkYV9ob21lIl0pCiAgICBpZiBub3QgcHl0aG9uLmV4aXN0cygpOgogICAgICAgIHZlbnYuRW52QnVpbGRlcih3aXRoX3BpcD1UcnVlKS5jcmVhdGUoc3RhdGUgLyAidmVudiIpCiAgICBpZiBub3Qgc291cmNlLmV4aXN0cygpOgogICAgICAgIHdpdGggdGVtcGZpbGUuVGVtcG9yYXJ5RGlyZWN0b3J5KHByZWZpeD0iLnNnbGFuZy0iLCBkaXI9c3RhdGUpIGFzIHRtcDoKICAgICAgICAgICAgc3RhZ2luZyA9IFBhdGgodG1wKSAvICJzb3VyY2UiCiAgICAgICAgICAgIHJ1bihbImdpdCIsICJpbml0IiwgIi1xIiwgc3RhZ2luZ10pCiAgICAgICAgICAgIHJ1bihbImdpdCIsICItQyIsIHN0YWdpbmcsICJyZW1vdGUiLCAiYWRkIiwgIm9yaWdpbiIsIHJlY2lwZVsicmVwb3NpdG9yeSJdXSkKICAgICAgICAgICAgcnVuKFsiZ2l0IiwgIi1DIiwgc3RhZ2luZywgImZldGNoIiwgIi0tZGVwdGgiLCAiMSIsICJvcmlnaW4iLCByZWNpcGVbImNvbW1pdCJdXSkKICAgICAgICAgICAgcnVuKFsiZ2l0IiwgIi1DIiwgc3RhZ2luZywgImNoZWNrb3V0IiwgIi0tZGV0YWNoIiwgIkZFVENIX0hFQUQiXSkKICAgICAgICAgICAgc3RhZ2luZy5yZW5hbWUoc291cmNlKQogICAgaGVhZCA9IHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KFsiZ2l0IiwgIi1DIiwgc3RyKHNvdXJjZSksICJyZXYtcGFyc2UiLCAiSEVBRCJdLCB0ZXh0PVRydWUpLnN0cmlwKCkKICAgIGlmIGhlYWQgIT0gcmVjaXBlWyJjb21taXQiXToKICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoInVuZXhwZWN0ZWQgU0dMYW5nIHNvdXJjZSByZXZpc2lvbiIpCiAgICBzZXR1cC5wYXRjaF9pbnN0YWxsYXRpb24oc291cmNlIC8gInB5dGhvbi9zZ2xhbmciKQogICAgZW52ID0geyoqb3MuZW52aXJvbiwgIlBJUF9DT05GSUdfRklMRSI6IG9zLmRldm51bGwsICJQSVBfRVhUUkFfSU5ERVhfVVJMIjogIiIsCiAgICAgICAgICAgIlNFVFVQVE9PTFNfU0NNX1BSRVRFTkRfVkVSU0lPTiI6IHJlY2lwZVsidmVyc2lvbiJdLAogICAgICAgICAgICJTR0xBTkdfQlVJTERfUlVTVF9FWFRTIjogIm5vbmUifQogICAgcGlwID0gW3B5dGhvbiwgIi1tIiwgInBpcCIsICJpbnN0YWxsIl0KICAgIHByaW50KGYiW1JlbW9yeV0gSW5zdGFsbGluZyB0aGUgcGlubmVkIHtidWlsZH0gcnVudGltZSIsIGZsdXNoPVRydWUpCiAgICAjIFNlbGVjdCBDVURBIHdoZWVscyBoZXJlOyByZXNvbHZlIHRoZWlyIGRlcGVuZGVuY2llcyBmcm9tIFB5UEkgYmVsb3cuCiAgICBydW4oWypwaXAsICItLW5vLWRlcHMiLCBmInRvcmNoPT0yLjEzLjAre2J1aWxkfSIsIGYidG9yY2h2aXNpb249PTAuMjguMCt7YnVpbGR9IiwKICAgICAgICAgZiJ0b3JjaGF1ZGlvPT0yLjExLjAre2J1aWxkfSIsICItLWluZGV4LXVybCIsIGYiaHR0cHM6Ly9kb3dubG9hZC5weXRvcmNoLm9yZy93aGwve2J1aWxkfSJdLCBlbnY9ZW52KQogICAgcnVuKFsqcGlwLCAiLS1pbmRleC11cmwiLCAiaHR0cHM6Ly9weXBpLm9yZy9zaW1wbGUiLCAiLWMiLCBST09UIC8gImRlcGxveS9jb25zdHJhaW50cy50eHQiLAogICAgICAgICAiLWUiLCBzb3VyY2UgLyAicHl0aG9uIiwgS0VSTkVMMTMwLAogICAgICAgICAiLWUiLCBzdHIoUk9PVCkgKyAiW3NlcnZlcix0cmFuc2Zvcm1lcnNdIiwgImRpbGw9PTAuNC4xIl0sIGVudj1lbnYpCiAgICBjdWRhID0gaW5zdGFsbF90b29sY2hhaW4oc3RhdGUsIGJ1aWxkKQogICAgcHJlcGFyZV9oZWFkZXJzKHB5dGhvbiwgY3VkYSwgYnVpbGQpCiAgICBtYXJrZXIud3JpdGVfdGV4dChqc29uLmR1bXBzKHsiZmluZ2VycHJpbnQiOiBmaW5nZXJwcmludCwgInNnbGFuZyI6IHJlY2lwZVsiY29tbWl0Il0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjdWRhX2hvbWUiOiBzdHIoY3VkYSksICJjdWRhX2J1aWxkIjogYnVpbGR9LCBpbmRlbnQ9MikgKyAiXG4iKQogICAgcmV0dXJuIHB5dGhvbiwgY3VkYQoKCmRlZiBwcmVwYXJlX3J1bnRpbWUocnVudGltZV9kaXIsIGN1ZGEpOgogICAgaWYgc3lzLnZlcnNpb25faW5mbyA8ICgzLCAxMSkgb3IgcGxhdGZvcm0uc3lzdGVtKCkgIT0gIkxpbnV4IiBvciBwbGF0Zm9ybS5tYWNoaW5lKCkgIT0gIng4Nl82NCI6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJkZXBsb3ltZW50IHJlcXVpcmVzIExpbnV4IHg4Nl82NCBhbmQgUHl0aG9uIDMuMTErIikKICAgIGZvciBiaW5hcnkgaW4gKCJnaXQiLCAiYysrIik6CiAgICAgICAgaWYgbm90IHNodXRpbC53aGljaChiaW5hcnkpOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoZiJpbnN0YWxsIHtiaW5hcnl9IGJlZm9yZSBkZXBsb3lpbmciKQogICAgc3RhdGUgPSBQYXRoKHJ1bnRpbWVfZGlyKS5leHBhbmR1c2VyKCkucmVzb2x2ZSgpCiAgICBweXRob24sIF8gPSBpbnN0YWxsKHN0YXRlLCBjdWRhX2J1aWxkKGN1ZGEpKQogICAgcmV0dXJuIHN0YXRlLCBweXRob24KCgpkZWYgbWFpbigpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249X19kb2NfXykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tcnVudGltZS1kaXIiLCB0eXBlPVBhdGgsIGRlZmF1bHQ9Uk9PVCAvICIucmVtb3J5IikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tY3VkYSIsIGNob2ljZXM9WyJhdXRvIiwgImN1MTMwIl0sIGRlZmF1bHQ9ImF1dG8iKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKICAgIHN0YXRlLCBweXRob24gPSBwcmVwYXJlX3J1bnRpbWUoYXJncy5ydW50aW1lX2RpciwgYXJncy5jdWRhKQogICAgcHJpbnQoZiJSdW50aW1lIHJlYWR5OiB7cHl0aG9ufSIpCiAgICBwcmludChmInNvdXJjZSB7c2hsZXgucXVvdGUoc3RyKHN0YXRlIC8gJ3ZlbnYvYmluL2FjdGl2YXRlJykpfSIpCiAgICBwcmludCgicHl0aG9uIC1tIHJlbW9yeS5sYXVuY2hfc2VydmVyIC0taGVscCIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""Install the pinned SGLang runtime and its CUDA compiler components."""
+from __future__ import annotations
+
+import argparse
+import ctypes
+import hashlib
+import importlib.util
+import json
+import os
+from pathlib import Path
+import platform
+import shlex
+import shutil
+import subprocess
+import sys
+import tempfile
+import venv
+
+from toolchain import install_toolchain, prepare_headers
+
+ROOT = Path(__file__).resolve().parents[1]
+KERNEL130 = ("https://github.com/sgl-project/whl/releases/download/v0.4.7/"
+    "sglang_kernel-0.4.7+cu130-cp310-abi3-manylinux2014_x86_64.whl"
+    "#sha256=d312128f33e95dec2f7e9f6b7f4295d092e430cb9ef3e07a3a970e0741c7023e")
+
+
+def run(argv, **kwargs):
+    subprocess.run(list(map(str, argv)), check=True, **kwargs)
+
+
+def cuda_build(requested):
+    lib = ctypes.CDLL("libcuda.so.1")
+    def call(name, *args):
+        if getattr(lib, name)(*args):
+            raise RuntimeError(f"{name} failed; run on a machine with a visible NVIDIA GPU")
+    call("cuInit", 0)
+    count, driver = ctypes.c_int(), ctypes.c_int()
+    call("cuDeviceGetCount", ctypes.byref(count))
+    call("cuDriverGetVersion", ctypes.byref(driver))
+    if count.value == 0:
+        raise RuntimeError("no NVIDIA GPUs are visible")
+    build = "cu130" if requested == "auto" else requested
+    if build != "cu130":
+        raise RuntimeError("the shared Qwen/GLM SGLang runtime requires CUDA 13.0")
+    if driver.value < 13000:
+        raise RuntimeError(f"NVIDIA driver is too old for {build}")
+    return build
+
+
+def setup_module():
+    spec = importlib.util.spec_from_file_location("sglang_setup", ROOT / "src/remory/backends/sglang_setup.py")
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
+
+
+def install(state, build):
+    state.mkdir(parents=True, exist_ok=True)
+    setup = setup_module()
+    recipe = setup.recipe()
+    fingerprint = hashlib.sha256(json.dumps(recipe, sort_keys=True).encode()
+        + (ROOT / "pyproject.toml").read_bytes() + (ROOT / "deploy/constraints.txt").read_bytes()
+        + (ROOT / "deploy/cuda-toolchains.json").read_bytes()
+        + build.encode()).hexdigest()
+    marker = state / "installation.json"
+    python = state / "venv/bin/python"
+    source = state / "sglang"
+    if marker.exists():
+        receipt = json.loads(marker.read_text())
+        if receipt["fingerprint"] != fingerprint:
+            raise RuntimeError("deployment recipe changed; use a new --runtime-dir for this revision")
+        setup.verify_installation(source / "python/sglang")
+        return python, Path(receipt["cuda_home"])
+    if not python.exists():
+        venv.EnvBuilder(with_pip=True).create(state / "venv")
+    if not source.exists():
+        with tempfile.TemporaryDirectory(prefix=".sglang-", dir=state) as tmp:
+            staging = Path(tmp) / "source"
+            run(["git", "init", "-q", staging])
+            run(["git", "-C", staging, "remote", "add", "origin", recipe["repository"]])
+            run(["git", "-C", staging, "fetch", "--depth", "1", "origin", recipe["commit"]])
+            run(["git", "-C", staging, "checkout", "--detach", "FETCH_HEAD"])
+            staging.rename(source)
+    head = subprocess.check_output(["git", "-C", str(source), "rev-parse", "HEAD"], text=True).strip()
+    if head != recipe["commit"]:
+        raise RuntimeError("unexpected SGLang source revision")
+    setup.patch_installation(source / "python/sglang")
+    env = {**os.environ, "PIP_CONFIG_FILE": os.devnull, "PIP_EXTRA_INDEX_URL": "",
+           "SETUPTOOLS_SCM_PRETEND_VERSION": recipe["version"],
+           "SGLANG_BUILD_RUST_EXTS": "none"}
+    pip = [python, "-m", "pip", "install"]
+    print(f"[Remory] Installing the pinned {build} runtime", flush=True)
+    # Select CUDA wheels here; resolve their dependencies from PyPI below.
+    run([*pip, "--no-deps", f"torch==2.13.0+{build}", f"torchvision==0.28.0+{build}",
+         f"torchaudio==2.11.0+{build}", "--index-url", f"https://download.pytorch.org/whl/{build}"], env=env)
+    run([*pip, "--index-url", "https://pypi.org/simple", "-c", ROOT / "deploy/constraints.txt",
+         "-e", source / "python", KERNEL130,
+         "-e", str(ROOT) + "[server,transformers]", "dill==0.4.1"], env=env)
+    cuda = install_toolchain(state, build)
+    prepare_headers(python, cuda, build)
+    marker.write_text(json.dumps({"fingerprint": fingerprint, "sglang": recipe["commit"],
+                                 "cuda_home": str(cuda), "cuda_build": build}, indent=2) + "\n")
+    return python, cuda
+
+
+def prepare_runtime(runtime_dir, cuda):
+    if sys.version_info < (3, 11) or platform.system() != "Linux" or platform.machine() != "x86_64":
+        raise RuntimeError("deployment requires Linux x86_64 and Python 3.11+")
+    for binary in ("git", "c++"):
+        if not shutil.which(binary):
+            raise RuntimeError(f"install {binary} before deploying")
+    state = Path(runtime_dir).expanduser().resolve()
+    python, _ = install(state, cuda_build(cuda))
+    return state, python
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--runtime-dir", type=Path, default=ROOT / ".remory")
+    parser.add_argument("--cuda", choices=["auto", "cu130"], default="auto")
+    args = parser.parse_args()
+    state, python = prepare_runtime(args.runtime_dir, args.cuda)
+    print(f"Runtime ready: {python}")
+    print(f"source {shlex.quote(str(state / 'venv/bin/activate'))}")
+    print("python -m remory.launch_server --help")
+
+
+if __name__ == "__main__":
+    main()

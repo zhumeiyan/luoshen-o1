@@ -1,1 +1,100 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjExM2MyIMK3IOmFjeWvueeJiOW8leaTjuajgOmqjArnp43lrZDpl7Qgc2TiiYgwLjAxNDQsIOe7hOmXtOW3ruKJiDAuMDAxIOKAlOKAlCDni6znq4vnu4Torr7orqHliIbovqjkuI3lh7rmnaXjgIIK5pS555So44CQ5ZCM56eN5a2Q6YWN5a+544CROiDlkIzkuIAgc2VlZCDkuIvot5Hlm5vmnaHmtYEsIOWPluW3riwg5YaN6Ieq5Yqp5rOV5rGCIENJ44CCCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgdGltZQppbXBvcnQgbnVtcHkgYXMgbnAKCnN5cy5wYXRoLmluc2VydCgwLCAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiKQpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CgpPVVQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKS19TQUwgPSAwLjYwCgoKZGVmIG9uZShzZXEsIHNlZWQsIHN0ZXBzPTI0MCwgcmF0aW89MC42MCwga19zYWw9S19TQUwpOgogICAgTCA9IExpZmU1KE49OCwgc2VlZD1zZWVkLCByYXRpbz1yYXRpbywga19zYWw9a19zYWwpCiAgICBmb3IgdCBpbiByYW5nZShzdGVwcyk6CiAgICAgICAgTC5pbnB1dF92YWwgPSBmbG9hdChzZXFbdCAlIGxlbihzZXEpXSkKICAgICAgICBMLnN0ZXAoKQogICAgICAgIGlmIG5vdCBMLmFsaXZlOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgcmV0dXJuIGZsb2F0KG5wLnN0ZChMLnkpKQoKCmRlZiBib290X2NpKGQsIG49NDAwMCwgc2VlZD03KToKICAgIGQgPSBucC5hc2FycmF5KGQsIGZsb2F0KQogICAgaWYgbGVuKGQpIDwgMjoKICAgICAgICByZXR1cm4gKGZsb2F0KCJuYW4iKSwgZmxvYXQoIm5hbiIpKQogICAgciA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgYnMgPSBucC5hcnJheShbci5jaG9pY2UoZCwgbGVuKGQpLCByZXBsYWNlPVRydWUpLm1lYW4oKSBmb3IgXyBpbiByYW5nZShuKV0pCiAgICByZXR1cm4gKGZsb2F0KG5wLnBlcmNlbnRpbGUoYnMsIDIuNSkpLCBmbG9hdChucC5wZXJjZW50aWxlKGJzLCA5Ny41KSkpCgoKZGVmIG1haW4oKToKICAgIGQgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oT1VULCAicmVzdWx0MTEzYy5qc29uIikpKQogICAgIyDnlKggMTEzYyDlrZjkuIvnmoTnu5/orqHph4/ph43lu7rkuI3kuobljp/lp4vluo/liJcsIOi/memHjOmHjeaWsOWPluecn+i9qOi/uQogICAgc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKICAgIGZyb20gcnVuMTEzIGltcG9ydCBSZWFsRXllLCBSZWFsSGFuZCwgcnVuX2FnZW50LCBHVwogICAgZXllID0gUmVhbEV5ZSgpOyBoYW5kID0gUmVhbEhhbmQoZW5hYmxlZD1UcnVlKQogICAgc2FsX21hcCA9IG5wLmFycmF5KFsxLjAgaWYgKGkgJSBHVykgPj0gR1cgLy8gMiBlbHNlIDAuMSBmb3IgaSBpbiByYW5nZShHVyAqIDYpXSkKCiAgICBkZWYgcmVhbF90cmFqKGtpbmQsICoqa3cpOgogICAgICAgIHNlcSA9IFtdOyBvcmlnID0gZXllLmxvb2sKICAgICAgICBkZWYgcmVjKGN4LCBjeSk6CiAgICAgICAgICAgIG0gPSBvcmlnKGN4LCBjeSk7IHNlcS5hcHBlbmQobSk7IHJldHVybiBtCiAgICAgICAgZXllLmxvb2sgPSByZWMKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJ1bl9hZ2VudChraW5kLCAiQSIsIDYsIDEyLCBleWUsIGhhbmQsICoqa3cpCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgZXllLmxvb2sgPSBvcmlnCiAgICAgICAgcmV0dXJuIG5wLmFzYXJyYXkoc2VxLCBmbG9hdCkKCiAgICBRID0gbnAuemVyb3MoKEdXICogNiwgR1cgKiA2KSkgKyAwLjAxCiAgICBlcHMgPSAxLjAKICAgIGZvciBfIGluIHJhbmdlKDgwMCk6CiAgICAgICAgcnVuX2FnZW50KCJsZWFybmVkIiwgIkEiLCAxLCAxMiwgZXllLCBoYW5kLCBRPVEsIGVwcz1lcHMsIHRyYWluPVRydWUpCiAgICAgICAgZXBzID0gbWF4KDAuMDUsIGVwcyAqIDAuOTk1KQogICAgdHJhaiA9IHsicHJlc2V0IjogcmVhbF90cmFqKCJwcmVzZXQiLCBzYWw9c2FsX21hcCksCiAgICAgICAgICAgICJsZWFybmVkIjogcmVhbF90cmFqKCJsZWFybmVkIiwgUT1RLCB0cmFpbj1GYWxzZSksCiAgICAgICAgICAgICJibGluZCI6IHJlYWxfdHJhaigiYmxpbmQiKSwKICAgICAgICAgICAgIm5vbmUiOiBucC56ZXJvcyg3Mil9CiAgICBnID0gbWF4KGZsb2F0KG5wLm1heCh2KSkgZm9yIHYgaW4gdHJhai52YWx1ZXMoKSkKICAgIHRyYWogPSB7azogdiAvIGcgZm9yIGssIHYgaW4gdHJhai5pdGVtcygpfQogICAgaGFuZC5kZXN0cm95KCkKCiAgICBTRUVEUyA9IDQ4CiAgICB2YWxzID0ge2s6IFtdIGZvciBrIGluIHRyYWp9CiAgICBmb3Igc2QgaW4gcmFuZ2UoU0VFRFMpOgogICAgICAgIGZvciBrLCB2IGluIHRyYWouaXRlbXMoKToKICAgICAgICAgICAgdmFsc1trXS5hcHBlbmQob25lKHYsIHNkKSkKCiAgICByZXMgPSB7fQogICAgZm9yIGsgaW4gdHJhajoKICAgICAgICBhcnIgPSBucC5hcnJheShbeCBmb3IgeCBpbiB2YWxzW2tdIGlmIHggaXMgbm90IE5vbmVdLCBmbG9hdCkKICAgICAgICByZXNba10gPSBkaWN0KG1lYW49ZmxvYXQoYXJyLm1lYW4oKSksIG49bGVuKGFycikpCiAgICBwYWlycyA9IHt9CiAgICBmb3IgYSwgYiBpbiBbKCJwcmVzZXQiLCAibm9uZSIpLCAoImxlYXJuZWQiLCAibm9uZSIpLCAoImJsaW5kIiwgIm5vbmUiKSwKICAgICAgICAgICAgICAgICAoImxlYXJuZWQiLCAicHJlc2V0IiksICgibGVhcm5lZCIsICJibGluZCIpLCAoInByZXNldCIsICJibGluZCIpXToKICAgICAgICBkYSA9IG5wLmFycmF5KFt2YWxzW2FdW2ldIGZvciBpIGluIHJhbmdlKFNFRURTKSBpZiB2YWxzW2FdW2ldIGlzIG5vdCBOb25lCiAgICAgICAgICAgICAgICAgICAgICAgYW5kIHZhbHNbYl1baV0gaXMgbm90IE5vbmVdLCBmbG9hdCkKICAgICAgICBkYiA9IG5wLmFycmF5KFt2YWxzW2JdW2ldIGZvciBpIGluIHJhbmdlKFNFRURTKSBpZiB2YWxzW2FdW2ldIGlzIG5vdCBOb25lCiAgICAgICAgICAgICAgICAgICAgICAgYW5kIHZhbHNbYl1baV0gaXMgbm90IE5vbmVdLCBmbG9hdCkKICAgICAgICBkaWZmID0gZGEgLSBkYgogICAgICAgIGxvLCBoaSA9IGJvb3RfY2koZGlmZikKICAgICAgICBwYWlyc1tmInthfS17Yn0iXSA9IGRpY3QoZD1mbG9hdChkaWZmLm1lYW4oKSksIGxvPWxvLCBoaT1oaSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2lnPWJvb2wobG8gPiAwIG9yIGhpIDwgMCksIG49bGVuKGRpZmYpKQogICAgICAgIHByaW50KGYiICB7YTo4c30gLSB7Yjo4c30gIM6UPXtkaWZmLm1lYW4oKTorLjVmfSAgQ0lbe2xvOisuNWZ9LHtoaTorLjVmfV0gICIKICAgICAgICAgICAgICBmInsn5pi+6JGXJyBpZiAobG8+MCBvciBoaTwwKSBlbHNlICfot6gwIOS4jeaYvuiRlyd9IikKCiAgICBvdXQgPSBkaWN0KHJlcz1yZXMsIHBhaXJzPXBhaXJzLCBzZWVkcz1TRUVEUywga19zYWw9S19TQUwpCiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKE9VVCwgInJlc3VsdDExM2MyLmpzb24iKSwgInciKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChvdXQsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludChqc29uLmR1bXBzKHJlcywgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+# -*- coding: utf-8 -*-
+"""
+113c2 · 配对版引擎检验
+种子间 sd≈0.0144, 组间差≈0.001 —— 独立组设计分辨不出来。
+改用【同种子配对】: 同一 seed 下跑四条流, 取差, 再自助法求 CI。
+"""
+import os, sys, json, time
+import numpy as np
+
+sys.path.insert(0, "/data/workspace/luoshen-o1")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from core.life5 import Life5
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+K_SAL = 0.60
+
+
+def one(seq, seed, steps=240, ratio=0.60, k_sal=K_SAL):
+    L = Life5(N=8, seed=seed, ratio=ratio, k_sal=k_sal)
+    for t in range(steps):
+        L.input_val = float(seq[t % len(seq)])
+        L.step()
+        if not L.alive:
+            return None
+    return float(np.std(L.y))
+
+
+def boot_ci(d, n=4000, seed=7):
+    d = np.asarray(d, float)
+    if len(d) < 2:
+        return (float("nan"), float("nan"))
+    r = np.random.default_rng(seed)
+    bs = np.array([r.choice(d, len(d), replace=True).mean() for _ in range(n)])
+    return (float(np.percentile(bs, 2.5)), float(np.percentile(bs, 97.5)))
+
+
+def main():
+    d = json.load(open(os.path.join(OUT, "result113c.json")))
+    # 用 113c 存下的统计量重建不了原始序列, 这里重新取真轨迹
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from run113 import RealEye, RealHand, run_agent, GW
+    eye = RealEye(); hand = RealHand(enabled=True)
+    sal_map = np.array([1.0 if (i % GW) >= GW // 2 else 0.1 for i in range(GW * 6)])
+
+    def real_traj(kind, **kw):
+        seq = []; orig = eye.look
+        def rec(cx, cy):
+            m = orig(cx, cy); seq.append(m); return m
+        eye.look = rec
+        try:
+            run_agent(kind, "A", 6, 12, eye, hand, **kw)
+        finally:
+            eye.look = orig
+        return np.asarray(seq, float)
+
+    Q = np.zeros((GW * 6, GW * 6)) + 0.01
+    eps = 1.0
+    for _ in range(800):
+        run_agent("learned", "A", 1, 12, eye, hand, Q=Q, eps=eps, train=True)
+        eps = max(0.05, eps * 0.995)
+    traj = {"preset": real_traj("preset", sal=sal_map),
+            "learned": real_traj("learned", Q=Q, train=False),
+            "blind": real_traj("blind"),
+            "none": np.zeros(72)}
+    g = max(float(np.max(v)) for v in traj.values())
+    traj = {k: v / g for k, v in traj.items()}
+    hand.destroy()
+
+    SEEDS = 48
+    vals = {k: [] for k in traj}
+    for sd in range(SEEDS):
+        for k, v in traj.items():
+            vals[k].append(one(v, sd))
+
+    res = {}
+    for k in traj:
+        arr = np.array([x for x in vals[k] if x is not None], float)
+        res[k] = dict(mean=float(arr.mean()), n=len(arr))
+    pairs = {}
+    for a, b in [("preset", "none"), ("learned", "none"), ("blind", "none"),
+                 ("learned", "preset"), ("learned", "blind"), ("preset", "blind")]:
+        da = np.array([vals[a][i] for i in range(SEEDS) if vals[a][i] is not None
+                       and vals[b][i] is not None], float)
+        db = np.array([vals[b][i] for i in range(SEEDS) if vals[a][i] is not None
+                       and vals[b][i] is not None], float)
+        diff = da - db
+        lo, hi = boot_ci(diff)
+        pairs[f"{a}-{b}"] = dict(d=float(diff.mean()), lo=lo, hi=hi,
+                                 sig=bool(lo > 0 or hi < 0), n=len(diff))
+        print(f"  {a:8s} - {b:8s}  Δ={diff.mean():+.5f}  CI[{lo:+.5f},{hi:+.5f}]  "
+              f"{'显著' if (lo>0 or hi<0) else '跨0 不显著'}")
+
+    out = dict(res=res, pairs=pairs, seeds=SEEDS, k_sal=K_SAL)
+    with open(os.path.join(OUT, "result113c2.json"), "w") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print(json.dumps(res, ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    main()

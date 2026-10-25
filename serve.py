@@ -1,1 +1,482 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCua0m+elniBPMSDCtyDkuIDnq5nlvI/mnI3liqHvvIjpm7bkvp3otZbvvIzku4UgUHl0aG9uIOagh+WHhuW6k++8iQoK5a+56b2Q5Y+N5ZCR5bel56iL5o+Q54K85Ye655qE6aqo5p6277yaCiAg4pGgIOe7n+S4gOWlkee6puWxgiAgL2FwaS8qICDigJTigJQg5YmN56uv5Y+q6K6k6L+Z5LiA5bGC77yM5byV5pOO5Y+v5o2iCiAg4pGhIOWJjeWQjuerr+WIhuWutiAgd2ViLyArIGVuZ2luZS8gKyBhcGkvCiAg4pGiIOS4gOS4quWFpeWPoyAgICBweXRob24zIHNlcnZlLnB5CiAg4pGjIOmFjee9ruWklue9riAgICDnjq/looPlj5jph48gLyAuZW52CiAg4pGkIOeKtuaAgeWcqOWJjeerr++8jOaMgeS5heWMluWcqOWQjuerrwoK5ZCv5Yqo77yaICBweXRob24zIHNlcnZlLnB5ICAgICAgICAgICDihpIgaHR0cDovLzEyNy4wLjAuMTo4NzY1CiAgICAgICAgcHl0aG9uMyBzZXJ2ZS5weSA5MDAwICAgICAg4oaSIOaNouerr+WPowoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHRpbWUsIGhhc2hsaWIsIHN1YnByb2Nlc3MsIHRocmVhZGluZywgc29ja2V0c2VydmVyCmltcG9ydCByZSwgYmFzZTY0LCB1cmxsaWIucmVxdWVzdCwgdXJsbGliLmVycm9yLCB1cmxsaWIucGFyc2UsIHppcGZpbGUsIGlvCmZyb20gaHR0cC5zZXJ2ZXIgaW1wb3J0IFNpbXBsZUhUVFBSZXF1ZXN0SGFuZGxlcgpmcm9tIHVybGxpYi5wYXJzZSBpbXBvcnQgdXJscGFyc2UsIHBhcnNlX3FzCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCgpST09UID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCldFQiA9IG9zLnBhdGguam9pbihST09ULCAiZG9jcyIpClBPUlQgPSBpbnQoc3lzLmFyZ3ZbMV0pIGlmIGxlbihzeXMuYXJndikgPiAxIGVsc2UgODc2NQpQWSA9IHN5cy5leGVjdXRhYmxlCgojIOKUgOKUgCDlvJXmk47lsYLvvJrnnJ/mraPlubLmtLvnmoTvvIjlj6/mm7/mjaLvvIzliY3nq6/kuI3lhbPlv4PvvIkg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmRlZiBlbmdpbmVfdmVyaWZ5KCk6CiAgICAiIiLot5HkuIDplK7pqozor4HjgILnnJ/ot5HvvIzkuI3or7vnvJPlrZjjgIIiIiIKICAgIHQwID0gdGltZS50aW1lKCkKICAgIHRyeToKICAgICAgICByID0gc3VicHJvY2Vzcy5ydW4oW1BZLCAidG9vbHMvdmVyaWZ5X2FsbC5weSJdLCBjd2Q9Uk9PVCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTMwMCkKICAgICAgICByZXR1cm4geyJvayI6IHIucmV0dXJuY29kZSA9PSAwLCAicmMiOiByLnJldHVybmNvZGUsCiAgICAgICAgICAgICAgICAib3V0Ijogci5zdGRvdXQsICJlcnIiOiByLnN0ZGVyclstNTAwOl0sCiAgICAgICAgICAgICAgICAicGFzcyI6IHIuc3Rkb3V0LmNvdW50KCJbUEFTU10iKSwKICAgICAgICAgICAgICAgICJmYWlsIjogci5zdGRvdXQuY291bnQoIltGQUlMXSIpLAogICAgICAgICAgICAgICAgInNlYyI6IHJvdW5kKHRpbWUudGltZSgpIC0gdDAsIDEpfQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICJlcnIiOiByZXByKGUpWzozMDBdfQoKCmRlZiBlbmdpbmVfc2Nhbih0ZXh0KToKICAgICIiIui3kSBldmFsZ3VhcmQg5omr5o+P44CCCgogICAg5rOo5oSP77yaZXZhbGd1YXJkIOiHquW4piBIVFRQIOacjeWKoe+8iHB5dGhvbjMgLW0gb3ZlcnNlYXMuZXZhbGd1YXJkIHNlcnZlIC0tcG9ydCBO77yJ77yMCiAgICDmiJHku6znmoTlpZHnuqblsYLml6Llj6/ku6XmnKzlnLAgc3VicHJvY2VzcyDosIPvvIzkuZ/lj6/ku6XlsIbmnaXmlLnmjIflkJHlroPnmoTmnI3liqEg4oCU4oCUIOW8leaTjuWPr+aNouOAgiIiIgogICAgcCA9IG9zLnBhdGguam9pbihST09ULCAib3ZlcnNlYXMvZXZhbGd1YXJkIikKICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHApOgogICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICLmnKrlrp7njrAiOiAiZXZhbGd1YXJkIOebruW9leS4jeWtmOWcqCIsCiAgICAgICAgICAgICAgICAi6K+05piOIjogIuacieaJi+ayoeWunueOsCDiiaAg5rKh5omL77yM6L+Z5p2h5aaC5a6e5oqlIn0KICAgICMg5aWR57qm5L+u5q2j77yaZXZhbGd1YXJkIOaOpeeahOaYryBwYXRo77yM5LiN5pivIC0tdGV4dOOAggogICAgIyDmiJHlhYjmiormlofmnKzokL3miJDkuLTml7bmlofku7blho3miasg4oCU4oCUIOWlkee6puWxgui0n+i0o+mAgumFje+8jOS4jeiuqeWJjeerr+efpemBk+W8leaTjueahOiEvuawlOOAggogICAgaW1wb3J0IHRlbXBmaWxlCiAgICBpZiBub3QgKHRleHQgb3IgIiIpLnN0cmlwKCk6CiAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgIuacquWunueOsCI6ICJzY2FuIOmcgOimgSB0ZXh0IOaIliBwYXRoIn0KICAgIGZkLCB0bXAgPSB0ZW1wZmlsZS5ta3N0ZW1wKHN1ZmZpeD0iLnB5IiwgcHJlZml4PSJsc3NjYW5fIikKICAgIG9zLndyaXRlKGZkLCAodGV4dCBvciAiIikuZW5jb2RlKCkpOyBvcy5jbG9zZShmZCkKICAgIHRyeToKICAgICAgICByID0gc3VicHJvY2Vzcy5ydW4oW1BZLCAiLW0iLCAib3ZlcnNlYXMuZXZhbGd1YXJkIiwgdG1wXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgY3dkPVJPT1QsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgdGltZW91dD0xMjApCiAgICAgICAgcmV0dXJuIHsib2siOiBUcnVlLCAicmMiOiByLnJldHVybmNvZGUsICLlvJXmk44iOiAiZXZhbGd1YXJkIiwKICAgICAgICAgICAgICAgICJvdXQiOiAoci5zdGRvdXQgb3Igci5zdGRlcnIpWy0zMDAwOl19CiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgImVyciI6IHJlcHIoZSlbOjMwMF19CiAgICBmaW5hbGx5OgogICAgICAgIHRyeTogb3MudW5saW5rKHRtcCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCgoKZGVmIGVuZ2luZV9jb25zb2xlKCk6CiAgICAiIiLph4fpm4bmjqfliLblj7DmlbDmja7jgILnnJ/ot5HjgIIiIiIKICAgIHRyeToKICAgICAgICByID0gc3VicHJvY2Vzcy5ydW4oW1BZLCAi5ZCN54mHL3Byb2JlLnB5Il0sIGN3ZD1ST09ULAogICAgICAgICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLCB0ZXh0PVRydWUsIHRpbWVvdXQ9MzAwKQogICAgICAgIGogPSBvcy5wYXRoLmpvaW4oUk9PVCwgImRvY3MvY29uc29sZV9kYXRhLmpzb24iKQogICAgICAgIGlmIG9zLnBhdGguaXNmaWxlKGopOgogICAgICAgICAgICBkID0ganNvbi5sb2FkKG9wZW4oaiwgZW5jb2Rpbmc9InV0Zi04IikpCiAgICAgICAgICAgIGRbIl/lk4jluIwiXSA9IGhhc2hsaWIuc2hhMjU2KG9wZW4oaiwgInJiIikucmVhZCgpKS5oZXhkaWdlc3QoKQogICAgICAgICAgICByZXR1cm4geyJvayI6IFRydWUsICJkYXRhIjogZH0KICAgICAgICByZXR1cm4geyJvayI6IEZhbHNlLCAiZXJyIjogKHIuc3Rkb3V0IG9yIHIuc3RkZXJyKVstMzAwOl19CiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgImVyciI6IHJlcHIoZSlbOjMwMF19CgoKZGVmIGVuZ2luZV9wcm92ZSh0ZXh0KToKICAgICIiIuivkeacrOWxgu+8muiHqueEtuivreiogCDihpIg5Ya757uT6K+R5pysICsg5Y+M5ZOI5biM44CC5pyJ5a6e546w5YiZ55yf6LeR44CCIiIiCiAgICBwID0gb3MucGF0aC5qb2luKFJPT1QsICJleHBlcmltZW50cy9leHAyNTZfdHJhbnNsYXRpb24vY29tcGlsZS5weSIpCiAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUocCk6CiAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgIuacquWunueOsCI6ICJjb21waWxlLnB5IOS4jeWtmOWcqCJ9CiAgICAjIOWlkee6puS/ruato++8mmNvbXBpbGUucHkg55So55u45a+56Lev5b6E6K+75Z2Q5qCH77yM5b+F6aG75Zyo5a6D6Ieq5bex55qE55uu5b2V6YeM6LeR44CCCiAgICBkID0gb3MucGF0aC5kaXJuYW1lKHApCiAgICB0cnk6CiAgICAgICAgciA9IHN1YnByb2Nlc3MucnVuKFtQWSwgb3MucGF0aC5iYXNlbmFtZShwKSwgIi0tdGV4dCIsIHRleHRdLCBjd2Q9ZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTEyMCkKICAgICAgICByZXR1cm4geyJvayI6IHIucmV0dXJuY29kZSA9PSAwLCAicmMiOiByLnJldHVybmNvZGUsICLlvJXmk44iOiAiY29tcGlsZSIsCiAgICAgICAgICAgICAgICAib3V0IjogKHIuc3Rkb3V0IG9yIHIuc3RkZXJyKVstMjAwMDpdfQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICJlcnIiOiByZXByKGUpWzozMDBdfQoKCiMg4pSA4pSAIOaOpeaUtuerr+W8leaTju+8muaWh+acrCAvIOWbvueJhyAvIOivremfsyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKIyDljp/liJnvvJrmjqXov5vmnaXlsLHnnJ/lpITnkIbjgILlpITnkIbkuI3kuobnmoTvvIzlpoLlrp7miqXjgIzml6DjgI3vvIznu53kuI3pnZnpu5jpmY3nuqfjgIIKCmRlZiBlbmdpbmVfYXNrKHRleHQpOgogICAgIiIi5paH5pys5Lqk5LqS77ya6Kej5p6Q5oyH5LukIOKGkiDosIPluqblvJXmk44g4oaSIOi/lOWbnuecn+e7k+aenOOAggoKICAgIOi/meS4jeaYr+iBiuWkqeacuuWZqOS6uuOAguWug+S4jeeUn+aIkCLlkKzotbfmnaXlg4/lm57nrZQi55qE6K+d77yMCiAgICDlroPmiorkvaDnmoTmjIfku6Tnv7vor5HmiJDmn5DkuKrlvJXmk47nmoTkuIDmrKHnnJ/ot5HvvIznhLblkI7miornnJ/ovpPlh7rov5jnu5nkvaDjgIIiIiIKICAgIHQgPSAodGV4dCBvciAiIikuc3RyaXAoKQogICAgaWYgbm90IHQ6CiAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgIuacquWunueOsCI6ICLmjIfku6TkuLrnqboifQogICAgbG93ID0gdC5sb3dlcigpCiAgICAjIOWFs+mUruivjSDihpIg5byV5pOO44CC5rKh5ZG95Lit5bCx57uZ5Ye66IO95Yqb5riF5Y2V77yM5LiN5YGH6KOF5ZCs5oeC5LqG44CCCiAgICB0YWJsZSA9IFsKICAgICAgICAoKCLpqozor4EiLCAidmVyaWZ5IiwgIuiHquajgCIsICLpgJrov4ciKSwgInZlcmlmeSIpLAogICAgICAgICgoIuaJq+aPjyIsICJzY2FuIiwgIuajgOafpeS7o+eggSIsICJldmFsZ3VhcmQiLCAi55eF5Luj56CBIiksICJzY2FuIiksCiAgICAgICAgKCgi5o6n5Yi25Y+wIiwgImNvbnNvbGUiLCAi6K+75pWwIiwgIui1hOS6pyIpLCAiY29uc29sZSIpLAogICAgICAgICgoIuivkeacrCIsICJwcm92ZSIsICLnvJbor5EiLCAi5Ya757uTIiksICJwcm92ZSIpLAogICAgXQogICAgZm9yIGt3cywgbmFtZSBpbiB0YWJsZToKICAgICAgICBpZiBhbnkoayBpbiB0IG9yIGsgaW4gbG93IGZvciBrIGluIGt3cyk6CiAgICAgICAgICAgIHIgPSBFTkdJTkVTX1JFRltuYW1lXSh0KSBpZiBuYW1lIGluICgic2NhbiIsICJwcm92ZSIpIGVsc2UgRU5HSU5FU19SRUZbbmFtZV0oKQogICAgICAgICAgICByWyJf5oyH5LukIl0gPSB0CiAgICAgICAgICAgIHJbIl/lvJXmk44iXSA9IG5hbWUKICAgICAgICAgICAgcmV0dXJuIHIKICAgIHJldHVybiB7Im9rIjogRmFsc2UsICLmnKrlkKzmh4IiOiB0LAogICAgICAgICAgICAi6K+05piOIjogIuaIkeS4jeWBh+ijheeQhuino+OAguWPquiDveiwg+W6puS4i+WIl+W8leaTju+8miIsCiAgICAgICAgICAgICLog73lgZrnmoQiOiBbIumqjOivgSDigJTigJQg6LeR5LiA6ZSu6aqM6K+BIiwgIuaJq+aPjyA85Luj56CBPiDigJTigJQg6LeRIGV2YWxndWFyZCIsCiAgICAgICAgICAgICAgICAgICAgICAgIuaOp+WItuWPsCDigJTigJQg6YeH6ZuG5a6e5pe26K+75pWwIiwgIuivkeacrCA85Yik5o2uPiDigJTigJQg57yW6K+R5oiQ5Ya757uT6K+R5pysIl0sCiAgICAgICAgICAgICLlgZrkuI3liLDnmoQiOiBbIuiHqueUseiBiuWkqSIsICLor63pn7MiLCAi6K+t5LmJ55CG6Kej5Zu+54mHIl19CgoKZGVmIGVuZ2luZV9pbWFnZShiNjQpOgogICAgIiIi5Zu+54mH5o6l5pS277yaUElMIOecn+WunuWIhuaekOOAggoKICAgIOiDvea1i+eahO+8muWwuuWvuCAvIOagvOW8jyAvIOS4u+iJsuiwgyAvIOS6ruW6puWIhuW4gyAvIOaYr+WQpueBsOW6puOAggogICAg5rWL5LiN5LqG55qE77ya5Zu+6YeM55S755qE5piv5LuA5LmIIOKAlOKAlCDmsqHmnInmnKzlnLDop4bop4nmqKHlnovvvIzlpoLlrp7or7TjgIIiIiIKICAgIHRyeToKICAgICAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKICAgIGV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgICAgICByZXR1cm4geyJvayI6IEZhbHNlLCAi57y65aSxIjogIlBJTCIsCiAgICAgICAgICAgICAgICAi6K+05piOIjogIuayoeacieWbvuWDj+W6k++8jOi/meS4jeaYr+mZjee6p++8jOaYr+WmguWunuaKpSJ9CiAgICBpbXBvcnQgYmFzZTY0LCBpbwogICAgdHJ5OgogICAgICAgIHJhdyA9IGJhc2U2NC5iNjRkZWNvZGUoYjY0LnNwbGl0KCIsIilbLTFdKQogICAgICAgIGltID0gSW1hZ2Uub3Blbihpby5CeXRlc0lPKHJhdykpCiAgICAgICAgaW0ubG9hZCgpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgIumUmeivryI6IHJlcHIoZSlbOjIwMF0sICLor7TmmI4iOiAi5omT5LiN5byA6L+Z5byg5Zu+In0KICAgIHcsIGggPSBpbS5zaXplCiAgICBzbWFsbCA9IGltLmNvbnZlcnQoIlJHQiIpLnJlc2l6ZSgoNjAsIDYwKSkKICAgIHB4ID0gbGlzdChzbWFsbC5nZXRkYXRhKCkpCiAgICBuID0gbGVuKHB4KQogICAgIyDkuLvoibLosIPvvJrph4/ljJbliLAgMzIg57qn5ZCO5Y+W5LyX5pWwCiAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCiAgICBxID0gQ291bnRlcigoKHIgLy8gMzIpICogMzIsIChnIC8vIDMyKSAqIDMyLCAoYiAvLyAzMikgKiAzMikgZm9yIHIsIGcsIGIgaW4gcHgpCiAgICB0b3AgPSBxLm1vc3RfY29tbW9uKDMpCiAgICBhdmcgPSB0dXBsZShzdW0oY1tpXSBmb3IgYyBpbiBweCkgLy8gbiBmb3IgaSBpbiByYW5nZSgzKSkKICAgIGx1bSA9IFswLjI5OSAqIHIgKyAwLjU4NyAqIGcgKyAwLjExNCAqIGIgZm9yIHIsIGcsIGIgaW4gcHhdCiAgICByZXR1cm4geyJvayI6IFRydWUsICLlvJXmk44iOiAiUElMIiwKICAgICAgICAgICAgIuWwuuWvuCI6ICIlZHglZCIgJSAodywgaCksICLmoLzlvI8iOiBpbS5mb3JtYXQsICLmqKHlvI8iOiBpbS5tb2RlLAogICAgICAgICAgICAi5bmz5Z2H6ImyIjogInJnYiglZCwlZCwlZCkiICUgYXZnLAogICAgICAgICAgICAi5Li76Imy6LCDIjogWyJyZ2IoJWQsJWQsJWQpIMOXJWQiICUgKGNbMF0sIGNbMV0sIGNbMl0sIGspIGZvciBjLCBrIGluIHRvcF0sCiAgICAgICAgICAgICLkuq7luqYiOiB7IuacgOaalyI6IHJvdW5kKG1pbihsdW0pKSwgIuacgOS6riI6IHJvdW5kKG1heChsdW0pKSwKICAgICAgICAgICAgICAgICAgICAgIuWdh+WAvCI6IHJvdW5kKHN1bShsdW0pIC8gbiwgMSl9LAogICAgICAgICAgICAi5YOP57Sg5ZOI5biMIjogaGFzaGxpYi5zaGEyNTYocmF3KS5oZXhkaWdlc3QoKVs6MTZdLAogICAgICAgICAgICAi5oiR5rWL5LiN5LqG55qEIjogIuWbvumHjOaYr+S7gOS5iOWGheWuuSDigJTigJQg5rKh5pyJ5pys5Zyw6KeG6KeJ5qih5Z6L77yM6K+t5LmJ55CG6Kej5qCH5Li65pegIn0KCgpkZWYgZW5naW5lX3ZvaWNlKHRleHQpOgogICAgIiIi6K+t6Z+z6YCa6YGT77ya5a6e5rWL5pyJ5rKh5pyJ77yM5rKh5pyJ5bCx5oql5rKh5pyJ44CCIiIiCiAgICBpbXBvcnQgc2h1dGlsCiAgICB0b29scyA9IFsiZXNwZWFrIiwgImVzcGVhay1uZyIsICJzYXkiLCAiZmZtcGVnIiwgInNveCIsICJhcmVjb3JkIl0KICAgIGhhdmUgPSB7dDogYm9vbChzaHV0aWwud2hpY2godCkpIGZvciB0IGluIHRvb2xzfQogICAgbW9kcyA9IHt9CiAgICBmb3IgbSBpbiAoInB5dHRzeDMiLCAiZ3R0cyIsICJzcGVlY2hfcmVjb2duaXRpb24iKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIF9faW1wb3J0X18obSk7IG1vZHNbbV0gPSBUcnVlCiAgICAgICAgZXhjZXB0IEltcG9ydEVycm9yOgogICAgICAgICAgICBtb2RzW21dID0gRmFsc2UKICAgIGNhbl90dHMgPSBhbnkoW2hhdmVbImVzcGVhayJdLCBoYXZlWyJlc3BlYWstbmciXSwgaGF2ZVsic2F5Il0sCiAgICAgICAgICAgICAgICAgICBtb2RzWyJweXR0c3gzIl0sIG1vZHNbImd0dHMiXV0pCiAgICBjYW5fYXNyID0gYW55KFtoYXZlWyJhcmVjb3JkIl0sIG1vZHNbInNwZWVjaF9yZWNvZ25pdGlvbiJdXSkKICAgIHJldHVybiB7CiAgICAgICAgIm9rIjogRmFsc2UsCiAgICAgICAgIueKtuaAgSI6ICLml6Ag4oCU4oCUIOi/meadoemAmumBk+S4jeWtmOWcqO+8jOS4jeaYr+aVhemanCIsCiAgICAgICAgIuivremfs+WQiOaIkCI6IGNhbl90dHMsICLor63pn7Por4bliKsiOiBjYW5fYXNyLAogICAgICAgICLlrp7mtYsiOiB7IuWRveS7pOihjOW3peWFtyI6IGhhdmUsICJweXRob27mqKHlnZciOiBtb2RzfSwKICAgICAgICAi6K+05piOIjogIuayoeaciSBUVFMg5byV5pOO44CB5rKh5pyJ6bqm5YWL6aOO6YeH5qC35Zmo44CC5oiR5LiN5Lya55SoIGZmbXBlZyDnlJ/miJDkuIDmrrXpn7PosIPlhpLlhYXor7Tor53jgIIiLAogICAgICAgICLmg7PopoHnmoTor50iOiAi6KOFIGVzcGVhayDmiJYgcHl0dHN4MyDljbPlj6/vvIzmnKzpobXkvJroh6rlt7Hlj5jjgIIiLAogICAgfQoKCiMg4pSA4pSAIOWklumDqOaOpeWFpe+8muaKk+WPliAvIFNraWxsIC8gQVBJIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAojIOWuouaIt+err+WPkeS4nOilv+i/h+adpe+8jOW+l+acieWcsOaWueaOpeOAgui/meS4ieagvOaYryLmjqXov5vmnaUi55qE6IO95Yqb44CCCgpJTkdFU1RfRElSID0gb3MucGF0aC5qb2luKFJPT1QsICLmjqXmlLYiKQpvcy5tYWtlZGlycyhJTkdFU1RfRElSLCBleGlzdF9vaz1UcnVlKQoKCmRlZiBfaHR0cCh1cmwsIG1ldGhvZD0iR0VUIiwgYm9keT1Ob25lLCBjdHlwZT0iYXBwbGljYXRpb24vanNvbiIsIHRpbWVvdXQ9MzApOgogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmxsaWIucGFyc2UucXVvdGUodXJsLCBzYWZlPSI6Lz8mPSUjKyIpLCBtZXRob2Q9bWV0aG9kKQogICAgcmVxLmFkZF9oZWFkZXIoIlVzZXItQWdlbnQiLCAiTHVvU2hlbi1PMS8xLjAiKQogICAgaWYgYm9keSBpcyBub3QgTm9uZToKICAgICAgICBiID0gYm9keS5lbmNvZGUoKSBpZiBpc2luc3RhbmNlKGJvZHksIHN0cikgZWxzZSBib2R5CiAgICAgICAgcmVxLmFkZF9oZWFkZXIoIkNvbnRlbnQtVHlwZSIsIGN0eXBlKQogICAgZWxzZToKICAgICAgICBiID0gTm9uZQogICAgdDAgPSB0aW1lLnRpbWUoKQogICAgdHJ5OgogICAgICAgIHIgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgYiwgdGltZW91dD10aW1lb3V0KQogICAgICAgIHJhdyA9IHIucmVhZCgpCiAgICAgICAgcmV0dXJuIHsib2siOiBUcnVlLCAicmMiOiByLnN0YXR1cywgImJ5dGVzIjogbGVuKHJhdyksCiAgICAgICAgICAgICAgICAic2VjIjogcm91bmQodGltZS50aW1lKCkgLSB0MCwgMiksICJyYXciOiByYXcsCiAgICAgICAgICAgICAgICAiY3R5cGUiOiByLmhlYWRlcnMuZ2V0KCJDb250ZW50LVR5cGUiLCAiIil9CiAgICBleGNlcHQgdXJsbGliLmVycm9yLkhUVFBFcnJvciBhcyBlOgogICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICJyYyI6IGUuY29kZSwgImVyciI6IGUucmVhc29uLAogICAgICAgICAgICAgICAgInNlYyI6IHJvdW5kKHRpbWUudGltZSgpIC0gdDAsIDIpfQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICJlcnIiOiByZXByKGUpWzoyMDBdLCAic2VjIjogcm91bmQodGltZS50aW1lKCkgLSB0MCwgMil9CgoKZGVmIGVuZ2luZV9mZXRjaCh1cmwpOgogICAgIiIi5oqT5Y+W77ya55yf5oqT572R6aG177yM5Yml5qCH562+77yM6L+U5Zue5q2j5paHICsg5a2X6IqC5ZOI5biM44CCIiIiCiAgICBpZiBub3QgKHVybCBvciAiIikuc3RhcnRzd2l0aCgoImh0dHA6Ly8iLCAiaHR0cHM6Ly8iKSk6CiAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgIuacquWunueOsCI6ICLpnIDopoEgaHR0cC9odHRwcyDlvIDlpLTnmoQgdXJsIn0KICAgIHIgPSBfaHR0cCh1cmwpCiAgICBpZiBub3Qgclsib2siXToKICAgICAgICByZXR1cm4gcgogICAgcmF3ID0gclsicmF3Il0KICAgIHRyeToKICAgICAgICB0eHQgPSByYXcuZGVjb2RlKCJ1dGYtOCIsICJpZ25vcmUiKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICB0eHQgPSAiIgogICAgZW5jID0gKHJbImN0eXBlIl0gb3IgIiIpLmxvd2VyKCkKICAgIGlmICJodG1sIiBpbiBlbmMgb3IgdHh0WzoyMDBdLmxvd2VyKCkuZmluZCgiPGh0bWwiKSA+PSAwOgogICAgICAgIHRpdGxlID0gcmUuc2VhcmNoKHIiPHRpdGxlW14+XSo+KC4qPyk8L3RpdGxlPiIsIHR4dCwgcmUuUyB8IHJlLkkpCiAgICAgICAgYm9keSA9IHJlLnN1YihyIig/aXMpPChzY3JpcHR8c3R5bGV8bm9zY3JpcHQpW14+XSo+Lio/PC9cMT4iLCAiICIsIHR4dCkKICAgICAgICBib2R5ID0gcmUuc3ViKHIiKD9zKTxbXj5dKz4iLCAiICIsIGJvZHkpCiAgICAgICAgYm9keSA9IHJlLnN1YihyIiZbYS16IzAtOV17Miw4fTsiLCAiICIsIGJvZHkpCiAgICAgICAgYm9keSA9IHJlLnN1YihyIlxzKyIsICIgIiwgYm9keSkuc3RyaXAoKQogICAgICAgIHJldHVybiB7Im9rIjogVHJ1ZSwgIuW8leaTjiI6ICJmZXRjaCIsICJ1cmwiOiB1cmwsCiAgICAgICAgICAgICAgICAi5qCH6aKYIjogKHRpdGxlLmdyb3VwKDEpLnN0cmlwKClbOjIwMF0gaWYgdGl0bGUgZWxzZSAiIiksCiAgICAgICAgICAgICAgICAi5a2X6IqCIjogclsiYnl0ZXMiXSwgIuenkiI6IHJbInNlYyJdLAogICAgICAgICAgICAgICAgIuato+aWhyI6IGJvZHlbOjE1MDBdLCAi5q2j5paH6ZW/5bqmIjogbGVuKGJvZHkpLAogICAgICAgICAgICAgICAgIuWTiOW4jCI6IGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KClbOjE2XX0KICAgIHJldHVybiB7Im9rIjogVHJ1ZSwgIuW8leaTjiI6ICJmZXRjaCIsICJ1cmwiOiB1cmwsICLlrZfoioIiOiByWyJieXRlcyJdLAogICAgICAgICAgICAi56eSIjogclsic2VjIl0sICLnsbvlnosiOiByWyJjdHlwZSJdLAogICAgICAgICAgICAi5q2j5paHIjogdHh0WzoxNTAwXSwKICAgICAgICAgICAgIuWTiOW4jCI6IGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KClbOjE2XX0KCgpTS0lMTF9ESVIgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIuWNj+iuri9za2lsbC9pbnN0YWxsZWQiKQpvcy5tYWtlZGlycyhTS0lMTF9ESVIsIGV4aXN0X29rPVRydWUpCgoKZGVmIGVuZ2luZV9za2lsbChzcmMpOgogICAgIiIi5o6lIFNraWxs77ya57uZIHppcCDot6/lvoTmiJYgVVJM77yM6KOF6L+b5p2l44CCCgogICAg6KOF5a6M6KaB6IO96K+B5piO5a6D55yf55qE5a2Y5Zyo77yaU0tJTEwubWQgKyDmlofku7bmlbAgKyDmuIXljZXlk4jluIzjgIIiIiIKICAgIHNyYyA9IChzcmMgb3IgIiIpLnN0cmlwKCkKICAgIGlmIG5vdCBzcmM6CiAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgIuacquWunueOsCI6ICLpnIDopoEgemlwIOi3r+W+hOaIliBVUkwifQogICAgaW1wb3J0IHppcGZpbGUsIGlvCiAgICByYXcgPSBOb25lCiAgICBpZiBzcmMuc3RhcnRzd2l0aCgoImh0dHA6Ly8iLCAiaHR0cHM6Ly8iKSk6CiAgICAgICAgciA9IF9odHRwKHNyYywgdGltZW91dD02MCkKICAgICAgICBpZiBub3Qgclsib2siXToKICAgICAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgIumUmeivryI6ICLkuIvovb3lpLHotKUiLCAi6K+m5oOFIjogcn0KICAgICAgICByYXcgPSByWyJyYXciXQogICAgICAgIG5hbWUgPSBzcmMucnNwbGl0KCIvIiwgMSlbLTFdCiAgICBlbHNlOgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShzcmMpOgogICAgICAgICAgICByZXR1cm4geyJvayI6IEZhbHNlLCAi5pyq5a6e546wIjogIuaWh+S7tuS4jeWtmOWcqDogIiArIHNyY30KICAgICAgICByYXcgPSBvcGVuKHNyYywgInJiIikucmVhZCgpCiAgICAgICAgbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUoc3JjKQogICAgdHJ5OgogICAgICAgIHogPSB6aXBmaWxlLlppcEZpbGUoaW8uQnl0ZXNJTyhyYXcpKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICLplJnor68iOiAi5LiN5piv5pyJ5pWIIHppcCIsICLor6bmg4UiOiByZXByKGUpWzoxNTBdfQogICAgYmFkID0gei50ZXN0emlwKCkKICAgIGlmIGJhZDoKICAgICAgICByZXR1cm4geyJvayI6IEZhbHNlLCAi6ZSZ6K+vIjogInppcCDmjZ/lnY8iLCAi5paH5Lu2IjogYmFkfQogICAgbmFtZXMgPSB6Lm5hbWVsaXN0KCkKICAgIHNraWxsX21kID0gW24gZm9yIG4gaW4gbmFtZXMgaWYgbi5sb3dlcigpLmVuZHN3aXRoKCJza2lsbC5tZCIpXQogICAgdGFyZ2V0ID0gb3MucGF0aC5qb2luKFNLSUxMX0RJUiwgcmUuc3ViKHIiXC56aXAkIiwgIiIsIG5hbWUpKQogICAgei5leHRyYWN0YWxsKHRhcmdldCkKICAgICMg6KOF5a6M56uL5Yi76Ieq5qOA77ya6K+7IGZyb250bWF0dGVyIOeahCBuYW1lIC8gZGVzY3JpcHRpb24KICAgIGluZm8gPSB7fQogICAgaWYgc2tpbGxfbWQ6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB0ID0gei5yZWFkKHNraWxsX21kWzBdKS5kZWNvZGUoInV0Zi04IiwgImlnbm9yZSIpCiAgICAgICAgICAgIG0gPSByZS5zZWFyY2gociJebmFtZTpccyooLispJCIsIHQsIHJlLk0pCiAgICAgICAgICAgIGQgPSByZS5zZWFyY2gociJeZGVzY3JpcHRpb246XHMqKC4rKSQiLCB0LCByZS5NKQogICAgICAgICAgICBpbmZvID0geyJza2lsbOWQjSI6IG0uZ3JvdXAoMSkuc3RyaXAoKSBpZiBtIGVsc2UgIj8iLAogICAgICAgICAgICAgICAgICAgICLmnIlkZXNjcmlwdGlvbiI6IGJvb2woZCksCiAgICAgICAgICAgICAgICAgICAgIuato+aWh+ihjCI6IGxlbih0LnNwbGl0bGluZXMoKSl9CiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBpbmZvID0geyLor7tmcm9udG1hdHRlcuWksei0pSI6IHJlcHIoZSlbOjEwMF19CiAgICByZXR1cm4geyJvayI6IFRydWUsICLlvJXmk44iOiAic2tpbGwtaW5zdGFsbCIsICLmnaXmupAiOiBzcmMsCiAgICAgICAgICAgICJ6aXDlk4jluIwiOiBoYXNobGliLnNoYTI1NihyYXcpLmhleGRpZ2VzdCgpWzoxNl0sCiAgICAgICAgICAgICLmlofku7bmlbAiOiBsZW4obmFtZXMpLCAiU0tJTEwubWTmlbAiOiBsZW4oc2tpbGxfbWQpLAogICAgICAgICAgICAi6KOF5YiwIjogb3MucGF0aC5yZWxwYXRoKHRhcmdldCwgUk9PVCksCiAgICAgICAgICAgICLno4Hnm5jmoKHpqowiOiBvcy5wYXRoLmlzZGlyKHRhcmdldCksCiAgICAgICAgICAgICJmcm9udG1hdHRlciI6IGluZm8sCiAgICAgICAgICAgICLlt7Loo4XnmoQiOiBzb3J0ZWQob3MubGlzdGRpcihTS0lMTF9ESVIpKX0KCgpkZWYgZW5naW5lX2FwaShzcGVjKToKICAgICIiIuaOpSBBUEnvvJrnnJ/osIPkuIDkuKrlpJbpg6jmjqXlj6PjgIJzcGVjIOWPr+S7peaYryB1cmzvvIzmiJYgSlNPTuOAgiIiIgogICAgc3BlYyA9IChzcGVjIG9yICIiKS5zdHJpcCgpCiAgICBpZiBub3Qgc3BlYzoKICAgICAgICByZXR1cm4geyJvayI6IEZhbHNlLCAi5pyq5a6e546wIjogIumcgOimgSB1cmwg5oiWIEpTT04gc3BlYyJ9CiAgICB1cmwsIG1ldGhvZCwgYm9keSA9IHNwZWMsICJHRVQiLCBOb25lCiAgICBpZiBzcGVjLnN0YXJ0c3dpdGgoInsiKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGogPSBqc29uLmxvYWRzKHNwZWMpCiAgICAgICAgICAgIHVybCA9IGouZ2V0KCJ1cmwiLCAiIik7IG1ldGhvZCA9IGouZ2V0KCJtZXRob2QiLCAiR0VUIikudXBwZXIoKQogICAgICAgICAgICBib2R5ID0ganNvbi5kdW1wcyhqWyJib2R5Il0pIGlmICJib2R5IiBpbiBqIGVsc2UgTm9uZQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgIumUmeivryI6ICJzcGVjIOino+aekOWksei0pTogIiArIHJlcHIoZSlbOjEwMF19CiAgICBpZiBub3QgdXJsLnN0YXJ0c3dpdGgoKCJodHRwOi8vIiwgImh0dHBzOi8vIikpOgogICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICLmnKrlrp7njrAiOiAi6ZyA6KaBIGh0dHAvaHR0cHMgdXJsIn0KICAgIHIgPSBfaHR0cCh1cmwsIG1ldGhvZD1tZXRob2QsIGJvZHk9Ym9keSkKICAgIGlmIG5vdCByWyJvayJdOgogICAgICAgIHJldHVybiB7Im9rIjogRmFsc2UsICoqe2s6IHYgZm9yIGssIHYgaW4gci5pdGVtcygpIGlmIGsgIT0gInJhdyJ9fQogICAgdHh0ID0gclsicmF3Il0uZGVjb2RlKCJ1dGYtOCIsICJpZ25vcmUiKVs6MTIwMF0KICAgIHJldHVybiB7Im9rIjogVHJ1ZSwgIuW8leaTjiI6ICJhcGktY2FsbCIsICJ1cmwiOiB1cmwsICJtZXRob2QiOiBtZXRob2QsCiAgICAgICAgICAgICJyYyI6IHJbInJjIl0sICLlrZfoioIiOiByWyJieXRlcyJdLCAi56eSIjogclsic2VjIl0sCiAgICAgICAgICAgICLlk43lupQiOiB0eHQsICLlk4jluIwiOiBoYXNobGliLnNoYTI1NihyWyJyYXciXSkuaGV4ZGlnZXN0KClbOjE2XX0KCgpkZWYgZW5naW5lX2luZ2VzdChwYXlsb2FkKToKICAgICIiIuWuouaIt+err+aOqOmAgeaOpeaUtuerr++8muaWh+acrCAvIOWbvueJhyAvIOaWh+S7tiAvIOS6i+S7tu+8jOe7n+S4gOiQveebmOW4puWTiOW4jOOAggoKICAgIOi/meaYryLlrqLmiLfnq6/lj5HnmoTml7blgJnlvpfmnInlnLDmlrnmjqUi55qE6YKj5LiA5qC844CCIiIiCiAgICBwID0gcGF5bG9hZCBvciB7fQogICAga2luZCA9IChwLmdldCgia2luZCIpIG9yICJ0ZXh0IikubG93ZXIoKQogICAgdHMgPSBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJVklbSVkLSVIJU0lUy0lZiIpCiAgICBpZiBraW5kIGluICgiaW1hZ2UiLCAiZmlsZSIpOgogICAgICAgIGI2NCA9IHAuZ2V0KCJiNjQiLCAiIikKICAgICAgICBpZiBub3QgYjY0OgogICAgICAgICAgICByZXR1cm4geyJvayI6IEZhbHNlLCAi5pyq5a6e546wIjogImltYWdlL2ZpbGUg6ZyA6KaBIGI2NCJ9CiAgICAgICAgcmF3ID0gYmFzZTY0LmI2NGRlY29kZShiNjQuc3BsaXQoIiwiKVstMV0pCiAgICAgICAgZXh0ID0gIi4iICsgKChwLmdldCgiZXh0Iikgb3IgImJpbiIpLmxzdHJpcCgiLiIpKQogICAgICAgIGZuID0gb3MucGF0aC5qb2luKElOR0VTVF9ESVIsICIlcy0lcyVzIiAlICh0cywga2luZCwgZXh0KSkKICAgICAgICBvcGVuKGZuLCAid2IiKS53cml0ZShyYXcpCiAgICAgICAgcmVjID0geyJraW5kIjoga2luZCwgImZpbGUiOiBvcy5wYXRoLnJlbHBhdGgoZm4sIFJPT1QpLAogICAgICAgICAgICAgICAiYnl0ZXMiOiBsZW4ocmF3KSwgInNoYTI1NiI6IGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KCl9CiAgICAgICAgaWYga2luZCA9PSAiaW1hZ2UiOgogICAgICAgICAgICByZWMudXBkYXRlKGVuZ2luZV9pbWFnZShiNjQpKQogICAgZWxzZToKICAgICAgICB0ZXh0ID0gcC5nZXQoInRleHQiLCAiIikKICAgICAgICBpZiBub3QgdGV4dDoKICAgICAgICAgICAgcmV0dXJuIHsib2siOiBGYWxzZSwgIuacquWunueOsCI6ICJ0ZXh0IOmcgOimgSB0ZXh0IOWtl+autSJ9CiAgICAgICAgZm4gPSBvcy5wYXRoLmpvaW4oSU5HRVNUX0RJUiwgIiVzLSVzLmpzb24iICUgKHRzLCBraW5kKSkKICAgICAgICByZWMgPSB7ImtpbmQiOiBraW5kLCAidHMiOiB0cywgInRleHQiOiB0ZXh0LAogICAgICAgICAgICAgICAic2hhMjU2IjogaGFzaGxpYi5zaGEyNTYodGV4dC5lbmNvZGUoKSkuaGV4ZGlnZXN0KCl9CiAgICAgICAganNvbi5kdW1wKHJlYywgb3BlbihmbiwgInciLCBlbmNvZGluZz0idXRmLTgiKSwKICAgICAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKICAgICAgICByZWNbImZpbGUiXSA9IG9zLnBhdGgucmVscGF0aChmbiwgUk9PVCkKICAgIHJlY1si5bey5pS2Il0gPSBsZW4ob3MubGlzdGRpcihJTkdFU1RfRElSKSkKICAgIHJldHVybiB7Im9rIjogVHJ1ZSwgIuW8leaTjiI6ICJpbmdlc3QiLCAqKnJlY30KCgpFTkdJTkVTID0geyJ2ZXJpZnkiOiBlbmdpbmVfdmVyaWZ5LCAic2NhbiI6IGVuZ2luZV9zY2FuLAogICAgICAgICAgICJjb25zb2xlIjogZW5naW5lX2NvbnNvbGUsICJwcm92ZSI6IGVuZ2luZV9wcm92ZSwKICAgICAgICAgICAiYXNrIjogZW5naW5lX2FzaywgImltYWdlIjogZW5naW5lX2ltYWdlLCAidm9pY2UiOiBlbmdpbmVfdm9pY2UsCiAgICAgICAgICAgImZldGNoIjogZW5naW5lX2ZldGNoLCAic2tpbGwiOiBlbmdpbmVfc2tpbGwsCiAgICAgICAgICAgImFwaSI6IGVuZ2luZV9hcGksICJpbmdlc3QiOiBlbmdpbmVfaW5nZXN0fQpFTkdJTkVTX1JFRiA9IEVOR0lORVMKCiMg4pSA4pSAIOWlkee6puWxgu+8muWJjeerr+WPquiupOi/meS4gOWxgiDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKY2xhc3MgQVBJKFNpbXBsZUhUVFBSZXF1ZXN0SGFuZGxlcik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgKmEsICoqayk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqYSwgZGlyZWN0b3J5PVdFQiwgKiprKQoKICAgIGRlZiBfanNvbihzZWxmLCBvYmosIGNvZGU9MjAwKToKICAgICAgICBiID0ganNvbi5kdW1wcyhvYmosIGVuc3VyZV9hc2NpaT1GYWxzZSkuZW5jb2RlKCkKICAgICAgICBzZWxmLnNlbmRfcmVzcG9uc2UoY29kZSkKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD11dGYtOCIpCiAgICAgICAgc2VsZi5zZW5kX2hlYWRlcigiQ29udGVudC1MZW5ndGgiLCBzdHIobGVuKGIpKSkKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCJDYWNoZS1Db250cm9sIiwgIm5vLXN0b3JlIikKICAgICAgICBzZWxmLmVuZF9oZWFkZXJzKCkKICAgICAgICBzZWxmLndmaWxlLndyaXRlKGIpCgogICAgZGVmIGRvX0dFVChzZWxmKToKICAgICAgICB1ID0gdXJscGFyc2Uoc2VsZi5wYXRoKQogICAgICAgIGlmIHUucGF0aCA9PSAiL2FwaS9oZWFsdGgiOgogICAgICAgICAgICByZXR1cm4gc2VsZi5fanNvbih7Im9rIjogVHJ1ZSwgInRzIjogZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZW5naW5lcyI6IHNvcnRlZChFTkdJTkVTKX0pCiAgICAgICAgaWYgdS5wYXRoLnN0YXJ0c3dpdGgoIi9hcGkvcnVuLyIpOgogICAgICAgICAgICBuYW1lID0gdS5wYXRoLnNwbGl0KCIvYXBpL3J1bi8iKVsxXS5zcGxpdCgiPyIpWzBdCiAgICAgICAgICAgIGlmIG5hbWUgbm90IGluIEVOR0lORVM6CiAgICAgICAgICAgICAgICByZXR1cm4gc2VsZi5fanNvbih7Im9rIjogRmFsc2UsICLmnKrlrp7njrAiOiAi5peg5q2k5byV5pOOOiAiICsgbmFtZX0sIDQwNCkKICAgICAgICAgICAgcSA9IHBhcnNlX3FzKHUucXVlcnkgb3IgIiIpCiAgICAgICAgICAgIGFyZyA9IHEuZ2V0KCJ0ZXh0IiwgWyIiXSlbMF0KICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2pzb24oRU5HSU5FU1tuYW1lXShhcmcpIGlmIG5hbWUgaW4gKCJzY2FuIiwgInByb3ZlIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBFTkdJTkVTW25hbWVdKCkpCiAgICAgICAgaWYgdS5wYXRoID09ICIvYXBpL21hbmlmZXN0IjoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2pzb24oewogICAgICAgICAgICAgICAgIuWlkee6piI6ICIvYXBpL3J1bi97dmVyaWZ5fHNjYW58Y29uc29sZXxwcm92ZX0iLAogICAgICAgICAgICAgICAgIuinhOWImSI6ICLlvJXmk47lj6/mjaLvvIzlpZHnuqbkuI3lj5jvvJvmsqHmnInlsLHor7TmsqHmnInvvIzkuI3pmY3nuqfkuI3kvKrpgKAiLAogICAgICAgICAgICAgICAgIuWTiOW4jCI6IGhhc2hsaWIuc2hhMjU2KG9wZW4oX19maWxlX18sICJyYiIpLnJlYWQoKSkuaGV4ZGlnZXN0KClbOjE2XX0pCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuZG9fR0VUKCkKCiAgICBkZWYgZG9fUE9TVChzZWxmKToKICAgICAgICB1ID0gdXJscGFyc2Uoc2VsZi5wYXRoKQogICAgICAgIGlmIHUucGF0aC5zdGFydHN3aXRoKCIvYXBpL3J1bi8iKToKICAgICAgICAgICAgbmFtZSA9IHUucGF0aC5zcGxpdCgiL2FwaS9ydW4vIilbMV0uc3BsaXQoIj8iKVswXQogICAgICAgICAgICBpZiBuYW1lIG5vdCBpbiBFTkdJTkVTOgogICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2pzb24oeyJvayI6IEZhbHNlLCAi5pyq5a6e546wIjogIuaXoOatpOW8leaTjjogIiArIG5hbWV9LCA0MDQpCiAgICAgICAgICAgIG4gPSBpbnQoc2VsZi5oZWFkZXJzLmdldCgiQ29udGVudC1MZW5ndGgiKSBvciAwKQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBib2R5ID0ganNvbi5sb2FkcyhzZWxmLnJmaWxlLnJlYWQobikgb3IgYiJ7fSIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBib2R5ID0ge30KICAgICAgICAgICAgIyDlrr3lrrnovpPlhaXvvJrosIPnlKjmlrnluLjnm7TmjqXkvKDlrZfnrKbkuLLjgILku6XliY3ov5nkvJrltKnvvIhzdHIg5rKh5pyJIC5nZXTvvInvvIwKICAgICAgICAgICAgIyDnjrDlnKjmmK/nnJ/pgJrpgZPlsLHor6XmjqXkvY/vvIzogIzkuI3mmK/mlq3ov57jgIIKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShib2R5LCBzdHIpOgogICAgICAgICAgICAgICAgYm9keSA9IHsidGV4dCI6IGJvZHl9CiAgICAgICAgICAgIGVsaWYgaXNpbnN0YW5jZShib2R5LCAoaW50LCBmbG9hdCkpOgogICAgICAgICAgICAgICAgYm9keSA9IHsidGV4dCI6IHN0cihib2R5KX0KICAgICAgICAgICAgZWxpZiBpc2luc3RhbmNlKGJvZHksIGxpc3QpOgogICAgICAgICAgICAgICAgYm9keSA9IHsidGV4dCI6ICIgIi5qb2luKHN0cih4KSBmb3IgeCBpbiBib2R5KX0KICAgICAgICAgICAgZWxpZiBub3QgaXNpbnN0YW5jZShib2R5LCBkaWN0KToKICAgICAgICAgICAgICAgIGJvZHkgPSB7InRleHQiOiBzdHIoYm9keSl9CiAgICAgICAgICAgIGFyZyA9IGJvZHkuZ2V0KCJ0ZXh0IiwgIiIpCiAgICAgICAgICAgICMgaW1hZ2Ug5byV5pOO5pS255qE5piv5Zu+54mHIGJhc2U2NO+8jOS4jeaYryB0ZXh0CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGlmIG5hbWUgPT0gImltYWdlIjoKICAgICAgICAgICAgICAgICAgICByID0gRU5HSU5FU1siaW1hZ2UiXShib2R5LmdldCgiYjY0IiwgIiIpKQogICAgICAgICAgICAgICAgZWxpZiBuYW1lID09ICJpbmdlc3QiOgogICAgICAgICAgICAgICAgICAgIHIgPSBFTkdJTkVTWyJpbmdlc3QiXShib2R5KQogICAgICAgICAgICAgICAgZWxpZiBuYW1lIGluICgiZmV0Y2giLCAic2tpbGwiLCAiYXBpIik6CiAgICAgICAgICAgICAgICAgICAgc3BlYyA9IGJvZHkuZ2V0KCJzcGVjIikgb3IgYXJnCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IHNwZWM6CiAgICAgICAgICAgICAgICAgICAgICAgIHIgPSB7Im9rIjogRmFsc2UsICLnvLrlj4LmlbAiOiAic3BlYyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIuivtOaYjiI6ICLov5nmnaHpgJrpgZPpnIDopoHkuIDkuKrnm67moIfvvIhVUkwgLyDlnZDmoIfvvIkifQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHIgPSBFTkdJTkVTW25hbWVdKHNwZWMpCiAgICAgICAgICAgICAgICBlbGlmIG5hbWUgaW4gKCJzY2FuIiwgInByb3ZlIiwgImFzayIsICJ2b2ljZSIpOgogICAgICAgICAgICAgICAgICAgIGlmIG5hbWUgPT0gInNjYW4iIGFuZCBub3QgYXJnOgogICAgICAgICAgICAgICAgICAgICAgICByID0geyJvayI6IEZhbHNlLCAi57y65Y+C5pWwIjogInRleHQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICLor7TmmI4iOiAi5oqK6KaB5omr55qE5Luj56CB5pS+6L+bIHRleHQifQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIHIgPSBFTkdJTkVTW25hbWVdKGFyZykKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgciA9IEVOR0lORVNbbmFtZV0oKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICAjIOW8leaTjuWGhemDqOeCuOS6huS5n+imgeWbnuivne+8jOS4jeiuuCBSZW1vdGVEaXNjb25uZWN0ZWTjgIIKICAgICAgICAgICAgICAgICMg5pat6L+eID0g5a+55pa55LiN55+l6YGT5Y+R55Sf5LqG5LuA5LmIID0g6YCa6YGT5rKh6YCa44CCCiAgICAgICAgICAgICAgICByID0geyJvayI6IEZhbHNlLCAi5byV5pOO5byC5bi4IjogbmFtZSwgIumUmeivryI6IHJlcHIoZSlbOjIwMF0sCiAgICAgICAgICAgICAgICAgICAgICLor7TmmI4iOiAi6L+Z5piv55yf5aSx6LSl77yM5LiN5piv6ZmN57qnIn0KICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyLCBkaWN0KToKICAgICAgICAgICAgICAgIHIuc2V0ZGVmYXVsdCgi6YCa6YGTIiwgbmFtZSkKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2pzb24ocikKICAgICAgICByZXR1cm4gc2VsZi5fanNvbih7Im9rIjogRmFsc2UsICLmnKrlrp7njrAiOiAiUE9TVCDlj6rmjqUgL2FwaS9ydW4vKiJ9LCA0MDQpCgogICAgZGVmIGxvZ19tZXNzYWdlKHNlbGYsICphKToKICAgICAgICBwYXNzCgoKY2xhc3MgVFMoc29ja2V0c2VydmVyLlRocmVhZGluZ1RDUFNlcnZlcik6CiAgICBhbGxvd19yZXVzZV9hZGRyZXNzID0gVHJ1ZQogICAgZGFlbW9uX3RocmVhZHMgPSBUcnVlCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDY2KQogICAgcHJpbnQoIiDmtJvnpZ4gTzEgwrcg5LiA56uZ5byP5pyN5YqhIikKICAgIHByaW50KCI9IiAqIDY2KQogICAgcHJpbnQoIiAg5Zyw5Z2AICAgIDogaHR0cDovLzEyNy4wLjAuMTolZCIgJSBQT1JUKQogICAgcHJpbnQoIiAg5aWR57qmICAgIDogL2FwaS9ydW4ve3ZlcmlmeXxzY2FufGNvbnNvbGV8cHJvdmV9IikKICAgIHByaW50KCIgIOiHquajgCAgICA6IC9hcGkvaGVhbHRoIikKICAgIHByaW50KCIgIOa4heWNlSAgICA6IC9hcGkvbWFuaWZlc3QiKQogICAgcHJpbnQoIiAg6Z2Z5oCBICAgIDogZG9jcy8gIChpbmRleCAvIGNvbnNvbGUgLyBoZWxwZXIgLyBtaW5lKSIpCiAgICBwcmludCgiPSIgKiA2NikKICAgIHByaW50KCIgIOW8leaTjuWxguWPr+aNou+8jOWlkee6puWxguS4jeWPmCDigJTigJQg6L+Z5piv5Y+N5ZCR5bel56iL5o+Q54K85Ye655qE56ys5LiA5p2h44CCIikKICAgIHByaW50KCIgIEN0cmwrQyDlgZzmraIiKQogICAgcHJpbnQoIj0iICogNjYpCiAgICBUUygoIjAuMC4wLjAiLCBQT1JUKSwgQVBJKS5zZXJ2ZV9mb3JldmVyKCkK
+# -*- coding: utf-8 -*-
+"""
+洛神 O1 · 一站式服务（零依赖，仅 Python 标准库）
+
+对齐反向工程提炼出的骨架：
+  ① 统一契约层  /api/*  —— 前端只认这一层，引擎可换
+  ② 前后端分家  web/ + engine/ + api/
+  ③ 一个入口    python3 serve.py
+  ④ 配置外置    环境变量 / .env
+  ⑤ 状态在前端，持久化在后端
+
+启动：  python3 serve.py           → http://127.0.0.1:8765
+        python3 serve.py 9000      → 换端口
+"""
+import os, sys, json, time, hashlib, subprocess, threading, socketserver
+import re, base64, urllib.request, urllib.error, urllib.parse, zipfile, io
+from http.server import SimpleHTTPRequestHandler
+from urllib.parse import urlparse, parse_qs
+from datetime import datetime
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+WEB = os.path.join(ROOT, "docs")
+PORT = int(sys.argv[1]) if len(sys.argv) > 1 else 8765
+PY = sys.executable
+
+# ── 引擎层：真正干活的（可替换，前端不关心） ──────────────────────
+def engine_verify():
+    """跑一键验证。真跑，不读缓存。"""
+    t0 = time.time()
+    try:
+        r = subprocess.run([PY, "tools/verify_all.py"], cwd=ROOT,
+                           capture_output=True, text=True, timeout=300)
+        return {"ok": r.returncode == 0, "rc": r.returncode,
+                "out": r.stdout, "err": r.stderr[-500:],
+                "pass": r.stdout.count("[PASS]"),
+                "fail": r.stdout.count("[FAIL]"),
+                "sec": round(time.time() - t0, 1)}
+    except Exception as e:
+        return {"ok": False, "err": repr(e)[:300]}
+
+
+def engine_scan(text):
+    """跑 evalguard 扫描。
+
+    注意：evalguard 自带 HTTP 服务（python3 -m overseas.evalguard serve --port N），
+    我们的契约层既可以本地 subprocess 调，也可以将来改指向它的服务 —— 引擎可换。"""
+    p = os.path.join(ROOT, "overseas/evalguard")
+    if not os.path.isdir(p):
+        return {"ok": False, "未实现": "evalguard 目录不存在",
+                "说明": "有手没实现 ≠ 没手，这条如实报"}
+    # 契约修正：evalguard 接的是 path，不是 --text。
+    # 我先把文本落成临时文件再扫 —— 契约层负责适配，不让前端知道引擎的脾气。
+    import tempfile
+    if not (text or "").strip():
+        return {"ok": False, "未实现": "scan 需要 text 或 path"}
+    fd, tmp = tempfile.mkstemp(suffix=".py", prefix="lsscan_")
+    os.write(fd, (text or "").encode()); os.close(fd)
+    try:
+        r = subprocess.run([PY, "-m", "overseas.evalguard", tmp],
+                           cwd=ROOT, capture_output=True, text=True, timeout=120)
+        return {"ok": True, "rc": r.returncode, "引擎": "evalguard",
+                "out": (r.stdout or r.stderr)[-3000:]}
+    except Exception as e:
+        return {"ok": False, "err": repr(e)[:300]}
+    finally:
+        try: os.unlink(tmp)
+        except Exception: pass
+
+
+def engine_console():
+    """采集控制台数据。真跑。"""
+    try:
+        r = subprocess.run([PY, "名片/probe.py"], cwd=ROOT,
+                           capture_output=True, text=True, timeout=300)
+        j = os.path.join(ROOT, "docs/console_data.json")
+        if os.path.isfile(j):
+            d = json.load(open(j, encoding="utf-8"))
+            d["_哈希"] = hashlib.sha256(open(j, "rb").read()).hexdigest()
+            return {"ok": True, "data": d}
+        return {"ok": False, "err": (r.stdout or r.stderr)[-300:]}
+    except Exception as e:
+        return {"ok": False, "err": repr(e)[:300]}
+
+
+def engine_prove(text):
+    """译本层：自然语言 → 冻结译本 + 双哈希。有实现则真跑。"""
+    p = os.path.join(ROOT, "experiments/exp256_translation/compile.py")
+    if not os.path.isfile(p):
+        return {"ok": False, "未实现": "compile.py 不存在"}
+    # 契约修正：compile.py 用相对路径读坐标，必须在它自己的目录里跑。
+    d = os.path.dirname(p)
+    try:
+        r = subprocess.run([PY, os.path.basename(p), "--text", text], cwd=d,
+                           capture_output=True, text=True, timeout=120)
+        return {"ok": r.returncode == 0, "rc": r.returncode, "引擎": "compile",
+                "out": (r.stdout or r.stderr)[-2000:]}
+    except Exception as e:
+        return {"ok": False, "err": repr(e)[:300]}
+
+
+# ── 接收端引擎：文本 / 图片 / 语音 ────────────────────────────────
+# 原则：接进来就真处理。处理不了的，如实报「无」，绝不静默降级。
+
+def engine_ask(text):
+    """文本交互：解析指令 → 调度引擎 → 返回真结果。
+
+    这不是聊天机器人。它不生成"听起来像回答"的话，
+    它把你的指令翻译成某个引擎的一次真跑，然后把真输出还给你。"""
+    t = (text or "").strip()
+    if not t:
+        return {"ok": False, "未实现": "指令为空"}
+    low = t.lower()
+    # 关键词 → 引擎。没命中就给出能力清单，不假装听懂了。
+    table = [
+        (("验证", "verify", "自检", "通过"), "verify"),
+        (("扫描", "scan", "检查代码", "evalguard", "病代码"), "scan"),
+        (("控制台", "console", "读数", "资产"), "console"),
+        (("译本", "prove", "编译", "冻结"), "prove"),
+    ]
+    for kws, name in table:
+        if any(k in t or k in low for k in kws):
+            r = ENGINES_REF[name](t) if name in ("scan", "prove") else ENGINES_REF[name]()
+            r["_指令"] = t
+            r["_引擎"] = name
+            return r
+    return {"ok": False, "未听懂": t,
+            "说明": "我不假装理解。只能调度下列引擎：",
+            "能做的": ["验证 —— 跑一键验证", "扫描 <代码> —— 跑 evalguard",
+                       "控制台 —— 采集实时读数", "译本 <判据> —— 编译成冻结译本"],
+            "做不到的": ["自由聊天", "语音", "语义理解图片"]}
+
+
+def engine_image(b64):
+    """图片接收：PIL 真实分析。
+
+    能测的：尺寸 / 格式 / 主色调 / 亮度分布 / 是否灰度。
+    测不了的：图里画的是什么 —— 没有本地视觉模型，如实说。"""
+    try:
+        from PIL import Image
+    except ImportError:
+        return {"ok": False, "缺失": "PIL",
+                "说明": "没有图像库，这不是降级，是如实报"}
+    import base64, io
+    try:
+        raw = base64.b64decode(b64.split(",")[-1])
+        im = Image.open(io.BytesIO(raw))
+        im.load()
+    except Exception as e:
+        return {"ok": False, "错误": repr(e)[:200], "说明": "打不开这张图"}
+    w, h = im.size
+    small = im.convert("RGB").resize((60, 60))
+    px = list(small.getdata())
+    n = len(px)
+    # 主色调：量化到 32 级后取众数
+    from collections import Counter
+    q = Counter(((r // 32) * 32, (g // 32) * 32, (b // 32) * 32) for r, g, b in px)
+    top = q.most_common(3)
+    avg = tuple(sum(c[i] for c in px) // n for i in range(3))
+    lum = [0.299 * r + 0.587 * g + 0.114 * b for r, g, b in px]
+    return {"ok": True, "引擎": "PIL",
+            "尺寸": "%dx%d" % (w, h), "格式": im.format, "模式": im.mode,
+            "平均色": "rgb(%d,%d,%d)" % avg,
+            "主色调": ["rgb(%d,%d,%d) ×%d" % (c[0], c[1], c[2], k) for c, k in top],
+            "亮度": {"最暗": round(min(lum)), "最亮": round(max(lum)),
+                     "均值": round(sum(lum) / n, 1)},
+            "像素哈希": hashlib.sha256(raw).hexdigest()[:16],
+            "我测不了的": "图里是什么内容 —— 没有本地视觉模型，语义理解标为无"}
+
+
+def engine_voice(text):
+    """语音通道：实测有没有，没有就报没有。"""
+    import shutil
+    tools = ["espeak", "espeak-ng", "say", "ffmpeg", "sox", "arecord"]
+    have = {t: bool(shutil.which(t)) for t in tools}
+    mods = {}
+    for m in ("pyttsx3", "gtts", "speech_recognition"):
+        try:
+            __import__(m); mods[m] = True
+        except ImportError:
+            mods[m] = False
+    can_tts = any([have["espeak"], have["espeak-ng"], have["say"],
+                   mods["pyttsx3"], mods["gtts"]])
+    can_asr = any([have["arecord"], mods["speech_recognition"]])
+    return {
+        "ok": False,
+        "状态": "无 —— 这条通道不存在，不是故障",
+        "语音合成": can_tts, "语音识别": can_asr,
+        "实测": {"命令行工具": have, "python模块": mods},
+        "说明": "没有 TTS 引擎、没有麦克风采样器。我不会用 ffmpeg 生成一段音调冒充说话。",
+        "想要的话": "装 espeak 或 pyttsx3 即可，本页会自己变。",
+    }
+
+
+# ── 外部接入：抓取 / Skill / API ─────────────────────────────────
+# 客户端发东西过来，得有地方接。这三格是"接进来"的能力。
+
+INGEST_DIR = os.path.join(ROOT, "接收")
+os.makedirs(INGEST_DIR, exist_ok=True)
+
+
+def _http(url, method="GET", body=None, ctype="application/json", timeout=30):
+    req = urllib.request.Request(urllib.parse.quote(url, safe=":/?&=%#+"), method=method)
+    req.add_header("User-Agent", "LuoShen-O1/1.0")
+    if body is not None:
+        b = body.encode() if isinstance(body, str) else body
+        req.add_header("Content-Type", ctype)
+    else:
+        b = None
+    t0 = time.time()
+    try:
+        r = urllib.request.urlopen(req, b, timeout=timeout)
+        raw = r.read()
+        return {"ok": True, "rc": r.status, "bytes": len(raw),
+                "sec": round(time.time() - t0, 2), "raw": raw,
+                "ctype": r.headers.get("Content-Type", "")}
+    except urllib.error.HTTPError as e:
+        return {"ok": False, "rc": e.code, "err": e.reason,
+                "sec": round(time.time() - t0, 2)}
+    except Exception as e:
+        return {"ok": False, "err": repr(e)[:200], "sec": round(time.time() - t0, 2)}
+
+
+def engine_fetch(url):
+    """抓取：真抓网页，剥标签，返回正文 + 字节哈希。"""
+    if not (url or "").startswith(("http://", "https://")):
+        return {"ok": False, "未实现": "需要 http/https 开头的 url"}
+    r = _http(url)
+    if not r["ok"]:
+        return r
+    raw = r["raw"]
+    try:
+        txt = raw.decode("utf-8", "ignore")
+    except Exception:
+        txt = ""
+    enc = (r["ctype"] or "").lower()
+    if "html" in enc or txt[:200].lower().find("<html") >= 0:
+        title = re.search(r"<title[^>]*>(.*?)</title>", txt, re.S | re.I)
+        body = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", txt)
+        body = re.sub(r"(?s)<[^>]+>", " ", body)
+        body = re.sub(r"&[a-z#0-9]{2,8};", " ", body)
+        body = re.sub(r"\s+", " ", body).strip()
+        return {"ok": True, "引擎": "fetch", "url": url,
+                "标题": (title.group(1).strip()[:200] if title else ""),
+                "字节": r["bytes"], "秒": r["sec"],
+                "正文": body[:1500], "正文长度": len(body),
+                "哈希": hashlib.sha256(raw).hexdigest()[:16]}
+    return {"ok": True, "引擎": "fetch", "url": url, "字节": r["bytes"],
+            "秒": r["sec"], "类型": r["ctype"],
+            "正文": txt[:1500],
+            "哈希": hashlib.sha256(raw).hexdigest()[:16]}
+
+
+SKILL_DIR = os.path.join(ROOT, "协议/skill/installed")
+os.makedirs(SKILL_DIR, exist_ok=True)
+
+
+def engine_skill(src):
+    """接 Skill：给 zip 路径或 URL，装进来。
+
+    装完要能证明它真的存在：SKILL.md + 文件数 + 清单哈希。"""
+    src = (src or "").strip()
+    if not src:
+        return {"ok": False, "未实现": "需要 zip 路径或 URL"}
+    import zipfile, io
+    raw = None
+    if src.startswith(("http://", "https://")):
+        r = _http(src, timeout=60)
+        if not r["ok"]:
+            return {"ok": False, "错误": "下载失败", "详情": r}
+        raw = r["raw"]
+        name = src.rsplit("/", 1)[-1]
+    else:
+        if not os.path.isfile(src):
+            return {"ok": False, "未实现": "文件不存在: " + src}
+        raw = open(src, "rb").read()
+        name = os.path.basename(src)
+    try:
+        z = zipfile.ZipFile(io.BytesIO(raw))
+    except Exception as e:
+        return {"ok": False, "错误": "不是有效 zip", "详情": repr(e)[:150]}
+    bad = z.testzip()
+    if bad:
+        return {"ok": False, "错误": "zip 损坏", "文件": bad}
+    names = z.namelist()
+    skill_md = [n for n in names if n.lower().endswith("skill.md")]
+    target = os.path.join(SKILL_DIR, re.sub(r"\.zip$", "", name))
+    z.extractall(target)
+    # 装完立刻自检：读 frontmatter 的 name / description
+    info = {}
+    if skill_md:
+        try:
+            t = z.read(skill_md[0]).decode("utf-8", "ignore")
+            m = re.search(r"^name:\s*(.+)$", t, re.M)
+            d = re.search(r"^description:\s*(.+)$", t, re.M)
+            info = {"skill名": m.group(1).strip() if m else "?",
+                    "有description": bool(d),
+                    "正文行": len(t.splitlines())}
+        except Exception as e:
+            info = {"读frontmatter失败": repr(e)[:100]}
+    return {"ok": True, "引擎": "skill-install", "来源": src,
+            "zip哈希": hashlib.sha256(raw).hexdigest()[:16],
+            "文件数": len(names), "SKILL.md数": len(skill_md),
+            "装到": os.path.relpath(target, ROOT),
+            "磁盘校验": os.path.isdir(target),
+            "frontmatter": info,
+            "已装的": sorted(os.listdir(SKILL_DIR))}
+
+
+def engine_api(spec):
+    """接 API：真调一个外部接口。spec 可以是 url，或 JSON。"""
+    spec = (spec or "").strip()
+    if not spec:
+        return {"ok": False, "未实现": "需要 url 或 JSON spec"}
+    url, method, body = spec, "GET", None
+    if spec.startswith("{"):
+        try:
+            j = json.loads(spec)
+            url = j.get("url", ""); method = j.get("method", "GET").upper()
+            body = json.dumps(j["body"]) if "body" in j else None
+        except Exception as e:
+            return {"ok": False, "错误": "spec 解析失败: " + repr(e)[:100]}
+    if not url.startswith(("http://", "https://")):
+        return {"ok": False, "未实现": "需要 http/https url"}
+    r = _http(url, method=method, body=body)
+    if not r["ok"]:
+        return {"ok": False, **{k: v for k, v in r.items() if k != "raw"}}
+    txt = r["raw"].decode("utf-8", "ignore")[:1200]
+    return {"ok": True, "引擎": "api-call", "url": url, "method": method,
+            "rc": r["rc"], "字节": r["bytes"], "秒": r["sec"],
+            "响应": txt, "哈希": hashlib.sha256(r["raw"]).hexdigest()[:16]}
+
+
+def engine_ingest(payload):
+    """客户端推送接收端：文本 / 图片 / 文件 / 事件，统一落盘带哈希。
+
+    这是"客户端发的时候得有地方接"的那一格。"""
+    p = payload or {}
+    kind = (p.get("kind") or "text").lower()
+    ts = datetime.now().strftime("%Y%m%d-%H%M%S-%f")
+    if kind in ("image", "file"):
+        b64 = p.get("b64", "")
+        if not b64:
+            return {"ok": False, "未实现": "image/file 需要 b64"}
+        raw = base64.b64decode(b64.split(",")[-1])
+        ext = "." + ((p.get("ext") or "bin").lstrip("."))
+        fn = os.path.join(INGEST_DIR, "%s-%s%s" % (ts, kind, ext))
+        open(fn, "wb").write(raw)
+        rec = {"kind": kind, "file": os.path.relpath(fn, ROOT),
+               "bytes": len(raw), "sha256": hashlib.sha256(raw).hexdigest()}
+        if kind == "image":
+            rec.update(engine_image(b64))
+    else:
+        text = p.get("text", "")
+        if not text:
+            return {"ok": False, "未实现": "text 需要 text 字段"}
+        fn = os.path.join(INGEST_DIR, "%s-%s.json" % (ts, kind))
+        rec = {"kind": kind, "ts": ts, "text": text,
+               "sha256": hashlib.sha256(text.encode()).hexdigest()}
+        json.dump(rec, open(fn, "w", encoding="utf-8"),
+                  ensure_ascii=False, indent=1)
+        rec["file"] = os.path.relpath(fn, ROOT)
+    rec["已收"] = len(os.listdir(INGEST_DIR))
+    return {"ok": True, "引擎": "ingest", **rec}
+
+
+ENGINES = {"verify": engine_verify, "scan": engine_scan,
+           "console": engine_console, "prove": engine_prove,
+           "ask": engine_ask, "image": engine_image, "voice": engine_voice,
+           "fetch": engine_fetch, "skill": engine_skill,
+           "api": engine_api, "ingest": engine_ingest}
+ENGINES_REF = ENGINES
+
+# ── 契约层：前端只认这一层 ────────────────────────────────────────
+class API(SimpleHTTPRequestHandler):
+    def __init__(self, *a, **k):
+        super().__init__(*a, directory=WEB, **k)
+
+    def _json(self, obj, code=200):
+        b = json.dumps(obj, ensure_ascii=False).encode()
+        self.send_response(code)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Content-Length", str(len(b)))
+        self.send_header("Cache-Control", "no-store")
+        self.end_headers()
+        self.wfile.write(b)
+
+    def do_GET(self):
+        u = urlparse(self.path)
+        if u.path == "/api/health":
+            return self._json({"ok": True, "ts": datetime.now().isoformat(),
+                               "engines": sorted(ENGINES)})
+        if u.path.startswith("/api/run/"):
+            name = u.path.split("/api/run/")[1].split("?")[0]
+            if name not in ENGINES:
+                return self._json({"ok": False, "未实现": "无此引擎: " + name}, 404)
+            q = parse_qs(u.query or "")
+            arg = q.get("text", [""])[0]
+            return self._json(ENGINES[name](arg) if name in ("scan", "prove")
+                              else ENGINES[name]())
+        if u.path == "/api/manifest":
+            return self._json({
+                "契约": "/api/run/{verify|scan|console|prove}",
+                "规则": "引擎可换，契约不变；没有就说没有，不降级不伪造",
+                "哈希": hashlib.sha256(open(__file__, "rb").read()).hexdigest()[:16]})
+        return super().do_GET()
+
+    def do_POST(self):
+        u = urlparse(self.path)
+        if u.path.startswith("/api/run/"):
+            name = u.path.split("/api/run/")[1].split("?")[0]
+            if name not in ENGINES:
+                return self._json({"ok": False, "未实现": "无此引擎: " + name}, 404)
+            n = int(self.headers.get("Content-Length") or 0)
+            try:
+                body = json.loads(self.rfile.read(n) or b"{}")
+            except Exception:
+                body = {}
+            # 宽容输入：调用方常直接传字符串。以前这会崩（str 没有 .get），
+            # 现在是真通道就该接住，而不是断连。
+            if isinstance(body, str):
+                body = {"text": body}
+            elif isinstance(body, (int, float)):
+                body = {"text": str(body)}
+            elif isinstance(body, list):
+                body = {"text": " ".join(str(x) for x in body)}
+            elif not isinstance(body, dict):
+                body = {"text": str(body)}
+            arg = body.get("text", "")
+            # image 引擎收的是图片 base64，不是 text
+            try:
+                if name == "image":
+                    r = ENGINES["image"](body.get("b64", ""))
+                elif name == "ingest":
+                    r = ENGINES["ingest"](body)
+                elif name in ("fetch", "skill", "api"):
+                    spec = body.get("spec") or arg
+                    if not spec:
+                        r = {"ok": False, "缺参数": "spec",
+                             "说明": "这条通道需要一个目标（URL / 坐标）"}
+                    else:
+                        r = ENGINES[name](spec)
+                elif name in ("scan", "prove", "ask", "voice"):
+                    if name == "scan" and not arg:
+                        r = {"ok": False, "缺参数": "text",
+                             "说明": "把要扫的代码放进 text"}
+                    else:
+                        r = ENGINES[name](arg)
+                else:
+                    r = ENGINES[name]()
+            except Exception as e:
+                # 引擎内部炸了也要回话，不许 RemoteDisconnected。
+                # 断连 = 对方不知道发生了什么 = 通道没通。
+                r = {"ok": False, "引擎异常": name, "错误": repr(e)[:200],
+                     "说明": "这是真失败，不是降级"}
+            if isinstance(r, dict):
+                r.setdefault("通道", name)
+            return self._json(r)
+        return self._json({"ok": False, "未实现": "POST 只接 /api/run/*"}, 404)
+
+    def log_message(self, *a):
+        pass
+
+
+class TS(socketserver.ThreadingTCPServer):
+    allow_reuse_address = True
+    daemon_threads = True
+
+
+if __name__ == "__main__":
+    print("=" * 66)
+    print(" 洛神 O1 · 一站式服务")
+    print("=" * 66)
+    print("  地址    : http://127.0.0.1:%d" % PORT)
+    print("  契约    : /api/run/{verify|scan|console|prove}")
+    print("  自检    : /api/health")
+    print("  清单    : /api/manifest")
+    print("  静态    : docs/  (index / console / helper / mine)")
+    print("=" * 66)
+    print("  引擎层可换，契约层不变 —— 这是反向工程提炼出的第一条。")
+    print("  Ctrl+C 停止")
+    print("=" * 66)
+    TS(("0.0.0.0", PORT), API).serve_forever()

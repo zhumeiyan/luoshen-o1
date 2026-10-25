@@ -1,1 +1,128 @@
-IiIiZXhwMTM1IOKAlCB0aGlyZCBpbmRlcGVuZGVudCBjb3JwdXMgKGNvcnB1czQpLgoKZXhwMTM0IGZvdW5kIGEgc3ludGF4L21ldGhvZG9sb2d5IHNwbGl0LCBidXQgdGhhdCBzcGxpdCB3YXMgbWFkZSBBRlRFUgpzZWVpbmcgdGhlIGRhdGEuIFRoaXMgcnVuIG1lYXN1cmVzIGl0IG9uIDEyIGZpbGVzIGZyb20gNyByZXBvcyB0aGF0IGhhdmUKbmV2ZXIgYmVlbiB1c2VkIGluIGV4cDEyOS0xMzQsIHdpdGggdGhlIGh5cG90aGVzaXMgd3JpdHRlbiBkb3duIGZpcnN0CihQUkVSRUcubWQpLgoKRGVzaWduIG5vdGUgZGlzY292ZXJlZCB3aGlsZSBidWlsZGluZyB0aGlzOiB0aGUgc2hpcHBlZCBwaXBlbGluZSAoY2xpLnNjYW4pCkRST1BTIG1ldGhvZG9sb2d5IGZpbmRpbmdzIGJ5IGRlc2lnbiBzaW5jZSBleHAxMzQsIGFuZCBpdHMgYXVkaXQgbGluZQpyZXBvcnRzIHRoZW0gYXMgImRyb3BwZWQgKG5vIGxpbmUpIiAtLSB3aGljaCBpcyB0aGUgd3JvbmcgbGFiZWwsIHRoZXkgYXJlCmRyb3BwZWQgYmVjYXVzZSB0aGV5IGFyZSBub3Qgc2hpcHBlZCwgbm90IGJlY2F1c2UgdGhleSBsYWNrIGEgbGluZS4gU28KcnVubmluZyBvbmx5IGNsaS5zY2FuIGNhbm5vdCB0ZXN0IEgyOiB0aGUgZGVub21pbmF0b3IgaXMgZ29uZS4KClRoZXJlZm9yZSB0aGlzIHNjcmlwdCBjb2xsZWN0cyBCT1RIOgogICAgcmF3ICAgPSBldmVyeSBydWxlIGhpdCBiZWZvcmUgYW55IGdhdGUKICAgIGdhdGVkID0gd2hhdCBhIGN1c3RvbWVyIGFjdHVhbGx5IHNlZXMKVGhhdCBpcyB0aGUgb25seSB3YXkgdG8gY29uZmlybSAibWV0aG9kb2xvZ3kgaXMgbm90IHNoaXBwYWJsZSIgcmF0aGVyIHRoYW4KbWVyZWx5IGFzc3VtaW5nIGl0LgoiIiIKaW1wb3J0IGFzdCwganNvbiwgcGF0aGxpYiwgc3lzLCBvcwoKUk9PVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMSIKc3lzLnBhdGguaW5zZXJ0KDAsIFJPT1QgKyAiL292ZXJzZWFzIikKb3MuY2hkaXIoUk9PVCkKCmZyb20gZXZhbGd1YXJkIGltcG9ydCBjbGksIGNsYXNzZXMKZnJvbSBldmFsZ3VhcmQgaW1wb3J0IHJ1bGVzIGFzIF9ydWxlcwpmcm9tIGV2YWxndWFyZCBpbXBvcnQgcHJvX3J1bGVzIGFzIF9wcm8KCkNPUlBVUyA9IHBhdGhsaWIuUGF0aChST09UICsgIi9leHBlcmltZW50cy9leHAxMjlfY29ycHVzL2V4cDEzNS9jb3JwdXM0IikKCgpkZWYgcmF3X3NjYW4ocGF0aCk6CiAgICAiIiJFdmVyeSBydWxlIGhpdCwgYmVmb3JlIGFueSBnYXRlLiIiIgogICAgc3JjID0gcGF0aGxpYi5QYXRoKHBhdGgpLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKQogICAgdHJ5OgogICAgICAgIHRyZWUgPSBhc3QucGFyc2Uoc3JjKQogICAgZXhjZXB0IFN5bnRheEVycm9yIGFzIGU6CiAgICAgICAgcmV0dXJuIFt7ImVnX2lkIjogIlBBUlNFIiwgInNldmVyaXR5IjogImJsb2NrZXIiLCAibGluZSI6IGUubGluZW5vLAogICAgICAgICAgICAgICAgICJoaXQiOiBzdHIoZS5tc2cpLCAidGl0bGUiOiAiU3ludGF4RXJyb3IifV0KICAgIG91dCA9IFtdCiAgICBfcnVsZXMuX1NSQ1swXSA9IHNyYwogICAgZm9yIGZuIGluIF9ydWxlcy5SVUxFUzoKICAgICAgICB0cnk6CiAgICAgICAgICAgIGhpdHMgPSBmbih0cmVlLCBzcmMsIHBhdGgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBvdXQuYXBwZW5kKHsiZWdfaWQiOiBmbi5tZXRhWyJlZ19pZCJdLCAic2V2ZXJpdHkiOiAiQ1JBU0giLAogICAgICAgICAgICAgICAgICAgICAgICAibGluZSI6IDAsICJoaXQiOiAicnVsZSBlcnJvcjogJXMiICUgZSwKICAgICAgICAgICAgICAgICAgICAgICAgInRpdGxlIjogZm4ubWV0YS5nZXQoInRpdGxlIiwgIiIpfSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmb3IgaCBpbiBoaXRzOgogICAgICAgICAgICBvdXQuYXBwZW5kKHsiZWdfaWQiOiBmbi5tZXRhWyJlZ19pZCJdLAogICAgICAgICAgICAgICAgICAgICAgICAic2V2ZXJpdHkiOiBmbi5tZXRhLmdldCgic2V2ZXJpdHkiLCAiIiksCiAgICAgICAgICAgICAgICAgICAgICAgICJsaW5lIjogaC5nZXQoImxpbmUiKSwgImhpdCI6IGguZ2V0KCJoaXQiLCAiIiksCiAgICAgICAgICAgICAgICAgICAgICAgICJ0aXRsZSI6IGZuLm1ldGEuZ2V0KCJ0aXRsZSIsICIiKX0pCiAgICBmb3IgZm4gaW4gX3Byby5QUk9fUlVMRVM6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBoaXRzID0gZm4odHJlZSwgc3JjLCBwYXRoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgb3V0LmFwcGVuZCh7ImVnX2lkIjogZm4ubWV0YVsiZWdfaWQiXSwgInNldmVyaXR5IjogIkNSQVNIIiwKICAgICAgICAgICAgICAgICAgICAgICAgImxpbmUiOiAwLCAiaGl0IjogInJ1bGUgZXJyb3I6ICVzIiAlIGUsCiAgICAgICAgICAgICAgICAgICAgICAgICJ0aXRsZSI6IGZuLm1ldGEuZ2V0KCJ0aXRsZSIsICIiKX0pCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZm9yIGggaW4gaGl0czoKICAgICAgICAgICAgb3V0LmFwcGVuZCh7ImVnX2lkIjogZm4ubWV0YVsiZWdfaWQiXSwKICAgICAgICAgICAgICAgICAgICAgICAgInNldmVyaXR5IjogZm4ubWV0YS5nZXQoInNldmVyaXR5IiwgIiIpLAogICAgICAgICAgICAgICAgICAgICAgICAibGluZSI6IGguZ2V0KCJsaW5lIiksICJoaXQiOiBoLmdldCgiaGl0IiwgIiIpLAogICAgICAgICAgICAgICAgICAgICAgICAidGl0bGUiOiBmbi5tZXRhLmdldCgidGl0bGUiLCAiIil9KQogICAgcmV0dXJuIG91dAoKCmRlZiBtYWluKCk6CiAgICBmaWxlcyA9IHNvcnRlZChDT1JQVVMuZ2xvYigiKi5weSIpKQogICAgcmF3LCBnYXRlZCA9IFtdLCBbXQogICAgZm9yIGYgaW4gZmlsZXM6CiAgICAgICAgZm9yIHIgaW4gcmF3X3NjYW4oc3RyKGYpKToKICAgICAgICAgICAgcmF3LmFwcGVuZCh7ImZpbGUiOiBmLm5hbWUsICoqcn0pCiAgICAgICAgZm9yIHIgaW4gY2xpLnNjYW4oc3RyKGYpKToKICAgICAgICAgICAgZm9yIGggaW4gci5nZXQoImhpdHMiLCBbXSk6CiAgICAgICAgICAgICAgICBnYXRlZC5hcHBlbmQoeyJmaWxlIjogZi5uYW1lLCAiZWciOiByWyJlZ19pZCJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic2V2Ijogci5nZXQoInNldmVyaXR5IiksICJsaW5lIjogaC5nZXQoImxpbmUiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImhpdCI6IGguZ2V0KCJoaXQiLCAiIiksICJ0aXRsZSI6IHIuZ2V0KCJ0aXRsZSIsICIiKX0pCgogICAgIyBjbGFzc2lmeQogICAgZm9yIHIgaW4gcmF3ICsgZ2F0ZWQ6CiAgICAgICAgZWcgPSByLmdldCgiZWdfaWQiKSBvciByLmdldCgiZWciKQogICAgICAgIHJbImNsYXNzIl0gPSAoImV4cGVyaW1lbnRhbCIgaWYgZWcgaW4gY2xhc3Nlcy5FWFBFUklNRU5UQUxfMV9PRl8xCiAgICAgICAgICAgICAgICAgICAgICBlbHNlIGNsYXNzZXMuY2xzX29mKGVnKSBpZiBlZyBpbiBjbGFzc2VzLlNZTlRBWAogICAgICAgICAgICAgICAgICAgICAgb3IgZWcuc3RhcnRzd2l0aCgiRUciKSBlbHNlICJtZXRhIikKICAgICMgZml4OiBjbHNfb2YgcmV0dXJucyBzeW50YXggb25seSBmb3IgU1lOVEFYIG1lbWJlcnMKICAgIGZvciByIGluIHJhdyArIGdhdGVkOgogICAgICAgIGVnID0gci5nZXQoImVnX2lkIikgb3Igci5nZXQoImVnIikKICAgICAgICBpZiBlZyBpbiBjbGFzc2VzLkVYUEVSSU1FTlRBTF8xX09GXzE6CiAgICAgICAgICAgIHJbImNsYXNzIl0gPSAiZXhwZXJpbWVudGFsIgogICAgICAgIGVsaWYgZWcgaW4gY2xhc3Nlcy5TWU5UQVg6CiAgICAgICAgICAgIHJbImNsYXNzIl0gPSAic3ludGF4IgogICAgICAgIGVsaWYgZWcgaW4gKCJFRzAwMCIsICJQQVJTRSIpOgogICAgICAgICAgICByWyJjbGFzcyJdID0gIm1ldGEiCiAgICAgICAgZWxzZToKICAgICAgICAgICAgclsiY2xhc3MiXSA9ICJtZXRob2RvbG9neSIKCiAgICBqc29uLmR1bXAocmF3LCBvcGVuKCJleHBlcmltZW50cy9leHAxMjlfY29ycHVzL2V4cDEzNS9yYXcxMzUuanNvbiIsICJ3IiksCiAgICAgICAgICAgICAgaW5kZW50PTEsIGVuc3VyZV9hc2NpaT1GYWxzZSkKICAgIGpzb24uZHVtcChnYXRlZCwgb3BlbigiZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9leHAxMzUvZ2F0ZWQxMzUuanNvbiIsICJ3IiksCiAgICAgICAgICAgICAgaW5kZW50PTEsIGVuc3VyZV9hc2NpaT1GYWxzZSkKCiAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCiAgICBwcmludCgiZmlsZXM6IiwgbGVuKGZpbGVzKSkKICAgIHByaW50KCJcbj09IFJBVyBieSBjbGFzcyA9PSIpCiAgICBmb3IgaywgdiBpbiBDb3VudGVyKHJbImNsYXNzIl0gZm9yIHIgaW4gcmF3KS5tb3N0X2NvbW1vbigpOgogICAgICAgIHByaW50KCIgICUtMTRzICVkIiAlIChrLCB2KSkKICAgIHByaW50KCJcbj09IFJBVyBieSBydWxlID09IikKICAgIGZvciBrLCB2IGluIENvdW50ZXIoKHIuZ2V0KCJlZ19pZCIpIG9yIHIuZ2V0KCJlZyIpKSBmb3IgciBpbiByYXcpLm1vc3RfY29tbW9uKCk6CiAgICAgICAgcHJpbnQoIiAgJS04cyAlZCIgJSAoaywgdikpCiAgICBwcmludCgiXG49PSBjcmFzaGVzID09Iiwgc3VtKDEgZm9yIHIgaW4gcmF3IGlmIHJbInNldmVyaXR5Il0gPT0gIkNSQVNIIikpCiAgICBwcmludCgiPT0gcGFyc2UgZXJyb3JzID09Iiwgc3VtKDEgZm9yIHIgaW4gcmF3IGlmIHIuZ2V0KCJlZ19pZCIpID09ICJQQVJTRSIpKQogICAgcHJpbnQoIlxuPT0gR0FURUQgYnkgY2xhc3MgPT0iKQogICAgZm9yIGssIHYgaW4gQ291bnRlcihyWyJjbGFzcyJdIGZvciByIGluIGdhdGVkKS5tb3N0X2NvbW1vbigpOgogICAgICAgIHByaW50KCIgICUtMTRzICVkIiAlIChrLCB2KSkKICAgIHByaW50KCJcbj09IHN5bnRheCBmaW5kaW5ncyAodGhlIHNoaXBwZWQgc2V0KSA9PSIpCiAgICBmb3IgciBpbiByYXc6CiAgICAgICAgaWYgclsiY2xhc3MiXSBpbiAoInN5bnRheCIsICJleHBlcmltZW50YWwiKToKICAgICAgICAgICAgcHJpbnQoIiAgJS00NnMgJS03cyBMJS01cyAlcyIgJSAoclsiZmlsZSJdWzo0Nl0sIHIuZ2V0KCJlZ19pZCIpIG9yIHIuZ2V0KCJlZyIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByLmdldCgibGluZSIpLCBzdHIoci5nZXQoImhpdCIpKVs6NjBdKSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""exp135 — third independent corpus (corpus4).
+
+exp134 found a syntax/methodology split, but that split was made AFTER
+seeing the data. This run measures it on 12 files from 7 repos that have
+never been used in exp129-134, with the hypothesis written down first
+(PREREG.md).
+
+Design note discovered while building this: the shipped pipeline (cli.scan)
+DROPS methodology findings by design since exp134, and its audit line
+reports them as "dropped (no line)" -- which is the wrong label, they are
+dropped because they are not shipped, not because they lack a line. So
+running only cli.scan cannot test H2: the denominator is gone.
+
+Therefore this script collects BOTH:
+    raw   = every rule hit before any gate
+    gated = what a customer actually sees
+That is the only way to confirm "methodology is not shippable" rather than
+merely assuming it.
+"""
+import ast, json, pathlib, sys, os
+
+ROOT = "/data/workspace/luoshen-o1"
+sys.path.insert(0, ROOT + "/overseas")
+os.chdir(ROOT)
+
+from evalguard import cli, classes
+from evalguard import rules as _rules
+from evalguard import pro_rules as _pro
+
+CORPUS = pathlib.Path(ROOT + "/experiments/exp129_corpus/exp135/corpus4")
+
+
+def raw_scan(path):
+    """Every rule hit, before any gate."""
+    src = pathlib.Path(path).read_text(encoding="utf-8", errors="replace")
+    try:
+        tree = ast.parse(src)
+    except SyntaxError as e:
+        return [{"eg_id": "PARSE", "severity": "blocker", "line": e.lineno,
+                 "hit": str(e.msg), "title": "SyntaxError"}]
+    out = []
+    _rules._SRC[0] = src
+    for fn in _rules.RULES:
+        try:
+            hits = fn(tree, src, path)
+        except Exception as e:
+            out.append({"eg_id": fn.meta["eg_id"], "severity": "CRASH",
+                        "line": 0, "hit": "rule error: %s" % e,
+                        "title": fn.meta.get("title", "")})
+            continue
+        for h in hits:
+            out.append({"eg_id": fn.meta["eg_id"],
+                        "severity": fn.meta.get("severity", ""),
+                        "line": h.get("line"), "hit": h.get("hit", ""),
+                        "title": fn.meta.get("title", "")})
+    for fn in _pro.PRO_RULES:
+        try:
+            hits = fn(tree, src, path)
+        except Exception as e:
+            out.append({"eg_id": fn.meta["eg_id"], "severity": "CRASH",
+                        "line": 0, "hit": "rule error: %s" % e,
+                        "title": fn.meta.get("title", "")})
+            continue
+        for h in hits:
+            out.append({"eg_id": fn.meta["eg_id"],
+                        "severity": fn.meta.get("severity", ""),
+                        "line": h.get("line"), "hit": h.get("hit", ""),
+                        "title": fn.meta.get("title", "")})
+    return out
+
+
+def main():
+    files = sorted(CORPUS.glob("*.py"))
+    raw, gated = [], []
+    for f in files:
+        for r in raw_scan(str(f)):
+            raw.append({"file": f.name, **r})
+        for r in cli.scan(str(f)):
+            for h in r.get("hits", []):
+                gated.append({"file": f.name, "eg": r["eg_id"],
+                              "sev": r.get("severity"), "line": h.get("line"),
+                              "hit": h.get("hit", ""), "title": r.get("title", "")})
+
+    # classify
+    for r in raw + gated:
+        eg = r.get("eg_id") or r.get("eg")
+        r["class"] = ("experimental" if eg in classes.EXPERIMENTAL_1_OF_1
+                      else classes.cls_of(eg) if eg in classes.SYNTAX
+                      or eg.startswith("EG") else "meta")
+    # fix: cls_of returns syntax only for SYNTAX members
+    for r in raw + gated:
+        eg = r.get("eg_id") or r.get("eg")
+        if eg in classes.EXPERIMENTAL_1_OF_1:
+            r["class"] = "experimental"
+        elif eg in classes.SYNTAX:
+            r["class"] = "syntax"
+        elif eg in ("EG000", "PARSE"):
+            r["class"] = "meta"
+        else:
+            r["class"] = "methodology"
+
+    json.dump(raw, open("experiments/exp129_corpus/exp135/raw135.json", "w"),
+              indent=1, ensure_ascii=False)
+    json.dump(gated, open("experiments/exp129_corpus/exp135/gated135.json", "w"),
+              indent=1, ensure_ascii=False)
+
+    from collections import Counter
+    print("files:", len(files))
+    print("\n== RAW by class ==")
+    for k, v in Counter(r["class"] for r in raw).most_common():
+        print("  %-14s %d" % (k, v))
+    print("\n== RAW by rule ==")
+    for k, v in Counter((r.get("eg_id") or r.get("eg")) for r in raw).most_common():
+        print("  %-8s %d" % (k, v))
+    print("\n== crashes ==", sum(1 for r in raw if r["severity"] == "CRASH"))
+    print("== parse errors ==", sum(1 for r in raw if r.get("eg_id") == "PARSE"))
+    print("\n== GATED by class ==")
+    for k, v in Counter(r["class"] for r in gated).most_common():
+        print("  %-14s %d" % (k, v))
+    print("\n== syntax findings (the shipped set) ==")
+    for r in raw:
+        if r["class"] in ("syntax", "experimental"):
+            print("  %-46s %-7s L%-5s %s" % (r["file"][:46], r.get("eg_id") or r.get("eg"),
+                                             r.get("line"), str(r.get("hit"))[:60]))
+
+
+if __name__ == "__main__":
+    main()

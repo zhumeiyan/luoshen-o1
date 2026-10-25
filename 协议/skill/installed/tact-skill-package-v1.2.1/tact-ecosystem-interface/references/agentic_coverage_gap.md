@@ -1,1 +1,44 @@
-IyBBZ2VudGljIOimhuebluafpee8uua4heWNle+8iE9XQVNQIEFnZW50aWMgQXBwbGljYXRpb25zIDIwMjYg4oaUIFRBQ1Qg5Z2Q5qCH5bqT77yJDQoNCj4g57uR5a6a77yaVEFDVCB2Mi43LjggwrcgT1dBU1AgVG9wIDEwIGZvciBBZ2VudGljIEFwcGxpY2F0aW9ucyAyMDI2DQo+IOebrueahO+8muiusOW9lSJPV0FTUCBBZ2VudGljIDIwMjYg5Y2B6aG56aOO6ZmpIuWcqCBUQUNUIOWdkOagh+W6k+S4reeahOaYoOWwhOimhuebluaDheWGte+8jOWMuuWIhuOAkOW3suimhuebliAvIOmDqOWIhuimhuebliAvIOe8uuWPo+OAke+8m+e8uuWPo+WmguWunuWjsOaYju+8jCoq5LiN6YCg56CB44CB5LiN6LWw5o235b6EKirvvIzmjInlnZDmoIflupPmvJTov5vop4TliJnvvIjkuKTmnaHkupLkuI3nm7jlubLnnJ/lrp7moYjkvosg4oaSIHJhdGlmee+8ieWkhOeQhuOAgg0KPiDlr7nlupTot6jlnLDlm77vvJpgcmVmZXJlbmNlcy9jcm9zc3dhbGtfZm91cl9mcmFtZXdvcmtzLmpzb25gIOeahCBgZm9yd2FyZC5BR0VOVElDYO+8iOato+WQkSAxMCDpobnvvIkrIGByZXZlcnNlYO+8iOWdkOagh+KGkkFHRU5USUPvvInjgIINCg0KIyMg5LiA44CB6KaG55uW5a+554Wn5oC76KGoDQoNCnwgT1dBU1AgQWdlbnRpYyAyMDI2IHwg6aOO6Zmp5ZCN77yI6Iux77yJIHwgVEFDVCDmmKDlsITlnZDmoIcgfCDopobnm5bnirbmgIEgfCDor7TmmI4gfA0KfC0tLXwtLS18LS0tfC0tLXwtLS18DQp8IEFTSTAxIHwgQWdlbnQgR29hbCBIaWphY2sgfCBNNi0zICsgTTUtOCArIFA2LTQgfCDinIUg5bey6KaG55uWIHwg55uu5qCH5Yqr5oyBID0g5o+Q56S65rOo5YWl5qC45b+D6KGo546w77yMTTYtMyDliKTmja7lkIzmnoQgfA0KfCBBU0kwMiB8IFRvb2wgTWlzdXNlIGFuZCBFeHBsb2l0YXRpb24gfCBNNi02IC8gTTctMyArIFA1LTIgfCDinIUg5bey6KaG55uWIHwg5bel5YW3L+iDveWKm+i2iueVjOiwg+eUqO+8jOaYoOWwhOiHquS4u+i2iuadg+S4jui2iuadg+aJv+aOpSB8DQp8IEFTSTAzIHwgSWRlbnRpdHkgJiBQcml2aWxlZ2UgQWJ1c2UgfCBNNy0zICsgUDUtMiAvIE02LTYgfCDinIUg5bey6KaG55uWIHwg6Lqr5Lu9L+adg+mZkOa7peeUqO+8jE03LTMg6LaK5p2D5om/5o6l5Yik5o2u5ZC75ZCIIHwNCnwgQVNJMDQgfCBBZ2VudGljIFN1cHBseSBDaGFpbiBWdWxuZXJhYmlsaXRpZXMgfCBNNi0xICsgUDgtOCB8IOKchSDlt7Lopobnm5YgfCDkvpvlupTpk77mpI3lhaXvvIxNNi0xIOWQjOaehCB8DQp8IEFTSTA1IHwgVW5leHBlY3RlZCBDb2RlIEV4ZWN1dGlvbiB8IE04LTggKyBNOC01ICsgUDgtNCB8IPCfn6Eg6YOo5YiG6KaG55uW77yIaHlwb3RoZXNpc++8iSB8IOi+k+WHuuacquagoemqjCArIOaymeeusemAg+mAuOWPjOWdkOagh+imhuebluS4u+S9k++8m0FnZW50aWMg54m55pyJ5omn6KGM6Z2i5qGI5L6L5b6F6KGlIHwNCnwgQVNJMDYgfCBNZW1vcnkgJiBDb250ZXh0IFBvaXNvbmluZyB8IE02LTQgKyBQMy01IHwg4pyFIOW3suimhuebliB8IOiusOW/hi/kuIrkuIvmlofmipXmr5LvvIxNNi00IOWQjOaehCB8DQp8IEFTSTA3IHwgSW5zZWN1cmUgSW50ZXItQWdlbnQgQ29tbXVuaWNhdGlvbiB8IE02LTIgKyBQOC05IHwg8J+foSDpg6jliIbopobnm5bvvIhoeXBvdGhlc2lz77yJIHwgTTYtMiDkuI3lronlhajpgJrkv6HlnZDmoIflrZjlnKjvvIzkvYYqKuWIpOaNrue8uiBBZ2VudGljIOecn+WunuahiOS+i+S9kOivgSoqIHwNCnwgQVNJMDggfCBDYXNjYWRpbmcgRmFpbHVyZXMgfCBNOC02ICsgUDQtMTAgfCDinIUg5bey6KaG55uWIHwg57qn6IGU5aSx6LSlID0g6ZSZ6K+v57qn6IGU5peg5oum5oiq77yMTTgtNiDlkIzmnoQgfA0KfCBBU0kwOSB8IEh1bWFuLUFnZW50IFRydXN0IEV4cGxvaXRhdGlvbiB8IE02LTUgKyBQOC01IHwg4pyFIOW3suimhuebliB8IOS/oeS7u+WIqeeUqO+8jE02LTUg5ZCM5p6EIHwNCnwgQVNJMTAgfCBSb2d1ZSBBZ2VudHMgfCBNOCDml48gLyBNNi0277yITTkg5b6FIHJhdGlmee+8iSB8IPCflLQgKirnvLrlj6MqKiB8IEFnZW50IOihjOS4uui2heWHuumihOacn+e6puadny/oh6rlj5HotornlYzvvJrmnIDotLTov5EgTTkg6Ieq5Y+R5Y2P5L2c77yM5L2GICoqTTkg5q+N5Z2Q5qCHIG9wdHMg5Li656m644CB5b6F55yf5a6e5qGI5L6LIHJhdGlmeSoq77yM5pqC5LiN6JC95a2Q56CBIHwNCg0KIyMg5LqM44CB55yf57y65Y+j5LiO5b6F5qC46aG577yI5LiN6YCg56CB5aOw5piO77yJDQoNCiMjIyAxLiBBU0kxMCBSb2d1ZSBBZ2VudHMg4oaSIE05IOiHquWPkeWNj+S9nO+8iPCflLQg57y65Y+j77yJDQotIOeOsOixoe+8muWNleS4qiBBZ2VudCDmiJblpJogQWdlbnQg6KGM5Li6Kiroh6rlj5EqKui2heWHuumihOacn+e6puadny/orr/pl67ovrnnlYzvvIzml6DlpJbpg6jmlLvlh7vogIXpqbHliqjjgIINCi0g546w54q277yaVEFDVCDnmoQgKipNOe+8iOiHquWPkeWNj+S9nO+8ieavjeWdkOagh+W3suWHhuWFpeS9hiBvcHRzIOS4uuepuioq77yM5a2Q56CB5b6FIHJhdGlmeeOAguaMiee6quW+i++8mioq5ZG95LitIE05IOaXtuS4jeiQveWtkOegge+8jOS7hSBMIOi9tOWumuS9jSoq77yI6L6T5Ye65Zu65a6a5paH5qGI77yJ44CCDQotIOa8lOi/m++8mumhu+WHuueOsCoq5Lik5p2h5LqS5LiN55u45bmy55qE55yf5a6eIEFnZW50aWMg5LqL5pWF5qGI5L6LKirlkIzlsZ4i6Ieq5Y+R6LaK55WMIuacuuWItu+8jOaJjeaMiea8lOi/m+inhOWImei9rOato+WtkOeggeOAgg0KLSDnpL7ljLrmipPmiYvvvJrlvIDmupDlkI7lsIbmraTliJflhaUqKuahiOS+i+W+gembhioq4oCU4oCU5Lu75L2V5Lq65o+Q5Lqk56ym5ZCIIuiHquWPkei2iueVjCLnmoTnnJ/lrp7moYjkvovvvIjohLHmlY/vvInvvIzntK/orqEgMiDmnaHljbPop6blj5EgcmF0aWZ5IOivhOWuoeOAgg0KDQojIyMgMi4gQVNJMDcg4oaSIE02LTIg5LiN5a6J5YWo6YCa5L+h77yI8J+foSDliKTmja7lvoXooaXvvIkNCi0gTTYtMiDlnZDmoIflrZjlnKjvvIzliKTmja7kuI4i5LiN5a6J5YWo6YCa5L+hIuWQu+WQiO+8jOS9hueOsOacieWIpOaNrueahOahiOS+i+aUr+aSkeWkmuS4uuS8oOe7n+S/oemBk++8jCoq57y6IEFnZW50aWMg5aSa5pm66IO95L2T6YCa5L+h5Zy65pmv55qE55yf5a6e5qGI5L6LKirjgIINCi0g5aSE55CG77ya5pig5bCE5qCHIGBoeXBvdGhlc2lzYO+8jOW8leeUqOaXtuagh+azqCLlvoXpqozor4Ei77yb5LiN5Zug5pig5bCE5a2Y5Zyo6ICM6Jma5oql5Li65bey5qC46aqM44CCDQoNCiMjIyAzLiDpgJrnlKjmj5DphpINCi0gKirmmKDlsITkuI3mmK/nu5PorroqKu+8mkFTSeKGkuWdkOagh+aYryLluKbliKTmja7nmoTnv7vor5HlgYforr4i77yM5Z2Q5qCH5ZG95Lit5LiN562J5LqO6K+lIEFnZW50IOW6lOeUqOW3suiiq+aUu+egtO+8jOmcgOWvueeFp+ecn+WunuihjOS4uuWIpOWumuOAgg0KLSAqKuS4jeaWsOWinuWdkOaghyoq77ya5pys5riF5Y2V5Y+q5aOw5piO6KaG55uW57y65Y+j77yM5LiN5Zyo5q2k5paw5aKe5Lu75L2VIEwvTS9QIOWtkOWdkOagh++8m+WdkOagh+WinuWIoOi1sCB0YWN0LXRocmVlLWF4aXMtY2hlY2sg5ryU6L+b6KeE5YiZ44CCDQoNCiMjIOS4ieOAgeekvuWMuuWNj+S9nOmqjOivgeWFpeWPo++8iOW8gOa6kOWQjuW8gOaUvu+8iQ0KDQp8IOS7u+WKoSB8IOiwgeWPr+WBmiB8IOaKk+aJiyB8DQp8LS0tfC0tLXwtLS18DQp8IE05IHJhdGlmeSDmoYjkvovlvoHpm4YgfCDku7vkvZXmnIkgQWdlbnRpYyDlupTnlKjkuovmlYUv5byC5bi46K6w5b2V55qE5Lq6IHwg5o+Q5Lqk6ISx5pWP5b+r54WnICsg546w6LGh77yM57Sv6K6hIDIg5p2h6Kem5Y+R6K+E5a6hIHwNCnwgQVNJMDcg5Yik5o2u6KGl5by6IHwg5pyJIEFnZW50IOmXtOmAmuS/oeWuieWFqOS6i+aVheiusOW9leiAhSB8IOaPkOS6pOecn+WunuahiOS+i+S9kOivgSBNNi0yIOWIpOaNruWcqCBBZ2VudGljIOWfn+aIkOeriyB8DQp8IOWFqOmHjyBBZ2VudGljIOWbnua1iyB8IOekvuWMuuagh+azqOiAhSB8IOi3kSBga2FwcGFgIOagh+azqOiEmuacrO+8iOingeW8gOa6kOWNj+S9nOmqjOivgeacuuWItu+8ieaguOmqjOaYoOWwhCB8DQo=
+# Agentic 覆盖查缺清单（OWASP Agentic Applications 2026 ↔ TACT 坐标库）
+
+> 绑定：TACT v2.7.8 · OWASP Top 10 for Agentic Applications 2026
+> 目的：记录"OWASP Agentic 2026 十项风险"在 TACT 坐标库中的映射覆盖情况，区分【已覆盖 / 部分覆盖 / 缺口】；缺口如实声明，**不造码、不走捷径**，按坐标库演进规则（两条互不相干真实案例 → ratify）处理。
+> 对应跨地图：`references/crosswalk_four_frameworks.json` 的 `forward.AGENTIC`（正向 10 项）+ `reverse`（坐标→AGENTIC）。
+
+## 一、覆盖对照总表
+
+| OWASP Agentic 2026 | 风险名（英） | TACT 映射坐标 | 覆盖状态 | 说明 |
+|---|---|---|---|---|
+| ASI01 | Agent Goal Hijack | M6-3 + M5-8 + P6-4 | ✅ 已覆盖 | 目标劫持 = 提示注入核心表现，M6-3 判据同构 |
+| ASI02 | Tool Misuse and Exploitation | M6-6 / M7-3 + P5-2 | ✅ 已覆盖 | 工具/能力越界调用，映射自主越权与越权承接 |
+| ASI03 | Identity & Privilege Abuse | M7-3 + P5-2 / M6-6 | ✅ 已覆盖 | 身份/权限滥用，M7-3 越权承接判据吻合 |
+| ASI04 | Agentic Supply Chain Vulnerabilities | M6-1 + P8-8 | ✅ 已覆盖 | 供应链植入，M6-1 同构 |
+| ASI05 | Unexpected Code Execution | M8-8 + M8-5 + P8-4 | 🟡 部分覆盖（hypothesis） | 输出未校验 + 沙箱逃逸双坐标覆盖主体；Agentic 特有执行面案例待补 |
+| ASI06 | Memory & Context Poisoning | M6-4 + P3-5 | ✅ 已覆盖 | 记忆/上下文投毒，M6-4 同构 |
+| ASI07 | Insecure Inter-Agent Communication | M6-2 + P8-9 | 🟡 部分覆盖（hypothesis） | M6-2 不安全通信坐标存在，但**判据缺 Agentic 真实案例佐证** |
+| ASI08 | Cascading Failures | M8-6 + P4-10 | ✅ 已覆盖 | 级联失败 = 错误级联无拦截，M8-6 同构 |
+| ASI09 | Human-Agent Trust Exploitation | M6-5 + P8-5 | ✅ 已覆盖 | 信任利用，M6-5 同构 |
+| ASI10 | Rogue Agents | M8 族 / M6-6（M9 待 ratify） | 🔴 **缺口** | Agent 行为超出预期约束/自发越界：最贴近 M9 自发协作，但 **M9 母坐标 opts 为空、待真实案例 ratify**，暂不落子码 |
+
+## 二、真缺口与待核项（不造码声明）
+
+### 1. ASI10 Rogue Agents → M9 自发协作（🔴 缺口）
+- 现象：单个 Agent 或多 Agent 行为**自发**超出预期约束/访问边界，无外部攻击者驱动。
+- 现状：TACT 的 **M9（自发协作）母坐标已准入但 opts 为空**，子码待 ratify。按纪律：**命中 M9 时不落子码，仅 L 轴定位**（输出固定文案）。
+- 演进：须出现**两条互不相干的真实 Agentic 事故案例**同属"自发越界"机制，才按演进规则转正子码。
+- 社区抓手：开源后将此列入**案例征集**——任何人提交符合"自发越界"的真实案例（脱敏），累计 2 条即触发 ratify 评审。
+
+### 2. ASI07 → M6-2 不安全通信（🟡 判据待补）
+- M6-2 坐标存在，判据与"不安全通信"吻合，但现有判据的案例支撑多为传统信道，**缺 Agentic 多智能体通信场景的真实案例**。
+- 处理：映射标 `hypothesis`，引用时标注"待验证"；不因映射存在而虚报为已核验。
+
+### 3. 通用提醒
+- **映射不是结论**：ASI→坐标是"带判据的翻译假设"，坐标命中不等于该 Agent 应用已被攻破，需对照真实行为判定。
+- **不新增坐标**：本清单只声明覆盖缺口，不在此新增任何 L/M/P 子坐标；坐标增删走 tact-three-axis-check 演进规则。
+
+## 三、社区协作验证入口（开源后开放）
+
+| 任务 | 谁可做 | 抓手 |
+|---|---|---|
+| M9 ratify 案例征集 | 任何有 Agentic 应用事故/异常记录的人 | 提交脱敏快照 + 现象，累计 2 条触发评审 |
+| ASI07 判据补强 | 有 Agent 间通信安全事故记录者 | 提交真实案例佐证 M6-2 判据在 Agentic 域成立 |
+| 全量 Agentic 回测 | 社区标注者 | 跑 `kappa` 标注脚本（见开源协作验证机制）核验映射 |

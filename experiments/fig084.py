@@ -1,1 +1,131 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQppbXBvcnQganNvbiwgb3MKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYiBpbXBvcnQgZm9udF9tYW5hZ2VyCgpmb3IgZiBpbiBbIldlblF1YW5ZaSBNaWNybyBIZWkiLCAiTm90byBTYW5zIENKSyBTQyIsICJTaW1IZWkiXToKICAgIHRyeToKICAgICAgICBmb250X21hbmFnZXIuZmluZGZvbnQoZiwgZmFsbGJhY2tfdG9fZGVmYXVsdD1GYWxzZSkKICAgICAgICBwbHQucmNQYXJhbXNbImZvbnQuc2Fucy1zZXJpZiJdID0gW2ZdCiAgICAgICAgYnJlYWsKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgY29udGludWUKcGx0LnJjUGFyYW1zWyJheGVzLnVuaWNvZGVfbWludXMiXSA9IEZhbHNlCgpST09UID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICIuLiIpCmQgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oUk9PVCwgInJlc3VsdF8wODQuanNvbiIpKSkKCmZpZywgYXggPSBwbHQuc3VicGxvdHMoMiwgMywgZmlnc2l6ZT0oMTYsIDkuNSkpCgojIC0tLS0gKDAsMCkgUGFydCBBOiBGIHZzIFNOUu+8jOWQhCBLIC0tLS0KQSA9IGRbInBhcnRBIl0Ka2V5cyA9IFsiSzIiLCAiSzQiLCAiSzgiLCAiSzE2IiwgIks2NCIsICJyYWRpbyJdCmNvbG9ycyA9IHBsdC5jbS52aXJpZGlzKG5wLmxpbnNwYWNlKDAuMDUsIDAuODUsIGxlbihrZXlzKSkpCmF4MCA9IGF4WzAsIDBdCmZvciBrLCBjIGluIHppcChrZXlzLCBjb2xvcnMpOgogICAgcyA9IFtyWyJzbnJfZGIiXSBmb3IgciBpbiBBW2tdXQogICAgRiA9IFtyWyJGIl0gZm9yIHIgaW4gQVtrXV0KICAgIGF4MC5wbG90KHMsIEYsICItbyIsIG1zPTMsIGx3PTEuOCBpZiBrID09ICJyYWRpbyIgZWxzZSAxLjIsCiAgICAgICAgICAgICBjb2xvcj1jLCBsYWJlbD0oIuaUtumfs+acuijov57nu60pIiBpZiBrID09ICJyYWRpbyIgZWxzZSBmIueUteaKpSBLPXtrWzE6XX0iKSkKYXgwLmF4aGxpbmUoMCwgY29sb3I9ImdyZXkiLCBsdz0wLjgsIGxzPSI6IikKYXgwLnNldF94bGFiZWwoIuS/oeWZquavlCBTTlIgKGRCKSIpOyBheDAuc2V0X3lsYWJlbCgi5L+d55yf5bqmIEYgPSAxIOKIkiBNU0UvdmFyIikKYXgwLnNldF90aXRsZSgi4pGgIOWIhui+qOeOhyB2cyDmipflmarvvJpLIOi2iuWkp+WcsOadv+i2iumrmOi2iuiEhiIsIGZvbnRzaXplPTExKQpheDAubGVnZW5kKGZvbnRzaXplPTcuNSwgbG9jPSJsb3dlciByaWdodCIpOyBheDAuZ3JpZChhbHBoYT0wLjMpCgojIC0tLS0gKDAsMSkgUGFydCBBJzog5pyA5LyYIEsg6Zi25qKvIC0tLS0KYXgxID0gYXhbMCwgMV0KYkEgPSBkWyJiZXN0QSJdCnMgPSBbclsic25yX2RiIl0gZm9yIHIgaW4gYkFdCmt2ID0gW10KZm9yIHIgaW4gYkE6CiAgICBiID0gclsiYmVzdCJdCiAgICBrdi5hcHBlbmQoMTAyNCBpZiBiID09ICJyYWRpbyIgZWxzZSBpbnQoYlsxOl0pKQpheDEuc3RlcChzLCBrdiwgd2hlcmU9Im1pZCIsIGx3PTIuMiwgY29sb3I9IiNjMDM5MmIiKQpheDEuc2V0X3lzY2FsZSgibG9nIiwgYmFzZT0yKQpheDEuc2V0X3l0aWNrcyhbMiwgNCwgOCwgMTYsIDY0LCAxMDI0XSkKYXgxLnNldF95dGlja2xhYmVscyhbIjIiLCAiNCIsICI4IiwgIjE2IiwgIjY0IiwgIui/nue7rSJdKQpheDEuaW52ZXJ0X3hheGlzKCkKYXgxLnNldF94bGFiZWwoIuS/oeWZquavlCBTTlIgKGRCKSIpOyBheDEuc2V0X3lsYWJlbCgi6K+l5L+h5Zmq5q+U5LiL55qE5pyA5LyY6YeP5YyW6Zi25pWwIEsqIikKYXgxLnNldF90aXRsZSgi4pGhIOacgOS8mCBLKiDpmo/lmarlo7DljZXosIPkuIvpmY3vvIjpmLbmoq/vvIzml6DkvovlpJbvvIkiLCBmb250c2l6ZT0xMSkKYXgxLmdyaWQoYWxwaGE9MC4zKQoKIyAtLS0tICgwLDIpIFBhcnQgQjog55S15oqlIHZzIOaUtumfs+acuu+8jOS6pOWPieS4juWPkeaVoyAtLS0tCkIgPSBkWyJwYXJ0QiJdWyJyMSJdCmF4MiA9IGF4WzAsIDJdCnMgPSBbclsic25yX2RiIl0gZm9yIHIgaW4gQlsidGVsZWdyYXBoIl1dCkZ0ID0gW3JbIkYiXSBmb3IgciBpbiBCWyJ0ZWxlZ3JhcGgiXV0KRnIgPSBbclsiRiJdIGZvciByIGluIEJbInJhZGlvIl1dCmF4Mi5wbG90KHMsIEZ0LCAiLW8iLCBtcz0zLjUsIGx3PTIsIGNvbG9yPSIjMjk4MGI5IiwgbGFiZWw9IueUteaKpe+8iOemu+aVoyBLPTjvvIkiKQpheDIucGxvdChzLCBGciwgIi1zIiwgbXM9My41LCBsdz0yLCBjb2xvcj0iI2U2N2UyMiIsIGxhYmVsPSLmlLbpn7PmnLrvvIjov57nu63vvIkiKQpheDIuYXhobGluZSgwLCBjb2xvcj0iZ3JleSIsIGx3PTAuOCwgbHM9IjoiKQppNiA9IHMuaW5kZXgoNi4wKQpheDIuYW5ub3RhdGUoZiLkuqTlj4nngrkg4omIIDZkQlxuKHtGdFtpNl06LjRmfSB2cyB7RnJbaTZdOi40Zn0pIiwKICAgICAgICAgICAgIHh5PSg2LjAsIEZ0W2k2XSksIHh5dGV4dD0oMTAsIDAuMzUpLCBmb250c2l6ZT04LjUsCiAgICAgICAgICAgICBhcnJvd3Byb3BzPWRpY3QoYXJyb3dzdHlsZT0iLT4iLCBsdz0xLjIpKQpheDIuYW5ub3RhdGUoIuaUtumfs+acuuivr+W3ruaXoOeVjCDihpIg5Y+R5pWjIiwgeHk9KC0xMCwgRnJbLTFdKSwgeHl0ZXh0PSgtOSwgLTQuNSksCiAgICAgICAgICAgICBmb250c2l6ZT04LjUsIGNvbG9yPSIjZTY3ZTIyIiwKICAgICAgICAgICAgIGFycm93cHJvcHM9ZGljdChhcnJvd3N0eWxlPSItPiIsIGx3PTEuMiwgY29sb3I9IiNlNjdlMjIiKSkKYXgyLmFubm90YXRlKCLnlLXmiqXor6/lt67ooqvnoIHmnKznuqbmnZ8g4oaSIOacieS4i+eVjCIsIHh5PSgtMTAsIEZ0Wy0xXSksIHh5dGV4dD0oLTkuNSwgMC41NSksCiAgICAgICAgICAgICBmb250c2l6ZT04LjUsIGNvbG9yPSIjMjk4MGI5IiwKICAgICAgICAgICAgIGFycm93cHJvcHM9ZGljdChhcnJvd3N0eWxlPSItPiIsIGx3PTEuMiwgY29sb3I9IiMyOTgwYjkiKSkKYXgyLnNldF94bGFiZWwoIuS/oeWZquavlCBTTlIgKGRCKSIpOyBheDIuc2V0X3lsYWJlbCgi5L+d55yf5bqmIEYiKQpheDIuc2V0X3RpdGxlKCLikaIg55S15oql55qE5LyY5Yq/5Yy65Zyo5p6B5L2O5L+h5Zmq5q+UIiwgZm9udHNpemU9MTEpCmF4Mi5sZWdlbmQoZm9udHNpemU9OC41KTsgYXgyLmdyaWQoYWxwaGE9MC4zKQoKIyAtLS0tICgxLDApIFBhcnQgRDog5YaX5L2Z5pS255uK5YiG56a7IC0tLS0KRCA9IGRbInBhcnREIl0KYXgzID0gYXhbMSwgMF0KZm9yIHRhZywgY29sLCBtayBpbiBbKCJ0ZWxlX2hhcmQiLCAiI2MwMzkyYiIsICJvIiksICgidGVsZV9zb2Z0IiwgIiM4ZTQ0YWQiLCAiXiIpLAogICAgICAgICAgICAgICAgICAgICAoInJhZGlvIiwgIiMxNmEwODUiLCAicyIpXToKICAgIHMgPSBbclsic25yX2RiIl0gZm9yIHIgaW4gRFsicjEiXVt0YWddWyJyb3dzIl1dCiAgICBmMSA9IFtyWyJGIl0gZm9yIHIgaW4gRFsicjEiXVt0YWddWyJyb3dzIl1dCiAgICBmMTUgPSBbclsiRiJdIGZvciByIGluIERbInIxNSJdW3RhZ11bInJvd3MiXV0KICAgIGF4My5wbG90KHMsIGYxLCBtaywgbXM9MywgY29sb3I9Y29sLCBhbHBoYT0wLjM1LCBsYWJlbD1mInt0YWd9IHI9MSIpCiAgICBheDMucGxvdChzLCBmMTUsICItIiArIG1rLCBtcz00LCBsdz0xLjgsIGNvbG9yPWNvbCwgbGFiZWw9ZiJ7dGFnfSByPTE1IikKYXgzLmF4aGxpbmUoMCwgY29sb3I9ImdyZXkiLCBsdz0wLjgsIGxzPSI6IikKYXgzLnNldF94bGFiZWwoIuS/oeWZquavlCBTTlIgKGRCKSIpOyBheDMuc2V0X3lsYWJlbCgi5L+d55yf5bqmIEYiKQpheDMuc2V0X3RpdGxlKCLikaMg5YaX5L2Z5a+56LCB5pyJ55So77ya56Gs5Yik5YazIDwg6L2v5Yik5YazIDwg5peg5Yik5YazIiwgZm9udHNpemU9MTEpCmF4My5sZWdlbmQoZm9udHNpemU9Ny41KTsgYXgzLmdyaWQoYWxwaGE9MC4zKQoKIyAtLS0tICgxLDEpIFBhcnQgRCDlhpfkvZnlop7nm4rmnaHlvaIgLS0tLQpheDQgPSBheFsxLCAxXQppMCA9IFtyWyJzbnJfZGIiXSBmb3IgciBpbiBEWyJyMSJdWyJyYWRpbyJdWyJyb3dzIl1dLmluZGV4KDAuMCkKdGFncyA9IFsi56Gs5Yik5YazXG4o5aSa5pWw5oqV56WoKSIsICLova/liKTlhrNcbijlubPlnYflkI7liKTlhrMpIiwgIuaUtumfs+aculxuKOaXoOWIpOWGsykiXQpnYWluID0gW10KZm9yIHQgaW4gWyJ0ZWxlX2hhcmQiLCAidGVsZV9zb2Z0IiwgInJhZGlvIl06CiAgICBnID0gRFsicjE1Il1bdF1bInJvd3MiXVtpMF1bIkYiXSAtIERbInIxIl1bdF1bInJvd3MiXVtpMF1bIkYiXQogICAgZ2Fpbi5hcHBlbmQoZykKYmFycyA9IGF4NC5iYXIodGFncywgZ2FpbiwgY29sb3I9WyIjYzAzOTJiIiwgIiM4ZTQ0YWQiLCAiIzE2YTA4NSJdLCBhbHBoYT0wLjg1KQpmb3IgYiwgZyBpbiB6aXAoYmFycywgZ2Fpbik6CiAgICBheDQudGV4dChiLmdldF94KCkgKyBiLmdldF93aWR0aCgpIC8gMiwgZyArIDAuMDIsIGYiK3tnOi4zZn0iLAogICAgICAgICAgICAgaGE9ImNlbnRlciIsIGZvbnRzaXplPTEwLCBmb250d2VpZ2h0PSJib2xkIikKYXg0LnNldF95bGFiZWwoIlNOUj0wZEIg5pe2IHI6MeKGkjE1IOeahOS/neecn+W6puWinuebiiIpCmF4NC5zZXRfdGl0bGUoIuKRpCDlkIzmoLflhpfkvZnvvIzmlLbnm4rlt64gMyDlgI3vvIjkuKLlnKjliKTlhrPpgqPkuIDmraXvvIkiLCBmb250c2l6ZT0xMSkKYXg0LmdyaWQoYWxwaGE9MC4zLCBheGlzPSJ5IikKCiMgLS0tLSAoMSwyKSBQYXJ0IEU6IOW8leaTjuWGheWcqOe7k+aehCAtLS0tCkUgPSBkWyJwYXJ0RSJdCmF4NSA9IGF4WzEsIDJdCm9yZGVyID0gWyJub25lIiwgInRlbGVncmFwaCIsICJyYWRpbyIsICJwZXJtdXRlZCJdCmxibCA9IFsi5peg5oSf5a6YIiwgIueUteaKpSIsICLmlLbpn7PmnLoiLCAi5pS26Z+z5py6XG7ml7bluo/miZPkubEiXQp2YWxzID0gW0Vba11bImNvbW1vbl9za2V3Il0gZm9yIGsgaW4gb3JkZXJdCmVycnMgPSBbRVtrXVsiY29tbW9uX3NkIl0gZm9yIGsgaW4gb3JkZXJdCmNvbHMgPSBbIiM5NWE1YTYiLCAiIzI5ODBiOSIsICIjZTY3ZTIyIiwgIiM3ZjhjOGQiXQpiYXJzID0gYXg1LmJhcihsYmwsIHZhbHMsIHllcnI9ZXJycywgY2Fwc2l6ZT00LCBjb2xvcj1jb2xzLCBhbHBoYT0wLjkpCmF4NS5heGhsaW5lKEVbIm5vbmUiXVsiY29tbW9uX3NrZXciXSwgY29sb3I9IiM5NWE1YTYiLCBscz0iLS0iLCBsdz0xLjIpCmF4NS50ZXh0KDMuMzUsIEVbIm5vbmUiXVsiY29tbW9uX3NrZXciXSArIDAuMDA0LCAi5peg5oSf5a6Y5Z+657q/IiwgZm9udHNpemU9OCwgY29sb3I9IiM2NjYiKQpheDUuc2V0X3lsYWJlbCgi5YaF5Zyo57uT5p6E5YGP5bqm77yI5YWx5ZCM5a2Y5rS75a2Q6ZuGIG49MTXvvIkiKQpheDUuc2V0X3RpdGxlKCLikaUg5Lik56eN6YCa6YGT6YO95Yi75YWl57uT5p6E77yM5L2G57O757uf5LiN6K6k5pe25bqPIiwgZm9udHNpemU9MTEpCmF4NS5ncmlkKGFscGhhPTAuMywgYXhpcz0ieSIpCgpwbHQuc3VwdGl0bGUoIuWunumqjCAwODTjgIDnlLXmiqUgdnMg5pS26Z+z5py677ya56a75pWj5YaX5L2Z5LiO6L+e57ut5L+d55yfIgogICAgICAgICAgICAgIuOAgO+8iOWPkeWwhOWKn+eOh+OAgeWZquWjsOWKn+eOh+OAgeaAu+S/oemBk+asoeaVsOS4ieiAheebuOWQjO+8iSIsCiAgICAgICAgICAgICBmb250c2l6ZT0xMywgZm9udHdlaWdodD0iYm9sZCIsIHk9MC45ODUpCnBsdC50aWdodF9sYXlvdXQocmVjdD1bMCwgMCwgMSwgMC45NjVdKQpvdXQgPSBvcy5wYXRoLmpvaW4oUk9PVCwgImZpZyIsICIwODRfdGVsZWdyYXBoX3JhZGlvLnBuZyIpCnBsdC5zYXZlZmlnKG91dCwgZHBpPTE1MCkKcHJpbnQoInNhdmVkIiwgb3V0LCBvcy5wYXRoLmdldHNpemUob3V0KSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import json, os
+import numpy as np
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+for f in ["WenQuanYi Micro Hei", "Noto Sans CJK SC", "SimHei"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False)
+        plt.rcParams["font.sans-serif"] = [f]
+        break
+    except Exception:
+        continue
+plt.rcParams["axes.unicode_minus"] = False
+
+ROOT = os.path.join(os.path.dirname(__file__), "..")
+d = json.load(open(os.path.join(ROOT, "result_084.json")))
+
+fig, ax = plt.subplots(2, 3, figsize=(16, 9.5))
+
+# ---- (0,0) Part A: F vs SNR，各 K ----
+A = d["partA"]
+keys = ["K2", "K4", "K8", "K16", "K64", "radio"]
+colors = plt.cm.viridis(np.linspace(0.05, 0.85, len(keys)))
+ax0 = ax[0, 0]
+for k, c in zip(keys, colors):
+    s = [r["snr_db"] for r in A[k]]
+    F = [r["F"] for r in A[k]]
+    ax0.plot(s, F, "-o", ms=3, lw=1.8 if k == "radio" else 1.2,
+             color=c, label=("收音机(连续)" if k == "radio" else f"电报 K={k[1:]}"))
+ax0.axhline(0, color="grey", lw=0.8, ls=":")
+ax0.set_xlabel("信噪比 SNR (dB)"); ax0.set_ylabel("保真度 F = 1 − MSE/var")
+ax0.set_title("① 分辨率 vs 抗噪：K 越大地板越高越脆", fontsize=11)
+ax0.legend(fontsize=7.5, loc="lower right"); ax0.grid(alpha=0.3)
+
+# ---- (0,1) Part A': 最优 K 阶梯 ----
+ax1 = ax[0, 1]
+bA = d["bestA"]
+s = [r["snr_db"] for r in bA]
+kv = []
+for r in bA:
+    b = r["best"]
+    kv.append(1024 if b == "radio" else int(b[1:]))
+ax1.step(s, kv, where="mid", lw=2.2, color="#c0392b")
+ax1.set_yscale("log", base=2)
+ax1.set_yticks([2, 4, 8, 16, 64, 1024])
+ax1.set_yticklabels(["2", "4", "8", "16", "64", "连续"])
+ax1.invert_xaxis()
+ax1.set_xlabel("信噪比 SNR (dB)"); ax1.set_ylabel("该信噪比下的最优量化阶数 K*")
+ax1.set_title("② 最优 K* 随噪声单调下降（阶梯，无例外）", fontsize=11)
+ax1.grid(alpha=0.3)
+
+# ---- (0,2) Part B: 电报 vs 收音机，交叉与发散 ----
+B = d["partB"]["r1"]
+ax2 = ax[0, 2]
+s = [r["snr_db"] for r in B["telegraph"]]
+Ft = [r["F"] for r in B["telegraph"]]
+Fr = [r["F"] for r in B["radio"]]
+ax2.plot(s, Ft, "-o", ms=3.5, lw=2, color="#2980b9", label="电报（离散 K=8）")
+ax2.plot(s, Fr, "-s", ms=3.5, lw=2, color="#e67e22", label="收音机（连续）")
+ax2.axhline(0, color="grey", lw=0.8, ls=":")
+i6 = s.index(6.0)
+ax2.annotate(f"交叉点 ≈ 6dB\n({Ft[i6]:.4f} vs {Fr[i6]:.4f})",
+             xy=(6.0, Ft[i6]), xytext=(10, 0.35), fontsize=8.5,
+             arrowprops=dict(arrowstyle="->", lw=1.2))
+ax2.annotate("收音机误差无界 → 发散", xy=(-10, Fr[-1]), xytext=(-9, -4.5),
+             fontsize=8.5, color="#e67e22",
+             arrowprops=dict(arrowstyle="->", lw=1.2, color="#e67e22"))
+ax2.annotate("电报误差被码本约束 → 有下界", xy=(-10, Ft[-1]), xytext=(-9.5, 0.55),
+             fontsize=8.5, color="#2980b9",
+             arrowprops=dict(arrowstyle="->", lw=1.2, color="#2980b9"))
+ax2.set_xlabel("信噪比 SNR (dB)"); ax2.set_ylabel("保真度 F")
+ax2.set_title("③ 电报的优势区在极低信噪比", fontsize=11)
+ax2.legend(fontsize=8.5); ax2.grid(alpha=0.3)
+
+# ---- (1,0) Part D: 冗余收益分离 ----
+D = d["partD"]
+ax3 = ax[1, 0]
+for tag, col, mk in [("tele_hard", "#c0392b", "o"), ("tele_soft", "#8e44ad", "^"),
+                     ("radio", "#16a085", "s")]:
+    s = [r["snr_db"] for r in D["r1"][tag]["rows"]]
+    f1 = [r["F"] for r in D["r1"][tag]["rows"]]
+    f15 = [r["F"] for r in D["r15"][tag]["rows"]]
+    ax3.plot(s, f1, mk, ms=3, color=col, alpha=0.35, label=f"{tag} r=1")
+    ax3.plot(s, f15, "-" + mk, ms=4, lw=1.8, color=col, label=f"{tag} r=15")
+ax3.axhline(0, color="grey", lw=0.8, ls=":")
+ax3.set_xlabel("信噪比 SNR (dB)"); ax3.set_ylabel("保真度 F")
+ax3.set_title("④ 冗余对谁有用：硬判决 < 软判决 < 无判决", fontsize=11)
+ax3.legend(fontsize=7.5); ax3.grid(alpha=0.3)
+
+# ---- (1,1) Part D 冗余增益条形 ----
+ax4 = ax[1, 1]
+i0 = [r["snr_db"] for r in D["r1"]["radio"]["rows"]].index(0.0)
+tags = ["硬判决\n(多数投票)", "软判决\n(平均后判决)", "收音机\n(无判决)"]
+gain = []
+for t in ["tele_hard", "tele_soft", "radio"]:
+    g = D["r15"][t]["rows"][i0]["F"] - D["r1"][t]["rows"][i0]["F"]
+    gain.append(g)
+bars = ax4.bar(tags, gain, color=["#c0392b", "#8e44ad", "#16a085"], alpha=0.85)
+for b, g in zip(bars, gain):
+    ax4.text(b.get_x() + b.get_width() / 2, g + 0.02, f"+{g:.3f}",
+             ha="center", fontsize=10, fontweight="bold")
+ax4.set_ylabel("SNR=0dB 时 r:1→15 的保真度增益")
+ax4.set_title("⑤ 同样冗余，收益差 3 倍（丢在判决那一步）", fontsize=11)
+ax4.grid(alpha=0.3, axis="y")
+
+# ---- (1,2) Part E: 引擎内在结构 ----
+E = d["partE"]
+ax5 = ax[1, 2]
+order = ["none", "telegraph", "radio", "permuted"]
+lbl = ["无感官", "电报", "收音机", "收音机\n时序打乱"]
+vals = [E[k]["common_skew"] for k in order]
+errs = [E[k]["common_sd"] for k in order]
+cols = ["#95a5a6", "#2980b9", "#e67e22", "#7f8c8d"]
+bars = ax5.bar(lbl, vals, yerr=errs, capsize=4, color=cols, alpha=0.9)
+ax5.axhline(E["none"]["common_skew"], color="#95a5a6", ls="--", lw=1.2)
+ax5.text(3.35, E["none"]["common_skew"] + 0.004, "无感官基线", fontsize=8, color="#666")
+ax5.set_ylabel("内在结构偏度（共同存活子集 n=15）")
+ax5.set_title("⑥ 两种通道都刻入结构，但系统不认时序", fontsize=11)
+ax5.grid(alpha=0.3, axis="y")
+
+plt.suptitle("实验 084　电报 vs 收音机：离散冗余与连续保真"
+             "　（发射功率、噪声功率、总信道次数三者相同）",
+             fontsize=13, fontweight="bold", y=0.985)
+plt.tight_layout(rect=[0, 0, 1, 0.965])
+out = os.path.join(ROOT, "fig", "084_telegraph_radio.png")
+plt.savefig(out, dpi=150)
+print("saved", out, os.path.getsize(out))

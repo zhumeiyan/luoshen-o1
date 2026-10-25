@@ -1,1 +1,12 @@
-aW1wb3J0IHN5cywganNvbiwgc3RhdGlzdGljcwpzeXMucGF0aC5pbnNlcnQoMCwnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMjMwX2VlNScpCmZyb20gc2ltMjMwIGltcG9ydCBydW4Kc2VlZHM9WzEsMiwzLDQsNV0KcmVzPXt9CmZvciBMMyBpbiBbJ2V4bycsJ2VuZG8nXToKICAgIGZvciBMNCBpbiBbJ2V4bycsJ2VuZG8nXToKICAgICAgICBycz1bcnVuKHMsJ2V4bycsJ2V4bycsTDMsTDQsJ2V4bycpIGZvciBzIGluIHNlZWRzXQogICAgICAgIHJlc1tmJ0wzPXtMM30sTDQ9e0w0fSddPXsnYmVzdCc6cm91bmQoc3RhdGlzdGljcy5tZWFuKHhbJ2Jlc3QnXSBmb3IgeCBpbiBycyksMyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29sbGFwc2UnOnJvdW5kKHN0YXRpc3RpY3MubWVhbih4Wydjb2xsYXBzZSddIGZvciB4IGluIHJzKSwyKX0KcHJpbnQoanNvbi5kdW1wcyhyZXMsZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKSkKanNvbi5kdW1wKHJlcyxvcGVuKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAyMzBfZWU1L3Jlc3VsdDIzMGIuanNvbicsJ3cnKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCg==
+import sys, json, statistics
+sys.path.insert(0,'/data/workspace/luoshen-o1/experiments/exp230_ee5')
+from sim230 import run
+seeds=[1,2,3,4,5]
+res={}
+for L3 in ['exo','endo']:
+    for L4 in ['exo','endo']:
+        rs=[run(s,'exo','exo',L3,L4,'exo') for s in seeds]
+        res[f'L3={L3},L4={L4}']={'best':round(statistics.mean(x['best'] for x in rs),3),
+                                  'collapse':round(statistics.mean(x['collapse'] for x in rs),2)}
+print(json.dumps(res,ensure_ascii=False,indent=1))
+json.dump(res,open('/data/workspace/luoshen-o1/experiments/exp230_ee5/result230b.json','w'),ensure_ascii=False,indent=1)

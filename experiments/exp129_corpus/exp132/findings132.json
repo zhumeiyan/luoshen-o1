@@ -1,1 +1,200 @@
-WwogewogICJmaWxlIjogIkVsZXV0aGVyQUlfX2xtLWV2YWx1YXRpb24taGFybmVzc19fbG1fZXZhbF9ldmFsdWF0b3IucHkiLAogICJlZyI6ICJFRzAwMiIsCiAgInNldiI6ICJibG9ja2VyIiwKICAibGluZSI6IDY2NywKICAia2luZCI6ICJub2RlIiwKICAiaGl0IjogImFjY1tcImxvZ2dlZF9zYW1wbGVzXCJdLmFwcGVuZChleGFtcGxlKSDigJQgbm8gYmFzZWxpbmUgc3ltYm9sIGZvdW5kIiwKICAiY29kZSI6ICJhY2NbXCJsb2dnZWRfc2FtcGxlc1wiXS5hcHBlbmQoZXhhbXBsZSkiCiB9LAogewogICJmaWxlIjogImFsbGVuYWlfX29sbWVzX19vZV9ldmFsX3J1bl9ldmFsLnB5IiwKICAiZWciOiAiRUcwMTEiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiA3MTMsCiAgImtpbmQiOiAib2xkIiwKICAiaGl0IjogImxvb3Agc2tpcHMgaXRlbXMgYW5kIGFnZ3JlZ2F0ZXMsIG5vIHBhaXJlZCBkaWZmIiwKICAiY29kZSI6ICJmb3IgdGFza19pZHgsIHRhc2sgaW4gZW51bWVyYXRlKHRhc2tfb2JqZWN0cyk6IgogfSwKIHsKICAiZmlsZSI6ICJhbGxlbmFpX19vbG1lc19fb2VfZXZhbF9ydW5fZXZhbC5weSIsCiAgImVnIjogIkVHMDExIiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogODU3LAogICJraW5kIjogIm9sZCIsCiAgImhpdCI6ICJsb29wIHNraXBzIGl0ZW1zIGFuZCBhZ2dyZWdhdGVzLCBubyBwYWlyZWQgZGlmZiIsCiAgImNvZGUiOiAiZm9yIHJlcXVlc3QgaW4gZXZhbF9yZXF1ZXN0c19yYXc6IgogfSwKIHsKICAiZmlsZSI6ICJhbGxlbmFpX19vbG1lc19fb2VfZXZhbF9ydW5fZXZhbC5weSIsCiAgImVnIjogIkVHUDA2IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogNjkyLAogICJraW5kIjogIm9sZCIsCiAgImhpdCI6ICJtZXRyaWMgcmVwb3J0ZWQgd2l0aCBubyBzcHJlYWQgb3IgcmVwZWF0IiwKICAiY29kZSI6ICJsb2dnZXIuaW5mbyhmXCJHUFUgbWVtb3J5OlxcbntncHVfbWVtb3J5fVwiKSIKIH0sCiB7CiAgImZpbGUiOiAiZ29vZ2xlX19CSUctYmVuY2hfX2JpZ2JlbmNoX2FwaV90YXNrX21ldHJpY3MucHkiLAogICJlZyI6ICJFRzAwNSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDQzLAogICJraW5kIjogIm9sZCIsCiAgImhpdCI6ICJjb3VudCAvIGxlbihzYW1wbGVzKSIsCiAgImNvZGUiOiAicmV0dXJuIGNvdW50IC8gbGVuKHNhbXBsZXMpIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDA1IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogNzgsCiAgImtpbmQiOiAib2xkIiwKICAiaGl0IjogIm5wLmV4cChsb2dfcHJvYikgLyBucC5zdW0obnAuZXhwKGxvZ19wcm9iKSkiLAogICJjb2RlIjogInByb2JzID0gbnAuZXhwKGxvZ19wcm9iKSAvIG5wLnN1bShucC5leHAobG9nX3Byb2IpKSIKIH0sCiB7CiAgImZpbGUiOiAiZ29vZ2xlX19CSUctYmVuY2hfX2JpZ2JlbmNoX2FwaV90YXNrX21ldHJpY3MucHkiLAogICJlZyI6ICJFRzAwNSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDExOSwKICAia2luZCI6ICJvbGQiLAogICJoaXQiOiAidG90YWxfYnJpZXJfc2NvcmUgLyBjb3VudCIsCiAgImNvZGUiOiAicmV0dXJuIHRvdGFsX2JyaWVyX3Njb3JlIC8gY291bnQiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAyNDQsCiAgImtpbmQiOiAib2xkIiwKICAiaGl0IjogIndlaWdodGVkX2xvZ19wcm9iIC8gbGVuKHNhbXBsZXMpIiwKICAiY29kZSI6ICJyZXR1cm4gd2VpZ2h0ZWRfbG9nX3Byb2IgLyBsZW4oc2FtcGxlcykiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAyNjQsCiAgImtpbmQiOiAib2xkIiwKICAiaGl0IjogIndlaWdodGVkX3Byb2IgLyBsZW4oc2FtcGxlcykiLAogICJjb2RlIjogInJldHVybiB3ZWlnaHRlZF9wcm9iIC8gbGVuKHNhbXBsZXMpIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsCiAgImVnIjogIkVHMDEyIiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMTk4LAogICJraW5kIjogIm9sZCIsCiAgImhpdCI6ICJgYnVja2V0X2FjY3VyYWN5YCBkZWNsYXJlZCB3aXRob3V0IHBvc2l0aXZlIGNvbnRyb2wgKyBjaGFuY2UtbGV2ZWwgYmFzZWxpbmUiLAogICJjb2RlIjogImJ1Y2tldF9hY2N1cmFjeSA9IF9jb21wdXRlX2J1Y2tldF9hY2N1cmFjeSgiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwKICAiZWciOiAiRUdQMDgiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiA0NjUsCiAgImtpbmQiOiAib2xkIiwKICAiaGl0IjogImFzc2VydChzKSBpbiBgY2hlY2tfaWZfbnVtZXJpY192YWx1ZV9pc193aXRoaW5fcmVsYXRpdmVfZXJyb3IoKWAgb3V0c2lkZSBhbnkgdHJ5IGJsb2NrIiwKICAiY29kZSI6ICJhc3NlcnQgaXNpbnN0YW5jZSh0YXJnZXQsIGxpc3QpIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsCiAgImVnIjogIkVHUDA5IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMzEzLAogICJraW5kIjogIm9sZCIsCiAgImhpdCI6ICJtZWFuIG92ZXIgc2FtcGxlcyBpbiBgbWFjcm9fZjFfZm5gIHdpdGggbm8gdGFpbCBzdGF0aXN0aWMiLAogICJjb2RlIjogIm5vX3NvZnRfc2NvcmVzID0gYWxsKFtzdW0oc1tcInRhcmdldF9zY29yZXNcIl0udmFsdWVzKCkpID09IDEgZm9yIHMgaW4gc2FtcGxlc10pIgogfSwKIHsKICAiZmlsZSI6ICJnb29nbGVfX0JJRy1iZW5jaF9fYmlnYmVuY2hfYXBpX3Rhc2tfbWV0cmljcy5weSIsCiAgImVnIjogIkVHUDA5IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMzIxLAogICJraW5kIjogIm9sZCIsCiAgImhpdCI6ICJtZWFuIG92ZXIgc2FtcGxlcyBpbiBgbWFjcm9fZjFfZm5gIHdpdGggbm8gdGFpbCBzdGF0aXN0aWMiLAogICJjb2RlIjogInJldHVybiBmMV9zY29yZSh5X3RydWU9eV90cnVlLCB5X3ByZWQ9eV9wcmVkLCBhdmVyYWdlPVwibWFjcm9cIikiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9hcGlfdGFza19tZXRyaWNzLnB5IiwKICAiZWciOiAiRUdQMDkiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiA0MTcsCiAgImtpbmQiOiAib2xkIiwKICAiaGl0IjogIm1lYW4gb3ZlciBzYW1wbGVzIGluIGBibGV1cnRfZm5gIHdpdGggbm8gdGFpbCBzdGF0aXN0aWMiLAogICJjb2RlIjogInJlc3VsdHNbXCJibGV1cnRcIl0gPSBucC5tZWFuKHJlc3VsdHNfbGlzdCkiCiB9LAogewogICJmaWxlIjogImdvb2dsZV9fQklHLWJlbmNoX19iaWdiZW5jaF9ldmFsdWF0ZV90YXNrLnB5IiwKICAiZWciOiAiRUdQMDYiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAyNTMsCiAgImtpbmQiOiAib2xkIiwKICAiaGl0IjogIm1ldHJpYyByZXBvcnRlZCB3aXRoIG5vIHNwcmVhZCBvciByZXBlYXQiLAogICJjb2RlIjogInNhbml0aXplZF9zY29yZV9kYXRhID0gdGFza19hcGkuU2NvcmVEYXRhKCIKIH0sCiB7CiAgImZpbGUiOiAib3BlbmFpX19zaW1wbGUtZXZhbHNfX2Ryb3BfZXZhbC5weSIsCiAgImVnIjogIkVHMDEyIiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMTI5LAogICJraW5kIjogIm9sZCIsCiAgImhpdCI6ICJgZjFgIGRlY2xhcmVkIHdpdGhvdXQgcG9zaXRpdmUgY29udHJvbCArIGNoYW5jZS1sZXZlbCBiYXNlbGluZSIsCiAgImNvZGUiOiAiZjEgPSAoIgogfSwKIHsKICAiZmlsZSI6ICJvcGVuYWlfX3NpbXBsZS1ldmFsc19fZHJvcF9ldmFsLnB5IiwKICAiZWciOiAiRUdQMDYiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAxMDYsCiAgImtpbmQiOiAib2xkIiwKICAiaGl0IjogIm1ldHJpYyByZXBvcnRlZCB3aXRoIG5vIHNwcmVhZCBvciByZXBlYXQiLAogICJjb2RlIjogInNjb3JlcyA9IG5wLnplcm9zKFtsZW4oZ29sZCksIGxlbihwcmVkaWN0ZWQpXSkiCiB9LAogewogICJmaWxlIjogIm9wZW5haV9fc2ltcGxlLWV2YWxzX19kcm9wX2V2YWwucHkiLAogICJlZyI6ICJFR1AwOSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDE3MCwKICAia2luZCI6ICJvbGQiLAogICJoaXQiOiAibWVhbiBvdmVyIHNhbXBsZXMgaW4gYGdldF9kcm9wX21ldHJpY3NgIHdpdGggbm8gdGFpbCBzdGF0aXN0aWMiLAogICJjb2RlIjogImYxID0gbnAubWVhbihmMV9wZXJfYmFnKSIKIH0sCiB7CiAgImZpbGUiOiAic3RhbmZvcmQtY3JmbV9faGVsbV9fc2NyaXB0c19oZWltX2h1bWFuX2V2YWwucHkiLAogICJlZyI6ICJFRzAxMSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDE3MiwKICAia2luZCI6ICJvbGQiLAogICJoaXQiOiAibG9vcCBza2lwcyBpdGVtcyBhbmQgYWdncmVnYXRlcywgbm8gcGFpcmVkIGRpZmYiLAogICJjb2RlIjogImZvciBxdWVzdGlvbl90eXBlLCBxdWVzdGlvbl9pbmZvIGluIFFVRVNUSU9OX1RZUEVfVE9fSU5GT1MuaXRlbXMoKToiCiB9LAogewogICJmaWxlIjogInN0YW5mb3JkLWNyZm1fX2hlbG1fX3NjcmlwdHNfaGVpbV9odW1hbl9ldmFsLnB5IiwKICAiZWciOiAiRUcwMTYiLAogICJzZXYiOiAiYmxvY2tlciIsCiAgImxpbmUiOiAyNzUsCiAgImtpbmQiOiAibm9kZSIsCiAgImhpdCI6ICJyZXF1ZXN0cy5nZXQoaW1hZ2VfdXJsKSDigJQgbm8gdGltZXN0YW1wIiwKICAiY29kZSI6ICJyZXNwb25zZSA9IHJlcXVlc3RzLmdldChpbWFnZV91cmwpIgogfSwKIHsKICAiZmlsZSI6ICJzdGFuZm9yZC1jcmZtX19oZWxtX19zY3JpcHRzX2hlaW1faHVtYW5fZXZhbC5weSIsCiAgImVnIjogIkVHUDA2IiwKICAic2V2IjogIndhcm4iLAogICJsaW5lIjogMjEzLAogICJraW5kIjogIm9sZCIsCiAgImhpdCI6ICJtZXRyaWMgcmVwb3J0ZWQgd2l0aCBubyBzcHJlYWQgb3IgcmVwZWF0IiwKICAiY29kZSI6ICJjb3JyZWN0X2Fuc3dlciA9IGNob2ljZSAgIyB0eXBlOiBpZ25vcmUiCiB9LAogewogICJmaWxlIjogInN0YW5mb3JkLWNyZm1fX2hlbG1fX3NjcmlwdHNfaGVpbV9odW1hbl9ldmFsLnB5IiwKICAiZWciOiAiRUdQMDkiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAyMzUsCiAgImtpbmQiOiAib2xkIiwKICAiaGl0IjogIm1lYW4gb3ZlciBzYW1wbGVzIGluIGBnZW5lcmF0ZV9oZWltX2h1bWFuX2V2YWxfZGF0YXNldGAgd2l0aCBubyB0YWlsIHN0YXRpc3RpYyIsCiAgImNvZGUiOiAiZXhhbXBsZVtcIm1lYW5fc2NvcmVcIl0gPSBzdGF0aXN0aWNzLmZtZWFuKGV4YW1wbGVbXCJodW1hbl9hbm5vdGF0aW9uc1wiXSkiCiB9Cl0=
+[
+ {
+  "file": "EleutherAI__lm-evaluation-harness__lm_eval_evaluator.py",
+  "eg": "EG002",
+  "sev": "blocker",
+  "line": 667,
+  "kind": "node",
+  "hit": "acc[\"logged_samples\"].append(example) — no baseline symbol found",
+  "code": "acc[\"logged_samples\"].append(example)"
+ },
+ {
+  "file": "allenai__olmes__oe_eval_run_eval.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 713,
+  "kind": "old",
+  "hit": "loop skips items and aggregates, no paired diff",
+  "code": "for task_idx, task in enumerate(task_objects):"
+ },
+ {
+  "file": "allenai__olmes__oe_eval_run_eval.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 857,
+  "kind": "old",
+  "hit": "loop skips items and aggregates, no paired diff",
+  "code": "for request in eval_requests_raw:"
+ },
+ {
+  "file": "allenai__olmes__oe_eval_run_eval.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": 692,
+  "kind": "old",
+  "hit": "metric reported with no spread or repeat",
+  "code": "logger.info(f\"GPU memory:\\n{gpu_memory}\")"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 43,
+  "kind": "old",
+  "hit": "count / len(samples)",
+  "code": "return count / len(samples)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 78,
+  "kind": "old",
+  "hit": "np.exp(log_prob) / np.sum(np.exp(log_prob))",
+  "code": "probs = np.exp(log_prob) / np.sum(np.exp(log_prob))"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 119,
+  "kind": "old",
+  "hit": "total_brier_score / count",
+  "code": "return total_brier_score / count"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 244,
+  "kind": "old",
+  "hit": "weighted_log_prob / len(samples)",
+  "code": "return weighted_log_prob / len(samples)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 264,
+  "kind": "old",
+  "hit": "weighted_prob / len(samples)",
+  "code": "return weighted_prob / len(samples)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EG012",
+  "sev": "warn",
+  "line": 198,
+  "kind": "old",
+  "hit": "`bucket_accuracy` declared without positive control + chance-level baseline",
+  "code": "bucket_accuracy = _compute_bucket_accuracy("
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EGP08",
+  "sev": "warn",
+  "line": 465,
+  "kind": "old",
+  "hit": "assert(s) in `check_if_numeric_value_is_within_relative_error()` outside any try block",
+  "code": "assert isinstance(target, list)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 313,
+  "kind": "old",
+  "hit": "mean over samples in `macro_f1_fn` with no tail statistic",
+  "code": "no_soft_scores = all([sum(s[\"target_scores\"].values()) == 1 for s in samples])"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 321,
+  "kind": "old",
+  "hit": "mean over samples in `macro_f1_fn` with no tail statistic",
+  "code": "return f1_score(y_true=y_true, y_pred=y_pred, average=\"macro\")"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_api_task_metrics.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 417,
+  "kind": "old",
+  "hit": "mean over samples in `bleurt_fn` with no tail statistic",
+  "code": "results[\"bleurt\"] = np.mean(results_list)"
+ },
+ {
+  "file": "google__BIG-bench__bigbench_evaluate_task.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": 253,
+  "kind": "old",
+  "hit": "metric reported with no spread or repeat",
+  "code": "sanitized_score_data = task_api.ScoreData("
+ },
+ {
+  "file": "openai__simple-evals__drop_eval.py",
+  "eg": "EG012",
+  "sev": "warn",
+  "line": 129,
+  "kind": "old",
+  "hit": "`f1` declared without positive control + chance-level baseline",
+  "code": "f1 = ("
+ },
+ {
+  "file": "openai__simple-evals__drop_eval.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": 106,
+  "kind": "old",
+  "hit": "metric reported with no spread or repeat",
+  "code": "scores = np.zeros([len(gold), len(predicted)])"
+ },
+ {
+  "file": "openai__simple-evals__drop_eval.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 170,
+  "kind": "old",
+  "hit": "mean over samples in `get_drop_metrics` with no tail statistic",
+  "code": "f1 = np.mean(f1_per_bag)"
+ },
+ {
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "eg": "EG011",
+  "sev": "warn",
+  "line": 172,
+  "kind": "old",
+  "hit": "loop skips items and aggregates, no paired diff",
+  "code": "for question_type, question_info in QUESTION_TYPE_TO_INFOS.items():"
+ },
+ {
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "eg": "EG016",
+  "sev": "blocker",
+  "line": 275,
+  "kind": "node",
+  "hit": "requests.get(image_url) — no timestamp",
+  "code": "response = requests.get(image_url)"
+ },
+ {
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "eg": "EGP06",
+  "sev": "warn",
+  "line": 213,
+  "kind": "old",
+  "hit": "metric reported with no spread or repeat",
+  "code": "correct_answer = choice  # type: ignore"
+ },
+ {
+  "file": "stanford-crfm__helm__scripts_heim_human_eval.py",
+  "eg": "EGP09",
+  "sev": "warn",
+  "line": 235,
+  "kind": "old",
+  "hit": "mean over samples in `generate_heim_human_eval_dataset` with no tail statistic",
+  "code": "example[\"mean_score\"] = statistics.fmean(example[\"human_annotations\"])"
+ }
+]

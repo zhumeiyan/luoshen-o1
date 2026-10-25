@@ -1,1 +1,55 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIxNzhjIOeos+WBpeaAp++8mifoobDlh4/orrDlv4blj43ogIzmr5Tml6DnrJTorrDmm7Tlt64nIOaYr+WQpuS+nei1luW5s+a7keezu+aVsCAvIOaYr+WQpuWFqOWxguihsOWHjyIiIgppbXBvcnQgb3MsIGpzb24sIG1hdGgKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QsIENvdW50ZXIKRD0iL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTc5X25vdGUiClNSQz0iL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTc1X2FsaWduL3Vfc2lkZS50eHQiCmxpbmVzPVtsLnN0cmlwKCkgZm9yIGwgaW4gb3BlbihTUkMsZW5jb2Rpbmc9InV0Zi04IikgaWYgbC5zdHJpcCgpXQpuX3Rlc3Q9ODsgdHJhaW4sdGVzdD1saW5lc1s6LW5fdGVzdF0sbGluZXNbLW5fdGVzdDpdCnRyPSIiLmpvaW4odHJhaW4pOyB0ZT0iIi5qb2luKHRlc3QpCnZvY2FiPXNvcnRlZChzZXQodHIpKTsgVj1sZW4odm9jYWIpKzE7IGlkeD17YzppIGZvciBpLGMgaW4gZW51bWVyYXRlKHZvY2FiKX0KZW5jX3RyPVtpZHguZ2V0KGMsVi0xKSBmb3IgYyBpbiB0cl07IGVuY190ZT1baWR4LmdldChjLFYtMSkgZm9yIGMgaW4gdGVdCm1zZ19vZj1bXTsgCmZvciBpMixsIGluIGVudW1lcmF0ZSh0cmFpbik6IG1zZ19vZis9W2kyXSpsZW4obCkKbGFzdD1sZW4odHJhaW4pLTEKSz0xCmRlZiBidWlsZChlbmMsd2Y9Tm9uZSxLPTEpOgogICAgbT1kZWZhdWx0ZGljdChDb3VudGVyKQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKGVuYyktSyk6CiAgICAgICAgdz0xLjAgaWYgd2YgaXMgTm9uZSBlbHNlIHdmKGkpCiAgICAgICAgbVt0dXBsZShlbmNbaTppK0tdKV1bZW5jW2krS11dKz13CiAgICByZXR1cm4gbQpkZWYgYml0cyhsYXllcnMsZW5jX3RlLEFMUEhBLHVuaXMpOgogICAgdG90LG49MC4wLDAKICAgIGZvciBpIGluIHJhbmdlKGxlbihlbmNfdGUpLTEpOgogICAgICAgIG54PWVuY190ZVtpKzFdOyBwPU5vbmUKICAgICAgICBmb3IgY250IGluIGxheWVyczoKICAgICAgICAgICAgYz1jbnQuZ2V0KChlbmNfdGVbaV0sKSkKICAgICAgICAgICAgaWYgYzoKICAgICAgICAgICAgICAgIHM9c3VtKGMudmFsdWVzKCkpOyBwPShjLmdldChueCwwLjApK0FMUEhBKS8ocytBTFBIQSpWKTsgYnJlYWsKICAgICAgICBpZiBwIGlzIE5vbmU6CiAgICAgICAgICAgIHU9dW5pczsgdHU9c3VtKHUudmFsdWVzKCkpOyBwPSh1LmdldChueCwwKStBTFBIQSkvKHR1K0FMUEhBKlYpCiAgICAgICAgdG90LT1tYXRoLmxvZzIocCk7IG4rPTEKICAgIHJldHVybiB0b3QvbgpvdXQ9W10KZm9yIEFMUEhBIGluIFswLjAxLDAuMDUsMC4xLDAuNSwxLjBdOgogICAgcm93PXsiQUxQSEEiOkFMUEhBfQogICAgdW5pPUNvdW50ZXIoZW5jX3RyKQogICAgYmFzZT1iaXRzKFtdLGVuY190ZSxBTFBIQSx1bmkpCiAgICByb3dbImJhc2VsaW5lIl09cm91bmQoYmFzZSw0KQogICAgZm9yIGxhbSBpbiBbMC4wLDAuMSwwLjUsMi4wXToKICAgICAgICB3Zj1Ob25lIGlmIGxhbT09MCBlbHNlIChsYW1iZGEgTDoobGFtYmRhIGk6bWF0aC5leHAoLUwqKGxhc3QtbXNnX29mW2ldKSkpKShsYW0pCiAgICAgICAgbHY9W2J1aWxkKGVuY190cix3ZixLKV0KICAgICAgICByb3dbImxhbSUuMWYiJWxhbV09cm91bmQoYml0cyhsdixlbmNfdGUsQUxQSEEsdW5pKSw0KQogICAgICAgICMg5YWo5bGC6KGw5YeP54mICiAgICAgICAgdXc9Q291bnRlcigpCiAgICAgICAgZm9yIGksYyBpbiBlbnVtZXJhdGUoZW5jX3RyKToKICAgICAgICAgICAgdXdbY10rPSAxLjAgaWYgbGFtPT0wIGVsc2UgbWF0aC5leHAoLWxhbSoobGFzdC1tc2dfb2ZbaV0pKQogICAgICAgIHJvd1sibGFtJS4xZl9hbGxkZWNheSIlbGFtXT1yb3VuZChiaXRzKGx2LGVuY190ZSxBTFBIQSx1dyksNCkKICAgIG91dC5hcHBlbmQocm93KQogICAgcHJpbnQoIkFMUEhBPSUtNXMg5peg56yU6K6w5Z+657q/PSUuNGYgfCBsYW0wPSUuNGYgbGFtMC4xPSUuNGYgbGFtMC41PSUuNGYgbGFtMj0lLjRmIHwg5YWo6KGw5YePIGxhbTAuNT0lLjRmIGxhbTI9JS40ZiIlKAogICAgICAgIEFMUEhBLHJvd1siYmFzZWxpbmUiXSxyb3dbImxhbTAuMCJdLHJvd1sibGFtMC4xIl0scm93WyJsYW0wLjUiXSxyb3dbImxhbTIuMCJdLAogICAgICAgIHJvd1sibGFtMC41X2FsbGRlY2F5Il0scm93WyJsYW0yLjBfYWxsZGVjYXkiXSkpCmpzb24uZHVtcChvdXQsb3Blbihvcy5wYXRoLmpvaW4oRCwicmVzdWx0MTc5Yy5qc29uIiksInciLGVuY29kaW5nPSJ1dGYtOCIpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkKcHJpbnQoIndyb3RlIHJlc3VsdDE3OWMuanNvbiIpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""178c 稳健性：'衰减记忆反而比无笔记更差' 是否依赖平滑系数 / 是否全层衰减"""
+import os, json, math
+from collections import defaultdict, Counter
+D="/data/workspace/luoshen-o1/experiments/exp179_note"
+SRC="/data/workspace/luoshen-o1/experiments/exp175_align/u_side.txt"
+lines=[l.strip() for l in open(SRC,encoding="utf-8") if l.strip()]
+n_test=8; train,test=lines[:-n_test],lines[-n_test:]
+tr="".join(train); te="".join(test)
+vocab=sorted(set(tr)); V=len(vocab)+1; idx={c:i for i,c in enumerate(vocab)}
+enc_tr=[idx.get(c,V-1) for c in tr]; enc_te=[idx.get(c,V-1) for c in te]
+msg_of=[]; 
+for i2,l in enumerate(train): msg_of+=[i2]*len(l)
+last=len(train)-1
+K=1
+def build(enc,wf=None,K=1):
+    m=defaultdict(Counter)
+    for i in range(len(enc)-K):
+        w=1.0 if wf is None else wf(i)
+        m[tuple(enc[i:i+K])][enc[i+K]]+=w
+    return m
+def bits(layers,enc_te,ALPHA,unis):
+    tot,n=0.0,0
+    for i in range(len(enc_te)-1):
+        nx=enc_te[i+1]; p=None
+        for cnt in layers:
+            c=cnt.get((enc_te[i],))
+            if c:
+                s=sum(c.values()); p=(c.get(nx,0.0)+ALPHA)/(s+ALPHA*V); break
+        if p is None:
+            u=unis; tu=sum(u.values()); p=(u.get(nx,0)+ALPHA)/(tu+ALPHA*V)
+        tot-=math.log2(p); n+=1
+    return tot/n
+out=[]
+for ALPHA in [0.01,0.05,0.1,0.5,1.0]:
+    row={"ALPHA":ALPHA}
+    uni=Counter(enc_tr)
+    base=bits([],enc_te,ALPHA,uni)
+    row["baseline"]=round(base,4)
+    for lam in [0.0,0.1,0.5,2.0]:
+        wf=None if lam==0 else (lambda L:(lambda i:math.exp(-L*(last-msg_of[i]))))(lam)
+        lv=[build(enc_tr,wf,K)]
+        row["lam%.1f"%lam]=round(bits(lv,enc_te,ALPHA,uni),4)
+        # 全层衰减版
+        uw=Counter()
+        for i,c in enumerate(enc_tr):
+            uw[c]+= 1.0 if lam==0 else math.exp(-lam*(last-msg_of[i]))
+        row["lam%.1f_alldecay"%lam]=round(bits(lv,enc_te,ALPHA,uw),4)
+    out.append(row)
+    print("ALPHA=%-5s 无笔记基线=%.4f | lam0=%.4f lam0.1=%.4f lam0.5=%.4f lam2=%.4f | 全衰减 lam0.5=%.4f lam2=%.4f"%(
+        ALPHA,row["baseline"],row["lam0.0"],row["lam0.1"],row["lam0.5"],row["lam2.0"],
+        row["lam0.5_alldecay"],row["lam2.0_alldecay"]))
+json.dump(out,open(os.path.join(D,"result179c.json"),"w",encoding="utf-8"),ensure_ascii=False,indent=1)
+print("wrote result179c.json")

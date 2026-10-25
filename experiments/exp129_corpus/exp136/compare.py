@@ -1,1 +1,67 @@
-aW1wb3J0IHN5cywganNvbiwgcGF0aGxpYiwgb3MsIGFzdApST09UPSIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMSIKc3lzLnBhdGguaW5zZXJ0KDAsIFJPT1QrIi9vdmVyc2VhcyIpOyBvcy5jaGRpcihST09UKQpmcm9tIGV2YWxndWFyZCBpbXBvcnQgY2xpCmZyb20gZXZhbGd1YXJkLmNsYXNzZXMgaW1wb3J0IFNZTlRBWApCQVNFID0gcGF0aGxpYi5QYXRoKFJPT1QrIi9leHBlcmltZW50cy9leHAxMjlfY29ycHVzL2V4cDEzNiIpCgpkZWYgc2hpcHBlZF9oaXRzKGQpOgogICAgdG90X2I9MDsgcm93cz1bXTsgcGVyPXt9CiAgICBmb3IgZiBpbiBzb3J0ZWQocGF0aGxpYi5QYXRoKGQpLmdsb2IoIioucHkiKSk6CiAgICAgICAgdG90X2IrPWYuc3RhdCgpLnN0X3NpemUKICAgICAgICBmb3IgciBpbiBjbGkuc2NhbihzdHIoZikpOgogICAgICAgICAgICBlZz1yLmdldCgiZWdfaWQiLCIiKQogICAgICAgICAgICBpZiBlZz09IkVHMDAwIiBvciByLmdldCgic2V2ZXJpdHkiKT09ImluZm8iOiBjb250aW51ZQogICAgICAgICAgICBmb3IgaCBpbiByLmdldCgiaGl0cyIsW10pOgogICAgICAgICAgICAgICAgcm93cy5hcHBlbmQoeyJmaWxlIjpmLm5hbWUsImVnIjplZywibGluZSI6aC5nZXQoImxpbmUiKSwiaGl0IjpoLmdldCgiaGl0IiwiIil9KQogICAgICAgICAgICAgICAgaWYgZWcgaW4gU1lOVEFYOiBwZXJbZi5uYW1lXT1wZXIuZ2V0KGYubmFtZSwwKSsxCiAgICAgICAgcGVyLnNldGRlZmF1bHQoZi5uYW1lLDApCiAgICBzeW49bGVuKHJvd3MpCiAgICByZXR1cm4geyJmaWxlcyI6bGVuKHBlciksImJ5dGVzIjp0b3RfYiwiZmluZGluZ3MiOnN5biwKICAgICAgICAgICAgInBlcl9rYiI6c3luL3RvdF9iKjEwMDAgaWYgdG90X2IgZWxzZSAwLAogICAgICAgICAgICAic2lsZW50IjpzdW0oMSBmb3IgdiBpbiBwZXIudmFsdWVzKCkgaWYgdj09MCksInJvd3MiOnJvd3N9CgpkZWYgbG9vc2VfaGl0cyhkKToKICAgIHRvdF9iPTA7IHJvd3M9W10KICAgIGZvciBmIGluIHNvcnRlZChwYXRobGliLlBhdGgoZCkuZ2xvYigiKi5weSIpKToKICAgICAgICB0b3RfYis9Zi5zdGF0KCkuc3Rfc2l6ZQogICAgICAgIHNyYz1mLnJlYWRfdGV4dCgpCiAgICAgICAgdHJ5OiB0cmVlPWFzdC5wYXJzZShzcmMpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogY29udGludWUKICAgICAgICBmb3IgbiBpbiBhc3Qud2Fsayh0cmVlKToKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShuLGFzdC5CaW5PcCkgYW5kIGlzaW5zdGFuY2Uobi5vcCwoYXN0LkRpdixhc3QuRmxvb3JEaXYpKToKICAgICAgICAgICAgICAgICMgQlVHIEZJWCAoZXhwMTM2LCBjYW5vbiAjMjMgNnRoIHJlY3VycmVuY2UpOiBhdCBBU1QgbGV2ZWwgYQogICAgICAgICAgICAgICAgIyBwYXRobGliIGpvaW4gYFBhdGguaG9tZSgpIC8gIi5oZXJtZXMiYCBpcyBBTFNPIEJpbk9wKERpdikuCiAgICAgICAgICAgICAgICAjIHYxIGNvdW50ZWQgNTMgImRpdmlzaW9ucyIgb24gY29ycHVzNjsgbW9zdCB3ZXJlIHBhdGggam9pbnMKICAgICAgICAgICAgICAgICMgd2l0aCBhIHN0cmluZyBvcGVyYW5kLiBEcm9wIHRob3NlIGZyb20gdGhlIGxvb3NlIGJhc2VsaW5lLgogICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShuLnJpZ2h0LCBhc3QuQ29uc3RhbnQpIGFuZCBpc2luc3RhbmNlKG4ucmlnaHQudmFsdWUsIHN0cik6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsiZWciOiJFRzAwNSIsImxpbmUiOm4ubGluZW5vLCJoaXQiOmFzdC51bnBhcnNlKG4pWzo2MF0sImZpbGUiOmYubmFtZX0pCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uobixhc3QuRXhjZXB0SGFuZGxlcik6CiAgICAgICAgICAgICAgICBpZiBuLnR5cGUgaXMgTm9uZTogcm93cy5hcHBlbmQoeyJlZyI6IkVHMDA2IiwibGluZSI6bi5saW5lbm8sImhpdCI6ImJhcmUgZXhjZXB0IiwiZmlsZSI6Zi5uYW1lfSkKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgdD1hc3QudW5wYXJzZShuLnR5cGUpCiAgICAgICAgICAgICAgICAgICAgaWYgdCBpbiAoIkV4Y2VwdGlvbiIsIkJhc2VFeGNlcHRpb24iKTogcm93cy5hcHBlbmQoeyJlZyI6IkVHMDA2IiwibGluZSI6bi5saW5lbm8sImhpdCI6ZiJleGNlcHQge3R9IiwiZmlsZSI6Zi5uYW1lfSkKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShuLChhc3QuRm9yLGFzdC5XaGlsZSkpOgogICAgICAgICAgICAgICAgZm9yIHN1YiBpbiBhc3Qud2FsayhuKToKICAgICAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKHN1Yixhc3QuRXhjZXB0SGFuZGxlcik6CiAgICAgICAgICAgICAgICAgICAgICAgICMgQlVHIEZJWCAoZXhwMTM2KTogdjEgc3RyaXBwZWQgYmFyZSBFeHByIG5vZGVzIGZpcnN0LAogICAgICAgICAgICAgICAgICAgICAgICAjIHNvIGBleGNlcHQ6IGxvZyguLi4pYCBjb3VudGVkIGFzIFNJTEVOVC4gQSBoYW5kbGVyCiAgICAgICAgICAgICAgICAgICAgICAgICMgdGhhdCBsb2dzIGlzIG5vdCBzaWxlbnQuIFNpbGVudCBtZWFucyBubyBhY3Rpb24uCiAgICAgICAgICAgICAgICAgICAgICAgIGJvZHk9bGlzdChzdWIuYm9keSkKICAgICAgICAgICAgICAgICAgICAgICAgaWYgYm9keSBhbmQgYWxsKGlzaW5zdGFuY2UoYiwoYXN0LlBhc3MsYXN0LkNvbnRpbnVlLGFzdC5CcmVhaykpIGZvciBiIGluIGJvZHkpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcm93cy5hcHBlbmQoeyJlZyI6IkVHUDAxIiwibGluZSI6c3ViLmxpbmVubywiaGl0Ijoic2lsZW50IGhhbmRsZXIgaW4gbG9vcCIsImZpbGUiOmYubmFtZX0pCiAgICByZXR1cm4geyJieXRlcyI6dG90X2IsImZpbmRpbmdzIjpsZW4ocm93cyksInBlcl9rYiI6bGVuKHJvd3MpL3RvdF9iKjEwMDAgaWYgdG90X2IgZWxzZSAwLCJyb3dzIjpyb3dzfQoKb3V0PXt9CmZvciBuYW1lLGQgaW4gWygiY29ycHVzNV9tYXR1cmUiLEJBU0UvImNvcnB1czUiKSwoImNvcnB1czZfbG93c3RhciIsQkFTRS8iY29ycHVzNiIpXToKICAgIHM9c2hpcHBlZF9oaXRzKGQpOyBsPWxvb3NlX2hpdHMoZCkKICAgIG91dFtuYW1lXT17InNoaXBwZWQiOntrOnYgZm9yIGssdiBpbiBzLml0ZW1zKCkgaWYgayE9InJvd3MifSwKICAgICAgICAgICAgICAgImxvb3NlIjp7azp2IGZvciBrLHYgaW4gbC5pdGVtcygpIGlmIGshPSJyb3dzIn19CiAgICAoQkFTRS9mIntuYW1lfV9zaGlwcGVkLmpzb24iKS53cml0ZV90ZXh0KGpzb24uZHVtcHMoc1sicm93cyJdLGluZGVudD0xKSkKICAgIChCQVNFL2Yie25hbWV9X2xvb3NlLmpzb24iKS53cml0ZV90ZXh0KGpzb24uZHVtcHMobFsicm93cyJdLGluZGVudD0xKSkKICAgIHByaW50KGYiPT0ge25hbWV9IikKICAgIHByaW50KCIgICBzaGlwcGVkOiBmaWxlcyAlZCBieXRlcyAlZCBmaW5kaW5ncyAlZCBwZXJfa2IgJS40ZiBzaWxlbnQgJWQvJWQiJSgKICAgICAgICBzWyJmaWxlcyJdLHNbImJ5dGVzIl0sc1siZmluZGluZ3MiXSxzWyJwZXJfa2IiXSxzWyJzaWxlbnQiXSxzWyJmaWxlcyJdKSkKICAgIHByaW50KCIgICBsb29zZSAgOiBmaW5kaW5ncyAlZCBwZXJfa2IgJS40ZiIlKGxbImZpbmRpbmdzIl0sbFsicGVyX2tiIl0pKQooQkFTRS8iY29tcGFyZS5qc29uIikud3JpdGVfdGV4dChqc29uLmR1bXBzKG91dCxpbmRlbnQ9MSkpCg==
+import sys, json, pathlib, os, ast
+ROOT="/data/workspace/luoshen-o1"
+sys.path.insert(0, ROOT+"/overseas"); os.chdir(ROOT)
+from evalguard import cli
+from evalguard.classes import SYNTAX
+BASE = pathlib.Path(ROOT+"/experiments/exp129_corpus/exp136")
+
+def shipped_hits(d):
+    tot_b=0; rows=[]; per={}
+    for f in sorted(pathlib.Path(d).glob("*.py")):
+        tot_b+=f.stat().st_size
+        for r in cli.scan(str(f)):
+            eg=r.get("eg_id","")
+            if eg=="EG000" or r.get("severity")=="info": continue
+            for h in r.get("hits",[]):
+                rows.append({"file":f.name,"eg":eg,"line":h.get("line"),"hit":h.get("hit","")})
+                if eg in SYNTAX: per[f.name]=per.get(f.name,0)+1
+        per.setdefault(f.name,0)
+    syn=len(rows)
+    return {"files":len(per),"bytes":tot_b,"findings":syn,
+            "per_kb":syn/tot_b*1000 if tot_b else 0,
+            "silent":sum(1 for v in per.values() if v==0),"rows":rows}
+
+def loose_hits(d):
+    tot_b=0; rows=[]
+    for f in sorted(pathlib.Path(d).glob("*.py")):
+        tot_b+=f.stat().st_size
+        src=f.read_text()
+        try: tree=ast.parse(src)
+        except Exception: continue
+        for n in ast.walk(tree):
+            if isinstance(n,ast.BinOp) and isinstance(n.op,(ast.Div,ast.FloorDiv)):
+                # BUG FIX (exp136, canon #23 6th recurrence): at AST level a
+                # pathlib join `Path.home() / ".hermes"` is ALSO BinOp(Div).
+                # v1 counted 53 "divisions" on corpus6; most were path joins
+                # with a string operand. Drop those from the loose baseline.
+                if isinstance(n.right, ast.Constant) and isinstance(n.right.value, str):
+                    continue
+                rows.append({"eg":"EG005","line":n.lineno,"hit":ast.unparse(n)[:60],"file":f.name})
+            if isinstance(n,ast.ExceptHandler):
+                if n.type is None: rows.append({"eg":"EG006","line":n.lineno,"hit":"bare except","file":f.name})
+                else:
+                    t=ast.unparse(n.type)
+                    if t in ("Exception","BaseException"): rows.append({"eg":"EG006","line":n.lineno,"hit":f"except {t}","file":f.name})
+            if isinstance(n,(ast.For,ast.While)):
+                for sub in ast.walk(n):
+                    if isinstance(sub,ast.ExceptHandler):
+                        # BUG FIX (exp136): v1 stripped bare Expr nodes first,
+                        # so `except: log(...)` counted as SILENT. A handler
+                        # that logs is not silent. Silent means no action.
+                        body=list(sub.body)
+                        if body and all(isinstance(b,(ast.Pass,ast.Continue,ast.Break)) for b in body):
+                            rows.append({"eg":"EGP01","line":sub.lineno,"hit":"silent handler in loop","file":f.name})
+    return {"bytes":tot_b,"findings":len(rows),"per_kb":len(rows)/tot_b*1000 if tot_b else 0,"rows":rows}
+
+out={}
+for name,d in [("corpus5_mature",BASE/"corpus5"),("corpus6_lowstar",BASE/"corpus6")]:
+    s=shipped_hits(d); l=loose_hits(d)
+    out[name]={"shipped":{k:v for k,v in s.items() if k!="rows"},
+               "loose":{k:v for k,v in l.items() if k!="rows"}}
+    (BASE/f"{name}_shipped.json").write_text(json.dumps(s["rows"],indent=1))
+    (BASE/f"{name}_loose.json").write_text(json.dumps(l["rows"],indent=1))
+    print(f"== {name}")
+    print("   shipped: files %d bytes %d findings %d per_kb %.4f silent %d/%d"%(
+        s["files"],s["bytes"],s["findings"],s["per_kb"],s["silent"],s["files"]))
+    print("   loose  : findings %d per_kb %.4f"%(l["findings"],l["per_kb"]))
+(BASE/"compare.json").write_text(json.dumps(out,indent=1))

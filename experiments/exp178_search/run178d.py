@@ -1,1 +1,75 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKMTc4ZDog5pS255uK5Yiw5bqV5p2l6IeqIuaQnOWIsOeahOS/oeaBryLov5jmmK8i5Y+q5piv5bmz5ruRIj8K5a+554WnOiDnnJ/lpJbpg6ggLyDmiZPkubHnmoTlpJbpg6go5L+d55WZ5a2X56ym6aKR546H56C05Z2P6aG65bqPKSAvIOiHquW3seW9k+WklumDqArnrZbnlaU6IOaMiSjlpJbpg6gt5YaF6YOoKeS8mOWKv+mAieS9jSwgbGFtYmRhPTAuMjAKIiIiCmltcG9ydCBqc29uLCBtYXRoLCByYW5kb20sIHN5cwpzeXMucGF0aC5pbnNlcnQoMCwgJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE3OF9zZWFyY2gnKQpmcm9tIHJ1bjE3OCBpbXBvcnQgTkcsIEhfb2YsIGwyLCBtZWFuLCBsb2FkLCBCQVNFLCBVCgoKZGVmIHJ1bih1LCBFX3RleHQsIGN1dF9mcmFjLCBvcmRlcj0yLCBYZj0wLjMsIGxhbT0wLjIsIHNlZWQ9MCk6CiAgICBuID0gbGVuKHUpCiAgICBjdXQgPSBpbnQobiAqIGN1dF9mcmFjKQogICAgSXRyLCBUID0gdVs6Y3V0XSwgdVtjdXQ6XQogICAgdm9jYWIgPSBzZXQoSXRyKSB8IHNldChFX3RleHQpIHwgc2V0KFQpCiAgICBNSSwgTUUgPSBORyhJdHIsIG9yZGVyLCB2b2NhYiksIE5HKEVfdGV4dCwgb3JkZXIsIHZvY2FiKQogICAgcGFkZGVkID0gSXRyICsgVAogICAgcF9pbnQsIHBfZXh0LCBIcyA9IFtdLCBbXSwgW10KICAgIGZvciBpIGluIHJhbmdlKGxlbihUKSk6CiAgICAgICAgcG9zID0gY3V0ICsgaQogICAgICAgIGN0eCA9IHBhZGRlZFttYXgoMCwgcG9zIC0gb3JkZXIpOnBvc10KICAgICAgICBhID0gVFtpXQogICAgICAgIGRpLCBkZSA9IE1JLmRpc3QoY3R4KSwgTUUuZGlzdChjdHgpCiAgICAgICAgcF9pbnQuYXBwZW5kKGRpLmdldChhLCAxZS0xMikpCiAgICAgICAgcF9leHQuYXBwZW5kKGRlLmdldChhLCAxZS0xMikpCiAgICAgICAgSHMuYXBwZW5kKEhfb2YoZGkpKQogICAgTiA9IGxlbihUKQogICAgYmFzZSA9IG1lYW4oW2wyKHApIGZvciBwIGluIHBfaW50XSkKICAgIGlkeCA9IGxpc3QocmFuZ2UoTikpCiAgICBrayA9IG1heCgxLCBpbnQocm91bmQoWGYgKiBOKSkpCgogICAgZGVmIGJpdHMoUywgbG09bGFtKToKICAgICAgICBTcyA9IHNldChTKQogICAgICAgIHJldHVybiBtZWFuKFtsMigoMSAtIGxtKSAqIHBfaW50W2ldICsgbG0gKiBwX2V4dFtpXSkgaWYgaSBpbiBTcwogICAgICAgICAgICAgICAgICAgICBlbHNlIGwyKHBfaW50W2ldKSBmb3IgaSBpbiBpZHhdKQoKICAgIGJ5X2FkdiA9IHNvcnRlZChpZHgsIGtleT1sYW1iZGEgaTogbWF0aC5sb2cyKHBfZXh0W2ldKSAtIG1hdGgubG9nMihwX2ludFtpXSksCiAgICAgICAgICAgICAgICAgICAgcmV2ZXJzZT1UcnVlKQogICAgYnlfaCA9IHNvcnRlZChpZHgsIGtleT1sYW1iZGEgaTogSHNbaV0sIHJldmVyc2U9VHJ1ZSkKICAgIHJuZCA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIHJyID0gW2JpdHMocm5kLnNhbXBsZShpZHgsIGtrKSkgZm9yIF8gaW4gcmFuZ2UoNildCiAgICByZXR1cm4geydjdXQnOiBjdXRfZnJhYywgJ2Jhc2UnOiBiYXNlLAogICAgICAgICAgICAnYnlfYWR2JzogYml0cyhieV9hZHZbOmtrXSkgLSBiYXNlLAogICAgICAgICAgICAnYnlfSCc6IGJpdHMoYnlfaFs6a2tdKSAtIGJhc2UsCiAgICAgICAgICAgICdyYW5kJzogbWVhbihycikgLSBiYXNlLAogICAgICAgICAgICAnYWxsJzogYml0cyhpZHgpIC0gYmFzZX0KCgpkZWYgbWFpbigpOgogICAgdSA9IGxvYWQoVSkKICAgIEUgPSBsb2FkKEJBU0UgKyAnL2V4dGVybmFsLnR4dCcpCiAgICBybmQgPSByYW5kb20uUmFuZG9tKDcpCiAgICBFcyA9IGxpc3QoRSkKICAgIHJuZC5zaHVmZmxlKEVzKQogICAgRV9zaHVmID0gJycuam9pbihFcykKICAgIGN1dHMgPSBbMC43MCwgMC43NSwgMC44MCwgMC44NV0KICAgIG91dCA9IHt9CiAgICBmb3IgbmFtZSwgZkUgaW4gWygncmVhbCcsIGxhbWJkYSBjOiBFKSwKICAgICAgICAgICAgICAgICAgICAgKCdzaHVmZmxlZCcsIGxhbWJkYSBjOiBFX3NodWYpLAogICAgICAgICAgICAgICAgICAgICAoJ3NlbGYnLCBsYW1iZGEgYzogdVs6aW50KGxlbih1KSAqIGMpXSldOgogICAgICAgIHJzID0gW3J1bih1LCBmRShjKSwgYykgZm9yIGMgaW4gY3V0c10KICAgICAgICBvdXRbbmFtZV0gPSBycwogICAgICAgIHByaW50KCclOXMgIOaMieS8mOWKv+mAiSUrLjRmICDmjIlI6YCJJSsuNGYgIOmaj+acuiUrLjRmICDlhajnm5glKy40ZicKICAgICAgICAgICAgICAlIChuYW1lLCBtZWFuKFtyWydieV9hZHYnXSBmb3IgciBpbiByc10pLAogICAgICAgICAgICAgICAgIG1lYW4oW3JbJ2J5X0gnXSBmb3IgciBpbiByc10pLAogICAgICAgICAgICAgICAgIG1lYW4oW3JbJ3JhbmQnXSBmb3IgciBpbiByc10pLAogICAgICAgICAgICAgICAgIG1lYW4oW3JbJ2FsbCddIGZvciByIGluIHJzXSkpKQogICAgd2l0aCBvcGVuKEJBU0UgKyAnL3Jlc3VsdDE3OGQuanNvbicsICd3JywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAob3V0LCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+178d: 收益到底来自"搜到的信息"还是"只是平滑"?
+对照: 真外部 / 打乱的外部(保留字符频率破坏顺序) / 自己当外部
+策略: 按(外部-内部)优势选位, lambda=0.20
+"""
+import json, math, random, sys
+sys.path.insert(0, '/data/workspace/luoshen-o1/experiments/exp178_search')
+from run178 import NG, H_of, l2, mean, load, BASE, U
+
+
+def run(u, E_text, cut_frac, order=2, Xf=0.3, lam=0.2, seed=0):
+    n = len(u)
+    cut = int(n * cut_frac)
+    Itr, T = u[:cut], u[cut:]
+    vocab = set(Itr) | set(E_text) | set(T)
+    MI, ME = NG(Itr, order, vocab), NG(E_text, order, vocab)
+    padded = Itr + T
+    p_int, p_ext, Hs = [], [], []
+    for i in range(len(T)):
+        pos = cut + i
+        ctx = padded[max(0, pos - order):pos]
+        a = T[i]
+        di, de = MI.dist(ctx), ME.dist(ctx)
+        p_int.append(di.get(a, 1e-12))
+        p_ext.append(de.get(a, 1e-12))
+        Hs.append(H_of(di))
+    N = len(T)
+    base = mean([l2(p) for p in p_int])
+    idx = list(range(N))
+    kk = max(1, int(round(Xf * N)))
+
+    def bits(S, lm=lam):
+        Ss = set(S)
+        return mean([l2((1 - lm) * p_int[i] + lm * p_ext[i]) if i in Ss
+                     else l2(p_int[i]) for i in idx])
+
+    by_adv = sorted(idx, key=lambda i: math.log2(p_ext[i]) - math.log2(p_int[i]),
+                    reverse=True)
+    by_h = sorted(idx, key=lambda i: Hs[i], reverse=True)
+    rnd = random.Random(seed)
+    rr = [bits(rnd.sample(idx, kk)) for _ in range(6)]
+    return {'cut': cut_frac, 'base': base,
+            'by_adv': bits(by_adv[:kk]) - base,
+            'by_H': bits(by_h[:kk]) - base,
+            'rand': mean(rr) - base,
+            'all': bits(idx) - base}
+
+
+def main():
+    u = load(U)
+    E = load(BASE + '/external.txt')
+    rnd = random.Random(7)
+    Es = list(E)
+    rnd.shuffle(Es)
+    E_shuf = ''.join(Es)
+    cuts = [0.70, 0.75, 0.80, 0.85]
+    out = {}
+    for name, fE in [('real', lambda c: E),
+                     ('shuffled', lambda c: E_shuf),
+                     ('self', lambda c: u[:int(len(u) * c)])]:
+        rs = [run(u, fE(c), c) for c in cuts]
+        out[name] = rs
+        print('%9s  按优势选%+.4f  按H选%+.4f  随机%+.4f  全盘%+.4f'
+              % (name, mean([r['by_adv'] for r in rs]),
+                 mean([r['by_H'] for r in rs]),
+                 mean([r['rand'] for r in rs]),
+                 mean([r['all'] for r in rs])))
+    with open(BASE + '/result178d.json', 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+
+
+if __name__ == '__main__':
+    main()

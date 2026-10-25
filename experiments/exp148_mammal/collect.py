@@ -1,1 +1,39 @@
-aW1wb3J0IG9zLCB0aW1lLCB0aHJlYWRpbmcsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCkxPQUQ9WzBdOyBTVE9QPVtGYWxzZV0KZGVmIHdvcmtlcigpOgogICAgd2hpbGUgbm90IFNUT1BbMF06CiAgICAgICAgbj1MT0FEWzBdCiAgICAgICAgaWYgbjoKICAgICAgICAgICAgcz0wCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKG4pOiBzKz1pKmkKICAgICAgICBlbHNlOiB0aW1lLnNsZWVwKDAuMDAxKQp0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD13b3JrZXIsZGFlbW9uPVRydWUpLnN0YXJ0KCkKZGVmIHdvcmsoaz00MDAwMCk6CiAgICBzPTAKICAgIGZvciBpIGluIHJhbmdlKGspOiBzKz1pCiAgICByZXR1cm4gcwpkZWYgbWVhc3VyZSgpOgogICAgdDA9dGltZS5wZXJmX2NvdW50ZXIoKTsgd29yaygpOyByZXR1cm4gKHRpbWUucGVyZl9jb3VudGVyKCktdDApKjEwMDAuMAoKTj0zMDA7IFNFRURTPTgKb3V0PXt9CmZvciBwIGluIFsnc3RhYmxlJywnZHJpZnQnLCdzcXVhcmUnXToKICAgIHNlcXM9W10KICAgIGZvciBzIGluIHJhbmdlKFNFRURTKToKICAgICAgICB4PVtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTik6CiAgICAgICAgICAgIGlmIHA9PSdzdGFibGUnOiBMT0FEWzBdPTAKICAgICAgICAgICAgZWxpZiBwPT0nZHJpZnQnOiBMT0FEWzBdPWludCgzMDAwMDAqKGkvTikpCiAgICAgICAgICAgIGVsc2U6IExPQURbMF09MzAwMDAwIGlmIChpLy8zMCklMiBlbHNlIDAKICAgICAgICAgICAgeC5hcHBlbmQobWVhc3VyZSgpKQogICAgICAgIGE9bnAuYXNhcnJheSh4KQogICAgICAgICMg5Y675o6J5p6B56uv56a7576k77yI6KKrIE9TIOaKouWNoOeahOmVv+Wwvu+8jD4gcDk5LjUg5oiq5pat77yM5L+d5oyB55yf5a6e5oCn5L2G6YG/5YWN5Y2V54K55pSv6YWN77yJCiAgICAgICAgYT1ucC5jbGlwKGEsIDAsIG5wLnBlcmNlbnRpbGUoYSw5OS41KSkKICAgICAgICBzZXFzLmFwcGVuZChbZmxvYXQodikgZm9yIHYgaW4gYV0pCiAgICBvdXRbcF09c2VxcwogICAgbT1bZmxvYXQobnAubWVhbihzKSkgZm9yIHMgaW4gc2Vxc10KICAgIHByaW50KHAsICJuX3NlcSIsbGVuKHNlcXMpLCAibWVhbl9yYW5nZSAlLjNmfiUuM2YiJShtaW4obSksbWF4KG0pKSkKU1RPUFswXT1UcnVlCmpzb24uZHVtcChvdXQsIG9wZW4oJ3JlYWxfc2VyaWVzLmpzb24nLCd3JykpCnByaW50KCJzYXZlZCIpCg==
+import os, time, threading, json
+import numpy as np
+LOAD=[0]; STOP=[False]
+def worker():
+    while not STOP[0]:
+        n=LOAD[0]
+        if n:
+            s=0
+            for i in range(n): s+=i*i
+        else: time.sleep(0.001)
+threading.Thread(target=worker,daemon=True).start()
+def work(k=40000):
+    s=0
+    for i in range(k): s+=i
+    return s
+def measure():
+    t0=time.perf_counter(); work(); return (time.perf_counter()-t0)*1000.0
+
+N=300; SEEDS=8
+out={}
+for p in ['stable','drift','square']:
+    seqs=[]
+    for s in range(SEEDS):
+        x=[]
+        for i in range(N):
+            if p=='stable': LOAD[0]=0
+            elif p=='drift': LOAD[0]=int(300000*(i/N))
+            else: LOAD[0]=300000 if (i//30)%2 else 0
+            x.append(measure())
+        a=np.asarray(x)
+        # 去掉极端离群（被 OS 抢占的长尾，> p99.5 截断，保持真实性但避免单点支配）
+        a=np.clip(a, 0, np.percentile(a,99.5))
+        seqs.append([float(v) for v in a])
+    out[p]=seqs
+    m=[float(np.mean(s)) for s in seqs]
+    print(p, "n_seq",len(seqs), "mean_range %.3f~%.3f"%(min(m),max(m)))
+STOP[0]=True
+json.dump(out, open('real_series.json','w'))
+print("saved")

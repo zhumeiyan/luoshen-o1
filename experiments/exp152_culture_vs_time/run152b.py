@@ -1,1 +1,39 @@
-IiIiMTUyYjogMngyIOWIhuemuyBb5q275Lqh5rWBIE9OL09GRl0geCBb57un5om/IC8g5Y2V5Lq66ZW/6LeRXQrnm67nmoTvvJrliKTmlq0gc29sbyDnmoTlgJJV6KGw6YCA5pivIuS4lueVjOeahOatu+S6oea1gSLov5jmmK8i6ZW/6LeR5pys6LqrIumAoOaIkCIiIgppbXBvcnQgc3lzLCBqc29uLCB0aW1lLCBzdGF0aXN0aWNzIGFzIHN0CnN5cy5wYXRoLmluc2VydCgwLCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNTFfaW50ZWdyYXRpb24nKQpzeXMucGF0aC5pbnNlcnQoMCwnLicpCmZyb20gd29ybGQxNTEgaW1wb3J0IFdvcmxkCmZyb20gYWdlbnQxNTIgaW1wb3J0IHJ1bgoKVD0xNTA7IE5SRVA9OApkZWYgY2kodik6CiAgICBuPWxlbih2KTsgbT1zdW0odikvbjsgcz1zdC5zdGRldih2KSBpZiBuPjEgZWxzZSAwLjAKICAgIHNlPXMvKG4qKjAuNSk7IHJldHVybiByb3VuZChtLDMpLCByb3VuZChtLTEuOTYqc2UsMyksIHJvdW5kKG0rMS45NipzZSwzKQoKdz1Xb3JsZCg1MDApCm91dD17Im1ldGEiOnsiVCI6VCwibnJlcCI6TlJFUCwibm9kZXMiOncubiwidGFyZ2V0cyI6bGVuKHcudGFyZ2V0cyl9LCJncmlkIjp7fX0KcHJpbnQoIj09IDJ4MjogREVBVEggeCBJTkhFUklUID09IikKZm9yIGRlYXRoIGluIFtUcnVlLCBGYWxzZV06CiAgICBjdWx0PXsiTDEiOlRydWUsIkw2YyI6VHJ1ZSwiREVBVEgiOmRlYXRofQogICAgc29sbz17IkwxIjpUcnVlLCJERUFUSCI6ZGVhdGh9CiAgICBmb3IgVEIgaW4gWzE1MCw2MDAsMjQwMCw5NjAwLDE5MjAwXToKICAgICAgICAjIHNvbG86IOWNleS6uumVv+i3kSBUQiDmraUKICAgICAgICB2PVtydW4odyxzb2xvLFRCLHIpWyJoaXRzIl0gZm9yIHIgaW4gcmFuZ2UoTlJFUCldCiAgICAgICAgbSxsbyxoaT1jaSh2KQogICAgICAgICMgY3VsdHVyZTog562J6aKE566XID0gRyDku6MgeCAxNTAg5q2lLCBHPVRCLy8xNTAKICAgICAgICBHPW1heCgxLFRCLy8xNTApOyBmaW49W10KICAgICAgICBmb3IgcmVwIGluIHJhbmdlKE5SRVApOgogICAgICAgICAgICBjcz17fTsgbGFzdD0wCiAgICAgICAgICAgIGZvciBnIGluIHJhbmdlKEcpOgogICAgICAgICAgICAgICAgbGFzdD1ydW4odyxjdWx0LFQscmVwKjEwMDArZyxjdWx0dXJlX3N0b3JlPWNzKVsiaGl0cyJdCiAgICAgICAgICAgIGZpbi5hcHBlbmQobGFzdCkKICAgICAgICBtMixsbzIsaGkyPWNpKGZpbikKICAgICAgICBrPSJkZWF0aF8lc19UJWQiICUgKCJPTiIgaWYgZGVhdGggZWxzZSAiT0ZGIiwgVEIpCiAgICAgICAgb3V0WyJncmlkIl1ba109eyJkZWF0aCI6ZGVhdGgsInN0ZXBzIjpUQiwic29sbyI6bSwic29sb19sbyI6bG8sInNvbG9faGkiOmhpLAogICAgICAgICAgICAgICAgICAgICAgICAiY3VsdCI6bTIsImN1bHRfbG8iOmxvMiwiY3VsdF9oaSI6aGkyLAogICAgICAgICAgICAgICAgICAgICAgICAiZGVsdGFfY3VsdF9taW51c19zb2xvIjpyb3VuZChtMi1tLDMpfQogICAgICAgIHByaW50KCIgICUtMTRzIHNvbG8gJTYuMmYgWyU2LjJmLCU2LjJmXSB8IGN1bHQgJTYuMmYgWyU2LjJmLCU2LjJmXSB8IGQgJSs3LjJmIgogICAgICAgICAgICAgICUgKGssbSxsbyxoaSxtMixsbzIsaGkyLG0yLW0pLCBmbHVzaD1UcnVlKQpqc29uLmR1bXAob3V0LG9wZW4oInJlc3VsdDE1MmIuanNvbiIsInciKSxpbmRlbnQ9MSkKcHJpbnQoInNhdmVkIHJlc3VsdDE1MmIuanNvbiIpCg==
+"""152b: 2x2 分离 [死亡流 ON/OFF] x [继承 / 单人长跑]
+目的：判断 solo 的倒U衰退是"世界的死亡流"还是"长跑本身"造成"""
+import sys, json, time, statistics as st
+sys.path.insert(0,'/data/workspace/luoshen-o1/experiments/exp151_integration')
+sys.path.insert(0,'.')
+from world151 import World
+from agent152 import run
+
+T=150; NREP=8
+def ci(v):
+    n=len(v); m=sum(v)/n; s=st.stdev(v) if n>1 else 0.0
+    se=s/(n**0.5); return round(m,3), round(m-1.96*se,3), round(m+1.96*se,3)
+
+w=World(500)
+out={"meta":{"T":T,"nrep":NREP,"nodes":w.n,"targets":len(w.targets)},"grid":{}}
+print("== 2x2: DEATH x INHERIT ==")
+for death in [True, False]:
+    cult={"L1":True,"L6c":True,"DEATH":death}
+    solo={"L1":True,"DEATH":death}
+    for TB in [150,600,2400,9600,19200]:
+        # solo: 单人长跑 TB 步
+        v=[run(w,solo,TB,r)["hits"] for r in range(NREP)]
+        m,lo,hi=ci(v)
+        # culture: 等预算 = G 代 x 150 步, G=TB//150
+        G=max(1,TB//150); fin=[]
+        for rep in range(NREP):
+            cs={}; last=0
+            for g in range(G):
+                last=run(w,cult,T,rep*1000+g,culture_store=cs)["hits"]
+            fin.append(last)
+        m2,lo2,hi2=ci(fin)
+        k="death_%s_T%d" % ("ON" if death else "OFF", TB)
+        out["grid"][k]={"death":death,"steps":TB,"solo":m,"solo_lo":lo,"solo_hi":hi,
+                        "cult":m2,"cult_lo":lo2,"cult_hi":hi2,
+                        "delta_cult_minus_solo":round(m2-m,3)}
+        print("  %-14s solo %6.2f [%6.2f,%6.2f] | cult %6.2f [%6.2f,%6.2f] | d %+7.2f"
+              % (k,m,lo,hi,m2,lo2,hi2,m2-m), flush=True)
+json.dump(out,open("result152b.json","w"),indent=1)
+print("saved result152b.json")

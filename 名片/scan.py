@@ -1,1 +1,78 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5a6e5rWL77ya5Zu96ZmF6aG257qnIEFJIOmhueebriBSRUFETUUg6aaW5bGP57uT5p6EIiIiCmltcG9ydCBqc29uLCB1cmxsaWIucmVxdWVzdCwgb3MsIHRpbWUsIHJlLCBiYXNlNjQsIHN0YXRpc3RpY3MKClQgPSBvcy5lbnZpcm9uLmdldCgiR0hfVE9LRU4iLCAiZ2hwX2NxYkhONXF2N3RSRDA5YmE1eFFMbjRzeTZOcWV0WTBXTVBpbCIpCgoKZGVmIGcocCwgdHJpZXM9Myk6CiAgICBmb3IgaSBpbiByYW5nZSh0cmllcyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCgKICAgICAgICAgICAgICAgICJodHRwczovL2FwaS5naXRodWIuY29tIiArIHAsCiAgICAgICAgICAgICAgICBoZWFkZXJzPXsiQXV0aG9yaXphdGlvbiI6ICJ0b2tlbiAiICsgVCwgIlVzZXItQWdlbnQiOiAieCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAiQWNjZXB0IjogImFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiJ9KQogICAgICAgICAgICByZXR1cm4ganNvbi5sb2Fkcyh1cmxsaWIucmVxdWVzdC51cmxvcGVuKHIsIHRpbWVvdXQ9MzApLnJlYWQoKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBpZiBpID09IHRyaWVzIC0gMToKICAgICAgICAgICAgICAgIHJhaXNlCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMTApCgoKUkVQT1MgPSBbKCJsYW5nY2hhaW4tYWkiLCAibGFuZ2NoYWluIiksICgidmxsbS1wcm9qZWN0IiwgInZsbG0iKSwgKCJvbGxhbWEiLCAib2xsYW1hIiksCiAgICAgICAgICgibGFuZ2dlbml1cyIsICJkaWZ5IiksICgicnVuLWxsYW1hIiwgImxsYW1hX2luZGV4IiksICgiaHVnZ2luZ2ZhY2UiLCAidHJhbnNmb3JtZXJzIiksCiAgICAgICAgICgiQWxsLUhhbmRzLUFJIiwgIk9wZW5IYW5kcyIpLCAoImxhbmdjaGFpbi1haSIsICJsYW5nZ3JhcGgiKSwKICAgICAgICAgKCJkZWVwc2V0LWFpIiwgImhheXN0YWNrIiksICgibWlsdnVzLWlvIiwgIm1pbHZ1cyIpLAogICAgICAgICAoImxhbmdmdXNlIiwgImxhbmdmdXNlIiksICgiY3Jld0FJSW5jIiwgImNyZXdBSSIpLAogICAgICAgICAoIm1pY3Jvc29mdCIsICJhdXRvZ2VuIiksICgiU2lnbmlmaWNhbnQtR3Jhdml0YXMiLCAiQXV0b0dQVCIpXQoKcHJpbnQoIj0iICogNzgpCnByaW50KCLlrp7mtYvvvJoxNCDkuKrlm73pmYXpobbnuqcgQUkg6aG555uuIFJFQURNRSDpppblsY/nu5PmnoQiKQpwcmludCgiPSIgKiA3OCkKcm93cyA9IFtdCmZvciBvLCByIGluIFJFUE9TOgogICAgdHJ5OgogICAgICAgIGQgPSBnKCIvcmVwb3MvJXMvJXMiICUgKG8sIHIpKQogICAgICAgIHJkID0gZygiL3JlcG9zLyVzLyVzL3JlYWRtZSIgJSAobywgcikpCiAgICAgICAgdHh0ID0gYmFzZTY0LmI2NGRlY29kZShyZFsiY29udGVudCJdKS5kZWNvZGUoInV0Zi04IiwgImlnbm9yZSIpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoIiAgJXMvJXM6IOivu+S4jeWIsCAlcyIgJSAobywgciwgcmVwcihlKVs6NjBdKSkKICAgICAgICBjb250aW51ZQogICAgbGluZXMgPSBbbCBmb3IgbCBpbiB0eHQuc3BsaXRsaW5lcygpIGlmIGwuc3RyaXAoKV0KICAgIGhlYWQgPSAiIgogICAgZm9yIGwgaW4gbGluZXM6CiAgICAgICAgcyA9IHJlLnN1YihyIjxbXj5dKz4iLCAiIiwgbCkuc3RyaXAoKQogICAgICAgIGlmIHMgYW5kIG5vdCBzLnN0YXJ0c3dpdGgoIiMiKSBhbmQgbGVuKHMpID4gODoKICAgICAgICAgICAgaGVhZCA9IHMKICAgICAgICAgICAgYnJlYWsKICAgIGJhZGdlcyA9IGxlbihyZS5maW5kYWxsKHIiIVxbW15cXV0qXF1cKCIsIHR4dFs6MzAwMF0pKQogICAgaGFzX2RlbW8gPSBib29sKHJlLnNlYXJjaChyIihkZW1vfHBsYXlncm91bmR8Y29sYWJ8dHJ5IGl0fGxpdmUpIiwgdHh0Wzo0MDAwXSwgcmUuSSkpCiAgICBoYXNfYmVuY2ggPSBib29sKHJlLnNlYXJjaChyIihiZW5jaG1hcmt8dGhyb3VnaHB1dHxsYXRlbmN5fHRva2Vucy9zfGFjY3VyYWN5fHNjb3JlKSIsIHR4dCwgcmUuSSkpCiAgICBoYXNfYXJjaCA9IGJvb2wocmUuc2VhcmNoKHIiYXJjaGl0ZWN0dXJlIiwgdHh0LCByZS5JKQogICAgICAgICAgICAgICAgICAgIG9yICJgYGBtZXJtYWlkIiBpbiB0eHQKICAgICAgICAgICAgICAgICAgICBvciByZS5zZWFyY2gociIhXFtbXlxdXSooYXJjaGl0ZWN0fGRpYWdyYW18b3ZlcnZpZXcpIiwgdHh0LCByZS5JKSkKICAgIGhhc19pbnN0YWxsID0gYm9vbChyZS5zZWFyY2gociIocGlwIGluc3RhbGx8ZG9ja2VyIHJ1bnxucG0gaXxxdWlja3N0YXJ0fGdldHRpbmcgc3RhcnRlZCkiLCB0eHQsIHJlLkkpKQogICAgcm93cy5hcHBlbmQoKGYie299L3tyfSIsIGQuZ2V0KCJzdGFyZ2F6ZXJzX2NvdW50IiwgMCksIGxlbihoZWFkKSwgYmFkZ2VzLAogICAgICAgICAgICAgICAgIGhhc19kZW1vLCBoYXNfYmVuY2gsIGhhc19hcmNoLCBoYXNfaW5zdGFsbCwgaGVhZCkpCiAgICBwcmludCgiXG4gICVzLyVzICDimIUlcyIgJSAobywgciwgZC5nZXQoInN0YXJnYXplcnNfY291bnQiLCAwKSkpCiAgICBwcmludCgiICAgIHRhZ2xpbmU6ICVzIiAlIGhlYWRbOjc4XSkKICAgIHByaW50KCIgICAg5b6956ugJWTkuKogIOWcqOe6v+ivleeOqSVzICBiZW5jaG1hcmslcyAg5p625p6E5Zu+JXMgIOWuieijheautSVzIiAlCiAgICAgICAgICAoYmFkZ2VzLCAi4pyFIiBpZiBoYXNfZGVtbyBlbHNlICLigJQiLCAi4pyFIiBpZiBoYXNfYmVuY2ggZWxzZSAi4oCUIiwKICAgICAgICAgICAi4pyFIiBpZiBoYXNfYXJjaCBlbHNlICLigJQiLCAi4pyFIiBpZiBoYXNfaW5zdGFsbCBlbHNlICLigJQiKSkKICAgIHRpbWUuc2xlZXAoMS4yKQoKcHJpbnQoIlxuIiArICI9IiAqIDc4KQpuID0gbGVuKHJvd3MpCnByaW50KCLmoLfmnKwgJWQg5LiqIiAlIG4pCmZvciBsYmwsIGlkeCBpbiBbKCLmnInlnKjnur/or5XnjqkiLCA0KSwgKCLmnIliZW5jaG1hcmsiLCA1KSwgKCLmnInmnrbmnoTlm74iLCA2KSwgKCLmnInlronoo4XmrrUiLCA3KV06CiAgICBjID0gc3VtKDEgZm9yIHIgaW4gcm93cyBpZiByW2lkeF0pCiAgICBwcmludCgiICAlLTEycyAlZC8lZCAgKCUuMGYlJSkiICUgKGxibCwgYywgbiwgMTAwLjAgKiBjIC8gbikpCnRsID0gW3JbMl0gZm9yIHIgaW4gcm93cyBpZiByWzJdXQppZiB0bDoKICAgIHByaW50KCIgIHRhZ2xpbmUg6ZW/5bqm5Lit5L2N5pWwIOKJiCAlZCDlrZfnrKYiICUgc29ydGVkKHRsKVtsZW4odGwpIC8vIDJdKQogICAgcHJpbnQoIiAg5b6956ug5pWw5Lit5L2N5pWwICVzIiAlIHN0YXRpc3RpY3MubWVkaWFuKFtyWzNdIGZvciByIGluIHJvd3NdKSkKCmpzb24uZHVtcChbeyJyZXBvIjogclswXSwgInN0YXJzIjogclsxXSwgInRhZ2xpbmUiOiByWzhdLCAiYmFkZ2VzIjogclszXSwKICAgICAgICAgICAgImRlbW8iOiByWzRdLCAiYmVuY2giOiByWzVdLCAiYXJjaCI6IHJbNl0sICJpbnN0YWxsIjogcls3XX0gZm9yIHIgaW4gcm93c10sCiAgICAgICAgICBvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS/lkI3niYcvc2Nhbi5qc29uIiwgInciKSwKICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+# -*- coding: utf-8 -*-
+"""实测：国际顶级 AI 项目 README 首屏结构"""
+import json, urllib.request, os, time, re, base64, statistics
+
+T = os.environ.get("GH_TOKEN", "ghp_REDACTED")
+
+
+def g(p, tries=3):
+    for i in range(tries):
+        try:
+            r = urllib.request.Request(
+                "https://api.github.com" + p,
+                headers={"Authorization": "token " + T, "User-Agent": "x",
+                         "Accept": "application/vnd.github+json"})
+            return json.loads(urllib.request.urlopen(r, timeout=30).read())
+        except Exception:
+            if i == tries - 1:
+                raise
+            time.sleep(10)
+
+
+REPOS = [("langchain-ai", "langchain"), ("vllm-project", "vllm"), ("ollama", "ollama"),
+         ("langgenius", "dify"), ("run-llama", "llama_index"), ("huggingface", "transformers"),
+         ("All-Hands-AI", "OpenHands"), ("langchain-ai", "langgraph"),
+         ("deepset-ai", "haystack"), ("milvus-io", "milvus"),
+         ("langfuse", "langfuse"), ("crewAIInc", "crewAI"),
+         ("microsoft", "autogen"), ("Significant-Gravitas", "AutoGPT")]
+
+print("=" * 78)
+print("实测：14 个国际顶级 AI 项目 README 首屏结构")
+print("=" * 78)
+rows = []
+for o, r in REPOS:
+    try:
+        d = g("/repos/%s/%s" % (o, r))
+        rd = g("/repos/%s/%s/readme" % (o, r))
+        txt = base64.b64decode(rd["content"]).decode("utf-8", "ignore")
+    except Exception as e:
+        print("  %s/%s: 读不到 %s" % (o, r, repr(e)[:60]))
+        continue
+    lines = [l for l in txt.splitlines() if l.strip()]
+    head = ""
+    for l in lines:
+        s = re.sub(r"<[^>]+>", "", l).strip()
+        if s and not s.startswith("#") and len(s) > 8:
+            head = s
+            break
+    badges = len(re.findall(r"!\[[^\]]*\]\(", txt[:3000]))
+    has_demo = bool(re.search(r"(demo|playground|colab|try it|live)", txt[:4000], re.I))
+    has_bench = bool(re.search(r"(benchmark|throughput|latency|tokens/s|accuracy|score)", txt, re.I))
+    has_arch = bool(re.search(r"architecture", txt, re.I)
+                    or "```mermaid" in txt
+                    or re.search(r"!\[[^\]]*(architect|diagram|overview)", txt, re.I))
+    has_install = bool(re.search(r"(pip install|docker run|npm i|quickstart|getting started)", txt, re.I))
+    rows.append((f"{o}/{r}", d.get("stargazers_count", 0), len(head), badges,
+                 has_demo, has_bench, has_arch, has_install, head))
+    print("\n  %s/%s  ★%s" % (o, r, d.get("stargazers_count", 0)))
+    print("    tagline: %s" % head[:78])
+    print("    徽章%d个  在线试玩%s  benchmark%s  架构图%s  安装段%s" %
+          (badges, "✅" if has_demo else "—", "✅" if has_bench else "—",
+           "✅" if has_arch else "—", "✅" if has_install else "—"))
+    time.sleep(1.2)
+
+print("\n" + "=" * 78)
+n = len(rows)
+print("样本 %d 个" % n)
+for lbl, idx in [("有在线试玩", 4), ("有benchmark", 5), ("有架构图", 6), ("有安装段", 7)]:
+    c = sum(1 for r in rows if r[idx])
+    print("  %-12s %d/%d  (%.0f%%)" % (lbl, c, n, 100.0 * c / n))
+tl = [r[2] for r in rows if r[2]]
+if tl:
+    print("  tagline 长度中位数 ≈ %d 字符" % sorted(tl)[len(tl) // 2])
+    print("  徽章数中位数 %s" % statistics.median([r[3] for r in rows]))
+
+json.dump([{"repo": r[0], "stars": r[1], "tagline": r[8], "badges": r[3],
+            "demo": r[4], "bench": r[5], "arch": r[6], "install": r[7]} for r in rows],
+          open("/data/workspace/luoshen-o1/名片/scan.json", "w"),
+          ensure_ascii=False, indent=1)

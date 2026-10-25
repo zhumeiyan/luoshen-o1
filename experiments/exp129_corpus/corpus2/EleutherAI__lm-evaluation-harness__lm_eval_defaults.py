@@ -1,1 +1,51 @@
-aW1wb3J0IG9zCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCgpERUZBVUxUX01BWF9MRU5HVEggPSAyMDQ4CkRFRkFVTFRfTUFYX0dFTl9UT0tTID0gMjU2CkRFRkFVTFRfUkFORE9NX1NFRUQgPSAwCkRFRkFVTFRfT1RIRVJfU0VFRCA9IDEyMzQKCiMgRW52aXJvbm1lbnQgdmFyaWFibGVzCgoKZGVmIF9zdHJ0b2Jvb2wodmFsOiBzdHIpIC0+IGJvb2w6CiAgICAiIiJDb252ZXJ0IGEgc3RyaW5nIHJlcHJlc2VudGF0aW9uIG9mIHRydXRoIHRvIGEgYm9vbC4iIiIKICAgIF9UUlVUSFkgPSB7IjEiLCAidHJ1ZSIsICJ5ZXMiLCAib24ifQogICAgX0ZBTFNZID0geyIwIiwgImZhbHNlIiwgIm5vIiwgIm9mZiIsICIifQogICAgdmFsID0gdmFsLmxvd2VyKCkKICAgIGlmIHZhbCBpbiBfVFJVVEhZOgogICAgICAgIHJldHVybiBUcnVlCiAgICBpZiB2YWwgaW4gX0ZBTFNZOgogICAgICAgIHJldHVybiBGYWxzZQogICAgcmFpc2UgVmFsdWVFcnJvcihmImludmFsaWQgdHJ1dGggdmFsdWUge3ZhbCFyfSIpCgoKZGVmIF9lbnZib29sKHZhcjogc3RyLCBkZWZhdWx0OiBib29sID0gRmFsc2UpIC0+IGJvb2w6CiAgICAiIiJSZWFkIGFuIGVudmlyb25tZW50IHZhcmlhYmxlIGFzIGEgYm9vbC4iIiIKICAgIHZhbCA9IG9zLmVudmlyb24uZ2V0KHZhcikKICAgIGlmIHZhbCBpcyBOb25lOgogICAgICAgIHJldHVybiBkZWZhdWx0CiAgICByZXR1cm4gX3N0cnRvYm9vbCh2YWwpCgoKTE9HR0lOR19MRVZFTCA9IG9zLmVudmlyb24uZ2V0KCJMTUVWQUxfTE9HX0xFVkVMIiwgIklORk8iKQpMTUVWQUxfSEFTSE1NID0gX2VudmJvb2woIkxNRVZBTF9IQVNITU0iLCBkZWZhdWx0PVRydWUpCkRJU0FCTEVfTVVMVElQUk9DID0gX2VudmJvb2woIkxNRVZBTF9ESVNBQkxFX01VTFRJUFJPQyIsIGRlZmF1bHQ9RmFsc2UpCgoKZGVmIGRlZmF1bHRfZ2VuX2t3YXJncygKICAgIHVudGlsOiBzdHIgfCBsaXN0W3N0cl0gfCBOb25lLCBtYXhfZ2VuX3Rva3M6IGludCA9IERFRkFVTFRfTUFYX0dFTl9UT0tTCikgLT4gZGljdFtzdHIsIEFueV06CiAgICAiIiJSZXR1cm5zIGRlZmF1bHQgZ2VuZXJhdGlvbiBrd2FyZ3MgZm9yIExNIGV2YWx1YXRpb24uIiIiCiAgICBfZ2VuID0gewogICAgICAgICJ0ZW1wZXJhdHVyZSI6IDAuMCwKICAgICAgICAiZG9fc2FtcGxlIjogRmFsc2UsCiAgICAgICAgIm1heF9nZW5fdG9rcyI6IG1heF9nZW5fdG9rcywKICAgIH0KICAgIGlmIHVudGlsIGlzIG5vdCBOb25lOgogICAgICAgIF9nZW5bInVudGlsIl0gPSBbdW50aWxdIGlmIGlzaW5zdGFuY2UodW50aWwsIHN0cikgZWxzZSB1bnRpbAogICAgZWxzZToKICAgICAgICBfZ2VuWyJ1bnRpbCJdID0gW10KICAgIHJldHVybiBfZ2VuCg==
+import os
+from typing import Any
+
+
+DEFAULT_MAX_LENGTH = 2048
+DEFAULT_MAX_GEN_TOKS = 256
+DEFAULT_RANDOM_SEED = 0
+DEFAULT_OTHER_SEED = 1234
+
+# Environment variables
+
+
+def _strtobool(val: str) -> bool:
+    """Convert a string representation of truth to a bool."""
+    _TRUTHY = {"1", "true", "yes", "on"}
+    _FALSY = {"0", "false", "no", "off", ""}
+    val = val.lower()
+    if val in _TRUTHY:
+        return True
+    if val in _FALSY:
+        return False
+    raise ValueError(f"invalid truth value {val!r}")
+
+
+def _envbool(var: str, default: bool = False) -> bool:
+    """Read an environment variable as a bool."""
+    val = os.environ.get(var)
+    if val is None:
+        return default
+    return _strtobool(val)
+
+
+LOGGING_LEVEL = os.environ.get("LMEVAL_LOG_LEVEL", "INFO")
+LMEVAL_HASHMM = _envbool("LMEVAL_HASHMM", default=True)
+DISABLE_MULTIPROC = _envbool("LMEVAL_DISABLE_MULTIPROC", default=False)
+
+
+def default_gen_kwargs(
+    until: str | list[str] | None, max_gen_toks: int = DEFAULT_MAX_GEN_TOKS
+) -> dict[str, Any]:
+    """Returns default generation kwargs for LM evaluation."""
+    _gen = {
+        "temperature": 0.0,
+        "do_sample": False,
+        "max_gen_toks": max_gen_toks,
+    }
+    if until is not None:
+        _gen["until"] = [until] if isinstance(until, str) else until
+    else:
+        _gen["until"] = []
+    return _gen

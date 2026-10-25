@@ -1,1 +1,149 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTQ2IHYzIOS4u+WunumqjO+8muigleiZq+agvOiwg+W6puWZqO+8jOWPjOecn+WunuWcsOW9ouWvueeFpwoK5Zyw5b2iQe+8iOecn+WunsK35peg57uT5p6E77yJ77ya55uu5b2V6Lev5b6EIC0+IOebruW9leWGheWuuSAgICAgcHJldGVzdCByYXRpbyAxLjA5MzYgTk8K5Zyw5b2iQu+8iOecn+WunsK35pyJ57uT5p6E77yJ77ya5paH5Lu26Lev5b6EIC0+IOaWh+S7tueJqeeQhuWxnuaApyAgcHJldGVzdCByYXRpbyAwLjY1ODIgWUVTCgrkuJbnlYzmqKHlnovvvJrlsq3lm57lvZLpl63lvI/op6PvvIh2MiDnmoQgU0dEIOW3suivgeaYjuWPkeaVo++8jOW8g+eUqO+8iQrpqbHliqjvvJpub3ZlbHR5ID0g5ZyoIHBhdGhfZmVhdCDnqbrpl7TkuK3liLDlt7LmjqLntKLpm4blkIjnmoTmnIDlsI/ot53nprvvvIjkuI3lgbfnnIsgdHJ1dGjvvIkKCumqjOaUtu+8mgogIEcxIG5vX2RyaXZlIOiHquWPkeeOhyA9PSAwCiAgRzIg5Zyw5b2iQiDliYLph4/ljZXosIPvvJphbnRpID4gcmFuZG9tID4gY3VyaW9zaXR577yI6K+v5beu77yJCiAgRzMg5Zyw5b2iQSDml6Dlt67lvILvvIjlpb3lpYfpgIDljJbkuLrpmo/mnLrvvInigJTigJQg55yf5a6e5LiW55WM55qE6Zi05oCn5a+554Wn77yM6Z2e5ZCI5oiQCiIiIgppbXBvcnQgb3MKaW1wb3J0IGpzb24KaW1wb3J0IHJhbmRvbQppbXBvcnQgbnVtcHkgYXMgbnAKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKCgpkZWYgcmlkZ2VfZml0KFgsIFksIGxhbT0xLjApOgogICAgQSA9IFguVCBAIFggKyBsYW0gKiBucC5leWUoWC5zaGFwZVsxXSkKICAgIHJldHVybiBucC5saW5hbGcuc29sdmUoQSwgWC5UIEAgWSkKCgpkZWYgZ2VuX2VycihYcywgWXMsIHNjYW5uZWQpOgogICAgIiIi5rOb5YyW6K+v5beu77ya5YWo6YOo6IqC54K577yI5ZCr5pyq6K6/6Zeu77yJIiIiCiAgICBpZiBsZW4oc2Nhbm5lZCkgPT0gMDoKICAgICAgICAjIOacquWtpuS5oO+8mumihOa1iyAwIOWQkemHjwogICAgICAgIHJldHVybiBmbG9hdChucC5tZWFuKG5wLmxpbmFsZy5ub3JtKFlzLCBheGlzPTEpKSkKICAgIGlkeCA9IHNvcnRlZChzY2FubmVkKQogICAgVyA9IHJpZGdlX2ZpdChYc1tpZHhdLCBZc1tpZHhdKQogICAgUCA9IFhzIEAgVwogICAgcmV0dXJuIGZsb2F0KG5wLm1lYW4obnAubGluYWxnLm5vcm0oUCAtIFlzLCBheGlzPTEpKSkKCgpkZWYgbm92ZWx0eV9vZihYcywgaSwgc2Nhbm5lZCk6CiAgICAiIiLkuI3noa7lrprmgKfkvLDorqHvvJrliLDlt7LmjqLntKLpm4blkIjnmoTmnIDlsI/ot53nprvvvIjkuI3lgbfnnIsgdHJ1dGjvvIkiIiIKICAgIGlmIGkgaW4gc2Nhbm5lZDoKICAgICAgICByZXR1cm4gMC4wCiAgICBpZiBub3Qgc2Nhbm5lZDoKICAgICAgICByZXR1cm4gMS4wCiAgICBkID0gbnAubGluYWxnLm5vcm0oWHNbbGlzdChzY2FubmVkKV0gLSBYc1tpXSwgYXhpcz0xKQogICAgcmV0dXJuIGZsb2F0KGQubWluKCkpCgoKZGVmIHJ1bihYcywgWXMsIGRyaXZlLCBuX3N0ZXBzPTMwLCBzZWVkPTAsIGVwcz0wLjA1LCB3X2I9MC4zLCB3X2c9MC4yKToKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgIG4gPSBsZW4oWHMpCiAgICBzY2FubmVkID0gc2V0KCkKICAgIGxhc3QgPSB7aTogLTEgZm9yIGkgaW4gcmFuZ2Uobil9CiAgICB0ID0gMAogICAgZ19zZWxmID0gMS4wCiAgICByZWNlbnRfZ2FpbiA9IDAuMAogICAgc3BvbnQgPSAwCiAgICBjdXJ2ZSA9IFtdCiAgICBiYXNlID0gZ2VuX2VycihYcywgWXMsIHNjYW5uZWQpCgogICAgZm9yIF8gaW4gcmFuZ2Uobl9zdGVwcyk6CiAgICAgICAgaWYgZHJpdmUgPT0gIm5vX2RyaXZlIjoKICAgICAgICAgICAgdCArPSAxCiAgICAgICAgICAgIGN1cnZlLmFwcGVuZChnZW5fZXJyKFhzLCBZcywgc2Nhbm5lZCkpCiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIGNhbmQgPSBbaSBmb3IgaSBpbiByYW5nZShuKSBpZiBpIG5vdCBpbiBzY2FubmVkXQogICAgICAgIGlmIG5vdCBjYW5kOgogICAgICAgICAgICBjYW5kID0gbGlzdChyYW5nZShuKSkKCiAgICAgICAgbm92ID0ge2k6IG5vdmVsdHlfb2YoWHMsIGksIHNjYW5uZWQpIGZvciBpIGluIGNhbmR9CiAgICAgICAgYm9yZSA9IHtpOiAoMS4wIGlmIGxhc3RbaV0gPCAwIGVsc2UKICAgICAgICAgICAgICAgICAgICBtaW4oMS4wLCAodCAtIGxhc3RbaV0pIC8gbWF4KDEsIG4gKiAwLjUpKSkgZm9yIGkgaW4gY2FuZH0KICAgICAgICBsZXZlbCA9IChzdW0obm92LnZhbHVlcygpKSAvIGxlbihjYW5kKQogICAgICAgICAgICAgICAgICsgd19iICogc3VtKGJvcmUudmFsdWVzKCkpIC8gbGVuKGNhbmQpCiAgICAgICAgICAgICAgICAgKyB3X2cgKiAoMS4wIC0gZ19zZWxmKSkKICAgICAgICBpZiBsZXZlbCA8PSAwLjA6CiAgICAgICAgICAgIHQgKz0gMQogICAgICAgICAgICBjdXJ2ZS5hcHBlbmQoZ2VuX2VycihYcywgWXMsIHNjYW5uZWQpKQogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBpZiBybmcucmFuZG9tKCkgPCBlcHM6CiAgICAgICAgICAgIHBpY2sgPSBybmcuY2hvaWNlKGNhbmQpCiAgICAgICAgZWxpZiBkcml2ZSA9PSAiY3VyaW9zaXR5IjoKICAgICAgICAgICAgcGljayA9IG1heChjYW5kLCBrZXk9bGFtYmRhIGk6IG5vdltpXSArIHdfYiAqIGJvcmVbaV0pCiAgICAgICAgZWxpZiBkcml2ZSA9PSAiYW50aSI6CiAgICAgICAgICAgIHBpY2sgPSBtaW4oY2FuZCwga2V5PWxhbWJkYSBpOiBub3ZbaV0gKyB3X2IgKiBib3JlW2ldKQogICAgICAgIGVsc2U6ICAjIHJhbmRvbQogICAgICAgICAgICBwaWNrID0gcm5nLmNob2ljZShjYW5kKQoKICAgICAgICBiZWZvcmUgPSBnZW5fZXJyKFhzLCBZcywgc2Nhbm5lZCkKICAgICAgICBzY2FubmVkLmFkZChwaWNrKQogICAgICAgIGxhc3RbcGlja10gPSB0CiAgICAgICAgYWZ0ZXIgPSBnZW5fZXJyKFhzLCBZcywgc2Nhbm5lZCkKICAgICAgICBnYWluID0gbWF4KDAuMCwgYmVmb3JlIC0gYWZ0ZXIpCiAgICAgICAgcmVjZW50X2dhaW4gPSAwLjkgKiByZWNlbnRfZ2FpbiArIDAuMSAqIGdhaW4KICAgICAgICBnX3NlbGYgPSBtaW4oMS4wLCByZWNlbnRfZ2FpbiAvIDAuMDIpCiAgICAgICAgc3BvbnQgKz0gMQogICAgICAgIHQgKz0gMQogICAgICAgIGN1cnZlLmFwcGVuZChhZnRlcikKCiAgICByZXR1cm4gewogICAgICAgICJkcml2ZSI6IGRyaXZlLAogICAgICAgICJzcG9udCI6IHNwb250LAogICAgICAgICJzcG9udF9yYXRlIjogc3BvbnQgLyBuX3N0ZXBzLAogICAgICAgICJiYXNlX2VyciI6IGJhc2UsCiAgICAgICAgImZpbmFsX2VyciI6IGN1cnZlWy0xXSwKICAgICAgICAiZXJyX2F1YyI6IGZsb2F0KG5wLm1lYW4oY3VydmUpKSwKICAgICAgICAiY292ZXJhZ2UiOiBsZW4oc2Nhbm5lZCkgLyBuLAogICAgICAgICJnYWluIjogYmFzZSAtIGN1cnZlWy0xXSwKICAgIH0KCgpkZWYgbWFpbigpOgogICAgb3V0ID0geyJhcm1zIjogWyJub19kcml2ZSIsICJhbnRpIiwgInJhbmRvbSIsICJjdXJpb3NpdHkiXSwKICAgICAgICAgICAibl9zdGVwcyI6IDMwLCAic2VlZHMiOiAxMCwgInJlcyI6IHt9fQogICAgZm9yIHRhZyBpbiBbIkEiLCAiQiJdOgogICAgICAgIFggPSBucC5sb2FkKG9zLnBhdGguam9pbihIRVJFLCBmIlh7JzMnIGlmIHRhZz09J0EnIGVsc2UgJzQnfS5ucHkiKSkKICAgICAgICBZID0gbnAubG9hZChvcy5wYXRoLmpvaW4oSEVSRSwgZiJZeyczJyBpZiB0YWc9PSdBJyBlbHNlICc0J30ubnB5IikpCiAgICAgICAgWHMgPSAoWCAtIFgubWVhbigwKSkgLyAoWC5zdGQoMCkgKyAxZS05KQogICAgICAgIFlzID0gKFkgLSBZLm1lYW4oMCkpIC8gKFkuc3RkKDApICsgMWUtOSkKICAgICAgICBwcmludChmIlt0ZXJyYWluIHt0YWd9XSBuPXtsZW4oWHMpfSBYZGltPXtYcy5zaGFwZVsxXX0gWWRpbT17WXMuc2hhcGVbMV19IikKICAgICAgICBvdXRbInJlcyJdW3RhZ10gPSB7Im4iOiBpbnQobGVuKFhzKSl9CiAgICAgICAgZm9yIGFybSBpbiBvdXRbImFybXMiXToKICAgICAgICAgICAgcnVucyA9IFtydW4oWHMsIFlzLCBhcm0sIG5fc3RlcHM9MzAsIHNlZWQ9cykgZm9yIHMgaW4gcmFuZ2UoMTApXQogICAgICAgICAgICBhZ2cgPSB7CiAgICAgICAgICAgICAgICAic3BvbnRfcmF0ZSI6IGZsb2F0KG5wLm1lYW4oW3JbInNwb250X3JhdGUiXSBmb3IgciBpbiBydW5zXSkpLAogICAgICAgICAgICAgICAgImZpbmFsX2VyciI6IGZsb2F0KG5wLm1lYW4oW3JbImZpbmFsX2VyciJdIGZvciByIGluIHJ1bnNdKSksCiAgICAgICAgICAgICAgICAiZXJyX2F1YyI6IGZsb2F0KG5wLm1lYW4oW3JbImVycl9hdWMiXSBmb3IgciBpbiBydW5zXSkpLAogICAgICAgICAgICAgICAgImJhc2VfZXJyIjogZmxvYXQobnAubWVhbihbclsiYmFzZV9lcnIiXSBmb3IgciBpbiBydW5zXSkpLAogICAgICAgICAgICAgICAgImdhaW4iOiBmbG9hdChucC5tZWFuKFtyWyJnYWluIl0gZm9yIHIgaW4gcnVuc10pKSwKICAgICAgICAgICAgICAgICJjb3ZlcmFnZSI6IGZsb2F0KG5wLm1lYW4oW3JbImNvdmVyYWdlIl0gZm9yIHIgaW4gcnVuc10pKSwKICAgICAgICAgICAgICAgICJwZXJfc2VlZF9hdWMiOiBbcm91bmQoclsiZXJyX2F1YyJdLCA2KSBmb3IgciBpbiBydW5zXSwKICAgICAgICAgICAgICAgICJwZXJfc2VlZF9maW5hbCI6IFtyb3VuZChyWyJmaW5hbF9lcnIiXSwgNikgZm9yIHIgaW4gcnVuc10sCiAgICAgICAgICAgIH0KICAgICAgICAgICAgb3V0WyJyZXMiXVt0YWddW2FybV0gPSBhZ2cKICAgICAgICAgICAgcHJpbnQoZiIgIHt0YWd9IHthcm06MTBzfSBzcG9udD17YWdnWydzcG9udF9yYXRlJ106LjNmfSAiCiAgICAgICAgICAgICAgICAgIGYiYmFzZT17YWdnWydiYXNlX2VyciddOi40Zn0gYXVjPXthZ2dbJ2Vycl9hdWMnXTouNGZ9ICIKICAgICAgICAgICAgICAgICAgZiJmaW5hbD17YWdnWydmaW5hbF9lcnInXTouNGZ9IGdhaW49e2FnZ1snZ2FpbiddOisuNGZ9IikKCiAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICJyZXN1bHQxNDYuanNvbiIpLCAidyIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKG91dCwgZiwgaW5kZW50PTIpCiAgICBwcmludCgic2F2ZWQgcmVzdWx0MTQ2Lmpzb24iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp146 v3 主实验：蠕虫格调度器，双真实地形对照
+
+地形A（真实·无结构）：目录路径 -> 目录内容     pretest ratio 1.0936 NO
+地形B（真实·有结构）：文件路径 -> 文件物理属性  pretest ratio 0.6582 YES
+
+世界模型：岭回归闭式解（v2 的 SGD 已证明发散，弃用）
+驱动：novelty = 在 path_feat 空间中到已探索集合的最小距离（不偷看 truth）
+
+验收：
+  G1 no_drive 自发率 == 0
+  G2 地形B 剂量单调：anti > random > curiosity（误差）
+  G3 地形A 无差异（好奇退化为随机）—— 真实世界的阴性对照，非合成
+"""
+import os
+import json
+import random
+import numpy as np
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+
+def ridge_fit(X, Y, lam=1.0):
+    A = X.T @ X + lam * np.eye(X.shape[1])
+    return np.linalg.solve(A, X.T @ Y)
+
+
+def gen_err(Xs, Ys, scanned):
+    """泛化误差：全部节点（含未访问）"""
+    if len(scanned) == 0:
+        # 未学习：预测 0 向量
+        return float(np.mean(np.linalg.norm(Ys, axis=1)))
+    idx = sorted(scanned)
+    W = ridge_fit(Xs[idx], Ys[idx])
+    P = Xs @ W
+    return float(np.mean(np.linalg.norm(P - Ys, axis=1)))
+
+
+def novelty_of(Xs, i, scanned):
+    """不确定性估计：到已探索集合的最小距离（不偷看 truth）"""
+    if i in scanned:
+        return 0.0
+    if not scanned:
+        return 1.0
+    d = np.linalg.norm(Xs[list(scanned)] - Xs[i], axis=1)
+    return float(d.min())
+
+
+def run(Xs, Ys, drive, n_steps=30, seed=0, eps=0.05, w_b=0.3, w_g=0.2):
+    rng = random.Random(seed)
+    n = len(Xs)
+    scanned = set()
+    last = {i: -1 for i in range(n)}
+    t = 0
+    g_self = 1.0
+    recent_gain = 0.0
+    spont = 0
+    curve = []
+    base = gen_err(Xs, Ys, scanned)
+
+    for _ in range(n_steps):
+        if drive == "no_drive":
+            t += 1
+            curve.append(gen_err(Xs, Ys, scanned))
+            continue
+
+        cand = [i for i in range(n) if i not in scanned]
+        if not cand:
+            cand = list(range(n))
+
+        nov = {i: novelty_of(Xs, i, scanned) for i in cand}
+        bore = {i: (1.0 if last[i] < 0 else
+                    min(1.0, (t - last[i]) / max(1, n * 0.5))) for i in cand}
+        level = (sum(nov.values()) / len(cand)
+                 + w_b * sum(bore.values()) / len(cand)
+                 + w_g * (1.0 - g_self))
+        if level <= 0.0:
+            t += 1
+            curve.append(gen_err(Xs, Ys, scanned))
+            continue
+
+        if rng.random() < eps:
+            pick = rng.choice(cand)
+        elif drive == "curiosity":
+            pick = max(cand, key=lambda i: nov[i] + w_b * bore[i])
+        elif drive == "anti":
+            pick = min(cand, key=lambda i: nov[i] + w_b * bore[i])
+        else:  # random
+            pick = rng.choice(cand)
+
+        before = gen_err(Xs, Ys, scanned)
+        scanned.add(pick)
+        last[pick] = t
+        after = gen_err(Xs, Ys, scanned)
+        gain = max(0.0, before - after)
+        recent_gain = 0.9 * recent_gain + 0.1 * gain
+        g_self = min(1.0, recent_gain / 0.02)
+        spont += 1
+        t += 1
+        curve.append(after)
+
+    return {
+        "drive": drive,
+        "spont": spont,
+        "spont_rate": spont / n_steps,
+        "base_err": base,
+        "final_err": curve[-1],
+        "err_auc": float(np.mean(curve)),
+        "coverage": len(scanned) / n,
+        "gain": base - curve[-1],
+    }
+
+
+def main():
+    out = {"arms": ["no_drive", "anti", "random", "curiosity"],
+           "n_steps": 30, "seeds": 10, "res": {}}
+    for tag in ["A", "B"]:
+        X = np.load(os.path.join(HERE, f"X{'3' if tag=='A' else '4'}.npy"))
+        Y = np.load(os.path.join(HERE, f"Y{'3' if tag=='A' else '4'}.npy"))
+        Xs = (X - X.mean(0)) / (X.std(0) + 1e-9)
+        Ys = (Y - Y.mean(0)) / (Y.std(0) + 1e-9)
+        print(f"[terrain {tag}] n={len(Xs)} Xdim={Xs.shape[1]} Ydim={Ys.shape[1]}")
+        out["res"][tag] = {"n": int(len(Xs))}
+        for arm in out["arms"]:
+            runs = [run(Xs, Ys, arm, n_steps=30, seed=s) for s in range(10)]
+            agg = {
+                "spont_rate": float(np.mean([r["spont_rate"] for r in runs])),
+                "final_err": float(np.mean([r["final_err"] for r in runs])),
+                "err_auc": float(np.mean([r["err_auc"] for r in runs])),
+                "base_err": float(np.mean([r["base_err"] for r in runs])),
+                "gain": float(np.mean([r["gain"] for r in runs])),
+                "coverage": float(np.mean([r["coverage"] for r in runs])),
+                "per_seed_auc": [round(r["err_auc"], 6) for r in runs],
+                "per_seed_final": [round(r["final_err"], 6) for r in runs],
+            }
+            out["res"][tag][arm] = agg
+            print(f"  {tag} {arm:10s} spont={agg['spont_rate']:.3f} "
+                  f"base={agg['base_err']:.4f} auc={agg['err_auc']:.4f} "
+                  f"final={agg['final_err']:.4f} gain={agg['gain']:+.4f}")
+
+    with open(os.path.join(HERE, "result146.json"), "w") as f:
+        json.dump(out, f, indent=2)
+    print("saved result146.json")
+
+
+if __name__ == "__main__":
+    main()

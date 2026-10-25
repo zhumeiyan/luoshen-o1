@@ -1,1 +1,102 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKZnJvbSB0eXBpbmcgaW1wb3J0IEFueQoKZnJvbSBzcmMuYXBwbGljYXRpb24uYm90LmNvbnRyb2wuY29udHJhY3RzIGltcG9ydCBCb3RJbmJvdW5kUmVxdWVzdApmcm9tIHNyYy5hcHBsaWNhdGlvbi5ib3QuY29udHJvbC5vcGVyYXRpb25fc3RvcmUgaW1wb3J0IG9wZXJhdGlvbl9zdW1tYXJ5CgoKUEVSTUlTU0lPTl9SRVFVRVNUX1NDSEVNQV9WRVJTSU9OID0gIm9tLWFnZW50LXBlcm1pc3Npb24tcmVxdWVzdC12MSIKCgpkZWYgYnVpbGRfcGVybWlzc2lvbl9yZXF1ZXN0KAogICAgKiwKICAgIG9wZXJhdGlvbjogZGljdFtzdHIsIEFueV0sCiAgICByZXF1ZXN0OiBCb3RJbmJvdW5kUmVxdWVzdCwKICAgIGNvbmZpcm1faGludDogc3RyIHwgTm9uZSA9IE5vbmUsCiAgICBjYW5jZWxfaGludDogc3RyIHwgTm9uZSA9IE5vbmUsCikgLT4gZGljdFtzdHIsIEFueV06CiAgICBvcGVyYXRpb25faWQgPSBzdHIob3BlcmF0aW9uLmdldCgib3BlcmF0aW9uX2lkIikgb3IgIiIpLnN0cmlwKCkKICAgIG9wZXJhdGlvbl90eXBlID0gc3RyKG9wZXJhdGlvbi5nZXQoIm9wZXJhdGlvbl90eXBlIikgb3IgIiIpLnN0cmlwKCkKICAgIHJpc2tfY2xhc3MgPSBfcmlza19jbGFzcyhvcGVyYXRpb25fdHlwZSkKICAgIHJldHVybiB7CiAgICAgICAgInNjaGVtYV92ZXJzaW9uIjogUEVSTUlTU0lPTl9SRVFVRVNUX1NDSEVNQV9WRVJTSU9OLAogICAgICAgICJvcGVyYXRpb25faWQiOiBvcGVyYXRpb25faWQsCiAgICAgICAgIm9wZXJhdGlvbl90eXBlIjogb3BlcmF0aW9uX3R5cGUsCiAgICAgICAgInJpc2tfY2xhc3MiOiByaXNrX2NsYXNzLAogICAgICAgICJzYWZldHlfY2xhc3MiOiBfc2FmZXR5X2NsYXNzKHJpc2tfY2xhc3MpLAogICAgICAgICJzdGF0dXMiOiBzdHIob3BlcmF0aW9uLmdldCgic3RhdHVzIikgb3IgInByZXZpZXdlZCIpLAogICAgICAgICJjb25maXJtX3JlcXVpcmVkIjogVHJ1ZSwKICAgICAgICAiYXBwbHlfYWxsb3dlZCI6IEZhbHNlLAogICAgICAgICJjcmVhdGVkX2F0Ijogb3BlcmF0aW9uLmdldCgiY3JlYXRlZF9hdCIpLAogICAgICAgICJleHBpcmVzX2F0Ijogb3BlcmF0aW9uLmdldCgiZXhwaXJlc19hdCIpLAogICAgICAgICJzY29wZSI6IHsKICAgICAgICAgICAgImNoYW5uZWwiOiByZXF1ZXN0LmNoYW5uZWwsCiAgICAgICAgICAgICJzZW5kZXIiOiByZXF1ZXN0LnNlbmRlcl9pZCwKICAgICAgICAgICAgImNvbnZlcnNhdGlvbiI6IHJlcXVlc3QuY29udmVyc2F0aW9uX2lkLAogICAgICAgICAgICAiY29uZmlnX2tleSI6IHJlcXVlc3QuY29uZmlnX2tleSwKICAgICAgICB9LAogICAgICAgICJ0YXJnZXRfc3VtbWFyeSI6IF90YXJnZXRfc3VtbWFyeShvcGVyYXRpb24pLAogICAgICAgICJldmlkZW5jZV9yZWZzIjogX2V2aWRlbmNlX3JlZnMob3BlcmF0aW9uKSwKICAgICAgICAiY29uZmlybV9oaW50IjogY29uZmlybV9oaW50IG9yIF9jb25maXJtX2hpbnQob3BlcmF0aW9uX3R5cGUsIG9wZXJhdGlvbl9pZCksCiAgICAgICAgImNhbmNlbF9oaW50IjogY2FuY2VsX2hpbnQgb3IgX2NhbmNlbF9oaW50KG9wZXJhdGlvbl90eXBlLCBvcGVyYXRpb25faWQpLAogICAgfQoKCmRlZiBfcmlza19jbGFzcyhvcGVyYXRpb25fdHlwZTogc3RyKSAtPiBzdHI6CiAgICBpZiBvcGVyYXRpb25fdHlwZSBpbiB7InVwZ3JhZGVfbm93IiwgIm1vbml0b3JfcnVuX25vdyJ9OgogICAgICAgIHJldHVybiAicHJldmlld19hZG1pbiIKICAgIHJldHVybiAicHJldmlld193cml0ZSIKCgpkZWYgX3NhZmV0eV9jbGFzcyhyaXNrX2NsYXNzOiBzdHIpIC0+IHN0cjoKICAgIHJldHVybiAiYWRtaW5fcHJldmlldyIgaWYgcmlza19jbGFzcyA9PSAicHJldmlld19hZG1pbiIgZWxzZSAid3JpdGVfcHJldmlldyIKCgpkZWYgX3RhcmdldF9zdW1tYXJ5KG9wZXJhdGlvbjogZGljdFtzdHIsIEFueV0pIC0+IHN0cjoKICAgIHN1bW1hcnkgPSBvcGVyYXRpb25fc3VtbWFyeShvcGVyYXRpb24pLmdldCgic3VtbWFyeSIpCiAgICB0ZXh0ID0gc3RyKHN1bW1hcnkgb3IgIiIpLnN0cmlwKCkKICAgIHJldHVybiB0ZXh0IG9yIHN0cihvcGVyYXRpb24uZ2V0KCJvcGVyYXRpb25fdHlwZSIpIG9yICItIikKCgpkZWYgX2V2aWRlbmNlX3JlZnMob3BlcmF0aW9uOiBkaWN0W3N0ciwgQW55XSkgLT4gbGlzdFtzdHJdOgogICAgcmVmcyA9IFtdCiAgICBvcGVyYXRpb25faWQgPSBzdHIob3BlcmF0aW9uLmdldCgib3BlcmF0aW9uX2lkIikgb3IgIiIpLnN0cmlwKCkKICAgIGlmIG9wZXJhdGlvbl9pZDoKICAgICAgICByZWZzLmFwcGVuZChmInBlbmRpbmdfb3BlcmF0aW9uOntvcGVyYXRpb25faWR9IikKICAgIG9wZXJhdGlvbl90eXBlID0gc3RyKG9wZXJhdGlvbi5nZXQoIm9wZXJhdGlvbl90eXBlIikgb3IgIiIpLnN0cmlwKCkKICAgIGlmIG9wZXJhdGlvbl90eXBlOgogICAgICAgIHJlZnMuYXBwZW5kKGYicHJldmlldzp7b3BlcmF0aW9uX3R5cGV9IikKICAgIHJldHVybiByZWZzCgoKZGVmIF9jb25maXJtX2hpbnQob3BlcmF0aW9uX3R5cGU6IHN0ciwgb3BlcmF0aW9uX2lkOiBzdHIpIC0+IHN0cjoKICAgIGNvbW1hbmQgPSBfb3BlcmF0aW9uX2NvbW1hbmRfZmFtaWx5KG9wZXJhdGlvbl90eXBlKQogICAgcmV0dXJuIGYiL2NvbmZpcm0ge2NvbW1hbmR9IHtvcGVyYXRpb25faWR9Ii5zdHJpcCgpCgoKZGVmIF9jYW5jZWxfaGludChvcGVyYXRpb25fdHlwZTogc3RyLCBvcGVyYXRpb25faWQ6IHN0cikgLT4gc3RyOgogICAgY29tbWFuZCA9IF9vcGVyYXRpb25fY29tbWFuZF9mYW1pbHkob3BlcmF0aW9uX3R5cGUpCiAgICByZXR1cm4gZiIvY2FuY2VsIHtjb21tYW5kfSB7b3BlcmF0aW9uX2lkfSIuc3RyaXAoKQoKCmRlZiBfb3BlcmF0aW9uX2NvbW1hbmRfZmFtaWx5KG9wZXJhdGlvbl90eXBlOiBzdHIpIC0+IHN0cjoKICAgIGlmIG9wZXJhdGlvbl90eXBlID09ICJ0cmFkZV9hdHRyaWJ1dGlvbiI6CiAgICAgICAgcmV0dXJuICJhdHRyaWJ1dGlvbiIKICAgIGlmIG9wZXJhdGlvbl90eXBlLnN0YXJ0c3dpdGgoIm1hbnVhbF8iKToKICAgICAgICByZXR1cm4gInRyYWRlIgogICAgaWYgb3BlcmF0aW9uX3R5cGUuc3RhcnRzd2l0aCgic3ltYm9sXyIpOgogICAgICAgIHJldHVybiAic3ltYm9sIgogICAgaWYgb3BlcmF0aW9uX3R5cGUgPT0gInVwZ3JhZGVfbm93IjoKICAgICAgICByZXR1cm4gInVwZ3JhZGUiCiAgICBpZiBvcGVyYXRpb25fdHlwZSA9PSAibW9kZWxfdXNlIjoKICAgICAgICByZXR1cm4gIm1vZGVsIgogICAgaWYgb3BlcmF0aW9uX3R5cGUgPT0gIm1vbml0b3JfcnVuX25vdyI6CiAgICAgICAgcmV0dXJuICJtb25pdG9yLXJ1biIKICAgIHJldHVybiAib3BlcmF0aW9uIgoKCl9fYWxsX18gPSBbCiAgICAiUEVSTUlTU0lPTl9SRVFVRVNUX1NDSEVNQV9WRVJTSU9OIiwKICAgICJidWlsZF9wZXJtaXNzaW9uX3JlcXVlc3QiLApdCg==
+from __future__ import annotations
+
+from typing import Any
+
+from src.application.bot.control.contracts import BotInboundRequest
+from src.application.bot.control.operation_store import operation_summary
+
+
+PERMISSION_REQUEST_SCHEMA_VERSION = "om-agent-permission-request-v1"
+
+
+def build_permission_request(
+    *,
+    operation: dict[str, Any],
+    request: BotInboundRequest,
+    confirm_hint: str | None = None,
+    cancel_hint: str | None = None,
+) -> dict[str, Any]:
+    operation_id = str(operation.get("operation_id") or "").strip()
+    operation_type = str(operation.get("operation_type") or "").strip()
+    risk_class = _risk_class(operation_type)
+    return {
+        "schema_version": PERMISSION_REQUEST_SCHEMA_VERSION,
+        "operation_id": operation_id,
+        "operation_type": operation_type,
+        "risk_class": risk_class,
+        "safety_class": _safety_class(risk_class),
+        "status": str(operation.get("status") or "previewed"),
+        "confirm_required": True,
+        "apply_allowed": False,
+        "created_at": operation.get("created_at"),
+        "expires_at": operation.get("expires_at"),
+        "scope": {
+            "channel": request.channel,
+            "sender": request.sender_id,
+            "conversation": request.conversation_id,
+            "config_key": request.config_key,
+        },
+        "target_summary": _target_summary(operation),
+        "evidence_refs": _evidence_refs(operation),
+        "confirm_hint": confirm_hint or _confirm_hint(operation_type, operation_id),
+        "cancel_hint": cancel_hint or _cancel_hint(operation_type, operation_id),
+    }
+
+
+def _risk_class(operation_type: str) -> str:
+    if operation_type in {"upgrade_now", "monitor_run_now"}:
+        return "preview_admin"
+    return "preview_write"
+
+
+def _safety_class(risk_class: str) -> str:
+    return "admin_preview" if risk_class == "preview_admin" else "write_preview"
+
+
+def _target_summary(operation: dict[str, Any]) -> str:
+    summary = operation_summary(operation).get("summary")
+    text = str(summary or "").strip()
+    return text or str(operation.get("operation_type") or "-")
+
+
+def _evidence_refs(operation: dict[str, Any]) -> list[str]:
+    refs = []
+    operation_id = str(operation.get("operation_id") or "").strip()
+    if operation_id:
+        refs.append(f"pending_operation:{operation_id}")
+    operation_type = str(operation.get("operation_type") or "").strip()
+    if operation_type:
+        refs.append(f"preview:{operation_type}")
+    return refs
+
+
+def _confirm_hint(operation_type: str, operation_id: str) -> str:
+    command = _operation_command_family(operation_type)
+    return f"/confirm {command} {operation_id}".strip()
+
+
+def _cancel_hint(operation_type: str, operation_id: str) -> str:
+    command = _operation_command_family(operation_type)
+    return f"/cancel {command} {operation_id}".strip()
+
+
+def _operation_command_family(operation_type: str) -> str:
+    if operation_type == "trade_attribution":
+        return "attribution"
+    if operation_type.startswith("manual_"):
+        return "trade"
+    if operation_type.startswith("symbol_"):
+        return "symbol"
+    if operation_type == "upgrade_now":
+        return "upgrade"
+    if operation_type == "model_use":
+        return "model"
+    if operation_type == "monitor_run_now":
+        return "monitor-run"
+    return "operation"
+
+
+__all__ = [
+    "PERMISSION_REQUEST_SCHEMA_VERSION",
+    "build_permission_request",
+]

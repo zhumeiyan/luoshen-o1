@@ -1,1 +1,92 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiLmuLLmn5MgTDcg57uT5p6cIC0+IOWGmSAvZGV2L2ZiMCAtPiDlm57ph4fmr5Tlr7kgLT4gT0NSIiIiCmltcG9ydCBvcywganNvbiwgaGFzaGxpYiwgc3VicHJvY2Vzcywgc3RydWN0LCBmY250bApPVVQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKVywgSCA9IDEwMjQsIDc2OAoKZGVmIGZiX2luZm8oKToKICAgIGZvciBwIGluICgiL3N5cy9jbGFzcy9ncmFwaGljcy9mYjAvdmlydHVhbF9zaXplIiwKICAgICAgICAgICAgICAiL3N5cy9jbGFzcy9ncmFwaGljcy9mYjAvYml0c19wZXJfcGl4ZWwiKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggb3BlbihwKSBhcyBmOiB5aWVsZCBmLnJlYWQoKS5zdHJpcCgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgeWllbGQgTm9uZQoKZGVmIGxvYWRfZm9udChzeik6CiAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2VGb250CiAgICBmb3IgcCBpbiAoIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMiLAogICAgICAgICAgICAgICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktemVuaGVpLnR0YyIsCiAgICAgICAgICAgICAgIi91c3Ivc2hhcmUvZm9udHMvb3BlbnR5cGUvbm90by9Ob3RvU2Fuc0NKSy1SZWd1bGFyLnR0YyIsCiAgICAgICAgICAgICAgIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvZGVqYXZ1L0RlamFWdVNhbnMudHRmIik6CiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMocCk6CiAgICAgICAgICAgIHRyeTogcmV0dXJuIEltYWdlRm9udC50cnVldHlwZShwLCBzeikKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwogICAgcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQoKZGVmIG1haW4oKToKICAgIGZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3CiAgICByN2EgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oT1VULCAicmVzdWx0X2w3djIuanNvbiIpKSkKICAgIHI3ICA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHRfbDcuanNvbiIpKSkKICAgIGltZyA9IEltYWdlLm5ldygiUkdCIiwgKFcsIEgpLCAid2hpdGUiKQogICAgZCA9IEltYWdlRHJhdy5EcmF3KGltZykKICAgIGZoID0gbG9hZF9mb250KDI2KTsgZnMgPSBsb2FkX2ZvbnQoMjEpOyBmdCA9IGxvYWRfZm9udCgzMCkKICAgIHkgPSAyNAogICAgZGVmIGxpbmUodCwgZj1Ob25lLCBwYWQ9MzQpOgogICAgICAgIG5vbmxvY2FsIHkKICAgICAgICBkLnRleHQoKDQwLCB5KSwgdCwgZmlsbD0iYmxhY2siLCBmb250PWYgb3IgZnMpOyB5ICs9IHBhZAogICAgZC50ZXh0KCg0MCwgeSksICJMNyBSRUxBVElPTiBSVU5HIiwgZmlsbD0iYmxhY2siLCBmb250PWZ0KTsgeSArPSA0NgogICAgbGluZSgiZ2VuZXJhbD1jYW4gY29vcGVyYXRlIHwgc3BlY2lmaWM9Zml0cyBNWSBoaXN0b3J5IiwgZnMpOyB5ICs9IDgKCiAgICBsaW5lKCJMN2Egb2xkICAgICAgIGdlbiAlLjRmICBzcGVjICUuNGYiICUgKAogICAgICAgIHI3YVsibDdhMiJdWyJvbGQiXVsiZ2VuZXJhbCJdWyJtZWFuIl0sIHI3YVsibDdhMiJdWyJvbGQiXVsic3BlY2lmaWMiXVsibWVhbiJdKSkKICAgIGxpbmUoIkw3YSBzdHJhbmdlciAgZ2VuICUuNGYgIHNwZWMgJS40ZiIgJSAoCiAgICAgICAgcjdhWyJsN2EyIl1bInN0cmFuZ2VyIl1bImdlbmVyYWwiXVsibWVhbiJdLCByN2FbImw3YTIiXVsic3RyYW5nZXIiXVsic3BlY2lmaWMiXVsibWVhbiJdKSkKICAgIGxpbmUoIkw3YSBjbG9uZSAgICAgZ2VuICUuNGYgIHNwZWMgJS40ZiIgJSAoCiAgICAgICAgcjdhWyJsN2EyIl1bImNsb25lIl1bImdlbmVyYWwiXVsibWVhbiJdLCByN2FbImw3YTIiXVsiY2xvbmUiXVsic3BlY2lmaWMiXVsibWVhbiJdKSkKICAgIGxpbmUoImNsb25lIGdlbmVyYWwgbWF0Y2hlcyBvbGQgLT4gYWJpbGl0eSBpcyBGT1JHRUFCTEUiLCBmcyk7IHkgKz0gNgogICAgbGluZSgiY2xvbmUgc3BlY2lmaWMgQkVMT1cgcmFuZG9tIC0+IGhpc3RvcnkgaXMgTk9UIiwgZnMpOyB5ICs9IDE0CgogICAgbGluZSgiTDdiIG9sZCAgICAgICAgbWF0Y2hfQiAlLjRmICBtYXRjaF90cnV0aCAlLjRmIiAlICgKICAgICAgICByN2FbImw3YjIiXVsib2xkIl1bIm1hdGNoX0IiXVsibWVhbiJdLCByN2FbImw3YjIiXVsib2xkIl1bIm1hdGNoX3RydXRoIl1bIm1lYW4iXSkpCiAgICBsaW5lKCJMN2IgY2xvbmUgICAgICBtYXRjaF9CICUuNGYgIG1hdGNoX3RydXRoICUuNGYiICUgKAogICAgICAgIHI3YVsibDdiMiJdWyJjbG9uZSJdWyJtYXRjaF9CIl1bIm1lYW4iXSwgcjdhWyJsN2IyIl1bImNsb25lIl1bIm1hdGNoX3RydXRoIl1bIm1lYW4iXSkpCiAgICBsaW5lKCJMN2IgY2xvbmVfZmVkICBtYXRjaF9CICUuNGYgIG1hdGNoX3RydXRoICUuNGYiICUgKAogICAgICAgIHI3YVsibDdiMiJdWyJjbG9uZV9mZWQiXVsibWF0Y2hfQiJdWyJtZWFuIl0sIHI3YVsibDdiMiJdWyJjbG9uZV9mZWQiXVsibWF0Y2hfdHJ1dGgiXVsibWVhbiJdKSkKICAgIGxpbmUoImZvcmdlcnkgV0lOUyBtYXRjaF9CIDAuODExNSA+IDAuNjk1OCIsIGZzKTsgeSArPSA2CiAgICBsaW5lKCJidXQgbWF0Y2hfdHJ1dGggMS4wMDAwIHBlcmZlY3QgPSBGT1JHRUQiLCBmcyk7IHkgKz0gMTQKCiAgICBsaW5lKCJMN2MgZGVidCBsZWRnZXIgJS40ZiAgbm9fbGVkZ2VyICUuNGYiICUgKAogICAgICAgIHI3WyJsN2MiXVsibGVkZ2VyIl1bIm1lYW4iXSwgcjdbImw3YyJdWyJub19sZWRnZXIiXVsibWVhbiJdKSwgZnMpCiAgICBsaW5lKCJMN2QgbGl2ZWQgJS40ZiAgZmVkICUuNGYgIGRlbHRhICUrLjRmIENJWyUrLjRmLCUrLjRmXSIgJSAoCiAgICAgICAgcjdbImw3ZCJdWyJsaXZlZCJdWyJtZWFuIl0sIHI3WyJsN2QiXVsiZmVkIl1bIm1lYW4iXSwKICAgICAgICByN1sibDdkIl1bImRlbHRhIl1bIm1lYW4iXSwgcjdbImw3ZCJdWyJkZWx0YSJdWyJsbyJdLCByN1sibDdkIl1bImRlbHRhIl1bImhpIl0pLCBmcykKICAgIGxpbmUoIkw3ZCB0aW1lIE5PVCBiZXR0ZXIgdGhhbiBkYXRhIChDSSBjcm9zc2VzIDApIiwgZnMpOyB5ICs9IDEwCiAgICBsaW5lKCJSRUFMIHVkcCBsb3NzICUuNGYgIG9ic2VydmVkICUuNGYiICUgKAogICAgICAgIHI3YVsicmVhbF9sb3NzIl1bImxvc3MiXSwgcjdhWyJyZWFsX2xvc3MiXVsib2JzZXJ2ZWQiXSksIGZzKQogICAgbGluZSgibW9kZWxlZCBQX0xPU1MgMC4yMCAtPiBtb2RlbGVkIGNoYW5uZWwgd2FzIFBFU1NJTUlTVElDIiwgZnMpOyB5ICs9IDEwCgogICAgaW1wb3J0IHJhbmRvbSwgc3RyaW5nCiAgICB0b2sgPSAiIi5qb2luKHJhbmRvbS5jaG9pY2UoIkFCQ0RFRkdISktMTU5QUVJTVFVWV1hZWjIzNDU2Nzg5IikgZm9yIF8gaW4gcmFuZ2UoNikpCiAgICBkLnRleHQoKDQwLCB5KSwgIlRPS0VOICIgKyB0b2ssIGZpbGw9ImJsYWNrIiwgZm9udD1mdCkKCiAgICBpbWcuc2F2ZShvcy5wYXRoLmpvaW4oT1VULCAicmVuZGVyX2w3LnBuZyIpKQogICAgcmdiYSA9IGltZy5jb252ZXJ0KCJSR0JBIikKICAgIHJhdyA9IHJnYmEudG9ieXRlcygpCiAgICBzaCA9IGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KClbOjEyXQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbigiL2Rldi9mYjAiLCAid2IiKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKHJhdyk7IGYuZmx1c2goKQogICAgICAgIHdpdGggb3BlbigiL2Rldi9mYjAiLCAicmIiKSBhcyBmOgogICAgICAgICAgICBjYXAgPSBmLnJlYWQobGVuKHJhdykpCiAgICAgICAgb2sgPSAoY2FwID09IHJhdykKICAgICAgICBwcmludCgiV1JJVEUgYnl0ZXMiLCBsZW4ocmF3KSwgIkNBUFRVUkUgYnl0ZXMiLCBsZW4oY2FwKSwgIklERU5USUNBTCIsIG9rKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleDoKICAgICAgICBwcmludCgiRkIgRVJSIiwgZXgpOyBvayA9IEZhbHNlOyBjYXAgPSBiIiIKICAgIHByaW50KCJSRU5ERVJfU0hBIiwgc2gpCiAgICBwcmludCgiVE9LRU4iLCB0b2spCiAgICBvcGVuKG9zLnBhdGguam9pbihPVVQsICJjYXB0dXJlZF9sNy5wbmciKSwgIndiIikud3JpdGUoY2FwKQogICAganNvbi5kdW1wKGRpY3Qoc2hhPXNoLCB0b2tlbj10b2ssIGlkZW50aWNhbD1ib29sKG9rKSksCiAgICAgICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oT1VULCAibDdfc2NyZWVuLmpzb24iKSwgInciKSkKCm1haW4oKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""渲染 L7 结果 -> 写 /dev/fb0 -> 回采比对 -> OCR"""
+import os, json, hashlib, subprocess, struct, fcntl
+OUT = os.path.dirname(os.path.abspath(__file__))
+W, H = 1024, 768
+
+def fb_info():
+    for p in ("/sys/class/graphics/fb0/virtual_size",
+              "/sys/class/graphics/fb0/bits_per_pixel"):
+        try:
+            with open(p) as f: yield f.read().strip()
+        except Exception:
+            yield None
+
+def load_font(sz):
+    from PIL import ImageFont
+    for p in ("/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+              "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+              "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+              "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"):
+        if os.path.exists(p):
+            try: return ImageFont.truetype(p, sz)
+            except Exception: pass
+    return ImageFont.load_default()
+
+def main():
+    from PIL import Image, ImageDraw
+    r7a = json.load(open(os.path.join(OUT, "result_l7v2.json")))
+    r7  = json.load(open(os.path.join(OUT, "result_l7.json")))
+    img = Image.new("RGB", (W, H), "white")
+    d = ImageDraw.Draw(img)
+    fh = load_font(26); fs = load_font(21); ft = load_font(30)
+    y = 24
+    def line(t, f=None, pad=34):
+        nonlocal y
+        d.text((40, y), t, fill="black", font=f or fs); y += pad
+    d.text((40, y), "L7 RELATION RUNG", fill="black", font=ft); y += 46
+    line("general=can cooperate | specific=fits MY history", fs); y += 8
+
+    line("L7a old       gen %.4f  spec %.4f" % (
+        r7a["l7a2"]["old"]["general"]["mean"], r7a["l7a2"]["old"]["specific"]["mean"]))
+    line("L7a stranger  gen %.4f  spec %.4f" % (
+        r7a["l7a2"]["stranger"]["general"]["mean"], r7a["l7a2"]["stranger"]["specific"]["mean"]))
+    line("L7a clone     gen %.4f  spec %.4f" % (
+        r7a["l7a2"]["clone"]["general"]["mean"], r7a["l7a2"]["clone"]["specific"]["mean"]))
+    line("clone general matches old -> ability is FORGEABLE", fs); y += 6
+    line("clone specific BELOW random -> history is NOT", fs); y += 14
+
+    line("L7b old        match_B %.4f  match_truth %.4f" % (
+        r7a["l7b2"]["old"]["match_B"]["mean"], r7a["l7b2"]["old"]["match_truth"]["mean"]))
+    line("L7b clone      match_B %.4f  match_truth %.4f" % (
+        r7a["l7b2"]["clone"]["match_B"]["mean"], r7a["l7b2"]["clone"]["match_truth"]["mean"]))
+    line("L7b clone_fed  match_B %.4f  match_truth %.4f" % (
+        r7a["l7b2"]["clone_fed"]["match_B"]["mean"], r7a["l7b2"]["clone_fed"]["match_truth"]["mean"]))
+    line("forgery WINS match_B 0.8115 > 0.6958", fs); y += 6
+    line("but match_truth 1.0000 perfect = FORGED", fs); y += 14
+
+    line("L7c debt ledger %.4f  no_ledger %.4f" % (
+        r7["l7c"]["ledger"]["mean"], r7["l7c"]["no_ledger"]["mean"]), fs)
+    line("L7d lived %.4f  fed %.4f  delta %+.4f CI[%+.4f,%+.4f]" % (
+        r7["l7d"]["lived"]["mean"], r7["l7d"]["fed"]["mean"],
+        r7["l7d"]["delta"]["mean"], r7["l7d"]["delta"]["lo"], r7["l7d"]["delta"]["hi"]), fs)
+    line("L7d time NOT better than data (CI crosses 0)", fs); y += 10
+    line("REAL udp loss %.4f  observed %.4f" % (
+        r7a["real_loss"]["loss"], r7a["real_loss"]["observed"]), fs)
+    line("modeled P_LOSS 0.20 -> modeled channel was PESSIMISTIC", fs); y += 10
+
+    import random, string
+    tok = "".join(random.choice("ABCDEFGHJKLMNPQRSTUVWXYZ23456789") for _ in range(6))
+    d.text((40, y), "TOKEN " + tok, fill="black", font=ft)
+
+    img.save(os.path.join(OUT, "render_l7.png"))
+    rgba = img.convert("RGBA")
+    raw = rgba.tobytes()
+    sh = hashlib.sha256(raw).hexdigest()[:12]
+    try:
+        with open("/dev/fb0", "wb") as f:
+            f.write(raw); f.flush()
+        with open("/dev/fb0", "rb") as f:
+            cap = f.read(len(raw))
+        ok = (cap == raw)
+        print("WRITE bytes", len(raw), "CAPTURE bytes", len(cap), "IDENTICAL", ok)
+    except Exception as ex:
+        print("FB ERR", ex); ok = False; cap = b""
+    print("RENDER_SHA", sh)
+    print("TOKEN", tok)
+    open(os.path.join(OUT, "captured_l7.png"), "wb").write(cap)
+    json.dump(dict(sha=sh, token=tok, identical=bool(ok)),
+              open(os.path.join(OUT, "l7_screen.json"), "w"))
+
+main()

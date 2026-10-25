@@ -1,1 +1,75 @@
-ewogICJsaWZlNSI6IHsKICAgICJwcmFjdGljZV9jbG9zZWQiOiB7CiAgICAgICJmZyI6IDAuMTUzNjQ5NDg2NTk0MTMyNTIsCiAgICAgICJmZ19zZCI6IDAuMDUyODkyNTc0ODg3MjQ5NTcsCiAgICAgICJzdXJ2aXZlIjogMS4wLAogICAgICAibiI6IDE2LAogICAgICAidGlja3MiOiAxNTAwLjAKICAgIH0sCiAgICAicHJhY3RpY2Vfb3BlbiI6IHsKICAgICAgImZnIjogMC4wMDM3ODAxMTcwMzYyNzIzNDU3LAogICAgICAiZmdfc2QiOiAwLjAwMTg1NDI4Njk1ODc4NDc0OSwKICAgICAgInN1cnZpdmUiOiAwLjAsCiAgICAgICJuIjogMTYsCiAgICAgICJ0aWNrcyI6IDMzOC4zMTI1CiAgICB9LAogICAgIm5vX3ByYWN0aWNlIjogewogICAgICAiZmciOiAwLjAsCiAgICAgICJmZ19zZCI6IDAuMCwKICAgICAgInN1cnZpdmUiOiAwLjAsCiAgICAgICJuIjogMTYsCiAgICAgICJ0aWNrcyI6IDIzNy44MTI1CiAgICB9LAogICAgInZhcmlhdGlvbiI6IHsKICAgICAgImZnIjogMC4wMjg5OTY4ODE5MTMzNDY0NjMsCiAgICAgICJmZ19zZCI6IDAuMDIzMzYwNDk4NTM5MDcxODg1LAogICAgICAic3Vydml2ZSI6IDAuNjg3NSwKICAgICAgIm4iOiAxNiwKICAgICAgInRpY2tzIjogMTEzMy41NjI1CiAgICB9CiAgfSwKICAiYXZpZGEiOiB7CiAgICAic2VlZHMiOiBbCiAgICAgIHsKICAgICAgICAicG9wIjogNDAsCiAgICAgICAgIm5fc2VsZiI6IDEzLAogICAgICAgICJiaXJ0aHNfc3VwcGx5IjogODcwLAogICAgICAgICJiaXJ0aHNfYWZ0ZXJfY3V0IjogMCwKICAgICAgICAic2VsZl9yYXRlIjogMC4zMjUKICAgICAgfSwKICAgICAgewogICAgICAgICJwb3AiOiA0MCwKICAgICAgICAibl9zZWxmIjogMiwKICAgICAgICAiYmlydGhzX3N1cHBseSI6IDEyOCwKICAgICAgICAiYmlydGhzX2FmdGVyX2N1dCI6IDAsCiAgICAgICAgInNlbGZfcmF0ZSI6IDAuMDUKICAgICAgfSwKICAgICAgewogICAgICAgICJwb3AiOiA0MCwKICAgICAgICAibl9zZWxmIjogMCwKICAgICAgICAiYmlydGhzX3N1cHBseSI6IDEzMywKICAgICAgICAiYmlydGhzX2FmdGVyX2N1dCI6IDAsCiAgICAgICAgInNlbGZfcmF0ZSI6IDAuMAogICAgICB9LAogICAgICB7CiAgICAgICAgInBvcCI6IDQwLAogICAgICAgICJuX3NlbGYiOiAwLAogICAgICAgICJiaXJ0aHNfc3VwcGx5IjogMTQwLAogICAgICAgICJiaXJ0aHNfYWZ0ZXJfY3V0IjogMCwKICAgICAgICAic2VsZl9yYXRlIjogMC4wCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAicG9wIjogNDAsCiAgICAgICAgIm5fc2VsZiI6IDEsCiAgICAgICAgImJpcnRoc19zdXBwbHkiOiAxNTYsCiAgICAgICAgImJpcnRoc19hZnRlcl9jdXQiOiAwLAogICAgICAgICJzZWxmX3JhdGUiOiAwLjAyNQogICAgICB9CiAgICBdLAogICAgInRvdF9zZWxmIjogMTYsCiAgICAidG90X3BvcCI6IDIwMCwKICAgICJzZWxmX3JhdGUiOiAwLjA4LAogICAgImJpcnRoc19hZnRlcl9jdXQiOiAwCiAgfQp9
+{
+  "life5": {
+    "practice_closed": {
+      "fg": 0.15364948659413252,
+      "fg_sd": 0.05289257488724957,
+      "survive": 1.0,
+      "n": 16,
+      "ticks": 1500.0
+    },
+    "practice_open": {
+      "fg": 0.0037801170362723457,
+      "fg_sd": 0.001854286958784749,
+      "survive": 0.0,
+      "n": 16,
+      "ticks": 338.3125
+    },
+    "no_practice": {
+      "fg": 0.0,
+      "fg_sd": 0.0,
+      "survive": 0.0,
+      "n": 16,
+      "ticks": 237.8125
+    },
+    "variation": {
+      "fg": 0.028996881913346463,
+      "fg_sd": 0.023360498539071885,
+      "survive": 0.6875,
+      "n": 16,
+      "ticks": 1133.5625
+    }
+  },
+  "avida": {
+    "seeds": [
+      {
+        "pop": 40,
+        "n_self": 13,
+        "births_supply": 870,
+        "births_after_cut": 0,
+        "self_rate": 0.325
+      },
+      {
+        "pop": 40,
+        "n_self": 2,
+        "births_supply": 128,
+        "births_after_cut": 0,
+        "self_rate": 0.05
+      },
+      {
+        "pop": 40,
+        "n_self": 0,
+        "births_supply": 133,
+        "births_after_cut": 0,
+        "self_rate": 0.0
+      },
+      {
+        "pop": 40,
+        "n_self": 0,
+        "births_supply": 140,
+        "births_after_cut": 0,
+        "self_rate": 0.0
+      },
+      {
+        "pop": 40,
+        "n_self": 1,
+        "births_supply": 156,
+        "births_after_cut": 0,
+        "self_rate": 0.025
+      }
+    ],
+    "tot_self": 16,
+    "tot_pop": 200,
+    "self_rate": 0.08,
+    "births_after_cut": 0
+  }
+}

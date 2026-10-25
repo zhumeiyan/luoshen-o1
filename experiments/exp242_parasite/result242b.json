@@ -1,1 +1,150 @@
-ewogIueLrOeriyAgICAgZEFCPTAgICBkQkE9MCI6IHsKICAi5Y2g55SoIjogNC4yLAogICJB5aKe6ZW/IjogMC41OCwKICAiQei3syI6IDAuNTgsCiAgIkLokL3lnLAiOiAwLjAsCiAgIkLlrZjmtLsiOiAwLjAKIH0sCiAi5YWx5qCWICAgICBkQUI9MCAgIGRCQT0wLjkiOiB7CiAgIuWNoOeUqCI6IDQuMiwKICAiQeWinumVvyI6IDAuNTgsCiAgIkHot7MiOiAwLjU4LAogICJC6JC95ZywIjogNi4zLAogICJC5a2Y5rS7IjogMC45CiB9LAogIuKYheWvhOeUnyAgIGRBQj0wICAgZEJBPTEuMCI6IHsKICAi5Y2g55SoIjogNC4yLAogICJB5aKe6ZW/IjogMC41OCwKICAiQei3syI6IDAuNTgsCiAgIkLokL3lnLAiOiA3LjAsCiAgIkLlrZjmtLsiOiAxLjAKIH0sCiAi5YGP5a6zICAgICBkQUI9MC4zIGRCQT0xLjAiOiB7CiAgIuWNoOeUqCI6IDQuMiwKICAiQeWinumVvyI6IDAuNDA2LAogICJB6LezIjogMC4yODQsCiAgIkLokL3lnLAiOiA3LjAsCiAgIkLlrZjmtLsiOiAxLjAKIH0sCiAi5YWx55SfICAgICBkQUI9MC45IGRCQT0wLjkiOiB7CiAgIuWNoOeUqCI6IDQuMiwKICAiQeWinumVvyI6IDAuMDU4LAogICJB6LezIjogMC4wMDYsCiAgIkLokL3lnLAiOiA2LjMsCiAgIkLlrZjmtLsiOiAwLjkKIH0sCiAi4piF55eF5q+SICAgZEFCPTAgICBkQkE9MS4wIHZpcj0xIjogewogICLljaDnlKgiOiA5LjIsCiAgIkHlop7plb8iOiAwLjA4LAogICJB6LezIjogMC4wOCwKICAiQuiQveWcsCI6IDcuMCwKICAiQuWtmOa0uyI6IDEuMAogfSwKICJkQUI9MC4wIjogewogICJB5aKe6ZW/IjogMC41OCwKICAiQei3syI6IDAuNTgKIH0sCiAiZEFCPTAuMSI6IHsKICAiQeWinumVvyI6IDAuNTIyLAogICJB6LezIjogMC40NwogfSwKICJkQUI9MC4yIjogewogICJB5aKe6ZW/IjogMC40NjQsCiAgIkHot7MiOiAwLjM3MQogfSwKICJkQUI9MC4zIjogewogICJB5aKe6ZW/IjogMC40MDYsCiAgIkHot7MiOiAwLjI4NAogfSwKICJkQUI9MC41IjogewogICJB5aKe6ZW/IjogMC4yOSwKICAiQei3syI6IDAuMTQ1CiB9LAogImRBQj0wLjciOiB7CiAgIkHlop7plb8iOiAwLjE3NCwKICAiQei3syI6IDAuMDUyCiB9LAogImRBQj0wLjkiOiB7CiAgIkHlop7plb8iOiAwLjA1OCwKICAiQei3syI6IDAuMDA2CiB9LAogImRBQj0xLjAiOiB7CiAgIkHlop7plb8iOiAwLjAsCiAgIkHot7MiOiAwLjAKIH0sCiAiZEJBPTAuMCI6IHsKICAiQuiQveWcsCI6IDAuMCwKICAiQuWtmOa0uyI6IDAuMAogfSwKICJkQkE9MC4yIjogewogICJC6JC95ZywIjogMS40LAogICJC5a2Y5rS7IjogMC4yCiB9LAogImRCQT0wLjQiOiB7CiAgIkLokL3lnLAiOiAyLjgsCiAgIkLlrZjmtLsiOiAwLjQKIH0sCiAiZEJBPTAuNiI6IHsKICAiQuiQveWcsCI6IDQuMiwKICAiQuWtmOa0uyI6IDAuNgogfSwKICJkQkE9MC44IjogewogICJC6JC95ZywIjogNS42LAogICJC5a2Y5rS7IjogMC44CiB9LAogImRCQT0xLjAiOiB7CiAgIkLokL3lnLAiOiA3LjAsCiAgIkLlrZjmtLsiOiAxLjAKIH0sCiAidmlyPTAuMDAiOiB7CiAgIuWNoOeUqCI6IDQuMiwKICAiQeWinumVvyI6IDAuNTgsCiAgIkHot7MiOiAwLjU4CiB9LAogInZpcj0wLjI1IjogewogICLljaDnlKgiOiA1LjQ1LAogICJB5aKe6ZW/IjogMC40NTUsCiAgIkHot7MiOiAwLjQ1NQogfSwKICJ2aXI9MC41MCI6IHsKICAi5Y2g55SoIjogNi43LAogICJB5aKe6ZW/IjogMC4zMywKICAiQei3syI6IDAuMzMKIH0sCiAidmlyPTAuNzUiOiB7CiAgIuWNoOeUqCI6IDcuOTUsCiAgIkHlop7plb8iOiAwLjIwNSwKICAiQei3syI6IDAuMjA1CiB9LAogInZpcj0xLjAwIjogewogICLljaDnlKgiOiA5LjIsCiAgIkHlop7plb8iOiAwLjA4LAogICJB6LezIjogMC4wOAogfSwKICJ2aXI9MS41MCI6IHsKICAi5Y2g55SoIjogMTEuNywKICAiQeWinumVvyI6IDAuMCwKICAiQei3syI6IDAuMAogfSwKICJnYXRlPTAuMDAiOiB7CiAgIuWNoOeUqCI6IDQuMiwKICAiQeWinumVvyI6IDAuNTgKIH0sCiAiZ2F0ZT0wLjI1IjogewogICLljaDnlKgiOiAzLjE1LAogICJB5aKe6ZW/IjogMC42ODUKIH0sCiAiZ2F0ZT0wLjUwIjogewogICLljaDnlKgiOiAyLjEsCiAgIkHlop7plb8iOiAwLjc5CiB9LAogImdhdGU9MC43NSI6IHsKICAi5Y2g55SoIjogMS4wNSwKICAiQeWinumVvyI6IDAuODk1CiB9LAogImdhdGU9MS4wMCI6IHsKICAi5Y2g55SoIjogMC4wLAogICJB5aKe6ZW/IjogMS4wCiB9Cn0=
+{
+ "独立     dAB=0   dBA=0": {
+  "占用": 4.2,
+  "A增长": 0.58,
+  "A跳": 0.58,
+  "B落地": 0.0,
+  "B存活": 0.0
+ },
+ "共栖     dAB=0   dBA=0.9": {
+  "占用": 4.2,
+  "A增长": 0.58,
+  "A跳": 0.58,
+  "B落地": 6.3,
+  "B存活": 0.9
+ },
+ "★寄生   dAB=0   dBA=1.0": {
+  "占用": 4.2,
+  "A增长": 0.58,
+  "A跳": 0.58,
+  "B落地": 7.0,
+  "B存活": 1.0
+ },
+ "偏害     dAB=0.3 dBA=1.0": {
+  "占用": 4.2,
+  "A增长": 0.406,
+  "A跳": 0.284,
+  "B落地": 7.0,
+  "B存活": 1.0
+ },
+ "共生     dAB=0.9 dBA=0.9": {
+  "占用": 4.2,
+  "A增长": 0.058,
+  "A跳": 0.006,
+  "B落地": 6.3,
+  "B存活": 0.9
+ },
+ "★病毒   dAB=0   dBA=1.0 vir=1": {
+  "占用": 9.2,
+  "A增长": 0.08,
+  "A跳": 0.08,
+  "B落地": 7.0,
+  "B存活": 1.0
+ },
+ "dAB=0.0": {
+  "A增长": 0.58,
+  "A跳": 0.58
+ },
+ "dAB=0.1": {
+  "A增长": 0.522,
+  "A跳": 0.47
+ },
+ "dAB=0.2": {
+  "A增长": 0.464,
+  "A跳": 0.371
+ },
+ "dAB=0.3": {
+  "A增长": 0.406,
+  "A跳": 0.284
+ },
+ "dAB=0.5": {
+  "A增长": 0.29,
+  "A跳": 0.145
+ },
+ "dAB=0.7": {
+  "A增长": 0.174,
+  "A跳": 0.052
+ },
+ "dAB=0.9": {
+  "A增长": 0.058,
+  "A跳": 0.006
+ },
+ "dAB=1.0": {
+  "A增长": 0.0,
+  "A跳": 0.0
+ },
+ "dBA=0.0": {
+  "B落地": 0.0,
+  "B存活": 0.0
+ },
+ "dBA=0.2": {
+  "B落地": 1.4,
+  "B存活": 0.2
+ },
+ "dBA=0.4": {
+  "B落地": 2.8,
+  "B存活": 0.4
+ },
+ "dBA=0.6": {
+  "B落地": 4.2,
+  "B存活": 0.6
+ },
+ "dBA=0.8": {
+  "B落地": 5.6,
+  "B存活": 0.8
+ },
+ "dBA=1.0": {
+  "B落地": 7.0,
+  "B存活": 1.0
+ },
+ "vir=0.00": {
+  "占用": 4.2,
+  "A增长": 0.58,
+  "A跳": 0.58
+ },
+ "vir=0.25": {
+  "占用": 5.45,
+  "A增长": 0.455,
+  "A跳": 0.455
+ },
+ "vir=0.50": {
+  "占用": 6.7,
+  "A增长": 0.33,
+  "A跳": 0.33
+ },
+ "vir=0.75": {
+  "占用": 7.95,
+  "A增长": 0.205,
+  "A跳": 0.205
+ },
+ "vir=1.00": {
+  "占用": 9.2,
+  "A增长": 0.08,
+  "A跳": 0.08
+ },
+ "vir=1.50": {
+  "占用": 11.7,
+  "A增长": 0.0,
+  "A跳": 0.0
+ },
+ "gate=0.00": {
+  "占用": 4.2,
+  "A增长": 0.58
+ },
+ "gate=0.25": {
+  "占用": 3.15,
+  "A增长": 0.685
+ },
+ "gate=0.50": {
+  "占用": 2.1,
+  "A增长": 0.79
+ },
+ "gate=0.75": {
+  "占用": 1.05,
+  "A增长": 0.895
+ },
+ "gate=1.00": {
+  "占用": 0.0,
+  "A增长": 1.0
+ }
+}

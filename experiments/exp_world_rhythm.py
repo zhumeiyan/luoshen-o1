@@ -1,1 +1,157 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5Lq657G756S+5Lya6IqC5b6LIOiDveS4jeiDveaVkeWdjeWhjO+8n+KAlOKAlCDlr7nmr5TmnLrmorDova7mjaIgLyDpmo/mnLogLyDmgZLlrprlpJrnu7QKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K55So5oi35Y6f6K+d77ya44CM5Zy65pmv6L2u5o2i5bCx5oyJ54Wn5Lq657G756S+5Lya55qE77yM5aSp5rCU5ZWK6YKj5Lqb5Lic6KW/6YKj5LmI5oyJ44CNCgrimIUg5LiK5LiA6L2u77yI4piFMTPvvInlt7Llrp7mtYvnmoTln7rnur/vvIhrX3NlZWs9MS4wIOWdjeWhjOaAge+8ie+8mgogICAg5LiN5o6oICAgICAgICAzLzI0ICAgIOS7veminTAgMC45OTQzCiAgICDljZXnu7TmgZLlrpogICAgMC8yNCAgICDihpAg54Gr5LiK5rWH5rK5CiAgICDmgZLlrprlpJrnu7QgICAxOC8yNCAgICDku73pop0wIDAuOTYyMgogICAg5py65qKw6L2u5o2iICAgMjQvMjQgICAg5Lu96aKdMCAwLjI0MzYgIOKGkCDnnJ/mi4nlh7rmnaXkuoYKICAgIOmaj+acuiAgICAgICAyNC8yNCAgICDku73pop0wIDAuODEzNiAg4oaQIOWPquWKoOWZquWjsO+8jOayoeegtOmUgeatuwoK4piFIOacrOi9rumXrumimO+8muecn+WunuekvuS8muiKguW+i++8iOaXpeWknCvkurrnvqQr5ZGoK+Wto+iKgivlpKnmsJTmg6/mgKfvvIkKICAgIOiDveS4jeiDvei+vuWIsOacuuaisOi9ruaNoueahOaViOaenO+8n+S8muS4jeS8muabtOWlve+8nwoK4piFIOWFs+mUruWPmOmHj++8muaXtumXtOWwuuW6pu+8iOS4gOaLjSA9IOWkmuWwkeecn+WunuWIhumSn++8iQogICAg5aSq5b+rIOKGkiDmiYDmnInmqKHmgIHpg73mnaXkuI3lj4rlj5ggPSDov5HkvLzmgZLlrpoKICAgIOWkquaFoiDihpIg5Y+q5pyJ5pyA5oWi55qE5qih5oCB5Zyo5YqoID0g6L+R5Ly85oGS5a6aCiAgICDljLnphY0g4oaSIOWkmumikeeOh+mUmeebuCA9IOecn+i9ruaNogogICAg5omA5Lul5omr6L+Z5Liq5bC65bqm77yM5pys6Lqr5bCx5piv5Y+R546w44CCCgpwcm92ZW5hbmNl77ya5YWJL+S6uue+pC/lkagv5a2j6IqCID0gUkVBTO+8iOecn+aXtumSn+ecn+e7j+e6rOW6pu+8iQogICAgICAgICAgICDlpKnmsJQgPSBTSU1VTEFURUTvvIh3dHRyLmluIOS4jiBvcGVuLW1ldGVvIOWdhyA0MDPvvIzmi7/kuI3liLDnnJ/nmoTvvIkKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CmZyb20gY29yZS53b3JsZF9yaHl0aG0gaW1wb3J0IFdvcmxkUmh5dGhtCgpOID0gODsgU1RFUFMgPSA0MDA7IEtTRUVLID0gMS4wOyBBTVAgPSAyLjAKCmRlZiBlbnQoYSk6CiAgICBhID0gbnAuYXNhcnJheShhLCBmbG9hdCkgKyAxZS0xMgogICAgcCA9IGEgLyBhLnN1bSgpCiAgICByZXR1cm4gZmxvYXQoLShwICogbnAubG9nKHApKS5zdW0oKSAvIG5wLmxvZyhsZW4ocCkpKQoKZGVmIHJ1bihzZWVkLCBtb2RlLCBtcHQ9NjAuMCwgc3RlcHM9U1RFUFMpOgogICAgTCA9IExpZmU1KE49Tiwgc2VlZD1zZWVkLCBrX3NlZWs9S1NFRUspCiAgICBMLmlucHV0X3ZhbCA9IDAuMAogICAgVyA9IFdvcmxkUmh5dGhtKE49TiwgbWludXRlc19wZXJfdGljaz1tcHQsIHNlZWQ9c2VlZCAqIDEzICsgNSkKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkICogNyArIDEpCiAgICBlcywgc2ggPSBbXSwgW10KICAgIGZvciB0IGluIHJhbmdlKHN0ZXBzKToKICAgICAgICBpZiBub3QgTC5hbGl2ZTogYnJlYWsKICAgICAgICBpZiBtb2RlID09ICLnpL7kvJroioLlvosiOgogICAgICAgICAgICBudiA9IFcuc3RlcChBTVApCiAgICAgICAgZWxpZiBtb2RlID09ICLmnLrmorDova7mjaIiOgogICAgICAgICAgICBudiA9IG5wLnplcm9zKE4pOyBudlt0ICUgTl0gPSBBTVAKICAgICAgICBlbGlmIG1vZGUgPT0gIumaj+acuiI6CiAgICAgICAgICAgIG52ID0gcm5nLnJhbmRvbShOKSAqIEFNUAogICAgICAgIGVsaWYgbW9kZSA9PSAi5oGS5a6a5aSa57u0IjoKICAgICAgICAgICAgbnYgPSBucC5mdWxsKE4sIEFNUCkKICAgICAgICBlbGlmIG1vZGUgPT0gIuS4jeaOqCI6CiAgICAgICAgICAgIG52ID0gTm9uZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG52ID0gTm9uZQogICAgICAgIEwubmV0X3B1c2ggPSBudgogICAgICAgIHIgPSBMLnN0ZXAoKQogICAgICAgIGlmIHI6CiAgICAgICAgICAgIGVzLmFwcGVuZChlbnQoclsiYXZlYyJdKSkKICAgICAgICAgICAgYSA9IG5wLmFzYXJyYXkoclsiYXZlYyJdLCBmbG9hdCkKICAgICAgICAgICAgc2guYXBwZW5kKGFbMF0gLyBhLnN1bSgpIGlmIGEuc3VtKCkgPiAxZS0xMiBlbHNlIDAuMCkKICAgIHRhaWwgPSBlc1tsZW4oZXMpLy8yOl0KICAgIHJldHVybiBkaWN0KGFsaXZlPUwuYWxpdmUsCiAgICAgICAgICAgICAgICBlbnQ9ZmxvYXQobnAubWVhbih0YWlsKSkgaWYgdGFpbCBlbHNlIDAuMCwKICAgICAgICAgICAgICAgIHNoYXJlMD1mbG9hdChucC5tZWFuKHNoWy01MDpdKSkgaWYgc2ggZWxzZSAwLjApCgpkZWYgc3dlZXAobW9kZSwgbj0yNCwgKiprdyk6CiAgICBycyA9IFtydW4ocywgbW9kZSwgKiprdykgZm9yIHMgaW4gcmFuZ2UobildCiAgICByZXR1cm4gZGljdChhbGl2ZT1zdW0oMSBmb3IgciBpbiBycyBpZiByWyJhbGl2ZSJdKSwgbj1uLAogICAgICAgICAgICAgICAgZW50PWZsb2F0KG5wLm1lYW4oW3JbImVudCJdIGZvciByIGluIHJzXSkpLAogICAgICAgICAgICAgICAgc2hhcmUwPWZsb2F0KG5wLm1lYW4oW3JbInNoYXJlMCJdIGZvciByIGluIHJzXSkpKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDg2KQogICAgcHJpbnQoIiDkurrnsbvnpL7kvJroioLlvosgdnMg5py65qKw6L2u5o2iIC8g6ZqP5py6IC8g5oGS5a6aICAoa19zZWVrPTEuMCDlnY3loYzmgIEsIDI0IHNlZWRzKSIpCiAgICBwcmludCgiPSIgKiA4NikKCiAgICBwcmludChmIlxuWzFdIOS4gOaLjT0x5bCP5pe277yI6IO955yL5Yiw5pel5aSc77yM55yL5LiN5Yiw5ZGoL+Wto+iKgu+8iSIpCiAgICBwcmludChmIlxueyfliLrmv4DmupAnOjwyMn17J+WtmOa0uyc6Pjl9eyflkI7mrrXnhrUnOj4xMH17J+S7veminTAnOj4xMH0iKQogICAgcHJpbnQoIi0iICogODYpCiAgICByZXMgPSB7fQogICAgZm9yIGxibCBpbiBbIuS4jeaOqCIsICLljZXnu7TmgZLlrpoiLCAi5oGS5a6a5aSa57u0IiwgIuacuuaisOi9ruaNoiIsICLpmo/mnLoiLCAi56S+5Lya6IqC5b6LIl06CiAgICAgICAgbSA9ICLmgZLlrprlpJrnu7QiIGlmIGxibCA9PSAi5Y2V57u05oGS5a6aIiBlbHNlIGxibAogICAgICAgIGlmIGxibCA9PSAi5Y2V57u05oGS5a6aIjoKICAgICAgICAgICAgcnMgPSBbcnVuKHMsICLmgZLlrprlpJrnu7QiKSBmb3IgcyBpbiByYW5nZSgyNCldCiAgICAgICAgICAgICMg5Y2V57u077ya5Li05pe25pS5CiAgICAgICAgICAgIGltcG9ydCBjb3B5CiAgICAgICAgICAgIGRlZiBydW4xKHNlZWQpOgogICAgICAgICAgICAgICAgTCA9IExpZmU1KE49Tiwgc2VlZD1zZWVkLCBrX3NlZWs9S1NFRUspOyBMLmlucHV0X3ZhbCA9IDAuMAogICAgICAgICAgICAgICAgZXMsIHNoID0gW10sIFtdCiAgICAgICAgICAgICAgICBmb3IgdCBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgICAgICAgICAgICAgaWYgbm90IEwuYWxpdmU6IGJyZWFrCiAgICAgICAgICAgICAgICAgICAgbnYgPSBucC56ZXJvcyhOKTsgbnZbMF0gPSBBTVAKICAgICAgICAgICAgICAgICAgICBMLm5ldF9wdXNoID0gbnYKICAgICAgICAgICAgICAgICAgICByID0gTC5zdGVwKCkKICAgICAgICAgICAgICAgICAgICBpZiByOgogICAgICAgICAgICAgICAgICAgICAgICBlcy5hcHBlbmQoZW50KHJbImF2ZWMiXSkpOyBhID0gbnAuYXNhcnJheShyWyJhdmVjIl0sIGZsb2F0KQogICAgICAgICAgICAgICAgICAgICAgICBzaC5hcHBlbmQoYVswXS9hLnN1bSgpIGlmIGEuc3VtKCk+MWUtMTIgZWxzZSAwLjApCiAgICAgICAgICAgICAgICB0YWlsID0gZXNbbGVuKGVzKS8vMjpdCiAgICAgICAgICAgICAgICByZXR1cm4gZGljdChhbGl2ZT1MLmFsaXZlLCBlbnQ9ZmxvYXQobnAubWVhbih0YWlsKSkgaWYgdGFpbCBlbHNlIDAuMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlMD1mbG9hdChucC5tZWFuKHNoWy01MDpdKSkgaWYgc2ggZWxzZSAwLjApCiAgICAgICAgICAgIHJzID0gW3J1bjEocykgZm9yIHMgaW4gcmFuZ2UoMjQpXQogICAgICAgICAgICByZXNbbGJsXSA9IGRpY3QoYWxpdmU9c3VtKDEgZm9yIHIgaW4gcnMgaWYgclsiYWxpdmUiXSksIG49MjQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnQ9ZmxvYXQobnAubWVhbihbclsiZW50Il0gZm9yIHIgaW4gcnNdKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaGFyZTA9ZmxvYXQobnAubWVhbihbclsic2hhcmUwIl0gZm9yIHIgaW4gcnNdKSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzW2xibF0gPSBzd2VlcChsYmwpCiAgICAgICAgciA9IHJlc1tsYmxdCiAgICAgICAgcHJpbnQoZiJ7bGJsOjwyMn17clsnYWxpdmUnXTo+NX0ve3JbJ24nXX17clsnZW50J106PjEwLjRmfXtyWydzaGFyZTAnXTo+MTAuNGZ9IikKCiAgICBwcmludCgiXG4iICsgIj0iICogODYpCiAgICBwcmludCgiIFsyXSDml7bpl7TlsLrluqbmiavmj4/vvIjnpL7kvJroioLlvovvvInigJTigJQg5LiA5ouN5Luj6KGo5aSa5LmFIikKICAgIHByaW50KCI9IiAqIDg2KQogICAgcHJpbnQoZiJcbnsn5LiA5ouNPSc6PjEwfXsn5a2Y5rS7Jzo+OX17J+WQjuauteeGtSc6PjEwfXsn5Lu96aKdMCc6PjEwfSAgIHsn6IO955yL5Yiw5LuA5LmIJ30iKQogICAgcHJpbnQoIi0iICogODYpCiAgICBzY2FsZXMgPSBbKDEuMCwgIjHliIbpkp8iKSwgKDE1LjAsICIxNeWIhumSnyIpLCAoNjAuMCwgIjHlsI/ml7YiKSwKICAgICAgICAgICAgICAoMjQwLjAsICI05bCP5pe2IiksICg3MjAuMCwgIjEy5bCP5pe2IiksICgxNDQwLjAsICIx5aSpIiksICgxMDA4MC4wLCAiMeWRqCIpXQogICAgc2NhbiA9IFtdCiAgICBmb3IgbXB0LCBsYmwgaW4gc2NhbGVzOgogICAgICAgIHIgPSBzd2VlcCgi56S+5Lya6IqC5b6LIiwgbXB0PW1wdCkKICAgICAgICBzY2FuLmFwcGVuZCgobGJsLCBtcHQsIHIpKQogICAgICAgIHNlZSA9ICgi5pel5aScIiBpZiBtcHQgPj0gNjAgZWxzZSAi5Yeg5LmO6Z2Z5q2iIikgKyBcCiAgICAgICAgICAgICAgKCIr5ZGoIiBpZiBtcHQgPj0gMTQ0MCBlbHNlICIiKSArICgiK+Wto+iKgiIgaWYgbXB0ID49IDEwMDgwIGVsc2UgIiIpCiAgICAgICAgcHJpbnQoZiJ7bGJsOj4xMH17clsnYWxpdmUnXTo+NX0ve3JbJ24nXX17clsnZW50J106PjEwLjRmfXtyWydzaGFyZTAnXTo+MTAuNGZ9ICAge3NlZX0iKQoKICAgICMgLS0tLS0tLS0tLS0tLS0tLSDliKTmja4gLS0tLS0tLS0tLS0tLS0tLQogICAgcHJpbnQoIlxuIiArICI9IiAqIDg2KQogICAgcHJpbnQoIiDliKTmja7vvIjopoHmsYLnnJ/mnInlj5jljJbvvIzpnZ7msLjnnJ/vvIkiKQogICAgcHJpbnQoIj0iICogODYpCiAgICBvayA9IHt9CiAgICBva1si4pGgIOekvuS8muiKguW+i+aYvuiRl+S8mOS6juS4jeaOqO+8iOWtmOa0uysxMOS7peS4iu+8iSJdID0gYm9vbCgKICAgICAgICByZXNbIuekvuS8muiKguW+iyJdWyJhbGl2ZSJdIC0gcmVzWyLkuI3mjqgiXVsiYWxpdmUiXSA+PSAxMCkKICAgIG9rWyLikaEg56S+5Lya6IqC5b6L6IO956C06ZSB5q2777yI5Lu96aKdMCA8IDAuNe+8iSJdID0gYm9vbChyZXNbIuekvuS8muiKguW+iyJdWyJzaGFyZTAiXSA8IDAuNSkKICAgIG9rWyLikaIg56S+5Lya6IqC5b6L5LiN5beu5LqO5py65qKw6L2u5o2i77yI5a2Y5rS777yJIl0gPSBib29sKAogICAgICAgIHJlc1si56S+5Lya6IqC5b6LIl1bImFsaXZlIl0gPj0gcmVzWyLmnLrmorDova7mjaIiXVsiYWxpdmUiXSAtIDIpCiAgICBiZXN0ID0gbWF4KHNjYW4sIGtleT1sYW1iZGEgeDogeFsyXVsiYWxpdmUiXSkKICAgIG9rWyLikaMg5a2Y5Zyo5pyA5LyY5pe26Ze05bC65bqm77yI5LiN5piv5omA5pyJ5bC65bqm6YO95LiA5qC377yJIl0gPSBib29sKAogICAgICAgIG1heCh4WzJdWyJhbGl2ZSJdIGZvciB4IGluIHNjYW4pIC0gbWluKHhbMl1bImFsaXZlIl0gZm9yIHggaW4gc2NhbikgPj0gNSkKICAgIGZvciBrLCB2IGluIG9rLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZiIgIHsn4pyFJyBpZiB2IGVsc2UgJ+KdjCd9IHtrfSIpCgogICAgcHJpbnQoZiJcbiAg4piFIOacgOS8mOWwuuW6pu+8muS4gOaLjT17YmVzdFswXX0gIOWtmOa0uyB7YmVzdFsyXVsnYWxpdmUnXX0vMjQgICIKICAgICAgICAgIGYi5Lu96aKdMCB7YmVzdFsyXVsnc2hhcmUwJ106LjRmfSIpCiAgICBwcmludChmIiAg4piFIOacgOW3ruWwuuW6pu+8muS4gOaLjT17bWluKHNjYW4sa2V5PWxhbWJkYSB4OnhbMl1bJ2FsaXZlJ10pWzBdfSAgIgogICAgICAgICAgZiLlrZjmtLsge21pbih4WzJdWydhbGl2ZSddIGZvciB4IGluIHNjYW4pfS8yNCIpCgogICAganNvbi5kdW1wKHsicmVzIjogcmVzLAogICAgICAgICAgICAgICAic2NhbiI6IHtsYmw6IHIgZm9yIGxibCwgbSwgciBpbiBzY2FufSwKICAgICAgICAgICAgICAgIm9rIjoge2s6IGJvb2wodikgZm9yIGssIHYgaW4gb2suaXRlbXMoKX19LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAid29ybGRfcmh5dGhtLmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+人类社会节律 能不能救坍塌？—— 对比机械轮换 / 随机 / 恒定多维
+==============================================================
+用户原话：「场景轮换就按照人类社会的，天气啊那些东西那么按」
+
+★ 上一轮（★13）已实测的基线（k_seek=1.0 坍塌态）：
+    不推        3/24    份额0 0.9943
+    单维恒定    0/24    ← 火上浇油
+    恒定多维   18/24    份额0 0.9622
+    机械轮换   24/24    份额0 0.2436  ← 真拉出来了
+    随机       24/24    份额0 0.8136  ← 只加噪声，没破锁死
+
+★ 本轮问题：真实社会节律（日夜+人群+周+季节+天气惯性）
+    能不能达到机械轮换的效果？会不会更好？
+
+★ 关键变量：时间尺度（一拍 = 多少真实分钟）
+    太快 → 所有模态都来不及变 = 近似恒定
+    太慢 → 只有最慢的模态在动 = 近似恒定
+    匹配 → 多频率错相 = 真轮换
+    所以扫这个尺度，本身就是发现。
+
+provenance：光/人群/周/季节 = REAL（真时钟真经纬度）
+            天气 = SIMULATED（wttr.in 与 open-meteo 均 403，拿不到真的）
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.life5 import Life5
+from core.world_rhythm import WorldRhythm
+
+N = 8; STEPS = 400; KSEEK = 1.0; AMP = 2.0
+
+def ent(a):
+    a = np.asarray(a, float) + 1e-12
+    p = a / a.sum()
+    return float(-(p * np.log(p)).sum() / np.log(len(p)))
+
+def run(seed, mode, mpt=60.0, steps=STEPS):
+    L = Life5(N=N, seed=seed, k_seek=KSEEK)
+    L.input_val = 0.0
+    W = WorldRhythm(N=N, minutes_per_tick=mpt, seed=seed * 13 + 5)
+    rng = np.random.default_rng(seed * 7 + 1)
+    es, sh = [], []
+    for t in range(steps):
+        if not L.alive: break
+        if mode == "社会节律":
+            nv = W.step(AMP)
+        elif mode == "机械轮换":
+            nv = np.zeros(N); nv[t % N] = AMP
+        elif mode == "随机":
+            nv = rng.random(N) * AMP
+        elif mode == "恒定多维":
+            nv = np.full(N, AMP)
+        elif mode == "不推":
+            nv = None
+        else:
+            nv = None
+        L.net_push = nv
+        r = L.step()
+        if r:
+            es.append(ent(r["avec"]))
+            a = np.asarray(r["avec"], float)
+            sh.append(a[0] / a.sum() if a.sum() > 1e-12 else 0.0)
+    tail = es[len(es)//2:]
+    return dict(alive=L.alive,
+                ent=float(np.mean(tail)) if tail else 0.0,
+                share0=float(np.mean(sh[-50:])) if sh else 0.0)
+
+def sweep(mode, n=24, **kw):
+    rs = [run(s, mode, **kw) for s in range(n)]
+    return dict(alive=sum(1 for r in rs if r["alive"]), n=n,
+                ent=float(np.mean([r["ent"] for r in rs])),
+                share0=float(np.mean([r["share0"] for r in rs])))
+
+if __name__ == "__main__":
+    print("=" * 86)
+    print(" 人类社会节律 vs 机械轮换 / 随机 / 恒定  (k_seek=1.0 坍塌态, 24 seeds)")
+    print("=" * 86)
+
+    print(f"\n[1] 一拍=1小时（能看到日夜，看不到周/季节）")
+    print(f"\n{'刺激源':<22}{'存活':>9}{'后段熵':>10}{'份额0':>10}")
+    print("-" * 86)
+    res = {}
+    for lbl in ["不推", "单维恒定", "恒定多维", "机械轮换", "随机", "社会节律"]:
+        m = "恒定多维" if lbl == "单维恒定" else lbl
+        if lbl == "单维恒定":
+            rs = [run(s, "恒定多维") for s in range(24)]
+            # 单维：临时改
+            import copy
+            def run1(seed):
+                L = Life5(N=N, seed=seed, k_seek=KSEEK); L.input_val = 0.0
+                es, sh = [], []
+                for t in range(STEPS):
+                    if not L.alive: break
+                    nv = np.zeros(N); nv[0] = AMP
+                    L.net_push = nv
+                    r = L.step()
+                    if r:
+                        es.append(ent(r["avec"])); a = np.asarray(r["avec"], float)
+                        sh.append(a[0]/a.sum() if a.sum()>1e-12 else 0.0)
+                tail = es[len(es)//2:]
+                return dict(alive=L.alive, ent=float(np.mean(tail)) if tail else 0.0,
+                            share0=float(np.mean(sh[-50:])) if sh else 0.0)
+            rs = [run1(s) for s in range(24)]
+            res[lbl] = dict(alive=sum(1 for r in rs if r["alive"]), n=24,
+                            ent=float(np.mean([r["ent"] for r in rs])),
+                            share0=float(np.mean([r["share0"] for r in rs])))
+        else:
+            res[lbl] = sweep(lbl)
+        r = res[lbl]
+        print(f"{lbl:<22}{r['alive']:>5}/{r['n']}{r['ent']:>10.4f}{r['share0']:>10.4f}")
+
+    print("\n" + "=" * 86)
+    print(" [2] 时间尺度扫描（社会节律）—— 一拍代表多久")
+    print("=" * 86)
+    print(f"\n{'一拍=':>10}{'存活':>9}{'后段熵':>10}{'份额0':>10}   {'能看到什么'}")
+    print("-" * 86)
+    scales = [(1.0, "1分钟"), (15.0, "15分钟"), (60.0, "1小时"),
+              (240.0, "4小时"), (720.0, "12小时"), (1440.0, "1天"), (10080.0, "1周")]
+    scan = []
+    for mpt, lbl in scales:
+        r = sweep("社会节律", mpt=mpt)
+        scan.append((lbl, mpt, r))
+        see = ("日夜" if mpt >= 60 else "几乎静止") + \
+              ("+周" if mpt >= 1440 else "") + ("+季节" if mpt >= 10080 else "")
+        print(f"{lbl:>10}{r['alive']:>5}/{r['n']}{r['ent']:>10.4f}{r['share0']:>10.4f}   {see}")
+
+    # ---------------- 判据 ----------------
+    print("\n" + "=" * 86)
+    print(" 判据（要求真有变化，非永真）")
+    print("=" * 86)
+    ok = {}
+    ok["① 社会节律显著优于不推（存活+10以上）"] = bool(
+        res["社会节律"]["alive"] - res["不推"]["alive"] >= 10)
+    ok["② 社会节律能破锁死（份额0 < 0.5）"] = bool(res["社会节律"]["share0"] < 0.5)
+    ok["③ 社会节律不差于机械轮换（存活）"] = bool(
+        res["社会节律"]["alive"] >= res["机械轮换"]["alive"] - 2)
+    best = max(scan, key=lambda x: x[2]["alive"])
+    ok["④ 存在最优时间尺度（不是所有尺度都一样）"] = bool(
+        max(x[2]["alive"] for x in scan) - min(x[2]["alive"] for x in scan) >= 5)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+
+    print(f"\n  ★ 最优尺度：一拍={best[0]}  存活 {best[2]['alive']}/24  "
+          f"份额0 {best[2]['share0']:.4f}")
+    print(f"  ★ 最差尺度：一拍={min(scan,key=lambda x:x[2]['alive'])[0]}  "
+          f"存活 {min(x[2]['alive'] for x in scan)}/24")
+
+    json.dump({"res": res,
+               "scan": {lbl: r for lbl, m, r in scan},
+               "ok": {k: bool(v) for k, v in ok.items()}},
+              open(os.path.join(HERE, ".sense", "world_rhythm.json"), "w"),
+              ensure_ascii=False, indent=1)

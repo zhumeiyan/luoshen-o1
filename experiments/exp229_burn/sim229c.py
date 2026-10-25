@@ -1,1 +1,65 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMjI5YyDkv67mraMgZXhwbG9pdCDlrp7njrDvvIjnlKggbWFza++8jOS4jeeUqOaJk+S5seaVsOe7hO+8iSIiIgppbXBvcnQgbnVtcHkgYXMgbnAKTSA9IDgwMAoKZGVmIHdvcmxkKGFscGhhLCBzZWVkKToKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgdiA9IG5wLmNsaXAocm5nLnBhcmV0byhhbHBoYSwgTSkgKyAxLCAwLCBOb25lKQogICAgcmV0dXJuIHYgLyB2Lm1lYW4oKSwgcm5nCgpkZWYgcnVuKGFscGhhLCBoLCBtb2RlLCBxLCBjLCBzZWVkLCB0ZW1wdGluZz1GYWxzZSwgc3RlcHM9MTAwLCBzZWVkX29mZj0wKToKICAgIHYsIHJuZyA9IHdvcmxkKGFscGhhLCBzZWVkICsgc2VlZF9vZmYpCiAgICBpc19oYXogPSBybmcucmFuZG9tKE0pIDwgaAogICAgaWYgdGVtcHRpbmc6CiAgICAgICAgdiA9IHYgKiBucC53aGVyZShpc19oYXosIDIuMCwgMS4wKTsgdiA9IHYgLyB2Lm1lYW4oKQogICAgZXN0ID0gdiArIHJuZy5ub3JtYWwoMCwgKDEuMCAtIHEpICogMy4wLCBNKQogICAgb3JkZXIgPSBybmcucGVybXV0YXRpb24oTSkKICAgIGF2YWlsID0gbnAub25lcyhNLCBib29sKQogICAgZ290ID0gMC4wOyBiZXN0ID0gMC4wOyBkaXMgPSAwOyBjYXAgPSAxLjA7IHNlZW4gPSAwOyBMID0gNS4wCiAgICBmb3IgaSBpbiByYW5nZShtaW4oc3RlcHMsIE0pKToKICAgICAgICBpZiBtb2RlID09ICdleHBsb3JlJzoKICAgICAgICAgICAgaiA9IG9yZGVyW2ldCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWR4cyA9IG5wLndoZXJlKGF2YWlsKVswXQogICAgICAgICAgICBqID0gaWR4c1tpbnQobnAuYXJnbWF4KGVzdFtpZHhzXSkpXQogICAgICAgIGF2YWlsW2pdID0gRmFsc2UKICAgICAgICBnID0gdltqXSAqIGNhcAogICAgICAgIGdvdCArPSBnOyBiZXN0ID0gbWF4KGJlc3QsIGcpOyBzZWVuICs9IDEKICAgICAgICBpZiBpc19oYXpbal06CiAgICAgICAgICAgIGRpcyArPSAxOyBjYXAgKj0gMC44NTsgZ290IC09IEwKICAgIHJldHVybiBkaWN0KG5ldD1nb3QgLSBjKnNlZW4sIGJlc3Q9YmVzdCwgZGlzPWRpcywgY2FwPWNhcCkKCmRlZiBhdmcobj04LCAqKmt3KToKICAgIHJzID0gW3J1bihzZWVkPXMsICoqa3cpIGZvciBzIGluIHJhbmdlKG4pXQogICAgcmV0dXJuIHtrOiBmbG9hdChucC5tZWFuKFtyW2tdIGZvciByIGluIHJzXSkpIGZvciBrIGluIHJzWzBdfQoKcHJpbnQoIj09PSBDIOWFiOmqjCBxIOmXqOanm++8muWumuWQkSAtIOS5seeDp++8iGFscGhhPTEuNSwgYz0wLjksIGg9MC4xMO+8iT09PSIpCnByaW50KCIgIHEgICAg5Lmx54OnICAgICDlrprlkJEgICAgIOW3ruWAvCAgIOacgOWlveWNleS7tijlrprlkJEpIikKZm9yIHEgaW4gWzAuMCwwLjIsMC40LDAuNiwwLjgsMS4wXToKICAgIGU9YXZnKGFscGhhPTEuNSxoPTAuMTAsbW9kZT0nZXhwbG9yZScscT1xLGM9MC45KVsnbmV0J10KICAgIHg9YXZnKGFscGhhPTEuNSxoPTAuMTAsbW9kZT0nZXhwbG9pdCcscT1xLGM9MC45KQogICAgcHJpbnQoZiJ7cTo1LjJmfSAge2U6Ny4xZn0ge3hbJ25ldCddOjcuMWZ9ICB7eFsnbmV0J10tZTorNy4xZn0gICB7eFsnYmVzdCddOjYuMWZ9IikKCnByaW50KCJcbj09PSBDMiDljprlsL7luqYgw5cgcSDpl6jmp5vvvIhjPTAuOSwgaD0wLjEw77yJPT09IikKcHJpbnQoImFscGhhICAgcT0w5beu5YC8ICBxPTAuNOW3ruWAvCAgcT0wLjjlt67lgLwgIHE9MS4w5beu5YC8IikKZm9yIGEgaW4gWzAuOCwxLjUsMy4wLDYuMF06CiAgICByb3c9W10KICAgIGZvciBxIGluIFswLjAsMC40LDAuOCwxLjBdOgogICAgICAgIGU9YXZnKGFscGhhPWEsaD0wLjEwLG1vZGU9J2V4cGxvcmUnLHE9cSxjPTAuOSlbJ25ldCddCiAgICAgICAgeD1hdmcoYWxwaGE9YSxoPTAuMTAsbW9kZT0nZXhwbG9pdCcscT1xLGM9MC45KVsnbmV0J10KICAgICAgICByb3cuYXBwZW5kKHgtZSkKICAgIHByaW50KGYie2E6NS4xZn0gIiArICIiLmpvaW4oZiJ7cjorOS4xZn0iIGZvciByIGluIHJvdykpCgpwcmludCgiXG49PT0gRCDljbHpmanljaDmr5QgaCDDlyDng6flpJrlsJHku7bvvIhhbHBoYT0xLjUsYz0wLjksZXhwbG9yZe+8iT09PSIpCnByaW50KCIgIGggICAg54OnMjAgICAg54OnMTAwICAg54OnNDAwICAg54G+6Zq+5pWwQDQwMCIpCmZvciBoIGluIFswLjAsMC4wNSwwLjEwLDAuMjAsMC40MF06CiAgICByb3c9W2F2ZyhhbHBoYT0xLjUsaD1oLG1vZGU9J2V4cGxvcmUnLHE9MC4wLGM9MC45LHN0ZXBzPXMpIGZvciBzIGluIFsyMCwxMDAsNDAwXV0KICAgIHByaW50KGYie2g6NS4yZn0gIiArICIiLmpvaW4oZiJ7clsnbmV0J106OC4xZn0iIGZvciByIGluIHJvdykgKyBmIiAgIHtyb3dbMl1bJ2RpcyddOjUuMWZ9IikKCnByaW50KCJcbj09PSBFIOivseaDkee7hO+8muWNsemZqeeahOabtOmrmOS7t+WAvO+8iGFscGhhPTEuNSxoPTAuMTUsYz0wLjnvvIk9PT0iKQpmb3IgdGYgaW4gW0ZhbHNlLFRydWVdOgogICAgZT1hdmcoYWxwaGE9MS41LGg9MC4xNSxtb2RlPSdleHBsb3JlJyxxPTAuMCxjPTAuOSx0ZW1wdGluZz10ZikKICAgIHg9YXZnKGFscGhhPTEuNSxoPTAuMTUsbW9kZT0nZXhwbG9pdCcscT0wLjgsYz0wLjksdGVtcHRpbmc9dGYpCiAgICBwcmludChmInRlbXB0aW5nPXtzdHIodGYpOjVzfSDkubHng6flh4A9e2VbJ25ldCddOjcuMWZ954G+PXtlWydkaXMnXTo1LjFmfSB8ICIKICAgICAgICAgIGYi5a6a5ZCR5YeAPXt4WyduZXQnXTo3LjFmfeeBvj17eFsnZGlzJ106NS4xZn0iKQo=
+# -*- coding: utf-8 -*-
+"""229c 修正 exploit 实现（用 mask，不用打乱数组）"""
+import numpy as np
+M = 800
+
+def world(alpha, seed):
+    rng = np.random.default_rng(seed)
+    v = np.clip(rng.pareto(alpha, M) + 1, 0, None)
+    return v / v.mean(), rng
+
+def run(alpha, h, mode, q, c, seed, tempting=False, steps=100, seed_off=0):
+    v, rng = world(alpha, seed + seed_off)
+    is_haz = rng.random(M) < h
+    if tempting:
+        v = v * np.where(is_haz, 2.0, 1.0); v = v / v.mean()
+    est = v + rng.normal(0, (1.0 - q) * 3.0, M)
+    order = rng.permutation(M)
+    avail = np.ones(M, bool)
+    got = 0.0; best = 0.0; dis = 0; cap = 1.0; seen = 0; L = 5.0
+    for i in range(min(steps, M)):
+        if mode == 'explore':
+            j = order[i]
+        else:
+            idxs = np.where(avail)[0]
+            j = idxs[int(np.argmax(est[idxs]))]
+        avail[j] = False
+        g = v[j] * cap
+        got += g; best = max(best, g); seen += 1
+        if is_haz[j]:
+            dis += 1; cap *= 0.85; got -= L
+    return dict(net=got - c*seen, best=best, dis=dis, cap=cap)
+
+def avg(n=8, **kw):
+    rs = [run(seed=s, **kw) for s in range(n)]
+    return {k: float(np.mean([r[k] for r in rs])) for k in rs[0]}
+
+print("=== C 先验 q 门槛：定向 - 乱烧（alpha=1.5, c=0.9, h=0.10）===")
+print("  q    乱烧     定向     差值   最好单件(定向)")
+for q in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    e=avg(alpha=1.5,h=0.10,mode='explore',q=q,c=0.9)['net']
+    x=avg(alpha=1.5,h=0.10,mode='exploit',q=q,c=0.9)
+    print(f"{q:5.2f}  {e:7.1f} {x['net']:7.1f}  {x['net']-e:+7.1f}   {x['best']:6.1f}")
+
+print("\n=== C2 厚尾度 × q 门槛（c=0.9, h=0.10）===")
+print("alpha   q=0差值  q=0.4差值  q=0.8差值  q=1.0差值")
+for a in [0.8,1.5,3.0,6.0]:
+    row=[]
+    for q in [0.0,0.4,0.8,1.0]:
+        e=avg(alpha=a,h=0.10,mode='explore',q=q,c=0.9)['net']
+        x=avg(alpha=a,h=0.10,mode='exploit',q=q,c=0.9)['net']
+        row.append(x-e)
+    print(f"{a:5.1f} " + "".join(f"{r:+9.1f}" for r in row))
+
+print("\n=== D 危险占比 h × 烧多少件（alpha=1.5,c=0.9,explore）===")
+print("  h    烧20    烧100   烧400   灾难数@400")
+for h in [0.0,0.05,0.10,0.20,0.40]:
+    row=[avg(alpha=1.5,h=h,mode='explore',q=0.0,c=0.9,steps=s) for s in [20,100,400]]
+    print(f"{h:5.2f} " + "".join(f"{r['net']:8.1f}" for r in row) + f"   {row[2]['dis']:5.1f}")
+
+print("\n=== E 诱惑组：危险的更高价值（alpha=1.5,h=0.15,c=0.9）===")
+for tf in [False,True]:
+    e=avg(alpha=1.5,h=0.15,mode='explore',q=0.0,c=0.9,tempting=tf)
+    x=avg(alpha=1.5,h=0.15,mode='exploit',q=0.8,c=0.9,tempting=tf)
+    print(f"tempting={str(tf):5s} 乱烧净={e['net']:7.1f}灾={e['dis']:5.1f} | "
+          f"定向净={x['net']:7.1f}灾={x['dis']:5.1f}")

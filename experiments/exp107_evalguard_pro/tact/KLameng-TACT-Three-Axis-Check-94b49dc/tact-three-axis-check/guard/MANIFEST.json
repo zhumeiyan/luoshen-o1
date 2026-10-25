@@ -1,1 +1,19 @@
-ewogICJhc3NldCI6ICJ0YWN0LXRocmVlLWF4aXMtY2hlY2sg5Y+X5o6n5paH5Lu25a6M5pW05oCn5riF5Y2V77yI54mI5pys6ZSB5Z+657q/77yJIiwKICAiZ3VhcmRfdmVyc2lvbiI6ICJ2MS4wIiwKICAibm90ZSI6ICJTSEEtMjU2IOS4uuWGheWuueadg+WogeWfuue6v++8m3ZlcnNpb24g5Li66YC76L6R54mI5pys44CC5Lu75L2V5Y+X5o6n5paH5Lu26KKr5aSW6YOo5Zue5ruaL+evoeaUue+8jHZlcmlmeS5zaCDkvJrmiqXorabjgILmm7TmlrDlj5fmjqfmlofku7blkI7lv4Xpobvph43mlrDnlJ/miJDmnKwgTUFOSUZFU1TjgIIiLAogICJjb250cm9sbGVkX2ZpbGVzIjogewogICAgIlNLSUxMLm1kIjogewogICAgICAic2hhMjU2IjogIjYzZWExZDYwODBiYzVmZTgzN2M1MmNhNjAxMTY5OTVjY2M5YzU2YTFlZDVlNTcyZDljMjA5MTY1YjQ1Y2ZiMjQiLAogICAgICAidmVyc2lvbiI6ICJ2MS4xLjEiCiAgICB9LAogICAgInJlZmVyZW5jZXMvY2FsaWJyYXRpb25fY2FzZXMuanNvbiI6IHsKICAgICAgInNoYTI1NiI6ICI5ODMwYjI5NjkwNDVmOTJjOGJkM2NmMDg5NjY1NmZlYjVkNDRhZDU5NDYyYzdiYWY2ZjRkMGU2ODlkOTJkNDAxIiwKICAgICAgInZlcnNpb24iOiAidjEuMi4xIgogICAgfSwKICAgICJyZWZlcmVuY2VzL2Nvb3JkaW5hdGVfZGF0YS5qc29uIjogewogICAgICAic2hhMjU2IjogImM0NWFiYjFjNmU3ZWNkNGM4ODU4MzRmNDc0ZDlkZDIxYzY5NTg2ZTdjNWI0ZGU5YTU3OTlkMDk3YjdhMGIyYTciLAogICAgICAidmVyc2lvbiI6ICJ2Mi43LjgiCiAgICB9CiAgfQp9
+{
+  "asset": "tact-three-axis-check 受控文件完整性清单（版本锁基线）",
+  "guard_version": "v1.0",
+  "note": "SHA-256 为内容权威基线；version 为逻辑版本。任何受控文件被外部回滚/篡改，verify.sh 会报警。更新受控文件后必须重新生成本 MANIFEST。",
+  "controlled_files": {
+    "SKILL.md": {
+      "sha256": "63ea1d6080bc5fe837c52ca60116995ccc9c56a1ed5e572d9c209165b45cfb24",
+      "version": "v1.1.1"
+    },
+    "references/calibration_cases.json": {
+      "sha256": "9830b2969045f92c8bd3cf0896656feb5d44ad59462c7baf6f4d0e689d92d401",
+      "version": "v1.2.1"
+    },
+    "references/coordinate_data.json": {
+      "sha256": "c45abb1c6e7ecd4c885834f474d9dd21c69586e7c5b4de9a5799d097b7a0b2a7",
+      "version": "v2.7.8"
+    }
+  }
+}

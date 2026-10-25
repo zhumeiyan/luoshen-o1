@@ -1,1 +1,70 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5YGa5a6M6Ieq5bex55yL77yaMTAxIOWFs+mUruaVsOWtlyDmuLLmn5PkuIrlsY8gLT4g5bin57yT5Yay55yf5a6e6YeH6ZuGIC0+IE9DUiDor7vlm54iIiIKaW1wb3J0IG9zLCBzdWJwcm9jZXNzLCByYW5kb20sIGpzb24sIHRpbWUKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKCk9VVCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpGQiA9ICcvZGV2L2ZiMCcKVywgSCA9IDEwMjQsIDc2OApGT05UID0gJy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS1taWNyb2hlaS50dGMnCmlmIG5vdCBvcy5wYXRoLmV4aXN0cyhGT05UKToKICAgIEZPTlQgPSAnL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS9kZWphdnUvRGVqYVZ1U2Fucy1Cb2xkLnR0ZicKCnJvd3MgPSBbCiAgICAoIjEwMWIg5ZGo6L65K+S4u+WKqCDor4bliKvnjociLCAiMS4wMDAwICAg54m55b6BIDQyMCIpLAogICAgKCIxMDFiIOebsuWKqCDor4bliKvnjociLCAiMC43NTAwICAg54m55b6BIDg0IiksCiAgICAoIjEwMWIg5LiN5YqoIOivhuWIq+eOhyIsICIwLjEyNTAgICDnibnlvoEgNDgiKSwKICAgICgiMTAxYyDlgYflvJXlr7wg6K+G5Yir546HIiwgIjAuNTMxMiAgPCDnm7LliqggMC43MTg4IiksCiAgICAoIjEwMWMg5byV5a+856C05Z2P5YmC6YePIiwgIjEuMDAwIC0+IDAuNTMxICDljZXosIMiKSwKICAgICgiMTAxYyBUPTEgR1VJREVEIiwgIjEuMDAwMCAg5Y+q55SoIDg5IOeJueW+gSIpLAogICAgKCIxMDFjIFQ9MTIgRklYRUQiLCAiMC4xMjUwICDntK/np68gOTYg54m55b6BIiksCiAgICAoIjEwMWUg55u45Y+Y5Yy6IDAuMDgtPjAuMTIiLCAi5pac546HIC0zNi4xICDmnIDpmaEiKSwKICAgICgiMTAxZSBsZXZlbD0xLjAwIOWBj+W6piIsICItMC42MzkxIiksCiAgICAoIjEwMWUg5peg5oSf5a6Y5Z+657q/IOWBj+W6piIsICItMC43MjczICDlh6DkuY7nm7jlkIwiKSwKICAgICgiMTAxZSBsZXZlbD0wLjAwIOWBj+W6piIsICIrMS44MzQ2ICDmnIDpq5giKSwKICAgICgiMTAxZCDnlJ/mgIEgRklYRUQtPkdVSURFRCIsICJkaWZmIC0xLjY0NiBDSeWFqOi0nyIpLApdCmNvZGUgPSAnJy5qb2luKHJhbmRvbS5jaG9pY2UoJzAxMjM0NTY3ODlBQkNERUYnKSBmb3IgXyBpbiByYW5nZSg2KSkKaW1nID0gSW1hZ2UubmV3KCdSR0InLCAoVywgSCksICgyNTUsIDI1NSwgMjU1KSkKZCA9IEltYWdlRHJhdy5EcmF3KGltZykKZjEgPSBJbWFnZUZvbnQudHJ1ZXR5cGUoRk9OVCwgMjgpCmYyID0gSW1hZ2VGb250LnRydWV0eXBlKEZPTlQsIDI0KQpkLnRleHQoKDQwLCAyMiksICIxMDEg5Li75Yqo5omr6KeG6Z2g5LuA5LmI55yL5riFIiwgZm9udD1mMSwgZmlsbD0oMCwgMCwgMCkpCnkgPSA3OApmb3IgYSwgYiBpbiByb3dzOgogICAgZC50ZXh0KCg0NSwgeSksIGEsIGZvbnQ9ZjIsIGZpbGw9KDIwLCAyMCwgMTIwKSkKICAgIGQudGV4dCgoNTYwLCB5KSwgYiwgZm9udD1mMiwgZmlsbD0oMTYwLCAyMCwgMjApKQogICAgeSArPSA0NgpkLnRleHQoKDQ1LCB5ICsgMTIpLCBmIlJBTkRPTSBDSEVDSyA9IHtjb2RlfSIsCiAgICAgICBmb250PUltYWdlRm9udC50cnVldHlwZShGT05ULCAzMiksIGZpbGw9KDAsIDExMCwgMCkpCmltZy5zYXZlKG9zLnBhdGguam9pbihPVVQsICdyZW5kZXJlZDEwMS5wbmcnKSkKCmFyciA9IG5wLmFycmF5KGltZy5jb252ZXJ0KCdSR0InKSkKY2FudmFzID0gbnAuemVyb3MoKEgsIFcsIDQpLCBucC51aW50OCkKY2FudmFzWzpILCA6VywgMF0gPSBhcnJbOiwgOiwgMl0KY2FudmFzWzpILCA6VywgMV0gPSBhcnJbOiwgOiwgMV0KY2FudmFzWzpILCA6VywgMl0gPSBhcnJbOiwgOiwgMF0KY2FudmFzWzpILCA6VywgM10gPSAyNTUKd2l0aCBvcGVuKEZCLCAnd2InKSBhcyBmOgogICAgZi53cml0ZShjYW52YXMudG9ieXRlcygpKQp0aW1lLnNsZWVwKDAuNCkKd2l0aCBvcGVuKEZCLCAncmInKSBhcyBmOgogICAgcmF3ID0gZi5yZWFkKFcgKiBIICogNCkKY2FwID0gbnAuZnJvbWJ1ZmZlcihyYXcsIG5wLnVpbnQ4KS5yZXNoYXBlKEgsIFcsIDQpWzosIDosIFsyLCAxLCAwXV0KSW1hZ2UuZnJvbWFycmF5KGNhcCkuc2F2ZShvcy5wYXRoLmpvaW4oT1VULCAnY2FwdHVyZWQxMDEucG5nJykpCgp0eHQgPSBzdWJwcm9jZXNzLnJ1bihbJ3Rlc3NlcmFjdCcsIG9zLnBhdGguam9pbihPVVQsICdjYXB0dXJlZDEwMS5wbmcnKSwgJ3N0ZG91dCcsCiAgICAgICAgICAgICAgICAgICAgICAnLS1wc20nLCAnNicsICctbCcsICdlbmcnXSwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlKS5zdGRvdXQKZmxhdCA9IHR4dC5yZXBsYWNlKCcgJywgJycpCmhpdCA9IGNvZGUgaW4gZmxhdApudW1zID0gW3QgZm9yIHQgaW4gWycxLjAwMDAnLCAnMC43NTAwJywgJzAuMTI1MCcsICcwLjUzMTInLCAnMC43MTg4JywKICAgICAgICAgICAgICAgICAgICAnLTM2LjEnLCAnLTAuNjM5MScsICctMC43MjczJywgJysxLjgzNDYnLCAnLTEuNjQ2J10KICAgICAgICBpZiB0IGluIGZsYXRdCnByaW50KCLmoKHpqoznoIE6IiwgY29kZSwgInwg5Zue6K+75ZG95LitOiIsIGhpdCkKcHJpbnQoIuaVsOWtl+WRveS4rToiLCBudW1zLCBmIih7bGVuKG51bXMpfS8xMCkiKQpwcmludCgiLS0tIE9DUiDoioLpgIkgLS0tIikKcHJpbnQoJ1xuJy5qb2luKFtsIGZvciBsIGluIHR4dC5zcGxpdGxpbmVzKCkgaWYgbC5zdHJpcCgpXVs6MTJdKSkKanNvbi5kdW1wKHsnY29kZSc6IGNvZGUsICdjb2RlX2hpdCc6IGJvb2woaGl0KSwgJ251bXMnOiBudW1zLAogICAgICAgICAgICduX251bXMnOiBsZW4obnVtcyl9LAogICAgICAgICAgb3Blbihvcy5wYXRoLmpvaW4oT1VULCAnc2VsZmNoZWNrMTAxLmpzb24nKSwgJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+# -*- coding: utf-8 -*-
+"""做完自己看：101 关键数字 渲染上屏 -> 帧缓冲真实采集 -> OCR 读回"""
+import os, subprocess, random, json, time
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+FB = '/dev/fb0'
+W, H = 1024, 768
+FONT = '/usr/share/fonts/truetype/wqy/wqy-microhei.ttc'
+if not os.path.exists(FONT):
+    FONT = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+
+rows = [
+    ("101b 周边+主动 识别率", "1.0000   特征 420"),
+    ("101b 盲动 识别率", "0.7500   特征 84"),
+    ("101b 不动 识别率", "0.1250   特征 48"),
+    ("101c 假引导 识别率", "0.5312  < 盲动 0.7188"),
+    ("101c 引导破坏剂量", "1.000 -> 0.531  单调"),
+    ("101c T=1 GUIDED", "1.0000  只用 89 特征"),
+    ("101c T=12 FIXED", "0.1250  累积 96 特征"),
+    ("101e 相变区 0.08->0.12", "斜率 -36.1  最陡"),
+    ("101e level=1.00 偏度", "-0.6391"),
+    ("101e 无感官基线 偏度", "-0.7273  几乎相同"),
+    ("101e level=0.00 偏度", "+1.8346  最高"),
+    ("101d 生态 FIXED->GUIDED", "diff -1.646 CI全负"),
+]
+code = ''.join(random.choice('0123456789ABCDEF') for _ in range(6))
+img = Image.new('RGB', (W, H), (255, 255, 255))
+d = ImageDraw.Draw(img)
+f1 = ImageFont.truetype(FONT, 28)
+f2 = ImageFont.truetype(FONT, 24)
+d.text((40, 22), "101 主动扫视靠什么看清", font=f1, fill=(0, 0, 0))
+y = 78
+for a, b in rows:
+    d.text((45, y), a, font=f2, fill=(20, 20, 120))
+    d.text((560, y), b, font=f2, fill=(160, 20, 20))
+    y += 46
+d.text((45, y + 12), f"RANDOM CHECK = {code}",
+       font=ImageFont.truetype(FONT, 32), fill=(0, 110, 0))
+img.save(os.path.join(OUT, 'rendered101.png'))
+
+arr = np.array(img.convert('RGB'))
+canvas = np.zeros((H, W, 4), np.uint8)
+canvas[:H, :W, 0] = arr[:, :, 2]
+canvas[:H, :W, 1] = arr[:, :, 1]
+canvas[:H, :W, 2] = arr[:, :, 0]
+canvas[:H, :W, 3] = 255
+with open(FB, 'wb') as f:
+    f.write(canvas.tobytes())
+time.sleep(0.4)
+with open(FB, 'rb') as f:
+    raw = f.read(W * H * 4)
+cap = np.frombuffer(raw, np.uint8).reshape(H, W, 4)[:, :, [2, 1, 0]]
+Image.fromarray(cap).save(os.path.join(OUT, 'captured101.png'))
+
+txt = subprocess.run(['tesseract', os.path.join(OUT, 'captured101.png'), 'stdout',
+                      '--psm', '6', '-l', 'eng'], capture_output=True, text=True).stdout
+flat = txt.replace(' ', '')
+hit = code in flat
+nums = [t for t in ['1.0000', '0.7500', '0.1250', '0.5312', '0.7188',
+                    '-36.1', '-0.6391', '-0.7273', '+1.8346', '-1.646']
+        if t in flat]
+print("校验码:", code, "| 回读命中:", hit)
+print("数字命中:", nums, f"({len(nums)}/10)")
+print("--- OCR 节选 ---")
+print('\n'.join([l for l in txt.splitlines() if l.strip()][:12]))
+json.dump({'code': code, 'code_hit': bool(hit), 'nums': nums,
+           'n_nums': len(nums)},
+          open(os.path.join(OUT, 'selfcheck101.json'), 'w'), ensure_ascii=False, indent=1)

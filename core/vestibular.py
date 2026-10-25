@@ -1,1 +1,246 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrliY3luq0g4oCU4oCUIOS4ieS4quS6kuebuOWeguebtOeahOWNiuinhOeuoSArIOS4pOWdl+iAs+efswo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYhSDlroPmmK/jgJDmg6/mgKflr7zoiKrjgJHvvIzkuI3mmK/mhJ/lj5flmagKICAgIOecvOiAs+m8u+earuiCpO+8muaEn+WPl+WklueVjAogICAg4piFIOWJjeW6re+8mua1i+mHj+OAkOiHquW3seOAkeeahOi/kOWKqCDigJTigJQg5Yqg6YCf5bqm5ZKM6KeS6YCf5bqmCiAgICDimIUg6L+Z5piv5omA5pyJ5oSf5a6Y6YeM5ZSv5LiA5LiA5LiqIua1i+mHj+iHqui6q+i/kOWKqOeKtuaAgSLnmoQKCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LiA44CB5Y2K6KeE566h77yI5LiJ5Liq77yM6L+R5Ly85LqS55u45Z6C55u077yJ77yIUkVBTO+8iQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDkuInnrqHvvJrlpJYo5rC05bmzKeOAgeWJjSjkuIrljYop44CB5ZCOICAg4oCU4oCUIOW3puWPs+WQhOS4ie+8jOWFseWFreS4qgogICAg5YaF5reL5be0ICsg5aO26IW55bW06aG277yIZ2VsYXRpbm91cyBjdXB1bGHvvIkKICAgIOKYhSDpobbnn7PmmK/jgJAgb3ZlcmRhbXBlZCDkuozpmLbkvY7pgJrjgJHvvIzkuI3mmK/liqDpgJ/luqborqEKICAgICAg5Lyg6YCS5Ye95pWwIOKJiCBzwrfPhGMvKDErc8K3z4RjKSDCtyAxLygxK3PCt8+ETCkKICAgICAgz4RjIOe6piA1fjcgc++8iGN1cHVsYSDlvLnmgKflm57lvLnvvIkgIM+ETCDnuqYgMC4wMDN+MC4wMDUgcwogICAg4piFIOWHgOaViOaenO+8muWvueOAkOinkumAn+W6puOAkeWTjeW6lO+8jOW4puWuvee6piAwLjAyfjEwIEh6CiAgICDimIUg6ZiI5YC877ya6KeS6YCf5bqm57qmIDAuMX4xIMKwL3PvvIjlj6/lr5/op4nvvIkKCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LqM44CB4piFIOmhtuefs+eahOWFs+mUruWQjuaenO+8mui9rOakheWQjuecqeaZlQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDljIDpgJ/ml4vovazkuIDmrrXml7bpl7TlkI7vvIzlhoXmt4vlt7Tov73kuIrnrqHlo4Eg4oaSIOmhtuefs+WbnuS9jSDihpIg5L+h5Y+35b2S6Zu2CiAgICAgIOKGkiDlpKfohJHku6XkuLrjgJDkuI3ovazkuobjgJEKICAgIOeqgeeEtuWBnOS4iyDihpIg5YaF5reL5be05Zug5oOv5oCn57un57ut5rWBIOKGkiDpobbnn7Plj43lkJHlgY8KICAgICAg4oaSIOWkp+iEkeS7peS4uuOAkOWPjeWQkei9rOOAkQogICAg4piFIOi/meWwseaYryLlgZzkuIvmnaXlj43ogIzmm7TmmZUi55qE5py65Yi2CiAgICDimIUg5pe26Ze05bi45pWwIM+EYyDnuqYgNX43IHPvvIxSRUFMIOS4u+inguaZleaEn+aMgee7ree6piAxMH4zMCBzCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS4ieOAgeiAs+efs+WZqO+8iOakreWchuWbiiArIOeQg+Wbiu+8ie+8iFJFQUzvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg6ICz55+z6Iac77yI56Kz6YW46ZKZIG90b2Nvbmlh77yM5a+G5bqmID4g5YaF5reL5be077yJCiAgICDimIUg5rWL6YeP44CQ57q/5oCn5Yqg6YCf5bqmICsg6YeN5Yqb44CR4oCU4oCUIOaXoOazleWMuuWIhuS6jOiAhQogICAg4piFIOeIseWboOaWr+WdpiBlbGV2YXRvciDnrYnku7fljp/nkIbnmoTnlJ/nianlrabniYjmnKwKICAgICAg6Z2Z5q2i5pe277ya5rWL5Yiw55qE5piv6YeN5Yqb55+i6YeP77yIMSBnIOWQkeS4i++8iQogICAgICDoh6rnlLHokL3kvZPvvJrmtYvliLAgMCDigJTigJQg5LiOIuWkquepuuS4remdmeatoiLlrozlhajkuIDmoLcKICAgIOakreWchuWbiu+8muWkp+iHtOawtOW5s++8jOaEn+efpeWJjeWQji/lt6blj7PlgL7mlpwKICAgIOeQg+Wbiu+8muWkp+iHtOWeguebtO+8jOaEn+efpeS4iuS4iwogICAg4piFIOe6v+aAp+WKoOmAn+W6pumYiOWAvCDnuqYgMC4wMX4wLjA1IG0vc8Ky77yINX4xNSBjbS9zwrIg5Y+v6KeJ5a+f77yJCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuWbm+OAgeKYhSDph43lipvkuI3lj6/liIbovqjvvIjmoLjlv4Plr7nnhafvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg6ICz55+z6L6T5Ye655+i6YePIGdfaGF0ID0gYV90cnVlIC0gZ++8iOWHj+WOu+mHjeWKm++8iQogICAg4piFIOaJgOS7pe+8mumdmeatouWcqOWcsOmdoiAgICAg4oaSIOi+k+WHuiAoMCwwLDEpIOWQkeS4igogICAgICAgICAgICAg6Ieq55Sx6JC95L2TICAgICAgIOKGkiDovpPlh7ogKDAsMCwwKQogICAgICAgICAgICAg5aSq56m66Z2Z5q2iICAgICAgIOKGkiDovpPlh7ogKDAsMCwwKQogICAg4piFIOWQjuS4pOiAheOAkOi+k+WHuuWujOWFqOebuOWQjOOAkeKGkiDogLPnn7Pml6Dms5XljLrliIYKICAgIOKYhSDov5nmraPmmK/liqDpgJ/luqborqHnmoTmoLnmnKzlsYDpmZDvvIhJTVUg6YO96Z2g56ev5YiG77yM5Lya5ryC56e777yJCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS6lOOAgVZPUiDliY3luq3nnLzlj43lsITvvIhSRUFM77yJCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOWktOi9rCDihpIg55y85Y+N5ZCR6L2s77yM5aKe55uK57qmIDAuOX4xLjDvvIjpgJ/luqbnuqYgMTAwfjMwMCDCsC9zIOaXtu+8iQogICAg5r2c5LyP5pyfIOe6piA1fjE1IG1z77yI5p6B55+t77yM5Zug5Li65Y+q5pyJ5LiJ57qn56qB6Kem77yJCiAgICDimIUg6L+Z5piv5pyA5b+r55qE5Y+N5bCE5LmL5LiACiAgICDimIUg6KeG6KeJIFZPUihPS04pIOaFouW+l+Wkmu+8jOa9nOS8j+acnyA1MH4xMDAgbXMKICAgIOKYhSDlr7nnhafmhI/kuYnvvJrlpLTliqjml7bpnaAgVk9SIOeos+WDj++8jOmdoOinhuinieadpeS4jeWPigoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrlha3jgIHkuI7liY3lh6DlsYLnmoTogZTns7sKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg4piFIOWJjeW6rSArIOecvOedm++8mlZPUiDigJTigJQg5aS05Yqo5pe255y8552b5Y+N5ZCR6KGl5YG/CiAgICDimIUg5YmN5bqtICsg5pys5L2T6KeJ77ya5Yik5patIuaYr+aIkeWcqOWKqOi/mOaYr+S4lueVjOWcqOWKqCIKICAgIOKYhSDliY3luq0gKyDnmq7ogqTvvJrpnaDlnZAv56uZ55qE5Y6L5Yqb5Yik5pat5ae/5oCBCiAgICDimIUg5YmN5bqt44CQ5rKh5pyJ44CR5aSW6YOo55uu5qCHIOKAlOKAlCDlroPmmK/nuq/lhoXmhJ/lj5fvvIzmjqUgTDYKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IG51bXB5IGFzIG5wCgojIC0tLS0tLS0tLS0tLS0tLS0g5Y2K6KeE566hIFJFQUwgLS0tLS0tLS0tLS0tLS0tLQpUQVVfQ1VQVUxBICAgPSA2LjAgICAgICAjIHPvvIxjdXB1bGEg5Zue5by577yIUkVBTCA1fjfvvIkKVEFVX0xBRyAgICAgID0gMC4wMDQgICAgIyBzCkNBTkFMX1RIUkVTSE9MRF9EUFMgPSAwLjUgICAjIOinkumAn+W6pumYiOWAvCDCsC9z77yIUkVBTCAwLjF+Me+8iQpDQU5BTF9HQUlOX1NUQVRJQyAgID0gMS4wICAgIyDnqLPmgIHop5LpgJ/luqblop7nm4oKQ0FOQUxfQkFORF9IWiAgICAgICA9ICgwLjAyLCAxMC4wKQoKIyAtLS0tLS0tLS0tLS0tLS0tIOiAs+efsyBSRUFMIC0tLS0tLS0tLS0tLS0tLS0KRyA9IDkuODA2NjUKT1RPTElUSF9USFJFU0hPTEQgPSAwLjAyICAgIyBtL3PCsiDvvIhSRUFMIDAuMDF+MC4wNe+8iQpVVFJJQ0xFX1RJTFRfUkFOR0VfREVHID0gMzAuMCAgICMg5qSt5ZyG5ZuK5Li76KaB5bel5L2c6IyD5Zu0CgojIC0tLS0tLS0tLS0tLS0tLS0gVk9SIFJFQUwgLS0tLS0tLS0tLS0tLS0tLQpWT1JfR0FJTiAgICAgICA9IDAuOTUgICAgIyBSRUFMIDAuOX4xLjAKVk9SX0xBVEVOQ1lfTVMgPSAxMC4wICAgICMgUkVBTCA1fjE1IG1zCk9LTl9MQVRFTkNZX01TID0gODAuMCAgICAjIOinhuWKqOaAp+ecvOmch++8jFJFQUwgNTB+MTAwIG1zCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LiA44CB5Y2K6KeE566h77ya6aG255+z5Yqo5Yqb5a2m77yIb3ZlcmRhbXBlZCDkuozpmLbvvIkKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBjdXB1bGFfcmVzcG9uc2Uob21lZ2FfZHBzOiBucC5uZGFycmF5LCBkdDogZmxvYXQgPSAwLjAwMSwKICAgICAgICAgICAgICAgICAgICB0YXVfYzogZmxvYXQgPSBUQVVfQ1VQVUxBLAogICAgICAgICAgICAgICAgICAgIHRhdV9sOiBmbG9hdCA9IFRBVV9MQUcpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLimIUg6aG255+z5YGP6L2s5a+544CQ6KeS6YCf5bqm44CR55qE5ZON5bqU77yI5LiN5piv6KeS5Yqg6YCf5bqm77yB77yJ44CCCgogICAg5Lyg6YCS5Ye95pWwOiAoc8K3z4RjKSAvICgoMStzwrfPhGMpKDErc8K3z4RsKSkgICDkvZznlKjkuo7op5LpgJ/luqYKICAgIOemu+aVo+WunueOsO+8muS4pOS4quS4suiBlOS4gOmYtgogICAgICBzdGFnZTEg6auY6YCa77yIz4Rj77yJ77yaY3VwdWxhIOW8ueaAp+WbnuW8uSDihpIg5YyA6YCf5peL6L2s5pe25b2S6Zu2CiAgICAgIHN0YWdlMiDkvY7pgJrvvIjPhGzvvInvvJrlhoXmt4vlt7Tmg6/mgKcKICAgICIiIgogICAgdyA9IG5wLmFzYXJyYXkob21lZ2FfZHBzLCBmbG9hdCkKICAgIG4gPSBsZW4odykKICAgIG91dCA9IG5wLnplcm9zKG4pCiAgICB5MSA9IDAuMCAgICMg6auY6YCa54q25oCBCiAgICB5MiA9IDAuMCAgICMg5L2O6YCa6L6T5Ye6CiAgICAjIOS4gOmYtumrmOmAmu+8iOWQjuWQkeasp+aLie+8ie+8mnlbaV0gPSBhwrcoeVtpLTFdICsgzpR3Ke+8jGEgPSDPhC8oz4QrZHQpCiAgICAjIOS4gOmYtuS9jumAmu+8miAgICAgICAgICAgIHlbaV0gPSB5W2ktMV0gKyBiwrcoeCDiiJIgeVtpLTFdKe+8jGIgPSBkdC8oz4QrZHQpCiAgICAjIOKYhSDnrKzkuIDniYjkuKTkuKrns7vmlbDpg73lhpnmiJAgZHQvKM+EK2R0Ke+8mumrmOmAmiBhIOWPmOaIkCAwLjAwMTcg4oaSIOWinuebiuWPquaciSAwLjAwMwogICAgIyDimIUg56ys5LqM54mI5Y+I5oqK6auY6YCa5b2i5byP5pS55oiQIGHCt86UdyArICgx4oiSYSnCt3kg4oCU4oCUIOW9ouW8j+mUmeS6hu+8jOihsOWHj+W/qyA2MDAg5YCNCiAgICAjICAg5q2j56Gu5b2i5byP5bCx5pivIGHCtyh5ICsgzpR3Ke+8jOWPquaYryBhIOW/hemhu+WPliDPhC8oz4QrZHQpCiAgICBhX2MgPSB0YXVfYyAvICh0YXVfYyArIGR0KSAgICAgICMg6auY6YCa77yIY3VwdWxhIOWbnuW8ue+8iQogICAgYV9sID0gZHQgLyAodGF1X2wgKyBkdCkgICAgICAgICAjIOS9jumAmu+8iOWGhea3i+W3tOaDr+aAp++8iQogICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgIyDpq5jpgJrvvJp5MSA9IGFfYyooeTFfcHJldiArIHcgLSB3X3ByZXYpCiAgICAgICAgd3AgPSB3W2ktMV0gaWYgaSA+IDAgZWxzZSAwLjAKICAgICAgICAjIOKYhSDnrKzkuIDniYjlhpkgeTEgPSBhX2MqKHkxICsgzpR3KQogICAgICAgICMgICDmraPnoa7nmoTkuIDpmLbpq5jpgJrvvIjlkI7lkJHmrKfmi4nvvInmmK/vvJp5MSA9IGFfY8K3zpR3ICsgKDHiiJJhX2Mpwrd5MQogICAgICAgICMgICDnrKzkuIDniYjoobDlh4/ns7vmlbDlhpnmiJDkuoYgYV9j77yI4omIMe+8ieiAjOS4jeaYryAoMeKIkmFfYynvvIjiiYgw77yJCiAgICAgICAgIyAgIOKGkiDnirbmgIHlh6DkuY7kuI3oobDlh48g4oaSIOWMgOmAn+i9rCAyOXMg5ZCO6L+Y5pyJIDU1LjXvvIzlgZzlkI4gMjBzIOi/mOaciSAyNS40CiAgICAgICAgIyAgIOKYhSDnl4fnirbvvJror6XoobDlh4/nmoTlnLDmlrnkuI3oobDlh4/vvIzovazmpIXlrp7pqozlrozlhajlpLHnnJ8KICAgICAgICB5MSA9IGFfYyAqICh5MSArICh3W2ldIC0gd3ApKQogICAgICAgICMg5L2O6YCaCiAgICAgICAgeTIgPSB5MiArIGFfbCAqICh5MSAtIHkyKQogICAgICAgIG91dFtpXSA9IHkyCiAgICByZXR1cm4gb3V0CgoKZGVmIGN1cHVsYV9nYWluKGZyZXFfaHo6IG5wLm5kYXJyYXksIHRhdV9jOiBmbG9hdCA9IFRBVV9DVVBVTEEsCiAgICAgICAgICAgICAgICB0YXVfbDogZmxvYXQgPSBUQVVfTEFHKSAtPiBucC5uZGFycmF5OgogICAgIiIi5bmF6aKR5ZON5bqUIHxIKGYpfOOAguKYhSDluKbpgJrvvJrmnoHkvY7popHlkozpq5jpopHpg73oobDlh4/jgIIiIiIKICAgIGYgPSBucC5hc2FycmF5KGZyZXFfaHosIGZsb2F0KQogICAgdyA9IDIqbnAucGkqZgogICAgSCA9ICgxaip3KnRhdV9jKSAvICgoMSsxaip3KnRhdV9jKSooMSsxaip3KnRhdV9sKSkKICAgIHJldHVybiBucC5hYnMoSCkKCgpkZWYgcm90YXRpb25fY2hhaXIodF9zOiBucC5uZGFycmF5LCBvbWVnYV9kcHM6IGZsb2F0LCB0X3N0b3A6IGZsb2F0LAogICAgICAgICAgICAgICAgICAgZHQ6IGZsb2F0ID0gTm9uZSkgLT4gbnAubmRhcnJheToKICAgICIiIuKYhSDovazmpIXlrp7pqozvvJrljIDpgJ/ovawg4oaSIOeqgeeEtuWBnCDihpIg5Y+N5ZCR5pmV44CCCgogICAg4piFIOWFs+mUru+8muWBnOatouWQjuS/oeWPt+OAkOWPjeWQkeOAkeS4lOmcgOimgSDPhGMg5omN5oGi5aSNCiAgICAiIiIKICAgIHQgPSBucC5hc2FycmF5KHRfcywgZmxvYXQpCiAgICAjIOKYhSDnrKzkuIDniYggZHQg6buY6K6kIDAuMDAx77yM5L2G5Lyg5YWl55qEIHQg5q2l6ZW/5pivIDAuMDEKICAgICMgICDihpIg5ruk5rOi5Zmo5pe26Ze05bi45pWw6KKr5pS+5aSnIDEwIOWAjSDihpIgMjlzIOWQjuivpeihsOWHj+WIsCAwLjcyIOWNtOi/mOaciSA1NS41CiAgICBpZiBkdCBpcyBOb25lOgogICAgICAgIGR0ID0gZmxvYXQodFsxXSAtIHRbMF0pIGlmIGxlbih0KSA+IDEgZWxzZSAwLjAxCiAgICB3ID0gbnAud2hlcmUodCA8PSB0X3N0b3AsIG9tZWdhX2RwcywgMC4wKQogICAgcmV0dXJuIGN1cHVsYV9yZXNwb25zZSh3LCBkdCkKCgpkZWYgcG9zdF9yb3RhdGlvbl9kZWNheSh0X2FmdGVyX3N0b3A6IG5wLm5kYXJyYXksCiAgICAgICAgICAgICAgICAgICAgICAgIHRhdV9jOiBmbG9hdCA9IFRBVV9DVVBVTEEpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLlgZzmraLlkI7kuLvop4Lml4vovazmhJ/nmoToobDlh48gZXhwKC10L8+EYynjgIIiIiIKICAgIHJldHVybiBucC5leHAoLW5wLmFzYXJyYXkodF9hZnRlcl9zdG9wLCBmbG9hdCkvdGF1X2MpCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LqM44CB6ICz55+z77ya6YeN5Yqb5LiN5Y+v5YiG6L6oCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpkZWYgb3RvbGl0aF9vdXRwdXQoYWNjX3RydWU6IG5wLm5kYXJyYXksIGdfdmVjOiBucC5uZGFycmF5ID0gTm9uZSkgLT4gbnAubmRhcnJheToKICAgICIiIuKYhSDogLPnn7PovpPlh7ogPSDnnJ/lrp7liqDpgJ/luqYg4oiSIOmHjeWKm++8iGdyYXZpdG8taW5lcnRpYWwgZm9yY2XvvInjgIIKCiAgICDimIUg6L+Z5bCx5piv5a6D44CQ5peg5rOV5Yy65YiG44CR6Z2Z5q2i5LiO6Ieq55Sx6JC95L2T55qE5pWw5a2m6KGo6L6+CiAgICAiIiIKICAgIGdfdmVjID0gbnAuemVyb3MoMykgaWYgZ192ZWMgaXMgTm9uZSBlbHNlIG5wLmFzYXJyYXkoZ192ZWMsIGZsb2F0KQogICAgYSA9IG5wLmFzYXJyYXkoYWNjX3RydWUsIGZsb2F0KQogICAgcmV0dXJuIGEgLSBnX3ZlYwoKCmRlZiBvdG9saXRoX3NjZW5hcmlvcygpIC0+IGRpY3Q6CiAgICAiIiLimIUg5LiJ5Liq5Zy65pmv77yM6L6T5Ye65a+55q+UIOKAlOKAlCDor4HmmI7kuI3lj6/liIbovqjjgIIiIiIKICAgIGcgPSBucC5hcnJheShbMC4wLCAwLjAsIC1HXSkKICAgIHJldHVybiB7CiAgICAgICAgIuWcsOmdoumdmeatoiI6ICBvdG9saXRoX291dHB1dChucC5hcnJheShbMC4sMC4sMC5dKSwgZyksICAgIyDovpPlh7ogK3oKICAgICAgICAi6Ieq55Sx6JC95L2TIjogIG90b2xpdGhfb3V0cHV0KGcsIGcpLCAgICAgICAgICAgICAgICAgICAgICAgIyDovpPlh7ogMAogICAgICAgICLlpKrnqbrpnZnmraIiOiAgb3RvbGl0aF9vdXRwdXQobnAuYXJyYXkoWzAuLDAuLDAuXSksIG5wLnplcm9zKDMpKSwKICAgICAgICAiMWflkJHkuIrliqDpgJ8iOiBvdG9saXRoX291dHB1dChucC5hcnJheShbMC4sMC4sR10pIC0gZywgZyksCiAgICB9CgoKZGVmIHRpbHRfZnJvbV9vdG9saXRoKHZlYzogbnAubmRhcnJheSkgLT4gZmxvYXQ6CiAgICAiIiLnlLHogLPnn7Pnn6Lph4/lj43mjqjlgL7mlpzop5LvvIjluqbvvInjgILimIUg5YC+5pac5LiO57q/5oCn5Yqg6YCf5bqm5LiN5Y+v5YiG44CCIiIiCiAgICB2ID0gbnAuYXNhcnJheSh2ZWMsIGZsb2F0KQogICAgbiA9IG5wLmxpbmFsZy5ub3JtKHYpCiAgICBpZiBuIDwgMWUtOToKICAgICAgICByZXR1cm4gMC4wCiAgICByZXR1cm4gZmxvYXQobnAuZGVncmVlcyhucC5hcmNjb3MobnAuY2xpcCh2WzJdL24sIC0xLCAxKSkpKQoKCmRlZiBzb21hdG9ncmF2aWNfaWxsdXNpb24oYWNjX2ZvcndhcmQ6IGZsb2F0KSAtPiBmbG9hdDoKICAgICIiIuKYhSDkvZPmhJ/ph43lipvplJnop4nvvIhSRUFMIOmjnuihjOWRmOmUmeinie+8ie+8mgogICAgICAg5ZCR5YmN5Yqg6YCfIOKGkiDooqvmhJ/nn6XkuLrjgJDmnLrlpLTkuIrku7DjgJHjgIIiIiIKICAgIHJldHVybiBmbG9hdChucC5kZWdyZWVzKG5wLmFyY3RhbihhY2NfZm9yd2FyZCAvIEcpKSkKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuInjgIFWT1IKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiB2b3JfZXllX3ZlbG9jaXR5KGhlYWRfdmVsX2RwczogZmxvYXQsIGdhaW46IGZsb2F0ID0gVk9SX0dBSU4pIC0+IGZsb2F0OgogICAgIiIi4piFIFZPUu+8muecvOmAnyA9IOKIkuWinuebiiDDlyDlpLTpgJ/jgIIiIiIKICAgIHJldHVybiBmbG9hdCgtZ2FpbiAqIGhlYWRfdmVsX2RwcykKCgpkZWYgcmV0aW5hbF9zbGlwKGhlYWRfdmVsX2RwczogZmxvYXQsIHZvcl9nYWluOiBmbG9hdCA9IFZPUl9HQUlOKSAtPiBmbG9hdDoKICAgICIiIuKYhSDop4bnvZHohpzmu5HliqggPSDlpLTpgJ8gKyDnnLzpgJ8gPSAoMeKIkmdhaW4pwrflpLTpgJ/jgIIKICAgIGdhaW49MSDml7blrozlhajooaXlgb/jgIIiIiIKICAgIHJldHVybiBmbG9hdChoZWFkX3ZlbF9kcHMgKyB2b3JfZXllX3ZlbG9jaXR5KGhlYWRfdmVsX2Rwcywgdm9yX2dhaW4pKQoKCmRlZiB2b3JfY29tcGVuc2F0aW9uX3JhdGlvKHZvcl9nYWluOiBmbG9hdCA9IFZPUl9HQUlOKSAtPiBmbG9hdDoKICAgICIiIuKYhSDooaXlgb/mr5TkvovvvJoxIOKIkiAoMeKIkmdhaW4p44CCIiIiCiAgICByZXR1cm4gZmxvYXQodm9yX2dhaW4pCgoKZGVmIGltYWdlX3N0YWJpbGl6YXRpb24oaGVhZF92ZWxfZHBzOiBmbG9hdCwgdm9yOiBib29sID0gVHJ1ZSkgLT4gZmxvYXQ6CiAgICAiIiLmnIkgVk9SIHZzIOaXoCBWT1Ig55qE6KeG572R6Iac5ruR5Yqo6YCf5bqm77yIwrAvc++8ieOAgiIiIgogICAgaWYgdm9yOgogICAgICAgIHJldHVybiBhYnMocmV0aW5hbF9zbGlwKGhlYWRfdmVsX2RwcywgVk9SX0dBSU4pKQogICAgcmV0dXJuIGFicyhyZXRpbmFsX3NsaXAoaGVhZF92ZWxfZHBzLCAwLjApKQoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOWbm+OAgeenr+WIhua8guenu++8iElNVSDnmoTmoLnmnKzpl67popjvvIkKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBpbXVfZHJpZnQoYmlhczogZmxvYXQsIHRfczogbnAubmRhcnJheSkgLT4gdHVwbGVbbnAubmRhcnJheSwgbnAubmRhcnJheV06CiAgICAiIiLimIUg5Yqg6YCf5bqm56ev5YiG5rGC6YCf5bqmL+S9jee9ru+8muWBj+e9ruWvvOiHtOS6jOasoea8guenu+OAggoKICAgIOKYhSDnlJ/nianliY3luq3jgJDkuZ/mnInjgJHov5nkuKrpl67popgg4oCU4oCUIOmXreecvOWOn+WcsOi4j+atpeS8mui1sOWBj+WwseaYr+i/meS4quWOn+WboAogICAg6L+U5ZueICjpgJ/luqbor6/lt64sIOS9jee9ruivr+W3rikKICAgICIiIgogICAgdCA9IG5wLmFzYXJyYXkodF9zLCBmbG9hdCkKICAgIHYgPSBiaWFzICogdAogICAgcCA9IDAuNSAqIGJpYXMgKiB0KioyCiAgICByZXR1cm4gdiwgcAoKCmRlZiBwYXRoX2ludGVncmF0aW9uX2Vycm9yKGJpYXM6IGZsb2F0LCBkdXJhdGlvbl9zOiBmbG9hdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RlcF9sZW5fbTogZmxvYXQgPSAwLjcpIC0+IGZsb2F0OgogICAgIiIi4piFIOi3r+W+hOenr+WIhu+8mui1sOebtOe6v+aXtueahOaoquWQkeWBj+W3ru+8iFJFQUzvvJrpl63nnLzotbDkvJrlgY/vvInjgIIiIiIKICAgIHJldHVybiBmbG9hdCgwLjUgKiBiaWFzICogZHVyYXRpb25fcyoqMikK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+前庭 —— 三个互相垂直的半规管 + 两块耳石
+================================================================
+★ 它是【惯性导航】，不是感受器
+    眼耳鼻皮肤：感受外界
+    ★ 前庭：测量【自己】的运动 —— 加速度和角速度
+    ★ 这是所有感官里唯一一个"测量自身运动状态"的
+
+----------------------------------------------------------------
+一、半规管（三个，近似互相垂直）（REAL）
+----------------------------------------------------------------
+    三管：外(水平)、前(上半)、后   —— 左右各三，共六个
+    内淋巴 + 壶腹嵴顶（gelatinous cupula）
+    ★ 顶石是【 overdamped 二阶低通】，不是加速度计
+      传递函数 ≈ s·τc/(1+s·τc) · 1/(1+s·τL)
+      τc 约 5~7 s（cupula 弹性回弹）  τL 约 0.003~0.005 s
+    ★ 净效果：对【角速度】响应，带宽约 0.02~10 Hz
+    ★ 阈值：角速度约 0.1~1 °/s（可察觉）
+
+----------------------------------------------------------------
+二、★ 顶石的关键后果：转椅后眩晕
+----------------------------------------------------------------
+    匀速旋转一段时间后，内淋巴追上管壁 → 顶石回位 → 信号归零
+      → 大脑以为【不转了】
+    突然停下 → 内淋巴因惯性继续流 → 顶石反向偏
+      → 大脑以为【反向转】
+    ★ 这就是"停下来反而更晕"的机制
+    ★ 时间常数 τc 约 5~7 s，REAL 主观晕感持续约 10~30 s
+
+----------------------------------------------------------------
+三、耳石器（椭圆囊 + 球囊）（REAL）
+----------------------------------------------------------------
+    耳石膜（碳酸钙 otoconia，密度 > 内淋巴）
+    ★ 测量【线性加速度 + 重力】—— 无法区分二者
+    ★ 爱因斯坦 elevator 等价原理的生物学版本
+      静止时：测到的是重力矢量（1 g 向下）
+      自由落体：测到 0 —— 与"太空中静止"完全一样
+    椭圆囊：大致水平，感知前后/左右倾斜
+    球囊：大致垂直，感知上下
+    ★ 线性加速度阈值 约 0.01~0.05 m/s²（5~15 cm/s² 可觉察）
+
+----------------------------------------------------------------
+四、★ 重力不可分辨（核心对照）
+----------------------------------------------------------------
+    耳石输出矢量 g_hat = a_true - g（减去重力）
+    ★ 所以：静止在地面     → 输出 (0,0,1) 向上
+             自由落体       → 输出 (0,0,0)
+             太空静止       → 输出 (0,0,0)
+    ★ 后两者【输出完全相同】→ 耳石无法区分
+    ★ 这正是加速度计的根本局限（IMU 都靠积分，会漂移）
+
+----------------------------------------------------------------
+五、VOR 前庭眼反射（REAL）
+----------------------------------------------------------------
+    头转 → 眼反向转，增益约 0.9~1.0（速度约 100~300 °/s 时）
+    潜伏期 约 5~15 ms（极短，因为只有三级突触）
+    ★ 这是最快的反射之一
+    ★ 视觉 VOR(OKN) 慢得多，潜伏期 50~100 ms
+    ★ 对照意义：头动时靠 VOR 稳像，靠视觉来不及
+
+----------------------------------------------------------------
+六、与前几层的联系
+----------------------------------------------------------------
+    ★ 前庭 + 眼睛：VOR —— 头动时眼睛反向补偿
+    ★ 前庭 + 本体觉：判断"是我在动还是世界在动"
+    ★ 前庭 + 皮肤：靠坐/站的压力判断姿态
+    ★ 前庭【没有】外部目标 —— 它是纯内感受，接 L6
+"""
+from __future__ import annotations
+import numpy as np
+
+# ---------------- 半规管 REAL ----------------
+TAU_CUPULA   = 6.0      # s，cupula 回弹（REAL 5~7）
+TAU_LAG      = 0.004    # s
+CANAL_THRESHOLD_DPS = 0.5   # 角速度阈值 °/s（REAL 0.1~1）
+CANAL_GAIN_STATIC   = 1.0   # 稳态角速度增益
+CANAL_BAND_HZ       = (0.02, 10.0)
+
+# ---------------- 耳石 REAL ----------------
+G = 9.80665
+OTOLITH_THRESHOLD = 0.02   # m/s² （REAL 0.01~0.05）
+UTRICLE_TILT_RANGE_DEG = 30.0   # 椭圆囊主要工作范围
+
+# ---------------- VOR REAL ----------------
+VOR_GAIN       = 0.95    # REAL 0.9~1.0
+VOR_LATENCY_MS = 10.0    # REAL 5~15 ms
+OKN_LATENCY_MS = 80.0    # 视动性眼震，REAL 50~100 ms
+
+
+# ================================================================
+# 一、半规管：顶石动力学（overdamped 二阶）
+# ================================================================
+def cupula_response(omega_dps: np.ndarray, dt: float = 0.001,
+                    tau_c: float = TAU_CUPULA,
+                    tau_l: float = TAU_LAG) -> np.ndarray:
+    """★ 顶石偏转对【角速度】的响应（不是角加速度！）。
+
+    传递函数: (s·τc) / ((1+s·τc)(1+s·τl))   作用于角速度
+    离散实现：两个串联一阶
+      stage1 高通（τc）：cupula 弹性回弹 → 匀速旋转时归零
+      stage2 低通（τl）：内淋巴惯性
+    """
+    w = np.asarray(omega_dps, float)
+    n = len(w)
+    out = np.zeros(n)
+    y1 = 0.0   # 高通状态
+    y2 = 0.0   # 低通输出
+    # 一阶高通（后向欧拉）：y[i] = a·(y[i-1] + Δw)，a = τ/(τ+dt)
+    # 一阶低通：            y[i] = y[i-1] + b·(x − y[i-1])，b = dt/(τ+dt)
+    # ★ 第一版两个系数都写成 dt/(τ+dt)：高通 a 变成 0.0017 → 增益只有 0.003
+    # ★ 第二版又把高通形式改成 a·Δw + (1−a)·y —— 形式错了，衰减快 600 倍
+    #   正确形式就是 a·(y + Δw)，只是 a 必须取 τ/(τ+dt)
+    a_c = tau_c / (tau_c + dt)      # 高通（cupula 回弹）
+    a_l = dt / (tau_l + dt)         # 低通（内淋巴惯性）
+    for i in range(n):
+        # 高通：y1 = a_c*(y1_prev + w - w_prev)
+        wp = w[i-1] if i > 0 else 0.0
+        # ★ 第一版写 y1 = a_c*(y1 + Δw)
+        #   正确的一阶高通（后向欧拉）是：y1 = a_c·Δw + (1−a_c)·y1
+        #   第一版衰减系数写成了 a_c（≈1）而不是 (1−a_c)（≈0）
+        #   → 状态几乎不衰减 → 匀速转 29s 后还有 55.5，停后 20s 还有 25.4
+        #   ★ 症状：该衰减的地方不衰减，转椅实验完全失真
+        y1 = a_c * (y1 + (w[i] - wp))
+        # 低通
+        y2 = y2 + a_l * (y1 - y2)
+        out[i] = y2
+    return out
+
+
+def cupula_gain(freq_hz: np.ndarray, tau_c: float = TAU_CUPULA,
+                tau_l: float = TAU_LAG) -> np.ndarray:
+    """幅频响应 |H(f)|。★ 带通：极低频和高频都衰减。"""
+    f = np.asarray(freq_hz, float)
+    w = 2*np.pi*f
+    H = (1j*w*tau_c) / ((1+1j*w*tau_c)*(1+1j*w*tau_l))
+    return np.abs(H)
+
+
+def rotation_chair(t_s: np.ndarray, omega_dps: float, t_stop: float,
+                   dt: float = None) -> np.ndarray:
+    """★ 转椅实验：匀速转 → 突然停 → 反向晕。
+
+    ★ 关键：停止后信号【反向】且需要 τc 才恢复
+    """
+    t = np.asarray(t_s, float)
+    # ★ 第一版 dt 默认 0.001，但传入的 t 步长是 0.01
+    #   → 滤波器时间常数被放大 10 倍 → 29s 后该衰减到 0.72 却还有 55.5
+    if dt is None:
+        dt = float(t[1] - t[0]) if len(t) > 1 else 0.01
+    w = np.where(t <= t_stop, omega_dps, 0.0)
+    return cupula_response(w, dt)
+
+
+def post_rotation_decay(t_after_stop: np.ndarray,
+                        tau_c: float = TAU_CUPULA) -> np.ndarray:
+    """停止后主观旋转感的衰减 exp(-t/τc)。"""
+    return np.exp(-np.asarray(t_after_stop, float)/tau_c)
+
+
+# ================================================================
+# 二、耳石：重力不可分辨
+# ================================================================
+def otolith_output(acc_true: np.ndarray, g_vec: np.ndarray = None) -> np.ndarray:
+    """★ 耳石输出 = 真实加速度 − 重力（gravito-inertial force）。
+
+    ★ 这就是它【无法区分】静止与自由落体的数学表达
+    """
+    g_vec = np.zeros(3) if g_vec is None else np.asarray(g_vec, float)
+    a = np.asarray(acc_true, float)
+    return a - g_vec
+
+
+def otolith_scenarios() -> dict:
+    """★ 三个场景，输出对比 —— 证明不可分辨。"""
+    g = np.array([0.0, 0.0, -G])
+    return {
+        "地面静止":  otolith_output(np.array([0.,0.,0.]), g),   # 输出 +z
+        "自由落体":  otolith_output(g, g),                       # 输出 0
+        "太空静止":  otolith_output(np.array([0.,0.,0.]), np.zeros(3)),
+        "1g向上加速": otolith_output(np.array([0.,0.,G]) - g, g),
+    }
+
+
+def tilt_from_otolith(vec: np.ndarray) -> float:
+    """由耳石矢量反推倾斜角（度）。★ 倾斜与线性加速度不可分。"""
+    v = np.asarray(vec, float)
+    n = np.linalg.norm(v)
+    if n < 1e-9:
+        return 0.0
+    return float(np.degrees(np.arccos(np.clip(v[2]/n, -1, 1))))
+
+
+def somatogravic_illusion(acc_forward: float) -> float:
+    """★ 体感重力错觉（REAL 飞行员错觉）：
+       向前加速 → 被感知为【机头上仰】。"""
+    return float(np.degrees(np.arctan(acc_forward / G)))
+
+
+# ================================================================
+# 三、VOR
+# ================================================================
+def vor_eye_velocity(head_vel_dps: float, gain: float = VOR_GAIN) -> float:
+    """★ VOR：眼速 = −增益 × 头速。"""
+    return float(-gain * head_vel_dps)
+
+
+def retinal_slip(head_vel_dps: float, vor_gain: float = VOR_GAIN) -> float:
+    """★ 视网膜滑动 = 头速 + 眼速 = (1−gain)·头速。
+    gain=1 时完全补偿。"""
+    return float(head_vel_dps + vor_eye_velocity(head_vel_dps, vor_gain))
+
+
+def vor_compensation_ratio(vor_gain: float = VOR_GAIN) -> float:
+    """★ 补偿比例：1 − (1−gain)。"""
+    return float(vor_gain)
+
+
+def image_stabilization(head_vel_dps: float, vor: bool = True) -> float:
+    """有 VOR vs 无 VOR 的视网膜滑动速度（°/s）。"""
+    if vor:
+        return abs(retinal_slip(head_vel_dps, VOR_GAIN))
+    return abs(retinal_slip(head_vel_dps, 0.0))
+
+
+# ================================================================
+# 四、积分漂移（IMU 的根本问题）
+# ================================================================
+def imu_drift(bias: float, t_s: np.ndarray) -> tuple[np.ndarray, np.ndarray]:
+    """★ 加速度积分求速度/位置：偏置导致二次漂移。
+
+    ★ 生物前庭【也有】这个问题 —— 闭眼原地踏步会走偏就是这个原因
+    返回 (速度误差, 位置误差)
+    """
+    t = np.asarray(t_s, float)
+    v = bias * t
+    p = 0.5 * bias * t**2
+    return v, p
+
+
+def path_integration_error(bias: float, duration_s: float,
+                           step_len_m: float = 0.7) -> float:
+    """★ 路径积分：走直线时的横向偏差（REAL：闭眼走会偏）。"""
+    return float(0.5 * bias * duration_s**2)

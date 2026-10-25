@@ -1,1 +1,63 @@
-IiIiU1BFQ0sgcmVsYXRlZC1rZXkgZGlmZmVyZW50aWFsLXNlYXJjaCBiZW5jaG1hcmsgb24gdGhlIGJsb2NrIGNpcGhlciAoa2V5IHNjaGVkdWxlIGNhcnJpZXMgdGhlIGRpZmYpLiIiIgppbXBvcnQgb3MKaW1wb3J0IHN5cwoKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkgICMgdGhpcyBiZW5jaG1hcmtzIGRpcgppbXBvcnQgY29uZmlncyBhcyBDCmZyb20gZnJhbWV3b3JrIGltcG9ydCBkdW1wX2FsbCwgcnVuX2JlbmNobWFyawoKCmRlZiBfY2lwaGVyKHJvdW5kcywgdmVyc2lvbj0oMzIsIDY0KSk6CiAgICBmcm9tIHByaW1pdGl2ZXMuc3BlY2sgaW1wb3J0IFNQRUNLX0JMT0NLQ0lQSEVSCgogICAgcmV0dXJuIFNQRUNLX0JMT0NLQ0lQSEVSKHI9cm91bmRzLCB2ZXJzaW9uPWxpc3QodmVyc2lvbikpICAjIHZlcnNpb24gPSBbYmxvY2tfc2l6ZSwga2V5X3NpemVdCgoKIyBPd24gY29uZmlnIGxpc3RzIHNvIHRoZSByZWxhdGVkLWtleSBzd2VlcCBjYW4gZGl2ZXJnZSBmcm9tIHNpbmdsZS1rZXkgKG5hbWVzIGF1dG8tY29tcG9zZSkuCk1JTFBfQ09ORklHUyA9IFsKICAgIEMubWlscCwgICAgICAgICAgICAgICAgICAgICAgICAgICMgbWlscAogICAgQy53aXRoX21hdHN1aShDLm1pbHApLCAgICAgICAgICAgIyBtaWxwX21hdHN1aQogICAgQy5tb2RhZGQoQy5taWxwLCAxKSwgICAgICAgICAgICAgIyBtaWxwX21vZGFkZDEKICAgIEMubW9kYWRkKEMubWlscCwgMiksICAgICAgICAgICAgICMgbWlscF9tb2RhZGQyCiAgICBDLm1vZGFkZChDLm1pbHAsIDMpLCAgICAgICAgICAgICAjIG1pbHBfbW9kYWRkMwogICAgQy53aXRoX3NvbHZlcihDLm1pbHAsICJTQ0lQIiksICAgIyBtaWxwX3NjaXAKXQoKU0FUX1NPTFZFUiA9ICJDYWRpY2FsMTk1IgpTQVRfQ09ORklHUyA9IFsKICAgIEMud2l0aF9zb2x2ZXIoQy5zYXQsICJDYWRpY2FsMTk1IiksICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHNhdAogICAgQy53aXRoX3NvbHZlcihDLnNhdF9pbmNyZWFzaW5nX2F0bW9zdCwgIkNhZGljYWwxOTUiKSwgICAgICAgICAgICAgICAgICMgc2F0X2luY3JlYXNpbmdfYXRtb3N0CiAgICBDLndpdGhfc29sdmVyKEMuc2F0X2luY3JlYXNpbmdfZXhhY3QsICJDYWRpY2FsMTk1IiksICAgICAgICAgICAgICAgICAgIyBzYXRfaW5jcmVhc2luZ19leGFjdAogICAgQy53aXRoX3NvbHZlcihDLnNhdF9hZGFwdGl2ZSwgIkNhZGljYWwxOTUiKSwgICAgICAgICAgICAgICAgICAgICAgICAgICMgc2F0X2FkYXB0aXZlCiAgICBDLndpdGhfc29sdmVyKEMud2l0aF9tYXRzdWkoQy5zYXRfaW5jcmVhc2luZ19hdG1vc3QpLCAiQ2FkaWNhbDE5NSIpLCAgIyBzYXRfaW5jcmVhc2luZ19hdG1vc3RfbWF0c3VpCiAgICBDLndpdGhfc29sdmVyKEMud2l0aF9tYXRzdWkoQy5zYXRfYWRhcHRpdmUpLCAiQ2FkaWNhbDE5NSIpLCAgICAgICAgICAgIyBzYXRfYWRhcHRpdmVfbWF0c3VpCl0KCgpkZWYgX3J1bihiYWNrZW5kLCBjb25maWdzLCByX3N0YXJ0LCByX2VuZCwgdmVyc2lvbiwgdGltZV9saW1pdCwgZm9yY2UpOgogICAgZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgogICAgb3V0X2RpciA9IFBhdGgoX19maWxlX18pLndpdGhfbmFtZSgicmVzdWx0X3NwZWNrIikKICAgIG91dF9kaXIubWtkaXIoZXhpc3Rfb2s9VHJ1ZSkKICAgIHRhZyA9ICJfIi5qb2luKHN0cih2KSBmb3IgdiBpbiB2ZXJzaW9uKSAgIyBlLmcuICgzMiwgNjQpIC0+ICIzMl82NCIKICAgIHN0ZW0gPSBmInNwZWNre3RhZ31fcmtfe2JhY2tlbmR9IgogICAgcmVzdWx0ID0gcnVuX2JlbmNobWFyayhsYW1iZGEgcjogX2NpcGhlcihyLCB2ZXJzaW9uKSwgY29uZmlncywgcmFuZ2Uocl9zdGFydCwgcl9lbmQgKyAxKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZV9saW1pdD10aW1lX2xpbWl0LAogICAgICAgICAgICAgICAgICAgICAgICAgICBjYWNoZV9wYXRoPW91dF9kaXIgLyAoc3RlbSArICJfcHJvZ3Jlc3MuanNvbiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxfcGF0aD1vdXRfZGlyIC8gKHN0ZW0gKyAiX3Byb2dyZXNzX2RldGFpbC5qc29uIiksIGZvcmNlPWZvcmNlKQogICAgZHVtcF9hbGwocmVzdWx0LCBvdXRfZGlyLCBzdGVtKQogICAgcmV0dXJuIHJlc3VsdAoKCiMgZm9yY2U9RmFsc2UgcmVzdW1lcyBmcm9tIHRoZSBwcm9ncmVzcyBjYWNoZSAoc2tpcHMgYWxyZWFkeS1zb2x2ZWQgcm91bmRzKTsgZm9yY2U9VHJ1ZSByZS1zb2x2ZXMgYWxsLgpkZWYgc2VhcmNoX3JrX21pbHAocl9zdGFydD0xLCByX2VuZD0yLCB2ZXJzaW9uPSgzMiwgNjQpLCB0aW1lX2xpbWl0PU5vbmUsIGZvcmNlPUZhbHNlKToKICAgIHJldHVybiBfcnVuKCJtaWxwIiwgTUlMUF9DT05GSUdTLCByX3N0YXJ0LCByX2VuZCwgdmVyc2lvbiwgdGltZV9saW1pdCwgZm9yY2UpCgoKZGVmIHNlYXJjaF9ya19zYXQocl9zdGFydD0xLCByX2VuZD0yLCB2ZXJzaW9uPSgzMiwgNjQpLCB0aW1lX2xpbWl0PU5vbmUsIGZvcmNlPUZhbHNlKToKICAgIHJldHVybiBfcnVuKCJzYXQiLCBTQVRfQ09ORklHUywgcl9zdGFydCwgcl9lbmQsIHZlcnNpb24sIHRpbWVfbGltaXQsIGZvcmNlKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzZWFyY2hfcmtfbWlscCgpCiAgICBzZWFyY2hfcmtfc2F0KCkK
+"""SPECK related-key differential-search benchmark on the block cipher (key schedule carries the diff)."""
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # this benchmarks dir
+import configs as C
+from framework import dump_all, run_benchmark
+
+
+def _cipher(rounds, version=(32, 64)):
+    from primitives.speck import SPECK_BLOCKCIPHER
+
+    return SPECK_BLOCKCIPHER(r=rounds, version=list(version))  # version = [block_size, key_size]
+
+
+# Own config lists so the related-key sweep can diverge from single-key (names auto-compose).
+MILP_CONFIGS = [
+    C.milp,                          # milp
+    C.with_matsui(C.milp),           # milp_matsui
+    C.modadd(C.milp, 1),             # milp_modadd1
+    C.modadd(C.milp, 2),             # milp_modadd2
+    C.modadd(C.milp, 3),             # milp_modadd3
+    C.with_solver(C.milp, "SCIP"),   # milp_scip
+]
+
+SAT_SOLVER = "Cadical195"
+SAT_CONFIGS = [
+    C.with_solver(C.sat, "Cadical195"),                                   # sat
+    C.with_solver(C.sat_increasing_atmost, "Cadical195"),                 # sat_increasing_atmost
+    C.with_solver(C.sat_increasing_exact, "Cadical195"),                  # sat_increasing_exact
+    C.with_solver(C.sat_adaptive, "Cadical195"),                          # sat_adaptive
+    C.with_solver(C.with_matsui(C.sat_increasing_atmost), "Cadical195"),  # sat_increasing_atmost_matsui
+    C.with_solver(C.with_matsui(C.sat_adaptive), "Cadical195"),           # sat_adaptive_matsui
+]
+
+
+def _run(backend, configs, r_start, r_end, version, time_limit, force):
+    from pathlib import Path
+
+    out_dir = Path(__file__).with_name("result_speck")
+    out_dir.mkdir(exist_ok=True)
+    tag = "_".join(str(v) for v in version)  # e.g. (32, 64) -> "32_64"
+    stem = f"speck{tag}_rk_{backend}"
+    result = run_benchmark(lambda r: _cipher(r, version), configs, range(r_start, r_end + 1),
+                           time_limit=time_limit,
+                           cache_path=out_dir / (stem + "_progress.json"),
+                           detail_path=out_dir / (stem + "_progress_detail.json"), force=force)
+    dump_all(result, out_dir, stem)
+    return result
+
+
+# force=False resumes from the progress cache (skips already-solved rounds); force=True re-solves all.
+def search_rk_milp(r_start=1, r_end=2, version=(32, 64), time_limit=None, force=False):
+    return _run("milp", MILP_CONFIGS, r_start, r_end, version, time_limit, force)
+
+
+def search_rk_sat(r_start=1, r_end=2, version=(32, 64), time_limit=None, force=False):
+    return _run("sat", SAT_CONFIGS, r_start, r_end, version, time_limit, force)
+
+
+if __name__ == "__main__":
+    search_rk_milp()
+    search_rk_sat()

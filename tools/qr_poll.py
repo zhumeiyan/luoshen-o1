@@ -1,1 +1,31 @@
-aW1wb3J0IHVybGxpYi5yZXF1ZXN0LHNzbCxodHRwLmNvb2tpZWphcixyYW5kb20sc3lzLHRpbWUKY3R4PXNzbC5jcmVhdGVfZGVmYXVsdF9jb250ZXh0KCk7IGN0eC5jaGVja19ob3N0bmFtZT1GYWxzZTsgY3R4LnZlcmlmeV9tb2RlPXNzbC5DRVJUX05PTkUKY2o9aHR0cC5jb29raWVqYXIuTW96aWxsYUNvb2tpZUphcigiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvLmF1dGgvc2Vzc2lvbi50eHQiKQpvcD11cmxsaWIucmVxdWVzdC5idWlsZF9vcGVuZXIodXJsbGliLnJlcXVlc3QuSFRUUENvb2tpZVByb2Nlc3NvcihjaiksdXJsbGliLnJlcXVlc3QuSFRUUFNIYW5kbGVyKGNvbnRleHQ9Y3R4KSkKb3AuYWRkaGVhZGVycz1bKCJVc2VyLUFnZW50IiwiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IENocm9tZS8xMjAgU2FmYXJpLzUzNy4zNiIpLAogICAgICAgICAgICAgICAoIlJlZmVyZXIiLCJodHRwczovL3h1aS5wdGxvZ2luMi5xcS5jb20vIildCm9wLm9wZW4oImh0dHBzOi8veHVpLnB0bG9naW4yLnFxLmNvbS9jZ2ktYmluL3hsb2dpbj9hcHBpZD01MjIwMDU3MDUmZGFpZD00JnN0eWxlPTMzJnNfdXJsPWh0dHBzJTNBJTJGJTJGbWFpbC5xcS5jb20lMkYiLHRpbWVvdXQ9MjUpLnJlYWQoKQpkPW9wLm9wZW4oZiJodHRwczovL3NzbC5wdGxvZ2luMi5xcS5jb20vcHRxcnNob3c/YXBwaWQ9NTIyMDA1NzA1JmU9MiZsPU0mcz0zJmQ9NzImdj00JmRhaWQ9NCZ0PTAue3JhbmRvbS5yYW5kb20oKX0mcHRfM3JkX2FpZD0wIix0aW1lb3V0PTI1KS5yZWFkKCkKb3BlbigiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvLmF1dGgvcXJfbGl2ZS5wbmciLCJ3YiIpLndyaXRlKGQpCnFyc2lnPVtjLnZhbHVlIGZvciBjIGluIGNqIGlmIGMubmFtZT09InFyc2lnIl1bMF0KZT0wCmZvciBjaCBpbiBxcnNpZzogZSArPSAoZTw8NSkgKyBvcmQoY2gpCnRva2VuPWUgJiAweDdmZmZmZmZmCnByaW50KCJwdHFydG9rZW4iLHRva2VuKTsgc3lzLnN0ZG91dC5mbHVzaCgpCnNpZz1uZXh0KChjLnZhbHVlIGZvciBjIGluIGNqIGlmIGMubmFtZT09InB0X2xvZ2luX3NpZyIpLCIiKQpiYXNlPSgiaHR0cHM6Ly9zc2wucHRsb2dpbjIucXEuY29tL3B0cXJsb2dpbj91MT1odHRwcyUzQSUyRiUyRm1haWwucXEuY29tJTJGIgogICAgICBmIiZwdHFydG9rZW49e3Rva2VufSZwdHJlZGlyZWN0PTAmaD0xJnQ9MSZnPTEiCiAgICAgICImZnJvbV91aT0xJnB0bGFuZz0yMDUyJiIKICAgICAgZiJhY3Rpb249MC0wLXtpbnQodGltZS50aW1lKCkqMTAwMCl9JmpzX3Zlcj0xMDI5NyZqc190eXBlPTEmbG9naW5fc2lnPXtzaWd9JnB0X3Vpc3R5bGU9NDAmYWlkPTUyMjAwNTcwNSZkYWlkPTQmIikKZm9yIGkgaW4gcmFuZ2UoMTIwKToKICAgIHRyeToKICAgICAgICByPW9wLm9wZW4oYmFzZStzdHIocmFuZG9tLnJhbmRvbSgpKSx0aW1lb3V0PTMwKS5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIsInJlcGxhY2UiKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleDoKICAgICAgICBwcmludCgicG9sbCBlcnIiLHN0cihleClbOjgwXSk7IGJyZWFrCiAgICBpZiAiJzAnIiBpbiByLnNwbGl0KCIsIilbMF0gb3Igci5zdGFydHN3aXRoKCJwdHVpQ0IoJzAnIik6CiAgICAgICAgcHJpbnQoIlNVQ0NFU1MiLCByWzozMDBdKTsgY2ouc2F2ZShpZ25vcmVfZGlzY2FyZD1UcnVlLGlnbm9yZV9leHBpcmVzPVRydWUpOyBicmVhawogICAgc3Q9ci5zcGxpdCgiJyIpWzFdIGlmICInIiBpbiByIGVsc2UgIj8iCiAgICBtc2c9eyI2NiI6IuetieW+heaJq+eggSIsIjY3Ijoi5bey5omr56CB77yM562J5b6F56Gu6K6kIiwiNjUiOiLkuoznu7TnoIHlt7LlpLHmlYgiLCIwIjoi5oiQ5YqfIn0uZ2V0KHN0LHN0KQogICAgcHJpbnQoZiJbe2l9XSBzdGF0ZT17c3R9IHttc2d9Iik7IHN5cy5zdGRvdXQuZmx1c2goKQogICAgaWYgc3Q9PSI2NSI6IGJyZWFrCiAgICB0aW1lLnNsZWVwKDMpCg==
+import urllib.request,ssl,http.cookiejar,random,sys,time
+ctx=ssl.create_default_context(); ctx.check_hostname=False; ctx.verify_mode=ssl.CERT_NONE
+cj=http.cookiejar.MozillaCookieJar("/data/workspace/luoshen-o1/.auth/session.txt")
+op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj),urllib.request.HTTPSHandler(context=ctx))
+op.addheaders=[("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"),
+               ("Referer","https://xui.ptlogin2.qq.com/")]
+op.open("https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=522005705&daid=4&style=33&s_url=https%3A%2F%2Fmail.qq.com%2F",timeout=25).read()
+d=op.open(f"https://ssl.ptlogin2.qq.com/ptqrshow?appid=522005705&e=2&l=M&s=3&d=72&v=4&daid=4&t=0.{random.random()}&pt_3rd_aid=0",timeout=25).read()
+open("/data/workspace/luoshen-o1/.auth/qr_live.png","wb").write(d)
+qrsig=[c.value for c in cj if c.name=="qrsig"][0]
+e=0
+for ch in qrsig: e += (e<<5) + ord(ch)
+token=e & 0x7fffffff
+print("ptqrtoken",token); sys.stdout.flush()
+sig=next((c.value for c in cj if c.name=="pt_login_sig"),"")
+base=("https://ssl.ptlogin2.qq.com/ptqrlogin?u1=https%3A%2F%2Fmail.qq.com%2F"
+      f"&ptqrtoken={token}&ptredirect=0&h=1&t=1&g=1"
+      "&from_ui=1&ptlang=2052&"
+      f"action=0-0-{int(time.time()*1000)}&js_ver=10297&js_type=1&login_sig={sig}&pt_uistyle=40&aid=522005705&daid=4&")
+for i in range(120):
+    try:
+        r=op.open(base+str(random.random()),timeout=30).read().decode("utf-8","replace")
+    except Exception as ex:
+        print("poll err",str(ex)[:80]); break
+    if "'0'" in r.split(",")[0] or r.startswith("ptuiCB('0'"):
+        print("SUCCESS", r[:300]); cj.save(ignore_discard=True,ignore_expires=True); break
+    st=r.split("'")[1] if "'" in r else "?"
+    msg={"66":"等待扫码","67":"已扫码，等待确认","65":"二维码已失效","0":"成功"}.get(st,st)
+    print(f"[{i}] state={st} {msg}"); sys.stdout.flush()
+    if st=="65": break
+    time.sleep(3)

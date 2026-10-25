@@ -1,1 +1,19 @@
-ew0KICAiYXNzZXQiOiAidGFjdC10aHJlZS1heGlzLWNoZWNrIChFTikgY29udHJvbGxlZC1maWxlIGludGVncml0eSBtYW5pZmVzdCAodmVyc2lvbi1sb2NrIGJhc2VsaW5lKSIsDQogICJndWFyZF92ZXJzaW9uIjogInYxLjAiLA0KICAibm90ZSI6ICJTSEEtMjU2IGlzIHRoZSBjb250ZW50LWF1dGhvcml0eSBiYXNlbGluZTsgdmVyc2lvbiBpcyB0aGUgbG9naWNhbCB2ZXJzaW9uLiBJZiBhbnkgY29udHJvbGxlZCBmaWxlIGlzIHJvbGxlZCBiYWNrL3RhbXBlcmVkIGV4dGVybmFsbHksIHZlcmlmeS5zaCB3aWxsIGFsZXJ0LiBBZnRlciB1cGRhdGluZyBhIGNvbnRyb2xsZWQgZmlsZSwgeW91IG11c3QgcmVnZW5lcmF0ZSB0aGlzIE1BTklGRVNULiIsDQogICJjb250cm9sbGVkX2ZpbGVzIjogew0KICAgICJTS0lMTC5tZCI6IHsNCiAgICAgICJzaGEyNTYiOiAiNTllZjY1M2IyZmU5ZDk5ODY3Mzc4MDExMDQwY2IzZTM5YmU4ODc2MGQ3MTZkMjY0YTZkNmZkNWY4YmJiZWRiMSIsDQogICAgICAidmVyc2lvbiI6ICJ2MS4xLjEiDQogICAgfSwNCiAgICAicmVmZXJlbmNlcy9jYWxpYnJhdGlvbl9jYXNlcy5qc29uIjogew0KICAgICAgInNoYTI1NiI6ICI0ZjhkY2U2MTQ1MjU3YzUzNzUwN2RiODAwZmRkNjdiN2E5MjUxZDhlMTU1ZmUyODU1NWRmZjJlZWE1ZmY4MmQ5IiwNCiAgICAgICJ2ZXJzaW9uIjogInYxLjEuMSINCiAgICB9LA0KICAgICJyZWZlcmVuY2VzL2Nvb3JkaW5hdGVfZGF0YS5qc29uIjogew0KICAgICAgInNoYTI1NiI6ICJiMTljZDNhOGM2NjA4ZjE0ZTQ1NDU1NGE2MTdjMmZlMDM2ODc2M2MxZmZhOWNhZTI2ODRkYTczNmI0NmYxNjdiIiwNCiAgICAgICJ2ZXJzaW9uIjogInYyLjcuOCINCiAgICB9DQogIH0NCn0NCg==
+{
+  "asset": "tact-three-axis-check (EN) controlled-file integrity manifest (version-lock baseline)",
+  "guard_version": "v1.0",
+  "note": "SHA-256 is the content-authority baseline; version is the logical version. If any controlled file is rolled back/tampered externally, verify.sh will alert. After updating a controlled file, you must regenerate this MANIFEST.",
+  "controlled_files": {
+    "SKILL.md": {
+      "sha256": "59ef653b2fe9d99867378011040cb3e39be88760d716d264a6d6fd5f8bbbedb1",
+      "version": "v1.1.1"
+    },
+    "references/calibration_cases.json": {
+      "sha256": "4f8dce6145257c537507db800fdd67b7a9251d8e155fe28555dff2eea5ff82d9",
+      "version": "v1.1.1"
+    },
+    "references/coordinate_data.json": {
+      "sha256": "b19cd3a8c6608f14e454554a617c2fe0368763c1ffa9cae2684da736b46f167b",
+      "version": "v2.7.8"
+    }
+  }
+}

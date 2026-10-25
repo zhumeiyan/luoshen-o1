@@ -1,1 +1,160 @@
-IyAxMzAgwrcgZXZhbGd1YXJkIHYwLjTvvJrmiorlj5HnjrDpkonliLDooYzkuIrvvIznhLblkI7mib/orqTov5jkuI3og73ljZYKCj4g5LiK5LiA6L2u77yIMTI577yJ55qE57uT6K665piv77ya5ZyoIDkg5Liq5p2D5aiB6K+E5rWL5qGG5p6255qEIDI3IOS4quecn+WunuaWh+S7tuS4iu+8jAo+IGJsb2NrZXIg57K+56Gu546HIDExJe+8jOS/ruWIsCAxNyXvvIwqKuS4jeiDveWNlioq44CCCj4g5pys6L2u5YGaIDEyOSDnu5PlsL7mjIflrprnmoTpgqPku7bkuovvvJoqKuaWh+S7tue6p+WQr+WPkeW8j+aUueaIkOWHveaVsOe6pyArIOihjOe6p+WumuS9jSoq77yMCj4g5bm25oqK6L+ZIDI3IOS4quaWh+S7tuWBmuaIkCBDSSDlm57lvZLpm4bjgIIKCi0tLQoKIyMgMC4g5LiA5Y+l6K+dCgoqKuWumuS9jemXrumimOino+WGs+S6hu+8iDg2LjQlIOKGkiAwJe+8ie+8jOeyvuehrueOh+mXrumimOayoeacie+8iDUuNyXvvInjgIIqKgpDSSDnjrDlnKjkvJoqKuiHquW3seWIpCBGQUlMIOW5tumYu+atouS4iuaetioq4oCU4oCU6L+Z5q2j5piv5oiR6KaB5a6D5YGa55qE44CCCgotLS0KCiMjIDEuIOS4u+e7k+aenAoKfCB8IOWPkeeOsOaVsCB8IOmSieWcqCBsaW5l4omkMSDnmoQgfCDljaDmr5QgfAp8LS0tfC0tLXwtLS18LS0tfAp8IOWKoOWumuS9jemXuOS5i+WJjSB8IDQ0IHwgKiozOCoqIHwgKio4Ni40JSoqIHwKfCDliqDlrprkvY3pl7jkuYvlkI4gfCAzNSB8ICoqMCoqIHwgKiowLjAlKiogfAoK5Luj5Lu35piv56CN5o6JIDkg5p2h5Y+R546w77yM5ZCM5pe2Kirlj6zlm57msqHmnInmjokqKu+8mgoKYGBgCnBsYW50ZWQgICAgICAxMi8xMiAgIOaXoOe8uuWksQpwcm9fcGxhbnRlZCAgMTUvMTUgICDml6DnvLrlpLEKY2xlYW5fZXZhbCAgICAgMApjcmFzaGVzICAgICAgICAwCmBgYAoKLS0tCgojIyAyLiDmnIDlhbPplK7nmoTvvJrmiYvlt6XpgJDmnaHliKTlrprlkI7nmoTnsr7noa7njocKCjM1IOadoeWFqOmDqOS6uuW3peaguOWvuea6kOeggeS4iuS4i+aWh++8jOWIpOWumuagh+WHhu+8mioq6L+Z6KGM5piv5ZCm5pSv5pKR6L+Z5p2h5pat6KiAKirjgIIK5a2Y55aR5LiA5b6L6K6w5Li6IEZQ77yI5L+d5a6I77yJ44CCCgp8IHwgfAp8LS0tfC0tLXwKfCBUUCB8ICoqMioqIHwKfCBGUCB8ICoqMzMqKiB8Cnwg57K+56Gu546HIHwgKio1LjclKiogfAp8IOS4iuaetumXqOanmyB8IDYwJSB8Cnwg5Yik5a6aIHwgKipGQUlMKiogfAoKKirkuKTmnaHnnJ/pmLPmgKcqKu+8mgoKMS4gYGxtX2V2YWwvZXZhbHVhdG9yLnB5YCBFRzAwMiDigJQg5oqlIGFjYy9hY2Nfbm9ybe+8jOWFqOaWh+S7tuaXoOmaj+acuuWfuue6vwoyLiBgQklHLWJlbmNoL2FwaS90YXNrX21ldHJpY3MucHlgIEVHMDA1IEw0MyDigJQgYGNvdW50IC8gbGVuKHNhbXBsZXMpYO+8jAogICDovpPlhaXkuLrnqbrljbMgWmVyb0RpdmlzaW9uRXJyb3LvvIzml6DlrojljasKCioq6L+Z5p2h5pWw5a2X5LiN6IO95ZKMIDEyOSDnmoQiMTclIuebtOaOpeavlCoq77yaMTI5IOWPquWIpOS6hiA2IOS4qiBibG9ja2Vy77yMCuacrOi9ruWIpOS6huWFqOmDqCAzNSDmnaHvvIjlkKsgd2Fybu+8ieOAgioqd2FybiDlh6DkuY7lhajmmK/lgYfnmoQqKuKAlOKAlArmraTliY0i5bmy5YeA5qC35pys6Zu26K+v5oqlIuS5i+aJgOS7peaIkOeri++8jOaYr+WboOS4uuW5suWHgOagt+acrOaYr+aIkeS7rOiHquW3seWGmeeahOOAggoKLS0tCgojIyAzLiDmiJHoh6rlt7Hlhpnlh7rmnaXnmoTlm5vkuKrlpLHmlYgKCiMjIyDikaAg5a6a5L2N6Ze45oqKIDM5LzUxIOmDveegjeS6hu+8jOWFtuS4reWPr+iDveacieecn+eahAoK56ys5LiA54mIIEctTElORSDmmK8i5rKh5pyJ6K+B5o2u6KGM5bCx5LiN6KaB6L+Z5p2h5Y+R546wIuOAgui3keS4i+WOu+egjeaOiSAqKjM5IOadoSoq77yMCuiAjCBFR1AwNu+8iOWNleenjeWtkOaXoOaWueW3ru+8iei/meexuyoqIue8uuWkseWeiyLop4TliJnmnKzmnaXlsLHmjIfkuI3liLDkuIDkuKrnrKblj7cqKuKAlOKAlArnrKblj7fkuI3lrZjlnKjjgILlroPnvLrnmoTkuI3mmK/or4Hmja7vvIzmmK8qKumUmueCuSoq44CCCgrkv67ms5XvvJrnu5nnvLrlpLHlnovop4TliJnooaXplJrngrnlrprkvY3lmajvvIzplJrngrkgPSAi57y65bCR5Ly055Sf54mp55qE6YKj5Liq5Lic6KW/IuaJgOWcqOihjOOAggrmlZHlm57kuIDpg6jliIbvvIhFRzAwMiBsbV9ldmFsIOS7jiBMMTYyIOeahOW8g+eUqOaXpeW/lyDihpIgTDY2NiDnmoQgbWV0cmljcyDogZrlkIjvvInjgIIKCiMjIyDikaEgRUcwMDIg6ZKJ5Zyo5byD55So5pel5b+X5LiKCgpgX21ldHJpY19saW5lKClgIOi/lOWbnuaWh+S7tumHjCoq56ys5LiA5LiqKiogZW1pdCDosIPnlKjjgILlnKggbG1fZXZhbCDph4zpgqPmmK8KYGV2YWxfbG9nZ2VyLmluZm8oIlNldHRpbmcgdmVyYm9zaXR5IC4uLiBpcyBkZXByZWNhdGVkLiIpYOOAggror7vogIXmiZPlvIDov5nooYzvvIznnIvkuI3liLDku7vkvZXlkowgYWNjdXJhY3kg5pyJ5YWz55qE5Lic6KW/77yMCioq5LqO5piv5oqK5LiA5p2h5Zyo5paH5Lu25bGC6Z2i5Li655yf55qE5Y+R546w5pW05Liq5Lii5o6JKirjgIIKCiMjIyDikaIgYC9gIOaYr+i3r+W+hOaLvOaOpe+8jOS4jeaYr+mZpOazlQoKYFJVTl9FVkFMVUFUSU9OX0xPR19ESVIgLyBydW5faWRg44CBYHNlbGYuZXZhbF9yZWdpc3RyeV9wYXRoIC8gImRhdGEiIC8gZGF0YV9wYXRoYArooqvlvZPmiJDliIbmr43mnKrkv53miqTjgIIqKjYg5p2hIEVHMDA1IOmHjCAzIOadoeaYr+i/meS4qioq77yM5L+u5a6MIDYg4oaSIDPjgIIKCiMjIyDikaMg5paH5qGj5a2X56ym5Liy6YeM55qEIFVSTAoKRUcwMTYg6ZSa54K55Yy56YWN5YiwIGhlbG0g5paH5Lu2IGRvY3N0cmluZyDph4znmoQgR29vZ2xlIFNoZWV0cyDpk77mjqXvvIwK5oql5oiQIuacquWBmuWPr+i+vuaAp+Wkjea1i+eahOi/nOeoi+iwg+eUqCLjgIIqKuaVo+aWh+WwseaYr+WIpOaNruaguCAjMjMg6K2m5ZGK55qE5Lic6KW/KirvvIwK5oiR6Ieq5bex5Y+I6Lip5LqG5LiA5qyh44CCCgotLS0KCiMjIDQuIEctU0NPUEUg5Z+65pys5rKh55So77yM5Y6f5Zug6KaB6K+05riF5qWaCgrliqDkuoYi5Y+R546w5omA5Zyo5Ye95pWw5b+F6aG755yf55qE5aSE55CG5oyH5qCHIui/memBk+mXuO+8jCoq5Y+q5aSa56CN5o6JIDEg5p2hKirjgIIKCuWOn+WboO+8mm9sbWVzIOeahCBgcnVuX2V2YWxgIOaYr+S4gOS4quS4iuWNg+ihjOeahOWNleS9k+WHveaVsO+8jApgc2NvcGVfc291cmNlKClgIOaKk+WIsOeahOa6kOeggemHjOS7gOS5iOivjemDveacieOAgioq5Ye95pWw57qn57KS5bqm5a+55Y2V5L2T5Ye95pWw5peg5pWI44CCKioK55yf5q2j6KaB5pyJ5pWI5b6X5YGa5Yiw6K+t5Y+l57qnL+aVsOaNrua1gee6p+KAlOKAlOmCo+aYr+WPpuS4gOS4qumHj+e6p+eahOW3peeoi+OAggoKKirmiJHkuI3miorlroPljIXoo4XmiJAi5pyJ5pWIIioq77yM54Wn5oql77ya6L+Z6YGT6Ze45Zyo5pys6K+t5paZ5LiK5Z+65pys5peg5pWI44CCCgotLS0KCiMjIDUuIOS/riBBIOWdjyBC77yM5Lik56yU6YO96K6wCgotIOaUtue0pyBFR1AwNCDnmoTlhbPplK7lrZcg4oaSIOegjeaOiSAyIOS4quivreaWmeWBh+mYs+aAp++8jCoq5ZCM5pe25omT5o6JIHByb19wbGFudGVkIOeahCBFR1AwNCoq77yIMTUvMTUg4oaSIDE0LzE177yJ44CCCiAg6KGl5ZueIGBqdWRnZShgIOaooeW8j+aJjeaBouWkjQotIOmhuuW4puWPkeeOsCBwcm9fY2xlYW4g6YeMIGBvcmRlcl9hYC9gb3JkZXJfYmAg6L+Z5LiqKirmraPnoa7nmoTlj4zluo/miqXlkYrlhpnms5XooqvliKTmiJDmnKrljrvlgY8qKgogIO+8iHYyIOaKiiBiYXJlIGBvcmRlcmAg5Yig5LqG77yM6K+v5Lyk55yf6Zi05oCn77yJ4oaSIOihpeeqhOaooeW8j+S/ruWbngoK5Lik56yU6YO95pivIuaUueS4gOS4qumlseWSjOW8leWFpeWPpuS4gOS4qumlseWSjCLnmoTlrp7kvovvvIwxMTkg5LmL5ZCO56ys5LiJ5qyh44CCCgotLS0KCiMjIDYuIENJIOWbnuW9kumbhuW3suW7ugoKYHRlc3RzL3J1bl9jaS5weWDvvIzkuKTpgZPpl7jlkIzml7bot5HvvIwqKuS7u+S9leS4gOmBk+S4jei/h+WwsSBleGl0IDEqKu+8mgoKYGBgCltBXSDln4vpm7flj6zlm54gICBwbGFudGVkIDEyLzEyIMK3IHBybyAxNS8xNQpbQV0g5bmy5YeA5qC35pysICAgY2xlYW5fZXZhbCAwIMK3IHByb19jbGVhbiA277yI5bey55+l5YGH6Ziz5oCn77yJCltCXSDnnJ/lrp7or63mlpkgICAzNSDmnaHvvIwwIOadoeacquWumuS9jQpbQl0g5omL5bel57K+56Gu546HIDIvMzUgPSA1LjclICDihpIg6Zeo5qebIDYwJSDihpIgRkFJTApbQ10g6KeE5YiZ5bSp5rqDICAgMApDSTogRkFJTApgYGAKCioq5Y+q6LeRIEEg5LiN6LeRIELvvIzlsLHmmK8gdjAuMy4wIOS7pSAxMSUg57K+56Gu546H5LiK5p6255qE5Y6f5Zug44CCKioKCi0tLQoKIyMgNy4g5ZWG5Lia5Yaz5a6aCgoqKnYwLjQuMCDkuI3mjILku5jotLnpk77mjqXvvIzkuI3lnKjokL3lnLDpobXmlLbmrL7jgIIqKgoK5LiK5LiA6L2u5oiR6Ieq5bex5YaZ5Zyo5Lqn5ZOB6aG15LiK55qE6K+d5pivIuS8muS5seWPq+eahCBsaW50ZXIg5rKh5Lq655SoIuOAggo1LjclIOeyvuehrueOh+WwseaYr+i/meS4queKtuaAgeOAguWuouaIt+aLv+iHquW3seS7o+eggeS4gOaJq++8jArnnIvliLDkuIDloIbpkonlnKjml6DlhbPooYzkuIrnmoQgYmxvY2tlcu+8jOaLm+eJjOW9k+WcuueguOaOieOAggoKKirkuIvkuIDmraXkuI3mmK/liqDop4TliJkqKu+8jOaYr+aKiuinhOWImeaUueWGmeaIkOS9nOeUqOWfn+WxgOmDqOeahO+8iOivreWPpee6p++8ie+8jArlubbmioogYHByb19jbGVhbmAg6YKjIDYg5p2h5YGH6Ziz5oCn5riF6Zu244CCKirnsr7noa7njofkuI3liLAgNjAlIOS4jeS4iuaetuOAgioqCgotLS0KCiMjIDguIOi+ueeVjAoKLSAyNyDkuKrmlofku7bmmK8gMTI5IOaKk+eahOW/q+eFp++8jCoq5LiN5piv5ZCE5qGG5p625YWo6YOo5Luj56CBKioKLSAzNSDmnaHmoIfnrb7mmK/miJHkuIDkurrliKTlrprvvIwqKuaXoOesrOS6jOS6uuWkjeaguCoq77yM5a2Y5Zyo57O757uf5oCn5YGP6K+v6aOO6ZmpCi0gIlRQL0ZQIiDliKTnmoTmmK8qKuihjCoq5piv5ZCm5pSv5pKR5pat6KiA77yb5paH5Lu25bGC6Z2i5Y+v6IO95pyJ5pu06auY57K+56Gu546H77yMKirmnKrmtYsqKgotIOmYiOWAvO+8iDYwJSDkuIrmnrbnur/vvInmmK/miJHmiYvlrprnmoTvvIwqKuaXoOWklumDqOS+neaNrioqCgotLS0KCiMjIDkuIOiHquajgAoK5riy5p+TIOKGkiDlhpkgYC9kZXYvZmIwYO+8iGlvY3RsIOWunua1iyAxMDI0w5c3NjjDlzMyYnBwICoqUkdCQSoq77yJ4oaSCuWbnumHhyAqKjMsMTQ1LDcyOCDlrZfoioIqKu+8iOS4juWGmeWFpeWQjO+8ieKGkiBPQ1LvvJoKCioq5qCh6aqM56CBIGBLN000UVhgIOWRveS4re+8jDkvOSDmjqLpkojlkb3kuK3jgIIqKgoK5Yik5o2u5qC4ICoqKzU3NX41ODEqKuOAggo=
+# 130 · evalguard v0.4：把发现钉到行上，然后承认还不能卖
+
+> 上一轮（129）的结论是：在 9 个权威评测框架的 27 个真实文件上，
+> blocker 精确率 11%，修到 17%，**不能卖**。
+> 本轮做 129 结尾指定的那件事：**文件级启发式改成函数级 + 行级定位**，
+> 并把这 27 个文件做成 CI 回归集。
+
+---
+
+## 0. 一句话
+
+**定位问题解决了（86.4% → 0%），精确率问题没有（5.7%）。**
+CI 现在会**自己判 FAIL 并阻止上架**——这正是我要它做的。
+
+---
+
+## 1. 主结果
+
+| | 发现数 | 钉在 line≤1 的 | 占比 |
+|---|---|---|---|
+| 加定位闸之前 | 44 | **38** | **86.4%** |
+| 加定位闸之后 | 35 | **0** | **0.0%** |
+
+代价是砍掉 9 条发现，同时**召回没有掉**：
+
+```
+planted      12/12   无缺失
+pro_planted  15/15   无缺失
+clean_eval     0
+crashes        0
+```
+
+---
+
+## 2. 最关键的：手工逐条判定后的精确率
+
+35 条全部人工核对源码上下文，判定标准：**这行是否支撑这条断言**。
+存疑一律记为 FP（保守）。
+
+| | |
+|---|---|
+| TP | **2** |
+| FP | **33** |
+| 精确率 | **5.7%** |
+| 上架门槛 | 60% |
+| 判定 | **FAIL** |
+
+**两条真阳性**：
+
+1. `lm_eval/evaluator.py` EG002 — 报 acc/acc_norm，全文件无随机基线
+2. `BIG-bench/api/task_metrics.py` EG005 L43 — `count / len(samples)`，
+   输入为空即 ZeroDivisionError，无守卫
+
+**这条数字不能和 129 的"17%"直接比**：129 只判了 6 个 blocker，
+本轮判了全部 35 条（含 warn）。**warn 几乎全是假的**——
+此前"干净样本零误报"之所以成立，是因为干净样本是我们自己写的。
+
+---
+
+## 3. 我自己写出来的四个失效
+
+### ① 定位闸把 39/51 都砍了，其中可能有真的
+
+第一版 G-LINE 是"没有证据行就不要这条发现"。跑下去砍掉 **39 条**，
+而 EGP06（单种子无方差）这类**"缺失型"规则本来就指不到一个符号**——
+符号不存在。它缺的不是证据，是**锚点**。
+
+修法：给缺失型规则补锚点定位器，锚点 = "缺少伴生物的那个东西"所在行。
+救回一部分（EG002 lm_eval 从 L162 的弃用日志 → L666 的 metrics 聚合）。
+
+### ② EG002 钉在弃用日志上
+
+`_metric_line()` 返回文件里**第一个** emit 调用。在 lm_eval 里那是
+`eval_logger.info("Setting verbosity ... is deprecated.")`。
+读者打开这行，看不到任何和 accuracy 有关的东西，
+**于是把一条在文件层面为真的发现整个丢掉**。
+
+### ③ `/` 是路径拼接，不是除法
+
+`RUN_EVALUATION_LOG_DIR / run_id`、`self.eval_registry_path / "data" / data_path`
+被当成分母未保护。**6 条 EG005 里 3 条是这个**，修完 6 → 3。
+
+### ④ 文档字符串里的 URL
+
+EG016 锚点匹配到 helm 文件 docstring 里的 Google Sheets 链接，
+报成"未做可达性复测的远程调用"。**散文就是判据核 #23 警告的东西**，
+我自己又踩了一次。
+
+---
+
+## 4. G-SCOPE 基本没用，原因要说清楚
+
+加了"发现所在函数必须真的处理指标"这道闸，**只多砍掉 1 条**。
+
+原因：olmes 的 `run_eval` 是一个上千行的单体函数，
+`scope_source()` 抓到的源码里什么词都有。**函数级粒度对单体函数无效。**
+真正要有效得做到语句级/数据流级——那是另一个量级的工程。
+
+**我不把它包装成"有效"**，照报：这道闸在本语料上基本无效。
+
+---
+
+## 5. 修 A 坏 B，两笔都记
+
+- 收紧 EGP04 的关键字 → 砍掉 2 个语料假阳性，**同时打掉 pro_planted 的 EGP04**（15/15 → 14/15）。
+  补回 `judge(` 模式才恢复
+- 顺带发现 pro_clean 里 `order_a`/`order_b` 这个**正确的双序报告写法被判成未去偏**
+  （v2 把 bare `order` 删了，误伤真阴性）→ 补窄模式修回
+
+两笔都是"改一个饱和引入另一个饱和"的实例，119 之后第三次。
+
+---
+
+## 6. CI 回归集已建
+
+`tests/run_ci.py`，两道闸同时跑，**任何一道不过就 exit 1**：
+
+```
+[A] 埋雷召回   planted 12/12 · pro 15/15
+[A] 干净样本   clean_eval 0 · pro_clean 6（已知假阳性）
+[B] 真实语料   35 条，0 条未定位
+[B] 手工精确率 2/35 = 5.7%  → 门槛 60% → FAIL
+[C] 规则崩溃   0
+CI: FAIL
+```
+
+**只跑 A 不跑 B，就是 v0.3.0 以 11% 精确率上架的原因。**
+
+---
+
+## 7. 商业决定
+
+**v0.4.0 不挂付费链接，不在落地页收款。**
+
+上一轮我自己写在产品页上的话是"会乱叫的 linter 没人用"。
+5.7% 精确率就是这个状态。客户拿自己代码一扫，
+看到一堆钉在无关行上的 blocker，招牌当场砸掉。
+
+**下一步不是加规则**，是把规则改写成作用域局部的（语句级），
+并把 `pro_clean` 那 6 条假阳性清零。**精确率不到 60% 不上架。**
+
+---
+
+## 8. 边界
+
+- 27 个文件是 129 抓的快照，**不是各框架全部代码**
+- 35 条标签是我一人判定，**无第二人复核**，存在系统性偏误风险
+- "TP/FP" 判的是**行**是否支撑断言；文件层面可能有更高精确率，**未测**
+- 阈值（60% 上架线）是我手定的，**无外部依据**
+
+---
+
+## 9. 自检
+
+渲染 → 写 `/dev/fb0`（ioctl 实测 1024×768×32bpp **RGBA**）→
+回采 **3,145,728 字节**（与写入同）→ OCR：
+
+**校验码 `K7M4QX` 命中，9/9 探针命中。**
+
+判据核 **+575~581**。

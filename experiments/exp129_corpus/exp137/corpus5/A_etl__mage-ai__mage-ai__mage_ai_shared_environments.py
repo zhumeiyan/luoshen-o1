@@ -1,1 +1,63 @@
-aW1wb3J0IG9zCmltcG9ydCBzeXMKCmZyb20gbWFnZV9haS5zaGFyZWQuY29uc3RhbnRzIGltcG9ydCAoCiAgICBFTlZfREVWLAogICAgRU5WX1BST0QsCiAgICBFTlZfU1RBR0lORywKICAgIEVOVl9URVNULAogICAgRU5WX1RFU1RfTUFHRSwKKQoKCmRlZiBpc19kZXVzX2V4X21hY2hpbmEoKToKICAgIHJldHVybiBpbnQob3MuZ2V0ZW52KCdERVVTX0VYX01BQ0hJTkEnLCAwKSBvciAwKSA9PSAxCgoKZGVmIGlzX2RlYnVnKCk6CiAgICByZXR1cm4gaW50KG9zLmdldGVudignREVCVUcnLCAwKSBvciAwKSA9PSAxCgoKZGVmIGlzX2RldigpOgogICAgcmV0dXJuIG9zLmdldGVudignRU5WJywgTm9uZSkgPT0gJ2Rldicgb3Igb3MuZ2V0ZW52KCdFTlYnLCBOb25lKSA9PSAnZGV2ZWxvcG1lbnQnCgoKZGVmIGlzX3Rlc3RfbWFnZSgpOgogICAgIiIiCiAgICBUaGUgInRlc3RfbWFnZSIgZW52aXJvbm1lbnQgaXMgdXNlZCBmb3IgcnVubmluZyB1bml0IHRlc3RzIGluIHRoZSBDSS9DRCBwaXBlbGluZS4KICAgIFdoZW4gcnVubmluZyB1bml0IHRlc3RzLCBhICJ0ZXN0LmRiIiBzcWxpdGUgZGF0YWJhc2UgaXMgdGVtcG9yYXJpbHkgY3JlYXRlZCBmb3IKICAgIHN0b3JpbmcgdGVzdCBtZXRhZGF0YS4gUmVmZXIgdG8gdGhlIG1hZ2VfYWkvb3JjaGVzdHJhdGlvbi9kYi9fX2luaXRfXy5weSBmaWxlIGZvcgogICAgaW1wbGVtZW50YXRpb24gZGV0YWlscy4gVGhlIHRlc3RfbWFnZSBlbnZpcm9ubWVudCBpcyBzZXBhcmF0ZSBmcm9tIHRoZSAidGVzdCIKICAgIGVudmlyb25tZW50IHNvIHRoYXQgTWFnZSdzIHVuaXQgdGVzdHMgZG9uJ3QgYWZmZWN0IGEgdXNlcidzIG93biB0ZXN0aW5nIG1ldGFkYXRhIGRiLgogICAgIiIiCiAgICByZXR1cm4gb3MuZ2V0ZW52KCdFTlYnLCBOb25lKSA9PSAndGVzdF9tYWdlJyBvciBhbnkoJ3VuaXR0ZXN0JyBpbiB2IGZvciB2IGluIHN5cy5hcmd2KQoKCmRlZiBpc190ZXN0KCk6CiAgICAiIiIKICAgIFRoZSAidGVzdCIgZW52aXJvbm1lbnQgaXMgdGhlIGRlZmF1bHQgZW52aXJvbm1lbnQgZm9yIHRlc3Rpbmcgd2hlcmUgdXNlcnMgbWF5IGhhdmUKICAgIHRoZWlyIG93biBzcGVjaWZpYyB0ZXN0cyB0aGF0IHRoZXkgd2FudCB0byBydW4gd2l0aCB0aGVpciBvd24gdGVzdCBtZXRhZGF0YSBkYiBhdCBhCiAgICBzcGVjaWZpYyBsb2NhdGlvbi4KICAgICIiIgogICAgcmV0dXJuIG9zLmdldGVudignRU5WJywgTm9uZSkgPT0gJ3Rlc3QnIG9yIGlzX3Rlc3RfbWFnZSgpCgoKZGVmIGlzX3Byb2R1Y3Rpb24oKToKICAgIHJldHVybiBvcy5nZXRlbnYoJ0VOVicsIE5vbmUpID09ICdwcm9kdWN0aW9uJyBvciBvcy5nZXRlbnYoJ0VOVicsIE5vbmUpID09ICdwcm9kJwoKCmRlZiBpc19zdGFnaW5nKCk6CiAgICByZXR1cm4gb3MuZ2V0ZW52KCdFTlYnLCBOb25lKSA9PSAnc3RhZ2luZycKCgpkZWYgZ2V0X2VudigpOgogICAgaWYgaXNfdGVzdF9tYWdlKCk6CiAgICAgICAgcmV0dXJuIEVOVl9URVNUX01BR0UKICAgIGVsaWYgaXNfdGVzdCgpOgogICAgICAgIHJldHVybiBFTlZfVEVTVAogICAgZWxpZiBpc19wcm9kdWN0aW9uKCk6CiAgICAgICAgcmV0dXJuIEVOVl9QUk9ECiAgICBlbGlmIGlzX3N0YWdpbmcoKToKICAgICAgICByZXR1cm4gRU5WX1NUQUdJTkcKICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIEVOVl9ERVYK
+import os
+import sys
+
+from mage_ai.shared.constants import (
+    ENV_DEV,
+    ENV_PROD,
+    ENV_STAGING,
+    ENV_TEST,
+    ENV_TEST_MAGE,
+)
+
+
+def is_deus_ex_machina():
+    return int(os.getenv('DEUS_EX_MACHINA', 0) or 0) == 1
+
+
+def is_debug():
+    return int(os.getenv('DEBUG', 0) or 0) == 1
+
+
+def is_dev():
+    return os.getenv('ENV', None) == 'dev' or os.getenv('ENV', None) == 'development'
+
+
+def is_test_mage():
+    """
+    The "test_mage" environment is used for running unit tests in the CI/CD pipeline.
+    When running unit tests, a "test.db" sqlite database is temporarily created for
+    storing test metadata. Refer to the mage_ai/orchestration/db/__init__.py file for
+    implementation details. The test_mage environment is separate from the "test"
+    environment so that Mage's unit tests don't affect a user's own testing metadata db.
+    """
+    return os.getenv('ENV', None) == 'test_mage' or any('unittest' in v for v in sys.argv)
+
+
+def is_test():
+    """
+    The "test" environment is the default environment for testing where users may have
+    their own specific tests that they want to run with their own test metadata db at a
+    specific location.
+    """
+    return os.getenv('ENV', None) == 'test' or is_test_mage()
+
+
+def is_production():
+    return os.getenv('ENV', None) == 'production' or os.getenv('ENV', None) == 'prod'
+
+
+def is_staging():
+    return os.getenv('ENV', None) == 'staging'
+
+
+def get_env():
+    if is_test_mage():
+        return ENV_TEST_MAGE
+    elif is_test():
+        return ENV_TEST
+    elif is_production():
+        return ENV_PROD
+    elif is_staging():
+        return ENV_STAGING
+    else:
+        return ENV_DEV

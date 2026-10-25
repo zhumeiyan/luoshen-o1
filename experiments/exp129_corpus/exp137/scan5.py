@@ -1,1 +1,80 @@
-IiIiZXhwMTM3OiBwZXItZG9tYWluIGRlbnNpdHkgc2NhbiBvZiB0aGUgU0hJUFBFRCBydWxlIHNldC4KClByZS1yZWdpc3RlcmVkIGluIFBSRVJFRy5tZCBiZWZvcmUgYW55IGRhdGEgd2FzIGZldGNoZWQuCkdhdGVzOiBkZW5zaXR5ID49IDUuMCAvMTAwS0IsIHN0cmljdCBwcmVjaXNpb24gPj0gNjAlLCBuID49IDUgd2l0aApXaWxzb24gbG93ZXIgYm91bmQgPj0gMC40NS4KIiIiCmltcG9ydCBzeXMsIGpzb24sIHBhdGhsaWIsIGNvbGxlY3Rpb25zCnN5cy5wYXRoLmluc2VydCgwLCAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvb3ZlcnNlYXMiKQpmcm9tIGV2YWxndWFyZCBpbXBvcnQgY2xpCmZyb20gZXZhbGd1YXJkLmNsaSBpbXBvcnQgc2Nhbgpmcm9tIGV2YWxndWFyZC5jbGFzc2VzIGltcG9ydCBzaGlwcGVkCgpjbGkuUFJPX09OWzBdID0gVHJ1ZQoKQ09SUCA9IHBhdGhsaWIuUGF0aCgiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9leHAxMzcvY29ycHVzNSIpCm1hbiA9IFtdCmZvciBtZiBpbiAoIm1hbmlmZXN0NS5qc29uIiwgIm1hbmlmZXN0NWIuanNvbiIpOgogICAgcCA9IHBhdGhsaWIuUGF0aCgiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTI5X2NvcnB1cy9leHAxMzciKS9tZgogICAgaWYgcC5leGlzdHMoKToKICAgICAgICBtYW4gKz0ganNvbi5sb2FkcyhwLnJlYWRfdGV4dCgpKQoKZG9tX29mID0ge30KZm9yIG0gaW4gbWFuOgogICAgZG9tX29mW21bImZpbGUiXV0gPSBtWyJkb21haW4iXQoKcmVzID0ge30KZm9yIGYgaW4gc29ydGVkKENPUlAuZ2xvYigiKi5weSIpKToKICAgIHRyeToKICAgICAgICByZXNbZi5uYW1lXSA9IHNjYW4oc3RyKGYpKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJlc1tmLm5hbWVdID0gW3siZWdfaWQiOiAiQ1JBU0giLCAic2V2ZXJpdHkiOiAiaW5mbyIsICJoaXRzIjogW3sibGluZSI6IDAsICJoaXQiOiBzdHIoZSl9XX1dCgpwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyOV9jb3JwdXMvZXhwMTM3L3NjYW41Lmpzb24iKS53cml0ZV90ZXh0KAogICAganNvbi5kdW1wcyhyZXMsIGluZGVudD0xKSkKCiMgLS0tLSBwZXItZG9tYWluIGFnZ3JlZ2F0aW9uLCBzaGlwcGVkIHJ1bGVzIG9ubHkgLS0tLQpieXQgPSBjb2xsZWN0aW9ucy5Db3VudGVyKCkKbmYgID0gY29sbGVjdGlvbnMuQ291bnRlcigpCmhpdHM9IGNvbGxlY3Rpb25zLkNvdW50ZXIoKQpmaWxlcz1jb2xsZWN0aW9ucy5Db3VudGVyKCkKcnVsZT0gY29sbGVjdGlvbnMuQ291bnRlcigpCmZpbmRpbmdzID0gW10KCmZvciBmLCBmcyBpbiByZXMuaXRlbXMoKToKICAgIGQgPSBkb21fb2YuZ2V0KGYpIG9yIGYuc3BsaXQoIl9fIilbMF0KICAgIGZpbGVzW2RdICs9IDEKICAgIGJ5dFtkXSArPSBDT1JQLmpvaW5wYXRoKGYpLnN0YXQoKS5zdF9zaXplCiAgICBuaCA9IDAKICAgIGZvciByIGluIGZzOgogICAgICAgIGVnID0gci5nZXQoImVnX2lkIiwgIj8iKQogICAgICAgIGlmIGVnID09ICJDUkFTSCI6CiAgICAgICAgICAgIHJ1bGVbIkNSQVNIIl0gKz0gMQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIG5vdCBzaGlwcGVkKGVnKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmb3IgaCBpbiByLmdldCgiaGl0cyIsIFtdKToKICAgICAgICAgICAgaGl0c1tkXSArPSAxCiAgICAgICAgICAgIHJ1bGVbZWddICs9IDEKICAgICAgICAgICAgbmggKz0gMQogICAgICAgICAgICBmaW5kaW5ncy5hcHBlbmQoZGljdChkb21haW49ZCwgZmlsZT1mLCBlZz1lZywgbGluZT1oLmdldCgibGluZSIsIDApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaXQ9aC5nZXQoImhpdCIsICIiKSkpCiAgICBpZiBuaDogbmZbZF0gKz0gMQoKcHJpbnQoZiJ7J2RvbWFpbic6PDEyfXsnZmlsZXMnOj42fXsnS0InOj44fXsnaGl0cyc6PjZ9eydwZXIxMDBLQic6PjEwfXsnc2lsZW50Jzo+MTB9IikKcHJpbnQoIi0iKjU0KQpyb3dzPVtdCmZvciBkIGluIHNvcnRlZChmaWxlcyk6CiAgICBrYiA9IGJ5dFtkXS8xMDAwLjAKICAgIHJhdGUgPSBoaXRzW2RdLyhrYi8xMDAuMCkgaWYga2IgZWxzZSAwLjAKICAgIHNpbGVudCA9IGYie2ZpbGVzW2RdLW5mW2RdfS97ZmlsZXNbZF19IgogICAgcHJpbnQoZiJ7ZDo8MTJ9e2ZpbGVzW2RdOj42fXtrYjo+OC4xZn17aGl0c1tkXTo+Nn17cmF0ZTo+MTAuMmZ9e3NpbGVudDo+MTB9IikKICAgIHJvd3MuYXBwZW5kKGRpY3QoZG9tYWluPWQsIGZpbGVzPWZpbGVzW2RdLCBrYj1yb3VuZChrYiwxKSwgaGl0cz1oaXRzW2RdLAogICAgICAgICAgICAgICAgICAgICBwZXIxMDBrYj1yb3VuZChyYXRlLDMpLCBzaWxlbnQ9c2lsZW50KSkKcHJpbnQoIi0iKjU0KQpwcmludCgic2hpcHBlZCBydWxlIGhpdCBjb3VudHM6IiwgcnVsZS5tb3N0X2NvbW1vbigpKQpwcmludCgidG90YWwgc2hpcHBlZCBmaW5kaW5nczoiLCBsZW4oZmluZGluZ3MpKQpwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEyOV9jb3JwdXMvZXhwMTM3L2RlbnNpdHkuanNvbiIpLndyaXRlX3RleHQoCiAgICBqc29uLmR1bXBzKHJvd3MsIGluZGVudD0xKSkKcGF0aGxpYi5QYXRoKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjlfY29ycHVzL2V4cDEzNy9maW5kaW5ncy5qc29uIikud3JpdGVfdGV4dCgKICAgIGpzb24uZHVtcHMoZmluZGluZ3MsIGluZGVudD0xKSkK
+"""exp137: per-domain density scan of the SHIPPED rule set.
+
+Pre-registered in PREREG.md before any data was fetched.
+Gates: density >= 5.0 /100KB, strict precision >= 60%, n >= 5 with
+Wilson lower bound >= 0.45.
+"""
+import sys, json, pathlib, collections
+sys.path.insert(0, "/data/workspace/luoshen-o1/overseas")
+from evalguard import cli
+from evalguard.cli import scan
+from evalguard.classes import shipped
+
+cli.PRO_ON[0] = True
+
+CORP = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137/corpus5")
+man = []
+for mf in ("manifest5.json", "manifest5b.json"):
+    p = pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137")/mf
+    if p.exists():
+        man += json.loads(p.read_text())
+
+dom_of = {}
+for m in man:
+    dom_of[m["file"]] = m["domain"]
+
+res = {}
+for f in sorted(CORP.glob("*.py")):
+    try:
+        res[f.name] = scan(str(f))
+    except Exception as e:
+        res[f.name] = [{"eg_id": "CRASH", "severity": "info", "hits": [{"line": 0, "hit": str(e)}]}]
+
+pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137/scan5.json").write_text(
+    json.dumps(res, indent=1))
+
+# ---- per-domain aggregation, shipped rules only ----
+byt = collections.Counter()
+nf  = collections.Counter()
+hits= collections.Counter()
+files=collections.Counter()
+rule= collections.Counter()
+findings = []
+
+for f, fs in res.items():
+    d = dom_of.get(f) or f.split("__")[0]
+    files[d] += 1
+    byt[d] += CORP.joinpath(f).stat().st_size
+    nh = 0
+    for r in fs:
+        eg = r.get("eg_id", "?")
+        if eg == "CRASH":
+            rule["CRASH"] += 1
+            continue
+        if not shipped(eg):
+            continue
+        for h in r.get("hits", []):
+            hits[d] += 1
+            rule[eg] += 1
+            nh += 1
+            findings.append(dict(domain=d, file=f, eg=eg, line=h.get("line", 0),
+                                 hit=h.get("hit", "")))
+    if nh: nf[d] += 1
+
+print(f"{'domain':<12}{'files':>6}{'KB':>8}{'hits':>6}{'per100KB':>10}{'silent':>10}")
+print("-"*54)
+rows=[]
+for d in sorted(files):
+    kb = byt[d]/1000.0
+    rate = hits[d]/(kb/100.0) if kb else 0.0
+    silent = f"{files[d]-nf[d]}/{files[d]}"
+    print(f"{d:<12}{files[d]:>6}{kb:>8.1f}{hits[d]:>6}{rate:>10.2f}{silent:>10}")
+    rows.append(dict(domain=d, files=files[d], kb=round(kb,1), hits=hits[d],
+                     per100kb=round(rate,3), silent=silent))
+print("-"*54)
+print("shipped rule hit counts:", rule.most_common())
+print("total shipped findings:", len(findings))
+pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137/density.json").write_text(
+    json.dumps(rows, indent=1))
+pathlib.Path("/data/workspace/luoshen-o1/experiments/exp129_corpus/exp137/findings.json").write_text(
+    json.dumps(findings, indent=1))

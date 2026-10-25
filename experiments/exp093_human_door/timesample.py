@@ -1,1 +1,23 @@
-aW1wb3J0IHN1YnByb2Nlc3MsIGpzb24sIHRpbWUsIGRhdGV0aW1lClVBPSJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiBDaHJvbWUvMTMxLjAuMC4wIFNhZmFyaS81MzcuMzYiClQ9WyJodHRwczovL21haWwucXEuY29tIiwiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS96ZW4iLCJodHRwczovL2dpdGh1Yi5jb20vS0xhbWVuZy9UQUNULVRocmVlLUF4aXMtQ2hlY2siLAogICAiaHR0cHM6Ly9jYXB0Y2hhLmd0aW1nLmNvbS9zdGF0aWMvdGVtcGxhdGUvZHJhZ19lbGUuY2I3ZTU3ZTUuaHRtbCIsImh0dHBzOi8vY2FwdGNoYS5xcS5jb20vVENhcHRjaGEuanMiLAogICAiaHR0cHM6Ly9naXRlZS5jb20vZHJvbWFyYS9lYXN5QWkiLCJodHRwczovL2ltLnFxLmNvbS9pbmRleC8jL2xpbnV4IiwiaHR0cHM6Ly93d3cub3NjaGluYS5uZXQiLAogICAiaHR0cHM6Ly93d3cuYmFpZHUuY29tIiwiaHR0cHM6Ly93d3cucXEuY29tIl0KcmVzPXt0OltdIGZvciB0IGluIFR9CmZvciBrIGluIHJhbmdlKDYpOgogICAgdHM9ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuc3RyZnRpbWUoIiVIOiVNOiVTIikKICAgIHJvdz17fQogICAgZm9yIHUgaW4gVDoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHI9c3VicHJvY2Vzcy5ydW4oWyJjdXJsIiwiLXMiLCItbyIsIi9kZXYvbnVsbCIsIi13IiwiJXtodHRwX2NvZGV9IiwiLW0iLCIxMCIsIi1BIixVQSx1XSxjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSkKICAgICAgICAgICAgYz1pbnQoci5zdGRvdXQuc3RyaXAoKSkgaWYgci5zdGRvdXQuc3RyaXAoKS5pc2RpZ2l0KCkgZWxzZSAwCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogYz0wCiAgICAgICAgcmVzW3VdLmFwcGVuZChjKTsgcm93W3VdPWMKICAgIHByaW50KGYiW3trfV0ge3RzfSB7W3Jvd1t0XSBmb3IgdCBpbiBUXX0iLCBmbHVzaD1UcnVlKQogICAgaWYgazw1OiB0aW1lLnNsZWVwKDI1KQpqc29uLmR1bXAocmVzLG9wZW4oInRpbWVzYW1wbGUuanNvbiIsInciKSxpbmRlbnQ9MSkKcHJpbnQoIj09PSDnqLPlrprmgKcgPT09IikKZm9yIHUsdiBpbiByZXMuaXRlbXMoKToKICAgIGZsaXBzPXN1bSgxIGZvciBpIGluIHJhbmdlKDEsbGVuKHYpKSBpZiAodltpXT09MjAwKSE9KHZbaS0xXT09MjAwKSkKICAgIHByaW50KGYiICB7dVs6NTJdOjU0c30ge3Z9IOW8gOeOhz17c3VtKDEgZm9yIHggaW4gdiBpZiB4PT0yMDApfS97bGVuKHYpfSDnv7vovaw9e2ZsaXBzfSIpCg==
+import subprocess, json, time, datetime
+UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36"
+T=["https://mail.qq.com","https://api.github.com/zen","https://github.com/KLameng/TACT-Three-Axis-Check",
+   "https://captcha.gtimg.com/static/template/drag_ele.cb7e57e5.html","https://captcha.qq.com/TCaptcha.js",
+   "https://gitee.com/dromara/easyAi","https://im.qq.com/index/#/linux","https://www.oschina.net",
+   "https://www.baidu.com","https://www.qq.com"]
+res={t:[] for t in T}
+for k in range(6):
+    ts=datetime.datetime.now().strftime("%H:%M:%S")
+    row={}
+    for u in T:
+        try:
+            r=subprocess.run(["curl","-s","-o","/dev/null","-w","%{http_code}","-m","10","-A",UA,u],capture_output=True,text=True)
+            c=int(r.stdout.strip()) if r.stdout.strip().isdigit() else 0
+        except Exception: c=0
+        res[u].append(c); row[u]=c
+    print(f"[{k}] {ts} {[row[t] for t in T]}", flush=True)
+    if k<5: time.sleep(25)
+json.dump(res,open("timesample.json","w"),indent=1)
+print("=== 稳定性 ===")
+for u,v in res.items():
+    flips=sum(1 for i in range(1,len(v)) if (v[i]==200)!=(v[i-1]==200))
+    print(f"  {u[:52]:54s} {v} 开率={sum(1 for x in v if x==200)}/{len(v)} 翻转={flips}")

@@ -1,1 +1,18 @@
-ewogICJjYXNlIjogIjE057u06IO95Yqb5a6h6K6h6aaW5qyh6LeR5Ye6IDQyLzQyIOKAlOKAlCDov5nmmK/nnJ/nmoTlkJciLAogICJjaGFubmVsX2EiOiB7ImxhYmVsIjogIuaOkumZpOWuoeiuoeWZqOiHqui6q+WQjueahOecn+WunuWRveS4rSIsICJ2YWx1ZSI6IDM4LCAidW5pdCI6ICLpobkvNDIifSwKICAiY2hhbm5lbF9iIjogeyJsYWJlbCI6ICLmnKrmjpLpmaToh6rouqvml7bot5Hlh7rnmoTlkb3kuK0iLCAidmFsdWUiOiA0MiwgInVuaXQiOiAi6aG5LzQyIn0sCiAgInRvbGVyYW5jZSI6IDAsCiAgInBhcmFtcyI6IFsKICAgIHsibmFtZSI6ICLkuIrkuIvmlofljovnvKkv6KOB5YmqIOWRveS4rSAxIOS4qiA9IGNhcGFiaWxpdHlfYXVkaXQucHkg6Ieq5bexIiwgInNyYyI6ICLlrqHorqHovpPlh7oifSwKICAgIHsibmFtZSI6ICJjaGVja3BvaW50IOS7o+eggSDlkb3kuK0gMSDkuKogPSBjYXBhYmlsaXR5X2F1ZGl0LnB5IOiHquW3sSIsICJzcmMiOiAi5a6h6K6h6L6T5Ye6In0sCiAgICB7Im5hbWUiOiAicnVuX2lkIOi/vei4qiDlkb3kuK0gMSDkuKogPSBjYXBhYmlsaXR5X2F1ZGl0LnB5IOiHquW3sSIsICJzcmMiOiAi5a6h6K6h6L6T5Ye6In0sCiAgICB7Im5hbWUiOiAibWNw5Y2P6K6u5a6e546wIOWRveS4reaVsCDmnaXoh6ogY2FwYWJpbGl0eV9hdWRpdC5weSDoh6rlt7EiLCAic3JjIjogIuWuoeiuoei+k+WHuiJ9CiAgXSwKICAiYWJsYXRpb25faW5zaWRlX21vZGVsX29ubHkiOiB0cnVlLAogICJyYW5fcmVhbF9zeXN0ZW0iOiB0cnVlLAogICJkZWNsYXJlZF91bmtub3ducyI6IFsKICAgICI0Mi80MiDmmK/jgJDmnoTku7blkb3kuK3jgJHvvIzkuI3nrYnkuo7jgJDog73lipvovr7moIfjgJHigJTigJTljY/orq7lrp7njrDkuobkuI3ku6Pooajot5Hov4fnnJ/lrqLmiLfnq68iLAogICAgIuWOi+e8qeeOhyA3My4xJSDmmK/lnKjmnoTpgKDmoLfmnKzkuIrot5HnmoTvvIzmnKrlnKjnnJ/lrp7plb/lr7nor53kuIrpqozor4HotKjph4/kuI3pmY0iCiAgXQp9Cg==
+{
+  "case": "14维能力审计首次跑出 42/42 —— 这是真的吗",
+  "channel_a": {"label": "排除审计器自身后的真实命中", "value": 38, "unit": "项/42"},
+  "channel_b": {"label": "未排除自身时跑出的命中", "value": 42, "unit": "项/42"},
+  "tolerance": 0,
+  "params": [
+    {"name": "上下文压缩/裁剪 命中 1 个 = capability_audit.py 自己", "src": "审计输出"},
+    {"name": "checkpoint 代码 命中 1 个 = capability_audit.py 自己", "src": "审计输出"},
+    {"name": "run_id 追踪 命中 1 个 = capability_audit.py 自己", "src": "审计输出"},
+    {"name": "mcp协议实现 命中数 来自 capability_audit.py 自己", "src": "审计输出"}
+  ],
+  "ablation_inside_model_only": true,
+  "ran_real_system": true,
+  "declared_unknowns": [
+    "42/42 是【构件命中】，不等于【能力达标】——协议实现了不代表跑过真客户端",
+    "压缩率 73.1% 是在构造样本上跑的，未在真实长对话上验证质量不降"
+  ]
+}

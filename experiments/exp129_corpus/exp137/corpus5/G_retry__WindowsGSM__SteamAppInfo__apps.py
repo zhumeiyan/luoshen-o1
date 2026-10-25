@@ -1,1 +1,35 @@
-aW1wb3J0IGpzb24KCmltcG9ydCByZXF1ZXN0cwpmcm9tIHN0ZWFtLmNsaWVudCBpbXBvcnQgU3RlYW1DbGllbnQKCgpkZWYgbWFpbigpOgogICAgIiIiR2VuZXJhdGUgYXBwcy5qc29uIiIiCiAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCgnaHR0cHM6Ly9hcGkuc3RlYW1wb3dlcmVkLmNvbS9JU3RlYW1BcHBzL0dldEFwcExpc3QvdjIvJykKICAgIGFwcHMgPSByZXNwb25zZS5qc29uKClbJ2FwcGxpc3QnXVsnYXBwcyddCgogICAgIyBmaWx0ZXIgdGhlIGFwcCBkb2Vzbid0IGNvbnRhaW5zICJzZXJ2ZXIiIG9yICJTZXJ2ZXIiCiAgICBhcHBzID0gbGlzdChmaWx0ZXIobGFtYmRhIGFwcDogJ3NlcnZlcicgaW4gc3RyKGFwcFsnbmFtZSddKS5sb3dlcigpLCBhcHBzKSkKCiAgICAjIGFkZCB0aGUgYXBwcyBkb2Vzbid0IGluIHRoZSBsaXN0CiAgICBhcHBzLmFwcGVuZCh7J2FwcGlkJzogMjMyMjkwLCAnbmFtZSc6ICdEYXkgb2YgRGVmZWF0OiBTb3VyY2UgRGVkaWNhdGVkIFNlcnZlcid9KQoKICAgICMgc2V0IHVwIFN0ZWFtQ2xpZW50IGFuZCBnZXQgcHJvZHVjdCBpbmZvCiAgICBjbGllbnQgPSBTdGVhbUNsaWVudCgpCiAgICBjbGllbnQuYW5vbnltb3VzX2xvZ2luKCkKICAgIGFwcF9pZHMgPSBsaXN0KG1hcChsYW1iZGEgYXBwOiBhcHBbJ2FwcGlkJ10sIGFwcHMpKQogICAgaW5mb3MgPSBjbGllbnQuZ2V0X3Byb2R1Y3RfaW5mbyhhcHBfaWRzKVsnYXBwcyddCgogICAgIyBmaWx0ZXIgdGhlIGFwcHMgd2hvc2UgZG9uJ3QgY29udGFpbnMgImJyYW5jaGVzIgogICAgYXBwcyA9IGxpc3QoZmlsdGVyKGxhbWJkYSBhcHA6ICdkZXBvdHMnIGluIGluZm9zW2FwcFsnYXBwaWQnXV0gYW5kICdicmFuY2hlcycgaW4gaW5mb3NbYXBwWydhcHBpZCddXVsnZGVwb3RzJ10sIGFwcHMpKQoKICAgICMgc29ydCB0aGUgbGlzdCBieSBhcHAgaWQKICAgIGFwcHMgPSBzb3J0ZWQoYXBwcywga2V5PWxhbWJkYSB4OiB4WydhcHBpZCddKQoKICAgIHdpdGggb3BlbignYXBwcy5qc29uJywgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmcDoKICAgICAgICBqc29uLmR1bXAoYXBwcywgZnAsIGluZGVudD00LCBlbnN1cmVfYXNjaWk9RmFsc2UpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+import json
+
+import requests
+from steam.client import SteamClient
+
+
+def main():
+    """Generate apps.json"""
+    response = requests.get('https://api.steampowered.com/ISteamApps/GetAppList/v2/')
+    apps = response.json()['applist']['apps']
+
+    # filter the app doesn't contains "server" or "Server"
+    apps = list(filter(lambda app: 'server' in str(app['name']).lower(), apps))
+
+    # add the apps doesn't in the list
+    apps.append({'appid': 232290, 'name': 'Day of Defeat: Source Dedicated Server'})
+
+    # set up SteamClient and get product info
+    client = SteamClient()
+    client.anonymous_login()
+    app_ids = list(map(lambda app: app['appid'], apps))
+    infos = client.get_product_info(app_ids)['apps']
+
+    # filter the apps whose don't contains "branches"
+    apps = list(filter(lambda app: 'depots' in infos[app['appid']] and 'branches' in infos[app['appid']]['depots'], apps))
+
+    # sort the list by app id
+    apps = sorted(apps, key=lambda x: x['appid'])
+
+    with open('apps.json', 'w', encoding='utf-8') as fp:
+        json.dump(apps, fp, indent=4, ensure_ascii=False)
+
+
+if __name__ == "__main__":
+    main()

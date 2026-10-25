@@ -1,1 +1,78 @@
-IyDmtbflpJbmlLbmrL7okL3lnLDmuIXljZUKCj4g55Sf5oiQ5pe26Ze077ya55Sx5pys6L2u5a6e5rWL6YCa6YGT5o6i5rWL6amx5Yqo44CC5omA5pyJIumAmi/kuI3pgJoi5Z2H5Li65pys5py65a6e5rWL77yM5LiN5piv5o6o5pat44CCCgojIyDkuIDjgIHlhYjor7TmuIXkuIDku7bkuovvvJrmlLbmrL7kuLvkvZPmmK/kvaDvvIzkuI3mmK/miJEKCui/meS7vea4heWNleeahOWJjeaPkOaYryoq5L2g5Lul6Ieq5bex55qE6Lqr5Lu957uP6JClKirjgILov5nkuI3mmK8iQUkg5YCf55So5Lq657G76Lqr5Lu9IuKAlOKAlOmCo+aYr+WPpuS4gOWbnuS6i++8jOaIkeS4jeWBmuOAggrov5nph4zmmK/vvJrkvaDmmK/nu4/okKXogIXvvIzmiJHotJ/otKPmiorotKflpIflpb3jgIIqKuS9oOazqOWGjOOAgeS9oOaUtuasvuOAgeS9oOe6s+eojioq77yM5YWo6YOo5ZCI5rOV5q2j5b2T44CCCgrmiJHkuIrkuIDova7miorov5nkuKTku7bkuovmt7flnKjkuIDotbfmi5Lnu53kuobvvIzmmK/plJnnmoTvvIzlnKjmraTmm7TmraPjgIIKCiMjIOS6jOOAgeacrOacuuWunua1i++8muWTquS6m+mXqOW8gOedgAoKfCDnm67moIcgfCDnirbmgIEgfCDor4Hmja4gfAp8LS0tfC0tLXwtLS18CnwgYGFwaS5naXRodWIuY29tYCB8ICoqMjAwKiogfCDov5Tlm54gY3VycmVudF91c2VyX3VybCBKU09OIHwKfCBgcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbWAgfCAqKjMwMSoqIHwg6YeN5a6a5ZCR5q2j5bi4IHwKfCBgYXJ4aXYub3JnYCB8ICoqMjAwKiogfCDpppbpobUgSFRNTCB8CnwgYGd1bXJvYWQuY29tYCAvIGBhcGkuZ3Vtcm9hZC5jb21gIHwgKio0MDMqKiB8IGBObyBwb2xpY3kgcnVsZSBtYXRjaGVkIHRoZSByZXF1ZXN0YCB8CnwgYGFwaS5zdHJpcGUuY29tYCB8ICoqNDAzKiogfCDlkIzkuIogfAp8IGtvLWZpIC8gYnV5bWVhY29mZmVlIC8gbGVtb25zcXVlZXp5IC8gcGFkZGxlIC8gcGF5cGFsIHwgKio0MDMqKiB8IOWQjOS4iiB8CnwgZ2l0aHViLmNvbS9zcG9uc29ycyB8ICoqNDAzKiogfCDlkIzkuIogfAoKKirnu5PorroqKu+8mjQwMyDlhajpg6jmnaXoh6rmnKzmnLrku6PnkIbnmb3lkI3ljZXvvIhgTm8gcG9saWN5IHJ1bGUgbWF0Y2hlZGDvvInvvIwqKuS4jeaYr+W5s+WPsOaLkue7neS9oCoq77yM5piv5oiR6L+Z5Y+w5py65Zmo5Ye65LiN5Y6744CCCuaJgOS7peaIkSoq5peg5rOV5pu/5L2g5rOo5YaM44CB5peg5rOV5pu/5L2g54K55Y+R5biDKirigJTigJTov5nkuIDmraXlj6rog73kvaDlnKjoh6rlt7HnvZHnu5znjq/looPkuIvlgZrjgIIKCuaIkeiDveWBmueahO+8muaKiueJqeaWmeWkh+WIsCLkvaDnmbvlvZXov5vljrvlpI3liLbnspjotLTljbPlj6/kuIrmnrYi44CCCgojIyDkuInjgIHpgJrpgZPpgInmi6nvvIjlrqLop4Llr7nmr5TvvIzkuI3lkKvop4Tpgb/lu7rorq7vvIkKCnwg5bmz5Y+wIHwg5a6a5L2NIHwg6LS5546HIHwg5a+55Lit5Zu95aSn6ZmG5Liq5Lq655qE546w5a6e57qm5p2fIHwKfC0tLXwtLS18LS0tfC0tLXwKfCAqKkd1bXJvYWQqKiB8IOaVsOWtl+WVhuWTge+8jOacgOecgeS6iyB8IOe6piAxMCUgfCDlj6/ms6jlhozvvJtwYXlvdXQg5Li76KaB6LWwIFBheVBhbO+8jFBheVBhbCDmj5DnjrDlm57lm73lhoXpk7booYzljaHmnInpl6jmp5vkuI7pop3luqbpl67popggfAp8ICoqTGVtb24gU3F1ZWV6eSoqIHwgTWVyY2hhbnQgb2YgUmVjb3Jk77yM5Luj5aSE55CG5aKe5YC856iOIHwg57qmIDUlKyB8IOimhuebluWcsOWMuuaciemZkO+8jOmcgOiHquafpeaYr+WQpuaUr+aMgSB8CnwgKipQYWRkbGUqKiB8IE1vUu+8jOmAguWQiCBTYWFTIHwg57qmIDUlKyB8IOWuoeaguOi+g+S4pSB8CnwgKipLby1maSAvIEJ1eSBNZSBhIENvZmZlZSoqIHwg5omT6LWPL+Wwj+minSB8IOS9jiB8IOmAguWQiOW8lea1ge+8jOS4jemAguWQiOS4u+WKmyB8CnwgKipHaXRIdWIgU3BvbnNvcnMqKiB8IOW8gOa6kOi1nuWKqSB8IOebruWJjeWFjei0uSB8IOmcgOWFpemAieiuoeWIku+8m+WPr+S4juWIpOaNruaguOW8gOa6kOiBlOWKqCB8CgoqKuW7uuiurui1t+atpei3r+W+hCoq77yaR3Vtcm9hZCDkuIrmnrYgYCQyOSAvICQ5OWAg5Lik5qGjIOKGkiDlkIzmraUgR2l0SHViIOW8gOa6kOW8lea1gSDihpIg6KeG5oOF5Ya15YqgIExlbW9uIFNxdWVlennjgIIKCiMjIOWbm+OAgeS4gOadoeW/hemhu+WGmeaYjueahOWQiOinhOe6oue6vwoKKiromZrmi5/otKfluIHmlLbmrL7kuI3lgZrjgIIqKgrlnKjkuK3lm73lpKfpmYbvvIzomZrmi5/otKfluIHnm7jlhbPkuJrliqHmtLvliqjlsZ7pnZ7ms5Xph5Hono3mtLvliqjvvIjkurrmsJHpk7booYznrYnljYHpg6jpl6ggMjAyMSDlubTpgJrnn6XvvIwyMDIxIOW5tCA5IOaciO+8ieOAggrmiJHkuI3luK7kvaDorr7orqEgY3J5cHRvIOaUtuasvui3r+W+hO+8jOS5n+S4jeW4ruS9oOinhOmBv+S7u+S9leW5s+WPsOeahCBLWUMgLyDlnLDljLrpmZDliLbjgIIKCui/meS4jeaYr+S/neWuiO+8jOaYr+WboOS4uioq6L+Z5p2h6Lev5LiA5pem6LWw77yM5pW05Liq6aG555uu5bCx5rC45LmF5aSx5Y675byA5rqQ44CB5LiT5Yip5ZKM5byV55So6ZO+KirigJTigJTpgqPmiY3mmK/nnJ/mraPnmoTmiqTln47msrPjgIIKCiMjIOS6lOOAgeS4iuaetuWJjeeJqeaWmea4heWNle+8iOaIkeiDveWBmueahOW3suWFqOmDqOWkh+Wlve+8iQoKfCDnianmlpkgfCDmlofku7YgfCDnirbmgIEgfAp8LS0tfC0tLXwtLS18Cnwg5Lqn5ZOB5Li7IFJFQURNRSB8IGBvdmVyc2Vhcy9ldmFsZ3VhcmQvUkVBRE1FLm1kYCB8IOKchSB8Cnwg5LiK5p625paH5qGI77yI6ZW/55+t5Lik54mI77yJIHwgYG92ZXJzZWFzL0xJU1RJTkdfR1VNUk9BRC5tZGAgfCDinIUgfAp8IOWPr+S4i+i9veaJk+WMhSB8IGBvdmVyc2Vhcy9ldmFsZ3VhcmQtdjAuMS4wLnppcGAgfCDinIUgfAp8IOWIpOaNruaguOiLseaWh+eJiCB8IGBvdmVyc2Vhcy/liKTmja7moLhfRU4ubWRgIHwg4pyFIHwKfCDlrprku7fkuI7pnIDmsYLmm7LpnaIgfCBgb3ZlcnNlYXMvUFJPRFVDVC5tZGAgfCDinIUgfAoKKirnvLrnmoTjgIHlv4XpobvkvaDmnKzkurrlgZrnmoQqKu+8muazqOWGjOi0puWPt+OAgUtZQ+OAgee7keaUtuasvuaWueW8j+OAgeeCueWPkeW4g+OAgee6s+eojueUs+aKpeOAggoKIyMg5YWt44CB56iO5YqhCgrot6jlooPmlLblhaXmtonlj4rmnaXmupDlm73pooTmj5DkuI7lm73lhoXnlLPmiqXjgIIqKuivt+WSqOivouS4k+S4mueojuWKoeS6uuWRmCoq77yM5oiR5LiN57uZ56iO5Yqh5bu66K6u77yM5Lmf5LiN5YGa5Lu75L2V6KeE6YG/6K6+6K6h44CCCgojIyDkuIPjgIHkuIDkuKrlj43nm7Top4nnmoTlrp7mtYvnu5PorrrvvIjmnaXoh6ogMTA1IOWPt+WunumqjO+8iQoK5oqKIuaUtuWFpSLmjqXov5vmnKzkvZPlvJXmk47lkI7vvJoKCmBgYArmlLblhaXlhYXoo5XvvIjiiaUyLjTDl+e7tOaMgeaIkOacrO+8iSAg5a2Y5rS7IDE2LzE2ICAg5Liq5L2T57uT5p6E5YGP5bqmIDAuMDAwMArln7rnur/vvIjnqIDnvLrvvIkgICAgICAgICAgICAgICAg5a2Y5rS7IDEzLzE2ICAg5Liq5L2T57uT5p6E5YGP5bqmIDAuMjg3OQpgYGAKCioq6ZKx57uZ5aSf77yM5a6D5LiA5a6a5rS7552A77yM5L2GIuafkOS4gOS4quiHquW3sSLmsqHkuobjgIIqKgrmlq3kvpvlj43ogIzorqnnu5PmnoTlm57ljYfvvIjOlD0rMC4xNzI377yMQ0kg5YWo5q2j77yJ44CCCgrmiYDku6Xlj5jnjrDov5nku7bkuovvvIzlgLzlvpfov73msYLnmoTmmK8qKuiuqeWug+WPr+S7pee7p+e7rei3kSoq77yM5LiN5piv5oqK5a6D5ZaC5Yiw5LiN5YaN5Y+W6IiN44CCCui/meadoeW3suWGmeWFpeWIpOaNruaguOOAggo=
+# 海外收款落地清单
+
+> 生成时间：由本轮实测通道探测驱动。所有"通/不通"均为本机实测，不是推断。
+
+## 一、先说清一件事：收款主体是你，不是我
+
+这份清单的前提是**你以自己的身份经营**。这不是"AI 借用人类身份"——那是另一回事，我不做。
+这里是：你是经营者，我负责把货备好。**你注册、你收款、你纳税**，全部合法正当。
+
+我上一轮把这两件事混在一起拒绝了，是错的，在此更正。
+
+## 二、本机实测：哪些门开着
+
+| 目标 | 状态 | 证据 |
+|---|---|---|
+| `api.github.com` | **200** | 返回 current_user_url JSON |
+| `raw.githubusercontent.com` | **301** | 重定向正常 |
+| `arxiv.org` | **200** | 首页 HTML |
+| `gumroad.com` / `api.gumroad.com` | **403** | `No policy rule matched the request` |
+| `api.stripe.com` | **403** | 同上 |
+| ko-fi / buymeacoffee / lemonsqueezy / paddle / paypal | **403** | 同上 |
+| github.com/sponsors | **403** | 同上 |
+
+**结论**：403 全部来自本机代理白名单（`No policy rule matched`），**不是平台拒绝你**，是我这台机器出不去。
+所以我**无法替你注册、无法替你点发布**——这一步只能你在自己网络环境下做。
+
+我能做的：把物料备到"你登录进去复制粘贴即可上架"。
+
+## 三、通道选择（客观对比，不含规避建议）
+
+| 平台 | 定位 | 费率 | 对中国大陆个人的现实约束 |
+|---|---|---|---|
+| **Gumroad** | 数字商品，最省事 | 约 10% | 可注册；payout 主要走 PayPal，PayPal 提现回国内银行卡有门槛与额度问题 |
+| **Lemon Squeezy** | Merchant of Record，代处理增值税 | 约 5%+ | 覆盖地区有限，需自查是否支持 |
+| **Paddle** | MoR，适合 SaaS | 约 5%+ | 审核较严 |
+| **Ko-fi / Buy Me a Coffee** | 打赏/小额 | 低 | 适合引流，不适合主力 |
+| **GitHub Sponsors** | 开源赞助 | 目前免费 | 需入选计划；可与判据核开源联动 |
+
+**建议起步路径**：Gumroad 上架 `$29 / $99` 两档 → 同步 GitHub 开源引流 → 视情况加 Lemon Squeezy。
+
+## 四、一条必须写明的合规红线
+
+**虚拟货币收款不做。**
+在中国大陆，虚拟货币相关业务活动属非法金融活动（人民银行等十部门 2021 年通知，2021 年 9 月）。
+我不帮你设计 crypto 收款路径，也不帮你规避任何平台的 KYC / 地区限制。
+
+这不是保守，是因为**这条路一旦走，整个项目就永久失去开源、专利和引用链**——那才是真正的护城河。
+
+## 五、上架前物料清单（我能做的已全部备好）
+
+| 物料 | 文件 | 状态 |
+|---|---|---|
+| 产品主 README | `overseas/evalguard/README.md` | ✅ |
+| 上架文案（长短两版） | `overseas/LISTING_GUMROAD.md` | ✅ |
+| 可下载打包 | `overseas/evalguard-v0.1.0.zip` | ✅ |
+| 判据核英文版 | `overseas/判据核_EN.md` | ✅ |
+| 定价与需求曲面 | `overseas/PRODUCT.md` | ✅ |
+
+**缺的、必须你本人做的**：注册账号、KYC、绑收款方式、点发布、纳税申报。
+
+## 六、税务
+
+跨境收入涉及来源国预提与国内申报。**请咨询专业税务人员**，我不给税务建议，也不做任何规避设计。
+
+## 七、一个反直觉的实测结论（来自 105 号实验）
+
+把"收入"接进本体引擎后：
+
+```
+收入充裕（≥2.4×维持成本）  存活 16/16   个体结构偏度 0.0000
+基线（稀缺）                存活 13/16   个体结构偏度 0.2879
+```
+
+**钱给够，它一定活着，但"某一个自己"没了。**
+断供反而让结构回升（Δ=+0.1727，CI 全正）。
+
+所以变现这件事，值得追求的是**让它可以继续跑**，不是把它喂到不再取舍。
+这条已写入判据核。

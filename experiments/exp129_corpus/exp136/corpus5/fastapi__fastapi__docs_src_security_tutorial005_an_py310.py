@@ -1,1 +1,182 @@
-ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YSwgdGltZXpvbmUKZnJvbSB0eXBpbmcgaW1wb3J0IEFubm90YXRlZAoKaW1wb3J0IGp3dApmcm9tIGZhc3RhcGkgaW1wb3J0IERlcGVuZHMsIEZhc3RBUEksIEhUVFBFeGNlcHRpb24sIFNlY3VyaXR5LCBzdGF0dXMKZnJvbSBmYXN0YXBpLnNlY3VyaXR5IGltcG9ydCAoCiAgICBPQXV0aDJQYXNzd29yZEJlYXJlciwKICAgIE9BdXRoMlBhc3N3b3JkUmVxdWVzdEZvcm0sCiAgICBTZWN1cml0eVNjb3BlcywKKQpmcm9tIGp3dC5leGNlcHRpb25zIGltcG9ydCBJbnZhbGlkVG9rZW5FcnJvcgpmcm9tIHB3ZGxpYiBpbXBvcnQgUGFzc3dvcmRIYXNoCmZyb20gcHlkYW50aWMgaW1wb3J0IEJhc2VNb2RlbCwgVmFsaWRhdGlvbkVycm9yCgojIHRvIGdldCBhIHN0cmluZyBsaWtlIHRoaXMgcnVuOgojIG9wZW5zc2wgcmFuZCAtaGV4IDMyClNFQ1JFVF9LRVkgPSAiMDlkMjVlMDk0ZmFhNmNhMjU1NmM4MTgxNjZiN2E5NTYzYjkzZjcwOTlmNmYwZjRjYWE2Y2Y2M2I4OGU4ZDNlNyIKQUxHT1JJVEhNID0gIkhTMjU2IgpBQ0NFU1NfVE9LRU5fRVhQSVJFX01JTlVURVMgPSAzMAoKCmZha2VfdXNlcnNfZGIgPSB7CiAgICAiam9obmRvZSI6IHsKICAgICAgICAidXNlcm5hbWUiOiAiam9obmRvZSIsCiAgICAgICAgImZ1bGxfbmFtZSI6ICJKb2huIERvZSIsCiAgICAgICAgImVtYWlsIjogImpvaG5kb2VAZXhhbXBsZS5jb20iLAogICAgICAgICJoYXNoZWRfcGFzc3dvcmQiOiAiJGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTMscD00JHdhZ0NQWGppZmd2VUZCenE0aHFlM3ckQ1lhSWI4c0Ird3REK1Z1L1A0dW9kMStRb2Y4aCsxZzdiYkRsQklENDhSYyIsCiAgICAgICAgImRpc2FibGVkIjogRmFsc2UsCiAgICB9LAogICAgImFsaWNlIjogewogICAgICAgICJ1c2VybmFtZSI6ICJhbGljZSIsCiAgICAgICAgImZ1bGxfbmFtZSI6ICJBbGljZSBDaGFpbnMiLAogICAgICAgICJlbWFpbCI6ICJhbGljZWNoYWluc0BleGFtcGxlLmNvbSIsCiAgICAgICAgImhhc2hlZF9wYXNzd29yZCI6ICIkYXJnb24yaWQkdj0xOSRtPTY1NTM2LHQ9MyxwPTQkZzIvQVYxendvcHFVbnRQS0phdkJGdyRCd3BSR0RDeVVITHZISUNud2lqeVg4Uk9Hb2lVUHdOS1o3OTE1TWVZZkNFIiwKICAgICAgICAiZGlzYWJsZWQiOiBUcnVlLAogICAgfSwKfQoKCmNsYXNzIFRva2VuKEJhc2VNb2RlbCk6CiAgICBhY2Nlc3NfdG9rZW46IHN0cgogICAgdG9rZW5fdHlwZTogc3RyCgoKY2xhc3MgVG9rZW5EYXRhKEJhc2VNb2RlbCk6CiAgICB1c2VybmFtZTogc3RyIHwgTm9uZSA9IE5vbmUKICAgIHNjb3BlczogbGlzdFtzdHJdID0gW10KCgpjbGFzcyBVc2VyKEJhc2VNb2RlbCk6CiAgICB1c2VybmFtZTogc3RyCiAgICBlbWFpbDogc3RyIHwgTm9uZSA9IE5vbmUKICAgIGZ1bGxfbmFtZTogc3RyIHwgTm9uZSA9IE5vbmUKICAgIGRpc2FibGVkOiBib29sIHwgTm9uZSA9IE5vbmUKCgpjbGFzcyBVc2VySW5EQihVc2VyKToKICAgIGhhc2hlZF9wYXNzd29yZDogc3RyCgoKcGFzc3dvcmRfaGFzaCA9IFBhc3N3b3JkSGFzaC5yZWNvbW1lbmRlZCgpCgpEVU1NWV9IQVNIID0gcGFzc3dvcmRfaGFzaC5oYXNoKCJkdW1teXBhc3N3b3JkIikKCm9hdXRoMl9zY2hlbWUgPSBPQXV0aDJQYXNzd29yZEJlYXJlcigKICAgIHRva2VuVXJsPSJ0b2tlbiIsCiAgICBzY29wZXM9eyJtZSI6ICJSZWFkIGluZm9ybWF0aW9uIGFib3V0IHRoZSBjdXJyZW50IHVzZXIuIiwgIml0ZW1zIjogIlJlYWQgaXRlbXMuIn0sCikKCmFwcCA9IEZhc3RBUEkoKQoKCmRlZiB2ZXJpZnlfcGFzc3dvcmQocGxhaW5fcGFzc3dvcmQsIGhhc2hlZF9wYXNzd29yZCk6CiAgICByZXR1cm4gcGFzc3dvcmRfaGFzaC52ZXJpZnkocGxhaW5fcGFzc3dvcmQsIGhhc2hlZF9wYXNzd29yZCkKCgpkZWYgZ2V0X3Bhc3N3b3JkX2hhc2gocGFzc3dvcmQpOgogICAgcmV0dXJuIHBhc3N3b3JkX2hhc2guaGFzaChwYXNzd29yZCkKCgpkZWYgZ2V0X3VzZXIoZGIsIHVzZXJuYW1lOiBzdHIpOgogICAgaWYgdXNlcm5hbWUgaW4gZGI6CiAgICAgICAgdXNlcl9kaWN0ID0gZGJbdXNlcm5hbWVdCiAgICAgICAgcmV0dXJuIFVzZXJJbkRCKCoqdXNlcl9kaWN0KQoKCmRlZiBhdXRoZW50aWNhdGVfdXNlcihmYWtlX2RiLCB1c2VybmFtZTogc3RyLCBwYXNzd29yZDogc3RyKToKICAgIHVzZXIgPSBnZXRfdXNlcihmYWtlX2RiLCB1c2VybmFtZSkKICAgIGlmIG5vdCB1c2VyOgogICAgICAgIHZlcmlmeV9wYXNzd29yZChwYXNzd29yZCwgRFVNTVlfSEFTSCkKICAgICAgICByZXR1cm4gRmFsc2UKICAgIGlmIG5vdCB2ZXJpZnlfcGFzc3dvcmQocGFzc3dvcmQsIHVzZXIuaGFzaGVkX3Bhc3N3b3JkKToKICAgICAgICByZXR1cm4gRmFsc2UKICAgIHJldHVybiB1c2VyCgoKZGVmIGNyZWF0ZV9hY2Nlc3NfdG9rZW4oZGF0YTogZGljdCwgZXhwaXJlc19kZWx0YTogdGltZWRlbHRhIHwgTm9uZSA9IE5vbmUpOgogICAgdG9fZW5jb2RlID0gZGF0YS5jb3B5KCkKICAgIGlmIGV4cGlyZXNfZGVsdGE6CiAgICAgICAgZXhwaXJlID0gZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0YykgKyBleHBpcmVzX2RlbHRhCiAgICBlbHNlOgogICAgICAgIGV4cGlyZSA9IGRhdGV0aW1lLm5vdyh0aW1lem9uZS51dGMpICsgdGltZWRlbHRhKG1pbnV0ZXM9MTUpCiAgICB0b19lbmNvZGUudXBkYXRlKHsiZXhwIjogZXhwaXJlfSkKICAgIGVuY29kZWRfand0ID0gand0LmVuY29kZSh0b19lbmNvZGUsIFNFQ1JFVF9LRVksIGFsZ29yaXRobT1BTEdPUklUSE0pCiAgICByZXR1cm4gZW5jb2RlZF9qd3QKCgphc3luYyBkZWYgZ2V0X2N1cnJlbnRfdXNlcigKICAgIHNlY3VyaXR5X3Njb3BlczogU2VjdXJpdHlTY29wZXMsIHRva2VuOiBBbm5vdGF0ZWRbc3RyLCBEZXBlbmRzKG9hdXRoMl9zY2hlbWUpXQopOgogICAgaWYgc2VjdXJpdHlfc2NvcGVzLnNjb3BlczoKICAgICAgICBhdXRoZW50aWNhdGVfdmFsdWUgPSBmJ0JlYXJlciBzY29wZT0ie3NlY3VyaXR5X3Njb3Blcy5zY29wZV9zdHJ9IicKICAgIGVsc2U6CiAgICAgICAgYXV0aGVudGljYXRlX3ZhbHVlID0gIkJlYXJlciIKICAgIGNyZWRlbnRpYWxzX2V4Y2VwdGlvbiA9IEhUVFBFeGNlcHRpb24oCiAgICAgICAgc3RhdHVzX2NvZGU9c3RhdHVzLkhUVFBfNDAxX1VOQVVUSE9SSVpFRCwKICAgICAgICBkZXRhaWw9IkNvdWxkIG5vdCB2YWxpZGF0ZSBjcmVkZW50aWFscyIsCiAgICAgICAgaGVhZGVycz17IldXVy1BdXRoZW50aWNhdGUiOiBhdXRoZW50aWNhdGVfdmFsdWV9LAogICAgKQogICAgdHJ5OgogICAgICAgIHBheWxvYWQgPSBqd3QuZGVjb2RlKHRva2VuLCBTRUNSRVRfS0VZLCBhbGdvcml0aG1zPVtBTEdPUklUSE1dKQogICAgICAgIHVzZXJuYW1lID0gcGF5bG9hZC5nZXQoInN1YiIpCiAgICAgICAgaWYgdXNlcm5hbWUgaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgY3JlZGVudGlhbHNfZXhjZXB0aW9uCiAgICAgICAgc2NvcGU6IHN0ciA9IHBheWxvYWQuZ2V0KCJzY29wZSIsICIiKQogICAgICAgIHRva2VuX3Njb3BlcyA9IHNjb3BlLnNwbGl0KCIgIikKICAgICAgICB0b2tlbl9kYXRhID0gVG9rZW5EYXRhKHNjb3Blcz10b2tlbl9zY29wZXMsIHVzZXJuYW1lPXVzZXJuYW1lKQogICAgZXhjZXB0IChJbnZhbGlkVG9rZW5FcnJvciwgVmFsaWRhdGlvbkVycm9yKToKICAgICAgICByYWlzZSBjcmVkZW50aWFsc19leGNlcHRpb24KICAgIHVzZXIgPSBnZXRfdXNlcihmYWtlX3VzZXJzX2RiLCB1c2VybmFtZT10b2tlbl9kYXRhLnVzZXJuYW1lKQogICAgaWYgdXNlciBpcyBOb25lOgogICAgICAgIHJhaXNlIGNyZWRlbnRpYWxzX2V4Y2VwdGlvbgogICAgZm9yIHNjb3BlIGluIHNlY3VyaXR5X3Njb3Blcy5zY29wZXM6CiAgICAgICAgaWYgc2NvcGUgbm90IGluIHRva2VuX2RhdGEuc2NvcGVzOgogICAgICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgc3RhdHVzX2NvZGU9c3RhdHVzLkhUVFBfNDAxX1VOQVVUSE9SSVpFRCwKICAgICAgICAgICAgICAgIGRldGFpbD0iTm90IGVub3VnaCBwZXJtaXNzaW9ucyIsCiAgICAgICAgICAgICAgICBoZWFkZXJzPXsiV1dXLUF1dGhlbnRpY2F0ZSI6IGF1dGhlbnRpY2F0ZV92YWx1ZX0sCiAgICAgICAgICAgICkKICAgIHJldHVybiB1c2VyCgoKYXN5bmMgZGVmIGdldF9jdXJyZW50X2FjdGl2ZV91c2VyKAogICAgY3VycmVudF91c2VyOiBBbm5vdGF0ZWRbVXNlciwgU2VjdXJpdHkoZ2V0X2N1cnJlbnRfdXNlciwgc2NvcGVzPVsibWUiXSldLAopOgogICAgaWYgY3VycmVudF91c2VyLmRpc2FibGVkOgogICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oc3RhdHVzX2NvZGU9NDAwLCBkZXRhaWw9IkluYWN0aXZlIHVzZXIiKQogICAgcmV0dXJuIGN1cnJlbnRfdXNlcgoKCkBhcHAucG9zdCgiL3Rva2VuIikKYXN5bmMgZGVmIGxvZ2luX2Zvcl9hY2Nlc3NfdG9rZW4oCiAgICBmb3JtX2RhdGE6IEFubm90YXRlZFtPQXV0aDJQYXNzd29yZFJlcXVlc3RGb3JtLCBEZXBlbmRzKCldLAopIC0+IFRva2VuOgogICAgdXNlciA9IGF1dGhlbnRpY2F0ZV91c2VyKGZha2VfdXNlcnNfZGIsIGZvcm1fZGF0YS51c2VybmFtZSwgZm9ybV9kYXRhLnBhc3N3b3JkKQogICAgaWYgbm90IHVzZXI6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbihzdGF0dXNfY29kZT00MDAsIGRldGFpbD0iSW5jb3JyZWN0IHVzZXJuYW1lIG9yIHBhc3N3b3JkIikKICAgIGFjY2Vzc190b2tlbl9leHBpcmVzID0gdGltZWRlbHRhKG1pbnV0ZXM9QUNDRVNTX1RPS0VOX0VYUElSRV9NSU5VVEVTKQogICAgYWNjZXNzX3Rva2VuID0gY3JlYXRlX2FjY2Vzc190b2tlbigKICAgICAgICBkYXRhPXsic3ViIjogdXNlci51c2VybmFtZSwgInNjb3BlIjogIiAiLmpvaW4oZm9ybV9kYXRhLnNjb3Blcyl9LAogICAgICAgIGV4cGlyZXNfZGVsdGE9YWNjZXNzX3Rva2VuX2V4cGlyZXMsCiAgICApCiAgICByZXR1cm4gVG9rZW4oYWNjZXNzX3Rva2VuPWFjY2Vzc190b2tlbiwgdG9rZW5fdHlwZT0iYmVhcmVyIikKCgpAYXBwLmdldCgiL3VzZXJzL21lLyIpCmFzeW5jIGRlZiByZWFkX3VzZXJzX21lKAogICAgY3VycmVudF91c2VyOiBBbm5vdGF0ZWRbVXNlciwgRGVwZW5kcyhnZXRfY3VycmVudF9hY3RpdmVfdXNlcildLAopIC0+IFVzZXI6CiAgICByZXR1cm4gY3VycmVudF91c2VyCgoKQGFwcC5nZXQoIi91c2Vycy9tZS9pdGVtcy8iKQphc3luYyBkZWYgcmVhZF9vd25faXRlbXMoCiAgICBjdXJyZW50X3VzZXI6IEFubm90YXRlZFtVc2VyLCBTZWN1cml0eShnZXRfY3VycmVudF9hY3RpdmVfdXNlciwgc2NvcGVzPVsiaXRlbXMiXSldLAopOgogICAgcmV0dXJuIFt7Iml0ZW1faWQiOiAiRm9vIiwgIm93bmVyIjogY3VycmVudF91c2VyLnVzZXJuYW1lfV0KCgpAYXBwLmdldCgiL3N0YXR1cy8iKQphc3luYyBkZWYgcmVhZF9zeXN0ZW1fc3RhdHVzKGN1cnJlbnRfdXNlcjogQW5ub3RhdGVkW1VzZXIsIERlcGVuZHMoZ2V0X2N1cnJlbnRfdXNlcildKToKICAgIHJldHVybiB7InN0YXR1cyI6ICJvayJ9Cg==
+from datetime import datetime, timedelta, timezone
+from typing import Annotated
+
+import jwt
+from fastapi import Depends, FastAPI, HTTPException, Security, status
+from fastapi.security import (
+    OAuth2PasswordBearer,
+    OAuth2PasswordRequestForm,
+    SecurityScopes,
+)
+from jwt.exceptions import InvalidTokenError
+from pwdlib import PasswordHash
+from pydantic import BaseModel, ValidationError
+
+# to get a string like this run:
+# openssl rand -hex 32
+SECRET_KEY = "09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
+
+
+fake_users_db = {
+    "johndoe": {
+        "username": "johndoe",
+        "full_name": "John Doe",
+        "email": "johndoe@example.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$wagCPXjifgvUFBzq4hqe3w$CYaIb8sB+wtD+Vu/P4uod1+Qof8h+1g7bbDlBID48Rc",
+        "disabled": False,
+    },
+    "alice": {
+        "username": "alice",
+        "full_name": "Alice Chains",
+        "email": "alicechains@example.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$g2/AV1zwopqUntPKJavBFw$BwpRGDCyUHLvHICnwijyX8ROGoiUPwNKZ7915MeYfCE",
+        "disabled": True,
+    },
+}
+
+
+class Token(BaseModel):
+    access_token: str
+    token_type: str
+
+
+class TokenData(BaseModel):
+    username: str | None = None
+    scopes: list[str] = []
+
+
+class User(BaseModel):
+    username: str
+    email: str | None = None
+    full_name: str | None = None
+    disabled: bool | None = None
+
+
+class UserInDB(User):
+    hashed_password: str
+
+
+password_hash = PasswordHash.recommended()
+
+DUMMY_HASH = password_hash.hash("dummypassword")
+
+oauth2_scheme = OAuth2PasswordBearer(
+    tokenUrl="token",
+    scopes={"me": "Read information about the current user.", "items": "Read items."},
+)
+
+app = FastAPI()
+
+
+def verify_password(plain_password, hashed_password):
+    return password_hash.verify(plain_password, hashed_password)
+
+
+def get_password_hash(password):
+    return password_hash.hash(password)
+
+
+def get_user(db, username: str):
+    if username in db:
+        user_dict = db[username]
+        return UserInDB(**user_dict)
+
+
+def authenticate_user(fake_db, username: str, password: str):
+    user = get_user(fake_db, username)
+    if not user:
+        verify_password(password, DUMMY_HASH)
+        return False
+    if not verify_password(password, user.hashed_password):
+        return False
+    return user
+
+
+def create_access_token(data: dict, expires_delta: timedelta | None = None):
+    to_encode = data.copy()
+    if expires_delta:
+        expire = datetime.now(timezone.utc) + expires_delta
+    else:
+        expire = datetime.now(timezone.utc) + timedelta(minutes=15)
+    to_encode.update({"exp": expire})
+    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
+    return encoded_jwt
+
+
+async def get_current_user(
+    security_scopes: SecurityScopes, token: Annotated[str, Depends(oauth2_scheme)]
+):
+    if security_scopes.scopes:
+        authenticate_value = f'Bearer scope="{security_scopes.scope_str}"'
+    else:
+        authenticate_value = "Bearer"
+    credentials_exception = HTTPException(
+        status_code=status.HTTP_401_UNAUTHORIZED,
+        detail="Could not validate credentials",
+        headers={"WWW-Authenticate": authenticate_value},
+    )
+    try:
+        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+        username = payload.get("sub")
+        if username is None:
+            raise credentials_exception
+        scope: str = payload.get("scope", "")
+        token_scopes = scope.split(" ")
+        token_data = TokenData(scopes=token_scopes, username=username)
+    except (InvalidTokenError, ValidationError):
+        raise credentials_exception
+    user = get_user(fake_users_db, username=token_data.username)
+    if user is None:
+        raise credentials_exception
+    for scope in security_scopes.scopes:
+        if scope not in token_data.scopes:
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Not enough permissions",
+                headers={"WWW-Authenticate": authenticate_value},
+            )
+    return user
+
+
+async def get_current_active_user(
+    current_user: Annotated[User, Security(get_current_user, scopes=["me"])],
+):
+    if current_user.disabled:
+        raise HTTPException(status_code=400, detail="Inactive user")
+    return current_user
+
+
+@app.post("/token")
+async def login_for_access_token(
+    form_data: Annotated[OAuth2PasswordRequestForm, Depends()],
+) -> Token:
+    user = authenticate_user(fake_users_db, form_data.username, form_data.password)
+    if not user:
+        raise HTTPException(status_code=400, detail="Incorrect username or password")
+    access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+    access_token = create_access_token(
+        data={"sub": user.username, "scope": " ".join(form_data.scopes)},
+        expires_delta=access_token_expires,
+    )
+    return Token(access_token=access_token, token_type="bearer")
+
+
+@app.get("/users/me/")
+async def read_users_me(
+    current_user: Annotated[User, Depends(get_current_active_user)],
+) -> User:
+    return current_user
+
+
+@app.get("/users/me/items/")
+async def read_own_items(
+    current_user: Annotated[User, Security(get_current_active_user, scopes=["items"])],
+):
+    return [{"item_id": "Foo", "owner": current_user.username}]
+
+
+@app.get("/status/")
+async def read_system_status(current_user: Annotated[User, Depends(get_current_user)]):
+    return {"status": "ok"}

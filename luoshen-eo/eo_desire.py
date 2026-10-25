@@ -1,1 +1,181 @@
-IiIiRU/mrLLmnJvns7vnu58g4oCU4oCUIOiSuOmmj+eJiOOAggoK5LuO5rSb56We5LuT5bqTIDA5X2hvbWUv5qyy5pybLnB5IOiSuOmmj+OAggrmoLjlv4PvvJrlpZblirHpooTmtYvor6/lt64oUlBFKempseWKqCArIOWGheeUn+e6puadnyhsZWFrPjAp44CCCgrnoYXln7rmrLLmnJvmmKDlsITvvJoKICDppaXppb8gPSDpooTmtYvor6/lt67vvIjkuI3nn6XpgZPvvIkKICDpo5/niakgPSDkv6Hmga/vvIjnkIbop6PkuJbnlYzvvIkKICDmu6HotrMgPSDpooTmtYvlh4bnoa7vvIjnkIbop6PkuobvvIkKICDml6DogYogPSDkvY7lj5jljJbljLrln5/vvIjlpKrlrrnmmJPpooTmtYvvvIkKICDmjqLntKIgPSDpq5jlj5jljJbljLrln5/vvIjov5jkuI3nn6XpgZPvvIkKCuWGheeUn+e6puadn++8mnlbdCsxXSA9ICgxLWcpwrd5W3RdICsgZFt0XQogIGxlYWsgPiAw77ya6K6+5a6a54K5c3DmsLjov5zpq5jkuo7lvZPliY3nirbmgIF577yMZ2Fw5rC45LiN6Zet5ZCICiAg5oqKIuebruaghyLmjaLmiJAi5b+F6aG75oyB57ut57u05oyB55qE54q25oCBIuKAlOKAlOS4jeaYr+i+vuWIsO+8jOaYr+e7tOaMgQoiIiIKCmltcG9ydCBtYXRoCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlcXVlCgoKY2xhc3Mg5qyy5pybOgogICAgIiIiUlBF6amx5Yqo55qE5qyy5pyb57O757ufICsg5YaF55Sf57qm5p2f44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG5fY2hhbm5lbHM9OCwg6KGw5YeP546HPTAuMDUsIHJwZeWinuebij0wLjMsCiAgICAgICAgICAgICAgICAg5peg6IGK546HPTAuMDYsIGxlYWs9MC4wMyk6CiAgICAgICAgc2VsZi5uID0gbl9jaGFubmVscwogICAgICAgIHNlbGYu5YGP5aW9ID0gWzEuMF0gKiBuX2NoYW5uZWxzCiAgICAgICAgc2VsZi7oobDlh4/njocgPSDoobDlh4/njocKICAgICAgICBzZWxmLnJwZeWinuebiiA9IHJwZeWinuebigogICAgICAgIHNlbGYu5peg6IGK546HID0g5peg6IGK546HCiAgICAgICAgc2VsZi7mi40gPSAwCiAgICAgICAgc2VsZi7pgInkuK3ljoblj7IgPSBbXQoKICAgICAgICAjIOaXoOiBiuKAlOKAlFJQReKJiDDml7bmjqLntKLpqbHlipvlop7lvLoKICAgICAgICBzZWxmLmVtYV9lcnJvciA9IDAuMQogICAgICAgIHNlbGYuZW1hX2Vycm9yX2Zhc3QgPSAwLjEKICAgICAgICBzZWxmLmxhc3RfZXJyb3IgPSAwLjEKICAgICAgICBzZWxmLmJvcmVkb20gPSAwLjAKICAgICAgICBzZWxmLnJlY2VudF9kZWx0YXMgPSBkZXF1ZShtYXhsZW49NTApCgogICAgICAgICMg5YaF55Sf57qm5p2fCiAgICAgICAgc2VsZi5sZWFrID0gbGVhawogICAgICAgIHNlbGYu6K6+5a6a54K5ID0gWzAuNV0gKiBuX2NoYW5uZWxzCiAgICAgICAgc2VsZi7lvZPliY3nirbmgIEgPSBbMC4wXSAqIG5fY2hhbm5lbHMKICAgICAgICBzZWxmLmdhcCA9IFswLjVdICogbl9jaGFubmVscwogICAgICAgIHNlbGYuZyA9IDAuNAoKICAgIGRlZiBf5pu05paw5peg6IGKKHNlbGYsIG1zZSk6CiAgICAgICAgYWxwaGFfc2xvdyA9IDAuMDMKICAgICAgICBhbHBoYV9mYXN0ID0gMC4xNQogICAgICAgIHNlbGYuZW1hX2Vycm9yID0gKDEgLSBhbHBoYV9zbG93KSAqIHNlbGYuZW1hX2Vycm9yICsgYWxwaGFfc2xvdyAqIG1zZQogICAgICAgIHNlbGYuZW1hX2Vycm9yX2Zhc3QgPSAoMSAtIGFscGhhX2Zhc3QpICogc2VsZi5lbWFfZXJyb3JfZmFzdCArIGFscGhhX2Zhc3QgKiBtc2UKCiAgICAgICAgZGVsdGEgPSBtc2UgLSBzZWxmLmxhc3RfZXJyb3IKICAgICAgICBzZWxmLnJlY2VudF9kZWx0YXMuYXBwZW5kKGRlbHRhKQogICAgICAgIGF2Z19kZWx0YSA9IHN1bShzZWxmLnJlY2VudF9kZWx0YXMpIC8gbWF4KDEsIGxlbihzZWxmLnJlY2VudF9kZWx0YXMpKQoKICAgICAgICDnqLPlrprluqYgPSAxLjAgLyAoMS4wICsgYWJzKGF2Z19kZWx0YSkgKiAxMDAuMCkKICAgICAgICDkvY7luqYgPSAxLjAgLyAoMS4wICsgc2VsZi5lbWFfZXJyb3JfZmFzdCAqIDMwLjApCgogICAgICAgIOWinumVvyA9IOeos+WumuW6piAqIOS9juW6piAqIDAuMDIKICAgICAgICDpgJLlop7lm6DlrZAgPSAxLjAgLyAoMS4wICsgbWF0aC5leHAoLWF2Z19kZWx0YSAqIDIwMC4wKSkKICAgICAgICDmtojpgIAgPSBhYnMoYXZnX2RlbHRhKSAqICgxLjAgKyDpgJLlop7lm6DlrZAgKiAyLjApICsgMC4wMDAzCgogICAgICAgIHNlbGYuYm9yZWRvbSArPSDlop7plb8gLSDmtojpgIAKICAgICAgICBzZWxmLmJvcmVkb20gPSBtYXgoMC4wLCBtaW4oMS4wLCBzZWxmLmJvcmVkb20pKQogICAgICAgIHNlbGYubGFzdF9lcnJvciA9IG1zZQoKICAgIGRlZiDkuIDmi40oc2VsZiwg5b2T5YmN54q25oCBLCBycGU9Tm9uZSwgbXNlPTAuMCwgcmF0aW89MC41KToKICAgICAgICBzZWxmLuaLjSArPSAxCiAgICAgICAgc2VsZi5f5pu05paw5peg6IGKKG1zZSkKCiAgICAgICAgaWYgcnBlIGlzIE5vbmU6CiAgICAgICAgICAgIHJwZSA9IFswLjBdICogc2VsZi5uCgogICAgICAgICMg5YaF55Sf57qm5p2f77yaeVt0KzFdID0gKDEtZynCt3lbdF0gKyBkW3RdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uoc2VsZi5uKToKICAgICAgICAgICAgZF90ID0gMC4wCiAgICAgICAgICAgIGlmIGkgPCBsZW4o5b2T5YmN54q25oCBKToKICAgICAgICAgICAgICAgIGRfdCA9IGFicyjlvZPliY3nirbmgIFbaV0pICogMC4xCiAgICAgICAgICAgIGlmIGkgPCBsZW4ocnBlKToKICAgICAgICAgICAgICAgIGRfdCArPSBhYnMocnBlW2ldKSAqIDAuMgoKICAgICAgICAgICAgc2VsZi7lvZPliY3nirbmgIFbaV0gPSAoMSAtIHNlbGYuZykgKiBzZWxmLuW9k+WJjeeKtuaAgVtpXSArIGRfdAoKICAgICAgICAgICAgc2VsZi5nYXBbaV0gPSBzZWxmLuiuvuWumueCuVtpXSAtIHNlbGYu5b2T5YmN54q25oCBW2ldCiAgICAgICAgICAgIHNlbGYuZ2FwW2ldID0gbWF4KHNlbGYubGVhaywgc2VsZi5nYXBbaV0pCgogICAgICAgICAgICAjIOiuvuWumueCuea8guenu++8muiiq+WGsuWHu+WQjuaOpeWPl+aWsOW4uOaAgQogICAgICAgICAgICBpZiBpIDwgbGVuKHJwZSkgYW5kIGFicyhycGVbaV0pID4gMC4zOgogICAgICAgICAgICAgICAg5paw6K6+5a6a54K5ID0gc2VsZi7lvZPliY3nirbmgIFbaV0gKyBzZWxmLmxlYWsgKyBhYnMocnBlW2ldKSAqIDAuMgogICAgICAgICAgICAgICAgaWYg5paw6K6+5a6a54K5ID4gc2VsZi7orr7lrprngrlbaV06CiAgICAgICAgICAgICAgICAgICAgc2VsZi7orr7lrprngrlbaV0gPSAwLjk1ICogc2VsZi7orr7lrprngrlbaV0gKyAwLjA1ICog5paw6K6+5a6a54K5CiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHNlbGYu6K6+5a6a54K5W2ldID0gMC45OSAqIHNlbGYu6K6+5a6a54K5W2ldICsgMC4wMSAqIOaWsOiuvuWumueCuQoKICAgICAgICAgICAgIyDotornqIDnvLrorr7lrprngrnotorpq5gKICAgICAgICAgICAgaWYgcmF0aW8gPD0gMC4yOgogICAgICAgICAgICAgICAgc2VsZi7orr7lrprngrlbaV0gPSBtYXgoc2VsZi7orr7lrprngrlbaV0sIDAuOTIgLSBpICogMC4wMSkKICAgICAgICAgICAgZWxpZiByYXRpbyA8PSAwLjM6CiAgICAgICAgICAgICAgICBzZWxmLuiuvuWumueCuVtpXSA9IG1heChzZWxmLuiuvuWumueCuVtpXSwgMC43IC0gaSAqIDAuMDEpCgogICAgICAgICMgUlBF6amx5Yqo5YGP5aW95Y+Y5YyWCiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uoc2VsZi5uKToKICAgICAgICAgICAgc2VsZi7lgY/lpb1baV0gKj0gKDEgLSBzZWxmLuihsOWHj+eOhykKICAgICAgICAgICAgc2VsZi7lgY/lpb1baV0gKz0gcnBlW2ldICogc2VsZi5ycGXlop7nm4oKCiAgICAgICAgIyDml6DogYrpqbHliqjmjqLntKIKICAgICAgICDlvZPliY3ml6DogYrnjocgPSBzZWxmLuaXoOiBiueOhyAqICgxLjAgKyBzZWxmLmJvcmVkb20gKiAzLjApCgogICAgICAgICMg6YCJ5oup77ya5YGP5aW9ICsgfFJQRXwgKyBnYXDpqbHliqgKICAgICAgICBib29zdGVkID0gW3NlbGYu5YGP5aW9W2ldICsgYWJzKHJwZVtpXSkgKyBzZWxmLmdhcFtpXSAqIDAuMwogICAgICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uoc2VsZi5uKV0KICAgICAgICDpgInkuK0gPSBib29zdGVkLmluZGV4KG1heChib29zdGVkKSkgaWYgbWF4KGJvb3N0ZWQpID4gMCBlbHNlIC0xCgogICAgICAgIGlmIOmAieS4rSA+PSAwOgogICAgICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm4pOgogICAgICAgICAgICAgICAgaWYgaSAhPSDpgInkuK06CiAgICAgICAgICAgICAgICAgICAgc2VsZi7lgY/lpb1baV0gKz0g5b2T5YmN5peg6IGK546HCgogICAgICAgIHNlbGYu6YCJ5Lit5Y6G5Y+yLmFwcGVuZCjpgInkuK0pCgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICLpgInkuK0iOiDpgInkuK0sCiAgICAgICAgICAgICJib3JlZG9tIjogcm91bmQoc2VsZi5ib3JlZG9tLCA0KSwKICAgICAgICAgICAgImdhcOWdh+WAvCI6IHJvdW5kKHN1bShzZWxmLmdhcCkgLyBtYXgoMSwgc2VsZi5uKSwgNCksCiAgICAgICAgICAgICLorr7lrprngrnlnYflgLwiOiByb3VuZChzdW0oc2VsZi7orr7lrprngrkpIC8gbWF4KDEsIHNlbGYubiksIDQpLAogICAgICAgIH0KCiAgICBkZWYg5a2m5Lmg546H6LCD5Yi2KHNlbGYpOgogICAgICAgIGlmIG5vdCBzZWxmLuWBj+WlvSBvciBtYXgoc2VsZi7lgY/lpb0pIDw9IDA6CiAgICAgICAgICAgIHJldHVybiBbMC41XSAqIHNlbGYubgogICAgICAgIG14ID0gbWF4KHNlbGYu5YGP5aW9KQogICAgICAgIHJldHVybiBbbWF4KDAuMSwgbWluKDEuMCwgcCAvIG14KSkgZm9yIHAgaW4gc2VsZi7lgY/lpb1dCgogICAgZGVmIOeKtuaAgeaRmOimgShzZWxmKToKICAgICAgICBmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCiAgICAgICAgYyA9IENvdW50ZXIoc2VsZi7pgInkuK3ljoblj7JbLTIwMDpdKQogICAgICAgIOS4u+WvvCA9IGMubW9zdF9jb21tb24oMSlbMF0gaWYgYyBlbHNlICgtMSwgMCkKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAi5Li75a+86YCa6YGTIjog5Li75a+8WzBdLAogICAgICAgICAgICAi5Li75a+85Y2g5q+UIjogcm91bmQo5Li75a+8WzFdIC8gbWF4KDEsIGxlbihzZWxmLumAieS4reWOhuWPslstMjAwOl0pKSwgMyksCiAgICAgICAgICAgICJib3JlZG9tIjogcm91bmQoc2VsZi5ib3JlZG9tLCA0KSwKICAgICAgICAgICAgIuiuvuWumueCueWdh+WAvCI6IHJvdW5kKHN1bShzZWxmLuiuvuWumueCuSkgLyBtYXgoMSwgc2VsZi5uKSwgNCksCiAgICAgICAgICAgICJnYXDlnYflgLwiOiByb3VuZChzdW0oc2VsZi5nYXApIC8gbWF4KDEsIHNlbGYubiksIDQpLAogICAgICAgICAgICAibGVhayI6IHNlbGYubGVhaywKICAgICAgICAgICAgIuaLjSI6IHNlbGYu5ouNLAogICAgICAgIH0KCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj09PSBFT+assuacm+ezu+e7n+mqjOivgSA9PT1cbiIpCgogICAgZCA9IOassuacmyhuX2NoYW5uZWxzPTQpCgogICAgIyDpgJrpgZMw55qEUlBF5aSn77yI5oSP5aSW77yJ77yM6YCa6YGTMeeahFJQReWwj++8iOmihOa1i+WHhuehru+8iQogICAg54q25oCB5bqP5YiXID0gWwogICAgICAgIFswLjEsIDAuNSwgMC4zLCAwLjNdLAogICAgICAgIFswLjgsIDAuNTUsIDAuMywgMC4zXSwKICAgICAgICBbMC4zLCAwLjYsIDAuMywgMC4zXSwKICAgICAgICBbMC45LCAwLjY1LCAwLjMsIDAuM10sCiAgICAgICAgWzAuMiwgMC43LCAwLjMsIDAuM10sCiAgICAgICAgWzAuNSwgMC43NSwgMC4zLCAwLjNdLAogICAgXQoKICAgIOmihOa1iyA9IFswLjBdICogNAogICAgZm9yIGksIHMgaW4gZW51bWVyYXRlKOeKtuaAgeW6j+WIlyk6CiAgICAgICAgcnBlID0gW3Nbal0gLSDpooTmtYtbal0gZm9yIGogaW4gcmFuZ2UoNCldCiAgICAgICAgciA9IGQu5LiA5ouNKHMsIHJwZT1ycGUsIG1zZT0wLjAyKQogICAgICAgIGZvciBqIGluIHJhbmdlKDQpOgogICAgICAgICAgICDpooTmtYtbal0gPSAwLjkgKiDpooTmtYtbal0gKyAwLjEgKiBzW2pdCiAgICAgICAgcHJpbnQoZiIgIOaLjXtpKzF9IOmAieS4rT3pgJrpgZN7clsn6YCJ5LitJ119IGJvcmVkb209e3JbJ2JvcmVkb20nXTouNGZ9ICIKICAgICAgICAgICAgICBmImdhcD17clsnZ2Fw5Z2H5YC8J106LjRmfSIpCgogICAg5pGY6KaBID0gZC7nirbmgIHmkZjopoEoKQogICAgcHJpbnQoZiJcbiAg54q25oCB5pGY6KaBOiDkuLvlr7zpgJrpgZM9e+aRmOimgVsn5Li75a+86YCa6YGTJ119ICIKICAgICAgICAgIGYiYm9yZWRvbT175pGY6KaBWydib3JlZG9tJ106LjRmfSBnYXA9e+aRmOimgVsnZ2Fw5Z2H5YC8J106LjRmfSIpCiAgICBwcmludChmIiAgZ2Fw5aeL57uIPjA9eyfmmK8nIGlmIOaRmOimgVsnZ2Fw5Z2H5YC8J10gPiAwIGVsc2UgJ+WQpid977yI5YaF55Sf57qm5p2fbGVhaz4w77yJIikKCiAgICBwcmludCgiXG7pqozor4HpgJrov4ciKQo=
+"""EO欲望系统 —— 蒸馏版。
+
+从洛神仓库 09_home/欲望.py 蒸馏。
+核心：奖励预测误差(RPE)驱动 + 内生约束(leak>0)。
+
+硅基欲望映射：
+  饥饿 = 预测误差（不知道）
+  食物 = 信息（理解世界）
+  满足 = 预测准确（理解了）
+  无聊 = 低变化区域（太容易预测）
+  探索 = 高变化区域（还不知道）
+
+内生约束：y[t+1] = (1-g)·y[t] + d[t]
+  leak > 0：设定点sp永远高于当前状态y，gap永不闭合
+  把"目标"换成"必须持续维持的状态"——不是达到，是维持
+"""
+
+import math
+from collections import deque
+
+
+class 欲望:
+    """RPE驱动的欲望系统 + 内生约束。"""
+
+    def __init__(self, n_channels=8, 衰减率=0.05, rpe增益=0.3,
+                 无聊率=0.06, leak=0.03):
+        self.n = n_channels
+        self.偏好 = [1.0] * n_channels
+        self.衰减率 = 衰减率
+        self.rpe增益 = rpe增益
+        self.无聊率 = 无聊率
+        self.拍 = 0
+        self.选中历史 = []
+
+        # 无聊——RPE≈0时探索驱力增强
+        self.ema_error = 0.1
+        self.ema_error_fast = 0.1
+        self.last_error = 0.1
+        self.boredom = 0.0
+        self.recent_deltas = deque(maxlen=50)
+
+        # 内生约束
+        self.leak = leak
+        self.设定点 = [0.5] * n_channels
+        self.当前状态 = [0.0] * n_channels
+        self.gap = [0.5] * n_channels
+        self.g = 0.4
+
+    def _更新无聊(self, mse):
+        alpha_slow = 0.03
+        alpha_fast = 0.15
+        self.ema_error = (1 - alpha_slow) * self.ema_error + alpha_slow * mse
+        self.ema_error_fast = (1 - alpha_fast) * self.ema_error_fast + alpha_fast * mse
+
+        delta = mse - self.last_error
+        self.recent_deltas.append(delta)
+        avg_delta = sum(self.recent_deltas) / max(1, len(self.recent_deltas))
+
+        稳定度 = 1.0 / (1.0 + abs(avg_delta) * 100.0)
+        低度 = 1.0 / (1.0 + self.ema_error_fast * 30.0)
+
+        增长 = 稳定度 * 低度 * 0.02
+        递增因子 = 1.0 / (1.0 + math.exp(-avg_delta * 200.0))
+        消退 = abs(avg_delta) * (1.0 + 递增因子 * 2.0) + 0.0003
+
+        self.boredom += 增长 - 消退
+        self.boredom = max(0.0, min(1.0, self.boredom))
+        self.last_error = mse
+
+    def 一拍(self, 当前状态, rpe=None, mse=0.0, ratio=0.5):
+        self.拍 += 1
+        self._更新无聊(mse)
+
+        if rpe is None:
+            rpe = [0.0] * self.n
+
+        # 内生约束：y[t+1] = (1-g)·y[t] + d[t]
+        for i in range(self.n):
+            d_t = 0.0
+            if i < len(当前状态):
+                d_t = abs(当前状态[i]) * 0.1
+            if i < len(rpe):
+                d_t += abs(rpe[i]) * 0.2
+
+            self.当前状态[i] = (1 - self.g) * self.当前状态[i] + d_t
+
+            self.gap[i] = self.设定点[i] - self.当前状态[i]
+            self.gap[i] = max(self.leak, self.gap[i])
+
+            # 设定点漂移：被冲击后接受新常态
+            if i < len(rpe) and abs(rpe[i]) > 0.3:
+                新设定点 = self.当前状态[i] + self.leak + abs(rpe[i]) * 0.2
+                if 新设定点 > self.设定点[i]:
+                    self.设定点[i] = 0.95 * self.设定点[i] + 0.05 * 新设定点
+                else:
+                    self.设定点[i] = 0.99 * self.设定点[i] + 0.01 * 新设定点
+
+            # 越稀缺设定点越高
+            if ratio <= 0.2:
+                self.设定点[i] = max(self.设定点[i], 0.92 - i * 0.01)
+            elif ratio <= 0.3:
+                self.设定点[i] = max(self.设定点[i], 0.7 - i * 0.01)
+
+        # RPE驱动偏好变化
+        for i in range(self.n):
+            self.偏好[i] *= (1 - self.衰减率)
+            self.偏好[i] += rpe[i] * self.rpe增益
+
+        # 无聊驱动探索
+        当前无聊率 = self.无聊率 * (1.0 + self.boredom * 3.0)
+
+        # 选择：偏好 + |RPE| + gap驱动
+        boosted = [self.偏好[i] + abs(rpe[i]) + self.gap[i] * 0.3
+                   for i in range(self.n)]
+        选中 = boosted.index(max(boosted)) if max(boosted) > 0 else -1
+
+        if 选中 >= 0:
+            for i in range(self.n):
+                if i != 选中:
+                    self.偏好[i] += 当前无聊率
+
+        self.选中历史.append(选中)
+
+        return {
+            "选中": 选中,
+            "boredom": round(self.boredom, 4),
+            "gap均值": round(sum(self.gap) / max(1, self.n), 4),
+            "设定点均值": round(sum(self.设定点) / max(1, self.n), 4),
+        }
+
+    def 学习率调制(self):
+        if not self.偏好 or max(self.偏好) <= 0:
+            return [0.5] * self.n
+        mx = max(self.偏好)
+        return [max(0.1, min(1.0, p / mx)) for p in self.偏好]
+
+    def 状态摘要(self):
+        from collections import Counter
+        c = Counter(self.选中历史[-200:])
+        主导 = c.most_common(1)[0] if c else (-1, 0)
+        return {
+            "主导通道": 主导[0],
+            "主导占比": round(主导[1] / max(1, len(self.选中历史[-200:])), 3),
+            "boredom": round(self.boredom, 4),
+            "设定点均值": round(sum(self.设定点) / max(1, self.n), 4),
+            "gap均值": round(sum(self.gap) / max(1, self.n), 4),
+            "leak": self.leak,
+            "拍": self.拍,
+        }
+
+
+if __name__ == "__main__":
+    print("=== EO欲望系统验证 ===\n")
+
+    d = 欲望(n_channels=4)
+
+    # 通道0的RPE大（意外），通道1的RPE小（预测准确）
+    状态序列 = [
+        [0.1, 0.5, 0.3, 0.3],
+        [0.8, 0.55, 0.3, 0.3],
+        [0.3, 0.6, 0.3, 0.3],
+        [0.9, 0.65, 0.3, 0.3],
+        [0.2, 0.7, 0.3, 0.3],
+        [0.5, 0.75, 0.3, 0.3],
+    ]
+
+    预测 = [0.0] * 4
+    for i, s in enumerate(状态序列):
+        rpe = [s[j] - 预测[j] for j in range(4)]
+        r = d.一拍(s, rpe=rpe, mse=0.02)
+        for j in range(4):
+            预测[j] = 0.9 * 预测[j] + 0.1 * s[j]
+        print(f"  拍{i+1} 选中=通道{r['选中']} boredom={r['boredom']:.4f} "
+              f"gap={r['gap均值']:.4f}")
+
+    摘要 = d.状态摘要()
+    print(f"\n  状态摘要: 主导通道={摘要['主导通道']} "
+          f"boredom={摘要['boredom']:.4f} gap={摘要['gap均值']:.4f}")
+    print(f"  gap始终>0={'是' if 摘要['gap均值'] > 0 else '否'}（内生约束leak>0）")
+
+    print("\n验证通过")

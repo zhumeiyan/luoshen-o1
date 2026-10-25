@@ -1,1 +1,47 @@
-aW1wb3J0IGFzeW5jaW8sIGpzb24sIHN1YnByb2Nlc3MsIHRpbWUKZnJvbSBwbGF5d3JpZ2h0LmFzeW5jX2FwaSBpbXBvcnQgYXN5bmNfcGxheXdyaWdodAoKVEFSR0VUUyA9IFsKICgibmV3LmV4cGVuc2lmeSIsICAiaHR0cHM6Ly9uZXcuZXhwZW5zaWZ5LmNvbS9ob21lIiksCiAoImV4cGVuc2lmeS5jb20iLCAgImh0dHBzOi8vd3d3LmV4cGVuc2lmeS5jb20vIiksCiAoInVwd29yayIsICAgICAgICAgImh0dHBzOi8vd3d3LnVwd29yay5jb20vIiksCiAoIm1haWwucXEuY29tIiwgICAgImh0dHBzOi8vbWFpbC5xcS5jb20iKSwKICgiZ2l0aHViLmNvbSIsICAgICAiaHR0cHM6Ly9naXRodWIuY29tLyIpLAogKCJnaXRlZSIsICAgICAgICAgICJodHRwczovL2dpdGVlLmNvbS9kcm9tYXJhL2Vhc3lBaSIpLApdClVBPSJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiBDaHJvbWUvMTMxIFNhZmFyaS81MzcuMzYiCgpkZWYgcHJvdG8odXJsKToKICAgIHQwPXRpbWUudGltZSgpCiAgICB0cnk6CiAgICAgICAgcj1zdWJwcm9jZXNzLnJ1bihbImN1cmwiLCItcyIsIi1vIiwiL2Rldi9udWxsIiwiLXciLCIle2h0dHBfY29kZX0iLCItbSIsIjEyIiwiLUEiLFVBLHVybF0sCiAgICAgICAgICAgICAgICAgICAgICAgICBjYXB0dXJlX291dHB1dD1UcnVlLHRleHQ9VHJ1ZSkKICAgICAgICBjPXIuc3Rkb3V0LnN0cmlwKCkKICAgICAgICByZXR1cm4gKGludChjKSBpZiBjLmlzZGlnaXQoKSBlbHNlIDApLCB0aW1lLnRpbWUoKS10MAogICAgZXhjZXB0IEV4Y2VwdGlvbjogcmV0dXJuIDAsIHRpbWUudGltZSgpLXQwCgphc3luYyBkZWYgbWFpbigpOgogICAgcmVzPXt9CiAgICBhc3luYyB3aXRoIGFzeW5jX3BsYXl3cmlnaHQoKSBhcyBwOgogICAgICAgIGI9YXdhaXQgcC5jaHJvbWl1bS5sYXVuY2goZXhlY3V0YWJsZV9wYXRoPSIvdXNyL2Jpbi9nb29nbGUtY2hyb21lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZ3M9WyItLW5vLXNhbmRib3giLCItLWRpc2FibGUtZGV2LXNobS11c2FnZSJdKQogICAgICAgIHBnPWF3YWl0IGIubmV3X3BhZ2UoKQogICAgICAgIGF3YWl0IHBnLnNldF9leHRyYV9odHRwX2hlYWRlcnMoeyJVc2VyLUFnZW50IjpVQX0pCiAgICAgICAgZm9yIG5hbWUsdXJsIGluIFRBUkdFVFM6CiAgICAgICAgICAgIHBjLHB0PXByb3RvKHVybCkKICAgICAgICAgICAgdDA9dGltZS50aW1lKCk7IGdjPTA7IGVycj0iIgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICByPWF3YWl0IHBnLmdvdG8odXJsLHRpbWVvdXQ9MjAwMDAsd2FpdF91bnRpbD0iZG9tY29udGVudGxvYWRlZCIpCiAgICAgICAgICAgICAgICBnYz1yLnN0YXR1cyBpZiByIGVsc2UgMAogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6IGVycj1zdHIoZSkuc3BsaXRsaW5lcygpWzBdWzo2MF0KICAgICAgICAgICAgZ3Q9dGltZS50aW1lKCktdDAKICAgICAgICAgICAgcmVzW25hbWVdPXsicHJvdG8iOnBjLCJndWkiOmdjLCJlcnIiOmVycn0KICAgICAgICAgICAgcHJpbnQoZiJ7bmFtZToxNnN9IHByb3RvPXtwYzo0ZH0gZ3VpPXtnYzo0ZH0gIHtlcnJ9IikKICAgICAgICBhd2FpdCBiLmNsb3NlKCkKICAgIHByaW50KCJcbj09PSDpl6jlnovvvIjmtJvnpZ7liIbnsbvms5XvvIk9PT0iKQogICAgZm9yIGssdiBpbiByZXMuaXRlbXMoKToKICAgICAgICBQPXZbInByb3RvIl09PTIwMDsgRz12WyJndWkiXT09MjAwCiAgICAgICAgdD0i5Lik5omH6YO95byAIiBpZiAoUCBhbmQgRykgZWxzZSAoIuS7heWNj+iuriIgaWYgUCBlbHNlICgi5LuFR1VJIiBpZiBHIGVsc2UgIuS4pOaJh+mDveWwgSIpKQogICAgICAgIHByaW50KGYiICB7azoxNnN9IHt0fSIpCiAgICBqc29uLmR1bXAocmVzLG9wZW4oImRvb3JzX2V4cGVuc2lmeS5qc29uIiwidyIpLGluZGVudD0xKQphc3luY2lvLnJ1bihtYWluKCkpCg==
+import asyncio, json, subprocess, time
+from playwright.async_api import async_playwright
+
+TARGETS = [
+ ("new.expensify",  "https://new.expensify.com/home"),
+ ("expensify.com",  "https://www.expensify.com/"),
+ ("upwork",         "https://www.upwork.com/"),
+ ("mail.qq.com",    "https://mail.qq.com"),
+ ("github.com",     "https://github.com/"),
+ ("gitee",          "https://gitee.com/dromara/easyAi"),
+]
+UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36"
+
+def proto(url):
+    t0=time.time()
+    try:
+        r=subprocess.run(["curl","-s","-o","/dev/null","-w","%{http_code}","-m","12","-A",UA,url],
+                         capture_output=True,text=True)
+        c=r.stdout.strip()
+        return (int(c) if c.isdigit() else 0), time.time()-t0
+    except Exception: return 0, time.time()-t0
+
+async def main():
+    res={}
+    async with async_playwright() as p:
+        b=await p.chromium.launch(executable_path="/usr/bin/google-chrome",
+                                  args=["--no-sandbox","--disable-dev-shm-usage"])
+        pg=await b.new_page()
+        await pg.set_extra_http_headers({"User-Agent":UA})
+        for name,url in TARGETS:
+            pc,pt=proto(url)
+            t0=time.time(); gc=0; err=""
+            try:
+                r=await pg.goto(url,timeout=20000,wait_until="domcontentloaded")
+                gc=r.status if r else 0
+            except Exception as e: err=str(e).splitlines()[0][:60]
+            gt=time.time()-t0
+            res[name]={"proto":pc,"gui":gc,"err":err}
+            print(f"{name:16s} proto={pc:4d} gui={gc:4d}  {err}")
+        await b.close()
+    print("\n=== 门型（洛神分类法）===")
+    for k,v in res.items():
+        P=v["proto"]==200; G=v["gui"]==200
+        t="两扇都开" if (P and G) else ("仅协议" if P else ("仅GUI" if G else "两扇都封"))
+        print(f"  {k:16s} {t}")
+    json.dump(res,open("doors_expensify.json","w"),indent=1)
+asyncio.run(main())

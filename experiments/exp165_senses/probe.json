@@ -1,1 +1,72 @@
-ewogInZpc2NlcmFfaW9fcmNoYXIiOiB7CiAgIm4iOiAxMjAsCiAgIm5vbnplcm9fcmF0ZSI6IDEuMCwKICAic3RkZXYiOiAzNDYzLjk4MTMzMiwKICAibWVhbiI6IDYwOTM0OC4wLAogICJyYW5nZSI6IDExOTAwLjAKIH0sCiAidmlzY2VyYV91dGltZSI6IHsKICAibiI6IDEyMCwKICAibm9uemVyb19yYXRlIjogMC4wMDg0LAogICJzdGRldiI6IDAuNDk5Mzc1LAogICJtZWFuIjogMS41MjUsCiAgInJhbmdlIjogMS4wCiB9LAogIndvcmxkX2lkbGUiOiB7CiAgIm4iOiAxMjAsCiAgIm5vbnplcm9fcmF0ZSI6IDEuMCwKICAic3RkZXYiOiAwLjQxMTQ0MiwKICAibWVhbiI6IDEzNjYuNjczLAogICJyYW5nZSI6IDEuNDEKIH0sCiAid29ybGRfdXB0aW1lIjogewogICJuIjogMTIwLAogICJub256ZXJvX3JhdGUiOiAwLjU5NjYsCiAgInN0ZGV2IjogMC4yMDc4LAogICJtZWFuIjogNjk3LjA2NywKICAicmFuZ2UiOiAwLjcxCiB9LAogImVudHJvcHlfYXZhaWwiOiB7CiAgIm4iOiAxMjAsCiAgIm5vbnplcm9fcmF0ZSI6IDAuMCwKICAic3RkZXYiOiAwLjAsCiAgIm1lYW4iOiAyNTYuMCwKICAicmFuZ2UiOiAwLjAKIH0sCiAiZmRfb3BlbiI6IHsKICAibiI6IDEyMCwKICAibm9uemVyb19yYXRlIjogMC4wLAogICJzdGRldiI6IDAuMCwKICAibWVhbiI6IDE2MC4wLAogICJyYW5nZSI6IDAuMAogfSwKICJtZW1fYXZhaWwiOiB7CiAgIm4iOiAxMjAsCiAgIm5vbnplcm9fcmF0ZSI6IDAuMCwKICAic3RkZXYiOiAwLjAsCiAgIm1lYW4iOiAxODUzNDg0LjAsCiAgInJhbmdlIjogMC4wCiB9LAogImxvYWRhdmciOiB7CiAgIm4iOiAxMjAsCiAgIm5vbnplcm9fcmF0ZSI6IDAuMDA4NCwKICAic3RkZXYiOiAwLjAyNTY4MiwKICAibWVhbiI6IDEuMDE5MywKICAicmFuZ2UiOiAwLjA4CiB9LAogImN0eF9zd2l0Y2hlcyI6IHsKICAibiI6IDEyMCwKICAibm9uemVyb19yYXRlIjogMS4wLAogICJzdGRldiI6IDMxOS4xMDYyODcsCiAgIm1lYW4iOiAxMzI0NDczLjgzMzMsCiAgInJhbmdlIjogMTA5NS4wCiB9LAogInByb2NzX3J1bm5pbmciOiB7CiAgIm4iOiAxMjAsCiAgIm5vbnplcm9fcmF0ZSI6IDAuMDUwNCwKICAic3RkZXYiOiAwLjE1NjEyNSwKICAibWVhbiI6IDEuMDI1LAogICJyYW5nZSI6IDEuMAogfQp9
+{
+ "viscera_io_rchar": {
+  "n": 120,
+  "nonzero_rate": 1.0,
+  "stdev": 3463.981332,
+  "mean": 609348.0,
+  "range": 11900.0
+ },
+ "viscera_utime": {
+  "n": 120,
+  "nonzero_rate": 0.0084,
+  "stdev": 0.499375,
+  "mean": 1.525,
+  "range": 1.0
+ },
+ "world_idle": {
+  "n": 120,
+  "nonzero_rate": 1.0,
+  "stdev": 0.411442,
+  "mean": 1366.673,
+  "range": 1.41
+ },
+ "world_uptime": {
+  "n": 120,
+  "nonzero_rate": 0.5966,
+  "stdev": 0.2078,
+  "mean": 697.067,
+  "range": 0.71
+ },
+ "entropy_avail": {
+  "n": 120,
+  "nonzero_rate": 0.0,
+  "stdev": 0.0,
+  "mean": 256.0,
+  "range": 0.0
+ },
+ "fd_open": {
+  "n": 120,
+  "nonzero_rate": 0.0,
+  "stdev": 0.0,
+  "mean": 160.0,
+  "range": 0.0
+ },
+ "mem_avail": {
+  "n": 120,
+  "nonzero_rate": 0.0,
+  "stdev": 0.0,
+  "mean": 1853484.0,
+  "range": 0.0
+ },
+ "loadavg": {
+  "n": 120,
+  "nonzero_rate": 0.0084,
+  "stdev": 0.025682,
+  "mean": 1.0193,
+  "range": 0.08
+ },
+ "ctx_switches": {
+  "n": 120,
+  "nonzero_rate": 1.0,
+  "stdev": 319.106287,
+  "mean": 1324473.8333,
+  "range": 1095.0
+ },
+ "procs_running": {
+  "n": 120,
+  "nonzero_rate": 0.0504,
+  "stdev": 0.156125,
+  "mean": 1.025,
+  "range": 1.0
+ }
+}

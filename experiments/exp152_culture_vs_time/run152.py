@@ -1,1 +1,70 @@
-IiIiMTUyOiDnrYnpooTnrpfkuIsg5paH5YyWKOWkmuS7oyvnu6fmib8pIHZzIOaXtumXtCjljZXkurrplb/ot5EpIHZzIOWIhuS7oyjkuI3nu6fmib8pIiIiCmltcG9ydCBzeXMsIGpzb24sIHRpbWUsIHN0YXRpc3RpY3MgYXMgc3QKc3lzLnBhdGguaW5zZXJ0KDAsICcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNTFfaW50ZWdyYXRpb24nKQpmcm9tIHdvcmxkMTUxIGltcG9ydCBXb3JsZApmcm9tIGFnZW50MTUxIGltcG9ydCBydW4KClQgPSAxNTAKTlJFUCA9IDgKQ1VMVCA9IHsiTDEiOiBUcnVlLCAiTDZjIjogVHJ1ZX0KU09MTyA9IHsiTDEiOiBUcnVlfQoKZGVmIGNpKHZhbHMpOgogICAgbiA9IGxlbih2YWxzKTsgbSA9IHN1bSh2YWxzKS9uCiAgICBzID0gc3Quc3RkZXYodmFscykgaWYgbiA+IDEgZWxzZSAwLjAKICAgIHNlID0gcy8obioqMC41KQogICAgcmV0dXJuIHJvdW5kKG0sMyksIHJvdW5kKG0tMS45NipzZSwzKSwgcm91bmQobSsxLjk2KnNlLDMpCgp3ID0gV29ybGQoNTAwKQpvdXQgPSB7Im1ldGEiOiB7IlQiOlQsICJucmVwIjpOUkVQLCAibm9kZXMiOncubiwgInRhcmdldHMiOmxlbih3LnRhcmdldHMpLAogICAgICAgICAgICAgICAgImRlZyI6dy5kZWdfbWVhbn0sICJjdWx0dXJlIjp7fSwgInNvbG8iOnt9LCAic29sb19zZWciOnt9fQoKIyAtLS0tIDEuIGN1bHR1cmU6IEcg5LujIMOXIDE1MCDmraXvvIzku6Ppl7Tnu6fmib8gLS0tLQpwcmludCgiPT0gY3VsdHVyZSAoaW5oZXJpdCkgPT0iKQpmb3IgRyBpbiBbMSwyLDQsOCwxNiwzMl06CiAgICBmaW5hbHMsIGtub3dzID0gW10sIFtdCiAgICB0MD10aW1lLnBlcmZfY291bnRlcigpCiAgICBmb3IgcmVwIGluIHJhbmdlKE5SRVApOgogICAgICAgIGNzID0ge30KICAgICAgICBsYXN0ID0gMAogICAgICAgIGZvciBnIGluIHJhbmdlKEcpOgogICAgICAgICAgICByID0gcnVuKHcsIENVTFQsIFQsIHJlcCoxMDAwK2csIGN1bHR1cmVfc3RvcmU9Y3MpCiAgICAgICAgICAgIGxhc3QgPSByWyJoaXRzIl0KICAgICAgICBmaW5hbHMuYXBwZW5kKGxhc3QpOyBrbm93cy5hcHBlbmQobGVuKGNzLmdldCgiZm91bmQiLFtdKSkpCiAgICBtLGxvLGhpID0gY2koZmluYWxzKQogICAgb3V0WyJjdWx0dXJlIl1bR10gPSB7InN0ZXBzIjogRypULCAibWVhbiI6bSwgImxvIjpsbywgImhpIjpoaSwKICAgICAgICAgICAgICAgICAgICAgICAgICJrbm93biI6IHJvdW5kKHN1bShrbm93cykvbGVuKGtub3dzKSwxKSwgInZhbHMiOmZpbmFsc30KICAgIHByaW50KCIgIEc9JS0zZCBzdGVwcz0lLTZkIGZpbmFsICU2LjJmIENJWyU2LjJmLCU2LjJmXSBrbm93biAlNS4xZiAoJS4xZnMpIgogICAgICAgICAgJSAoRywgRypULCBtLCBsbywgaGksIG91dFsiY3VsdHVyZSJdW0ddWyJrbm93biJdLCB0aW1lLnBlcmZfY291bnRlcigpLXQwKSwgZmx1c2g9VHJ1ZSkKCiMgLS0tLSAyLiBzb2xvOiAxIOS7oyDDlyBUX2JpZyDmraXvvIx2aXNpdGVkIOi/nue7ree0r+enryAtLS0tCnByaW50KCI9PSBzb2xvIChzaW5nbGUgbG9uZyBydW4pID09IikKZm9yIFRCIGluIFsxNTAsMzAwLDYwMCwxMjAwLDI0MDAsNDgwMCw5NjAwLDE5MjAwXToKICAgIHZhbHMgPSBbXQogICAgdDA9dGltZS5wZXJmX2NvdW50ZXIoKQogICAgZm9yIHJlcCBpbiByYW5nZShOUkVQKToKICAgICAgICByID0gcnVuKHcsIFNPTE8sIFRCLCByZXApCiAgICAgICAgdmFscy5hcHBlbmQoclsiaGl0cyJdKQogICAgbSxsbyxoaSA9IGNpKHZhbHMpCiAgICBvdXRbInNvbG8iXVtUQl0gPSB7InN0ZXBzIjpUQiwgIm1lYW4iOm0sICJsbyI6bG8sICJoaSI6aGksICJ2YWxzIjp2YWxzfQogICAgcHJpbnQoIiAgVD0lLTZkICAgICAgICAgIGZpbmFsICU2LjJmIENJWyU2LjJmLCU2LjJmXSAgICAgICAgICAgKCUuMWZzKSIKICAgICAgICAgICUgKFRCLCBtLCBsbywgaGksIHRpbWUucGVyZl9jb3VudGVyKCktdDApLCBmbHVzaD1UcnVlKQoKIyAtLS0tIDMuIHNvbG9fc2VnOiBHIOS7oyDDlyAxNTAg5q2l77yM5LiN57un5om/77yI6Zi05oCn5a+554Wn77ya5YiG5Luj5pys6Lqr5pyJ5peg5Lu35YC877yJLS0tLQpwcmludCgiPT0gc29sb19zZWcgKEcgZ2VuZXJhdGlvbnMsIE5PIGluaGVyaXQpID09IikKZm9yIEcgaW4gWzEsMiw0LDgsMTYsMzJdOgogICAgZmluYWxzID0gW10KICAgIHQwPXRpbWUucGVyZl9jb3VudGVyKCkKICAgIGZvciByZXAgaW4gcmFuZ2UoTlJFUCk6CiAgICAgICAgbGFzdCA9IDAKICAgICAgICBmb3IgZyBpbiByYW5nZShHKToKICAgICAgICAgICAgciA9IHJ1bih3LCBTT0xPLCBULCByZXAqMTAwMCtnKSAgICMg5pegIGN1bHR1cmVfc3RvcmUgLT4g5q+P5Luj5YWo5pawCiAgICAgICAgICAgIGxhc3QgPSByWyJoaXRzIl0KICAgICAgICBmaW5hbHMuYXBwZW5kKGxhc3QpCiAgICBtLGxvLGhpID0gY2koZmluYWxzKQogICAgb3V0WyJzb2xvX3NlZyJdW0ddID0geyJzdGVwcyI6RypULCAibWVhbiI6bSwgImxvIjpsbywgImhpIjpoaSwgInZhbHMiOmZpbmFsc30KICAgIHByaW50KCIgIEc9JS0zZCBzdGVwcz0lLTZkIGZpbmFsICU2LjJmIENJWyU2LjJmLCU2LjJmXSAgICAgICAgICAgKCUuMWZzKSIKICAgICAgICAgICUgKEcsIEcqVCwgbSwgbG8sIGhpLCB0aW1lLnBlcmZfY291bnRlcigpLXQwKSwgZmx1c2g9VHJ1ZSkKCmpzb24uZHVtcChvdXQsIG9wZW4oInJlc3VsdDE1Mi5qc29uIiwidyIpLCBpbmRlbnQ9MSkKcHJpbnQoInNhdmVkIHJlc3VsdDE1Mi5qc29uIikK
+"""152: 等预算下 文化(多代+继承) vs 时间(单人长跑) vs 分代(不继承)"""
+import sys, json, time, statistics as st
+sys.path.insert(0, '/data/workspace/luoshen-o1/experiments/exp151_integration')
+from world151 import World
+from agent151 import run
+
+T = 150
+NREP = 8
+CULT = {"L1": True, "L6c": True}
+SOLO = {"L1": True}
+
+def ci(vals):
+    n = len(vals); m = sum(vals)/n
+    s = st.stdev(vals) if n > 1 else 0.0
+    se = s/(n**0.5)
+    return round(m,3), round(m-1.96*se,3), round(m+1.96*se,3)
+
+w = World(500)
+out = {"meta": {"T":T, "nrep":NREP, "nodes":w.n, "targets":len(w.targets),
+                "deg":w.deg_mean}, "culture":{}, "solo":{}, "solo_seg":{}}
+
+# ---- 1. culture: G 代 × 150 步，代间继承 ----
+print("== culture (inherit) ==")
+for G in [1,2,4,8,16,32]:
+    finals, knows = [], []
+    t0=time.perf_counter()
+    for rep in range(NREP):
+        cs = {}
+        last = 0
+        for g in range(G):
+            r = run(w, CULT, T, rep*1000+g, culture_store=cs)
+            last = r["hits"]
+        finals.append(last); knows.append(len(cs.get("found",[])))
+    m,lo,hi = ci(finals)
+    out["culture"][G] = {"steps": G*T, "mean":m, "lo":lo, "hi":hi,
+                         "known": round(sum(knows)/len(knows),1), "vals":finals}
+    print("  G=%-3d steps=%-6d final %6.2f CI[%6.2f,%6.2f] known %5.1f (%.1fs)"
+          % (G, G*T, m, lo, hi, out["culture"][G]["known"], time.perf_counter()-t0), flush=True)
+
+# ---- 2. solo: 1 代 × T_big 步，visited 连续累积 ----
+print("== solo (single long run) ==")
+for TB in [150,300,600,1200,2400,4800,9600,19200]:
+    vals = []
+    t0=time.perf_counter()
+    for rep in range(NREP):
+        r = run(w, SOLO, TB, rep)
+        vals.append(r["hits"])
+    m,lo,hi = ci(vals)
+    out["solo"][TB] = {"steps":TB, "mean":m, "lo":lo, "hi":hi, "vals":vals}
+    print("  T=%-6d          final %6.2f CI[%6.2f,%6.2f]           (%.1fs)"
+          % (TB, m, lo, hi, time.perf_counter()-t0), flush=True)
+
+# ---- 3. solo_seg: G 代 × 150 步，不继承（阴性对照：分代本身有无价值）----
+print("== solo_seg (G generations, NO inherit) ==")
+for G in [1,2,4,8,16,32]:
+    finals = []
+    t0=time.perf_counter()
+    for rep in range(NREP):
+        last = 0
+        for g in range(G):
+            r = run(w, SOLO, T, rep*1000+g)   # 无 culture_store -> 每代全新
+            last = r["hits"]
+        finals.append(last)
+    m,lo,hi = ci(finals)
+    out["solo_seg"][G] = {"steps":G*T, "mean":m, "lo":lo, "hi":hi, "vals":finals}
+    print("  G=%-3d steps=%-6d final %6.2f CI[%6.2f,%6.2f]           (%.1fs)"
+          % (G, G*T, m, lo, hi, time.perf_counter()-t0), flush=True)
+
+json.dump(out, open("result152.json","w"), indent=1)
+print("saved result152.json")

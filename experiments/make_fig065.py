@@ -1,1 +1,86 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG51bXB5IGFzIG5wLCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYiBpbXBvcnQgZm9udF9tYW5hZ2VyIGFzIGZtCmZvciBmIGluIFsiV2VuUXVhbllpIE1pY3JvIEhlaSIsIk5vdG8gU2FucyBDSksgU0MiLCJTaW1IZWkiXToKICAgIHRyeToKICAgICAgICBmbS5maW5kZm9udChmLCBmYWxsYmFja190b19kZWZhdWx0PUZhbHNlKTsgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXT1bZl07IGJyZWFrCiAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl09RmFsc2UKCkQ9anNvbi5sb2FkKG9wZW4oIi4uL2RhdGEvcmVzdWx0XzA2NS5qc29uIixlbmNvZGluZz0idXRmLTgiKSkKZmlnLGF4PXBsdC5zdWJwbG90cygyLDMsZmlnc2l6ZT0oMTYuNSw5LjUpKQpSRUQ9IiNjMTEyMWYiOyBCTFU9IiMxZDM1NTciOyBHUlk9IiM4ZDk5YWUiOyBHUk49IiMyYTlkOGYiCgojICgxKSDmjaLlrr/kuLvml7bngrkKQT1EWyJBX3N3YXBfdGltaW5nIl07IGtzPVtrIGZvciBrIGluIEEgaWYgayE9Im5ldmVyIl0KeHM9W2ludChrKSBmb3IgayBpbiBrc107IGxvc3M9W0Fba11bImxvc3NfcGN0Il0qMTAwIGZvciBrIGluIGtzXQp0cj1bQVtrXVsicG9zdF9zd2FwX3Ryb3VnaCJdIGZvciBrIGluIGtzXQphPWF4WzAsMF07IGEucGxvdCh4cyxsb3NzLCJvLSIsY29sb3I9UkVELGx3PTIuMixsYWJlbD0i5o2i5a6/5Li75ZCO56iz5oCB5o2f5aSxICUiKQphLnNldF94bGFiZWwoIuaNouWuv+S4u+aXtueCue+8iOaLje+8iSIpOyBhLnNldF95bGFiZWwoIuaNn+WksSAlIixjb2xvcj1SRUQpOyBhLnRpY2tfcGFyYW1zKGF4aXM9InkiLGxhYmVsY29sb3I9UkVEKQphMj1hLnR3aW54KCk7IGEyLnBsb3QoeHMsdHIsInMtLSIsY29sb3I9QkxVLGx3PTEuOCxsYWJlbD0i6LC35bqV5Lqn5Ye677yI57ud5a+577yJIikKYTIuc2V0X3lsYWJlbCgi6LC35bqV5Lqn5Ye6Iixjb2xvcj1CTFUpOyBhMi50aWNrX3BhcmFtcyhheGlzPSJ5IixsYWJlbGNvbG9yPUJMVSkKYS5zZXRfdGl0bGUoIuKRoCDot4zliLDlupXpg73kuIDmoLfmt7HvvIxcbuWMuuWIq+WPquWcqOeIrOS4jeeIrOW+l+WbnuadpSIsZm9udHNpemU9MTEsZm9udHdlaWdodD0iYm9sZCIpCmEuZ3JpZChhbHBoYT0uMykKaDEsbDE9YS5nZXRfbGVnZW5kX2hhbmRsZXNfbGFiZWxzKCk7IGgyLGwyPWEyLmdldF9sZWdlbmRfaGFuZGxlc19sYWJlbHMoKQphLmxlZ2VuZChoMStoMixsMStsMixmb250c2l6ZT04LGxvYz0ibG93ZXIgcmlnaHQiKQoKIyAoMikg5a6/5Li75beu5byC5bqmCkI9RFsiQl9ob3N0X2Rpc3RhbmNlIl07IGI9YXhbMCwxXQpkaz1saXN0KEIua2V5cygpKTsgZHY9W0Jba11bImxvc3NfcGN0Il0qMTAwIGZvciBrIGluIGRrXQpiLnBsb3QoW2Zsb2F0KGspIGZvciBrIGluIGRrXSxkdiwiby0iLGNvbG9yPVJFRCxsdz0yLjIpCmIuYXhobGluZSgwLGNvbG9yPUdSWSxscz0iOiIsbHc9MSkKYi5hbm5vdGF0ZSgiZD0wIOmYtOaAp+WvueeFp1xu5b+F6aG75Li6IDAiLHh5PSgwLDApLHh5dGV4dD0oMC4zNSw4KSxmb250c2l6ZT04LGNvbG9yPUdSTiwKICAgICAgICAgICBhcnJvd3Byb3BzPWRpY3QoYXJyb3dzdHlsZT0iLT4iLGNvbG9yPUdSTikpCmIuc2V0X3hsYWJlbCgi5paw5a6/5Li75LiO5pen5a6/5Li755qE5beu5byCIGQiKTsgYi5zZXRfeWxhYmVsKCLmjZ/lpLEgJSIpCmIuc2V0X3RpdGxlKCLikaEg5a6/5Li76LaK5LiN5YOP77yM55WM6Z2i6LaK55So5LiN5LiKIixmb250c2l6ZT0xMSxmb250d2VpZ2h0PSJib2xkIik7IGIuZ3JpZChhbHBoYT0uMykKCiMgKDMpIOeVjOmdoueJueW8guW6pgpDPURbIkNfc2lnbWEiXTsgYz1heFswLDJdCmNrPWxpc3QoQy5rZXlzKCkpOyBjdj1bQ1trXVsibG9zc19wY3QiXSoxMDAgZm9yIGsgaW4gY2tdCmMucGxvdChbZmxvYXQoaykgZm9yIGsgaW4gY2tdLGN2LCJvLSIsY29sb3I9UkVELGx3PTIuMikKYy5zZXRfeHNjYWxlKCJsb2ciKTsgYy5zZXRfeGxhYmVsKCLnlYzpnaLnibnlvILluqYgz4PvvIjotorlsI/otornibnlvILvvIkiKTsgYy5zZXRfeWxhYmVsKCLmjZ/lpLEgJSIpCmMuc2V0X3RpdGxlKCLikaIg55WM6Z2i6LaK54m55YyW77yM6LaK5LiN5Y+v6L+B56e7Iixmb250c2l6ZT0xMSxmb250d2VpZ2h0PSJib2xkIik7IGMuZ3JpZChhbHBoYT0uMykKCiMgKDQpIOWkmuWuv+S4uyB2cyDkuJPkuIAKRG09RFsiRF9tdWx0aV9ob3N0Il07IGQ9YXhbMSwwXQpuaz1bIjEiLCIyIiwiMyJdOyBvdj1bRG1ba11bImZpbmFsX291dCJdIGZvciBrIGluIG5rXTsgbXY9W0RtW2tdWyJmaW5hbF9tYXRjaCJdIGZvciBrIGluIG5rXQp4cD1ucC5hcmFuZ2UoMyk7IHc9MC4zOApkLmJhcih4cC13LzIsb3Ysdyxjb2xvcj1SRUQsbGFiZWw9IuS6p+WHuiIpCmQuYmFyKHhwK3cvMixtdix3LGNvbG9yPUJMVSxsYWJlbD0i55WM6Z2i5Yy56YWN5bqmIikKZm9yIGksKG8sbSkgaW4gZW51bWVyYXRlKHppcChvdixtdikpOgogICAgZC50ZXh0KGktdy8yLG8rLjAxLGYie286LjNmfSIsaGE9ImNlbnRlciIsZm9udHNpemU9OC41KQogICAgZC50ZXh0KGkrdy8yLG0rLjAxLGYie206LjNmfSIsaGE9ImNlbnRlciIsZm9udHNpemU9OC41KQpkLnNldF94dGlja3MoeHApOyBkLnNldF94dGlja2xhYmVscyhbIuS4k+S4gCAobj0xKSIsIm49MiIsIm49MyJdKQpkLnNldF95bGltKDAsMS4xMik7IGQubGVnZW5kKGZvbnRzaXplPTgpCmQuc2V0X3RpdGxlKCLikaMg5aSa5a6/5Li75piv5Yqj5Yq/5LiN5piv5L+d6ZmpXG7vvIgwNjQg5aSE5pa56KKr5o6o57+777yJIixmb250c2l6ZT0xMSxmb250d2VpZ2h0PSJib2xkIixjb2xvcj1SRUQpCmQuZ3JpZChhbHBoYT0uMyxheGlzPSJ5IikKCiMgKDUpIOeLrOeri+aAp+iQjue8qQpFPURbIkVfaW5kZXBlbmRlbmNlIl07IGU9YXhbMSwxXQplaz1bIjUwIiwiMjAwIiwiMzUwIl07IGl2PVtFW2tdWyJpbmRfYXRfc3dhcCJdIGZvciBrIGluIGVrXTsgb3YyPVtFW2tdWyJmaW5hbF9vdXQiXSBmb3IgayBpbiBla10KZS5wbG90KFtpbnQoaykgZm9yIGsgaW4gZWtdLGl2LCJvLSIsY29sb3I9QkxVLGx3PTIuMixsYWJlbD0i5o2i5a6/5Li75pe255qE54us56uL5oCnIikKZS5heGhsaW5lKEVbIm1vbm9faW5kIl0sY29sb3I9R1JZLGxzPSItLSIsbHc9MS40LGxhYmVsPSLnu4jmgIHni6znq4vmgKfkuIvpmZAiKQplLnNldF94bGFiZWwoIuaNouWuv+S4u+aXtueCue+8iOaLje+8iSIpOyBlLnNldF95bGFiZWwoIueLrOeri+aApyIpOyBlLnNldF95bGltKDAsMS4wNSkKZS5sZWdlbmQoZm9udHNpemU9OCk7IGUuZ3JpZChhbHBoYT0uMykKZS5zZXRfdGl0bGUoIuKRpCDlhbHnlJ/otormt7HvvIzotormjaLkuI3liqgiLGZvbnRzaXplPTExLGZvbnR3ZWlnaHQ9ImJvbGQiKQoKIyAoNikg5Yi26KOBCkY9RFsiRl9zYW5jdGlvbnMiXTsgZj1heFsxLDJdCmxhYj1bIuWItuijgcK35ZCI5L2cIiwi5Yi26KOBwrfog4zlj5siLCLml6DliLboo4HCt+WQiOS9nCIsIuaXoOWItuijgcK36IOM5Y+bIl0Ka2V5PVsic2FuPVRydWUsY2hlYXQ9RmFsc2UiLCJzYW49VHJ1ZSxjaGVhdD1UcnVlIiwic2FuPUZhbHNlLGNoZWF0PUZhbHNlIiwic2FuPUZhbHNlLGNoZWF0PVRydWUiXQpzdj1bRltrXVsic2VsZl9nYWluIl0gZm9yIGsgaW4ga2V5XQpjb2xzPVtHUk4sR1JZLEdSTixSRURdCmJhcnM9Zi5iYXIocmFuZ2UoNCksc3YsY29sb3I9Y29scykKZm9yIGksdiBpbiBlbnVtZXJhdGUoc3YpOiBmLnRleHQoaSx2Ky4wMTUsZiJ7djouM2Z9IixoYT0iY2VudGVyIixmb250c2l6ZT05KQpmLnNldF94dGlja3MocmFuZ2UoNCkpOyBmLnNldF94dGlja2xhYmVscyhsYWIsZm9udHNpemU9OC41KQpmLnNldF95bGFiZWwoIuWFseeUn+S9k+iHqui6q+aUtuebiiIpOyBmLnNldF95bGltKDAsMC45NSkKZi5zZXRfdGl0bGUoIuKRpSDog4zlj5vmnInliKnlj6/lm74g4oaSXG7liLboo4HmmK/lhbHnlJ/nqLPlrprnmoTlv4XopoHmnaHku7YiLGZvbnRzaXplPTExLGZvbnR3ZWlnaHQ9ImJvbGQiKQpmLmdyaWQoYWxwaGE9LjMsYXhpcz0ieSIpCgpwbHQuc3VwdGl0bGUoIjA2NSDCtyDlhbHnlJ/kvZPvvJrmjaLlrr/kuLvnmoTku6Pku7cg4oCU4oCUIOeVjOmdouS4jeWPr+i/geenu++8jOS4jeaYr+iiq+aDqee9miIsCiAgICAgICAgICAgICBmb250c2l6ZT0xNC41LGZvbnR3ZWlnaHQ9ImJvbGQiLHk9MC45ODUpCnBsdC50aWdodF9sYXlvdXQocmVjdD1bMCwwLDEsMC45NTVdKQpwbHQuc2F2ZWZpZygiLi4vZmlnLzA2NV9zeW1iaW9udC5wbmciLGRwaT0xNTApCnByaW50KCJzYXZlZCAuLi9maWcvMDY1X3N5bWJpb250LnBuZyIpCg==
+# -*- coding: utf-8 -*-
+import json, numpy as np, matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager as fm
+for f in ["WenQuanYi Micro Hei","Noto Sans CJK SC","SimHei"]:
+    try:
+        fm.findfont(f, fallback_to_default=False); plt.rcParams["font.sans-serif"]=[f]; break
+    except Exception: pass
+plt.rcParams["axes.unicode_minus"]=False
+
+D=json.load(open("../data/result_065.json",encoding="utf-8"))
+fig,ax=plt.subplots(2,3,figsize=(16.5,9.5))
+RED="#c1121f"; BLU="#1d3557"; GRY="#8d99ae"; GRN="#2a9d8f"
+
+# (1) 换宿主时点
+A=D["A_swap_timing"]; ks=[k for k in A if k!="never"]
+xs=[int(k) for k in ks]; loss=[A[k]["loss_pct"]*100 for k in ks]
+tr=[A[k]["post_swap_trough"] for k in ks]
+a=ax[0,0]; a.plot(xs,loss,"o-",color=RED,lw=2.2,label="换宿主后稳态损失 %")
+a.set_xlabel("换宿主时点（拍）"); a.set_ylabel("损失 %",color=RED); a.tick_params(axis="y",labelcolor=RED)
+a2=a.twinx(); a2.plot(xs,tr,"s--",color=BLU,lw=1.8,label="谷底产出（绝对）")
+a2.set_ylabel("谷底产出",color=BLU); a2.tick_params(axis="y",labelcolor=BLU)
+a.set_title("① 跌到底都一样深，\n区别只在爬不爬得回来",fontsize=11,fontweight="bold")
+a.grid(alpha=.3)
+h1,l1=a.get_legend_handles_labels(); h2,l2=a2.get_legend_handles_labels()
+a.legend(h1+h2,l1+l2,fontsize=8,loc="lower right")
+
+# (2) 宿主差异度
+B=D["B_host_distance"]; b=ax[0,1]
+dk=list(B.keys()); dv=[B[k]["loss_pct"]*100 for k in dk]
+b.plot([float(k) for k in dk],dv,"o-",color=RED,lw=2.2)
+b.axhline(0,color=GRY,ls=":",lw=1)
+b.annotate("d=0 阴性对照\n必须为 0",xy=(0,0),xytext=(0.35,8),fontsize=8,color=GRN,
+           arrowprops=dict(arrowstyle="->",color=GRN))
+b.set_xlabel("新宿主与旧宿主的差异 d"); b.set_ylabel("损失 %")
+b.set_title("② 宿主越不像，界面越用不上",fontsize=11,fontweight="bold"); b.grid(alpha=.3)
+
+# (3) 界面特异度
+C=D["C_sigma"]; c=ax[0,2]
+ck=list(C.keys()); cv=[C[k]["loss_pct"]*100 for k in ck]
+c.plot([float(k) for k in ck],cv,"o-",color=RED,lw=2.2)
+c.set_xscale("log"); c.set_xlabel("界面特异度 σ（越小越特异）"); c.set_ylabel("损失 %")
+c.set_title("③ 界面越特化，越不可迁移",fontsize=11,fontweight="bold"); c.grid(alpha=.3)
+
+# (4) 多宿主 vs 专一
+Dm=D["D_multi_host"]; d=ax[1,0]
+nk=["1","2","3"]; ov=[Dm[k]["final_out"] for k in nk]; mv=[Dm[k]["final_match"] for k in nk]
+xp=np.arange(3); w=0.38
+d.bar(xp-w/2,ov,w,color=RED,label="产出")
+d.bar(xp+w/2,mv,w,color=BLU,label="界面匹配度")
+for i,(o,m) in enumerate(zip(ov,mv)):
+    d.text(i-w/2,o+.01,f"{o:.3f}",ha="center",fontsize=8.5)
+    d.text(i+w/2,m+.01,f"{m:.3f}",ha="center",fontsize=8.5)
+d.set_xticks(xp); d.set_xticklabels(["专一 (n=1)","n=2","n=3"])
+d.set_ylim(0,1.12); d.legend(fontsize=8)
+d.set_title("④ 多宿主是劣势不是保险\n（064 处方被推翻）",fontsize=11,fontweight="bold",color=RED)
+d.grid(alpha=.3,axis="y")
+
+# (5) 独立性萎缩
+E=D["E_independence"]; e=ax[1,1]
+ek=["50","200","350"]; iv=[E[k]["ind_at_swap"] for k in ek]; ov2=[E[k]["final_out"] for k in ek]
+e.plot([int(k) for k in ek],iv,"o-",color=BLU,lw=2.2,label="换宿主时的独立性")
+e.axhline(E["mono_ind"],color=GRY,ls="--",lw=1.4,label="终态独立性下限")
+e.set_xlabel("换宿主时点（拍）"); e.set_ylabel("独立性"); e.set_ylim(0,1.05)
+e.legend(fontsize=8); e.grid(alpha=.3)
+e.set_title("⑤ 共生越深，越换不动",fontsize=11,fontweight="bold")
+
+# (6) 制裁
+F=D["F_sanctions"]; f=ax[1,2]
+lab=["制裁·合作","制裁·背叛","无制裁·合作","无制裁·背叛"]
+key=["san=True,cheat=False","san=True,cheat=True","san=False,cheat=False","san=False,cheat=True"]
+sv=[F[k]["self_gain"] for k in key]
+cols=[GRN,GRY,GRN,RED]
+bars=f.bar(range(4),sv,color=cols)
+for i,v in enumerate(sv): f.text(i,v+.015,f"{v:.3f}",ha="center",fontsize=9)
+f.set_xticks(range(4)); f.set_xticklabels(lab,fontsize=8.5)
+f.set_ylabel("共生体自身收益"); f.set_ylim(0,0.95)
+f.set_title("⑥ 背叛有利可图 →\n制裁是共生稳定的必要条件",fontsize=11,fontweight="bold")
+f.grid(alpha=.3,axis="y")
+
+plt.suptitle("065 · 共生体：换宿主的代价 —— 界面不可迁移，不是被惩罚",
+             fontsize=14.5,fontweight="bold",y=0.985)
+plt.tight_layout(rect=[0,0,1,0.955])
+plt.savefig("../fig/065_symbiont.png",dpi=150)
+print("saved ../fig/065_symbiont.png")

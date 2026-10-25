@@ -1,1 +1,113 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG9zCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IGZvbnRfbWFuYWdlcgoKT1VUID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCkZQID0gIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd2VucXVhbnlpL3dxeS1taWNyby1oZWkudHRjIgppZiBvcy5wYXRoLmV4aXN0cyhGUCk6CiAgICBmb250X21hbmFnZXIuZm9udE1hbmFnZXIuYWRkZm9udChGUCkKICAgIHBsdC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJXZW5RdWFuWWkgTWljcm8gSGVpIgpwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdID0gRmFsc2UKCmIgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oT1VULCAicmVzdWx0XzEwMWIuanNvbiIpKSkKYyA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHRfMTAxYy5qc29uIikpKQpkID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKE9VVCwgInJlc3VsdF8xMDFkLmpzb24iKSkpCmUgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oT1VULCAicmVzdWx0XzEwMWUuanNvbiIpKSkKCmZpZywgYXggPSBwbHQuc3VicGxvdHMoMiwgMywgZmlnc2l6ZT0oMTksIDEwLjUpKQpmaWcuc3VwdGl0bGUoIjEwMSDCtyDkuLvliqjmiavop4bpnaDku4DkuYjnnIvmuIXvvJrkuI3mmK/nnIvlvpflpJrvvIzmmK/ot7Plvpflr7kiLCBmb250c2l6ZT0xNiwgeT0wLjk4NSkKCiMgLS0tICgwLDApIDEwMWIg5Li757uT5p6cIC0tLQpBID0gYXhbMCwgMF0KbW9kZXMgPSBbIlArQUNUSVZFIiwgIk4rQUNUSVZFIiwgIlArRklYRUQiLCAiTitGSVhFRCJdCmxibCA9IFsi5ZGo6L65K+S4u+WKqCIsICLnm7LliqgiLCAi5ZGo6L65K+S4jeWKqCIsICLkuI3liqgo5Z+657q/KSJdCmFjYyA9IFtiW21dWyJhY2MiXSBmb3IgbSBpbiBtb2Rlc10Ka3AgPSBbYlttXVsibl9rcCJdIGZvciBtIGluIG1vZGVzXQp4ID0gbnAuYXJhbmdlKDQpCkEuYmFyKHggLSAwLjIsIGFjYywgMC40LCBjb2xvcj0iIzJiN2JiYSIsIGxhYmVsPSLor4bliKvnjociKQpBLmJhcih4ICsgMC4yLCBucC5hcnJheShrcCkgLyBtYXgoa3ApLCAwLjQsIGNvbG9yPSIjZTA4MjE0IiwgbGFiZWw9Iue0r+enr+eJueW+gSjlvZLkuIApIikKZm9yIGksIChhXywga18pIGluIGVudW1lcmF0ZSh6aXAoYWNjLCBrcCkpOgogICAgQS50ZXh0KGkgLSAwLjIsIGFfICsgMC4wMiwgZiJ7YV86LjNmfSIsIGhhPSJjZW50ZXIiLCBmb250c2l6ZT05KQogICAgQS50ZXh0KGkgKyAwLjIsIGtfIC8gbWF4KGtwKSArIDAuMDIsIGYie2tfOi4wZn0iLCBoYT0iY2VudGVyIiwgZm9udHNpemU9OSkKQS5heGhsaW5lKDEgLyA4LCBjb2xvcj0iZ3JheSIsIGxzPSItLSIsIGx3PTEpCkEudGV4dCgzLjQ1LCAxIC8gOCArIDAuMDIsICLpmo/mnLogMS84IiwgZm9udHNpemU9OCwgY29sb3I9ImdyYXkiLCBoYT0icmlnaHQiKQpBLnNldF94dGlja3MoeCk7IEEuc2V0X3h0aWNrbGFiZWxzKGxibCwgZm9udHNpemU9MTApCkEuc2V0X3lsaW0oMCwgMS4xOCk7IEEuc2V0X3RpdGxlKCLikaAg5Li757uT5p6c77ya5LiJ6ICF57y65LiA5LiN5Y+vIChUPTYpIiwgZm9udHNpemU9MTIpCkEubGVnZW5kKGZvbnRzaXplPTgsIGxvYz0idXBwZXIgbGVmdCIpCgojIC0tLSAoMCwxKSBDMSDlgYflvJXlr7wgLS0tCkEgPSBheFswLCAxXQprMSA9IGxpc3QoY1siQzFfc2hhbSJdLmtleXMoKSkKdjEgPSBbY1siQzFfc2hhbSJdW2tdWyJhY2MiXSBmb3IgayBpbiBrMV0KbDEgPSBbIuecn+W8leWvvCIsICLlgYflvJXlr7xcbijlkIzmoLfot7PmlbApIiwgIuebsuWKqCIsICLkuI3liqgiXQpjb2xzID0gWyIjMmI3YmJhIiwgIiNjMDM5MmIiLCAiI2UwODIxNCIsICIjN2Y4YzhkIl0KYmFycyA9IEEuYmFyKGwxLCB2MSwgY29sb3I9Y29scykKZm9yIGJiLCB2IGluIHppcChiYXJzLCB2MSk6CiAgICBBLnRleHQoYmIuZ2V0X3goKSArIGJiLmdldF93aWR0aCgpIC8gMiwgdiArIDAuMDIsIGYie3Y6LjNmfSIsIGhhPSJjZW50ZXIiLCBmb250c2l6ZT0xMCkKQS5heGhsaW5lKDEgLyA4LCBjb2xvcj0iZ3JheSIsIGxzPSItLSIsIGx3PTEpCkEuc2V0X3lsaW0oMCwgMS4xOCkKQS5zZXRfdGl0bGUoIuKRoSDlgYflvJXlr7zvvJrlnY/lvJXlr7zmr5TmsqHlvJXlr7zmm7Tns58iLCBmb250c2l6ZT0xMikKQS5zZXRfeWxhYmVsKCLor4bliKvnjociLCBmb250c2l6ZT05KQoKIyAtLS0gKDAsMikgQzQg5byV5a+86LSo6YeP5YmC6YePIC0tLQpBID0gYXhbMCwgMl0Ka3MgPSBzb3J0ZWQoY1siQzRfc2NyYW1ibGUiXS5rZXlzKCkpCnBzID0gW2Zsb2F0KGsuc3BsaXQoIj0iKVsxXSkgZm9yIGsgaW4ga3NdCnZzID0gW2NbIkM0X3NjcmFtYmxlIl1ba11bImFjYyJdIGZvciBrIGluIGtzXQpBLnBsb3QocHMsIHZzLCAiby0iLCBjb2xvcj0iIzJiN2JiYSIsIGx3PTIsIG1zPTcsIGxhYmVsPSLor4bliKvnjociKQpBLmF4aGxpbmUoMSAvIDgsIGNvbG9yPSJncmF5IiwgbHM9Ii0tIiwgbHc9MSwgbGFiZWw9Iumaj+acuiAxLzgiKQpBLnNldF94bGFiZWwoIuaYvuiRl+aAp+Wbvuiiq+aJk+S5seeahOavlOS+iyIsIGZvbnRzaXplPTEwKQpBLnNldF95bGFiZWwoIuivhuWIq+eOhyIsIGZvbnRzaXplPTkpCkEuc2V0X3lsaW0oMCwgMS4xKQpBLnNldF90aXRsZSgi4pGiIOW8leWvvOi0qOmHj+WJgumHj++8mumaj+S/oeaBr+egtOWdj+WNleiwg+S4i+mZjSIsIGZvbnRzaXplPTEyKQpBLmxlZ2VuZChmb250c2l6ZT04KQoKIyAtLS0gKDEsMCkgQzMg6aKE566X5YmC6YePIC0tLQpBID0gYXhbMSwgMF0KVHMgPSBbMSwgMiwgMywgNCwgNiwgOCwgMTJdCmZvciBtb2RlLCBjb2wsIG1rIGluIFsoIkdVSURFRCIsICIjMmI3YmJhIiwgIm8iKSwgKCJCTElORCIsICIjZTA4MjE0IiwgInMiKSwKICAgICAgICAgICAgICAgICAgICAgICgiRklYRUQiLCAiIzdmOGM4ZCIsICJeIildOgogICAgdnMgPSBbY1siQzNfYnVkZ2V0Il1bZiJUPXt0fSJdW21vZGVdWyJhY2MiXSBmb3IgdCBpbiBUc10KICAgIEEucGxvdChUcywgdnMsIG1rICsgIi0iLCBjb2xvcj1jb2wsIGx3PTIsIG1zPTYsIGxhYmVsPW1vZGUpCkEuYXhobGluZSgxIC8gOCwgY29sb3I9ImdyYXkiLCBscz0iLS0iLCBsdz0xKQpBLnNldF94bGFiZWwoIumHh+agt+mihOeulyBU77yI5omr6KeG5qyh5pWw77yJIiwgZm9udHNpemU9MTApCkEuc2V0X3lsYWJlbCgi6K+G5Yir546HIiwgZm9udHNpemU9OSkKQS5zZXRfeWxpbSgwLCAxLjEpCkEuc2V0X3RpdGxlKCLikaMg6aKE566X5YmC6YeP77ya5LiN5Yqo6ICF55yL5Yiw5q275Lmf5LiN5raoIiwgZm9udHNpemU9MTIpCkEubGVnZW5kKGZvbnRzaXplPTkpCgojIC0tLSAoMSwxKSAxMDFlIOWJgumHj+absue6vyAtLS0KQSA9IGF4WzEsIDFdCkxWID0gZVsiX21ldGEiXVsiTEVWRUxTIl0KZGV0ID0gW2VbZiJ7bHY6LjJmfSJdWyJkZXQiXVsibWVhbiJdIGZvciBsdiBpbiBMVl0Kc3RvID0gW2VbZiJ7bHY6LjJmfSJdWyJzdG9jaCJdWyJtZWFuIl0gZm9yIGx2IGluIExWXQpBLnBsb3QoTFYsIGRldCwgIm8tIiwgY29sb3I9IiMyYjdiYmEiLCBsdz0yLCBtcz02LCBsYWJlbD0i56Gu5a6a5oCn6L6T5YWlIikKQS5wbG90KExWLCBzdG8sICJzLS0iLCBjb2xvcj0iI2UwODIxNCIsIGx3PTIsIG1zPTYsIGxhYmVsPSLpmo/mnLrovpPlhaUo5ZCM5Z2H5YC8KSIpCkEuYXhobGluZShlWyJfbm9uZSJdWyJtZWFuIl0sIGNvbG9yPSIjYzAzOTJiIiwgbHM9IjoiLCBsdz0yLCBsYWJlbD0i5a6M5YWo5peg5oSf5a6YIikKQS5heHZzcGFuKDAuMDgsIDAuMTIsIGNvbG9yPSJ5ZWxsb3ciLCBhbHBoYT0wLjI1KQpBLnRleHQoMC4xMCwgMS45LCAi55u45Y+Y5Yy6XG4wLjA44oaSMC4xMiIsIGZvbnRzaXplPTksIGhhPSJjZW50ZXIiLCBjb2xvcj0iIzhhNmQwMCIpCkEuc2V0X3hsYWJlbCgi5oSf5a6Y5L+h5Y+35by65bqm77yI5Z2H5YC877yJIiwgZm9udHNpemU9MTApCkEuc2V0X3lsYWJlbCgiY2FwYWNpdHkg5YGP5bqmIiwgZm9udHNpemU9OSkKQS5zZXRfdGl0bGUoIuKRpCDmhJ/lrpjliYLph4/vvJrpmIjlgLzlkI7lvbvlupXlubPlnaYiLCBmb250c2l6ZT0xMikKQS5sZWdlbmQoZm9udHNpemU9OCkKCiMgLS0tICgxLDIpIDEwMWUg55u46YK75pac546HICsg55Sf5oCB57uEIC0tLQpBID0gYXhbMSwgMl0Kam0gPSBlWyJqdW1wcyJdCnNsID0gW2FicyhqWyJwZXJfdW5pdCJdKSBmb3IgaiBpbiBqbV0KeHMgPSBbZiJ7alsnZnJtJ106LjJmfVxu4oaSe2pbJ3RvJ106LjJmfSIgZm9yIGogaW4gam1dCmNvbHMyID0gWyIjYzAzOTJiIiBpZiBqWyJzaWciXSBlbHNlICIjOTVhNWE2IiBmb3IgaiBpbiBqbV0KQS5iYXIoeHMsIHNsLCBjb2xvcj1jb2xzMikKQS5zZXRfeXNjYWxlKCJsb2ciKQpBLnNldF95bGFiZWwoIuavj+WNleS9jeaWnOeOh++8iOWvueaVsO+8iSIsIGZvbnRzaXplPTkpCkEuc2V0X3RpdGxlKCLikaUg55u46YK76Lez5Y+Y77ya6ZiI5YC85aSE5pac546HIOKIkjM277yI57qi6ImyPeaYvuiRl++8iSIsIGZvbnRzaXplPTEyKQpBLnRpY2tfcGFyYW1zKGF4aXM9IngiLCBsYWJlbHNpemU9NykKCnBsdC50aWdodF9sYXlvdXQocmVjdD1bMCwgMCwgMSwgMC45NjVdKQpwID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2ZpZy8xMDFfc2FjY2FkZS5wbmciCnBsdC5zYXZlZmlnKHAsIGRwaT0xMzUpCnByaW50KCJzYXZlZCIsIHApCg==
+# -*- coding: utf-8 -*-
+import json, os
+import numpy as np
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+FP = "/usr/share/fonts/truetype/wenquanyi/wqy-micro-hei.ttc"
+if os.path.exists(FP):
+    font_manager.fontManager.addfont(FP)
+    plt.rcParams["font.family"] = "WenQuanYi Micro Hei"
+plt.rcParams["axes.unicode_minus"] = False
+
+b = json.load(open(os.path.join(OUT, "result_101b.json")))
+c = json.load(open(os.path.join(OUT, "result_101c.json")))
+d = json.load(open(os.path.join(OUT, "result_101d.json")))
+e = json.load(open(os.path.join(OUT, "result_101e.json")))
+
+fig, ax = plt.subplots(2, 3, figsize=(19, 10.5))
+fig.suptitle("101 · 主动扫视靠什么看清：不是看得多，是跳得对", fontsize=16, y=0.985)
+
+# --- (0,0) 101b 主结果 ---
+A = ax[0, 0]
+modes = ["P+ACTIVE", "N+ACTIVE", "P+FIXED", "N+FIXED"]
+lbl = ["周边+主动", "盲动", "周边+不动", "不动(基线)"]
+acc = [b[m]["acc"] for m in modes]
+kp = [b[m]["n_kp"] for m in modes]
+x = np.arange(4)
+A.bar(x - 0.2, acc, 0.4, color="#2b7bba", label="识别率")
+A.bar(x + 0.2, np.array(kp) / max(kp), 0.4, color="#e08214", label="累积特征(归一)")
+for i, (a_, k_) in enumerate(zip(acc, kp)):
+    A.text(i - 0.2, a_ + 0.02, f"{a_:.3f}", ha="center", fontsize=9)
+    A.text(i + 0.2, k_ / max(kp) + 0.02, f"{k_:.0f}", ha="center", fontsize=9)
+A.axhline(1 / 8, color="gray", ls="--", lw=1)
+A.text(3.45, 1 / 8 + 0.02, "随机 1/8", fontsize=8, color="gray", ha="right")
+A.set_xticks(x); A.set_xticklabels(lbl, fontsize=10)
+A.set_ylim(0, 1.18); A.set_title("① 主结果：三者缺一不可 (T=6)", fontsize=12)
+A.legend(fontsize=8, loc="upper left")
+
+# --- (0,1) C1 假引导 ---
+A = ax[0, 1]
+k1 = list(c["C1_sham"].keys())
+v1 = [c["C1_sham"][k]["acc"] for k in k1]
+l1 = ["真引导", "假引导\n(同样跳数)", "盲动", "不动"]
+cols = ["#2b7bba", "#c0392b", "#e08214", "#7f8c8d"]
+bars = A.bar(l1, v1, color=cols)
+for bb, v in zip(bars, v1):
+    A.text(bb.get_x() + bb.get_width() / 2, v + 0.02, f"{v:.3f}", ha="center", fontsize=10)
+A.axhline(1 / 8, color="gray", ls="--", lw=1)
+A.set_ylim(0, 1.18)
+A.set_title("② 假引导：坏引导比没引导更糟", fontsize=12)
+A.set_ylabel("识别率", fontsize=9)
+
+# --- (0,2) C4 引导质量剂量 ---
+A = ax[0, 2]
+ks = sorted(c["C4_scramble"].keys())
+ps = [float(k.split("=")[1]) for k in ks]
+vs = [c["C4_scramble"][k]["acc"] for k in ks]
+A.plot(ps, vs, "o-", color="#2b7bba", lw=2, ms=7, label="识别率")
+A.axhline(1 / 8, color="gray", ls="--", lw=1, label="随机 1/8")
+A.set_xlabel("显著性图被打乱的比例", fontsize=10)
+A.set_ylabel("识别率", fontsize=9)
+A.set_ylim(0, 1.1)
+A.set_title("③ 引导质量剂量：随信息破坏单调下降", fontsize=12)
+A.legend(fontsize=8)
+
+# --- (1,0) C3 预算剂量 ---
+A = ax[1, 0]
+Ts = [1, 2, 3, 4, 6, 8, 12]
+for mode, col, mk in [("GUIDED", "#2b7bba", "o"), ("BLIND", "#e08214", "s"),
+                      ("FIXED", "#7f8c8d", "^")]:
+    vs = [c["C3_budget"][f"T={t}"][mode]["acc"] for t in Ts]
+    A.plot(Ts, vs, mk + "-", color=col, lw=2, ms=6, label=mode)
+A.axhline(1 / 8, color="gray", ls="--", lw=1)
+A.set_xlabel("采样预算 T（扫视次数）", fontsize=10)
+A.set_ylabel("识别率", fontsize=9)
+A.set_ylim(0, 1.1)
+A.set_title("④ 预算剂量：不动者看到死也不涨", fontsize=12)
+A.legend(fontsize=9)
+
+# --- (1,1) 101e 剂量曲线 ---
+A = ax[1, 1]
+LV = e["_meta"]["LEVELS"]
+det = [e[f"{lv:.2f}"]["det"]["mean"] for lv in LV]
+sto = [e[f"{lv:.2f}"]["stoch"]["mean"] for lv in LV]
+A.plot(LV, det, "o-", color="#2b7bba", lw=2, ms=6, label="确定性输入")
+A.plot(LV, sto, "s--", color="#e08214", lw=2, ms=6, label="随机输入(同均值)")
+A.axhline(e["_none"]["mean"], color="#c0392b", ls=":", lw=2, label="完全无感官")
+A.axvspan(0.08, 0.12, color="yellow", alpha=0.25)
+A.text(0.10, 1.9, "相变区\n0.08→0.12", fontsize=9, ha="center", color="#8a6d00")
+A.set_xlabel("感官信号强度（均值）", fontsize=10)
+A.set_ylabel("capacity 偏度", fontsize=9)
+A.set_title("⑤ 感官剂量：阈值后彻底平坦", fontsize=12)
+A.legend(fontsize=8)
+
+# --- (1,2) 101e 相邻斜率 + 生态组 ---
+A = ax[1, 2]
+jm = e["jumps"]
+sl = [abs(j["per_unit"]) for j in jm]
+xs = [f"{j['frm']:.2f}\n→{j['to']:.2f}" for j in jm]
+cols2 = ["#c0392b" if j["sig"] else "#95a5a6" for j in jm]
+A.bar(xs, sl, color=cols2)
+A.set_yscale("log")
+A.set_ylabel("每单位斜率（对数）", fontsize=9)
+A.set_title("⑥ 相邻跳变：阈值处斜率 −36（红色=显著）", fontsize=12)
+A.tick_params(axis="x", labelsize=7)
+
+plt.tight_layout(rect=[0, 0, 1, 0.965])
+p = "/data/workspace/luoshen-o1/fig/101_saccade.png"
+plt.savefig(p, dpi=135)
+print("saved", p)

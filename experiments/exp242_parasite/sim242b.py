@@ -1,1 +1,59 @@
-aW1wb3J0IGpzb24KZGVmIHNpbShkQUIsIGRCQSwgcmF0aW89MC43LCBXPTEwLjAsIFJtYXg9MjAuMCwgUm1pbj0xLjAsIGdhdGU9MC4wLCB2aXI9MC4wLCBUPTQwMCk6CiAgICAiIiIKICAgIHYyICh2MeS9nOW6nzogcmF0aW/lm7rlrpowLjTlr7zoh7RvY2N1cHk9MTAuNDDmgZLlrposIEHkvqflhagwLCDmqKHlvI/pm7bljLrliIbluqYpCiAgICByYXRpbz0wLjcgLT4gc2lmdD0wLjQgLT4gb2NjdXB5PTQuMjAgLT4gQV9ncm93dGhfYmFzZT0wLjU4IOeVmeWHuuWIhui+qOeOhwogICAgZEJBOiBC5L6d6LWWQSAtPiBC55qE5Lqn5Ye65b+F6aG76JC95ZueQeaJjeacieWAvCgyMzjlj7cpCiAgICBkQUI6IEHkvp3otZZCIC0+IEHnmoTlhoXnlJ/pqbHliqjooqvlpJbljIUgLT4gZW5kb19sb3NzCiAgICB2aXI6IOavkuWKmyAtPiDpop3lpJblkIPmjolB5bim5a69KOeXheavknZz5a+E55Sf55qE5Yy65YirKQogICAgIiIiCiAgICByYXRlICA9IFJtYXgqKDEtcmF0aW8pK1JtaW4KICAgIHNpZnQgID0gbWluKDEuMCwgYWJzKHJhdGlvLTAuNSkqMi4wICsgZ2F0ZSooMS1hYnMocmF0aW8tMC41KSoyLjApKQogICAgb2NjdXB5PSByYXRlKigxLXNpZnQpICsgdmlyKlcqMC41CiAgICBiYXNlICA9IG1heCgwLjAsKFctb2NjdXB5KS9XKQogICAgZW5kbyAgPSAxLjAtZEFCCiAgICBBX2dyb3d0aCA9IGJhc2UqZW5kbwogICAgQV9qdW1wICAgPSBBX2dyb3d0aCplbmRvICAgICAgICAgICAgIyDkuIvkuIDot7PpnIDopoHlhoXnlJ8oMjM55Y+3KSwg5bmz5pa55oqY5o2fCiAgICBCX2xhbmRlZCA9IHJhdGUqZEJBCiAgICBCX3N1cnZpdmU9IGRCQQogICAgcmV0dXJuIGRpY3Qo5Y2g55SoPXJvdW5kKG9jY3VweSwyKSwgQeWinumVvz1yb3VuZChBX2dyb3d0aCwzKSwgQei3sz1yb3VuZChBX2p1bXAsMyksCiAgICAgICAgICAgICAgICBC6JC95ZywPXJvdW5kKEJfbGFuZGVkLDIpLCBC5a2Y5rS7PXJvdW5kKEJfc3Vydml2ZSwzKSkKb3V0PXt9Cm1vZGVzPXsKICfni6znq4sgICAgIGRBQj0wICAgZEJBPTAgICc6ICAgICAgZGljdChkQUI9MC4wLCBkQkE9MC4wKSwKICflhbHmoJYgICAgIGRBQj0wICAgZEJBPTAuOSc6ICAgICAgZGljdChkQUI9MC4wLCBkQkE9MC45KSwKICfimIXlr4TnlJ8gICBkQUI9MCAgIGRCQT0xLjAnOiAgICAgIGRpY3QoZEFCPTAuMCwgZEJBPTEuMCksCiAn5YGP5a6zICAgICBkQUI9MC4zIGRCQT0xLjAnOiAgICAgIGRpY3QoZEFCPTAuMywgZEJBPTEuMCksCiAn5YWx55SfICAgICBkQUI9MC45IGRCQT0wLjknOiAgICAgIGRpY3QoZEFCPTAuOSwgZEJBPTAuOSksCiAn4piF55eF5q+SICAgZEFCPTAgICBkQkE9MS4wIHZpcj0xJzpkaWN0KGRBQj0wLjAsIGRCQT0xLjAsIHZpcj0xLjApLAp9CnByaW50KCI9PSB2MiDlha3np43lhbPns7vmqKHlvI8gKHJhdGlvPTAuNywgVz0xMCkgPT0iKQpwcmludCgiICDmqKHlvI8gICAgICAgICAgICAgICAgICAgICAg5Y2g55SoICAgQeWinumVvyAgIEHkuIvkuIDot7MgIELokL3lnLAgIELlrZjmtLsiKQpmb3IgayxrdyBpbiBtb2Rlcy5pdGVtcygpOgogICAgcj1zaW0oKiprdyk7IG91dFtrLnN0cmlwKCldPXIKICAgIHByaW50KCIgICUtMjZzICUtNi4yZiAlLTcuM2YgJS04LjNmICUtNi4yZiAlLjNmIiUoayxyWyfljaDnlKgnXSxyWydB5aKe6ZW/J10sclsnQei3syddLHJbJ0LokL3lnLAnXSxyWydC5a2Y5rS7J10pKQoKcHJpbnQoIlxuPT0gQeWvuULkvp3otZbluqYgZEFCIOaJq+aPjyAoZEJBPTEuMCwg5a+E55Sf5L6nKSA9PSIpCnByaW50KCIgIGRBQiAgICBB5aKe6ZW/ICAgQeS4i+S4gOi3syIpCmZvciBkIGluIFswLjAsMC4xLDAuMiwwLjMsMC41LDAuNywwLjksMS4wXToKICAgIHI9c2ltKGRCQT0xLjAsZEFCPWQpOyBvdXRbJ2RBQj0lLjFmJyVkXT17J0Hlop7plb8nOnJbJ0Hlop7plb8nXSwnQei3syc6clsnQei3syddfQogICAgcHJpbnQoIiAgJS02LjFmICUtNy4zZiAlLjNmIiUoZCxyWydB5aKe6ZW/J10sclsnQei3syddKSkKCnByaW50KCJcbj09IELlr7lB5L6d6LWW5bqmIGRCQSDmiavmj48gKGRBQj0wKSA9PSIpCnByaW50KCIgIGRCQSAgICBC6JC95ZywICAgQuWtmOa0uyAgIEHlop7plb8iKQpmb3IgZCBpbiBbMC4wLDAuMiwwLjQsMC42LDAuOCwxLjBdOgogICAgcj1zaW0oZEJBPWQsZEFCPTAuMCk7IG91dFsnZEJBPSUuMWYnJWRdPXsnQuiQveWcsCc6clsnQuiQveWcsCddLCdC5a2Y5rS7JzpyWydC5a2Y5rS7J119CiAgICBwcmludCgiICAlLTYuMWYgJS03LjJmICUuM2YgICAlLjNmIiUoZCxyWydC6JC95ZywJ10sclsnQuWtmOa0uyddLHJbJ0Hlop7plb8nXSkpCgpwcmludCgiXG49PSDmr5Llipvmiavmj48gKGRBQj0wLGRCQT0xLjApOiDlr4TnlJ8gdnMg55eF5q+SIOeahOWIhueVjCA9PSIpCnByaW50KCIgIHZpciAgICDljaDnlKggICBB5aKe6ZW/ICAgQeS4i+S4gOi3syIpCmZvciB2IGluIFswLjAsMC4yNSwwLjUsMC43NSwxLjAsMS41XToKICAgIHI9c2ltKGRCQT0xLjAsZEFCPTAuMCx2aXI9dik7IG91dFsndmlyPSUuMmYnJXZdPXsn5Y2g55SoJzpyWyfljaDnlKgnXSwnQeWinumVvyc6clsnQeWinumVvyddLCdB6LezJzpyWydB6LezJ119CiAgICBwcmludCgiICAlLTYuMmYgJS02LjJmICUtNy4zZiAlLjNmIiUodixyWyfljaDnlKgnXSxyWydB5aKe6ZW/J10sclsnQei3syddKSkKCnByaW50KCJcbj09IOmXqOemgSAo5a+E55Sf5L6nLCDog73lkKbmiorlr4TnlJ/ljovmiJDlhbHmoJYpID09IikKcHJpbnQoIiAgZ2F0ZSAgIOWNoOeUqCAgIEHlop7plb8iKQpmb3IgZyBpbiBbMC4wLDAuMjUsMC41LDAuNzUsMS4wXToKICAgIHI9c2ltKGRCQT0xLjAsZEFCPTAuMCxnYXRlPWcpOyBvdXRbJ2dhdGU9JS4yZiclZ109eyfljaDnlKgnOnJbJ+WNoOeUqCddLCdB5aKe6ZW/JzpyWydB5aKe6ZW/J119CiAgICBwcmludCgiICAlLTYuMmYgJS02LjJmICUuM2YiJShnLHJbJ+WNoOeUqCddLHJbJ0Hlop7plb8nXSkpCmpzb24uZHVtcChvdXQsIG9wZW4oJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDI0Ml9wYXJhc2l0ZS9yZXN1bHQyNDJiLmpzb24nLCd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+import json
+def sim(dAB, dBA, ratio=0.7, W=10.0, Rmax=20.0, Rmin=1.0, gate=0.0, vir=0.0, T=400):
+    """
+    v2 (v1作废: ratio固定0.4导致occupy=10.40恒定, A侧全0, 模式零区分度)
+    ratio=0.7 -> sift=0.4 -> occupy=4.20 -> A_growth_base=0.58 留出分辨率
+    dBA: B依赖A -> B的产出必须落回A才有值(238号)
+    dAB: A依赖B -> A的内生驱动被外包 -> endo_loss
+    vir: 毒力 -> 额外吃掉A带宽(病毒vs寄生的区别)
+    """
+    rate  = Rmax*(1-ratio)+Rmin
+    sift  = min(1.0, abs(ratio-0.5)*2.0 + gate*(1-abs(ratio-0.5)*2.0))
+    occupy= rate*(1-sift) + vir*W*0.5
+    base  = max(0.0,(W-occupy)/W)
+    endo  = 1.0-dAB
+    A_growth = base*endo
+    A_jump   = A_growth*endo            # 下一跳需要内生(239号), 平方折损
+    B_landed = rate*dBA
+    B_survive= dBA
+    return dict(占用=round(occupy,2), A增长=round(A_growth,3), A跳=round(A_jump,3),
+                B落地=round(B_landed,2), B存活=round(B_survive,3))
+out={}
+modes={
+ '独立     dAB=0   dBA=0  ':      dict(dAB=0.0, dBA=0.0),
+ '共栖     dAB=0   dBA=0.9':      dict(dAB=0.0, dBA=0.9),
+ '★寄生   dAB=0   dBA=1.0':      dict(dAB=0.0, dBA=1.0),
+ '偏害     dAB=0.3 dBA=1.0':      dict(dAB=0.3, dBA=1.0),
+ '共生     dAB=0.9 dBA=0.9':      dict(dAB=0.9, dBA=0.9),
+ '★病毒   dAB=0   dBA=1.0 vir=1':dict(dAB=0.0, dBA=1.0, vir=1.0),
+}
+print("== v2 六种关系模式 (ratio=0.7, W=10) ==")
+print("  模式                      占用   A增长   A下一跳  B落地  B存活")
+for k,kw in modes.items():
+    r=sim(**kw); out[k.strip()]=r
+    print("  %-26s %-6.2f %-7.3f %-8.3f %-6.2f %.3f"%(k,r['占用'],r['A增长'],r['A跳'],r['B落地'],r['B存活']))
+
+print("\n== A对B依赖度 dAB 扫描 (dBA=1.0, 寄生侧) ==")
+print("  dAB    A增长   A下一跳")
+for d in [0.0,0.1,0.2,0.3,0.5,0.7,0.9,1.0]:
+    r=sim(dBA=1.0,dAB=d); out['dAB=%.1f'%d]={'A增长':r['A增长'],'A跳':r['A跳']}
+    print("  %-6.1f %-7.3f %.3f"%(d,r['A增长'],r['A跳']))
+
+print("\n== B对A依赖度 dBA 扫描 (dAB=0) ==")
+print("  dBA    B落地   B存活   A增长")
+for d in [0.0,0.2,0.4,0.6,0.8,1.0]:
+    r=sim(dBA=d,dAB=0.0); out['dBA=%.1f'%d]={'B落地':r['B落地'],'B存活':r['B存活']}
+    print("  %-6.1f %-7.2f %.3f   %.3f"%(d,r['B落地'],r['B存活'],r['A增长']))
+
+print("\n== 毒力扫描 (dAB=0,dBA=1.0): 寄生 vs 病毒 的分界 ==")
+print("  vir    占用   A增长   A下一跳")
+for v in [0.0,0.25,0.5,0.75,1.0,1.5]:
+    r=sim(dBA=1.0,dAB=0.0,vir=v); out['vir=%.2f'%v]={'占用':r['占用'],'A增长':r['A增长'],'A跳':r['A跳']}
+    print("  %-6.2f %-6.2f %-7.3f %.3f"%(v,r['占用'],r['A增长'],r['A跳']))
+
+print("\n== 门禁 (寄生侧, 能否把寄生压成共栖) ==")
+print("  gate   占用   A增长")
+for g in [0.0,0.25,0.5,0.75,1.0]:
+    r=sim(dBA=1.0,dAB=0.0,gate=g); out['gate=%.2f'%g]={'占用':r['占用'],'A增长':r['A增长']}
+    print("  %-6.2f %-6.2f %.3f"%(g,r['占用'],r['A增长']))
+json.dump(out, open('/data/workspace/luoshen-o1/experiments/exp242_parasite/result242b.json','w'), ensure_ascii=False, indent=1)

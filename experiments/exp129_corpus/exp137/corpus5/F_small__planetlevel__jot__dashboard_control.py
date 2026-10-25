@@ -1,1 +1,128 @@
-IiIiU3dpdGNoZXMgSk9UIHJ1bGVzIGJldHdlZW4gbW9uaXRvciBhbmQgcHJvdGVjdCBieSB3cml0aW5nIHRoZSBjb250cm9sIGZpbGUgdGhhdCBhZ2VudHMgcmVhZC4KClRoZSBhZ2VudCBwb2xscyB0aGUgZmlsZSwgb25jZSBhIHNlY29uZC4gTm90aGluZyBoZXJlIGNvbm5lY3RzIHRvIGFuIGFnZW50LCBhbmQgYWdlbnRzIG5ldmVyIGFjY2VwdApjb25uZWN0aW9ucy4gVGhlIHJpc2sgaXMgdGhhdCB3aG9ldmVyIGNhbiB3cml0ZSB0aGlzIGZpbGUgY2FuIHN3aXRjaCBwcm90ZWN0aW9uIG9mZiwgc28gZXZlcnkgY2hhbmdlIGlzIGxvZ2dlZCwgYW5kIHRoZSBmaWxlIGlzIHJlcGxhY2VkIGF0b21pY2FsbHkgc28gYW4gYWdlbnQgbmV2ZXIgcmVhZHMgaGFsZiBvZiBpdC4KIiIiCgppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHRlbXBmaWxlCmltcG9ydCB0aHJlYWRpbmcKaW1wb3J0IHRpbWUKCmltcG9ydCB5YW1sCgoKY2xhc3MgQ29udHJvbEVycm9yKEV4Y2VwdGlvbik6CiAgICBwYXNzCgoKY2xhc3MgQ29udHJvbFN0b3JlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBhdGgsIGF1ZGl0X3BhdGg9Tm9uZSk6CiAgICAgICAgc2VsZi5wYXRoID0gcGF0aAogICAgICAgIHNlbGYuYXVkaXRfcGF0aCA9IGF1ZGl0X3BhdGggb3IgcGF0aCArICIuYXVkaXQiCiAgICAgICAgc2VsZi5fbG9jayA9IHRocmVhZGluZy5Mb2NrKCkKCiAgICBkZWYgcmVhZChzZWxmKToKICAgICAgICAiIiJUaGUgc2V0dGluZ3MgaW4gdGhlIGZpbGUuIEEgbWlzc2luZyBvciB1bnJlYWRhYmxlIGZpbGUgbWVhbnMgdGhlIGRlZmF1bHRzLiBydWxlcyBpcyBlYWNoIHJ1bGUncyBwcm90ZWN0CiAgICAgICAgc2V0dGluZyBhbmQgZW5hYmxlZCBpcyB3aGV0aGVyIGVhY2ggc2Vuc29yIG9yIHJ1bGUgcnVucywgYm90aCBieSBuYW1lLCBhbmQgYSBuYW1lIHRoYXQgaXNuJ3QgdGhlcmUgaXMgbGVmdCB0bwogICAgICAgIGl0cyAuam90IGZpbGUuIFNldHRpbmdzIGFyZSB3cml0dGVuIHVuZGVyIGVhY2ggc2Vuc29yJ3MgbmFtZSwgYW5kIHRoZSBvbGRlciBydWxlcyBtYXAgaXMgc3RpbGwgcmVhZC4iIiIKICAgICAgICBzdGF0ZSA9IHsicHJvdGVjdCI6IFRydWUsICJydWxlcyI6IHt9LCAiZW5hYmxlZCI6IHt9LCAidXBkYXRlZCI6IE5vbmUsICJieSI6IE5vbmUsICJleGlzdHMiOiBGYWxzZX0KICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggb3BlbihzZWxmLnBhdGgpIGFzIGY6CiAgICAgICAgICAgICAgICBkb2MgPSB5YW1sLnNhZmVfbG9hZChmKQogICAgICAgIGV4Y2VwdCAoT1NFcnJvciwgVmFsdWVFcnJvciwgeWFtbC5ZQU1MRXJyb3IpOgogICAgICAgICAgICByZXR1cm4gc3RhdGUKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShkb2MsIGRpY3QpOgogICAgICAgICAgICByZXR1cm4gc3RhdGUKICAgICAgICBzdGF0ZVsiZXhpc3RzIl0gPSBUcnVlCiAgICAgICAgaWYgaXNpbnN0YW5jZShkb2MuZ2V0KCJwcm90ZWN0IiksIGJvb2wpOgogICAgICAgICAgICBzdGF0ZVsicHJvdGVjdCJdID0gZG9jWyJwcm90ZWN0Il0KICAgICAgICBpZiBpc2luc3RhbmNlKGRvYy5nZXQoInJ1bGVzIiksIGRpY3QpOgogICAgICAgICAgICBzdGF0ZVsicnVsZXMiXSA9IHtrOiB2IGZvciBrLCB2IGluIGRvY1sicnVsZXMiXS5pdGVtcygpIGlmIGlzaW5zdGFuY2UodiwgYm9vbCl9CiAgICAgICAgaWYgaXNpbnN0YW5jZShkb2MuZ2V0KCJzZW5zb3JzIiksIGRpY3QpOgogICAgICAgICAgICBmb3IgbmFtZSwgc2V0dGluZ3MgaW4gZG9jWyJzZW5zb3JzIl0uaXRlbXMoKToKICAgICAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHNldHRpbmdzLCBkaWN0KToKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShzZXR0aW5ncy5nZXQoInByb3RlY3QiKSwgYm9vbCk6CiAgICAgICAgICAgICAgICAgICAgc3RhdGVbInJ1bGVzIl1bbmFtZV0gPSBzZXR0aW5nc1sicHJvdGVjdCJdCiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKHNldHRpbmdzLmdldCgiZW5hYmxlZCIpLCBib29sKToKICAgICAgICAgICAgICAgICAgICBzdGF0ZVsiZW5hYmxlZCJdW25hbWVdID0gc2V0dGluZ3NbImVuYWJsZWQiXQogICAgICAgIHN0YXRlWyJ1cGRhdGVkIl0gPSBkb2MuZ2V0KCJ1cGRhdGVkIikKICAgICAgICBzdGF0ZVsiYnkiXSA9IGRvYy5nZXQoImJ5IikKICAgICAgICByZXR1cm4gc3RhdGUKCiAgICBkZWYgd3JpdGUoc2VsZiwgbWFzdGVyPU5vbmUsIHJ1bGVzPU5vbmUsIGtub3duX3J1bGVzPSgpLCB3aG89ImRhc2hib2FyZCIsIGVuYWJsZWQ9Tm9uZSwga25vd25fc2Vuc29ycz1Ob25lKToKICAgICAgICAiIiJDaGFuZ2Ugc2V0dGluZ3MuIG1hc3RlciBpcyBUcnVlIG9yIEZhbHNlLCBvciBOb25lIHRvIGxlYXZlIGl0LiBydWxlcyBtYXBzIGEgcnVsZSBuYW1lIHRvIFRydWUgKGJsb2NrKSwKICAgICAgICBGYWxzZSAobW9uaXRvcikgb3IgTm9uZSAoYmFjayB0byB0aGUgLmpvdCBzZXR0aW5nKSwgYW5kIG9ubHkgbmFtZXMgaW4ga25vd25fcnVsZXMgYXJlIGFjY2VwdGVkLiBlbmFibGVkIG1hcHMKICAgICAgICBhIHNlbnNvciBvciBydWxlIG5hbWUgdG8gVHJ1ZSAob24pLCBGYWxzZSAob2ZmKSBvciBOb25lIChiYWNrIHRvIHRoZSAuam90IHNldHRpbmcpLCBhbmQgb25seSBuYW1lcyBpbgogICAgICAgIGtub3duX3NlbnNvcnMgYXJlIGFjY2VwdGVkLCB3aGljaCBpcyBrbm93bl9ydWxlcyB3aGVuIGl0IGlzbid0IGdpdmVuLiIiIgogICAgICAgIGtub3duX3NlbnNvcnMgPSBrbm93bl9ydWxlcyBpZiBrbm93bl9zZW5zb3JzIGlzIE5vbmUgZWxzZSBrbm93bl9zZW5zb3JzCiAgICAgICAgaWYgbWFzdGVyIGlzIG5vdCBOb25lIGFuZCBub3QgaXNpbnN0YW5jZShtYXN0ZXIsIGJvb2wpOgogICAgICAgICAgICByYWlzZSBDb250cm9sRXJyb3IoIm1hc3RlciBtdXN0IGJlIHRydWUgb3IgZmFsc2UiKQogICAgICAgIGlmIHJ1bGVzIGlzIG5vdCBOb25lIGFuZCBub3QgaXNpbnN0YW5jZShydWxlcywgZGljdCk6CiAgICAgICAgICAgIHJhaXNlIENvbnRyb2xFcnJvcigicnVsZXMgbXVzdCBiZSBhbiBvYmplY3QiKQogICAgICAgIGlmIGVuYWJsZWQgaXMgbm90IE5vbmUgYW5kIG5vdCBpc2luc3RhbmNlKGVuYWJsZWQsIGRpY3QpOgogICAgICAgICAgICByYWlzZSBDb250cm9sRXJyb3IoImVuYWJsZWQgbXVzdCBiZSBhbiBvYmplY3QiKQogICAgICAgIGZvciBuYW1lLCB2YWx1ZSBpbiAocnVsZXMgb3Ige30pLml0ZW1zKCk6CiAgICAgICAgICAgIGlmIG5hbWUgbm90IGluIGtub3duX3J1bGVzOgogICAgICAgICAgICAgICAgcmFpc2UgQ29udHJvbEVycm9yKCIlcyBpcyBub3QgYSBydWxlLiBSdWxlcyBhcmUgc2Vuc29ycyB0aGF0IGhhdmUgYW4gZXhjZXB0aW9uIiAlIG5hbWUpCiAgICAgICAgICAgIGlmIHZhbHVlIGlzIG5vdCBOb25lIGFuZCBub3QgaXNpbnN0YW5jZSh2YWx1ZSwgYm9vbCk6CiAgICAgICAgICAgICAgICByYWlzZSBDb250cm9sRXJyb3IoInJ1bGUgJXMgbXVzdCBiZSB0cnVlLCBmYWxzZSBvciBudWxsIiAlIG5hbWUpCiAgICAgICAgZm9yIG5hbWUsIHZhbHVlIGluIChlbmFibGVkIG9yIHt9KS5pdGVtcygpOgogICAgICAgICAgICBpZiBuYW1lIG5vdCBpbiBrbm93bl9zZW5zb3JzOgogICAgICAgICAgICAgICAgcmFpc2UgQ29udHJvbEVycm9yKCIlcyBpcyBub3QgYSBzZW5zb3Igb3IgYSBydWxlIiAlIG5hbWUpCiAgICAgICAgICAgIGlmIHZhbHVlIGlzIG5vdCBOb25lIGFuZCBub3QgaXNpbnN0YW5jZSh2YWx1ZSwgYm9vbCk6CiAgICAgICAgICAgICAgICByYWlzZSBDb250cm9sRXJyb3IoImVuYWJsZWQgZm9yICVzIG11c3QgYmUgdHJ1ZSwgZmFsc2Ugb3IgbnVsbCIgJSBuYW1lKQoKICAgICAgICB3aXRoIHNlbGYuX2xvY2s6CiAgICAgICAgICAgIGN1cnJlbnQgPSBzZWxmLnJlYWQoKQogICAgICAgICAgICBiZWZvcmUgPSB7InByb3RlY3QiOiBjdXJyZW50WyJwcm90ZWN0Il0sICJydWxlcyI6IGRpY3QoY3VycmVudFsicnVsZXMiXSksICJlbmFibGVkIjogZGljdChjdXJyZW50WyJlbmFibGVkIl0pfQogICAgICAgICAgICBwcm90ZWN0ID0gY3VycmVudFsicHJvdGVjdCJdIGlmIG1hc3RlciBpcyBOb25lIGVsc2UgbWFzdGVyCiAgICAgICAgICAgIG1lcmdlZCA9IGRpY3QoY3VycmVudFsicnVsZXMiXSkKICAgICAgICAgICAgZm9yIG5hbWUsIHZhbHVlIGluIChydWxlcyBvciB7fSkuaXRlbXMoKToKICAgICAgICAgICAgICAgIGlmIHZhbHVlIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgbWVyZ2VkLnBvcChuYW1lLCBOb25lKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBtZXJnZWRbbmFtZV0gPSB2YWx1ZQogICAgICAgICAgICBvbiA9IGRpY3QoY3VycmVudFsiZW5hYmxlZCJdKQogICAgICAgICAgICBmb3IgbmFtZSwgdmFsdWUgaW4gKGVuYWJsZWQgb3Ige30pLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBpZiB2YWx1ZSBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgIG9uLnBvcChuYW1lLCBOb25lKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBvbltuYW1lXSA9IHZhbHVlCiAgICAgICAgICAgIHNlbnNvcnMgPSB7fQogICAgICAgICAgICBmb3IgbmFtZSBpbiBzb3J0ZWQoc2V0KG1lcmdlZCkgfCBzZXQob24pKToKICAgICAgICAgICAgICAgIHNldHRpbmdzID0ge30KICAgICAgICAgICAgICAgIGlmIG5hbWUgaW4gbWVyZ2VkOgogICAgICAgICAgICAgICAgICAgIHNldHRpbmdzWyJwcm90ZWN0Il0gPSBtZXJnZWRbbmFtZV0KICAgICAgICAgICAgICAgIGlmIG5hbWUgaW4gb246CiAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3NbImVuYWJsZWQiXSA9IG9uW25hbWVdCiAgICAgICAgICAgICAgICBzZW5zb3JzW25hbWVdID0gc2V0dGluZ3MKICAgICAgICAgICAgZG9jID0geyJ2IjogMSwgInByb3RlY3QiOiBwcm90ZWN0LCAic2Vuc29ycyI6IHNlbnNvcnMsCiAgICAgICAgICAgICAgICAgICAidXBkYXRlZCI6IHRpbWUuc3RyZnRpbWUoIiVZLSVtLSVkVCVIOiVNOiVTWiIsIHRpbWUuZ210aW1lKCkpLCAiYnkiOiB3aG99CiAgICAgICAgICAgIHNlbGYuX2F0b21pY193cml0ZShkb2MpCiAgICAgICAgICAgIHNlbGYuX2F1ZGl0KHdobywgYmVmb3JlLCB7InByb3RlY3QiOiBwcm90ZWN0LCAicnVsZXMiOiBtZXJnZWQsICJlbmFibGVkIjogb259KQogICAgICAgIHJldHVybiBzZWxmLnJlYWQoKQoKICAgIGRlZiBfYXRvbWljX3dyaXRlKHNlbGYsIGRvYyk6CiAgICAgICAgZGlyZWN0b3J5ID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChzZWxmLnBhdGgpKSBvciAiLiIKICAgICAgICBmZCwgdG1wID0gdGVtcGZpbGUubWtzdGVtcChkaXI9ZGlyZWN0b3J5LCBwcmVmaXg9Ii5jb250cm9sLSIsIHN1ZmZpeD0iLnRtcCIpCiAgICAgICAgdHJ5OgogICAgICAgICAgICB3aXRoIG9zLmZkb3BlbihmZCwgInciKSBhcyBmOgogICAgICAgICAgICAgICAgeWFtbC5zYWZlX2R1bXAoZG9jLCBmLCBzb3J0X2tleXM9RmFsc2UsIGRlZmF1bHRfZmxvd19zdHlsZT1GYWxzZSkKICAgICAgICAgICAgICAgIGYuZmx1c2goKQogICAgICAgICAgICAgICAgb3MuZnN5bmMoZi5maWxlbm8oKSkKICAgICAgICAgICAgb3MuY2htb2QodG1wLCAwbzY0NCkgICAgICAgIyBhZ2VudHMgbWF5IHJlYWQgaXQsIG9ubHkgdGhpcyB1c2VyIG1heSB3cml0ZSBpdAogICAgICAgICAgICBvcy5yZXBsYWNlKHRtcCwgc2VsZi5wYXRoKQogICAgICAgIGV4Y2VwdCBCYXNlRXhjZXB0aW9uOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBvcy51bmxpbmsodG1wKQogICAgICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgcmFpc2UKCiAgICBkZWYgX2F1ZGl0KHNlbGYsIHdobywgYmVmb3JlLCBhZnRlcik6CiAgICAgICAgZW50cnkgPSB7InRpbWUiOiB0aW1lLnN0cmZ0aW1lKCIlWS0lbS0lZFQlSDolTTolU1oiLCB0aW1lLmdtdGltZSgpKSwgImJ5Ijogd2hvLCAiYmVmb3JlIjogYmVmb3JlLCAiYWZ0ZXIiOiBhZnRlcn0KICAgICAgICB3aXRoIG9wZW4oc2VsZi5hdWRpdF9wYXRoLCAiYSIpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUoanNvbi5kdW1wcyhlbnRyeSkgKyAiXG4iKQo=
+"""Switches JOT rules between monitor and protect by writing the control file that agents read.
+
+The agent polls the file, once a second. Nothing here connects to an agent, and agents never accept
+connections. The risk is that whoever can write this file can switch protection off, so every change is logged, and the file is replaced atomically so an agent never reads half of it.
+"""
+
+import json
+import os
+import tempfile
+import threading
+import time
+
+import yaml
+
+
+class ControlError(Exception):
+    pass
+
+
+class ControlStore:
+    def __init__(self, path, audit_path=None):
+        self.path = path
+        self.audit_path = audit_path or path + ".audit"
+        self._lock = threading.Lock()
+
+    def read(self):
+        """The settings in the file. A missing or unreadable file means the defaults. rules is each rule's protect
+        setting and enabled is whether each sensor or rule runs, both by name, and a name that isn't there is left to
+        its .jot file. Settings are written under each sensor's name, and the older rules map is still read."""
+        state = {"protect": True, "rules": {}, "enabled": {}, "updated": None, "by": None, "exists": False}
+        try:
+            with open(self.path) as f:
+                doc = yaml.safe_load(f)
+        except (OSError, ValueError, yaml.YAMLError):
+            return state
+        if not isinstance(doc, dict):
+            return state
+        state["exists"] = True
+        if isinstance(doc.get("protect"), bool):
+            state["protect"] = doc["protect"]
+        if isinstance(doc.get("rules"), dict):
+            state["rules"] = {k: v for k, v in doc["rules"].items() if isinstance(v, bool)}
+        if isinstance(doc.get("sensors"), dict):
+            for name, settings in doc["sensors"].items():
+                if not isinstance(settings, dict):
+                    continue
+                if isinstance(settings.get("protect"), bool):
+                    state["rules"][name] = settings["protect"]
+                if isinstance(settings.get("enabled"), bool):
+                    state["enabled"][name] = settings["enabled"]
+        state["updated"] = doc.get("updated")
+        state["by"] = doc.get("by")
+        return state
+
+    def write(self, master=None, rules=None, known_rules=(), who="dashboard", enabled=None, known_sensors=None):
+        """Change settings. master is True or False, or None to leave it. rules maps a rule name to True (block),
+        False (monitor) or None (back to the .jot setting), and only names in known_rules are accepted. enabled maps
+        a sensor or rule name to True (on), False (off) or None (back to the .jot setting), and only names in
+        known_sensors are accepted, which is known_rules when it isn't given."""
+        known_sensors = known_rules if known_sensors is None else known_sensors
+        if master is not None and not isinstance(master, bool):
+            raise ControlError("master must be true or false")
+        if rules is not None and not isinstance(rules, dict):
+            raise ControlError("rules must be an object")
+        if enabled is not None and not isinstance(enabled, dict):
+            raise ControlError("enabled must be an object")
+        for name, value in (rules or {}).items():
+            if name not in known_rules:
+                raise ControlError("%s is not a rule. Rules are sensors that have an exception" % name)
+            if value is not None and not isinstance(value, bool):
+                raise ControlError("rule %s must be true, false or null" % name)
+        for name, value in (enabled or {}).items():
+            if name not in known_sensors:
+                raise ControlError("%s is not a sensor or a rule" % name)
+            if value is not None and not isinstance(value, bool):
+                raise ControlError("enabled for %s must be true, false or null" % name)
+
+        with self._lock:
+            current = self.read()
+            before = {"protect": current["protect"], "rules": dict(current["rules"]), "enabled": dict(current["enabled"])}
+            protect = current["protect"] if master is None else master
+            merged = dict(current["rules"])
+            for name, value in (rules or {}).items():
+                if value is None:
+                    merged.pop(name, None)
+                else:
+                    merged[name] = value
+            on = dict(current["enabled"])
+            for name, value in (enabled or {}).items():
+                if value is None:
+                    on.pop(name, None)
+                else:
+                    on[name] = value
+            sensors = {}
+            for name in sorted(set(merged) | set(on)):
+                settings = {}
+                if name in merged:
+                    settings["protect"] = merged[name]
+                if name in on:
+                    settings["enabled"] = on[name]
+                sensors[name] = settings
+            doc = {"v": 1, "protect": protect, "sensors": sensors,
+                   "updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "by": who}
+            self._atomic_write(doc)
+            self._audit(who, before, {"protect": protect, "rules": merged, "enabled": on})
+        return self.read()
+
+    def _atomic_write(self, doc):
+        directory = os.path.dirname(os.path.abspath(self.path)) or "."
+        fd, tmp = tempfile.mkstemp(dir=directory, prefix=".control-", suffix=".tmp")
+        try:
+            with os.fdopen(fd, "w") as f:
+                yaml.safe_dump(doc, f, sort_keys=False, default_flow_style=False)
+                f.flush()
+                os.fsync(f.fileno())
+            os.chmod(tmp, 0o644)       # agents may read it, only this user may write it
+            os.replace(tmp, self.path)
+        except BaseException:
+            try:
+                os.unlink(tmp)
+            except OSError:
+                pass
+            raise
+
+    def _audit(self, who, before, after):
+        entry = {"time": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "by": who, "before": before, "after": after}
+        with open(self.audit_path, "a") as f:
+            f.write(json.dumps(entry) + "\n")

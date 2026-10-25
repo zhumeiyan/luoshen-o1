@@ -1,1 +1,66 @@
-ewogImNoayI6ICI0RDA3RUEiLAogImVmZmVjdF9mYWxzaWZpYWJsZSI6IHRydWUsCiAiY29uZHMiOiB7CiAgImNsb3NlZCI6IHsKICAgIm9rIjogMTIsCiAgICJuIjogMTIsCiAgICJzdGVwcyI6IDEyLjI1LAogICAiZmluYWxfZXJyIjogMTAuMDQyNjY5OTI2OTQ0NDYKICB9LAogICJvcGVuIjogewogICAib2siOiAwLAogICAibiI6IDEyLAogICAic3RlcHMiOiBudWxsLAogICAiZmluYWxfZXJyIjogMTk0LjAKICB9LAogICJibGluZCI6IHsKICAgIm9rIjogMCwKICAgIm4iOiAxMiwKICAgInN0ZXBzIjogbnVsbCwKICAgImZpbmFsX2VyciI6IDgxOS42NTEyMTAzOTY5MzQ0CiAgfSwKICAiZXllcyI6IHsKICAgIm9rIjogMCwKICAgIm4iOiAxMiwKICAgInN0ZXBzIjogbnVsbCwKICAgImZpbmFsX2VyciI6IDc1NC42NjgyMzI1MDk4NTIxCiAgfSwKICAieW9rZWQiOiB7CiAgICJvayI6IDgsCiAgICJuIjogMTIsCiAgICJzdGVwcyI6IDE1LjI1LAogICAiZmluYWxfZXJyIjogNDQuODc5MjAyNDU4ODYzMzI1CiAgfQogfSwKICJmZWVkYmFja190cnVlIjogMTM1LAogImZlZWRiYWNrX2ZhbHNlIjogMCwKICJzZW5zZV9sYXRlbmN5X21zIjogNS40NTIyNzY1NDk3ODc2MDI1LAogImRvc2UiOiBbCiAgewogICAiZiI6IDEsCiAgICJvayI6IDgsCiAgICJuIjogOCwKICAgInN0ZXBzIjogMTEuNjI1CiAgfSwKICB7CiAgICJmIjogMiwKICAgIm9rIjogOCwKICAgIm4iOiA4LAogICAic3RlcHMiOiAxMy4xMjUKICB9LAogIHsKICAgImYiOiA0LAogICAib2siOiA0LAogICAibiI6IDgsCiAgICJzdGVwcyI6IDE3LjAKICB9LAogIHsKICAgImYiOiA4LAogICAib2siOiAwLAogICAibiI6IDgsCiAgICJzdGVwcyI6IE5hTgogIH0KIF0sCiAiZG9zZV9tb25vIjogdHJ1ZQp9
+{
+ "chk": "4D07EA",
+ "effect_falsifiable": true,
+ "conds": {
+  "closed": {
+   "ok": 12,
+   "n": 12,
+   "steps": 12.25,
+   "final_err": 10.04266992694446
+  },
+  "open": {
+   "ok": 0,
+   "n": 12,
+   "steps": null,
+   "final_err": 194.0
+  },
+  "blind": {
+   "ok": 0,
+   "n": 12,
+   "steps": null,
+   "final_err": 819.6512103969344
+  },
+  "eyes": {
+   "ok": 0,
+   "n": 12,
+   "steps": null,
+   "final_err": 754.6682325098521
+  },
+  "yoked": {
+   "ok": 8,
+   "n": 12,
+   "steps": 15.25,
+   "final_err": 44.879202458863325
+  }
+ },
+ "feedback_true": 135,
+ "feedback_false": 0,
+ "sense_latency_ms": 5.4522765497876025,
+ "dose": [
+  {
+   "f": 1,
+   "ok": 8,
+   "n": 8,
+   "steps": 11.625
+  },
+  {
+   "f": 2,
+   "ok": 8,
+   "n": 8,
+   "steps": 13.125
+  },
+  {
+   "f": 4,
+   "ok": 4,
+   "n": 8,
+   "steps": 17.0
+  },
+  {
+   "f": 8,
+   "ok": 0,
+   "n": 8,
+   "steps": NaN
+  }
+ ],
+ "dose_mono": true
+}

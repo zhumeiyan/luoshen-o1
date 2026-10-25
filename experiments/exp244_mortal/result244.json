@@ -1,1 +1,140 @@
-ewogIlQ9MTAiOiB7CiAgIumpseWKqCI6IDAuMzI0CiB9LAogIlQ9MzAiOiB7CiAgIumpseWKqCI6IDAuOAogfSwKICJUPTYwIjogewogICLpqbHliqgiOiAxLjAKIH0sCiAiVD0xMDAiOiB7CiAgIumpseWKqCI6IDAuODgyCiB9LAogIlQ9MjAwIjogewogICLpqbHliqgiOiAwLjU1CiB9LAogIlQ9NDAwIjogewogICLpqbHliqgiOiAwLjI5MwogfSwKICJUPTEwMDAiOiB7CiAgIumpseWKqCI6IDAuMTIKIH0sCiAiVD0xMDAwMDAiOiB7CiAgIumpseWKqCI6IDAuMDAxCiB9LAogImY9MC4wIjogewogICJUNTAiOiAxOC4zOSwKICAiVDIwMCI6IDQwLjYzLAogICJUNjAwIjogNDEuNTUKIH0sCiAiZj0wLjIiOiB7CiAgIlQ1MCI6IDE1LjY0LAogICJUMjAwIjogMzQuNTcsCiAgIlQ2MDAiOiAzNS4zOAogfSwKICJmPTAuNCI6IHsKICAiVDUwIjogMTIuNDMsCiAgIlQyMDAiOiAyNy40NiwKICAiVDYwMCI6IDI4LjA2CiB9LAogImY9MC42IjogewogICJUNTAiOiA4Ljc0LAogICJUMjAwIjogMTkuMjgsCiAgIlQ2MDAiOiAxOS42MQogfSwKICJmPTAuOCI6IHsKICAiVDUwIjogNC41NywKICAiVDIwMCI6IDEwLjA1LAogICJUNjAwIjogMTAuMDEKIH0sCiAiZj0xLjAiOiB7CiAgIlQ1MCI6IC0wLjA2LAogICJUMjAwIjogLTAuMjQsCiAgIlQ2MDAiOiAtMC43MgogfSwKICJhPTAuMCI6IHsKICAi5Lqn5Ye6IjogMjcuNTIsCiAgIumAguW6lOW6piI6IDE5LjcyCiB9LAogImE9MC4yIjogewogICLkuqflh7oiOiA0MC41MSwKICAi6YCC5bqU5bqmIjogMjkuNTkKIH0sCiAiYT0wLjQiOiB7CiAgIuS6p+WHuiI6IDUwLjg2LAogICLpgILlupTluqYiOiAzNy40NgogfSwKICJhPTAuNSI6IHsKICAi5Lqn5Ye6IjogNTUuMDUsCiAgIumAguW6lOW6piI6IDQwLjYzCiB9LAogImE9MC42IjogewogICLkuqflh7oiOiA1OC41NywKICAi6YCC5bqU5bqmIjogNDMuMzEKIH0sCiAiYT0wLjgiOiB7CiAgIuS6p+WHuiI6IDYzLjYzLAogICLpgILlupTluqYiOiA0Ny4xNgogfSwKICJhPTEuMCI6IHsKICAi5Lqn5Ye6IjogNjYuMDYsCiAgIumAguW6lOW6piI6IDQ5LjAKIH0sCiAiaHo9MC4wIjogewogICJmMCI6IDU1LjA1LAogICJmMDUiOiAyNy41MiwKICAiZjEiOiAwLjAsCiAgIuacgOS8mGYiOiAwLjAKIH0sCiAiaHo9MC4yIjogewogICJmMCI6IDUwLjI0LAogICJmMDUiOiAyNi4xOCwKICAiZjEiOiAtMC4wOCwKICAi5pyA5LyYZiI6IDAuMAogfSwKICJoej0wLjQiOiB7CiAgImYwIjogNDUuNDQsCiAgImYwNSI6IDI0Ljg0LAogICJmMSI6IC0wLjE2LAogICLmnIDkvJhmIjogMC4wCiB9LAogImh6PTAuNiI6IHsKICAiZjAiOiA0MC42MywKICAiZjA1IjogMjMuNSwKICAiZjEiOiAtMC4yNCwKICAi5pyA5LyYZiI6IDAuMAogfSwKICJoej0wLjgiOiB7CiAgImYwIjogMzUuODMsCiAgImYwNSI6IDIyLjE2LAogICJmMSI6IC0wLjMyLAogICLmnIDkvJhmIjogMC4wCiB9LAogImh6PTEuMCI6IHsKICAiZjAiOiAzMS4wMywKICAiZjA1IjogMjAuODIsCiAgImYxIjogLTAuNCwKICAi5pyA5LyYZiI6IDAuMAogfSwKICJleHBvcnQ9MC4wMCI6IHsKICAi6amx5YqoIjogMC4wLAogICLpgILlupTluqYiOiAtMS4yCiB9LAogImV4cG9ydD0wLjI1IjogewogICLpqbHliqgiOiAwLjEzOCwKICAi6YCC5bqU5bqmIjogOS4yNgogfSwKICJleHBvcnQ9MC41MCI6IHsKICAi6amx5YqoIjogMC4yNzUsCiAgIumAguW6lOW6piI6IDE5LjcyCiB9LAogImV4cG9ydD0wLjc1IjogewogICLpqbHliqgiOiAwLjQxMywKICAi6YCC5bqU5bqmIjogMzAuMTgKIH0sCiAiZXhwb3J0PTEuMDAiOiB7CiAgIumpseWKqCI6IDAuNTUsCiAgIumAguW6lOW6piI6IDQwLjYzCiB9Cn0=
+{
+ "T=10": {
+  "驱动": 0.324
+ },
+ "T=30": {
+  "驱动": 0.8
+ },
+ "T=60": {
+  "驱动": 1.0
+ },
+ "T=100": {
+  "驱动": 0.882
+ },
+ "T=200": {
+  "驱动": 0.55
+ },
+ "T=400": {
+  "驱动": 0.293
+ },
+ "T=1000": {
+  "驱动": 0.12
+ },
+ "T=100000": {
+  "驱动": 0.001
+ },
+ "f=0.0": {
+  "T50": 18.39,
+  "T200": 40.63,
+  "T600": 41.55
+ },
+ "f=0.2": {
+  "T50": 15.64,
+  "T200": 34.57,
+  "T600": 35.38
+ },
+ "f=0.4": {
+  "T50": 12.43,
+  "T200": 27.46,
+  "T600": 28.06
+ },
+ "f=0.6": {
+  "T50": 8.74,
+  "T200": 19.28,
+  "T600": 19.61
+ },
+ "f=0.8": {
+  "T50": 4.57,
+  "T200": 10.05,
+  "T600": 10.01
+ },
+ "f=1.0": {
+  "T50": -0.06,
+  "T200": -0.24,
+  "T600": -0.72
+ },
+ "a=0.0": {
+  "产出": 27.52,
+  "适应度": 19.72
+ },
+ "a=0.2": {
+  "产出": 40.51,
+  "适应度": 29.59
+ },
+ "a=0.4": {
+  "产出": 50.86,
+  "适应度": 37.46
+ },
+ "a=0.5": {
+  "产出": 55.05,
+  "适应度": 40.63
+ },
+ "a=0.6": {
+  "产出": 58.57,
+  "适应度": 43.31
+ },
+ "a=0.8": {
+  "产出": 63.63,
+  "适应度": 47.16
+ },
+ "a=1.0": {
+  "产出": 66.06,
+  "适应度": 49.0
+ },
+ "hz=0.0": {
+  "f0": 55.05,
+  "f05": 27.52,
+  "f1": 0.0,
+  "最优f": 0.0
+ },
+ "hz=0.2": {
+  "f0": 50.24,
+  "f05": 26.18,
+  "f1": -0.08,
+  "最优f": 0.0
+ },
+ "hz=0.4": {
+  "f0": 45.44,
+  "f05": 24.84,
+  "f1": -0.16,
+  "最优f": 0.0
+ },
+ "hz=0.6": {
+  "f0": 40.63,
+  "f05": 23.5,
+  "f1": -0.24,
+  "最优f": 0.0
+ },
+ "hz=0.8": {
+  "f0": 35.83,
+  "f05": 22.16,
+  "f1": -0.32,
+  "最优f": 0.0
+ },
+ "hz=1.0": {
+  "f0": 31.03,
+  "f05": 20.82,
+  "f1": -0.4,
+  "最优f": 0.0
+ },
+ "export=0.00": {
+  "驱动": 0.0,
+  "适应度": -1.2
+ },
+ "export=0.25": {
+  "驱动": 0.138,
+  "适应度": 9.26
+ },
+ "export=0.50": {
+  "驱动": 0.275,
+  "适应度": 19.72
+ },
+ "export=0.75": {
+  "驱动": 0.413,
+  "适应度": 30.18
+ },
+ "export=1.00": {
+  "驱动": 0.55,
+  "适应度": 40.63
+ }
+}

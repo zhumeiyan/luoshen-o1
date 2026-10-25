@@ -1,1 +1,63 @@
-ewogInMxIjogewogICJhbXAiOiAyMC4wLAogICJkdXIiOiA2Mi4wLAogICJ2X21lYW4iOiAzMjIuNTgwNjQ1MTYxMjkwMywKICAidl9wZWFrIjogNDgzLjg3MDk2Nzc0MTkzNTUsCiAgInNtZWFyIjogNy4yNTgwNjQ1MTYxMjkwMzIsCiAgImZyYWMiOiAwLjM2MjkwMzIyNTgwNjQ1MTYKIH0sCiAiczIiOiB7CiAgImR1ciI6IDYyLjAsCiAgInN1cHByZXNzX3dpZHRoIjogNzUuMCwKICAidXNhYmxlX2R1cmluZyI6IDAKIH0sCiAiczMiOiB7CiAgImVfaW4iOiAxMTUuOTIyNzMyMDY2OTMzMjUsCiAgImVfb3V0IjogMTg5LjczMDkxNzI1NzU0OSwKICAiZnJhY19pbiI6IDAuMzc5MjYxNzMwNzk2MDUzODUsCiAgIkJfdGFpbCI6IDAuMDU3NjU4MDE4NTM5ODA1OTcsCiAgIkJfYWxsIjogMC4wOTA1NjQwNDQyNDQyOTEwNCwKICAiQV9md2QiOiAyLjE2LAogICJBX3JldiI6IDAuMjM5OTk5OTk5OTk5OTk5OTQKIH0sCiAicm93cyI6IFsKICB7CiAgICJhc3ltIjogMC4wLAogICAiQl90YWlsIjogMC4wLAogICAiQV9md2QiOiAxLjIsCiAgICJBX3JldiI6IDEuMgogIH0sCiAgewogICAiYXN5bSI6IDAuMiwKICAgIkJfdGFpbCI6IDAuMDE0NDE0NTA0NjM0OTUxNDkyLAogICAiQV9md2QiOiAxLjQ0LAogICAiQV9yZXYiOiAwLjk2CiAgfSwKICB7CiAgICJhc3ltIjogMC40NSwKICAgIkJfdGFpbCI6IDAuMDMyNDMyNjM1NDI4NjQwODUsCiAgICJBX2Z3ZCI6IDEuNzQsCiAgICJBX3JldiI6IDAuNjYKICB9LAogIHsKICAgImFzeW0iOiAwLjYsCiAgICJCX3RhaWwiOiAwLjA0MzI0MzUxMzkwNDg1NDQ3LAogICAiQV9md2QiOiAxLjkyLAogICAiQV9yZXYiOiAwLjQ4CiAgfSwKICB7CiAgICJhc3ltIjogMC44LAogICAiQl90YWlsIjogMC4wNTc2NTgwMTg1Mzk4MDU5NywKICAgIkFfZndkIjogMi4xNiwKICAgIkFfcmV2IjogMC4yMzk5OTk5OTk5OTk5OTk5NAogIH0KIF0sCiAib2siOiB7CiAgIuKRoCDnnLznnZvov73kuI3kuIrvvJrljZXmoLfmnKzooqvmirnlubMgPjIwJSDluYXluqYiOiB0cnVlLAogICLikaEg5omr6KeG5YWo56iLIDAg5Liq5Y+v55So5qC35pysIOKGkiDkuK3pl7TmmK/mg7PosaEiOiB0cnVlLAogICLikaIg5pe26Ze05Y+N5ryU55qE55uu5qCH5q615q2j5piv55yL5LiN6KeB55qE6YKj5q61IjogdHJ1ZSwKICAi4pGjIOWwvuW3tOWPr+a1iyDihpIgQl90YWlsIOmajyBhc3ltIOWNleiwg+S4iuWNhyI6IHRydWUsCiAgIuKRpCBhc3ltPTAg4oaSIEJfdGFpbD0w77yI5peg5omL5oCn5YiZ5peg5pa55ZCR5YGP5aW977yJIjogdHJ1ZQogfQp9
+{
+ "s1": {
+  "amp": 20.0,
+  "dur": 62.0,
+  "v_mean": 322.5806451612903,
+  "v_peak": 483.8709677419355,
+  "smear": 7.258064516129032,
+  "frac": 0.3629032258064516
+ },
+ "s2": {
+  "dur": 62.0,
+  "suppress_width": 75.0,
+  "usable_during": 0
+ },
+ "s3": {
+  "e_in": 115.92273206693325,
+  "e_out": 189.730917257549,
+  "frac_in": 0.37926173079605385,
+  "B_tail": 0.05765801853980597,
+  "B_all": 0.09056404424429104,
+  "A_fwd": 2.16,
+  "A_rev": 0.23999999999999994
+ },
+ "rows": [
+  {
+   "asym": 0.0,
+   "B_tail": 0.0,
+   "A_fwd": 1.2,
+   "A_rev": 1.2
+  },
+  {
+   "asym": 0.2,
+   "B_tail": 0.014414504634951492,
+   "A_fwd": 1.44,
+   "A_rev": 0.96
+  },
+  {
+   "asym": 0.45,
+   "B_tail": 0.03243263542864085,
+   "A_fwd": 1.74,
+   "A_rev": 0.66
+  },
+  {
+   "asym": 0.6,
+   "B_tail": 0.04324351390485447,
+   "A_fwd": 1.92,
+   "A_rev": 0.48
+  },
+  {
+   "asym": 0.8,
+   "B_tail": 0.05765801853980597,
+   "A_fwd": 2.16,
+   "A_rev": 0.23999999999999994
+  }
+ ],
+ "ok": {
+  "① 眼睛追不上：单样本被抹平 >20% 幅度": true,
+  "② 扫视全程 0 个可用样本 → 中间是想象": true,
+  "③ 时间反演的目标段正是看不见的那段": true,
+  "④ 尾巴可测 → B_tail 随 asym 单调上升": true,
+  "⑤ asym=0 → B_tail=0（无手性则无方向偏好）": true
+ }
+}

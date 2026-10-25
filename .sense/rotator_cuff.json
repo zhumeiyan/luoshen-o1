@@ -1,1 +1,23 @@
-ewogIuKRoCDimIUg5Zub6IKM6b2Q5YWo5LiU5ZCE5pyJIENTQS/lipsv5pa55ZCRIjogdHJ1ZSwKICLikaEg4piFIOS4ieinkuiCjOWKmyA+IOS7u+S4gOiCqeiiluiCjO+8iOWug+aYr+egtOWdj+eos+WumueahOS4u+WKm++8iSI6IHRydWUsCiAi4pGiIOKYhSDnibnlrprlvKDlipvnuqYgNjAgTi9jbcKy77yMQ1NBw5c2MCDiiYgg5YqbIjogdHJ1ZSwKICLikaMg4piF4piFIOWFs+aOieWHuemdouWOi+e8qSDihpIg56iz5a6a5q+U5Y+Y5beuIjogdHJ1ZSwKICLikaQg4piF4piFIOWFs+aOieWKm+WBtiDihpIg56iz5a6a5q+U5Y+Y5beuIjogdHJ1ZSwKICLikaUg4piF4piFIOS4pOS4qumDveWFsyDihpIg5pyA5beu77yI57y65LiA5LiN5Y+v77yJIjogdHJ1ZSwKICLikaYg4piFIOeos+WumuavlOS4jeWPkeaVo++8iOWKoOaui+S9meWOi+e8qeWQjuaYr+aciemZkOWAvO+8iSI6IHRydWUsCiAi4pGnIOKYheKYhSDmkpXoo4LotorlpJrvvIznqLPlrprmr5TljZXosIPmgbbljJYiOiB0cnVlLAogIuKRqCDimIUg5a6M5pW06IKp6KKW56iz5a6a5q+UIDwgMC4277yIUkVBTCDnqLPlrprljLrpl7TvvIkiOiB0cnVlLAogIuKRqSDimIUg5YWo5pat5ZCO5LiN56iz5a6aIjogdHJ1ZSwKICLikaog4piF4piFIOS6pOWPieinkuiQveWcqCAyMH40NcKw77yIUkVBTCDlkK/liqjljLrpl7TvvIkiOiB0cnVlLAogIuKRqyDimIUgMMKwIOaXtuWGiOS4iuiCjOWKm+iHgiA+IOS4ieinkuiCjCI6IHRydWUsCiAi4pGsIOKYhSA5MMKwIOaXtuS4ieinkuiCjOWKm+iHgiA+IOWGiOS4iuiCjCI6IHRydWUsCiAi4pGtIOKYheKYhSDlgYfmgKfpurvnl7nvvJrkuInop5Logozlipvlrozlpb3ljbTmiqzkuI3otbfmnaUiOiB0cnVlLAogIuKRriDimIUg5a+554Wn77ya6IKp6KKW5a6M5pW05pe26IO95oqsIjogdHJ1ZSwKICLika8g4piFIOS4ieinkuiCjOWKm+WcqOS4pOenjeaDheWGteS4i+ebuOWQjO+8iOivgeaYjuS4jeaYr+iCjOWKm+mXrumimO+8iSI6IHRydWUsCiAi4pGwIOKYhSDlhajmlq0g4oaSIEFIRCA8IDdtbe+8iFJFQUwg55eF55CG6ZiI5YC877yJIjogdHJ1ZSwKICLikbEg4piFIOWujOaVtOaXtiBBSEQgPSAxMG1tIjogdHJ1ZSwKICLikbIg4piFIOeWvOeXm+W8pyA9IDYwfjEyMMKwIjogdHJ1ZSwKICLikbMg4piFIOebguWUh+WIh+mZpCDihpIg56iz5a6a5q+U5Y+Y5beuIjogdHJ1ZSwKICIyMSDimIUgOTDCsCDml7YgSlJGIOiQveWcqCAwLjd+MS4xIOWAjeS9k+mHje+8iFJFQUzvvIkiOiB0cnVlCn0=
+{
+ "① ★ 四肌齐全且各有 CSA/力/方向": true,
+ "② ★ 三角肌力 > 任一肩袖肌（它是破坏稳定的主力）": true,
+ "③ ★ 特定张力约 60 N/cm²，CSA×60 ≈ 力": true,
+ "④ ★★ 关掉凹面压缩 → 稳定比变差": true,
+ "⑤ ★★ 关掉力偶 → 稳定比变差": true,
+ "⑥ ★★ 两个都关 → 最差（缺一不可）": true,
+ "⑦ ★ 稳定比不发散（加残余压缩后是有限值）": true,
+ "⑧ ★★ 撕裂越多，稳定比单调恶化": true,
+ "⑨ ★ 完整肩袖稳定比 < 0.6（REAL 稳定区间）": true,
+ "⑩ ★ 全断后不稳定": true,
+ "⑪ ★★ 交叉角落在 20~45°（REAL 启动区间）": true,
+ "⑫ ★ 0° 时冈上肌力臂 > 三角肌": true,
+ "⑬ ★ 90° 时三角肌力臂 > 冈上肌": true,
+ "⑭ ★★ 假性麻痹：三角肌力完好却抬不起来": true,
+ "⑮ ★ 对照：肩袖完整时能抬": true,
+ "⑯ ★ 三角肌力在两种情况下相同（证明不是肌力问题）": true,
+ "⑰ ★ 全断 → AHD < 7mm（REAL 病理阈值）": true,
+ "⑱ ★ 完整时 AHD = 10mm": true,
+ "⑲ ★ 疼痛弧 = 60~120°": true,
+ "⑳ ★ 盂唇切除 → 稳定比变差": true,
+ "21 ★ 90° 时 JRF 落在 0.7~1.1 倍体重（REAL）": true
+}

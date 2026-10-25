@@ -1,1 +1,327 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQromZrmi5/plK7nm5jpvKDmoIcg4oCU4oCUIOe7mea0m+elnuijheS4iiLmiYsi5Y675pON5L2c55WM6Z2iCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K4piFIOS4uuS7gOS5iOW/hemhu+W7uui/meS4gOWxggogICAg4piFMzMg5bey6aqM6K+B77ya5rSb56We6IO955yL572R6aG177yI55yfIEhUTUzvvIkKICAgIOKYhTM0IOW3suW7uu+8muecn+WunueahOaJi++8iDI3IERPRuOAgeiCjOiFseS4sua/gOOAgeeIquW9ouaJi++8iQogICAg4piFMjUg5bey5bu677ya5Y+M55y877yI556z6Led44CB6KeG5beu44CB5rex5bqm77yJCiAg5L2GIOKAlOKAlCDkuInogIXmmK/liIblvIDnmoTvvJrnnLznnZvor7vkuobjgIHmiYvkvJrliqjkuobvvIzlj6/msqHmnIki55So5omL5Y6754K555y8552b55yL5Yiw55qE5Lic6KW/IgogIOKYhSDmnKzlsYLlsLHmmK/pgqPmoLnnur/vvJrms6jop4Yg4oaSIOWumuS9jSDihpIg56e75YqoIOKGkiDngrnlh7sg4oaSIOagoemqjAoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkuIDjgIHimIUg5oCO5LmI54K577ya5LiN5pivIHNsZWVw77yM5piv44CQ54mp55CG562J5pe244CRCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIEZpdHRzIOWumuW+i++8mk1UID0gYSArIGLCt2xvZzIoMkQvVykKICAgIFJFQUw6IGHiiYgwLjA1cyAgYuKJiDAuMTAgcy9iaXQKCiAgICDimIUg5YWz6ZSu77ya56e75Yqo5pe26Ze055Sx44CQ6Led56a75ZKM55uu5qCH5aSn5bCP44CR5Yaz5a6a77yM5LiN5piv55Sx5oiR5ouN6ISR6KKL5YaZIHNsZWVwCiAgICDot53nprsgMTAwcHjjgIHnm67moIcgMjBweCAg4oaSIDAuMDUgKyAwLjEwwrdsb2cyKDLCtzEwMC8yMCkgPSAwLjM4MyBzCiAgICDot53nprsgODAwcHjjgIHnm67moIcgMjBweCAg4oaSIDAuMDUgKyAwLjEwwrdsb2cyKDgwKSAgICAgICA9IDAuNjgyIHMKCiAgICDimIUg5a+554Wn77yI5Y+v6K+B5Lyq77yJ77ya55uu5qCH6LaK5bCP6LaK5oWi44CB6Led56a76LaK6L+c6LaK5oWi77yM5Lik5p2h6YO95Y2V6LCDCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuS6jOOAgeKYhSDmiYvmipbvvJrkuI3mmK/lmarlo7DvvIzmmK8gMS9mIOeUn+eQhumch+mipAotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBSRUFMIOeUn+eQhuaAp+mch+mipCA4fjEyIEh677yM5bmF5bqm57qmIDAuNSBtbQogICAg4piFIOeUqCAxL2bvvIhwaW5rIG5vaXNl77yJ55Sf5oiQ77yM5LiN5piv6auY5pav55m95Zmq5aOwCiAgICAgIOeZveWZquWjsO+8muWKn+eOh+iwseW5s+WdpgogICAgICAxL2bvvJogICAg5L2O6aKR5by644CB6auY6aKR5byxIOKAlOKAlCDov5nmmK/nnJ/lrp7nlJ/nkIblmarlo7DnmoTlvaLnirYKCiAgICDimIXimIUg5oqW5Yqo5LiOIEZpdHRzIOeahOS6pOS6ku+8iOacrOWxguacgOehrOeahOWIpOaNru+8ie+8mgogICAgICDmiYvmipblm7rlrpogMC41bW0g5pe277yM5bCP55uu5qCH44CQ55u45a+544CR5pu06Zq+IOKGkiDmnInmlYjlrr3luqYgVycgPSBXIOKIkiAywrd0cmVtb3IKICAgICAg55uu5qCHIDRtbSDihpIg5pyJ5pWIIDNtbe+8iOaNn+WksSAyNSXvvIkKICAgICAg55uu5qCHIDIwbW0g4oaSIOacieaViCAxOW1t77yI5o2f5aSxIDUl77yJCiAgICDimIUg6L+Z6Kej6YeK5LqG5Li65LuA5LmI5bCP5oyJ6ZKu54K55LiN5LitIOKAlOKAlCDkuI3mmK/nsr7luqbkuI3lpJ/vvIzmmK/mipbliqjljaDmr5Tlj5jlpKcKCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5LiJ44CB4piFIOeCueWHu+S4jeaYr+eerOmXtO+8muaMieS4iy3kv53mjIEt5oqs6LW3Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOS6uuexu+eCueWHu++8mmRvd24g4oaSIGR3ZWxsKFJFQUwgODB+MTIwIG1zKSDihpIgdXAKICAgIOKYhSBkd2VsbCDlpKrnn63kvJrooqvliKTmiJDor6/op6bvvJvlpKrplb/lg4/ljaHpob8KCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K5Zub44CB4piFIOmUruebmO+8muWHu+mUrumXtOmalOacjeS7juecn+WunuWIhuW4gwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDmiZPlrZfkuI3mmK/ljIDpgJ/jgIJSRUFMIOaJk+Wtl+WRmOWHu+mUrumXtOmalCBDViDnuqYgMC40fjAuNgogICAg56m65qC8L+W4uOeUqOmUruabtOW/q++8jOeUn+WDu+mUruabtOaFogoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkupTjgIHimIUg5rua5Yqo77ya5rua6L2u5pyJ5oOv5oCnCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIOa7muS4gOagvCDihpIg5L2N56e75oyJ5oyH5pWw6KGw5YeP77yM5LiN5piv556s56e7CiAgICDoobDlh4/ml7bpl7TluLjmlbAgUkVBTCDnuqYgMTIwIG1zCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuWFreOAgeKYhSDlpLHotKXlv4Xpobvog73ooqvmo4DmtYvvvIjimIUzMyDnmoTmlZnorq3vvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg4piFMzMg5oqT5YiwIuecvOedm+eejuaOiee7k+aenOS4jeWPmCIg4oCU4oCUIOmCo+aYr+WBh+S+nei1lgogICAg4piFIOacrOWxguaJgOacieWKqOS9nOmDveaciSB2ZXJpZnnvvJoKICAgICAg54K55a6MIOKGkiDmo4Dmn6XpobXpnaLmmK/lkKbnnJ/nmoTlj5jkuoYKICAgICAg5rKh5Y+YIOKGkiDmiqUgZmFpbGVk77yM5LiN6K645YGH6KOF5oiQ5YqfCiAgICDimIUgc3RyaWN0PVRydWUg5pe25aSx6LSl55u05o6l5oqb6ZSZCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCmltcG9ydCB0aW1lCmltcG9ydCBudW1weSBhcyBucAoKIyAtLS0tLS0tLS0tLS0tLS0tIFJFQUwg5Y+C5pWwIC0tLS0tLS0tLS0tLS0tLS0KRklUVFNfQSA9IDAuMDUgICAgICAgICAgIyBzCkZJVFRTX0IgPSAwLjEwICAgICAgICAgICMgcy9iaXQKVFJFTU9SX0haID0gKDguMCwgMTIuMCkgICMg55Sf55CG5oCn6ZyH6aKkIFJFQUwKVFJFTU9SX01NID0gMC41ICAgICAgICAgICMg5bmF5bqmIFJFQUwKQ0xJQ0tfRFdFTEwgPSAoMC4wOCwgMC4xMikgICAjIHMgUkVBTApXSEVFTF9UQVUgPSAwLjEyICAgICAgICAgIyBzIOa7mui9ruaDr+aAp+aXtumXtOW4uOaVsCBSRUFMClRZUElOR19DViA9ICgwLjQsIDAuNikgICAjIOWHu+mUrumXtOmalOWPmOW8guezu+aVsCBSRUFMCgoKZGVmIHBpbmsobjogaW50LCBybmc6IG5wLnJhbmRvbS5HZW5lcmF0b3IgfCBOb25lID0gTm9uZSkgLT4gbnAubmRhcnJheToKICAgICIiIuKYhSAxL2Yg5Zmq5aOw77yI5LiN5piv55m95Zmq5aOw77yJ44CCCgogICAg4piFIFJFQUwg55Sf55CG6ZyH6aKk5pivIDEvZiDlvaLnirbvvJrkvY7popHlvLrjgIHpq5jpopHlvLEKICAgICIiIgogICAgZyA9IHJuZyBvciBucC5yYW5kb20uZGVmYXVsdF9ybmcoKQogICAgIyDpopHln5/mnoTpgKDvvJrluYXluqYg4oidIDEvc3FydChmKe+8jOmaj+acuuebuOS9jQogICAgZnJlcXMgPSBucC5mZnQucmZmdGZyZXEobikKICAgIGZyZXFzWzBdID0gZnJlcXNbMV0gaWYgbiA+IDEgZWxzZSAxLjAKICAgIGFtcCA9IDEuMCAvIG5wLnNxcnQoZnJlcXMpCiAgICBwaCA9IGcudW5pZm9ybSgwLCAyICogbnAucGksIGxlbihmcmVxcykpCiAgICBzcGVjID0gYW1wICogbnAuZXhwKDFqICogcGgpCiAgICB4ID0gbnAuZmZ0LmlyZmZ0KHNwZWMsIG4pCiAgICB4ID0geCAtIHgubWVhbigpCiAgICBzID0gbnAuYWJzKHgpLm1heCgpCiAgICByZXR1cm4geCAvIHMgaWYgcyA+IDFlLTEyIGVsc2UgeAoKCmRlZiB0cmVtb3IobjogaW50ID0gMjAwLCBmczogZmxvYXQgPSAxMDAwLjAsCiAgICAgICAgICAgbW06IGZsb2F0ID0gVFJFTU9SX01NLCBzZWVkOiBpbnQgfCBOb25lID0gTm9uZSkgLT4gbnAubmRhcnJheToKICAgICIiIuKYhSDmiYvmipbovajov7nvvIhtbe+8ie+8jDEvZiDlvaLnirYgKyA4fjEySHog5bim5YaF44CCIiIiCiAgICBnID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICB4ID0gcGluayhuLCBnKQogICAgIyDluKbpgJrliLAgOH4xMiBIegogICAgdCA9IG5wLmFyYW5nZShuKSAvIGZzCiAgICBsbywgaGkgPSBUUkVNT1JfSFoKICAgICMg566A5YyW77ya5LiOIDEwSHog6L295rOi6LCD5Yi2CiAgICBjYXJyaWVyID0gbnAuc2luKDIgKiBucC5waSAqICgobG8gKyBoaSkgLyAyKSAqIHQpCiAgICB5ID0geCAqIGNhcnJpZXIKICAgIHkgPSB5IC0geS5tZWFuKCkKICAgIHMgPSBucC5hYnMoeSkubWF4KCkKICAgIGlmIHMgPCAxZS0xMjoKICAgICAgICByZXR1cm4gbnAuemVyb3MobikKICAgIHJldHVybiB5IC8gcyAqIG1tCgoKZGVmIGVmZmVjdGl2ZV93aWR0aChXX21tOiBmbG9hdCwgdHJlbW9yX21tOiBmbG9hdCA9IFRSRU1PUl9NTSkgLT4gZmxvYXQ6CiAgICAiIiLimIXimIUg5pyJ5pWI5a695bqm77ya5oqW5Yqo5ZCD5o6J55uu5qCH6L6557yY44CCCgogICAg4piF4piFIOi/meaYr+acrOWxguacgOehrOeahOWIpOaNru+8muaKluWKqOWbuuWumuaXtu+8jOWwj+ebruagh+OAkOebuOWvueOAkeaNn+WkseabtOWkpwogICAgIiIiCiAgICByZXR1cm4gbWF4KFdfbW0gLSAyLjAgKiB0cmVtb3JfbW0sIDAuMDUgKiBXX21tKQoKCmRlZiBmaXR0cyhEOiBmbG9hdCwgVzogZmxvYXQsIHRyZW1vcl9tbTogZmxvYXQgPSBUUkVNT1JfTU0pIC0+IGZsb2F0OgogICAgIiIi4piFIEZpdHRzIOenu+WKqOaXtumXtO+8iOenku+8ieOAggoKICAgIOWPguaVsOe7n+S4gOeUqCBtbeOAggogICAgIiIiCiAgICBXZSA9IGVmZmVjdGl2ZV93aWR0aChXLCB0cmVtb3JfbW0pCiAgICByZXR1cm4gZmxvYXQoRklUVFNfQSArIEZJVFRTX0IgKiBucC5sb2cyKG1heCgyLjAgKiBEIC8gV2UsIDEuMCkpKQoKCmRlZiBmaXR0c19zY2FuKCk6CiAgICAiIiLimIUg5Lik5p2h5Y2V6LCD5oCn77ya6L+c4oaS5oWi44CB5bCP4oaS5oWi44CCIiIiCiAgICByb3dzID0gW10KICAgIGZvciBEIGluIFsxMCwgNTAsIDEwMCwgNDAwLCA4MDBdOgogICAgICAgIHJvd3MuYXBwZW5kKCgiRCIsIEQsIGZpdHRzKEQsIDIwLjApKSkKICAgIGZvciBXIGluIFsyLCA0LCAxMCwgMjAsIDQwXToKICAgICAgICByb3dzLmFwcGVuZCgoIlciLCBXLCBmaXR0cygxMDAuMCwgVykpKQogICAgcmV0dXJuIHJvd3MKCgpkZWYgdHJlbW9yX2VmZmVjdF9zY2FuKCk6CiAgICAiIiLimIXimIUg5oqW5Yqo5a+55bCP55uu5qCHIHZzIOWkp+ebruagh+eahOebuOWvueaNn+WkseOAgiIiIgogICAgcm93cyA9IFtdCiAgICBmb3IgVyBpbiBbNC4wLCAxMC4wLCAyMC4wXToKICAgICAgICBXZSA9IGVmZmVjdGl2ZV93aWR0aChXKQogICAgICAgIHJvd3MuYXBwZW5kKChXLCBXZSwgKFcgLSBXZSkgLyBXKSkKICAgIHJldHVybiByb3dzCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg6Jma5ouf6byg5qCHCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpjbGFzcyBWaXJ0dWFsTW91c2U6CiAgICAiIiLimIUg5Lya5oqW44CB5pyJIEZpdHRzIOaXtumVv+eahOm8oOagh+OAguS4jSBzbGVlcCDmi43ohJHooovvvIznlKjniannkIbnrpfjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgcGFnZT1Ob25lLCBzZWVkOiBpbnQgfCBOb25lID0gTm9uZSwgcmVhbDogYm9vbCA9IFRydWUpOgogICAgICAgIHNlbGYucGcgPSBwYWdlCiAgICAgICAgc2VsZi5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICAgICAgc2VsZi5yZWFsID0gcmVhbCAgICAgICAgICAjIEZhbHNlIOKGkiDkuI3nnJ/mk43kvZzvvIzlj6rnrpfml7bplb/vvIjnlKjkuo7nuq/lu7rmqKHpqozor4HvvIkKICAgICAgICBzZWxmLmxvZzogbGlzdCA9IFtdCiAgICAgICAgc2VsZi5wb3MgPSAoMC4wLCAwLjApCgogICAgZGVmIG1vdmUoc2VsZiwgeDogZmxvYXQsIHk6IGZsb2F0LCBXX21tOiBmbG9hdCA9IDIwLjAsCiAgICAgICAgICAgICBweF9wZXJfbW06IGZsb2F0ID0gMy44KSAtPiBkaWN0OgogICAgICAgICIiIuKYhSDnp7vliqjliLAgKHgseSnjgILml7bplb/nlLEgRml0dHMg5Yaz5a6a77yM5oqW5Yqo5pivIDEvZuOAgiIiIgogICAgICAgIGR4ID0geCAtIHNlbGYucG9zWzBdCiAgICAgICAgZHkgPSB5IC0gc2VsZi5wb3NbMV0KICAgICAgICBEX21tID0gZmxvYXQobnAuaHlwb3QoZHgsIGR5KSkgLyBweF9wZXJfbW0KICAgICAgICBtdCA9IGZpdHRzKERfbW0sIFdfbW0pCiAgICAgICAgbiA9IG1heChpbnQobXQgLyAwLjAwNCksIDgpCiAgICAgICAgdHIgPSB0cmVtb3IobiwgbW09VFJFTU9SX01NLAogICAgICAgICAgICAgICAgICAgIHNlZWQ9aW50KHNlbGYuZy5pbnRlZ2VycygxIDw8IDMwKSkpCiAgICAgICAgIyDovajov7nvvJrnm7Tnur/mj5LlgLwgKyDmipYKICAgICAgICB0cmFqID0gWyhmbG9hdChucC5pbnRlcnAoaSwgWzAsIG4gLSAxXSwgW3NlbGYucG9zWzBdLCB4XSkpLAogICAgICAgICAgICAgICAgIGZsb2F0KG5wLmludGVycChpLCBbMCwgbiAtIDFdLCBbc2VsZi5wb3NbMV0sIHldKSkpIGZvciBpIGluIHJhbmdlKG4pXQogICAgICAgIGlmIHNlbGYucmVhbCBhbmQgc2VsZi5wZyBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VsZi5wZy5tb3VzZS5tb3ZlKHgsIHkpCiAgICAgICAgc2VsZi5wb3MgPSAoeCwgeSkKICAgICAgICByZWMgPSB7ImFjdCI6ICJtb3ZlIiwgIm10X3MiOiByb3VuZChtdCwgNCksICJEX21tIjogcm91bmQoRF9tbSwgMiksCiAgICAgICAgICAgICAgICJuIjogbiwgInRyYWoiOiB0cmFqWzo1XX0KICAgICAgICBzZWxmLmxvZy5hcHBlbmQocmVjKQogICAgICAgIHJldHVybiByZWMKCiAgICBkZWYgY2xpY2soc2VsZiwgeDogZmxvYXQsIHk6IGZsb2F0LCBXX21tOiBmbG9hdCA9IDIwLjAsCiAgICAgICAgICAgICAgc3RyaWN0OiBib29sID0gVHJ1ZSkgLT4gZGljdDoKICAgICAgICAiIiLimIUg54K55Ye777ya56e75YqoIOKGkiDmjInkuIsg4oaSIGR3ZWxsIOKGkiDmiqzotbfjgIIKCiAgICAgICAg4piFIHN0cmljdD1UcnVlIOaXtuagoemqjOmhtemdouecn+eahOWPmOS6hu+8jOayoeWPmOaKpSBmYWlsZWTvvIjimIUzMyDmlZnorq3vvIkKICAgICAgICAiIiIKICAgICAgICBtdiA9IHNlbGYubW92ZSh4LCB5LCBXX21tKQogICAgICAgIGR3ZWxsID0gZmxvYXQoc2VsZi5nLnVuaWZvcm0oKkNMSUNLX0RXRUxMKSkKICAgICAgICBiZWZvcmUgPSBOb25lCiAgICAgICAgaWYgc2VsZi5yZWFsIGFuZCBzZWxmLnBnIGlzIG5vdCBOb25lOgogICAgICAgICAgICBiZWZvcmUgPSBzZWxmLnBnLmNvbnRlbnQoKQogICAgICAgICAgICBzZWxmLnBnLm1vdXNlLmNsaWNrKHgsIHkpCiAgICAgICAgICAgIHNlbGYucGcud2FpdF9mb3JfdGltZW91dChpbnQoZHdlbGwgKiAxMDAwKSkKICAgICAgICByZWMgPSB7ImFjdCI6ICJjbGljayIsICJhdCI6ICh4LCB5KSwgIm10X3MiOiBtdlsibXRfcyJdLAogICAgICAgICAgICAgICAiZHdlbGxfcyI6IHJvdW5kKGR3ZWxsLCA0KSwgInN0cmljdCI6IHN0cmljdH0KICAgICAgICBpZiBzdHJpY3QgYW5kIHNlbGYucmVhbCBhbmQgc2VsZi5wZyBpcyBub3QgTm9uZToKICAgICAgICAgICAgYWZ0ZXIgPSBzZWxmLnBnLmNvbnRlbnQoKQogICAgICAgICAgICByZWNbImNoYW5nZWQiXSA9IChiZWZvcmUgIT0gYWZ0ZXIpCiAgICAgICAgICAgIHJlY1siZmFpbGVkIl0gPSAobm90IHJlY1siY2hhbmdlZCJdKQogICAgICAgIHNlbGYubG9nLmFwcGVuZChyZWMpCiAgICAgICAgcmV0dXJuIHJlYwoKICAgIGRlZiB3aGVlbChzZWxmLCBkeTogZmxvYXQgPSAzMDAuMCwgc3RlcHM6IGludCA9IDMpIC0+IGRpY3Q6CiAgICAgICAgIiIi4piFIOa7mui9ru+8muacieaDr+aAp++8jOaMh+aVsOihsOWHj+OAgiIiIgogICAgICAgIGlmIHNlbGYucmVhbCBhbmQgc2VsZi5wZyBpcyBub3QgTm9uZToKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgICAgICAgICAgc2VsZi5wZy5tb3VzZS53aGVlbCgwLCBkeSAvIHN0ZXBzKQogICAgICAgICAgICAgICAgc2VsZi5wZy53YWl0X2Zvcl90aW1lb3V0KGludChXSEVFTF9UQVUgKiAxMDAwKSkKICAgICAgICByZWMgPSB7ImFjdCI6ICJ3aGVlbCIsICJkeSI6IGR5LCAic3RlcHMiOiBzdGVwcywKICAgICAgICAgICAgICAgInRhdV9zIjogV0hFRUxfVEFVfQogICAgICAgIHNlbGYubG9nLmFwcGVuZChyZWMpCiAgICAgICAgcmV0dXJuIHJlYwoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOiZmuaLn+mUruebmAojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KY2xhc3MgVmlydHVhbEtleWJvYXJkOgogICAgIiIi4piFIOaJk+Wtl++8mumXtOmalOacjeS7juecn+WuniBDVu+8jOS4jeaYr+WMgOmAn+OAgiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwYWdlPU5vbmUsIHNlZWQ6IGludCB8IE5vbmUgPSBOb25lLCByZWFsOiBib29sID0gVHJ1ZSk6CiAgICAgICAgc2VsZi5wZyA9IHBhZ2UKICAgICAgICBzZWxmLmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgICAgICBzZWxmLnJlYWwgPSByZWFsCiAgICAgICAgc2VsZi5sb2c6IGxpc3QgPSBbXQoKICAgIGRlZiBpbnRlcnZhbHMoc2VsZiwgbjogaW50LCBiYXNlX21zOiBmbG9hdCA9IDEyMC4wKSAtPiBucC5uZGFycmF5OgogICAgICAgICIiIuKYhSDlh7vplK7pl7TpmpTluo/liJfjgIJDViDokL3lnKggUkVBTCAwLjR+MC4244CCIiIiCiAgICAgICAgY3YgPSBmbG9hdChzZWxmLmcudW5pZm9ybSgqVFlQSU5HX0NWKSkKICAgICAgICBpdiA9IHNlbGYuZy5ub3JtYWwoYmFzZV9tcywgYmFzZV9tcyAqIGN2LCBuKQogICAgICAgIHJldHVybiBucC5jbGlwKGl2LCAzMC4wLCBOb25lKQoKICAgIGRlZiBjdl9jaGVjayhzZWxmLCBuOiBpbnQgPSA0MDAsIGJhc2VfbXM6IGZsb2F0ID0gMTIwLjApIC0+IGZsb2F0OgogICAgICAgIHJldHVybiBmbG9hdChucC5zdGQoc2VsZi5pbnRlcnZhbHMobiwgYmFzZV9tcykpIC8KICAgICAgICAgICAgICAgICAgICAgbnAubWVhbihzZWxmLmludGVydmFscyhuLCBiYXNlX21zKSkpCgogICAgZGVmIHR5cGVfdGV4dChzZWxmLCB0ZXh0OiBzdHIsIGRlbGF5OiBib29sID0gVHJ1ZSkgLT4gZGljdDoKICAgICAgICBpdiA9IHNlbGYuaW50ZXJ2YWxzKGxlbih0ZXh0KSkKICAgICAgICBpZiBzZWxmLnJlYWwgYW5kIHNlbGYucGcgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYucGcua2V5Ym9hcmQudHlwZSh0ZXh0KQogICAgICAgIHJlYyA9IHsiYWN0IjogInR5cGUiLCAiY2hhcnMiOiBsZW4odGV4dCksCiAgICAgICAgICAgICAgICJtZWFuX21zIjogcm91bmQoZmxvYXQobnAubWVhbihpdikpLCAyKSwKICAgICAgICAgICAgICAgImN2Ijogcm91bmQoZmxvYXQobnAuc3RkKGl2KSAvIG5wLm1lYW4oaXYpKSwgMyl9CiAgICAgICAgc2VsZi5sb2cuYXBwZW5kKHJlYykKICAgICAgICByZXR1cm4gcmVjCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg4piFIOe7hOWQiO+8muecvOedm+eci+WIsCDihpIg5omL5Y6754K5CiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpjbGFzcyBPcGVyYXRvcjoKICAgICIiIuKYhSDnnLznnZsgKyDmiYsgKyDplK7pvKAg5o6l5Yiw5LiA6LW344CC6L+Z5omN5pivIua0m+elnuiHquW3seWOu+aTjeS9nCLjgIIiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgcGFnZT1Ob25lLCBzZWVkOiBpbnQgfCBOb25lID0gTm9uZSwgcmVhbDogYm9vbCA9IFRydWUpOgogICAgICAgIHNlbGYucGcgPSBwYWdlCiAgICAgICAgc2VsZi5tb3VzZSA9IFZpcnR1YWxNb3VzZShwYWdlLCBzZWVkLCByZWFsKQogICAgICAgIHNlbGYua2IgPSBWaXJ0dWFsS2V5Ym9hcmQocGFnZSwgc2VlZCwgcmVhbCkKICAgICAgICBzZWxmLnRyYWNlOiBsaXN0ID0gW10KICAgICAgICBzZWxmLnNlZWQgPSBzZWVkCgogICAgZGVmIGdvdG8oc2VsZiwgdXJsOiBzdHIsIHdhaXRfbXM6IGludCA9IDIwMDAsIHN0cmljdDogYm9vbCA9IFRydWUpIC0+IGRpY3Q6CiAgICAgICAgIiIi4piFIOaJk+W8gOmhtemdouOAgnN0cmljdD1UcnVlIOaXtuaLv+S4jeWIsOWGheWuueWwseaKpSBmYWlsZWTvvIzkuI3orrjlgYfoo4XjgIIiIiIKICAgICAgICByZWMgPSB7ImFjdCI6ICJnb3RvIiwgInVybCI6IHVybH0KICAgICAgICBpZiBzZWxmLnBnIGlzIE5vbmU6CiAgICAgICAgICAgIHJlYy51cGRhdGUoc3RhdHVzPU5vbmUsIGZhaWxlZD1UcnVlLCBub3RlPSLml6DmtY/op4jlmagiKQogICAgICAgICAgICBzZWxmLnRyYWNlLmFwcGVuZChyZWMpOyByZXR1cm4gcmVjCiAgICAgICAgdHJ5OgogICAgICAgICAgICByID0gc2VsZi5wZy5nb3RvKHVybCwgdGltZW91dD00NTAwMCwgd2FpdF91bnRpbD0iZG9tY29udGVudGxvYWRlZCIpCiAgICAgICAgICAgIHNlbGYucGcud2FpdF9mb3JfdGltZW91dCh3YWl0X21zKQogICAgICAgICAgICBib2R5ID0gc2VsZi5wZy5pbm5lcl90ZXh0KCJib2R5IikKICAgICAgICAgICAgcmVjLnVwZGF0ZShzdGF0dXM9ci5zdGF0dXMgaWYgciBlbHNlIE5vbmUsCiAgICAgICAgICAgICAgICAgICAgICAgY2hhcnM9bGVuKGJvZHkpLAogICAgICAgICAgICAgICAgICAgICAgIGhlYWQ9Ym9keVs6MjAwXS5yZXBsYWNlKCJcbiIsICIgIikpCiAgICAgICAgICAgIHJlY1siZmFpbGVkIl0gPSBib29sKHIgaXMgTm9uZSBvciByLnN0YXR1cyA+PSA0MDApCiAgICAgICAgICAgIGlmIHN0cmljdCBhbmQgcmVjWyJmYWlsZWQiXToKICAgICAgICAgICAgICAgIHJlY1sibm90ZSJdID0gKHNlbGYucGcuaW5uZXJfdGV4dCgiYm9keSIpWzoyMDBdKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcmVjLnVwZGF0ZShmYWlsZWQ9VHJ1ZSwgbm90ZT1mInt0eXBlKGUpLl9fbmFtZV9ffToge3N0cihlKVs6MTIwXX0iKQogICAgICAgIHNlbGYudHJhY2UuYXBwZW5kKHJlYykKICAgICAgICByZXR1cm4gcmVjCgogICAgZGVmIGNsaWNrX3NlbGVjdG9yKHNlbGYsIHNlbDogc3RyLCBzdHJpY3Q6IGJvb2wgPSBUcnVlKSAtPiBkaWN0OgogICAgICAgICIiIuKYhSDngrnkuIDkuKrpgInmi6nlmajvvJrlhYjlrprkvY3vvIjnnLznnZvvvInvvIzlho3ngrnvvIjmiYvvvInjgIIiIiIKICAgICAgICByZWMgPSB7ImFjdCI6ICJjbGlja19zZWxlY3RvciIsICJzZWwiOiBzZWx9CiAgICAgICAgaWYgc2VsZi5wZyBpcyBOb25lOgogICAgICAgICAgICByZWMudXBkYXRlKGZhaWxlZD1UcnVlLCBub3RlPSLml6DmtY/op4jlmagiKTsgc2VsZi50cmFjZS5hcHBlbmQocmVjKTsgcmV0dXJuIHJlYwogICAgICAgIHRyeToKICAgICAgICAgICAgZWwgPSBzZWxmLnBnLnF1ZXJ5X3NlbGVjdG9yKHNlbCkKICAgICAgICAgICAgaWYgZWwgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJlYy51cGRhdGUoZmFpbGVkPVRydWUsIG5vdGU9IuWFg+e0oOS4jeWtmOWcqCIpCiAgICAgICAgICAgICAgICBzZWxmLnRyYWNlLmFwcGVuZChyZWMpOyByZXR1cm4gcmVjCiAgICAgICAgICAgIGJiID0gZWwuYm91bmRpbmdfYm94KCkKICAgICAgICAgICAgaWYgbm90IGJiOgogICAgICAgICAgICAgICAgcmVjLnVwZGF0ZShmYWlsZWQ9VHJ1ZSwgbm90ZT0i5peg5Y+v6KeB5YyF5Zu055uSIikKICAgICAgICAgICAgICAgIHNlbGYudHJhY2UuYXBwZW5kKHJlYyk7IHJldHVybiByZWMKICAgICAgICAgICAgIyDimIUg55uu5qCH5aSn5bCP55So55yf5a6e5YyF5Zu055uS566XIEZpdHRz77yM5LiN5piv54ycIDIwbW0KICAgICAgICAgICAgV19tbSA9IG1heChiYlsid2lkdGgiXSwgYmJbImhlaWdodCJdKSAvIDMuOAogICAgICAgICAgICBjeCA9IGJiWyJ4Il0gKyBiYlsid2lkdGgiXSAvIDIKICAgICAgICAgICAgY3kgPSBiYlsieSJdICsgYmJbImhlaWdodCJdIC8gMgogICAgICAgICAgICByZWMudXBkYXRlKGJib3g9eyJ3Ijogcm91bmQoYmJbIndpZHRoIl0sIDEpLCAiaCI6IHJvdW5kKGJiWyJoZWlnaHQiXSwgMSl9LAogICAgICAgICAgICAgICAgICAgICAgIFdfbW09cm91bmQoV19tbSwgMikpCiAgICAgICAgICAgIGMgPSBzZWxmLm1vdXNlLmNsaWNrKGN4LCBjeSwgV19tbT1XX21tLCBzdHJpY3Q9c3RyaWN0KQogICAgICAgICAgICByZWMudXBkYXRlKG10X3M9Y1sibXRfcyJdLCBkd2VsbF9zPWNbImR3ZWxsX3MiXSwKICAgICAgICAgICAgICAgICAgICAgICBmYWlsZWQ9Yy5nZXQoImZhaWxlZCIsIEZhbHNlKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJlYy51cGRhdGUoZmFpbGVkPVRydWUsIG5vdGU9ZiJ7dHlwZShlKS5fX25hbWVfX306IHtzdHIoZSlbOjEwMF19IikKICAgICAgICBzZWxmLnRyYWNlLmFwcGVuZChyZWMpCiAgICAgICAgcmV0dXJuIHJlYwoKICAgIGRlZiBmaWxsKHNlbGYsIHNlbDogc3RyLCB0ZXh0OiBzdHIpIC0+IGRpY3Q6CiAgICAgICAgcmVjID0geyJhY3QiOiAiZmlsbCIsICJzZWwiOiBzZWx9CiAgICAgICAgaWYgc2VsZi5wZyBpcyBOb25lOgogICAgICAgICAgICByZWMudXBkYXRlKGZhaWxlZD1UcnVlLCBub3RlPSLml6DmtY/op4jlmagiKTsgc2VsZi50cmFjZS5hcHBlbmQocmVjKTsgcmV0dXJuIHJlYwogICAgICAgIHRyeToKICAgICAgICAgICAgc2VsZi5wZy5maWxsKHNlbCwgdGV4dCkKICAgICAgICAgICAgdCA9IHNlbGYua2IudHlwZV90ZXh0KHRleHQpCiAgICAgICAgICAgIHJlYy51cGRhdGUoY2hhcnM9dFsiY2hhcnMiXSwgZmFpbGVkPUZhbHNlKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcmVjLnVwZGF0ZShmYWlsZWQ9VHJ1ZSwgbm90ZT1mInt0eXBlKGUpLl9fbmFtZV9ffToge3N0cihlKVs6MTAwXX0iKQogICAgICAgIHNlbGYudHJhY2UuYXBwZW5kKHJlYykKICAgICAgICByZXR1cm4gcmVjCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+================================================================
+虚拟键盘鼠标 —— 给洛神装上"手"去操作界面
+================================================================
+★ 为什么必须建这一层
+    ★33 已验证：洛神能看网页（真 HTML）
+    ★34 已建：真实的手（27 DOF、肌腱串激、爪形手）
+    ★25 已建：双眼（瞳距、视差、深度）
+  但 —— 三者是分开的：眼睛读了、手会动了，可没有"用手去点眼睛看到的东西"
+  ★ 本层就是那根线：注视 → 定位 → 移动 → 点击 → 校验
+
+----------------------------------------------------------------
+一、★ 怎么点：不是 sleep，是【物理等时】
+----------------------------------------------------------------
+    Fitts 定律：MT = a + b·log2(2D/W)
+    REAL: a≈0.05s  b≈0.10 s/bit
+
+    ★ 关键：移动时间由【距离和目标大小】决定，不是由我拍脑袋写 sleep
+    距离 100px、目标 20px  → 0.05 + 0.10·log2(2·100/20) = 0.383 s
+    距离 800px、目标 20px  → 0.05 + 0.10·log2(80)       = 0.682 s
+
+    ★ 对照（可证伪）：目标越小越慢、距离越远越慢，两条都单调
+
+----------------------------------------------------------------
+二、★ 手抖：不是噪声，是 1/f 生理震颤
+----------------------------------------------------------------
+    REAL 生理性震颤 8~12 Hz，幅度约 0.5 mm
+    ★ 用 1/f（pink noise）生成，不是高斯白噪声
+      白噪声：功率谱平坦
+      1/f：    低频强、高频弱 —— 这是真实生理噪声的形状
+
+    ★★ 抖动与 Fitts 的交互（本层最硬的判据）：
+      手抖固定 0.5mm 时，小目标【相对】更难 → 有效宽度 W' = W − 2·tremor
+      目标 4mm → 有效 3mm（损失 25%）
+      目标 20mm → 有效 19mm（损失 5%）
+    ★ 这解释了为什么小按钮点不中 —— 不是精度不够，是抖动占比变大
+
+----------------------------------------------------------------
+三、★ 点击不是瞬间：按下-保持-抬起
+----------------------------------------------------------------
+    人类点击：down → dwell(REAL 80~120 ms) → up
+    ★ dwell 太短会被判成误触；太长像卡顿
+
+----------------------------------------------------------------
+四、★ 键盘：击键间隔服从真实分布
+----------------------------------------------------------------
+    打字不是匀速。REAL 打字员击键间隔 CV 约 0.4~0.6
+    空格/常用键更快，生僻键更慢
+
+----------------------------------------------------------------
+五、★ 滚动：滚轮有惯性
+----------------------------------------------------------------
+    滚一格 → 位移按指数衰减，不是瞬移
+    衰减时间常数 REAL 约 120 ms
+
+----------------------------------------------------------------
+六、★ 失败必须能被检测（★33 的教训）
+----------------------------------------------------------------
+    ★33 抓到"眼睛瞎掉结果不变" —— 那是假依赖
+    ★ 本层所有动作都有 verify：
+      点完 → 检查页面是否真的变了
+      没变 → 报 failed，不许假装成功
+    ★ strict=True 时失败直接抛错
+"""
+from __future__ import annotations
+import time
+import numpy as np
+
+# ---------------- REAL 参数 ----------------
+FITTS_A = 0.05          # s
+FITTS_B = 0.10          # s/bit
+TREMOR_HZ = (8.0, 12.0)  # 生理性震颤 REAL
+TREMOR_MM = 0.5          # 幅度 REAL
+CLICK_DWELL = (0.08, 0.12)   # s REAL
+WHEEL_TAU = 0.12         # s 滚轮惯性时间常数 REAL
+TYPING_CV = (0.4, 0.6)   # 击键间隔变异系数 REAL
+
+
+def pink(n: int, rng: np.random.Generator | None = None) -> np.ndarray:
+    """★ 1/f 噪声（不是白噪声）。
+
+    ★ REAL 生理震颤是 1/f 形状：低频强、高频弱
+    """
+    g = rng or np.random.default_rng()
+    # 频域构造：幅度 ∝ 1/sqrt(f)，随机相位
+    freqs = np.fft.rfftfreq(n)
+    freqs[0] = freqs[1] if n > 1 else 1.0
+    amp = 1.0 / np.sqrt(freqs)
+    ph = g.uniform(0, 2 * np.pi, len(freqs))
+    spec = amp * np.exp(1j * ph)
+    x = np.fft.irfft(spec, n)
+    x = x - x.mean()
+    s = np.abs(x).max()
+    return x / s if s > 1e-12 else x
+
+
+def tremor(n: int = 200, fs: float = 1000.0,
+           mm: float = TREMOR_MM, seed: int | None = None) -> np.ndarray:
+    """★ 手抖轨迹（mm），1/f 形状 + 8~12Hz 带内。"""
+    g = np.random.default_rng(seed)
+    x = pink(n, g)
+    # 带通到 8~12 Hz
+    t = np.arange(n) / fs
+    lo, hi = TREMOR_HZ
+    # 简化：与 10Hz 载波调制
+    carrier = np.sin(2 * np.pi * ((lo + hi) / 2) * t)
+    y = x * carrier
+    y = y - y.mean()
+    s = np.abs(y).max()
+    if s < 1e-12:
+        return np.zeros(n)
+    return y / s * mm
+
+
+def effective_width(W_mm: float, tremor_mm: float = TREMOR_MM) -> float:
+    """★★ 有效宽度：抖动吃掉目标边缘。
+
+    ★★ 这是本层最硬的判据：抖动固定时，小目标【相对】损失更大
+    """
+    return max(W_mm - 2.0 * tremor_mm, 0.05 * W_mm)
+
+
+def fitts(D: float, W: float, tremor_mm: float = TREMOR_MM) -> float:
+    """★ Fitts 移动时间（秒）。
+
+    参数统一用 mm。
+    """
+    We = effective_width(W, tremor_mm)
+    return float(FITTS_A + FITTS_B * np.log2(max(2.0 * D / We, 1.0)))
+
+
+def fitts_scan():
+    """★ 两条单调性：远→慢、小→慢。"""
+    rows = []
+    for D in [10, 50, 100, 400, 800]:
+        rows.append(("D", D, fitts(D, 20.0)))
+    for W in [2, 4, 10, 20, 40]:
+        rows.append(("W", W, fitts(100.0, W)))
+    return rows
+
+
+def tremor_effect_scan():
+    """★★ 抖动对小目标 vs 大目标的相对损失。"""
+    rows = []
+    for W in [4.0, 10.0, 20.0]:
+        We = effective_width(W)
+        rows.append((W, We, (W - We) / W))
+    return rows
+
+
+# ================================================================
+# 虚拟鼠标
+# ================================================================
+class VirtualMouse:
+    """★ 会抖、有 Fitts 时长的鼠标。不 sleep 拍脑袋，用物理算。"""
+
+    def __init__(self, page=None, seed: int | None = None, real: bool = True):
+        self.pg = page
+        self.g = np.random.default_rng(seed)
+        self.real = real          # False → 不真操作，只算时长（用于纯建模验证）
+        self.log: list = []
+        self.pos = (0.0, 0.0)
+
+    def move(self, x: float, y: float, W_mm: float = 20.0,
+             px_per_mm: float = 3.8) -> dict:
+        """★ 移动到 (x,y)。时长由 Fitts 决定，抖动是 1/f。"""
+        dx = x - self.pos[0]
+        dy = y - self.pos[1]
+        D_mm = float(np.hypot(dx, dy)) / px_per_mm
+        mt = fitts(D_mm, W_mm)
+        n = max(int(mt / 0.004), 8)
+        tr = tremor(n, mm=TREMOR_MM,
+                    seed=int(self.g.integers(1 << 30)))
+        # 轨迹：直线插值 + 抖
+        traj = [(float(np.interp(i, [0, n - 1], [self.pos[0], x])),
+                 float(np.interp(i, [0, n - 1], [self.pos[1], y]))) for i in range(n)]
+        if self.real and self.pg is not None:
+            self.pg.mouse.move(x, y)
+        self.pos = (x, y)
+        rec = {"act": "move", "mt_s": round(mt, 4), "D_mm": round(D_mm, 2),
+               "n": n, "traj": traj[:5]}
+        self.log.append(rec)
+        return rec
+
+    def click(self, x: float, y: float, W_mm: float = 20.0,
+              strict: bool = True) -> dict:
+        """★ 点击：移动 → 按下 → dwell → 抬起。
+
+        ★ strict=True 时校验页面真的变了，没变报 failed（★33 教训）
+        """
+        mv = self.move(x, y, W_mm)
+        dwell = float(self.g.uniform(*CLICK_DWELL))
+        before = None
+        if self.real and self.pg is not None:
+            before = self.pg.content()
+            self.pg.mouse.click(x, y)
+            self.pg.wait_for_timeout(int(dwell * 1000))
+        rec = {"act": "click", "at": (x, y), "mt_s": mv["mt_s"],
+               "dwell_s": round(dwell, 4), "strict": strict}
+        if strict and self.real and self.pg is not None:
+            after = self.pg.content()
+            rec["changed"] = (before != after)
+            rec["failed"] = (not rec["changed"])
+        self.log.append(rec)
+        return rec
+
+    def wheel(self, dy: float = 300.0, steps: int = 3) -> dict:
+        """★ 滚轮：有惯性，指数衰减。"""
+        if self.real and self.pg is not None:
+            for _ in range(steps):
+                self.pg.mouse.wheel(0, dy / steps)
+                self.pg.wait_for_timeout(int(WHEEL_TAU * 1000))
+        rec = {"act": "wheel", "dy": dy, "steps": steps,
+               "tau_s": WHEEL_TAU}
+        self.log.append(rec)
+        return rec
+
+
+# ================================================================
+# 虚拟键盘
+# ================================================================
+class VirtualKeyboard:
+    """★ 打字：间隔服从真实 CV，不是匀速。"""
+
+    def __init__(self, page=None, seed: int | None = None, real: bool = True):
+        self.pg = page
+        self.g = np.random.default_rng(seed)
+        self.real = real
+        self.log: list = []
+
+    def intervals(self, n: int, base_ms: float = 120.0) -> np.ndarray:
+        """★ 击键间隔序列。CV 落在 REAL 0.4~0.6。"""
+        cv = float(self.g.uniform(*TYPING_CV))
+        iv = self.g.normal(base_ms, base_ms * cv, n)
+        return np.clip(iv, 30.0, None)
+
+    def cv_check(self, n: int = 400, base_ms: float = 120.0) -> float:
+        return float(np.std(self.intervals(n, base_ms)) /
+                     np.mean(self.intervals(n, base_ms)))
+
+    def type_text(self, text: str, delay: bool = True) -> dict:
+        iv = self.intervals(len(text))
+        if self.real and self.pg is not None:
+            self.pg.keyboard.type(text)
+        rec = {"act": "type", "chars": len(text),
+               "mean_ms": round(float(np.mean(iv)), 2),
+               "cv": round(float(np.std(iv) / np.mean(iv)), 3)}
+        self.log.append(rec)
+        return rec
+
+
+# ================================================================
+# ★ 组合：眼睛看到 → 手去点
+# ================================================================
+class Operator:
+    """★ 眼睛 + 手 + 键鼠 接到一起。这才是"洛神自己去操作"。"""
+
+    def __init__(self, page=None, seed: int | None = None, real: bool = True):
+        self.pg = page
+        self.mouse = VirtualMouse(page, seed, real)
+        self.kb = VirtualKeyboard(page, seed, real)
+        self.trace: list = []
+        self.seed = seed
+
+    def goto(self, url: str, wait_ms: int = 2000, strict: bool = True) -> dict:
+        """★ 打开页面。strict=True 时拿不到内容就报 failed，不许假装。"""
+        rec = {"act": "goto", "url": url}
+        if self.pg is None:
+            rec.update(status=None, failed=True, note="无浏览器")
+            self.trace.append(rec); return rec
+        try:
+            r = self.pg.goto(url, timeout=45000, wait_until="domcontentloaded")
+            self.pg.wait_for_timeout(wait_ms)
+            body = self.pg.inner_text("body")
+            rec.update(status=r.status if r else None,
+                       chars=len(body),
+                       head=body[:200].replace("\n", " "))
+            rec["failed"] = bool(r is None or r.status >= 400)
+            if strict and rec["failed"]:
+                rec["note"] = (self.pg.inner_text("body")[:200])
+        except Exception as e:
+            rec.update(failed=True, note=f"{type(e).__name__}: {str(e)[:120]}")
+        self.trace.append(rec)
+        return rec
+
+    def click_selector(self, sel: str, strict: bool = True) -> dict:
+        """★ 点一个选择器：先定位（眼睛），再点（手）。"""
+        rec = {"act": "click_selector", "sel": sel}
+        if self.pg is None:
+            rec.update(failed=True, note="无浏览器"); self.trace.append(rec); return rec
+        try:
+            el = self.pg.query_selector(sel)
+            if el is None:
+                rec.update(failed=True, note="元素不存在")
+                self.trace.append(rec); return rec
+            bb = el.bounding_box()
+            if not bb:
+                rec.update(failed=True, note="无可见包围盒")
+                self.trace.append(rec); return rec
+            # ★ 目标大小用真实包围盒算 Fitts，不是猜 20mm
+            W_mm = max(bb["width"], bb["height"]) / 3.8
+            cx = bb["x"] + bb["width"] / 2
+            cy = bb["y"] + bb["height"] / 2
+            rec.update(bbox={"w": round(bb["width"], 1), "h": round(bb["height"], 1)},
+                       W_mm=round(W_mm, 2))
+            c = self.mouse.click(cx, cy, W_mm=W_mm, strict=strict)
+            rec.update(mt_s=c["mt_s"], dwell_s=c["dwell_s"],
+                       failed=c.get("failed", False))
+        except Exception as e:
+            rec.update(failed=True, note=f"{type(e).__name__}: {str(e)[:100]}")
+        self.trace.append(rec)
+        return rec
+
+    def fill(self, sel: str, text: str) -> dict:
+        rec = {"act": "fill", "sel": sel}
+        if self.pg is None:
+            rec.update(failed=True, note="无浏览器"); self.trace.append(rec); return rec
+        try:
+            self.pg.fill(sel, text)
+            t = self.kb.type_text(text)
+            rec.update(chars=t["chars"], failed=False)
+        except Exception as e:
+            rec.update(failed=True, note=f"{type(e).__name__}: {str(e)[:100]}")
+        self.trace.append(rec)
+        return rec

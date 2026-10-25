@@ -1,1 +1,82 @@
-ewogImh0dHBzOi8vbWFpbC5xcS5jb20iOiBbCiAgMjAwLAogIDIwMCwKICAyMDAsCiAgMjAwLAogIDIwMCwKICAyMDAKIF0sCiAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS96ZW4iOiBbCiAgMjAwLAogIDQwMywKICAyMDAsCiAgMjAwLAogIDQwMywKICA0MDMKIF0sCiAiaHR0cHM6Ly9naXRodWIuY29tL0tMYW1lbmcvVEFDVC1UaHJlZS1BeGlzLUNoZWNrIjogWwogIDQwMywKICA0MDMsCiAgNDAzLAogIDQwMywKICA0MDMsCiAgNDAzCiBdLAogImh0dHBzOi8vY2FwdGNoYS5ndGltZy5jb20vc3RhdGljL3RlbXBsYXRlL2RyYWdfZWxlLmNiN2U1N2U1Lmh0bWwiOiBbCiAgNDAzLAogIDQwMywKICA0MDMsCiAgNDAzLAogIDQwMywKICA0MDMKIF0sCiAiaHR0cHM6Ly9jYXB0Y2hhLnFxLmNvbS9UQ2FwdGNoYS5qcyI6IFsKICAyMDAsCiAgMjAwLAogIDIwMCwKICAyMDAsCiAgMjAwLAogIDIwMAogXSwKICJodHRwczovL2dpdGVlLmNvbS9kcm9tYXJhL2Vhc3lBaSI6IFsKICA0MDMsCiAgNDAzLAogIDQwMywKICA0MDMsCiAgNDAzLAogIDQwMwogXSwKICJodHRwczovL2ltLnFxLmNvbS9pbmRleC8jL2xpbnV4IjogWwogIDIwMCwKICAyMDAsCiAgMjAwLAogIDIwMCwKICAyMDAsCiAgMjAwCiBdLAogImh0dHBzOi8vd3d3Lm9zY2hpbmEubmV0IjogWwogIDQwMywKICA0MDMsCiAgNDAzLAogIDQwMywKICA0MDMsCiAgNDAzCiBdLAogImh0dHBzOi8vd3d3LmJhaWR1LmNvbSI6IFsKICAyMDAsCiAgMjAwLAogIDIwMCwKICAyMDAsCiAgMjAwLAogIDIwMAogXSwKICJodHRwczovL3d3dy5xcS5jb20iOiBbCiAgMjAwLAogIDIwMCwKICAyMDAsCiAgMjAwLAogIDIwMCwKICAyMDAKIF0KfQ==
+{
+ "https://mail.qq.com": [
+  200,
+  200,
+  200,
+  200,
+  200,
+  200
+ ],
+ "https://api.github.com/zen": [
+  200,
+  403,
+  200,
+  200,
+  403,
+  403
+ ],
+ "https://github.com/KLameng/TACT-Three-Axis-Check": [
+  403,
+  403,
+  403,
+  403,
+  403,
+  403
+ ],
+ "https://captcha.gtimg.com/static/template/drag_ele.cb7e57e5.html": [
+  403,
+  403,
+  403,
+  403,
+  403,
+  403
+ ],
+ "https://captcha.qq.com/TCaptcha.js": [
+  200,
+  200,
+  200,
+  200,
+  200,
+  200
+ ],
+ "https://gitee.com/dromara/easyAi": [
+  403,
+  403,
+  403,
+  403,
+  403,
+  403
+ ],
+ "https://im.qq.com/index/#/linux": [
+  200,
+  200,
+  200,
+  200,
+  200,
+  200
+ ],
+ "https://www.oschina.net": [
+  403,
+  403,
+  403,
+  403,
+  403,
+  403
+ ],
+ "https://www.baidu.com": [
+  200,
+  200,
+  200,
+  200,
+  200,
+  200
+ ],
+ "https://www.qq.com": [
+  200,
+  200,
+  200,
+  200,
+  200,
+  200
+ ]
+}

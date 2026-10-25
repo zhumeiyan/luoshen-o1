@@ -1,1 +1,44 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG9zCmltcG9ydCBtYXRwbG90bGliOyBtYXRwbG90bGliLnVzZSgnQWdnJykKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAppbXBvcnQgbnVtcHkgYXMgbnAKcGx0LnJjUGFyYW1zWydmb250LnNhbnMtc2VyaWYnXT1bJ1dlblF1YW5ZaSBNaWNybyBIZWknXTsgcGx0LnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXT1GYWxzZQpPVVQ9b3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCmI9anNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKE9VVCwncmVzdWx0XzA5OWIuanNvbicpKSkKZD1qc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oT1VULCdyZXN1bHRfMDk5ZC5qc29uJykpKQpmaWcsYXg9cGx0LnN1YnBsb3RzKDEsMyxmaWdzaXplPSgxNiw0LjYpKQoKIyAxIOaJsOWKqOmYtuair++8muWdkOagh+aUueWPmOeOhwpuYW1lcz1bJ+acq+WwvuWKoOWPpeWPtycsJ+WOu+epuuagvCcsJ+WPpeW6j+aJk+S5sScsJ+i/veWKoOaXoOWFs+WPpScsJ+aNojHkuKrlhbPplK7or40nLCfmjaIz5Liq5YWz6ZSu6K+NJywn5o2i5YWo6YOo5Y+v5o2i5YWz6ZSu6K+NJ10KdmFscz1bYltuXVsnY2hhbmdlZCddL2Jbbl1bJ24nXSoxMDAgZm9yIG4gaW4gbmFtZXNdCmNvbHM9WycjNGE5MGQ5J10qNCtbJyNkOTRhNGEnLCcjYzAzOTJiJywnIzhlMWYxNiddCmF4WzBdLmJhcihyYW5nZShsZW4obmFtZXMpKSx2YWxzLGNvbG9yPWNvbHMpCmF4WzBdLnNldF94dGlja3MocmFuZ2UobGVuKG5hbWVzKSkpOyBheFswXS5zZXRfeHRpY2tsYWJlbHMobmFtZXMscm90YXRpb249MzUsaGE9J3JpZ2h0Jyxmb250c2l6ZT04KQpheFswXS5zZXRfeWxhYmVsKCflnZDmoIfmlLnlj5jnjocgKCUpJyk7IGF4WzBdLnNldF90aXRsZSgn6KGo6Z2i5omw5Yqo6Zu25pWI5bqUIC8g6K+t5LmJ5o2i6K+N5YmC6YeP5Y+N5bqUJykKZm9yIGksdiBpbiBlbnVtZXJhdGUodmFscyk6IGF4WzBdLnRleHQoaSx2KzEsZid7djouMGZ9JScsaGE9J2NlbnRlcicsZm9udHNpemU9OCkKCiMgMiDkuInovbTlj6zlm57pmo/mjaLor43mlbDkuIvpmY0Ka3M9Wyfljp/mlocnLCfmjaIx6K+NJywn5o2iM+ivjScsJ+aNouWFqOmDqCddCmxhYj1bJ+WOn+aWhygwKScsJ+aNojHor40nLCfmjaIz6K+NJywn5o2i5YWo6YOoJ10KTD1bNzcuOCw2NS4wLDUwLjAsNTAuMF07IE09Wzk1LjUsOTQuMSw5NC4xLDg4LjJdOyBQPVs4NS43LDcyLjIsNzIuMiw2Ni43XQp4PW5wLmFyYW5nZSg0KQpheFsxXS5wbG90KHgsTCwnby0nLGxhYmVsPSdMIOWcqOWTquS4gOWxgueKrycsY29sb3I9JyNkOTRhNGEnKQpheFsxXS5wbG90KHgsTSwncy0nLGxhYmVsPSdNIOaAjuS5iOmUmeeahCcsY29sb3I9JyM0YTkwZDknKQpheFsxXS5wbG90KHgsUCwnXi0tJyxsYWJlbD0nUCDnoLTlnY/kuoblk6rpnaInLGNvbG9yPScjMmNhMDVhJykKYXhbMV0uc2V0X3h0aWNrcyh4KTsgYXhbMV0uc2V0X3h0aWNrbGFiZWxzKGxhYixmb250c2l6ZT04KTsgYXhbMV0uc2V0X3lsYWJlbCgn5Y+s5Zue546HICglKScpCmF4WzFdLnNldF90aXRsZSgnTCDovbTmnIDohIblvLHvvIjiiJIyOHB077yJLyBNIOi9tOacgOeos++8iOKIkjdwdO+8iScpOyBheFsxXS5sZWdlbmQoZm9udHNpemU9Nyk7IGF4WzFdLmdyaWQoYWxwaGE9LjMpCgojIDMg5byV5pOO77ya5Y+v6K+75oCn5peg5pWI5bqUIHZzIOacieaXoOaEn+WumOW8uuaViOW6lAppdGVtcz1bKCflj6/or7vmgKcgMC44NuKGkjAuNjgnLGRbJ3BhaXJlZF9vcmlnX3ZzX2FsbCddWydkaWZmJ10sZFsncGFpcmVkX29yaWdfdnNfYWxsJ11bJ2NpJ10pLAogICAgICAgKCfml6DmhJ/lrpjihpLmnInmhJ/lrpgnLGRbJ3BhaXJlZF9ub25lX3ZzX29yaWcnXVsnZGlmZiddLGRbJ3BhaXJlZF9ub25lX3ZzX29yaWcnXVsnY2knXSldCnk9bnAuYXJhbmdlKDIpCmF4WzJdLmJhcmgoeSxbaVsxXSBmb3IgaSBpbiBpdGVtc10seGVycj1bW2lbMV0taVsyXVswXSBmb3IgaSBpbiBpdGVtc10sW2lbMl1bMV0taVsxXSBmb3IgaSBpbiBpdGVtc11dLAogICAgICAgICAgIGNvbG9yPVsnIzk5OScsJyNkOTRhNGEnXSxoZWlnaHQ9LjUsY2Fwc2l6ZT01KQpheFsyXS5zZXRfeXRpY2tzKHkpOyBheFsyXS5zZXRfeXRpY2tsYWJlbHMoW2lbMF0gZm9yIGkgaW4gaXRlbXNdLGZvbnRzaXplPTkpCmF4WzJdLmF4dmxpbmUoMCxjb2xvcj0naycsbHc9MSk7IGF4WzJdLnNldF94bGFiZWwoJ+WGheWcqOe7k+aehOWBj+W6piDphY3lr7nlt64gzpQgKDk1JUNJKScpCmF4WzJdLnNldF90aXRsZSgn6K+75b6X5aSa5YeGIOKGkiDml6DmlYjlupQoQ0not6gwKVxu5pyJ5rKh5pyJ5oSf5a6YIOKGkiDOlD0rMi41NyhDSeWFqOatoyknKQpmb3IgaSwobix2LGNpKSBpbiBlbnVtZXJhdGUoaXRlbXMpOgogICAgYXhbMl0udGV4dCh2LGksZicgIM6UPXt2OisuM2Z9Jyx2YT0nY2VudGVyJyxmb250c2l6ZT04KQpwbHQudGlnaHRfbGF5b3V0KCk7IHBsdC5zYXZlZmlnKCcvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9maWcvMDk5X3RhY3RfcnVuLnBuZycsZHBpPTEzMCkKcHJpbnQoJ3NhdmVkJykK
+# -*- coding: utf-8 -*-
+import json, os
+import matplotlib; matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import numpy as np
+plt.rcParams['font.sans-serif']=['WenQuanYi Micro Hei']; plt.rcParams['axes.unicode_minus']=False
+OUT=os.path.dirname(os.path.abspath(__file__))
+b=json.load(open(os.path.join(OUT,'result_099b.json')))
+d=json.load(open(os.path.join(OUT,'result_099d.json')))
+fig,ax=plt.subplots(1,3,figsize=(16,4.6))
+
+# 1 扰动阶梯：坐标改变率
+names=['末尾加句号','去空格','句序打乱','追加无关句','换1个关键词','换3个关键词','换全部可换关键词']
+vals=[b[n]['changed']/b[n]['n']*100 for n in names]
+cols=['#4a90d9']*4+['#d94a4a','#c0392b','#8e1f16']
+ax[0].bar(range(len(names)),vals,color=cols)
+ax[0].set_xticks(range(len(names))); ax[0].set_xticklabels(names,rotation=35,ha='right',fontsize=8)
+ax[0].set_ylabel('坐标改变率 (%)'); ax[0].set_title('表面扰动零效应 / 语义换词剂量反应')
+for i,v in enumerate(vals): ax[0].text(i,v+1,f'{v:.0f}%',ha='center',fontsize=8)
+
+# 2 三轴召回随换词数下降
+ks=['原文','换1词','换3词','换全部']
+lab=['原文(0)','换1词','换3词','换全部']
+L=[77.8,65.0,50.0,50.0]; M=[95.5,94.1,94.1,88.2]; P=[85.7,72.2,72.2,66.7]
+x=np.arange(4)
+ax[1].plot(x,L,'o-',label='L 在哪一层犯',color='#d94a4a')
+ax[1].plot(x,M,'s-',label='M 怎么错的',color='#4a90d9')
+ax[1].plot(x,P,'^--',label='P 破坏了哪面',color='#2ca05a')
+ax[1].set_xticks(x); ax[1].set_xticklabels(lab,fontsize=8); ax[1].set_ylabel('召回率 (%)')
+ax[1].set_title('L 轴最脆弱（−28pt）/ M 轴最稳（−7pt）'); ax[1].legend(fontsize=7); ax[1].grid(alpha=.3)
+
+# 3 引擎：可读性无效应 vs 有无感官强效应
+items=[('可读性 0.86→0.68',d['paired_orig_vs_all']['diff'],d['paired_orig_vs_all']['ci']),
+       ('无感官→有感官',d['paired_none_vs_orig']['diff'],d['paired_none_vs_orig']['ci'])]
+y=np.arange(2)
+ax[2].barh(y,[i[1] for i in items],xerr=[[i[1]-i[2][0] for i in items],[i[2][1]-i[1] for i in items]],
+           color=['#999','#d94a4a'],height=.5,capsize=5)
+ax[2].set_yticks(y); ax[2].set_yticklabels([i[0] for i in items],fontsize=9)
+ax[2].axvline(0,color='k',lw=1); ax[2].set_xlabel('内在结构偏度 配对差 Δ (95%CI)')
+ax[2].set_title('读得多准 → 无效应(CI跨0)\n有没有感官 → Δ=+2.57(CI全正)')
+for i,(n,v,ci) in enumerate(items):
+    ax[2].text(v,i,f'  Δ={v:+.3f}',va='center',fontsize=8)
+plt.tight_layout(); plt.savefig('/data/workspace/luoshen-o1/fig/099_tact_run.png',dpi=130)
+print('saved')

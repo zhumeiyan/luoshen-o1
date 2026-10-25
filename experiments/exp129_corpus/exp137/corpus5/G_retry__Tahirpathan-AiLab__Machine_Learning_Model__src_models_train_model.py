@@ -1,1 +1,406 @@
-aW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBwYW5kYXMgYXMgcGQKZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgdHJhaW5fdGVzdF9zcGxpdAppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gTGVhcm5pbmdBbGdvcml0aG1zIGltcG9ydCBDbGFzc2lmaWNhdGlvbkFsZ29yaXRobXMKaW1wb3J0IHNlYWJvcm4gYXMgc25zCmltcG9ydCBpdGVydG9vbHMKZnJvbSBza2xlYXJuLm1ldHJpY3MgaW1wb3J0IGFjY3VyYWN5X3Njb3JlLCBjb25mdXNpb25fbWF0cml4CgoKIyBQbG90IHNldHRpbmdzCnBsdC5zdHlsZS51c2UoImZpdmV0aGlydHllaWdodCIpCnBsdC5yY1BhcmFtc1siZmlndXJlLmZpZ3NpemUiXSA9ICgyMCwgNSkKcGx0LnJjUGFyYW1zWyJmaWd1cmUuZHBpIl0gPSAxMDAKcGx0LnJjUGFyYW1zWyJsaW5lcy5saW5ld2lkdGgiXSA9IDIKCmRmID0gcGQucmVhZF9waWNrbGUoImRhdGEvaW50ZXJpbS9kYXRhX2ZlYXR1cmVzLnBrbCIpCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDcmVhdGUgYSB0cmFpbmluZyBhbmQgdGVzdCBzZXQKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpkZl90cmFpbiA9IGRmLmRyb3AoWyJwYXJ0aWNpcGFudHMiLCAiY2F0YWdvcnkiLCAic2V0Il0sIGF4aXM9MSkKClggPSBkZl90cmFpbi5kcm9wKFsibGFibGUiXSwgYXhpcz0xKQp5ID0gZGZfdHJhaW5bImxhYmxlIl0KClhfdHJhaW4sIFhfdGVzdCwgeV90cmFpbiwgeV90ZXN0ID0gdHJhaW5fdGVzdF9zcGxpdCgKICAgIFgsIHksIHRlc3Rfc2l6ZT0wLjI1LCByYW5kb21fc3RhdGU9NDIsIHN0cmF0aWZ5PXkKKQoKZmlnLCBheCA9IHBsdC5zdWJwbG90cyhmaWdzaXplPSgxMCwgNSkpCmRmX3RyYWluWyJsYWJsZSJdLnZhbHVlX2NvdW50cygpLnBsb3QoCiAgICBraW5kPSJiYXIiLCBheD1heCwgY29sb3I9ImxpZ2h0Ymx1ZSIsIGxhYmVsPSJUb3RhbCIKKQoKeV90cmFpbi52YWx1ZV9jb3VudHMoKS5wbG90KGtpbmQ9ImJhciIsIGF4PWF4LCBjb2xvcj0iZG9kZ2VyYmx1ZSIsIGxhYmVsPSJUcmFpbiIpCnlfdGVzdC52YWx1ZV9jb3VudHMoKS5wbG90KGtpbmQ9ImJhciIsIGF4PWF4LCBjb2xvcj0icm95YWxibHVlIiwgbGFiZWw9IlRlc3QiKQoKcGx0LmxlZ2VuZCgpCnBsdC5zaG93KCkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBTcGxpdCBmZWF0dXJlIHN1YnNldHMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpiYXNpY19mZWF0dXJlcyA9IFsiYWNjX3giLCAiYWNjX3kiLCAiYWNjX3oiLCAiZ3lyX3giLCAiZ3lyX3kiLCAiZ3lyX3oiXQpzcXVhcmVfZmVhdHVyZXMgPSBbImFjY19yIiwgImd5cl9yIl0KcGNhX2ZlYXR1cmVzID0gWyJwY2FfMSIsICJwY2FfMiIsICJwY2FfMyJdCnRpbWVfZmVhdHVyZXMgPSBbZiBmb3IgZiBpbiBkZl90cmFpbi5jb2x1bW5zIGlmICJfdGVtcF8iIGluIGZdCmZyZXFfZmVhdHVyZXMgPSBbZiBmb3IgZiBpbiBkZl90cmFpbi5jb2x1bW5zIGlmICgoIl9mcmVxIiBpbiBmKSBvciAoIl9wc2UiIGluIGYpKV0KY2x1c3Rlcl9mZWF0dXJlcyA9IFsiY2x1c3RlciJdCgpwcmludCgiQmFzaWMgZmVhdHVyZXM6IiwgbGVuKGJhc2ljX2ZlYXR1cmVzKSkKcHJpbnQoIlNxdWFyZSBmZWF0dXJlczoiLCBsZW4oc3F1YXJlX2ZlYXR1cmVzKSkKcHJpbnQoIlBDQSBmZWF0dXJlczoiLCBsZW4ocGNhX2ZlYXR1cmVzKSkKcHJpbnQoIlRpbWUgZmVhdHVyZXM6IiwgbGVuKHRpbWVfZmVhdHVyZXMpKQpwcmludCgiRnJlcXVlbmN5IGZlYXR1cmVzOiIsIGxlbihmcmVxX2ZlYXR1cmVzKSkKcHJpbnQoIkNsdXN0ZXIgZmVhdHVyZXM6IiwgbGVuKGNsdXN0ZXJfZmVhdHVyZXMpKQoKZmVhdHVyZV9zZXRfMSA9IGxpc3Qoc2V0KGJhc2ljX2ZlYXR1cmVzKSkKZmVhdHVyZV9zZXRfMiA9IGxpc3Qoc2V0KGJhc2ljX2ZlYXR1cmVzICsgc3F1YXJlX2ZlYXR1cmVzICsgcGNhX2ZlYXR1cmVzKSkKZmVhdHVyZV9zZXRfMyA9IGxpc3Qoc2V0KGZlYXR1cmVfc2V0XzIgKyB0aW1lX2ZlYXR1cmVzKSkKZmVhdHVyZV9zZXRfNCA9IGxpc3Qoc2V0KGZlYXR1cmVfc2V0XzMgKyBmcmVxX2ZlYXR1cmVzICsgY2x1c3Rlcl9mZWF0dXJlcykpCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgUGVyZm9ybSBmb3J3YXJkIGZlYXR1cmUgc2VsZWN0aW9uIHVzaW5nIHNpbXBsZSBkZWNpc2lvbiB0cmVlCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KbGVhcm5lciA9IENsYXNzaWZpY2F0aW9uQWxnb3JpdGhtcygpCgptYXhfZmVhdHVyZXMgPSAxMAoKc2VsZWN0ZWRfZmVhdHVyZXMsIG9yZGVyZWRfZmVhdHVyZXMsIG9yZGVyZWRfc2NvcmVzID0gbGVhcm5lci5mb3J3YXJkX3NlbGVjdGlvbigKICAgIG1heF9mZWF0dXJlcywgWF90cmFpbiwgeV90cmFpbgopCgpzZWxlY3RlZF9mZWF0dXJlcyA9IFsKICAgICJhY2NfeF9mcmVxXzAuMF9Iel93c18xNCIsCiAgICAiYWNjX3pfZnJlcV8wLjBfSHpfd3NfMTQiLAogICAgImFjY195X2ZyZXFfMC4zNTdfSHpfd3NfMTQiLAogICAgImd5cl94X2ZyZXFfMS40MjlfSHpfd3NfMTQiLAogICAgImFjY194IiwKICAgICJneXJfeF90ZW1wX21lYW5fd3NfNSIsCiAgICAiZ3lyX3pfZnJlcV93ZWlnaHRlZCIsCiAgICAiZ3lyX3hfbWF4X2ZyZXEiLAogICAgImxhYmVsIiwKICAgICJneXJfcl9tYXhfZnJlcSIsCl0KcGx0LmZpZ3VyZShmaWdzaXplPSgxMCwgNSkpCnBsdC5wbG90KG5wLmFyYW5nZSgxLCBtYXhfZmVhdHVyZXMgKyAxKSwgb3JkZXJlZF9zY29yZXMpCnBsdC54bGFiZWwoIk51bWJlciBvZiBmZWF0dXJlcyIpCnBsdC55bGFiZWwoIkFjY3VyYWN5IikKcGx0Lnh0aWNrcyhucC5hcmFuZ2UoMSwgbWF4X2ZlYXR1cmVzICsgMSwgMSkpCnBsdC5zaG93KCkKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBHcmlkIHNlYXJjaCBmb3IgYmVzdCBoeXBlcnBhcmFtZXRlcnMgYW5kIG1vZGVsIHNlbGVjdGlvbgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnBvc3NpYmxlX2ZlYXR1cmVfc2V0cyA9IFsKICAgIGZlYXR1cmVfc2V0XzEsCiAgICBmZWF0dXJlX3NldF8yLAogICAgZmVhdHVyZV9zZXRfMywKICAgIGZlYXR1cmVfc2V0XzQsCiAgICBzZWxlY3RlZF9mZWF0dXJlcywKXQoKZmVhdHVyZV9uYW1lcyA9IFsKICAgICJGZWF0dXJlIFNldCAxIiwKICAgICJGZWF0dXJlIFNldCAyIiwKICAgICJGZWF0dXJlIFNldCAzIiwKICAgICJGZWF0dXJlIFNldCA0IiwKICAgICJTZWxlY3RlZCBGZWF0dXJlcyIsCl0KCml0ZXJhdGlvbnMgPSAxCnNjb3JlX2RmID0gcGQuRGF0YUZyYW1lKCkKCgpmb3IgaSwgZiBpbiB6aXAocmFuZ2UobGVuKHBvc3NpYmxlX2ZlYXR1cmVfc2V0cykpLCBmZWF0dXJlX25hbWVzKToKICAgIHByaW50KCJGZWF0dXJlIHNldDoiLCBpKQogICAgc2VsZWN0ZWRfdHJhaW5fWCA9IFhfdHJhaW5bcG9zc2libGVfZmVhdHVyZV9zZXRzW2ldXQogICAgc2VsZWN0ZWRfdGVzdF9YID0gWF90ZXN0W3Bvc3NpYmxlX2ZlYXR1cmVfc2V0c1tpXV0KCiAgICAjIEZpcnN0IHJ1biBub24gZGV0ZXJtaW5pc3RpYyBjbGFzc2lmaWVycyB0byBhdmVyYWdlIHRoZWlyIHNjb3JlLgogICAgcGVyZm9ybWFuY2VfdGVzdF9ubiA9IDAKICAgIHBlcmZvcm1hbmNlX3Rlc3RfcmYgPSAwCgogICAgZm9yIGl0IGluIHJhbmdlKDAsIGl0ZXJhdGlvbnMpOgogICAgICAgIHByaW50KCJcdFRyYWluaW5nIG5ldXJhbCBuZXR3b3JrLCIsIGl0KQogICAgICAgICgKICAgICAgICAgICAgY2xhc3NfdHJhaW5feSwKICAgICAgICAgICAgY2xhc3NfdGVzdF95LAogICAgICAgICAgICBjbGFzc190cmFpbl9wcm9iX3ksCiAgICAgICAgICAgIGNsYXNzX3Rlc3RfcHJvYl95LAogICAgICAgICkgPSBsZWFybmVyLmZlZWRmb3J3YXJkX25ldXJhbF9uZXR3b3JrKAogICAgICAgICAgICBzZWxlY3RlZF90cmFpbl9YLAogICAgICAgICAgICB5X3RyYWluLAogICAgICAgICAgICBzZWxlY3RlZF90ZXN0X1gsCiAgICAgICAgICAgIGdyaWRzZWFyY2g9RmFsc2UsCiAgICAgICAgKQogICAgICAgIHBlcmZvcm1hbmNlX3Rlc3Rfbm4gKz0gYWNjdXJhY3lfc2NvcmUoeV90ZXN0LCBjbGFzc190ZXN0X3kpCgogICAgICAgIHByaW50KCJcdFRyYWluaW5nIHJhbmRvbSBmb3Jlc3QsIiwgaXQpCiAgICAgICAgKAogICAgICAgICAgICBjbGFzc190cmFpbl95LAogICAgICAgICAgICBjbGFzc190ZXN0X3ksCiAgICAgICAgICAgIGNsYXNzX3RyYWluX3Byb2JfeSwKICAgICAgICAgICAgY2xhc3NfdGVzdF9wcm9iX3ksCiAgICAgICAgKSA9IGxlYXJuZXIucmFuZG9tX2ZvcmVzdCgKICAgICAgICAgICAgc2VsZWN0ZWRfdHJhaW5fWCwgeV90cmFpbiwgc2VsZWN0ZWRfdGVzdF9YLCBncmlkc2VhcmNoPVRydWUKICAgICAgICApCiAgICAgICAgcGVyZm9ybWFuY2VfdGVzdF9yZiArPSBhY2N1cmFjeV9zY29yZSh5X3Rlc3QsIGNsYXNzX3Rlc3RfeSkKCiAgICBwZXJmb3JtYW5jZV90ZXN0X25uID0gcGVyZm9ybWFuY2VfdGVzdF9ubiAvIGl0ZXJhdGlvbnMKICAgIHBlcmZvcm1hbmNlX3Rlc3RfcmYgPSBwZXJmb3JtYW5jZV90ZXN0X3JmIC8gaXRlcmF0aW9ucwoKICAgICMgQW5kIHdlIHJ1biBvdXIgZGV0ZXJtaW5pc3RpYyBjbGFzc2lmaWVyczoKICAgIHByaW50KCJcdFRyYWluaW5nIEtOTiIpCiAgICAoCiAgICAgICAgY2xhc3NfdHJhaW5feSwKICAgICAgICBjbGFzc190ZXN0X3ksCiAgICAgICAgY2xhc3NfdHJhaW5fcHJvYl95LAogICAgICAgIGNsYXNzX3Rlc3RfcHJvYl95LAogICAgKSA9IGxlYXJuZXIua19uZWFyZXN0X25laWdoYm9yKAogICAgICAgIHNlbGVjdGVkX3RyYWluX1gsIHlfdHJhaW4sIHNlbGVjdGVkX3Rlc3RfWCwgZ3JpZHNlYXJjaD1UcnVlCiAgICApCiAgICBwZXJmb3JtYW5jZV90ZXN0X2tubiA9IGFjY3VyYWN5X3Njb3JlKHlfdGVzdCwgY2xhc3NfdGVzdF95KQoKICAgIHByaW50KCJcdFRyYWluaW5nIGRlY2lzaW9uIHRyZWUiKQogICAgKAogICAgICAgIGNsYXNzX3RyYWluX3ksCiAgICAgICAgY2xhc3NfdGVzdF95LAogICAgICAgIGNsYXNzX3RyYWluX3Byb2JfeSwKICAgICAgICBjbGFzc190ZXN0X3Byb2JfeSwKICAgICkgPSBsZWFybmVyLmRlY2lzaW9uX3RyZWUoCiAgICAgICAgc2VsZWN0ZWRfdHJhaW5fWCwgeV90cmFpbiwgc2VsZWN0ZWRfdGVzdF9YLCBncmlkc2VhcmNoPVRydWUKICAgICkKICAgIHBlcmZvcm1hbmNlX3Rlc3RfZHQgPSBhY2N1cmFjeV9zY29yZSh5X3Rlc3QsIGNsYXNzX3Rlc3RfeSkKCiAgICBwcmludCgiXHRUcmFpbmluZyBuYWl2ZSBiYXllcyIpCiAgICAoCiAgICAgICAgY2xhc3NfdHJhaW5feSwKICAgICAgICBjbGFzc190ZXN0X3ksCiAgICAgICAgY2xhc3NfdHJhaW5fcHJvYl95LAogICAgICAgIGNsYXNzX3Rlc3RfcHJvYl95LAogICAgKSA9IGxlYXJuZXIubmFpdmVfYmF5ZXMoc2VsZWN0ZWRfdHJhaW5fWCwgeV90cmFpbiwgc2VsZWN0ZWRfdGVzdF9YKQoKICAgIHBlcmZvcm1hbmNlX3Rlc3RfbmIgPSBhY2N1cmFjeV9zY29yZSh5X3Rlc3QsIGNsYXNzX3Rlc3RfeSkKCiAgICAjIFNhdmUgcmVzdWx0cyB0byBkYXRhZnJhbWUKICAgIG1vZGVscyA9IFsiTk4iLCAiUkYiLCAiS05OIiwgIkRUIiwgIk5CIl0KICAgIG5ld19zY29yZXMgPSBwZC5EYXRhRnJhbWUoCiAgICAgICAgewogICAgICAgICAgICAibW9kZWwiOiBtb2RlbHMsCiAgICAgICAgICAgICJmZWF0dXJlX3NldCI6IGYsCiAgICAgICAgICAgICJhY2N1cmFjeSI6IFsKICAgICAgICAgICAgICAgIHBlcmZvcm1hbmNlX3Rlc3Rfbm4sCiAgICAgICAgICAgICAgICBwZXJmb3JtYW5jZV90ZXN0X3JmLAogICAgICAgICAgICAgICAgcGVyZm9ybWFuY2VfdGVzdF9rbm4sCiAgICAgICAgICAgICAgICBwZXJmb3JtYW5jZV90ZXN0X2R0LAogICAgICAgICAgICAgICAgcGVyZm9ybWFuY2VfdGVzdF9uYiwKICAgICAgICAgICAgXSwKICAgICAgICB9CiAgICApCiAgICBzY29yZV9kZiA9IHBkLmNvbmNhdChbc2NvcmVfZGYsIG5ld19zY29yZXNdKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIENyZWF0ZSBhIGdyb3VwZWQgYmFyIHBsb3QgdG8gY29tcGFyZSB0aGUgcmVzdWx0cwojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnNjb3JlX2RmLnNvcnRfdmFsdWVzKGJ5PSJhY2N1cmFjeSIsIGFzY2VuZGluZz1GYWxzZSkKCnBsdC5maWd1cmUoZmlnc2l6ZT0oMTAsIDEwKSkKCnNucy5iYXJwbG90KAogICAgeD0ibW9kZWwiLAogICAgeT0iYWNjdXJhY3kiLAogICAgaHVlPSJmZWF0dXJlX3NldCIsCiAgICBkYXRhPXNjb3JlX2RmLAopCgpwbHQueGxhYmVsKCJNb2RlbCIpCnBsdC55bGFiZWwoIkFjY3VyYWN5IikKcGx0LnlsaW0oKDAuNywgMSkpCnBsdC5sZWdlbmQobG9jPSJsb3dlciByaWdodCIpCgpwbHQuc2hvdygpCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgU2VsZWN0IGJlc3QgbW9kZWwgYW5kIGV2YWx1YXRlIHJlc3VsdHMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQooCiAgICBjbGFzc190cmFpbl95LAogICAgY2xhc3NfdGVzdF95LAogICAgY2xhc3NfdHJhaW5fcHJvYl95LAogICAgY2xhc3NfdGVzdF9wcm9iX3ksCikgPSBsZWFybmVyLnJhbmRvbV9mb3Jlc3QoCiAgICBYX3RyYWluW2ZlYXR1cmVfc2V0XzRdLAogICAgeV90cmFpbiwKICAgIFhfdGVzdFtmZWF0dXJlX3NldF80XSwKICAgIGdyaWRzZWFyY2g9VHJ1ZSwKKQoKYWNjdXJhY3kgPSBhY2N1cmFjeV9zY29yZSh5X3Rlc3QsIGNsYXNzX3Rlc3RfeSkKCmNsYXNzZXMgPSBjbGFzc190ZXN0X3Byb2JfeS5jb2x1bW5zCmNtID0gY29uZnVzaW9uX21hdHJpeCh5X3Rlc3QsIGNsYXNzX3Rlc3RfeSwgbGFiZWxzPWNsYXNzZXMpCgojIENyZWF0ZSBjb25mdXNpb24gbWF0cml4IGZvciBjb25mdXNpb24gbWF0cml4IHZpc3VhbGl6YXRpb24KcGx0LmZpZ3VyZShmaWdzaXplPSgxMCwgMTApKQpwbHQuaW1zaG93KGNtLCBpbnRlcnBvbGF0aW9uPSJuZWFyZXN0IiwgY21hcD1wbHQuY20uQmx1ZXMpCnBsdC50aXRsZSgiQ29uZnVzaW9uIG1hdHJpeCIpCnBsdC5jb2xvcmJhcigpCgp0aWNrX21hcmtzID0gbnAuYXJhbmdlKGxlbihjbGFzc2VzKSkKcGx0Lnh0aWNrcyh0aWNrX21hcmtzLCBjbGFzc2VzLCByb3RhdGlvbj00NSkKcGx0Lnl0aWNrcyh0aWNrX21hcmtzLCBjbGFzc2VzKQpwbHQuc2hvdygpCnRocmVzaCA9IGNtLm1heCgpIC8gMi4wCgpmb3IgaSwgaiBpbiBpdGVydG9vbHMucHJvZHVjdChyYW5nZShjbS5zaGFwZVswXSksIHJhbmdlKGNtLnNoYXBlWzFdKSk6CiAgICBwbHQudGV4dCgKICAgICAgICBqLAogICAgICAgIGksCiAgICAgICAgZm9ybWF0KGNtW2ksIGpdKSwKICAgICAgICBob3Jpem9udGFsYWxpZ25tZW50PSJjZW50ZXIiLAogICAgICAgIGNvbG9yPSJ3aGl0ZSIgaWYgY21baSwgal0gPiB0aHJlc2ggZWxzZSAiYmxhY2siLAogICAgKQoKcGx0LnlsYWJlbCgiVHJ1ZSBsYWJlbCIpCnBsdC54bGFiZWwoIlByZWRpY3RlZCBsYWJlbCIpCnBsdC5ncmlkKEZhbHNlKQoKcGx0LnNob3coKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIFNlbGVjdCB0cmFpbiBhbmQgdGVzdCBkYXRhIGJhc2VkIG9uIHBhcnRpY2lwYW50CiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KcGFydGljaXBhbnRfZGYgPSBkZi5kcm9wKFsic2V0IiwgImNhdGFnb3J5Il0sIGF4aXM9MSkKClhfdHJhaW4gPSBwYXJ0aWNpcGFudF9kZltwYXJ0aWNpcGFudF9kZlsicGFydGljaXBhbnRzIl0gIT0gIkEiXS5kcm9wKCJsYWJsZSIsIGF4aXM9MSkKeV90cmFpbiA9IHBhcnRpY2lwYW50X2RmW3BhcnRpY2lwYW50X2RmWyJwYXJ0aWNpcGFudHMiXSAhPSAiQSJdWyJsYWJsZSJdCgpYX3Rlc3QgPSBwYXJ0aWNpcGFudF9kZltwYXJ0aWNpcGFudF9kZlsicGFydGljaXBhbnRzIl0gPT0gIkEiXS5kcm9wKCJsYWJsZSIsIGF4aXM9MSkKeV90ZXN0ID0gcGFydGljaXBhbnRfZGZbcGFydGljaXBhbnRfZGZbInBhcnRpY2lwYW50cyJdID09ICJBIl1bImxhYmxlIl0KClhfdHJhaW4gPSBYX3RyYWluLmRyb3AoWyJwYXJ0aWNpcGFudHMiXSwgYXhpcz0xKQpYX3Rlc3QgPSBYX3Rlc3QuZHJvcChbInBhcnRpY2lwYW50cyJdLCBheGlzPTEpCgpmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9KDEwLCA1KSkKCmRmX3RyYWluWyJsYWJsZSJdLnZhbHVlX2NvdW50cygpLnBsb3QoCiAgICBraW5kPSJiYXIiLCBheD1heCwgY29sb3I9ImxpZ2h0Ymx1ZSIsIGxhYmVsPSJUb3RhbCIKKQoKeV90cmFpbi52YWx1ZV9jb3VudHMoKS5wbG90KGtpbmQ9ImJhciIsIGF4PWF4LCBjb2xvcj0iZG9kZ2VyYmx1ZSIsIGxhYmVsPSJUcmFpbiIpCgp5X3Rlc3QudmFsdWVfY291bnRzKCkucGxvdChraW5kPSJiYXIiLCBheD1heCwgY29sb3I9InJveWFsYmx1ZSIsIGxhYmVsPSJUZXN0IikKCnBsdC5sZWdlbmQoKQpwbHQuc2hvdygpCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgVXNlIGJlc3QgbW9kZWwgYWdhaW4gYW5kIGV2YWx1YXRlIHJlc3VsdHMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQooCiAgICBjbGFzc190cmFpbl95LAogICAgY2xhc3NfdGVzdF95LAogICAgY2xhc3NfdHJhaW5fcHJvYl95LAogICAgY2xhc3NfdGVzdF9wcm9iX3ksCikgPSBsZWFybmVyLnJhbmRvbV9mb3Jlc3QoCiAgICBYX3RyYWluW2ZlYXR1cmVfc2V0XzRdLAogICAgeV90cmFpbiwKICAgIFhfdGVzdFtmZWF0dXJlX3NldF80XSwKICAgIGdyaWRzZWFyY2g9VHJ1ZSwKKQoKYWNjdXJhY3kgPSBhY2N1cmFjeV9zY29yZSh5X3Rlc3QsIGNsYXNzX3Rlc3RfeSkKCmNsYXNzZXMgPSBjbGFzc190ZXN0X3Byb2JfeS5jb2x1bW5zCmNtID0gY29uZnVzaW9uX21hdHJpeCh5X3Rlc3QsIGNsYXNzX3Rlc3RfeSwgbGFiZWxzPWNsYXNzZXMpCgojIENyZWF0ZSBjb25mdXNpb24gbWF0cml4IGZvciB2aXN1YWxpemF0aW9uCnBsdC5maWd1cmUoZmlnc2l6ZT0oMTAsIDEwKSkKcGx0Lmltc2hvdyhjbSwgaW50ZXJwb2xhdGlvbj0ibmVhcmVzdCIsIGNtYXA9cGx0LmNtLkJsdWVzKQpwbHQudGl0bGUoIkNvbmZ1c2lvbiBtYXRyaXgiKQpwbHQuY29sb3JiYXIoKQoKdGlja19tYXJrcyA9IG5wLmFyYW5nZShsZW4oY2xhc3NlcykpCnBsdC54dGlja3ModGlja19tYXJrcywgY2xhc3Nlcywgcm90YXRpb249NDUpCnBsdC55dGlja3ModGlja19tYXJrcywgY2xhc3NlcykKcGx0LnNob3coKQoKCnRocmVzaCA9IGNtLm1heCgpIC8gMi4wCgpmb3IgaSwgaiBpbiBpdGVydG9vbHMucHJvZHVjdChyYW5nZShjbS5zaGFwZVswXSksIHJhbmdlKGNtLnNoYXBlWzFdKSk6CiAgICBwbHQudGV4dCgKICAgICAgICBqLAogICAgICAgIGksCiAgICAgICAgZm9ybWF0KGNtW2ksIGpdKSwKICAgICAgICBob3Jpem9udGFsYWxpZ25tZW50PSJjZW50ZXIiLAogICAgICAgIGNvbG9yPSJ3aGl0ZSIgaWYgY21baSwgal0gPiB0aHJlc2ggZWxzZSAiYmxhY2siLAogICAgKQoKcGx0LnlsYWJlbCgiVHJ1ZSBsYWJlbCIpCnBsdC54bGFiZWwoIlByZWRpY3RlZCBsYWJlbCIpCnBsdC5ncmlkKEZhbHNlKQoKcGx0LnNob3coKQoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIFRyeSBhIHNpbXBsZXIgbW9kZWwgd2l0aCB0aGUgc2VsZWN0ZWQgZmVhdHVyZXMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpzZWxlY3RlZF9mZWF0dXJlcyA9IFsKICAgICJhY2Nfel9mcmVxXzAuMF9Iel93c18xNCIsCiAgICAiYWNjX3hfZnJlcV8wLjBfSHpfd3NfMTQiLAogICAgImd5cl9yX2ZyZXFfMC4wX0h6X3dzXzE0IiwKICAgICJhY2NfeiIsCiAgICAicGNhXzEiLAogICAgImFjY19yX3RlbXBfc3RkX3dzXzUiLAogICAgImd5cl95X3RlbXBfc3RkX3dzXzUiLAogICAgImFjY196X2ZyZXFfMS40MjlfSHpfd3NfMTQiLAogICAgImd5cl96X2ZyZXFfMS4wNzFfSHpfd3NfMTQiLAogICAgImd5cl94X3RlbXBfc3RkX3dzXzUiLApdCgooCiAgICBjbGFzc190cmFpbl95LAogICAgY2xhc3NfdGVzdF95LAogICAgY2xhc3NfdHJhaW5fcHJvYl95LAogICAgY2xhc3NfdGVzdF9wcm9iX3ksCikgPSBsZWFybmVyLmZlZWRmb3J3YXJkX25ldXJhbF9uZXR3b3JrKAogICAgWF90cmFpbltzZWxlY3RlZF9mZWF0dXJlc10sCiAgICB5X3RyYWluLAogICAgWF90ZXN0W3NlbGVjdGVkX2ZlYXR1cmVzXSwKICAgIGdyaWRzZWFyY2g9RmFsc2UsCikKCmFjY3VyYWN5ID0gYWNjdXJhY3lfc2NvcmUoeV90ZXN0LCBjbGFzc190ZXN0X3kpCgpjbGFzc2VzID0gY2xhc3NfdGVzdF9wcm9iX3kuY29sdW1ucwpjbSA9IGNvbmZ1c2lvbl9tYXRyaXgoeV90ZXN0LCBjbGFzc190ZXN0X3ksIGxhYmVscz1jbGFzc2VzKQoKIyBDcmVhdGUgY29uZnVzaW9uIG1hdHJpeCBmb3IgdmlzdWFsaXphdGlvbgpwbHQuZmlndXJlKGZpZ3NpemU9KDEwLCAxMCkpCnBsdC5pbXNob3coY20sIGludGVycG9sYXRpb249Im5lYXJlc3QiLCBjbWFwPXBsdC5jbS5CbHVlcykKcGx0LnRpdGxlKCJDb25mdXNpb24gbWF0cml4IikKcGx0LmNvbG9yYmFyKCkKCnRpY2tfbWFya3MgPSBucC5hcmFuZ2UobGVuKGNsYXNzZXMpKQpwbHQueHRpY2tzKHRpY2tfbWFya3MsIGNsYXNzZXMsIHJvdGF0aW9uPTQ1KQpwbHQueXRpY2tzKHRpY2tfbWFya3MsIGNsYXNzZXMpCnBsdC5zaG93KCkKdGhyZXNoID0gY20ubWF4KCkgLyAyLjAKCmZvciBpLCBqIGluIGl0ZXJ0b29scy5wcm9kdWN0KHJhbmdlKGNtLnNoYXBlWzBdKSwgcmFuZ2UoY20uc2hhcGVbMV0pKToKICAgIHBsdC50ZXh0KAogICAgICAgIGosCiAgICAgICAgaSwKICAgICAgICBmb3JtYXQoY21baSwgal0pLAogICAgICAgIGhvcml6b250YWxhbGlnbm1lbnQ9ImNlbnRlciIsCiAgICAgICAgY29sb3I9IndoaXRlIiBpZiBjbVtpLCBqXSA+IHRocmVzaCBlbHNlICJibGFjayIsCiAgICApCgpwbHQueWxhYmVsKCJUcnVlIGxhYmVsIikKcGx0LnhsYWJlbCgiUHJlZGljdGVkIGxhYmVsIikKcGx0LmdyaWQoRmFsc2UpCgpwbHQuc2hvdygpCg==
+import numpy as np
+import pandas as pd
+from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
+from LearningAlgorithms import ClassificationAlgorithms
+import seaborn as sns
+import itertools
+from sklearn.metrics import accuracy_score, confusion_matrix
+
+
+# Plot settings
+plt.style.use("fivethirtyeight")
+plt.rcParams["figure.figsize"] = (20, 5)
+plt.rcParams["figure.dpi"] = 100
+plt.rcParams["lines.linewidth"] = 2
+
+df = pd.read_pickle("data/interim/data_features.pkl")
+# --------------------------------------------------------------
+# Create a training and test set
+# --------------------------------------------------------------
+df_train = df.drop(["participants", "catagory", "set"], axis=1)
+
+X = df_train.drop(["lable"], axis=1)
+y = df_train["lable"]
+
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.25, random_state=42, stratify=y
+)
+
+fig, ax = plt.subplots(figsize=(10, 5))
+df_train["lable"].value_counts().plot(
+    kind="bar", ax=ax, color="lightblue", label="Total"
+)
+
+y_train.value_counts().plot(kind="bar", ax=ax, color="dodgerblue", label="Train")
+y_test.value_counts().plot(kind="bar", ax=ax, color="royalblue", label="Test")
+
+plt.legend()
+plt.show()
+
+# --------------------------------------------------------------
+# Split feature subsets
+# --------------------------------------------------------------
+basic_features = ["acc_x", "acc_y", "acc_z", "gyr_x", "gyr_y", "gyr_z"]
+square_features = ["acc_r", "gyr_r"]
+pca_features = ["pca_1", "pca_2", "pca_3"]
+time_features = [f for f in df_train.columns if "_temp_" in f]
+freq_features = [f for f in df_train.columns if (("_freq" in f) or ("_pse" in f))]
+cluster_features = ["cluster"]
+
+print("Basic features:", len(basic_features))
+print("Square features:", len(square_features))
+print("PCA features:", len(pca_features))
+print("Time features:", len(time_features))
+print("Frequency features:", len(freq_features))
+print("Cluster features:", len(cluster_features))
+
+feature_set_1 = list(set(basic_features))
+feature_set_2 = list(set(basic_features + square_features + pca_features))
+feature_set_3 = list(set(feature_set_2 + time_features))
+feature_set_4 = list(set(feature_set_3 + freq_features + cluster_features))
+
+# --------------------------------------------------------------
+# Perform forward feature selection using simple decision tree
+# --------------------------------------------------------------
+learner = ClassificationAlgorithms()
+
+max_features = 10
+
+selected_features, ordered_features, ordered_scores = learner.forward_selection(
+    max_features, X_train, y_train
+)
+
+selected_features = [
+    "acc_x_freq_0.0_Hz_ws_14",
+    "acc_z_freq_0.0_Hz_ws_14",
+    "acc_y_freq_0.357_Hz_ws_14",
+    "gyr_x_freq_1.429_Hz_ws_14",
+    "acc_x",
+    "gyr_x_temp_mean_ws_5",
+    "gyr_z_freq_weighted",
+    "gyr_x_max_freq",
+    "label",
+    "gyr_r_max_freq",
+]
+plt.figure(figsize=(10, 5))
+plt.plot(np.arange(1, max_features + 1), ordered_scores)
+plt.xlabel("Number of features")
+plt.ylabel("Accuracy")
+plt.xticks(np.arange(1, max_features + 1, 1))
+plt.show()
+
+# --------------------------------------------------------------
+# Grid search for best hyperparameters and model selection
+# --------------------------------------------------------------
+possible_feature_sets = [
+    feature_set_1,
+    feature_set_2,
+    feature_set_3,
+    feature_set_4,
+    selected_features,
+]
+
+feature_names = [
+    "Feature Set 1",
+    "Feature Set 2",
+    "Feature Set 3",
+    "Feature Set 4",
+    "Selected Features",
+]
+
+iterations = 1
+score_df = pd.DataFrame()
+
+
+for i, f in zip(range(len(possible_feature_sets)), feature_names):
+    print("Feature set:", i)
+    selected_train_X = X_train[possible_feature_sets[i]]
+    selected_test_X = X_test[possible_feature_sets[i]]
+
+    # First run non deterministic classifiers to average their score.
+    performance_test_nn = 0
+    performance_test_rf = 0
+
+    for it in range(0, iterations):
+        print("\tTraining neural network,", it)
+        (
+            class_train_y,
+            class_test_y,
+            class_train_prob_y,
+            class_test_prob_y,
+        ) = learner.feedforward_neural_network(
+            selected_train_X,
+            y_train,
+            selected_test_X,
+            gridsearch=False,
+        )
+        performance_test_nn += accuracy_score(y_test, class_test_y)
+
+        print("\tTraining random forest,", it)
+        (
+            class_train_y,
+            class_test_y,
+            class_train_prob_y,
+            class_test_prob_y,
+        ) = learner.random_forest(
+            selected_train_X, y_train, selected_test_X, gridsearch=True
+        )
+        performance_test_rf += accuracy_score(y_test, class_test_y)
+
+    performance_test_nn = performance_test_nn / iterations
+    performance_test_rf = performance_test_rf / iterations
+
+    # And we run our deterministic classifiers:
+    print("\tTraining KNN")
+    (
+        class_train_y,
+        class_test_y,
+        class_train_prob_y,
+        class_test_prob_y,
+    ) = learner.k_nearest_neighbor(
+        selected_train_X, y_train, selected_test_X, gridsearch=True
+    )
+    performance_test_knn = accuracy_score(y_test, class_test_y)
+
+    print("\tTraining decision tree")
+    (
+        class_train_y,
+        class_test_y,
+        class_train_prob_y,
+        class_test_prob_y,
+    ) = learner.decision_tree(
+        selected_train_X, y_train, selected_test_X, gridsearch=True
+    )
+    performance_test_dt = accuracy_score(y_test, class_test_y)
+
+    print("\tTraining naive bayes")
+    (
+        class_train_y,
+        class_test_y,
+        class_train_prob_y,
+        class_test_prob_y,
+    ) = learner.naive_bayes(selected_train_X, y_train, selected_test_X)
+
+    performance_test_nb = accuracy_score(y_test, class_test_y)
+
+    # Save results to dataframe
+    models = ["NN", "RF", "KNN", "DT", "NB"]
+    new_scores = pd.DataFrame(
+        {
+            "model": models,
+            "feature_set": f,
+            "accuracy": [
+                performance_test_nn,
+                performance_test_rf,
+                performance_test_knn,
+                performance_test_dt,
+                performance_test_nb,
+            ],
+        }
+    )
+    score_df = pd.concat([score_df, new_scores])
+
+# --------------------------------------------------------------
+# Create a grouped bar plot to compare the results
+# --------------------------------------------------------------
+score_df.sort_values(by="accuracy", ascending=False)
+
+plt.figure(figsize=(10, 10))
+
+sns.barplot(
+    x="model",
+    y="accuracy",
+    hue="feature_set",
+    data=score_df,
+)
+
+plt.xlabel("Model")
+plt.ylabel("Accuracy")
+plt.ylim((0.7, 1))
+plt.legend(loc="lower right")
+
+plt.show()
+
+# --------------------------------------------------------------
+# Select best model and evaluate results
+# --------------------------------------------------------------
+(
+    class_train_y,
+    class_test_y,
+    class_train_prob_y,
+    class_test_prob_y,
+) = learner.random_forest(
+    X_train[feature_set_4],
+    y_train,
+    X_test[feature_set_4],
+    gridsearch=True,
+)
+
+accuracy = accuracy_score(y_test, class_test_y)
+
+classes = class_test_prob_y.columns
+cm = confusion_matrix(y_test, class_test_y, labels=classes)
+
+# Create confusion matrix for confusion matrix visualization
+plt.figure(figsize=(10, 10))
+plt.imshow(cm, interpolation="nearest", cmap=plt.cm.Blues)
+plt.title("Confusion matrix")
+plt.colorbar()
+
+tick_marks = np.arange(len(classes))
+plt.xticks(tick_marks, classes, rotation=45)
+plt.yticks(tick_marks, classes)
+plt.show()
+thresh = cm.max() / 2.0
+
+for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+    plt.text(
+        j,
+        i,
+        format(cm[i, j]),
+        horizontalalignment="center",
+        color="white" if cm[i, j] > thresh else "black",
+    )
+
+plt.ylabel("True label")
+plt.xlabel("Predicted label")
+plt.grid(False)
+
+plt.show()
+
+# --------------------------------------------------------------
+# Select train and test data based on participant
+# --------------------------------------------------------------
+participant_df = df.drop(["set", "catagory"], axis=1)
+
+X_train = participant_df[participant_df["participants"] != "A"].drop("lable", axis=1)
+y_train = participant_df[participant_df["participants"] != "A"]["lable"]
+
+X_test = participant_df[participant_df["participants"] == "A"].drop("lable", axis=1)
+y_test = participant_df[participant_df["participants"] == "A"]["lable"]
+
+X_train = X_train.drop(["participants"], axis=1)
+X_test = X_test.drop(["participants"], axis=1)
+
+fig, ax = plt.subplots(figsize=(10, 5))
+
+df_train["lable"].value_counts().plot(
+    kind="bar", ax=ax, color="lightblue", label="Total"
+)
+
+y_train.value_counts().plot(kind="bar", ax=ax, color="dodgerblue", label="Train")
+
+y_test.value_counts().plot(kind="bar", ax=ax, color="royalblue", label="Test")
+
+plt.legend()
+plt.show()
+
+# --------------------------------------------------------------
+# Use best model again and evaluate results
+# --------------------------------------------------------------
+(
+    class_train_y,
+    class_test_y,
+    class_train_prob_y,
+    class_test_prob_y,
+) = learner.random_forest(
+    X_train[feature_set_4],
+    y_train,
+    X_test[feature_set_4],
+    gridsearch=True,
+)
+
+accuracy = accuracy_score(y_test, class_test_y)
+
+classes = class_test_prob_y.columns
+cm = confusion_matrix(y_test, class_test_y, labels=classes)
+
+# Create confusion matrix for visualization
+plt.figure(figsize=(10, 10))
+plt.imshow(cm, interpolation="nearest", cmap=plt.cm.Blues)
+plt.title("Confusion matrix")
+plt.colorbar()
+
+tick_marks = np.arange(len(classes))
+plt.xticks(tick_marks, classes, rotation=45)
+plt.yticks(tick_marks, classes)
+plt.show()
+
+
+thresh = cm.max() / 2.0
+
+for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+    plt.text(
+        j,
+        i,
+        format(cm[i, j]),
+        horizontalalignment="center",
+        color="white" if cm[i, j] > thresh else "black",
+    )
+
+plt.ylabel("True label")
+plt.xlabel("Predicted label")
+plt.grid(False)
+
+plt.show()
+
+# --------------------------------------------------------------
+# Try a simpler model with the selected features
+# --------------------------------------------------------------
+selected_features = [
+    "acc_z_freq_0.0_Hz_ws_14",
+    "acc_x_freq_0.0_Hz_ws_14",
+    "gyr_r_freq_0.0_Hz_ws_14",
+    "acc_z",
+    "pca_1",
+    "acc_r_temp_std_ws_5",
+    "gyr_y_temp_std_ws_5",
+    "acc_z_freq_1.429_Hz_ws_14",
+    "gyr_z_freq_1.071_Hz_ws_14",
+    "gyr_x_temp_std_ws_5",
+]
+
+(
+    class_train_y,
+    class_test_y,
+    class_train_prob_y,
+    class_test_prob_y,
+) = learner.feedforward_neural_network(
+    X_train[selected_features],
+    y_train,
+    X_test[selected_features],
+    gridsearch=False,
+)
+
+accuracy = accuracy_score(y_test, class_test_y)
+
+classes = class_test_prob_y.columns
+cm = confusion_matrix(y_test, class_test_y, labels=classes)
+
+# Create confusion matrix for visualization
+plt.figure(figsize=(10, 10))
+plt.imshow(cm, interpolation="nearest", cmap=plt.cm.Blues)
+plt.title("Confusion matrix")
+plt.colorbar()
+
+tick_marks = np.arange(len(classes))
+plt.xticks(tick_marks, classes, rotation=45)
+plt.yticks(tick_marks, classes)
+plt.show()
+thresh = cm.max() / 2.0
+
+for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+    plt.text(
+        j,
+        i,
+        format(cm[i, j]),
+        horizontalalignment="center",
+        color="white" if cm[i, j] > thresh else "black",
+    )
+
+plt.ylabel("True label")
+plt.xlabel("Predicted label")
+plt.grid(False)
+
+plt.show()

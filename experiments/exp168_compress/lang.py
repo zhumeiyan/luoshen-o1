@@ -1,1 +1,67 @@
-aW1wb3J0IG9zLHJlLGpzb24sbWF0aCxjb2xsZWN0aW9ucyxyYW5kb20KCkJBU0U9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xIgoKIyAtLS0tLS0tLS0tIOivreaWmSAtLS0tLS0tLS0tCmRlZiBsb2FkX3poKCk6CiAgICBwPWYie0JBU0V9L2V2aWRlbmNlL+Wksei0peaooeW8j+W6ky/liKTmja7moLgubWQiCiAgICB0PW9wZW4ocCxlbmNvZGluZz0idXRmLTgiLGVycm9ycz0iaWdub3JlIikucmVhZCgpCiAgICAjIOWPqueVmeaxieWtl++8jOWOu+aOieaVsOWtly/moIfngrkv56m655m9IC0+IOaxieWtl+aYr+WwgemXreespuWPt+mbhgogICAgcmV0dXJuIFtjIGZvciBjIGluIHQgaWYgJ1x1NGUwMCc8PWM8PSdcdTlmZmYnXQoKZGVmIGxvYWRfY29kZSgpOgogICAgdHh0PVtdCiAgICBmb3Igcm9vdCxfLGZzIGluIG9zLndhbGsoQkFTRSk6CiAgICAgICAgZm9yIGYgaW4gZnM6CiAgICAgICAgICAgIGlmIGYuZW5kc3dpdGgoIi5weSIpOgogICAgICAgICAgICAgICAgdHJ5OiB0eHQuYXBwZW5kKG9wZW4ob3MucGF0aC5qb2luKHJvb3QsZiksZW5jb2Rpbmc9InV0Zi04IixlcnJvcnM9Imlnbm9yZSIpLnJlYWQoKSkKICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IHBhc3MKICAgIHJldHVybiAiXG4iLmpvaW4odHh0KQoKZGVmIGNvZGVfY2hhcnModCk6CiAgICByZXR1cm4gW2MgZm9yIGMgaW4gdCBpZiBjLnN0cmlwKCldCgpkZWYgY29kZV90b2tlbnModCk6CiAgICAjIOagh+ivhuespiArIOWFs+mUruWtlyArIOaVsOWtlyA9IOS7o+eggeeahCLor40i77yM5q2j5piv5LiN5pat5paw6YCg55qE6YKj5LiA5bGCCiAgICByZXR1cm4gcmUuZmluZGFsbChyIltBLVphLXpfXVtBLVphLXowLTlfXSp8XGQrIix0KQoKemg9bG9hZF96aCgpCmNvZGU9bG9hZF9jb2RlKCkKY2M9Y29kZV9jaGFycyhjb2RlKQpjdD1jb2RlX3Rva2Vucyhjb2RlKQoKcHJpbnQoZiLkuK3mlofmsYnlrZcgICAgTj17bGVuKHpoKX0iKQpwcmludChmIuS7o+eggeWtl+espiAgICBOPXtsZW4oY2MpfSIpCnByaW50KGYi5Luj56CB5qCH6K+G56ymICBOPXtsZW4oY3QpfSIpCgojIC0tLS0tLS0tLS0g5oiq5pat5Yiw55u45ZCMIE4gLS0tLS0tLS0tLQpOVD0yMDAwMDAKZGVmIGN1dChzLG4pOgogICAgcmV0dXJuIHNbOm5dIGlmIGxlbihzKT49biBlbHNlIHMKemhfYz1jdXQoemgsTlQpOyBjY19jPWN1dChjYyxOVCk7IGN0X2M9Y3V0KGN0LE5UKQpOPW1pbihsZW4oemhfYyksbGVuKGNjX2MpLGxlbihjdF9jKSkKemhfYz16aF9jWzpOXTsgY2NfYz1jY19jWzpOXTsgY3RfYz1jdF9jWzpOXQpwcmludChmIlxu57uf5LiA5oiq5patIE49e059IikKCiMgLS0tLS0tLS0tLSDor43ooajnu5/orqEgLS0tLS0tLS0tLQpkZWYgc3RhdHMoc2VxLG5hbWUpOgogICAgYz1jb2xsZWN0aW9ucy5Db3VudGVyKHNlcSkKICAgIFY9bGVuKGMpCiAgICBoYXBheD1zdW0oMSBmb3IgdiBpbiBjLnZhbHVlcygpIGlmIHY9PTEpCiAgICBlbnQ9LXN1bSgodi9sZW4oc2VxKSkqbWF0aC5sb2cyKHYvbGVuKHNlcSkpIGZvciB2IGluIGMudmFsdWVzKCkpCiAgICBrc3Rhcj1tYXRoLmxvZyhOKS9tYXRoLmxvZyhWKSBpZiBWPjEgZWxzZSAwCiAgICBwcmludChmIlxuW3tuYW1lfV0iKQogICAgcHJpbnQoZiIgIFYo6K+N6KGoKSAgICAgICAgPSB7Vn0iKQogICAgcHJpbnQoZiIgIE4vVijlubPlnYfpopHmrKEpICA9IHtOL1Y6LjFmfSIpCiAgICBwcmludChmIiAg5Y+q5Ye6546wMeasoeWNoOavlCAgPSB7aGFwYXgvVioxMDA6LjFmfSUgICh7aGFwYXh95LiqKSIpCiAgICBwcmludChmIiAg54a1IEggICAgICAgICAgID0ge2VudDouM2Z9IGJpdHMv56ym5Y+3IikKICAgIHByaW50KGYiICDnkIborrrmnInmlYjpmLYgayogID0gbG9nIE4vbG9nIFYgPSB7a3N0YXI6LjNmfSIpCiAgICByZXR1cm4gZGljdChuYW1lPW5hbWUsTj1OLFY9VixoYXBheD1oYXBheCxoYXBheF9wY3Q9aGFwYXgvVioxMDAsCiAgICAgICAgICAgICAgICBlbnQ9ZW50LGtzdGFyPWtzdGFyLG52PU4vVikKClI9W10KUi5hcHBlbmQoc3RhdHMoemhfYywi5Lit5paHwrfmsYnlrZciKSkKUi5hcHBlbmQoc3RhdHMoY2NfYywi5Luj56CBwrflrZfnrKYiKSkKUi5hcHBlbmQoc3RhdHMoY3RfYywi5Luj56CBwrfmoIfor4bnrKYiKSkKCmpzb24uZHVtcChkaWN0KE49TixzdGF0cz1SKSxvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNjhfY29tcHJlc3Mvc3RhdHMuanNvbiIsInciKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCg==
+import os,re,json,math,collections,random
+
+BASE="/data/workspace/luoshen-o1"
+
+# ---------- 语料 ----------
+def load_zh():
+    p=f"{BASE}/evidence/失败模式库/判据核.md"
+    t=open(p,encoding="utf-8",errors="ignore").read()
+    # 只留汉字，去掉数字/标点/空白 -> 汉字是封闭符号集
+    return [c for c in t if '\u4e00'<=c<='\u9fff']
+
+def load_code():
+    txt=[]
+    for root,_,fs in os.walk(BASE):
+        for f in fs:
+            if f.endswith(".py"):
+                try: txt.append(open(os.path.join(root,f),encoding="utf-8",errors="ignore").read())
+                except Exception: pass
+    return "\n".join(txt)
+
+def code_chars(t):
+    return [c for c in t if c.strip()]
+
+def code_tokens(t):
+    # 标识符 + 关键字 + 数字 = 代码的"词"，正是不断新造的那一层
+    return re.findall(r"[A-Za-z_][A-Za-z0-9_]*|\d+",t)
+
+zh=load_zh()
+code=load_code()
+cc=code_chars(code)
+ct=code_tokens(code)
+
+print(f"中文汉字    N={len(zh)}")
+print(f"代码字符    N={len(cc)}")
+print(f"代码标识符  N={len(ct)}")
+
+# ---------- 截断到相同 N ----------
+NT=200000
+def cut(s,n):
+    return s[:n] if len(s)>=n else s
+zh_c=cut(zh,NT); cc_c=cut(cc,NT); ct_c=cut(ct,NT)
+N=min(len(zh_c),len(cc_c),len(ct_c))
+zh_c=zh_c[:N]; cc_c=cc_c[:N]; ct_c=ct_c[:N]
+print(f"\n统一截断 N={N}")
+
+# ---------- 词表统计 ----------
+def stats(seq,name):
+    c=collections.Counter(seq)
+    V=len(c)
+    hapax=sum(1 for v in c.values() if v==1)
+    ent=-sum((v/len(seq))*math.log2(v/len(seq)) for v in c.values())
+    kstar=math.log(N)/math.log(V) if V>1 else 0
+    print(f"\n[{name}]")
+    print(f"  V(词表)        = {V}")
+    print(f"  N/V(平均频次)  = {N/V:.1f}")
+    print(f"  只出现1次占比  = {hapax/V*100:.1f}%  ({hapax}个)")
+    print(f"  熵 H           = {ent:.3f} bits/符号")
+    print(f"  理论有效阶 k*  = log N/log V = {kstar:.3f}")
+    return dict(name=name,N=N,V=V,hapax=hapax,hapax_pct=hapax/V*100,
+                ent=ent,kstar=kstar,nv=N/V)
+
+R=[]
+R.append(stats(zh_c,"中文·汉字"))
+R.append(stats(cc_c,"代码·字符"))
+R.append(stats(ct_c,"代码·标识符"))
+
+json.dump(dict(N=N,stats=R),open("/data/workspace/luoshen-o1/experiments/exp168_compress/stats.json","w"),ensure_ascii=False,indent=1)

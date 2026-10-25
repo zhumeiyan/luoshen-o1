@@ -1,1 +1,165 @@
-IiIiCkFic3RyYWN0IGRhdGFiYXNlIGFuZCBsb2FkZXIgZm9yIGJhciBhbmQgdGljayBzdG9yYWdlLgoiIiIKCmZyb20gYWJjIGltcG9ydCBBQkMsIGFic3RyYWN0bWV0aG9kCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCmZyb20gdHlwZXMgaW1wb3J0IE1vZHVsZVR5cGUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmZyb20gaW1wb3J0bGliIGltcG9ydCBpbXBvcnRfbW9kdWxlCgpmcm9tIC5jb25zdGFudCBpbXBvcnQgSW50ZXJ2YWwsIEV4Y2hhbmdlCmZyb20gLm9iamVjdCBpbXBvcnQgQmFyRGF0YSwgVGlja0RhdGEKZnJvbSAuc2V0dGluZyBpbXBvcnQgU0VUVElOR1MKZnJvbSAudXRpbGl0eSBpbXBvcnQgWm9uZUluZm8KZnJvbSAubG9jYWxlIGltcG9ydCBfCgoKREJfVFo6IFpvbmVJbmZvID0gWm9uZUluZm8oU0VUVElOR1NbImRhdGFiYXNlLnRpbWV6b25lIl0pCgoKZGVmIGNvbnZlcnRfdHooZHQ6IGRhdGV0aW1lKSAtPiBkYXRldGltZToKICAgICIiIgogICAgQ29udmVydCB0aW1lem9uZSBvZiBkYXRldGltZSBvYmplY3QgdG8gREJfVFouCiAgICAiIiIKICAgIGR0ID0gZHQuYXN0aW1lem9uZShEQl9UWikKICAgIHJldHVybiBkdC5yZXBsYWNlKHR6aW5mbz1Ob25lKQoKCkBkYXRhY2xhc3MKY2xhc3MgQmFyT3ZlcnZpZXc6CiAgICAiIiIKICAgIE92ZXJ2aWV3IG9mIGJhciBkYXRhIHN0b3JlZCBpbiBkYXRhYmFzZS4KICAgICIiIgoKICAgIHN5bWJvbDogc3RyID0gIiIKICAgIGV4Y2hhbmdlOiBFeGNoYW5nZSB8IE5vbmUgPSBOb25lCiAgICBpbnRlcnZhbDogSW50ZXJ2YWwgfCBOb25lID0gTm9uZQogICAgY291bnQ6IGludCA9IDAKICAgIHN0YXJ0OiBkYXRldGltZSB8IE5vbmUgPSBOb25lCiAgICBlbmQ6IGRhdGV0aW1lIHwgTm9uZSA9IE5vbmUKCgpAZGF0YWNsYXNzCmNsYXNzIFRpY2tPdmVydmlldzoKICAgICIiIgogICAgT3ZlcnZpZXcgb2YgdGljayBkYXRhIHN0b3JlZCBpbiBkYXRhYmFzZS4KICAgICIiIgoKICAgIHN5bWJvbDogc3RyID0gIiIKICAgIGV4Y2hhbmdlOiBFeGNoYW5nZSB8IE5vbmUgPSBOb25lCiAgICBjb3VudDogaW50ID0gMAogICAgc3RhcnQ6IGRhdGV0aW1lIHwgTm9uZSA9IE5vbmUKICAgIGVuZDogZGF0ZXRpbWUgfCBOb25lID0gTm9uZQoKCmNsYXNzIEJhc2VEYXRhYmFzZShBQkMpOgogICAgIiIiCiAgICBBYnN0cmFjdCBkYXRhYmFzZSBjbGFzcyBmb3IgY29ubmVjdGluZyB0byBkaWZmZXJlbnQgZGF0YWJhc2UuCiAgICAiIiIKCiAgICBAYWJzdHJhY3RtZXRob2QKICAgIGRlZiBzYXZlX2Jhcl9kYXRhKHNlbGYsIGJhcnM6IGxpc3RbQmFyRGF0YV0sIHN0cmVhbTogYm9vbCA9IEZhbHNlKSAtPiBib29sOgogICAgICAgICIiIgogICAgICAgIFNhdmUgYmFyIGRhdGEgaW50byBkYXRhYmFzZS4KICAgICAgICAiIiIKICAgICAgICBwYXNzCgogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgc2F2ZV90aWNrX2RhdGEoc2VsZiwgdGlja3M6IGxpc3RbVGlja0RhdGFdLCBzdHJlYW06IGJvb2wgPSBGYWxzZSkgLT4gYm9vbDoKICAgICAgICAiIiIKICAgICAgICBTYXZlIHRpY2sgZGF0YSBpbnRvIGRhdGFiYXNlLgogICAgICAgICIiIgogICAgICAgIHBhc3MKCiAgICBAYWJzdHJhY3RtZXRob2QKICAgIGRlZiBsb2FkX2Jhcl9kYXRhKAogICAgICAgIHNlbGYsCiAgICAgICAgc3ltYm9sOiBzdHIsCiAgICAgICAgZXhjaGFuZ2U6IEV4Y2hhbmdlLAogICAgICAgIGludGVydmFsOiBJbnRlcnZhbCwKICAgICAgICBzdGFydDogZGF0ZXRpbWUsCiAgICAgICAgZW5kOiBkYXRldGltZQogICAgKSAtPiBsaXN0W0JhckRhdGFdOgogICAgICAgICIiIgogICAgICAgIExvYWQgYmFyIGRhdGEgZnJvbSBkYXRhYmFzZS4KICAgICAgICAiIiIKICAgICAgICBwYXNzCgogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgbG9hZF90aWNrX2RhdGEoCiAgICAgICAgc2VsZiwKICAgICAgICBzeW1ib2w6IHN0ciwKICAgICAgICBleGNoYW5nZTogRXhjaGFuZ2UsCiAgICAgICAgc3RhcnQ6IGRhdGV0aW1lLAogICAgICAgIGVuZDogZGF0ZXRpbWUKICAgICkgLT4gbGlzdFtUaWNrRGF0YV06CiAgICAgICAgIiIiCiAgICAgICAgTG9hZCB0aWNrIGRhdGEgZnJvbSBkYXRhYmFzZS4KICAgICAgICAiIiIKICAgICAgICBwYXNzCgogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgZGVsZXRlX2Jhcl9kYXRhKAogICAgICAgIHNlbGYsCiAgICAgICAgc3ltYm9sOiBzdHIsCiAgICAgICAgZXhjaGFuZ2U6IEV4Y2hhbmdlLAogICAgICAgIGludGVydmFsOiBJbnRlcnZhbAogICAgKSAtPiBpbnQ6CiAgICAgICAgIiIiCiAgICAgICAgRGVsZXRlIGFsbCBiYXIgZGF0YSB3aXRoIGdpdmVuIHN5bWJvbCArIGV4Y2hhbmdlICsgaW50ZXJ2YWwuCiAgICAgICAgIiIiCiAgICAgICAgcGFzcwoKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGRlbGV0ZV90aWNrX2RhdGEoCiAgICAgICAgc2VsZiwKICAgICAgICBzeW1ib2w6IHN0ciwKICAgICAgICBleGNoYW5nZTogRXhjaGFuZ2UKICAgICkgLT4gaW50OgogICAgICAgICIiIgogICAgICAgIERlbGV0ZSBhbGwgdGljayBkYXRhIHdpdGggZ2l2ZW4gc3ltYm9sICsgZXhjaGFuZ2UuCiAgICAgICAgIiIiCiAgICAgICAgcGFzcwoKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGdldF9iYXJfb3ZlcnZpZXcoc2VsZikgLT4gbGlzdFtCYXJPdmVydmlld106CiAgICAgICAgIiIiCiAgICAgICAgUmV0dXJuIGJhciBkYXRhIGF2YWlibGUgaW4gZGF0YWJhc2UuCiAgICAgICAgIiIiCiAgICAgICAgcGFzcwoKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIGdldF90aWNrX292ZXJ2aWV3KHNlbGYpIC0+IGxpc3RbVGlja092ZXJ2aWV3XToKICAgICAgICAiIiIKICAgICAgICBSZXR1cm4gdGljayBkYXRhIGF2YWlibGUgaW4gZGF0YWJhc2UuCiAgICAgICAgIiIiCiAgICAgICAgcGFzcwoKCmRhdGFiYXNlOiBCYXNlRGF0YWJhc2UgfCBOb25lID0gTm9uZQoKCmRlZiBnZXRfZGF0YWJhc2UoKSAtPiBCYXNlRGF0YWJhc2U6CiAgICAiIiIKICAgIFJldHVybiB0aGUgY29uZmlndXJlZCBkYXRhYmFzZSwgb3IgU1FMaXRlIHdoZW4gaXRzIGRyaXZlciBpcyBtaXNzaW5nLgogICAgIiIiCiAgICAjIFJldHVybiBkYXRhYmFzZSBvYmplY3QgaWYgYWxyZWFkeSBpbml0ZWQKICAgIGdsb2JhbCBkYXRhYmFzZQogICAgaWYgZGF0YWJhc2U6CiAgICAgICAgcmV0dXJuIGRhdGFiYXNlCgogICAgIyBSZWFkIGRhdGFiYXNlIHJlbGF0ZWQgZ2xvYmFsIHNldHRpbmcKICAgIGRhdGFiYXNlX25hbWU6IHN0ciA9IFNFVFRJTkdTWyJkYXRhYmFzZS5uYW1lIl0KICAgIG1vZHVsZV9uYW1lOiBzdHIgPSBmInZucHlfe2RhdGFiYXNlX25hbWV9IgoKICAgICMgVHJ5IHRvIGltcG9ydCBkYXRhYmFzZSBtb2R1bGUKICAgIHRyeToKICAgICAgICBtb2R1bGU6IE1vZHVsZVR5cGUgPSBpbXBvcnRfbW9kdWxlKG1vZHVsZV9uYW1lKQogICAgZXhjZXB0IE1vZHVsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgcHJpbnQoXygi5om+5LiN5Yiw5pWw5o2u5bqT6amx5Yqoe33vvIzkvb/nlKjpu5jorqTnmoRTUUxpdGXmlbDmja7lupMiKS5mb3JtYXQobW9kdWxlX25hbWUpKQogICAgICAgIG1vZHVsZSA9IGltcG9ydF9tb2R1bGUoInZucHlfc3FsaXRlIikKCiAgICAjIENyZWF0ZSBkYXRhYmFzZSBvYmplY3QgZnJvbSBtb2R1bGUKICAgIGRhdGFiYXNlID0gbW9kdWxlLkRhdGFiYXNlKCkKICAgIHJldHVybiBkYXRhYmFzZQo=
+"""
+Abstract database and loader for bar and tick storage.
+"""
+
+from abc import ABC, abstractmethod
+from datetime import datetime
+from types import ModuleType
+from dataclasses import dataclass
+from importlib import import_module
+
+from .constant import Interval, Exchange
+from .object import BarData, TickData
+from .setting import SETTINGS
+from .utility import ZoneInfo
+from .locale import _
+
+
+DB_TZ: ZoneInfo = ZoneInfo(SETTINGS["database.timezone"])
+
+
+def convert_tz(dt: datetime) -> datetime:
+    """
+    Convert timezone of datetime object to DB_TZ.
+    """
+    dt = dt.astimezone(DB_TZ)
+    return dt.replace(tzinfo=None)
+
+
+@dataclass
+class BarOverview:
+    """
+    Overview of bar data stored in database.
+    """
+
+    symbol: str = ""
+    exchange: Exchange | None = None
+    interval: Interval | None = None
+    count: int = 0
+    start: datetime | None = None
+    end: datetime | None = None
+
+
+@dataclass
+class TickOverview:
+    """
+    Overview of tick data stored in database.
+    """
+
+    symbol: str = ""
+    exchange: Exchange | None = None
+    count: int = 0
+    start: datetime | None = None
+    end: datetime | None = None
+
+
+class BaseDatabase(ABC):
+    """
+    Abstract database class for connecting to different database.
+    """
+
+    @abstractmethod
+    def save_bar_data(self, bars: list[BarData], stream: bool = False) -> bool:
+        """
+        Save bar data into database.
+        """
+        pass
+
+    @abstractmethod
+    def save_tick_data(self, ticks: list[TickData], stream: bool = False) -> bool:
+        """
+        Save tick data into database.
+        """
+        pass
+
+    @abstractmethod
+    def load_bar_data(
+        self,
+        symbol: str,
+        exchange: Exchange,
+        interval: Interval,
+        start: datetime,
+        end: datetime
+    ) -> list[BarData]:
+        """
+        Load bar data from database.
+        """
+        pass
+
+    @abstractmethod
+    def load_tick_data(
+        self,
+        symbol: str,
+        exchange: Exchange,
+        start: datetime,
+        end: datetime
+    ) -> list[TickData]:
+        """
+        Load tick data from database.
+        """
+        pass
+
+    @abstractmethod
+    def delete_bar_data(
+        self,
+        symbol: str,
+        exchange: Exchange,
+        interval: Interval
+    ) -> int:
+        """
+        Delete all bar data with given symbol + exchange + interval.
+        """
+        pass
+
+    @abstractmethod
+    def delete_tick_data(
+        self,
+        symbol: str,
+        exchange: Exchange
+    ) -> int:
+        """
+        Delete all tick data with given symbol + exchange.
+        """
+        pass
+
+    @abstractmethod
+    def get_bar_overview(self) -> list[BarOverview]:
+        """
+        Return bar data avaible in database.
+        """
+        pass
+
+    @abstractmethod
+    def get_tick_overview(self) -> list[TickOverview]:
+        """
+        Return tick data avaible in database.
+        """
+        pass
+
+
+database: BaseDatabase | None = None
+
+
+def get_database() -> BaseDatabase:
+    """
+    Return the configured database, or SQLite when its driver is missing.
+    """
+    # Return database object if already inited
+    global database
+    if database:
+        return database
+
+    # Read database related global setting
+    database_name: str = SETTINGS["database.name"]
+    module_name: str = f"vnpy_{database_name}"
+
+    # Try to import database module
+    try:
+        module: ModuleType = import_module(module_name)
+    except ModuleNotFoundError:
+        print(_("找不到数据库驱动{}，使用默认的SQLite数据库").format(module_name))
+        module = import_module("vnpy_sqlite")
+
+    # Create database object from module
+    database = module.Database()
+    return database

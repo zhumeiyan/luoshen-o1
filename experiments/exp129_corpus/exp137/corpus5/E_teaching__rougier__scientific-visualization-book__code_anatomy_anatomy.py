@@ -1,1 +1,161 @@
-IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgVGl0bGU6ICAgU2NpZW50aWZpYyBWaXN1YWxpc2F0aW9uIC0gUHl0aG9uICYgTWF0cGxvdGxpYgojIEF1dGhvcjogIE5pY29sYXMgUC4gUm91Z2llcgojIExpY2Vuc2U6IEJTRAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliLnRpY2tlciBpbXBvcnQgQXV0b01pbm9yTG9jYXRvciwgTXVsdGlwbGVMb2NhdG9yLCBGdW5jRm9ybWF0dGVyCgpucC5yYW5kb20uc2VlZCgxMjMpCgpYID0gbnAubGluc3BhY2UoMC41LCAzLjUsIDEwMCkKWTEgPSAzICsgbnAuY29zKFgpClkyID0gMSArIG5wLmNvcygxICsgWCAvIDAuNzUpIC8gMgpZMyA9IG5wLnJhbmRvbS51bmlmb3JtKFkxLCBZMiwgbGVuKFgpKQoKZmlnID0gcGx0LmZpZ3VyZShmaWdzaXplPSg4LCA4KSkKYXggPSBmaWcuYWRkX3N1YnBsb3QoMSwgMSwgMSwgYXNwZWN0PTEpCgoKZGVmIG1pbm9yX3RpY2soeCwgcG9zKToKICAgIGlmIG5vdCB4ICUgMS4wOgogICAgICAgIHJldHVybiAiIgogICAgcmV0dXJuICIlLjJmIiAlIHgKCgpheC54YXhpcy5zZXRfbWFqb3JfbG9jYXRvcihNdWx0aXBsZUxvY2F0b3IoMS4wMDApKQpheC54YXhpcy5zZXRfbWlub3JfbG9jYXRvcihBdXRvTWlub3JMb2NhdG9yKDQpKQpheC55YXhpcy5zZXRfbWFqb3JfbG9jYXRvcihNdWx0aXBsZUxvY2F0b3IoMS4wMDApKQpheC55YXhpcy5zZXRfbWlub3JfbG9jYXRvcihBdXRvTWlub3JMb2NhdG9yKDQpKQpheC54YXhpcy5zZXRfbWlub3JfZm9ybWF0dGVyKEZ1bmNGb3JtYXR0ZXIobWlub3JfdGljaykpCgpheC5zZXRfeGxpbSgwLCA0KQpheC5zZXRfeWxpbSgwLCA0KQoKYXgudGlja19wYXJhbXMod2hpY2g9Im1ham9yIiwgd2lkdGg9MS4wKQpheC50aWNrX3BhcmFtcyh3aGljaD0ibWFqb3IiLCBsZW5ndGg9MTApCmF4LnRpY2tfcGFyYW1zKHdoaWNoPSJtaW5vciIsIHdpZHRoPTEuMCwgbGFiZWxzaXplPTEwKQpheC50aWNrX3BhcmFtcyh3aGljaD0ibWlub3IiLCBsZW5ndGg9NSwgbGFiZWxzaXplPTEwLCBsYWJlbGNvbG9yPSIwLjI1IikKCmF4LmdyaWQobGluZXN0eWxlPSItLSIsIGxpbmV3aWR0aD0wLjUsIGNvbG9yPSIuMjUiLCB6b3JkZXI9LTEwKQoKYXgucGxvdChYLCBZMSwgYz0oMC4yNSwgMC4yNSwgMS4wMCksIGx3PTIsIGxhYmVsPSJCbHVlIHNpZ25hbCIsIHpvcmRlcj0xMCkKYXgucGxvdChYLCBZMiwgYz0oMS4wMCwgMC4yNSwgMC4yNSksIGx3PTIsIGxhYmVsPSJSZWQgc2lnbmFsIikKYXgucGxvdChYLCBZMywgbGluZXdpZHRoPTAsIG1hcmtlcj0ibyIsIG1hcmtlcmZhY2Vjb2xvcj0idyIsIG1hcmtlcmVkZ2Vjb2xvcj0iayIpCgpheC5zZXRfdGl0bGUoIkFuYXRvbXkgb2YgYSBmaWd1cmUiLCBmb250c2l6ZT0yMCwgdmVydGljYWxhbGlnbm1lbnQ9ImJvdHRvbSIpCmF4LnNldF94bGFiZWwoIlggYXhpcyBsYWJlbCIpCmF4LnNldF95bGFiZWwoIlkgYXhpcyBsYWJlbCIpCgpheC5sZWdlbmQoKQoKCmRlZiBjaXJjbGUoeCwgeSwgcmFkaXVzPTAuMTUpOgogICAgZnJvbSBtYXRwbG90bGliLnBhdGNoZXMgaW1wb3J0IENpcmNsZQogICAgZnJvbSBtYXRwbG90bGliLnBhdGhlZmZlY3RzIGltcG9ydCB3aXRoU3Ryb2tlCgogICAgY2lyY2xlID0gQ2lyY2xlKAogICAgICAgICh4LCB5KSwKICAgICAgICByYWRpdXMsCiAgICAgICAgY2xpcF9vbj1GYWxzZSwKICAgICAgICB6b3JkZXI9MTAsCiAgICAgICAgbGluZXdpZHRoPTEsCiAgICAgICAgZWRnZWNvbG9yPSJibGFjayIsCiAgICAgICAgZmFjZWNvbG9yPSgwLCAwLCAwLCAwLjAxMjUpLAogICAgICAgIHBhdGhfZWZmZWN0cz1bd2l0aFN0cm9rZShsaW5ld2lkdGg9NSwgZm9yZWdyb3VuZD0idyIpXSwKICAgICkKICAgIGF4LmFkZF9hcnRpc3QoY2lyY2xlKQoKCmRlZiB0ZXh0KHgsIHksIHRleHQpOgogICAgYXgudGV4dCgKICAgICAgICB4LAogICAgICAgIHksCiAgICAgICAgdGV4dCwKICAgICAgICBiYWNrZ3JvdW5kY29sb3I9IndoaXRlIiwKICAgICAgICAjIGZvbnRuYW1lPSJZYW5vbmUgS2FmZmVlc2F0eiIsIGZvbnRzaXplPSJsYXJnZSIsCiAgICAgICAgaGE9ImNlbnRlciIsCiAgICAgICAgdmE9InRvcCIsCiAgICAgICAgd2VpZ2h0PSJyZWd1bGFyIiwKICAgICAgICBjb2xvcj0iIzAwMDA5OSIsCiAgICApCgoKIyBNaW5vciB0aWNrCmNpcmNsZSgwLjUwLCAtMC4xMCkKdGV4dCgwLjUwLCAtMC4zMiwgIk1pbm9yIHRpY2sgbGFiZWwiKQoKIyBNYWpvciB0aWNrCmNpcmNsZSgtMC4wMywgNC4wMCkKdGV4dCgwLjAzLCAzLjgwLCAiTWFqb3IgdGljayIpCgojIE1pbm9yIHRpY2sKY2lyY2xlKDAuMDAsIDMuNTApCnRleHQoMC4wMCwgMy4zMCwgIk1pbm9yIHRpY2siKQoKIyBNYWpvciB0aWNrIGxhYmVsCmNpcmNsZSgtMC4xNSwgMy4wMCkKdGV4dCgtMC4xNSwgMi44MCwgIk1ham9yIHRpY2sgbGFiZWwiKQoKIyBYIExhYmVsCmNpcmNsZSgxLjgwLCAtMC4yNykKdGV4dCgxLjgwLCAtMC40NSwgIlggYXhpcyBsYWJlbCIpCgojIFkgTGFiZWwKY2lyY2xlKC0wLjI3LCAxLjgwKQp0ZXh0KC0wLjI3LCAxLjYsICJZIGF4aXMgbGFiZWwiKQoKIyBUaXRsZQpjaXJjbGUoMS42MCwgNC4xMykKdGV4dCgxLjYwLCAzLjkzLCAiVGl0bGUiKQoKIyBCbHVlIHBsb3QKY2lyY2xlKDEuNzUsIDIuODApCnRleHQoMS43NSwgMi42MCwgIkxpbmVcbihsaW5lIHBsb3QpIikKCiMgUmVkIHBsb3QKY2lyY2xlKDEuMjAsIDAuNjApCnRleHQoMS4yMCwgMC40MCwgIkxpbmVcbihsaW5lIHBsb3QpIikKCiMgU2NhdHRlciBwbG90CmNpcmNsZSgzLjIwLCAxLjc1KQp0ZXh0KDMuMjAsIDEuNTUsICJNYXJrZXJzXG4oc2NhdHRlciBwbG90KSIpCgojIEdyaWQKY2lyY2xlKDMuMDAsIDMuMDApCnRleHQoMy4wMCwgMi44MCwgIkdyaWQiKQoKIyBMZWdlbmQKY2lyY2xlKDMuNzAsIDMuODApCnRleHQoMy43MCwgMy42MCwgIkxlZ2VuZCIpCgojIEF4ZXMKY2lyY2xlKDAuNSwgMC41KQp0ZXh0KDAuNSwgMC4zLCAiQXhlcyIpCgojIEZpZ3VyZQpjaXJjbGUoLTAuMywgMC42NSkKdGV4dCgtMC4zLCAwLjQ1LCAiRmlndXJlIikKCmNvbG9yID0gIiMwMDAwOTkiCmF4LmFubm90YXRlKAogICAgIlNwaW5lcyIsCiAgICB4eT0oNC4wLCAwLjM1KSwKICAgIHh5dGV4dD0oMy4zLCAwLjUpLAogICAgY29sb3I9Y29sb3IsCiAgICB3ZWlnaHQ9InJlZ3VsYXIiLCAgIyBmb250c2l6ZT0ibGFyZ2UiLCBmb250bmFtZT0iWWFub25lIEthZmZlZXNhdHoiLAogICAgYXJyb3dwcm9wcz1kaWN0KGFycm93c3R5bGU9Ii0+IiwgY29ubmVjdGlvbnN0eWxlPSJhcmMzIiwgY29sb3I9Y29sb3IpLAopCgpheC5hbm5vdGF0ZSgKICAgICIiLAogICAgeHk9KDMuMTUsIDAuMCksCiAgICB4eXRleHQ9KDMuNDUsIDAuNDUpLAogICAgY29sb3I9Y29sb3IsCiAgICB3ZWlnaHQ9InJlZ3VsYXIiLCAgIyBmb250c2l6ZT0ibGFyZ2UiLCBmb250bmFtZT0iWWFub25lIEthZmZlZXNhdHoiLAogICAgYXJyb3dwcm9wcz1kaWN0KGFycm93c3R5bGU9Ii0+IiwgY29ubmVjdGlvbnN0eWxlPSJhcmMzIiwgY29sb3I9Y29sb3IpLAopCgpwbHQuc2F2ZWZpZygiLi4vLi4vZmlndXJlcy9hbmF0b215L2FuYXRvbXkucGRmIikKcGx0LnNob3coKQo=
+# ----------------------------------------------------------------------------
+# Title:   Scientific Visualisation - Python & Matplotlib
+# Author:  Nicolas P. Rougier
+# License: BSD
+# ----------------------------------------------------------------------------
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.ticker import AutoMinorLocator, MultipleLocator, FuncFormatter
+
+np.random.seed(123)
+
+X = np.linspace(0.5, 3.5, 100)
+Y1 = 3 + np.cos(X)
+Y2 = 1 + np.cos(1 + X / 0.75) / 2
+Y3 = np.random.uniform(Y1, Y2, len(X))
+
+fig = plt.figure(figsize=(8, 8))
+ax = fig.add_subplot(1, 1, 1, aspect=1)
+
+
+def minor_tick(x, pos):
+    if not x % 1.0:
+        return ""
+    return "%.2f" % x
+
+
+ax.xaxis.set_major_locator(MultipleLocator(1.000))
+ax.xaxis.set_minor_locator(AutoMinorLocator(4))
+ax.yaxis.set_major_locator(MultipleLocator(1.000))
+ax.yaxis.set_minor_locator(AutoMinorLocator(4))
+ax.xaxis.set_minor_formatter(FuncFormatter(minor_tick))
+
+ax.set_xlim(0, 4)
+ax.set_ylim(0, 4)
+
+ax.tick_params(which="major", width=1.0)
+ax.tick_params(which="major", length=10)
+ax.tick_params(which="minor", width=1.0, labelsize=10)
+ax.tick_params(which="minor", length=5, labelsize=10, labelcolor="0.25")
+
+ax.grid(linestyle="--", linewidth=0.5, color=".25", zorder=-10)
+
+ax.plot(X, Y1, c=(0.25, 0.25, 1.00), lw=2, label="Blue signal", zorder=10)
+ax.plot(X, Y2, c=(1.00, 0.25, 0.25), lw=2, label="Red signal")
+ax.plot(X, Y3, linewidth=0, marker="o", markerfacecolor="w", markeredgecolor="k")
+
+ax.set_title("Anatomy of a figure", fontsize=20, verticalalignment="bottom")
+ax.set_xlabel("X axis label")
+ax.set_ylabel("Y axis label")
+
+ax.legend()
+
+
+def circle(x, y, radius=0.15):
+    from matplotlib.patches import Circle
+    from matplotlib.patheffects import withStroke
+
+    circle = Circle(
+        (x, y),
+        radius,
+        clip_on=False,
+        zorder=10,
+        linewidth=1,
+        edgecolor="black",
+        facecolor=(0, 0, 0, 0.0125),
+        path_effects=[withStroke(linewidth=5, foreground="w")],
+    )
+    ax.add_artist(circle)
+
+
+def text(x, y, text):
+    ax.text(
+        x,
+        y,
+        text,
+        backgroundcolor="white",
+        # fontname="Yanone Kaffeesatz", fontsize="large",
+        ha="center",
+        va="top",
+        weight="regular",
+        color="#000099",
+    )
+
+
+# Minor tick
+circle(0.50, -0.10)
+text(0.50, -0.32, "Minor tick label")
+
+# Major tick
+circle(-0.03, 4.00)
+text(0.03, 3.80, "Major tick")
+
+# Minor tick
+circle(0.00, 3.50)
+text(0.00, 3.30, "Minor tick")
+
+# Major tick label
+circle(-0.15, 3.00)
+text(-0.15, 2.80, "Major tick label")
+
+# X Label
+circle(1.80, -0.27)
+text(1.80, -0.45, "X axis label")
+
+# Y Label
+circle(-0.27, 1.80)
+text(-0.27, 1.6, "Y axis label")
+
+# Title
+circle(1.60, 4.13)
+text(1.60, 3.93, "Title")
+
+# Blue plot
+circle(1.75, 2.80)
+text(1.75, 2.60, "Line\n(line plot)")
+
+# Red plot
+circle(1.20, 0.60)
+text(1.20, 0.40, "Line\n(line plot)")
+
+# Scatter plot
+circle(3.20, 1.75)
+text(3.20, 1.55, "Markers\n(scatter plot)")
+
+# Grid
+circle(3.00, 3.00)
+text(3.00, 2.80, "Grid")
+
+# Legend
+circle(3.70, 3.80)
+text(3.70, 3.60, "Legend")
+
+# Axes
+circle(0.5, 0.5)
+text(0.5, 0.3, "Axes")
+
+# Figure
+circle(-0.3, 0.65)
+text(-0.3, 0.45, "Figure")
+
+color = "#000099"
+ax.annotate(
+    "Spines",
+    xy=(4.0, 0.35),
+    xytext=(3.3, 0.5),
+    color=color,
+    weight="regular",  # fontsize="large", fontname="Yanone Kaffeesatz",
+    arrowprops=dict(arrowstyle="->", connectionstyle="arc3", color=color),
+)
+
+ax.annotate(
+    "",
+    xy=(3.15, 0.0),
+    xytext=(3.45, 0.45),
+    color=color,
+    weight="regular",  # fontsize="large", fontname="Yanone Kaffeesatz",
+    arrowprops=dict(arrowstyle="->", connectionstyle="arc3", color=color),
+)
+
+plt.savefig("../../figures/anatomy/anatomy.pdf")
+plt.show()

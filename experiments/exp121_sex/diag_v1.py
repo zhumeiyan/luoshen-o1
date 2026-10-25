@@ -1,1 +1,48 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi57uZIHYxIOWBmuaOoumSiO+8muaJvumdmem7mOWkseaViCIiIgppbXBvcnQgcmFuZG9tCmltcG9ydCBzeXMKc3lzLnBhdGguaW5zZXJ0KDAsICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxMjFfc2V4IikKZnJvbSB2MSBpbXBvcnQgSW5kLCBtYXRlX3YxLCByZXByb2R1Y2VfdjEKCnJuZyA9IHJhbmRvbS5SYW5kb20oNykKCnByaW50KCI9PT0g5o6i6ZKIMTog6YeN57uE5Lya5LiN5Lya5Lii5aSx5aSa5qC35oCn77yI5Y+W5bmz5Z2H77yJID09PSIpCmEgPSBJbmQoWzAuMF0qOCwgIk0iKQpiID0gSW5kKFsxLjBdKjgsICJGIikKa2lkcyA9IFttYXRlX3YxKGEsIGIsIHJuZykgZm9yIF8gaW4gcmFuZ2UoMjApXQp1bmlxID0ge3R1cGxlKHJvdW5kKHgsIDMpIGZvciB4IGluIGsuZ2Vub21lKSBmb3IgayBpbiBraWRzfQpwcmludChmIiAg5Lik5Lqy5pysIFswXSo4IOS4jiBbMV0qOO+8jDIwIOS4quWQjuS7o+WUr+S4gOWfuuWboOWeiyA9IHtsZW4odW5pcSl9IikKcHJpbnQoZiIgIOWQjuS7o+WfuuWboOWei+agt+S+iyA9IHtbcm91bmQoeCwzKSBmb3IgeCBpbiBraWRzWzBdLmdlbm9tZV19IikKCnByaW50KCkKcHJpbnQoIj09PSDmjqLpkogyOiDov57nu63lpJrku6PlkI7ln7rlm6Dlnovov5jlianku4DkuYggPT09IikKcG9wID0gW0luZChbMC4wXSo4LCAiTSIpLCBJbmQoWzEuMF0qOCwgIkYiKV0KZm9yIGcgaW4gcmFuZ2UoMTIpOgogICAgcG9wID0gcmVwcm9kdWNlX3YxKHBvcCwgcm5nKQogICAgaWYgbm90IHBvcDoKICAgICAgICBwcmludChmIiAgZ2VuIHtnfTog56eN576k54Gt57udIikKICAgICAgICBicmVhawogICAgaWYgZyBpbiAoMCwgMSwgMiwgNSwgMTEpOgogICAgICAgIHZhbHMgPSBbcm91bmQoeCwgNCkgZm9yIHggaW4gcG9wWzBdLmdlbm9tZV0KICAgICAgICBwcmludChmIiAgZ2VuIHtnfTogTj17bGVuKHBvcCl9IOS4quS9kzAgPSB7dmFsc1s6NF19Li4uIikKCnByaW50KCkKcHJpbnQoIj09PSDmjqLpkogzOiDmgKfliKvmr5TkvovmmK/lkKbnqLPlrpogPT09IikKcG9wID0gW0luZChbcm5nLnJhbmRvbSgpIGZvciBfIGluIHJhbmdlKDgpXSwgcm5nLmNob2ljZShbIk0iLCAiRiJdKSkgZm9yIF8gaW4gcmFuZ2UoNDApXQpmb3IgZyBpbiByYW5nZSgxNSk6CiAgICBwb3AgPSByZXByb2R1Y2VfdjEocG9wLCBybmcpCiAgICBpZiBub3QgcG9wOgogICAgICAgIHByaW50KGYiICBnZW4ge2d9OiDnga3nu50iKTsgYnJlYWsKICAgIGlmIGcgaW4gKDAsIDQsIDksIDE0KToKICAgICAgICBubSA9IHN1bSgxIGZvciBwIGluIHBvcCBpZiBwLnNleCA9PSAiTSIpCiAgICAgICAgcHJpbnQoZiIgIGdlbiB7Z306IE49e2xlbihwb3ApfSAgTT17bm19ICBGPXtsZW4ocG9wKS1ubX0iKQoKcHJpbnQoKQpwcmludCgiPT09IOaOoumSiDQ6IOiDvemHj+WuiOaBkiA9PT0iKQpwb3AgPSBbSW5kKFtybmcucmFuZG9tKCkgZm9yIF8gaW4gcmFuZ2UoOCldLCBybmcuY2hvaWNlKFsiTSIsICJGIl0pKSBmb3IgXyBpbiByYW5nZSgxMCldCmZvciBnIGluIHJhbmdlKDEwKToKICAgIHBvcCA9IHJlcHJvZHVjZV92MShwb3AsIHJuZykKICAgIGlmIG5vdCBwb3A6CiAgICAgICAgYnJlYWsKcHJpbnQoZiIgIOi1t+WniyBOPTEw77yMMTAg5Luj5ZCOIE49e2xlbihwb3ApIGlmIHBvcCBlbHNlIDB977yI5peg5q275Lqh5py65Yi25pe2IE4g5bqU5Y2V6LCD57+75YCN77yJIikK
+# -*- coding: utf-8 -*-
+"""给 v1 做探针：找静默失效"""
+import random
+import sys
+sys.path.insert(0, "/data/workspace/luoshen-o1/experiments/exp121_sex")
+from v1 import Ind, mate_v1, reproduce_v1
+
+rng = random.Random(7)
+
+print("=== 探针1: 重组会不会丢失多样性（取平均） ===")
+a = Ind([0.0]*8, "M")
+b = Ind([1.0]*8, "F")
+kids = [mate_v1(a, b, rng) for _ in range(20)]
+uniq = {tuple(round(x, 3) for x in k.genome) for k in kids}
+print(f"  两亲本 [0]*8 与 [1]*8，20 个后代唯一基因型 = {len(uniq)}")
+print(f"  后代基因型样例 = {[round(x,3) for x in kids[0].genome]}")
+
+print()
+print("=== 探针2: 连续多代后基因型还剩什么 ===")
+pop = [Ind([0.0]*8, "M"), Ind([1.0]*8, "F")]
+for g in range(12):
+    pop = reproduce_v1(pop, rng)
+    if not pop:
+        print(f"  gen {g}: 种群灭绝")
+        break
+    if g in (0, 1, 2, 5, 11):
+        vals = [round(x, 4) for x in pop[0].genome]
+        print(f"  gen {g}: N={len(pop)} 个体0 = {vals[:4]}...")
+
+print()
+print("=== 探针3: 性别比例是否稳定 ===")
+pop = [Ind([rng.random() for _ in range(8)], rng.choice(["M", "F"])) for _ in range(40)]
+for g in range(15):
+    pop = reproduce_v1(pop, rng)
+    if not pop:
+        print(f"  gen {g}: 灭绝"); break
+    if g in (0, 4, 9, 14):
+        nm = sum(1 for p in pop if p.sex == "M")
+        print(f"  gen {g}: N={len(pop)}  M={nm}  F={len(pop)-nm}")
+
+print()
+print("=== 探针4: 能量守恒 ===")
+pop = [Ind([rng.random() for _ in range(8)], rng.choice(["M", "F"])) for _ in range(10)]
+for g in range(10):
+    pop = reproduce_v1(pop, rng)
+    if not pop:
+        break
+print(f"  起始 N=10，10 代后 N={len(pop) if pop else 0}（无死亡机制时 N 应单调翻倍）")

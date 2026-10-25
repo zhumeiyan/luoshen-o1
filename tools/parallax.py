@@ -1,1 +1,222 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK6KeG5beu5pifIMK3IFBhcmFsbGF4ICDigJTigJQg5rSb56We56ysIDYzIOiKgiAvIOWIpOaNruaguCAjODU1Cj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K5aSp5L2T5rWL6YeP6YeM77yM6YeP5LiA6aKX5pif55qE6Led56a75LuO5p2l5LiN6Z2gIueci+Wug+WkmuS6riLvvJoK5Lik5Liq6KeC5rWL54K55ZCE55yL5LiA5qyh77yM5Lik5qyh6KeG6KeS5LmL5beuID0g6KeG5beu77yM6KeG5beu5omN5piv6Led56a744CCCgrmtJvnpZ7ov5novrnmmK/lkIzkuIDku7bkuovvvJoKICAgIOmAmumBkyBBICDliKvkurrnmoTlrp7mtYvvvIjku5bnnJ/ot5Hov4fvvIkKICAgIOmAmumBkyBCICDmiJHnmoTmqKHlnovvvIjmiJHmsqHot5Hov4fvvIkKICAgIOaui+W3riBSID0gQiDiiJIgQSAgICAgICAgICAgICAgICDihpAg6L+Z5LiA5qC85piv5oiR57yW5Ye65p2l55qECgrkuq7nga/mnaHku7bvvIjku7vkuIDlkb3kuK3ljbPkuq7vvInvvJoKICAgIEwxIOaui+W3rui2heWHuua1i+mHj+ivr+W3rgogICAgTDIg5qih5Z6L5Y+C5pWw6YeM5pyJIuaXoOa6kOeggeS+neaNriLnmoTlgYforr4KICAgIEwzIOa2iOiejeWPquWcqOiHque8luaooeWei+WGhemDqOaJq++8iOair+W6puaYr+WBh+eahO+8iQogICAgTDQg6Z2Z5oCB5qOA5p+lIGNsZWFuIOS9huagueacrOayoei3keecn+ezu+e7nwoK55So5rOV77yaCiAgICBweXRob24zIHRvb2xzL3BhcmFsbGF4LnB5ICAgICAgICAgICAgICAgICAgICAgICAjIOi3keWGhee9ruahiOS+i+W6k+iHquajgAogICAgcHl0aG9uMyB0b29scy9wYXJhbGxheC5weSA8Y2FzZS5qc29uPiAgICAgICAgICAgIyDliKTkuIDkuKrkuqTku5gKICAgIHB5dGhvbjMgdG9vbHMvcGFyYWxsYXgucHkgLS1uZXcgJ3siLi4uanNvbiJ9JyAgICMg5b2S5qGj5LiA5Liq5paw5qGI5L6LCgrpgIDlh7rnoIHvvJowID0g5Y+v5Lqk5LuY77ybMSA9IOemgeatouS6pOS7mO+8iOacieeBr+S6ru+8iQoiIiIKaW1wb3J0IGpzb24sIG9zLCBzeXMsIGhhc2hsaWIKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKUk9PVCA9IG9zLnBhdGguZGlybmFtZShIRVJFKQpDQVNFX0ZJTEUgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIi5zZW5zZSIsICJwYXJhbGxheF9jYXNlcy5qc29ubCIpCgojIOW3suW9kuaho+ahiOS+iyDigJTigJQg5q+P6aKX5Lqu6L+H55qE54Gv55WZ5LiA5p2h77yM5LiL5qyh5ZCM57G76Zeu6aKY6Ieq5Yqo5ZG95LitClNFRUQgPSBbCiAgICB7CiAgICAgICAgImNhc2UiOiAib21hcmNoeSMxNjE0NiIsCiAgICAgICAgImRhdGUiOiAiMjAyNi0xMC0yMyIsCiAgICAgICAgImNoYW5uZWxfYSI6IHsibGFiZWwiOiAi5oql5ZGK6ICF5a6e5rWLKDYwZnBzK2h5cHJjdGwrc29ja2V0MikiLCAidmFsdWUiOiA0LCAidW5pdCI6ICJyZWxvYWRzIn0sCiAgICAgICAgImNoYW5uZWxfYiI6IHsibGFiZWwiOiAi5oiR55qEIHNpbXVsYXRlLnB5IiwgInZhbHVlIjogMTQsICJ1bml0IjogInJlbG9hZHMifSwKICAgICAgICAidG9sZXJhbmNlIjogMSwKICAgICAgICAicGFyYW1zIjogWwogICAgICAgICAgICB7Im5hbWUiOiAicGx1Z2luX3JlbG9hZF9vbl9sb2FkIiwgInNyYyI6ICJ3b3Jrc3BhY2UtbW9kZXMubHVhOjQ0OSIsICJsaW5rZWQiOiBGYWxzZX0sCiAgICAgICAgICAgIHsibmFtZSI6ICJzY3JpcHRfcmVsb2FkX3doZW5fbWlzc2luZyIsICJzcmMiOiAidG9nZ2xlOjk2LTk4IiwgImxpbmtlZCI6IEZhbHNlfSwKICAgICAgICAgICAgeyJuYW1lIjogImZsb2F0aW5nX3JlYWR5X3Jlc2V0c19vbl9yZWxvYWQiLCAic3JjIjogTm9uZSwgImxpbmtlZCI6IEZhbHNlfSwKICAgICAgICAgICAgeyJuYW1lIjogInRpdGxlYmFyc19sb2Fkc19wbHVnaW4iLCAic3JjIjogIndvcmtzcGFjZS1tb2Rlcy5sdWE6NDU4IiwgImxpbmtlZCI6IEZhbHNlfSwKICAgICAgICAgICAgeyJuYW1lIjogInJhY2VfcGx1Z2luX2xpc3RfbGFncyIsICJzcmMiOiBOb25lLCAibGlua2VkIjogRmFsc2V9LAogICAgICAgIF0sCiAgICAgICAgImFibGF0aW9uX2luc2lkZV9tb2RlbF9vbmx5IjogVHJ1ZSwKICAgICAgICAicmFuX3JlYWxfc3lzdGVtIjogRmFsc2UsCiAgICAgICAgInN0YXRpY19jaGVjayI6ICJldmFsZ3VhcmQgMCBibG9ja2VyIC8gMCB3YXJuIC8gMCBpbmZvIOKGkiBjbGVhbiIsCiAgICAgICAgImxlc3NvbiI6ICLmiJHmioogZXZhbCDlvZPmiJAgNm1zIOWwseWujOS6hu+8jOa8j+aOiSBhcnJhbmdlIOeahCAyNCDkuKogZGlzcGF0Y2jvvIgxMjhtc++8ieOAgiIKICAgICAgICAgICAgICAgICAgIuaUueWBmue6r+eul+acr+WIhuino+WQju+8mumihOa1iyAxMDEtMTI2bXMgdnMg5a6e5rWLIDEyOC0xMzNtc++8jOmXtOmamSAybXPvvIzlj6/kuqTku5jjgIIiLAogICAgICAgICJ2ZXJkaWN0IjogIuemgeatouS6pOS7mO+8iOaooeWei+eJiO+8ieKGkiDph43lgZrkuLrnrpfmnK/liIbop6PlkI7kuqTku5giLAogICAgfSwKXQoKCmRlZiBlbnN1cmVfc3RvcmUoKToKICAgIG9zLm1ha2VkaXJzKG9zLnBhdGguZGlybmFtZShDQVNFX0ZJTEUpLCBleGlzdF9vaz1UcnVlKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKENBU0VfRklMRSk6CiAgICAgICAgd2l0aCBvcGVuKENBU0VfRklMRSwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICBmb3IgYyBpbiBTRUVEOgogICAgICAgICAgICAgICAgZi53cml0ZShqc29uLmR1bXBzKGMsIGVuc3VyZV9hc2NpaT1GYWxzZSkgKyAiXG4iKQoKCmRlZiBsb2FkX2Nhc2VzKCk6CiAgICBlbnN1cmVfc3RvcmUoKQogICAgb3V0ID0gW10KICAgIHdpdGggb3BlbihDQVNFX0ZJTEUsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgZm9yIGxpbmUgaW4gZjoKICAgICAgICAgICAgbGluZSA9IGxpbmUuc3RyaXAoKQogICAgICAgICAgICBpZiBsaW5lOgogICAgICAgICAgICAgICAgb3V0LmFwcGVuZChqc29uLmxvYWRzKGxpbmUpKQogICAgcmV0dXJuIG91dAoKCmRlZiBqdWRnZShjKToKICAgICIiIui/lOWbniAo54Gv5YiX6KGoLCDmmK/lkKblj6/kuqTku5gsIOaui+W3rikiIiIKICAgIGxhbXBzID0gW10KICAgIGEgPSBjWyJjaGFubmVsX2EiXVsidmFsdWUiXQogICAgYiA9IGNbImNoYW5uZWxfYiJdWyJ2YWx1ZSJdCiAgICB0b2wgPSBjLmdldCgidG9sZXJhbmNlIiwgMSkKICAgIHIgPSBiIC0gYQogICAgcmF0aW8gPSAoYiAvIGEpIGlmIGEgZWxzZSBmbG9hdCgiaW5mIikKCiAgICAjIEwxIOaui+W3rgogICAgaWYgYWJzKHIpID4gdG9sOgogICAgICAgIGxhbXBzLmFwcGVuZCh7CiAgICAgICAgICAgICJsYW1wIjogIkwxIiwgImxldmVsIjogIkJMT0NLIiwKICAgICAgICAgICAgIm5hbWUiOiAi5q6L5beuIiwKICAgICAgICAgICAgImRldGFpbCI6IGYi6YCa6YGTQiB7Yn0g4oiSIOmAmumBk0Ege2F9ID0ge3I6K2d9IHtjWydjaGFubmVsX2EnXVsndW5pdCddfSIKICAgICAgICAgICAgICAgICAgICAgIGYi77yI5YCN5beuIHtyYXRpbzouMmZ9w5fvvIzlrrnlv40gwrF7dG9sfe+8iSIsCiAgICAgICAgICAgICJtZWFuaW5nIjogIui/meS4gOagvOaYr+aIkee8luWHuuadpeeahOOAguS4pOS4qumAmumBk+S4jeiDveS6kuebuOagoeWHhiDihpIg5oiR55qE5qih5Z6L5piv44CQ5Zac5aW944CR77yM5LiN5piv44CQ5Zug5p6c44CR44CCIiwKICAgICAgICB9KQoKICAgICMgTDIg5peg5rqQ56CB5L6d5o2u55qE5YGH6K6+CiAgICBib2d1cyA9IFtwIGZvciBwIGluIGMuZ2V0KCJwYXJhbXMiLCBbXSkgaWYgbm90IHAuZ2V0KCJzcmMiKV0KICAgIGlmIGJvZ3VzOgogICAgICAgIGxhbXBzLmFwcGVuZCh7CiAgICAgICAgICAgICJsYW1wIjogIkwyIiwgImxldmVsIjogIkJMT0NLIiwKICAgICAgICAgICAgIm5hbWUiOiAi5pyq5o6l5YWlIiwKICAgICAgICAgICAgImRldGFpbCI6IGYie2xlbihib2d1cyl9L3tsZW4oYy5nZXQoJ3BhcmFtcycsIFtdKSl9IOS4quWPguaVsOaXoOa6kOeggeS+neaNru+8miIgKwogICAgICAgICAgICAgICAgICAgICAgIiwgIi5qb2luKHBbIm5hbWUiXSBmb3IgcCBpbiBib2d1cyksCiAgICAgICAgICAgICJtZWFuaW5nIjogIuato+WFuCAjMjE477ya5peg5qKv5bqmID0g5pyq5o6l5YWl77yM5LiN562J5LqO5pWI5bqU5Li66Zu244CC57yW5Ye65p2l55qE5YGH6K6+5LiN566X6aqM6K+B44CCIiwKICAgICAgICB9KQoKICAgICMgTDMg5raI6J6N5Y+q5Zyo6Ieq57yW5qih5Z6L5YaF6YOoCiAgICBpZiBjLmdldCgiYWJsYXRpb25faW5zaWRlX21vZGVsX29ubHkiKToKICAgICAgICBsYW1wcy5hcHBlbmQoewogICAgICAgICAgICAibGFtcCI6ICJMMyIsICJsZXZlbCI6ICJCTE9DSyIsCiAgICAgICAgICAgICJuYW1lIjogIuWBh+air+W6piIsCiAgICAgICAgICAgICJkZXRhaWwiOiAi5raI6J6N6KGo5Y+q5Zyo5oiR6Ieq5bex57yW55qE5qih5Z6L5YaF6YOo5omrIiwKICAgICAgICAgICAgIm1lYW5pbmciOiAi5q2j5YW4ICMyMDTvvJrkuI3lvpfmja7jgI7miavkuoblh6DmoaPjgI/lo7Dnp7Dmo4Dpqozov4for6XmnLrliLbjgILlhoXpg6jmiavlh7rmnaXnmoTmoq/luqbmmK/lgYfnmoTjgIIiLAogICAgICAgIH0pCgogICAgIyBMNCDmsqHot5HnnJ/ns7vnu58g4oCU4oCUIOaYryBXQVJOIOS4jeaYryBCTE9DS+OAggogICAgIyDmtJvnpZ7nmoTlgZrms5XvvJrmsqHot5HnnJ/ns7vnu5/ml7bvvIzlj6ropoHlj6rlgZrnrpfmnK8gKyDmnInmupDnoIHooYzlj7cgKyDmmI7lhpnkuI3nn6XpgZPnmoTvvIzku43lj6/kuqTku5jjgIIKICAgIGlmIG5vdCBjLmdldCgicmFuX3JlYWxfc3lzdGVtIik6CiAgICAgICAgdW5rbm93bnMgPSBjLmdldCgiZGVjbGFyZWRfdW5rbm93bnMiKSBvciBbXQogICAgICAgIGlmIHVua25vd25zOgogICAgICAgICAgICBsYW1wcy5hcHBlbmQoewogICAgICAgICAgICAgICAgImxhbXAiOiAiTDR3IiwgImxldmVsIjogIldBUk4iLAogICAgICAgICAgICAgICAgIm5hbWUiOiAi5pyq6LeR55yf57O757uf77yI5bey5aOw5piO5pyq55+l77yJIiwKICAgICAgICAgICAgICAgICJkZXRhaWwiOiBmIuaIkeayoei3kei/h+Wug++8jOS9huW3suaYjuWGmSB7bGVuKHVua25vd25zKX0g5p2h5LiN55+l6YGT77yaIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgIu+8myIuam9pbihzdHIodSlbOjQwXSBmb3IgdSBpbiB1bmtub3duc1s6M10pLAogICAgICAgICAgICAgICAgIm1lYW5pbmciOiAi5Y+v5Lqk5LuYIOKAlOKAlCDkvYblj6rlhYHorrjkuqTku5jvvJrmnInmupDnoIHooYzlj7fnmoTkuovlrp7jgIHliKvkurrlgZrnmoTlr7nnhafjgIHooqvor4HkvKrnmoTlgYforr7jgIIiLAogICAgICAgICAgICB9KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGxhbXBzLmFwcGVuZCh7CiAgICAgICAgICAgICAgICAibGFtcCI6ICJMNGIiLCAibGV2ZWwiOiAiQkxPQ0siLAogICAgICAgICAgICAgICAgIm5hbWUiOiAi5pyq6LeR55yf57O757uf77yI5LiU5pyq5aOw5piO5pyq55+l77yJIiwKICAgICAgICAgICAgICAgICJkZXRhaWwiOiAi5oiR5rKh6LeR6L+H5a6D77yM5Lmf5rKh5YaZ5riF5qWa5ZOq5Lqb5piv5oiR5LiN55+l6YGT55qEIiwKICAgICAgICAgICAgICAgICJtZWFuaW5nIjogIuaXouS4jei3keOAgeWPiOS4jeWjsOaYjiA9IOm7mOiupOiuqeivu+iAheS7peS4uuaIkei3kei/h+OAguemgeatouS6pOS7mOOAgiIsCiAgICAgICAgICAgIH0pCgogICAgYmxvY2tlcnMgPSBbbCBmb3IgbCBpbiBsYW1wcyBpZiBsLmdldCgibGV2ZWwiLCAiQkxPQ0siKSA9PSAiQkxPQ0siXQogICAgcmV0dXJuIGxhbXBzLCAobGVuKGJsb2NrZXJzKSA9PSAwKSwgcgoKCmRlZiBzaG93KGMsIGxhbXBzLCBvaywgcik6CiAgICBwcmludCgiPSIgKiA2OCkKICAgIHByaW50KGYiIOinhuW3ruaYnyDCtyB7Yy5nZXQoJ2Nhc2UnLCAn5pyq5ZG95ZCNJyl9IikKICAgIHByaW50KCI9IiAqIDY4KQogICAgY2EsIGNiID0gY1siY2hhbm5lbF9hIl0sIGNbImNoYW5uZWxfYiJdCiAgICBwcmludChmIiAgIOmAmumBkyBBICB7Y2FbJ2xhYmVsJ119IikKICAgIHByaW50KGYiICAgICAgICAgICDihpIge2NhWyd2YWx1ZSddfSB7Y2FbJ3VuaXQnXX0iKQogICAgcHJpbnQoZiIgICDpgJrpgZMgQiAge2NiWydsYWJlbCddfSIpCiAgICBwcmludChmIiAgICAgICAgICAg4oaSIHtjYlsndmFsdWUnXX0ge2NiWyd1bml0J119IikKICAgIHByaW50KGYiICAg5q6L5beuIFIgPSBCIOKIkiBBID0ge3I6K2d9IHtjYVsndW5pdCddfSIgKwogICAgICAgICAgKGYi77yIeyhjYlsndmFsdWUnXS9jYVsndmFsdWUnXSk6LjJmfcOX77yJIiBpZiBjYVsidmFsdWUiXSBlbHNlICIiKSkKICAgIHByaW50KCkKICAgIGJsID0gW2wgZm9yIGwgaW4gbGFtcHMgaWYgbC5nZXQoImxldmVsIiwgIkJMT0NLIikgPT0gIkJMT0NLIl0KICAgIHduID0gW2wgZm9yIGwgaW4gbGFtcHMgaWYgbC5nZXQoImxldmVsIikgPT0gIldBUk4iXQogICAgaWYgbGFtcHM6CiAgICAgICAgcHJpbnQoZiIgICDwn5qoIOS6rueBryB7bGVuKGxhbXBzKX0g55uP77yIQkxPQ0sge2xlbihibCl9IMK3IFdBUk4ge2xlbih3bil977yJ77yaIikKICAgICAgICBmb3IgbCBpbiBsYW1wczoKICAgICAgICAgICAgbHYgPSBsLmdldCgibGV2ZWwiLCAiQkxPQ0siKQogICAgICAgICAgICBpY29uID0gIuKdjCIgaWYgbHYgPT0gIkJMT0NLIiBlbHNlICLimqDvuI8iCiAgICAgICAgICAgIHByaW50KGYiICAgICAge2ljb259IFt7bFsnbGFtcCddfV0ge2xbJ25hbWUnXX0iKQogICAgICAgICAgICBwcmludChmIiAgICAgICAgICAgIHtsWydkZXRhaWwnXX0iKQogICAgICAgICAgICBwcmludChmIiAgICAgICAgICAgIOKGkiB7bFsnbWVhbmluZyddfSIpCiAgICBlbHNlOgogICAgICAgIHByaW50KCIgICDinKYg5peg54Gv5LquIOKAlOKAlCDkuKTkuKrpgJrpgZPog73kupLnm7jmoKHlh4Yg4oaSIOWboOaenCDihpIg5Y+v5Lqk5LuYIikKICAgIHByaW50KCkKICAgIHByaW50KCI9IiAqIDY4KQogICAgaWYgb2sgYW5kIGFueShsLmdldCgibGV2ZWwiKSA9PSAiV0FSTiIgZm9yIGwgaW4gbGFtcHMpOgogICAgICAgIHByaW50KCIg5Yik5a6a77ya4pqg77iPIOWPr+S6pOS7mO+8iOmZhOadoeS7tu+8iSIpCiAgICAgICAgcHJpbnQoIj0iICogNjgpCiAgICAgICAgcHJpbnQoIiAgIOWPquWFgeiuuOS6pOS7mOS4ieagt++8muaciea6kOeggeihjOWPt+eahOS6i+WuniAvIOWIq+S6uuWBmueahOWvueeFpyAvIOiiq+ivgeS8queahOWBh+iuvuacrOi6q+OAgiIpCiAgICAgICAgcHJpbnQoIiAgIOWHoeOAjuaIkeaOqOaWreOAj+S9huacqumqjOivgeeahO+8jOW/hemhu+WOn+agt+agh+aYjuaYr+aOqOaWreOAgiIpCiAgICBlbGlmIG9rOgogICAgICAgIHByaW50KCIg5Yik5a6a77ya4pyFIOWPr+S6pOS7mCIpCiAgICAgICAgcHJpbnQoIj0iICogNjgpCiAgICBlbHNlOgogICAgICAgIHByaW50KCIg5Yik5a6a77ya4p2MIOemgeatouS6pOS7mCIpCiAgICAgICAgcHJpbnQoIj0iICogNjgpCiAgICAgICAgcHJpbnQoIiAgIOWIpOaNruaguCAjODU077ya5LiJ6YGN6YeM5oyC5LiA6YGN5Y2z56aB5q2i5Lqk5LuY44CCIikKICAgIHJldHVybiBvawoKCmRlZiBtYWluKCk6CiAgICBhcmdzID0gc3lzLmFyZ3ZbMTpdCiAgICBlbnN1cmVfc3RvcmUoKQoKICAgIGlmIGFyZ3MgYW5kIGFyZ3NbMF0gPT0gIi0tbmV3IjoKICAgICAgICBjID0ganNvbi5sb2FkcyhhcmdzWzFdKQogICAgICAgIHdpdGggb3BlbihDQVNFX0ZJTEUsICJhIiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShqc29uLmR1bXBzKGMsIGVuc3VyZV9hc2NpaT1GYWxzZSkgKyAiXG4iKQogICAgICAgIHByaW50KGYi4pyFIOW3suW9kuaho+ahiOS+i++8mntjLmdldCgnY2FzZScpfSAg4oaSICB7Q0FTRV9GSUxFfSIpCiAgICAgICAgbGFtcHMsIG9rLCByID0ganVkZ2UoYykKICAgICAgICBzaG93KGMsIGxhbXBzLCBvaywgcikKICAgICAgICByZXR1cm4gMCBpZiBvayBlbHNlIDEKCiAgICBpZiBhcmdzOgogICAgICAgIGMgPSBqc29uLmxvYWQob3BlbihhcmdzWzBdLCBlbmNvZGluZz0idXRmLTgiKSkKICAgICAgICBsYW1wcywgb2ssIHIgPSBqdWRnZShjKQogICAgICAgIHJldHVybiAwIGlmIHNob3coYywgbGFtcHMsIG9rLCByKSBlbHNlIDEKCiAgICAjIOiHquajgO+8mui3keahiOS+i+W6kwogICAgcHJpbnQoIj0iICogNjgpCiAgICBwcmludCgiIOinhuW3ruaYnyDCtyDmoYjkvovlupPoh6rmo4AiKQogICAgcHJpbnQoIj0iICogNjgpCiAgICBjYXNlcyA9IGxvYWRfY2FzZXMoKQogICAgcHJpbnQoZiIgICDlt7LlvZLmoaMge2xlbihjYXNlcyl9IOS4quahiOS+i1xuIikKICAgIGJhZCA9IDAKICAgIGZvciBjIGluIGNhc2VzOgogICAgICAgIGxhbXBzLCBvaywgciA9IGp1ZGdlKGMpCiAgICAgICAgdGFnID0gIuKcpiIgaWYgb2sgZWxzZSBmIvCfmqh7bGVuKGxhbXBzKX0iCiAgICAgICAgcHJpbnQoZiIgICBbe3RhZ31dIHtjLmdldCgnY2FzZScsJz8nKTo8MjJ9IFI9e3I6K2d9ICB7Yy5nZXQoJ3ZlcmRpY3QnLCcnKVs6MzRdfSIpCiAgICAgICAgaWYgbm90IG9rOgogICAgICAgICAgICBiYWQgKz0gMQogICAgcHJpbnQoKQogICAgcHJpbnQoIj0iICogNjgpCiAgICBwcmludCgiIOi/memil+aYn+S4i+asoeS8muS6ruWcqO+8miIpCiAgICBwcmludCgiICAg5oiR6KaB5Lqk5LuY5LiA5Liq44CO5oiR5rKh6LeR6L+H55yf57O757uf44CP55qE5qih5Z6L5pe244CCIikKICAgIHByaW50KCIgICDlroPkuI3pmLvmraLmiJHkuqTku5gg4oCU4oCUIOWug+mAvOaIkeaKiuS4pOS4qumAmumBk+aRhuWHuuadpe+8jOaKiue8lueahOmCo+S4gOagvOagh+WHuuadpeOAgiIpCiAgICBwcmludCgiPSIgKiA2OCkKICAgIHJldHVybiAwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN5cy5leGl0KG1haW4oKSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+视差星 · Parallax  —— 洛神第 63 节 / 判据核 #855
+=================================================
+天体测量里，量一颗星的距离从来不靠"看它多亮"：
+两个观测点各看一次，两次视角之差 = 视差，视差才是距离。
+
+洛神这边是同一件事：
+    通道 A  别人的实测（他真跑过）
+    通道 B  我的模型（我没跑过）
+    残差 R = B − A                ← 这一格是我编出来的
+
+亮灯条件（任一命中即亮）：
+    L1 残差超出测量误差
+    L2 模型参数里有"无源码依据"的假设
+    L3 消融只在自编模型内部扫（梯度是假的）
+    L4 静态检查 clean 但根本没跑真系统
+
+用法：
+    python3 tools/parallax.py                       # 跑内置案例库自检
+    python3 tools/parallax.py <case.json>           # 判一个交付
+    python3 tools/parallax.py --new '{"...json"}'   # 归档一个新案例
+
+退出码：0 = 可交付；1 = 禁止交付（有灯亮）
+"""
+import json, os, sys, hashlib
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+CASE_FILE = os.path.join(ROOT, ".sense", "parallax_cases.jsonl")
+
+# 已归档案例 —— 每颗亮过的灯留一条，下次同类问题自动命中
+SEED = [
+    {
+        "case": "omarchy#16146",
+        "date": "2026-10-23",
+        "channel_a": {"label": "报告者实测(60fps+hyprctl+socket2)", "value": 4, "unit": "reloads"},
+        "channel_b": {"label": "我的 simulate.py", "value": 14, "unit": "reloads"},
+        "tolerance": 1,
+        "params": [
+            {"name": "plugin_reload_on_load", "src": "workspace-modes.lua:449", "linked": False},
+            {"name": "script_reload_when_missing", "src": "toggle:96-98", "linked": False},
+            {"name": "floating_ready_resets_on_reload", "src": None, "linked": False},
+            {"name": "titlebars_loads_plugin", "src": "workspace-modes.lua:458", "linked": False},
+            {"name": "race_plugin_list_lags", "src": None, "linked": False},
+        ],
+        "ablation_inside_model_only": True,
+        "ran_real_system": False,
+        "static_check": "evalguard 0 blocker / 0 warn / 0 info → clean",
+        "lesson": "我把 eval 当成 6ms 就完了，漏掉 arrange 的 24 个 dispatch（128ms）。"
+                  "改做纯算术分解后：预测 101-126ms vs 实测 128-133ms，间隙 2ms，可交付。",
+        "verdict": "禁止交付（模型版）→ 重做为算术分解后交付",
+    },
+]
+
+
+def ensure_store():
+    os.makedirs(os.path.dirname(CASE_FILE), exist_ok=True)
+    if not os.path.exists(CASE_FILE):
+        with open(CASE_FILE, "w", encoding="utf-8") as f:
+            for c in SEED:
+                f.write(json.dumps(c, ensure_ascii=False) + "\n")
+
+
+def load_cases():
+    ensure_store()
+    out = []
+    with open(CASE_FILE, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                out.append(json.loads(line))
+    return out
+
+
+def judge(c):
+    """返回 (灯列表, 是否可交付, 残差)"""
+    lamps = []
+    a = c["channel_a"]["value"]
+    b = c["channel_b"]["value"]
+    tol = c.get("tolerance", 1)
+    r = b - a
+    ratio = (b / a) if a else float("inf")
+
+    # L1 残差
+    if abs(r) > tol:
+        lamps.append({
+            "lamp": "L1", "level": "BLOCK",
+            "name": "残差",
+            "detail": f"通道B {b} − 通道A {a} = {r:+g} {c['channel_a']['unit']}"
+                      f"（倍差 {ratio:.2f}×，容忍 ±{tol}）",
+            "meaning": "这一格是我编出来的。两个通道不能互相校准 → 我的模型是【喜好】，不是【因果】。",
+        })
+
+    # L2 无源码依据的假设
+    bogus = [p for p in c.get("params", []) if not p.get("src")]
+    if bogus:
+        lamps.append({
+            "lamp": "L2", "level": "BLOCK",
+            "name": "未接入",
+            "detail": f"{len(bogus)}/{len(c.get('params', []))} 个参数无源码依据：" +
+                      ", ".join(p["name"] for p in bogus),
+            "meaning": "正典 #218：无梯度 = 未接入，不等于效应为零。编出来的假设不算验证。",
+        })
+
+    # L3 消融只在自编模型内部
+    if c.get("ablation_inside_model_only"):
+        lamps.append({
+            "lamp": "L3", "level": "BLOCK",
+            "name": "假梯度",
+            "detail": "消融表只在我自己编的模型内部扫",
+            "meaning": "正典 #204：不得据『扫了几档』声称检验过该机制。内部扫出来的梯度是假的。",
+        })
+
+    # L4 没跑真系统 —— 是 WARN 不是 BLOCK。
+    # 洛神的做法：没跑真系统时，只要只做算术 + 有源码行号 + 明写不知道的，仍可交付。
+    if not c.get("ran_real_system"):
+        unknowns = c.get("declared_unknowns") or []
+        if unknowns:
+            lamps.append({
+                "lamp": "L4w", "level": "WARN",
+                "name": "未跑真系统（已声明未知）",
+                "detail": f"我没跑过它，但已明写 {len(unknowns)} 条不知道：" +
+                          "；".join(str(u)[:40] for u in unknowns[:3]),
+                "meaning": "可交付 —— 但只允许交付：有源码行号的事实、别人做的对照、被证伪的假设。",
+            })
+        else:
+            lamps.append({
+                "lamp": "L4b", "level": "BLOCK",
+                "name": "未跑真系统（且未声明未知）",
+                "detail": "我没跑过它，也没写清楚哪些是我不知道的",
+                "meaning": "既不跑、又不声明 = 默认让读者以为我跑过。禁止交付。",
+            })
+
+    blockers = [l for l in lamps if l.get("level", "BLOCK") == "BLOCK"]
+    return lamps, (len(blockers) == 0), r
+
+
+def show(c, lamps, ok, r):
+    print("=" * 68)
+    print(f" 视差星 · {c.get('case', '未命名')}")
+    print("=" * 68)
+    ca, cb = c["channel_a"], c["channel_b"]
+    print(f"   通道 A  {ca['label']}")
+    print(f"           → {ca['value']} {ca['unit']}")
+    print(f"   通道 B  {cb['label']}")
+    print(f"           → {cb['value']} {cb['unit']}")
+    print(f"   残差 R = B − A = {r:+g} {ca['unit']}" +
+          (f"（{(cb['value']/ca['value']):.2f}×）" if ca["value"] else ""))
+    print()
+    bl = [l for l in lamps if l.get("level", "BLOCK") == "BLOCK"]
+    wn = [l for l in lamps if l.get("level") == "WARN"]
+    if lamps:
+        print(f"   🚨 亮灯 {len(lamps)} 盏（BLOCK {len(bl)} · WARN {len(wn)}）：")
+        for l in lamps:
+            lv = l.get("level", "BLOCK")
+            icon = "❌" if lv == "BLOCK" else "⚠️"
+            print(f"      {icon} [{l['lamp']}] {l['name']}")
+            print(f"            {l['detail']}")
+            print(f"            → {l['meaning']}")
+    else:
+        print("   ✦ 无灯亮 —— 两个通道能互相校准 → 因果 → 可交付")
+    print()
+    print("=" * 68)
+    if ok and any(l.get("level") == "WARN" for l in lamps):
+        print(" 判定：⚠️ 可交付（附条件）")
+        print("=" * 68)
+        print("   只允许交付三样：有源码行号的事实 / 别人做的对照 / 被证伪的假设本身。")
+        print("   凡『我推断』但未验证的，必须原样标明是推断。")
+    elif ok:
+        print(" 判定：✅ 可交付")
+        print("=" * 68)
+    else:
+        print(" 判定：❌ 禁止交付")
+        print("=" * 68)
+        print("   判据核 #854：三遍里挂一遍即禁止交付。")
+    return ok
+
+
+def main():
+    args = sys.argv[1:]
+    ensure_store()
+
+    if args and args[0] == "--new":
+        c = json.loads(args[1])
+        with open(CASE_FILE, "a", encoding="utf-8") as f:
+            f.write(json.dumps(c, ensure_ascii=False) + "\n")
+        print(f"✅ 已归档案例：{c.get('case')}  →  {CASE_FILE}")
+        lamps, ok, r = judge(c)
+        show(c, lamps, ok, r)
+        return 0 if ok else 1
+
+    if args:
+        c = json.load(open(args[0], encoding="utf-8"))
+        lamps, ok, r = judge(c)
+        return 0 if show(c, lamps, ok, r) else 1
+
+    # 自检：跑案例库
+    print("=" * 68)
+    print(" 视差星 · 案例库自检")
+    print("=" * 68)
+    cases = load_cases()
+    print(f"   已归档 {len(cases)} 个案例\n")
+    bad = 0
+    for c in cases:
+        lamps, ok, r = judge(c)
+        tag = "✦" if ok else f"🚨{len(lamps)}"
+        print(f"   [{tag}] {c.get('case','?'):<22} R={r:+g}  {c.get('verdict','')[:34]}")
+        if not ok:
+            bad += 1
+    print()
+    print("=" * 68)
+    print(" 这颗星下次会亮在：")
+    print("   我要交付一个『我没跑过真系统』的模型时。")
+    print("   它不阻止我交付 —— 它逼我把两个通道摆出来，把编的那一格标出来。")
+    print("=" * 68)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

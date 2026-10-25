@@ -1,1 +1,34 @@
-IiIiUElOTlN0dWRpbyB0ZW1wbGF0ZXMgZGVmaW5lZCBieSB0aGVpciBzZXR0aW5ncy4KClRoZSBvbGRlciB0ZW1wbGF0ZXMgYXJlIHNldCB1cCB3aWRnZXQgYnkgd2lkZ2V0IGluIHRoZSBtYWluIHdpbmRvdzsgdGhlCm9uZXMgaGVyZSBhcmUgcGxhaW4gUElOTkNvbmZpZyBzZXR0aW5ncywgbG9hZGVkIHRoZSBzYW1lIHdheSBhcyBEZWVwWERFJ3MKZXhhbXBsZXMgKGRlZXB4ZGVfZXhhbXBsZXMuYnVpbGRfY29uZmlnLCB0aGVuIE1haW5XaW5kb3cuX2FwcGx5X2NvbmZpZyksIHNvCmEgdGVtcGxhdGUgaXMgb25lIGRpY3Rpb25hcnkuIFRoZXkgYXJlIGxpc3RlZCBhcyBQSU5OU3R1ZGlvIHRlbXBsYXRlcyBpbiB0aGUKRXhhbXBsZXMgbGlzdHMgKGV4YW1wbGVfY2F0YWxvZyksIHdpdGggdGhlIHBhcGVyIHRoZXkgZm9sbG93LgoKVGVtcGxhdGVzIHlvdSBrZWVwIGZvciB5b3Vyc2VsZiBnbyBpbiBwaW5uc3R1ZGlvL2NvcmUvbG9jYWxfZXhhbXBsZXMucHkKKGlnbm9yZWQgYnkgZ2l0KSwgd2l0aCB0aGVpciByZWZlcmVuY2UgZGF0YSB1bmRlciByZWZlcmVuY2VfZGF0YS9sb2NhbC86CnRoZSBmaWxlIGRlZmluZXMgRVhBTVBMRVMsIENBVEFMT0cgKHtuYW1lOiAoc2hvd24gbmFtZSwgcGFwZXIpfSkgYW5kIFBBUEVSUwooe3BhcGVyOiBsaW5rfSkgaW4gdGhlIHNhbWUgZm9ybSwgYW5kIGlzIGFkZGVkIHRvIHRoZSBsaXN0cyB3aGVuIHByZXNlbnQuCiIiIgpmcm9tIHBpbm5zdHVkaW8uY29yZSBpbXBvcnQgZGVlcHhkZV9leGFtcGxlcyBhcyBfZHgKClBBUEVSUyA9IHt9CkVYQU1QTEVTID0gW10KIyBzaG93biBuYW1lIGFuZCBwYXBlciBvZiBlYWNoLCBmb3IgdGhlIGV4YW1wbGUgY2F0YWxvZ3VlCkNBVEFMT0cgPSB7fQoKdHJ5OiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgbG9jYWwgdGVtcGxhdGVzLCBpZiB0aGVyZSBhcmUgYW55CiAgICBmcm9tIHBpbm5zdHVkaW8uY29yZSBpbXBvcnQgbG9jYWxfZXhhbXBsZXMgYXMgX2xvY2FsCmV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgIF9sb2NhbCA9IE5vbmUKaWYgX2xvY2FsIGlzIG5vdCBOb25lOgogICAgUEFQRVJTLnVwZGF0ZShnZXRhdHRyKF9sb2NhbCwgIlBBUEVSUyIsIHt9KSkKICAgIEVYQU1QTEVTLmV4dGVuZChnZXRhdHRyKF9sb2NhbCwgIkVYQU1QTEVTIiwgW10pKQogICAgQ0FUQUxPRy51cGRhdGUoZ2V0YXR0cihfbG9jYWwsICJDQVRBTE9HIiwge30pKQoKQllfTkFNRSA9IHtlLm5hbWU6IGUgZm9yIGUgaW4gRVhBTVBMRVN9CgoKZGVmIGJ1aWxkX2NvbmZpZyhleGFtcGxlLCByZWZfcm9vdCwga2VlcD1Ob25lLCBpbnZlcnNlPUZhbHNlKToKICAgIHJldHVybiBfZHguYnVpbGRfY29uZmlnKGV4YW1wbGUsIHJlZl9yb290LCBrZWVwPWtlZXAsIGludmVyc2U9aW52ZXJzZSkK
+"""PINNStudio templates defined by their settings.
+
+The older templates are set up widget by widget in the main window; the
+ones here are plain PINNConfig settings, loaded the same way as DeepXDE's
+examples (deepxde_examples.build_config, then MainWindow._apply_config), so
+a template is one dictionary. They are listed as PINNStudio templates in the
+Examples lists (example_catalog), with the paper they follow.
+
+Templates you keep for yourself go in pinnstudio/core/local_examples.py
+(ignored by git), with their reference data under reference_data/local/:
+the file defines EXAMPLES, CATALOG ({name: (shown name, paper)}) and PAPERS
+({paper: link}) in the same form, and is added to the lists when present.
+"""
+from pinnstudio.core import deepxde_examples as _dx
+
+PAPERS = {}
+EXAMPLES = []
+# shown name and paper of each, for the example catalogue
+CATALOG = {}
+
+try:                                    # local templates, if there are any
+    from pinnstudio.core import local_examples as _local
+except ImportError:
+    _local = None
+if _local is not None:
+    PAPERS.update(getattr(_local, "PAPERS", {}))
+    EXAMPLES.extend(getattr(_local, "EXAMPLES", []))
+    CATALOG.update(getattr(_local, "CATALOG", {}))
+
+BY_NAME = {e.name: e for e in EXAMPLES}
+
+
+def build_config(example, ref_root, keep=None, inverse=False):
+    return _dx.build_config(example, ref_root, keep=keep, inverse=inverse)

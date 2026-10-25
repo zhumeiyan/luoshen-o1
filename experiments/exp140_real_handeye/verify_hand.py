@@ -1,1 +1,56 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi6K+B5piO5omL55yf55qE5Yqo5LqGOiDliJvlu7rmiYvkuYvlkI4o5LiN6IO95LmL5YmNISnph43mlrDmnprkuL4sIOS7juWGheaguCBldmRldiDmtYHor7vlm57oh6rlt7HnmoTliqjkvZzjgIIiIiIKaW1wb3J0IG9zLCBmY250bCwgc3RydWN0LCB0aW1lLCBqc29uLCBzdWJwcm9jZXNzCmltcG9ydCBzeXM7IHN5cy5wYXRoLmluc2VydCgwLCcuJykKZnJvbSBoYW5kZXllIGltcG9ydCBta19oYW5kLCBoYW5kX3ByZXNzCgpiZWZvcmUgPSBzZXQob3MubGlzdGRpcignL2Rldi9pbnB1dCcpKQpmZCA9IG1rX2hhbmQoKSAgICAgICAgICAgICAgICAgICAgICAjIOWFiOWIm+W7ugp0aW1lLnNsZWVwKDAuMykKYWZ0ZXIgPSBzZXQob3MubGlzdGRpcignL2Rldi9pbnB1dCcpKQpuZXcgPSBzb3J0ZWQoYWZ0ZXIgLSBiZWZvcmUpCnByaW50KCLmlrDlh7rnjrDnmoTovpPlhaXorr7lpIc6IiwgbmV3KQoKZXZzID0gW24gZm9yIG4gaW4gbmV3IGlmIG4uc3RhcnRzd2l0aCgnZXZlbnQnKV0KaWYgbm90IGV2czoKICAgIHByaW50KCJGQUlMOiDmsqHmib7liLDmlrAgZXZlbnQg6K6+5aSHIik7IHN5cy5leGl0KDEpCgojIOeUqCBFVklPQ0dOQU1FIOehruiupOaYr+S4jeaYr+aIkeS7rOeahOaJiwpFVklPQ0dOQU1FID0gMHg4MjAwNDUwNgpwYXRoID0gJy9kZXYvaW5wdXQvJyArIGV2c1swXQpubSA9IG9zLm9wZW4ocGF0aCwgb3MuT19SRE9OTFkgfCBvcy5PX05PTkJMT0NLKQpidWYgPSBieXRlYXJyYXkoMjU2KQp0cnk6CiAgICBuID0gZmNudGwuaW9jdGwobm0sIEVWSU9DR05BTUUsIGJ1ZiwgVHJ1ZSkKICAgIHByaW50KCLorr7lpIflkI06IiwgYnVmWzpuXS5kZWNvZGUoZXJyb3JzPSdyZXBsYWNlJykucnN0cmlwKCdceDAwJykpCmV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgIHByaW50KCJFVklPQ0dOQU1FIGZhaWwiLCBlKQoKIyDms6jlhaUgMyDkuKrmjInplK4sIOS7juWGheaguOa1geivu+WbngppbXBvcnQgc2VsZWN0CmRlZiBkcmFpbihmZCwgdD0wLjQpOgogICAgb3V0ID0gW10KICAgIGVuZCA9IHRpbWUudGltZSgpICsgdAogICAgd2hpbGUgdGltZS50aW1lKCkgPCBlbmQ6CiAgICAgICAgciwgXywgXyA9IHNlbGVjdC5zZWxlY3QoW2ZkXSwgW10sIFtdLCAwLjEpCiAgICAgICAgaWYgcjoKICAgICAgICAgICAgdHJ5OiBkID0gb3MucmVhZChmZCwgMjQqNjQpCiAgICAgICAgICAgIGV4Y2VwdCBCbG9ja2luZ0lPRXJyb3I6IGNvbnRpbnVlCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKDAsIGxlbihkKS0yMywgMjQpOgogICAgICAgICAgICAgICAgXywgXywgdHlwLCBjb2RlLCB2YWwgPSBzdHJ1Y3QudW5wYWNrKCdsbEhISScsIGRbaTppKzI0XSkKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoKHR5cCwgY29kZSwgdmFsKSkKICAgIHJldHVybiBvdXQKCmdvdCA9IFtdCmZvciBrYyBpbiAoMiwgNSwgOCk6CiAgICBoYW5kX3ByZXNzKGZkLCBrYykKICAgIGUgPSBkcmFpbihubSkKICAgIGdvdCArPSBlCmtleXMgPSBbKHQsYyx2KSBmb3IgKHQsYyx2KSBpbiBnb3QgaWYgdCA9PSAxIGFuZCB2ID09IDFdCnByaW50KGYiXG7lhoXmoLjmtYHor7vlm57kuovku7bmgLvmlbA6IHtsZW4oZ290KX0iKQpwcmludChmIuWFtuS4reaMiemUruaMieS4iyh0eXBlPTEsdmFsdWU9MSk6IHtsZW4oa2V5cyl9IikKcHJpbnQoIuaMiemUriBjb2RlOiIsIHNvcnRlZChzZXQoYyBmb3IgXyxjLF8gaW4ga2V5cykpKQpqc29uLmR1bXAoZGljdChuZXdfZGV2aWNlcz1uZXcsIG5hbWU9YnVmWzpuXS5kZWNvZGUoZXJyb3JzPSdyZXBsYWNlJykucnN0cmlwKCdceDAwJyksCiAgICAgICAgICAgICAgIHRvdGFsX2V2ZW50cz1sZW4oZ290KSwga2V5X3ByZXNzZXM9bGVuKGtleXMpLAogICAgICAgICAgICAgICBjb2Rlcz1zb3J0ZWQoc2V0KGMgZm9yIF8sYyxfIGluIGtleXMpKSksCiAgICAgICAgICBvcGVuKCd2ZXJpZnlfaGFuZC5qc29uJywndycpLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+# -*- coding: utf-8 -*-
+"""证明手真的动了: 创建手之后(不能之前!)重新枚举, 从内核 evdev 流读回自己的动作。"""
+import os, fcntl, struct, time, json, subprocess
+import sys; sys.path.insert(0,'.')
+from handeye import mk_hand, hand_press
+
+before = set(os.listdir('/dev/input'))
+fd = mk_hand()                      # 先创建
+time.sleep(0.3)
+after = set(os.listdir('/dev/input'))
+new = sorted(after - before)
+print("新出现的输入设备:", new)
+
+evs = [n for n in new if n.startswith('event')]
+if not evs:
+    print("FAIL: 没找到新 event 设备"); sys.exit(1)
+
+# 用 EVIOCGNAME 确认是不是我们的手
+EVIOCGNAME = 0x82004506
+path = '/dev/input/' + evs[0]
+nm = os.open(path, os.O_RDONLY | os.O_NONBLOCK)
+buf = bytearray(256)
+try:
+    n = fcntl.ioctl(nm, EVIOCGNAME, buf, True)
+    print("设备名:", buf[:n].decode(errors='replace').rstrip('\x00'))
+except Exception as e:
+    print("EVIOCGNAME fail", e)
+
+# 注入 3 个按键, 从内核流读回
+import select
+def drain(fd, t=0.4):
+    out = []
+    end = time.time() + t
+    while time.time() < end:
+        r, _, _ = select.select([fd], [], [], 0.1)
+        if r:
+            try: d = os.read(fd, 24*64)
+            except BlockingIOError: continue
+            for i in range(0, len(d)-23, 24):
+                _, _, typ, code, val = struct.unpack('llHHI', d[i:i+24])
+                out.append((typ, code, val))
+    return out
+
+got = []
+for kc in (2, 5, 8):
+    hand_press(fd, kc)
+    e = drain(nm)
+    got += e
+keys = [(t,c,v) for (t,c,v) in got if t == 1 and v == 1]
+print(f"\n内核流读回事件总数: {len(got)}")
+print(f"其中按键按下(type=1,value=1): {len(keys)}")
+print("按键 code:", sorted(set(c for _,c,_ in keys)))
+json.dump(dict(new_devices=new, name=buf[:n].decode(errors='replace').rstrip('\x00'),
+               total_events=len(got), key_presses=len(keys),
+               codes=sorted(set(c for _,c,_ in keys))),
+          open('verify_hand.json','w'), ensure_ascii=False, indent=1)

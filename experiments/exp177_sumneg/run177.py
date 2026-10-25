@@ -1,1 +1,78 @@
-aW1wb3J0IGpzb24sIG1hdGgsIGNvbGxlY3Rpb25zLCBvcwpTUkM9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE3NV9hbGlnbi91X3NpZGUudHh0IgpyYXc9b3BlbihTUkMsZW5jb2Rpbmc9InV0Zi04IixlcnJvcnM9Imlnbm9yZSIpLnJlYWQoKQojIGtlZXAgb25seSBub24tZW1wdHkgbGluZXMgKHVzZXIgdHVybnMpCnNlcT0iXG4iLmpvaW4oW2wuc3RyaXAoKSBmb3IgbCBpbiByYXcuc3BsaXRsaW5lcygpIGlmIGwuc3RyaXAoKV0pCm49bGVuKHNlcSk7IGN1dD1pbnQobiowLjgpCnRyLHRlPXNlcVs6Y3V0XSxzZXFbY3V0Ol0KcHJpbnQoImNoYXJzIHRvdGFsIixuLCJ0cmFpbiIsbGVuKHRyKSwidGVzdCIsbGVuKHRlKSkKCnVuaT1jb2xsZWN0aW9ucy5Db3VudGVyKHRyKTsgTj1zdW0odW5pLnZhbHVlcygpKTsgVj1sZW4odW5pKQpiaT1jb2xsZWN0aW9ucy5Db3VudGVyKHppcCh0cix0clsxOl0pKQpiaXByZXY9Y29sbGVjdGlvbnMuQ291bnRlcih0cls6LTFdKQpFUFM9MWUtOQpsb2dOPW1hdGgubG9nKE4pCgpkZWYgbHBfdW5pKGMpOiByZXR1cm4gbWF0aC5sb2coKHVuaVtjXSswLjUpLyhOKzAuNSpWKSkKZGVmIGxwX2JpKGEsYik6CiAgICAjIGludGVycG9sYXRlZCBiaWdyYW0KICAgIHBiaT0oYmlbKGEsYildKzAuNSkvKGJpcHJldlthXSswLjUqVikKICAgIHJldHVybiBtYXRoLmxvZygwLjgqcGJpKzAuMiptYXRoLmV4cChscF91bmkoYikpKQoKIyBzdXJwcmlzZSA9IHRvdGFsIGV4dHJhIGluZm8gY2FycmllZCBieSB0aGlzIHRyYW5zaXRpb24sIHZzIHVuaWdyYW0Kc3VycD17fQpmb3IgKGEsYiksYyBpbiBiaS5pdGVtcygpOgogICAgaWYgYzwyOiBjb250aW51ZQogICAgcGJpPShiaVsoYSxiKV0rMC41KS8oYmlwcmV2W2FdKzAuNSpWKQogICAgcHU9bWF0aC5leHAobHBfdW5pKGIpKQogICAgc3VycFsoYSxiKV09YyptYXRoLmxvZygoMC44KnBiaSswLjIqcHUpL3B1KQpyYW5rZWQ9c29ydGVkKHN1cnAuaXRlbXMoKSxrZXk9bGFtYmRhIGt2Oi1rdlsxXSkKcHJpbnQoInRvdGFsIHRyYW5zaXRpb25zIixsZW4oYmkpLCJ3aXRoIGNvdW50Pj0yIGFuZCBtb2RlbGVkIixsZW4ocmFua2VkKSkKCmRlZiBldmFsdWF0ZShrZWVwKToKICAgICIiImtlZXAgPSBzZXQgb2YgdHJhbnNpdGlvbnMgdG8gbW9kZWwgYXMgYmlncmFtOyBvdGhlcnMgZmFsbCBiYWNrIHRvIHVuaWdyYW0iIiIKICAgIGNvcnJlY3Q9MDsgdG90PTA7IGxsPTAuMAogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRlKSk6CiAgICAgICAgY3R4ID0gdHJbLTFdIGlmIGk9PTAgZWxzZSB0ZVtpLTFdCiAgICAgICAgYyA9IHRlW2ldCiAgICAgICAgaWYgKGN0eCxjKSBpbiBrZWVwOgogICAgICAgICAgICBscD1scF9iaShjdHgsYykKICAgICAgICBlbHNlOgogICAgICAgICAgICBscD1scF91bmkoYykKICAgICAgICBsbCs9bHA7IHRvdCs9MQogICAgICAgICMgdG9wMTogY29tcGFyZSB3aXRoIGJlc3QgYWx0ZXJuYXRpdmUKICAgICAgICBpZiAoY3R4LGMpIGluIGtlZXA6CiAgICAgICAgICAgIGJlc3Q9bWF4KHVuaSxrZXk9bGFtYmRhIHg6IGxwX2JpKGN0eCx4KS0xZTkqMCkgaWYgRmFsc2UgZWxzZSBOb25lCiAgICAgICAgIyBhcHByb3hpbWF0ZSB0b3AtMSBieSBzY29yaW5nIGZ1bGwgYWxwaGFiZXQgdW5kZXIgdGhlIHNhbWUgcnVsZQogICAgICAgICMgKGNoZWFwOiByZXN0cmljdCB0byBvYnNlcnZlZCBjaGFycykKICAgICAgICBiZXN0Yz1Ob25lO2Jlc3R2PS0xZTE4CiAgICAgICAgZm9yIHggaW4gdW5pOgogICAgICAgICAgICB2ID0gbHBfYmkoY3R4LHgpIGlmIChjdHgseCkgaW4ga2VlcCBlbHNlIGxwX3VuaSh4KQogICAgICAgICAgICBpZiB2PmJlc3R2OiBiZXN0dj12O2Jlc3RjPXgKICAgICAgICBpZiBiZXN0Yz09YzogY29ycmVjdCs9MQogICAgcmV0dXJuIGNvcnJlY3QvdG90LCAtbGwvdG90CgojIGJhc2VsaW5lOiBwdXJlIHN1bW1hcnkgKHVuaWdyYW0gb25seSwgbm8gdHJhbnNpdGlvbiByZXRhaW5lZCkKYWNjX3N1bSxjZV9zdW0gPSBldmFsdWF0ZShzZXQoKSkKcHJpbnQoIlNVTU1BUlkodW5pZ3JhbSBvbmx5KTogYWNjPSUuNGYgYml0cz0lLjRmIiUoYWNjX3N1bSxjZV9zdW0pKQojIGZ1bGw6IGFsbCBtb2RlbGVkIHRyYW5zaXRpb25zCmFsbGtlZXA9c2V0KGsgZm9yIGssXyBpbiByYW5rZWQpCmFjY19mdWxsLGNlX2Z1bGwgPSBldmFsdWF0ZShhbGxrZWVwKQpwcmludCgiRlVMTChhbGwgdHJhbnNpdGlvbnMpOiBhY2M9JS40ZiBiaXRzPSUuNGYiJShhY2NfZnVsbCxjZV9mdWxsKSkKCmN1cnZlPVtdCmZvciBOayBpbiBbMCwxLDIsMyw1LDEwLDIwLDUwLDEwMCwyMDAsNDAwLDgwMCxsZW4ocmFua2VkKV06CiAgICBrZWVwPXNldChrIGZvciBrLF8gaW4gcmFua2VkWzpOa10pCiAgICBhLGM9ZXZhbHVhdGUoa2VlcCkKICAgICMgZnJhY3Rpb24gb2YgZnVsbC1zdXJwcmlzZSBtYXNzIHJldGFpbmVkCiAgICBtYXNzPXN1bSh2IGZvciBfLHYgaW4gcmFua2VkWzpOa10pL3N1bSh2IGZvciBfLHYgaW4gcmFua2VkKSBpZiByYW5rZWQgZWxzZSAwCiAgICBjdXJ2ZS5hcHBlbmQoeyJuZWdhdGVfdG9wTiI6TmssImFjYyI6YSwiYml0cyI6Yywic3VycHJpc2VfbWFzcyI6bWFzc30pCiAgICBwcmludCgibmVnYXRlIE49JTVkIGFjYz0lLjRmIGJpdHM9JS40ZiBtYXNzPSUuM2YiJShOayxhLGMsbWFzcykpCgpqc29uLmR1bXAoeyJuX2NoYXJzIjpuLCJ0cmFpbiI6bGVuKHRyKSwidGVzdCI6bGVuKHRlKSwiViI6ViwKICAgICAgICAgICAic3VtbWFyeV9hY2MiOmFjY19zdW0sInN1bW1hcnlfYml0cyI6Y2Vfc3VtLAogICAgICAgICAgICJmdWxsX2FjYyI6YWNjX2Z1bGwsImZ1bGxfYml0cyI6Y2VfZnVsbCwKICAgICAgICAgICAibl9yYW5rZWQiOmxlbihyYW5rZWQpLCJjdXJ2ZSI6Y3VydmV9LAogICAgICAgICAgb3BlbigiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTc3X3N1bW5lZy9yZXN1bHQxNzcuanNvbiIsInciKSwKICAgICAgICAgIGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkKcHJpbnQoIldST1RFIikK
+import json, math, collections, os
+SRC="/data/workspace/luoshen-o1/experiments/exp175_align/u_side.txt"
+raw=open(SRC,encoding="utf-8",errors="ignore").read()
+# keep only non-empty lines (user turns)
+seq="\n".join([l.strip() for l in raw.splitlines() if l.strip()])
+n=len(seq); cut=int(n*0.8)
+tr,te=seq[:cut],seq[cut:]
+print("chars total",n,"train",len(tr),"test",len(te))
+
+uni=collections.Counter(tr); N=sum(uni.values()); V=len(uni)
+bi=collections.Counter(zip(tr,tr[1:]))
+biprev=collections.Counter(tr[:-1])
+EPS=1e-9
+logN=math.log(N)
+
+def lp_uni(c): return math.log((uni[c]+0.5)/(N+0.5*V))
+def lp_bi(a,b):
+    # interpolated bigram
+    pbi=(bi[(a,b)]+0.5)/(biprev[a]+0.5*V)
+    return math.log(0.8*pbi+0.2*math.exp(lp_uni(b)))
+
+# surprise = total extra info carried by this transition, vs unigram
+surp={}
+for (a,b),c in bi.items():
+    if c<2: continue
+    pbi=(bi[(a,b)]+0.5)/(biprev[a]+0.5*V)
+    pu=math.exp(lp_uni(b))
+    surp[(a,b)]=c*math.log((0.8*pbi+0.2*pu)/pu)
+ranked=sorted(surp.items(),key=lambda kv:-kv[1])
+print("total transitions",len(bi),"with count>=2 and modeled",len(ranked))
+
+def evaluate(keep):
+    """keep = set of transitions to model as bigram; others fall back to unigram"""
+    correct=0; tot=0; ll=0.0
+    for i in range(len(te)):
+        ctx = tr[-1] if i==0 else te[i-1]
+        c = te[i]
+        if (ctx,c) in keep:
+            lp=lp_bi(ctx,c)
+        else:
+            lp=lp_uni(c)
+        ll+=lp; tot+=1
+        # top1: compare with best alternative
+        if (ctx,c) in keep:
+            best=max(uni,key=lambda x: lp_bi(ctx,x)-1e9*0) if False else None
+        # approximate top-1 by scoring full alphabet under the same rule
+        # (cheap: restrict to observed chars)
+        bestc=None;bestv=-1e18
+        for x in uni:
+            v = lp_bi(ctx,x) if (ctx,x) in keep else lp_uni(x)
+            if v>bestv: bestv=v;bestc=x
+        if bestc==c: correct+=1
+    return correct/tot, -ll/tot
+
+# baseline: pure summary (unigram only, no transition retained)
+acc_sum,ce_sum = evaluate(set())
+print("SUMMARY(unigram only): acc=%.4f bits=%.4f"%(acc_sum,ce_sum))
+# full: all modeled transitions
+allkeep=set(k for k,_ in ranked)
+acc_full,ce_full = evaluate(allkeep)
+print("FULL(all transitions): acc=%.4f bits=%.4f"%(acc_full,ce_full))
+
+curve=[]
+for Nk in [0,1,2,3,5,10,20,50,100,200,400,800,len(ranked)]:
+    keep=set(k for k,_ in ranked[:Nk])
+    a,c=evaluate(keep)
+    # fraction of full-surprise mass retained
+    mass=sum(v for _,v in ranked[:Nk])/sum(v for _,v in ranked) if ranked else 0
+    curve.append({"negate_topN":Nk,"acc":a,"bits":c,"surprise_mass":mass})
+    print("negate N=%5d acc=%.4f bits=%.4f mass=%.3f"%(Nk,a,c,mass))
+
+json.dump({"n_chars":n,"train":len(tr),"test":len(te),"V":V,
+           "summary_acc":acc_sum,"summary_bits":ce_sum,
+           "full_acc":acc_full,"full_bits":ce_full,
+           "n_ranked":len(ranked),"curve":curve},
+          open("/data/workspace/luoshen-o1/experiments/exp177_sumneg/result177.json","w"),
+          ensure_ascii=False,indent=1)
+print("WROTE")

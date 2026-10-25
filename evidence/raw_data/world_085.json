@@ -1,1 +1,120 @@
-ewogImZldGNoZWRfYXQiOiAiMjAyNi0xMC0xNyAwMzo0NDo1MyIsCiAibl92aWV3cyI6IDcsCiAiY2l0aWVzIjogWwogIHsKICAgImNpdHkiOiAi5aiB5rW3IiwKICAgImxhdCI6IDM3LjUxMzA5LAogICAibG9uIjogMTIyLjEyMDc0LAogICAicnR0X21zIjogMTM4LjksCiAgICJ0ZW1wZXJhdHVyZSI6IDE3LjAsCiAgICJodW1pZGl0eSI6IDkyLjAsCiAgICJwcmVzc3VyZSI6IDEwMDkuMCwKICAgIndlYXRoZXIiOiAi5aSa5LqRIiwKICAgInVwZGF0ZV90aW1lIjogIjIwMjYtMTAtMTcgMDM6NDAiCiAgfSwKICB7CiAgICJjaXR5IjogIuWMl+S6rCIsCiAgICJsYXQiOiAzOS45MDQyLAogICAibG9uIjogMTE2LjQwNzQsCiAgICJydHRfbXMiOiA5Ni4wLAogICAidGVtcGVyYXR1cmUiOiAxNC4wLAogICAiaHVtaWRpdHkiOiA2NC4wLAogICAicHJlc3N1cmUiOiAxMDE3LjAsCiAgICJ3ZWF0aGVyIjogIumYtCIsCiAgICJ1cGRhdGVfdGltZSI6ICIyMDI2LTEwLTE3IDAzOjQwIgogIH0sCiAgewogICAiY2l0eSI6ICLkuIrmtbciLAogICAibGF0IjogMzEuMjMwNCwKICAgImxvbiI6IDEyMS40NzM3LAogICAicnR0X21zIjogMTAxLjIsCiAgICJ0ZW1wZXJhdHVyZSI6IDIyLjAsCiAgICJodW1pZGl0eSI6IDc5LjAsCiAgICJwcmVzc3VyZSI6IDEwMTguMCwKICAgIndlYXRoZXIiOiAi6Zi0IiwKICAgInVwZGF0ZV90aW1lIjogIjIwMjYtMTAtMTcgMDM6NDAiCiAgfSwKICB7CiAgICJjaXR5IjogIuW5v+W3niIsCiAgICJsYXQiOiAyMy4xMjkxLAogICAibG9uIjogMTEzLjI2NDQsCiAgICJydHRfbXMiOiA5Mi40LAogICAidGVtcGVyYXR1cmUiOiAyMi4wLAogICAiaHVtaWRpdHkiOiA5NS4wLAogICAicHJlc3N1cmUiOiAxMDA3LjAsCiAgICJ3ZWF0aGVyIjogIumbviIsCiAgICJ1cGRhdGVfdGltZSI6ICIyMDI2LTEwLTE3IDAzOjQwIgogIH0sCiAgewogICAiY2l0eSI6ICLmt7HlnLMiLAogICAibGF0IjogMjIuNTQzMSwKICAgImxvbiI6IDExNC4wNTc5LAogICAicnR0X21zIjogOTYuOSwKICAgInRlbXBlcmF0dXJlIjogMjYuMCwKICAgImh1bWlkaXR5IjogNzkuMCwKICAgInByZXNzdXJlIjogMTAwNy4wLAogICAid2VhdGhlciI6ICLlpJrkupEiLAogICAidXBkYXRlX3RpbWUiOiAiMjAyNi0xMC0xNyAwMzo0MCIKICB9LAogIHsKICAgImNpdHkiOiAi5ZOI5bCU5ruoIiwKICAgImxhdCI6IDQ1LjgwMzgsCiAgICJsb24iOiAxMjYuNTM0OSwKICAgInJ0dF9tcyI6IDk0LjEsCiAgICJ0ZW1wZXJhdHVyZSI6IC0zLjAsCiAgICJodW1pZGl0eSI6IDg2LjAsCiAgICJwcmVzc3VyZSI6IDEwMTMuMCwKICAgIndlYXRoZXIiOiAi5pm05aSpIiwKICAgInVwZGF0ZV90aW1lIjogIjIwMjYtMTAtMTcgMDM6NDAiCiAgfSwKICB7CiAgICJjaXR5IjogIuS5jOmygeacqOm9kCIsCiAgICJsYXQiOiA0My44MjU2LAogICAibG9uIjogODcuNjE2OCwKICAgInJ0dF9tcyI6IDEwMC4xLAogICAidGVtcGVyYXR1cmUiOiAwLjAsCiAgICJodW1pZGl0eSI6IDY1LjAsCiAgICJwcmVzc3VyZSI6IDkyMy4wLAogICAid2VhdGhlciI6ICLmmbTlpKkiLAogICAidXBkYXRlX3RpbWUiOiAiMjAyNi0xMC0xNyAwMzo0MCIKICB9CiBdLAogIndvcmxkIjogWwogIFsKICAgMC41NSwKICAgMC45MiwKICAgMC45NTExNjMKICBdLAogIFsKICAgMC40NzUsCiAgIDAuNjQsCiAgIDAuOTY5NzY3CiAgXSwKICBbCiAgIDAuNjc1LAogICAwLjc5LAogICAwLjk3MjA5MwogIF0sCiAgWwogICAwLjY3NSwKICAgMC45NSwKICAgMC45NDY1MTIKICBdLAogIFsKICAgMC43NzUsCiAgIDAuNzksCiAgIDAuOTQ2NTEyCiAgXSwKICBbCiAgIDAuMDUsCiAgIDAuODYsCiAgIDAuOTYwNDY1CiAgXSwKICBbCiAgIDAuMTI1LAogICAwLjY1LAogICAwLjc1MTE2MwogIF0KIF0KfQ==
+{
+ "fetched_at": "2026-10-17 03:44:53",
+ "n_views": 7,
+ "cities": [
+  {
+   "city": "威海",
+   "lat": 37.51309,
+   "lon": 122.12074,
+   "rtt_ms": 138.9,
+   "temperature": 17.0,
+   "humidity": 92.0,
+   "pressure": 1009.0,
+   "weather": "多云",
+   "update_time": "2026-10-17 03:40"
+  },
+  {
+   "city": "北京",
+   "lat": 39.9042,
+   "lon": 116.4074,
+   "rtt_ms": 96.0,
+   "temperature": 14.0,
+   "humidity": 64.0,
+   "pressure": 1017.0,
+   "weather": "阴",
+   "update_time": "2026-10-17 03:40"
+  },
+  {
+   "city": "上海",
+   "lat": 31.2304,
+   "lon": 121.4737,
+   "rtt_ms": 101.2,
+   "temperature": 22.0,
+   "humidity": 79.0,
+   "pressure": 1018.0,
+   "weather": "阴",
+   "update_time": "2026-10-17 03:40"
+  },
+  {
+   "city": "广州",
+   "lat": 23.1291,
+   "lon": 113.2644,
+   "rtt_ms": 92.4,
+   "temperature": 22.0,
+   "humidity": 95.0,
+   "pressure": 1007.0,
+   "weather": "雾",
+   "update_time": "2026-10-17 03:40"
+  },
+  {
+   "city": "深圳",
+   "lat": 22.5431,
+   "lon": 114.0579,
+   "rtt_ms": 96.9,
+   "temperature": 26.0,
+   "humidity": 79.0,
+   "pressure": 1007.0,
+   "weather": "多云",
+   "update_time": "2026-10-17 03:40"
+  },
+  {
+   "city": "哈尔滨",
+   "lat": 45.8038,
+   "lon": 126.5349,
+   "rtt_ms": 94.1,
+   "temperature": -3.0,
+   "humidity": 86.0,
+   "pressure": 1013.0,
+   "weather": "晴天",
+   "update_time": "2026-10-17 03:40"
+  },
+  {
+   "city": "乌鲁木齐",
+   "lat": 43.8256,
+   "lon": 87.6168,
+   "rtt_ms": 100.1,
+   "temperature": 0.0,
+   "humidity": 65.0,
+   "pressure": 923.0,
+   "weather": "晴天",
+   "update_time": "2026-10-17 03:40"
+  }
+ ],
+ "world": [
+  [
+   0.55,
+   0.92,
+   0.951163
+  ],
+  [
+   0.475,
+   0.64,
+   0.969767
+  ],
+  [
+   0.675,
+   0.79,
+   0.972093
+  ],
+  [
+   0.675,
+   0.95,
+   0.946512
+  ],
+  [
+   0.775,
+   0.79,
+   0.946512
+  ],
+  [
+   0.05,
+   0.86,
+   0.960465
+  ],
+  [
+   0.125,
+   0.65,
+   0.751163
+  ]
+ ]
+}

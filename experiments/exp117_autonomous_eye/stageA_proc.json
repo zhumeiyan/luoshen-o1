@@ -1,1 +1,309 @@
-WwogIHsKICAgICJwYXRoIjogIi9wcm9jL2J1ZGR5aW5mbyIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiAyMDAsCiAgICAidW5pcV9vZl8zIjogMQogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2MvY2dyb3VwcyIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiAyMTgsCiAgICAidW5pcV9vZl8zIjogMQogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2MvY21kbGluZSIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiAyOTMsCiAgICAidW5pcV9vZl8zIjogMQogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2MvY29uZmlnLmd6IiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDUxMiwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9jb25zb2xlcyIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiA0MSwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9jcHVpbmZvIiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDUxMiwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9jcnlwdG8iLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL2RldmljZXMiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL2Rpc2tzdGF0cyIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiA1MTIsCiAgICAidW5pcV9vZl8zIjogMQogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2MvZG1hIiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL2V4ZWNkb21haW5zIiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDMwLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL2ZiIiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL2ZpbGVzeXN0ZW1zIiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDQ2OCwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9pbnRlcnJ1cHRzIiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDUxMiwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9pb21lbSIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiA1MTIsCiAgICAidW5pcV9vZl8zIjogMQogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2MvaW9wb3J0cyIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiAzMzEsCiAgICAidW5pcV9vZl8zIjogMQogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2Mva2FsbHN5bXMiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInNraXBwZWQiCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9rY29yZSIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAic2tpcHBlZCIKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL2tleS11c2VycyIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiA0MSwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9rZXlzIiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDUxMiwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9rbXNnIiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJza2lwcGVkIgogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2Mva3BhZ2VjZ3JvdXAiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL2twYWdlY291bnQiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL2twYWdlZmxhZ3MiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL2xhdGVuY3lfc3RhdHMiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogMjcsCiAgICAidW5pcV9vZl8zIjogMQogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2MvbG9hZGF2ZyIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiAyNiwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9sb2NrcyIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiAwLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL21lbWluZm8iLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL21pc2MiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogMjMyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL21vZHVsZXMiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogMCwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9tb3VudHMiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL210cnIiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogMCwKICAgICJ1bmlxX29mXzMiOiAxCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy9wYWdldHlwZWluZm8iLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL3BhcnRpdGlvbnMiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogMjcwLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL3NjaGVkc3RhdCIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiAyODcsCiAgICAidW5pcV9vZl8zIjogMwogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2Mvc29mdGlycXMiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNDAzLAogICAgInVuaXFfb2ZfMyI6IDMKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL3N0YXQiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDMKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL3N3YXBzIiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDM5LAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL3N5c3JxLXRyaWdnZXIiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInNraXBwZWQiCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy90aW1lcl9saXN0IiwKICAgICJraW5kIjogInByb2MiLAogICAgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAibiI6IDUxMiwKICAgICJ1bmlxX29mXzMiOiAzCiAgfSwKICB7CiAgICAicGF0aCI6ICIvcHJvYy91cHRpbWUiLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogMTIsCiAgICAidW5pcV9vZl8zIjogMwogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2MvdmVyc2lvbiIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiAyMzQsCiAgICAidW5pcV9vZl8zIjogMQogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2Mvdm1hbGxvY2luZm8iLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9LAogIHsKICAgICJwYXRoIjogIi9wcm9jL3Ztc3RhdCIsCiAgICAia2luZCI6ICJwcm9jIiwKICAgICJzdGF0dXMiOiAicmVhZGFibGUiLAogICAgIm4iOiA1MTIsCiAgICAidW5pcV9vZl8zIjogMwogIH0sCiAgewogICAgInBhdGgiOiAiL3Byb2Mvem9uZWluZm8iLAogICAgImtpbmQiOiAicHJvYyIsCiAgICAic3RhdHVzIjogInJlYWRhYmxlIiwKICAgICJuIjogNTEyLAogICAgInVuaXFfb2ZfMyI6IDEKICB9Cl0=
+[
+  {
+    "path": "/proc/buddyinfo",
+    "kind": "proc",
+    "status": "readable",
+    "n": 200,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/cgroups",
+    "kind": "proc",
+    "status": "readable",
+    "n": 218,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/cmdline",
+    "kind": "proc",
+    "status": "readable",
+    "n": 293,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/config.gz",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/consoles",
+    "kind": "proc",
+    "status": "readable",
+    "n": 41,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/cpuinfo",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/crypto",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/devices",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/diskstats",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/dma",
+    "kind": "proc",
+    "status": "readable",
+    "n": 12,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/execdomains",
+    "kind": "proc",
+    "status": "readable",
+    "n": 30,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/fb",
+    "kind": "proc",
+    "status": "readable",
+    "n": 12,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/filesystems",
+    "kind": "proc",
+    "status": "readable",
+    "n": 468,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/interrupts",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/iomem",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/ioports",
+    "kind": "proc",
+    "status": "readable",
+    "n": 331,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/kallsyms",
+    "kind": "proc",
+    "status": "skipped"
+  },
+  {
+    "path": "/proc/kcore",
+    "kind": "proc",
+    "status": "skipped"
+  },
+  {
+    "path": "/proc/key-users",
+    "kind": "proc",
+    "status": "readable",
+    "n": 41,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/keys",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/kmsg",
+    "kind": "proc",
+    "status": "skipped"
+  },
+  {
+    "path": "/proc/kpagecgroup",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/kpagecount",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/kpageflags",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/latency_stats",
+    "kind": "proc",
+    "status": "readable",
+    "n": 27,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/loadavg",
+    "kind": "proc",
+    "status": "readable",
+    "n": 26,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/locks",
+    "kind": "proc",
+    "status": "readable",
+    "n": 0,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/meminfo",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/misc",
+    "kind": "proc",
+    "status": "readable",
+    "n": 232,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/modules",
+    "kind": "proc",
+    "status": "readable",
+    "n": 0,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/mounts",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/mtrr",
+    "kind": "proc",
+    "status": "readable",
+    "n": 0,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/pagetypeinfo",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/partitions",
+    "kind": "proc",
+    "status": "readable",
+    "n": 270,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/schedstat",
+    "kind": "proc",
+    "status": "readable",
+    "n": 287,
+    "uniq_of_3": 3
+  },
+  {
+    "path": "/proc/softirqs",
+    "kind": "proc",
+    "status": "readable",
+    "n": 403,
+    "uniq_of_3": 3
+  },
+  {
+    "path": "/proc/stat",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 3
+  },
+  {
+    "path": "/proc/swaps",
+    "kind": "proc",
+    "status": "readable",
+    "n": 39,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/sysrq-trigger",
+    "kind": "proc",
+    "status": "skipped"
+  },
+  {
+    "path": "/proc/timer_list",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 3
+  },
+  {
+    "path": "/proc/uptime",
+    "kind": "proc",
+    "status": "readable",
+    "n": 12,
+    "uniq_of_3": 3
+  },
+  {
+    "path": "/proc/version",
+    "kind": "proc",
+    "status": "readable",
+    "n": 234,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/vmallocinfo",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  },
+  {
+    "path": "/proc/vmstat",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 3
+  },
+  {
+    "path": "/proc/zoneinfo",
+    "kind": "proc",
+    "status": "readable",
+    "n": 512,
+    "uniq_of_3": 1
+  }
+]

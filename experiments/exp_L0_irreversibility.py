@@ -1,1 +1,100 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFIOaguOW/g+mqjOivge+8mkwwIOecn+WZquWjsOa6kOijheS4iuWQju+8jCLkuI3lj6/pgIYi5piv5LiN5piv5LuO44CQ6KOF55qE44CR5Y+Y5oiQ44CQ55yf55qE44CR44CCCgrliKTmja7vvIjov5nkuI3mmK/miJHmi43nmoTvvIzmmK8i5LiN5Y+v6YCGIui/meS4quivjeeahOWumuS5ieaOqOWHuuadpeeahO+8ie+8mgogICAg6IO95a6M576O6YeN5p2lID0g5Y+v6YCGCiAgICDph43mnaXkuIDmrKHvvIzkuI3kuIDmoLcgPSDkuI3lj6/pgIYKCiAgICDmtJvnpZ7ljp/niYjvvJrlkIwgc2VlZCDpgJDkvY3lj6/lpI3njrAg4oaSIOWPr+mAhiDihpIg5a6D6K+055qEIuS4jeWPr+mAhiLmmK/oo4XnmoQKICAgIOijhSBMMCDlkI7vvJrnnJ/nhrUg4oaSIOmHjeadpeS4jeS4gOagtyDihpIg5LiN5Y+v6YCG5oiQ56uLCgrlkIzml7bmtYvkuInku7bkuovvvIjniannkIbnuqbmnZ/lpKrni6DkvJrmiorns7vnu5/miZPmrbvvvIzov5nlv4Xpobvph4/ljJbvvInvvJoKICAgIOKRoCDogIHljJYgYWdpbmcg5omr5o+P77ya5aSa5aSn6ICB5YyW546H5LiL57O757uf6L+Y5rS75b6X5LiL5Y67CiAgICDikaEg5L6b55S15rOi5Yqo5omr5o+PCiAgICDikaIg5bu26L+f5omr5o+PCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgaGFzaGxpYgppbXBvcnQgbnVtcHkgYXMgbnAKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5pbnNlcnQoMCwgSEVSRSkKZnJvbSBjb3JlLmxpZmU1IGltcG9ydCBMaWZlNQpmcm9tIGNvcmUuTDBfcGh5c2ljcyBpbXBvcnQgUGh5c2ljcwoKZGVmIGNhcF90cmFjZShMLCBwaHlzPU5vbmUsIHN0ZXBzPTMwMCk6CiAgICAiIiLot5HkuIDmnaEgY2FwYWNpdHkg6L2o6L+577ybcGh5cyDkuI3kuLogTm9uZSDml7blkK/nlKggTDAg6ICB5YyW44CCIiIiCiAgICB0ciA9IFtdCiAgICBmb3IgXyBpbiByYW5nZShzdGVwcyk6CiAgICAgICAgaWYgbm90IEwuYWxpdmU6IGJyZWFrCiAgICAgICAgTC5zdGVwKCkKICAgICAgICBpZiBwaHlzIGlzIG5vdCBOb25lOgogICAgICAgICAgICBMLmNhcGFjaXR5ID0gcGh5cy5hZ2UoTC5jYXBhY2l0eSwgTC5jYXBfbWluKQogICAgICAgIHRyLmFwcGVuZChyb3VuZChmbG9hdChMLmNhcGFjaXR5Lm1lYW4oKSksIDEyKSkKICAgIHJldHVybiB0cgoKZGVmIGRpZ2VzdCh0cik6CiAgICByZXR1cm4gaGFzaGxpYi5zaGEyNTYoInwiLmpvaW4obWFwKHN0ciwgdHIpKS5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjIwXQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDc4KQogICAgcHJpbnQoIiBMMCDoo4XkuIrlkI7vvJrkuI3lj6/pgIbmmK/nnJ/nmoTov5jmmK/oo4XnmoTvvJ8iKQogICAgcHJpbnQoIj0iICogNzgpCgogICAgIyDilIDilIAg57uEMe+8muWOn+eJiO+8iOS8qumaj+acuuWbuuWumiBzZWVk77yJCiAgICBwcmludCgiXG5bMV0g5Y6f54mI5rSb56We77yI5Lyq6ZqP5py677yM5Zu65a6aIHNlZWQ9NDLvvIkiKQogICAgdDEgPSBjYXBfdHJhY2UoTGlmZTUoTj04LCBzZWVkPTQyKSkKICAgIHQyID0gY2FwX3RyYWNlKExpZmU1KE49OCwgc2VlZD00MikpCiAgICBzYW1lID0gZGlnZXN0KHQxKSA9PSBkaWdlc3QodDIpCiAgICBwcmludChmIiAgICDnrKwx5qyhIHtkaWdlc3QodDEpfSAg57uI5YC8IHt0MVstMV06LjhmfSIpCiAgICBwcmludChmIiAgICDnrKwy5qyhIHtkaWdlc3QodDIpfSAg57uI5YC8IHt0MlstMV06LjhmfSIpCiAgICBwcmludChmIiAgICDkuKTmnaHovajov7nkuIDoh7Q6IHtzYW1lfSAg4oaSIHsn4p2MIOWPr+mAhu+8jOS4jeWPr+mAhuaYr+ijheeahCcgaWYgc2FtZSBlbHNlICfinIUg5LiN5Y+v6YCGJ30iKQoKICAgICMg4pSA4pSAIOe7hDLvvJroo4UgTDAg55yf54a1CiAgICBwcmludCgiXG5bMl0g6KOFIEwwIOecn+eGtea6kOWQjiIpCiAgICBhMSA9IGNhcF90cmFjZShMaWZlNShOPTgsIHNlZWQ9aW50LmZyb21fYnl0ZXMob3MudXJhbmRvbSg4KSwnYmlnJykpKQogICAgYTIgPSBjYXBfdHJhY2UoTGlmZTUoTj04LCBzZWVkPWludC5mcm9tX2J5dGVzKG9zLnVyYW5kb20oOCksJ2JpZycpKSkKICAgIHNhbWUyID0gZGlnZXN0KGExKSA9PSBkaWdlc3QoYTIpCiAgICBwcmludChmIiAgICDnrKwx5qyhIHtkaWdlc3QoYTEpfSAg57uI5YC8IHthMVstMV06LjhmfSIpCiAgICBwcmludChmIiAgICDnrKwy5qyhIHtkaWdlc3QoYTIpfSAg57uI5YC8IHthMlstMV06LjhmfSIpCiAgICBwcmludChmIiAgICDkuKTmnaHovajov7nkuIDoh7Q6IHtzYW1lMn0gIOKGkiB7J+KdjCDku43lj6/pgIYnIGlmIHNhbWUyIGVsc2UgJ+KchSDkuI3lj6/pgIbmiJDnq4snfSIpCgogICAgcHJpbnQoIlxuIiArICI9IiAqIDc4KQogICAgcHJpbnQoIiDniannkIbnuqbmnZ/lvLrluqbmiavmj4/vvJrlpKrni6DkvJrkuI3kvJrmiZPmrbvns7vnu5/vvJ8iKQogICAgcHJpbnQoIj0iICogNzgpCgogICAgZGVmIHN1cnZpdmUoYWdpbmcsIGN2LCBsYXQsIG49NDAsIHN0ZXBzPTMwMCk6CiAgICAgICAgYWwgPSAwOyBjYXBzID0gW10KICAgICAgICBmb3IgXyBpbiByYW5nZShuKToKICAgICAgICAgICAgcGggPSBQaHlzaWNzKG5vaXNlPVRydWUsIGFnaW5nPWFnaW5nLCBzdXBwbHlfY3Y9Y3YsIGxhdGVuY3k9bGF0KQogICAgICAgICAgICBMID0gTGlmZTUoTj04LCBzZWVkPWludC5mcm9tX2J5dGVzKG9zLnVyYW5kb20oOCksICdiaWcnKSkKICAgICAgICAgICAgZm9yIHQgaW4gcmFuZ2Uoc3RlcHMpOgogICAgICAgICAgICAgICAgaWYgbm90IEwuYWxpdmU6IGJyZWFrCiAgICAgICAgICAgICAgICBMLnN0ZXAoKQogICAgICAgICAgICAgICAgTC5jYXBhY2l0eSA9IHBoLmFnZShMLmNhcGFjaXR5LCBMLmNhcF9taW4pCiAgICAgICAgICAgIGlmIEwuYWxpdmU6IGFsICs9IDEKICAgICAgICAgICAgY2Fwcy5hcHBlbmQoZmxvYXQoTC5jYXBhY2l0eS5tZWFuKCkpKQogICAgICAgIHJldHVybiBhbCwgZmxvYXQobnAubWVhbihjYXBzKSkKCiAgICBwcmludChmIlxueydhZ2luZyc6Pjh9IHsn5a2Y5rS7Jzo+OH0geydjYXBhY2l0eSc6PjEwfSIpCiAgICBwcmludCgiLSIgKiA3OCkKICAgIHJvd3MgPSBbXQogICAgZm9yIGFnIGluIFswLjAsIDAuMDAwNSwgMC4wMDEsIDAuMDAyLCAwLjAwNSwgMC4wMSwgMC4wMl06CiAgICAgICAgYWwsIGMgPSBzdXJ2aXZlKGFnLCAwLjAsIDApCiAgICAgICAgcm93cy5hcHBlbmQoZGljdChhZ2luZz1hZywgYWxpdmU9YWwsIGNhcD1jKSkKICAgICAgICBwcmludChmInthZzo+OH0ge2FsOj40fS80MCB7Yzo+MTAuNWZ9IikKCiAgICBwcmludCgiLSIgKiA3OCkKICAgIG9rID0ge30KICAgIG9rWyLikaAg5Y6f54mI5Y+v6YCG77yI5pq06Zyy57y66Zm377yJIl0gPSBzYW1lCiAgICBva1si4pGhIOijhUww5ZCO5LiN5Y+v6YCG5oiQ56uLIl0gICAgID0gbm90IHNhbWUyCiAgICBva1si4pGiIOWtmOWcqOiAgeWMluS4i+S7jeWtmOa0u+eahOWMuumXtCJdID0gYW55KHJbImFsaXZlIl0gPiAwIGZvciByIGluIHJvd3MgaWYgclsiYWdpbmciXSA+IDApCiAgICBwcmludCgpCiAgICBmb3IgaywgdiBpbiBvay5pdGVtcygpOgogICAgICAgIHByaW50KGYiICB7J+KchScgaWYgdiBlbHNlICfinYwnfSB7a30iKQoKICAgIGpzb24uZHVtcCh7Im9yaWdfc2FtZSI6IGJvb2woc2FtZSksICJsMF9zYW1lIjogYm9vbChzYW1lMiksCiAgICAgICAgICAgICAgICJhZ2luZ19yb3dzIjogcm93cywgIm9rIjoge2s6IGJvb2wodikgZm9yIGssIHYgaW4gb2suaXRlbXMoKX19LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiTDBfaXJyZXZlcnNpYmlsaXR5Lmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★ 核心验证：L0 真噪声源装上后，"不可逆"是不是从【装的】变成【真的】。
+
+判据（这不是我拍的，是"不可逆"这个词的定义推出来的）：
+    能完美重来 = 可逆
+    重来一次，不一样 = 不可逆
+
+    洛神原版：同 seed 逐位可复现 → 可逆 → 它说的"不可逆"是装的
+    装 L0 后：真熵 → 重来不一样 → 不可逆成立
+
+同时测三件事（物理约束太狠会把系统打死，这必须量化）：
+    ① 老化 aging 扫描：多大老化率下系统还活得下去
+    ② 供电波动扫描
+    ③ 延迟扫描
+"""
+import os, sys, json, hashlib
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.life5 import Life5
+from core.L0_physics import Physics
+
+def cap_trace(L, phys=None, steps=300):
+    """跑一条 capacity 轨迹；phys 不为 None 时启用 L0 老化。"""
+    tr = []
+    for _ in range(steps):
+        if not L.alive: break
+        L.step()
+        if phys is not None:
+            L.capacity = phys.age(L.capacity, L.cap_min)
+        tr.append(round(float(L.capacity.mean()), 12))
+    return tr
+
+def digest(tr):
+    return hashlib.sha256("|".join(map(str, tr)).encode()).hexdigest()[:20]
+
+if __name__ == "__main__":
+    print("=" * 78)
+    print(" L0 装上后：不可逆是真的还是装的？")
+    print("=" * 78)
+
+    # ── 组1：原版（伪随机固定 seed）
+    print("\n[1] 原版洛神（伪随机，固定 seed=42）")
+    t1 = cap_trace(Life5(N=8, seed=42))
+    t2 = cap_trace(Life5(N=8, seed=42))
+    same = digest(t1) == digest(t2)
+    print(f"    第1次 {digest(t1)}  终值 {t1[-1]:.8f}")
+    print(f"    第2次 {digest(t2)}  终值 {t2[-1]:.8f}")
+    print(f"    两条轨迹一致: {same}  → {'❌ 可逆，不可逆是装的' if same else '✅ 不可逆'}")
+
+    # ── 组2：装 L0 真熵
+    print("\n[2] 装 L0 真熵源后")
+    a1 = cap_trace(Life5(N=8, seed=int.from_bytes(os.urandom(8),'big')))
+    a2 = cap_trace(Life5(N=8, seed=int.from_bytes(os.urandom(8),'big')))
+    same2 = digest(a1) == digest(a2)
+    print(f"    第1次 {digest(a1)}  终值 {a1[-1]:.8f}")
+    print(f"    第2次 {digest(a2)}  终值 {a2[-1]:.8f}")
+    print(f"    两条轨迹一致: {same2}  → {'❌ 仍可逆' if same2 else '✅ 不可逆成立'}")
+
+    print("\n" + "=" * 78)
+    print(" 物理约束强度扫描：太狠会不会打死系统？")
+    print("=" * 78)
+
+    def survive(aging, cv, lat, n=40, steps=300):
+        al = 0; caps = []
+        for _ in range(n):
+            ph = Physics(noise=True, aging=aging, supply_cv=cv, latency=lat)
+            L = Life5(N=8, seed=int.from_bytes(os.urandom(8), 'big'))
+            for t in range(steps):
+                if not L.alive: break
+                L.step()
+                L.capacity = ph.age(L.capacity, L.cap_min)
+            if L.alive: al += 1
+            caps.append(float(L.capacity.mean()))
+        return al, float(np.mean(caps))
+
+    print(f"\n{'aging':>8} {'存活':>8} {'capacity':>10}")
+    print("-" * 78)
+    rows = []
+    for ag in [0.0, 0.0005, 0.001, 0.002, 0.005, 0.01, 0.02]:
+        al, c = survive(ag, 0.0, 0)
+        rows.append(dict(aging=ag, alive=al, cap=c))
+        print(f"{ag:>8} {al:>4}/40 {c:>10.5f}")
+
+    print("-" * 78)
+    ok = {}
+    ok["① 原版可逆（暴露缺陷）"] = same
+    ok["② 装L0后不可逆成立"]     = not same2
+    ok["③ 存在老化下仍存活的区间"] = any(r["alive"] > 0 for r in rows if r["aging"] > 0)
+    print()
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+
+    json.dump({"orig_same": bool(same), "l0_same": bool(same2),
+               "aging_rows": rows, "ok": {k: bool(v) for k, v in ok.items()}},
+              open(os.path.join(HERE, ".sense", "L0_irreversibility.json"), "w"),
+              ensure_ascii=False, indent=1)

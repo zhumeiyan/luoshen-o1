@@ -1,1 +1,105 @@
-IiIiClRoaXMgZmlsZSBwcm92aWRlcyBjb21tb24gaW50ZXJmYWNlcyBhbmQgdXRpbGl0aWVzIHVzZWQgYnkgZXZhbCBjcmVhdG9ycyB0bwpzYW1wbGUgZnJvbSBtb2RlbHMgYW5kIHByb2Nlc3MgdGhlIHJlc3VsdHMuCiIiIgoKaW1wb3J0IGxvZ2dpbmcKZnJvbSBhYmMgaW1wb3J0IEFCQywgYWJzdHJhY3RtZXRob2QKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgQ2FsbGFibGUsIE9wdGlvbmFsLCBQcm90b2NvbCwgVW5pb24sIHJ1bnRpbWVfY2hlY2thYmxlCgpmcm9tIGV2YWxzLnByb21wdC5iYXNlIGltcG9ydCBPcGVuQUlDcmVhdGVDaGF0UHJvbXB0LCBPcGVuQUlDcmVhdGVQcm9tcHQsIFByb21wdApmcm9tIGV2YWxzLnJlY29yZCBpbXBvcnQgcmVjb3JkX21hdGNoCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCgpjbGFzcyBDb21wbGV0aW9uUmVzdWx0KEFCQyk6CiAgICBAYWJzdHJhY3RtZXRob2QKICAgIGRlZiBnZXRfY29tcGxldGlvbnMoc2VsZikgLT4gbGlzdFtzdHJdOgogICAgICAgIHBhc3MKCgpAcnVudGltZV9jaGVja2FibGUKY2xhc3MgQ29tcGxldGlvbkZuKFByb3RvY29sKToKICAgIGRlZiBfX2NhbGxfXygKICAgICAgICBzZWxmLAogICAgICAgIHByb21wdDogVW5pb25bc3RyLCBPcGVuQUlDcmVhdGVDaGF0UHJvbXB0XSwKICAgICAgICAqKmt3YXJncywKICAgICkgLT4gQ29tcGxldGlvblJlc3VsdDoKICAgICAgICAiIiIKICAgICAgICBBUkdTCiAgICAgICAgPT09PQogICAgICAgIGBwcm9tcHRgOiBFaXRoZXIgYSBgUHJvbXB0YCBvYmplY3Qgb3IgYSByYXcgcHJvbXB0IHRoYXQgd2lsbCBnZXQgd3JhcHBlZCBpbgogICAgICAgICAgICB0aGUgYXBwcm9wcmlhdGUgYFByb21wdGAgY2xhc3MuCiAgICAgICAgYGt3YXJnc2A6IE90aGVyIGFyZ3VtZW50cyBwYXNzZWQgdG8gdGhlIEFQSS4KCiAgICAgICAgUkVUVVJOUwogICAgICAgID09PT09PT0KICAgICAgICBUaGUgcmVzdWx0IG9mIHRoZSBBUEkgY2FsbC4KICAgICAgICBUaGUgcHJvbXB0IHRoYXQgd2FzIGZlZCBpbnRvIHRoZSBBUEkgY2FsbCBhcyBhIHN0ci4KICAgICAgICAiIiIKCgpjbGFzcyBEdW1teUNvbXBsZXRpb25SZXN1bHQoQ29tcGxldGlvblJlc3VsdCk6CiAgICBkZWYgZ2V0X2NvbXBsZXRpb25zKHNlbGYpIC0+IGxpc3Rbc3RyXToKICAgICAgICByZXR1cm4gWyJUaGlzIGlzIGEgZHVtbXkgcmVzcG9uc2UuIl0KCgpjbGFzcyBEdW1teUNvbXBsZXRpb25GbihDb21wbGV0aW9uRm4pOgogICAgZGVmIF9fY2FsbF9fKAogICAgICAgIHNlbGYsIHByb21wdDogVW5pb25bT3BlbkFJQ3JlYXRlUHJvbXB0LCBPcGVuQUlDcmVhdGVDaGF0UHJvbXB0LCBQcm9tcHRdLCAqKmt3YXJncwogICAgKSAtPiBDb21wbGV0aW9uUmVzdWx0OgogICAgICAgIHJldHVybiBEdW1teUNvbXBsZXRpb25SZXN1bHQoKQoKCmRlZiByZWNvcmRfYW5kX2NoZWNrX21hdGNoKAogICAgcHJvbXB0OiBBbnksCiAgICBzYW1wbGVkOiBzdHIsCiAgICBleHBlY3RlZDogVW5pb25bc3RyLCBsaXN0W3N0cl0sIHR1cGxlW3N0cl1dLAogICAgc2VwYXJhdG9yOiBDYWxsYWJsZVtbc3RyXSwgYm9vbF0gPSBOb25lLAogICAgb3B0aW9uczogT3B0aW9uYWxbbGlzdFtzdHJdXSA9IE5vbmUsCik6CiAgICAiIiIKICAgIFJlY29yZHMgYW5kIGNoZWNrcyBpZiBhIHNhbXBsZWQgcmVzcG9uc2UgZnJvbSBhIENvbXBsZXRpb25GbiBtYXRjaGVzIHRoZSBleHBlY3RlZCByZXN1bHQuCgogICAgQXJnczoKICAgICAgICBwcm9tcHQ6IFRoZSBpbnB1dCBwcm9tcHQuCiAgICAgICAgc2FtcGxlZDogVGhlIHNhbXBsZWQgcmVzcG9uc2UgZnJvbSB0aGUgbW9kZWwuCiAgICAgICAgZXhwZWN0ZWQ6IFRoZSBleHBlY3RlZCByZXNwb25zZSBvciBsaXN0IG9mIHJlc3BvbnNlcy4KICAgICAgICBzZXBhcmF0b3I6IE9wdGlvbmFsIGZ1bmN0aW9uIHRvIGNoZWNrIGlmIGEgY2hhcmFjdGVyIGlzIGEgc2VwYXJhdG9yLgogICAgICAgIG9wdGlvbnM6IE9wdGlvbmFsIGxpc3Qgb2Ygb3B0aW9ucyB0byBtYXRjaCBhZ2FpbnN0IHRoZSBzYW1wbGVkIHJlc3BvbnNlLgoKICAgIFJldHVybnM6CiAgICAgICAgVGhlIG1hdGNoZWQgb3B0aW9uIG9yIE5vbmUgaWYgbm8gbWF0Y2ggZm91bmQuCiAgICAiIiIKICAgIGlmIGlzaW5zdGFuY2UoZXhwZWN0ZWQsIHR1cGxlKToKICAgICAgICBleHBlY3RlZCA9IGxpc3QoZXhwZWN0ZWQpCiAgICBlbGlmIG5vdCBpc2luc3RhbmNlKGV4cGVjdGVkLCBsaXN0KToKICAgICAgICBleHBlY3RlZCA9IFtleHBlY3RlZF0KICAgIGlmIG9wdGlvbnMgaXMgTm9uZToKICAgICAgICBvcHRpb25zID0gZXhwZWN0ZWQKCiAgICBwaWNrZWQgPSBOb25lCiAgICBmb3Igb3B0aW9uIGluIG9wdGlvbnM6CiAgICAgICAgaWYgbm90IHNhbXBsZWQuc3RhcnRzd2l0aChvcHRpb24pOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmICgKICAgICAgICAgICAgc2VwYXJhdG9yIGlzIG5vdCBOb25lCiAgICAgICAgICAgIGFuZCBsZW4oc2FtcGxlZCkgPiBsZW4ob3B0aW9uKQogICAgICAgICAgICBhbmQgbm90IHNlcGFyYXRvcihzYW1wbGVkW2xlbihvcHRpb24pXSkKICAgICAgICApOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHBpY2tlZCA9IG9wdGlvbgogICAgICAgIGJyZWFrCgogICAgcmVzdWx0ID0gewogICAgICAgICJwcm9tcHQiOiBwcm9tcHQsCiAgICAgICAgInNhbXBsZWQiOiBzYW1wbGVkLAogICAgICAgICJvcHRpb25zIjogb3B0aW9ucywKICAgICAgICAicGlja2VkIjogcGlja2VkLAogICAgfQogICAgbWF0Y2ggPSBwaWNrZWQgaW4gZXhwZWN0ZWQKICAgIHJlc3VsdFsiZXhwZWN0ZWQiXSA9IGV4cGVjdGVkCiAgICByZXN1bHRbIm1hdGNoIl0gPSBtYXRjaAogICAgcmVjb3JkX21hdGNoKG1hdGNoLCBleHBlY3RlZD1leHBlY3RlZCwgcGlja2VkPXBpY2tlZCwgc2FtcGxlZD1zYW1wbGVkLCBvcHRpb25zPW9wdGlvbnMpCiAgICByZXR1cm4gcGlja2VkCg==
+"""
+This file provides common interfaces and utilities used by eval creators to
+sample from models and process the results.
+"""
+
+import logging
+from abc import ABC, abstractmethod
+from typing import Any, Callable, Optional, Protocol, Union, runtime_checkable
+
+from evals.prompt.base import OpenAICreateChatPrompt, OpenAICreatePrompt, Prompt
+from evals.record import record_match
+
+logger = logging.getLogger(__name__)
+
+
+class CompletionResult(ABC):
+    @abstractmethod
+    def get_completions(self) -> list[str]:
+        pass
+
+
+@runtime_checkable
+class CompletionFn(Protocol):
+    def __call__(
+        self,
+        prompt: Union[str, OpenAICreateChatPrompt],
+        **kwargs,
+    ) -> CompletionResult:
+        """
+        ARGS
+        ====
+        `prompt`: Either a `Prompt` object or a raw prompt that will get wrapped in
+            the appropriate `Prompt` class.
+        `kwargs`: Other arguments passed to the API.
+
+        RETURNS
+        =======
+        The result of the API call.
+        The prompt that was fed into the API call as a str.
+        """
+
+
+class DummyCompletionResult(CompletionResult):
+    def get_completions(self) -> list[str]:
+        return ["This is a dummy response."]
+
+
+class DummyCompletionFn(CompletionFn):
+    def __call__(
+        self, prompt: Union[OpenAICreatePrompt, OpenAICreateChatPrompt, Prompt], **kwargs
+    ) -> CompletionResult:
+        return DummyCompletionResult()
+
+
+def record_and_check_match(
+    prompt: Any,
+    sampled: str,
+    expected: Union[str, list[str], tuple[str]],
+    separator: Callable[[str], bool] = None,
+    options: Optional[list[str]] = None,
+):
+    """
+    Records and checks if a sampled response from a CompletionFn matches the expected result.
+
+    Args:
+        prompt: The input prompt.
+        sampled: The sampled response from the model.
+        expected: The expected response or list of responses.
+        separator: Optional function to check if a character is a separator.
+        options: Optional list of options to match against the sampled response.
+
+    Returns:
+        The matched option or None if no match found.
+    """
+    if isinstance(expected, tuple):
+        expected = list(expected)
+    elif not isinstance(expected, list):
+        expected = [expected]
+    if options is None:
+        options = expected
+
+    picked = None
+    for option in options:
+        if not sampled.startswith(option):
+            continue
+        if (
+            separator is not None
+            and len(sampled) > len(option)
+            and not separator(sampled[len(option)])
+        ):
+            continue
+        picked = option
+        break
+
+    result = {
+        "prompt": prompt,
+        "sampled": sampled,
+        "options": options,
+        "picked": picked,
+    }
+    match = picked in expected
+    result["expected"] = expected
+    result["match"] = match
+    record_match(match, expected=expected, picked=picked, sampled=sampled, options=options)
+    return picked

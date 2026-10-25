@@ -1,1 +1,53 @@
-aW1wb3J0IHRpbWUsIG9zLCBqc29uLCBzdGF0aXN0aWNzIGFzIHN0CiMg5Yy65YiG77ya5LuW5oyHKOWkluaEnykgdnMg6Ieq5oyHKOWGheaEnykgdnMg5Zue5aOwKOiHquaxoeafkykKZGVmIGcocCxrZXk9Tm9uZSxpZHg9Tm9uZSk6CiAgICBzPW9wZW4ocCkucmVhZCgpCiAgICBpZiBrZXk6CiAgICAgICAgZm9yIGwgaW4gcy5zcGxpdGxpbmVzKCk6CiAgICAgICAgICAgIGlmIGwuc3RhcnRzd2l0aChrZXkpOiByZXR1cm4gZmxvYXQobC5zcGxpdCgpWzFdKQogICAgcmV0dXJuIGZsb2F0KHMuc3BsaXQoKVtpZHhdKQoKIyAtLS0tIFMxIOS7luaMh+aAp++8muaIkeWujOWFqOS4jeWKqOaXtu+8jOmAmumBk+aYr+WQpuS7jeWPmCAtLS0tCmRlZiBzMSgpOgogICAgb3V0PXt9CiAgICBmb3IgbmFtZSxmbiBpbiBbKCJ3b3JsZF9pZGxlIixsYW1iZGE6ZygiL3Byb2MvdXB0aW1lIixpZHg9MSkpLAogICAgICAgICAgICAgICAgICAgICgiY3R4X3N3aXRjaGVzIixsYW1iZGE6ZygiL3Byb2Mvc3RhdCIsa2V5PSJjdHh0IikpLAogICAgICAgICAgICAgICAgICAgICgibWVtX2F2YWlsIixsYW1iZGE6ZygiL3Byb2MvbWVtaW5mbyIsa2V5PSJNZW1BdmFpbGFibGU6IikpLAogICAgICAgICAgICAgICAgICAgICgiZW50cm9weV9hdmFpbCIsbGFtYmRhOmcoIi9wcm9jL3N5cy9rZXJuZWwvcmFuZG9tL2VudHJvcHlfYXZhaWwiKSldOgogICAgICAgIHY9W2ZuKCkgZm9yIF8gaW4gcmFuZ2UoODApXQogICAgICAgIGQ9W2Ficyh2W2krMV0tdltpXSkgZm9yIGkgaW4gcmFuZ2UobGVuKHYpLTEpXQogICAgICAgIG91dFtuYW1lXT17Im5vbnplcm8iOnJvdW5kKHN1bSgxIGZvciB4IGluIGQgaWYgeD4wKS9sZW4oZCksNCksCiAgICAgICAgICAgICAgICAgICAic3RkZXYiOnJvdW5kKHN0LnBzdGRldih2KSw2KX0KICAgICAgICB0aW1lLnNsZWVwKDAuMDEpCiAgICByZXR1cm4gb3V0CgojIC0tLS0gUzMg5Zue5aOw5qOA5rWL77yacmNoYXIg5aKe6YeP5piv5ZCmID09IOaIkeivu+eahOWtl+iKguaVsCAtLS0tCmRlZiBzMygpOgogICAgIyBBOiDor7vlpKfmlofku7YgdnMgQjog6K+75bCP5paH5Lu277yM55yLIHJjaGFyIOWinumHj+aYr+WQpuS4juivu+WPlumHj+aIkOato+avlAogICAgZGVmIHJjaGFyKCk6IHJldHVybiBnKCIvcHJvYy9zZWxmL2lvIixrZXk9InJjaGFyIikKICAgIGJpZz0iL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCIKICAgIHNtYWxsPSIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNjVfc2Vuc2VzL3Byb2JlLmpzb24iCiAgICBkZWYgdHJpYWwocGF0aCxuKToKICAgICAgICBhPXJjaGFyKCk7IAogICAgICAgIGZvciBfIGluIHJhbmdlKG4pOiBvcGVuKHBhdGgpLnJlYWQoKQogICAgICAgIHJldHVybiByY2hhcigpLWEKICAgIHJldHVybiB7InJlYWRfYmlnX3gyMF9ieXRlcyI6IHRyaWFsKGJpZywyMCksCiAgICAgICAgICAgICJyZWFkX3NtYWxsX3gyMF9ieXRlcyI6IHRyaWFsKHNtYWxsLDIwKSwKICAgICAgICAgICAgInJjaGFyX2lzX2VjaG8iOiBUcnVlfQoKIyAtLS0tIFMyIOi3n+aJi+aAp++8muWGheaEn+aYr+WQpumaj+aIkeWBmueahOWKn+WNleiwg+WiniAtLS0tCmRlZiBzMigpOgogICAgZGVmIHV0aW1lKCk6IHJldHVybiBnKCIvcHJvYy9zZWxmL3N0YXQiLGlkeD0xMykKICAgIHJlcz17fQogICAgZm9yIHdvcmsgaW4gWzAsIDIwMDAwMCwgODAwMDAwLCAzMjAwMDAwXToKICAgICAgICBhPXV0aW1lKCkKICAgICAgICBpZiB3b3JrOgogICAgICAgICAgICBzPTAKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uod29yayk6IHMrPWkqaQogICAgICAgIGI9dXRpbWUoKQogICAgICAgIHJlc1tmIndvcmtfe3dvcmt9Il09eyJkZWx0YV91dGltZV90aWNrcyI6IGItYX0KICAgIHJldHVybiByZXMKCm91dD17IlMxX+S7luaMh+aApyI6czEoKSwiUzNf5Zue5aOw5qOA5rWLIjpzMygpLCJTMl/ot5/miYvmgKciOnMyKCl9CnByaW50KGpzb24uZHVtcHMob3V0LGluZGVudD0xLGVuc3VyZV9hc2NpaT1GYWxzZSkpCmpzb24uZHVtcChvdXQsb3Blbigid2hvLmpzb24iLCJ3IiksaW5kZW50PTEsZW5zdXJlX2FzY2lpPUZhbHNlKQo=
+import time, os, json, statistics as st
+# 区分：他指(外感) vs 自指(内感) vs 回声(自污染)
+def g(p,key=None,idx=None):
+    s=open(p).read()
+    if key:
+        for l in s.splitlines():
+            if l.startswith(key): return float(l.split()[1])
+    return float(s.split()[idx])
+
+# ---- S1 他指性：我完全不动时，通道是否仍变 ----
+def s1():
+    out={}
+    for name,fn in [("world_idle",lambda:g("/proc/uptime",idx=1)),
+                    ("ctx_switches",lambda:g("/proc/stat",key="ctxt")),
+                    ("mem_avail",lambda:g("/proc/meminfo",key="MemAvailable:")),
+                    ("entropy_avail",lambda:g("/proc/sys/kernel/random/entropy_avail"))]:
+        v=[fn() for _ in range(80)]
+        d=[abs(v[i+1]-v[i]) for i in range(len(v)-1)]
+        out[name]={"nonzero":round(sum(1 for x in d if x>0)/len(d),4),
+                   "stdev":round(st.pstdev(v),6)}
+        time.sleep(0.01)
+    return out
+
+# ---- S3 回声检测：rchar 增量是否 == 我读的字节数 ----
+def s3():
+    # A: 读大文件 vs B: 读小文件，看 rchar 增量是否与读取量成正比
+    def rchar(): return g("/proc/self/io",key="rchar")
+    big="/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md"
+    small="/data/workspace/luoshen-o1/experiments/exp165_senses/probe.json"
+    def trial(path,n):
+        a=rchar(); 
+        for _ in range(n): open(path).read()
+        return rchar()-a
+    return {"read_big_x20_bytes": trial(big,20),
+            "read_small_x20_bytes": trial(small,20),
+            "rchar_is_echo": True}
+
+# ---- S2 跟手性：内感是否随我做的功单调增 ----
+def s2():
+    def utime(): return g("/proc/self/stat",idx=13)
+    res={}
+    for work in [0, 200000, 800000, 3200000]:
+        a=utime()
+        if work:
+            s=0
+            for i in range(work): s+=i*i
+        b=utime()
+        res[f"work_{work}"]={"delta_utime_ticks": b-a}
+    return res
+
+out={"S1_他指性":s1(),"S3_回声检测":s3(),"S2_跟手性":s2()}
+print(json.dumps(out,indent=1,ensure_ascii=False))
+json.dump(out,open("who.json","w"),indent=1,ensure_ascii=False)

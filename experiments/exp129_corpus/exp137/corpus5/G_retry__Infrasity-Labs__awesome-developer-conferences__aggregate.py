@@ -1,1 +1,173 @@
-aW1wb3J0IG9zCmltcG9ydCBnbG9iCmltcG9ydCBqc29uCmltcG9ydCByZQpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQpmcm9tIGZldGNoZXJzIGltcG9ydCBjb25maWcKCmRlZiBtYWluKCk6CiAgICBwcmludCgiU3RhcnRpbmcgYWdncmVnYXRpb24uLi4iKQogICAgd2l0aCBvcGVuKCdSRUFETUUubWQnLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIGY6CiAgICAgICAgcmVhZG1lX2NvbnRlbnQgPSBmLnJlYWQoKQoKICAgICMgTG9hZCBhbGwganNvbiBmaWxlcwogICAgYWxsX25ld19ldmVudHMgPSBbXQogICAgc291cmNlX2NvdW50cyA9IHt9CiAgICBmb3IganNvbl9maWxlIGluIGdsb2IuZ2xvYignZXZlbnRzXyouanNvbicpOgogICAgICAgIHdpdGggb3Blbihqc29uX2ZpbGUsICdyJywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZjoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgZXZlbnRzID0ganNvbi5sb2FkKGYpCiAgICAgICAgICAgICAgICBmb3IgZXZlbnQgaW4gZXZlbnRzOgogICAgICAgICAgICAgICAgICAgIGV2ZW50Wydfc291cmNlJ10gPSBqc29uX2ZpbGUKICAgICAgICAgICAgICAgIGFsbF9uZXdfZXZlbnRzLmV4dGVuZChldmVudHMpCiAgICAgICAgICAgICAgICBzb3VyY2VfY291bnRzW2pzb25fZmlsZV0gPSBsZW4oZXZlbnRzKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBwcmludChmIkVycm9yIGxvYWRpbmcge2pzb25fZmlsZX06IHtlfSIpCgogICAgcHJpbnQoZiJMb2FkZWQge2xlbihhbGxfbmV3X2V2ZW50cyl9IHRvdGFsIGV2ZW50cyBmcm9tIHtsZW4oc291cmNlX2NvdW50cyl9IGZldGNoZXJzLiIpCgogICAgIyBmbGFnc2hpcHMucHkgaXMgYSBtYW51YWxseSBjdXJhdGVkLCBhdXRob3JpdGF0aXZlIHNvdXJjZS4gT3RoZXIgZmV0Y2hlcnMKICAgICMgKGUuZy4gY29uZnNfdGVjaC5weSwgd2hpY2ggbWlycm9ycyBhIHRoaXJkLXBhcnR5IGNyb3dkLXNvdXJjZWQgZGF0YXNldCkKICAgICMgY2FuIGNhcnJ5IHN0YWxlIG9yIHdyb25nIGRhdGVzL2xvY2F0aW9ucyBmb3IgdGhlIHNhbWUgZXZlbnQuIFNpbmNlIG91cgogICAgIyBkZWR1cCBrZXlzIGJlbG93IGluY2x1ZGUgZGF0ZS9sb2NhdGlvbiwgYSBjb25mbGljdGluZyBzY3JhcGVkIGVudHJ5CiAgICAjIHdvdWxkbid0IGJlIHJlY29nbml6ZWQgYXMgYSBkdXBsaWNhdGUgb2YgdGhlIGN1cmF0ZWQgb25lIGFuZCBjb3VsZAogICAgIyBzaWxlbnRseSBvdXRyYW5rIGl0IGxhdGVyIChkZWR1cGVfcmVhZG1lLnB5J3MgY29hcnNlciBuYW1lLW9ubHkgcGFzcwogICAgIyBrZWVwcyB3aGljaGV2ZXIgcm93IHNvcnRzIGZpcnN0IGJ5IGRhdGUsIHdoaWNoIG1heSBiZSB0aGUgd3Jvbmcgb25lKS4KICAgICMgRHJvcCBub24tZmxhZ3NoaXAgZXZlbnRzIHdob3NlIG5hbWUgbWF0Y2hlcyBhIGZsYWdzaGlwIGV2ZW50IHNvIHRoZQogICAgIyBjdXJhdGVkIGRhdGEgYWx3YXlzIHdpbnMgaW5zdGVhZCBvZiByYWNpbmcgYWdhaW5zdCBpdC4KICAgIGZsYWdzaGlwX25hbWVzID0gewogICAgICAgIGNvbmZpZy5ldmVudF9uYW1lX29ubHlfa2V5KGUpIGZvciBlIGluIGFsbF9uZXdfZXZlbnRzCiAgICAgICAgaWYgZS5nZXQoJ19zb3VyY2UnKSA9PSAnZXZlbnRzX2ZsYWdzaGlwcy5qc29uJwogICAgfQogICAgaWYgZmxhZ3NoaXBfbmFtZXM6CiAgICAgICAgYmVmb3JlID0gbGVuKGFsbF9uZXdfZXZlbnRzKQogICAgICAgIGFsbF9uZXdfZXZlbnRzID0gWwogICAgICAgICAgICBlIGZvciBlIGluIGFsbF9uZXdfZXZlbnRzCiAgICAgICAgICAgIGlmIGUuZ2V0KCdfc291cmNlJykgPT0gJ2V2ZW50c19mbGFnc2hpcHMuanNvbicKICAgICAgICAgICAgb3IgY29uZmlnLmV2ZW50X25hbWVfb25seV9rZXkoZSkgbm90IGluIGZsYWdzaGlwX25hbWVzCiAgICAgICAgXQogICAgICAgIGRyb3BwZWQgPSBiZWZvcmUgLSBsZW4oYWxsX25ld19ldmVudHMpCiAgICAgICAgaWYgZHJvcHBlZDoKICAgICAgICAgICAgcHJpbnQoZiJEcm9wcGVkIHtkcm9wcGVkfSBub24tZmxhZ3NoaXAgZXZlbnQocykgdGhhdCBjb25mbGljdGVkIHdpdGggY3VyYXRlZCBmbGFnc2hpcCBkYXRhLiIpCgogICAgcmVnaW9ucyA9IHsKICAgICAgICAnQWZyaWNhJzogW10sCiAgICAgICAgJ0FzaWEnOiBbXSwKICAgICAgICAnQXVzdHJhbGlhJzogW10sCiAgICAgICAgJ0V1cm9wZSc6IFtdLAogICAgICAgICdOb3J0aCBBbWVyaWNhJzogW10sCiAgICAgICAgJ1NvdXRoIEFtZXJpY2EnOiBbXSwKICAgICAgICAnVmlydHVhbC9PbmxpbmUnOiBbXQogICAgfQogICAgCiAgICAjIENhdGVnb3JpemUgZXZlbnRzIGJ5IHJlZ2lvbgogICAgZm9yIGV2ZW50IGluIGFsbF9uZXdfZXZlbnRzOgogICAgICAgIGxvYyA9IGV2ZW50LmdldCgnbG9jYXRpb24nKSBvciAnVW5rbm93bicKICAgICAgICByZWdpb24gPSBjb25maWcuZGV0ZXJtaW5lX3JlZ2lvbihsb2MpCiAgICAgICAgaWYgcmVnaW9uIGluIHJlZ2lvbnM6CiAgICAgICAgICAgIHJlZ2lvbnNbcmVnaW9uXS5hcHBlbmQoZXZlbnQpCiAgICAgICAgICAgIAogICAgdG90YWxfYWRkZWQgPSAwCiAgICAjIE5vdyBpbnRlZ3JhdGUgaW50byBSRUFETUUubWQKICAgIGZvciByZWdpb24sIHJlZ2lvbl9ldmVudHMgaW4gcmVnaW9ucy5pdGVtcygpOgogICAgICAgIGlmIG5vdCByZWdpb25fZXZlbnRzOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAKICAgICAgICBwYXR0ZXJuID0gcmUuY29tcGlsZShyZiIoIyMjIHtyZWdpb259XG4uKj9cfCBFdmVudCBOYW1lLio/XHxcblx8LS0tLio/XHxcbikoLio/KSg/PVxuPC9kZXRhaWxzPnxcbiMjIyB8XG4jIyB8XG4tLS18XFopIiwgcmUuRE9UQUxMKQogICAgICAgIG1hdGNoID0gcGF0dGVybi5zZWFyY2gocmVhZG1lX2NvbnRlbnQpCiAgICAgICAgCiAgICAgICAgaWYgbWF0Y2g6CiAgICAgICAgICAgIGhlYWRlcl9hbmRfdGFibGVfaGVhZGVyID0gbWF0Y2guZ3JvdXAoMSkKICAgICAgICAgICAgZXhpc3RpbmdfdGFibGVfY29udGVudCA9IG1hdGNoLmdyb3VwKDIpCiAgICAgICAgICAgIAogICAgICAgICAgICBleGlzdGluZ19yb3dzID0gZXhpc3RpbmdfdGFibGVfY29udGVudC5zdHJpcCgpLnNwbGl0KCdcbicpCiAgICAgICAgICAgIGlmIGV4aXN0aW5nX3Jvd3MgPT0gWycnXToKICAgICAgICAgICAgICAgIGV4aXN0aW5nX3Jvd3MgPSBbXQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIGV4aXN0aW5nX2tleXMgPSBzZXQoKQogICAgICAgICAgICBmb3Igcm93IGluIGV4aXN0aW5nX3Jvd3M6CiAgICAgICAgICAgICAgICAjIFVzZSByZWdleCB0byBzcGxpdCBieSB1bmVzY2FwZWQgcGlwZXMKICAgICAgICAgICAgICAgIHBhcnRzID0gcmUuc3BsaXQocicoPzwhXFwpXHwnLCByb3cpCiAgICAgICAgICAgICAgICBpZiBsZW4ocGFydHMpID49IDU6CiAgICAgICAgICAgICAgICAgICAgZXhpc3Rpbmdfa2V5cy5hZGQoY29uZmlnLmV2ZW50X2RlZHVwbGljYXRpb25fa2V5KHsKICAgICAgICAgICAgICAgICAgICAgICAgJ25hbWUnOiBwYXJ0c1sxXS5zdHJpcCgpLAogICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZSc6IHBhcnRzWzJdLnN0cmlwKCksCiAgICAgICAgICAgICAgICAgICAgICAgICdsb2NhdGlvbic6IHBhcnRzWzNdLnN0cmlwKCksCiAgICAgICAgICAgICAgICAgICAgfSkpCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgIG5ld19yb3dzX2FkZGVkID0gMAogICAgICAgICAgICBmb3IgZXZlbnQgaW4gcmVnaW9uX2V2ZW50czoKICAgICAgICAgICAgICAgIGV2ZW50X2tleSA9IGNvbmZpZy5ldmVudF9kZWR1cGxpY2F0aW9uX2tleShldmVudCkKICAgICAgICAgICAgICAgIGlzX2R1cGxpY2F0ZSA9IGV2ZW50X2tleSBpbiBleGlzdGluZ19rZXlzCiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaWYgbm90IGlzX2R1cGxpY2F0ZToKICAgICAgICAgICAgICAgICAgICBsaW5lID0gZXZlbnQuZ2V0KCdsaW5lJykKICAgICAgICAgICAgICAgICAgICBpZiBub3QgbGluZToKICAgICAgICAgICAgICAgICAgICAgICAgbGluZSA9IGYifCB7ZXZlbnRbJ25hbWUnXX0gfCB7ZXZlbnRbJ2RhdGUnXX0gfCB7ZXZlbnRbJ2xvY2F0aW9uJ119IHwge2V2ZW50WydyZWdpc3RlciddfSB8IgogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAjIFNraXAgaWYgZXZlbnQgaXMgYWxyZWFkeSBpbiB0aGUgcGFzdAogICAgICAgICAgICAgICAgICAgIGRhdGVfc3RyID0gZXZlbnQuZ2V0KCdkYXRlJywgJycpLnNwbGl0KCcgdG8gJylbLTFdLnN0cmlwKCkKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIGR0ID0gZGF0ZXRpbWUuc3RycHRpbWUoZGF0ZV9zdHIsICIlWS0lbS0lZCIpCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIGR0LmRhdGUoKSA8IGRhdGV0aW1lLm5vdygpLmRhdGUoKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICAgICAgZXhjZXB0OgogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIGV4aXN0aW5nX3Jvd3MuYXBwZW5kKGxpbmUpCiAgICAgICAgICAgICAgICAgICAgZXhpc3Rpbmdfa2V5cy5hZGQoZXZlbnRfa2V5KQogICAgICAgICAgICAgICAgICAgIG5ld19yb3dzX2FkZGVkICs9IDEKICAgICAgICAgICAgICAgICAgICB0b3RhbF9hZGRlZCArPSAxCiAgICAgICAgICAgIGRlZiBleHRyYWN0X2RhdGUocm93KToKICAgICAgICAgICAgICAgIHBhcnRzID0gcmUuc3BsaXQocicoPzwhXFwpXHwnLCByb3cpCiAgICAgICAgICAgICAgICBpZiBsZW4ocGFydHMpID49IDQ6CiAgICAgICAgICAgICAgICAgICAgZGF0ZV9zdHIgPSBwYXJ0c1syXS5zdHJpcCgpLnNwbGl0KCcgdG8gJylbMF0uc3RyaXAoKQogICAgICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRhdGV0aW1lLnN0cnB0aW1lKGRhdGVfc3RyLCAiJVktJW0tJWQiKQogICAgICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICAgICAgcmV0dXJuIGRhdGV0aW1lLm1heAogICAgICAgICAgICAKICAgICAgICAgICAgdXBjb21pbmcgPSBbXQogICAgICAgICAgICBwYXN0ID0gW10KICAgICAgICAgICAgaW52YWxpZCA9IFtdCiAgICAgICAgICAgIHRvZGF5X2R0ID0gZGF0ZXRpbWUubm93KCkucmVwbGFjZShob3VyPTAsIG1pbnV0ZT0wLCBzZWNvbmQ9MCwgbWljcm9zZWNvbmQ9MCkKICAgICAgICAgICAgZm9yIHIgaW4gZXhpc3Rpbmdfcm93czoKICAgICAgICAgICAgICAgIGlmIG5vdCByLnN0cmlwKCk6IGNvbnRpbnVlCiAgICAgICAgICAgICAgICBkdCA9IGV4dHJhY3RfZGF0ZShyKQogICAgICAgICAgICAgICAgaWYgZHQgPT0gZGF0ZXRpbWUubWF4OgogICAgICAgICAgICAgICAgICAgIGludmFsaWQuYXBwZW5kKHIpCiAgICAgICAgICAgICAgICBlbGlmIGR0ID49IHRvZGF5X2R0OgogICAgICAgICAgICAgICAgICAgIHVwY29taW5nLmFwcGVuZCgoZHQsIHIpKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBwYXN0LmFwcGVuZCgoZHQsIHIpKQogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICB1cGNvbWluZy5zb3J0KGtleT1sYW1iZGEgeDogeFswXSkKICAgICAgICAgICAgcGFzdC5zb3J0KGtleT1sYW1iZGEgeDogeFswXSwgcmV2ZXJzZT1UcnVlKQogICAgICAgICAgICBzb3J0ZWRfcm93cyA9IFt4WzFdIGZvciB4IGluIHVwY29taW5nXSArIFt4WzFdIGZvciB4IGluIHBhc3RdICsgaW52YWxpZAogICAgICAgICAgICAKICAgICAgICAgICAgbmV3X3RhYmxlX2NvbnRlbnQgPSAnXG4nLmpvaW4oc29ydGVkX3Jvd3MpICsgJ1xuJwogICAgICAgICAgICByZWFkbWVfY29udGVudCA9IHJlYWRtZV9jb250ZW50WzptYXRjaC5zdGFydCgpXSArIGhlYWRlcl9hbmRfdGFibGVfaGVhZGVyICsgbmV3X3RhYmxlX2NvbnRlbnQgKyByZWFkbWVfY29udGVudFttYXRjaC5lbmQoKTpdCiAgICAgICAgICAgICAgICAKICAgIHdpdGggb3BlbignUkVBRE1FLm1kJywgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgogICAgICAgIGYud3JpdGUocmVhZG1lX2NvbnRlbnQpCiAgICAgICAgCiAgICBwcmludChmIkFnZ3JlZ2F0ZSBzdGVwIGZpbmlzaGVkISB7dG90YWxfYWRkZWR9IG5ldyB1bmlxdWUgZXZlbnRzIGFkZGVkLiIpCgogICAgIyBXcml0ZSBzdW1tYXJ5IGZvciBHaXRIdWIgQWN0aW9ucwogICAgc3VtbWFyeV9wYXRoID0gb3MuZW52aXJvbi5nZXQoJ0dJVEhVQl9TVEVQX1NVTU1BUlknKQogICAgaWYgc3VtbWFyeV9wYXRoOgogICAgICAgIHdpdGggb3BlbihzdW1tYXJ5X3BhdGgsICdhJykgYXMgZjoKICAgICAgICAgICAgZi53cml0ZSgiIyMjIEV2ZW50IFVwZGF0ZSBTdW1tYXJ5XG4iKQogICAgICAgICAgICBmLndyaXRlKGYiLSBQcm9jZXNzZWQge2xlbihhbGxfbmV3X2V2ZW50cyl9IGV2ZW50cyBhY3Jvc3MgYWxsIHNvdXJjZXMuXG4iKQogICAgICAgICAgICBmLndyaXRlKGYiLSBBZGRlZCB7dG90YWxfYWRkZWR9IG5ldyB1bmlxdWUgZXZlbnRzIHRvIFJFQURNRS5cblxuIikKICAgICAgICAgICAgZi53cml0ZSgiIyMjIyBTb3VyY2UgQnJlYWtkb3duOlxuIikKICAgICAgICAgICAgZm9yIHNvdXJjZSwgY291bnQgaW4gc291cmNlX2NvdW50cy5pdGVtcygpOgogICAgICAgICAgICAgICAgZi53cml0ZShmIi0gKip7c291cmNlLnJlcGxhY2UoJ2V2ZW50c18nLCAnJykucmVwbGFjZSgnLmpzb24nLCAnJyl9Kio6IHtjb3VudH0gZXZlbnRzIGZldGNoZWRcbiIpCiAgICAgICAgICAgICAgICAKICAgICMgQWxzbyBzYXZlIHRoZSB0b3RhbCBhZGRlZCBmb3IgZHluYW1pYyBjb21taXQgbWVzc2FnZXMKICAgIHdpdGggb3BlbignZXZlbnRzX2FkZGVkX2NvdW50LnR4dCcsICd3JykgYXMgZjoKICAgICAgICBmLndyaXRlKHN0cih0b3RhbF9hZGRlZCkpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+import os
+import glob
+import json
+import re
+from datetime import datetime
+from fetchers import config
+
+def main():
+    print("Starting aggregation...")
+    with open('README.md', 'r', encoding='utf-8') as f:
+        readme_content = f.read()
+
+    # Load all json files
+    all_new_events = []
+    source_counts = {}
+    for json_file in glob.glob('events_*.json'):
+        with open(json_file, 'r', encoding='utf-8') as f:
+            try:
+                events = json.load(f)
+                for event in events:
+                    event['_source'] = json_file
+                all_new_events.extend(events)
+                source_counts[json_file] = len(events)
+            except Exception as e:
+                print(f"Error loading {json_file}: {e}")
+
+    print(f"Loaded {len(all_new_events)} total events from {len(source_counts)} fetchers.")
+
+    # flagships.py is a manually curated, authoritative source. Other fetchers
+    # (e.g. confs_tech.py, which mirrors a third-party crowd-sourced dataset)
+    # can carry stale or wrong dates/locations for the same event. Since our
+    # dedup keys below include date/location, a conflicting scraped entry
+    # wouldn't be recognized as a duplicate of the curated one and could
+    # silently outrank it later (dedupe_readme.py's coarser name-only pass
+    # keeps whichever row sorts first by date, which may be the wrong one).
+    # Drop non-flagship events whose name matches a flagship event so the
+    # curated data always wins instead of racing against it.
+    flagship_names = {
+        config.event_name_only_key(e) for e in all_new_events
+        if e.get('_source') == 'events_flagships.json'
+    }
+    if flagship_names:
+        before = len(all_new_events)
+        all_new_events = [
+            e for e in all_new_events
+            if e.get('_source') == 'events_flagships.json'
+            or config.event_name_only_key(e) not in flagship_names
+        ]
+        dropped = before - len(all_new_events)
+        if dropped:
+            print(f"Dropped {dropped} non-flagship event(s) that conflicted with curated flagship data.")
+
+    regions = {
+        'Africa': [],
+        'Asia': [],
+        'Australia': [],
+        'Europe': [],
+        'North America': [],
+        'South America': [],
+        'Virtual/Online': []
+    }
+    
+    # Categorize events by region
+    for event in all_new_events:
+        loc = event.get('location') or 'Unknown'
+        region = config.determine_region(loc)
+        if region in regions:
+            regions[region].append(event)
+            
+    total_added = 0
+    # Now integrate into README.md
+    for region, region_events in regions.items():
+        if not region_events:
+            continue
+            
+        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n</details>|\n### |\n## |\n---|\Z)", re.DOTALL)
+        match = pattern.search(readme_content)
+        
+        if match:
+            header_and_table_header = match.group(1)
+            existing_table_content = match.group(2)
+            
+            existing_rows = existing_table_content.strip().split('\n')
+            if existing_rows == ['']:
+                existing_rows = []
+                
+            existing_keys = set()
+            for row in existing_rows:
+                # Use regex to split by unescaped pipes
+                parts = re.split(r'(?<!\\)\|', row)
+                if len(parts) >= 5:
+                    existing_keys.add(config.event_deduplication_key({
+                        'name': parts[1].strip(),
+                        'date': parts[2].strip(),
+                        'location': parts[3].strip(),
+                    }))
+                    
+            new_rows_added = 0
+            for event in region_events:
+                event_key = config.event_deduplication_key(event)
+                is_duplicate = event_key in existing_keys
+                        
+                if not is_duplicate:
+                    line = event.get('line')
+                    if not line:
+                        line = f"| {event['name']} | {event['date']} | {event['location']} | {event['register']} |"
+                        
+                    # Skip if event is already in the past
+                    date_str = event.get('date', '').split(' to ')[-1].strip()
+                    try:
+                        dt = datetime.strptime(date_str, "%Y-%m-%d")
+                        if dt.date() < datetime.now().date():
+                            continue
+                    except:
+                        pass
+                        
+                    existing_rows.append(line)
+                    existing_keys.add(event_key)
+                    new_rows_added += 1
+                    total_added += 1
+            def extract_date(row):
+                parts = re.split(r'(?<!\\)\|', row)
+                if len(parts) >= 4:
+                    date_str = parts[2].strip().split(' to ')[0].strip()
+                    try:
+                        return datetime.strptime(date_str, "%Y-%m-%d")
+                    except:
+                        pass
+                return datetime.max
+            
+            upcoming = []
+            past = []
+            invalid = []
+            today_dt = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+            for r in existing_rows:
+                if not r.strip(): continue
+                dt = extract_date(r)
+                if dt == datetime.max:
+                    invalid.append(r)
+                elif dt >= today_dt:
+                    upcoming.append((dt, r))
+                else:
+                    past.append((dt, r))
+                    
+            upcoming.sort(key=lambda x: x[0])
+            past.sort(key=lambda x: x[0], reverse=True)
+            sorted_rows = [x[1] for x in upcoming] + [x[1] for x in past] + invalid
+            
+            new_table_content = '\n'.join(sorted_rows) + '\n'
+            readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
+                
+    with open('README.md', 'w', encoding='utf-8') as f:
+        f.write(readme_content)
+        
+    print(f"Aggregate step finished! {total_added} new unique events added.")
+
+    # Write summary for GitHub Actions
+    summary_path = os.environ.get('GITHUB_STEP_SUMMARY')
+    if summary_path:
+        with open(summary_path, 'a') as f:
+            f.write("### Event Update Summary\n")
+            f.write(f"- Processed {len(all_new_events)} events across all sources.\n")
+            f.write(f"- Added {total_added} new unique events to README.\n\n")
+            f.write("#### Source Breakdown:\n")
+            for source, count in source_counts.items():
+                f.write(f"- **{source.replace('events_', '').replace('.json', '')}**: {count} events fetched\n")
+                
+    # Also save the total added for dynamic commit messages
+    with open('events_added_count.txt', 'w') as f:
+        f.write(str(total_added))
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,217 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKTGVhZCB3YXRjaGVyIOKAlCBwb2xscyBNaWtlJ3Mgc2NyYXBlciBDU1Ygb3V0cHV0IGFuZCBwdXNoZXMgbmV3IHJvd3MgdG8gVHdlbnR5IENSTS4KClJ1bnMgY29udGludW91c2x5IGFsb25nc2lkZSB0aGUgc2NyYXBlci4gRGV0ZWN0cyBuZXcgcm93cyBieSB0cmFja2luZyBsYXN0IHByb2Nlc3NlZApyb3cgaW5kZXggaW4gYSBzdGF0ZSBmaWxlLiBSYXRlLWxpbWl0ZWQgdG8gcmVzcGVjdCBUd2VudHkncyAxMDAgcmVxLzYwcyBsaW1pdC4KClVzYWdlIChvbiBNaWtlKToKICBweXRob24gbGVhZF93YXRjaGVyLnB5CiAgcHl0aG9uIGxlYWRfd2F0Y2hlci5weSAtLXN0YXJ0LXJvdyAzOTIwICAgIyBza2lwIGFscmVhZHktYmFja2ZpbGxlZCByb3dzCgpDb25maWcgdmlhIGVudiBvciB+Ly5oZXJtZXMvc2VjcmV0cy90d2VudHlfYXBpX2tleS5qc29uOgogIFRXRU5UWV9VUkwgICAtIGJhc2UgVVJMIChkZWZhdWx0IGh0dHA6Ly8xMDAuNjYuOTYuNTE6MzAwMCkKICBUV0VOVFlfVE9LRU4gLSBCZWFyZXIgdG9rZW4KICBMRUFEX0JSQU5EICAgLSBicmFuZCB2YWx1ZSwgZGVmYXVsdCBBSVJDSFkKICBQT0xMX1NFQ1MgICAgLSBwb2xsIGludGVydmFsIGluIHNlY29uZHMsIGRlZmF1bHQgNjAKIiIiCmltcG9ydCBzeXMsIGpzb24sIGNzdiwgb3MsIHRpbWUsIGFyZ3BhcnNlLCB1cmxsaWIucmVxdWVzdCwgdXJsbGliLmVycm9yCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lem9uZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCiMgRm9yY2UgVVRGLTggZm9yIHN0ZG91dC9zdGRlcnIgb24gV2luZG93cyAoYXZvaWRzIGNwMTI1MiBjaGFybWFwIGVycm9ycykKaWYgaGFzYXR0cihzeXMuc3Rkb3V0LCAicmVjb25maWd1cmUiKToKICAgIHN5cy5zdGRvdXQucmVjb25maWd1cmUoZW5jb2Rpbmc9InV0Zi04IiwgZXJyb3JzPSJyZXBsYWNlIikKICAgIHN5cy5zdGRlcnIucmVjb25maWd1cmUoZW5jb2Rpbmc9InV0Zi04IiwgZXJyb3JzPSJyZXBsYWNlIikKCiMgLS0tIHBhdGhzIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCkhFUkUgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucmVzb2x2ZSgpCgojIFdhdGNoZWQgZmlsZXM6IFtwYXRoLCBkZWZhdWx0X3N0YXJ0X3Jvd10KIyBzdGFydF9yb3cgaXMgdXNlZCBvbmx5IHdoZW4gc3RhdGUgaGFzIG5vIGVudHJ5IGZvciB0aGlzIGZpbGUgeWV0CldBVENIX0ZJTEVTID0gWwogICAgUGF0aChyIkM6XFVzZXJzXEpvbW9cd29ya1xzY3JhcHktdG9vbHNcb3V0cHV0XHVrX2JhZG1pbnRvbl9sZWFkc18xMGsuY3N2IiksCiAgICBQYXRoKHIiQzpcVXNlcnNcSm9tb1x3b3JrXHNjcmFweS10b29sc1xvdXRwdXRcdWtfYmFkbWludG9uX2xlYWRzX2V4dHJhLmNzdiIpLApdCgpTVEFURV9GSUxFID0gSEVSRSAvICIubGVhZF93YXRjaGVyX3N0YXRlLmpzb24iCgojIC0tLSBjb25maWcgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpkZWYgX3NlY3JldHMoKSAtPiBkaWN0OgogICAgZm9yIHAgaW4gW1BhdGguaG9tZSgpIC8gIi5oZXJtZXMiIC8gInNlY3JldHMiIC8gInR3ZW50eV9hcGlfa2V5Lmpzb24iLAogICAgICAgICAgICAgIEhFUkUgLyAidHdlbnR5X2FwaV9rZXkuanNvbiJdOgogICAgICAgIGlmIHAuZXhpc3RzKCk6CiAgICAgICAgICAgIHJldHVybiBqc29uLmxvYWRzKHAucmVhZF90ZXh0KCkpCiAgICByZXR1cm4ge30KCmRlZiBfdXJsKCkgLT4gc3RyOgogICAgcyA9IF9zZWNyZXRzKCkKICAgIHJldHVybiBvcy5lbnZpcm9uLmdldCgiVFdFTlRZX1VSTCIpIG9yIHMuZ2V0KCJ1cmwiKSBvciBzLmdldCgiYmFzZV91cmwiKSBvciAiaHR0cDovLzEwMC42Ni45Ni41MTozMDAwIgoKZGVmIF90b2tlbigpIC0+IHN0cjoKICAgIHMgPSBfc2VjcmV0cygpCiAgICB0b2sgPSBvcy5lbnZpcm9uLmdldCgiVFdFTlRZX1RPS0VOIikgb3Igcy5nZXQoInRva2VuIikgb3Igcy5nZXQoImtleSIpCiAgICBpZiBub3QgdG9rOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiTm8gVHdlbnR5IHRva2VuIOKAlCBzZXQgVFdFTlRZX1RPS0VOIGVudiBvciB+Ly5oZXJtZXMvc2VjcmV0cy90d2VudHlfYXBpX2tleS5qc29uIikKICAgIHJldHVybiB0b2sKCkJSQU5EID0gb3MuZW52aXJvbi5nZXQoIkxFQURfQlJBTkQiLCAiQUlSQ0hZIikudXBwZXIoKQpQT0xMX1NFQ1MgPSBpbnQob3MuZW52aXJvbi5nZXQoIlBPTExfU0VDUyIsICI2MCIpKQpERUxBWV9CRVRXRUVOID0gMS41ICAjIHNlY29uZHMgYmV0d2VlbiBUd2VudHkgcmVxdWVzdHMgKDEwMCByZXEvNjBzIGxpbWl0IOKGkiBzYWZlIGF0IH40MC9taW4pCgojIC0tLSBUd2VudHkgQVBJIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpkZWYgY3JlYXRlX2xlYWQobGVhZDogZGljdCwgdG9rZW46IHN0ciwgdXJsOiBzdHIpIC0+IHN0cjoKICAgICIiIlBPU1Qgb25lIGxlYWQgdG8gVHdlbnR5IENSTS4gUmV0dXJucyBuZXcgbGVhZCBpZC4iIiIKICAgIG5vdyA9IGRhdGV0aW1lLm5vdyh0aW1lem9uZS51dGMpLnN0cmZ0aW1lKCIlWS0lbS0lZFQlSDolTTolU1oiKQogICAgdmFyaWFibGVzID0geyJpbnB1dCI6IHsKICAgICAgICAiYnVzaW5lc3NOYW1lIjogbGVhZC5nZXQoImJ1c2luZXNzTmFtZSIpIG9yIGxlYWQuZ2V0KCJidXNpbmVzc19uYW1lIikKICAgICAgICAgICAgICAgICAgICAgICAgb3IgbGVhZC5nZXQoImNvbXBhbnkiKSBvciBsZWFkLmdldCgibmFtZSIsICIiKSwKICAgICAgICAicGhvbmUiOiBsZWFkLmdldCgicGhvbmUiLCAiIiksCiAgICAgICAgImxvY2F0aW9uIjogbGVhZC5nZXQoImxvY2F0aW9uIikgb3IgbGVhZC5nZXQoImFkZHJlc3MiLCAiIiksCiAgICAgICAgInNvdXJjZSI6IGxlYWQuZ2V0KCJzb3VyY2UiLCAiZ29vZ2xlLW1hcHMiKSwKICAgICAgICAic2NyYXBlZEF0IjogbGVhZC5nZXQoInNjcmFwZWRBdCIsIG5vdyksCiAgICAgICAgInN0YXR1cyI6ICJORVciLAogICAgICAgICJicmFuZCI6IEJSQU5ELAogICAgICAgICJjb250YWN0RW1haWwiOiBsZWFkLmdldCgiZW1haWwiKSBvciBsZWFkLmdldCgiY29udGFjdEVtYWlsIiwgIiIpLAogICAgICAgICJjb250YWN0V2Vic2l0ZSI6IGxlYWQuZ2V0KCJ3ZWJzaXRlIikgb3IgbGVhZC5nZXQoImNvbnRhY3RXZWJzaXRlIiwgIiIpLAogICAgfX0KICAgIHF1ZXJ5ID0gKCJtdXRhdGlvbiBDcmVhdGVMZWFkKCRpbnB1dDogTGVhZENyZWF0ZUlucHV0ISkgIgogICAgICAgICAgICAgInsgY3JlYXRlTGVhZChkYXRhOiAkaW5wdXQpIHsgaWQgfSB9IikKICAgIGJvZHkgPSBqc29uLmR1bXBzKHsicXVlcnkiOiBxdWVyeSwgInZhcmlhYmxlcyI6IHZhcmlhYmxlc30pLmVuY29kZSgidXRmLTgiKQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdChmInt1cmx9L2dyYXBocWwiLCBkYXRhPWJvZHksIGhlYWRlcnM9ewogICAgICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIsCiAgICAgICAgIkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dG9rZW59IiwKICAgICAgICAiVXNlci1BZ2VudCI6ICJIZXJtZXNGbGVldC8xLjAiLAogICAgfSkKICAgIHRyeToKICAgICAgICByZXNwID0ganNvbi5sb2FkKHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PTE1KSkKICAgIGV4Y2VwdCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yIGFzIGU6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGYiSFRUUCB7ZS5jb2RlfToge2UucmVhZCgpLmRlY29kZSgpWzoyMDBdfSIpCiAgICBpZiByZXNwLmdldCgiZXJyb3JzIik6CiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKGYiR3JhcGhRTDoge3Jlc3BbJ2Vycm9ycyddfSIpCiAgICByZXR1cm4gcmVzcFsiZGF0YSJdWyJjcmVhdGVMZWFkIl1bImlkIl0KCiMgLS0tIHN0YXRlIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCmRlZiBsb2FkX3N0YXRlKCkgLT4gZGljdDoKICAgIGlmIFNUQVRFX0ZJTEUuZXhpc3RzKCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhTVEFURV9GSUxFLnJlYWRfdGV4dCgpKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MKICAgIHJldHVybiB7fQoKZGVmIHNhdmVfc3RhdGUoc3RhdGU6IGRpY3QpOgogICAgU1RBVEVfRklMRS53cml0ZV90ZXh0KGpzb24uZHVtcHMoc3RhdGUsIGluZGVudD0yKSkKCiMgLS0tIENTViByZWFkaW5nIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCmRlZiByZWFkX2Nzdl9yb3dzKHBhdGg6IFBhdGgpIC0+IGxpc3Q6CiAgICAiIiJSZWFkIGFsbCByb3dzIGZyb20gYSBDU1YuIFJldHVybnMgbGlzdCBvZiBkaWN0cy4iIiIKICAgIHdpdGggb3BlbihwYXRoLCBuZXdsaW5lPSIiLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InJlcGxhY2UiKSBhcyBmOgogICAgICAgIHJldHVybiBsaXN0KGNzdi5EaWN0UmVhZGVyKGYpKQoKX0dBUkJBR0VfUFJFRklYRVMgPSAoCiAgICAiSGVyZSBhcmUiLCAidGhlIEdvb2dsZSIsICJUaGVyZSBhcmUgbm8iLCAiVGhlcmUgaXMgbm8iLAogICAgIkknbSBzb3JyeSIsICJJIGRvbid0IiwgIk5vIGJhZG1pbnRvbiIsICJVbmZvcnR1bmF0ZWx5IiwKKQoKZGVmIGlzX2dhcmJhZ2Uocm93OiBkaWN0KSAtPiBib29sOgogICAgbmFtZSA9IHJvdy5nZXQoIm5hbWUiKSBvciByb3cuZ2V0KCJidXNpbmVzc05hbWUiKSBvciAiIgogICAgaWYgbm90IG5hbWU6CiAgICAgICAgcmV0dXJuIFRydWUKICAgIGlmICJceDFiIiBpbiBuYW1lOgogICAgICAgIHJldHVybiBUcnVlCiAgICBpZiBhbnkobmFtZS5zdGFydHN3aXRoKHApIGZvciBwIGluIF9HQVJCQUdFX1BSRUZJWEVTKToKICAgICAgICByZXR1cm4gVHJ1ZQogICAgcmV0dXJuIEZhbHNlCgojIC0tLSBtYWluIGxvb3AgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpkZWYgbG9nKG1zZzogc3RyKToKICAgIHRzID0gZGF0ZXRpbWUubm93KCkuc3RyZnRpbWUoIiVZLSVtLSVkICVIOiVNOiVTIikKICAgIHByaW50KGYiW2xlYWRfd2F0Y2hlcl0ge3RzfSAge21zZ30iLCBmbHVzaD1UcnVlKQoKZGVmIHByb2Nlc3NfZmlsZShwYXRoOiBQYXRoLCBzdGF0ZTogZGljdCwgdG9rZW46IHN0ciwgdXJsOiBzdHIpIC0+IGludDoKICAgICIiIlB1c2ggbmV3IHJvd3MgZnJvbSBwYXRoIHRvIFR3ZW50eS4gUmV0dXJucyBjb3VudCBvZiBuZXcgcm93cyBwdXNoZWQuIiIiCiAgICBrZXkgPSBzdHIocGF0aCkKICAgIGlmIG5vdCBwYXRoLmV4aXN0cygpOgogICAgICAgIHJldHVybiAwCgogICAgcm93cyA9IHJlYWRfY3N2X3Jvd3MocGF0aCkKICAgIGxhc3Rfcm93ID0gc3RhdGUuZ2V0KGtleSwgMCkKCiAgICBpZiBsYXN0X3JvdyA+PSBsZW4ocm93cyk6CiAgICAgICAgcmV0dXJuIDAgICMgbm8gbmV3IHJvd3MKCiAgICBuZXdfcm93cyA9IHJvd3NbbGFzdF9yb3c6XQogICAgZ29vZCA9IFtyIGZvciByIGluIG5ld19yb3dzIGlmIG5vdCBpc19nYXJiYWdlKHIpXQogICAgc2tpcHBlZF9nYXJiYWdlID0gbGVuKG5ld19yb3dzKSAtIGxlbihnb29kKQoKICAgIGlmIHNraXBwZWRfZ2FyYmFnZToKICAgICAgICBsb2coZiJ7cGF0aC5uYW1lfToge3NraXBwZWRfZ2FyYmFnZX0gZ2FyYmFnZSByb3dzIHNraXBwZWQiKQoKICAgIHB1c2hlZCA9IDAKICAgIGZvciBsZWFkIGluIGdvb2Q6CiAgICAgICAgbmFtZSA9IGxlYWQuZ2V0KCJidXNpbmVzc05hbWUiKSBvciBsZWFkLmdldCgibmFtZSIpIG9yIGxlYWQuZ2V0KCJjb21wYW55IiwgIj8iKQogICAgICAgIHRyeToKICAgICAgICAgICAgbGlkID0gY3JlYXRlX2xlYWQobGVhZCwgdG9rZW4sIHVybCkKICAgICAgICAgICAgbG9nKGYiICBbT0tdIHtuYW1lWzo1MF19IOKGkiB7bGlkfSIpCiAgICAgICAgICAgIHB1c2hlZCArPSAxCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2coZiIgIFtGQUlMXSB7bmFtZVs6NTBdfToge2V9IikKICAgICAgICB0aW1lLnNsZWVwKERFTEFZX0JFVFdFRU4pCgogICAgc3RhdGVba2V5XSA9IGxlbihyb3dzKQogICAgcmV0dXJuIHB1c2hlZAoKZGVmIG1haW4oKToKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXN0YXJ0LXJvdyIsIHR5cGU9aW50LCBkZWZhdWx0PU5vbmUsCiAgICAgICAgICAgICAgICAgICAgaGVscD0iUm93IGluZGV4IHRvIHN0YXJ0IGZyb20gZm9yIHVrX2JhZG1pbnRvbl9sZWFkc18xMGsuY3N2ICIKICAgICAgICAgICAgICAgICAgICAgICAgICIob3ZlcnJpZGVzIHN0YXRlIGZpbGU7IGRlZmF1bHQgMzkyMCBpZiBubyBzdGF0ZSkiKQogICAgYXJncyA9IGFwLnBhcnNlX2FyZ3MoKQoKICAgIHRva2VuID0gX3Rva2VuKCkKICAgIHVybCA9IF91cmwoKQoKICAgIHN0YXRlID0gbG9hZF9zdGF0ZSgpCgogICAgIyBJbml0aWFsaXplIHN0YXJ0IHJvdyBmb3IgbWFpbiBmaWxlIGlmIG5vdCBpbiBzdGF0ZQogICAgbWFpbl9rZXkgPSBzdHIoV0FUQ0hfRklMRVNbMF0pCiAgICBpZiBtYWluX2tleSBub3QgaW4gc3RhdGU6CiAgICAgICAgaWYgYXJncy5zdGFydF9yb3cgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHN0YXRlW21haW5fa2V5XSA9IGFyZ3Muc3RhcnRfcm93CiAgICAgICAgICAgIGxvZyhmIlN0YXJ0aW5nIGZyb20gcm93IHthcmdzLnN0YXJ0X3Jvd30gKC0tc3RhcnQtcm93IGFyZykiKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgRGVmYXVsdDogc3RhcnQgZnJvbSByb3cgMzkyMCAocm93cyAxLTM5MTkgd2VyZSBhbHJlYWR5IGJhY2tmaWxsZWQpCiAgICAgICAgICAgIHN0YXRlW21haW5fa2V5XSA9IDM5MjAKICAgICAgICAgICAgbG9nKCJObyBzdGF0ZSBmb3VuZCDigJQgZGVmYXVsdGluZyB0byByb3cgMzkyMCAoc2tpcHBpbmcgYWxyZWFkeS1iYWNrZmlsbGVkIHJvd3MpIikKCiAgICBsb2coZiJXYXRjaGluZyB7bGVuKFdBVENIX0ZJTEVTKX0gZmlsZShzKSwgYnJhbmQ9e0JSQU5EfSwgcG9sbD17UE9MTF9TRUNTfXMiKQogICAgZm9yIGYgaW4gV0FUQ0hfRklMRVM6CiAgICAgICAgbG9nKGYiICB7Zn0gIChzdGFydF9yb3c9e3N0YXRlLmdldChzdHIoZiksIDApfSkiKQoKICAgIHdoaWxlIFRydWU6CiAgICAgICAgdG90YWxfcHVzaGVkID0gMAogICAgICAgIGZvciBwYXRoIGluIFdBVENIX0ZJTEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBuID0gcHJvY2Vzc19maWxlKHBhdGgsIHN0YXRlLCB0b2tlbiwgdXJsKQogICAgICAgICAgICAgICAgaWYgbjoKICAgICAgICAgICAgICAgICAgICBsb2coZiJ7cGF0aC5uYW1lfTogcHVzaGVkIHtufSBuZXcgbGVhZHMiKQogICAgICAgICAgICAgICAgICAgIHRvdGFsX3B1c2hlZCArPSBuCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIGxvZyhmIkVSUk9SIHByb2Nlc3Npbmcge3BhdGgubmFtZX06IHtlfSIpCgogICAgICAgIGlmIHRvdGFsX3B1c2hlZCA9PSAwOgogICAgICAgICAgICBsb2coIk5vIG5ldyByb3dzIOKAlCBzbGVlcGluZyIpCgogICAgICAgIHNhdmVfc3RhdGUoc3RhdGUpCiAgICAgICAgdGltZS5zbGVlcChQT0xMX1NFQ1MpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""
+Lead watcher — polls Mike's scraper CSV output and pushes new rows to Twenty CRM.
+
+Runs continuously alongside the scraper. Detects new rows by tracking last processed
+row index in a state file. Rate-limited to respect Twenty's 100 req/60s limit.
+
+Usage (on Mike):
+  python lead_watcher.py
+  python lead_watcher.py --start-row 3920   # skip already-backfilled rows
+
+Config via env or ~/.hermes/secrets/twenty_api_key.json:
+  TWENTY_URL   - base URL (default http://100.66.96.51:3000)
+  TWENTY_TOKEN - Bearer token
+  LEAD_BRAND   - brand value, default AIRCHY
+  POLL_SECS    - poll interval in seconds, default 60
+"""
+import sys, json, csv, os, time, argparse, urllib.request, urllib.error
+from datetime import datetime, timezone
+from pathlib import Path
+
+# Force UTF-8 for stdout/stderr on Windows (avoids cp1252 charmap errors)
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
+# --- paths ----------------------------------------------------------------
+
+HERE = Path(__file__).parent.resolve()
+
+# Watched files: [path, default_start_row]
+# start_row is used only when state has no entry for this file yet
+WATCH_FILES = [
+    Path(r"C:\Users\Jomo\work\scrapy-tools\output\uk_badminton_leads_10k.csv"),
+    Path(r"C:\Users\Jomo\work\scrapy-tools\output\uk_badminton_leads_extra.csv"),
+]
+
+STATE_FILE = HERE / ".lead_watcher_state.json"
+
+# --- config ---------------------------------------------------------------
+
+def _secrets() -> dict:
+    for p in [Path.home() / ".hermes" / "secrets" / "twenty_api_key.json",
+              HERE / "twenty_api_key.json"]:
+        if p.exists():
+            return json.loads(p.read_text())
+    return {}
+
+def _url() -> str:
+    s = _secrets()
+    return os.environ.get("TWENTY_URL") or s.get("url") or s.get("base_url") or "http://100.66.96.51:3000"
+
+def _token() -> str:
+    s = _secrets()
+    tok = os.environ.get("TWENTY_TOKEN") or s.get("token") or s.get("key")
+    if not tok:
+        raise RuntimeError("No Twenty token — set TWENTY_TOKEN env or ~/.hermes/secrets/twenty_api_key.json")
+    return tok
+
+BRAND = os.environ.get("LEAD_BRAND", "AIRCHY").upper()
+POLL_SECS = int(os.environ.get("POLL_SECS", "60"))
+DELAY_BETWEEN = 1.5  # seconds between Twenty requests (100 req/60s limit → safe at ~40/min)
+
+# --- Twenty API -----------------------------------------------------------
+
+def create_lead(lead: dict, token: str, url: str) -> str:
+    """POST one lead to Twenty CRM. Returns new lead id."""
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    variables = {"input": {
+        "businessName": lead.get("businessName") or lead.get("business_name")
+                        or lead.get("company") or lead.get("name", ""),
+        "phone": lead.get("phone", ""),
+        "location": lead.get("location") or lead.get("address", ""),
+        "source": lead.get("source", "google-maps"),
+        "scrapedAt": lead.get("scrapedAt", now),
+        "status": "NEW",
+        "brand": BRAND,
+        "contactEmail": lead.get("email") or lead.get("contactEmail", ""),
+        "contactWebsite": lead.get("website") or lead.get("contactWebsite", ""),
+    }}
+    query = ("mutation CreateLead($input: LeadCreateInput!) "
+             "{ createLead(data: $input) { id } }")
+    body = json.dumps({"query": query, "variables": variables}).encode("utf-8")
+    req = urllib.request.Request(f"{url}/graphql", data=body, headers={
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {token}",
+        "User-Agent": "HermesFleet/1.0",
+    })
+    try:
+        resp = json.load(urllib.request.urlopen(req, timeout=15))
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"HTTP {e.code}: {e.read().decode()[:200]}")
+    if resp.get("errors"):
+        raise RuntimeError(f"GraphQL: {resp['errors']}")
+    return resp["data"]["createLead"]["id"]
+
+# --- state ----------------------------------------------------------------
+
+def load_state() -> dict:
+    if STATE_FILE.exists():
+        try:
+            return json.loads(STATE_FILE.read_text())
+        except Exception:
+            pass
+    return {}
+
+def save_state(state: dict):
+    STATE_FILE.write_text(json.dumps(state, indent=2))
+
+# --- CSV reading ----------------------------------------------------------
+
+def read_csv_rows(path: Path) -> list:
+    """Read all rows from a CSV. Returns list of dicts."""
+    with open(path, newline="", encoding="utf-8", errors="replace") as f:
+        return list(csv.DictReader(f))
+
+_GARBAGE_PREFIXES = (
+    "Here are", "the Google", "There are no", "There is no",
+    "I'm sorry", "I don't", "No badminton", "Unfortunately",
+)
+
+def is_garbage(row: dict) -> bool:
+    name = row.get("name") or row.get("businessName") or ""
+    if not name:
+        return True
+    if "\x1b" in name:
+        return True
+    if any(name.startswith(p) for p in _GARBAGE_PREFIXES):
+        return True
+    return False
+
+# --- main loop ------------------------------------------------------------
+
+def log(msg: str):
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[lead_watcher] {ts}  {msg}", flush=True)
+
+def process_file(path: Path, state: dict, token: str, url: str) -> int:
+    """Push new rows from path to Twenty. Returns count of new rows pushed."""
+    key = str(path)
+    if not path.exists():
+        return 0
+
+    rows = read_csv_rows(path)
+    last_row = state.get(key, 0)
+
+    if last_row >= len(rows):
+        return 0  # no new rows
+
+    new_rows = rows[last_row:]
+    good = [r for r in new_rows if not is_garbage(r)]
+    skipped_garbage = len(new_rows) - len(good)
+
+    if skipped_garbage:
+        log(f"{path.name}: {skipped_garbage} garbage rows skipped")
+
+    pushed = 0
+    for lead in good:
+        name = lead.get("businessName") or lead.get("name") or lead.get("company", "?")
+        try:
+            lid = create_lead(lead, token, url)
+            log(f"  [OK] {name[:50]} → {lid}")
+            pushed += 1
+        except Exception as e:
+            log(f"  [FAIL] {name[:50]}: {e}")
+        time.sleep(DELAY_BETWEEN)
+
+    state[key] = len(rows)
+    return pushed
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--start-row", type=int, default=None,
+                    help="Row index to start from for uk_badminton_leads_10k.csv "
+                         "(overrides state file; default 3920 if no state)")
+    args = ap.parse_args()
+
+    token = _token()
+    url = _url()
+
+    state = load_state()
+
+    # Initialize start row for main file if not in state
+    main_key = str(WATCH_FILES[0])
+    if main_key not in state:
+        if args.start_row is not None:
+            state[main_key] = args.start_row
+            log(f"Starting from row {args.start_row} (--start-row arg)")
+        else:
+            # Default: start from row 3920 (rows 1-3919 were already backfilled)
+            state[main_key] = 3920
+            log("No state found — defaulting to row 3920 (skipping already-backfilled rows)")
+
+    log(f"Watching {len(WATCH_FILES)} file(s), brand={BRAND}, poll={POLL_SECS}s")
+    for f in WATCH_FILES:
+        log(f"  {f}  (start_row={state.get(str(f), 0)})")
+
+    while True:
+        total_pushed = 0
+        for path in WATCH_FILES:
+            try:
+                n = process_file(path, state, token, url)
+                if n:
+                    log(f"{path.name}: pushed {n} new leads")
+                    total_pushed += n
+            except Exception as e:
+                log(f"ERROR processing {path.name}: {e}")
+
+        if total_pushed == 0:
+            log("No new rows — sleeping")
+
+        save_state(state)
+        time.sleep(POLL_SECS)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,68 @@
-IiIiRWRpdCB0aGUgbWFya2VyLWhlYWRlZCBibG9ja3MgZ2xvdmVib3ggYXBwZW5kcyB0byBhIHVzZXIncyBzaGVsbCBwcm9maWxlLgoKU3RkbGliIG9ubHkgYW5kIHZhbGlkIG9uIHRoZSBzeXN0ZW0gcHl0aG9uMywgYmVjYXVzZSB0aGUgbW9uaXRvci1rZXkgbWlncmF0aW9uCihgbW9uaXRvcl9rZXlfcmMucHlgKSBydW5zIHVuZGVyIGl0IGFzIHdlbGwgYXMgdGhlIHRlYXJkb3duIChgdW5pbnN0YWxsLnB5YCkuCiIiIgoKaW1wb3J0IG9zCmltcG9ydCB0ZW1wZmlsZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCgpkZWYgd2l0aG91dF9tYXJrZWRfbGluZSh0ZXh0OiBzdHIsIG1hcmtlcjogc3RyKSAtPiBzdHI6CiAgICAiIiJgdGV4dGAgd2l0aCBlYWNoIG1hcmtlciBsaW5lLCB0aGUgbGluZSBhZnRlciBpdCwgYW5kIHRoZSBsZWFkaW5nIGJsYW5rCiAgICB0aGUgaW5zdGFsbCBpbnNlcnRlZCBiZWZvcmUgaXQsIGFsbCByZW1vdmVkLgoKICAgIERyb3BwaW5nIHRoYXQgbGVhZGluZyBibGFuayB0b28gc3RvcHMgYW4gb3JwaGFuIGJsYW5rIGFjY3VtdWxhdGluZyBhY3Jvc3MKICAgIGV2ZXJ5IGluc3RhbGwtYW5kLXVuaW5zdGFsbCBjeWNsZS4gQSBibGFuayBpcyBoZWxkIGJhY2sgZm9yIG9uZSBsaW5lIGFuZAogICAgZW1pdHRlZCBvbmx5IG9uY2UgdGhlIG5leHQgbGluZSBpcyBub3QgYSBtYXJrZXIsIHNvIHRoZSB1c2VyJ3Mgb3duIGJsYW5rCiAgICBsaW5lcyBlbHNld2hlcmUgc3Vydml2ZS4KICAgICIiIgogICAgbGluZXMgPSB0ZXh0LnNwbGl0KCJcbiIpCiAgICBpZiBsaW5lcyBhbmQgbGluZXNbLTFdID09ICIiOgogICAgICAgIGxpbmVzLnBvcCgpCiAgICBrZXB0OiBsaXN0W3N0cl0gPSBbXQogICAgcGVuZGluZ19ibGFuayA9IEZhbHNlCiAgICBza2lwID0gMAogICAgZm9yIGxpbmUgaW4gbGluZXM6CiAgICAgICAgIyBUaGUgd2hvbGUgbGluZSwgc28gYSBzdGF0ZW1lbnQgdGhhdCBtZXJlbHkgcXVvdGVzIHRoZSBtYXJrZXIgc3Vydml2ZXMgd2l0aCBpdHMgbmV4dCBsaW5lLgogICAgICAgIGlmIGxpbmUgPT0gbWFya2VyOgogICAgICAgICAgICBwZW5kaW5nX2JsYW5rID0gRmFsc2UKICAgICAgICAgICAgc2tpcCA9IDEKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBza2lwID4gMDoKICAgICAgICAgICAgc2tpcCAtPSAxCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgbGluZSA9PSAiIjoKICAgICAgICAgICAgaWYgcGVuZGluZ19ibGFuazoKICAgICAgICAgICAgICAgIGtlcHQuYXBwZW5kKCIiKQogICAgICAgICAgICBwZW5kaW5nX2JsYW5rID0gVHJ1ZQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIHBlbmRpbmdfYmxhbms6CiAgICAgICAgICAgIGtlcHQuYXBwZW5kKCIiKQogICAgICAgICAgICBwZW5kaW5nX2JsYW5rID0gRmFsc2UKICAgICAgICBrZXB0LmFwcGVuZChsaW5lKQogICAgaWYgcGVuZGluZ19ibGFuazoKICAgICAgICBrZXB0LmFwcGVuZCgiIikKICAgIHJldHVybiAiIi5qb2luKGYie2xpbmV9XG4iIGZvciBsaW5lIGluIGtlcHQpCgoKZGVmIHJld3JpdGVfcHJlc2VydmluZ19tb2RlKHRhcmdldDogUGF0aCwgdGV4dDogc3RyKSAtPiBOb25lOgogICAgIiIiUmVwbGFjZSBgdGFyZ2V0YCBpbiBvbmUgc3RlcCwga2VlcGluZyBpdHMgcGVybWlzc2lvbiBiaXRzLgoKICAgIFRoZSBuZXcgdGV4dCBpcyBzdGFnZWQgaW4gdGhlIHRhcmdldCdzIE9XTiBkaXJlY3RvcnksIHNvIHRoZSBjb21taXQKICAgIHJlbmFtZSBpcyBhdG9taWMsIGFuZCB0aGUgdGFyZ2V0J3MgbW9kZSBpcyBzZXQgYmVmb3JlIHRoZSByZW5hbWUsIHNvIGEKICAgIDA2NDQgcHJvZmlsZSBkb2VzIG5vdCBjb21lIGJhY2sgb3duZXItb25seS4KCiAgICBgbWtzdGVtcGAga2VlcHMgdGhlIHN0YWdlZCBjb3B5IHByaXZhdGU6IGEgcHJvZmlsZSBjYW4gaG9sZCBhIHBsYWludGV4dAogICAgbW9uaXRvciBBUEkga2V5LCBhbmQgbWtzdGVtcCBjcmVhdGVzIHRoZSBmaWxlIG93bmVyLW9ubHkgdW5kZXIgYW4KICAgIHVuZ3Vlc3NhYmxlIG5hbWUuIEEgcHJlZGljdGFibGUgbmFtZSB3b3VsZCBsZXQgYW5vdGhlciBob3N0IHVzZXIgcGxhbnQgYQogICAgc3ltbGluayB0aGVyZSBhbmQgcmVhZCB0aGUga2V5IG1pZC13cml0ZS4KICAgICIiIgogICAgbW9kZSA9IHRhcmdldC5zdGF0KCkuc3RfbW9kZSAmIDBvNzc3NwogICAgZmQsIHN0YWdlZF9uYW1lID0gdGVtcGZpbGUubWtzdGVtcChwcmVmaXg9ZiIue3RhcmdldC5uYW1lfS4iLCBkaXI9dGFyZ2V0LnBhcmVudCkKICAgIHN0YWdlZCA9IFBhdGgoc3RhZ2VkX25hbWUpCiAgICB3aXRoIG9zLmZkb3BlbihmZCwgInciLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9InN1cnJvZ2F0ZWVzY2FwZSIpIGFzIGZoOgogICAgICAgIGZoLndyaXRlKHRleHQpCiAgICBvcy5jaG1vZChzdGFnZWQsIG1vZGUpCiAgICBvcy5yZXBsYWNlKHN0YWdlZCwgdGFyZ2V0KQo=
+"""Edit the marker-headed blocks glovebox appends to a user's shell profile.
+
+Stdlib only and valid on the system python3, because the monitor-key migration
+(`monitor_key_rc.py`) runs under it as well as the teardown (`uninstall.py`).
+"""
+
+import os
+import tempfile
+from pathlib import Path
+
+
+def without_marked_line(text: str, marker: str) -> str:
+    """`text` with each marker line, the line after it, and the leading blank
+    the install inserted before it, all removed.
+
+    Dropping that leading blank too stops an orphan blank accumulating across
+    every install-and-uninstall cycle. A blank is held back for one line and
+    emitted only once the next line is not a marker, so the user's own blank
+    lines elsewhere survive.
+    """
+    lines = text.split("\n")
+    if lines and lines[-1] == "":
+        lines.pop()
+    kept: list[str] = []
+    pending_blank = False
+    skip = 0
+    for line in lines:
+        # The whole line, so a statement that merely quotes the marker survives with its next line.
+        if line == marker:
+            pending_blank = False
+            skip = 1
+            continue
+        if skip > 0:
+            skip -= 1
+            continue
+        if line == "":
+            if pending_blank:
+                kept.append("")
+            pending_blank = True
+            continue
+        if pending_blank:
+            kept.append("")
+            pending_blank = False
+        kept.append(line)
+    if pending_blank:
+        kept.append("")
+    return "".join(f"{line}\n" for line in kept)
+
+
+def rewrite_preserving_mode(target: Path, text: str) -> None:
+    """Replace `target` in one step, keeping its permission bits.
+
+    The new text is staged in the target's OWN directory, so the commit
+    rename is atomic, and the target's mode is set before the rename, so a
+    0644 profile does not come back owner-only.
+
+    `mkstemp` keeps the staged copy private: a profile can hold a plaintext
+    monitor API key, and mkstemp creates the file owner-only under an
+    unguessable name. A predictable name would let another host user plant a
+    symlink there and read the key mid-write.
+    """
+    mode = target.stat().st_mode & 0o7777
+    fd, staged_name = tempfile.mkstemp(prefix=f".{target.name}.", dir=target.parent)
+    staged = Path(staged_name)
+    with os.fdopen(fd, "w", encoding="utf-8", errors="surrogateescape") as fh:
+        fh.write(text)
+    os.chmod(staged, mode)
+    os.replace(staged, target)

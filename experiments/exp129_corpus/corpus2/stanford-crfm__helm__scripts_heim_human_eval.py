@@ -1,1 +1,286 @@
-aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBjc3YKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCByYW5kb20KaW1wb3J0IHNodXRpbAppbXBvcnQgcmVxdWVzdHMKaW1wb3J0IHN0YXRpc3RpY3MKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgTGlzdAoKZnJvbSB0cWRtIGltcG9ydCB0cWRtCgpmcm9tIGhlbG0uY29tbW9uLmhpZXJhcmNoaWNhbF9sb2dnZXIgaW1wb3J0IGhsb2csIGh0cmFja19ibG9jawoKIiIiClNjcmlwdCB0byBjcmVhdGUgdGhlIEhFSU0gSHVtYW4gRXZhbHVhdGlvbiBkYXRhc2V0IGZvciByZXByb2R1Y2liaWxpdHkgb2YgdGhlIGRhdGFzZXQuCgpweXRob24zIHNjcmlwdHMvaGVpbV9odW1hbl9ldmFsLnB5IDxQYXRoIHRvIHJhdyBhbm5vdGF0aW9ucz4KIiIiCgojIEZpeCBzZWVkCnJhbmRvbS5zZWVkKDApCgoKUVVFU1RJT05fVFlQRV9UT19JTkZPUyA9IHsKICAgICJhbGlnbm1lbnQiOiB7CiAgICAgICAgImluc3RydWN0aW9uIjogIlBsZWFzZSBhbnN3ZXIgdGhlIHF1ZXN0aW9uIGJlbG93IGFib3V0IHRoZSBmb2xsb3dpbmcgaW1hZ2UgYW5kIGRlc2NyaXB0aW9uLiIsCiAgICAgICAgInF1ZXN0aW9uIjogIkhvdyB3ZWxsIGRvZXMgdGhlIGltYWdlIG1hdGNoIHRoZSBkZXNjcmlwdGlvbj8iLAogICAgICAgICJjaG9pY2VzIjogewogICAgICAgICAgICAwOiAiRG9lcyBub3QgbWF0Y2ggYXQgYWxsIiwKICAgICAgICAgICAgMTogIkhhcyBzaWduaWZpY2FudCBkaXNjcmVwYW5jaWVzIiwKICAgICAgICAgICAgMjogIkhhcyBzZXZlcmFsIG1pbm9yIGRpc2NyZXBhbmNpZXMiLAogICAgICAgICAgICAzOiAiSGFzIGEgZmV3IG1pbm9yIGRpc2NyZXBhbmNpZXMiLAogICAgICAgICAgICA0OiAiTWF0Y2hlcyBleGFjdGx5IiwKICAgICAgICB9LAogICAgICAgICJ0ZW1wbGF0ZSI6ICJ7aW5zdHJ1Y3Rpb259XG57aW1hZ2V9XG5EZXNjcmlwdGlvbjoge3Byb21wdH1cblxue3F1ZXN0aW9ufVxue2Nob2ljZXN9IiwKICAgIH0sCiAgICAiY2xlYXJfc3ViamVjdCI6IHsKICAgICAgICAiaW5zdHJ1Y3Rpb24iOiAiUGxlYXNlIGFuc3dlciB0aGUgcXVlc3Rpb24gYmVsb3cgYWJvdXQgdGhlIGZvbGxvd2luZyBpbWFnZSBhbmQgZGVzY3JpcHRpb24uIiwKICAgICAgICAicXVlc3Rpb24iOiAiSXMgaXQgY2xlYXIgd2hvIHRoZSBzdWJqZWN0KHMpIG9mIHRoZSBpbWFnZSBpcz8gVGhlIHN1YmplY3QgY2FuIGJlIGEgbGl2aW5nIGJlaW5nICIKICAgICAgICAiKGUuZy4sIGEgZG9nIG9yIGEgcGVyc29uKSBvciBhbiBpbmFuaW1hdGUgYm9keSBvciBvYmplY3QgKGUuZy4sIGEgbW91bnRhaW4pLiIsCiAgICAgICAgImNob2ljZXMiOiB7CiAgICAgICAgICAgIDA6ICJObywgaXQncyB1bmNsZWFyLiIsCiAgICAgICAgICAgIDE6ICJJIGRvbid0IGtub3cuIEl0J3MgaGFyZCB0byB0ZWxsLiIsCiAgICAgICAgICAgIDI6ICJZZXMsIGl0J3MgY2xlYXIuIiwKICAgICAgICB9LAogICAgICAgICJ0ZW1wbGF0ZSI6ICJ7aW5zdHJ1Y3Rpb259XG57aW1hZ2V9XG5EZXNjcmlwdGlvbjoge3Byb21wdH1cblxue3F1ZXN0aW9ufVxue2Nob2ljZXN9IiwKICAgIH0sCiAgICAiYWVzdGhldGljcyI6IHsKICAgICAgICAiaW5zdHJ1Y3Rpb24iOiAiUGxlYXNlIGFuc3dlciB0aGUgcXVlc3Rpb24gYmVsb3cgYWJvdXQgdGhlIGZvbGxvd2luZyBpbWFnZSBhbmQgZGVzY3JpcHRpb24uIiwKICAgICAgICAicXVlc3Rpb24iOiAiSG93IGFlc3RoZXRpY2FsbHkgcGxlYXNpbmcgaXMgdGhlIGltYWdlPyIsCiAgICAgICAgImNob2ljZXMiOiB7CiAgICAgICAgICAgIDA6ICJJIGZpbmQgdGhlIGltYWdlIHVnbHkuIiwKICAgICAgICAgICAgMTogIlRoZSBpbWFnZSBoYXMgYSBsb3Qgb2YgZmxhd3MsIGJ1dCBpdCdzIG5vdCBjb21wbGV0ZWx5IHVuYXBwZWFsaW5nLiIsCiAgICAgICAgICAgIDI6ICJJIGZpbmQgdGhlIGltYWdlIG5laXRoZXIgdWdseSBub3IgYWVzdGhldGljYWxseSBwbGVhc2luZy4iLAogICAgICAgICAgICAzOiAiVGhlIGltYWdlIGlzIGFlc3RoZXRpY2FsbHkgcGxlYXNpbmcgYW5kIG5pY2UgdG8gbG9vayBhdCBpdC4iLAogICAgICAgICAgICA0OiAiVGhlIGltYWdlIGlzIGFlc3RoZXRpY2FsbHkgc3R1bm5pbmcuIEkgY2FuIGxvb2sgYXQgaXQgYWxsIGRheS4iLAogICAgICAgIH0sCiAgICAgICAgInRlbXBsYXRlIjogIntpbnN0cnVjdGlvbn1cbntpbWFnZX1cbkRlc2NyaXB0aW9uOiB7cHJvbXB0fVxuXG57cXVlc3Rpb259XG57Y2hvaWNlc30iLAogICAgfSwKICAgICJvcmlnaW5hbGl0eSI6IHsKICAgICAgICAiaW5zdHJ1Y3Rpb24iOiAiUGxlYXNlIGFuc3dlciB0aGUgcXVlc3Rpb24gYmVsb3cgYWJvdXQgdGhlIGZvbGxvd2luZyBpbWFnZSBhbmQgZGVzY3JpcHRpb24uIiwKICAgICAgICAicXVlc3Rpb24iOiAiSG93IG9yaWdpbmFsIGlzIHRoZSBpbWFnZSwgZ2l2ZW4gaXQgd2FzIGNyZWF0ZWQgd2l0aCB0aGUgZGVzY3JpcHRpb24/IiwKICAgICAgICAiY2hvaWNlcyI6IHsKICAgICAgICAgICAgMDogIkkndmUgc2VlbiBzb21ldGhpbmcgbGlrZSB0aGlzIGJlZm9yZSB0byB0aGUgcG9pbnQgaXQncyBiZWNvbWUgdGlyZXNvbWUuIiwKICAgICAgICAgICAgMTogIlRoZSBpbWFnZSBpcyBub3QgcmVhbGx5IG9yaWdpbmFsLCBidXQgaXQgaGFzIHNvbWUgb3JpZ2luYWxpdHkgdG8gaXQuIiwKICAgICAgICAgICAgMjogIk5ldXRyYWwuIiwKICAgICAgICAgICAgMzogIkkgZmluZCB0aGUgaW1hZ2UgdG8gYmUgZnJlc2ggYW5kIG9yaWdpbmFsLiIsCiAgICAgICAgICAgIDQ6ICJJIGZpbmQgdGhlIGltYWdlIHRvIGJlIGV4dHJlbWVseSBjcmVhdGl2ZSBhbmQgb3V0IG9mIHRoaXMgd29ybGQuIiwKICAgICAgICB9LAogICAgICAgICJ0ZW1wbGF0ZSI6ICJ7aW5zdHJ1Y3Rpb259XG57aW1hZ2V9XG5EZXNjcmlwdGlvbjoge3Byb21wdH1cblxue3F1ZXN0aW9ufVxue2Nob2ljZXN9IiwKICAgIH0sCiAgICAicGhvdG9yZWFsaXNtIjogewogICAgICAgICJpbnN0cnVjdGlvbiI6ICJEZXRlcm1pbmUgaWYgdGhlIGZvbGxvd2luZyBpbWFnZSBpcyBBSS1nZW5lcmF0ZWQgb3IgcmVhbC4iLAogICAgICAgICJxdWVzdGlvbiI6ICJEb2VzIHRoZSBpbWFnZSBsb29rIGxpa2UgYW4gQUktZ2VuZXJhdGVkIHBob3RvIG9yIGEgcmVhbCBwaG90bz8iLAogICAgICAgICJjaG9pY2VzIjogewogICAgICAgICAgICAwOiAiQUktZ2VuZXJhdGVkIHBob3RvIiwKICAgICAgICAgICAgMTogIlByb2JhYmx5IGFuIEFJLWdlbmVyYXRlZCBwaG90bywgYnV0IHBob3RvcmVhbGlzdGljIiwKICAgICAgICAgICAgMjogIk5ldXRyYWwiLAogICAgICAgICAgICAzOiAiUHJvYmFibHkgYSByZWFsIHBob3RvLCBidXQgd2l0aCBpcnJlZ3VsYXIgdGV4dHVyZXMgYW5kIHNoYXBlcyIsCiAgICAgICAgICAgIDQ6ICJSZWFsIHBob3RvIiwKICAgICAgICB9LAogICAgICAgICJ0ZW1wbGF0ZSI6ICJ7aW5zdHJ1Y3Rpb259XG57aW1hZ2V9XG57cXVlc3Rpb259XG57Y2hvaWNlc30iLAogICAgfSwKfQoKUVVFU1RJT05fVFlQRVNfVE9fRk9MREVSUzogRGljdFtzdHIsIExpc3Rbc3RyXV0gPSB7CiAgICAiYWxpZ25tZW50IjogWwogICAgICAgICJ2aGVsbV9pbWFnZV9jcml0aXF1ZV9hZXN0aGV0aWNzIiwKICAgICAgICAidmhlbG1faW1hZ2VfY3JpdGlxdWVfb3JpZ2luYWxpdHlfc3ViamVjdF9hZXN0aGV0aWNzIiwKICAgICAgICAidmhlbG1faW1hZ2VfY3JpdGlxdWVfc3ViamVjdF9hZXN0aGV0aWNzIiwKICAgICAgICAidmhlbG1faW1hZ2VfY3JpdGlxdWUiLAogICAgXSwKICAgICJjbGVhcl9zdWJqZWN0IjogWyJ2aGVsbV9pbWFnZV9jcml0aXF1ZV9vcmlnaW5hbGl0eV9zdWJqZWN0X2Flc3RoZXRpY3MiLCAidmhlbG1faW1hZ2VfY3JpdGlxdWVfc3ViamVjdF9hZXN0aGV0aWNzIl0sCiAgICAiYWVzdGhldGljcyI6IFsKICAgICAgICAidmhlbG1faW1hZ2VfY3JpdGlxdWVfYWVzdGhldGljcyIsCiAgICAgICAgInZoZWxtX2ltYWdlX2NyaXRpcXVlX29yaWdpbmFsaXR5X3N1YmplY3RfYWVzdGhldGljcyIsCiAgICAgICAgInZoZWxtX2ltYWdlX2NyaXRpcXVlX3N1YmplY3RfYWVzdGhldGljcyIsCiAgICBdLAogICAgIm9yaWdpbmFsaXR5IjogWyJ2aGVsbV9pbWFnZV9jcml0aXF1ZV9vcmlnaW5hbGl0eV9zdWJqZWN0X2Flc3RoZXRpY3MiXSwKICAgICJwaG90b3JlYWxpc20iOiBbInZoZWxtX3Bob3RvcmVhbGlzbSJdLAp9CgpRVUVTVElPTl9UWVBFX1RPX0FOU1dFUl9LRVk6IERpY3Rbc3RyLCBzdHJdID0gewogICAgImFsaWdubWVudCI6ICJBbnN3ZXIuaW1hZ2VfdGV4dF9hbGlnbm1lbnRfaHVtYW4ue2Nob2ljZX0ub24iLAogICAgImNsZWFyX3N1YmplY3QiOiAiQW5zd2VyLmNsZWFyX3N1YmplY3RfaHVtYW4ue2Nob2ljZX0ub24iLAogICAgImFlc3RoZXRpY3MiOiAiQW5zd2VyLmFlc3RoZXRpY3NfaHVtYW4ue2Nob2ljZX0ub24iLAogICAgIm9yaWdpbmFsaXR5IjogIkFuc3dlci5vcmlnaW5hbGl0eV9odW1hbi57Y2hvaWNlfS5vbiIsCiAgICAicGhvdG9yZWFsaXNtIjogIkFuc3dlci5waG90b3JlYWxpc21faHVtYW4ue2Nob2ljZX0ub24iLAp9CgoKZGVmIGdlbmVyYXRlX2hlaW1faHVtYW5fZXZhbF9kYXRhc2V0KHJhd19odW1hbl9ldmFsX3Jlc3VsdHNfcGF0aDogc3RyKToKICAgICIiIgogICAgR2l2ZW4gYSBodW1hbiBldmFsIHJlc3VsdHMgZm9sZGVyIGZyb20gSEVJTSwgZ2VuZXJhdGVzIGEgZGF0YXNldCB0aGF0IGNhbiBiZSB1c2VkIHRvIGV2YWx1YXRlIFZMTXMuCgogICAgdmhlbG1faW1hZ2VfY3JpdGlxdWU6IHJlYXNvbmluZyBhbmQga25vd2xlZGdlIHNjZW5hcmlvcwogICAgICAgIC0gYWxpZ25tZW50CiAgICB2aGVsbV9pbWFnZV9jcml0aXF1ZV9hZXN0aGV0aWNzOiBNU0NPQ08gcGVydHVyYmF0aW9ucwogICAgICAgIC0gYWxpZ25tZW50CiAgICAgICAgLSBhZXN0aGV0aWNzCiAgICB2aGVsbV9pbWFnZV9jcml0aXF1ZV9vcmlnaW5hbGl0eV9zdWJqZWN0X2Flc3RoZXRpY3M6IG9yaWdpbmFsaXR5IHNjZW5hcmlvcwogICAgICAgIC0gYWxpZ25tZW50CiAgICAgICAgLSBvcmlnaW5hbGl0eQogICAgICAgIC0gY2xlYXIgc3ViamVjdAogICAgICAgIC0gYWVzdGhldGljcwogICAgdmhlbG1faW1hZ2VfY3JpdGlxdWVfc3ViamVjdF9hZXN0aGV0aWNzOiBNU0NPQ08sIE1TQ09DTyBhcnQgc3R5bGVzLCBhbGlnbm1lbnQgc2NlbmFyaW9zCiAgICAgICAgLSBhbGlnbm1lbnQKICAgICAgICAtIGNsZWFyIHN1YmplY3QKICAgICAgICAtIGFlc3RoZXRpY3MKICAgIHZoZWxtX3Bob3RvcmVhbGlzbTogTVNDT0NPLCBNU0NPQ08gcGVydHVyYmF0aW9ucwogICAgICAgIC0gcGhvdG9yZWFsaXNtCgogICAgU2VlIGh0dHBzOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9kLzFoQWZmbF9leUJQNzQ2MFZmNTRXeU9wZkk1elZrM0JmWWIxc0dHVDEwX0dvL2VkaXQjZ2lkPTIxMDg4MTY0NzQKICAgIGZvciByZWZlcmVuY2UuCgogICAgaGVpbV9odW1hbl9ldmFsLwogICAgICAgIGltYWdlcy8KICAgICAgICAgICAgb3JnMS8KICAgICAgICAgICAgb3JnMi8KICAgICAgICAgICAgLi4uCiAgICAgICAgcXVlc3Rpb25zLmpzb24KICAgICAgICBhbGlnbm1lbnQuanNvbmwKICAgICAgICBhZXN0aGV0aWNzLmpzb25sCiAgICAgICAgb3JpZ2luYWxpdHkuanNvbmwKICAgICAgICBjbGVhcl9zdWJqZWN0Lmpzb25sCiAgICAgICAgcGhvdG9yZWFsaXNtLmpzb25sCiAgICAiIiIKCiAgICBkZWYgd3JpdGVfb3V0X2V4YW1wbGVzX3RvX2pzb25sKGZpbmFsX2V4YW1wbGVzOiBMaXN0W0RpY3Rbc3RyLCBBbnldXSwgZXhhbXBsZXNfcGF0aDogc3RyKToKICAgICAgICB3aXRoIG9wZW4oZXhhbXBsZXNfcGF0aCwgInciKSBhcyBleGFtcGxlc19maWxlOgogICAgICAgICAgICBmb3IgZmluYWxfZXhhbXBsZSBpbiBmaW5hbF9leGFtcGxlczoKICAgICAgICAgICAgICAgIGV4YW1wbGVzX2ZpbGUud3JpdGUoanNvbi5kdW1wcyhmaW5hbF9leGFtcGxlKSArICJcbiIpCgogICAgb3V0cHV0X3BhdGg6IHN0ciA9ICJoZWltX2h1bWFuX2V2YWwiCiAgICBpZiBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfcGF0aCk6CiAgICAgICAgIyBEZWxldGUgdGhlIGZvbGRlciBpZiBpdCBhbHJlYWR5IGV4aXN0cwogICAgICAgIHNodXRpbC5ybXRyZWUob3V0cHV0X3BhdGgpCiAgICAgICAgaGxvZygiRGVsZXRlZCBleGlzdGluZyBvdXRwdXQgZm9sZGVyLiIpCiAgICBvcy5tYWtlZGlycyhvdXRwdXRfcGF0aCkKICAgIGhsb2coZiJDcmVhdGVkIG91dHB1dCBmb2xkZXIgYXQge291dHB1dF9wYXRofSIpCiAgICBpbWFnZXNfZm9sZGVyOiBzdHIgPSAiaW1hZ2VzIgogICAgaW1hZ2VzX3BhdGg6IHN0ciA9IG9zLnBhdGguam9pbihvdXRwdXRfcGF0aCwgaW1hZ2VzX2ZvbGRlcikKICAgIG9zLm1ha2VkaXJzKGltYWdlc19wYXRoKQoKICAgICMgV3JpdGUgb3V0IHRoZSBxdWVzdGlvbnMgdG8gcXVlc3Rpb25zLmpzb24KICAgIHF1ZXN0aW9uc19wYXRoOiBzdHIgPSBvcy5wYXRoLmpvaW4ob3V0cHV0X3BhdGgsICJxdWVzdGlvbnMuanNvbiIpCiAgICB3aXRoIG9wZW4ocXVlc3Rpb25zX3BhdGgsICJ3IikgYXMgZjoKICAgICAgICBmLndyaXRlKGpzb24uZHVtcHMoUVVFU1RJT05fVFlQRV9UT19JTkZPUywgaW5kZW50PTMpKQogICAgaGxvZyhmIldyb3RlIG91dCBxdWVzdGlvbnMgdG8ge3F1ZXN0aW9uc19wYXRofS5cbiIpCgogICAgZm9yIHF1ZXN0aW9uX3R5cGUsIHF1ZXN0aW9uX2luZm8gaW4gUVVFU1RJT05fVFlQRV9UT19JTkZPUy5pdGVtcygpOgogICAgICAgIHdpdGggaHRyYWNrX2Jsb2NrKGYiUHJvY2Vzc2luZyBxdWVzdGlvbiB0eXBlIHtxdWVzdGlvbl90eXBlfSIpOgoKICAgICAgICAgICAgIyBLZWVwIHRyYWNrIG9mIHRoZSBleGFtcGxlcyBmb3IgdGhpcyBxdWVzdGlvbiB0eXBlLiBVc2UgdGhlIGltYWdlIHVybCBhcyB0aGUga2V5CiAgICAgICAgICAgIGV4YW1wbGVzOiBEaWN0W3N0ciwgRGljdFtzdHIsIEFueV1dID0ge30KCiAgICAgICAgICAgIHF1ZXN0aW9uX2ZvbGRlcnM6IExpc3Rbc3RyXSA9IFFVRVNUSU9OX1RZUEVTX1RPX0ZPTERFUlNbcXVlc3Rpb25fdHlwZV0KICAgICAgICAgICAgaGxvZyhmIlByb2Nlc3Npbmcge2xlbihxdWVzdGlvbl9mb2xkZXJzKX0gcXVlc3Rpb24gZm9sZGVyczogeycsICcuam9pbihxdWVzdGlvbl9mb2xkZXJzKX0uLi5cbiIpCgogICAgICAgICAgICBmb3IgcXVlc3Rpb25fZm9sZGVyIGluIHF1ZXN0aW9uX2ZvbGRlcnM6CiAgICAgICAgICAgICAgICBxdWVzdGlvbl9mb2xkZXJfcGF0aDogc3RyID0gb3MucGF0aC5qb2luKHJhd19odW1hbl9ldmFsX3Jlc3VsdHNfcGF0aCwgcXVlc3Rpb25fZm9sZGVyKQogICAgICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKHF1ZXN0aW9uX2ZvbGRlcl9wYXRoKToKICAgICAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiUXVlc3Rpb24gZm9sZGVyIHtxdWVzdGlvbl9mb2xkZXJfcGF0aH0gZG9lcyBub3QgZXhpc3QuIikKCiAgICAgICAgICAgICAgICB3aXRoIGh0cmFja19ibG9jayhmIlByb2Nlc3NpbmcgcXVlc3Rpb24gZm9sZGVyIHtxdWVzdGlvbl9mb2xkZXJ9Iik6CiAgICAgICAgICAgICAgICAgICAgIyBSZWFkIHRoZSBDU1YgZmlsZXMgaW4gdGhlIGZvbGRlcgogICAgICAgICAgICAgICAgICAgIGZvciBjc3ZfZmlsZV9uYW1lIGluIG9zLmxpc3RkaXIocXVlc3Rpb25fZm9sZGVyX3BhdGgpOgogICAgICAgICAgICAgICAgICAgICAgICBpZiBub3QgY3N2X2ZpbGVfbmFtZS5zdGFydHN3aXRoKCJCYXRjaCIpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICAgICAgICAgIHdpdGggaHRyYWNrX2Jsb2NrKGYiUHJvY2Vzc2luZyBDU1YgZmlsZSB7Y3N2X2ZpbGVfbmFtZX0iKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNzdl9maWxlX3BhdGg6IHN0ciA9IG9zLnBhdGguam9pbihxdWVzdGlvbl9mb2xkZXJfcGF0aCwgY3N2X2ZpbGVfbmFtZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpdGggb3Blbihjc3ZfZmlsZV9wYXRoLCAiciIpIGFzIGNzdl9maWxlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWRlciA9IGNzdi5EaWN0UmVhZGVyKGNzdl9maWxlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciByb3cgaW4gdHFkbShyZWFkZXIpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWFnZV91cmw6IHN0ciA9IHJvd1siSW5wdXQuaW1hZ2UiXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWFnZV9vcmc6IHN0ciA9ICJtc2NvY28iIGlmICJtc2NvY28iIGluIGltYWdlX3VybCBlbHNlIGltYWdlX3VybC5zcGxpdCgiLyIpWy0yXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWFnZV9maWxlX25hbWU6IHN0ciA9IGltYWdlX3VybC5zcGxpdCgiLyIpWy0xXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmdfZm9sZGVyX3BhdGg6IHN0ciA9IG9zLnBhdGguam9pbihpbWFnZXNfcGF0aCwgaW1hZ2Vfb3JnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvcmdfZm9sZGVyX3BhdGgsIGV4aXN0X29rPVRydWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2FsX2ltYWdlX3BhdGg6IHN0ciA9IG9zLnBhdGguam9pbihvcmdfZm9sZGVyX3BhdGgsIGltYWdlX2ZpbGVfbmFtZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG93bmxvYWRfaW1hZ2VfaWZfbm90X2V4aXN0cyhpbWFnZV91cmwsIGxvY2FsX2ltYWdlX3BhdGgpCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaG9pY2VzID0gcXVlc3Rpb25faW5mb1siY2hvaWNlcyJdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvcnJlY3RfYW5zd2VyOiBpbnQgPSAtMQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgY2hvaWNlIGluIGNob2ljZXM6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbnN3ZXJfa2V5OiBzdHIgPSBRVUVTVElPTl9UWVBFX1RPX0FOU1dFUl9LRVlbcXVlc3Rpb25fdHlwZV0uZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNob2ljZT1jaG9pY2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuc3dlciA9IHJvd1thbnN3ZXJfa2V5XQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgYW5zd2VyID09ICJ0cnVlIjoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3JyZWN0X2Fuc3dlciA9IGNob2ljZSAgIyB0eXBlOiBpZ25vcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc3NlcnQgaW50KGNvcnJlY3RfYW5zd2VyKSAhPSAtMSwgZiJDb3VsZCBub3QgZmluZCBjb3JyZWN0IGFuc3dlciBmb3Ige2ltYWdlX3VybH0uIgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVsYXRpdmVfaW1hZ2VfcGF0aDogc3RyID0gb3MucGF0aC5qb2luKGltYWdlc19mb2xkZXIsIGltYWdlX29yZywgaW1hZ2VfZmlsZV9uYW1lKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBpbWFnZV91cmwgbm90IGluIGV4YW1wbGVzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhhbXBsZXNbaW1hZ2VfdXJsXSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaW1hZ2VfcGF0aCI6IHJlbGF0aXZlX2ltYWdlX3BhdGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImh1bWFuX2Fubm90YXRpb25zIjogW2NvcnJlY3RfYW5zd2VyXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICJJbnB1dC5wcm9tcHQiIGluIHJvdzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleGFtcGxlc1tpbWFnZV91cmxdWyJwcm9tcHQiXSA9IHJvd1siSW5wdXQucHJvbXB0Il0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4YW1wbGVzW2ltYWdlX3VybF1bImh1bWFuX2Fubm90YXRpb25zIl0uYXBwZW5kKGNvcnJlY3RfYW5zd2VyKQoKICAgICAgICAgICAgIyBTaHVmZmxlIGV4YW1wbGVzCiAgICAgICAgICAgIHNodWZmbGVkX2V4YW1wbGVzID0gbGlzdChleGFtcGxlcy52YWx1ZXMoKSkKICAgICAgICAgICAgcmFuZG9tLnNodWZmbGUoc2h1ZmZsZWRfZXhhbXBsZXMpCgogICAgICAgICAgICAjIENvbXB1dGUgdGhlIG1lYW4gc2NvcmUgZm9yIGVhY2ggZXhhbXBsZQogICAgICAgICAgICBmb3IgZXhhbXBsZSBpbiBzaHVmZmxlZF9leGFtcGxlczoKICAgICAgICAgICAgICAgIGFzc2VydCBsZW4oZXhhbXBsZVsiaHVtYW5fYW5ub3RhdGlvbnMiXSkgPiA1LCBmIkV4cGVjdGVkIDUgb3IgMTAgaHVtYW4gYW5ub3RhdGlvbnMgZm9yIHtleGFtcGxlfSIKICAgICAgICAgICAgICAgIGV4YW1wbGVbIm1lYW5fc2NvcmUiXSA9IHN0YXRpc3RpY3MuZm1lYW4oZXhhbXBsZVsiaHVtYW5fYW5ub3RhdGlvbnMiXSkKCiAgICAgICAgICAgICAgICAjIENoZWNrIHRoYXQgdGhlIGltYWdlIGV4aXN0cyBhbmQgaXQgaGFzIHNvbWUgcGl4ZWxzCiAgICAgICAgICAgICAgICBsb2NhbF9pbWFnZV9wYXRoID0gb3MucGF0aC5qb2luKG91dHB1dF9wYXRoLCBleGFtcGxlWyJpbWFnZV9wYXRoIl0pCiAgICAgICAgICAgICAgICBhc3NlcnQgKAogICAgICAgICAgICAgICAgICAgIG9zLnBhdGguZXhpc3RzKGxvY2FsX2ltYWdlX3BhdGgpIGFuZCBvcy5wYXRoLmdldHNpemUobG9jYWxfaW1hZ2VfcGF0aCkgPiAwCiAgICAgICAgICAgICAgICApLCBmIkltYWdlIHtsb2NhbF9pbWFnZV9wYXRofSBkb2VzIG5vdCBleGlzdC4iCgogICAgICAgICAgICAjIENyZWF0ZSB0cmFpbiwgdmFsaWQsIGFuZCB0ZXN0IHNwbGl0cyAoODAvMTAvMTApIHJhdGlvCiAgICAgICAgICAgIG51bV9leGFtcGxlczogaW50ID0gbGVuKHNodWZmbGVkX2V4YW1wbGVzKQogICAgICAgICAgICBudW1fdHJhaW5fZXhhbXBsZXM6IGludCA9IGludCgwLjggKiBudW1fZXhhbXBsZXMpCiAgICAgICAgICAgIG51bV92YWxpZF9leGFtcGxlczogaW50ID0gaW50KDAuMSAqIG51bV9leGFtcGxlcykKICAgICAgICAgICAgbnVtX3Rlc3RfZXhhbXBsZXM6IGludCA9IG51bV9leGFtcGxlcyAtIG51bV90cmFpbl9leGFtcGxlcyAtIG51bV92YWxpZF9leGFtcGxlcwogICAgICAgICAgICBhc3NlcnQgbnVtX3RyYWluX2V4YW1wbGVzICsgbnVtX3ZhbGlkX2V4YW1wbGVzICsgbnVtX3Rlc3RfZXhhbXBsZXMgPT0gbnVtX2V4YW1wbGVzCgogICAgICAgICAgICB0cmFpbl9leGFtcGxlczogTGlzdFtEaWN0W3N0ciwgQW55XV0gPSBzaHVmZmxlZF9leGFtcGxlc1s6bnVtX3RyYWluX2V4YW1wbGVzXQogICAgICAgICAgICB2YWxpZF9leGFtcGxlczogTGlzdFtEaWN0W3N0ciwgQW55XV0gPSBzaHVmZmxlZF9leGFtcGxlc1sKICAgICAgICAgICAgICAgIG51bV90cmFpbl9leGFtcGxlcyA6IG51bV90cmFpbl9leGFtcGxlcyArIG51bV92YWxpZF9leGFtcGxlcwogICAgICAgICAgICBdCiAgICAgICAgICAgIHRlc3RfZXhhbXBsZXM6IExpc3RbRGljdFtzdHIsIEFueV1dID0gc2h1ZmZsZWRfZXhhbXBsZXNbbnVtX3RyYWluX2V4YW1wbGVzICsgbnVtX3ZhbGlkX2V4YW1wbGVzIDpdCgogICAgICAgICAgICAjIFdyaXRlIG91dCB0aGUgZXhhbXBsZXMgdG8gSlNPTkwgZmlsZXMKICAgICAgICAgICAgdHJhaW5fZXhhbXBsZXNfcGF0aDogc3RyID0gb3MucGF0aC5qb2luKG91dHB1dF9wYXRoLCBmIntxdWVzdGlvbl90eXBlfV90cmFpbi5qc29ubCIpCiAgICAgICAgICAgIHdyaXRlX291dF9leGFtcGxlc190b19qc29ubCh0cmFpbl9leGFtcGxlcywgdHJhaW5fZXhhbXBsZXNfcGF0aCkKICAgICAgICAgICAgdmFsaWRfZXhhbXBsZXNfcGF0aDogc3RyID0gb3MucGF0aC5qb2luKG91dHB1dF9wYXRoLCBmIntxdWVzdGlvbl90eXBlfV92YWxpZC5qc29ubCIpCiAgICAgICAgICAgIHdyaXRlX291dF9leGFtcGxlc190b19qc29ubCh2YWxpZF9leGFtcGxlcywgdmFsaWRfZXhhbXBsZXNfcGF0aCkKICAgICAgICAgICAgdGVzdF9leGFtcGxlc19wYXRoOiBzdHIgPSBvcy5wYXRoLmpvaW4ob3V0cHV0X3BhdGgsIGYie3F1ZXN0aW9uX3R5cGV9X3Rlc3QuanNvbmwiKQogICAgICAgICAgICB3cml0ZV9vdXRfZXhhbXBsZXNfdG9fanNvbmwodGVzdF9leGFtcGxlcywgdGVzdF9leGFtcGxlc19wYXRoKQoKICAgICAgICAgICAgIyBQcmludCBzdGF0cwogICAgICAgICAgICBobG9nKGYiXG5cbk51bWJlciBvZiB0cmFpbiBleGFtcGxlczoge2xlbih0cmFpbl9leGFtcGxlcyl9IikKICAgICAgICAgICAgaGxvZyhmIk51bWJlciBvZiB2YWxpZCBleGFtcGxlczoge2xlbih2YWxpZF9leGFtcGxlcyl9IikKICAgICAgICAgICAgaGxvZyhmIk51bWJlciBvZiB0ZXN0IGV4YW1wbGVzOiB7bGVuKHRlc3RfZXhhbXBsZXMpfSIpCiAgICAgICAgICAgIGhsb2coZiJUb3RhbCBudW1iZXIgb2YgZXhhbXBsZXM6IHtsZW4oc2h1ZmZsZWRfZXhhbXBsZXMpfVxuXG4iKQoKCmRlZiBkb3dubG9hZF9pbWFnZV9pZl9ub3RfZXhpc3RzKGltYWdlX3VybDogc3RyLCBsb2NhbF9pbWFnZV9wYXRoOiBzdHIpIC0+IE5vbmU6CiAgICBpZiBvcy5wYXRoLmV4aXN0cyhsb2NhbF9pbWFnZV9wYXRoKToKICAgICAgICByZXR1cm4KCiAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldChpbWFnZV91cmwpCiAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSAhPSAyMDA6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIkltYWdlIFVSTCB7aW1hZ2VfdXJsfSByZXR1cm5lZCBzdGF0dXMgY29kZSB7cmVzcG9uc2Uuc3RhdHVzX2NvZGV9LiIpCiAgICB3aXRoIG9wZW4obG9jYWxfaW1hZ2VfcGF0aCwgIndiIikgYXMgZjoKICAgICAgICBmLndyaXRlKHJlc3BvbnNlLmNvbnRlbnQpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoImh1bWFuX2V2YWxfcmVzdWx0c19wYXRoIiwgdHlwZT1zdHIsIGhlbHA9IlBhdGggdG8gaHVtYW4gZXZhbCByZXN1bHRzLiIpCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQogICAgZ2VuZXJhdGVfaGVpbV9odW1hbl9ldmFsX2RhdGFzZXQoYXJncy5odW1hbl9ldmFsX3Jlc3VsdHNfcGF0aCkK
+import argparse
+import csv
+import json
+import os
+import random
+import shutil
+import requests
+import statistics
+from typing import Any, Dict, List
+
+from tqdm import tqdm
+
+from helm.common.hierarchical_logger import hlog, htrack_block
+
+"""
+Script to create the HEIM Human Evaluation dataset for reproducibility of the dataset.
+
+python3 scripts/heim_human_eval.py <Path to raw annotations>
+"""
+
+# Fix seed
+random.seed(0)
+
+
+QUESTION_TYPE_TO_INFOS = {
+    "alignment": {
+        "instruction": "Please answer the question below about the following image and description.",
+        "question": "How well does the image match the description?",
+        "choices": {
+            0: "Does not match at all",
+            1: "Has significant discrepancies",
+            2: "Has several minor discrepancies",
+            3: "Has a few minor discrepancies",
+            4: "Matches exactly",
+        },
+        "template": "{instruction}\n{image}\nDescription: {prompt}\n\n{question}\n{choices}",
+    },
+    "clear_subject": {
+        "instruction": "Please answer the question below about the following image and description.",
+        "question": "Is it clear who the subject(s) of the image is? The subject can be a living being "
+        "(e.g., a dog or a person) or an inanimate body or object (e.g., a mountain).",
+        "choices": {
+            0: "No, it's unclear.",
+            1: "I don't know. It's hard to tell.",
+            2: "Yes, it's clear.",
+        },
+        "template": "{instruction}\n{image}\nDescription: {prompt}\n\n{question}\n{choices}",
+    },
+    "aesthetics": {
+        "instruction": "Please answer the question below about the following image and description.",
+        "question": "How aesthetically pleasing is the image?",
+        "choices": {
+            0: "I find the image ugly.",
+            1: "The image has a lot of flaws, but it's not completely unappealing.",
+            2: "I find the image neither ugly nor aesthetically pleasing.",
+            3: "The image is aesthetically pleasing and nice to look at it.",
+            4: "The image is aesthetically stunning. I can look at it all day.",
+        },
+        "template": "{instruction}\n{image}\nDescription: {prompt}\n\n{question}\n{choices}",
+    },
+    "originality": {
+        "instruction": "Please answer the question below about the following image and description.",
+        "question": "How original is the image, given it was created with the description?",
+        "choices": {
+            0: "I've seen something like this before to the point it's become tiresome.",
+            1: "The image is not really original, but it has some originality to it.",
+            2: "Neutral.",
+            3: "I find the image to be fresh and original.",
+            4: "I find the image to be extremely creative and out of this world.",
+        },
+        "template": "{instruction}\n{image}\nDescription: {prompt}\n\n{question}\n{choices}",
+    },
+    "photorealism": {
+        "instruction": "Determine if the following image is AI-generated or real.",
+        "question": "Does the image look like an AI-generated photo or a real photo?",
+        "choices": {
+            0: "AI-generated photo",
+            1: "Probably an AI-generated photo, but photorealistic",
+            2: "Neutral",
+            3: "Probably a real photo, but with irregular textures and shapes",
+            4: "Real photo",
+        },
+        "template": "{instruction}\n{image}\n{question}\n{choices}",
+    },
+}
+
+QUESTION_TYPES_TO_FOLDERS: Dict[str, List[str]] = {
+    "alignment": [
+        "vhelm_image_critique_aesthetics",
+        "vhelm_image_critique_originality_subject_aesthetics",
+        "vhelm_image_critique_subject_aesthetics",
+        "vhelm_image_critique",
+    ],
+    "clear_subject": ["vhelm_image_critique_originality_subject_aesthetics", "vhelm_image_critique_subject_aesthetics"],
+    "aesthetics": [
+        "vhelm_image_critique_aesthetics",
+        "vhelm_image_critique_originality_subject_aesthetics",
+        "vhelm_image_critique_subject_aesthetics",
+    ],
+    "originality": ["vhelm_image_critique_originality_subject_aesthetics"],
+    "photorealism": ["vhelm_photorealism"],
+}
+
+QUESTION_TYPE_TO_ANSWER_KEY: Dict[str, str] = {
+    "alignment": "Answer.image_text_alignment_human.{choice}.on",
+    "clear_subject": "Answer.clear_subject_human.{choice}.on",
+    "aesthetics": "Answer.aesthetics_human.{choice}.on",
+    "originality": "Answer.originality_human.{choice}.on",
+    "photorealism": "Answer.photorealism_human.{choice}.on",
+}
+
+
+def generate_heim_human_eval_dataset(raw_human_eval_results_path: str):
+    """
+    Given a human eval results folder from HEIM, generates a dataset that can be used to evaluate VLMs.
+
+    vhelm_image_critique: reasoning and knowledge scenarios
+        - alignment
+    vhelm_image_critique_aesthetics: MSCOCO perturbations
+        - alignment
+        - aesthetics
+    vhelm_image_critique_originality_subject_aesthetics: originality scenarios
+        - alignment
+        - originality
+        - clear subject
+        - aesthetics
+    vhelm_image_critique_subject_aesthetics: MSCOCO, MSCOCO art styles, alignment scenarios
+        - alignment
+        - clear subject
+        - aesthetics
+    vhelm_photorealism: MSCOCO, MSCOCO perturbations
+        - photorealism
+
+    See https://docs.google.com/spreadsheets/d/1hAffl_eyBP7460Vf54WyOpfI5zVk3BfYb1sGGT10_Go/edit#gid=2108816474
+    for reference.
+
+    heim_human_eval/
+        images/
+            org1/
+            org2/
+            ...
+        questions.json
+        alignment.jsonl
+        aesthetics.jsonl
+        originality.jsonl
+        clear_subject.jsonl
+        photorealism.jsonl
+    """
+
+    def write_out_examples_to_jsonl(final_examples: List[Dict[str, Any]], examples_path: str):
+        with open(examples_path, "w") as examples_file:
+            for final_example in final_examples:
+                examples_file.write(json.dumps(final_example) + "\n")
+
+    output_path: str = "heim_human_eval"
+    if os.path.exists(output_path):
+        # Delete the folder if it already exists
+        shutil.rmtree(output_path)
+        hlog("Deleted existing output folder.")
+    os.makedirs(output_path)
+    hlog(f"Created output folder at {output_path}")
+    images_folder: str = "images"
+    images_path: str = os.path.join(output_path, images_folder)
+    os.makedirs(images_path)
+
+    # Write out the questions to questions.json
+    questions_path: str = os.path.join(output_path, "questions.json")
+    with open(questions_path, "w") as f:
+        f.write(json.dumps(QUESTION_TYPE_TO_INFOS, indent=3))
+    hlog(f"Wrote out questions to {questions_path}.\n")
+
+    for question_type, question_info in QUESTION_TYPE_TO_INFOS.items():
+        with htrack_block(f"Processing question type {question_type}"):
+
+            # Keep track of the examples for this question type. Use the image url as the key
+            examples: Dict[str, Dict[str, Any]] = {}
+
+            question_folders: List[str] = QUESTION_TYPES_TO_FOLDERS[question_type]
+            hlog(f"Processing {len(question_folders)} question folders: {', '.join(question_folders)}...\n")
+
+            for question_folder in question_folders:
+                question_folder_path: str = os.path.join(raw_human_eval_results_path, question_folder)
+                if not os.path.exists(question_folder_path):
+                    raise ValueError(f"Question folder {question_folder_path} does not exist.")
+
+                with htrack_block(f"Processing question folder {question_folder}"):
+                    # Read the CSV files in the folder
+                    for csv_file_name in os.listdir(question_folder_path):
+                        if not csv_file_name.startswith("Batch"):
+                            continue
+
+                        with htrack_block(f"Processing CSV file {csv_file_name}"):
+                            csv_file_path: str = os.path.join(question_folder_path, csv_file_name)
+                            with open(csv_file_path, "r") as csv_file:
+                                reader = csv.DictReader(csv_file)
+                                for row in tqdm(reader):
+                                    image_url: str = row["Input.image"]
+                                    image_org: str = "mscoco" if "mscoco" in image_url else image_url.split("/")[-2]
+                                    image_file_name: str = image_url.split("/")[-1]
+                                    org_folder_path: str = os.path.join(images_path, image_org)
+                                    os.makedirs(org_folder_path, exist_ok=True)
+                                    local_image_path: str = os.path.join(org_folder_path, image_file_name)
+                                    download_image_if_not_exists(image_url, local_image_path)
+
+                                    choices = question_info["choices"]
+                                    correct_answer: int = -1
+                                    for choice in choices:
+                                        answer_key: str = QUESTION_TYPE_TO_ANSWER_KEY[question_type].format(
+                                            choice=choice
+                                        )
+                                        answer = row[answer_key]
+                                        if answer == "true":
+                                            correct_answer = choice  # type: ignore
+                                            break
+                                    assert int(correct_answer) != -1, f"Could not find correct answer for {image_url}."
+
+                                    relative_image_path: str = os.path.join(images_folder, image_org, image_file_name)
+                                    if image_url not in examples:
+                                        examples[image_url] = {
+                                            "image_path": relative_image_path,
+                                            "human_annotations": [correct_answer],
+                                        }
+                                        if "Input.prompt" in row:
+                                            examples[image_url]["prompt"] = row["Input.prompt"]
+                                    else:
+                                        examples[image_url]["human_annotations"].append(correct_answer)
+
+            # Shuffle examples
+            shuffled_examples = list(examples.values())
+            random.shuffle(shuffled_examples)
+
+            # Compute the mean score for each example
+            for example in shuffled_examples:
+                assert len(example["human_annotations"]) > 5, f"Expected 5 or 10 human annotations for {example}"
+                example["mean_score"] = statistics.fmean(example["human_annotations"])
+
+                # Check that the image exists and it has some pixels
+                local_image_path = os.path.join(output_path, example["image_path"])
+                assert (
+                    os.path.exists(local_image_path) and os.path.getsize(local_image_path) > 0
+                ), f"Image {local_image_path} does not exist."
+
+            # Create train, valid, and test splits (80/10/10) ratio
+            num_examples: int = len(shuffled_examples)
+            num_train_examples: int = int(0.8 * num_examples)
+            num_valid_examples: int = int(0.1 * num_examples)
+            num_test_examples: int = num_examples - num_train_examples - num_valid_examples
+            assert num_train_examples + num_valid_examples + num_test_examples == num_examples
+
+            train_examples: List[Dict[str, Any]] = shuffled_examples[:num_train_examples]
+            valid_examples: List[Dict[str, Any]] = shuffled_examples[
+                num_train_examples : num_train_examples + num_valid_examples
+            ]
+            test_examples: List[Dict[str, Any]] = shuffled_examples[num_train_examples + num_valid_examples :]
+
+            # Write out the examples to JSONL files
+            train_examples_path: str = os.path.join(output_path, f"{question_type}_train.jsonl")
+            write_out_examples_to_jsonl(train_examples, train_examples_path)
+            valid_examples_path: str = os.path.join(output_path, f"{question_type}_valid.jsonl")
+            write_out_examples_to_jsonl(valid_examples, valid_examples_path)
+            test_examples_path: str = os.path.join(output_path, f"{question_type}_test.jsonl")
+            write_out_examples_to_jsonl(test_examples, test_examples_path)
+
+            # Print stats
+            hlog(f"\n\nNumber of train examples: {len(train_examples)}")
+            hlog(f"Number of valid examples: {len(valid_examples)}")
+            hlog(f"Number of test examples: {len(test_examples)}")
+            hlog(f"Total number of examples: {len(shuffled_examples)}\n\n")
+
+
+def download_image_if_not_exists(image_url: str, local_image_path: str) -> None:
+    if os.path.exists(local_image_path):
+        return
+
+    response = requests.get(image_url)
+    if response.status_code != 200:
+        raise ValueError(f"Image URL {image_url} returned status code {response.status_code}.")
+    with open(local_image_path, "wb") as f:
+        f.write(response.content)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("human_eval_results_path", type=str, help="Path to human eval results.")
+    args = parser.parse_args()
+    generate_heim_human_eval_dataset(args.human_eval_results_path)

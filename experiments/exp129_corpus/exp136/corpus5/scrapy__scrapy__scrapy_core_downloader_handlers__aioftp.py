@@ -1,1 +1,280 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFzeW5jaW8KaW1wb3J0IGlwYWRkcmVzcwppbXBvcnQgbG9nZ2luZwppbXBvcnQgc29ja2V0CmltcG9ydCBzc2wKZnJvbSBjb250ZXh0bGliIGltcG9ydCBhc3luY2NvbnRleHRtYW5hZ2VyCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgVFlQRV9DSEVDS0lORywgQW55LCBCaW5hcnlJTywgQ2xhc3NWYXIsIE5hbWVkVHVwbGUKZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVucXVvdGUsIHVybHNwbGl0CgppbXBvcnQgYWlvZnRwCmZyb20gYWlvZnRwLmNvbW1vbiBpbXBvcnQgU1NMU2Vzc2lvbkJvdW5kQ29udGV4dAoKZnJvbSBzY3JhcHkuZXhjZXB0aW9ucyBpbXBvcnQgKAogICAgQ2Fubm90UmVzb2x2ZUhvc3RFcnJvciwKICAgIERvd25sb2FkQ29ubmVjdGlvblJlZnVzZWRFcnJvciwKICAgIERvd25sb2FkRmFpbGVkRXJyb3IsCiAgICBEb3dubG9hZFRpbWVvdXRFcnJvciwKICAgIE5vdENvbmZpZ3VyZWQsCikKZnJvbSBzY3JhcHkuaHR0cCBpbXBvcnQgQm9keUZpbGVSZXNwb25zZSwgSGVhZGVycwpmcm9tIHNjcmFweS51dGlscy5fc3NsIGltcG9ydCBfbG9nX3NzbG9ial9kZWJ1Z19pbmZvLCBfbWFrZV9zc2xfY29udGV4dApmcm9tIHNjcmFweS51dGlscy5odHRwb2JqIGltcG9ydCB1cmxwYXJzZV9jYWNoZWQKCmZyb20gLl9iYXNlX3N0cmVhbWluZyBpbXBvcnQgQmFzZVN0cmVhbWluZ0Rvd25sb2FkSGFuZGxlciwgX0Jhc2VSZXNwb25zZUFyZ3MKCmlmIFRZUEVfQ0hFQ0tJTkc6CiAgICBmcm9tIGNvbGxlY3Rpb25zLmFiYyBpbXBvcnQgQXN5bmNHZW5lcmF0b3IsIEFzeW5jSXRlcmF0b3IKCiAgICBmcm9tIHNjcmFweS5jcmF3bGVyIGltcG9ydCBDcmF3bGVyCiAgICBmcm9tIHNjcmFweS5odHRwIGltcG9ydCBSZXNwb25zZQogICAgZnJvbSBzY3JhcHkuaHR0cC5yZXF1ZXN0IGltcG9ydCBSZXF1ZXN0CgoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgpfVElNRU9VVF9FWENFUFRJT05TOiB0dXBsZVt0eXBlW0V4Y2VwdGlvbl0sIC4uLl0gPSAoVGltZW91dEVycm9yLCkKX0NPTk5FQ1RJT05fUkVGVVNFRF9FWENFUFRJT05TOiB0dXBsZVt0eXBlW0V4Y2VwdGlvbl0sIC4uLl0gPSAoQ29ubmVjdGlvblJlZnVzZWRFcnJvciwpCl9ET1dOTE9BRF9GQUlMRURfRVhDRVBUSU9OUzogdHVwbGVbdHlwZVtFeGNlcHRpb25dLCAuLi5dID0gKAogICAgYWlvZnRwLkFJT0ZUUEV4Y2VwdGlvbiwKICAgIENvbm5lY3Rpb25SZXNldEVycm9yLAopCl9IQVNfU09DS1MgPSBGYWxzZQp0cnk6CiAgICBmcm9tIHB5dGhvbl9zb2NrcyBpbXBvcnQgKAogICAgICAgIFByb3h5Q29ubmVjdGlvbkVycm9yLAogICAgICAgIFByb3h5RXJyb3IsCiAgICAgICAgUHJveHlUaW1lb3V0RXJyb3IsCiAgICAgICAgUHJveHlUeXBlLAogICAgKQogICAgZnJvbSBweXRob25fc29ja3MuYXN5bmNfLmFzeW5jaW8gaW1wb3J0IFByb3h5CgogICAgX0hBU19TT0NLUyA9IFRydWUKICAgIF9USU1FT1VUX0VYQ0VQVElPTlMgKz0gKFByb3h5VGltZW91dEVycm9yLCkKICAgIF9DT05ORUNUSU9OX1JFRlVTRURfRVhDRVBUSU9OUyArPSAoUHJveHlDb25uZWN0aW9uRXJyb3IsKQogICAgX0RPV05MT0FEX0ZBSUxFRF9FWENFUFRJT05TICs9IChQcm94eUVycm9yLCkKZXhjZXB0IEltcG9ydEVycm9yOiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICBwYXNzCgoKY2xhc3MgX1Byb3h5Q2xpZW50KGFpb2Z0cC5DbGllbnQpOgogICAgIiIiQW4gOmNsYXNzOmBhaW9mdHAuQ2xpZW50YCB0aGF0IG9wZW5zIGl0cyBjb25uZWN0aW9ucyB0aHJvdWdoCiAgICAqcHJveHkqLiIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwcm94eTogUHJveHksICoqa3dhcmdzOiBBbnkpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKiprd2FyZ3MpCiAgICAgICAgc2VsZi5fcHJveHkgPSBwcm94eQoKICAgIGFzeW5jIGRlZiBfb3Blbl9jb25uZWN0aW9uKAogICAgICAgIHNlbGYsIGhvc3Q6IHN0ciwgcG9ydDogaW50CiAgICApIC0+IHR1cGxlW2FzeW5jaW8uU3RyZWFtUmVhZGVyLCBhc3luY2lvLlN0cmVhbVdyaXRlcl06CiAgICAgICAgc3NsX2NvbnRleHQgPSBzZWxmLnNzbAogICAgICAgIGlmIHNlbGYuX3N0cmVhbSBpcyBub3QgTm9uZSBhbmQgKAogICAgICAgICAgICBzc2xfb2JqZWN0IDo9IHNlbGYuX3N0cmVhbS53cml0ZXIuZ2V0X2V4dHJhX2luZm8oInNzbF9vYmplY3QiKQogICAgICAgICk6CiAgICAgICAgICAgICMgZGF0YSBjb25uZWN0aW9ucyByZXVzZSB0aGUgVExTIHNlc3Npb24gb2YgdGhlIGNvbnRyb2wgY29ubmVjdGlvbgogICAgICAgICAgICBzc2xfY29udGV4dCA9IFNTTFNlc3Npb25Cb3VuZENvbnRleHQoCiAgICAgICAgICAgICAgICBzc2wuUFJPVE9DT0xfVExTX0NMSUVOVCwKICAgICAgICAgICAgICAgIGNvbnRleHQ9c3NsX29iamVjdC5jb250ZXh0LAogICAgICAgICAgICAgICAgc2Vzc2lvbj1zc2xfb2JqZWN0LnNlc3Npb24sCiAgICAgICAgICAgICkKICAgICAgICBzb2NrID0gYXdhaXQgc2VsZi5fcHJveHkuY29ubmVjdChob3N0LCBwb3J0LCB0aW1lb3V0PXNlbGYuY29ubmVjdGlvbl90aW1lb3V0KQogICAgICAgIHJldHVybiBhd2FpdCBhc3luY2lvLm9wZW5fY29ubmVjdGlvbigKICAgICAgICAgICAgc29jaz1zb2NrLAogICAgICAgICAgICBzc2w9c3NsX2NvbnRleHQgb3IgTm9uZSwKICAgICAgICAgICAgc2VydmVyX2hvc3RuYW1lPWhvc3QgaWYgc3NsX2NvbnRleHQgZWxzZSBOb25lLAogICAgICAgICkKCgpjbGFzcyBfQWlvZnRwUmVzcG9uc2UoTmFtZWRUdXBsZSk6CiAgICBzdGF0dXM6IGludCAgIyBtYXBwZWQgdG8gY29tbW9uIEhUVFAgc3RhdHVzIGNvZGVzCiAgICBjb250cm9sOiBhaW9mdHAuVGhyb3R0bGVTdHJlYW1JTwogICAgZGF0YTogYWlvZnRwLkRhdGFDb25uZWN0aW9uVGhyb3R0bGVTdHJlYW1JTyB8IE5vbmUKCgpjbGFzcyBBaW9mdHBEb3dubG9hZEhhbmRsZXIoQmFzZVN0cmVhbWluZ0Rvd25sb2FkSGFuZGxlcltfQWlvZnRwUmVzcG9uc2VdKToKICAgIGxhenkgPSBUcnVlCiAgICBleHBlcmltZW50YWw6IENsYXNzVmFyW2Jvb2xdID0gVHJ1ZQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBjcmF3bGVyOiBDcmF3bGVyKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKGNyYXdsZXIpCiAgICAgICAgIyBhaW9mdHAgb25seSBzdXBwb3J0cyBwYXNzaXZlIG1vZGUKICAgICAgICBpZiBub3QgY3Jhd2xlci5zZXR0aW5ncy5nZXRib29sKCJGVFBfUEFTU0lWRV9NT0RFIik6CiAgICAgICAgICAgIHJhaXNlIE5vdENvbmZpZ3VyZWQoCiAgICAgICAgICAgICAgICBmInt0eXBlKHNlbGYpLl9fbmFtZV9ffSBkb2VzIG5vdCBzdXBwb3J0IGRpc2FibGluZyBGVFBfUEFTU0lWRV9NT0RFLiIKICAgICAgICAgICAgKQogICAgICAgIHNlbGYuX3VzZXI6IHN0ciA9IGNyYXdsZXIuc2V0dGluZ3NbIkZUUF9VU0VSIl0KICAgICAgICBzZWxmLl9wYXNzd29yZDogc3RyID0gY3Jhd2xlci5zZXR0aW5nc1siRlRQX1BBU1NXT1JEIl0KICAgICAgICBzZWxmLl9zc2xfY29udGV4dDogc3NsLlNTTENvbnRleHQgPSBfbWFrZV9zc2xfY29udGV4dChjcmF3bGVyLnNldHRpbmdzKQoKICAgIEBhc3luY2NvbnRleHRtYW5hZ2VyCiAgICBhc3luYyBkZWYgX21ha2VfcmVxdWVzdCgKICAgICAgICBzZWxmLAogICAgICAgIHJlcXVlc3Q6IFJlcXVlc3QsCiAgICAgICAgdGltZW91dDogZmxvYXQsICAjIG5vcWE6IEFTWU5DMTA5CiAgICApIC0+IEFzeW5jR2VuZXJhdG9yW19BaW9mdHBSZXNwb25zZV06CiAgICAgICAgdXJsID0gdXJscGFyc2VfY2FjaGVkKHJlcXVlc3QpCiAgICAgICAgYXNzZXJ0IHVybC5ob3N0bmFtZQogICAgICAgIGlmIG5vdCByZXF1ZXN0Lm1ldGEuZ2V0KCJmdHBfcGFzc2l2ZSIsIFRydWUpOgogICAgICAgICAgICBsb2dnZXIuZXJyb3IoCiAgICAgICAgICAgICAgICBmInt0eXBlKHNlbGYpLl9fbmFtZV9ffSBkb2VzIG5vdCBzdXBwb3J0IGFjdGl2ZSBtb2RlLCBzbyB0aGUiCiAgICAgICAgICAgICAgICBmIiAnZnRwX3Bhc3NpdmUnIHJlcXVlc3QgbWV0YSBrZXkgd2lsbCBiZSBpZ25vcmVkIGZvciB7cmVxdWVzdH0uIgogICAgICAgICAgICApCgogICAgICAgIGltcGxpY2l0X3RscyA9IHVybC5zY2hlbWUgPT0gImZ0cHMiIGFuZCB1cmwucG9ydCA9PSA5OTAKICAgICAgICBjbGllbnRfa3dhcmdzOiBkaWN0W3N0ciwgQW55XSA9IHsKICAgICAgICAgICAgInNvY2tldF90aW1lb3V0IjogdGltZW91dCwKICAgICAgICAgICAgImNvbm5lY3Rpb25fdGltZW91dCI6IHRpbWVvdXQsCiAgICAgICAgICAgICJzc2wiOiBzZWxmLl9zc2xfY29udGV4dCBpZiBpbXBsaWNpdF90bHMgZWxzZSBOb25lLAogICAgICAgIH0KICAgICAgICBwcm94eSA9IHNlbGYuX2dldF9wcm94eShyZXF1ZXN0KQogICAgICAgIGNsaWVudCA9ICgKICAgICAgICAgICAgX1Byb3h5Q2xpZW50KHByb3h5LCAqKmNsaWVudF9rd2FyZ3MpCiAgICAgICAgICAgIGlmIHByb3h5CiAgICAgICAgICAgIGVsc2UgYWlvZnRwLkNsaWVudCgqKmNsaWVudF9rd2FyZ3MpCiAgICAgICAgKQogICAgICAgIHRyeToKICAgICAgICAgICAgYXdhaXQgY2xpZW50LmNvbm5lY3QodXJsLmhvc3RuYW1lLCB1cmwucG9ydCBvciAyMSkKICAgICAgICAgICAgaWYgdXJsLnNjaGVtZSA9PSAiZnRwcyIgYW5kIG5vdCBpbXBsaWNpdF90bHM6CiAgICAgICAgICAgICAgICBhd2FpdCBjbGllbnQudXBncmFkZV90b190bHMoc2VsZi5fc3NsX2NvbnRleHQpCiAgICAgICAgICAgIGF3YWl0IGNsaWVudC5sb2dpbigKICAgICAgICAgICAgICAgIHJlcXVlc3QubWV0YS5nZXQoImZ0cF91c2VyIiwgc2VsZi5fdXNlciksCiAgICAgICAgICAgICAgICByZXF1ZXN0Lm1ldGEuZ2V0KCJmdHBfcGFzc3dvcmQiLCBzZWxmLl9wYXNzd29yZCksCiAgICAgICAgICAgICkKICAgICAgICAgICAgcmVhZGVyLCB3cml0ZXIgPSBhd2FpdCBjbGllbnQuZ2V0X3Bhc3NpdmVfY29ubmVjdGlvbigpCiAgICAgICAgICAgIGRhdGEgPSBhaW9mdHAuRGF0YUNvbm5lY3Rpb25UaHJvdHRsZVN0cmVhbUlPKAogICAgICAgICAgICAgICAgY2xpZW50LCByZWFkZXIsIHdyaXRlciwgdGhyb3R0bGVzPXt9LCB0aW1lb3V0PXRpbWVvdXQKICAgICAgICAgICAgKQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBwYXRoID0gdW5xdW90ZSh1cmwucGF0aCkKICAgICAgICAgICAgICAgIGNvbW1hbmQgPSAiTkxTVCIgaWYgbm90IHBhdGggb3IgcGF0aC5lbmRzd2l0aCgiLyIpIGVsc2UgIlJFVFIiCiAgICAgICAgICAgICAgICBhd2FpdCBjbGllbnQuY29tbWFuZChmIntjb21tYW5kfSB7cGF0aH0iLnJzdHJpcCgpLCAiMXh4IikKICAgICAgICAgICAgZXhjZXB0IGFpb2Z0cC5TdGF0dXNDb2RlRXJyb3IgYXMgZToKICAgICAgICAgICAgICAgIGRhdGEuY2xvc2UoKQogICAgICAgICAgICAgICAgc3RhdHVzID0gNDA0IGlmIGUucmVjZWl2ZWRfY29kZXNbLTFdLm1hdGNoZXMoIjU1MCIpIGVsc2UgNTAzCiAgICAgICAgICAgICAgICB5aWVsZCBfQWlvZnRwUmVzcG9uc2Uoc3RhdHVzLCBjbGllbnQuc3RyZWFtLCBOb25lKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIHlpZWxkIF9BaW9mdHBSZXNwb25zZSgyMDAsIGNsaWVudC5zdHJlYW0sIGRhdGEpCiAgICAgICAgICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICAgICAgICAgIGRhdGEuY2xvc2UoKQogICAgICAgIGV4Y2VwdCBfVElNRU9VVF9FWENFUFRJT05TIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIERvd25sb2FkVGltZW91dEVycm9yKAogICAgICAgICAgICAgICAgZiJHZXR0aW5nIHtyZXF1ZXN0LnVybH0gdG9vayBsb25nZXIgdGhhbiB7dGltZW91dH0gc2Vjb25kcy4iCiAgICAgICAgICAgICkgZnJvbSBlCiAgICAgICAgZXhjZXB0IF9DT05ORUNUSU9OX1JFRlVTRURfRVhDRVBUSU9OUyBhcyBlOgogICAgICAgICAgICByYWlzZSBEb3dubG9hZENvbm5lY3Rpb25SZWZ1c2VkRXJyb3Ioc3RyKGUpKSBmcm9tIGUKICAgICAgICBleGNlcHQgc29ja2V0LmdhaWVycm9yIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIENhbm5vdFJlc29sdmVIb3N0RXJyb3Ioc3RyKGUpKSBmcm9tIGUKICAgICAgICBleGNlcHQgX0RPV05MT0FEX0ZBSUxFRF9FWENFUFRJT05TIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIERvd25sb2FkRmFpbGVkRXJyb3Ioc3RyKGUpKSBmcm9tIGUKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBjbGllbnQuY2xvc2UoKQoKICAgIGRlZiBfZ2V0X3Byb3h5KHNlbGYsIHJlcXVlc3Q6IFJlcXVlc3QpIC0+IFByb3h5IHwgTm9uZToKICAgICAgICBwcm94eV91cmwgPSBzZWxmLl9leHRyYWN0X3Byb3h5X3VybF93aXRoX2NyZWRzKHJlcXVlc3QpCiAgICAgICAgaWYgbm90IHByb3h5X3VybDoKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICBwYXJ0cyA9IHVybHNwbGl0KHByb3h5X3VybCkKICAgICAgICBpZiBwYXJ0cy5zY2hlbWUgbm90IGluICgic29ja3M0IiwgInNvY2tzNSIpOgogICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKAogICAgICAgICAgICAgICAgZiJ7dHlwZShzZWxmKS5fX25hbWVfX30gb25seSBzdXBwb3J0cyBTT0NLUyBwcm94aWVzLCBnb3Qge3Byb3h5X3VybCFyfS4iCiAgICAgICAgICAgICkKICAgICAgICBpZiBub3QgX0hBU19TT0NLUzogICMgcHJhZ21hOiBubyBjb3ZlcgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICAgICAgZiJTT0NLUyBwcm94eSBzdXBwb3J0IGluIHt0eXBlKHNlbGYpLl9fbmFtZV9ffSByZXF1aXJlcyB0aGUiCiAgICAgICAgICAgICAgICBmIiAnc29ja3MnIGV4dHJhIHRvIGJlIGluc3RhbGxlZC4iCiAgICAgICAgICAgICkKICAgICAgICBhc3NlcnQgcGFydHMuaG9zdG5hbWUKICAgICAgICByZXR1cm4gUHJveHkoCiAgICAgICAgICAgIFByb3h5VHlwZS5TT0NLUzQgaWYgcGFydHMuc2NoZW1lID09ICJzb2NrczQiIGVsc2UgUHJveHlUeXBlLlNPQ0tTNSwKICAgICAgICAgICAgcGFydHMuaG9zdG5hbWUsCiAgICAgICAgICAgIHBhcnRzLnBvcnQgb3IgMTA4MCwKICAgICAgICAgICAgdW5xdW90ZShwYXJ0cy51c2VybmFtZSkgaWYgcGFydHMudXNlcm5hbWUgZWxzZSBOb25lLAogICAgICAgICAgICB1bnF1b3RlKHBhcnRzLnBhc3N3b3JkKSBpZiBwYXJ0cy5wYXNzd29yZCBlbHNlIE5vbmUsCiAgICAgICAgKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbG9jYWxfZmlsZW5hbWUocmVzcG9uc2U6IF9BaW9mdHBSZXNwb25zZSwgcmVxdWVzdDogUmVxdWVzdCkgLT4gYnl0ZXMgfCBOb25lOgogICAgICAgIGlmIHJlc3BvbnNlLmRhdGEgaXMgTm9uZSBvciByZXF1ZXN0Lm1ldGEuZ2V0KCJib2R5X2ZpbGUiKToKICAgICAgICAgICAgcmV0dXJuIE5vbmUKICAgICAgICByZXR1cm4gcmVxdWVzdC5tZXRhLmdldCgiZnRwX2xvY2FsX2ZpbGVuYW1lIikKCiAgICBkZWYgX29wZW5fYm9keV9idWZmZXIoCiAgICAgICAgc2VsZiwgcmVzcG9uc2U6IF9BaW9mdHBSZXNwb25zZSwgcmVxdWVzdDogUmVxdWVzdAogICAgKSAtPiBCaW5hcnlJTzoKICAgICAgICBpZiBsb2NhbF9maWxlbmFtZSA6PSBzZWxmLl9sb2NhbF9maWxlbmFtZShyZXNwb25zZSwgcmVxdWVzdCk6CiAgICAgICAgICAgIHJldHVybiBQYXRoKGxvY2FsX2ZpbGVuYW1lLmRlY29kZSgpKS5vcGVuKCJ3YiIpCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuX29wZW5fYm9keV9idWZmZXIocmVzcG9uc2UsIHJlcXVlc3QpCgogICAgZGVmIF9nZXRfYm9keSgKICAgICAgICBzZWxmLCBidWZmZXI6IEJpbmFyeUlPLCByZXNwb25zZTogX0Fpb2Z0cFJlc3BvbnNlLCByZXF1ZXN0OiBSZXF1ZXN0CiAgICApIC0+IGJ5dGVzOgogICAgICAgIGlmIGxvY2FsX2ZpbGVuYW1lIDo9IHNlbGYuX2xvY2FsX2ZpbGVuYW1lKHJlc3BvbnNlLCByZXF1ZXN0KToKICAgICAgICAgICAgcmV0dXJuIGxvY2FsX2ZpbGVuYW1lCiAgICAgICAgcmV0dXJuIHN1cGVyKCkuX2dldF9ib2R5KGJ1ZmZlciwgcmVzcG9uc2UsIHJlcXVlc3QpCgogICAgYXN5bmMgZGVmIF9yZWFkX3Jlc3BvbnNlKAogICAgICAgIHNlbGYsIHJlc3BvbnNlOiBfQWlvZnRwUmVzcG9uc2UsIHJlcXVlc3Q6IFJlcXVlc3QKICAgICkgLT4gUmVzcG9uc2U6CiAgICAgICAgcmVzdWx0ID0gYXdhaXQgc3VwZXIoKS5fcmVhZF9yZXNwb25zZShyZXNwb25zZSwgcmVxdWVzdCkKICAgICAgICBpZiByZXNwb25zZS5kYXRhIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLl9hZGRfZnRwX2hlYWRlcnMocmVzdWx0LCByZXNwb25zZSwgcmVxdWVzdCkKICAgICAgICByZXR1cm4gcmVzdWx0CgogICAgZGVmIF9hZGRfZnRwX2hlYWRlcnMoCiAgICAgICAgc2VsZiwgcmVzdWx0OiBSZXNwb25zZSwgcmVzcG9uc2U6IF9BaW9mdHBSZXNwb25zZSwgcmVxdWVzdDogUmVxdWVzdAogICAgKSAtPiBOb25lOgogICAgICAgIGlmIGxvY2FsX2ZpbGVuYW1lIDo9IHNlbGYuX2xvY2FsX2ZpbGVuYW1lKHJlc3BvbnNlLCByZXF1ZXN0KToKICAgICAgICAgICAgc2l6ZSA9IFBhdGgobG9jYWxfZmlsZW5hbWUuZGVjb2RlKCkpLnN0YXQoKS5zdF9zaXplCiAgICAgICAgZWxpZiBpc2luc3RhbmNlKHJlc3VsdCwgQm9keUZpbGVSZXNwb25zZSk6CiAgICAgICAgICAgIHNpemUgPSBQYXRoKHJlc3VsdC5ib2R5X2ZpbGUpLnN0YXQoKS5zdF9zaXplCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2l6ZSA9IGxlbihyZXN1bHQuYm9keSkKICAgICAgICByZXN1bHQuaGVhZGVycy51cGRhdGUoeyJMb2NhbCBGaWxlbmFtZSI6IGxvY2FsX2ZpbGVuYW1lIG9yIGIiIiwgIlNpemUiOiBzaXplfSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2V4dHJhY3RfaGVhZGVycyhyZXNwb25zZTogX0Fpb2Z0cFJlc3BvbnNlKSAtPiBIZWFkZXJzOgogICAgICAgIHJldHVybiBIZWFkZXJzKCkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2J1aWxkX2Jhc2VfcmVzcG9uc2VfYXJncygKICAgICAgICByZXNwb25zZTogX0Fpb2Z0cFJlc3BvbnNlLAogICAgICAgIHJlcXVlc3Q6IFJlcXVlc3QsCiAgICAgICAgaGVhZGVyczogSGVhZGVycywKICAgICkgLT4gX0Jhc2VSZXNwb25zZUFyZ3M6CiAgICAgICAgcGVlcm5hbWUgPSByZXNwb25zZS5jb250cm9sLndyaXRlci5nZXRfZXh0cmFfaW5mbygicGVlcm5hbWUiKQogICAgICAgIHNzbF9vYmplY3QgPSByZXNwb25zZS5jb250cm9sLndyaXRlci5nZXRfZXh0cmFfaW5mbygic3NsX29iamVjdCIpCiAgICAgICAgY2VydCA9IHNzbF9vYmplY3QuZ2V0cGVlcmNlcnQoYmluYXJ5X2Zvcm09VHJ1ZSkgaWYgc3NsX29iamVjdCBlbHNlIE5vbmUKICAgICAgICByZXR1cm4gewogICAgICAgICAgICAic3RhdHVzIjogcmVzcG9uc2Uuc3RhdHVzLAogICAgICAgICAgICAidXJsIjogcmVxdWVzdC51cmwsCiAgICAgICAgICAgICJjZXJ0aWZpY2F0ZSI6IGNlcnQsCiAgICAgICAgICAgICJwcm90b2NvbCI6ICJGVFAiLAogICAgICAgICAgICAiaXBfYWRkcmVzcyI6IGlwYWRkcmVzcy5pcF9hZGRyZXNzKHBlZXJuYW1lWzBdKSwKICAgICAgICAgICAgImhlYWRlcnMiOiBoZWFkZXJzLAogICAgICAgIH0KCiAgICBAc3RhdGljbWV0aG9kCiAgICBhc3luYyBkZWYgX2l0ZXJfYm9keV9jaHVua3MocmVzcG9uc2U6IF9BaW9mdHBSZXNwb25zZSkgLT4gQXN5bmNJdGVyYXRvcltieXRlc106CiAgICAgICAgaWYgcmVzcG9uc2UuZGF0YSBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBhc3luYyBmb3IgY2h1bmsgaW4gcmVzcG9uc2UuZGF0YS5pdGVyX2J5X2Jsb2NrKCk6CiAgICAgICAgICAgIHlpZWxkIGNodW5rCiAgICAgICAgIyByYWlzZXMgU3RhdHVzQ29kZUVycm9yIGlmIHRoZSBzZXJ2ZXIgcmVwb3J0cyBhIGZhaWxlZCB0cmFuc2ZlcgogICAgICAgIGF3YWl0IHJlc3BvbnNlLmRhdGEuZmluaXNoKCkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2lzX2RhdGFsb3NzX2V4Y2VwdGlvbihleGM6IEV4Y2VwdGlvbikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gaXNpbnN0YW5jZShleGMsIGFpb2Z0cC5TdGF0dXNDb2RlRXJyb3IpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9pc190aW1lb3V0X2V4Y2VwdGlvbihleGM6IEV4Y2VwdGlvbikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gaXNpbnN0YW5jZShleGMsIFRpbWVvdXRFcnJvcikKCiAgICBkZWYgX2xvZ190bHNfaW5mbyhzZWxmLCByZXNwb25zZTogX0Fpb2Z0cFJlc3BvbnNlLCByZXF1ZXN0OiBSZXF1ZXN0KSAtPiBOb25lOgogICAgICAgIGlmIHNzbF9vYmplY3QgOj0gcmVzcG9uc2UuY29udHJvbC53cml0ZXIuZ2V0X2V4dHJhX2luZm8oInNzbF9vYmplY3QiKToKICAgICAgICAgICAgX2xvZ19zc2xvYmpfZGVidWdfaW5mbyhzc2xfb2JqZWN0KQo=
+from __future__ import annotations
+
+import asyncio
+import ipaddress
+import logging
+import socket
+import ssl
+from contextlib import asynccontextmanager
+from pathlib import Path
+from typing import TYPE_CHECKING, Any, BinaryIO, ClassVar, NamedTuple
+from urllib.parse import unquote, urlsplit
+
+import aioftp
+from aioftp.common import SSLSessionBoundContext
+
+from scrapy.exceptions import (
+    CannotResolveHostError,
+    DownloadConnectionRefusedError,
+    DownloadFailedError,
+    DownloadTimeoutError,
+    NotConfigured,
+)
+from scrapy.http import BodyFileResponse, Headers
+from scrapy.utils._ssl import _log_sslobj_debug_info, _make_ssl_context
+from scrapy.utils.httpobj import urlparse_cached
+
+from ._base_streaming import BaseStreamingDownloadHandler, _BaseResponseArgs
+
+if TYPE_CHECKING:
+    from collections.abc import AsyncGenerator, AsyncIterator
+
+    from scrapy.crawler import Crawler
+    from scrapy.http import Response
+    from scrapy.http.request import Request
+
+
+logger = logging.getLogger(__name__)
+
+_TIMEOUT_EXCEPTIONS: tuple[type[Exception], ...] = (TimeoutError,)
+_CONNECTION_REFUSED_EXCEPTIONS: tuple[type[Exception], ...] = (ConnectionRefusedError,)
+_DOWNLOAD_FAILED_EXCEPTIONS: tuple[type[Exception], ...] = (
+    aioftp.AIOFTPException,
+    ConnectionResetError,
+)
+_HAS_SOCKS = False
+try:
+    from python_socks import (
+        ProxyConnectionError,
+        ProxyError,
+        ProxyTimeoutError,
+        ProxyType,
+    )
+    from python_socks.async_.asyncio import Proxy
+
+    _HAS_SOCKS = True
+    _TIMEOUT_EXCEPTIONS += (ProxyTimeoutError,)
+    _CONNECTION_REFUSED_EXCEPTIONS += (ProxyConnectionError,)
+    _DOWNLOAD_FAILED_EXCEPTIONS += (ProxyError,)
+except ImportError:  # pragma: no cover
+    pass
+
+
+class _ProxyClient(aioftp.Client):
+    """An :class:`aioftp.Client` that opens its connections through
+    *proxy*."""
+
+    def __init__(self, proxy: Proxy, **kwargs: Any):
+        super().__init__(**kwargs)
+        self._proxy = proxy
+
+    async def _open_connection(
+        self, host: str, port: int
+    ) -> tuple[asyncio.StreamReader, asyncio.StreamWriter]:
+        ssl_context = self.ssl
+        if self._stream is not None and (
+            ssl_object := self._stream.writer.get_extra_info("ssl_object")
+        ):
+            # data connections reuse the TLS session of the control connection
+            ssl_context = SSLSessionBoundContext(
+                ssl.PROTOCOL_TLS_CLIENT,
+                context=ssl_object.context,
+                session=ssl_object.session,
+            )
+        sock = await self._proxy.connect(host, port, timeout=self.connection_timeout)
+        return await asyncio.open_connection(
+            sock=sock,
+            ssl=ssl_context or None,
+            server_hostname=host if ssl_context else None,
+        )
+
+
+class _AioftpResponse(NamedTuple):
+    status: int  # mapped to common HTTP status codes
+    control: aioftp.ThrottleStreamIO
+    data: aioftp.DataConnectionThrottleStreamIO | None
+
+
+class AioftpDownloadHandler(BaseStreamingDownloadHandler[_AioftpResponse]):
+    lazy = True
+    experimental: ClassVar[bool] = True
+
+    def __init__(self, crawler: Crawler):
+        super().__init__(crawler)
+        # aioftp only supports passive mode
+        if not crawler.settings.getbool("FTP_PASSIVE_MODE"):
+            raise NotConfigured(
+                f"{type(self).__name__} does not support disabling FTP_PASSIVE_MODE."
+            )
+        self._user: str = crawler.settings["FTP_USER"]
+        self._password: str = crawler.settings["FTP_PASSWORD"]
+        self._ssl_context: ssl.SSLContext = _make_ssl_context(crawler.settings)
+
+    @asynccontextmanager
+    async def _make_request(
+        self,
+        request: Request,
+        timeout: float,  # noqa: ASYNC109
+    ) -> AsyncGenerator[_AioftpResponse]:
+        url = urlparse_cached(request)
+        assert url.hostname
+        if not request.meta.get("ftp_passive", True):
+            logger.error(
+                f"{type(self).__name__} does not support active mode, so the"
+                f" 'ftp_passive' request meta key will be ignored for {request}."
+            )
+
+        implicit_tls = url.scheme == "ftps" and url.port == 990
+        client_kwargs: dict[str, Any] = {
+            "socket_timeout": timeout,
+            "connection_timeout": timeout,
+            "ssl": self._ssl_context if implicit_tls else None,
+        }
+        proxy = self._get_proxy(request)
+        client = (
+            _ProxyClient(proxy, **client_kwargs)
+            if proxy
+            else aioftp.Client(**client_kwargs)
+        )
+        try:
+            await client.connect(url.hostname, url.port or 21)
+            if url.scheme == "ftps" and not implicit_tls:
+                await client.upgrade_to_tls(self._ssl_context)
+            await client.login(
+                request.meta.get("ftp_user", self._user),
+                request.meta.get("ftp_password", self._password),
+            )
+            reader, writer = await client.get_passive_connection()
+            data = aioftp.DataConnectionThrottleStreamIO(
+                client, reader, writer, throttles={}, timeout=timeout
+            )
+            try:
+                path = unquote(url.path)
+                command = "NLST" if not path or path.endswith("/") else "RETR"
+                await client.command(f"{command} {path}".rstrip(), "1xx")
+            except aioftp.StatusCodeError as e:
+                data.close()
+                status = 404 if e.received_codes[-1].matches("550") else 503
+                yield _AioftpResponse(status, client.stream, None)
+            else:
+                try:
+                    yield _AioftpResponse(200, client.stream, data)
+                finally:
+                    data.close()
+        except _TIMEOUT_EXCEPTIONS as e:
+            raise DownloadTimeoutError(
+                f"Getting {request.url} took longer than {timeout} seconds."
+            ) from e
+        except _CONNECTION_REFUSED_EXCEPTIONS as e:
+            raise DownloadConnectionRefusedError(str(e)) from e
+        except socket.gaierror as e:
+            raise CannotResolveHostError(str(e)) from e
+        except _DOWNLOAD_FAILED_EXCEPTIONS as e:
+            raise DownloadFailedError(str(e)) from e
+        finally:
+            client.close()
+
+    def _get_proxy(self, request: Request) -> Proxy | None:
+        proxy_url = self._extract_proxy_url_with_creds(request)
+        if not proxy_url:
+            return None
+        parts = urlsplit(proxy_url)
+        if parts.scheme not in ("socks4", "socks5"):
+            raise NotImplementedError(
+                f"{type(self).__name__} only supports SOCKS proxies, got {proxy_url!r}."
+            )
+        if not _HAS_SOCKS:  # pragma: no cover
+            raise ValueError(
+                f"SOCKS proxy support in {type(self).__name__} requires the"
+                f" 'socks' extra to be installed."
+            )
+        assert parts.hostname
+        return Proxy(
+            ProxyType.SOCKS4 if parts.scheme == "socks4" else ProxyType.SOCKS5,
+            parts.hostname,
+            parts.port or 1080,
+            unquote(parts.username) if parts.username else None,
+            unquote(parts.password) if parts.password else None,
+        )
+
+    @staticmethod
+    def _local_filename(response: _AioftpResponse, request: Request) -> bytes | None:
+        if response.data is None or request.meta.get("body_file"):
+            return None
+        return request.meta.get("ftp_local_filename")
+
+    def _open_body_buffer(
+        self, response: _AioftpResponse, request: Request
+    ) -> BinaryIO:
+        if local_filename := self._local_filename(response, request):
+            return Path(local_filename.decode()).open("wb")
+        return super()._open_body_buffer(response, request)
+
+    def _get_body(
+        self, buffer: BinaryIO, response: _AioftpResponse, request: Request
+    ) -> bytes:
+        if local_filename := self._local_filename(response, request):
+            return local_filename
+        return super()._get_body(buffer, response, request)
+
+    async def _read_response(
+        self, response: _AioftpResponse, request: Request
+    ) -> Response:
+        result = await super()._read_response(response, request)
+        if response.data is not None:
+            self._add_ftp_headers(result, response, request)
+        return result
+
+    def _add_ftp_headers(
+        self, result: Response, response: _AioftpResponse, request: Request
+    ) -> None:
+        if local_filename := self._local_filename(response, request):
+            size = Path(local_filename.decode()).stat().st_size
+        elif isinstance(result, BodyFileResponse):
+            size = Path(result.body_file).stat().st_size
+        else:
+            size = len(result.body)
+        result.headers.update({"Local Filename": local_filename or b"", "Size": size})
+
+    @staticmethod
+    def _extract_headers(response: _AioftpResponse) -> Headers:
+        return Headers()
+
+    @staticmethod
+    def _build_base_response_args(
+        response: _AioftpResponse,
+        request: Request,
+        headers: Headers,
+    ) -> _BaseResponseArgs:
+        peername = response.control.writer.get_extra_info("peername")
+        ssl_object = response.control.writer.get_extra_info("ssl_object")
+        cert = ssl_object.getpeercert(binary_form=True) if ssl_object else None
+        return {
+            "status": response.status,
+            "url": request.url,
+            "certificate": cert,
+            "protocol": "FTP",
+            "ip_address": ipaddress.ip_address(peername[0]),
+            "headers": headers,
+        }
+
+    @staticmethod
+    async def _iter_body_chunks(response: _AioftpResponse) -> AsyncIterator[bytes]:
+        if response.data is None:
+            return
+        async for chunk in response.data.iter_by_block():
+            yield chunk
+        # raises StatusCodeError if the server reports a failed transfer
+        await response.data.finish()
+
+    @staticmethod
+    def _is_dataloss_exception(exc: Exception) -> bool:
+        return isinstance(exc, aioftp.StatusCodeError)
+
+    @staticmethod
+    def _is_timeout_exception(exc: Exception) -> bool:
+        return isinstance(exc, TimeoutError)
+
+    def _log_tls_info(self, response: _AioftpResponse, request: Request) -> None:
+        if ssl_object := response.control.writer.get_extra_info("ssl_object"):
+            _log_sslobj_debug_info(ssl_object)

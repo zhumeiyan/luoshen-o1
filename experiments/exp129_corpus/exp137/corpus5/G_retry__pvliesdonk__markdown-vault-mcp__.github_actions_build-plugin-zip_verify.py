@@ -1,1 +1,95 @@
-IiIiQXNzZXJ0IGFuIHVucGFja2VkIHBsdWdpbiB6aXAgaXMgbG9hZGFibGUgYW5kIHNlbGYtY29udGFpbmVkLgoKUnVuIGJ5IHRoZSBgYnVpbGQtcGx1Z2luLXppcGAgY29tcG9zaXRlIGFjdGlvbiBhZ2FpbnN0IGEgZnJlc2hseSB1bnppcHBlZApjb3B5IG9mIHRoZSBhcnRpZmFjdCBpdCBqdXN0IHBhY2tlZCwgc28gdGhlIGFzc2VydGlvbnMgcmVhZCB0aGUgYnl0ZXMgdGhhdAp3aWxsIGFjdHVhbGx5IHNoaXAgcmF0aGVyIHRoYW4gdGhlIHN0YWdpbmcgdHJlZSB0aGF0IHByb2R1Y2VkIHRoZW0uCgpUaGUgY2hlY2sgdGhhdCBtYXR0ZXJzIGlzIHRoZSBsYXN0IG9uZS4gIEEgYC0tZnJvbWAgcGluIHRoYXQgc3Vydml2ZWQgdGhlCnJlcGluIHN0aWxsIG5hbWVzIGEgUHlQSSB2ZXJzaW9uLCB3aGljaCBpbnN0YWxscyBmaW5lIGZyb20gYSBzdGFibGUgdGFnIGFuZApmYWlscyBvbiBldmVyeSByYyBhbmQgZWRnZSBidWlsZCDigJQgdGhlIGV4YWN0IGNsYXNzIG9mIGZhaWx1cmUgdGhpcyBhc3NldApleGlzdHMgdG8gcmVtb3ZlLCBhbmQgb25lIHRoYXQgbm8gc3RydWN0dXJhbCBjaGVjayBvbiB0aGUgYXJjaGl2ZSB3b3VsZApvdGhlcndpc2UgY2F0Y2guCiIiIgoKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KaW1wb3J0IHBhdGhsaWIKaW1wb3J0IHN5cwoKc3lzLnBhdGguaW5zZXJ0KDAsIHN0cihwYXRobGliLlBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQpKQoKZnJvbSB2ZW5kb3IgaW1wb3J0IFZlbmRvckVycm9yLCBpbnNpZGUsIHNlcnZlcnNfb2YsIHdpdGhpbl9jd2QKClBMVUdJTl9ST09UX1ZBUiA9ICIke0NMQVVERV9QTFVHSU5fUk9PVH0vd2hlZWxzLyIKCgpjbGFzcyBWZXJpZnlFcnJvcihSdW50aW1lRXJyb3IpOgogICAgIiIiQW4gYXJ0aWZhY3QgdGhhdCBtdXN0IG5vdCBzaGlwLiIiIgoKCmRlZiBsYXVuY2hfc3BlYyhtY3A6IGRpY3QpIC0+IHN0cjoKICAgIHNwZWNzID0gW10KICAgIGZvciBzZXJ2ZXIgaW4gc2VydmVyc19vZihtY3ApLnZhbHVlcygpOgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHNlcnZlciwgZGljdCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgYXJncyA9IHNlcnZlci5nZXQoImFyZ3MiLCBbXSkKICAgICAgICBzcGVjcyArPSBbCiAgICAgICAgICAgIGFyZ3NbaSArIDFdCiAgICAgICAgICAgIGZvciBpLCBhcmcgaW4gZW51bWVyYXRlKGFyZ3MpCiAgICAgICAgICAgIGlmIGFyZyA9PSAiLS1mcm9tIiBhbmQgaSArIDEgPCBsZW4oYXJncykKICAgICAgICBdCiAgICBpZiBsZW4oc3BlY3MpICE9IDE6CiAgICAgICAgcmFpc2UgVmVyaWZ5RXJyb3IoCiAgICAgICAgICAgIGYiLm1jcC5qc29uOiBleHBlY3RlZCBleGFjdGx5IG9uZSAnLS1mcm9tJyBzcGVjLCBmb3VuZCB7bGVuKHNwZWNzKX0iCiAgICAgICAgKQogICAgcmV0dXJuIHNwZWNzWzBdCgoKZGVmIG1haW4oYXJndjogbGlzdFtzdHJdKSAtPiBpbnQ6CiAgICBpZiBsZW4oYXJndikgIT0gMzoKICAgICAgICByYWlzZSBWZXJpZnlFcnJvcihmInVzYWdlOiB7YXJndlswXX0gPHVucGFja2VkLWRpcj4gPHZlcnNpb24+IikKICAgIHRyeToKICAgICAgICByb290ID0gcGF0aGxpYi5QYXRoKHdpdGhpbl9jd2QoYXJndlsxXSkpCiAgICBleGNlcHQgVmVuZG9yRXJyb3IgYXMgZXhjOgogICAgICAgIHJhaXNlIFZlcmlmeUVycm9yKHN0cihleGMpKSBmcm9tIGV4YwogICAgdmVyc2lvbiA9IGFyZ3ZbMl0KCiAgICAjIGAuY2xhdWRlLXBsdWdpbi9wbHVnaW4uanNvbmAgYXQgdGhlIGFyY2hpdmUgcm9vdCBpcyB3aGF0IG1ha2VzIHRoZSB6aXAKICAgICMgbG9hZGFibGUgYXQgYWxsIOKAlCBieSBgY2xhdWRlIC0tcGx1Z2luLXVybGAsIGJ5IGAtLXBsdWdpbi1kaXJgLCBhbmQgYnkgYQogICAgIyBtYXJrZXRwbGFjZSBgYXJjaGl2ZWAgc291cmNlLgogICAgbWFuaWZlc3RfcGF0aCA9IHJvb3QgLyAiLmNsYXVkZS1wbHVnaW4iIC8gInBsdWdpbi5qc29uIgogICAgaWYgbm90IG1hbmlmZXN0X3BhdGguaXNfZmlsZSgpOgogICAgICAgIHJhaXNlIFZlcmlmeUVycm9yKCIuY2xhdWRlLXBsdWdpbi9wbHVnaW4uanNvbiBtaXNzaW5nIGZyb20gdGhlIGFyY2hpdmUgcm9vdCIpCiAgICBtY3BfcGF0aCA9IHJvb3QgLyAiLm1jcC5qc29uIgogICAgaWYgbm90IG1jcF9wYXRoLmlzX2ZpbGUoKToKICAgICAgICByYWlzZSBWZXJpZnlFcnJvcigiLm1jcC5qc29uIG1pc3NpbmcgZnJvbSB0aGUgYXJjaGl2ZSIpCgogICAgcGFja2VkID0ganNvbi5sb2FkcyhtYW5pZmVzdF9wYXRoLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkuZ2V0KCJ2ZXJzaW9uIikKICAgIGlmIHBhY2tlZCAhPSB2ZXJzaW9uOgogICAgICAgIHJhaXNlIFZlcmlmeUVycm9yKGYicGx1Z2luLmpzb24gdmVyc2lvbiB7cGFja2VkIXJ9ICE9IHt2ZXJzaW9uIXJ9IikKCiAgICBzcGVjID0gbGF1bmNoX3NwZWMoanNvbi5sb2FkcyhtY3BfcGF0aC5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpKQogICAgaWYgbm90IHNwZWMuc3RhcnRzd2l0aChQTFVHSU5fUk9PVF9WQVIpOgogICAgICAgIHJhaXNlIFZlcmlmeUVycm9yKGYiLS1mcm9tIGlzIG5vdCBwaW5uZWQgdG8gYSB2ZW5kb3JlZCB3aGVlbDoge3NwZWN9IikKICAgICMgU3RyaXAgdGhlIGxlYWRpbmcgJHtDTEFVREVfUExVR0lOX1JPT1R9LyBhbmQgYW55IHRyYWlsaW5nIFtleHRyYXNdLgogICAgcmVsID0gc3BlY1tsZW4oIiR7Q0xBVURFX1BMVUdJTl9ST09UfS8iKSA6XS5zcGxpdCgiWyIsIDEpWzBdCiAgICAjIFRoZSBwYXRoIGNvbWVzIGZyb20gdGhlIGFyY2hpdmUgaXRzZWxmOiBpdCBtdXN0IG5hbWUgYSB3aGVlbCBpbnNpZGUKICAgICMgdGhlIGFyY2hpdmUncyB3aGVlbHMvIGRpcmVjdG9yeSwgbm90IGEgZmlsZSBgLi5gIG9yIGEgbGluayByZWFjaGVzICgjNjk0KS4KICAgIHRyeToKICAgICAgICB0YXJnZXQgPSBpbnNpZGUocm9vdCAvICJ3aGVlbHMiLCByb290IC8gcmVsKQogICAgZXhjZXB0IFZlbmRvckVycm9yIGFzIGV4YzoKICAgICAgICByYWlzZSBWZXJpZnlFcnJvcihmIi0tZnJvbSBuYW1lcyB7cmVsfSwgd2hpY2ggaXMgb3V0c2lkZSB0aGUgYXJjaGl2ZSIpIGZyb20gZXhjCiAgICBpZiB0YXJnZXQuc3VmZml4ICE9ICIud2hsIiBvciBub3QgdGFyZ2V0LmlzX2ZpbGUoKToKICAgICAgICByYWlzZSBWZXJpZnlFcnJvcihmIi0tZnJvbSBuYW1lcyB7cmVsfSwgd2hpY2ggaXMgbm90IGEgd2hlZWwgaW4gdGhlIGFyY2hpdmUiKQoKICAgIHByaW50KGYidmVyaWZ5OiBwbHVnaW4ge3BhY2tlZH0gbGF1bmNoZXMgZnJvbSB7cmVsfSIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICB0cnk6CiAgICAgICAgc3lzLmV4aXQobWFpbihzeXMuYXJndikpCiAgICBleGNlcHQgVmVyaWZ5RXJyb3IgYXMgZXhjOgogICAgICAgIHByaW50KGYidmVyaWZ5OiBSRUZVU0lORyB0byBwdWJsaXNoOiB7ZXhjfSIsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICBzeXMuZXhpdCgxKQo=
+"""Assert an unpacked plugin zip is loadable and self-contained.
+
+Run by the `build-plugin-zip` composite action against a freshly unzipped
+copy of the artifact it just packed, so the assertions read the bytes that
+will actually ship rather than the staging tree that produced them.
+
+The check that matters is the last one.  A `--from` pin that survived the
+repin still names a PyPI version, which installs fine from a stable tag and
+fails on every rc and edge build — the exact class of failure this asset
+exists to remove, and one that no structural check on the archive would
+otherwise catch.
+"""
+
+from __future__ import annotations
+
+import json
+import pathlib
+import sys
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+
+from vendor import VendorError, inside, servers_of, within_cwd
+
+PLUGIN_ROOT_VAR = "${CLAUDE_PLUGIN_ROOT}/wheels/"
+
+
+class VerifyError(RuntimeError):
+    """An artifact that must not ship."""
+
+
+def launch_spec(mcp: dict) -> str:
+    specs = []
+    for server in servers_of(mcp).values():
+        if not isinstance(server, dict):
+            continue
+        args = server.get("args", [])
+        specs += [
+            args[i + 1]
+            for i, arg in enumerate(args)
+            if arg == "--from" and i + 1 < len(args)
+        ]
+    if len(specs) != 1:
+        raise VerifyError(
+            f".mcp.json: expected exactly one '--from' spec, found {len(specs)}"
+        )
+    return specs[0]
+
+
+def main(argv: list[str]) -> int:
+    if len(argv) != 3:
+        raise VerifyError(f"usage: {argv[0]} <unpacked-dir> <version>")
+    try:
+        root = pathlib.Path(within_cwd(argv[1]))
+    except VendorError as exc:
+        raise VerifyError(str(exc)) from exc
+    version = argv[2]
+
+    # `.claude-plugin/plugin.json` at the archive root is what makes the zip
+    # loadable at all — by `claude --plugin-url`, by `--plugin-dir`, and by a
+    # marketplace `archive` source.
+    manifest_path = root / ".claude-plugin" / "plugin.json"
+    if not manifest_path.is_file():
+        raise VerifyError(".claude-plugin/plugin.json missing from the archive root")
+    mcp_path = root / ".mcp.json"
+    if not mcp_path.is_file():
+        raise VerifyError(".mcp.json missing from the archive")
+
+    packed = json.loads(manifest_path.read_text(encoding="utf-8")).get("version")
+    if packed != version:
+        raise VerifyError(f"plugin.json version {packed!r} != {version!r}")
+
+    spec = launch_spec(json.loads(mcp_path.read_text(encoding="utf-8")))
+    if not spec.startswith(PLUGIN_ROOT_VAR):
+        raise VerifyError(f"--from is not pinned to a vendored wheel: {spec}")
+    # Strip the leading ${CLAUDE_PLUGIN_ROOT}/ and any trailing [extras].
+    rel = spec[len("${CLAUDE_PLUGIN_ROOT}/") :].split("[", 1)[0]
+    # The path comes from the archive itself: it must name a wheel inside
+    # the archive's wheels/ directory, not a file `..` or a link reaches (#694).
+    try:
+        target = inside(root / "wheels", root / rel)
+    except VendorError as exc:
+        raise VerifyError(f"--from names {rel}, which is outside the archive") from exc
+    if target.suffix != ".whl" or not target.is_file():
+        raise VerifyError(f"--from names {rel}, which is not a wheel in the archive")
+
+    print(f"verify: plugin {packed} launches from {rel}")
+    return 0
+
+
+if __name__ == "__main__":
+    try:
+        sys.exit(main(sys.argv))
+    except VerifyError as exc:
+        print(f"verify: REFUSING to publish: {exc}", file=sys.stderr)
+        sys.exit(1)

@@ -1,1 +1,77 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24sIG9zCmltcG9ydCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCdBZ2cnKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CgpPVVQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKcGx0LnJjUGFyYW1zWydmb250LnNhbnMtc2VyaWYnXSA9IFsnV2VuUXVhbllpIE1pY3JvIEhlaScsICdEZWphVnUgU2FucyddCnBsdC5yY1BhcmFtc1snYXhlcy51bmljb2RlX21pbnVzJ10gPSBGYWxzZQoKZCA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihPVVQsICdyZXN1bHQxOTcuanNvbicpKSkKYiA9IGpzb24ubG9hZChvcGVuKG9zLnBhdGguam9pbihPVVQsICdyZXN1bHQxOTdiLmpzb24nKSkpCm9yYyA9IGRbJ29yYWNsZSddCgpmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKDIsIDIsIGZpZ3NpemU9KDEzLCA5KSkKQ09MID0geydyZXN0JzogJyM0QzcyQjAnLCAncmVwbGF5JzogJyNERDg0NTInLCAnZHJlYW0nOiAnIzU1QTg2OCcsICdub2lzZSc6ICcjQzQ0RTUyJ30KCiMgLS0tLSBBOiDlm5vmqKHlvI8gLS0tLQphMCA9IGF4WzAsIDBdCm1vZGVzID0gWydyZXN0JywgJ3JlcGxheScsICdkcmVhbScsICdub2lzZSddCnZhbHMgPSBbZFsnQSddW21dWydzdGVhZHknXSBmb3IgbSBpbiBtb2Rlc10KZXJycyA9IFtkWydBJ11bbV1bJ3N0ZCddIGZvciBtIGluIG1vZGVzXQphMC5iYXIoW20gZm9yIG0gaW4gbW9kZXNdLCB2YWxzLCB5ZXJyPWVycnMsIGNvbG9yPVtDT0xbbV0gZm9yIG0gaW4gbW9kZXNdLAogICAgICAgY2Fwc2l6ZT00LCBhbHBoYT0uODUpCmEwLmF4aGxpbmUob3JjLCBscz0nLS0nLCBjPSdrJywgbHc9MS4yKQphMC50ZXh0KDMuNCwgb3JjICsgLjAxMiwgZidvcmFjbGUge29yY30nLCBoYT0ncmlnaHQnLCBmb250c2l6ZT05KQphMC5zZXRfeWxhYmVsKCfnqLPmgIHpooTmtYvor6/lt64gTUFF77yI6LaK5L2O6LaK5aW977yJJykKYTAuc2V0X3RpdGxlKCdBICDnprvnur/mnJ/lm5vnp43ov4fms5VcbuWBmuaipiDiiaAg5pu05aW9JywgZm9udHNpemU9MTEpCmZvciBpLCB2IGluIGVudW1lcmF0ZSh2YWxzKToKICAgIGEwLnRleHQoaSwgdiArIC4wMTIsIGYne3Y6LjRmfScsIGhhPSdjZW50ZXInLCBmb250c2l6ZT05KQoKIyAtLS0tIFExOiDliYLph4/lj43lupQgLS0tLQphMSA9IGF4WzAsIDFdCnExID0gW3IgZm9yIHIgaW4gYlsnUTEnXSBpZiBpc2luc3RhbmNlKHJbJ3BfYmFkJ10sIGZsb2F0KV0KcTEuc29ydChrZXk9bGFtYmRhIHI6IHJbJ3BfYmFkJ10pCnhzID0gW3JbJ3BfYmFkJ10gZm9yIHIgaW4gcTFdCnlzID0gW3JbJ21hZSddIGZvciByIGluIHExXQpzcyA9IFtyLmdldCgnc3RkJywgMCkgZm9yIHIgaW4gcTFdCmExLmVycm9yYmFyKHhzLCB5cywgeWVycj1zcywgZm10PSdvLScsIGM9JyM1NUE4NjgnLCBjYXBzaXplPTMsIG1zPTYpCmExLnNldF94c2NhbGUoJ3N5bWxvZycsIGxpbnRocmVzaD0wLjAyKQphMS5zZXRfeGxhYmVsKCfph43mlL7moLfmnKzkuK0i5Yqo5Yqb5a2m6ZSZ6K+vIueahOavlOS+iyBwJykKYTEuc2V0X3lsYWJlbCgnTUFFJykKYTEuc2V0X3RpdGxlKCdRMSAg6I2S6K+e55qE5Luj5Lu377ya6ZSZ6K+v6LaK5aSa6LaK56yoXG7vvIjnq6/ngrkgMOKGkjAuOTIwLCAx4oaSMS4wMTLvvIknLCBmb250c2l6ZT0xMSkKYTEuZ3JpZChhbHBoYT0uMykKCiMgLS0tLSBRMjog5Zyo57q/56iA57y65bqmIC0tLS0KYTIgPSBheFsxLCAwXQpxMiA9IGJbJ1EyJ10KeHMgPSBbclsnTl9vbiddIGZvciByIGluIHEyXQpmb3IgbSBpbiBbJ3Jlc3QnLCAncmVwbGF5JywgJ2RyZWFtJ106CiAgICBhMi5wbG90KHhzLCBbclttXSBmb3IgciBpbiBxMl0sICdvLScsIGM9Q09MW21dLCBsYWJlbD1tLCBtcz01KQphMi5heGhsaW5lKG9yYywgbHM9Jy0tJywgYz0naycsIGx3PTEpCmEyLnNldF94bGFiZWwoJ+avj+WkqeWcqOe6v+atpeaVsCBOX29uJykKYTIuc2V0X3lsYWJlbCgnTUFFJykKYTIuc2V0X3RpdGxlKCdRMiAg5Zyo57q/6LaK5LmF6LaK556O77yI5oSf55+l55ay5Yqz5aSN546wIDE5Ne+8iVxu5LiUIHJlc3Qg5Yeg5LmO5oC75piv5pyA5LyYJywgZm9udHNpemU9MTEpCmEyLmxlZ2VuZChmb250c2l6ZT05KQphMi5ncmlkKGFscGhhPS4zKQoKIyAtLS0tIFEzOiDnprvnur/pooTnrpcgLS0tLQphMyA9IGF4WzEsIDFdCnEzID0gYlsnUTMnXQp4cyA9IFtyWydCX29mZiddIGZvciByIGluIHEzXQphMy5wbG90KHhzLCBbclsncmVwbGF5J10gZm9yIHIgaW4gcTNdLCAnby0nLCBjPUNPTFsncmVwbGF5J10sIGxhYmVsPSdyZXBsYXkg5L+d55yf6YeN5pS+JywgbXM9NSkKYTMucGxvdCh4cywgW3JbJ2RyZWFtJ10gZm9yIHIgaW4gcTNdLCAncy0nLCBjPUNPTFsnZHJlYW0nXSwgbGFiZWw9J2RyZWFtIOmHjee7hOmHjeaUvicsIG1zPTUpCmEzLmF4aGxpbmUob3JjLCBscz0nLS0nLCBjPSdrJywgbHc9MSkKYTMuc2V0X3hsYWJlbCgn56a757q/6YeN5pS+6aKE566XIEJfb2Zm77yI5q2l77yJJykKYTMuc2V0X3lsYWJlbCgnTUFFJykKYTMuc2V0X3RpdGxlKCdRMyAg6YeN5pS+6LaK5aSa6LaK5beuXG7nprvnur/pooTnrpcgMCDml7blj43ogIzmmK/mnIDkvJgnLCBmb250c2l6ZT0xMSkKYTMubGVnZW5kKGZvbnRzaXplPTkpCmEzLmdyaWQoYWxwaGE9LjMpCgpwbHQuc3VwdGl0bGUoJzE5NyAg5Yqo5oCB5o2V5o2JICsg6K6w5b+GICsg5Yaz562WICsg5qKm5aKD77yITUFFIOi2iuS9jui2iuWlve+8iScsCiAgICAgICAgICAgICBmb250c2l6ZT0xMywgeT0wLjk4NSkKcGx0LnRpZ2h0X2xheW91dChyZWN0PVswLCAwLCAxLCAwLjk2NV0pCnAgPSBvcy5wYXRoLmpvaW4oT1VULCAncmVuZGVyMTk3LnBuZycpCnBsdC5zYXZlZmlnKHAsIGRwaT0xMzApCnByaW50KCdzYXZlZCcsIHAsIG9zLnBhdGguZ2V0c2l6ZShwKSwgJ2J5dGVzJykK
+# -*- coding: utf-8 -*-
+import json, os
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+plt.rcParams['font.sans-serif'] = ['WenQuanYi Micro Hei', 'DejaVu Sans']
+plt.rcParams['axes.unicode_minus'] = False
+
+d = json.load(open(os.path.join(OUT, 'result197.json')))
+b = json.load(open(os.path.join(OUT, 'result197b.json')))
+orc = d['oracle']
+
+fig, ax = plt.subplots(2, 2, figsize=(13, 9))
+COL = {'rest': '#4C72B0', 'replay': '#DD8452', 'dream': '#55A868', 'noise': '#C44E52'}
+
+# ---- A: 四模式 ----
+a0 = ax[0, 0]
+modes = ['rest', 'replay', 'dream', 'noise']
+vals = [d['A'][m]['steady'] for m in modes]
+errs = [d['A'][m]['std'] for m in modes]
+a0.bar([m for m in modes], vals, yerr=errs, color=[COL[m] for m in modes],
+       capsize=4, alpha=.85)
+a0.axhline(orc, ls='--', c='k', lw=1.2)
+a0.text(3.4, orc + .012, f'oracle {orc}', ha='right', fontsize=9)
+a0.set_ylabel('稳态预测误差 MAE（越低越好）')
+a0.set_title('A  离线期四种过法\n做梦 ≠ 更好', fontsize=11)
+for i, v in enumerate(vals):
+    a0.text(i, v + .012, f'{v:.4f}', ha='center', fontsize=9)
+
+# ---- Q1: 剂量反应 ----
+a1 = ax[0, 1]
+q1 = [r for r in b['Q1'] if isinstance(r['p_bad'], float)]
+q1.sort(key=lambda r: r['p_bad'])
+xs = [r['p_bad'] for r in q1]
+ys = [r['mae'] for r in q1]
+ss = [r.get('std', 0) for r in q1]
+a1.errorbar(xs, ys, yerr=ss, fmt='o-', c='#55A868', capsize=3, ms=6)
+a1.set_xscale('symlog', linthresh=0.02)
+a1.set_xlabel('重放样本中"动力学错误"的比例 p')
+a1.set_ylabel('MAE')
+a1.set_title('Q1  荒诞的代价：错误越多越笨\n（端点 0→0.920, 1→1.012）', fontsize=11)
+a1.grid(alpha=.3)
+
+# ---- Q2: 在线稀缺度 ----
+a2 = ax[1, 0]
+q2 = b['Q2']
+xs = [r['N_on'] for r in q2]
+for m in ['rest', 'replay', 'dream']:
+    a2.plot(xs, [r[m] for r in q2], 'o-', c=COL[m], label=m, ms=5)
+a2.axhline(orc, ls='--', c='k', lw=1)
+a2.set_xlabel('每天在线步数 N_on')
+a2.set_ylabel('MAE')
+a2.set_title('Q2  在线越久越瞎（感知疲劳复现 195）\n且 rest 几乎总是最优', fontsize=11)
+a2.legend(fontsize=9)
+a2.grid(alpha=.3)
+
+# ---- Q3: 离线预算 ----
+a3 = ax[1, 1]
+q3 = b['Q3']
+xs = [r['B_off'] for r in q3]
+a3.plot(xs, [r['replay'] for r in q3], 'o-', c=COL['replay'], label='replay 保真重放', ms=5)
+a3.plot(xs, [r['dream'] for r in q3], 's-', c=COL['dream'], label='dream 重组重放', ms=5)
+a3.axhline(orc, ls='--', c='k', lw=1)
+a3.set_xlabel('离线重放预算 B_off（步）')
+a3.set_ylabel('MAE')
+a3.set_title('Q3  重放越多越差\n离线预算 0 时反而是最优', fontsize=11)
+a3.legend(fontsize=9)
+a3.grid(alpha=.3)
+
+plt.suptitle('197  动态捕捉 + 记忆 + 决策 + 梦境（MAE 越低越好）',
+             fontsize=13, y=0.985)
+plt.tight_layout(rect=[0, 0, 1, 0.965])
+p = os.path.join(OUT, 'render197.png')
+plt.savefig(p, dpi=130)
+print('saved', p, os.path.getsize(p), 'bytes')

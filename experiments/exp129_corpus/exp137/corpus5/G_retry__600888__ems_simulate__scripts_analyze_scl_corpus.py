@@ -1,1 +1,68 @@
-IiIi55Sf5oiQIElDRC9DSUQg6buE6YeR5qC35L6L5riF5Y2V44CB5ZOI5biM5LiO57uT5p6E5pGY6KaB44CCIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBDb3VudGVyCmZyb20gaGFzaGxpYiBpbXBvcnQgc2hhMjU2CmltcG9ydCBqc29uCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAppbXBvcnQgc3lzCmltcG9ydCB4bWwuZXRyZWUuRWxlbWVudFRyZWUgYXMgRVQKCkVYVEVOU0lPTlMgPSB7Ii5pY2QiLCAiLmNpZCIsICIuc2NkIiwgIi5paWQiLCAiLnNlZCIsICIuc3NkIn0KCgpkZWYgbG9jYWxfbmFtZSh0YWc6IHN0cikgLT4gc3RyOgogICAgcmV0dXJuIHRhZy5yc3BsaXQoIn0iLCAxKVstMV0KCgpkZWYgYW5hbHl6ZShyb290OiBQYXRoKSAtPiBkaWN0OgogICAgZmlsZXMgPSBzb3J0ZWQocGF0aCBmb3IgcGF0aCBpbiByb290LnJnbG9iKCIqIikgaWYgcGF0aC5pc19maWxlKCkgYW5kIHBhdGguc3VmZml4Lmxvd2VyKCkgaW4gRVhURU5TSU9OUykKICAgIGhhc2hlczogQ291bnRlcltzdHJdID0gQ291bnRlcigpCiAgICBlbnRyaWVzID0gW10KICAgIGZvciBwYXRoIGluIGZpbGVzOgogICAgICAgIGNvbnRlbnQgPSBwYXRoLnJlYWRfYnl0ZXMoKQogICAgICAgIGRpZ2VzdCA9IHNoYTI1Nihjb250ZW50KS5oZXhkaWdlc3QoKQogICAgICAgIGhhc2hlc1tkaWdlc3RdICs9IDEKICAgICAgICBlbnRyeSA9IHsKICAgICAgICAgICAgInBhdGgiOiBzdHIocGF0aC5yZWxhdGl2ZV90byhyb290KSkucmVwbGFjZSgiXFwiLCAiLyIpLAogICAgICAgICAgICAiZ3JvdXAiOiBwYXRoLnJlbGF0aXZlX3RvKHJvb3QpLnBhcnRzWzBdIGlmIGxlbihwYXRoLnJlbGF0aXZlX3RvKHJvb3QpLnBhcnRzKSA+IDEgZWxzZSAicm9vdCIsCiAgICAgICAgICAgICJleHRlbnNpb24iOiBwYXRoLnN1ZmZpeC5sb3dlcigpLAogICAgICAgICAgICAiYnl0ZXMiOiBsZW4oY29udGVudCksCiAgICAgICAgICAgICJzaGEyNTYiOiBkaWdlc3QsCiAgICAgICAgICAgICJzdGF0dXMiOiAidmFsaWQiLAogICAgICAgIH0KICAgICAgICB0cnk6CiAgICAgICAgICAgIGRvY3VtZW50ID0gRVQuZnJvbXN0cmluZyhjb250ZW50KQogICAgICAgICAgICBjb3VudHMgPSBDb3VudGVyKGxvY2FsX25hbWUoZWxlbWVudC50YWcpIGZvciBlbGVtZW50IGluIGRvY3VtZW50Lml0ZXIoKSkKICAgICAgICAgICAgZW50cnlbIm5hbWVzcGFjZSJdID0gZG9jdW1lbnQudGFnLnNwbGl0KCJ9IiwgMSlbMF0ubHN0cmlwKCJ7IikgaWYgIn0iIGluIGRvY3VtZW50LnRhZyBlbHNlICIiCiAgICAgICAgICAgIGVudHJ5WyJ0b3BfbGV2ZWwiXSA9IFtsb2NhbF9uYW1lKGNoaWxkLnRhZykgZm9yIGNoaWxkIGluIGRvY3VtZW50XQogICAgICAgICAgICBlbnRyeVsiY291bnRzIl0gPSBkaWN0KHNvcnRlZChjb3VudHMuaXRlbXMoKSkpCiAgICAgICAgZXhjZXB0IEVULlBhcnNlRXJyb3IgYXMgZXhjOgogICAgICAgICAgICBlbnRyeVsic3RhdHVzIl0gPSAiZGFtYWdlZCIKICAgICAgICAgICAgZW50cnlbImVycm9yIl0gPSBzdHIoZXhjKQogICAgICAgIGVudHJpZXMuYXBwZW5kKGVudHJ5KQogICAgdmFsaWQgPSBzdW0oZW50cnlbInN0YXR1cyJdID09ICJ2YWxpZCIgZm9yIGVudHJ5IGluIGVudHJpZXMpCiAgICByZXR1cm4gewogICAgICAgICJmb3JtYXRfdmVyc2lvbiI6IDEsCiAgICAgICAgInJvb3QiOiBzdHIocm9vdCksCiAgICAgICAgInN1bW1hcnkiOiB7CiAgICAgICAgICAgICJmaWxlcyI6IGxlbihlbnRyaWVzKSwKICAgICAgICAgICAgInZhbGlkIjogdmFsaWQsCiAgICAgICAgICAgICJkYW1hZ2VkIjogbGVuKGVudHJpZXMpIC0gdmFsaWQsCiAgICAgICAgICAgICJ1bmlxdWVfYmluYXJ5X2ZpbGVzIjogbGVuKGhhc2hlcyksCiAgICAgICAgICAgICJkdXBsaWNhdGVfZ3JvdXBzIjogc29ydGVkKChjb3VudCBmb3IgY291bnQgaW4gaGFzaGVzLnZhbHVlcygpIGlmIGNvdW50ID4gMSksIHJldmVyc2U9VHJ1ZSksCiAgICAgICAgfSwKICAgICAgICAiZmlsZXMiOiBlbnRyaWVzLAogICAgfQoKCmRlZiBtYWluKCkgLT4gaW50OgogICAgc291cmNlID0gUGF0aChzeXMuYXJndlsxXSBpZiBsZW4oc3lzLmFyZ3YpID4gMSBlbHNlICJ0bXAvdGVzdGljZCIpLnJlc29sdmUoKQogICAgcmVzdWx0ID0gYW5hbHl6ZShzb3VyY2UpCiAgICBwcmludChqc29uLmR1bXBzKHJlc3VsdCwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICByYWlzZSBTeXN0ZW1FeGl0KG1haW4oKSkK
+"""生成 ICD/CID 黄金样例清单、哈希与结构摘要。"""
+
+from __future__ import annotations
+
+from collections import Counter
+from hashlib import sha256
+import json
+from pathlib import Path
+import sys
+import xml.etree.ElementTree as ET
+
+EXTENSIONS = {".icd", ".cid", ".scd", ".iid", ".sed", ".ssd"}
+
+
+def local_name(tag: str) -> str:
+    return tag.rsplit("}", 1)[-1]
+
+
+def analyze(root: Path) -> dict:
+    files = sorted(path for path in root.rglob("*") if path.is_file() and path.suffix.lower() in EXTENSIONS)
+    hashes: Counter[str] = Counter()
+    entries = []
+    for path in files:
+        content = path.read_bytes()
+        digest = sha256(content).hexdigest()
+        hashes[digest] += 1
+        entry = {
+            "path": str(path.relative_to(root)).replace("\\", "/"),
+            "group": path.relative_to(root).parts[0] if len(path.relative_to(root).parts) > 1 else "root",
+            "extension": path.suffix.lower(),
+            "bytes": len(content),
+            "sha256": digest,
+            "status": "valid",
+        }
+        try:
+            document = ET.fromstring(content)
+            counts = Counter(local_name(element.tag) for element in document.iter())
+            entry["namespace"] = document.tag.split("}", 1)[0].lstrip("{") if "}" in document.tag else ""
+            entry["top_level"] = [local_name(child.tag) for child in document]
+            entry["counts"] = dict(sorted(counts.items()))
+        except ET.ParseError as exc:
+            entry["status"] = "damaged"
+            entry["error"] = str(exc)
+        entries.append(entry)
+    valid = sum(entry["status"] == "valid" for entry in entries)
+    return {
+        "format_version": 1,
+        "root": str(root),
+        "summary": {
+            "files": len(entries),
+            "valid": valid,
+            "damaged": len(entries) - valid,
+            "unique_binary_files": len(hashes),
+            "duplicate_groups": sorted((count for count in hashes.values() if count > 1), reverse=True),
+        },
+        "files": entries,
+    }
+
+
+def main() -> int:
+    source = Path(sys.argv[1] if len(sys.argv) > 1 else "tmp/testicd").resolve()
+    result = analyze(source)
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

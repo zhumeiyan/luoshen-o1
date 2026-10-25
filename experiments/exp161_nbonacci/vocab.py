@@ -1,1 +1,42 @@
-aW1wb3J0IGpzb24sIHJhbmRvbSwgbWF0aApmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZWZhdWx0ZGljdAoKdHh0ID0gb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCcsIGVuY29kaW5nPSd1dGYtOCcpLnJlYWQoKQpzID0gJycuam9pbihjaCBmb3IgY2ggaW4gdHh0IGlmIG5vdCBjaC5pc3NwYWNlKCkpCgpkZWYgY2xzKGNoKToKICAgIGlmICdcdTRlMDAnIDw9IGNoIDw9ICdcdTlmZmYnOiByZXR1cm4gJ0gnICAgIyDmsYnlrZcKICAgIGlmIGNoLmlzZGlnaXQoKTogcmV0dXJuICdEJyAgICAgICAgICAgICAgICAgICMg5pWw5a2XCiAgICBpZiBjaC5pc2FscGhhKCk6IHJldHVybiAnQScgICAgICAgICAgICAgICAgICAjIOaLieS4geWtl+avjQogICAgcmV0dXJuICdPJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDlhbbku5Yv5qCH54K5CnMyID0gJycuam9pbihjbHMoYykgZm9yIGMgaW4gcykKcHJpbnQoImNsYXNzIHN0cmVhbSAoZmlyc3QgNjApOiIsIHMyWzo2MF0pCk49bGVuKHMyKTsgVj1sZW4oc2V0KHMyKSkKcHJpbnQoZiJjb2Fyc2U6IE49e059IFY9e1Z9ICBrKl90aGVvcnk9bG9nTi9sb2dWPXttYXRoLmxvZyhOKS9tYXRoLmxvZyhWKTouM2Z9IikKcHJpbnQoZiJmaW5lICA6IE49e2xlbihzKX0gVj17bGVuKHNldChzKSl9ICBrKl90aGVvcnk9e21hdGgubG9nKGxlbihzKSkvbWF0aC5sb2cobGVuKHNldChzKSkpOi4zZn0iKQoKcm5nPXJhbmRvbS5SYW5kb20oMykKaWR4PWxpc3QocmFuZ2UoTi0xNSkpOyBybmcuc2h1ZmZsZShpZHgpCmN1dD1pbnQobGVuKGlkeCkqMC44KTsgdHI9c2V0KGlkeFs6Y3V0XSk7IHRlPWlkeFtjdXQ6XQpwcmludChmIlxueydrJzo+M30geyd0ZXN0X2FjYyc6Pjl9IHsnY292ZXJhZ2UnOj45fSB7J2N0eF90eXBlcyc6PjEwfSIpCm91dD17fQpmb3IgayBpbiByYW5nZSgxLDE0KToKICAgIGNudD1kZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGludCkpCiAgICBmb3IgaSBpbiB0cjogY250W3MyW2k6aStrXV1bczJbaStrXV0rPTEKICAgIGdsYj1kZWZhdWx0ZGljdChpbnQpCiAgICBmb3IgaSBpbiB0cjogZ2xiW3MyW2kra11dKz0xCiAgICBiZXN0PW1heChnbGIsa2V5PWdsYi5nZXQpCiAgICBoaXQ9MDtjb3Y9MAogICAgZm9yIGkgaW4gdGU6CiAgICAgICAgY3R4PXMyW2k6aStrXQogICAgICAgIGlmIGN0eCBpbiBjbnQ6CiAgICAgICAgICAgIGNvdis9MQogICAgICAgICAgICBwPW1heChjbnRbY3R4XSxrZXk9Y250W2N0eF0uZ2V0KQogICAgICAgIGVsc2U6IHA9YmVzdAogICAgICAgIGlmIHA9PXMyW2kra106IGhpdCs9MQogICAgb3V0W2tdPWhpdC9sZW4odGUpCiAgICBwcmludChmIntrOj4zfSB7b3V0W2tdOj45LjRmfSB7Y292L2xlbih0ZSk6PjkuNGZ9IHtsZW4oY250KTo+MTB9IikKYmVzdGs9bWF4KG91dCxrZXk9b3V0LmdldCkKcHJpbnQoZiJcbmJlc3Rfayhjb2Fyc2UgVj17Vn0pID0ge2Jlc3RrfSAgIHZzIGJlc3RfayhmaW5lIFY9MTY0OCkgPSAyIikKanNvbi5kdW1wKGRpY3QoVj1WLE49Tixrc3Rhcl90aGVvcnk9bWF0aC5sb2coTikvbWF0aC5sb2coViksYmVzdF9rPWJlc3RrLGFjYz1vdXQpLAogICAgICAgICAgb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTYxX25ib25hY2NpL3ZvY2FiLmpzb24nLCd3JyksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQo=
+import json, random, math
+from collections import defaultdict
+
+txt = open('/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md', encoding='utf-8').read()
+s = ''.join(ch for ch in txt if not ch.isspace())
+
+def cls(ch):
+    if '\u4e00' <= ch <= '\u9fff': return 'H'   # 汉字
+    if ch.isdigit(): return 'D'                  # 数字
+    if ch.isalpha(): return 'A'                  # 拉丁字母
+    return 'O'                                   # 其他/标点
+s2 = ''.join(cls(c) for c in s)
+print("class stream (first 60):", s2[:60])
+N=len(s2); V=len(set(s2))
+print(f"coarse: N={N} V={V}  k*_theory=logN/logV={math.log(N)/math.log(V):.3f}")
+print(f"fine  : N={len(s)} V={len(set(s))}  k*_theory={math.log(len(s))/math.log(len(set(s))):.3f}")
+
+rng=random.Random(3)
+idx=list(range(N-15)); rng.shuffle(idx)
+cut=int(len(idx)*0.8); tr=set(idx[:cut]); te=idx[cut:]
+print(f"\n{'k':>3} {'test_acc':>9} {'coverage':>9} {'ctx_types':>10}")
+out={}
+for k in range(1,14):
+    cnt=defaultdict(lambda: defaultdict(int))
+    for i in tr: cnt[s2[i:i+k]][s2[i+k]]+=1
+    glb=defaultdict(int)
+    for i in tr: glb[s2[i+k]]+=1
+    best=max(glb,key=glb.get)
+    hit=0;cov=0
+    for i in te:
+        ctx=s2[i:i+k]
+        if ctx in cnt:
+            cov+=1
+            p=max(cnt[ctx],key=cnt[ctx].get)
+        else: p=best
+        if p==s2[i+k]: hit+=1
+    out[k]=hit/len(te)
+    print(f"{k:>3} {out[k]:>9.4f} {cov/len(te):>9.4f} {len(cnt):>10}")
+bestk=max(out,key=out.get)
+print(f"\nbest_k(coarse V={V}) = {bestk}   vs best_k(fine V=1648) = 2")
+json.dump(dict(V=V,N=N,kstar_theory=math.log(N)/math.log(V),best_k=bestk,acc=out),
+          open('/data/workspace/luoshen-o1/experiments/exp161_nbonacci/vocab.json','w'),ensure_ascii=False,indent=1)

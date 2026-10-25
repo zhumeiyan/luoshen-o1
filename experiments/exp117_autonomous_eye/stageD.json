@@ -1,1 +1,590 @@
-ewogICJhbGwiOiBbCiAgICB7CiAgICAgICJjaCI6ICIvZGV2L2ZiMCIsCiAgICAgICJkb21haW4iOiAidmlzdWFsIiwKICAgICAgInNlcSI6IFsKICAgICAgICAwLjAsCiAgICAgICAgMTUuNzAzODEyNTk5MTgyMTI5LAogICAgICAgIDMxLjMyOTYyNzk5MDcyMjY1NiwKICAgICAgICAxNS43MDM4MTI1OTkxODIxMjksCiAgICAgICAgMC4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAzMS4zMjk2Mjc5OTA3MjI2NTYsCiAgICAgICJyZXYiOiAxLjAsCiAgICAgICJybmciOiAzMS4zMjk2Mjc5OTA3MjI2NTYsCiAgICAgICJyZXNpZCI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiB0cnVlLAogICAgICAicmV2ZXJzaWJsZSI6IHRydWUsCiAgICAgICJmYWxzaWZpYWJsZSI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9idWRkeWluZm8iLAogICAgICAiZG9tYWluIjogInByb2MiLAogICAgICAic2VxIjogWwogICAgICAgIDY1Ni4wLAogICAgICAgIDY1Ni4wLAogICAgICAgIDY1NC4wLAogICAgICAgIDY1NC4wLAogICAgICAgIDY1NC4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAyLjAsCiAgICAgICJyZXYiOiAwLjAsCiAgICAgICJybmciOiAyLjAsCiAgICAgICJyZXNpZCI6IDEuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiB0cnVlLAogICAgICAicmV2ZXJzaWJsZSI6IGZhbHNlLAogICAgICAiZmFsc2lmaWFibGUiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImNoIjogIi9wcm9jL2Nncm91cHMiLAogICAgICAiZG9tYWluIjogInByb2MiLAogICAgICAic2VxIjogWwogICAgICAgIDEzMi4wLAogICAgICAgIDEzMi4wLAogICAgICAgIDEzMi4wLAogICAgICAgIDEzMi4wLAogICAgICAgIDEzMi4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAwLjAsCiAgICAgICJyZXYiOiBOYU4sCiAgICAgICJybmciOiAwLjAsCiAgICAgICJtb25vIjogZmFsc2UsCiAgICAgICJyZXNwb25kIjogZmFsc2UsCiAgICAgICJyZXZlcnNpYmxlIjogZmFsc2UsCiAgICAgICJmYWxzaWZpYWJsZSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiY2giOiAiL3Byb2MvY21kbGluZSIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgNS4wLAogICAgICAgIDUuMCwKICAgICAgICA1LjAsCiAgICAgICAgNS4wLAogICAgICAgIDUuMAogICAgICBdLAogICAgICAiYW1wIjogMC4wLAogICAgICAicmV2IjogTmFOLAogICAgICAicm5nIjogMC4wLAogICAgICAibW9ubyI6IGZhbHNlLAogICAgICAicmVzcG9uZCI6IGZhbHNlLAogICAgICAicmV2ZXJzaWJsZSI6IGZhbHNlLAogICAgICAiZmFsc2lmaWFibGUiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImNoIjogIi9wcm9jL2NvbmZpZy5neiIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMzUxLjAsCiAgICAgICAgMzUxLjAsCiAgICAgICAgMzUxLjAsCiAgICAgICAgMzUxLjAsCiAgICAgICAgMzUxLjAKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9jb25zb2xlcyIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMjI5LjAsCiAgICAgICAgMjI5LjAsCiAgICAgICAgMjI5LjAsCiAgICAgICAgMjI5LjAsCiAgICAgICAgMjI5LjAKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9jcHVpbmZvIiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICAxMDA4OTI0LjIyNCwKICAgICAgICAxMDA4OTI0LjIyNCwKICAgICAgICAxMDA4OTI0LjIyNCwKICAgICAgICAxMDA4OTI0LjIyNCwKICAgICAgICAxMDA4OTI0LjIyNAogICAgICBdLAogICAgICAiYW1wIjogMC4wLAogICAgICAicmV2IjogTmFOLAogICAgICAicm5nIjogMC4wLAogICAgICAibW9ubyI6IGZhbHNlLAogICAgICAicmVzcG9uZCI6IGZhbHNlLAogICAgICAicmV2ZXJzaWJsZSI6IGZhbHNlLAogICAgICAiZmFsc2lmaWFibGUiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImNoIjogIi9wcm9jL2NyeXB0byIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMjAxOTcuMCwKICAgICAgICAyMDE5Ny4wLAogICAgICAgIDIwMTk3LjAsCiAgICAgICAgMjAxOTcuMCwKICAgICAgICAyMDE5Ny4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAwLjAsCiAgICAgICJyZXYiOiBOYU4sCiAgICAgICJybmciOiAwLjAsCiAgICAgICJtb25vIjogZmFsc2UsCiAgICAgICJyZXNwb25kIjogZmFsc2UsCiAgICAgICJyZXZlcnNpYmxlIjogZmFsc2UsCiAgICAgICJmYWxzaWZpYWJsZSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiY2giOiAiL3Byb2MvZGV2aWNlcyIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgNjg2Ny4wLAogICAgICAgIDY4NjcuMCwKICAgICAgICA2ODY3LjAsCiAgICAgICAgNjg2Ny4wLAogICAgICAgIDY4NjcuMAogICAgICBdLAogICAgICAiYW1wIjogMC4wLAogICAgICAicmV2IjogTmFOLAogICAgICAicm5nIjogMC4wLAogICAgICAibW9ubyI6IGZhbHNlLAogICAgICAicmVzcG9uZCI6IGZhbHNlLAogICAgICAicmV2ZXJzaWJsZSI6IGZhbHNlLAogICAgICAiZmFsc2lmaWFibGUiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImNoIjogIi9wcm9jL2Rpc2tzdGF0cyIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMjcuMCwKICAgICAgICAyNy4wLAogICAgICAgIDI3LjAsCiAgICAgICAgMjcuMCwKICAgICAgICAyNy4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAwLjAsCiAgICAgICJyZXYiOiBOYU4sCiAgICAgICJybmciOiAwLjAsCiAgICAgICJtb25vIjogZmFsc2UsCiAgICAgICJyZXNwb25kIjogZmFsc2UsCiAgICAgICJyZXZlcnNpYmxlIjogZmFsc2UsCiAgICAgICJmYWxzaWZpYWJsZSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiY2giOiAiL3Byb2MvZG1hIiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICA0LjAsCiAgICAgICAgNC4wLAogICAgICAgIDQuMCwKICAgICAgICA0LjAsCiAgICAgICAgNC4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAwLjAsCiAgICAgICJyZXYiOiBOYU4sCiAgICAgICJybmciOiAwLjAsCiAgICAgICJtb25vIjogZmFsc2UsCiAgICAgICJyZXNwb25kIjogZmFsc2UsCiAgICAgICJyZXZlcnNpYmxlIjogZmFsc2UsCiAgICAgICJmYWxzaWZpYWJsZSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiY2giOiAiL3Byb2MvZXhlY2RvbWFpbnMiLAogICAgICAiZG9tYWluIjogInByb2MiLAogICAgICAic2VxIjogWwogICAgICAgIDAuMCwKICAgICAgICAwLjAsCiAgICAgICAgMC4wLAogICAgICAgIDAuMCwKICAgICAgICAwLjAKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9mYiIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMC4wLAogICAgICAgIDAuMCwKICAgICAgICAwLjAsCiAgICAgICAgMC4wLAogICAgICAgIDAuMAogICAgICBdLAogICAgICAiYW1wIjogMC4wLAogICAgICAicmV2IjogTmFOLAogICAgICAicm5nIjogMC4wLAogICAgICAibW9ubyI6IGZhbHNlLAogICAgICAicmVzcG9uZCI6IGZhbHNlLAogICAgICAicmV2ZXJzaWJsZSI6IGZhbHNlLAogICAgICAiZmFsc2lmaWFibGUiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImNoIjogIi9wcm9jL2ZpbGVzeXN0ZW1zIiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICAxNS4wLAogICAgICAgIDE1LjAsCiAgICAgICAgMTUuMCwKICAgICAgICAxNS4wLAogICAgICAgIDE1LjAKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9pbnRlcnJ1cHRzIiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICAxMzM3OC4wLAogICAgICAgIDEzMzc4LjAsCiAgICAgICAgMTMzNzguMCwKICAgICAgICAxMzM3OC4wLAogICAgICAgIDEzMzc4LjAKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9pb3BvcnRzIiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICA5NS4wLAogICAgICAgIDk1LjAsCiAgICAgICAgOTUuMCwKICAgICAgICA5NS4wLAogICAgICAgIDk1LjAKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9rZXktdXNlcnMiLAogICAgICAiZG9tYWluIjogInByb2MiLAogICAgICAic2VxIjogWwogICAgICAgIDI2MDAwMDc3LjAsCiAgICAgICAgMjYwMDAwNzcuMCwKICAgICAgICAyNjAwMDA3Ny4wLAogICAgICAgIDI2MDAwMDc3LjAsCiAgICAgICAgMjYwMDAwNzcuMAogICAgICBdLAogICAgICAiYW1wIjogMC4wLAogICAgICAicmV2IjogTmFOLAogICAgICAicm5nIjogMC4wLAogICAgICAibW9ubyI6IGZhbHNlLAogICAgICAicmVzcG9uZCI6IGZhbHNlLAogICAgICAicmV2ZXJzaWJsZSI6IGZhbHNlLAogICAgICAiZmFsc2lmaWFibGUiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImNoIjogIi9wcm9jL2xhdGVuY3lfc3RhdHMiLAogICAgICAiZG9tYWluIjogInByb2MiLAogICAgICAic2VxIjogWwogICAgICAgIDAuMSwKICAgICAgICAwLjEsCiAgICAgICAgMC4xLAogICAgICAgIDAuMSwKICAgICAgICAwLjEKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9sb2FkYXZnIiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICAxNjkzLjYyLAogICAgICAgIDE2OTMuNjIsCiAgICAgICAgMTY5My42MiwKICAgICAgICAxNjkzLjYyLAogICAgICAgIDE2OTMuNjIKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9tZW1pbmZvIiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICAzNDM2ODU0MjA1MS4wLAogICAgICAgIDM0MzY4NTQyMDUxLjAsCiAgICAgICAgMzQzNjg1NDE1NDcuMCwKICAgICAgICAzNDM2ODU0MTU0Ny4wLAogICAgICAgIDM0MzY4NTQxNTQ3LjAKICAgICAgXSwKICAgICAgImFtcCI6IDUwNC4wLAogICAgICAicmV2IjogMC4wLAogICAgICAicm5nIjogNTA0LjAsCiAgICAgICJyZXNpZCI6IDEuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiB0cnVlLAogICAgICAicmV2ZXJzaWJsZSI6IGZhbHNlLAogICAgICAiZmFsc2lmaWFibGUiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImNoIjogIi9wcm9jL21pc2MiLAogICAgICAiZG9tYWluIjogInByb2MiLAogICAgICAic2VxIjogWwogICAgICAgIDM0MTEuMCwKICAgICAgICAzNDExLjAsCiAgICAgICAgMzQxMS4wLAogICAgICAgIDM0MTEuMCwKICAgICAgICAzNDExLjAKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9tb3VudHMiLAogICAgICAiZG9tYWluIjogInByb2MiLAogICAgICAic2VxIjogWwogICAgICAgIDMwNzI4ODUuMCwKICAgICAgICAzMDcyODg1LjAsCiAgICAgICAgMzA3Mjg4NS4wLAogICAgICAgIDMwNzI4ODUuMCwKICAgICAgICAzMDcyODg1LjAKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9wYWdldHlwZWluZm8iLAogICAgICAiZG9tYWluIjogInByb2MiLAogICAgICAic2VxIjogWwogICAgICAgIDU4MS4wLAogICAgICAgIDU4MS4wLAogICAgICAgIDU4MS4wLAogICAgICAgIDU4MS4wLAogICAgICAgIDU4MS4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAwLjAsCiAgICAgICJyZXYiOiBOYU4sCiAgICAgICJybmciOiAwLjAsCiAgICAgICJtb25vIjogZmFsc2UsCiAgICAgICJyZXNwb25kIjogZmFsc2UsCiAgICAgICJyZXZlcnNpYmxlIjogZmFsc2UsCiAgICAgICJmYWxzaWZpYWJsZSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiY2giOiAiL3Byb2MvcGFydGl0aW9ucyIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMzExOTUyMTMuMCwKICAgICAgICAzMTE5NTIxMy4wLAogICAgICAgIDMxMTk1MjEzLjAsCiAgICAgICAgMzExOTUyMTMuMCwKICAgICAgICAzMTE5NTIxMy4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAwLjAsCiAgICAgICJyZXYiOiBOYU4sCiAgICAgICJybmciOiAwLjAsCiAgICAgICJtb25vIjogZmFsc2UsCiAgICAgICJyZXNwb25kIjogZmFsc2UsCiAgICAgICJyZXZlcnNpYmxlIjogZmFsc2UsCiAgICAgICJmYWxzaWZpYWJsZSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiY2giOiAiL3Byb2Mvc2NoZWRzdGF0IiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICA0NjA0ODE1ODMxNC4wLAogICAgICAgIDQ2MDQ4MTU4MzE0LjAsCiAgICAgICAgNDYwNDgxNTgzMTQuMCwKICAgICAgICA0NjA0ODE1ODMxNC4wLAogICAgICAgIDQ2MDQ5MTYxMzI2LjAKICAgICAgXSwKICAgICAgImFtcCI6IDEwMDMwMTIuMCwKICAgICAgInJldiI6IDAuMCwKICAgICAgInJuZyI6IDEwMDMwMTIuMCwKICAgICAgInJlc2lkIjogMS4wLAogICAgICAibW9ubyI6IHRydWUsCiAgICAgICJyZXNwb25kIjogdHJ1ZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9zb2Z0aXJxcyIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMTk2MzkxLjAsCiAgICAgICAgMTk2MzkxLjAsCiAgICAgICAgMTk2MzkxLjAsCiAgICAgICAgMTk2MzkzLjAsCiAgICAgICAgMTk2MzkzLjAKICAgICAgXSwKICAgICAgImFtcCI6IDIuMCwKICAgICAgInJldiI6IDAuMCwKICAgICAgInJuZyI6IDIuMCwKICAgICAgInJlc2lkIjogMS4wLAogICAgICAibW9ubyI6IHRydWUsCiAgICAgICJyZXNwb25kIjogdHJ1ZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy9zdGF0IiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICA0MTE2NTUuMCwKICAgICAgICA0MTE2NTUuMCwKICAgICAgICA0MTE2NTUuMCwKICAgICAgICA0MTE2NTguMCwKICAgICAgICA0MTE2NTguMAogICAgICBdLAogICAgICAiYW1wIjogMy4wLAogICAgICAicmV2IjogMC4wLAogICAgICAicm5nIjogMy4wLAogICAgICAicmVzaWQiOiAxLjAsCiAgICAgICJtb25vIjogdHJ1ZSwKICAgICAgInJlc3BvbmQiOiB0cnVlLAogICAgICAicmV2ZXJzaWJsZSI6IGZhbHNlLAogICAgICAiZmFsc2lmaWFibGUiOiBmYWxzZQogICAgfSwKICAgIHsKICAgICAgImNoIjogIi9wcm9jL3VwdGltZSIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMTE4OC43OSwKICAgICAgICAxMTg4Ljc5LAogICAgICAgIDExODguNzksCiAgICAgICAgMTE4OC43OSwKICAgICAgICAxMTg4Ljc5CiAgICAgIF0sCiAgICAgICJhbXAiOiAwLjAsCiAgICAgICJyZXYiOiBOYU4sCiAgICAgICJybmciOiAwLjAsCiAgICAgICJtb25vIjogZmFsc2UsCiAgICAgICJyZXNwb25kIjogZmFsc2UsCiAgICAgICJyZXZlcnNpYmxlIjogZmFsc2UsCiAgICAgICJmYWxzaWZpYWJsZSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiY2giOiAiL3Byb2MvdmVyc2lvbiIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMTc4MzMyNzA1MDYxMC43MSwKICAgICAgICAxNzgzMzI3MDUwNjEwLjcxLAogICAgICAgIDE3ODMzMjcwNTA2MTAuNzEsCiAgICAgICAgMTc4MzMyNzA1MDYxMC43MSwKICAgICAgICAxNzgzMzI3MDUwNjEwLjcxCiAgICAgIF0sCiAgICAgICJhbXAiOiAwLjAsCiAgICAgICJyZXYiOiBOYU4sCiAgICAgICJybmciOiAwLjAsCiAgICAgICJtb25vIjogZmFsc2UsCiAgICAgICJyZXNwb25kIjogZmFsc2UsCiAgICAgICJyZXZlcnNpYmxlIjogZmFsc2UsCiAgICAgICJmYWxzaWZpYWJsZSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiY2giOiAiL3Byb2Mvdm1hbGxvY2luZm8iLAogICAgICAiZG9tYWluIjogInByb2MiLAogICAgICAic2VxIjogWwogICAgICAgIDEwODg5OS4wLAogICAgICAgIDEwODg5OS4wLAogICAgICAgIDEwODg5OS4wLAogICAgICAgIDEwODg5OS4wLAogICAgICAgIDEwODg5OS4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAwLjAsCiAgICAgICJyZXYiOiBOYU4sCiAgICAgICJybmciOiAwLjAsCiAgICAgICJtb25vIjogZmFsc2UsCiAgICAgICJyZXNwb25kIjogZmFsc2UsCiAgICAgICJyZXZlcnNpYmxlIjogZmFsc2UsCiAgICAgICJmYWxzaWZpYWJsZSI6IGZhbHNlCiAgICB9LAogICAgewogICAgICAiY2giOiAiL3Byb2Mvdm1zdGF0IiwKICAgICAgImRvbWFpbiI6ICJwcm9jIiwKICAgICAgInNlcSI6IFsKICAgICAgICA1MDY4ODA0LjAsCiAgICAgICAgNTA2ODgwOC4wLAogICAgICAgIDUwNjg4MTIuMCwKICAgICAgICA1MDY4ODE2LjAsCiAgICAgICAgNTA2ODgyMC4wCiAgICAgIF0sCiAgICAgICJhbXAiOiAxNi4wLAogICAgICAicmV2IjogMC4wLAogICAgICAicm5nIjogMTYuMCwKICAgICAgInJlc2lkIjogMS4wLAogICAgICAibW9ubyI6IHRydWUsCiAgICAgICJyZXNwb25kIjogdHJ1ZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0sCiAgICB7CiAgICAgICJjaCI6ICIvcHJvYy96b25laW5mbyIsCiAgICAgICJkb21haW4iOiAicHJvYyIsCiAgICAgICJzZXEiOiBbCiAgICAgICAgMTYyMzM1LjAsCiAgICAgICAgMTYyMzM1LjAsCiAgICAgICAgMTYyMzM1LjAsCiAgICAgICAgMTYyMzM1LjAsCiAgICAgICAgMTYyMzM1LjAKICAgICAgXSwKICAgICAgImFtcCI6IDAuMCwKICAgICAgInJldiI6IE5hTiwKICAgICAgInJuZyI6IDAuMCwKICAgICAgIm1vbm8iOiBmYWxzZSwKICAgICAgInJlc3BvbmQiOiBmYWxzZSwKICAgICAgInJldmVyc2libGUiOiBmYWxzZSwKICAgICAgImZhbHNpZmlhYmxlIjogZmFsc2UKICAgIH0KICBdLAogICJuX2V5ZXMiOiAxLAogICJuX2Nsb2NrcyI6IDYsCiAgIm5fZGVhZCI6IDI1Cn0=
+{
+  "all": [
+    {
+      "ch": "/dev/fb0",
+      "domain": "visual",
+      "seq": [
+        0.0,
+        15.703812599182129,
+        31.329627990722656,
+        15.703812599182129,
+        0.0
+      ],
+      "amp": 31.329627990722656,
+      "rev": 1.0,
+      "rng": 31.329627990722656,
+      "resid": 0.0,
+      "mono": false,
+      "respond": true,
+      "reversible": true,
+      "falsifiable": true
+    },
+    {
+      "ch": "/proc/buddyinfo",
+      "domain": "proc",
+      "seq": [
+        656.0,
+        656.0,
+        654.0,
+        654.0,
+        654.0
+      ],
+      "amp": 2.0,
+      "rev": 0.0,
+      "rng": 2.0,
+      "resid": 1.0,
+      "mono": false,
+      "respond": true,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/cgroups",
+      "domain": "proc",
+      "seq": [
+        132.0,
+        132.0,
+        132.0,
+        132.0,
+        132.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/cmdline",
+      "domain": "proc",
+      "seq": [
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/config.gz",
+      "domain": "proc",
+      "seq": [
+        351.0,
+        351.0,
+        351.0,
+        351.0,
+        351.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/consoles",
+      "domain": "proc",
+      "seq": [
+        229.0,
+        229.0,
+        229.0,
+        229.0,
+        229.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/cpuinfo",
+      "domain": "proc",
+      "seq": [
+        1008924.224,
+        1008924.224,
+        1008924.224,
+        1008924.224,
+        1008924.224
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/crypto",
+      "domain": "proc",
+      "seq": [
+        20197.0,
+        20197.0,
+        20197.0,
+        20197.0,
+        20197.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/devices",
+      "domain": "proc",
+      "seq": [
+        6867.0,
+        6867.0,
+        6867.0,
+        6867.0,
+        6867.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/diskstats",
+      "domain": "proc",
+      "seq": [
+        27.0,
+        27.0,
+        27.0,
+        27.0,
+        27.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/dma",
+      "domain": "proc",
+      "seq": [
+        4.0,
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/execdomains",
+      "domain": "proc",
+      "seq": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/fb",
+      "domain": "proc",
+      "seq": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/filesystems",
+      "domain": "proc",
+      "seq": [
+        15.0,
+        15.0,
+        15.0,
+        15.0,
+        15.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/interrupts",
+      "domain": "proc",
+      "seq": [
+        13378.0,
+        13378.0,
+        13378.0,
+        13378.0,
+        13378.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/ioports",
+      "domain": "proc",
+      "seq": [
+        95.0,
+        95.0,
+        95.0,
+        95.0,
+        95.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/key-users",
+      "domain": "proc",
+      "seq": [
+        26000077.0,
+        26000077.0,
+        26000077.0,
+        26000077.0,
+        26000077.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/latency_stats",
+      "domain": "proc",
+      "seq": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/loadavg",
+      "domain": "proc",
+      "seq": [
+        1693.62,
+        1693.62,
+        1693.62,
+        1693.62,
+        1693.62
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/meminfo",
+      "domain": "proc",
+      "seq": [
+        34368542051.0,
+        34368542051.0,
+        34368541547.0,
+        34368541547.0,
+        34368541547.0
+      ],
+      "amp": 504.0,
+      "rev": 0.0,
+      "rng": 504.0,
+      "resid": 1.0,
+      "mono": false,
+      "respond": true,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/misc",
+      "domain": "proc",
+      "seq": [
+        3411.0,
+        3411.0,
+        3411.0,
+        3411.0,
+        3411.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/mounts",
+      "domain": "proc",
+      "seq": [
+        3072885.0,
+        3072885.0,
+        3072885.0,
+        3072885.0,
+        3072885.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/pagetypeinfo",
+      "domain": "proc",
+      "seq": [
+        581.0,
+        581.0,
+        581.0,
+        581.0,
+        581.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/partitions",
+      "domain": "proc",
+      "seq": [
+        31195213.0,
+        31195213.0,
+        31195213.0,
+        31195213.0,
+        31195213.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/schedstat",
+      "domain": "proc",
+      "seq": [
+        46048158314.0,
+        46048158314.0,
+        46048158314.0,
+        46048158314.0,
+        46049161326.0
+      ],
+      "amp": 1003012.0,
+      "rev": 0.0,
+      "rng": 1003012.0,
+      "resid": 1.0,
+      "mono": true,
+      "respond": true,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/softirqs",
+      "domain": "proc",
+      "seq": [
+        196391.0,
+        196391.0,
+        196391.0,
+        196393.0,
+        196393.0
+      ],
+      "amp": 2.0,
+      "rev": 0.0,
+      "rng": 2.0,
+      "resid": 1.0,
+      "mono": true,
+      "respond": true,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/stat",
+      "domain": "proc",
+      "seq": [
+        411655.0,
+        411655.0,
+        411655.0,
+        411658.0,
+        411658.0
+      ],
+      "amp": 3.0,
+      "rev": 0.0,
+      "rng": 3.0,
+      "resid": 1.0,
+      "mono": true,
+      "respond": true,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/uptime",
+      "domain": "proc",
+      "seq": [
+        1188.79,
+        1188.79,
+        1188.79,
+        1188.79,
+        1188.79
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/version",
+      "domain": "proc",
+      "seq": [
+        1783327050610.71,
+        1783327050610.71,
+        1783327050610.71,
+        1783327050610.71,
+        1783327050610.71
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/vmallocinfo",
+      "domain": "proc",
+      "seq": [
+        108899.0,
+        108899.0,
+        108899.0,
+        108899.0,
+        108899.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/vmstat",
+      "domain": "proc",
+      "seq": [
+        5068804.0,
+        5068808.0,
+        5068812.0,
+        5068816.0,
+        5068820.0
+      ],
+      "amp": 16.0,
+      "rev": 0.0,
+      "rng": 16.0,
+      "resid": 1.0,
+      "mono": true,
+      "respond": true,
+      "reversible": false,
+      "falsifiable": false
+    },
+    {
+      "ch": "/proc/zoneinfo",
+      "domain": "proc",
+      "seq": [
+        162335.0,
+        162335.0,
+        162335.0,
+        162335.0,
+        162335.0
+      ],
+      "amp": 0.0,
+      "rev": NaN,
+      "rng": 0.0,
+      "mono": false,
+      "respond": false,
+      "reversible": false,
+      "falsifiable": false
+    }
+  ],
+  "n_eyes": 1,
+  "n_clocks": 6,
+  "n_dead": 25
+}

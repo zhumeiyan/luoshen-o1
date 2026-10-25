@@ -1,1 +1,7 @@
-aW1wb3J0IHN5cwpzeXMucGF0aC5pbnNlcnQoMCwgJy9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xJykKZnJvbSBjb3JlLmluc3RpbmN0Ml9icmVhdGggaW1wb3J0IHByb2JlX25ldApwcmludCgi5Y2V54K56aqM6K+B77yI5ZCEM+asoe+8jHRpbWVvdXQ9M++8ie+8miIpCmZvciBoIGluIFsiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbSIsICJodHRwczovLzEyNy4wLjAuMTo5Il06CiAgICBvdXRzID0gW3Byb2JlX25ldChoLCB0aW1lb3V0PTMpIGZvciBfIGluIHJhbmdlKDMpXQogICAgcHJpbnQoZiIgIHtoOjwyNn0ge1sodiwgbikgZm9yIF8sIHYsIG4gaW4gb3V0c119IikK
+import sys
+sys.path.insert(0, '/data/workspace/luoshen-o1')
+from core.instinct2_breath import probe_net
+print("单点验证（各3次，timeout=3）：")
+for h in ["https://api.github.com", "https://127.0.0.1:9"]:
+    outs = [probe_net(h, timeout=3) for _ in range(3)]
+    print(f"  {h:<26} {[(v, n) for _, v, n in outs]}")

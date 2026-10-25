@@ -1,1 +1,165 @@
-aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgdHlwaW5nCmZyb20gdHlwaW5nIGltcG9ydCBMaXN0CmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKZnJvbSBkYWNpdGUgaW1wb3J0IGZyb21fZGljdAoKZnJvbSBoZWxtLmNvbW1vbi5yZXF1ZXN0IGltcG9ydCBSZXF1ZXN0CmZyb20gaGVsbS5jb21tb24uY2FjaGUgaW1wb3J0ICgKICAgIEtleVZhbHVlU3RvcmVDYWNoZUNvbmZpZywKICAgIE1vbmdvQ2FjaGVDb25maWcsCiAgICBTcWxpdGVDYWNoZUNvbmZpZywKICAgIGNyZWF0ZV9rZXlfdmFsdWVfc3RvcmUsCikKZnJvbSBoZWxtLmNvbW1vbi5rZXlfdmFsdWVfc3RvcmUgaW1wb3J0IHJlcXVlc3RfdG9fa2V5CmZyb20gaGVsbS5jb21tb24uaGllcmFyY2hpY2FsX2xvZ2dlciBpbXBvcnQgaGxvZywgaHRyYWNrLCBodHJhY2tfYmxvY2sKZnJvbSBoZWxtLmNsaWVudHMuZ29vZ2xlX2NsaWVudCBpbXBvcnQgR29vZ2xlQ2xpZW50CmZyb20gaGVsbS5jbGllbnRzLnRvZ2V0aGVyX2NsaWVudCBpbXBvcnQgVG9nZXRoZXJDbGllbnQKZnJvbSBoZWxtLmNsaWVudHMubWljcm9zb2Z0X2NsaWVudCBpbXBvcnQgTWljcm9zb2Z0Q2xpZW50CgoKIiIiCkV4cG9ydHMgcmF3IHJlcXVlc3RzIGZyb20gYSBydW4gc3VpdGUgdG8gYSBqc29ubCBmaWxlLgoKVXNhZ2U6CgogICAgcHl0aG9uMyBzY3JpcHRzL29mZmxpbmVfZXZhbC9leHBvcnRfcmVxdWVzdHMucHkgPG9yZ2FuaXphdGlvbj4gPFBhdGggdG8gcnVuIHN1aXRlPgoKICAgIEV4YW1wbGU6CgogICAgICBweXRob24zIHNjcmlwdHMvb2ZmbGluZV9ldmFsL2V4cG9ydF9yZXF1ZXN0cy5weSB0b2dldGhlciBiZW5jaG1hcmtfb3V0cHV0L3J1bnMvdjQtZHJ5cnVuCgoiIiIKCiMgTGlzdCBvZiBvcmdhbml6YXRpb25zIGN1cnJlbnRseSBzdXBwb3J0ZWQgZm9yIG9mZmxpbmUgYmF0Y2ggZXZhbHVhdGlvbgpTVVBQT1JURURfT1JHUzogTGlzdFtzdHJdID0gWyJ0b2dldGhlciIsICJnb29nbGUiLCAibWljcm9zb2Z0Il0KCgpAaHRyYWNrKCJHZW5lcmF0aW5nIGpzb25sIGZpbGUgd2l0aCBsaXN0IG9mIHJhdyByZXF1ZXN0cyIpCmRlZiBleHBvcnRfcmVxdWVzdHMoY2FjaGVfY29uZmlnOiBLZXlWYWx1ZVN0b3JlQ2FjaGVDb25maWcsIG9yZ2FuaXphdGlvbjogc3RyLCBydW5fc3VpdGVfcGF0aDogc3RyLCBvdXRwdXRfcGF0aDogc3RyKToKICAgICIiIgogICAgR2l2ZW4gYSBydW4gc3VpdGUgZm9sZGVyLCBnZW5lcmF0ZXMgYSBqc29ubCBmaWxlIGF0IGBvdXRwdXRfcGF0aGAgd2l0aCByYXcgcXVlcmllcwogICAgd2hlcmUgZWFjaCBsaW5lIHJlcHJlc2VudHMgYSBzaW5nbGUgcmVxdWVzdC4KICAgICIiIgoKICAgIGRlZiBmZXRjaF9jbGllbnQoKToKICAgICAgICBpZiBvcmdhbml6YXRpb24gPT0gInRvZ2V0aGVyIjoKICAgICAgICAgICAgcmV0dXJuIFRvZ2V0aGVyQ2xpZW50CiAgICAgICAgZWxpZiBvcmdhbml6YXRpb24gPT0gImdvb2dsZSI6CiAgICAgICAgICAgIHJldHVybiBHb29nbGVDbGllbnQKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYiSW52YWxpZCBvcmdhbml6YXRpb246IHtvcmdhbml6YXRpb259IikKCiAgICBkZWYgcHJvY2Vzc19yZXF1ZXN0KHJlcXVlc3Q6IFJlcXVlc3QpOgogICAgICAgIHJhd19yZXF1ZXN0OiB0eXBpbmcuRGljdCA9IGZldGNoX2NsaWVudCgpLmNvbnZlcnRfdG9fcmF3X3JlcXVlc3QocmVxdWVzdCkKCiAgICAgICAgIyBPbmx5IGV4cG9ydCByZXF1ZXN0cyB0aGF0IGFyZSBub3QgaW4gdGhlIGNhY2hlCiAgICAgICAgaWYgbm90IHN0b3JlLmNvbnRhaW5zKHJhd19yZXF1ZXN0KToKICAgICAgICAgICAgcmVxdWVzdF9qc29uOiBzdHIgPSByZXF1ZXN0X3RvX2tleSh7InNjZW5hcmlvIjogc2NlbmFyaW9fbmFtZSwgInJlcXVlc3QiOiByYXdfcmVxdWVzdH0pCiAgICAgICAgICAgIG91dF9maWxlLndyaXRlKHJlcXVlc3RfanNvbiArICJcbiIpCiAgICAgICAgICAgIGNvdW50c1sicGVuZGluZ19jb3VudCJdICs9IDEKICAgICAgICBlbHNlOgogICAgICAgICAgICBjb3VudHNbImNhY2hlZF9jb3VudCJdICs9IDEKCiAgICBkZWYgcHJvY2Vzc19taWNyb3NvZnRfcmVxdWVzdChyZXF1ZXN0OiBSZXF1ZXN0KToKICAgICAgICByYXdfcmVxdWVzdDogdHlwaW5nLkRpY3QgPSBNaWNyb3NvZnRDbGllbnQuY29udmVydF90b19yYXdfcmVxdWVzdChyZXF1ZXN0KQogICAgICAgIGZvciBjb21wbGV0aW9uX2luZGV4IGluIHJhbmdlKHJlcXVlc3QubnVtX2NvbXBsZXRpb25zKToKICAgICAgICAgICAgIyBXZSBzZW5kIHRoZSBzYW1lIHJlcXVlc3QgYG51bV9jb21wbGV0aW9uc2AgdGltZXMgYmVjYXVzZSB0aGUgTVQtTkxHIEFQSSBkb2VzIG5vdAogICAgICAgICAgICAjIHN1cHBvcnQgdGhlIE9wZW5BSSBwYXJhbWV0ZXIgJ24nLiBJbiBvdXIgY2FjaGUsIHdlIHVzZSBgY29tcGxldGlvbl9pbmRleGAgdG8KICAgICAgICAgICAgIyBkaWZmZXJlbnRpYXRlIHJlc3BvbnNlcyBmb3IgdGhlIHNhbWUgcmVxdWVzdCwgc28gd2Ugc2hvdWxkIGNoZWNrIGlmIHRoZQogICAgICAgICAgICAjIHJlcXVlc3QgKyAnY29tcGxldGlvbl9pbmRleGAgaXMgaW4gb3VyIGNhY2hlLiBIb3dldmVyLCB3aGVuIHdlIHdyaXRlIG91dCB0aGUKICAgICAgICAgICAgIyByZXF1ZXN0cyBmb3Igb2ZmbGluZSBiYXRjaCBldmFsdWF0aW9uLCB3ZSBzaG91bGQgZXhjbHVkZSBgY29tcGxldGlvbl9pbmRleGAKICAgICAgICAgICAgIyBhbmQgd3JpdGUgb3V0IHRoZSBKU09OIGZvciB0aGUgc2FtZSByZXF1ZXN0IGBudW1fY29tcGxldGlvbmAgdGltZXMuCiAgICAgICAgICAgIGNhY2hlX2tleTogdHlwaW5nLkRpY3QgPSB7ImNvbXBsZXRpb25faW5kZXgiOiBjb21wbGV0aW9uX2luZGV4LCAqKnJhd19yZXF1ZXN0fQoKICAgICAgICAgICAgIyBPbmx5IGV4cG9ydCByZXF1ZXN0cyB0aGF0IHdlIGFyZSBub3QgaW4gdGhlIGNhY2hlCiAgICAgICAgICAgIGlmIG5vdCBzdG9yZS5jb250YWlucyhjYWNoZV9rZXkpOgogICAgICAgICAgICAgICAgcmVxdWVzdF9qc29uOiBzdHIgPSByZXF1ZXN0X3RvX2tleShyYXdfcmVxdWVzdCkKICAgICAgICAgICAgICAgIG91dF9maWxlLndyaXRlKHJlcXVlc3RfanNvbiArICJcbiIpCiAgICAgICAgICAgICAgICBjb3VudHNbInBlbmRpbmdfY291bnQiXSArPSAxCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBjb3VudHNbImNhY2hlZF9jb3VudCJdICs9IDEKCiAgICBjb3VudHM6IHR5cGluZy5Db3VudGVyID0gQ291bnRlcihwZW5kaW5nX2NvdW50PTAsIGNhY2hlZF9jb3VudD0wKQoKICAgICMgR28gdGhyb3VnaCBhbGwgdGhlIHZhbGlkIHJ1biBmb2xkZXJzLCBwdWxsIHJlcXVlc3RzIGZyb20gdGhlIHNjZW5hcmlvX3N0YXRlLmpzb24gZmlsZXMKICAgICMgYW5kIHdyaXRlIHRoZW0gb3V0IHRvIHRoZSBqc29ubCBmaWxlIGF0IHBhdGggYG91dHB1dF9wYXRoYC4KICAgIHdpdGggY3JlYXRlX2tleV92YWx1ZV9zdG9yZShjYWNoZV9jb25maWcpIGFzIHN0b3JlOgogICAgICAgIHdpdGggb3BlbihvdXRwdXRfcGF0aCwgInciKSBhcyBvdXRfZmlsZToKICAgICAgICAgICAgZm9yIHJ1bl9kaXIgaW4gb3MubGlzdGRpcihydW5fc3VpdGVfcGF0aCk6CiAgICAgICAgICAgICAgICBydW5fcGF0aDogc3RyID0gb3MucGF0aC5qb2luKHJ1bl9zdWl0ZV9wYXRoLCBydW5fZGlyKQoKICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHJ1bl9wYXRoKToKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgICAgIHdpdGggaHRyYWNrX2Jsb2NrKGYiUHJvY2Vzc2luZyBydW4gZGlyZWN0b3J5OiB7cnVuX2Rpcn0iKToKICAgICAgICAgICAgICAgICAgICBzY2VuYXJpb19zdGF0ZV9wYXRoOiBzdHIgPSBvcy5wYXRoLmpvaW4ocnVuX3BhdGgsICJzY2VuYXJpb19zdGF0ZS5qc29uIikKICAgICAgICAgICAgICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUoc2NlbmFyaW9fc3RhdGVfcGF0aCk6CiAgICAgICAgICAgICAgICAgICAgICAgIGhsb2coCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmIntydW5fZGlyfSBpcyBtaXNzaW5nIGEgc2NlbmFyaW9fc3RhdGUuanNvbiBmaWxlLiBFeHBlY3RlZCBhdCBwYXRoOiB7c2NlbmFyaW9fc3RhdGVfcGF0aH0uIgogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICAgICAgICAgICMgRXh0cmFjdCB0aGUgbmFtZSBvZiB0aGUgc2NlbmFyaW8gZnJvbSBzY2VuYXJpby5qc29uCiAgICAgICAgICAgICAgICAgICAgc2NlbmFyaW9fbmFtZTogc3RyCiAgICAgICAgICAgICAgICAgICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihydW5fcGF0aCwgInNjZW5hcmlvLmpzb24iKSkgYXMgc2NlbmFyaW9fZmlsZToKICAgICAgICAgICAgICAgICAgICAgICAgc2NlbmFyaW8gPSBqc29uLmxvYWQoc2NlbmFyaW9fZmlsZSkKICAgICAgICAgICAgICAgICAgICAgICAgc2NlbmFyaW9fbmFtZSA9IHNjZW5hcmlvWyJuYW1lIl0KCiAgICAgICAgICAgICAgICAgICAgd2l0aCBvcGVuKHNjZW5hcmlvX3N0YXRlX3BhdGgpIGFzIHNjZW5hcmlvX3N0YXRlX2ZpbGU6CiAgICAgICAgICAgICAgICAgICAgICAgIHNjZW5hcmlvX3N0YXRlID0ganNvbi5sb2FkKHNjZW5hcmlvX3N0YXRlX2ZpbGUpCiAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsX25hbWU6IHN0ciA9IHNjZW5hcmlvX3N0YXRlWyJhZGFwdGVyX3NwZWMiXVsibW9kZWwiXQogICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50X29yZ2FuaXphdGlvbjogc3RyID0gbW9kZWxfbmFtZS5zcGxpdCgiLyIpWzBdCgogICAgICAgICAgICAgICAgICAgICAgICBpZiBjdXJyZW50X29yZ2FuaXphdGlvbiAhPSBvcmdhbml6YXRpb246CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBobG9nKGYiTm90IGdlbmVyYXRpbmcgcmVxdWVzdHMgZm9yIHtjdXJyZW50X29yZ2FuaXphdGlvbn0uIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICAgICAgICAgICAgICBmb3IgcmVxdWVzdF9zdGF0ZSBpbiBzY2VuYXJpb19zdGF0ZVsicmVxdWVzdF9zdGF0ZXMiXToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVlc3Q6IFJlcXVlc3QgPSBmcm9tX2RpY3QoUmVxdWVzdCwgcmVxdWVzdF9zdGF0ZVsicmVxdWVzdCJdKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgY3VycmVudF9vcmdhbml6YXRpb24gPT0gIm1pY3Jvc29mdCI6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzX21pY3Jvc29mdF9yZXF1ZXN0KHJlcXVlc3QpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3IgYXMgZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGxvZyhmIkVycm9yIHdoaWxlIHByb2Nlc3NpbmcgTWljcm9zb2Z0IHJlcXVlc3Q6IHtlfVxuUmVxdWVzdDoge3JlcXVlc3R9IikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvY2Vzc19yZXF1ZXN0KHJlcXVlc3QpCgogICAgICAgICAgICAgICAgICAgIGhsb2coZiJXcm90ZSB7Y291bnRzWydwZW5kaW5nX2NvdW50J119IHJlcXVlc3RzIHNvIGZhci4iKQoKICAgIGhsb2coCiAgICAgICAgZiJXcm90ZSB7Y291bnRzWydwZW5kaW5nX2NvdW50J119IHJlcXVlc3RzIHRvIHtvdXRwdXRfcGF0aH0uICIKICAgICAgICBmIntjb3VudHNbJ2NhY2hlZF9jb3VudCddfSByZXF1ZXN0cyBhbHJlYWR5IGhhZCBhbiBlbnRyeSBpbiB0aGUgY2FjaGUuIgogICAgKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLWNhY2hlLWRpciIsIHR5cGU9c3RyLCBoZWxwPSJGb3IgYSBTUUxpdGUgY2FjaGUsIGRpcmVjdG9yeSBmb3IgdGhlIC5zcWxpdGUgZmlsZXMgY29udGFpbmluZyB0aGUgY2FjaGUiCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLW1vbmdvLXVyaSIsCiAgICAgICAgdHlwZT1zdHIsCiAgICAgICAgaGVscD0oCiAgICAgICAgICAgICJGb3IgYSBNb25nb0RCIGNhY2hlLCBNb25nbyBVUkkgdG8gY29weSBpdGVtcyB0by4gIgogICAgICAgICAgICAiRXhhbXBsZSBmb3JtYXQ6IG1vbmdvZGI6Ly9bdXNlcm5hbWU6cGFzc3dvcmRAXWhvc3QxWzpwb3J0MV0vZGJuYW1lIgogICAgICAgICksCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCJvcmdhbml6YXRpb24iLCB0eXBlPXN0ciwgaGVscD0iT3JnYW5pemF0aW9uIHRvIGV4cG9ydCByZXF1ZXN0cyBmb3IiLCBjaG9pY2VzPVNVUFBPUlRFRF9PUkdTKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgicnVuX3N1aXRlX3BhdGgiLCB0eXBlPXN0ciwgaGVscD0iUGF0aCB0byBydW4gcGF0aC4iKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1vdXRwdXQtcGF0aCIsIHR5cGU9c3RyLCBkZWZhdWx0PSJyZXF1ZXN0cy5qc29ubCIsIGhlbHA9IlBhdGggdG8ganNvbmwgZmlsZS4iKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpZiAoYXJncy5jYWNoZV9kaXIgYW5kIGFyZ3MubW9uZ29fdXJpKSBvciAobm90IGFyZ3MuY2FjaGVfZGlyIGFuZCBub3QgYXJncy5tb25nb191cmkpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIkV4YWN0bHkgb25lIG9mIC0tY2FjaGUtZGlyIG9yIC0tbW9uZ28tdXJpIHNob3VsZCBiZSBzcGVjaWZpZWQiKQogICAgY2FjaGVfY29uZmlnOiBLZXlWYWx1ZVN0b3JlQ2FjaGVDb25maWcKICAgIGlmIGFyZ3MuY2FjaGVfZGlyOgogICAgICAgIGNhY2hlX2NvbmZpZyA9IFNxbGl0ZUNhY2hlQ29uZmlnKG9zLnBhdGguam9pbihhcmdzLmNhY2hlX2RpciwgZiJ7YXJncy5vcmdhbml6YXRpb259LnNxbGl0ZSIpKQogICAgZWxpZiBhcmdzLm1vbmdvX3VyaToKICAgICAgICBjYWNoZV9jb25maWcgPSBNb25nb0NhY2hlQ29uZmlnKGFyZ3MubW9uZ29fdXJpLCBhcmdzLm9yZ2FuaXphdGlvbikKCiAgICBleHBvcnRfcmVxdWVzdHMoY2FjaGVfY29uZmlnLCBhcmdzLm9yZ2FuaXphdGlvbiwgYXJncy5ydW5fc3VpdGVfcGF0aCwgYXJncy5vdXRwdXRfcGF0aCkKICAgIGhsb2coIkRvbmUuIikK
+import argparse
+import json
+import os
+import typing
+from typing import List
+from collections import Counter
+from dacite import from_dict
+
+from helm.common.request import Request
+from helm.common.cache import (
+    KeyValueStoreCacheConfig,
+    MongoCacheConfig,
+    SqliteCacheConfig,
+    create_key_value_store,
+)
+from helm.common.key_value_store import request_to_key
+from helm.common.hierarchical_logger import hlog, htrack, htrack_block
+from helm.clients.google_client import GoogleClient
+from helm.clients.together_client import TogetherClient
+from helm.clients.microsoft_client import MicrosoftClient
+
+
+"""
+Exports raw requests from a run suite to a jsonl file.
+
+Usage:
+
+    python3 scripts/offline_eval/export_requests.py <organization> <Path to run suite>
+
+    Example:
+
+      python3 scripts/offline_eval/export_requests.py together benchmark_output/runs/v4-dryrun
+
+"""
+
+# List of organizations currently supported for offline batch evaluation
+SUPPORTED_ORGS: List[str] = ["together", "google", "microsoft"]
+
+
+@htrack("Generating jsonl file with list of raw requests")
+def export_requests(cache_config: KeyValueStoreCacheConfig, organization: str, run_suite_path: str, output_path: str):
+    """
+    Given a run suite folder, generates a jsonl file at `output_path` with raw queries
+    where each line represents a single request.
+    """
+
+    def fetch_client():
+        if organization == "together":
+            return TogetherClient
+        elif organization == "google":
+            return GoogleClient
+        else:
+            raise ValueError(f"Invalid organization: {organization}")
+
+    def process_request(request: Request):
+        raw_request: typing.Dict = fetch_client().convert_to_raw_request(request)
+
+        # Only export requests that are not in the cache
+        if not store.contains(raw_request):
+            request_json: str = request_to_key({"scenario": scenario_name, "request": raw_request})
+            out_file.write(request_json + "\n")
+            counts["pending_count"] += 1
+        else:
+            counts["cached_count"] += 1
+
+    def process_microsoft_request(request: Request):
+        raw_request: typing.Dict = MicrosoftClient.convert_to_raw_request(request)
+        for completion_index in range(request.num_completions):
+            # We send the same request `num_completions` times because the MT-NLG API does not
+            # support the OpenAI parameter 'n'. In our cache, we use `completion_index` to
+            # differentiate responses for the same request, so we should check if the
+            # request + 'completion_index` is in our cache. However, when we write out the
+            # requests for offline batch evaluation, we should exclude `completion_index`
+            # and write out the JSON for the same request `num_completion` times.
+            cache_key: typing.Dict = {"completion_index": completion_index, **raw_request}
+
+            # Only export requests that we are not in the cache
+            if not store.contains(cache_key):
+                request_json: str = request_to_key(raw_request)
+                out_file.write(request_json + "\n")
+                counts["pending_count"] += 1
+            else:
+                counts["cached_count"] += 1
+
+    counts: typing.Counter = Counter(pending_count=0, cached_count=0)
+
+    # Go through all the valid run folders, pull requests from the scenario_state.json files
+    # and write them out to the jsonl file at path `output_path`.
+    with create_key_value_store(cache_config) as store:
+        with open(output_path, "w") as out_file:
+            for run_dir in os.listdir(run_suite_path):
+                run_path: str = os.path.join(run_suite_path, run_dir)
+
+                if not os.path.isdir(run_path):
+                    continue
+
+                with htrack_block(f"Processing run directory: {run_dir}"):
+                    scenario_state_path: str = os.path.join(run_path, "scenario_state.json")
+                    if not os.path.isfile(scenario_state_path):
+                        hlog(
+                            f"{run_dir} is missing a scenario_state.json file. Expected at path: {scenario_state_path}."
+                        )
+                        continue
+
+                    # Extract the name of the scenario from scenario.json
+                    scenario_name: str
+                    with open(os.path.join(run_path, "scenario.json")) as scenario_file:
+                        scenario = json.load(scenario_file)
+                        scenario_name = scenario["name"]
+
+                    with open(scenario_state_path) as scenario_state_file:
+                        scenario_state = json.load(scenario_state_file)
+                        model_name: str = scenario_state["adapter_spec"]["model"]
+                        current_organization: str = model_name.split("/")[0]
+
+                        if current_organization != organization:
+                            hlog(f"Not generating requests for {current_organization}.")
+                            continue
+
+                        for request_state in scenario_state["request_states"]:
+                            request: Request = from_dict(Request, request_state["request"])
+                            if current_organization == "microsoft":
+                                try:
+                                    process_microsoft_request(request)
+                                except ValueError as e:
+                                    hlog(f"Error while processing Microsoft request: {e}\nRequest: {request}")
+                            else:
+                                process_request(request)
+
+                    hlog(f"Wrote {counts['pending_count']} requests so far.")
+
+    hlog(
+        f"Wrote {counts['pending_count']} requests to {output_path}. "
+        f"{counts['cached_count']} requests already had an entry in the cache."
+    )
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--cache-dir", type=str, help="For a SQLite cache, directory for the .sqlite files containing the cache"
+    )
+    parser.add_argument(
+        "--mongo-uri",
+        type=str,
+        help=(
+            "For a MongoDB cache, Mongo URI to copy items to. "
+            "Example format: mongodb://[username:password@]host1[:port1]/dbname"
+        ),
+    )
+    parser.add_argument("organization", type=str, help="Organization to export requests for", choices=SUPPORTED_ORGS)
+    parser.add_argument("run_suite_path", type=str, help="Path to run path.")
+    parser.add_argument("--output-path", type=str, default="requests.jsonl", help="Path to jsonl file.")
+    args = parser.parse_args()
+
+    if (args.cache_dir and args.mongo_uri) or (not args.cache_dir and not args.mongo_uri):
+        raise ValueError("Exactly one of --cache-dir or --mongo-uri should be specified")
+    cache_config: KeyValueStoreCacheConfig
+    if args.cache_dir:
+        cache_config = SqliteCacheConfig(os.path.join(args.cache_dir, f"{args.organization}.sqlite"))
+    elif args.mongo_uri:
+        cache_config = MongoCacheConfig(args.mongo_uri, args.organization)
+
+    export_requests(cache_config, args.organization, args.run_suite_path, args.output_path)
+    hlog("Done.")

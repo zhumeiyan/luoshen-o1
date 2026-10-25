@@ -1,1 +1,84 @@
-IiIiQ292ZXJhZ2UgZ2F0ZSAoZXhwMTM1KS4KCldoeSB0aGlzIGZpbGUgZXhpc3RzOiBjYW5vbiAjNjEzLiBleHAxMjktMTM1IGdhdGVkIGV4Y2x1c2l2ZWx5IG9uIHByZWNpc2lvbi4KU2l4IHJvdW5kcyBvZiBwcnVuaW5nIGJvdWdodCA5MCUgcHJlY2lzaW9uIGFuZCwgc2lsZW50bHksIGEgdG9vbCB0aGF0IGlzCm11dGUgb24gcHJvZmVzc2lvbmFsIGNvZGU6IDAuMDItMC4wMyBmaW5kaW5ncyBwZXIgS0IsIGFuZCBubyBmaW5kaW5ncyBhdAphbGwgb24gOSBvZiAxMiBjb3JwdXM0IGZpbGVzLiBQcmVjaXNpb24gYWxvbmUgY2Fubm90IHNlZSB0aGF0LgoKVGhpcyBnYXRlIG1lYXN1cmVzIHRocmVlIG51bWJlcnMgdGhhdCBwcmVjaXNpb24gY2Fubm90OgoKICAgIHBlcl9rYiAgICAgICAgZmluZGluZ3MgcGVyIDEwMDAgYnl0ZXMgb2YgcmVhbCBjb2RlCiAgICBzaWxlbnRfZmlsZXMgIGZyYWN0aW9uIG9mIGZpbGVzIHdpdGggemVybyBmaW5kaW5ncwogICAgY29uY2VudHJhdGlvbiBsYXJnZXN0IHNpbmdsZSBmaWxlJ3Mgc2hhcmUgb2YgYWxsIGZpbmRpbmdzCgpBIGxpbnRlciB0aGF0IGlzIG11dGUgaXMgYXMgdW5zZWxsYWJsZSBhcyBhIGxpbnRlciB0aGF0IGNyaWVzIHdvbGYsIGZvciB0aGUKb3Bwb3NpdGUgcmVhc29uLCBhbmQgbmVpdGhlciBmYWlsdXJlIHNob3dzIHVwIGluIGEgcHJlY2lzaW9uIG51bWJlci4KIiIiCmltcG9ydCBzeXMsIGpzb24sIHBhdGhsaWIsIG9zLCBhcmdwYXJzZQoKUk9PVCA9ICIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMSIKc3lzLnBhdGguaW5zZXJ0KDAsIFJPT1QgKyAiL292ZXJzZWFzIikKb3MuY2hkaXIoUk9PVCkKCmZyb20gZXZhbGd1YXJkIGltcG9ydCBjbGkKZnJvbSBldmFsZ3VhcmQuY2xhc3NlcyBpbXBvcnQgU1lOVEFYCgojIE1lYXN1cmVkIG9uIGV4cDEzNSAoY29ycHVzMStjb3JwdXMzK2NvcnB1czQsIDU1IGZpbGVzLCAxLjA5IE1CKToKIyAgIHBlcl9rYiAwLjAyNCAvIDAuMDMxIC8gMC4wMjAgOyBzaWxlbnQgOS8xMiBvbiBjb3JwdXM0IDsgY29uY2VudHJhdGlvbiAxNS8xNwojIFRoZXNlIGFyZSByZXBvcnRlZCwgbm90IHlldCBnYXRlZDogb25lIG1lYXN1cmVtZW50IGlzIG5vdCBhIHRocmVzaG9sZC4KTUlOX1BFUl9LQiA9IDAuMApNQVhfU0lMRU5UID0gMS4wCk1BWF9DT05DRU5UUkFUSU9OID0gMS4wCgoKZGVmIG1lYXN1cmUoZCk6CiAgICBmaWxlcyA9IHNvcnRlZChwYXRobGliLlBhdGgoZCkuZ2xvYigiKi5weSIpKQogICAgbiA9IDAKICAgIGJ5dCA9IDAKICAgIHBlciA9IHt9CiAgICBmb3IgZiBpbiBmaWxlczoKICAgICAgICBieXQgKz0gZi5zdGF0KCkuc3Rfc2l6ZQogICAgICAgIGsgPSAwCiAgICAgICAgZm9yIHIgaW4gY2xpLnNjYW4oc3RyKGYpKToKICAgICAgICAgICAgaWYgclsiZWdfaWQiXSBpbiBTWU5UQVg6CiAgICAgICAgICAgICAgICBrICs9IGxlbihyLmdldCgiaGl0cyIsIFtdKSkKICAgICAgICBwZXJbZi5uYW1lXSA9IGsKICAgICAgICBuICs9IGsKICAgIHNpbGVudCA9IHN1bSgxIGZvciB2IGluIHBlci52YWx1ZXMoKSBpZiB2ID09IDApCiAgICB0b3AgPSBtYXgocGVyLnZhbHVlcygpKSBpZiBwZXIgZWxzZSAwCiAgICByZXR1cm4gewogICAgICAgICJjb3JwdXMiOiBzdHIoZCksICJmaWxlcyI6IGxlbihmaWxlcyksICJieXRlcyI6IGJ5dCwgImZpbmRpbmdzIjogbiwKICAgICAgICAicGVyX2tiIjogcm91bmQobiAvIG1heCgxLCBieXQgLy8gMTAwMCksIDQpLAogICAgICAgICJzaWxlbnRfZmlsZXMiOiBzaWxlbnQsCiAgICAgICAgInNpbGVudF9mcmFjIjogcm91bmQoc2lsZW50IC8gbWF4KDEsIGxlbihmaWxlcykpLCAzKSwKICAgICAgICAiY29uY2VudHJhdGlvbiI6IHJvdW5kKHRvcCAvIG4sIDMpIGlmIG4gZWxzZSBOb25lLAogICAgICAgICJ0b3BfZmlsZSI6IG1heChwZXIsIGtleT1wZXIuZ2V0KSBpZiBwZXIgZWxzZSBOb25lLAogICAgICAgICJwZXJfZmlsZSI6IHBlciwKICAgIH0KCgpkZWYgbWFpbigpOgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBhcC5hZGRfYXJndW1lbnQoImRpcnMiLCBuYXJncz0iKyIpCiAgICBhID0gYXAucGFyc2VfYXJncygpCiAgICByb3dzID0gW21lYXN1cmUoZCkgZm9yIGQgaW4gYS5kaXJzXQogICAgZm9yIHIgaW4gcm93czoKICAgICAgICBwcmludCgiJS01OHMgZmlsZXM9JS0zZCBieXRlcz0lLThkIGZpbmRpbmdzPSUtM2QgcGVyX2tiPSUuNGYgIgogICAgICAgICAgICAgICJzaWxlbnQ9JWQvJWQgY29uYz0lcyIgJSAoCiAgICAgICAgICAgICAgICAgIHJbImNvcnB1cyJdWy01ODpdLCByWyJmaWxlcyJdLCByWyJieXRlcyJdLCByWyJmaW5kaW5ncyJdLAogICAgICAgICAgICAgICAgICByWyJwZXJfa2IiXSwgclsic2lsZW50X2ZpbGVzIl0sIHJbImZpbGVzIl0sCiAgICAgICAgICAgICAgICAgIHJbImNvbmNlbnRyYXRpb24iXSkpCiAgICBqc29uLmR1bXAocm93cywgb3Blbigib3ZlcnNlYXMvZXZhbGd1YXJkL3Rlc3RzL2NvdmVyYWdlX2xhc3QuanNvbiIsICJ3IiksCiAgICAgICAgICAgICAgaW5kZW50PTEpCiAgICBiYWQgPSBbciBmb3IgciBpbiByb3dzIGlmIHJbInBlcl9rYiJdIDwgTUlOX1BFUl9LQgogICAgICAgICAgIG9yIHJbInNpbGVudF9mcmFjIl0gPiBNQVhfU0lMRU5UCiAgICAgICAgICAgb3IgKHJbImNvbmNlbnRyYXRpb24iXSBvciAwKSA+IE1BWF9DT05DRU5UUkFUSU9OXQogICAgaWYgYmFkOgogICAgICAgIHByaW50KCJDT1ZFUkFHRSBGQUlMIiwgW3JbImNvcnB1cyJdIGZvciByIGluIGJhZF0pCiAgICAgICAgcmV0dXJuIDEKICAgIHByaW50KCJDT1ZFUkFHRSBPSyAodGhyZXNob2xkcyBub3QgeWV0IGFybWVkIOKAlCByZXBvcnRpbmcgb25seSkiKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+"""Coverage gate (exp135).
+
+Why this file exists: canon #613. exp129-135 gated exclusively on precision.
+Six rounds of pruning bought 90% precision and, silently, a tool that is
+mute on professional code: 0.02-0.03 findings per KB, and no findings at
+all on 9 of 12 corpus4 files. Precision alone cannot see that.
+
+This gate measures three numbers that precision cannot:
+
+    per_kb        findings per 1000 bytes of real code
+    silent_files  fraction of files with zero findings
+    concentration largest single file's share of all findings
+
+A linter that is mute is as unsellable as a linter that cries wolf, for the
+opposite reason, and neither failure shows up in a precision number.
+"""
+import sys, json, pathlib, os, argparse
+
+ROOT = "/data/workspace/luoshen-o1"
+sys.path.insert(0, ROOT + "/overseas")
+os.chdir(ROOT)
+
+from evalguard import cli
+from evalguard.classes import SYNTAX
+
+# Measured on exp135 (corpus1+corpus3+corpus4, 55 files, 1.09 MB):
+#   per_kb 0.024 / 0.031 / 0.020 ; silent 9/12 on corpus4 ; concentration 15/17
+# These are reported, not yet gated: one measurement is not a threshold.
+MIN_PER_KB = 0.0
+MAX_SILENT = 1.0
+MAX_CONCENTRATION = 1.0
+
+
+def measure(d):
+    files = sorted(pathlib.Path(d).glob("*.py"))
+    n = 0
+    byt = 0
+    per = {}
+    for f in files:
+        byt += f.stat().st_size
+        k = 0
+        for r in cli.scan(str(f)):
+            if r["eg_id"] in SYNTAX:
+                k += len(r.get("hits", []))
+        per[f.name] = k
+        n += k
+    silent = sum(1 for v in per.values() if v == 0)
+    top = max(per.values()) if per else 0
+    return {
+        "corpus": str(d), "files": len(files), "bytes": byt, "findings": n,
+        "per_kb": round(n / max(1, byt // 1000), 4),
+        "silent_files": silent,
+        "silent_frac": round(silent / max(1, len(files)), 3),
+        "concentration": round(top / n, 3) if n else None,
+        "top_file": max(per, key=per.get) if per else None,
+        "per_file": per,
+    }
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("dirs", nargs="+")
+    a = ap.parse_args()
+    rows = [measure(d) for d in a.dirs]
+    for r in rows:
+        print("%-58s files=%-3d bytes=%-8d findings=%-3d per_kb=%.4f "
+              "silent=%d/%d conc=%s" % (
+                  r["corpus"][-58:], r["files"], r["bytes"], r["findings"],
+                  r["per_kb"], r["silent_files"], r["files"],
+                  r["concentration"]))
+    json.dump(rows, open("overseas/evalguard/tests/coverage_last.json", "w"),
+              indent=1)
+    bad = [r for r in rows if r["per_kb"] < MIN_PER_KB
+           or r["silent_frac"] > MAX_SILENT
+           or (r["concentration"] or 0) > MAX_CONCENTRATION]
+    if bad:
+        print("COVERAGE FAIL", [r["corpus"] for r in bad])
+        return 1
+    print("COVERAGE OK (thresholds not yet armed — reporting only)")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

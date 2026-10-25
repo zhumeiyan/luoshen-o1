@@ -1,1 +1,2 @@
-ZGVmIGYoOgogICAgcGFzcwo=
+def f(:
+    pass

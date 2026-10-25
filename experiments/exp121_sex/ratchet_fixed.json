@@ -1,1 +1,23 @@
-ewogImFzZXh1YWwiOiB7CiAgIm5ldF9kcmlmdCI6IDExLjMsCiAgImNsaWNrcyI6IDE4LjMsCiAgInJldmVyc2FscyI6IDcuNCwKICAiaXJyZXZlcnNpYmlsaXR5IjogMC41OTU2LAogICJmaW5hbF9maXQiOiAwLjU2MDcKIH0sCiAic2V4dWFsX2ZyZWUiOiB7CiAgIm5ldF9kcmlmdCI6IDQuNCwKICAiY2xpY2tzIjogNTQuNSwKICAicmV2ZXJzYWxzIjogNTIuNywKICAiaXJyZXZlcnNpYmlsaXR5IjogMC4wMzMsCiAgImZpbmFsX2ZpdCI6IDAuNzk5OQogfSwKICJzZXh1YWxfY29zdCI6IHsKICAibmV0X2RyaWZ0IjogNS4zLAogICJjbGlja3MiOiA1Ni4zLAogICJyZXZlcnNhbHMiOiA1My4yLAogICJpcnJldmVyc2liaWxpdHkiOiAwLjA1NTEsCiAgImZpbmFsX2ZpdCI6IDAuNzYzNAogfQp9
+{
+ "asexual": {
+  "net_drift": 11.3,
+  "clicks": 18.3,
+  "reversals": 7.4,
+  "irreversibility": 0.5956,
+  "final_fit": 0.5607
+ },
+ "sexual_free": {
+  "net_drift": 4.4,
+  "clicks": 54.5,
+  "reversals": 52.7,
+  "irreversibility": 0.033,
+  "final_fit": 0.7999
+ },
+ "sexual_cost": {
+  "net_drift": 5.3,
+  "clicks": 56.3,
+  "reversals": 53.2,
+  "irreversibility": 0.0551,
+  "final_fit": 0.7634
+ }
+}

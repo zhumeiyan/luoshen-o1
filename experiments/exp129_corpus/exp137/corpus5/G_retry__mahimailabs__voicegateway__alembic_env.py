@@ -1,1 +1,144 @@
-IiIiQWxlbWJpYyBlbnZpcm9ubWVudC4KCkxvYWRzIHZvaWNlZ3cueWFtbCB0byBjb21wdXRlIHRoZSBkYXRhYmFzZSBVUkwsIHRoZW4gcmVnaXN0ZXJzIGV2ZXJ5ClNRTE1vZGVsLW1hcHBlZCBlbnRpdHkgc28gYGAtLWF1dG9nZW5lcmF0ZWBgIGNhbiBkaWZmIHRoZSBydW50aW1lIHNjaGVtYQphZ2FpbnN0IHRoZSBkZWNsYXJlZCBtZXRhZGF0YS4KIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXN5bmNpbwppbXBvcnQgb3MKZnJvbSBsb2dnaW5nLmNvbmZpZyBpbXBvcnQgZmlsZUNvbmZpZwoKZnJvbSBzcWxhbGNoZW15IGltcG9ydCBwb29sCmZyb20gc3FsYWxjaGVteS5lbmdpbmUgaW1wb3J0IENvbm5lY3Rpb24KZnJvbSBzcWxhbGNoZW15LmV4dC5hc3luY2lvIGltcG9ydCBhc3luY19lbmdpbmVfZnJvbV9jb25maWcKZnJvbSBzcWxtb2RlbCBpbXBvcnQgU1FMTW9kZWwKCmltcG9ydCB2b2ljZWdhdGV3YXkubW9kZWxzICAjIG5vcWE6IEY0MDEsIEU0MDIg4oCUIHJlZ2lzdGVycyBldmVyeSBtb2RlbApmcm9tIGFsZW1iaWMgaW1wb3J0IGNvbnRleHQKZnJvbSB2b2ljZWdhdGV3YXkuY29yZS5jb25maWcgaW1wb3J0IEdhdGV3YXlDb25maWcgICMgbm9xYTogRTQwMgpmcm9tIHZvaWNlZ2F0ZXdheS5jb3JlLmRhdGFiYXNlIGltcG9ydCByZXNvbHZlX2RhdGFiYXNlX3VybCAgIyBub3FhOiBFNDAyCgphbGVtYmljX2NvbmZpZyA9IGNvbnRleHQuY29uZmlnCgojIGZpbGVDb25maWcoKSByZWNvbmZpZ3VyZXMgdGhlIHJvb3QgbG9nZ2VyIGZyb20gYWxlbWJpYy5pbmkuIFRoYXQncwojIGZpbmUgZm9yIHRoZSBDTEksIGJ1dCBEYXRhYmFzZS5ydW5fbWlncmF0aW9ucygpIHNldHMgdGhpcyBlbnYgdmFyIHNvCiMgdGhlIHByb2dyYW1tYXRpYyBwYXRoIGRvZXNuJ3QgY2xvYmJlciB0aGUgY2FsbGVyJ3MgbG9nZ2luZyBzZXR1cAojICh3aGljaCBicmVha3MgcHl0ZXN0IGNhcGxvZyBhbmQgYW55IGhvc3QgdGhhdCBhbHJlYWR5IHdpcmVkIGxvZ2dpbmcpLgppZiAoCiAgICBhbGVtYmljX2NvbmZpZy5jb25maWdfZmlsZV9uYW1lIGlzIG5vdCBOb25lCiAgICBhbmQgb3MuZW52aXJvbi5nZXQoIlZPSUNFR1dfQUxFTUJJQ19TS0lQX0xPR0dJTkciKSAhPSAiMSIKKToKICAgIGZpbGVDb25maWcoYWxlbWJpY19jb25maWcuY29uZmlnX2ZpbGVfbmFtZSkKCgpkZWYgX3Jlc29sdmVfdXJsKCkgLT4gc3RyOgogICAgIyBBIGNhbGxlciB0aGF0IGFscmVhZHkga25vd3Mgd2hpY2ggZGF0YWJhc2UgaXQgbWVhbnMgKERhdGFiYXNlLgogICAgIyBydW5fbWlncmF0aW9ucywgYnVpbHQgZnJvbSBhbiBleHBsaWNpdCBjb25maWcpIHBhc3NlcyB0aGUgVVJMIHRocm91Z2ggYXMKICAgICMgYW4gYXR0cmlidXRlLiBIb25vdXIgaXQgZmlyc3Q6IGxvYWRpbmcgdm9pY2Vndy55YW1sIGhlcmUgd291bGQgcmVkaXJlY3QKICAgICMgdGhvc2UgbWlncmF0aW9ucyB0byB3aGF0ZXZlciBkYXRhYmFzZSB0aGUgeWFtbCBuYW1lcywgd2hpY2ggaXMgaG93IGEgdGVzdAogICAgIyBob2xkaW5nIGl0cyBvd24gdG1wIGRhdGFiYXNlIGVuZHMgdXAgbWlncmF0aW5nIHRoZSBvcGVyYXRvcidzIGRlZmF1bHQgb25lCiAgICAjIGFuZCBsZWF2aW5nIGl0cyBvd24gd2l0aG91dCB0YWJsZXMuCiAgICBleHBsaWNpdCA9IGFsZW1iaWNfY29uZmlnLmF0dHJpYnV0ZXMuZ2V0KCJ2b2ljZWd3X3VybCIpCiAgICBpZiBleHBsaWNpdDoKICAgICAgICByZXR1cm4gc3RyKGV4cGxpY2l0KQogICAgdHJ5OgogICAgICAgIGNmZyA9IEdhdGV3YXlDb25maWcubG9hZCgpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICMgRmFsbCBiYWNrIHRvIHRoZSBVUkwgaW4gYWxlbWJpYy5pbmkgd2hlbiBubyB2b2ljZWd3LnlhbWwgaXMgb24gZGlzawogICAgICAgICMgKENJIGJvb3RzdHJhcCwgZnJlc2ggY2xvbmVzLCBldGMuKS4KICAgICAgICByZXR1cm4gYWxlbWJpY19jb25maWcuZ2V0X21haW5fb3B0aW9uKCJzcWxhbGNoZW15LnVybCIpIG9yICIiCiAgICByZXR1cm4gcmVzb2x2ZV9kYXRhYmFzZV91cmwoY2ZnKQoKCmFsZW1iaWNfY29uZmlnLnNldF9tYWluX29wdGlvbigic3FsYWxjaGVteS51cmwiLCBfcmVzb2x2ZV91cmwoKSkKCnRhcmdldF9tZXRhZGF0YSA9IFNRTE1vZGVsLm1ldGFkYXRhCgojIERlZGljYXRlZCB2ZXJzaW9uIHRhYmxlIHNvIGEgZnV0dXJlIGNsb3VkIG1pZ3JhdGlvbiBjaGFpbiBjYW4gc2hhcmUgdGhlIHNhbWUKIyBkYXRhYmFzZSB3aXRob3V0IGNvbGxpZGluZyBvbiB0aGUgZGVmYXVsdCAiYWxlbWJpY192ZXJzaW9uIi4KVkVSU0lPTl9UQUJMRSA9ICJhbGVtYmljX3ZlcnNpb25fdm9pY2VnYXRld2F5IgoKCmRlZiBfbWF5YmVfcmVuYW1lX2xlZ2FjeV92ZXJzaW9uX3RhYmxlKGNvbm5lY3Rpb246IENvbm5lY3Rpb24pIC0+IE5vbmU6CiAgICAiIiJSZW5hbWUgYWxlbWJpY192ZXJzaW9uIC0+IGFsZW1iaWNfdmVyc2lvbl92b2ljZWdhdGV3YXkgZm9yIGV4aXN0aW5nIGluc3RhbGxzLgoKICAgIENhbGxlZCBhdCB0aGUgdG9wIG9mIGRvX3J1bl9taWdyYXRpb25zLCBiZWZvcmUgY29udGV4dC5jb25maWd1cmUsIHNvIHRoYXQKICAgIEFsZW1iaWMgYWx3YXlzIHNlZXMgdGhlIG5ldyBuYW1lc3BhY2VkIHRhYmxlIGFuZCBuZXZlciB0cmllcyB0byByZWJ1aWxkCiAgICBmcm9tIGJhc2Ugd2hlbiBpdCBmaW5kcyB0aGUgb2xkIGdlbmVyaWMgb25lLgoKICAgIElNUE9SVEFOVDogdGhlIHJlbmFtZSBxdWVyeSBpcyBleGVjdXRlZCBpbnNpZGUgYW4gZXhwbGljaXQgYGBiZWdpbigpYGAKICAgIGJsb2NrIHRoYXQgY29tbWl0cyBiZWZvcmUgcmV0dXJuaW5nLiAgQW55IFNRTCBleGVjdXRpb24gb24gYSBTUUxBbGNoZW15IDIKICAgIGNvbm5lY3Rpb24gdHJpZ2dlcnMgYXV0b2JlZ2luOyBpZiB3ZSBsZWZ0IHRoZSBjb25uZWN0aW9uIGluIHRoYXQKICAgIGF1dG8tYmVndW4gdHJhbnNhY3Rpb24sIEFsZW1iaWMgd291bGQgZGV0ZWN0IGBgX2luX2V4dGVybmFsX3RyYW5zYWN0aW9uYGAKICAgIGFuZCB0cmVhdCBgYGNvbnRleHQuYmVnaW5fdHJhbnNhY3Rpb24oKWBgIGFzIGEgbm8tb3AsIGNhdXNpbmcgdGhlIHZlcnNpb24KICAgIHN0YW1wIElOU0VSVCB0byBiZSBpc3N1ZWQgYnV0IG5ldmVyIGNvbW1pdHRlZC4KICAgICIiIgogICAgd2l0aCBjb25uZWN0aW9uLmJlZ2luKCk6CiAgICAgICAgIyBVc2UgdGhlIGRpYWxlY3QtYWdub3N0aWMgaW5zcGVjdG9yIGluc3RlYWQgb2YgaGFuZC13cml0dGVuCiAgICAgICAgIyBpbmZvcm1hdGlvbl9zY2hlbWEgLyBzcWxpdGVfbWFzdGVyIHF1ZXJpZXM6IGV4ZWNfZHJpdmVyX3NxbCBwYXNzZXMgdGhlCiAgICAgICAgIyByYXcgcGFyYW1zdHlsZSB0aHJvdWdoIHRvIHRoZSBkcml2ZXIsIGFuZCBhc3luY3BnIHJlamVjdHMgdGhlIHBzeWNvcGcKICAgICAgICAjICIlcyIgcGxhY2Vob2xkZXIgKCJzeW50YXggZXJyb3IgYXQgb3IgbmVhciAlIikuIGluc3BlY3QoKS5oYXNfdGFibGUKICAgICAgICAjIHdvcmtzIGlkZW50aWNhbGx5IG9uIFNRTGl0ZSBhbmQgUG9zdGdyZXMuCiAgICAgICAgZnJvbSBzcWxhbGNoZW15IGltcG9ydCBpbnNwZWN0CgogICAgICAgIGluc3BlY3RvciA9IGluc3BlY3QoY29ubmVjdGlvbikKICAgICAgICBvbGRfZXhpc3RzID0gaW5zcGVjdG9yLmhhc190YWJsZSgiYWxlbWJpY192ZXJzaW9uIikKICAgICAgICBuZXdfZXhpc3RzID0gaW5zcGVjdG9yLmhhc190YWJsZShWRVJTSU9OX1RBQkxFKQoKICAgICAgICBpZiBvbGRfZXhpc3RzIGFuZCBub3QgbmV3X2V4aXN0czoKICAgICAgICAgICAgY29ubmVjdGlvbi5leGVjX2RyaXZlcl9zcWwoCiAgICAgICAgICAgICAgICBmIkFMVEVSIFRBQkxFIGFsZW1iaWNfdmVyc2lvbiBSRU5BTUUgVE8ge1ZFUlNJT05fVEFCTEV9IgogICAgICAgICAgICApCiAgICAjIEFmdGVyIHRoZSBiZWdpbigpIGJsb2NrIGNvbW1pdHMsIGNvbm5lY3Rpb24uaW5fdHJhbnNhY3Rpb24oKSBpcyBGYWxzZSwKICAgICMgc28gQWxlbWJpYyB3aWxsIG5vdCBzZWUgYW4gZXh0ZXJuYWwgdHJhbnNhY3Rpb24gYW5kIHdpbGwgbWFuYWdlIGl0cyBvd24KICAgICMgY29tbWl0IGZvciB0aGUgdmVyc2lvbiBzdGFtcC4KCgpkZWYgcnVuX21pZ3JhdGlvbnNfb2ZmbGluZSgpIC0+IE5vbmU6CiAgICAiIiJFbWl0IFNRTCB0byBzdGRvdXQgd2l0aG91dCBvcGVuaW5nIGEgREIgY29ubmVjdGlvbi4iIiIKICAgIGNvbnRleHQuY29uZmlndXJlKAogICAgICAgIHVybD1hbGVtYmljX2NvbmZpZy5nZXRfbWFpbl9vcHRpb24oInNxbGFsY2hlbXkudXJsIiksCiAgICAgICAgdGFyZ2V0X21ldGFkYXRhPXRhcmdldF9tZXRhZGF0YSwKICAgICAgICBsaXRlcmFsX2JpbmRzPVRydWUsCiAgICAgICAgZGlhbGVjdF9vcHRzPXsicGFyYW1zdHlsZSI6ICJuYW1lZCJ9LAogICAgICAgIHJlbmRlcl9hc19iYXRjaD1UcnVlLAogICAgICAgIHZlcnNpb25fdGFibGU9VkVSU0lPTl9UQUJMRSwKICAgICkKICAgIHdpdGggY29udGV4dC5iZWdpbl90cmFuc2FjdGlvbigpOgogICAgICAgIGNvbnRleHQucnVuX21pZ3JhdGlvbnMoKQoKCmRlZiBkb19ydW5fbWlncmF0aW9ucyhjb25uZWN0aW9uOiBDb25uZWN0aW9uKSAtPiBOb25lOgogICAgX21heWJlX3JlbmFtZV9sZWdhY3lfdmVyc2lvbl90YWJsZShjb25uZWN0aW9uKQogICAgY29udGV4dC5jb25maWd1cmUoCiAgICAgICAgY29ubmVjdGlvbj1jb25uZWN0aW9uLAogICAgICAgIHRhcmdldF9tZXRhZGF0YT10YXJnZXRfbWV0YWRhdGEsCiAgICAgICAgcmVuZGVyX2FzX2JhdGNoPVRydWUsCiAgICAgICAgdmVyc2lvbl90YWJsZT1WRVJTSU9OX1RBQkxFLAogICAgKQogICAgd2l0aCBjb250ZXh0LmJlZ2luX3RyYW5zYWN0aW9uKCk6CiAgICAgICAgY29udGV4dC5ydW5fbWlncmF0aW9ucygpCgoKYXN5bmMgZGVmIHJ1bl9hc3luY19taWdyYXRpb25zKCkgLT4gTm9uZToKICAgIGNvbm5lY3RhYmxlID0gYXN5bmNfZW5naW5lX2Zyb21fY29uZmlnKAogICAgICAgIGFsZW1iaWNfY29uZmlnLmdldF9zZWN0aW9uKGFsZW1iaWNfY29uZmlnLmNvbmZpZ19pbmlfc2VjdGlvbiwge30pLAogICAgICAgIHByZWZpeD0ic3FsYWxjaGVteS4iLAogICAgICAgIHBvb2xjbGFzcz1wb29sLk51bGxQb29sLAogICAgKQogICAgYXN5bmMgd2l0aCBjb25uZWN0YWJsZS5jb25uZWN0KCkgYXMgY29ubmVjdGlvbjoKICAgICAgICBhd2FpdCBjb25uZWN0aW9uLnJ1bl9zeW5jKGRvX3J1bl9taWdyYXRpb25zKQogICAgYXdhaXQgY29ubmVjdGFibGUuZGlzcG9zZSgpCgoKZGVmIHJ1bl9taWdyYXRpb25zX29ubGluZSgpIC0+IE5vbmU6CiAgICBhc3luY2lvLnJ1bihydW5fYXN5bmNfbWlncmF0aW9ucygpKQoKCmlmIGNvbnRleHQuaXNfb2ZmbGluZV9tb2RlKCk6CiAgICBydW5fbWlncmF0aW9uc19vZmZsaW5lKCkKZWxzZToKICAgIHJ1bl9taWdyYXRpb25zX29ubGluZSgpCg==
+"""Alembic environment.
+
+Loads voicegw.yaml to compute the database URL, then registers every
+SQLModel-mapped entity so ``--autogenerate`` can diff the runtime schema
+against the declared metadata.
+"""
+
+from __future__ import annotations
+
+import asyncio
+import os
+from logging.config import fileConfig
+
+from sqlalchemy import pool
+from sqlalchemy.engine import Connection
+from sqlalchemy.ext.asyncio import async_engine_from_config
+from sqlmodel import SQLModel
+
+import voicegateway.models  # noqa: F401, E402 — registers every model
+from alembic import context
+from voicegateway.core.config import GatewayConfig  # noqa: E402
+from voicegateway.core.database import resolve_database_url  # noqa: E402
+
+alembic_config = context.config
+
+# fileConfig() reconfigures the root logger from alembic.ini. That's
+# fine for the CLI, but Database.run_migrations() sets this env var so
+# the programmatic path doesn't clobber the caller's logging setup
+# (which breaks pytest caplog and any host that already wired logging).
+if (
+    alembic_config.config_file_name is not None
+    and os.environ.get("VOICEGW_ALEMBIC_SKIP_LOGGING") != "1"
+):
+    fileConfig(alembic_config.config_file_name)
+
+
+def _resolve_url() -> str:
+    # A caller that already knows which database it means (Database.
+    # run_migrations, built from an explicit config) passes the URL through as
+    # an attribute. Honour it first: loading voicegw.yaml here would redirect
+    # those migrations to whatever database the yaml names, which is how a test
+    # holding its own tmp database ends up migrating the operator's default one
+    # and leaving its own without tables.
+    explicit = alembic_config.attributes.get("voicegw_url")
+    if explicit:
+        return str(explicit)
+    try:
+        cfg = GatewayConfig.load()
+    except Exception:
+        # Fall back to the URL in alembic.ini when no voicegw.yaml is on disk
+        # (CI bootstrap, fresh clones, etc.).
+        return alembic_config.get_main_option("sqlalchemy.url") or ""
+    return resolve_database_url(cfg)
+
+
+alembic_config.set_main_option("sqlalchemy.url", _resolve_url())
+
+target_metadata = SQLModel.metadata
+
+# Dedicated version table so a future cloud migration chain can share the same
+# database without colliding on the default "alembic_version".
+VERSION_TABLE = "alembic_version_voicegateway"
+
+
+def _maybe_rename_legacy_version_table(connection: Connection) -> None:
+    """Rename alembic_version -> alembic_version_voicegateway for existing installs.
+
+    Called at the top of do_run_migrations, before context.configure, so that
+    Alembic always sees the new namespaced table and never tries to rebuild
+    from base when it finds the old generic one.
+
+    IMPORTANT: the rename query is executed inside an explicit ``begin()``
+    block that commits before returning.  Any SQL execution on a SQLAlchemy 2
+    connection triggers autobegin; if we left the connection in that
+    auto-begun transaction, Alembic would detect ``_in_external_transaction``
+    and treat ``context.begin_transaction()`` as a no-op, causing the version
+    stamp INSERT to be issued but never committed.
+    """
+    with connection.begin():
+        # Use the dialect-agnostic inspector instead of hand-written
+        # information_schema / sqlite_master queries: exec_driver_sql passes the
+        # raw paramstyle through to the driver, and asyncpg rejects the psycopg
+        # "%s" placeholder ("syntax error at or near %"). inspect().has_table
+        # works identically on SQLite and Postgres.
+        from sqlalchemy import inspect
+
+        inspector = inspect(connection)
+        old_exists = inspector.has_table("alembic_version")
+        new_exists = inspector.has_table(VERSION_TABLE)
+
+        if old_exists and not new_exists:
+            connection.exec_driver_sql(
+                f"ALTER TABLE alembic_version RENAME TO {VERSION_TABLE}"
+            )
+    # After the begin() block commits, connection.in_transaction() is False,
+    # so Alembic will not see an external transaction and will manage its own
+    # commit for the version stamp.
+
+
+def run_migrations_offline() -> None:
+    """Emit SQL to stdout without opening a DB connection."""
+    context.configure(
+        url=alembic_config.get_main_option("sqlalchemy.url"),
+        target_metadata=target_metadata,
+        literal_binds=True,
+        dialect_opts={"paramstyle": "named"},
+        render_as_batch=True,
+        version_table=VERSION_TABLE,
+    )
+    with context.begin_transaction():
+        context.run_migrations()
+
+
+def do_run_migrations(connection: Connection) -> None:
+    _maybe_rename_legacy_version_table(connection)
+    context.configure(
+        connection=connection,
+        target_metadata=target_metadata,
+        render_as_batch=True,
+        version_table=VERSION_TABLE,
+    )
+    with context.begin_transaction():
+        context.run_migrations()
+
+
+async def run_async_migrations() -> None:
+    connectable = async_engine_from_config(
+        alembic_config.get_section(alembic_config.config_ini_section, {}),
+        prefix="sqlalchemy.",
+        poolclass=pool.NullPool,
+    )
+    async with connectable.connect() as connection:
+        await connection.run_sync(do_run_migrations)
+    await connectable.dispose()
+
+
+def run_migrations_online() -> None:
+    asyncio.run(run_async_migrations())
+
+
+if context.is_offline_mode():
+    run_migrations_offline()
+else:
+    run_migrations_online()

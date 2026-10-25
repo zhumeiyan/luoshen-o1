@@ -1,1 +1,354 @@
-aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHRocmVhZGluZwppbXBvcnQgdHJhY2ViYWNrCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKZnJvbSBQeVF0Ni5RdENvcmUgaW1wb3J0IFFPYmplY3QsIHB5cXRTaWduYWwKZnJvbSBQeVF0Ni5RdFdpZGdldHMgaW1wb3J0IFFGaWxlRGlhbG9nLCBRTWVzc2FnZUJveAoKZnJvbSBtZGN4LmNvbmZpZy5tYW5hZ2VyIGltcG9ydCBtYW5hZ2VyCmZyb20gbWRjeC5zaWduYWxzIGltcG9ydCBzaWduYWxfcXQKZnJvbSBtZGN4LnV0aWxzIGltcG9ydCBleGVjdXRvciwgZ2V0X2N1cnJlbnRfdGltZQoKCmNsYXNzIF9HZnJpZW5kc1NpZ25hbHMoUU9iamVjdCk6CiAgICBkb25lID0gcHlxdFNpZ25hbChib29sLCBzdHIpCgoKX2dmcmllbmRzX3NpZ25hbCA9IF9HZnJpZW5kc1NpZ25hbHMoKQoKCmRlZiBwdXNoQnV0dG9uX2NvdmVyX2JhY2tmaWxsX3N0YXJ0X2NsaWNrZWQoc2VsZik6CiAgICBmcm9tIHNjcmlwdHMuY292ZXJfYmFja2ZpbGwgaW1wb3J0IGJhY2tmaWxsX2NvdmVyCgogICAgc2VsZi5wdXNoQnV0dG9uX3Nob3dfbG9nX2NsaWNrZWQoKQogICAgbnVtYmVycyA9IHNlbGYuVWkubGluZUVkaXRfY292ZXJfYmFja2ZpbGxfbnVtYmVycy50ZXh0KCkuc3RyaXAoKQogICAgaWYgbm90IG51bWJlcnM6CiAgICAgICAgc2lnbmFsX3F0LnNob3dfbG9nX3RleHQoIvCflLQg6K+36L6T5YWl55Wq5Y+3IikKICAgICAgICByZXR1cm4KICAgIG51bWJlcl9saXN0ID0gW24uc3RyaXAoKSBmb3IgbiBpbiBudW1iZXJzLnNwbGl0KCkgaWYgbi5zdHJpcCgpXQogICAgb3ZlcndyaXRlID0gc2VsZi5VaS5jaGVja0JveF9jb3Zlcl9iYWNrZmlsbF9vdmVyd3JpdGUuaXNDaGVja2VkKCkKICAgIHdhdGVybWFyayA9IHNlbGYuVWkuY2hlY2tCb3hfY292ZXJfYmFja2ZpbGxfd2F0ZXJtYXJrLmlzQ2hlY2tlZCgpCgogICAgYXN5bmMgZGVmIHJ1bl9iYWNrZmlsbCgpOgogICAgICAgIHJlc3VsdHMgPSBbXQogICAgICAgIGZvciBudW1iZXIgaW4gbnVtYmVyX2xpc3Q6CiAgICAgICAgICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KGYi5byA5aeL6KGl5Zu+OiB7bnVtYmVyfSIpCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJlc3VsdCA9IGF3YWl0IGJhY2tmaWxsX2NvdmVyKAogICAgICAgICAgICAgICAgICAgIG51bWJlciwKICAgICAgICAgICAgICAgICAgICBvdXRwdXRfZGlyPW1hbmFnZXIuZGF0YV9mb2xkZXIsCiAgICAgICAgICAgICAgICAgICAgb3ZlcndyaXRlPW92ZXJ3cml0ZSwKICAgICAgICAgICAgICAgICAgICB3YXRlcm1hcms9d2F0ZXJtYXJrLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQocmVzdWx0KQogICAgICAgICAgICAgICAgc2lnbmFsX3F0LnNob3dfbG9nX3RleHQoZiIgIOKchSB7cmVzdWx0Lm51bWJlcn06IHRodW1iPXtyZXN1bHQudGh1bWJfcGF0aH0sIHBvc3Rlcj17cmVzdWx0LnBvc3Rlcl9wYXRofSIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KGYiICDwn5S0IHtudW1iZXJ9OiB7ZX0iKQogICAgICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KCI9IiAqIDYwKQogICAgICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KGYi5bCB6Z2i6KGl5Zu+5a6M5oiQOiB7bGVuKHJlc3VsdHMpfS97bGVuKG51bWJlcl9saXN0KX0g5oiQ5YqfIikKICAgICAgICBzZWxmLnB1c2hCdXR0b25fY292ZXJfYmFja2ZpbGxfc3RhcnQuZW1pdCgi5byA5aeL6KGl5Zu+IikKCiAgICBzZWxmLnB1c2hCdXR0b25fY292ZXJfYmFja2ZpbGxfc3RhcnQuZW1pdCgi6KGl5Zu+5LitLi4uIikKICAgIGV4ZWN1dG9yLnN1Ym1pdChydW5fYmFja2ZpbGwoKSkKCgpkZWYgcHVzaEJ1dHRvbl9lbWJ5X2FjdG9yX21hbmFnZXJfY2xpY2tlZChzZWxmKToKICAgICIiIuaJk+W8gCBFbWJ5IOa8lOWRmOeuoeeQhuWZqO+8iOWNleS+i++8ieOAguiurumimCAjNjHvvJrljp/niYjmr4/mrKHngrnlh7vmlrDlvIAgZGlhbG9nIOKGkgogICAg5Y+v5ZCM5pe25byA5aSa5Liq77yMIuaPkOS6pOaIluiOt+WPluaVsOaNruebuOS6kuW5suaJsC/or7fmsYLov4fovb0i44CC5pS55Li65Y2V5L6L5aSN55SoICsKICAgIGRlc3Ryb3llZCDkv6Hlj7fmuIXlvJXnlKjjgILorq7popggIzc577yacmFpc2VfL2FjdGl2YXRlV2luZG93CiAgICDkvJrmiorkuLvnqpfmi4nkuIrliY3lj7DvvIhXaW5kb3dzIOezu+e7n+ihjOS4uu+8ie+8jOenu+mZpOKAlOKAlOeUsSBRRGlhbG9nIOeahCBzaG93IOiHqui6qwogICAg6LSf6LSj54Sm54K577yM5LiN5bmy5raJ5Li756qX55qE5pyA5bCP5YyW54q25oCB77yI5aSa56qX5Y+j55So5oi35YWz5rOo5Li756qX5L+d5oyB54us56uL77yJ44CCCiAgICAiIiIKICAgIHRyeToKICAgICAgICBmcm9tIG1kY3gudG9vbHMuZW1ieV9hY3Rvcl9tYW5hZ2VyX3VpIGltcG9ydCBFbWJ5QWN0b3JNYW5hZ2VyRGlhbG9nCgogICAgICAgIGV4aXN0aW5nID0gZ2V0YXR0cihzZWxmLCAiX2VtYnlfZGlhbG9nIiwgTm9uZSkKICAgICAgICBpZiBleGlzdGluZyBpcyBub3QgTm9uZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgIyDlt7LlrZjlnKjkuJTmnKrplIDmr4Eg4oaSIOaPkOWJjeWPsOWkjeeUqO+8iOWQq+S7juacgOWwj+WMlui/mOWOn++8iQogICAgICAgICAgICAgICAgaWYgZXhpc3RpbmcuaXNNaW5pbWl6ZWQoKToKICAgICAgICAgICAgICAgICAgICBleGlzdGluZy5zaG93Tm9ybWFsKCkKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZXhpc3Rpbmcuc2hvdygpCiAgICAgICAgICAgICAgICAjIFdpbmRvd3Mg5Y6f55Sf6L655qGG5LiL77yM5a+56K+d5qGGIHJhaXNlXy9hY3RpdmF0ZVdpbmRvdyDkvJrogZTliqjmi4notbfkuLvnqpcKICAgICAgICAgICAgICAgICMg77yI5Li756qX5pyA5bCP5YyW5pe277yJ4oCU4oCU6K6u6aKYICM3Oe+8muWPquWcqOS4u+eql+WPr+ingeaXtiByYWlzZSDmj5DliY3lj7DvvJvkuLvnqpcKICAgICAgICAgICAgICAgICMg5pyA5bCP5YyW5pe25Lqk57uZIHNob3coKSDoh6rouqvlpITnkIblr7nor53moYbnhKbngrnvvIznu7TmjIHkuLvnqpfnirbmgIHkuI3liqjjgIIKICAgICAgICAgICAgICAgIGlmIG5vdCBzZWxmLmlzTWluaW1pemVkKCkgYW5kIHNlbGYuaXNWaXNpYmxlKCk6CiAgICAgICAgICAgICAgICAgICAgZXhpc3RpbmcucmFpc2VfKCkKICAgICAgICAgICAgICAgICAgICBleGlzdGluZy5hY3RpdmF0ZVdpbmRvdygpCiAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgZXhjZXB0IFJ1bnRpbWVFcnJvcjoKICAgICAgICAgICAgICAgICMgQysrIOWvueixoeW3suiiq+mUgOavge+8iFdBX0RlbGV0ZU9uQ2xvc2Ug6YeK5pS+77yJ77yM5o2i5paw55qECiAgICAgICAgICAgICAgICBzZWxmLl9lbWJ5X2RpYWxvZyA9IE5vbmUKCiAgICAgICAgZGlhbG9nID0gRW1ieUFjdG9yTWFuYWdlckRpYWxvZygpCiAgICAgICAgIyDkuLvnqpflj6Pkvqflj6rkv53lrZjlvLHlrZjlnKjor63kuYnvvJpkZXN0cm95ZWQg5pe25riF5byV55So77yM6YG/5YWN5oKs56m65oyH6ZKICiAgICAgICAgZGlhbG9nLmRlc3Ryb3llZC5jb25uZWN0KGxhbWJkYSAqXzogc2V0YXR0cihzZWxmLCAiX2VtYnlfZGlhbG9nIiwgTm9uZSkpCiAgICAgICAgc2VsZi5fZW1ieV9kaWFsb2cgPSBkaWFsb2cKICAgICAgICBkaWFsb2cuc2hvdygpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgc2lnbmFsX3F0LnNob3dfbG9nX3RleHQoZiLinYwgRW1ieSDmvJTlkZjnrqHnkIblmajmiZPlvIDlpLHotKU6IHtlfVxue3RyYWNlYmFjay5mb3JtYXRfZXhjKCl9IikKCgojID09PT09PT09PT09PT0g6K6+572uLea8lOWRmCA9PT09PT09PT09PT09CgoKZGVmIHB1c2hCdXR0b25fc2VsZWN0X2dmcmllbmRzX2xvY2FsX2NsaWNrZWQoc2VsZik6CiAgICBnZnJpZW5kc19wYXRoID0gc2VsZi5fZ2V0X3NlbGVjdF9mb2xkZXJfcGF0aChzZWxmLlVpLmxpbmVFZGl0X2dmcmllbmRzX2xvY2FsX3BhdGgpCiAgICBpZiBnZnJpZW5kc19wYXRoOgogICAgICAgIHNlbGYuVWkubGluZUVkaXRfZ2ZyaWVuZHNfbG9jYWxfcGF0aC5zZXRUZXh0KGdmcmllbmRzX3BhdGgpCiAgICAgICAgc2VsZi5wdXNoQnV0dG9uX3NhdmVfY29uZmlnX2NsaWNrZWQoKQoKCmRlZiBwdXNoQnV0dG9uX3N5bmNfZ2ZyaWVuZHNfY2xpY2tlZChzZWxmKToKICAgIGxvY2FsX3BhdGggPSBzZWxmLlVpLmxpbmVFZGl0X2dmcmllbmRzX2xvY2FsX3BhdGgudGV4dCgpLnN0cmlwKCkKICAgIGlmIG5vdCBsb2NhbF9wYXRoOgogICAgICAgIFFNZXNzYWdlQm94Lndhcm5pbmcoc2VsZiwgIuaPkOekuiIsICLor7flhYjpgInmi6kgR2ZyaWVuZHMg5pys5Zyw5LuT5bqT55uu5b2VIikKICAgICAgICByZXR1cm4KICAgIGZyb20gbWRjeC50b29scy5zeW5jX2dmcmllbmRzIGltcG9ydCBzeW5jX2dmcmllbmRzIGFzIGRvX3N5bmMKCiAgICAjIGdpdCBwdWxsIOi1sOWQjuWPsOe6v+eoi++8jOmBv+WFjeWQjOatpemYu+WhniBVSe+8iOi2heaXtuacgOmVvyA1IOWIhumSn++8iQogICAgc2VsZi5VaS5wdXNoQnV0dG9uX3N5bmNfZ2ZyaWVuZHMuc2V0RW5hYmxlZChGYWxzZSkKICAgIHNlbGYuVWkucHVzaEJ1dHRvbl9zeW5jX2dmcmllbmRzLnNldFRleHQoIuabtOaWsOS4rS4uLiIpCgogICAgZGVmIF9kb25lKHN1Y2Nlc3M6IGJvb2wsIG1zZzogc3RyKToKICAgICAgICBzZWxmLlVpLnB1c2hCdXR0b25fc3luY19nZnJpZW5kcy5zZXRFbmFibGVkKFRydWUpCiAgICAgICAgIyDlpI3ljp/mlofmoYjpobvkuI4gTURDeC51aSDnmoTorr7orqHmgIHmlofmoYjkuIDoh7TvvIjljp/mlofmoYjnoaznvJbnoIHnmoTjgIzlkIzmraUgR2ZyaWVuZHPjgI0KICAgICAgICAjIOS4juiuvuiuoeaAgeeahOOAjOabtOaWsCBHZnJpZW5kc+OAjeacrOWwseS4jeS4gOiHtO+8jOWQjOatpeWujOS4gOasoeWwseS8mui3s+Wtl++8iQogICAgICAgIHNlbGYuVWkucHVzaEJ1dHRvbl9zeW5jX2dmcmllbmRzLnNldFRleHQoIuabtOaWsEdmcmllbmRzIElucHV0ZXIiKQogICAgICAgIGlmIHN1Y2Nlc3M6CiAgICAgICAgICAgIHNpZ25hbF9xdC5zaG93X3NjcmFwZV9pbmZvKGYi4pyFIHttc2d9IikKICAgICAgICBlbHNlOgogICAgICAgICAgICBRTWVzc2FnZUJveC53YXJuaW5nKHNlbGYsICLmm7TmlrDlpLHotKUiLCBtc2cpCiAgICAgICAgc2VsZi5VaS5sYWJlbF9nZnJpZW5kc191cGRhdGVfdGltZS5zZXRUZXh0KGYi5pyA5ZCO5pu05pawOiB7Z2V0X2N1cnJlbnRfdGltZSgpfSIpCgogICAgdHJ5OgogICAgICAgIF9nZnJpZW5kc19zaWduYWwuZG9uZS5kaXNjb25uZWN0KCkKICAgIGV4Y2VwdCBUeXBlRXJyb3I6CiAgICAgICAgcGFzcwogICAgX2dmcmllbmRzX3NpZ25hbC5kb25lLmNvbm5lY3QoX2RvbmUpCgogICAgYXN5bmMgZGVmIF9ydW4oKToKICAgICAgICBzdWNjZXNzLCBtc2cgPSBhd2FpdCBhc3luY2lvLnRvX3RocmVhZChkb19zeW5jLCBsb2NhbF9wYXRoKQogICAgICAgIF9nZnJpZW5kc19zaWduYWwuZG9uZS5lbWl0KHN1Y2Nlc3MsIG1zZykKCiAgICBleGVjdXRvci5zdWJtaXQoX3J1bigpKQoKCmRlZiBwdXNoQnV0dG9uX3NlbGVjdF9hY3Rvcl9pbmZvX2RiX2NsaWNrZWQoc2VsZik6CiAgICBkYXRhYmFzZV9wYXRoLCBfID0gUUZpbGVEaWFsb2cuZ2V0T3BlbkZpbGVOYW1lKAogICAgICAgIE5vbmUsICLpgInmi6nmlbDmja7lupPmlofku7YiLCBtYW5hZ2VyLmRhdGFfZm9sZGVyLmFzX3Bvc2l4KCksIG9wdGlvbnM9c2VsZi5vcHRpb25zCiAgICApCiAgICBpZiBkYXRhYmFzZV9wYXRoOgogICAgICAgIHNlbGYuVWkubGluZUVkaXRfYWN0b3JfZGJfcGF0aC5zZXRUZXh0KGRhdGFiYXNlX3BhdGgpCiAgICAgICAgc2VsZi5wdXNoQnV0dG9uX3NhdmVfY29uZmlnX2NsaWNrZWQoKQoKCmRlZiBwdXNoQnV0dG9uX2FkZF9hY3Rvcl9pbmZvX2NsaWNrZWQoc2VsZik6CiAgICBmcm9tIG1kY3gudG9vbHMuZW1ieV9hY3Rvcl9pbmZvIGltcG9ydCB1cGRhdGVfZW1ieV9hY3Rvcl9pbmZvCgogICAgc2VsZi5wdXNoQnV0dG9uX3NhdmVfY29uZmlnX2NsaWNrZWQoKQogICAgc2VsZi5wdXNoQnV0dG9uX3Nob3dfbG9nX2NsaWNrZWQoKQogICAgdHJ5OgogICAgICAgIGV4ZWN1dG9yLnN1Ym1pdCh1cGRhdGVfZW1ieV9hY3Rvcl9pbmZvKCkpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KHRyYWNlYmFjay5mb3JtYXRfZXhjKCkpCgoKZGVmIHB1c2hCdXR0b25fYWRkX2FjdG9yX3BpY19jbGlja2VkKHNlbGYpOgogICAgZnJvbSBtZGN4LnRvb2xzLmVtYnlfYWN0b3JfaW1hZ2UgaW1wb3J0IHVwZGF0ZV9lbWJ5X2FjdG9yX3Bob3RvCgogICAgc2VsZi5wdXNoQnV0dG9uX3NhdmVfY29uZmlnX2NsaWNrZWQoKQogICAgc2VsZi5wdXNoQnV0dG9uX3Nob3dfbG9nX2NsaWNrZWQoKQogICAgdHJ5OgogICAgICAgIGV4ZWN1dG9yLnN1Ym1pdCh1cGRhdGVfZW1ieV9hY3Rvcl9waG90bygpKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBzaWduYWxfcXQuc2hvd19sb2dfdGV4dCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQoKCmRlZiBwdXNoQnV0dG9uX2FkZF9hY3Rvcl9waWNfa29kaV9jbGlja2VkKHNlbGYpOgogICAgZnJvbSBtZGN4LnRvb2xzLmVtYnlfYWN0b3JfaW5mbyBpbXBvcnQgY3JlYXRfa29kaV9hY3RvcnMKCiAgICBzZWxmLnB1c2hCdXR0b25fc2F2ZV9jb25maWdfY2xpY2tlZCgpCiAgICBzZWxmLnB1c2hCdXR0b25fc2hvd19sb2dfY2xpY2tlZCgpCiAgICB0cnk6CiAgICAgICAgZXhlY3V0b3Iuc3VibWl0KGNyZWF0X2tvZGlfYWN0b3JzKFRydWUpKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBzaWduYWxfcXQuc2hvd19sb2dfdGV4dCh0cmFjZWJhY2suZm9ybWF0X2V4YygpKQoKCmRlZiBwdXNoQnV0dG9uX2RlbF9hY3Rvcl9mb2xkZXJfY2xpY2tlZChzZWxmKToKICAgIGZyb20gbWRjeC50b29scy5lbWJ5X2FjdG9yX2luZm8gaW1wb3J0IGNyZWF0X2tvZGlfYWN0b3JzCgogICAgc2VsZi5wdXNoQnV0dG9uX3Nob3dfbG9nX2NsaWNrZWQoKQogICAgdHJ5OgogICAgICAgIGV4ZWN1dG9yLnN1Ym1pdChjcmVhdF9rb2RpX2FjdG9ycyhGYWxzZSkpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KHRyYWNlYmFjay5mb3JtYXRfZXhjKCkpCgoKZGVmIHB1c2hCdXR0b25fc2hvd19waWNfYWN0b3JfY2xpY2tlZChzZWxmKToKICAgIGZyb20gbWRjeC50b29scy5lbWJ5X2FjdG9yX2luZm8gaW1wb3J0IHNob3dfZW1ieV9hY3Rvcl9saXN0CgogICAgc2VsZi5wdXNoQnV0dG9uX3Nob3dfbG9nX2NsaWNrZWQoKQogICAgdHJ5OgogICAgICAgIGV4ZWN1dG9yLnN1Ym1pdChzaG93X2VtYnlfYWN0b3JfbGlzdChzZWxmLlVpLmNvbWJvQm94X3BpY19hY3Rvci5jdXJyZW50SW5kZXgoKSkpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KHRyYWNlYmFjay5mb3JtYXRfZXhjKCkpCgoKIyA9PT09PT09PT09PT09IOmAmueUqOebruW9lemAieaLqSA9PT09PT09PT09PT09CgoKZGVmIF9waWNrX2ZvbGRlcihzZWxmLCBsaW5lX2VkaXRfYXR0cjogc3RyKSAtPiBOb25lOgogICAgIiIi6YCJ5oup55uu5b2V5bm26K6+572u5YiwIGxpbmVFZGl077yM5ZCM5pe25L+d5a2Y6YWN572u44CCIiIiCiAgICBsaW5lX2VkaXQgPSBnZXRhdHRyKHNlbGYuVWksIGxpbmVfZWRpdF9hdHRyKQogICAgcGF0aCA9IHNlbGYuX2dldF9zZWxlY3RfZm9sZGVyX3BhdGgobGluZV9lZGl0KQogICAgaWYgcGF0aDoKICAgICAgICBsaW5lX2VkaXQuc2V0VGV4dChwYXRoKQogICAgICAgIHNlbGYucHVzaEJ1dHRvbl9zYXZlX2NvbmZpZ19jbGlja2VkKCkKCgpkZWYgcHVzaEJ1dHRvbl9zZWxlY3Rfc29mdGxpbmtfZm9sZGVyX2NsaWNrZWQoc2VsZik6CiAgICBfcGlja19mb2xkZXIoc2VsZiwgImxpbmVFZGl0X21vdmllX3NvZnRsaW5rX3BhdGgiKQoKCmRlZiBwdXNoQnV0dG9uX3NlbGVjdF9zdWNlc3NfZm9sZGVyX2NsaWNrZWQoc2VsZik6CiAgICBfcGlja19mb2xkZXIoc2VsZiwgImxpbmVFZGl0X3N1Y2Nlc3MiKQoKCmRlZiBwdXNoQnV0dG9uX3NlbGVjdF9mYWlsZWRfZm9sZGVyX2NsaWNrZWQoc2VsZik6CiAgICBfcGlja19mb2xkZXIoc2VsZiwgImxpbmVFZGl0X2ZhaWwiKQoKCmRlZiBwdXNoQnV0dG9uX3NlbGVjdF9zdWJ0aXRsZV9mb2xkZXJfY2xpY2tlZChzZWxmKToKICAgIF9waWNrX2ZvbGRlcihzZWxmLCAibGluZUVkaXRfc3ViX2ZvbGRlciIpCgoKZGVmIHB1c2hCdXR0b25fc2VsZWN0X2FjdG9yX3Bob3RvX2ZvbGRlcl9jbGlja2VkKHNlbGYpOgogICAgX3BpY2tfZm9sZGVyKHNlbGYsICJsaW5lRWRpdF9hY3Rvcl9waG90b19mb2xkZXIiKQoKCmRlZiBwdXNoQnV0dG9uX3NlbGVjdF9sb2NhbF9saWJyYXJ5X2NsaWNrZWQoc2VsZik6CiAgICBfcGlja19mb2xkZXIoc2VsZiwgImxpbmVFZGl0X2xvY2FsX2xpYnJhcnlfcGF0aCIpCgoKZGVmIHB1c2hCdXR0b25fc2VsZWN0X25ldGRpc2tfcGF0aF9jbGlja2VkKHNlbGYpOgogICAgX3BpY2tfZm9sZGVyKHNlbGYsICJsaW5lRWRpdF9uZXRkaXNrX3BhdGgiKQoKCmRlZiBwdXNoQnV0dG9uX3NlbGVjdF9sb2NhbGRpc2tfcGF0aF9jbGlja2VkKHNlbGYpOgogICAgX3BpY2tfZm9sZGVyKHNlbGYsICJsaW5lRWRpdF9sb2NhbGRpc2tfcGF0aCIpCgoKZGVmIHB1c2hCdXR0b25fc2VsZWN0X21lZGlhX2ZvbGRlcl9jbGlja2VkKHNlbGYpOgogICAgX3BpY2tfZm9sZGVyKHNlbGYsICJsaW5lRWRpdF9tb3ZpZV9wYXRoIikKCgpkZWYgcHVzaEJ1dHRvbl9zZWxlY3RfZGF0YV9kaXJfY2xpY2tlZChzZWxmKToKICAgIF9waWNrX2ZvbGRlcihzZWxmLCAibGluZUVkaXRfZGF0YV9kaXIiKQoKCiMgPT09PT09PT09PT09PSDmvJTlkZjlupPnu7TmiqTvvIjmlrDkuInmjInpkq7vvIkgPT09PT09PT09PT09PQoKCmRlZiBwdXNoQnV0dG9uX2FjdG9yX2RiX3RyYW5zbGF0ZV9jbGlja2VkKHNlbGYpOgogICAgc2VsZi5wdXNoQnV0dG9uX3Nob3dfbG9nX2NsaWNrZWQoKQogICAgc2lnbmFsX3F0LnNob3dfbG9nX3RleHQoIvCflI0g5byA5aeL5omr5o+PIGFjdG9yX2RhdGFiYXNlLnhsc3jvvJrmn6Xmib7lt7LmnIkgVE1EQiBJRCDkvYbnvLrlsJHkuK3mloflkI3nmoTmnaHnm64uLi4iKQogICAgc2VsZi5fcnVuX2FjdG9yX2RiX3Rvb2woInRyYW5zbGF0ZSIpCgoKZGVmIHB1c2hCdXR0b25fYWN0b3JfZGJfbGlua19jbGlja2VkKHNlbGYpOgogICAgc2VsZi5wdXNoQnV0dG9uX3Nob3dfbG9nX2NsaWNrZWQoKQogICAgc2lnbmFsX3F0LnNob3dfbG9nX3RleHQoIvCflI0g5byA5aeL5omr5o+PIGFjdG9yX2RhdGFiYXNlLnhsc3jvvJrmn6Xmib7lt7LmnIkgVE1EQiBJRCDkvYbnvLrlsJEgTGlicmVETU0g6ZO+5o6l55qE5p2h55uuLi4uIikKICAgIHNlbGYuX3J1bl9hY3Rvcl9kYl90b29sKCJsaW5rIikKCgpkZWYgcHVzaEJ1dHRvbl9hY3Rvcl9kYl9zeW5jX2FsaWFzZXNfY2xpY2tlZChzZWxmKToKICAgIHNlbGYucHVzaEJ1dHRvbl9zaG93X2xvZ19jbGlja2VkKCkKICAgIHNvdXJjZSA9IHNlbGYuVWkuY29tYm9Cb3hfYWN0b3JfZGJfYWxpYXNfc291cmNlLmN1cnJlbnRUZXh0KCkKICAgIGFsbF9yb3dzID0gc2VsZi5VaS5jaGVja0JveF9hY3Rvcl9kYl9hbGlhc19hbGwuaXNDaGVja2VkKCkKICAgIG9mZnNldCA9IHNlbGYuVWkuc3BpbkJveF9hY3Rvcl9kYl9zeW5jX29mZnNldC52YWx1ZSgpCiAgICBsaW1pdCA9IHNlbGYuVWkuc3BpbkJveF9hY3Rvcl9kYl9zeW5jX2xpbWl0LnZhbHVlKCkKICAgIHNsaWNlX2hpbnQgPSBmIu+8jOi1t+Wni+ihjD17b2Zmc2V0fe+8jOmZkOmHjz17bGltaXQgaWYgbGltaXQgPiAwIGVsc2UgJ+S4jemZkCd9IgogICAgc2lnbmFsX3F0LnNob3dfbG9nX3RleHQoCiAgICAgICAgZiLwn5SNIOW8gOWni+aJq+aPjyBhY3Rvcl9kYXRhYmFzZS54bHN477ya5LuOIHtzb3VyY2V9IOWQjOatpeWIq+WQjeWIsCBrZXl3b3JkIOWIlyIKICAgICAgICArICgi77yI5YWo6YeP5bm25YWlIiBpZiBhbGxfcm93cyBlbHNlICLvvIjku4XooaXnvLrliKvlkI0iKQogICAgICAgICsgc2xpY2VfaGludAogICAgICAgICsgIu+8iS4uLiIKICAgICkKICAgICMg5LiL5ouJ6aG55pig5bCE77yaVUkgIk1pbm5hbm8iIOKGkiDlhoXpg6ggImF2d2lraSLvvIjotbDjgb/jgpPjgarjga5BVu+8ie+8myJKYXZEQiIg4oaSICJqYXZkYiIKICAgIGlmIHNvdXJjZSA9PSAiSmF2REIiOgogICAgICAgIGFsaWFzX3NvdXJjZSA9ICJqYXZkYiIKICAgIGVsaWYgc291cmNlID09ICJNaW5uYW5vIjoKICAgICAgICBhbGlhc19zb3VyY2UgPSAiYXZ3aWtpIgogICAgZWxzZToKICAgICAgICBhbGlhc19zb3VyY2UgPSAidG1kYiIKICAgIHNlbGYuX3J1bl9hY3Rvcl9kYl90b29sKAogICAgICAgICJzeW5jX2FsaWFzZXMiLAogICAgICAgIGFsaWFzX3NvdXJjZT1hbGlhc19zb3VyY2UsCiAgICAgICAgb3ZlcndyaXRlPWFsbF9yb3dzLAogICAgICAgIG9mZnNldD1vZmZzZXQsCiAgICAgICAgbGltaXQ9bGltaXQsCiAgICApCgoKZGVmIHB1c2hCdXR0b25fYWN0b3JfZGJfb3Blbl9jbGlja2VkKHNlbGYpOgogICAgZnJvbSBtZGN4LmNvbmZpZy5yZXNvdXJjZXMgaW1wb3J0IHJlc291cmNlcwoKICAgIGRiX3BhdGggPSBQYXRoKHJlc291cmNlcy51KCJhY3Rvcl9kYXRhYmFzZS54bHN4IikpCiAgICBpZiBub3QgZGJfcGF0aC5leGlzdHMoKToKICAgICAgICBzaWduYWxfcXQuc2hvd19sb2dfdGV4dCgi8J+UtCBhY3Rvcl9kYXRhYmFzZS54bHN4IOS4jeWtmOWcqO+8jOivt+WFiOWIruWJiuaIluaJp+ihjOS4gOasoea8lOWRmOW6k+e7tOaKpOeUn+aIkOaVsOaNruW6kyIpCiAgICAgICAgcmV0dXJuCiAgICBzaWduYWxfcXQuc2hvd19sb2dfdGV4dChmIvCfk4Ig5q2j5Zyo55So57O757uf6buY6K6k56iL5bqP5omT5byAOiB7ZGJfcGF0aH0iKQogICAgdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9X29wZW5fZmlsZV90aHJlYWQsIGFyZ3M9KGRiX3BhdGgsKSwgZGFlbW9uPVRydWUpLnN0YXJ0KCkKCgpkZWYgX29wZW5fZmlsZV90aHJlYWQoZGJfcGF0aCk6CiAgICBmcm9tIG1kY3gudXRpbHMuZmlsZSBpbXBvcnQgb3Blbl9maWxlX3RocmVhZAoKICAgIHRyeToKICAgICAgICBvcGVuX2ZpbGVfdGhyZWFkKFBhdGgoZGJfcGF0aCksIEZhbHNlKQogICAgICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KGYi4pyFIOW3suaJk+W8gCBhY3Rvcl9kYXRhYmFzZS54bHN4OiB7ZGJfcGF0aH0iKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBzaWduYWxfcXQuc2hvd19sb2dfdGV4dCgKICAgICAgICAgICAgZiLwn5S0IOaXoOazleaJk+W8gCBhY3Rvcl9kYXRhYmFzZS54bHN444CCXG57dHJhY2ViYWNrLmZvcm1hdF9leGMoKX1cbuivt+WFiOWuieijhSBFeGNlbC9XUFMg5oiWIExpYnJlT2ZmaWNlIOetieaWh+Wtl+WkhOeQhui9r+S7tuWQjumHjeivlSIKICAgICAgICApCgoKZGVmIHB1c2hCdXR0b25fYWN0b3JfZGJfY2xlYW5fbWFsZV9jbGlja2VkKHNlbGYpOgogICAgc2VsZi5wdXNoQnV0dG9uX3Nob3dfbG9nX2NsaWNrZWQoKQogICAgc2lnbmFsX3F0LnNob3dfbG9nX3RleHQoIvCfjqwg5byA5aeL5YmU6Zmk55S35ryU5ZGY77yI5oyJIHRtZGJpZCDmoKHpqowgVE1EQiBnZW5kZXLvvIzliKDpmaTnlLfkvJjvvIkuLi4iKQogICAgc2VsZi5fcnVuX2FjdG9yX2RiX2NsZWFuX21hbGUoKQoKCmRlZiBwdXNoQnV0dG9uX2FjdG9yX2RiX3ZlcmlmeV90bWRiaWRfY2xpY2tlZChzZWxmKToKICAgIHNlbGYucHVzaEJ1dHRvbl9zaG93X2xvZ19jbGlja2VkKCkKICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KCLwn46sIOW8gOWni+agoemqjCB0bWRiaWQg5pyJ5pWI5oCn77yINDA0IOWkseaViCBpZCDmuIXpmaTlm57ml6AgaWQg54q25oCB77yJLi4uIikKICAgIHNlbGYuX3J1bl9hY3Rvcl9kYl92ZXJpZnlfdG1kYmlkKCkKCgpkZWYgcHVzaEJ1dHRvbl9hY3Rvcl9kYl9jaGVja19jbGlja2VkKHNlbGYpOgogICAgc2VsZi5wdXNoQnV0dG9uX3Nob3dfbG9nX2NsaWNrZWQoKQogICAgc2lnbmFsX3F0LnNob3dfbG9nX3RleHQoIvCflI0g5byA5aeL5qOA5p+l55So5oi35bqT77yI5qC85byPL+e7k+aehC/mlbDmja7lvILluLjvvIkuLi4iKQogICAgc2VsZi5fcnVuX2FjdG9yX2RiX2NoZWNrKCkKCgpkZWYgcHVzaEJ1dHRvbl9hY3Rvcl9kYl9waWNrX25mb19kaXJfY2xpY2tlZChzZWxmKToKICAgIGZyb20gUHlRdDYuUXRXaWRnZXRzIGltcG9ydCBRRmlsZURpYWxvZwoKICAgIGZvbGRlciA9IFFGaWxlRGlhbG9nLmdldEV4aXN0aW5nRGlyZWN0b3J5KAogICAgICAgIE5vbmUsCiAgICAgICAgIumAieaLqU5GT+aWh+S7tuebruW9lSIsCiAgICAgICAgIiIsCiAgICAgICAgUUZpbGVEaWFsb2cuT3B0aW9uLlNob3dEaXJzT25seSwKICAgICkKICAgIGlmIGZvbGRlcjoKICAgICAgICBzZWxmLlVpLmxpbmVFZGl0X2FjdG9yX2RiX25mb19kaXIuc2V0VGV4dChmb2xkZXIpCgoKZGVmIHB1c2hCdXR0b25fYWN0b3JfZGJfdXBkYXRlX25mb190bWRiaWRfY2xpY2tlZChzZWxmKToKICAgIHNlbGYucHVzaEJ1dHRvbl9zaG93X2xvZ19jbGlja2VkKCkKICAgIHNpZ25hbF9xdC5zaG93X2xvZ190ZXh0KCLwn46sIOW8gOWni+abtOaWsCBuZm8gdG1kYmlk77yI55So5pys5Zyw5bqT5pawIGlkIOimhuebliBuZm8g5penIGlk77yJLi4uIikKICAgIHNlbGYuX3J1bl9hY3Rvcl9kYl91cGRhdGVfbmZvKCkK
+import asyncio
+import threading
+import traceback
+from pathlib import Path
+
+from PyQt6.QtCore import QObject, pyqtSignal
+from PyQt6.QtWidgets import QFileDialog, QMessageBox
+
+from mdcx.config.manager import manager
+from mdcx.signals import signal_qt
+from mdcx.utils import executor, get_current_time
+
+
+class _GfriendsSignals(QObject):
+    done = pyqtSignal(bool, str)
+
+
+_gfriends_signal = _GfriendsSignals()
+
+
+def pushButton_cover_backfill_start_clicked(self):
+    from scripts.cover_backfill import backfill_cover
+
+    self.pushButton_show_log_clicked()
+    numbers = self.Ui.lineEdit_cover_backfill_numbers.text().strip()
+    if not numbers:
+        signal_qt.show_log_text("🔴 请输入番号")
+        return
+    number_list = [n.strip() for n in numbers.split() if n.strip()]
+    overwrite = self.Ui.checkBox_cover_backfill_overwrite.isChecked()
+    watermark = self.Ui.checkBox_cover_backfill_watermark.isChecked()
+
+    async def run_backfill():
+        results = []
+        for number in number_list:
+            signal_qt.show_log_text(f"开始补图: {number}")
+            try:
+                result = await backfill_cover(
+                    number,
+                    output_dir=manager.data_folder,
+                    overwrite=overwrite,
+                    watermark=watermark,
+                )
+                results.append(result)
+                signal_qt.show_log_text(f"  ✅ {result.number}: thumb={result.thumb_path}, poster={result.poster_path}")
+            except Exception as e:
+                signal_qt.show_log_text(f"  🔴 {number}: {e}")
+        signal_qt.show_log_text("=" * 60)
+        signal_qt.show_log_text(f"封面补图完成: {len(results)}/{len(number_list)} 成功")
+        self.pushButton_cover_backfill_start.emit("开始补图")
+
+    self.pushButton_cover_backfill_start.emit("补图中...")
+    executor.submit(run_backfill())
+
+
+def pushButton_emby_actor_manager_clicked(self):
+    """打开 Emby 演员管理器（单例）。议题 #61：原版每次点击新开 dialog →
+    可同时开多个，"提交或获取数据相互干扰/请求过载"。改为单例复用 +
+    destroyed 信号清引用。议题 #79：raise_/activateWindow
+    会把主窗拉上前台（Windows 系统行为），移除——由 QDialog 的 show 自身
+    负责焦点，不干涉主窗的最小化状态（多窗口用户关注主窗保持独立）。
+    """
+    try:
+        from mdcx.tools.emby_actor_manager_ui import EmbyActorManagerDialog
+
+        existing = getattr(self, "_emby_dialog", None)
+        if existing is not None:
+            try:
+                # 已存在且未销毁 → 提前台复用（含从最小化还原）
+                if existing.isMinimized():
+                    existing.showNormal()
+                else:
+                    existing.show()
+                # Windows 原生边框下，对话框 raise_/activateWindow 会联动拉起主窗
+                # （主窗最小化时）——议题 #79：只在主窗可见时 raise 提前台；主窗
+                # 最小化时交给 show() 自身处理对话框焦点，维持主窗状态不动。
+                if not self.isMinimized() and self.isVisible():
+                    existing.raise_()
+                    existing.activateWindow()
+                return
+            except RuntimeError:
+                # C++ 对象已被销毁（WA_DeleteOnClose 释放），换新的
+                self._emby_dialog = None
+
+        dialog = EmbyActorManagerDialog()
+        # 主窗口侧只保存弱存在语义：destroyed 时清引用，避免悬空指针
+        dialog.destroyed.connect(lambda *_: setattr(self, "_emby_dialog", None))
+        self._emby_dialog = dialog
+        dialog.show()
+    except Exception as e:
+        signal_qt.show_log_text(f"❌ Emby 演员管理器打开失败: {e}\n{traceback.format_exc()}")
+
+
+# ============= 设置-演员 =============
+
+
+def pushButton_select_gfriends_local_clicked(self):
+    gfriends_path = self._get_select_folder_path(self.Ui.lineEdit_gfriends_local_path)
+    if gfriends_path:
+        self.Ui.lineEdit_gfriends_local_path.setText(gfriends_path)
+        self.pushButton_save_config_clicked()
+
+
+def pushButton_sync_gfriends_clicked(self):
+    local_path = self.Ui.lineEdit_gfriends_local_path.text().strip()
+    if not local_path:
+        QMessageBox.warning(self, "提示", "请先选择 Gfriends 本地仓库目录")
+        return
+    from mdcx.tools.sync_gfriends import sync_gfriends as do_sync
+
+    # git pull 走后台线程，避免同步阻塞 UI（超时最长 5 分钟）
+    self.Ui.pushButton_sync_gfriends.setEnabled(False)
+    self.Ui.pushButton_sync_gfriends.setText("更新中...")
+
+    def _done(success: bool, msg: str):
+        self.Ui.pushButton_sync_gfriends.setEnabled(True)
+        # 复原文案须与 MDCx.ui 的设计态文案一致（原文案硬编码的「同步 Gfriends」
+        # 与设计态的「更新 Gfriends」本就不一致，同步完一次就会跳字）
+        self.Ui.pushButton_sync_gfriends.setText("更新Gfriends Inputer")
+        if success:
+            signal_qt.show_scrape_info(f"✅ {msg}")
+        else:
+            QMessageBox.warning(self, "更新失败", msg)
+        self.Ui.label_gfriends_update_time.setText(f"最后更新: {get_current_time()}")
+
+    try:
+        _gfriends_signal.done.disconnect()
+    except TypeError:
+        pass
+    _gfriends_signal.done.connect(_done)
+
+    async def _run():
+        success, msg = await asyncio.to_thread(do_sync, local_path)
+        _gfriends_signal.done.emit(success, msg)
+
+    executor.submit(_run())
+
+
+def pushButton_select_actor_info_db_clicked(self):
+    database_path, _ = QFileDialog.getOpenFileName(
+        None, "选择数据库文件", manager.data_folder.as_posix(), options=self.options
+    )
+    if database_path:
+        self.Ui.lineEdit_actor_db_path.setText(database_path)
+        self.pushButton_save_config_clicked()
+
+
+def pushButton_add_actor_info_clicked(self):
+    from mdcx.tools.emby_actor_info import update_emby_actor_info
+
+    self.pushButton_save_config_clicked()
+    self.pushButton_show_log_clicked()
+    try:
+        executor.submit(update_emby_actor_info())
+    except Exception:
+        signal_qt.show_log_text(traceback.format_exc())
+
+
+def pushButton_add_actor_pic_clicked(self):
+    from mdcx.tools.emby_actor_image import update_emby_actor_photo
+
+    self.pushButton_save_config_clicked()
+    self.pushButton_show_log_clicked()
+    try:
+        executor.submit(update_emby_actor_photo())
+    except Exception:
+        signal_qt.show_log_text(traceback.format_exc())
+
+
+def pushButton_add_actor_pic_kodi_clicked(self):
+    from mdcx.tools.emby_actor_info import creat_kodi_actors
+
+    self.pushButton_save_config_clicked()
+    self.pushButton_show_log_clicked()
+    try:
+        executor.submit(creat_kodi_actors(True))
+    except Exception:
+        signal_qt.show_log_text(traceback.format_exc())
+
+
+def pushButton_del_actor_folder_clicked(self):
+    from mdcx.tools.emby_actor_info import creat_kodi_actors
+
+    self.pushButton_show_log_clicked()
+    try:
+        executor.submit(creat_kodi_actors(False))
+    except Exception:
+        signal_qt.show_log_text(traceback.format_exc())
+
+
+def pushButton_show_pic_actor_clicked(self):
+    from mdcx.tools.emby_actor_info import show_emby_actor_list
+
+    self.pushButton_show_log_clicked()
+    try:
+        executor.submit(show_emby_actor_list(self.Ui.comboBox_pic_actor.currentIndex()))
+    except Exception:
+        signal_qt.show_log_text(traceback.format_exc())
+
+
+# ============= 通用目录选择 =============
+
+
+def _pick_folder(self, line_edit_attr: str) -> None:
+    """选择目录并设置到 lineEdit，同时保存配置。"""
+    line_edit = getattr(self.Ui, line_edit_attr)
+    path = self._get_select_folder_path(line_edit)
+    if path:
+        line_edit.setText(path)
+        self.pushButton_save_config_clicked()
+
+
+def pushButton_select_softlink_folder_clicked(self):
+    _pick_folder(self, "lineEdit_movie_softlink_path")
+
+
+def pushButton_select_sucess_folder_clicked(self):
+    _pick_folder(self, "lineEdit_success")
+
+
+def pushButton_select_failed_folder_clicked(self):
+    _pick_folder(self, "lineEdit_fail")
+
+
+def pushButton_select_subtitle_folder_clicked(self):
+    _pick_folder(self, "lineEdit_sub_folder")
+
+
+def pushButton_select_actor_photo_folder_clicked(self):
+    _pick_folder(self, "lineEdit_actor_photo_folder")
+
+
+def pushButton_select_local_library_clicked(self):
+    _pick_folder(self, "lineEdit_local_library_path")
+
+
+def pushButton_select_netdisk_path_clicked(self):
+    _pick_folder(self, "lineEdit_netdisk_path")
+
+
+def pushButton_select_localdisk_path_clicked(self):
+    _pick_folder(self, "lineEdit_localdisk_path")
+
+
+def pushButton_select_media_folder_clicked(self):
+    _pick_folder(self, "lineEdit_movie_path")
+
+
+def pushButton_select_data_dir_clicked(self):
+    _pick_folder(self, "lineEdit_data_dir")
+
+
+# ============= 演员库维护（新三按钮） =============
+
+
+def pushButton_actor_db_translate_clicked(self):
+    self.pushButton_show_log_clicked()
+    signal_qt.show_log_text("🔍 开始扫描 actor_database.xlsx：查找已有 TMDB ID 但缺少中文名的条目...")
+    self._run_actor_db_tool("translate")
+
+
+def pushButton_actor_db_link_clicked(self):
+    self.pushButton_show_log_clicked()
+    signal_qt.show_log_text("🔍 开始扫描 actor_database.xlsx：查找已有 TMDB ID 但缺少 LibreDMM 链接的条目...")
+    self._run_actor_db_tool("link")
+
+
+def pushButton_actor_db_sync_aliases_clicked(self):
+    self.pushButton_show_log_clicked()
+    source = self.Ui.comboBox_actor_db_alias_source.currentText()
+    all_rows = self.Ui.checkBox_actor_db_alias_all.isChecked()
+    offset = self.Ui.spinBox_actor_db_sync_offset.value()
+    limit = self.Ui.spinBox_actor_db_sync_limit.value()
+    slice_hint = f"，起始行={offset}，限量={limit if limit > 0 else '不限'}"
+    signal_qt.show_log_text(
+        f"🔍 开始扫描 actor_database.xlsx：从 {source} 同步别名到 keyword 列"
+        + ("（全量并入" if all_rows else "（仅补缺别名")
+        + slice_hint
+        + "）..."
+    )
+    # 下拉项映射：UI "Minnano" → 内部 "avwiki"（走みんなのAV）；"JavDB" → "javdb"
+    if source == "JavDB":
+        alias_source = "javdb"
+    elif source == "Minnano":
+        alias_source = "avwiki"
+    else:
+        alias_source = "tmdb"
+    self._run_actor_db_tool(
+        "sync_aliases",
+        alias_source=alias_source,
+        overwrite=all_rows,
+        offset=offset,
+        limit=limit,
+    )
+
+
+def pushButton_actor_db_open_clicked(self):
+    from mdcx.config.resources import resources
+
+    db_path = Path(resources.u("actor_database.xlsx"))
+    if not db_path.exists():
+        signal_qt.show_log_text("🔴 actor_database.xlsx 不存在，请先刮削或执行一次演员库维护生成数据库")
+        return
+    signal_qt.show_log_text(f"📂 正在用系统默认程序打开: {db_path}")
+    threading.Thread(target=_open_file_thread, args=(db_path,), daemon=True).start()
+
+
+def _open_file_thread(db_path):
+    from mdcx.utils.file import open_file_thread
+
+    try:
+        open_file_thread(Path(db_path), False)
+        signal_qt.show_log_text(f"✅ 已打开 actor_database.xlsx: {db_path}")
+    except Exception:
+        signal_qt.show_log_text(
+            f"🔴 无法打开 actor_database.xlsx。\n{traceback.format_exc()}\n请先安装 Excel/WPS 或 LibreOffice 等文字处理软件后重试"
+        )
+
+
+def pushButton_actor_db_clean_male_clicked(self):
+    self.pushButton_show_log_clicked()
+    signal_qt.show_log_text("🎬 开始剔除男演员（按 tmdbid 校验 TMDB gender，删除男优）...")
+    self._run_actor_db_clean_male()
+
+
+def pushButton_actor_db_verify_tmdbid_clicked(self):
+    self.pushButton_show_log_clicked()
+    signal_qt.show_log_text("🎬 开始校验 tmdbid 有效性（404 失效 id 清除回无 id 状态）...")
+    self._run_actor_db_verify_tmdbid()
+
+
+def pushButton_actor_db_check_clicked(self):
+    self.pushButton_show_log_clicked()
+    signal_qt.show_log_text("🔍 开始检查用户库（格式/结构/数据异常）...")
+    self._run_actor_db_check()
+
+
+def pushButton_actor_db_pick_nfo_dir_clicked(self):
+    from PyQt6.QtWidgets import QFileDialog
+
+    folder = QFileDialog.getExistingDirectory(
+        None,
+        "选择NFO文件目录",
+        "",
+        QFileDialog.Option.ShowDirsOnly,
+    )
+    if folder:
+        self.Ui.lineEdit_actor_db_nfo_dir.setText(folder)
+
+
+def pushButton_actor_db_update_nfo_tmdbid_clicked(self):
+    self.pushButton_show_log_clicked()
+    signal_qt.show_log_text("🎬 开始更新 nfo tmdbid（用本地库新 id 覆盖 nfo 旧 id）...")
+    self._run_actor_db_update_nfo()

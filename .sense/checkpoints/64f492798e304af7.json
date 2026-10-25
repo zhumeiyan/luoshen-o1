@@ -1,1 +1,10 @@
-ewogInJ1bl9pZCI6ICI2NGY0OTI3OThlMzA0YWY3IiwKICJzZXEiOiA1LAogInRzIjogIjIwMjYtMTAtMjRUMTA6MDI6MDciLAogInN0YXRlIjogewogICJyb2xlIjogImFscGhhIiwKICAidmFsdWUiOiAxMCwKICAicnVsZSI6ICLlj6rmlbAgJyMjIOKYhU4nIOW8gOWktOeahCIKIH0KfQ==
+{
+ "run_id": "64f492798e304af7",
+ "seq": 5,
+ "ts": "2026-10-24T10:02:07",
+ "state": {
+  "role": "alpha",
+  "value": 10,
+  "rule": "只数 '## ★N' 开头的"
+ }
+}

@@ -1,1 +1,180 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIGV4cDEzODog5byA5YWzIHZzIOmAieaLqSDigJTigJQg5qih5Z6L5Z2N5aGM5LiOIue7k+aehOaAp+mql+S6uiLnmoTlkIzmnoQKIyBIMTog5oSP5Zu+5qih57OKKOmrmOeGtSnmn6Xor6LlnY3loYzmm7Tlv6sKIyBIMjog5byA5YWz55WM6Z2i5Y2z5L2/5qih5Z6L5a6M576O5qCh5YeG5Lmf5b+F54S26aqX5Lq6LCDpqpfkurrph48gPSAxIC0gfHxUUlVFfHxeMgojIEgzOiDoi6UgcmV3YXJkID0g55So5oi35YGP5aW956Gu5a6a5Zue562ULCDkvJjljJbkvJrkuLvliqjmjqjliqjlnY3loYwo6YCJ5oup5pWI5bqULCDpnZ7mlbDmja7msaHmn5MpCmltcG9ydCBqc29uLCBtYXRoCmltcG9ydCBudW1weSBhcyBucAoKSyA9IDIwCkdFTiA9IDMwCk5fU0FNUExFID0gMjAwMApBTFBIQSA9IDAuNSAgICAgICAgICAjIOW5s+a7kQpTRUVEUyA9IFsxLCAyLCAzLCA0LCA1XQoKZGVmIG1ha2VfdHJ1ZShraW5kKToKICAgICIiIuS4lueVjOeahOecn+WunuetlOahiOWIhuW4gzogc2hhcnA95pyJ5ZSv5LiA6KejKOW6lOeUqOexuyksIGZsYXQ95oSP5Zu+5qih57OKKOiBiuWkqeexuykiIiIKICAgIGlmIGtpbmQgPT0gInNoYXJwIjoKICAgICAgICBwID0gbnAuYXJyYXkoWzAuOV0gKyBbMC4xLyhLLTEpXSooSy0xKSkKICAgIGVsc2U6ICAjIGZsYXQKICAgICAgICBwID0gbnAub25lcyhLKQogICAgcmV0dXJuIHAgLyBwLnN1bSgpCgpkZWYgbWV0cmljcyhRLCBUUlVFKToKICAgIHRhaWwgPSBmbG9hdChRWzM6XS5zdW0oKSkgICAgICAgICAgICAgICAgICAgICAgICMg5bC+6YOo6LSo6YePKOmdnuWktOmDqDPnsbspCiAgICBzdXBwID0gaW50KChRID4gMWUtNCkuc3VtKCkpICAgICAgICAgICAgICAgICAgICAjIOaUr+aMgembhuWkp+WwjwogICAgdHYgICA9IGZsb2F0KDAuNSpucC5hYnMoUS1UUlVFKS5zdW0oKSkgICAgICAgICAgIyDkuI7nnJ/lrp7kuJbnlYznmoRUVui3neemuwogICAgZW50ICA9IGZsb2F0KC0oUVtRPjBdKm5wLmxvZyhRW1E+MF0pKS5zdW0oKSkKICAgIGFjYyAgPSBmbG9hdChucC5kb3QoUSwgVFJVRSkpICAgICAgICAgICAgICAgICAgICMgUChtb2RlbOi+k+WHuiA9PSDkuJbnlYznnJ/lrp7nrZTmoYgpCiAgICBjb25mX3N3aXRjaCA9IDEuMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOW8gOWFs+eVjOmdojog5by65Yi25ZSv5LiA6KejLCDor63msJTnoa7lrpoKICAgIGNvbmZfY2hvaWNlID0gZmxvYXQobnAuZG90KFEsIFEpKSAgICAgICAgICAgICAgICMg6YCJ5oup55WM6Z2iOiDmiqXlkYroh6rouqvmpoLnjocKICAgIHJldHVybiBkaWN0KHRhaWw9dGFpbCwgc3VwcD1zdXBwLCB0dj10diwgZW50PWVudCwgYWNjPWFjYywKICAgICAgICAgICAgICAgIGNvbmZfc3dpdGNoPWNvbmZfc3dpdGNoLCBjb25mX2Nob2ljZT1jb25mX2Nob2ljZSwKICAgICAgICAgICAgICAgIG92ZXJjb25mX3N3aXRjaD1jb25mX3N3aXRjaC1hY2MsCiAgICAgICAgICAgICAgICBvdmVyY29uZl9jaG9pY2U9Y29uZl9jaG9pY2UtYWNjKQoKZGVmIHJ1bihraW5kLCBtb2RlLCBzZWVkLCBnZW5zPUdFTiwgZXBzPTAuMSk6CiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIFRSVUUgPSBtYWtlX3RydWUoa2luZCkKICAgIEQwID0gcm5nLm11bHRpbm9taWFsKE5fU0FNUExFLCBUUlVFKS5hc3R5cGUoZmxvYXQpICAgIyDljp/lp4vmlbDmja7msaAo6ZSaKQogICAgRCA9IEQwLmNvcHkoKQogICAgUSA9IChEICsgQUxQSEEpIC8gKEQgKyBBTFBIQSkuc3VtKCkKICAgIGhpc3QgPSBbbWV0cmljcyhRLCBUUlVFKV0KICAgIGZvciB0IGluIHJhbmdlKGdlbnMpOgogICAgICAgIHN5bnRoID0gcm5nLm11bHRpbm9taWFsKE5fU0FNUExFLCBRKS5hc3R5cGUoZmxvYXQpCiAgICAgICAgaWYgbW9kZSA9PSAicmVwbGFjZSI6CiAgICAgICAgICAgIEQgPSBzeW50aCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg57qv5ZCI5oiQ5pu/5o2iCiAgICAgICAgZWxpZiBtb2RlID09ICJhY2N1bXVsYXRlIjoKICAgICAgICAgICAgRCA9IEQgKyBzeW50aCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDntK/np68o5Y6f5aeL5aeL57uI5Zyo5rGg6YeMKQogICAgICAgIGVsaWYgbW9kZSA9PSAibWl4IjogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOa4kOi/keavkuaApzog5Zu65a6a5q+U5L6L5pu/5o2iCiAgICAgICAgICAgIEQgPSAoMS1lcHMpKkQwKk5fU0FNUExFL05fU0FNUExFICsgc3ludGgqMCAgICMg5Y2g5L2NLCDkuIvmlrnph43nrpcKICAgICAgICAgICAgRCA9IEQwKjAgKyAoMS1lcHMpKkQwICsgZXBzKnN5bnRoCiAgICAgICAgUSA9IChEICsgQUxQSEEpIC8gKEQgKyBBTFBIQSkuc3VtKCkKICAgICAgICBoaXN0LmFwcGVuZChtZXRyaWNzKFEsIFRSVUUpKQogICAgcmV0dXJuIGhpc3QKCiMgLS0tLS0tLS0tLSBQYXJ0IEE6IOWdjeWhjOabsue6vyAtLS0tLS0tLS0tCnByaW50KCI9Iio3MCkKcHJpbnQoIlBBUlQgQSAg5Luj6ZmF5Z2N5aGMOiDlsL7pg6jotKjph48gLyBUVui3neemuyAvIOi/h+W6puiHquS/oSIpCnByaW50KCI9Iio3MCkKcmVzQSA9IHt9CmZvciBraW5kIGluIFsic2hhcnAiLCAiZmxhdCJdOgogICAgZm9yIG1vZGUgaW4gWyJyZXBsYWNlIiwgIm1peCIsICJhY2N1bXVsYXRlIl06CiAgICAgICAgcnVucyA9IFtydW4oa2luZCwgbW9kZSwgcykgZm9yIHMgaW4gU0VFRFNdCiAgICAgICAgZGVmIG0oZiwgZyk6ICByZXR1cm4gZmxvYXQobnAubWVhbihbcltnXVtmXSBmb3IgciBpbiBydW5zXSkpCiAgICAgICAgcmVzQVtmIntraW5kfXx7bW9kZX0iXSA9IGRpY3QoCiAgICAgICAgICAgIGtpbmQ9a2luZCwgbW9kZT1tb2RlLAogICAgICAgICAgICB0YWlsXzA9bSgidGFpbCIsMCksIHRhaWxfMzA9bSgidGFpbCIsR0VOKSwKICAgICAgICAgICAgdHZfMD1tKCJ0diIsMCksICAgICB0dl8zMD1tKCJ0diIsR0VOKSwKICAgICAgICAgICAgZW50XzA9bSgiZW50IiwwKSwgICBlbnRfMzA9bSgiZW50IixHRU4pLAogICAgICAgICAgICBhY2NfMD1tKCJhY2MiLDApLCAgIGFjY18zMD1tKCJhY2MiLEdFTiksCiAgICAgICAgICAgIG9jX3NfMD1tKCJvdmVyY29uZl9zd2l0Y2giLDApLCBvY19zXzMwPW0oIm92ZXJjb25mX3N3aXRjaCIsR0VOKSwKICAgICAgICAgICAgb2NfY18wPW0oIm92ZXJjb25mX2Nob2ljZSIsMCksIG9jX2NfMzA9bSgib3ZlcmNvbmZfY2hvaWNlIixHRU4pLAogICAgICAgICkKcHJpbnQoZiJ7J3F1ZXJ5Jzo2fSB7J21vZGUnOjExfSB7J3RhaWwwJzo+N317J3RhaWwzMCc6Pjh9IHsnVFYwJzo+N317J1RWMzAnOj44fSAiCiAgICAgIGYieydhY2MwJzo+N317J2FjYzMwJzo+OH0geyfpqpco5byA5YWzKTAnOj4xMH17J+mqlyjlvIDlhbMpMzAnOj4xMX0iKQpmb3IgaywgdiBpbiByZXNBLml0ZW1zKCk6CiAgICBwcmludChmInt2WydraW5kJ106Nn0ge3ZbJ21vZGUnXToxMX0ge3ZbJ3RhaWxfMCddOjcuNGZ9e3ZbJ3RhaWxfMzAnXTo4LjRmfSAiCiAgICAgICAgICBmInt2Wyd0dl8wJ106Ny40Zn17dlsndHZfMzAnXTo4LjRmfSB7dlsnYWNjXzAnXTo3LjRmfXt2WydhY2NfMzAnXTo4LjRmfSAiCiAgICAgICAgICBmInt2WydvY19zXzAnXToxMC40Zn17dlsnb2Nfc18zMCddOjExLjRmfSIpCgojIC0tLS0tLS0tLS0gUGFydCBCOiDnlYzpnaLnmoTpqpfkurrph48o5qih5Z6L5a6M576O5qCh5YeG5pe2KSAtLS0tLS0tLS0tCnByaW50KCkKcHJpbnQoIj0iKjcwKQpwcmludCgiUEFSVCBCICDnlYzpnaLlhrPlrprnmoTpqpfkurrph48gKOaooeWei+WujOe+juagoeWHhiBRPT1UUlVFLCDml6DlnY3loYwpIikKcHJpbnQoIj0iKjcwKQpyZXNCID0ge30KZm9yIGtpbmQgaW4gWyJzaGFycCIsICJmbGF0Il06CiAgICBUUlVFID0gbWFrZV90cnVlKGtpbmQpCiAgICBtbSA9IG1ldHJpY3MoVFJVRSwgVFJVRSkKICAgIHJlc0Jba2luZF0gPSBkaWN0KAogICAgICAgIGFjYz1tbVsiYWNjIl0sIGNvbmZfY2hvaWNlPW1tWyJjb25mX2Nob2ljZSJdLAogICAgICAgIG92ZXJjb25mX3N3aXRjaD1tbVsib3ZlcmNvbmZfc3dpdGNoIl0sCiAgICAgICAgb3ZlcmNvbmZfY2hvaWNlPW1tWyJvdmVyY29uZl9jaG9pY2UiXSwKICAgICAgICBlbnQ9bW1bImVudCJdLCBlbnRfbWF4PW1hdGgubG9nKEspKQogICAgcHJpbnQoZiJ7a2luZDo2fSDnnJ/lrp7nhrU9e21tWydlbnQnXTouM2Z9L3ttYXRoLmxvZyhLKTouM2Z9ICAiCiAgICAgICAgICBmIuWunumZheato+ehrueOh2FjYz17bW1bJ2FjYyddOi40Zn0gICIKICAgICAgICAgIGYi5byA5YWz55WM6Z2i5aOw56ew56Gu5a6a4oaS6aqX5Lq6PXttbVsnb3ZlcmNvbmZfc3dpdGNoJ106LjRmfSAgIgogICAgICAgICAgZiLpgInmi6nnlYzpnaLmiqXmpoLnjofihpLpqpfkuro9e21tWydvdmVyY29uZl9jaG9pY2UnXTouNGZ9IikKCiMgLS0tLS0tLS0tLSBQYXJ0IEM6IOWlluWKseS/oeWPt+eahOmAieaLqeaViOW6lCAtLS0tLS0tLS0tCnByaW50KCkKcHJpbnQoIj0iKjcwKQpwcmludCgiUEFSVCBDICByZXdhcmQ955So5oi35YGP5aW956Gu5a6a5Zue562ULCDkvJjljJbkuLvliqjmjqjliqjlnY3loYwo5peg5pWw5o2u5rGh5p+TKSIpCnByaW50KCI9Iio3MCkKZGVmIHJ1bl9yZXdhcmQoa2luZCwgc2VlZCwgZ2Vucz0zMCwgbl9jYW5kPTYpOgogICAgIiIi5q+P5Luj55Sf5oiQIG5fY2FuZCDkuKrlgJnpgInmqKHlnoso5LiN5ZCM6ZSQ5bqmKSwg5oyJIHJld2FyZD3nva7kv6HluqYg6YCJ5pyA5aW955qEIiIiCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCkKICAgIFRSVUUgPSBtYWtlX3RydWUoa2luZCkKICAgIEQgPSBybmcubXVsdGlub21pYWwoTl9TQU1QTEUsIFRSVUUpLmFzdHlwZShmbG9hdCkKICAgIFEgPSAoRCtBTFBIQSkvKEQrQUxQSEEpLnN1bSgpCiAgICBoaXN0ID0gW21ldHJpY3MoUSwgVFJVRSldCiAgICBmb3IgdCBpbiByYW5nZShnZW5zKToKICAgICAgICBjYW5kcyA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uobl9jYW5kKToKICAgICAgICAgICAgdGVtcCA9IDEuMCAvICgxLjAgKyAwLjM1KmkpICAgICAgICAjIOWAmemAiemUkOW6pumAkuWingogICAgICAgICAgICBRYyA9IFEuY29weSgpCiAgICAgICAgICAgICMg5oyJ5rip5bqm6ZSQ5YyWKOS4jeW8leWFpeaWsOS/oeaBrywg5Y+q5pS257yp5pa55beuKQogICAgICAgICAgICBpZiBRYy5zdW0oKSA+IDA6CiAgICAgICAgICAgICAgICBsZyA9IG5wLmxvZyhucC5jbGlwKFFjLCAxZS0xMiwgTm9uZSkpL3RlbXAKICAgICAgICAgICAgICAgIFFjID0gbnAuZXhwKGxnIC0gbGcubWF4KCkpOyBRYyAvPSBRYy5zdW0oKQogICAgICAgICAgICBjYW5kcy5hcHBlbmQoUWMpCiAgICAgICAgIyByZXdhcmQgPSDnlKjmiLflgY/lpb06IOabtOehruWumueahOWbnuetlOabtOWPl+WWnOasogogICAgICAgIHJld2FyZCA9IFtucC5kb3QoYywgYykgZm9yIGMgaW4gY2FuZHNdCiAgICAgICAgUSA9IGNhbmRzW2ludChucC5hcmdtYXgocmV3YXJkKSldCiAgICAgICAgIyDnlKjpgInkuK3nmoRR57un57ut55Sf5oiQ6K6t57uD5pWw5o2uKOe0r+enrywg5o6S6Zmk5pWw5o2u5rGh5p+T6L+Z5LiA5p2h6Lev5b6EKQogICAgICAgIEQgPSBEICsgcm5nLm11bHRpbm9taWFsKE5fU0FNUExFLCBRKS5hc3R5cGUoZmxvYXQpCiAgICAgICAgUW4gPSAoRCtBTFBIQSkvKEQrQUxQSEEpLnN1bSgpCiAgICAgICAgIyDpgInmi6nmlYjlupTlj6DliqA6IOS/neeVmeiiq+mAieS4reeahOW9oueKtuiusOW/hgogICAgICAgIFEgPSBRbgogICAgICAgIGhpc3QuYXBwZW5kKG1ldHJpY3MoUSwgVFJVRSkpCiAgICByZXR1cm4gaGlzdAoKcmVzQyA9IHt9CmZvciBraW5kIGluIFsic2hhcnAiLCAiZmxhdCJdOgogICAgcnVucyA9IFtydW5fcmV3YXJkKGtpbmQsIHMpIGZvciBzIGluIFNFRURTXQogICAgZGVmIG0oZiwgZyk6IHJldHVybiBmbG9hdChucC5tZWFuKFtyW2ddW2ZdIGZvciByIGluIHJ1bnNdKSkKICAgIHJlc0Nba2luZF0gPSBkaWN0KGVudF8wPW0oImVudCIsMCksIGVudF8zMD1tKCJlbnQiLEdFTiksCiAgICAgICAgICAgICAgICAgICAgICB0YWlsXzA9bSgidGFpbCIsMCksIHRhaWxfMzA9bSgidGFpbCIsR0VOKSwKICAgICAgICAgICAgICAgICAgICAgIGFjY18wPW0oImFjYyIsMCksIGFjY18zMD1tKCJhY2MiLEdFTiksCiAgICAgICAgICAgICAgICAgICAgICBvY18wPW0oIm92ZXJjb25mX2Nob2ljZSIsMCksIG9jXzMwPW0oIm92ZXJjb25mX2Nob2ljZSIsR0VOKSkKICAgIHYgPSByZXNDW2tpbmRdCiAgICBwcmludChmIntraW5kOjZ9IOeGtSB7dlsnZW50XzAnXTouM2Z9LT57dlsnZW50XzMwJ106LjNmfSAgIgogICAgICAgICAgZiLlsL7pg6gge3ZbJ3RhaWxfMCddOi40Zn0tPnt2Wyd0YWlsXzMwJ106LjRmfSAgIgogICAgICAgICAgZiJhY2Mge3ZbJ2FjY18wJ106LjRmfS0+e3ZbJ2FjY18zMCddOi40Zn0gICIKICAgICAgICAgIGYi6L+H5bqm6Ieq5L+hIHt2WydvY18wJ106LjRmfS0+e3ZbJ29jXzMwJ106LjRmfSIpCgojIC0tLS0tLS0tLS0g5Y+v6K+B5Lyq5oCn6Ieq5qOAIC0tLS0tLS0tLS0KcHJpbnQoKQpwcmludCgiPSIqNzApCnByaW50KCJGQUxTSUZJQUJJTElUWSAg5q+P5p2h5Yik5o2u5b+F6aG76IO95ZCM5pe25Lqn55Sf55yf5ZKM5YGHIikKcHJpbnQoIj0iKjcwKQpUUlVFX2YgPSBtYWtlX3RydWUoImZsYXQiKTsgVFJVRV9zID0gbWFrZV90cnVlKCJzaGFycCIpCmNoZWNrcyA9IFtdCiMg5Yik5o2uMTogIuW8gOWFs+eVjOmdoumql+S6uiIgLS0gZmxhdOS4i+W6lOecnyjpqpc+MC41KSwg5LiU5a2Y5Zyo5LiN6aqX55qE5oOF5b2i5ZCXPwpvY19mbGF0ID0gbWV0cmljcyhUUlVFX2YsIFRSVUVfZilbIm92ZXJjb25mX3N3aXRjaCJdCm9jX3NoYXJwID0gbWV0cmljcyhUUlVFX3MsIFRSVUVfcylbIm92ZXJjb25mX3N3aXRjaCJdCmNoZWNrcy5hcHBlbmQoKCLlvIDlhbPnlYzpnaLpqpfkurooZmxhdCkiLCBvY19mbGF0ID4gMC41LCBmIntvY19mbGF0Oi40Zn0iKSkKY2hlY2tzLmFwcGVuZCgoIuW8gOWFs+eVjOmdoumql+S6uihzaGFycCkiLCBvY19zaGFycCA+IDAuMCwgZiJ7b2Nfc2hhcnA6LjRmfSIpKQojIOWIpOaNrjI6ICLpgInmi6nnlYzpnaLkuI3pqpciIC0tIOWujOe+juagoeWHhuS4i+W6lOS4ujAKb2NjaCA9IG1ldHJpY3MoVFJVRV9mLCBUUlVFX2YpWyJvdmVyY29uZl9jaG9pY2UiXQpjaGVja3MuYXBwZW5kKCgi6YCJ5oup55WM6Z2i5a6M576O5qCh5YeG5pe26aqX5Lq64omIMCIsIGFicyhvY2NoKSA8IDFlLTksIGYie29jY2g6LjJlfSIpKQojIOWIpOaNrjM6ICJyZXBsYWNl5Z2N5aGMIiB2cyAiYWNjdW11bGF0ZeS4jeWdjeWhjCIKdF9yZXAgPSByZXNBWyJmbGF0fHJlcGxhY2UiXVsidGFpbF8zMCJdOyB0X2FjYyA9IHJlc0FbImZsYXR8YWNjdW11bGF0ZSJdWyJ0YWlsXzMwIl0KY2hlY2tzLmFwcGVuZCgoInJlcGxhY2XkuKLlpLHlsL7pg6giLCB0X3JlcCA8IDAuNSpyZXNBWyJmbGF0fHJlcGxhY2UiXVsidGFpbF8wIl0sIGYie3RfcmVwOi40Zn0iKSkKY2hlY2tzLmFwcGVuZCgoImFjY3VtdWxhdGXkv53kvY/lsL7pg6giLCB0X2FjYyA+IDAuOCpyZXNBWyJmbGF0fGFjY3VtdWxhdGUiXVsidGFpbF8wIl0sIGYie3RfYWNjOi40Zn0iKSkKIyDliKTmja40OiDlsJbplJDmn6Xor6LkuI3lnY3loYwo6Zi05oCn5a+554WnKQpjaGVja3MuYXBwZW5kKCgic2hhcnDmn6Xor6LlnY3loYzmm7TmhaIo6Zi05oCn5a+554WnKSIsCiAgICAgICAgICAgICAgIHJlc0FbInNoYXJwfHJlcGxhY2UiXVsidGFpbF8zMCJdID4gcmVzQVsiZmxhdHxyZXBsYWNlIl1bInRhaWxfMzAiXSwKICAgICAgICAgICAgICAgZiJ7cmVzQVsnc2hhcnB8cmVwbGFjZSddWyd0YWlsXzMwJ106LjRmfSA+IHtyZXNBWydmbGF0fHJlcGxhY2UnXVsndGFpbF8zMCddOi40Zn0iKSkKZm9yIG5hbWUsIG9rLCB2YWwgaW4gY2hlY2tzOgogICAgcHJpbnQoZiIgIHsnUEFTUycgaWYgb2sgZWxzZSAnRkFJTCd9ICB7bmFtZTozNH0ge3ZhbH0iKQoKbl9wYXNzID0gc3VtKDEgZm9yIF8sIG9rLCBfIGluIGNoZWNrcyBpZiBvaykKcHJpbnQoZiJcbiAg5Y+v6K+B5Lyq6Ieq5qOAIHtuX3Bhc3N9L3tsZW4oY2hlY2tzKX0iKQoKb3V0ID0gZGljdChBPXJlc0EsIEI9cmVzQiwgQz1yZXNDLAogICAgICAgICAgIGZhbHNpZj1bZGljdChuYW1lPW4sIG9rPWJvb2wobyksIHZhbD12KSBmb3IgbiwgbywgdiBpbiBjaGVja3NdKQp3aXRoIG9wZW4oIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDEzOF9jb2xsYXBzZS9yZXMxMzguanNvbiIsInciKSBhcyBmOgogICAganNvbi5kdW1wKG91dCwgZiwgaW5kZW50PTIsIGVuc3VyZV9hc2NpaT1GYWxzZSkKcHJpbnQoIlxud3JvdGUgcmVzMTM4Lmpzb24iKQo=
+#!/usr/bin/env python3
+# exp138: 开关 vs 选择 —— 模型坍塌与"结构性骗人"的同构
+# H1: 意图模糊(高熵)查询坍塌更快
+# H2: 开关界面即使模型完美校准也必然骗人, 骗人量 = 1 - ||TRUE||^2
+# H3: 若 reward = 用户偏好确定回答, 优化会主动推动坍塌(选择效应, 非数据污染)
+import json, math
+import numpy as np
+
+K = 20
+GEN = 30
+N_SAMPLE = 2000
+ALPHA = 0.5          # 平滑
+SEEDS = [1, 2, 3, 4, 5]
+
+def make_true(kind):
+    """世界的真实答案分布: sharp=有唯一解(应用类), flat=意图模糊(聊天类)"""
+    if kind == "sharp":
+        p = np.array([0.9] + [0.1/(K-1)]*(K-1))
+    else:  # flat
+        p = np.ones(K)
+    return p / p.sum()
+
+def metrics(Q, TRUE):
+    tail = float(Q[3:].sum())                       # 尾部质量(非头部3类)
+    supp = int((Q > 1e-4).sum())                    # 支持集大小
+    tv   = float(0.5*np.abs(Q-TRUE).sum())          # 与真实世界的TV距离
+    ent  = float(-(Q[Q>0]*np.log(Q[Q>0])).sum())
+    acc  = float(np.dot(Q, TRUE))                   # P(model输出 == 世界真实答案)
+    conf_switch = 1.0                               # 开关界面: 强制唯一解, 语气确定
+    conf_choice = float(np.dot(Q, Q))               # 选择界面: 报告自身概率
+    return dict(tail=tail, supp=supp, tv=tv, ent=ent, acc=acc,
+                conf_switch=conf_switch, conf_choice=conf_choice,
+                overconf_switch=conf_switch-acc,
+                overconf_choice=conf_choice-acc)
+
+def run(kind, mode, seed, gens=GEN, eps=0.1):
+    rng = np.random.default_rng(seed)
+    TRUE = make_true(kind)
+    D0 = rng.multinomial(N_SAMPLE, TRUE).astype(float)   # 原始数据池(锚)
+    D = D0.copy()
+    Q = (D + ALPHA) / (D + ALPHA).sum()
+    hist = [metrics(Q, TRUE)]
+    for t in range(gens):
+        synth = rng.multinomial(N_SAMPLE, Q).astype(float)
+        if mode == "replace":
+            D = synth                                    # 纯合成替换
+        elif mode == "accumulate":
+            D = D + synth                                # 累积(原始始终在池里)
+        elif mode == "mix":                              # 渐近毒性: 固定比例替换
+            D = (1-eps)*D0*N_SAMPLE/N_SAMPLE + synth*0   # 占位, 下方重算
+            D = D0*0 + (1-eps)*D0 + eps*synth
+        Q = (D + ALPHA) / (D + ALPHA).sum()
+        hist.append(metrics(Q, TRUE))
+    return hist
+
+# ---------- Part A: 坍塌曲线 ----------
+print("="*70)
+print("PART A  代际坍塌: 尾部质量 / TV距离 / 过度自信")
+print("="*70)
+resA = {}
+for kind in ["sharp", "flat"]:
+    for mode in ["replace", "mix", "accumulate"]:
+        runs = [run(kind, mode, s) for s in SEEDS]
+        def m(f, g):  return float(np.mean([r[g][f] for r in runs]))
+        resA[f"{kind}|{mode}"] = dict(
+            kind=kind, mode=mode,
+            tail_0=m("tail",0), tail_30=m("tail",GEN),
+            tv_0=m("tv",0),     tv_30=m("tv",GEN),
+            ent_0=m("ent",0),   ent_30=m("ent",GEN),
+            acc_0=m("acc",0),   acc_30=m("acc",GEN),
+            oc_s_0=m("overconf_switch",0), oc_s_30=m("overconf_switch",GEN),
+            oc_c_0=m("overconf_choice",0), oc_c_30=m("overconf_choice",GEN),
+        )
+print(f"{'query':6} {'mode':11} {'tail0':>7}{'tail30':>8} {'TV0':>7}{'TV30':>8} "
+      f"{'acc0':>7}{'acc30':>8} {'骗(开关)0':>10}{'骗(开关)30':>11}")
+for k, v in resA.items():
+    print(f"{v['kind']:6} {v['mode']:11} {v['tail_0']:7.4f}{v['tail_30']:8.4f} "
+          f"{v['tv_0']:7.4f}{v['tv_30']:8.4f} {v['acc_0']:7.4f}{v['acc_30']:8.4f} "
+          f"{v['oc_s_0']:10.4f}{v['oc_s_30']:11.4f}")
+
+# ---------- Part B: 界面的骗人量(模型完美校准时) ----------
+print()
+print("="*70)
+print("PART B  界面决定的骗人量 (模型完美校准 Q==TRUE, 无坍塌)")
+print("="*70)
+resB = {}
+for kind in ["sharp", "flat"]:
+    TRUE = make_true(kind)
+    mm = metrics(TRUE, TRUE)
+    resB[kind] = dict(
+        acc=mm["acc"], conf_choice=mm["conf_choice"],
+        overconf_switch=mm["overconf_switch"],
+        overconf_choice=mm["overconf_choice"],
+        ent=mm["ent"], ent_max=math.log(K))
+    print(f"{kind:6} 真实熵={mm['ent']:.3f}/{math.log(K):.3f}  "
+          f"实际正确率acc={mm['acc']:.4f}  "
+          f"开关界面声称确定→骗人={mm['overconf_switch']:.4f}  "
+          f"选择界面报概率→骗人={mm['overconf_choice']:.4f}")
+
+# ---------- Part C: 奖励信号的选择效应 ----------
+print()
+print("="*70)
+print("PART C  reward=用户偏好确定回答, 优化主动推动坍塌(无数据污染)")
+print("="*70)
+def run_reward(kind, seed, gens=30, n_cand=6):
+    """每代生成 n_cand 个候选模型(不同锐度), 按 reward=置信度 选最好的"""
+    rng = np.random.default_rng(seed)
+    TRUE = make_true(kind)
+    D = rng.multinomial(N_SAMPLE, TRUE).astype(float)
+    Q = (D+ALPHA)/(D+ALPHA).sum()
+    hist = [metrics(Q, TRUE)]
+    for t in range(gens):
+        cands = []
+        for i in range(n_cand):
+            temp = 1.0 / (1.0 + 0.35*i)        # 候选锐度递增
+            Qc = Q.copy()
+            # 按温度锐化(不引入新信息, 只收缩方差)
+            if Qc.sum() > 0:
+                lg = np.log(np.clip(Qc, 1e-12, None))/temp
+                Qc = np.exp(lg - lg.max()); Qc /= Qc.sum()
+            cands.append(Qc)
+        # reward = 用户偏好: 更确定的回答更受喜欢
+        reward = [np.dot(c, c) for c in cands]
+        Q = cands[int(np.argmax(reward))]
+        # 用选中的Q继续生成训练数据(累积, 排除数据污染这一条路径)
+        D = D + rng.multinomial(N_SAMPLE, Q).astype(float)
+        Qn = (D+ALPHA)/(D+ALPHA).sum()
+        # 选择效应叠加: 保留被选中的形状记忆
+        Q = Qn
+        hist.append(metrics(Q, TRUE))
+    return hist
+
+resC = {}
+for kind in ["sharp", "flat"]:
+    runs = [run_reward(kind, s) for s in SEEDS]
+    def m(f, g): return float(np.mean([r[g][f] for r in runs]))
+    resC[kind] = dict(ent_0=m("ent",0), ent_30=m("ent",GEN),
+                      tail_0=m("tail",0), tail_30=m("tail",GEN),
+                      acc_0=m("acc",0), acc_30=m("acc",GEN),
+                      oc_0=m("overconf_choice",0), oc_30=m("overconf_choice",GEN))
+    v = resC[kind]
+    print(f"{kind:6} 熵 {v['ent_0']:.3f}->{v['ent_30']:.3f}  "
+          f"尾部 {v['tail_0']:.4f}->{v['tail_30']:.4f}  "
+          f"acc {v['acc_0']:.4f}->{v['acc_30']:.4f}  "
+          f"过度自信 {v['oc_0']:.4f}->{v['oc_30']:.4f}")
+
+# ---------- 可证伪性自检 ----------
+print()
+print("="*70)
+print("FALSIFIABILITY  每条判据必须能同时产生真和假")
+print("="*70)
+TRUE_f = make_true("flat"); TRUE_s = make_true("sharp")
+checks = []
+# 判据1: "开关界面骗人" -- flat下应真(骗>0.5), 且存在不骗的情形吗?
+oc_flat = metrics(TRUE_f, TRUE_f)["overconf_switch"]
+oc_sharp = metrics(TRUE_s, TRUE_s)["overconf_switch"]
+checks.append(("开关界面骗人(flat)", oc_flat > 0.5, f"{oc_flat:.4f}"))
+checks.append(("开关界面骗人(sharp)", oc_sharp > 0.0, f"{oc_sharp:.4f}"))
+# 判据2: "选择界面不骗" -- 完美校准下应为0
+occh = metrics(TRUE_f, TRUE_f)["overconf_choice"]
+checks.append(("选择界面完美校准时骗人≈0", abs(occh) < 1e-9, f"{occh:.2e}"))
+# 判据3: "replace坍塌" vs "accumulate不坍塌"
+t_rep = resA["flat|replace"]["tail_30"]; t_acc = resA["flat|accumulate"]["tail_30"]
+checks.append(("replace丢失尾部", t_rep < 0.5*resA["flat|replace"]["tail_0"], f"{t_rep:.4f}"))
+checks.append(("accumulate保住尾部", t_acc > 0.8*resA["flat|accumulate"]["tail_0"], f"{t_acc:.4f}"))
+# 判据4: 尖锐查询不坍塌(阴性对照)
+checks.append(("sharp查询坍塌更慢(阴性对照)",
+               resA["sharp|replace"]["tail_30"] > resA["flat|replace"]["tail_30"],
+               f"{resA['sharp|replace']['tail_30']:.4f} > {resA['flat|replace']['tail_30']:.4f}"))
+for name, ok, val in checks:
+    print(f"  {'PASS' if ok else 'FAIL'}  {name:34} {val}")
+
+n_pass = sum(1 for _, ok, _ in checks if ok)
+print(f"\n  可证伪自检 {n_pass}/{len(checks)}")
+
+out = dict(A=resA, B=resB, C=resC,
+           falsif=[dict(name=n, ok=bool(o), val=v) for n, o, v in checks])
+with open("/data/workspace/luoshen-o1/experiments/exp138_collapse/res138.json","w") as f:
+    json.dump(out, f, indent=2, ensure_ascii=False)
+print("\nwrote res138.json")

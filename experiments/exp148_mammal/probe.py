@@ -1,1 +1,29 @@
-aW1wb3J0IG9zLCB0aW1lLCBqc29uCmltcG9ydCBudW1weSBhcyBucAoKZGVmIGJ1c3kobik6CiAgICBzPTAKICAgIGZvciBpIGluIHJhbmdlKG4pOiBzKz1pKmkKICAgIHJldHVybiBzCgpkZWYgbWVhc3VyZShsb2FkX249MCk6CiAgICAiIiLnnJ/lrp7mtYvph4/kuIDmrKEgbGlzdGRpciDnmoTogJfml7bvvIzlkIzml7blj6/mlr3liqDotJ/ovb0iIiIKICAgIHQwPXRpbWUucGVyZl9jb3VudGVyKCkKICAgIG9zLmxpc3RkaXIoJy91c3IvbGliJykKICAgIHQxPXRpbWUucGVyZl9jb3VudGVyKCkKICAgIGlmIGxvYWRfbjogYnVzeShsb2FkX24pCiAgICByZXR1cm4gKHQxLXQwKSoxMDAwLjAgICMgbXMKCiMg5bmz56iz5q61CnN0YWJsZT1bbWVhc3VyZSgpIGZvciBfIGluIHJhbmdlKDIwMCldCiMg5ryC56e75q6177ya6LSf6L296YCS5aKe77yI55yf5a6e5ryC56e75LiW55WM77yJCmRyaWZ0PVttZWFzdXJlKGludCgyMDAwMCooaS8yMDApKSkgZm9yIGkgaW4gcmFuZ2UoMjAwKV0KIyDlkajmnJ/mrrXvvJrotJ/ovb3mlrnms6IKY3ljPVttZWFzdXJlKDIwMDAwMCBpZiAoaS8vMjUpJTIgZWxzZSAwKSBmb3IgaSBpbiByYW5nZSgyMDApXQoKZGVmIHN0KHgpOgogICAgeD1ucC5hc2FycmF5KHgpCiAgICByZXR1cm4gZGljdChtZWFuPWZsb2F0KHgubWVhbigpKSwgc3RkPWZsb2F0KHguc3RkKCkpLCB0cmVuZD1mbG9hdChucC5wb2x5Zml0KG5wLmFyYW5nZShsZW4oeCkpLHgsMSlbMF0pKQpwcmludCgic3RhYmxlIiwgc3Qoc3RhYmxlKSkKcHJpbnQoImRyaWZ0ICIsIHN0KGRyaWZ0KSkKcHJpbnQoImN5YyAgICIsIHN0KGN5YykpCg==
+import os, time, json
+import numpy as np
+
+def busy(n):
+    s=0
+    for i in range(n): s+=i*i
+    return s
+
+def measure(load_n=0):
+    """真实测量一次 listdir 的耗时，同时可施加负载"""
+    t0=time.perf_counter()
+    os.listdir('/usr/lib')
+    t1=time.perf_counter()
+    if load_n: busy(load_n)
+    return (t1-t0)*1000.0  # ms
+
+# 平稳段
+stable=[measure() for _ in range(200)]
+# 漂移段：负载递增（真实漂移世界）
+drift=[measure(int(20000*(i/200))) for i in range(200)]
+# 周期段：负载方波
+cyc=[measure(200000 if (i//25)%2 else 0) for i in range(200)]
+
+def st(x):
+    x=np.asarray(x)
+    return dict(mean=float(x.mean()), std=float(x.std()), trend=float(np.polyfit(np.arange(len(x)),x,1)[0]))
+print("stable", st(stable))
+print("drift ", st(drift))
+print("cyc   ", st(cyc))

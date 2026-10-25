@@ -1,1 +1,95 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5a+85Ye655yf5a6e6L+Q6KGM5puy57q/77yI5L6b57uY5Zu+5LiO5ryU56S66KeG6aKR5L2/55So77yJ44CC5YaZ5YWlIGRhdGEvY3VydmVzLmpzb27jgIIiIiIKaW1wb3J0IHN5cywgb3MsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCgpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuLicsICdjb3JlJykpCnRyeToKICAgIGZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUgICAjIOijheWMhei/kOihjO+8iHBpcCBpbnN0YWxsIC7vvIkKZXhjZXB0IEltcG9ydEVycm9yOiAgICAgICAgICAgICAgICMg5rqQ56CB6L+Q6KGM77yIY29yZS8g55u05o6l5ZyoIHN5cy5wYXRo77yJCiAgICBmcm9tIGxpZmU1IGltcG9ydCBMaWZlNSAgICMgbm9xYQoKU1RFUFMsIFdBUk0gPSA2MDAsIDMwMApIRVJFID0gb3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKQpPVVQgPSBvcy5wYXRoLmpvaW4oSEVSRSwgJy4uJywgJ2RhdGEnLCAnY3VydmVzLmpzb24nKQoKCmRlZiBtYWtlX3N0YXJ2ZXIoY2gsIHdhcm0pOgogICAgZGVmIGFsbG9jKHdhbnQsIEIsIHMpOgogICAgICAgIG8gPSBucC5hcmdzb3J0KC13YW50KTsgYSA9IG5wLnplcm9zKHMuTik7IGxlZnQgPSBCCiAgICAgICAgZm9yIGkgaW4gbzoKICAgICAgICAgICAgaWYgcy50IDwgd2FybSBhbmQgaSA9PSBjaDoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHRrID0gbWluKHdhbnRbaV0sIGxlZnQpOyBhW2ldID0gdGs7IGxlZnQgLT0gdGsKICAgICAgICAgICAgaWYgbGVmdCA8PSAxZS0xMjoKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgcmV0dXJuIGEKICAgIHJldHVybiBhbGxvYwoKCmRlZiBzZXIobGYsIGtleSk6CiAgICByZXR1cm4gW2Zsb2F0KHJba2V5XSkgZm9yIHIgaW4gbGYubG9nXQoKCmRlZiBjaF9zaGFyZShsZiwgY2gpOgogICAgcmV0dXJuIFtmbG9hdChyWydhdmVjJ11bY2hdIC8gbWF4KHN1bShyWydhdmVjJ10pLCAxZS0xMikpIGZvciByIGluIGxmLmxvZ10KCgpkZWYgY2FwX3NrZXdfc2VyaWVzKGxmKToKICAgICIiIumAkOaLjee7k+aehOWBj+W6pu+8iGNhcGFjaXR5IOeahCBzdGQvbWVhbu+8ieOAgiIiIgogICAgb3V0ID0gW10KICAgIGZvciByIGluIGxmLmxvZzoKICAgICAgICBjID0gbnAuYXNhcnJheShyWydjYXB2J10sIGZsb2F0KQogICAgICAgIG91dC5hcHBlbmQoZmxvYXQoYy5zdGQoZGRvZj0xKSAvIG1heChjLm1lYW4oKSwgMWUtMTIpKSkKICAgIHJldHVybiBvdXQKCgpkID0ge30KCiMgMSkg55Sf5q275a+554Wn77yac2VlZCAzIOS8muatu++8jHNlZWQgNSDkvJrmtLsKZm9yIHNkIGluICgzLCA1KToKICAgIGxmID0gTGlmZTUoTj04LCBzZWVkPXNkKTsgbGYucnVuKFNURVBTKQogICAgZFtmJ2xpZmVfc2VlZHtzZH0nXSA9IGRpY3Qoc2VlZD1zZCwgc3Vydml2ZWQ9Ym9vbChsZi5hbGl2ZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWF0aF90PShOb25lIGlmIGxmLmRlYXRoX3QgaXMgTm9uZSBlbHNlIGludChsZi5kZWF0aF90KSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFPXNlcihsZiwgJ0UnKSwgY2FwPXNlcihsZiwgJ2NhcCcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3A9c2VyKGxmLCAnc3AnKSwgYWxpdmU9c2VyKGxmLCAnYWxpdmUnKSkKCiMgMikg5Y+W6IiN5a6e6aqM77ya5Lik57uE6LeRIGNoMyDku73pop3mm7Lnur8KZm9yIHN0YXJ2ZSBpbiAoMywgNSk6CiAgICBsZiA9IExpZmU1KE49OCwgc2VlZD01LCBhbGxvY19mbj1tYWtlX3N0YXJ2ZXIoc3RhcnZlLCBXQVJNKSk7IGxmLnJ1bihTVEVQUykKICAgIGRbZid0cmFkZW9mZl9zdGFydmV7c3RhcnZlfSddID0gZGljdChzdGFydmU9c3RhcnZlLCB3YXJtPVdBUk0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hhcmUzPWNoX3NoYXJlKGxmLCAzKSwgY2FwPXNlcihsZiwgJ2NhcCcpKQoKIyAzKSDnqIDnvLogw5cg5LiN5Y+v6YCGIDJ4Mu+8mmNhcGFjaXR5IOeWpOeXleabsue6vwpmb3Igc2MgaW4gKDEsIDApOgogICAgZm9yIGlyIGluICgxLCAwKToKICAgICAgICBrdyA9IGRpY3QoTj04LCBzZWVkPTUpCiAgICAgICAgaWYgbm90IHNjOiBrd1sncmF0aW8nXSA9IDUwLjAKICAgICAgICBpZiBub3QgaXI6IGt3WydjYXBfZGVjYXknXSA9IDAuMAogICAgICAgIGxmID0gTGlmZTUoKiprdyk7IGxmLnJ1bihTVEVQUykKICAgICAgICBkW2Ynd2VsZF9ze3NjfV9pe2lyfSddID0gZGljdChjYXA9c2VyKGxmLCAnY2FwJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2tldz1jYXBfc2tld19zZXJpZXMobGYpKQoKIyA0KSDlhbPplK7mnJ/vvJrlm5vkuKrnqpflj6PnmoTnu5PmnoTlgY/luqbmm7Lnur8Kd2lucyA9IHsnZWFybHknOiAoMCwgMTUwKSwgJ21pZCc6ICgxNTAsIDMwMCksICdsYXRlJzogKDMwMCwgNDUwKSwKICAgICAgICAnZnVsbCc6ICgwLCBTVEVQUyksICdub25lJzogTm9uZX0KZFsnd2luZG93J10gPSB7fQpmb3IgbmFtZSwgd2luIGluIHdpbnMuaXRlbXMoKToKICAgIGRlZiBtayh3aW4pOgogICAgICAgIGRlZiBhbGxvYyh3YW50LCBCLCBzKToKICAgICAgICAgICAgaWYgd2luIGlzIG5vdCBOb25lIGFuZCB3aW5bMF0gPD0gcy50IDwgd2luWzFdOgogICAgICAgICAgICAgICAgd2FudCA9IHdhbnQuY29weSgpOyB3YW50WzBdICs9IDAuMzAgKiB3YW50LnN1bSgpCiAgICAgICAgICAgIG8gPSBucC5hcmdzb3J0KC13YW50KTsgYSA9IG5wLnplcm9zKHMuTik7IGxlZnQgPSBCCiAgICAgICAgICAgIGZvciBpIGluIG86CiAgICAgICAgICAgICAgICB0ayA9IG1pbih3YW50W2ldLCBsZWZ0KTsgYVtpXSA9IHRrOyBsZWZ0IC09IHRrCiAgICAgICAgICAgICAgICBpZiBsZWZ0IDw9IDFlLTEyOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIHJldHVybiBhCiAgICAgICAgcmV0dXJuIGFsbG9jCiAgICBsZiA9IExpZmU1KE49OCwgc2VlZD01LCBhbGxvY19mbj1tayh3aW4pKTsgbGYucnVuKFNURVBTKQogICAgZFsnd2luZG93J11bbmFtZV0gPSBkaWN0KHNrZXc9Y2FwX3NrZXdfc2VyaWVzKGxmKSwgd2luPXdpbikKCndpdGggb3BlbihPVVQsICd3JykgYXMgZjoKICAgIGpzb24uZHVtcChkLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UpCnByaW50KCd3cml0dGVuIC0+Jywgb3MucGF0aC5hYnNwYXRoKE9VVCkpCnByaW50KCdzZWVkMyBkZWF0aF90ID0nLCBkWydsaWZlX3NlZWQzJ11bJ2RlYXRoX3QnXSwgJ3wgc2VlZDUgc3Vydml2ZWQgPScsIGRbJ2xpZmVfc2VlZDUnXVsnc3Vydml2ZWQnXSkK
+# -*- coding: utf-8 -*-
+"""导出真实运行曲线（供绘图与演示视频使用）。写入 data/curves.json。"""
+import sys, os, json
+import numpy as np
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
+try:
+    from core.life5 import Life5   # 装包运行（pip install .）
+except ImportError:               # 源码运行（core/ 直接在 sys.path）
+    from life5 import Life5   # noqa
+
+STEPS, WARM = 600, 300
+HERE = os.path.dirname(__file__)
+OUT = os.path.join(HERE, '..', 'data', 'curves.json')
+
+
+def make_starver(ch, warm):
+    def alloc(want, B, s):
+        o = np.argsort(-want); a = np.zeros(s.N); left = B
+        for i in o:
+            if s.t < warm and i == ch:
+                continue
+            tk = min(want[i], left); a[i] = tk; left -= tk
+            if left <= 1e-12:
+                break
+        return a
+    return alloc
+
+
+def ser(lf, key):
+    return [float(r[key]) for r in lf.log]
+
+
+def ch_share(lf, ch):
+    return [float(r['avec'][ch] / max(sum(r['avec']), 1e-12)) for r in lf.log]
+
+
+def cap_skew_series(lf):
+    """逐拍结构偏度（capacity 的 std/mean）。"""
+    out = []
+    for r in lf.log:
+        c = np.asarray(r['capv'], float)
+        out.append(float(c.std(ddof=1) / max(c.mean(), 1e-12)))
+    return out
+
+
+d = {}
+
+# 1) 生死对照：seed 3 会死，seed 5 会活
+for sd in (3, 5):
+    lf = Life5(N=8, seed=sd); lf.run(STEPS)
+    d[f'life_seed{sd}'] = dict(seed=sd, survived=bool(lf.alive),
+                               death_t=(None if lf.death_t is None else int(lf.death_t)),
+                               E=ser(lf, 'E'), cap=ser(lf, 'cap'),
+                               sp=ser(lf, 'sp'), alive=ser(lf, 'alive'))
+
+# 2) 取舍实验：两组跑 ch3 份额曲线
+for starve in (3, 5):
+    lf = Life5(N=8, seed=5, alloc_fn=make_starver(starve, WARM)); lf.run(STEPS)
+    d[f'tradeoff_starve{starve}'] = dict(starve=starve, warm=WARM,
+                                         share3=ch_share(lf, 3), cap=ser(lf, 'cap'))
+
+# 3) 稀缺 × 不可逆 2x2：capacity 疤痕曲线
+for sc in (1, 0):
+    for ir in (1, 0):
+        kw = dict(N=8, seed=5)
+        if not sc: kw['ratio'] = 50.0
+        if not ir: kw['cap_decay'] = 0.0
+        lf = Life5(**kw); lf.run(STEPS)
+        d[f'weld_s{sc}_i{ir}'] = dict(cap=ser(lf, 'cap'),
+                                      skew=cap_skew_series(lf))
+
+# 4) 关键期：四个窗口的结构偏度曲线
+wins = {'early': (0, 150), 'mid': (150, 300), 'late': (300, 450),
+        'full': (0, STEPS), 'none': None}
+d['window'] = {}
+for name, win in wins.items():
+    def mk(win):
+        def alloc(want, B, s):
+            if win is not None and win[0] <= s.t < win[1]:
+                want = want.copy(); want[0] += 0.30 * want.sum()
+            o = np.argsort(-want); a = np.zeros(s.N); left = B
+            for i in o:
+                tk = min(want[i], left); a[i] = tk; left -= tk
+                if left <= 1e-12:
+                    break
+            return a
+        return alloc
+    lf = Life5(N=8, seed=5, alloc_fn=mk(win)); lf.run(STEPS)
+    d['window'][name] = dict(skew=cap_skew_series(lf), win=win)
+
+with open(OUT, 'w') as f:
+    json.dump(d, f, ensure_ascii=False)
+print('written ->', os.path.abspath(OUT))
+print('seed3 death_t =', d['life_seed3']['death_t'], '| seed5 survived =', d['life_seed5']['survived'])

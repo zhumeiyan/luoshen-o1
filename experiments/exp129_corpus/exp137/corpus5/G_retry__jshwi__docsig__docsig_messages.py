@@ -1,1 +1,272 @@
-IiIiCmRvY3NpZy5tZXNzYWdlcwo9PT09PT09PT09PT09PT0KCkVycm9yIG1lc3NhZ2UgZGVmaW5pdGlvbnMgKE1lc3NhZ2UsIE1lc3NhZ2VNYXAsIEUpIGFuZCBmb3JtYXQgdGVtcGxhdGVzCmZvciBkb2NzdHJpbmctY2hlY2sgb3V0cHV0LgoiIiIKCmltcG9ydCB0eXBpbmcgYXMgX3QKCiM6IEVycm9yIGNvZGUgZm9yIHVua25vd24gZXJyb3JzLgpVTktOT1dOID0gIlNJRzAwMCIKCiM6IERlZmF1bHQgdGVtcGxhdGUgdG8gZm9ybWF0IG1lc3NhZ2Ugc3RyaW5ncy4KVEVNUExBVEUgPSAie3JlZn06IHtkZXNjcmlwdGlvbn0gKHtzeW1ib2xpY30pIgoKIzogRmxha2U4IHRlbXBsYXRlIHRvIGZvcm1hdCBtZXNzYWdlIHN0cmluZ3MuCkZMQUtFOCA9ICJ7cmVmfSB7ZGVzY3JpcHRpb259ICh7c3ltYm9saWN9KSIKCiM6IFRlbXBsYXRlIGZvciBmdXR1cmUgbWVzc2FnZXMgdGhhdCBkb24ndCByYWlzZSBhIHZpb2xhdGlvbiB5ZXQKTkVXID0gIntyZWZ9IGlzIGEgbmV3IHZpb2xhdGlvbiBhbmQgd2lsbCBlcnJvciBpbiBhIGZ1dHVyZSB2ZXJzaW9uIgoKCmNsYXNzIE1lc3NhZ2VzKGxpc3RbIk1lc3NhZ2UiXSk6CiAgICAiIiJTZXF1ZW5jZSBvZiBNZXNzYWdlIGluc3RhbmNlcywgdHlwaWNhbGx5IGZvciBvbmUgZmFpbHVyZS4iIiIKCgpjbGFzcyBNZXNzYWdlKF90Lk5hbWVkVHVwbGUpOgogICAgIiIiT25lIGRvY3N0cmluZy1jaGVjayBlcnJvciAocmVmLCBkZXNjcmlwdGlvbiwgc3ltYm9saWMsIGhpbnQpLiIiIgoKICAgICM6IEFuIGVycm9yIGNvZGUgdGhlIG1lc3NhZ2UgY2FuIGJlIHJlZmVyZW5jZWQgYnkuCiAgICByZWY6IHN0cgoKICAgICM6IEEgZGVzY3JpcHRpb24gb2YgdGhlIGVycm9yLgogICAgZGVzY3JpcHRpb246IHN0cgoKICAgICM6IEEgc2hvcnRlbmVkIGRlc2NyaXB0aW9uIHRoYXQgdGhlIG1lc3NhZ2UgY2FuIGJlIHJlZmVyZW5jZWQgYnkuCiAgICBzeW1ib2xpYzogc3RyID0gIiIKCiAgICAjOiBBIGhpbnQsIGlmIGFueSwgc3VnZ2VzdGluZyB3aHkgdGhlIGVycm9yIG1heSBoYXZlIG9jY3VycmVkLgogICAgaGludDogc3RyIHwgTm9uZSA9IE5vbmUKCiAgICAjOiBXaGV0aGVyIHRoaXMgbWVzc2FnZSBpcyBhIG5ldyBhZGRpdGlvbi4KICAgIG5ldzogYm9vbCA9IEZhbHNlCgogICAgQHByb3BlcnR5CiAgICBkZWYgaXNrbm93bihzZWxmKSAtPiBib29sOgogICAgICAgICIiIlRydWUgaWYgcmVmIGlzIGEga25vd24gY29kZSwgZWxzZSBGYWxzZSAodHlwbyBvciBtaXNzaW5nKS4iIiIKICAgICAgICByZXR1cm4gc2VsZi5yZWYgIT0gVU5LTk9XTgoKICAgIGRlZiBmc3RyaW5nKHNlbGYsIHRlbXBsYXRlOiBzdHIpIC0+IHN0cjoKICAgICAgICAiIiJGb3JtYXQgdGhpcyBtZXNzYWdlIHdpdGggdGhlIGdpdmVuIHRlbXBsYXRlLgoKICAgICAgICBQbGFjZWhvbGRlcnM6IHJlZiwgZGVzY3JpcHRpb24sIHN5bWJvbGljLgoKICAgICAgICA6cGFyYW0gdGVtcGxhdGU6IEZvcm1hdCBzdHJpbmcgd2l0aCByZWYsIGRlc2NyaXB0aW9uLCBzeW1ib2xpYy4KICAgICAgICA6cmV0dXJuOiBGb3JtYXR0ZWQgc3RyaW5nLgogICAgICAgICIiIgogICAgICAgIHRlbXBsYXRlID0gZiJXIHt0ZW1wbGF0ZX0iIGlmIHNlbGYubmV3IGVsc2UgdGVtcGxhdGUKICAgICAgICByZXR1cm4gdGVtcGxhdGUuZm9ybWF0KAogICAgICAgICAgICByZWY9c2VsZi5yZWYsCiAgICAgICAgICAgIGRlc2NyaXB0aW9uPXNlbGYuZGVzY3JpcHRpb24sCiAgICAgICAgICAgIHN5bWJvbGljPXNlbGYuc3ltYm9saWMsCiAgICAgICAgKQoKCmNsYXNzIE1lc3NhZ2VNYXAoZGljdFtpbnQsIE1lc3NhZ2VdKToKICAgICIiIk1hcHBpbmcgZnJvbSBpbnRlZ2VyIGtleSB0byBNZXNzYWdlICh1c2VkIGZvciB0aGUgRSByZWdpc3RyeSkuIiIiCgogICAgZGVmIGZyb21fcmVmKHNlbGYsIHJlZjogc3RyKSAtPiBNZXNzYWdlOgogICAgICAgICIiIlJldHVybiBNZXNzYWdlIGZvciB0aGUgZ2l2ZW4gY29kZSBvciBzeW1ib2xpYyByZWYuCgogICAgICAgIDpwYXJhbSByZWY6IENvZGUgKGUuZy4gU0lHMTAxKSBvciBzeW1ib2xpYyBuYW1lLgogICAgICAgIDpyZXR1cm46IE1hdGNoaW5nIE1lc3NhZ2UsIG9yIHVua25vd24gaWYgbm90IGZvdW5kLgogICAgICAgICIiIgogICAgICAgIGZvciB2YWx1ZSBpbiBzZWxmLnZhbHVlcygpOgogICAgICAgICAgICBpZiByZWYgaW4gKHZhbHVlLnJlZiwgdmFsdWUuc3ltYm9saWMpOgogICAgICAgICAgICAgICAgcmV0dXJuIHZhbHVlCgogICAgICAgIHJldHVybiBNZXNzYWdlKFVOS05PV04sIHJlZikKCiAgICBkZWYgZnJvbV9jb2RlcyhzZWxmLCByZWZzOiBsaXN0W3N0cl0pIC0+IE1lc3NhZ2VzOgogICAgICAgICIiIlJldHVybiBNZXNzYWdlcyBmb3IgdGhlIGdpdmVuIGNvZGVzIG9yIHN5bWJvbGljIHJlZnMuCgogICAgICAgIDpwYXJhbSByZWZzOiBDb2RlcyBvciBzeW1ib2xpYyBuYW1lcy4KICAgICAgICA6cmV0dXJuOiBPbmUgTWVzc2FnZSBwZXIgcmVmICh1bmtub3duIGlmIG5vdCBmb3VuZCkuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIE1lc3NhZ2VzKHNlbGYuZnJvbV9yZWYoaSkgZm9yIGkgaW4gcmVmcykKCiAgICBAcHJvcGVydHkKICAgIGRlZiBhbGwoc2VsZikgLT4gTWVzc2FnZXM6CiAgICAgICAgIiIiQWxsIE1lc3NhZ2VzIGV4Y2VwdCBzaW5nbGUtZGlnaXQgY29uZmlnIGVycm9ycyAoU0lHMHh4KS4iIiIKICAgICAgICByZXR1cm4gTWVzc2FnZXModiBmb3IgaywgdiBpbiBzZWxmLml0ZW1zKCkgaWYgbGVuKHN0cihrKSkgPiAxKQoKCiMgU0lHeHh4OiBFcnJvcgpFID0gTWVzc2FnZU1hcCgKICAgIHsKICAgICAgICAjOiBTSUcweHggQ29uZmlnCiAgICAgICAgMTogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzAwMSIsCiAgICAgICAgICAgICJ1bmtub3duIG1vZHVsZSBjb21tZW50IGRpcmVjdGl2ZSAne2RpcmVjdGl2ZX0nIiwKICAgICAgICAgICAgInVua25vd24tbW9kdWxlLWRpcmVjdGl2ZSIsCiAgICAgICAgKSwKICAgICAgICAyOiBNZXNzYWdlKAogICAgICAgICAgICAiU0lHMDAyIiwKICAgICAgICAgICAgInVua25vd24gaW5saW5lIGNvbW1lbnQgZGlyZWN0aXZlICd7ZGlyZWN0aXZlfSciLAogICAgICAgICAgICAidW5rbm93bi1pbmxpbmUtZGlyZWN0aXZlIiwKICAgICAgICApLAogICAgICAgIDM6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUcwMDMiLAogICAgICAgICAgICAidW5rbm93biBtb2R1bGUgY29tbWVudCBvcHRpb24gZm9yIHtkaXJlY3RpdmV9ICd7b3B0aW9ufSciLAogICAgICAgICAgICAidW5rbm93bi1tb2R1bGUtZGlyZWN0aXZlLW9wdGlvbiIsCiAgICAgICAgKSwKICAgICAgICA0OiBNZXNzYWdlKAogICAgICAgICAgICAiU0lHMDA0IiwKICAgICAgICAgICAgInVua25vd24gaW5saW5lIGNvbW1lbnQgb3B0aW9uIGZvciB7ZGlyZWN0aXZlfSAne29wdGlvbn0nIiwKICAgICAgICAgICAgInVua25vd24taW5saW5lLWRpcmVjdGl2ZS1vcHRpb24iLAogICAgICAgICksCiAgICAgICAgNTogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzAwNSIsCiAgICAgICAgICAgICJib3RoIG11dHVhbGx5IGV4Y2x1c2l2ZSBjbGFzcyBvcHRpb25zIGNvbmZpZ3VyZWQiLAogICAgICAgICAgICAibXV0dWFsbHktZXhjbHVzaXZlLW9wdGlvbnMiLAogICAgICAgICksCiAgICAgICAgNjogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzAwNiIsCiAgICAgICAgICAgICJ1bmtub3duIG1vZHVsZSBjb21tZW50IGZsYWcgZm9yIHtkaXJlY3RpdmV9ICd7ZmxhZ30nIiwKICAgICAgICAgICAgInVua25vd24tbW9kdWxlLWRpcmVjdGl2ZS1mbGFnIiwKICAgICAgICApLAogICAgICAgIDc6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUcwMDciLAogICAgICAgICAgICAidW5rbm93biBpbmxpbmUgY29tbWVudCBmbGFnIGZvciB7ZGlyZWN0aXZlfSAne2ZsYWd9JyIsCiAgICAgICAgICAgICJ1bmtub3duLWlubGluZS1kaXJlY3RpdmUtZmxhZyIsCiAgICAgICAgKSwKICAgICAgICAjOiBTSUcxeHggTWlzc2luZwogICAgICAgIDEwMTogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzEwMSIsCiAgICAgICAgICAgICJmdW5jdGlvbiBpcyBtaXNzaW5nIGEgZG9jc3RyaW5nIiwKICAgICAgICAgICAgImZ1bmN0aW9uLWRvYy1taXNzaW5nIiwKICAgICAgICApLAogICAgICAgIDEwMjogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzEwMiIsCiAgICAgICAgICAgICJjbGFzcyBpcyBtaXNzaW5nIGEgZG9jc3RyaW5nIiwKICAgICAgICAgICAgImNsYXNzLWRvYy1taXNzaW5nIiwKICAgICAgICApLAogICAgICAgICM6IFNJRzJ4eCBTaWduYXR1cmUKICAgICAgICAyMDE6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUcyMDEiLAogICAgICAgICAgICAiZHVwbGljYXRlIHBhcmFtZXRlcnMgZm91bmQiLAogICAgICAgICAgICAiZHVwbGljYXRlLXBhcmFtcy1mb3VuZCIsCiAgICAgICAgKSwKICAgICAgICAyMDI6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUcyMDIiLAogICAgICAgICAgICAiaW5jbHVkZXMgcGFyYW1ldGVycyB0aGF0IGRvIG5vdCBleGlzdCIsCiAgICAgICAgICAgICJwYXJhbXMtZG8tbm90LWV4aXN0IiwKICAgICAgICApLAogICAgICAgIDIwMzogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzIwMyIsCiAgICAgICAgICAgICJwYXJhbWV0ZXJzIG1pc3NpbmciLAogICAgICAgICAgICAicGFyYW1zLW1pc3NpbmciLAogICAgICAgICksCiAgICAgICAgIzogU0lHM3h4IERlc2NyaXB0aW9uCiAgICAgICAgMzAxOiBNZXNzYWdlKAogICAgICAgICAgICAiU0lHMzAxIiwKICAgICAgICAgICAgImRlc2NyaXB0aW9uIG1pc3NpbmcgZnJvbSBwYXJhbWV0ZXIiLAogICAgICAgICAgICAiZGVzY3JpcHRpb24tbWlzc2luZyIsCiAgICAgICAgKSwKICAgICAgICAzMDI6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUczMDIiLAogICAgICAgICAgICAic3ludGF4IGVycm9yIGluIGRlc2NyaXB0aW9uIiwKICAgICAgICAgICAgInN5bnRheC1lcnJvci1pbi1kZXNjcmlwdGlvbiIsCiAgICAgICAgKSwKICAgICAgICAzMDM6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUczMDMiLAogICAgICAgICAgICAicGFyYW1ldGVyIGFwcGVhcnMgdG8gYmUgaW5jb3JyZWN0bHkgZG9jdW1lbnRlZCIsCiAgICAgICAgICAgICJwYXJhbS1pbmNvcnJlY3RseS1kb2N1bWVudGVkIiwKICAgICAgICApLAogICAgICAgIDMwNDogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzMwNCIsCiAgICAgICAgICAgICJiYWQgdG9rZW4gdXNlZCB0byBjbG9zZSBwYXJhbWV0ZXIgZGVjbGFyYXRpb24gJ3t0b2tlbn0nIiwKICAgICAgICAgICAgImJhZC1jbG9zaW5nLXRva2VuIiwKICAgICAgICAgICAgImNsb3NlIGEgcGFyYW1ldGVyIGRlY2xhcmF0aW9uIHdpdGggJzonIiwKICAgICAgICApLAogICAgICAgIDMwNTogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzMwNSIsCiAgICAgICAgICAgICJkZXNjcmlwdGlvbiBkb2VzIG5vdCBiZWdpbiB3aXRoIGEgY2FwaXRhbCBsZXR0ZXIiLAogICAgICAgICAgICAiZGVzY3JpcHRpb24tbm90LWNhcGl0YWxpemVkIiwKICAgICAgICApLAogICAgICAgIDMwNjogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzMwNiIsCiAgICAgICAgICAgICJkZXNjcmlwdGlvbiBkb2VzIG5vdCBlbmQgaW4gYSBwZXJpb2QiLAogICAgICAgICAgICAiZGVzY3JpcHRpb24tbWlzc2luZy1wZXJpb2QiLAogICAgICAgICksCiAgICAgICAgIzogU0lHNHh4IFBhcmFtZXRlcnMKICAgICAgICA0MDE6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUc0MDEiLAogICAgICAgICAgICAicGFyYW1ldGVyIG5vdCBpbmRlbnRlZCBjb3JyZWN0bHkiLAogICAgICAgICAgICAiaW5jb3JyZWN0LWluZGVudCIsCiAgICAgICAgKSwKICAgICAgICA0MDI6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUc0MDIiLAogICAgICAgICAgICAicGFyYW1ldGVycyBvdXQgb2Ygb3JkZXIiLAogICAgICAgICAgICAicGFyYW1zLW91dC1vZi1vcmRlciIsCiAgICAgICAgKSwKICAgICAgICA0MDM6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUc0MDMiLAogICAgICAgICAgICAic3BlbGxpbmcgZXJyb3IgZm91bmQgaW4gZG9jdW1lbnRlZCBwYXJhbWV0ZXIiLAogICAgICAgICAgICAic3BlbGxpbmctZXJyb3IiLAogICAgICAgICksCiAgICAgICAgNDA0OiBNZXNzYWdlKAogICAgICAgICAgICAiU0lHNDA0IiwKICAgICAgICAgICAgImRvY3VtZW50ZWQgcGFyYW1ldGVyIG5vdCBlcXVhbCB0byBpdHMgcmVzcGVjdGl2ZSBhcmd1bWVudCIsCiAgICAgICAgICAgICJwYXJhbS1ub3QtZXF1YWwtdG8tYXJnIiwKICAgICAgICApLAogICAgICAgICM6IFNJRzV4eCBSZXR1cm5zCiAgICAgICAgNTAxOiBNZXNzYWdlKAogICAgICAgICAgICAiU0lHNTAxIiwKICAgICAgICAgICAgImNhbm5vdCBkZXRlcm1pbmUgd2hldGhlciBhIHJldHVybiBzdGF0ZW1lbnQgc2hvdWxkIGV4aXN0IiwKICAgICAgICAgICAgImNvbmZpcm0tcmV0dXJuLW5lZWRlZCIsCiAgICAgICAgICAgICJhbm5vdGF0ZSB0eXBlIHRvIGluZGljYXRlIHdoZXRoZXIgcmV0dXJuIGRvY3VtZW50YXRpb24gbmVlZGVkIiwKICAgICAgICApLAogICAgICAgIDUwMjogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzUwMiIsCiAgICAgICAgICAgICJyZXR1cm4gc3RhdGVtZW50IGRvY3VtZW50ZWQgZm9yIE5vbmUiLAogICAgICAgICAgICAicmV0dXJuLWRvY3VtZW50ZWQtZm9yLW5vbmUiLAogICAgICAgICksCiAgICAgICAgNTAzOiBNZXNzYWdlKAogICAgICAgICAgICAiU0lHNTAzIiwKICAgICAgICAgICAgInJldHVybiBtaXNzaW5nIGZyb20gZG9jc3RyaW5nIiwKICAgICAgICAgICAgInJldHVybi1taXNzaW5nIiwKICAgICAgICAgICAgIml0IGlzIHBvc3NpYmxlIGEgc3ludGF4IGVycm9yIGNvdWxkIGJlIGNhdXNpbmcgdGhpcyIsCiAgICAgICAgKSwKICAgICAgICA1MDQ6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUc1MDQiLAogICAgICAgICAgICAicmV0dXJuIHN0YXRlbWVudCBkb2N1bWVudGVkIGZvciBjbGFzcyIsCiAgICAgICAgICAgICJjbGFzcy1yZXR1cm4tZG9jdW1lbnRlZCIsCiAgICAgICAgICAgICJhIGNsYXNzIGRvZXMgbm90IHJldHVybiBhIHZhbHVlIGR1cmluZyBpbnN0YW50aWF0aW9uIiwKICAgICAgICApLAogICAgICAgIDUwNTogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzUwNSIsCiAgICAgICAgICAgICJyZXR1cm4gc3RhdGVtZW50IGRvY3VtZW50ZWQgZm9yIHByb3BlcnR5IiwKICAgICAgICAgICAgInJldHVybi1kb2N1bWVudGVkLWZvci1wcm9wZXJ0eSIsCiAgICAgICAgICAgICJkb2N1bWVudGF0aW9uIGlzIHN1ZmZpY2llbnQgYXMgYSBnZXR0ZXIgaXMgdGhlIHZhbHVlIHJldHVybmVkIiwKICAgICAgICApLAogICAgICAgIDUwNjogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzUwNiIsCiAgICAgICAgICAgICJkZXNjcmlwdGlvbiBtaXNzaW5nIGZyb20gcmV0dXJuIiwKICAgICAgICAgICAgInJldHVybi1kZXNjcmlwdGlvbi1taXNzaW5nIiwKICAgICAgICApLAogICAgICAgICM6IFNJRzl4eCBFcnJvcgogICAgICAgIDkwMTogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzkwMSIsCiAgICAgICAgICAgICJwYXJzaW5nIHB5dGhvbiBjb2RlIGZhaWxlZCIsCiAgICAgICAgICAgICJpbnZhbGlkLXN5bnRheCIsCiAgICAgICAgKSwKICAgICAgICA5MDI6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUc5MDIiLAogICAgICAgICAgICAiZmFpbGVkIHRvIHJlYWQgZmlsZSIsCiAgICAgICAgICAgICJ1bmljb2RlLWRlY29kZS1lcnJvciIsCiAgICAgICAgKSwKICAgICAgICA5MDM6IE1lc3NhZ2UoCiAgICAgICAgICAgICJTSUc5MDMiLAogICAgICAgICAgICAibWF4aW11bSByZWN1cnNpb24gZGVwdGggZXhjZWVkZWQiLAogICAgICAgICAgICAicmVjdXJzaW9uLWVycm9yIiwKICAgICAgICApLAogICAgICAgIDkwNDogTWVzc2FnZSgKICAgICAgICAgICAgIlNJRzkwNCIsCiAgICAgICAgICAgICJkdXBsaWNhdGVzIGZvdW5kIGluIG1yb3MiLAogICAgICAgICAgICAiZHVwbGljYXRlcy1mb3VuZC1pbi1tcm9zIiwKICAgICAgICApLAogICAgfSwKKQo=
+"""
+docsig.messages
+===============
+
+Error message definitions (Message, MessageMap, E) and format templates
+for docstring-check output.
+"""
+
+import typing as _t
+
+#: Error code for unknown errors.
+UNKNOWN = "SIG000"
+
+#: Default template to format message strings.
+TEMPLATE = "{ref}: {description} ({symbolic})"
+
+#: Flake8 template to format message strings.
+FLAKE8 = "{ref} {description} ({symbolic})"
+
+#: Template for future messages that don't raise a violation yet
+NEW = "{ref} is a new violation and will error in a future version"
+
+
+class Messages(list["Message"]):
+    """Sequence of Message instances, typically for one failure."""
+
+
+class Message(_t.NamedTuple):
+    """One docstring-check error (ref, description, symbolic, hint)."""
+
+    #: An error code the message can be referenced by.
+    ref: str
+
+    #: A description of the error.
+    description: str
+
+    #: A shortened description that the message can be referenced by.
+    symbolic: str = ""
+
+    #: A hint, if any, suggesting why the error may have occurred.
+    hint: str | None = None
+
+    #: Whether this message is a new addition.
+    new: bool = False
+
+    @property
+    def isknown(self) -> bool:
+        """True if ref is a known code, else False (typo or missing)."""
+        return self.ref != UNKNOWN
+
+    def fstring(self, template: str) -> str:
+        """Format this message with the given template.
+
+        Placeholders: ref, description, symbolic.
+
+        :param template: Format string with ref, description, symbolic.
+        :return: Formatted string.
+        """
+        template = f"W {template}" if self.new else template
+        return template.format(
+            ref=self.ref,
+            description=self.description,
+            symbolic=self.symbolic,
+        )
+
+
+class MessageMap(dict[int, Message]):
+    """Mapping from integer key to Message (used for the E registry)."""
+
+    def from_ref(self, ref: str) -> Message:
+        """Return Message for the given code or symbolic ref.
+
+        :param ref: Code (e.g. SIG101) or symbolic name.
+        :return: Matching Message, or unknown if not found.
+        """
+        for value in self.values():
+            if ref in (value.ref, value.symbolic):
+                return value
+
+        return Message(UNKNOWN, ref)
+
+    def from_codes(self, refs: list[str]) -> Messages:
+        """Return Messages for the given codes or symbolic refs.
+
+        :param refs: Codes or symbolic names.
+        :return: One Message per ref (unknown if not found).
+        """
+        return Messages(self.from_ref(i) for i in refs)
+
+    @property
+    def all(self) -> Messages:
+        """All Messages except single-digit config errors (SIG0xx)."""
+        return Messages(v for k, v in self.items() if len(str(k)) > 1)
+
+
+# SIGxxx: Error
+E = MessageMap(
+    {
+        #: SIG0xx Config
+        1: Message(
+            "SIG001",
+            "unknown module comment directive '{directive}'",
+            "unknown-module-directive",
+        ),
+        2: Message(
+            "SIG002",
+            "unknown inline comment directive '{directive}'",
+            "unknown-inline-directive",
+        ),
+        3: Message(
+            "SIG003",
+            "unknown module comment option for {directive} '{option}'",
+            "unknown-module-directive-option",
+        ),
+        4: Message(
+            "SIG004",
+            "unknown inline comment option for {directive} '{option}'",
+            "unknown-inline-directive-option",
+        ),
+        5: Message(
+            "SIG005",
+            "both mutually exclusive class options configured",
+            "mutually-exclusive-options",
+        ),
+        6: Message(
+            "SIG006",
+            "unknown module comment flag for {directive} '{flag}'",
+            "unknown-module-directive-flag",
+        ),
+        7: Message(
+            "SIG007",
+            "unknown inline comment flag for {directive} '{flag}'",
+            "unknown-inline-directive-flag",
+        ),
+        #: SIG1xx Missing
+        101: Message(
+            "SIG101",
+            "function is missing a docstring",
+            "function-doc-missing",
+        ),
+        102: Message(
+            "SIG102",
+            "class is missing a docstring",
+            "class-doc-missing",
+        ),
+        #: SIG2xx Signature
+        201: Message(
+            "SIG201",
+            "duplicate parameters found",
+            "duplicate-params-found",
+        ),
+        202: Message(
+            "SIG202",
+            "includes parameters that do not exist",
+            "params-do-not-exist",
+        ),
+        203: Message(
+            "SIG203",
+            "parameters missing",
+            "params-missing",
+        ),
+        #: SIG3xx Description
+        301: Message(
+            "SIG301",
+            "description missing from parameter",
+            "description-missing",
+        ),
+        302: Message(
+            "SIG302",
+            "syntax error in description",
+            "syntax-error-in-description",
+        ),
+        303: Message(
+            "SIG303",
+            "parameter appears to be incorrectly documented",
+            "param-incorrectly-documented",
+        ),
+        304: Message(
+            "SIG304",
+            "bad token used to close parameter declaration '{token}'",
+            "bad-closing-token",
+            "close a parameter declaration with ':'",
+        ),
+        305: Message(
+            "SIG305",
+            "description does not begin with a capital letter",
+            "description-not-capitalized",
+        ),
+        306: Message(
+            "SIG306",
+            "description does not end in a period",
+            "description-missing-period",
+        ),
+        #: SIG4xx Parameters
+        401: Message(
+            "SIG401",
+            "parameter not indented correctly",
+            "incorrect-indent",
+        ),
+        402: Message(
+            "SIG402",
+            "parameters out of order",
+            "params-out-of-order",
+        ),
+        403: Message(
+            "SIG403",
+            "spelling error found in documented parameter",
+            "spelling-error",
+        ),
+        404: Message(
+            "SIG404",
+            "documented parameter not equal to its respective argument",
+            "param-not-equal-to-arg",
+        ),
+        #: SIG5xx Returns
+        501: Message(
+            "SIG501",
+            "cannot determine whether a return statement should exist",
+            "confirm-return-needed",
+            "annotate type to indicate whether return documentation needed",
+        ),
+        502: Message(
+            "SIG502",
+            "return statement documented for None",
+            "return-documented-for-none",
+        ),
+        503: Message(
+            "SIG503",
+            "return missing from docstring",
+            "return-missing",
+            "it is possible a syntax error could be causing this",
+        ),
+        504: Message(
+            "SIG504",
+            "return statement documented for class",
+            "class-return-documented",
+            "a class does not return a value during instantiation",
+        ),
+        505: Message(
+            "SIG505",
+            "return statement documented for property",
+            "return-documented-for-property",
+            "documentation is sufficient as a getter is the value returned",
+        ),
+        506: Message(
+            "SIG506",
+            "description missing from return",
+            "return-description-missing",
+        ),
+        #: SIG9xx Error
+        901: Message(
+            "SIG901",
+            "parsing python code failed",
+            "invalid-syntax",
+        ),
+        902: Message(
+            "SIG902",
+            "failed to read file",
+            "unicode-decode-error",
+        ),
+        903: Message(
+            "SIG903",
+            "maximum recursion depth exceeded",
+            "recursion-error",
+        ),
+        904: Message(
+            "SIG904",
+            "duplicates found in mros",
+            "duplicates-found-in-mros",
+        ),
+    },
+)

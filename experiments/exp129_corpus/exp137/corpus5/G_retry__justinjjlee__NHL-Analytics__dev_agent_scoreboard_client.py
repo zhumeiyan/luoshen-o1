@@ -1,1 +1,129 @@
-IiIiCmNsaWVudC5weSDigJQgTW9kZXJuIE5ITCBBUEkgQ2xpZW50IGZvciB0aGUgU2NvcmVib2FyZCBBZ2VudCBGcmFtZXdvcmsuCgpJbnRlcmZhY2VzIHdpdGggdGhlIG9mZmljaWFsIE5ITCBBUEkgKGFwaS13ZWIubmhsZS5jb20vdjEpIHRvIGZldGNoIHNjaGVkdWxlIHNsYXRlcywKZ2FtZSBsYW5kaW5ncywgYm94IHNjb3JlcywgdGVhbSBzdGF0aXN0aWNzLCBhbmQgcGxheWVyIHBlcmZvcm1hbmNlIGZlZWRzLgoiIiIKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IHRpbWUKaW1wb3J0IHVybGxpYi5lcnJvcgppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBEaWN0LCBMaXN0LCBPcHRpb25hbAoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoIlNjb3JlYm9hcmRBZ2VudC5DbGllbnQiKQoKCmNsYXNzIE5ITFNjb3JlYm9hcmRDbGllbnQ6CiAgICAiIiJIVFRQIENsaWVudCBmb3IgcXVlcnlpbmcgTkhMIGdhbWUtY2VudGVyIGFuZCBzY2hlZHVsZSBlbmRwb2ludHMuIiIiCgogICAgQkFTRV9VUkwgPSAiaHR0cHM6Ly9hcGktd2ViLm5obGUuY29tL3YxIgogICAgREVGQVVMVF9IRUFERVJTID0gewogICAgICAgICJVc2VyLUFnZW50IjogIk1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiIsCiAgICAgICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgIH0KCiAgICBkZWYgX19pbml0X18oc2VsZiwgdGltZW91dDogaW50ID0gMTUsIGNhY2hlX3R0bF9zZWNvbmRzOiBpbnQgPSAzMDApOgogICAgICAgIHNlbGYudGltZW91dCA9IHRpbWVvdXQKICAgICAgICBzZWxmLmNhY2hlX3R0bCA9IGNhY2hlX3R0bF9zZWNvbmRzCiAgICAgICAgc2VsZi5fY2FjaGU6IERpY3Rbc3RyLCBEaWN0W3N0ciwgQW55XV0gPSB7fQoKICAgIGRlZiBfZ2V0KHNlbGYsIGVuZHBvaW50OiBzdHIpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIlBlcmZvcm0gY2FjaGVkIEhUVFAgR0VUIHJlcXVlc3Qgd2l0aCByZXRyaWVzIGFuZCBleHBvbmVudGlhbCBiYWNrb2ZmLiIiIgogICAgICAgIHVybCA9IGYie3NlbGYuQkFTRV9VUkx9L3tlbmRwb2ludC5sc3RyaXAoJy8nKX0iCiAgICAgICAgbm93ID0gdGltZS50aW1lKCkKCiAgICAgICAgIyBDaGVjayBpbi1tZW1vcnkgY2FjaGUKICAgICAgICBpZiB1cmwgaW4gc2VsZi5fY2FjaGU6CiAgICAgICAgICAgIGVudHJ5ID0gc2VsZi5fY2FjaGVbdXJsXQogICAgICAgICAgICBpZiBub3cgLSBlbnRyeVsidGltZXN0YW1wIl0gPCBzZWxmLmNhY2hlX3R0bDoKICAgICAgICAgICAgICAgIHJldHVybiBlbnRyeVsiZGF0YSJdCgogICAgICAgIGxhc3RfZXJyb3IgPSBOb25lCiAgICAgICAgZm9yIGF0dGVtcHQgaW4gcmFuZ2UoMyk6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsLCBoZWFkZXJzPXNlbGYuREVGQVVMVF9IRUFERVJTKQogICAgICAgICAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD1zZWxmLnRpbWVvdXQpIGFzIHJlc3BvbnNlOgogICAgICAgICAgICAgICAgICAgIGNvbnRlbnQgPSByZXNwb25zZS5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIpCiAgICAgICAgICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZHMoY29udGVudCkKICAgICAgICAgICAgICAgICAgICBzZWxmLl9jYWNoZVt1cmxdID0geyJ0aW1lc3RhbXAiOiBub3csICJkYXRhIjogZGF0YX0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGF0YQogICAgICAgICAgICBleGNlcHQgKHVybGxpYi5lcnJvci5IVFRQRXJyb3IsIHVybGxpYi5lcnJvci5VUkxFcnJvciwgVGltZW91dEVycm9yKSBhcyBlOgogICAgICAgICAgICAgICAgbGFzdF9lcnJvciA9IGUKICAgICAgICAgICAgICAgIHdhaXRfdGltZSA9IDAuNSAqICgyICoqIGF0dGVtcHQpCiAgICAgICAgICAgICAgICBsb2dnZXIud2FybmluZygiSFRUUCBlcnJvciBmZXRjaGluZyAlcyAoYXR0ZW1wdCAlZC8zKTogJXMuIFJldHJ5aW5nIGluICUuMWZzIiwgdXJsLCBhdHRlbXB0ICsgMSwgZSwgd2FpdF90aW1lKQogICAgICAgICAgICAgICAgdGltZS5zbGVlcCh3YWl0X3RpbWUpCgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihmIkZhaWxlZCB0byBmZXRjaCB7dXJsfSBhZnRlciAzIGF0dGVtcHRzOiB7bGFzdF9lcnJvcn0iKQoKICAgIGRlZiBnZXRfc2NvcmVfc2xhdGUoc2VsZiwgZGF0ZV9zdHI6IE9wdGlvbmFsW3N0cl0gPSBOb25lKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiIKICAgICAgICBGZXRjaCB0aGUgc2NvcmVib2FyZCBzY2hlZHVsZSBmb3IgYSBnaXZlbiBkYXRlIChZWVlZLU1NLUREKSBvciBjdXJyZW50IGRhdGUuCiAgICAgICAgIiIiCiAgICAgICAgZW5kcG9pbnQgPSBmInNjb3JlL3tkYXRlX3N0cn0iIGlmIGRhdGVfc3RyIGVsc2UgInNjb3JlL25vdyIKICAgICAgICByZXR1cm4gc2VsZi5fZ2V0KGVuZHBvaW50KQoKICAgIGRlZiBnZXRfYm94c2NvcmUoc2VsZiwgZ2FtZV9pZDogaW50KSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICAiIiJGZXRjaCB0aGUgb2ZmaWNpYWwgZ2FtZSBib3ggc2NvcmUgaW5jbHVkaW5nIHBsYXllci1sZXZlbCBnYW1lIHN0YXRzLiIiIgogICAgICAgIHJldHVybiBzZWxmLl9nZXQoZiJnYW1lY2VudGVyL3tnYW1lX2lkfS9ib3hzY29yZSIpCgogICAgZGVmIGdldF9sYW5kaW5nKHNlbGYsIGdhbWVfaWQ6IGludCkgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIiRmV0Y2ggZ2FtZSBsYW5kaW5nIGRldGFpbHMsIHRocmVlIHN0YXJzLCBzY29yaW5nIHBsYXlzLCBhbmQgcGVyaW9kIGJyZWFrZG93bnMuIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2dldChmImdhbWVjZW50ZXIve2dhbWVfaWR9L2xhbmRpbmciKQoKICAgIGRlZiBnZXRfcmlnaHRfcmFpbChzZWxmLCBnYW1lX2lkOiBpbnQpIC0+IERpY3Rbc3RyLCBBbnldOgogICAgICAgICIiIkZldGNoIHN1cHBsZW1lbnRhcnkgdGVhbSBtZXRyaWNzIChmYWNlb2ZmcywgcG93ZXIgcGxheSwgaGl0cywgYmxvY2tzLCB0YWtlYXdheXMpLiIiIgogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2dldChmImdhbWVjZW50ZXIve2dhbWVfaWR9L3JpZ2h0LXJhaWwiKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJSaWdodC1yYWlsIHVuYXZhaWxhYmxlIGZvciBnYW1lICVkOiAlcyIsIGdhbWVfaWQsIGUpCiAgICAgICAgICAgIHJldHVybiB7fQoKICAgIGRlZiBnZXRfcGxheV9ieV9wbGF5KHNlbGYsIGdhbWVfaWQ6IGludCkgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIiRmV0Y2ggcGxheS1ieS1wbGF5IHNob3QgdGVsZW1ldHJ5LCBjb29yZGluYXRlcywgYW5kIGV2ZW50IHRpbWVsaW5lLiIiIgogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2dldChmImdhbWVjZW50ZXIve2dhbWVfaWR9L3BsYXktYnktcGxheSIpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2dnZXIuZGVidWcoIlBsYXktYnktcGxheSB1bmF2YWlsYWJsZSBmb3IgZ2FtZSAlZDogJXMiLCBnYW1lX2lkLCBlKQogICAgICAgICAgICByZXR1cm4ge30KCiAgICBkZWYgZ2V0X2dhbWVfYnVuZGxlKHNlbGYsIGdhbWVfaWQ6IGludCkgLT4gRGljdFtzdHIsIEFueV06CiAgICAgICAgIiIiCiAgICAgICAgQWdncmVnYXRlIGJveHNjb3JlLCBsYW5kaW5nLCByaWdodC1yYWlsLCBhbmQgcGxheS1ieS1wbGF5IGZlZWRzIGludG8gYSBjb25zb2xpZGF0ZWQgZ2FtZSBidW5kbGUuCiAgICAgICAgIiIiCiAgICAgICAgbGFuZGluZyA9IHNlbGYuZ2V0X2xhbmRpbmcoZ2FtZV9pZCkKICAgICAgICBib3hzY29yZSA9IHNlbGYuZ2V0X2JveHNjb3JlKGdhbWVfaWQpCiAgICAgICAgcmlnaHRfcmFpbCA9IHNlbGYuZ2V0X3JpZ2h0X3JhaWwoZ2FtZV9pZCkKICAgICAgICBwbGF5X2J5X3BsYXkgPSBzZWxmLmdldF9wbGF5X2J5X3BsYXkoZ2FtZV9pZCkKCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgImdhbWVfaWQiOiBnYW1lX2lkLAogICAgICAgICAgICAibGFuZGluZyI6IGxhbmRpbmcsCiAgICAgICAgICAgICJib3hzY29yZSI6IGJveHNjb3JlLAogICAgICAgICAgICAicmlnaHRfcmFpbCI6IHJpZ2h0X3JhaWwsCiAgICAgICAgICAgICJwbGF5X2J5X3BsYXkiOiBwbGF5X2J5X3BsYXksCiAgICAgICAgfQoKICAgIGRlZiBmaW5kX2xhdGVzdF9jb21wbGV0ZWRfc2xhdGVfZGF0ZShzZWxmLCBtYXhfZGF5c19iYWNrOiBpbnQgPSAxMCkgLT4gc3RyOgogICAgICAgICIiIgogICAgICAgIFNjYW4gYmFja3dhcmRzIGZyb20gdG9kYXkgdG8gZmluZCB0aGUgbW9zdCByZWNlbnQgZGF0ZSB3aXRoIGNvbXBsZXRlZCBnYW1lcy4KICAgICAgICAiIiIKICAgICAgICB0b2RheSA9IGRhdGV0aW1lLm5vdygpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobWF4X2RheXNfYmFjayk6CiAgICAgICAgICAgIGNoZWNrX2RhdGUgPSAodG9kYXkgLSB0aW1lZGVsdGEoZGF5cz1pKSkuc3RyZnRpbWUoIiVZLSVtLSVkIikKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgZGF0YSA9IHNlbGYuZ2V0X3Njb3JlX3NsYXRlKGNoZWNrX2RhdGUpCiAgICAgICAgICAgICAgICBnYW1lcyA9IGRhdGEuZ2V0KCJnYW1lcyIsIFtdKQogICAgICAgICAgICAgICAgY29tcGxldGVkX2dhbWVzID0gWwogICAgICAgICAgICAgICAgICAgIGcgZm9yIGcgaW4gZ2FtZXMKICAgICAgICAgICAgICAgICAgICBpZiBnLmdldCgiZ2FtZVN0YXRlIikgaW4gKCJPRkYiLCAiRklOQUwiKQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgaWYgY29tcGxldGVkX2dhbWVzOgogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJGb3VuZCAlZCBjb21wbGV0ZWQgZ2FtZXMgb24gJXMiLCBsZW4oY29tcGxldGVkX2dhbWVzKSwgY2hlY2tfZGF0ZSkKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY2hlY2tfZGF0ZQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIkVycm9yIGNoZWNraW5nIGRhdGUgJXM6ICVzIiwgY2hlY2tfZGF0ZSwgZSkKCiAgICAgICAgIyBGYWxsYmFjayB0byBjdXJyZW50IGRhdGUKICAgICAgICByZXR1cm4gdG9kYXkuc3RyZnRpbWUoIiVZLSVtLSVkIikK
+"""
+client.py — Modern NHL API Client for the Scoreboard Agent Framework.
+
+Interfaces with the official NHL API (api-web.nhle.com/v1) to fetch schedule slates,
+game landings, box scores, team statistics, and player performance feeds.
+"""
+import json
+import logging
+import time
+import urllib.error
+import urllib.request
+from datetime import datetime, timedelta
+from typing import Any, Dict, List, Optional
+
+logger = logging.getLogger("ScoreboardAgent.Client")
+
+
+class NHLScoreboardClient:
+    """HTTP Client for querying NHL game-center and schedule endpoints."""
+
+    BASE_URL = "https://api-web.nhle.com/v1"
+    DEFAULT_HEADERS = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "application/json",
+    }
+
+    def __init__(self, timeout: int = 15, cache_ttl_seconds: int = 300):
+        self.timeout = timeout
+        self.cache_ttl = cache_ttl_seconds
+        self._cache: Dict[str, Dict[str, Any]] = {}
+
+    def _get(self, endpoint: str) -> Dict[str, Any]:
+        """Perform cached HTTP GET request with retries and exponential backoff."""
+        url = f"{self.BASE_URL}/{endpoint.lstrip('/')}"
+        now = time.time()
+
+        # Check in-memory cache
+        if url in self._cache:
+            entry = self._cache[url]
+            if now - entry["timestamp"] < self.cache_ttl:
+                return entry["data"]
+
+        last_error = None
+        for attempt in range(3):
+            try:
+                req = urllib.request.Request(url, headers=self.DEFAULT_HEADERS)
+                with urllib.request.urlopen(req, timeout=self.timeout) as response:
+                    content = response.read().decode("utf-8")
+                    data = json.loads(content)
+                    self._cache[url] = {"timestamp": now, "data": data}
+                    return data
+            except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as e:
+                last_error = e
+                wait_time = 0.5 * (2 ** attempt)
+                logger.warning("HTTP error fetching %s (attempt %d/3): %s. Retrying in %.1fs", url, attempt + 1, e, wait_time)
+                time.sleep(wait_time)
+
+        raise RuntimeError(f"Failed to fetch {url} after 3 attempts: {last_error}")
+
+    def get_score_slate(self, date_str: Optional[str] = None) -> Dict[str, Any]:
+        """
+        Fetch the scoreboard schedule for a given date (YYYY-MM-DD) or current date.
+        """
+        endpoint = f"score/{date_str}" if date_str else "score/now"
+        return self._get(endpoint)
+
+    def get_boxscore(self, game_id: int) -> Dict[str, Any]:
+        """Fetch the official game box score including player-level game stats."""
+        return self._get(f"gamecenter/{game_id}/boxscore")
+
+    def get_landing(self, game_id: int) -> Dict[str, Any]:
+        """Fetch game landing details, three stars, scoring plays, and period breakdowns."""
+        return self._get(f"gamecenter/{game_id}/landing")
+
+    def get_right_rail(self, game_id: int) -> Dict[str, Any]:
+        """Fetch supplementary team metrics (faceoffs, power play, hits, blocks, takeaways)."""
+        try:
+            return self._get(f"gamecenter/{game_id}/right-rail")
+        except Exception as e:
+            logger.debug("Right-rail unavailable for game %d: %s", game_id, e)
+            return {}
+
+    def get_play_by_play(self, game_id: int) -> Dict[str, Any]:
+        """Fetch play-by-play shot telemetry, coordinates, and event timeline."""
+        try:
+            return self._get(f"gamecenter/{game_id}/play-by-play")
+        except Exception as e:
+            logger.debug("Play-by-play unavailable for game %d: %s", game_id, e)
+            return {}
+
+    def get_game_bundle(self, game_id: int) -> Dict[str, Any]:
+        """
+        Aggregate boxscore, landing, right-rail, and play-by-play feeds into a consolidated game bundle.
+        """
+        landing = self.get_landing(game_id)
+        boxscore = self.get_boxscore(game_id)
+        right_rail = self.get_right_rail(game_id)
+        play_by_play = self.get_play_by_play(game_id)
+
+        return {
+            "game_id": game_id,
+            "landing": landing,
+            "boxscore": boxscore,
+            "right_rail": right_rail,
+            "play_by_play": play_by_play,
+        }
+
+    def find_latest_completed_slate_date(self, max_days_back: int = 10) -> str:
+        """
+        Scan backwards from today to find the most recent date with completed games.
+        """
+        today = datetime.now()
+        for i in range(max_days_back):
+            check_date = (today - timedelta(days=i)).strftime("%Y-%m-%d")
+            try:
+                data = self.get_score_slate(check_date)
+                games = data.get("games", [])
+                completed_games = [
+                    g for g in games
+                    if g.get("gameState") in ("OFF", "FINAL")
+                ]
+                if completed_games:
+                    logger.info("Found %d completed games on %s", len(completed_games), check_date)
+                    return check_date
+            except Exception as e:
+                logger.debug("Error checking date %s: %s", check_date, e)
+
+        # Fallback to current date
+        return today.strftime("%Y-%m-%d")

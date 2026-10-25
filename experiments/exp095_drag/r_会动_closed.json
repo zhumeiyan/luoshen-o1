@@ -1,1 +1,1 @@
-eyJzdGVwcyI6IDQ1LCAiZmlyc3RfZXJyIjogNjIwLjAsICJmaW5hbF9lcnIiOiAwLjUsICJoaXQiOiB0cnVlLCAidHJhaiI6IFs2MjAuMCwgNjIwLjAsIDYwNS41LCA1OTQuMCwgNTgxLjAsIDU3NC4wLCA1NTguNSwgNTM5LjBdLCAic2NlbmUiOiAi5Lya5YqoIiwgIuetlueVpSI6ICLkurrnsbvmtL4o6L6555yL6L655YqoKSJ9
+{"steps": 45, "first_err": 620.0, "final_err": 0.5, "hit": true, "traj": [620.0, 620.0, 605.5, 594.0, 581.0, 574.0, 558.5, 539.0], "scene": "会动", "策略": "人类派(边看边动)"}

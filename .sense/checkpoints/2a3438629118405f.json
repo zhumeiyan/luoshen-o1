@@ -1,1 +1,11 @@
-ewogInJ1bl9pZCI6ICIyYTM0Mzg2MjkxMTg0MDVmIiwKICJzZXEiOiAyLAogInRzIjogIjIwMjYtMTAtMjRUMDQ6MDQ6MjYiLAogInN0YXRlIjogewogICLov5vluqYiOiAxLAogICLlt7LlgZoiOiBbCiAgICLlu7ogcnVuX2lkIgogIF0KIH0KfQ==
+{
+ "run_id": "2a3438629118405f",
+ "seq": 2,
+ "ts": "2026-10-24T04:04:26",
+ "state": {
+  "进度": 1,
+  "已做": [
+   "建 run_id"
+  ]
+ }
+}

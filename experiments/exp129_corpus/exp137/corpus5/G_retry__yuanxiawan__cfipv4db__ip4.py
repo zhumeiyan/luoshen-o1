@@ -1,1 +1,215 @@
-aW1wb3J0IGNzdg0KaW1wb3J0IHJlcXVlc3RzDQpmcm9tIGJzNCBpbXBvcnQgQmVhdXRpZnVsU291cA0KZnJvbSBwbGF5d3JpZ2h0LnN5bmNfYXBpIGltcG9ydCBzeW5jX3BsYXl3cmlnaHQNCmltcG9ydCBiYXNlNjQNCmltcG9ydCBsb2dnaW5nDQppbXBvcnQgc3VicHJvY2Vzcw0KDQojIOmFjee9ruaXpeW/lw0KbG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLklORk8sIGZvcm1hdD0nJShhc2N0aW1lKXMgLSAlKGxldmVsbmFtZSlzIC0gJShtZXNzYWdlKXMnKQ0KDQpkZWYgZmV0Y2hfZGF0YV93aXRoX3JlcXVlc3RzKHVybCk6DQogICAgIiIi5L2/55SoIHJlcXVlc3RzIOaKk+WPlumdmeaAgee9kemhtSIiIg0KICAgIHRyeToNCiAgICAgICAgbG9nZ2luZy5pbmZvKGYi5q2j5Zyo5L2/55SoIHJlcXVlc3RzIOaKk+WPlu+8mnt1cmx9IikNCiAgICAgICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQodXJsKQ0KICAgICAgICByZXNwb25zZS5yYWlzZV9mb3Jfc3RhdHVzKCkNCiAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmNvbnRlbnQNCiAgICBleGNlcHQgcmVxdWVzdHMuUmVxdWVzdEV4Y2VwdGlvbiBhcyBlOg0KICAgICAgICBsb2dnaW5nLmVycm9yKGYi6K+35rGC6ZSZ6K+vOiB7ZX0iKQ0KICAgICAgICByZXR1cm4gTm9uZQ0KDQpkZWYgZmV0Y2hfZGF0YV93aXRoX3BsYXl3cmlnaHQodXJsKToNCiAgICAiIiLkvb/nlKggUGxheXdyaWdodCDmipPlj5bliqjmgIHliqDovb3mlbDmja7nmoTnvZHpobUiIiINCiAgICB0cnk6DQogICAgICAgIGxvZ2dpbmcuaW5mbyhmIuato+WcqOS9v+eUqCBQbGF5d3JpZ2h0IOaKk+WPlu+8mnt1cmx9IikNCiAgICAgICAgd2l0aCBzeW5jX3BsYXl3cmlnaHQoKSBhcyBwOg0KICAgICAgICAgICAgYnJvd3NlciA9IHAuY2hyb21pdW0ubGF1bmNoKGhlYWRsZXNzPVRydWUpDQogICAgICAgICAgICBwYWdlID0gYnJvd3Nlci5uZXdfcGFnZSgpDQogICAgICAgICAgICBwYWdlLmdvdG8odXJsKQ0KICAgICAgICAgICAgY29udGVudCA9IHBhZ2UuY29udGVudCgpDQogICAgICAgICAgICBicm93c2VyLmNsb3NlKCkNCiAgICAgICAgICAgIHJldHVybiBjb250ZW50DQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOg0KICAgICAgICBsb2dnaW5nLmVycm9yKGYiUGxheXdyaWdodCDmipPlj5bplJnor686IHtlfSIpDQogICAgICAgIHJldHVybiBOb25lDQoNCmRlZiBmZXRjaF9hbmRfd3JpdGVfY3N2KHVybCwgY3N2X2ZpbGVuYW1lLCB1c2VfcGxheXdyaWdodCwgZGl2X2NsYXNzLCB0YWJsZV9pZCk6DQogICAgIiIi5qC55o2u6YCJ5oup55qE5pa55byP5oqT5Y+W5pWw5o2u5bm25YaZ5YWlQ1NW5paH5Lu2IiIiDQogICAgdHJ5Og0KICAgICAgICBjb250ZW50ID0gTm9uZQ0KICAgICAgICBpZiB1c2VfcGxheXdyaWdodDoNCiAgICAgICAgICAgIGNvbnRlbnQgPSBmZXRjaF9kYXRhX3dpdGhfcGxheXdyaWdodCh1cmwpDQogICAgICAgIGVsc2U6DQogICAgICAgICAgICBjb250ZW50ID0gZmV0Y2hfZGF0YV93aXRoX3JlcXVlc3RzKHVybCkNCg0KICAgICAgICBpZiBub3QgY29udGVudDoNCiAgICAgICAgICAgIGxvZ2dpbmcuZXJyb3IoZiLmipPlj5Yge3VybH0g5aSx6LSl77yBIikNCiAgICAgICAgICAgIHJldHVybg0KDQogICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGNvbnRlbnQsICdodG1sLnBhcnNlcicpDQoNCiAgICAgICAgIyDmib7liLAgY2xhc3Mg5Li6ICJjbmFtZS10YWJsZS13cmFwcGVyIiDnmoQgZGl2IOWFg+e0oA0KICAgICAgICB0YXJnZXRfZGl2ID0gc291cC5maW5kKCdkaXYnLCBjbGFzc189ZGl2X2NsYXNzKQ0KICAgICAgICBpZiB0YXJnZXRfZGl2IGlzIE5vbmU6DQogICAgICAgICAgICBsb2dnaW5nLmVycm9yKGYi5pyq5om+5YiwIGNsYXNzIOS4uiAne2Rpdl9jbGFzc30nIOeahCBESVYg5YWD57Sg77yBIikNCiAgICAgICAgICAgIHJldHVybg0KDQogICAgICAgICMg5Zyo55uu5qCHIGRpdiDlhoXpg6jmn6Xmib7ooajmoLwNCiAgICAgICAgdGFibGUgPSB0YXJnZXRfZGl2LmZpbmQoJ3RhYmxlJykNCiAgICAgICAgaWYgdGFibGUgaXMgTm9uZToNCiAgICAgICAgICAgIGxvZ2dpbmcuZXJyb3IoIuWcqOebruaghyBESVYg5Lit5pyq5om+5Yiw5pWw5o2u6KGo77yBIikNCiAgICAgICAgICAgIHJldHVybg0KDQogICAgICAgICMg5om+5YiwIDx0Ym9keT7vvIznhLblkI7nm7TmjqXojrflj5YgPHRyPiDlhYPntKANCiAgICAgICAgdGJvZHkgPSB0YWJsZS5maW5kKCd0Ym9keScpDQogICAgICAgIGlmIHRib2R5IGlzIE5vbmU6DQogICAgICAgICAgICBsb2dnaW5nLmVycm9yKCLmnKrmib7liLAgPHRib2R5PiDlhYPntKDvvIEiKQ0KICAgICAgICAgICAgcmV0dXJuDQoNCiAgICAgICAgIyDmj5Dlj5booajlpLQNCiAgICAgICAgaGVhZGVycyA9IFtdDQogICAgICAgIGhlYWRlcl9yb3cgPSB0YWJsZS5maW5kKCd0aGVhZCcpDQogICAgICAgIGlmIGhlYWRlcl9yb3c6DQogICAgICAgICAgICBoZWFkZXJzID0gW3RoLnRleHQuc3RyaXAoKSBmb3IgdGggaW4gaGVhZGVyX3Jvdy5maW5kX2FsbCgndGgnKV0NCg0KICAgICAgICAjIOaPkOWPluaVsOaNruihjA0KICAgICAgICByb3dzID0gW10NCiAgICAgICAgZm9yIHRyIGluIHRib2R5LmZpbmRfYWxsKCd0cicpOg0KICAgICAgICAgICAgY29scyA9IHRyLmZpbmRfYWxsKCd0ZCcpDQogICAgICAgICAgICBpZiBjb2xzOiAgIyDku4XlpITnkIbljIXlkKsgPHRkPiDnmoTooYwNCiAgICAgICAgICAgICAgICByb3cgPSBbY29sLnRleHQuc3RyaXAoKSBmb3IgY29sIGluIGNvbHNdDQogICAgICAgICAgICAgICAgcm93cy5hcHBlbmQocm93KQ0KDQogICAgICAgICMg5bCG5pWw5o2u5YaZ5YWlIENTViDmlofku7YNCiAgICAgICAgd2l0aCBvcGVuKGNzdl9maWxlbmFtZSwgJ3cnLCBuZXdsaW5lPScnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBjc3ZmaWxlOg0KICAgICAgICAgICAgd3JpdGVyID0gY3N2LndyaXRlcihjc3ZmaWxlKQ0KICAgICAgICAgICAgaWYgaGVhZGVyczoNCiAgICAgICAgICAgICAgICB3cml0ZXIud3JpdGVyb3coaGVhZGVycykgICMg5YaZ5YWl6KGo5aS0DQogICAgICAgICAgICB3cml0ZXIud3JpdGVyb3dzKHJvd3MpICAjIOWGmeWFpeaVsOaNruihjA0KDQogICAgICAgIGxvZ2dpbmcuaW5mbyhmIkNTVuaWh+S7tuW3suaIkOWKn+eUn+aIkOS4uu+8mntjc3ZfZmlsZW5hbWV9IikNCg0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToNCiAgICAgICAgbG9nZ2luZy5lcnJvcihmIuaKk+WPluaIluWGmeWFpSBDU1Yg5paH5Lu25pe25Y+R55Sf6ZSZ6K+vOiB7ZX0iKQ0KDQpkZWYgZmV0Y2hfYW5kX3dyaXRlX3R4dCh1cmwsIHR4dF9maWxlbmFtZSwgdXNlX3BsYXl3cmlnaHQsIGRpdl9jbGFzcywgdGFibGVfaWQpOg0KICAgICIiIuagueaNrumAieaLqeeahOaWueW8j+aKk+WPluaVsOaNruW5tuWGmeWFpVRYVOaWh+S7tu+8jOWMheWQq+iHquWKqOe8luWPtyIiIg0KICAgIHRyeToNCiAgICAgICAgY29udGVudCA9IE5vbmUNCiAgICAgICAgaWYgdXNlX3BsYXl3cmlnaHQ6DQogICAgICAgICAgICBjb250ZW50ID0gZmV0Y2hfZGF0YV93aXRoX3BsYXl3cmlnaHQodXJsKQ0KICAgICAgICBlbHNlOg0KICAgICAgICAgICAgY29udGVudCA9IGZldGNoX2RhdGFfd2l0aF9yZXF1ZXN0cyh1cmwpDQoNCiAgICAgICAgaWYgbm90IGNvbnRlbnQ6DQogICAgICAgICAgICBsb2dnaW5nLmVycm9yKGYi5oqT5Y+WIHt1cmx9IOWksei0pe+8gSIpDQogICAgICAgICAgICByZXR1cm4NCg0KICAgICAgICBzb3VwID0gQmVhdXRpZnVsU291cChjb250ZW50LCAnaHRtbC5wYXJzZXInKQ0KDQogICAgICAgICMg5om+5YiwIGNsYXNzIOS4uiAiY25hbWUtdGFibGUtd3JhcHBlciIg55qEIGRpdiDlhYPntKANCiAgICAgICAgdGFyZ2V0X2RpdiA9IHNvdXAuZmluZCgnZGl2JywgY2xhc3NfPWRpdl9jbGFzcykNCiAgICAgICAgaWYgdGFyZ2V0X2RpdiBpcyBOb25lOg0KICAgICAgICAgICAgbG9nZ2luZy5lcnJvcihmIuacquaJvuWIsCBjbGFzcyDkuLogJ3tkaXZfY2xhc3N9JyDnmoQgRElWIOWFg+e0oO+8gSIpDQogICAgICAgICAgICByZXR1cm4NCg0KICAgICAgICAjIOWcqOebruaghyBkaXYg5YaF6YOo5p+l5om+6KGo5qC8DQogICAgICAgIHRhYmxlID0gdGFyZ2V0X2Rpdi5maW5kKCd0YWJsZScpDQogICAgICAgIGlmIHRhYmxlIGlzIE5vbmU6DQogICAgICAgICAgICBsb2dnaW5nLmVycm9yKCLlnKjnm67moIcgRElWIOS4reacquaJvuWIsOaVsOaNruihqO+8gSIpDQogICAgICAgICAgICByZXR1cm4NCg0KICAgICAgICAjIOaJvuWIsCA8dGJvZHk+77yM54S25ZCO55u05o6l6I635Y+WIDx0cj4g5YWD57SgDQogICAgICAgIHRib2R5ID0gdGFibGUuZmluZCgndGJvZHknKQ0KICAgICAgICBpZiB0Ym9keSBpcyBOb25lOg0KICAgICAgICAgICAgbG9nZ2luZy5lcnJvcigi5pyq5om+5YiwIDx0Ym9keT4g5YWD57Sg77yBIikNCiAgICAgICAgICAgIHJldHVybg0KDQogICAgICAgICMg5YeG5aSH5YaZ5YWlIFRYVCDmlbDmja7nmoTliJfooagNCiAgICAgICAgdHh0X2RhdGEgPSBbIjEyNy4wLjAuMToxMjM0I2NuYXQiXSAgIyDmt7vliqDliLDliJfooajlvIDlpLQNCg0KICAgICAgICAjIOeUqOS6juWtmOWCqOW3sue7j+WHuueOsOi/h+eahOWQjeensOeahOWtl+WFuA0KICAgICAgICBuYW1lX2NvdW50cyA9IHt9DQoNCiAgICAgICAgIyDpgY3ljobmr4/kuKogPHRyPu+8jOeEtuWQjuiOt+WPluavj+ihjOS4reeahCA8dGQ+DQogICAgICAgIGZvciB0ciBpbiB0Ym9keS5maW5kX2FsbCgndHInKToNCiAgICAgICAgICAgIGNvbHMgPSB0ci5maW5kX2FsbCgndGQnKQ0KICAgICAgICAgICAgaWYgY29sczogICMg5LuF5aSE55CG5YyF5ZCrIDx0ZD4g55qE6KGMDQogICAgICAgICAgICAgICAgcm93X2RhdGEgPSBbY29sLnRleHQuc3RyaXAoKSBmb3IgY29sIGluIGNvbHNdDQogICAgICAgICAgICAgICAgIyBUWFQg5qC85byP5YyWDQogICAgICAgICAgICAgICAgaWYgbGVuKHJvd19kYXRhKSA+PSA2Og0KICAgICAgICAgICAgICAgICAgICBzZWNvbmRfY29sdW1uID0gcm93X2RhdGFbMV0gICMg56ys5LqM5YiXDQogICAgICAgICAgICAgICAgICAgIHNpeHRoX2NvbHVtbiA9IHJvd19kYXRhWzVdICAjIOesrOWFreWIlw0KICAgICAgICAgICAgICAgICAgICBsaW5lX2NvbnRlbnQgPSBmIntzZWNvbmRfY29sdW1ufSN7c2l4dGhfY29sdW1ufSINCiAgICAgICAgICAgICAgICAgICAgIyDot7Pov4fljIXlkKsgIuS8mOmAieWcsOWdgCPmlbDmja7kuK3lv4MxIiDnmoTooYwNCiAgICAgICAgICAgICAgICAgICAgaWYgbGluZV9jb250ZW50ICE9ICLkvJjpgInlnLDlnYAj5pWw5o2u5Lit5b+DMSI6DQogICAgICAgICAgICAgICAgICAgICAgICAjIOajgOafpeWQjeensOaYr+WQpuW3sue7j+WtmOWcqA0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgc2l4dGhfY29sdW1uIGluIG5hbWVfY291bnRzOg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWVfY291bnRzW3NpeHRoX2NvbHVtbl0gKz0gMQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVfY29udGVudCA9IGYie3NlY29uZF9jb2x1bW59I3tzaXh0aF9jb2x1bW59e25hbWVfY291bnRzW3NpeHRoX2NvbHVtbl19IiAgIyDnm7TmjqXmt7vliqDmlbDlrZcNCiAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZV9jb3VudHNbc2l4dGhfY29sdW1uXSA9IDAgICMg5Yid5aeL5YyW6K6h5pWw5ZmoDQoNCiAgICAgICAgICAgICAgICAgICAgICAgIHR4dF9kYXRhLmFwcGVuZChsaW5lX2NvbnRlbnQpDQoNCiAgICAgICAgIyDlsIbmlbDmja7lhpnlhaUgVFhUIOaWh+S7tg0KICAgICAgICB3aXRoIG9wZW4odHh0X2ZpbGVuYW1lLCAndycsIGVuY29kaW5nPSd1dGYtOCcpIGFzIG91dGZpbGU6DQogICAgICAgICAgICBmb3IgbGluZSBpbiB0eHRfZGF0YToNCiAgICAgICAgICAgICAgICBvdXRmaWxlLndyaXRlKGxpbmUgKyAiXG4iKQ0KDQogICAgICAgIGxvZ2dpbmcuaW5mbyhmIlRYVOaWh+S7tuW3suaIkOWKn+eUn+aIkOS4uu+8mnt0eHRfZmlsZW5hbWV9IikNCg0KICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToNCiAgICAgICAgbG9nZ2luZy5lcnJvcihmIuaKk+WPluaIluWGmeWFpSBUWFQg5paH5Lu25pe25Y+R55Sf6ZSZ6K+vOiB7ZX0iKQ0KDQoNCmRlZiBnaXRfYWRkX2FuZF9jb21taXQoY3N2X2ZpbGVuYW1lLCB0eHRfZmlsZW5hbWUpOg0KICAgICIiIuWwhueUn+aIkOeahOaWh+S7tua3u+WKoOWIsCBHaXQg5bm25o+Q5LqkIiIiDQogICAgdHJ5Og0KICAgICAgICAjIOa3u+WKoOaWh+S7tuWIsCBHaXQNCiAgICAgICAgc3VicHJvY2Vzcy5ydW4oWyJnaXQiLCAiYWRkIiwgY3N2X2ZpbGVuYW1lLCB0eHRfZmlsZW5hbWVdLCBjaGVjaz1UcnVlKQ0KICAgICAgICBsb2dnaW5nLmluZm8oZiLlt7LlsIYge2Nzdl9maWxlbmFtZX0g5ZKMIHt0eHRfZmlsZW5hbWV9IOa3u+WKoOWIsCBHaXQiKQ0KDQogICAgICAgICMg5o+Q5Lqk5pu05pS5DQogICAgICAgIGNvbW1pdF9tZXNzYWdlID0gIkF1dG8tdXBkYXRlIENTViBhbmQgVFhUIGZpbGVzIg0KICAgICAgICByZXN1bHQgPSBzdWJwcm9jZXNzLnJ1bihbImdpdCIsICJjb21taXQiLCAiLW0iLCBjb21taXRfbWVzc2FnZV0sIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkNCiAgICAgICAgaWYgIm5vdGhpbmcgdG8gY29tbWl0IiBpbiByZXN1bHQuc3Rkb3V0Og0KICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCLmsqHmnInmm7TmlLnpnIDopoHmj5DkuqQiKQ0KICAgICAgICBlbHNlOg0KICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGYi5bey5o+Q5Lqk5pu05pS577yae2NvbW1pdF9tZXNzYWdlfSIpDQoNCiAgICAgICAgIyDmjqjpgIHliLDov5znqIvku5PlupMNCiAgICAgICAgc3VicHJvY2Vzcy5ydW4oWyJnaXQiLCAicHVzaCJdLCBjaGVjaz1UcnVlKQ0KICAgICAgICBsb2dnaW5nLmluZm8oIuW3suaOqOmAgeWIsOi/nOeoi+S7k+W6kyIpDQogICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yIGFzIGU6DQogICAgICAgIGxvZ2dpbmcuZXJyb3IoZiJHaXQg5pON5L2c5aSx6LSlOiB7ZX0iKQ0KDQoNCiMg57yW56CB55qEIFVSTCDliJfooagNCmVuY29kZWRfdXJscyA9IFsNCiAgICAiYUhSMGNITTZMeTkzZDNjdWQyVjBaWE4wTG5acGNDOXdZV2RsTDJOc2IzVmtabXhoY21VdllXUmtjbVZ6YzE5Mk5DNW9kRzFzIg0KXQ0KDQojIOino+eggSBVUkwNCmRlY29kZWRfdXJscyA9IFtiYXNlNjQuYjY0ZGVjb2RlKHVybCkuZGVjb2RlKCd1dGYtOCcpIGZvciB1cmwgaW4gZW5jb2RlZF91cmxzXQ0KDQojIOaJi+WKqOaMh+Wumuavj+S4qlVSTOaYr+WQpuS9v+eUqFBsYXl3cmlnaHTlkoznm67moIfooajmoLznmoRjbGFzcw0KdXNlX3BsYXl3cmlnaHQgPSBbVHJ1ZV0gICMg5aaC5p6c6ZyA6KaB5L2/55SoIFBsYXl3cmlnaHQg5oqT5Y+WDQpkaXZfY2xhc3MgPSAnY25hbWUtdGFibGUtd3JhcHBlcicgICMg55uu5qCHIGRpdiDnmoQgY2xhc3MNCnRhYmxlX2lkID0gTm9uZSAgIyDmiJHku6znm7TmjqXlnKjmib7liLDnmoQgZGl2IOWGheafpeaJvuihqOagvO+8jOS4jeWGjeS+nei1liBpZA0KDQojIOaJp+ihjOaVsOaNruaKk+WPluWSjOWkhOeQhg0KbG9nZ2luZy5pbmZvKCLlvIDlp4vmiafooYwuLi4iKQ0KDQojIOWbuuWumuaWh+S7tuWQjQ0KY3N2X2ZpbGVuYW1lID0gJ2NmaXAuY3N2Jw0KdHh0X2ZpbGVuYW1lID0gJ2NmaXAudHh0Jw0KDQpmb3IgaSwgKHVybCwgdXNlX3B3KSBpbiBlbnVtZXJhdGUoemlwKGRlY29kZWRfdXJscywgdXNlX3BsYXl3cmlnaHQpKToNCiAgICBmZXRjaF9hbmRfd3JpdGVfY3N2KHVybCwgY3N2X2ZpbGVuYW1lLCB1c2VfcHcsIGRpdl9jbGFzcywgdGFibGVfaWQpDQogICAgZmV0Y2hfYW5kX3dyaXRlX3R4dCh1cmwsIHR4dF9maWxlbmFtZSwgdXNlX3B3LCBkaXZfY2xhc3MsIHRhYmxlX2lkKQ0KICAgIGdpdF9hZGRfYW5kX2NvbW1pdChjc3ZfZmlsZW5hbWUsIHR4dF9maWxlbmFtZSkNCg0KbG9nZ2luZy5pbmZvKCLku7vliqHlt7LlrozmiJDjgIIiKQ0K
+import csv
+import requests
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
+import base64
+import logging
+import subprocess
+
+# 配置日志
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+def fetch_data_with_requests(url):
+    """使用 requests 抓取静态网页"""
+    try:
+        logging.info(f"正在使用 requests 抓取：{url}")
+        response = requests.get(url)
+        response.raise_for_status()
+        return response.content
+    except requests.RequestException as e:
+        logging.error(f"请求错误: {e}")
+        return None
+
+def fetch_data_with_playwright(url):
+    """使用 Playwright 抓取动态加载数据的网页"""
+    try:
+        logging.info(f"正在使用 Playwright 抓取：{url}")
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            page.goto(url)
+            content = page.content()
+            browser.close()
+            return content
+    except Exception as e:
+        logging.error(f"Playwright 抓取错误: {e}")
+        return None
+
+def fetch_and_write_csv(url, csv_filename, use_playwright, div_class, table_id):
+    """根据选择的方式抓取数据并写入CSV文件"""
+    try:
+        content = None
+        if use_playwright:
+            content = fetch_data_with_playwright(url)
+        else:
+            content = fetch_data_with_requests(url)
+
+        if not content:
+            logging.error(f"抓取 {url} 失败！")
+            return
+
+        soup = BeautifulSoup(content, 'html.parser')
+
+        # 找到 class 为 "cname-table-wrapper" 的 div 元素
+        target_div = soup.find('div', class_=div_class)
+        if target_div is None:
+            logging.error(f"未找到 class 为 '{div_class}' 的 DIV 元素！")
+            return
+
+        # 在目标 div 内部查找表格
+        table = target_div.find('table')
+        if table is None:
+            logging.error("在目标 DIV 中未找到数据表！")
+            return
+
+        # 找到 <tbody>，然后直接获取 <tr> 元素
+        tbody = table.find('tbody')
+        if tbody is None:
+            logging.error("未找到 <tbody> 元素！")
+            return
+
+        # 提取表头
+        headers = []
+        header_row = table.find('thead')
+        if header_row:
+            headers = [th.text.strip() for th in header_row.find_all('th')]
+
+        # 提取数据行
+        rows = []
+        for tr in tbody.find_all('tr'):
+            cols = tr.find_all('td')
+            if cols:  # 仅处理包含 <td> 的行
+                row = [col.text.strip() for col in cols]
+                rows.append(row)
+
+        # 将数据写入 CSV 文件
+        with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            if headers:
+                writer.writerow(headers)  # 写入表头
+            writer.writerows(rows)  # 写入数据行
+
+        logging.info(f"CSV文件已成功生成为：{csv_filename}")
+
+    except Exception as e:
+        logging.error(f"抓取或写入 CSV 文件时发生错误: {e}")
+
+def fetch_and_write_txt(url, txt_filename, use_playwright, div_class, table_id):
+    """根据选择的方式抓取数据并写入TXT文件，包含自动编号"""
+    try:
+        content = None
+        if use_playwright:
+            content = fetch_data_with_playwright(url)
+        else:
+            content = fetch_data_with_requests(url)
+
+        if not content:
+            logging.error(f"抓取 {url} 失败！")
+            return
+
+        soup = BeautifulSoup(content, 'html.parser')
+
+        # 找到 class 为 "cname-table-wrapper" 的 div 元素
+        target_div = soup.find('div', class_=div_class)
+        if target_div is None:
+            logging.error(f"未找到 class 为 '{div_class}' 的 DIV 元素！")
+            return
+
+        # 在目标 div 内部查找表格
+        table = target_div.find('table')
+        if table is None:
+            logging.error("在目标 DIV 中未找到数据表！")
+            return
+
+        # 找到 <tbody>，然后直接获取 <tr> 元素
+        tbody = table.find('tbody')
+        if tbody is None:
+            logging.error("未找到 <tbody> 元素！")
+            return
+
+        # 准备写入 TXT 数据的列表
+        txt_data = ["127.0.0.1:1234#cnat"]  # 添加到列表开头
+
+        # 用于存储已经出现过的名称的字典
+        name_counts = {}
+
+        # 遍历每个 <tr>，然后获取每行中的 <td>
+        for tr in tbody.find_all('tr'):
+            cols = tr.find_all('td')
+            if cols:  # 仅处理包含 <td> 的行
+                row_data = [col.text.strip() for col in cols]
+                # TXT 格式化
+                if len(row_data) >= 6:
+                    second_column = row_data[1]  # 第二列
+                    sixth_column = row_data[5]  # 第六列
+                    line_content = f"{second_column}#{sixth_column}"
+                    # 跳过包含 "优选地址#数据中心1" 的行
+                    if line_content != "优选地址#数据中心1":
+                        # 检查名称是否已经存在
+                        if sixth_column in name_counts:
+                            name_counts[sixth_column] += 1
+                            line_content = f"{second_column}#{sixth_column}{name_counts[sixth_column]}"  # 直接添加数字
+                        else:
+                            name_counts[sixth_column] = 0  # 初始化计数器
+
+                        txt_data.append(line_content)
+
+        # 将数据写入 TXT 文件
+        with open(txt_filename, 'w', encoding='utf-8') as outfile:
+            for line in txt_data:
+                outfile.write(line + "\n")
+
+        logging.info(f"TXT文件已成功生成为：{txt_filename}")
+
+    except Exception as e:
+        logging.error(f"抓取或写入 TXT 文件时发生错误: {e}")
+
+
+def git_add_and_commit(csv_filename, txt_filename):
+    """将生成的文件添加到 Git 并提交"""
+    try:
+        # 添加文件到 Git
+        subprocess.run(["git", "add", csv_filename, txt_filename], check=True)
+        logging.info(f"已将 {csv_filename} 和 {txt_filename} 添加到 Git")
+
+        # 提交更改
+        commit_message = "Auto-update CSV and TXT files"
+        result = subprocess.run(["git", "commit", "-m", commit_message], capture_output=True, text=True)
+        if "nothing to commit" in result.stdout:
+            logging.info("没有更改需要提交")
+        else:
+            logging.info(f"已提交更改：{commit_message}")
+
+        # 推送到远程仓库
+        subprocess.run(["git", "push"], check=True)
+        logging.info("已推送到远程仓库")
+    except subprocess.CalledProcessError as e:
+        logging.error(f"Git 操作失败: {e}")
+
+
+# 编码的 URL 列表
+encoded_urls = [
+    "aHR0cHM6Ly93d3cud2V0ZXN0LnZpcC9wYWdlL2Nsb3VkZmxhcmUvYWRkcmVzc192NC5odG1s"
+]
+
+# 解码 URL
+decoded_urls = [base64.b64decode(url).decode('utf-8') for url in encoded_urls]
+
+# 手动指定每个URL是否使用Playwright和目标表格的class
+use_playwright = [True]  # 如果需要使用 Playwright 抓取
+div_class = 'cname-table-wrapper'  # 目标 div 的 class
+table_id = None  # 我们直接在找到的 div 内查找表格，不再依赖 id
+
+# 执行数据抓取和处理
+logging.info("开始执行...")
+
+# 固定文件名
+csv_filename = 'cfip.csv'
+txt_filename = 'cfip.txt'
+
+for i, (url, use_pw) in enumerate(zip(decoded_urls, use_playwright)):
+    fetch_and_write_csv(url, csv_filename, use_pw, div_class, table_id)
+    fetch_and_write_txt(url, txt_filename, use_pw, div_class, table_id)
+    git_add_and_commit(csv_filename, txt_filename)
+
+logging.info("任务已完成。")

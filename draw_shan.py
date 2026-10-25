@@ -1,1 +1,11 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5bem6L655LiA5qC557uG57q/PeeUuygwLjgxbXMp77yM5Y+z6L655LiA5aSn5Z2oPeeQhuinoygyMTRtcynjgILlhoXlrrnkuIDmoLfjgIIiIiIKaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYi5wYXRjaGVzIGltcG9ydCBSZWN0YW5nbGUKQkc9IiMwYjBiMGMiOyBPUj0iI0ZGNkIxQSIKZmlnLGF4PXBsdC5zdWJwbG90cyhmaWdzaXplPSg5LjYsNC4yKSxmYWNlY29sb3I9QkcpOyBheC5zZXRfZmFjZWNvbG9yKEJHKQpheC5zZXRfeGxpbSgwLDEwKTsgYXguc2V0X3lsaW0oMCw0LjIpOyBheC5heGlzKCJvZmYiKQpheC5hZGRfcGF0Y2goUmVjdGFuZ2xlKCgxLjEsMS44NSksIDAuMTYsIDAuNTUsIGZjPU9SLCBlYz0ibm9uZSIpKSAgICMg55S777ya5LiA5q2lCmF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKDUuMiwwLjk1KSwgMy41LCAyLjI1LCBmYz1PUiwgZWM9Im5vbmUiKSkgICAgIyDnkIbop6PvvJrkuIDlpKflnagKcGx0LnRpZ2h0X2xheW91dCgpOyBwbHQuc2F2ZWZpZygi5oSf5a6Y5qGlL+espuWPt192NDdf5bGx5bCx5piv5bGxLnBuZyIsZHBpPTExMCxmYWNlY29sb3I9QkcpOyBwcmludCgib2siKQo=
+# -*- coding: utf-8 -*-
+"""左边一根细线=画(0.81ms)，右边一大坨=理解(214ms)。内容一样。"""
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+BG="#0b0b0c"; OR="#FF6B1A"
+fig,ax=plt.subplots(figsize=(9.6,4.2),facecolor=BG); ax.set_facecolor(BG)
+ax.set_xlim(0,10); ax.set_ylim(0,4.2); ax.axis("off")
+ax.add_patch(Rectangle((1.1,1.85), 0.16, 0.55, fc=OR, ec="none"))   # 画：一步
+ax.add_patch(Rectangle((5.2,0.95), 3.5, 2.25, fc=OR, ec="none"))    # 理解：一大坨
+plt.tight_layout(); plt.savefig("感官桥/符号_v47_山就是山.png",dpi=110,facecolor=BG); print("ok")

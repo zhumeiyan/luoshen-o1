@@ -1,1 +1,255 @@
-IiIiClRoaXMgZmlsZSBkZWZpbmVzIHRoZSBiYXNlIGNsYXNzIGZvciBldmFscy4KIiIiCmltcG9ydCBhYmMKaW1wb3J0IGFzeW5jaW8KaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IG9zCmltcG9ydCByYW5kb20KZnJvbSBtdWx0aXByb2Nlc3NpbmcucG9vbCBpbXBvcnQgVGhyZWFkUG9vbApmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgQXdhaXRhYmxlLCBDYWxsYWJsZSwgRGljdCwgTGlzdCwgT3B0aW9uYWwsIFR1cGxlLCBVbmlvbgoKZnJvbSB0cWRtIGltcG9ydCB0cWRtCgpmcm9tIGV2YWxzLmFwaSBpbXBvcnQgQ29tcGxldGlvbkZuCgpmcm9tIC5kYXRhIGltcG9ydCBnZXRfanNvbmwKZnJvbSAucmVjb3JkIGltcG9ydCBSZWNvcmRlckJhc2UKZnJvbSAucmVnaXN0cnkgaW1wb3J0IFJlZ2lzdHJ5CmZyb20gLnNvbHZlcnMuc29sdmVyIGltcG9ydCBTb2x2ZXIKZnJvbSAuc29sdmVycy51dGlscyBpbXBvcnQgbWF5YmVfd3JhcF93aXRoX2NvbXBsX2ZuLCBtYXliZV93cmFwX3dpdGhfc29sdmVyCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCgpTSFVGRkxFX1NFRUQgPSAxMjMKX01BWF9TQU1QTEVTID0gTm9uZQoKCmRlZiBfaW5kZXhfc2FtcGxlcyhzYW1wbGVzOiBMaXN0W0FueV0pIC0+IExpc3RbVHVwbGVbQW55LCBpbnRdXToKICAgICIiIlNodWZmbGUgYHNhbXBsZXNgIGFuZCBwYWlyIGVhY2ggc2FtcGxlIHdpdGggaXRzIGluZGV4LiIiIgogICAgaW5kaWNlcyA9IGxpc3QocmFuZ2UobGVuKHNhbXBsZXMpKSkKICAgIHJhbmRvbS5SYW5kb20oU0hVRkZMRV9TRUVEKS5zaHVmZmxlKGluZGljZXMpCiAgICBpZiBfTUFYX1NBTVBMRVMgaXMgbm90IE5vbmU6CiAgICAgICAgaW5kaWNlcyA9IGluZGljZXNbOl9NQVhfU0FNUExFU10KICAgIGxvZ2dlci5pbmZvKGYiRXZhbHVhdGluZyB7bGVuKGluZGljZXMpfSBzYW1wbGVzIikKICAgIHdvcmtfaXRlbXMgPSBbKHNhbXBsZXNbaV0sIGkpIGZvciBpIGluIGluZGljZXNdCiAgICByZXR1cm4gd29ya19pdGVtcwoKCmRlZiBzZXRfbWF4X3NhbXBsZXMobWF4X3NhbXBsZXM6IGludCk6CiAgICBnbG9iYWwgX01BWF9TQU1QTEVTCiAgICBfTUFYX1NBTVBMRVMgPSBtYXhfc2FtcGxlcwoKCmNsYXNzIEV2YWwoYWJjLkFCQyk6CiAgICAiIiIKICAgIEV2YWx1YXRpb24gY2xhc3NlcyBnZW5lcmFsbHkgc2hvdWxkIG92ZXJyaWRlIHR3byBtZXRob2RzOgogICAgYGV2YWxfc2FtcGxlYDogVGFrZXMgaW4gYSB0ZXN0IHNhbXBsZSBhbmQgYSByYW5kb20gbnVtYmVyIGdlbmVyYXRvciBhbmQKICAgICAgICByZWNvcmRzIHRoZSBtZXRyaWNzIG9mIGludGVyZXN0LgogICAgYHJ1bmA6IFRha2VzIGluIGEgcmVjb3JkZXIgYW5kIHJ1bnMgdGhlIGV2YWx1YXRpb24uIEdlbmVyYWxseSwgbW9zdCBgcnVuYAogICAgICAgIG1ldGhvZHMgd2lsbCBmb2xsb3cgdGhpcyBzYW1lIHBhdHRlcm46IGxvYWRpbmcgdGhlIGRhdGEsIGNhbGxpbmcKICAgICAgICBgZXZhbF9hbGxfc2FtcGxlc2AsIGFuZCBhZ2dyZWdhdGluZyB0aGUgcmVjb3JkZWQgcmVzdWx0cy4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIGNvbXBsZXRpb25fZm5zOiBsaXN0W1VuaW9uW0NvbXBsZXRpb25GbiwgU29sdmVyXV0sCiAgICAgICAgZXZhbF9yZWdpc3RyeV9wYXRoOiBQYXRoLAogICAgICAgIHNlZWQ6IGludCA9IDIwMjIwNzIyLAogICAgICAgIG5hbWU6IHN0ciA9ICJub19uYW1lX2V2YWwuZGVmYXVsdCIsCiAgICAgICAgcmVnaXN0cnk6IE9wdGlvbmFsW1JlZ2lzdHJ5XSA9IE5vbmUsCiAgICAgICAgc2FtcGxlc19qc29ubDogT3B0aW9uYWxbc3RyXSA9IE5vbmUsCiAgICApOgogICAgICAgIHNwbGl0cyA9IG5hbWUuc3BsaXQoIi4iKQogICAgICAgIGlmIGxlbihzcGxpdHMpIDwgMjoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIkV2YWwgbmFtZSBtdXN0IGF0IGxlYXN0IGhhdmUgPGJhc2VfZXZhbD4uPHNwbGl0Pi4gR290IG5hbWUge25hbWV9IikKCiAgICAgICAgc2VsZi5jb21wbGV0aW9uX2ZucyA9IFttYXliZV93cmFwX3dpdGhfY29tcGxfZm4oZm4pIGZvciBmbiBpbiBjb21wbGV0aW9uX2Zuc10KICAgICAgICBzZWxmLmV2YWxfcmVnaXN0cnlfcGF0aCA9IGV2YWxfcmVnaXN0cnlfcGF0aAogICAgICAgIHNlbGYuc2VlZCA9IHNlZWQKICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCiAgICAgICAgc2VsZi5yZWdpc3RyeSA9IHJlZ2lzdHJ5IG9yIFJlZ2lzdHJ5KCkKICAgICAgICBzZWxmLnNhbXBsZXNfanNvbmwgPSBzYW1wbGVzX2pzb25sCgogICAgQGFiYy5hYnN0cmFjdG1ldGhvZAogICAgZGVmIGV2YWxfc2FtcGxlKHNlbGYsIHNhbXBsZTogQW55LCBybmc6IHJhbmRvbS5SYW5kb20pOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGNvbXBsZXRpb25fZm4oc2VsZikgLT4gQ29tcGxldGlvbkZuOgogICAgICAgICIiIkhlbHBlciBmb3IgbW9yZSBlcmdvbm9taWMgYWNjZXNzIHRvIGEgc2luZ2xlIENvbXBsZXRpb25Gbi4iIiIKICAgICAgICByZXR1cm4gc2VsZi5jb21wbGV0aW9uX2Zuc1swXQoKICAgIEBhYmMuYWJzdHJhY3RtZXRob2QKICAgIGRlZiBydW4oc2VsZiwgcmVjb3JkZXI6IFJlY29yZGVyQmFzZSkgLT4gRGljdFtzdHIsIGZsb2F0XToKICAgICAgICAiIiJSdW4gdGhlIGV2YWx1YXRpb24gd2l0aCB0aGUgY29ycmVzcG9uZGluZyByZWNvcmRlci4iIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkKCiAgICBhc3luYyBkZWYgYXN5bmNfZXZhbF9hbGxfc2FtcGxlcygKICAgICAgICBzZWxmLAogICAgICAgIGV2YWxfZm46IENhbGxhYmxlW1tUdXBsZVtBbnksIGludF1dLCBBd2FpdGFibGVbVHVwbGVbaW50LCBBbnldXV0sCiAgICAgICAgc2FtcGxlczogTGlzdFtBbnldLAogICAgICAgIGNvbmN1cnJlbmN5OiBpbnQgPSAzMiwKICAgICAgICBzaG93X3Byb2dyZXNzOiBib29sID0gVHJ1ZSwKICAgICAgICAqKl9rd2FyZ3M6IEFueSwKICAgICk6CiAgICAgICAgd29ya19pdGVtcyA9IF9pbmRleF9zYW1wbGVzKHNhbXBsZXMpCiAgICAgICAgc2VtYXBob3JlID0gYXN5bmNpby5TZW1hcGhvcmUoY29uY3VycmVuY3kpCgogICAgICAgIGFzeW5jIGRlZiBldmFsX2ZuX3dpdGhfc2VtYXBob3JlKGFyZ3MpOgogICAgICAgICAgICBhc3luYyB3aXRoIHNlbWFwaG9yZToKICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCBldmFsX2ZuKGFyZ3MpCgogICAgICAgIGZ1dHVyZXMgPSBbYXN5bmNpby5lbnN1cmVfZnV0dXJlKGV2YWxfZm5fd2l0aF9zZW1hcGhvcmUoYXJncykpIGZvciBhcmdzIGluIHdvcmtfaXRlbXNdCgogICAgICAgIGZvciBmdXR1cmUgaW4gdHFkbSgKICAgICAgICAgICAgYXN5bmNpby5hc19jb21wbGV0ZWQoZnV0dXJlcyksIHRvdGFsPWxlbihzYW1wbGVzKSwgZGlzYWJsZT1ub3Qgc2hvd19wcm9ncmVzcwogICAgICAgICk6CiAgICAgICAgICAgIGF3YWl0IGZ1dHVyZQoKICAgIGRlZiBldmFsX2FsbF9zYW1wbGVzKAogICAgICAgIHNlbGYsCiAgICAgICAgcmVjb3JkZXI6IFJlY29yZGVyQmFzZSwKICAgICAgICBzYW1wbGVzLAogICAgICAgIHNob3dfcHJvZ3Jlc3M9VHJ1ZSwKICAgICAgICByZWNvcmRfcmF3X3NhbXBsZT1UcnVlLAogICAgICAgICoqX2t3YXJnczogQW55LAogICAgKToKICAgICAgICAiIiIKICAgICAgICBFdmFsdWF0ZSBhbGwgcHJvdmlkZWQgc2FtcGxlcyBpbiBwYXJhbGxlbC4KICAgICAgICAiIiIKICAgICAgICB3b3JrX2l0ZW1zID0gX2luZGV4X3NhbXBsZXMoc2FtcGxlcykKICAgICAgICB0aHJlYWRzID0gaW50KG9zLmVudmlyb24uZ2V0KCJFVkFMU19USFJFQURTIiwgIjEwIikpCiAgICAgICAgc2hvd19wcm9ncmVzcyA9IGJvb2wob3MuZW52aXJvbi5nZXQoIkVWQUxTX1NIT1dfRVZBTF9QUk9HUkVTUyIsIHNob3dfcHJvZ3Jlc3MpKQoKICAgICAgICBkZWYgZXZhbF9zYW1wbGUoYXJncyk6CiAgICAgICAgICAgICIiIgogICAgICAgICAgICBFdmFsdWF0ZSBhIHNpbmdsZSBzYW1wbGUuCiAgICAgICAgICAgICIiIgogICAgICAgICAgICBzYW1wbGUsIGlkeCA9IGFyZ3MKICAgICAgICAgICAgYmFzZV9uYW1lLCBzcGxpdCA9IHNlbGYubmFtZS5zcGxpdCgiLiIpWzA6Ml0KICAgICAgICAgICAgc2FtcGxlX2lkID0gZiJ7YmFzZV9uYW1lfS57c3BsaXR9LntpZHh9IgogICAgICAgICAgICB3aXRoIHJlY29yZGVyLmFzX2RlZmF1bHRfcmVjb3JkZXIoc2FtcGxlX2lkKToKICAgICAgICAgICAgICAgIHNlZWQgPSBmIntzYW1wbGVfaWR9OntzZWxmLnNlZWR9Ii5lbmNvZGUoInV0Zi04IikKICAgICAgICAgICAgICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKICAgICAgICAgICAgICAgIHJldHVybiBpZHgsIHNlbGYuZXZhbF9zYW1wbGUoc2FtcGxlLCBybmcpCgogICAgICAgIHdpdGggVGhyZWFkUG9vbCh0aHJlYWRzKSBhcyBwb29sOgogICAgICAgICAgICBpZiBvcy5lbnZpcm9uLmdldCgiRVZBTFNfU0VRVUVOVElBTCIsICIwIikgaW4geyIxIiwgInRydWUiLCAieWVzIn06CiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiUnVubmluZyBpbiBzZXF1ZW50aWFsIG1vZGUhIikKICAgICAgICAgICAgICAgIGl0ZXIgPSBtYXAoZXZhbF9zYW1wbGUsIHdvcmtfaXRlbXMpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhmIlJ1bm5pbmcgaW4gdGhyZWFkZWQgbW9kZSB3aXRoIHt0aHJlYWRzfSB0aHJlYWRzISIpCiAgICAgICAgICAgICAgICBpdGVyID0gcG9vbC5pbWFwX3Vub3JkZXJlZChldmFsX3NhbXBsZSwgd29ya19pdGVtcykKICAgICAgICAgICAgaWR4X2FuZF9yZXN1bHQgPSBsaXN0KHRxZG0oaXRlciwgdG90YWw9bGVuKHdvcmtfaXRlbXMpLCBkaXNhYmxlPW5vdCBzaG93X3Byb2dyZXNzKSkKICAgICAgICByZXR1cm4gW3IgZm9yIF8sIHIgaW4gc29ydGVkKGlkeF9hbmRfcmVzdWx0KV0KCiAgICBkZWYgZ2V0X3NhbXBsZXMoc2VsZik6CiAgICAgICAgaWYgc2VsZi5zYW1wbGVzX2pzb25sIGlzIE5vbmU6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAiVG8gdXNlIGBnZXRfc2FtcGxlc2AsIHlvdSBtdXN0IHByb3ZpZGUgYSBgc2FtcGxlc19qc29ubGAgcGF0aC4iICJHb3QgYE5vbmVgLiIKICAgICAgICAgICAgKQoKICAgICAgICBzYW1wbGVzX3BhdGggPSBzZWxmLl9nZXRfc2FtcGxlc19wYXRoKCkKICAgICAgICByZXR1cm4gZ2V0X2pzb25sKHNhbXBsZXNfcGF0aC5hc19wb3NpeCgpKQoKICAgIGRlZiBfZ2V0X3NhbXBsZXNfcGF0aChzZWxmKSAtPiBQYXRoOgogICAgICAgIHJldHVybiBzZWxmLl9wcmVmaXhfcmVnaXN0cnlfcGF0aChzZWxmLnNhbXBsZXNfanNvbmwpCgogICAgZGVmIF9wcmVmaXhfcmVnaXN0cnlfcGF0aChzZWxmLCBkYXRhX3BhdGg6IHN0cikgLT4gUGF0aDoKICAgICAgICBpZiBvcy5wYXRoLmlzZmlsZShkYXRhX3BhdGgpOgogICAgICAgICAgICByZXR1cm4gUGF0aChkYXRhX3BhdGgpCgogICAgICAgIHJldHVybiBzZWxmLmV2YWxfcmVnaXN0cnlfcGF0aCAvICJkYXRhIiAvIGRhdGFfcGF0aAoKCmNsYXNzIFNvbHZlckV2YWwoRXZhbCk6CiAgICAiIiIKICAgIENvbXBhcmVkIHRvIEV2YWwsIFNvbHZlckV2YWwgc3VwcG9ydHMgYSBzaW5nbGUgY29tcGxldGlvbl9mbiB3aGljaCBtdXN0IGJlCiAgICBhIGBTb2x2ZXJgIHR5cGUgKHNlZSBzb2x2ZXJzL3NvbHZlci5weSkuIFRoZSBTb2x2ZXIgaXMgd2hhdCB3ZSBldmFsdWF0ZSwKICAgIGFuZCBFdmFsIGNvZGUgc2hvdWxkIGludGVyYWN0IHdpdGggdGhlIFNvbHZlciBpbnN0ZWFkIG9mIHRoZSBDb21wbGV0aW9uRm4KICAgIGRpcmVjdGx5LiBBIG5ldyBTb2x2ZXIgaXMgY3JlYXRlZCBmb3IgZWFjaCBzYW1wbGUsIGFuZCB0aGUgU29sdmVyIGlzIHBhc3NlZAogICAgdG8gZXZhbF9zYW1wbGUuIFRoaXMgYWxsb3dzIFNvbHZlcnMgdG8gYmUgc3RhdGVmdWwgKGUuZy4gaGF2ZSBhIG1lbW9yeSkKICAgIHdpdGhvdXQgaW50ZXJmZXJpbmcgd2l0aCBvdGhlciBzYW1wbGVzLgoKICAgIE90aGVyd2lzZSwgdGhpcyBpcyB0aGUgc2FtZSBhcyBFdmFsIGFuZCByZXF1aXJlcyB0aGUgc2FtZSBtZXRob2RzIHRvIGJlCiAgICBpbXBsZW1lbnRlZDoKICAgIGBldmFsX3NhbXBsZWA6IFRha2VzIGluIGEgU29sdmVyLCBhIHRlc3Qgc2FtcGxlLCBhbmQgYSByYW5kb20gbnVtYmVyCiAgICAgICAgZ2VuZXJhdG9yIGFuZCByZWNvcmRzIHRoZSBtZXRyaWNzIG9mIGludGVyZXN0LgogICAgYHJ1bmA6IFRha2VzIGluIGEgcmVjb3JkZXIgYW5kIHJ1bnMgdGhlIGV2YWx1YXRpb24uIEdlbmVyYWxseSwgbW9zdCBgcnVuYAogICAgICAgIG1ldGhvZHMgd2lsbCBmb2xsb3cgdGhpcyBzYW1lIHBhdHRlcm46IGxvYWRpbmcgdGhlIGRhdGEsIGNhbGxpbmcKICAgICAgICBgZXZhbF9hbGxfc2FtcGxlc2AsIGFuZCBhZ2dyZWdhdGluZyB0aGUgcmVjb3JkZWQgcmVzdWx0cy4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIGFzc2VydCAoCiAgICAgICAgICAgIGxlbihzZWxmLmNvbXBsZXRpb25fZm5zKSA9PSAxCiAgICAgICAgKSwgZiJ7dHlwZShzZWxmKS5fX25hbWVfX30gc3VwcG9ydHMgZXhhY3RseSBvbmUgY29tcGxldGlvbl9mbiwgZ290IHtsZW4oc2VsZi5jb21wbGV0aW9uX2Zucyl9LiIKICAgICAgICAjIFRlY2huaWNhbGx5LCBpbnN0ZWFkIG9mIGFyZyBgY29tcGxldGlvbl9mbnM6IGxpc3RbQ29tcGxldGlvbkZuXWAgd2UKICAgICAgICAjIHNob3VsZCBqdXN0IGhhdmUgYHNvbHZlcjogU29sdmVyYCBidXQgd2Uga2VlcCB0aGUgYXJncyB1bmNoYW5nZWQgZm9yCiAgICAgICAgIyBjb21wYXRpYmlsaXR5IHdpdGggdGhlIGV4aXN0aW5nIGNvZGViYXNlLgogICAgICAgIHNlbGYuX3NvbHZlciA9IG1heWJlX3dyYXBfd2l0aF9zb2x2ZXIoc2VsZi5jb21wbGV0aW9uX2Zuc1swXSkKCiAgICBAYWJjLmFic3RyYWN0bWV0aG9kCiAgICBkZWYgZXZhbF9zYW1wbGUoc2VsZiwgc29sdmVyOiBTb2x2ZXIsIHNhbXBsZTogQW55LCBybmc6IHJhbmRvbS5SYW5kb20pIC0+IE5vbmU6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigpCgogICAgZGVmIGV2YWxfYWxsX3NhbXBsZXMoCiAgICAgICAgc2VsZiwKICAgICAgICByZWNvcmRlcjogUmVjb3JkZXJCYXNlLAogICAgICAgIHNhbXBsZXMsCiAgICAgICAgc2hvd19wcm9ncmVzcz1UcnVlLAogICAgICAgICoqX2t3YXJnczogQW55LAogICAgKToKICAgICAgICAiIiIKICAgICAgICBFdmFsdWF0ZSBhbGwgcHJvdmlkZWQgc2FtcGxlcyBpbiBwYXJhbGxlbC4KICAgICAgICAiIiIKICAgICAgICB3b3JrX2l0ZW1zID0gX2luZGV4X3NhbXBsZXMoc2FtcGxlcykKICAgICAgICB0aHJlYWRzID0gaW50KG9zLmVudmlyb24uZ2V0KCJFVkFMU19USFJFQURTIiwgIjEwIikpCiAgICAgICAgc2hvd19wcm9ncmVzcyA9IGJvb2wob3MuZW52aXJvbi5nZXQoIkVWQUxTX1NIT1dfRVZBTF9QUk9HUkVTUyIsIHNob3dfcHJvZ3Jlc3MpKQoKICAgICAgICBkZWYgZXZhbF9zYW1wbGUoYXJncyk6CiAgICAgICAgICAgICIiIgogICAgICAgICAgICBFdmFsdWF0ZSBhIHNpbmdsZSBzYW1wbGUuCiAgICAgICAgICAgICIiIgogICAgICAgICAgICBzYW1wbGUsIGlkeCA9IGFyZ3MKICAgICAgICAgICAgYmFzZV9uYW1lLCBzcGxpdCA9IHNlbGYubmFtZS5zcGxpdCgiLiIpWzA6Ml0KICAgICAgICAgICAgc2FtcGxlX2lkID0gZiJ7YmFzZV9uYW1lfS57c3BsaXR9LntpZHh9IgogICAgICAgICAgICB3aXRoIHJlY29yZGVyLmFzX2RlZmF1bHRfcmVjb3JkZXIoc2FtcGxlX2lkKToKICAgICAgICAgICAgICAgIHNlZWQgPSBmIntzYW1wbGVfaWR9OntzZWxmLnNlZWR9Ii5lbmNvZGUoInV0Zi04IikKICAgICAgICAgICAgICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCkKCiAgICAgICAgICAgICAgICBwZXJfc2FtcGxlX3NvbHZlciA9IHNlbGYuX3NvbHZlci5jb3B5KCkKICAgICAgICAgICAgICAgIHJldHVybiBpZHgsIHNlbGYuZXZhbF9zYW1wbGUocGVyX3NhbXBsZV9zb2x2ZXIsIHNhbXBsZSwgcm5nKQoKICAgICAgICB3aXRoIFRocmVhZFBvb2wodGhyZWFkcykgYXMgcG9vbDoKICAgICAgICAgICAgaWYgb3MuZW52aXJvbi5nZXQoIkVWQUxTX1NFUVVFTlRJQUwiLCAiMCIpIGluIHsiMSIsICJ0cnVlIiwgInllcyJ9OgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlJ1bm5pbmcgaW4gc2VxdWVudGlhbCBtb2RlISIpCiAgICAgICAgICAgICAgICBpdGVyID0gbWFwKGV2YWxfc2FtcGxlLCB3b3JrX2l0ZW1zKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oZiJSdW5uaW5nIGluIHRocmVhZGVkIG1vZGUgd2l0aCB7dGhyZWFkc30gdGhyZWFkcyEiKQogICAgICAgICAgICAgICAgaXRlciA9IHBvb2wuaW1hcF91bm9yZGVyZWQoZXZhbF9zYW1wbGUsIHdvcmtfaXRlbXMpCgogICAgICAgICAgICBpZHhfYW5kX3Jlc3VsdCA9IFtdCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGZvciByZXN1bHQgaW4gdHFkbShpdGVyLCB0b3RhbD1sZW4od29ya19pdGVtcyksIGRpc2FibGU9bm90IHNob3dfcHJvZ3Jlc3MpOgogICAgICAgICAgICAgICAgICAgIGlkeF9hbmRfcmVzdWx0LmFwcGVuZChyZXN1bHQpCiAgICAgICAgICAgIGV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoKICAgICAgICAgICAgICAgICMgIkdlbnRsZSBpbnRlcnJ1cHQiIGFsbG93cyB1cyB0byBzdG9wIGVhcmx5IGFuZCBzdGlsbCBnZXQgcmVzdWx0cwogICAgICAgICAgICAgICAgZ2VudGxlX2ludGVycnVwdCA9IG9zLmVudmlyb24uZ2V0KCJFVkFMU19HRU5UTEVfSU5URVJSVVBUIiwgIjAiKSBpbiB7CiAgICAgICAgICAgICAgICAgICAgIjEiLAogICAgICAgICAgICAgICAgICAgICJ0cnVlIiwKICAgICAgICAgICAgICAgICAgICAieWVzIiwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIGdlbnRsZV9pbnRlcnJ1cHQ6CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIkV2YWx1YXRpb24gc3RvcHBlZCBiZWNhdXNlIG9mIEtleWJvYXJkSW50ZXJydXB0IikKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygKICAgICAgICAgICAgICAgICAgICAgICAgZiJSZXBvcnQgd2lsbCBiZSBiYXNlZCBvbiB7bGVuKGlkeF9hbmRfcmVzdWx0KX0gb3V0IG9mIHRoZSBwbGFubmVkIHtsZW4od29ya19pdGVtcyl9IHNhbXBsZXMiCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICByYWlzZQoKICAgICAgICByZXR1cm4gW3IgZm9yIF8sIHIgaW4gc29ydGVkKGlkeF9hbmRfcmVzdWx0KV0K
+"""
+This file defines the base class for evals.
+"""
+import abc
+import asyncio
+import logging
+import os
+import random
+from multiprocessing.pool import ThreadPool
+from pathlib import Path
+from typing import Any, Awaitable, Callable, Dict, List, Optional, Tuple, Union
+
+from tqdm import tqdm
+
+from evals.api import CompletionFn
+
+from .data import get_jsonl
+from .record import RecorderBase
+from .registry import Registry
+from .solvers.solver import Solver
+from .solvers.utils import maybe_wrap_with_compl_fn, maybe_wrap_with_solver
+
+logger = logging.getLogger(__name__)
+
+
+SHUFFLE_SEED = 123
+_MAX_SAMPLES = None
+
+
+def _index_samples(samples: List[Any]) -> List[Tuple[Any, int]]:
+    """Shuffle `samples` and pair each sample with its index."""
+    indices = list(range(len(samples)))
+    random.Random(SHUFFLE_SEED).shuffle(indices)
+    if _MAX_SAMPLES is not None:
+        indices = indices[:_MAX_SAMPLES]
+    logger.info(f"Evaluating {len(indices)} samples")
+    work_items = [(samples[i], i) for i in indices]
+    return work_items
+
+
+def set_max_samples(max_samples: int):
+    global _MAX_SAMPLES
+    _MAX_SAMPLES = max_samples
+
+
+class Eval(abc.ABC):
+    """
+    Evaluation classes generally should override two methods:
+    `eval_sample`: Takes in a test sample and a random number generator and
+        records the metrics of interest.
+    `run`: Takes in a recorder and runs the evaluation. Generally, most `run`
+        methods will follow this same pattern: loading the data, calling
+        `eval_all_samples`, and aggregating the recorded results.
+    """
+
+    def __init__(
+        self,
+        completion_fns: list[Union[CompletionFn, Solver]],
+        eval_registry_path: Path,
+        seed: int = 20220722,
+        name: str = "no_name_eval.default",
+        registry: Optional[Registry] = None,
+        samples_jsonl: Optional[str] = None,
+    ):
+        splits = name.split(".")
+        if len(splits) < 2:
+            raise ValueError(f"Eval name must at least have <base_eval>.<split>. Got name {name}")
+
+        self.completion_fns = [maybe_wrap_with_compl_fn(fn) for fn in completion_fns]
+        self.eval_registry_path = eval_registry_path
+        self.seed = seed
+        self.name = name
+        self.registry = registry or Registry()
+        self.samples_jsonl = samples_jsonl
+
+    @abc.abstractmethod
+    def eval_sample(self, sample: Any, rng: random.Random):
+        raise NotImplementedError()
+
+    @property
+    def completion_fn(self) -> CompletionFn:
+        """Helper for more ergonomic access to a single CompletionFn."""
+        return self.completion_fns[0]
+
+    @abc.abstractmethod
+    def run(self, recorder: RecorderBase) -> Dict[str, float]:
+        """Run the evaluation with the corresponding recorder."""
+        raise NotImplementedError()
+
+    async def async_eval_all_samples(
+        self,
+        eval_fn: Callable[[Tuple[Any, int]], Awaitable[Tuple[int, Any]]],
+        samples: List[Any],
+        concurrency: int = 32,
+        show_progress: bool = True,
+        **_kwargs: Any,
+    ):
+        work_items = _index_samples(samples)
+        semaphore = asyncio.Semaphore(concurrency)
+
+        async def eval_fn_with_semaphore(args):
+            async with semaphore:
+                return await eval_fn(args)
+
+        futures = [asyncio.ensure_future(eval_fn_with_semaphore(args)) for args in work_items]
+
+        for future in tqdm(
+            asyncio.as_completed(futures), total=len(samples), disable=not show_progress
+        ):
+            await future
+
+    def eval_all_samples(
+        self,
+        recorder: RecorderBase,
+        samples,
+        show_progress=True,
+        record_raw_sample=True,
+        **_kwargs: Any,
+    ):
+        """
+        Evaluate all provided samples in parallel.
+        """
+        work_items = _index_samples(samples)
+        threads = int(os.environ.get("EVALS_THREADS", "10"))
+        show_progress = bool(os.environ.get("EVALS_SHOW_EVAL_PROGRESS", show_progress))
+
+        def eval_sample(args):
+            """
+            Evaluate a single sample.
+            """
+            sample, idx = args
+            base_name, split = self.name.split(".")[0:2]
+            sample_id = f"{base_name}.{split}.{idx}"
+            with recorder.as_default_recorder(sample_id):
+                seed = f"{sample_id}:{self.seed}".encode("utf-8")
+                rng = random.Random(seed)
+                return idx, self.eval_sample(sample, rng)
+
+        with ThreadPool(threads) as pool:
+            if os.environ.get("EVALS_SEQUENTIAL", "0") in {"1", "true", "yes"}:
+                logger.info("Running in sequential mode!")
+                iter = map(eval_sample, work_items)
+            else:
+                logger.info(f"Running in threaded mode with {threads} threads!")
+                iter = pool.imap_unordered(eval_sample, work_items)
+            idx_and_result = list(tqdm(iter, total=len(work_items), disable=not show_progress))
+        return [r for _, r in sorted(idx_and_result)]
+
+    def get_samples(self):
+        if self.samples_jsonl is None:
+            raise ValueError(
+                "To use `get_samples`, you must provide a `samples_jsonl` path." "Got `None`."
+            )
+
+        samples_path = self._get_samples_path()
+        return get_jsonl(samples_path.as_posix())
+
+    def _get_samples_path(self) -> Path:
+        return self._prefix_registry_path(self.samples_jsonl)
+
+    def _prefix_registry_path(self, data_path: str) -> Path:
+        if os.path.isfile(data_path):
+            return Path(data_path)
+
+        return self.eval_registry_path / "data" / data_path
+
+
+class SolverEval(Eval):
+    """
+    Compared to Eval, SolverEval supports a single completion_fn which must be
+    a `Solver` type (see solvers/solver.py). The Solver is what we evaluate,
+    and Eval code should interact with the Solver instead of the CompletionFn
+    directly. A new Solver is created for each sample, and the Solver is passed
+    to eval_sample. This allows Solvers to be stateful (e.g. have a memory)
+    without interfering with other samples.
+
+    Otherwise, this is the same as Eval and requires the same methods to be
+    implemented:
+    `eval_sample`: Takes in a Solver, a test sample, and a random number
+        generator and records the metrics of interest.
+    `run`: Takes in a recorder and runs the evaluation. Generally, most `run`
+        methods will follow this same pattern: loading the data, calling
+        `eval_all_samples`, and aggregating the recorded results.
+    """
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        assert (
+            len(self.completion_fns) == 1
+        ), f"{type(self).__name__} supports exactly one completion_fn, got {len(self.completion_fns)}."
+        # Technically, instead of arg `completion_fns: list[CompletionFn]` we
+        # should just have `solver: Solver` but we keep the args unchanged for
+        # compatibility with the existing codebase.
+        self._solver = maybe_wrap_with_solver(self.completion_fns[0])
+
+    @abc.abstractmethod
+    def eval_sample(self, solver: Solver, sample: Any, rng: random.Random) -> None:
+        raise NotImplementedError()
+
+    def eval_all_samples(
+        self,
+        recorder: RecorderBase,
+        samples,
+        show_progress=True,
+        **_kwargs: Any,
+    ):
+        """
+        Evaluate all provided samples in parallel.
+        """
+        work_items = _index_samples(samples)
+        threads = int(os.environ.get("EVALS_THREADS", "10"))
+        show_progress = bool(os.environ.get("EVALS_SHOW_EVAL_PROGRESS", show_progress))
+
+        def eval_sample(args):
+            """
+            Evaluate a single sample.
+            """
+            sample, idx = args
+            base_name, split = self.name.split(".")[0:2]
+            sample_id = f"{base_name}.{split}.{idx}"
+            with recorder.as_default_recorder(sample_id):
+                seed = f"{sample_id}:{self.seed}".encode("utf-8")
+                rng = random.Random(seed)
+
+                per_sample_solver = self._solver.copy()
+                return idx, self.eval_sample(per_sample_solver, sample, rng)
+
+        with ThreadPool(threads) as pool:
+            if os.environ.get("EVALS_SEQUENTIAL", "0") in {"1", "true", "yes"}:
+                logger.info("Running in sequential mode!")
+                iter = map(eval_sample, work_items)
+            else:
+                logger.info(f"Running in threaded mode with {threads} threads!")
+                iter = pool.imap_unordered(eval_sample, work_items)
+
+            idx_and_result = []
+            try:
+                for result in tqdm(iter, total=len(work_items), disable=not show_progress):
+                    idx_and_result.append(result)
+            except KeyboardInterrupt:
+                # "Gentle interrupt" allows us to stop early and still get results
+                gentle_interrupt = os.environ.get("EVALS_GENTLE_INTERRUPT", "0") in {
+                    "1",
+                    "true",
+                    "yes",
+                }
+                if gentle_interrupt:
+                    logger.info("Evaluation stopped because of KeyboardInterrupt")
+                    logger.info(
+                        f"Report will be based on {len(idx_and_result)} out of the planned {len(work_items)} samples"
+                    )
+                else:
+                    raise
+
+        return [r for _, r in sorted(idx_and_result)]

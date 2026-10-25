@@ -1,1 +1,292 @@
-aW1wb3J0IG9zCmltcG9ydCBqc29uCmltcG9ydCBiYXNlNjQKaW1wb3J0IHJlcXVlc3RzCmZyb20gdHlwaW5nIGltcG9ydCBEaWN0LCBMaXN0LCBTZXQsIEFueSwgT3B0aW9uYWwKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybHBhcnNlLCBwYXJzZV9xcywgdXJsdW5wYXJzZQoKQ0hBTk5FTFNfVVJMID0gImh0dHBzOi8vc3BvcnRsaW5rLWp0di5wYWdlcy5kZXYvenR2Lmpzb24iCkNPT0tJRV9VUkwgPSAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Nwb3J0bGl2ZTE4L1Nwb3J0bGluay13dGYvcmVmcy9oZWFkcy9tYWluL2Nvb2tpZS5qc29uIgpTUE9SVFNfQ09PS0lFX1VSTCA9ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc3BvcnRsaXZlMTgvU3BvcnRsaW5rLXd0Zi9yZWZzL2hlYWRzL21haW4vc3BvcnRjb29raWUuanNvbiIKClVTRVJfQUdFTlQgPSAiVmlyYXQiClJFRkVSRVIgPSAiaHR0cHM6Ly93d3cuamlvdHYuY29tLyIKT1JJR0lOID0gImh0dHBzOi8vd3d3Lmppb3R2LmNvbS8iClVQTE9BRF9UT19HSVRIVUIgPSBUcnVlCgoKZGVmIHRvX2Jhc2U2NCh0ZXh0OiBzdHIpIC0+IHN0cjoKICAgIHJldHVybiBiYXNlNjQuYjY0ZW5jb2RlKHRleHQuZW5jb2RlKCJ1dGYtOCIpKS5kZWNvZGUoImFzY2lpIikKCgpkZWYgZ2V0X2pzb24odXJsOiBzdHIpIC0+IEFueToKICAgIGNhY2hlX2J1c3RlciA9IGYieycmJyBpZiAnPycgaW4gdXJsIGVsc2UgJz8nfXQ9e2ludChkYXRldGltZS5ub3coKS50aW1lc3RhbXAoKSAqIDEwMDApfSIKICAgIGZyZXNoX3VybCA9IHVybCArIGNhY2hlX2J1c3RlcgogICAgaGVhZGVycyA9IHsiQ2FjaGUtQ29udHJvbCI6ICJuby1jYWNoZSIsICJQcmFnbWEiOiAibm8tY2FjaGUifQogICAgcmVzcCA9IHJlcXVlc3RzLmdldChmcmVzaF91cmwsIGhlYWRlcnM9aGVhZGVycywgdGltZW91dD0zMCkKICAgIHJlc3AucmFpc2VfZm9yX3N0YXR1cygpCiAgICByZXR1cm4gcmVzcC5qc29uKCkKCgpkZWYgc3BsaXRfdXJsX3F1ZXJ5KHVybDogc3RyKSAtPiB0dXBsZToKICAgIHBhcnNlZCA9IHVybHBhcnNlKHVybCkKICAgIGJhc2UgPSB1cmx1bnBhcnNlKChwYXJzZWQuc2NoZW1lLCBwYXJzZWQubmV0bG9jLCBwYXJzZWQucGF0aCwgcGFyc2VkLnBhcmFtcywgIiIsICIiKSkKICAgIHF1ZXJ5ID0gcGFyc2VkLnF1ZXJ5IGlmIHBhcnNlZC5xdWVyeSBlbHNlIE5vbmUKICAgIHJldHVybiBiYXNlLCBxdWVyeQoKCmRlZiBnZXRfbm9ybWFsX2Nvb2tpZSgpIC0+IHN0cjoKICAgIHRyeToKICAgICAgICBkYXRhID0gZ2V0X2pzb24oQ09PS0lFX1VSTCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIuKaoO+4jyAgQ291bGQgbm90IGZldGNoIG5vcm1hbCBjb29raWU6IHtlfSIpCiAgICAgICAgcmV0dXJuICIiCgogICAgaWYgaXNpbnN0YW5jZShkYXRhLCBzdHIpOgogICAgICAgIHJldHVybiBkYXRhCiAgICBpZiBpc2luc3RhbmNlKGRhdGEsIGxpc3QpOgogICAgICAgIGZvciBpdGVtIGluIGRhdGE6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbSwgZGljdCkgYW5kICJjb29raWUiIGluIGl0ZW06CiAgICAgICAgICAgICAgICByZXR1cm4gaXRlbVsiY29va2llIl0KICAgICAgICByZXR1cm4gIiIKICAgIGlmIGlzaW5zdGFuY2UoZGF0YSwgZGljdCk6CiAgICAgICAgcmV0dXJuIGRhdGEuZ2V0KCJjb29raWUiLCAiIikKICAgIHJldHVybiAiIgoKCmRlZiBnZXRfc3BvcnRzX2RhdGEoKSAtPiBEaWN0W3N0ciwgQW55XToKICAgIHRyeToKICAgICAgICBkYXRhID0gZ2V0X2pzb24oU1BPUlRTX0NPT0tJRV9VUkwpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZiLimqDvuI8gIENvdWxkIG5vdCBmZXRjaCBzcG9ydHMgZGF0YToge2V9IikKICAgICAgICByZXR1cm4geyJzcG9ydHNJZHMiOiBzZXQoKSwgInNwb3J0c0Nvb2tpZXMiOiB7fX0KCiAgICBzcG9ydHNfY29va2llcyA9IHt9CgogICAgIyBIYW5kbGUgYm90aCBsaXN0IGFuZCBkaWN0IHNoYXBlcyBkZWZlbnNpdmVseQogICAgaWYgaXNpbnN0YW5jZShkYXRhLCBsaXN0KToKICAgICAgICByZXN1bHRzID0gZGF0YQogICAgZWxpZiBpc2luc3RhbmNlKGRhdGEsIGRpY3QpOgogICAgICAgIHJlc3VsdHMgPSBkYXRhLmdldCgic3VjY2Vzc2Z1bF9yZXN1bHRzIiwgW10pICsgZGF0YS5nZXQoImZhaWxlZF9yZXN1bHRzIiwgW10pCiAgICBlbHNlOgogICAgICAgIHJlc3VsdHMgPSBbXQoKICAgIGZvciBpdGVtIGluIHJlc3VsdHM6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoaXRlbSwgZGljdCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgY2hhbm5lbF9pZCA9IGl0ZW0uZ2V0KCJjaGFubmVsX2lkIikKICAgICAgICBpZiBub3QgY2hhbm5lbF9pZDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmaW5hbF91cmwgPSBpdGVtLmdldCgiZmluYWxfdXJsIikgb3IgaXRlbS5nZXQoImVycm9yX2RldGFpbHMiLCB7fSkuZ2V0KCJmaW5hbF91cmwiLCAiIikKICAgICAgICBpZiBub3QgZmluYWxfdXJsOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIG1vZGlmaWVkX3VybCA9IGZpbmFsX3VybC5yZXBsYWNlKCIvb3V0cHV0LyIsICIvV0RWTGl2ZS8iKQogICAgICAgIHNwb3J0c19jb29raWVzW3N0cihjaGFubmVsX2lkKV0gPSBtb2RpZmllZF91cmwKCiAgICByZXR1cm4gewogICAgICAgICJzcG9ydHNJZHMiOiBzZXQoc3BvcnRzX2Nvb2tpZXMua2V5cygpKSwKICAgICAgICAic3BvcnRzQ29va2llcyI6IHNwb3J0c19jb29raWVzLAogICAgfQoKCmRlZiBfY29sbGVjdF9jbGVhcmtleV9lbnRyaWVzKGNoYW5uZWw6IERpY3Rbc3RyLCBBbnldKSAtPiBMaXN0W3R1cGxlXToKICAgICIiIgogICAgUmV0dXJucyBhbiBvcmRlcmVkIGxpc3Qgb2YgKGtleUlkLCBrZXkpIHR1cGxlcy4KICAgIEhhbmRsZXM6CiAgICAgIC0gc2luZ2xlIHRvcC1sZXZlbCBrZXlJZCArIGtleQogICAgICAtIGtleXM6IFsge2tleUlkLCBrZXl9LCAuLi4gXSAgIChtdWx0aXBsZSBwYWlycykKICAgICAgLSBjbGVhcmtleTogeyAia2lkIjogImtleSIsIC4uLiB9CiAgICBOT1RFOiBEb2VzIE5PVCBkZWR1cGxpY2F0ZSDigJQgZHVwbGljYXRlcyBhcmUga2VwdCBhcy1pcy4KICAgICIiIgogICAgZW50cmllczogTGlzdFt0dXBsZV0gPSBbXQoKICAgICMgMS4gVG9wLWxldmVsIGtleUlkICsga2V5CiAgICBpZiBjaGFubmVsLmdldCgia2V5SWQiKSBhbmQgY2hhbm5lbC5nZXQoImtleSIpOgogICAgICAgIGVudHJpZXMuYXBwZW5kKChzdHIoY2hhbm5lbFsia2V5SWQiXSksIHN0cihjaGFubmVsWyJrZXkiXSkpKQoKICAgICMgMi4ga2V5cyBhcnJheSAobXVsdGlwbGUgcGFpcnMpIOKAlCBrZWVwIGFsbCBlbnRyaWVzIGluY2x1ZGluZyBkdXBsaWNhdGVzCiAgICBrZXlzX2FyciA9IGNoYW5uZWwuZ2V0KCJrZXlzIikKICAgIGlmIGlzaW5zdGFuY2Uoa2V5c19hcnIsIGxpc3QpOgogICAgICAgIGZvciBrIGluIGtleXNfYXJyOgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKGssIGRpY3QpIGFuZCBrLmdldCgia2V5SWQiKSBhbmQgay5nZXQoImtleSIpOgogICAgICAgICAgICAgICAgZW50cmllcy5hcHBlbmQoKHN0cihrWyJrZXlJZCJdKSwgc3RyKGtbImtleSJdKSkpCgogICAgIyAzLiBjbGVhcmtleSBkaWN0IGZhbGxiYWNrCiAgICBjayA9IGNoYW5uZWwuZ2V0KCJjbGVhcmtleSIpCiAgICBpZiBpc2luc3RhbmNlKGNrLCBkaWN0KToKICAgICAgICBmb3Iga2lkLCBrZXkgaW4gY2suaXRlbXMoKToKICAgICAgICAgICAgZW50cmllcy5hcHBlbmQoKHN0cihraWQpLCBzdHIoa2V5KSkpCgogICAgcmV0dXJuIGVudHJpZXMKCgpkZWYgY3JlYXRlX2NoYW5uZWxfZW50cnkoY2hhbm5lbDogRGljdFtzdHIsIEFueV0sCiAgICAgICAgICAgICAgICAgICAgICAgICBub3JtYWxfY29va2llOiBzdHIgPSAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgIHNwb3J0c19jb29raWVzOiBEaWN0W3N0ciwgc3RyXSA9IHt9KSAtPiBzdHI6CiAgICBuYW1lID0gY2hhbm5lbC5nZXQoIm5hbWUiLCAiIikKICAgIGxvZ28gPSBjaGFubmVsLmdldCgibG9nbyIsICIiKQoKICAgICMgUHJlZml4IHRoZSBncm91cC10aXRsZSB3aXRoICJTcG9ydGxpbmsgSSAiCiAgICByYXdfZ3JvdXAgPSBjaGFubmVsLmdldCgiZ3JvdXAiKSBvciBjaGFubmVsLmdldCgiY2F0ZWdvcnkiKSBvciAiT3RoZXIiCiAgICBncm91cCA9IGYiU3BvcnRsaW5rIEkge3Jhd19ncm91cH0iCgogICAgdXJsID0gY2hhbm5lbC5nZXQoInVybCIsICIiKQogICAgY2hhbm5lbF9pZCA9IHN0cihjaGFubmVsLmdldCgiaWQiLCAiIikpCgogICAgbGluZXMgPSBbXQogICAgbGluZXMuYXBwZW5kKAogICAgICAgIGYnI0VYVElORjotMSB0dmctaWQ9IntjaGFubmVsX2lkfSIgdHZnLW5hbWU9IntuYW1lfSIgJwogICAgICAgIGYndHZnLWxvZ289Intsb2dvfSIgZ3JvdXAtdGl0bGU9Intncm91cH0iLHtuYW1lfScKICAgICkKCiAgICBpc19tcGQgPSAoY2hhbm5lbC5nZXQoInR5cGUiKSA9PSAiZGFzaCIpIG9yICgiLm1wZCIgaW4gdXJsLmxvd2VyKCkpCgogICAgaWYgaXNfbXBkOgogICAgICAgIGxpbmVzLmFwcGVuZCgiI0tPRElQUk9QOmlucHV0c3RyZWFtPWlucHV0c3RyZWFtLmFkYXB0aXZlIikKICAgICAgICBsaW5lcy5hcHBlbmQoIiNLT0RJUFJPUDppbnB1dHN0cmVhbS5hZGFwdGl2ZS5tYW5pZmVzdF90eXBlPW1wZCIpCgogICAgICAgICMgQ2xlYXJrZXkgaGFuZGxpbmcgKEFMTCBwYWlycyBvbiBhIHNpbmdsZSBjb21tYS1zZXBhcmF0ZWQgbGluZSkKICAgICAgICBjbGVhcmtleV9lbnRyaWVzID0gX2NvbGxlY3RfY2xlYXJrZXlfZW50cmllcyhjaGFubmVsKQogICAgICAgIGlmIGNsZWFya2V5X2VudHJpZXM6CiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgiI0tPRElQUk9QOmlucHV0c3RyZWFtLmFkYXB0aXZlLmxpY2Vuc2VfdHlwZT1jbGVhcmtleSIpCiAgICAgICAgICAgIHBhaXJzID0gIiwiLmpvaW4oZiJ7a2lkfTp7a2V5fSIgZm9yIGtpZCwga2V5IGluIGNsZWFya2V5X2VudHJpZXMpCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgKICAgICAgICAgICAgICAgIGYiI0tPRElQUk9QOmlucHV0c3RyZWFtLmFkYXB0aXZlLmxpY2Vuc2Vfa2V5PXtwYWlyc30iCiAgICAgICAgICAgICkKICAgICAgICBlbGlmIGNoYW5uZWwuZ2V0KCJsaWNlbnNlX3VybCIpOgogICAgICAgICAgICBsaW5lcy5hcHBlbmQoIiNLT0RJUFJPUDppbnB1dHN0cmVhbS5hZGFwdGl2ZS5saWNlbnNlX3R5cGU9Y2xlYXJrZXkiKQogICAgICAgICAgICBsaW5lcy5hcHBlbmQoCiAgICAgICAgICAgICAgICBmIiNLT0RJUFJPUDppbnB1dHN0cmVhbS5hZGFwdGl2ZS5saWNlbnNlX2tleT17Y2hhbm5lbFsnbGljZW5zZV91cmwnXX0iCiAgICAgICAgICAgICkKCiAgICAjIFJlc29sdmUgZmluYWwgVVJMCiAgICBzcG9ydHNfdXJsID0gc3BvcnRzX2Nvb2tpZXMuZ2V0KGNoYW5uZWxfaWQpCiAgICBpZiBzcG9ydHNfdXJsOgogICAgICAgIGZpbmFsX3VybF93aXRoX3F1ZXJ5ID0gc3BvcnRzX3VybAogICAgZWxzZToKICAgICAgICBpZiBub3JtYWxfY29va2llOgogICAgICAgICAgICBzZXAgPSAiJiIgaWYgIj8iIGluIHVybCBlbHNlICI/IgogICAgICAgICAgICBmaW5hbF91cmxfd2l0aF9xdWVyeSA9IGYie3VybH17c2VwfXtub3JtYWxfY29va2llfSIKICAgICAgICBlbHNlOgogICAgICAgICAgICBmaW5hbF91cmxfd2l0aF9xdWVyeSA9IHVybAoKICAgIGJhc2VfdXJsLCBjb29raWVfcXVlcnkgPSBzcGxpdF91cmxfcXVlcnkoZmluYWxfdXJsX3dpdGhfcXVlcnkpCgogICAgIyBLT0RJUFJPUCBzdHJlYW1faGVhZGVycwogICAgaWYgY29va2llX3F1ZXJ5OgogICAgICAgIHN0cmVhbV9oZWFkZXJzID0gKAogICAgICAgICAgICBmIlVzZXItQWdlbnQ9e1VTRVJfQUdFTlR9IgogICAgICAgICAgICBmIiZSZWZlcmVyPXtSRUZFUkVSfSIKICAgICAgICAgICAgZiImT3JpZ2luPXtPUklHSU59IgogICAgICAgICAgICBmIiZDb29raWU9e2Nvb2tpZV9xdWVyeX0iCiAgICAgICAgKQogICAgICAgIGxpbmVzLmFwcGVuZCgKICAgICAgICAgICAgIiNLT0RJUFJPUDppbnB1dHN0cmVhbS5hZGFwdGl2ZS5zdHJlYW1faGVhZGVycz0iICsgc3RyZWFtX2hlYWRlcnMKICAgICAgICApCgogICAgIyBWTEMtc3R5bGUgb3B0aW9ucwogICAgbGluZXMuYXBwZW5kKGYiI0VYVFZMQ09QVDpodHRwLXVzZXItYWdlbnQ9e1VTRVJfQUdFTlR9IikKICAgIGxpbmVzLmFwcGVuZChmIiNFWFRWTENPUFQ6aHR0cC1yZWZlcnJlcj17UkVGRVJFUn0iKQogICAgaWYgY29va2llX3F1ZXJ5OgogICAgICAgIGxpbmVzLmFwcGVuZChmIiNFWFRWTENPUFQ6aHR0cC1jb29raWU9e2Nvb2tpZV9xdWVyeX0iKQoKICAgICMgRVhUSFRUUCBKU09OIGJsb2IKICAgIGlmIGNvb2tpZV9xdWVyeToKICAgICAgICBleHRodHRwID0gewogICAgICAgICAgICAiVXNlci1BZ2VudCI6IFVTRVJfQUdFTlQsCiAgICAgICAgICAgICJSZWZlcmVyIjogUkVGRVJFUiwKICAgICAgICAgICAgIk9yaWdpbiI6IE9SSUdJTiwKICAgICAgICAgICAgIkNvb2tpZSI6IGNvb2tpZV9xdWVyeSwKICAgICAgICB9CiAgICAgICAgbGluZXMuYXBwZW5kKGYiI0VYVEhUVFA6e2pzb24uZHVtcHMoZXh0aHR0cCl9IikKCiAgICBsaW5lcy5hcHBlbmQoYmFzZV91cmwpCiAgICByZXR1cm4gIlxuIi5qb2luKGxpbmVzKQoKCmRlZiBnZW5lcmF0ZV9tM3UoKSAtPiBzdHI6CiAgICB0cnk6CiAgICAgICAgY2hhbm5lbHMgPSBnZXRfanNvbihDSEFOTkVMU19VUkwpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZiLinYwgRmFpbGVkIHRvIGZldGNoIGNoYW5uZWxzOiB7ZX0iKQogICAgICAgIHJhaXNlCgogICAgbm9ybWFsX2Nvb2tpZSA9IGdldF9ub3JtYWxfY29va2llKCkKICAgIHNwb3J0c19kYXRhID0gZ2V0X3Nwb3J0c19kYXRhKCkKCiAgICBwcmludChmIkNoYW5uZWxzIGxvYWRlZDoge2xlbihjaGFubmVscyl9IikKICAgIHByaW50KGYiU3BvcnRzLXNwZWNpZmljIFVSTHMgbG9hZGVkOiB7bGVuKHNwb3J0c19kYXRhWydzcG9ydHNJZHMnXSl9IikKCiAgICBlbnRyaWVzID0gW10KICAgIGZvciBjaCBpbiBjaGFubmVsczoKICAgICAgICBlbnRyaWVzLmFwcGVuZChjcmVhdGVfY2hhbm5lbF9lbnRyeShjaCwgbm9ybWFsX2Nvb2tpZSwgc3BvcnRzX2RhdGFbInNwb3J0c0Nvb2tpZXMiXSkpCgogICAgcHJpbnQoZiJDaGFubmVscyBnZW5lcmF0ZWQ6IHtsZW4oZW50cmllcyl9IikKICAgIHJldHVybiAiI0VYVE0zVVxuXG4iICsgIlxuXG4iLmpvaW4oZW50cmllcykKCgpkZWYgdXBsb2FkX3RvX2dpdGh1Yihjb250ZW50OiBzdHIpIC0+IGJvb2w6CiAgICByZXBvX293bmVyID0gb3MuZW52aXJvbi5nZXQoIkdJVEhVQl9PV05FUiIpCiAgICByZXBvX25hbWUgPSBvcy5lbnZpcm9uLmdldCgiR0lUSFVCX1JFUE8iKQogICAgdG9rZW4gPSBvcy5lbnZpcm9uLmdldCgiR0lUSFVCX1RPS0VOIikKCiAgICBpZiBub3QgYWxsKFtyZXBvX293bmVyLCByZXBvX25hbWUsIHRva2VuXSk6CiAgICAgICAgcHJpbnQoIuKaoO+4jyAgR2l0SHViIGNyZWRlbnRpYWxzIG1pc3NpbmcuIFNraXBwaW5nIHVwbG9hZC4iKQogICAgICAgIHJldHVybiBGYWxzZQogICAgaWYgbm90IFVQTE9BRF9UT19HSVRIVUI6CiAgICAgICAgcHJpbnQoIuKaoO+4jyAgVXBsb2FkIGRpc2FibGVkIGJ5IFVQTE9BRF9UT19HSVRIVUIgZmxhZy4gU2tpcHBpbmcuIikKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBwYXRoID0gImp0dnBsdXMzLm0zdSIKICAgIGFwaV91cmwgPSBmImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mve3JlcG9fb3duZXJ9L3tyZXBvX25hbWV9L2NvbnRlbnRzL3twYXRofSIKICAgIGhlYWRlcnMgPSB7CiAgICAgICAgIkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dG9rZW59IiwKICAgICAgICAiVXNlci1BZ2VudCI6ICJQeXRob24tU2NyaXB0IiwKICAgICAgICAiQWNjZXB0IjogImFwcGxpY2F0aW9uL3ZuZC5naXRodWIudjMranNvbiIsCiAgICB9CgogICAgZXhpc3RpbmdfcmVzcCA9IHJlcXVlc3RzLmdldChhcGlfdXJsLCBoZWFkZXJzPWhlYWRlcnMsIHRpbWVvdXQ9MzApCiAgICBzaGEgPSBOb25lCiAgICBleGlzdGluZ19jb250ZW50ID0gIiIKICAgIGlmIGV4aXN0aW5nX3Jlc3Auc3RhdHVzX2NvZGUgPT0gMjAwOgogICAgICAgIGV4aXN0aW5nX2pzb24gPSBleGlzdGluZ19yZXNwLmpzb24oKQogICAgICAgIHNoYSA9IGV4aXN0aW5nX2pzb24uZ2V0KCJzaGEiKQogICAgICAgIGlmIGV4aXN0aW5nX2pzb24uZ2V0KCJjb250ZW50Iik6CiAgICAgICAgICAgIGV4aXN0aW5nX2NvbnRlbnQgPSBiYXNlNjQuYjY0ZGVjb2RlKGV4aXN0aW5nX2pzb25bImNvbnRlbnQiXSkuZGVjb2RlKCJ1dGYtOCIpCgogICAgZGVmIG5vcm1hbGl6ZShzOiBzdHIpIC0+IHN0cjoKICAgICAgICByZXR1cm4gcy5zdHJpcCgpLnJlcGxhY2UoIlxyIiwgIiIpCgogICAgaWYgc2hhIGFuZCBub3JtYWxpemUoZXhpc3RpbmdfY29udGVudCkgPT0gbm9ybWFsaXplKGNvbnRlbnQpOgogICAgICAgIHByaW50KCJObyBjaGFuZ2VzIGRldGVjdGVkLiBTa2lwcGluZyBjb21taXQuIikKICAgICAgICByZXR1cm4gVHJ1ZQoKICAgIHBheWxvYWQgPSB7CiAgICAgICAgIm1lc3NhZ2UiOiBmIkF1dG8gdXBkYXRlIHBsYXlsaXN0IHtkYXRldGltZS5ub3coKS5pc29mb3JtYXQoKX0iLAogICAgICAgICJjb250ZW50IjogdG9fYmFzZTY0KGNvbnRlbnQpLAogICAgICAgICJzaGEiOiBzaGEsCiAgICB9CiAgICBwdXRfcmVzcCA9IHJlcXVlc3RzLnB1dChhcGlfdXJsLCBoZWFkZXJzPWhlYWRlcnMsIGpzb249cGF5bG9hZCwgdGltZW91dD0zMCkKICAgIGlmIG5vdCBwdXRfcmVzcC5vazoKICAgICAgICBwcmludChmIuKdjCBHaXRIdWIgdXBsb2FkIGZhaWxlZDoge3B1dF9yZXNwLnN0YXR1c19jb2RlfSAtIHtwdXRfcmVzcC50ZXh0fSIpCiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBwcmludChmIuKchSBHaXRIdWIgdXBsb2FkIHN1Y2Nlc3NmdWwgKHtwdXRfcmVzcC5zdGF0dXNfY29kZX0pIikKICAgIHJldHVybiBUcnVlCgoKZGVmIG1haW4ob3V0cHV0X2ZpbGU6IHN0ciA9ICJ6aW8ubTN1Iik6CiAgICB0cnk6CiAgICAgICAgbTN1ID0gZ2VuZXJhdGVfbTN1KCkKICAgICAgICB3aXRoIG9wZW4ob3V0cHV0X2ZpbGUsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShtM3UpCiAgICAgICAgcHJpbnQoZiLwn5OBIFBsYXlsaXN0IHNhdmVkIGxvY2FsbHkgYXMgJ3tvdXRwdXRfZmlsZX0nIikKICAgICAgICB1cGxvYWRfdG9fZ2l0aHViKG0zdSkKICAgICAgICBwcmludCgi4pyFIFBsYXlsaXN0IHVwZGF0ZWQgc3VjY2Vzc2Z1bGx5IikKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIuKdjCBFcnJvcjoge2V9IikKICAgICAgICByYWlzZQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+import os
+import json
+import base64
+import requests
+from typing import Dict, List, Set, Any, Optional
+from datetime import datetime
+from urllib.parse import urlparse, parse_qs, urlunparse
+
+CHANNELS_URL = "https://sportlink-jtv.pages.dev/ztv.json"
+COOKIE_URL = "https://raw.githubusercontent.com/sportlive18/Sportlink-wtf/refs/heads/main/cookie.json"
+SPORTS_COOKIE_URL = "https://raw.githubusercontent.com/sportlive18/Sportlink-wtf/refs/heads/main/sportcookie.json"
+
+USER_AGENT = "Virat"
+REFERER = "https://www.jiotv.com/"
+ORIGIN = "https://www.jiotv.com/"
+UPLOAD_TO_GITHUB = True
+
+
+def to_base64(text: str) -> str:
+    return base64.b64encode(text.encode("utf-8")).decode("ascii")
+
+
+def get_json(url: str) -> Any:
+    cache_buster = f"{'&' if '?' in url else '?'}t={int(datetime.now().timestamp() * 1000)}"
+    fresh_url = url + cache_buster
+    headers = {"Cache-Control": "no-cache", "Pragma": "no-cache"}
+    resp = requests.get(fresh_url, headers=headers, timeout=30)
+    resp.raise_for_status()
+    return resp.json()
+
+
+def split_url_query(url: str) -> tuple:
+    parsed = urlparse(url)
+    base = urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, "", ""))
+    query = parsed.query if parsed.query else None
+    return base, query
+
+
+def get_normal_cookie() -> str:
+    try:
+        data = get_json(COOKIE_URL)
+    except Exception as e:
+        print(f"⚠️  Could not fetch normal cookie: {e}")
+        return ""
+
+    if isinstance(data, str):
+        return data
+    if isinstance(data, list):
+        for item in data:
+            if isinstance(item, dict) and "cookie" in item:
+                return item["cookie"]
+        return ""
+    if isinstance(data, dict):
+        return data.get("cookie", "")
+    return ""
+
+
+def get_sports_data() -> Dict[str, Any]:
+    try:
+        data = get_json(SPORTS_COOKIE_URL)
+    except Exception as e:
+        print(f"⚠️  Could not fetch sports data: {e}")
+        return {"sportsIds": set(), "sportsCookies": {}}
+
+    sports_cookies = {}
+
+    # Handle both list and dict shapes defensively
+    if isinstance(data, list):
+        results = data
+    elif isinstance(data, dict):
+        results = data.get("successful_results", []) + data.get("failed_results", [])
+    else:
+        results = []
+
+    for item in results:
+        if not isinstance(item, dict):
+            continue
+        channel_id = item.get("channel_id")
+        if not channel_id:
+            continue
+        final_url = item.get("final_url") or item.get("error_details", {}).get("final_url", "")
+        if not final_url:
+            continue
+        modified_url = final_url.replace("/output/", "/WDVLive/")
+        sports_cookies[str(channel_id)] = modified_url
+
+    return {
+        "sportsIds": set(sports_cookies.keys()),
+        "sportsCookies": sports_cookies,
+    }
+
+
+def _collect_clearkey_entries(channel: Dict[str, Any]) -> List[tuple]:
+    """
+    Returns an ordered list of (keyId, key) tuples.
+    Handles:
+      - single top-level keyId + key
+      - keys: [ {keyId, key}, ... ]   (multiple pairs)
+      - clearkey: { "kid": "key", ... }
+    NOTE: Does NOT deduplicate — duplicates are kept as-is.
+    """
+    entries: List[tuple] = []
+
+    # 1. Top-level keyId + key
+    if channel.get("keyId") and channel.get("key"):
+        entries.append((str(channel["keyId"]), str(channel["key"])))
+
+    # 2. keys array (multiple pairs) — keep all entries including duplicates
+    keys_arr = channel.get("keys")
+    if isinstance(keys_arr, list):
+        for k in keys_arr:
+            if isinstance(k, dict) and k.get("keyId") and k.get("key"):
+                entries.append((str(k["keyId"]), str(k["key"])))
+
+    # 3. clearkey dict fallback
+    ck = channel.get("clearkey")
+    if isinstance(ck, dict):
+        for kid, key in ck.items():
+            entries.append((str(kid), str(key)))
+
+    return entries
+
+
+def create_channel_entry(channel: Dict[str, Any],
+                         normal_cookie: str = "",
+                         sports_cookies: Dict[str, str] = {}) -> str:
+    name = channel.get("name", "")
+    logo = channel.get("logo", "")
+
+    # Prefix the group-title with "Sportlink I "
+    raw_group = channel.get("group") or channel.get("category") or "Other"
+    group = f"Sportlink I {raw_group}"
+
+    url = channel.get("url", "")
+    channel_id = str(channel.get("id", ""))
+
+    lines = []
+    lines.append(
+        f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name}" '
+        f'tvg-logo="{logo}" group-title="{group}",{name}'
+    )
+
+    is_mpd = (channel.get("type") == "dash") or (".mpd" in url.lower())
+
+    if is_mpd:
+        lines.append("#KODIPROP:inputstream=inputstream.adaptive")
+        lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+
+        # Clearkey handling (ALL pairs on a single comma-separated line)
+        clearkey_entries = _collect_clearkey_entries(channel)
+        if clearkey_entries:
+            lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
+            pairs = ",".join(f"{kid}:{key}" for kid, key in clearkey_entries)
+            lines.append(
+                f"#KODIPROP:inputstream.adaptive.license_key={pairs}"
+            )
+        elif channel.get("license_url"):
+            lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
+            lines.append(
+                f"#KODIPROP:inputstream.adaptive.license_key={channel['license_url']}"
+            )
+
+    # Resolve final URL
+    sports_url = sports_cookies.get(channel_id)
+    if sports_url:
+        final_url_with_query = sports_url
+    else:
+        if normal_cookie:
+            sep = "&" if "?" in url else "?"
+            final_url_with_query = f"{url}{sep}{normal_cookie}"
+        else:
+            final_url_with_query = url
+
+    base_url, cookie_query = split_url_query(final_url_with_query)
+
+    # KODIPROP stream_headers
+    if cookie_query:
+        stream_headers = (
+            f"User-Agent={USER_AGENT}"
+            f"&Referer={REFERER}"
+            f"&Origin={ORIGIN}"
+            f"&Cookie={cookie_query}"
+        )
+        lines.append(
+            "#KODIPROP:inputstream.adaptive.stream_headers=" + stream_headers
+        )
+
+    # VLC-style options
+    lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
+    lines.append(f"#EXTVLCOPT:http-referrer={REFERER}")
+    if cookie_query:
+        lines.append(f"#EXTVLCOPT:http-cookie={cookie_query}")
+
+    # EXTHTTP JSON blob
+    if cookie_query:
+        exthttp = {
+            "User-Agent": USER_AGENT,
+            "Referer": REFERER,
+            "Origin": ORIGIN,
+            "Cookie": cookie_query,
+        }
+        lines.append(f"#EXTHTTP:{json.dumps(exthttp)}")
+
+    lines.append(base_url)
+    return "\n".join(lines)
+
+
+def generate_m3u() -> str:
+    try:
+        channels = get_json(CHANNELS_URL)
+    except Exception as e:
+        print(f"❌ Failed to fetch channels: {e}")
+        raise
+
+    normal_cookie = get_normal_cookie()
+    sports_data = get_sports_data()
+
+    print(f"Channels loaded: {len(channels)}")
+    print(f"Sports-specific URLs loaded: {len(sports_data['sportsIds'])}")
+
+    entries = []
+    for ch in channels:
+        entries.append(create_channel_entry(ch, normal_cookie, sports_data["sportsCookies"]))
+
+    print(f"Channels generated: {len(entries)}")
+    return "#EXTM3U\n\n" + "\n\n".join(entries)
+
+
+def upload_to_github(content: str) -> bool:
+    repo_owner = os.environ.get("GITHUB_OWNER")
+    repo_name = os.environ.get("GITHUB_REPO")
+    token = os.environ.get("GITHUB_TOKEN")
+
+    if not all([repo_owner, repo_name, token]):
+        print("⚠️  GitHub credentials missing. Skipping upload.")
+        return False
+    if not UPLOAD_TO_GITHUB:
+        print("⚠️  Upload disabled by UPLOAD_TO_GITHUB flag. Skipping.")
+        return False
+
+    path = "jtvplus3.m3u"
+    api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/contents/{path}"
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "User-Agent": "Python-Script",
+        "Accept": "application/vnd.github.v3+json",
+    }
+
+    existing_resp = requests.get(api_url, headers=headers, timeout=30)
+    sha = None
+    existing_content = ""
+    if existing_resp.status_code == 200:
+        existing_json = existing_resp.json()
+        sha = existing_json.get("sha")
+        if existing_json.get("content"):
+            existing_content = base64.b64decode(existing_json["content"]).decode("utf-8")
+
+    def normalize(s: str) -> str:
+        return s.strip().replace("\r", "")
+
+    if sha and normalize(existing_content) == normalize(content):
+        print("No changes detected. Skipping commit.")
+        return True
+
+    payload = {
+        "message": f"Auto update playlist {datetime.now().isoformat()}",
+        "content": to_base64(content),
+        "sha": sha,
+    }
+    put_resp = requests.put(api_url, headers=headers, json=payload, timeout=30)
+    if not put_resp.ok:
+        print(f"❌ GitHub upload failed: {put_resp.status_code} - {put_resp.text}")
+        return False
+    print(f"✅ GitHub upload successful ({put_resp.status_code})")
+    return True
+
+
+def main(output_file: str = "zio.m3u"):
+    try:
+        m3u = generate_m3u()
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(m3u)
+        print(f"📁 Playlist saved locally as '{output_file}'")
+        upload_to_github(m3u)
+        print("✅ Playlist updated successfully")
+    except Exception as e:
+        print(f"❌ Error: {e}")
+        raise
+
+
+if __name__ == "__main__":
+    main()

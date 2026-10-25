@@ -1,1 +1,57 @@
-IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgVGl0bGU6ICAgU2NpZW50aWZpYyBWaXN1YWxpc2F0aW9uIC0gUHl0aG9uICYgTWF0cGxvdGxpYgojIEF1dGhvcjogIE5pY29sYXMgUC4gUm91Z2llcgojIExpY2Vuc2U6IEJTRAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliLmNvbGxlY3Rpb25zIGltcG9ydCBQb2x5Q29sbGVjdGlvbgoKCmRlZiBmcnVzdHVtKGxlZnQsIHJpZ2h0LCBib3R0b20sIHRvcCwgem5lYXIsIHpmYXIpOgogICAgTSA9IG5wLnplcm9zKCg0LCA0KSwgZHR5cGU9bnAuZmxvYXQzMikKICAgIE1bMCwgMF0gPSArMi4wICogem5lYXIgLyAocmlnaHQgLSBsZWZ0KQogICAgTVsxLCAxXSA9ICsyLjAgKiB6bmVhciAvICh0b3AgLSBib3R0b20pCiAgICBNWzIsIDJdID0gLSh6ZmFyICsgem5lYXIpIC8gKHpmYXIgLSB6bmVhcikKICAgIE1bMCwgMl0gPSAocmlnaHQgKyBsZWZ0KSAvIChyaWdodCAtIGxlZnQpCiAgICBNWzIsIDFdID0gKHRvcCArIGJvdHRvbSkgLyAodG9wIC0gYm90dG9tKQogICAgTVsyLCAzXSA9IC0yLjAgKiB6bmVhciAqIHpmYXIgLyAoemZhciAtIHpuZWFyKQogICAgTVszLCAyXSA9IC0xLjAKICAgIHJldHVybiBNCgoKZGVmIHBlcnNwZWN0aXZlKGZvdnksIGFzcGVjdCwgem5lYXIsIHpmYXIpOgogICAgaCA9IG5wLnRhbigwLjUgKiBucC5yYWRpYW5zKGZvdnkpKSAqIHpuZWFyCiAgICB3ID0gaCAqIGFzcGVjdAogICAgcmV0dXJuIGZydXN0dW0oLXcsIHcsIC1oLCBoLCB6bmVhciwgemZhcikKCgojIERhdGEgcHJvY2Vzc2luZwpWLCBGID0gW10sIFtdCndpdGggb3BlbigiYnVubnkub2JqIikgYXMgZjoKICAgIGZvciBsaW5lIGluIGYucmVhZGxpbmVzKCk6CiAgICAgICAgaWYgbGluZS5zdGFydHN3aXRoKCIjIik6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgdmFsdWVzID0gbGluZS5zcGxpdCgpCiAgICAgICAgaWYgbm90IHZhbHVlczoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiB2YWx1ZXNbMF0gPT0gInYiOgogICAgICAgICAgICBWLmFwcGVuZChbZmxvYXQoeCkgZm9yIHggaW4gdmFsdWVzWzE6NF1dKQogICAgICAgIGVsaWYgdmFsdWVzWzBdID09ICJmIjoKICAgICAgICAgICAgRi5hcHBlbmQoW2ludCh4KSBmb3IgeCBpbiB2YWx1ZXNbMTo0XV0pClYsIEYgPSBucC5hcnJheShWKSwgbnAuYXJyYXkoRikgLSAxCgpWID0gKFYgLSAoVi5tYXgoMCkgKyBWLm1pbigwKSkgLyAyKSAvIG1heChWLm1heCgwKSAtIFYubWluKDApKQpWID0gbnAuY19bViwgbnAub25lcyhsZW4oVikpXSBAIHBlcnNwZWN0aXZlKDI1LCAxLCAxLCAxMDApLlQKViAvPSBWWzosIDNdLnJlc2hhcGUoLTEsIDEpClQgPSBWW0ZdWy4uLiwgOjJdCgojIFJlbmRlcmluZwpmaWcgPSBwbHQuZmlndXJlKGZpZ3NpemU9KDYsIDYpKQpheCA9IGZpZy5hZGRfYXhlcyhbMCwgMCwgMSwgMV0sIHhsaW09Wy0xLCArMV0sIHlsaW09Wy0xLCArMV0sIGFzcGVjdD0xLCBmcmFtZW9uPUZhbHNlKQpjb2xsZWN0aW9uID0gUG9seUNvbGxlY3Rpb24oCiAgICBULCBjbG9zZWQ9VHJ1ZSwgbGluZXdpZHRoPTAuMSwgZmFjZWNvbG9yPSJOb25lIiwgZWRnZWNvbG9yPSJibGFjayIKKQpheC5hZGRfY29sbGVjdGlvbihjb2xsZWN0aW9uKQpwbHQuc2F2ZWZpZygiLi4vLi4vZmlndXJlcy90aHJlZWQvYnVubnktMi5wZGYiKQpwbHQuc2hvdygpCg==
+# ----------------------------------------------------------------------------
+# Title:   Scientific Visualisation - Python & Matplotlib
+# Author:  Nicolas P. Rougier
+# License: BSD
+# ----------------------------------------------------------------------------
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.collections import PolyCollection
+
+
+def frustum(left, right, bottom, top, znear, zfar):
+    M = np.zeros((4, 4), dtype=np.float32)
+    M[0, 0] = +2.0 * znear / (right - left)
+    M[1, 1] = +2.0 * znear / (top - bottom)
+    M[2, 2] = -(zfar + znear) / (zfar - znear)
+    M[0, 2] = (right + left) / (right - left)
+    M[2, 1] = (top + bottom) / (top - bottom)
+    M[2, 3] = -2.0 * znear * zfar / (zfar - znear)
+    M[3, 2] = -1.0
+    return M
+
+
+def perspective(fovy, aspect, znear, zfar):
+    h = np.tan(0.5 * np.radians(fovy)) * znear
+    w = h * aspect
+    return frustum(-w, w, -h, h, znear, zfar)
+
+
+# Data processing
+V, F = [], []
+with open("bunny.obj") as f:
+    for line in f.readlines():
+        if line.startswith("#"):
+            continue
+        values = line.split()
+        if not values:
+            continue
+        if values[0] == "v":
+            V.append([float(x) for x in values[1:4]])
+        elif values[0] == "f":
+            F.append([int(x) for x in values[1:4]])
+V, F = np.array(V), np.array(F) - 1
+
+V = (V - (V.max(0) + V.min(0)) / 2) / max(V.max(0) - V.min(0))
+V = np.c_[V, np.ones(len(V))] @ perspective(25, 1, 1, 100).T
+V /= V[:, 3].reshape(-1, 1)
+T = V[F][..., :2]
+
+# Rendering
+fig = plt.figure(figsize=(6, 6))
+ax = fig.add_axes([0, 0, 1, 1], xlim=[-1, +1], ylim=[-1, +1], aspect=1, frameon=False)
+collection = PolyCollection(
+    T, closed=True, linewidth=0.1, facecolor="None", edgecolor="black"
+)
+ax.add_collection(collection)
+plt.savefig("../../figures/threed/bunny-2.pdf")
+plt.show()

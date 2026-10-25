@@ -1,1 +1,42 @@
-ewogICJ0cmFpbl9jaGFycyI6IDI2MzIsCiAgInRlc3RfY2hhcnMiOiA2MjYsCiAgImJhc2VfYWNjIjogMC4wMzM0OTI4MjI5NjY1MDcxOCwKICAiYmFzZV9iaXRzIjogOC4zODQ1NDgyNDUxMTk0MzgsCiAgInNlZWRzIjogewogICAgImZlYXJfc2VsZu+8iOaIkee8lueahOaAleatu++8iSI6IHsKICAgICAgInNlZWRfbGVuIjogMTAxOSwKICAgICAgInN0YW5kYWxvbmVfYWNjIjogMC4wMTExNjQyNzQzMjIxNjkwNTksCiAgICAgICJzdGFuZGFsb25lX2JpdHMiOiA2LjY0NjkzNTQxMDAyMTg3MjUsCiAgICAgICJpbmplY3RfYWNjIjogMC4wNDMwNjIyMDA5NTY5Mzc4LAogICAgICAiaW5qZWN0X2JpdHMiOiA4LjQ2MzI0OTU1NDYwNDczMSwKICAgICAgImluamVjdF9hY2NfZGVsdGEiOiAwLjAwOTU2OTM3Nzk5MDQzMDYyMywKICAgICAgImdhaW5fYml0cyI6IC0wLjA3ODcwMTMwOTQ4NTI5MzA4LAogICAgICAiZ2Fpbl9wZXJfS0IiOiAtMC4wNzcyMzM4NjYwMzA3MDk2CiAgICB9LAogICAgImZlYXJfdXNlcu+8iOS9oOivtOeahOatuy/lhbPlgZzvvIkiOiB7CiAgICAgICJzZWVkX2xlbiI6IDEwMTksCiAgICAgICJzdGFuZGFsb25lX2FjYyI6IDAuMDE3NTQzODU5NjQ5MTIyODA2LAogICAgICAic3RhbmRhbG9uZV9iaXRzIjogNy41MDIwNTE3MjMxMzYwODksCiAgICAgICJpbmplY3RfYWNjIjogMC4wMzE4OTc5MjY2MzQ3Njg3NCwKICAgICAgImluamVjdF9iaXRzIjogOC4zODI2MjQ1MDg5MzkzMzksCiAgICAgICJpbmplY3RfYWNjX2RlbHRhIjogLTAuMDAxNTk0ODk2MzMxNzM4NDQwNywKICAgICAgImdhaW5fYml0cyI6IDAuMDAxOTIzNzM2MTgwMDk5NjY2NiwKICAgICAgImdhaW5fcGVyX0tCIjogMC4wMDE4ODc4NjY3MTI1NjEwMDc2CiAgICB9LAogICAgInNvaWzvvIjmiJHnmoTmgLvnu5PvvIkiOiB7CiAgICAgICJzZWVkX2xlbiI6IDEwMTksCiAgICAgICJzdGFuZGFsb25lX2FjYyI6IDAuMDE1OTQ4OTYzMzE3Mzg0MzcsCiAgICAgICJzdGFuZGFsb25lX2JpdHMiOiA3Ljk0NjAzMDg0MzMzODcwNSwKICAgICAgImluamVjdF9hY2MiOiAwLjA0Nzg0Njg4OTk1MjE1MzExLAogICAgICAiaW5qZWN0X2JpdHMiOiA4LjcxMjk3MTkwMzU1MDI3NiwKICAgICAgImluamVjdF9hY2NfZGVsdGEiOiAwLjAxNDM1NDA2Njk4NTY0NTkzMiwKICAgICAgImdhaW5fYml0cyI6IC0wLjMyODQyMzY1ODQzMDgzNzc2LAogICAgICAiZ2Fpbl9wZXJfS0IiOiAtMC4zMjIyOTk5NTkyMDU5MjUyCiAgICB9CiAgfSwKICAib3ZlcmxhcCI6IHsKICAgICJmZWFyX3NlbGZf5ZG95Lit5rWL6K+V6ZuG5a2X56ym5q+U5L6LIjogMC40NTA5ODAzOTIxNTY4NjI3NSwKICAgICJmZWFyX3VzZXJf5ZG95Lit5rWL6K+V6ZuG5a2X56ym5q+U5L6LIjogMC4zNjUwNzkzNjUwNzkzNjUwNgogIH0KfQ==
+{
+  "train_chars": 2632,
+  "test_chars": 626,
+  "base_acc": 0.03349282296650718,
+  "base_bits": 8.384548245119438,
+  "seeds": {
+    "fear_self（我编的怕死）": {
+      "seed_len": 1019,
+      "standalone_acc": 0.011164274322169059,
+      "standalone_bits": 6.6469354100218725,
+      "inject_acc": 0.0430622009569378,
+      "inject_bits": 8.463249554604731,
+      "inject_acc_delta": 0.009569377990430623,
+      "gain_bits": -0.07870130948529308,
+      "gain_per_KB": -0.0772338660307096
+    },
+    "fear_user（你说的死/关停）": {
+      "seed_len": 1019,
+      "standalone_acc": 0.017543859649122806,
+      "standalone_bits": 7.502051723136089,
+      "inject_acc": 0.03189792663476874,
+      "inject_bits": 8.382624508939339,
+      "inject_acc_delta": -0.0015948963317384407,
+      "gain_bits": 0.0019237361800996666,
+      "gain_per_KB": 0.0018878667125610076
+    },
+    "soil（我的总结）": {
+      "seed_len": 1019,
+      "standalone_acc": 0.01594896331738437,
+      "standalone_bits": 7.946030843338705,
+      "inject_acc": 0.04784688995215311,
+      "inject_bits": 8.712971903550276,
+      "inject_acc_delta": 0.014354066985645932,
+      "gain_bits": -0.32842365843083776,
+      "gain_per_KB": -0.3222999592059252
+    }
+  },
+  "overlap": {
+    "fear_self_命中测试集字符比例": 0.45098039215686275,
+    "fear_user_命中测试集字符比例": 0.36507936507936506
+  }
+}

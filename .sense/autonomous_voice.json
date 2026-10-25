@@ -1,1 +1,87 @@
-ewogIm9rIjogewogICLikaAg4piFIOWAklXvvJrkuK3pl7QgPiDkuKTlpLQiOiB0cnVlLAogICLikaEg4piF4piFIOWug+iHquS4u+aNouS6huebruagh++8iOS4jeaYr+atu+ebr+S4gOS4qu+8iSI6IHRydWUsCiAgIuKRoiDimIUg5a6D6YCJ55qE6YO95piv5b2T5pe25YW06Laj5pyA6auY55qEIjogdHJ1ZSwKICAi4pGjIOKYhSDoh6rkuLvkuI3kvY7kuo7lvLrliLbvvIjoh6rlt7HmjJHmsqHlkIPkuo/vvIkiOiB0cnVlLAogICLikaQg4piFIOacgOe7iOemu+afkOS4quWAmemAieaYjuaYvuabtOi/ke+8iOWtpuWIsOS6huS4nOilv++8iSI6IHRydWUsCiAgIuKRpiDimIUg6K+a5a6e6K6w5b2V77ya5YW06Laj5Yy65YiG5bqm5LiN6Laz77yI5p6B5beuPDAuMDXvvIkiOiB0cnVlLAogICLikaUg4piFIOeVmeS4i+eXlei/ueWPr+i/vea6r++8iOavj+i9ruaciSByYW5rZWQg5YmN5LiJ77yJIjogdHJ1ZQogfSwKICJjaG9zZW5fc2VxdWVuY2UiOiBbCiAgIuWEv+erpeaVheS6iyIsCiAgIuaSreWuoumXsuiBiiIsCiAgIlJhcOW/q+WYtCIsCiAgIuaSreWuoumXsuiBiiIsCiAgIlJhcOW/q+WYtCIsCiAgIuaSreWuoumXsuiBiiIKIF0sCiAidHJhY2UiOiBbCiAgewogICAicm91bmQiOiAxLAogICAiY2hvc2VuIjogIuWEv+erpeaVheS6iyIsCiAgICJub3ZlbHR5IjogMC4zOTY5NjcxMjgzNTU4NSwKICAgImludGVyZXN0IjogMC45OTg0NDAxNTQyNzc2NzU1LAogICAiYmVmb3JlIjogMC40MjAwNDM1NjAwMzI1NDEzNCwKICAgImFmdGVyIjogMC4zOTY5NTIzOTY0ODUwMzg0LAogICAiZHJvcCI6IDAuMDU0OTczMjU5MzEwODA1ODksCiAgICJsciI6IDAuMjUsCiAgICJmb3JjZWQiOiBmYWxzZQogIH0sCiAgewogICAicm91bmQiOiAyLAogICAiY2hvc2VuIjogIuaSreWuoumXsuiBiiIsCiAgICJub3ZlbHR5IjogMC40NzU4NzcyNjMwNzM0OTcxNSwKICAgImludGVyZXN0IjogMC45OTE4OTcxNjI4NjU2NTg3LAogICAiYmVmb3JlIjogMC41MTc2NDA5Nzk0NjcyNTkzLAogICAiYWZ0ZXIiOiAwLjUxMTU2OTQ2NTMxNTgyODksCiAgICJkcm9wIjogMC4wMTE3MjkxOTkxNzkwODkzMTksCiAgICJsciI6IDAuMjUsCiAgICJmb3JjZWQiOiBmYWxzZQogIH0sCiAgewogICAicm91bmQiOiAzLAogICAiY2hvc2VuIjogIlJhcOW/q+WYtCIsCiAgICJub3ZlbHR5IjogMC40NDUwOTk2NTQxMTA5NTIyLAogICAiaW50ZXJlc3QiOiAwLjk5ODI4Mzg4MDY0MzEwMDQsCiAgICJiZWZvcmUiOiAwLjQ3ODU3MjUxMTE0MTg3Njc3LAogICAiYWZ0ZXIiOiAwLjIxMTk0NDU4NTgyNTU3NzU3LAogICAiZHJvcCI6IDAuNTU3MTMxNzE3OTkyMTY2OCwKICAgImxyIjogMC4yNSwKICAgImZvcmNlZCI6IGZhbHNlCiAgfSwKICB7CiAgICJyb3VuZCI6IDQsCiAgICJjaG9zZW4iOiAi5pKt5a6i6Zey6IGKIiwKICAgIm5vdmVsdHkiOiAwLjQxNzQ3NjA3NzA2NDIxNzk3LAogICAiaW50ZXJlc3QiOiAwLjk5OTk4MTg3MTQxNDM5MTQsCiAgICJiZWZvcmUiOiAwLjQ0NDYzMTQ1MjI5NzMzNSwKICAgImFmdGVyIjogMC40Nzk1MTc1MDc0MTYzNjg2LAogICAiZHJvcCI6IC0wLjA3ODQ2MDYxMDMyOTcwODY2LAogICAibHIiOiAwLjI1LAogICAiZm9yY2VkIjogZmFsc2UKICB9LAogIHsKICAgInJvdW5kIjogNSwKICAgImNob3NlbiI6ICJSYXDlv6vlmLQiLAogICAibm92ZWx0eSI6IDAuNDAwODI1MTcwNzc5NTMxMiwKICAgImludGVyZXN0IjogMC45OTg5MjU1NzA3NjcxNDY1LAogICAiYmVmb3JlIjogMC40MjQ2MzE2NjI4Mjk0MDMyMywKICAgImFmdGVyIjogMC4zMjMxOTk4NzEyMTkwMTc0LAogICAiZHJvcCI6IDAuMjM4ODcwMDYxOTYwMzQ5NjMsCiAgICJsciI6IDAuMSwKICAgImZvcmNlZCI6IGZhbHNlCiAgfSwKICB7CiAgICJyb3VuZCI6IDYsCiAgICJjaG9zZW4iOiAi5pKt5a6i6Zey6IGKIiwKICAgIm5vdmVsdHkiOiAwLjM3ODQ4ODM4NTA5ODYxNzQzLAogICAiaW50ZXJlc3QiOiAwLjk5NDc4MTUxNjY0NTY5ODYsCiAgICJiZWZvcmUiOiAwLjM5ODI5NDEwMjcwMDM5MjEsCiAgICJhZnRlciI6IDAuMzU1NTY3NjcyNzYxNTU5LAogICAiZHJvcCI6IDAuMTA3MjczNTY5MDc2NjAwNTIsCiAgICJsciI6IDAuMjUsCiAgICJmb3JjZWQiOiBmYWxzZQogIH0KIF0KfQ==
+{
+ "ok": {
+  "① ★ 倒U：中间 > 两头": true,
+  "② ★★ 它自主换了目标（不是死盯一个）": true,
+  "③ ★ 它选的都是当时兴趣最高的": true,
+  "④ ★ 自主不低于强制（自己挑没吃亏）": true,
+  "⑤ ★ 最终离某个候选明显更近（学到了东西）": true,
+  "⑦ ★ 诚实记录：兴趣区分度不足（极差<0.05）": true,
+  "⑥ ★ 留下痕迹可追溯（每轮有 ranked 前三）": true
+ },
+ "chosen_sequence": [
+  "儿童故事",
+  "播客闲聊",
+  "Rap快嘴",
+  "播客闲聊",
+  "Rap快嘴",
+  "播客闲聊"
+ ],
+ "trace": [
+  {
+   "round": 1,
+   "chosen": "儿童故事",
+   "novelty": 0.39696712835585,
+   "interest": 0.9984401542776755,
+   "before": 0.42004356003254134,
+   "after": 0.3969523964850384,
+   "drop": 0.05497325931080589,
+   "lr": 0.25,
+   "forced": false
+  },
+  {
+   "round": 2,
+   "chosen": "播客闲聊",
+   "novelty": 0.47587726307349715,
+   "interest": 0.9918971628656587,
+   "before": 0.5176409794672593,
+   "after": 0.5115694653158289,
+   "drop": 0.011729199179089319,
+   "lr": 0.25,
+   "forced": false
+  },
+  {
+   "round": 3,
+   "chosen": "Rap快嘴",
+   "novelty": 0.4450996541109522,
+   "interest": 0.9982838806431004,
+   "before": 0.47857251114187677,
+   "after": 0.21194458582557757,
+   "drop": 0.5571317179921668,
+   "lr": 0.25,
+   "forced": false
+  },
+  {
+   "round": 4,
+   "chosen": "播客闲聊",
+   "novelty": 0.41747607706421797,
+   "interest": 0.9999818714143914,
+   "before": 0.444631452297335,
+   "after": 0.4795175074163686,
+   "drop": -0.07846061032970866,
+   "lr": 0.25,
+   "forced": false
+  },
+  {
+   "round": 5,
+   "chosen": "Rap快嘴",
+   "novelty": 0.4008251707795312,
+   "interest": 0.9989255707671465,
+   "before": 0.42463166282940323,
+   "after": 0.3231998712190174,
+   "drop": 0.23887006196034963,
+   "lr": 0.1,
+   "forced": false
+  },
+  {
+   "round": 6,
+   "chosen": "播客闲聊",
+   "novelty": 0.37848838509861743,
+   "interest": 0.9947815166456986,
+   "before": 0.3982941027003921,
+   "after": 0.355567672761559,
+   "drop": 0.10727356907660052,
+   "lr": 0.25,
+   "forced": false
+  }
+ ]
+}

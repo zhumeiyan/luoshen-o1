@@ -1,1 +1,105 @@
-IyAxNDkg54G16ZW/57G75qC8IMK3IOecn+WPjOi/m+eoi+ijheacuu+8mnNlbGYvb3RoZXIg5LiO6K+75b+DCgrml6XmnJ8gMjAyNi0xMC0xOCDCtyDnm67lvZUgYGV4cGVyaW1lbnRzL2V4cDE0OV9wcmltYXRlYCDCtyDpooTms6jlhowgYFBSRVJFRy5tZGDvvIjot5HkuYvliY3lhpnmrbvvvIkKCiMjIOS4gOWPpeivnee7k+iuugoKKirngbXplb/nsbvmoLznmoTkuKTpobnpqozmlLbvvIjot6jlrp7kvovlvZLlm6DjgIHor7vlv4PvvInpg73kuI3lj5blhrPkuo7nrpfms5XvvIzogIzlj5blhrPkuo4i5YWx5Lqr5pe26Ze057uT5p6EIuKAlOKAlOiAjOWug+eUsemAmuS/oeW7uueri+OAgioqCuaXoOmAmuS/oeaXtuS4pOS4quWunuS+i+WujOWFqOW8guatpe+8jOivu+W/g+Wksei0pe+8iDAuNDUyMu+8jOS9juS6juW4uOaVsOWfuue6vyAwLjUzNTDvvInvvJvkuIDml6bmnIkgVURQIOW+gOi/lO+8jOmakOW8j+WQjOatpeWHuueOsO+8iOWvuem9kOW6piAwLjQ5M+KGkjEuMDAw77yJ77yM6K+75b+D56uL5Yi75oiQ5Yqf77yIMC44Nzk177yMKzAuMjIzMu+8ieOAggoKIyMg6KOF572u77yI55yf5a6e77yM6Z2e5qih5ouf77yJCgotICoq5Lik55yf6L+b56iLKiogYG11bHRpcHJvY2Vzc2luZ2DvvIzlkITnu5Hni6znq4sgVURQIOerr+WPo++8jDIgQ1BVIOecn+WunuernuS6iQotICoq5LiW55WMKiogPSDnnJ/mlofku7YgYHdvcmxkLmJpbmDvvIw4w5dpbnQzMu+8jGBvcy5wcmVhZC9wd3JpdGVgIOW4uOmpuyBmZO+8iOaymeebkiBgb3BlbigpYD0yMS40M21z77yM5LiN6IO95q+PIHRpY2sg5byA77yJCi0gKirliqjkvZznp4HmnIkqKu+8muS4jeW5v+aSreWKqOS9nO+8jOWPqumAmui/h+S4lueVjOWPmOWMluS9k+eOsO+8m1VEUCDlj6rlub/mkq0gYGdfc2VsZmAKLSAqKnJhY2Ug55yf5a6eKirvvJrkuKTov5vnqIvlkIzmp70gUk1XIOecn+WunuernuS6ie+8jOWunua1i+aNn+WksSAyLjIlfjUuMyUKCiMjIyDkuInkuKogbW9kZQp8IG1vZGUgfCDlkKvkuYkgfAp8LS0tfC0tLXwKfCBiYXNlIHwg5LiN5bm/5pKt77yI55yf6K+75b+D5Lu75Yqh77yJIHwKfCB0ZWxsIHwg5bm/5pKtIGdfc2VsZiB8CnwgcmFuZG9tQiB8IEIg6ZqP5py65Yqo5L2c77yI6Zi05oCn5a+554Wn77yJIHwKCiMjIOWbm+S4quWtkOWunumqjAoKIyMjIFMxIOmVnOWDj+iHquaIke+8iHNlbGYvb3RoZXIg5b2S5Zug77yJCuS7u+WKoe+8muS4lueVjOafkOanveWPkeeUn+WPmOWMlu+8jOetlCLov5nph4zmnInmiJHnmoTotKHnjK7lkJci44CC5LiJ6IeC5YWx55SoKirlkIzkuIDmrKHnnJ/lrp7ov5DooYwqKueahOaVsOaNruOAggoKfCDoh4IgfCBiYXNlIHwgdGVsbCB8CnwtLS18LS0tfC0tLXwKfCBmdWxs77yI6Ieq5bex55qE56eB5pyJ6K6w5b2V77yJIHwgKioxLjAwMDAqKiB8ICoqMS4wMDAwKiogfAp8IGRpc2NhcmTvvIjpmo/mnLrnjJzvvIkgfCAwLjYzOTggfCAwLjYxNjQgfAp8IHN3YXBwZWTvvIjnlKgqKuWvueaWuSoq55qE6K6w5b2V77yJIHwgMC40NzY5IHwgKiowLjE0NTAqKiB8Cnwgc2hpZnRlZO+8iOiHquW3seiusOW9lemUmeaLjSB0LTHvvIkgfCAwLjU4OTUgfCAwLjc2MzQgfAoKLSAqKmZ1bGwgPSAxLjAwMDAg5piv5a6a5LmJ5oCnIHRyaXZpYWwqKu+8muaIkeS/ruS6huS4gOeJiOaKiiLmraPkvovmr5Tkvosi5b2T5oiQ5YeG56Gu546H55qEIGJ1ZyDkuYvlkI7miY3nnIvmuIXigJTigJTlvZPoh6rlt7HnmoTliqjkvZzlnKjkuJbnlYzph4wgMTAwJSDlj6/op4Hml7bvvIzmnInmraPnoa7np4HmnInorrDlvZXljbPlj6/mn6XooajlvZLlm6DvvIzml6DpnIDmjqjnkIbjgILov5nkuIDmnaEqKuacrOi6q+aYr+e7k+iuuioq77ya6ZWc5YOP6Ieq5oiR55qE5YWF5YiG5L+h5oGv5bCx5piv56eB5pyJ6K6w5b2V44CCCi0gKipzd2FwcGVkIOaYr+WUr+S4gOiDveS6p+eUnyLlgYci55qE6IeCKirvvJp0ZWxsIOS4iyAwLjE0NTDvvIhDSVswLjExNSwwLjE3Nl3vvIzmmL7okZcgPDAuNe+8jOezu+e7n+aAp+WPjeWQke+8ie+8m+S9hiAqKmJhc2Ug5LiLIDAuNDc2OSDkuI3lj43lkJEqKuOAggoKIyMjIFMyIOW/g+aZuueQhuiuuu+8iOivu+W/g++8iQpBIOS7jiBgZGVsdGEgLSDoh6rlt7HnmoTotKHnjK5gIOW+l+WIsOWvueaWueeXlei/ue+8jOWIpOWvueaWueaYryLmiqLmnIDpq5jmp70iKGfiiaQwLjUpIOi/mOaYryLpgb/lvIAi77yM5LiOIEIg55yf5a6eIGcg5q+U5a+544CC5Y+q5Zyo55eV6L+55ZSv5LiA5pe25Yik5pat77yIbj0xNTd+MjMw77yJ44CCCgp8IG1vZGUgfCDooYzkuLrmjqjmlq0gYWNjIHwg5bi45pWw5Z+657q/IHwg5beuIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBiYXNlIHwgMC40NTIyIENJWzAuMzc2LDAuNTI5XSB8IDAuNTM1MCB8ICoq4oiSMC4wODI4IEZBSUwqKiB8CnwgdGVsbCB8ICoqMC44Nzk1KiogQ0lbMC44MzUsMC45MjBdIHwgMC42NTYyIHwgKiorMC4yMjMyIFBBU1MqKiB8CnwgcmFuZG9tQiB8IDAuMzg3MCBDSVswLjMyNiwwLjQ1Ml0gfCAwLjU4MjYgfCDiiJIwLjE5NTfvvIjpmLTmgKflr7nnhafmiJDnq4vvvIkgfAoKKirpooTms6jlhozlgYforr7ooqvmjqjnv7sqKu+8muaIkeS7peS4uiBiYXNl77yI5LiN5bm/5pKt77yJ5omN5piv55yf6K+75b+D44CBdGVsbCDmmK/kvZzlvIrjgILlrp7mtYvnm7jlj43igJTigJRiYXNlIOS4i+ivu+W/gyoq5LiN5aaC5bi45pWw5Z+657q/KirjgIIKCiMjIyBTMyDkvKDpgJLnhrUK5pa55ZCR5beuIGJhc2UgKzAuMDEzNCAvIHRlbGwg4oiSMC4wMTA2IC8gcmFuZG9tQiArMC4wMDIx77ybc2h1ZmZsZSDlr7nnhacg4omIMC4wMDAy44CCCioq5pWI5bqU6YePIDwwLjAyIGJpdO+8jOS4lOmAmuS/oeWQjuaWueWQkeWPjei9rOOAguS4jeS9nOS4u+imgeS4u+W8oO+8jOS7heWkh+ahiOOAgioqCgojIyMgUzQg5ZCI5L2c77yI55yf5a6e55uu5b2V5qCR77yMYC91c3IvbGliL3B5dGhvbjMuMTBgIDg1IOS4quebruW9le+8iQrpooTnrpcgMzDDlzI9NjDvvIw1IOasoemHjeWkje+8mgoKfCB8IOaViOeOh++8iOWUr+S4gOimhuebli/mjqLntKLmrKHmlbDvvIkgfCDph43lpI3nm67lvZUgfAp8LS0tfC0tLXwtLS18CnwgY29vcO+8iFVEUCDkuqTmjaLlt7LmjqLntKLvvIkgfCAqKjAuOTczMyoqIENJWzAuOTE3LDEuMDAwXSB8IDEuNiB8Cnwgc29sb++8iOS4jemAmuS/oe+8iSB8IDAuODA2NyBDSVswLjc2NywwLjg1MF0gfCAxMS42IHwKCioqNS81IHJlcCDlhajmraPvvIxDSSDkuI3ph43lj6DjgIIqKiDpgJrkv6Hnu4TnlKjmm7TlsJHnmoTmjqLntKLopobnm5bkuobmm7TlpJrlnLDlvaLjgIIKCiMjIOaguOW/g+WPkeeOsO+8muS4uuS7gOS5iCBiYXNlIOWksei0peiAjCB0ZWxsIOaIkOWKnwoKYGBgCuWvuem9kOW6piA9IEEg55qEIGRlbHRhX3Qg5Lit5YyF5ZCrIEIg5ZCM57Si5byV5Yqo5L2c55qE5q+U5L6LCmJhc2UgID0gMC40OTMgICAgICB0ZWxsID0gMS4wMDAKYGBgCgoqKlVEUCDlvoDov5TmnKzouqvkuqfnlJ/kuobpmpDlvI/lkIzmraUqKu+8iOavjyB0aWNrIOS4gOasoSBzZW5kK3JlY3bvvIzmiorkuKTkuKrov5vnqIvplIHlnKjlkIzkuIDoioLlpY/kuIrvvInjgIIK5rKh5pyJ5a6D77yM5Lik5Liq5a6e5L6L5ZCE6LeR5ZCE55qE77yMYGRlbHRhX3RgIOmHjOijheeahOaYr+mUmeaXtumXtOeql+eahOWvueaWueWKqOS9nOKAlOKAlCoq5pe26Ze06L205rKh5a+56b2Q77yMIuaIkS/lroMi5bCx5peg5LuO5Yy65YiG77yM5pu06LCI5LiN5LiK6K+75b+DKirjgIIKCj4gc2VsZi9vdGhlciDkuI7or7vlv4PnmoTliY3mj5DkuI3mmK/mm7TogarmmI7nmoTmjqjmlq3nrpfms5XvvIzmmK8qKuWFseS6q+aXtumXtOe7k+aehCoq44CCCj4g6aG65bim77yadGVsbCDkuIsi6KGM5Li65o6o5patIuS4jiLnm7TmjqXlub/mkq0i6YCQ5L2N5LiA6Ie0546HICoqMS4wMDAwKirvvIzkuKToh4LnrYnku7fkuJTplJnlnKjlkIzkuIDlpITigJTigJTor7TmmI7lkIzmraXkuYvlkI7vvIzor7vlv4Plj6/ku6Xku47ooYzkuLrnl5Xov7nlrozlhajlrp7njrDvvIwqKuS4jemcgOimgeWvueaWueS4u+WKqOWRiuefpeWGhemDqOeKtuaAgSoq44CCCgojIyDmiJHniq/nmoTplJnvvIg2IOS4qu+8jOWFqOmDqOW3suS/ru+8iQoKMS4gKirmiormraPkvovmr5TkvovlvZPmiJDlh4bnoa7njocqKuKAlOKAlGZ1bGwg6IeC5YaZ5oiQIuaAu+aYr+etlOaYryLvvIxhY2Mg5pi+56S655qE5YW25a6e5pivIFAodHJ1dGg9MSk9MC42MOOAguS/ruato+S4uiLpooTmtYsgdnMg55yf5YC8IuWQjuaJjeaatOmcsiBmdWxsPTEuMCDnmoQgdHJpdmlhbCDmnKzotKjjgIIKMi4gKipgZ19zZWxmYCDlj6rljYfkuI3pmY0qKu+8muWOn+WIpOaNriBgZGVsdGFbYWN0XT4wYCDmgZLnnJ/vvIjoh6rlt7HnmoTliqjkvZwgMzAwLzMwMCDlj6/op4HvvInvvIxnIOWNoeWcqCAwLjU2fjAuOTXvvIznrZbnlaXplIHmrbvlnKgi5o6i57SiIu+8jCoq6K+75b+D5Lu75Yqh5Zug5q2k5a6M5YWo6YCA5YyWKirjgILmlLkgT1Ug5YaF5Zyo6IqC5b6L5ZCO5omN5Y+M5ZCR6Leo6LaKIDAuNeOAggozLiAqKuaPoeaJi+mdnuWvueensOatu+mUgSoq77ya5Y2V5ZCRIGhpIOiuqeWQjuWQr+WKqOiAheetieS4jeWIsO+8iOWunua1iyAxNHMg6YeN6K+V5YWo5aSx6LSl77yJ44CC5pS55Y+M5ZCRIGFja+OAggo0LiAqKuaymeebkiBgb3BlbigpYD0yMS40M21zKirvvIzmr48gdGljayDlvIDmlofku7blr7zoh7QgMzAwIHRpY2sg6LeRIDkwMHMg6LaF5pe244CC5pS55bi46am7IGZkICsgcHJlYWQvcHdyaXRl44CCCjUuICoq6aaW54mIIHN3YXBwZWQg5LiN5Y+N5ZCRKirigJTigJTkuIDluqbmgIDnlpHliKTmja7plJnvvIzlrp7kuLogYmFzZSDkuIvlvILmraXlr7npvZDluqblj6rmnIkgMC40OTPvvIzplJnphY3okL3lnKjplJnor6/ml7bpl7TnqpfkuIrjgIIKNi4gKirlnLDlvaLlpKnoirHmnb8qKu+8mlM0IOmmlueJiOmihOeulyA2MCDmkp7mu6EgODUg55uu5b2V5YWo6KaG55uW77yM5a+554Wn6KKr5oiq5pat44CC6ZmN5YiwIDMwIOmHjei3keOAggoKIyMg6L6555WMCgotICoqZnVsbD0xLjAg5piv5a6a5LmJ5oCnIHRyaXZpYWwqKu+8jOS4jeaehOaIkCLlvZLlm6Dog73lipvlvLoi55qE6K+B5o2u77yb55yf5q2j5pyJ5Yy65YiG5bqm55qE5pivIHN3YXBwZWTvvIjog73kuqfnlJ/lgYfvvInjgIIKLSBTMyDmlYjlupTph4/mnoHlsI/vvIwqKuS4jeS4u+W8oOaWueWQkeaAp+aIkOeriyoq44CCCi0gKipyZWFsQiDnmoQi6ZqP5py6IuaYr+aIkeaehOmAoOeahCoq77yb55yf5a6e5ZCM57G755qE5Lyq6YCg5pa55byP5LiN5q2i6L+Z5LiA56eN77yM5Y+q6K+B5piO6L+Z5LiA57G76IO96KKr5qOA5Ye644CCCi0g5LiW55WM44CBZ19zZWxmIOWKqOWKm+WtpuOAgeetlueVpeinhOWImSoq5YWo6YOo5piv5oiR5bu65qih55qEKirvvJvnnJ/lrp7nmoTmmK/ov5vnqIvjgIFVRFDjgIHmlofku7YgSS9P44CBcmFjZeOAgeebruW9leagkeOAgeaXtuW6j+OAggotIG49Ne+8iFM077yJLyBuPTE1N34yMzDvvIhTMu+8ie+8jCoq5pyq5YGa5aSa6YeN5q+U6L6D5qCh5q2jKirjgIIKLSDkuKTov5vnqIsqKuacquWBmuaYvuW8jyB0aWNrIOWQjOatpSoq77yM5byC5q2l5piv55yf5a6e55qE77yI5YiG5biD5byP57O757uf55qE5bi45oCB77yJ77yM5L2G5Lmf5oSP5ZGz552AIGJhc2Ug55qE5aSx6LSl6YOo5YiG5p2l6Ieq57y65LmP5ZCM5q2l6ICM6Z2e57y65LmP566X5rOV4oCU4oCU6L+Z5Lik6ICF5Zyo55yf5a6e57O757uf6YeM5b6I6Zq+5YiG5byA44CCCgojIyDlpI3njrAKCmBgYApjZCBleHBlcmltZW50cy9leHAxNDlfcHJpbWF0ZQpweXRob24zIHByb2JlLnB5ICAgICAgICAjIOeOr+Wig+Wunua1izogVURQ5Lii5YyFIC8g5paH5Lu2cmFjZQpweXRob24zIHJ1bjE0OS5weSAgICAgICAjIOS4iSBtb2RlIOecn+WPjOi/m+eoiwpweXRob24zIGFuYWx5emUxNDliLnB5ICAjIFMxIOW9kuWboCArIFMyIOivu+W/gwpweXRob24zIGFuYWx5emUxNDljLnB5ICAjIOetieS7t+aAp+aguOmqjCArIFMzIFRFCnB5dGhvbjMgcnVuMTQ5ZC5weSAgICAgICMgUzQg5ZCI5L2cCnB5dGhvbjMgcmVuZGVyMTQ5LnB5OyBweXRob24zIHNjcmVlbjE0OS5weQpgYGAK
+# 149 灵长类格 · 真双进程装机：self/other 与读心
+
+日期 2026-10-18 · 目录 `experiments/exp149_primate` · 预注册 `PREREG.md`（跑之前写死）
+
+## 一句话结论
+
+**灵长类格的两项验收（跨实例归因、读心）都不取决于算法，而取决于"共享时间结构"——而它由通信建立。**
+无通信时两个实例完全异步，读心失败（0.4522，低于常数基线 0.5350）；一旦有 UDP 往返，隐式同步出现（对齐度 0.493→1.000），读心立刻成功（0.8795，+0.2232）。
+
+## 装置（真实，非模拟）
+
+- **两真进程** `multiprocessing`，各绑独立 UDP 端口，2 CPU 真实竞争
+- **世界** = 真文件 `world.bin`，8×int32，`os.pread/pwrite` 常驻 fd（沙盒 `open()`=21.43ms，不能每 tick 开）
+- **动作私有**：不广播动作，只通过世界变化体现；UDP 只广播 `g_self`
+- **race 真实**：两进程同槽 RMW 真实竞争，实测损失 2.2%~5.3%
+
+### 三个 mode
+| mode | 含义 |
+|---|---|
+| base | 不广播（真读心任务） |
+| tell | 广播 g_self |
+| randomB | B 随机动作（阴性对照） |
+
+## 四个子实验
+
+### S1 镜像自我（self/other 归因）
+任务：世界某槽发生变化，答"这里有我的贡献吗"。三臂共用**同一次真实运行**的数据。
+
+| 臂 | base | tell |
+|---|---|---|
+| full（自己的私有记录） | **1.0000** | **1.0000** |
+| discard（随机猜） | 0.6398 | 0.6164 |
+| swapped（用**对方**的记录） | 0.4769 | **0.1450** |
+| shifted（自己记录错拍 t-1） | 0.5895 | 0.7634 |
+
+- **full = 1.0000 是定义性 trivial**：我修了一版把"正例比例"当成准确率的 bug 之后才看清——当自己的动作在世界里 100% 可见时，有正确私有记录即可查表归因，无需推理。这一条**本身是结论**：镜像自我的充分信息就是私有记录。
+- **swapped 是唯一能产生"假"的臂**：tell 下 0.1450（CI[0.115,0.176]，显著 <0.5，系统性反向）；但 **base 下 0.4769 不反向**。
+
+### S2 心智理论（读心）
+A 从 `delta - 自己的贡献` 得到对方痕迹，判对方是"抢最高槽"(g≤0.5) 还是"避开"，与 B 真实 g 比对。只在痕迹唯一时判断（n=157~230）。
+
+| mode | 行为推断 acc | 常数基线 | 差 |
+|---|---|---|---|
+| base | 0.4522 CI[0.376,0.529] | 0.5350 | **−0.0828 FAIL** |
+| tell | **0.8795** CI[0.835,0.920] | 0.6562 | **+0.2232 PASS** |
+| randomB | 0.3870 CI[0.326,0.452] | 0.5826 | −0.1957（阴性对照成立） |
+
+**预注册假设被推翻**：我以为 base（不广播）才是真读心、tell 是作弊。实测相反——base 下读心**不如常数基线**。
+
+### S3 传递熵
+方向差 base +0.0134 / tell −0.0106 / randomB +0.0021；shuffle 对照 ≈0.0002。
+**效应量 <0.02 bit，且通信后方向反转。不作主要主张，仅备案。**
+
+### S4 合作（真实目录树，`/usr/lib/python3.10` 85 个目录）
+预算 30×2=60，5 次重复：
+
+| | 效率（唯一覆盖/探索次数） | 重复目录 |
+|---|---|---|
+| coop（UDP 交换已探索） | **0.9733** CI[0.917,1.000] | 1.6 |
+| solo（不通信） | 0.8067 CI[0.767,0.850] | 11.6 |
+
+**5/5 rep 全正，CI 不重叠。** 通信组用更少的探索覆盖了更多地形。
+
+## 核心发现：为什么 base 失败而 tell 成功
+
+```
+对齐度 = A 的 delta_t 中包含 B 同索引动作的比例
+base  = 0.493      tell = 1.000
+```
+
+**UDP 往返本身产生了隐式同步**（每 tick 一次 send+recv，把两个进程锁在同一节奏上）。
+没有它，两个实例各跑各的，`delta_t` 里装的是错时间窗的对方动作——**时间轴没对齐，"我/它"就无从区分，更谈不上读心**。
+
+> self/other 与读心的前提不是更聪明的推断算法，是**共享时间结构**。
+> 顺带：tell 下"行为推断"与"直接广播"逐位一致率 **1.0000**，两臂等价且错在同一处——说明同步之后，读心可以从行为痕迹完全实现，**不需要对方主动告知内部状态**。
+
+## 我犯的错（6 个，全部已修）
+
+1. **把正例比例当成准确率**——full 臂写成"总是答是"，acc 显示的其实是 P(truth=1)=0.60。修正为"预测 vs 真值"后才暴露 full=1.0 的 trivial 本质。
+2. **`g_self` 只升不降**：原判据 `delta[act]>0` 恒真（自己的动作 300/300 可见），g 卡在 0.56~0.95，策略锁死在"探索"，**读心任务因此完全退化**。改 OU 内在节律后才双向跨越 0.5。
+3. **握手非对称死锁**：单向 hi 让后启动者等不到（实测 14s 重试全失败）。改双向 ack。
+4. **沙盒 `open()`=21.43ms**，每 tick 开文件导致 300 tick 跑 900s 超时。改常驻 fd + pread/pwrite。
+5. **首版 swapped 不反向**——一度怀疑判据错，实为 base 下异步对齐度只有 0.493，错配落在错误时间窗上。
+6. **地形天花板**：S4 首版预算 60 撞满 85 目录全覆盖，对照被截断。降到 30 重跑。
+
+## 边界
+
+- **full=1.0 是定义性 trivial**，不构成"归因能力强"的证据；真正有区分度的是 swapped（能产生假）。
+- S3 效应量极小，**不主张方向性成立**。
+- **realB 的"随机"是我构造的**；真实同类的伪造方式不止这一种，只证明这一类能被检出。
+- 世界、g_self 动力学、策略规则**全部是我建模的**；真实的是进程、UDP、文件 I/O、race、目录树、时序。
+- n=5（S4）/ n=157~230（S2），**未做多重比较校正**。
+- 两进程**未做显式 tick 同步**，异步是真实的（分布式系统的常态），但也意味着 base 的失败部分来自缺乏同步而非缺乏算法——这两者在真实系统里很难分开。
+
+## 复现
+
+```
+cd experiments/exp149_primate
+python3 probe.py        # 环境实测: UDP丢包 / 文件race
+python3 run149.py       # 三 mode 真双进程
+python3 analyze149b.py  # S1 归因 + S2 读心
+python3 analyze149c.py  # 等价性核验 + S3 TE
+python3 run149d.py      # S4 合作
+python3 render149.py; python3 screen149.py
+```

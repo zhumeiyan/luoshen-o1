@@ -1,1 +1,16 @@
-aW1wb3J0IGN2MixudW1weSBhcyBucCxzdWJwcm9jZXNzCmltMD1jdjIuaW1yZWFkKCJzY3JlZW4yLnBuZyIpOyBILFcsXz1pbTAuc2hhcGUKIyDlhoXlrrnljLrvvJrnrYnmr5TlkI7lsYXkuK3vvIzmjIkgNDgwIOmrmOWNoOavlOWPluWbvuW9oi/mloflrZfliIbnlYwKdG9wPWltMFs6aW50KEgqMC42ODcpXQpnZz1jdjIuY3Z0Q29sb3IodG9wLGN2Mi5DT0xPUl9CR1IyR1JBWSkKXyxidz1jdjIudGhyZXNob2xkKGdnLDEyOCwyNTUsY3YyLlRIUkVTSF9CSU5BUllfSU5WKQpjPVt4IGZvciB4IGluIGN2Mi5maW5kQ29udG91cnMoYncsY3YyLlJFVFJfRVhURVJOQUwsY3YyLkNIQUlOX0FQUFJPWF9TSU1QTEUpWzBdIGlmIGN2Mi5jb250b3VyQXJlYSh4KT41MDAwXQpjPXNvcnRlZChjLGtleT1sYW1iZGEgeDpjdjIuYm91bmRpbmdSZWN0KHgpWzFdKVswXQpBPWN2Mi5jb250b3VyQXJlYShjKTtQPWN2Mi5hcmNMZW5ndGgoYyxUcnVlKTtjaXJjPTQqbnAucGkqQS8oUCpQKQp2PWxlbihjdjIuYXBwcm94UG9seURQKGMsMC4wMypQLFRydWUpKQp4LHksd18saF89Y3YyLmJvdW5kaW5nUmVjdChjKTsgYXI9d18vaF8KZ2VvbT0iY2lyY2xlIiBpZiBjaXJjPjAuODIgZWxzZSAoInN0YXIiIGlmIHY+PTggZWxzZSAoInRyaWFuZ2xlIiBpZiB2PD0zIGVsc2UgInNxdWFyZSIpKQp0PWltMFtpbnQoSCowLjcxKTpdOyBjdjIuaW13cml0ZSgiX3MyLnBuZyIsdCkKb2NyPSIiLmpvaW4oc3VicHJvY2Vzcy5ydW4oWyJ0ZXNzZXJhY3QiLCJfczIucG5nIiwic3Rkb3V0IiwiLWwiLCJjaGlfc2ltIiwiLS1wc20iLCIxMCJdLGNhcHR1cmVfb3V0cHV0PVRydWUsdGV4dD1UcnVlKS5zdGRvdXQuc3BsaXQoKSkuc3RyaXAoKQpwcmludChmJ+mHh+mbhuWbviB7V314e0h9IOKGkiDlh6DkvZU9e2dlb219IChjaXJjPXtjaXJjOi4zZn0gdj17dn0g6ZW/5a695q+UPXthcjouMmZ9KSA7IE9DUj17b2NyfScpCnByaW50KCLnnJ/lgLwg55S7PWNpcmNsZSAvIOWGmT3mlrkgIOKGkiDnn5vnm77mo4Dlh7o6Iiwgb2NyPT0i5pa5IiBhbmQgZ2VvbT09ImNpcmNsZSIpCg==
+import cv2,numpy as np,subprocess
+im0=cv2.imread("screen2.png"); H,W,_=im0.shape
+# 内容区：等比后居中，按 480 高占比取图形/文字分界
+top=im0[:int(H*0.687)]
+gg=cv2.cvtColor(top,cv2.COLOR_BGR2GRAY)
+_,bw=cv2.threshold(gg,128,255,cv2.THRESH_BINARY_INV)
+c=[x for x in cv2.findContours(bw,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)[0] if cv2.contourArea(x)>5000]
+c=sorted(c,key=lambda x:cv2.boundingRect(x)[1])[0]
+A=cv2.contourArea(c);P=cv2.arcLength(c,True);circ=4*np.pi*A/(P*P)
+v=len(cv2.approxPolyDP(c,0.03*P,True))
+x,y,w_,h_=cv2.boundingRect(c); ar=w_/h_
+geom="circle" if circ>0.82 else ("star" if v>=8 else ("triangle" if v<=3 else "square"))
+t=im0[int(H*0.71):]; cv2.imwrite("_s2.png",t)
+ocr="".join(subprocess.run(["tesseract","_s2.png","stdout","-l","chi_sim","--psm","10"],capture_output=True,text=True).stdout.split()).strip()
+print(f'采集图 {W}x{H} → 几何={geom} (circ={circ:.3f} v={v} 长宽比={ar:.2f}) ; OCR={ocr}')
+print("真值 画=circle / 写=方  → 矛盾检出:", ocr=="方" and geom=="circle")

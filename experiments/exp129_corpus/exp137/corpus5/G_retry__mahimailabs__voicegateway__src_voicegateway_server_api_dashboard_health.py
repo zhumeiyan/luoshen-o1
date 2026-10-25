@@ -1,1 +1,20 @@
-IiIiUGx1bWJpbmcgcHJvdmVyIGZvciB0aGUgYGAvYXBpLypgYCByb3V0ZXIgZmFtaWx5LgoKVGhpcyBlbmRwb2ludCBleGlzdHMgc28gdGhlIGRhc2hib2FyZCByb3V0ZXIgYWdncmVnYXRpb24gY2FuIGJlIHRlc3RlZAplbmQtdG8tZW5kIGJlZm9yZSBhbnkgcmVhbCBoYW5kbGVyIG1vdmVzIGluLiBJdCByZXR1cm5zIGEgc3RhdGljIGJvZHkKYW5kIG5ldmVyIHRvdWNoZXMgdGhlIGdhdGV3YXksIHRoZSBkYXRhYmFzZSwgb3IgYW55IG9wdGlvbmFsIGRlcGVuZGVuY3kuCgpUaGUgZW5kcG9pbnQgaXMgaW50ZW50aW9uYWxseSBuYW1lc3BhY2VkIHVuZGVyIGBgL19kYXNoYm9hcmQvYGAgc28gaXQKY2Fubm90IGNvbGxpZGUgd2l0aCBhbnkgZnV0dXJlIHVzZXItZmFjaW5nIHJlc291cmNlIGF0IGBgL2FwaS9oZWFsdGhgYC4KIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIGZhc3RhcGkgaW1wb3J0IEFQSVJvdXRlcgoKcm91dGVyID0gQVBJUm91dGVyKHRhZ3M9WyJkYXNoYm9hcmQiXSkKCgpAcm91dGVyLmdldCgiL19kYXNoYm9hcmQvaGVhbHRoIikKYXN5bmMgZGVmIGRhc2hib2FyZF9oZWFsdGgoKSAtPiBkaWN0W3N0ciwgYm9vbF06CiAgICByZXR1cm4geyJvayI6IFRydWV9Cg==
+"""Plumbing prover for the ``/api/*`` router family.
+
+This endpoint exists so the dashboard router aggregation can be tested
+end-to-end before any real handler moves in. It returns a static body
+and never touches the gateway, the database, or any optional dependency.
+
+The endpoint is intentionally namespaced under ``/_dashboard/`` so it
+cannot collide with any future user-facing resource at ``/api/health``.
+"""
+
+from __future__ import annotations
+
+from fastapi import APIRouter
+
+router = APIRouter(tags=["dashboard"])
+
+
+@router.get("/_dashboard/health")
+async def dashboard_health() -> dict[str, bool]:
+    return {"ok": True}

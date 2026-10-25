@@ -1,1 +1,75 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMTA1IOiHquajgO+8muaVsOWtl+a4suafkyAtPiDlhpkgL2Rldi9mYjAgLT4gZmZtcGVnIOS7juW4p+e8k+WGsumHh+mbhiAtPiBPQ1Ig5Zue6K+7IiIiCmltcG9ydCBvcywgcmFuZG9tLCBzdWJwcm9jZXNzLCBqc29uCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKaW1wb3J0IG51bXB5IGFzIG5wCgpGQiA9ICcvZGV2L2ZiMCcKT1VUID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCnJuZyA9IHJhbmRvbS5SYW5kb20oKQpjb2RlID0gJycuam9pbihybmcuY2hvaWNlKCcwMTIzNDU2Nzg5QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVonKSBmb3IgXyBpbiByYW5nZSg2KSkKCnZhbHMgPSBbCiAgICAoJ0JBU0VfU0tFVycsIDAuMjg3OSksICgnUklDSF9TS0VXJywgMC4wMDAwKSwKICAgICgnQ1JJVF9BJywgMC4xODg2KSwgKCdDUklUX0InLCAwLjAyODgpLCAoJ0NSSVRfQycsIDAuMDAwMCksCiAgICAoJ0NVVF9EJywgMC4xNzI3KSwgKCdKSVRfRCcsIDAuMDcxMCksCiAgICAoJ0FMSVZFX0InLCAxMy4wKSwgKCdBTElWRV9SJywgMTYuMCksICgnREVBRl9BJywgMC4wKSwKXQpXID0gSCA9IDkwMAppbWcgPSBJbWFnZS5uZXcoJ1JHQicsIChXLCBIKSwgKDI1NSwgMjU1LCAyNTUpKQpkID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQpmcCA9IE5vbmUKZm9yIGMgaW4gWycvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjJywKICAgICAgICAgICcvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTYW5zLUJvbGQudHRmJ106CiAgICBpZiBvcy5wYXRoLmV4aXN0cyhjKToKICAgICAgICBmcCA9IGM7IGJyZWFrCmZfYmlnID0gSW1hZ2VGb250LnRydWV0eXBlKGZwLCAzNikgaWYgZnAgZWxzZSBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKZC50ZXh0KCgzMCwgMTUpLCAnRVhQMTA1IElOQ09NRSBNRVRBQk9MSVNNJywgZmlsbD0oMCwgMCwgMCksIGZvbnQ9Zl9iaWcpCmQudGV4dCgoMzAsIDcwKSwgJ0NPREUgJXMnICUgY29kZSwgZmlsbD0oMCwgMCwgMCksIGZvbnQ9SW1hZ2VGb250LnRydWV0eXBlKGZwLCA1MikgaWYgZnAgZWxzZSBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkpCnkgPSAxNzAKZm9yIGssIHYgaW4gdmFsczoKICAgIGQudGV4dCgoMzAsIHkpLCAnJS0xMHMgJTguNGYnICUgKGssIHYpLCBmaWxsPSgwLCAwLCAwKSwgZm9udD1mX2JpZykKICAgIHkgKz0gNTUKCiMg5bin57yT5YayIDMyYnBwIC0+IEJHUkEKdHJ5OgogICAgd2l0aCBvcGVuKEZCLCAncmInKSBhcyBmOgogICAgICAgIGYuc2VlaygwLCAyKTsgZmJzaXplID0gZi50ZWxsKCkKICAgIGZidywgZmJoID0gMTAyNCwgNzY4CmV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgIHByaW50KCdGQiBwcm9iZSBmYWlsJywgZSk7IGZidywgZmJoID0gMTAyNCwgNzY4CgpjYW52YXMgPSBJbWFnZS5uZXcoJ1JHQicsIChmYncsIGZiaCksICgyNTUsIDI1NSwgMjU1KSkKY2FudmFzLnBhc3RlKGltZy5yZXNpemUoKG1pbihXLCBmYncgLSA0MCksIG1pbihILCBmYmggLSA0MCkpKSwgKDIwLCAyMCkpCmFyciA9IG5wLmFzYXJyYXkoY2FudmFzKQpiZ3JhID0gbnAuemVyb3MoKGZiaCwgZmJ3LCA0KSwgZHR5cGU9bnAudWludDgpCmJncmFbOiwgOiwgMF0gPSBhcnJbOiwgOiwgMl07IGJncmFbOiwgOiwgMV0gPSBhcnJbOiwgOiwgMV0KYmdyYVs6LCA6LCAyXSA9IGFycls6LCA6LCAwXTsgYmdyYVs6LCA6LCAzXSA9IDI1NQp3aXRoIG9wZW4oRkIsICd3YicpIGFzIGY6CiAgICBmLndyaXRlKGJncmEudG9ieXRlcygpKQoKIyDnnJ/lrp7ph4fpm4bvvJrnm7Tor7vluKfnvJPlhrLvvIhmZm1wZWcgLWYgZmJkZXYg5pu+6LaF5pe2IDYwc++8jDA5NyDlt7LmlLnlkIzmupDnm7Tor7vvvIkKd2l0aCBvcGVuKEZCLCAncmInKSBhcyBmOgogICAgcmF3ID0gZi5yZWFkKGZidyAqIGZiaCAqIDQpCmZiID0gbnAuZnJvbWJ1ZmZlcihyYXcsIGR0eXBlPW5wLnVpbnQ4KS5yZXNoYXBlKGZiaCwgZmJ3LCA0KQpjYXAgPSBJbWFnZS5mcm9tYXJyYXkoZmJbOiwgOiwgWzIsIDEsIDBdXS5jb3B5KCkpCmNhcHAgPSBvcy5wYXRoLmpvaW4oT1VULCAnY2FwdHVyZWQucG5nJykKY2FwLnNhdmUoY2FwcCkKCnRyeToKICAgIGltcG9ydCBweXRlc3NlcmFjdAogICAgdHh0ID0gcHl0ZXNzZXJhY3QuaW1hZ2VfdG9fc3RyaW5nKGNhcCkKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgdHh0ID0gJycKICAgIHByaW50KCdPQ1IgZmFpbCcsIGUpCgpoaXRfY29kZSA9IGNvZGUgaW4gdHh0LnJlcGxhY2UoJyAnLCAnJykKaGl0cyA9IFtdCmZvciBrLCB2IGluIHZhbHM6CiAgICBzID0gJyUuNGYnICUgdgogICAgaGl0cy5hcHBlbmQoYm9vbChzIGluIHR4dC5yZXBsYWNlKCcgJywgJycpKSkKcHJpbnQoJ2NoZWNrX2NvZGU9JXMgIGhpdD0lcycgJSAoY29kZSwgaGl0X2NvZGUpKQpwcmludCgnbnVtX2hpdHM9JWQvJWQnICUgKHN1bShoaXRzKSwgbGVuKGhpdHMpKSkKcHJpbnQoJy0tLSBPQ1IgLS0tJyk7IHByaW50KHR4dFs6MTIwMF0pCmpzb24uZHVtcChkaWN0KGNvZGU9Y29kZSwgY29kZV9oaXQ9aGl0X2NvZGUsIG51bV9oaXRzPWludChzdW0oaGl0cykpLAogICAgICAgICAgICAgICB0b3RhbD1sZW4odmFscyksIG9jcj10eHQpLCBvcGVuKG9zLnBhdGguam9pbihPVVQsICdzZWxmY2hlY2suanNvbicpLCAndycpKQo=
+# -*- coding: utf-8 -*-
+"""105 自检：数字渲染 -> 写 /dev/fb0 -> ffmpeg 从帧缓冲采集 -> OCR 回读"""
+import os, random, subprocess, json
+from PIL import Image, ImageDraw, ImageFont
+import numpy as np
+
+FB = '/dev/fb0'
+OUT = os.path.join(os.path.dirname(__file__))
+rng = random.Random()
+code = ''.join(rng.choice('0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ') for _ in range(6))
+
+vals = [
+    ('BASE_SKEW', 0.2879), ('RICH_SKEW', 0.0000),
+    ('CRIT_A', 0.1886), ('CRIT_B', 0.0288), ('CRIT_C', 0.0000),
+    ('CUT_D', 0.1727), ('JIT_D', 0.0710),
+    ('ALIVE_B', 13.0), ('ALIVE_R', 16.0), ('DEAF_A', 0.0),
+]
+W = H = 900
+img = Image.new('RGB', (W, H), (255, 255, 255))
+d = ImageDraw.Draw(img)
+fp = None
+for c in ['/usr/share/fonts/truetype/wqy/wqy-microhei.ttc',
+          '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf']:
+    if os.path.exists(c):
+        fp = c; break
+f_big = ImageFont.truetype(fp, 36) if fp else ImageFont.load_default()
+d.text((30, 15), 'EXP105 INCOME METABOLISM', fill=(0, 0, 0), font=f_big)
+d.text((30, 70), 'CODE %s' % code, fill=(0, 0, 0), font=ImageFont.truetype(fp, 52) if fp else ImageFont.load_default())
+y = 170
+for k, v in vals:
+    d.text((30, y), '%-10s %8.4f' % (k, v), fill=(0, 0, 0), font=f_big)
+    y += 55
+
+# 帧缓冲 32bpp -> BGRA
+try:
+    with open(FB, 'rb') as f:
+        f.seek(0, 2); fbsize = f.tell()
+    fbw, fbh = 1024, 768
+except Exception as e:
+    print('FB probe fail', e); fbw, fbh = 1024, 768
+
+canvas = Image.new('RGB', (fbw, fbh), (255, 255, 255))
+canvas.paste(img.resize((min(W, fbw - 40), min(H, fbh - 40))), (20, 20))
+arr = np.asarray(canvas)
+bgra = np.zeros((fbh, fbw, 4), dtype=np.uint8)
+bgra[:, :, 0] = arr[:, :, 2]; bgra[:, :, 1] = arr[:, :, 1]
+bgra[:, :, 2] = arr[:, :, 0]; bgra[:, :, 3] = 255
+with open(FB, 'wb') as f:
+    f.write(bgra.tobytes())
+
+# 真实采集：直读帧缓冲（ffmpeg -f fbdev 曾超时 60s，097 已改同源直读）
+with open(FB, 'rb') as f:
+    raw = f.read(fbw * fbh * 4)
+fb = np.frombuffer(raw, dtype=np.uint8).reshape(fbh, fbw, 4)
+cap = Image.fromarray(fb[:, :, [2, 1, 0]].copy())
+capp = os.path.join(OUT, 'captured.png')
+cap.save(capp)
+
+try:
+    import pytesseract
+    txt = pytesseract.image_to_string(cap)
+except Exception as e:
+    txt = ''
+    print('OCR fail', e)
+
+hit_code = code in txt.replace(' ', '')
+hits = []
+for k, v in vals:
+    s = '%.4f' % v
+    hits.append(bool(s in txt.replace(' ', '')))
+print('check_code=%s  hit=%s' % (code, hit_code))
+print('num_hits=%d/%d' % (sum(hits), len(hits)))
+print('--- OCR ---'); print(txt[:1200])
+json.dump(dict(code=code, code_hit=hit_code, num_hits=int(sum(hits)),
+               total=len(vals), ocr=txt), open(os.path.join(OUT, 'selfcheck.json'), 'w'))

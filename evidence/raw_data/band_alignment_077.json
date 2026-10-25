@@ -1,1 +1,122 @@
-ewogICJ0aW1lc3RhbXAiOiAiMjAyNi0xMC0xNiAyMzo0Njo1OCIsCiAgImNpdGllcyI6IFsKICAgIHsKICAgICAgInRlbXBlcmF0dXJlIjogMTcuMCwKICAgICAgImh1bWlkaXR5IjogODkuMCwKICAgICAgInByZXNzdXJlIjogMTAxMC4wLAogICAgICAid2VhdGhlciI6ICLmmbTlpKkiLAogICAgICAiY2l0eSI6ICLlqIHmtbciLAogICAgICAidGVtcF9iYW5kIjogIua4qSIsCiAgICAgICJodW1fYmFuZCI6ICLmva4iLAogICAgICAidHJ1dGhfZGlzY29tZm9ydCI6IDAKICAgIH0sCiAgICB7CiAgICAgICJ0ZW1wZXJhdHVyZSI6IDE2LjAsCiAgICAgICJodW1pZGl0eSI6IDU2LjAsCiAgICAgICJwcmVzc3VyZSI6IDEwMTkuMCwKICAgICAgIndlYXRoZXIiOiAi6Zi0IiwKICAgICAgImNpdHkiOiAi5YyX5LqsIiwKICAgICAgInRlbXBfYmFuZCI6ICLmuKkiLAogICAgICAiaHVtX2JhbmQiOiAi6YCC5LitIiwKICAgICAgInRydXRoX2Rpc2NvbWZvcnQiOiAwCiAgICB9LAogICAgewogICAgICAidGVtcGVyYXR1cmUiOiAyMi4wLAogICAgICAiaHVtaWRpdHkiOiA3OC4wLAogICAgICAicHJlc3N1cmUiOiAxMDE5LjAsCiAgICAgICJ3ZWF0aGVyIjogIuWkmuS6kSIsCiAgICAgICJjaXR5IjogIuS4iua1tyIsCiAgICAgICJ0ZW1wX2JhbmQiOiAi5ripIiwKICAgICAgImh1bV9iYW5kIjogIua9riIsCiAgICAgICJ0cnV0aF9kaXNjb21mb3J0IjogMAogICAgfSwKICAgIHsKICAgICAgInRlbXBlcmF0dXJlIjogMjMuMCwKICAgICAgImh1bWlkaXR5IjogOTIuMCwKICAgICAgInByZXNzdXJlIjogMTAwNy4wLAogICAgICAid2VhdGhlciI6ICLmmbTlpKkiLAogICAgICAiY2l0eSI6ICLlub/lt54iLAogICAgICAidGVtcF9iYW5kIjogIua4qSIsCiAgICAgICJodW1fYmFuZCI6ICLmva4iLAogICAgICAidHJ1dGhfZGlzY29tZm9ydCI6IDAKICAgIH0sCiAgICB7CiAgICAgICJ0ZW1wZXJhdHVyZSI6IDI1LjAsCiAgICAgICJodW1pZGl0eSI6IDgxLjAsCiAgICAgICJwcmVzc3VyZSI6IDEwMDguMCwKICAgICAgIndlYXRoZXIiOiAi5aSa5LqRIiwKICAgICAgImNpdHkiOiAi5rex5ZyzIiwKICAgICAgInRlbXBfYmFuZCI6ICLng60iLAogICAgICAiaHVtX2JhbmQiOiAi5r2uIiwKICAgICAgInRydXRoX2Rpc2NvbWZvcnQiOiAwCiAgICB9LAogICAgewogICAgICAidGVtcGVyYXR1cmUiOiAxLjAsCiAgICAgICJodW1pZGl0eSI6IDU3LjAsCiAgICAgICJwcmVzc3VyZSI6IDkyNC4wLAogICAgICAid2VhdGhlciI6ICLmmbTlpKkiLAogICAgICAiY2l0eSI6ICLkuYzpsoHmnKjpvZAiLAogICAgICAidGVtcF9iYW5kIjogIuWGtyIsCiAgICAgICJodW1fYmFuZCI6ICLpgILkuK0iLAogICAgICAidHJ1dGhfZGlzY29tZm9ydCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJ0ZW1wZXJhdHVyZSI6IDcuMCwKICAgICAgImh1bWlkaXR5IjogMzIuMCwKICAgICAgInByZXNzdXJlIjogNjQwLjAsCiAgICAgICJ3ZWF0aGVyIjogIuaZtOWkqSIsCiAgICAgICJjaXR5IjogIuaLieiQqCIsCiAgICAgICJ0ZW1wX2JhbmQiOiAi5YeJIiwKICAgICAgImh1bV9iYW5kIjogIuW5siIsCiAgICAgICJ0cnV0aF9kaXNjb21mb3J0IjogMAogICAgfSwKICAgIHsKICAgICAgInRlbXBlcmF0dXJlIjogMjMuMCwKICAgICAgImh1bWlkaXR5IjogOTEuMCwKICAgICAgInByZXNzdXJlIjogOTc2LjAsCiAgICAgICJ3ZWF0aGVyIjogIuWkmuS6kSIsCiAgICAgICJjaXR5IjogIuS4ieS6miIsCiAgICAgICJ0ZW1wX2JhbmQiOiAi5ripIiwKICAgICAgImh1bV9iYW5kIjogIua9riIsCiAgICAgICJ0cnV0aF9kaXNjb21mb3J0IjogMAogICAgfSwKICAgIHsKICAgICAgInRlbXBlcmF0dXJlIjogMTkuMCwKICAgICAgImh1bWlkaXR5IjogMTAwLjAsCiAgICAgICJwcmVzc3VyZSI6IDk1MC4wLAogICAgICAid2VhdGhlciI6ICLpmLQiLAogICAgICAiY2l0eSI6ICLmiJDpg70iLAogICAgICAidGVtcF9iYW5kIjogIua4qSIsCiAgICAgICJodW1fYmFuZCI6ICLmva4iLAogICAgICAidHJ1dGhfZGlzY29tZm9ydCI6IDAKICAgIH0sCiAgICB7CiAgICAgICJ0ZW1wZXJhdHVyZSI6IDE3LjAsCiAgICAgICJodW1pZGl0eSI6IDg2LjAsCiAgICAgICJwcmVzc3VyZSI6IDk2NC4wLAogICAgICAid2VhdGhlciI6ICLpmLQiLAogICAgICAiY2l0eSI6ICLopb/lrokiLAogICAgICAidGVtcF9iYW5kIjogIua4qSIsCiAgICAgICJodW1fYmFuZCI6ICLmva4iLAogICAgICAidHJ1dGhfZGlzY29tZm9ydCI6IDAKICAgIH0KICBdLAogICJmaWRlbGl0eSI6IHsKICAgICJjb250IjogMS4wLAogICAgImh1bWFuIjogMC45LAogICAgIm4iOiAxMCwKICAgICJkZWx0YSI6IC0wLjEKICB9LAogICJ2ZXJpZmlhYmlsaXR5IjogewogICAgInByZWNpc2UiOiAwLjAsCiAgICAiYmFuZCI6IDEuMCwKICAgICJuIjogMTAKICB9LAogICJjb250cm9sX3JhbmRvbV9iYW5kcyI6IHsKICAgICJyYW5kX21lYW4iOiAwLjgyNzUsCiAgICAiaHVtYW4iOiAwLjksCiAgICAicGVyY2VudGlsZSI6IDMwLjAsCiAgICAibl90cmlhbHMiOiAyMDAKICB9Cn0=
+{
+  "timestamp": "2026-10-16 23:46:58",
+  "cities": [
+    {
+      "temperature": 17.0,
+      "humidity": 89.0,
+      "pressure": 1010.0,
+      "weather": "晴天",
+      "city": "威海",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 16.0,
+      "humidity": 56.0,
+      "pressure": 1019.0,
+      "weather": "阴",
+      "city": "北京",
+      "temp_band": "温",
+      "hum_band": "适中",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 22.0,
+      "humidity": 78.0,
+      "pressure": 1019.0,
+      "weather": "多云",
+      "city": "上海",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 23.0,
+      "humidity": 92.0,
+      "pressure": 1007.0,
+      "weather": "晴天",
+      "city": "广州",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 25.0,
+      "humidity": 81.0,
+      "pressure": 1008.0,
+      "weather": "多云",
+      "city": "深圳",
+      "temp_band": "热",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 1.0,
+      "humidity": 57.0,
+      "pressure": 924.0,
+      "weather": "晴天",
+      "city": "乌鲁木齐",
+      "temp_band": "冷",
+      "hum_band": "适中",
+      "truth_discomfort": 1
+    },
+    {
+      "temperature": 7.0,
+      "humidity": 32.0,
+      "pressure": 640.0,
+      "weather": "晴天",
+      "city": "拉萨",
+      "temp_band": "凉",
+      "hum_band": "干",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 23.0,
+      "humidity": 91.0,
+      "pressure": 976.0,
+      "weather": "多云",
+      "city": "三亚",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 19.0,
+      "humidity": 100.0,
+      "pressure": 950.0,
+      "weather": "阴",
+      "city": "成都",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 17.0,
+      "humidity": 86.0,
+      "pressure": 964.0,
+      "weather": "阴",
+      "city": "西安",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    }
+  ],
+  "fidelity": {
+    "cont": 1.0,
+    "human": 0.9,
+    "n": 10,
+    "delta": -0.1
+  },
+  "verifiability": {
+    "precise": 0.0,
+    "band": 1.0,
+    "n": 10
+  },
+  "control_random_bands": {
+    "rand_mean": 0.8275,
+    "human": 0.9,
+    "percentile": 30.0,
+    "n_trials": 200
+  }
+}

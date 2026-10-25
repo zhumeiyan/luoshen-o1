@@ -1,1 +1,241 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KMDU5IMK3IOS4jiBBdmlkYSDnsbvlubPlj7DnmoTlrprkvY3lt67lvILvvIjlj6/or4HkvKrnmoTlrprkvY3lo7DmmI7vvIkKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQror4Tlp5TkuIDlrprkvJrpl67vvJrjgIxBdmlkYSAvIFRpZXJyYSAvIEV2b2Nob3JhIOS4jeWwseiDveWBmui/meS4quWQl++8n+OAjQoK5pys5a6e6aqM5LiN5Li75byg44CM5oiR5Lus5pu05aW944CN44CC5a6D6aqM6K+B5LiA5Lu25pu05byx44CB5L2G5Y+v6K+B5Lyq55qE5LqL77yaCgogICAg44CQ5ZyoIEF2aWRhIOW8j+iuvuWumuS4i++8jOaIkeS7rOimgea1i+eahOmCo+S4quS4nOilv+agueacrOS4jeWHuueOsOOAguOAkQoK5o2u5YWs5byA6LWE5paZ77yMQXZpZGEg5byP6K6+5a6a5pyJ5Lik5p2h5LiO5pys5byV5pOO55u45Y+N55qE54m55b6B77yaCgogIEEuIOiDvemHj+aYr+OAkOWlluWKsSBtZXJpdOOAkeKAlOKAlOWujOaIkOS7u+WKoSDihpIg6I635b6X6aKd5aSWIENQVSDlkajmnJ8g4oaSIOWkjeWItuabtOW/q+OAggogICAgIOS4quS9k+S4jeS8muOAjOmlv+atu+OAje+8jOWPquS8muiiq+OAkOabv+aNoiAvIOa3mOaxsOOAke+8iE9mcmlhLCBCcnlzb24gJiBXaWxrZSwgMjAwOe+8ieOAggogIEIuIOaNn+iAl+OAkOWPr+mAhuOAkeKAlOKAlOWPmOW8guWPr+WbnumAgO+8jOaNouS7o+WNs+mHjee9ruOAguayoeaciei3qOS7o+e0r+enr+eahOawuOS5heeWpOeXleOAggoK5pys5byV5pOO55qE5a+55bqU6K6+5a6a77yaCgogIEEnLiDog73ph4/mmK/jgJDku6PosKLpooTnrpfjgJHigJTigJRFIOWPquiDveeUseiHqui6q+S6p+WHuuaNouWPlu+8jOS4lOaciSBiYXNhbCDln7rnoYDmtojogJfjgIIKICAgICAg5YWl5LiN5pW35Ye6IOKGkiDpmY3popEg4oaSIOWIsOW6lSDihpIg5q275Lqh77yI55yf5a6e57uT5bGA77yM5LiN5Y+v5Zue5rua77yJ44CCCiAgQicuIOaNn+iAl+OAkOS4jeWPr+mAhuOAkeKAlOKAlGNhcGFjaXR5IOWPquWHj+S4jeWinu+8jOS4ouaOieeahOWbnuS4jeadpeOAggoKMsOXMiDorr7orqHvvJoKICAgIOiDvemHj+adpea6kCAgZW5kb++8iOS7o+iwou+8iSAgICAgIC8gZXhv77yI5aSW55Sf5aWW5Yqx77yM5pegIGJhc2Fs77yJCiAgICDlj6/pgIbmgKcgICAgaXJyZXbvvIjlj6rlh4/kuI3lop7vvIkgLyByZXbvvIjmnKrmu6HotrPoobDlh4/jgIHmu6HotrPmgaLlpI3vvIkKCumihOazqOWGjOWIpOaNru+8mgogIFAxICDmrbvkuqHlj6rlh7rnjrDlnKggZW5kbyDliJfvvJtleG8g5YiX5q275Lqh5pWwID0gMAogIFAyICDnlqTnl5XvvIjnu4jmgIHnu5PmnoTlgY/luqbvvInlj6rlnKggZW5kb8OXaXJyZXYg5pi+6JGXID4gMAogIFAzICBleG/Dl3Jldu+8iOacgOaOpei/kSBBdmlkYSDnmoTkuIDmoLzvvInkuKTpobnmjIfmoIflnYcg4omIIDAKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoiIiIKaW1wb3J0IHN5cywgb3MsIGpzb24Kc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nLCAnY29yZScpKQoKaW1wb3J0IG51bXB5IGFzIG5wCnRyeToKICAgIGZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUgICAjIOijheWMhei/kOihjO+8iHBpcCBpbnN0YWxsIC7vvIkKZXhjZXB0IEltcG9ydEVycm9yOiAgICAgICAgICAgICAgICMg5rqQ56CB6L+Q6KGM77yIY29yZS8g55u05o6l5ZyoIHN5cy5wYXRo77yJCiAgICBmcm9tIGxpZmU1IGltcG9ydCBMaWZlNQoKCmNsYXNzIExpZmU1UG9zKExpZmU1KToKICAgICIiIkxpZmU1IOeahCAyw5cyIOWumuS9jeWPmOS9k+OAggoKICAgIOS7heaUueWKqOS4pOS4queCue+8muiDvemHj+abtOaWsOaWueW8j+OAgeWuuemHj+aYr+WQpuWPr+aBouWkjeOAggogICAg5YW25L2Z5YWo6YOo5rK/55So5Y6f5byV5pOO77yI5ZCr56iA57y656Gs5Y+W6IiN44CB5YaF55Sf6K6+5a6a54K544CBbGVha++8ieOAggogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGVuZXJneT0nZW5kbycsIHJldmVyc2libGU9RmFsc2UsICoqa3cpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKiprdykKICAgICAgICBzZWxmLmVuZXJneSA9IGVuZXJneSAgICAgICAgICAjICdlbmRvJyB8ICdleG8nCiAgICAgICAgc2VsZi5yZXZlcnNpYmxlID0gcmV2ZXJzaWJsZSAgIyBGYWxzZT3kuI3lj6/pgIYgfCBUcnVlPeWPr+mAhgogICAgICAgIHNlbGYuX2xhc3RfdW5tZXQgPSBucC56ZXJvcyhzZWxmLk4pCgogICAgZGVmIHN0ZXAoc2VsZik6CiAgICAgICAgaWYgbm90IHNlbGYuYWxpdmU6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgZSA9IG1heChzZWxmLkUgLyBzZWxmLkVtYXgsIDAuMCkKICAgICAgICBkZXYgPSBucC5hYnMoc2VsZi55IC0gc2VsZi5zcCkKICAgICAgICBtb2QgPSAxLjAgLSAwLjggKiBlCiAgICAgICAgdzAgPSBzZWxmLmcgKiBzZWxmLmIgKiAoMS4wIC0gc2VsZi5iKQogICAgICAgIHcwID0gbnAuY2xpcCh3MCwgMWUtNiwgMSAtIDFlLTYpCiAgICAgICAgc2Vuc2UgPSBzZWxmLmlucHV0X3ZhbCArIHNlbGYuc2lnbWFfaW4gKiBzZWxmLnJuZy5ub3JtYWwoKQogICAgICAgIHNlbGYuZXZpZCA9IHNlbGYuZXZpZCAqIHNlbGYuZXZpZF9kZWNheSArIGFicyhzZW5zZSkKICAgICAgICBwcmVzID0gMS4wIC0gbnAuZXhwKC1zZWxmLmV2aWQgLyBtYXgoc2VsZi5wcmVzX3RhdSwgMWUtOSkpCiAgICAgICAgc2VsZi5taXNzID0gc2VsZi5taXNzICogc2VsZi5taXNzX2RlY2F5ICsgKDEuMCAtIHByZXMpCiAgICAgICAgc2VsZi5kZXZfbGFzdCA9IGRldgogICAgICAgIHdhbnQgPSAodzAgKyBzZWxmLmtGICogc2VsZi5IICogbW9kICsgc2VsZi5rUyAqIGRldikgKiBzZWxmLmNhcGFjaXR5CiAgICAgICAgaWYgc2VsZi5rX3NhbCA+IDAuMDoKICAgICAgICAgICAgd2FudCA9IHdhbnQgKiAoMS4wICsgc2VsZi5rX3NhbCAqIHByZXMgKiBzZWxmLnNhbCkKICAgICAgICB3YW50WzBdID0gd2FudFswXSAqIHNlbGYud2FudF9tb2QKICAgICAgICB3YW50WzBdID0gd2FudFswXSArIHNlbGYua19zZWVrICogc2VsZi5taXNzICogc2VsZi5jYXBhY2l0eVswXQogICAgICAgIGFycml2YWwgPSAxLjAgaWYgYWJzKHNlbnNlKSA+IHNlbGYuYXJyX3RociBlbHNlIDAuMAogICAgICAgIHNlbGYucHJlZF9hcnIgPSBzZWxmLnByZWRfYXJyICsgKGFycml2YWwgLSBzZWxmLnByZWRfYXJyKSAvIG1heChzZWxmLnRhdV9hcnIsIDFlLTkpCiAgICAgICAgc2VsZi5taXNzX2FyciA9IHNlbGYubWlzc19hcnIgKiBzZWxmLm1pc3NfYXJyX2RlY2F5ICsgbWF4KHNlbGYucHJlZF9hcnIgLSBhcnJpdmFsLCAwLjApCiAgICAgICAgd2FudFswXSA9IHdhbnRbMF0gKyBzZWxmLmtfc2Vla19hcnIgKiBzZWxmLm1pc3NfYXJyICogc2VsZi5jYXBhY2l0eVswXQogICAgICAgIHdhbnRbMF0gPSB3YW50WzBdICsgZ2V0YXR0cihzZWxmLCAna3BpX3B1c2gnLCAwLjApICogc2VsZi5jYXBhY2l0eVswXSAqIG1heCh3YW50LnN1bSgpLCAxZS05KQogICAgICAgIG52ID0gZ2V0YXR0cihzZWxmLCAnbmV0X3B1c2gnLCBOb25lKQogICAgICAgIGlmIG52IGlzIG5vdCBOb25lOgogICAgICAgICAgICB3YW50ID0gd2FudCArIG5wLmFzYXJyYXkobnYsIGZsb2F0KSAqIHNlbGYuY2FwYWNpdHkgKiBtYXgod2FudC5zdW0oKSwgMWUtOSkKICAgICAgICBzaSA9IGdldGF0dHIoc2VsZiwgJ3NlbnNlX2ludGVybycsIDAuMCkKICAgICAgICBpZiBzaToKICAgICAgICAgICAgc2VsZi5IID0gc2VsZi5IICogKDEuMCAtIDAuMDUpICsgc2kKCiAgICAgICAgQiA9IHNlbGYucmF0aW8gKiB3YW50LnN1bSgpCiAgICAgICAgaWYgc2VsZi5hbGxvY19mbiBpcyBub3QgTm9uZToKICAgICAgICAgICAgYSA9IHNlbGYuYWxsb2NfZm4od2FudCwgQiwgc2VsZikKICAgICAgICBlbHNlOgogICAgICAgICAgICBvID0gbnAuYXJnc29ydCgtd2FudCkKICAgICAgICAgICAgYSA9IG5wLnplcm9zKHNlbGYuTikKICAgICAgICAgICAgbGVmdCA9IEIKICAgICAgICAgICAgZm9yIGkgaW4gbzoKICAgICAgICAgICAgICAgIHRrID0gbWluKHdhbnRbaV0sIGxlZnQpCiAgICAgICAgICAgICAgICBhW2ldID0gdGsKICAgICAgICAgICAgICAgIGxlZnQgLT0gdGsKICAgICAgICAgICAgICAgIGlmIGxlZnQgPD0gMWUtMTI6CiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICB1bm1ldCA9IG5wLm1heGltdW0od2FudCAtIGEsIDAuMCkKICAgICAgICBzZWxmLl9sYXN0X3VubWV0ID0gdW5tZXQKCiAgICAgICAgaWYgc2VsZi5hbHBoYV9ob21lbzoKICAgICAgICAgICAgdGVuc2lvbiA9IGZsb2F0KG5wLm1lYW4oc2VsZi5kZXZfbGFzdCkpIGlmIGhhc2F0dHIoc2VsZiwgJ2Rldl9sYXN0JykgZWxzZSBmbG9hdChkZXYubWVhbigpKQogICAgICAgICAgICBzZWxmLmFscGhhID0gc2VsZi5hbHBoYSAqIHNlbGYuYWxwaGFfZGVjYXkgKyBzZWxmLmtfYWxwaGEgKiB0ZW5zaW9uCiAgICAgICAgICAgIHNlbGYuYWxwaGEgPSBmbG9hdChucC5jbGlwKHNlbGYuYWxwaGEsIDAuMCwgMS4wKSkKICAgICAgICAgICAgc2VsZi5hbHBoYV9oaXN0LmFwcGVuZChzZWxmLmFscGhhKQoKICAgICAgICAjIC0tLS0g5bmy6aKE54K5IDLvvJrlj6/pgIbmgKcgLS0tLQogICAgICAgIGlmIHNlbGYucmV2ZXJzaWJsZToKICAgICAgICAgICAgIyDmnKrmu6HotrMg4oaSIOihsOWHj++8m+a7oei2s++8iHVubWV04omIMO+8ieKGkiDmjInlkIzpgJ/njofmgaLlpI3vvIzkuIrpmZAgMS4wCiAgICAgICAgICAgIHJlYyA9IHNlbGYuY2FwX2RlY2F5ICogKHVubWV0IDw9IDFlLTkpLmFzdHlwZShmbG9hdCkgKiAoMS4wIC0gc2VsZi5jYXBhY2l0eSkKICAgICAgICAgICAgc2VsZi5jYXBhY2l0eSA9IG5wLm1pbmltdW0oc2VsZi5jYXBhY2l0eSArIHJlYywgMS4wKQogICAgICAgICMg5LiN5Y+v6YCG5YiG5pSv77ya5LiO5Y6f5byV5pOO5LiA6Ie077yI5Y+q5YeP5LiN5aKe77yJCiAgICAgICAgc2VsZi5jYXBhY2l0eSA9IG5wLm1heGltdW0oc2VsZi5jYXBhY2l0eSAtIHNlbGYuY2FwX2RlY2F5ICogdW5tZXQgKiBzZWxmLmNhcGFjaXR5LCBzZWxmLmNhcF9taW4pCgogICAgICAgIHNlbGYuSCA9IHNlbGYuSCAqICgxLjAgLSBzZWxmLmxhbV9IKSArIHVubWV0CgogICAgICAgICMgLS0tLSDlubLpooTngrkgMe+8muiDvemHj+adpea6kCAtLS0tCiAgICAgICAgY2FwID0gc2VsZi5jYXBfbWF4ICogZQogICAgICAgIGNhcF9zaGFyZSA9IGNhcCAvIHNlbGYuTgogICAgICAgIGRvbmUgPSBucC5taW5pbXVtKGEsIGNhcF9zaGFyZSkKICAgICAgICBpZiBzZWxmLmVuZXJneSA9PSAnZW5kbyc6CiAgICAgICAgICAgICMg5Y6f5byV5pOO77ya5Luj6LCi6aKE566X77yI5pyJIGJhc2FsIOa2iOiAl++8jOaRhOmjn+eUseiHqui6q+S6p+WHuuaNou+8iQogICAgICAgICAgICBzZWxmLkUgPSBzZWxmLkUgLSAoc2VsZi5iYXNhbCArIHNlbGYuYzEgKiBkb25lLnN1bSgpKQogICAgICAgICAgICBzZWxmLkUgPSBzZWxmLkUgKyBzZWxmLmZnICogc2VsZi5mZ19lZmYgKiBkb25lW3NlbGYuZm9yYWdlX2NoXSAvIG1heChjYXBfc2hhcmUsIDFlLTEyKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgQXZpZGEg5byP77ya6IO96YeP5piv5aWW5Yqx77yI5pegIGJhc2FsIOa2iOiAl++8jOWujOaIkOS7u+WKoeWNs+WHgOaUtuebiu+8iQogICAgICAgICAgICBzZWxmLkUgPSBzZWxmLkUgKyBzZWxmLmZnICogc2VsZi5mZ19lZmYgKiBkb25lW3NlbGYuZm9yYWdlX2NoXSAvIG1heChjYXBfc2hhcmUsIDFlLTEyKQogICAgICAgIHNlbGYuRSA9IG1pbihzZWxmLkUsIHNlbGYuRW1heCkKCiAgICAgICAgaWYgc2VsZi5FIDw9IDAuMDoKICAgICAgICAgICAgc2VsZi5FID0gMC4wCiAgICAgICAgICAgIHNlbGYubG93X3RpY2tzICs9IDEKICAgICAgICAgICAgaWYgc2VsZi5sb3dfdGlja3MgPiBzZWxmLmRlYXRoX3BhdGllbmNlOgogICAgICAgICAgICAgICAgc2VsZi5hbGl2ZSA9IEZhbHNlCiAgICAgICAgICAgICAgICBzZWxmLmRlYXRoX3QgPSBzZWxmLnQKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmxvd190aWNrcyA9IDAKCiAgICAgICAgaW52ZXN0ID0gYSAvIG1heChhLnN1bSgpLCAxZS0xMikgKiBzZWxmLk4KICAgICAgICBzZWxmLnkgPSBzZWxmLnkgKyBzZWxmLm11ICogaW52ZXN0ICogKHNlbGYuc3AgLSBzZWxmLnkpIC0gc2VsZi5sZWFrICogc2VsZi55CiAgICAgICAgc2VsZi55ID0gbnAuY2xpcChzZWxmLnksIDFlLTYsIDIuMCkKICAgICAgICBzZWxmLnJlZiA9IHNlbGYucmVmICsgKHNlbGYueSAtIHNlbGYucmVmKSAvIHNlbGYudGF1X3JlZgogICAgICAgIHNlbGYuc3AgPSBzZWxmLnNwICsgKHNlbGYucmVmIC0gc2VsZi5zcCkgLyBzZWxmLnRhdV9zcAogICAgICAgIHNlbGYuc3AgPSBucC5tYXhpbXVtKHNlbGYuc3AsIHNlbGYuc3BfZmxvb3IpCiAgICAgICAgc2VsZi5iID0gdzAKICAgICAgICBzZWxmLnQgKz0gMQogICAgICAgIHRvdCA9IGZsb2F0KGEuc3VtKCkpCiAgICAgICAgcmVjID0gZGljdCh0PXNlbGYudCwgRT1zZWxmLkUsIGFsaXZlPXNlbGYuYWxpdmUsCiAgICAgICAgICAgICAgICAgICBjYXA9ZmxvYXQoc2VsZi5jYXBhY2l0eS5tZWFuKCkpLAogICAgICAgICAgICAgICAgICAgc2hhcmUwPWZsb2F0KGFbMF0gLyB0b3QpIGlmIHRvdCA+IDFlLTEyIGVsc2UgMC4wLAogICAgICAgICAgICAgICAgICAgY2Fwdj1bZmxvYXQodikgZm9yIHYgaW4gc2VsZi5jYXBhY2l0eV0pCiAgICAgICAgc2VsZi5sb2cuYXBwZW5kKHJlYykKICAgICAgICByZXR1cm4gcmVjCgoKZGVmIHJ1bl9jZWxsKGVuZXJneSwgcmV2ZXJzaWJsZSwgc2VlZHMsIHN0ZXBzPTYwMCwgTj04LCByYXRpbz0wLjQ1KToKICAgICIiIuaMh+agh+ivtOaYju+8iDA1OSDkv67mraPniYjvvInvvJoKCiAgICDliJ3niYjnlKggc3RkL21lYW4g6YePIueWpOeXlSLvvIzooqvlrp7mtYvmjqjnv7sg4oCU4oCUIOWPr+mAhuaooeW8j+S4i+a7oei2s+eahOmAmumBk+WbnuWIsCAxLjDjgIEKICAgIOS4jea7oei2s+eahOe7p+e7reaOie+8jOWPjeiAjOOAkOaLieWkp+OAkeemu+aVo+W6puOAguemu+aVo+W6puS4jeaYr+S4jeWPr+mAhuaAp+eahOW6pumHj+OAggoKICAgIOaUueeUqOS4pOS4quebtOaOpeaMh+agh++8mgogICAgICByaXNlX21heCAgID0g5YWo56iLIGNhcGFjaXR5IOWHuueOsOi/h+eahOacgOWkp+eahOato+WQkeWbnuWNh+mHj++8iOS4jeWPr+mAhuW6lOaBkuS4uiAw77yJCiAgICAgIHBlcm1fbG9zcyAgPSDnu4jmgIHnm7jlr7nliJ3lgLznmoTmsLjkuYXmjZ/lpLHvvIgxIC0g57uI5oCB5Z2H5YC877yJ77yM5Yid5YC85oGS5Li6IDEuMAogICAgIiIiCiAgICBza2V3cywgZGVhdGhzLCBjYXBtZWFucywgcmlzZXMsIHBsb3NzID0gW10sIDAsIFtdLCBbXSwgW10KICAgIGZvciBzZCBpbiBzZWVkczoKICAgICAgICBsZiA9IExpZmU1UG9zKGVuZXJneT1lbmVyZ3ksIHJldmVyc2libGU9cmV2ZXJzaWJsZSwgTj1OLCBzZWVkPXNkLCByYXRpbz1yYXRpbykKICAgICAgICBsZi5ydW4oc3RlcHMpCiAgICAgICAgYyA9IG5wLmFycmF5KGxmLmNhcGFjaXR5KQogICAgICAgIHNrZXdzLmFwcGVuZChmbG9hdChjLnN0ZCgpIC8gbWF4KGMubWVhbigpLCAxZS0xMikpKQogICAgICAgIGNhcG1lYW5zLmFwcGVuZChmbG9hdChjLm1lYW4oKSkpCiAgICAgICAgIyDpgJDmi43mo4Dmn6XmmK/lkKbmnInpgJrpgZPlm57ljYcKICAgICAgICB0cmFqID0gbnAuYXJyYXkoW3JbJ2NhcHYnXSBmb3IgciBpbiBsZi5sb2ddKQogICAgICAgIGQgPSBucC5kaWZmKHRyYWosIGF4aXM9MCkKICAgICAgICByaXNlcy5hcHBlbmQoZmxvYXQobWF4KGQubWF4KCksIDAuMCkpKQogICAgICAgIHBsb3NzLmFwcGVuZChmbG9hdCgxLjAgLSBjLm1lYW4oKSkpCiAgICAgICAgaWYgbm90IGxmLmFsaXZlOgogICAgICAgICAgICBkZWF0aHMgKz0gMQogICAgcmV0dXJuIGRpY3QoCiAgICAgICAgZW5lcmd5PWVuZXJneSwgcmV2ZXJzaWJsZT1yZXZlcnNpYmxlLCBuPWxlbihzZWVkcyksCiAgICAgICAgc2tldz1mbG9hdChucC5tZWFuKHNrZXdzKSksIHNrZXdfc2U9ZmxvYXQobnAuc3RkKHNrZXdzLCBkZG9mPTEpIC8gbnAuc3FydChsZW4oc2VlZHMpKSksCiAgICAgICAgY2FwX21lYW49ZmxvYXQobnAubWVhbihjYXBtZWFucykpLCBkZWF0aHM9ZGVhdGhzLAogICAgICAgIGRlYXRoX3JhdGU9ZGVhdGhzIC8gbGVuKHNlZWRzKSwKICAgICAgICByaXNlX21heD1mbG9hdChucC5tZWFuKHJpc2VzKSksCiAgICAgICAgcGVybV9sb3NzPWZsb2F0KG5wLm1lYW4ocGxvc3MpKSwKICAgICkKCgpkZWYgbWFpbigpOgogICAgc2VlZHMgPSBsaXN0KHJhbmdlKDE2KSkKICAgIGNlbGxzID0ge30KICAgIGZvciBlbiBpbiAoJ2VuZG8nLCAnZXhvJyk6CiAgICAgICAgZm9yIHJ2IGluIChGYWxzZSwgVHJ1ZSk6CiAgICAgICAgICAgIGsgPSBmIntlbn1feydyZXYnIGlmIHJ2IGVsc2UgJ2lycmV2J30iCiAgICAgICAgICAgIGNlbGxzW2tdID0gcnVuX2NlbGwoZW4sIHJ2LCBzZWVkcykKICAgICAgICAgICAgYyA9IGNlbGxzW2tdCiAgICAgICAgICAgIHByaW50KGYie2s6MTRzfSDmrbvkuqEge2NbJ2RlYXRocyddfS97Y1snbiddfSAgIgogICAgICAgICAgICAgICAgICBmIuawuOS5heaNn+WksSB7Y1sncGVybV9sb3NzJ106LjRmfSAg5pyA5aSn5Zue5Y2HIHtjWydyaXNlX21heCddOi42Zn0gICIKICAgICAgICAgICAgICAgICAgZiIo5YGP5bqmIHtjWydza2V3J106LjRmfSkiKQoKICAgICMgLS0tLSDliKTmja7moLjpqozvvIgwNTkg5L+u5q2j54mI77yJLS0tLQogICAgIyDljp8gUDMg6aKE5rOo5YaM44CMQXZpZGEg5qC877yIZXhvw5dyZXbvvInlgY/luqbmjqXov5EgMOOAjeW3suiiq+Wunua1i+aOqOe/u++8mgogICAgIyAgIGV4b19yZXYg5YGP5bqmIDAuNDk5MCB+PSBleG9faXJyZXYgMC4yNjk177yM56a75pWj5bqm5qC55pys5LiN5Yy65YiG5Y+v6YCG5oCn44CCCiAgICAjICAg5Y6f5Zug77ya5Y+v6YCG6K6p5ruh6Laz55qE6YCa6YGT5Zue5YiwIDEuMOOAgeS4jea7oei2s+eahOe7p+e7reaOie+8jOWPjeiAjOaLieWkp+emu+aVo+W6puOAggogICAgIyDmlLnnlKjnm7TmjqXmjIfmoIfph43lhpnliKTmja7jgIIKICAgIHZlcmRpY3QgPSB7fQogICAgdmVyZGljdFsnUDFf5q275Lqh5Y+q5Ye6546w5ZyoZW5kb+WIl19leG/liJfmgZLkuI3mrbsnXSA9ICgKICAgICAgICBjZWxsc1snZXhvX2lycmV2J11bJ2RlYXRocyddID09IDAgYW5kIGNlbGxzWydleG9fcmV2J11bJ2RlYXRocyddID09IDAKICAgICAgICBhbmQgKGNlbGxzWydlbmRvX2lycmV2J11bJ2RlYXRocyddICsgY2VsbHNbJ2VuZG9fcmV2J11bJ2RlYXRocyddKSA+IDAKICAgICkKICAgIHZlcmRpY3RbJ1AyX+S4jeWPr+mAhuWIl2NhcGFjaXR55LuO5LiN5Zue5Y2HJ10gPSAoCiAgICAgICAgY2VsbHNbJ2VuZG9faXJyZXYnXVsncmlzZV9tYXgnXSA9PSAwLjAgYW5kIGNlbGxzWydleG9faXJyZXYnXVsncmlzZV9tYXgnXSA9PSAwLjAKICAgICkKICAgIHZlcmRpY3RbJ1AzX+WPr+mAhuWIl+ehruWunuWHuueOsOWbnuWNhyddID0gKAogICAgICAgIGNlbGxzWydlbmRvX3JldiddWydyaXNlX21heCddID4gMC4wIGFuZCBjZWxsc1snZXhvX3JldiddWydyaXNlX21heCddID4gMC4wCiAgICApCiAgICB2ZXJkaWN0WydQNF/lj6/pgIbliJfmsLjkuYXmjZ/lpLHmmL7okZflsI/kuo7kuI3lj6/pgIbliJcnXSA9ICgKICAgICAgICBjZWxsc1snZW5kb19yZXYnXVsncGVybV9sb3NzJ10gPCBjZWxsc1snZW5kb19pcnJldiddWydwZXJtX2xvc3MnXQogICAgICAgIGFuZCBjZWxsc1snZXhvX3JldiddWydwZXJtX2xvc3MnXSA8IGNlbGxzWydleG9faXJyZXYnXVsncGVybV9sb3NzJ10KICAgICkKICAgICMg6KKr5o6o57+755qE6aKE5rOo5YaM77yI5L+d55WZ6K6w5b2V77yM5LiN5b6X5Yig6Zmk77yJCiAgICB2ZXJkaWN0WyfjgJDlt7Lmjqjnv7vjgJHljp9QM19leG9fcmV25YGP5bqm5o6l6L+RMCddID0gY2VsbHNbJ2V4b19yZXYnXVsnc2tldyddIDwgMC4wNQoKICAgIHByaW50KCJcbi0tLSDliKTmja7moLjpqowgLS0tIikKICAgIGZvciBrLCB2IGluIHZlcmRpY3QuaXRlbXMoKToKICAgICAgICBwcmludChmIiAgeyfinJMnIGlmIHYgZWxzZSAn4pyXJ30ge2t9IikKCiAgICBvdXQgPSBkaWN0KGNlbGxzPWNlbGxzLCB2ZXJkaWN0PXZlcmRpY3QsIHNlZWRzPWxlbihzZWVkcyksIHN0ZXBzPTYwMCwgTj04LCByYXRpbz0wLjQ1KQogICAgcCA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nLCAnZGF0YScsICdwb3NpdGlvbmluZ19yZXN1bHRzLmpzb24nKQogICAgb3MubWFrZWRpcnMob3MucGF0aC5kaXJuYW1lKHApLCBleGlzdF9vaz1UcnVlKQogICAgd2l0aCBvcGVuKHAsICd3JywgZW5jb2Rpbmc9J3V0Zi04JykgYXMgZjoKICAgICAgICBqc29uLmR1bXAob3V0LCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgcHJpbnQoZiJcbuW3suWGmeWFpSB7cH0iKQogICAgcmV0dXJuIG91dAoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK
+# -*- coding: utf-8 -*-
+"""
+================================================================
+059 · 与 Avida 类平台的定位差异（可证伪的定位声明）
+================================================================
+评委一定会问：「Avida / Tierra / Evochora 不就能做这个吗？」
+
+本实验不主张「我们更好」。它验证一件更弱、但可证伪的事：
+
+    【在 Avida 式设定下，我们要测的那个东西根本不出现。】
+
+据公开资料，Avida 式设定有两条与本引擎相反的特征：
+
+  A. 能量是【奖励 merit】——完成任务 → 获得额外 CPU 周期 → 复制更快。
+     个体不会「饿死」，只会被【替换 / 淘汰】（Ofria, Bryson & Wilke, 2009）。
+  B. 损耗【可逆】——变异可回退，换代即重置。没有跨代累积的永久疤痕。
+
+本引擎的对应设定：
+
+  A'. 能量是【代谢预算】——E 只能由自身产出换取，且有 basal 基础消耗。
+      入不敷出 → 降频 → 到底 → 死亡（真实结局，不可回滚）。
+  B'. 损耗【不可逆】——capacity 只减不增，丢掉的回不来。
+
+2×2 设计：
+    能量来源  endo（代谢）      / exo（外生奖励，无 basal）
+    可逆性    irrev（只减不增） / rev（未满足衰减、满足恢复）
+
+预注册判据：
+  P1  死亡只出现在 endo 列；exo 列死亡数 = 0
+  P2  疤痕（终态结构偏度）只在 endo×irrev 显著 > 0
+  P3  exo×rev（最接近 Avida 的一格）两项指标均 ≈ 0
+================================================================
+"""
+import sys, os, json
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
+
+import numpy as np
+try:
+    from core.life5 import Life5   # 装包运行（pip install .）
+except ImportError:               # 源码运行（core/ 直接在 sys.path）
+    from life5 import Life5
+
+
+class Life5Pos(Life5):
+    """Life5 的 2×2 定位变体。
+
+    仅改动两个点：能量更新方式、容量是否可恢复。
+    其余全部沿用原引擎（含稀缺硬取舍、内生设定点、leak）。
+    """
+
+    def __init__(self, energy='endo', reversible=False, **kw):
+        super().__init__(**kw)
+        self.energy = energy          # 'endo' | 'exo'
+        self.reversible = reversible  # False=不可逆 | True=可逆
+        self._last_unmet = np.zeros(self.N)
+
+    def step(self):
+        if not self.alive:
+            return None
+        e = max(self.E / self.Emax, 0.0)
+        dev = np.abs(self.y - self.sp)
+        mod = 1.0 - 0.8 * e
+        w0 = self.g * self.b * (1.0 - self.b)
+        w0 = np.clip(w0, 1e-6, 1 - 1e-6)
+        sense = self.input_val + self.sigma_in * self.rng.normal()
+        self.evid = self.evid * self.evid_decay + abs(sense)
+        pres = 1.0 - np.exp(-self.evid / max(self.pres_tau, 1e-9))
+        self.miss = self.miss * self.miss_decay + (1.0 - pres)
+        self.dev_last = dev
+        want = (w0 + self.kF * self.H * mod + self.kS * dev) * self.capacity
+        if self.k_sal > 0.0:
+            want = want * (1.0 + self.k_sal * pres * self.sal)
+        want[0] = want[0] * self.want_mod
+        want[0] = want[0] + self.k_seek * self.miss * self.capacity[0]
+        arrival = 1.0 if abs(sense) > self.arr_thr else 0.0
+        self.pred_arr = self.pred_arr + (arrival - self.pred_arr) / max(self.tau_arr, 1e-9)
+        self.miss_arr = self.miss_arr * self.miss_arr_decay + max(self.pred_arr - arrival, 0.0)
+        want[0] = want[0] + self.k_seek_arr * self.miss_arr * self.capacity[0]
+        want[0] = want[0] + getattr(self, 'kpi_push', 0.0) * self.capacity[0] * max(want.sum(), 1e-9)
+        nv = getattr(self, 'net_push', None)
+        if nv is not None:
+            want = want + np.asarray(nv, float) * self.capacity * max(want.sum(), 1e-9)
+        si = getattr(self, 'sense_intero', 0.0)
+        if si:
+            self.H = self.H * (1.0 - 0.05) + si
+
+        B = self.ratio * want.sum()
+        if self.alloc_fn is not None:
+            a = self.alloc_fn(want, B, self)
+        else:
+            o = np.argsort(-want)
+            a = np.zeros(self.N)
+            left = B
+            for i in o:
+                tk = min(want[i], left)
+                a[i] = tk
+                left -= tk
+                if left <= 1e-12:
+                    break
+        unmet = np.maximum(want - a, 0.0)
+        self._last_unmet = unmet
+
+        if self.alpha_homeo:
+            tension = float(np.mean(self.dev_last)) if hasattr(self, 'dev_last') else float(dev.mean())
+            self.alpha = self.alpha * self.alpha_decay + self.k_alpha * tension
+            self.alpha = float(np.clip(self.alpha, 0.0, 1.0))
+            self.alpha_hist.append(self.alpha)
+
+        # ---- 干预点 2：可逆性 ----
+        if self.reversible:
+            # 未满足 → 衰减；满足（unmet≈0）→ 按同速率恢复，上限 1.0
+            rec = self.cap_decay * (unmet <= 1e-9).astype(float) * (1.0 - self.capacity)
+            self.capacity = np.minimum(self.capacity + rec, 1.0)
+        # 不可逆分支：与原引擎一致（只减不增）
+        self.capacity = np.maximum(self.capacity - self.cap_decay * unmet * self.capacity, self.cap_min)
+
+        self.H = self.H * (1.0 - self.lam_H) + unmet
+
+        # ---- 干预点 1：能量来源 ----
+        cap = self.cap_max * e
+        cap_share = cap / self.N
+        done = np.minimum(a, cap_share)
+        if self.energy == 'endo':
+            # 原引擎：代谢预算（有 basal 消耗，摄食由自身产出换）
+            self.E = self.E - (self.basal + self.c1 * done.sum())
+            self.E = self.E + self.fg * self.fg_eff * done[self.forage_ch] / max(cap_share, 1e-12)
+        else:
+            # Avida 式：能量是奖励（无 basal 消耗，完成任务即净收益）
+            self.E = self.E + self.fg * self.fg_eff * done[self.forage_ch] / max(cap_share, 1e-12)
+        self.E = min(self.E, self.Emax)
+
+        if self.E <= 0.0:
+            self.E = 0.0
+            self.low_ticks += 1
+            if self.low_ticks > self.death_patience:
+                self.alive = False
+                self.death_t = self.t
+        else:
+            self.low_ticks = 0
+
+        invest = a / max(a.sum(), 1e-12) * self.N
+        self.y = self.y + self.mu * invest * (self.sp - self.y) - self.leak * self.y
+        self.y = np.clip(self.y, 1e-6, 2.0)
+        self.ref = self.ref + (self.y - self.ref) / self.tau_ref
+        self.sp = self.sp + (self.ref - self.sp) / self.tau_sp
+        self.sp = np.maximum(self.sp, self.sp_floor)
+        self.b = w0
+        self.t += 1
+        tot = float(a.sum())
+        rec = dict(t=self.t, E=self.E, alive=self.alive,
+                   cap=float(self.capacity.mean()),
+                   share0=float(a[0] / tot) if tot > 1e-12 else 0.0,
+                   capv=[float(v) for v in self.capacity])
+        self.log.append(rec)
+        return rec
+
+
+def run_cell(energy, reversible, seeds, steps=600, N=8, ratio=0.45):
+    """指标说明（059 修正版）：
+
+    初版用 std/mean 量"疤痕"，被实测推翻 —— 可逆模式下满足的通道回到 1.0、
+    不满足的继续掉，反而【拉大】离散度。离散度不是不可逆性的度量。
+
+    改用两个直接指标：
+      rise_max   = 全程 capacity 出现过的最大的正向回升量（不可逆应恒为 0）
+      perm_loss  = 终态相对初值的永久损失（1 - 终态均值），初值恒为 1.0
+    """
+    skews, deaths, capmeans, rises, ploss = [], 0, [], [], []
+    for sd in seeds:
+        lf = Life5Pos(energy=energy, reversible=reversible, N=N, seed=sd, ratio=ratio)
+        lf.run(steps)
+        c = np.array(lf.capacity)
+        skews.append(float(c.std() / max(c.mean(), 1e-12)))
+        capmeans.append(float(c.mean()))
+        # 逐拍检查是否有通道回升
+        traj = np.array([r['capv'] for r in lf.log])
+        d = np.diff(traj, axis=0)
+        rises.append(float(max(d.max(), 0.0)))
+        ploss.append(float(1.0 - c.mean()))
+        if not lf.alive:
+            deaths += 1
+    return dict(
+        energy=energy, reversible=reversible, n=len(seeds),
+        skew=float(np.mean(skews)), skew_se=float(np.std(skews, ddof=1) / np.sqrt(len(seeds))),
+        cap_mean=float(np.mean(capmeans)), deaths=deaths,
+        death_rate=deaths / len(seeds),
+        rise_max=float(np.mean(rises)),
+        perm_loss=float(np.mean(ploss)),
+    )
+
+
+def main():
+    seeds = list(range(16))
+    cells = {}
+    for en in ('endo', 'exo'):
+        for rv in (False, True):
+            k = f"{en}_{'rev' if rv else 'irrev'}"
+            cells[k] = run_cell(en, rv, seeds)
+            c = cells[k]
+            print(f"{k:14s} 死亡 {c['deaths']}/{c['n']}  "
+                  f"永久损失 {c['perm_loss']:.4f}  最大回升 {c['rise_max']:.6f}  "
+                  f"(偏度 {c['skew']:.4f})")
+
+    # ---- 判据核验（059 修正版）----
+    # 原 P3 预注册「Avida 格（exo×rev）偏度接近 0」已被实测推翻：
+    #   exo_rev 偏度 0.4990 ~= exo_irrev 0.2695，离散度根本不区分可逆性。
+    #   原因：可逆让满足的通道回到 1.0、不满足的继续掉，反而拉大离散度。
+    # 改用直接指标重写判据。
+    verdict = {}
+    verdict['P1_死亡只出现在endo列_exo列恒不死'] = (
+        cells['exo_irrev']['deaths'] == 0 and cells['exo_rev']['deaths'] == 0
+        and (cells['endo_irrev']['deaths'] + cells['endo_rev']['deaths']) > 0
+    )
+    verdict['P2_不可逆列capacity从不回升'] = (
+        cells['endo_irrev']['rise_max'] == 0.0 and cells['exo_irrev']['rise_max'] == 0.0
+    )
+    verdict['P3_可逆列确实出现回升'] = (
+        cells['endo_rev']['rise_max'] > 0.0 and cells['exo_rev']['rise_max'] > 0.0
+    )
+    verdict['P4_可逆列永久损失显著小于不可逆列'] = (
+        cells['endo_rev']['perm_loss'] < cells['endo_irrev']['perm_loss']
+        and cells['exo_rev']['perm_loss'] < cells['exo_irrev']['perm_loss']
+    )
+    # 被推翻的预注册（保留记录，不得删除）
+    verdict['【已推翻】原P3_exo_rev偏度接近0'] = cells['exo_rev']['skew'] < 0.05
+
+    print("\n--- 判据核验 ---")
+    for k, v in verdict.items():
+        print(f"  {'✓' if v else '✗'} {k}")
+
+    out = dict(cells=cells, verdict=verdict, seeds=len(seeds), steps=600, N=8, ratio=0.45)
+    p = os.path.join(os.path.dirname(__file__), '..', 'data', 'positioning_results.json')
+    os.makedirs(os.path.dirname(p), exist_ok=True)
+    with open(p, 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print(f"\n已写入 {p}")
+    return out
+
+
+if __name__ == '__main__':
+    main()

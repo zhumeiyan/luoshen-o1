@@ -1,1 +1,250 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIwojIENvcHlyaWdodCAyMDEyLTIwMTUgU3BvdGlmeSBBQgojCiMgTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiMgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgojIFlvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdAojCiMgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiMKIyBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiMgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKIyBXSVRIT1VUIFdBUlJBTlRJRVMgT1IgQ09ORElUSU9OUyBPRiBBTlkgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4KIyBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiMgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiMKCiIiIk9wZW5lclRhcmdldCBzdXBwb3J0LCBhbGxvd3MgZWFzaWVyIHRlc3RpbmcgYW5kIGNvbmZpZ3VyYXRpb24gYnkgYWJzdHJhY3RpbmcKb3V0IHRoZSBMb2NhbFRhcmdldCwgUzNUYXJnZXQsIGFuZCBNb2NrVGFyZ2V0IHR5cGVzLgoKRXhhbXBsZToKCi4uIGNvZGUtYmxvY2s6OiBweXRob24KCiAgICBmcm9tIGx1aWdpLmNvbnRyaWIub3BlbmVyIGltcG9ydCBPcGVuZXJUYXJnZXQKCiAgICBPcGVuZXJUYXJnZXQoJy9sb2NhbC9wYXRoLnR4dCcpCiAgICBPcGVuZXJUYXJnZXQoJ3MzOi8vemVmci9yZW1vdGUvcGF0aC50eHQnKQoKIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgpmcm9tIHVybGxpYi5wYXJzZSBpbXBvcnQgcGFyc2VfcXMsIHVybHNwbGl0Cgpmcm9tIGx1aWdpLmNvbnRyaWIuczMgaW1wb3J0IFMzVGFyZ2V0CmZyb20gbHVpZ2kubG9jYWxfdGFyZ2V0IGltcG9ydCBMb2NhbFRhcmdldApmcm9tIGx1aWdpLm1vY2sgaW1wb3J0IE1vY2tUYXJnZXQKZnJvbSBsdWlnaS50YXJnZXQgaW1wb3J0IEZpbGVTeXN0ZW1FeGNlcHRpb24KCl9fYWxsX18gPSBbIk9wZW5lckVycm9yIiwgIk5vT3BlbmVyRXJyb3IiLCAiSW52YWxpZFF1ZXJ5IiwgIk9wZW5lclJlZ2lzdHJ5IiwgIk9wZW5lciIsICJNb2NrT3BlbmVyIiwgIkxvY2FsT3BlbmVyIiwgIlMzT3BlbmVyIiwgIm9wZW5lciIsICJPcGVuZXJUYXJnZXQiXQoKCmNsYXNzIE9wZW5lckVycm9yKEZpbGVTeXN0ZW1FeGNlcHRpb24pOgogICAgIiIiVGhlIGJhc2UgZXhjZXB0aW9uIHRocm93biBieSBvcGVuZXJzIiIiCgogICAgcGFzcwoKCmNsYXNzIE5vT3BlbmVyRXJyb3IoT3BlbmVyRXJyb3IpOgogICAgIiIiVGhyb3duIHdoZW4gdGhlcmUgaXMgbm8gb3BlbmVyIGZvciB0aGUgZ2l2ZW4gcHJvdG9jb2wiIiIKCiAgICBwYXNzCgoKY2xhc3MgSW52YWxpZFF1ZXJ5KE9wZW5lckVycm9yKToKICAgICIiIlRocm93biB3aGVuIGFuIG9wZW5lciBpcyBwYXNzZWQgdW5leHBlY3RlZCBhcmd1bWVudHMiIiIKCiAgICBwYXNzCgoKY2xhc3MgT3BlbmVyUmVnaXN0cnk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgb3BlbmVycz1Ob25lKToKICAgICAgICAiIiJBbiBvcGVuZXIgcmVnaXN0cnkgdGhhdCAgc3RvcmVzIGEgbnVtYmVyIG9mIG9wZW5lciBvYmplY3RzIHVzZWQKICAgICAgICB0byBwYXJzZSBUYXJnZXQgVVJJcwoKICAgICAgICA6cGFyYW0gb3BlbmVyczogQSBsaXN0IG9mIG9iamVjdHMgaW5oZXJpdGVkIGZyb20gdGhlIE9wZW5lciBjbGFzcy4KICAgICAgICA6dHlwZSBvcGVuZXJzOiBsaXN0CgogICAgICAgICIiIgogICAgICAgIGlmIG9wZW5lcnMgaXMgTm9uZToKICAgICAgICAgICAgb3BlbmVycyA9IFtdCgogICAgICAgIHNlbGYucmVnaXN0cnkgPSB7fQogICAgICAgIHNlbGYub3BlbmVycyA9IHt9CiAgICAgICAgc2VsZi5kZWZhdWx0X29wZW5lciA9ICJmaWxlIgogICAgICAgIGZvciBvcGVuZXIgaW4gb3BlbmVyczoKICAgICAgICAgICAgc2VsZi5hZGQob3BlbmVyKQoKICAgIGRlZiBnZXRfb3BlbmVyKHNlbGYsIG5hbWUpOgogICAgICAgICIiIlJldHJpZXZlIGFuIG9wZW5lciBmb3IgdGhlIGdpdmVuIHByb3RvY29sCgogICAgICAgIDpwYXJhbSBuYW1lOiBuYW1lIG9mIHRoZSBvcGVuZXIgdG8gb3BlbgogICAgICAgIDp0eXBlIG5hbWU6IHN0cmluZwogICAgICAgIDpyYWlzZXMgTm9PcGVuZXJFcnJvcjogaWYgbm8gb3BlbmVyIGhhcyBiZWVuIHJlZ2lzdGVyZWQgb2YgdGhhdCBuYW1lCgogICAgICAgICIiIgogICAgICAgIGlmIG5hbWUgbm90IGluIHNlbGYucmVnaXN0cnk6CiAgICAgICAgICAgIHJhaXNlIE5vT3BlbmVyRXJyb3IoIk5vIG9wZW5lciBmb3IgJXMiICUgbmFtZSkKICAgICAgICBpbmRleCA9IHNlbGYucmVnaXN0cnlbbmFtZV0KICAgICAgICByZXR1cm4gc2VsZi5vcGVuZXJzW2luZGV4XQoKICAgIGRlZiBhZGQoc2VsZiwgb3BlbmVyKToKICAgICAgICAiIiJBZGRzIGFuIG9wZW5lciB0byB0aGUgcmVnaXN0cnkKCiAgICAgICAgOnBhcmFtIG9wZW5lcjogT3BlbmVyIG9iamVjdAogICAgICAgIDp0eXBlIG9wZW5lcjogT3BlbmVyIGluaGVyaXRlZCBvYmplY3QKCiAgICAgICAgIiIiCgogICAgICAgIGluZGV4ID0gbGVuKHNlbGYub3BlbmVycykKICAgICAgICBzZWxmLm9wZW5lcnNbaW5kZXhdID0gb3BlbmVyCiAgICAgICAgZm9yIG5hbWUgaW4gb3BlbmVyLm5hbWVzOgogICAgICAgICAgICBzZWxmLnJlZ2lzdHJ5W25hbWVdID0gaW5kZXgKCiAgICBkZWYgb3BlbihzZWxmLCB0YXJnZXRfdXJpLCAqKmt3YXJncyk6CiAgICAgICAgIiIiT3BlbiB0YXJnZXQgdXJpLgoKICAgICAgICA6cGFyYW0gdGFyZ2V0X3VyaTogVXJpIHRvIG9wZW4KICAgICAgICA6dHlwZSB0YXJnZXRfdXJpOiBzdHJpbmcKCiAgICAgICAgOnJldHVybnM6IFRhcmdldCBvYmplY3QKCiAgICAgICAgIiIiCiAgICAgICAgdGFyZ2V0ID0gdXJsc3BsaXQodGFyZ2V0X3VyaSwgc2NoZW1lPXNlbGYuZGVmYXVsdF9vcGVuZXIpCgogICAgICAgIG9wZW5lciA9IHNlbGYuZ2V0X29wZW5lcih0YXJnZXQuc2NoZW1lKQogICAgICAgIHF1ZXJ5ID0gb3BlbmVyLmNvbmZvcm1fcXVlcnkodGFyZ2V0LnF1ZXJ5KQoKICAgICAgICB0YXJnZXQgPSBvcGVuZXIuZ2V0X3RhcmdldCh0YXJnZXQuc2NoZW1lLCB0YXJnZXQucGF0aCwgdGFyZ2V0LmZyYWdtZW50LCB0YXJnZXQudXNlcm5hbWUsIHRhcmdldC5wYXNzd29yZCwgdGFyZ2V0Lmhvc3RuYW1lLCB0YXJnZXQucG9ydCwgcXVlcnksICoqa3dhcmdzKQogICAgICAgIHRhcmdldC5vcGVuZXJfcGF0aCA9IHRhcmdldF91cmkKCiAgICAgICAgcmV0dXJuIHRhcmdldAoKCmNsYXNzIE9wZW5lcjoKICAgICIiIkJhc2UgY2xhc3MgZm9yIE9wZW5lciBvYmplY3RzLiIiIgoKICAgICMgRGljdGlvbmFyeSBvZiBleHBlY3RlZCBrd2FyZ3MgYW5kIGZsYWcgZm9yIGpzb24gbG9hZGluZyB2YWx1ZXMgKGJvb2wvaW50KQogICAgYWxsb3dlZF9rd2FyZ3M6IGRpY3Rbc3RyLCBib29sXSA9IHt9CiAgICAjIEZsYWcgdG8gZmlsdGVyIG91dCB1bmV4cGVjdGVkIGt3YXJncwogICAgZmlsdGVyX2t3YXJncyA9IFRydWUKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBjb25mb3JtX3F1ZXJ5KGNscywgcXVlcnkpOgogICAgICAgICIiIkNvbnZlcnRzIHRoZSBxdWVyeSBzdHJpbmcgZnJvbSBhIHRhcmdldCB1cmksIHVzZXMKICAgICAgICBjbHMuYWxsb3dlZF9rd2FyZ3MsIGFuZCBjbHMuZmlsdGVyX2t3YXJncyB0byBkcml2ZSBsb2dpYy4KCiAgICAgICAgOnBhcmFtIHF1ZXJ5OiBVbnBhcnNlZCBxdWVyeSBzdHJpbmcKICAgICAgICA6dHlwZSBxdWVyeTogdXJsbGliLnBhcnNlLnVuc3BsaXQodXJpKS5xdWVyeQogICAgICAgIDpyZXR1cm5zOiBEaWN0aW9uYXJ5IG9mIHBhcnNlZCB2YWx1ZXMsIGV2ZXJ5dGhpbmcgaW4gY2xzLmFsbG93ZWRfa3dhcmdzCiAgICAgICAgICAgIHdpdGggdmFsdWVzIHNldCB0byBUcnVlIHdpbGwgYmUgcGFyc2VkIGFzIGpzb24gc3RyaW5ncy4KCiAgICAgICAgIiIiCiAgICAgICAgcXVlcnkgPSBwYXJzZV9xcyhxdWVyeSwga2VlcF9ibGFua192YWx1ZXM9VHJ1ZSkKCiAgICAgICAgIyBSZW1vdmUgYW55IHVuZXhwZWN0ZWQga2V5d29yZHMgZnJvbSB0aGUgcXVlcnkgc3RyaW5nLgogICAgICAgIGlmIGNscy5maWx0ZXJfa3dhcmdzOgogICAgICAgICAgICBxdWVyeSA9IHt4OiB5IGZvciB4LCB5IGluIHF1ZXJ5Lml0ZW1zKCkgaWYgeCBpbiBjbHMuYWxsb3dlZF9rd2FyZ3N9CgogICAgICAgIGZvciBrZXksIHZhbHMgaW4gcXVlcnkuaXRlbXMoKToKICAgICAgICAgICAgIyBNdWx0aXBsZSB2YWx1ZXMgb2YgdGhlIHNhbWUgbmFtZSBjb3VsZCBiZSBwYXNzZWQgdXNlIGZpcnN0CiAgICAgICAgICAgICMgQWxzbyBwYXJhbXMgd2l0aG91dCBzdHJpbmdzIHdpbGwgYmUgdHJlYXRlZCBhcyB0cnVlIHZhbHVlcwogICAgICAgICAgICBpZiBjbHMuYWxsb3dlZF9rd2FyZ3MuZ2V0KGtleSwgRmFsc2UpOgogICAgICAgICAgICAgICAgdmFsID0ganNvbi5sb2Fkcyh2YWxzWzBdIG9yICJ0cnVlIikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHZhbCA9IHZhbHNbMF0gb3IgInRydWUiCgogICAgICAgICAgICBxdWVyeVtrZXldID0gdmFsCgogICAgICAgIHJldHVybiBxdWVyeQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldF90YXJnZXQoY2xzLCBzY2hlbWUsIHBhdGgsIGZyYWdtZW50LCB1c2VybmFtZSwgcGFzc3dvcmQsIGhvc3RuYW1lLCBwb3J0LCBxdWVyeSwgKiprd2FyZ3MpOgogICAgICAgICIiIk92ZXJyaWRlIHRoaXMgbWV0aG9kIHRvIHVzZSB2YWx1ZXMgZnJvbSB0aGUgcGFyc2VkIHVyaSB0byBpbml0aWFsaXplCiAgICAgICAgdGhlIGV4cGVjdGVkIHRhcmdldC4KCiAgICAgICAgIiIiCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigiZ2V0X3RhcmdldCBtdXN0IGJlIG92ZXJyaWRkZW4iKQoKCmNsYXNzIE1vY2tPcGVuZXIoT3BlbmVyKToKICAgICIiIk1vY2sgdGFyZ2V0IG9wZW5lciwgd29ya3MgbGlrZSBMb2NhbFRhcmdldCBidXQgZmlsZXMgYXJlIGFsbCBpbgogICAgbWVtb3J5LgoKICAgIGV4YW1wbGU6CiAgICAqIG1vY2s6Ly9mb28vYmFyLnR4dAoKICAgICIiIgoKICAgIG5hbWVzID0gWyJtb2NrIl0KICAgIGFsbG93ZWRfa3dhcmdzID0gewogICAgICAgICJpc190bXAiOiBUcnVlLAogICAgICAgICJtaXJyb3Jfb25fc3RkZXJyIjogVHJ1ZSwKICAgICAgICAiZm9ybWF0IjogRmFsc2UsCiAgICB9CgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgZ2V0X3RhcmdldChjbHMsIHNjaGVtZSwgcGF0aCwgZnJhZ21lbnQsIHVzZXJuYW1lLCBwYXNzd29yZCwgaG9zdG5hbWUsIHBvcnQsIHF1ZXJ5LCAqKmt3YXJncyk6CiAgICAgICAgZnVsbF9wYXRoID0gKGhvc3RuYW1lIG9yICIiKSArIHBhdGgKICAgICAgICBxdWVyeS51cGRhdGUoa3dhcmdzKQogICAgICAgIHJldHVybiBNb2NrVGFyZ2V0KGZ1bGxfcGF0aCwgKipxdWVyeSkKCgpjbGFzcyBMb2NhbE9wZW5lcihPcGVuZXIpOgogICAgIiIiTG9jYWwgZmlsZXN5c3RlbSBvcGVuZXIsIHdvcmtzIHdpdGggYW55IHZhbGlkIHN5c3RlbSBwYXRoLiBUaGlzCiAgICBpcyB0aGUgZGVmYXVsdCBvcGVuZXIgYW5kIHdpbGwgYmUgdXNlZCBpZiB5b3UgZG9uJ3QgaW5kaWNhdGUgd2hpY2ggb3BlbmVyLgoKICAgIGV4YW1wbGVzOgogICAgKiBmaWxlOi8vcmVsYXRpdmUvZm9vL2Jhci9iYXoudHh0IChvcGVucyBhIHJlbGF0aXZlIGZpbGUpCiAgICAqIGZpbGU6Ly8vaG9tZS91c2VyIChvcGVucyBhIGRpcmVjdG9yeSBmcm9tIGEgYWJzb2x1dGUgcGF0aCkKICAgICogZm9vL2Jhci5iYXogKGZpbGU6Ly8gaXMgdGhlIGRlZmF1bHQgb3BlbmVyKQoKICAgICIiIgoKICAgIG5hbWVzID0gWyJmaWxlIl0KICAgIGFsbG93ZWRfa3dhcmdzID0gewogICAgICAgICJpc190bXAiOiBUcnVlLAogICAgICAgICJmb3JtYXQiOiBGYWxzZSwKICAgIH0KCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBnZXRfdGFyZ2V0KGNscywgc2NoZW1lLCBwYXRoLCBmcmFnbWVudCwgdXNlcm5hbWUsIHBhc3N3b3JkLCBob3N0bmFtZSwgcG9ydCwgcXVlcnksICoqa3dhcmdzKToKICAgICAgICBmdWxsX3BhdGggPSAoaG9zdG5hbWUgb3IgIiIpICsgcGF0aAogICAgICAgIHF1ZXJ5LnVwZGF0ZShrd2FyZ3MpCiAgICAgICAgcmV0dXJuIExvY2FsVGFyZ2V0KGZ1bGxfcGF0aCwgKipxdWVyeSkKCgpjbGFzcyBTM09wZW5lcihPcGVuZXIpOgogICAgIiIiT3BlbnMgYSB0YXJnZXQgc3RvcmVkIG9uIEFtYXpvbiBTMyBzdG9yYWdlCgogICAgZXhhbXBsZXM6CiAgICAqIHMzOi8vYnVja2V0L2Zvby9iYXIudHh0CiAgICAqIHMzOi8vYnVja2V0L2Zvby9iYXIudHh0P2F3c19hY2Nlc3Nfa2V5X2lkPXh4eCZhd3Nfc2VjcmV0X2FjY2Vzc19rZXk9eXl5CgogICAgIiIiCgogICAgbmFtZXMgPSBbInMzIiwgInMzbiJdCiAgICBhbGxvd2VkX2t3YXJncyA9IHsKICAgICAgICAiZm9ybWF0IjogRmFsc2UsCiAgICAgICAgImNsaWVudCI6IFRydWUsCiAgICB9CiAgICBmaWx0ZXJfa3dhcmdzID0gRmFsc2UKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBnZXRfdGFyZ2V0KGNscywgc2NoZW1lLCBwYXRoLCBmcmFnbWVudCwgdXNlcm5hbWUsIHBhc3N3b3JkLCBob3N0bmFtZSwgcG9ydCwgcXVlcnksICoqa3dhcmdzKToKICAgICAgICBxdWVyeS51cGRhdGUoa3dhcmdzKQogICAgICAgIHJldHVybiBTM1RhcmdldCgie3NjaGVtZX06Ly97aG9zdG5hbWV9e3BhdGh9Ii5mb3JtYXQoc2NoZW1lPXNjaGVtZSwgaG9zdG5hbWU9aG9zdG5hbWUsIHBhdGg9cGF0aCksICoqcXVlcnkpCgoKb3BlbmVyID0gT3BlbmVyUmVnaXN0cnkoCiAgICBbCiAgICAgICAgTW9ja09wZW5lciwKICAgICAgICBMb2NhbE9wZW5lciwKICAgICAgICBTM09wZW5lciwKICAgIF0KKQoKT3BlbmVyVGFyZ2V0ID0gb3BlbmVyLm9wZW4K
+# -*- coding: utf-8 -*-
+#
+# Copyright 2012-2015 Spotify AB
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+
+"""OpenerTarget support, allows easier testing and configuration by abstracting
+out the LocalTarget, S3Target, and MockTarget types.
+
+Example:
+
+.. code-block:: python
+
+    from luigi.contrib.opener import OpenerTarget
+
+    OpenerTarget('/local/path.txt')
+    OpenerTarget('s3://zefr/remote/path.txt')
+
+"""
+
+from __future__ import annotations
+
+import json
+from urllib.parse import parse_qs, urlsplit
+
+from luigi.contrib.s3 import S3Target
+from luigi.local_target import LocalTarget
+from luigi.mock import MockTarget
+from luigi.target import FileSystemException
+
+__all__ = ["OpenerError", "NoOpenerError", "InvalidQuery", "OpenerRegistry", "Opener", "MockOpener", "LocalOpener", "S3Opener", "opener", "OpenerTarget"]
+
+
+class OpenerError(FileSystemException):
+    """The base exception thrown by openers"""
+
+    pass
+
+
+class NoOpenerError(OpenerError):
+    """Thrown when there is no opener for the given protocol"""
+
+    pass
+
+
+class InvalidQuery(OpenerError):
+    """Thrown when an opener is passed unexpected arguments"""
+
+    pass
+
+
+class OpenerRegistry:
+    def __init__(self, openers=None):
+        """An opener registry that  stores a number of opener objects used
+        to parse Target URIs
+
+        :param openers: A list of objects inherited from the Opener class.
+        :type openers: list
+
+        """
+        if openers is None:
+            openers = []
+
+        self.registry = {}
+        self.openers = {}
+        self.default_opener = "file"
+        for opener in openers:
+            self.add(opener)
+
+    def get_opener(self, name):
+        """Retrieve an opener for the given protocol
+
+        :param name: name of the opener to open
+        :type name: string
+        :raises NoOpenerError: if no opener has been registered of that name
+
+        """
+        if name not in self.registry:
+            raise NoOpenerError("No opener for %s" % name)
+        index = self.registry[name]
+        return self.openers[index]
+
+    def add(self, opener):
+        """Adds an opener to the registry
+
+        :param opener: Opener object
+        :type opener: Opener inherited object
+
+        """
+
+        index = len(self.openers)
+        self.openers[index] = opener
+        for name in opener.names:
+            self.registry[name] = index
+
+    def open(self, target_uri, **kwargs):
+        """Open target uri.
+
+        :param target_uri: Uri to open
+        :type target_uri: string
+
+        :returns: Target object
+
+        """
+        target = urlsplit(target_uri, scheme=self.default_opener)
+
+        opener = self.get_opener(target.scheme)
+        query = opener.conform_query(target.query)
+
+        target = opener.get_target(target.scheme, target.path, target.fragment, target.username, target.password, target.hostname, target.port, query, **kwargs)
+        target.opener_path = target_uri
+
+        return target
+
+
+class Opener:
+    """Base class for Opener objects."""
+
+    # Dictionary of expected kwargs and flag for json loading values (bool/int)
+    allowed_kwargs: dict[str, bool] = {}
+    # Flag to filter out unexpected kwargs
+    filter_kwargs = True
+
+    @classmethod
+    def conform_query(cls, query):
+        """Converts the query string from a target uri, uses
+        cls.allowed_kwargs, and cls.filter_kwargs to drive logic.
+
+        :param query: Unparsed query string
+        :type query: urllib.parse.unsplit(uri).query
+        :returns: Dictionary of parsed values, everything in cls.allowed_kwargs
+            with values set to True will be parsed as json strings.
+
+        """
+        query = parse_qs(query, keep_blank_values=True)
+
+        # Remove any unexpected keywords from the query string.
+        if cls.filter_kwargs:
+            query = {x: y for x, y in query.items() if x in cls.allowed_kwargs}
+
+        for key, vals in query.items():
+            # Multiple values of the same name could be passed use first
+            # Also params without strings will be treated as true values
+            if cls.allowed_kwargs.get(key, False):
+                val = json.loads(vals[0] or "true")
+            else:
+                val = vals[0] or "true"
+
+            query[key] = val
+
+        return query
+
+    @classmethod
+    def get_target(cls, scheme, path, fragment, username, password, hostname, port, query, **kwargs):
+        """Override this method to use values from the parsed uri to initialize
+        the expected target.
+
+        """
+        raise NotImplementedError("get_target must be overridden")
+
+
+class MockOpener(Opener):
+    """Mock target opener, works like LocalTarget but files are all in
+    memory.
+
+    example:
+    * mock://foo/bar.txt
+
+    """
+
+    names = ["mock"]
+    allowed_kwargs = {
+        "is_tmp": True,
+        "mirror_on_stderr": True,
+        "format": False,
+    }
+
+    @classmethod
+    def get_target(cls, scheme, path, fragment, username, password, hostname, port, query, **kwargs):
+        full_path = (hostname or "") + path
+        query.update(kwargs)
+        return MockTarget(full_path, **query)
+
+
+class LocalOpener(Opener):
+    """Local filesystem opener, works with any valid system path. This
+    is the default opener and will be used if you don't indicate which opener.
+
+    examples:
+    * file://relative/foo/bar/baz.txt (opens a relative file)
+    * file:///home/user (opens a directory from a absolute path)
+    * foo/bar.baz (file:// is the default opener)
+
+    """
+
+    names = ["file"]
+    allowed_kwargs = {
+        "is_tmp": True,
+        "format": False,
+    }
+
+    @classmethod
+    def get_target(cls, scheme, path, fragment, username, password, hostname, port, query, **kwargs):
+        full_path = (hostname or "") + path
+        query.update(kwargs)
+        return LocalTarget(full_path, **query)
+
+
+class S3Opener(Opener):
+    """Opens a target stored on Amazon S3 storage
+
+    examples:
+    * s3://bucket/foo/bar.txt
+    * s3://bucket/foo/bar.txt?aws_access_key_id=xxx&aws_secret_access_key=yyy
+
+    """
+
+    names = ["s3", "s3n"]
+    allowed_kwargs = {
+        "format": False,
+        "client": True,
+    }
+    filter_kwargs = False
+
+    @classmethod
+    def get_target(cls, scheme, path, fragment, username, password, hostname, port, query, **kwargs):
+        query.update(kwargs)
+        return S3Target("{scheme}://{hostname}{path}".format(scheme=scheme, hostname=hostname, path=path), **query)
+
+
+opener = OpenerRegistry(
+    [
+        MockOpener,
+        LocalOpener,
+        S3Opener,
+    ]
+)
+
+OpenerTarget = opener.open

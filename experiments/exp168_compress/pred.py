@@ -1,1 +1,57 @@
-aW1wb3J0IG9zLHJlLGpzb24sbWF0aCxjb2xsZWN0aW9ucyxyYW5kb20KQkFTRT0iL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiCmRlZiBsb2FkX3poKCk6CiAgICB0PW9wZW4oZiJ7QkFTRX0vZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCIsZW5jb2Rpbmc9InV0Zi04IixlcnJvcnM9Imlnbm9yZSIpLnJlYWQoKQogICAgcmV0dXJuIFtjIGZvciBjIGluIHQgaWYgJ1x1NGUwMCc8PWM8PSdcdTlmZmYnXQpkZWYgbG9hZF9jb2RlKCk6CiAgICB0eHQ9W10KICAgIGZvciByb290LF8sZnMgaW4gb3Mud2FsayhCQVNFKToKICAgICAgICBmb3IgZiBpbiBmczoKICAgICAgICAgICAgaWYgZi5lbmRzd2l0aCgiLnB5Iik6CiAgICAgICAgICAgICAgICB0cnk6IHR4dC5hcHBlbmQob3Blbihvcy5wYXRoLmpvaW4ocm9vdCxmKSxlbmNvZGluZz0idXRmLTgiLGVycm9ycz0iaWdub3JlIikucmVhZCgpKQogICAgICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwogICAgcmV0dXJuIHJlLmZpbmRhbGwociJbQS1aYS16X11bQS1aYS16MC05X10qfFxkKyIsIlxuIi5qb2luKHR4dCkpCgp6aD1sb2FkX3poKCk7IGN0PWxvYWRfY29kZSgpCk49bWluKGxlbih6aCksbGVuKGN0KSkKemg9emhbOk5dOyBjdD1jdFs6Tl0KcHJpbnQoZiLnu5/kuIAgTj17Tn0iKQoKZGVmIG5ncmFtX2FjYyhzZXEsayxuYW1lKToKICAgICMg6aG65bqP6ZqP5py65YyW5YiH5YiG77yM6Ziy5ryC56e777yIMTU25Y+35aSN5Y+R55eF77yJCiAgICBpZHg9bGlzdChyYW5nZShsZW4oc2VxKS1rKSk7IHJhbmRvbS5zZWVkKDcpOyByYW5kb20uc2h1ZmZsZShpZHgpCiAgICBtPWxlbihpZHgpOyBjdXQ9aW50KG0qMC43KQogICAgdHI9aWR4WzpjdXRdOyB0ZT1pZHhbY3V0Ol0KICAgIGRlZiBidWlsZChpaSk6CiAgICAgICAgZD1jb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChjb2xsZWN0aW9ucy5Db3VudGVyKQogICAgICAgIGZvciBpIGluIGlpOgogICAgICAgICAgICBkW3R1cGxlKHNlcVtpOmkra10pXVtzZXFbaStrXV0rPTEKICAgICAgICByZXR1cm4gZAogICAgTT1idWlsZCh0cikKICAgIGhpdD10b3Q9MDsgY292PTAKICAgIGZvciBpIGluIHRlOgogICAgICAgIGN0eD10dXBsZShzZXFbaTppK2tdKTsgdGd0PXNlcVtpK2tdCiAgICAgICAgYz1NLmdldChjdHgpCiAgICAgICAgaWYgYzoKICAgICAgICAgICAgY292Kz0xCiAgICAgICAgICAgIGlmIG1heChjLGtleT1jLmdldCk9PXRndDogaGl0Kz0xCiAgICAgICAgdG90Kz0xCiAgICAjIGJhc2VsaW5lOiDmgLvmmK/njJzorq3nu4Ppm4bkuK3mnIDpopHnuYHnmoTnrKblj7cKICAgIGFsbGM9Y29sbGVjdGlvbnMuQ291bnRlcigpCiAgICBmb3IgdiBpbiBNLnZhbHVlcygpOiBhbGxjLnVwZGF0ZSh2KQogICAgYmFzZT1tYXgoYWxsYyxrZXk9YWxsYy5nZXQpCiAgICBiaGl0PXN1bSgxIGZvciBpIGluIHRlIGlmIHNlcVtpK2tdPT1iYXNlKQogICAgYWNjPWhpdC90b3QgaWYgdG90IGVsc2UgMAogICAgYmFjYz1iaGl0L3RvdCBpZiB0b3QgZWxzZSAwCiAgICBwcmludChmIiAge25hbWV9IGs9e2t9ICBhY2M9e2FjYzouNGZ9ICBiYXNlPXtiYWNjOi40Zn0gIGdhaW49e2FjYy1iYWNjOisuNGZ9ICDopobnm5bnjoc9e2Nvdi90b3Q6LjRmfSIpCiAgICByZXR1cm4gZGljdChrPWssYWNjPWFjYyxiYXNlbGluZT1iYWNjLGdhaW49YWNjLWJhY2MsY292PWNvdi90b3QpCgpvdXQ9e30KZm9yIG5tLHNlcSBpbiBbKCLmsYnlrZciLHpoKSwoIumAoOivjeagh+ivhuespiIsY3QpXToKICAgIHByaW50KGYiXG5be25tfV0iKQogICAgb3V0W25tXT1bbmdyYW1fYWNjKHNlcSxrLG5tKSBmb3IgayBpbiAoMSwyLDMsNCw1KV0KCmZvciBubSBpbiBvdXQ6CiAgICBiZXN0PW1heChvdXRbbm1dLGtleT1sYW1iZGEgcjpyWyJnYWluIl0pCiAgICBwcmludChmIlxue25tfTog5bOw5YC8IGs9e2Jlc3RbJ2snXX0gIGdhaW49e2Jlc3RbJ2dhaW4nXTorLjRmfSIpCmpzb24uZHVtcChkaWN0KE49TixyZXM9b3V0KSxvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNjhfY29tcHJlc3MvcHJlZC5qc29uIiwidyIpLGVuc3VyZV9hc2NpaT1GYWxzZSxpbmRlbnQ9MSkK
+import os,re,json,math,collections,random
+BASE="/data/workspace/luoshen-o1"
+def load_zh():
+    t=open(f"{BASE}/evidence/失败模式库/判据核.md",encoding="utf-8",errors="ignore").read()
+    return [c for c in t if '\u4e00'<=c<='\u9fff']
+def load_code():
+    txt=[]
+    for root,_,fs in os.walk(BASE):
+        for f in fs:
+            if f.endswith(".py"):
+                try: txt.append(open(os.path.join(root,f),encoding="utf-8",errors="ignore").read())
+                except Exception: pass
+    return re.findall(r"[A-Za-z_][A-Za-z0-9_]*|\d+","\n".join(txt))
+
+zh=load_zh(); ct=load_code()
+N=min(len(zh),len(ct))
+zh=zh[:N]; ct=ct[:N]
+print(f"统一 N={N}")
+
+def ngram_acc(seq,k,name):
+    # 顺序随机化切分，防漂移（156号复发病）
+    idx=list(range(len(seq)-k)); random.seed(7); random.shuffle(idx)
+    m=len(idx); cut=int(m*0.7)
+    tr=idx[:cut]; te=idx[cut:]
+    def build(ii):
+        d=collections.defaultdict(collections.Counter)
+        for i in ii:
+            d[tuple(seq[i:i+k])][seq[i+k]]+=1
+        return d
+    M=build(tr)
+    hit=tot=0; cov=0
+    for i in te:
+        ctx=tuple(seq[i:i+k]); tgt=seq[i+k]
+        c=M.get(ctx)
+        if c:
+            cov+=1
+            if max(c,key=c.get)==tgt: hit+=1
+        tot+=1
+    # baseline: 总是猜训练集中最频繁的符号
+    allc=collections.Counter()
+    for v in M.values(): allc.update(v)
+    base=max(allc,key=allc.get)
+    bhit=sum(1 for i in te if seq[i+k]==base)
+    acc=hit/tot if tot else 0
+    bacc=bhit/tot if tot else 0
+    print(f"  {name} k={k}  acc={acc:.4f}  base={bacc:.4f}  gain={acc-bacc:+.4f}  覆盖率={cov/tot:.4f}")
+    return dict(k=k,acc=acc,baseline=bacc,gain=acc-bacc,cov=cov/tot)
+
+out={}
+for nm,seq in [("汉字",zh),("造词标识符",ct)]:
+    print(f"\n[{nm}]")
+    out[nm]=[ngram_acc(seq,k,nm) for k in (1,2,3,4,5)]
+
+for nm in out:
+    best=max(out[nm],key=lambda r:r["gain"])
+    print(f"\n{nm}: 峰值 k={best['k']}  gain={best['gain']:+.4f}")
+json.dump(dict(N=N,res=out),open("/data/workspace/luoshen-o1/experiments/exp168_compress/pred.json","w"),ensure_ascii=False,indent=1)

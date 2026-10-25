@@ -1,1 +1,95 @@
-aW1wb3J0IG9zCgppbXBvcnQgdG9yY2gKaW1wb3J0IHRvcmNoLmRpc3RyaWJ1dGVkIGFzIGRpc3QKCmltcG9ydCBtaW5pbWF4X2FyX2Z1c2VkX3Jtc194cHUgICMgbm9xYTogRjQwMQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIHJhbmsgPSBpbnQob3MuZW52aXJvblsiUkFOSyJdKQogICAgbG9jYWxfcmFuayA9IGludChvcy5lbnZpcm9uWyJMT0NBTF9SQU5LIl0pCiAgICB0b3JjaC54cHUuc2V0X2RldmljZShsb2NhbF9yYW5rKQogICAgZGlzdC5pbml0X3Byb2Nlc3NfZ3JvdXAoYmFja2VuZD0ieGNjbCIpCgogICAgcm93cyA9IGludChvcy5lbnZpcm9uLmdldCgiTUlOSU1BWF9BUl9GVVNFRF9STVNfUk9XUyIsICIxIikpCiAgICBoaWRkZW5fc2l6ZSA9IGludChvcy5lbnZpcm9uLmdldCgiTUlOSU1BWF9BUl9GVVNFRF9STVNfSElEREVOX1NJWkUiLCAiMzA3MiIpKQogICAgZHR5cGUgPSB0b3JjaC5mbG9hdDE2CiAgICBkZXZpY2UgPSBmInhwdTp7bG9jYWxfcmFua30iCiAgICBiYXNlX3NlZWQgPSBpbnQob3MuZW52aXJvbi5nZXQoIk1JTklNQVhfQVJfRlVTRURfUk1TX1NFRUQiLCAiMjAyNjA1MTkwMSIpKQoKICAgIHRvcmNoLm1hbnVhbF9zZWVkKGJhc2Vfc2VlZCArIHJhbmspCiAgICB4ID0gKAogICAgICAgIHRvcmNoLnJhbmRuKChyb3dzLCBoaWRkZW5fc2l6ZSksIGR0eXBlPWR0eXBlLCBkZXZpY2U9ZGV2aWNlKSAqIDAuMDUKICAgICAgICArIHJhbmsgKiAwLjAxCiAgICApLmNvbnRpZ3VvdXMoKQogICAgdG9yY2gubWFudWFsX3NlZWQoYmFzZV9zZWVkICsgOTk5KQogICAgcmVzaWR1YWwgPSAoCiAgICAgICAgdG9yY2gucmFuZG4oKHJvd3MsIGhpZGRlbl9zaXplKSwgZHR5cGU9ZHR5cGUsIGRldmljZT1kZXZpY2UpICogMC4wNQogICAgKS5jb250aWd1b3VzKCkKICAgIHRvcmNoLm1hbnVhbF9zZWVkKGJhc2Vfc2VlZCArIDE5OTkpCiAgICB3ZWlnaHQgPSAoCiAgICAgICAgdG9yY2gucmFuZG4oKGhpZGRlbl9zaXplLCksIGR0eXBlPWR0eXBlLCBkZXZpY2U9ZGV2aWNlKSAqIDAuMDUgKyAxLjAKICAgICkuY29udGlndW91cygpCgogICAgIyBNaW5pTWF4IGRlbGF5LWFsbHJlZHVjZSBwYXRoOgogICAgIyByYW5rIDAgYWRkcyB0aGUgcmVwbGljYXRlZCByZXNpZHVhbCBiZWZvcmUgdGhlIGFsbHJlZHVjZSwgdGhlbiBSTVNOb3JtCiAgICAjIHJ1bnMgb24gdGhlIHJlZHVjZWQgaGlkZGVuIHN0YXRlIHdpdGhvdXQgYSByZXNpZHVhbCBhcmd1bWVudC4KICAgIHN0YW5kYXJkX2hpZGRlbiA9IHguY2xvbmUoKQogICAgaWYgcmFuayA9PSAwOgogICAgICAgIHN0YW5kYXJkX2hpZGRlbiA9IHN0YW5kYXJkX2hpZGRlbiArIHJlc2lkdWFsCiAgICBkaXN0LmFsbF9yZWR1Y2Uoc3RhbmRhcmRfaGlkZGVuKQogICAgc3RhbmRhcmRfZmxvYXQgPSBzdGFuZGFyZF9oaWRkZW4uZmxvYXQoKQogICAgdmFyaWFuY2UgPSBzdGFuZGFyZF9mbG9hdC5wb3coMikubWVhbihkaW09LTEsIGtlZXBkaW09VHJ1ZSkKICAgIHN0YW5kYXJkX291dCA9ICgKICAgICAgICAoc3RhbmRhcmRfZmxvYXQgKiB0b3JjaC5yc3FydCh2YXJpYW5jZSArIDEuMGUtNikpLnRvKHdlaWdodC5kdHlwZSkKICAgICAgICAqIHdlaWdodAogICAgKS50byhkdHlwZSkKCiAgICBmdXNlZF9vdXQsIGZ1c2VkX3Jlc2lkdWFsID0gKAogICAgICAgIHRvcmNoLm9wcy5taW5pbWF4X2FyX2Z1c2VkX3Jtc194cHUuYXJfZnVzZWRfYWRkX3JtcygKICAgICAgICAgICAgeCwgcmVzaWR1YWwsIHdlaWdodCwgIjAiLCAxLjBlLTYKICAgICAgICApCiAgICApCiAgICBhcl9pbnB1dCA9IHguY2xvbmUoKQogICAgaWYgcmFuayA9PSAwOgogICAgICAgIGFyX2lucHV0ID0gYXJfaW5wdXQgKyByZXNpZHVhbAogICAgb3JkZXJlZF9vdXQsIG9yZGVyZWRfcmVzaWR1YWwgPSB0b3JjaC5vcHMubWluaW1heF9hcl9mdXNlZF9ybXNfeHB1LmFyX3JtcygKICAgICAgICBhcl9pbnB1dC5jb250aWd1b3VzKCksIHdlaWdodCwgIjAiLCAxLjBlLTYKICAgICkKCiAgICB0b3JjaC54cHUuc3luY2hyb25pemUoKQogICAgdmFsdWVzID0gdG9yY2gudGVuc29yKAogICAgICAgIFsKICAgICAgICAgICAgZmxvYXQoKHN0YW5kYXJkX291dCAtIGZ1c2VkX291dCkuYWJzKCkubWF4KCkuZmxvYXQoKS5jcHUoKSksCiAgICAgICAgICAgIGZsb2F0KChzdGFuZGFyZF9vdXQgLSBmdXNlZF9vdXQpLmFicygpLm1lYW4oKS5mbG9hdCgpLmNwdSgpKSwKICAgICAgICAgICAgZmxvYXQoKHN0YW5kYXJkX2hpZGRlbiAtIGZ1c2VkX3Jlc2lkdWFsKS5hYnMoKS5tYXgoKS5mbG9hdCgpLmNwdSgpKSwKICAgICAgICAgICAgZmxvYXQoKHN0YW5kYXJkX291dCAtIG9yZGVyZWRfb3V0KS5hYnMoKS5tYXgoKS5mbG9hdCgpLmNwdSgpKSwKICAgICAgICAgICAgZmxvYXQoKHN0YW5kYXJkX291dCAtIG9yZGVyZWRfb3V0KS5hYnMoKS5tZWFuKCkuZmxvYXQoKS5jcHUoKSksCiAgICAgICAgICAgIGZsb2F0KChzdGFuZGFyZF9oaWRkZW4gLSBvcmRlcmVkX3Jlc2lkdWFsKS5hYnMoKS5tYXgoKS5mbG9hdCgpLmNwdSgpKSwKICAgICAgICBdLAogICAgICAgIGR0eXBlPXRvcmNoLmZsb2F0MzIsCiAgICAgICAgZGV2aWNlPWRldmljZSwKICAgICkKICAgIGRpc3QuYWxsX3JlZHVjZSh2YWx1ZXMsIG9wPWRpc3QuUmVkdWNlT3AuTUFYKQogICAgaWYgcmFuayA9PSAwOgogICAgICAgIHByaW50KAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAicm93cyI6IHJvd3MsCiAgICAgICAgICAgICAgICAiaGlkZGVuX3NpemUiOiBoaWRkZW5fc2l6ZSwKICAgICAgICAgICAgICAgICJtYXhfb3V0X2RpZmYiOiBmbG9hdCh2YWx1ZXNbMF0uY3B1KCkpLAogICAgICAgICAgICAgICAgIm1lYW5fb3V0X2RpZmYiOiBmbG9hdCh2YWx1ZXNbMV0uY3B1KCkpLAogICAgICAgICAgICAgICAgIm1heF9yZXNpZHVhbF9kaWZmIjogZmxvYXQodmFsdWVzWzJdLmNwdSgpKSwKICAgICAgICAgICAgICAgICJvcmRlcmVkX21heF9vdXRfZGlmZiI6IGZsb2F0KHZhbHVlc1szXS5jcHUoKSksCiAgICAgICAgICAgICAgICAib3JkZXJlZF9tZWFuX291dF9kaWZmIjogZmxvYXQodmFsdWVzWzRdLmNwdSgpKSwKICAgICAgICAgICAgICAgICJvcmRlcmVkX21heF9yZXNpZHVhbF9kaWZmIjogZmxvYXQodmFsdWVzWzVdLmNwdSgpKSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgZmx1c2g9VHJ1ZSwKICAgICAgICApCgogICAgZGlzdC5iYXJyaWVyKCkKICAgIGRpc3QuZGVzdHJveV9wcm9jZXNzX2dyb3VwKCkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+import os
+
+import torch
+import torch.distributed as dist
+
+import minimax_ar_fused_rms_xpu  # noqa: F401
+
+
+def main() -> None:
+    rank = int(os.environ["RANK"])
+    local_rank = int(os.environ["LOCAL_RANK"])
+    torch.xpu.set_device(local_rank)
+    dist.init_process_group(backend="xccl")
+
+    rows = int(os.environ.get("MINIMAX_AR_FUSED_RMS_ROWS", "1"))
+    hidden_size = int(os.environ.get("MINIMAX_AR_FUSED_RMS_HIDDEN_SIZE", "3072"))
+    dtype = torch.float16
+    device = f"xpu:{local_rank}"
+    base_seed = int(os.environ.get("MINIMAX_AR_FUSED_RMS_SEED", "2026051901"))
+
+    torch.manual_seed(base_seed + rank)
+    x = (
+        torch.randn((rows, hidden_size), dtype=dtype, device=device) * 0.05
+        + rank * 0.01
+    ).contiguous()
+    torch.manual_seed(base_seed + 999)
+    residual = (
+        torch.randn((rows, hidden_size), dtype=dtype, device=device) * 0.05
+    ).contiguous()
+    torch.manual_seed(base_seed + 1999)
+    weight = (
+        torch.randn((hidden_size,), dtype=dtype, device=device) * 0.05 + 1.0
+    ).contiguous()
+
+    # MiniMax delay-allreduce path:
+    # rank 0 adds the replicated residual before the allreduce, then RMSNorm
+    # runs on the reduced hidden state without a residual argument.
+    standard_hidden = x.clone()
+    if rank == 0:
+        standard_hidden = standard_hidden + residual
+    dist.all_reduce(standard_hidden)
+    standard_float = standard_hidden.float()
+    variance = standard_float.pow(2).mean(dim=-1, keepdim=True)
+    standard_out = (
+        (standard_float * torch.rsqrt(variance + 1.0e-6)).to(weight.dtype)
+        * weight
+    ).to(dtype)
+
+    fused_out, fused_residual = (
+        torch.ops.minimax_ar_fused_rms_xpu.ar_fused_add_rms(
+            x, residual, weight, "0", 1.0e-6
+        )
+    )
+    ar_input = x.clone()
+    if rank == 0:
+        ar_input = ar_input + residual
+    ordered_out, ordered_residual = torch.ops.minimax_ar_fused_rms_xpu.ar_rms(
+        ar_input.contiguous(), weight, "0", 1.0e-6
+    )
+
+    torch.xpu.synchronize()
+    values = torch.tensor(
+        [
+            float((standard_out - fused_out).abs().max().float().cpu()),
+            float((standard_out - fused_out).abs().mean().float().cpu()),
+            float((standard_hidden - fused_residual).abs().max().float().cpu()),
+            float((standard_out - ordered_out).abs().max().float().cpu()),
+            float((standard_out - ordered_out).abs().mean().float().cpu()),
+            float((standard_hidden - ordered_residual).abs().max().float().cpu()),
+        ],
+        dtype=torch.float32,
+        device=device,
+    )
+    dist.all_reduce(values, op=dist.ReduceOp.MAX)
+    if rank == 0:
+        print(
+            {
+                "rows": rows,
+                "hidden_size": hidden_size,
+                "max_out_diff": float(values[0].cpu()),
+                "mean_out_diff": float(values[1].cpu()),
+                "max_residual_diff": float(values[2].cpu()),
+                "ordered_max_out_diff": float(values[3].cpu()),
+                "ordered_mean_out_diff": float(values[4].cpu()),
+                "ordered_max_residual_diff": float(values[5].cpu()),
+            },
+            flush=True,
+        )
+
+    dist.barrier()
+    dist.destroy_process_group()
+
+
+if __name__ == "__main__":
+    main()

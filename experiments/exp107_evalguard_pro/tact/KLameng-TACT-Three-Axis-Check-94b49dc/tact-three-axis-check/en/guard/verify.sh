@@ -1,1 +1,33 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIFRBQ1QgdG9vbGtpdCBjb250cm9sbGVkLWZpbGUgaW50ZWdyaXR5IHZlcmlmaWNhdGlvbgojIFB1cnBvc2U6IGRldGVjdCB3aGV0aGVyIGNvbnRyb2xsZWQgZmlsZXMgaGF2ZSBiZWVuIHJvbGxlZCBiYWNrIC8gdGFtcGVyZWQgZXh0ZXJuYWxseS4gQWxlcnQgb24gcm9sbGJhY2sgKGV4aXQgMSkuCiMgVXNhZ2U6IGd1YXJkL3ZlcmlmeS5zaAojIERlcGVuZGVuY3k6IE1BTklGRVNULmpzb24gKHVuZGVyIGd1YXJkLykuIEFmdGVyIHVwZGF0aW5nIGNvbnRyb2xsZWQgZmlsZXMsIHlvdSBtdXN0IHJlZ2VuZXJhdGUgTUFOSUZFU1QuCnNldCAtdQpESVI9IiQoY2QgIiQoZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iKS8uLiIgJiYgcHdkKSIKTUFOPSIkRElSL2d1YXJkL01BTklGRVNULmpzb24iCkZBSUw9MAoKZWNobyAiPT0gVEFDVCBjb250cm9sbGVkLWZpbGUgaW50ZWdyaXR5IHZlcmlmaWNhdGlvbiA9PSIKIyBQYXJzZSBNQU5JRkVTVCB3aXRoIHB5dGhvbjMgYW5kIGNvbXBhcmUgc2hhMjU2IHBlciBmaWxlIChhdm9pZHMgZnJhZ2lsZSBhd2svanNvbiBwYXJzaW5nKQpweXRob24zIC0gIiRESVIiICIkTUFOIiA8PCdQWScKaW1wb3J0IHN5cywganNvbiwgaGFzaGxpYiwgb3MKcm9vdCwgbWFuID0gc3lzLmFyZ3ZbMV0sIHN5cy5hcmd2WzJdCnRyeToKICAgIG0gPSBqc29uLmxvYWQob3BlbihtYW4sIGVuY29kaW5nPSd1dGYtOCcpKQpleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICBwcmludCgiICBbRkFUQUxdIE1BTklGRVNULmpzb24gY291bGQgbm90IGJlIHBhcnNlZDoiLCBlKTsgc3lzLmV4aXQoMikKb2sgPSBUcnVlCmZvciByZWwsIG1ldGEgaW4gbVsnY29udHJvbGxlZF9maWxlcyddLml0ZW1zKCk6CiAgICBwYXRoID0gb3MucGF0aC5qb2luKHJvb3QsIHJlbCkKICAgIGV4cCA9IG1ldGFbJ3NoYTI1NiddCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocGF0aCk6CiAgICAgICAgcHJpbnQoZiIgIFtGQUlMXSBGaWxlIG1pc3Npbmc6IHtyZWx9IChleHBlY3RlZCB7bWV0YS5nZXQoJ3ZlcnNpb24nLCc/Jyl9KSIpOyBvayA9IEZhbHNlOyBjb250aW51ZQogICAgY3VyID0gaGFzaGxpYi5zaGEyNTYob3BlbihwYXRoLCdyYicpLnJlYWQoKSkuaGV4ZGlnZXN0KCkKICAgIHN0ID0gIk9LICIgaWYgY3VyPT1leHAgZWxzZSAiRkFJTCIKICAgIGlmIGN1ciAhPSBleHA6IG9rID0gRmFsc2UKICAgIHByaW50KGYiICBbe3N0fV0ge3JlbH0gIGV4cGVjdGVkIHtleHBbOjEyXX3igKYgIGFjdHVhbCB7Y3VyWzoxMl194oCmIikKcHJpbnQoIj09IFJlc3VsdDoiLCAiUEFTUyAoY29udHJvbGxlZCBmaWxlcyB1bnRvdWNoZWQpIiBpZiBvayBlbHNlICJGQUlMIChmaWxlcyByb2xsZWQgYmFjay90YW1wZXJlZCBleHRlcm5hbGx5OyByZWNvdmVyIHZpYSBnaXQgdHJhY2luZykiLCAiPT0iKQpzeXMuZXhpdCgwIGlmIG9rIGVsc2UgMSkKUFkKZXhpdCAkPwo=
+#!/usr/bin/env bash
+# TACT toolkit controlled-file integrity verification
+# Purpose: detect whether controlled files have been rolled back / tampered externally. Alert on rollback (exit 1).
+# Usage: guard/verify.sh
+# Dependency: MANIFEST.json (under guard/). After updating controlled files, you must regenerate MANIFEST.
+set -u
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+MAN="$DIR/guard/MANIFEST.json"
+FAIL=0
+
+echo "== TACT controlled-file integrity verification =="
+# Parse MANIFEST with python3 and compare sha256 per file (avoids fragile awk/json parsing)
+python3 - "$DIR" "$MAN" <<'PY'
+import sys, json, hashlib, os
+root, man = sys.argv[1], sys.argv[2]
+try:
+    m = json.load(open(man, encoding='utf-8'))
+except Exception as e:
+    print("  [FATAL] MANIFEST.json could not be parsed:", e); sys.exit(2)
+ok = True
+for rel, meta in m['controlled_files'].items():
+    path = os.path.join(root, rel)
+    exp = meta['sha256']
+    if not os.path.exists(path):
+        print(f"  [FAIL] File missing: {rel} (expected {meta.get('version','?')})"); ok = False; continue
+    cur = hashlib.sha256(open(path,'rb').read()).hexdigest()
+    st = "OK " if cur==exp else "FAIL"
+    if cur != exp: ok = False
+    print(f"  [{st}] {rel}  expected {exp[:12]}…  actual {cur[:12]}…")
+print("== Result:", "PASS (controlled files untouched)" if ok else "FAIL (files rolled back/tampered externally; recover via git tracing)", "==")
+sys.exit(0 if ok else 1)
+PY
+exit $?

@@ -1,1 +1,303 @@
-ewogICJjYWxpYiI6IHsKICAgICJSIjogewogICAgICAiY2gwIjogMjU1LjAsCiAgICAgICJjaDEiOiAwLjAsCiAgICAgICJjaDIiOiAwLjAKICAgIH0sCiAgICAiRyI6IHsKICAgICAgImNoMCI6IDAuMCwKICAgICAgImNoMSI6IDI1NS4wLAogICAgICAiY2gyIjogMC4wCiAgICB9LAogICAgIkIiOiB7CiAgICAgICJjaDAiOiAwLjAsCiAgICAgICJjaDEiOiAwLjAsCiAgICAgICJjaDIiOiAyNTUuMAogICAgfQogIH0sCiAgImNvbmQiOiB7CiAgICAiYWN0aXZlIjogWwogICAgICB7CiAgICAgICAgInNlZWQiOiAxLAogICAgICAgICJzbGlwX21lYW4iOiA1Mi4xNDgzNjczODUwOTIyNiwKICAgICAgICAiVl9sYXN0IjogMC41Mjk0MTE3NjQ3MDU4ODIyLAogICAgICAgICJhX2VuZCI6IDAuNTI5NDExNzY0NzA1ODgyMiwKICAgICAgICAiaW5mb19jYXAiOiAyOTIuMDQzNjA5NjE5MTQwNiwKICAgICAgICAiaW5mb19mdWxsIjogMTAzOS45MDc1OTI3NzM0Mzc1LAogICAgICAgICJpbmZvX3JhdGlvIjogMC4yODA4MzYxMTYyNTU1NDA4LAogICAgICAgICJyZWFkIjogMTAsCiAgICAgICAgInJlYWRfZnVsbCI6IDEwLAogICAgICAgICJleWVfbW92ZWQiOiAxNjY2LjAKICAgICAgfSwKICAgICAgewogICAgICAgICJzZWVkIjogMiwKICAgICAgICAic2xpcF9tZWFuIjogNTAuMjkyODQ0MzE4NzU5MDk0LAogICAgICAgICJWX2xhc3QiOiAwLjUyOTQxMTc2NDcwNTg4MjIsCiAgICAgICAgImFfZW5kIjogMC41Mjk0MTE3NjQ3MDU4ODIyLAogICAgICAgICJpbmZvX2NhcCI6IDI5NC44NTQ1MjI3MDUwNzgxLAogICAgICAgICJpbmZvX2Z1bGwiOiAxMDUwLjAwNDAyODMyMDMxMjUsCiAgICAgICAgImluZm9fcmF0aW8iOiAwLjI4MDgxMjc1MzgxMDgxNzEsCiAgICAgICAgInJlYWQiOiAxMCwKICAgICAgICAicmVhZF9mdWxsIjogMTAsCiAgICAgICAgImV5ZV9tb3ZlZCI6IDE2NjYuMAogICAgICB9CiAgICBdLAogICAgInBhc3NpdmUiOiBbCiAgICAgIHsKICAgICAgICAic2VlZCI6IDEsCiAgICAgICAgInNsaXBfbWVhbiI6IDUyLjE0ODM2NzM4NTA5MjI2LAogICAgICAgICJWX2xhc3QiOiAwLjUyOTQxMTc2NDcwNTg4MjIsCiAgICAgICAgImFfZW5kIjogMC41Mjk0MTE3NjQ3MDU4ODIyLAogICAgICAgICJpbmZvX2NhcCI6IDI5Mi4wNDM2MDk2MTkxNDA2LAogICAgICAgICJpbmZvX2Z1bGwiOiAxMDM5LjkwNzU5Mjc3MzQzNzUsCiAgICAgICAgImluZm9fcmF0aW8iOiAwLjI4MDgzNjExNjI1NTU0MDgsCiAgICAgICAgInJlYWQiOiAxMCwKICAgICAgICAicmVhZF9mdWxsIjogMTAsCiAgICAgICAgImV5ZV9tb3ZlZCI6IDAuMAogICAgICB9LAogICAgICB7CiAgICAgICAgInNlZWQiOiAyLAogICAgICAgICJzbGlwX21lYW4iOiA1MC4yOTI4NDQzMTg3NTkwOTQsCiAgICAgICAgIlZfbGFzdCI6IDAuNTI5NDExNzY0NzA1ODgyMiwKICAgICAgICAiYV9lbmQiOiAwLjUyOTQxMTc2NDcwNTg4MjIsCiAgICAgICAgImluZm9fY2FwIjogMjk0Ljg1NDUyMjcwNTA3ODEsCiAgICAgICAgImluZm9fZnVsbCI6IDEwNTAuMDA0MDI4MzIwMzEyNSwKICAgICAgICAiaW5mb19yYXRpbyI6IDAuMjgwODEyNzUzODEwODE3MSwKICAgICAgICAicmVhZCI6IDEwLAogICAgICAgICJyZWFkX2Z1bGwiOiAxMCwKICAgICAgICAiZXllX21vdmVkIjogMC4wCiAgICAgIH0KICAgIF0sCiAgICAieW9rZWQiOiBbCiAgICAgIHsKICAgICAgICAic2VlZCI6IDEsCiAgICAgICAgInNsaXBfbWVhbiI6IDAuMCwKICAgICAgICAiVl9sYXN0IjogMS4wMTcwNzE3ODYwODU3MDJlLTE1LAogICAgICAgICJhX2VuZCI6IDEuMDE3MDcxNzg2MDg1NzAyZS0xNSwKICAgICAgICAiaW5mb19jYXAiOiAwLjAsCiAgICAgICAgImluZm9fZnVsbCI6IDEwMjEuMzQ5NDI2MjY5NTMxMiwKICAgICAgICAiaW5mb19yYXRpbyI6IDAuMCwKICAgICAgICAicmVhZCI6IDAsCiAgICAgICAgInJlYWRfZnVsbCI6IDExLAogICAgICAgICJleWVfbW92ZWQiOiAxNjY2LjAKICAgICAgfSwKICAgICAgewogICAgICAgICJzZWVkIjogMiwKICAgICAgICAic2xpcF9tZWFuIjogMC4wLAogICAgICAgICJWX2xhc3QiOiAxLjAxNzA3MTc4NjA4NTcwMmUtMTUsCiAgICAgICAgImFfZW5kIjogMS4wMTcwNzE3ODYwODU3MDJlLTE1LAogICAgICAgICJpbmZvX2NhcCI6IDAuMCwKICAgICAgICAiaW5mb19mdWxsIjogMTAyMS4zNDk0MjYyNjk1MzEyLAogICAgICAgICJpbmZvX3JhdGlvIjogMC4wLAogICAgICAgICJyZWFkIjogMCwKICAgICAgICAicmVhZF9mdWxsIjogMTEsCiAgICAgICAgImV5ZV9tb3ZlZCI6IDE2NjYuMAogICAgICB9CiAgICBdLAogICAgInN0YXRpYyI6IFsKICAgICAgewogICAgICAgICJzZWVkIjogMSwKICAgICAgICAic2xpcF9tZWFuIjogMC4wLAogICAgICAgICJWX2xhc3QiOiAxLjAxNzA3MTc4NjA4NTcwMmUtMTUsCiAgICAgICAgImFfZW5kIjogMS4wMTcwNzE3ODYwODU3MDJlLTE1LAogICAgICAgICJpbmZvX2NhcCI6IDAuMCwKICAgICAgICAiaW5mb19mdWxsIjogMTAyMS4zNDk0MjYyNjk1MzEyLAogICAgICAgICJpbmZvX3JhdGlvIjogMC4wLAogICAgICAgICJyZWFkIjogMCwKICAgICAgICAicmVhZF9mdWxsIjogMTEsCiAgICAgICAgImV5ZV9tb3ZlZCI6IDAuMAogICAgICB9LAogICAgICB7CiAgICAgICAgInNlZWQiOiAyLAogICAgICAgICJzbGlwX21lYW4iOiAwLjAsCiAgICAgICAgIlZfbGFzdCI6IDEuMDE3MDcxNzg2MDg1NzAyZS0xNSwKICAgICAgICAiYV9lbmQiOiAxLjAxNzA3MTc4NjA4NTcwMmUtMTUsCiAgICAgICAgImluZm9fY2FwIjogMC4wLAogICAgICAgICJpbmZvX2Z1bGwiOiAxMDIxLjM0OTQyNjI2OTUzMTIsCiAgICAgICAgImluZm9fcmF0aW8iOiAwLjAsCiAgICAgICAgInJlYWQiOiAwLAogICAgICAgICJyZWFkX2Z1bGwiOiAxMSwKICAgICAgICAiZXllX21vdmVkIjogMC4wCiAgICAgIH0KICAgIF0KICB9LAogICJyaHl0aG0iOiBbCiAgICB7CiAgICAgICJkIjogMC4wLAogICAgICAiViI6IDcuNTg1MDQxNjAzMTExMTA2ZS0xMiwKICAgICAgInNsaXAiOiAwLjAsCiAgICAgICJyZWFkX3JlYWwiOiAwLAogICAgICAiaW5mb19yZWFsIjogMC4wCiAgICB9LAogICAgewogICAgICAiZCI6IDAuNSwKICAgICAgIlYiOiAwLjUxMzIzMzQ5ODcxNzg1MTgsCiAgICAgICJzbGlwIjogOS4zNTU4Mjg2ODAzNjAyMzYKICAgIH0sCiAgICB7CiAgICAgICJkIjogMS4wLAogICAgICAiViI6IDAuNTU2MzAxNTcyODQ1MzAyNSwKICAgICAgInNsaXAiOiAxNS43MDc3NjUyNzYwNDQ2MTMKICAgIH0sCiAgICB7CiAgICAgICJkIjogMi4wLAogICAgICAiViI6IDAuNTA2MDk3MDc0NTU5NjU2NSwKICAgICAgInNsaXAiOiAyMy44NTQyNDUwMjIwMTA1NAogICAgfSwKICAgIHsKICAgICAgImQiOiA0LjAsCiAgICAgICJWIjogMC40NTE1OTg0NDMyMDAxMzA5LAogICAgICAic2xpcCI6IDM0LjE4NjQwNTU1MzE1NzE1CiAgICB9LAogICAgewogICAgICAiZCI6IDguMCwKICAgICAgIlYiOiAwLjM5NjE1ODE0NTIyODU2NDEsCiAgICAgICJzbGlwIjogNDcuNTIzMTAyMjA4OTgwMjksCiAgICAgICJyZWFkX3JlYWwiOiAxMCwKICAgICAgImluZm9fcmVhbCI6IDI5Ny45NDI2ODc5ODgyODEyNQogICAgfSwKICAgIHsKICAgICAgImQiOiAxMi4wLAogICAgICAiViI6IDAuMzc3MDcyMTM1MjY1MzU3NjYsCiAgICAgICJzbGlwIjogNTMuMTYwNTc1MDcwODYxNzcKICAgIH0sCiAgICB7CiAgICAgICJkIjogMTYuMCwKICAgICAgIlYiOiAwLjM3NDkxOTM1MDcxNjc2MTEsCiAgICAgICJzbGlwIjogNTQuMzA3MTIzNDY3NzcyNAogICAgfSwKICAgIHsKICAgICAgImQiOiAyNC4wLAogICAgICAiViI6IDAuMzc3NjU2NTEzNDQ1MjkyNDQsCiAgICAgICJzbGlwIjogNTUuMTg1MzA0ODYwNjI5MzUKICAgIH0sCiAgICB7CiAgICAgICJkIjogMzIuMCwKICAgICAgIlYiOiAwLjM2NTY0MTcxNTYxOTczNjEzLAogICAgICAic2xpcCI6IDU3LjgxMTEyOTQwNzc5NjgxCiAgICB9LAogICAgewogICAgICAiZCI6IDY0LjAsCiAgICAgICJWIjogMC4zNjA4MjMwNzYyMTYzMzYxNCwKICAgICAgInNsaXAiOiA2MC4yMTMwMjQ4OTAzOTIxOQogICAgfSwKICAgIHsKICAgICAgImQiOiAxMjguMCwKICAgICAgIlYiOiAwLjM3ODg5Nzc2ODAwMTQ1NDQ3LAogICAgICAic2xpcCI6IDU2Ljk0NTg3MzgwNDkzMjQyNSwKICAgICAgInJlYWRfcmVhbCI6IDksCiAgICAgICJpbmZvX3JlYWwiOiAyNjMuNjAyMDIwMjYzNjcxOQogICAgfSwKICAgIHsKICAgICAgImQiOiAyNTYuMCwKICAgICAgIlYiOiAwLjM2MDE1MTU1MzAwMTkxNzIsCiAgICAgICJzbGlwIjogNTguNzQ2NDc4NDUzMTQ5MjcKICAgIH0KICBdLAogICJhZ2VuY3kiOiB7CiAgICAibm9uZSI6IHsKICAgICAgIm1lYW4iOiAwLjY0NDQxNjIwNTkxODY0MzgsCiAgICAgICJuIjogMTUsCiAgICAgICJ2YWxzIjogWwogICAgICAgIDAuNTcxMDczLAogICAgICAgIDAuNzAzMDM2LAogICAgICAgIDAuNjcxNzk4LAogICAgICAgIDAuNTk5NjUxLAogICAgICAgIDAuNjMzMDEyLAogICAgICAgIDAuNjc0MDI1LAogICAgICAgIE5hTiwKICAgICAgICAwLjczMDg1OSwKICAgICAgICAwLjU3NzcyNSwKICAgICAgICAwLjYxMzYzNywKICAgICAgICAwLjcyNDg3NSwKICAgICAgICAwLjY5NzExNCwKICAgICAgICAwLjY4MjQwNywKICAgICAgICAwLjY4OTYyNSwKICAgICAgICAwLjUzMTQxOCwKICAgICAgICAwLjU2NTk4OQogICAgICBdCiAgICB9LAogICAgImFjdGl2ZSI6IHsKICAgICAgIm1lYW4iOiAwLjcwMzYzOTY4NzEwMTAxMTIsCiAgICAgICJuIjogMTQsCiAgICAgICJ2YWxzIjogWwogICAgICAgIDAuNjYyMjA1LAogICAgICAgIDAuODQ5MDUxLAogICAgICAgIDAuNzE0NjA5LAogICAgICAgIDAuNTg2ODU3LAogICAgICAgIDAuNzIwOTE3LAogICAgICAgIDAuNTU2ODMyLAogICAgICAgIE5hTiwKICAgICAgICAwLjg3MjYyMSwKICAgICAgICAwLjY2NTQxMSwKICAgICAgICAwLjY4NzcxNCwKICAgICAgICBOYU4sCiAgICAgICAgMC44NDQwMjUsCiAgICAgICAgMC43NzI3NTcsCiAgICAgICAgMC44Mzk2NzQsCiAgICAgICAgMC40MTY4NTQsCiAgICAgICAgMC42NjE0MwogICAgICBdCiAgICB9LAogICAgInBhc3NpdmUiOiB7CiAgICAgICJtZWFuIjogMC43MDUxMDEyMjQ1NDE4OTE3LAogICAgICAibiI6IDEyLAogICAgICAidmFscyI6IFsKICAgICAgICAwLjY2MDExLAogICAgICAgIDAuODQ3MDMzLAogICAgICAgIDAuNzU3ODM2LAogICAgICAgIDAuNjIxNTM5LAogICAgICAgIDAuNzE1MjUzLAogICAgICAgIDAuNjAwMTg0LAogICAgICAgIE5hTiwKICAgICAgICAwLjg2MTQwOCwKICAgICAgICAwLjY4MzYxNiwKICAgICAgICAwLjY3MDIwOCwKICAgICAgICBOYU4sCiAgICAgICAgMC44NDE1NDMsCiAgICAgICAgMC43ODA2NjEsCiAgICAgICAgTmFOLAogICAgICAgIDAuNDIxODI0LAogICAgICAgIE5hTgogICAgICBdCiAgICB9LAogICAgImRpZmZfYWN0aXZlX21pbnVzX25vbmUiOiB7CiAgICAgICJtZWFuIjogMC4wNjQ5NzA1MjE5MzU0MjA1MSwKICAgICAgImNpIjogWwogICAgICAgIDAuMDA5MTY4MjYwOTM5NTk1MTU2LAogICAgICAgIDAuMTIwNzcyNzgyOTMxMjQ1ODUKICAgICAgXSwKICAgICAgIm4iOiAxNAogICAgfSwKICAgICJkaWZmX3Bhc3NpdmVfbWludXNfYWN0aXZlIjogewogICAgICAibWVhbiI6IDAuMDA5MjgwMjM4NzQ0Mzg5NTk3LAogICAgICAiY2kiOiBbCiAgICAgICAgLTAuMDA0OTczMDg0NjYxNTIyMjc1LAogICAgICAgIDAuMDIzNTMzNTYyMTUwMzAxNDY3CiAgICAgIF0sCiAgICAgICJuIjogMTIKICAgIH0sCiAgICAiX3NlcSI6IHsKICAgICAgImFjdGl2ZSI6IHsKICAgICAgICAic2xpcF9tZWFuIjogMTIuMjUyNTYyOTM5ODQ4Nzg4LAogICAgICAgICJzbGlwX3NkIjogMTYuMDYyNjkzMzcwOTMyODksCiAgICAgICAgIlZfbWVhbiI6IDAuNDg1MDgwOTk3MzU1MzQ3MiwKICAgICAgICAiYXV0b2NvcnIxIjogLTAuMzMwNjY3NjM2ODI1MDA2NAogICAgICB9LAogICAgICAicGFzc2l2ZSI6IHsKICAgICAgICAic2xpcF9tZWFuIjogMTIuMjUyNTYyOTM5ODQ4Nzg4LAogICAgICAgICJzbGlwX3NkIjogMTYuMDYyNjkzMzcwOTMyODksCiAgICAgICAgIlZfbWVhbiI6IDAuNDczNDgyNjUyNzgzNTQ1NDUsCiAgICAgICAgImF1dG9jb3JyMSI6IDAuMDI0NDYyODMyODEwMDEwNjg0CiAgICAgIH0sCiAgICAgICJub25lIjogewogICAgICAgICJzbGlwX21lYW4iOiAwLjAsCiAgICAgICAgInNsaXBfc2QiOiAwLjAsCiAgICAgICAgIlZfbWVhbiI6IDAuMDA0OTk5OTk5OTk5OTk5OTk5LAogICAgICAgICJhdXRvY29ycjEiOiBOYU4KICAgICAgfQogICAgfQogIH0sCiAgImVsYXBzZWQiOiAxODYuNTQ0NTA3NzQxOTI4MQp9
+{
+  "calib": {
+    "R": {
+      "ch0": 255.0,
+      "ch1": 0.0,
+      "ch2": 0.0
+    },
+    "G": {
+      "ch0": 0.0,
+      "ch1": 255.0,
+      "ch2": 0.0
+    },
+    "B": {
+      "ch0": 0.0,
+      "ch1": 0.0,
+      "ch2": 255.0
+    }
+  },
+  "cond": {
+    "active": [
+      {
+        "seed": 1,
+        "slip_mean": 52.14836738509226,
+        "V_last": 0.5294117647058822,
+        "a_end": 0.5294117647058822,
+        "info_cap": 292.0436096191406,
+        "info_full": 1039.9075927734375,
+        "info_ratio": 0.2808361162555408,
+        "read": 10,
+        "read_full": 10,
+        "eye_moved": 1666.0
+      },
+      {
+        "seed": 2,
+        "slip_mean": 50.292844318759094,
+        "V_last": 0.5294117647058822,
+        "a_end": 0.5294117647058822,
+        "info_cap": 294.8545227050781,
+        "info_full": 1050.0040283203125,
+        "info_ratio": 0.2808127538108171,
+        "read": 10,
+        "read_full": 10,
+        "eye_moved": 1666.0
+      }
+    ],
+    "passive": [
+      {
+        "seed": 1,
+        "slip_mean": 52.14836738509226,
+        "V_last": 0.5294117647058822,
+        "a_end": 0.5294117647058822,
+        "info_cap": 292.0436096191406,
+        "info_full": 1039.9075927734375,
+        "info_ratio": 0.2808361162555408,
+        "read": 10,
+        "read_full": 10,
+        "eye_moved": 0.0
+      },
+      {
+        "seed": 2,
+        "slip_mean": 50.292844318759094,
+        "V_last": 0.5294117647058822,
+        "a_end": 0.5294117647058822,
+        "info_cap": 294.8545227050781,
+        "info_full": 1050.0040283203125,
+        "info_ratio": 0.2808127538108171,
+        "read": 10,
+        "read_full": 10,
+        "eye_moved": 0.0
+      }
+    ],
+    "yoked": [
+      {
+        "seed": 1,
+        "slip_mean": 0.0,
+        "V_last": 1.017071786085702e-15,
+        "a_end": 1.017071786085702e-15,
+        "info_cap": 0.0,
+        "info_full": 1021.3494262695312,
+        "info_ratio": 0.0,
+        "read": 0,
+        "read_full": 11,
+        "eye_moved": 1666.0
+      },
+      {
+        "seed": 2,
+        "slip_mean": 0.0,
+        "V_last": 1.017071786085702e-15,
+        "a_end": 1.017071786085702e-15,
+        "info_cap": 0.0,
+        "info_full": 1021.3494262695312,
+        "info_ratio": 0.0,
+        "read": 0,
+        "read_full": 11,
+        "eye_moved": 1666.0
+      }
+    ],
+    "static": [
+      {
+        "seed": 1,
+        "slip_mean": 0.0,
+        "V_last": 1.017071786085702e-15,
+        "a_end": 1.017071786085702e-15,
+        "info_cap": 0.0,
+        "info_full": 1021.3494262695312,
+        "info_ratio": 0.0,
+        "read": 0,
+        "read_full": 11,
+        "eye_moved": 0.0
+      },
+      {
+        "seed": 2,
+        "slip_mean": 0.0,
+        "V_last": 1.017071786085702e-15,
+        "a_end": 1.017071786085702e-15,
+        "info_cap": 0.0,
+        "info_full": 1021.3494262695312,
+        "info_ratio": 0.0,
+        "read": 0,
+        "read_full": 11,
+        "eye_moved": 0.0
+      }
+    ]
+  },
+  "rhythm": [
+    {
+      "d": 0.0,
+      "V": 7.585041603111106e-12,
+      "slip": 0.0,
+      "read_real": 0,
+      "info_real": 0.0
+    },
+    {
+      "d": 0.5,
+      "V": 0.5132334987178518,
+      "slip": 9.355828680360236
+    },
+    {
+      "d": 1.0,
+      "V": 0.5563015728453025,
+      "slip": 15.707765276044613
+    },
+    {
+      "d": 2.0,
+      "V": 0.5060970745596565,
+      "slip": 23.85424502201054
+    },
+    {
+      "d": 4.0,
+      "V": 0.4515984432001309,
+      "slip": 34.18640555315715
+    },
+    {
+      "d": 8.0,
+      "V": 0.3961581452285641,
+      "slip": 47.52310220898029,
+      "read_real": 10,
+      "info_real": 297.94268798828125
+    },
+    {
+      "d": 12.0,
+      "V": 0.37707213526535766,
+      "slip": 53.16057507086177
+    },
+    {
+      "d": 16.0,
+      "V": 0.3749193507167611,
+      "slip": 54.3071234677724
+    },
+    {
+      "d": 24.0,
+      "V": 0.37765651344529244,
+      "slip": 55.18530486062935
+    },
+    {
+      "d": 32.0,
+      "V": 0.36564171561973613,
+      "slip": 57.81112940779681
+    },
+    {
+      "d": 64.0,
+      "V": 0.36082307621633614,
+      "slip": 60.21302489039219
+    },
+    {
+      "d": 128.0,
+      "V": 0.37889776800145447,
+      "slip": 56.945873804932425,
+      "read_real": 9,
+      "info_real": 263.6020202636719
+    },
+    {
+      "d": 256.0,
+      "V": 0.3601515530019172,
+      "slip": 58.74647845314927
+    }
+  ],
+  "agency": {
+    "none": {
+      "mean": 0.6444162059186438,
+      "n": 15,
+      "vals": [
+        0.571073,
+        0.703036,
+        0.671798,
+        0.599651,
+        0.633012,
+        0.674025,
+        NaN,
+        0.730859,
+        0.577725,
+        0.613637,
+        0.724875,
+        0.697114,
+        0.682407,
+        0.689625,
+        0.531418,
+        0.565989
+      ]
+    },
+    "active": {
+      "mean": 0.7036396871010112,
+      "n": 14,
+      "vals": [
+        0.662205,
+        0.849051,
+        0.714609,
+        0.586857,
+        0.720917,
+        0.556832,
+        NaN,
+        0.872621,
+        0.665411,
+        0.687714,
+        NaN,
+        0.844025,
+        0.772757,
+        0.839674,
+        0.416854,
+        0.66143
+      ]
+    },
+    "passive": {
+      "mean": 0.7051012245418917,
+      "n": 12,
+      "vals": [
+        0.66011,
+        0.847033,
+        0.757836,
+        0.621539,
+        0.715253,
+        0.600184,
+        NaN,
+        0.861408,
+        0.683616,
+        0.670208,
+        NaN,
+        0.841543,
+        0.780661,
+        NaN,
+        0.421824,
+        NaN
+      ]
+    },
+    "diff_active_minus_none": {
+      "mean": 0.06497052193542051,
+      "ci": [
+        0.009168260939595156,
+        0.12077278293124585
+      ],
+      "n": 14
+    },
+    "diff_passive_minus_active": {
+      "mean": 0.009280238744389597,
+      "ci": [
+        -0.004973084661522275,
+        0.023533562150301467
+      ],
+      "n": 12
+    },
+    "_seq": {
+      "active": {
+        "slip_mean": 12.252562939848788,
+        "slip_sd": 16.06269337093289,
+        "V_mean": 0.4850809973553472,
+        "autocorr1": -0.3306676368250064
+      },
+      "passive": {
+        "slip_mean": 12.252562939848788,
+        "slip_sd": 16.06269337093289,
+        "V_mean": 0.47348265278354545,
+        "autocorr1": 0.024462832810010684
+      },
+      "none": {
+        "slip_mean": 0.0,
+        "slip_sd": 0.0,
+        "V_mean": 0.004999999999999999,
+        "autocorr1": NaN
+      }
+    }
+  },
+  "elapsed": 186.5445077419281
+}

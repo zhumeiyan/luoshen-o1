@@ -1,1 +1,28 @@
-IyB0b29sOiByaW5nZml0LnB5CiMgY2F0ZWdvcnk6IGdlb21ldHJ5CiMgcHVycG9zZTogZmluZCB0aGUgY2VudHJlIGFuZCByYWRpdXMgb2YgYSBjb2xvdXJlZCByaW5nL2FubnVsYXIgcGFydCAobHlpbmcgZmxhdCBvciBoZWxkKSBmcm9tIGEgd3Jpc3QgY2FwdHVyZTogZGVwcm9qZWN0cyB0aGUgbGFyZ2VzdCBjb2xvdXIgYmxvYiB3aXRoIHdyaXN0IGRlcHRoLCBrZWVwcyBwb2ludHMgaW4gYSB6IGJhbmQgKHRoZSB0b3AgcmltKSBhbmQgZml0cyBhIGNpcmNsZSBpbiBiYXNlLWZyYW1lIHh5OyB3b3JrcyB3aXRoIHBhcnRpYWwgb2NjbHVzaW9uCiMgdXNhZ2U6IHB5dGhvbjMga25vd2xlZGdlL3Rvb2xzL3JpbmdmaXQucHkgPGNhcHR1cmU+IDx6X21pbj4gPHpfbWF4PiBbaHVlX2xvIGh1ZV9oaV0gICAgKHJ1biBmcm9tIHRoZSBzZXNzaW9uIGRpcmVjdG9yeTsgeiBiYW5kIGJyYWNrZXRzIHRoZSByaW0gaGVpZ2h0LCBodWUgaW4gT3BlbkNWIDAtMTc5LCBkZWZhdWx0IDgwLTExMCA9IGN5YW4vYmx1ZSkKIyBpbnB1dHMvb3V0cHV0czogcmVhZHMgZnJhbWVzLzxjYXB0dXJlPl93cmlzdC5wbmcsIF93cmlzdF9kZXB0aC5ucHksIF9jYWxpYi5qc29uOyBwcmludHMgImNlbnRyZT0oeCx5KSByPS4uIG49Li4gem1lYW49Li4iCiMgYXNzdW1wdGlvbnM6IGNvbG91ciBtYXNrID0gSFNWIGh1ZSBpbiBbaHVlX2xvLGh1ZV9oaV0sIFM+PTgwLCBWPj02MDsgbGFyZ2VzdCBibG9iIG9ubHk7IGFsZ2VicmFpYyBsZWFzdC1zcXVhcmVzIGNpcmNsZTsgciBpcyB0aGUgbWlkLXJpbSByYWRpdXM7IG5lZWRzIG51bXB5ICsgY3YyIChhbmFseXNpcyB2ZW52KTsgZGVwdGggYmVsb3cgfjAuMDcgbSBmcm9tIHRoZSBENDA1IGlzIHVucmVsaWFibGUKIyB2ZXJpZmllZDogdXNlZCBzdWNjZXNzZnVsbHkgaW4gdGhlIHNlc3Npb24gdGhhdCB3cm90ZSBpdAppbXBvcnQgc3lzLCBqc29uLCBudW1weSBhcyBucApkZWYgX2NhbShjKToKICAgIEsgPSBucC5hcnJheShjWyJpbnRyaW5zaWNzIl0pOyBwID0gY1sicG9zZSJdCiAgICB0ID0gbnAuYXJyYXkoW3BbInBvc2l0aW9uIl1ba10gZm9yIGsgaW4gInh5eiJdKTsgcSA9IHBbInJvdGF0aW9uIl07IHcseCx5LHogPSBxWyJ3Il0scVsieCJdLHFbInkiXSxxWyJ6Il0KICAgIFIgPSBucC5hcnJheShbWzEtMiooeSp5K3oqeiksIDIqKHgqeS16KncpLCAyKih4KnoreSp3KV0sWzIqKHgqeSt6KncpLDEtMiooeCp4K3oqeiksMiooeSp6LXgqdyldLFsyKih4KnoteSp3KSwyKih5KnoreCp3KSwxLTIqKHgqeCt5KnkpXV0pCiAgICByZXR1cm4gSyxSLHQKZGVmIF9yYXkoYyx1LHYpOgogICAgSyxSLHQgPSBfY2FtKGMpOyBkID0gUiBAIChucC5saW5hbGcuaW52KEspIEAgbnAuYXJyYXkoW3UsdiwxLjBdKSk7IHJldHVybiB0LCBkL25wLmxpbmFsZy5ub3JtKGQpCmltcG9ydCBjdjIKY2FwID0gaW50KHN5cy5hcmd2WzFdKTsgem1pbix6bWF4ID0gZmxvYXQoc3lzLmFyZ3ZbMl0pLGZsb2F0KHN5cy5hcmd2WzNdKQpobG8saGhpID0gKGludChzeXMuYXJndls0XSksaW50KHN5cy5hcmd2WzVdKSkgaWYgbGVuKHN5cy5hcmd2KSA+IDUgZWxzZSAoODAsMTEwKQppbWcgPSBjdjIuaW1yZWFkKGYnZnJhbWVzL3tjYXA6MDRkfV93cmlzdC5wbmcnKTsgZGVwID0gbnAubG9hZChmJ2ZyYW1lcy97Y2FwOjA0ZH1fd3Jpc3RfZGVwdGgubnB5JykKaHN2ID0gY3YyLmN2dENvbG9yKGltZyxjdjIuQ09MT1JfQkdSMkhTVik7IG0gPSBjdjIuaW5SYW5nZShoc3YsKGhsbyw4MCw2MCksKGhoaSwyNTUsMjU1KSkKbl8sbGFiXyxzdF8sY2VuXyA9IGN2Mi5jb25uZWN0ZWRDb21wb25lbnRzV2l0aFN0YXRzKG0pOyBpXyA9IG1heChyYW5nZSgxLG5fKSwga2V5PWxhbWJkYSBrOiBzdF9ba11bNF0pOyBtID0gbGFiXyA9PSBpXwpLLFIsdCA9IF9jYW0oanNvbi5sb2FkKG9wZW4oZidmcmFtZXMve2NhcDowNGR9X2NhbGliLmpzb24nKSlbJ3dyaXN0J10pOyBLaSA9IG5wLmxpbmFsZy5pbnYoSykKdnMsdXMgPSBucC5ub256ZXJvKG0gJiAoZGVwID4gMCkpOyBkID0gZGVwW3ZzLHVzXQpQID0gKEtpIEAgbnAudnN0YWNrKFt1cyx2cyxucC5vbmVzX2xpa2UodXMpXSkpICogZDsgWCA9IChSIEAgUCkuVCArIHQKc2VsID0gKFhbOiwyXSA+IHptaW4pICYgKFhbOiwyXSA8IHptYXgpOyBYID0gWFtzZWxdCkEgPSBucC5jX1syKlhbOiwwXSwyKlhbOiwxXSxucC5vbmVzKGxlbihYKSldOyBiID0gWFs6LDBdKioyICsgWFs6LDFdKioyCmMgPSBucC5saW5hbGcubHN0c3EoQSxiLHJjb25kPU5vbmUpWzBdOyByID0gbnAuc3FydChjWzJdICsgY1swXSoqMiArIGNbMV0qKjIpCnByaW50KGYiY2VudHJlPSh7Y1swXTouNGZ9LHtjWzFdOi40Zn0pIHI9e3I6LjRmfSBuPXtsZW4oWCl9IHptZWFuPXtYWzosMl0ubWVhbigpOi40Zn0iKQo=
+# tool: ringfit.py
+# category: geometry
+# purpose: find the centre and radius of a coloured ring/annular part (lying flat or held) from a wrist capture: deprojects the largest colour blob with wrist depth, keeps points in a z band (the top rim) and fits a circle in base-frame xy; works with partial occlusion
+# usage: python3 knowledge/tools/ringfit.py <capture> <z_min> <z_max> [hue_lo hue_hi]    (run from the session directory; z band brackets the rim height, hue in OpenCV 0-179, default 80-110 = cyan/blue)
+# inputs/outputs: reads frames/<capture>_wrist.png, _wrist_depth.npy, _calib.json; prints "centre=(x,y) r=.. n=.. zmean=.."
+# assumptions: colour mask = HSV hue in [hue_lo,hue_hi], S>=80, V>=60; largest blob only; algebraic least-squares circle; r is the mid-rim radius; needs numpy + cv2 (analysis venv); depth below ~0.07 m from the D405 is unreliable
+# verified: used successfully in the session that wrote it
+import sys, json, numpy as np
+def _cam(c):
+    K = np.array(c["intrinsics"]); p = c["pose"]
+    t = np.array([p["position"][k] for k in "xyz"]); q = p["rotation"]; w,x,y,z = q["w"],q["x"],q["y"],q["z"]
+    R = np.array([[1-2*(y*y+z*z), 2*(x*y-z*w), 2*(x*z+y*w)],[2*(x*y+z*w),1-2*(x*x+z*z),2*(y*z-x*w)],[2*(x*z-y*w),2*(y*z+x*w),1-2*(x*x+y*y)]])
+    return K,R,t
+def _ray(c,u,v):
+    K,R,t = _cam(c); d = R @ (np.linalg.inv(K) @ np.array([u,v,1.0])); return t, d/np.linalg.norm(d)
+import cv2
+cap = int(sys.argv[1]); zmin,zmax = float(sys.argv[2]),float(sys.argv[3])
+hlo,hhi = (int(sys.argv[4]),int(sys.argv[5])) if len(sys.argv) > 5 else (80,110)
+img = cv2.imread(f'frames/{cap:04d}_wrist.png'); dep = np.load(f'frames/{cap:04d}_wrist_depth.npy')
+hsv = cv2.cvtColor(img,cv2.COLOR_BGR2HSV); m = cv2.inRange(hsv,(hlo,80,60),(hhi,255,255))
+n_,lab_,st_,cen_ = cv2.connectedComponentsWithStats(m); i_ = max(range(1,n_), key=lambda k: st_[k][4]); m = lab_ == i_
+K,R,t = _cam(json.load(open(f'frames/{cap:04d}_calib.json'))['wrist']); Ki = np.linalg.inv(K)
+vs,us = np.nonzero(m & (dep > 0)); d = dep[vs,us]
+P = (Ki @ np.vstack([us,vs,np.ones_like(us)])) * d; X = (R @ P).T + t
+sel = (X[:,2] > zmin) & (X[:,2] < zmax); X = X[sel]
+A = np.c_[2*X[:,0],2*X[:,1],np.ones(len(X))]; b = X[:,0]**2 + X[:,1]**2
+c = np.linalg.lstsq(A,b,rcond=None)[0]; r = np.sqrt(c[2] + c[0]**2 + c[1]**2)
+print(f"centre=({c[0]:.4f},{c[1]:.4f}) r={r:.4f} n={len(X)} zmean={X[:,2].mean():.4f}")

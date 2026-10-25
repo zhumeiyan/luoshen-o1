@@ -1,1 +1,39 @@
-aW1wb3J0IHN5cwoKZnJvbSByaWNoLmNvbnNvbGUgaW1wb3J0IENvbnNvbGUKZnJvbSByaWNoLnByb21wdCBpbXBvcnQgQ29uZmlybQoKQ0hFQ0tNQVJLID0gIltib2xkIGdyZWVuMV1cdTI3MTRbL2JvbGQgZ3JlZW4xXSIKQ1JPU1NNQVJLID0gIltib2xkIGluZGlhbl9yZWRdXHUyNzE4Wy9ib2xkIGluZGlhbl9yZWRdIgoKCmNsYXNzIENvbnNvbGVBZGFwdGVyOgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmNvbnNvbGUgPSBDb25zb2xlKGxvZ19wYXRoPUZhbHNlKQoKICAgIGRlZiBzdWNjZXNzKHNlbGYsIG1lc3NhZ2UpOgogICAgICAgIHNlbGYuY29uc29sZS5wcmludChmIntDSEVDS01BUkt9IHttZXNzYWdlfSIpCgogICAgZGVmIGZhaWx1cmUoc2VsZiwgbWVzc2FnZSwgZGV0YWlscz0iIik6CiAgICAgICAgaWYgZGV0YWlsczoKICAgICAgICAgICAgc2VsZi5jb25zb2xlLnByaW50KAogICAgICAgICAgICAgICAgZiJ7Q1JPU1NNQVJLfSB7bWVzc2FnZX0gXG5cbkRldGFpbHM6XG5cbiB7ZGV0YWlsc30iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuY29uc29sZS5wcmludChmIntDUk9TU01BUkt9IHttZXNzYWdlfSIpCgogICAgZGVmIHBhbmljKHNlbGYsIG1lc3NhZ2UsIGRldGFpbHM9IiIpOgogICAgICAgIHNlbGYuZmFpbHVyZShtZXNzYWdlLCBkZXRhaWxzKQogICAgICAgIHN5cy5leGl0KCkKCiAgICBkZWYgc3RhdHVzKHNlbGYsIG1lc3NhZ2UpOgogICAgICAgIHJldHVybiBzZWxmLmNvbnNvbGUuc3RhdHVzKG1lc3NhZ2UsIHNwaW5uZXI9ImFycm93MyIpCgogICAgZGVmIGNhcHR1cmUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuY29uc29sZS5jYXB0dXJlKCkKCiAgICBkZWYgY29uZmlybShzZWxmLCBtZXNzYWdlKToKICAgICAgICByZXR1cm4gQ29uZmlybS5hc2sobWVzc2FnZSkKCgpjb25zb2xlID0gQ29uc29sZUFkYXB0ZXIoKQo=
+import sys
+
+from rich.console import Console
+from rich.prompt import Confirm
+
+CHECKMARK = "[bold green1]\u2714[/bold green1]"
+CROSSMARK = "[bold indian_red]\u2718[/bold indian_red]"
+
+
+class ConsoleAdapter:
+
+    def __init__(self):
+        self.console = Console(log_path=False)
+
+    def success(self, message):
+        self.console.print(f"{CHECKMARK} {message}")
+
+    def failure(self, message, details=""):
+        if details:
+            self.console.print(
+                f"{CROSSMARK} {message} \n\nDetails:\n\n {details}")
+        else:
+            self.console.print(f"{CROSSMARK} {message}")
+
+    def panic(self, message, details=""):
+        self.failure(message, details)
+        sys.exit()
+
+    def status(self, message):
+        return self.console.status(message, spinner="arrow3")
+
+    def capture(self):
+        return self.console.capture()
+
+    def confirm(self, message):
+        return Confirm.ask(message)
+
+
+console = ConsoleAdapter()

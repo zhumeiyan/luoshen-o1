@@ -1,1 +1,48 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDkyIOW7tui/n+WJgumHj+WPjeW6lO+8mumAmumBk+W7tui/n+WIsOW6leWcqOWTquS4gOaLjeW8gOWni+i1t+S9nOeUqCIiIgppbXBvcnQgc3lzLCBvcywganNvbgppbXBvcnQgbnVtcHkgYXMgbnAKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCcuLicsJy4uJykpCmZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKU1RFUFMsIFBFUklPRCA9IDYwMCwgODAKS1NBLCBLQUNULCBERUNBWSA9IDAuMzUsIDAuMDUsIDAuMDUKTiA9IDMyCmRlZiBydW4oc2VlZCwgZGVsYXkpOgogICAgbGlmZT1MaWZlNShzZWVkPXNlZWQsIHNpZ21hX2luPTAuMTAsIGtfc2Vlaz0wLjAsIGtfc2Vla19hcnI9S1NBLCBhcnJfdGhyPTAuNTApCiAgICBidWY9WzAuNV0qKDgwKTsgYWN0PTAuMAogICAgZm9yIHQgaW4gcmFuZ2UoU1RFUFMpOgogICAgICAgIHc9MC41KzAuMypucC5zaW4oMipucC5waSp0L1BFUklPRCk7IGJ1Zi5hcHBlbmQoZmxvYXQodykpCiAgICAgICAgdj1idWZbLTEtZGVsYXldCiAgICAgICAgbGlmZS5pbnB1dF92YWw9ZmxvYXQodikrYWN0CiAgICAgICAgcj1saWZlLnN0ZXAoKQogICAgICAgIGlmIHIgaXMgTm9uZTogYnJlYWsKICAgICAgICB0ZW49ZmxvYXQobGlmZS5zcFswXS1saWZlLnlbMF0pOyBhPWZsb2F0KG5wLmNsaXAoS0FDVCp0ZW4sMC4wLDAuMTApKQogICAgICAgIGFjdD1mbG9hdChucC5jbGlwKGFjdCthLURFQ0FZKmFjdCwtMC41LDAuNSkpCiAgICBjPWxpZmUuY2FwYWNpdHkKICAgIHJldHVybiBkaWN0KHNlZWQ9aW50KHNlZWQpLCBhbGl2ZT1ib29sKGxpZmUuYWxpdmUpLAogICAgICAgICAgICAgICAgc2tldz1mbG9hdChucC5zdGQoYykvbWF4KG5wLm1lYW4oYyksMWUtMTIpKSkKREVMQVlTPVsxLDIsNCw4LDExLDE2LDI0LDMyLDQ4LDY0XQpyZXM9e2Q6W3J1bihzLGQpIGZvciBzIGluIHJhbmdlKE4pXSBmb3IgZCBpbiBERUxBWVN9CmFsaXZlX2FsbD1zZXQocmFuZ2UoTikpCmZvciBkIGluIERFTEFZUzogYWxpdmVfYWxsICY9IHtyWydzZWVkJ10gZm9yIHIgaW4gcmVzW2RdIGlmIHJbJ2FsaXZlJ119CmFsaXZlX2FsbD1zb3J0ZWQoYWxpdmVfYWxsKQpwcmludChmJ+WFseWQjOWtmOa0uyBuPXtsZW4oYWxpdmVfYWxsKX0nKQpwcmludCgnZGVsYXkgIHNrZXdfY29tbW9uICBhbGl2ZScpCnJvd3M9W10KZm9yIGQgaW4gREVMQVlTOgogICAgc2s9W3JbJ3NrZXcnXSBmb3IgciBpbiByZXNbZF0gaWYgclsnc2VlZCddIGluIGFsaXZlX2FsbF0KICAgIGFsPW5wLm1lYW4oW3JbJ2FsaXZlJ10gZm9yIHIgaW4gcmVzW2RdXSkKICAgIHJvd3MuYXBwZW5kKGRpY3QoZGVsYXk9ZCwgc2tldz1mbG9hdChucC5tZWFuKHNrKSksIGFsaXZlPWZsb2F0KGFsKSkpCiAgICBwcmludChmJ3tkOjVkfSAge25wLm1lYW4oc2spOi42Zn0gIHthbDouM2Z9JykKZGVmIHBhaXJlZChhLGIsbmI9NjAwMCk6CiAgICBhPW5wLmFzYXJyYXkoYSk7Yj1ucC5hc2FycmF5KGIpO2Q9YS1iO249bGVuKGQpCiAgICBybmc9bnAucmFuZG9tLmRlZmF1bHRfcm5nKDApCiAgICBicz1ucC5hcnJheShbbnAubWVhbihybmcuY2hvaWNlKGQsbixUcnVlKSkgZm9yIF8gaW4gcmFuZ2UobmIpXSkKICAgIGxvLGhpPWZsb2F0KG5wLnBlcmNlbnRpbGUoYnMsMi41KSksZmxvYXQobnAucGVyY2VudGlsZShicyw5Ny41KSkKICAgIHJldHVybiBkaWN0KGRpZmY9ZmxvYXQoZC5tZWFuKCkpLGNpPVtsbyxoaV0sc2lnPWJvb2woKGxvPjApPT0oaGk+MCkpKQpwcmludCgnXG7lkITlu7bov58gdnMg5pyA5bCP5bu26L+fKDHmi40pOicpCmJhc2U9W3JbJ3NrZXcnXSBmb3IgciBpbiByZXNbMV0gaWYgclsnc2VlZCddIGluIGFsaXZlX2FsbF0KZm9yIGQgaW4gREVMQVlTWzE6XToKICAgIHA9cGFpcmVkKFtyWydza2V3J10gZm9yIHIgaW4gcmVzW2RdIGlmIHJbJ3NlZWQnXSBpbiBhbGl2ZV9hbGxdLCBiYXNlKQogICAgcHJpbnQoZicgIGRlbGF5PXtkOjNkfTogZGlmZj17cFsiZGlmZiJdOisuNmZ9IENJPVt7cFsiY2kiXVswXTorLjRmfSx7cFsiY2kiXVsxXTorLjRmfV0gc2lnPXtwWyJzaWciXX0nKQpqc29uLmR1bXAoZGljdChyb3dzPXJvd3MsIGNvbW1vbj1sZW4oYWxpdmVfYWxsKSksIG9wZW4oJ2RlbGF5X3Jlc3VsdC5qc29uJywndycpLCBpbmRlbnQ9MSkK
+# -*- coding: utf-8 -*-
+"""092 延迟剂量反应：通道延迟到底在哪一拍开始起作用"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__),'..','..'))
+from core.life5 import Life5
+STEPS, PERIOD = 600, 80
+KSA, KACT, DECAY = 0.35, 0.05, 0.05
+N = 32
+def run(seed, delay):
+    life=Life5(seed=seed, sigma_in=0.10, k_seek=0.0, k_seek_arr=KSA, arr_thr=0.50)
+    buf=[0.5]*(80); act=0.0
+    for t in range(STEPS):
+        w=0.5+0.3*np.sin(2*np.pi*t/PERIOD); buf.append(float(w))
+        v=buf[-1-delay]
+        life.input_val=float(v)+act
+        r=life.step()
+        if r is None: break
+        ten=float(life.sp[0]-life.y[0]); a=float(np.clip(KACT*ten,0.0,0.10))
+        act=float(np.clip(act+a-DECAY*act,-0.5,0.5))
+    c=life.capacity
+    return dict(seed=int(seed), alive=bool(life.alive),
+                skew=float(np.std(c)/max(np.mean(c),1e-12)))
+DELAYS=[1,2,4,8,11,16,24,32,48,64]
+res={d:[run(s,d) for s in range(N)] for d in DELAYS}
+alive_all=set(range(N))
+for d in DELAYS: alive_all &= {r['seed'] for r in res[d] if r['alive']}
+alive_all=sorted(alive_all)
+print(f'共同存活 n={len(alive_all)}')
+print('delay  skew_common  alive')
+rows=[]
+for d in DELAYS:
+    sk=[r['skew'] for r in res[d] if r['seed'] in alive_all]
+    al=np.mean([r['alive'] for r in res[d]])
+    rows.append(dict(delay=d, skew=float(np.mean(sk)), alive=float(al)))
+    print(f'{d:5d}  {np.mean(sk):.6f}  {al:.3f}')
+def paired(a,b,nb=6000):
+    a=np.asarray(a);b=np.asarray(b);d=a-b;n=len(d)
+    rng=np.random.default_rng(0)
+    bs=np.array([np.mean(rng.choice(d,n,True)) for _ in range(nb)])
+    lo,hi=float(np.percentile(bs,2.5)),float(np.percentile(bs,97.5))
+    return dict(diff=float(d.mean()),ci=[lo,hi],sig=bool((lo>0)==(hi>0)))
+print('\n各延迟 vs 最小延迟(1拍):')
+base=[r['skew'] for r in res[1] if r['seed'] in alive_all]
+for d in DELAYS[1:]:
+    p=paired([r['skew'] for r in res[d] if r['seed'] in alive_all], base)
+    print(f'  delay={d:3d}: diff={p["diff"]:+.6f} CI=[{p["ci"][0]:+.4f},{p["ci"][1]:+.4f}] sig={p["sig"]}')
+json.dump(dict(rows=rows, common=len(alive_all)), open('delay_result.json','w'), indent=1)

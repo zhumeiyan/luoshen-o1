@@ -1,1 +1,100 @@
-aW1wb3J0IG9zLHN1YnByb2Nlc3MsaGFzaGxpYixqc29uLHRpbWUKaW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliIGltcG9ydCBmb250X21hbmFnZXIKZm9yIGYgaW4gWyJXZW5RdWFuWWkgTWljcm8gSGVpIiwiTm90byBTYW5zIENKSyBTQyJdOgogICAgdHJ5OgogICAgICAgIGZvbnRfbWFuYWdlci5maW5kZm9udChmLGZhbGxiYWNrX3RvX2RlZmF1bHQ9RmFsc2UpCiAgICAgICAgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXT1bZl07IGJyZWFrCiAgICBleGNlcHQgRXhjZXB0aW9uOiBwYXNzCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl09RmFsc2UKCk9VVD0iL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTY5X2ZvdXJjb2RlcyIKVE9LRU49Iks3TTRRWCIKbGluZXM9WwogIkVYUDE2OSAg5Zub56eN6K+t6KiA57O757uf55qE5YWz57O7ICAgVE9LRU4gIitUT0tFTiwKICLnu5/kuIAgTj02NjM3OSAgIOivreaWmTog5Yik5o2u5qC45rGJ5a2XIC8gUHl0aG9u5rOo6YeKZG9jc3RyaW5n6Iux5paHIC8g5qCH6K+G56ymIC8g5pWw5a2XIiwKICIiLAogIkhlYXBz5oyH5pWwIGIgKOespuWPt+mbhuaYr+WQpuWwgemXrSk6IiwKICIgIOaVsOWtlyAwLjAwMCAgIFY9MTAg5oGS5a6aICDpm7bnu7QiLAogIiAg5rGJ5a2XIDAuMzEwICAg5pS25pWb5L6nIiwKICIgIOiLseaWhyAwLjY0MyAgIOWPkeaVo+S+pyIsCiAiICDku6PnoIEgMC42NzEgICDlj5HmlaPkvqciLAogIiIsCiAiMmdyYW3nqbrpl7TljaDnlKggVjIvVjFeMjoiLAogIiAg5pWw5a2XIDEuMDAwMCAg5a6M5YWo6aWx5ZKMIiwKICIgIOaxieWtlyAwLjAxMzkiLAogIiAg6Iux5paHIDAuMDAwNyIsCiAiICDku6PnoIEgMC4wMDA4IiwKICIiLAogIuWPl+aOp+WvueeFpyBWMD0xMDAwIE49Nzg3MjQgKOa2iOmZpE4vVua3t+adgik6IiwKICIgIOWHuuW6piAg5rGJ5a2XIDMyLjAyICAg6Iux5paHIDMzLjY0ICAg5Luj56CBIDI5Ljk5ICAg5beu5byCPDYlIiwKICIgIOe7k+iuujog5rGJ5a2X57uE5ZCI6Ieq55Sx5bqm5LiO6Iux5paH5Luj56CB5peg5pys6LSo5beu5YirIiwKICIiLAogIuWFseWQjOimhuebluWtkOmbhiBoZWxkLW91dCDlhpfkvZkgKOS4ieaKmOespuWPt+S4gOiHtCk6IiwKICIgIOaVsOWtlyAtMC4wMzIzICAg5rGJ5a2XIC0wLjAyMjMgICDoi7HmlocgLTAuMDIxOCAgIOS7o+eggSAtMC4wNDY0IiwKICIgIOWFqOmDqOS4uui0nyjljY/lkIwpIC0+IOivpeaMh+agh+S4jeWMuuWIhuWbm+ezu+e7nyIsCiAiIiwKICLkuozpmLblop7nm4ov5LiA6Zi25aKe55uKIGdiL2cxOiIsCiAiICDmlbDlrZcgNi40NCAgIOS7o+eggSAyLjE1ICAg6Iux5paHIDEuODAgICDmsYnlrZcgMS40MSIsCiAiIiwKICLpmLTmgKc6IOaxieWtl+Wkmue7tOWcqOW6j+WIl+e7n+iuoeWxguS4jeaIkOeriyIsCiAi54Wn5oqlOiDnu5PmnoTlsYIo6YOo5Lu2L+W9ouWjsC/kuoznu7Qp5pys5py65peg5ouG5YiG5pWw5o2uLCDpgKDkuI3lh7oiLApdCmZpZz1wbHQuZmlndXJlKGZpZ3NpemU9KDEwLDEyKSxkcGk9MTAwKQpmaWcucGF0Y2guc2V0X2ZhY2Vjb2xvcigid2hpdGUiKQpwbHQuYXhpcygib2ZmIikKeT0wLjk3CmZvciBpLHQgaW4gZW51bWVyYXRlKGxpbmVzKToKICAgIGJvbGQgPSAoaT09MCkgb3IgdC5zdGFydHN3aXRoKCLpmLTmgKciKSBvciB0LnN0YXJ0c3dpdGgoIueFp+aKpSIpIG9yIHQuc3RhcnRzd2l0aCgi57uT6K66IikKICAgIHNpemU9MTMgaWYgaT09MCBlbHNlICgxMSBpZiBib2xkIGVsc2UgMTApCiAgICBwbHQudGV4dCgwLjAyLHksdCxmb250c2l6ZT1zaXplLGZvbnR3ZWlnaHQ9ImJvbGQiIGlmIGJvbGQgZWxzZSAibm9ybWFsIiwKICAgICAgICAgICAgIHZhPSJ0b3AiLGZhbWlseT1wbHQucmNQYXJhbXNbImZvbnQuc2Fucy1zZXJpZiJdWzBdKQogICAgeS09IDAuMDQ1IGlmIGk9PTAgZWxzZSAwLjAzNwpwbHQuc2F2ZWZpZyhmIntPVVR9L3JlbmRlcjE2OS5wbmciLGZhY2Vjb2xvcj0id2hpdGUiKQpwcmludCgicmVuZGVyIG9rIikKCiMgLS0tLSDlhpkgZmIwIOW5tuWbnumHhyAtLS0tCkZCPSIvZGV2L2ZiMCIKcmVzPXsiZmJfZXhpc3RzIjpvcy5wYXRoLmV4aXN0cyhGQil9CmlmIG9zLnBhdGguZXhpc3RzKEZCKToKICAgIHN1YnByb2Nlc3MucnVuKFsicHl0aG9uMyIsIi1jIiwiIiIKaW1wb3J0IG51bXB5IGFzIG5wLHN0cnVjdApmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKaW09SW1hZ2Uub3BlbignJXMvcmVuZGVyMTY5LnBuZycpLmNvbnZlcnQoJ1JHQicpClcsSD0xMjgwLDcyMAppbT1pbS5yZXNpemUoKFcsSCkpCmE9bnAuYXNhcnJheShpbSxkdHlwZT1ucC51aW50OCkKIyBCR1I4ODggLT4gMTZicHAgUkdCNTY1CnI9KGFbOiw6LDBdPj4zKS5hc3R5cGUobnAudWludDE2KTsgZz0oYVs6LDosMV0+PjIpLmFzdHlwZShucC51aW50MTYpOyBiPShhWzosOiwyXT4+MykuYXN0eXBlKG5wLnVpbnQxNikKcHg9KHI8PDExKXwoZzw8NSl8YgpidWY9cHguYXN0eXBlKCc8dTInKS50b2J5dGVzKCkKb3BlbignL3RtcC9mYi5iaW4nLCd3YicpLndyaXRlKGJ1ZikKIiIiJU9VVF0sY2hlY2s9VHJ1ZSkKICAgIGRhdGE9b3BlbigiL3RtcC9mYi5iaW4iLCJyYiIpLnJlYWQoKQogICAgbj1sZW4oZGF0YSkKICAgIHJlc1siYnl0ZXNfd3JpdHRlbiJdPW4KICAgIHJlc1sic2hhX3dyaXRlIl09aGFzaGxpYi5zaGEyNTYoZGF0YSkuaGV4ZGlnZXN0KClbOjEyXQogICAgd2l0aCBvcGVuKEZCLCJ3YiIpIGFzIGY6CiAgICAgICAgZi53cml0ZShkYXRhKQogICAgdGltZS5zbGVlcCgwLjMpCiAgICB3aXRoIG9wZW4oRkIsInJiIikgYXMgZjoKICAgICAgICBiYWNrPWYucmVhZChuKQogICAgcmVzWyJieXRlc19yZWFkIl09bGVuKGJhY2spCiAgICByZXNbInNoYV9yZWFkIl09aGFzaGxpYi5zaGEyNTYoYmFjaykuaGV4ZGlnZXN0KClbOjEyXQogICAgcmVzWyJJREVOVElDQUwiXT0oYmFjaz09ZGF0YSkKICAgIHJlc1siZGlmZl9ieXRlcyJdPXN1bSgxIGZvciB4LHkgaW4gemlwKGRhdGEsYmFjaykgaWYgeCE9eSkKICAgICMg5Zue6YeH5a2Y5Zu+CiAgICBzdWJwcm9jZXNzLnJ1bihbInB5dGhvbjMiLCItYyIsIiIiCmltcG9ydCBudW1weSBhcyBucApmcm9tIFBJTCBpbXBvcnQgSW1hZ2UKZD1vcGVuKCcvZGV2L2ZiMCcsJ3JiJykucmVhZCglZCkKYT1ucC5mcm9tYnVmZmVyKGQsZHR5cGU9Jzx1MicpLnJlc2hhcGUoNzIwLDEyODApCnI9KChhPj4xMSkmMzEpLmFzdHlwZShucC51aW50OCkqODsgZz0oKGE+PjUpJjYzKS5hc3R5cGUobnAudWludDgpKjQ7IGI9KGEmMzEpLmFzdHlwZShucC51aW50OCkqOApJbWFnZS5mcm9tYXJyYXkobnAuc3RhY2soW3IsZyxiXSxheGlzPTIpKS5zYXZlKCclcy9jYXB0dXJlZC5wbmcnKQoiIiIlIChuLE9VVCldLGNoZWNrPVRydWUpCiAgICByZXNbIm9jciJdPXN1YnByb2Nlc3MucnVuKFsidGVzc2VyYWN0IixmIntPVVR9L2NhcHR1cmVkLnBuZyIsInN0ZG91dCIsIi0tcHNtIiwiNiIsIi1sIiwiZW5nK2NoaV9zaW0iXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSx0ZXh0PVRydWUpLnN0ZG91dFs6MTUwMF0KcHJpbnQoanNvbi5kdW1wcyhyZXMsZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKSkKanNvbi5kdW1wKHJlcyxvcGVuKGYie09VVH0vc2VsZmNoZWNrLmpzb24iLCJ3IiksZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKQo=
+import os,subprocess,hashlib,json,time
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+for f in ["WenQuanYi Micro Hei","Noto Sans CJK SC"]:
+    try:
+        font_manager.findfont(f,fallback_to_default=False)
+        plt.rcParams["font.sans-serif"]=[f]; break
+    except Exception: pass
+plt.rcParams["axes.unicode_minus"]=False
+
+OUT="/data/workspace/luoshen-o1/experiments/exp169_fourcodes"
+TOKEN="K7M4QX"
+lines=[
+ "EXP169  四种语言系统的关系   TOKEN "+TOKEN,
+ "统一 N=66379   语料: 判据核汉字 / Python注释docstring英文 / 标识符 / 数字",
+ "",
+ "Heaps指数 b (符号集是否封闭):",
+ "  数字 0.000   V=10 恒定  零维",
+ "  汉字 0.310   收敛侧",
+ "  英文 0.643   发散侧",
+ "  代码 0.671   发散侧",
+ "",
+ "2gram空间占用 V2/V1^2:",
+ "  数字 1.0000  完全饱和",
+ "  汉字 0.0139",
+ "  英文 0.0007",
+ "  代码 0.0008",
+ "",
+ "受控对照 V0=1000 N=78724 (消除N/V混杂):",
+ "  出度  汉字 32.02   英文 33.64   代码 29.99   差异<6%",
+ "  结论: 汉字组合自由度与英文代码无本质差别",
+ "",
+ "共同覆盖子集 held-out 冗余 (三折符号一致):",
+ "  数字 -0.0323   汉字 -0.0223   英文 -0.0218   代码 -0.0464",
+ "  全部为负(协同) -> 该指标不区分四系统",
+ "",
+ "二阶增益/一阶增益 gb/g1:",
+ "  数字 6.44   代码 2.15   英文 1.80   汉字 1.41",
+ "",
+ "阴性: 汉字多维在序列统计层不成立",
+ "照报: 结构层(部件/形声/二维)本机无拆分数据, 造不出",
+]
+fig=plt.figure(figsize=(10,12),dpi=100)
+fig.patch.set_facecolor("white")
+plt.axis("off")
+y=0.97
+for i,t in enumerate(lines):
+    bold = (i==0) or t.startswith("阴性") or t.startswith("照报") or t.startswith("结论")
+    size=13 if i==0 else (11 if bold else 10)
+    plt.text(0.02,y,t,fontsize=size,fontweight="bold" if bold else "normal",
+             va="top",family=plt.rcParams["font.sans-serif"][0])
+    y-= 0.045 if i==0 else 0.037
+plt.savefig(f"{OUT}/render169.png",facecolor="white")
+print("render ok")
+
+# ---- 写 fb0 并回采 ----
+FB="/dev/fb0"
+res={"fb_exists":os.path.exists(FB)}
+if os.path.exists(FB):
+    subprocess.run(["python3","-c","""
+import numpy as np,struct
+from PIL import Image
+im=Image.open('%s/render169.png').convert('RGB')
+W,H=1280,720
+im=im.resize((W,H))
+a=np.asarray(im,dtype=np.uint8)
+# BGR888 -> 16bpp RGB565
+r=(a[:,:,0]>>3).astype(np.uint16); g=(a[:,:,1]>>2).astype(np.uint16); b=(a[:,:,2]>>3).astype(np.uint16)
+px=(r<<11)|(g<<5)|b
+buf=px.astype('<u2').tobytes()
+open('/tmp/fb.bin','wb').write(buf)
+"""%OUT],check=True)
+    data=open("/tmp/fb.bin","rb").read()
+    n=len(data)
+    res["bytes_written"]=n
+    res["sha_write"]=hashlib.sha256(data).hexdigest()[:12]
+    with open(FB,"wb") as f:
+        f.write(data)
+    time.sleep(0.3)
+    with open(FB,"rb") as f:
+        back=f.read(n)
+    res["bytes_read"]=len(back)
+    res["sha_read"]=hashlib.sha256(back).hexdigest()[:12]
+    res["IDENTICAL"]=(back==data)
+    res["diff_bytes"]=sum(1 for x,y in zip(data,back) if x!=y)
+    # 回采存图
+    subprocess.run(["python3","-c","""
+import numpy as np
+from PIL import Image
+d=open('/dev/fb0','rb').read(%d)
+a=np.frombuffer(d,dtype='<u2').reshape(720,1280)
+r=((a>>11)&31).astype(np.uint8)*8; g=((a>>5)&63).astype(np.uint8)*4; b=(a&31).astype(np.uint8)*8
+Image.fromarray(np.stack([r,g,b],axis=2)).save('%s/captured.png')
+"""% (n,OUT)],check=True)
+    res["ocr"]=subprocess.run(["tesseract",f"{OUT}/captured.png","stdout","--psm","6","-l","eng+chi_sim"],
+                              capture_output=True,text=True).stdout[:1500]
+print(json.dumps(res,ensure_ascii=False,indent=1))
+json.dump(res,open(f"{OUT}/selfcheck.json","w"),ensure_ascii=False,indent=1)

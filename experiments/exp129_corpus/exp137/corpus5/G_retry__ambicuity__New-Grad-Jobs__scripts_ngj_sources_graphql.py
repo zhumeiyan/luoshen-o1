@@ -1,1 +1,157 @@
-IiIiQ29uZmlnLWRyaXZlbiBhZGFwdGVyIGZvciBwdWJsaWMgR3JhcGhRTCBjYXJlZXJzIGVuZHBvaW50cy4iIiIKCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBsb2dnaW5nCmZyb20gY29sbGVjdGlvbnMuYWJjIGltcG9ydCBTZXF1ZW5jZQpmcm9tIHR5cGluZyBpbXBvcnQgQW55CgppbXBvcnQgcmVxdWVzdHMKCmZyb20gbmdqIGltcG9ydCBodHRwIGFzIG5nal9odHRwCmZyb20gbmdqLm1vZGVscyBpbXBvcnQgS0lORF9DT05GSUcsIEtJTkRfTkVUV09SSywgS0lORF9QQVJTRSwgS0lORF9VTkVYUEVDVEVELCBTb3VyY2VFcnJvciwgU291cmNlUmVzdWx0CmZyb20gbmdqLnNldHRpbmdzIGltcG9ydCBERUZBVUxUX0dSQVBIUUxfTUFYX0pPQlNfUEVSX1NPVVJDRSwgREVGQVVMVF9HUkFQSFFMX1RJTUVPVVQsIFNldHRpbmdzCmZyb20gbmdqLnRleHQgaW1wb3J0IGNsZWFuX2Rlc2NyaXB0aW9uCmZyb20gbmdqLnV0aWwgaW1wb3J0IGdldF9uZXN0ZWRfdmFsdWUKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKU09VUkNFID0gImdyYXBocWwiCgoKZGVmIG5vcm1hbGl6ZV9ncmFwaHFsX2l0ZW1zKGl0ZW1zOiBBbnkpIC0+IGxpc3RbZGljdFtzdHIsIEFueV1dOgogICAgIiIiTm9ybWFsaXplIEdyYXBoUUwgaXRlbSBhcnJheXMgYW5kIHVud3JhcCBlZGdlL25vZGUgc2hhcGVzLiIiIgogICAgaWYgbm90IGlzaW5zdGFuY2UoaXRlbXMsIGxpc3QpOgogICAgICAgIHJldHVybiBbXQogICAgbm9ybWFsaXplZDogbGlzdFtkaWN0W3N0ciwgQW55XV0gPSBbXQogICAgZm9yIGl0ZW0gaW4gaXRlbXM6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoaXRlbSwgZGljdCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgbm9ybWFsaXplZC5hcHBlbmQoaXRlbVsnbm9kZSddIGlmIGlzaW5zdGFuY2UoaXRlbS5nZXQoJ25vZGUnKSwgZGljdCkgZWxzZSBpdGVtKQogICAgcmV0dXJuIG5vcm1hbGl6ZWQKCgpkZWYgZ3JhcGhxbF92YWx1ZV9hc19zdHJpbmcodmFsdWU6IEFueSkgLT4gc3RyOgogICAgIiIiQ29udmVydCBtYXBwZWQgR3JhcGhRTCB2YWx1ZXMgdG8gYSBkZXRlcm1pbmlzdGljIHN0cmluZy4iIiIKICAgIGlmIHZhbHVlIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuICcnCiAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCBsaXN0KToKICAgICAgICByZXR1cm4gJzsgJy5qb2luKHN0cih2KS5zdHJpcCgpIGZvciB2IGluIHZhbHVlIGlmIHYgaXMgbm90IE5vbmUgYW5kIHN0cih2KS5zdHJpcCgpKQogICAgcmV0dXJuIHN0cih2YWx1ZSkuc3RyaXAoKQoKCmRlZiBfdG9fam9iKGNvbXBhbnlfbmFtZTogc3RyLCBpdGVtOiBkaWN0W3N0ciwgQW55XSwgZmllbGRfbWFwcGluZ3M6IGRpY3Rbc3RyLCBzdHJdKSAtPiBkaWN0W3N0ciwgQW55XToKICAgIGRlZiBtYXBwZWQoZmllbGQ6IHN0cikgLT4gQW55OgogICAgICAgIHJldHVybiBnZXRfbmVzdGVkX3ZhbHVlKGl0ZW0sIGZpZWxkX21hcHBpbmdzLmdldChmaWVsZCwgJycpKQoKICAgIHJldHVybiB7CiAgICAgICAgJ2NvbXBhbnknOiBjb21wYW55X25hbWUsCiAgICAgICAgJ3RpdGxlJzogZ3JhcGhxbF92YWx1ZV9hc19zdHJpbmcobWFwcGVkKCd0aXRsZScpKSwKICAgICAgICAnbG9jYXRpb24nOiBncmFwaHFsX3ZhbHVlX2FzX3N0cmluZyhtYXBwZWQoJ2xvY2F0aW9uJykpIG9yICcnLAogICAgICAgICd1cmwnOiBncmFwaHFsX3ZhbHVlX2FzX3N0cmluZyhtYXBwZWQoJ3VybCcpKSwKICAgICAgICAncG9zdGVkX2F0JzogbWFwcGVkKCdwb3N0ZWRfYXQnKSwKICAgICAgICAnc291cmNlJzogJ0dyYXBoUUwnLAogICAgICAgICdkZXNjcmlwdGlvbic6IGNsZWFuX2Rlc2NyaXB0aW9uKGdyYXBocWxfdmFsdWVfYXNfc3RyaW5nKG1hcHBlZCgnZGVzY3JpcHRpb24nKSkpLAogICAgfQoKCmRlZiBmZXRjaF9ncmFwaHFsX2pvYnMoCiAgICBzb3VyY2VfY29uZmlnOiBkaWN0W3N0ciwgQW55XSwKICAgIG1heF9qb2JzOiBpbnQgPSBERUZBVUxUX0dSQVBIUUxfTUFYX0pPQlNfUEVSX1NPVVJDRSwKICAgIHRpbWVvdXQ6IGludCA9IERFRkFVTFRfR1JBUEhRTF9USU1FT1VULAopIC0+IFNvdXJjZVJlc3VsdDoKICAgICIiIkZldGNoIGpvYnMgZnJvbSBvbmUgR3JhcGhRTCBlbmRwb2ludCwgZm9sbG93aW5nIGN1cnNvciBwYWdpbmF0aW9uLiIiIgogICAgY29tcGFueV9uYW1lID0gc291cmNlX2NvbmZpZy5nZXQoJ25hbWUnLCAnVW5rbm93bicpCiAgICBlbmRwb2ludCA9IHNvdXJjZV9jb25maWcuZ2V0KCdlbmRwb2ludCcsICcnKQogICAgcXVlcnkgPSBzb3VyY2VfY29uZmlnLmdldCgncXVlcnknLCAnJykKICAgIGJhc2VfdmFyaWFibGVzID0gc291cmNlX2NvbmZpZy5nZXQoJ3ZhcmlhYmxlcycsIHt9KSBvciB7fQogICAgZGF0YV9wYXRoID0gc291cmNlX2NvbmZpZy5nZXQoJ2RhdGFfcGF0aCcsICcnKQogICAgcGFnZV9pbmZvX3BhdGggPSBzb3VyY2VfY29uZmlnLmdldCgncGFnZV9pbmZvX3BhdGgnLCAnJykKICAgIGZpZWxkX21hcHBpbmdzID0gc291cmNlX2NvbmZpZy5nZXQoJ2ZpZWxkX21hcHBpbmdzJywge30pIG9yIHt9CgogICAgaWYgbm90IGVuZHBvaW50IG9yIG5vdCBxdWVyeSBvciBub3QgZGF0YV9wYXRoOgogICAgICAgIGxvZ2dlci53YXJuaW5nKCIgIOKaoO+4jyAgJXM6IEdyYXBoUUwgc291cmNlIG1pc3NpbmcgZW5kcG9pbnQvcXVlcnkvZGF0YV9wYXRoIiwgY29tcGFueV9uYW1lKQogICAgICAgIHJldHVybiBTb3VyY2VSZXN1bHQuZmFpbHVyZShjb21wYW55X25hbWUsIFNPVVJDRSwgS0lORF9DT05GSUcsICJtaXNzaW5nIGVuZHBvaW50L3F1ZXJ5L2RhdGFfcGF0aCIpCiAgICBpZiBub3QgaXNpbnN0YW5jZShiYXNlX3ZhcmlhYmxlcywgZGljdCkgb3Igbm90IGlzaW5zdGFuY2UoZmllbGRfbWFwcGluZ3MsIGRpY3QpOgogICAgICAgIGxvZ2dlci53YXJuaW5nKCIgIOKaoO+4jyAgJXM6IEdyYXBoUUwgdmFyaWFibGVzL2ZpZWxkX21hcHBpbmdzIG11c3QgYmUgb2JqZWN0cyIsIGNvbXBhbnlfbmFtZSkKICAgICAgICByZXR1cm4gU291cmNlUmVzdWx0LmZhaWx1cmUoY29tcGFueV9uYW1lLCBTT1VSQ0UsIEtJTkRfQ09ORklHLCAidmFyaWFibGVzL2ZpZWxkX21hcHBpbmdzIG11c3QgYmUgb2JqZWN0cyIpCgogICAgbG9nZ2VyLmluZm8oIkZldGNoaW5nIGpvYnMgZnJvbSAlcyAoR3JhcGhRTCkuLi4iLCBjb21wYW55X25hbWUpCiAgICBqb2JzOiBsaXN0W2RpY3Rbc3RyLCBBbnldXSA9IFtdCiAgICBlcnJvcnM6IGxpc3RbU291cmNlRXJyb3JdID0gW10KICAgIHJhd19jb3VudCA9IDAKICAgIGN1cnNvcjogQW55ID0gTm9uZQogICAgaGVhZGVycyA9IHsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nfQoKICAgIGRlZiBmYWlsKGtpbmQ6IHN0ciwgbWVzc2FnZTogc3RyLCBzdGF0dXM6IEFueSA9IE5vbmUpIC0+IE5vbmU6CiAgICAgICAgZXJyb3JzLmFwcGVuZChTb3VyY2VFcnJvcihjb21wYW55X25hbWUsIFNPVVJDRSwga2luZCwgc3RhdHVzLCBtZXNzYWdlKSkKCiAgICB0cnk6CiAgICAgICAgd2hpbGUgbGVuKGpvYnMpIDwgbWF4X2pvYnM6CiAgICAgICAgICAgIHZhcmlhYmxlcyA9IHsqKmJhc2VfdmFyaWFibGVzLCAnYWZ0ZXInOiBjdXJzb3J9IGlmIGN1cnNvciBlbHNlIGRpY3QoYmFzZV92YXJpYWJsZXMpCiAgICAgICAgICAgIHJlc3BvbnNlID0gbmdqX2h0dHAubGltaXRlZF9wb3N0KAogICAgICAgICAgICAgICAgZW5kcG9pbnQsCiAgICAgICAgICAgICAgICBqc29uPXsncXVlcnknOiBxdWVyeSwgJ3ZhcmlhYmxlcyc6IHZhcmlhYmxlc30sCiAgICAgICAgICAgICAgICBoZWFkZXJzPWhlYWRlcnMsCiAgICAgICAgICAgICAgICB0aW1lb3V0PXRpbWVvdXQsCiAgICAgICAgICAgICkKICAgICAgICAgICAgcmVzcG9uc2UucmFpc2VfZm9yX3N0YXR1cygpCiAgICAgICAgICAgIHBheWxvYWQgPSByZXNwb25zZS5qc29uKCkKCiAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHBheWxvYWQsIGRpY3QpOgogICAgICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIiAg4pqg77iPICAlczogR3JhcGhRTCByZXNwb25zZSBtdXN0IGJlIGFuIG9iamVjdCIsIGNvbXBhbnlfbmFtZSkKICAgICAgICAgICAgICAgIGZhaWwoS0lORF9QQVJTRSwgIkdyYXBoUUwgcmVzcG9uc2UgbXVzdCBiZSBhbiBvYmplY3QiKQogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWYgcGF5bG9hZC5nZXQoJ2Vycm9ycycpOgogICAgICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoIiAg4pqg77iPICAlczogR3JhcGhRTCByZXR1cm5lZCBlcnJvcnMiLCBjb21wYW55X25hbWUpCiAgICAgICAgICAgICAgICBmYWlsKEtJTkRfUEFSU0UsICJHcmFwaFFMIHJldHVybmVkIGVycm9ycyIpCiAgICAgICAgICAgICAgICBicmVhawoKICAgICAgICAgICAgaXRlbXMgPSBub3JtYWxpemVfZ3JhcGhxbF9pdGVtcyhnZXRfbmVzdGVkX3ZhbHVlKHBheWxvYWQsIGRhdGFfcGF0aCkpCiAgICAgICAgICAgIGlmIG5vdCBpdGVtczoKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIHJhd19jb3VudCArPSBsZW4oaXRlbXMpCgogICAgICAgICAgICBmb3IgaXRlbSBpbiBpdGVtczoKICAgICAgICAgICAgICAgIGpvYnMuYXBwZW5kKF90b19qb2IoY29tcGFueV9uYW1lLCBpdGVtLCBmaWVsZF9tYXBwaW5ncykpCiAgICAgICAgICAgICAgICBpZiBsZW4oam9icykgPj0gbWF4X2pvYnM6CiAgICAgICAgICAgICAgICAgICAgYnJlYWsKCiAgICAgICAgICAgIGlmIGxlbihqb2JzKSA+PSBtYXhfam9icyBvciBub3QgcGFnZV9pbmZvX3BhdGg6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBwYWdlX2luZm8gPSBnZXRfbmVzdGVkX3ZhbHVlKHBheWxvYWQsIHBhZ2VfaW5mb19wYXRoKQogICAgICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShwYWdlX2luZm8sIGRpY3QpIG9yIG5vdCBwYWdlX2luZm8uZ2V0KCdoYXNOZXh0UGFnZScpOgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgY3Vyc29yID0gcGFnZV9pbmZvLmdldCgnZW5kQ3Vyc29yJykKICAgICAgICAgICAgaWYgbm90IGN1cnNvcjoKICAgICAgICAgICAgICAgIGJyZWFrCgogICAgZXhjZXB0IHJlcXVlc3RzLmV4Y2VwdGlvbnMuUmVxdWVzdEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgbG9nZ2VyLmVycm9yKCIgIOKdjCBSZXF1ZXN0IGVycm9yIGZvciAlcyAoR3JhcGhRTCk6ICVzIiwgY29tcGFueV9uYW1lLCBleGMpCiAgICAgICAgc3RhdHVzID0gZ2V0YXR0cihnZXRhdHRyKGV4YywgJ3Jlc3BvbnNlJywgTm9uZSksICdzdGF0dXNfY29kZScsIE5vbmUpCiAgICAgICAgZmFpbChLSU5EX1BBUlNFIGlmIGlzaW5zdGFuY2UoZXhjLCBWYWx1ZUVycm9yKSBlbHNlIEtJTkRfTkVUV09SSywgc3RyKGV4YyksIHN0YXR1cykKICAgIGV4Y2VwdCBWYWx1ZUVycm9yIGFzIGV4YzoKICAgICAgICBsb2dnZXIuZXJyb3IoIiAg4p2MIEludmFsaWQgSlNPTiBmb3IgJXMgKEdyYXBoUUwpOiAlcyIsIGNvbXBhbnlfbmFtZSwgZXhjKQogICAgICAgIGZhaWwoS0lORF9QQVJTRSwgc3RyKGV4YykpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4YzoKICAgICAgICBsb2dnZXIuZXJyb3IoIiAg4p2MIEVycm9yIGZldGNoaW5nIGZyb20gJXMgKEdyYXBoUUwpOiAlcyIsIGNvbXBhbnlfbmFtZSwgZXhjKQogICAgICAgIGZhaWwoS0lORF9VTkVYUEVDVEVELCBmInt0eXBlKGV4YykuX19uYW1lX199OiB7ZXhjfSIpCgogICAgbG9nZ2VyLmluZm8oIiAg4pyTIEZvdW5kICVzIGpvYnMgZnJvbSAlcyIsIGxlbihqb2JzKSwgY29tcGFueV9uYW1lKQogICAgcmV0dXJuIFNvdXJjZVJlc3VsdChqb2JzPXR1cGxlKGpvYnMpLCBlcnJvcnM9dHVwbGUoZXJyb3JzKSwgcmF3X2NvdW50PXJhd19jb3VudCkKCgpkZWYgZmV0Y2hfYWxsX2dyYXBocWxfam9icyhzb3VyY2VzOiBTZXF1ZW5jZVtkaWN0W3N0ciwgQW55XV0sIHNldHRpbmdzOiBTZXR0aW5ncykgLT4gU291cmNlUmVzdWx0OgogICAgIiIiRmV0Y2ggYWxsIGNvbmZpZ3VyZWQgR3JhcGhRTCBzb3VyY2VzIGluIHBhcmFsbGVsLiIiIgogICAgd29ya2VycyA9IG1pbihzZXR0aW5ncy5ncmFwaHFsX21heF93b3JrZXJzLCBtYXgoc2V0dGluZ3MuZ3JhcGhxbF9taW5fd29ya2VycywgbGVuKHNvdXJjZXMpKSkKICAgIHJldHVybiBuZ2pfaHR0cC5mYW5fb3V0KAogICAgICAgIGxpc3Qoc291cmNlcyksCiAgICAgICAgbGFtYmRhIHM6IGZldGNoX2dyYXBocWxfam9icygKICAgICAgICAgICAgcywgbWF4X2pvYnM9c2V0dGluZ3MuZ3JhcGhxbF9tYXhfam9ic19wZXJfc291cmNlLCB0aW1lb3V0PXNldHRpbmdzLmdyYXBocWxfdGltZW91dCwKICAgICAgICApLAogICAgICAgIG1heF93b3JrZXJzPXdvcmtlcnMsCiAgICAgICAgc291cmNlPVNPVVJDRSwKICAgICAgICBkZXNjcmliZT1sYW1iZGEgczogcy5nZXQoJ25hbWUnLCAnVW5rbm93bicpLAogICAgICAgIGxhYmVsPSdHcmFwaFFMJywKICAgICAgICBub3VuPSdzb3VyY2VzJywKICAgICkK
+"""Config-driven adapter for public GraphQL careers endpoints."""
+
+from __future__ import annotations
+
+import logging
+from collections.abc import Sequence
+from typing import Any
+
+import requests
+
+from ngj import http as ngj_http
+from ngj.models import KIND_CONFIG, KIND_NETWORK, KIND_PARSE, KIND_UNEXPECTED, SourceError, SourceResult
+from ngj.settings import DEFAULT_GRAPHQL_MAX_JOBS_PER_SOURCE, DEFAULT_GRAPHQL_TIMEOUT, Settings
+from ngj.text import clean_description
+from ngj.util import get_nested_value
+
+logger = logging.getLogger(__name__)
+
+SOURCE = "graphql"
+
+
+def normalize_graphql_items(items: Any) -> list[dict[str, Any]]:
+    """Normalize GraphQL item arrays and unwrap edge/node shapes."""
+    if not isinstance(items, list):
+        return []
+    normalized: list[dict[str, Any]] = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        normalized.append(item['node'] if isinstance(item.get('node'), dict) else item)
+    return normalized
+
+
+def graphql_value_as_string(value: Any) -> str:
+    """Convert mapped GraphQL values to a deterministic string."""
+    if value is None:
+        return ''
+    if isinstance(value, list):
+        return '; '.join(str(v).strip() for v in value if v is not None and str(v).strip())
+    return str(value).strip()
+
+
+def _to_job(company_name: str, item: dict[str, Any], field_mappings: dict[str, str]) -> dict[str, Any]:
+    def mapped(field: str) -> Any:
+        return get_nested_value(item, field_mappings.get(field, ''))
+
+    return {
+        'company': company_name,
+        'title': graphql_value_as_string(mapped('title')),
+        'location': graphql_value_as_string(mapped('location')) or '',
+        'url': graphql_value_as_string(mapped('url')),
+        'posted_at': mapped('posted_at'),
+        'source': 'GraphQL',
+        'description': clean_description(graphql_value_as_string(mapped('description'))),
+    }
+
+
+def fetch_graphql_jobs(
+    source_config: dict[str, Any],
+    max_jobs: int = DEFAULT_GRAPHQL_MAX_JOBS_PER_SOURCE,
+    timeout: int = DEFAULT_GRAPHQL_TIMEOUT,
+) -> SourceResult:
+    """Fetch jobs from one GraphQL endpoint, following cursor pagination."""
+    company_name = source_config.get('name', 'Unknown')
+    endpoint = source_config.get('endpoint', '')
+    query = source_config.get('query', '')
+    base_variables = source_config.get('variables', {}) or {}
+    data_path = source_config.get('data_path', '')
+    page_info_path = source_config.get('page_info_path', '')
+    field_mappings = source_config.get('field_mappings', {}) or {}
+
+    if not endpoint or not query or not data_path:
+        logger.warning("  ⚠️  %s: GraphQL source missing endpoint/query/data_path", company_name)
+        return SourceResult.failure(company_name, SOURCE, KIND_CONFIG, "missing endpoint/query/data_path")
+    if not isinstance(base_variables, dict) or not isinstance(field_mappings, dict):
+        logger.warning("  ⚠️  %s: GraphQL variables/field_mappings must be objects", company_name)
+        return SourceResult.failure(company_name, SOURCE, KIND_CONFIG, "variables/field_mappings must be objects")
+
+    logger.info("Fetching jobs from %s (GraphQL)...", company_name)
+    jobs: list[dict[str, Any]] = []
+    errors: list[SourceError] = []
+    raw_count = 0
+    cursor: Any = None
+    headers = {'Content-Type': 'application/json'}
+
+    def fail(kind: str, message: str, status: Any = None) -> None:
+        errors.append(SourceError(company_name, SOURCE, kind, status, message))
+
+    try:
+        while len(jobs) < max_jobs:
+            variables = {**base_variables, 'after': cursor} if cursor else dict(base_variables)
+            response = ngj_http.limited_post(
+                endpoint,
+                json={'query': query, 'variables': variables},
+                headers=headers,
+                timeout=timeout,
+            )
+            response.raise_for_status()
+            payload = response.json()
+
+            if not isinstance(payload, dict):
+                logger.warning("  ⚠️  %s: GraphQL response must be an object", company_name)
+                fail(KIND_PARSE, "GraphQL response must be an object")
+                break
+            if payload.get('errors'):
+                logger.warning("  ⚠️  %s: GraphQL returned errors", company_name)
+                fail(KIND_PARSE, "GraphQL returned errors")
+                break
+
+            items = normalize_graphql_items(get_nested_value(payload, data_path))
+            if not items:
+                break
+            raw_count += len(items)
+
+            for item in items:
+                jobs.append(_to_job(company_name, item, field_mappings))
+                if len(jobs) >= max_jobs:
+                    break
+
+            if len(jobs) >= max_jobs or not page_info_path:
+                break
+            page_info = get_nested_value(payload, page_info_path)
+            if not isinstance(page_info, dict) or not page_info.get('hasNextPage'):
+                break
+            cursor = page_info.get('endCursor')
+            if not cursor:
+                break
+
+    except requests.exceptions.RequestException as exc:
+        logger.error("  ❌ Request error for %s (GraphQL): %s", company_name, exc)
+        status = getattr(getattr(exc, 'response', None), 'status_code', None)
+        fail(KIND_PARSE if isinstance(exc, ValueError) else KIND_NETWORK, str(exc), status)
+    except ValueError as exc:
+        logger.error("  ❌ Invalid JSON for %s (GraphQL): %s", company_name, exc)
+        fail(KIND_PARSE, str(exc))
+    except Exception as exc:
+        logger.error("  ❌ Error fetching from %s (GraphQL): %s", company_name, exc)
+        fail(KIND_UNEXPECTED, f"{type(exc).__name__}: {exc}")
+
+    logger.info("  ✓ Found %s jobs from %s", len(jobs), company_name)
+    return SourceResult(jobs=tuple(jobs), errors=tuple(errors), raw_count=raw_count)
+
+
+def fetch_all_graphql_jobs(sources: Sequence[dict[str, Any]], settings: Settings) -> SourceResult:
+    """Fetch all configured GraphQL sources in parallel."""
+    workers = min(settings.graphql_max_workers, max(settings.graphql_min_workers, len(sources)))
+    return ngj_http.fan_out(
+        list(sources),
+        lambda s: fetch_graphql_jobs(
+            s, max_jobs=settings.graphql_max_jobs_per_source, timeout=settings.graphql_timeout,
+        ),
+        max_workers=workers,
+        source=SOURCE,
+        describe=lambda s: s.get('name', 'Unknown'),
+        label='GraphQL',
+        noun='sources',
+    )

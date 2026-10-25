@@ -1,1 +1,165 @@
-ewogIm1vZGVfY3JpdGlxdWUiOiB7CiAgIuWjq+awlCI6IDAuMTA2LAogICLmraPnoa7njociOiAwLjc1NSwKICAi5Lqn5Ye6IjogMjkuNAogfSwKICJtb2RlX3Jld2FyZCI6IHsKICAi5aOr5rCUIjogMC40LAogICLmraPnoa7njociOiAwLjAsCiAgIuS6p+WHuiI6IDIuOQogfSwKICJtb2RlX3BoYXNlZCI6IHsKICAi5aOr5rCUIjogMC4xNzYsCiAgIuato+ehrueOhyI6IDAuNzU0LAogICLkuqflh7oiOiAxMTUuOQogfSwKICJtPTAuMDAiOiB7CiAgIuS6p+WHuiI6IDExMy4zLAogICLmraPnoa7njociOiAwLjc1MwogfSwKICJtPTAuMjUiOiB7CiAgIuS6p+WHuiI6IDExMy45LAogICLmraPnoa7njociOiAwLjc1MwogfSwKICJtPTAuNTAiOiB7CiAgIuS6p+WHuiI6IDExNC42LAogICLmraPnoa7njociOiAwLjc1NAogfSwKICJtPTAuNzUiOiB7CiAgIuS6p+WHuiI6IDExNS4yLAogICLmraPnoa7njociOiAwLjc1NAogfSwKICJtPTAuOTAiOiB7CiAgIuS6p+WHuiI6IDExNS42LAogICLmraPnoa7njociOiAwLjc1NAogfSwKICJtPTEuMDAiOiB7CiAgIuS6p+WHuiI6IDExNS45LAogICLmraPnoa7njociOiAwLjc1NAogfSwKICJFPTEiOiB7CiAgIuS6p+WHuiI6IDI1NS4xLAogICLmraPnoa7njociOiAwLjY0NywKICAi5aOr5rCUIjogMS4wCiB9LAogIkU9MyI6IHsKICAi5Lqn5Ye6IjogMjY1LjUsCiAgIuato+ehrueOhyI6IDAuNzA4LAogICLlo6vmsJQiOiAxLjAKIH0sCiAiRT01IjogewogICLkuqflh7oiOiAyNTguOCwKICAi5q2j56Gu546HIjogMC43MywKICAi5aOr5rCUIjogMC44MjgKIH0sCiAiRT0xMCI6IHsKICAi5Lqn5Ye6IjogMjM0LjgsCiAgIuato+ehrueOhyI6IDAuNzQ0LAogICLlo6vmsJQiOiAwLjY2MwogfSwKICJFPTIwIjogewogICLkuqflh7oiOiAxOTEuNiwKICAi5q2j56Gu546HIjogMC43NTEsCiAgIuWjq+awlCI6IDAuNDM4CiB9LAogIkU9MzUiOiB7CiAgIuS6p+WHuiI6IDE0OC4yLAogICLmraPnoa7njociOiAwLjc1MSwKICAi5aOr5rCUIjogMC41MzgKIH0sCiAiRT01MCI6IHsKICAi5Lqn5Ye6IjogMTE1LjksCiAgIuato+ehrueOhyI6IDAuNzU0LAogICLlo6vmsJQiOiAwLjE3NgogfSwKICJFPTgwIjogewogICLkuqflh7oiOiA4MS45LAogICLmraPnoa7njociOiAwLjc1NSwKICAi5aOr5rCUIjogMC4xMjEKIH0sCiAiRT0xMjAiOiB7CiAgIuS6p+WHuiI6IDY3LjYsCiAgIuato+ehrueOhyI6IDAuNzU0LAogICLlo6vmsJQiOiAwLjIyNAogfSwKICJFPTIwMCI6IHsKICAi5Lqn5Ye6IjogNDIuNywKICAi5q2j56Gu546HIjogMC43NTUsCiAgIuWjq+awlCI6IDAuMTA2CiB9LAogIkU9NDAwIjogewogICLkuqflh7oiOiAyOS40LAogICLmraPnoa7njociOiAwLjc1NSwKICAi5aOr5rCUIjogMC4xMDYKIH0sCiAic2VsZj0wLjAwIjogewogICLkuqflh7oiOiAxMTUuOSwKICAi5aOr5rCUIjogMC4xNzYKIH0sCiAic2VsZj0wLjI1IjogewogICLkuqflh7oiOiAxMTUuOSwKICAi5aOr5rCUIjogMC4xNzYKIH0sCiAic2VsZj0wLjUwIjogewogICLkuqflh7oiOiAxMTUuOSwKICAi5aOr5rCUIjogMC4xNzYKIH0sCiAic2VsZj0wLjc1IjogewogICLkuqflh7oiOiAxMTUuOSwKICAi5aOr5rCUIjogMC4xNzYKIH0sCiAic2VsZj0xLjAwIjogewogICLkuqflh7oiOiAxMTUuOSwKICAi5aOr5rCUIjogMC4xNzYKIH0sCiAibG9zc19jPTAuMDAiOiB7CiAgIuS6p+WHuiI6IDE3Ni4wLAogICLlo6vmsJQiOiAwLjQ0OQogfSwKICJsb3NzX2M9MC4wMSI6IHsKICAi5Lqn5Ye6IjogMTY2LjAsCiAgIuWjq+awlCI6IDAuNDAzCiB9LAogImxvc3NfYz0wLjAzIjogewogICLkuqflh7oiOiAxNDYuMCwKICAi5aOr5rCUIjogMC4zMTIKIH0sCiAibG9zc19jPTAuMDYiOiB7CiAgIuS6p+WHuiI6IDExNS45LAogICLlo6vmsJQiOiAwLjE3NgogfSwKICJsb3NzX2M9MC4xMCI6IHsKICAi5Lqn5Ye6IjogNzguMCwKICAi5aOr5rCUIjogMC4wCiB9LAogImxvc3NfYz0wLjIwIjogewogICLkuqflh7oiOiAzNi4yLAogICLlo6vmsJQiOiAwLjAKIH0sCiAiZHJpZnQ9MC4wMDAiOiB7CiAgImNyaXRpcXVlIjogMTEyLjgsCiAgInJld2FyZCI6IDY4LjcsCiAgInBoYXNlZCI6IDE5MC41CiB9LAogImRyaWZ0PTAuMDAyIjogewogICJjcml0aXF1ZSI6IDY5LjEsCiAgInJld2FyZCI6IDExLjQsCiAgInBoYXNlZCI6IDE1My42CiB9LAogImRyaWZ0PTAuMDA2IjogewogICJjcml0aXF1ZSI6IDI5LjQsCiAgInJld2FyZCI6IDIuOSwKICAicGhhc2VkIjogMTE1LjkKIH0sCiAiZHJpZnQ9MC4wMTIiOiB7CiAgImNyaXRpcXVlIjogMS4zLAogICJyZXdhcmQiOiAxLjQsCiAgInBoYXNlZCI6IDgyLjYKIH0sCiAiZHJpZnQ9MC4wMjAiOiB7CiAgImNyaXRpcXVlIjogMS4xLAogICJyZXdhcmQiOiAwLjgsCiAgInBoYXNlZCI6IDU2LjEKIH0KfQ==
+{
+ "mode_critique": {
+  "士气": 0.106,
+  "正确率": 0.755,
+  "产出": 29.4
+ },
+ "mode_reward": {
+  "士气": 0.4,
+  "正确率": 0.0,
+  "产出": 2.9
+ },
+ "mode_phased": {
+  "士气": 0.176,
+  "正确率": 0.754,
+  "产出": 115.9
+ },
+ "m=0.00": {
+  "产出": 113.3,
+  "正确率": 0.753
+ },
+ "m=0.25": {
+  "产出": 113.9,
+  "正确率": 0.753
+ },
+ "m=0.50": {
+  "产出": 114.6,
+  "正确率": 0.754
+ },
+ "m=0.75": {
+  "产出": 115.2,
+  "正确率": 0.754
+ },
+ "m=0.90": {
+  "产出": 115.6,
+  "正确率": 0.754
+ },
+ "m=1.00": {
+  "产出": 115.9,
+  "正确率": 0.754
+ },
+ "E=1": {
+  "产出": 255.1,
+  "正确率": 0.647,
+  "士气": 1.0
+ },
+ "E=3": {
+  "产出": 265.5,
+  "正确率": 0.708,
+  "士气": 1.0
+ },
+ "E=5": {
+  "产出": 258.8,
+  "正确率": 0.73,
+  "士气": 0.828
+ },
+ "E=10": {
+  "产出": 234.8,
+  "正确率": 0.744,
+  "士气": 0.663
+ },
+ "E=20": {
+  "产出": 191.6,
+  "正确率": 0.751,
+  "士气": 0.438
+ },
+ "E=35": {
+  "产出": 148.2,
+  "正确率": 0.751,
+  "士气": 0.538
+ },
+ "E=50": {
+  "产出": 115.9,
+  "正确率": 0.754,
+  "士气": 0.176
+ },
+ "E=80": {
+  "产出": 81.9,
+  "正确率": 0.755,
+  "士气": 0.121
+ },
+ "E=120": {
+  "产出": 67.6,
+  "正确率": 0.754,
+  "士气": 0.224
+ },
+ "E=200": {
+  "产出": 42.7,
+  "正确率": 0.755,
+  "士气": 0.106
+ },
+ "E=400": {
+  "产出": 29.4,
+  "正确率": 0.755,
+  "士气": 0.106
+ },
+ "self=0.00": {
+  "产出": 115.9,
+  "士气": 0.176
+ },
+ "self=0.25": {
+  "产出": 115.9,
+  "士气": 0.176
+ },
+ "self=0.50": {
+  "产出": 115.9,
+  "士气": 0.176
+ },
+ "self=0.75": {
+  "产出": 115.9,
+  "士气": 0.176
+ },
+ "self=1.00": {
+  "产出": 115.9,
+  "士气": 0.176
+ },
+ "loss_c=0.00": {
+  "产出": 176.0,
+  "士气": 0.449
+ },
+ "loss_c=0.01": {
+  "产出": 166.0,
+  "士气": 0.403
+ },
+ "loss_c=0.03": {
+  "产出": 146.0,
+  "士气": 0.312
+ },
+ "loss_c=0.06": {
+  "产出": 115.9,
+  "士气": 0.176
+ },
+ "loss_c=0.10": {
+  "产出": 78.0,
+  "士气": 0.0
+ },
+ "loss_c=0.20": {
+  "产出": 36.2,
+  "士气": 0.0
+ },
+ "drift=0.000": {
+  "critique": 112.8,
+  "reward": 68.7,
+  "phased": 190.5
+ },
+ "drift=0.002": {
+  "critique": 69.1,
+  "reward": 11.4,
+  "phased": 153.6
+ },
+ "drift=0.006": {
+  "critique": 29.4,
+  "reward": 2.9,
+  "phased": 115.9
+ },
+ "drift=0.012": {
+  "critique": 1.3,
+  "reward": 1.4,
+  "phased": 82.6
+ },
+ "drift=0.020": {
+  "critique": 1.1,
+  "reward": 0.8,
+  "phased": 56.1
+ }
+}

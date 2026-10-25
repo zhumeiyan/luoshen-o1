@@ -1,1 +1,57 @@
-IiIiZXZhbGd1YXJkIHNlbGYtdGVzdC4KCkNhbm9uICM0MjQ6IGFuIGlkZW50aWZpY2F0aW9uIGNsYWltIG5lZWRzIEJPVEggYSBwb3NpdGl2ZSBjb250cm9sIHRoYXQgY2FuCnJlYWNoIDEuMCBBTkQgYSBuZWdhdGl2ZSBjb250cm9sIHNpdHRpbmcgYXQgY2hhbmNlIGxldmVsLiBUaGVzZSB0ZXN0cyBhcmUKdGhlIHBvc2l0aXZlIGNvbnRyb2wgKHBsYW50ZWQgZml4dHVyZSBtdXN0IGJlIGNhdWdodCkgYW5kIHRoZSBuZWdhdGl2ZQpjb250cm9sIChjbGVhbiBmaXh0dXJlIG11c3Qgc3RheSBzaWxlbnQpLgoiIiIKaW1wb3J0IHBhdGhsaWIsIHN5cywgcHl0ZXN0CgpzeXMucGF0aC5pbnNlcnQoMCwgc3RyKHBhdGhsaWIuUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudC5wYXJlbnQucGFyZW50KSkKZnJvbSBldmFsZ3VhcmQgaW1wb3J0IGNsaQoKSEVSRSA9IHBhdGhsaWIuUGF0aChfX2ZpbGVfXykucGFyZW50CgoKZGVmIHNjYW4obmFtZSk6CiAgICByZXR1cm4ge3JbImVnX2lkIl06IHJbInNldmVyaXR5Il0gZm9yIHIgaW4gY2xpLnNjYW4oc3RyKEhFUkUgLyBuYW1lKSl9CgoKZGVmIHRlc3RfcG9zaXRpdmVfY29udHJvbF9wbGFudGVkX2RlZmVjdHNfYXJlX2NhdWdodCgpOgogICAgaGl0cyA9IHNjYW4oInBsYW50ZWRfZXZhbC5weSIpCiAgICBmb3IgZWcgaW4gKCJFRzAwMSIsICJFRzAwMiIsICJFRzAwMyIsICJFRzAwNCIsICJFRzAwNSIsICJFRzAwNiIsCiAgICAgICAgICAgICAgICJFRzAwNyIsICJFRzAwOCIsICJFRzAwOSIsICJFRzAxMSIsICJFRzAxMiIsICJFRzAxMyIsCiAgICAgICAgICAgICAgICJFRzAxNCIsICJFRzAxNSIsICJFRzAxNiIpOgogICAgICAgIGFzc2VydCBlZyBpbiBoaXRzLCBmIntlZ30gbWlzc2VkIGEgcGxhbnRlZCBkZWZlY3QiCgoKZGVmIHRlc3RfbmVnYXRpdmVfY29udHJvbF9jbGVhbl9maXh0dXJlX2lzX3NpbGVudCgpOgogICAgaGl0cyA9IHNjYW4oImNsZWFuX2V2YWwucHkiKQogICAgbm9pc3kgPSB7azogdiBmb3IgaywgdiBpbiBoaXRzLml0ZW1zKCkgaWYgdiBpbiAoImJsb2NrZXIiLCAid2FybiIpfQogICAgYXNzZXJ0IG5vaXN5ID09IHt9LCBmImZhbHNlIHBvc2l0aXZlcyBvbiBjbGVhbiBjb2RlOiB7bm9pc3l9IgoKCmRlZiB0ZXN0X2RvdHRlZF9uYW1lc19zdXJ2aXZlX2NvbW1lbnRfc3RyaXBwaW5nKCk6CiAgICAiIiJSZWdyZXNzaW9uOiBgX2NvZGVfb25seWAgdXNlZCB0byB0dXJuIGByZXF1ZXN0cy5nZXRgIGludG8KICAgIGByZXF1ZXN0cyAuIGdldGAsIHdoaWNoIHNpbGVudGx5IGRpc2FibGVkIGV2ZXJ5IGRvdHRlZCBrZXl3b3JkLiIiIgogICAgZnJvbSBldmFsZ3VhcmQgaW1wb3J0IHJ1bGVzCiAgICBzdHJpcHBlZCA9IHJ1bGVzLl9jb2RlX29ubHkoInIgPSByZXF1ZXN0cy5nZXQodSkgICMgYmFzZWxpbmVcbiIpCiAgICBhc3NlcnQgInJlcXVlc3RzLmdldCIgaW4gc3RyaXBwZWQsICJkb3R0ZWQgbmFtZSBkZXN0cm95ZWQgYnkgdG9rZW4gam9pbiIKICAgIGFzc2VydCAiYmFzZWxpbmUiIG5vdCBpbiBzdHJpcHBlZCwgImNvbW1lbnQgbGVha2VkIGludG8gY29kZSB2aWV3IgoKCmRlZiB0ZXN0X3N0cmluZ3NfYXJlX3N0cmlwcGVkX2Zyb21fY29kZV92aWV3KCk6CiAgICBmcm9tIGV2YWxndWFyZCBpbXBvcnQgcnVsZXMKICAgIHN0cmlwcGVkID0gcnVsZXMuX2NvZGVfb25seSgncHJpbnQoInNhdmVkIGFuZCBhcmNoaXZlZCIpXG4nKQogICAgYXNzZXJ0ICJhcmNoaXZlZCIgbm90IGluIHN0cmlwcGVkCgoKZGVmIHRlc3Rfc3ludGF4X2Vycm9yX2lzX3JlcG9ydGVkX25vdF9jcmFzaGVkKCk6CiAgICByZXMgPSBjbGkuc2NhbihzdHIoSEVSRSAvICJicm9rZW5fc3ludGF4LnB5IikpCiAgICBhc3NlcnQgYW55KHJbImVnX2lkIl0gPT0gIkVHMDAwIiBmb3IgciBpbiByZXMpCgoKZGVmIHRlc3RfZXhpdF9jb2RlX2lzX29uZV9vbmx5X3doZW5fYmxvY2tlcl9maXJlcygpOgogICAgYXNzZXJ0IGNsaS5tYWluKFsiLS1mb3JtYXQiLCAianNvbiIsIHN0cihIRVJFIC8gInBsYW50ZWRfZXZhbC5weSIpXSkgPT0gMAogICAgYXNzZXJ0IGNsaS5tYWluKFtzdHIoSEVSRSAvICJwbGFudGVkX2V2YWwucHkiKV0pID09IDEKICAgIGFzc2VydCBjbGkubWFpbihbc3RyKEhFUkUgLyAiY2xlYW5fZXZhbC5weSIpXSkgPT0gMAo=
+"""evalguard self-test.
+
+Canon #424: an identification claim needs BOTH a positive control that can
+reach 1.0 AND a negative control sitting at chance level. These tests are
+the positive control (planted fixture must be caught) and the negative
+control (clean fixture must stay silent).
+"""
+import pathlib, sys, pytest
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent.parent))
+from evalguard import cli
+
+HERE = pathlib.Path(__file__).parent
+
+
+def scan(name):
+    return {r["eg_id"]: r["severity"] for r in cli.scan(str(HERE / name))}
+
+
+def test_positive_control_planted_defects_are_caught():
+    hits = scan("planted_eval.py")
+    for eg in ("EG001", "EG002", "EG003", "EG004", "EG005", "EG006",
+               "EG007", "EG008", "EG009", "EG011", "EG012", "EG013",
+               "EG014", "EG015", "EG016"):
+        assert eg in hits, f"{eg} missed a planted defect"
+
+
+def test_negative_control_clean_fixture_is_silent():
+    hits = scan("clean_eval.py")
+    noisy = {k: v for k, v in hits.items() if v in ("blocker", "warn")}
+    assert noisy == {}, f"false positives on clean code: {noisy}"
+
+
+def test_dotted_names_survive_comment_stripping():
+    """Regression: `_code_only` used to turn `requests.get` into
+    `requests . get`, which silently disabled every dotted keyword."""
+    from evalguard import rules
+    stripped = rules._code_only("r = requests.get(u)  # baseline\n")
+    assert "requests.get" in stripped, "dotted name destroyed by token join"
+    assert "baseline" not in stripped, "comment leaked into code view"
+
+
+def test_strings_are_stripped_from_code_view():
+    from evalguard import rules
+    stripped = rules._code_only('print("saved and archived")\n')
+    assert "archived" not in stripped
+
+
+def test_syntax_error_is_reported_not_crashed():
+    res = cli.scan(str(HERE / "broken_syntax.py"))
+    assert any(r["eg_id"] == "EG000" for r in res)
+
+
+def test_exit_code_is_one_only_when_blocker_fires():
+    assert cli.main(["--format", "json", str(HERE / "planted_eval.py")]) == 0
+    assert cli.main([str(HERE / "planted_eval.py")]) == 1
+    assert cli.main([str(HERE / "clean_eval.py")]) == 0

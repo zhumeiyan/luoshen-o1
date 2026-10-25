@@ -1,1 +1,157 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJDcm9zcy1wbGF0Zm9ybSBkZXYgdGFzayBydW5uZXIgZm9yIGFnYW1pLWNvcmUuCgpSdW4gYSB0YXNrIHdpdGg6ICB1diBydW4gZGV2LnB5IDx0YXNrPiAgICh3b3JrcyB0aGUgc2FtZSBvbiBtYWNPUywgTGludXgsIFdpbmRvd3MpLgoKVGhlIE9OTFkgcHJlcmVxdWlzaXRlIGlzIGB1dmAgKGh0dHBzOi8vZG9jcy5hc3RyYWwuc2gvdXYvKS4gRXZlcnkgdGFzayBzaGVsbHMgb3V0IHRvCmB1dnhgLCB3aGljaCBmZXRjaGVzIHJ1ZmYgLyBwcmUtY29tbWl0IC8gcHl0ZXN0IG9uIGRlbWFuZCDigJQgc28gdGhlcmUgaXMgbm90aGluZyBlbHNlIHRvCmluc3RhbGwgZ2xvYmFsbHkuIFRoZXNlIHRhc2tzIG1pcnJvciB0aGUgQ0kgZ2F0ZSAoLmdpdGh1Yi93b3JrZmxvd3MvY2kueW1sKTsgQ0kgaXMgdGhlCnVuYnlwYXNzYWJsZSB2ZXJzaW9uIHRoYXQgcnVucyBvbiBldmVyeSBQUi4KClRhc2tzOgogIHNldHVwICAgd2lyZSB0aGUgbG9jYWwgcHJlLWNvbW1pdCBob29rcyAocnVmZiArIGdpdGxlYWtzIG9uIGNvbW1pdDsgdGVzdHMgb24gcHVzaCkKICBjaGVjayAgIHRoZSBmdWxsIGxvY2FsIGdhdGU6IHJ1ZmYgbGludCArIHRlc3RzICsgZ2l0bGVha3MgKHdoYXQgQ0kgcnVucykKICB0ZXN0ICAgIGp1c3QgdGhlIHRlc3Qgc3VpdGUKICBsaW50ICAgIGp1c3QgcnVmZiAobGludCArIGZvcm1hdCBjaGVjaykKICBmbXQgICAgIGFwcGx5IHJ1ZmYncyBhdXRvLWZvcm1hdHRlciB0byB0aGUgdHJlZQogIGNvdmVyICAgcGF0Y2ggY292ZXJhZ2Ug4oCUIGFyZSB0aGUgbGluZXMgeW91IGNoYW5nZWQgY292ZXJlZCBieSBhIHRlc3Q/CiAgc3luYy1saWIgIHJlZ2VuZXJhdGUgcGx1Z2lucy9hZ2FtaS9saWIvICh0aGUgdmVuZG9yZWQgc2xpY2UgdGhlIHBsdWdpbiBzY3JpcHRzIGltcG9ydCkKIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgZmlsZWNtcAppbXBvcnQgc2h1dGlsCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpSVUZGID0gWyJ1dngiLCAicnVmZkAwLjE1LjE5Il0KIyBUaGUgc3VpdGUgaW1wb3J0cyB0aGUgYWdhbWktY29yZSBsaWJyYXJ5LCBzbyBpbnN0YWxsIGl0IGVkaXRhYmxlIHdpdGggdGhlIFttb2RlbF0KIyBleHRyYSAocHlkYW50aWMvcHl5YW1sL3NxbGdsb3QpLiBEQiBkcml2ZXJzIGFyZSBvbWl0dGVkIG9uIHB1cnBvc2Ug4oCUIHRob3NlIHRlc3RzIHNraXAgd2l0aG91dCBhIERCLgojIGBidWlsZGAgaXMgaGVyZSBmb3IgT05FIHRlc3Qg4oCUIGB0ZXN0X3doZWVsX2NvbnRlbnRzLnB5YCwgd2hpY2ggYnVpbGRzIGEgd2hlZWwgYW5kIGxvb2tzCiMgaW5zaWRlIGl0LiBUaGF0IHRlc3QgaXMgdGhlIHN1aXRlJ3Mgb25seSBjb3ZlciBvbiBwYWNrYWdpbmcsIGJlY2F1c2UgZXZlcnkgb3RoZXIgdGVzdCBydW5zCiMgYWdhaW5zdCBhbiBlZGl0YWJsZSBpbnN0YWxsIHdoZXJlIHRoZSBkYXRhIGRpcmVjdG9yaWVzIHJlc29sdmUgaW50byB0aGUgc291cmNlIHRyZWUKIyB3aGF0ZXZlciB0aGUgd2hlZWwgY29udGFpbnMgKCMxMjIpLiBXaXRob3V0IHRoaXMgZGVwZW5kZW5jeSBpdCB3b3VsZCBza2lwLCBhbmQgYSBndWFyZCB0aGF0CiMgc2tpcHMgaXMgdGhlIHNhbWUgYXMgbm8gZ3VhcmQuClRFU1RfREVQUyA9IFsiLS13aXRoIiwgInB5dGVzdC1jb3YiLCAiLS13aXRoIiwgInB5dGVzdC14ZGlzdCIsICItLXdpdGgiLCAiYnVpbGQiLCAiLS13aXRoLWVkaXRhYmxlIiwgInBhY2thZ2VzL2FnYW1pLWNvcmVbbW9kZWwsc2VydmVyXSJdCiMgT25lIHdvcmtlciBwZXIgY29yZSwgYXMgQ0kgcnVucyBpdCDigJQgdGhlIHN1aXRlIGlzIGEgbG9uZyB0YWlsIG9mIHNob3J0IHRlc3RzLCBub3QgYSBmZXcgc2xvdyBvbmVzLgpQQVJBTExFTCA9IFsiLW4iLCAiYXV0byJdCiMgYGRldi9gIGlzIGhlcmUgYmVjYXVzZSBpdCBob2xkcyBnYXRlIGxvZ2ljIENJIGV4ZWN1dGVzIChjaGFuZ2Vsb2dfZ2F0ZS5weSksIG5vdCBqdXN0IGxvY2FsCiMgaGVscGVycyDigJQgY29kZSB0aGUgYnVpbGQgZGVwZW5kcyBvbiBzaG91bGQgYmUgbGludGVkIGxpa2UgdGhlIGNvZGUgaXQgZ3VhcmRzLgpUQVJHRVRTID0gWyJwbHVnaW5zIiwgInBhY2thZ2VzIiwgInRlc3RzIiwgImRldi5weSIsICJkZXYiXQoKX1JPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50CiMgVGhlIHBsdWdpbidzIHJ1bnRpbWUgc2NyaXB0cyBpbXBvcnQgYSBzbWFsbCBzdGRsaWItb25seSBzbGljZSBvZiB0aGUgYWdhbWktY29yZSBsaWJyYXJ5LiBUaGUKIyBtYXJrZXRwbGFjZSBzaGlwcyBvbmx5IHBsdWdpbnMvYWdhbWkvIChubyBwYWNrYWdlcy8sIG5vIHBpcCBpbnN0YWxsKSwgc28gdGhhdCBzbGljZSBpcyB2ZW5kb3JlZCDigJQKIyBkcmlmdC1jaGVja2VkIOKAlCBpbnRvIHBsdWdpbnMvYWdhbWkvbGliLyBzbyB0aGUgc2NyaXB0cyByZXNvbHZlIGl0IHRoZXJlLiBTb3VyY2Ugb2YgdHJ1dGggc3RheXMgdGhlCiMgcGFja2FnZTsgYHN5bmMtbGliYCByZWdlbmVyYXRlcyB0aGUgY29weSBhbmQgYGNoZWNrYCBmYWlscyBvbiBkcmlmdC4KX0xJQl9TUkMgPSBfUk9PVCAvICJwYWNrYWdlcyIgLyAiYWdhbWktY29yZSIgLyAic3JjIgpfTElCX0RTVCA9IF9ST09UIC8gInBsdWdpbnMiIC8gImFnYW1pIiAvICJsaWIiCiMgVGhlIG1vZHVsZS1sb2FkIGltcG9ydCBjbG9zdXJlIG9mIHRoZSA0IHNjcmlwdHMgKGFsbCBzdGRsaWItb25seSkuIHRlc3RzL3Rlc3RfcGx1Z2luX2xpYl9yZXNvbHV0aW9uLnB5CiMgZmFpbHMgaWYgYSBzY3JpcHQgZ2FpbnMgYSBtb2R1bGUtbGV2ZWwgaW1wb3J0IHRoYXQncyBtaXNzaW5nIGhlcmU7IGEgbmV3ICpsYXp5KiBpbXBvcnQgZnJvbSB0aGUgcGFja2FnZQojIHdvdWxkIGFsc28gbmVlZCBhZGRpbmcgdG8gdGhpcyBsaXN0LgpfVkVORE9SRUQgPSBbImFnYW1pX3BhdGhzLnB5IiwgImV4ZWN1dGVfc3FsLnB5IiwgImd1YXJkcmFpbC5weSIsICJzcWxfZ3VhcmQucHkiLCAic2VtYW50aWNfbW9kZWwvX19pbml0X18ucHkiLCAic2VtYW50aWNfbW9kZWwvdW5pdHMucHkiXQoKCmRlZiBydW4oY21kOiBsaXN0W3N0cl0sICosIGFsbG93X2ZhaWw6IGJvb2wgPSBGYWxzZSkgLT4gaW50OgogICAgIiIiRWNobyBhbmQgcnVuIGEgY29tbWFuZDsgcmV0dXJuIGl0cyBleGl0IGNvZGUgKDAgPT0gb2spLiIiIgogICAgcHJpbnQoZiJcbiQgeycgJy5qb2luKGNtZCl9IikKICAgIGNvZGUgPSBzdWJwcm9jZXNzLnJ1bihjbWQpLnJldHVybmNvZGUKICAgIGlmIGNvZGUgYW5kIG5vdCBhbGxvd19mYWlsOgogICAgICAgIHByaW50KGYiICAtPiBmYWlsZWQgKGV4aXQge2NvZGV9KSIpCiAgICByZXR1cm4gY29kZQoKCmRlZiBsaW50KCkgLT4gaW50OgogICAgcmMgPSBydW4oWypSVUZGLCAiY2hlY2siLCAqVEFSR0VUU10pCiAgICAjIGZvcm1hdCBpcyBpbmZvcm1hdGlvbmFsIGZvciBub3cgKHRoZSB0cmVlIGhhcyBhbiB1bmZvcm1hdHRlZCBiYWNrbG9nKSDigJQgcmVwb3J0LCBkb24ndCBmYWlsLgogICAgcnVuKFsqUlVGRiwgImZvcm1hdCIsICItLWNoZWNrIiwgKlRBUkdFVFNdLCBhbGxvd19mYWlsPVRydWUpCiAgICByZXR1cm4gcmMKCgpkZWYgZm10KCkgLT4gaW50OgogICAgcmV0dXJuIHJ1bihbKlJVRkYsICJmb3JtYXQiLCAqVEFSR0VUU10pCgoKZGVmIHRlc3QoKSAtPiBpbnQ6CiAgICByZXR1cm4gcnVuKFsidXZ4IiwgKlRFU1RfREVQUywgInB5dGVzdCIsICJ0ZXN0cy8iLCAiLXEiLCAqUEFSQUxMRUxdKQoKCmRlZiBzZWNyZXRzKCkgLT4gaW50OgogICAgcmV0dXJuIHJ1bihbInV2eCIsICJwcmUtY29tbWl0IiwgInJ1biIsICJnaXRsZWFrcyIsICItLWFsbC1maWxlcyJdKQoKCmRlZiBzeW5jX2xpYigpIC0+IGludDoKICAgICIiIlJlZ2VuZXJhdGUgcGx1Z2lucy9hZ2FtaS9saWIvIGZyb20gcGFja2FnZXMvYWdhbWktY29yZS9zcmMgKHRoZSB2ZW5kb3JlZCBjbG9zdXJlIHRoZSBzY3JpcHRzIGltcG9ydCkuIiIiCiAgICBmb3IgcmVsIGluIF9WRU5ET1JFRDoKICAgICAgICBkc3QgPSBfTElCX0RTVCAvIHJlbAogICAgICAgIGRzdC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgICAgIHNodXRpbC5jb3B5ZmlsZShfTElCX1NSQyAvIHJlbCwgZHN0KQogICAgICAgIHByaW50KGYiICBzeW5jZWQge2RzdC5yZWxhdGl2ZV90byhfUk9PVCl9IikKICAgIHJldHVybiAwCgoKZGVmIF9saWJfZHJpZnQoKSAtPiBpbnQ6CiAgICAiIiJGYWlsIGlmIHBsdWdpbnMvYWdhbWkvbGliLyBoYXMgZHJpZnRlZCBmcm9tIHBhY2thZ2VzL2FnYW1pLWNvcmUvc3JjIChzb21lb25lIGVkaXRlZCB0aGUgc291cmNlKS4iIiIKICAgIGRyaWZ0ZWQgPSBbCiAgICAgICAgcmVsCiAgICAgICAgZm9yIHJlbCBpbiBfVkVORE9SRUQKICAgICAgICBpZiBub3QgKF9MSUJfRFNUIC8gcmVsKS5leGlzdHMoKSBvciBub3QgZmlsZWNtcC5jbXAoX0xJQl9TUkMgLyByZWwsIF9MSUJfRFNUIC8gcmVsLCBzaGFsbG93PUZhbHNlKQogICAgXQogICAgaWYgZHJpZnRlZDoKICAgICAgICBwcmludChmIlxuJCBsaWIgZHJpZnQgY2hlY2tcbiAg4pyXIHBsdWdpbnMvYWdhbWkvbGliIGlzIHN0YWxlOiB7JywgJy5qb2luKGRyaWZ0ZWQpfSIKICAgICAgICAgICAgICAiXG4gICAgcnVuOiB1diBydW4gZGV2LnB5IHN5bmMtbGliIikKICAgICAgICByZXR1cm4gMQogICAgcmV0dXJuIDAKCgpkZWYgY2hlY2soKSAtPiBpbnQ6CiAgICAiIiJydWZmIGxpbnQgKyB0ZXN0cyArIGdpdGxlYWtzICsgdGhlIHZlbmRvcmVkLWxpYiBkcmlmdCBjaGVjayDigJQgdGhlIHNhbWUgY2hlY2tzIENJIGdhdGVzIG9uLiIiIgogICAgcmMgPSBsaW50KCkKICAgIHJjIHw9IHRlc3QoKQogICAgcmMgfD0gc2VjcmV0cygpCiAgICByYyB8PSBfbGliX2RyaWZ0KCkKICAgIHByaW50KCJcbuKckyBhbGwgY2hlY2tzIHBhc3NlZCIgaWYgcmMgPT0gMCBlbHNlICJcbuKclyBzb21lIGNoZWNrcyBmYWlsZWQiKQogICAgcmV0dXJuIHJjCgoKZGVmIGNvdmVyKCkgLT4gaW50OgogICAgIiIiQ292ZXJhZ2Ugb2YgdGhlIGxpbmVzIFRISVMgYnJhbmNoIGNoYW5nZWQgKGZhaWxzIG9uIHVudGVzdGVkIGNoYW5nZWQgbGluZXMpLiIiIgogICAgIyBNYWtlIHN1cmUgb3JpZ2luL21haW4gZXhpc3RzIGxvY2FsbHkgKGZyZXNoIGNsb25lcyAvIHdvcmt0cmVlcyBtYXkgbm90IGhhdmUgaXQpLgogICAgcnVuKFsiZ2l0IiwgImZldGNoIiwgIi0tcXVpZXQiLCAib3JpZ2luIiwgIm1haW4iXSwgYWxsb3dfZmFpbD1UcnVlKQogICAgcmMgPSBydW4oWyJ1dngiLCAqVEVTVF9ERVBTLCAicHl0ZXN0IiwgInRlc3RzLyIsICItcSIsICpQQVJBTExFTCwKICAgICAgICAgICAgICAiLS1jb3Y9cGx1Z2lucyIsICItLWNvdj1wYWNrYWdlcy9hZ2FtaS1jb3JlL3NyYyIsICItLWNvdi1yZXBvcnQ9eG1sIl0pCiAgICByZXR1cm4gcmMgb3IgcnVuKFsidXZ4IiwgImRpZmYtY292ZXIiLCAiY292ZXJhZ2UueG1sIiwgIi0tY29tcGFyZS1icmFuY2g9b3JpZ2luL21haW4iXSkKCgpkZWYgc2V0dXAoKSAtPiBpbnQ6CiAgICAiIiJJbnN0YWxsIHRoZSBsb2NhbCBwcmUtY29tbWl0IGhvb2tzIChjb252ZW5pZW5jZTsgQ0kgaXMgdGhlIHJlYWwgZ2F0ZSkuIiIiCiAgICByZXR1cm4gcnVuKAogICAgICAgIFsidXZ4IiwgInByZS1jb21taXQiLCAiaW5zdGFsbCIsICItLWhvb2stdHlwZSIsICJwcmUtY29tbWl0IiwgIi0taG9vay10eXBlIiwgInByZS1wdXNoIl0KICAgICkKCgpUQVNLUyA9IHsic2V0dXAiOiBzZXR1cCwgImNoZWNrIjogY2hlY2ssICJ0ZXN0IjogdGVzdCwgImxpbnQiOiBsaW50LCAiZm10IjogZm10LCAiY292ZXIiOiBjb3ZlciwKICAgICAgICAgInN5bmMtbGliIjogc3luY19saWJ9CgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICBpZiBzaHV0aWwud2hpY2goInV2eCIpIGlzIE5vbmU6CiAgICAgICAgcHJpbnQoCiAgICAgICAgICAgICJ1diBpcyByZXF1aXJlZCBhbmQgd2FzIG5vdCBmb3VuZCBvbiBQQVRILlxuIgogICAgICAgICAgICAiICBtYWNPUyAvIExpbnV4IDogY3VybCAtTHNTZiBodHRwczovL2FzdHJhbC5zaC91di9pbnN0YWxsLnNoIHwgc2hcbiIKICAgICAgICAgICAgJyAgV2luZG93cyAgICAgICA6IHBvd2Vyc2hlbGwgLWMgImlybSBodHRwczovL2FzdHJhbC5zaC91di9pbnN0YWxsLnBzMSB8IGlleCJcbicKICAgICAgICAgICAgIiAgZG9jcyAgICAgICAgICA6IGh0dHBzOi8vZG9jcy5hc3RyYWwuc2gvdXYvZ2V0dGluZy1zdGFydGVkL2luc3RhbGxhdGlvbi8iCiAgICAgICAgKQogICAgICAgIHJldHVybiAxCiAgICB0YXNrID0gc3lzLmFyZ3ZbMV0gaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAiIgogICAgaWYgdGFzayBub3QgaW4gVEFTS1M6CiAgICAgICAgcHJpbnQoZiJ1c2FnZTogdXYgcnVuIGRldi5weSBbeycgfCAnLmpvaW4oVEFTS1MpfV0iKQogICAgICAgIHJldHVybiAyCiAgICByZXR1cm4gVEFTS1NbdGFza10oKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICAjIE5vcm1hbGl6ZSB0byBhIGNsZWFuIDAvMSAoYSBzaWduYWwta2lsbGVkIGNoaWxkIHJldHVybnMgYSBuZWdhdGl2ZSBjb2RlKS4KICAgIHJhaXNlIFN5c3RlbUV4aXQoMCBpZiBtYWluKCkgPT0gMCBlbHNlIDEpCg==
+#!/usr/bin/env python3
+"""Cross-platform dev task runner for agami-core.
+
+Run a task with:  uv run dev.py <task>   (works the same on macOS, Linux, Windows).
+
+The ONLY prerequisite is `uv` (https://docs.astral.sh/uv/). Every task shells out to
+`uvx`, which fetches ruff / pre-commit / pytest on demand — so there is nothing else to
+install globally. These tasks mirror the CI gate (.github/workflows/ci.yml); CI is the
+unbypassable version that runs on every PR.
+
+Tasks:
+  setup   wire the local pre-commit hooks (ruff + gitleaks on commit; tests on push)
+  check   the full local gate: ruff lint + tests + gitleaks (what CI runs)
+  test    just the test suite
+  lint    just ruff (lint + format check)
+  fmt     apply ruff's auto-formatter to the tree
+  cover   patch coverage — are the lines you changed covered by a test?
+  sync-lib  regenerate plugins/agami/lib/ (the vendored slice the plugin scripts import)
+"""
+
+from __future__ import annotations
+
+import filecmp
+import shutil
+import subprocess
+import sys
+from pathlib import Path
+
+RUFF = ["uvx", "ruff@0.15.19"]
+# The suite imports the agami-core library, so install it editable with the [model]
+# extra (pydantic/pyyaml/sqlglot). DB drivers are omitted on purpose — those tests skip without a DB.
+# `build` is here for ONE test — `test_wheel_contents.py`, which builds a wheel and looks
+# inside it. That test is the suite's only cover on packaging, because every other test runs
+# against an editable install where the data directories resolve into the source tree
+# whatever the wheel contains (#122). Without this dependency it would skip, and a guard that
+# skips is the same as no guard.
+TEST_DEPS = ["--with", "pytest-cov", "--with", "pytest-xdist", "--with", "build", "--with-editable", "packages/agami-core[model,server]"]
+# One worker per core, as CI runs it — the suite is a long tail of short tests, not a few slow ones.
+PARALLEL = ["-n", "auto"]
+# `dev/` is here because it holds gate logic CI executes (changelog_gate.py), not just local
+# helpers — code the build depends on should be linted like the code it guards.
+TARGETS = ["plugins", "packages", "tests", "dev.py", "dev"]
+
+_ROOT = Path(__file__).resolve().parent
+# The plugin's runtime scripts import a small stdlib-only slice of the agami-core library. The
+# marketplace ships only plugins/agami/ (no packages/, no pip install), so that slice is vendored —
+# drift-checked — into plugins/agami/lib/ so the scripts resolve it there. Source of truth stays the
+# package; `sync-lib` regenerates the copy and `check` fails on drift.
+_LIB_SRC = _ROOT / "packages" / "agami-core" / "src"
+_LIB_DST = _ROOT / "plugins" / "agami" / "lib"
+# The module-load import closure of the 4 scripts (all stdlib-only). tests/test_plugin_lib_resolution.py
+# fails if a script gains a module-level import that's missing here; a new *lazy* import from the package
+# would also need adding to this list.
+_VENDORED = ["agami_paths.py", "execute_sql.py", "guardrail.py", "sql_guard.py", "semantic_model/__init__.py", "semantic_model/units.py"]
+
+
+def run(cmd: list[str], *, allow_fail: bool = False) -> int:
+    """Echo and run a command; return its exit code (0 == ok)."""
+    print(f"\n$ {' '.join(cmd)}")
+    code = subprocess.run(cmd).returncode
+    if code and not allow_fail:
+        print(f"  -> failed (exit {code})")
+    return code
+
+
+def lint() -> int:
+    rc = run([*RUFF, "check", *TARGETS])
+    # format is informational for now (the tree has an unformatted backlog) — report, don't fail.
+    run([*RUFF, "format", "--check", *TARGETS], allow_fail=True)
+    return rc
+
+
+def fmt() -> int:
+    return run([*RUFF, "format", *TARGETS])
+
+
+def test() -> int:
+    return run(["uvx", *TEST_DEPS, "pytest", "tests/", "-q", *PARALLEL])
+
+
+def secrets() -> int:
+    return run(["uvx", "pre-commit", "run", "gitleaks", "--all-files"])
+
+
+def sync_lib() -> int:
+    """Regenerate plugins/agami/lib/ from packages/agami-core/src (the vendored closure the scripts import)."""
+    for rel in _VENDORED:
+        dst = _LIB_DST / rel
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(_LIB_SRC / rel, dst)
+        print(f"  synced {dst.relative_to(_ROOT)}")
+    return 0
+
+
+def _lib_drift() -> int:
+    """Fail if plugins/agami/lib/ has drifted from packages/agami-core/src (someone edited the source)."""
+    drifted = [
+        rel
+        for rel in _VENDORED
+        if not (_LIB_DST / rel).exists() or not filecmp.cmp(_LIB_SRC / rel, _LIB_DST / rel, shallow=False)
+    ]
+    if drifted:
+        print(f"\n$ lib drift check\n  ✗ plugins/agami/lib is stale: {', '.join(drifted)}"
+              "\n    run: uv run dev.py sync-lib")
+        return 1
+    return 0
+
+
+def check() -> int:
+    """ruff lint + tests + gitleaks + the vendored-lib drift check — the same checks CI gates on."""
+    rc = lint()
+    rc |= test()
+    rc |= secrets()
+    rc |= _lib_drift()
+    print("\n✓ all checks passed" if rc == 0 else "\n✗ some checks failed")
+    return rc
+
+
+def cover() -> int:
+    """Coverage of the lines THIS branch changed (fails on untested changed lines)."""
+    # Make sure origin/main exists locally (fresh clones / worktrees may not have it).
+    run(["git", "fetch", "--quiet", "origin", "main"], allow_fail=True)
+    rc = run(["uvx", *TEST_DEPS, "pytest", "tests/", "-q", *PARALLEL,
+              "--cov=plugins", "--cov=packages/agami-core/src", "--cov-report=xml"])
+    return rc or run(["uvx", "diff-cover", "coverage.xml", "--compare-branch=origin/main"])
+
+
+def setup() -> int:
+    """Install the local pre-commit hooks (convenience; CI is the real gate)."""
+    return run(
+        ["uvx", "pre-commit", "install", "--hook-type", "pre-commit", "--hook-type", "pre-push"]
+    )
+
+
+TASKS = {"setup": setup, "check": check, "test": test, "lint": lint, "fmt": fmt, "cover": cover,
+         "sync-lib": sync_lib}
+
+
+def main() -> int:
+    if shutil.which("uvx") is None:
+        print(
+            "uv is required and was not found on PATH.\n"
+            "  macOS / Linux : curl -LsSf https://astral.sh/uv/install.sh | sh\n"
+            '  Windows       : powershell -c "irm https://astral.sh/uv/install.ps1 | iex"\n'
+            "  docs          : https://docs.astral.sh/uv/getting-started/installation/"
+        )
+        return 1
+    task = sys.argv[1] if len(sys.argv) > 1 else ""
+    if task not in TASKS:
+        print(f"usage: uv run dev.py [{' | '.join(TASKS)}]")
+        return 2
+    return TASKS[task]()
+
+
+if __name__ == "__main__":
+    # Normalize to a clean 0/1 (a signal-killed child returns a negative code).
+    raise SystemExit(0 if main() == 0 else 1)

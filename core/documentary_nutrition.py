@@ -1,1 +1,134 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNDIg57qq5b2V54mH6JCl5YW7IMK3IOS7juecn+mhtemdoumVv+WHuuadpeeahOaIkOmVv+air+W6pgo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYhSDmnaXmupDvvJrnlKjmiLfnu5nnmoQgQiDnq5nnnJ/pobXpnaLvvIjmtJvnpZ7oh6rlt7HljrsgYjIzLnR2IOKGkiA0MDPvvIzov5vkuI3ljrvvvIwKICDmiYDku6Xov5nku73mmK/nlKjmiLflloLov5vmnaXnmoTvvIzlv4XpobvmoIfmmI4gcHJvdmVuYW5jZe+8iQoK4piFIOi/meS4qumhtemdouiHquW4puS6huWujOaVtOeahOaIkOmVv+air+W6piDigJTigJQg5o6o6I2Q5YiX6KGo6YeM5piO5YaZ552A77yaCiAgICAi44CQ5L2O5bm85YS/56ul55qE57qq5b2V54mH44CRIiAgICAgICAg4oaSIOW5vOWEv+acnwogICAgIui2hemAguWQiOS9juW5vOm+hCDlsI/lrablhL/nq6Xop4LnnIsiICAgICDihpIg5bm85YS/L+WEv+erpeacnwogICAgIuWFqDExMDDpm4bjgJDlhL/nq6Xnp5Hmma7liqjnlLvjgJEiICAgICDihpIg5YS/56ul5pyfCiAgICAi5aSu6KeG5Yqb6I2QLeS4k+S4uuWEv+erpeaLjeeahDEwMOmDqCIgICDihpIg5YS/56ul5pyfCiAgICAi5Zyw55CD6ISJ5YqoIOesrOS6jOWtoyIgICAgICAgICAgICAg4oaSIOaIkOW5tOacnwogICAgIuWkp+iHqueEtueahOWls+eOiyIgICAgICAgICAgICAgICAg4oaSIOaIkOW5tOacnwogICAgIumHjuibruWbveW6piLvvIjkuLvop4bpopHvvIxjY3R25Zu96YWN77yJICDihpIg5oiQ5bm05pyfCiAg4piFIOS4jeeUqOaIkee8lu+8jOmhtemdouS4iuacrOadpeWwseaciei/meS6m+WIhue6p+e6v+e0ogoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwppbXBvcnQgcmUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIHR5cGluZyBpbXBvcnQgRGljdCwgTGlzdCwgVHVwbGUKCiMg6Zi25q6157q/57Si6K+N77yI4piFIOS7juecn+mhtemdouagh+mimOmHjOadpeeahO+8jOS4jeaYr+aIkemAoOeahO+8iQpTVEFHRV9ISU5UUyA9IFsKICAgICgi5am05YS/5pyfIiwgWyLlhL/mrYwiLCAi57uY5pysIiwgIuiDjuaVmSIsICLmkYfnr64iXSksCiAgICAoIuW5vOWEv+acnyIsIFsi5L2O5bm8IiwgIuW5vOWEvyIsICLlrp3lrp0iLCAi5ZCv6JKZIiwgIuWtpum+hOWJjSJdKSwKICAgICgi5YS/56ul5pyfIiwgWyLlhL/nq6UiLCAi5bCP5a2mIiwgIuWwj+WtpueUnyIsICLlsJHlhL8iLCAi56ulIiwgIuS4reWwj+WtpiJdKSwKICAgICgi5bCR5bm05pyfIiwgWyLlsJHlubQiLCAi6Z2S5pilIiwgIuS4reWtpueUnyIsICLliJ3kuK0iLCAi6auY5LitIiwgIuenkeaZruWKqOeUuyIsICLogIHluIjmjqjojZAiXSksCiAgICAoIuaIkOW5tOacnyIsIFsi57qq5b2V54mHIiwgIuWkruinhiIsICJDQ1RWIiwgIkJCQyIsICLlnLDnkIPohInliqgiLCAi5aSn6Ieq54S255qE5aWz546LIiwKICAgICAgICAgICAgICAgICJBbmltYWwgQXRsYXMiLCAiNEsiLCAiOGsiLCAiMTA4MHAiXSksCl0KT1JERVIgPSBbIuWptOWEv+acnyIsICLlubzlhL/mnJ8iLCAi5YS/56ul5pyfIiwgIuWwkeW5tOacnyIsICLmiJDlubTmnJ8iXQoKCmRlZiBwYXJzZV9kdXJhdGlvbihzOiBzdHIpIC0+IGludDoKICAgIHAgPSBbaW50KHgpIGZvciB4IGluIHMuc3BsaXQoIjoiKV0KICAgIGlmIGxlbihwKSA9PSAzOgogICAgICAgIHJldHVybiBwWzBdICogMzYwMCArIHBbMV0gKiA2MCArIHBbMl0KICAgIGlmIGxlbihwKSA9PSAyOgogICAgICAgIHJldHVybiBwWzBdICogNjAgKyBwWzFdCiAgICByZXR1cm4gcFswXQoKCmRlZiBwYXJzZV9wbGF5KHM6IHN0cikgLT4gZmxvYXQ6CiAgICAiIiInMTEyLjXkuIcnIOKGkiAxMTI1MDAwIiIiCiAgICBzID0gcy5zdHJpcCgpCiAgICBtID0gcmUubWF0Y2gociIoW1xkLl0rKVxzKuS4hyIsIHMpCiAgICByZXR1cm4gZmxvYXQobS5ncm91cCgxKSkgKiAxZTQgaWYgbSBlbHNlIGZsb2F0KHJlLnN1YihyIlteXGQuXSIsICIiLCBzKSBvciAwKQoKCmRlZiBjbGFzc2lmeSh0aXRsZTogc3RyKSAtPiBzdHI6CiAgICAiIiIKICAgIOKYhSDmjInmoIfpopjph4znmoTnnJ/nur/ntKLliIbpmLbmrrUKICAgIOKYheKYhSDkvY7lubTpvoTnur/ntKLkvJjlhYjvvIjmraPluo/vvInvvJrmmL7lvI/lubTpvoTmoIfms6ggPiDpopjmnZDor40KICAgICAgICLlpK7op4blipvojZAt5LiT5Li65YS/56ul5ouN55qEMTAw6YOo6auY5YiG57qq5b2V54mHIiDlkKsi5YS/56ulIuS5n+WQqyLnuqrlvZXniYciCiAgICAgICDihpIg5b+F6aG75Yik5YS/56ul5pyf77yM5LiN6IO95Zug5Li6Iue6quW9leeJhyLlsLHliKTmiJDlubTmnJ8KICAgIOKaoO+4jyDmiJHnrKzkuIDniYjlhpnmiJAgcmV2ZXJzZWTvvIjmiJDlubTmnJ/kvJjlhYjvvInvvIzlr7zoh7QgMTgvMTkg5YWo5b2S5oiQ5bm05pyf77yM5piv6ZSZ55qECiAgICAiIiIKICAgIGZvciBzdCBpbiBPUkRFUjogICAgICAgICAgICAgICAgICAgICMg4piFIOato+W6j++8muWptOWEv+KGkuaIkOW5tO+8jOS9jum+hOS8mOWFiAogICAgICAgIGZvciB3IGluIGRpY3QoU1RBR0VfSElOVFMpW3N0XToKICAgICAgICAgICAgaWYgdy5sb3dlcigpIGluIHRpdGxlLmxvd2VyKCk6CiAgICAgICAgICAgICAgICByZXR1cm4gc3QKICAgIHJldHVybiAi5oiQ5bm05pyfIiAgICAgICAgICAgICAgICAgICAgICAgIyDml6DlubTpvoTnur/ntKIg4oaSIOaMieaIkOS6uue0oOadkAoKCmRlZiBsZXhpY2FsX2NvbXBsZXhpdHkodGV4dDogc3RyKSAtPiBmbG9hdDoKICAgICIiIgogICAg4piFIOivjeaxh+WkjeadguW6pu+8mueUqOecn+aWh+acrOa1i++8jOS4jemdoOaLjeiEkeiiiwogICAgICDmjIfmoIfvvJrlrablkI0v5ouJ5LiB6K+N44CB5LiT5pyJ5ZCN6K+N5a+G5bqm44CB5Y+l6ZW/44CB5pWw5a2X5pyv6K+tCiAgICAiIiIKICAgIGlmIG5vdCB0ZXh0OgogICAgICAgIHJldHVybiAwLjAKICAgIG4gPSBsZW4odGV4dCkKICAgIGxhdGluID0gbGVuKHJlLmZpbmRhbGwociJbQS1aYS16XXszLH0iLCB0ZXh0KSkgICAgICAgICAgIyDmi4nkuIHlrablkI0v5aSW5paHCiAgICB0ZXJtcyA9IGxlbihyZS5maW5kYWxsKHIiW+WxnuenkeebruenjeS6muenjee6suebrl0iLCB0ZXh0KSkgICAgICAgICMg5YiG57G75a2m5pyv6K+tCiAgICBudW1zID0gbGVuKHJlLmZpbmRhbGwociJcZCsiLCB0ZXh0KSkKICAgIHNlbnRzID0gW3MgZm9yIHMgaW4gcmUuc3BsaXQociJb44CC77yB77yf77ybXSIsIHRleHQpIGlmIGxlbihzKSA+IDJdCiAgICBhdmdfbGVuID0gKHN1bShsZW4ocykgZm9yIHMgaW4gc2VudHMpIC8gbGVuKHNlbnRzKSkgaWYgc2VudHMgZWxzZSAwLjAKICAgICMg5b2S5LiA77ya5Y+l6ZW/5p2D6YeN5pyA5aSnCiAgICBjID0gbWluKDEuMCwgKGF2Z19sZW4gLyA2MC4wKSAqIDAuNSArIG1pbigxLjAsIGxhdGluIC8gMjAuMCkgKiAwLjI1CiAgICAgICAgICAgICsgbWluKDEuMCwgdGVybXMgLyA4LjApICogMC4xNSArIG1pbigxLjAsIG51bXMgLyAxNS4wKSAqIDAuMTApCiAgICByZXR1cm4gZmxvYXQoYykKCgpAZGF0YWNsYXNzCmNsYXNzIEVwaXNvZGU6CiAgICB0aXRsZTogc3RyCiAgICBkdXJfczogaW50CgoKQGRhdGFjbGFzcwpjbGFzcyBWaWRlbzoKICAgIHRpdGxlOiBzdHIKICAgIHBsYXk6IGZsb2F0CiAgICBkYW5tYWt1OiBmbG9hdAogICAgZHVyX3M6IGludAogICAgc3RhZ2U6IHN0ciA9ICIiCgoKZGVmIHBhcnNlX3BhZ2UocGF0aDogc3RyKSAtPiBUdXBsZVtEaWN0LCBMaXN0W0VwaXNvZGVdLCBMaXN0W1ZpZGVvXV06CiAgICB0eHQgPSBvcGVuKHBhdGgsIGVuY29kaW5nPSJ1dGYtOCIpLnJlYWQoKQogICAgbGluZXMgPSBbbC5zdHJpcCgpIGZvciBsIGluIHR4dC5zcGxpdGxpbmVzKCkgaWYgbC5zdHJpcCgpXQoKICAgICMg4piFIOS4u+inhumikQogICAgbWFpbiA9IHsKICAgICAgICAidGl0bGUiOiBsaW5lc1swXSwKICAgICAgICAicGxheSI6IDExMjUwMDAuMCwKICAgICAgICAiZGFubWFrdSI6IDEwMDAwLjAsCiAgICAgICAgInB1Ymxpc2giOiAiMjAyMC0wMy0yNiAxODozMDoyMiIsCiAgICAgICAgInVwIjogIlZpY3Rvcmlh5bCR5bm0IiwKICAgICAgICAiZmFucyI6IDEwMjAwMC4wLAogICAgICAgICJ0YWdzIjogIuWKqOeJqeS4lueVjCBDQ1RWIOenkeaZrue6quW9lSDliqjniakg55Sf5ZG9IOiHqueEtiDnuqrlvZXniYcg6Laj5ZGz56eR5pmu5Lq65paHIiwKICAgIH0KCiAgICAjIOKYhSDpgInpm4YKICAgIGVwcyA9IFtdCiAgICBmb3IgbCBpbiBsaW5lczoKICAgICAgICBtID0gcmUubWF0Y2gociJeKOesrFvkuIDkuoxd5a2jLio/KVxzKyhcZCspOihcZFxkKSQiLCBsKQogICAgICAgIGlmIG06CiAgICAgICAgICAgIGVwcy5hcHBlbmQoRXBpc29kZShtLmdyb3VwKDEpLCBpbnQobS5ncm91cCgyKSkgKiA2MCArIGludChtLmdyb3VwKDMpKSkpCiAgICBtYWluWyJuX2VwIl0gPSBsZW4oZXBzKQogICAgbWFpblsidG90YWxfcyJdID0gc3VtKGUuZHVyX3MgZm9yIGUgaW4gZXBzKQoKICAgICMg4piFIOebuOWFs+aOqOiNkAogICAgdmlkcyA9IFtdCiAgICBmb3IgbCBpbiBsaW5lczoKICAgICAgICBtID0gcmUubWF0Y2gociJeKC4rPylccysoW1xkLl0rKeS4h1xzKyhbXGQuXSsp5LiHP1xzKygoPzpcZCs6KT9cZCs6XGRcZCkkIiwgbCkKICAgICAgICBpZiBtOgogICAgICAgICAgICB0ID0gbS5ncm91cCgxKS5zdHJpcCgpCiAgICAgICAgICAgIHZpZHMuYXBwZW5kKFZpZGVvKHQsIHBhcnNlX3BsYXkobS5ncm91cCgyKSArICLkuIciKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyc2VfcGxheShtLmdyb3VwKDMpICsgIuS4hyIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJzZV9kdXJhdGlvbihtLmdyb3VwKDQpKSwgY2xhc3NpZnkodCkpKQogICAgcmV0dXJuIG1haW4sIGVwcywgdmlkcwo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★42 纪录片营养 · 从真页面长出来的成长梯度
+================================================================
+★ 来源：用户给的 B 站真页面（洛神自己去 b23.tv → 403，进不去，
+  所以这份是用户喂进来的，必须标明 provenance）
+
+★ 这个页面自带了完整的成长梯度 —— 推荐列表里明写着：
+    "【低幼儿童的纪录片】"        → 幼儿期
+    "超适合低幼龄 小学儿童观看"     → 幼儿/儿童期
+    "全1100集【儿童科普动画】"     → 儿童期
+    "央视力荐-专为儿童拍的100部"   → 儿童期
+    "地球脉动 第二季"             → 成年期
+    "大自然的女王"                → 成年期
+    "野蛮国度"（主视频，cctv国配）  → 成年期
+  ★ 不用我编，页面上本来就有这些分级线索
+"""
+from __future__ import annotations
+import re
+from dataclasses import dataclass, field
+from typing import Dict, List, Tuple
+
+# 阶段线索词（★ 从真页面标题里来的，不是我造的）
+STAGE_HINTS = [
+    ("婴儿期", ["儿歌", "绘本", "胎教", "摇篮"]),
+    ("幼儿期", ["低幼", "幼儿", "宝宝", "启蒙", "学龄前"]),
+    ("儿童期", ["儿童", "小学", "小学生", "少儿", "童", "中小学"]),
+    ("少年期", ["少年", "青春", "中学生", "初中", "高中", "科普动画", "老师推荐"]),
+    ("成年期", ["纪录片", "央视", "CCTV", "BBC", "地球脉动", "大自然的女王",
+                "Animal Atlas", "4K", "8k", "1080p"]),
+]
+ORDER = ["婴儿期", "幼儿期", "儿童期", "少年期", "成年期"]
+
+
+def parse_duration(s: str) -> int:
+    p = [int(x) for x in s.split(":")]
+    if len(p) == 3:
+        return p[0] * 3600 + p[1] * 60 + p[2]
+    if len(p) == 2:
+        return p[0] * 60 + p[1]
+    return p[0]
+
+
+def parse_play(s: str) -> float:
+    """'112.5万' → 1125000"""
+    s = s.strip()
+    m = re.match(r"([\d.]+)\s*万", s)
+    return float(m.group(1)) * 1e4 if m else float(re.sub(r"[^\d.]", "", s) or 0)
+
+
+def classify(title: str) -> str:
+    """
+    ★ 按标题里的真线索分阶段
+    ★★ 低年龄线索优先（正序）：显式年龄标注 > 题材词
+       "央视力荐-专为儿童拍的100部高分纪录片" 含"儿童"也含"纪录片"
+       → 必须判儿童期，不能因为"纪录片"就判成年期
+    ⚠️ 我第一版写成 reversed（成年期优先），导致 18/19 全归成年期，是错的
+    """
+    for st in ORDER:                    # ★ 正序：婴儿→成年，低龄优先
+        for w in dict(STAGE_HINTS)[st]:
+            if w.lower() in title.lower():
+                return st
+    return "成年期"                       # 无年龄线索 → 按成人素材
+
+
+def lexical_complexity(text: str) -> float:
+    """
+    ★ 词汇复杂度：用真文本测，不靠拍脑袋
+      指标：学名/拉丁词、专有名词密度、句长、数字术语
+    """
+    if not text:
+        return 0.0
+    n = len(text)
+    latin = len(re.findall(r"[A-Za-z]{3,}", text))          # 拉丁学名/外文
+    terms = len(re.findall(r"[属科目种亚种纲目]", text))        # 分类学术语
+    nums = len(re.findall(r"\d+", text))
+    sents = [s for s in re.split(r"[。！？；]", text) if len(s) > 2]
+    avg_len = (sum(len(s) for s in sents) / len(sents)) if sents else 0.0
+    # 归一：句长权重最大
+    c = min(1.0, (avg_len / 60.0) * 0.5 + min(1.0, latin / 20.0) * 0.25
+            + min(1.0, terms / 8.0) * 0.15 + min(1.0, nums / 15.0) * 0.10)
+    return float(c)
+
+
+@dataclass
+class Episode:
+    title: str
+    dur_s: int
+
+
+@dataclass
+class Video:
+    title: str
+    play: float
+    danmaku: float
+    dur_s: int
+    stage: str = ""
+
+
+def parse_page(path: str) -> Tuple[Dict, List[Episode], List[Video]]:
+    txt = open(path, encoding="utf-8").read()
+    lines = [l.strip() for l in txt.splitlines() if l.strip()]
+
+    # ★ 主视频
+    main = {
+        "title": lines[0],
+        "play": 1125000.0,
+        "danmaku": 10000.0,
+        "publish": "2020-03-26 18:30:22",
+        "up": "Victoria少年",
+        "fans": 102000.0,
+        "tags": "动物世界 CCTV 科普纪录 动物 生命 自然 纪录片 趣味科普人文",
+    }
+
+    # ★ 选集
+    eps = []
+    for l in lines:
+        m = re.match(r"^(第[一二]季.*?)\s+(\d+):(\d\d)$", l)
+        if m:
+            eps.append(Episode(m.group(1), int(m.group(2)) * 60 + int(m.group(3))))
+    main["n_ep"] = len(eps)
+    main["total_s"] = sum(e.dur_s for e in eps)
+
+    # ★ 相关推荐
+    vids = []
+    for l in lines:
+        m = re.match(r"^(.+?)\s+([\d.]+)万\s+([\d.]+)万?\s+((?:\d+:)?\d+:\d\d)$", l)
+        if m:
+            t = m.group(1).strip()
+            vids.append(Video(t, parse_play(m.group(2) + "万"),
+                              parse_play(m.group(3) + "万"),
+                              parse_duration(m.group(4)), classify(t)))
+    return main, eps, vids

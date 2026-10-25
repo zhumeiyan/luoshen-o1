@@ -1,1 +1,70 @@
-aW1wb3J0IGpzb24sbWF0aCxyYW5kb20scmUKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgojIOecn+ivreaWme+8muWIpOaNruaguOecn+WunuihjApyb3dzPVtsLnN0cmlwKCkgZm9yIGwgaW4gb3BlbignL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCcsZW5jb2Rpbmc9J3V0Zi04JykgaWYgbC5zdHJpcCgpXQpyb3dzPVtyIGZvciByIGluIHJvd3MgaWYgbGVuKHIpPjEyXVs6MjQwMF0Kcm5nPXJhbmRvbS5SYW5kb20oNyk7IHJuZy5zaHVmZmxlKHJvd3MpCiMg55yf5a6e5LqM5YiG57G75qCH562+77ya6K+l6KGM5piv5ZCm5ZCr5pWw5a2X5oyH5qCH77yI5Yik5o2u5qC46YeMIuaciemHj+WMluaMh+aghyLnmoTooYwgdnMg57qv5Y+Z6L+w6KGM77yJCmxhYj1bMSBpZiByZS5zZWFyY2gocidcZCtcLlxkK3xcZCslJyxyKSBlbHNlIDAgZm9yIHIgaW4gcm93c10KcHJpbnQoIuecn+ivreaWmSAlZCDooYzvvIzmraPkvovnjocgJS4zZiIlKGxlbihyb3dzKSxzdW0obGFiKS9sZW4obGFiKSkpCnRvaz1sYW1iZGEgczogcmUuZmluZGFsbChyJ1tBLVphLXpfXSt8XGQrXC4/XGQqfFteXHNBLVphLXowLTldJyxzKQpUPVt0b2socikgZm9yIHIgaW4gcm93c10KCmRlZiByZXBfdW5pZ3JhbSh0KTogcmV0dXJuIENvdW50ZXIodCkKZGVmIHJlcF9iaWdyYW0odCk6ICByZXR1cm4gQ291bnRlcih6aXAodCx0WzE6XSkpCmRlZiByZXBfZmlyc3QodCk6ICAgcmV0dXJuIENvdW50ZXIoWygnRicsdFswXSldIGlmIHQgZWxzZSBbXSkKZGVmIHJlcF9sZW4odCk6ICAgICByZXR1cm4gQ291bnRlcihbKCdMJyxsZW4odCkvLzEwKV0pClJFUFM9eyd1bmlncmFtJzpyZXBfdW5pZ3JhbSwnYmlncmFtJzpyZXBfYmlncmFtLCdmaXJzdCc6cmVwX2ZpcnN0LCdsZW4nOnJlcF9sZW59CgpkZWYgTUkobGFiZWxzLCBrZXlzX2xpc3QpOgogICAgIyDnprvmlaPkupLkv6Hmga8gSShsYWJlbDsg6KGo56S6Ke+8jOeUqOmikeeOh+S8sOiuoe+8iOecn+WunuaVsOaNru+8jOaXoOWIhuW4g+WBh+iuvu+8iQogICAgTj1sZW4obGFiZWxzKTsgcHk9Q291bnRlcihsYWJlbHMpCiAgICBqb2ludD1Db3VudGVyKCk7IGt4PUNvdW50ZXIoKQogICAgZm9yIHksayBpbiB6aXAobGFiZWxzLGtleXNfbGlzdCk6CiAgICAgICAga3hba10rPTE7IGpvaW50Wyh5LGspXSs9MQogICAgbWk9MC4wCiAgICBmb3IgKHksayksYyBpbiBqb2ludC5pdGVtcygpOgogICAgICAgIHA9Yy9OOyBweWs9cHlbeV0vTipreFtrXS9OCiAgICAgICAgaWYgcD4wIGFuZCBweWs+MDogbWkrPXAqbWF0aC5sb2cocC9weWspCiAgICByZXR1cm4gbWkKCmRlZiBkaXNjKGxhYmVscywga2V5c19saXN0LCBzZWVkPTEpOgogICAgIyDmnLTntKDotJ3lj7bmlq/liKTliKvluqYgfFRQUi1GUFJ877yI55yf5a6e6K6t57uDL+a1i+ivleWIh+WIhu+8iQogICAgcj1yYW5kb20uUmFuZG9tKHNlZWQpOyBpZHg9bGlzdChyYW5nZShsZW4obGFiZWxzKSkpOyByLnNodWZmbGUoaWR4KQogICAgY3V0PWludCgwLjcqbGVuKGlkeCkpOyB0cix0ZT1pZHhbOmN1dF0saWR4WzEqMDpdIAogICAgdHIsdGU9aWR4WzpjdXRdLGlkeFtjdXQ6XQogICAgcHJpPXt9OyB0b3Q9Q291bnRlcihsYWJlbHNbaV0gZm9yIGkgaW4gdHIpCiAgICBmb3IgaSBpbiB0cjoKICAgICAgICBwcmkuc2V0ZGVmYXVsdChsYWJlbHNbaV0sQ291bnRlcigpKVtrZXlzX2xpc3RbaV1dKz0xCiAgICB0cD1mcD10bj1mbj0wCiAgICBmb3IgaSBpbiB0ZToKICAgICAgICBzYz17fQogICAgICAgIGZvciB5IGluIHRvdDoKICAgICAgICAgICAgc2NbeV09bWF0aC5sb2codG90W3ldL2xlbih0cikpK21hdGgubG9nKChwcmlbeV1ba2V5c19saXN0W2ldXSswLjUpLyh0b3RbeV0rMC41KmxlbihzZXQoa2V5c19saXN0KSkpKQogICAgICAgIHByZWQ9bWF4KHNjLGtleT1zYy5nZXQpCiAgICAgICAgaWYgcHJlZD09MSBhbmQgbGFiZWxzW2ldPT0xOiB0cCs9MQogICAgICAgIGVsaWYgcHJlZD09MSBhbmQgbGFiZWxzW2ldPT0wOiBmcCs9MQogICAgICAgIGVsaWYgcHJlZD09MCBhbmQgbGFiZWxzW2ldPT0wOiB0bis9MQogICAgICAgIGVsc2U6IGZuKz0xCiAgICB0cHI9dHAvKHRwK2ZuKSBpZiB0cCtmbiBlbHNlIDA7IGZwcj1mcC8oZnArdG4pIGlmIGZwK3RuIGVsc2UgMAogICAgcmV0dXJuIGFicyh0cHItZnByKSwgdHByLCBmcHIKCm91dD1bXQpmb3IgbmFtZSxmIGluIFJFUFMuaXRlbXMoKToKICAgIGtleXM9W3R1cGxlKHNvcnRlZChmKHQpLml0ZW1zKCkpKSBmb3IgdCBpbiBUXQogICAgbWk9TUkobGFiLGtleXMpCiAgICBkLHRwcixmcHI9ZGlzYyhsYWIsa2V5cykKICAgIG91dC5hcHBlbmQoZGljdChyZXA9bmFtZSxNST1taSxkaXNjPWQsdHByPXRwcixmcHI9ZnByKSkKICAgIHByaW50KCIlLThzIEkobGFiZWw7cmVwKT0lLjRmICAg5Yik5Yir5bqmfFRQUi1GUFJ8PSUuNGYgIChUUFIgJS4zZiBGUFIgJS4zZikiJShuYW1lLG1pLGQsdHByLGZwcikpCmpzb24uZHVtcChvdXQsb3BlbignczYuanNvbicsJ3cnKSxpbmRlbnQ9MSkKIyDmjpLluo/kuIDoh7TmgKcKZGVmIHJhbmsodik6CiAgICBzPXNvcnRlZChyYW5nZShsZW4odikpLGtleT1sYW1iZGEgaTotdltpXSk7IHI9WzBdKmxlbih2KQogICAgZm9yIHAsaSBpbiBlbnVtZXJhdGUocyk6IHJbaV09cCsxCiAgICByZXR1cm4gcgpybT1yYW5rKFtvWydNSSddIGZvciBvIGluIG91dF0pOyByZD1yYW5rKFtvWydkaXNjJ10gZm9yIG8gaW4gb3V0XSkKbj1sZW4ob3V0KTsgZDI9c3VtKChhLWIpKioyIGZvciBhLGIgaW4gemlwKHJtLHJkKSkKcmhvPTEtNipkMi8obioobipuLTEpKQpwcmludCgiXG5TcGVhcm1hbijkupLkv6Hmga/mjpLluo8sIOWIpOWIq+W6puaOkuW6jykgPSAlLjNmIiVyaG8pCnByaW50KCLkupLkv6Hmga/mnIDpq5jnmoTooajnpLo6IixtYXgob3V0LGtleT1sYW1iZGEgbzpvWydNSSddKVsncmVwJ10sCiAgICAgICJ8IOWIpOWIq+W6puacgOmrmOeahOihqOekujoiLG1heChvdXQsa2V5PWxhbWJkYSBvOm9bJ2Rpc2MnXSlbJ3JlcCddKQo=
+import json,math,random,re
+from collections import Counter
+# 真语料：判据核真实行
+rows=[l.strip() for l in open('/data/workspace/luoshen-o1/evidence/失败模式库/判据核.md',encoding='utf-8') if l.strip()]
+rows=[r for r in rows if len(r)>12][:2400]
+rng=random.Random(7); rng.shuffle(rows)
+# 真实二分类标签：该行是否含数字指标（判据核里"有量化指标"的行 vs 纯叙述行）
+lab=[1 if re.search(r'\d+\.\d+|\d+%',r) else 0 for r in rows]
+print("真语料 %d 行，正例率 %.3f"%(len(rows),sum(lab)/len(lab)))
+tok=lambda s: re.findall(r'[A-Za-z_]+|\d+\.?\d*|[^\sA-Za-z0-9]',s)
+T=[tok(r) for r in rows]
+
+def rep_unigram(t): return Counter(t)
+def rep_bigram(t):  return Counter(zip(t,t[1:]))
+def rep_first(t):   return Counter([('F',t[0])] if t else [])
+def rep_len(t):     return Counter([('L',len(t)//10)])
+REPS={'unigram':rep_unigram,'bigram':rep_bigram,'first':rep_first,'len':rep_len}
+
+def MI(labels, keys_list):
+    # 离散互信息 I(label; 表示)，用频率估计（真实数据，无分布假设）
+    N=len(labels); py=Counter(labels)
+    joint=Counter(); kx=Counter()
+    for y,k in zip(labels,keys_list):
+        kx[k]+=1; joint[(y,k)]+=1
+    mi=0.0
+    for (y,k),c in joint.items():
+        p=c/N; pyk=py[y]/N*kx[k]/N
+        if p>0 and pyk>0: mi+=p*math.log(p/pyk)
+    return mi
+
+def disc(labels, keys_list, seed=1):
+    # 朴素贝叶斯判别度 |TPR-FPR|（真实训练/测试切分）
+    r=random.Random(seed); idx=list(range(len(labels))); r.shuffle(idx)
+    cut=int(0.7*len(idx)); tr,te=idx[:cut],idx[1*0:] 
+    tr,te=idx[:cut],idx[cut:]
+    pri={}; tot=Counter(labels[i] for i in tr)
+    for i in tr:
+        pri.setdefault(labels[i],Counter())[keys_list[i]]+=1
+    tp=fp=tn=fn=0
+    for i in te:
+        sc={}
+        for y in tot:
+            sc[y]=math.log(tot[y]/len(tr))+math.log((pri[y][keys_list[i]]+0.5)/(tot[y]+0.5*len(set(keys_list))))
+        pred=max(sc,key=sc.get)
+        if pred==1 and labels[i]==1: tp+=1
+        elif pred==1 and labels[i]==0: fp+=1
+        elif pred==0 and labels[i]==0: tn+=1
+        else: fn+=1
+    tpr=tp/(tp+fn) if tp+fn else 0; fpr=fp/(fp+tn) if fp+tn else 0
+    return abs(tpr-fpr), tpr, fpr
+
+out=[]
+for name,f in REPS.items():
+    keys=[tuple(sorted(f(t).items())) for t in T]
+    mi=MI(lab,keys)
+    d,tpr,fpr=disc(lab,keys)
+    out.append(dict(rep=name,MI=mi,disc=d,tpr=tpr,fpr=fpr))
+    print("%-8s I(label;rep)=%.4f   判别度|TPR-FPR|=%.4f  (TPR %.3f FPR %.3f)"%(name,mi,d,tpr,fpr))
+json.dump(out,open('s6.json','w'),indent=1)
+# 排序一致性
+def rank(v):
+    s=sorted(range(len(v)),key=lambda i:-v[i]); r=[0]*len(v)
+    for p,i in enumerate(s): r[i]=p+1
+    return r
+rm=rank([o['MI'] for o in out]); rd=rank([o['disc'] for o in out])
+n=len(out); d2=sum((a-b)**2 for a,b in zip(rm,rd))
+rho=1-6*d2/(n*(n*n-1))
+print("\nSpearman(互信息排序, 判别度排序) = %.3f"%rho)
+print("互信息最高的表示:",max(out,key=lambda o:o['MI'])['rep'],
+      "| 判别度最高的表示:",max(out,key=lambda o:o['disc'])['rep'])

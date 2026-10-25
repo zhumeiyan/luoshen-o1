@@ -1,1 +1,30 @@
-PCFkb2N0eXBlIGh0bWw+PG1ldGEgY2hhcnNldD0idXRmLTgiPjxzdHlsZT5ib2R5e21hcmdpbjowO2JhY2tncm91bmQ6IzA2MTMxZjtvdmVyZmxvdzpoaWRkZW59PC9zdHlsZT4KPGNhbnZhcyBpZD1jIHdpZHRoPTkwMCBoZWlnaHQ9NTIwPjwvY2FudmFzPgo8c2NyaXB0Pgpjb25zdCBnPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjJykuZ2V0Q29udGV4dCgnMmQnKTsKZnVuY3Rpb24gZHJhd0F0KHQpewogIGcuZmlsbFN0eWxlPScjMDYxMzFmJzsgZy5maWxsUmVjdCgwLDAsOTAwLDUyMCk7CiAgLy8g6LW35LyP55qE5bGx6ISK77yM6ZqPIHQg5pW05L2T5qiq56e777yM6YCf5bqmIDkwIHB4L3MKICBjb25zdCB2PTkwLCBvZmY9dip0OwogIGZvcihsZXQgTD0wO0w8MztMKyspewogICAgY29uc3QgYmFzZT0xNDArTCoxMzAsIGNvbD1bJ3JnYmEoNDAsMTEwLDE1MCwwLjk1KScsJ3JnYmEoNjAsMTUwLDE5MCwwLjkpJywncmdiYSg5MCwxOTAsMjI1LDAuODUpJ11bTF07CiAgICBnLmJlZ2luUGF0aCgpOyBnLm1vdmVUbygwLDUyMCk7CiAgICBmb3IobGV0IHg9MDt4PD05MDA7eCs9Myl7CiAgICAgIGNvbnN0IGE9KHgrb2ZmKS1MKjQwOwogICAgICBjb25zdCB5PWJhc2UgKyA1MipNYXRoLnNpbihhLzU4KSArIDI0Kk1hdGguc2luKGEvMjUrMC45KSArIDEwKk1hdGguc2luKGEvMTErMi4xKTsKICAgICAgZy5saW5lVG8oeCx5KTsKICAgIH0KICAgIGcubGluZVRvKDkwMCw1MjApOyBnLmNsb3NlUGF0aCgpOyBnLmZpbGxTdHlsZT1jb2w7IGcuZmlsbCgpOwogIH0KICAvLyDmsLTpnaLlj43lhYnmlpHvvJrkuZ/pmo/ml7bpl7TliqgKICBmb3IobGV0IGk9MDtpPDI2O2krKyl7CiAgICBjb25zdCB4PSgoaSoxMzcgKyB0KjEyMCklOTQwKS0yMCwgeT03MCsoKGkqODMpJTkwKTsKICAgIGNvbnN0IHI9MTQrNypNYXRoLnNpbih0K2kpOwogICAgY29uc3QgZ3I9Zy5jcmVhdGVSYWRpYWxHcmFkaWVudCh4LHksMSx4LHkscioyLjIpOwogICAgZ3IuYWRkQ29sb3JTdG9wKDAsJ3JnYmEoMjEwLDI0NSwyNTUsMC41NSknKTsgZ3IuYWRkQ29sb3JTdG9wKDEsJ3JnYmEoMjEwLDI0NSwyNTUsMCknKTsKICAgIGcuZmlsbFN0eWxlPWdyOyBnLmJlZ2luUGF0aCgpOyBnLmFyYyh4LHkscioyLjIsMCw2LjMpOyBnLmZpbGwoKTsKICB9Cn0Kd2luZG93Ll9fc2V0PWZ1bmN0aW9uKHQpe2RyYXdBdCh0KTtyZXR1cm4gdDt9OwpkcmF3QXQoMCk7Cjwvc2NyaXB0Pgo=
+<!doctype html><meta charset="utf-8"><style>body{margin:0;background:#06131f;overflow:hidden}</style>
+<canvas id=c width=900 height=520></canvas>
+<script>
+const g=document.getElementById('c').getContext('2d');
+function drawAt(t){
+  g.fillStyle='#06131f'; g.fillRect(0,0,900,520);
+  // 起伏的山脊，随 t 整体横移，速度 90 px/s
+  const v=90, off=v*t;
+  for(let L=0;L<3;L++){
+    const base=140+L*130, col=['rgba(40,110,150,0.95)','rgba(60,150,190,0.9)','rgba(90,190,225,0.85)'][L];
+    g.beginPath(); g.moveTo(0,520);
+    for(let x=0;x<=900;x+=3){
+      const a=(x+off)-L*40;
+      const y=base + 52*Math.sin(a/58) + 24*Math.sin(a/25+0.9) + 10*Math.sin(a/11+2.1);
+      g.lineTo(x,y);
+    }
+    g.lineTo(900,520); g.closePath(); g.fillStyle=col; g.fill();
+  }
+  // 水面反光斑：也随时间动
+  for(let i=0;i<26;i++){
+    const x=((i*137 + t*120)%940)-20, y=70+((i*83)%90);
+    const r=14+7*Math.sin(t+i);
+    const gr=g.createRadialGradient(x,y,1,x,y,r*2.2);
+    gr.addColorStop(0,'rgba(210,245,255,0.55)'); gr.addColorStop(1,'rgba(210,245,255,0)');
+    g.fillStyle=gr; g.beginPath(); g.arc(x,y,r*2.2,0,6.3); g.fill();
+  }
+}
+window.__set=function(t){drawAt(t);return t;};
+drawAt(0);
+</script>

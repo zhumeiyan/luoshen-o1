@@ -1,1 +1,251 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTI4IMK3IHN0YXRzX2dhdGUg4oCU4oCUIOe7k+iuuuWPkeW4g+WJjeeahOe7n+iuoemXuOmXqAoK5LiJ6YGT6Ze477yM5Lu75LiA6YGT5LiN6L+H5bCx5LiN6IO95YaZIuaYvuiRlyLvvJoKICBHMSDmlYjlupTph4/pl7ggIDogfGRlbHRhfCDlv4XpobsgPj0gbWluX2VmZmVjdO+8iOm7mOiupCAxZS0zIOe7neWvuemHjyDkuJQg55u45a+56YePID49IDEl77yJCiAgICAgICAgICAgICAgICDigJTigJQg5oumIDExNiDpgqPnsbsiQ0kg5LiN6LeoIDAg5L2GIM6UPeKIkjkuOGXiiJIwOSLnmoTkvKrmmL7okZcKICBHMiDlpJrph43mr5TovoPpl7g6IEJILUZEUiDmoKHmraPlkI4gcSA8PSBhbHBoYe+8iOm7mOiupCAwLjA177yJCiAgICAgICAgICAgICAgICDigJTigJQg5oumIuWBmuW+l+i2iuWkmuWBh+mYs+aAp+i2iuWkmiIKICBHMyDmlbDmja7lhYXotrPpl7g6IG4gPj0gbl9taW7vvIjpu5jorqQgOO+8ieS4lCBuIOW/hemhu+aYvuW8j+e7meWHugogICAgICAgICAgICAgICAg4oCU4oCUIOaLpiLmsqHorrAgbiDnmoTnu5PorroiCgrorr7orqHljp/liJnvvIjmnaXoh6rliKTmja7moLjvvInvvJoKICAqIOmXuOmXqOW/hemhu+iHquW3seWPr+ivgeS8qiDigJTigJQg5YaF572uIFNFTEZURVNU77yM6L6T5YWlIuW/heeEtuivpeaLpiLlkowi5b+F54S26K+l5pS+IueahOagt+acrO+8jAogICAg5Lik6ICF6YO95b+F6aG75pyJ5q2j56Gu6L6T5Ye677yM5ZCm5YiZ6Ze46Zeo5pys6Lqr5LiN5ZCI5qC844CCCiIiIgppbXBvcnQgbWF0aCwganNvbiwgc3lzCgpaOTUgPSAxLjk1OTk2Mzk4NQoKCmRlZiBub3JtX3AyKHopOgogICAgcmV0dXJuIG1hdGguZXJmYyhhYnMoeikgLyBtYXRoLnNxcnQoMi4wKSkKCgpkZWYgYmhfZmRyKHB2YWxzLCBhbHBoYT0wLjA1KToKICAgICIiIkJlbmphbWluaS1Ib2NoYmVyZ++8mui/lOWbniAocXZhbHMsIHJlamVjdF9mbGFncynvvIzmjInljp/lp4vpobrluo/jgIIiIiIKICAgIG0gPSBsZW4ocHZhbHMpCiAgICBpZiBtID09IDA6CiAgICAgICAgcmV0dXJuIFtdLCBbXQogICAgaWR4ID0gc29ydGVkKHJhbmdlKG0pLCBrZXk9bGFtYmRhIGk6IHB2YWxzW2ldKQogICAgcSA9IFswLjBdICogbQogICAgcHJldiA9IDEuMAogICAgZm9yIHJhbmssIGkgaW4gZW51bWVyYXRlKHJldmVyc2VkKGlkeCksIHN0YXJ0PTEpOgogICAgICAgIGsgPSBtIC0gcmFuayArIDEgICMg5LuO5aSn5Yiw5bCP55qE5ZCN5qyhCiAgICAgICAgdmFsID0gbWluKHByZXYsIHB2YWxzW2ldICogbSAvIGspCiAgICAgICAgcVtpXSA9IG1pbigxLjAsIHZhbCkKICAgICAgICBwcmV2ID0gcVtpXQogICAgcmVqID0gW3FbaV0gPD0gYWxwaGEgZm9yIGkgaW4gcmFuZ2UobSldCiAgICByZXR1cm4gcSwgcmVqCgoKZGVmIGJvbmZlcnJvbmkocHZhbHMsIGFscGhhPTAuMDUpOgogICAgbSA9IGxlbihwdmFscykKICAgIGlmIG0gPT0gMDoKICAgICAgICByZXR1cm4gW10sIFtdCiAgICByZXR1cm4gW21pbigxLjAsIHAgKiBtKSBmb3IgcCBpbiBwdmFsc10sIFtwICogbSA8PSBhbHBoYSBmb3IgcCBpbiBwdmFsc10KCgpkZWYgY2hlY2tfb25lKGNsYWltLCBtaW5fZWZmZWN0PTFlLTMsIG1pbl9yZWw9MC4wMSwgbl9taW49OCwgYWxwaGE9MC4wNSk6CiAgICAiIiLljZXmnaHmlq3oqIDnmoTkuInpl7jliKTlrprvvIjkuI3lkKsgRkRS77yMRkRSIOmcgOWFqOaJueS4gOi1t+eul++8ieOAgiIiIgogICAgcmVhc29ucyA9IFtdCiAgICBkID0gY2xhaW0uZ2V0KCJkZWx0YSIpCiAgICBuID0gY2xhaW0uZ2V0KCJuIikKICAgIHNlID0gY2xhaW0uZ2V0KCJzZSIpCiAgICBsbywgaGkgPSBjbGFpbS5nZXQoImNpX2xvIiksIGNsYWltLmdldCgiY2lfaGkiKQoKICAgICMgRzMg5pWw5o2u5YWF6LazCiAgICBpZiBuIGlzIE5vbmU6CiAgICAgICAgcmVhc29ucy5hcHBlbmQoIkczX0ZBSUw6IG4g5pyq6K6w5b2VIikKICAgIGVsaWYgbiA8IG5fbWluOgogICAgICAgIHJlYXNvbnMuYXBwZW5kKCJHM19GQUlMOiBuPSVkIDwgJWQiICUgKG4sIG5fbWluKSkKCiAgICAjIEcxIOaViOW6lOmHjwogICAgaWYgZCBpcyBOb25lIG9yIHNlIGlzIE5vbmU6CiAgICAgICAgcmVhc29ucy5hcHBlbmQoIkcxX0ZBSUw6IGRlbHRhL1NFIOS4jeWPr+W+lyIpCiAgICBlbHNlOgogICAgICAgIGlmIGFicyhkKSA8IG1pbl9lZmZlY3Q6CiAgICAgICAgICAgIHJlYXNvbnMuYXBwZW5kKCJHMV9GQUlMOiB8zpR8PSUuM2cgPCAlLjNn77yI57ud5a+56YeP6L+H5bCP77yJIiAlIChhYnMoZCksIG1pbl9lZmZlY3QpKQogICAgICAgICMg55u45a+56YeP77ya5LulIFNFIOS4uuWwuuW6pueahOWZquWjsOawtOW5s+S9nOWPgueFpwogICAgICAgIGlmIHNlID4gMCBhbmQgYWJzKGQpIC8gc2UgPCBtaW5fcmVsICogWjk1OgogICAgICAgICAgICByZWFzb25zLmFwcGVuZCgiRzFfRkFJTDogfM6UfC9TRT0lLjNnIOebuOWvuemHjyA8ICUuMWYlJSIgJSAoYWJzKGQpIC8gc2UsIG1pbl9yZWwgKiAxMDApKQogICAgICAgIGlmIGxvIGlzIG5vdCBOb25lIGFuZCBoaSBpcyBub3QgTm9uZSBhbmQgKGxvIDw9IDAgPD0gaGkpOgogICAgICAgICAgICByZWFzb25zLmFwcGVuZCgiRzFfRkFJTDogQ0kg6LeoIDAiKQoKICAgIHJldHVybiByZWFzb25zCgoKZGVmIGdhdGVfYmF0Y2goY2xhaW1zLCBtaW5fZWZmZWN0PTFlLTMsIG1pbl9yZWw9MC4wMSwgbl9taW49OCwgYWxwaGE9MC4wNSk6CiAgICAiIiLlr7nkuIDmibnmlq3oqIDlgZrlrozmlbTpl7jpl6jvvJpHMS9HMyDpgJDmnaHvvIxHMiDlhajmibkgQkgtRkRS44CCIiIiCiAgICB1c2FibGUgPSBbXQogICAgZm9yIGMgaW4gY2xhaW1zOgogICAgICAgIHNlID0gYy5nZXQoInNlIikKICAgICAgICBkID0gYy5nZXQoImRlbHRhIikKICAgICAgICAjIOmAgOWMluS/neaKpO+8mlNFPD0wIOaIliDmlYjlupTph4/mnKzouqvkvY7kuo7pmIjlgLzml7bvvIzkuI3lvpflj4LkuI4i5pi+6JGXIuaOkuW6j+OAggogICAgICAgICMg5ZCm5YiZIHNlPTAg5Lya6K6pIHo9aW5m44CBcD0w77yMQkgg5oqK5LiA5p2h6Zu25pWI5bqU5q+U6L6D5o6S5Zyo5pyA5pi+6JGX5L2N572u44CCCiAgICAgICAgaWYgKGMuZ2V0KCJwX2FwcHJveCIpIGlzIE5vbmUgb3Igc2UgaXMgTm9uZSBvciBzZSA8PSAwIG9yCiAgICAgICAgICAgICAgICBkIGlzIE5vbmUgb3IgYWJzKGQpIDwgbWluX2VmZmVjdCk6CiAgICAgICAgICAgIGNbIl9wIl0gPSAxLjAKICAgICAgICAgICAgY1siX3BfbWlzc2luZyJdID0gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGNbIl9wIl0gPSBjWyJwX2FwcHJveCJdCiAgICAgICAgICAgIGNbIl9wX21pc3NpbmciXSA9IEZhbHNlCiAgICAgICAgdXNhYmxlLmFwcGVuZChjKQogICAgcHMgPSBbY1siX3AiXSBmb3IgYyBpbiB1c2FibGVdCiAgICBxLCByZWogPSBiaF9mZHIocHMsIGFscGhhKQogICAgcGIsIHJlamIgPSBib25mZXJyb25pKHBzLCBhbHBoYSkKICAgIGZvciBpLCBjIGluIGVudW1lcmF0ZSh1c2FibGUpOgogICAgICAgIGNbInFfYmgiXSA9IHFbaV0KICAgICAgICBjWyJyZWplY3RfYmgiXSA9IHJlaltpXQogICAgICAgIGNbInBfYm9uZiJdID0gcGJbaV0KICAgICAgICBjWyJyZWplY3RfYm9uZiJdID0gcmVqYltpXQogICAgICAgIHIgPSBjaGVja19vbmUoYywgbWluX2VmZmVjdCwgbWluX3JlbCwgbl9taW4sIGFscGhhKQogICAgICAgIGlmIG5vdCBjWyJyZWplY3RfYmgiXToKICAgICAgICAgICAgci5hcHBlbmQoIkcyX0ZBSUw6IEJIIHE9JS40ZyA+ICUuMmciICUgKGNbInFfYmgiXSwgYWxwaGEpKQogICAgICAgIGNbImdhdGVfcmVhc29ucyJdID0gcgogICAgICAgIGNbIlBBU1MiXSA9IChsZW4ocikgPT0gMCkKICAgIHJldHVybiB1c2FibGUKCgpkZWYgc2VsZnRlc3QoKToKICAgICIiIumXuOmXqOiHquajgO+8muW/hemhu+WQjOaXtuaKk+WIsCLor6Xmi6bnmoQi5ZKMIuivpeaUvueahCLvvIzlkKbliJnpl7jpl6jmnKzouqvkuI3lkIjmoLzjgIIiIiIKICAgIHByaW50KCI9IiAqIDYyKQogICAgcHJpbnQoIlNFTEZURVNUIMK3IOmXuOmXqOacrOi6q+aYr+WQpuWPr+ivgeS8qiIpCiAgICBwcmludCgiPSIgKiA2MikKICAgICMg5b+F6aG75oum77yaMTE2IOexuyDigJTigJQgzpQ9LTkuOGUtMDnvvIxDSSDmnoHnqoTkuI3ot6ggMO+8jG49NDgKICAgIHNlMTE2ID0gMS4wZS05CiAgICBjX2JhZCA9IHsKICAgICAgICAibmFtZSI6ICIxMTZf5Lyq5pi+6JGXIiwKICAgICAgICAiZGVsdGEiOiAtOS44ZS0wOSwKICAgICAgICAic2UiOiBzZTExNiwKICAgICAgICAiY2lfbG8iOiAtOS44ZS0wOSAtIFo5NSAqIHNlMTE2LAogICAgICAgICJjaV9oaSI6IC05LjhlLTA5ICsgWjk1ICogc2UxMTYsCiAgICAgICAgIm4iOiA0OCwKICAgIH0KICAgIGNfYmFkWyJwX2FwcHJveCJdID0gbm9ybV9wMihjX2JhZFsiZGVsdGEiXSAvIGNfYmFkWyJzZSJdKQogICAgIyDlv4XpobvmlL7vvJoxMTIg57G7IOKAlOKAlCDOlD0rMC4xNTM177yMQ0kg5YWo5q2j77yMbj00OAogICAgc2UxMTIgPSAwLjA3MDQgICMgKDAuMTkyMS0wLjE1MzMpLzIvMS45NiDiiYggMC4wMDk5IOKGkiDnlKjlrp7pmYXph4/nuqcKICAgIGxvLCBoaSA9IDAuMTUzMywgMC4xOTIxCiAgICBzZTExMiA9IChoaSAtIGxvKSAvICgyICogWjk1KQogICAgZDExMiA9IChsbyArIGhpKSAvIDIKICAgIGNfb2sgPSB7Im5hbWUiOiAiMTEyX+ecn+aYvuiRlyIsICJkZWx0YSI6IGQxMTIsICJzZSI6IHNlMTEyLAogICAgICAgICAgICAiY2lfbG8iOiBsbywgImNpX2hpIjogaGksICJuIjogNDh9CiAgICBjX29rWyJwX2FwcHJveCJdID0gbm9ybV9wMihkMTEyIC8gc2UxMTIpCiAgICAjIOW/hemhu+aLpu+8mue8uiBuCiAgICBjX25vbiA9IHsibmFtZSI6ICLnvLpuIiwgImRlbHRhIjogMC41LCAic2UiOiAwLjEsICJjaV9sbyI6IDAuMzA0LCAiY2lfaGkiOiAwLjY5NiwgIm4iOiBOb25lfQogICAgY19ub25bInBfYXBwcm94Il0gPSBub3JtX3AyKDUuMCkKICAgICMg5b+F6aG75oum77yaQ0kg6LeoIDAKICAgIGNfY3Jvc3MgPSB7Im5hbWUiOiAi6LeoMCIsICJkZWx0YSI6IDAuMDAxLCAic2UiOiAwLjAxLAogICAgICAgICAgICAgICAiY2lfbG8iOiAtMC4wMTg2LCAiY2lfaGkiOiAwLjAyMDYsICJuIjogMTZ9CiAgICBjX2Nyb3NzWyJwX2FwcHJveCJdID0gbm9ybV9wMigwLjEpCgogICAgYmF0Y2ggPSBbY19iYWQsIGNfb2ssIGNfbm9uLCBjX2Nyb3NzXQogICAgcmVzID0gZ2F0ZV9iYXRjaChiYXRjaCkKICAgIGV4cGVjdCA9IHsiMTE2X+S8quaYvuiRlyI6IEZhbHNlLCAiMTEyX+ecn+aYvuiRlyI6IFRydWUsICLnvLpuIjogRmFsc2UsICLot6gwIjogRmFsc2V9CiAgICBvayA9IFRydWUKICAgIGZvciBjIGluIHJlczoKICAgICAgICBleHAgPSBleHBlY3RbY1sibmFtZSJdXQogICAgICAgIGdvdCA9IGNbIlBBU1MiXQogICAgICAgIGZsYWcgPSAiT0sgIiBpZiBnb3QgPT0gZXhwIGVsc2UgIkZBSUwiCiAgICAgICAgaWYgZ290ICE9IGV4cDoKICAgICAgICAgICAgb2sgPSBGYWxzZQogICAgICAgIHByaW50KCIgIFslc10gJS0xMnMg5pyf5pybUEFTUz0lLTVzIOWunumZhT0lLTVzICBxPSUuM2cgICVzIgogICAgICAgICAgICAgICUgKGZsYWcsIGNbIm5hbWUiXSwgZXhwLCBnb3QsIGNbInFfYmgiXSwKICAgICAgICAgICAgICAgICAiOyAiLmpvaW4oY1siZ2F0ZV9yZWFzb25zIl0pIG9yICItIikpCiAgICBwcmludCgiICDihpIg6Ze46Zeo6Ieq5qOAOiAlcyIgJSAoIlBBU1PvvIjlkIzml7bmipPliLDor6Xmi6bkuI7or6XmlL7vvIkiIGlmIG9rIGVsc2UgIkZBSUzvvIjpl7jpl6jkuI3lj6/or4HkvKrvvIkiKSkKICAgIHJldHVybiBvawoKCmRlZiBtYWluKCk6CiAgICBvayA9IHNlbGZ0ZXN0KCkKICAgIHByaW50KCkKICAgIHByaW50KCI9IiAqIDYyKQogICAgcHJpbnQoIuWvuSAxMTAg5Lu95oql5ZGK5Zue5rqv77ya5oq95Ye65pat6KiA55qEIEZEUiDmoKHmraMiKQogICAgcHJpbnQoIj0iICogNjIpCiAgICB0cnk6CiAgICAgICAgZGF0YSA9IGpzb24ubG9hZChvcGVuKCJjbGFpbXNfcmF3Lmpzb24iLCBlbmNvZGluZz0idXRmLTgiKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludCgi6K+75Y+W5aSx6LSlOiIsIGUpCiAgICAgICAgcmV0dXJuCiAgICBjbGFpbXMgPSBkYXRhWyJjbGFpbXMiXQogICAgcmVzID0gZ2F0ZV9iYXRjaChjbGFpbXMpCiAgICBucGFzcyA9IHN1bSgxIGZvciBjIGluIHJlcyBpZiBjWyJQQVNTIl0pCiAgICBwcmludCgi5pat6KiA5oC75pWwICAgICAgICA6IiwgbGVuKHJlcykpCiAgICBwcmludCgi5ZCN5LmJ5LiN6LeoMCAgICAgICA6Iiwgc3VtKDEgZm9yIGMgaW4gcmVzIGlmIGNbImNpX2V4Y2x1ZGVzX3plcm8iXSkpCiAgICBwcmludCgiQkgtRkRSIOWQjuWtmOa0uyAgIDoiLCBzdW0oMSBmb3IgYyBpbiByZXMgaWYgY1sicmVqZWN0X2JoIl0pKQogICAgcHJpbnQoIkJvbmZlcnJvbmkg5a2Y5rS7IDoiLCBzdW0oMSBmb3IgYyBpbiByZXMgaWYgY1sicmVqZWN0X2JvbmYiXSkpCiAgICBwcmludCgi5LiJ6Ze45YWo6L+HICAgICAgICA6IiwgbnBhc3MpCiAgICBwcmludCgpCiAgICBmb3IgYyBpbiByZXM6CiAgICAgICAgcHJpbnQoIiAgJS0yOHMgzpQ9JS0xMi41ZyBxPSUtOS4zZyAlcyAlcyIKICAgICAgICAgICAgICAlIChjWyJyZXBvcnQiXVs6MjhdLCBjWyJkZWx0YSJdLCBjWyJxX2JoIl0sCiAgICAgICAgICAgICAgICAgIlBBU1MiIGlmIGNbIlBBU1MiXSBlbHNlICJCTE9DSyIsCiAgICAgICAgICAgICAgICAgIjsgIi5qb2luKGNbImdhdGVfcmVhc29ucyJdKVs6NzBdKSkKICAgIGpzb24uZHVtcChyZXMsIG9wZW4oImNsYWltc19nYXRlZC5qc29uIiwgInciLCBlbmNvZGluZz0idXRmLTgiKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQogICAgcHJpbnQoKQogICAgcHJpbnQoIuaXoCBDSSDnmoTmiqXlkYrmlbAgIDoiLCBzdW0oMSBmb3IgdSBpbiBkYXRhWyJ1bnBhcnNlZF9yZXBvcnRzIl0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgdVsicmVhc29uIl0gPT0gIm5vX3BhcnNhYmxlX0NJIikpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgRzQg56iz5YGl5oCn6Ze477yI5paw5aKe77yJCiMKIyDnlLHmnaXvvJpHMS9HMi9HMyDlj6rmo4Dmn6Ui5pWw566X5b6X5a+55LiN5a+5Iu+8jOS4jeajgOafpSLph4/mtYvlvpflr7nkuI3lr7ki44CCCiMgZXhwMTI2IOeahOaVmeiure+8mnByYWN0aWNlX29wZW4g5ZyoIGJ1cm49MCDkuIsgZmc9MC4wMDc5MTMx44CBMy8xNiDlrZjmtLvjgIFDSSDkuI3ot6ggMO+8jAojICAg5LiJ6Ze45YWo6L+H77yb5L2GIGJ1cm49MjAg5ZCO5aGM5YiwIDAuMDAwNzLjgIEwLzE2IOWtmOa0uyDigJTigJQg6YKj5LiqIuWtpuS8miLmmK/kvLDorqHlmajnnqzmgIHpgKDnmoTjgIIKIyBHNCDliKTmja7vvJrnu5Porrrlv4XpobvlnKjjgJDlkIjnkIbnmoTliIbmnpDlj5jkvZPjgJHkuIvlkIzml7bkv53kvY/mlrnlkJHkuJTkv53kvY/ph4/nuqfjgIIKIyAgIOmHj+e6p+S/neaMgeeOhyA9IHzlgLwo5Y+Y5L2TKXwgLyB85YC8KOWOn+WIhuaekCl877yM6buY6K6k6KaB5rGCID49IDAuNQojICAg5LiU5a6a5oCn57uT6K6677yI5aaC5a2Y5rS777yJ5LiN5b6X57+76L2s44CCCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpkZWYgZzRfcm9idXN0bmVzcyhjbGFpbSwgdmFyaWFudHMsIG1pbl9rZWVwPTAuNSk6CiAgICAiIiJ2YXJpYW50czogWyh2YXJpYW50X25hbWUsIHZhbHVlLCBxdWFsaXRhdGl2ZV9vayksIC4uLl0g5LiN5ZCr5Y6f5YiG5p6QIiIiCiAgICByZWFzb25zID0gW10KICAgIGJhc2UgPSBhYnMoY2xhaW0uZ2V0KCJkZWx0YSIsIDAuMCkpCiAgICBpZiBiYXNlIDw9IDA6CiAgICAgICAgcmV0dXJuIFsiRzRfTkE6IOWOn+aViOW6lOS4uiAw77yM56iz5YGl5oCn5peg5oSP5LmJIl0KICAgIGZvciBuYW1lLCB2YWwsIHF1YWxfb2sgaW4gdmFyaWFudHM6CiAgICAgICAga2VlcCA9IGFicyh2YWwpIC8gYmFzZQogICAgICAgIGlmIGtlZXAgPCBtaW5fa2VlcDoKICAgICAgICAgICAgcmVhc29ucy5hcHBlbmQoIkc0X0ZBSUw6ICVzIOmHj+e6p+WPquWJqSAlLjJmICg8JS4yZikiICUgKG5hbWUsIGtlZXAsIG1pbl9rZWVwKSkKICAgICAgICBpZiBxdWFsX29rIGlzIEZhbHNlOgogICAgICAgICAgICByZWFzb25zLmFwcGVuZCgiRzRfRkFJTDogJXMg5a6a5oCn57uT6K6657+76L2sIiAlIG5hbWUpCiAgICByZXR1cm4gcmVhc29ucwoKCmRlZiBnNF9kZW1vKCk6CiAgICAiIiLnlKggMTI2YyDnmoTnnJ/lrp4gYnVybi1pbiDliYLph4/miavmj4/mvJTnpLogRzQg6IO95oqT5L2PIEcxL0cyL0czIOaUvuihjOeahOWBh+ixoeOAgiIiIgogICAgcHJpbnQoKQogICAgcHJpbnQoIj0iICogNjIpCiAgICBwcmludCgiRzQg5ryU56S6IMK3IOS4iemXuOWFqOi/h+eahOaWreiogO+8jOaYr+WQpuecn+eahOermeW+l+S9j++8iDEyNmMg55yf5a6e5pWw5o2u77yJIikKICAgIHByaW50KCI9IiAqIDYyKQogICAgIyDnnJ/lrp7mlbDmja7vvIhyZXN1bHQxMjZjLmpzb27vvInvvJpidXJuIDAgLyAyMCAvIDEwMCDkuIvnmoQgZmcg5LiO5a2Y5rS7CiAgICByb3dzID0gewogICAgICAgICJjbG9zZWQo55u45YCawrfnnJ/lrabkuaApIjogWygwLCAwLjE2NDA5OCwgMTYpLCAoMjAsIDAuMTQyNTg2LCAxNSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDEwMCwgMC4xMDM2NzYsIDE1KV0sCiAgICAgICAgIm9wZW4o55u457unwrfkvLDorqHlmajlgYfosaEpIjogWygwLCAwLjAwNzkxMzEsIDMpLCAoMjAsIDAuMDAwNzE4NTgsIDApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDEwMCwgMC4wMDA5MTIzNiwgMCldLAogICAgfQogICAgb3V0ID0ge30KICAgIGZvciBuYW1lLCBzZXJpZXMgaW4gcm93cy5pdGVtcygpOgogICAgICAgIGJhc2VfdiwgYmFzZV9uID0gc2VyaWVzWzBdWzFdLCBzZXJpZXNbMF1bMl0KICAgICAgICB2YXJpYW50cyA9IFtdCiAgICAgICAgZm9yIGIsIHYsIG4gaW4gc2VyaWVzWzE6XToKICAgICAgICAgICAgdmFyaWFudHMuYXBwZW5kKCgiYnVybj0lZCIgJSBiLCB2LCAobiA+IDApID09IChiYXNlX24gPiAwKSkpCiAgICAgICAgYyA9IHsiZGVsdGEiOiBiYXNlX3YsICJuIjogMTZ9CiAgICAgICAgciA9IGc0X3JvYnVzdG5lc3MoYywgdmFyaWFudHMpCiAgICAgICAgb3V0W25hbWVdID0geyJiYXNlIjogYmFzZV92LCAicmVhc29ucyI6IHIsCiAgICAgICAgICAgICAgICAgICAgICJrZWVwMTAwIjogYWJzKHNlcmllc1stMV1bMV0pIC8gYWJzKGJhc2Vfdil9CiAgICAgICAgcHJpbnQoIiAgJS0yNHMg5Z+65YeGZmc9JS42ZyAgYnVybj0xMDDkv53mjIHnjoc9JS4zZiAg4oaSICVzIgogICAgICAgICAgICAgICUgKG5hbWUsIGJhc2Vfdiwgb3V0W25hbWVdWyJrZWVwMTAwIl0sCiAgICAgICAgICAgICAgICAgIlBBU1MiIGlmIG5vdCByIGVsc2UgIkJMT0NLIikpCiAgICAgICAgZm9yIHggaW4gcjoKICAgICAgICAgICAgcHJpbnQoIiAgICAgICDilJQiLCB4KQogICAgcmV0dXJuIG91dAo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp128 · stats_gate —— 结论发布前的统计闸门
+
+三道闸，任一道不过就不能写"显著"：
+  G1 效应量闸  : |delta| 必须 >= min_effect（默认 1e-3 绝对量 且 相对量 >= 1%）
+                —— 拦 116 那类"CI 不跨 0 但 Δ=−9.8e−09"的伪显著
+  G2 多重比较闸: BH-FDR 校正后 q <= alpha（默认 0.05）
+                —— 拦"做得越多假阳性越多"
+  G3 数据充足闸: n >= n_min（默认 8）且 n 必须显式给出
+                —— 拦"没记 n 的结论"
+
+设计原则（来自判据核）：
+  * 闸门必须自己可证伪 —— 内置 SELFTEST，输入"必然该拦"和"必然该放"的样本，
+    两者都必须有正确输出，否则闸门本身不合格。
+"""
+import math, json, sys
+
+Z95 = 1.959963985
+
+
+def norm_p2(z):
+    return math.erfc(abs(z) / math.sqrt(2.0))
+
+
+def bh_fdr(pvals, alpha=0.05):
+    """Benjamini-Hochberg：返回 (qvals, reject_flags)，按原始顺序。"""
+    m = len(pvals)
+    if m == 0:
+        return [], []
+    idx = sorted(range(m), key=lambda i: pvals[i])
+    q = [0.0] * m
+    prev = 1.0
+    for rank, i in enumerate(reversed(idx), start=1):
+        k = m - rank + 1  # 从大到小的名次
+        val = min(prev, pvals[i] * m / k)
+        q[i] = min(1.0, val)
+        prev = q[i]
+    rej = [q[i] <= alpha for i in range(m)]
+    return q, rej
+
+
+def bonferroni(pvals, alpha=0.05):
+    m = len(pvals)
+    if m == 0:
+        return [], []
+    return [min(1.0, p * m) for p in pvals], [p * m <= alpha for p in pvals]
+
+
+def check_one(claim, min_effect=1e-3, min_rel=0.01, n_min=8, alpha=0.05):
+    """单条断言的三闸判定（不含 FDR，FDR 需全批一起算）。"""
+    reasons = []
+    d = claim.get("delta")
+    n = claim.get("n")
+    se = claim.get("se")
+    lo, hi = claim.get("ci_lo"), claim.get("ci_hi")
+
+    # G3 数据充足
+    if n is None:
+        reasons.append("G3_FAIL: n 未记录")
+    elif n < n_min:
+        reasons.append("G3_FAIL: n=%d < %d" % (n, n_min))
+
+    # G1 效应量
+    if d is None or se is None:
+        reasons.append("G1_FAIL: delta/SE 不可得")
+    else:
+        if abs(d) < min_effect:
+            reasons.append("G1_FAIL: |Δ|=%.3g < %.3g（绝对量过小）" % (abs(d), min_effect))
+        # 相对量：以 SE 为尺度的噪声水平作参照
+        if se > 0 and abs(d) / se < min_rel * Z95:
+            reasons.append("G1_FAIL: |Δ|/SE=%.3g 相对量 < %.1f%%" % (abs(d) / se, min_rel * 100))
+        if lo is not None and hi is not None and (lo <= 0 <= hi):
+            reasons.append("G1_FAIL: CI 跨 0")
+
+    return reasons
+
+
+def gate_batch(claims, min_effect=1e-3, min_rel=0.01, n_min=8, alpha=0.05):
+    """对一批断言做完整闸门：G1/G3 逐条，G2 全批 BH-FDR。"""
+    usable = []
+    for c in claims:
+        se = c.get("se")
+        d = c.get("delta")
+        # 退化保护：SE<=0 或 效应量本身低于阈值时，不得参与"显著"排序。
+        # 否则 se=0 会让 z=inf、p=0，BH 把一条零效应比较排在最显著位置。
+        if (c.get("p_approx") is None or se is None or se <= 0 or
+                d is None or abs(d) < min_effect):
+            c["_p"] = 1.0
+            c["_p_missing"] = True
+        else:
+            c["_p"] = c["p_approx"]
+            c["_p_missing"] = False
+        usable.append(c)
+    ps = [c["_p"] for c in usable]
+    q, rej = bh_fdr(ps, alpha)
+    pb, rejb = bonferroni(ps, alpha)
+    for i, c in enumerate(usable):
+        c["q_bh"] = q[i]
+        c["reject_bh"] = rej[i]
+        c["p_bonf"] = pb[i]
+        c["reject_bonf"] = rejb[i]
+        r = check_one(c, min_effect, min_rel, n_min, alpha)
+        if not c["reject_bh"]:
+            r.append("G2_FAIL: BH q=%.4g > %.2g" % (c["q_bh"], alpha))
+        c["gate_reasons"] = r
+        c["PASS"] = (len(r) == 0)
+    return usable
+
+
+def selftest():
+    """闸门自检：必须同时抓到"该拦的"和"该放的"，否则闸门本身不合格。"""
+    print("=" * 62)
+    print("SELFTEST · 闸门本身是否可证伪")
+    print("=" * 62)
+    # 必须拦：116 类 —— Δ=-9.8e-09，CI 极窄不跨 0，n=48
+    se116 = 1.0e-9
+    c_bad = {
+        "name": "116_伪显著",
+        "delta": -9.8e-09,
+        "se": se116,
+        "ci_lo": -9.8e-09 - Z95 * se116,
+        "ci_hi": -9.8e-09 + Z95 * se116,
+        "n": 48,
+    }
+    c_bad["p_approx"] = norm_p2(c_bad["delta"] / c_bad["se"])
+    # 必须放：112 类 —— Δ=+0.1535，CI 全正，n=48
+    se112 = 0.0704  # (0.1921-0.1533)/2/1.96 ≈ 0.0099 → 用实际量级
+    lo, hi = 0.1533, 0.1921
+    se112 = (hi - lo) / (2 * Z95)
+    d112 = (lo + hi) / 2
+    c_ok = {"name": "112_真显著", "delta": d112, "se": se112,
+            "ci_lo": lo, "ci_hi": hi, "n": 48}
+    c_ok["p_approx"] = norm_p2(d112 / se112)
+    # 必须拦：缺 n
+    c_non = {"name": "缺n", "delta": 0.5, "se": 0.1, "ci_lo": 0.304, "ci_hi": 0.696, "n": None}
+    c_non["p_approx"] = norm_p2(5.0)
+    # 必须拦：CI 跨 0
+    c_cross = {"name": "跨0", "delta": 0.001, "se": 0.01,
+               "ci_lo": -0.0186, "ci_hi": 0.0206, "n": 16}
+    c_cross["p_approx"] = norm_p2(0.1)
+
+    batch = [c_bad, c_ok, c_non, c_cross]
+    res = gate_batch(batch)
+    expect = {"116_伪显著": False, "112_真显著": True, "缺n": False, "跨0": False}
+    ok = True
+    for c in res:
+        exp = expect[c["name"]]
+        got = c["PASS"]
+        flag = "OK " if got == exp else "FAIL"
+        if got != exp:
+            ok = False
+        print("  [%s] %-12s 期望PASS=%-5s 实际=%-5s  q=%.3g  %s"
+              % (flag, c["name"], exp, got, c["q_bh"],
+                 "; ".join(c["gate_reasons"]) or "-"))
+    print("  → 闸门自检: %s" % ("PASS（同时抓到该拦与该放）" if ok else "FAIL（闸门不可证伪）"))
+    return ok
+
+
+def main():
+    ok = selftest()
+    print()
+    print("=" * 62)
+    print("对 110 份报告回溯：抽出断言的 FDR 校正")
+    print("=" * 62)
+    try:
+        data = json.load(open("claims_raw.json", encoding="utf-8"))
+    except Exception as e:
+        print("读取失败:", e)
+        return
+    claims = data["claims"]
+    res = gate_batch(claims)
+    npass = sum(1 for c in res if c["PASS"])
+    print("断言总数        :", len(res))
+    print("名义不跨0       :", sum(1 for c in res if c["ci_excludes_zero"]))
+    print("BH-FDR 后存活   :", sum(1 for c in res if c["reject_bh"]))
+    print("Bonferroni 存活 :", sum(1 for c in res if c["reject_bonf"]))
+    print("三闸全过        :", npass)
+    print()
+    for c in res:
+        print("  %-28s Δ=%-12.5g q=%-9.3g %s %s"
+              % (c["report"][:28], c["delta"], c["q_bh"],
+                 "PASS" if c["PASS"] else "BLOCK",
+                 "; ".join(c["gate_reasons"])[:70]))
+    json.dump(res, open("claims_gated.json", "w", encoding="utf-8"),
+              ensure_ascii=False, indent=1)
+    print()
+    print("无 CI 的报告数  :", sum(1 for u in data["unparsed_reports"]
+                                    if u["reason"] == "no_parsable_CI"))
+
+
+if __name__ == "__main__":
+    main()
+
+
+# ---------------------------------------------------------------------------
+# G4 稳健性闸（新增）
+#
+# 由来：G1/G2/G3 只检查"数算得对不对"，不检查"量测得对不对"。
+# exp126 的教训：practice_open 在 burn=0 下 fg=0.0079131、3/16 存活、CI 不跨 0，
+#   三闸全过；但 burn=20 后塌到 0.00072、0/16 存活 —— 那个"学会"是估计器瞬态造的。
+# G4 判据：结论必须在【合理的分析变体】下同时保住方向且保住量级。
+#   量级保持率 = |值(变体)| / |值(原分析)|，默认要求 >= 0.5
+#   且定性结论（如存活）不得翻转。
+# ---------------------------------------------------------------------------
+
+def g4_robustness(claim, variants, min_keep=0.5):
+    """variants: [(variant_name, value, qualitative_ok), ...] 不含原分析"""
+    reasons = []
+    base = abs(claim.get("delta", 0.0))
+    if base <= 0:
+        return ["G4_NA: 原效应为 0，稳健性无意义"]
+    for name, val, qual_ok in variants:
+        keep = abs(val) / base
+        if keep < min_keep:
+            reasons.append("G4_FAIL: %s 量级只剩 %.2f (<%.2f)" % (name, keep, min_keep))
+        if qual_ok is False:
+            reasons.append("G4_FAIL: %s 定性结论翻转" % name)
+    return reasons
+
+
+def g4_demo():
+    """用 126c 的真实 burn-in 剂量扫描演示 G4 能抓住 G1/G2/G3 放行的假象。"""
+    print()
+    print("=" * 62)
+    print("G4 演示 · 三闸全过的断言，是否真的站得住（126c 真实数据）")
+    print("=" * 62)
+    # 真实数据（result126c.json）：burn 0 / 20 / 100 下的 fg 与存活
+    rows = {
+        "closed(相倚·真学习)": [(0, 0.164098, 16), (20, 0.142586, 15),
+                                (100, 0.103676, 15)],
+        "open(相继·估计器假象)": [(0, 0.0079131, 3), (20, 0.00071858, 0),
+                                  (100, 0.00091236, 0)],
+    }
+    out = {}
+    for name, series in rows.items():
+        base_v, base_n = series[0][1], series[0][2]
+        variants = []
+        for b, v, n in series[1:]:
+            variants.append(("burn=%d" % b, v, (n > 0) == (base_n > 0)))
+        c = {"delta": base_v, "n": 16}
+        r = g4_robustness(c, variants)
+        out[name] = {"base": base_v, "reasons": r,
+                     "keep100": abs(series[-1][1]) / abs(base_v)}
+        print("  %-24s 基准fg=%.6g  burn=100保持率=%.3f  → %s"
+              % (name, base_v, out[name]["keep100"],
+                 "PASS" if not r else "BLOCK"))
+        for x in r:
+            print("       └", x)
+    return out

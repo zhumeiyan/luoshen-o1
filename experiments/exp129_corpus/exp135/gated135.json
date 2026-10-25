@@ -1,1 +1,119 @@
-WwogewogICJmaWxlIjogImZhc3RjaGF0X2xsbV9qdWRnZV9jb21tb24ucHkiLAogICJlZyI6ICJFRzAwMCIsCiAgInNldiI6ICJpbmZvIiwKICAibGluZSI6IDAsCiAgImhpdCI6ICIwIGRyb3BwZWQgKG5vIGxpbmUpLCAwIHJlc2N1ZWQgdmlhIGFuY2hvciwgMCBtb2R1bGUtbGV2ZWwgKHVucHJvdmVuIGFuY2hvciksIDAgZGVtb3RlZCAoZGVtbyBmaWxlKSwgMiBub3Qgc2hpcHBlZCAocG9saWN5KSwgMCBmaWxlLWxldmVsIChhYnNlbnQvbW9kdWxlKSIsCiAgInRpdGxlIjogImF1ZGl0OiBldmlkZW5jZS1saW5lIGdhdGUiLAogICJjbGFzcyI6ICJtZXRhIgogfSwKIHsKICAiZmlsZSI6ICJoYXlzdGFja19jb21wb25lbnRzX2V2YWx1YXRvcnNfZG9jdW1lbnRfcmVjYWxsLnB5IiwKICAiZWciOiAiRUcwMDAiLAogICJzZXYiOiAiaW5mbyIsCiAgImxpbmUiOiAwLAogICJoaXQiOiAiMCBkcm9wcGVkIChubyBsaW5lKSwgMCByZXNjdWVkIHZpYSBhbmNob3IsIDAgbW9kdWxlLWxldmVsICh1bnByb3ZlbiBhbmNob3IpLCAwIGRlbW90ZWQgKGRlbW8gZmlsZSksIDEgbm90IHNoaXBwZWQgKHBvbGljeSksIDAgZmlsZS1sZXZlbCAoYWJzZW50L21vZHVsZSkiLAogICJ0aXRsZSI6ICJhdWRpdDogZXZpZGVuY2UtbGluZSBnYXRlIiwKICAiY2xhc3MiOiAibWV0YSIKIH0sCiB7CiAgImZpbGUiOiAiaGF5c3RhY2tfZXZhbHVhdGlvbl9ldmFsX3J1bl9yZXN1bHQucHkiLAogICJlZyI6ICJFRzAwMCIsCiAgInNldiI6ICJpbmZvIiwKICAibGluZSI6IDAsCiAgImhpdCI6ICIwIGRyb3BwZWQgKG5vIGxpbmUpLCAwIHJlc2N1ZWQgdmlhIGFuY2hvciwgMCBtb2R1bGUtbGV2ZWwgKHVucHJvdmVuIGFuY2hvciksIDAgZGVtb3RlZCAoZGVtbyBmaWxlKSwgMSBub3Qgc2hpcHBlZCAocG9saWN5KSwgMCBmaWxlLWxldmVsIChhYnNlbnQvbW9kdWxlKSIsCiAgInRpdGxlIjogImF1ZGl0OiBldmlkZW5jZS1saW5lIGdhdGUiLAogICJjbGFzcyI6ICJtZXRhIgogfSwKIHsKICAiZmlsZSI6ICJtZXRyaWNzX2FjY3VyYWN5X2FjY3VyYWN5LnB5IiwKICAiZWciOiAiRUcwMDAiLAogICJzZXYiOiAiaW5mbyIsCiAgImxpbmUiOiAwLAogICJoaXQiOiAiMCBkcm9wcGVkIChubyBsaW5lKSwgMCByZXNjdWVkIHZpYSBhbmNob3IsIDAgbW9kdWxlLWxldmVsICh1bnByb3ZlbiBhbmNob3IpLCAwIGRlbW90ZWQgKGRlbW8gZmlsZSksIDEgbm90IHNoaXBwZWQgKHBvbGljeSksIDAgZmlsZS1sZXZlbCAoYWJzZW50L21vZHVsZSkiLAogICJ0aXRsZSI6ICJhdWRpdDogZXZpZGVuY2UtbGluZSBnYXRlIiwKICAiY2xhc3MiOiAibWV0YSIKIH0sCiB7CiAgImZpbGUiOiAicGFja2FnZXNfcGhvZW5peC1ldmFsc19zcmNfcGhvZW5peF9ldmFsc19ldmFsdWF0b3JzLnB5IiwKICAiZWciOiAiRUcwMDAiLAogICJzZXYiOiAiaW5mbyIsCiAgImxpbmUiOiAwLAogICJoaXQiOiAiMCBkcm9wcGVkIChubyBsaW5lKSwgMCByZXNjdWVkIHZpYSBhbmNob3IsIDAgbW9kdWxlLWxldmVsICh1bnByb3ZlbiBhbmNob3IpLCAwIGRlbW90ZWQgKGRlbW8gZmlsZSksIDIgbm90IHNoaXBwZWQgKHBvbGljeSksIDAgZmlsZS1sZXZlbCAoYWJzZW50L21vZHVsZSkiLAogICJ0aXRsZSI6ICJhdWRpdDogZXZpZGVuY2UtbGluZSBnYXRlIiwKICAiY2xhc3MiOiAibWV0YSIKIH0sCiB7CiAgImZpbGUiOiAicHJvbXB0YmVuY2hfbWV0cmljc19ldmFsLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAxMzUsCiAgImhpdCI6ICJzdW0oYSA9PSBiIGZvciBhLCBiIGluIHppcChwcm9jZXNzZWRfcHJlZHMsIHByb2Nlc3NlZF9ndHMpKSAiLAogICJ0aXRsZSI6ICJEaXZpc2lvbiB3aXRob3V0IGRlbm9taW5hdG9yIGd1YXJkIiwKICAiY2xhc3MiOiAic3ludGF4IgogfSwKIHsKICAiZmlsZSI6ICJwcm9tcHRiZW5jaF9tZXRyaWNzX2V2YWwucHkiLAogICJlZyI6ICJFRzAwMCIsCiAgInNldiI6ICJpbmZvIiwKICAibGluZSI6IDAsCiAgImhpdCI6ICIwIGRyb3BwZWQgKG5vIGxpbmUpLCAwIHJlc2N1ZWQgdmlhIGFuY2hvciwgMCBtb2R1bGUtbGV2ZWwgKHVucHJvdmVuIGFuY2hvciksIDAgZGVtb3RlZCAoZGVtbyBmaWxlKSwgMSBub3Qgc2hpcHBlZCAocG9saWN5KSwgMCBmaWxlLWxldmVsIChhYnNlbnQvbW9kdWxlKSIsCiAgInRpdGxlIjogImF1ZGl0OiBldmlkZW5jZS1saW5lIGdhdGUiLAogICJjbGFzcyI6ICJtZXRhIgogfSwKIHsKICAiZmlsZSI6ICJwcm9tcHRiZW5jaF9wcm9tcHRldmFsX21ldGhvZHMucHkiLAogICJlZyI6ICJFRzAwNSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDI5MSwKICAiaGl0IjogIjEgLyAoMSArIG5wLmV4cCgteF9jbGlwcGVkKSkiLAogICJ0aXRsZSI6ICJEaXZpc2lvbiB3aXRob3V0IGRlbm9taW5hdG9yIGd1YXJkIiwKICAiY2xhc3MiOiAic3ludGF4IgogfSwKIHsKICAiZmlsZSI6ICJwcm9tcHRiZW5jaF9wcm9tcHRldmFsX21ldGhvZHMucHkiLAogICJlZyI6ICJFRzAwMCIsCiAgInNldiI6ICJpbmZvIiwKICAibGluZSI6IDAsCiAgImhpdCI6ICIwIGRyb3BwZWQgKG5vIGxpbmUpLCAwIHJlc2N1ZWQgdmlhIGFuY2hvciwgMCBtb2R1bGUtbGV2ZWwgKHVucHJvdmVuIGFuY2hvciksIDAgZGVtb3RlZCAoZGVtbyBmaWxlKSwgMSBub3Qgc2hpcHBlZCAocG9saWN5KSwgMCBmaWxlLWxldmVsIChhYnNlbnQvbW9kdWxlKSIsCiAgInRpdGxlIjogImF1ZGl0OiBldmlkZW5jZS1saW5lIGdhdGUiLAogICJjbGFzcyI6ICJtZXRhIgogfSwKIHsKICAiZmlsZSI6ICJzcmNfY29yZV90cnVsZW5zX2NvcmVfdXRpbHNfZXZhbHVhdG9yLnB5IiwKICAiZWciOiAiRUcwMDAiLAogICJzZXYiOiAiaW5mbyIsCiAgImxpbmUiOiAwLAogICJoaXQiOiAiMCBkcm9wcGVkIChubyBsaW5lKSwgMCByZXNjdWVkIHZpYSBhbmNob3IsIDAgbW9kdWxlLWxldmVsICh1bnByb3ZlbiBhbmNob3IpLCAwIGRlbW90ZWQgKGRlbW8gZmlsZSksIDEgbm90IHNoaXBwZWQgKHBvbGljeSksIDAgZmlsZS1sZXZlbCAoYWJzZW50L21vZHVsZSkiLAogICJ0aXRsZSI6ICJhdWRpdDogZXZpZGVuY2UtbGluZSBnYXRlIiwKICAiY2xhc3MiOiAibWV0YSIKIH0sCiB7CiAgImZpbGUiOiAic3JjX2V2YWx1YXRlX2V2YWx1YXRvcl9iYXNlLnB5IiwKICAiZWciOiAiRUcwMDUiLAogICJzZXYiOiAid2FybiIsCiAgImxpbmUiOiAxNzIsCiAgImhpdCI6ICJudW1fc2FtcGxlcyAvIGxhdGVuY3kiLAogICJ0aXRsZSI6ICJEaXZpc2lvbiB3aXRob3V0IGRlbm9taW5hdG9yIGd1YXJkIiwKICAiY2xhc3MiOiAic3ludGF4IgogfSwKIHsKICAiZmlsZSI6ICJzcmNfZXZhbHVhdGVfZXZhbHVhdG9yX2Jhc2UucHkiLAogICJlZyI6ICJFRzAwNSIsCiAgInNldiI6ICJ3YXJuIiwKICAibGluZSI6IDE3MywKICAiaGl0IjogIjEuMCAvIHRocm91Z2hwdXQiLAogICJ0aXRsZSI6ICJEaXZpc2lvbiB3aXRob3V0IGRlbm9taW5hdG9yIGd1YXJkIiwKICAiY2xhc3MiOiAic3ludGF4IgogfSwKIHsKICAiZmlsZSI6ICJzcmNfZXZpZGVudGx5X2xlZ2FjeV9iYXNlX21ldHJpYy5weSIsCiAgImVnIjogIkVHMDAwIiwKICAic2V2IjogImluZm8iLAogICJsaW5lIjogMCwKICAiaGl0IjogIjAgZHJvcHBlZCAobm8gbGluZSksIDAgcmVzY3VlZCB2aWEgYW5jaG9yLCAwIG1vZHVsZS1sZXZlbCAodW5wcm92ZW4gYW5jaG9yKSwgMCBkZW1vdGVkIChkZW1vIGZpbGUpLCAxIG5vdCBzaGlwcGVkIChwb2xpY3kpLCAwIGZpbGUtbGV2ZWwgKGFic2VudC9tb2R1bGUpIiwKICAidGl0bGUiOiAiYXVkaXQ6IGV2aWRlbmNlLWxpbmUgZ2F0ZSIsCiAgImNsYXNzIjogIm1ldGEiCiB9Cl0=
+[
+ {
+  "file": "fastchat_llm_judge_common.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (unproven anchor), 0 demoted (demo file), 2 not shipped (policy), 0 file-level (absent/module)",
+  "title": "audit: evidence-line gate",
+  "class": "meta"
+ },
+ {
+  "file": "haystack_components_evaluators_document_recall.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (unproven anchor), 0 demoted (demo file), 1 not shipped (policy), 0 file-level (absent/module)",
+  "title": "audit: evidence-line gate",
+  "class": "meta"
+ },
+ {
+  "file": "haystack_evaluation_eval_run_result.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (unproven anchor), 0 demoted (demo file), 1 not shipped (policy), 0 file-level (absent/module)",
+  "title": "audit: evidence-line gate",
+  "class": "meta"
+ },
+ {
+  "file": "metrics_accuracy_accuracy.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (unproven anchor), 0 demoted (demo file), 1 not shipped (policy), 0 file-level (absent/module)",
+  "title": "audit: evidence-line gate",
+  "class": "meta"
+ },
+ {
+  "file": "packages_phoenix-evals_src_phoenix_evals_evaluators.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (unproven anchor), 0 demoted (demo file), 2 not shipped (policy), 0 file-level (absent/module)",
+  "title": "audit: evidence-line gate",
+  "class": "meta"
+ },
+ {
+  "file": "promptbench_metrics_eval.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 135,
+  "hit": "sum(a == b for a, b in zip(processed_preds, processed_gts)) ",
+  "title": "Division without denominator guard",
+  "class": "syntax"
+ },
+ {
+  "file": "promptbench_metrics_eval.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (unproven anchor), 0 demoted (demo file), 1 not shipped (policy), 0 file-level (absent/module)",
+  "title": "audit: evidence-line gate",
+  "class": "meta"
+ },
+ {
+  "file": "promptbench_prompteval_methods.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 291,
+  "hit": "1 / (1 + np.exp(-x_clipped))",
+  "title": "Division without denominator guard",
+  "class": "syntax"
+ },
+ {
+  "file": "promptbench_prompteval_methods.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (unproven anchor), 0 demoted (demo file), 1 not shipped (policy), 0 file-level (absent/module)",
+  "title": "audit: evidence-line gate",
+  "class": "meta"
+ },
+ {
+  "file": "src_core_trulens_core_utils_evaluator.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (unproven anchor), 0 demoted (demo file), 1 not shipped (policy), 0 file-level (absent/module)",
+  "title": "audit: evidence-line gate",
+  "class": "meta"
+ },
+ {
+  "file": "src_evaluate_evaluator_base.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 172,
+  "hit": "num_samples / latency",
+  "title": "Division without denominator guard",
+  "class": "syntax"
+ },
+ {
+  "file": "src_evaluate_evaluator_base.py",
+  "eg": "EG005",
+  "sev": "warn",
+  "line": 173,
+  "hit": "1.0 / throughput",
+  "title": "Division without denominator guard",
+  "class": "syntax"
+ },
+ {
+  "file": "src_evidently_legacy_base_metric.py",
+  "eg": "EG000",
+  "sev": "info",
+  "line": 0,
+  "hit": "0 dropped (no line), 0 rescued via anchor, 0 module-level (unproven anchor), 0 demoted (demo file), 1 not shipped (policy), 0 file-level (absent/module)",
+  "title": "audit: evidence-line gate",
+  "class": "meta"
+ }
+]

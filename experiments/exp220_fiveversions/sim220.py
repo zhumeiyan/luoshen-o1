@@ -1,1 +1,105 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCjIyMDog5LqU54mI5Yik5o2u5Y2H57qn6ZO+IOKAlOKAlCDmr4/kuIDniYjmmK/lkKblv4XopoHvvJ8K55So5oi36Ieq6L+w55qE5Y2H57qn77yadjEg5LqL5a6e5LiO5qCH5YeGIC8gdjIgQUnljLvpmaIgLyB2MyDpmLTpmLPmiaMgLyB2NCDngbDluqbnqbrpl7QgLyB2NSDlhazlvI/ljYfnuqcK5Zub57G75aiB6IOB77yaVDEg5Zmq5aOwIC8gVDIg57+76Z2iIC8gVDMg54Gw5bqmKOS4remXtOW4pikgLyBUNCDlpJbmjqgKIiIiCmltcG9ydCBudW1weSBhcyBucCwganNvbgoKUk5HID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDIyMCkKTiA9IDQwMDAKCiMgLS0tLS0tLS0tLSDlm5vnsbvlqIHog4HkuIvnmoTnnJ/lgLzkuI7op4LmtYsgLS0tLS0tLS0tLQpkZWYgZ2VuKHRocmVhdCk6CiAgICBpZiB0aHJlYXQgPT0gJ1QxJzogICAjIOWZquWjsO+8muecn+WAvOS4pOaege+8jOS9huingua1i+iiq+WZqgogICAgICAgIHkgPSAoUk5HLnJhbmRvbShOKSA8IDAuNSkuYXN0eXBlKGZsb2F0KQogICAgICAgIHggPSB5ICsgUk5HLm5vcm1hbCgwLCAwLjM1LCBOKQogICAgICAgIG9vZCA9IG5wLnplcm9zKE4sIGJvb2wpCiAgICBlbGlmIHRocmVhdCA9PSAnVDInOiAjIOe/u+mdou+8muecn+WAvOS4pOaegeOAgeingua1i+W5suWHgO+8jOS9hui+k+WHuuWQjuiiq+e/uwogICAgICAgIHkgPSAoUk5HLnJhbmRvbShOKSA8IDAuNSkuYXN0eXBlKGZsb2F0KQogICAgICAgIHggPSB5LmNvcHkoKQogICAgICAgIG9vZCA9IG5wLnplcm9zKE4sIGJvb2wpCiAgICBlbGlmIHRocmVhdCA9PSAnVDMnOiAjIOeBsOW6pu+8muecn+WAvOi/nue7reS4lOmbhuS4reWcqOS4remXtOW4pgogICAgICAgIHkgPSBucC5jbGlwKFJORy5ub3JtYWwoMC41LCAwLjEyLCBOKSwgMCwgMSkKICAgICAgICB4ID0geS5jb3B5KCkKICAgICAgICBvb2QgPSBucC56ZXJvcyhOLCBib29sKQogICAgZWxpZiB0aHJlYXQgPT0gJ1Q0JzogIyDlpJbmjqjvvJrkuIDljYrmoYjkvovokL3lnKjorq3nu4PliIbluIPkuYvlpJYKICAgICAgICB5ID0gbnAuY2xpcChSTkcubm9ybWFsKDAuNSwgMC4zMCwgTiksIDAsIDEpCiAgICAgICAgeCA9IHkuY29weSgpCiAgICAgICAgb29kID0gUk5HLnJhbmRvbShOKSA8IDAuNQogICAgcmV0dXJuIHksIHgsIG9vZAoKIyAtLS0tLS0tLS0tIOS6lOeJiO+8muiDveWKm+e0r+enryAtLS0tLS0tLS0tClZFUlNJT05TID0gewogJ3YxX+S6i+WunuS4juagh+WHhic6IGRpY3QoYmluYXJ5PVRydWUsICB0YXhvbm9teT1GYWxzZSwgdHJhY2U9RmFsc2UsIGdyYXk9RmFsc2UsIGZvcm11bGE9RmFsc2UpLAogJ3YyX0FJ5Yy76ZmiJzogICAgIGRpY3QoYmluYXJ5PVRydWUsICB0YXhvbm9teT1UcnVlLCAgdHJhY2U9RmFsc2UsIGdyYXk9RmFsc2UsIGZvcm11bGE9RmFsc2UpLAogJ3YzX+mYtOmYs+aJoyc6ICAgICBkaWN0KGJpbmFyeT1UcnVlLCAgdGF4b25vbXk9VHJ1ZSwgIHRyYWNlPVRydWUsICBncmF5PUZhbHNlLCBmb3JtdWxhPUZhbHNlKSwKICd2NF/ngbDluqbnqbrpl7QnOiAgIGRpY3QoYmluYXJ5PUZhbHNlLCB0YXhvbm9teT1UcnVlLCAgdHJhY2U9VHJ1ZSwgIGdyYXk9VHJ1ZSwgIGZvcm11bGE9RmFsc2UpLAogJ3Y1X+WFrOW8j+WNh+e6pyc6ICAgZGljdChiaW5hcnk9RmFsc2UsIHRheG9ub215PVRydWUsICB0cmFjZT1UcnVlLCAgZ3JheT1UcnVlLCAgZm9ybXVsYT1UcnVlKSwKfQoKUF9GTElQID0gMC4zMCAgICMg5bqE5a6257+76Z2i5qaC546HCkZMSVBfQ09TVF9HUkFZID0gMC41ICAgIyDngbDluqbkuIvnv7vpnaLlj6rog73mjKrljYrkuKrouqvkvY0KCmRlZiBydW4odmVyLCB0aHJlYXQpOgogICAgYyA9IFZFUlNJT05TW3Zlcl0KICAgIHksIHgsIG9vZCA9IGdlbih0aHJlYXQpCgogICAgIyDliKTmja7or7vmlbAKICAgIGlmIGNbJ2dyYXknXToKICAgICAgICByID0gbnAuY2xpcCh4LCAwLCAxKSAgICAgICAgICAgICAgICAgIyDov57nu63nva7kv6HluqYKICAgIGVsc2U6CiAgICAgICAgciA9ICh4ID4gMC41KS5hc3R5cGUoZmxvYXQpICAgICAgICAgICMg5LqM5YC85YyWCgogICAgIyDnv7vpnaLlqIHog4HvvJrluoTlrrblnKjovpPlh7rlkI7lj43ovawKICAgIGlmIHRocmVhdCA9PSAnVDInOgogICAgICAgIGZsaXAgPSBSTkcucmFuZG9tKE4pIDwgUF9GTElQCiAgICAgICAgaWYgY1sndHJhY2UnXToKICAgICAgICAgICAgZmxpcCA9IG5wLnplcm9zKE4sIGJvb2wpICAgICAgICAgIyDnlZnnl5UgPT4g5bqE5a625LiN5pWi57+777yI57+75LqG5Lya6KKr55yL6KeB77yJCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgY1snZ3JheSddOgogICAgICAgICAgICAgICAgciA9IG5wLndoZXJlKGZsaXAsIDEgLSByLCByKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgciA9IG5wLndoZXJlKGZsaXAsIDEgLSByLCByKQoKICAgICMg5aSW5o6o5aiB6IOB77ya5Y+q5pyJ5YWs5byP54mI6IO9566X5pyq6KeB5oOF5b2iCiAgICBpZiB0aHJlYXQgPT0gJ1Q0JzoKICAgICAgICBpZiBub3QgY1snZm9ybXVsYSddOgogICAgICAgICAgICByID0gbnAud2hlcmUob29kLCBSTkcucmFuZG9tKE4pLCByKSAgICMg5peg5YWs5byPID0+IOWIhuW4g+WklueejueMnAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHIgPSBucC53aGVyZShvb2QsIG5wLmNsaXAoeCwgMCwgMSksIHIpCgogICAgIyDorqHliIYKICAgIGlmIGNbJ2dyYXknXToKICAgICAgICBlcnIgPSBucC5hYnMociAtIHkpICAgICAgICAgICAgICAgICAgIyDov57nu63or6/lt64KICAgIGVsc2U6CiAgICAgICAgZXJyID0gKHIgIT0gKHkgPiAwLjUpLmFzdHlwZShmbG9hdCkpLmFzdHlwZShmbG9hdCkgICMg5LqM5YC85Yik6ZSZ546HCgogICAgIyDor4rmlq3liIbnsbvog73mlZHlm57kuIDpg6jliIbplJnvvIh2MivvvInvvJrmiorplJnliIbliLDmoLzlrZDph4zvvIzlj6/lpI3moLgKICAgIGlmIGNbJ3RheG9ub215J10gYW5kIG5vdCBjWydncmF5J106CiAgICAgICAgZXJyID0gZXJyICogMC44NQoKICAgIHJldHVybiBmbG9hdChlcnIubWVhbigpKQoKcmVzID0ge3Y6IHt0OiBydW4odiwgdCkgZm9yIHQgaW4gWydUMScsJ1QyJywnVDMnLCdUNCddfSBmb3IgdiBpbiBWRVJTSU9OU30KbWVhbiA9IHt2OiBmbG9hdChucC5tZWFuKGxpc3QocmVzW3ZdLnZhbHVlcygpKSkpIGZvciB2IGluIFZFUlNJT05TfQoKIyAtLS0tLS0tLS0tIOi3s+eJiOa1i+ivle+8mnYxIOebtOaOpeaLvyB2NSDnmoTlhazlvI/vvIzkvYbmsqHmnIkgdjMvdjQgLS0tLS0tLS0tLQpkZWYgcnVuX3NraXAodGhyZWF0KToKICAgIHksIHgsIG9vZCA9IGdlbih0aHJlYXQpCiAgICByID0gbnAuY2xpcCh4LCAwLCAxKSAgICAgICAgICAgICAgICAgICAgICMg5ou/5Yiw5YWs5byP5LiO54Gw5bqm6K+75pWwCiAgICBpZiB0aHJlYXQgPT0gJ1QyJzoKICAgICAgICBmbGlwID0gUk5HLnJhbmRvbShOKSA8IFBfRkxJUCAgICAgICAgIyDkvYbmsqHmnIkgdHJhY2XvvIzluoTlrrbnhafnv7sKICAgICAgICByID0gbnAud2hlcmUoZmxpcCwgMSAtIHIsIHIpCiAgICBpZiB0aHJlYXQgPT0gJ1Q0JzoKICAgICAgICByID0gbnAud2hlcmUob29kLCBucC5jbGlwKHgsIDAsIDEpLCByKQogICAgcmV0dXJuIGZsb2F0KG5wLmFicyhyIC0geSkubWVhbigpKQoKc2tpcCA9IHt0OiBydW5fc2tpcCh0KSBmb3IgdCBpbiBbJ1QxJywnVDInLCdUMycsJ1Q0J119CnNraXBfbWVhbiA9IGZsb2F0KG5wLm1lYW4obGlzdChza2lwLnZhbHVlcygpKSkpCgpvdXQgPSBkaWN0KHBlcl92ZXJzaW9uPXJlcywgbWVhbj1tZWFuLAogICAgICAgICAgIHNraXBfdjFfdG9fdjU9c2tpcCwgc2tpcF92MV90b192NV9tZWFuPXNraXBfbWVhbiwKICAgICAgICAgICBwX2ZsaXA9UF9GTElQLCBOPU4pCnByaW50KGpzb24uZHVtcHMob3V0LCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSkKanNvbi5kdW1wKG91dCwgb3BlbigncmVzdWx0MjIwLmpzb24nLCd3JyksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCg==
+# -*- coding: utf-8 -*-
+"""
+220: 五版判据升级链 —— 每一版是否必要？
+用户自述的升级：v1 事实与标准 / v2 AI医院 / v3 阴阳扣 / v4 灰度空间 / v5 公式升级
+四类威胁：T1 噪声 / T2 翻面 / T3 灰度(中间带) / T4 外推
+"""
+import numpy as np, json
+
+RNG = np.random.default_rng(220)
+N = 4000
+
+# ---------- 四类威胁下的真值与观测 ----------
+def gen(threat):
+    if threat == 'T1':   # 噪声：真值两极，但观测被噪
+        y = (RNG.random(N) < 0.5).astype(float)
+        x = y + RNG.normal(0, 0.35, N)
+        ood = np.zeros(N, bool)
+    elif threat == 'T2': # 翻面：真值两极、观测干净，但输出后被翻
+        y = (RNG.random(N) < 0.5).astype(float)
+        x = y.copy()
+        ood = np.zeros(N, bool)
+    elif threat == 'T3': # 灰度：真值连续且集中在中间带
+        y = np.clip(RNG.normal(0.5, 0.12, N), 0, 1)
+        x = y.copy()
+        ood = np.zeros(N, bool)
+    elif threat == 'T4': # 外推：一半案例落在训练分布之外
+        y = np.clip(RNG.normal(0.5, 0.30, N), 0, 1)
+        x = y.copy()
+        ood = RNG.random(N) < 0.5
+    return y, x, ood
+
+# ---------- 五版：能力累积 ----------
+VERSIONS = {
+ 'v1_事实与标准': dict(binary=True,  taxonomy=False, trace=False, gray=False, formula=False),
+ 'v2_AI医院':     dict(binary=True,  taxonomy=True,  trace=False, gray=False, formula=False),
+ 'v3_阴阳扣':     dict(binary=True,  taxonomy=True,  trace=True,  gray=False, formula=False),
+ 'v4_灰度空间':   dict(binary=False, taxonomy=True,  trace=True,  gray=True,  formula=False),
+ 'v5_公式升级':   dict(binary=False, taxonomy=True,  trace=True,  gray=True,  formula=True),
+}
+
+P_FLIP = 0.30   # 庄家翻面概率
+FLIP_COST_GRAY = 0.5   # 灰度下翻面只能挪半个身位
+
+def run(ver, threat):
+    c = VERSIONS[ver]
+    y, x, ood = gen(threat)
+
+    # 判据读数
+    if c['gray']:
+        r = np.clip(x, 0, 1)                 # 连续置信度
+    else:
+        r = (x > 0.5).astype(float)          # 二值化
+
+    # 翻面威胁：庄家在输出后反转
+    if threat == 'T2':
+        flip = RNG.random(N) < P_FLIP
+        if c['trace']:
+            flip = np.zeros(N, bool)         # 留痕 => 庄家不敢翻（翻了会被看见）
+        else:
+            if c['gray']:
+                r = np.where(flip, 1 - r, r)
+            else:
+                r = np.where(flip, 1 - r, r)
+
+    # 外推威胁：只有公式版能算未见情形
+    if threat == 'T4':
+        if not c['formula']:
+            r = np.where(ood, RNG.random(N), r)   # 无公式 => 分布外瞎猜
+        else:
+            r = np.where(ood, np.clip(x, 0, 1), r)
+
+    # 计分
+    if c['gray']:
+        err = np.abs(r - y)                  # 连续误差
+    else:
+        err = (r != (y > 0.5).astype(float)).astype(float)  # 二值判错率
+
+    # 诊断分类能救回一部分错（v2+）：把错分到格子里，可复核
+    if c['taxonomy'] and not c['gray']:
+        err = err * 0.85
+
+    return float(err.mean())
+
+res = {v: {t: run(v, t) for t in ['T1','T2','T3','T4']} for v in VERSIONS}
+mean = {v: float(np.mean(list(res[v].values()))) for v in VERSIONS}
+
+# ---------- 跳版测试：v1 直接拿 v5 的公式，但没有 v3/v4 ----------
+def run_skip(threat):
+    y, x, ood = gen(threat)
+    r = np.clip(x, 0, 1)                     # 拿到公式与灰度读数
+    if threat == 'T2':
+        flip = RNG.random(N) < P_FLIP        # 但没有 trace，庄家照翻
+        r = np.where(flip, 1 - r, r)
+    if threat == 'T4':
+        r = np.where(ood, np.clip(x, 0, 1), r)
+    return float(np.abs(r - y).mean())
+
+skip = {t: run_skip(t) for t in ['T1','T2','T3','T4']}
+skip_mean = float(np.mean(list(skip.values())))
+
+out = dict(per_version=res, mean=mean,
+           skip_v1_to_v5=skip, skip_v1_to_v5_mean=skip_mean,
+           p_flip=P_FLIP, N=N)
+print(json.dumps(out, ensure_ascii=False, indent=1))
+json.dump(out, open('result220.json','w'), ensure_ascii=False, indent=1)

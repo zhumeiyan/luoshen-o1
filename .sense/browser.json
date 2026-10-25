@@ -1,1 +1,12 @@
-ewogIuKRoCDimIUg6Iez5bCR5pyJ5LiA5Liq572R5Z2A55yf6IO95omT5byA77yI5LiN5piv5YWoIDQwM++8iSI6IHRydWUsCiAi4pGhIOKYhSDmiZPkuI3lvIDnmoTlpoLlrp7miqUgNDAz77yM5LiN5Lyq6KOF5oiQ56m65YaF5a65IjogdHJ1ZSwKICLikaIg4piFIOiDveaKpeWHuiBVUkwv54q25oCBL+Wtl+espuaVsC/lk4jluIwv5pe25Yi7IjogdHJ1ZSwKICLikaMg4piFIOWGheWuueWTiOW4jOS4jeS4uiBOb25l77yI5YaF5a6555yf55qE5oqT5Yiw5LqG77yJIjogdHJ1ZSwKICLikaQg4piF4piFIOeci+Wksei0peaXtiBtdXN0X2xvb2sg5oqb6ZSZ77yI5LiN6K645Zue6YCA5Yiw5YWI6aqM77yJIjogdHJ1ZSwKICLikaUg4piFIOWvueeFp++8mnN0cmljdD1GYWxzZSDml7bkuI3mipvvvIjor4HmmI4gcmFpc2Ug5piv5py65Yi25LiN5piv5ben5ZCI77yJIjogdHJ1ZSwKICLikaYg4piF4piF4piFIOiiq+abv+aNouWQjui+k+WHuuOAkOaUueWPmOOAke+8iOS4jeWGjeaYr+aMguS7tu+8iSI6IHRydWUsCiAi4pGnIOKYheKYhSDnqbrlhoXlrrnml7bov5Tlm54gTm9uZe+8iOS4jee8lumAoO+8iSI6IHRydWUsCiAi4pGoIOKYhSDnlZnnl5Xnm67lvZXmnInorrDlvZUiOiB0cnVlLAogIuKRqSDimIUg55WZ55eV5ZCrIFVSTC/nirbmgIEv5ZOI5biML+aXtuWIu+Wbm+mhuSI6IHRydWUKfQ==
+{
+ "① ★ 至少有一个网址真能打开（不是全 403）": true,
+ "② ★ 打不开的如实报 403，不伪装成空内容": true,
+ "③ ★ 能报出 URL/状态/字符数/哈希/时刻": true,
+ "④ ★ 内容哈希不为 None（内容真的抓到了）": true,
+ "⑤ ★★ 看失败时 must_look 抛错（不许回退到先验）": true,
+ "⑥ ★ 对照：strict=False 时不抛（证明 raise 是机制不是巧合）": true,
+ "⑦ ★★★ 被替换后输出【改变】（不再是挂件）": true,
+ "⑧ ★★ 空内容时返回 None（不编造）": true,
+ "⑨ ★ 留痕目录有记录": true,
+ "⑩ ★ 留痕含 URL/状态/哈希/时刻四项": true
+}

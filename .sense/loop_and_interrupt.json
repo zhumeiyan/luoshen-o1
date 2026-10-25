@@ -1,1 +1,80 @@
-ewogImJhc2UiOiB7CiAgImFsaXZlIjogMywKICAibiI6IDI0LAogICJlbnQiOiAwLjAzMTQyNDUxODE0OTg3Mjg4LAogICJzaGFyZTAiOiAwLjk5NDMwNDcwMTg0MDQyODEKIH0sCiAib25lIjogewogICLkuI3mjqgiOiB7CiAgICJhbGl2ZSI6IDMsCiAgICJuIjogMjQsCiAgICJlbnQiOiAwLjAzMTQyNDUxODE0OTg3Mjg4LAogICAic2hhcmUwIjogMC45OTQzMDQ3MDE4NDA0MjgxCiAgfSwKICAi5Y2V57u05ZaK5LiA5aOwIjogewogICAiYWxpdmUiOiAzLAogICAibiI6IDI0LAogICAiZW50IjogMC4wMzI4NTczNjEyMDE3MjgzNCwKICAgInNoYXJlMCI6IDAuOTk1NDI2NDk1MjE1NDIzCiAgfSwKICAi5aSa57u05ZaK5LiA5aOwIjogewogICAiYWxpdmUiOiAzLAogICAibiI6IDI0LAogICAiZW50IjogMC4wMzAwMzA0MTI3OTkyNzgwNSwKICAgInNoYXJlMCI6IDAuOTk0MjAwMzMzOTg1NjU3NAogIH0KIH0sCiAiY29udCI6IHsKICAi5Y2V57u05oyB57utIjogewogICAiYWxpdmUiOiAwLAogICAibiI6IDI0LAogICAiZW50IjogMC4wMDUyOTE1NDIzNjEwNDAzNTYsCiAgICJzaGFyZTAiOiAwLjk5Nzk0OTg3OTI0MjA0NjgKICB9LAogICLlpJrnu7TmjIHnu60iOiB7CiAgICJhbGl2ZSI6IDQsCiAgICJuIjogMjQsCiAgICJlbnQiOiAwLjAzMDIzMDkwMjg3MjUxNjE4NSwKICAgInNoYXJlMCI6IDAuOTkwMDc0Njc5MzE2NjU3NQogIH0KIH0sCiAiYW1wcyI6IHsKICAiMC4xIjogewogICAiYWxpdmUiOiAzLAogICAibiI6IDI0LAogICAiZW50IjogMC4wMzA0NDQyOTY3NzI2ODE1MSwKICAgInNoYXJlMCI6IDAuOTk4NjQ0NDc2MTg4NjA3NgogIH0sCiAgIjAuNSI6IHsKICAgImFsaXZlIjogNCwKICAgIm4iOiAyNCwKICAgImVudCI6IDAuMDMwMjMwOTAyODcyNTE2MTg1LAogICAic2hhcmUwIjogMC45OTAwNzQ2NzkzMTY2NTc1CiAgfSwKICAiMS4wIjogewogICAiYWxpdmUiOiA3LAogICAibiI6IDI0LAogICAiZW50IjogMC4wMzEwOTI2NzI2NDYwNDcwMzQsCiAgICJzaGFyZTAiOiAwLjk3ODEyNTkyNjA4MDI5MTgKICB9LAogICIyLjAiOiB7CiAgICJhbGl2ZSI6IDE4LAogICAibiI6IDI0LAogICAiZW50IjogMC4wNjMwMTMyMzQ0MzQ2MDExMiwKICAgInNoYXJlMCI6IDAuOTYyMjE5MzcyOTI2NTcwOAogIH0sCiAgIjUuMCI6IHsKICAgImFsaXZlIjogMjQsCiAgICJuIjogMjQsCiAgICJlbnQiOiAwLjA1NTAwNjAzMzk2MjQzODEwNCwKICAgInNoYXJlMCI6IDAuOTcxOTExODU0MDAwODgwMgogIH0KIH0sCiAib2siOiB7CiAgIuKRoCDlnY3loYzmiJDnq4vvvIjln7rnur/nhrU8MC4wNe+8iSI6IHRydWUsCiAgIuKRoSDkuIDmrKHmgKfllorlj6vkuI3phpLvvIh8zpTnhrV8PDAuMDHvvIkiOiB0cnVlLAogICLikaIg5oyB57ut5aSa57u06IO95ouJ5Ye65p2l77yIzpTnhrU+KzAuMDHvvIkiOiBmYWxzZSwKICAi4pGjIOWkmue7tOS8mOS6juWNlee7tCI6IHRydWUKIH0KfQ==
+{
+ "base": {
+  "alive": 3,
+  "n": 24,
+  "ent": 0.03142451814987288,
+  "share0": 0.9943047018404281
+ },
+ "one": {
+  "不推": {
+   "alive": 3,
+   "n": 24,
+   "ent": 0.03142451814987288,
+   "share0": 0.9943047018404281
+  },
+  "单维喊一声": {
+   "alive": 3,
+   "n": 24,
+   "ent": 0.03285736120172834,
+   "share0": 0.995426495215423
+  },
+  "多维喊一声": {
+   "alive": 3,
+   "n": 24,
+   "ent": 0.03003041279927805,
+   "share0": 0.9942003339856574
+  }
+ },
+ "cont": {
+  "单维持续": {
+   "alive": 0,
+   "n": 24,
+   "ent": 0.005291542361040356,
+   "share0": 0.9979498792420468
+  },
+  "多维持续": {
+   "alive": 4,
+   "n": 24,
+   "ent": 0.030230902872516185,
+   "share0": 0.9900746793166575
+  }
+ },
+ "amps": {
+  "0.1": {
+   "alive": 3,
+   "n": 24,
+   "ent": 0.03044429677268151,
+   "share0": 0.9986444761886076
+  },
+  "0.5": {
+   "alive": 4,
+   "n": 24,
+   "ent": 0.030230902872516185,
+   "share0": 0.9900746793166575
+  },
+  "1.0": {
+   "alive": 7,
+   "n": 24,
+   "ent": 0.031092672646047034,
+   "share0": 0.9781259260802918
+  },
+  "2.0": {
+   "alive": 18,
+   "n": 24,
+   "ent": 0.06301323443460112,
+   "share0": 0.9622193729265708
+  },
+  "5.0": {
+   "alive": 24,
+   "n": 24,
+   "ent": 0.055006033962438104,
+   "share0": 0.9719118540008802
+  }
+ },
+ "ok": {
+  "① 坍塌成立（基线熵<0.05）": true,
+  "② 一次性喊叫不醒（|Δ熵|<0.01）": true,
+  "③ 持续多维能拉出来（Δ熵>+0.01）": false,
+  "④ 多维优于单维": true
+ }
+}

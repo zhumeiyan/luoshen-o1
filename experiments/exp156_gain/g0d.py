@@ -1,1 +1,46 @@
-aW1wb3J0IHRpbWUsb3Msc3RhdGlzdGljcyBhcyBzdCxqc29uLHNvY2tldCxtdWx0aXByb2Nlc3NpbmcgYXMgbXAKZGVmIGJ1cm4oc2VjKToKICAgIHQwPXRpbWUudGltZSgpOyBzPTAKICAgIHdoaWxlIHRpbWUudGltZSgpLXQwPHNlYzogcys9MQpkZWYgbWVhcyhuPTIwMCk6CiAgICB0cz1bXQogICAgZm9yIF8gaW4gcmFuZ2Uobik6CiAgICAgICAgdDA9dGltZS5wZXJmX2NvdW50ZXJfbnMoKTsgcz0wCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoNDAwKTogcys9aSppCiAgICAgICAgdHMuYXBwZW5kKHRpbWUucGVyZl9jb3VudGVyX25zKCktdDApCiAgICByZXR1cm4gdHMKcHJpbnQoJz09PSDlgJnpgIlBOiDnnJ/lrp7lpJrov5vnqIvnq57kuokgPT09JykKYmFzZT1tZWFzKDIwMCk7IGJtLGJzPXN0Lm1lYW4oYmFzZSksc3QucHN0ZGV2KGJhc2UpCnByaW50KCcw6L+b56iLIG1lYW49JS4xZiBzZD0lLjFmJyUoYm0sYnMpKQpvdXQ9e30KZm9yIG5wXyBpbiBbMSwyLDRdOgogICAgcHM9W21wLlByb2Nlc3ModGFyZ2V0PWJ1cm4sYXJncz0oOCwpKSBmb3IgXyBpbiByYW5nZShucF8pXQogICAgZm9yIHAgaW4gcHM6IHAuc3RhcnQoKQogICAgdGltZS5zbGVlcCgwLjUpCiAgICB4PW1lYXMoMjAwKQogICAgZm9yIHAgaW4gcHM6IHAudGVybWluYXRlKCk7IHAuam9pbih0aW1lb3V0PTEpCiAgICBtLHM9c3QubWVhbih4KSxzdC5wc3RkZXYoeCkKICAgIGQ9KG0tYm0pLygocyoqMiticyoqMikvMikqKjAuNQogICAgb3V0W3N0cihucF8pXT0obSxzLGQpOyBwcmludCgnJWTov5vnqIsgbWVhbj0lLjFmIHNkPSUuMWYgZD0lLjRmJyUobnBfLG0scyxkKSkKcHJpbnQoJz09PSDlgJnpgIlCOiDnnJ/lrp5VRFDlm57njq8gcGF5bG9hZOaJq+aPjyA9PT0nKQpzcnY9c29ja2V0LnNvY2tldChzb2NrZXQuQUZfSU5FVCxzb2NrZXQuU09DS19ER1JBTSk7IHNydi5iaW5kKCgnMTI3LjAuMC4xJywwKSk7IHNydi5zZXR0aW1lb3V0KDAuNSkKcG9ydD1zcnYuZ2V0c29ja25hbWUoKVsxXQpjbGk9c29ja2V0LnNvY2tldChzb2NrZXQuQUZfSU5FVCxzb2NrZXQuU09DS19ER1JBTSk7IGNsaS5zZXR0aW1lb3V0KDAuNSkKaW1wb3J0IHRocmVhZGluZwpkZWYgZWNobygpOgogICAgd2hpbGUgVHJ1ZToKICAgICAgICB0cnk6IGQsYT1zcnYucmVjdmZyb20oNjU1MzUpOyBzcnYuc2VuZHRvKGRbOjhdLGEpCiAgICAgICAgZXhjZXB0OiBicmVhawp0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1lY2hvLGRhZW1vbj1UcnVlKS5zdGFydCgpCnVkcD17fQpmb3Igc2l6ZSBpbiBbNjQsMTAyNCwxNjM4NCw2NTUwN106CiAgICB0cz1bXQogICAgZm9yIF8gaW4gcmFuZ2UoMTIwKToKICAgICAgICB0MD10aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICAgICAgY2xpLnNlbmR0byhiJ3gnKnNpemUsKCcxMjcuMC4wLjEnLHBvcnQpKQogICAgICAgIHRyeTogY2xpLnJlY3Zmcm9tKDgpCiAgICAgICAgZXhjZXB0OiBwYXNzCiAgICAgICAgdHMuYXBwZW5kKHRpbWUucGVyZl9jb3VudGVyX25zKCktdDApCiAgICB1ZHBbc2l6ZV09KHN0Lm1lZGlhbih0cyksIHNvcnRlZCh0cylbOTBdLXNvcnRlZCh0cylbMzBdKQogICAgcHJpbnQoJ3BheWxvYWQgJTZkICDkuK3kvY09JS4wZm5zICBJUVI9JS4wZm5zJyUoc2l6ZSx1ZHBbc2l6ZV1bMF0sdWRwW3NpemVdWzFdKSkKanNvbi5kdW1wKHsncHJvYyc6b3V0LCd1ZHAnOnVkcCwnYmFzZSc6KGJtLGJzKX0sb3BlbignZzBkLmpzb24nLCd3JykpCg==
+import time,os,statistics as st,json,socket,multiprocessing as mp
+def burn(sec):
+    t0=time.time(); s=0
+    while time.time()-t0<sec: s+=1
+def meas(n=200):
+    ts=[]
+    for _ in range(n):
+        t0=time.perf_counter_ns(); s=0
+        for i in range(400): s+=i*i
+        ts.append(time.perf_counter_ns()-t0)
+    return ts
+print('=== 候选A: 真实多进程竞争 ===')
+base=meas(200); bm,bs=st.mean(base),st.pstdev(base)
+print('0进程 mean=%.1f sd=%.1f'%(bm,bs))
+out={}
+for np_ in [1,2,4]:
+    ps=[mp.Process(target=burn,args=(8,)) for _ in range(np_)]
+    for p in ps: p.start()
+    time.sleep(0.5)
+    x=meas(200)
+    for p in ps: p.terminate(); p.join(timeout=1)
+    m,s=st.mean(x),st.pstdev(x)
+    d=(m-bm)/((s**2+bs**2)/2)**0.5
+    out[str(np_)]=(m,s,d); print('%d进程 mean=%.1f sd=%.1f d=%.4f'%(np_,m,s,d))
+print('=== 候选B: 真实UDP回环 payload扫描 ===')
+srv=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); srv.bind(('127.0.0.1',0)); srv.settimeout(0.5)
+port=srv.getsockname()[1]
+cli=socket.socket(socket.AF_INET,socket.SOCK_DGRAM); cli.settimeout(0.5)
+import threading
+def echo():
+    while True:
+        try: d,a=srv.recvfrom(65535); srv.sendto(d[:8],a)
+        except: break
+threading.Thread(target=echo,daemon=True).start()
+udp={}
+for size in [64,1024,16384,65507]:
+    ts=[]
+    for _ in range(120):
+        t0=time.perf_counter_ns()
+        cli.sendto(b'x'*size,('127.0.0.1',port))
+        try: cli.recvfrom(8)
+        except: pass
+        ts.append(time.perf_counter_ns()-t0)
+    udp[size]=(st.median(ts), sorted(ts)[90]-sorted(ts)[30])
+    print('payload %6d  中位=%.0fns  IQR=%.0fns'%(size,udp[size][0],udp[size][1]))
+json.dump({'proc':out,'udp':udp,'base':(bm,bs)},open('g0d.json','w'))

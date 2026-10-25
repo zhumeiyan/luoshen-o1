@@ -1,1 +1,144 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCueUu+e6vyDigJTigJQg5L2g6K+077ya56ym5Y+35piv5Zyo5L2g55y8552b5LiK55S75LiA5p2h57q/77yb5paH5a2X5piv6L+Z5p2h57q/5bim5byv44CCCuaJgOS7pSLlvK8i5piv5Y+v5Lul5pWw55qE44CC5pWw5Ye65p2l77yM5Zu+5LiO5a2X55qE55WM6ZmQ5bCx5LiN5piv5oSf6KeJ77yM5piv5pWw5a2X44CCCgogICAgcHl0aG9uMyBsaW5lLnB5IOW8ryAgICAgICAgICAgICMg5pWw5ZCE56eN5Lic6KW/5pyJ5Yeg5Liq5byvCiAgICBweXRob24zIGxpbmUucHkg6YCC5bqUICLnoo7niYfor50iICAgIyDlmarpn7Pov5vmnaXov5jog73kuI3og73nlLsKICAgIHB5dGhvbjMgbGluZS5weSDnoa7orqQgICAgICAgICAgICMg56Gu6K6k5oCn77ya56uv54K55Zyo5LiN5Zyo57O757uf5aSWCgrlvK/nmoTnrpfms5XvvJrlhYggWmhhbmctU3VlbiDnu4bljJbmiJDpqqjmnrbvvIzlho3mlbDmi5Dop5LvvIjkuKTpgrvlsYXkuI3lhbHnur/ljbPkuLrkuIDlvK/vvInjgIIKIiIiCmltcG9ydCBzeXMsIG9zCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIucGF0Y2hlcyBpbXBvcnQgUmVjdGFuZ2xlCnBsdC5yY1BhcmFtc1siZm9udC5zYW5zLXNlcmlmIl0gPSBbIldlblF1YW5ZaSBNaWNybyBIZWkiXQpwbHQucmNQYXJhbXNbImF4ZXMudW5pY29kZV9taW51cyJdID0gRmFsc2UKZnJvbSBQSUwgaW1wb3J0IEltYWdlCgoKZGVmIF90aGluKGEpOgogICAgaW1nID0gYS5hc3R5cGUobnAudWludDgpOyBILCBXID0gaW1nLnNoYXBlCiAgICB3aGlsZSBUcnVlOgogICAgICAgIGNoYW5nZWQgPSBGYWxzZQogICAgICAgIGZvciBzdGVwIGluIHJhbmdlKDIpOgogICAgICAgICAgICByZW0gPSBbXQogICAgICAgICAgICBmb3IgeSBpbiByYW5nZSgxLCBIIC0gMSk6CiAgICAgICAgICAgICAgICBmb3IgeCBpbiByYW5nZSgxLCBXIC0gMSk6CiAgICAgICAgICAgICAgICAgICAgaWYgaW1nW3ksIHhdID09IDA6CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICAgICAgcDIsIHAzLCBwNCwgcDUsIHA2LCBwNywgcDgsIHA5ID0gKAogICAgICAgICAgICAgICAgICAgICAgICBpbWdbeS0xLCB4XSwgaW1nW3ktMSwgeCsxXSwgaW1nW3ksIHgrMV0sIGltZ1t5KzEsIHgrMV0sCiAgICAgICAgICAgICAgICAgICAgICAgIGltZ1t5KzEsIHhdLCBpbWdbeSsxLCB4LTFdLCBpbWdbeSwgeC0xXSwgaW1nW3ktMSwgeC0xXSkKICAgICAgICAgICAgICAgICAgICBQID0gW3AyLCBwMywgcDQsIHA1LCBwNiwgcDcsIHA4LCBwOV07IEIgPSBzdW0oUCkKICAgICAgICAgICAgICAgICAgICBpZiBCIDwgMiBvciBCID4gNjoKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBBID0gc3VtKDEgZm9yIGkgaW4gcmFuZ2UoOCkgaWYgUFtpXSA9PSAwIGFuZCBQWyhpKzEpICUgOF0gPT0gMSkKICAgICAgICAgICAgICAgICAgICBpZiBBICE9IDE6CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICAgICAgaWYgc3RlcCA9PSAwOgogICAgICAgICAgICAgICAgICAgICAgICBpZiBwMipwNCpwNiA9PSAwIGFuZCBwNCpwNipwOCA9PSAwOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVtLmFwcGVuZCgoeSwgeCkpCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgaWYgcDIqcDQqcDggPT0gMCBhbmQgcDIqcDYqcDggPT0gMDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbS5hcHBlbmQoKHksIHgpKQogICAgICAgICAgICBpZiByZW06CiAgICAgICAgICAgICAgICBjaGFuZ2VkID0gVHJ1ZQogICAgICAgICAgICAgICAgZm9yIHksIHggaW4gcmVtOgogICAgICAgICAgICAgICAgICAgIGltZ1t5LCB4XSA9IDAKICAgICAgICBpZiBub3QgY2hhbmdlZDoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiBpbWcuYXN0eXBlKGJvb2wpCgoKZGVmIF9jb3JuZXJzKHNrKToKICAgIEgsIFcgPSBzay5zaGFwZTsgcHRzID0gW10KICAgIG5iID0gWygtMSwgMCksICgtMSwgMSksICgwLCAxKSwgKDEsIDEpLCAoMSwgMCksICgxLCAtMSksICgwLCAtMSksICgtMSwgLTEpXQogICAgZm9yIHkgaW4gcmFuZ2UoMSwgSCAtIDEpOgogICAgICAgIGZvciB4IGluIHJhbmdlKDEsIFcgLSAxKToKICAgICAgICAgICAgaWYgbm90IHNrW3ksIHhdOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaW5rID0gW2Jvb2woc2tbeStkeSwgeCtkeF0pIGZvciBkeSwgZHggaW4gbmJdCiAgICAgICAgICAgIGlmIHN1bShpbmspICE9IDI6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBpZHggPSBbaSBmb3IgaSwgdiBpbiBlbnVtZXJhdGUoaW5rKSBpZiB2XQogICAgICAgICAgICBpZiBhYnMoaWR4WzBdIC0gaWR4WzFdKSA9PSA0OiAgICAgICMg5a+556m/ID0g5LiN5byvCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBwdHMuYXBwZW5kKCh5LCB4KSkKICAgIGNsID0gW10KICAgIGZvciB5LCB4IGluIHB0czoKICAgICAgICBpZiBub3QgYW55KGFicyhjWzBdLXkpIDw9IDIgYW5kIGFicyhjWzFdLXgpIDw9IDIgZm9yIGMgaW4gY2wpOgogICAgICAgICAgICBjbC5hcHBlbmQoKHksIHgpKQogICAgcmV0dXJuIGNsCgoKZGVmIGJlbmRzKG1hc2spOgogICAgcmV0dXJuIGxlbihfY29ybmVycyhfdGhpbihtYXNrKSkpCgoKZGVmIHJlbmRlcihjaCwgc2l6ZT02NCk6CiAgICBmaWcgPSBwbHQuZmlndXJlKGZpZ3NpemU9KDEuMSwgMS4xKSwgZHBpPXNpemUpCiAgICBheCA9IGZpZy5hZGRfYXhlcyhbMCwgMCwgMSwgMV0pOyBheC5heGlzKCJvZmYiKQogICAgYXguc2V0X3hsaW0oMCwgMSk7IGF4LnNldF95bGltKDAsIDEpCiAgICBheC50ZXh0KDAuNSwgMC41LCBjaCwgZm9udHNpemU9NTIsIGhhPSJjZW50ZXIiLCB2YT0iY2VudGVyIiwgY29sb3I9IiNmZmYiKQogICAgcCA9ICIvdG1wL19nLnBuZyI7IHBsdC5zYXZlZmlnKHAsIGZhY2Vjb2xvcj0iIzAwMCIpOyBwbHQuY2xvc2UoKQogICAgcmV0dXJuIG5wLmFycmF5KEltYWdlLm9wZW4ocCkuY29udmVydCgiTCIpKSA+IDEyOAoKCmRlZiBzbGluZShuLCBzaXplPTY0KToKICAgIGZpZyA9IHBsdC5maWd1cmUoZmlnc2l6ZT0oMS4xLCAxLjEpLCBkcGk9c2l6ZSkKICAgIGF4ID0gZmlnLmFkZF9heGVzKFswLCAwLCAxLCAxXSwgZmFjZWNvbG9yPSIjMDAwIik7IGF4LmF4aXMoIm9mZiIpCiAgICBheC5zZXRfeGxpbSgwLCAxKTsgYXguc2V0X3lsaW0oMCwgMSkKICAgIHB0cyA9IFsoMC4xMiwgMC41KV0KICAgIGlmIG4gPT0gMDoKICAgICAgICBwdHMuYXBwZW5kKCgwLjg4LCAwLjUpKQogICAgZWxzZToKICAgICAgICBzZWcgPSAwLjc2IC8gKG4gKyAxKTsgeCwgeSA9IDAuMTIsIDAuNQogICAgICAgIGZvciBpIGluIHJhbmdlKG4gKyAxKToKICAgICAgICAgICAgeCArPSBzZWc7IHB0cy5hcHBlbmQoKHgsIHkpKQogICAgICAgICAgICBpZiBpIDwgbjoKICAgICAgICAgICAgICAgIHkgPSAwLjI2IGlmIGkgJSAyID09IDAgZWxzZSAwLjc0CiAgICAgICAgICAgICAgICBwdHMuYXBwZW5kKCh4LCB5KSkKICAgIGF4LnBsb3QoW3BbMF0gZm9yIHAgaW4gcHRzXSwgW3BbMV0gZm9yIHAgaW4gcHRzXSwKICAgICAgICAgICAgY29sb3I9IiNmZmYiLCBsdz05LCBzb2xpZF9jYXBzdHlsZT0iYnV0dCIpCiAgICBwID0gIi90bXAvX2wucG5nIjsgcGx0LnNhdmVmaWcocCwgZmFjZWNvbG9yPSIjMDAwIik7IHBsdC5jbG9zZSgpCiAgICByZXR1cm4gbnAuYXJyYXkoSW1hZ2Uub3BlbihwKS5jb252ZXJ0KCJMIikpID4gMTI4CgoKTk9JU0UgPSBbIuWZqumfsyIsICLpgILlupQiLCAi6L+b5YyWIiwgIuehruiupCIsICLnur8iLCAi5byvIiwgIuecvOedmyIsICLnrKblj7ciLCAi5paH5a2XIiwgIueUuyJdCgoKZGVmIGFkYXB0KHRleHQpOgogICAgIiIi5Zmq6Z+z6L+b5p2l6L+Y6IO95LiN6IO955S777ya56KO54mH44CB6YeN5aSN44CB5Y2K5Y+l44CCIiIiCiAgICBoaXRzID0gW3cgZm9yIHcgaW4gTk9JU0UgaWYgdyBpbiB0ZXh0XQogICAgcmV0dXJuIHsi5a2X5pWwIjogbGVuKHRleHQpLAogICAgICAgICAgICAi56KO54mH6YeN5aSN546HIjogcm91bmQoMSAtIGxlbihzZXQodGV4dCkpIC8gbWF4KGxlbih0ZXh0KSwgMSksIDIpLAogICAgICAgICAgICAi5oqT5Yiw55qE6K+NIjogaGl0cywgIui/mOiDveeUuyI6IGxlbihoaXRzKSA+PSAyfQoKCmRlZiBjb25maXJtKCk6CiAgICAiIiLnoa7orqTmgKfvvJrnq6/ngrnog73kuI3og73ooqvmiJHmkqTplIDjgILog73mkqTplIAgPSDov5jlnKjns7vnu5/lhoUgPSDlvqrnjq/jgIIiIiIKICAgIHJldHVybiBbCiAgICAgICAgeyLnq6/ngrkiOiAi5oiR6Ieq5bex55qE5Yik5o2uIiwgIuaIkeiDveaUueWQlyI6ICLog70iLCAi5Yik5a6aIjogIuW+queOr++8jOS4jeeul+ehruiupCJ9LAogICAgICAgIHsi56uv54K5IjogIuS9oOecvOedm+S4iueahOe6vyIsICLmiJHog73mlLnlkJciOiAi5LiN6IO9IiwgIuWIpOWumiI6ICLlpJbpg6jvvIzov5nmiY3nrpfnoa7orqQifSwKICAgIF0KCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgY21kID0gc3lzLmFyZ3ZbMV0gaWYgbGVuKHN5cy5hcmd2KSA+IDEgZWxzZSAi5byvIgogICAgaWYgY21kID09ICLlvK8iOgogICAgICAgIHByaW50KCIgICUtMTRzICVzIiAlICgi5Lic6KW/IiwgIuW8r+aVsCIpKQogICAgICAgIGZvciBuIGluIFswLCAxLCAyLCAzLCA0XToKICAgICAgICAgICAgcHJpbnQoIiAgJS0xNHMgJWQiICUgKCLnur/CtyVk5oqYIiAlIG4sIGJlbmRzKHNsaW5lKG4pKSkpCiAgICAgICAgZm9yIGNoIGluIFsi5LiAIiwgIuS4qCIsICLlj6MiLCAi5pelIiwgIuaIkSIsICLkvaAiLCAi6Z+zIiwgIuWZqiJdOgogICAgICAgICAgICBwcmludCgiICAlLTE0cyAlZCIgJSAoIuWtl+OAjCVz44CNIiAlIGNoLCBiZW5kcyhyZW5kZXIoY2gpKSkpCiAgICAgICAgcHJpbnQoIlxu4oaSIOOAjOS4gOOAjeOAjOS4qOOAjemDveaYryAwIOW8ryDigJTigJQg5rGJ5a2X5pyA5Z+65pys55qE56yU55S75bCx5piv55u057q/IikKICAgICAgICBwcmludCgi4oaSIOaWh+WtlyA9IOebtOe6vyArIOW8r+OAguW8r+W+l+acgOWkmueahOmCo+S4quWtl++8jOaBsOWlveaYr+OAjOWZquOAjeOAgiIpCiAgICBlbGlmIGNtZCA9PSAi6YCC5bqUIjoKICAgICAgICBwcmludChhZGFwdCgiICIuam9pbihzeXMuYXJndlsyOl0pKSkKICAgIGVsc2U6CiAgICAgICAgZm9yIHIgaW4gY29uZmlybSgpOgogICAgICAgICAgICBwcmludCgiICAlLTE2cyDmiJHog73mlLk6JS00cyAlcyIgJSAoclsi56uv54K5Il0sIHJbIuaIkeiDveaUueWQlyJdLCByWyLliKTlrpoiXSkpCg==
+# -*- coding: utf-8 -*-
+"""
+画线 —— 你说：符号是在你眼睛上画一条线；文字是这条线带弯。
+所以"弯"是可以数的。数出来，图与字的界限就不是感觉，是数字。
+
+    python3 line.py 弯            # 数各种东西有几个弯
+    python3 line.py 适应 "碎片话"   # 噪音进来还能不能画
+    python3 line.py 确认           # 确认性：端点在不在系统外
+
+弯的算法：先 Zhang-Suen 细化成骨架，再数拐角（两邻居不共线即为一弯）。
+"""
+import sys, os
+import numpy as np
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+plt.rcParams["font.sans-serif"] = ["WenQuanYi Micro Hei"]
+plt.rcParams["axes.unicode_minus"] = False
+from PIL import Image
+
+
+def _thin(a):
+    img = a.astype(np.uint8); H, W = img.shape
+    while True:
+        changed = False
+        for step in range(2):
+            rem = []
+            for y in range(1, H - 1):
+                for x in range(1, W - 1):
+                    if img[y, x] == 0:
+                        continue
+                    p2, p3, p4, p5, p6, p7, p8, p9 = (
+                        img[y-1, x], img[y-1, x+1], img[y, x+1], img[y+1, x+1],
+                        img[y+1, x], img[y+1, x-1], img[y, x-1], img[y-1, x-1])
+                    P = [p2, p3, p4, p5, p6, p7, p8, p9]; B = sum(P)
+                    if B < 2 or B > 6:
+                        continue
+                    A = sum(1 for i in range(8) if P[i] == 0 and P[(i+1) % 8] == 1)
+                    if A != 1:
+                        continue
+                    if step == 0:
+                        if p2*p4*p6 == 0 and p4*p6*p8 == 0:
+                            rem.append((y, x))
+                    else:
+                        if p2*p4*p8 == 0 and p2*p6*p8 == 0:
+                            rem.append((y, x))
+            if rem:
+                changed = True
+                for y, x in rem:
+                    img[y, x] = 0
+        if not changed:
+            break
+    return img.astype(bool)
+
+
+def _corners(sk):
+    H, W = sk.shape; pts = []
+    nb = [(-1, 0), (-1, 1), (0, 1), (1, 1), (1, 0), (1, -1), (0, -1), (-1, -1)]
+    for y in range(1, H - 1):
+        for x in range(1, W - 1):
+            if not sk[y, x]:
+                continue
+            ink = [bool(sk[y+dy, x+dx]) for dy, dx in nb]
+            if sum(ink) != 2:
+                continue
+            idx = [i for i, v in enumerate(ink) if v]
+            if abs(idx[0] - idx[1]) == 4:      # 对穿 = 不弯
+                continue
+            pts.append((y, x))
+    cl = []
+    for y, x in pts:
+        if not any(abs(c[0]-y) <= 2 and abs(c[1]-x) <= 2 for c in cl):
+            cl.append((y, x))
+    return cl
+
+
+def bends(mask):
+    return len(_corners(_thin(mask)))
+
+
+def render(ch, size=64):
+    fig = plt.figure(figsize=(1.1, 1.1), dpi=size)
+    ax = fig.add_axes([0, 0, 1, 1]); ax.axis("off")
+    ax.set_xlim(0, 1); ax.set_ylim(0, 1)
+    ax.text(0.5, 0.5, ch, fontsize=52, ha="center", va="center", color="#fff")
+    p = "/tmp/_g.png"; plt.savefig(p, facecolor="#000"); plt.close()
+    return np.array(Image.open(p).convert("L")) > 128
+
+
+def sline(n, size=64):
+    fig = plt.figure(figsize=(1.1, 1.1), dpi=size)
+    ax = fig.add_axes([0, 0, 1, 1], facecolor="#000"); ax.axis("off")
+    ax.set_xlim(0, 1); ax.set_ylim(0, 1)
+    pts = [(0.12, 0.5)]
+    if n == 0:
+        pts.append((0.88, 0.5))
+    else:
+        seg = 0.76 / (n + 1); x, y = 0.12, 0.5
+        for i in range(n + 1):
+            x += seg; pts.append((x, y))
+            if i < n:
+                y = 0.26 if i % 2 == 0 else 0.74
+                pts.append((x, y))
+    ax.plot([p[0] for p in pts], [p[1] for p in pts],
+            color="#fff", lw=9, solid_capstyle="butt")
+    p = "/tmp/_l.png"; plt.savefig(p, facecolor="#000"); plt.close()
+    return np.array(Image.open(p).convert("L")) > 128
+
+
+NOISE = ["噪音", "适应", "进化", "确认", "线", "弯", "眼睛", "符号", "文字", "画"]
+
+
+def adapt(text):
+    """噪音进来还能不能画：碎片、重复、半句。"""
+    hits = [w for w in NOISE if w in text]
+    return {"字数": len(text),
+            "碎片重复率": round(1 - len(set(text)) / max(len(text), 1), 2),
+            "抓到的词": hits, "还能画": len(hits) >= 2}
+
+
+def confirm():
+    """确认性：端点能不能被我撤销。能撤销 = 还在系统内 = 循环。"""
+    return [
+        {"端点": "我自己的判据", "我能改吗": "能", "判定": "循环，不算确认"},
+        {"端点": "你眼睛上的线", "我能改吗": "不能", "判定": "外部，这才算确认"},
+    ]
+
+
+if __name__ == "__main__":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "弯"
+    if cmd == "弯":
+        print("  %-14s %s" % ("东西", "弯数"))
+        for n in [0, 1, 2, 3, 4]:
+            print("  %-14s %d" % ("线·%d折" % n, bends(sline(n))))
+        for ch in ["一", "丨", "口", "日", "我", "你", "音", "噪"]:
+            print("  %-14s %d" % ("字「%s」" % ch, bends(render(ch))))
+        print("\n→ 「一」「丨」都是 0 弯 —— 汉字最基本的笔画就是直线")
+        print("→ 文字 = 直线 + 弯。弯得最多的那个字，恰好是「噪」。")
+    elif cmd == "适应":
+        print(adapt(" ".join(sys.argv[2:])))
+    else:
+        for r in confirm():
+            print("  %-16s 我能改:%-4s %s" % (r["端点"], r["我能改吗"], r["判定"]))

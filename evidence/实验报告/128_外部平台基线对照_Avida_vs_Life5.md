@@ -1,1 +1,148 @@
-IyAxMjggwrcg5aSW6YOo5bmz5Y+w5Z+657q/5a+554Wn77yaQXZpZGHvvIjmvJTljJbvvIkgdnMg5rSb56WeIExpZmU177yI5a2m5Lmg77yJCgo+ICoq5Li65LuA5LmI5YGa6L+Z5LiqKirvvJpST0FETUFQIOmHjOOAjOWklumDqOW5s+WPsOWfuue6v+WvueavlOOAjeS7jiB2MC41IOi1t+S4gOebtOagh+edgOOAjOW9k+WJjeacgOWkp+e8uuWPo+OAjeOAggo+IOaIkeS7rOiHquensCLkvJrmrbvnmoTlvJXmk44i77yM5Y205LuO5p2l5rKh6LefIEF2aWRhIC8gVGllcnJhIOi/meexu+WklumDqOW5s+WPsOecn+i3kei/h+S4gOasoeWQjOadoeS7tuWvueeFp+OAggo+ICoq5rKh5a+554Wn77yMIuaIkeS7rOeahOe7k+iuuiLlsLHlj6rmmK8i5oiR5Lus55qE6K+05rOVIuOAgioqCgotLS0KCiMjIOS4gOOAgeWFiOiHquabne+8muaIkeWcqCBBdmlkYSDlrp7njrDph4zln4vkuobkuInkuKrmnrbmnoTnvLrpmbcKCiMjIyDnvLrpmbcgMe+8muWQjuS7o+aYr+epuuWjs++8jOS4jeaYr+WkjeWItuWTgQoK56ys5LiA54mI56WW5YWIIjExIGN5Y2xlcyDlsLHlrozmiJDlpI3liLYi44CC5qOA5p+l5ZCO5Luj77yaKioxNCDkuKrkvY3nva7lj6rlr7nkuoYgMSDkuKoqKuKAlOKAlOWug+ayoeWkjeWItuWujOWwseWIhuijguS6huOAggoK6L+Z5q2j5pivIEF2aWRhIOaWh+eMrumHjOiRl+WQjeeahOS9nOW8iu+8mioq55yL5Ly85YiG6KOC77yM5a6e5Li656m65aOzKirjgIIKCuS/ruazle+8muWKoCBgY29waWVkYCDorqHmlbAgKyBgaC1kaXZpZGVgIOmXqOanm++8iOWkjeWItuS4jea7oeS4jeiuuOWIhuijgu+8ieOAggoKIyMjIOe8uumZtyAy77ya5pW05Liq56eN576k6Z2g5LiA5LiqIuWFjei0ueWNiOmkkCLmtLvnnYAKCuS/ruWujOmXqOanm+WQju+8jOa8lOWMliA2MDAg5Luj77yMKiozOC80MCDkuKrkvZPkuKLmjonkuoYgYGgtYWxsb2NgIOWNtOeFp+agt+e5geaulioq44CCCgrmn6XkuIvljrvlj5HnjrDkuI3mmK/nlJ/niankvZzlvIrvvIzmmK8qKuaIkeeahCBgQmlvLl9faW5pdF9fYCDmioogYHdoYCDliJ3lp4vlgLzorr7miJDkuoYgYG1lbV9zaXplLy8yYO+8jOaBsOWlveetieS6juWtkOS7o+WMuuWfn+i1t+eCuSoq44CCCuaVtOS4quS4lueVjOeahOWkjeWItumDveW7uueri+WcqOi/meS4quW3p+WQiOS4iuKAlOKAlGBoLWFsbG9jYCDmoLnmnKzkuI3mmK/lv4XpnIDnmoTjgIIKCuS/ruazle+8mmB3aCA9IC0xYO+8iOacquWIhumFje+8ie+8jOWPquaciSBgaC1hbGxvY2Ag5omN6IO96K6+77ybYGgtY29weWAg5pyq5YiG6YWN5LiN5YaZ44CCCuS/ruWujOelluWFiCAxMTUgY3ljbGVz44CB5L+d55yfIDEuMO+8jOaXoCBgaC1hbGxvY2Ag55qE6Zi05oCn5a+554Wn5q2j56Gu5aSx6LSl44CCCgojIyMg57y66Zm3IDPvvJrpgInmi6nljovlipvmlL7plJnkuoblnLDmlrkKCuesrOS4gOeJiOaMiSBgcmV3YXJkYCDmjpLluo/kv53nlZnkuKrkvZMg4oaSIOS4jeiDveWkjeWItuS9hueisOW3p+WujOaIkOS7u+WKoeeahOiiq+eVmeS4i++8jCoq5aSN5Yi26IO95Yqb54Gt57udKirvvIxiaXJ0aHMg5Ya757uT5ZyoIDM0MeOAggoK55yf5a6eIEF2aWRhIOeahOmAieaLqeadpeiHqioq57mB5q6W6YCf5bqm5beu5byCKirvvIzkuI3mmK/lrZjmtLvnrZvpgInjgILmlLnmiJDmlrDkuKrkvZPmm7/mjaLpmo/mnLrkuKrkvZPlkI7vvIzmvJTljJbmiY3ot5HotbfmnaXjgIIKCi0tLQoKIyMg5LqM44CB5a+554Wn5Y2P6K6u77yI5Lik6L655ZCM5LiA5aWX77yJCgp8IOmYtuautSB8IOWkhOeQhiB8IEF2aWRhIOeahOiHque7meiDveWKmyB8IExpZmU1IOeahOiHque7meiDveWKmyB8CnwtLS18LS0tfC0tLXwtLS18CnwgMSDkvpvnu5nmnJ8gfCDnu5nlpJbpg6jkvpvnu5kgfCDmvJTljJblh7rku7vliqHvvIhyZXdhcmQg54us56uL5L6b6IO977yJIHwg5LuOIGZnPTAg5a2m6LW3IHwKfCAyIOaWreS+m+acnyB8IOWklumDqOS+m+e7mSA9IDAgfCDlj6rmnInlrozmiJDku7vliqHogIXmnInog73ph48gfCDlj6rmnIkgZmc+MCDogIXog73mtLsgfAoKKirlj6/mr5TnmoTmmK/ml6Dph4/nurLmiJDlip/njofvvIzkuI3mmK/ml7bpl7QqKuKAlOKAlOOAjOS7o+OAjeS4juOAjOaLjeOAjeWNleS9jeS4jeWPr+mAmue6pu+8jOacrOiKguS4jeWBmuaXtumXtOWvueavlOOAggoKIyMjIOKaoO+4jyDkuIDlpITlv4Xpobvor7TmmI7nmoTmqKHlnovmlLnliqgKCuWOn+WniyBBdmlkYSDnmoTog73ph4/mmK8gYHNsaWNlIMOXIHJld2FyZGDigJTigJQqKnJld2FyZCDmmK/phY3pop3kuZjlrZDvvIzkuI3mmK/og73ph4/mnaXmupAqKu+8jOaJgOS7peaWreS+m++8iHNsaWNlPTDvvInlkI7ml6DorrogcmV3YXJkIOWkmumrmOmDveaYryAw44CCCui/meWvuSBMaWZlNSDkuI3lhazlubPvvIhMaWZlNSDnmoQgZmcg5piv55yf5a6e55qE6I635Y+W5pWI546H77yJ44CCCgrmiYDku6XmiJHnu5kgQXZpZGEg5Yqg5LqG54us56uL6Ieq57uZ6YCa6YGT77yaYGJ1ZGdldCA9IHNsaWNlICsgKHJld2FyZOKIkjEpw5dzY2FsZWDjgIIKKirov5nkuKrmlLnliqjmmK/miJHkuLrkuoborqnlr7nnhaflhazlubPogIzlgZrnmoTvvIzkuI3mmK8gQXZpZGEg5Y6f55Sf5py65Yi244CCKioKCi0tLQoKIyMg5LiJ44CB57uT5p6cCgojIyMgTGlmZTXvvIgxNiBzZWVk77yJCgp8IOaWueahiCB8IOWtpuWIsCBmZyB8IOaWreS+m+WtmOa0uyB8CnwtLS18LS0tfC0tLXwKfCAqKuebuOWAmue7g+S5oCoqIHwgKiowLjE1MzY1KiogfCAqKjE2LzE2KiogfAp8IOebuOe7p+S4jeebuOWAmiB8IDAuMDAzNzggfCAwLzE2IHwKfCDlj6rovpPmtrLkuI3nu4MgfCAwLjAwMDAwIHwgMC8xNiB8Cnwg6ZqP5py65Y+Y5byCIHwgMC4wMjkwMCB8IDExLzE2IHwKCiMjIyBBdmlkYe+8iDUgc2VlZCDDlyA0MCDkuKrkvZMgPSAyMDDvvIkKCnwgc2VlZCB8IOiOt+W+l+iHque7mSB8IOWNoOavlCB8CnwtLS18LS0tfC0tLXwKfCAwIHwgMTMvNDAgfCAwLjMyNSB8CnwgMSB8IDIvNDAgfCAwLjA1MCB8CnwgMiB8IDAvNDAgfCAwLjAwMCB8CnwgMyB8IDAvNDAgfCAwLjAwMCB8CnwgNCB8IDEvNDAgfCAwLjAyNSB8CgoqKuWQiOiuoSAxNi8yMDAgPSA4LjAl77yMc2VlZCDpl7Tmlrnlt67mnoHlpKfvvIgwIH4gMzIuNSXvvInjgIIqKgoKIyMjIOaWreS+m+WQjueKtuaAgeWIhuino++8iOWFs+mUru+8iQoKYGBgCuiOt+W+l+iHque7mSAgICAgICAgICAgIDE2LzIwMArmlq3kvpvlkI7mnInog73ph48gICAgICAgIDE2LzIwMCAgICAgIOKGkCDojrflvpfogIXlhajpg6jmnInog73ph48K5pyJ6Ieq57uZIOS4lCDog73nuYHmrpYgICAgIDAvMjAwICAgICAg4oaQIOmbtgrmnInoh6rnu5kg5L2GIOW3suS4p+Wksee5geauliAgMTYvMjAwICAgICAg4oaQIDEwMCUg6YeN5Y+gCuaWreS+m+WQjuaWsOWinuWHuueUnyAgICAgICAwCmBgYAoKKioxNiDkuKrojrflvpfoh6rnu5nog73lipvnmoQgQXZpZGEg5Liq5L2T77yM5peg5LiA5L6L5aSW5YWo6YOo5Lin5aSx57mB5q6W6IO95Yqb44CCKioKCuWvueeFpyBMaWZlNe+8muWtpuS8miBmZyDlkI4gKioxNi8xNiDkv53mjIHlrZjmtLsqKuOAggoKLS0tCgojIyDlm5vjgIHlj6/or4HkvKrlr7nnhafvvIjlm5vnu4Tlhajov4fvvIkKCnwg5qOA6aqMIHwg5a6e5rWLIHwg6aKE5pyfIHwKfC0tLXwtLS18LS0tfAp8IEF2aWRhIOmYtOaAp++8iG11dD0w77yJIHwg6I635b6X5Lu75YqhICoqMC80MCoqIHwgMCDinJMgfAp8IEF2aWRhIOmYs+aAp++8iOW8uue7meS7u+WKoe+8iSB8IOaWreS+m+acieiDvemHjyAqKjQwLzQwKiogfCA+MCDinJMgfAp8IExpZmU1IOmYtOaAp++8iGZnPTDvvIkgfCDlrZjmtLsgKiowLzE2KiogfCAwIOKckyB8CnwgTGlmZTUg6Ziz5oCn77yIZmc9MC4xNe+8iSB8IOWtmOa0uyAqKjE1LzE2KiogfCA+MCDinJMgfAoK5Zub57uE6YO96IO95ZCM5pe25Lqn55Sf55yf5ZKM5YGH77yM5Yik5o2u5pyq6aWx5ZKM44CCCgotLS0KCiMjIOS6lOOAgee7k+iuuuS4juOAjOWFseWQjOeCueOAjQoKKirlt67lvIIqKu+8mkF2aWRhIOmHjCLojrflvpfog73ph48i5ZKMIue5geauliLnlLHlkIzkuIDmnaHln7rlm6Dnu4Tmib/mi4XvvIzmvJTljJbpob7mraTlpLHlvbzigJTigJTmnKzmqKHlnovlhoUgKirojrflvpfoh6rnu5nogIUgMTAwJSDlkIzml7bkuKflpLHnuYHmrpYqKuOAggpMaWZlNSDph4wgZmcg5LiO5a2Y5rS75py65Yi26Kej6ICm77yM5a2m5Lya5ZCOIDE2LzE2IOe7tOaMgeOAggoKKirlhbHlkIzngrnvvIjov5nmnaHmm7Tph43opoHvvIkqKu+8muS4pOi+ueiDveWQpuiHque7me+8jCoq6YO95Y+W5Yaz5LqO5LiW55WM5piv5ZCm55u45YCa5Zue5bqU5oiR55qE6KGM5YqoKirjgIIKCi0gTGlmZTXvvJrnm7jlgJogMTYvMTbvvIznm7jnu6fkuI3nm7jlgJogMC8xNu+8jOmaj+acuuWPmOW8giAxMS8xNgotIEF2aWRh77ya5Y+q5pyJ6IO95LiO546v5aKD5Y+R55Sf55yf5a6e5Lqk5LqS77yIaW8g5Lu75Yqh77yJ55qE5Liq5L2T5omN6I635b6X6Ieq57uZCgo+IDExMiDpl63njq/jgIExMTMg5a2m55yL44CBMTI2IOaWreWltiDigJTigJQgKirnrKzkupTmrKHlpI3njrDlkIzkuIDmnaEqKuOAggoKLS0tCgojIyDlha3jgIHovrnnlYzvvIjov5nkupvlv4Xpobvor7TvvIzlkKbliJnnu5PorrrkvJrooqvov4fluqbop6Por7vvvIkKCjEuICoq6L+Z5piv5oiR55qE566A5YyWIEF2aWRhIOWunueOsO+8jOS4jeaYr+WumOaWuSBBdmlkYSoq44CC5oyH5Luk6ZuGIDIzIOadoeOAgeelluWFiCAyOCDmnaHjgIHml6AgdG9ydXMg56m66Ze057uT5p6E44CB5peg55yf5a6e56eN576k5Zyw55CG44CCCjIuICoqIuiOt+W+l+iAheS4p+Wksee5geauliLlj6/og73mmK/miJHnmoTlrp7njrDnibnmgKcqKu+8muS7u+WKoeWSjOe5geauluernuS6ieWQjOS4gOadoeWfuuWboOe7hOOAgeWQjOS4gOadoeaJp+ihjOa1geOAguecn+WuniBBdmlkYSDln7rlm6Dnu4Tmm7Tplb/jgIHmnInmm7TlpJrlhpfkvZnvvIzmnKrlv4XlpoLmraTjgIIqKuS4jeiDveaOqOW5v+S4uiLmvJTljJblv4XnhLbpob7mraTlpLHlvbwiKirjgIIKMy4gKirni6znq4voh6rnu5npgJrpgZPmmK/miJHliqDnmoQqKu+8jOmdniBBdmlkYSDljp/nlJ/jgIIKNC4gKirljZXkvY3kuI3lj6/pgJrnuqYqKu+8jOacquWBmuaXtumXtOaViOeOh+WvueavlOOAggo1LiAqKlRpZXJyYSDmnKrlrp7njrAqKu+8jOacrOi9ruWPquWBmuS6hiBBdmlkYSDkuIDkvqfjgIIKNi4g5pys6L2uKirmnKrmjqXlvJXmk47lgZrnu5PmnoTlgY/luqYqKu+8jOS4jeS4u+W8oCLlr7nnhafmlLnlj5jlhoXlnKjnu5PmnoQi44CCCgoqKuaJgOS7peacrOiKgueahOe7k+iuuuS4peagvOmZkOS6ju+8muWcqOacrOWvueeFp+aooeWei+WGhe+8jOS4pOS4quW5s+WPsOWcqOaWreS+m+WNj+iuruS4i+eahOihqOeOsOW3ruW8guOAgioqCgotLS0KCiMjIOS4g+OAgeaIkei/mei9rueahOmUmeivrwoKMS4g56WW5YWI5aSN5Yi25LiN6K6+6Zeo5qebIOKGkiDnqbrlo7PlkI7ku6PvvIjnvLrpmbcgMe+8iQoyLiBgd2hgIOWIneWni+WAvOe7meS6huWFjei0ueWNiOmkkCDihpIgMzgvNDAg5LiiIGBoLWFsbG9jYCDku43og73nuYHmrpbvvIjnvLrpmbcgMu+8iQozLiDmjIkgcmV3YXJkIOaOkuW6j+S/neeVmSDihpIg5aSN5Yi26IO95Yqb54Gt57ud77yM5ryU5YyW5Ya757uT77yI57y66Zm3IDPvvIkKNC4gYGgtY29weWAg55qEIGB3aGAg5YaZ5Yiw5pyr5bC+57uV5ZueIDAg4oaSIGBoLWRpdmlkZWAg6Zeo5qeb6K+v5Yik77yM56WW5YWI5Y+N6ICM5LiN6IO95YiG6KOCCjUuIOiHquajgOaOoumSiOWMuemFjeacque7n+S4gOWkp+Wwj+WGmSDihpIg6K+v5oqlIDQvOe+8iOWunuS4uiAxMy8xM++8jCoq5YaF5a655pys6Lqr5rKh6Zeu6aKY77yM5piv5oiR55qE5qOA5rWL5Luj56CBIGJ1Zyoq77yJCgotLS0KCiMjIOWFq+OAgeS4i+S4gOatpQoKUk9BRE1BUCDov5nmnaHku44g4peLIOaUueS4uiAqKuKXkCoq77yIQXZpZGEg5L6n5a6M5oiQ77yMVGllcnJhIOS+p+acquWBmu+8ieOAggrnnJ/mraPnmoTpl63njq/ov5jlt67vvJoqKueUqOWumOaWuSBBdmlkYSDmiJYgVGllcnJhIOa6kOeggei3keS4gOasoSoq77yM6ICM5LiN5piv5oiR55qE566A5YyW5a6e546w44CCCg==
+# 128 · 外部平台基线对照：Avida（演化） vs 洛神 Life5（学习）
+
+> **为什么做这个**：ROADMAP 里「外部平台基线对比」从 v0.5 起一直标着「当前最大缺口」。
+> 我们自称"会死的引擎"，却从来没跟 Avida / Tierra 这类外部平台真跑过一次同条件对照。
+> **没对照，"我们的结论"就只是"我们的说法"。**
+
+---
+
+## 一、先自曝：我在 Avida 实现里埋了三个架构缺陷
+
+### 缺陷 1：后代是空壳，不是复制品
+
+第一版祖先"11 cycles 就完成复制"。检查后代：**14 个位置只对了 1 个**——它没复制完就分裂了。
+
+这正是 Avida 文献里著名的作弊：**看似分裂，实为空壳**。
+
+修法：加 `copied` 计数 + `h-divide` 门槛（复制不满不许分裂）。
+
+### 缺陷 2：整个种群靠一个"免费午餐"活着
+
+修完门槛后，演化 600 代，**38/40 个体丢掉了 `h-alloc` 却照样繁殖**。
+
+查下去发现不是生物作弊，是**我的 `Bio.__init__` 把 `wh` 初始值设成了 `mem_size//2`，恰好等于子代区域起点**。
+整个世界的复制都建立在这个巧合上——`h-alloc` 根本不是必需的。
+
+修法：`wh = -1`（未分配），只有 `h-alloc` 才能设；`h-copy` 未分配不写。
+修完祖先 115 cycles、保真 1.0，无 `h-alloc` 的阴性对照正确失败。
+
+### 缺陷 3：选择压力放错了地方
+
+第一版按 `reward` 排序保留个体 → 不能复制但碰巧完成任务的被留下，**复制能力灭绝**，births 冻结在 341。
+
+真实 Avida 的选择来自**繁殖速度差异**，不是存活筛选。改成新个体替换随机个体后，演化才跑起来。
+
+---
+
+## 二、对照协议（两边同一套）
+
+| 阶段 | 处理 | Avida 的自给能力 | Life5 的自给能力 |
+|---|---|---|---|
+| 1 供给期 | 给外部供给 | 演化出任务（reward 独立供能） | 从 fg=0 学起 |
+| 2 断供期 | 外部供给 = 0 | 只有完成任务者有能量 | 只有 fg>0 者能活 |
+
+**可比的是无量纲成功率，不是时间**——「代」与「拍」单位不可通约，本节不做时间对比。
+
+### ⚠️ 一处必须说明的模型改动
+
+原始 Avida 的能量是 `slice × reward`——**reward 是配额乘子，不是能量来源**，所以断供（slice=0）后无论 reward 多高都是 0。
+这对 Life5 不公平（Life5 的 fg 是真实的获取效率）。
+
+所以我给 Avida 加了独立自给通道：`budget = slice + (reward−1)×scale`。
+**这个改动是我为了让对照公平而做的，不是 Avida 原生机制。**
+
+---
+
+## 三、结果
+
+### Life5（16 seed）
+
+| 方案 | 学到 fg | 断供存活 |
+|---|---|---|
+| **相倚练习** | **0.15365** | **16/16** |
+| 相继不相倚 | 0.00378 | 0/16 |
+| 只输液不练 | 0.00000 | 0/16 |
+| 随机变异 | 0.02900 | 11/16 |
+
+### Avida（5 seed × 40 个体 = 200）
+
+| seed | 获得自给 | 占比 |
+|---|---|---|
+| 0 | 13/40 | 0.325 |
+| 1 | 2/40 | 0.050 |
+| 2 | 0/40 | 0.000 |
+| 3 | 0/40 | 0.000 |
+| 4 | 1/40 | 0.025 |
+
+**合计 16/200 = 8.0%，seed 间方差极大（0 ~ 32.5%）。**
+
+### 断供后状态分解（关键）
+
+```
+获得自给            16/200
+断供后有能量        16/200      ← 获得者全部有能量
+有自给 且 能繁殖     0/200      ← 零
+有自给 但 已丧失繁殖  16/200      ← 100% 重叠
+断供后新增出生       0
+```
+
+**16 个获得自给能力的 Avida 个体，无一例外全部丧失繁殖能力。**
+
+对照 Life5：学会 fg 后 **16/16 保持存活**。
+
+---
+
+## 四、可证伪对照（四组全过）
+
+| 检验 | 实测 | 预期 |
+|---|---|---|
+| Avida 阴性（mut=0） | 获得任务 **0/40** | 0 ✓ |
+| Avida 阳性（强给任务） | 断供有能量 **40/40** | >0 ✓ |
+| Life5 阴性（fg=0） | 存活 **0/16** | 0 ✓ |
+| Life5 阳性（fg=0.15） | 存活 **15/16** | >0 ✓ |
+
+四组都能同时产生真和假，判据未饱和。
+
+---
+
+## 五、结论与「共同点」
+
+**差异**：Avida 里"获得能量"和"繁殖"由同一条基因组承担，演化顾此失彼——本模型内 **获得自给者 100% 同时丧失繁殖**。
+Life5 里 fg 与存活机制解耦，学会后 16/16 维持。
+
+**共同点（这条更重要）**：两边能否自给，**都取决于世界是否相倚回应我的行动**。
+
+- Life5：相倚 16/16，相继不相倚 0/16，随机变异 11/16
+- Avida：只有能与环境发生真实交互（io 任务）的个体才获得自给
+
+> 112 闭环、113 学看、126 断奶 —— **第五次复现同一条**。
+
+---
+
+## 六、边界（这些必须说，否则结论会被过度解读）
+
+1. **这是我的简化 Avida 实现，不是官方 Avida**。指令集 23 条、祖先 28 条、无 torus 空间结构、无真实种群地理。
+2. **"获得者丧失繁殖"可能是我的实现特性**：任务和繁殖竞争同一条基因组、同一条执行流。真实 Avida 基因组更长、有更多冗余，未必如此。**不能推广为"演化必然顾此失彼"**。
+3. **独立自给通道是我加的**，非 Avida 原生。
+4. **单位不可通约**，未做时间效率对比。
+5. **Tierra 未实现**，本轮只做了 Avida 一侧。
+6. 本轮**未接引擎做结构偏度**，不主张"对照改变内在结构"。
+
+**所以本节的结论严格限于：在本对照模型内，两个平台在断供协议下的表现差异。**
+
+---
+
+## 七、我这轮的错误
+
+1. 祖先复制不设门槛 → 空壳后代（缺陷 1）
+2. `wh` 初始值给了免费午餐 → 38/40 丢 `h-alloc` 仍能繁殖（缺陷 2）
+3. 按 reward 排序保留 → 复制能力灭绝，演化冻结（缺陷 3）
+4. `h-copy` 的 `wh` 写到末尾绕回 0 → `h-divide` 门槛误判，祖先反而不能分裂
+5. 自检探针匹配未统一大小写 → 误报 4/9（实为 13/13，**内容本身没问题，是我的检测代码 bug**）
+
+---
+
+## 八、下一步
+
+ROADMAP 这条从 ○ 改为 **◐**（Avida 侧完成，Tierra 侧未做）。
+真正的闭环还差：**用官方 Avida 或 Tierra 源码跑一次**，而不是我的简化实现。

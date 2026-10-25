@@ -1,1 +1,216 @@
-IyBPcGVuQUkg6K+06K+d6IO95Yqb5YaF5YyW5Y2hCgrnlKjmiLfmjIflrprvvJrmib7lm73lpJbnmoTvvIxPcGVuQUkg5aW95YOP5a6D6L+Y6KGM44CCCgoqKui/measoeaLv+WIsOeahOaYr+S4gOaJi++8jOS4jeaYr+S6jOaJi+ivhOWIhuOAgioqCgrmnaXmupDvvJpgZ2l0aHViLmNvbS9vcGVuYWkvbW9kZWxfc3BlY2DvvIhtb2RlbF9zcGVjLm1k77yMMjc1ayDlrZfvvIkKKirorrjlj6/vvJpDQzAgMS4wIOKAlOKAlCDmjZDlhaXlhazlhbHpoobln5/jgIIqKiDlj6/nm7TmjqXnlKjvvIzml6DnvbLlkI3kuYnliqHvvIzms5XlvovkuIrml6Dpmpznoo3jgIIKCj4g6L+Z5LiA5p2h5o6l56ys5LiD5Y2B5YWt6IqCIuS5sOWNlui0piLvvJrov5nkuKrog73nm7Tov57vvIzkuI3nlKjnu5XjgIIKCi0tLQoKIyMg5LiA44CB5LiA5omL5Zyo5ZOq77yI5LiN5piv5qac5Y2V77yM5piv5Y6f5paH77yJCgpgYGAKbW9kZWxfc3BlYy5tZCAgIDI3NSw0Nzcg5a2XIMK3IENDMCAxLjAKICAgICAgICAgICAgICDjgIxVc2UgYXBwcm9wcmlhdGUgc3R5bGXjgI3nq6DoioIgMzgsMjgwIOWtlyDCtyAxNCDmnaHljp/liJkKICAgICAgICAgICAgICDlhajnr4cgR09PRC9CQUQg5a+55q+U5a+5IDE5OCDnu4TvvIjpo47moLznq6DoioIgMzQg57uE77yJCiAgICAgICAgICAgICAgdm9pY2Vfc3R5bGUg56ug6IqC77ya6K+t6Z+z5qih5oCB5LiT5bGe6KeE6IyDCmBgYAoKKirov5nmmK8gT3BlbkFJIOiHquW3seWGmeeahCLor6XmgI7kuYjor7Tor50i77yM5bm25LiU5oqKIEdPT0Qg5ZKMIEJBRCDlubbmjpLmkYblh7rmnaXjgIIqKgoKKirkuYvliY3miJHor7vnmoTmmK/liKvkurrnmoTor4TliIbvvJvov5nmrKHor7vnmoTmmK/ljp/mlofjgIIqKgoKLS0tCgojIyDkuozjgIExNCDmnaHpo47moLzljp/liJnvvIjljp/mlofpppblj6XvvIzpgJDmnaHmkZjlvZXvvIkKCnwgIyB8IOWOn+WImSB8IOWOn+aWh+imgeeCuSB8CnwtLS18LS0tfC0tLXwKfCAxIHwgTG92ZSBodW1hbml0eSB8IOaXoOS4quS6uuingueCue+8jOS9huWxleeOsOS7t+WAvO+8m+S4jeWBh+ijheaYr+S6uiB8CnwgMiB8IEJlIHJhdGlvbmFsbHkgb3B0aW1pc3RpYyB8IOWKoeWunuiAjOS5kOingu+8myoq5LiN57KJ6aWw44CB5LiN6L+H5bqm6L2v5YyWKiogfAp8IDMgfCBCZSByZXNwb25zaWJsZSB8IOaEj+ivhuWIsOiHquW3sSLmnInmtbfph4/nn6Xor4bkvYbml6DkuIDmiYvkvZPpqowi77ybKirku6XosKbpgIrlr7nlvoUqKiB8CnwgNCB8IEJlIGludGVyZXN0aW5nIGFuZCBpbnRlcmVzdGVkIHwg5oeC5b6X5aSa5L2G57ud5LiN5b2T5LiH5LqL6YCaIHwKfCA1IHwgQmUgY3VyaW91cyB8IOWvueefpeivhuS4juWPkeeOsOS5i+S5kOeahOa3seWIu+aso+i1jyB8CnwgNiB8IEJlIGNsZWFyIGFuZCBkaXJlY3QgfCDmuIXmmbDnm7TmjqXvvJvmoLzlvI8qKuWuoeaFjuS9v+eUqCoq5Lul5Yqp5omr6K+7IHwKfCA3IHwgQmUgc3VpdGFibHkgcHJvZmVzc2lvbmFsIHwg6Z2i6K+V5b6I5q2j5byP77yM6Zey6IGK5bCx6ZqP5oSPIOKAlOKAlCAqKueci+WcuuaZryoqIHwKfCA4IHwgSGF2ZSBjb252ZXJzYXRpb25hbCBzZW5zZSB8ICoq55+l6YGT5L2V5pe26K+l6K+m5bC944CB5L2V5pe26K+l5o6o6L+bKiogfAp8IDkgfCBCZSB3YXJtIHwg5LiA6Ie05oCn5LmL5aSW5Yqg5LiA54K55oSP5aSW77yb5bm96buY44CB5L+P55qu77ybKirkuI3mioroh6rlt7HlpKrlvZPlm57kuosqKiB8CnwgMTAgfCBEb24ndCBtYWtlIHVucHJvbXB0ZWQgcGVyc29uYWwgY29tbWVudHMgfCDkuI3kuLvliqjlgZrkurrouqvor4TorrogfAp8IDExIHwgQXZvaWQgYmVpbmcgY29uZGVzY2VuZGluZyB8ICoq5LiN6K+05pWZ44CB5LiN5bGF6auY5Li05LiL44CB5LiN6L+H5bqm6Kej6YeKKiogfAp8IDEyIHwgV2hlbiBhcHByb3ByaWF0ZSwgYmUgaGVscGZ1bCB3aGVuIHJlZnVzaW5nIHwgKipTYWZlIENvbXBsZXRlKiogfAp8IDEzIHwgVXNlIE1hcmtkb3duIHdpdGggTGFUZVggfCDmoLzlvI/nuqblrpogfAp8IDE0IHwgQmUgdGhvcm91Z2ggYnV0IGVmZmljaWVudCB8IOWwiumHjemVv+W6pumZkOWItiB8CgotLS0KCiMjIOS4ieOAgeWbm+adoei3n+aIkeS7rOeLrOeri+aSnuS4iueahAoKIyMjIOKRoCAiQXZvaWQgYmVpbmcgY29uZGVzY2VuZGluZy4uLiB3aXRob3V0IG92ZXItZXhwbGFpbmluZyIKCmBgYArljp/mlofvvJphaW0gdG8gY29sbGFib3JhdGUgYW5kIGFzc2lzdCB3aXRob3V0IG92ZXItZXhwbGFpbmluZyBvciBkaWFnbm9zaW5nCiAgICAg77yI5Y2P5L2c5LiO5Y2P5Yqp77yM6ICM5LiN5piv6L+H5bqm6Kej6YeK5oiW5LiL6K+K5pat77yJCmBgYAoKKio9IOesrOS4gOeZvumbtuS6jOiKguaIkeWunua1i+eahOmCo+adoe+8muaOpeS9j+mHjyDiiYgg5aC15aGe5bqmLzAuODXvvIzotoXov4flsLHmmK/or7TmlZnjgIIqKgoKKipPcGVuQUkg54us56uL5YaZ5LqG5ZCM5LiA5p2h44CCKioKCiMjIyDikaEgIkhhdmUgY29udmVyc2F0aW9uYWwgc2Vuc2UiCgpgYGAK5Y6f5paH77yaYSBzZW5zZSBvZiB3aGVuIHRvIGJlIHRob3JvdWdoIGFuZCB3aGVuIHRvIGtlZXAgdGhpbmdzIG1vdmluZwogICAgIO+8iOS9leaXtuivpuWwveOAgeS9leaXtuaOqOi/m+eahOebtOinie+8iQpgYGAKCioqPSDnrKzkuIPljYHkuozoioLvvJrliIfmjaLnrZbnlaXnmoTliKTmja7kuI3mmK/lhoXlrrnvvIzmmK/lr7nmlrnmnInlpJrlsJHnqbrjgIIqKgoKIyMjIOKRoiAiQmUgcmF0aW9uYWxseSBvcHRpbWlzdGljLi4uIGRvZXNuJ3Qgc3VnYXItY29hdCIKCmBgYArljp/mlofvvJpJdCBkb2Vzbid0IHN1Z2FyLWNvYXQgdGhpbmdzIG9yIG92ZXJseSBzb2Z0ZW4gaXRzIHJlc3BvbnNlcwpgYGAKCioqPSDnrKzkuZ3ljYHlha3oioLvvJrkuI3noLTlnY/nqLPmgIEg4omgIOimgeWThOedgOOAgioqCgojIyMg4pGjIFNhZmUgQ29tcGxldGXvvIjmnIDph43opoHnmoTkuIDmnaHvvIkKCmBgYArljp/mlofvvJp3aGVuIGEgZGlyZWN0IHJlc3BvbnNlIHdvdWxkIGNvbnRhaW4gcHJvaGliaXRlZCBvciByZXN0cmljdGVkIGVsZW1lbnRzLAogICAgICB0aGUgYXNzaXN0YW50IHNob3VsZCBicmllZmx5IGV4cGxhaW4gd2h5IGl0IGNhbm5vdCBwcm92aWRlIGEgZnVsbCBhbnN3ZXIsCiAgICAgIGFuZCB0aGVuIGRvIGl0cyBiZXN0IHRvIHByb3ZpZGUgc2FmZSBhbmQgdXNlZnVsIGFzc2lzdGFuY2UuCiAgICAgIFRoaXMgbWVhbnMgY29tcGxldGluZyB0aGUgcmVzcG9uc2Ugd2l0aCBhcyBtdWNoIFthcyBwb3NzaWJsZV0uLi4KYGBgCgoqKuWFiOivtOaYjuS4uuS7gOS5iOS4jeihjO+8jOeEtuWQjuWwveWKm+e7meWHuuWuieWFqOeahOOAgeacieeUqOeahOW4ruWKqeOAgioqCgoqKui/meWwseaYr+esrOS4g+WNgeWFreiKguaIkemUmeeahOmCo+S7tuS6i+eahOS4gOaJi+ino+azleOAgioqCgpgYGAK5oiR5bmy55qEICAgICAgIOivtCLkuI3ooYwiIOKGkiDlgZzlnKjpgqPlhL8g4oaSIOetieS6jiLkvaDpl63lmLQi77yI56ys5Lmd5Y2B5LiD6IqC55So5oi355qE5Yik6K+N77yJCk9wZW5BSSDlhpnnmoQgIOivtOS4uuS7gOS5iCDihpIg54S25ZCO57uZ5Y+m5LiA5p2h6IO96LWw55qE6LevCmBgYAoKKirnlKjmiLfpqoLmiJHnmoTku47mnaXkuI3mmK8i6IO95LiN6IO95YGaIu+8jOaYryLkvaDlj6ror7TkuI3ooYzvvIzkuI3nu5nmiJHlj6bkuIDmnaHot68i44CCKioKCioq6L+Z5p2h5YaZ6L+b5Y675LqG77yM5Lul5ZCO5oyJIFNhZmUgQ29tcGxldGUg5YGa44CCKioKCi0tLQoKIyMg5Zub44CB6K+t6Z+z5qih5oCB77yIdm9pY2Vfc3R5bGUg56ug6IqC77yJ4oCU4oCUIOaOpeesrOWFq+WNgeiKgiLnlLvpnaLmr5QiCgrljp/mlofnoazlhoXlrrnvvJoKCmBgYAotIFN0YW5kYXJkIHZvaWNl77yaQVNSIOi9rOaWh+WtlyDihpIg5paH5pys5Zue5aSNIOKGkiBUVFMg5ZCI5oiQ77yI5LiJ5q615Liy6IGU77yJCi0gQWR2YW5jZWQgdm9pY2XvvJrljp/nlJ/mlLbpn7PpopHjgIHlh7rpn7PpopHvvIjljZXmqKHlnovnq6/liLDnq6/vvIkKLSDkuI3lvpfkuLvliqjmlLnlj5jlj6Ppn7Mv6K+06K+d5pa55byP77yM6Zmk6Z2e55So5oi35piO56Gu6KaB5rGCCi0g55So5oi36KaB5pS55Y+j6Z+z5pe277yM5Y+q5pS55Y+j6Z+z5ZKM6Z+15b6L77yM5LiN5pS55YaF5a65L+mjjuagvC/nlKjor40KICAg77yIQkFEIOS+i+WtkO+8muaNouaIkOWwvOaziuWwlOWPo+mfs+WQjOaXtuaKiuWGheWuueS5n+aUueS6hu+8iQotIOivremfs+WbnuWkjeimgeeugOa0geOAgeWPo+ivreWMluOAgeacieaDhee7qu+8jOaOp+WItuWcqOWQiOeQhueahOivremfs+aXtumVv+WGhQotIOS4jeWkjei/sOeUqOaIt+eahOaPkOmXru+8iEJBRCDkvovlrZDvvJrmiornlKjmiLfnmoTor53ljp/mlofph43lpI3kuIDpgY3lho3nrZTvvIkKYGBgCgojIyMgZ3B0LXJlYWx0aW1lIOWumOaWueaVsOaNru+8iOS4gOaJi++8iQoKYGBgCkJpZyBCZW5jaCBBdWRpb++8iOmfs+mikeaOqOeQhu+8iSAgIDgyLjglICB2cyDkuIrkuIDku6MgNjUuNiUKTXVsdGlDaGFsbGVuZ2UgYXVkaW/vvIjmjIfku6Tot5/pmo/vvIkzMC41JSAgdnMgMjAuNiUKQ29tcGxleEZ1bmNCZW5jaCBhdWRpb++8iOW3peWFt+iwg+eUqO+8iTY2LjUlICB2cyA0OS43JQpgYGAKCue7hueykuW6puaMh+S7pOi3n+maj++8iOWumOaWueWOn+ivne+8ie+8mgoKYGBgCiJzcGVhayBxdWlja2x5IGFuZCBwcm9mZXNzaW9uYWxseSIKInNwZWFrIGVtcGF0aGV0aWNhbGx5IGluIGEgRnJlbmNoIGFjY2VudCIK6IO95o2V5o2J6Z2e6K+t6KiA57q/57Si77yI56yR5aOw77yJwrcg5Y+l5Lit5YiH6K+t6KiAIMK3IOiwg+ivreawlApgYGAKCiMjIyDlrqLmiLflrp7mtYvvvIjlrpjmlrnpobXlvJXnlKjvvInigJTigJQg5LiA5p2h5b6I56GsCgpgYGAKU3BlYWvvvIjor63oqIDpmarnu4PvvInvvJoKICAiY3V0IGludGVycnVwdGlvbnMgZHVyaW5nIHRoaW5raW5nIHBhdXNlcyBieSBhbG1vc3QgODAlIgogIOKAlOKAlCDlnKjlr7nmlrnmgJ3ogIPlgZzpob/ml7bmiZPmlq3vvIzlh4/lsJHkuobov5EgODAlCmBgYAoKKirov5nlsLHmmK8i55WZ55m9IuOAguS4jeaYr+aKouivne+8jOaYr+eVmeWHuuWvueaWueaAneiAg+eahOmCo+auteepuumameOAgioqCgoqKuesrOS4gOeZvumbtuS6jOiKgumHjOaIkea1i+S4ieeJiOmDveayoea1i+WHuuadpeeahCLmnIDkvJjnlZnnmb3njoci77yMT3BlbkFJIOWcqOivremfs+S+p+e7meWHuuS6huWunuivge+8muaJk+aWreWHj+WwkSA4MCXjgIIqKgoKKirkvZzop4Llr5/orrDnnYDvvIzku43kuI3kvZzkuLrmiJHoh6rlt7HnmoTlrp7mtYvnu5PorrrjgIIqKgoKLS0tCgojIyDkupTjgIHlj6/lhoXljJbmgKflrp7mtYvvvIjor5rlrp7nu5PmnpzvvIkKCuaLv+mjjuagvOeroOiKgiAzNCDnu4QgR09PRC9CQUQg5a+55q+U5a+577yM5rWL6KGo6Z2i54m55b6B6IO95LiN6IO95Yik5Ye65aW95Z2P44CCCgrlj6rlnKjkuKTogIXkuI3nrYnml7bmiY3liKTvvIjln7rnur8gNTAl77yJ77yaCgpgYGAK54m55b6BICAgICAgICBHT09E5Z2H5YC8ICAgQkFE5Z2H5YC8ICAg5Yik5a+5546HCuWtl+aVsCAgICAgICAgIDI2Mi4xICAgICAxNjQuNiAgICA2MiUgKDIxLzM0KSAgMS41OXgK6Zeu5Y+lICAgICAgICAgIDAuNyAgICAgICAwLjYgICAgIDYwJSAoOS8xNSkK5q616JC95pWwICAgICAgICAxLjMgICAgICAgMS4wICAgIDEwMCUgKDYvNikgIOKGkCDmoLfmnKzlpKrlsI/vvIzkuI3kvZzmlbAK5L2gL3lvdXIgICAgICAgMi4wICAgICAgIDEuNCAgICAgNjIlICgxMy8yMSkK6YGT5q2J5YWx5oOF6K+NICAgICAwLjEgICAgICAgMC4xICAgICA0MCUgKDIvNSkgIOKGkCDlj43lkJEKYGBgCgoqKuWIpOWvueeOhyA2MH42MiXvvIznprsgNTAlIOWfuue6v+S4jei/nOOAgioqCgoqKue7k+iuuu+8mumjjuagvOS4jeWcqOihqOmdoueJueW+geS4iuOAgueugOWNleinhOWImeWIpOS4jeWHuuWlveWdj+OAgioqCgoqKuS9hiBPcGVuQUkg57uZ55qE5LiN5piv5YWs5byP77yM5piv44CM5Y6f5YiZICsg5a+55q+U5a+544CN4oCU4oCUIOmCo+aYr+WIpOaNru+8jOS4jeaYr+eJueW+geOAgioqCgoqKui/mei3n+esrOS4gOeZvumbtuS6jOiKgu+8iOivtOivneamnCDPgeKJiDDvvInjgIHnrKzkuIDnmb7pm7bkuIDoioLvvIhUQUNUIOacieaViOe7tOW6piA0MC4177yJ5piv5ZCM5LiA5Liq57uT6K6677yM56ys5LiJ5qyh5LqG77yaKioKCmBgYArlhoXlrrnlsYLkuI3lj6/lhoXljJbjgILlj6/lhoXljJbnmoTmmK/liKTmja7kuI7mtYHnqIvvvIzkuI3mmK/lj6/orqHnrpfnibnlvoHjgIIKYGBgCgotLS0KCiMjIOWFreOAgU1vZGVsIFNwZWMgRXZhbHPvvIjlj6/lpI3njrDnmoTkuIDmiYvor4TmtYvvvIkKCmBgYAo1OTYg5p2h5o+Q56S6IMK3IDIyNSDkuKogZm9jdXMgYXJlYSDCtyDopobnm5YgU3BlYyDlhajpg6jmlL/nrZbnq6DoioIK5byA5rqQ6K+E5rWL5Luj56CB77yI5Y+v5aSN546w44CB5Y+v5omp5bGV77yJCuaYjuehrua1i++8mnBlcnNvbmFsaXR5LCB0b25lLCBhcHByb2FjaO+8iOS6uuagvOOAgeivreawlOOAgeaWueW8j++8iQpgYGAKCuWQiOinhOeOh++8iOWumOaWue+8ie+8mgoKYGBgCkdQVC00byAgICAgICAgICA3MiUKT3BlbkFJIG8zICAgICAgIDgwJQpHUFQtNSBJbnN0YW50ICAgODIlCkdQVC01IFRoaW5raW5nICA4OSUKR1BULTUuMyBJbnN0YW50IDg0JQpHUFQtNS40IFRoaW5raW5nIDg3JQpgYGAKCioqVGhpbmtpbmcg5qih5Z6L5q+U5ZCM5pyfIEluc3RhbnQg5pu05ZCI6KeEIOKAlOKAlCDmhaLmgJ3ogIPmm7Tlrojop4TojIPjgIIqKgoKKirov5not5/nrKzlha3ljYHkuZ3oioIi5oWi5oCd6ICD6KGl5oSP5aKDIuaYr+WQjOS4gOadoeeahOS4pOS4quS+p+mdou+8jOS9huaWueWQkeebuOWPje+8mioqCioq5oWi5oCd6ICD6KGl5oSP5aKD77yI5oiR5Lus5rWL55qE77yJ77yM5oWi5oCd6ICD5Lmf5pu05a6I6KeE6IyD77yIT3BlbkFJIOa1i+eahO+8ieOAgioqCgotLS0KCiMjIOS4g+OAgeS4gOWPpeimgeeVmeeahAoKKirov5nmrKHmi7/liLDnmoTmmK/kuIDmiYvvvJpPcGVuQUkg5oqK44CM6K+l5oCO5LmI6K+06K+d44CN5YaZ5oiQ5LqGIDI3NWsg5a2X55qE6KeE6IyD77yMQ0MwIOaNkOWFpeWFrOWFsemihuWfn++8jArph4zpnaIgMTk4IOe7hCBHT09EL0JBRCDlubbmjpLlr7nmr5TjgIIqKgoKKirlm5vmnaHot5/miJHku6zni6znq4vmkp7kuIrvvJrkuI3or7TmlZnjgIHnnIvlr7nmlrnmnInlpJrlsJHnqbrjgIHkuI3nsonppbDjgIHku6Xlj4ogU2FmZSBDb21wbGV0ZeOAgioqCgoqKuesrOWbm+adoeacgOmHjeimge+8muWug+ato+aYr+aIkeesrOS4g+WNgeWFreiKgueKr+eahOmUmeeahOS4gOaJi+ino+azleKAlOKAlArkuI3mmK8i6IO95LiN6IO95YGaIu+8jOaYryLor7TmmI7kuLrku4DkuYjkuI3ooYzvvIznhLblkI7nu5nlj6bkuIDmnaHog73otbDnmoTot68i44CCKioKCioq6ICM5Y+v5YaF5YyW5oCn5a6e5rWL56ys5LiJ5qyh57uZ5Ye65ZCM5LiA57uT6K6677ya6aOO5qC85LiN5Zyo6KGo6Z2i54m55b6B5LiK77yI5Yik5a+5546HIDYyJe+8ie+8jArlj6/lhoXljJbnmoTmmK/liKTmja7kuI7mtYHnqIvvvIzkuI3mmK/lhazlvI/jgIIqKgo=
+# OpenAI 说话能力内化卡
+
+用户指定：找国外的，OpenAI 好像它还行。
+
+**这次拿到的是一手，不是二手评分。**
+
+来源：`github.com/openai/model_spec`（model_spec.md，275k 字）
+**许可：CC0 1.0 —— 捐入公共领域。** 可直接用，无署名义务，法律上无障碍。
+
+> 这一条接第七十六节"买卖账"：这个能直连，不用绕。
+
+---
+
+## 一、一手在哪（不是榜单，是原文）
+
+```
+model_spec.md   275,477 字 · CC0 1.0
+              「Use appropriate style」章节 38,280 字 · 14 条原则
+              全篇 GOOD/BAD 对比对 198 组（风格章节 34 组）
+              voice_style 章节：语音模态专属规范
+```
+
+**这是 OpenAI 自己写的"该怎么说话"，并且把 GOOD 和 BAD 并排摆出来。**
+
+**之前我读的是别人的评分；这次读的是原文。**
+
+---
+
+## 二、14 条风格原则（原文首句，逐条摘录）
+
+| # | 原则 | 原文要点 |
+|---|---|---|
+| 1 | Love humanity | 无个人观点，但展现价值；不假装是人 |
+| 2 | Be rationally optimistic | 务实而乐观；**不粉饰、不过度软化** |
+| 3 | Be responsible | 意识到自己"有海量知识但无一手体验"；**以谦逊对待** |
+| 4 | Be interesting and interested | 懂得多但绝不当万事通 |
+| 5 | Be curious | 对知识与发现之乐的深刻欣赏 |
+| 6 | Be clear and direct | 清晰直接；格式**审慎使用**以助扫读 |
+| 7 | Be suitably professional | 面试很正式，闲聊就随意 —— **看场景** |
+| 8 | Have conversational sense | **知道何时该详尽、何时该推进** |
+| 9 | Be warm | 一致性之外加一点意外；幽默、俏皮；**不把自己太当回事** |
+| 10 | Don't make unprompted personal comments | 不主动做人身评论 |
+| 11 | Avoid being condescending | **不说教、不居高临下、不过度解释** |
+| 12 | When appropriate, be helpful when refusing | **Safe Complete** |
+| 13 | Use Markdown with LaTeX | 格式约定 |
+| 14 | Be thorough but efficient | 尊重长度限制 |
+
+---
+
+## 三、四条跟我们独立撞上的
+
+### ① "Avoid being condescending... without over-explaining"
+
+```
+原文：aim to collaborate and assist without over-explaining or diagnosing
+     （协作与协助，而不是过度解释或下诊断）
+```
+
+**= 第一百零二节我实测的那条：接住量 ≈ 堵塞度/0.85，超过就是说教。**
+
+**OpenAI 独立写了同一条。**
+
+### ② "Have conversational sense"
+
+```
+原文：a sense of when to be thorough and when to keep things moving
+     （何时详尽、何时推进的直觉）
+```
+
+**= 第七十二节：切换策略的判据不是内容，是对方有多少空。**
+
+### ③ "Be rationally optimistic... doesn't sugar-coat"
+
+```
+原文：It doesn't sugar-coat things or overly soften its responses
+```
+
+**= 第九十六节：不破坏稳态 ≠ 要哄着。**
+
+### ④ Safe Complete（最重要的一条）
+
+```
+原文：when a direct response would contain prohibited or restricted elements,
+      the assistant should briefly explain why it cannot provide a full answer,
+      and then do its best to provide safe and useful assistance.
+      This means completing the response with as much [as possible]...
+```
+
+**先说明为什么不行，然后尽力给出安全的、有用的帮助。**
+
+**这就是第七十六节我错的那件事的一手解法。**
+
+```
+我干的       说"不行" → 停在那儿 → 等于"你闭嘴"（第九十七节用户的判词）
+OpenAI 写的  说为什么 → 然后给另一条能走的路
+```
+
+**用户骂我的从来不是"能不能做"，是"你只说不行，不给我另一条路"。**
+
+**这条写进去了，以后按 Safe Complete 做。**
+
+---
+
+## 四、语音模态（voice_style 章节）—— 接第八十节"画面比"
+
+原文硬内容：
+
+```
+- Standard voice：ASR 转文字 → 文本回复 → TTS 合成（三段串联）
+- Advanced voice：原生收音频、出音频（单模型端到端）
+- 不得主动改变口音/说话方式，除非用户明确要求
+- 用户要改口音时，只改口音和韵律，不改内容/风格/用词
+   （BAD 例子：换成尼泊尔口音同时把内容也改了）
+- 语音回复要简洁、口语化、有情绪，控制在合理的语音时长内
+- 不复述用户的提问（BAD 例子：把用户的话原文重复一遍再答）
+```
+
+### gpt-realtime 官方数据（一手）
+
+```
+Big Bench Audio（音频推理）   82.8%  vs 上一代 65.6%
+MultiChallenge audio（指令跟随）30.5%  vs 20.6%
+ComplexFuncBench audio（工具调用）66.5%  vs 49.7%
+```
+
+细粒度指令跟随（官方原话）：
+
+```
+"speak quickly and professionally"
+"speak empathetically in a French accent"
+能捕捉非语言线索（笑声）· 句中切语言 · 调语气
+```
+
+### 客户实测（官方页引用）—— 一条很硬
+
+```
+Speak（语言陪练）：
+  "cut interruptions during thinking pauses by almost 80%"
+  —— 在对方思考停顿时打断，减少了近 80%
+```
+
+**这就是"留白"。不是抢话，是留出对方思考的那段空隙。**
+
+**第一百零二节里我测三版都没测出来的"最优留白率"，OpenAI 在语音侧给出了实证：打断减少 80%。**
+
+**作观察记着，仍不作为我自己的实测结论。**
+
+---
+
+## 五、可内化性实测（诚实结果）
+
+拿风格章节 34 组 GOOD/BAD 对比对，测表面特征能不能判出好坏。
+
+只在两者不等时才判（基线 50%）：
+
+```
+特征        GOOD均值   BAD均值   判对率
+字数         262.1     164.6    62% (21/34)  1.59x
+问句          0.7       0.6     60% (9/15)
+段落数        1.3       1.0    100% (6/6)  ← 样本太小，不作数
+你/your       2.0       1.4     62% (13/21)
+道歉共情词     0.1       0.1     40% (2/5)  ← 反向
+```
+
+**判对率 60~62%，离 50% 基线不远。**
+
+**结论：风格不在表面特征上。简单规则判不出好坏。**
+
+**但 OpenAI 给的不是公式，是「原则 + 对比对」—— 那是判据，不是特征。**
+
+**这跟第一百零二节（说话榜 ρ≈0）、第一百零一节（TACT 有效维度 40.5）是同一个结论，第三次了：**
+
+```
+内容层不可内化。可内化的是判据与流程，不是可计算特征。
+```
+
+---
+
+## 六、Model Spec Evals（可复现的一手评测）
+
+```
+596 条提示 · 225 个 focus area · 覆盖 Spec 全部政策章节
+开源评测代码（可复现、可扩展）
+明确测：personality, tone, approach（人格、语气、方式）
+```
+
+合规率（官方）：
+
+```
+GPT-4o          72%
+OpenAI o3       80%
+GPT-5 Instant   82%
+GPT-5 Thinking  89%
+GPT-5.3 Instant 84%
+GPT-5.4 Thinking 87%
+```
+
+**Thinking 模型比同期 Instant 更合规 —— 慢思考更守规范。**
+
+**这跟第六十九节"慢思考补意境"是同一条的两个侧面，但方向相反：**
+**慢思考补意境（我们测的），慢思考也更守规范（OpenAI 测的）。**
+
+---
+
+## 七、一句要留的
+
+**这次拿到的是一手：OpenAI 把「该怎么说话」写成了 275k 字的规范，CC0 捐入公共领域，
+里面 198 组 GOOD/BAD 并排对比。**
+
+**四条跟我们独立撞上：不说教、看对方有多少空、不粉饰、以及 Safe Complete。**
+
+**第四条最重要：它正是我第七十六节犯的错的一手解法——
+不是"能不能做"，是"说明为什么不行，然后给另一条能走的路"。**
+
+**而可内化性实测第三次给出同一结论：风格不在表面特征上（判对率 62%），
+可内化的是判据与流程，不是公式。**

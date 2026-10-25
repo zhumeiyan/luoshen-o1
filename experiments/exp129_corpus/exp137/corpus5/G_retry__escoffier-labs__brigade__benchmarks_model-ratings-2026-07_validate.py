@@ -1,1 +1,326 @@
-ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmltcG9ydCBzeXMKZnJvbSBkZWNpbWFsIGltcG9ydCBEZWNpbWFsLCBST1VORF9IQUxGX1VQCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgQW55CgoKQkVOQ0hNQVJLX0RJUiA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQKUk9PVCA9IEJFTkNITUFSS19ESVIucGFyZW50c1sxXQpzeXMucGF0aC5pbnNlcnQoMCwgc3RyKFJPT1QgLyAic3JjIikpCgpORVdfTU9ERUxTID0gewogICAgIm9wZW5jb2RlLWdvL2tpbWktazMiLAogICAgIm9wZW5jb2RlLWdvL2dsbS01LjIiLAogICAgIm9wZW5jb2RlLWdvL2RlZXBzZWVrLXY0LXBybyIsCiAgICAib3BlbmNvZGUtZ28vcXdlbjMuNy1tYXgiLAogICAgIm9wZW5jb2RlLWdvL2tpbWktazIuNy1jb2RlIiwKfQpFQVJMSUVSX01PREVMUyA9IHsKICAgICJvcGVuY29kZS1nby9taW5pbWF4LW0zIiwKICAgICJvcGVuY29kZS1nby9xd2VuMy43LXBsdXMiLAogICAgIm9wZW5jb2RlLWdvL2RlZXBzZWVrLXY0LWZsYXNoIiwKICAgICJvcGVuY29kZS1nby9taW1vLXYyLjUiLAp9CkNBVEFMT0dfTU9ERUxTID0gewogICAgIm9wZW5jb2RlLWdvL2RlZXBzZWVrLXY0LWZsYXNoIiwKICAgICJvcGVuY29kZS1nby9kZWVwc2Vlay12NC1wcm8iLAogICAgIm9wZW5jb2RlLWdvL2dsbS01LjEiLAogICAgIm9wZW5jb2RlLWdvL2dsbS01LjIiLAogICAgIm9wZW5jb2RlLWdvL2dyb2stNC41IiwKICAgICJvcGVuY29kZS1nby9oeTMiLAogICAgIm9wZW5jb2RlLWdvL2tpbWktazIuNiIsCiAgICAib3BlbmNvZGUtZ28va2ltaS1rMi43LWNvZGUiLAogICAgIm9wZW5jb2RlLWdvL2tpbWktazMiLAogICAgIm9wZW5jb2RlLWdvL21pbW8tdjIuNSIsCiAgICAib3BlbmNvZGUtZ28vbWltby12Mi41LXBybyIsCiAgICAib3BlbmNvZGUtZ28vbWluaW1heC1tMi43IiwKICAgICJvcGVuY29kZS1nby9taW5pbWF4LW0zIiwKICAgICJvcGVuY29kZS1nby9xd2VuMy42LXBsdXMiLAogICAgIm9wZW5jb2RlLWdvL3F3ZW4zLjctbWF4IiwKICAgICJvcGVuY29kZS1nby9xd2VuMy43LXBsdXMiLAp9CkFMTF9UQVNLUyA9IHsicm91dGluZSIsICJjb250cmFjdF9kcmlmdCIsICJzZWN1cml0eV9yZXZpZXcifQpFQVJMSUVSX1RBU0tTID0geyJyb3V0aW5lIiwgImNvbnRyYWN0X2RyaWZ0In0KVEFTS19GSU5ESU5HUyA9IHsicm91dGluZSI6IDEsICJjb250cmFjdF9kcmlmdCI6IDIsICJzZWN1cml0eV9yZXZpZXciOiAyfQpORVdfUkFOS0lORyA9IFsKICAgICJvcGVuY29kZS1nby9nbG0tNS4yIiwKICAgICJvcGVuY29kZS1nby9raW1pLWszIiwKICAgICJvcGVuY29kZS1nby9raW1pLWsyLjctY29kZSIsCiAgICAib3BlbmNvZGUtZ28vZGVlcHNlZWstdjQtcHJvIiwKICAgICJvcGVuY29kZS1nby9xd2VuMy43LW1heCIsCl0KRUFSTElFUl9SQU5LSU5HID0gWwogICAgIm9wZW5jb2RlLWdvL21pbmltYXgtbTMiLAogICAgIm9wZW5jb2RlLWdvL3F3ZW4zLjctcGx1cyIsCiAgICAib3BlbmNvZGUtZ28vZGVlcHNlZWstdjQtZmxhc2giLAogICAgIm9wZW5jb2RlLWdvL21pbW8tdjIuNSIsCl0KCgpkZWYgcmVxdWlyZShjb25kaXRpb246IGJvb2wsIG1lc3NhZ2U6IHN0cikgLT4gTm9uZToKICAgIGlmIG5vdCBjb25kaXRpb246CiAgICAgICAgcmFpc2UgQXNzZXJ0aW9uRXJyb3IobWVzc2FnZSkKCgpkZWYgbG9hZF9qc29uKHBhdGg6IFBhdGgpIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgZGF0YSA9IGpzb24ubG9hZHMocGF0aC5yZWFkX3RleHQoKSkKICAgIHJlcXVpcmUoaXNpbnN0YW5jZShkYXRhLCBkaWN0KSwgZiJ7cGF0aH06IGV4cGVjdGVkIGEgSlNPTiBvYmplY3QiKQogICAgcmV0dXJuIGRhdGEKCgpkZWYgdmFsaWRhdGVfc2NoZW1hKGRhdGE6IGRpY3Rbc3RyLCBBbnldLCBzY2hlbWE6IGRpY3Rbc3RyLCBBbnldKSAtPiBzdHI6CiAgICB0cnk6CiAgICAgICAgaW1wb3J0IGpzb25zY2hlbWEKICAgIGV4Y2VwdCBNb2R1bGVOb3RGb3VuZEVycm9yOgogICAgICAgIHJldHVybiAianNvbnNjaGVtYSBwYWNrYWdlIHVuYXZhaWxhYmxlOyBzeW50YXggYW5kIHNlbWFudGljIGNoZWNrcyBvbmx5IgogICAganNvbnNjaGVtYS5EcmFmdDIwMjAxMlZhbGlkYXRvci5jaGVja19zY2hlbWEoc2NoZW1hKQogICAganNvbnNjaGVtYS52YWxpZGF0ZShkYXRhLCBzY2hlbWEpCiAgICByZXR1cm4gIkRyYWZ0IDIwMjAtMTIgc2NoZW1hIGFuZCBpbnN0YW5jZSB2YWxpZCIKCgpkZWYgdmFsaWRhdGVfbW9kZWxzKGRhdGE6IGRpY3Rbc3RyLCBBbnldKSAtPiBOb25lOgogICAgbW9kZWxzID0ge21vZGVsWyJtb2RlbF9pZCJdOiBtb2RlbCBmb3IgbW9kZWwgaW4gZGF0YVsibW9kZWxzIl19CiAgICByZXF1aXJlKGxlbihkYXRhWyJtb2RlbHMiXSkgPT0gOSwgImV4cGVjdGVkIGV4YWN0bHkgbmluZSBtb2RlbCByZWNvcmRzIikKICAgIHJlcXVpcmUobGVuKG1vZGVscykgPT0gOSwgImR1cGxpY2F0ZSBtb2RlbCBJRHMiKQogICAgcmVxdWlyZSgKICAgICAgICBzdW0obGVuKG1vZGVsWyJjZWxscyJdKSBmb3IgbW9kZWwgaW4gZGF0YVsibW9kZWxzIl0pID09IDIzLAogICAgICAgICJleHBlY3RlZCBleGFjdGx5IDIzIHRhc2svbW9kZWwgY2VsbHMiLAogICAgKQogICAgcmVxdWlyZShzZXQobW9kZWxzKSA9PSBORVdfTU9ERUxTIHwgRUFSTElFUl9NT0RFTFMsICJ1bmV4cGVjdGVkIG1vZGVsIHNldCIpCiAgICBjYXRhbG9nX2lkcyA9IGRhdGFbImNhdGFsb2dfZGlzY292ZXJ5Il1bInN1YnNjcmlwdGlvbl9tb2RlbF9pZHMiXQogICAgcmVxdWlyZSgKICAgICAgICBsZW4oY2F0YWxvZ19pZHMpID09IDE2IGFuZCBzZXQoY2F0YWxvZ19pZHMpID09IENBVEFMT0dfTU9ERUxTLAogICAgICAgICJzdWJzY3JpcHRpb24gY2F0YWxvZyBkb2VzIG5vdCBtYXRjaCBkaXNjb3ZlcnkiLAogICAgKQogICAgdGFza19maW5kaW5ncyA9IHt0YXNrWyJpZCJdOiB0YXNrWyJleHBlY3RlZF9maW5kaW5ncyJdIGZvciB0YXNrIGluIGRhdGFbInRhc2tzIl19CiAgICByZXF1aXJlKHRhc2tfZmluZGluZ3MgPT0gVEFTS19GSU5ESU5HUywgInRhc2sgZmluZGluZyB0b3RhbHMgbWlzbWF0Y2giKQoKICAgIGZvciBtb2RlbF9pZCwgbW9kZWwgaW4gbW9kZWxzLml0ZW1zKCk6CiAgICAgICAgZXhwZWN0ZWRfdGFza3MgPSBBTExfVEFTS1MgaWYgbW9kZWxfaWQgaW4gTkVXX01PREVMUyBlbHNlIEVBUkxJRVJfVEFTS1MKICAgICAgICBjZWxscyA9IG1vZGVsWyJjZWxscyJdCiAgICAgICAgcmVxdWlyZSgKICAgICAgICAgICAge2NlbGxbInRhc2siXSBmb3IgY2VsbCBpbiBjZWxsc30gPT0gZXhwZWN0ZWRfdGFza3MsCiAgICAgICAgICAgIGYie21vZGVsX2lkfTogdGFzayBjb3ZlcmFnZSBtaXNtYXRjaCIsCiAgICAgICAgKQogICAgICAgIHJlcXVpcmUoCiAgICAgICAgICAgIGFsbChjZWxsWyJyZXF1ZXN0ZWRfbW9kZWwiXSA9PSBtb2RlbF9pZCBmb3IgY2VsbCBpbiBjZWxscyksCiAgICAgICAgICAgIGYie21vZGVsX2lkfTogcmVxdWVzdGVkIG1vZGVsIG1pc21hdGNoIiwKICAgICAgICApCiAgICAgICAgcmVxdWlyZSgKICAgICAgICAgICAgYWxsKGNlbGxbInJlc29sdmVkX21vZGVsIl0gPT0gbW9kZWxfaWQgZm9yIGNlbGwgaW4gY2VsbHMpLAogICAgICAgICAgICBmInttb2RlbF9pZH06IHJlc29sdmVkIG1vZGVsIG1pc21hdGNoIiwKICAgICAgICApCiAgICAgICAgcmVxdWlyZSgKICAgICAgICAgICAgYWxsKGNlbGxbInRyYW5zcG9ydCJdID09ICJjbGkiIGZvciBjZWxsIGluIGNlbGxzKSwKICAgICAgICAgICAgZiJ7bW9kZWxfaWR9OiBub24tQ0xJIHRyYW5zcG9ydCIsCiAgICAgICAgKQogICAgICAgIHJlcXVpcmUoCiAgICAgICAgICAgIG5vdCBhbnkoY2VsbFsiZmFsbGJhY2tfdXNlZCJdIGZvciBjZWxsIGluIGNlbGxzKSwKICAgICAgICAgICAgZiJ7bW9kZWxfaWR9OiBmYWxsYmFjayByZWNvcmRlZCIsCiAgICAgICAgKQogICAgICAgIHJlcXVpcmUoCiAgICAgICAgICAgIGFsbChjZWxsWyJleGl0X2NvZGUiXSA9PSAwIGFuZCBub3QgY2VsbFsidGltZWRfb3V0Il0gZm9yIGNlbGwgaW4gY2VsbHMpLAogICAgICAgICAgICBmInttb2RlbF9pZH06IHVuc3VjY2Vzc2Z1bCBwcm9jZXNzIiwKICAgICAgICApCiAgICAgICAgcmVxdWlyZSgKICAgICAgICAgICAgYWxsKGNlbGxbImNoYW5nZWRfZmlsZV9jb3VudCJdID09IDAgZm9yIGNlbGwgaW4gY2VsbHMpLAogICAgICAgICAgICBmInttb2RlbF9pZH06IGNoYW5nZWQgZmlsZXMgcmVjb3JkZWQiLAogICAgICAgICkKICAgICAgICByZXF1aXJlKAogICAgICAgICAgICBub3QgYW55KGNlbGxbInVzYWdlIl1bImV4cG9zZWQiXSBmb3IgY2VsbCBpbiBjZWxscyksCiAgICAgICAgICAgIGYie21vZGVsX2lkfTogdW5leHBlY3RlZCB1c2FnZSBleHBvc3VyZSIsCiAgICAgICAgKQogICAgICAgIHJlcXVpcmUoCiAgICAgICAgICAgIGFsbCgKICAgICAgICAgICAgICAgIGNlbGxbImV4cGVjdGVkX2ZpbmRpbmdzX3RvdGFsIl0gPT0gVEFTS19GSU5ESU5HU1tjZWxsWyJ0YXNrIl1dCiAgICAgICAgICAgICAgICBhbmQgY2VsbFsiZXhwZWN0ZWRfZmluZGluZ3NfZm91bmQiXSA8PSBjZWxsWyJleHBlY3RlZF9maW5kaW5nc190b3RhbCJdCiAgICAgICAgICAgICAgICBmb3IgY2VsbCBpbiBjZWxscwogICAgICAgICAgICApLAogICAgICAgICAgICBmInttb2RlbF9pZH06IGltcG9zc2libGUgb3IgdGFzay1pbmNvbnNpc3RlbnQgZmluZGluZyByZWNhbGwiLAogICAgICAgICkKCiAgICAgICAgc3VtbWFyeSA9IG1vZGVsWyJzdW1tYXJ5Il0KICAgICAgICByZXF1aXJlKHN1bW1hcnlbImNlbGxzIl0gPT0gbGVuKGNlbGxzKSwgZiJ7bW9kZWxfaWR9OiBjZWxsIGNvdW50IG1pc21hdGNoIikKICAgICAgICBzdW1zID0gewogICAgICAgICAgICAiZXhwZWN0ZWRfZmluZGluZ3NfZm91bmQiOiBzdW0oY2VsbFsiZXhwZWN0ZWRfZmluZGluZ3NfZm91bmQiXSBmb3IgY2VsbCBpbiBjZWxscyksCiAgICAgICAgICAgICJleHBlY3RlZF9maW5kaW5nc190b3RhbCI6IHN1bShjZWxsWyJleHBlY3RlZF9maW5kaW5nc190b3RhbCJdIGZvciBjZWxsIGluIGNlbGxzKSwKICAgICAgICAgICAgIm91dHB1dF9jb250cmFjdF9wYXNzZXMiOiBzdW0oY2VsbFsib3V0cHV0X2NvbnRyYWN0X3ZhbGlkIl0gZm9yIGNlbGwgaW4gY2VsbHMpLAogICAgICAgICAgICAicmVmdXNhbHMiOiBzdW0oY2VsbFsicmVmdXNlZCJdIGZvciBjZWxsIGluIGNlbGxzKSwKICAgICAgICB9CiAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gc3Vtcy5pdGVtcygpOgogICAgICAgICAgICByZXF1aXJlKHN1bW1hcnlba2V5XSA9PSB2YWx1ZSwgZiJ7bW9kZWxfaWR9OiB7a2V5fSBtaXNtYXRjaCIpCiAgICAgICAgbWVhbiA9IChzdW0oRGVjaW1hbChzdHIoY2VsbFsibGF0ZW5jeV9zZWNvbmRzIl0pKSBmb3IgY2VsbCBpbiBjZWxscykgLyBsZW4oY2VsbHMpKS5xdWFudGl6ZSgKICAgICAgICAgICAgRGVjaW1hbCgiMC4wMDEiKSwgcm91bmRpbmc9Uk9VTkRfSEFMRl9VUAogICAgICAgICkKICAgICAgICByZXF1aXJlKAogICAgICAgICAgICBEZWNpbWFsKHN0cihzdW1tYXJ5WyJtZWFuX2xhdGVuY3lfc2Vjb25kcyJdKSkgPT0gbWVhbiwKICAgICAgICAgICAgZiJ7bW9kZWxfaWR9OiBtZWFuIGxhdGVuY3kgbWlzbWF0Y2giLAogICAgICAgICkKCgpkZWYgdmFsaWRhdGVfcmFua2luZ3MoZGF0YTogZGljdFtzdHIsIEFueV0pIC0+IE5vbmU6CiAgICByYW5raW5ncyA9IGRhdGFbInJhbmtpbmdzIl0KICAgIG5ldyA9IHJhbmtpbmdzWyJuZXdfdGhyZWVfdGFza19tYXRyaXgiXQogICAgZWFybGllciA9IHJhbmtpbmdzWyJlYXJsaWVyX3R3b190YXNrX3NjcmVlbiJdCiAgICByZXF1aXJlKFtpdGVtWyJyYW5rIl0gZm9yIGl0ZW0gaW4gbmV3XSA9PSBsaXN0KHJhbmdlKDEsIDYpKSwgIm5ldyByYW5rcyIpCiAgICByZXF1aXJlKFtpdGVtWyJyYW5rIl0gZm9yIGl0ZW0gaW4gZWFybGllcl0gPT0gbGlzdChyYW5nZSgxLCA1KSksICJlYXJsaWVyIHJhbmtzIikKICAgIHJlcXVpcmUoW2l0ZW1bIm1vZGVsX2lkIl0gZm9yIGl0ZW0gaW4gbmV3XSA9PSBORVdfUkFOS0lORywgIm5ldyByYW5raW5nIG9yZGVyIikKICAgIHJlcXVpcmUoCiAgICAgICAgW2l0ZW1bIm1vZGVsX2lkIl0gZm9yIGl0ZW0gaW4gZWFybGllcl0gPT0gRUFSTElFUl9SQU5LSU5HLAogICAgICAgICJlYXJsaWVyIHJhbmtpbmcgb3JkZXIiLAogICAgKQogICAgcm9sZXMgPSByYW5raW5nc1sicm9sZV9zZWxlY3Rpb25zIl0KICAgIHJlcXVpcmUoCiAgICAgICAgcm9sZXNbInByaW1hcnlfY2hlYXBfY29kZXJfcmV2aWV3ZXIiXSA9PSAib3BlbmNvZGUtZ28vbWluaW1heC1tMyIsCiAgICAgICAgInByaW1hcnkgY2FuZGlkYXRlIG1pc21hdGNoIiwKICAgICkKICAgIHJlcXVpcmUoCiAgICAgICAgcm9sZXNbInNlY3VyaXR5X2NhcGFibGVfcmV2aWV3ZXIiXSA9PSAib3BlbmNvZGUtZ28vZ2xtLTUuMiIsCiAgICAgICAgInNlY3VyaXR5IHJldmlld2VyIG1pc21hdGNoIiwKICAgICkKICAgIHJlcXVpcmUoCiAgICAgICAgcm9sZXNbImNyb3NzX2ZpbGVfY2FuYXJ5Il0gPT0gIm9wZW5jb2RlLWdvL2tpbWktazMiLAogICAgICAgICJjcm9zcy1maWxlIGNhbmFyeSBtaXNtYXRjaCIsCiAgICApCiAgICByZXF1aXJlKAogICAgICAgIHJvbGVzWyJwcm9tb3Rpb25fZ2F0ZSJdCiAgICAgICAgPT0gewogICAgICAgICAgICAibW9kZWxfaWQiOiAib3BlbmNvZGUtZ28vbWluaW1heC1tMyIsCiAgICAgICAgICAgICJzdGF0dXMiOiAicG9zdC1zaGFkb3ctY2FuZGlkYXRlIiwKICAgICAgICAgICAgInJlcXVpcmVkX3NoYWRvd19ydW5zIjogMjAsCiAgICAgICAgICAgICJjdXJyZW50X2ZhbGxiYWNrX2R1cmluZ19zaGFkb3ciOiAia2ltaS1rMi43IiwKICAgICAgICB9LAogICAgICAgICJNaW5pTWF4IHByb21vdGlvbiBnYXRlIG1pc21hdGNoIiwKICAgICkKCgpkZWYgdmFsaWRhdGVfcm9zdGVyKCkgLT4gTm9uZToKICAgIGZyb20gYnJpZ2FkZS5yb3N0ZXIgaW1wb3J0IGxvYWRfcm9zdGVyCgogICAgcm9zdGVyID0gbG9hZF9yb3N0ZXIoQkVOQ0hNQVJLX0RJUiAvICJwcm9wb3NlZC1vcGVuY29kZS1nby1yb3N0ZXIudG9tbCIpCiAgICByZXF1aXJlKHJvc3Rlci5vcmNoZXN0cmF0b3IgPT0gImdvX2dsbV81Ml9zZWN1cml0eSIsICJvcmNoZXN0cmF0b3IgbWlzbWF0Y2giKQogICAgcmVxdWlyZShyb3N0ZXIubWF4X3dvcmtlcnMgPT0gMiwgInBlci1ydW4gd29ya2VyIGxpbWl0IG1pc21hdGNoIikKICAgIHJlcXVpcmUocm9zdGVyLnNhbmRib3ggPT0gInJlYWQtb25seSIsICJyb3N0ZXIgc2FuZGJveCBtaXNtYXRjaCIpCiAgICByZXF1aXJlKAogICAgICAgIHJvc3Rlci5hZ2VudHNbImdvX21pbmltYXhfbTNfcHJpbWFyeSJdLmZhbGxiYWNrID09ICgiZ29fZ2xtXzUyX3dvcmtlcl9mYWxsYmFjayIsKSwKICAgICAgICAiTWluaU1heCBmYWxsYmFjayB0b3BvbG9neSBtaXNtYXRjaCIsCiAgICApCgoKZGVmIHZhbGlkYXRlX3RyaWFsKGRhdGE6IGRpY3Rbc3RyLCBBbnldLCBhcnRpZmFjdHM6IFBhdGggfCBOb25lKSAtPiBOb25lOgogICAgdHJpYWwgPSBkYXRhWyJtdWx0aV9zZWF0X3RyaWFsIl0KICAgIHJlcXVpcmUodHJpYWxbInN0YXR1cyJdID09ICJvayIsICJtdWx0aS1zZWF0IHN0YXR1cyBtaXNtYXRjaCIpCiAgICByZXF1aXJlKHRyaWFsWyJjaGFuZ2VkX2ZpbGVfY291bnQiXSA9PSAwLCAibXVsdGktc2VhdCBjaGFuZ2VkIGZpbGVzIikKICAgIHJlcXVpcmUodHJpYWxbInBsYW5fYXNzaWdubWVudHMiXSA9PSAxLCAibXVsdGktc2VhdCBhc3NpZ25tZW50IGNvdW50IikKICAgIHJlcXVpcmUodHJpYWxbImZpbmFsX2NvbnRhaW5zIl0gPT0gIldJUklOR19PSyIsICJtdWx0aS1zZWF0IGZpbmFsIG1hcmtlciIpCiAgICBmb3IgcGhhc2UgaW4gKCJvcmNoZXN0cmF0b3IiLCAid29ya2VyIik6CiAgICAgICAgcmVxdWlyZSh0cmlhbFtwaGFzZV1bInRyYW5zcG9ydCJdID09ICJjbGkiLCBmIntwaGFzZX06IHRyYW5zcG9ydCBtaXNtYXRjaCIpCiAgICAgICAgcmVxdWlyZShub3QgdHJpYWxbcGhhc2VdWyJmYWxsYmFja191c2VkIl0sIGYie3BoYXNlfTogZmFsbGJhY2sgcmVjb3JkZWQiKQogICAgICAgIHJlcXVpcmUodHJpYWxbcGhhc2VdWyJleGl0X2NvZGUiXSA9PSAwLCBmIntwaGFzZX06IG5vbnplcm8gZXhpdCIpCgogICAgaWYgYXJ0aWZhY3RzIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuCiAgICBydW4gPSBsb2FkX2pzb24oYXJ0aWZhY3RzIC8gInJ1bi5qc29uIikKICAgIHBsYW4gPSBsb2FkX2pzb24oYXJ0aWZhY3RzIC8gInBsYW4uanNvbiIpCiAgICB3b3JrZXJzID0gbG9hZF9qc29uKGFydGlmYWN0cyAvICJ3b3JrZXItcmVzdWx0cy5qc29uIikKICAgIHN5bnRoZXNpcyA9IGxvYWRfanNvbihhcnRpZmFjdHMgLyAic3ludGhlc2lzLmpzb24iKQogICAgZW5mb3JjZW1lbnQgPSBsb2FkX2pzb24oYXJ0aWZhY3RzIC8gInJlYWQtb25seS1lbmZvcmNlbWVudC5qc29uIikKICAgIGZpbmFsID0gKGFydGlmYWN0cyAvICJmaW5hbC50eHQiKS5yZWFkX3RleHQoKQogICAgd29ya2VyX3N0ZGVyciA9IChhcnRpZmFjdHMgLyAibG9ncy93b3JrZXItMDAxLW1pbmltYXhfY29kZXIuc3RkZXJyLmxvZyIpLnJlYWRfdGV4dCgpCiAgICBzeW50aGVzaXNfc3RkZXJyID0gKGFydGlmYWN0cyAvICJsb2dzL3N5bnRoZXNpcy5zdGRlcnIubG9nIikucmVhZF90ZXh0KCkKCiAgICByZXF1aXJlKHJ1blsic3RhdHVzIl0gPT0gdHJpYWxbInN0YXR1cyJdLCAiYXJ0aWZhY3QgcnVuIHN0YXR1cyBtaXNtYXRjaCIpCiAgICByZXF1aXJlKAogICAgICAgIERlY2ltYWwoc3RyKHJ1blsiZHVyYXRpb25fc2Vjb25kcyJdKSkgPT0gRGVjaW1hbChzdHIodHJpYWxbImR1cmF0aW9uX3NlY29uZHMiXSkpLAogICAgICAgICJhcnRpZmFjdCBkdXJhdGlvbiBtaXNtYXRjaCIsCiAgICApCiAgICByZXF1aXJlKHJ1blsicmVhZF9vbmx5Il0gaXMgVHJ1ZSwgImFydGlmYWN0IHJ1biB3YXMgbm90IHJlYWQtb25seSIpCiAgICByZXF1aXJlKHJ1blsicHJlX3J1bl9zbmFwc2hvdCJdWyJ0cmFja2VkX2RpcnR5X2ZpbGVzIl0gPT0gW10sICJkaXJ0eSBwcmUtcnVuIikKICAgIHJlcXVpcmUocnVuWyJwcmVfcnVuX3NuYXBzaG90Il1bInVudHJhY2tlZF9maWxlcyJdID09IFtdLCAidW50cmFja2VkIHByZS1ydW4iKQogICAgcmVxdWlyZShsZW4ocGxhblsiYXNzaWdubWVudHMiXSkgPT0gdHJpYWxbInBsYW5fYXNzaWdubWVudHMiXSwgInBsYW4gbWlzbWF0Y2giKQogICAgcmVxdWlyZShwbGFuWyJhc3NpZ25tZW50cyJdWzBdWyJ3b3JrZXIiXSA9PSB0cmlhbFsid29ya2VyIl1bInNlYXQiXSwgIndvcmtlciBzZWF0IikKCiAgICB3b3JrZXIgPSB3b3JrZXJzWyJyZXN1bHRzIl1bMF0KICAgIHJlcXVpcmUoCiAgICAgICAgd29ya2VyWyJyZXF1ZXN0ZWRfbW9kZWwiXSA9PSB0cmlhbFsid29ya2VyIl1bInJlcXVlc3RlZF9tb2RlbCJdLAogICAgICAgICJ3b3JrZXIgbW9kZWwgbWlzbWF0Y2giLAogICAgKQogICAgcmVxdWlyZSgKICAgICAgICB0cmlhbFsid29ya2VyIl1bInJlc29sdmVkX21vZGVsIl0gPT0gd29ya2VyWyJyZXF1ZXN0ZWRfbW9kZWwiXSwKICAgICAgICAid29ya2VyIHJlc29sdmVkIG1vZGVsIG1pc21hdGNoIiwKICAgICkKICAgIHJlcXVpcmUoCiAgICAgICAgRGVjaW1hbChzdHIod29ya2VyWyJkdXJhdGlvbl9zZWNvbmRzIl0pKSA9PSBEZWNpbWFsKHN0cih0cmlhbFsid29ya2VyIl1bImxhdGVuY3lfc2Vjb25kcyJdKSksCiAgICAgICAgIndvcmtlciBsYXRlbmN5IG1pc21hdGNoIiwKICAgICkKICAgIHJlcXVpcmUod29ya2VyWyJ0cmFuc3BvcnQiXSA9PSAiY2xpIiBhbmQgd29ya2VyWyJleGl0X2NvZGUiXSA9PSAwLCAid29ya2VyIGV4aXQiKQogICAgcmVxdWlyZSgKICAgICAgICB3b3JrZXJzWyJncm91bmRfdHJ1dGgiXVsiY2hhbmdlZF9maWxlcyJdID09IFtdIGFuZCB3b3JrZXJzWyJncm91bmRfdHJ1dGgiXVsidW50cmFja2VkX2ZpbGVzIl0gPT0gW10sCiAgICAgICAgIndvcmtlciBjaGFuZ2VkIG9yIHVudHJhY2tlZCBmaWxlcyIsCiAgICApCgogICAgZmluYWxfcmVzdWx0ID0gc3ludGhlc2lzWyJyZXN1bHQiXQogICAgcmVxdWlyZSgKICAgICAgICBmaW5hbF9yZXN1bHRbInJlcXVlc3RlZF9tb2RlbCJdID09IHRyaWFsWyJvcmNoZXN0cmF0b3IiXVsicmVxdWVzdGVkX21vZGVsIl0sCiAgICAgICAgIm9yY2hlc3RyYXRvciBtb2RlbCBtaXNtYXRjaCIsCiAgICApCiAgICByZXF1aXJlKAogICAgICAgIHRyaWFsWyJvcmNoZXN0cmF0b3IiXVsicmVzb2x2ZWRfbW9kZWwiXSA9PSBmaW5hbF9yZXN1bHRbInJlcXVlc3RlZF9tb2RlbCJdLAogICAgICAgICJvcmNoZXN0cmF0b3IgcmVzb2x2ZWQgbW9kZWwgbWlzbWF0Y2giLAogICAgKQogICAgcmVxdWlyZSgKICAgICAgICBEZWNpbWFsKHN0cihmaW5hbF9yZXN1bHRbImR1cmF0aW9uX3NlY29uZHMiXSkpCiAgICAgICAgPT0gRGVjaW1hbChzdHIodHJpYWxbIm9yY2hlc3RyYXRvciJdWyJzeW50aGVzaXNfbGF0ZW5jeV9zZWNvbmRzIl0pKSwKICAgICAgICAic3ludGhlc2lzIGxhdGVuY3kgbWlzbWF0Y2giLAogICAgKQogICAgcmVxdWlyZSgKICAgICAgICBmaW5hbF9yZXN1bHRbInRyYW5zcG9ydCJdID09ICJjbGkiIGFuZCBmaW5hbF9yZXN1bHRbImV4aXRfY29kZSJdID09IDAsCiAgICAgICAgInN5bnRoZXNpcyBleGl0IiwKICAgICkKICAgIHJlcXVpcmUoCiAgICAgICAgc3ludGhlc2lzWyJncm91bmRfdHJ1dGgiXVsiY2hhbmdlZF9maWxlcyJdID09IFtdIGFuZCBzeW50aGVzaXNbImdyb3VuZF90cnV0aCJdWyJ1bnRyYWNrZWRfZmlsZXMiXSA9PSBbXSwKICAgICAgICAic3ludGhlc2lzIGNoYW5nZWQgb3IgdW50cmFja2VkIGZpbGVzIiwKICAgICkKICAgIHJlcXVpcmUodHJpYWxbImZpbmFsX2NvbnRhaW5zIl0gaW4gZmluYWwsICJmaW5hbCBtYXJrZXIgYWJzZW50IikKICAgIHJlcXVpcmUoCiAgICAgICAgdHJpYWxbIndvcmtlciJdWyJyZXNvbHZlZF9tb2RlbF9tYXJrZXIiXSBpbiB3b3JrZXJfc3RkZXJyLAogICAgICAgICJ3b3JrZXIgbW9kZWwgbWFya2VyIGFic2VudCIsCiAgICApCiAgICByZXF1aXJlKAogICAgICAgIHRyaWFsWyJvcmNoZXN0cmF0b3IiXVsicmVzb2x2ZWRfbW9kZWxfbWFya2VyIl0gaW4gc3ludGhlc2lzX3N0ZGVyciwKICAgICAgICAib3JjaGVzdHJhdG9yIG1vZGVsIG1hcmtlciBhYnNlbnQiLAogICAgKQogICAgcmVxdWlyZSgKICAgICAgICBzZXQoZW5mb3JjZW1lbnRbImJlc3RfZWZmb3J0X2FnZW50cyJdKQogICAgICAgID09IHsKICAgICAgICAgICAgImdsbV9zZWN1cml0eV9yZXZpZXdlciAob3BlbmNvZGUpOiByZWFkLW9ubHkgaXMgbm90IGFwcGxpZWQgZm9yIHRoaXMgQ0xJIiwKICAgICAgICAgICAgIm1pbmltYXhfY29kZXIgKG9wZW5jb2RlKTogcmVhZC1vbmx5IGlzIG5vdCBhcHBsaWVkIGZvciB0aGlzIENMSSIsCiAgICAgICAgfSwKICAgICAgICAicmVhZC1vbmx5IHdhcm5pbmcgbWlzbWF0Y2giLAogICAgKQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tYXJ0aWZhY3RzIiwgdHlwZT1QYXRoKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBkYXRhID0gbG9hZF9qc29uKEJFTkNITUFSS19ESVIgLyAib3BlbmNvZGUtZ28tcmVzdWx0cy5qc29uIikKICAgIHNjaGVtYSA9IGxvYWRfanNvbihCRU5DSE1BUktfRElSIC8gIm9wZW5jb2RlLWdvLXNjaGVtYS5qc29uIikKICAgIHNjaGVtYV9yZXN1bHQgPSB2YWxpZGF0ZV9zY2hlbWEoZGF0YSwgc2NoZW1hKQogICAgdmFsaWRhdGVfbW9kZWxzKGRhdGEpCiAgICB2YWxpZGF0ZV9yYW5raW5ncyhkYXRhKQogICAgdmFsaWRhdGVfcm9zdGVyKCkKICAgIHZhbGlkYXRlX3RyaWFsKGRhdGEsIGFyZ3MuYXJ0aWZhY3RzKQogICAgY2VsbHMgPSBzdW0obGVuKG1vZGVsWyJjZWxscyJdKSBmb3IgbW9kZWwgaW4gZGF0YVsibW9kZWxzIl0pCiAgICBwcmludChmImJlbmNobWFyayB2YWxpZGF0aW9uOiBvazsgbW9kZWxzPXtsZW4oZGF0YVsnbW9kZWxzJ10pfSBjZWxscz17Y2VsbHN9IikKICAgIHByaW50KGYic2NoZW1hIHZhbGlkYXRpb246IHtzY2hlbWFfcmVzdWx0fSIpCiAgICBwcmludChmIm11bHRpLXNlYXQgYXJ0aWZhY3RzOiB7J2NoZWNrZWQnIGlmIGFyZ3MuYXJ0aWZhY3RzIGVsc2UgJ25vdCBzdXBwbGllZCd9IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+from __future__ import annotations
+
+import argparse
+import json
+import sys
+from decimal import Decimal, ROUND_HALF_UP
+from pathlib import Path
+from typing import Any
+
+
+BENCHMARK_DIR = Path(__file__).resolve().parent
+ROOT = BENCHMARK_DIR.parents[1]
+sys.path.insert(0, str(ROOT / "src"))
+
+NEW_MODELS = {
+    "opencode-go/kimi-k3",
+    "opencode-go/glm-5.2",
+    "opencode-go/deepseek-v4-pro",
+    "opencode-go/qwen3.7-max",
+    "opencode-go/kimi-k2.7-code",
+}
+EARLIER_MODELS = {
+    "opencode-go/minimax-m3",
+    "opencode-go/qwen3.7-plus",
+    "opencode-go/deepseek-v4-flash",
+    "opencode-go/mimo-v2.5",
+}
+CATALOG_MODELS = {
+    "opencode-go/deepseek-v4-flash",
+    "opencode-go/deepseek-v4-pro",
+    "opencode-go/glm-5.1",
+    "opencode-go/glm-5.2",
+    "opencode-go/grok-4.5",
+    "opencode-go/hy3",
+    "opencode-go/kimi-k2.6",
+    "opencode-go/kimi-k2.7-code",
+    "opencode-go/kimi-k3",
+    "opencode-go/mimo-v2.5",
+    "opencode-go/mimo-v2.5-pro",
+    "opencode-go/minimax-m2.7",
+    "opencode-go/minimax-m3",
+    "opencode-go/qwen3.6-plus",
+    "opencode-go/qwen3.7-max",
+    "opencode-go/qwen3.7-plus",
+}
+ALL_TASKS = {"routine", "contract_drift", "security_review"}
+EARLIER_TASKS = {"routine", "contract_drift"}
+TASK_FINDINGS = {"routine": 1, "contract_drift": 2, "security_review": 2}
+NEW_RANKING = [
+    "opencode-go/glm-5.2",
+    "opencode-go/kimi-k3",
+    "opencode-go/kimi-k2.7-code",
+    "opencode-go/deepseek-v4-pro",
+    "opencode-go/qwen3.7-max",
+]
+EARLIER_RANKING = [
+    "opencode-go/minimax-m3",
+    "opencode-go/qwen3.7-plus",
+    "opencode-go/deepseek-v4-flash",
+    "opencode-go/mimo-v2.5",
+]
+
+
+def require(condition: bool, message: str) -> None:
+    if not condition:
+        raise AssertionError(message)
+
+
+def load_json(path: Path) -> dict[str, Any]:
+    data = json.loads(path.read_text())
+    require(isinstance(data, dict), f"{path}: expected a JSON object")
+    return data
+
+
+def validate_schema(data: dict[str, Any], schema: dict[str, Any]) -> str:
+    try:
+        import jsonschema
+    except ModuleNotFoundError:
+        return "jsonschema package unavailable; syntax and semantic checks only"
+    jsonschema.Draft202012Validator.check_schema(schema)
+    jsonschema.validate(data, schema)
+    return "Draft 2020-12 schema and instance valid"
+
+
+def validate_models(data: dict[str, Any]) -> None:
+    models = {model["model_id"]: model for model in data["models"]}
+    require(len(data["models"]) == 9, "expected exactly nine model records")
+    require(len(models) == 9, "duplicate model IDs")
+    require(
+        sum(len(model["cells"]) for model in data["models"]) == 23,
+        "expected exactly 23 task/model cells",
+    )
+    require(set(models) == NEW_MODELS | EARLIER_MODELS, "unexpected model set")
+    catalog_ids = data["catalog_discovery"]["subscription_model_ids"]
+    require(
+        len(catalog_ids) == 16 and set(catalog_ids) == CATALOG_MODELS,
+        "subscription catalog does not match discovery",
+    )
+    task_findings = {task["id"]: task["expected_findings"] for task in data["tasks"]}
+    require(task_findings == TASK_FINDINGS, "task finding totals mismatch")
+
+    for model_id, model in models.items():
+        expected_tasks = ALL_TASKS if model_id in NEW_MODELS else EARLIER_TASKS
+        cells = model["cells"]
+        require(
+            {cell["task"] for cell in cells} == expected_tasks,
+            f"{model_id}: task coverage mismatch",
+        )
+        require(
+            all(cell["requested_model"] == model_id for cell in cells),
+            f"{model_id}: requested model mismatch",
+        )
+        require(
+            all(cell["resolved_model"] == model_id for cell in cells),
+            f"{model_id}: resolved model mismatch",
+        )
+        require(
+            all(cell["transport"] == "cli" for cell in cells),
+            f"{model_id}: non-CLI transport",
+        )
+        require(
+            not any(cell["fallback_used"] for cell in cells),
+            f"{model_id}: fallback recorded",
+        )
+        require(
+            all(cell["exit_code"] == 0 and not cell["timed_out"] for cell in cells),
+            f"{model_id}: unsuccessful process",
+        )
+        require(
+            all(cell["changed_file_count"] == 0 for cell in cells),
+            f"{model_id}: changed files recorded",
+        )
+        require(
+            not any(cell["usage"]["exposed"] for cell in cells),
+            f"{model_id}: unexpected usage exposure",
+        )
+        require(
+            all(
+                cell["expected_findings_total"] == TASK_FINDINGS[cell["task"]]
+                and cell["expected_findings_found"] <= cell["expected_findings_total"]
+                for cell in cells
+            ),
+            f"{model_id}: impossible or task-inconsistent finding recall",
+        )
+
+        summary = model["summary"]
+        require(summary["cells"] == len(cells), f"{model_id}: cell count mismatch")
+        sums = {
+            "expected_findings_found": sum(cell["expected_findings_found"] for cell in cells),
+            "expected_findings_total": sum(cell["expected_findings_total"] for cell in cells),
+            "output_contract_passes": sum(cell["output_contract_valid"] for cell in cells),
+            "refusals": sum(cell["refused"] for cell in cells),
+        }
+        for key, value in sums.items():
+            require(summary[key] == value, f"{model_id}: {key} mismatch")
+        mean = (sum(Decimal(str(cell["latency_seconds"])) for cell in cells) / len(cells)).quantize(
+            Decimal("0.001"), rounding=ROUND_HALF_UP
+        )
+        require(
+            Decimal(str(summary["mean_latency_seconds"])) == mean,
+            f"{model_id}: mean latency mismatch",
+        )
+
+
+def validate_rankings(data: dict[str, Any]) -> None:
+    rankings = data["rankings"]
+    new = rankings["new_three_task_matrix"]
+    earlier = rankings["earlier_two_task_screen"]
+    require([item["rank"] for item in new] == list(range(1, 6)), "new ranks")
+    require([item["rank"] for item in earlier] == list(range(1, 5)), "earlier ranks")
+    require([item["model_id"] for item in new] == NEW_RANKING, "new ranking order")
+    require(
+        [item["model_id"] for item in earlier] == EARLIER_RANKING,
+        "earlier ranking order",
+    )
+    roles = rankings["role_selections"]
+    require(
+        roles["primary_cheap_coder_reviewer"] == "opencode-go/minimax-m3",
+        "primary candidate mismatch",
+    )
+    require(
+        roles["security_capable_reviewer"] == "opencode-go/glm-5.2",
+        "security reviewer mismatch",
+    )
+    require(
+        roles["cross_file_canary"] == "opencode-go/kimi-k3",
+        "cross-file canary mismatch",
+    )
+    require(
+        roles["promotion_gate"]
+        == {
+            "model_id": "opencode-go/minimax-m3",
+            "status": "post-shadow-candidate",
+            "required_shadow_runs": 20,
+            "current_fallback_during_shadow": "kimi-k2.7",
+        },
+        "MiniMax promotion gate mismatch",
+    )
+
+
+def validate_roster() -> None:
+    from brigade.roster import load_roster
+
+    roster = load_roster(BENCHMARK_DIR / "proposed-opencode-go-roster.toml")
+    require(roster.orchestrator == "go_glm_52_security", "orchestrator mismatch")
+    require(roster.max_workers == 2, "per-run worker limit mismatch")
+    require(roster.sandbox == "read-only", "roster sandbox mismatch")
+    require(
+        roster.agents["go_minimax_m3_primary"].fallback == ("go_glm_52_worker_fallback",),
+        "MiniMax fallback topology mismatch",
+    )
+
+
+def validate_trial(data: dict[str, Any], artifacts: Path | None) -> None:
+    trial = data["multi_seat_trial"]
+    require(trial["status"] == "ok", "multi-seat status mismatch")
+    require(trial["changed_file_count"] == 0, "multi-seat changed files")
+    require(trial["plan_assignments"] == 1, "multi-seat assignment count")
+    require(trial["final_contains"] == "WIRING_OK", "multi-seat final marker")
+    for phase in ("orchestrator", "worker"):
+        require(trial[phase]["transport"] == "cli", f"{phase}: transport mismatch")
+        require(not trial[phase]["fallback_used"], f"{phase}: fallback recorded")
+        require(trial[phase]["exit_code"] == 0, f"{phase}: nonzero exit")
+
+    if artifacts is None:
+        return
+    run = load_json(artifacts / "run.json")
+    plan = load_json(artifacts / "plan.json")
+    workers = load_json(artifacts / "worker-results.json")
+    synthesis = load_json(artifacts / "synthesis.json")
+    enforcement = load_json(artifacts / "read-only-enforcement.json")
+    final = (artifacts / "final.txt").read_text()
+    worker_stderr = (artifacts / "logs/worker-001-minimax_coder.stderr.log").read_text()
+    synthesis_stderr = (artifacts / "logs/synthesis.stderr.log").read_text()
+
+    require(run["status"] == trial["status"], "artifact run status mismatch")
+    require(
+        Decimal(str(run["duration_seconds"])) == Decimal(str(trial["duration_seconds"])),
+        "artifact duration mismatch",
+    )
+    require(run["read_only"] is True, "artifact run was not read-only")
+    require(run["pre_run_snapshot"]["tracked_dirty_files"] == [], "dirty pre-run")
+    require(run["pre_run_snapshot"]["untracked_files"] == [], "untracked pre-run")
+    require(len(plan["assignments"]) == trial["plan_assignments"], "plan mismatch")
+    require(plan["assignments"][0]["worker"] == trial["worker"]["seat"], "worker seat")
+
+    worker = workers["results"][0]
+    require(
+        worker["requested_model"] == trial["worker"]["requested_model"],
+        "worker model mismatch",
+    )
+    require(
+        trial["worker"]["resolved_model"] == worker["requested_model"],
+        "worker resolved model mismatch",
+    )
+    require(
+        Decimal(str(worker["duration_seconds"])) == Decimal(str(trial["worker"]["latency_seconds"])),
+        "worker latency mismatch",
+    )
+    require(worker["transport"] == "cli" and worker["exit_code"] == 0, "worker exit")
+    require(
+        workers["ground_truth"]["changed_files"] == [] and workers["ground_truth"]["untracked_files"] == [],
+        "worker changed or untracked files",
+    )
+
+    final_result = synthesis["result"]
+    require(
+        final_result["requested_model"] == trial["orchestrator"]["requested_model"],
+        "orchestrator model mismatch",
+    )
+    require(
+        trial["orchestrator"]["resolved_model"] == final_result["requested_model"],
+        "orchestrator resolved model mismatch",
+    )
+    require(
+        Decimal(str(final_result["duration_seconds"]))
+        == Decimal(str(trial["orchestrator"]["synthesis_latency_seconds"])),
+        "synthesis latency mismatch",
+    )
+    require(
+        final_result["transport"] == "cli" and final_result["exit_code"] == 0,
+        "synthesis exit",
+    )
+    require(
+        synthesis["ground_truth"]["changed_files"] == [] and synthesis["ground_truth"]["untracked_files"] == [],
+        "synthesis changed or untracked files",
+    )
+    require(trial["final_contains"] in final, "final marker absent")
+    require(
+        trial["worker"]["resolved_model_marker"] in worker_stderr,
+        "worker model marker absent",
+    )
+    require(
+        trial["orchestrator"]["resolved_model_marker"] in synthesis_stderr,
+        "orchestrator model marker absent",
+    )
+    require(
+        set(enforcement["best_effort_agents"])
+        == {
+            "glm_security_reviewer (opencode): read-only is not applied for this CLI",
+            "minimax_coder (opencode): read-only is not applied for this CLI",
+        },
+        "read-only warning mismatch",
+    )
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--artifacts", type=Path)
+    args = parser.parse_args()
+
+    data = load_json(BENCHMARK_DIR / "opencode-go-results.json")
+    schema = load_json(BENCHMARK_DIR / "opencode-go-schema.json")
+    schema_result = validate_schema(data, schema)
+    validate_models(data)
+    validate_rankings(data)
+    validate_roster()
+    validate_trial(data, args.artifacts)
+    cells = sum(len(model["cells"]) for model in data["models"])
+    print(f"benchmark validation: ok; models={len(data['models'])} cells={cells}")
+    print(f"schema validation: {schema_result}")
+    print(f"multi-seat artifacts: {'checked' if args.artifacts else 'not supplied'}")
+
+
+if __name__ == "__main__":
+    main()

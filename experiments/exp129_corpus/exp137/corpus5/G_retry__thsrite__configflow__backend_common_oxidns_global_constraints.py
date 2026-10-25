@@ -1,1 +1,188 @@
-IiIiQ3Jvc3MtZmllbGQgcnVsZXMgZnJvbSBPeGlETlMgMS42LjEncyBjb25maWcgYW5kIG5ldHdvcmsgZGVzZXJpYWxpemVycy4KClRoaXMgbW9kdWxlIHJlcG9ydHMgZXJyb3JzIHdpdGhvdXQgcmV3cml0aW5nIHRoZSBkb2N1bWVudC4gT3B0aW9uPFQ+IG51bGxzLApleHBsaWNpdCBlbXB0eSByb3V0ZSBsaXN0cywgdW5rbm93biBleHRlbnNpb24gZmllbGRzLCBhbmQgaWdub3JlZCBsZWdhY3kKYm9vdHN0cmFwIHNldHRpbmdzIHRoZXJlZm9yZSByZXRhaW4gdGhlaXIgb3JpZ2luYWwgbWVhbmluZyBhbmQgc3BlbGxpbmcuCkZpbGUgYXZhaWxhYmlsaXR5LCBUTFMgY29udGVudHMgYW5kIGJ1aWxkIGZlYXR1cmVzIHJlbWFpbiB0YXJnZXQtY29yZSBjaGVja3MuCiIiIgppbXBvcnQgaXBhZGRyZXNzCmltcG9ydCByZQpmcm9tIHVybGxpYi5wYXJzZSBpbXBvcnQgdXJsc3BsaXQKCgpfRU5WID0gcmUuY29tcGlsZShyJ1wkXHtbXn1dK1x9JykKCgpkZWYgX2RlZmVycmVkKHZhbHVlKToKICAgIHJldHVybiBpc2luc3RhbmNlKHZhbHVlLCBzdHIpIGFuZCBib29sKF9FTlYuc2VhcmNoKHZhbHVlKSkKCgpkZWYgX21hcHBpbmcodmFsdWUpOgogICAgcmV0dXJuIHZhbHVlIGlmIGlzaW5zdGFuY2UodmFsdWUsIGRpY3QpIGVsc2Uge30KCgpkZWYgX2ludGVnZXIodmFsdWUpOgogICAgcmV0dXJuIGlzaW5zdGFuY2UodmFsdWUsIGludCkgYW5kIG5vdCBpc2luc3RhbmNlKHZhbHVlLCBib29sKQoKCmRlZiBfZW5kcG9pbnQodmFsdWUpOgogICAgIiIiSW5zcGVjdCBhbiBhbHJlYWR5IHNjaGVtYS12YWxpZGF0ZWQgdXBzdHJlYW0gd2l0aG91dCBETlMgbG9va3Vwcy4iIiIKICAgIGlmIG5vdCBpc2luc3RhbmNlKHZhbHVlLCBzdHIpIG9yIF9kZWZlcnJlZCh2YWx1ZSk6CiAgICAgICAgcmV0dXJuIE5vbmUsIE5vbmUKICAgIHRyeToKICAgICAgICByZXN1bHQgPSB1cmxzcGxpdCh2YWx1ZSBpZiAnLy8nIGluIHZhbHVlIGVsc2UgJ3VkcDovLycgKyB2YWx1ZSkKICAgICAgICByZXR1cm4gcmVzdWx0LnNjaGVtZS5sb3dlcigpLCByZXN1bHQuaG9zdG5hbWUKICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgQXR0cmlidXRlRXJyb3IpOgogICAgICAgIHJldHVybiBOb25lLCBOb25lCgoKZGVmIF9saXRlcmFsX2lwKHZhbHVlKToKICAgIHRyeToKICAgICAgICBpcGFkZHJlc3MuaXBfYWRkcmVzcyh2YWx1ZSkKICAgICAgICByZXR1cm4gVHJ1ZQogICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgIHJldHVybiBGYWxzZQoKCmRlZiBfYm9vdHN0cmFwX3NvY2tldCh2YWx1ZSk6CiAgICAiIiJMZWdhY3kgYm9vdHN0cmFwIGlzIFNvY2tldEFkZHIsIHVubGlrZSBsaXN0ZW4ncyA6cG9ydCBzaG9ydGhhbmQuIiIiCiAgICBpZiBub3QgaXNpbnN0YW5jZSh2YWx1ZSwgc3RyKToKICAgICAgICByZXR1cm4gRmFsc2UKICAgIHZhbHVlID0gdmFsdWUuc3RyaXAoKQogICAgbWF0Y2ggPSByZS5mdWxsbWF0Y2gocidcWyhbXlxdXSspXF06KFxkKyknLCB2YWx1ZSkKICAgIGlmIG1hdGNoOgogICAgICAgIGhvc3QsIHBvcnQgPSBtYXRjaC5ncm91cHMoKQogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIGlwYWRkcmVzcy5pcF9hZGRyZXNzKGhvc3QpLnZlcnNpb24gPT0gNiBhbmQgMCA8PSBpbnQocG9ydCkgPD0gNjU1MzUKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBtYXRjaCA9IHJlLmZ1bGxtYXRjaChyJyhbXjpdKyk6KFxkKyknLCB2YWx1ZSkKICAgIGlmIG5vdCBtYXRjaDoKICAgICAgICByZXR1cm4gRmFsc2UKICAgIGhvc3QsIHBvcnQgPSBtYXRjaC5ncm91cHMoKQogICAgdHJ5OgogICAgICAgIHJldHVybiBpcGFkZHJlc3MuaXBfYWRkcmVzcyhob3N0KS52ZXJzaW9uID09IDQgYW5kIDAgPD0gaW50KHBvcnQpIDw9IDY1NTM1CiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICByZXR1cm4gRmFsc2UKCgpkZWYgY29sbGVjdF9nbG9iYWxfaXNzdWVzKGRvY3VtZW50KToKICAgICIiIlJldHVybiBwYXRoLWFkZHJlc3NlZCBpc3N1ZXM7IHRoZSBzaGFyZWQgdmFsaWRhdG9yIGFwcGxpZXMgdHlwZXMgZmlyc3QuIiIiCiAgICBpc3N1ZXMgPSBbXQoKICAgIGRlZiBlcnJvcihwYXRoLCBtZXNzYWdlLCBjb2RlPSdjb25zdHJhaW50Jyk6CiAgICAgICAgaXNzdWVzLmFwcGVuZCh7J3BhdGgnOiBwYXRoLCAnbWVzc2FnZSc6IG1lc3NhZ2UsICdjb2RlJzogY29kZX0pCgogICAgZGVmIG5vbmJsYW5rKHZhbHVlLCBwYXRoKToKICAgICAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCBzdHIpIGFuZCBub3QgX2RlZmVycmVkKHZhbHVlKSBhbmQgbm90IHZhbHVlLnN0cmlwKCk6CiAgICAgICAgICAgIGVycm9yKHBhdGgsICflv4XpobvloavlhpnpnZ7nqbrmlofmnKwnKQoKICAgIGRlZiB0bHNfcGFpcihjb25maWcsIHBhdGgsIHJlcXVpcmVkPUZhbHNlKToKICAgICAgICBjZXJ0LCBrZXkgPSBjb25maWcuZ2V0KCdjZXJ0JyksIGNvbmZpZy5nZXQoJ2tleScpCiAgICAgICAgIyBOdWxsIG1lYW5zIGFic2VudC4gQW4gZXhwbGljaXRseSBjb25maWd1cmVkIHBhdGggbXVzdCBiZSBub25lbXB0eS4KICAgICAgICBpZiByZXF1aXJlZCBvciBjZXJ0IGlzIG5vdCBOb25lIG9yIGtleSBpcyBub3QgTm9uZToKICAgICAgICAgICAgaWYgY2VydCBpcyBOb25lOgogICAgICAgICAgICAgICAgZXJyb3IocGF0aCArIFsnY2VydCddLCAn5ZCv55SoIFRMUyDml7blv4XpobvlkIzml7bphY3nva7or4Hkuablkoznp4HpkqUnKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbm9uYmxhbmsoY2VydCwgcGF0aCArIFsnY2VydCddKQogICAgICAgICAgICBpZiBrZXkgaXMgTm9uZToKICAgICAgICAgICAgICAgIGVycm9yKHBhdGggKyBbJ2tleSddLCAn5ZCv55SoIFRMUyDml7blv4XpobvlkIzml7bphY3nva7or4Hkuablkoznp4HpkqUnKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbm9uYmxhbmsoa2V5LCBwYXRoICsgWydrZXknXSkKCiAgICBpZiBub3QgaXNpbnN0YW5jZShkb2N1bWVudCwgZGljdCk6CiAgICAgICAgcmV0dXJuIGlzc3VlcwoKICAgIGxvZyA9IF9tYXBwaW5nKGRvY3VtZW50LmdldCgnbG9nJykpCiAgICBsZXZlbCA9IGxvZy5nZXQoJ2xldmVsJykKICAgIGlmIGlzaW5zdGFuY2UobGV2ZWwsIHN0cikgYW5kIG5vdCBfZGVmZXJyZWQobGV2ZWwpIGFuZCBsZXZlbC5sb3dlcigpIG5vdCBpbiAoCiAgICAgICAgICAgICdvZmYnLCAndHJhY2UnLCAnZGVidWcnLCAnaW5mbycsICd3YXJuJywgJ2Vycm9yJyk6CiAgICAgICAgZXJyb3IoWydsb2cnLCAnbGV2ZWwnXSwgJ+aXpeW/l+e6p+WIq+W/hemhu+S4uiBvZmbjgIF0cmFjZeOAgWRlYnVn44CBaW5mb+OAgXdhcm4g5oiWIGVycm9yJywgJ2VudW0nKQoKICAgIGh0dHAgPSBfbWFwcGluZyhfbWFwcGluZyhkb2N1bWVudC5nZXQoJ2FwaScpKS5nZXQoJ2h0dHAnKSkKICAgIHNzbCA9IF9tYXBwaW5nKGh0dHAuZ2V0KCdzc2wnKSkKICAgIHRsc19wYWlyKHNzbCwgWydhcGknLCAnaHR0cCcsICdzc2wnXSkKICAgIGlmIHNzbC5nZXQoJ3JlcXVpcmVfY2xpZW50X2NlcnQnKSBpcyBUcnVlIGFuZCBzc2wuZ2V0KCdjbGllbnRfY2EnKSBpcyBOb25lOgogICAgICAgIGVycm9yKFsnYXBpJywgJ2h0dHAnLCAnc3NsJywgJ2NsaWVudF9jYSddLCAn6KaB5rGC5a6i5oi356uv6K+B5Lmm5pe25b+F6aG76YWN572uIGNsaWVudF9jYScpCiAgICBpZiBzc2wuZ2V0KCdjbGllbnRfY2EnKSBpcyBub3QgTm9uZToKICAgICAgICBub25ibGFuayhzc2wuZ2V0KCdjbGllbnRfY2EnKSwgWydhcGknLCAnaHR0cCcsICdzc2wnLCAnY2xpZW50X2NhJ10pCgogICAgb3V0Ym91bmQgPSBfbWFwcGluZyhfbWFwcGluZyhkb2N1bWVudC5nZXQoJ25ldHdvcmsnKSkuZ2V0KCdvdXRib3VuZCcpKQogICAgcHJvZmlsZXMgPSBfbWFwcGluZyhvdXRib3VuZC5nZXQoJ3Byb2ZpbGVzJykpCgogICAgZGVmIHByb2ZpbGVfcmVmZXJlbmNlKHZhbHVlLCBwYXRoLCBzdHJpY3RfbmFtZT1GYWxzZSwgYWxsb3dfZW1wdHk9RmFsc2UpOgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHZhbHVlLCBzdHIpIG9yIF9kZWZlcnJlZCh2YWx1ZSk6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIG5hbWUgPSB2YWx1ZS5zdHJpcCgpCiAgICAgICAgaWYgbm90IG5hbWU6CiAgICAgICAgICAgIGlmIG5vdCBhbGxvd19lbXB0eToKICAgICAgICAgICAgICAgIGVycm9yKHBhdGgsICflh7rnq5nphY3nva7lkI3np7DkuI3og73kuLrnqbonKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiBzdHJpY3RfbmFtZSBhbmQgbmFtZSAhPSB2YWx1ZToKICAgICAgICAgICAgZXJyb3IocGF0aCwgJ+WHuuermemFjee9ruWQjeensOS4jeiDveWMheWQq+mmluWwvuepuueZvScpCiAgICAgICAgaWYgbmFtZSBub3QgaW4gcHJvZmlsZXM6CiAgICAgICAgICAgIGVycm9yKHBhdGgsICflvJXnlKjnmoTlh7rnq5nphY3nva7mnKrlnKggbmV0d29yay5vdXRib3VuZC5wcm9maWxlcyDkuK3lrprkuYknLCAncmVmZXJlbmNlJykKCiAgICBwcm9maWxlX3JlZmVyZW5jZShvdXRib3VuZC5nZXQoJ2RlZmF1bHQnKSwgWyduZXR3b3JrJywgJ291dGJvdW5kJywgJ2RlZmF1bHQnXSwgc3RyaWN0X25hbWU9VHJ1ZSkKICAgIGZvciBuYW1lLCByYXdfcHJvZmlsZSBpbiBwcm9maWxlcy5pdGVtcygpOgogICAgICAgIHBhdGggPSBbJ25ldHdvcmsnLCAnb3V0Ym91bmQnLCAncHJvZmlsZXMnLCBuYW1lXQogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKG5hbWUsIHN0cikgb3Igbm90IG5hbWUuc3RyaXAoKSBvciBuYW1lICE9IG5hbWUuc3RyaXAoKToKICAgICAgICAgICAgZXJyb3IocGF0aCwgJ+WHuuermemFjee9ruWQjeensOW/hemhu+S4uuS4jeWQq+mmluWwvuepuueZveeahOmdnuepuuaWh+acrCcpCiAgICAgICAgcHJvZmlsZSA9IF9tYXBwaW5nKHJhd19wcm9maWxlKQogICAgICAgIHJlc29sdmVyLCBwcm94eSA9IHByb2ZpbGUuZ2V0KCdyZXNvbHZlcicpLCBwcm9maWxlLmdldCgncHJveHknKQogICAgICAgIGlmIGlzaW5zdGFuY2UocmVzb2x2ZXIsIHN0cikgYW5kIG5vdCBfZGVmZXJyZWQocmVzb2x2ZXIpIGFuZCByZXNvbHZlci5zdHJpcCgpLmxvd2VyKCkgIT0gJ3N5c3RlbSc6CiAgICAgICAgICAgIGVycm9yKHBhdGggKyBbJ3Jlc29sdmVyJ10sICfop6PmnpDlmajnroDlhpnlj6rmlK/mjIEgc3lzdGVtJywgJ2VudW0nKQogICAgICAgIGlmIGlzaW5zdGFuY2UocHJveHksIHN0cikgYW5kIG5vdCBfZGVmZXJyZWQocHJveHkpIGFuZCBwcm94eS5zdHJpcCgpLmxvd2VyKCkgbm90IGluICgnbm9uZScsICdkaXJlY3QnKToKICAgICAgICAgICAgZXJyb3IocGF0aCArIFsncHJveHknXSwgJ+S7o+eQhueugOWGmeWPquaUr+aMgSBub25lIOaIliBkaXJlY3QnLCAnZW51bScpCiAgICAgICAgcmVzb2x2ZXIgPSBfbWFwcGluZyhyZXNvbHZlcikKICAgICAgICB1c2VzX3Byb3h5ID0gcmVzb2x2ZXIuZ2V0KCdwcm94eScpID09ICdwcm9maWxlJwogICAgICAgIGlmIHVzZXNfcHJveHkgYW5kIG5vdCBpc2luc3RhbmNlKF9tYXBwaW5nKHByb3h5KS5nZXQoJ3NvY2tzNScpLCBzdHIpOgogICAgICAgICAgICBlcnJvcihwYXRoICsgWydyZXNvbHZlcicsICdwcm94eSddLCAn5L2/55SoIHByb2ZpbGUg5Luj55CG5pe277yM5b2T5YmN5Ye656uZ6YWN572u5b+F6aG76K6+572uIHNvY2tzNSDku6PnkIYnKQogICAgICAgIHNlcnZlcnMgPSByZXNvbHZlci5nZXQoJ25hbWVzZXJ2ZXJzJykKICAgICAgICBmb3IgaW5kZXgsIHNlcnZlciBpbiBlbnVtZXJhdGUoc2VydmVycyBpZiBpc2luc3RhbmNlKHNlcnZlcnMsIGxpc3QpIGVsc2UgW10pOgogICAgICAgICAgICBzZXJ2ZXIgPSBfbWFwcGluZyhzZXJ2ZXIpCiAgICAgICAgICAgIGl0ZW1fcGF0aCA9IHBhdGggKyBbJ3Jlc29sdmVyJywgJ25hbWVzZXJ2ZXJzJywgaW5kZXhdCiAgICAgICAgICAgIHNjaGVtZSwgaG9zdCA9IF9lbmRwb2ludChzZXJ2ZXIuZ2V0KCdhZGRyJykpCiAgICAgICAgICAgIGlmIGhvc3QgYW5kIG5vdCBfbGl0ZXJhbF9pcChob3N0KSBhbmQgc2VydmVyLmdldCgnZGlhbF9hZGRyJykgaXMgTm9uZToKICAgICAgICAgICAgICAgIGVycm9yKGl0ZW1fcGF0aCArIFsnZGlhbF9hZGRyJ10sICfln5/lkI3lnosgbmFtZXNlcnZlciDlv4XpobvphY3nva4gZGlhbF9hZGRy77yM6YG/5YWN5byV5a+86Kej5p6Q5b6q546vJykKICAgICAgICAgICAgaWYgdXNlc19wcm94eSBhbmQgc2NoZW1lIGluICgndWRwJywgJ3F1aWMnLCAnZG9xJywgJ2gzJyk6CiAgICAgICAgICAgICAgICBlcnJvcihpdGVtX3BhdGggKyBbJ2FkZHInXSwgJ1VEUOOAgURvUSDlkowgRG9IMyBuYW1lc2VydmVyIOS4jeaUr+aMgSBwcm9maWxlIFNPQ0tTNSDku6PnkIYnKQoKICAgIHBsdWdpbnMgPSBkb2N1bWVudC5nZXQoJ3BsdWdpbnMnKQogICAgZm9yIGluZGV4LCBwbHVnaW4gaW4gZW51bWVyYXRlKHBsdWdpbnMgaWYgaXNpbnN0YW5jZShwbHVnaW5zLCBsaXN0KSBlbHNlIFtdKToKICAgICAgICBwbHVnaW4gPSBfbWFwcGluZyhwbHVnaW4pCiAgICAgICAga2luZCwgYXJncyA9IHBsdWdpbi5nZXQoJ3R5cGUnKSwgX21hcHBpbmcocGx1Z2luLmdldCgnYXJncycpKQogICAgICAgIHBhdGggPSBbJ3BsdWdpbnMnLCBpbmRleCwgJ2FyZ3MnXQogICAgICAgIGlmIGtpbmQgaW4gKCd0Y3Bfc2VydmVyJywgJ2h0dHBfc2VydmVyJyk6CiAgICAgICAgICAgIHRsc19wYWlyKGFyZ3MsIHBhdGgsIHJlcXVpcmVkPWtpbmQgPT0gJ2h0dHBfc2VydmVyJyBhbmQgYXJncy5nZXQoJ2VuYWJsZV9odHRwMycpIGlzIFRydWUpCiAgICAgICAgaWYga2luZCA9PSAnaHR0cF9zZXJ2ZXInOgogICAgICAgICAgICBlbnRyaWVzID0gYXJncy5nZXQoJ2VudHJpZXMnKQogICAgICAgICAgICBmb3Igb2Zmc2V0LCBlbnRyeSBpbiBlbnVtZXJhdGUoZW50cmllcyBpZiBpc2luc3RhbmNlKGVudHJpZXMsIGxpc3QpIGVsc2UgW10pOgogICAgICAgICAgICAgICAgcm91dGUgPSBfbWFwcGluZyhlbnRyeSkuZ2V0KCdwYXRoJykKICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uocm91dGUsIHN0cikgYW5kIG5vdCBfZGVmZXJyZWQocm91dGUpIGFuZCBub3Qgcm91dGUuc3RhcnRzd2l0aCgnLycpOgogICAgICAgICAgICAgICAgICAgIGVycm9yKHBhdGggKyBbJ2VudHJpZXMnLCBvZmZzZXQsICdwYXRoJ10sICdIVFRQIOi3r+W+hOW/hemhu+S7pSAvIOW8gOWktCcsICdmb3JtYXQnKQogICAgICAgIGlmIGtpbmQgaW4gKCdkb3dubG9hZCcsICdodHRwX3JlcXVlc3QnLCAndXBncmFkZScsICdpcF9zZWxlY3RvcicpOgogICAgICAgICAgICAjIFRoZSBzaGFyZWQgSFRUUCBjbGllbnQgdHJlYXRzIGVtcHR5IG91dGJvdW5kIGFzIHRoZSBkZWZhdWx0LgogICAgICAgICAgICAjIGlwX3NlbGVjdG9yIHJlamVjdHMgaXQgaW4gaXRzIG93biBjb25maWcgdmFsaWRhdG9yLgogICAgICAgICAgICBwcm9maWxlX3JlZmVyZW5jZShhcmdzLmdldCgnb3V0Ym91bmQnKSwgcGF0aCArIFsnb3V0Ym91bmQnXSwgYWxsb3dfZW1wdHk9a2luZCAhPSAnaXBfc2VsZWN0b3InKQogICAgICAgIGlmIGtpbmQgIT0gJ2ZvcndhcmQnOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHVwc3RyZWFtcyA9IGFyZ3MuZ2V0KCd1cHN0cmVhbXMnKQogICAgICAgIGZvciBvZmZzZXQsIHVwc3RyZWFtIGluIGVudW1lcmF0ZSh1cHN0cmVhbXMgaWYgaXNpbnN0YW5jZSh1cHN0cmVhbXMsIGxpc3QpIGVsc2UgW10pOgogICAgICAgICAgICB1cHN0cmVhbSA9IF9tYXBwaW5nKHVwc3RyZWFtKQogICAgICAgICAgICBpdGVtX3BhdGggPSBwYXRoICsgWyd1cHN0cmVhbXMnLCBvZmZzZXRdCiAgICAgICAgICAgIHByb2ZpbGVfcmVmZXJlbmNlKHVwc3RyZWFtLmdldCgnb3V0Ym91bmQnKSwgaXRlbV9wYXRoICsgWydvdXRib3VuZCddKQogICAgICAgICAgICBtaW5pbXVtLCBtYXhpbXVtID0gdXBzdHJlYW0uZ2V0KCdtaW5fY29ubnMnKSwgdXBzdHJlYW0uZ2V0KCdtYXhfY29ubnMnKQogICAgICAgICAgICBpZiBtYXhpbXVtIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBtYXhpbXVtID0gNjQKICAgICAgICAgICAgaWYgX2ludGVnZXIobWluaW11bSkgYW5kIF9pbnRlZ2VyKG1heGltdW0pIGFuZCBtaW5pbXVtID4gbWF4aW11bToKICAgICAgICAgICAgICAgIGVycm9yKGl0ZW1fcGF0aCArIFsnbWluX2Nvbm5zJ10sICfkuI3og73lpKfkuo7mnInmlYggbWF4X2Nvbm5z77yI5pyq6YWN572u5pe25Li6IDY077yJJykKICAgICAgICAgICAgXywgaG9zdCA9IF9lbmRwb2ludCh1cHN0cmVhbS5nZXQoJ2FkZHInKSkKICAgICAgICAgICAgYm9vdHN0cmFwID0gdXBzdHJlYW0uZ2V0KCdib290c3RyYXAnKQogICAgICAgICAgICAjIENvcmUgaWdub3JlcyBib290c3RyYXAgZm9yIGxpdGVyYWwgdXBzdHJlYW0gSVBzIG9yIGV4cGxpY2l0CiAgICAgICAgICAgICMgZGlhbF9hZGRyLiBQcmVzZXJ2ZSB0aGF0IGxlZ2FsIGlnbm9yZWQgZmllbGQsIGluY2x1ZGluZyAiIi4KICAgICAgICAgICAgaWYgKGhvc3QgYW5kIG5vdCBfbGl0ZXJhbF9pcChob3N0KSBhbmQgdXBzdHJlYW0uZ2V0KCdkaWFsX2FkZHInKSBpcyBOb25lCiAgICAgICAgICAgICAgICAgICAgYW5kIGlzaW5zdGFuY2UoYm9vdHN0cmFwLCBzdHIpIGFuZCBub3QgX2RlZmVycmVkKGJvb3RzdHJhcCkKICAgICAgICAgICAgICAgICAgICBhbmQgbm90IF9ib290c3RyYXBfc29ja2V0KGJvb3RzdHJhcCkpOgogICAgICAgICAgICAgICAgZXJyb3IoaXRlbV9wYXRoICsgWydib290c3RyYXAnXSwgJ+W8leWvvCBETlMg5b+F6aG75Li6IElQOuerr+WPoyDmiJYgW0lQdjZdOuerr+WPoycsICdmb3JtYXQnKQogICAgcmV0dXJuIGlzc3Vlcwo=
+"""Cross-field rules from OxiDNS 1.6.1's config and network deserializers.
+
+This module reports errors without rewriting the document. Option<T> nulls,
+explicit empty route lists, unknown extension fields, and ignored legacy
+bootstrap settings therefore retain their original meaning and spelling.
+File availability, TLS contents and build features remain target-core checks.
+"""
+import ipaddress
+import re
+from urllib.parse import urlsplit
+
+
+_ENV = re.compile(r'\$\{[^}]+\}')
+
+
+def _deferred(value):
+    return isinstance(value, str) and bool(_ENV.search(value))
+
+
+def _mapping(value):
+    return value if isinstance(value, dict) else {}
+
+
+def _integer(value):
+    return isinstance(value, int) and not isinstance(value, bool)
+
+
+def _endpoint(value):
+    """Inspect an already schema-validated upstream without DNS lookups."""
+    if not isinstance(value, str) or _deferred(value):
+        return None, None
+    try:
+        result = urlsplit(value if '//' in value else 'udp://' + value)
+        return result.scheme.lower(), result.hostname
+    except (ValueError, AttributeError):
+        return None, None
+
+
+def _literal_ip(value):
+    try:
+        ipaddress.ip_address(value)
+        return True
+    except (ValueError, TypeError):
+        return False
+
+
+def _bootstrap_socket(value):
+    """Legacy bootstrap is SocketAddr, unlike listen's :port shorthand."""
+    if not isinstance(value, str):
+        return False
+    value = value.strip()
+    match = re.fullmatch(r'\[([^\]]+)\]:(\d+)', value)
+    if match:
+        host, port = match.groups()
+        try:
+            return ipaddress.ip_address(host).version == 6 and 0 <= int(port) <= 65535
+        except ValueError:
+            return False
+    match = re.fullmatch(r'([^:]+):(\d+)', value)
+    if not match:
+        return False
+    host, port = match.groups()
+    try:
+        return ipaddress.ip_address(host).version == 4 and 0 <= int(port) <= 65535
+    except ValueError:
+        return False
+
+
+def collect_global_issues(document):
+    """Return path-addressed issues; the shared validator applies types first."""
+    issues = []
+
+    def error(path, message, code='constraint'):
+        issues.append({'path': path, 'message': message, 'code': code})
+
+    def nonblank(value, path):
+        if isinstance(value, str) and not _deferred(value) and not value.strip():
+            error(path, '必须填写非空文本')
+
+    def tls_pair(config, path, required=False):
+        cert, key = config.get('cert'), config.get('key')
+        # Null means absent. An explicitly configured path must be nonempty.
+        if required or cert is not None or key is not None:
+            if cert is None:
+                error(path + ['cert'], '启用 TLS 时必须同时配置证书和私钥')
+            else:
+                nonblank(cert, path + ['cert'])
+            if key is None:
+                error(path + ['key'], '启用 TLS 时必须同时配置证书和私钥')
+            else:
+                nonblank(key, path + ['key'])
+
+    if not isinstance(document, dict):
+        return issues
+
+    log = _mapping(document.get('log'))
+    level = log.get('level')
+    if isinstance(level, str) and not _deferred(level) and level.lower() not in (
+            'off', 'trace', 'debug', 'info', 'warn', 'error'):
+        error(['log', 'level'], '日志级别必须为 off、trace、debug、info、warn 或 error', 'enum')
+
+    http = _mapping(_mapping(document.get('api')).get('http'))
+    ssl = _mapping(http.get('ssl'))
+    tls_pair(ssl, ['api', 'http', 'ssl'])
+    if ssl.get('require_client_cert') is True and ssl.get('client_ca') is None:
+        error(['api', 'http', 'ssl', 'client_ca'], '要求客户端证书时必须配置 client_ca')
+    if ssl.get('client_ca') is not None:
+        nonblank(ssl.get('client_ca'), ['api', 'http', 'ssl', 'client_ca'])
+
+    outbound = _mapping(_mapping(document.get('network')).get('outbound'))
+    profiles = _mapping(outbound.get('profiles'))
+
+    def profile_reference(value, path, strict_name=False, allow_empty=False):
+        if not isinstance(value, str) or _deferred(value):
+            return
+        name = value.strip()
+        if not name:
+            if not allow_empty:
+                error(path, '出站配置名称不能为空')
+            return
+        if strict_name and name != value:
+            error(path, '出站配置名称不能包含首尾空白')
+        if name not in profiles:
+            error(path, '引用的出站配置未在 network.outbound.profiles 中定义', 'reference')
+
+    profile_reference(outbound.get('default'), ['network', 'outbound', 'default'], strict_name=True)
+    for name, raw_profile in profiles.items():
+        path = ['network', 'outbound', 'profiles', name]
+        if not isinstance(name, str) or not name.strip() or name != name.strip():
+            error(path, '出站配置名称必须为不含首尾空白的非空文本')
+        profile = _mapping(raw_profile)
+        resolver, proxy = profile.get('resolver'), profile.get('proxy')
+        if isinstance(resolver, str) and not _deferred(resolver) and resolver.strip().lower() != 'system':
+            error(path + ['resolver'], '解析器简写只支持 system', 'enum')
+        if isinstance(proxy, str) and not _deferred(proxy) and proxy.strip().lower() not in ('none', 'direct'):
+            error(path + ['proxy'], '代理简写只支持 none 或 direct', 'enum')
+        resolver = _mapping(resolver)
+        uses_proxy = resolver.get('proxy') == 'profile'
+        if uses_proxy and not isinstance(_mapping(proxy).get('socks5'), str):
+            error(path + ['resolver', 'proxy'], '使用 profile 代理时，当前出站配置必须设置 socks5 代理')
+        servers = resolver.get('nameservers')
+        for index, server in enumerate(servers if isinstance(servers, list) else []):
+            server = _mapping(server)
+            item_path = path + ['resolver', 'nameservers', index]
+            scheme, host = _endpoint(server.get('addr'))
+            if host and not _literal_ip(host) and server.get('dial_addr') is None:
+                error(item_path + ['dial_addr'], '域名型 nameserver 必须配置 dial_addr，避免引导解析循环')
+            if uses_proxy and scheme in ('udp', 'quic', 'doq', 'h3'):
+                error(item_path + ['addr'], 'UDP、DoQ 和 DoH3 nameserver 不支持 profile SOCKS5 代理')
+
+    plugins = document.get('plugins')
+    for index, plugin in enumerate(plugins if isinstance(plugins, list) else []):
+        plugin = _mapping(plugin)
+        kind, args = plugin.get('type'), _mapping(plugin.get('args'))
+        path = ['plugins', index, 'args']
+        if kind in ('tcp_server', 'http_server'):
+            tls_pair(args, path, required=kind == 'http_server' and args.get('enable_http3') is True)
+        if kind == 'http_server':
+            entries = args.get('entries')
+            for offset, entry in enumerate(entries if isinstance(entries, list) else []):
+                route = _mapping(entry).get('path')
+                if isinstance(route, str) and not _deferred(route) and not route.startswith('/'):
+                    error(path + ['entries', offset, 'path'], 'HTTP 路径必须以 / 开头', 'format')
+        if kind in ('download', 'http_request', 'upgrade', 'ip_selector'):
+            # The shared HTTP client treats empty outbound as the default.
+            # ip_selector rejects it in its own config validator.
+            profile_reference(args.get('outbound'), path + ['outbound'], allow_empty=kind != 'ip_selector')
+        if kind != 'forward':
+            continue
+        upstreams = args.get('upstreams')
+        for offset, upstream in enumerate(upstreams if isinstance(upstreams, list) else []):
+            upstream = _mapping(upstream)
+            item_path = path + ['upstreams', offset]
+            profile_reference(upstream.get('outbound'), item_path + ['outbound'])
+            minimum, maximum = upstream.get('min_conns'), upstream.get('max_conns')
+            if maximum is None:
+                maximum = 64
+            if _integer(minimum) and _integer(maximum) and minimum > maximum:
+                error(item_path + ['min_conns'], '不能大于有效 max_conns（未配置时为 64）')
+            _, host = _endpoint(upstream.get('addr'))
+            bootstrap = upstream.get('bootstrap')
+            # Core ignores bootstrap for literal upstream IPs or explicit
+            # dial_addr. Preserve that legal ignored field, including "".
+            if (host and not _literal_ip(host) and upstream.get('dial_addr') is None
+                    and isinstance(bootstrap, str) and not _deferred(bootstrap)
+                    and not _bootstrap_socket(bootstrap)):
+                error(item_path + ['bootstrap'], '引导 DNS 必须为 IP:端口 或 [IPv6]:端口', 'format')
+    return issues

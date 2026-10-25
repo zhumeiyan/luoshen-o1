@@ -1,1 +1,283 @@
-aW1wb3J0IHNxbGl0ZTMKaW1wb3J0IHJlCmltcG9ydCBoYXNobGliCmltcG9ydCB0aHJlYWRpbmcKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmltcG9ydCBsb2dnaW5nCgpmcm9tIC5jb25maWcgaW1wb3J0IERCX1BBVEgsIGdldF9kZWNyeXB0ZWRfZGlyCmZyb20gLmFkYXB0ZXJzIGltcG9ydCByb3V0ZV9zeW5jCmZyb20gLmFkYXB0ZXJzLm1lZGlhIGltcG9ydCBzeW5jX2Vtb3RpY29uc192NCwgc3luY19mYXZvcml0ZXNfdjQsIHN5bmNfbWVkaWFfdjQKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQoKIyDnur/nqIvmnKzlnLDov57mjqXnmbvorrDvvJrlt6Xlhbflh73mlbDpgIDlh7rml7bnu5/kuIDph4rmlL7vvIzkv53or4HlvILluLjot6/lvoTkuZ/kuI3kvJrms4TmvI/ov57mjqUKX2Nvbm5fdGxzID0gdGhyZWFkaW5nLmxvY2FsKCkKCgpkZWYgcmVsZWFzZV9jb25uZWN0aW9ucygpIC0+IE5vbmU6CiAgICAiIiLlhbPpl63lvZPliY3nur/nqIvlt7LmiZPlvIDnmoTlhajpg6jmlbDmja7lupPov57mjqXvvIjlj6/ph43lpI3osIPnlKjvvIxjbG9zZSDluYLnrYnvvIkiIiIKICAgIGZvciBjb25uIGluIGdldGF0dHIoX2Nvbm5fdGxzLCAiY29ubnMiLCBbXSk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBjb25uLmNsb3NlKCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBwYXNzCiAgICBfY29ubl90bHMuY29ubnMgPSBbXQoKCmRlZiBnZXRfY29ubmVjdGlvbigpOgogICAgZnJvbSAuY29uZmlnIGltcG9ydCBEQl9QQVRICiAgICBEQl9QQVRILnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBjb25uID0gc3FsaXRlMy5jb25uZWN0KERCX1BBVEgpCiAgICBjb25uLnJvd19mYWN0b3J5ID0gc3FsaXRlMy5Sb3cKICAgIGNvbm4uZXhlY3V0ZSgiUFJBR01BIGpvdXJuYWxfbW9kZT1XQUwiKQogICAgY29ubi5leGVjdXRlKCJQUkFHTUEgc3luY2hyb25vdXM9Tk9STUFMIikKICAgIGlmIG5vdCBoYXNhdHRyKF9jb25uX3RscywgImNvbm5zIik6CiAgICAgICAgX2Nvbm5fdGxzLmNvbm5zID0gW10KICAgIF9jb25uX3Rscy5jb25ucy5hcHBlbmQoY29ubikKICAgIHJldHVybiBjb25uCgpkZWYgaW5pdF9zY2hlbWEoKToKICAgIERCX1BBVEgucGFyZW50Lm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIGNvbm4gPSBnZXRfY29ubmVjdGlvbigpCiAgICBjb25uLmV4ZWN1dGVzY3JpcHQoIiIiCiAgICAgICAgQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgbWV0YSAoCiAgICAgICAgICAgIGtleSBURVhUIFBSSU1BUlkgS0VZLAogICAgICAgICAgICB2YWx1ZSBURVhUCiAgICAgICAgKTsKCiAgICAgICAgQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgc2Vzc2lvbnMgKAogICAgICAgICAgICB1c2VybmFtZSBURVhUIFBSSU1BUlkgS0VZLAogICAgICAgICAgICB0eXBlIFRFWFQsCiAgICAgICAgICAgIGRpc3BsYXlfbmFtZSBURVhULAogICAgICAgICAgICBtZXNzYWdlX2NvdW50IElOVEVHRVIgREVGQVVMVCAwLAogICAgICAgICAgICBmaXJzdF90aW1lIElOVEVHRVIsCiAgICAgICAgICAgIGxhc3RfdGltZSBJTlRFR0VSLAogICAgICAgICAgICBsYXN0X21zZ19wcmV2aWV3IFRFWFQKICAgICAgICApOwoKICAgICAgICBDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBjb250YWN0cyAoCiAgICAgICAgICAgIHVzZXJuYW1lIFRFWFQgUFJJTUFSWSBLRVksCiAgICAgICAgICAgIGFsaWFzIFRFWFQsCiAgICAgICAgICAgIGRpc3BsYXlfbmFtZSBURVhULAogICAgICAgICAgICB0eXBlIElOVEVHRVIgREVGQVVMVCAwCiAgICAgICAgKTsKCiAgICAgICAgQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgY2hhdHJvb21fbWVtYmVycyAoCiAgICAgICAgICAgIGNoYXRyb29tX3VzZXJuYW1lIFRFWFQsCiAgICAgICAgICAgIG1lbWJlcl91c2VybmFtZSBURVhULAogICAgICAgICAgICBkaXNwbGF5X25hbWUgVEVYVCwKICAgICAgICAgICAgUFJJTUFSWSBLRVkgKGNoYXRyb29tX3VzZXJuYW1lLCBtZW1iZXJfdXNlcm5hbWUpCiAgICAgICAgKTsKCiAgICAgICAgQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgbWVzc2FnZXMgKAogICAgICAgICAgICBpZCBJTlRFR0VSIFBSSU1BUlkgS0VZIEFVVE9JTkNSRU1FTlQsCiAgICAgICAgICAgIHNvdXJjZV9maWxlIFRFWFQsCiAgICAgICAgICAgIGxvY2FsX2lkIElOVEVHRVIsCiAgICAgICAgICAgIHNlc3Npb25fdXNlcm5hbWUgVEVYVCwKICAgICAgICAgICAgc2VuZGVyX3VzZXJuYW1lIFRFWFQsCiAgICAgICAgICAgIGNyZWF0ZV90aW1lIElOVEVHRVIsCiAgICAgICAgICAgIGxvY2FsX3R5cGUgSU5URUdFUiwKICAgICAgICAgICAgY29udGVudCBURVhULAogICAgICAgICAgICBVTklRVUUoc291cmNlX2ZpbGUsIHNlc3Npb25fdXNlcm5hbWUsIGxvY2FsX2lkKQogICAgICAgICk7CgogICAgICAgIENSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGlkeF9tZXNzYWdlc19zZXNzaW9uX3RpbWUgT04gbWVzc2FnZXMoc2Vzc2lvbl91c2VybmFtZSwgY3JlYXRlX3RpbWUpOwogICAgICAgIENSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGlkeF9tZXNzYWdlc190aW1lIE9OIG1lc3NhZ2VzKGNyZWF0ZV90aW1lKTsKCiAgICAgICAgQ1JFQVRFIFZJUlRVQUwgVEFCTEUgSUYgTk9UIEVYSVNUUyBtZXNzYWdlc19mdHMgVVNJTkcgZnRzNSgKICAgICAgICAgICAgY29udGVudCwKICAgICAgICAgICAgY29udGVudD0nbWVzc2FnZXMnLAogICAgICAgICAgICBjb250ZW50X3Jvd2lkPSdpZCcsCiAgICAgICAgICAgIHRva2VuaXplPSd1bmljb2RlNjEnCiAgICAgICAgKTsKCiAgICAgICAgQ1JFQVRFIFRSSUdHRVIgSUYgTk9UIEVYSVNUUyBtZXNzYWdlc19haSBBRlRFUiBJTlNFUlQgT04gbWVzc2FnZXMgQkVHSU4KICAgICAgICAgICAgSU5TRVJUIElOVE8gbWVzc2FnZXNfZnRzKHJvd2lkLCBjb250ZW50KSBWQUxVRVMgKG5ldy5pZCwgbmV3LmNvbnRlbnQpOwogICAgICAgIEVORDsKCiAgICAgICAgQ1JFQVRFIFRSSUdHRVIgSUYgTk9UIEVYSVNUUyBtZXNzYWdlc19hZCBBRlRFUiBERUxFVEUgT04gbWVzc2FnZXMgQkVHSU4KICAgICAgICAgICAgSU5TRVJUIElOVE8gbWVzc2FnZXNfZnRzKG1lc3NhZ2VzX2Z0cywgcm93aWQsIGNvbnRlbnQpIFZBTFVFUygnZGVsZXRlJywgb2xkLmlkLCBvbGQuY29udGVudCk7CiAgICAgICAgRU5EOwoKICAgICAgICBDUkVBVEUgVFJJR0dFUiBJRiBOT1QgRVhJU1RTIG1lc3NhZ2VzX2F1IEFGVEVSIFVQREFURSBPTiBtZXNzYWdlcyBCRUdJTgogICAgICAgICAgICBJTlNFUlQgSU5UTyBtZXNzYWdlc19mdHMobWVzc2FnZXNfZnRzLCByb3dpZCwgY29udGVudCkgVkFMVUVTKCdkZWxldGUnLCBvbGQuaWQsIG9sZC5jb250ZW50KTsKICAgICAgICAgICAgSU5TRVJUIElOVE8gbWVzc2FnZXNfZnRzKHJvd2lkLCBjb250ZW50KSBWQUxVRVMgKG5ldy5pZCwgbmV3LmNvbnRlbnQpOwogICAgICAgIEVORDsKCiAgICAgICAgQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgbWVkaWFfZmlsZXMgKAogICAgICAgICAgICBpZCBJTlRFR0VSIFBSSU1BUlkgS0VZIEFVVE9JTkNSRU1FTlQsCiAgICAgICAgICAgIG1kNSBURVhUIE5PVCBOVUxMLAogICAgICAgICAgICBraW5kIFRFWFQgTk9UIE5VTEwsCiAgICAgICAgICAgIGZpbGVfbmFtZSBURVhULAogICAgICAgICAgICBmaWxlX3NpemUgSU5URUdFUiwKICAgICAgICAgICAgbW9kaWZ5X3RpbWUgSU5URUdFUiwKICAgICAgICAgICAgY2hhdF9oYXNoIFRFWFQsCiAgICAgICAgICAgIG1vbnRoIFRFWFQsCiAgICAgICAgICAgIHJlbF9wYXRoIFRFWFQsCiAgICAgICAgICAgIGFic19wYXRoIFRFWFQsCiAgICAgICAgICAgIC0tIOWQjOS4gCBtZDUg5Y+v6IO95Ye6546w5Zyo5aSa5Liq5Lya6K+d55uu5b2V5LiL77yM5Li76ZSu5Y+q5Y+WIG1kNSDkvJrkupLnm7jopobnm5bkuKLot6/lvoQKICAgICAgICAgICAgVU5JUVVFKG1kNSwgcmVsX3BhdGgpCiAgICAgICAgKTsKCiAgICAgICAgQ1JFQVRFIElOREVYIElGIE5PVCBFWElTVFMgaWR4X21lZGlhX21kNSBPTiBtZWRpYV9maWxlcyhtZDUpOwogICAgICAgIENSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGlkeF9tZWRpYV9raW5kIE9OIG1lZGlhX2ZpbGVzKGtpbmQpOwogICAgICAgIENSRUFURSBJTkRFWCBJRiBOT1QgRVhJU1RTIGlkeF9tZWRpYV9tb250aCBPTiBtZWRpYV9maWxlcyhtb250aCk7CgogICAgICAgIENSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIGZhdm9yaXRlcyAoCiAgICAgICAgICAgIGxvY2FsX2lkIElOVEVHRVIgUFJJTUFSWSBLRVksCiAgICAgICAgICAgIHR5cGUgSU5URUdFUiwKICAgICAgICAgICAgdXBkYXRlX3RpbWUgSU5URUdFUiwKICAgICAgICAgICAgdGl0bGUgVEVYVCwKICAgICAgICAgICAgZGVzY3JpcHRpb24gVEVYVCwKICAgICAgICAgICAgZnJvbV91c2VyIFRFWFQsCiAgICAgICAgICAgIHJhd19jb250ZW50IFRFWFQKICAgICAgICApOwoKICAgICAgICBDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBlbW90aWNvbnMgKAogICAgICAgICAgICBtZDUgVEVYVCBQUklNQVJZIEtFWSwKICAgICAgICAgICAgY2FwdGlvbiBURVhULAogICAgICAgICAgICBwYWNrYWdlX2lkIFRFWFQsCiAgICAgICAgICAgIHBhY2thZ2VfbmFtZSBURVhULAogICAgICAgICAgICBraW5kIFRFWFQsCiAgICAgICAgICAgIHRodW1iX3VybCBURVhULAogICAgICAgICAgICBjZG5fdXJsIFRFWFQsCiAgICAgICAgICAgIGRlc2lnbmVyX2lkIFRFWFQKICAgICAgICApOwoKICAgICAgICBDUkVBVEUgSU5ERVggSUYgTk9UIEVYSVNUUyBpZHhfZW1vdGljb25zX3BhY2thZ2UgT04gZW1vdGljb25zKHBhY2thZ2VfaWQpOwogICAgIiIiKQogICAgY29ubi5jb21taXQoKQogICAgY29ubi5jbG9zZSgpCgojIEVUTCDop6PmnpAv5Lit6Ze05bqT57uT5p6E54mI5pys5Y+344CC6Kej5p6Q6YC76L6R5oiW6KGo57uT5p6E5Y+Y5YyW5pe25b+F6aG76YCS5aKe77yMCiMg5ZCm5YiZ6ICB55So5oi35Y2H57qn5ZCO5rqQ5bqT5paH5Lu25pyq5Y+YIC0+IOaMh+e6ueS4gOiHtCAtPiDnm7TmjqUgc2tpcHBlZO+8jOaWsOmAu+i+keawuOS4jeeUn+aViOOAggpFVExfU0NIRU1BX1ZFUlNJT04gPSAiNSIKCiMg5rS+55Sf6KGo77yIbWVkaWFfZmlsZXMgLyBmYXZvcml0ZXMgLyBlbW90aWNvbnPvvInnu5PmnoTniYjmnKzjgILov5nkuInlvKDooajmr4/mrKEgRVRMIOmDveS8mgojIOS7jua6kOW6k+aVtOS9k+mHjeW7uu+8jOWboOatpOe7k+aehOWNh+e6p+aXtuebtOaOpSBEUk9QIOmHjeW7uuacgOWuieWFqO+8jOS4jeS8muS4oueUqOaIt+aVsOaNruOAggpERVJJVkVEX1NDSEVNQV9WRVJTSU9OID0gIjEiCgoKZGVmIF9taWdyYXRlX2Rlcml2ZWRfdGFibGVzKGNvbm4pIC0+IE5vbmU6CiAgICAiIiLmtL7nlJ/ooajnu5PmnoTljYfnuqfvvJpEUk9QIOWQjueUsemaj+WQjueahCBFVEwg6YeN5bu6IiIiCiAgICBjdXIgPSBjb25uLmN1cnNvcigpCiAgICBjdXIuZXhlY3V0ZSgiU0VMRUNUIHZhbHVlIEZST00gbWV0YSBXSEVSRSBrZXk9J2Rlcml2ZWRfc2NoZW1hJyIpCiAgICByb3cgPSBjdXIuZmV0Y2hvbmUoKQogICAgaWYgcm93IGFuZCByb3dbMF0gPT0gREVSSVZFRF9TQ0hFTUFfVkVSU0lPTjoKICAgICAgICByZXR1cm4KICAgIGZvciB0YWJsZSBpbiAoIm1lZGlhX2ZpbGVzIiwgImZhdm9yaXRlcyIsICJlbW90aWNvbnMiKToKICAgICAgICBjdXIuZXhlY3V0ZShmIkRST1AgVEFCTEUgSUYgRVhJU1RTIHt0YWJsZX0iKQogICAgY29ubi5jb21taXQoKQogICAgaW5pdF9zY2hlbWEoKQogICAgY3VyLmV4ZWN1dGUoIklOU0VSVCBPUiBSRVBMQUNFIElOVE8gbWV0YSAoa2V5LCB2YWx1ZSkgVkFMVUVTICgnZGVyaXZlZF9zY2hlbWEnLCA/KSIsCiAgICAgICAgICAgICAgICAoREVSSVZFRF9TQ0hFTUFfVkVSU0lPTiwpKQogICAgY29ubi5jb21taXQoKQogICAgbG9nZ2VyLmluZm8oZiLmtL7nlJ/ooajnu5PmnoTlt7LljYfnuqfliLAge0RFUklWRURfU0NIRU1BX1ZFUlNJT05977yM562J5b6F5pys5qyhIEVUTCDph43lu7oiKQoKCmRlZiBjb21wdXRlX2ZpbmdlcnByaW50KGRlY3J5cHRlZF9kaXI6IFBhdGgpIC0+IHN0cjoKICAgICIiIuaMiSBFVEwg54mI5pysICsg5rqQ5bqT5paH5Lu25L+u5pS55pe26Ze05LiO5aSn5bCP6K6h566X5oyH57q5IiIiCiAgICBpdGVtcyA9IFtmImV0bDp7RVRMX1NDSEVNQV9WRVJTSU9OfSJdCiAgICBmb3IgcCBpbiBzb3J0ZWQoZGVjcnlwdGVkX2Rpci5yZ2xvYigiKi5kYiIpKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHN0YXQgPSBwLnN0YXQoKQogICAgICAgICAgICBpdGVtcy5hcHBlbmQoZiJ7cC5uYW1lfTp7c3RhdC5zdF9zaXplfTp7c3RhdC5zdF9tdGltZV9uc30iKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MKICAgIHJldHVybiBoYXNobGliLm1kNSgiXG4iLmpvaW4oaXRlbXMpLmVuY29kZSgpKS5oZXhkaWdlc3QoKQoKZGVmIF9jb2xsZWN0X3N0YXRzKGN1cjogc3FsaXRlMy5DdXJzb3IpIC0+IGRpY3Q6CiAgICAiIiLnu5/orqHkuK3pl7TlupPlvZPliY3nmoTmlbDmja7ph4/vvIjkvpsgQ0xJIOS4jiBNQ1Ag5bel5YW36L+U5Zue55yf5a6e5pWw6YeP77yJIiIiCiAgICBkZWYgY291bnQodGFibGU6IHN0cikgLT4gaW50OgogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIGN1ci5leGVjdXRlKGYiU0VMRUNUIENPVU5UKCopIEZST00ge3RhYmxlfSIpLmZldGNob25lKClbMF0KICAgICAgICBleGNlcHQgc3FsaXRlMy5FcnJvcjoKICAgICAgICAgICAgcmV0dXJuIDAKCiAgICByZXR1cm4gewogICAgICAgICJjb250YWN0cyI6IGNvdW50KCJjb250YWN0cyIpLAogICAgICAgICJzZXNzaW9ucyI6IGNvdW50KCJzZXNzaW9ucyIpLAogICAgICAgICJtZXNzYWdlcyI6IGNvdW50KCJtZXNzYWdlcyIpLAogICAgICAgICJjaGF0cm9vbV9tZW1iZXJzIjogY291bnQoImNoYXRyb29tX21lbWJlcnMiKSwKICAgICAgICAibWVkaWFfZmlsZXMiOiBjb3VudCgibWVkaWFfZmlsZXMiKSwKICAgICAgICAiZmF2b3JpdGVzIjogY291bnQoImZhdm9yaXRlcyIpLAogICAgICAgICJlbW90aWNvbnMiOiBjb3VudCgiZW1vdGljb25zIiksCiAgICB9CgoKZGVmIHN5bmNfZGF0YShmb3JjZTogYm9vbCA9IEZhbHNlKSAtPiBkaWN0OgogICAgIiIi5bCG6Kej5a+G5ZCO55qEIHNxbGl0ZSDmlbDmja7lkIzmraXliLDnu5/kuIDkuK3pl7TlupMiIiIKICAgIGRlY3J5cHRlZF9kaXIgPSBnZXRfZGVjcnlwdGVkX2RpcigpCiAgICBpZiBub3QgZGVjcnlwdGVkX2Rpci5leGlzdHMoKToKICAgICAgICByZXR1cm4geyJzdGF0dXMiOiAiZXJyb3IiLCAibWVzc2FnZSI6IGYiRGVjcnlwdGVkIGRpciB7ZGVjcnlwdGVkX2Rpcn0gbm90IGZvdW5kIn0KCiAgICBpbml0X3NjaGVtYSgpCiAgICBjb25uID0gZ2V0X2Nvbm5lY3Rpb24oKQogICAgX21pZ3JhdGVfZGVyaXZlZF90YWJsZXMoY29ubikKICAgIGN1ciA9IGNvbm4uY3Vyc29yKCkKCiAgICBmcCA9IGNvbXB1dGVfZmluZ2VycHJpbnQoZGVjcnlwdGVkX2RpcikKICAgIGN1ci5leGVjdXRlKCJTRUxFQ1QgdmFsdWUgRlJPTSBtZXRhIFdIRVJFIGtleT0nZmluZ2VycHJpbnQnIikKICAgIHJvdyA9IGN1ci5mZXRjaG9uZSgpCiAgICBpZiBub3QgZm9yY2UgYW5kIHJvdyBhbmQgcm93WzBdID09IGZwOgogICAgICAgIHN0YXRzID0gX2NvbGxlY3Rfc3RhdHMoY3VyKQogICAgICAgIGNvbm4uY2xvc2UoKQogICAgICAgIHJldHVybiB7InN0YXR1cyI6ICJza2lwcGVkIiwgIm1lc3NhZ2UiOiAiTm8gbmV3IGRhdGFiYXNlIGNoYW5nZXMiLCAqKnN0YXRzfQoKICAgICMg5oyJ54mI5pys6Lev55Sx5omn6KGM6Kej5a+G5pWw5o2u5bqT5ZCM5q2lICh2MyAvIHY0IC8g5omp5bGV54mI5pysKQogICAgYWRhcHRlcl91c2VkID0gcm91dGVfc3luYyhkZWNyeXB0ZWRfZGlyLCBjdXIpCgogICAgIyDlqpLkvZPmlofku7bntKLlvJXkuI7mlLbol4/mnaHnm67vvIjnu7/ms6Hms6EgNC54IOeahOeLrOeri+aVsOaNruW6k++8ieOAggogICAgIyDku7vkuIDpmYTliqDlupPop6PmnpDlpLHotKXpg73kuI3lupTkuK3mlq3kuLvmtYHnqIvvvIzkvYbopoHlpoLlrp7orrDlvZXliLDov5Tlm57lgLzph4zjgIIKICAgIHdhcm5pbmdzOiBsaXN0ID0gW10KICAgIGlmIGFkYXB0ZXJfdXNlZCBpbiAoInY0IiwgImZhbGxiYWNrIik6CiAgICAgICAgZm9yIG5hbWUsIGZuIGluICgoIm1lZGlhIiwgc3luY19tZWRpYV92NCksICgiZmF2b3JpdGVzIiwgc3luY19mYXZvcml0ZXNfdjQpLAogICAgICAgICAgICAgICAgICAgICAgICAgKCJlbW90aWNvbnMiLCBzeW5jX2Vtb3RpY29uc192NCkpOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBmbihkZWNyeXB0ZWRfZGlyLCBjdXIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOiAgIyBub3FhOiBCTEUwMDEgLSDljZXkuKrpmYTliqDlupPlpLHotKXkuI3lvbHlk43kuLvlkIzmraUKICAgICAgICAgICAgICAgIHdhcm5pbmdzLmFwcGVuZChmIntuYW1lfToge2V4Y30iKQogICAgICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoZiJTeW5jIHtuYW1lfSBmYWlsZWQ6IHtleGN9IikKCiAgICAjIOabtOaWsOS8muivnee7n+iuoeS4jiBGVFMg57Si5byVCiAgICAjIOmhuuW4puihpem9kOS8muivneeahOmmluadoea2iOaBr+aXtumXtO+8mnYzL3Y0IOeahOS8muivneihqOmDveS4jeaPkOS+m+ivpeWtl+aute+8jAogICAgIyDmraTliY0gc2Vzc2lvbnMuZmlyc3RfdGltZSDmgZLkuLogTlVMTO+8iOWGmeS6huS9huS7juS4jeWhq++8iQogICAgY3VyLmV4ZWN1dGUoIiIiCiAgICAgICAgVVBEQVRFIHNlc3Npb25zIFNFVAogICAgICAgICAgICBtZXNzYWdlX2NvdW50ID0gKAogICAgICAgICAgICAgICAgU0VMRUNUIGNvdW50KCopIEZST00gbWVzc2FnZXMgV0hFUkUgbWVzc2FnZXMuc2Vzc2lvbl91c2VybmFtZSA9IHNlc3Npb25zLnVzZXJuYW1lCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGZpcnN0X3RpbWUgPSAoCiAgICAgICAgICAgICAgICBTRUxFQ1QgbWluKGNyZWF0ZV90aW1lKSBGUk9NIG1lc3NhZ2VzIFdIRVJFIG1lc3NhZ2VzLnNlc3Npb25fdXNlcm5hbWUgPSBzZXNzaW9ucy51c2VybmFtZQogICAgICAgICAgICApCiAgICAiIiIpCgogICAgIyDph43lu7ogRlRTIOe0ouW8le+8muWOhuWPsueJiOacrOeUqCBJTlNFUlQgT1IgUkVQTEFDRSDlhpnlhaXvvIzml6for43mnaHkvJrmrovnlZkKICAgICMg77yIcmVjdXJzaXZlX3RyaWdnZXJzIOm7mOiupOWFs+mXre+8jEFGVEVSIERFTEVURSDop6blj5HlmajkuI3op6blj5HvvInjgIIKICAgICMg546w5ZyoIFVQU0VSVCArIG1lc3NhZ2VzX2F1IOinpuWPkeWZqOW3suiDveWinumHj+S/neaMgeS4gOiHtO+8jOaVheWPquWcqCBFVEwg54mI5pys5Y+Y5YyW5ZCOCiAgICAjIOWBmuS4gOasoeWFqOmHjyByZWJ1aWxkIOiHquaEiO+8jOmBv+WFjeavj+asoSBFVEwg6YO955m96LeR5LiA6YGNIDI1IOS4h+ihjOOAggogICAgdHJ5OgogICAgICAgIGN1ci5leGVjdXRlKCJTRUxFQ1QgdmFsdWUgRlJPTSBtZXRhIFdIRVJFIGtleT0nZnRzX3JlYnVpbHRfdmVyc2lvbiciKQogICAgICAgIGZ0c19yb3cgPSBjdXIuZmV0Y2hvbmUoKQogICAgICAgIGlmIG5vdCBmdHNfcm93IG9yIGZ0c19yb3dbMF0gIT0gRVRMX1NDSEVNQV9WRVJTSU9OOgogICAgICAgICAgICBjdXIuZXhlY3V0ZSgiSU5TRVJUIElOVE8gbWVzc2FnZXNfZnRzKG1lc3NhZ2VzX2Z0cykgVkFMVUVTKCdyZWJ1aWxkJykiKQogICAgICAgICAgICBjdXIuZXhlY3V0ZSgiSU5TRVJUIE9SIFJFUExBQ0UgSU5UTyBtZXRhIChrZXksIHZhbHVlKSBWQUxVRVMgKCdmdHNfcmVidWlsdF92ZXJzaW9uJywgPykiLAogICAgICAgICAgICAgICAgICAgICAgICAoRVRMX1NDSEVNQV9WRVJTSU9OLCkpCiAgICBleGNlcHQgc3FsaXRlMy5FcnJvciBhcyBleGM6CiAgICAgICAgd2FybmluZ3MuYXBwZW5kKGYiZnRzIHJlYnVpbGQ6IHtleGN9IikKICAgICAgICBsb2dnZXIud2FybmluZyhmIkZUUyByZWJ1aWxkIGZhaWxlZDoge2V4Y30iKQoKICAgIGN1ci5leGVjdXRlKCJJTlNFUlQgT1IgUkVQTEFDRSBJTlRPIG1ldGEgKGtleSwgdmFsdWUpIFZBTFVFUyAoJ2ZpbmdlcnByaW50JywgPykiLCAoZnAsKSkKICAgIGNvbm4uY29tbWl0KCkKICAgIHN0YXRzID0gX2NvbGxlY3Rfc3RhdHMoY3VyKQogICAgY29ubi5jbG9zZSgpCiAgICByZXN1bHQgPSB7CiAgICAgICAgInN0YXR1cyI6ICJzdWNjZXNzIiwKICAgICAgICAibWVzc2FnZSI6IGYiRGF0YWJhc2Ugc3luY2hyb25pemVkIHN1Y2Nlc3NmdWxseSAoYWRhcHRlcjoge2FkYXB0ZXJfdXNlZH0pIiwKICAgICAgICAiYWRhcHRlciI6IGFkYXB0ZXJfdXNlZCwKICAgICAgICAqKnN0YXRzLAogICAgfQogICAgaWYgd2FybmluZ3M6CiAgICAgICAgcmVzdWx0WyJ3YXJuaW5ncyJdID0gd2FybmluZ3MKICAgIHJldHVybiByZXN1bHQK
+import sqlite3
+import re
+import hashlib
+import threading
+from pathlib import Path
+import logging
+
+from .config import DB_PATH, get_decrypted_dir
+from .adapters import route_sync
+from .adapters.media import sync_emoticons_v4, sync_favorites_v4, sync_media_v4
+
+logger = logging.getLogger(__name__)
+
+# 线程本地连接登记：工具函数退出时统一释放，保证异常路径也不会泄漏连接
+_conn_tls = threading.local()
+
+
+def release_connections() -> None:
+    """关闭当前线程已打开的全部数据库连接（可重复调用，close 幂等）"""
+    for conn in getattr(_conn_tls, "conns", []):
+        try:
+            conn.close()
+        except Exception:
+            pass
+    _conn_tls.conns = []
+
+
+def get_connection():
+    from .config import DB_PATH
+    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    conn.execute("PRAGMA journal_mode=WAL")
+    conn.execute("PRAGMA synchronous=NORMAL")
+    if not hasattr(_conn_tls, "conns"):
+        _conn_tls.conns = []
+    _conn_tls.conns.append(conn)
+    return conn
+
+def init_schema():
+    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
+    conn = get_connection()
+    conn.executescript("""
+        CREATE TABLE IF NOT EXISTS meta (
+            key TEXT PRIMARY KEY,
+            value TEXT
+        );
+
+        CREATE TABLE IF NOT EXISTS sessions (
+            username TEXT PRIMARY KEY,
+            type TEXT,
+            display_name TEXT,
+            message_count INTEGER DEFAULT 0,
+            first_time INTEGER,
+            last_time INTEGER,
+            last_msg_preview TEXT
+        );
+
+        CREATE TABLE IF NOT EXISTS contacts (
+            username TEXT PRIMARY KEY,
+            alias TEXT,
+            display_name TEXT,
+            type INTEGER DEFAULT 0
+        );
+
+        CREATE TABLE IF NOT EXISTS chatroom_members (
+            chatroom_username TEXT,
+            member_username TEXT,
+            display_name TEXT,
+            PRIMARY KEY (chatroom_username, member_username)
+        );
+
+        CREATE TABLE IF NOT EXISTS messages (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            source_file TEXT,
+            local_id INTEGER,
+            session_username TEXT,
+            sender_username TEXT,
+            create_time INTEGER,
+            local_type INTEGER,
+            content TEXT,
+            UNIQUE(source_file, session_username, local_id)
+        );
+
+        CREATE INDEX IF NOT EXISTS idx_messages_session_time ON messages(session_username, create_time);
+        CREATE INDEX IF NOT EXISTS idx_messages_time ON messages(create_time);
+
+        CREATE VIRTUAL TABLE IF NOT EXISTS messages_fts USING fts5(
+            content,
+            content='messages',
+            content_rowid='id',
+            tokenize='unicode61'
+        );
+
+        CREATE TRIGGER IF NOT EXISTS messages_ai AFTER INSERT ON messages BEGIN
+            INSERT INTO messages_fts(rowid, content) VALUES (new.id, new.content);
+        END;
+
+        CREATE TRIGGER IF NOT EXISTS messages_ad AFTER DELETE ON messages BEGIN
+            INSERT INTO messages_fts(messages_fts, rowid, content) VALUES('delete', old.id, old.content);
+        END;
+
+        CREATE TRIGGER IF NOT EXISTS messages_au AFTER UPDATE ON messages BEGIN
+            INSERT INTO messages_fts(messages_fts, rowid, content) VALUES('delete', old.id, old.content);
+            INSERT INTO messages_fts(rowid, content) VALUES (new.id, new.content);
+        END;
+
+        CREATE TABLE IF NOT EXISTS media_files (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            md5 TEXT NOT NULL,
+            kind TEXT NOT NULL,
+            file_name TEXT,
+            file_size INTEGER,
+            modify_time INTEGER,
+            chat_hash TEXT,
+            month TEXT,
+            rel_path TEXT,
+            abs_path TEXT,
+            -- 同一 md5 可能出现在多个会话目录下，主键只取 md5 会互相覆盖丢路径
+            UNIQUE(md5, rel_path)
+        );
+
+        CREATE INDEX IF NOT EXISTS idx_media_md5 ON media_files(md5);
+        CREATE INDEX IF NOT EXISTS idx_media_kind ON media_files(kind);
+        CREATE INDEX IF NOT EXISTS idx_media_month ON media_files(month);
+
+        CREATE TABLE IF NOT EXISTS favorites (
+            local_id INTEGER PRIMARY KEY,
+            type INTEGER,
+            update_time INTEGER,
+            title TEXT,
+            description TEXT,
+            from_user TEXT,
+            raw_content TEXT
+        );
+
+        CREATE TABLE IF NOT EXISTS emoticons (
+            md5 TEXT PRIMARY KEY,
+            caption TEXT,
+            package_id TEXT,
+            package_name TEXT,
+            kind TEXT,
+            thumb_url TEXT,
+            cdn_url TEXT,
+            designer_id TEXT
+        );
+
+        CREATE INDEX IF NOT EXISTS idx_emoticons_package ON emoticons(package_id);
+    """)
+    conn.commit()
+    conn.close()
+
+# ETL 解析/中间库结构版本号。解析逻辑或表结构变化时必须递增，
+# 否则老用户升级后源库文件未变 -> 指纹一致 -> 直接 skipped，新逻辑永不生效。
+ETL_SCHEMA_VERSION = "5"
+
+# 派生表（media_files / favorites / emoticons）结构版本。这三张表每次 ETL 都会
+# 从源库整体重建，因此结构升级时直接 DROP 重建最安全，不会丢用户数据。
+DERIVED_SCHEMA_VERSION = "1"
+
+
+def _migrate_derived_tables(conn) -> None:
+    """派生表结构升级：DROP 后由随后的 ETL 重建"""
+    cur = conn.cursor()
+    cur.execute("SELECT value FROM meta WHERE key='derived_schema'")
+    row = cur.fetchone()
+    if row and row[0] == DERIVED_SCHEMA_VERSION:
+        return
+    for table in ("media_files", "favorites", "emoticons"):
+        cur.execute(f"DROP TABLE IF EXISTS {table}")
+    conn.commit()
+    init_schema()
+    cur.execute("INSERT OR REPLACE INTO meta (key, value) VALUES ('derived_schema', ?)",
+                (DERIVED_SCHEMA_VERSION,))
+    conn.commit()
+    logger.info(f"派生表结构已升级到 {DERIVED_SCHEMA_VERSION}，等待本次 ETL 重建")
+
+
+def compute_fingerprint(decrypted_dir: Path) -> str:
+    """按 ETL 版本 + 源库文件修改时间与大小计算指纹"""
+    items = [f"etl:{ETL_SCHEMA_VERSION}"]
+    for p in sorted(decrypted_dir.rglob("*.db")):
+        try:
+            stat = p.stat()
+            items.append(f"{p.name}:{stat.st_size}:{stat.st_mtime_ns}")
+        except Exception:
+            pass
+    return hashlib.md5("\n".join(items).encode()).hexdigest()
+
+def _collect_stats(cur: sqlite3.Cursor) -> dict:
+    """统计中间库当前的数据量（供 CLI 与 MCP 工具返回真实数量）"""
+    def count(table: str) -> int:
+        try:
+            return cur.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
+        except sqlite3.Error:
+            return 0
+
+    return {
+        "contacts": count("contacts"),
+        "sessions": count("sessions"),
+        "messages": count("messages"),
+        "chatroom_members": count("chatroom_members"),
+        "media_files": count("media_files"),
+        "favorites": count("favorites"),
+        "emoticons": count("emoticons"),
+    }
+
+
+def sync_data(force: bool = False) -> dict:
+    """将解密后的 sqlite 数据同步到统一中间库"""
+    decrypted_dir = get_decrypted_dir()
+    if not decrypted_dir.exists():
+        return {"status": "error", "message": f"Decrypted dir {decrypted_dir} not found"}
+
+    init_schema()
+    conn = get_connection()
+    _migrate_derived_tables(conn)
+    cur = conn.cursor()
+
+    fp = compute_fingerprint(decrypted_dir)
+    cur.execute("SELECT value FROM meta WHERE key='fingerprint'")
+    row = cur.fetchone()
+    if not force and row and row[0] == fp:
+        stats = _collect_stats(cur)
+        conn.close()
+        return {"status": "skipped", "message": "No new database changes", **stats}
+
+    # 按版本路由执行解密数据库同步 (v3 / v4 / 扩展版本)
+    adapter_used = route_sync(decrypted_dir, cur)
+
+    # 媒体文件索引与收藏条目（绿泡泡 4.x 的独立数据库）。
+    # 任一附加库解析失败都不应中断主流程，但要如实记录到返回值里。
+    warnings: list = []
+    if adapter_used in ("v4", "fallback"):
+        for name, fn in (("media", sync_media_v4), ("favorites", sync_favorites_v4),
+                         ("emoticons", sync_emoticons_v4)):
+            try:
+                fn(decrypted_dir, cur)
+            except Exception as exc:  # noqa: BLE001 - 单个附加库失败不影响主同步
+                warnings.append(f"{name}: {exc}")
+                logger.warning(f"Sync {name} failed: {exc}")
+
+    # 更新会话统计与 FTS 索引
+    # 顺带补齐会话的首条消息时间：v3/v4 的会话表都不提供该字段，
+    # 此前 sessions.first_time 恒为 NULL（写了但从不填）
+    cur.execute("""
+        UPDATE sessions SET
+            message_count = (
+                SELECT count(*) FROM messages WHERE messages.session_username = sessions.username
+            ),
+            first_time = (
+                SELECT min(create_time) FROM messages WHERE messages.session_username = sessions.username
+            )
+    """)
+
+    # 重建 FTS 索引：历史版本用 INSERT OR REPLACE 写入，旧词条会残留
+    # （recursive_triggers 默认关闭，AFTER DELETE 触发器不触发）。
+    # 现在 UPSERT + messages_au 触发器已能增量保持一致，故只在 ETL 版本变化后
+    # 做一次全量 rebuild 自愈，避免每次 ETL 都白跑一遍 25 万行。
+    try:
+        cur.execute("SELECT value FROM meta WHERE key='fts_rebuilt_version'")
+        fts_row = cur.fetchone()
+        if not fts_row or fts_row[0] != ETL_SCHEMA_VERSION:
+            cur.execute("INSERT INTO messages_fts(messages_fts) VALUES('rebuild')")
+            cur.execute("INSERT OR REPLACE INTO meta (key, value) VALUES ('fts_rebuilt_version', ?)",
+                        (ETL_SCHEMA_VERSION,))
+    except sqlite3.Error as exc:
+        warnings.append(f"fts rebuild: {exc}")
+        logger.warning(f"FTS rebuild failed: {exc}")
+
+    cur.execute("INSERT OR REPLACE INTO meta (key, value) VALUES ('fingerprint', ?)", (fp,))
+    conn.commit()
+    stats = _collect_stats(cur)
+    conn.close()
+    result = {
+        "status": "success",
+        "message": f"Database synchronized successfully (adapter: {adapter_used})",
+        "adapter": adapter_used,
+        **stats,
+    }
+    if warnings:
+        result["warnings"] = warnings
+    return result

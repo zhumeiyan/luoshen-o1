@@ -1,1 +1,187 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK55y8552b77ya552B55y877yI5YWJ6amx5Yqo77yJwrcg5YiG6L6o546H77yI5Lit5aSu5Ye5K+ecvOWKqO+8icK3IOiHquW3semAoOecvOmVnAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K55So5oi377ya44CM55y8552b5piv6ZW/5Ye65p2l55qE77yM552B55y85piv5oCO5LmI5Zue5LqL77yf5Li65LuA5LmI6YCg6YKj5LmI5aSn5YiG6L6o546H77yfCiAgICAgICDorqnmtJvnpZ7oh6rlt7HpgKDkuKrnlLXohJHmiJbnnLzplZzlkZfjgILjgI0KCuKYhSDkuInnu4Tlrp7pqozvvJoKCuOAkEUxIOedgeecvOOAkeWFieWIuua/gOmpseWKqOaIkOeGn++8iFJFQUzvvJpIdWJlbCAmIFdpZXNlbCAxOTYzIOWNleecvOe8neWQiO+8iQogICAgQSDlhbPplK7mnJ/mnInlhYkgICAgICAgIOKGkiDmiJDnhp8KICAgIEIg5YWz6ZSu5pyf57yd5ZCI77yI5peg5YWJ77yJIOKGkiDlvLHop4bvvIzkuYvlkI7mi4bnur/kuZ/mgaLlpI3kuI3kuoYKICAgIEMg5YWz6ZSu5pyf5ZCO5omN6KeB5YWJICAgICDihpIg5ZCM5qC35byx6KeG77yI5YWz6ZSu5pyf5bey6L+H77yJCiAgICDliKTmja7vvJpCL0Mg55qEIGFjdWl0eSDmmL7okZfkvY7kuo4gQe+8jOS4lOWQjuacn+e7meWFieS5n+WbnuS4jeadpQoK44CQRTIg5YiG6L6o546H44CR5bim5a696aKE566X5Zu65a6a77yM5LiJ56eN5YiG6YWNIMOXIOacieaXoOecvOWKqAogICAg5Lu75Yqh77ya5om+55uu5qCH77yI55uu5qCH5aSn5bCP6ZqP5py677yM5L2N572u6ZqP5py677yJCiAgICDlpYjlpY7mlq/nibnvvJrlsYDpg6jph4fmoLfpl7Tot50gPCDnm67moIflsLrlr7gg5omN6IO95YiG6L6oCiAgICDimIUg6aKE5pyf77ya5Lit5aSu5Ye55Y2V54us5pyA5beu77yI5ZGo6L6555uu5qCH55yL5LiN6KeB77yJCiAgICAgICAgICAgIOS4reWkruWHuSArIOecvOWKqCDmnIDkvJjvvIjnnJ/lrp7kurrnnLzlsLHmmK/ov5nkuYjlubLnmoTvvIkKCuOAkEUzIOiHquW3semAoOecvOmVnOOAkeS4jee7meWIhui+qOeOh+WPguaVsO+8jOWPque7meW4puWuvemihOeulyArIOS7u+WKoQogICAg5LuOIHVuaWZvcm0g6LW35q2l77yM5oyJIuaKk+WIsOi/h+ebruagh+eahOWcsOaWuSLliqDlr4bvvIjlj6/loZHmgKfvvIkKICAgIOeci+Wug+mVv+aIkOS7gOS5iOagtyDigJTigJQg6aKE5pyf77ya6Ieq5Y+R6ZW/5Ye65Lit5aSu5Ye5Cgpwcm92ZW5hbmNl77yaCiAgICDkurrnnLzlj4LmlbAgUkVBTO+8m+WcuuaZryBTSU1VTEFURUTvvIjmkYTlg4/lpLTlnKjmnKzmspnnm5IgNDAz77yM5peg5rOV55yf5ouN77yJCiAgICDlrabkuaDnu5PmnpwgPSDnnJ/ot5EKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUuZXllIGltcG9ydCBSZXRpbmEsIEV5ZQoKVyA9IDI1Ni4wCk5CID0gMjAwMCAgICAgICAgICAgICAgICAgICMg5bim5a696aKE566X77yI6YeH5qC354K55pWw77yJCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gRTEKZGVmIGUxKG49MjQsIHN0ZXBzPTYwMCwgY3JpdD0zMDApOgogICAgb3V0ID0ge30KICAgIGRlZiBvbmUobW9kZSk6CiAgICAgICAgZSA9IEV5ZShjcml0aWNhbF9lbmQ9Y3JpdCwgc2VlZD1oYXNoKG1vZGUpICUgMTAwMCkKICAgICAgICBmb3IgdCBpbiByYW5nZShzdGVwcyk6CiAgICAgICAgICAgIGlmIG1vZGUgPT0gIkEg5YWz6ZSu5pyf5pyJ5YWJIjoKICAgICAgICAgICAgICAgIGxpZ2h0ID0gVHJ1ZQogICAgICAgICAgICBlbGlmIG1vZGUgPT0gIkIg5YWz6ZSu5pyf57yd5ZCIIjoKICAgICAgICAgICAgICAgIGxpZ2h0ID0gKHQgPj0gY3JpdCkgICAgICAgICAgIyDlhbPplK7mnJ/lkI7mi4bnur8KICAgICAgICAgICAgZWxpZiBtb2RlID09ICJDIOWFs+mUruacn+WQjuaJjeingeWFiSI6CiAgICAgICAgICAgICAgICBsaWdodCA9ICh0ID49IGNyaXQpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsaWdodCA9IEZhbHNlCiAgICAgICAgICAgIGUudGljayhsaWdodCkKICAgICAgICByZXR1cm4gZS5hY3VpdHkoKSwgZS5ldmVyX2RhcmsKICAgIGZvciBtIGluIFsiQSDlhbPplK7mnJ/mnInlhYkiLCAiQiDlhbPplK7mnJ/nvJ3lkIgiLCAiQyDlhbPplK7mnJ/lkI7miY3op4HlhYkiXToKICAgICAgICB2cyA9IFtvbmUobSlbMF0gZm9yIF8gaW4gcmFuZ2UoMSldICAgICAgICAgICMg56Gu5a6a5oCnCiAgICAgICAgb3V0W21dID0gZmxvYXQobnAubWVhbih2cykpCiAgICByZXR1cm4gb3V0CgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gRTIKZGVmIHRyaWFsKHJldGluYSwgc2FjY2FkZSwgbl9zdGVwPTQwLCBzZWVkPTApOgogICAgIiIi5LiA5Zue5ZCI77ya55uu5qCH6ZqP5py65L2N572uK+maj+acuuWkp+Wwj++8jG5fc3RlcCDmi43lhoXog73lkKbmib7liLDjgIIiIiIKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgdGd0ID0gcm5nLnJhbmRvbSgyKSAqIFcKICAgIHNpemUgPSBmbG9hdChybmcudW5pZm9ybSgyLjAsIDEwLjApKSAgICAgICAjIOebruagh+WwuuWvuAogICAgZm92ID0gbnAuYXJyYXkoW1cgLyAyLjAsIFcgLyAyLjBdKSAgICAgICAgICMg5rOo6KeG54K5CiAgICBmb3IgdCBpbiByYW5nZShuX3N0ZXApOgogICAgICAgIGlmIHNhY2NhZGU6CiAgICAgICAgICAgICMg4piFIOecvOWKqO+8muaKiuS4reWkruWHueaMquWIsOWAmemAieS9jee9ru+8iOecn+WuniBzYWNjYWRlIH4zSHrvvIkKICAgICAgICAgICAgY2FuZCA9IHJuZy5yYW5kb20oNiwgKSBpZiBGYWxzZSBlbHNlIHJuZy5yYW5kb20oKDYsIDIpKSAqIFcKICAgICAgICAgICAgZm92ID0gY2FuZFt0ICUgbGVuKGNhbmQpXQogICAgICAgIHByb2JlID0gZm92IGlmIHNhY2NhZGUgZWxzZSBucC5hcnJheShbVyAvIDIuMCwgVyAvIDIuMF0pCiAgICAgICAgIyDph4fmoLfngrnmmK/lkKbopobnm5bnm67moIfvvJrku6UgcHJvYmUg5Li65Lit5b+D55qE5pyJ5pWI6KeG6YeO5YaF5p+l6Ze06LedCiAgICAgICAgIyDnnLzliqggPSDmiorop4bnvZHohpzkuK3lv4Plr7nlh4YgcHJvYmUg4oaSIOajgOafpeebruagh+WcqOinhue9keiGnOWdkOagh+ezu+eahOS9jee9rgogICAgICAgIHJlbCA9IHRndCAtIHByb2JlICsgbnAuYXJyYXkoW1cgLyAyLjAsIFcgLyAyLjBdKQogICAgICAgIHJlbCA9IG5wLmNsaXAocmVsLCAwLCBXKQogICAgICAgIGQgPSByZXRpbmEubG9jYWxfc3BhY2luZyhyZWwpCiAgICAgICAgaWYgZCA8IHNpemU6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5aWI5aWO5pav54m577ya6IO95YiG6L6oCiAgICAgICAgICAgIHJldHVybiBUcnVlLCB0ICsgMQogICAgcmV0dXJuIEZhbHNlLCBuX3N0ZXAKCmRlZiBlMihuPTI0LCBuX3N0ZXA9NDApOgogICAgb3V0ID0ge30KICAgIGZvciBtb2RlIGluIFsidW5pZm9ybSIsICJmb3ZlYSJdOgogICAgICAgIGZvciBzYWMgaW4gW0ZhbHNlLCBUcnVlXToKICAgICAgICAgICAgUiA9IFJldGluYSh3b3JsZD1XLCBOPU5CLCBtb2RlPW1vZGUsIHNlZWQ9NykKICAgICAgICAgICAgaGl0cyA9IFt0cmlhbChSLCBzYWMsIG5fc3RlcCwgcylbMF0gZm9yIHMgaW4gcmFuZ2UobildCiAgICAgICAgICAgIG91dFtmInttb2RlfSt7J+ecvOWKqCcgaWYgc2FjIGVsc2UgJ+S4jeWKqCd9Il0gPSBmbG9hdChucC5tZWFuKGhpdHMpKQogICAgcmV0dXJuIG91dAoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIEUzCmRlZiBlMyhuPTEyLCByb3VuZHM9MTIwLCBuX3N0ZXA9MjUpOgogICAgIiIi6Ieq5bex6YCg55y86ZWc77ya5LuOIHVuaWZvcm0g6LW35q2l77yM5oqT5Yiw55uu5qCH5bCx5Yqg5a+G44CCIiIiCiAgICBSID0gUmV0aW5hKHdvcmxkPVcsIE49TkIsIG1vZGU9InVuaWZvcm0iLCBzZWVkPTExKQogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDMpCiAgICBhY2MgPSAwLjAKICAgIGN1cnZlID0gW10KICAgIGZvciByZCBpbiByYW5nZShyb3VuZHMpOgogICAgICAgIHRndCA9IHJuZy5yYW5kb20oMikgKiBXCiAgICAgICAgc2l6ZSA9IGZsb2F0KHJuZy51bmlmb3JtKDIuMCwgMTAuMCkpCiAgICAgICAgZm91bmQgPSBGYWxzZQogICAgICAgIGZvciB0IGluIHJhbmdlKG5fc3RlcCk6CiAgICAgICAgICAgIHByb2JlID0gbnAuYXJyYXkoW1cgLyAyLjAsIFcgLyAyLjBdKSAgICAgICAjIOS4jeaJq+inhu+8jOe6r+mdoOmVvwogICAgICAgICAgICByZWwgPSBucC5jbGlwKHRndCAtIHByb2JlICsgbnAuYXJyYXkoW1cvMiwgVy8yXSksIDAsIFcpCiAgICAgICAgICAgIGlmIFIubG9jYWxfc3BhY2luZyhyZWwpIDwgc2l6ZToKICAgICAgICAgICAgICAgIGZvdW5kID0gVHJ1ZTsgYnJlYWsKICAgICAgICBhY2MgKz0gZm91bmQKICAgICAgICBSLnBsYXN0aWNpdHkodGd0LCBscj0wLjMwLCBuX21vdmU9NikKICAgICAgICBpZiAocmQgKyAxKSAlIDIwID09IDA6CiAgICAgICAgICAgIGN1cnZlLmFwcGVuZChhY2MgLyAocmQgKyAxKSkKICAgIEggPSBSLmRlbnNpdHlfbWFwKDgpCiAgICByZXR1cm4gZGljdChhY2M9YWNjIC8gcm91bmRzLCBjdXJ2ZT1jdXJ2ZSwKICAgICAgICAgICAgICAgIGNlbnRlcj1mbG9hdChIWzM6NSwgMzo1XS5tZWFuKCkpLCBjb3JuZXI9ZmxvYXQoSFswOjIsIDA6Ml0ubWVhbigpKSwKICAgICAgICAgICAgICAgIHJhdGlvPWZsb2F0KEhbMzo1LCAzOjVdLm1lYW4oKSAvIG1heChIWzA6MiwgMDoyXS5tZWFuKCksIDFlLTkpKSkKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiPSIgKiA4NCkKICAgIHByaW50KCLjgJBFMeOAkeedgeecvCDigJTigJQg5YWJ5Yi65r+A6amx5Yqo55qE5oiQ54af77yI5YWz6ZSu5pyfIDMwMCDmi43vvIzmgLsgNjAwIOaLje+8iSIpCiAgICBwcmludCgiPSIgKiA4NCkKICAgIHIxID0gZTEoKQogICAgZm9yIGssIHYgaW4gcjEuaXRlbXMoKToKICAgICAgICBwcmludChmIiAge2s6PDIyfSDop4blipsgYWN1aXR5ID0ge3Y6LjRmfSIpCiAgICBvazEgPSBib29sKHIxWyJBIOWFs+mUruacn+acieWFiSJdIC0gbWF4KHIxWyJCIOWFs+mUruacn+e8neWQiCJdLCByMVsiQyDlhbPplK7mnJ/lkI7miY3op4HlhYkiXSkgPiAwLjMpCiAgICBwcmludChmIlxuICB7J+KchScgaWYgb2sxIGVsc2UgJ+KdjCd9IOWFs+mUruacn+aXoOWFiSDihpIg5LmL5ZCO57uZ5YWJ5Lmf5Zue5LiN5p2l77yI5byx6KeG5LiN5Y+v6YCG77yJIikKCiAgICBwcmludCgiXG4iICsgIj0iICogODQpCiAgICBwcmludChmIuOAkEUy44CR5YiG6L6o546H5YiG6YWNIMOXIOecvOWKqO+8iOW4puWuvemihOeulyB7TkJ9IOeCue+8jDI0IOasoeivlemqjO+8iSIpCiAgICBwcmludCgiPSIgKiA4NCkKICAgIHIyID0gZTIoKQogICAgcHJpbnQoZiJcbnsn562W55WlJzo8MjJ9eyfmib7liLDnjocnOj4xMH0iKQogICAgcHJpbnQoIi0iICogODQpCiAgICBmb3IgaywgdiBpbiBzb3J0ZWQocjIuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiAteFsxXSk6CiAgICAgICAgcHJpbnQoZiJ7azo8MjJ9e3Y6PjEwLjNmfSIpCiAgICBiZXN0ID0gbWF4KHIyLCBrZXk9cjIuZ2V0KQogICAgb2syID0gYm9vbChyMlsiZm92ZWEr55y85YqoIl0gPiByMlsiZm92ZWEr5LiN5YqoIl0gKyAwLjA1KQogICAgcHJpbnQoZiJcbiAgeyfinIUnIGlmIG9rMiBlbHNlICfinYwnfSDkuK3lpK7lh7nlv4XpobvphY3nnLzliqjmiY3mnInmhI/kuYnvvIjkuI3liqjlj43ogIzmm7Tlt67vvIkiKQogICAgcHJpbnQoZiIgIOKYhSDmnIDkvJjvvJp7YmVzdH0gPSB7cjJbYmVzdF06LjNmfSIpCgogICAgcHJpbnQoIlxuIiArICI9IiAqIDg0KQogICAgcHJpbnQoIuOAkEUz44CR6Ieq5bex6YCg55y86ZWc77ya5Y+q57uZ5bim5a696aKE566XK+S7u+WKoe+8jOS4jee7meWIhui+qOeOh+WPguaVsCIpCiAgICBwcmludCgiPSIgKiA4NCkKICAgIHIzID0gZTMoKQogICAgcHJpbnQoZiJcbiAg6LW35q2lIHVuaWZvcm3vvIwxMjAg6L2u77yM5oqT5Yiw55uu5qCH5bCx5Yqg5a+GIikKICAgIHByaW50KGYiICDmib7liLDnjofmm7Lnur/vvIjmr48yMOi9ru+8ie+8mntbcm91bmQoYywzKSBmb3IgYyBpbiByM1snY3VydmUnXV19IikKICAgIHByaW50KGYiICDmnIDnu4jmib7liLDnjocge3IzWydhY2MnXTouM2Z9IikKICAgIHByaW50KGYiICDplb/miJDlkI7lr4bluqbvvJrkuK3lv4M05qC8IHtyM1snY2VudGVyJ106LjFmfSAvIOi+ueinkiB7cjNbJ2Nvcm5lciddOi4xZn0gIOavlCB7cjNbJ3JhdGlvJ106LjFmfcOXIikKICAgIG9rMyA9IGJvb2wocjNbInJhdGlvIl0gPiAxLjUpCiAgICBwcmludChmIlxuICB7J+KchScgaWYgb2szIGVsc2UgJ+KdjCd9IOWug+iHquW3semVv+WHuuS6humdnuWdh+WMgO+8iOS4reWkruWHue+8ieKAlOKAlOayoeS6uuWRiuivieWug+imgei/meS5iOmVvyIpCgogICAganNvbi5kdW1wKHsiRTEiOiByMSwgIkUyIjogcjIsICJFMyI6IHIzLAogICAgICAgICAgICAgICAib2siOiB7IuedgeecvCI6IGJvb2wob2sxKSwgIuecvOWKqCI6IGJvb2wob2syKSwgIuiHquW3semVvyI6IGJvb2wob2szKX19LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAiZXllLmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBFNApkZWYgZTQobl9yb3VuZD0xMjAsIG5fc3RlcD0yNSwgc2VlZD0xMSk6CiAgICAiIiLimIUg6KGl5YGa77yaRTMg5Y+q6ZW/55y8552b5LiN6ZW/5Yqo5L2c77yM5om+5Yiw546H5LuFIDAuMTMz44CCCiAgICAgICDorqnlroPlkIzml7bjgJDplb/nnLznnZsgKyDoh6rlt7HlhrPlrprlvoDlk6rnnIvjgJHvvIznnIvog73liLDlpJrlsJHjgIIKICAgICAgIOWvueeFp++8mkUyIOeahCBmb3ZlYSvnnLzliqggPSAwLjU4M++8iOS6uuS4uue7meeahOS4reWkruWHuSArIOmaj+acuuaJq+inhu+8iQogICAgIiIiCiAgICBSID0gUmV0aW5hKHdvcmxkPVcsIE49TkIsIG1vZGU9InVuaWZvcm0iLCBzZWVkPXNlZWQpCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoc2VlZCAqIDMgKyAxKQogICAgYWNjID0gMC4wCiAgICBmb3IgcmQgaW4gcmFuZ2Uobl9yb3VuZCk6CiAgICAgICAgdGd0ID0gcm5nLnJhbmRvbSgyKSAqIFcKICAgICAgICBzaXplID0gZmxvYXQocm5nLnVuaWZvcm0oMi4wLCAxMC4wKSkKICAgICAgICBmb3VuZCA9IEZhbHNlCiAgICAgICAgZm9yIHQgaW4gcmFuZ2Uobl9zdGVwKToKICAgICAgICAgICAgIyDoh6rlt7HlhrPlrprlvoDlk6rnnIvvvJrkuIDljYrpmo/mnLrmjqLntKLvvIzkuIDljYrljrsi6L+Y5rKh55yL5riF5qWaIueahOWcsOaWuQogICAgICAgICAgICBpZiB0ID09IDAgb3Igcm5nLnJhbmRvbSgpIDwgMC41OgogICAgICAgICAgICAgICAgcHJvYmUgPSBybmcucmFuZG9tKDIpICogVwogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgIyDljrvlvZPliY3liIbovqjnjofmnIDlt67nmoTlnLDmlrnvvIg9IOmHh+agt+acgOeogOeWj+WkhO+8iQogICAgICAgICAgICAgICAgY2FuZCA9IHJuZy5yYW5kb20oKDUsIDIpKSAqIFcKICAgICAgICAgICAgICAgIHByb2JlID0gY2FuZFtucC5hcmdtYXgoW1IubG9jYWxfc3BhY2luZyhjKSBmb3IgYyBpbiBjYW5kXSldCiAgICAgICAgICAgIHJlbCA9IG5wLmNsaXAodGd0IC0gcHJvYmUgKyBucC5hcnJheShbVyAvIDIuMCwgVyAvIDIuMF0pLCAwLCBXKQogICAgICAgICAgICBpZiBSLmxvY2FsX3NwYWNpbmcocmVsKSA8IHNpemU6CiAgICAgICAgICAgICAgICBmb3VuZCA9IFRydWU7IGJyZWFrCiAgICAgICAgYWNjICs9IGZvdW5kCiAgICAgICAgUi5wbGFzdGljaXR5KHRndCwgbHI9MC4zMCwgbl9tb3ZlPTYpCiAgICBIID0gUi5kZW5zaXR5X21hcCg4KQogICAgcmV0dXJuIGRpY3QoYWNjPWFjYyAvIG5fcm91bmQsCiAgICAgICAgICAgICAgICBjZW50ZXI9ZmxvYXQoSFszOjUsIDM6NV0ubWVhbigpKSwgY29ybmVyPWZsb2F0KEhbMDoyLCAwOjJdLm1lYW4oKSksCiAgICAgICAgICAgICAgICByYXRpbz1mbG9hdChIWzM6NSwgMzo1XS5tZWFuKCkgLyBtYXgoSFswOjIsIDA6Ml0ubWVhbigpLCAxZS05KSkpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+眼睛：睁眼（光驱动）· 分辨率（中央凹+眼动）· 自己造眼镜
+============================================================
+用户：「眼睛是长出来的，睁眼是怎么回事？为什么造那么大分辨率？
+       让洛神自己造个电脑或眼镜呗。」
+
+★ 三组实验：
+
+【E1 睁眼】光刺激驱动成熟（REAL：Hubel & Wiesel 1963 单眼缝合）
+    A 关键期有光        → 成熟
+    B 关键期缝合（无光） → 弱视，之后拆线也恢复不了
+    C 关键期后才见光     → 同样弱视（关键期已过）
+    判据：B/C 的 acuity 显著低于 A，且后期给光也回不来
+
+【E2 分辨率】带宽预算固定，三种分配 × 有无眼动
+    任务：找目标（目标大小随机，位置随机）
+    奈奎斯特：局部采样间距 < 目标尺寸 才能分辨
+    ★ 预期：中央凹单独最差（周边目标看不见）
+            中央凹 + 眼动 最优（真实人眼就是这么干的）
+
+【E3 自己造眼镜】不给分辨率参数，只给带宽预算 + 任务
+    从 uniform 起步，按"抓到过目标的地方"加密（可塑性）
+    看它长成什么样 —— 预期：自发长出中央凹
+
+provenance：
+    人眼参数 REAL；场景 SIMULATED（摄像头在本沙盒 403，无法真拍）
+    学习结果 = 真跑
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.eye import Retina, Eye
+
+W = 256.0
+NB = 2000                  # 带宽预算（采样点数）
+
+# ---------------------------------------------------------------- E1
+def e1(n=24, steps=600, crit=300):
+    out = {}
+    def one(mode):
+        e = Eye(critical_end=crit, seed=hash(mode) % 1000)
+        for t in range(steps):
+            if mode == "A 关键期有光":
+                light = True
+            elif mode == "B 关键期缝合":
+                light = (t >= crit)          # 关键期后拆线
+            elif mode == "C 关键期后才见光":
+                light = (t >= crit)
+            else:
+                light = False
+            e.tick(light)
+        return e.acuity(), e.ever_dark
+    for m in ["A 关键期有光", "B 关键期缝合", "C 关键期后才见光"]:
+        vs = [one(m)[0] for _ in range(1)]          # 确定性
+        out[m] = float(np.mean(vs))
+    return out
+
+# ---------------------------------------------------------------- E2
+def trial(retina, saccade, n_step=40, seed=0):
+    """一回合：目标随机位置+随机大小，n_step 拍内能否找到。"""
+    rng = np.random.default_rng(seed)
+    tgt = rng.random(2) * W
+    size = float(rng.uniform(2.0, 10.0))       # 目标尺寸
+    fov = np.array([W / 2.0, W / 2.0])         # 注视点
+    for t in range(n_step):
+        if saccade:
+            # ★ 眼动：把中央凹挪到候选位置（真实 saccade ~3Hz）
+            cand = rng.random(6, ) if False else rng.random((6, 2)) * W
+            fov = cand[t % len(cand)]
+        probe = fov if saccade else np.array([W / 2.0, W / 2.0])
+        # 采样点是否覆盖目标：以 probe 为中心的有效视野内查间距
+        # 眼动 = 把视网膜中心对准 probe → 检查目标在视网膜坐标系的位置
+        rel = tgt - probe + np.array([W / 2.0, W / 2.0])
+        rel = np.clip(rel, 0, W)
+        d = retina.local_spacing(rel)
+        if d < size:                            # 奈奎斯特：能分辨
+            return True, t + 1
+    return False, n_step
+
+def e2(n=24, n_step=40):
+    out = {}
+    for mode in ["uniform", "fovea"]:
+        for sac in [False, True]:
+            R = Retina(world=W, N=NB, mode=mode, seed=7)
+            hits = [trial(R, sac, n_step, s)[0] for s in range(n)]
+            out[f"{mode}+{'眼动' if sac else '不动'}"] = float(np.mean(hits))
+    return out
+
+# ---------------------------------------------------------------- E3
+def e3(n=12, rounds=120, n_step=25):
+    """自己造眼镜：从 uniform 起步，抓到目标就加密。"""
+    R = Retina(world=W, N=NB, mode="uniform", seed=11)
+    rng = np.random.default_rng(3)
+    acc = 0.0
+    curve = []
+    for rd in range(rounds):
+        tgt = rng.random(2) * W
+        size = float(rng.uniform(2.0, 10.0))
+        found = False
+        for t in range(n_step):
+            probe = np.array([W / 2.0, W / 2.0])       # 不扫视，纯靠长
+            rel = np.clip(tgt - probe + np.array([W/2, W/2]), 0, W)
+            if R.local_spacing(rel) < size:
+                found = True; break
+        acc += found
+        R.plasticity(tgt, lr=0.30, n_move=6)
+        if (rd + 1) % 20 == 0:
+            curve.append(acc / (rd + 1))
+    H = R.density_map(8)
+    return dict(acc=acc / rounds, curve=curve,
+                center=float(H[3:5, 3:5].mean()), corner=float(H[0:2, 0:2].mean()),
+                ratio=float(H[3:5, 3:5].mean() / max(H[0:2, 0:2].mean(), 1e-9)))
+
+if __name__ == "__main__":
+    print("=" * 84)
+    print("【E1】睁眼 —— 光刺激驱动的成熟（关键期 300 拍，总 600 拍）")
+    print("=" * 84)
+    r1 = e1()
+    for k, v in r1.items():
+        print(f"  {k:<22} 视力 acuity = {v:.4f}")
+    ok1 = bool(r1["A 关键期有光"] - max(r1["B 关键期缝合"], r1["C 关键期后才见光"]) > 0.3)
+    print(f"\n  {'✅' if ok1 else '❌'} 关键期无光 → 之后给光也回不来（弱视不可逆）")
+
+    print("\n" + "=" * 84)
+    print(f"【E2】分辨率分配 × 眼动（带宽预算 {NB} 点，24 次试验）")
+    print("=" * 84)
+    r2 = e2()
+    print(f"\n{'策略':<22}{'找到率':>10}")
+    print("-" * 84)
+    for k, v in sorted(r2.items(), key=lambda x: -x[1]):
+        print(f"{k:<22}{v:>10.3f}")
+    best = max(r2, key=r2.get)
+    ok2 = bool(r2["fovea+眼动"] > r2["fovea+不动"] + 0.05)
+    print(f"\n  {'✅' if ok2 else '❌'} 中央凹必须配眼动才有意义（不动反而更差）")
+    print(f"  ★ 最优：{best} = {r2[best]:.3f}")
+
+    print("\n" + "=" * 84)
+    print("【E3】自己造眼镜：只给带宽预算+任务，不给分辨率参数")
+    print("=" * 84)
+    r3 = e3()
+    print(f"\n  起步 uniform，120 轮，抓到目标就加密")
+    print(f"  找到率曲线（每20轮）：{[round(c,3) for c in r3['curve']]}")
+    print(f"  最终找到率 {r3['acc']:.3f}")
+    print(f"  长成后密度：中心4格 {r3['center']:.1f} / 边角 {r3['corner']:.1f}  比 {r3['ratio']:.1f}×")
+    ok3 = bool(r3["ratio"] > 1.5)
+    print(f"\n  {'✅' if ok3 else '❌'} 它自己长出了非均匀（中央凹）——没人告诉它要这么长")
+
+    json.dump({"E1": r1, "E2": r2, "E3": r3,
+               "ok": {"睁眼": bool(ok1), "眼动": bool(ok2), "自己长": bool(ok3)}},
+              open(os.path.join(HERE, ".sense", "eye.json"), "w"),
+              ensure_ascii=False, indent=1)
+
+
+# ---------------------------------------------------------------- E4
+def e4(n_round=120, n_step=25, seed=11):
+    """★ 补做：E3 只长眼睛不长动作，找到率仅 0.133。
+       让它同时【长眼睛 + 自己决定往哪看】，看能到多少。
+       对照：E2 的 fovea+眼动 = 0.583（人为给的中央凹 + 随机扫视）
+    """
+    R = Retina(world=W, N=NB, mode="uniform", seed=seed)
+    rng = np.random.default_rng(seed * 3 + 1)
+    acc = 0.0
+    for rd in range(n_round):
+        tgt = rng.random(2) * W
+        size = float(rng.uniform(2.0, 10.0))
+        found = False
+        for t in range(n_step):
+            # 自己决定往哪看：一半随机探索，一半去"还没看清楚"的地方
+            if t == 0 or rng.random() < 0.5:
+                probe = rng.random(2) * W
+            else:
+                # 去当前分辨率最差的地方（= 采样最稀疏处）
+                cand = rng.random((5, 2)) * W
+                probe = cand[np.argmax([R.local_spacing(c) for c in cand])]
+            rel = np.clip(tgt - probe + np.array([W / 2.0, W / 2.0]), 0, W)
+            if R.local_spacing(rel) < size:
+                found = True; break
+        acc += found
+        R.plasticity(tgt, lr=0.30, n_move=6)
+    H = R.density_map(8)
+    return dict(acc=acc / n_round,
+                center=float(H[3:5, 3:5].mean()), corner=float(H[0:2, 0:2].mean()),
+                ratio=float(H[3:5, 3:5].mean() / max(H[0:2, 0:2].mean(), 1e-9)))

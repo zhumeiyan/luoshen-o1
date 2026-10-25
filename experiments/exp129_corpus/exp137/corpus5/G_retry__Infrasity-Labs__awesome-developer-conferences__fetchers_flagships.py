@@ -1,1 +1,337 @@
-aW1wb3J0IHJlCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCgpmcm9tIHJlcXVlc3RzLmhlbHAgaW1wb3J0IG1haW4KCiMgSGFyZGNvZGVkIGZsYWdzaGlwIGV2ZW50cyB0aGF0IGRvIG5vdCBhcHBlYXIgb24gYWdncmVnYXRvciBzaXRlcwpmbGFnc2hpcF9ldmVudHMgPSBbCiAgICB7CiAgICAgICAgIm5hbWUiOiAiV2VBcmVEZXZlbG9wZXJzIFdvcmxkIENvbmdyZXNzIiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTA3LTA4IHRvIDIwMjYtMDctMTAiLAogICAgICAgICJsb2NhdGlvbiI6ICJCZXJsaW4sIEdlcm1hbnkiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3d3dy53ZWFyZWRldmVsb3BlcnMuY29tL3dvcmxkLWNvbmdyZXNzKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiV2VBcmVEZXZlbG9wZXJzIE5vcnRoIEFtZXJpY2EiLAogICAgICAgICJkYXRlIjogIjIwMjYtMDktMjIgdG8gMjAyNi0wOS0yNCIsCiAgICAgICAgImxvY2F0aW9uIjogIlNhbiBKb3NlLCBVU0EiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3d3dy53ZWFyZWRldmVsb3BlcnMuY29tL3dvcmxkLWNvbmdyZXNzLW5vcnRoLWFtZXJpY2EpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJXZUFyZURldmVsb3BlcnMgSW5kaWEiLAogICAgICAgICJkYXRlIjogIjIwMjYtMTAtMDEiLAogICAgICAgICJsb2NhdGlvbiI6ICJCZW5nYWx1cnUsIEluZGlhIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly93d3cud2VhcmVkZXZlbG9wZXJzLmNvbS9jb25mZXJlbmNlLWluZGlhKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiRGV2UmVsQ29uIE5ZQyIsCiAgICAgICAgImRhdGUiOiAiMjAyNi0wNy0yMiB0byAyMDI2LTA3LTIzIiwKICAgICAgICAibG9jYXRpb24iOiAiTmV3IFlvcmssIFVTQSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vbnljLmRldnJlbGNvbi5kZXYpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJTYWFTdHIgQW5udWFsIiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTA5LTA5IHRvIDIwMjYtMDktMTEiLAogICAgICAgICJsb2NhdGlvbiI6ICJTYW4gTWF0ZW8sIFVTQSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vc2Fhc3RyLmNvbS9ldmVudHMpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJLdWJlQ29uICsgQ2xvdWROYXRpdmVDb24gTm9ydGggQW1lcmljYSIsCiAgICAgICAgImRhdGUiOiAiMjAyNi0xMS0wOSB0byAyMDI2LTExLTEyIiwKICAgICAgICAibG9jYXRpb24iOiAiU2FsdCBMYWtlIENpdHksIFVTQSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vZXZlbnRzLmxpbnV4Zm91bmRhdGlvbi5vcmcva3ViZWNvbi1jbG91ZG5hdGl2ZWNvbi1ub3J0aC1hbWVyaWNhKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiS3ViZUNvbiArIENsb3VkTmF0aXZlQ29uIEV1cm9wZSIsCiAgICAgICAgImRhdGUiOiAiVEJBIiwKICAgICAgICAibG9jYXRpb24iOiAiQmFyY2Vsb25hLCBTcGFpbiIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vZXZlbnRzLmxpbnV4Zm91bmRhdGlvbi5vcmcva3ViZWNvbi1jbG91ZG5hdGl2ZWNvbi1ldXJvcGUpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJLdWJlQ29uICsgQ2xvdWROYXRpdmVDb24gSW5kaWEiLAogICAgICAgICJkYXRlIjogIjIwMjYtMDYtMTggdG8gMjAyNi0wNi0xOSIsCiAgICAgICAgImxvY2F0aW9uIjogIk11bWJhaSwgSW5kaWEiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL2V2ZW50cy5saW51eGZvdW5kYXRpb24ub3JnL2t1YmVjb24tY2xvdWRuYXRpdmVjb24taW5kaWEpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJLdWJlQ29uICsgQ2xvdWROYXRpdmVDb24gSmFwYW4iLAogICAgICAgICJkYXRlIjogIjIwMjYtMDctMjggdG8gMjAyNi0wNy0zMCIsCiAgICAgICAgImxvY2F0aW9uIjogIllva29oYW1hLCBKYXBhbiIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vZXZlbnRzLmxpbnV4Zm91bmRhdGlvbi5vcmcva3ViZWNvbi1jbG91ZG5hdGl2ZWNvbi1qYXBhbikiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIk9wZW4gU291cmNlIFN1bW1pdCBOb3J0aCBBbWVyaWNhIiwKICAgICAgICAiZGF0ZSI6ICJUQkEiLAogICAgICAgICJsb2NhdGlvbiI6ICJNaW5uZWFwb2xpcywgVVNBIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9ldmVudHMubGludXhmb3VuZGF0aW9uLm9yZy9vcGVuLXNvdXJjZS1zdW1taXQtbm9ydGgtYW1lcmljYSkiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIk9wZW4gU291cmNlIFN1bW1pdCBKYXBhbiIsCiAgICAgICAgImRhdGUiOiAiMjAyNi0xMi0wMSIsCiAgICAgICAgImxvY2F0aW9uIjogIlRva3lvLCBKYXBhbiIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vZXZlbnRzLmxpbnV4Zm91bmRhdGlvbi5vcmcvb3Blbi1zb3VyY2Utc3VtbWl0LWphcGFuKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiQWxsIFRoaW5ncyBPcGVuIiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTEwLTI1IiwKICAgICAgICAibG9jYXRpb24iOiAiUmFsZWlnaCwgVVNBIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9hbGx0aGluZ3NvcGVuLm9yZykiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIlBsYXRmb3JtQ29uIiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTA2LTA4IHRvIDIwMjYtMDYtMTIiLAogICAgICAgICJsb2NhdGlvbiI6ICJPbmxpbmUiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3BsYXRmb3JtY29uLmNvbSkiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIkFXUyByZTpJbnZlbnQiLAogICAgICAgICJkYXRlIjogIjIwMjYtMTEtMzAgdG8gMjAyNi0xMi0wNCIsCiAgICAgICAgImxvY2F0aW9uIjogIkxhcyBWZWdhcywgVVNBIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9ldmVudHMvcmVpbnZlbnQpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJEZXZveHggQmVsZ2l1bSIsCiAgICAgICAgImRhdGUiOiAiMjAyNi0xMC0wNSB0byAyMDI2LTEwLTA5IiwKICAgICAgICAibG9jYXRpb24iOiAiQW50d2VycCwgQmVsZ2l1bSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vZGV2b3h4LmJlKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiR29vZ2xlIENsb3VkIE5leHQiLAogICAgICAgICJkYXRlIjogIlRCQSIsCiAgICAgICAgImxvY2F0aW9uIjogIkxhcyBWZWdhcywgVVNBIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9jbG91ZC53aXRoZ29vZ2xlLmNvbS9uZXh0KSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiTWljcm9zb2Z0IEJ1aWxkIiwKICAgICAgICAiZGF0ZSI6ICJUQkEiLAogICAgICAgICJsb2NhdGlvbiI6ICJTZWF0dGxlLCBVU0EiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL2J1aWxkLm1pY3Jvc29mdC5jb20vKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiTlZJRElBIEdUQyIsCiAgICAgICAgImRhdGUiOiAiVEJBIiwKICAgICAgICAibG9jYXRpb24iOiAiU2FuIEpvc2UsIFVTQSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vd3d3Lm52aWRpYS5jb20vZ3RjLykiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIlFDb24gTG9uZG9uIiwKICAgICAgICAiZGF0ZSI6ICJUQkEiLAogICAgICAgICJsb2NhdGlvbiI6ICJMb25kb24sIFVLIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9xY29ubG9uZG9uLmNvbS8pIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJRQ29uIE5ldyBZb3JrIiwKICAgICAgICAiZGF0ZSI6ICJUQkEiLAogICAgICAgICJsb2NhdGlvbiI6ICJOZXcgWW9yaywgVVNBIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9xY29ubmV3eW9yay5jb20vKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiUUNvbiBTYW4gRnJhbmNpc2NvIiwKICAgICAgICAiZGF0ZSI6ICJUQkEiLAogICAgICAgICJsb2NhdGlvbiI6ICJTYW4gRnJhbmNpc2NvLCBVU0EiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3Fjb25zZi5jb20vKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiV2ViIFN1bW1pdCIsCiAgICAgICAgImRhdGUiOiAiMjAyNi0xMS0xMCIsCiAgICAgICAgImxvY2F0aW9uIjogIkxpc2JvbiwgUG9ydHVnYWwiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3dlYnN1bW1pdC5jb20pIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJHSVRFWCBHbG9iYWwiLAogICAgICAgICJkYXRlIjogIjIwMjYtMTItMDcgdG8gMjAyNi0xMi0xMSIsCiAgICAgICAgImxvY2F0aW9uIjogIkR1YmFpLCBVQUUiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3d3dy5naXRleC5jb20pIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJHSVRFWCBBSSBFdXJvcGUiLAogICAgICAgICJkYXRlIjogIjIwMjYtMDYtMzAgdG8gMjAyNi0wNy0wMSIsCiAgICAgICAgImxvY2F0aW9uIjogIkJlcmxpbiwgR2VybWFueSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vd3d3LmdpdGV4LmNvbS9naXRleC1haS1ldXJvcGUpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJBSUJvb21pIEV2ZW50cyIsCiAgICAgICAgImRhdGUiOiAiVEJBIiwKICAgICAgICAibG9jYXRpb24iOiAiQmVuZ2FsdXJ1LCBJbmRpYSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vc2Fhc2Jvb21pLm9yZy9ldmVudHMpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJBSUJvb21pIEFubnVhbCIsCiAgICAgICAgImRhdGUiOiAiVEJBIiwKICAgICAgICAibG9jYXRpb24iOiAiQ2hlbm5haSwgSW5kaWEiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL2FubnVhbC5haWJvb21pLm9yZykiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIkN5cGhlciBBSSBDb25mZXJlbmNlIiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTEwLTAxIHRvIDIwMjYtMTAtMDMiLAogICAgICAgICJsb2NhdGlvbiI6ICJCZW5nYWx1cnUsIEluZGlhIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9jeXBoZXIuYW5hbHl0aWNzaW5kaWFtYWcuY29tKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiTkFTU0NPTSBUZWNoIEV2ZW50cyIsCiAgICAgICAgImRhdGUiOiAiVEJBIiwKICAgICAgICAibG9jYXRpb24iOiAiSW5kaWEiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL25hc3Njb20uaW4vZXZlbnRzKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiRGV2Q29uZi5JTiIsCiAgICAgICAgImRhdGUiOiAiMjAyNi0wOC0wMSB0byAyMDI2LTA4LTAyIiwKICAgICAgICAibG9jYXRpb24iOiAiQmVuZ2FsdXJ1LCBJbmRpYSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vd3d3LmRldmNvbmYuaW5mby9pbikiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIkluZGlhIFNhYVMgJiBNYXJrZXRpbmcgVGVjaCBTdW1taXQiLAogICAgICAgICJkYXRlIjogIjIwMjYtMDctMTUiLAogICAgICAgICJsb2NhdGlvbiI6ICJCZW5nYWx1cnUsIEluZGlhIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly93aHlzdW1taXRzLmNvbS9pbmRpYS1zYWFzLW1hcmtldGluZy10ZWNoLXN1bW1pdC0yMDI2KSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiVGVjaCBpbiBBc2lhIEV2ZW50cyIsCiAgICAgICAgImRhdGUiOiAiVEJBIiwKICAgICAgICAibG9jYXRpb24iOiAiU2luZ2Fwb3JlIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly93d3cudGVjaGluYXNpYS5jb20vZXZlbnRzKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiSURDIEFzaWEgUGFjaWZpYyBTdW1taXRzIiwKICAgICAgICAiZGF0ZSI6ICJUQkEiLAogICAgICAgICJsb2NhdGlvbiI6ICJTaW5nYXBvcmUiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3d3dy5pZGMuY29tL2FwL2V2ZW50cykiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIlN0cmlwZSBTZXNzaW9ucyIsCiAgICAgICAgImRhdGUiOiAiMjAyNy0wNC0yOSB0byAyMDI3LTA0LTMwIiwKICAgICAgICAibG9jYXRpb24iOiAiU2FuIEZyYW5jaXNjbywgVVNBIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9zdHJpcGUuY29tL3Nlc3Npb25zKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiRGF0YWRvZyBEQVNIIiwKICAgICAgICAiZGF0ZSI6ICIyMDI3LTA2LTA5IHRvIDIwMjctMDYtMTAiLAogICAgICAgICJsb2NhdGlvbiI6ICJOZXcgWW9yaywgVVNBIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9kYXNoLmRhdGFkb2docS5jb20pIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJPYnNlcnZhYmlsaXR5Q09OIiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTEwLTE5IHRvIDIwMjYtMTAtMjEiLAogICAgICAgICJsb2NhdGlvbiI6ICJWaXJ0dWFsL09ubGluZSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vZ3JhZmFuYS5jb20vZXZlbnRzL29ic2VydmFiaWxpdHljb24pIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJHcmFmYW5hQ09OIiwKICAgICAgICAiZGF0ZSI6ICIyMDI3LTA0LTAxIiwKICAgICAgICAibG9jYXRpb24iOiAiVmlydHVhbC9PbmxpbmUiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL2dyYWZhbmEuY29tL2V2ZW50cy9ncmFmYW5hY29uKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiT2JzZXJ2YWJpbGl0eUNPTiBvbiB0aGUgUm9hZCIsCiAgICAgICAgImRhdGUiOiAiVEJBIiwKICAgICAgICAibG9jYXRpb24iOiAiQmVuZ2FsdXJ1LCBJbmRpYSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vZ3JhZmFuYS5jb20vZXZlbnRzL29ic2VydmFiaWxpdHljb24tb24tdGhlLXJvYWQvMjAyNi9iZW5nYWx1cnUpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJIYXNoaUNvbmYiLAogICAgICAgICJkYXRlIjogIjIwMjYtMTAtMjYgdG8gMjAyNi0xMC0yOSIsCiAgICAgICAgImxvY2F0aW9uIjogIkF0bGFudGEsIFVTQSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vd3d3Lmhhc2hpY29ycC5jb20vZW4vY29uZmVyZW5jZXMvaGFzaGljb25mKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiVHdpbGlvIFNJR05BTCIsCiAgICAgICAgImRhdGUiOiAiMjAyNy0wNS0wNiB0byAyMDI3LTA1LTA3IiwKICAgICAgICAibG9jYXRpb24iOiAiU2FuIEZyYW5jaXNjbywgVVNBIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly9zaWduYWwudHdpbGlvLmNvbSkiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIkNvbmZsdWVudCBDdXJyZW50IiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTA5LTIzIiwKICAgICAgICAibG9jYXRpb24iOiAiTG9uZG9uLCBVSyIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vY3VycmVudC5jb25mbHVlbnQuaW8vbG9uZG9uKSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiTW9uZ29EQiAubG9jYWwiLAogICAgICAgICJkYXRlIjogIlRCQSIsCiAgICAgICAgImxvY2F0aW9uIjogIlZhcmlvdXMgQ2l0aWVzIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly93d3cubW9uZ29kYi5jb20vZXZlbnRzL21vbmdvZGItbG9jYWwpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJIdW1hblggRXVyb3BlIiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTA5LTIyIHRvIDIwMjYtMDktMjQiLAogICAgICAgICJsb2NhdGlvbiI6ICJBbXN0ZXJkYW0sIE5ldGhlcmxhbmRzIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly93d3cuaHVtYW54LmNvL2V1cm9wZSkiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIkh1bWFuWCBVUyIsCiAgICAgICAgImRhdGUiOiAiMjAyNy0wMy0wNyB0byAyMDI3LTAzLTEwIiwKICAgICAgICAibG9jYXRpb24iOiAiTGFzIFZlZ2FzLCBVU0EiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3d3dy5odW1hbnguY28vdXMpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJBSSBFbmdpbmVlciBFdXJvcGUiLAogICAgICAgICJkYXRlIjogIjIwMjYtMDQtMDggdG8gMjAyNi0wNC0xMCIsCiAgICAgICAgImxvY2F0aW9uIjogIkxvbmRvbiwgVUsiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3d3dy5haS5lbmdpbmVlci9ldXJvcGUvMjAyNikiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIkFJIEVuZ2luZWVyIE1pYW1pIiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTA0LTIwIiwKICAgICAgICAibG9jYXRpb24iOiAiTWlhbWksIFVTQSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vd3d3LmFpLmVuZ2luZWVyL21pYW1pLzIwMjYpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJBSSBFbmdpbmVlciBTaW5nYXBvcmUiLAogICAgICAgICJkYXRlIjogIjIwMjYtMDUtMTUgdG8gMjAyNi0wNS0yMCIsCiAgICAgICAgImxvY2F0aW9uIjogIlNpbmdhcG9yZSIsCiAgICAgICAgInJlZ2lzdGVyIjogIlvihpddKGh0dHBzOi8vd3d3LmFpLmVuZ2luZWVyL3NpbmdhcG9yZS8yMDI2KSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiQUkgRW5naW5lZXIgUGFyaXMiLAogICAgICAgICJkYXRlIjogIjIwMjYtMDktMjMgdG8gMjAyNi0wOS0yNCIsCiAgICAgICAgImxvY2F0aW9uIjogIlBhcmlzLCBGcmFuY2UiLAogICAgICAgICJyZWdpc3RlciI6ICJb4oaXXShodHRwczovL3d3dy5haS5lbmdpbmVlci9wYXJpcy8yMDI2KSIKICAgIH0sCiAgICB7CiAgICAgICAgIm5hbWUiOiAiQUkgRW5naW5lZXIgTllDIiwKICAgICAgICAiZGF0ZSI6ICIyMDI2LTEwLTEyIHRvIDIwMjYtMTAtMTQiLAogICAgICAgICJsb2NhdGlvbiI6ICJOZXcgWW9yaywgVVNBIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly93d3cuYWkuZW5naW5lZXIvbnljLzIwMjYpIgogICAgfSwKICAgIHsKICAgICAgICAibmFtZSI6ICJBSSBFbmdpbmVlciBTaGFuZ2hhaSIsCiAgICAgICAgImRhdGUiOiAiMjAyNi0xMS0wNSB0byAyMDI2LTExLTA2IiwKICAgICAgICAibG9jYXRpb24iOiAiU2hhbmdoYWksIENoaW5hIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly93d3cuYWkuZW5naW5lZXIvc2hhbmdoYWkvMjAyNikiCiAgICB9LAogICAgewogICAgICAgICJuYW1lIjogIkFJIEVuZ2luZWVyIENvZGUiLAogICAgICAgICJkYXRlIjogIlRCQSIsCiAgICAgICAgImxvY2F0aW9uIjogIlZpcnR1YWwvT25saW5lIiwKICAgICAgICAicmVnaXN0ZXIiOiAiW+KGl10oaHR0cHM6Ly93d3cuYWkuZW5naW5lZXIvY29kZS8yMDI2KSIKICAgIH0KXQoKZGVmIGRldGVybWluZV9yZWdpb24obG9jYXRpb24pOgogICAgbG9jX2xvd2VyID0gbG9jYXRpb24ubG93ZXIoKQogICAgaWYgJ29ubGluZScgaW4gbG9jX2xvd2VyIG9yICd2aXJ0dWFsJyBpbiBsb2NfbG93ZXI6CiAgICAgICAgcmV0dXJuICdWaXJ0dWFsL09ubGluZScKICAgIGlmIGFueSh4IGluIGxvY19sb3dlciBmb3IgeCBpbiBbJ3VzYScsICdjYW5hZGEnLCAndW5pdGVkIHN0YXRlcycsICd1cyddKToKICAgICAgICByZXR1cm4gJ05vcnRoIEFtZXJpY2EnCiAgICBpZiBhbnkoeCBpbiBsb2NfbG93ZXIgZm9yIHggaW4gWyd1aycsICdnZXJtYW55JywgJ2F1c3RyaWEnLCAnZnJhbmNlJywgJ3BvcnR1Z2FsJywgJ2N6ZWNoaWEnLCAnY3plY2ggcmVwdWJsaWMnLCAnc3BhaW4nLCAnYmVsZ2l1bScsICduZXRoZXJsYW5kcyddKToKICAgICAgICByZXR1cm4gJ0V1cm9wZScKICAgIGlmIGFueSh4IGluIGxvY19sb3dlciBmb3IgeCBpbiBbJ2luZGlhJywgJ2phcGFuJywgJ2NoaW5hJywgJ3VhZScsICdzaW5nYXBvcmUnXSk6CiAgICAgICAgcmV0dXJuICdBc2lhJwogICAgcmV0dXJuICdWaXJ0dWFsL09ubGluZScKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludChmIkluamVjdGluZyB7bGVuKGZsYWdzaGlwX2V2ZW50cyl9IGZsYWdzaGlwIGV2ZW50cyBpbnRvIFJFQURNRS5tZC4uLiIpCiAgICAKICAgIHJhd19jb3VudCA9IGxlbihmbGFnc2hpcF9ldmVudHMpCiAgICBmaWx0ZXJlZF9jb3VudCA9IDAKICAgIHByaW50KGYiW0ZsYWdzaGlwc10gVG90YWwgcmF3IGV2ZW50czoge3Jhd19jb3VudH0gfCBGaWx0ZXJlZCBvdXQ6IHtmaWx0ZXJlZF9jb3VudH0gfCBTdWNjZXNzZnVsbHkgZmV0Y2hlZDoge2xlbihmbGFnc2hpcF9ldmVudHMpfSIpCgogICAgaW1wb3J0IGpzb24KICAgIG91dF9maWxlID0gImV2ZW50c19mbGFnc2hpcHMuanNvbiIKICAgIHdpdGggb3BlbihvdXRfZmlsZSwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChmbGFnc2hpcF9ldmVudHMsIGYsIGluZGVudD0yKQogICAgcHJpbnQoZiJTYXZlZCB7bGVuKGZsYWdzaGlwX2V2ZW50cyl9IGV2ZW50cyB0byB7b3V0X2ZpbGV9IikKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBpZiAibWFpbiIgaW4gbG9jYWxzKCkgb3IgIm1haW4iIGluIGdsb2JhbHMoKToKICAgICBtYWluKCkK
+import re
+from datetime import datetime
+
+from requests.help import main
+
+# Hardcoded flagship events that do not appear on aggregator sites
+flagship_events = [
+    {
+        "name": "WeAreDevelopers World Congress",
+        "date": "2026-07-08 to 2026-07-10",
+        "location": "Berlin, Germany",
+        "register": "[↗](https://www.wearedevelopers.com/world-congress)"
+    },
+    {
+        "name": "WeAreDevelopers North America",
+        "date": "2026-09-22 to 2026-09-24",
+        "location": "San Jose, USA",
+        "register": "[↗](https://www.wearedevelopers.com/world-congress-north-america)"
+    },
+    {
+        "name": "WeAreDevelopers India",
+        "date": "2026-10-01",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://www.wearedevelopers.com/conference-india)"
+    },
+    {
+        "name": "DevRelCon NYC",
+        "date": "2026-07-22 to 2026-07-23",
+        "location": "New York, USA",
+        "register": "[↗](https://nyc.devrelcon.dev)"
+    },
+    {
+        "name": "SaaStr Annual",
+        "date": "2026-09-09 to 2026-09-11",
+        "location": "San Mateo, USA",
+        "register": "[↗](https://saastr.com/events)"
+    },
+    {
+        "name": "KubeCon + CloudNativeCon North America",
+        "date": "2026-11-09 to 2026-11-12",
+        "location": "Salt Lake City, USA",
+        "register": "[↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america)"
+    },
+    {
+        "name": "KubeCon + CloudNativeCon Europe",
+        "date": "TBA",
+        "location": "Barcelona, Spain",
+        "register": "[↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe)"
+    },
+    {
+        "name": "KubeCon + CloudNativeCon India",
+        "date": "2026-06-18 to 2026-06-19",
+        "location": "Mumbai, India",
+        "register": "[↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-india)"
+    },
+    {
+        "name": "KubeCon + CloudNativeCon Japan",
+        "date": "2026-07-28 to 2026-07-30",
+        "location": "Yokohama, Japan",
+        "register": "[↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan)"
+    },
+    {
+        "name": "Open Source Summit North America",
+        "date": "TBA",
+        "location": "Minneapolis, USA",
+        "register": "[↗](https://events.linuxfoundation.org/open-source-summit-north-america)"
+    },
+    {
+        "name": "Open Source Summit Japan",
+        "date": "2026-12-01",
+        "location": "Tokyo, Japan",
+        "register": "[↗](https://events.linuxfoundation.org/open-source-summit-japan)"
+    },
+    {
+        "name": "All Things Open",
+        "date": "2026-10-25",
+        "location": "Raleigh, USA",
+        "register": "[↗](https://allthingsopen.org)"
+    },
+    {
+        "name": "PlatformCon",
+        "date": "2026-06-08 to 2026-06-12",
+        "location": "Online",
+        "register": "[↗](https://platformcon.com)"
+    },
+    {
+        "name": "AWS re:Invent",
+        "date": "2026-11-30 to 2026-12-04",
+        "location": "Las Vegas, USA",
+        "register": "[↗](https://aws.amazon.com/events/reinvent)"
+    },
+    {
+        "name": "Devoxx Belgium",
+        "date": "2026-10-05 to 2026-10-09",
+        "location": "Antwerp, Belgium",
+        "register": "[↗](https://devoxx.be)"
+    },
+    {
+        "name": "Google Cloud Next",
+        "date": "TBA",
+        "location": "Las Vegas, USA",
+        "register": "[↗](https://cloud.withgoogle.com/next)"
+    },
+    {
+        "name": "Microsoft Build",
+        "date": "TBA",
+        "location": "Seattle, USA",
+        "register": "[↗](https://build.microsoft.com/)"
+    },
+    {
+        "name": "NVIDIA GTC",
+        "date": "TBA",
+        "location": "San Jose, USA",
+        "register": "[↗](https://www.nvidia.com/gtc/)"
+    },
+    {
+        "name": "QCon London",
+        "date": "TBA",
+        "location": "London, UK",
+        "register": "[↗](https://qconlondon.com/)"
+    },
+    {
+        "name": "QCon New York",
+        "date": "TBA",
+        "location": "New York, USA",
+        "register": "[↗](https://qconnewyork.com/)"
+    },
+    {
+        "name": "QCon San Francisco",
+        "date": "TBA",
+        "location": "San Francisco, USA",
+        "register": "[↗](https://qconsf.com/)"
+    },
+    {
+        "name": "Web Summit",
+        "date": "2026-11-10",
+        "location": "Lisbon, Portugal",
+        "register": "[↗](https://websummit.com)"
+    },
+    {
+        "name": "GITEX Global",
+        "date": "2026-12-07 to 2026-12-11",
+        "location": "Dubai, UAE",
+        "register": "[↗](https://www.gitex.com)"
+    },
+    {
+        "name": "GITEX AI Europe",
+        "date": "2026-06-30 to 2026-07-01",
+        "location": "Berlin, Germany",
+        "register": "[↗](https://www.gitex.com/gitex-ai-europe)"
+    },
+    {
+        "name": "AIBoomi Events",
+        "date": "TBA",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://saasboomi.org/events)"
+    },
+    {
+        "name": "AIBoomi Annual",
+        "date": "TBA",
+        "location": "Chennai, India",
+        "register": "[↗](https://annual.aiboomi.org)"
+    },
+    {
+        "name": "Cypher AI Conference",
+        "date": "2026-10-01 to 2026-10-03",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://cypher.analyticsindiamag.com)"
+    },
+    {
+        "name": "NASSCOM Tech Events",
+        "date": "TBA",
+        "location": "India",
+        "register": "[↗](https://nasscom.in/events)"
+    },
+    {
+        "name": "DevConf.IN",
+        "date": "2026-08-01 to 2026-08-02",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://www.devconf.info/in)"
+    },
+    {
+        "name": "India SaaS & Marketing Tech Summit",
+        "date": "2026-07-15",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://whysummits.com/india-saas-marketing-tech-summit-2026)"
+    },
+    {
+        "name": "Tech in Asia Events",
+        "date": "TBA",
+        "location": "Singapore",
+        "register": "[↗](https://www.techinasia.com/events)"
+    },
+    {
+        "name": "IDC Asia Pacific Summits",
+        "date": "TBA",
+        "location": "Singapore",
+        "register": "[↗](https://www.idc.com/ap/events)"
+    },
+    {
+        "name": "Stripe Sessions",
+        "date": "2027-04-29 to 2027-04-30",
+        "location": "San Francisco, USA",
+        "register": "[↗](https://stripe.com/sessions)"
+    },
+    {
+        "name": "Datadog DASH",
+        "date": "2027-06-09 to 2027-06-10",
+        "location": "New York, USA",
+        "register": "[↗](https://dash.datadoghq.com)"
+    },
+    {
+        "name": "ObservabilityCON",
+        "date": "2026-10-19 to 2026-10-21",
+        "location": "Virtual/Online",
+        "register": "[↗](https://grafana.com/events/observabilitycon)"
+    },
+    {
+        "name": "GrafanaCON",
+        "date": "2027-04-01",
+        "location": "Virtual/Online",
+        "register": "[↗](https://grafana.com/events/grafanacon)"
+    },
+    {
+        "name": "ObservabilityCON on the Road",
+        "date": "TBA",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://grafana.com/events/observabilitycon-on-the-road/2026/bengaluru)"
+    },
+    {
+        "name": "HashiConf",
+        "date": "2026-10-26 to 2026-10-29",
+        "location": "Atlanta, USA",
+        "register": "[↗](https://www.hashicorp.com/en/conferences/hashiconf)"
+    },
+    {
+        "name": "Twilio SIGNAL",
+        "date": "2027-05-06 to 2027-05-07",
+        "location": "San Francisco, USA",
+        "register": "[↗](https://signal.twilio.com)"
+    },
+    {
+        "name": "Confluent Current",
+        "date": "2026-09-23",
+        "location": "London, UK",
+        "register": "[↗](https://current.confluent.io/london)"
+    },
+    {
+        "name": "MongoDB .local",
+        "date": "TBA",
+        "location": "Various Cities",
+        "register": "[↗](https://www.mongodb.com/events/mongodb-local)"
+    },
+    {
+        "name": "HumanX Europe",
+        "date": "2026-09-22 to 2026-09-24",
+        "location": "Amsterdam, Netherlands",
+        "register": "[↗](https://www.humanx.co/europe)"
+    },
+    {
+        "name": "HumanX US",
+        "date": "2027-03-07 to 2027-03-10",
+        "location": "Las Vegas, USA",
+        "register": "[↗](https://www.humanx.co/us)"
+    },
+    {
+        "name": "AI Engineer Europe",
+        "date": "2026-04-08 to 2026-04-10",
+        "location": "London, UK",
+        "register": "[↗](https://www.ai.engineer/europe/2026)"
+    },
+    {
+        "name": "AI Engineer Miami",
+        "date": "2026-04-20",
+        "location": "Miami, USA",
+        "register": "[↗](https://www.ai.engineer/miami/2026)"
+    },
+    {
+        "name": "AI Engineer Singapore",
+        "date": "2026-05-15 to 2026-05-20",
+        "location": "Singapore",
+        "register": "[↗](https://www.ai.engineer/singapore/2026)"
+    },
+    {
+        "name": "AI Engineer Paris",
+        "date": "2026-09-23 to 2026-09-24",
+        "location": "Paris, France",
+        "register": "[↗](https://www.ai.engineer/paris/2026)"
+    },
+    {
+        "name": "AI Engineer NYC",
+        "date": "2026-10-12 to 2026-10-14",
+        "location": "New York, USA",
+        "register": "[↗](https://www.ai.engineer/nyc/2026)"
+    },
+    {
+        "name": "AI Engineer Shanghai",
+        "date": "2026-11-05 to 2026-11-06",
+        "location": "Shanghai, China",
+        "register": "[↗](https://www.ai.engineer/shanghai/2026)"
+    },
+    {
+        "name": "AI Engineer Code",
+        "date": "TBA",
+        "location": "Virtual/Online",
+        "register": "[↗](https://www.ai.engineer/code/2026)"
+    }
+]
+
+def determine_region(location):
+    loc_lower = location.lower()
+    if 'online' in loc_lower or 'virtual' in loc_lower:
+        return 'Virtual/Online'
+    if any(x in loc_lower for x in ['usa', 'canada', 'united states', 'us']):
+        return 'North America'
+    if any(x in loc_lower for x in ['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'czech republic', 'spain', 'belgium', 'netherlands']):
+        return 'Europe'
+    if any(x in loc_lower for x in ['india', 'japan', 'china', 'uae', 'singapore']):
+        return 'Asia'
+    return 'Virtual/Online'
+
+if __name__ == "__main__":
+    print(f"Injecting {len(flagship_events)} flagship events into README.md...")
+    
+    raw_count = len(flagship_events)
+    filtered_count = 0
+    print(f"[Flagships] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(flagship_events)}")
+
+    import json
+    out_file = "events_flagships.json"
+    with open(out_file, 'w', encoding='utf-8') as f:
+        json.dump(flagship_events, f, indent=2)
+    print(f"Saved {len(flagship_events)} events to {out_file}")
+
+if __name__ == "__main__":
+    if "main" in locals() or "main" in globals():
+     main()

@@ -1,1 +1,36 @@
-aW1wb3J0IHN5cywgb3MsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwnLi4nLCcuLicpKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1ClNURVBTLCBQRVJJT0QgPSA2MDAsIDgwCktTQSwgS0FDVCwgREVDQVkgPSAwLjM1LCAwLjA1LCAwLjA1CkUwLCBCQVNBTCA9IDAuOTUsIDAuMDAxCk4gPSA0OApkZWYgbWsoc2VlZCk6IHJldHVybiBMaWZlNShzZWVkPXNlZWQsIHNpZ21hX2luPTAuMTAsIGtfc2Vlaz0wLjAsIGtfc2Vla19hcnI9S1NBLCBhcnJfdGhyPTAuNTAsIEUwPUUwLCBiYXNhbD1CQVNBTCkKZGVmIHJ1bihzZWVkLCBwZXJpb2QpOgogICAgbGlmZT1tayhzZWVkKTsgZnJvemVuPTAuNTsgYWN0PTAuMAogICAgZm9yIHQgaW4gcmFuZ2UoU1RFUFMpOgogICAgICAgIHc9ZmxvYXQoMC41KzAuMypucC5zaW4oMipucC5waSp0L1BFUklPRCkpCiAgICAgICAgaWYgKHQgJSBwZXJpb2QpIDwgKHBlcmlvZC8vMik6IGZyb3plbj13CiAgICAgICAgbGlmZS5pbnB1dF92YWw9ZmxvYXQoZnJvemVuKSthY3QKICAgICAgICByPWxpZmUuc3RlcCgpCiAgICAgICAgaWYgciBpcyBOb25lOiBicmVhawogICAgICAgIHRlbj1mbG9hdChsaWZlLnNwWzBdLWxpZmUueVswXSk7IGE9ZmxvYXQobnAuY2xpcChLQUNUKnRlbiwwLjAsMC4xMCkpCiAgICAgICAgYWN0PWZsb2F0KG5wLmNsaXAoYWN0K2EtREVDQVkqYWN0LC0wLjUsMC41KSkKICAgIGM9bGlmZS5jYXBhY2l0eQogICAgcmV0dXJuIGZsb2F0KG5wLnN0ZChjKS9tYXgobnAubWVhbihjKSwxZS0xMikpClBFUj1bMTAsMjAsMzAsNDAsNjAsODAsMTAwLDEyMCwxNjAsMjAwXQpyZXM9e3A6IGZsb2F0KG5wLm1lYW4oW3J1bihzLHApIGZvciBzIGluIHJhbmdlKE4pXSkpIGZvciBwIGluIFBFUn0KcHJpbnQoJ3BlcmlvZCAgc2tldycpCmJhc2U9cmVzWzIwXQpmb3IgcCBpbiBQRVI6CiAgICBtYXJrPScgPD09IOS/oeWPt+WRqOacnycgaWYgcD09UEVSSU9EIGVsc2UgJycKICAgIHByaW50KGYne3A6NWR9ICB7cmVzW3BdOi42Zn17bWFya30nKQpwZWFrPW1heChyZXMsa2V5PXJlcy5nZXQpCnByaW50KGYnXG7ls7DlgLwgcGVyaW9kID0ge3BlYWt9ICAo5L+h5Y+35ZGo5pyfPXtQRVJJT0R9KScpCnByaW50KGYn5bOw5YC8L+Wfuue6vyA9IHtyZXNbcGVha10vYmFzZTouM2Z9JykKIyDmmK/lkKblj6rmnIkgODAg6ZmE6L+R5pi+6JGX6auYCm90aGVycz1bcmVzW3BdIGZvciBwIGluIFBFUiBpZiBwIT04MF0KcHJpbnQoZifpnZ44MOe7hCBtZWFuPXtucC5tZWFuKG90aGVycyk6LjZmfSBzdGQ9e25wLnN0ZChvdGhlcnMpOi42Zn0nKQpwcmludChmJzgwIOeahCB6ID0geyhyZXNbODBdLW5wLm1lYW4ob3RoZXJzKSkvbWF4KG5wLnN0ZChvdGhlcnMpLDFlLTEyKTouMmZ9JykKanNvbi5kdW1wKHJlcyxvcGVuKCdhbGlhc19yZXN1bHQuanNvbicsJ3cnKSxpbmRlbnQ9MSkK
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__),'..','..'))
+from core.life5 import Life5
+STEPS, PERIOD = 600, 80
+KSA, KACT, DECAY = 0.35, 0.05, 0.05
+E0, BASAL = 0.95, 0.001
+N = 48
+def mk(seed): return Life5(seed=seed, sigma_in=0.10, k_seek=0.0, k_seek_arr=KSA, arr_thr=0.50, E0=E0, basal=BASAL)
+def run(seed, period):
+    life=mk(seed); frozen=0.5; act=0.0
+    for t in range(STEPS):
+        w=float(0.5+0.3*np.sin(2*np.pi*t/PERIOD))
+        if (t % period) < (period//2): frozen=w
+        life.input_val=float(frozen)+act
+        r=life.step()
+        if r is None: break
+        ten=float(life.sp[0]-life.y[0]); a=float(np.clip(KACT*ten,0.0,0.10))
+        act=float(np.clip(act+a-DECAY*act,-0.5,0.5))
+    c=life.capacity
+    return float(np.std(c)/max(np.mean(c),1e-12))
+PER=[10,20,30,40,60,80,100,120,160,200]
+res={p: float(np.mean([run(s,p) for s in range(N)])) for p in PER}
+print('period  skew')
+base=res[20]
+for p in PER:
+    mark=' <== 信号周期' if p==PERIOD else ''
+    print(f'{p:5d}  {res[p]:.6f}{mark}')
+peak=max(res,key=res.get)
+print(f'\n峰值 period = {peak}  (信号周期={PERIOD})')
+print(f'峰值/基线 = {res[peak]/base:.3f}')
+# 是否只有 80 附近显著高
+others=[res[p] for p in PER if p!=80]
+print(f'非80组 mean={np.mean(others):.6f} std={np.std(others):.6f}')
+print(f'80 的 z = {(res[80]-np.mean(others))/max(np.std(others),1e-12):.2f}')
+json.dump(res,open('alias_result.json','w'),indent=1)

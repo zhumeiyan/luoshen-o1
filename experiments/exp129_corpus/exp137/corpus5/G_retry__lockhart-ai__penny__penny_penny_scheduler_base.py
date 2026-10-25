@@ -1,1 +1,192 @@
-IiIiQmFja2dyb3VuZCB0YXNrIHNjaGVkdWxpbmcuIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXN5bmNpbwppbXBvcnQgbG9nZ2luZwppbXBvcnQgdGltZQpmcm9tIGNvbGxlY3Rpb25zLmFiYyBpbXBvcnQgQ2FsbGFibGUKZnJvbSB0eXBpbmcgaW1wb3J0IFByb3RvY29sCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCgpjbGFzcyBTY2hlZHVsZWRUYXNrKFByb3RvY29sKToKICAgICIiIkEgdW5pdCB0aGUgc2NoZWR1bGVyIGNhbiBydW4uCgogICAgU3RydWN0dXJhbDogYW55dGhpbmcgd2l0aCBhIGBgbmFtZWBgIChmb3IgbG9nZ2luZy9zdGF0dXMpIGFuZCBhbiBhc3luYwogICAgYGBleGVjdXRlKClgYCByZXR1cm5pbmcgd2hldGhlciBpdCBkaWQgd29yayB0aGlzIHRpY2suICBUaGUgYmFja2dyb3VuZAogICAgYGBDb2xsZWN0b3JgYCBzYXRpc2ZpZXMgaXQsIGFuZCBzbyBkb2VzIHRoZSBkZXRlcm1pbmlzdGljCiAgICBgYFNlbmRRdWV1ZURyYWluZXJgYCDigJQgd2hpY2ggaXMgbm90IGFuIExMTSBhZ2VudC4KICAgICIiIgoKICAgIG5hbWU6IHN0cgoKICAgIGFzeW5jIGRlZiBleGVjdXRlKHNlbGYpIC0+IGJvb2w6IC4uLgoKCmNsYXNzIFNjaGVkdWxlOgogICAgIiIiQmFzZSBjbGFzcyBmb3Igc2NoZWR1bGUgcG9saWNpZXMuIiIiCgogICAgYWdlbnQ6IFNjaGVkdWxlZFRhc2sKCiAgICBkZWYgc2hvdWxkX3J1bihzZWxmLCBpc19pZGxlOiBib29sKSAtPiBib29sOgogICAgICAgICIiIgogICAgICAgIENoZWNrIGlmIHRoZSBzY2hlZHVsZSBjb25kaXRpb24gaXMgbWV0LgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBpc19pZGxlOiBUcnVlIGlmIHRoZSBzeXN0ZW0gaGFzIGJlZW4gaWRsZSBwYXN0IHRoZSBnbG9iYWwgdGhyZXNob2xkCgogICAgICAgIFJldHVybnM6CiAgICAgICAgICAgIFRydWUgaWYgdGhlIHRhc2sgc2hvdWxkIHJ1biBub3cKICAgICAgICAiIiIKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBkZWYgcmVzZXQoc2VsZikgLT4gTm9uZToKICAgICAgICAiIiJSZXNldCBzY2hlZHVsZSBzdGF0ZS4gQ2FsbGVkIHdoZW4gYSBuZXcgbWVzc2FnZSBhcnJpdmVzLiIiIgogICAgICAgIHBhc3MKCiAgICBkZWYgbWFya19jb21wbGV0ZShzZWxmKSAtPiBOb25lOgogICAgICAgICIiIkNhbGxlZCBhZnRlciB0YXNrIGV4ZWN1dGlvbiBjb21wbGV0ZXMuIiIiCiAgICAgICAgcGFzcwoKCmNsYXNzIEJhY2tncm91bmRTY2hlZHVsZXI6CiAgICAiIiJVbmlmaWVkIHNjaGVkdWxlciBmb3IgYmFja2dyb3VuZCB0YXNrcy4iIiIKCiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwKICAgICAgICBzY2hlZHVsZXM6IGxpc3RbU2NoZWR1bGVdLAogICAgICAgIGlkbGVfdGhyZXNob2xkOiBDYWxsYWJsZVtbXSwgZmxvYXRdLAogICAgICAgIHRpY2tfaW50ZXJ2YWw6IGZsb2F0ID0gMS4wLAogICAgKToKICAgICAgICAiIiIKICAgICAgICBJbml0aWFsaXplIHRoZSBzY2hlZHVsZXIuCgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIHNjaGVkdWxlczogTGlzdCBvZiBzY2hlZHVsZXMgaW4gcHJpb3JpdHkgb3JkZXIgKGZpcnN0IGNoZWNrZWQgZmlyc3QpCiAgICAgICAgICAgIGlkbGVfdGhyZXNob2xkOiBDYWxsYWJsZSByZXR1cm5pbmcgY3VycmVudCBpZGxlIHRocmVzaG9sZCBpbiBzZWNvbmRzIChyZWFkIGVhY2ggdGljaykKICAgICAgICAgICAgdGlja19pbnRlcnZhbDogSG93IG9mdGVuIHRvIGNoZWNrIHNjaGVkdWxlcyBpbiBzZWNvbmRzCiAgICAgICAgIiIiCiAgICAgICAgc2VsZi5fc2NoZWR1bGVzID0gc2NoZWR1bGVzCiAgICAgICAgc2VsZi5faWRsZV90aHJlc2hvbGQgPSBpZGxlX3RocmVzaG9sZAogICAgICAgIHNlbGYuX3RpY2tfaW50ZXJ2YWwgPSB0aWNrX2ludGVydmFsCiAgICAgICAgc2VsZi5fbGFzdF9tZXNzYWdlX3RpbWUgPSB0aW1lLm1vbm90b25pYygpCiAgICAgICAgc2VsZi5fcnVubmluZyA9IFRydWUKICAgICAgICBzZWxmLl9jdXJyZW50X3Rhc2s6IHN0ciB8IE5vbmUgPSBOb25lCiAgICAgICAgc2VsZi5fbGFzdF9ydW5fdGltZXM6IGRpY3Rbc3RyLCBmbG9hdF0gPSB7fQogICAgICAgIHNlbGYuX2ZvcmVncm91bmRfYWN0aXZlID0gRmFsc2UKICAgICAgICBzZWxmLl9hY3RpdmVfdGFzazogYXN5bmNpby5UYXNrW2Jvb2xdIHwgTm9uZSA9IE5vbmUKCiAgICBkZWYgbm90aWZ5X21lc3NhZ2Uoc2VsZikgLT4gTm9uZToKICAgICAgICAiIiJDYWxsZWQgd2hlbiBhIG5ldyBtZXNzYWdlIGFycml2ZXMuIFJlc2V0cyBhbGwgc2NoZWR1bGVzLiIiIgogICAgICAgIHNlbGYuX2xhc3RfbWVzc2FnZV90aW1lID0gdGltZS5tb25vdG9uaWMoKQogICAgICAgIGZvciBzY2hlZHVsZSBpbiBzZWxmLl9zY2hlZHVsZXM6CiAgICAgICAgICAgIHNjaGVkdWxlLnJlc2V0KCkKICAgICAgICBsb2dnZXIuZGVidWcoIlNjaGVkdWxlcjogYWxsIHNjaGVkdWxlcyByZXNldCBieSBpbmNvbWluZyBtZXNzYWdlIikKCiAgICBkZWYgbm90aWZ5X2FjdGl2aXR5KHNlbGYpIC0+IE5vbmU6CiAgICAgICAgIiIiQ2FsbGVkIHdoZW4gYnJvd3NlciBhY3Rpdml0eSBpcyBkZXRlY3RlZCAoZS5nLiBVUkwgY2hhbmdlKS4KCiAgICAgICAgUmVzZXRzIG9ubHkgdGhlIGlkbGUgdGltZXIgc28gbm90aWZpY2F0aW9ucyBhcmUgc3VwcHJlc3NlZCB3aGlsZSB0aGUKICAgICAgICB1c2VyIGlzIGFjdGl2ZWx5IGJyb3dzaW5nLCB3aXRob3V0IGRlbGF5aW5nIHNjaGVkdWxlZCB0YXNrIGludGVydmFscy4KICAgICAgICAiIiIKICAgICAgICBzZWxmLl9sYXN0X21lc3NhZ2VfdGltZSA9IHRpbWUubW9ub3RvbmljKCkKICAgICAgICBsb2dnZXIuZGVidWcoIlNjaGVkdWxlcjogaWRsZSB0aW1lciByZXNldCBieSBicm93c2VyIGFjdGl2aXR5IikKCiAgICBkZWYgbm90aWZ5X2ZvcmVncm91bmRfc3RhcnQoc2VsZikgLT4gTm9uZToKICAgICAgICAiIiJDYWxsZWQgd2hlbiBmb3JlZ3JvdW5kIHdvcmsgKG1lc3NhZ2UvY29tbWFuZCBwcm9jZXNzaW5nKSBzdGFydHMuCgogICAgICAgIENhbmNlbHMgYW55IHJ1bm5pbmcgYmFja2dyb3VuZCB0YXNrIHNvIE9sbGFtYSBpcyBpbW1lZGlhdGVseSBmcmVlCiAgICAgICAgdG8gc2VydmUgdGhlIHVzZXIncyBtZXNzYWdlLgogICAgICAgICIiIgogICAgICAgIHNlbGYuX2ZvcmVncm91bmRfYWN0aXZlID0gVHJ1ZQogICAgICAgIGlmIHNlbGYuX2FjdGl2ZV90YXNrIGFuZCBub3Qgc2VsZi5fYWN0aXZlX3Rhc2suZG9uZSgpOgogICAgICAgICAgICBzZWxmLl9hY3RpdmVfdGFzay5jYW5jZWwoKQogICAgICAgICAgICBsb2dnZXIuaW5mbygKICAgICAgICAgICAgICAgICJTY2hlZHVsZXI6IGNhbmNlbGxlZCBiYWNrZ3JvdW5kIHRhc2sgJXMgZm9yIGZvcmVncm91bmQgcHJpb3JpdHkiLAogICAgICAgICAgICAgICAgc2VsZi5fY3VycmVudF90YXNrLAogICAgICAgICAgICApCgogICAgQHByb3BlcnR5CiAgICBkZWYgZm9yZWdyb3VuZF9hY3RpdmUoc2VsZikgLT4gYm9vbDoKICAgICAgICAiIiJXaGV0aGVyIGEgZm9yZWdyb3VuZCB0dXJuIGlzIHN0aWxsIGluIGZsaWdodCDigJQgZnJvbSB0aGUgbW9tZW50IGl0cyBtZXNzYWdlIGlzCiAgICAgICAgZGlzcGF0Y2hlZCB1bnRpbCBpdHMgcmVwbHksIGFuZCBldmVyeSBzZW5kIHRoYXQgZm9sbG93cyB0aGUgcmVwbHksIGhhcyBmaW5pc2hlZC4iIiIKICAgICAgICByZXR1cm4gc2VsZi5fZm9yZWdyb3VuZF9hY3RpdmUKCiAgICBkZWYgbm90aWZ5X2ZvcmVncm91bmRfZW5kKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgIiIiQ2FsbGVkIHdoZW4gZm9yZWdyb3VuZCB3b3JrIChtZXNzYWdlL2NvbW1hbmQgcHJvY2Vzc2luZykgZW5kcy4iIiIKICAgICAgICBzZWxmLl9mb3JlZ3JvdW5kX2FjdGl2ZSA9IEZhbHNlCiAgICAgICAgbG9nZ2VyLmRlYnVnKCJTY2hlZHVsZXI6IGZvcmVncm91bmQgd29yayBlbmRlZCwgYmFja2dyb3VuZCB0YXNrcyByZXN1bWVkIikKCiAgICBkZWYgc3RvcChzZWxmKSAtPiBOb25lOgogICAgICAgICIiIlNpZ25hbCB0aGUgc2NoZWR1bGVyIHRvIHN0b3AuIiIiCiAgICAgICAgc2VsZi5fcnVubmluZyA9IEZhbHNlCgogICAgZGVmIGdldF9hZ2VudF9zdGF0dXMoc2VsZikgLT4gZGljdFtzdHIsIGZsb2F0IHwgTm9uZV06CiAgICAgICAgIiIiCiAgICAgICAgR2V0IHRoZSB0aW1lIGVsYXBzZWQgc2luY2UgZWFjaCBhZ2VudCBsYXN0IHJhbi4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgRGljdGlvbmFyeSBtYXBwaW5nIGFnZW50IG5hbWVzIHRvIHNlY29uZHMgc2luY2UgbGFzdCBydW4gKE5vbmUgaWYgbmV2ZXIgcnVuKQogICAgICAgICIiIgogICAgICAgIG5vdyA9IHRpbWUubW9ub3RvbmljKCkKICAgICAgICByZXR1cm4gewogICAgICAgICAgICBzY2hlZHVsZS5hZ2VudC5uYW1lOiAoCiAgICAgICAgICAgICAgICBub3cgLSBzZWxmLl9sYXN0X3J1bl90aW1lc1tzY2hlZHVsZS5hZ2VudC5uYW1lXQogICAgICAgICAgICAgICAgaWYgc2NoZWR1bGUuYWdlbnQubmFtZSBpbiBzZWxmLl9sYXN0X3J1bl90aW1lcwogICAgICAgICAgICAgICAgZWxzZSBOb25lCiAgICAgICAgICAgICkKICAgICAgICAgICAgZm9yIHNjaGVkdWxlIGluIHNlbGYuX3NjaGVkdWxlcwogICAgICAgIH0KCiAgICBhc3luYyBkZWYgcnVuKHNlbGYpIC0+IE5vbmU6CiAgICAgICAgIiIiTWFpbiBzY2hlZHVsZXIgbG9vcC4iIiIKICAgICAgICB0YXNrX25hbWVzID0gW3MuYWdlbnQubmFtZSBmb3IgcyBpbiBzZWxmLl9zY2hlZHVsZXNdCiAgICAgICAgbG9nZ2VyLmluZm8oCiAgICAgICAgICAgICJCYWNrZ3JvdW5kIHNjaGVkdWxlciBzdGFydGVkIHdpdGggdGFza3M6ICVzIChpZGxlX3RocmVzaG9sZD0lLjBmcykiLAogICAgICAgICAgICB0YXNrX25hbWVzLAogICAgICAgICAgICBzZWxmLl9pZGxlX3RocmVzaG9sZCgpLAogICAgICAgICkKCiAgICAgICAgd2hpbGUgc2VsZi5fcnVubmluZzoKICAgICAgICAgICAgaWRsZV9zZWNvbmRzID0gdGltZS5tb25vdG9uaWMoKSAtIHNlbGYuX2xhc3RfbWVzc2FnZV90aW1lCiAgICAgICAgICAgIGlzX2lkbGUgPSBpZGxlX3NlY29uZHMgPj0gc2VsZi5faWRsZV90aHJlc2hvbGQoKQoKICAgICAgICAgICAgIyBTa2lwIGFsbCBiYWNrZ3JvdW5kIHRhc2tzIGlmIGZvcmVncm91bmQgd29yayBpcyBhY3RpdmUKICAgICAgICAgICAgaWYgbm90IHNlbGYuX2ZvcmVncm91bmRfYWN0aXZlOgogICAgICAgICAgICAgICAgIyBUcnkgc2NoZWR1bGVzIGluIHByaW9yaXR5IG9yZGVyOyBza2lwIGFnZW50cyB3aXRoIG5vIHdvcmsKICAgICAgICAgICAgICAgIGZvciBzY2hlZHVsZSBpbiBzZWxmLl9zY2hlZHVsZXM6CiAgICAgICAgICAgICAgICAgICAgaWYgc2NoZWR1bGUuc2hvdWxkX3J1bihpc19pZGxlKToKICAgICAgICAgICAgICAgICAgICAgICAgYWdlbnQgPSBzY2hlZHVsZS5hZ2VudAogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jdXJyZW50X3Rhc2sgPSBhZ2VudC5uYW1lCgogICAgICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9hY3RpdmVfdGFzayA9IGFzeW5jaW8uY3JlYXRlX3Rhc2soYWdlbnQuZXhlY3V0ZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlkX3dvcmsgPSBhd2FpdCBzZWxmLl9hY3RpdmVfdGFzawogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5fbGFzdF9ydW5fdGltZXNbYWdlbnQubmFtZV0gPSB0aW1lLm1vbm90b25pYygpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIEFsd2F5cyByZXNldCB0aGUgc2NoZWR1bGUncyB0aW1lci4gIFNraXBwaW5nIHRoZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyByZXNldCBvbiBuby13b3JrIHdvdWxkIGxlYXZlIHRoZSBzY2hlZHVsZSBlbGlnaWJsZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBvbiBldmVyeSB0aWNrLCBob3QtbG9vcGluZyBhIG1vZGVsIGNhbGwgdG8gZGlzY292ZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgdGhlIHF1ZXVlIGlzIGVtcHR5LiAgTG93ZXItcHJpb3JpdHkgc2NoZWR1bGVzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHN0aWxsIGdldCBhIHR1cm4gdGhpcyB0aWNrIGJlY2F1c2UgdGhlIGZvci1sb29wCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIG9ubHkgYGBicmVha2BgcyB3aGVuIHdvcmsgd2FzIGFjdHVhbGx5IGRvbmUuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZS5tYXJrX2NvbXBsZXRlKCkKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBkaWRfd29yazoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiQmFja2dyb3VuZCB0YXNrIGNvbXBsZXRlZDogJXMiLCBhZ2VudC5uYW1lKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBhc3luY2lvLkNhbmNlbGxlZEVycm9yOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIkJhY2tncm91bmQgdGFzayBjYW5jZWxsZWQ6ICVzIiwgYWdlbnQubmFtZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5leGNlcHRpb24oIkJhY2tncm91bmQgdGFzayBmYWlsZWQ6ICVzIC0gJXMiLCBhZ2VudC5uYW1lLCBlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGUubWFya19jb21wbGV0ZSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5fYWN0aXZlX3Rhc2sgPSBOb25lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jdXJyZW50X3Rhc2sgPSBOb25lCgogICAgICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKHNlbGYuX3RpY2tfaW50ZXJ2YWwpCgogICAgICAgIGxvZ2dlci5pbmZvKCJCYWNrZ3JvdW5kIHNjaGVkdWxlciBzdG9wcGVkIikK
+"""Background task scheduling."""
+
+from __future__ import annotations
+
+import asyncio
+import logging
+import time
+from collections.abc import Callable
+from typing import Protocol
+
+logger = logging.getLogger(__name__)
+
+
+class ScheduledTask(Protocol):
+    """A unit the scheduler can run.
+
+    Structural: anything with a ``name`` (for logging/status) and an async
+    ``execute()`` returning whether it did work this tick.  The background
+    ``Collector`` satisfies it, and so does the deterministic
+    ``SendQueueDrainer`` — which is not an LLM agent.
+    """
+
+    name: str
+
+    async def execute(self) -> bool: ...
+
+
+class Schedule:
+    """Base class for schedule policies."""
+
+    agent: ScheduledTask
+
+    def should_run(self, is_idle: bool) -> bool:
+        """
+        Check if the schedule condition is met.
+
+        Args:
+            is_idle: True if the system has been idle past the global threshold
+
+        Returns:
+            True if the task should run now
+        """
+        return False
+
+    def reset(self) -> None:
+        """Reset schedule state. Called when a new message arrives."""
+        pass
+
+    def mark_complete(self) -> None:
+        """Called after task execution completes."""
+        pass
+
+
+class BackgroundScheduler:
+    """Unified scheduler for background tasks."""
+
+    def __init__(
+        self,
+        schedules: list[Schedule],
+        idle_threshold: Callable[[], float],
+        tick_interval: float = 1.0,
+    ):
+        """
+        Initialize the scheduler.
+
+        Args:
+            schedules: List of schedules in priority order (first checked first)
+            idle_threshold: Callable returning current idle threshold in seconds (read each tick)
+            tick_interval: How often to check schedules in seconds
+        """
+        self._schedules = schedules
+        self._idle_threshold = idle_threshold
+        self._tick_interval = tick_interval
+        self._last_message_time = time.monotonic()
+        self._running = True
+        self._current_task: str | None = None
+        self._last_run_times: dict[str, float] = {}
+        self._foreground_active = False
+        self._active_task: asyncio.Task[bool] | None = None
+
+    def notify_message(self) -> None:
+        """Called when a new message arrives. Resets all schedules."""
+        self._last_message_time = time.monotonic()
+        for schedule in self._schedules:
+            schedule.reset()
+        logger.debug("Scheduler: all schedules reset by incoming message")
+
+    def notify_activity(self) -> None:
+        """Called when browser activity is detected (e.g. URL change).
+
+        Resets only the idle timer so notifications are suppressed while the
+        user is actively browsing, without delaying scheduled task intervals.
+        """
+        self._last_message_time = time.monotonic()
+        logger.debug("Scheduler: idle timer reset by browser activity")
+
+    def notify_foreground_start(self) -> None:
+        """Called when foreground work (message/command processing) starts.
+
+        Cancels any running background task so Ollama is immediately free
+        to serve the user's message.
+        """
+        self._foreground_active = True
+        if self._active_task and not self._active_task.done():
+            self._active_task.cancel()
+            logger.info(
+                "Scheduler: cancelled background task %s for foreground priority",
+                self._current_task,
+            )
+
+    @property
+    def foreground_active(self) -> bool:
+        """Whether a foreground turn is still in flight — from the moment its message is
+        dispatched until its reply, and every send that follows the reply, has finished."""
+        return self._foreground_active
+
+    def notify_foreground_end(self) -> None:
+        """Called when foreground work (message/command processing) ends."""
+        self._foreground_active = False
+        logger.debug("Scheduler: foreground work ended, background tasks resumed")
+
+    def stop(self) -> None:
+        """Signal the scheduler to stop."""
+        self._running = False
+
+    def get_agent_status(self) -> dict[str, float | None]:
+        """
+        Get the time elapsed since each agent last ran.
+
+        Returns:
+            Dictionary mapping agent names to seconds since last run (None if never run)
+        """
+        now = time.monotonic()
+        return {
+            schedule.agent.name: (
+                now - self._last_run_times[schedule.agent.name]
+                if schedule.agent.name in self._last_run_times
+                else None
+            )
+            for schedule in self._schedules
+        }
+
+    async def run(self) -> None:
+        """Main scheduler loop."""
+        task_names = [s.agent.name for s in self._schedules]
+        logger.info(
+            "Background scheduler started with tasks: %s (idle_threshold=%.0fs)",
+            task_names,
+            self._idle_threshold(),
+        )
+
+        while self._running:
+            idle_seconds = time.monotonic() - self._last_message_time
+            is_idle = idle_seconds >= self._idle_threshold()
+
+            # Skip all background tasks if foreground work is active
+            if not self._foreground_active:
+                # Try schedules in priority order; skip agents with no work
+                for schedule in self._schedules:
+                    if schedule.should_run(is_idle):
+                        agent = schedule.agent
+                        self._current_task = agent.name
+
+                        try:
+                            self._active_task = asyncio.create_task(agent.execute())
+                            did_work = await self._active_task
+                            self._last_run_times[agent.name] = time.monotonic()
+                            # Always reset the schedule's timer.  Skipping the
+                            # reset on no-work would leave the schedule eligible
+                            # on every tick, hot-looping a model call to discover
+                            # the queue is empty.  Lower-priority schedules
+                            # still get a turn this tick because the for-loop
+                            # only ``break``s when work was actually done.
+                            schedule.mark_complete()
+
+                            if did_work:
+                                logger.info("Background task completed: %s", agent.name)
+                                break
+                        except asyncio.CancelledError:
+                            logger.info("Background task cancelled: %s", agent.name)
+                            break
+                        except Exception as e:
+                            logger.exception("Background task failed: %s - %s", agent.name, e)
+                            schedule.mark_complete()
+                            break
+                        finally:
+                            self._active_task = None
+                            self._current_task = None
+
+            await asyncio.sleep(self._tick_interval)
+
+        logger.info("Background scheduler stopped")

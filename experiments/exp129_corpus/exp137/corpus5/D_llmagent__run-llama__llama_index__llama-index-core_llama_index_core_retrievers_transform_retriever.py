@@ -1,1 +1,44 @@
-ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIE9wdGlvbmFsCgpmcm9tIGxsYW1hX2luZGV4LmNvcmUuYmFzZS5iYXNlX3JldHJpZXZlciBpbXBvcnQgQmFzZVJldHJpZXZlcgpmcm9tIGxsYW1hX2luZGV4LmNvcmUuY2FsbGJhY2tzLmJhc2UgaW1wb3J0IENhbGxiYWNrTWFuYWdlcgpmcm9tIGxsYW1hX2luZGV4LmNvcmUuaW5kaWNlcy5xdWVyeS5xdWVyeV90cmFuc2Zvcm0uYmFzZSBpbXBvcnQgQmFzZVF1ZXJ5VHJhbnNmb3JtCmZyb20gbGxhbWFfaW5kZXguY29yZS5wcm9tcHRzLm1peGluIGltcG9ydCBQcm9tcHRNaXhpblR5cGUKZnJvbSBsbGFtYV9pbmRleC5jb3JlLnNjaGVtYSBpbXBvcnQgTm9kZVdpdGhTY29yZSwgUXVlcnlCdW5kbGUKCgpjbGFzcyBUcmFuc2Zvcm1SZXRyaWV2ZXIoQmFzZVJldHJpZXZlcik6CiAgICAiIiIKICAgIFRyYW5zZm9ybSBSZXRyaWV2ZXIuCgogICAgVGFrZXMgaW4gYW4gZXhpc3RpbmcgcmV0cmlldmVyIGFuZCBhIHF1ZXJ5IHRyYW5zZm9ybSBhbmQgcnVucyB0aGUgcXVlcnkgdHJhbnNmb3JtCiAgICBiZWZvcmUgcnVubmluZyB0aGUgcmV0cmlldmVyLgoKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIHJldHJpZXZlcjogQmFzZVJldHJpZXZlciwKICAgICAgICBxdWVyeV90cmFuc2Zvcm06IEJhc2VRdWVyeVRyYW5zZm9ybSwKICAgICAgICB0cmFuc2Zvcm1fbWV0YWRhdGE6IE9wdGlvbmFsW2RpY3RdID0gTm9uZSwKICAgICAgICBjYWxsYmFja19tYW5hZ2VyOiBPcHRpb25hbFtDYWxsYmFja01hbmFnZXJdID0gTm9uZSwKICAgICAgICBvYmplY3RfbWFwOiBPcHRpb25hbFtkaWN0XSA9IE5vbmUsCiAgICAgICAgdmVyYm9zZTogYm9vbCA9IEZhbHNlLAogICAgKSAtPiBOb25lOgogICAgICAgIHNlbGYuX3JldHJpZXZlciA9IHJldHJpZXZlcgogICAgICAgIHNlbGYuX3F1ZXJ5X3RyYW5zZm9ybSA9IHF1ZXJ5X3RyYW5zZm9ybQogICAgICAgIHNlbGYuX3RyYW5zZm9ybV9tZXRhZGF0YSA9IHRyYW5zZm9ybV9tZXRhZGF0YQogICAgICAgIHN1cGVyKCkuX19pbml0X18oCiAgICAgICAgICAgIGNhbGxiYWNrX21hbmFnZXI9Y2FsbGJhY2tfbWFuYWdlciwgb2JqZWN0X21hcD1vYmplY3RfbWFwLCB2ZXJib3NlPXZlcmJvc2UKICAgICAgICApCgogICAgZGVmIF9nZXRfcHJvbXB0X21vZHVsZXMoc2VsZikgLT4gUHJvbXB0TWl4aW5UeXBlOgogICAgICAgICIiIkdldCBwcm9tcHQgc3ViLW1vZHVsZXMuIiIiCiAgICAgICAgIyBOT1RFOiBkb24ndCBpbmNsdWRlIHRvb2xzIGZvciBub3cKICAgICAgICByZXR1cm4geyJxdWVyeV90cmFuc2Zvcm0iOiBzZWxmLl9xdWVyeV90cmFuc2Zvcm19CgogICAgZGVmIF9yZXRyaWV2ZShzZWxmLCBxdWVyeV9idW5kbGU6IFF1ZXJ5QnVuZGxlKSAtPiBMaXN0W05vZGVXaXRoU2NvcmVdOgogICAgICAgIHF1ZXJ5X2J1bmRsZSA9IHNlbGYuX3F1ZXJ5X3RyYW5zZm9ybS5ydW4oCiAgICAgICAgICAgIHF1ZXJ5X2J1bmRsZSwgbWV0YWRhdGE9c2VsZi5fdHJhbnNmb3JtX21ldGFkYXRhCiAgICAgICAgKQogICAgICAgIHJldHVybiBzZWxmLl9yZXRyaWV2ZXIucmV0cmlldmUocXVlcnlfYnVuZGxlKQo=
+from typing import List, Optional
+
+from llama_index.core.base.base_retriever import BaseRetriever
+from llama_index.core.callbacks.base import CallbackManager
+from llama_index.core.indices.query.query_transform.base import BaseQueryTransform
+from llama_index.core.prompts.mixin import PromptMixinType
+from llama_index.core.schema import NodeWithScore, QueryBundle
+
+
+class TransformRetriever(BaseRetriever):
+    """
+    Transform Retriever.
+
+    Takes in an existing retriever and a query transform and runs the query transform
+    before running the retriever.
+
+    """
+
+    def __init__(
+        self,
+        retriever: BaseRetriever,
+        query_transform: BaseQueryTransform,
+        transform_metadata: Optional[dict] = None,
+        callback_manager: Optional[CallbackManager] = None,
+        object_map: Optional[dict] = None,
+        verbose: bool = False,
+    ) -> None:
+        self._retriever = retriever
+        self._query_transform = query_transform
+        self._transform_metadata = transform_metadata
+        super().__init__(
+            callback_manager=callback_manager, object_map=object_map, verbose=verbose
+        )
+
+    def _get_prompt_modules(self) -> PromptMixinType:
+        """Get prompt sub-modules."""
+        # NOTE: don't include tools for now
+        return {"query_transform": self._query_transform}
+
+    def _retrieve(self, query_bundle: QueryBundle) -> List[NodeWithScore]:
+        query_bundle = self._query_transform.run(
+            query_bundle, metadata=self._transform_metadata
+        )
+        return self._retriever.retrieve(query_bundle)

@@ -1,1 +1,86 @@
-WwogewogICJyZXBvIjogInBzZi9yZXF1ZXN0cyIsCiAgInBhdGgiOiAic3JjL3JlcXVlc3RzL190eXBlcy5weSIsCiAgImZpbGUiOiAicHNmX19yZXF1ZXN0c19fc3JjX3JlcXVlc3RzX190eXBlcy5weSIsCiAgImJ5dGVzIjogNjA0MQogfSwKIHsKICAicmVwbyI6ICJwc2YvcmVxdWVzdHMiLAogICJwYXRoIjogInNyYy9yZXF1ZXN0cy9hcGkucHkiLAogICJmaWxlIjogInBzZl9fcmVxdWVzdHNfX3NyY19yZXF1ZXN0c19hcGkucHkiLAogICJieXRlcyI6IDcxNTIKIH0sCiB7CiAgInJlcG8iOiAicGFsbGV0cy9mbGFzayIsCiAgInBhdGgiOiAic3JjL2ZsYXNrL2pzb24vcHJvdmlkZXIucHkiLAogICJmaWxlIjogInBhbGxldHNfX2ZsYXNrX19zcmNfZmxhc2tfanNvbl9wcm92aWRlci5weSIsCiAgImJ5dGVzIjogNzY0NAogfSwKIHsKICAicmVwbyI6ICJwYWxsZXRzL2ZsYXNrIiwKICAicGF0aCI6ICJzcmMvZmxhc2svd3JhcHBlcnMucHkiLAogICJmaWxlIjogInBhbGxldHNfX2ZsYXNrX19zcmNfZmxhc2tfd3JhcHBlcnMucHkiLAogICJieXRlcyI6IDk0MDYKIH0sCiB7CiAgInJlcG8iOiAic2NyYXB5L3NjcmFweSIsCiAgInBhdGgiOiAic2NyYXB5L3NoZWxsLnB5IiwKICAiZmlsZSI6ICJzY3JhcHlfX3NjcmFweV9fc2NyYXB5X3NoZWxsLnB5IiwKICAiYnl0ZXMiOiAxMTc0MgogfSwKIHsKICAicmVwbyI6ICJzY3JhcHkvc2NyYXB5IiwKICAicGF0aCI6ICJzY3JhcHkvY29yZS9kb3dubG9hZGVyL2hhbmRsZXJzL19haW9mdHAucHkiLAogICJmaWxlIjogInNjcmFweV9fc2NyYXB5X19zY3JhcHlfY29yZV9kb3dubG9hZGVyX2hhbmRsZXJzX19haW9mdHAucHkiLAogICJieXRlcyI6IDEwNDAwCiB9LAogewogICJyZXBvIjogImNlbGVyeS9jZWxlcnkiLAogICJwYXRoIjogImNlbGVyeS93b3JrZXIvbG9vcHMucHkiLAogICJmaWxlIjogImNlbGVyeV9fY2VsZXJ5X19jZWxlcnlfd29ya2VyX2xvb3BzLnB5IiwKICAiYnl0ZXMiOiA3OTg0CiB9LAogewogICJyZXBvIjogImNlbGVyeS9jZWxlcnkiLAogICJwYXRoIjogImNlbGVyeS9leGNlcHRpb25zLnB5IiwKICAiZmlsZSI6ICJjZWxlcnlfX2NlbGVyeV9fY2VsZXJ5X2V4Y2VwdGlvbnMucHkiLAogICJieXRlcyI6IDkzMDAKIH0sCiB7CiAgInJlcG8iOiAieXQtZGxwL3l0LWRscCIsCiAgInBhdGgiOiAieXRfZGxwL2V4dHJhY3Rvci9kcnR1YmVyLnB5IiwKICAiZmlsZSI6ICJ5dC1kbHBfX3l0LWRscF9feXRfZGxwX2V4dHJhY3Rvcl9kcnR1YmVyLnB5IiwKICAiYnl0ZXMiOiAzNzkyCiB9LAogewogICJyZXBvIjogInl0LWRscC95dC1kbHAiLAogICJwYXRoIjogInl0X2RscC9leHRyYWN0b3IvdHZvcGVuZ3IucHkiLAogICJmaWxlIjogInl0LWRscF9feXQtZGxwX195dF9kbHBfZXh0cmFjdG9yX3R2b3BlbmdyLnB5IiwKICAiYnl0ZXMiOiA2MDA5CiB9LAogewogICJyZXBvIjogImZhc3RhcGkvZmFzdGFwaSIsCiAgInBhdGgiOiAiZmFzdGFwaS90ZWxlbWV0cnkvX2FwaS5weSIsCiAgImZpbGUiOiAiZmFzdGFwaV9fZmFzdGFwaV9fZmFzdGFwaV90ZWxlbWV0cnlfX2FwaS5weSIsCiAgImJ5dGVzIjogOTkxMgogfSwKIHsKICAicmVwbyI6ICJmYXN0YXBpL2Zhc3RhcGkiLAogICJwYXRoIjogImRvY3Nfc3JjL3NlY3VyaXR5L3R1dG9yaWFsMDA1X2FuX3B5MzEwLnB5IiwKICAiZmlsZSI6ICJmYXN0YXBpX19mYXN0YXBpX19kb2NzX3NyY19zZWN1cml0eV90dXRvcmlhbDAwNV9hbl9weTMxMC5weSIsCiAgImJ5dGVzIjogNTUwOQogfSwKIHsKICAicmVwbyI6ICJodHRwaWUvY2xpIiwKICAicGF0aCI6ICJodHRwaWUvdXBsb2Fkcy5weSIsCiAgImZpbGUiOiAiaHR0cGllX19jbGlfX2h0dHBpZV91cGxvYWRzLnB5IiwKICAiYnl0ZXMiOiA3NzQ0CiB9LAogewogICJyZXBvIjogImh0dHBpZS9jbGkiLAogICJwYXRoIjogImh0dHBpZS9tYW5hZ2VyL2NsaS5weSIsCiAgImZpbGUiOiAiaHR0cGllX19jbGlfX2h0dHBpZV9tYW5hZ2VyX2NsaS5weSIsCiAgImJ5dGVzIjogNTM3MQogfQpd
+[
+ {
+  "repo": "psf/requests",
+  "path": "src/requests/_types.py",
+  "file": "psf__requests__src_requests__types.py",
+  "bytes": 6041
+ },
+ {
+  "repo": "psf/requests",
+  "path": "src/requests/api.py",
+  "file": "psf__requests__src_requests_api.py",
+  "bytes": 7152
+ },
+ {
+  "repo": "pallets/flask",
+  "path": "src/flask/json/provider.py",
+  "file": "pallets__flask__src_flask_json_provider.py",
+  "bytes": 7644
+ },
+ {
+  "repo": "pallets/flask",
+  "path": "src/flask/wrappers.py",
+  "file": "pallets__flask__src_flask_wrappers.py",
+  "bytes": 9406
+ },
+ {
+  "repo": "scrapy/scrapy",
+  "path": "scrapy/shell.py",
+  "file": "scrapy__scrapy__scrapy_shell.py",
+  "bytes": 11742
+ },
+ {
+  "repo": "scrapy/scrapy",
+  "path": "scrapy/core/downloader/handlers/_aioftp.py",
+  "file": "scrapy__scrapy__scrapy_core_downloader_handlers__aioftp.py",
+  "bytes": 10400
+ },
+ {
+  "repo": "celery/celery",
+  "path": "celery/worker/loops.py",
+  "file": "celery__celery__celery_worker_loops.py",
+  "bytes": 7984
+ },
+ {
+  "repo": "celery/celery",
+  "path": "celery/exceptions.py",
+  "file": "celery__celery__celery_exceptions.py",
+  "bytes": 9300
+ },
+ {
+  "repo": "yt-dlp/yt-dlp",
+  "path": "yt_dlp/extractor/drtuber.py",
+  "file": "yt-dlp__yt-dlp__yt_dlp_extractor_drtuber.py",
+  "bytes": 3792
+ },
+ {
+  "repo": "yt-dlp/yt-dlp",
+  "path": "yt_dlp/extractor/tvopengr.py",
+  "file": "yt-dlp__yt-dlp__yt_dlp_extractor_tvopengr.py",
+  "bytes": 6009
+ },
+ {
+  "repo": "fastapi/fastapi",
+  "path": "fastapi/telemetry/_api.py",
+  "file": "fastapi__fastapi__fastapi_telemetry__api.py",
+  "bytes": 9912
+ },
+ {
+  "repo": "fastapi/fastapi",
+  "path": "docs_src/security/tutorial005_an_py310.py",
+  "file": "fastapi__fastapi__docs_src_security_tutorial005_an_py310.py",
+  "bytes": 5509
+ },
+ {
+  "repo": "httpie/cli",
+  "path": "httpie/uploads.py",
+  "file": "httpie__cli__httpie_uploads.py",
+  "bytes": 7744
+ },
+ {
+  "repo": "httpie/cli",
+  "path": "httpie/manager/cli.py",
+  "file": "httpie__cli__httpie_manager_cli.py",
+  "bytes": 5371
+ }
+]

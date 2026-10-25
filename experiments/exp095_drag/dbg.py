@@ -1,1 +1,14 @@
-ZnJvbSBwbGF5d3JpZ2h0LnN5bmNfYXBpIGltcG9ydCBzeW5jX3BsYXl3cmlnaHQKd2l0aCBzeW5jX3BsYXl3cmlnaHQoKSBhcyBwdzoKICAgIGI9cHcuY2hyb21pdW0ubGF1bmNoKGV4ZWN1dGFibGVfcGF0aD0iL3Vzci9iaW4vZ29vZ2xlLWNocm9tZSIsYXJncz1bIi0tbm8tc2FuZGJveCIsIi0tZGlzYWJsZS1kZXYtc2htLXVzYWdlIl0pCiAgICBwZz1iLm5ld19wYWdlKHZpZXdwb3J0PXsid2lkdGgiOjEwMDAsImhlaWdodCI6MzAwfSkKICAgIHBnLmdvdG8oImh0dHA6Ly8xMjcuMC4wLjE6ODg5OS9wYWdlLmh0bWw/bW9kZT1ob25lc3QmZ2Fpbj0xLjAiKTsgcGcud2FpdF9mb3JfdGltZW91dCg0MDApCiAgICBwZy5ldmFsdWF0ZSgid2luZG93Ll9fbG9nPVtdOyBbJ21vdXNlZG93bicsJ21vdXNlbW92ZScsJ21vdXNldXAnXS5mb3JFYWNoKHQ9PndpbmRvdy5hZGRFdmVudExpc3RlbmVyKHQsZT0+d2luZG93Ll9fbG9nLnB1c2goW3QsZS5jbGllbnRYLHR5cGVvZiBlLm1vdmVtZW50WF0pKSkiKQogICAgcGcubW91c2UubW92ZSg4MCwxNzUpOyBwZy53YWl0X2Zvcl90aW1lb3V0KDUwKQogICAgcGcubW91c2UuZG93bigpOyBwZy53YWl0X2Zvcl90aW1lb3V0KDUwKQogICAgZm9yIGkgaW4gcmFuZ2UoNSk6CiAgICAgICAgcGcubW91c2UubW92ZSg4MCsxNCooaSsxKSwxNzUpOyBwZy53YWl0X2Zvcl90aW1lb3V0KDYwKQogICAgcGcubW91c2UudXAoKTsgcGcud2FpdF9mb3JfdGltZW91dCgxMDApCiAgICBwcmludChwZy5ldmFsdWF0ZSgid2luZG93Ll9fbG9nLnNsaWNlKDAsMTApIikpCiAgICBwcmludCgiaGFuZGxlOiIsIHBnLmV2YWx1YXRlKCJoeCIpKQogICAgYi5jbG9zZSgpCg==
+from playwright.sync_api import sync_playwright
+with sync_playwright() as pw:
+    b=pw.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox","--disable-dev-shm-usage"])
+    pg=b.new_page(viewport={"width":1000,"height":300})
+    pg.goto("http://127.0.0.1:8899/page.html?mode=honest&gain=1.0"); pg.wait_for_timeout(400)
+    pg.evaluate("window.__log=[]; ['mousedown','mousemove','mouseup'].forEach(t=>window.addEventListener(t,e=>window.__log.push([t,e.clientX,typeof e.movementX])))")
+    pg.mouse.move(80,175); pg.wait_for_timeout(50)
+    pg.mouse.down(); pg.wait_for_timeout(50)
+    for i in range(5):
+        pg.mouse.move(80+14*(i+1),175); pg.wait_for_timeout(60)
+    pg.mouse.up(); pg.wait_for_timeout(100)
+    print(pg.evaluate("window.__log.slice(0,10)"))
+    print("handle:", pg.evaluate("hx"))
+    b.close()

@@ -1,1 +1,135 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKMTczOiDmhJ/lrpjopoHmtLvvvIzmlYjlupTlmajopoHmrbsg4oCU4oCUIOWQjOS4gOS4qiLkuJbnlYzkuI3lkKzmiJHnmoTnqIvluqYgdyLvvIzlr7nkuKTogIXku7flgLzmlrnlkJHnm7jlj43jgIIKCuaViOW6lOWZqCjmiYspID0gL2Rldi91aW5wdXTvvIzmrbvnmoTmlbDlgLzmjqXlj6PvvIjmlbTmlbAga2V5Y29kZSAvIHJlbCDlgLzvvIkK5oSf5a6YICAgICAgID0gL3Byb2Mvc3RhdCBjdHh077yI5LiW55WM54us56uL5Y+Y5YyW77yJCgrmiasgdyA9IDAvMS8yLzQg5Liq5b+Z6L+b56iL77yIU0lHU1RPUC9TSUdDT05UIOaOp+WItu+8ie+8jOmhuuW6j+S6pOe7h+aKl+a8guenuygxNTblj7fmlZnorq0p44CCCiAg5pWI5bqU5Zmo5oyH5qCH77ya5Yqo5L2c6JC95Zyw5pe25bqP5oqW5YqoIHN0ZO+8iOi2iuWwj+i2iuWlvSA9IOi2iiLmrbsi77yJCiAg5oSf5a6Y5oyH5qCHICDvvJrpgJrpgZPor7vmlbDlj5jljJbph4/vvIjotorlpKfotorlpb0gPSDotooi5rS7Iu+8jOacieS4nOilv+WPr+aEn++8iQoiIiIKaW1wb3J0IG9zLCBzeXMsIHRpbWUsIHN0cnVjdCwgZmNudGwsIHN1YnByb2Nlc3MsIHNpZ25hbCwganNvbiwgcmFuZG9tLCBzdGF0aXN0aWNzIGFzIHN0CgpVSV9TRVRfRVZCSVQgPSAweDQwMDQ1NTY0ClVJX1NFVF9LRVlCSVQgPSAweDQwMDQ1NTY1ClVJX1NFVF9SRUxCSVQgPSAweDQwMDQ1NTY2ClVJX0RFVl9DUkVBVEUgPSAweDU1MDEKRVZfS0VZLCBFVl9SRUwsIEVWX1NZTiA9IDB4MDEsIDB4MDIsIDB4MDAKUkVMX1gsIFJFTF9ZID0gMHgwMCwgMHgwMQpCVE5fTEVGVCA9IDB4MTEwCgpXTUFYID0gNApOX0hBTkQgPSAyMDAgICAgICAgICAgICMg5q+P5qyh5p2h5Lu25Y+R55qE5LqL5Lu25pWwClBFUklPRCA9IDAuMDA0ICAgICAgICAgIyDmnJ/mnJvpl7TpmpQgNG1zCgpkZWYgY3JlYXRlX2hhbmQoKToKICAgIGZkID0gb3Mub3BlbignL2Rldi91aW5wdXQnLCBvcy5PX1dST05MWSB8IG9zLk9fTk9OQkxPQ0spCiAgICBmY250bC5pb2N0bChmZCwgVUlfU0VUX0VWQklULCBFVl9SRUwpCiAgICBmY250bC5pb2N0bChmZCwgVUlfU0VUX0VWQklULCBFVl9LRVkpCiAgICBmY250bC5pb2N0bChmZCwgVUlfU0VUX1JFTEJJVCwgUkVMX1gpCiAgICBmY250bC5pb2N0bChmZCwgVUlfU0VUX1JFTEJJVCwgUkVMX1kpCiAgICBmY250bC5pb2N0bChmZCwgVUlfU0VUX0tFWUJJVCwgQlROX0xFRlQpCiAgICBvcy53cml0ZShmZCwgc3RydWN0LnBhY2soJzgwcycsIGInbHVvc2hlbi1oYW5kJykgKyBiJ1x4MDAnICogKDExMTYgLSA4MCkpCiAgICBmY250bC5pb2N0bChmZCwgVUlfREVWX0NSRUFURSkKICAgIHJldHVybiBmZAoKZGVmIGVtaXQoZmQsIHQsIGMsIHYpOgogICAgb3Mud3JpdGUoZmQsIHN0cnVjdC5wYWNrKCdsbEhIaScsIDAsIDAsIHQsIGMsIHYpKQoKZGVmIHJlYWRfY3R4dCgpOgogICAgd2l0aCBvcGVuKCcvcHJvYy9zdGF0JykgYXMgZjoKICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoJ2N0eHQnKToKICAgICAgICAgICAgICAgIHJldHVybiBpbnQobGluZS5zcGxpdCgpWzFdKQogICAgcmV0dXJuIC0xCgpkZWYgc3Bhd25fYnVzeShuKToKICAgIHByb2NzID0gW10KICAgIGZvciBfIGluIHJhbmdlKG4pOgogICAgICAgIHAgPSBzdWJwcm9jZXNzLlBvcGVuKFtzeXMuZXhlY3V0YWJsZSwgJy1jJywgJ3doaWxlIFRydWU6IHBhc3MnXSkKICAgICAgICBwcm9jcy5hcHBlbmQocCkKICAgIGZvciBwIGluIHByb2NzOiAgICAgICAgICAgICAgICAgICAgICAjIOWFiOWFqOmDqOaaguWBnAogICAgICAgIG9zLmtpbGwocC5waWQsIHNpZ25hbC5TSUdTVE9QKQogICAgdGltZS5zbGVlcCgwLjMpCiAgICByZXR1cm4gcHJvY3MKCmRlZiBzZXRfdyhwcm9jcywgdyk6CiAgICAiIiLnsr7noa7orqkgdyDkuKrov5vnqIvlnKjot5HvvIzlhbbkvZnmmoLlgZwiIiIKICAgIGZvciBpLCBwIGluIGVudW1lcmF0ZShwcm9jcyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBvcy5raWxsKHAucGlkLCBzaWduYWwuU0lHQ09OVCBpZiBpIDwgdyBlbHNlIHNpZ25hbC5TSUdTVE9QKQogICAgICAgIGV4Y2VwdCBQcm9jZXNzTG9va3VwRXJyb3I6CiAgICAgICAgICAgIHBhc3MKICAgIHRpbWUuc2xlZXAoMC4yNSkgICAgICAgICAgICAgICAgICAgICAjIOiuqei0n+i9veecn+ato+WIsOS9jQoKZGVmIG1lYXN1cmUodywgZmQpOgogICAgIiIi5Zyo5ZCM5LiA5p2h5Lu25LiL5ZCM5pe25rWL5pWI5bqU5Zmo5oqW5Yqo5LiO5oSf5a6Y5Y+Y5YyW6YePIiIiCiAgICB0cyA9IFtdCiAgICBjdHggPSBbXQogICAgbmV4dF90ID0gdGltZS5wZXJmX2NvdW50ZXIoKSArIFBFUklPRAogICAgZm9yIGkgaW4gcmFuZ2UoTl9IQU5EKToKICAgICAgICAjIC0tLSDmlYjlupTlmajvvJrku6Xlm7rlrproioLmi43lj5HkuIDkuKoi5q2755qEIuWKqOS9nCAtLS0KICAgICAgICB3aGlsZSB0aW1lLnBlcmZfY291bnRlcigpIDwgbmV4dF90OgogICAgICAgICAgICBwYXNzCiAgICAgICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcl9ucygpCiAgICAgICAgZW1pdChmZCwgRVZfUkVMLCBSRUxfWCwgMSkgICAgICAgIyDlgLzmgZLkuLogMSDigJTigJQg5q2755qECiAgICAgICAgZW1pdChmZCwgRVZfU1lOLCAwLCAwKQogICAgICAgIHRzLmFwcGVuZCh0aW1lLnBlcmZfY291bnRlcl9ucygpKQogICAgICAgIGN0eC5hcHBlbmQocmVhZF9jdHh0KCkpCiAgICAgICAgbmV4dF90ICs9IFBFUklPRAogICAgIyDmlYjlupTlmajvvJrlrp7pmYXpl7TpmpQgdnMg5pyf5pyb6Ze06ZqU55qE5YGP5beu77yI6JC95Zyw5oqW5Yqo77yJCiAgICBpbnRlcnZhbHMgPSBbKHRzW2kgKyAxXSAtIHRzW2ldKSAvIDFlNiBmb3IgaSBpbiByYW5nZShsZW4odHMpIC0gMSldCiAgICBoYW5kX2ppdHRlcl9tcyA9IHN0LnBzdGRldihpbnRlcnZhbHMpCiAgICBoYW5kX21lYW5fbXMgPSBzdC5tZWFuKGludGVydmFscykKICAgICMg5oSf5a6Y77ya5Y2V5L2N5pe26Ze05LiW55WM5Y+Y5YyW6YeP77yI5pyJ5Lic6KW/5Y+v5oSfID0g5rS777yJCiAgICBkZWx0YXMgPSBbY3R4W2kgKyAxXSAtIGN0eFtpXSBmb3IgaSBpbiByYW5nZShsZW4oY3R4KSAtIDEpXQogICAgc2Vuc2VfY2hhbmdlID0gc3QubWVhbihkZWx0YXMpCiAgICBzZW5zZV9zZCA9IHN0LnBzdGRldihkZWx0YXMpCiAgICByZXR1cm4gaGFuZF9qaXR0ZXJfbXMsIGhhbmRfbWVhbl9tcywgc2Vuc2VfY2hhbmdlLCBzZW5zZV9zZAoKZGVmIG1haW4oKToKICAgIGZkID0gY3JlYXRlX2hhbmQoKQogICAgcHJvY3MgPSBzcGF3bl9idXN5KFdNQVgpCiAgICAjIOS6pOe7h+mhuuW6j++8muavj+S4qiB3IOi3kSBSRVBTIOasoe+8jOmhuuW6j+aJk+S5sSgxNTblj7fpobrluo/mvILnp7vmlZnorq0pCiAgICBSRVBTID0gMwogICAgcGxhbiA9IFsodywgcikgZm9yIHIgaW4gcmFuZ2UoUkVQUykgZm9yIHcgaW4gKDAsIDEsIDIsIDQpXQogICAgcmFuZG9tLnNlZWQoMTczKQogICAgcmFuZG9tLnNodWZmbGUocGxhbikKICAgIHJhdyA9IHt3OiBbXSBmb3IgdyBpbiAoMCwgMSwgMiwgNCl9CiAgICB0cnk6CiAgICAgICAgZm9yIHcsIHIgaW4gcGxhbjoKICAgICAgICAgICAgc2V0X3cocHJvY3MsIHcpCiAgICAgICAgICAgIGosIG0sIHNjLCBzcyA9IG1lYXN1cmUodywgZmQpCiAgICAgICAgICAgIHJhd1t3XS5hcHBlbmQoZGljdChqaXR0ZXI9aiwgbWVhbj1tLCBzZW5zZT1zYywgc2Vuc2Vfc2Q9c3MpKQogICAgICAgICAgICBwcmludChmJ3c9e3d9IHJlcD17cn0gIGhhbmRfaml0dGVyPXtqOi4zZn1tcyAgaGFuZF9tZWFuPXttOi4zZn1tcyAgJwogICAgICAgICAgICAgICAgICBmJ3NlbnNlX2NoYW5nZT17c2M6LjFmfSAgc2Vuc2Vfc2Q9e3NzOi4xZn0nLCBmbHVzaD1UcnVlKQogICAgZmluYWxseToKICAgICAgICBmb3IgcCBpbiBwcm9jczoKICAgICAgICAgICAgdHJ5OiBvcy5raWxsKHAucGlkLCBzaWduYWwuU0lHS0lMTCkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwogICAgICAgIHRyeTogb3MuY2xvc2UoZmQpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwoKICAgIG91dCA9IHt9CiAgICBmb3IgdyBpbiAoMCwgMSwgMiwgNCk6CiAgICAgICAganMgPSBbeFsnaml0dGVyJ10gZm9yIHggaW4gcmF3W3ddXQogICAgICAgIHNzID0gW3hbJ3NlbnNlJ10gZm9yIHggaW4gcmF3W3ddXQogICAgICAgIHNzZCA9IFt4WydzZW5zZV9zZCddIGZvciB4IGluIHJhd1t3XV0KICAgICAgICBtcyA9IFt4WydtZWFuJ10gZm9yIHggaW4gcmF3W3ddXQogICAgICAgIG91dFt3XSA9IGRpY3QoaGFuZF9qaXR0ZXJfbWVhbj1zdC5tZWFuKGpzKSwgaGFuZF9qaXR0ZXJfbGlzdD1qcywKICAgICAgICAgICAgICAgICAgICAgIGhhbmRfbWVhbl9pbnRlcnZhbD1zdC5tZWFuKG1zKSwKICAgICAgICAgICAgICAgICAgICAgIHNlbnNlX2NoYW5nZV9tZWFuPXN0Lm1lYW4oc3MpLCBzZW5zZV9jaGFuZ2VfbGlzdD1zcywKICAgICAgICAgICAgICAgICAgICAgIHNlbnNlX3NkX21lYW49c3QubWVhbihzc2QpKQogICAgcHJpbnQoJ1xuPT09IOaxh+aAu++8iOS6pOe7h+WQju+8iT09PScpCiAgICBwcmludChmInsndyc6PjN9IHsn5omLwrfmipbliqhtcyc6PjEyfSB7J+aJi8K357K+5bqmMS/mipbliqgnOj4xNH0geyfmhJ/lrpjCt+WPmOWMlumHjyc6PjEyfSB7J+aEn+WumMK3c2QnOj4xMH0iKQogICAgZm9yIHcgaW4gKDAsIDEsIDIsIDQpOgogICAgICAgIG8gPSBvdXRbd10KICAgICAgICBwcmVjID0gMS4wIC8gb1snaGFuZF9qaXR0ZXJfbWVhbiddIGlmIG9bJ2hhbmRfaml0dGVyX21lYW4nXSA+IDAgZWxzZSBmbG9hdCgnaW5mJykKICAgICAgICBwcmludChmInt3Oj4zfSB7b1snaGFuZF9qaXR0ZXJfbWVhbiddOj4xMi40Zn0ge3ByZWM6PjE0LjNmfSAiCiAgICAgICAgICAgICAgZiJ7b1snc2Vuc2VfY2hhbmdlX21lYW4nXTo+MTIuMWZ9IHtvWydzZW5zZV9zZF9tZWFuJ106PjEwLjFmfSIpCiAgICBqc29uLmR1bXAob3V0LCBvcGVuKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAncmVzdWx0MTczLmpzb24nKSwgJ3cnKSwgaW5kZW50PTIpCiAgICBwcmludCgnXG5yZXN1bHQxNzMuanNvbiDlt7Llhpnlh7onKQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""
+173: 感官要活，效应器要死 —— 同一个"世界不听我的程度 w"，对两者价值方向相反。
+
+效应器(手) = /dev/uinput，死的数值接口（整数 keycode / rel 值）
+感官       = /proc/stat ctxt（世界独立变化）
+
+扫 w = 0/1/2/4 个忙进程（SIGSTOP/SIGCONT 控制），顺序交织抗漂移(156号教训)。
+  效应器指标：动作落地时序抖动 std（越小越好 = 越"死"）
+  感官指标  ：通道读数变化量（越大越好 = 越"活"，有东西可感）
+"""
+import os, sys, time, struct, fcntl, subprocess, signal, json, random, statistics as st
+
+UI_SET_EVBIT = 0x40045564
+UI_SET_KEYBIT = 0x40045565
+UI_SET_RELBIT = 0x40045566
+UI_DEV_CREATE = 0x5501
+EV_KEY, EV_REL, EV_SYN = 0x01, 0x02, 0x00
+REL_X, REL_Y = 0x00, 0x01
+BTN_LEFT = 0x110
+
+WMAX = 4
+N_HAND = 200           # 每次条件发的事件数
+PERIOD = 0.004         # 期望间隔 4ms
+
+def create_hand():
+    fd = os.open('/dev/uinput', os.O_WRONLY | os.O_NONBLOCK)
+    fcntl.ioctl(fd, UI_SET_EVBIT, EV_REL)
+    fcntl.ioctl(fd, UI_SET_EVBIT, EV_KEY)
+    fcntl.ioctl(fd, UI_SET_RELBIT, REL_X)
+    fcntl.ioctl(fd, UI_SET_RELBIT, REL_Y)
+    fcntl.ioctl(fd, UI_SET_KEYBIT, BTN_LEFT)
+    os.write(fd, struct.pack('80s', b'luoshen-hand') + b'\x00' * (1116 - 80))
+    fcntl.ioctl(fd, UI_DEV_CREATE)
+    return fd
+
+def emit(fd, t, c, v):
+    os.write(fd, struct.pack('llHHi', 0, 0, t, c, v))
+
+def read_ctxt():
+    with open('/proc/stat') as f:
+        for line in f:
+            if line.startswith('ctxt'):
+                return int(line.split()[1])
+    return -1
+
+def spawn_busy(n):
+    procs = []
+    for _ in range(n):
+        p = subprocess.Popen([sys.executable, '-c', 'while True: pass'])
+        procs.append(p)
+    for p in procs:                      # 先全部暂停
+        os.kill(p.pid, signal.SIGSTOP)
+    time.sleep(0.3)
+    return procs
+
+def set_w(procs, w):
+    """精确让 w 个进程在跑，其余暂停"""
+    for i, p in enumerate(procs):
+        try:
+            os.kill(p.pid, signal.SIGCONT if i < w else signal.SIGSTOP)
+        except ProcessLookupError:
+            pass
+    time.sleep(0.25)                     # 让负载真正到位
+
+def measure(w, fd):
+    """在同一条件下同时测效应器抖动与感官变化量"""
+    ts = []
+    ctx = []
+    next_t = time.perf_counter() + PERIOD
+    for i in range(N_HAND):
+        # --- 效应器：以固定节拍发一个"死的"动作 ---
+        while time.perf_counter() < next_t:
+            pass
+        t0 = time.perf_counter_ns()
+        emit(fd, EV_REL, REL_X, 1)       # 值恒为 1 —— 死的
+        emit(fd, EV_SYN, 0, 0)
+        ts.append(time.perf_counter_ns())
+        ctx.append(read_ctxt())
+        next_t += PERIOD
+    # 效应器：实际间隔 vs 期望间隔的偏差（落地抖动）
+    intervals = [(ts[i + 1] - ts[i]) / 1e6 for i in range(len(ts) - 1)]
+    hand_jitter_ms = st.pstdev(intervals)
+    hand_mean_ms = st.mean(intervals)
+    # 感官：单位时间世界变化量（有东西可感 = 活）
+    deltas = [ctx[i + 1] - ctx[i] for i in range(len(ctx) - 1)]
+    sense_change = st.mean(deltas)
+    sense_sd = st.pstdev(deltas)
+    return hand_jitter_ms, hand_mean_ms, sense_change, sense_sd
+
+def main():
+    fd = create_hand()
+    procs = spawn_busy(WMAX)
+    # 交织顺序：每个 w 跑 REPS 次，顺序打乱(156号顺序漂移教训)
+    REPS = 3
+    plan = [(w, r) for r in range(REPS) for w in (0, 1, 2, 4)]
+    random.seed(173)
+    random.shuffle(plan)
+    raw = {w: [] for w in (0, 1, 2, 4)}
+    try:
+        for w, r in plan:
+            set_w(procs, w)
+            j, m, sc, ss = measure(w, fd)
+            raw[w].append(dict(jitter=j, mean=m, sense=sc, sense_sd=ss))
+            print(f'w={w} rep={r}  hand_jitter={j:.3f}ms  hand_mean={m:.3f}ms  '
+                  f'sense_change={sc:.1f}  sense_sd={ss:.1f}', flush=True)
+    finally:
+        for p in procs:
+            try: os.kill(p.pid, signal.SIGKILL)
+            except Exception: pass
+        try: os.close(fd)
+        except Exception: pass
+
+    out = {}
+    for w in (0, 1, 2, 4):
+        js = [x['jitter'] for x in raw[w]]
+        ss = [x['sense'] for x in raw[w]]
+        ssd = [x['sense_sd'] for x in raw[w]]
+        ms = [x['mean'] for x in raw[w]]
+        out[w] = dict(hand_jitter_mean=st.mean(js), hand_jitter_list=js,
+                      hand_mean_interval=st.mean(ms),
+                      sense_change_mean=st.mean(ss), sense_change_list=ss,
+                      sense_sd_mean=st.mean(ssd))
+    print('\n=== 汇总（交织后）===')
+    print(f"{'w':>3} {'手·抖动ms':>12} {'手·精度1/抖动':>14} {'感官·变化量':>12} {'感官·sd':>10}")
+    for w in (0, 1, 2, 4):
+        o = out[w]
+        prec = 1.0 / o['hand_jitter_mean'] if o['hand_jitter_mean'] > 0 else float('inf')
+        print(f"{w:>3} {o['hand_jitter_mean']:>12.4f} {prec:>14.3f} "
+              f"{o['sense_change_mean']:>12.1f} {o['sense_sd_mean']:>10.1f}")
+    json.dump(out, open(os.path.join(os.path.dirname(__file__), 'result173.json'), 'w'), indent=2)
+    print('\nresult173.json 已写出')
+
+if __name__ == '__main__':
+    main()

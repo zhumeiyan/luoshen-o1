@@ -1,1 +1,244 @@
-IiIi6Zeu6IKh56Wo5Li65LuA5LmI5raoL+i3jCDigJQgYWdlbnQg6Zeu562U56uv54K544CCIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKaW1wb3J0IGpzb24gYXMgX2pzb24KaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgYmFzZTY0CmltcG9ydCB1dWlkCmZyb20gdHlwaW5nIGltcG9ydCBMaXN0LCBPcHRpb25hbApmcm9tIGZhc3RhcGkgaW1wb3J0IEFQSVJvdXRlcgpmcm9tIGZhc3RhcGkucmVzcG9uc2VzIGltcG9ydCBTdHJlYW1pbmdSZXNwb25zZSwgRmlsZVJlc3BvbnNlLCBSZXNwb25zZQpmcm9tIHB5ZGFudGljIGltcG9ydCBCYXNlTW9kZWwKCmZyb20gY29uZmlnIGltcG9ydCBjb25maWcKZnJvbSBzZXJ2aWNlcy5zdG9ja19hZ2VudCBpbXBvcnQgYXNrX3N0b2NrLCBhc2tfc3RvY2tfc3RyZWFtCmZyb20gc2VydmljZXMgaW1wb3J0IGFza19ydW5zCmZyb20gZGF0YWJhc2UgaW1wb3J0IChjcmVhdGVfYXNrX3Nlc3Npb24sIGFkZF9hc2tfbWVzc2FnZSwgbGlzdF9hc2tfc2Vzc2lvbnMsCiAgICAgICAgICAgICAgICAgICAgICBnZXRfYXNrX3Nlc3Npb24sIGRlbGV0ZV9hc2tfc2Vzc2lvbikKCiMg5Lya6K+d5Zu+54mH6JC955uY55uu5b2VKOi3nyBEQiDlkIznuqcpLCDlrZjljovnvKnlhYnmoIXlm77mlofku7YsIERCIOWPqueVmSBVUkwg4oCUIOS4jeaKiiBiYXNlNjQg5aGe6L+b5bqTCl9NRURJQV9ESVIgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChjb25maWcuZGJfcGF0aCkpIG9yICIuIiwgImFza19tZWRpYSIpCiMg5Y+q5YWB6K645YWJ5qCF5Zu+OyDmmI7noa7mjpLpmaQgU1ZHKOWPr+WQq+iEmuacrCDihpIg5a2Y5YKo5Z6LIFhTUynlj4rlhbblroPlj6/miafooYwv5pyq55+l57G75Z6LCl9BTExPV0VEX0lNRyA9IHsianBlZyI6ICgianBnIiwgImltYWdlL2pwZWciKSwgImpwZyI6ICgianBnIiwgImltYWdlL2pwZWciKSwKICAgICAgICAgICAgICAgICJwbmciOiAoInBuZyIsICJpbWFnZS9wbmciKSwgImdpZiI6ICgiZ2lmIiwgImltYWdlL2dpZiIpLAogICAgICAgICAgICAgICAgIndlYnAiOiAoIndlYnAiLCAiaW1hZ2Uvd2VicCIpfQoKCmRlZiBfcGVyc2lzdF9pbWFnZXMobWV0YTogT3B0aW9uYWxbZGljdF0pIC0+IE9wdGlvbmFsW2RpY3RdOgogICAgIiIi5oqKIG1ldGEuaW1hZ2VzIOmHjOeahCBkYXRhIFVSTCDokL3nm5jmiJDmlofku7YsIOabv+aNouS4uiAvYXBpL2Fzay9pbWFnZS88bmFtZT4gVVJM44CC5bey5pivIFVSTCDnmoTljp/moLfkv53nlZnjgIIKICAgIOWPquaOpeWPl+WFieagheWbvihqcGcvcG5nL2dpZi93ZWJwKSwgU1ZHIOetiemdnueZveWQjeWNleexu+Wei+S4gOW+i+S4ouW8gywg6Ziy5a2Y5YKo5Z6LIFhTU+OAgiIiIgogICAgaWYgbm90IGlzaW5zdGFuY2UobWV0YSwgZGljdCk6CiAgICAgICAgcmV0dXJuIG1ldGEKICAgIGltZ3MgPSBtZXRhLmdldCgiaW1hZ2VzIikKICAgIGlmIG5vdCBpc2luc3RhbmNlKGltZ3MsIGxpc3QpIG9yIG5vdCBpbWdzOgogICAgICAgIHJldHVybiBtZXRhCiAgICBvcy5tYWtlZGlycyhfTUVESUFfRElSLCBleGlzdF9vaz1UcnVlKQogICAgb3V0ID0gW10KICAgIGZvciBzIGluIGltZ3M6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2Uocywgc3RyKSBvciBub3QgczoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBzLnN0YXJ0c3dpdGgoIi9hcGkvYXNrL2ltYWdlLyIpOgogICAgICAgICAgICBvdXQuYXBwZW5kKHMpOyBjb250aW51ZQogICAgICAgIGlmIHMuc3RhcnRzd2l0aCgiZGF0YToiKToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgaGVhZCwgYjY0ID0gcy5zcGxpdCgiLCIsIDEpCiAgICAgICAgICAgICAgICBtID0gcmUubWF0Y2gociJkYXRhOmltYWdlLyhbYS16QS1aMC05ListXSspIiwgaGVhZCkKICAgICAgICAgICAgICAgIHN1YnR5cGUgPSAobS5ncm91cCgxKS5sb3dlcigpIGlmIG0gZWxzZSAiIikKICAgICAgICAgICAgICAgIGlmIHN1YnR5cGUgbm90IGluIF9BTExPV0VEX0lNRzogICAgIyBzdmcreG1sIC8g5pyq55+l57G75Z6LIOKGkiDkuKLlvIMKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgZXh0ID0gX0FMTE9XRURfSU1HW3N1YnR5cGVdWzBdCiAgICAgICAgICAgICAgICBuYW1lID0gZiJ7dXVpZC51dWlkNCgpLmhleH0ue2V4dH0iCiAgICAgICAgICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKF9NRURJQV9ESVIsIG5hbWUpLCAid2IiKSBhcyBmOgogICAgICAgICAgICAgICAgICAgIGYud3JpdGUoYmFzZTY0LmI2NGRlY29kZShiNjQpKQogICAgICAgICAgICAgICAgb3V0LmFwcGVuZChmIi9hcGkvYXNrL2ltYWdlL3tuYW1lfSIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgbWV0YSA9IGRpY3QobWV0YSkKICAgIG1ldGFbImltYWdlcyJdID0gb3V0CiAgICByZXR1cm4gbWV0YQoKcm91dGVyID0gQVBJUm91dGVyKHByZWZpeD0iL2FwaS9hc2siLCB0YWdzPVsiYXNrIl0pCgoKY2xhc3MgVHVybihCYXNlTW9kZWwpOgogICAgcm9sZTogc3RyICAgICAgICAjIHVzZXIgfCBhc3Npc3RhbnQKICAgIGNvbnRlbnQ6IHN0cgoKCmNsYXNzIEFza0luKEJhc2VNb2RlbCk6CiAgICBxdWVzdGlvbjogc3RyCiAgICBoaXN0b3J5OiBPcHRpb25hbFtMaXN0W1R1cm5dXSA9IE5vbmUKICAgIGltYWdlczogT3B0aW9uYWxbTGlzdFtzdHJdXSA9IE5vbmUgICAgIyBkYXRhIFVSTCDmiJboo7ggYmFzZTY0LCDmnIDlpJogNCDlvKAsIOi1sOWkmuaooeaAgQoKCmNsYXNzIFJ1bkluKEJhc2VNb2RlbCk6CiAgICBxdWVzdGlvbjogc3RyICAgICAgICAgICAgICAgICAgICAgICAgICAjIOe7meS6uueci+eahOWOn+ivnSjokL3lupMv5Y6G5Y+y5qCH6aKY55So6L+Z5LiqKQogICAgYWdlbnRfcXVlc3Rpb246IE9wdGlvbmFsW3N0cl0gPSBOb25lICAgIyDnnJ/mraPlloIgYWdlbnQg55qEKOaKveWxieS8muW4puS4iiLlkI3np7Ao5Luj56CBKTogIuWJjee8gCkKICAgIGhpc3Rvcnk6IE9wdGlvbmFsW0xpc3RbVHVybl1dID0gTm9uZQogICAgaW1hZ2VzOiBPcHRpb25hbFtMaXN0W3N0cl1dID0gTm9uZQogICAgc2Vzc2lvbl9pZDogT3B0aW9uYWxbaW50XSA9IE5vbmUgICAgICAgICMg56m6PeaWsOW7uuS8muivnQogICAgdGl0bGU6IE9wdGlvbmFsW3N0cl0gPSBOb25lCiAgICBzY29wZTogc3RyID0gIm1hcmtldCIgICAgICAgICAgICAgICAgICAgIyBtYXJrZXQgfCBzdG9jazo8Y29kZT4sIOWJjeerr+aMieWug+iupOmihuiHquW3semCo+adoQoKCmNsYXNzIERlZXBJbihCYXNlTW9kZWwpOgogICAgY29kZTogc3RyCiAgICBuYW1lOiBPcHRpb25hbFtzdHJdID0gTm9uZQogICAgcXVlc3Rpb246IE9wdGlvbmFsW3N0cl0gPSBOb25lCiAgICBzZXNzaW9uX2lkOiBPcHRpb25hbFtpbnRdID0gTm9uZQoKCmNsYXNzIFNlc3Npb25Nc2coQmFzZU1vZGVsKToKICAgIHNlc3Npb25faWQ6IE9wdGlvbmFsW2ludF0gPSBOb25lICAgICAjIOepuj3mlrDlu7rkvJror50KICAgIHJvbGU6IHN0ciAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHVzZXIgfCBhc3Npc3RhbnQKICAgIGNvbnRlbnQ6IHN0cgogICAgbWV0YTogT3B0aW9uYWxbZGljdF0gPSBOb25lICAgICAgICAgICMge3Rvb2xzX3VzZWQsIHNvdXJjZXN9CiAgICB0aXRsZTogT3B0aW9uYWxbc3RyXSA9IE5vbmUgICAgICAgICAgIyDmlrDlu7rkvJror53ml7bnlKgo5Y+W6aaW5Liq6Zeu6aKYKQoKCkByb3V0ZXIucG9zdCgiL3N0b2NrIikKYXN5bmMgZGVmIGFzayhkYXRhOiBBc2tJbik6CiAgICAiIiLoh6rnlLHpl67kuKrogqEo5Li65LuA5LmI5raoL+i3jOOAgeacgOi/kea2iOaBr+OAgei3n+aMgeS7k+WFs+ezuynjgILmjILlt6XlhbfnmoQgYWdlbnQg6Ieq5Y+W5pWw5o2u5ZCO5a6i6KeC6Kej6K+7LCDkuI3nu5nkubDljZblu7rorq7jgIIiIiIKICAgIGhpc3QgPSBbdC5tb2RlbF9kdW1wKCkgZm9yIHQgaW4gKGRhdGEuaGlzdG9yeSBvciBbXSldCiAgICByZXR1cm4gYXdhaXQgYXNrX3N0b2NrKGRhdGEucXVlc3Rpb24sIGhpc3QsIGRhdGEuaW1hZ2VzKQoKCkByb3V0ZXIucG9zdCgiL3N0b2NrL3N0cmVhbSIpCmFzeW5jIGRlZiBhc2tfc3RyZWFtKGRhdGE6IEFza0luKToKICAgICIiIlNTRSDmtYHlvI/niYgoUE9TVCwg5bim5aSa6L2u5Y6G5Y+yKTog5bel5YW35q2l6aqk5a6e5pe25o6o6YCBLCDmnKvlsL7mjqjlrozmlbTnrZTmoYjjgIIKCiAgICDms6g6IOi/meS4gOadoeeahOaJp+ihjOadg+WcqOiwg+eUqOaWuSDigJTigJQg5pat5byA6L+e5o6l6L+Z5LiA6L2u5bCx5rKh5LqGLCDkuZ/kuI3okL3lupPjgILnlYzpnaLlt7Lnu4/mlLnotbAKICAgIC9ydW5zKOacjeWKoeerr+WQjuWPsOi3kSArIOiHquWKqOiQveW6kyk7IOi/memHjOeVmee7meiEmuacrC/kuIDmrKHmgKfosIPnlKjjgIIiIiIKICAgIGhpc3QgPSBbdC5tb2RlbF9kdW1wKCkgZm9yIHQgaW4gKGRhdGEuaGlzdG9yeSBvciBbXSldCgogICAgYXN5bmMgZGVmIGdlbigpOgogICAgICAgIHRyeToKICAgICAgICAgICAgYXN5bmMgZm9yIGV2IGluIGFza19zdG9ja19zdHJlYW0oZGF0YS5xdWVzdGlvbiwgaGlzdCwgZGF0YS5pbWFnZXMpOgogICAgICAgICAgICAgICAgeWllbGQgZiJkYXRhOiB7X2pzb24uZHVtcHMoZXYsIGVuc3VyZV9hc2NpaT1GYWxzZSl9XG5cbiIKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHlpZWxkIGYiZGF0YToge19qc29uLmR1bXBzKHsndHlwZSc6ICdlcnJvcicsICdlcnJvcic6IHN0cihlKX0sIGVuc3VyZV9hc2NpaT1GYWxzZSl9XG5cbiIKICAgIHJldHVybiBTdHJlYW1pbmdSZXNwb25zZShnZW4oKSwgbWVkaWFfdHlwZT0idGV4dC9ldmVudC1zdHJlYW0iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnM9eyJDYWNoZS1Db250cm9sIjogIm5vLWNhY2hlIiwgIlgtQWNjZWwtQnVmZmVyaW5nIjogIm5vIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQ29ubmVjdGlvbiI6ICJrZWVwLWFsaXZlIn0pCgoKIyAtLS0g5ZCO5Y+w6L+Q6KGM55qE5LiA6L2uKHJ1bik6IOeVjOmdoui1sOi/meadoSAtLS0KCkByb3V0ZXIucG9zdCgiL2RlZXAtZGl2ZSIpCmFzeW5jIGRlZiBzdGFydF9kZWVwX2RpdmUoZGF0YTogRGVlcEluKToKICAgICIiIuWbm+WxguS6pOWPiea3seaMljog6LW35LiA5p2h5ZCO5Y+wIHJ1biwg56uL5Yi76L+U5ZueIHJ1bl9pZOOAggoKICAgIOS4uuS7gOS5iOi1sCBydW4g6ICM5LiN5piv5ZCM5q2l6L+U5ZueOiDkuIDova7lrp7mtYsgMyDliIbljYoo5Zub5bGC5bm26KGMICsg57u85ZCI5YWxIDUg5qyhIExMTSksIOWQjOatpeivt+axguS8muiiqwogICAg5rWP6KeI5ZmoL+S7o+eQhuaOkOaWrTsg6LWwIHJ1biDov5jpobrluKbnmb3mi78i5YiH6aG15LiN5patICsg5pat57q/57ut5ouJICsg5Y6G5Y+y6YeM6IO957+7IuOAggogICAg5pi+5byP5YWl5Y+jKOeUqOaIt+eCueS6huaJjei3kSksIOS4jeaMguaIkCBhZ2VudCDlt6Xlhbcg4oCU4oCUIOaMguaIkOW3peWFt+eahOivneaooeWei+S8muiHquW3seWGs+WumuiwgywgNSDmrKHosIPnlKjnmoQKICAgIOW8gOmUgOWwseS4jeWPl+aOp+S6huOAggogICAgIiIiCiAgICBmcm9tIHNlcnZpY2VzLm11bHRpX2xlbnMgaW1wb3J0IHN0cmVhbSBhcyBfbGVuc19zdHJlYW0KICAgIGNvZGUgPSAoZGF0YS5jb2RlIG9yICIiKS5zdHJpcCgpCiAgICBpZiBub3QgY29kZToKICAgICAgICByZXR1cm4geyJlcnJvciI6ICLnvLogY29kZSJ9CiAgICBubSA9IChkYXRhLm5hbWUgb3IgIiIpLnN0cmlwKCkKICAgIHEgPSAoZGF0YS5xdWVzdGlvbiBvciAiIikuc3RyaXAoKSBvciAi6L+Z6Zeo55Sf5oSP55qE6LSo5Zyw5oCO5LmI5qC3IgogICAgdGl0bGUgPSBmIua3seaMliB7bm0gb3IgY29kZX0iCiAgICBydW4gPSBhd2FpdCBhc2tfcnVucy5zdGFydCgKICAgICAgICBmInt0aXRsZX06IHtxfSIsIHNlc3Npb25faWQ9ZGF0YS5zZXNzaW9uX2lkLCB0aXRsZT10aXRsZSwKICAgICAgICBzY29wZT1mInN0b2NrOntjb2RlfSIsIGV2ZW50cz1fbGVuc19zdHJlYW0oY29kZSwgbm0sIHEpKQogICAgcmV0dXJuIHsicnVuX2lkIjogcnVuLmlkLCAic2Vzc2lvbl9pZCI6IHJ1bi5zZXNzaW9uX2lkLCAiY3Vyc29yIjogMH0KCgpAcm91dGVyLnBvc3QoIi9ydW5zIikKYXN5bmMgZGVmIHN0YXJ0X3J1bihkYXRhOiBSdW5Jbik6CiAgICAiIiLlvIDot5HkuIDova7lubbnq4vliLvov5Tlm54ge3J1bl9pZCwgc2Vzc2lvbl9pZCwgY3Vyc29yfeOAggoKICAgIOi3nyAvc3RvY2svc3RyZWFtIOeahOWMuuWIq+WwseaYryLosIHmi7/nnYDmiafooYzmnYMiOiDov5nmnaHkuIDlvIDot5HlsLHlvZLmnI3liqHnq68sIOWJjeerr+WIh+mhtS/liLfmlrAv5YWz6aG1CiAgICDpg73kuI3lvbHlk43lroPot5HlrozlubbokL3lupM7IOmXrumimOWcqOW8gOi3kemCo+S4gOWIu+WwseW3sue7j+WGmei/m+S8muivnSwg5omA5Lul5Y6G5Y+y6YeM6ams5LiK6IO955yL5Yiw44CCIiIiCiAgICBoaXN0ID0gW3QubW9kZWxfZHVtcCgpIGZvciB0IGluIChkYXRhLmhpc3Rvcnkgb3IgW10pXQogICAgaW1ncyA9IGRhdGEuaW1hZ2VzIG9yIFtdCiAgICAjIOWbvueJhzog5ZaCIGFnZW50IOeUqOWOn+WniyBkYXRhIFVSTCwg6JC95bqT55So6JC955uY5ZCO55qEIFVSTChEQiDkuI3lrZggYmFzZTY0KQogICAgdXNlcl9tZXRhID0gX3BlcnNpc3RfaW1hZ2VzKHsiaW1hZ2VzIjogaW1nc30pIGlmIGltZ3MgZWxzZSBOb25lCiAgICBydW4gPSBhd2FpdCBhc2tfcnVucy5zdGFydCgKICAgICAgICBkYXRhLnF1ZXN0aW9uLCBhZ2VudF9xdWVzdGlvbj1kYXRhLmFnZW50X3F1ZXN0aW9uLCBoaXN0b3J5PWhpc3QsIGltYWdlcz1pbWdzLAogICAgICAgIHNlc3Npb25faWQ9ZGF0YS5zZXNzaW9uX2lkLCB0aXRsZT1kYXRhLnRpdGxlLCBzY29wZT1kYXRhLnNjb3BlLCB1c2VyX21ldGE9dXNlcl9tZXRhKQogICAgcmV0dXJuIHsicnVuX2lkIjogcnVuLmlkLCAic2Vzc2lvbl9pZCI6IHJ1bi5zZXNzaW9uX2lkLCAiY3Vyc29yIjogMCwKICAgICAgICAgICAgImltYWdlcyI6ICh1c2VyX21ldGEgb3Ige30pLmdldCgiaW1hZ2VzIiwgW10pfQoKCkByb3V0ZXIuZ2V0KCIvcnVucyIpCmFzeW5jIGRlZiBsaXN0X3J1bnMoc2NvcGU6IE9wdGlvbmFsW3N0cl0gPSBOb25lKToKICAgICIiIuWGheWtmOmHjOi/mOiupOW+l+eahCBydW4o5Zyo6LeR55qEICsg5Yia6LeR5a6M55qEKSwg5YmN56uv55So5p2l6YeN5oyCOiDliIflm57mnaXmjqXnnYDnnIvpgqPljYrmiKrjgIIiIiIKICAgIHJldHVybiB7InJ1bnMiOiBhd2FpdCBhc2tfcnVucy5saXZlKHNjb3BlKX0KCgpAcm91dGVyLmdldCgiL3J1bnMve3J1bl9pZH0vZXZlbnRzIikKYXN5bmMgZGVmIHJ1bl9ldmVudHMocnVuX2lkOiBzdHIsIGN1cnNvcjogaW50ID0gMCk6CiAgICAiIiLku44gY3Vyc29yIOi1t+e7reaLieS6i+S7tua1geOAguavj+adoeW4piBjdXJzb3IsIOaWreW8gOWQjueFp+Wug+aOpeedgOaLiTsg5pat5byA5LiN5Lya5b2x5ZONIHJ1biDmnKzouqvjgIIiIiIKICAgIGFzeW5jIGRlZiBnZW4oKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGFzeW5jIGZvciBldiBpbiBhc2tfcnVucy5mb2xsb3cocnVuX2lkLCBjdXJzb3IpOgogICAgICAgICAgICAgICAgeWllbGQgZiJkYXRhOiB7X2pzb24uZHVtcHMoZXYsIGVuc3VyZV9hc2NpaT1GYWxzZSl9XG5cbiIKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHlpZWxkIGYiZGF0YToge19qc29uLmR1bXBzKHsndHlwZSc6ICdlcnJvcicsICdlcnJvcic6IHN0cihlKX0sIGVuc3VyZV9hc2NpaT1GYWxzZSl9XG5cbiIKICAgIHJldHVybiBTdHJlYW1pbmdSZXNwb25zZShnZW4oKSwgbWVkaWFfdHlwZT0idGV4dC9ldmVudC1zdHJlYW0iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnM9eyJDYWNoZS1Db250cm9sIjogIm5vLWNhY2hlIiwgIlgtQWNjZWwtQnVmZmVyaW5nIjogIm5vIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQ29ubmVjdGlvbiI6ICJrZWVwLWFsaXZlIn0pCgoKQHJvdXRlci5wb3N0KCIvcnVucy97cnVuX2lkfS9jYW5jZWwiKQphc3luYyBkZWYgY2FuY2VsX3J1bihydW5faWQ6IHN0cik6CiAgICAiIiLmmI7noa7lgZzmjoko54K5IuaWsOWvueivnSLov5nnsbsp44CC6LefIuWJjeerr+i1sOW8gCLljLrliIY6IOi1sOW8gOS4jeWPlua2iOOAgiIiIgogICAgcmV0dXJuIHsiY2FuY2VsbGVkIjogYXNrX3J1bnMuY2FuY2VsKHJ1bl9pZCl9CgoKIyAtLS0g5Lya6K+d5Y6G5Y+yIC0tLQoKQHJvdXRlci5wb3N0KCIvbWVzc2FnZXMiKQphc3luYyBkZWYgc2F2ZV9tZXNzYWdlKG06IFNlc3Npb25Nc2cpOgogICAgIiIi5L+d5a2Y5LiA5p2h5a+56K+d5raI5oGv44CCc2Vzc2lvbl9pZCDkuLrnqbrliJnmlrDlu7rkvJror50o55SoIHRpdGxlL+mmlumXruWBmuagh+mimCksIOi/lOWbniBzZXNzaW9uX2lk44CCIiIiCiAgICBzaWQgPSBtLnNlc3Npb25faWQKICAgIGlmIG5vdCBzaWQ6CiAgICAgICAgc2lkID0gYXdhaXQgY3JlYXRlX2Fza19zZXNzaW9uKChtLnRpdGxlIG9yIG0uY29udGVudClbOjgwXSkKICAgIG1ldGFfb2JqID0gX3BlcnNpc3RfaW1hZ2VzKG0ubWV0YSkgICAjIGJhc2U2NCDokL3nm5gg4oaSIFVSTCwgREIg5LiN5a2YIGJhc2U2NAogICAgbWV0YSA9IF9qc29uLmR1bXBzKG1ldGFfb2JqLCBlbnN1cmVfYXNjaWk9RmFsc2UpIGlmIG1ldGFfb2JqIGVsc2UgIiIKICAgIGF3YWl0IGFkZF9hc2tfbWVzc2FnZShzaWQsIG0ucm9sZSwgbS5jb250ZW50LCBtZXRhKQogICAgcmV0dXJuIHsic2Vzc2lvbl9pZCI6IHNpZH0KCgpfRVhUX0NUID0geyJqcGciOiAiaW1hZ2UvanBlZyIsICJwbmciOiAiaW1hZ2UvcG5nIiwgImdpZiI6ICJpbWFnZS9naWYiLCAid2VicCI6ICJpbWFnZS93ZWJwIn0KCgpAcm91dGVyLmdldCgiL2ltYWdlL3tuYW1lfSIpCmFzeW5jIGRlZiBnZXRfYXNrX2ltYWdlKG5hbWU6IHN0cik6CiAgICAiIiLor7vkvJror53lm77niYco6JC955uY55qE5Y6L57yp5YWJ5qCF5Zu+KeOAgmJhc2VuYW1lIOmYsuebruW9leepv+i2ijsg5oyJ5omp5bGV5ZCN5by65Yi25a6J5YWoIENvbnRlbnQtVHlwZSArIG5vc25pZmYsIOS4jeiuqea1j+iniOWZqOWXheaOouaJp+ihjOOAgiIiIgogICAgc2FmZSA9IG9zLnBhdGguYmFzZW5hbWUobmFtZSkKICAgIGV4dCA9IHNhZmUucnNwbGl0KCIuIiwgMSlbLTFdLmxvd2VyKCkgaWYgIi4iIGluIHNhZmUgZWxzZSAiIgogICAgY3QgPSBfRVhUX0NULmdldChleHQpCiAgICBwYXRoID0gb3MucGF0aC5qb2luKF9NRURJQV9ESVIsIHNhZmUpCiAgICBpZiBub3QgY3Qgb3Igbm90IG9zLnBhdGguaXNmaWxlKHBhdGgpOiAgICAjIOWPquacjeWKoeeZveWQjeWNleWFieagheWbvgogICAgICAgIHJldHVybiBSZXNwb25zZShzdGF0dXNfY29kZT00MDQpCiAgICByZXR1cm4gRmlsZVJlc3BvbnNlKHBhdGgsIG1lZGlhX3R5cGU9Y3QsIGhlYWRlcnM9eyJYLUNvbnRlbnQtVHlwZS1PcHRpb25zIjogIm5vc25pZmYifSkKCgpAcm91dGVyLmdldCgiL3Nlc3Npb25zIikKYXN5bmMgZGVmIGdldF9zZXNzaW9ucygpOgogICAgIiIi5Lya6K+d5YiX6KGoKOacgOi/keWcqOWJjSwg5qCH6aKYK+aXtumXtCvmtojmga/mlbAp44CCIiIiCiAgICByZXR1cm4geyJzZXNzaW9ucyI6IGF3YWl0IGxpc3RfYXNrX3Nlc3Npb25zKCl9CgoKQHJvdXRlci5nZXQoIi9zZXNzaW9ucy97c2Vzc2lvbl9pZH0iKQphc3luYyBkZWYgZ2V0X3Nlc3Npb24oc2Vzc2lvbl9pZDogaW50KToKICAgICIiIuWNleS4quS8muivneWFqOmDqOa2iOaBryhtZXRhIOino+aekOWbniBkaWN0KeOAgiIiIgogICAgcyA9IGF3YWl0IGdldF9hc2tfc2Vzc2lvbihzZXNzaW9uX2lkKQogICAgaWYgbm90IHM6CiAgICAgICAgcmV0dXJuIHsiZXJyb3IiOiAi5Lya6K+d5LiN5a2Y5ZyoIn0KICAgIGZvciBtc2cgaW4gcy5nZXQoIm1lc3NhZ2VzIiwgW10pOgogICAgICAgIHRyeToKICAgICAgICAgICAgbXNnWyJtZXRhIl0gPSBfanNvbi5sb2Fkcyhtc2dbIm1ldGEiXSkgaWYgbXNnLmdldCgibWV0YSIpIGVsc2UgTm9uZQogICAgICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yKToKICAgICAgICAgICAgbXNnWyJtZXRhIl0gPSBOb25lCiAgICByZXR1cm4gcwoKCkByb3V0ZXIuZGVsZXRlKCIvc2Vzc2lvbnMve3Nlc3Npb25faWR9IikKYXN5bmMgZGVmIHJlbW92ZV9zZXNzaW9uKHNlc3Npb25faWQ6IGludCk6CiAgICBhd2FpdCBkZWxldGVfYXNrX3Nlc3Npb24oc2Vzc2lvbl9pZCkKICAgIHJldHVybiB7Im9rIjogVHJ1ZX0K
+"""问股票为什么涨/跌 — agent 问答端点。"""
+from __future__ import annotations
+import json as _json
+import os
+import re
+import base64
+import uuid
+from typing import List, Optional
+from fastapi import APIRouter
+from fastapi.responses import StreamingResponse, FileResponse, Response
+from pydantic import BaseModel
+
+from config import config
+from services.stock_agent import ask_stock, ask_stock_stream
+from services import ask_runs
+from database import (create_ask_session, add_ask_message, list_ask_sessions,
+                      get_ask_session, delete_ask_session)
+
+# 会话图片落盘目录(跟 DB 同级), 存压缩光栅图文件, DB 只留 URL — 不把 base64 塞进库
+_MEDIA_DIR = os.path.join(os.path.dirname(os.path.abspath(config.db_path)) or ".", "ask_media")
+# 只允许光栅图; 明确排除 SVG(可含脚本 → 存储型 XSS)及其它可执行/未知类型
+_ALLOWED_IMG = {"jpeg": ("jpg", "image/jpeg"), "jpg": ("jpg", "image/jpeg"),
+                "png": ("png", "image/png"), "gif": ("gif", "image/gif"),
+                "webp": ("webp", "image/webp")}
+
+
+def _persist_images(meta: Optional[dict]) -> Optional[dict]:
+    """把 meta.images 里的 data URL 落盘成文件, 替换为 /api/ask/image/<name> URL。已是 URL 的原样保留。
+    只接受光栅图(jpg/png/gif/webp), SVG 等非白名单类型一律丢弃, 防存储型 XSS。"""
+    if not isinstance(meta, dict):
+        return meta
+    imgs = meta.get("images")
+    if not isinstance(imgs, list) or not imgs:
+        return meta
+    os.makedirs(_MEDIA_DIR, exist_ok=True)
+    out = []
+    for s in imgs:
+        if not isinstance(s, str) or not s:
+            continue
+        if s.startswith("/api/ask/image/"):
+            out.append(s); continue
+        if s.startswith("data:"):
+            try:
+                head, b64 = s.split(",", 1)
+                m = re.match(r"data:image/([a-zA-Z0-9.+-]+)", head)
+                subtype = (m.group(1).lower() if m else "")
+                if subtype not in _ALLOWED_IMG:    # svg+xml / 未知类型 → 丢弃
+                    continue
+                ext = _ALLOWED_IMG[subtype][0]
+                name = f"{uuid.uuid4().hex}.{ext}"
+                with open(os.path.join(_MEDIA_DIR, name), "wb") as f:
+                    f.write(base64.b64decode(b64))
+                out.append(f"/api/ask/image/{name}")
+            except Exception:
+                continue
+    meta = dict(meta)
+    meta["images"] = out
+    return meta
+
+router = APIRouter(prefix="/api/ask", tags=["ask"])
+
+
+class Turn(BaseModel):
+    role: str        # user | assistant
+    content: str
+
+
+class AskIn(BaseModel):
+    question: str
+    history: Optional[List[Turn]] = None
+    images: Optional[List[str]] = None    # data URL 或裸 base64, 最多 4 张, 走多模态
+
+
+class RunIn(BaseModel):
+    question: str                          # 给人看的原话(落库/历史标题用这个)
+    agent_question: Optional[str] = None   # 真正喂 agent 的(抽屉会带上"名称(代码): "前缀)
+    history: Optional[List[Turn]] = None
+    images: Optional[List[str]] = None
+    session_id: Optional[int] = None        # 空=新建会话
+    title: Optional[str] = None
+    scope: str = "market"                   # market | stock:<code>, 前端按它认领自己那条
+
+
+class DeepIn(BaseModel):
+    code: str
+    name: Optional[str] = None
+    question: Optional[str] = None
+    session_id: Optional[int] = None
+
+
+class SessionMsg(BaseModel):
+    session_id: Optional[int] = None     # 空=新建会话
+    role: str                            # user | assistant
+    content: str
+    meta: Optional[dict] = None          # {tools_used, sources}
+    title: Optional[str] = None          # 新建会话时用(取首个问题)
+
+
+@router.post("/stock")
+async def ask(data: AskIn):
+    """自由问个股(为什么涨/跌、最近消息、跟持仓关系)。挂工具的 agent 自取数据后客观解读, 不给买卖建议。"""
+    hist = [t.model_dump() for t in (data.history or [])]
+    return await ask_stock(data.question, hist, data.images)
+
+
+@router.post("/stock/stream")
+async def ask_stream(data: AskIn):
+    """SSE 流式版(POST, 带多轮历史): 工具步骤实时推送, 末尾推完整答案。
+
+    注: 这一条的执行权在调用方 —— 断开连接这一轮就没了, 也不落库。界面已经改走
+    /runs(服务端后台跑 + 自动落库); 这里留给脚本/一次性调用。"""
+    hist = [t.model_dump() for t in (data.history or [])]
+
+    async def gen():
+        try:
+            async for ev in ask_stock_stream(data.question, hist, data.images):
+                yield f"data: {_json.dumps(ev, ensure_ascii=False)}\n\n"
+        except Exception as e:
+            yield f"data: {_json.dumps({'type': 'error', 'error': str(e)}, ensure_ascii=False)}\n\n"
+    return StreamingResponse(gen(), media_type="text/event-stream",
+                             headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no",
+                                      "Connection": "keep-alive"})
+
+
+# --- 后台运行的一轮(run): 界面走这条 ---
+
+@router.post("/deep-dive")
+async def start_deep_dive(data: DeepIn):
+    """四层交叉深挖: 起一条后台 run, 立刻返回 run_id。
+
+    为什么走 run 而不是同步返回: 一轮实测 3 分半(四层并行 + 综合共 5 次 LLM), 同步请求会被
+    浏览器/代理掐断; 走 run 还顺带白拿"切页不断 + 断线续拉 + 历史里能翻"。
+    显式入口(用户点了才跑), 不挂成 agent 工具 —— 挂成工具的话模型会自己决定调, 5 次调用的
+    开销就不受控了。
+    """
+    from services.multi_lens import stream as _lens_stream
+    code = (data.code or "").strip()
+    if not code:
+        return {"error": "缺 code"}
+    nm = (data.name or "").strip()
+    q = (data.question or "").strip() or "这门生意的质地怎么样"
+    title = f"深挖 {nm or code}"
+    run = await ask_runs.start(
+        f"{title}: {q}", session_id=data.session_id, title=title,
+        scope=f"stock:{code}", events=_lens_stream(code, nm, q))
+    return {"run_id": run.id, "session_id": run.session_id, "cursor": 0}
+
+
+@router.post("/runs")
+async def start_run(data: RunIn):
+    """开跑一轮并立刻返回 {run_id, session_id, cursor}。
+
+    跟 /stock/stream 的区别就是"谁拿着执行权": 这条一开跑就归服务端, 前端切页/刷新/关页
+    都不影响它跑完并落库; 问题在开跑那一刻就已经写进会话, 所以历史里马上能看到。"""
+    hist = [t.model_dump() for t in (data.history or [])]
+    imgs = data.images or []
+    # 图片: 喂 agent 用原始 data URL, 落库用落盘后的 URL(DB 不存 base64)
+    user_meta = _persist_images({"images": imgs}) if imgs else None
+    run = await ask_runs.start(
+        data.question, agent_question=data.agent_question, history=hist, images=imgs,
+        session_id=data.session_id, title=data.title, scope=data.scope, user_meta=user_meta)
+    return {"run_id": run.id, "session_id": run.session_id, "cursor": 0,
+            "images": (user_meta or {}).get("images", [])}
+
+
+@router.get("/runs")
+async def list_runs(scope: Optional[str] = None):
+    """内存里还认得的 run(在跑的 + 刚跑完的), 前端用来重挂: 切回来接着看那半截。"""
+    return {"runs": await ask_runs.live(scope)}
+
+
+@router.get("/runs/{run_id}/events")
+async def run_events(run_id: str, cursor: int = 0):
+    """从 cursor 起续拉事件流。每条带 cursor, 断开后照它接着拉; 断开不会影响 run 本身。"""
+    async def gen():
+        try:
+            async for ev in ask_runs.follow(run_id, cursor):
+                yield f"data: {_json.dumps(ev, ensure_ascii=False)}\n\n"
+        except Exception as e:
+            yield f"data: {_json.dumps({'type': 'error', 'error': str(e)}, ensure_ascii=False)}\n\n"
+    return StreamingResponse(gen(), media_type="text/event-stream",
+                             headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no",
+                                      "Connection": "keep-alive"})
+
+
+@router.post("/runs/{run_id}/cancel")
+async def cancel_run(run_id: str):
+    """明确停掉(点"新对话"这类)。跟"前端走开"区分: 走开不取消。"""
+    return {"cancelled": ask_runs.cancel(run_id)}
+
+
+# --- 会话历史 ---
+
+@router.post("/messages")
+async def save_message(m: SessionMsg):
+    """保存一条对话消息。session_id 为空则新建会话(用 title/首问做标题), 返回 session_id。"""
+    sid = m.session_id
+    if not sid:
+        sid = await create_ask_session((m.title or m.content)[:80])
+    meta_obj = _persist_images(m.meta)   # base64 落盘 → URL, DB 不存 base64
+    meta = _json.dumps(meta_obj, ensure_ascii=False) if meta_obj else ""
+    await add_ask_message(sid, m.role, m.content, meta)
+    return {"session_id": sid}
+
+
+_EXT_CT = {"jpg": "image/jpeg", "png": "image/png", "gif": "image/gif", "webp": "image/webp"}
+
+
+@router.get("/image/{name}")
+async def get_ask_image(name: str):
+    """读会话图片(落盘的压缩光栅图)。basename 防目录穿越; 按扩展名强制安全 Content-Type + nosniff, 不让浏览器嗅探执行。"""
+    safe = os.path.basename(name)
+    ext = safe.rsplit(".", 1)[-1].lower() if "." in safe else ""
+    ct = _EXT_CT.get(ext)
+    path = os.path.join(_MEDIA_DIR, safe)
+    if not ct or not os.path.isfile(path):    # 只服务白名单光栅图
+        return Response(status_code=404)
+    return FileResponse(path, media_type=ct, headers={"X-Content-Type-Options": "nosniff"})
+
+
+@router.get("/sessions")
+async def get_sessions():
+    """会话列表(最近在前, 标题+时间+消息数)。"""
+    return {"sessions": await list_ask_sessions()}
+
+
+@router.get("/sessions/{session_id}")
+async def get_session(session_id: int):
+    """单个会话全部消息(meta 解析回 dict)。"""
+    s = await get_ask_session(session_id)
+    if not s:
+        return {"error": "会话不存在"}
+    for msg in s.get("messages", []):
+        try:
+            msg["meta"] = _json.loads(msg["meta"]) if msg.get("meta") else None
+        except (ValueError, TypeError):
+            msg["meta"] = None
+    return s
+
+
+@router.delete("/sessions/{session_id}")
+async def remove_session(session_id: int):
+    await delete_ask_session(session_id)
+    return {"ok": True}

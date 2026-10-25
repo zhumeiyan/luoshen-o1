@@ -1,1 +1,220 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJQcmVzZXJ2ZSBzaGFyZWQgZXhpdC0yIGd1YXJkcyBhY3Jvc3MgQ29kZXgncyBXaW5kb3dzIHNoZWxsIGJvdW5kYXJ5LgoKUGF5bG9hZCBjb250cmFjdCAoIzQwOSk6IENvZGV4IGRlbGl2ZXJzIGV4YWN0bHkgT05FIEpTT04gKm9iamVjdCogb24gc3RkaW4sCmFuZCB0aGUgYWRhcHRlciByb3V0ZXMgaXQgYnkgYHRvb2xfbmFtZWAgdG8gdGhlIHNoYXJlZCBwcmUtd3JpdGUgLyBwcmUtYmFzaApndWFyZC4gQW55dGhpbmcgdGhlIGFkYXB0ZXIgY2Fubm90IHJvdXRlIOKAlCBhIHN0cmVhbSB0aGF0IG5ldmVyIGNsb3NlZCwgYW4KZW1wdHkgc3RyZWFtLCBpbnZhbGlkIEpTT04sIGEgdmFsaWQgSlNPTiB0b3AgbGV2ZWwgdGhhdCBpcyBub3QgYW4gb2JqZWN0CihudWxsIC8gYXJyYXkgLyBzdHJpbmcgLyBudW1iZXIgLyBib29sKSwgb3IgYSBwcmVzZW50LWJ1dC13cm9uZy10eXBlZApgdG9vbF9uYW1lYCDigJQgZ29lcyB0aHJvdWdoIE9ORSBib3VuZGVkIGhhbmRsaW5nIHBhdGg6IGVtaXQgdGhlIGRvY3VtZW50ZWQKYGRlY2lzaW9uOiBibG9ja2AgcmVzcG9uc2UsIGV4aXQgMCwgZGlzcGF0Y2ggbm8gZ3VhcmQuCgpUaGF0IHBhdGggcnVucyBPTkxZIGluIGFuIGFyYml0ZXItZW5hYmxlZCByZXBvLiBjb2RlQXJiaXRlciBpcyBkb3JtYW50CndoZXJldmVyIGAuY29kZWFyYml0ZXIvQ09OVEVYVC5tZGAgZG9lcyBub3QgY2FycnkgYGFyYml0ZXI6IGVuYWJsZWRgLCBhbmQgdGhlCmNvbnRyYWN0IGZvciBhIGRvcm1hbnQgcmVwbyBpcyB0b3RhbCBpbmFjdGlvbiDigJQgbm8gZXhpdCAyLCBubyBzdGRvdXQsIG5vCmRlY2lzaW9uLiBFdmVyeSBndWFyZCBlbmZvcmNlcyB0aGF0IGl0c2VsZiBhcyBpdHMgZmlyc3Qgc3RhdGVtZW50OyB0aGlzCmFkYXB0ZXIgc2hvcnQtY2lyY3VpdHMgQkVGT1JFIGFueSBndWFyZCBydW5zLCBzbyBvbiB0aGUgdW5yb3V0YWJsZSBwYXRoIGl0IGlzCnRoZSBvbmx5IHByb2Nlc3MgbGVmdCB0byBhcHBseSB0aGUgY2hlY2sgYW5kIG11c3QgYXBwbHkgaXQgKHNlZQpgX2FyYml0ZXJfYWN0aXZlYCBiZWxvdykuIFdpdGhvdXQgaXQsIGluc3RhbGxpbmcgdGhlIHBsdWdpbiB3b3VsZCBtYWtlIGEKdG9vbCB0aGF0IGlzIHN1cHBvc2VkIHRvIGJlIGluZXJ0IHN0YXJ0IGRlY2xpbmluZyB0b29sIGNhbGxzIGluIHByb2plY3RzIHRoYXQKbmV2ZXIgb3B0ZWQgaW4sIHRoZSBmaXJzdCB0aW1lIHRoZSBXaW5kb3dzIHNoZWxsIGJvdW5kYXJ5IHRoaXMgc2hpbSBleGlzdHMgdG8KcGFwZXIgb3ZlciBoYW5kcyBvdmVyIGFuIGVtcHR5IG9yIHRydW5jYXRlZCBzdHJlYW0uCgpJbnNpZGUgYW4gYXJiaXRlci1lbmFibGVkIHJlcG8gdGhlIHVucm91dGFibGUgcGF0aCBmYWlscyBDTE9TRUQsIG1hdGNoaW5nIHRoZQpwcmUtZXhpc3RpbmcgdGltZWQtb3V0LXN0ZGluIGxlZyBiZWxvdy4gVHdvIHJlYXNvbnMsIGJvdGggc3BlY2lmaWMgdG8gdGhpcwpmaWxlOgoKICAqIFRoZXJlIGlzIG5vIHNhZmUgZ3VhcmQgdG8gZGlzcGF0Y2guIFJvdXRpbmcgaXMgYSBmdW5jdGlvbiBvZiBgdG9vbF9uYW1lYDsKICAgIHdpdGhvdXQgYSByZWFkYWJsZSBvbmUgdGhlIGFkYXB0ZXIgd291bGQgaGF2ZSB0byBndWVzcyBiZXR3ZWVuIHRoZSB3cml0ZQogICAgYW5kIGV4ZWMgZ2F0ZXMsIGFuZCB0aGUgcHJlLWZpeCBjb2RlIGd1ZXNzZWQgcHJlLWJhc2gucHkgZm9yIGV2ZXJ5CiAgICB1bnJlYWRhYmxlIHBheWxvYWQg4oCUIHNvIGFuIHVucmVhZGFibGUgYGFwcGx5X3BhdGNoYCBza2lwcGVkIHRoZSB3cml0ZQogICAgZ2F0ZSBlbnRpcmVseS4KICAqIERpc3BhdGNoaW5nIGFueXdheSBsYXVuZGVycyB0aGUgZmFpbHVyZSBpbnRvIGEgc2lsZW50IGFsbG93LgogICAgYF9ob29rbGliLnJlYWRfaW5wdXQoKWAgZmFpbHMgT1BFTiBvbiBhbiB1bnJlYWRhYmxlIHBheWxvYWQgYnkgZXhwbGljaXQsCiAgICBkb2N1bWVudGVkIGRlc2lnbiAod2FybiArIHByb2NlZWQgd2l0aG91dCBlbmZvcmNlbWVudCksIGZvciBhIG1hbGZvcm1lZAogICAgU0hBUEUgYXMgd2VsbCBhcyBtYWxmb3JtZWQgc3ludGF4LiBUaGF0IGV4Y2VwdGlvbiBpcyBjb3JyZWN0IGF0IHRoZSBHVUFSRAogICAgbGF5ZXIsIHdoaWNoIGhhcyBhbHJlYWR5IGJlZW4gaGFuZGVkIGEgcGF5bG9hZCB0aGUgaG9zdCBwcm9kdWNlZC4gRmVlZGluZwogICAgaXQgaW5wdXQgdGhlIGFkYXB0ZXIgaXRzZWxmIGNvdWxkIG5vdCB2YWxpZGF0ZSB3b3VsZCBjb252ZXJ0ICJjb2RlQXJiaXRlcgogICAgY291bGQgbm90IHJlYWQgdGhpcyIgaW50byAiY29kZUFyYml0ZXIgYWxsb3dlZCB0aGlzIiwgd2hpY2ggaXMgZXhhY3RseSB0aGUKICAgIG91dGNvbWUgdGhlIGd1YXJkcyBleGlzdCB0byBwcmV2ZW50LgoKICAgIFRoZSB0d28gZGlyZWN0aW9ucyBhcmUgYSBkZWxpYmVyYXRlIGFzeW1tZXRyeSwgbm90IGRyaWZ0LCBhbmQgQURSLTAwMjAKICAgICgiSG9vayBpbnB1dCBmYWlscyBvcGVuIG9uIG1hbGZvcm1lZCBzaGFwZSBhcyB3ZWxsIGFzIG1hbGZvcm1lZCBzeW50YXgiKQogICAgaXMgd2hlcmUgaXQgaXMgd3JpdHRlbiBkb3duOiB0aGlzIGZpbGUgaXMgYSBST1VURVIsIHNvIGEgcGF5bG9hZCBpdCBjYW5ub3QKICAgIHJvdXRlIGlzIG9uZSBpdCBjYW5ub3QgcHJvdmUgc2FmZTsgYSBndWFyZCB0aGF0IGNhbm5vdCBwYXJzZSBpdHMgb3duIGlucHV0CiAgICBpcyBhIGRpZmZlcmVudCBjYXNlLiBUaGUgcmVmdXNhbCBoZXJlIGlzIGFkZGl0aW9uYWxseSBkb3JtYW5jeS1hd2FyZSDigJQgaW4gYQogICAgcmVwb3NpdG9yeSB0aGF0IG5ldmVyIG9wdGVkIGludG8gY29kZUFyYml0ZXIgaXQgcGFzc2VzIHRocm91Z2ggdW50b3VjaGVkIOKAlAogICAgc28gZmFpbGluZyBjbG9zZWQgY2Fubm90IGJyZWFrIHVucmVsYXRlZCBwcm9qZWN0cy4KClRoZSBlbWl0dGVkIHJlYXNvbiBpcyBhIHNob3J0IGRldGVybWluaXN0aWMgZGlhZ25vc3RpYy4gSXQgbmV2ZXIgY2FycmllcyB0aGUKcGF5bG9hZCB0ZXh0IG9yIGFuIGV4Y2VwdGlvbiByZW5kZXJpbmc6IGl0IGlzIHVzZXItZmFjaW5nIGluIENvZGV4J3MgVUksIGFuZApiZWZvcmUgdGhpcyBjb250cmFjdCBleGlzdGVkIHRoZSBmYWlsdXJlIHN1cmZhY2VkIGFzIGFuIEF0dHJpYnV0ZUVycm9yCnRyYWNlYmFjayB3aXRoIG5vIGRlY2lzaW9uIGVtaXR0ZWQgYXQgYWxsLgoiIiIKCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCmltcG9ydCB0aHJlYWRpbmcKCgpTVERJTl9USU1FT1VUX1NFQ09ORFMgPSA1CgojICMzMDYgcmVvcGVuOiB0aGUgc3RkaW4gYm91bmQgYWJvdmUgb25seSBjbG9zZXMgdGhlIElOQ09NUExFVEUtU1RSRUFNIGxlZy4KIyBPbmNlIGEgcGF5bG9hZCByb3V0ZXMsIHRoZSBhZGFwdGVyIHdhaXRzIG9uIHRoZSBndWFyZCBTWU5DSFJPTk9VU0xZIHdpdGggbm8KIyB3YWxsLWNsb2NrIGJvdW5kOyBpZiB0aGUgZ3VhcmQgc3RhbGxzIChvciBDb2RleCDigJQgdGhlIGFkYXB0ZXIncyBvd24gcGFyZW50CiMg4oCUIGlzIGtpbGxlZCBvciBnaXZlcyB1cCBtaWQtd2FpdCksIGJvdGggcHJvY2Vzc2VzIGFyZSBvcnBoYW5lZCBhbmQgc3Vydml2ZQojIGluZGVmaW5pdGVseSwgZXhhY3RseSBhcyB0aGUgMjAyNi0wOC0xMCBzbmFwc2hvdCByZWNvcmRlZCAoNDUgc3RyYW5kZWQKIyBhZGFwdGVyL2d1YXJkIHBhaXJzLCB+MS4xNUdCKS4gRW52LW92ZXJyaWRhYmxlIHNvIGEgdGVzdCBjYW4gcHJvdmUKIyB0ZXJtaW5hdGlvbiB3aXRob3V0IHdhaXRpbmcgb3V0IHRoZSBwcm9kdWN0aW9uIGRlZmF1bHQuCl9HVUFSRF9USU1FT1VUX0RFRkFVTFRfU0VDT05EUyA9IDMwCgoKZGVmIF9ndWFyZF90aW1lb3V0X3NlY29uZHMoKToKICAgICIiIkEgbWFsZm9ybWVkIG92ZXJyaWRlIG11c3Qgbm90IGNyYXNoIHRoZSBhZGFwdGVyIGF0IGltcG9ydCB0aW1lIOKAlCB0aGF0CiAgICB3b3VsZCB0dXJuIGEgYnVnIGluIGFuICpvYnNlcnZhYmlsaXR5KiBrbm9iIGludG8gYSBoYXJkIGZhaWx1cmUgb2YgZXZlcnkKICAgIHRvb2wgY2FsbCwgdGhlIG9wcG9zaXRlIG9mIHRoaXMgZmlsZSdzIGZhaWwtY2xvc2VkLWJ1dC1uZXZlci1jcmFzaAogICAgcG9zdHVyZS4gRmFsbHMgYmFjayB0byB0aGUgcHJvZHVjdGlvbiBkZWZhdWx0IG9uIGFueSBwYXJzZSBmYWlsdXJlLiIiIgogICAgcmF3ID0gb3MuZW52aXJvbi5nZXQoIkNPREVBUkJJVEVSX0NPREVYX0dVQVJEX1RJTUVPVVRfU0VDT05EUyIpCiAgICBpZiByYXcgaXMgTm9uZToKICAgICAgICByZXR1cm4gX0dVQVJEX1RJTUVPVVRfREVGQVVMVF9TRUNPTkRTCiAgICB0cnk6CiAgICAgICAgcmV0dXJuIGZsb2F0KHJhdykKICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgIHJldHVybiBfR1VBUkRfVElNRU9VVF9ERUZBVUxUX1NFQ09ORFMKCgpHVUFSRF9USU1FT1VUX1NFQ09ORFMgPSBfZ3VhcmRfdGltZW91dF9zZWNvbmRzKCkKCiMgdG9vbF9uYW1lIHZhbHVlcyBDb2RleCByZXBvcnRzIGZvciB0aGUgYXBwbHlfcGF0Y2ggZW52ZWxvcGUgKFdyaXRlL0VkaXQgYXJlCiMgbWF0Y2hlci1vbmx5IGFsaWFzZXMgY2FycnlpbmcgdGhlIHNhbWUgcGF5bG9hZCkuIFRoaXMgaXMgYSBkZWxpYmVyYXRlIGxvY2FsCiMgY29weSBvZiBDb2RleEhvc3QuX1BBVENIX1RPT0xTIC8gdGhlICJXUklURSIgZW50cmllcyBvZiBDb2RleEhvc3QuVE9PTF9NQVAKIyAoaG9va3MvX2hvc3QucHkpOiByb3V0aW5nIGhhcHBlbnMgYmVmb3JlIOKAlCBhbmQgd2l0aG91dCDigJQgdGhlIHNoYXJlZCBsaWJyYXJ5CiMgaW1wb3J0LCBzbyB0aGUgYWRhcHRlciBjYW5ub3QgYXNrIHRoZSBIb3N0IGZvciBpdC4gVGhlIGNvcHkgaXMgaGVsZCB0byB0aGUKIyBjYW5vbmljYWwgc2V0IGJ5IFRlc3RQcmVUb29sQWRhcHRlcldyaXRlVG9vbFNldCBpbgojIC5naXRodWIvc2NyaXB0cy90ZXN0X2NvZGV4X2FkYXB0ZXIucHksIHdoaWNoIGZhaWxzIGlmIHRoZSB0d28gZXZlciBkaXZlcmdlLgpXUklURV9UT09MUyA9IGZyb3plbnNldCh7ImFwcGx5X3BhdGNoIiwgIldyaXRlIiwgIkVkaXQifSkKCgpkZWYgX3JlYWRfc3RkaW5fYm91bmRlZCgpOgogICAgcmVzdWx0ID0gW10KCiAgICBkZWYgcmVhZCgpOgogICAgICAgIHJlc3VsdC5hcHBlbmQoc3lzLnN0ZGluLnJlYWQoKSkKCiAgICByZWFkZXIgPSB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1yZWFkLCBkYWVtb249VHJ1ZSkKICAgIHJlYWRlci5zdGFydCgpCiAgICByZWFkZXIuam9pbihTVERJTl9USU1FT1VUX1NFQ09ORFMpCiAgICByZXR1cm4gcmVzdWx0WzBdIGlmIHJlc3VsdCBlbHNlIE5vbmUKCgpkZWYgX2RlY2xpbmUoZGlhZ25vc3RpYyk6CiAgICAiIiJFbWl0IENvZGV4J3Mgc3RydWN0dXJlZCBibG9jayBkZWNpc2lvbjsgZGlzcGF0Y2ggbm8gZ3VhcmQuIEFsd2F5cyAwLiIiIgogICAgcHJpbnQoanNvbi5kdW1wcyh7CiAgICAgICAgImRlY2lzaW9uIjogImJsb2NrIiwKICAgICAgICAicmVhc29uIjogZiJCbG9ja2VkIGJ5IGNvZGVBcmJpdGVyIHBvbGljeToge2RpYWdub3N0aWN9IiwKICAgIH0pKQogICAgcmV0dXJuIDAKCgpkZWYgX3JvdXRlKHJhdyk6CiAgICAiIiIoc2NyaXB0LCBkaWFnbm9zdGljKSBmb3IgdGhlIGRlY29kZWQgcGF5bG9hZCDigJQgZXhhY3RseSBvbmUgaXMgTm9uZS4iIiIKICAgIGlmIHJhdyBpcyBOb25lOgogICAgICAgIHJldHVybiBOb25lLCAiaW5jb21wbGV0ZSBob29rIHBheWxvYWQiCiAgICBpZiBub3QgcmF3LnN0cmlwKCk6CiAgICAgICAgcmV0dXJuIE5vbmUsICJlbXB0eSBob29rIHBheWxvYWQiCiAgICB0cnk6CiAgICAgICAgcGF5bG9hZCA9IGpzb24ubG9hZHMocmF3KQogICAgZXhjZXB0IChUeXBlRXJyb3IsIFZhbHVlRXJyb3IpOgogICAgICAgIHJldHVybiBOb25lLCAidW5wYXJzZWFibGUgaG9vayBwYXlsb2FkIgogICAgaWYgbm90IGlzaW5zdGFuY2UocGF5bG9hZCwgZGljdCk6CiAgICAgICAgIyBCb3VuZGVkIGJ5IGNvbnN0cnVjdGlvbjogYSB0eXBlIG5hbWUsIG5ldmVyIHRoZSBwYXlsb2FkIGNvbnRlbnRzLgogICAgICAgIHJldHVybiBOb25lLCBmInVuZXhwZWN0ZWQgaG9vayBwYXlsb2FkIHR5cGU6IHt0eXBlKHBheWxvYWQpLl9fbmFtZV9ffSIKICAgIHRvb2xfbmFtZSA9IHBheWxvYWQuZ2V0KCJ0b29sX25hbWUiLCAiIikKICAgIGlmIG5vdCBpc2luc3RhbmNlKHRvb2xfbmFtZSwgc3RyKToKICAgICAgICAjIFVuaGFzaGFibGUgdmFsdWVzIHJhaXNlIGZyb20gdGhlIFdSSVRFX1RPT0xTIG1lbWJlcnNoaXAgdGVzdCwgYW5kIGEKICAgICAgICAjIHdyb25nLXR5cGVkIHRvb2xfbmFtZSBtYWtlcyB0aGUgd3JpdGUtdnMtZXhlYyBjaG9pY2UgdW5rbm93YWJsZS4KICAgICAgICByZXR1cm4gTm9uZSwgZiJ1bmV4cGVjdGVkIHRvb2xfbmFtZSB0eXBlOiB7dHlwZSh0b29sX25hbWUpLl9fbmFtZV9ffSIKICAgIHJldHVybiAoInByZS13cml0ZS5weSIgaWYgdG9vbF9uYW1lIGluIFdSSVRFX1RPT0xTIGVsc2UgInByZS1iYXNoLnB5IiksIE5vbmUKCgpkZWYgX2FyYml0ZXJfYWN0aXZlKCk6CiAgICAiIiJEaWQgdGhpcyByZXBvIG9wdCBpbnRvIGNvZGVBcmJpdGVyIChgYXJiaXRlcjogZW5hYmxlZGAgaW4gQ09OVEVYVC5tZCk/CgogICAgQW5zd2VyZWQgdGhyb3VnaCB0aGUgU0hBUkVEIGhlbHBlcnMgZXZlcnkgZ3VhcmQgdXNlcywgbmV2ZXIgYSBsb2NhbCBjb3B5CiAgICBvZiB0aGUgZnJvbnRtYXR0ZXIgcGFyc2VyOiBjb3JlL2FjdGl2YXRpb24tY29udHJhY3QuanNvbiBuYW1lcwogICAgYF9ob29rbGliLmZyb250bWF0dGVyX2VuYWJsZWRfdGV4dGAgdGhlIE9ORSBjYW5vbmljYWwgcGFyc2VyLCBhbmQgYSBzZWNvbmQKICAgIGltcGxlbWVudGF0aW9uIGhlcmUgY291bGQgZGlzYWdyZWUgd2l0aCB0aGUgZ3VhcmRzIGFib3V0IHdoYXQgImVuYWJsZWQiCiAgICBtZWFucyDigJQgZXhhY3RseSB0aGUgZHJpZnQgdGhhdCBjb250cmFjdCBleGlzdHMgdG8gcHJldmVudC4KCiAgICBUYWtlcyBubyBwYXlsb2FkLCBhbmQgTVVTVCBiZSBjYWxsZWQgYmVmb3JlIHN0ZGluIGlzIHJlYWQg4oCUIHNlZSBtYWluKCkuCgogICAgQW4gSU5ERVRFUk1JTkFURSBhbnN3ZXIg4oCUIHRoZSBzaGFyZWQgbGlicmFyeSBvciB0aGUgcGx1Z2luJ3MgSG9zdCB3aWxsIG5vdAogICAgaW1wb3J0LCBpLmUuIGEgYnJva2VuIGluc3RhbGwg4oCUIGNvdW50cyBhcyBBQ1RJVkUsIHNvIHRoZSBjYWxsZXIgZmFpbHMKICAgIGNsb3NlZC4gVGhlIGd1YXJkcyB0aGlzIGFkYXB0ZXIgZGlzcGF0Y2hlcyBpbXBvcnQgdGhvc2UgdmVyeSBzYW1lIG1vZHVsZXMsCiAgICBzbyBhbiBpbnN0YWxsIHRoYXQgY2Fubm90IGFuc3dlciB0aGUgYWN0aXZhdGlvbiBxdWVzdGlvbiBjYW5ub3QgZW5mb3JjZQogICAgYW55dGhpbmcgZWl0aGVyOyByZXR1cm5pbmcgRmFsc2UgdGhlcmUgd291bGQgY29udmVydCBhIGJyb2tlbiBpbnN0YWxsIGludG8KICAgIGEgc2lsZW50IGFsbG93LCB3aGljaCBpcyB0aGUgInNpbGVudCBkb3JtYW5jeSIgZmFpbHVyZSBtb2RlIHRoZSB3aG9sZSBob29rCiAgICBsYXllciAoYW5kIC5naXRodWIvc2NyaXB0cy90ZXN0X2hvb2tzX2NvbGRfaW5zdGFsbC5weSkgZXhpc3RzIHRvIHByZXZlbnQuCiAgICAiIiIKICAgIHRyeToKICAgICAgICBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQogICAgICAgIGZyb20gX2hvb2tsaWIgaW1wb3J0IGFyYml0ZXJfYWN0aXZlLCBwcm9qZWN0X3Jvb3QgICMgbm9xYTogUExDMDQxNQogICAgICAgIHJldHVybiBhcmJpdGVyX2FjdGl2ZShwcm9qZWN0X3Jvb3QoKSkKICAgIGV4Y2VwdCBFeGNlcHRpb246ICAjIG5vcWE6IEJMRTAwMSDigJQgaW5kZXRlcm1pbmF0ZSA9PSBhY3RpdmU7IHNlZSBkb2NzdHJpbmcKICAgICAgICByZXR1cm4gVHJ1ZQoKCmRlZiBtYWluKCk6CiAgICAjIFJlc29sdmVkIEJFRk9SRSBzdGRpbiBpcyB0b3VjaGVkLCBhbmQgZGVsaWJlcmF0ZWx5IHdpdGhvdXQgdGhlIHBheWxvYWQuCiAgICAjIFR3byBjb25zdHJhaW50cyBmb3JjZSBpdCBoZXJlOgogICAgIwogICAgIyAgICogcHJvamVjdF9yb290KCkgc3Bhd25zIGBnaXQgcmV2LXBhcnNlYC4gT25jZSB0aGUgYm91bmRlZCByZWFkIGJlbG93CiAgICAjICAgICB0aW1lcyBvdXQsIGl0cyByZWFkZXIgdGhyZWFkIGlzIFNUSUxMIGJsb2NrZWQgb24gc3RkaW4sIGFuZCBhIGNoaWxkCiAgICAjICAgICB0aGF0IGluaGVyaXRzIHRoYXQgc3RkaW4gdGhlbiBuZXZlciByZXR1cm5zIOKAlCBtZWFzdXJlZCBvbiBXaW5kb3dzOgogICAgIyAgICAgYGdpdCByZXYtcGFyc2UgLS1zaG93LXRvcGxldmVsYCBoYW5ncyB1bnRpbCBpdHMgb3duIHRpbWVvdXQgZmlyZXMKICAgICMgICAgIGluc3RlYWQgb2YgZmluaXNoaW5nIGluIH4yMG1zLiBTbyB0aGUgbGVnIHRoYXQgbW9zdCBuZWVkcyB0aGUKICAgICMgICAgIGFjdGl2YXRpb24gYW5zd2VyIChhbiBpbmNvbXBsZXRlIHN0cmVhbSkgaXMgdGhlIG9uZSBsZWcgdGhhdCBjYW5ub3QKICAgICMgICAgIG9idGFpbiBpdCBhZnRlcndhcmRzLgogICAgIyAgICogdGhlIHRpbWVvdXQgbGVnIG11c3QgYWxzbyBsZWF2ZSBOTyBkZXNjZW5kYW50IHByb2Nlc3MgYmVoaW5kCiAgICAjICAgICAoVGVzdFByZVRvb2xBZGFwdGVyTGlmZWN5Y2xlKSwgd2hpY2ggc3Bhd25pbmcgZ2l0IGFmdGVyIHRoZSBmYWN0CiAgICAjICAgICB3b3VsZCB2aW9sYXRlLgogICAgIwogICAgIyBEcm9wcGluZyB0aGUgcGF5bG9hZCdzIGBjd2RgIGxlZyBjb3N0cyBub3RoaW5nIGhlcmU6IENvZGV4IHJ1bnMgaXRzIGhvb2tzCiAgICAjIElOIHRoZSBzZXNzaW9uIGN3ZCBhbmQgbWVyZWx5IHJlcGVhdHMgdGhhdCBjd2QgaW4gdGhlIHBheWxvYWQKICAgICMgKGhvb2tzL19ob3N0LnB5KSwgc28gQ29kZXhIb3N0LnByb2plY3Rfcm9vdCdzIHBheWxvYWQgbGVnIGFuZCBpdHMKICAgICMgcHJvY2Vzcy1jd2QgbGVnIGNsaW1iIHRvIHRoZSBzYW1lIGdpdCB0b3BsZXZlbC4KICAgIGFjdGl2ZSA9IF9hcmJpdGVyX2FjdGl2ZSgpCiAgICByYXcgPSBfcmVhZF9zdGRpbl9ib3VuZGVkKCkKICAgIHNjcmlwdCwgZGlhZ25vc3RpYyA9IF9yb3V0ZShyYXcpCiAgICBpZiBzY3JpcHQgaXMgTm9uZToKICAgICAgICAjIEEgZG9ybWFudCByZXBvIOKAlCBvbmUgdGhhdCBuZXZlciBvcHRlZCBpbiDigJQgc2VlcyBOTyBhY3Rpb24gYXQgYWxsOiBubwogICAgICAgICMgZGVjaXNpb24sIG5vIGd1YXJkLCBubyBvdXRwdXQuIEZhaWxpbmcgY2xvc2VkIGlzIGEgcHJvbWlzZSBtYWRlIHRvCiAgICAgICAgIyByZXBvcyB0aGF0IG9wdGVkIGluLCBub3QgYSBsaWNlbmNlIHRvIGludGVyZmVyZSB3aXRoIHRoZSByZXN0LgogICAgICAgIHJldHVybiBfZGVjbGluZShkaWFnbm9zdGljKSBpZiBhY3RpdmUgZWxzZSAwCiAgICB0cnk6CiAgICAgICAgcmVzdWx0ID0gc3VicHJvY2Vzcy5ydW4oCiAgICAgICAgICAgIFtzeXMuZXhlY3V0YWJsZSwgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksIHNjcmlwdCldLAogICAgICAgICAgICBpbnB1dD1yYXcsCiAgICAgICAgICAgIHRleHQ9VHJ1ZSwKICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwKICAgICAgICAgICAgdGltZW91dD1HVUFSRF9USU1FT1VUX1NFQ09ORFMsCiAgICAgICAgKQogICAgZXhjZXB0IHN1YnByb2Nlc3MuVGltZW91dEV4cGlyZWQ6CiAgICAgICAgIyBzdWJwcm9jZXNzLnJ1biBraWxscyB0aGUgY2hpbGQgYW5kIHJlYXBzIGl0IGJlZm9yZSByYWlzaW5nLCBzbyB0aGUKICAgICAgICAjIHJvdXRlZCBndWFyZCBkb2VzIG5vdCBzdXJ2aXZlIHRoaXMgbGVnIOKAlCBzZWUgR1VBUkRfVElNRU9VVF9TRUNPTkRTLgogICAgICAgICMgTm8gdmVyZGljdCB3YXMgcHJvZHVjZWQ7IGZhaWwgY2xvc2VkIHRoZSBzYW1lIHdheSBhbiB1bnJvdXRhYmxlCiAgICAgICAgIyBwYXlsb2FkIGRvZXMuCiAgICAgICAgcmV0dXJuIF9kZWNsaW5lKGYie3NjcmlwdH0gZGlkIG5vdCBjb21wbGV0ZSB3aXRoaW4ge0dVQVJEX1RJTUVPVVRfU0VDT05EUzpnfXMiKQogICAgaWYgcmVzdWx0LnJldHVybmNvZGUgPT0gMjoKICAgICAgICByZWFzb24gPSByZXN1bHQuc3RkZXJyLnN0cmlwKCkgb3IgIkJsb2NrZWQgYnkgY29kZUFyYml0ZXIgcG9saWN5IgogICAgICAgIHByaW50KGpzb24uZHVtcHMoeyJkZWNpc2lvbiI6ICJibG9jayIsICJyZWFzb24iOiByZWFzb259KSkKICAgICAgICByZXR1cm4gMAogICAgc3lzLnN0ZG91dC53cml0ZShyZXN1bHQuc3Rkb3V0KQogICAgc3lzLnN0ZGVyci53cml0ZShyZXN1bHQuc3RkZXJyKQogICAgcmV0dXJuIHJlc3VsdC5yZXR1cm5jb2RlCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJhaXNlIFN5c3RlbUV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""Preserve shared exit-2 guards across Codex's Windows shell boundary.
+
+Payload contract (#409): Codex delivers exactly ONE JSON *object* on stdin,
+and the adapter routes it by `tool_name` to the shared pre-write / pre-bash
+guard. Anything the adapter cannot route — a stream that never closed, an
+empty stream, invalid JSON, a valid JSON top level that is not an object
+(null / array / string / number / bool), or a present-but-wrong-typed
+`tool_name` — goes through ONE bounded handling path: emit the documented
+`decision: block` response, exit 0, dispatch no guard.
+
+That path runs ONLY in an arbiter-enabled repo. codeArbiter is dormant
+wherever `.codearbiter/CONTEXT.md` does not carry `arbiter: enabled`, and the
+contract for a dormant repo is total inaction — no exit 2, no stdout, no
+decision. Every guard enforces that itself as its first statement; this
+adapter short-circuits BEFORE any guard runs, so on the unroutable path it is
+the only process left to apply the check and must apply it (see
+`_arbiter_active` below). Without it, installing the plugin would make a
+tool that is supposed to be inert start declining tool calls in projects that
+never opted in, the first time the Windows shell boundary this shim exists to
+paper over hands over an empty or truncated stream.
+
+Inside an arbiter-enabled repo the unroutable path fails CLOSED, matching the
+pre-existing timed-out-stdin leg below. Two reasons, both specific to this
+file:
+
+  * There is no safe guard to dispatch. Routing is a function of `tool_name`;
+    without a readable one the adapter would have to guess between the write
+    and exec gates, and the pre-fix code guessed pre-bash.py for every
+    unreadable payload — so an unreadable `apply_patch` skipped the write
+    gate entirely.
+  * Dispatching anyway launders the failure into a silent allow.
+    `_hooklib.read_input()` fails OPEN on an unreadable payload by explicit,
+    documented design (warn + proceed without enforcement), for a malformed
+    SHAPE as well as malformed syntax. That exception is correct at the GUARD
+    layer, which has already been handed a payload the host produced. Feeding
+    it input the adapter itself could not validate would convert "codeArbiter
+    could not read this" into "codeArbiter allowed this", which is exactly the
+    outcome the guards exist to prevent.
+
+    The two directions are a deliberate asymmetry, not drift, and ADR-0020
+    ("Hook input fails open on malformed shape as well as malformed syntax")
+    is where it is written down: this file is a ROUTER, so a payload it cannot
+    route is one it cannot prove safe; a guard that cannot parse its own input
+    is a different case. The refusal here is additionally dormancy-aware — in a
+    repository that never opted into codeArbiter it passes through untouched —
+    so failing closed cannot break unrelated projects.
+
+The emitted reason is a short deterministic diagnostic. It never carries the
+payload text or an exception rendering: it is user-facing in Codex's UI, and
+before this contract existed the failure surfaced as an AttributeError
+traceback with no decision emitted at all.
+"""
+
+import json
+import os
+import subprocess
+import sys
+import threading
+
+
+STDIN_TIMEOUT_SECONDS = 5
+
+# #306 reopen: the stdin bound above only closes the INCOMPLETE-STREAM leg.
+# Once a payload routes, the adapter waits on the guard SYNCHRONOUSLY with no
+# wall-clock bound; if the guard stalls (or Codex — the adapter's own parent
+# — is killed or gives up mid-wait), both processes are orphaned and survive
+# indefinitely, exactly as the 2026-08-10 snapshot recorded (45 stranded
+# adapter/guard pairs, ~1.15GB). Env-overridable so a test can prove
+# termination without waiting out the production default.
+_GUARD_TIMEOUT_DEFAULT_SECONDS = 30
+
+
+def _guard_timeout_seconds():
+    """A malformed override must not crash the adapter at import time — that
+    would turn a bug in an *observability* knob into a hard failure of every
+    tool call, the opposite of this file's fail-closed-but-never-crash
+    posture. Falls back to the production default on any parse failure."""
+    raw = os.environ.get("CODEARBITER_CODEX_GUARD_TIMEOUT_SECONDS")
+    if raw is None:
+        return _GUARD_TIMEOUT_DEFAULT_SECONDS
+    try:
+        return float(raw)
+    except ValueError:
+        return _GUARD_TIMEOUT_DEFAULT_SECONDS
+
+
+GUARD_TIMEOUT_SECONDS = _guard_timeout_seconds()
+
+# tool_name values Codex reports for the apply_patch envelope (Write/Edit are
+# matcher-only aliases carrying the same payload). This is a deliberate local
+# copy of CodexHost._PATCH_TOOLS / the "WRITE" entries of CodexHost.TOOL_MAP
+# (hooks/_host.py): routing happens before — and without — the shared library
+# import, so the adapter cannot ask the Host for it. The copy is held to the
+# canonical set by TestPreToolAdapterWriteToolSet in
+# .github/scripts/test_codex_adapter.py, which fails if the two ever diverge.
+WRITE_TOOLS = frozenset({"apply_patch", "Write", "Edit"})
+
+
+def _read_stdin_bounded():
+    result = []
+
+    def read():
+        result.append(sys.stdin.read())
+
+    reader = threading.Thread(target=read, daemon=True)
+    reader.start()
+    reader.join(STDIN_TIMEOUT_SECONDS)
+    return result[0] if result else None
+
+
+def _decline(diagnostic):
+    """Emit Codex's structured block decision; dispatch no guard. Always 0."""
+    print(json.dumps({
+        "decision": "block",
+        "reason": f"Blocked by codeArbiter policy: {diagnostic}",
+    }))
+    return 0
+
+
+def _route(raw):
+    """(script, diagnostic) for the decoded payload — exactly one is None."""
+    if raw is None:
+        return None, "incomplete hook payload"
+    if not raw.strip():
+        return None, "empty hook payload"
+    try:
+        payload = json.loads(raw)
+    except (TypeError, ValueError):
+        return None, "unparseable hook payload"
+    if not isinstance(payload, dict):
+        # Bounded by construction: a type name, never the payload contents.
+        return None, f"unexpected hook payload type: {type(payload).__name__}"
+    tool_name = payload.get("tool_name", "")
+    if not isinstance(tool_name, str):
+        # Unhashable values raise from the WRITE_TOOLS membership test, and a
+        # wrong-typed tool_name makes the write-vs-exec choice unknowable.
+        return None, f"unexpected tool_name type: {type(tool_name).__name__}"
+    return ("pre-write.py" if tool_name in WRITE_TOOLS else "pre-bash.py"), None
+
+
+def _arbiter_active():
+    """Did this repo opt into codeArbiter (`arbiter: enabled` in CONTEXT.md)?
+
+    Answered through the SHARED helpers every guard uses, never a local copy
+    of the frontmatter parser: core/activation-contract.json names
+    `_hooklib.frontmatter_enabled_text` the ONE canonical parser, and a second
+    implementation here could disagree with the guards about what "enabled"
+    means — exactly the drift that contract exists to prevent.
+
+    Takes no payload, and MUST be called before stdin is read — see main().
+
+    An INDETERMINATE answer — the shared library or the plugin's Host will not
+    import, i.e. a broken install — counts as ACTIVE, so the caller fails
+    closed. The guards this adapter dispatches import those very same modules,
+    so an install that cannot answer the activation question cannot enforce
+    anything either; returning False there would convert a broken install into
+    a silent allow, which is the "silent dormancy" failure mode the whole hook
+    layer (and .github/scripts/test_hooks_cold_install.py) exists to prevent.
+    """
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        from _hooklib import arbiter_active, project_root  # noqa: PLC0415
+        return arbiter_active(project_root())
+    except Exception:  # noqa: BLE001 — indeterminate == active; see docstring
+        return True
+
+
+def main():
+    # Resolved BEFORE stdin is touched, and deliberately without the payload.
+    # Two constraints force it here:
+    #
+    #   * project_root() spawns `git rev-parse`. Once the bounded read below
+    #     times out, its reader thread is STILL blocked on stdin, and a child
+    #     that inherits that stdin then never returns — measured on Windows:
+    #     `git rev-parse --show-toplevel` hangs until its own timeout fires
+    #     instead of finishing in ~20ms. So the leg that most needs the
+    #     activation answer (an incomplete stream) is the one leg that cannot
+    #     obtain it afterwards.
+    #   * the timeout leg must also leave NO descendant process behind
+    #     (TestPreToolAdapterLifecycle), which spawning git after the fact
+    #     would violate.
+    #
+    # Dropping the payload's `cwd` leg costs nothing here: Codex runs its hooks
+    # IN the session cwd and merely repeats that cwd in the payload
+    # (hooks/_host.py), so CodexHost.project_root's payload leg and its
+    # process-cwd leg climb to the same git toplevel.
+    active = _arbiter_active()
+    raw = _read_stdin_bounded()
+    script, diagnostic = _route(raw)
+    if script is None:
+        # A dormant repo — one that never opted in — sees NO action at all: no
+        # decision, no guard, no output. Failing closed is a promise made to
+        # repos that opted in, not a licence to interfere with the rest.
+        return _decline(diagnostic) if active else 0
+    try:
+        result = subprocess.run(
+            [sys.executable, os.path.join(os.path.dirname(__file__), script)],
+            input=raw,
+            text=True,
+            capture_output=True,
+            timeout=GUARD_TIMEOUT_SECONDS,
+        )
+    except subprocess.TimeoutExpired:
+        # subprocess.run kills the child and reaps it before raising, so the
+        # routed guard does not survive this leg — see GUARD_TIMEOUT_SECONDS.
+        # No verdict was produced; fail closed the same way an unroutable
+        # payload does.
+        return _decline(f"{script} did not complete within {GUARD_TIMEOUT_SECONDS:g}s")
+    if result.returncode == 2:
+        reason = result.stderr.strip() or "Blocked by codeArbiter policy"
+        print(json.dumps({"decision": "block", "reason": reason}))
+        return 0
+    sys.stdout.write(result.stdout)
+    sys.stderr.write(result.stderr)
+    return result.returncode
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

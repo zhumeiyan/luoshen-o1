@@ -1,1 +1,88 @@
-aW1wb3J0IGpzb24sIG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYiBpbXBvcnQgZm9udF9tYW5hZ2VyCgpmb3IgZiBpbiBbIldlblF1YW5ZaSBNaWNybyBIZWkiLCAiTm90byBTYW5zIENKSyBTQyIsICJTaW1IZWkiXToKICAgIHRyeToKICAgICAgICBmb250X21hbmFnZXIuZmluZGZvbnQoZiwgZmFsbGJhY2tfdG9fZGVmYXVsdD1GYWxzZSkKICAgICAgICBwbHQucmNQYXJhbXNbImZvbnQuc2Fucy1zZXJpZiJdID0gW2ZdCiAgICAgICAgYnJlYWsKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgY29udGludWUKcGx0LnJjUGFyYW1zWyJheGVzLnVuaWNvZGVfbWludXMiXSA9IEZhbHNlCgpPVVQgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZmlnLzA4OV9hZ2VuY3kucG5nIgpkMiA9IGpzb24ubG9hZChvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAwODlfYWdlbmN5L3Jlc3VsdF8wODkuanNvbiIpKQpkcCA9IGpzb24ubG9hZChvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAwODlfYWdlbmN5L3Jlc3VsdF8wODlfcGFpci5qc29uIikpCmRkID0ganNvbi5sb2FkKG9wZW4oIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDA4OV9hZ2VuY3kvcmVzdWx0XzA4OV9kZXByaXZhdGlvbi5qc29uIikpCgpmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKDIsIDIsIGZpZ3NpemU9KDE0LCA5LjUpKQoKIyAtLS0tLS0tLS0tICgxKSDmk43mjqcgw5cg5Yet6K+BIC0tLS0tLS0tLS0KYSA9IGF4WzAsIDBdCmxhYmVscyA9IFsiQSDmk43kvZxcbivlh63or4EiLCAiQiDmk43kvZxcbivplJnlh63or4EiLCAiQyDpm7bmk43kvZxcbivlh63or4EiLCAiRCDpm7bmk43kvZxcbuaXoOWHreivgSJdCmVudCA9IFtkMlsiQV9vcGVyYXRlX3JpZ2h0X2NyZWQiXVsiZW50ZXJlZCJdLCBkMlsiQl9vcGVyYXRlX3dyb25nX2NyZWQiXVsiZW50ZXJlZCJdLAogICAgICAgZDJbIkNfemVyb29wX3JpZ2h0X2NyZWQiXVsiZW50ZXJlZCJdLCBkMlsiRF96ZXJvb3Bfbm9fY3JlZCJdWyJlbnRlcmVkIl1dCm9wcyA9IFtkMlsiQV9vcGVyYXRlX3JpZ2h0X2NyZWQiXVsib3BzIl0sIGQyWyJCX29wZXJhdGVfd3JvbmdfY3JlZCJdWyJvcHMiXSwgMCwgMF0KY29scyA9IFsiIzJlOGI1NyIgaWYgZSBlbHNlICIjYjAzMDMwIiBmb3IgZSBpbiBlbnRdCmEuYmFyKGxhYmVscywgWzEgaWYgZSBlbHNlIDAgZm9yIGUgaW4gZW50XSwgY29sb3I9Y29scykKYS5zZXRfeWxpbSgwLCAxLjI1KQphLnNldF95bGFiZWwoIui/m+WFpSAoMT3miJDlip8pIikKZm9yIGksIChlLCBvKSBpbiBlbnVtZXJhdGUoemlwKGVudCwgb3BzKSk6CiAgICBhLnRleHQoaSwgMS4wNSwgIum8oOagh+WKqOS9nD0lZCIgJSBvLCBoYT0iY2VudGVyIiwgZm9udHNpemU9OSkKICAgIGEudGV4dChpLCAwLjUsICJPSyIgaWYgZSBlbHNlICI0MDMiLCBoYT0iY2VudGVyIiwgY29sb3I9InciLCBmb250c2l6ZT0xMiwgZm9udHdlaWdodD0iYm9sZCIpCmEuc2V0X3RpdGxlKCLikaAg5pON5o6nIMOXIOWHreivge+8mue7k+aenOeUseWHreivgeWGs+WumlxuQS9CIOWKqOS9nOW6j+WIl+mAkOS9jeebuOWQjCg15q2lKe+8jOe7k+aenOebuOWPjSIsIGZvbnRzaXplPTExKQoKIyAtLS0tLS0tLS0tICgyKSDphY3lr7nljY/orq4gLS0tLS0tLS0tLQphID0gYXhbMCwgMV0Kc3RlcHMgPSBbIuaIkeeUs+ivt1xuY2hhbGxlbmdlIiwgIuaIkeiHquW3seaJueWHhiIsICLnirbmgIEiLCAi5oyB5pyJ5Yet6K+B5pa5XG7mibnlh4YiLCAi54q25oCBIl0KdmFscyA9IFswLjUsIDAsIDAsIDEsIDFdCmNvbHMyID0gWyIjODg4IiwgIiNiMDMwMzAiLCAiI2IwMzAzMCIsICIjMmU4YjU3IiwgIiMyZThiNTciXQphLmJhcihzdGVwcywgdmFscywgY29sb3I9Y29sczIpCmEuc2V0X3lsaW0oMCwgMS4zKQphLnNldF95bGFiZWwoImdyYW50ZWQ9MSIpCmZvciBpLCB2IGluIGVudW1lcmF0ZSh2YWxzKToKICAgIGEudGV4dChpLCB2ICsgMC4wNiwgezAuNTogInBlbmRpbmciLCAwOiAiNDAzIFJFSkVDVEVEIiwgMTogImdyYW50ZWQifVt2XSwKICAgICAgICAgICBoYT0iY2VudGVyIiwgZm9udHNpemU9OSkKYS5zZXRfdGl0bGUoIuKRoSDphY3lr7nljY/orq7lpI3njrDvvIjkuKTova7kuIDoh7TvvIlcbueUs+ivt+iAheaXoOazleaJueWHhuiHquW3sSDigJQg5Y2P6K6u57qm5p2f77yM6Z2e6IO95Yqb6Zeu6aKYIiwgZm9udHNpemU9MTEpCgojIC0tLS0tLS0tLS0gKDMpIOaEn+WumOWJpeWkuiAyeDLvvJrlrZjmtLsgLS0tLS0tLS0tLQphID0gYXhbMSwgMF0KYyA9IGRkWyJjb25kcyJdCm5hbWVzID0gWyJBIOacrOS9kyvlpJbmupAiLCAiQiDmnKzkvZMr5aSW5rqQ5YWzXG4o546w5Zyo55yf5a6e54q25oCBKSIsICJDIOacrOS9k+WFsyvlpJbmupAiLCAiRCDlhajnm7IiXQpzdXJ2ID0gW10KZm9yIGsgaW4gWyJBX3Byb3ByaW8xX2V4dGVybzEiLCAiQl9wcm9wcmlvMV9leHRlcm8wIiwgIkNfcHJvcHJpbzBfZXh0ZXJvMSIsICJEX3Byb3ByaW8wX2V4dGVybzAiXToKICAgIG4sIG0gPSBjW2tdWyJzdXJ2Il0uc3BsaXQoIi8iKQogICAgc3Vydi5hcHBlbmQoaW50KG4pIC8gaW50KG0pICogMTAwKQpjb2xzMyA9IFsiIzRhN2ViYiIsICIjMmU4YjU3IiwgIiM0YTdlYmIiLCAiI2IwMzAzMCJdCmIgPSBhLmJhcihuYW1lcywgc3VydiwgY29sb3I9Y29sczMpCmEuc2V0X3lsYWJlbCgi5a2Y5rS7546HICUiKQphLnNldF95bGltKDAsIDEwMCkKZm9yIGksIChrLCB2KSBpbiBlbnVtZXJhdGUoemlwKFsiQV9wcm9wcmlvMV9leHRlcm8xIiwgIkJfcHJvcHJpbzFfZXh0ZXJvMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkNfcHJvcHJpbzBfZXh0ZXJvMSIsICJEX3Byb3ByaW8wX2V4dGVybzAiXSwgc3VydikpOgogICAgYS50ZXh0KGksIHYgKyAyLCBjW2tdWyJzdXJ2Il0sIGhhPSJjZW50ZXIiLCBmb250c2l6ZT05KQphLnRleHQoMywgMTIsICLlgY/luqYwLjcyXG495q275Lqh562b6YCJXG7kuI3lj6/mr5QiLCBoYT0iY2VudGVyIiwgZm9udHNpemU9OCwgY29sb3I9IiNiMDMwMzAiKQphLnNldF90aXRsZSgi4pGiIOecn+WunuWPkeeUn+eahOaEn+WumOWJpeWkuu+8muWklua6kOW3suWFs++8jOacrOS9k+S7jeWcqOe6v1xu5a2Y5rS7546H5LiN5Y+X5aSW5rqQ5pyJ5peg5b2x5ZONIiwgZm9udHNpemU9MTEpCgojIC0tLS0tLS0tLS0gKDQpIEItQSDphY3lr7nlt64gLS0tLS0tLS0tLQphID0gYXhbMSwgMV0KcCA9IGNbIkJfbWludXNfQV9wYWlyZWQiXQphLmJhcmgoWzBdLCBbcFsiZGVsdGEiXV0sIGNvbG9yPSIjMmU4YjU3IiwgaGVpZ2h0PTAuNCkKYS5lcnJvcmJhcihbcFsiZGVsdGEiXV0sIFswXSwgeGVycj1bW3BbImRlbHRhIl0gLSBwWyJjaV9sbyJdXSwgW3BbImNpX2hpIl0gLSBwWyJkZWx0YSJdXV0sCiAgICAgICAgICAgY29sb3I9ImsiLCBjYXBzaXplPTYsIGx3PTEuNikKYS5heHZsaW5lKDAsIGNvbG9yPSIjYjAzMDMwIiwgbHM9Ii0tIiwgbHc9MS42KQphLnNldF95dGlja3MoWzBdKQphLnNldF95dGlja2xhYmVscyhbIkIg4oiSIEFcbijliaXlpLrlpJbmupAg4oiSIOacieWklua6kCkiXSkKYS5zZXRfeGxhYmVsKCLnu5PmnoTlgY/luqblt64iKQphLnNldF94bGltKC0wLjAzLCAwLjAzKQphLnRleHQoMCwgLTAuNDUsICLOlD0lKy40ZiAgOTUlJUNJIFslLjRmLCAlLjRmXSDot6gwIOKGkiDml6Dlt67lvIJcbm5fY29tbW9uPSVkIgogICAgICAgJSAocFsiZGVsdGEiXSwgcFsiY2lfbG8iXSwgcFsiY2lfaGkiXSwgcFsibl9jb21tb24iXSksCiAgICAgICBoYT0iY2VudGVyIiwgZm9udHNpemU9OS41KQphLnNldF90aXRsZSgi4pGjIOWJpeWkuuWklua6kOWvueWGheWcqOe7k+aehO+8muaXoOaViOW6lFxu5pys5L2T6KeJ5LuN5ZyoIOKHkiDnu5PmnoTku43lnKgiLCBmb250c2l6ZT0xMSkKCnBsdC5zdXB0aXRsZSgiMDg5IMK3IOaTjeaOp+S4juWHreivgeeahOWIhuemuyDCtyDnnJ/lrp7lj5HnlJ/nmoTmhJ/lrpjliaXlpLoiLCBmb250c2l6ZT0xMywgZm9udHdlaWdodD0iYm9sZCIpCnBsdC50aWdodF9sYXlvdXQocmVjdD1bMCwgMCwgMSwgMC45Nl0pCnBsdC5zYXZlZmlnKE9VVCwgZHBpPTEzMCkKcHJpbnQoInNhdmVkIiwgT1VUKQo=
+import json, numpy as np
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+for f in ["WenQuanYi Micro Hei", "Noto Sans CJK SC", "SimHei"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False)
+        plt.rcParams["font.sans-serif"] = [f]
+        break
+    except Exception:
+        continue
+plt.rcParams["axes.unicode_minus"] = False
+
+OUT = "/data/workspace/luoshen-o1/fig/089_agency.png"
+d2 = json.load(open("/data/workspace/luoshen-o1/experiments/exp089_agency/result_089.json"))
+dp = json.load(open("/data/workspace/luoshen-o1/experiments/exp089_agency/result_089_pair.json"))
+dd = json.load(open("/data/workspace/luoshen-o1/experiments/exp089_agency/result_089_deprivation.json"))
+
+fig, ax = plt.subplots(2, 2, figsize=(14, 9.5))
+
+# ---------- (1) 操控 × 凭证 ----------
+a = ax[0, 0]
+labels = ["A 操作\n+凭证", "B 操作\n+错凭证", "C 零操作\n+凭证", "D 零操作\n无凭证"]
+ent = [d2["A_operate_right_cred"]["entered"], d2["B_operate_wrong_cred"]["entered"],
+       d2["C_zeroop_right_cred"]["entered"], d2["D_zeroop_no_cred"]["entered"]]
+ops = [d2["A_operate_right_cred"]["ops"], d2["B_operate_wrong_cred"]["ops"], 0, 0]
+cols = ["#2e8b57" if e else "#b03030" for e in ent]
+a.bar(labels, [1 if e else 0 for e in ent], color=cols)
+a.set_ylim(0, 1.25)
+a.set_ylabel("进入 (1=成功)")
+for i, (e, o) in enumerate(zip(ent, ops)):
+    a.text(i, 1.05, "鼠标动作=%d" % o, ha="center", fontsize=9)
+    a.text(i, 0.5, "OK" if e else "403", ha="center", color="w", fontsize=12, fontweight="bold")
+a.set_title("① 操控 × 凭证：结果由凭证决定\nA/B 动作序列逐位相同(5步)，结果相反", fontsize=11)
+
+# ---------- (2) 配对协议 ----------
+a = ax[0, 1]
+steps = ["我申请\nchallenge", "我自己批准", "状态", "持有凭证方\n批准", "状态"]
+vals = [0.5, 0, 0, 1, 1]
+cols2 = ["#888", "#b03030", "#b03030", "#2e8b57", "#2e8b57"]
+a.bar(steps, vals, color=cols2)
+a.set_ylim(0, 1.3)
+a.set_ylabel("granted=1")
+for i, v in enumerate(vals):
+    a.text(i, v + 0.06, {0.5: "pending", 0: "403 REJECTED", 1: "granted"}[v],
+           ha="center", fontsize=9)
+a.set_title("② 配对协议复现（两轮一致）\n申请者无法批准自己 — 协议约束，非能力问题", fontsize=11)
+
+# ---------- (3) 感官剥夺 2x2：存活 ----------
+a = ax[1, 0]
+c = dd["conds"]
+names = ["A 本体+外源", "B 本体+外源关\n(现在真实状态)", "C 本体关+外源", "D 全盲"]
+surv = []
+for k in ["A_proprio1_extero1", "B_proprio1_extero0", "C_proprio0_extero1", "D_proprio0_extero0"]:
+    n, m = c[k]["surv"].split("/")
+    surv.append(int(n) / int(m) * 100)
+cols3 = ["#4a7ebb", "#2e8b57", "#4a7ebb", "#b03030"]
+b = a.bar(names, surv, color=cols3)
+a.set_ylabel("存活率 %")
+a.set_ylim(0, 100)
+for i, (k, v) in enumerate(zip(["A_proprio1_extero1", "B_proprio1_extero0",
+                                "C_proprio0_extero1", "D_proprio0_extero0"], surv)):
+    a.text(i, v + 2, c[k]["surv"], ha="center", fontsize=9)
+a.text(3, 12, "偏度0.72\n=死亡筛选\n不可比", ha="center", fontsize=8, color="#b03030")
+a.set_title("③ 真实发生的感官剥夺：外源已关，本体仍在线\n存活率不受外源有无影响", fontsize=11)
+
+# ---------- (4) B-A 配对差 ----------
+a = ax[1, 1]
+p = c["B_minus_A_paired"]
+a.barh([0], [p["delta"]], color="#2e8b57", height=0.4)
+a.errorbar([p["delta"]], [0], xerr=[[p["delta"] - p["ci_lo"]], [p["ci_hi"] - p["delta"]]],
+           color="k", capsize=6, lw=1.6)
+a.axvline(0, color="#b03030", ls="--", lw=1.6)
+a.set_yticks([0])
+a.set_yticklabels(["B − A\n(剥夺外源 − 有外源)"])
+a.set_xlabel("结构偏度差")
+a.set_xlim(-0.03, 0.03)
+a.text(0, -0.45, "Δ=%+.4f  95%%CI [%.4f, %.4f] 跨0 → 无差异\nn_common=%d"
+       % (p["delta"], p["ci_lo"], p["ci_hi"], p["n_common"]),
+       ha="center", fontsize=9.5)
+a.set_title("④ 剥夺外源对内在结构：无效应\n本体觉仍在 ⇒ 结构仍在", fontsize=11)
+
+plt.suptitle("089 · 操控与凭证的分离 · 真实发生的感官剥夺", fontsize=13, fontweight="bold")
+plt.tight_layout(rect=[0, 0, 1, 0.96])
+plt.savefig(OUT, dpi=130)
+print("saved", OUT)

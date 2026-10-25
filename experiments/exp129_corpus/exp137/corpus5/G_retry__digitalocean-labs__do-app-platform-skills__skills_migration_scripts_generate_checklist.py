@@ -1,1 +1,369 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIKTWlncmF0aW9uIENoZWNrbGlzdCBHZW5lcmF0b3IKCkdlbmVyYXRlcyBhIGNvbXByZWhlbnNpdmUgbWlncmF0aW9uIGNoZWNrbGlzdCAoTUlHUkFUSU9OLm1kKSBiYXNlZCBvbgpyZXBvc2l0b3J5IGFuYWx5c2lzIGFuZCBtaWdyYXRpb24gbWFwcGluZy4KClVzYWdlOgogICAgcHl0aG9uIGdlbmVyYXRlX2NoZWNrbGlzdC5weSAvcGF0aC90by9yZXBvIC0tbmFtZSBteWFwcAogICAgcHl0aG9uIGdlbmVyYXRlX2NoZWNrbGlzdC5weSAvcGF0aC90by9yZXBvIC0tbmFtZSBteWFwcCAtLW91dHB1dCBNSUdSQVRJT04ubWQKIiIiCgppbXBvcnQgb3MKaW1wb3J0IHN5cwppbXBvcnQganNvbgppbXBvcnQgYXJncGFyc2UKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gdHlwaW5nIGltcG9ydCBEaWN0LCBMaXN0LCBPcHRpb25hbCwgQW55CmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCgojIEFkZCBzY3JpcHRzIGRpcmVjdG9yeSB0byBwYXRoIGZvciBpbXBvcnRzClNDUklQVF9ESVIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQKc3lzLnBhdGguaW5zZXJ0KDAsIHN0cihTQ1JJUFRfRElSKSkKCmZyb20gYW5hbHl6ZV9hcmNoaXRlY3R1cmUgaW1wb3J0IEFyY2hpdGVjdHVyZUFuYWx5emVyCmZyb20gZGV0ZWN0X3BsYXRmb3JtIGltcG9ydCBQbGF0Zm9ybURldGVjdG9yCmZyb20gZ2VuZXJhdGVfYXBwX3NwZWMgaW1wb3J0IEFwcFNwZWNHZW5lcmF0b3IKCgpkZWYgZ2VuZXJhdGVfY2hlY2tsaXN0KHJlcG9fcGF0aDogc3RyLCBhcHBfbmFtZTogc3RyLCAKICAgICAgICAgICAgICAgICAgICAgICByZXBvX3VybDogT3B0aW9uYWxbc3RyXSA9IE5vbmUsCiAgICAgICAgICAgICAgICAgICAgICAgdGVzdF9icmFuY2g6IHN0ciA9ICdtaWdyYXRlL3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICAgIHByb2RfYnJhbmNoOiBzdHIgPSAnbWlncmF0ZS9wcm9kJykgLT4gc3RyOgogICAgIiIiR2VuZXJhdGUgY29tcHJlaGVuc2l2ZSBtaWdyYXRpb24gY2hlY2tsaXN0LiIiIgogICAgCiAgICAjIFJ1biBhbmFseXNpcwogICAgcGxhdGZvcm1fZGV0ZWN0b3IgPSBQbGF0Zm9ybURldGVjdG9yKHJlcG9fcGF0aCkKICAgIHBsYXRmb3JtX2luZm8gPSBwbGF0Zm9ybV9kZXRlY3Rvci5kZXRlY3QoKQogICAgCiAgICBhbmFseXplciA9IEFyY2hpdGVjdHVyZUFuYWx5emVyKHJlcG9fcGF0aCkKICAgIGFyY2hpdGVjdHVyZSA9IGFuYWx5emVyLmFuYWx5emUoKQogICAgCiAgICAjIEdlbmVyYXRlIHNwZWNzIGZvciBib3RoIGVudmlyb25tZW50cwogICAgdGVzdF9nZW5lcmF0b3IgPSBBcHBTcGVjR2VuZXJhdG9yKHJlcG9fcGF0aCwgYXBwX25hbWUsICd0ZXN0JykKICAgIHByb2RfZ2VuZXJhdG9yID0gQXBwU3BlY0dlbmVyYXRvcihyZXBvX3BhdGgsIGFwcF9uYW1lLCAncHJvZHVjdGlvbicpCiAgICAKICAgIHRlc3RfcmVwb3J0ID0gdGVzdF9nZW5lcmF0b3IuZ2V0X21pZ3JhdGlvbl9yZXBvcnQoKQogICAgcHJvZF9yZXBvcnQgPSBwcm9kX2dlbmVyYXRvci5nZXRfbWlncmF0aW9uX3JlcG9ydCgpCiAgICAKICAgICMgQnVpbGQgY2hlY2tsaXN0CiAgICBjaGVja2xpc3QgPSBbXQogICAgY2hlY2tsaXN0LmFwcGVuZChmIiMgTWlncmF0aW9uIFJlcG9ydDoge2FwcF9uYW1lfSIpCiAgICBjaGVja2xpc3QuYXBwZW5kKGYiXG4qKlNvdXJjZSBQbGF0Zm9ybToqKiB7cGxhdGZvcm1faW5mb1sncHJpbWFyeV9kZXNjcmlwdGlvbiddfSIpCiAgICBjaGVja2xpc3QuYXBwZW5kKGYiKipHZW5lcmF0ZWQ6Kioge2RhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCclWS0lbS0lZCAlSDolTTolUycpfSIpCiAgICBjaGVja2xpc3QuYXBwZW5kKGYiKipSZXBvc2l0b3J5OioqIHtyZXBvX3VybCBvciAnTG9jYWwnfSIpCiAgICAKICAgICMgU3VtbWFyeSBzZWN0aW9uCiAgICBjaGVja2xpc3QuYXBwZW5kKCJcbiMjIFN1bW1hcnlcbiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJ8IE1ldHJpYyB8IFZhbHVlIHwiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgifC0tLS0tLS0tfC0tLS0tLS18IikKICAgIGNoZWNrbGlzdC5hcHBlbmQoZiJ8IFNvdXJjZSBQbGF0Zm9ybSB8IHtwbGF0Zm9ybV9pbmZvWydwcmltYXJ5X2Rlc2NyaXB0aW9uJ119IHwiKQogICAgY2hlY2tsaXN0LmFwcGVuZChmInwgQ29uZmlnIEZpbGVzIHwgeycsICcuam9pbihwbGF0Zm9ybV9pbmZvWydjb25maWdfZmlsZXMnXSkgb3IgJ05vbmUgZGV0ZWN0ZWQnfSB8IikKICAgIGNoZWNrbGlzdC5hcHBlbmQoZiJ8IEFyY2hpdGVjdHVyZSBUeXBlIHwge2FyY2hpdGVjdHVyZVsnYXJjaGl0ZWN0dXJlX3R5cGUnXX0gfCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKGYifCBSdW50aW1lIHwge2FyY2hpdGVjdHVyZVsncnVudGltZSddfSB8IikKICAgIGNoZWNrbGlzdC5hcHBlbmQoZiJ8IENvbXBvbmVudHMgRGV0ZWN0ZWQgfCB7bGVuKGFyY2hpdGVjdHVyZVsnY29tcG9uZW50cyddKX0gfCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKGYifCBTdWNjZXNzZnVsbHkgTWFwcGVkIHwge2xlbihhcmNoaXRlY3R1cmVbJ2NvbXBvbmVudHMnXSkgLSBsZW4odGVzdF9nZW5lcmF0b3IudW5tYXBwZWRfaXRlbXMpfSB8IikKICAgIGNoZWNrbGlzdC5hcHBlbmQoZiJ8IFJlcXVpcmVzIERlY2lzaW9uIHwge2xlbih0ZXN0X2dlbmVyYXRvci51bm1hcHBlZF9pdGVtcyl9IHwiKQogICAgY2hlY2tsaXN0LmFwcGVuZChmInwgVGVzdCBCcmFuY2ggfCBge3Rlc3RfYnJhbmNofWAgfCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKGYifCBQcm9kdWN0aW9uIEJyYW5jaCB8IGB7cHJvZF9icmFuY2h9YCB8IikKICAgIAogICAgIyBDb21wb25lbnQgbWFwcGluZyBzZWN0aW9uCiAgICBjaGVja2xpc3QuYXBwZW5kKCJcbiMjIENvbXBvbmVudCBNYXBwaW5nXG4iKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiIyMjIOKchSBTdWNjZXNzZnVsbHkgTWFwcGVkXG4iKQogICAgY2hlY2tsaXN0LmFwcGVuZCgifCBTb3VyY2UgfCBUYXJnZXQgfCBUeXBlIHwgTm90ZXMgfCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJ8LS0tLS0tLS18LS0tLS0tLS18LS0tLS0tfC0tLS0tLS18IikKICAgIAogICAgZm9yIGNvbXAgaW4gYXJjaGl0ZWN0dXJlWydjb21wb25lbnRzJ106CiAgICAgICAgc291cmNlID0gZiJ7Y29tcFsnbmFtZSddfSIKICAgICAgICBpZiBjb21wLmdldCgnY29tbWFuZCcpOgogICAgICAgICAgICBzb3VyY2UgKz0gZiIgKGB7Y29tcFsnY29tbWFuZCddWzozMF19Li4uYCkiIGlmIGxlbihjb21wLmdldCgnY29tbWFuZCcsICcnKSkgPiAzMCBlbHNlIGYiIChge2NvbXBbJ2NvbW1hbmQnXX1gKSIKICAgICAgICAKICAgICAgICB0YXJnZXRfdHlwZSA9IHsKICAgICAgICAgICAgJ3NlcnZpY2UnOiAnc2VydmljZXMnLAogICAgICAgICAgICAnd29ya2VyJzogJ3dvcmtlcnMnLAogICAgICAgICAgICAnam9iJzogJ2pvYnMnLAogICAgICAgICAgICAnc3RhdGljX3NpdGUnOiAnc3RhdGljX3NpdGVzJwogICAgICAgIH0uZ2V0KGNvbXBbJ3R5cGUnXSwgY29tcFsndHlwZSddKQogICAgICAgIAogICAgICAgIG5vdGVzID0gW10KICAgICAgICBpZiBjb21wLmdldCgncG9ydCcpOgogICAgICAgICAgICBub3Rlcy5hcHBlbmQoZiJwb3J0IHtjb21wWydwb3J0J119IikKICAgICAgICBpZiBjb21wLmdldCgnc291cmNlX2RpcicpIGFuZCBjb21wWydzb3VyY2VfZGlyJ10gIT0gJy8nOgogICAgICAgICAgICBub3Rlcy5hcHBlbmQoZiJkaXI6IHtjb21wWydzb3VyY2VfZGlyJ119IikKICAgICAgICAKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKGYifCB7c291cmNlfSB8IHt0YXJnZXRfdHlwZX0ue2NvbXBbJ25hbWUnXX0gfCB7Y29tcFsndHlwZSddfSB8IHsnLCAnLmpvaW4obm90ZXMpIG9yICctJ30gfCIpCiAgICAKICAgICMgRGVwZW5kZW5jaWVzIG1hcHBpbmcKICAgIGRlcHMgPSBhcmNoaXRlY3R1cmVbJ2RlcGVuZGVuY2llcyddCiAgICBpZiBkZXBzWydkYXRhYmFzZXMnXSBvciBkZXBzWydjYWNoZXMnXToKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJcbiMjIyBEYXRhYmFzZSAmIENhY2hlIE1hcHBpbmdcbiIpCiAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgifCBTb3VyY2UgfCBUYXJnZXQgfCBOb3RlcyB8IikKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJ8LS0tLS0tLS18LS0tLS0tLS18LS0tLS0tLXwiKQogICAgICAgIAogICAgICAgIGZvciBkYiBpbiBkZXBzWydkYXRhYmFzZXMnXToKICAgICAgICAgICAgdGFyZ2V0ID0gJ2RhdGFiYXNlcy5kYicgaWYgZGJbJ3R5cGUnXSA9PSAncG9zdGdyZXMnIGVsc2UgZiJkYXRhYmFzZXMue2RiWyd0eXBlJ119IgogICAgICAgICAgICBlbmdpbmUgPSB7J3Bvc3RncmVzJzogJ1BHJywgJ215c3FsJzogJ01ZU1FMJywgJ21vbmdvZGInOiAnTU9OR09EQid9LmdldChkYlsndHlwZSddLCBkYlsndHlwZSddLnVwcGVyKCkpCiAgICAgICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoZiJ8IHtkYlsnc291cmNlJ119IHwge3RhcmdldH0gKHtlbmdpbmV9KSB8IHtkYi5nZXQoJ25vdGUnLCAnLScpfSB8IikKICAgICAgICAKICAgICAgICBmb3IgY2FjaGUgaW4gZGVwc1snY2FjaGVzJ106CiAgICAgICAgICAgIG5vdGUgPSBjYWNoZS5nZXQoJ25vdGUnLCAnUmVkaXMgRU9MIOKGkiB1c2luZyBWYWxrZXknKQogICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKGYifCB7Y2FjaGVbJ3NvdXJjZSddfSB8IGRhdGFiYXNlcy5jYWNoZSAoVkFMS0VZKSB8IHtub3RlfSB8IikKICAgIAogICAgIyBVbm1hcHBlZCBpdGVtcyBzZWN0aW9uCiAgICBpZiB0ZXN0X2dlbmVyYXRvci51bm1hcHBlZF9pdGVtczoKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJcbiMjIyDimqDvuI8gUmVxdWlyZXMgWW91ciBEZWNpc2lvblxuIikKICAgICAgICAKICAgICAgICBmb3IgaXRlbSBpbiB0ZXN0X2dlbmVyYXRvci51bm1hcHBlZF9pdGVtczoKICAgICAgICAgICAgY2hlY2tsaXN0LmFwcGVuZChmIlxuKip7aXRlbVsnbmFtZSddfSoqIikKICAgICAgICAgICAgY2hlY2tsaXN0LmFwcGVuZChmIi0gU291cmNlOiB7aXRlbVsnc291cmNlJ119IikKICAgICAgICAgICAgY2hlY2tsaXN0LmFwcGVuZChmIi0gSXNzdWU6IHtpdGVtWydyZWFzb24nXX0iKQogICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCItIE9wdGlvbnM6IikKICAgICAgICAgICAgZm9yIG9wdCBpbiBpdGVtLmdldCgnb3B0aW9ucycsIFtdKToKICAgICAgICAgICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoZiIgIC0gWyBdIHtvcHR9IikKICAgIAogICAgIyBFbnZpcm9ubWVudCB2YXJpYWJsZXMgc2VjdGlvbgogICAgY2hlY2tsaXN0LmFwcGVuZCgiXG4jIyBFbnZpcm9ubWVudCBWYXJpYWJsZXNcbiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJ8IFZhcmlhYmxlIHwgU291cmNlIHwgQWN0aW9uIHwiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgifC0tLS0tLS0tLS18LS0tLS0tLS18LS0tLS0tLS18IikKICAgIAogICAgIyBTdGFuZGFyZCBiaW5kaW5ncwogICAgaWYgZGVwc1snZGF0YWJhc2VzJ106CiAgICAgICAgZm9yIGRiIGluIGRlcHNbJ2RhdGFiYXNlcyddOgogICAgICAgICAgICBpZiBkYlsndHlwZSddID09ICdwb3N0Z3Jlcyc6CiAgICAgICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJ8IGBEQVRBQkFTRV9VUkxgIHwgZGF0YWJhc2UgYmluZGluZyB8IEF1dG8tYm91bmQ6IGAke2RiLkRBVEFCQVNFX1VSTH1gIHwiKQogICAgICAgICAgICBlbGlmIGRiWyd0eXBlJ10gPT0gJ215c3FsJzoKICAgICAgICAgICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoInwgYE1ZU1FMX1VSTGAgfCBkYXRhYmFzZSBiaW5kaW5nIHwgQXV0by1ib3VuZDogYCR7bXlzcWxkYi5EQVRBQkFTRV9VUkx9YCB8IikKICAgIAogICAgaWYgZGVwc1snY2FjaGVzJ106CiAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgifCBgVkFMS0VZX1VSTGAgfCBjYWNoZSBiaW5kaW5nIHwgQXV0by1ib3VuZDogYCR7Y2FjaGUuREFUQUJBU0VfVVJMfWAgfCIpCiAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgifCBgUkVESVNfVVJMYCB8IGNhY2hlIGJpbmRpbmcgfCBBbGlhcyBmb3IgVmFsa2V5IGNvbXBhdGliaWxpdHkgfCIpCiAgICAKICAgICMgU2VjcmV0cwogICAgY2hlY2tsaXN0LmFwcGVuZCgifCBgU0VDUkVUX0tFWWAgfCBhcHBsaWNhdGlvbiBzZWNyZXQgfCBTZXQgaW4gR2l0SHViIFNlY3JldHMgfCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJ8IGBQT1JUYCB8IGFwcCBwb3J0IHwgQXV0by1zZXQgYnkgQXBwIFBsYXRmb3JtIHwiKQogICAgCiAgICAjIENvZGUgY2hhbmdlcyBzZWN0aW9uCiAgICBjaGVja2xpc3QuYXBwZW5kKCJcbiMjIENvZGUgQ2hhbmdlcyBSZXF1aXJlZFxuIikKICAgIAogICAgY29kZV9jaGFuZ2VzID0gW10KICAgIAogICAgIyBQbGF0Zm9ybS1zcGVjaWZpYyBjaGFuZ2VzCiAgICBpZiBwbGF0Zm9ybV9pbmZvWydwcmltYXJ5X3BsYXRmb3JtJ10gPT0gJ2hlcm9rdSc6CiAgICAgICAgY29kZV9jaGFuZ2VzLmFwcGVuZCgiLSBbIF0gUmVtb3ZlIEhlcm9rdS1zcGVjaWZpYyBgREFUQUJBU0VfVVJMYCBwb3N0Z3JlczovLyDihpIgcG9zdGdyZXNxbDovLyBmaXggKGlmIHByZXNlbnQpIikKICAgICAgICBjb2RlX2NoYW5nZXMuYXBwZW5kKCItIFsgXSBVcGRhdGUgYW55IGBSRURJU19VUkxgIHJlZmVyZW5jZXMgdG8gYFZBTEtFWV9VUkxgIikKICAgIAogICAgaWYgYW55KGNbJ3R5cGUnXSA9PSAncmVkaXMnIGZvciBjIGluIGRlcHMuZ2V0KCdjYWNoZXMnLCBbXSkpOgogICAgICAgIGNvZGVfY2hhbmdlcy5hcHBlbmQoIi0gWyBdIFVwZGF0ZSBSZWRpcyBjbGllbnQgY29uZmlndXJhdGlvbiBmb3IgVmFsa2V5IGNvbXBhdGliaWxpdHkiKQogICAgCiAgICBpZiBkZXBzLmdldCgnc3RvcmFnZScpOgogICAgICAgIGNvZGVfY2hhbmdlcy5hcHBlbmQoIi0gWyBdIFVwZGF0ZSBTMy9zdG9yYWdlIGNvbmZpZ3VyYXRpb24gZm9yIFNwYWNlcyBjb21wYXRpYmlsaXR5IikKICAgICAgICBjb2RlX2NoYW5nZXMuYXBwZW5kKCIgIC0gRW5kcG9pbnQ6IGBodHRwczovLzxyZWdpb24+LmRpZ2l0YWxvY2VhbnNwYWNlcy5jb21gIikKICAgICAgICBjb2RlX2NoYW5nZXMuYXBwZW5kKCIgIC0gVXNlIGBTUEFDRVNfS0VZYCwgYFNQQUNFU19TRUNSRVRgLCBgU1BBQ0VTX0JVQ0tFVGAgZW52IHZhcnMiKQogICAgCiAgICBpZiBub3QgY29kZV9jaGFuZ2VzOgogICAgICAgIGNvZGVfY2hhbmdlcy5hcHBlbmQoIi0gWyBdIE5vIHBsYXRmb3JtLXNwZWNpZmljIGNvZGUgY2hhbmdlcyBkZXRlY3RlZCIpCiAgICAKICAgIGZvciBjaGFuZ2UgaW4gY29kZV9jaGFuZ2VzOgogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoY2hhbmdlKQogICAgCiAgICAjIEZpbGVzIGNyZWF0ZWQgc2VjdGlvbgogICAgY2hlY2tsaXN0LmFwcGVuZCgiXG4jIyBGaWxlcyBDcmVhdGVkXG4iKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiYGBgIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIi5kby8iKQogICAgY2hlY2tsaXN0LmFwcGVuZCgi4pSc4pSA4pSAIGFwcC55YW1sICAgICAgICAgICAgICAjIEFwcCBQbGF0Zm9ybSBzcGVjIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIuKUnOKUgOKUgCBkZXBsb3kudGVtcGxhdGUueWFtbCAgIyBEZXBsb3ktdG8tRE8gYnV0dG9uIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIuKUnOKUgOKUgCB0ZXN0LmFwcC55YW1sICAgICAgICAgIyBUZXN0aW5nIGVudmlyb25tZW50IHNwZWMiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgi4pSU4pSA4pSAIHByb2QuYXBwLnlhbWwgICAgICAgICAjIFByb2R1Y3Rpb24gZW52aXJvbm1lbnQgc3BlYyIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJNSUdSQVRJT04ubWQgICAgICAgICAgICAgICMgVGhpcyBmaWxlIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIi5lbnYuZXhhbXBsZSAgICAgICAgICAgICAgIyBFbnZpcm9ubWVudCB2YXJpYWJsZSB0ZW1wbGF0ZSIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJgYGAiKQogICAgCiAgICAjIFByZS1taWdyYXRpb24gY2hlY2tsaXN0CiAgICBjaGVja2xpc3QuYXBwZW5kKCJcbiMjIFByZS1NaWdyYXRpb24gQ2hlY2tsaXN0XG4iKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiIyMjIEJlZm9yZSBZb3UgQmVnaW5cbiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCItIFsgXSBSZXZpZXcgYWxsIGNvbXBvbmVudCBtYXBwaW5ncyBhYm92ZSIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCItIFsgXSBEZWNpZGUgb24gdW5tYXBwZWQgaXRlbXMgKGlmIGFueSkiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiLSBbIF0gRW5zdXJlIGBkb2N0bGAgaXMgYXV0aGVudGljYXRlZDogYGRvY3RsIGFjY291bnQgZ2V0YCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCItIFsgXSBFbnN1cmUgYGdoYCBpcyBhdXRoZW50aWNhdGVkOiBgZ2ggYXV0aCBzdGF0dXNgIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIi0gWyBdIE5vdGUgY3VycmVudCBlbnZpcm9ubWVudCB2YXJpYWJsZSB2YWx1ZXMgZnJvbSBzb3VyY2UgcGxhdGZvcm0iKQogICAgCiAgICAjIFNldHVwIGNoZWNrbGlzdAogICAgY2hlY2tsaXN0LmFwcGVuZCgiXG4jIyMgQXBwIFBsYXRmb3JtIFNldHVwXG4iKQogICAgCiAgICAjIFByb2R1Y3Rpb24gZGF0YWJhc2UgY3JlYXRpb24KICAgIGlmIGFueShkYi5nZXQoJ3R5cGUnKSA9PSAncG9zdGdyZXMnIGZvciBkYiBpbiBkZXBzLmdldCgnZGF0YWJhc2VzJywgW10pKToKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCIjIyMjIERhdGFiYXNlIFNldHVwIChQcm9kdWN0aW9uKVxuIikKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJgYGBiYXNoIikKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKGYiIyBDcmVhdGUgbWFuYWdlZCBQb3N0Z3JlU1FMIGNsdXN0ZXIiKQogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoZiJkb2N0bCBkYXRhYmFzZXMgY3JlYXRlIHthcHBfbmFtZX0tZGIgXFwiKQogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoIiAgLS1lbmdpbmUgcGcgXFwiKQogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoIiAgLS1yZWdpb24gbnljIFxcIikKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCIgIC0tc2l6ZSBkYi1zLTF2Y3B1LTFnYiBcXCIpCiAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgiICAtLW51bS1ub2RlcyAxIikKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCIiKQogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoIiMgR2V0IGNvbm5lY3Rpb24gc3RyaW5nIikKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKGYiZG9jdGwgZGF0YWJhc2VzIGNvbm5lY3Rpb24ge2FwcF9uYW1lfS1kYiAtLWZvcm1hdCBVUkkiKQogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoImBgYCIpCiAgICAKICAgIGlmIGFueShjLmdldCgndHlwZScpIGluIFsncmVkaXMnLCAndmFsa2V5J10gZm9yIGMgaW4gZGVwcy5nZXQoJ2NhY2hlcycsIFtdKSk6CiAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgiXG4jIyMjIENhY2hlIFNldHVwIChQcm9kdWN0aW9uKVxuIikKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJgYGBiYXNoIikKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKGYiIyBDcmVhdGUgVmFsa2V5IGNsdXN0ZXIiKQogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoZiJkb2N0bCBkYXRhYmFzZXMgY3JlYXRlIHthcHBfbmFtZX0tY2FjaGUgXFwiKQogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoIiAgLS1lbmdpbmUgdmFsa2V5IFxcIikKICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCIgIC0tcmVnaW9uIG55YyBcXCIpCiAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgiICAtLXNpemUgZGItcy0xdmNwdS0xZ2IiKQogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoImBgYCIpCiAgICAKICAgICMgR2l0SHViIHNldHVwCiAgICBjaGVja2xpc3QuYXBwZW5kKCJcbiMjIyMgR2l0SHViIEVudmlyb25tZW50IFNldHVwXG4iKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiYGBgYmFzaCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIjIENyZWF0ZSBzdGFnaW5nIGVudmlyb25tZW50IikKICAgIGNoZWNrbGlzdC5hcHBlbmQoImdoIGFwaSAtLW1ldGhvZCBQVVQgcmVwb3MvOm93bmVyLzpyZXBvL2Vudmlyb25tZW50cy9zdGFnaW5nIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIjIENyZWF0ZSBwcm9kdWN0aW9uIGVudmlyb25tZW50IHdpdGggcHJvdGVjdGlvbiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJnaCBhcGkgLS1tZXRob2QgUFVUIHJlcG9zLzpvd25lci86cmVwby9lbnZpcm9ubWVudHMvcHJvZHVjdGlvbiBcXCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIgIC1GIHByZXZlbnRfc2VsZl9yZXZpZXc9dHJ1ZSIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiIyBTZXQgc2VjcmV0cyAoeW91J2xsIGJlIHByb21wdGVkIGZvciB2YWx1ZXMpIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoImdoIHNlY3JldCBzZXQgRElHSVRBTE9DRUFOX0FDQ0VTU19UT0tFTiAtLWVudiBzdGFnaW5nIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoImdoIHNlY3JldCBzZXQgU0VDUkVUX0tFWSAtLWVudiBzdGFnaW5nIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIjIFJlcGVhdCBmb3IgcHJvZHVjdGlvbiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJnaCBzZWNyZXQgc2V0IERJR0lUQUxPQ0VBTl9BQ0NFU1NfVE9LRU4gLS1lbnYgcHJvZHVjdGlvbiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJnaCBzZWNyZXQgc2V0IFNFQ1JFVF9LRVkgLS1lbnYgcHJvZHVjdGlvbiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCJgYGAiKQogICAgCiAgICAjIERlcGxveW1lbnQgY2hlY2tsaXN0CiAgICBjaGVja2xpc3QuYXBwZW5kKCJcbiMjIyBEZXBsb3ltZW50XG4iKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiYGBgYmFzaCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIjIFZhbGlkYXRlIGFwcCBzcGVjIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoImRvY3RsIGFwcHMgc3BlYyB2YWxpZGF0ZSAuZG8vYXBwLnlhbWwiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIiMgRGVwbG95IHRlc3RpbmcgZW52aXJvbm1lbnQiKQogICAgY2hlY2tsaXN0LmFwcGVuZChmImdpdCBjaGVja291dCB7dGVzdF9icmFuY2h9IikKICAgIGNoZWNrbGlzdC5hcHBlbmQoImRvY3RsIGFwcHMgY3JlYXRlIC0tc3BlYyAuZG8vYXBwLnlhbWwiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIiMgQWZ0ZXIgdGVzdGluZywgZGVwbG95IHByb2R1Y3Rpb24iKQogICAgY2hlY2tsaXN0LmFwcGVuZChmImdpdCBjaGVja291dCB7cHJvZF9icmFuY2h9IikKICAgIGNoZWNrbGlzdC5hcHBlbmQoImRvY3RsIGFwcHMgY3JlYXRlIC0tc3BlYyAuZG8vYXBwLnlhbWwiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiYGBgIikKICAgIAogICAgIyBEYXRhIG1pZ3JhdGlvbiBzZWN0aW9uCiAgICBpZiBkZXBzLmdldCgnZGF0YWJhc2VzJyk6CiAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgiXG4jIyBEYXRhIE1pZ3JhdGlvblxuIikKICAgICAgICAKICAgICAgICBpZiBhbnkoZGJbJ3R5cGUnXSA9PSAncG9zdGdyZXMnIGZvciBkYiBpbiBkZXBzWydkYXRhYmFzZXMnXSk6CiAgICAgICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoIiMjIyBQb3N0Z3JlU1FMXG4iKQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgcGxhdGZvcm1faW5mb1sncHJpbWFyeV9wbGF0Zm9ybSddID09ICdoZXJva3UnOgogICAgICAgICAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgiYGBgYmFzaCIpCiAgICAgICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCIjIDEuIENyZWF0ZSBiYWNrdXAgZnJvbSBIZXJva3UiKQogICAgICAgICAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgiaGVyb2t1IHBnOmJhY2t1cHM6Y2FwdHVyZSAtLWFwcCA8aGVyb2t1LWFwcC1uYW1lPiIpCiAgICAgICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJoZXJva3UgcGc6YmFja3Vwczpkb3dubG9hZCAtLWFwcCA8aGVyb2t1LWFwcC1uYW1lPiIpCiAgICAgICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCIiKQogICAgICAgICAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgiIyAyLiBSZXN0b3JlIHRvIERpZ2l0YWxPY2VhbiIpCiAgICAgICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJwZ19yZXN0b3JlIC1kIFwiPERPX0RBVEFCQVNFX1VSTD5cIiBsYXRlc3QuZHVtcCIpCiAgICAgICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJgYGAiKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgiYGBgYmFzaCIpCiAgICAgICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCIjIDEuIEV4cG9ydCBmcm9tIHNvdXJjZSBkYXRhYmFzZSIpCiAgICAgICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCJwZ19kdW1wIFwiPFNPVVJDRV9EQVRBQkFTRV9VUkw+XCIgPiBiYWNrdXAuc3FsIikKICAgICAgICAgICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoIiIpCiAgICAgICAgICAgICAgICBjaGVja2xpc3QuYXBwZW5kKCIjIDIuIEltcG9ydCB0byBEaWdpdGFsT2NlYW4iKQogICAgICAgICAgICAgICAgY2hlY2tsaXN0LmFwcGVuZCgicHNxbCBcIjxET19EQVRBQkFTRV9VUkw+XCIgPCBiYWNrdXAuc3FsIikKICAgICAgICAgICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoImBgYCIpCiAgICAKICAgICMgRE5TIGN1dG92ZXIgc2VjdGlvbgogICAgY2hlY2tsaXN0LmFwcGVuZCgiXG4jIyBETlMgQ3V0b3ZlclxuIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoImBgYGJhc2giKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiIyAxLiBMb3dlciBUVEwgMjQtNDggaG91cnMgYmVmb3JlIG1pZ3JhdGlvbiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIjIFNldCBUVEwgdG8gMzAwICg1IG1pbnV0ZXMpIGluIHlvdXIgRE5TIHByb3ZpZGVyIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIjIDIuIEdldCBBcHAgUGxhdGZvcm0gVVJMIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoImRvY3RsIGFwcHMgbGlzdCAtLWZvcm1hdCBJRCxEZWZhdWx0SW5ncmVzcyIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiIyAzLiBVcGRhdGUgRE5TIHJlY29yZHMgdG8gcG9pbnQgdG8gQXBwIFBsYXRmb3JtIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIiMgQ05BTUU6IHlvdXItZG9tYWluLmNvbSDihpIgPGFwcC1uYW1lPi5vbmRpZ2l0YWxvY2Vhbi5hcHAiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIiMgNC4gKE9wdGlvbmFsKSBBZGQgY3VzdG9tIGRvbWFpbiBpbiBBcHAgUGxhdGZvcm0iKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiZG9jdGwgYXBwcyB1cGRhdGUgPGFwcC1pZD4gLS1zcGVjIC5kby9hcHAueWFtbCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIjIChhZnRlciBhZGRpbmcgZG9tYWluIHRvIHNwZWMpIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIiIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIjIDUuIEFmdGVyIGN1dG92ZXIsIGluY3JlYXNlIFRUTCBiYWNrIHRvIG5vcm1hbCAoMzYwMCspIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoImBgYCIpCiAgICAKICAgICMgUG9zdC1taWdyYXRpb24gY2hlY2tsaXN0CiAgICBjaGVja2xpc3QuYXBwZW5kKCJcbiMjIFBvc3QtTWlncmF0aW9uIENoZWNrbGlzdFxuIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIi0gWyBdIFZlcmlmeSBhbGwgY29tcG9uZW50cyBhcmUgcnVubmluZzogYGRvY3RsIGFwcHMgbGlzdC1kZXBsb3ltZW50cyA8YXBwLWlkPmAiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiLSBbIF0gQ2hlY2sgYXBwbGljYXRpb24gbG9nczogYGRvY3RsIGFwcHMgbG9ncyA8YXBwLWlkPiAtLXR5cGUgcnVuYCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCItIFsgXSBUZXN0IGNyaXRpY2FsIHVzZXIgam91cm5leXMiKQogICAgY2hlY2tsaXN0LmFwcGVuZCgiLSBbIF0gVmVyaWZ5IGJhY2tncm91bmQgam9icy93b3JrZXJzIGFyZSBwcm9jZXNzaW5nIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIi0gWyBdIE1vbml0b3IgZXJyb3IgcmF0ZXMgaW4gQXBwIFBsYXRmb3JtIEluc2lnaHRzIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIi0gWyBdIFVwZGF0ZSBkb2N1bWVudGF0aW9uIHdpdGggbmV3IGRlcGxveW1lbnQgcHJvY2VzcyIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCItIFsgXSBEZWNvbW1pc3Npb24gb2xkIGluZnJhc3RydWN0dXJlIGFmdGVyIHZlcmlmaWNhdGlvbiBwZXJpb2QiKQogICAgCiAgICAjIFJvbGxiYWNrIHNlY3Rpb24KICAgIGNoZWNrbGlzdC5hcHBlbmQoIlxuIyMgUm9sbGJhY2sgUGxhblxuIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIklmIGlzc3VlcyBvY2N1ciBhZnRlciBjdXRvdmVyOlxuIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIjEuIFBvaW50IEROUyBiYWNrIHRvIG9yaWdpbmFsIHBsYXRmb3JtIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIjIuIE9yaWdpbmFsIGluZnJhc3RydWN0dXJlIHNob3VsZCByZW1haW4gcnVubmluZyBkdXJpbmcgdmVyaWZpY2F0aW9uIHBlcmlvZCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIzLiBEZWJ1ZyBpc3N1ZXMgdXNpbmcgYGRvY3RsIGFwcHMgbG9nc2AgYW5kIEFwcCBQbGF0Zm9ybSBjb25zb2xlIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIjQuIEZpeCBhbmQgcmUtYXR0ZW1wdCBtaWdyYXRpb24iKQogICAgCiAgICAjIFdhcm5pbmdzIHNlY3Rpb24KICAgIGlmIHRlc3RfZ2VuZXJhdG9yLndhcm5pbmdzIG9yIHByb2RfZ2VuZXJhdG9yLndhcm5pbmdzOgogICAgICAgIGNoZWNrbGlzdC5hcHBlbmQoIlxuIyMg4pqg77iPIFdhcm5pbmdzXG4iKQogICAgICAgIGFsbF93YXJuaW5ncyA9IGxpc3Qoc2V0KHRlc3RfZ2VuZXJhdG9yLndhcm5pbmdzICsgcHJvZF9nZW5lcmF0b3Iud2FybmluZ3MpKQogICAgICAgIGZvciB3YXJuaW5nIGluIGFsbF93YXJuaW5nczoKICAgICAgICAgICAgY2hlY2tsaXN0LmFwcGVuZChmIi0ge3dhcm5pbmd9IikKICAgIAogICAgIyBOZXh0IHN0ZXBzIHNlY3Rpb24KICAgIGNoZWNrbGlzdC5hcHBlbmQoIlxuIyMgTmV4dCBTdGVwc1xuIikKICAgIGNoZWNrbGlzdC5hcHBlbmQoIkFmdGVyIHJldmlld2luZyB0aGlzIG1pZ3JhdGlvbiByZXBvcnQ6XG4iKQogICAgY2hlY2tsaXN0LmFwcGVuZChmIjEuICoqUmV2aWV3IGJyYW5jaGVzKio6IGBnaXQgZGlmZiBtYWluLi57dGVzdF9icmFuY2h9YCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIyLiAqKlVzZSBkZXBsb3ltZW50IHNraWxsKio6IFNldCB1cCBHaXRIdWIgQWN0aW9ucyBDSS9DRCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCIzLiAqKlVzZSBkZXZjb250YWluZXJzIHNraWxsKio6IFNldCB1cCBsb2NhbCBkZXZlbG9wbWVudCBlbnZpcm9ubWVudCIpCiAgICBjaGVja2xpc3QuYXBwZW5kKCI0LiAqKlVzZSB0cm91Ymxlc2hvb3Rpbmcgc2tpbGwqKjogSWYgZGVwbG95bWVudCBpc3N1ZXMgb2NjdXIiKQogICAgCiAgICByZXR1cm4gJ1xuJy5qb2luKGNoZWNrbGlzdCkKCgpkZWYgbWFpbigpOgogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249J0dlbmVyYXRlIG1pZ3JhdGlvbiBjaGVja2xpc3QgZm9yIEFwcCBQbGF0Zm9ybScKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3JlcG9fcGF0aCcsIGhlbHA9J1BhdGggdG8gdGhlIHJlcG9zaXRvcnknKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1uYW1lJywgcmVxdWlyZWQ9VHJ1ZSwgaGVscD0nQXBwbGljYXRpb24gbmFtZScpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLXJlcG8tdXJsJywgaGVscD0nR2l0IHJlcG9zaXRvcnkgVVJMJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tdGVzdC1icmFuY2gnLCBkZWZhdWx0PSdtaWdyYXRlL3Rlc3QnLCBoZWxwPSdUZXN0IGJyYW5jaCBuYW1lJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tcHJvZC1icmFuY2gnLCBkZWZhdWx0PSdtaWdyYXRlL3Byb2QnLCBoZWxwPSdQcm9kdWN0aW9uIGJyYW5jaCBuYW1lJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tb3V0cHV0JywgaGVscD0nT3V0cHV0IGZpbGUgcGF0aCcpCiAgICAKICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCiAgICAKICAgIHRyeToKICAgICAgICBjaGVja2xpc3QgPSBnZW5lcmF0ZV9jaGVja2xpc3QoCiAgICAgICAgICAgIGFyZ3MucmVwb19wYXRoLAogICAgICAgICAgICBhcmdzLm5hbWUsCiAgICAgICAgICAgIHJlcG9fdXJsPWFyZ3MucmVwb191cmwsCiAgICAgICAgICAgIHRlc3RfYnJhbmNoPWFyZ3MudGVzdF9icmFuY2gsCiAgICAgICAgICAgIHByb2RfYnJhbmNoPWFyZ3MucHJvZF9icmFuY2gKICAgICAgICApCiAgICAgICAgCiAgICAgICAgaWYgYXJncy5vdXRwdXQ6CiAgICAgICAgICAgIFBhdGgoYXJncy5vdXRwdXQpLndyaXRlX3RleHQoY2hlY2tsaXN0KQogICAgICAgICAgICBwcmludChmIldyaXR0ZW4gdG86IHthcmdzLm91dHB1dH0iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KGNoZWNrbGlzdCkKICAgIAogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KGYiRXJyb3I6IHtlfSIsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgc3lzLmV4aXQoMSkKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+"""
+Migration Checklist Generator
+
+Generates a comprehensive migration checklist (MIGRATION.md) based on
+repository analysis and migration mapping.
+
+Usage:
+    python generate_checklist.py /path/to/repo --name myapp
+    python generate_checklist.py /path/to/repo --name myapp --output MIGRATION.md
+"""
+
+import os
+import sys
+import json
+import argparse
+from pathlib import Path
+from typing import Dict, List, Optional, Any
+from datetime import datetime
+
+# Add scripts directory to path for imports
+SCRIPT_DIR = Path(__file__).parent
+sys.path.insert(0, str(SCRIPT_DIR))
+
+from analyze_architecture import ArchitectureAnalyzer
+from detect_platform import PlatformDetector
+from generate_app_spec import AppSpecGenerator
+
+
+def generate_checklist(repo_path: str, app_name: str, 
+                       repo_url: Optional[str] = None,
+                       test_branch: str = 'migrate/test',
+                       prod_branch: str = 'migrate/prod') -> str:
+    """Generate comprehensive migration checklist."""
+    
+    # Run analysis
+    platform_detector = PlatformDetector(repo_path)
+    platform_info = platform_detector.detect()
+    
+    analyzer = ArchitectureAnalyzer(repo_path)
+    architecture = analyzer.analyze()
+    
+    # Generate specs for both environments
+    test_generator = AppSpecGenerator(repo_path, app_name, 'test')
+    prod_generator = AppSpecGenerator(repo_path, app_name, 'production')
+    
+    test_report = test_generator.get_migration_report()
+    prod_report = prod_generator.get_migration_report()
+    
+    # Build checklist
+    checklist = []
+    checklist.append(f"# Migration Report: {app_name}")
+    checklist.append(f"\n**Source Platform:** {platform_info['primary_description']}")
+    checklist.append(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    checklist.append(f"**Repository:** {repo_url or 'Local'}")
+    
+    # Summary section
+    checklist.append("\n## Summary\n")
+    checklist.append("| Metric | Value |")
+    checklist.append("|--------|-------|")
+    checklist.append(f"| Source Platform | {platform_info['primary_description']} |")
+    checklist.append(f"| Config Files | {', '.join(platform_info['config_files']) or 'None detected'} |")
+    checklist.append(f"| Architecture Type | {architecture['architecture_type']} |")
+    checklist.append(f"| Runtime | {architecture['runtime']} |")
+    checklist.append(f"| Components Detected | {len(architecture['components'])} |")
+    checklist.append(f"| Successfully Mapped | {len(architecture['components']) - len(test_generator.unmapped_items)} |")
+    checklist.append(f"| Requires Decision | {len(test_generator.unmapped_items)} |")
+    checklist.append(f"| Test Branch | `{test_branch}` |")
+    checklist.append(f"| Production Branch | `{prod_branch}` |")
+    
+    # Component mapping section
+    checklist.append("\n## Component Mapping\n")
+    checklist.append("### ✅ Successfully Mapped\n")
+    checklist.append("| Source | Target | Type | Notes |")
+    checklist.append("|--------|--------|------|-------|")
+    
+    for comp in architecture['components']:
+        source = f"{comp['name']}"
+        if comp.get('command'):
+            source += f" (`{comp['command'][:30]}...`)" if len(comp.get('command', '')) > 30 else f" (`{comp['command']}`)"
+        
+        target_type = {
+            'service': 'services',
+            'worker': 'workers',
+            'job': 'jobs',
+            'static_site': 'static_sites'
+        }.get(comp['type'], comp['type'])
+        
+        notes = []
+        if comp.get('port'):
+            notes.append(f"port {comp['port']}")
+        if comp.get('source_dir') and comp['source_dir'] != '/':
+            notes.append(f"dir: {comp['source_dir']}")
+        
+        checklist.append(f"| {source} | {target_type}.{comp['name']} | {comp['type']} | {', '.join(notes) or '-'} |")
+    
+    # Dependencies mapping
+    deps = architecture['dependencies']
+    if deps['databases'] or deps['caches']:
+        checklist.append("\n### Database & Cache Mapping\n")
+        checklist.append("| Source | Target | Notes |")
+        checklist.append("|--------|--------|-------|")
+        
+        for db in deps['databases']:
+            target = 'databases.db' if db['type'] == 'postgres' else f"databases.{db['type']}"
+            engine = {'postgres': 'PG', 'mysql': 'MYSQL', 'mongodb': 'MONGODB'}.get(db['type'], db['type'].upper())
+            checklist.append(f"| {db['source']} | {target} ({engine}) | {db.get('note', '-')} |")
+        
+        for cache in deps['caches']:
+            note = cache.get('note', 'Redis EOL → using Valkey')
+            checklist.append(f"| {cache['source']} | databases.cache (VALKEY) | {note} |")
+    
+    # Unmapped items section
+    if test_generator.unmapped_items:
+        checklist.append("\n### ⚠️ Requires Your Decision\n")
+        
+        for item in test_generator.unmapped_items:
+            checklist.append(f"\n**{item['name']}**")
+            checklist.append(f"- Source: {item['source']}")
+            checklist.append(f"- Issue: {item['reason']}")
+            checklist.append("- Options:")
+            for opt in item.get('options', []):
+                checklist.append(f"  - [ ] {opt}")
+    
+    # Environment variables section
+    checklist.append("\n## Environment Variables\n")
+    checklist.append("| Variable | Source | Action |")
+    checklist.append("|----------|--------|--------|")
+    
+    # Standard bindings
+    if deps['databases']:
+        for db in deps['databases']:
+            if db['type'] == 'postgres':
+                checklist.append("| `DATABASE_URL` | database binding | Auto-bound: `${db.DATABASE_URL}` |")
+            elif db['type'] == 'mysql':
+                checklist.append("| `MYSQL_URL` | database binding | Auto-bound: `${mysqldb.DATABASE_URL}` |")
+    
+    if deps['caches']:
+        checklist.append("| `VALKEY_URL` | cache binding | Auto-bound: `${cache.DATABASE_URL}` |")
+        checklist.append("| `REDIS_URL` | cache binding | Alias for Valkey compatibility |")
+    
+    # Secrets
+    checklist.append("| `SECRET_KEY` | application secret | Set in GitHub Secrets |")
+    checklist.append("| `PORT` | app port | Auto-set by App Platform |")
+    
+    # Code changes section
+    checklist.append("\n## Code Changes Required\n")
+    
+    code_changes = []
+    
+    # Platform-specific changes
+    if platform_info['primary_platform'] == 'heroku':
+        code_changes.append("- [ ] Remove Heroku-specific `DATABASE_URL` postgres:// → postgresql:// fix (if present)")
+        code_changes.append("- [ ] Update any `REDIS_URL` references to `VALKEY_URL`")
+    
+    if any(c['type'] == 'redis' for c in deps.get('caches', [])):
+        code_changes.append("- [ ] Update Redis client configuration for Valkey compatibility")
+    
+    if deps.get('storage'):
+        code_changes.append("- [ ] Update S3/storage configuration for Spaces compatibility")
+        code_changes.append("  - Endpoint: `https://<region>.digitaloceanspaces.com`")
+        code_changes.append("  - Use `SPACES_KEY`, `SPACES_SECRET`, `SPACES_BUCKET` env vars")
+    
+    if not code_changes:
+        code_changes.append("- [ ] No platform-specific code changes detected")
+    
+    for change in code_changes:
+        checklist.append(change)
+    
+    # Files created section
+    checklist.append("\n## Files Created\n")
+    checklist.append("```")
+    checklist.append(".do/")
+    checklist.append("├── app.yaml              # App Platform spec")
+    checklist.append("├── deploy.template.yaml  # Deploy-to-DO button")
+    checklist.append("├── test.app.yaml         # Testing environment spec")
+    checklist.append("└── prod.app.yaml         # Production environment spec")
+    checklist.append("MIGRATION.md              # This file")
+    checklist.append(".env.example              # Environment variable template")
+    checklist.append("```")
+    
+    # Pre-migration checklist
+    checklist.append("\n## Pre-Migration Checklist\n")
+    checklist.append("### Before You Begin\n")
+    checklist.append("- [ ] Review all component mappings above")
+    checklist.append("- [ ] Decide on unmapped items (if any)")
+    checklist.append("- [ ] Ensure `doctl` is authenticated: `doctl account get`")
+    checklist.append("- [ ] Ensure `gh` is authenticated: `gh auth status`")
+    checklist.append("- [ ] Note current environment variable values from source platform")
+    
+    # Setup checklist
+    checklist.append("\n### App Platform Setup\n")
+    
+    # Production database creation
+    if any(db.get('type') == 'postgres' for db in deps.get('databases', [])):
+        checklist.append("#### Database Setup (Production)\n")
+        checklist.append("```bash")
+        checklist.append(f"# Create managed PostgreSQL cluster")
+        checklist.append(f"doctl databases create {app_name}-db \\")
+        checklist.append("  --engine pg \\")
+        checklist.append("  --region nyc \\")
+        checklist.append("  --size db-s-1vcpu-1gb \\")
+        checklist.append("  --num-nodes 1")
+        checklist.append("")
+        checklist.append("# Get connection string")
+        checklist.append(f"doctl databases connection {app_name}-db --format URI")
+        checklist.append("```")
+    
+    if any(c.get('type') in ['redis', 'valkey'] for c in deps.get('caches', [])):
+        checklist.append("\n#### Cache Setup (Production)\n")
+        checklist.append("```bash")
+        checklist.append(f"# Create Valkey cluster")
+        checklist.append(f"doctl databases create {app_name}-cache \\")
+        checklist.append("  --engine valkey \\")
+        checklist.append("  --region nyc \\")
+        checklist.append("  --size db-s-1vcpu-1gb")
+        checklist.append("```")
+    
+    # GitHub setup
+    checklist.append("\n#### GitHub Environment Setup\n")
+    checklist.append("```bash")
+    checklist.append("# Create staging environment")
+    checklist.append("gh api --method PUT repos/:owner/:repo/environments/staging")
+    checklist.append("")
+    checklist.append("# Create production environment with protection")
+    checklist.append("gh api --method PUT repos/:owner/:repo/environments/production \\")
+    checklist.append("  -F prevent_self_review=true")
+    checklist.append("")
+    checklist.append("# Set secrets (you'll be prompted for values)")
+    checklist.append("gh secret set DIGITALOCEAN_ACCESS_TOKEN --env staging")
+    checklist.append("gh secret set SECRET_KEY --env staging")
+    checklist.append("")
+    checklist.append("# Repeat for production")
+    checklist.append("gh secret set DIGITALOCEAN_ACCESS_TOKEN --env production")
+    checklist.append("gh secret set SECRET_KEY --env production")
+    checklist.append("```")
+    
+    # Deployment checklist
+    checklist.append("\n### Deployment\n")
+    checklist.append("```bash")
+    checklist.append("# Validate app spec")
+    checklist.append("doctl apps spec validate .do/app.yaml")
+    checklist.append("")
+    checklist.append("# Deploy testing environment")
+    checklist.append(f"git checkout {test_branch}")
+    checklist.append("doctl apps create --spec .do/app.yaml")
+    checklist.append("")
+    checklist.append("# After testing, deploy production")
+    checklist.append(f"git checkout {prod_branch}")
+    checklist.append("doctl apps create --spec .do/app.yaml")
+    checklist.append("```")
+    
+    # Data migration section
+    if deps.get('databases'):
+        checklist.append("\n## Data Migration\n")
+        
+        if any(db['type'] == 'postgres' for db in deps['databases']):
+            checklist.append("### PostgreSQL\n")
+            
+            if platform_info['primary_platform'] == 'heroku':
+                checklist.append("```bash")
+                checklist.append("# 1. Create backup from Heroku")
+                checklist.append("heroku pg:backups:capture --app <heroku-app-name>")
+                checklist.append("heroku pg:backups:download --app <heroku-app-name>")
+                checklist.append("")
+                checklist.append("# 2. Restore to DigitalOcean")
+                checklist.append("pg_restore -d \"<DO_DATABASE_URL>\" latest.dump")
+                checklist.append("```")
+            else:
+                checklist.append("```bash")
+                checklist.append("# 1. Export from source database")
+                checklist.append("pg_dump \"<SOURCE_DATABASE_URL>\" > backup.sql")
+                checklist.append("")
+                checklist.append("# 2. Import to DigitalOcean")
+                checklist.append("psql \"<DO_DATABASE_URL>\" < backup.sql")
+                checklist.append("```")
+    
+    # DNS cutover section
+    checklist.append("\n## DNS Cutover\n")
+    checklist.append("```bash")
+    checklist.append("# 1. Lower TTL 24-48 hours before migration")
+    checklist.append("# Set TTL to 300 (5 minutes) in your DNS provider")
+    checklist.append("")
+    checklist.append("# 2. Get App Platform URL")
+    checklist.append("doctl apps list --format ID,DefaultIngress")
+    checklist.append("")
+    checklist.append("# 3. Update DNS records to point to App Platform")
+    checklist.append("# CNAME: your-domain.com → <app-name>.ondigitalocean.app")
+    checklist.append("")
+    checklist.append("# 4. (Optional) Add custom domain in App Platform")
+    checklist.append("doctl apps update <app-id> --spec .do/app.yaml")
+    checklist.append("# (after adding domain to spec)")
+    checklist.append("")
+    checklist.append("# 5. After cutover, increase TTL back to normal (3600+)")
+    checklist.append("```")
+    
+    # Post-migration checklist
+    checklist.append("\n## Post-Migration Checklist\n")
+    checklist.append("- [ ] Verify all components are running: `doctl apps list-deployments <app-id>`")
+    checklist.append("- [ ] Check application logs: `doctl apps logs <app-id> --type run`")
+    checklist.append("- [ ] Test critical user journeys")
+    checklist.append("- [ ] Verify background jobs/workers are processing")
+    checklist.append("- [ ] Monitor error rates in App Platform Insights")
+    checklist.append("- [ ] Update documentation with new deployment process")
+    checklist.append("- [ ] Decommission old infrastructure after verification period")
+    
+    # Rollback section
+    checklist.append("\n## Rollback Plan\n")
+    checklist.append("If issues occur after cutover:\n")
+    checklist.append("1. Point DNS back to original platform")
+    checklist.append("2. Original infrastructure should remain running during verification period")
+    checklist.append("3. Debug issues using `doctl apps logs` and App Platform console")
+    checklist.append("4. Fix and re-attempt migration")
+    
+    # Warnings section
+    if test_generator.warnings or prod_generator.warnings:
+        checklist.append("\n## ⚠️ Warnings\n")
+        all_warnings = list(set(test_generator.warnings + prod_generator.warnings))
+        for warning in all_warnings:
+            checklist.append(f"- {warning}")
+    
+    # Next steps section
+    checklist.append("\n## Next Steps\n")
+    checklist.append("After reviewing this migration report:\n")
+    checklist.append(f"1. **Review branches**: `git diff main..{test_branch}`")
+    checklist.append("2. **Use deployment skill**: Set up GitHub Actions CI/CD")
+    checklist.append("3. **Use devcontainers skill**: Set up local development environment")
+    checklist.append("4. **Use troubleshooting skill**: If deployment issues occur")
+    
+    return '\n'.join(checklist)
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description='Generate migration checklist for App Platform'
+    )
+    parser.add_argument('repo_path', help='Path to the repository')
+    parser.add_argument('--name', required=True, help='Application name')
+    parser.add_argument('--repo-url', help='Git repository URL')
+    parser.add_argument('--test-branch', default='migrate/test', help='Test branch name')
+    parser.add_argument('--prod-branch', default='migrate/prod', help='Production branch name')
+    parser.add_argument('--output', help='Output file path')
+    
+    args = parser.parse_args()
+    
+    try:
+        checklist = generate_checklist(
+            args.repo_path,
+            args.name,
+            repo_url=args.repo_url,
+            test_branch=args.test_branch,
+            prod_branch=args.prod_branch
+        )
+        
+        if args.output:
+            Path(args.output).write_text(checklist)
+            print(f"Written to: {args.output}")
+        else:
+            print(checklist)
+    
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
+
+
+if __name__ == '__main__':
+    main()

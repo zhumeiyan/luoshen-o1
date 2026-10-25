@@ -1,1 +1,101 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJTMSDkv67mraPniYjvvJrlm5voh4LliIbnprsi5Lyg5oSf5Zmo5ZyoIuS4jiLnl5vop4nmiqLljaAi5ZCE6Ieq6LSh54yuCuWFs+mUruS/ruato++8mmNhc2NhZGVfZGVsYXkoNSkgPiBoZWFsX2Nvc3QoMinvvIzkv67lpI3mnaXlvpflj4rvvIznrZbnlaXmiY3mnInmhI/kuYkKICBub3JtYWwgIOajgOa1iy0+56uL5Yi75oqi5Y2g5L+u5aSNCiAgcXVldWUgICDmo4DmtYstPuaOkumYnyjku7vliqHmrrXnu5PmnZ/lho3kv64pICAgW+WIhuemuyLmiqLljaAi55qE5Lu35YC8XQogIGNpcGEgICAg5qOA5rWLLT7lj6rorrDotKbkuI3kv64gICAgICAgICAgICBb5YiG56a7IuS8oOaEn+WZqCLnmoTku7flgLxdCiAgbm9zZW5zb3Ig5LiN55+l6YGTCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgcmFuZG9tLCB0aW1lCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCmZyb20gY2VsbCBpbXBvcnQgQm9keQoKTl9DRUxMUyA9IDEwClJPVU5EUyA9IDQwClBfSU5KVVJFID0gMC4zMApIRUFMX0NPU1QgPSAyCkNBU0NBREVfREVMQVkgPSA1ClRBU0tfU0VHID0gMwpNQVhfQ0VMTFMgPSAxMgoKZGVmIHJ1bihtb2RlLCBzZWVkPTApOgogICAgcm5nID0gcmFuZG9tLlJhbmRvbShzZWVkKQogICAgYiA9IEJvZHkoTl9DRUxMUykKICAgIHBlbmRpbmcgPSB7fSAgICAgICMgY2lkIC0+IOWJqeS9meS/ruWkjei9rgogICAgd291bmRzID0ge30gICAgICAgIyBjaWQgLT4g5bey562J5b6F6L2u77yI5pyq5L+u5aSN55qE5Lyk5Y+j77yJCiAgICBnYWluID0gMAogICAgY2FzY2FkZSA9IDAKICAgIGhlYWxlZCA9IDAKICAgIGxvc3QgPSAwCiAgICB0cnk6CiAgICAgICAgZm9yIHQgaW4gcmFuZ2UoUk9VTkRTKToKICAgICAgICAgICAgIyAxIOecn+WunuaNn+S8pAogICAgICAgICAgICBhbGl2ZSA9IGxpc3QoYi5jZWxscy5rZXlzKCkpCiAgICAgICAgICAgIGlmIGFsaXZlIGFuZCBybmcucmFuZG9tKCkgPCBQX0lOSlVSRToKICAgICAgICAgICAgICAgIHYgPSBybmcuY2hvaWNlKGFsaXZlKQogICAgICAgICAgICAgICAgaWYgYi5raWxsKHYpOgogICAgICAgICAgICAgICAgICAgIHdvdW5kc1t2XSA9IDAKICAgICAgICAgICAgICAgICAgICBsb3N0ICs9IDEKCiAgICAgICAgICAgICMgMiDmhJ/nn6XvvIhub3JtYWwvcXVldWUvY2lwYSDnm7jlkIzvvJtub3NlbnNvciDkuLrnqbrvvIkKICAgICAgICAgICAga25vd24gPSBzZXQoKSBpZiBtb2RlID09ICdub3NlbnNvcicgZWxzZSBzZXQod291bmRzLmtleXMoKSkKCiAgICAgICAgICAgICMgMyDlhrPnrZYKICAgICAgICAgICAgZm9yIGNpZCBpbiBzb3J0ZWQoa25vd24pOgogICAgICAgICAgICAgICAgaWYgY2lkIGluIHBlbmRpbmcgb3IgY2lkIGluIGIuY2VsbHM6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIGlmIG1vZGUgPT0gJ25vcm1hbCc6CiAgICAgICAgICAgICAgICAgICAgaWYgbGVuKHBlbmRpbmcpIDwgMiBhbmQgYi5hbGl2ZSgpIDwgTUFYX0NFTExTOgogICAgICAgICAgICAgICAgICAgICAgICBwZW5kaW5nW2NpZF0gPSBIRUFMX0NPU1QKICAgICAgICAgICAgICAgICAgICAgICAgd291bmRzLnBvcChjaWQsIE5vbmUpCiAgICAgICAgICAgICAgICBlbGlmIG1vZGUgPT0gJ3F1ZXVlJzoKICAgICAgICAgICAgICAgICAgICAjIOWPquWcqOS7u+WKoeautei+ueeVjOaJjeWkhOeQhuS8pOWPoyAtPiDlubPlnYflu7bov58gVEFTS19TRUcvMgogICAgICAgICAgICAgICAgICAgIGlmIHQgJSBUQVNLX1NFRyA9PSAwIGFuZCBsZW4ocGVuZGluZykgPCAyIGFuZCBiLmFsaXZlKCkgPCBNQVhfQ0VMTFM6CiAgICAgICAgICAgICAgICAgICAgICAgIHBlbmRpbmdbY2lkXSA9IEhFQUxfQ09TVAogICAgICAgICAgICAgICAgICAgICAgICB3b3VuZHMucG9wKGNpZCwgTm9uZSkKICAgICAgICAgICAgICAgICMgY2lwYSAvIG5vc2Vuc29yIOS4jeS/rgoKICAgICAgICAgICAgIyA0IOS/ruWkjeaOqOi/m++8iOecn+WuniBmb3Jr77yJCiAgICAgICAgICAgIGRvbmUgPSBbYyBmb3IgYyBpbiBwZW5kaW5nIGlmIChwZW5kaW5nLnVwZGF0ZSh7YzogcGVuZGluZ1tjXS0xfSkgb3IgcGVuZGluZ1tjXSA8PSAwKV0KICAgICAgICAgICAgZm9yIGMgaW4gZG9uZToKICAgICAgICAgICAgICAgIGIuaGVhbChjKTsgaGVhbGVkICs9IDE7IGRlbCBwZW5kaW5nW2NdCgogICAgICAgICAgICAjIDUg5pS255uK77ya5pys6L2u5pyq5Zyo5L+u5aSN5omN5YGa5pel5bi45Lu75YqhCiAgICAgICAgICAgIGlmIG5vdCBwZW5kaW5nOgogICAgICAgICAgICAgICAgZ2FpbiArPSAxCgogICAgICAgICAgICAjIDYg6L+e6ZSB77ya5Lyk5Y+j6LaF5pe2IC0+IOmCu+Wxheecn+Wunuatu+S6oQogICAgICAgICAgICBmb3IgY2lkIGluIGxpc3Qod291bmRzKToKICAgICAgICAgICAgICAgIHdvdW5kc1tjaWRdICs9IDEKICAgICAgICAgICAgICAgIGlmIHdvdW5kc1tjaWRdID49IENBU0NBREVfREVMQVk6CiAgICAgICAgICAgICAgICAgICAgbmJycyA9IFt4IGZvciB4IGluIHJhbmdlKE5fQ0VMTFMpIGlmIHggIT0gY2lkIGFuZCB4IGluIGIuY2VsbHMgYW5kIHggbm90IGluIHdvdW5kc10KICAgICAgICAgICAgICAgICAgICBpZiBuYnJzOgogICAgICAgICAgICAgICAgICAgICAgICBudiA9IHJuZy5jaG9pY2UobmJycykKICAgICAgICAgICAgICAgICAgICAgICAgaWYgYi5raWxsKG52KToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdvdW5kc1tudl0gPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNjYWRlICs9IDEKICAgICAgICAgICAgICAgICAgICBkZWwgd291bmRzW2NpZF0KICAgICAgICByZXMgPSBkaWN0KG1vZGU9bW9kZSwgYWxpdmU9Yi5hbGl2ZSgpLCBnYWluPWdhaW4sIGNhc2NhZGU9Y2FzY2FkZSwKICAgICAgICAgICAgICAgICAgIGhlYWxlZD1oZWFsZWQsIGxvc3Q9bG9zdCkKICAgIGZpbmFsbHk6CiAgICAgICAgYi5yZWFwKCkKICAgIHJldHVybiByZXMKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBSRVBTID0gaW50KHN5cy5hcmd2WzFdKSBpZiBsZW4oc3lzLmFyZ3YpID4gMSBlbHNlIDEyCiAgICBvdXQgPSB7fQogICAgZm9yIG1vZGUgaW4gWydub3JtYWwnLCAncXVldWUnLCAnY2lwYScsICdub3NlbnNvciddOgogICAgICAgIHJzID0gW3J1bihtb2RlLCBzZWVkPTk3NyAqIGkgKyAxMykgZm9yIGkgaW4gcmFuZ2UoUkVQUyldCiAgICAgICAgYWwgPSBbclsnYWxpdmUnXSBmb3IgciBpbiByc10KICAgICAgICBnbiA9IFtyWydnYWluJ10gZm9yIHIgaW4gcnNdCiAgICAgICAgY2MgPSBbclsnY2FzY2FkZSddIGZvciByIGluIHJzXQogICAgICAgIG91dFttb2RlXSA9IGRpY3QoYWxpdmU9YWwsIGdhaW49Z24sIGNhc2NhZGU9Y2MsCiAgICAgICAgICAgICAgICAgICAgICAgICBhbGl2ZV9tZWFuPXN1bShhbCkvbGVuKGFsKSwgZ2Fpbl9tZWFuPXN1bShnbikvbGVuKGduKSwKICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2NhZGVfbWVhbj1zdW0oY2MpL2xlbihjYykpCiAgICAgICAgcHJpbnQoJyUtOXMgYWxpdmUgJTUuMmYgJXMnICUgKG1vZGUsIHN1bShhbCkvbGVuKGFsKSwgYWwpKQogICAgICAgIHByaW50KCcgICAgICAgICAgZ2FpbiAgJTUuMmYgIGNhc2NhZGUgJTUuMmYgIGhlYWxlZCAlLjFmIGxvc3QgJS4xZicKICAgICAgICAgICAgICAlIChzdW0oZ24pL2xlbihnbiksIHN1bShjYykvbGVuKGNjKSwKICAgICAgICAgICAgICAgICBzdW0oclsnaGVhbGVkJ10gZm9yIHIgaW4gcnMpL2xlbihycyksCiAgICAgICAgICAgICAgICAgc3VtKHJbJ2xvc3QnXSBmb3IgciBpbiBycykvbGVuKHJzKSkpCiAgICBqc29uLmR1bXAob3V0LCBvcGVuKCdyZXN1bHRfczEuanNvbicsJ3cnKSwgaW5kZW50PTEpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""S1 修正版：四臂分离"传感器在"与"痛觉抢占"各自贡献
+关键修正：cascade_delay(5) > heal_cost(2)，修复来得及，策略才有意义
+  normal  检测->立刻抢占修复
+  queue   检测->排队(任务段结束再修)   [分离"抢占"的价值]
+  cipa    检测->只记账不修            [分离"传感器"的价值]
+  nosensor 不知道
+"""
+import os, sys, json, random, time
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from cell import Body
+
+N_CELLS = 10
+ROUNDS = 40
+P_INJURE = 0.30
+HEAL_COST = 2
+CASCADE_DELAY = 5
+TASK_SEG = 3
+MAX_CELLS = 12
+
+def run(mode, seed=0):
+    rng = random.Random(seed)
+    b = Body(N_CELLS)
+    pending = {}      # cid -> 剩余修复轮
+    wounds = {}       # cid -> 已等待轮（未修复的伤口）
+    gain = 0
+    cascade = 0
+    healed = 0
+    lost = 0
+    try:
+        for t in range(ROUNDS):
+            # 1 真实损伤
+            alive = list(b.cells.keys())
+            if alive and rng.random() < P_INJURE:
+                v = rng.choice(alive)
+                if b.kill(v):
+                    wounds[v] = 0
+                    lost += 1
+
+            # 2 感知（normal/queue/cipa 相同；nosensor 为空）
+            known = set() if mode == 'nosensor' else set(wounds.keys())
+
+            # 3 决策
+            for cid in sorted(known):
+                if cid in pending or cid in b.cells:
+                    continue
+                if mode == 'normal':
+                    if len(pending) < 2 and b.alive() < MAX_CELLS:
+                        pending[cid] = HEAL_COST
+                        wounds.pop(cid, None)
+                elif mode == 'queue':
+                    # 只在任务段边界才处理伤口 -> 平均延迟 TASK_SEG/2
+                    if t % TASK_SEG == 0 and len(pending) < 2 and b.alive() < MAX_CELLS:
+                        pending[cid] = HEAL_COST
+                        wounds.pop(cid, None)
+                # cipa / nosensor 不修
+
+            # 4 修复推进（真实 fork）
+            done = [c for c in pending if (pending.update({c: pending[c]-1}) or pending[c] <= 0)]
+            for c in done:
+                b.heal(c); healed += 1; del pending[c]
+
+            # 5 收益：本轮未在修复才做日常任务
+            if not pending:
+                gain += 1
+
+            # 6 连锁：伤口超时 -> 邻居真实死亡
+            for cid in list(wounds):
+                wounds[cid] += 1
+                if wounds[cid] >= CASCADE_DELAY:
+                    nbrs = [x for x in range(N_CELLS) if x != cid and x in b.cells and x not in wounds]
+                    if nbrs:
+                        nv = rng.choice(nbrs)
+                        if b.kill(nv):
+                            wounds[nv] = 0
+                            cascade += 1
+                    del wounds[cid]
+        res = dict(mode=mode, alive=b.alive(), gain=gain, cascade=cascade,
+                   healed=healed, lost=lost)
+    finally:
+        b.reap()
+    return res
+
+if __name__ == '__main__':
+    REPS = int(sys.argv[1]) if len(sys.argv) > 1 else 12
+    out = {}
+    for mode in ['normal', 'queue', 'cipa', 'nosensor']:
+        rs = [run(mode, seed=977 * i + 13) for i in range(REPS)]
+        al = [r['alive'] for r in rs]
+        gn = [r['gain'] for r in rs]
+        cc = [r['cascade'] for r in rs]
+        out[mode] = dict(alive=al, gain=gn, cascade=cc,
+                         alive_mean=sum(al)/len(al), gain_mean=sum(gn)/len(gn),
+                         cascade_mean=sum(cc)/len(cc))
+        print('%-9s alive %5.2f %s' % (mode, sum(al)/len(al), al))
+        print('          gain  %5.2f  cascade %5.2f  healed %.1f lost %.1f'
+              % (sum(gn)/len(gn), sum(cc)/len(cc),
+                 sum(r['healed'] for r in rs)/len(rs),
+                 sum(r['lost'] for r in rs)/len(rs)))
+    json.dump(out, open('result_s1.json','w'), indent=1)

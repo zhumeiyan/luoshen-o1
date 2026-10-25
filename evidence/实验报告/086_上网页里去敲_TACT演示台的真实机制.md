@@ -1,1 +1,110 @@
-IyAwODYgwrcg5LiK572R6aG16YeM5Y675pWy77yaVEFDVCDmvJTnpLrlj7DnmoTnnJ/lrp7mnLrliLYKCj4g6KGM5Li65bGC5aOw5piO77ya5pys6L2uKirmsqHmnInlpI3njrDlr7nmlrnnmoTnrpfms5UqKu+8jOiAjOaYr+eUqOecvOedm++8iOa1j+iniOWZqOa4suafkyArIOaIquWbvu+8ieWSjOaJi++8iOmUruebmOaVsuWHuyArIOeCueWHu++8iQo+IOWcqCBUQUNUIOWumOaWuSLor4Tlp5TljbPlvIDljbPnlKgi5ryU56S65Y+w55qE55yf5a6e55WM6Z2i6YeM5pON5L2c77yM6K+75a6D6Ieq5bex5riy5p+T5Ye65p2l55qEIERPTeOAggo+IOWJjeWHoOi9ru+8iDA3MO+8ieaIkeaYryLor7vlroPnmoQgUHl0aG9uIOa6kOeggSDihpIg6Ieq5bex6LeRIu+8jOmCo+aYryoq5oiR5pu/5a6D6LeRKirvvJvov5nmrKHmmK8qKuWug+iHquW3sei3kSoq44CCCgojIyAwLiDnnJ/ouqvmoKHpqozvvIjpmLIi5L2g5pS55LqG5Lq65a625paH5Lu2Iu+8iQoKfCDpobkgfCDlgLwgfAp8LS0tfC0tLXwKfCDmlofku7YgfCBgZGVtby9UQUNU5ryU56S65Y+wLmh0bWxg77yI5a6Y5pa55LuT5bqT77yMbWFpbiDliIbmlK/vvIkgfAp8IOWtl+iKguaVsCB8IDc2Njg277yI5LiOIEFQSSDmiqXlkYrkuIDoh7TvvIkgfAp8IGdpdCBibG9iIHNoYTEgfCBgMDBhY2VjNDIzYjNiYzgxZGRjM2M0ODcxN2M2ZWUyYzk5OWY1ODA1YWAgfAp8IEFQSSDmiqXlkYogc2hhIHwgYDAwYWNlYzQyM2IzYmM4MWRkYzNjNDg3MTdjNmVlMmM5OTlmNTgwNWFgIHwKfCAqKk1BVENIKiogfCAqKlRydWUqKiB8Cgrojrflj5bmlrnlvI/vvJpHaXRIdWIgY29udGVudHMgQVBJIOWPliBiYXNlNjQg4oaSIOino+eggeiQveebmCDihpIg5pys5ZywIGBodHRwLnNlcnZlcmAg5o+Q5L6bIOKGkiBDaHJvbWUg5omT5byA44CCCua1j+iniOWZqOebtOaOpeiuv+mXriBgZ2l0aHViLmNvbWAgLyBgZ2l0ZWUuY29tYCDlnKjmnKznjq/looPov5Tlm54gNDAz77yI5Luj55CG55m95ZCN5Y2V77yJ77yM5Zug5q2k6LWwIEFQSSArIOacrOWcsOacjeWKoe+8jAoqKuaWh+S7tumAkOWtl+iKguacquaUue+8jHNoYTEg5Y+v5aSN5qC4KirjgIIKCiMjIDEuIOaWueazlQoKLSDlkK/liqggQ2hyb21l77yIcGxheXdyaWdodO+8jGAvdXNyL2Jpbi9nb29nbGUtY2hyb21lYO+8ie+8jOi9veWFpSBgaHR0cDovLzEyNy4wLjAuMTo4ODk5L2RlbW8uaHRtbGAKLSDmr4/mrKHvvJrmuIXnqbogYCN0cnlJbnB1dGAg4oaSIGBrZXlib2FyZC50eXBlKClgIOecn+WunuaVsuWHuyDihpIg54K55Ye7IGAjdHJ5QnRuYCDihpIg6K+7IGAjdHJ5UmVzdWx0YCDmuLLmn5PmlofmnKwKLSDlkb3kuK3liKTmja7vvJrov5Tlm57mlofmnKwqKuS4jeWQqyoq44CM5pyq5ZG95Lit44CN77yb5Z2Q5qCH55So5q2j5YiZIGBbTE1QXVxkKC1cZCk/YCDku47muLLmn5PmlofmnKzmir3lj5YKLSDph5HmoIflh4bvvJrlhoXnva7moYjkvovoh6rluKbnmoQgYHN0ZXBzW0wvTS9QXS5jb29yZHNg77yb5qCh5YeG6ZuG55SoIGBnb2xkZW5gCgojIyAyLiDnu5PmnpwKCiMjIyDikaAg6Ziz5oCn5a+554Wn5YWI5YGa77yI6K+B5piO5oiR55qE5omL5rKh5pWy6ZSZ77yJCgp8IOe7hCB8IG4gfCDkuInovbTlhajkuK3njocgfCDjgIzmnKrlkb3kuK3jgI3njocgfAp8LS0tfC0tLXwtLS18LS0tfAp8IEEg5YaF572u5qGI5L6L5Y6f5paHIHwgMTEgfCAqKjEuMDAwKiogfCAwLzExIHwKfCBCIOWug+iHquW3seeahOagoeWHhumbhuWOn+aWhyB8IDI5IHwgKiowLjAwMCoq77yITC9NL1Ag5YWoIDDvvIkgfCAqKjI5LzI5KiogfAoKKipBIOe7hCAxMDAlIOivgeaYjuaVsuWHu+S4juivu+WPluaWueW8j+ato+ehru+8m0Ig57uEIDAlIOaJjeaYr+ecn+WPkeeOsOOAgioqCgo+IOWQjOS4gOS4quS7k+W6k++8jGBlbmdpbmUvYCDlkb3ku6TooYzlr7nov5kgMjkg5p2h5oqlIE0gOTUuNyUgLyBQIDg2LjQlIC8gTCA3OC42Je+8mwo+IGBkZW1vL2Ag5ryU56S65Y+w5a+5KirlkIzkuIDmibnmlofmnKwqKui/lOWbniAyOS8yOeOAjOacquWRveS4reWGhee9ruahiOS+i+WFs+mUruivjeOAjeOAggo+ICoq5Lik5Liq5a6Y5pa55Lqn54mp57uZ5Ye65a6M5YWo55u45Y+N55qE57uT5p6c44CCKioKCiMjIyDikaEg6YCQ5a2X5omw5Yqo5qKv5bqm77yIbj0xMe+8iQoKfCDlj5jkvZMgfCDlhajkuK3njocgfAp8LS0tfC0tLXwKfCB2MCDljp/mlocgfCAqKjEuMDAwKiogfAp8IHYxIOacq+WwvuWKoOS4gOS4quWPpeWPtyB8ICoqMC4wMDAqKiB8CnwgdjIg5Yig5pyrIDUg5a2XIHwgKioxLjAwMCoqIHwKfCB2MyDkuK3pl7Tmj5LkuIDkuKrjgIzCt+OAjSB8ICoqMC4wMDAqKiB8CnwgdjQg5o2iIDEg5Liq5ZCM5LmJ6K+NIHwgMC42MzYgfAp8IHY1IOWOu+aOieepuuagvCB8IDAuMDkxIHwKfCB2NiDlj6rnlZnliY0gNTAg5a2XIHwgKioxLjAwMCoqIHwKCiMjIyDikaIg5Y+q5pS55LiA5Liq6K+N77ya6YCQ5p2h5a6M576O5YiG56a7Cgrlr7kgMTEg5p2h5ZCE5pu/5o2iIDEg5Liq5ZCM5LmJ6K+N77yI5pm66IO95L2T4oaS5Luj55CG56iL5bqPIC8g57uT6K664oaS57uT5p6cIC8g55So5oi34oaS5L2/55So6ICFIC8g6ZSZ6K+v4oaS5LiN5a+555qEIC8g6L6T5Ye64oaS57uZ5Ye677yJ77yaCgotICoq6KKr5pu/5o2i55qEIDkg5p2hIOKGkiDlkb3kuK3njocgMC4wMDAqKgotICoq5rKh6KKr5pu/5o2i55qEIDIg5p2h77yI5paH5pys5Y2z5Y6f5paH77yJ4oaSIOWRveS4reeOhyAxLjAwMCoqCgrpgJDmnaHml6Dmt7fmnYLvvIxgYzA3YC9gYzA5YCDmnKrooqvmm7/mjaLmlYXlhajkuK3vvIzlhbbkvZkgOSDmnaHlhajnga3jgIIqKuaUueWKqOS4gOS4quWtlyA9IOW9kumbtuOAgioqCgojIyMg4pGjIOacuuWItuWumuS9je+8mumAkOWtl+WtkOS4suWMuemFjQoKfCDovpPlhaUgfCDlkb3kuK3njocgfAp8LS0tfC0tLXwKfCDljp/mlocqKuWJjSA0IOWtlyoq77yIYEFJIOivhGDvvIkgfCAqKjEuMDAwKirvvIjovpPlh7rlrozmlbQgTDMgLyBNNC0xIC8gUDMtM++8iSB8Cnwg5YmNIDQvNi84LzEwLzE1LzIwLzMwIOWtlyB8IOaBkuS4uiAxLjAwMCB8Cnwg5Y6f5paHKirkuK3pl7QgMjAg5a2X5q616JC9KirvvIjnrKwgMjDigJM0MCDlrZfvvIkgfCA2LzYgPSAxLjAwMCB8Cnwg5peg5YWz5paH5pys77yI5aSp5rCU44CB54yr77yJIHwgMC8yIHwKCuWJjSA0IOWtl+WRveS4rSArIOS4remXtOeJh+auteWRveS4rSArIOaUueS4gOWtl+W9kumbtiArIOWKoOWPpeWPt+W9kumbtiArIOWOu+epuuagvOW9kumbtgrihpIgKirmnLrliLbkuLogYGRlc2MuaW5jbHVkZXMoaW5wdXQpYO+8mui+k+WFpeW/hemhu+aYr+WGhee9ruahiOS+i+WOn+aWh+eahOOAkOi/nue7reWtkOS4suOAkeOAgioqCgoqKuWGs+WumuaAp+ivgeaNrioq77ya6L6T5YWl5qGG6YeM5Y+q5pyJIGBBSSDor4RgIOS4ieS4quWtl+espu+8jOeVjOmdoui+k+WHuuWujOaVtOS4iei9tOWIpOWumgrvvIhg5ZG95LitIDEg5Liq55u46L+R5qGI5L6L4oCmIEwzIE00LTEgUDMtM2DvvInvvIzmiKrlm77op4EgYHdlYl9sYWIvc2hvdF9kZWNpc2l2ZS5wbmdg44CCCgojIyAzLiDnu5PorroKCioqVEFDVCDmvJTnpLrlj7DnmoTjgIzor5XkuIDor5XjgI3kuI3mmK/liKTlrprlmajvvIzmmK/pgJDlrZflrZDkuLLmo4DntKLlmajjgIIqKgoK5a6D5LiN6K+76K+t5LmJ44CB5Lmf5LiN6K+75YWz6ZSu6K+N77yMKirlj6rpl64i5L2g5pWy55qE6L+Z5q615a2X56ym5piv5LiN5piv5oiR5YaF572u5paH5pys55qE5LiA5q61Iioq44CCCuWboOatpO+8mgoKMS4g6K+E5aeU5omT5byAIGRlbW8g6L6T5YWlKiroh6rlt7HlhbPlv4PnmoTmoYjkvosqKiDihpIgKiowIOWRveS4rSoq77yIQiDnu4QgMjkvMjkg5bCx5piv5a6e6K+B77yJCjIuIOWvueWGhee9ruaWh+acrO+8jOi+k+WFpSA0IOS4quWtl+Wwsee7meWHuiLlrozmlbTkuInovbTliKTlrpoiCjMuIOS4jiAwNzAg55qE57uT6K66KirkuI3lnKjlkIzkuIDlsYIqKu+8mjA3MCDor7TnmoTmmK/lkb3ku6TooYwgZW5naW5l44CM5ZG95Lit6K+N6Z2i5LiN5piv6K+t5LmJ44CN77ybCiAgIOacrOi9ruivtOeahOaYryBkZW1v44CM6L+e5YWz6ZSu6K+N6YO95LiN5piv77yM5piv6YCQ5a2X5a2Q5Liy44CNCgojIyA0LiDlhazmraPor7TmmI7vvIjkuI3kuLrmiZPogIzmiZPvvIkKCi0g5ryU56S65Y+w6Ieq6Lqr5YaZ5piO6K+l57uT5p6c5piv44CMKirlgJnpgInotbfngrnvvIjku43pnIDov4fpl7jmoLjpqozvvIkqKuOAjeKAlOKAlOWugyoq5rKh5pyJ6Ieq56ew5Yik5a6a5byV5pOOKirvvIzov5nngrnor5rlrp4KLSDkvYYgUkVBRE1FIOeahOaOqui+nuaYr+OAjCoq6K+E5aeU5Y2z5byA5Y2z55SoIEhUTUzvvIgxMSDkuKrnnJ/lrp7moYjkvovkuIDplK7kuInovbTliKTlrprvvIkqKuOAje+8jAogICLkuIDplK7kuInovbTliKTlrpoi5LiOIuWtkOS4suajgOe0oiLkuYvpl7TlrZjlnKgqKuaOqui+nuiQveW3rioq77yM5Lya6K6p5Lq66K+v5Lul5Li65Y+v6L6T5YWl6Ieq5pyJ5qGI5L6LCi0g55yf5q2j55qE5Yik5a6a6IO95Yqb5ZyoIGBlbmdpbmUvYO+8iOinhOWImeW8leaTju+8ie+8jOS4jeWcqCBgZGVtby9gCi0g5pys5a6e6aqMKirlj6rlkKblrpogZGVtbyDnmoTliKTlrprog73lipsqKu+8jOS4jeWQpuWumiBUQUNUIOeahOWIhuexu+azleacrOi6q++8jOS5n+S4jeWQpuWumiAwNzAg55qEIGVuZ2luZSDlrp7mtYsKCiMjIDUuIOWxgOmZkAoKLSDmspnnm5LlhoUgYGdpdGh1Yi5jb21gL2BnaXRlZS5jb21gIOe9kemhtSA0MDPvvIzmlYXnlKjlrpjmlrnljp/mlofku7bnmoTmnKzlnLDlia/mnKzvvJsKICAqKnNoYTEg6YCQ5a2X6IqC5qC45a+56YCa6L+HKirvvIzkvYbmnI3liqHnjq/looPmmK/mnKzlnLAgYGh0dHAuc2VydmVyYO+8jOmdniBHaXRIdWIgUGFnZXMKLSDlnZDmoIfmir3lj5bkvp3otZbmraPliJnljLnphY3muLLmn5PmlofmnKzvvIzoi6XnlYzpnaLovpPlh7rmoLzlvI/lj5jljJbpnIDph43moKEKLSDmlLnlhpnmmK/lkKbkuLrnnJ/lkIzkuYnku43nlLHmiJHliKTlrprvvIjnrKwgMjY5IOadoe+8ie+8jOS9huacrOi9rue7k+iuuioq5LiN5L6d6LWW6K+t5LmJ5Yik5patKirvvJoKICDliqDlj6Xlj7fjgIHljrvnqbrmoLzjgIHliKDmnKsgNSDlrZfpg73mmK/nuq/lrZfnrKbmk43kvZzvvIzkuI7or63kuYnml6DlhbMKLSDmnKrmtYvvvJpkZW1vIOeahOWdkOagh+W6k+aQnOe0ouOAgeeUn+aAgeaYoOWwhOetieWFtuS9meWKn+iDvQoKIyMgNi4g5Yik5o2uCgrmlrDlop7nrKwgMzYy4oCTMzY5IOadoe+8jOingeWksei0peaooeW8j+W6k+OAggo=
+# 086 · 上网页里去敲：TACT 演示台的真实机制
+
+> 行为层声明：本轮**没有复现对方的算法**，而是用眼睛（浏览器渲染 + 截图）和手（键盘敲击 + 点击）
+> 在 TACT 官方"评委即开即用"演示台的真实界面里操作，读它自己渲染出来的 DOM。
+> 前几轮（070）我是"读它的 Python 源码 → 自己跑"，那是**我替它跑**；这次是**它自己跑**。
+
+## 0. 真身校验（防"你改了人家文件"）
+
+| 项 | 值 |
+|---|---|
+| 文件 | `demo/TACT演示台.html`（官方仓库，main 分支） |
+| 字节数 | 76686（与 API 报告一致） |
+| git blob sha1 | `00acec423b3bc81ddc3c48717c6ee2c999f5805a` |
+| API 报告 sha | `00acec423b3bc81ddc3c48717c6ee2c999f5805a` |
+| **MATCH** | **True** |
+
+获取方式：GitHub contents API 取 base64 → 解码落盘 → 本地 `http.server` 提供 → Chrome 打开。
+浏览器直接访问 `github.com` / `gitee.com` 在本环境返回 403（代理白名单），因此走 API + 本地服务，
+**文件逐字节未改，sha1 可复核**。
+
+## 1. 方法
+
+- 启动 Chrome（playwright，`/usr/bin/google-chrome`），载入 `http://127.0.0.1:8899/demo.html`
+- 每次：清空 `#tryInput` → `keyboard.type()` 真实敲击 → 点击 `#tryBtn` → 读 `#tryResult` 渲染文本
+- 命中判据：返回文本**不含**「未命中」；坐标用正则 `[LMP]\d(-\d)?` 从渲染文本抽取
+- 金标准：内置案例自带的 `steps[L/M/P].coords`；校准集用 `golden`
+
+## 2. 结果
+
+### ① 阳性对照先做（证明我的手没敲错）
+
+| 组 | n | 三轴全中率 | 「未命中」率 |
+|---|---|---|---|
+| A 内置案例原文 | 11 | **1.000** | 0/11 |
+| B 它自己的校准集原文 | 29 | **0.000**（L/M/P 全 0） | **29/29** |
+
+**A 组 100% 证明敲击与读取方式正确；B 组 0% 才是真发现。**
+
+> 同一个仓库，`engine/` 命令行对这 29 条报 M 95.7% / P 86.4% / L 78.6%；
+> `demo/` 演示台对**同一批文本**返回 29/29「未命中内置案例关键词」。
+> **两个官方产物给出完全相反的结果。**
+
+### ② 逐字扰动梯度（n=11）
+
+| 变体 | 全中率 |
+|---|---|
+| v0 原文 | **1.000** |
+| v1 末尾加一个句号 | **0.000** |
+| v2 删末 5 字 | **1.000** |
+| v3 中间插一个「·」 | **0.000** |
+| v4 换 1 个同义词 | 0.636 |
+| v5 去掉空格 | 0.091 |
+| v6 只留前 50 字 | **1.000** |
+
+### ③ 只改一个词：逐条完美分离
+
+对 11 条各替换 1 个同义词（智能体→代理程序 / 结论→结果 / 用户→使用者 / 错误→不对的 / 输出→给出）：
+
+- **被替换的 9 条 → 命中率 0.000**
+- **没被替换的 2 条（文本即原文）→ 命中率 1.000**
+
+逐条无混杂，`c07`/`c09` 未被替换故全中，其余 9 条全灭。**改动一个字 = 归零。**
+
+### ④ 机制定位：逐字子串匹配
+
+| 输入 | 命中率 |
+|---|---|
+| 原文**前 4 字**（`AI 评`） | **1.000**（输出完整 L3 / M4-1 / P3-3） |
+| 前 4/6/8/10/15/20/30 字 | 恒为 1.000 |
+| 原文**中间 20 字段落**（第 20–40 字） | 6/6 = 1.000 |
+| 无关文本（天气、猫） | 0/2 |
+
+前 4 字命中 + 中间片段命中 + 改一字归零 + 加句号归零 + 去空格归零
+→ **机制为 `desc.includes(input)`：输入必须是内置案例原文的【连续子串】。**
+
+**决定性证据**：输入框里只有 `AI 评` 三个字符，界面输出完整三轴判定
+（`命中 1 个相近案例… L3 M4-1 P3-3`），截图见 `web_lab/shot_decisive.png`。
+
+## 3. 结论
+
+**TACT 演示台的「试一试」不是判定器，是逐字子串检索器。**
+
+它不读语义、也不读关键词，**只问"你敲的这段字符是不是我内置文本的一段"**。
+因此：
+
+1. 评委打开 demo 输入**自己关心的案例** → **0 命中**（B 组 29/29 就是实证）
+2. 对内置文本，输入 4 个字就给出"完整三轴判定"
+3. 与 070 的结论**不在同一层**：070 说的是命令行 engine「命中词面不是语义」；
+   本轮说的是 demo「连关键词都不是，是逐字子串」
+
+## 4. 公正说明（不为打而打）
+
+- 演示台自身写明该结果是「**候选起点（仍需过闸核验）**」——它**没有自称判定引擎**，这点诚实
+- 但 README 的措辞是「**评委即开即用 HTML（11 个真实案例一键三轴判定）**」，
+  "一键三轴判定"与"子串检索"之间存在**措辞落差**，会让人误以为可输入自有案例
+- 真正的判定能力在 `engine/`（规则引擎），不在 `demo/`
+- 本实验**只否定 demo 的判定能力**，不否定 TACT 的分类法本身，也不否定 070 的 engine 实测
+
+## 5. 局限
+
+- 沙盒内 `github.com`/`gitee.com` 网页 403，故用官方原文件的本地副本；
+  **sha1 逐字节核对通过**，但服务环境是本地 `http.server`，非 GitHub Pages
+- 坐标抽取依赖正则匹配渲染文本，若界面输出格式变化需重校
+- 改写是否为真同义仍由我判定（第 269 条），但本轮结论**不依赖语义判断**：
+  加句号、去空格、删末 5 字都是纯字符操作，与语义无关
+- 未测：demo 的坐标库搜索、生态映射等其余功能
+
+## 6. 判据
+
+新增第 362–369 条，见失败模式库。

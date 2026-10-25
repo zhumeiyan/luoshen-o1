@@ -1,1 +1,62 @@
-ewogIm5vaXNlX21heCI6IDkwLjAsCiAibm9pc2VfbWVkIjogOTAuMCwKICJyb3dzIjogewogICIzMDBfYWN0IjogewogICAidHByIjogMCwKICAgImZwciI6IDAsCiAgICJydW5hd2F5IjogMC4wLAogICAiZmluYWxfbnMiOiA5MC4wLAogICAiYWxsb2NfbWIiOiAwCiAgfSwKICAiMzAwX2ZyZWV6ZSI6IHsKICAgInRwciI6IDAsCiAgICJmcHIiOiAwLAogICAicnVuYXdheSI6IDAuMCwKICAgImZpbmFsX25zIjogOTAuMCwKICAgImFsbG9jX21iIjogMAogIH0sCiAgIjE1MF9hY3QiOiB7CiAgICJ0cHIiOiAwLAogICAiZnByIjogMCwKICAgInJ1bmF3YXkiOiAwLjAsCiAgICJmaW5hbF9ucyI6IDkwLjAsCiAgICJhbGxvY19tYiI6IDAKICB9LAogICIxNTBfZnJlZXplIjogewogICAidHByIjogMCwKICAgImZwciI6IDAsCiAgICJydW5hd2F5IjogMC4wLAogICAiZmluYWxfbnMiOiA5MC4wLAogICAiYWxsb2NfbWIiOiAwCiAgfSwKICAiMTEwX2FjdCI6IHsKICAgInRwciI6IDAsCiAgICJmcHIiOiAwLAogICAicnVuYXdheSI6IDAuMCwKICAgImZpbmFsX25zIjogOTAuMCwKICAgImFsbG9jX21iIjogMAogIH0sCiAgIjExMF9mcmVlemUiOiB7CiAgICJ0cHIiOiAwLAogICAiZnByIjogMCwKICAgInJ1bmF3YXkiOiAwLjAsCiAgICJmaW5hbF9ucyI6IDkwLjAsCiAgICJhbGxvY19tYiI6IDAKICB9LAogICIxMDBfYWN0IjogewogICAidHByIjogMCwKICAgImZwciI6IDAsCiAgICJydW5hd2F5IjogMC4wLAogICAiZmluYWxfbnMiOiA4OS4yNSwKICAgImFsbG9jX21iIjogMAogIH0sCiAgIjEwMF9mcmVlemUiOiB7CiAgICJ0cHIiOiAwLAogICAiZnByIjogMCwKICAgInJ1bmF3YXkiOiAwLjAsCiAgICJmaW5hbF9ucyI6IDg4LjQzNzUsCiAgICJhbGxvY19tYiI6IDAKICB9CiB9Cn0=
+{
+ "noise_max": 90.0,
+ "noise_med": 90.0,
+ "rows": {
+  "300_act": {
+   "tpr": 0,
+   "fpr": 0,
+   "runaway": 0.0,
+   "final_ns": 90.0,
+   "alloc_mb": 0
+  },
+  "300_freeze": {
+   "tpr": 0,
+   "fpr": 0,
+   "runaway": 0.0,
+   "final_ns": 90.0,
+   "alloc_mb": 0
+  },
+  "150_act": {
+   "tpr": 0,
+   "fpr": 0,
+   "runaway": 0.0,
+   "final_ns": 90.0,
+   "alloc_mb": 0
+  },
+  "150_freeze": {
+   "tpr": 0,
+   "fpr": 0,
+   "runaway": 0.0,
+   "final_ns": 90.0,
+   "alloc_mb": 0
+  },
+  "110_act": {
+   "tpr": 0,
+   "fpr": 0,
+   "runaway": 0.0,
+   "final_ns": 90.0,
+   "alloc_mb": 0
+  },
+  "110_freeze": {
+   "tpr": 0,
+   "fpr": 0,
+   "runaway": 0.0,
+   "final_ns": 90.0,
+   "alloc_mb": 0
+  },
+  "100_act": {
+   "tpr": 0,
+   "fpr": 0,
+   "runaway": 0.0,
+   "final_ns": 89.25,
+   "alloc_mb": 0
+  },
+  "100_freeze": {
+   "tpr": 0,
+   "fpr": 0,
+   "runaway": 0.0,
+   "final_ns": 88.4375,
+   "alloc_mb": 0
+  }
+ }
+}

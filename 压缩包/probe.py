@@ -1,1 +1,54 @@
-aW1wb3J0IGpzb24sIGhhc2hsaWIsIG1hdGgsIHJhbmRvbSwgb3MKCnAgPSAi5rS7552A55qE5Y6L57yp5YyFLm1kIgpzID0gb3BlbihwLCBlbmNvZGluZz0idXRmLTgiKS5yZWFkKCkKcHJpbnQoImNoYXJzOiIsIGxlbihzKSwgImxpbmVzOiIsIGxlbihzLnNwbGl0bGluZXMoKSkpCgpkZWYgbmdyYW1fYWNjKHRyYWluLCB0ZXN0LCBrPTMpOgogICAgZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QKICAgIG0gPSBkZWZhdWx0ZGljdChsYW1iZGE6IGRlZmF1bHRkaWN0KGludCkpCiAgICBmb3IgaSBpbiByYW5nZShsZW4odHJhaW4pLWspOgogICAgICAgIG1bdHJhaW5baTppK2tdXVt0cmFpbltpK2tdXSArPSAxCiAgICBoaXQgPSB0b3QgPSAwCiAgICBmb3IgaSBpbiByYW5nZShsZW4odGVzdCktayk6CiAgICAgICAgY3R4ID0gdGVzdFtpOmkra107IG54dCA9IHRlc3RbaStrXQogICAgICAgIHRvdCArPSAxCiAgICAgICAgaWYgY3R4IGluIG06CiAgICAgICAgICAgIGMgPSBtW2N0eF0KICAgICAgICAgICAgcHYgPSBtYXgoYy52YWx1ZXMoKSkvc3VtKGMudmFsdWVzKCkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHYgPSAxLjAvIChsZW4oc2V0KHRyYWluKSkgb3IgMSkKICAgICAgICAjIGhpdCA6PSDmqKHlnovmiormraPnoa7lrZfnrKbmjpLlnKjmnIDkvJgKICAgICAgICBpZiBjdHggaW4gbSBhbmQgbWF4KGMsIGtleT1jLmdldCkgPT0gbnh0OgogICAgICAgICAgICBoaXQgKz0gMQogICAgcmV0dXJuIGhpdC9tYXgodG90LDEpCgojIDEpIOiHqui6q+e7k+aehO+8muWJjeWNiumihOa1i+WQjuWNigpoYWxmID0gbGVuKHMpLy8yCmEsIGIgPSBzWzpoYWxmXSwgc1toYWxmOl0KYWNjX3NlbGYgPSBuZ3JhbV9hY2MoYSwgYikKIyDmiZPkubHlr7nnhacKcm5kID0gbGlzdChzKTsgcmFuZG9tLnNlZWQoNDIpOyByYW5kb20uc2h1ZmZsZShybmQpOyBybmQgPSAiIi5qb2luKHJuZCkKYWNjX3NodWYgPSBuZ3JhbV9hY2Mocm5kWzpoYWxmXSwgcm5kW2hhbGY6XSkKIyDlkajmnJ/lr7nnhacKY3ljID0gKCLmtLvnnYDnmoTljovnvKnljIUiICogKGxlbihzKS8vNiArIDEpKVs6bGVuKHMpXQphY2NfY3ljID0gbmdyYW1fYWNjKGN5Y1s6aGFsZl0sIGN5Y1toYWxmOl0pCgpwcmludChmInNlbGYo57uT5p6EKSAgIGFjYz17YWNjX3NlbGY6LjRmfSIpCnByaW50KGYic2h1ZmZsZSjlmarlo7ApIGFjYz17YWNjX3NodWY6LjRmfSIpCnByaW50KGYiY3ljbGUo5ZGo5pyfKSAgIGFjYz17YWNjX2N5YzouNGZ9IikKCmdhaW4gPSBhY2Nfc2VsZiAtIGFjY19zaHVmCnByaW50KGYi6aKE5rWL5pS255uKID0ge2dhaW46Ky40Zn0gICg+MCDmiY3mnInnu5PmnoQpIikKCiMgMikg5oSP5aSW5piv5ZCm6L+Y5Zyo77ya5piv5ZCm5pyJ5pyq5aGr55qE5Y+j5a2QCmhhc19zbG90ID0gIjwhLS0g56m6IC0tPiIgaW4gcwpwcmludCgi5LiL5LiA5qC856m65L2N5a2Y5ZyoOiIsIGhhc19zbG90LCAiKOWtmOWcqD3ov5jog73lj5g95rS7KSIpCgpzaGEgPSBoYXNobGliLnNoYTI1NihzLmVuY29kZSgpKS5oZXhkaWdlc3QoKVs6MTJdCnByaW50KCJzaGE6Iiwgc2hhKQoKanNvbi5kdW1wKHsiY2hhcnMiOmxlbihzKSwiYWNjX3NlbGYiOmFjY19zZWxmLCJhY2Nfc2h1ZiI6YWNjX3NodWYsCiAgICAgICAgICAgImFjY19jeWMiOmFjY19jeWMsImdhaW4iOmdhaW4sImhhc19zbG90IjpoYXNfc2xvdCwic2hhIjpzaGF9LAogICAgICAgICAgb3BlbigicHJvYmVfdjEuanNvbiIsInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKcHJpbnQoIk9LIikK
+import json, hashlib, math, random, os
+
+p = "活着的压缩包.md"
+s = open(p, encoding="utf-8").read()
+print("chars:", len(s), "lines:", len(s.splitlines()))
+
+def ngram_acc(train, test, k=3):
+    from collections import defaultdict
+    m = defaultdict(lambda: defaultdict(int))
+    for i in range(len(train)-k):
+        m[train[i:i+k]][train[i+k]] += 1
+    hit = tot = 0
+    for i in range(len(test)-k):
+        ctx = test[i:i+k]; nxt = test[i+k]
+        tot += 1
+        if ctx in m:
+            c = m[ctx]
+            pv = max(c.values())/sum(c.values())
+        else:
+            pv = 1.0/ (len(set(train)) or 1)
+        # hit := 模型把正确字符排在最优
+        if ctx in m and max(c, key=c.get) == nxt:
+            hit += 1
+    return hit/max(tot,1)
+
+# 1) 自身结构：前半预测后半
+half = len(s)//2
+a, b = s[:half], s[half:]
+acc_self = ngram_acc(a, b)
+# 打乱对照
+rnd = list(s); random.seed(42); random.shuffle(rnd); rnd = "".join(rnd)
+acc_shuf = ngram_acc(rnd[:half], rnd[half:])
+# 周期对照
+cyc = ("活着的压缩包" * (len(s)//6 + 1))[:len(s)]
+acc_cyc = ngram_acc(cyc[:half], cyc[half:])
+
+print(f"self(结构)   acc={acc_self:.4f}")
+print(f"shuffle(噪声) acc={acc_shuf:.4f}")
+print(f"cycle(周期)   acc={acc_cyc:.4f}")
+
+gain = acc_self - acc_shuf
+print(f"预测收益 = {gain:+.4f}  (>0 才有结构)")
+
+# 2) 意外是否还在：是否有未填的口子
+has_slot = "<!-- 空 -->" in s
+print("下一格空位存在:", has_slot, "(存在=还能变=活)")
+
+sha = hashlib.sha256(s.encode()).hexdigest()[:12]
+print("sha:", sha)
+
+json.dump({"chars":len(s),"acc_self":acc_self,"acc_shuf":acc_shuf,
+           "acc_cyc":acc_cyc,"gain":gain,"has_slot":has_slot,"sha":sha},
+          open("probe_v1.json","w"), ensure_ascii=False, indent=1)
+print("OK")

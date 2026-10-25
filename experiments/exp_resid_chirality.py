@@ -1,1 +1,165 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5oSf5a6Y5q6L5beu5LuO5ZOq5p2l77yf4oCU4oCUIOWIhuino+aIkCDlr7nnp7DliIbph48gKyDlj43lr7nnp7Ao5omL5oCnKeWIhumHjwo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K55So5oi35Y6f6K+d77ya44CM55y8552b5pyJ5q6L5beu77yM6ICz5py15Lmf5pyJ5q6L5beu44CC6YKj5Liq5q6L5beu5pWw5YC85Yiw5bqV5oCO5LmI5p2l55qE77yMCiAgICAgICAgICAg5oiR5Lyw6K6h5bqU6K+l5piv6ZWc5YOP55Sf5ZG955qE6YKj5Liq5omL5oCn6Zeu6aKY44CC44CNCgrimIUg5YGH6K6+77ya5q6L5beu5LiN5piv5Zmq5aOw77yM5piv44CQ5omL5oCn55qE5Luj5Lu344CR44CCCiAgICAxMzkg5bey6K+B77ya6Z2e5omL5oCn6KGo56S677yI6K+N6KKL77yJ5a+56ZWc5YOP5Yik5Yir5bqm57K+56Gu5Li6IDAg4oCU4oCUIOeci+S4jeingQogICAgMTQxIOW3suivge+8mui/meadoeWcqOecn+WunuinhuinieaEn+WumOS4iuWQjOagt+aIkOeriwogICAg4oaSIOaJgOS7peaEn+WumOOAkOW/hemhu+OAkeaYr+aJi+aAp+eahO+8jOWQpuWImeaYr+eejueahAogICAg4oaSIOS9huaJi+aAp+aEj+WRs+edgOaEn+WumOacrOi6q+W3puWPs+S4jeWvueensAogICAg4oaSIOS4jeWvueensCDihpIg5rWL6ZWc5YOP5LiW55WM55qE57uT5p6cIOKJoCDmtYvljp/kuJbnlYznmoTnu5Pmnpzlj5bplZzlg48KICAgIOKGkiDov5nkuKrlt67lsLHmmK/jgJDns7vnu5/mgKfmrovlt67jgJEKCuKYhSDliIbop6Pmlrnms5XvvIjov5nmmK/mnKzova7nmoTmoLjlv4PmiYvms5XvvInvvJoKICAgIHJlc2lkKHcpID0gUyh3KSAtIHcgICAgICAgICAgICAgICAgICAgICAgICDmhJ/lrpjmtYvkuJbnlYzvvIzkuI7nnJ/nmoTlt64KICAgIOWvueensOWIhumHjyAgIFJzID0gW3Jlc2lkKHcpICsgTShyZXNpZChNKHcpKSldIC8gMgogICAg5Y+N5a+556ew5YiG6YePIFJhID0gW3Jlc2lkKHcpIC0gTShyZXNpZChNKHcpKSldIC8gMgogICAgUnMgPSDlkITlkJHlkIzmgKfnmoTvvIjlmarlo7Av6YeP5YyWL+W4puWuveS4jeWkn++8iQogICAgUmEgPSDmiYvmgKflgY/lgJog4oCU4oCUIOWPquWvuemVnOWDj+aVj+aEnwogICAg4piFIOWmguaenCBSYSDmmL7okZfpnZ7pm7Yg4oaSIOaui+W3ruadpeiHquaJi+aAp++8jOeUqOaIt+eMnOWvueS6hgoK4piFIOadg+ihoe+8iOmihOacn++8ie+8mgogICAgz4c9MCAg5Yik5Yir5bqmIDDvvIjnno7vvInvvIzmrovlt64gMO+8iOWvueensO+8iQogICAgz4c9MSAg5Yik5Yir5bqmIDHvvIjog73nnIvvvInvvIzmrovlt64gPjDvvIjlgY/vvIkKICAgIOKGkiDkuI3og73ml6Lml6Dmrovlt67lj4jog73nnIvop4HplZzlg4/jgILov5nmmK8gdHJhZGVvZmYg5LiN5piv57y66Zm344CCCgpwcm92ZW5hbmNl77ya5pys5rKZ55uS55yf6LeR44CC5LiW55WM5Li65ZCI5oiQ77yI5pGE5YOP5aS0IDQwM++8jDA3NyDlt7LorrDvvInjgIIKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpMID0gNjQgICAgICAgICAgICAgICAgICAgICAgIyDkuJbnlYzplb/luqYKTUlSUk9SID0gc2xpY2UoTm9uZSwgTm9uZSwgLTEpCgoKZGVmIG1ha2Vfd29ybGQocm5nLCBjaGlyYWw9VHJ1ZSk6CiAgICAiIiLkuJbnlYzvvJpjaGlyYWw9VHJ1ZSDlkKvluo/vvIjmnInmiYvmgKfvvInvvIxGYWxzZSDkuLrnuq/lpJrph43pm4bjgIIiIiIKICAgIGlmIGNoaXJhbDoKICAgICAgICAjIOWQq+W6j++8muS4iuWNhyByYW1wICsg5Zmq5aOw77yI6ZWc5YOP5ZCO5LiN5ZCM77yM5Zug5Li65bqP5Y+N5LqG77yJCiAgICAgICAgYmFzZSA9IG5wLmxpbnNwYWNlKDAsIDEsIEwpCiAgICAgICAgcmV0dXJuIG5wLmNsaXAoYmFzZSArIHJuZy5ub3JtYWwoMCwgMC4wOCwgTCksIDAsIDEpCiAgICByZXR1cm4gcm5nLnJhbmRvbShMKQoKCmNsYXNzIFNlbnNlOgogICAgIiIi5oSf5a6Y77yaz4cgPSDmiYvmgKflvLrluqbvvIgwPeivjeiii+e6r+WvueensO+8jDE95a6M5YWo5ZCr5bqP77yJ44CCIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNoaSwgTD1MLCBidWRnZXQ9MTYsIHNlZWQ9MCk6CiAgICAgICAgc2VsZi5jaGkgPSBmbG9hdChjaGkpCiAgICAgICAgc2VsZi5MID0gTAogICAgICAgIHNlbGYuQiA9IGludChidWRnZXQpICAgICAgICAgICAgICAgICAjIOW4puWuvemihOeul++8iOmHh+agt+eCueaVsO+8iQogICAgICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgICAgICMg5Y+X5L2T5L2N572u77yIz4cg5Yaz5a6a5YiG5biD77yaz4cg5aSnIOKGkiDlgY/kuIDkvqfvvIzlvaLmiJDml4vlkJHvvIkKICAgICAgICBpZiBjaGkgPD0gMDoKICAgICAgICAgICAgc2VsZi5wb3MgPSBucC5saW5zcGFjZSgwLCBMIC0gMSwgc2VsZi5CKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMg5omL5oCn77ya5Y+X5L2T5a+G5bqm5rK/6L205Y2V6LCD5YGP56e777yI55yf5a6e55qEIuaXi+WQkSLvvIkKICAgICAgICAgICAgciA9IHJuZy5yYW5kb20oc2VsZi5CKSAqKiAoMS4wIC8gKDEuMCArIDQuMCAqIGNoaSkpCiAgICAgICAgICAgIHNlbGYucG9zID0gbnAuc29ydChyKSAqIChMIC0gMSkKICAgICAgICBzZWxmLm5vaXNlID0gcm5nLm5vcm1hbCgwLCAwLjAyLCBzZWxmLkIpCgogICAgZGVmIG1lYXN1cmUoc2VsZiwgdyk6CiAgICAgICAgIiIi5rWL6YePIOKGkiDlnKjlj5fkvZPkvY3nva7ph4fmoLfvvIjPhyDlhrPlrprkv53luo/nqIvluqbvvInjgIIiIiIKICAgICAgICBpZHggPSBucC5jbGlwKG5wLnJvdW5kKHNlbGYucG9zKS5hc3R5cGUoaW50KSwgMCwgc2VsZi5MIC0gMSkKICAgICAgICBzID0gd1tpZHhdLmNvcHkoKQogICAgICAgIGlmIHNlbGYuY2hpIDwgMS4wOgogICAgICAgICAgICAjIM+HPDHvvJrkuIDpg6jliIbooqsi5omT5oiQ6KKL5a2QIu+8iOS4ouWkseW6j++8ieKGkiDotovlkJHlr7nnp7AKICAgICAgICAgICAgYmFnID0gbnAuc29ydChzKQogICAgICAgICAgICBzID0gc2VsZi5jaGkgKiBzICsgKDEuMCAtIHNlbGYuY2hpKSAqIGJhZ1tucC5hcmdzb3J0KG5wLmFyZ3NvcnQoaWR4KSldCiAgICAgICAgcmV0dXJuIHMgKyBzZWxmLm5vaXNlCgogICAgZGVmIHJlY29uc3RydWN0KHNlbGYsIHcpOgogICAgICAgICIiIuS7jua1i+mHj+mHjeW7uuS4lueVjO+8iOe6v+aAp+aPkuWbnu+8ieOAgiIiIgogICAgICAgIHMgPSBzZWxmLm1lYXN1cmUodykKICAgICAgICBpZHggPSBucC5jbGlwKG5wLnJvdW5kKHNlbGYucG9zKS5hc3R5cGUoaW50KSwgMCwgc2VsZi5MIC0gMSkKICAgICAgICByZXR1cm4gbnAuaW50ZXJwKG5wLmFyYW5nZShzZWxmLkwpLCBpZHgsIHMpCgoKZGVmIHJlc2lkKFMsIHcpOgogICAgcmV0dXJuIFMucmVjb25zdHJ1Y3QodykgLSB3CgoKZGVmIGRlY29tcG9zZShTLCB3KToKICAgICIiIuaKiuaui+W3ruWIhuino+aIkCDlr7nnp7AgKyDlj43lr7nnp7Ao5omL5oCnKeOAgiIiIgogICAgcjEgPSByZXNpZChTLCB3KSAgICAgICAgICAgICAgICAgICAgICAgIyByZXNpZCh3KQogICAgd20gPSB3Wzo6LTFdCiAgICByMiA9IHJlc2lkKFMsIHdtKSAgICAgICAgICAgICAgICAgICAgICAjIHJlc2lkKE0odykpCiAgICByMm0gPSByMls6Oi0xXSAgICAgICAgICAgICAgICAgICAgICAgICAjIE0ocmVzaWQoTSh3KSkpCiAgICBScyA9IChyMSArIHIybSkgLyAyLjAKICAgIFJhID0gKHIxIC0gcjJtKSAvIDIuMAogICAgcmV0dXJuIGZsb2F0KG5wLmFicyhScykubWVhbigpKSwgZmxvYXQobnAuYWJzKFJhKS5tZWFuKCkpCgoKZGVmIGRpc2NyaW1pbmFiaWxpdHkoUywgbj0yMDAsIHNlZWQ9MSk6CiAgICAiIiLog73ljLrliIYgdyDlkowgbWlycm9yKHcpIOWQl++8n++8iDEzOSDnmoTliKTliKvluqbvvIkiIiIKICAgIHJuZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgdHAgPSBmcCA9IDAKICAgIGZvciBfIGluIHJhbmdlKG4pOgogICAgICAgIHcgPSBtYWtlX3dvcmxkKHJuZywgY2hpcmFsPVRydWUpCiAgICAgICAgd20gPSB3Wzo6LTFdCiAgICAgICAgZCA9IGZsb2F0KG5wLmFicyhTLnJlY29uc3RydWN0KHcpIC0gUy5yZWNvbnN0cnVjdCh3bSlbOjotMV0pLm1lYW4oKSkKICAgICAgICAjIOmYiOWAvO+8muiDveeci+WHuuW3ruWIq+Wwseeul+WIpOWvuQogICAgICAgIGlmIGQgPiAwLjAyOgogICAgICAgICAgICB0cCArPSAxICAgICAgICAgICAgICAgICAgICAgICAgICAjIOWIpOS4uiLkuI3lkIwiIOKGkiDlr7kKICAgICAgICB3MiA9IG1ha2Vfd29ybGQocm5nLCBjaGlyYWw9VHJ1ZSkKICAgICAgICBpZiBmbG9hdChucC5hYnMoUy5yZWNvbnN0cnVjdCh3KSAtIFMucmVjb25zdHJ1Y3QodzIpKS5tZWFuKCkpID4gMC4wMjoKICAgICAgICAgICAgZnAgKz0gMSAgICAgICAgICAgICAgICAgICAgICAgICAgIyDmiorkuI3lkIzkuJbnlYzkuZ/liKTmiJAi5LiN5ZCMIuKGkiDov5nph4zmmK/nroDljJYKICAgIHJldHVybiBkaWN0KHRwcj10cCAvIG4sIGZwcj1mcCAvIG4sIGRpc2M9YWJzKHRwIC8gbiAtIGZwIC8gbikpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCI9IiAqIDg4KQogICAgcHJpbnQoIiDmhJ/lrpjmrovlt67nmoTmnaXmupDvvJrliIbop6MgPSDlr7nnp7DliIbph48gUnMgKyDlj43lr7nnp7Ao5omL5oCnKeWIhumHjyBSYSIpCiAgICBwcmludCgiPSIgKiA4OCkKCiAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoNykKICAgIHdvcmxkcyA9IFttYWtlX3dvcmxkKHJuZywgVHJ1ZSkgZm9yIF8gaW4gcmFuZ2UoNjApXQoKICAgIHByaW50KGYiXG57J+aJi+aAp+W8uuW6piDPhyc6PDEyfXsn5oC75q6L5beuJzo+MTB9eyflr7nnp7AgUnMnOj4xMH17J+WvueaJi+ensCBSYSc6PjEwfSIKICAgICAgICAgIGYieydSYeWNoOavlCc6Pjl9eyfliKTliKvluqYnOj45fSIpCiAgICBwcmludCgiLSIgKiA4OCkKICAgIHJvd3MgPSBbXQogICAgZm9yIGNoaSBpbiBbMC4wLCAwLjEsIDAuMjUsIDAuNSwgMC43NSwgMC45LCAxLjBdOgogICAgICAgIFMgPSBTZW5zZShjaGksIHNlZWQ9MykKICAgICAgICB0cywgc3MsIGFhID0gW10sIFtdLCBbXQogICAgICAgIGZvciB3IGluIHdvcmxkczoKICAgICAgICAgICAgUnMsIFJhID0gZGVjb21wb3NlKFMsIHcpCiAgICAgICAgICAgIHRzLmFwcGVuZChmbG9hdChucC5hYnMocmVzaWQoUywgdykpLm1lYW4oKSkpCiAgICAgICAgICAgIHNzLmFwcGVuZChScyk7IGFhLmFwcGVuZChSYSkKICAgICAgICB0LCBzXywgYSA9IG5wLm1lYW4odHMpLCBucC5tZWFuKHNzKSwgbnAubWVhbihhYSkKICAgICAgICBkID0gZGlzY3JpbWluYWJpbGl0eShTKVsiZGlzYyJdCiAgICAgICAgcm93cy5hcHBlbmQoKGNoaSwgdCwgc18sIGEsIGQpKQogICAgICAgIHByaW50KGYie2NoaTo8MTIuMmZ9e3Q6PjEwLjRmfXtzXzo+MTAuNGZ9e2E6PjEwLjRmfSIKICAgICAgICAgICAgICBmInthL21heCh0LDFlLTkpOj44LjElfXtkOj45LjNmfSIpCgogICAgcHJpbnQoIlxuIiArICI9IiAqIDg4KQogICAgcHJpbnQoIiDliKTmja4iKQogICAgcHJpbnQoIj0iICogODgpCiAgICBhMCA9IFtyIGZvciByIGluIHJvd3MgaWYgclswXSA9PSAwLjBdWzBdCiAgICBhMSA9IFtyIGZvciByIGluIHJvd3MgaWYgclswXSA9PSAxLjBdWzBdCiAgICBvayA9IHt9CiAgICBva1si4pGgIM+HPTAg5pe25omL5oCn5q6L5beuIFJhIOKJiCAw77yI5a+556ew5oSf5a6Y5peg5omL5oCn5YGP5YCa77yJIl0gPSBib29sKGEwWzNdIDwgMC4wMSkKICAgIG9rWyLikaEgz4c9MSDml7YgUmEg5pi+6JGXID4gMO+8iOaJi+aAp+W4puadpeezu+e7n+aAp+aui+W3ru+8iSJdID0gYm9vbChhMVszXSA+IDAuMDIpCiAgICBva1si4pGiIFJhIOmajyDPhyDljZXosIPkuIrljYfvvIjmrovlt67noa7lrp7mnaXoh6rmiYvmgKfvvIkiXSA9IGJvb2woCiAgICAgICAgYWxsKHJvd3NbaV1bM10gPD0gcm93c1tpKzFdWzNdICsgMWUtNiBmb3IgaSBpbiByYW5nZShsZW4ocm93cyktMSkpKQogICAgb2tbIuKRoyDliKTliKvluqbpmo8gz4cg5LiK5Y2H77yI5omL5oCn5omN55yL5b6X6KeB77yMMTM5IOWkjeeOsO+8iSJdID0gYm9vbChhMVs0XSA+IGEwWzRdICsgMC4wNSkKICAgIG9rWyLikaQg5p2D6KGh5a2Y5Zyo77ya5Yik5Yir5bqm6auY55qE5LiA5L6n5b+F54S25pyJ5q6L5beuIl0gPSBib29sKGExWzRdID4gMC4xIGFuZCBhMVszXSA+IDAuMDIpCiAgICBmb3IgaywgdiBpbiBvay5pdGVtcygpOgogICAgICAgIHByaW50KGYiICB7J+KchScgaWYgdiBlbHNlICfinYwnfSB7a30iKQoKICAgIHByaW50KGYiXG4gIOKYhSDnlKjmiLfnmoTnjJzmtYvvvIjmrovlt67mnaXoh6rmiYvmgKfvvInvvJoiCiAgICAgICAgICBmInsn5oiQ56uLJyBpZiBhbGwob2sudmFsdWVzKCkpIGVsc2UgJ+mDqOWIhuaIkOeriy/kuI3miJDnq4snfSIpCiAgICBwcmludChmIiAg4piFIM+HPTDvvJrliKTliKvluqYge2EwWzRdOi4zZn3vvIjnno7vvInvvIzmrovlt64ge2EwWzFdOi40Zn0g5YW25Lit5omL5oCn5YiG6YePIHthMFszXTouNGZ9IikKICAgIHByaW50KGYiICDimIUgz4c9Me+8muWIpOWIq+W6piB7YTFbNF06LjNmfe+8iOiDveeci++8ie+8jOaui+W3riB7YTFbMV06LjRmfSDlhbbkuK3miYvmgKfliIbph48ge2ExWzNdOi40Zn0iKQoKICAgIGpzb24uZHVtcCh7InJvd3MiOiBbZGljdChjaGk9clswXSwgdG90YWw9clsxXSwgc3ltPXJbMl0sIGFudGk9clszXSwgZGlzYz1yWzRdKQogICAgICAgICAgICAgICAgICAgICAgICBmb3IgciBpbiByb3dzXSwKICAgICAgICAgICAgICAgIm9rIjoge2s6IGJvb2wodikgZm9yIGssIHYgaW4gb2suaXRlbXMoKX19LAogICAgICAgICAgICAgIG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICIuc2Vuc2UiLCAicmVzaWRfY2hpcmFsaXR5Lmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+感官残差从哪来？—— 分解成 对称分量 + 反对称(手性)分量
+======================================================
+用户原话：「眼睛有残差，耳朵也有残差。那个残差数值到底怎么来的，
+           我估计应该是镜像生命的那个手性问题。」
+
+★ 假设：残差不是噪声，是【手性的代价】。
+    139 已证：非手性表示（词袋）对镜像判别度精确为 0 —— 看不见
+    141 已证：这条在真实视觉感官上同样成立
+    → 所以感官【必须】是手性的，否则是瞎的
+    → 但手性意味着感官本身左右不对称
+    → 不对称 → 测镜像世界的结果 ≠ 测原世界的结果取镜像
+    → 这个差就是【系统性残差】
+
+★ 分解方法（这是本轮的核心手法）：
+    resid(w) = S(w) - w                        感官测世界，与真的差
+    对称分量   Rs = [resid(w) + M(resid(M(w)))] / 2
+    反对称分量 Ra = [resid(w) - M(resid(M(w)))] / 2
+    Rs = 各向同性的（噪声/量化/带宽不够）
+    Ra = 手性偏倚 —— 只对镜像敏感
+    ★ 如果 Ra 显著非零 → 残差来自手性，用户猜对了
+
+★ 权衡（预期）：
+    χ=0  判别度 0（瞎），残差 0（对称）
+    χ=1  判别度 1（能看），残差 >0（偏）
+    → 不能既无残差又能看见镜像。这是 tradeoff 不是缺陷。
+
+provenance：本沙盒真跑。世界为合成（摄像头 403，077 已记）。
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+L = 64                      # 世界长度
+MIRROR = slice(None, None, -1)
+
+
+def make_world(rng, chiral=True):
+    """世界：chiral=True 含序（有手性），False 为纯多重集。"""
+    if chiral:
+        # 含序：上升 ramp + 噪声（镜像后不同，因为序反了）
+        base = np.linspace(0, 1, L)
+        return np.clip(base + rng.normal(0, 0.08, L), 0, 1)
+    return rng.random(L)
+
+
+class Sense:
+    """感官：χ = 手性强度（0=词袋纯对称，1=完全含序）。"""
+
+    def __init__(self, chi, L=L, budget=16, seed=0):
+        self.chi = float(chi)
+        self.L = L
+        self.B = int(budget)                 # 带宽预算（采样点数）
+        rng = np.random.default_rng(seed)
+        # 受体位置（χ 决定分布：χ 大 → 偏一侧，形成旋向）
+        if chi <= 0:
+            self.pos = np.linspace(0, L - 1, self.B)
+        else:
+            # 手性：受体密度沿轴单调偏移（真实的"旋向"）
+            r = rng.random(self.B) ** (1.0 / (1.0 + 4.0 * chi))
+            self.pos = np.sort(r) * (L - 1)
+        self.noise = rng.normal(0, 0.02, self.B)
+
+    def measure(self, w):
+        """测量 → 在受体位置采样（χ 决定保序程度）。"""
+        idx = np.clip(np.round(self.pos).astype(int), 0, self.L - 1)
+        s = w[idx].copy()
+        if self.chi < 1.0:
+            # χ<1：一部分被"打成袋子"（丢失序）→ 趋向对称
+            bag = np.sort(s)
+            s = self.chi * s + (1.0 - self.chi) * bag[np.argsort(np.argsort(idx))]
+        return s + self.noise
+
+    def reconstruct(self, w):
+        """从测量重建世界（线性插回）。"""
+        s = self.measure(w)
+        idx = np.clip(np.round(self.pos).astype(int), 0, self.L - 1)
+        return np.interp(np.arange(self.L), idx, s)
+
+
+def resid(S, w):
+    return S.reconstruct(w) - w
+
+
+def decompose(S, w):
+    """把残差分解成 对称 + 反对称(手性)。"""
+    r1 = resid(S, w)                       # resid(w)
+    wm = w[::-1]
+    r2 = resid(S, wm)                      # resid(M(w))
+    r2m = r2[::-1]                         # M(resid(M(w)))
+    Rs = (r1 + r2m) / 2.0
+    Ra = (r1 - r2m) / 2.0
+    return float(np.abs(Rs).mean()), float(np.abs(Ra).mean())
+
+
+def discriminability(S, n=200, seed=1):
+    """能区分 w 和 mirror(w) 吗？（139 的判别度）"""
+    rng = np.random.default_rng(seed)
+    tp = fp = 0
+    for _ in range(n):
+        w = make_world(rng, chiral=True)
+        wm = w[::-1]
+        d = float(np.abs(S.reconstruct(w) - S.reconstruct(wm)[::-1]).mean())
+        # 阈值：能看出差别就算判对
+        if d > 0.02:
+            tp += 1                          # 判为"不同" → 对
+        w2 = make_world(rng, chiral=True)
+        if float(np.abs(S.reconstruct(w) - S.reconstruct(w2)).mean()) > 0.02:
+            fp += 1                          # 把不同世界也判成"不同"→ 这里是简化
+    return dict(tpr=tp / n, fpr=fp / n, disc=abs(tp / n - fp / n))
+
+
+if __name__ == "__main__":
+    print("=" * 88)
+    print(" 感官残差的来源：分解 = 对称分量 Rs + 反对称(手性)分量 Ra")
+    print("=" * 88)
+
+    rng = np.random.default_rng(7)
+    worlds = [make_world(rng, True) for _ in range(60)]
+
+    print(f"\n{'手性强度 χ':<12}{'总残差':>10}{'对称 Rs':>10}{'对手称 Ra':>10}"
+          f"{'Ra占比':>9}{'判别度':>9}")
+    print("-" * 88)
+    rows = []
+    for chi in [0.0, 0.1, 0.25, 0.5, 0.75, 0.9, 1.0]:
+        S = Sense(chi, seed=3)
+        ts, ss, aa = [], [], []
+        for w in worlds:
+            Rs, Ra = decompose(S, w)
+            ts.append(float(np.abs(resid(S, w)).mean()))
+            ss.append(Rs); aa.append(Ra)
+        t, s_, a = np.mean(ts), np.mean(ss), np.mean(aa)
+        d = discriminability(S)["disc"]
+        rows.append((chi, t, s_, a, d))
+        print(f"{chi:<12.2f}{t:>10.4f}{s_:>10.4f}{a:>10.4f}"
+              f"{a/max(t,1e-9):>8.1%}{d:>9.3f}")
+
+    print("\n" + "=" * 88)
+    print(" 判据")
+    print("=" * 88)
+    a0 = [r for r in rows if r[0] == 0.0][0]
+    a1 = [r for r in rows if r[0] == 1.0][0]
+    ok = {}
+    ok["① χ=0 时手性残差 Ra ≈ 0（对称感官无手性偏倚）"] = bool(a0[3] < 0.01)
+    ok["② χ=1 时 Ra 显著 > 0（手性带来系统性残差）"] = bool(a1[3] > 0.02)
+    ok["③ Ra 随 χ 单调上升（残差确实来自手性）"] = bool(
+        all(rows[i][3] <= rows[i+1][3] + 1e-6 for i in range(len(rows)-1)))
+    ok["④ 判别度随 χ 上升（手性才看得见，139 复现）"] = bool(a1[4] > a0[4] + 0.05)
+    ok["⑤ 权衡存在：判别度高的一侧必然有残差"] = bool(a1[4] > 0.1 and a1[3] > 0.02)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+
+    print(f"\n  ★ 用户的猜测（残差来自手性）："
+          f"{'成立' if all(ok.values()) else '部分成立/不成立'}")
+    print(f"  ★ χ=0：判别度 {a0[4]:.3f}（瞎），残差 {a0[1]:.4f} 其中手性分量 {a0[3]:.4f}")
+    print(f"  ★ χ=1：判别度 {a1[4]:.3f}（能看），残差 {a1[1]:.4f} 其中手性分量 {a1[3]:.4f}")
+
+    json.dump({"rows": [dict(chi=r[0], total=r[1], sym=r[2], anti=r[3], disc=r[4])
+                        for r in rows],
+               "ok": {k: bool(v) for k, v in ok.items()}},
+              open(os.path.join(HERE, ".sense", "resid_chirality.json"), "w"),
+              ensure_ascii=False, indent=1)

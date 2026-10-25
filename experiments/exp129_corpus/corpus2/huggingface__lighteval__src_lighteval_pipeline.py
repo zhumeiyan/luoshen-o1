@@ -1,1 +1,447 @@
-IyBNSVQgTGljZW5zZQoKIyBDb3B5cmlnaHQgKGMpIDIwMjQgVGhlIEh1Z2dpbmdGYWNlIFRlYW0KCiMgUGVybWlzc2lvbiBpcyBoZXJlYnkgZ3JhbnRlZCwgZnJlZSBvZiBjaGFyZ2UsIHRvIGFueSBwZXJzb24gb2J0YWluaW5nIGEgY29weQojIG9mIHRoaXMgc29mdHdhcmUgYW5kIGFzc29jaWF0ZWQgZG9jdW1lbnRhdGlvbiBmaWxlcyAodGhlICJTb2Z0d2FyZSIpLCB0byBkZWFsCiMgaW4gdGhlIFNvZnR3YXJlIHdpdGhvdXQgcmVzdHJpY3Rpb24sIGluY2x1ZGluZyB3aXRob3V0IGxpbWl0YXRpb24gdGhlIHJpZ2h0cwojIHRvIHVzZSwgY29weSwgbW9kaWZ5LCBtZXJnZSwgcHVibGlzaCwgZGlzdHJpYnV0ZSwgc3VibGljZW5zZSwgYW5kL29yIHNlbGwKIyBjb3BpZXMgb2YgdGhlIFNvZnR3YXJlLCBhbmQgdG8gcGVybWl0IHBlcnNvbnMgdG8gd2hvbSB0aGUgU29mdHdhcmUgaXMKIyBmdXJuaXNoZWQgdG8gZG8gc28sIHN1YmplY3QgdG8gdGhlIGZvbGxvd2luZyBjb25kaXRpb25zOgoKIyBUaGUgYWJvdmUgY29weXJpZ2h0IG5vdGljZSBhbmQgdGhpcyBwZXJtaXNzaW9uIG5vdGljZSBzaGFsbCBiZSBpbmNsdWRlZCBpbiBhbGwKIyBjb3BpZXMgb3Igc3Vic3RhbnRpYWwgcG9ydGlvbnMgb2YgdGhlIFNvZnR3YXJlLgoKIyBUSEUgU09GVFdBUkUgSVMgUFJPVklERUQgIkFTIElTIiwgV0lUSE9VVCBXQVJSQU5UWSBPRiBBTlkgS0lORCwgRVhQUkVTUyBPUgojIElNUExJRUQsIElOQ0xVRElORyBCVVQgTk9UIExJTUlURUQgVE8gVEhFIFdBUlJBTlRJRVMgT0YgTUVSQ0hBTlRBQklMSVRZLAojIEZJVE5FU1MgRk9SIEEgUEFSVElDVUxBUiBQVVJQT1NFIEFORCBOT05JTkZSSU5HRU1FTlQuIElOIE5PIEVWRU5UIFNIQUxMIFRIRQojIEFVVEhPUlMgT1IgQ09QWVJJR0hUIEhPTERFUlMgQkUgTElBQkxFIEZPUiBBTlkgQ0xBSU0sIERBTUFHRVMgT1IgT1RIRVIKIyBMSUFCSUxJVFksIFdIRVRIRVIgSU4gQU4gQUNUSU9OIE9GIENPTlRSQUNULCBUT1JUIE9SIE9USEVSV0lTRSwgQVJJU0lORyBGUk9NLAojIE9VVCBPRiBPUiBJTiBDT05ORUNUSU9OIFdJVEggVEhFIFNPRlRXQVJFIE9SIFRIRSBVU0UgT1IgT1RIRVIgREVBTElOR1MgSU4gVEhFCiMgU09GVFdBUkUuCgppbXBvcnQgYXN0CmltcG9ydCBhc3luY2lvCmltcG9ydCBjb2xsZWN0aW9ucwppbXBvcnQgb3MKaW1wb3J0IHJhbmRvbQpmcm9tIGRhdGFjbGFzc2VzIGltcG9ydCBkYXRhY2xhc3MKZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZWRlbHRhCmZyb20gZW51bSBpbXBvcnQgRW51bSwgYXV0bwoKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gdHFkbSBpbXBvcnQgdHFkbQoKZnJvbSBsaWdodGV2YWwubG9nZ2luZy5ldmFsdWF0aW9uX3RyYWNrZXIgaW1wb3J0IEV2YWx1YXRpb25UcmFja2VyCmZyb20gbGlnaHRldmFsLm1ldHJpY3MgaW1wb3J0IGFwcGx5X21ldHJpYwpmcm9tIGxpZ2h0ZXZhbC5tb2RlbHMuYWJzdHJhY3RfbW9kZWwgaW1wb3J0IExpZ2h0ZXZhbE1vZGVsLCBNb2RlbENvbmZpZwpmcm9tIGxpZ2h0ZXZhbC5tb2RlbHMubW9kZWxfbG9hZGVyIGltcG9ydCBUcmFuc2Zvcm1lcnNNb2RlbCwgbG9hZF9tb2RlbApmcm9tIGxpZ2h0ZXZhbC5tb2RlbHMubW9kZWxfb3V0cHV0IGltcG9ydCAoCiAgICBNb2RlbFJlc3BvbnNlLAopCmZyb20gbGlnaHRldmFsLnRhc2tzLmxpZ2h0ZXZhbF90YXNrIGltcG9ydCBMaWdodGV2YWxUYXNrCmZyb20gbGlnaHRldmFsLnRhc2tzLnJlZ2lzdHJ5IGltcG9ydCBSZWdpc3RyeQpmcm9tIGxpZ2h0ZXZhbC50YXNrcy5yZXF1ZXN0cyBpbXBvcnQgU2FtcGxpbmdNZXRob2QKZnJvbSBsaWdodGV2YWwudXRpbHMuaW1wb3J0cyBpbXBvcnQgaXNfcGFja2FnZV9hdmFpbGFibGUKZnJvbSBsaWdodGV2YWwudXRpbHMucGFyYWxsZWxpc20gaW1wb3J0IHRlc3RfYWxsX2dhdGhlcgpmcm9tIGxpZ2h0ZXZhbC51dGlscy51dGlscyBpbXBvcnQgbWFrZV9yZXN1bHRzX3RhYmxlLCByZW1vdmVfcmVhc29uaW5nX3RhZ3MKCgppZiBpc19wYWNrYWdlX2F2YWlsYWJsZSgiYWNjZWxlcmF0ZSIpOgogICAgZnJvbSBhY2NlbGVyYXRlIGltcG9ydCBBY2NlbGVyYXRvciwgSW5pdFByb2Nlc3NHcm91cEt3YXJncwplbHNlOgogICAgZnJvbSB1bml0dGVzdC5tb2NrIGltcG9ydCBNb2NrCgogICAgQWNjZWxlcmF0b3IgPSBJbml0UHJvY2Vzc0dyb3VwS3dhcmdzID0gTW9jaygpCgppZiBpc19wYWNrYWdlX2F2YWlsYWJsZSgibmFub3Ryb24iKToKICAgIGZyb20gbmFub3Ryb24gaW1wb3J0IGRpc3RyaWJ1dGVkIGFzIGRpc3QKICAgIGZyb20gbmFub3Ryb24ucGFyYWxsZWwuY29udGV4dCBpbXBvcnQgUGFyYWxsZWxDb250ZXh0CgogICAgZnJvbSBsaWdodGV2YWwubW9kZWxzLm5hbm90cm9uLm5hbm90cm9uX21vZGVsIGltcG9ydCBOYW5vdHJvbkxpZ2h0ZXZhbE1vZGVsCgoKaW1wb3J0IGxvZ2dpbmcKCgpsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykKCgpjbGFzcyBQYXJhbGxlbGlzbU1hbmFnZXIoRW51bSk6CiAgICBBQ0NFTEVSQVRFID0gYXV0bygpCiAgICBOQU5PVFJPTiA9IGF1dG8oKQogICAgVEdJID0gYXV0bygpCiAgICBPUEVOQUkgPSBhdXRvKCkKICAgIFZMTE0gPSBhdXRvKCkKICAgIENVU1RPTSA9IGF1dG8oKQogICAgTk9ORSA9IGF1dG8oKQogICAgU0dMQU5HID0gYXV0bygpCgoKQGRhdGFjbGFzcwpjbGFzcyBQaXBlbGluZVBhcmFtZXRlcnM6CiAgICBsYXVuY2hlcl90eXBlOiBQYXJhbGxlbGlzbU1hbmFnZXIKICAgICMgRW52IHBhcmFtZXRlcnMKICAgIGpvYl9pZDogaW50ID0gMAogICAgZGF0YXNldF9sb2FkaW5nX3Byb2Nlc3NlczogaW50ID0gMQogICAgbmFub3Ryb25fY2hlY2twb2ludF9wYXRoOiBzdHIgfCBOb25lID0gTm9uZSAgIyBvbmx5IGZvciBuYW5vdHJvbiBtb2RlbHMKICAgICMgRGF0YXNldAogICAgY3VzdG9tX3Rhc2tzX2RpcmVjdG9yeTogc3RyIHwgTm9uZSA9IE5vbmUKICAgIG51bV9mZXdzaG90X3NlZWRzOiBpbnQgPSAxCiAgICBtYXhfc2FtcGxlczogaW50IHwgTm9uZSA9IE5vbmUKICAgIGNvdF9wcm9tcHQ6IHN0ciB8IE5vbmUgPSBOb25lCiAgICByZW1vdmVfcmVhc29uaW5nX3RhZ3M6IGJvb2wgPSBUcnVlCiAgICByZWFzb25pbmdfdGFnczogc3RyIHwgbGlzdFt0dXBsZVtzdHIsIHN0cl1dID0gIlsoJzx0aGluaz4nLCAnPC90aGluaz4nKV0iCiAgICBsb2FkX3Jlc3BvbnNlc19mcm9tX2RldGFpbHNfZGF0ZV9pZDogc3RyIHwgTm9uZSA9IE5vbmUKICAgIGJvb3RzdHJhcF9pdGVyczogaW50ID0gMTAwMAogICAgbG9hZF90YXNrc19tdWx0aWxpbmd1YWw6IGJvb2wgPSBGYWxzZQoKICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOiAgIyBub3FhIEM5MDEKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShzZWxmLnJlYXNvbmluZ190YWdzLCBsaXN0KToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgc2VsZi5yZWFzb25pbmdfdGFncyA9IGFzdC5saXRlcmFsX2V2YWwoc2VsZi5yZWFzb25pbmdfdGFncykKICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3IgYXMgZToKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAgICAgInJlYXNvbmluZ190YWdzIG11c3QgYmUgYSBsaXN0IG9mIHBhaXIgdHVwbGVzLCBlLmcuIFsoJ3N0YXJ0X3RhZycsICdlbmRfdGFnJyksIC4uLl0uICIKICAgICAgICAgICAgICAgICAgICBmIkdvdCB7c2VsZi5yZWFzb25pbmdfdGFnc30gaW5zdGVhZCwgd2hpY2ggY2F1c2VkIHBhcnNpbmcgZXJyb3Ige2V9LiIKICAgICAgICAgICAgICAgICkKCiAgICAgICAgIyBNYWtlIHN1cmUgZm9ybWF0IGlzIGNvcnJlY3QKICAgICAgICBpZiBub3QgYWxsKGlzaW5zdGFuY2UodGFnLCB0dXBsZSkgYW5kIGxlbih0YWcpID09IDIgZm9yIHRhZyBpbiBzZWxmLnJlYXNvbmluZ190YWdzKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgICAgICJyZWFzb25pbmdfdGFncyBtdXN0IGJlIGEgbGlzdCBvZiBwYWlyIHR1cGxlcywgZS5nLiBbKCdzdGFydF90YWcnLCAnZW5kX3RhZycpLCAuLi5dLiAiCiAgICAgICAgICAgICAgICBmIkdvdCB7c2VsZi5yZWFzb25pbmdfdGFnc30gaW5zdGVhZC4iCiAgICAgICAgICAgICkKCgpjbGFzcyBQaXBlbGluZToKICAgIGRlZiBfX2luaXRfXygKICAgICAgICBzZWxmLAogICAgICAgIHRhc2tzOiBzdHIsCiAgICAgICAgcGlwZWxpbmVfcGFyYW1ldGVyczogUGlwZWxpbmVQYXJhbWV0ZXJzLAogICAgICAgIGV2YWx1YXRpb25fdHJhY2tlcjogRXZhbHVhdGlvblRyYWNrZXIsCiAgICAgICAgbW9kZWxfY29uZmlnOiBNb2RlbENvbmZpZyB8IE5vbmUgPSBOb25lLAogICAgICAgIG1vZGVsPU5vbmUsCiAgICAgICAgbWV0cmljX29wdGlvbnM9Tm9uZSwKICAgICk6CiAgICAgICAgaWYgbm90IChtb2RlbCBvciBtb2RlbF9jb25maWcpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJNdXN0IHByb3ZpZGUgZWl0aGVyIGEgbW9kZWwgb3IgbW9kZWwgY29uZmlnIHdoZW4gY3JlYXRpbmcgYSBwaXBlbGluZS4iKQoKICAgICAgICBzZWxmLnBpcGVsaW5lX3BhcmFtZXRlcnMgPSBwaXBlbGluZV9wYXJhbWV0ZXJzCiAgICAgICAgaWYgc2VsZi5waXBlbGluZV9wYXJhbWV0ZXJzLm1heF9zYW1wbGVzOgogICAgICAgICAgICBsb2dnZXIud2FybmluZygKICAgICAgICAgICAgICAgICItLW1heF9zYW1wbGVzIFdBUyBTRVQuIFRIRVNFIE5VTUJFUlMgQVJFIE9OTFkgUEFSVElBTCBBTkQgU0hPVUxEIE5PVCBCRSBVU0VEIEZPUiBDT01QQVJJU09OIFVOTEVTUyBZT1UgS05PVyBXSEFUIFlPVSBBUkUgRE9JTkcuIgogICAgICAgICAgICApCgogICAgICAgIHNlbGYubGF1bmNoZXJfdHlwZSA9IHNlbGYucGlwZWxpbmVfcGFyYW1ldGVycy5sYXVuY2hlcl90eXBlCiAgICAgICAgc2VsZi5fbWV0cmljX29wdGlvbnMgPSBtZXRyaWNfb3B0aW9ucyBvciB7fQogICAgICAgIHNlbGYuZXZhbHVhdGlvbl90cmFja2VyID0gZXZhbHVhdGlvbl90cmFja2VyCgogICAgICAgICMgV2UgaW5pdCB0YXNrcyBmaXJzdCB0byBmYWlsIGZhc3QgaWYgb25lIGlzIGJhZGx5IGRlZmluZWQKICAgICAgICBzZWxmLl9pbml0X3JhbmRvbV9zZWVkcygpCiAgICAgICAgc2VsZi5faW5pdF90YXNrc19hbmRfcmVxdWVzdHModGFza3M9dGFza3MpCgogICAgICAgIHNlbGYubW9kZWxfY29uZmlnID0gbW9kZWxfY29uZmlnCiAgICAgICAgc2VsZi5hY2NlbGVyYXRvciwgc2VsZi5wYXJhbGxlbF9jb250ZXh0ID0gc2VsZi5faW5pdF9wYXJhbGxlbGlzbV9tYW5hZ2VyKCkKICAgICAgICBzZWxmLm1vZGVsID0gc2VsZi5faW5pdF9tb2RlbChtb2RlbF9jb25maWcsIG1vZGVsKQogICAgICAgICMgTXVzdCBvY2N1ciBhZnRlciBtb2RlbCBhbmQgdGFzayBpbml0CiAgICAgICAgc2VsZi5tb2RlbC5fY2FjaGUuX2luaXRfcmVnaXN0cnkoc2VsZi5yZWdpc3RyeSkKICAgICAgICAjIE11c3Qgb2NjdXIgYWZ0ZXIgbW9kZWwgaW5pdAogICAgICAgIHNlbGYuX2luaXRfYWNjZWxlcmF0b3Jfc2VlZHMoKQoKICAgICAgICBzZWxmLmV2YWx1YXRpb25fdHJhY2tlci5nZW5lcmFsX2NvbmZpZ19sb2dnZXIubG9nX21vZGVsX2luZm8obW9kZWxfY29uZmlnPXNlbGYubW9kZWwuY29uZmlnKQoKICAgICAgICAjIEZpbmFsIHJlc3VsdHMKICAgICAgICBzZWxmLmZpbmFsX2RpY3Q6IGRpY3QgfCBOb25lID0gTm9uZQoKICAgIGRlZiBfaW5pdF9wYXJhbGxlbGlzbV9tYW5hZ2VyKHNlbGYpOgogICAgICAgIGFjY2VsZXJhdG9yLCBwYXJhbGxlbF9jb250ZXh0ID0gTm9uZSwgTm9uZQogICAgICAgIGlmIHNlbGYubGF1bmNoZXJfdHlwZSA9PSBQYXJhbGxlbGlzbU1hbmFnZXIuQUNDRUxFUkFURToKICAgICAgICAgICAgaWYgbm90IGlzX3BhY2thZ2VfYXZhaWxhYmxlKCJhY2NlbGVyYXRlIik6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJZb3UgYXJlIHRyeWluZyB0byBsYXVuY2ggYW4gYWNjZWxlcmF0ZSBtb2RlbCwgYnV0IGFjY2VsZXJhdGUgaXMgbm90IGluc3RhbGxlZCIpCiAgICAgICAgICAgIGFjY2VsZXJhdG9yID0gQWNjZWxlcmF0b3Ioa3dhcmdzX2hhbmRsZXJzPVtJbml0UHJvY2Vzc0dyb3VwS3dhcmdzKHRpbWVvdXQ9dGltZWRlbHRhKHNlY29uZHM9MzAwMCkpXSkKICAgICAgICAgICAgdGVzdF9hbGxfZ2F0aGVyKGFjY2VsZXJhdG9yPWFjY2VsZXJhdG9yKQogICAgICAgIGVsaWYgc2VsZi5sYXVuY2hlcl90eXBlID09IFBhcmFsbGVsaXNtTWFuYWdlci5OQU5PVFJPTjoKICAgICAgICAgICAgaWYgbm90IGlzX3BhY2thZ2VfYXZhaWxhYmxlKCJuYW5vdHJvbiIpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiWW91IGFyZSB0cnlpbmcgdG8gbGF1bmNoIGEgbmFub3Ryb24gbW9kZWwsIGJ1dCBuYW5vdHJvbiBpcyBub3QgaW5zdGFsbGVkIikKICAgICAgICAgICAgZGlzdC5pbml0aWFsaXplX3RvcmNoX2Rpc3RyaWJ1dGVkKCkKICAgICAgICAgICAgcGFyYWxsZWxfY29udGV4dCA9IFBhcmFsbGVsQ29udGV4dCgKICAgICAgICAgICAgICAgIHRlbnNvcl9wYXJhbGxlbF9zaXplPXNlbGYubW9kZWxfY29uZmlnLmxpZ2h0ZXZhbF9jb25maWcucGFyYWxsZWxpc20udHAsCiAgICAgICAgICAgICAgICBwaXBlbGluZV9wYXJhbGxlbF9zaXplPXNlbGYubW9kZWxfY29uZmlnLmxpZ2h0ZXZhbF9jb25maWcucGFyYWxsZWxpc20ucHAsCiAgICAgICAgICAgICAgICBkYXRhX3BhcmFsbGVsX3NpemU9c2VsZi5tb2RlbF9jb25maWcubGlnaHRldmFsX2NvbmZpZy5wYXJhbGxlbGlzbS5kcCwKICAgICAgICAgICAgKQogICAgICAgICAgICB0ZXN0X2FsbF9nYXRoZXIocGFyYWxsZWxfY29udGV4dD1wYXJhbGxlbF9jb250ZXh0KQoKICAgICAgICByZXR1cm4gYWNjZWxlcmF0b3IsIHBhcmFsbGVsX2NvbnRleHQKCiAgICBkZWYgX2luaXRfbW9kZWwoc2VsZiwgbW9kZWxfY29uZmlnLCBtb2RlbCk6CiAgICAgICAgbG9nZ2VyLmluZm8oIi0tLSBMT0FESU5HIE1PREVMIC0tLSIpCgogICAgICAgIGlmIG1vZGVsIGlzIG5vdCBOb25lIGFuZCBtb2RlbF9jb25maWcgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UobW9kZWwsIExpZ2h0ZXZhbE1vZGVsKToKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAgICAgIllvdSBhcmUgdHJ5aW5nIHRvIHByb3ZpZGUgYm90aCBhIExpZ2h0ZXZhbE1vZGVsIGFuZCBhIG1vZGVsIGNvbmZpZy4gUGxlYXNlIHByb3ZpZGUgb25seSBvbmUgb2YgdGhlbS4iCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIHJldHVybiBUcmFuc2Zvcm1lcnNNb2RlbC5mcm9tX21vZGVsKAogICAgICAgICAgICAgICAgbW9kZWw9bW9kZWwsCiAgICAgICAgICAgICAgICBjb25maWc9bW9kZWxfY29uZmlnLAogICAgICAgICAgICAgICAgYWNjZWxlcmF0b3I9c2VsZi5hY2NlbGVyYXRvciwKICAgICAgICAgICAgKQoKICAgICAgICBlbGlmIG1vZGVsIGlzIG5vdCBOb25lOgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKG1vZGVsLCBMaWdodGV2YWxNb2RlbCk6CiAgICAgICAgICAgICAgICByZXR1cm4gbW9kZWwKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiSWYgbm90IHByb3ZpZGluZyBhIG1vZGVsX2NvbmZpZywgeW91IG5lZWQgdG8gcHJvdmlkZSBhIExpZ2h0ZXZhbCBtb2RlbC4iKQoKICAgICAgICBlbGlmIG1vZGVsX2NvbmZpZyBpcyBub3QgTm9uZToKICAgICAgICAgICAgaWYgc2VsZi5wYXJhbGxlbF9jb250ZXh0OgogICAgICAgICAgICAgICAgcmV0dXJuIE5hbm90cm9uTGlnaHRldmFsTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgY2hlY2twb2ludF9wYXRoPW9zLnBhdGguZGlybmFtZShzZWxmLnBpcGVsaW5lX3BhcmFtZXRlcnMubmFub3Ryb25fY2hlY2twb2ludF9wYXRoKQogICAgICAgICAgICAgICAgICAgIGlmIHNlbGYucGlwZWxpbmVfcGFyYW1ldGVycy5uYW5vdHJvbl9jaGVja3BvaW50X3BhdGgKICAgICAgICAgICAgICAgICAgICBlbHNlICIiLAogICAgICAgICAgICAgICAgICAgIG5hbm90cm9uX2NvbmZpZz1tb2RlbF9jb25maWcsCiAgICAgICAgICAgICAgICAgICAgcGFyYWxsZWxfY29udGV4dD1zZWxmLnBhcmFsbGVsX2NvbnRleHQsCiAgICAgICAgICAgICAgICAgICAgZGVidWdfb25lX2xheWVyX21vZGVsPUZhbHNlLAogICAgICAgICAgICAgICAgICAgIG1vZGVsX2NsYXNzPU5vbmUsCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByZXR1cm4gbG9hZF9tb2RlbChjb25maWc9bW9kZWxfY29uZmlnKQoKICAgIGRlZiBfaW5pdF90YXNrc19hbmRfcmVxdWVzdHMoc2VsZiwgdGFza3M6IHN0cik6CiAgICAgICAgbG9nZ2VyLmluZm8oIi0tLSBMT0FESU5HIFRBU0tTIC0tLSIpCgogICAgICAgICMgVGhlIHJlZ2lzdHJ5IGNvbnRhaW5zIGFsbCB0aGUgcG90ZW50aWFsIHRhc2tzCiAgICAgICAgc2VsZi5yZWdpc3RyeSA9IFJlZ2lzdHJ5KAogICAgICAgICAgICB0YXNrcz10YXNrcywKICAgICAgICAgICAgbG9hZF9tdWx0aWxpbmd1YWw9c2VsZi5waXBlbGluZV9wYXJhbWV0ZXJzLmxvYWRfdGFza3NfbXVsdGlsaW5ndWFsLAogICAgICAgICAgICBjdXN0b21fdGFza3M9c2VsZi5waXBlbGluZV9wYXJhbWV0ZXJzLmN1c3RvbV90YXNrc19kaXJlY3RvcnksCiAgICAgICAgKQoKICAgICAgICAjIGxvYWQgdGhlIHRhc2tzIGZyb20gdGhlIGNvbmZpZ3MgYW5kIHRoZWlyIGRhdGFzZXRzCiAgICAgICAgc2VsZi50YXNrc19kaWN0OiBkaWN0W3N0ciwgTGlnaHRldmFsVGFza10gPSBzZWxmLnJlZ2lzdHJ5LmxvYWRfdGFza3MoKQogICAgICAgIExpZ2h0ZXZhbFRhc2subG9hZF9kYXRhc2V0cyhzZWxmLnRhc2tzX2RpY3QsIHNlbGYucGlwZWxpbmVfcGFyYW1ldGVycy5kYXRhc2V0X2xvYWRpbmdfcHJvY2Vzc2VzKQogICAgICAgIHNlbGYuZG9jdW1lbnRzX2RpY3QgPSB7CiAgICAgICAgICAgIHRhc2suZnVsbF9uYW1lOiB0YXNrLmdldF9kb2NzKHNlbGYucGlwZWxpbmVfcGFyYW1ldGVycy5tYXhfc2FtcGxlcykgZm9yIF8sIHRhc2sgaW4gc2VsZi50YXNrc19kaWN0Lml0ZW1zKCkKICAgICAgICB9CgogICAgICAgIHNlbGYuc2FtcGxpbmdfZG9jcyA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGxpc3QpCiAgICAgICAgZm9yIF8sIGRvY3MgaW4gc2VsZi5kb2N1bWVudHNfZGljdC5pdGVtcygpOgogICAgICAgICAgICBmb3IgZG9jIGluIGRvY3M6CiAgICAgICAgICAgICAgICBmb3Igc2FtcGxpbmcgaW4gZG9jLnNhbXBsaW5nX21ldGhvZHM6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5zYW1wbGluZ19kb2NzW3NhbXBsaW5nXS5hcHBlbmQoZG9jKQoKICAgICAgICAjIElmIHRoZXJlIGFyZSBtZXRyaWNfb3B0aW9ucyBkZWZpbmVkIGZyb20gdGhlIHlhbWwgZmlsZSwKICAgICAgICAjIHJldmlldyBpZiB0aGV5IGhhdmUgdG8gYmUgdXBkYXRlZC4KICAgICAgICBpZiBzZWxmLl9tZXRyaWNfb3B0aW9uczoKICAgICAgICAgICAgc2VsZi5fdXBkYXRlX251bV9zYW1wbGVzKGxpc3Qoc2VsZi50YXNrc19kaWN0LnZhbHVlcygpKSkKCiAgICAgICAgc2VsZi5ldmFsdWF0aW9uX3RyYWNrZXIudGFza19jb25maWdfbG9nZ2VyLmxvZyhzZWxmLnRhc2tzX2RpY3QpCgogICAgZGVmIF91cGRhdGVfbnVtX3NhbXBsZXMoc2VsZiwgdGFza3M6IGxpc3RbTGlnaHRldmFsVGFza10pOgogICAgICAgICIiIkhlbHBlciBmdW5jdGlvbiB0byB1cGRhdGUgdGhlIG51bV9zYW1wbGVzIG9mIGEgZ2l2ZW4gbWV0cmljIHZpYSB0aGUgeWFtbCBmaWxlLgogICAgICAgIEFzIGl0IGhhcyB0byBiZSBkb25lIGF0IHRoZSBtZXRyaWMgbGV2ZWwsIGl0J3MgYmV0dGVyIHRvIHVwZGF0ZSB0aGUgdmFsdWUgcGVyIG1ldHJpYy4KICAgICAgICBJdCB3aWxsIGFkZCBhIG51bV9zYW1wbGVzIHRvIHRoZSBhbHJlYWR5IGRlZmluZWQgbWV0cmljcycgbnVtX3NhbXBsZXMgaWYgZGVmaW5lZCBpbiB0aGUgeWFtbCBmaWxlLgogICAgICAgIEFzIGxhdGVyIHdoZW4gY29uc3RydWN0aW5nIHRoZSByZXF1ZXN0cyB0aGUgbWF4IGlzIHRha2VuIG92ZXIgdGhlIG51bV9zYW1wbGVzLCB0aGlzIGlzIHZhbGlkLgogICAgICAgICIiIgogICAgICAgIGZvciB0YXNrIGluIHRhc2tzOgogICAgICAgICAgICBmb3IgbWV0cmljIGluIHRhc2subWV0cmljczoKICAgICAgICAgICAgICAgIGlmIG1ldHJpY19kYXRhIDo9IHNlbGYuX21ldHJpY19vcHRpb25zLmdldChtZXRyaWMubWV0cmljX25hbWUsIE5vbmUpOgogICAgICAgICAgICAgICAgICAgIG51bV9zYW1wbGVzID0gbWV0cmljX2RhdGEuZ2V0KCJudW1fc2FtcGxlcyIsIE5vbmUpCiAgICAgICAgICAgICAgICAgICAgaWYgbnVtX3NhbXBsZXM6CiAgICAgICAgICAgICAgICAgICAgICAgIHRhc2subnVtX3NhbXBsZXMgPSBbbnVtX3NhbXBsZXNdCgogICAgZGVmIF9pbml0X3JhbmRvbV9zZWVkcyhzZWxmKToKICAgICAgICBsb2dnZXIuaW5mbygiLS0tIElOSVQgU0VFRFMgLS0tIikKICAgICAgICByYW5kb20uc2VlZCgxMjM0KQogICAgICAgIG5wLnJhbmRvbS5zZWVkKDEyMzQpCgogICAgZGVmIF9pbml0X2FjY2VsZXJhdG9yX3NlZWRzKHNlbGYpOgogICAgICAgIGlmIHNlbGYuYWNjZWxlcmF0b3IgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYuYWNjZWxlcmF0b3Iud2FpdF9mb3JfZXZlcnlvbmUoKQogICAgICAgIGlmIHNlbGYucGFyYWxsZWxfY29udGV4dCBpcyBub3QgTm9uZToKICAgICAgICAgICAgZGlzdC5iYXJyaWVyKCkKCiAgICBkZWYgaXNfbWFpbl9wcm9jZXNzKHNlbGYpOgogICAgICAgIGlmIHNlbGYuYWNjZWxlcmF0b3I6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmFjY2VsZXJhdG9yLmlzX21haW5fcHJvY2VzcwogICAgICAgIGlmIHNlbGYucGFyYWxsZWxfY29udGV4dDoKICAgICAgICAgICAgcmV0dXJuIGRpc3QuZ2V0X3Jhbmsoc2VsZi5wYXJhbGxlbF9jb250ZXh0LndvcmxkX3BnKSA9PSAwCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgZXZhbHVhdGUoc2VsZik6CiAgICAgICAgc2VsZi5ldmFsdWF0aW9uX3RyYWNrZXIuZ2VuZXJhbF9jb25maWdfbG9nZ2VyLmxvZ19hcmdzX2luZm8oCiAgICAgICAgICAgIG51bV9mZXdzaG90X3NlZWRzPXNlbGYucGlwZWxpbmVfcGFyYW1ldGVycy5udW1fZmV3c2hvdF9zZWVkcywKICAgICAgICAgICAgbWF4X3NhbXBsZXM9c2VsZi5waXBlbGluZV9wYXJhbWV0ZXJzLm1heF9zYW1wbGVzLAogICAgICAgICAgICBqb2JfaWQ9c3RyKHNlbGYucGlwZWxpbmVfcGFyYW1ldGVycy5qb2JfaWQpLAogICAgICAgICkKCiAgICAgICAgaWYgc2VsZi5waXBlbGluZV9wYXJhbWV0ZXJzLmxvYWRfcmVzcG9uc2VzX2Zyb21fZGV0YWlsc19kYXRlX2lkOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBvdXRwdXRzID0gc2VsZi5fbG9hZF9yZXNwb25zZXNfZnJvbV9kZXRhaWxzKCkKICAgICAgICAgICAgZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yIGFzIGU6CiAgICAgICAgICAgICAgICBsb2dnZXIud2FybmluZygKICAgICAgICAgICAgICAgICAgICBmIk5vIHJlc3BvbnNlcyBmb3VuZCBmb3Ige3NlbGYucGlwZWxpbmVfcGFyYW1ldGVycy5sb2FkX3Jlc3BvbnNlc19mcm9tX2RldGFpbHNfZGF0ZV9pZH0gaW4gZGV0YWlscyBkaXJlY3Rvcnk6IHtlfS4gUnVubmluZyBtb2RlbCBpbnN0ZWFkLiIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIG91dHB1dHMgPSBzZWxmLl9ydW5fbW9kZWwoKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG91dHB1dHMgPSBzZWxmLl9ydW5fbW9kZWwoKQoKICAgICAgICBpZiBzZWxmLmlzX21haW5fcHJvY2VzcygpOgogICAgICAgICAgICBzZWxmLl9wb3N0X3Byb2Nlc3Nfb3V0cHV0cyhvdXRwdXRzKQogICAgICAgICAgICBzZWxmLl9jb21wdXRlX21ldHJpY3Mob3V0cHV0cykKCiAgICAgICAgICAgIHNlbGYuZXZhbHVhdGlvbl90cmFja2VyLmdlbmVyYWxfY29uZmlnX2xvZ2dlci5sb2dfZW5kX3RpbWUoKQogICAgICAgICAgICBzZWxmLmV2YWx1YXRpb25fdHJhY2tlci5tZXRyaWNzX2xvZ2dlci5hZ2dyZWdhdGUoCiAgICAgICAgICAgICAgICB0YXNrX2RpY3Q9c2VsZi50YXNrc19kaWN0LCBib290c3RyYXBfaXRlcnM9c2VsZi5waXBlbGluZV9wYXJhbWV0ZXJzLmJvb3RzdHJhcF9pdGVycwogICAgICAgICAgICApCiAgICAgICAgICAgIHNlbGYuZXZhbHVhdGlvbl90cmFja2VyLmRldGFpbHNfbG9nZ2VyLmFnZ3JlZ2F0ZSgpCgogICAgYXN5bmMgZGVmIF9ydW5fbW9kZWxfYXN5bmMoc2VsZik6CiAgICAgICAgb3V0cHV0cyA9IHt9CiAgICAgICAgZm9yIHNhbXBsaW5nX21ldGhvZCwgZG9jcyBpbiBzZWxmLnNhbXBsaW5nX2RvY3MuaXRlbXMoKToKICAgICAgICAgICAgbG9nZ2VyLmluZm8oZiJSdW5uaW5nIHtzYW1wbGluZ19tZXRob2R9IHJlcXVlc3RzIikKICAgICAgICAgICAgbWF0Y2ggc2FtcGxpbmdfbWV0aG9kOgogICAgICAgICAgICAgICAgY2FzZSBTYW1wbGluZ01ldGhvZC5HRU5FUkFUSVZFOgogICAgICAgICAgICAgICAgICAgIG1vZGVsX291dHB1dHMgPSBhd2FpdCBzZWxmLm1vZGVsLmdyZWVkeV91bnRpbChkb2NzKQogICAgICAgICAgICAgICAgICAgIG91dHB1dHNbc2FtcGxpbmdfbWV0aG9kXSA9IG1vZGVsX291dHB1dHMKICAgICAgICAgICAgICAgIGNhc2UgU2FtcGxpbmdNZXRob2QuTE9HUFJPQlM6CiAgICAgICAgICAgICAgICAgICAgbW9kZWxfb3V0cHV0cyA9IGF3YWl0IHNlbGYubW9kZWwubG9nbGlrZWxpaG9vZChkb2NzKQogICAgICAgICAgICAgICAgICAgIG91dHB1dHNbc2FtcGxpbmdfbWV0aG9kXSA9IG1vZGVsX291dHB1dHMKCiAgICAgICAgcmV0dXJuIG91dHB1dHMKCiAgICBkZWYgX3J1bl9tb2RlbF9zeW5jKHNlbGYpOgogICAgICAgICMgUnVubmluZyBhbGwgcmVxdWVzdHMgZGVwZW5kaW5nIG9uIHRoZSBtb2RlbCBjYWxsIHR5cGUgKGxvZyBsaWtlbGlob29kLCBnZW5lcmF0aXZlLCAuLi4pCiAgICAgICAgIyB0byBiZSBhYmxlIHRvIGJhdGNoIHRoZW0KICAgICAgICBvdXRwdXRzID0ge30KICAgICAgICBmb3Igc2FtcGxpbmdfbWV0aG9kLCBkb2NzIGluIHNlbGYuc2FtcGxpbmdfZG9jcy5pdGVtcygpOgogICAgICAgICAgICBsb2dnZXIuaW5mbyhmIlJ1bm5pbmcge3NhbXBsaW5nX21ldGhvZH0gcmVxdWVzdHMiKQogICAgICAgICAgICBtYXRjaCBzYW1wbGluZ19tZXRob2Q6CiAgICAgICAgICAgICAgICBjYXNlIFNhbXBsaW5nTWV0aG9kLkdFTkVSQVRJVkU6CiAgICAgICAgICAgICAgICAgICAgbW9kZWxfb3V0cHV0cyA9IHNlbGYubW9kZWwuZ3JlZWR5X3VudGlsKGRvY3MpCiAgICAgICAgICAgICAgICAgICAgb3V0cHV0c1tzYW1wbGluZ19tZXRob2RdID0gbW9kZWxfb3V0cHV0cwogICAgICAgICAgICAgICAgY2FzZSBTYW1wbGluZ01ldGhvZC5MT0dQUk9CUzoKICAgICAgICAgICAgICAgICAgICBtb2RlbF9vdXRwdXRzID0gc2VsZi5tb2RlbC5sb2dsaWtlbGlob29kKGRvY3MpCiAgICAgICAgICAgICAgICAgICAgb3V0cHV0c1tzYW1wbGluZ19tZXRob2RdID0gbW9kZWxfb3V0cHV0cwogICAgICAgICAgICAgICAgY2FzZSBTYW1wbGluZ01ldGhvZC5QRVJQTEVYSVRZOgogICAgICAgICAgICAgICAgICAgIG1vZGVsX291dHB1dHMgPSBzZWxmLm1vZGVsLmxvZ2xpa2VsaWhvb2Rfcm9sbGluZyhkb2NzKQogICAgICAgICAgICAgICAgICAgIG91dHB1dHNbc2FtcGxpbmdfbWV0aG9kXSA9IG1vZGVsX291dHB1dHMKCiAgICAgICAgcmV0dXJuIG91dHB1dHMKCiAgICBkZWYgX3J1bl9tb2RlbChzZWxmKToKICAgICAgICAjIFJ1bm5pbmcgYWxsIHJlcXVlc3RzIGRlcGVuZGluZyBvbiB0aGUgbW9kZWwgY2FsbCB0eXBlIChsb2cgbGlrZWxpaG9vZCwgZ2VuZXJhdGl2ZSwgLi4uKQogICAgICAgICMgdG8gYmUgYWJsZSB0byBiYXRjaCB0aGVtCiAgICAgICAgbG9nZ2VyLmluZm8oIi0tLSBSVU5OSU5HIE1PREVMIC0tLSIpCgogICAgICAgIGlmIHNlbGYubW9kZWwuaXNfYXN5bmM6CiAgICAgICAgICAgIG91dHB1dHMgPSBhc3luY2lvLnJ1bihzZWxmLl9ydW5fbW9kZWxfYXN5bmMoKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBvdXRwdXRzID0gc2VsZi5fcnVuX21vZGVsX3N5bmMoKQoKICAgICAgICAjIENsZWFuaW5nIHVwIHRoZSBtb2RlbCBiZWZvcmUgcnVubmluZyBtZXRyaWNzCiAgICAgICAgc2VsZi5tb2RlbC5jbGVhbnVwKCkKCiAgICAgICAgcmV0dXJuIG91dHB1dHMKCiAgICBkZWYgX3Bvc3RfcHJvY2Vzc19vdXRwdXRzKHNlbGYsIHNhbXBsaW5nX21ldGhvZF9yZXNwb25zZXM6IGRpY3Rbc3RyLCBsaXN0W01vZGVsUmVzcG9uc2VdXSk6CiAgICAgICAgIyBSZW1vdmVzIHJlYXNvbmluZyB0YWdzIGlmIG5lZWRlZAogICAgICAgIGxvZ2dlci5pbmZvKCItLS0gUE9TVC1QUk9DRVNTSU5HIE1PREVMIFJFU1BPTlNFUyAtLS0iKQoKICAgICAgICBpZiBzZWxmLnBpcGVsaW5lX3BhcmFtZXRlcnMucmVtb3ZlX3JlYXNvbmluZ190YWdzOgogICAgICAgICAgICBmb3IgXywgcmVzcG9uc2VzIGluIHNhbXBsaW5nX21ldGhvZF9yZXNwb25zZXMuaXRlbXMoKToKICAgICAgICAgICAgICAgIGZvciByZXNwb25zZSBpbiByZXNwb25zZXM6CiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UudGV4dF9wb3N0X3Byb2Nlc3NlZCA9IFsKICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlX3JlYXNvbmluZ190YWdzKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dD10ZXh0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFnX3BhaXJzPXNlbGYucGlwZWxpbmVfcGFyYW1ldGVycy5yZWFzb25pbmdfdGFncywKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICBmb3IgdGV4dCBpbiByZXNwb25zZS50ZXh0CiAgICAgICAgICAgICAgICAgICAgXQoKICAgIGRlZiBfY29tcHV0ZV9tZXRyaWNzKHNlbGYsIHNhbXBsaW5nX21ldGhvZF9yZXNwb25zZXM6IGRpY3Rbc3RyLCBsaXN0W01vZGVsUmVzcG9uc2VdXSk6CiAgICAgICAgIyBUbyBjb21wdXRlIHRoZSBtZXRyaWNzIHdlIGZpcnN0IGdyb3VwIHRoZSBzYW1wbGVzIGFuZCB0YXNrIGFuZCB0aGVuIGJ5IG1ldHJpY3MuCiAgICAgICAgIyBUaGlzIHdheSB3ZSBjYW4gYmF0Y2ggdGhlIG1ldHJpY3MgY29tcHV0YXRpb24gZm9yIGVhY2ggdGFzayBhbmQgbWV0cmljIGNhdGVnb3J5CgogICAgICAgICMgVGhpcyB2YXJpYWJsZSB3aWxsIGhvbGQgdGhlIHNhbXBsZXMgZ3JvdXBlZCBieSB0YXNrIGFuZCBtZXRyaWMgY2F0ZWdvcnkKICAgICAgICAjIGV4YW1wbGU6CiAgICAgICAgIyB0YXNrX21ldHJpY19jYXRlZ29yeV9ncm91cHMgPSB7CiAgICAgICAgIyAgICAgImdzbThrXzEiOiB7CiAgICAgICAgIyAgICAgICAgICJHRU5FUkFUSVZFIjogWwogICAgICAgICMgICAgICAgICAgICAgKGRvYzEsIHJlc3BvbnNlMSksIChkb2MyLCByZXNwb25zZTIpLCAuLi4sCiAgICAgICAgIyAgICAgICAgIH0KICAgICAgICAjICAgICAgICAgIkxPR0xJS0VMSUhPT0QiOiBbCiAgICAgICAgIyAgICAgICAgICAgICAoZG9jMSwgcmVzcG9uc2UxKSwgKGRvYzIsIHJlc3BvbnNlMiksIC4uLiwKICAgICAgICAjICAgICAgICAgXQogICAgICAgIGxvZ2dlci5pbmZvKCItLS0gQ09NUFVUSU5HIE1FVFJJQ1MgLS0tIikKICAgICAgICB0YXNrX21ldHJpY19jYXRlZ29yeV9ncm91cHMgPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGE6IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGxpc3QpKQoKICAgICAgICBmb3Igc2FtcGxpbmdfbWV0aG9kLCBtb2RlbF9yZXNwb25zZXMgaW4gc2FtcGxpbmdfbWV0aG9kX3Jlc3BvbnNlcy5pdGVtcygpOgogICAgICAgICAgICBmb3IgZG9jLCBtb2RlbF9yZXBvbnNlIGluIHppcChzZWxmLnNhbXBsaW5nX2RvY3Nbc2FtcGxpbmdfbWV0aG9kXSwgbW9kZWxfcmVzcG9uc2VzKToKICAgICAgICAgICAgICAgIHRhc2tfbWV0cmljX2NhdGVnb3J5X2dyb3Vwc1tkb2MudGFza19uYW1lXVtzYW1wbGluZ19tZXRob2RdLmFwcGVuZCgoZG9jLCBtb2RlbF9yZXBvbnNlKSkKCiAgICAgICAgZm9yIHRhc2tfbmFtZSwgc2FtcGxlc19wZXJfbWV0aG9kIGluIHRhc2tfbWV0cmljX2NhdGVnb3J5X2dyb3Vwcy5pdGVtcygpOgogICAgICAgICAgICB0YXNrOiBMaWdodGV2YWxUYXNrID0gc2VsZi50YXNrc19kaWN0W3Rhc2tfbmFtZV0KICAgICAgICAgICAgZm9yIHNhbXBsaW5nX21ldGhvZCwgc2FtcGxlcyBpbiBzYW1wbGVzX3Blcl9tZXRob2QuaXRlbXMoKToKICAgICAgICAgICAgICAgIG1ldHJpY19jYXRlZ29yeV9tZXRyaWNzID0gW21ldHJpYyBmb3IgbWV0cmljIGluIHRhc2subWV0cmljcyBpZiBtZXRyaWMuY2F0ZWdvcnkgPT0gc2FtcGxpbmdfbWV0aG9kXQoKICAgICAgICAgICAgICAgIGRvY3MgPSBbZG9jIGZvciBkb2MsIF8gaW4gc2FtcGxlc10KICAgICAgICAgICAgICAgIHJlc3BvbnNlcyA9IFtyZXNwb25zZSBmb3IgXywgcmVzcG9uc2UgaW4gc2FtcGxlc10KCiAgICAgICAgICAgICAgICBvdXRwdXRzID0gYXBwbHlfbWV0cmljKAogICAgICAgICAgICAgICAgICAgIGRvY3M9ZG9jcywKICAgICAgICAgICAgICAgICAgICByZXNwb25zZXM9cmVzcG9uc2VzLAogICAgICAgICAgICAgICAgICAgIG1ldHJpY3M9bWV0cmljX2NhdGVnb3J5X21ldHJpY3MsCiAgICAgICAgICAgICAgICApCgogICAgICAgICAgICAgICAgZm9yIG91dHB1dCwgZG9jLCByZXNwb25zZSBpbiB6aXAob3V0cHV0cywgZG9jcywgcmVzcG9uc2VzKToKICAgICAgICAgICAgICAgICAgICBzZWxmLmV2YWx1YXRpb25fdHJhY2tlci5tZXRyaWNzX2xvZ2dlci5sb2codGFza19uYW1lLCBvdXRwdXQpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5ldmFsdWF0aW9uX3RyYWNrZXIuZGV0YWlsc19sb2dnZXIubG9nKHRhc2tfbmFtZSwgZG9jLCByZXNwb25zZSwgb3V0cHV0KQoKICAgIGRlZiBfbG9hZF9yZXNwb25zZXNfZnJvbV9kZXRhaWxzKHNlbGYpOgogICAgICAgIGxvZ2dlci5pbmZvKCItLS0gTE9BRElORyBSRVNQT05TRVMgRlJPTSBERVRBSUxTIC0tLSIpCiAgICAgICAgbW9kZWxfcmVzcG9uc2VzID0ge30KICAgICAgICB0YXNrc19uYW1lcyA9IGxpc3Qoc2VsZi50YXNrc19kaWN0LmtleXMoKSkKICAgICAgICBzYW1wbGluZ19tZXRob2RzID0gbGlzdChzZWxmLnNhbXBsaW5nX2RvY3Mua2V5cygpKQoKICAgICAgICBpZiBsZW4oc2FtcGxpbmdfbWV0aG9kcykgPiAxOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICAgICAgIkxvYWRpbmcgcmVzcG9uc2VzIGZyb20gZGV0YWlscyB3aGVuIHRoZXJlIGFyZSBtdWx0aXBsZSByZXF1ZXN0IHR5cGVzIGlzIGN1cnJlbnRseSBub3Qgc3VwcG9ydGVkIgogICAgICAgICAgICApCgogICAgICAgIGFzc2VydCBzZWxmLnBpcGVsaW5lX3BhcmFtZXRlcnMubG9hZF9yZXNwb25zZXNfZnJvbV9kZXRhaWxzX2RhdGVfaWQgaXMgbm90IE5vbmUKCiAgICAgICAgZGV0YWlsc19kYXRhc2V0cyA9IHNlbGYuZXZhbHVhdGlvbl90cmFja2VyLmxvYWRfZGV0YWlsc19kYXRhc2V0cygKICAgICAgICAgICAgc2VsZi5waXBlbGluZV9wYXJhbWV0ZXJzLmxvYWRfcmVzcG9uc2VzX2Zyb21fZGV0YWlsc19kYXRlX2lkLCB0YXNrc19uYW1lcwogICAgICAgICkKCiAgICAgICAgZm9yIF8sIGRhdGFzZXQgaW4gdHFkbShkZXRhaWxzX2RhdGFzZXRzLml0ZW1zKCksIGRlc2M9IkxvYWRpbmcgcmVzcG9uc2VzIGZyb20gZGV0YWlscyBmb3IgdGFza3MiKToKICAgICAgICAgICAgZm9yIHNhbXBsaW5nX21ldGhvZCBpbiBzYW1wbGluZ19tZXRob2RzOgogICAgICAgICAgICAgICAgbW9kZWxfcmVzcG9uc2VzW3NhbXBsaW5nX21ldGhvZF0gPSBbCiAgICAgICAgICAgICAgICAgICAgTW9kZWxSZXNwb25zZSgqKm1vZGVsX3Jlc3BvbnNlWyJtb2RlbF9yZXNwb25zZSJdKSBmb3IgbW9kZWxfcmVzcG9uc2UgaW4gZGF0YXNldAogICAgICAgICAgICAgICAgXQoKICAgICAgICByZXR1cm4gbW9kZWxfcmVzcG9uc2VzCgogICAgZGVmIHNhdmVfYW5kX3B1c2hfcmVzdWx0cyhzZWxmKToKICAgICAgICBsb2dnZXIuaW5mbygiLS0tIFNBVklORyBBTkQgUFVTSElORyBSRVNVTFRTIC0tLSIpCiAgICAgICAgaWYgc2VsZi5pc19tYWluX3Byb2Nlc3MoKToKICAgICAgICAgICAgc2VsZi5ldmFsdWF0aW9uX3RyYWNrZXIuc2F2ZSgpCgogICAgZGVmIF9pbml0X2ZpbmFsX2RpY3Qoc2VsZik6CiAgICAgICAgaWYgc2VsZi5pc19tYWluX3Byb2Nlc3MoKToKICAgICAgICAgICAgaWYgc2VsZi5maW5hbF9kaWN0IGlzIE5vbmU6CiAgICAgICAgICAgICAgICBzZWxmLmZpbmFsX2RpY3QgPSBzZWxmLmV2YWx1YXRpb25fdHJhY2tlci5nZW5lcmF0ZV9maW5hbF9kaWN0KCkKCiAgICBkZWYgc2hvd19yZXN1bHRzKHNlbGYpOgogICAgICAgIGxvZ2dlci5pbmZvKCItLS0gRElTUExBWUlORyBSRVNVTFRTIC0tLSIpCiAgICAgICAgc2VsZi5faW5pdF9maW5hbF9kaWN0KCkKICAgICAgICBpZiBzZWxmLmlzX21haW5fcHJvY2VzcygpOgogICAgICAgICAgICBwcmludChtYWtlX3Jlc3VsdHNfdGFibGUoc2VsZi5maW5hbF9kaWN0KSkKCiAgICBkZWYgZ2V0X3Jlc3VsdHMoc2VsZik6CiAgICAgICAgc2VsZi5faW5pdF9maW5hbF9kaWN0KCkKICAgICAgICByZXR1cm4gc2VsZi5maW5hbF9kaWN0CgogICAgZGVmIGdldF9kZXRhaWxzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmV2YWx1YXRpb25fdHJhY2tlci5kZXRhaWxzX2xvZ2dlci5kZXRhaWxzCg==
+# MIT License
+
+# Copyright (c) 2024 The HuggingFace Team
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+import ast
+import asyncio
+import collections
+import os
+import random
+from dataclasses import dataclass
+from datetime import timedelta
+from enum import Enum, auto
+
+import numpy as np
+from tqdm import tqdm
+
+from lighteval.logging.evaluation_tracker import EvaluationTracker
+from lighteval.metrics import apply_metric
+from lighteval.models.abstract_model import LightevalModel, ModelConfig
+from lighteval.models.model_loader import TransformersModel, load_model
+from lighteval.models.model_output import (
+    ModelResponse,
+)
+from lighteval.tasks.lighteval_task import LightevalTask
+from lighteval.tasks.registry import Registry
+from lighteval.tasks.requests import SamplingMethod
+from lighteval.utils.imports import is_package_available
+from lighteval.utils.parallelism import test_all_gather
+from lighteval.utils.utils import make_results_table, remove_reasoning_tags
+
+
+if is_package_available("accelerate"):
+    from accelerate import Accelerator, InitProcessGroupKwargs
+else:
+    from unittest.mock import Mock
+
+    Accelerator = InitProcessGroupKwargs = Mock()
+
+if is_package_available("nanotron"):
+    from nanotron import distributed as dist
+    from nanotron.parallel.context import ParallelContext
+
+    from lighteval.models.nanotron.nanotron_model import NanotronLightevalModel
+
+
+import logging
+
+
+logger = logging.getLogger(__name__)
+
+
+class ParallelismManager(Enum):
+    ACCELERATE = auto()
+    NANOTRON = auto()
+    TGI = auto()
+    OPENAI = auto()
+    VLLM = auto()
+    CUSTOM = auto()
+    NONE = auto()
+    SGLANG = auto()
+
+
+@dataclass
+class PipelineParameters:
+    launcher_type: ParallelismManager
+    # Env parameters
+    job_id: int = 0
+    dataset_loading_processes: int = 1
+    nanotron_checkpoint_path: str | None = None  # only for nanotron models
+    # Dataset
+    custom_tasks_directory: str | None = None
+    num_fewshot_seeds: int = 1
+    max_samples: int | None = None
+    cot_prompt: str | None = None
+    remove_reasoning_tags: bool = True
+    reasoning_tags: str | list[tuple[str, str]] = "[('<think>', '</think>')]"
+    load_responses_from_details_date_id: str | None = None
+    bootstrap_iters: int = 1000
+    load_tasks_multilingual: bool = False
+
+    def __post_init__(self):  # noqa C901
+        if not isinstance(self.reasoning_tags, list):
+            try:
+                self.reasoning_tags = ast.literal_eval(self.reasoning_tags)
+            except ValueError as e:
+                raise ValueError(
+                    "reasoning_tags must be a list of pair tuples, e.g. [('start_tag', 'end_tag'), ...]. "
+                    f"Got {self.reasoning_tags} instead, which caused parsing error {e}."
+                )
+
+        # Make sure format is correct
+        if not all(isinstance(tag, tuple) and len(tag) == 2 for tag in self.reasoning_tags):
+            raise ValueError(
+                "reasoning_tags must be a list of pair tuples, e.g. [('start_tag', 'end_tag'), ...]. "
+                f"Got {self.reasoning_tags} instead."
+            )
+
+
+class Pipeline:
+    def __init__(
+        self,
+        tasks: str,
+        pipeline_parameters: PipelineParameters,
+        evaluation_tracker: EvaluationTracker,
+        model_config: ModelConfig | None = None,
+        model=None,
+        metric_options=None,
+    ):
+        if not (model or model_config):
+            raise ValueError("Must provide either a model or model config when creating a pipeline.")
+
+        self.pipeline_parameters = pipeline_parameters
+        if self.pipeline_parameters.max_samples:
+            logger.warning(
+                "--max_samples WAS SET. THESE NUMBERS ARE ONLY PARTIAL AND SHOULD NOT BE USED FOR COMPARISON UNLESS YOU KNOW WHAT YOU ARE DOING."
+            )
+
+        self.launcher_type = self.pipeline_parameters.launcher_type
+        self._metric_options = metric_options or {}
+        self.evaluation_tracker = evaluation_tracker
+
+        # We init tasks first to fail fast if one is badly defined
+        self._init_random_seeds()
+        self._init_tasks_and_requests(tasks=tasks)
+
+        self.model_config = model_config
+        self.accelerator, self.parallel_context = self._init_parallelism_manager()
+        self.model = self._init_model(model_config, model)
+        # Must occur after model and task init
+        self.model._cache._init_registry(self.registry)
+        # Must occur after model init
+        self._init_accelerator_seeds()
+
+        self.evaluation_tracker.general_config_logger.log_model_info(model_config=self.model.config)
+
+        # Final results
+        self.final_dict: dict | None = None
+
+    def _init_parallelism_manager(self):
+        accelerator, parallel_context = None, None
+        if self.launcher_type == ParallelismManager.ACCELERATE:
+            if not is_package_available("accelerate"):
+                raise ValueError("You are trying to launch an accelerate model, but accelerate is not installed")
+            accelerator = Accelerator(kwargs_handlers=[InitProcessGroupKwargs(timeout=timedelta(seconds=3000))])
+            test_all_gather(accelerator=accelerator)
+        elif self.launcher_type == ParallelismManager.NANOTRON:
+            if not is_package_available("nanotron"):
+                raise ValueError("You are trying to launch a nanotron model, but nanotron is not installed")
+            dist.initialize_torch_distributed()
+            parallel_context = ParallelContext(
+                tensor_parallel_size=self.model_config.lighteval_config.parallelism.tp,
+                pipeline_parallel_size=self.model_config.lighteval_config.parallelism.pp,
+                data_parallel_size=self.model_config.lighteval_config.parallelism.dp,
+            )
+            test_all_gather(parallel_context=parallel_context)
+
+        return accelerator, parallel_context
+
+    def _init_model(self, model_config, model):
+        logger.info("--- LOADING MODEL ---")
+
+        if model is not None and model_config is not None:
+            if isinstance(model, LightevalModel):
+                raise ValueError(
+                    "You are trying to provide both a LightevalModel and a model config. Please provide only one of them."
+                )
+            return TransformersModel.from_model(
+                model=model,
+                config=model_config,
+                accelerator=self.accelerator,
+            )
+
+        elif model is not None:
+            if isinstance(model, LightevalModel):
+                return model
+            raise ValueError("If not providing a model_config, you need to provide a Lighteval model.")
+
+        elif model_config is not None:
+            if self.parallel_context:
+                return NanotronLightevalModel(
+                    checkpoint_path=os.path.dirname(self.pipeline_parameters.nanotron_checkpoint_path)
+                    if self.pipeline_parameters.nanotron_checkpoint_path
+                    else "",
+                    nanotron_config=model_config,
+                    parallel_context=self.parallel_context,
+                    debug_one_layer_model=False,
+                    model_class=None,
+                )
+            else:
+                return load_model(config=model_config)
+
+    def _init_tasks_and_requests(self, tasks: str):
+        logger.info("--- LOADING TASKS ---")
+
+        # The registry contains all the potential tasks
+        self.registry = Registry(
+            tasks=tasks,
+            load_multilingual=self.pipeline_parameters.load_tasks_multilingual,
+            custom_tasks=self.pipeline_parameters.custom_tasks_directory,
+        )
+
+        # load the tasks from the configs and their datasets
+        self.tasks_dict: dict[str, LightevalTask] = self.registry.load_tasks()
+        LightevalTask.load_datasets(self.tasks_dict, self.pipeline_parameters.dataset_loading_processes)
+        self.documents_dict = {
+            task.full_name: task.get_docs(self.pipeline_parameters.max_samples) for _, task in self.tasks_dict.items()
+        }
+
+        self.sampling_docs = collections.defaultdict(list)
+        for _, docs in self.documents_dict.items():
+            for doc in docs:
+                for sampling in doc.sampling_methods:
+                    self.sampling_docs[sampling].append(doc)
+
+        # If there are metric_options defined from the yaml file,
+        # review if they have to be updated.
+        if self._metric_options:
+            self._update_num_samples(list(self.tasks_dict.values()))
+
+        self.evaluation_tracker.task_config_logger.log(self.tasks_dict)
+
+    def _update_num_samples(self, tasks: list[LightevalTask]):
+        """Helper function to update the num_samples of a given metric via the yaml file.
+        As it has to be done at the metric level, it's better to update the value per metric.
+        It will add a num_samples to the already defined metrics' num_samples if defined in the yaml file.
+        As later when constructing the requests the max is taken over the num_samples, this is valid.
+        """
+        for task in tasks:
+            for metric in task.metrics:
+                if metric_data := self._metric_options.get(metric.metric_name, None):
+                    num_samples = metric_data.get("num_samples", None)
+                    if num_samples:
+                        task.num_samples = [num_samples]
+
+    def _init_random_seeds(self):
+        logger.info("--- INIT SEEDS ---")
+        random.seed(1234)
+        np.random.seed(1234)
+
+    def _init_accelerator_seeds(self):
+        if self.accelerator is not None:
+            self.accelerator.wait_for_everyone()
+        if self.parallel_context is not None:
+            dist.barrier()
+
+    def is_main_process(self):
+        if self.accelerator:
+            return self.accelerator.is_main_process
+        if self.parallel_context:
+            return dist.get_rank(self.parallel_context.world_pg) == 0
+        return True
+
+    def evaluate(self):
+        self.evaluation_tracker.general_config_logger.log_args_info(
+            num_fewshot_seeds=self.pipeline_parameters.num_fewshot_seeds,
+            max_samples=self.pipeline_parameters.max_samples,
+            job_id=str(self.pipeline_parameters.job_id),
+        )
+
+        if self.pipeline_parameters.load_responses_from_details_date_id:
+            try:
+                outputs = self._load_responses_from_details()
+            except FileNotFoundError as e:
+                logger.warning(
+                    f"No responses found for {self.pipeline_parameters.load_responses_from_details_date_id} in details directory: {e}. Running model instead."
+                )
+                outputs = self._run_model()
+        else:
+            outputs = self._run_model()
+
+        if self.is_main_process():
+            self._post_process_outputs(outputs)
+            self._compute_metrics(outputs)
+
+            self.evaluation_tracker.general_config_logger.log_end_time()
+            self.evaluation_tracker.metrics_logger.aggregate(
+                task_dict=self.tasks_dict, bootstrap_iters=self.pipeline_parameters.bootstrap_iters
+            )
+            self.evaluation_tracker.details_logger.aggregate()
+
+    async def _run_model_async(self):
+        outputs = {}
+        for sampling_method, docs in self.sampling_docs.items():
+            logger.info(f"Running {sampling_method} requests")
+            match sampling_method:
+                case SamplingMethod.GENERATIVE:
+                    model_outputs = await self.model.greedy_until(docs)
+                    outputs[sampling_method] = model_outputs
+                case SamplingMethod.LOGPROBS:
+                    model_outputs = await self.model.loglikelihood(docs)
+                    outputs[sampling_method] = model_outputs
+
+        return outputs
+
+    def _run_model_sync(self):
+        # Running all requests depending on the model call type (log likelihood, generative, ...)
+        # to be able to batch them
+        outputs = {}
+        for sampling_method, docs in self.sampling_docs.items():
+            logger.info(f"Running {sampling_method} requests")
+            match sampling_method:
+                case SamplingMethod.GENERATIVE:
+                    model_outputs = self.model.greedy_until(docs)
+                    outputs[sampling_method] = model_outputs
+                case SamplingMethod.LOGPROBS:
+                    model_outputs = self.model.loglikelihood(docs)
+                    outputs[sampling_method] = model_outputs
+                case SamplingMethod.PERPLEXITY:
+                    model_outputs = self.model.loglikelihood_rolling(docs)
+                    outputs[sampling_method] = model_outputs
+
+        return outputs
+
+    def _run_model(self):
+        # Running all requests depending on the model call type (log likelihood, generative, ...)
+        # to be able to batch them
+        logger.info("--- RUNNING MODEL ---")
+
+        if self.model.is_async:
+            outputs = asyncio.run(self._run_model_async())
+        else:
+            outputs = self._run_model_sync()
+
+        # Cleaning up the model before running metrics
+        self.model.cleanup()
+
+        return outputs
+
+    def _post_process_outputs(self, sampling_method_responses: dict[str, list[ModelResponse]]):
+        # Removes reasoning tags if needed
+        logger.info("--- POST-PROCESSING MODEL RESPONSES ---")
+
+        if self.pipeline_parameters.remove_reasoning_tags:
+            for _, responses in sampling_method_responses.items():
+                for response in responses:
+                    response.text_post_processed = [
+                        remove_reasoning_tags(
+                            text=text,
+                            tag_pairs=self.pipeline_parameters.reasoning_tags,
+                        )
+                        for text in response.text
+                    ]
+
+    def _compute_metrics(self, sampling_method_responses: dict[str, list[ModelResponse]]):
+        # To compute the metrics we first group the samples and task and then by metrics.
+        # This way we can batch the metrics computation for each task and metric category
+
+        # This variable will hold the samples grouped by task and metric category
+        # example:
+        # task_metric_category_groups = {
+        #     "gsm8k_1": {
+        #         "GENERATIVE": [
+        #             (doc1, response1), (doc2, response2), ...,
+        #         }
+        #         "LOGLIKELIHOOD": [
+        #             (doc1, response1), (doc2, response2), ...,
+        #         ]
+        logger.info("--- COMPUTING METRICS ---")
+        task_metric_category_groups = collections.defaultdict(lambda: collections.defaultdict(list))
+
+        for sampling_method, model_responses in sampling_method_responses.items():
+            for doc, model_reponse in zip(self.sampling_docs[sampling_method], model_responses):
+                task_metric_category_groups[doc.task_name][sampling_method].append((doc, model_reponse))
+
+        for task_name, samples_per_method in task_metric_category_groups.items():
+            task: LightevalTask = self.tasks_dict[task_name]
+            for sampling_method, samples in samples_per_method.items():
+                metric_category_metrics = [metric for metric in task.metrics if metric.category == sampling_method]
+
+                docs = [doc for doc, _ in samples]
+                responses = [response for _, response in samples]
+
+                outputs = apply_metric(
+                    docs=docs,
+                    responses=responses,
+                    metrics=metric_category_metrics,
+                )
+
+                for output, doc, response in zip(outputs, docs, responses):
+                    self.evaluation_tracker.metrics_logger.log(task_name, output)
+                    self.evaluation_tracker.details_logger.log(task_name, doc, response, output)
+
+    def _load_responses_from_details(self):
+        logger.info("--- LOADING RESPONSES FROM DETAILS ---")
+        model_responses = {}
+        tasks_names = list(self.tasks_dict.keys())
+        sampling_methods = list(self.sampling_docs.keys())
+
+        if len(sampling_methods) > 1:
+            raise ValueError(
+                "Loading responses from details when there are multiple request types is currently not supported"
+            )
+
+        assert self.pipeline_parameters.load_responses_from_details_date_id is not None
+
+        details_datasets = self.evaluation_tracker.load_details_datasets(
+            self.pipeline_parameters.load_responses_from_details_date_id, tasks_names
+        )
+
+        for _, dataset in tqdm(details_datasets.items(), desc="Loading responses from details for tasks"):
+            for sampling_method in sampling_methods:
+                model_responses[sampling_method] = [
+                    ModelResponse(**model_response["model_response"]) for model_response in dataset
+                ]
+
+        return model_responses
+
+    def save_and_push_results(self):
+        logger.info("--- SAVING AND PUSHING RESULTS ---")
+        if self.is_main_process():
+            self.evaluation_tracker.save()
+
+    def _init_final_dict(self):
+        if self.is_main_process():
+            if self.final_dict is None:
+                self.final_dict = self.evaluation_tracker.generate_final_dict()
+
+    def show_results(self):
+        logger.info("--- DISPLAYING RESULTS ---")
+        self._init_final_dict()
+        if self.is_main_process():
+            print(make_results_table(self.final_dict))
+
+    def get_results(self):
+        self._init_final_dict()
+        return self.final_dict
+
+    def get_details(self):
+        return self.evaluation_tracker.details_logger.details

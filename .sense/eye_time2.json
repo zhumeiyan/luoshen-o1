@@ -1,1 +1,51 @@
-ewogInJvd3MiOiBbCiAgewogICAiYXN5bSI6IDAuMCwKICAgIkFfdGltZXJldiI6IDAuMDU2NjAyNTI3NjUyNjc0OTEsCiAgICJCX3NhbWUiOiAwLjAsCiAgICJCX3BlYWsiOiAwLjAKICB9LAogIHsKICAgImFzeW0iOiAwLjE1LAogICAiQV90aW1lcmV2IjogMC4wNTY2MDI1Mjc2NTI2NzUwNjYsCiAgICJCX3NhbWUiOiAwLjEyODAwODgxNzYxNjYzOTAxLAogICAiQl9wZWFrIjogMC4zNDIwNzY2NTUzODc1Njg5MwogIH0sCiAgewogICAiYXN5bSI6IDAuMywKICAgIkFfdGltZXJldiI6IDAuMDU2NjAyNTI3NjUyNjc1NTQsCiAgICJCX3NhbWUiOiAwLjI1NjAxNzYzNTIzMzI3ODEsCiAgICJCX3BlYWsiOiAwLjY4NDE1MzMxMDc3NTEzODEKICB9LAogIHsKICAgImFzeW0iOiAwLjQ1LAogICAiQV90aW1lcmV2IjogMC4wNTY2MDI1Mjc2NTI2NzY0MSwKICAgIkJfc2FtZSI6IDAuMzg0MDI2NDUyODQ5OTE3MTUsCiAgICJCX3BlYWsiOiAxLjAyNjIyOTk2NjE2MjcwNwogIH0sCiAgewogICAiYXN5bSI6IDAuNiwKICAgIkFfdGltZXJldiI6IDAuMDU2NjAyNTI3NjUyNjc3NzEsCiAgICJCX3NhbWUiOiAwLjUxMjAzNTI3MDQ2NjU1NjEsCiAgICJCX3BlYWsiOiAxLjM2ODMwNjYyMTU1MDI3NgogIH0sCiAgewogICAiYXN5bSI6IDAuOCwKICAgIkFfdGltZXJldiI6IDAuMDU2NjAyNTI3NjUyNjgwNTE0LAogICAiQl9zYW1lIjogMC42ODI3MTM2OTM5NTU0MDg0LAogICAiQl9wZWFrIjogMS44MjQ0MDg4Mjg3MzM3MDE1CiAgfQogXSwKICJvayI6IHsKICAi4pGgIGFzeW09MCDihpIgQj0w77yI5a+556ew5pSv6YWN77yM5q2j5Y+N5omr6KeG5peg5beu5Yir77yJIjogdHJ1ZSwKICAi4pGhIGFzeW0+MCDihpIgQiDmmL7okZcgPjDvvIjkuqTlj4nmlK/phY3luKbmnaXmiYvmgKfvvIkiOiB0cnVlLAogICLikaIgQiDpmo8gYXN5bSDljZXosIPkuIrljYciOiB0cnVlLAogICLikaMgQiDmmK/nnqzmgIHnmoTvvIjmiavop4blkI4gM3Mg5bey5raI6YCA5YiwIH4w77yJIjogdHJ1ZSwKICAi4pGkIOKYhSDlr7nnhafvvJpBIOWcqCBhc3ltPTAg5pe25bCx6Z2e6Zu2IOKGkiBBIOaKk+eahOS4jeaYr+aJi+aApyI6IHRydWUKIH0sCiAic3VwcHJlc3NfaGFsZl9tcyI6IDc1LjAsCiAic3VwcHJlc3NfbWluIjogMC4wNzk5OTk5OTk5OTk5OTk5NiwKICJzdXBwcmVzc19vayI6IHRydWUsCiAidHJveGxlcl9vayI6IHRydWUKfQ==
+{
+ "rows": [
+  {
+   "asym": 0.0,
+   "A_timerev": 0.05660252765267491,
+   "B_same": 0.0,
+   "B_peak": 0.0
+  },
+  {
+   "asym": 0.15,
+   "A_timerev": 0.056602527652675066,
+   "B_same": 0.12800881761663901,
+   "B_peak": 0.34207665538756893
+  },
+  {
+   "asym": 0.3,
+   "A_timerev": 0.05660252765267554,
+   "B_same": 0.2560176352332781,
+   "B_peak": 0.6841533107751381
+  },
+  {
+   "asym": 0.45,
+   "A_timerev": 0.05660252765267641,
+   "B_same": 0.38402645284991715,
+   "B_peak": 1.026229966162707
+  },
+  {
+   "asym": 0.6,
+   "A_timerev": 0.05660252765267771,
+   "B_same": 0.5120352704665561,
+   "B_peak": 1.368306621550276
+  },
+  {
+   "asym": 0.8,
+   "A_timerev": 0.056602527652680514,
+   "B_same": 0.6827136939554084,
+   "B_peak": 1.8244088287337015
+  }
+ ],
+ "ok": {
+  "① asym=0 → B=0（对称支配，正反扫视无差别）": true,
+  "② asym>0 → B 显著 >0（交叉支配带来手性）": true,
+  "③ B 随 asym 单调上升": true,
+  "④ B 是瞬态的（扫视后 3s 已消退到 ~0）": true,
+  "⑤ ★ 对照：A 在 asym=0 时就非零 → A 抓的不是手性": true
+ },
+ "suppress_half_ms": 75.0,
+ "suppress_min": 0.07999999999999996,
+ "suppress_ok": true,
+ "troxler_ok": true
+}

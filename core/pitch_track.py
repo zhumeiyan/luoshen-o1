@@ -1,1 +1,255 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK4piFNDcg5L+u5rWL6YeP5bGC77ya55yfIHBpdGNoIHRyYWNrZXLvvIhZSU4tbGlrZSArIOmAkOWRqOacn++8iQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuKYheKYhSDotbflm6DvvJrimIU0NiDlj6/kv6Hluqbmiavmj4/miooi5a2m5Lya5LqGIuaJk+eiju+8jOaguea6kOWcqOOAkOa1i+mHj+WxguOAkQoKICDnl4XngbYxICBGMCDmtYvmiJAgMiDlgI0KICAgICBmMF9iYXNlIFsxMTAsIDEzOCwgMTcwXSDihpIg5rWL5b6XIFsyMTksIDI3NSwgMzM5XSDiiYggMsOXCiAgICAg4piFIOS6muiwkOazoumUgeWumu+8muiHquebuOWFs+WcqCBULzIg5aSE5Lmf6auYIOKGkiDlj5bliLDljYrlkajmnJ8KCiAg55eF54G2MiAgaml0dGVyIOaBkiAwCiAgICAg5Y+C5pWwIFswLCAwLjAwNSwgMC4wMiwgMC4wNV0g4oaSIOWFqOa1i+WHuiAw77yM5Y+q5pyJIDAuMDgg5omNIDAuMDA1MwogICAgIOKYheKYhSDnnJ/lm6DvvIjmiJHmn6XliLDnmoTvvInvvJrluKcgMzBtcyAvIGhvcCAxMG1zIOKGkiDnm7jpgrvluKfph43lj6AgMi8zCiAgICAgICAg4oaSIOebuOmCu+W4pyBGMCDpq5jluqbnm7jlhbMg4oaSIGRpZmYg6KKr5bmz5ruRIOKGkiBqaXR0ZXIg5oGSIDAKICAgICDimIUg5LiU6Ieq55u45YWzIGxhZyDmmK/mlbTmlbDvvJpGMD0yMDBIeiDml7YgVD04MCBzYW1wbGVzCiAgICAgICAg55yf5Lq6IGppdHRlciAwLjklID0gMC43MiBzYW1wbGVzIDwgMSBzYW1wbGUg6YeP5YyW5q2l6ZW/CiAgICAgICAg4oaSIOeJqeeQhuS4iuWwsea1i+S4jeWHugoK4piFIOS/ruazlQogIOKRoCBDTU5ERu+8iOe0r+enr+Wdh+WAvOW9kuS4gOWMluW3ruWIhuWHveaVsO+8jFlJTiDnmoTmoLjlv4PvvIkKICAgICDimIUg5a6D5Y+W44CQ56ys5LiA5Liq44CR5L2O5LqO6ZiI5YC855qE5bGA6YOo5pyA5bCP77yM5aSp54S25oqX5Lqa6LCQ5rOiCiAgICAg4piFIOaZrumAmuiHquebuOWFs+WPluWFqOWxgOacgOWkpyDihpIg5a655piT6KKrIDJUIOWkhOeahOWzsOmqlwogIOKRoSDmipvniannur/mj5LlgLwg4oaSIOS6mumHh+agt+eyvuW6pu+8iOWPr+WIsCB+MC4xIHNhbXBsZe+8iQogIOKRoiBqaXR0ZXIg5pS555So44CQ6YCQ5ZGo5pyf44CRVCDluo/liJfvvIzkuI3mmK/nm7jpgrvluKcgRjAKICAgICBUX2kgPSDls7BbaSsxXSAtIOWzsFtpXe+8jGppdHRlciA9IG1lYW58zpRUfCAvIG1lYW4oVCkKCuKYheKYheKYhSDpqozor4HmlrnlvI/vvJrlkIjmiJDms6jlhaUgZ3JvdW5kIHRydXRoCiAgICAg4piFIOiHquW3semAoOS4gOS4quW3suefpSBGMOOAgeW3suefpSBqaXR0ZXIg55qE5L+h5Y+3CiAgICAg4piFIOeci+a1i+mHj+iDveS4jeiDveOAkOaBouWkjeOAkeW3suefpeWAvAogICAgIOKYhSDov5nmmK/llK/kuIDog73or4HmmI4i5rWL6YeP5bGC5L+u5aW95LqGIueahOWKnuazlSDigJTigJQg5LiN6IO96Z2g55yL55yf6Z+z6aKR6KeJ5b6X5ZCI55CGCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCmltcG9ydCBvcywgc3lzCmltcG9ydCBudW1weSBhcyBucAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQoKRlMgPSAxNjAwMAoKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDkuIDjgIFDTU5ERu+8iFlJTiDmoLjlv4PvvIkrIOaKm+eJqee6v+aPkuWAvAojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBkaWZmX2Z1bmN0aW9uKHg6IG5wLm5kYXJyYXksIHc6IGludCkgLT4gbnAubmRhcnJheToKICAgICIiImRba10gPSDOoyAoeFtpXSAtIHhbaStrXSnCsiDigJTigJQg5beu5YiG5Ye95pWwIiIiCiAgICBkID0gbnAuemVyb3ModykKICAgIGZvciBrIGluIHJhbmdlKHcpOgogICAgICAgIGRpZmYgPSB4Wzp3IC0ga10gLSB4W2s6d10gaWYgayA+IDAgZWxzZSB4Wzp3XQogICAgICAgICMg55So6YeN5Y+g6YOo5YiG77yM6YG/5YWN6ZW/5bqm5LiN562JCiAgICAgICAgbiA9IGxlbih4KSAtIGsKICAgICAgICBkaWZmID0geFs6bl0gLSB4W2s6ayArIG5dCiAgICAgICAgZFtrXSA9IGZsb2F0KG5wLmRvdChkaWZmLCBkaWZmKSkKICAgIHJldHVybiBkCgoKZGVmIGNtbmRmKGQ6IG5wLm5kYXJyYXkpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiIKICAgIOKYhSDntK/np6/lnYflgLzlvZLkuIDljJblt67liIblh73mlbAgZCdba10gPSBkW2tdIC8gKCgxL2spwrfOo197auKJpGt9IGRbal0pCiAgICAgIOKYhSDov5nmmK8gWUlOIOaKl+S6muiwkOazoueahOWFs+mUru+8mgogICAgICAgIOaZrumAmuiHquebuOWFs+WcqCAyVCDlpITkuZ/pq5jvvJtDTU5ERiDlvZLkuIDljJblkI4gVCDlpITnmoTosLfmm7Tmt7EKICAgICIiIgogICAgb3V0ID0gbnAuemVyb3NfbGlrZShkKQogICAgcnVuID0gbnAuY3Vtc3VtKGQpCiAgICBrID0gbnAuYXJhbmdlKDEsIGxlbihkKSArIDEpCiAgICBvdXRbMF0gPSAxLjAKICAgIG91dFsxOl0gPSBkWzE6XSAvIChydW5bMTpdIC8ga1sxOl0pCiAgICBvdXRbfm5wLmlzZmluaXRlKG91dCldID0gMS4wCiAgICByZXR1cm4gb3V0CgoKZGVmIHBhcmFib2xpY19pbnRlcnAoZDogbnAubmRhcnJheSwgazogaW50KSAtPiBmbG9hdDoKICAgICIiIuKYhSDmipvniannur/mj5LlgLzvvJrmiormlbTmlbAgbGFnIOe7huWMluWIsOS6mumHh+agtyIiIgogICAgaWYgayA8PSAwIG9yIGsgPj0gbGVuKGQpIC0gMToKICAgICAgICByZXR1cm4gZmxvYXQoaykKICAgIGEsIGIsIGMgPSBkW2sgLSAxXSwgZFtrXSwgZFtrICsgMV0KICAgIGRlbiA9IGEgLSAyLjAgKiBiICsgYwogICAgaWYgYWJzKGRlbikgPCAxZS0xMjoKICAgICAgICByZXR1cm4gZmxvYXQoaykKICAgIHNoaWZ0ID0gMC41ICogKGEgLSBjKSAvIGRlbgogICAgaWYgYWJzKHNoaWZ0KSA+IDEuMDogICAgICAjIOKYhSDpmZDluYXvvIzpmLLmraLmj5LlgLzpo57mjokKICAgICAgICBzaGlmdCA9IG5wLnNpZ24oc2hpZnQpICogMS4wCiAgICByZXR1cm4gZmxvYXQoaykgKyBzaGlmdAoKCmRlZiB5aW5fZjAoeDogbnAubmRhcnJheSwgZnM6IGludCA9IEZTLCBmbWluOiBmbG9hdCA9IDcwLjAsCiAgICAgICAgICAgZm1heDogZmxvYXQgPSA0MDAuMCwgdGhyZXNoOiBmbG9hdCA9IDAuMTUpIC0+IGZsb2F0OgogICAgIiIiCiAgICDimIUgWUlOLWxpa2Ug5Y2V5binIEYwCiAgICAgIOWPluOAkOesrOS4gOS4quOAkUNNTkRGIOS9juS6jiB0aHJlc2gg55qE5bGA6YOo5pyA5bCPIOKAlOKAlCDkuI3mmK/lhajlsYDmnIDlpKcKICAgICIiIgogICAgeCA9IG5wLmFzYXJyYXkoeCwgZmxvYXQpCiAgICBuID0gbGVuKHgpCiAgICBpZiBuIDwgNjQ6CiAgICAgICAgcmV0dXJuIDAuMAogICAgeCA9IHggLSB4Lm1lYW4oKQogICAgaWYgbnAuc3FydChucC5tZWFuKHggKiogMikpIDwgMWUtOToKICAgICAgICByZXR1cm4gMC4wCiAgICB0YXVfbWF4ID0gbWluKGludChmcyAvIGZtaW4pLCBuIC8vIDIpCiAgICB0YXVfbWluID0gbWF4KGludChmcyAvIGZtYXgpLCAyKQogICAgaWYgdGF1X21heCA8PSB0YXVfbWluICsgMjoKICAgICAgICByZXR1cm4gMC4wCiAgICAjIOWNiuW4p+mVv+W6puWBmuW3ruWIhu+8jOeVmeWHuiBrIOeahOaQnOe0ouepuumXtAogICAgdyA9IG1pbihuIC8vIDIsIHRhdV9tYXggKyAyKQogICAgZCA9IGRpZmZfZnVuY3Rpb24oeCwgdykKICAgIGRkID0gY21uZGYoZCkKICAgICMg4piFIOaJvuesrOS4gOS4quS9juS6jumYiOWAvOeahOWxgOmDqOacgOWwjwogICAgZm9yIGsgaW4gcmFuZ2UodGF1X21pbiwgbWluKHRhdV9tYXgsIGxlbihkZCkgLSAxKSk6CiAgICAgICAgaWYgZGRba10gPCB0aHJlc2ggYW5kIGRkW2tdIDw9IGRkW2sgKyAxXSBhbmQgZGRba10gPD0gZGRbayAtIDFdOgogICAgICAgICAgICByZXR1cm4gZnMgLyBwYXJhYm9saWNfaW50ZXJwKGRkLCBrKQogICAgIyDlhZzlupXvvJrlj5bmnIDkvY7ngrnvvIjkvYbopoHmiqXlkYrvvIkKICAgIHNlZyA9IGRkW3RhdV9taW46bWluKHRhdV9tYXgsIGxlbihkZCkpXQogICAgaWYgbGVuKHNlZykgPT0gMDoKICAgICAgICByZXR1cm4gMC4wCiAgICBrID0gaW50KG5wLmFyZ21pbihzZWcpKSArIHRhdV9taW4KICAgIHJldHVybiBmcyAvIHBhcmFib2xpY19pbnRlcnAoZGQsIGspIGlmIGRkW2tdIDwgMC42IGVsc2UgMC4wCgoKZGVmIHlpbl90cmFjayh4OiBucC5uZGFycmF5LCBmczogaW50ID0gRlMsIHdpbl9tczogZmxvYXQgPSA0MC4wLAogICAgICAgICAgICAgIGhvcF9tczogZmxvYXQgPSAxMC4wLCBmbWluOiBmbG9hdCA9IDcwLjAsCiAgICAgICAgICAgICAgZm1heDogZmxvYXQgPSA0MDAuMCkgLT4gbnAubmRhcnJheToKICAgIHcgPSBpbnQoZnMgKiB3aW5fbXMgLyAxMDAwKTsgaCA9IGludChmcyAqIGhvcF9tcyAvIDEwMDApCiAgICBpZiBsZW4oeCkgPCB3OgogICAgICAgIHJldHVybiBucC5hcnJheShbXSkKICAgIG91dCA9IFtdCiAgICBmb3IgaSBpbiByYW5nZSgxICsgKGxlbih4KSAtIHcpIC8vIGgpOgogICAgICAgIG91dC5hcHBlbmQoeWluX2YwKHhbaSAqIGg6aSAqIGggKyB3XSwgZnMsIGZtaW4sIGZtYXgpKQogICAgcmV0dXJuIG5wLmFycmF5KG91dCkKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMg5LqM44CB6YCQ5ZGo5pyfIFQg5bqP5YiXIOKGkiDnnJ8gaml0dGVyCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIHBlcmlvZF9zZXJpZXMoeDogbnAubmRhcnJheSwgZnM6IGludCA9IEZTLCBmbWluOiBmbG9hdCA9IDcwLjAsCiAgICAgICAgICAgICAgICAgIGZtYXg6IGZsb2F0ID0gNDAwLjAsIHNtb290aF9tczogZmxvYXQgPSAyLjApIC0+IG5wLm5kYXJyYXk6CiAgICAiIiIKICAgIOKYhSDpgJDlkajmnJ/vvJrlnKjlubPmu5HlkI7nmoTms6LlvaLkuIrmib7ls7DvvIzls7Dpl7Tot50gPSBUCiAgICAgIOKYhSDov5nmiY3mmK8gaml0dGVyIOeahOato+ehruWumuS5ie+8iGN5Y2xlLXRvLWN5Y2xl77yJ77yM5LiN5piv5bin6Ze0IEYwIOW3rgogICAgIiIiCiAgICB4ID0gbnAuYXNhcnJheSh4LCBmbG9hdCkKICAgIGlmIGxlbih4KSA8IDI1NjoKICAgICAgICByZXR1cm4gbnAuYXJyYXkoW10pCiAgICB4ID0geCAtIHgubWVhbigpCiAgICAjIOi9u+W6puW5s+a7ke+8jOWOu+aOieavm+WIuumAoOaIkOeahOWBh+WzsAogICAgayA9IG1heCgxLCBpbnQoZnMgKiBzbW9vdGhfbXMgLyAxMDAwKSkKICAgIGtlciA9IG5wLm9uZXMoaykgLyBrCiAgICB4cyA9IG5wLmNvbnZvbHZlKHgsIGtlciwgbW9kZT0ic2FtZSIpCiAgICAjIOaJvuWxgOmDqOWzsAogICAgaWR4ID0gbnAud2hlcmUoKHhzWzE6LTFdID4geHNbOi0yXSkgJiAoeHNbMTotMV0gPj0geHNbMjpdKSlbMF0gKyAxCiAgICBpZiBsZW4oaWR4KSA8IDQ6CiAgICAgICAgcmV0dXJuIG5wLmFycmF5KFtdKQogICAgIyDimIUg5Lqa6YeH5qC377ya5oqb54mp57q/5o+S5YC85bOw5L2N572uCiAgICBwb3MgPSBbXQogICAgZm9yIGkgaW4gaWR4OgogICAgICAgIGlmIGkgPD0gMCBvciBpID49IGxlbih4cykgLSAxOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGEsIGIsIGMgPSB4c1tpIC0gMV0sIHhzW2ldLCB4c1tpICsgMV0KICAgICAgICBkZW4gPSBhIC0gMi4wICogYiArIGMKICAgICAgICBzaGlmdCA9IDAuMCBpZiBhYnMoZGVuKSA8IDFlLTEyIGVsc2UgMC41ICogKGEgLSBjKSAvIGRlbgogICAgICAgIGlmIGFicyhzaGlmdCkgPiAxLjA6CiAgICAgICAgICAgIHNoaWZ0ID0gbnAuc2lnbihzaGlmdCkgKiAxLjAKICAgICAgICBwb3MuYXBwZW5kKGkgKyBzaGlmdCkKICAgIHBvcyA9IG5wLmFycmF5KHBvcykKICAgIFQgPSBucC5kaWZmKHBvcykgLyBmcyAgICAgICAgICAgICAgICAgICAgICAjIOenkgogICAgVCA9IFRbKFQgPiAxLjAgLyBmbWF4KSAmIChUIDwgMS4wIC8gZm1pbildICAjIOWPqueVmeWQiOeQhuWRqOacnwogICAgcmV0dXJuIFQKCgpkZWYgaml0dGVyX2Zyb21fVChUOiBucC5uZGFycmF5KSAtPiBmbG9hdDoKICAgICIiIuKYhSBqaXR0ZXIgPSBtZWFufM6UVHwgLyBtZWFuKFQpIOKAlOKAlCDmoIflh4blrprkuYkiIiIKICAgIGlmIGxlbihUKSA8IDQ6CiAgICAgICAgcmV0dXJuIDAuMAogICAgbSA9IGZsb2F0KG5wLm1lYW4oVCkpCiAgICBpZiBtIDw9IDA6CiAgICAgICAgcmV0dXJuIDAuMAogICAgcmV0dXJuIGZsb2F0KG5wLm1lYW4obnAuYWJzKG5wLmRpZmYoVCkpKSAvIG0pCgoKZGVmIHNoaW1tZXJfZnJvbV9wZWFrcyh4OiBucC5uZGFycmF5LCBmczogaW50ID0gRlMsIGZtaW46IGZsb2F0ID0gNzAuMCwKICAgICAgICAgICAgICAgICAgICAgICBmbWF4OiBmbG9hdCA9IDQwMC4wKSAtPiBmbG9hdDoKICAgICIiIuKYhSBzaGltbWVy77yI5oyv5bmF5b6u5omw77yJ77ya55u46YK75ZGo5pyf5bOw5YC855u45a+55beuIOKAlOKAlCDpobrluKblgZrlh7rmnaUiIiIKICAgIHggPSBucC5hc2FycmF5KHgsIGZsb2F0KQogICAgaWYgbGVuKHgpIDwgMjU2OgogICAgICAgIHJldHVybiAwLjAKICAgIHhzID0geCAtIHgubWVhbigpCiAgICBrID0gbWF4KDEsIGludChmcyAqIDIuMCAvIDEwMDApKQogICAga2VyID0gbnAub25lcyhrKSAvIGsKICAgIHhzbSA9IG5wLmNvbnZvbHZlKHhzLCBrZXIsIG1vZGU9InNhbWUiKQogICAgaWR4ID0gbnAud2hlcmUoKHhzbVsxOi0xXSA+IHhzbVs6LTJdKSAmICh4c21bMTotMV0gPj0geHNtWzI6XSkpWzBdICsgMQogICAgaWYgbGVuKGlkeCkgPCA0OgogICAgICAgIHJldHVybiAwLjAKICAgIGFtcHMgPSBucC5hYnMoeHNbaWR4XSkKICAgIFQgPSBucC5kaWZmKGlkeCkgLyBmcwogICAgb2sgPSAoVCA+IDEuMCAvIGZtYXgpICYgKFQgPCAxLjAgLyBmbWluKQogICAgaWYgb2suc3VtKCkgPCAzOgogICAgICAgIHJldHVybiAwLjAKICAgICMg5Y+q5L+d55WZ5p6E5oiQ5ZCI5rOV5ZGo5pyf55qE55u46YK75bOw5a+5CiAgICBhID0gYW1wc1s6LTFdW29rXQogICAgaWYgbGVuKGEpIDwgMzoKICAgICAgICByZXR1cm4gMC4wCiAgICBtID0gZmxvYXQobnAubWVhbihucC5hYnMoYSkpKQogICAgcmV0dXJuIGZsb2F0KG5wLm1lYW4obnAuYWJzKG5wLmRpZmYoYSkpKSAvIG0pIGlmIG0gPiAwIGVsc2UgMC4wCgoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIOS4ieOAgeKYhSDoh6rmiJHpqozor4HvvJrlkIjmiJDms6jlhaUgZ3JvdW5kIHRydXRoCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDimIUg5qCH5YeGIGppdHRlciDlrprkuYnvvIhQcmFhdCBsb2NhbCBqaXR0ZXLvvIk9IG1lYW58zpRUfCAvIG1lYW4oVCkKIyAgIOiLpeazqOWFpSBUX2kgPSBUMCgxICsgz4PCt861X2kp77yMzrUg54us56uL5qCH5YeG5q2j5oCB77yM5YiZCiMgICBtZWFufM6UVHwvbWVhbihUKSA9IM+DwrdFfM61X2kg4oiSIM61X3tp4oiSMX18ID0gz4PCtygyL+KIms+AKSDiiYggMS4xMjjCt8+DCiMgICDimIUg5omA5Lul5oOz6K6p44CQ5rWL5b6X5YC8ID09IOWQjeS5iSBqaXR0ZXLjgJHvvIzms6jlhaXmoIflh4blt67lv4XpobvmmK8gz4MgPSBqaXR0ZXIvMS4xMjgKIyAgIOKYhSDov5nkuKTogIXlt64gMTIuOCXvvIzkuI3moKHlh4blsLHkvJrku6XkuLrmtYvph4/mnInns7vnu5/lgY/lt64KSklUVEVSX1NDQUxFID0gMi4wIC8gbnAuc3FydChucC5waSkgICAgICAjIOKJiCAxLjEyODQKCgpkZWYgc3ludGhfZ2xvdHRhbChmMDogZmxvYXQsIGppdHRlcjogZmxvYXQsIGR1cjogZmxvYXQgPSAwLjYsIGZzOiBpbnQgPSBGUywKICAgICAgICAgICAgICAgICAgbl9oYXJtOiBpbnQgPSAxMiwgc2VlZDogaW50ID0gMCwgc2hpbW1lcjogZmxvYXQgPSAwLjAsCiAgICAgICAgICAgICAgICAgIGNhbGlicmF0ZTogYm9vbCA9IFRydWUpOgogICAgIiIiCiAgICDimIUg6YCg5LiA5Liq5bey55+lIEYw44CB5bey55+lIGppdHRlciDnmoTkv6Hlj7fvvIhncm91bmQgdHJ1dGjvvIkKICAgICAg4piFIGNhbGlicmF0ZT1UcnVl77ya5rOo5YWlIM+DID0gaml0dGVyLzEuMTI4NO+8jOS9v+a1i+W+l+eahOagh+WHhiBqaXR0ZXIg4omIIGppdHRlcgogICAgICDimIUgY2FsaWJyYXRlPUZhbHNl77ya55u05o6l5rOo5YWlIM+DID0gaml0dGVy77yI5Lya5b6X5YiwIDEuMTI4w5dqaXR0ZXLvvIkKICAgICIiIgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICBUMCA9IDEuMCAvIGYwCiAgICBqaXRfc2lnbWEgPSBqaXR0ZXIgLyBKSVRURVJfU0NBTEUgaWYgY2FsaWJyYXRlIGVsc2Ugaml0dGVyCiAgICB0cyA9IFtdCiAgICB0ID0gMC4wCiAgICB3aGlsZSB0IDwgZHVyOgogICAgICAgIGVwcyA9IHJuZy5zdGFuZGFyZF9ub3JtYWwoKQogICAgICAgIFRpID0gVDAgKiAoMS4wICsgaml0X3NpZ21hICogZXBzKQogICAgICAgIFRpID0gbnAuY2xpcChUaSwgVDAgKiAwLjUsIFQwICogMi4wKQogICAgICAgIHRzLmFwcGVuZCh0KQogICAgICAgIHQgKz0gVGkKICAgIHRzID0gbnAuYXJyYXkodHMpCiAgICAjIOavj+S4quWRqOacn+aUvuS4gOS4quiEieWGsu+8iOW4puiwkOazou+8iQogICAgbiA9IGludChkdXIgKiBmcykKICAgIHkgPSBucC56ZXJvcyhuKQogICAgZm9yIGksIHRpIGluIGVudW1lcmF0ZSh0cyk6CiAgICAgICAgYW1wID0gMS4wICsgc2hpbW1lciAqIHJuZy5zdGFuZGFyZF9ub3JtYWwoKSBpZiBzaGltbWVyID4gMCBlbHNlIDEuMAogICAgICAgIGMgPSBpbnQodGkgKiBmcykKICAgICAgICBpZiBjIDwgMCBvciBjID49IG46CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgIyDnlKjkuIDkuKroobDlh4/nmoTosJDms6LloIblj6DlvZPlo7Dpl6johInlhrIKICAgICAgICBsbiA9IG1pbihpbnQoVDAgKiBmcyAqIDEuNSksIG4gLSBjKQogICAgICAgIGlmIGxuIDw9IDE6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgdHQgPSBucC5hcmFuZ2UobG4pIC8gZnMKICAgICAgICBlbnYgPSBucC5leHAoLXR0IC8gKFQwICogMC40KSkKICAgICAgICBwdWxzZSA9IG5wLnplcm9zKGxuKQogICAgICAgIGZvciBoIGluIHJhbmdlKDEsIG5faGFybSArIDEpOgogICAgICAgICAgICBwdWxzZSArPSAoMS4wIC8gaCkgKiBucC5zaW4oMiAqIG5wLnBpICogZjAgKiBoICogdHQpCiAgICAgICAgeVtjOmMgKyBsbl0gKz0gYW1wICogcHVsc2UgKiBlbnYKICAgIHJldHVybiB5LCB0cwo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+★47 修测量层：真 pitch tracker（YIN-like + 逐周期）
+================================================================
+★★ 起因：★46 可信度扫描把"学会了"打碎，根源在【测量层】
+
+  病灶1  F0 测成 2 倍
+     f0_base [110, 138, 170] → 测得 [219, 275, 339] ≈ 2×
+     ★ 亚谐波锁定：自相关在 T/2 处也高 → 取到半周期
+
+  病灶2  jitter 恒 0
+     参数 [0, 0.005, 0.02, 0.05] → 全测出 0，只有 0.08 才 0.0053
+     ★★ 真因（我查到的）：帧 30ms / hop 10ms → 相邻帧重叠 2/3
+        → 相邻帧 F0 高度相关 → diff 被平滑 → jitter 恒 0
+     ★ 且自相关 lag 是整数：F0=200Hz 时 T=80 samples
+        真人 jitter 0.9% = 0.72 samples < 1 sample 量化步长
+        → 物理上就测不出
+
+★ 修法
+  ① CMNDF（累积均值归一化差分函数，YIN 的核心）
+     ★ 它取【第一个】低于阈值的局部最小，天然抗亚谐波
+     ★ 普通自相关取全局最大 → 容易被 2T 处的峰骗
+  ② 抛物线插值 → 亚采样精度（可到 ~0.1 sample）
+  ③ jitter 改用【逐周期】T 序列，不是相邻帧 F0
+     T_i = 峰[i+1] - 峰[i]，jitter = mean|ΔT| / mean(T)
+
+★★★ 验证方式：合成注入 ground truth
+     ★ 自己造一个已知 F0、已知 jitter 的信号
+     ★ 看测量能不能【恢复】已知值
+     ★ 这是唯一能证明"测量层修好了"的办法 —— 不能靠看真音频觉得合理
+"""
+from __future__ import annotations
+import os, sys
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+
+FS = 16000
+
+
+# =================================================================
+# 一、CMNDF（YIN 核心）+ 抛物线插值
+# =================================================================
+def diff_function(x: np.ndarray, w: int) -> np.ndarray:
+    """d[k] = Σ (x[i] - x[i+k])² —— 差分函数"""
+    d = np.zeros(w)
+    for k in range(w):
+        diff = x[:w - k] - x[k:w] if k > 0 else x[:w]
+        # 用重叠部分，避免长度不等
+        n = len(x) - k
+        diff = x[:n] - x[k:k + n]
+        d[k] = float(np.dot(diff, diff))
+    return d
+
+
+def cmndf(d: np.ndarray) -> np.ndarray:
+    """
+    ★ 累积均值归一化差分函数 d'[k] = d[k] / ((1/k)·Σ_{j≤k} d[j])
+      ★ 这是 YIN 抗亚谐波的关键：
+        普通自相关在 2T 处也高；CMNDF 归一化后 T 处的谷更深
+    """
+    out = np.zeros_like(d)
+    run = np.cumsum(d)
+    k = np.arange(1, len(d) + 1)
+    out[0] = 1.0
+    out[1:] = d[1:] / (run[1:] / k[1:])
+    out[~np.isfinite(out)] = 1.0
+    return out
+
+
+def parabolic_interp(d: np.ndarray, k: int) -> float:
+    """★ 抛物线插值：把整数 lag 细化到亚采样"""
+    if k <= 0 or k >= len(d) - 1:
+        return float(k)
+    a, b, c = d[k - 1], d[k], d[k + 1]
+    den = a - 2.0 * b + c
+    if abs(den) < 1e-12:
+        return float(k)
+    shift = 0.5 * (a - c) / den
+    if abs(shift) > 1.0:      # ★ 限幅，防止插值飞掉
+        shift = np.sign(shift) * 1.0
+    return float(k) + shift
+
+
+def yin_f0(x: np.ndarray, fs: int = FS, fmin: float = 70.0,
+           fmax: float = 400.0, thresh: float = 0.15) -> float:
+    """
+    ★ YIN-like 单帧 F0
+      取【第一个】CMNDF 低于 thresh 的局部最小 —— 不是全局最大
+    """
+    x = np.asarray(x, float)
+    n = len(x)
+    if n < 64:
+        return 0.0
+    x = x - x.mean()
+    if np.sqrt(np.mean(x ** 2)) < 1e-9:
+        return 0.0
+    tau_max = min(int(fs / fmin), n // 2)
+    tau_min = max(int(fs / fmax), 2)
+    if tau_max <= tau_min + 2:
+        return 0.0
+    # 半帧长度做差分，留出 k 的搜索空间
+    w = min(n // 2, tau_max + 2)
+    d = diff_function(x, w)
+    dd = cmndf(d)
+    # ★ 找第一个低于阈值的局部最小
+    for k in range(tau_min, min(tau_max, len(dd) - 1)):
+        if dd[k] < thresh and dd[k] <= dd[k + 1] and dd[k] <= dd[k - 1]:
+            return fs / parabolic_interp(dd, k)
+    # 兜底：取最低点（但要报告）
+    seg = dd[tau_min:min(tau_max, len(dd))]
+    if len(seg) == 0:
+        return 0.0
+    k = int(np.argmin(seg)) + tau_min
+    return fs / parabolic_interp(dd, k) if dd[k] < 0.6 else 0.0
+
+
+def yin_track(x: np.ndarray, fs: int = FS, win_ms: float = 40.0,
+              hop_ms: float = 10.0, fmin: float = 70.0,
+              fmax: float = 400.0) -> np.ndarray:
+    w = int(fs * win_ms / 1000); h = int(fs * hop_ms / 1000)
+    if len(x) < w:
+        return np.array([])
+    out = []
+    for i in range(1 + (len(x) - w) // h):
+        out.append(yin_f0(x[i * h:i * h + w], fs, fmin, fmax))
+    return np.array(out)
+
+
+# =================================================================
+# 二、逐周期 T 序列 → 真 jitter
+# =================================================================
+def period_series(x: np.ndarray, fs: int = FS, fmin: float = 70.0,
+                  fmax: float = 400.0, smooth_ms: float = 2.0) -> np.ndarray:
+    """
+    ★ 逐周期：在平滑后的波形上找峰，峰间距 = T
+      ★ 这才是 jitter 的正确定义（cycle-to-cycle），不是帧间 F0 差
+    """
+    x = np.asarray(x, float)
+    if len(x) < 256:
+        return np.array([])
+    x = x - x.mean()
+    # 轻度平滑，去掉毛刺造成的假峰
+    k = max(1, int(fs * smooth_ms / 1000))
+    ker = np.ones(k) / k
+    xs = np.convolve(x, ker, mode="same")
+    # 找局部峰
+    idx = np.where((xs[1:-1] > xs[:-2]) & (xs[1:-1] >= xs[2:]))[0] + 1
+    if len(idx) < 4:
+        return np.array([])
+    # ★ 亚采样：抛物线插值峰位置
+    pos = []
+    for i in idx:
+        if i <= 0 or i >= len(xs) - 1:
+            continue
+        a, b, c = xs[i - 1], xs[i], xs[i + 1]
+        den = a - 2.0 * b + c
+        shift = 0.0 if abs(den) < 1e-12 else 0.5 * (a - c) / den
+        if abs(shift) > 1.0:
+            shift = np.sign(shift) * 1.0
+        pos.append(i + shift)
+    pos = np.array(pos)
+    T = np.diff(pos) / fs                      # 秒
+    T = T[(T > 1.0 / fmax) & (T < 1.0 / fmin)]  # 只留合理周期
+    return T
+
+
+def jitter_from_T(T: np.ndarray) -> float:
+    """★ jitter = mean|ΔT| / mean(T) —— 标准定义"""
+    if len(T) < 4:
+        return 0.0
+    m = float(np.mean(T))
+    if m <= 0:
+        return 0.0
+    return float(np.mean(np.abs(np.diff(T))) / m)
+
+
+def shimmer_from_peaks(x: np.ndarray, fs: int = FS, fmin: float = 70.0,
+                       fmax: float = 400.0) -> float:
+    """★ shimmer（振幅微扰）：相邻周期峰值相对差 —— 顺带做出来"""
+    x = np.asarray(x, float)
+    if len(x) < 256:
+        return 0.0
+    xs = x - x.mean()
+    k = max(1, int(fs * 2.0 / 1000))
+    ker = np.ones(k) / k
+    xsm = np.convolve(xs, ker, mode="same")
+    idx = np.where((xsm[1:-1] > xsm[:-2]) & (xsm[1:-1] >= xsm[2:]))[0] + 1
+    if len(idx) < 4:
+        return 0.0
+    amps = np.abs(xs[idx])
+    T = np.diff(idx) / fs
+    ok = (T > 1.0 / fmax) & (T < 1.0 / fmin)
+    if ok.sum() < 3:
+        return 0.0
+    # 只保留构成合法周期的相邻峰对
+    a = amps[:-1][ok]
+    if len(a) < 3:
+        return 0.0
+    m = float(np.mean(np.abs(a)))
+    return float(np.mean(np.abs(np.diff(a))) / m) if m > 0 else 0.0
+
+
+# =================================================================
+# 三、★ 自我验证：合成注入 ground truth
+# =================================================================
+# ★ 标准 jitter 定义（Praat local jitter）= mean|ΔT| / mean(T)
+#   若注入 T_i = T0(1 + σ·ε_i)，ε 独立标准正态，则
+#   mean|ΔT|/mean(T) = σ·E|ε_i − ε_{i−1}| = σ·(2/√π) ≈ 1.128·σ
+#   ★ 所以想让【测得值 == 名义 jitter】，注入标准差必须是 σ = jitter/1.128
+#   ★ 这两者差 12.8%，不校准就会以为测量有系统偏差
+JITTER_SCALE = 2.0 / np.sqrt(np.pi)      # ≈ 1.1284
+
+
+def synth_glottal(f0: float, jitter: float, dur: float = 0.6, fs: int = FS,
+                  n_harm: int = 12, seed: int = 0, shimmer: float = 0.0,
+                  calibrate: bool = True):
+    """
+    ★ 造一个已知 F0、已知 jitter 的信号（ground truth）
+      ★ calibrate=True：注入 σ = jitter/1.1284，使测得的标准 jitter ≈ jitter
+      ★ calibrate=False：直接注入 σ = jitter（会得到 1.128×jitter）
+    """
+    rng = np.random.default_rng(seed)
+    T0 = 1.0 / f0
+    jit_sigma = jitter / JITTER_SCALE if calibrate else jitter
+    ts = []
+    t = 0.0
+    while t < dur:
+        eps = rng.standard_normal()
+        Ti = T0 * (1.0 + jit_sigma * eps)
+        Ti = np.clip(Ti, T0 * 0.5, T0 * 2.0)
+        ts.append(t)
+        t += Ti
+    ts = np.array(ts)
+    # 每个周期放一个脉冲（带谐波）
+    n = int(dur * fs)
+    y = np.zeros(n)
+    for i, ti in enumerate(ts):
+        amp = 1.0 + shimmer * rng.standard_normal() if shimmer > 0 else 1.0
+        c = int(ti * fs)
+        if c < 0 or c >= n:
+            continue
+        # 用一个衰减的谐波堆叠当声门脉冲
+        ln = min(int(T0 * fs * 1.5), n - c)
+        if ln <= 1:
+            continue
+        tt = np.arange(ln) / fs
+        env = np.exp(-tt / (T0 * 0.4))
+        pulse = np.zeros(ln)
+        for h in range(1, n_harm + 1):
+            pulse += (1.0 / h) * np.sin(2 * np.pi * f0 * h * tt)
+        y[c:c + ln] += amp * pulse * env
+    return y, ts

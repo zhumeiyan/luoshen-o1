@@ -1,1 +1,62 @@
-IiIiUzQg5LiN5Y+v6YCG5YC65Yqh77yac2NoZWRzdGF0IOeahOe0r+iuoeetieW+heaXtumXtOaYr+i/m+eoi+e6p+e0r+WKoOOAgeS4jeWPr+a4hembtueahOOAggrmjZ/kvKTmkqTpmaTlkI7vvIzlop7pgJ/lvZLpm7bkvYbntK/orqHlgLzkuI3lm57okL0g4oCU4oCUIOi/meWwseaYryfnlrznlZnkuIvnmoTkuJzopb8n44CCCuWQjOaXtuWvueeFp++8mm5pdmNzd++8iOasoeaVsO+8ieWcqOaMgee7reacn+aYr+WQpumlseWSjOOAgiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgdGltZSwgcmVzb3VyY2UKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKZnJvbSBoYXJuZXNzIGltcG9ydCB3b3JrLCBzcGF3bl9jcHVfYnVzeSwga2lsbGFsbAoKTl9IVVJUID0gMTAgICAgICMg5YmNIDEwIOi9ruaWveWKoOaNn+S8pApOX0hFQUwgPSAxMCAgICAgIyDlkI4gMTAg6L2u5pKk6ZmkCgoKZGVmIHNjaGVkX3dhaXRfY3VtKCk6CiAgICBwID0gb3BlbigiL3Byb2Mvc2VsZi9zY2hlZHN0YXQiKS5yZWFkKCkuc3BsaXQoKQogICAgcmV0dXJuIGludChwWzFdKSAgICAgICAgICAjIOe0r+iuoeetieW+hSjooqvmiqIp5pe26Ze0IG5zCgoKZGVmIG5pdmNzd19jdW0oKToKICAgIHJldHVybiByZXNvdXJjZS5nZXRydXNhZ2UocmVzb3VyY2UuUlVTQUdFX1NFTEYpLnJ1X25pdmNzdwoKCncwID0gc2NoZWRfd2FpdF9jdW0oKQpuMCA9IG5pdmNzd19jdW0oKQoKcm93cyA9IFtdCmZvciBpIGluIHJhbmdlKE5fSFVSVCArIE5fSEVBTCk6CiAgICBodXJ0ID0gaSA8IE5fSFVSVAogICAgcGlkcyA9IHNwYXduX2NwdV9idXN5KDMpIGlmIGh1cnQgZWxzZSBbXQogICAgdGltZS5zbGVlcCgwLjI1KQogICAgd2FfYmVmb3JlID0gc2NoZWRfd2FpdF9jdW0oKQogICAgbnZfYmVmb3JlID0gbml2Y3N3X2N1bSgpCiAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgIHdvcmsoKQogICAgbGF0ID0gdGltZS5wZXJmX2NvdW50ZXIoKSAtIHQwCiAgICB3YV9hZnRlciA9IHNjaGVkX3dhaXRfY3VtKCkKICAgIG52X2FmdGVyID0gbml2Y3N3X2N1bSgpCiAgICBraWxsYWxsKHBpZHMpCiAgICB0aW1lLnNsZWVwKDAuMikKICAgIHJvd3MuYXBwZW5kKHsKICAgICAgICAiaSI6IGksICJodXJ0IjogaHVydCwKICAgICAgICAibGF0X21zIjogbGF0ICogMTAwMCwKICAgICAgICAiZHdhaXRfbXMiOiAod2FfYWZ0ZXIgLSB3YV9iZWZvcmUpIC8gMWU2LAogICAgICAgICJ3YWl0X2N1bV9tcyI6ICh3YV9hZnRlciAtIHcwKSAvIDFlNiwKICAgICAgICAiZG5pdmNzdyI6IG52X2FmdGVyIC0gbnZfYmVmb3JlLAogICAgICAgICJuaXZjc3dfY3VtIjogbnZfYWZ0ZXIgLSBuMCwKICAgIH0pCgpqc29uLmR1bXAocm93cywgb3Blbihvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpLCAiczQuanNvbiIpLCAidyIpLCBpbmRlbnQ9MSkKCnByaW50KGYieydpJzo+M3N9IHsnaHVydCc6PjVzfSB7J2xhdF9tcyc6PjhzfSB7J2R3YWl0X21zJzo+OXN9IHsnd2FpdENVTV9tcyc6PjExc30geydkbml2Jzo+NXN9IHsnbml2Q1VNJzo+N3N9IikKZm9yIHIgaW4gcm93czoKICAgIHByaW50KGYie3JbJ2knXTozZH0ge3N0cihyWydodXJ0J10pOj41c30ge3JbJ2xhdF9tcyddOjguMmZ9IHtyWydkd2FpdF9tcyddOjkuM2Z9ICIKICAgICAgICAgIGYie3JbJ3dhaXRfY3VtX21zJ106MTEuMmZ9IHtyWydkbml2Y3N3J106NWR9IHtyWyduaXZjc3dfY3VtJ106N2R9IikKCmh1cnQgPSBbciBmb3IgciBpbiByb3dzIGlmIHJbImh1cnQiXV0KaGVhbCA9IFtyIGZvciByIGluIHJvd3MgaWYgbm90IHJbImh1cnQiXV0KaW1wb3J0IHN0YXRpc3RpY3MgYXMgc3QKcHJpbnQoKQpwcmludChmIuaNn+S8pOacnyAgd2FpdOe0r+iuoeWinumHjyA9IHtodXJ0Wy0xXVsnd2FpdF9jdW1fbXMnXSAtIHJvd3NbMF1bJ3dhaXRfY3VtX21zJ10gKyByb3dzWzBdWydkd2FpdF9tcyddOi4yZn0gbXMiKQpwcmludChmIuaSpOmZpOacnyAgd2FpdOe0r+iuoeWinumHjyA9IHtoZWFsWy0xXVsnd2FpdF9jdW1fbXMnXSAtIGh1cnRbLTFdWyd3YWl0X2N1bV9tcyddOi4yZn0gbXMiKQpwcmludChmIuaSpOmZpOWQjiB3YWl057Sv6K6h5piv5ZCm5Zue6JC9OiB7aGVhbFstMV1bJ3dhaXRfY3VtX21zJ10gPCBodXJ0Wy0xXVsnd2FpdF9jdW1fbXMnXX0iKQpwcmludChmIuaNn+S8pOacnyBkbml2Y3N3IOS4reS9jSA9IHtzdC5tZWRpYW4oW3JbJ2RuaXZjc3cnXSBmb3IgciBpbiBodXJ0XSk6LjFmfSwgIgogICAgICBmIuaSpOmZpOacnyA9IHtzdC5tZWRpYW4oW3JbJ2RuaXZjc3cnXSBmb3IgciBpbiBoZWFsXSk6LjFmfSIpCg==
+"""S4 不可逆债务：schedstat 的累计等待时间是进程级累加、不可清零的。
+损伤撤除后，增速归零但累计值不回落 —— 这就是'疼留下的东西'。
+同时对照：nivcsw（次数）在持续期是否饱和。"""
+import os, sys, json, time, resource
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from harness import work, spawn_cpu_busy, killall
+
+N_HURT = 10     # 前 10 轮施加损伤
+N_HEAL = 10     # 后 10 轮撤除
+
+
+def sched_wait_cum():
+    p = open("/proc/self/schedstat").read().split()
+    return int(p[1])          # 累计等待(被抢)时间 ns
+
+
+def nivcsw_cum():
+    return resource.getrusage(resource.RUSAGE_SELF).ru_nivcsw
+
+
+w0 = sched_wait_cum()
+n0 = nivcsw_cum()
+
+rows = []
+for i in range(N_HURT + N_HEAL):
+    hurt = i < N_HURT
+    pids = spawn_cpu_busy(3) if hurt else []
+    time.sleep(0.25)
+    wa_before = sched_wait_cum()
+    nv_before = nivcsw_cum()
+    t0 = time.perf_counter()
+    work()
+    lat = time.perf_counter() - t0
+    wa_after = sched_wait_cum()
+    nv_after = nivcsw_cum()
+    killall(pids)
+    time.sleep(0.2)
+    rows.append({
+        "i": i, "hurt": hurt,
+        "lat_ms": lat * 1000,
+        "dwait_ms": (wa_after - wa_before) / 1e6,
+        "wait_cum_ms": (wa_after - w0) / 1e6,
+        "dnivcsw": nv_after - nv_before,
+        "nivcsw_cum": nv_after - n0,
+    })
+
+json.dump(rows, open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "s4.json"), "w"), indent=1)
+
+print(f"{'i':>3s} {'hurt':>5s} {'lat_ms':>8s} {'dwait_ms':>9s} {'waitCUM_ms':>11s} {'dniv':>5s} {'nivCUM':>7s}")
+for r in rows:
+    print(f"{r['i']:3d} {str(r['hurt']):>5s} {r['lat_ms']:8.2f} {r['dwait_ms']:9.3f} "
+          f"{r['wait_cum_ms']:11.2f} {r['dnivcsw']:5d} {r['nivcsw_cum']:7d}")
+
+hurt = [r for r in rows if r["hurt"]]
+heal = [r for r in rows if not r["hurt"]]
+import statistics as st
+print()
+print(f"损伤期  wait累计增量 = {hurt[-1]['wait_cum_ms'] - rows[0]['wait_cum_ms'] + rows[0]['dwait_ms']:.2f} ms")
+print(f"撤除期  wait累计增量 = {heal[-1]['wait_cum_ms'] - hurt[-1]['wait_cum_ms']:.2f} ms")
+print(f"撤除后 wait累计是否回落: {heal[-1]['wait_cum_ms'] < hurt[-1]['wait_cum_ms']}")
+print(f"损伤期 dnivcsw 中位 = {st.median([r['dnivcsw'] for r in hurt]):.1f}, "
+      f"撤除期 = {st.median([r['dnivcsw'] for r in heal]):.1f}")

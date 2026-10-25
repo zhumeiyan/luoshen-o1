@@ -1,1 +1,68 @@
-IiIiClRoaXMgbW9kdWxlIGNyZWF0ZXMgYSBKU09OIGluZGV4IGZpbGUgZnJvbSBzZXJ2ZXIgZGF0YS4KSXQgdGFrZXMgaW4gYSBkaXJlY3Rvcnkgb2Ygc2VydmVyIGZpbGVzLCBhbiBpbmFjdGl2ZSBmaWxlLCBhbmQgb3V0cHV0IGZpbGUgcGF0aHMgYXMgYXJndW1lbnRzLgoiIiIKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgb3MKaW1wb3J0IGpzb24KCmZyb20gdXRpbHMgaW1wb3J0IGdldF9hbGxfc2VydmVycywgY29sbGVjdF90cmFuc2xhdGlvbnMKCgpkZWYgbWFpbigpOgogICAgIiIiCiAgICBNYWluIGZ1bmN0aW9uIHRvIHBhcnNlIGFyZ3VtZW50cyBhbmQgd3JpdGUgc2VydmVyIGRhdGEgdG8gaW5kZXggZmlsZXMuCiAgICAiIiIKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tc2VydmVyc19kaXIiLCByZXF1aXJlZD1UcnVlLCB0eXBlPXN0cikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0taW5hY3RpdmVfZmlsZSIsIHJlcXVpcmVkPVRydWUsIHR5cGU9c3RyKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1qc29uX291dHB1dCIsIHJlcXVpcmVkPVRydWUsIHR5cGU9c3RyKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS10cmFuc2xhdGlvbnNfb3V0cHV0IiwgcmVxdWlyZWQ9VHJ1ZSwgdHlwZT1zdHIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXRyYW5zbGF0aW9uc19mb2xkZXIiLCByZXF1aXJlZD1GYWxzZSwgdHlwZT1zdHIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWluY2x1ZGVfaW5hY3RpdmUiLCBhY3Rpb249YXJncGFyc2UuQm9vbGVhbk9wdGlvbmFsQWN0aW9uKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICAjIENvbGxlY3QgYWxsIHRyYW5zbGF0aW9uIGZpbGVzCiAgICB0cmFuc2xhdGlvbnMgPSB7fQogICAgaWYgYXJncy50cmFuc2xhdGlvbnNfZm9sZGVyOgogICAgICAgICMgU2NhbiB0aGF0IGZvbGRlciBmb3IgYWxsIHRyYW5zbGF0aW9uIGZpbGVzCiAgICAgICAgZm9yIGZpbGUgaW4gb3MubGlzdGRpcihhcmdzLnRyYW5zbGF0aW9uc19mb2xkZXIpOgogICAgICAgICAgICBpZiBmaWxlLmVuZHN3aXRoKCIuanNvbiIpIGFuZCBmaWxlICE9ICJlbl9VUy5qc29uIjoKICAgICAgICAgICAgICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oYXJncy50cmFuc2xhdGlvbnNfZm9sZGVyLCBmaWxlKSwgInIiLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICAgICAgICAgIHRyYW5zbGF0aW9uc1tmaWxlWzotNV1dID0ganNvbi5sb2FkKGYpCgogICAgIyBDb2xsZWN0IGFsbCBzZXJ2ZXJzCiAgICBzZXJ2ZXJzID0gZ2V0X2FsbF9zZXJ2ZXJzKAogICAgICAgIGFyZ3Muc2VydmVyc19kaXIsCiAgICAgICAgYXJncy5pbmFjdGl2ZV9maWxlLAogICAgICAgIGFyZ3MuaW5jbHVkZV9pbmFjdGl2ZSwKICAgICAgICB0cmFuc2xhdGlvbnMsCiAgICApCgogICAgIyBDcmVhdGUgYSBuZXcgb2JqZWN0IGZvciB0cmFuc2xhdGlvbnMgb3V0cHV0CiAgICB0cmFuc2xhdGlvbnMgPSBjb2xsZWN0X3RyYW5zbGF0aW9ucyhzZXJ2ZXJzKQoKICAgICMgV3JpdGUgdGhlIG5ldyBKU09OIG9iamVjdCB0byBhIGZpbGUKICAgIHRyeToKICAgICAgICBqc29uX29iamVjdCA9IGpzb24uZHVtcHModHJhbnNsYXRpb25zLCBpbmRlbnQ9NCkKICAgICAgICB3aXRoIG9wZW4oYXJncy50cmFuc2xhdGlvbnNfb3V0cHV0LCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIG91dGZpbGU6CiAgICAgICAgICAgIG91dGZpbGUud3JpdGUoanNvbl9vYmplY3QpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoIkVycm9yIHdyaXRpbmcgdG8gVHJhbnNsYXRpb25zOiAiLCBlKQogICAgICAgIHJhaXNlCgogICAgIyBXcml0ZSB0byBKU09OIGZpbGUKICAgIHRyeToKICAgICAgICBqc29uX29iamVjdCA9IGpzb24uZHVtcHMoc2VydmVycywgaW5kZW50PTQpCiAgICAgICAgd2l0aCBvcGVuKGFyZ3MuanNvbl9vdXRwdXQsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgb3V0ZmlsZToKICAgICAgICAgICAgb3V0ZmlsZS53cml0ZShqc29uX29iamVjdCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludCgiRXJyb3Igd3JpdGluZyB0byBKU09OIEluZGV4OiAiLCBlKQogICAgICAgIHJhaXNlCgogICAgcHJpbnQoIlN1Y2Nlc3NmdWxseSB3cml0dGVuIGluZGV4IGZpbGVzISIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""
+This module creates a JSON index file from server data.
+It takes in a directory of server files, an inactive file, and output file paths as arguments.
+"""
+
+import argparse
+import os
+import json
+
+from utils import get_all_servers, collect_translations
+
+
+def main():
+    """
+    Main function to parse arguments and write server data to index files.
+    """
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--servers_dir", required=True, type=str)
+    parser.add_argument("--inactive_file", required=True, type=str)
+    parser.add_argument("--json_output", required=True, type=str)
+    parser.add_argument("--translations_output", required=True, type=str)
+    parser.add_argument("--translations_folder", required=False, type=str)
+    parser.add_argument("--include_inactive", action=argparse.BooleanOptionalAction)
+    args = parser.parse_args()
+
+    # Collect all translation files
+    translations = {}
+    if args.translations_folder:
+        # Scan that folder for all translation files
+        for file in os.listdir(args.translations_folder):
+            if file.endswith(".json") and file != "en_US.json":
+                with open(os.path.join(args.translations_folder, file), "r", encoding="utf-8") as f:
+                    translations[file[:-5]] = json.load(f)
+
+    # Collect all servers
+    servers = get_all_servers(
+        args.servers_dir,
+        args.inactive_file,
+        args.include_inactive,
+        translations,
+    )
+
+    # Create a new object for translations output
+    translations = collect_translations(servers)
+
+    # Write the new JSON object to a file
+    try:
+        json_object = json.dumps(translations, indent=4)
+        with open(args.translations_output, "w", encoding="utf-8") as outfile:
+            outfile.write(json_object)
+    except Exception as e:
+        print("Error writing to Translations: ", e)
+        raise
+
+    # Write to JSON file
+    try:
+        json_object = json.dumps(servers, indent=4)
+        with open(args.json_output, "w", encoding="utf-8") as outfile:
+            outfile.write(json_object)
+    except Exception as e:
+        print("Error writing to JSON Index: ", e)
+        raise
+
+    print("Successfully written index files!")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,28 @@
-IiIiUGh5c2ljYWwgY29uc3RhbnRzIG9mIGVsZWN0cm9tYWduZXRpY3MsIFNJLCBDT0RBVEEgMjAyMiAoTklTVCwgaHR0cHM6Ly9waHlzaWNzLm5pc3QuZ292L2N1dS9Db25zdGFudHMvKS4KClNpbmNlIHRoZSAyMDE5IFNJIHJlZGVmaW5pdGlvbiBgYGNgYCwgYGBlYGAsIGBgaGBgIGFuZCBgYGtfQmBgIGFyZSBleGFjdCBhbmQgYGBtdTBgYCBpcyBtZWFzdXJlZAooYGBtdTAgPSA0IHBpIGFscGhhIGhiYXIgLyAoZV4yIGMpYGApOyBgYGVwczAgPSAxIC8gKG11MCBjXjIpYGAgZm9sbG93cyBmcm9tIGl0LiBgYG11MGBgIGRpZmZlcnMgZnJvbSB0aGUKcHJlLTIwMTkgdmFsdWUgYGA0IHBpIDFlLTdgYCBieSBhYm91dCA1ZS0xMCByZWxhdGl2ZSwgZmFyIGJlbG93IGFueSBkaXNjcmV0aXNhdGlvbiBlcnJvciBpbiB0aGlzIHBhY2thZ2UuCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgbWF0aAoKX19hbGxfXyA9IFsiQzAiLCAiTVUwIiwgIkVQUzAiLCAiRVRBMCIsICJRX0UiLCAiTV9FIiwgIk1fUCIsICJLX0NPVUxPTUIiXQoKIzogc3BlZWQgb2YgbGlnaHQgaW4gdmFjdXVtLCBtL3MgKGV4YWN0KQpDMCA9IDI5OV83OTJfNDU4LjAKIzogdmFjdXVtIG1hZ25ldGljIHBlcm1lYWJpbGl0eSwgTi9BXjIgKENPREFUQSAyMDIyLCByZWxhdGl2ZSB1bmNlcnRhaW50eSAxLjZlLTEwKQpNVTAgPSAxLjI1NjYzNzA2MTI3ZS02CiM6IHZhY3V1bSBlbGVjdHJpYyBwZXJtaXR0aXZpdHksIEYvbQpFUFMwID0gMS4wIC8gKE1VMCAqIEMwICogQzApCiM6IGltcGVkYW5jZSBvZiBmcmVlIHNwYWNlLCBvaG0KRVRBMCA9IE1VMCAqIEMwCiM6IGVsZW1lbnRhcnkgY2hhcmdlLCBDIChleGFjdCkKUV9FID0gMS42MDIxNzY2MzRlLTE5CiM6IGVsZWN0cm9uIG1hc3MsIGtnIChDT0RBVEEgMjAyMikKTV9FID0gOS4xMDkzODM3MTM5ZS0zMQojOiBwcm90b24gbWFzcywga2cgKENPREFUQSAyMDIyKQpNX1AgPSAxLjY3MjYyMTkyNTk1ZS0yNwojOiBDb3Vsb21iIGNvbnN0YW50IDEgLyAoNCBwaSBlcHMwKSwgTiBtXjIgLyBDXjIKS19DT1VMT01CID0gMS4wIC8gKDQuMCAqIG1hdGgucGkgKiBFUFMwKQo=
+"""Physical constants of electromagnetics, SI, CODATA 2022 (NIST, https://physics.nist.gov/cuu/Constants/).
+
+Since the 2019 SI redefinition ``c``, ``e``, ``h`` and ``k_B`` are exact and ``mu0`` is measured
+(``mu0 = 4 pi alpha hbar / (e^2 c)``); ``eps0 = 1 / (mu0 c^2)`` follows from it. ``mu0`` differs from the
+pre-2019 value ``4 pi 1e-7`` by about 5e-10 relative, far below any discretisation error in this package.
+"""
+from __future__ import annotations
+
+import math
+
+__all__ = ["C0", "MU0", "EPS0", "ETA0", "Q_E", "M_E", "M_P", "K_COULOMB"]
+
+#: speed of light in vacuum, m/s (exact)
+C0 = 299_792_458.0
+#: vacuum magnetic permeability, N/A^2 (CODATA 2022, relative uncertainty 1.6e-10)
+MU0 = 1.25663706127e-6
+#: vacuum electric permittivity, F/m
+EPS0 = 1.0 / (MU0 * C0 * C0)
+#: impedance of free space, ohm
+ETA0 = MU0 * C0
+#: elementary charge, C (exact)
+Q_E = 1.602176634e-19
+#: electron mass, kg (CODATA 2022)
+M_E = 9.1093837139e-31
+#: proton mass, kg (CODATA 2022)
+M_P = 1.67262192595e-27
+#: Coulomb constant 1 / (4 pi eps0), N m^2 / C^2
+K_COULOMB = 1.0 / (4.0 * math.pi * EPS0)

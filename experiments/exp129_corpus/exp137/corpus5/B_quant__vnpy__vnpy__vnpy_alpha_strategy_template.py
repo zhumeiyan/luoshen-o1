@@ -1,1 +1,215 @@
-IiIiClRlbXBsYXRlIGZvciBhbHBoYSBzdHJhdGVnaWVzIHRoYXQgdHJhZGUgdG93YXJkIHRhcmdldCBwb3NpdGlvbnMuCiIiIgoKZnJvbSBhYmMgaW1wb3J0IEFCQ01ldGEsIGFic3RyYWN0bWV0aG9kCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CmZyb20gdHlwaW5nIGltcG9ydCBUWVBFX0NIRUNLSU5HCgppbXBvcnQgcG9sYXJzIGFzIHBsCgpmcm9tIHZucHkudHJhZGVyLm9iamVjdCBpbXBvcnQgQmFyRGF0YSwgVHJhZGVEYXRhLCBPcmRlckRhdGEKZnJvbSB2bnB5LnRyYWRlci5jb25zdGFudCBpbXBvcnQgT2Zmc2V0LCBEaXJlY3Rpb24KCgppZiBUWVBFX0NIRUNLSU5HOgogICAgZnJvbSB2bnB5LmFscGhhLnN0cmF0ZWd5LmJhY2t0ZXN0aW5nIGltcG9ydCBCYWNrdGVzdGluZ0VuZ2luZQoKCmNsYXNzIEFscGhhU3RyYXRlZ3kobWV0YWNsYXNzPUFCQ01ldGEpOgogICAgIiIiQWxwaGEgc3RyYXRlZ3kgdGVtcGxhdGUgY2xhc3MiIiIKCiAgICBkZWYgX19pbml0X18oCiAgICAgICAgc2VsZiwKICAgICAgICBzdHJhdGVneV9lbmdpbmU6ICJCYWNrdGVzdGluZ0VuZ2luZSIsCiAgICAgICAgc3RyYXRlZ3lfbmFtZTogc3RyLAogICAgICAgIHZ0X3N5bWJvbHM6IGxpc3Rbc3RyXSwKICAgICAgICBzZXR0aW5nOiBkaWN0CiAgICApIC0+IE5vbmU6CiAgICAgICAgIiIiQ29uc3RydWN0b3IiIiIKICAgICAgICBzZWxmLnN0cmF0ZWd5X2VuZ2luZTogQmFja3Rlc3RpbmdFbmdpbmUgPSBzdHJhdGVneV9lbmdpbmUKICAgICAgICBzZWxmLnN0cmF0ZWd5X25hbWU6IHN0ciA9IHN0cmF0ZWd5X25hbWUKICAgICAgICBzZWxmLnZ0X3N5bWJvbHM6IGxpc3Rbc3RyXSA9IHZ0X3N5bWJvbHMKCiAgICAgICAgIyBQb3NpdGlvbiBkYXRhIGRpY3Rpb25hcmllcwogICAgICAgIHNlbGYucG9zX2RhdGE6IGRpY3Rbc3RyLCBmbG9hdF0gPSBkZWZhdWx0ZGljdChmbG9hdCkgICAgICAgICMgQWN0dWFsIHBvc2l0aW9ucwogICAgICAgIHNlbGYudGFyZ2V0X2RhdGE6IGRpY3Rbc3RyLCBmbG9hdF0gPSBkZWZhdWx0ZGljdChmbG9hdCkgICAgICMgVGFyZ2V0IHBvc2l0aW9ucwoKICAgICAgICAjIE9yZGVyIGNhY2hlIGNvbnRhaW5lcnMKICAgICAgICBzZWxmLm9yZGVyczogZGljdFtzdHIsIE9yZGVyRGF0YV0gPSB7fQogICAgICAgIHNlbGYuYWN0aXZlX29yZGVyaWRzOiBzZXRbc3RyXSA9IHNldCgpCgogICAgICAgICMgU2V0IHN0cmF0ZWd5IHBhcmFtZXRlcnMKICAgICAgICBrOiBzdHIKICAgICAgICB2OiBvYmplY3QKICAgICAgICBmb3IgaywgdiBpbiBzZXR0aW5nLml0ZW1zKCk6CiAgICAgICAgICAgIGlmIGhhc2F0dHIoc2VsZiwgayk6CiAgICAgICAgICAgICAgICBzZXRhdHRyKHNlbGYsIGssIHYpCgogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgb25faW5pdChzZWxmKSAtPiBOb25lOgogICAgICAgICIiIkluaXRpYWxpemF0aW9uIGNhbGxiYWNrIiIiCiAgICAgICAgcGFzcwoKICAgIEBhYnN0cmFjdG1ldGhvZAogICAgZGVmIG9uX2JhcnMoc2VsZiwgYmFyczogZGljdFtzdHIsIEJhckRhdGFdKSAtPiBOb25lOgogICAgICAgICIiIkJhciBzbGljZSBjYWxsYmFjayIiIgogICAgICAgIHBhc3MKCiAgICBAYWJzdHJhY3RtZXRob2QKICAgIGRlZiBvbl90cmFkZShzZWxmLCB0cmFkZTogVHJhZGVEYXRhKSAtPiBOb25lOgogICAgICAgICIiIlRyYWRlIGNhbGxiYWNrIiIiCiAgICAgICAgcGFzcwoKICAgIGRlZiB1cGRhdGVfdHJhZGUoc2VsZiwgdHJhZGU6IFRyYWRlRGF0YSkgLT4gTm9uZToKICAgICAgICAiIiJVcGRhdGUgdHJhZGUgZGF0YSIiIgogICAgICAgIGlmIHRyYWRlLmRpcmVjdGlvbiA9PSBEaXJlY3Rpb24uTE9ORzoKICAgICAgICAgICAgc2VsZi5wb3NfZGF0YVt0cmFkZS52dF9zeW1ib2xdICs9IHRyYWRlLnZvbHVtZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYucG9zX2RhdGFbdHJhZGUudnRfc3ltYm9sXSAtPSB0cmFkZS52b2x1bWUKCiAgICAgICAgc2VsZi5vbl90cmFkZSh0cmFkZSkKCiAgICBkZWYgdXBkYXRlX29yZGVyKHNlbGYsIG9yZGVyOiBPcmRlckRhdGEpIC0+IE5vbmU6CiAgICAgICAgIiIiVXBkYXRlIG9yZGVyIGRhdGEiIiIKICAgICAgICBzZWxmLm9yZGVyc1tvcmRlci52dF9vcmRlcmlkXSA9IG9yZGVyCgogICAgICAgIGlmIG5vdCBvcmRlci5pc19hY3RpdmUoKSBhbmQgb3JkZXIudnRfb3JkZXJpZCBpbiBzZWxmLmFjdGl2ZV9vcmRlcmlkczoKICAgICAgICAgICAgc2VsZi5hY3RpdmVfb3JkZXJpZHMucmVtb3ZlKG9yZGVyLnZ0X29yZGVyaWQpCgogICAgZGVmIGdldF9zaWduYWwoc2VsZikgLT4gcGwuRGF0YUZyYW1lOgogICAgICAgICIiIkdldCBjdXJyZW50IHNpZ25hbCIiIgogICAgICAgIHJldHVybiBzZWxmLnN0cmF0ZWd5X2VuZ2luZS5nZXRfc2lnbmFsKCkKCiAgICBkZWYgYnV5KHNlbGYsIHZ0X3N5bWJvbDogc3RyLCBwcmljZTogZmxvYXQsIHZvbHVtZTogZmxvYXQpIC0+IGxpc3Rbc3RyXToKICAgICAgICAiIiJCdXkgdG8gb3BlbiBwb3NpdGlvbiIiIgogICAgICAgIHJldHVybiBzZWxmLnNlbmRfb3JkZXIodnRfc3ltYm9sLCBEaXJlY3Rpb24uTE9ORywgT2Zmc2V0Lk9QRU4sIHByaWNlLCB2b2x1bWUpCgogICAgZGVmIHNlbGwoc2VsZiwgdnRfc3ltYm9sOiBzdHIsIHByaWNlOiBmbG9hdCwgdm9sdW1lOiBmbG9hdCkgLT4gbGlzdFtzdHJdOgogICAgICAgICIiIlNlbGwgdG8gY2xvc2UgcG9zaXRpb24iIiIKICAgICAgICByZXR1cm4gc2VsZi5zZW5kX29yZGVyKHZ0X3N5bWJvbCwgRGlyZWN0aW9uLlNIT1JULCBPZmZzZXQuQ0xPU0UsIHByaWNlLCB2b2x1bWUpCgogICAgZGVmIHNob3J0KHNlbGYsIHZ0X3N5bWJvbDogc3RyLCBwcmljZTogZmxvYXQsIHZvbHVtZTogZmxvYXQpIC0+IGxpc3Rbc3RyXToKICAgICAgICAiIiJTZWxsIHRvIG9wZW4gcG9zaXRpb24iIiIKICAgICAgICByZXR1cm4gc2VsZi5zZW5kX29yZGVyKHZ0X3N5bWJvbCwgRGlyZWN0aW9uLlNIT1JULCBPZmZzZXQuT1BFTiwgcHJpY2UsIHZvbHVtZSkKCiAgICBkZWYgY292ZXIoc2VsZiwgdnRfc3ltYm9sOiBzdHIsIHByaWNlOiBmbG9hdCwgdm9sdW1lOiBmbG9hdCkgLT4gbGlzdFtzdHJdOgogICAgICAgICIiIkJ1eSB0byBjbG9zZSBwb3NpdGlvbiIiIgogICAgICAgIHJldHVybiBzZWxmLnNlbmRfb3JkZXIodnRfc3ltYm9sLCBEaXJlY3Rpb24uTE9ORywgT2Zmc2V0LkNMT1NFLCBwcmljZSwgdm9sdW1lKQoKICAgIGRlZiBzZW5kX29yZGVyKAogICAgICAgIHNlbGYsCiAgICAgICAgdnRfc3ltYm9sOiBzdHIsCiAgICAgICAgZGlyZWN0aW9uOiBEaXJlY3Rpb24sCiAgICAgICAgb2Zmc2V0OiBPZmZzZXQsCiAgICAgICAgcHJpY2U6IGZsb2F0LAogICAgICAgIHZvbHVtZTogZmxvYXQKICAgICkgLT4gbGlzdFtzdHJdOgogICAgICAgICIiIlNlbmQgb3JkZXIiIiIKICAgICAgICB2dF9vcmRlcmlkczogbGlzdCA9IHNlbGYuc3RyYXRlZ3lfZW5naW5lLnNlbmRfb3JkZXIoCiAgICAgICAgICAgIHNlbGYsIHZ0X3N5bWJvbCwgZGlyZWN0aW9uLCBvZmZzZXQsIHByaWNlLCB2b2x1bWUKICAgICAgICApCgogICAgICAgIHZ0X29yZGVyaWQ6IHN0cgogICAgICAgIGZvciB2dF9vcmRlcmlkIGluIHZ0X29yZGVyaWRzOgogICAgICAgICAgICBzZWxmLmFjdGl2ZV9vcmRlcmlkcy5hZGQodnRfb3JkZXJpZCkKCiAgICAgICAgcmV0dXJuIHZ0X29yZGVyaWRzCgogICAgZGVmIGNhbmNlbF9vcmRlcihzZWxmLCB2dF9vcmRlcmlkOiBzdHIpIC0+IE5vbmU6CiAgICAgICAgIiIiQ2FuY2VsIG9yZGVyIiIiCiAgICAgICAgc2VsZi5zdHJhdGVneV9lbmdpbmUuY2FuY2VsX29yZGVyKHNlbGYsIHZ0X29yZGVyaWQpCgogICAgZGVmIGNhbmNlbF9hbGwoc2VsZikgLT4gTm9uZToKICAgICAgICAiIiJDYW5jZWwgYWxsIGFjdGl2ZSBvcmRlcnMiIiIKICAgICAgICB2dF9vcmRlcmlkOiBzdHIKICAgICAgICBmb3IgdnRfb3JkZXJpZCBpbiBsaXN0KHNlbGYuYWN0aXZlX29yZGVyaWRzKToKICAgICAgICAgICAgc2VsZi5jYW5jZWxfb3JkZXIodnRfb3JkZXJpZCkKCiAgICBkZWYgZ2V0X3BvcyhzZWxmLCB2dF9zeW1ib2w6IHN0cikgLT4gZmxvYXQ6CiAgICAgICAgIiIiUXVlcnkgY3VycmVudCBwb3NpdGlvbiIiIgogICAgICAgIHJldHVybiBzZWxmLnBvc19kYXRhW3Z0X3N5bWJvbF0KCiAgICBkZWYgZ2V0X3RhcmdldChzZWxmLCB2dF9zeW1ib2w6IHN0cikgLT4gZmxvYXQ6CiAgICAgICAgIiIiUXVlcnkgdGFyZ2V0IHBvc2l0aW9uIiIiCiAgICAgICAgcmV0dXJuIHNlbGYudGFyZ2V0X2RhdGFbdnRfc3ltYm9sXQoKICAgIGRlZiBzZXRfdGFyZ2V0KHNlbGYsIHZ0X3N5bWJvbDogc3RyLCB0YXJnZXQ6IGZsb2F0KSAtPiBOb25lOgogICAgICAgICIiIlNldCB0YXJnZXQgcG9zaXRpb24iIiIKICAgICAgICBzZWxmLnRhcmdldF9kYXRhW3Z0X3N5bWJvbF0gPSB0YXJnZXQKCiAgICBkZWYgZXhlY3V0ZV90cmFkaW5nKHNlbGYsIGJhcnM6IGRpY3Rbc3RyLCBCYXJEYXRhXSwgcHJpY2VfYWRkOiBmbG9hdCkgLT4gTm9uZToKICAgICAgICAiIiJFeGVjdXRlIHBvc2l0aW9uIGFkanVzdG1lbnQgYmFzZWQgb24gdGFyZ2V0cyIiIgogICAgICAgIHNlbGYuY2FuY2VsX2FsbCgpCgogICAgICAgICMgT25seSBzZW5kIG9yZGVycyBmb3IgY29udHJhY3RzIHdpdGggY3VycmVudCBiYXIgZGF0YQogICAgICAgIHZ0X3N5bWJvbDogc3RyCiAgICAgICAgYmFyOiBCYXJEYXRhCiAgICAgICAgZm9yIHZ0X3N5bWJvbCwgYmFyIGluIGJhcnMuaXRlbXMoKToKICAgICAgICAgICAgIyBDYWxjdWxhdGUgcG9zaXRpb24gZGlmZmVyZW5jZQogICAgICAgICAgICB0YXJnZXQ6IGZsb2F0ID0gc2VsZi5nZXRfdGFyZ2V0KHZ0X3N5bWJvbCkKICAgICAgICAgICAgcG9zOiBmbG9hdCA9IHNlbGYuZ2V0X3Bvcyh2dF9zeW1ib2wpCiAgICAgICAgICAgIGRpZmY6IGZsb2F0ID0gdGFyZ2V0IC0gcG9zCgogICAgICAgICAgICAjIExvbmcgcG9zaXRpb24KICAgICAgICAgICAgaWYgZGlmZiA+IDA6CiAgICAgICAgICAgICAgICAjIENhbGN1bGF0ZSBsb25nIG9yZGVyIHByaWNlCiAgICAgICAgICAgICAgICBvcmRlcl9wcmljZTogZmxvYXQgPSBiYXIuY2xvc2VfcHJpY2UgKiAoMSArIHByaWNlX2FkZCkKCiAgICAgICAgICAgICAgICAjIENhbGN1bGF0ZSBjb3ZlciBhbmQgYnV5IHZvbHVtZXMKICAgICAgICAgICAgICAgIGNvdmVyX3ZvbHVtZTogZmxvYXQgPSAwCiAgICAgICAgICAgICAgICBidXlfdm9sdW1lOiBmbG9hdCA9IDAKCiAgICAgICAgICAgICAgICBpZiBwb3MgPCAwOgogICAgICAgICAgICAgICAgICAgIGNvdmVyX3ZvbHVtZSA9IG1pbihkaWZmLCBhYnMocG9zKSkKICAgICAgICAgICAgICAgICAgICBidXlfdm9sdW1lID0gZGlmZiAtIGNvdmVyX3ZvbHVtZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBidXlfdm9sdW1lID0gZGlmZgoKICAgICAgICAgICAgICAgICMgU2VuZCBjb3JyZXNwb25kaW5nIG9yZGVycwogICAgICAgICAgICAgICAgaWYgY292ZXJfdm9sdW1lOgogICAgICAgICAgICAgICAgICAgIHNlbGYuY292ZXIodnRfc3ltYm9sLCBvcmRlcl9wcmljZSwgY292ZXJfdm9sdW1lKQoKICAgICAgICAgICAgICAgIGlmIGJ1eV92b2x1bWU6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5idXkodnRfc3ltYm9sLCBvcmRlcl9wcmljZSwgYnV5X3ZvbHVtZSkKICAgICAgICAgICAgIyBTaG9ydCBwb3NpdGlvbgogICAgICAgICAgICBlbGlmIGRpZmYgPCAwOgogICAgICAgICAgICAgICAgIyBDYWxjdWxhdGUgc2hvcnQgb3JkZXIgcHJpY2UKICAgICAgICAgICAgICAgIG9yZGVyX3ByaWNlID0gYmFyLmNsb3NlX3ByaWNlICogKDEgLSBwcmljZV9hZGQpCgogICAgICAgICAgICAgICAgIyBDYWxjdWxhdGUgc2VsbCBhbmQgc2hvcnQgdm9sdW1lcwogICAgICAgICAgICAgICAgc2VsbF92b2x1bWU6IGZsb2F0ID0gMAogICAgICAgICAgICAgICAgc2hvcnRfdm9sdW1lOiBmbG9hdCA9IDAKCiAgICAgICAgICAgICAgICBpZiBwb3MgPiAwOgogICAgICAgICAgICAgICAgICAgIHNlbGxfdm9sdW1lID0gbWluKGFicyhkaWZmKSwgcG9zKQogICAgICAgICAgICAgICAgICAgIHNob3J0X3ZvbHVtZSA9IGFicyhkaWZmKSAtIHNlbGxfdm9sdW1lCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHNob3J0X3ZvbHVtZSA9IGFicyhkaWZmKQoKICAgICAgICAgICAgICAgICMgU2VuZCBjb3JyZXNwb25kaW5nIG9yZGVycwogICAgICAgICAgICAgICAgaWYgc2VsbF92b2x1bWU6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5zZWxsKHZ0X3N5bWJvbCwgb3JkZXJfcHJpY2UsIHNlbGxfdm9sdW1lKQoKICAgICAgICAgICAgICAgIGlmIHNob3J0X3ZvbHVtZToKICAgICAgICAgICAgICAgICAgICBzZWxmLnNob3J0KHZ0X3N5bWJvbCwgb3JkZXJfcHJpY2UsIHNob3J0X3ZvbHVtZSkKCiAgICBkZWYgd3JpdGVfbG9nKHNlbGYsIG1zZzogc3RyKSAtPiBOb25lOgogICAgICAgICIiIldyaXRlIGxvZyBtZXNzYWdlIiIiCiAgICAgICAgc2VsZi5zdHJhdGVneV9lbmdpbmUud3JpdGVfbG9nKG1zZywgc2VsZikKCiAgICBkZWYgZ2V0X2Nhc2hfYXZhaWxhYmxlKHNlbGYpIC0+IGZsb2F0OgogICAgICAgICIiIkdldCBhdmFpbGFibGUgY2FzaCIiIgogICAgICAgIHJldHVybiBzZWxmLnN0cmF0ZWd5X2VuZ2luZS5nZXRfY2FzaF9hdmFpbGFibGUoKQoKICAgIGRlZiBnZXRfaG9sZGluZ192YWx1ZShzZWxmKSAtPiBmbG9hdDoKICAgICAgICAiIiJHZXQgaG9sZGluZyBtYXJrZXQgdmFsdWUiIiIKICAgICAgICByZXR1cm4gc2VsZi5zdHJhdGVneV9lbmdpbmUuZ2V0X2hvbGRpbmdfdmFsdWUoKQoKICAgIGRlZiBnZXRfcG9ydGZvbGlvX3ZhbHVlKHNlbGYpIC0+IGZsb2F0OgogICAgICAgICIiIkdldCB0b3RhbCBwb3J0Zm9saW8gdmFsdWUiIiIKICAgICAgICByZXR1cm4gc2VsZi5nZXRfY2FzaF9hdmFpbGFibGUoKSArIHNlbGYuZ2V0X2hvbGRpbmdfdmFsdWUoKQoKICAgIGRlZiBnZXRfY2FzaChzZWxmKSAtPiBmbG9hdDoKICAgICAgICAiIiJMZWdhY3kgY29tcGF0aWJpbGl0eSBtZXRob2QiIiIKICAgICAgICByZXR1cm4gc2VsZi5nZXRfY2FzaF9hdmFpbGFibGUoKQo=
+"""
+Template for alpha strategies that trade toward target positions.
+"""
+
+from abc import ABCMeta, abstractmethod
+from collections import defaultdict
+from typing import TYPE_CHECKING
+
+import polars as pl
+
+from vnpy.trader.object import BarData, TradeData, OrderData
+from vnpy.trader.constant import Offset, Direction
+
+
+if TYPE_CHECKING:
+    from vnpy.alpha.strategy.backtesting import BacktestingEngine
+
+
+class AlphaStrategy(metaclass=ABCMeta):
+    """Alpha strategy template class"""
+
+    def __init__(
+        self,
+        strategy_engine: "BacktestingEngine",
+        strategy_name: str,
+        vt_symbols: list[str],
+        setting: dict
+    ) -> None:
+        """Constructor"""
+        self.strategy_engine: BacktestingEngine = strategy_engine
+        self.strategy_name: str = strategy_name
+        self.vt_symbols: list[str] = vt_symbols
+
+        # Position data dictionaries
+        self.pos_data: dict[str, float] = defaultdict(float)        # Actual positions
+        self.target_data: dict[str, float] = defaultdict(float)     # Target positions
+
+        # Order cache containers
+        self.orders: dict[str, OrderData] = {}
+        self.active_orderids: set[str] = set()
+
+        # Set strategy parameters
+        k: str
+        v: object
+        for k, v in setting.items():
+            if hasattr(self, k):
+                setattr(self, k, v)
+
+    @abstractmethod
+    def on_init(self) -> None:
+        """Initialization callback"""
+        pass
+
+    @abstractmethod
+    def on_bars(self, bars: dict[str, BarData]) -> None:
+        """Bar slice callback"""
+        pass
+
+    @abstractmethod
+    def on_trade(self, trade: TradeData) -> None:
+        """Trade callback"""
+        pass
+
+    def update_trade(self, trade: TradeData) -> None:
+        """Update trade data"""
+        if trade.direction == Direction.LONG:
+            self.pos_data[trade.vt_symbol] += trade.volume
+        else:
+            self.pos_data[trade.vt_symbol] -= trade.volume
+
+        self.on_trade(trade)
+
+    def update_order(self, order: OrderData) -> None:
+        """Update order data"""
+        self.orders[order.vt_orderid] = order
+
+        if not order.is_active() and order.vt_orderid in self.active_orderids:
+            self.active_orderids.remove(order.vt_orderid)
+
+    def get_signal(self) -> pl.DataFrame:
+        """Get current signal"""
+        return self.strategy_engine.get_signal()
+
+    def buy(self, vt_symbol: str, price: float, volume: float) -> list[str]:
+        """Buy to open position"""
+        return self.send_order(vt_symbol, Direction.LONG, Offset.OPEN, price, volume)
+
+    def sell(self, vt_symbol: str, price: float, volume: float) -> list[str]:
+        """Sell to close position"""
+        return self.send_order(vt_symbol, Direction.SHORT, Offset.CLOSE, price, volume)
+
+    def short(self, vt_symbol: str, price: float, volume: float) -> list[str]:
+        """Sell to open position"""
+        return self.send_order(vt_symbol, Direction.SHORT, Offset.OPEN, price, volume)
+
+    def cover(self, vt_symbol: str, price: float, volume: float) -> list[str]:
+        """Buy to close position"""
+        return self.send_order(vt_symbol, Direction.LONG, Offset.CLOSE, price, volume)
+
+    def send_order(
+        self,
+        vt_symbol: str,
+        direction: Direction,
+        offset: Offset,
+        price: float,
+        volume: float
+    ) -> list[str]:
+        """Send order"""
+        vt_orderids: list = self.strategy_engine.send_order(
+            self, vt_symbol, direction, offset, price, volume
+        )
+
+        vt_orderid: str
+        for vt_orderid in vt_orderids:
+            self.active_orderids.add(vt_orderid)
+
+        return vt_orderids
+
+    def cancel_order(self, vt_orderid: str) -> None:
+        """Cancel order"""
+        self.strategy_engine.cancel_order(self, vt_orderid)
+
+    def cancel_all(self) -> None:
+        """Cancel all active orders"""
+        vt_orderid: str
+        for vt_orderid in list(self.active_orderids):
+            self.cancel_order(vt_orderid)
+
+    def get_pos(self, vt_symbol: str) -> float:
+        """Query current position"""
+        return self.pos_data[vt_symbol]
+
+    def get_target(self, vt_symbol: str) -> float:
+        """Query target position"""
+        return self.target_data[vt_symbol]
+
+    def set_target(self, vt_symbol: str, target: float) -> None:
+        """Set target position"""
+        self.target_data[vt_symbol] = target
+
+    def execute_trading(self, bars: dict[str, BarData], price_add: float) -> None:
+        """Execute position adjustment based on targets"""
+        self.cancel_all()
+
+        # Only send orders for contracts with current bar data
+        vt_symbol: str
+        bar: BarData
+        for vt_symbol, bar in bars.items():
+            # Calculate position difference
+            target: float = self.get_target(vt_symbol)
+            pos: float = self.get_pos(vt_symbol)
+            diff: float = target - pos
+
+            # Long position
+            if diff > 0:
+                # Calculate long order price
+                order_price: float = bar.close_price * (1 + price_add)
+
+                # Calculate cover and buy volumes
+                cover_volume: float = 0
+                buy_volume: float = 0
+
+                if pos < 0:
+                    cover_volume = min(diff, abs(pos))
+                    buy_volume = diff - cover_volume
+                else:
+                    buy_volume = diff
+
+                # Send corresponding orders
+                if cover_volume:
+                    self.cover(vt_symbol, order_price, cover_volume)
+
+                if buy_volume:
+                    self.buy(vt_symbol, order_price, buy_volume)
+            # Short position
+            elif diff < 0:
+                # Calculate short order price
+                order_price = bar.close_price * (1 - price_add)
+
+                # Calculate sell and short volumes
+                sell_volume: float = 0
+                short_volume: float = 0
+
+                if pos > 0:
+                    sell_volume = min(abs(diff), pos)
+                    short_volume = abs(diff) - sell_volume
+                else:
+                    short_volume = abs(diff)
+
+                # Send corresponding orders
+                if sell_volume:
+                    self.sell(vt_symbol, order_price, sell_volume)
+
+                if short_volume:
+                    self.short(vt_symbol, order_price, short_volume)
+
+    def write_log(self, msg: str) -> None:
+        """Write log message"""
+        self.strategy_engine.write_log(msg, self)
+
+    def get_cash_available(self) -> float:
+        """Get available cash"""
+        return self.strategy_engine.get_cash_available()
+
+    def get_holding_value(self) -> float:
+        """Get holding market value"""
+        return self.strategy_engine.get_holding_value()
+
+    def get_portfolio_value(self) -> float:
+        """Get total portfolio value"""
+        return self.get_cash_available() + self.get_holding_value()
+
+    def get_cash(self) -> float:
+        """Legacy compatibility method"""
+        return self.get_cash_available()

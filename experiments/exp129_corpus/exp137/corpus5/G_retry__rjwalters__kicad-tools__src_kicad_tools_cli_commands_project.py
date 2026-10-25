@@ -1,1 +1,36 @@
-IiIiUHJvamVjdC1sZXZlbCBjb21tYW5kIGhhbmRsZXJzLiIiIgoKX19hbGxfXyA9IFsicnVuX2NsZWFuX2NvbW1hbmQiLCAicnVuX2luaXRfY29tbWFuZCJdCgoKZGVmIHJ1bl9pbml0X2NvbW1hbmQoYXJncykgLT4gaW50OgogICAgIiIiSGFuZGxlIGluaXQgY29tbWFuZC4iIiIKICAgIGZyb20gLi5pbml0X2NtZCBpbXBvcnQgaW5pdF9wcm9qZWN0CgogICAgcmV0dXJuIGluaXRfcHJvamVjdCgKICAgICAgICB0YXJnZXQ9YXJncy5pbml0X3Byb2plY3QsCiAgICAgICAgbWFudWZhY3R1cmVyPWFyZ3MuaW5pdF9tZnIsCiAgICAgICAgbGF5ZXJzPWFyZ3MuaW5pdF9sYXllcnMsCiAgICAgICAgY29wcGVyPWFyZ3MuaW5pdF9jb3BwZXIsCiAgICAgICAgZGVzaWduX3R5cGU9YXJncy5pbml0X2Rlc2lnbl90eXBlLAogICAgICAgIGRyeV9ydW49YXJncy5pbml0X2RyeV9ydW4sCiAgICAgICAgb3V0cHV0X2Zvcm1hdD1hcmdzLmluaXRfZm9ybWF0LAogICAgKQoKCmRlZiBydW5fY2xlYW5fY29tbWFuZChhcmdzKSAtPiBpbnQ6CiAgICAiIiJIYW5kbGUgY2xlYW4gY29tbWFuZC4iIiIKICAgIGZyb20gLi5jbGVhbl9jbWQgaW1wb3J0IG1haW4gYXMgY2xlYW5fbWFpbgoKICAgIHN1Yl9hcmd2ID0gW2FyZ3MuY2xlYW5fcHJvamVjdF0KICAgIGlmIGFyZ3MuY2xlYW5fZHJ5X3J1bjoKICAgICAgICBzdWJfYXJndi5hcHBlbmQoIi0tZHJ5LXJ1biIpCiAgICBpZiBhcmdzLmNsZWFuX2RlZXA6CiAgICAgICAgc3ViX2FyZ3YuYXBwZW5kKCItLWRlZXAiKQogICAgaWYgYXJncy5jbGVhbl9mb3JjZToKICAgICAgICBzdWJfYXJndi5hcHBlbmQoIi0tZm9yY2UiKQogICAgaWYgYXJncy5jbGVhbl9mb3JtYXQgIT0gInRleHQiOgogICAgICAgIHN1Yl9hcmd2LmV4dGVuZChbIi0tZm9ybWF0IiwgYXJncy5jbGVhbl9mb3JtYXRdKQogICAgaWYgYXJncy5jbGVhbl92ZXJib3NlOgogICAgICAgIHN1Yl9hcmd2LmFwcGVuZCgiLS12ZXJib3NlIikKICAgIHJldHVybiBjbGVhbl9tYWluKHN1Yl9hcmd2KQo=
+"""Project-level command handlers."""
+
+__all__ = ["run_clean_command", "run_init_command"]
+
+
+def run_init_command(args) -> int:
+    """Handle init command."""
+    from ..init_cmd import init_project
+
+    return init_project(
+        target=args.init_project,
+        manufacturer=args.init_mfr,
+        layers=args.init_layers,
+        copper=args.init_copper,
+        design_type=args.init_design_type,
+        dry_run=args.init_dry_run,
+        output_format=args.init_format,
+    )
+
+
+def run_clean_command(args) -> int:
+    """Handle clean command."""
+    from ..clean_cmd import main as clean_main
+
+    sub_argv = [args.clean_project]
+    if args.clean_dry_run:
+        sub_argv.append("--dry-run")
+    if args.clean_deep:
+        sub_argv.append("--deep")
+    if args.clean_force:
+        sub_argv.append("--force")
+    if args.clean_format != "text":
+        sub_argv.extend(["--format", args.clean_format])
+    if args.clean_verbose:
+        sub_argv.append("--verbose")
+    return clean_main(sub_argv)

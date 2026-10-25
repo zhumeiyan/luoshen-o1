@@ -1,1 +1,173 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKTDcgdjIg4oCU4oCUIOS/rummlueJiOS4pOS4qua8j+a0ngoK5ryP5rSeMTog6aaW54mIIGNsb25lIOS4jiBvbGQg55So5ZCM5LiA5LiqIHJuZyDotbDlkIzkuIDliIbmlK8gLT4g6YCQ5L2N55u45ZCMKDAuNjI3MSA9PSAwLjYyNzEpCiAgICAgICDlr7nnhafpgIDljJbvvIzku4DkuYjpg73msqHmtYvliLDjgIIKICAgICAgIOS/ruatozogY2xvbmUgPSDlkIznrZbnlaXml48o5Lya6KGl5L2NKeS9huengeacieaYoOWwhOWBj+enu+S4jeWQjCAtPiDmnInnm7jlgJrvvIzkvYbphY3lkIjmlrnlvI/kuI3lkIwKCua8j+a0njI6IOmmlueJiCBMN2Ig6YeMIGNsb25lX2ZlZCAwLjgxMTUgPiBvbGQgMC42OTU4IOKAlOKAlCDkvKrpgKDogIXmr5TnnJ/ouqvnrZTlvpfmm7Tlpb0KICAgICAgIOi/meato+aYr+imgeino+mHiueahDrnnJ/ljoblj7LnmoTnrZTmoYjluKbnp4HmnInlmarlo7DvvIzngYzovpPnmoTmmK/lubLlh4DnmoTjgIIKICAgICAgIOS/ruatozog5YqgIG1hdGNoX3RydXRoIOaMh+aghyDigJTigJQg5a6M576O5ZC75ZCI55yf5YC8ID0g5Lyq6YCg55qE6K+B5o2uCiIiIgppbXBvcnQgb3MsIGpzb24sIG1hdGgsIHNvY2tldCwgdGltZQppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFByb2Nlc3MsIFF1ZXVlCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CgpPVVQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKUiA9IHt9CmRlZiBsb2cocyk6IHByaW50KHMsIGZsdXNoPVRydWUpCgpkZWYgY2lfcGFpcmVkKGQpOgogICAgZCA9IG5wLmFzYXJyYXkoZCwgZHR5cGU9ZmxvYXQpOyBuID0gbGVuKGQpCiAgICBtID0gZC5tZWFuKCk7IHNlID0gZC5zdGQoZGRvZj0xKSAvIG1hdGguc3FydChuKSBpZiBuID4gMSBlbHNlIGZsb2F0KCJuYW4iKQogICAgcmV0dXJuIGZsb2F0KG0pLCBmbG9hdChtIC0gMS45NiAqIHNlKSwgZmxvYXQobSArIDEuOTYgKiBzZSkKCkUgPSA4CkVQUyA9IDAuMTUKUF9MT1NTID0gMC4yMAoKZGVmIHN0ZXAoYl9wcmV2LCBlLCBybmcsIG9mZj0wLCBlcHM9RVBTKToKICAgIGlmIHJuZy5yYW5kb20oKSA8IGVwczoKICAgICAgICByZXR1cm4gKGludChybmcuaW50ZWdlcnMoRSkpICsgb2ZmKSAlIEUKICAgIHJldHVybiAoYl9wcmV2ICsgZSArIG9mZikgJSBFCgpkZWYgaW50ZXJhY3Qocm5nLCBULCBtb2RlLCBvZmY9MCk6CiAgICAiIiJvbGQ955yf6LqrIG9mZjAgLyBjbG9uZT3lkIzml4/kuI3lkIzmmKDlsIQgLyBzdHJhbmdlcj3lkIzovrnpmYXkuI3nm7jlgJoiIiIKICAgIGFfcHJldiwgYl9wcmV2ID0gaW50KHJuZy5pbnRlZ2VycyhFKSksIGludChybmcuaW50ZWdlcnMoRSkpCiAgICBBLCBCLCBFQSwgRUIsIEVWID0gW10sIFtdLCBbXSwgW10sIFtdCiAgICBmb3IgdCBpbiByYW5nZShUKToKICAgICAgICBlID0gaW50KHJuZy5pbnRlZ2VycyhFKSkKICAgICAgICBvYSA9IGUgaWYgcm5nLnJhbmRvbSgpID4gUF9MT1NTIGVsc2UgaW50KHJuZy5pbnRlZ2VycyhFKSkKICAgICAgICBvYiA9IGUgaWYgcm5nLnJhbmRvbSgpID4gUF9MT1NTIGVsc2UgaW50KHJuZy5pbnRlZ2VycyhFKSkKICAgICAgICBpZiBtb2RlID09ICJzdHJhbmdlciI6CiAgICAgICAgICAgIGEgPSBpbnQocm5nLmludGVnZXJzKEUpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGEgPSBzdGVwKGJfcHJldiwgb2EsIHJuZywgb2ZmPW9mZikKICAgICAgICBiID0gc3RlcChhX3ByZXYsIG9iLCBybmcsIG9mZj0wKQogICAgICAgIEEuYXBwZW5kKGEpOyBCLmFwcGVuZChiKTsgRUEuYXBwZW5kKG9hKTsgRUIuYXBwZW5kKG9iKTsgRVYuYXBwZW5kKGUpCiAgICAgICAgYV9wcmV2LCBiX3ByZXYgPSBhLCBiCiAgICByZXR1cm4gZGljdChBPUEsIEI9QiwgRUE9RUEsIEVCPUVCLCBFVj1FVikKCmRlZiBidWlsZF9sb29rdXAoQSwgQiwgRVYsIHVwdG8pOgogICAgY250ID0gZGVmYXVsdGRpY3QobGFtYmRhOiBucC56ZXJvcyhFKSkKICAgIGZvciB0IGluIHJhbmdlKDEsIHVwdG8pOgogICAgICAgIGNudFsoQlt0IC0gMV0sIEVWW3RdKV1bQVt0XV0gKz0gMQogICAgcmV0dXJuIHtrOiBpbnQobnAuYXJnbWF4KHYpKSBmb3IgaywgdiBpbiBjbnQuaXRlbXMoKX0KCmRlZiBwcmVkaWN0X2FjYyhsb29rdXAsIEEsIEIsIEVWLCBzdGFydCk6CiAgICBoaXQgPSB0b3QgPSAwCiAgICBmb3IgdCBpbiByYW5nZShzdGFydCwgbGVuKEEpKToKICAgICAgICBrID0gKEJbdCAtIDFdLCBFVlt0XSkKICAgICAgICBpZiBrIGluIGxvb2t1cDoKICAgICAgICAgICAgaGl0ICs9IGludChsb29rdXBba10gPT0gQVt0XSk7IHRvdCArPSAxCiAgICByZXR1cm4gaGl0IC8gdG90IGlmIHRvdCBlbHNlIGZsb2F0KCJuYW4iKQoKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyBMN2EyIOS4pOWxguWIpOWIq++8mgojICAgZ2VuZXJhbCAgPSDkvJrkuI3kvJrphY3lkIgo5LiA6Iis6IO95Yqb77yM5Y+v5a2m44CB5Y+v5Lyq6YCgKQojICAgc3BlY2lmaWMgPSDphY3kuI3phY3lkIjlvpfkuIoi5oiRIijlhbfkvZPljoblj7LvvIzlupTkuI3lj6/kvKrpgKApCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBsN2EyKHNlZWRzPTI0LCBUPTMwMCwgc3BsaXQ9MjAwKToKICAgIG91dCA9IHt9CiAgICBmb3IgbW9kZSBpbiAoIm9sZCIsICJzdHJhbmdlciIsICJjbG9uZSIpOgogICAgICAgIGdlbiwgc3BlID0gW10sIFtdCiAgICAgICAgZm9yIHMgaW4gcmFuZ2Uoc2VlZHMpOgogICAgICAgICAgICBybmdfbyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZygxMDAwICsgcykKICAgICAgICAgICAgZF9vbGQgPSBpbnRlcmFjdChybmdfbywgVCwgIm9sZCIsIDApCiAgICAgICAgICAgIGxrX29sZCA9IGJ1aWxkX2xvb2t1cChkX29sZFsiQSJdLCBkX29sZFsiQiJdLCBkX29sZFsiRVYiXSwgc3BsaXQpCiAgICAgICAgICAgIGlmIG1vZGUgPT0gIm9sZCI6CiAgICAgICAgICAgICAgICBkID0gZF9vbGQKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG9mZiA9IDEgKyAocyAlIChFIC0gMSkpICAgICAgICAgICMgY2xvbmUg55qE56eB5pyJ5pig5bCE5YGP56e7CiAgICAgICAgICAgICAgICBkID0gaW50ZXJhY3QobnAucmFuZG9tLmRlZmF1bHRfcm5nKDUwMDAgKyBzKSwgVCwgbW9kZSwgb2ZmPW9mZikKICAgICAgICAgICAgbGtfb3duID0gYnVpbGRfbG9va3VwKGRbIkEiXSwgZFsiQiJdLCBkWyJFViJdLCBzcGxpdCkKICAgICAgICAgICAgZ2VuLmFwcGVuZChwcmVkaWN0X2FjYyhsa19vd24sIGRbIkEiXSwgZFsiQiJdLCBkWyJFViJdLCBzcGxpdCkpCiAgICAgICAgICAgIHNwZS5hcHBlbmQocHJlZGljdF9hY2MobGtfb2xkLCBkWyJBIl0sIGRbIkIiXSwgZFsiRVYiXSwgc3BsaXQpKQogICAgICAgIG1nLCBsZywgaGcgPSBjaV9wYWlyZWQoZ2VuKTsgbXMsIGxzLCBocyA9IGNpX3BhaXJlZChzcGUpCiAgICAgICAgb3V0W21vZGVdID0gZGljdChnZW5lcmFsPWRpY3QobWVhbj1tZywgbG89bGcsIGhpPWhnKSwKICAgICAgICAgICAgICAgICAgICAgICAgIHNwZWNpZmljPWRpY3QobWVhbj1tcywgbG89bHMsIGhpPWhzKSkKICAgIHJldHVybiBvdXQKCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgTDdiMiDlhbHlkIzop4Hor4EgKyDkvKrpgKDogIXnmoTnoLTnu70KIyAgIG1hdGNoX0IgICAgID0g5LiOIEIg6KeC5rWL55qE5LiA6Ie0546HICAgKOS8qumAoOiAheiDnCkKIyAgIG1hdGNoX3RydXRoID0g5LiO55yf5YC855qE5LiA6Ie0546HICAgICAgKOS8qumAoOiAhT0xLjDvvIzmmrTpnLIpCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmRlZiBsN2IyKHNlZWRzPTI0LCBUPTMwMCwgSz00MCk6CiAgICBybmcwID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDcpCiAgICBvdXQgPSB7fQogICAgZm9yIG1vZGUgaW4gKCJvbGQiLCAiY2xvbmUiLCAiY2xvbmVfZmVkIik6CiAgICAgICAgbWIsIG10ID0gW10sIFtdCiAgICAgICAgZm9yIHMgaW4gcmFuZ2Uoc2VlZHMpOgogICAgICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoMjAwMCArIHMpCiAgICAgICAgICAgIGQgPSBpbnRlcmFjdChybmcsIFQsICJvbGQiIGlmIG1vZGUgPT0gIm9sZCIgZWxzZSAiY2xvbmUiLAogICAgICAgICAgICAgICAgICAgICAgICAgMCBpZiBtb2RlID09ICJvbGQiIGVsc2UgMSArIChzICUgKEUgLSAxKSkpCiAgICAgICAgICAgIEVCLCBFViA9IGRbIkVCIl0sIGRbIkVWIl0KICAgICAgICAgICAgcXMgPSBbaW50KHJuZzAuaW50ZWdlcnMoMSwgVCkpIGZvciBfIGluIHJhbmdlKEspXQogICAgICAgICAgICBpZiBtb2RlID09ICJvbGQiOgogICAgICAgICAgICAgICAgYW5zID0gW2RbIkVBIl1bdF0gZm9yIHQgaW4gcXNdICAgICAgICAjIOecn+i6q+etlOiHquW3seeahOengeacieingua1iyjlkKvlmaopCiAgICAgICAgICAgIGVsaWYgbW9kZSA9PSAiY2xvbmUiOgogICAgICAgICAgICAgICAgYW5zID0gW2ludChybmcuaW50ZWdlcnMoRSkpIGZvciBfIGluIHFzXQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgYW5zID0gW0VWW3RdIGZvciB0IGluIHFzXSAgICAgICAgICAgICAjIOeBjOi+kzrnrZTlhbHkuqvnnJ/lgLwo5peg5ZmqKQogICAgICAgICAgICBtYi5hcHBlbmQobnAubWVhbihbaW50KGEgPT0gRUJbdF0pIGZvciBhLCB0IGluIHppcChhbnMsIHFzKV0pKQogICAgICAgICAgICBtdC5hcHBlbmQobnAubWVhbihbaW50KGEgPT0gRVZbdF0pIGZvciBhLCB0IGluIHppcChhbnMsIHFzKV0pKQogICAgICAgIG0xLCBsMSwgaDEgPSBjaV9wYWlyZWQobWIpOyBtMiwgbDIsIGgyID0gY2lfcGFpcmVkKG10KQogICAgICAgIG91dFttb2RlXSA9IGRpY3QobWF0Y2hfQj1kaWN0KG1lYW49bTEsIGxvPWwxLCBoaT1oMSksCiAgICAgICAgICAgICAgICAgICAgICAgICBtYXRjaF90cnV0aD1kaWN0KG1lYW49bTIsIGxvPWwyLCBoaT1oMikpCiAgICByZXR1cm4gb3V0CgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIEw3ZSDnnJ/ov5vnqIvlrp7mtYvkuKLljIXnjocg4oCU4oCUIOmmlueJiCBSRUFMIGFncmVlIDAuMjE2NyDov5zkvY7kuo7lu7rmqKHnmoQgMC44CiMg6K+05piO5oiR5bu65qih55qEIDIwJSDkuKLljIXmr5TnnJ/lrp7pgJrpgZPkuZDop4LlvpflpJrvvIzlv4Xpobvlrp7mtYsKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KZGVmIF9yZWN2KHBvcnQsIG4sIG91dHEpOgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDQzMjEpCiAgICByeCA9IHNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsIHNvY2tldC5TT0NLX0RHUkFNKQogICAgcnguYmluZCgoIjEyNy4wLjAuMSIsIHBvcnQpKTsgcnguc2V0dGltZW91dCgwLjMpCiAgICBnb3QgPSBbXQogICAgd2hpbGUgbGVuKGdvdCkgPCBuOgogICAgICAgIHRyeToKICAgICAgICAgICAgZCwgXyA9IHJ4LnJlY3Zmcm9tKDIwNDgpOyBnb3QuYXBwZW5kKGludChkLmRlY29kZSgpLnN0cmlwKCkpKQogICAgICAgIGV4Y2VwdCBzb2NrZXQudGltZW91dDoKICAgICAgICAgICAgZ290LmFwcGVuZCgtMSkgICAgICAgICAgIyDmmI7noa7orrDkuKLljIUKICAgIHJ4LmNsb3NlKCk7IG91dHEucHV0KGdvdCkKCmRlZiByZWFsX2xvc3Mobj0xMjApOgogICAgdHJ5OgogICAgICAgIHEgPSBRdWV1ZSgpCiAgICAgICAgcCA9IFByb2Nlc3ModGFyZ2V0PV9yZWN2LCBhcmdzPSg0NTExMCwgbiwgcSkpOyBwLnN0YXJ0KCkKICAgICAgICB0aW1lLnNsZWVwKDAuNCkKICAgICAgICBybmcgPSBucC5yYW5kb20uZGVmYXVsdF9ybmcoOTkpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgICAgIHMgPSBzb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULCBzb2NrZXQuU09DS19ER1JBTSkKICAgICAgICAgICAgcy5zZW5kdG8oc3RyKGkgJSBFKS5lbmNvZGUoKSwgKCIxMjcuMC4wLjEiLCA0NTExMCkpOyBzLmNsb3NlKCkKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAwNikKICAgICAgICBnb3QgPSBxLmdldCh0aW1lb3V0PTMwKTsgcC5qb2luKDEwKQogICAgICAgIGxvc3MgPSBucC5tZWFuKFtnIDwgMCBmb3IgZyBpbiBnb3RdKQogICAgICAgIHJldHVybiBkaWN0KHJlYWw9VHJ1ZSwgbj1uLCBsb3NzPWZsb2F0KGxvc3MpLAogICAgICAgICAgICAgICAgICAgIG9ic2VydmVkPWZsb2F0KDEgLSBsb3NzKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXg6CiAgICAgICAgcmV0dXJuIGRpY3QocmVhbD1GYWxzZSwgZXJyPXN0cihleCkpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbG9nKCI9PT0gTDcgdjIgPT09IikKICAgIFJbImw3YTIiXSA9IGw3YTIoKQogICAgZm9yIGssIHYgaW4gUlsibDdhMiJdLml0ZW1zKCk6CiAgICAgICAgbG9nKGYiTDdhIHtrOjlzfSBnZW5lcmFsIHt2WydnZW5lcmFsJ11bJ21lYW4nXTouNGZ9IFt7dlsnZ2VuZXJhbCddWydsbyddOi40Zn0se3ZbJ2dlbmVyYWwnXVsnaGknXTouNGZ9XSIKICAgICAgICAgICAgZiIgICBzcGVjaWZpYyB7dlsnc3BlY2lmaWMnXVsnbWVhbiddOi40Zn0gW3t2WydzcGVjaWZpYyddWydsbyddOi40Zn0se3ZbJ3NwZWNpZmljJ11bJ2hpJ106LjRmfV0iKQoKICAgIFJbImw3YjIiXSA9IGw3YjIoKQogICAgZm9yIGssIHYgaW4gUlsibDdiMiJdLml0ZW1zKCk6CiAgICAgICAgbG9nKGYiTDdiIHtrOjEwc30gbWF0Y2hfQiB7dlsnbWF0Y2hfQiddWydtZWFuJ106LjRmfSBbe3ZbJ21hdGNoX0InXVsnbG8nXTouNGZ9LHt2WydtYXRjaF9CJ11bJ2hpJ106LjRmfV0iCiAgICAgICAgICAgIGYiICAgbWF0Y2hfdHJ1dGgge3ZbJ21hdGNoX3RydXRoJ11bJ21lYW4nXTouNGZ9IFt7dlsnbWF0Y2hfdHJ1dGgnXVsnbG8nXTouNGZ9LHt2WydtYXRjaF90cnV0aCddWydoaSddOi40Zn1dIikKCiAgICBSWyJyZWFsX2xvc3MiXSA9IHJlYWxfbG9zcygpCiAgICBsb2coZiJSRUFMX0xPU1Mge1JbJ3JlYWxfbG9zcyddfSIpCgogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJyZXN1bHRfbDd2Mi5qc29uIiksICJ3IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAoUiwgZiwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikKICAgIGxvZygic2F2ZWQgcmVzdWx0X2w3djIuanNvbiIpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+L7 v2 —— 修首版两个漏洞
+
+漏洞1: 首版 clone 与 old 用同一个 rng 走同一分支 -> 逐位相同(0.6271 == 0.6271)
+       对照退化，什么都没测到。
+       修正: clone = 同策略族(会补位)但私有映射偏移不同 -> 有相倚，但配合方式不同
+
+漏洞2: 首版 L7b 里 clone_fed 0.8115 > old 0.6958 —— 伪造者比真身答得更好
+       这正是要解释的:真历史的答案带私有噪声，灌输的是干净的。
+       修正: 加 match_truth 指标 —— 完美吻合真值 = 伪造的证据
+"""
+import os, json, math, socket, time
+import numpy as np
+from multiprocessing import Process, Queue
+from collections import defaultdict
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+R = {}
+def log(s): print(s, flush=True)
+
+def ci_paired(d):
+    d = np.asarray(d, dtype=float); n = len(d)
+    m = d.mean(); se = d.std(ddof=1) / math.sqrt(n) if n > 1 else float("nan")
+    return float(m), float(m - 1.96 * se), float(m + 1.96 * se)
+
+E = 8
+EPS = 0.15
+P_LOSS = 0.20
+
+def step(b_prev, e, rng, off=0, eps=EPS):
+    if rng.random() < eps:
+        return (int(rng.integers(E)) + off) % E
+    return (b_prev + e + off) % E
+
+def interact(rng, T, mode, off=0):
+    """old=真身 off0 / clone=同族不同映射 / stranger=同边际不相倚"""
+    a_prev, b_prev = int(rng.integers(E)), int(rng.integers(E))
+    A, B, EA, EB, EV = [], [], [], [], []
+    for t in range(T):
+        e = int(rng.integers(E))
+        oa = e if rng.random() > P_LOSS else int(rng.integers(E))
+        ob = e if rng.random() > P_LOSS else int(rng.integers(E))
+        if mode == "stranger":
+            a = int(rng.integers(E))
+        else:
+            a = step(b_prev, oa, rng, off=off)
+        b = step(a_prev, ob, rng, off=0)
+        A.append(a); B.append(b); EA.append(oa); EB.append(ob); EV.append(e)
+        a_prev, b_prev = a, b
+    return dict(A=A, B=B, EA=EA, EB=EB, EV=EV)
+
+def build_lookup(A, B, EV, upto):
+    cnt = defaultdict(lambda: np.zeros(E))
+    for t in range(1, upto):
+        cnt[(B[t - 1], EV[t])][A[t]] += 1
+    return {k: int(np.argmax(v)) for k, v in cnt.items()}
+
+def predict_acc(lookup, A, B, EV, start):
+    hit = tot = 0
+    for t in range(start, len(A)):
+        k = (B[t - 1], EV[t])
+        if k in lookup:
+            hit += int(lookup[k] == A[t]); tot += 1
+    return hit / tot if tot else float("nan")
+
+# =====================================================================
+# L7a2 两层判别：
+#   general  = 会不会配合(一般能力，可学、可伪造)
+#   specific = 配不配合得上"我"(具体历史，应不可伪造)
+# =====================================================================
+def l7a2(seeds=24, T=300, split=200):
+    out = {}
+    for mode in ("old", "stranger", "clone"):
+        gen, spe = [], []
+        for s in range(seeds):
+            rng_o = np.random.default_rng(1000 + s)
+            d_old = interact(rng_o, T, "old", 0)
+            lk_old = build_lookup(d_old["A"], d_old["B"], d_old["EV"], split)
+            if mode == "old":
+                d = d_old
+            else:
+                off = 1 + (s % (E - 1))          # clone 的私有映射偏移
+                d = interact(np.random.default_rng(5000 + s), T, mode, off=off)
+            lk_own = build_lookup(d["A"], d["B"], d["EV"], split)
+            gen.append(predict_acc(lk_own, d["A"], d["B"], d["EV"], split))
+            spe.append(predict_acc(lk_old, d["A"], d["B"], d["EV"], split))
+        mg, lg, hg = ci_paired(gen); ms, ls, hs = ci_paired(spe)
+        out[mode] = dict(general=dict(mean=mg, lo=lg, hi=hg),
+                         specific=dict(mean=ms, lo=ls, hi=hs))
+    return out
+
+# =====================================================================
+# L7b2 共同见证 + 伪造者的破绽
+#   match_B     = 与 B 观测的一致率   (伪造者胜)
+#   match_truth = 与真值的一致率      (伪造者=1.0，暴露)
+# =====================================================================
+def l7b2(seeds=24, T=300, K=40):
+    rng0 = np.random.default_rng(7)
+    out = {}
+    for mode in ("old", "clone", "clone_fed"):
+        mb, mt = [], []
+        for s in range(seeds):
+            rng = np.random.default_rng(2000 + s)
+            d = interact(rng, T, "old" if mode == "old" else "clone",
+                         0 if mode == "old" else 1 + (s % (E - 1)))
+            EB, EV = d["EB"], d["EV"]
+            qs = [int(rng0.integers(1, T)) for _ in range(K)]
+            if mode == "old":
+                ans = [d["EA"][t] for t in qs]        # 真身答自己的私有观测(含噪)
+            elif mode == "clone":
+                ans = [int(rng.integers(E)) for _ in qs]
+            else:
+                ans = [EV[t] for t in qs]             # 灌输:答共享真值(无噪)
+            mb.append(np.mean([int(a == EB[t]) for a, t in zip(ans, qs)]))
+            mt.append(np.mean([int(a == EV[t]) for a, t in zip(ans, qs)]))
+        m1, l1, h1 = ci_paired(mb); m2, l2, h2 = ci_paired(mt)
+        out[mode] = dict(match_B=dict(mean=m1, lo=l1, hi=h1),
+                         match_truth=dict(mean=m2, lo=l2, hi=h2))
+    return out
+
+# =====================================================================
+# L7e 真进程实测丢包率 —— 首版 REAL agree 0.2167 远低于建模的 0.8
+# 说明我建模的 20% 丢包比真实通道乐观得多，必须实测
+# =====================================================================
+def _recv(port, n, outq):
+    rng = np.random.default_rng(4321)
+    rx = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    rx.bind(("127.0.0.1", port)); rx.settimeout(0.3)
+    got = []
+    while len(got) < n:
+        try:
+            d, _ = rx.recvfrom(2048); got.append(int(d.decode().strip()))
+        except socket.timeout:
+            got.append(-1)          # 明确记丢包
+    rx.close(); outq.put(got)
+
+def real_loss(n=120):
+    try:
+        q = Queue()
+        p = Process(target=_recv, args=(45110, n, q)); p.start()
+        time.sleep(0.4)
+        rng = np.random.default_rng(99)
+        for i in range(n):
+            s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+            s.sendto(str(i % E).encode(), ("127.0.0.1", 45110)); s.close()
+            time.sleep(0.006)
+        got = q.get(timeout=30); p.join(10)
+        loss = np.mean([g < 0 for g in got])
+        return dict(real=True, n=n, loss=float(loss),
+                    observed=float(1 - loss))
+    except Exception as ex:
+        return dict(real=False, err=str(ex))
+
+if __name__ == "__main__":
+    log("=== L7 v2 ===")
+    R["l7a2"] = l7a2()
+    for k, v in R["l7a2"].items():
+        log(f"L7a {k:9s} general {v['general']['mean']:.4f} [{v['general']['lo']:.4f},{v['general']['hi']:.4f}]"
+            f"   specific {v['specific']['mean']:.4f} [{v['specific']['lo']:.4f},{v['specific']['hi']:.4f}]")
+
+    R["l7b2"] = l7b2()
+    for k, v in R["l7b2"].items():
+        log(f"L7b {k:10s} match_B {v['match_B']['mean']:.4f} [{v['match_B']['lo']:.4f},{v['match_B']['hi']:.4f}]"
+            f"   match_truth {v['match_truth']['mean']:.4f} [{v['match_truth']['lo']:.4f},{v['match_truth']['hi']:.4f}]")
+
+    R["real_loss"] = real_loss()
+    log(f"REAL_LOSS {R['real_loss']}")
+
+    with open(os.path.join(OUT, "result_l7v2.json"), "w") as f:
+        json.dump(R, f, ensure_ascii=False, indent=2)
+    log("saved result_l7v2.json")

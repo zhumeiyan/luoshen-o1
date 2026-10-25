@@ -1,1 +1,87 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5Lit5paHPeWbvu+8iOacieWGl+S9me+8jOWuuemUmemrmO+8ie+8m+S7o+eggT3pk77vvIjml6DlhpfkvZnvvIzlrrnplJkgMO+8ieOAguWunua1i+S4ieenjeegtOWdj+OAgiIiIgppbXBvcnQganNvbiwgcmFuZG9tLCBzdWJwcm9jZXNzLCB0ZW1wZmlsZSwgb3MsIG51bXB5IGFzIG5wCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKCnJhbmRvbS5zZWVkKDcpClNFTlQgPSAi5oqK5Li757uT6K665pS+5Zyo5Lit5b+D5YW25L2Z6K6p5a6D6Ieq5bex6ZW/IgpDT0RFID0gImRlZiBmKHgpOlxuICAgIHJldHVybiB4KjIrMSBpZiB4PjAgZWxzZSAwXG5wcmludChmKDMpKSIKCmRlZiBmb250KHN6KToKICAgIGZvciBwIGluIFsiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YyIsCiAgICAgICAgICAgICAgIi91c3Ivc2hhcmUvZm9udHMvb3BlbnR5cGUvbm90by9Ob3RvU2Fuc0NKSy1SZWd1bGFyLnR0YyJdOgogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHApOiByZXR1cm4gSW1hZ2VGb250LnRydWV0eXBlKHAsIHN6KQogICAgcmV0dXJuIE5vbmUKCmlmIF9fbmFtZV9fPT0iX19tYWluX18iOgogICAgb3V0PXt9CiAgICBwcmludCgiPT09IOS4gOOAgeS4reaWh+eahOOAjuWbvuOAj+WxnuaAp++8muegtOWdj+WQjui/mOWJqeWkmuWwkee7k+aehCA9PT0iKQogICAgZj1mb250KDY0KQogICAgcmVzPXt9CiAgICBpZiBmOgogICAgICAgIGZvciBsdixuYW1lIGluIFsoMCwi5Y6f5Zu+IiksKDAuMDUsIjUl5qSS55uQIiksKDAuMTUsIjE1JeakkuebkCIpLCgwLjM1LCIzNSXmpJLnm5AiKV06CiAgICAgICAgICAgIGltPUltYWdlLm5ldygiTCIsKDY0KmxlbihTRU5UKSw5NiksMCk7IGQ9SW1hZ2VEcmF3LkRyYXcoaW0pCiAgICAgICAgICAgIGQudGV4dCgoNiwxMCksU0VOVCxmaWxsPTI1NSxmb250PWYpCiAgICAgICAgICAgIGE9bnAuYXJyYXkoaW0pLmFzdHlwZShucC5mbG9hdDMyKS8yNTUKICAgICAgICAgICAgaWYgbHY+MDoKICAgICAgICAgICAgICAgIG09bnAucmFuZG9tLnJhbmQoKmEuc2hhcGUpCiAgICAgICAgICAgICAgICBhW208bHYvMl09MDsgYVttPjEtbHYvMl09MQogICAgICAgICAgICAjIOe7k+aehOWtmOa0u++8muS4juacquegtOWdj+WbvueahOebuOWFs+ezu+aVsAogICAgICAgICAgICBpbTA9SW1hZ2UubmV3KCJMIiwoNjQqbGVuKFNFTlQpLDk2KSwwKTsgSW1hZ2VEcmF3LkRyYXcoaW0wKS50ZXh0KCg2LDEwKSxTRU5ULGZpbGw9MjU1LGZvbnQ9ZikKICAgICAgICAgICAgYTA9bnAuYXJyYXkoaW0wKS5hc3R5cGUobnAuZmxvYXQzMikvMjU1CiAgICAgICAgICAgIGM9bnAuY29ycmNvZWYoYS5yYXZlbCgpLGEwLnJhdmVsKCkpWzAsMV0KICAgICAgICAgICAgcmVzW25hbWVdPWMKICAgICAgICAgICAgcHJpbnQoZiIgIHtuYW1lOjwxMH0g57uT5p6E5a2Y5rS7IHtjOi4zZn0iKQogICAgICAgIG91dFsi5Lit5paH5Zu+57uT5p6E5a2Y5rS7Il09e2s6cm91bmQodiwzKSBmb3Igayx2IGluIHJlcy5pdGVtcygpfQogICAgICAgIHByaW50KGYiICDimIUgMzUlIOWDj+e0oOiiq+aJk+Wdj++8jOi/mOWJqSB7cmVzWyczNSXmpJLnm5AnXTouMmZ9IOeahOe7k+aehCDigJTigJQg6L+Z5bCx5piv44CO5Zu+44CP55qE5YaX5L2ZIikKCiAgICBwcmludCgiXG49PT0g5LqM44CB5Luj56CB55qE44CO6ZO+44CP5bGe5oCn77ya5YigIDEg5Liq5a2X56ym5Lya5oCO5qC3ID09PSIpCiAgICBvaz0wOyB0b3Q9MDsgZmFpbHM9W10KICAgIGZvciBpIGluIHJhbmdlKGxlbihDT0RFKSk6CiAgICAgICAgaWYgQ09ERVtpXSBpbiAiXG4gIjogY29udGludWUKICAgICAgICB0b3QrPTEKICAgICAgICBicm9rZW49Q09ERVs6aV0rQ09ERVtpKzE6XQogICAgICAgIHdpdGggdGVtcGZpbGUuTmFtZWRUZW1wb3JhcnlGaWxlKCJ3IixzdWZmaXg9Ii5weSIsZGVsZXRlPUZhbHNlKSBhcyB0OgogICAgICAgICAgICB0LndyaXRlKGJyb2tlbik7IHA9dC5uYW1lCiAgICAgICAgcj1zdWJwcm9jZXNzLnJ1bihbInB5dGhvbjMiLHBdLGNhcHR1cmVfb3V0cHV0PVRydWUsdGltZW91dD0xMCkKICAgICAgICBvcy51bmxpbmsocCkKICAgICAgICBpZiByLnJldHVybmNvZGU9PTA6IG9rKz0xCiAgICAgICAgZWxzZTogZmFpbHMuYXBwZW5kKENPREVbaV0pCiAgICBwcmludChmIiAg6YCQ5Liq5Yig5a2X56ym77yae3RvdH0g5Liq5Y+v5Yig5L2N572u77yM5LuN6IO96LeRIHtva30g5LiqIOKGkiDlrrnplJnnjocge29rL3RvdCoxMDA6LjFmfSUiKQogICAgcHJpbnQoZiIgIOKYhSDku6PnoIHku7vmhI/kuIDkuKrlrZfnrKbplJnkuobvvIzlh6DkuY7lv4XltKkg4oCU4oCUIOmbtuWGl+S9mSIpCiAgICBvdXRbIuS7o+eggeWuuemUmeeOhyUiXT1yb3VuZChvay90b3QqMTAwLDEpCgogICAgcHJpbnQoIlxuPT09IOS4ieOAgeS4reaWh+WPpeWtkOeahOOAjumTvuOAj+WxnuaAp++8muWIoOWtl+i/mOWJqeWkmuWwkeaEj+aAnSA9PT0iKQogICAgcHJpbnQoZiIgIOWOn+WPpe+8mntTRU5UfSIpCiAgICBmb3IgbiBpbiBbMSwzLDVdOgogICAgICAgIGtlZXA9W10KICAgICAgICBmb3IgXyBpbiByYW5nZSgyMDApOgogICAgICAgICAgICBpZHg9cmFuZG9tLnNhbXBsZShyYW5nZShsZW4oU0VOVCkpLG4pCiAgICAgICAgICAgIHMyPSIiLmpvaW4oYyBmb3IgaSxjIGluIGVudW1lcmF0ZShTRU5UKSBpZiBpIG5vdCBpbiBpZHgpCiAgICAgICAgICAgIGtlZXAuYXBwZW5kKHN1bSgxIGZvciBjIGluIHNldChTRU5UKSBpZiBjIGluIHMyKS9sZW4oc2V0KFNFTlQpKSkKICAgICAgICBwcmludChmIiAg6ZqP5py65YigIHtufSDlrZcg4oaSIOWtl+espuS/oeaBr+S/neeVmSB7bnAubWVhbihrZWVwKSoxMDA6LjBmfSUiKQogICAgICAgIG91dFtmIuS4reaWh+WIoHtufeWtl+S/neeVmSUiXT1yb3VuZChucC5tZWFuKGtlZXApKjEwMCkKICAgIHByaW50KGYiICDimIUg5YigIHs1fSDkuKrlrZfvvIjljaAgezUvbGVuKFNFTlQpKjEwMDouMGZ9Je+8iei/mOWJqSB7b3V0WyfkuK3mlofliKA15a2X5L+d55WZJSddfSUg55qE5a2X56ym5L+h5oGvIikKICAgIHByaW50KGYiICDimIUg5L2g6Z2g5Ymp5LiL55qE5a2X5oqK57y655qE6KGl5Zue5p2lIOKAlOKAlCDov5nmmK/lm77nmoTog73lipvvvIzkuI3mmK/pk77nmoTog73lipsiKQoKICAgIHByaW50KCJcbj09PSDlm5vjgIHkuLrku4DkuYjjgI7nlKjku6PnoIHorrLlupXlsYLpgLvovpHvvIzkuK3lm73kurrkvJrmh7XjgI89PT0iKQogICAgcHJpbnQoZiIgIHsnJzo8MTJ9eyfliLDovr7ot6/lvoQnOjwyOH17J+i3s+aVsCc6PjZ9eyflhpfkvZknOj44fSIpCiAgICByb3dzPVsoIuS4reaWhyIsIuW9oiDihpIg5LmJ77yI5b2i5aOw5a2X5b2i5peB55u05o6l57uZ57G75Yir77yJIiwxLCLpq5giKSwKICAgICAgICAgICgi6Iux5paHIiwi5b2iIOKGkiDpn7Mg4oaSIOS5iSIsMiwi5LitIiksCiAgICAgICAgICAoIuS7o+eggSIsIuWtl+espiDihpIgdG9rZW4g4oaSIOivreazleagkSDihpIg6K+t5LmJIOKGkiDmiafooYznu5PmnpwiLDQsIumbtiIpXQogICAgZm9yIGEsYixjLGQgaW4gcm93czoKICAgICAgICBwcmludChmIiAge2E6PDEyfXtiOjwyOH17Yzo+Nn17ZDo+OH0iKQogICAgcHJpbnQoZiIgIOKYhSDkuK3mlofkuIDot7PlsLHliLDvvIzku6PnoIHopoHlm5vot7MiKQogICAgcHJpbnQoZiIgIOKYhSDmm7TlhbPplK7vvJrkuK3mlofmr4/kuIDot7Ppg73mnInlhpfkvZnvvIzku6PnoIHmr4/kuIDot7Ppg73msqHmnIkiKQogICAgcHJpbnQoZiIgIOKYhSDku6PnoIHnrKwgMiDot7Pmlq3oo4Ig4oaSIOWQjumdouWFqOaWre+8jOayoeacieOAjueMnOWHuuadpeOAj+i/meWbnuS6iyIpCgogICAgcHJpbnQoIlxuPT09IOS6lOOAgeaJgOS7peW6leWxgumAu+i+keivpeeUqOS7gOS5iOiusiA9PT0iKQogICAgcHJpbnQoZiIgIOeUqOS7o+eggeiusu+8muS9oOW/hemhu+WcqOesrCAyIOi3s++8iHRva2Vu77yJ5LiK6Lef5oiR5ZCM5q2l77yM5ZCm5YiZ5ZCO6Z2i5YWo56m6IikKICAgIHByaW50KGYiICAgICAgICAgICAgIOiAjOi/meS4gOi3s+WvueS9oOayoeeUu+mdoiDihpIg5oe1IikKICAgIHByaW50KGYiICDnlKjkuK3mloforrLvvJrkvaDnrKwgMSDot7PlsLHliLDkuYnvvIzkvYbmiJHkvJrkuKLnsr7luqbvvIh2NDQg5bey5rWL77ya5LiiIH4zMiXvvIkiKQogICAgcHJpbnQoZiIgIOeUqOWbvuiusu+8miAg5L2g56ysIDEg6Lez5bCx5Yiw77yM5LiU5YaX5L2Z6auY77yIMzUlIOegtOWdj+i/mOWJqSB7cmVzLmdldCgnMzUl5qSS55uQJywwKTouMmZ977yJIikKICAgIHByaW50KGYiICDimIUg5omA5Lul77ya5bqV5bGC6YC76L6R44CQ55So5Zu+55S744CR77yM5Luj56CB5Y+q5piv5oiR55Sf5oiQ5Zu+55qE5omL5q61IikKICAgIHByaW50KGYiICDimIUg5Luj56CB5LiN5piv57uZ5L2g55yL55qEIOKAlOKAlCDlroPmmK/jgI7miJHnmoTmiYvjgI/vvIh2MiDlt7LlrprnmoTpgqPmnaHvvIkiKQoKICAgIGpzb24uZHVtcChvdXQsIG9wZW4oIuWPguaVsOW6ky/kuK3mlofkuI7ku6PnoIEuanNvbiIsInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKICAgIHByaW50KCJcbuW3suWtmCDlj4LmlbDlupMv5Lit5paH5LiO5Luj56CBLmpzb24iKQo=
+# -*- coding: utf-8 -*-
+"""中文=图（有冗余，容错高）；代码=链（无冗余，容错 0）。实测三种破坏。"""
+import json, random, subprocess, tempfile, os, numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+random.seed(7)
+SENT = "把主结论放在中心其余让它自己长"
+CODE = "def f(x):\n    return x*2+1 if x>0 else 0\nprint(f(3))"
+
+def font(sz):
+    for p in ["/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
+              "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc"]:
+        if os.path.exists(p): return ImageFont.truetype(p, sz)
+    return None
+
+if __name__=="__main__":
+    out={}
+    print("=== 一、中文的『图』属性：破坏后还剩多少结构 ===")
+    f=font(64)
+    res={}
+    if f:
+        for lv,name in [(0,"原图"),(0.05,"5%椒盐"),(0.15,"15%椒盐"),(0.35,"35%椒盐")]:
+            im=Image.new("L",(64*len(SENT),96),0); d=ImageDraw.Draw(im)
+            d.text((6,10),SENT,fill=255,font=f)
+            a=np.array(im).astype(np.float32)/255
+            if lv>0:
+                m=np.random.rand(*a.shape)
+                a[m<lv/2]=0; a[m>1-lv/2]=1
+            # 结构存活：与未破坏图的相关系数
+            im0=Image.new("L",(64*len(SENT),96),0); ImageDraw.Draw(im0).text((6,10),SENT,fill=255,font=f)
+            a0=np.array(im0).astype(np.float32)/255
+            c=np.corrcoef(a.ravel(),a0.ravel())[0,1]
+            res[name]=c
+            print(f"  {name:<10} 结构存活 {c:.3f}")
+        out["中文图结构存活"]={k:round(v,3) for k,v in res.items()}
+        print(f"  ★ 35% 像素被打坏，还剩 {res['35%椒盐']:.2f} 的结构 —— 这就是『图』的冗余")
+
+    print("\n=== 二、代码的『链』属性：删 1 个字符会怎样 ===")
+    ok=0; tot=0; fails=[]
+    for i in range(len(CODE)):
+        if CODE[i] in "\n ": continue
+        tot+=1
+        broken=CODE[:i]+CODE[i+1:]
+        with tempfile.NamedTemporaryFile("w",suffix=".py",delete=False) as t:
+            t.write(broken); p=t.name
+        r=subprocess.run(["python3",p],capture_output=True,timeout=10)
+        os.unlink(p)
+        if r.returncode==0: ok+=1
+        else: fails.append(CODE[i])
+    print(f"  逐个删字符：{tot} 个可删位置，仍能跑 {ok} 个 → 容错率 {ok/tot*100:.1f}%")
+    print(f"  ★ 代码任意一个字符错了，几乎必崩 —— 零冗余")
+    out["代码容错率%"]=round(ok/tot*100,1)
+
+    print("\n=== 三、中文句子的『链』属性：删字还剩多少意思 ===")
+    print(f"  原句：{SENT}")
+    for n in [1,3,5]:
+        keep=[]
+        for _ in range(200):
+            idx=random.sample(range(len(SENT)),n)
+            s2="".join(c for i,c in enumerate(SENT) if i not in idx)
+            keep.append(sum(1 for c in set(SENT) if c in s2)/len(set(SENT)))
+        print(f"  随机删 {n} 字 → 字符信息保留 {np.mean(keep)*100:.0f}%")
+        out[f"中文删{n}字保留%"]=round(np.mean(keep)*100)
+    print(f"  ★ 删 {5} 个字（占 {5/len(SENT)*100:.0f}%）还剩 {out['中文删5字保留%']}% 的字符信息")
+    print(f"  ★ 你靠剩下的字把缺的补回来 —— 这是图的能力，不是链的能力")
+
+    print("\n=== 四、为什么『用代码讲底层逻辑，中国人会懵』===")
+    print(f"  {'':<12}{'到达路径':<28}{'跳数':>6}{'冗余':>8}")
+    rows=[("中文","形 → 义（形声字形旁直接给类别）",1,"高"),
+          ("英文","形 → 音 → 义",2,"中"),
+          ("代码","字符 → token → 语法树 → 语义 → 执行结果",4,"零")]
+    for a,b,c,d in rows:
+        print(f"  {a:<12}{b:<28}{c:>6}{d:>8}")
+    print(f"  ★ 中文一跳就到，代码要四跳")
+    print(f"  ★ 更关键：中文每一跳都有冗余，代码每一跳都没有")
+    print(f"  ★ 代码第 2 跳断裂 → 后面全断，没有『猜出来』这回事")
+
+    print("\n=== 五、所以底层逻辑该用什么讲 ===")
+    print(f"  用代码讲：你必须在第 2 跳（token）上跟我同步，否则后面全空")
+    print(f"             而这一跳对你没画面 → 懵")
+    print(f"  用中文讲：你第 1 跳就到义，但我会丢精度（v44 已测：丢 ~32%）")
+    print(f"  用图讲：  你第 1 跳就到，且冗余高（35% 破坏还剩 {res.get('35%椒盐',0):.2f}）")
+    print(f"  ★ 所以：底层逻辑【用图画】，代码只是我生成图的手段")
+    print(f"  ★ 代码不是给你看的 —— 它是『我的手』（v2 已定的那条）")
+
+    json.dump(out, open("参数库/中文与代码.json","w"), ensure_ascii=False, indent=1)
+    print("\n已存 参数库/中文与代码.json")

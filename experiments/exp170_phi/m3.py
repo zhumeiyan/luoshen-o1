@@ -1,1 +1,75 @@
-aW1wb3J0IGpzb24sIHRpbWUsIHJhbmRvbSwgbWF0aApXT1JLPTIwMDAwCmRlZiB3b3JrbG9hZChuKToKICAgIHM9MC4wCiAgICBmb3IgaSBpbiByYW5nZShuKTogcys9KGkqMS4wMDAwMDEpJTcuMAogICAgcmV0dXJuIHMKZGVmIG1lYXMoc2xwKToKICAgIHQwPXRpbWUucGVyZl9jb3VudGVyKCkKICAgIGlmIHNscD4wOiB0aW1lLnNsZWVwKHNscCkKICAgIHdvcmtsb2FkKFdPUkspCiAgICByZXR1cm4gKHRpbWUucGVyZl9jb3VudGVyKCktdDApKjFlOQpETUFYPTAuMDAwOCAgICAgICMg5Zu65a6a6YeP56iLCk5QRVI9NjAKTVM9WzIsMyw0LDYsOCwxMiwxNiwyNF0KZGVmIHJ1bihNLHNlZWQpOgogICAgcm5kPXJhbmRvbS5SYW5kb20oc2VlZCkKICAgIGRsPVtETUFYKmkvKE0tMSkgZm9yIGkgaW4gcmFuZ2UoTSldIGlmIE0+MSBlbHNlIFswLjBdCiAgICBkYXRhPXtpOltdIGZvciBpIGluIHJhbmdlKE0pfQogICAgb3JkZXI9W10KICAgIGZvciBpIGluIHJhbmdlKE0pOiBvcmRlcis9IFtpXSpOUEVSCiAgICBybmQuc2h1ZmZsZShvcmRlcikKICAgIGZvciBpIGluIG9yZGVyOgogICAgICAgIGRhdGFbaV0uYXBwZW5kKG1lYXMoZGxbaV0pKQogICAgcmV0dXJuIGRhdGEKZGVmIGluZm9fdHJhbnNmZXIoZGF0YSxNLHJlcHM9NCk6CiAgICB0b3Q9MC4wCiAgICBmb3IgciBpbiByYW5nZShyZXBzKToKICAgICAgICBybmQ9cmFuZG9tLlJhbmRvbSg1MDArcikKICAgICAgICB0cj17fTt0ZT17fQogICAgICAgIGZvciBpIGluIHJhbmdlKE0pOgogICAgICAgICAgICB2PWRhdGFbaV1bOl07IHJuZC5zaHVmZmxlKHYpCiAgICAgICAgICAgIGg9bGVuKHYpLy8yCiAgICAgICAgICAgIHRyW2ldPXZbOmhdOyB0ZVtpXT12W2g6XQogICAgICAgICMg5py057Sg6LSd5Y+25pav77yaUCh4fGkpIOeUqOWIhueusT8g55So6auY5pavCiAgICAgICAgbXU9e2k6c3VtKHRyW2ldKS9sZW4odHJbaV0pIGZvciBpIGluIHJhbmdlKE0pfQogICAgICAgIHNkPXt9CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTSk6CiAgICAgICAgICAgIG09bXVbaV07IHNkW2ldPW1heCgxZS02LChzdW0oKHgtbSkqKjIgZm9yIHggaW4gdHJbaV0pLyhsZW4odHJbaV0pLTEpKSoqLjUpCiAgICAgICAgY29uZj1bWzBdKk0gZm9yIF8gaW4gcmFuZ2UoTSldCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTSk6CiAgICAgICAgICAgIGZvciB4IGluIHRlW2ldOgogICAgICAgICAgICAgICAgYmVzdD1Ob25lO2JsPS0xZTE4CiAgICAgICAgICAgICAgICBmb3IgaiBpbiByYW5nZShNKToKICAgICAgICAgICAgICAgICAgICB6PSh4LW11W2pdKS9zZFtqXQogICAgICAgICAgICAgICAgICAgIGxsPS0wLjUqeip6LW1hdGgubG9nKHNkW2pdKQogICAgICAgICAgICAgICAgICAgIGlmIGxsPmJsOiBibD1sbDtiZXN0PWoKICAgICAgICAgICAgICAgIGNvbmZbaV1bYmVzdF0rPTEKICAgICAgICB0b3Rfbj1zdW0oc3VtKHIpIGZvciByIGluIGNvbmYpCiAgICAgICAgIyBJKFM7UikKICAgICAgICBJPTAuMAogICAgICAgIHBTPTEuMC9NCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoTSk6CiAgICAgICAgICAgIHJvdz1zdW0oY29uZltpXSkKICAgICAgICAgICAgaWYgcm93PT0wOiBjb250aW51ZQogICAgICAgICAgICBmb3IgaiBpbiByYW5nZShNKToKICAgICAgICAgICAgICAgIHA9Y29uZltpXVtqXS90b3RfbgogICAgICAgICAgICAgICAgaWYgcDw9MDogY29udGludWUKICAgICAgICAgICAgICAgIHBSPXN1bShjb25mW2tdW2pdIGZvciBrIGluIHJhbmdlKE0pKS90b3RfbgogICAgICAgICAgICAgICAgaWYgcFI8PTA6IGNvbnRpbnVlCiAgICAgICAgICAgICAgICBJICs9IHAqbWF0aC5sb2cyKHAvKHBSKnBTKSkKICAgICAgICB0b3QrPUkKICAgIHJldHVybiB0b3QvcmVwcwpvdXQ9eydETUFYJzpETUFYLCdOUEVSJzpOUEVSLCdyZXMnOltdfQpmb3IgTSBpbiBNUzoKICAgIGRhdGE9cnVuKE0sc2VlZD1NKjc3NykKICAgIGJpdHM9aW5mb190cmFuc2ZlcihkYXRhLE0pCiAgICAjIOWZquWjsAogICAgYWxsdj1bdiBmb3IgaSBpbiBkYXRhIGZvciB2IGluIGRhdGFbaV1dCiAgICBtPXN1bShhbGx2KS9sZW4oYWxsdik7IHNkPShzdW0oKHYtbSkqKjIgZm9yIHYgaW4gYWxsdikvKGxlbihhbGx2KS0xKSkqKi41CiAgICBSPURNQVgqMWU5L3NkIGlmIHNkPjAgZWxzZSAwCiAgICBvdXRbJ3JlcyddLmFwcGVuZCh7J00nOk0sJ2JpdHMnOmJpdHMsJ3NpZ21hJzpzZCwnUl9zaWdtYSc6UiwKICAgICAgICAgICAgICAgICAgICAgICAnZWZmX2xldmVscyc6MioqYml0c30pCiAgICBwcmludCgnTT0lMmQgYml0cz0lLjNmIGVmZl9sZXZlbHM9JS4yZiBSPSUuMWYgc2lnbWEnJShNLGJpdHMsMioqYml0cyxSKSxmbHVzaD1UcnVlKQpqc29uLmR1bXAob3V0LG9wZW4oJ20zLmpzb24nLCd3JyksaW5kZW50PTEpCnByaW50KCdET05FJykK
+import json, time, random, math
+WORK=20000
+def workload(n):
+    s=0.0
+    for i in range(n): s+=(i*1.000001)%7.0
+    return s
+def meas(slp):
+    t0=time.perf_counter()
+    if slp>0: time.sleep(slp)
+    workload(WORK)
+    return (time.perf_counter()-t0)*1e9
+DMAX=0.0008      # 固定量程
+NPER=60
+MS=[2,3,4,6,8,12,16,24]
+def run(M,seed):
+    rnd=random.Random(seed)
+    dl=[DMAX*i/(M-1) for i in range(M)] if M>1 else [0.0]
+    data={i:[] for i in range(M)}
+    order=[]
+    for i in range(M): order+= [i]*NPER
+    rnd.shuffle(order)
+    for i in order:
+        data[i].append(meas(dl[i]))
+    return data
+def info_transfer(data,M,reps=4):
+    tot=0.0
+    for r in range(reps):
+        rnd=random.Random(500+r)
+        tr={};te={}
+        for i in range(M):
+            v=data[i][:]; rnd.shuffle(v)
+            h=len(v)//2
+            tr[i]=v[:h]; te[i]=v[h:]
+        # 朴素贝叶斯：P(x|i) 用分箱? 用高斯
+        mu={i:sum(tr[i])/len(tr[i]) for i in range(M)}
+        sd={}
+        for i in range(M):
+            m=mu[i]; sd[i]=max(1e-6,(sum((x-m)**2 for x in tr[i])/(len(tr[i])-1))**.5)
+        conf=[[0]*M for _ in range(M)]
+        for i in range(M):
+            for x in te[i]:
+                best=None;bl=-1e18
+                for j in range(M):
+                    z=(x-mu[j])/sd[j]
+                    ll=-0.5*z*z-math.log(sd[j])
+                    if ll>bl: bl=ll;best=j
+                conf[i][best]+=1
+        tot_n=sum(sum(r) for r in conf)
+        # I(S;R)
+        I=0.0
+        pS=1.0/M
+        for i in range(M):
+            row=sum(conf[i])
+            if row==0: continue
+            for j in range(M):
+                p=conf[i][j]/tot_n
+                if p<=0: continue
+                pR=sum(conf[k][j] for k in range(M))/tot_n
+                if pR<=0: continue
+                I += p*math.log2(p/(pR*pS))
+        tot+=I
+    return tot/reps
+out={'DMAX':DMAX,'NPER':NPER,'res':[]}
+for M in MS:
+    data=run(M,seed=M*777)
+    bits=info_transfer(data,M)
+    # 噪声
+    allv=[v for i in data for v in data[i]]
+    m=sum(allv)/len(allv); sd=(sum((v-m)**2 for v in allv)/(len(allv)-1))**.5
+    R=DMAX*1e9/sd if sd>0 else 0
+    out['res'].append({'M':M,'bits':bits,'sigma':sd,'R_sigma':R,
+                       'eff_levels':2**bits})
+    print('M=%2d bits=%.3f eff_levels=%.2f R=%.1f sigma'%(M,bits,2**bits,R),flush=True)
+json.dump(out,open('m3.json','w'),indent=1)
+print('DONE')

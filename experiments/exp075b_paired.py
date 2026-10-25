@@ -1,1 +1,86 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuWunumqjCAwNzViIMK3IOecn+WunuS4lueVjOaNouiDveWZqO+8iOS/ruato+eJiO+8iQoK5L+u5q2jIDA3NSDnmoToh7Tlkb3msaHmn5PvvJrlrZjmtLvnjoflnKjmnaHku7bpl7Tku44gMC4wMDAg5YiwIDEuMDAwIOWJp+eDiOazouWKqO+8jArmrbvkuqHns7vnu5/nmoTnu5PmnoTlgY/luqbkuI7lrZjmtLvns7vnu5/kuI3lj6/mr5TvvIjmrbvkuqHnrZvpgInmsaHmn5PvvIzliKTmja7moLjnrKwgMjkzIOadoe+8ieOAggoK5L+u5q2j77yaCiAg4pGgIOWFseWQjOWtmOa0u+WtkOmbhu+8muWPquavlOi+g+WcqOOAkOaJgOacieOAkeadoeS7tuS4i+mDveWtmOa0u+eahCBzZWVkCiAg4pGhIOmFjeWvueiuvuiuoe+8muWQjOS4gCBzZWVk44CB5ZCM5LiAIHNjYWxl77yM5p2h5Lu26Ze05Lik5Lik5q+U6L6DCiAg4pGiIOmFjeWvuSBib290c3RyYXAgQ0nvvJrpgb/lhY3miorlmarlo7Dor7vkvZznu5PorrrvvIgwNjliIOaVmeiure+8iQoiIiIKaW1wb3J0IHN5cywgb3MsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJy4uJykpCmZyb20gY29yZS5saWZlNSBpbXBvcnQgTGlmZTUKClJPT1QgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJy4uJykKRiA9IG9zLnBhdGguam9pbihST09ULCdldmlkZW5jZScsJ3Jhd19kYXRhJywncmVhbF93ZWF0aGVyX2ZpZWxkXzIwMjYxMDE2VDIzMDUuanNvbicpCmQgPSBqc29uLmxvYWQob3BlbihGKSkKdGVtcHMgPSBbeFsndGVtcGVyYXR1cmUnXSBmb3IgeCBpbiBkIGlmICd0ZW1wZXJhdHVyZScgaW4geF0KY2l0aWVzPSBbeC5nZXQoJ2NpdHknLCc/JykgZm9yIHggaW4gZCBpZiAndGVtcGVyYXR1cmUnIGluIHhdCk4gPSBsZW4odGVtcHMpCgpkZWYgeih2KToKICAgIHY9bnAuYXNhcnJheSh2LGZsb2F0KTsgcmV0dXJuICh2LXYubWVhbigpKS9tYXgodi5zdGQoZGRvZj0xKSwxZS0xMikKCnpyID0geih0ZW1wcykKcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKDIwMjYpCnpzID0genIuY29weSgpOyBybmcuc2h1ZmZsZSh6cykKenJhbmQgPSBybmcubm9ybWFsKDAsMSxOKTsgenJhbmQ9KHpyYW5kLXpyYW5kLm1lYW4oKSkvbWF4KHpyYW5kLnN0ZChkZG9mPTEpLDFlLTEyKQoKU0VFRFMgPSBsaXN0KHJhbmdlKDI0KSkKZGVmIHJ1bihzaWcsIHNlZWQsIHNjYWxlLCBzdGVwcz02MDApOgogICAgbGYgPSBMaWZlNShOPU4sIHNlZWQ9c2VlZCkKICAgIGxmLm5ldF9wdXNoID0gc2lnKnNjYWxlCiAgICBsZi5ydW4oc3RlcHMpCiAgICBjYXA9bnAuYXNhcnJheShsZi5sb2dbLTFdWydjYXB2J10sZmxvYXQpCiAgICByZXR1cm4gbGYuYWxpdmUsIGZsb2F0KGNhcC5zdGQoZGRvZj0xKS9tYXgoY2FwLm1lYW4oKSwxZS0xMikpCgpwcmludCgiPT09IOaJq+aPj+WwjyBzY2FsZe+8jOaJvuWtmOa0u+eOh+WPr+avlOeahOW3peS9nOeCuSA9PT0iKQpTQ0FMRVM9WzAuMDA0LDAuMDA4LDAuMDEyLDAuMDE2LDAuMDIwXQpyYXc9e30KZm9yIHNjIGluIFNDQUxFUzoKICAgIHJhd1tzY109e30KICAgIGZvciBubSxzaWcgaW4gWygncmVhbCcsenIpLCgnc2h1ZmZsZWQnLHpzKSwoJ3JhbmRvbScsenJhbmQpLCgnbm9uZScsbnAuemVyb3MoTikpXToKICAgICAgICBycz1bcnVuKHNpZyxzLHNjKSBmb3IgcyBpbiBTRUVEU10KICAgICAgICByYXdbc2NdW25tXT1kaWN0KGFsaXZlPVthIGZvciBhLF8gaW4gcnNdLCBza2V3PVtrIGZvciBfLGsgaW4gcnNdKQogICAgYWw9e25tOm5wLm1lYW4ocmF3W3NjXVtubV1bJ2FsaXZlJ10pIGZvciBubSBpbiByYXdbc2NdfQogICAgcHJpbnQoZiJzY2FsZT17c2M6LjNmfSBhbGl2ZTogIiArICIgIi5qb2luKGYie25tfT17YWxbbm1dOi4zZn0iIGZvciBubSBpbiBbJ3JlYWwnLCdzaHVmZmxlZCcsJ3JhbmRvbScsJ25vbmUnXSkpCgpwcmludCgiXG49PT0g5YWx5ZCM5a2Y5rS75a2Q6ZuGICsg6YWN5a+55q+U6L6DID09PSIpCmJlc3Q9Tm9uZQpmb3Igc2MgaW4gU0NBTEVTOgogICAgY29tbW9uPVtzIGZvciBzIGluIFNFRURTIGlmIGFsbChyYXdbc2NdW25tXVsnYWxpdmUnXVtpXSBmb3Igbm0gaW4gcmF3W3NjXSkgZm9yIGksc3MgaW4gZW51bWVyYXRlKFNFRURTKSBpZiBzcz09c10KICAgICMg5LiK6Z2i5YaZ5rOV5pyJ6K+v77yM6YeN5YaZCiAgICBjb21tb249W10KICAgIGZvciBpLHMgaW4gZW51bWVyYXRlKFNFRURTKToKICAgICAgICBpZiBhbGwocmF3W3NjXVtubV1bJ2FsaXZlJ11baV0gZm9yIG5tIGluIFsncmVhbCcsJ3NodWZmbGVkJywncmFuZG9tJywnbm9uZSddKToKICAgICAgICAgICAgY29tbW9uLmFwcGVuZChpKQogICAgaWYgbGVuKGNvbW1vbik+PTg6CiAgICAgICAgYmVzdD0oc2MsY29tbW9uKTsgcHJpbnQoZiIgIHNjYWxlPXtzYzouM2Z9IOWFseWQjOWtmOa0uyBuPXtsZW4oY29tbW9uKX0gIOKckyDlj6/nlKjkuo7mr5TovoMiKQogICAgZWxzZToKICAgICAgICBwcmludChmIiAgc2NhbGU9e3NjOi4zZn0g5YWx5ZCM5a2Y5rS7IG49e2xlbihjb21tb24pfSAg4pyXIOWkquWwkSIpCgpkZWYgcGFpcmVkX2Jvb3QoYSxiLG49MjAwMDAsc2VlZD03KToKICAgIGE9bnAuYXNhcnJheShhLGZsb2F0KTsgYj1ucC5hc2FycmF5KGIsZmxvYXQpOyBkaWY9YS1iCiAgICByPW5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgaWR4PXIuaW50ZWdlcnMoMCxsZW4oZGlmKSwobixsZW4oZGlmKSkpCiAgICBicz1kaWZbaWR4XS5tZWFuKGF4aXM9MSkKICAgIHJldHVybiBkaWYubWVhbigpLCBucC5wZXJjZW50aWxlKGJzLDIuNSksIG5wLnBlcmNlbnRpbGUoYnMsOTcuNSkKCmlmIGJlc3Q6CiAgICBzYyxjb21tb249YmVzdAogICAgcHJpbnQoZiJcbj09PSDlnKggc2NhbGU9e3NjOi4zZn3jgIHlhbHlkIzlrZjmtLsgbj17bGVuKGNvbW1vbil9IOS4i+eahOmFjeWvueavlOi+gyA9PT0iKQogICAgZm9yIG5tIGluIFsncmVhbCcsJ3NodWZmbGVkJywncmFuZG9tJywnbm9uZSddOgogICAgICAgIHY9W3Jhd1tzY11bbm1dWydza2V3J11baV0gZm9yIGkgaW4gY29tbW9uXQogICAgICAgIHByaW50KGYiICB7bm06PDl9IHNrZXc9e25wLm1lYW4odik6LjRmfSDCsXtucC5zdGQodixkZG9mPTEpL25wLnNxcnQobGVuKHYpKTouNGZ9IikKICAgIGZvciB4LHkgaW4gWygncmVhbCcsJ3NodWZmbGVkJyksKCdyZWFsJywncmFuZG9tJyksKCdzaHVmZmxlZCcsJ3JhbmRvbScpLCgncmVhbCcsJ25vbmUnKV06CiAgICAgICAgYT1bcmF3W3NjXVt4XVsnc2tldyddW2ldIGZvciBpIGluIGNvbW1vbl07IGI9W3Jhd1tzY11beV1bJ3NrZXcnXVtpXSBmb3IgaSBpbiBjb21tb25dCiAgICAgICAgbSxsbyxoaT1wYWlyZWRfYm9vdChhLGIpCiAgICAgICAgc2lnPSLmmL7okZciIGlmIChsbz4wIG9yIGhpPDApIGVsc2UgIuS4jeaYvuiRlyIKICAgICAgICBwcmludChmIiAge3h9LXt5fTogzpQ9e206Ky40Zn0gQ0lbe2xvOisuNGZ9LHtoaTorLjRmfV0ge3NpZ30iKQogICAganNvbi5kdW1wKGRpY3Qoc2NhbGU9c2Msbl9jb21tb249bGVuKGNvbW1vbiksCiAgICAgICAgICAgICAgICAgICByYXc9e3N0cihrKTp2IGZvciBrLHYgaW4gcmF3Lml0ZW1zKCl9KSwKICAgICAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihST09ULCdyZXN1bHRfMDc1Yi5qc29uJyksJ3cnKSxlbnN1cmVfYXNjaWk9RmFsc2UsaW5kZW50PTEpCg==
+# -*- coding: utf-8 -*-
+"""
+实验 075b · 真实世界换能器（修正版）
+
+修正 075 的致命污染：存活率在条件间从 0.000 到 1.000 剧烈波动，
+死亡系统的结构偏度与存活系统不可比（死亡筛选污染，判据核第 293 条）。
+
+修正：
+  ① 共同存活子集：只比较在【所有】条件下都存活的 seed
+  ② 配对设计：同一 seed、同一 scale，条件间两两比较
+  ③ 配对 bootstrap CI：避免把噪声读作结论（069b 教训）
+"""
+import sys, os, json
+import numpy as np
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+from core.life5 import Life5
+
+ROOT = os.path.join(os.path.dirname(__file__), '..')
+F = os.path.join(ROOT,'evidence','raw_data','real_weather_field_20261016T2305.json')
+d = json.load(open(F))
+temps = [x['temperature'] for x in d if 'temperature' in x]
+cities= [x.get('city','?') for x in d if 'temperature' in x]
+N = len(temps)
+
+def z(v):
+    v=np.asarray(v,float); return (v-v.mean())/max(v.std(ddof=1),1e-12)
+
+zr = z(temps)
+rng = np.random.default_rng(2026)
+zs = zr.copy(); rng.shuffle(zs)
+zrand = rng.normal(0,1,N); zrand=(zrand-zrand.mean())/max(zrand.std(ddof=1),1e-12)
+
+SEEDS = list(range(24))
+def run(sig, seed, scale, steps=600):
+    lf = Life5(N=N, seed=seed)
+    lf.net_push = sig*scale
+    lf.run(steps)
+    cap=np.asarray(lf.log[-1]['capv'],float)
+    return lf.alive, float(cap.std(ddof=1)/max(cap.mean(),1e-12))
+
+print("=== 扫描小 scale，找存活率可比的工作点 ===")
+SCALES=[0.004,0.008,0.012,0.016,0.020]
+raw={}
+for sc in SCALES:
+    raw[sc]={}
+    for nm,sig in [('real',zr),('shuffled',zs),('random',zrand),('none',np.zeros(N))]:
+        rs=[run(sig,s,sc) for s in SEEDS]
+        raw[sc][nm]=dict(alive=[a for a,_ in rs], skew=[k for _,k in rs])
+    al={nm:np.mean(raw[sc][nm]['alive']) for nm in raw[sc]}
+    print(f"scale={sc:.3f} alive: " + " ".join(f"{nm}={al[nm]:.3f}" for nm in ['real','shuffled','random','none']))
+
+print("\n=== 共同存活子集 + 配对比较 ===")
+best=None
+for sc in SCALES:
+    common=[s for s in SEEDS if all(raw[sc][nm]['alive'][i] for nm in raw[sc]) for i,ss in enumerate(SEEDS) if ss==s]
+    # 上面写法有误，重写
+    common=[]
+    for i,s in enumerate(SEEDS):
+        if all(raw[sc][nm]['alive'][i] for nm in ['real','shuffled','random','none']):
+            common.append(i)
+    if len(common)>=8:
+        best=(sc,common); print(f"  scale={sc:.3f} 共同存活 n={len(common)}  ✓ 可用于比较")
+    else:
+        print(f"  scale={sc:.3f} 共同存活 n={len(common)}  ✗ 太少")
+
+def paired_boot(a,b,n=20000,seed=7):
+    a=np.asarray(a,float); b=np.asarray(b,float); dif=a-b
+    r=np.random.default_rng(seed)
+    idx=r.integers(0,len(dif),(n,len(dif)))
+    bs=dif[idx].mean(axis=1)
+    return dif.mean(), np.percentile(bs,2.5), np.percentile(bs,97.5)
+
+if best:
+    sc,common=best
+    print(f"\n=== 在 scale={sc:.3f}、共同存活 n={len(common)} 下的配对比较 ===")
+    for nm in ['real','shuffled','random','none']:
+        v=[raw[sc][nm]['skew'][i] for i in common]
+        print(f"  {nm:<9} skew={np.mean(v):.4f} ±{np.std(v,ddof=1)/np.sqrt(len(v)):.4f}")
+    for x,y in [('real','shuffled'),('real','random'),('shuffled','random'),('real','none')]:
+        a=[raw[sc][x]['skew'][i] for i in common]; b=[raw[sc][y]['skew'][i] for i in common]
+        m,lo,hi=paired_boot(a,b)
+        sig="显著" if (lo>0 or hi<0) else "不显著"
+        print(f"  {x}-{y}: Δ={m:+.4f} CI[{lo:+.4f},{hi:+.4f}] {sig}")
+    json.dump(dict(scale=sc,n_common=len(common),
+                   raw={str(k):v for k,v in raw.items()}),
+              open(os.path.join(ROOT,'result_075b.json'),'w'),ensure_ascii=False,indent=1)

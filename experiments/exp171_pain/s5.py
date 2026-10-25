@@ -1,1 +1,80 @@
-IiIiUzUg5by65bqm5Ye95pWwICsgUzMg5qCH5a6a77ya5om+5LiJ56eN5L+h5rqQ5ZCE6Ieq55qE54mp55CG6YePIC0+IOWQjuaenCjlkJ7lkJDlgI3njocpIOabsue6v+OAggrpobrluo/pmo/mnLrljJbvvIzpmLLmvILnp7vkvKrlvbHjgIIiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHRpbWUsIHJhbmRvbQpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpmcm9tIGhhcm5lc3MgaW1wb3J0IHdvcmssIHNwYXduX2NwdV9idXN5LCBzcGF3bl9tZW1faG9sZGVyLCBzcGF3bl9pb19yZWFkZXIsIGtpbGxhbGwsIHNlbnNlCgpyYW5kb20uc2VlZCgxNzExKQpSRVBTID0gNQoKIyDln7rnur8KYmFzZSA9IFtdCmZvciBfIGluIHJhbmdlKDEyKToKICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgd29yaygpCiAgICBiYXNlLmFwcGVuZCh0aW1lLnBlcmZfY291bnRlcigpIC0gdDApCmJhc2Uuc29ydCgpCkJBU0UgPSBiYXNlW2xlbihiYXNlKSAvLyAyXQpwcmludChmIkJBU0UgbWVkaWFuID0ge0JBU0UqMTAwMDouMmZ9IG1zIikKCkNPTkRTID0gW10KZm9yIG4gaW4gWzEsIDIsIDMsIDQsIDZdOgogICAgQ09ORFMuYXBwZW5kKCgiY3B1IiwgbikpCmZvciBtYiBpbiBbMjAwLCA0MDAsIDcwMCwgMTAwMF06CiAgICBDT05EUy5hcHBlbmQoKCJtZW0iLCBtYikpCmZvciBuIGluIFsxLCAyLCA0XToKICAgIENPTkRTLmFwcGVuZCgoImlvIiwgbikpCkNPTkRTLmFwcGVuZCgoIm5vbmUiLCAwKSkKCiMg6ZqP5py65YyW6aG65bqPCm9yZGVyID0gQ09ORFMgKiBSRVBTCnJhbmRvbS5zaHVmZmxlKG9yZGVyKQoKcmVzID0ge30KZm9yIGtpbmQsIGx2bCBpbiBvcmRlcjoKICAgIHBpZHMgPSBbXQogICAgaWYga2luZCA9PSAiY3B1IjoKICAgICAgICBwaWRzID0gc3Bhd25fY3B1X2J1c3kobHZsKQogICAgZWxpZiBraW5kID09ICJtZW0iOgogICAgICAgIHBpZHMgPSBbc3Bhd25fbWVtX2hvbGRlcihsdmwpXQogICAgZWxpZiBraW5kID09ICJpbyI6CiAgICAgICAgcGlkcyA9IHNwYXduX2lvX3JlYWRlcihsdmwpCiAgICB0aW1lLnNsZWVwKDAuMjUpICAjIOiuqeaNn+S8pOeUn+aViAoKICAgIHRzID0gW10KICAgIHNlbnMgPSBbXQogICAgZm9yIF8gaW4gcmFuZ2UoMyk6CiAgICAgICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICAgICAgd29yaygpCiAgICAgICAgdHMuYXBwZW5kKHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MCkKICAgICAgICBzZW5zLmFwcGVuZChzZW5zZSgpKQogICAga2lsbGFsbChwaWRzKQogICAgdGltZS5zbGVlcCgwLjI1KQoKICAgIHRzLnNvcnQoKQogICAgbWVkID0gdHNbMV0KICAgIHJlcy5zZXRkZWZhdWx0KGYie2tpbmR9e2x2bH0iLCB7InRzIjogW10sICJzZW5zIjogW119KQogICAgcmVzW2Yie2tpbmR9e2x2bH0iXVsidHMiXS5hcHBlbmQobWVkKQogICAgcmVzW2Yie2tpbmR9e2x2bH0iXVsic2VucyJdLmFwcGVuZChzZW5zWzFdKQoKb3V0ID0ge30KZm9yIGssIHYgaW4gcmVzLml0ZW1zKCk6CiAgICB0c3MgPSB2WyJ0cyJdCiAgICB0c3Nfc29ydGVkID0gc29ydGVkKHRzcykKICAgIG1lZCA9IHRzc19zb3J0ZWRbbGVuKHRzc19zb3J0ZWQpIC8vIDJdCiAgICBvdXRba10gPSB7CiAgICAgICAgImxhdF9tcyI6IG1lZCAqIDEwMDAsCiAgICAgICAgInJhdGlvIjogbWVkIC8gQkFTRSwKICAgICAgICAibiI6IGxlbih0c3MpLAogICAgICAgICJzZW5zX21lZCI6IHsKICAgICAgICAgICAgImxvYWQxIjogc29ydGVkKFtzWyJsb2FkMSJdIGZvciBzIGluIHZbInNlbnMiXV0pW2xlbih2WyJzZW5zIl0pIC8vIDJdLAogICAgICAgICAgICAiY3R4dCI6IHNvcnRlZChbc1siY3R4dCJdIGZvciBzIGluIHZbInNlbnMiXV0pW2xlbih2WyJzZW5zIl0pIC8vIDJdLAogICAgICAgICAgICAibWVtX2tiIjogc29ydGVkKFtzWyJtZW1fa2IiXSBmb3IgcyBpbiB2WyJzZW5zIl1dKVtsZW4odlsic2VucyJdKSAvLyAyXSwKICAgICAgICB9LAogICAgfQogICAgcHJpbnQoZiJ7azoxMHN9IGxhdD17bWVkKjEwMDA6OC4yZn1tcyAgcmF0aW89e21lZC9CQVNFOjYuM2Z9ICAiCiAgICAgICAgICBmImxvYWQxPXtvdXRba11bJ3NlbnNfbWVkJ11bJ2xvYWQxJ106LjJmfSBtZW09e291dFtrXVsnc2Vuc19tZWQnXVsnbWVtX2tiJ119IikKCmpzb24uZHVtcCh7IkJBU0VfbXMiOiBCQVNFICogMTAwMCwgInJlcyI6IG91dH0sCiAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSksICJzNS5qc29uIiksICJ3IiksCiAgICAgICAgICBpbmRlbnQ9MSkK
+"""S5 强度函数 + S3 标定：找三种信源各自的物理量 -> 后果(吞吐倍率) 曲线。
+顺序随机化，防漂移伪影。"""
+import os, sys, json, time, random
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from harness import work, spawn_cpu_busy, spawn_mem_holder, spawn_io_reader, killall, sense
+
+random.seed(1711)
+REPS = 5
+
+# 基线
+base = []
+for _ in range(12):
+    t0 = time.perf_counter()
+    work()
+    base.append(time.perf_counter() - t0)
+base.sort()
+BASE = base[len(base) // 2]
+print(f"BASE median = {BASE*1000:.2f} ms")
+
+CONDS = []
+for n in [1, 2, 3, 4, 6]:
+    CONDS.append(("cpu", n))
+for mb in [200, 400, 700, 1000]:
+    CONDS.append(("mem", mb))
+for n in [1, 2, 4]:
+    CONDS.append(("io", n))
+CONDS.append(("none", 0))
+
+# 随机化顺序
+order = CONDS * REPS
+random.shuffle(order)
+
+res = {}
+for kind, lvl in order:
+    pids = []
+    if kind == "cpu":
+        pids = spawn_cpu_busy(lvl)
+    elif kind == "mem":
+        pids = [spawn_mem_holder(lvl)]
+    elif kind == "io":
+        pids = spawn_io_reader(lvl)
+    time.sleep(0.25)  # 让损伤生效
+
+    ts = []
+    sens = []
+    for _ in range(3):
+        t0 = time.perf_counter()
+        work()
+        ts.append(time.perf_counter() - t0)
+        sens.append(sense())
+    killall(pids)
+    time.sleep(0.25)
+
+    ts.sort()
+    med = ts[1]
+    res.setdefault(f"{kind}{lvl}", {"ts": [], "sens": []})
+    res[f"{kind}{lvl}"]["ts"].append(med)
+    res[f"{kind}{lvl}"]["sens"].append(sens[1])
+
+out = {}
+for k, v in res.items():
+    tss = v["ts"]
+    tss_sorted = sorted(tss)
+    med = tss_sorted[len(tss_sorted) // 2]
+    out[k] = {
+        "lat_ms": med * 1000,
+        "ratio": med / BASE,
+        "n": len(tss),
+        "sens_med": {
+            "load1": sorted([s["load1"] for s in v["sens"]])[len(v["sens"]) // 2],
+            "ctxt": sorted([s["ctxt"] for s in v["sens"]])[len(v["sens"]) // 2],
+            "mem_kb": sorted([s["mem_kb"] for s in v["sens"]])[len(v["sens"]) // 2],
+        },
+    }
+    print(f"{k:10s} lat={med*1000:8.2f}ms  ratio={med/BASE:6.3f}  "
+          f"load1={out[k]['sens_med']['load1']:.2f} mem={out[k]['sens_med']['mem_kb']}")
+
+json.dump({"BASE_ms": BASE * 1000, "res": out},
+          open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "s5.json"), "w"),
+          indent=1)

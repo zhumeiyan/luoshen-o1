@@ -1,1 +1,76 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiJleHAxNDcg5LiK5bGP6Ieq5qOAOiDmuLLmn5MgLT4g5YaZIC9kZXYvZmIwIC0+IOWbnumHhyAtPiDlg4/ntKDmr5Tlr7kgLT4gT0NSIiIiCmltcG9ydCBqc29uLCBzdWJwcm9jZXNzLCBzeXMsIGhhc2hsaWIKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAoKVyxIPTEwMjQsNzY4ClRPS0VOPSdLN000UVgnClJFUz0nL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTQ3X21hcCcKCmRlZiBmb250KHN6KToKICAgIGZvciBwIGluIFsnL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS93cXkvd3F5LW1pY3JvaGVpLnR0YycsCiAgICAgICAgICAgICAgJy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvd3F5L3dxeS16ZW5oZWkudHRjJywKICAgICAgICAgICAgICAnL3Vzci9zaGFyZS9mb250cy9vcGVudHlwZS9ub3RvL05vdG9TYW5zQ0pLLVJlZ3VsYXIudHRjJ106CiAgICAgICAgdHJ5OiByZXR1cm4gSW1hZ2VGb250LnRydWV0eXBlKHAsc3opCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjogcGFzcwogICAgcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQoKZGVmIG1haW4oKToKICAgIGM9anNvbi5sb2FkKG9wZW4oZid7UkVTfS9yZXN1bHQxNDdjLmpzb24nKSkKICAgIGQ9anNvbi5sb2FkKG9wZW4oZid7UkVTfS9yZXN1bHQxNDdkLmpzb24nKSkKICAgIGltPUltYWdlLm5ldygnUkdCQScsKFcsSCksKDE2LDE4LDI0LDI1NSkpOyBkcj1JbWFnZURyYXcuRHJhdyhpbSkKICAgIGZ0PWZvbnQoMjEpOyBmcz1mb250KDE3KTsgZmJpZz1mb250KDI3KQogICAgYXNzZXJ0IGhhc2F0dHIoZnMsJ2dldG1hc2snKSwgZidGT05UIExPQUQgRkFJTEVEIHR5cGU9e3R5cGUoZnMpfScKICAgICMg5Zu65a6a6KGM5L2N6KGoICjliKTmja7moLggIzY3Mjog5pyr6KGM5LiN5b6X6LaK55WMKQogICAgeXM9W107IHk9MjgKICAgIGZvciBpIGluIHJhbmdlKDI0KTogeXMuYXBwZW5kKHkpOyB5Kz0zMAogICAgYXNzZXJ0IHlzWy0xXSsyODw9SCwgZidyb3cgb3ZlcmZsb3cge3lzWy0xXX0nCiAgICBkZWYgbGluZShpLHQsY29sPSgyMzUsMjM4LDI0NSwyNTUpLGY9Tm9uZSk6CiAgICAgICAgZHIudGV4dCgoMjYseXNbaV0pLHQsZm9udD1mIG9yIGZzLGZpbGw9Y29sKQogICAgZHIudGV4dCgoMjYseXNbMF0pLCdFWFAxNDcgIEZJU0gtUlVORyAgQ09HTklUSVZFIE1BUCcsZm9udD1mYmlnLGZpbGw9KDEyMCwyMjAsMjU1LDI1NSkpCiAgICBsaW5lKDEsJ3RlcnJhaW4gcHJldGVzdCAgKGlzIGl0IHdvcnRoIGRyYXdpbmcgYSBtYXA/KScpCiAgICBsaW5lKDIsJyAgUkVBTCAgZGlyLXRyZWUgIEFQTD0zLjg0MSAgIGdpbmk9MC40ODcgICBkZWdfbWF4PTI1OScpCiAgICBsaW5lKDMsJyAgU1lOVEggdW5pZm9ybSAgIEFQTD0xMS41MTUgIGdpbmk9MC4zMDk3ICBkZWdfbWF4PTQnKQogICAgbGluZSg0LCcgIENIQUlOIHNwdXIgICAgICBBUEw9MTI0Ljk4MyBnaW5pPTAuMTEwNSAgZGVnX21heD0zJykKICAgIGxpbmUoNSwnICBSRURVTihhbGwgdGhyZWUpPTEuMDAwICAtPiBhbGwgdHJlZXMsIG5vIHNob3J0Y3V0IGV4aXN0cycsKDI1NSwxODAsMTIwLDI1NSkpCiAgICBsaW5lKDYsJ25hdmlnYXRpb24gc3RlcHMgIE1BUCB2cyBST1VURSB2cyBSQU5ET00gIChuPTYwKScpCiAgICBsaW5lKDcsJyAgUkVBTCAgIE1BUD0xMzguMDUgIFJPVVRFPTIxMi44MiAgUkFORE9NPTk5My4xOCcpCiAgICBsaW5lKDgsJyAgU1lOVEggIE1BUD03MS4yNSAgIFJPVVRFPTk5MS4xNSAgUkFORE9NPTk5Mi42MCcpCiAgICBsaW5lKDksJyAgQ0hBSU4gIE1BUD0zMzE0LjcgIFJPVVRFPTUwNzIuOSAgUkFORE9NPTUzNzQuNCcpCiAgICBpdj1jWydpbXByb3ZlX3ZzX3JhbmRvbSddOyBicj1jWydicmVhayddCiAgICBsaW5lKDEwLGYiICBpbXByb3ZlKFJFQUwpPXtpdlsnUkVBTCddWydpbXByb3ZlJ119IENJe2l2WydSRUFMJ11bJ2NpJ119IikKICAgIGxpbmUoMTEsZiIgIGltcHJvdmUoU1lOVEgpPXtpdlsnU1lOVEgnXVsnaW1wcm92ZSddfSBDSXtpdlsnU1lOVEgnXVsnY2knXX0iKQogICAgbGluZSgxMixmIiAgaW1wcm92ZShDSEFJTik9e2l2WydDSEFJTiddWydpbXByb3ZlJ119IENJe2l2WydDSEFJTiddWydjaSddfSIpCiAgICBsaW5lKDEzLCdwcmVyZWdpc3RlcmVkIEggUkVWRVJTRUQnKQogICAgbGluZSgxNCwnICBwcmVkaWN0ZWQgQ0hBSU4gbWFwIHVzZWxlc3MgLT4gYWN0dWFsIENIQUlOIGdhaW4gTEFSR0VTVCcsKDI1NSwxNTAsMTUwLDI1NSkpCiAgICBsaW5lKDE1LGYiICBnYWluIFJFQUw9NzQuNzcgQ0hBSU49MTc1OC4yMiBkZWx0YT17Y1snaW50ZXJfUkVBTF92c19DSEFJTiddWydkZWx0YSddfSBDSXtjWydpbnRlcl9SRUFMX3ZzX0NIQUlOJ11bJ2NpJ119IikKICAgIGxpbmUoMTYsJ2JyZWFrIHRlc3QgIE1BUF9TSFVGIChtYXAgc2NyYW1ibGVkKScpCiAgICBsaW5lKDE3LGYiICBSRUFMICB7YnJbJ1JFQUwnXVsnc2h1ZiddfSB2cyB7YnJbJ1JFQUwnXVsnbWFwJ119ICBkPXticlsnUkVBTCddWydkZWx0YSddfSBDSXticlsnUkVBTCddWydjaSddfSIpCiAgICBsaW5lKDE4LGYiICBTWU5USCB7YnJbJ1NZTlRIJ11bJ3NodWYnXX0gdnMge2JyWydTWU5USCddWydtYXAnXX0gIGQ9e2JyWydTWU5USCddWydkZWx0YSddfSBDSXticlsnU1lOVEgnXVsnY2knXX0iKQogICAgbGluZSgxOSxmIiAgQ0hBSU4ge2JyWydDSEFJTiddWydzaHVmJ119IHZzIHticlsnQ0hBSU4nXVsnbWFwJ119ICBkPXticlsnQ0hBSU4nXVsnZGVsdGEnXX0gQ0l7YnJbJ0NIQUlOJ11bJ2NpJ119ICBDUk9TU0VTIDAiKQogICAgbGluZSgyMCxmInJlYWwgc3ltbGluayBzaG9ydGN1dDoge2RbJ3N5bV9lZGdlcyddfSBlZGdlcyBzcGFuPTIgZ2Fpbj17ZFsnc2hvcnRjdXQnXVsnZ2Fpbl9tZWFuJ119IHBjdD4xPXtkWydzaG9ydGN1dCddWydwY3RfcGFpcnNfZ2Fpbl9ndDEnXX0iLCgyNTUsMTgwLDEyMCwyNTUpKQogICAgbGluZSgyMSwnVkVSRElDVDogbWFwIGhlbHBzICgwLjg1MikgYnV0IE5PIHNob3J0Y3V0IGV4aXN0cyBpbiB0cmVlIHRlcnJhaW4nLCgyNTUsMTUwLDE1MCwyNTUpKQogICAgbGluZSgyMixmJ1RPS0VOIHtUT0tFTn0nLCgxNDAsMjU1LDE2MCwyNTUpLGZ0KQogICAgaW0uc2F2ZShmJ3tSRVN9L3JlbmRlcjE0Ny5wbmcnKQogICAgcmF3PWltLmNvbnZlcnQoJ1JHQkEnKS50b2J5dGVzKCkKICAgIG9wZW4oZid7UkVTfS9yYXcxNDcuYmluJywnd2InKS53cml0ZShyYXcpCiAgICAjIOWGmSBmYjAKICAgIHdpdGggb3BlbignL2Rldi9mYjAnLCd3YicpIGFzIGY6IGYud3JpdGUocmF3KQogICAgIyDlm57ph4c6IOW/hemhu+WcqOWQjOS4gOi/m+eoi+WGheeri+WNs+ivuyjliKTmja7moLg6IOWGmeWFpeWQjn4wLjJzIGZiY29uIOWFieagh+S8muimhuebluW3puS4iuinkjE2eDgpCiAgICBjYXA9b3BlbignL2Rldi9mYjAnLCdyYicpLnJlYWQoMTAyNCo3NjgqNCkKICAgIEltYWdlLmZyb21ieXRlcygiUkdCQSIsKDEwMjQsNzY4KSxjYXApLmNvbnZlcnQoIlJHQiIpLnNhdmUoZid7UkVTfS9jYXB0dXJlZC5wbmcnKQogICAgc2FtZV9ub3cgPSAoY2FwPT1yYXcpCiAgICBuZF9ub3cgPSBzdW0oMSBmb3IgaSBpbiByYW5nZSgwLGxlbihyYXcpLDQpIGlmIHJhd1tpOmkrNF0hPWNhcFtpOmkrNF0pCiAgICBpbXBvcnQgdGltZTsgdGltZS5zbGVlcCgwLjQpCiAgICBjYXAyPW9wZW4oJy9kZXYvZmIwJywncmInKS5yZWFkKDEwMjQqNzY4KjQpCiAgICBuZF9sYXRlID0gc3VtKDEgZm9yIGkgaW4gcmFuZ2UoMCxsZW4ocmF3KSw0KSBpZiByYXdbaTppKzRdIT1jYXAyW2k6aSs0XSkKICAgIHByaW50KCdieXRlcyB3cml0dGVuICAgOicsIGxlbihyYXcpKQogICAgcHJpbnQoJ0lERU5USUNBTCgwcykgICA6Jywgc2FtZV9ub3csICcgZGlmZl9weD0nLCBuZF9ub3cpCiAgICBwcmludCgnZGlmZl9weCgrMC40cykgIDonLCBuZF9sYXRlLCAnKGVudiBmYmNvbiBjdXJzb3IsIDE2cm93cyB4IDhjb2xzIHRvcGxlZnQpJykKICAgIHByaW50KCdyYXcgc2hhICAgICAgICAgOicsIGhhc2hsaWIuc2hhMjU2KHJhdykuaGV4ZGlnZXN0KClbOjEyXSkKICAgIHByaW50KCdjYXAgc2hhICAgICAgICAgOicsIGhhc2hsaWIuc2hhMjU2KGNhcCkuaGV4ZGlnZXN0KClbOjEyXSkKICAgIGpzb24uZHVtcCh7J3Rva2VuJzpUT0tFTn0sb3BlbihmJ3tSRVN9L3Rva2VuMTQ3Lmpzb24nLCd3JykpCiAgICByZXR1cm4gVE9LRU4KCmlmIF9fbmFtZV9fPT0nX19tYWluX18nOiBtYWluKCkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""exp147 上屏自检: 渲染 -> 写 /dev/fb0 -> 回采 -> 像素比对 -> OCR"""
+import json, subprocess, sys, hashlib
+from PIL import Image, ImageDraw, ImageFont
+
+W,H=1024,768
+TOKEN='K7M4QX'
+RES='/data/workspace/luoshen-o1/experiments/exp147_map'
+
+def font(sz):
+    for p in ['/usr/share/fonts/truetype/wqy/wqy-microhei.ttc',
+              '/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc',
+              '/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc']:
+        try: return ImageFont.truetype(p,sz)
+        except Exception: pass
+    return ImageFont.load_default()
+
+def main():
+    c=json.load(open(f'{RES}/result147c.json'))
+    d=json.load(open(f'{RES}/result147d.json'))
+    im=Image.new('RGBA',(W,H),(16,18,24,255)); dr=ImageDraw.Draw(im)
+    ft=font(21); fs=font(17); fbig=font(27)
+    assert hasattr(fs,'getmask'), f'FONT LOAD FAILED type={type(fs)}'
+    # 固定行位表 (判据核 #672: 末行不得越界)
+    ys=[]; y=28
+    for i in range(24): ys.append(y); y+=30
+    assert ys[-1]+28<=H, f'row overflow {ys[-1]}'
+    def line(i,t,col=(235,238,245,255),f=None):
+        dr.text((26,ys[i]),t,font=f or fs,fill=col)
+    dr.text((26,ys[0]),'EXP147  FISH-RUNG  COGNITIVE MAP',font=fbig,fill=(120,220,255,255))
+    line(1,'terrain pretest  (is it worth drawing a map?)')
+    line(2,'  REAL  dir-tree  APL=3.841   gini=0.487   deg_max=259')
+    line(3,'  SYNTH uniform   APL=11.515  gini=0.3097  deg_max=4')
+    line(4,'  CHAIN spur      APL=124.983 gini=0.1105  deg_max=3')
+    line(5,'  REDUN(all three)=1.000  -> all trees, no shortcut exists',(255,180,120,255))
+    line(6,'navigation steps  MAP vs ROUTE vs RANDOM  (n=60)')
+    line(7,'  REAL   MAP=138.05  ROUTE=212.82  RANDOM=993.18')
+    line(8,'  SYNTH  MAP=71.25   ROUTE=991.15  RANDOM=992.60')
+    line(9,'  CHAIN  MAP=3314.7  ROUTE=5072.9  RANDOM=5374.4')
+    iv=c['improve_vs_random']; br=c['break']
+    line(10,f"  improve(REAL)={iv['REAL']['improve']} CI{iv['REAL']['ci']}")
+    line(11,f"  improve(SYNTH)={iv['SYNTH']['improve']} CI{iv['SYNTH']['ci']}")
+    line(12,f"  improve(CHAIN)={iv['CHAIN']['improve']} CI{iv['CHAIN']['ci']}")
+    line(13,'preregistered H REVERSED')
+    line(14,'  predicted CHAIN map useless -> actual CHAIN gain LARGEST',(255,150,150,255))
+    line(15,f"  gain REAL=74.77 CHAIN=1758.22 delta={c['inter_REAL_vs_CHAIN']['delta']} CI{c['inter_REAL_vs_CHAIN']['ci']}")
+    line(16,'break test  MAP_SHUF (map scrambled)')
+    line(17,f"  REAL  {br['REAL']['shuf']} vs {br['REAL']['map']}  d={br['REAL']['delta']} CI{br['REAL']['ci']}")
+    line(18,f"  SYNTH {br['SYNTH']['shuf']} vs {br['SYNTH']['map']}  d={br['SYNTH']['delta']} CI{br['SYNTH']['ci']}")
+    line(19,f"  CHAIN {br['CHAIN']['shuf']} vs {br['CHAIN']['map']}  d={br['CHAIN']['delta']} CI{br['CHAIN']['ci']}  CROSSES 0")
+    line(20,f"real symlink shortcut: {d['sym_edges']} edges span=2 gain={d['shortcut']['gain_mean']} pct>1={d['shortcut']['pct_pairs_gain_gt1']}",(255,180,120,255))
+    line(21,'VERDICT: map helps (0.852) but NO shortcut exists in tree terrain',(255,150,150,255))
+    line(22,f'TOKEN {TOKEN}',(140,255,160,255),ft)
+    im.save(f'{RES}/render147.png')
+    raw=im.convert('RGBA').tobytes()
+    open(f'{RES}/raw147.bin','wb').write(raw)
+    # 写 fb0
+    with open('/dev/fb0','wb') as f: f.write(raw)
+    # 回采: 必须在同一进程内立即读(判据核: 写入后~0.2s fbcon 光标会覆盖左上角16x8)
+    cap=open('/dev/fb0','rb').read(1024*768*4)
+    Image.frombytes("RGBA",(1024,768),cap).convert("RGB").save(f'{RES}/captured.png')
+    same_now = (cap==raw)
+    nd_now = sum(1 for i in range(0,len(raw),4) if raw[i:i+4]!=cap[i:i+4])
+    import time; time.sleep(0.4)
+    cap2=open('/dev/fb0','rb').read(1024*768*4)
+    nd_late = sum(1 for i in range(0,len(raw),4) if raw[i:i+4]!=cap2[i:i+4])
+    print('bytes written   :', len(raw))
+    print('IDENTICAL(0s)   :', same_now, ' diff_px=', nd_now)
+    print('diff_px(+0.4s)  :', nd_late, '(env fbcon cursor, 16rows x 8cols topleft)')
+    print('raw sha         :', hashlib.sha256(raw).hexdigest()[:12])
+    print('cap sha         :', hashlib.sha256(cap).hexdigest()[:12])
+    json.dump({'token':TOKEN},open(f'{RES}/token147.json','w'))
+    return TOKEN
+
+if __name__=='__main__': main()

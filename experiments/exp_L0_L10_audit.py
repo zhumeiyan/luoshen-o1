@@ -1,1 +1,84 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5oyJ55So5oi355qEIEwwLUwxMCDmoYbmnrbnm5jngrnmtJvnpZ7vvJrlk6rlsYLnnJ/mnInvvIzlk6rlsYLmmK/nqbrnmoTvvIzlk6rlsYLmmK/oo4XnmoTjgIIKCuKYhSDliKTmja7kuI3mmK8i5pyJ5rKh5pyJ5ZCM5ZCN5paH5Lu2Iu+8jOaYr+OAkOmCo+S4gOWxgue7meeahOS4nOilv+aYr+S4jeaYr+ecn+WcqOmCo+OAke+8mgogICAgTDAg57uZIOmaj+acuua6kC/ogIHljJYv5rOi5YqoL+W7tui/nyAgIOKGkiDmnIkgUGh5c2ljcyDkuJTnnJ/nhrXkuI3lj6/lpI3njrDmiY3nrpcKICAgIEwyIOe7mSDlj6/kv67mlLnnmoTov57mjqUgICAgICAgICAgICDihpIg5pyJ5p2D6YeN5LiU5Lya6ZqP57uP6aqM5pS55omN566XCiAgICBMNCDnu5kg5aKe55uK5o6n5Yi2L+ernuS6iS/oioLlvosgICAgICDihpIg5pyJ5oqR5Yi25oiW56ue5LqJ5py65Yi25omN566XCiAgICBMNiDnu5kg6amx5YqbL+S7o+S7ty/pl63njq8gICAgICAgICAg4oaSIOacieiDvemHjyvlhoXmhJ/lj5fkuJTnnJ/lvbHlk43ooYzkuLrmiY3nrpcKICAgIEw4IOe7mSDop4TojIMv5aOw6KqJL+S/ruWkjSAgICAgICAgICDihpIg5pyJ5aSa5pm66IO95L2T5LqS5Yqo5omN566XCiAgICBMMTAg57uZIOi3qOS7o+e0r+enryAgICAgICAgICAgICAgIOKGkiDmnInpnZ7pgZfkvKDnmoTkv6Hmga/kvKDpgJLmiY3nrpcKCuaJgOS7peavj+S4gOagvOmDveimgeS5iOe7meOAkOS7o+eggeS9jee9ruOAke+8jOimgeS5iOe7meOAkOepuuOAkeOAguS4jeiuuOWQq+eziuOAggoiIiIKaW1wb3J0IG9zLCBzeXMsIGpzb24sIHJlCmltcG9ydCBudW1weSBhcyBucAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQoKIyDmr4/kuIDlsYLvvJrlkI3lrZcgLyDov5nkuIDlsYLlv4Xpobvnu5nku4DkuYggLyDlnKjmtJvnpZ7ph4zmib7ku4DkuYggLyDmib7liLDnmoTor4Hmja4KTEFZRVJTID0gWwogKCJMMCDniannkIbnuqbmnZ8iLCAi6ZqP5py65rqQwrfogIHljJbCt+azouWKqMK35bu26L+fIiwKICBbImNvcmUvTDBfcGh5c2ljcy5weSJdLCBbImNsYXNzIFBoeXNpY3MiLCAib3MudXJhbmRvbSIsICJkZWYgYWdlIiwgImRlZiBkZWxheSJdKSwKICgiTDEg5Zmo5Lu2L+WIhuWtkCIsICLmpoLnjofmgKflvIDlkIjCt+mdnue6v+aAp8K36ZiI5YC8wrfppbHlkowiLAogIFsiY29yZS9saWZlNS5weSJdLCBbInNpZ21hX2luIiwgIm5wLmNsaXAiLCAibnAuZXhwIl0pLAogKCJMMiDnqoHop6Yv6L+e5o6lIiwgIuWPr+S/ruaUuei/nuaOpcK355+t5pe256iLL+mVv+aXtueoi+WPr+WhkeaApyIsCiAgWyJjb3JlL2xpZmU1LnB5Il0sIFsiY2FwYWNpdHkiLCAicy55PXMueSsiLCAicy5zcD1zLnNwKyIsICJsZWFrIl0pLAogKCJMMyDnpZ7nu4/lhYMv5Y2V5YWDIiwgIuaVtOWQiMK36ZiI5YC8wrflj5HmlL7Ct+mAguW6lMK356iz5oCBIiwKICBbImNvcmUvbGlmZTUucHkiXSwgWyJzLmI9IiwgIncwIiwgInMuSD0iLCAibGFtX0giXSksCiAoIkw0IOW+ruWbnui3ryIsICLlhbTlpYst5oqR5Yi25bmz6KGhwrfkvqfmipHliLbCt+ernuS6icK36IqC5b6LIiwKICBbImNvcmUvbGlmZTUucHkiXSwgWyJhbHBoYSIsICJhcmdzb3J0IiwgImFsbG9jX2ZuIiwgImFscGhhX2hvbWVvIl0pLAogKCJMNSDns7vnu58v6ISR5Yy6IiwgIuWkmuaooeWdl8K36LCD5Yi25ZCR6YePwrfku7flgLzkv6Hlj7fCt+iusOW/hiIsCiAgWyJjb3JlL2xpZmU1LnB5Il0sIFsid2FudF9tb2QiLCAibmV0X3B1c2giLCAicy5taXNzIiwgInMuZXZpZCIsICJldmlkX2RlY2F5Il0pLAogKCJMNiDouqvkvZMv5YaF5oSf5Y+XIiwgIuS7o+iwosK355a855ebwrfnlrLlirPCt+WGheaEn+WPl+mXreeOryIsCiAgWyJjb3JlL2xpZmU1LnB5Il0sIFsicy5FIiwgImJhc2FsIiwgImZnIiwgImZvcmFnZV9jaCIsICJzZW5zZV9pbnRlcm8iLCAiZGVhdGhfcGF0aWVuY2UiXSksCiAoIkw3IOihjOS4uiIsICLmjqLntKLCt+i2i+mBv8K35Lmg5oOvwrflsYDpg6jnm67moIfnlJ/miJDCt+ivlemUmSIsCiAgWyJjb3JlL2xpZmU1LnB5Il0sIFsiYT1zLmFsbG9jX2ZuIiwgIm5wLmFyZ3NvcnQiLCAicy5yZWYiLCAia19zZWVrIiwgImtfc2Vla19hcnIiXSksCiAoIkw4IOekvuS8miIsICLkupLliqjCt+inhOiMg8K35aOw6KqJwrflkIjkvZzCt+S/ruWkjSIsCiAgWyJjb3JlL2xpZmU1LnB5IiwgImFudGlib2R5LnB5Il0sIFsibmV0X3B1c2giLCAid2FudF9tb2QiXSksCiAoIkw5IOenjee+pC/mvJTljJYiLCAi5Y+Y5byCwrfph43nu4TCt+mAieaLqcK355Sf5oCB5L2NIiwKICBbImNvcmUvbGlmZTUucHkiXSwgWyJzZWVkIiwgIk49Il0pLAogKCJMMTAg5paH5YyWIiwgIuivreiogMK35bel5YW3wrfliLbluqbCt+mdnumBl+S8oOe0r+enryIsCiAgWyIuc2Vuc2Uvc3Rhcl9tYXAubWQiLCAiZXZpZGVuY2Uv5aSx6LSl5qih5byP5bqTL+WIpOaNruaguC5tZCJdLCBbIuKYhSIsICLliKTmja7moLgiXSksCl0KCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiPSIgKiA4MCkKICAgIHByaW50KCIg5rSb56WeIEwwLUwxMCDlsYLmrKHnm5jngrnvvIjlr7nnhafnlKjmiLfnmoTmoYbmnrbvvIkiKQogICAgcHJpbnQoIj0iICogODApCiAgICBwcmludChmIlxueyflsYInOjwxNn17J+i/meS4gOWxguivpee7meeahCc6PDI2fXsn6K+B5o2u5ZG95LitJzo8MTB9eyfliKTlrponfSIpCiAgICBwcmludCgiLSIgKiA4MCkKCiAgICByb3dzID0gW10KICAgIGZvciBuYW1lLCBnaXZlcywgZmlsZXMsIGtleXMgaW4gTEFZRVJTOgogICAgICAgIGhpdHMgPSBbXQogICAgICAgIGZvciBmIGluIGZpbGVzOgogICAgICAgICAgICBwID0gb3MucGF0aC5qb2luKEhFUkUsIGYpCiAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwKTogY29udGludWUKICAgICAgICAgICAgdHh0ID0gb3BlbihwLCBlbmNvZGluZz0idXRmLTgiLCBlcnJvcnM9Imlnbm9yZSIpLnJlYWQoKQogICAgICAgICAgICBmb3IgayBpbiBrZXlzOgogICAgICAgICAgICAgICAgaWYgayBpbiB0eHQ6IGhpdHMuYXBwZW5kKGYie29zLnBhdGguYmFzZW5hbWUoZil9OntrfSIpCiAgICAgICAgbiA9IGxlbihoaXRzKQogICAgICAgIGlmIG4gPj0gMzogICB2ZXJkaWN0ID0gIuKchSDmnIkiCiAgICAgICAgZWxpZiBuID49IDE6IHZlcmRpY3QgPSAi4pqg77iPIOW8sSIKICAgICAgICBlbHNlOiAgICAgICAgdmVyZGljdCA9ICLinYwg56m6IgogICAgICAgIHJvd3MuYXBwZW5kKGRpY3QobGF5ZXI9bmFtZSwgZ2l2ZXM9Z2l2ZXMsIGhpdHM9aGl0cywgbj1uLCB2ZXJkaWN0PXZlcmRpY3QpKQogICAgICAgIHByaW50KGYie25hbWU6PDE2fXtnaXZlczo8MjZ9e246PDEwfXt2ZXJkaWN0fSIpCgogICAgcHJpbnQoIi0iICogODApCiAgICBoYXZlID0gc3VtKDEgZm9yIHIgaW4gcm93cyBpZiByWyJ2ZXJkaWN0Il0gPT0gIuKchSDmnIkiKQogICAgd2VhayA9IHN1bSgxIGZvciByIGluIHJvd3MgaWYgclsidmVyZGljdCJdID09ICLimqDvuI8g5byxIikKICAgIGVtcHR5ID0gc3VtKDEgZm9yIHIgaW4gcm93cyBpZiByWyJ2ZXJkaWN0Il0gPT0gIuKdjCDnqboiKQogICAgcHJpbnQoZiJcbuaciSB7aGF2ZX0gLyDlvLEge3dlYWt9IC8g56m6IHtlbXB0eX0gICDvvIjlhbEge2xlbihyb3dzKX0g5bGC77yJIikKCiAgICBwcmludChmIlxu4piFIOWFs+mUrue7k+iuuu+8miIpCiAgICBwcmludChmIiAgTDAg5piv5pys5qyh5omN6KGl55qE44CC5Zyo6KGl5LmL5YmN77yM5rSb56We5aOw56ew44CQ5LiN5Y+v6YCG44CR77yMIikKICAgIHByaW50KGYiICDkvYblupXlsYLmmK/kvKrpmo/mnLrjgIHlj6/lroznvo7ph43mlL4g4oCU4oCUIOmCoyfkuI3lj6/pgIYn5rKh5pyJ54mp55CG5qC55o2u44CCIikKICAgIHByaW50KGYiICDooaXkuIogTDAg55yf54a15ZCO77yM5ZCM5qC36LeR5Lik5qyh6L2o6L+55LiN5ZCM77yM5LiN5Y+v6YCG5omN5oiQ56uL44CCIikKCiAgICBqc29uLmR1bXAoeyJyb3dzIjogcm93cywgImhhdmUiOiBoYXZlLCAid2VhayI6IHdlYWssICJlbXB0eSI6IGVtcHR5fSwKICAgICAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihIRVJFLCAiLnNlbnNlIiwgIkwwX0wxMF9hdWRpdC5qc29uIiksICJ3IiksCiAgICAgICAgICAgICAgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+按用户的 L0-L10 框架盘点洛神：哪层真有，哪层是空的，哪层是装的。
+
+★ 判据不是"有没有同名文件"，是【那一层给的东西是不是真在那】：
+    L0 给 随机源/老化/波动/延迟   → 有 Physics 且真熵不可复现才算
+    L2 给 可修改的连接            → 有权重且会随经验改才算
+    L4 给 增益控制/竞争/节律      → 有抑制或竞争机制才算
+    L6 给 驱力/代价/闭环          → 有能量+内感受且真影响行为才算
+    L8 给 规范/声誉/修复          → 有多智能体互动才算
+    L10 给 跨代累积               → 有非遗传的信息传递才算
+
+所以每一格都要么给【代码位置】，要么给【空】。不许含糊。
+"""
+import os, sys, json, re
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+
+# 每一层：名字 / 这一层必须给什么 / 在洛神里找什么 / 找到的证据
+LAYERS = [
+ ("L0 物理约束", "随机源·老化·波动·延迟",
+  ["core/L0_physics.py"], ["class Physics", "os.urandom", "def age", "def delay"]),
+ ("L1 器件/分子", "概率性开合·非线性·阈值·饱和",
+  ["core/life5.py"], ["sigma_in", "np.clip", "np.exp"]),
+ ("L2 突触/连接", "可修改连接·短时程/长时程可塑性",
+  ["core/life5.py"], ["capacity", "s.y=s.y+", "s.sp=s.sp+", "leak"]),
+ ("L3 神经元/单元", "整合·阈值·发放·适应·稳态",
+  ["core/life5.py"], ["s.b=", "w0", "s.H=", "lam_H"]),
+ ("L4 微回路", "兴奋-抑制平衡·侧抑制·竞争·节律",
+  ["core/life5.py"], ["alpha", "argsort", "alloc_fn", "alpha_homeo"]),
+ ("L5 系统/脑区", "多模块·调制向量·价值信号·记忆",
+  ["core/life5.py"], ["want_mod", "net_push", "s.miss", "s.evid", "evid_decay"]),
+ ("L6 身体/内感受", "代谢·疼痛·疲劳·内感受闭环",
+  ["core/life5.py"], ["s.E", "basal", "fg", "forage_ch", "sense_intero", "death_patience"]),
+ ("L7 行为", "探索·趋避·习惯·局部目标生成·试错",
+  ["core/life5.py"], ["a=s.alloc_fn", "np.argsort", "s.ref", "k_seek", "k_seek_arr"]),
+ ("L8 社会", "互动·规范·声誉·合作·修复",
+  ["core/life5.py", "antibody.py"], ["net_push", "want_mod"]),
+ ("L9 种群/演化", "变异·重组·选择·生态位",
+  ["core/life5.py"], ["seed", "N="]),
+ ("L10 文化", "语言·工具·制度·非遗传累积",
+  [".sense/star_map.md", "evidence/失败模式库/判据核.md"], ["★", "判据核"]),
+]
+
+if __name__ == "__main__":
+    print("=" * 80)
+    print(" 洛神 L0-L10 层次盘点（对照用户的框架）")
+    print("=" * 80)
+    print(f"\n{'层':<16}{'这一层该给的':<26}{'证据命中':<10}{'判定'}")
+    print("-" * 80)
+
+    rows = []
+    for name, gives, files, keys in LAYERS:
+        hits = []
+        for f in files:
+            p = os.path.join(HERE, f)
+            if not os.path.exists(p): continue
+            txt = open(p, encoding="utf-8", errors="ignore").read()
+            for k in keys:
+                if k in txt: hits.append(f"{os.path.basename(f)}:{k}")
+        n = len(hits)
+        if n >= 3:   verdict = "✅ 有"
+        elif n >= 1: verdict = "⚠️ 弱"
+        else:        verdict = "❌ 空"
+        rows.append(dict(layer=name, gives=gives, hits=hits, n=n, verdict=verdict))
+        print(f"{name:<16}{gives:<26}{n:<10}{verdict}")
+
+    print("-" * 80)
+    have = sum(1 for r in rows if r["verdict"] == "✅ 有")
+    weak = sum(1 for r in rows if r["verdict"] == "⚠️ 弱")
+    empty = sum(1 for r in rows if r["verdict"] == "❌ 空")
+    print(f"\n有 {have} / 弱 {weak} / 空 {empty}   （共 {len(rows)} 层）")
+
+    print(f"\n★ 关键结论：")
+    print(f"  L0 是本次才补的。在补之前，洛神声称【不可逆】，")
+    print(f"  但底层是伪随机、可完美重放 —— 那'不可逆'没有物理根据。")
+    print(f"  补上 L0 真熵后，同样跑两次轨迹不同，不可逆才成立。")
+
+    json.dump({"rows": rows, "have": have, "weak": weak, "empty": empty},
+              open(os.path.join(HERE, ".sense", "L0_L10_audit.json"), "w"),
+              ensure_ascii=False, indent=1)

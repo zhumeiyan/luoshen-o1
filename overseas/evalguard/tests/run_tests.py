@@ -1,1 +1,84 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJaZXJvLWRlcGVuZGVuY3kgdGVzdCBydW5uZXIgKHB5dGVzdCBpcyBub3QgaW5zdGFsbGFibGUgaW4gdGhpcyBzYW5kYm94OgpweXBpLm9yZyByZXR1cm5zIDQwMykuIFNhbWUgYXNzZXJ0aW9ucywgbm8gZnJhbWV3b3JrLiIiIgppbXBvcnQgcGF0aGxpYiwgc3lzCkhFUkUgPSBwYXRobGliLlBhdGgoX19maWxlX18pLnBhcmVudApzeXMucGF0aC5pbnNlcnQoMCwgc3RyKEhFUkUucGFyZW50LnBhcmVudCkpICAgICAgICAgICMgLT4gb3ZlcnNlYXMvCmZyb20gZXZhbGd1YXJkIGltcG9ydCBjbGksIHJ1bGVzCgpQTEFOVEVEID0gKCJFRzAwMSIsIkVHMDAyIiwiRUcwMDMiLCJFRzAwNCIsIkVHMDA1IiwiRUcwMDYiLCJFRzAwNyIsIkVHMDA4IiwKICAgICAgICAgICAiRUcwMDkiLCJFRzAxMSIsIkVHMDEyIiwiRUcwMTMiLCJFRzAxNCIsIkVHMDE1IiwiRUcwMTYiKQoKIyBleHAxMzQgc3BsaXQgdGhlIHJ1bGUgc2V0IGluIHR3byBhbmQgb25seSBvbmUgaGFsZiBpcyBzaGlwcGVkOgojICAgc3ludGF4IHJ1bGVzICAgICAgIDE1LzE2IHN0cmljdCB0cnVlICAoOTMuOCUpICAgLT4gc2hpcHBlZAojICAgbWV0aG9kb2xvZ3kgcnVsZXMgICAxLzI5IHN0cmljdCB0cnVlICAoIDMuNCUpICAgLT4gTk9UIHNoaXBwZWQKIyBUaGlzIHRlc3QgdXNlZCB0byBkZW1hbmQgYWxsIDE1IHBsYW50ZWQgZGVmZWN0cyBiZSByZXBvcnRlZC4gVGhhdCBiZWNhbWUKIyB1bnNhdGlzZmlhYmxlIHRoZSBkYXkgdGhlIHNoaXAgZ2F0ZSBleGNsdWRlZCBtZXRob2RvbG9neSBydWxlcywgYW5kIHRoZQojIGZhaWx1cmUgdGhlbiBtZWFzdXJlZCB0aGUgcG9saWN5LCBub3QgdGhlIGVuZ2luZSAtLSBzbyBpdCB3YXMgYSB0ZXN0IHRoYXQKIyBjb3VsZCBuZXZlciBwYXNzIGFuZCB0YXVnaHQgdXMgbm90aGluZy4KIwojIEl0IG5vdyBhc3NlcnRzIHdoYXQgdGhlIHByb2R1Y3QgYWN0dWFsbHkgcHJvbWlzZXM6IGV2ZXJ5IFNISVBQRUQgcnVsZQojIGZpcmVzIG9uIGl0cyBwbGFudGVkIGRlZmVjdC4gVGhlIGZ1bGwtc2V0IHJlY2FsbCBpcyBzdGlsbCBtZWFzdXJlZCBhbmQKIyBwcmludGVkIGJlbG93IGFzIHJlc2VhcmNoIGRhdGEsIHNvIHRoZSBnYXAgc3RheXMgdmlzaWJsZSBpbnN0ZWFkIG9mIGJlaW5nCiMgYXNzZXJ0ZWQgYXdheS4KZnJvbSBldmFsZ3VhcmQuY2xhc3NlcyBpbXBvcnQgU1lOVEFYCgpyZXN1bHRzID0gW10KCmRlZiBjaGVjayhuYW1lLCBmbik6CiAgICB0cnk6CiAgICAgICAgZm4oKTsgcmVzdWx0cy5hcHBlbmQoKG5hbWUsICJQQVNTIiwgIiIpKQogICAgZXhjZXB0IEFzc2VydGlvbkVycm9yIGFzIGU6CiAgICAgICAgcmVzdWx0cy5hcHBlbmQoKG5hbWUsICJGQUlMIiwgc3RyKGUpKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICByZXN1bHRzLmFwcGVuZCgobmFtZSwgIkVSUk9SIiwgZiJ7dHlwZShlKS5fX25hbWVfX306IHtlfSIpKQoKZGVmIHNjYW4obik6CiAgICByZXR1cm4ge3JbImVnX2lkIl06IHJbInNldmVyaXR5Il0gZm9yIHIgaW4gY2xpLnNjYW4oc3RyKEhFUkUgLyBuKSl9CgpkZWYgdF9wb3NpdGl2ZSgpOgogICAgIiIiRXZlcnkgcnVsZSB3ZSBzZWxsIG11c3QgZmlyZSBvbiB0aGUgZGVmZWN0IHBsYW50ZWQgZm9yIGl0LiIiIgogICAgaCA9IHNjYW4oInBsYW50ZWRfZXZhbC5weSIpCiAgICBzZWxsYWJsZSA9IFtlIGZvciBlIGluIFBMQU5URUQgaWYgZSBpbiBTWU5UQVhdCiAgICBtaXNzaW5nID0gW2UgZm9yIGUgaW4gc2VsbGFibGUgaWYgZSBub3QgaW4gaF0KICAgIGFzc2VydCBtaXNzaW5nID09IFtdLCBmInNoaXBwZWQgcnVsZXMgbWlzc2VkIHBsYW50ZWQgZGVmZWN0czoge21pc3Npbmd9IgogICAgY2F1Z2h0X2FsbCA9IFtlIGZvciBlIGluIFBMQU5URUQgaWYgZSBpbiBoXQogICAgcHJpbnQoZiIgICAgKHNoaXBwZWQgcmVjYWxsIHtsZW4oc2VsbGFibGUpLWxlbihtaXNzaW5nKX0ve2xlbihzZWxsYWJsZSl9OyAiCiAgICAgICAgICBmImZ1bGwtc2V0IHJlY2FsbCB7bGVuKGNhdWdodF9hbGwpfS97bGVuKFBMQU5URUQpfSDigJQgdGhlIGdhcCBpcyB0aGUgIgogICAgICAgICAgZiJleHAxMzQgbWV0aG9kb2xvZ3kgZXhjbHVzaW9uLCBub3QgYW4gZW5naW5lIHJlZ3Jlc3Npb24pIikKCmRlZiB0X25lZ2F0aXZlKCk6CiAgICBoID0gc2NhbigiY2xlYW5fZXZhbC5weSIpCiAgICBub2lzeSA9IHtrOiB2IGZvciBrLCB2IGluIGguaXRlbXMoKSBpZiB2IGluICgiYmxvY2tlciIsICJ3YXJuIil9CiAgICBhc3NlcnQgbm9pc3kgPT0ge30sIGYiZmFsc2UgcG9zaXRpdmVzIG9uIGNsZWFuIGNvZGU6IHtub2lzeX0iCgpkZWYgdF9kb3R0ZWQoKToKICAgIHMgPSBydWxlcy5fY29kZV9vbmx5KCJyID0gcmVxdWVzdHMuZ2V0KHUpICAjIGJhc2VsaW5lXG4iKQogICAgYXNzZXJ0ICJyZXF1ZXN0cy5nZXQiIGluIHMsICJkb3R0ZWQgbmFtZSBkZXN0cm95ZWQgYnkgdG9rZW4gam9pbiIKICAgIGFzc2VydCAiYmFzZWxpbmUiIG5vdCBpbiBzLCAiY29tbWVudCBsZWFrZWQgaW50byBjb2RlIHZpZXciCgpkZWYgdF9zdHJpbmdzKCk6CiAgICBhc3NlcnQgImFyY2hpdmVkIiBub3QgaW4gcnVsZXMuX2NvZGVfb25seSgncHJpbnQoInNhdmVkIGFuZCBhcmNoaXZlZCIpXG4nKQoKZGVmIHRfc3ludGF4KCk6CiAgICBhc3NlcnQgYW55KHJbImVnX2lkIl0gPT0gIkVHMDAwIiBmb3IgciBpbiBjbGkuc2NhbihzdHIoSEVSRSAvICJicm9rZW5fc3ludGF4LnB5IikpKQoKZGVmIHRfZXhpdGNvZGUoKToKICAgIGFzc2VydCBjbGkubWFpbihbIi0tZm9ybWF0IiwianNvbiIsc3RyKEhFUkUvInBsYW50ZWRfZXZhbC5weSIpXSkgPT0gMAogICAgYXNzZXJ0IGNsaS5tYWluKFtzdHIoSEVSRS8icGxhbnRlZF9ldmFsLnB5IildKSA9PSAxCiAgICBhc3NlcnQgY2xpLm1haW4oW3N0cihIRVJFLyJjbGVhbl9ldmFsLnB5IildKSA9PSAwCgpmb3IgbiwgZiBpbiBbKCJwb3NpdGl2ZSBjb250cm9sOiBwbGFudGVkIGRlZmVjdHMgY2F1Z2h0IiwgdF9wb3NpdGl2ZSksCiAgICAgICAgICAgICAoIm5lZ2F0aXZlIGNvbnRyb2w6IGNsZWFuIGZpeHR1cmUgc2lsZW50IiwgdF9uZWdhdGl2ZSksCiAgICAgICAgICAgICAoInJlZ3Jlc3Npb246IGRvdHRlZCBuYW1lcyBzdXJ2aXZlIHN0cmlwIiwgdF9kb3R0ZWQpLAogICAgICAgICAgICAgKCJyZWdyZXNzaW9uOiBzdHJpbmdzIHN0cmlwcGVkIiwgdF9zdHJpbmdzKSwKICAgICAgICAgICAgICgic3ludGF4IGVycm9yIHJlcG9ydGVkLCBub3QgY3Jhc2hlZCIsIHRfc3ludGF4KSwKICAgICAgICAgICAgICgiZXhpdCBjb2RlOiAxIG9ubHkgb24gYmxvY2tlciIsIHRfZXhpdGNvZGUpXToKICAgIGNoZWNrKG4sIGYpCgp3ID0gbWF4KGxlbihyWzBdKSBmb3IgciBpbiByZXN1bHRzKQpmb3Igbiwgc3QsIG1zZyBpbiByZXN1bHRzOgogICAgcHJpbnQoZiIgIFt7c3Q6NX1dIHtuOjx7d319ICB7bXNnfSIpCm5wYXNzID0gc3VtKDEgZm9yIHIgaW4gcmVzdWx0cyBpZiByWzFdID09ICJQQVNTIikKcHJpbnQoZiJcbntucGFzc30ve2xlbihyZXN1bHRzKX0gcGFzc2VkIikKc3lzLmV4aXQoMCBpZiBucGFzcyA9PSBsZW4ocmVzdWx0cykgZWxzZSAxKQo=
+#!/usr/bin/env python3
+"""Zero-dependency test runner (pytest is not installable in this sandbox:
+pypi.org returns 403). Same assertions, no framework."""
+import pathlib, sys
+HERE = pathlib.Path(__file__).parent
+sys.path.insert(0, str(HERE.parent.parent))          # -> overseas/
+from evalguard import cli, rules
+
+PLANTED = ("EG001","EG002","EG003","EG004","EG005","EG006","EG007","EG008",
+           "EG009","EG011","EG012","EG013","EG014","EG015","EG016")
+
+# exp134 split the rule set in two and only one half is shipped:
+#   syntax rules       15/16 strict true  (93.8%)   -> shipped
+#   methodology rules   1/29 strict true  ( 3.4%)   -> NOT shipped
+# This test used to demand all 15 planted defects be reported. That became
+# unsatisfiable the day the ship gate excluded methodology rules, and the
+# failure then measured the policy, not the engine -- so it was a test that
+# could never pass and taught us nothing.
+#
+# It now asserts what the product actually promises: every SHIPPED rule
+# fires on its planted defect. The full-set recall is still measured and
+# printed below as research data, so the gap stays visible instead of being
+# asserted away.
+from evalguard.classes import SYNTAX
+
+results = []
+
+def check(name, fn):
+    try:
+        fn(); results.append((name, "PASS", ""))
+    except AssertionError as e:
+        results.append((name, "FAIL", str(e)))
+    except Exception as e:
+        results.append((name, "ERROR", f"{type(e).__name__}: {e}"))
+
+def scan(n):
+    return {r["eg_id"]: r["severity"] for r in cli.scan(str(HERE / n))}
+
+def t_positive():
+    """Every rule we sell must fire on the defect planted for it."""
+    h = scan("planted_eval.py")
+    sellable = [e for e in PLANTED if e in SYNTAX]
+    missing = [e for e in sellable if e not in h]
+    assert missing == [], f"shipped rules missed planted defects: {missing}"
+    caught_all = [e for e in PLANTED if e in h]
+    print(f"    (shipped recall {len(sellable)-len(missing)}/{len(sellable)}; "
+          f"full-set recall {len(caught_all)}/{len(PLANTED)} — the gap is the "
+          f"exp134 methodology exclusion, not an engine regression)")
+
+def t_negative():
+    h = scan("clean_eval.py")
+    noisy = {k: v for k, v in h.items() if v in ("blocker", "warn")}
+    assert noisy == {}, f"false positives on clean code: {noisy}"
+
+def t_dotted():
+    s = rules._code_only("r = requests.get(u)  # baseline\n")
+    assert "requests.get" in s, "dotted name destroyed by token join"
+    assert "baseline" not in s, "comment leaked into code view"
+
+def t_strings():
+    assert "archived" not in rules._code_only('print("saved and archived")\n')
+
+def t_syntax():
+    assert any(r["eg_id"] == "EG000" for r in cli.scan(str(HERE / "broken_syntax.py")))
+
+def t_exitcode():
+    assert cli.main(["--format","json",str(HERE/"planted_eval.py")]) == 0
+    assert cli.main([str(HERE/"planted_eval.py")]) == 1
+    assert cli.main([str(HERE/"clean_eval.py")]) == 0
+
+for n, f in [("positive control: planted defects caught", t_positive),
+             ("negative control: clean fixture silent", t_negative),
+             ("regression: dotted names survive strip", t_dotted),
+             ("regression: strings stripped", t_strings),
+             ("syntax error reported, not crashed", t_syntax),
+             ("exit code: 1 only on blocker", t_exitcode)]:
+    check(n, f)
+
+w = max(len(r[0]) for r in results)
+for n, st, msg in results:
+    print(f"  [{st:5}] {n:<{w}}  {msg}")
+npass = sum(1 for r in results if r[1] == "PASS")
+print(f"\n{npass}/{len(results)} passed")
+sys.exit(0 if npass == len(results) else 1)

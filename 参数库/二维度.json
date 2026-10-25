@@ -1,1 +1,27 @@
-ewogIuaxieWtlyI6IHsKICAi6ZW/5a695q+U5Z2H5YC8IjogMS4xMTUsCiAgIuS4reS9jSI6IDEuMDk4LAogICLmnIDlsI8iOiAxLjA4NCwKICAi5pyA5aSnIjogMS4xODQKIH0sCiAi6Iux5paHIjogewogICLplb/lrr3mr5TlnYflgLwiOiAzLjA4NSwKICAi5Lit5L2NIjogMy4wNTEsCiAgIuacgOWwjyI6IDEuOTU3LAogICLmnIDlpKciOiAzLjk3MgogfSwKICLku6PnoIEiOiB7CiAgIumVv+WuveavlOWdh+WAvCI6IDQuODg1LAogICLkuK3kvY0iOiA0LjY2NiwKICAi5pyA5bCPIjogMi42NDYsCiAgIuacgOWkpyI6IDcuODU1CiB9LAogIuWeguebtOWMuuWIhuWKmyI6IHsKICAi5rGJ5a2XIjogMC42OTUsCiAgIuiLseaWhyI6IDAuNDAyLAogICLku6PnoIEiOiAwLjU1MywKICAi5rGJ5a2XL+iLseaWhyI6IDEuNzI5LAogICLmsYnlrZcv5Luj56CBIjogMS4yNTcKIH0KfQ==
+{
+ "汉字": {
+  "长宽比均值": 1.115,
+  "中位": 1.098,
+  "最小": 1.084,
+  "最大": 1.184
+ },
+ "英文": {
+  "长宽比均值": 3.085,
+  "中位": 3.051,
+  "最小": 1.957,
+  "最大": 3.972
+ },
+ "代码": {
+  "长宽比均值": 4.885,
+  "中位": 4.666,
+  "最小": 2.646,
+  "最大": 7.855
+ },
+ "垂直区分力": {
+  "汉字": 0.695,
+  "英文": 0.402,
+  "代码": 0.553,
+  "汉字/英文": 1.729,
+  "汉字/代码": 1.257
+ }
+}

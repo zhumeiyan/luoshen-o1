@@ -1,1 +1,67 @@
-IiIiCk1lYXN1cmluZyBNYXRoZW1hdGljYWwgUHJvYmxlbSBTb2x2aW5nIFdpdGggdGhlIE1BVEggRGF0YXNldApEYW4gSGVuZHJ5Y2tzLCBDb2xsaW4gQnVybnMsIFNhdXJhdiBLYWRhdmF0aCwgQWt1bCBBcm9yYSwgU3RldmVuIEJhc2FydCwgRXJpYyBUYW5nLCBEYXduIFNvbmcsIEphY29iIFN0ZWluaGFyZHQKaHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzIxMDMuMDM4NzQKIiIiCgppbXBvcnQgcmFuZG9tCmltcG9ydCByZQpmcm9tIHR5cGluZyBpbXBvcnQgTGl0ZXJhbAoKaW1wb3J0IHBhbmRhcwoKZnJvbSAuIGltcG9ydCBjb21tb24KZnJvbSAuY29tbW9uIGltcG9ydCBBTlNXRVJfUEFUVEVSTiwgSFRNTF9KSU5KQSwgY2hlY2tfZXF1YWxpdHkKZnJvbSAudHlwZXMgaW1wb3J0IEV2YWwsIEV2YWxSZXN1bHQsIFNhbXBsZXJCYXNlLCBTaW5nbGVFdmFsUmVzdWx0CgpRVUVSWV9URU1QTEFURSA9ICIiIgpTb2x2ZSB0aGUgZm9sbG93aW5nIG1hdGggcHJvYmxlbSBzdGVwIGJ5IHN0ZXAuIFRoZSBsYXN0IGxpbmUgb2YgeW91ciByZXNwb25zZSBzaG91bGQgYmUgb2YgdGhlIGZvcm0gQW5zd2VyOiAkQU5TV0VSICh3aXRob3V0IHF1b3Rlcykgd2hlcmUgJEFOU1dFUiBpcyB0aGUgYW5zd2VyIHRvIHRoZSBwcm9ibGVtLgoKe1F1ZXN0aW9ufQoKUmVtZW1iZXIgdG8gcHV0IHlvdXIgYW5zd2VyIG9uIGl0cyBvd24gbGluZSBhZnRlciAiQW5zd2VyOiIsIGFuZCB5b3UgZG8gbm90IG5lZWQgdG8gdXNlIGEgXFxib3hlZCBjb21tYW5kLgoiIiIuc3RyaXAoKQoKCmNsYXNzIE1hdGhFdmFsKEV2YWwpOgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgZXF1YWxpdHlfY2hlY2tlcjogU2FtcGxlckJhc2UsCiAgICAgICAgbnVtX2V4YW1wbGVzOiBpbnQgfCBOb25lID0gTm9uZSwKICAgICAgICBuX3JlcGVhdHM6IGludCA9IDE2LAogICAgICAgIHNwbGl0OiBMaXRlcmFsWyJtYXRoX3Rlc3QiLCAibWF0aF81MDBfdGVzdCJdID0gIm1hdGhfdGVzdCIsCiAgICApOgogICAgICAgIGRmID0gcGFuZGFzLnJlYWRfY3N2KAogICAgICAgICAgICBmImh0dHBzOi8vb3BlbmFpcHVibGljLmJsb2IuY29yZS53aW5kb3dzLm5ldC9zaW1wbGUtZXZhbHMve3NwbGl0fS5jc3YiCiAgICAgICAgKQogICAgICAgIGV4YW1wbGVzID0gW3Jvdy50b19kaWN0KCkgZm9yIF8sIHJvdyBpbiBkZi5pdGVycm93cygpXQogICAgICAgIGlmIG51bV9leGFtcGxlczoKICAgICAgICAgICAgYXNzZXJ0IG5fcmVwZWF0cyA9PSAxLCAibl9yZXBlYXRzIG9ubHkgc3VwcG9ydGVkIGZvciBudW1fZXhhbXBsZXMgPSBOb25lIgogICAgICAgICAgICBybmcgPSByYW5kb20uUmFuZG9tKDApCiAgICAgICAgICAgIGV4YW1wbGVzID0gcm5nLnNhbXBsZShleGFtcGxlcywgbnVtX2V4YW1wbGVzKQogICAgICAgIHNlbGYuZXhhbXBsZXMgPSBleGFtcGxlcyAqIG5fcmVwZWF0cwogICAgICAgIHNlbGYuZXF1YWxpdHlfY2hlY2tlciA9IGVxdWFsaXR5X2NoZWNrZXIKCiAgICBkZWYgX19jYWxsX18oc2VsZiwgc2FtcGxlcjogU2FtcGxlckJhc2UpIC0+IEV2YWxSZXN1bHQ6CiAgICAgICAgZGVmIGZuKHJvdzogZGljdCk6CiAgICAgICAgICAgIHByb21wdF9tZXNzYWdlcyA9IFsKICAgICAgICAgICAgICAgIHNhbXBsZXIuX3BhY2tfbWVzc2FnZShjb250ZW50PVFVRVJZX1RFTVBMQVRFLmZvcm1hdCgqKnJvdyksIHJvbGU9InVzZXIiKQogICAgICAgICAgICBdCiAgICAgICAgICAgIHNhbXBsZXJfcmVzcG9uc2UgPSBzYW1wbGVyKHByb21wdF9tZXNzYWdlcykKICAgICAgICAgICAgcmVzcG9uc2VfdGV4dCA9IHNhbXBsZXJfcmVzcG9uc2UucmVzcG9uc2VfdGV4dAogICAgICAgICAgICBhY3R1YWxfcXVlcmllZF9wcm9tcHRfbWVzc2FnZXMgPSBzYW1wbGVyX3Jlc3BvbnNlLmFjdHVhbF9xdWVyaWVkX21lc3NhZ2VfbGlzdAogICAgICAgICAgICBtYXRjaCA9IHJlLnNlYXJjaChBTlNXRVJfUEFUVEVSTiwgcmVzcG9uc2VfdGV4dCkKICAgICAgICAgICAgZXh0cmFjdGVkX2Fuc3dlciA9IG1hdGNoLmdyb3VwKDEpIGlmIG1hdGNoIGVsc2UgTm9uZQogICAgICAgICAgICBzY29yZSA9IGZsb2F0KGNoZWNrX2VxdWFsaXR5KHNlbGYuZXF1YWxpdHlfY2hlY2tlciwgcm93WyJBbnN3ZXIiXSwgZXh0cmFjdGVkX2Fuc3dlcikpCiAgICAgICAgICAgIGh0bWwgPSBjb21tb24uamluamFfZW52LmZyb21fc3RyaW5nKEhUTUxfSklOSkEpLnJlbmRlcigKICAgICAgICAgICAgICAgIHByb21wdF9tZXNzYWdlcz1hY3R1YWxfcXVlcmllZF9wcm9tcHRfbWVzc2FnZXMsCiAgICAgICAgICAgICAgICBuZXh0X21lc3NhZ2U9ZGljdChjb250ZW50PXJlc3BvbnNlX3RleHQsIHJvbGU9ImFzc2lzdGFudCIpLAogICAgICAgICAgICAgICAgc2NvcmU9c2NvcmUsCiAgICAgICAgICAgICAgICBjb3JyZWN0X2Fuc3dlcj1yb3dbIkFuc3dlciJdLAogICAgICAgICAgICAgICAgZXh0cmFjdGVkX2Fuc3dlcj1leHRyYWN0ZWRfYW5zd2VyLAogICAgICAgICAgICApCiAgICAgICAgICAgIGNvbnZvID0gYWN0dWFsX3F1ZXJpZWRfcHJvbXB0X21lc3NhZ2VzICsgW2RpY3QoY29udGVudD1yZXNwb25zZV90ZXh0LCByb2xlPSJhc3Npc3RhbnQiKV0KICAgICAgICAgICAgcmV0dXJuIFNpbmdsZUV2YWxSZXN1bHQoaHRtbD1odG1sLCBzY29yZT1zY29yZSwgY29udm89Y29udm8pCgogICAgICAgIHJlc3VsdHMgPSBjb21tb24ubWFwX3dpdGhfcHJvZ3Jlc3MoZm4sIHNlbGYuZXhhbXBsZXMpCiAgICAgICAgcmV0dXJuIGNvbW1vbi5hZ2dyZWdhdGVfcmVzdWx0cyhyZXN1bHRzKQo=
+"""
+Measuring Mathematical Problem Solving With the MATH Dataset
+Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt
+https://arxiv.org/abs/2103.03874
+"""
+
+import random
+import re
+from typing import Literal
+
+import pandas
+
+from . import common
+from .common import ANSWER_PATTERN, HTML_JINJA, check_equality
+from .types import Eval, EvalResult, SamplerBase, SingleEvalResult
+
+QUERY_TEMPLATE = """
+Solve the following math problem step by step. The last line of your response should be of the form Answer: $ANSWER (without quotes) where $ANSWER is the answer to the problem.
+
+{Question}
+
+Remember to put your answer on its own line after "Answer:", and you do not need to use a \\boxed command.
+""".strip()
+
+
+class MathEval(Eval):
+    def __init__(
+        self,
+        equality_checker: SamplerBase,
+        num_examples: int | None = None,
+        n_repeats: int = 16,
+        split: Literal["math_test", "math_500_test"] = "math_test",
+    ):
+        df = pandas.read_csv(
+            f"https://openaipublic.blob.core.windows.net/simple-evals/{split}.csv"
+        )
+        examples = [row.to_dict() for _, row in df.iterrows()]
+        if num_examples:
+            assert n_repeats == 1, "n_repeats only supported for num_examples = None"
+            rng = random.Random(0)
+            examples = rng.sample(examples, num_examples)
+        self.examples = examples * n_repeats
+        self.equality_checker = equality_checker
+
+    def __call__(self, sampler: SamplerBase) -> EvalResult:
+        def fn(row: dict):
+            prompt_messages = [
+                sampler._pack_message(content=QUERY_TEMPLATE.format(**row), role="user")
+            ]
+            sampler_response = sampler(prompt_messages)
+            response_text = sampler_response.response_text
+            actual_queried_prompt_messages = sampler_response.actual_queried_message_list
+            match = re.search(ANSWER_PATTERN, response_text)
+            extracted_answer = match.group(1) if match else None
+            score = float(check_equality(self.equality_checker, row["Answer"], extracted_answer))
+            html = common.jinja_env.from_string(HTML_JINJA).render(
+                prompt_messages=actual_queried_prompt_messages,
+                next_message=dict(content=response_text, role="assistant"),
+                score=score,
+                correct_answer=row["Answer"],
+                extracted_answer=extracted_answer,
+            )
+            convo = actual_queried_prompt_messages + [dict(content=response_text, role="assistant")]
+            return SingleEvalResult(html=html, score=score, convo=convo)
+
+        results = common.map_with_progress(fn, self.examples)
+        return common.aggregate_results(results)

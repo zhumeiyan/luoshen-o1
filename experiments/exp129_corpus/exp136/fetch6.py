@@ -1,1 +1,58 @@
-IiIiY29ycHVzNiDigJQgUE9TVC1IT0MgKG5vdCBwcmVyZWdpc3RlcmVkKS4KCmV4cDEzNiBIMSBwcmVkaWN0ZWQgbm9uLWV2YWwgY29kZSB3b3VsZCBmaXJlIG1vcmUgb2Z0ZW4gdGhhbiBldmFsCmZyYW1ld29ya3MuIEl0IGZpcmVkIExFU1MgKDAuMDA5MyB2cyAwLjAyNC9LQikuIEJ1dCBsb29raW5nIGF0IHdoeSwgZXZlcnkKb25lIG9mIHRoZSA5IHBydW5lZCBmaW5kaW5ncyB3YXMgYGV4Y2VwdCBFeGNlcHRpb25gIGluIGEgbWF0dXJlIGxpYnJhcnksCnRocmVlIG9mIHRoZW0gY2FycnlpbmcgYCMgcHlsaW50OiBkaXNhYmxlPWJyb2FkLWV4Y2VwdGAg4oCUIHRoZSBhdXRob3IgaGFkCmFscmVhZHkgbWV0IGEgbGludGVyIGFuZCBleHBsaWNpdGx5IHN1cHByZXNzZWQgaXQuCgpUaGF0IHJlZnJhbWVzIGl0OiBhbGwgZm91ciBjb3Jwb3JhIHNvIGZhciBhcmUgbWF0dXJlLCBoaWdoLXN0YXIgcHJvamVjdHMKdGhhdCBhbHJlYWR5IGhhdmUgbGludCBjdWx0dXJlLiBXZSBoYXZlIG5ldmVyIG1lYXN1cmVkIHRoZSB0b29sIG9uIHRoZQpraW5kIG9mIGNvZGUgdGhhdCBkb2VzIG5vdC4gVGhpcyBjb3JwdXMgdGVzdHMgdGhhdCwgcG9zdC1ob2MsIGFuZCBpcwpsYWJlbGxlZCBhcyBzdWNoLgoiIiIKaW1wb3J0IGpzb24sIHN1YnByb2Nlc3MsIHBhdGhsaWIsIGJhc2U2NCwgcmFuZG9tCgpUT0sgPSBwYXRobGliLlBhdGgoIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xLy5hdXRoL2doX3Rva2VuIikucmVhZF90ZXh0KCkuc3RyaXAoKQpPVVQgPSBwYXRobGliLlBhdGgoImNvcnB1czYiKTsgT1VULm1rZGlyKGV4aXN0X29rPVRydWUpCkVYQ0wgPSAoInRlc3QiLCJfX2luaXRfXyIsInZlbmRvciIsImNvbnRyaWIiLCJleGFtcGxlIiwiY29tcGF0IiwiX2NvbXBhdCIsIm1pZ3JhdGlvbnMiKQoKZGVmIGdoKHApOgogICAgciA9IHN1YnByb2Nlc3MucnVuKFsiY3VybCIsIi1zIiwiLUgiLGYiQXV0aG9yaXphdGlvbjogQmVhcmVyIHtUT0t9IiwKICAgICAgICAiLUgiLCJBY2NlcHQ6IGFwcGxpY2F0aW9uL3ZuZC5naXRodWIranNvbiIsCiAgICAgICAgZiJodHRwczovL2FwaS5naXRodWIuY29te3B9Il0sIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgdGltZW91dD02MCkKICAgIHRyeTogcmV0dXJuIGpzb24ubG9hZHMoci5zdGRvdXQpCiAgICBleGNlcHQgRXhjZXB0aW9uOiByZXR1cm4gTm9uZQoKcSA9ICJsYW5ndWFnZTpweXRob24rc3RhcnM6NS4uMTUwIgpzID0gZ2goZiIvc2VhcmNoL3JlcG9zaXRvcmllcz9xPXtxfSZzb3J0PXVwZGF0ZWQmb3JkZXI9ZGVzYyZwZXJfcGFnZT00MCIpCml0ZW1zID0gcy5nZXQoIml0ZW1zIiwgW10pIGlmIGlzaW5zdGFuY2UocywgZGljdCkgZWxzZSBbXQpwcmludCgic2VhcmNoIGhpdHMiLCBsZW4oaXRlbXMpKQoKcm5nID0gcmFuZG9tLlJhbmRvbSgxMzYwKQpwaWNrZWQgPSBbXQpmb3IgaXQgaW4gaXRlbXM6CiAgICBmdWxsID0gaXRbImZ1bGxfbmFtZSJdOyBiciA9IGl0LmdldCgiZGVmYXVsdF9icmFuY2giLCJtYWluIikKICAgIGlmIGxlbihwaWNrZWQpID49IDE0OiBicmVhawogICAgdCA9IGdoKGYiL3JlcG9zL3tmdWxsfS9naXQvdHJlZXMve2JyfT9yZWN1cnNpdmU9MSIpCiAgICBpZiBub3QgaXNpbnN0YW5jZSh0LCBkaWN0KSBvciAidHJlZSIgbm90IGluIHQ6IGNvbnRpbnVlCiAgICBjID0gW3ggZm9yIHggaW4gdFsidHJlZSJdIGlmIHhbInR5cGUiXT09ImJsb2IiIGFuZCB4WyJwYXRoIl0uZW5kc3dpdGgoIi5weSIpCiAgICAgICAgIGFuZCBub3QgYW55KGsgaW4geFsicGF0aCJdLmxvd2VyKCkgZm9yIGsgaW4gRVhDTCkKICAgICAgICAgYW5kIDIwMDAgPD0geC5nZXQoInNpemUiLDApIDw9IDMwMDAwXQogICAgaWYgbm90IGM6IGNvbnRpbnVlCiAgICBybmcuc2h1ZmZsZShjKQogICAgZ290ID0gMAogICAgZm9yIHggaW4gY1s6Ml06CiAgICAgICAgZiA9IGdoKGYiL3JlcG9zL3tmdWxsfS9jb250ZW50cy97eFsncGF0aCddfT9yZWY9e2JyfSIpCiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoZiwgZGljdCkgb3IgImNvbnRlbnQiIG5vdCBpbiBmOiBjb250aW51ZQogICAgICAgIHRyeTogc3JjID0gYmFzZTY0LmI2NGRlY29kZShmWyJjb250ZW50Il0pLmRlY29kZSgidXRmLTgiKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246IGNvbnRpbnVlCiAgICAgICAgaWYgImRlZiAiIG5vdCBpbiBzcmMgYW5kICJjbGFzcyAiIG5vdCBpbiBzcmM6IGNvbnRpbnVlCiAgICAgICAgbmFtZSA9IGZ1bGwucmVwbGFjZSgiLyIsIl9fIikrIl9fIit4WyJwYXRoIl0ucmVwbGFjZSgiLyIsIl8iKQogICAgICAgIChPVVQvbmFtZSkud3JpdGVfdGV4dChzcmMpCiAgICAgICAgcGlja2VkLmFwcGVuZCh7InJlcG8iOmZ1bGwsInN0YXJzIjppdC5nZXQoInN0YXJnYXplcnNfY291bnQiKSwKICAgICAgICAgICAgICAgICAgICAgICAicGF0aCI6eFsicGF0aCJdLCJmaWxlIjpuYW1lLCJieXRlcyI6bGVuKHNyYy5lbmNvZGUoKSl9KQogICAgICAgIGdvdCArPSAxCiAgICBpZiBnb3Q6IHByaW50KGYiW3tmdWxsfV0gc3RhcnM9e2l0LmdldCgnc3RhcmdhemVyc19jb3VudCcpfSAre2dvdH0iKQpwYXRobGliLlBhdGgoIm1hbmlmZXN0Ni5qc29uIikud3JpdGVfdGV4dChqc29uLmR1bXBzKHBpY2tlZCxpbmRlbnQ9MSkpCnByaW50KCJUT1RBTCIsbGVuKHBpY2tlZCksImZpbGVzIixzdW0ocFsnYnl0ZXMnXSBmb3IgcCBpbiBwaWNrZWQpLCJieXRlcyIpCg==
+"""corpus6 — POST-HOC (not preregistered).
+
+exp136 H1 predicted non-eval code would fire more often than eval
+frameworks. It fired LESS (0.0093 vs 0.024/KB). But looking at why, every
+one of the 9 pruned findings was `except Exception` in a mature library,
+three of them carrying `# pylint: disable=broad-except` — the author had
+already met a linter and explicitly suppressed it.
+
+That reframes it: all four corpora so far are mature, high-star projects
+that already have lint culture. We have never measured the tool on the
+kind of code that does not. This corpus tests that, post-hoc, and is
+labelled as such.
+"""
+import json, subprocess, pathlib, base64, random
+
+TOK = pathlib.Path("/data/workspace/luoshen-o1/.auth/gh_token").read_text().strip()
+OUT = pathlib.Path("corpus6"); OUT.mkdir(exist_ok=True)
+EXCL = ("test","__init__","vendor","contrib","example","compat","_compat","migrations")
+
+def gh(p):
+    r = subprocess.run(["curl","-s","-H",f"Authorization: Bearer {TOK}",
+        "-H","Accept: application/vnd.github+json",
+        f"https://api.github.com{p}"], capture_output=True, text=True, timeout=60)
+    try: return json.loads(r.stdout)
+    except Exception: return None
+
+q = "language:python+stars:5..150"
+s = gh(f"/search/repositories?q={q}&sort=updated&order=desc&per_page=40")
+items = s.get("items", []) if isinstance(s, dict) else []
+print("search hits", len(items))
+
+rng = random.Random(1360)
+picked = []
+for it in items:
+    full = it["full_name"]; br = it.get("default_branch","main")
+    if len(picked) >= 14: break
+    t = gh(f"/repos/{full}/git/trees/{br}?recursive=1")
+    if not isinstance(t, dict) or "tree" not in t: continue
+    c = [x for x in t["tree"] if x["type"]=="blob" and x["path"].endswith(".py")
+         and not any(k in x["path"].lower() for k in EXCL)
+         and 2000 <= x.get("size",0) <= 30000]
+    if not c: continue
+    rng.shuffle(c)
+    got = 0
+    for x in c[:2]:
+        f = gh(f"/repos/{full}/contents/{x['path']}?ref={br}")
+        if not isinstance(f, dict) or "content" not in f: continue
+        try: src = base64.b64decode(f["content"]).decode("utf-8")
+        except Exception: continue
+        if "def " not in src and "class " not in src: continue
+        name = full.replace("/","__")+"__"+x["path"].replace("/","_")
+        (OUT/name).write_text(src)
+        picked.append({"repo":full,"stars":it.get("stargazers_count"),
+                       "path":x["path"],"file":name,"bytes":len(src.encode())})
+        got += 1
+    if got: print(f"[{full}] stars={it.get('stargazers_count')} +{got}")
+pathlib.Path("manifest6.json").write_text(json.dumps(picked,indent=1))
+print("TOTAL",len(picked),"files",sum(p['bytes'] for p in picked),"bytes")

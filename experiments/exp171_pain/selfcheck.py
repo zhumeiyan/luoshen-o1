@@ -1,1 +1,116 @@
-IiIi5LiK5bGP6Ieq5qOA77ya5YaZIC9kZXYvZmIwIC0+IOWQjOi/m+eoi+eri+WNs+WbnumHhyAtPiDpgJDkvY3mr5Tlr7kgLT4gT0NSIOeLrOeri+ivu+WHuiIiIgppbXBvcnQgb3MsIHN1YnByb2Nlc3MsIGhhc2hsaWIsIGpzb24sIHN5cwoKRkIgPSAiL2Rldi9mYjAiClcsIEgsIEJQUCA9IDEwMjQsIDc2OCwgNApTSVpFID0gVyAqIEggKiBCUFAKVE9LRU4gPSAiSzdNNFFYIgoKTElORVMgPSBbCiAgICAiRVhQMTcxICBMRUktUEFJTiAgU0VMRlRFU1QiLAogICAgIiIsCiAgICAiQ0hBTk5FTCAgU0VMRUNUICAgKGNvbnNlcXVlbmNlIHgxMCkiLAogICAgIiAgbG9hZDEgICAxLjM2LTEuMzkgICBCTElORCIsCiAgICAiICBjdHh0ICAgIDYxNjYwLTgwNTg5IEJMSU5EIiwKICAgICIgIG5pdmNzdyAgc2F0IGF0IDUgICAgU0FUVVJBVEVEIiwKICAgICIgIGR3YWl0ICAgMC03Ni41IG1zICAgT0sgPSBMQVRFTkNZIiwKICAgICIiLAogICAgIkRFQlQgIDM1NC4xOCBtcyAgY3VtLCBubyByb2xsYmFjayIsCiAgICAiTEFUICAgMTkuNDcgLT4gNy42MCBtcyAgcmVjb3ZlcmVkIiwKICAgICIiLAogICAgIkhBQklUVUFUSU9OICgyIHJlcHMsIGlkZW50aWNhbCkiLAogICAgIiAgQSBodXJ0ZnVsICBGSVggMS4wMCAgQURBUFQgMC4zMyIsCiAgICAiICBCIGhhcm1sZXNzIEZJWCAxLjAwICBBREFQVCAwLjAwIiwKICAgICIiLAogICAgIk5FR0FUSVZFOiBtZW0gZGVhZCwgaW8gd2VhayIsCiAgICBmIlRPS0VOIHtUT0tFTn0iLApdCgp0cnk6CiAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CiAgICBIQVZFX1BJTCA9IFRydWUKZXhjZXB0IEV4Y2VwdGlvbjoKICAgIEhBVkVfUElMID0gRmFsc2UKCmlmIEhBVkVfUElMOgogICAgaW1nID0gSW1hZ2UubmV3KCJSR0IiLCAoVywgSCksICgyNTUsIDI1NSwgMjU1KSkKICAgIGQgPSBJbWFnZURyYXcuRHJhdyhpbWcpCiAgICBmcCA9ICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL3dxeS93cXktbWljcm9oZWkudHRjIgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGZwKToKICAgICAgICBjYW5kcyA9IHN1YnByb2Nlc3MucnVuKCJmYy1saXN0IHwgZ3JlcCAtaSAtRSAnd3F5fG1pY3JvfGhlaScgfCBoZWFkIC01IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoZWxsPVRydWUsIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSkuc3Rkb3V0CiAgICAgICAgZm9yIGMgaW4gY2FuZHMuc3BsaXQoIlxuIik6CiAgICAgICAgICAgIGlmIGMuc3RyaXAoKToKICAgICAgICAgICAgICAgIGZwID0gYy5zcGxpdCgiOiIpWzBdLnN0cmlwKCkKICAgICAgICAgICAgICAgIGJyZWFrCiAgICB0cnk6CiAgICAgICAgZiA9IEltYWdlRm9udC50cnVldHlwZShmcCwgMjYpCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGYgPSBJbWFnZUZvbnQubG9hZF9kZWZhdWx0KCkKICAgIHkgPSA0MAogICAgZm9yIGxuIGluIExJTkVTOgogICAgICAgIGQudGV4dCgoNDAsIHkpLCBsbiwgZmlsbD0oMCwgMCwgMCksIGZvbnQ9ZikKICAgICAgICB5ICs9IDM4CiAgICAjIHJnYmEgLT4gYmdyYQogICAgcmF3ID0gYnl0ZWFycmF5KGltZy5jb252ZXJ0KCJSR0JBIikudG9ieXRlcygpKQogICAgcmF3WzA6OjRdLCByYXdbMjo6NF0gPSByYXdbMjo6NF1bOl0sIHJhd1swOjo0XVs6XQogICAgcmF3WzA6OjRdID0gYnl0ZWFycmF5KHJhd1swOjo0XSkKICAgIGJncmEgPSBieXRlYXJyYXkoKQogICAgcHggPSBpbWcuY29udmVydCgiUkdCQSIpLnRvYnl0ZXMoKQogICAgZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHB4KSwgNCk6CiAgICAgICAgciwgZywgYiwgYSA9IHB4W2ldLCBweFtpKzFdLCBweFtpKzJdLCBweFtpKzNdCiAgICAgICAgYmdyYSArPSBieXRlcygoYiwgZywgciwgMjU1KSkKICAgIHBheWxvYWQgPSBieXRlcyhiZ3JhKQplbHNlOgogICAgcGF5bG9hZCA9IGIiXHhmZiIgKiBTSVpFCgphc3NlcnQgbGVuKHBheWxvYWQpID09IFNJWkUsIChsZW4ocGF5bG9hZCksIFNJWkUpCgojIOWFs+WFieaghwp0cnk6CiAgICBvcGVuKCIvc3lzL2NsYXNzL2dyYXBoaWNzL2ZiY29uL2N1cnNvcl9ibGluayIsICJ3Iikud3JpdGUoIjAiKQpleGNlcHQgRXhjZXB0aW9uOgogICAgcGFzcwp0cnk6CiAgICBvcGVuKCIvZGV2L3R0eTEiLCAidyIpLndyaXRlKCJcMDMzWz8yNWwiKQpleGNlcHQgRXhjZXB0aW9uOgogICAgcGFzcwoKd2l0aCBvcGVuKEZCLCAid2IiKSBhcyBmOgogICAgZi53cml0ZShwYXlsb2FkKQogICAgb3MuZnN5bmMoZi5maWxlbm8oKSkKCndpdGggb3BlbihGQiwgInJiIikgYXMgZjoKICAgIGJhY2sgPSBmLnJlYWQoU0laRSkKCmlkZW50ID0gKGJhY2sgPT0gcGF5bG9hZCkKZGlmZiA9IHN1bSgxIGZvciBpIGluIHJhbmdlKDAsIFNJWkUsIDk5NykgaWYgYmFja1tpXSAhPSBwYXlsb2FkW2ldKQpzaGEgPSBoYXNobGliLnNoYTI1NihiYWNrKS5oZXhkaWdlc3QoKVs6MTJdCgojIE9DUgpvcy5tYWtlZGlycygiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTcxX3BhaW4iLCBleGlzdF9vaz1UcnVlKQpwbmcgPSAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvZXhwZXJpbWVudHMvZXhwMTcxX3BhaW4vY2FwdHVyZWQucG5nIgppZiBIQVZFX1BJTDoKICAgIGltZzIgPSBJbWFnZS5uZXcoIlJHQiIsIChXLCBIKSkKICAgIHB4MiA9IGJ5dGVhcnJheSgpCiAgICBmb3IgaSBpbiByYW5nZSgwLCBTSVpFLCA0KToKICAgICAgICBiLCBnLCByLCBhID0gYmFja1tpXSwgYmFja1tpKzFdLCBiYWNrW2krMl0sIGJhY2tbaSszXQogICAgICAgIHB4MiArPSBieXRlcygociwgZywgYikpCiAgICBpbWcyLmZyb21ieXRlcyhieXRlcyhweDIpKQogICAgaW1nMi5zYXZlKHBuZykKCm9jciA9ICIiCnRyeToKICAgIHIgPSBzdWJwcm9jZXNzLnJ1bihbInRlc3NlcmFjdCIsIHBuZywgInN0ZG91dCIsICItbCIsICJjaGlfc2ltK2VuZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICItLXBzbSIsICI2Il0sIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgdGltZW91dD0xMjApCiAgICBvY3IgPSByLnN0ZG91dApleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICBvY3IgPSBmIk9DUl9GQUlMIHtlfSIKCmhpdCA9IFRPS0VOIGluIG9jci5yZXBsYWNlKCIgIiwgIiIpLnJlcGxhY2UoIlxuIiwgIiIpCnJlcyA9IHsiaWRlbnRpY2FsIjogaWRlbnQsICJkaWZmX3NhbXBsZSI6IGRpZmYsICJzaGEiOiBzaGEsCiAgICAgICAiYnl0ZXMiOiBTSVpFLCAidG9rZW5faGl0IjogaGl0LCAib2NyIjogb2NyfQpwcmludChqc29uLmR1bXBzKHtrOiB2IGZvciBrLCB2IGluIHJlcy5pdGVtcygpIGlmIGsgIT0gIm9jciJ9LCBpbmRlbnQ9MSkpCnByaW50KCItLS0gT0NSIC0tLSIpCnByaW50KG9jcls6MTUwMF0pCmpzb24uZHVtcChyZXMsIG9wZW4oIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDE3MV9wYWluL3NlbGZjaGVjay5qc29uIiwgInciKSkK
+"""上屏自检：写 /dev/fb0 -> 同进程立即回采 -> 逐位比对 -> OCR 独立读出"""
+import os, subprocess, hashlib, json, sys
+
+FB = "/dev/fb0"
+W, H, BPP = 1024, 768, 4
+SIZE = W * H * BPP
+TOKEN = "K7M4QX"
+
+LINES = [
+    "EXP171  LEI-PAIN  SELFTEST",
+    "",
+    "CHANNEL  SELECT   (consequence x10)",
+    "  load1   1.36-1.39   BLIND",
+    "  ctxt    61660-80589 BLIND",
+    "  nivcsw  sat at 5    SATURATED",
+    "  dwait   0-76.5 ms   OK = LATENCY",
+    "",
+    "DEBT  354.18 ms  cum, no rollback",
+    "LAT   19.47 -> 7.60 ms  recovered",
+    "",
+    "HABITUATION (2 reps, identical)",
+    "  A hurtful  FIX 1.00  ADAPT 0.33",
+    "  B harmless FIX 1.00  ADAPT 0.00",
+    "",
+    "NEGATIVE: mem dead, io weak",
+    f"TOKEN {TOKEN}",
+]
+
+try:
+    from PIL import Image, ImageDraw, ImageFont
+    HAVE_PIL = True
+except Exception:
+    HAVE_PIL = False
+
+if HAVE_PIL:
+    img = Image.new("RGB", (W, H), (255, 255, 255))
+    d = ImageDraw.Draw(img)
+    fp = "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc"
+    if not os.path.exists(fp):
+        cands = subprocess.run("fc-list | grep -i -E 'wqy|micro|hei' | head -5",
+                               shell=True, capture_output=True, text=True).stdout
+        for c in cands.split("\n"):
+            if c.strip():
+                fp = c.split(":")[0].strip()
+                break
+    try:
+        f = ImageFont.truetype(fp, 26)
+    except Exception:
+        f = ImageFont.load_default()
+    y = 40
+    for ln in LINES:
+        d.text((40, y), ln, fill=(0, 0, 0), font=f)
+        y += 38
+    # rgba -> bgra
+    raw = bytearray(img.convert("RGBA").tobytes())
+    raw[0::4], raw[2::4] = raw[2::4][:], raw[0::4][:]
+    raw[0::4] = bytearray(raw[0::4])
+    bgra = bytearray()
+    px = img.convert("RGBA").tobytes()
+    for i in range(0, len(px), 4):
+        r, g, b, a = px[i], px[i+1], px[i+2], px[i+3]
+        bgra += bytes((b, g, r, 255))
+    payload = bytes(bgra)
+else:
+    payload = b"\xff" * SIZE
+
+assert len(payload) == SIZE, (len(payload), SIZE)
+
+# 关光标
+try:
+    open("/sys/class/graphics/fbcon/cursor_blink", "w").write("0")
+except Exception:
+    pass
+try:
+    open("/dev/tty1", "w").write("\033[?25l")
+except Exception:
+    pass
+
+with open(FB, "wb") as f:
+    f.write(payload)
+    os.fsync(f.fileno())
+
+with open(FB, "rb") as f:
+    back = f.read(SIZE)
+
+ident = (back == payload)
+diff = sum(1 for i in range(0, SIZE, 997) if back[i] != payload[i])
+sha = hashlib.sha256(back).hexdigest()[:12]
+
+# OCR
+os.makedirs("/data/workspace/luoshen-o1/experiments/exp171_pain", exist_ok=True)
+png = "/data/workspace/luoshen-o1/experiments/exp171_pain/captured.png"
+if HAVE_PIL:
+    img2 = Image.new("RGB", (W, H))
+    px2 = bytearray()
+    for i in range(0, SIZE, 4):
+        b, g, r, a = back[i], back[i+1], back[i+2], back[i+3]
+        px2 += bytes((r, g, b))
+    img2.frombytes(bytes(px2))
+    img2.save(png)
+
+ocr = ""
+try:
+    r = subprocess.run(["tesseract", png, "stdout", "-l", "chi_sim+eng",
+                        "--psm", "6"], capture_output=True, text=True, timeout=120)
+    ocr = r.stdout
+except Exception as e:
+    ocr = f"OCR_FAIL {e}"
+
+hit = TOKEN in ocr.replace(" ", "").replace("\n", "")
+res = {"identical": ident, "diff_sample": diff, "sha": sha,
+       "bytes": SIZE, "token_hit": hit, "ocr": ocr}
+print(json.dumps({k: v for k, v in res.items() if k != "ocr"}, indent=1))
+print("--- OCR ---")
+print(ocr[:1500])
+json.dump(res, open("/data/workspace/luoshen-o1/experiments/exp171_pain/selfcheck.json", "w"))

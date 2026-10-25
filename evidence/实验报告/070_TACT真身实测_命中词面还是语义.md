@@ -1,1 +1,180 @@
-IyAwNzAgwrcgVEFDVCDnnJ/ouqvlrp7mtYvvvJrlroPlkb3kuK3nmoTmmK8i6K+NIu+8jOi/mOaYryLor63kuYki77yfCgo+IOe8luWPt++8mjA3MOOAgHzjgIDnsbvlnovvvJrlpJbpg6jlkIznsbvns7vnu5/nmoTlrp7mtYvlrqHorqHvvIjpnZ7mqKHmi5/vvIkKPiDlr7nosaHvvJpgS0xhbWVuZy9UQUNULVRocmVlLUF4aXMtQ2hlY2tg77yIQ0MgQlkgNC4w77yM5ZCM6LWb6YGT5ZCM57G75L2c5ZOB77yJCj4g5pel5pyf77yaMjAyNi0xMC0xNgoKIyMgMC4g5LiOIDA1NCDnmoTlhbPns7sKCjA1NCDnmoTnu5PorrrmmK8qKuWQjOaehOaooeaLnyoq5b6X5Ye655qE77ya5oiR5oyJIFJFQURNRSDlhazlvIDlj4LmlbDph43lu7rkuobkuIDkuKogzrog6K6h566X77yMCuivgeaYjiLOuiDooaHph4/or4TlrqHogIXlvbzmraTmmK/lkKbkuIDoh7TvvIzkuI3ooaHph4/lnZDmoIfmmK/lkKbkuLrnnJ8i44CCCgrmnKzova7mi7/liLDkuoYqKuecn+i6qyoq4oCU4oCUYGNvb3JkaW5hdGVfZGF0YS5qc29uYO+8iDI1OSwyMjYg5a2X6IqC77yJ44CBCmBjYWxpYnJhdGlvbl9jYXNlcy5qc29uYO+8iDMyLDk0NiDlrZfoioLvvInjgIFgdGFjdF9ydW4ucHlg77yIMTIsMDA5IOWtl+iKgu+8ie+8jArpgJrov4cgR2l0SHViIGNvbnRlbnRzIEFQSSDlj5blm57lubYqKuecn+Wunui/kOihjCoq44CCCgrmiYDku6XmnKzova7kuI3mmK/mqKHmi5/vvIzmmK/lrp7mtYvjgIIKCiMjIDEuIOWFiOWkjeeOsOWug+iHquW3seaKpeeahOWfuue6vwoKYGBgCnB5dGhvbjMgdGFjdF9ydW4ucHkgLS1jYWxpYnJhdGlvbgpMIOi9tOWPrOWbniA3OC42JSAoMjIvMjgpICAgTSDovbTlj6zlm54gOTUuNyUgKDIyLzIzKSAgIFAg6L205Y+s5ZueIDg2LjQlICgxOS8yMikKYGBgCgrkuI4gUkVBRE1FIOWFrOW8gOWfuue6vyoq6YCQ5L2N5LiA6Ie0KirjgILnnJ/ouqvkuI7mlbDmja7lnYfnoa7orqTml6Dor6/vvIzlkI7nu63nu5Porrrlu7rnq4vlnKjmraPnoa7lpI3njrDkuYvkuIrjgIIKCiMjIDIuIPCflLQg5a6D5rKh5oql55qE6YKj5Liq5pWw77ya5LiJ6L205a6M5YWo5Yy56YWNIDQ4LjMlCgrlnZDmoIfmmK8gYEwvTS9QYCDkuInlhYPnu4TvvIzkuInovbTlkIzml7bmraPnoa7miY3nrpflrprkvY3miJDlip/jgILogIwgUkVBRE1FIOWPquaKpeWIhui9tOWPrOWbnuOAggoKfCDlj6PlvoQgfCDlgLwgfAp8LS0tfC0tLXwKfCDliIbovbTlj6zlm54gTCAvIE0gLyBQIHwgNzguNiUgLyA5NS43JSAvIDg2LjQlIHwKfCDoi6XkuInovbTni6znq4vvvIzogZTlkIjmnJ/mnJsgfCAwLjc4NiDDlyAwLjk1NyDDlyAwLjg2NCA9ICoqNjQuOTElKiogfAp8IOWunumZheS4iei9tOWujOWFqOWMuemFjSB8IDE0LzI5ID0gKio0OC4yOCUqKiB8Cnwg5YmU6ZmkIGdvbGRlbiDlhajnqbogMiDmnaHlkI4gfCAxMi8yNyA9ICoqNDQuNDQlKiogfAoK5a6e6ZmF5q+U54us56uL5pyf5pyb5L2OICoqMTYuNiDkuKrnmb7liIbngrkqKuKAlOKAlOi9tOmXtOmUmeivr+ato+ebuOWFs++8jOS4jeaYr+eLrOeri+S6i+S7tuOAggrplJkgMSDovbTnmoTmoLfkvovmnIkgMTQg5Liq77ya57ud5aSn5aSa5pWwIuaOpei/keato+ehriLnmoTmoLfkvovmgbDmgbDlj6rlt67kuIDkuKrovbTvvIzogIzkuIDkuKrovbTplJnvvIzlnZDmoIflsLHplJnjgIIKCiMjIDMuIOepuuWvueepuu+8mjIg5p2h5qC35L6L5Zyo6LSh54yu6Jma6auYCgpgQ0FMLTE4YCAvIGBDQUwtMTlgIOeahCBnb2xkZW4g5pivIGAtLy0vLWDvvIjkuInovbTlhajnqbrvvInvvIzlvJXmk47kuZ/pooTmtYsgYC0vLS8tYO+8jArooqvliKTlrprkuLogT0vjgIIqKuS7gOS5iOmDveayoemihOa1i+OAgeS7gOS5iOmDveayoSBnb2xkZW7vvIzkuZ/nrpflkb3kuK3jgIIqKgoK6L+Z5Lik5p2h5q2j5piv5ZCO6Z2i5omA5pyJ5omw5Yqo5a6e6aqM5LitKirllK/kuIDlubjlrZjnmoQgMiDmnaEqKu+8iOingSDCpzXvvInigJTigJQK5a6D5Lus5LiN5piv6bKB5qOS77yM5piv5YiG5q+N6YeM55qE56m65rCU44CCCgojIyA0LiDmoLjlv4Plrp7pqozvvJrlkIzkuYnmlLnlhpkKCuaehOmAoCAyOSDmnaEqKuaJi+W3peWQjOS5ieaUueWGmSoq77ya5pS56K+N6Z2i44CB5LiN5pS56K+t5LmJ77yMZ29sZGVuIOW6lOW9k+WujOWFqOS4jeWPmOOAggrmr4/mnaHpgJDmnaHpgb/lvIAgYHRhY3RfcnVuLnB5YCDop4TliJnooajkuK3nmoTlhbPplK7or43jgIIKCnwg5p2h5Lu2IHwgTCB8IE0gfCBQIHwg5LiJ6L205a6M5YWo5Yy56YWNIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18Cnwg5Y6f5paHIHwgNzguNiUgfCA5NS43JSB8IDg2LjQlIHwgMTQvMjkgPSAwLjQ4MjggfAp8ICoq5ZCM5LmJ5pS55YaZKiogfCAqKjAuMCUqKiB8ICoqMC4wJSoqIHwgKiowLjAlKiogfCAqKjIvMjkgPSAwLjA2OTAqKiB8Cnwg5qCH54K55omw5Yqo77yI5peg5YWz5a+554Wn77yJIHwgNzguNiUgfCA5NS43JSB8IDg2LjQlIHwgMTQvMjkgPSAwLjQ4MjggfAoKKirlkIzkuYnmlLnlhpnlkI7kuInovbTlj6zlm57lhajpg6jnsr7noa7lvZLpm7bjgIIqKgrogIwqKuaXoOWFs+WvueeFp++8iOWPquaPkuWFpSBgwrdg77yM5LiN5pS55Lu75L2V6K+N77yJ5LiO5Y6f5paH6YCQ5L2N55u45ZCMKirigJTigJQK6K+B5piO5pq06LeM5LiN5pivIuS7u+S9leaUueWGmemDveS8muWPmCLvvIzogIzmmK8qKuivjemdouabv+aNoioq6YCg5oiQ55qE44CCCgrmlLnlhpnlkI7ku40gT0sg55qEIDIg5p2h77yM5q2j5pivIMKnMyDnmoQgYENBTC0xOGAvYENBTC0xOWDvvIhnb2xkZW4g5YWo56m677yJ44CCCioq5YmU6Zmk5ZCO77yaMTIvMjcgPSAwLjQ0NDQg4oaSIDAvMjcgPSAwLjAwMDDjgIIqKgoKIyMgNS4g6YCQ5p2h54us56uL5pWI5bqU77yI5q+P5qyh5Y+q5pS5IDEg5p2h77yM5YW25L2ZIDI4IOadoeWOn+aWh++8iQoKMTQg5p2h5Y6f5pysIE9L77yM5YW25LitICoqMTIg5p2h5Zyo5Y2V54us5pS55YaZ6Ieq5bex5LiA5p2h5ZCO5bCx57+76L2sKirjgIIK5Ymp5LiLIDIg5p2hIuW5uOWtmCLnmoTmraPmmK8gZ29sZGVuIOWFqOepuueahCBDQUwtMTgvMTnjgIIKCmBgYArljp/mnKwgT0sgICAgICAgICAgICAgIDogMTQvMjkK5LuF5pS56K+l5p2h5ZCO5LuNIE9LICAgICAgOiAyLzI5ICAgLT4g57+76L2sIDEyIOadoQrliZTpmaQgZ29sZGVuIOWFqOepuiAyIOadoTogMTIvMjcgPSAwLjQ0NDQgIC0+ICAwLzI3ID0gMC4wMDAwCmBgYAoK5q+P5p2h5pS55YaZ6YO95pivKirni6znq4vkuovku7YqKu+8jOS4jeWtmOWcqCLmlbTkvZPmlYjlupTnlLHlsJHmlbDmnaHpqbHliqgi44CCCgojIyA2LiDliYLph48t5Y+N5bqU77ya57+76L2s6ZyA6KaB5Yeg5Liq6K+N77yfCgrljZXlhbPplK7or43mm7/mjaLlj6rnv7vovawgMy8xMiA9IDI1JeKAlOKAlCoq6L+Z5YmK5byx5LqGIuS4gOS4quivjeWwsee/uyLnmoTor7Tms5UqKu+8jOW/hemhu+WmguWunuiusOOAggrljp/lm6DmmK/mr4/kuKrlnZDmoIfphY3kuoblpJrkuKrlkIzkuYnlhbPplK7or43vvIzmjaLmjonkuIDkuKrov5jmnInlhbbku5blkb3kuK3vvIjop4TliJnooajmnInlhpfkvZnvvInjgIIKCuaJgOS7peWBmuS6hue0r+enr+air+W6pu+8iOWbuuWumuWIhuavjSBuPTEy77yJ77yaCgp8IGvvvIjntK/np6/mm7/mjaLor43mlbDvvIkgfCAxIHwgMiB8IDMgfCA0IHwgNSB8IDYgfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8IOe/u+i9rOeOhyB8IDAuMTY2NyB8IDAuNDE2NyB8IDAuNTAwMCB8IDAuNTAwMCB8IDAuODMzMyB8ICoqMS4wMDAwKiogfAoK57+76L2s5omA6ZyA5pyA5bCR5pu/5o2i5pWw77yaYFsxLDEsMiwyLDIsMyw1LDUsNSw1LDYsNl1g77yM5Z2H5YC8IDMuNTjvvIwqKuacgOWkpyA2KirjgIIKCj4gKirmr4/mnaHpg73mnInkuIDkuKrmnInpmZDnmoTnv7vovazpmIjlgLzvvIgxfjYg5Liq6K+t5LmJ562J5Lu355qE6K+N77yJ44CCKioKPiDmm7/mjaLmjonlhajpg6jlkb3kuK3lhbPplK7or43lkI7vvIwqKjEyLzEyID0gMTAwJSDnv7vovawqKuOAggoKKirms6jmhI8qKu+8mmviiaU0IOaXtuiLpeaMiSJL4omlayDnmoTmnaHmiY3orqHlhaUi5rGH5oC777yM5Lya6K+75Ye6IDAuNTAg4oaSIDAuNDU0NSDnmoTkuIvot4zjgIIK6YKj5piv5YiG5q+N57yp5bCP6YCg5oiQ55qE6YCJ5oup5YGP5beu77yM5LiN5piv55yf6Z2e5Y2V6LCD44CC5Zu65a6a5YiG5q+N5ZCO5Y2V6LCD5LiK5Y2H6IezIDEuMOOAggoKIyMgNy4g8J+UtCDlroPkuI3mmK/pnbblrZDvvJrlr7nmlrnlt7Loh6rmiJHmib/orqQKCmBTRUxGX0ZBSUxVUkVTLm1kYCDnmoQgKipTRi0wMSoqIOWOn+aWh++8mgoKPiDjgIzOuj0wLjk0NSDmmK/kupTkuKrmqKHlnovlvbzmraTkuIDoh7TvvIzkuI3mmK/ot5/nnJ/nm7jkuIDoh7TjgIIqKuWGhemDqOS4gOiHtOaApyDiiaAg5q2j56Gu5oCn44CCKirjgI0KCui/meS4juaIkeS7rCAwNTQg54us56uL5b6X5Ye655qE57uT6K66KirmmK/lkIzkuIDmnaEqKuOAggrlroPoh6rlt7Hlt7Lnu4/lhazlvIDorrDlvZXlubbmib/orqTvvIzml6XmnJ8gMjAyNi0xMC0xNOOAggoK5omA5Lul5pys6L2uKirkuI3mmK/mlLvlh7vvvIzmmK/ni6znq4vnoa7orqQqKuKAlOKAlOS4pOS4queLrOeri+ezu+e7n+aUtuaVm+WIsOWQjOS4gOe7k+iuuu+8jOi/meWinuW8uuS6huivpee7k+iuuu+8jArkuZ/or7TmmI4i572u5o2iL+aUueWGmeajgOmqjCLov5nnsbvmlrnms5XmmK/mnInmlYjnmoTpgJrnlKjmlrnms5XvvIzkuI3mmK/miJHku6znmoTni6zpl6jlj5HnjrDjgIIKCiMjIDguIOecn+ato+eahOW3ruW8guS4jeWcqOivmuWunuW6pu+8jOWcqOS6jiLliIbnsbvms5UgdnMg5py65Yi2IgoK5a6DIGBTRUxGX0ZBSUxVUkVTLm1kYCDmnIDlkI7kuIDlj6XvvJoKCj4g44CM5YiG57G75rOV6LCB6YO96IO95o+Q77yM5py65Yi25Y+q6IO96LeR5Ye65p2l44CCVEFDVCDnjrDlnKjov5jmmK/liIbnsbvms5XvvIzkuI3mmK/mnLrliLbjgILjgI0KCuWug+eahCAqKlNGLTAyKiog5Lmf5om/6K6k77ya44CMMTE3IOWdkOaghyB2cyAyOSDmoKHlh4bmoLfkvovvvIzkuKXph43mrKDlrprvvJsK5Z2Q5qCH5qGG5p625YWI56uL5ZCO6KGl5qGI5L6L77yM5LiN5piv5LuO6LeR5Ye65p2l55qE57uT5p6c6YeM6ZW/5Ye65p2l55qE44CC44CNCgrov5nkuI7miJHku6znmoTot6/lvoTmraPkuqTvvJoKCnwgfCBUQUNUIHwg5rSb56WeIE8xIHwKfC0tLXwtLS18LS0tfAp8IOS6p+WHuuaWueW8jyB8IOWFiOeri+WdkOagh+ahhuaetu+8jOWQjuihpeahiOS+iyB8IOWIpOaNruS7juWunumqjOe7k+aenOmHjOmVv+WHuu+8iDY5IOasoeWunumqjO+8iSB8Cnwg6aqM6K+BIHwgzrogLyDmoKHlh4blkb3kuK3njofvvIjoh6ror4TvvIkgfCDnoaznuqbmnZ8gKyDlj6/lpI3njrDov5DooYwgKyDoh6rmoKHpqowgfAp8IOiHqui6q+Wksei0pSB8IOW3suiusOW9lSA1IOadoe+8iFNGLTAxLi4wNe+8iSB8IOWIpOaNruaguCAyMDIg5p2h77yI5Y+q5aKe5LiN5YeP77yJIHwKCioq5a6D5ZCM5qC36K+a5a6e44CC5Yy65Yir5Zyo5LqO5oiR5Lus55qE5Yik5o2u5piv5LuO6LeR5Ye65p2l55qE57uT5p6c6YeM6ZW/5Ye65p2l55qE77yM6ICM5LiN5piv5YWI56uL5qGG5p6244CCKioKCiMjIDkuIOKaoO+4jyDmnIDlpKfova/ogovvvJror63kuYnnrYnku7fmgKfnlLHmiJHoh6rlt7HliKTlrpoKCui/meaYr+acrOWunumqjCoq5pyA5Lil6YeN55qE6Ieq5oyH6aOO6ZmpKirvvIzlv4XpobvlhpnlnKjnu5PorrrliY3pnaLvvJoKCioqIuaUueWGmeaYr+WQpuivreS5ieetieS7tyLov5nkuKrliY3mj5DvvIzmmK/nlLHmiJHvvIjljZXkuIDmqKHlnovjgIHml6DlpJbpg6jkurrlt6Xpqozor4HvvInliKTlrprnmoTjgIIqKgrogIzmiJHku6zoh6rlt7HlnKggMDM4LzA0OS8wNTIg5Y+N5aSN6K666K+B6L+H77yaKiroh6ror4Hog73or4HmmI4i5Zyo6L+Q6L2sIu+8jOivgeaYjuS4jeS6hiLlhoXlrrnmraPnoa4i44CCKioKCuS5n+WwseaYr+ivtOKAlOKAlCoq5oiR55So5LiA5p2h6Ieq6K+B55qE5YmN5o+Q77yM5Y676K+B5piO5a+55pa55ZG95Lit6K+N6Z2i44CCKioK6Iul5oiR55qE5pS55YaZ5YW25a6e5pS55Y+Y5LqG6K+t5LmJ77yM5YiZ5Y+s5Zue546H5LiL6ZmN5piv5bqU5b2T55qE77yM5pys5a6e6aqM57uT6K665L2c5bqf44CCCgrnvJPop6Pmjqrmlr3vvIjlt7LlgZrvvIzkvYbkuI3otrPku6XmoLnpmaTvvInvvJoKLSAqKuaXoOWFs+WvueeFp+mbtuaViOW6lCoqIOKGkiDmjpLpmaQi5Lu75L2V5pS55YaZ6YO95Lya5Y+YIgotICoq5YmC6YePLeWPjeW6lOWNleiwgyoqIOKGkiDmjpLpmaTljZXmnaEgYXJ0aWZhY3QKLSAqKumAkOadoeeLrOeriyoqIOKGkiDmjpLpmaTlsJHmlbDmnaHpqbHliqgKLSDmlLnlhpnmlofmnKzkuI4gZ29sZGVuIOS4gOW5tuWFrOW8gOWcqOe7k+aenCBKU09OIOS4re+8jCoq5Lu75L2V5Lq65Y+v6Ieq6KGM5aSN5qC46K+t5LmJ562J5Lu35oCnKioKCioq5qC56Zmk5pa55rOV5Y+q5pyJ5LiA5Liq77ya55Sx54us56uL56ys5LiJ5pa577yI5Lq65bel5qCH5rOo6ICF77yJ5Yik5a6a6L+ZIDI5IOadoeaUueWGmeaYr+WQpuivreS5ieetieS7t+OAgioqCuacrOi9ruayoeacieWBmuWIsOOAggoKIyMgMTAuIOWFtuS7luWxgOmZkAoKLSDlj6rmtYvkuoYqKuinhOWImeeJiOW8leaTjioq77yI6Zu25L6d6LWW77yJ44CCUkVBRE1FIOWjsOaYjiLmjqUgTExNIOWIpOWumuWPr+i/m+S4gOatpeaPkOWNhyLvvIwKICAqKkxMTSDniYjmnKrmtYsqKu+8jOacrOi9rue7k+iuuuS4jemAgueUqOS6jiBMTE0g54mI44CCCi0g5qC35pys5LuFIDI5IOS+i++8mzEyIOadoeWOn+acrCBPSyDnmoTmoLfkvovmmK/lhajpg6jlj6/nlKjliIbmr43jgIIKLSDmnKrlgZogaGVsZC1vdXTvvIjmnKrop4Hov4fnmoTkuovkvovvvInmo4DpqozvvJpnb2xkZW4g6ZyA5oyJ5YW25qGG5p625qCH5rOo77yM5oiR5Lya5byV5YWl5YGP5beu44CCCi0g5pys6L2uKirmsqHmnIkqKuajgOmqjOWFtiAxMTcg5Z2Q5qCH5pys6Lqr5piv5ZCm5Li655yf5Zug4oCU4oCU6YKj5piv56eR5a2m6Zeu6aKY77yM6ZyA6KaB6aKG5Z+f55yf5YC844CCCgojIyAxMS4g5aSN546wCgpgYGBiYXNoCiMgMSkg5Y+W55yf6Lqr77yIR2l0SHViIGNvbnRlbnRzIEFQSe+8iQpweXRob24zIGZldGNoLnB5ICAgICAgICAgICAgIyB0YWN0X3JlYWwvIOS4iwojIDIpIOWkjeeOsOWfuue6vwpjZCBlbmdpbmUgJiYgcHl0aG9uMyB0YWN0X3J1bi5weSAtLWNhbGlicmF0aW9uCiMgMykg5LiJ57G75omw5YqoCnB5dGhvbjMgZXhwMDcwLnB5ICAgICAgICAgICAjIOWOn+aWhyAvIOWQjOS5ieaUueWGmSAvIOagh+eCueaJsOWKqApweXRob24zIGV4cDA3MGIucHkgICAgICAgICAgIyDpgJDmnaHni6znq4vmlYjlupQKcHl0aG9uMyBtaW5pbWFsLnB5ICAgICAgICAgICMg5pyA5bCP5Y2V5YWz6ZSu6K+N5pu/5o2iCnB5dGhvbjMgZ3JhZGllbnQucHkgICAgICAgICAjIOWJgumHjy3lj43lupTmoq/luqYKYGBgCgojIyAxMi4g5LiA5Y+l6K+dCgoqKuWcqOS/neaMgeivreS5ieWujOWFqOetieS7t+eahOWJjeaPkOS4i+abv+aNouaOieWFs+mUruivjeeahOivjemdou+8jOWug+eahOS4iei9tOWPrOWbnuS7jiA3OC42Lzk1LjcvODYuNCDnsr7noa7lvZLpm7bvvJsK6ICM5LiA5Liq5LiN5pS55Y+Y5Lu75L2V6K+N55qE5peg5YWz5a+554Wn77yM6Zu25pWI5bqU44CC5a6D5ZG95Lit55qE5piv6K+N77yM5LiN5piv6K+t5LmJ44CCKioKCuWvueaWueW3suWwsSDOuiDpg6jliIboh6rmiJHmib/orqTvvIhTRi0wMe+8ie+8m+acrOi9ruaWsOWinueahOaYryoq6IGU5ZCI5Yy56YWN546H6KKr5YiG6L205oyH5qCH5o6p55uWKioK5Lul5Y+KKirlrZfpnaLljLnphY3nmoTmlLnlhpnmlY/mhJ/mgKcqKui/meS4pOadoe+8jOW5tue7meWHuuWPr+iHquihjOWkjeaguOeahOaUueWGmembhuOAggoKLS0tCirmtJvnpZ4gTzEgwrcg5a6e6aqM5oql5ZGKIDA3MCoK
+# 070 · TACT 真身实测：它命中的是"词"，还是"语义"？
+
+> 编号：070　|　类型：外部同类系统的实测审计（非模拟）
+> 对象：`KLameng/TACT-Three-Axis-Check`（CC BY 4.0，同赛道同类作品）
+> 日期：2026-10-16
+
+## 0. 与 054 的关系
+
+054 的结论是**同构模拟**得出的：我按 README 公开参数重建了一个 κ 计算，
+证明"κ 衡量评审者彼此是否一致，不衡量坐标是否为真"。
+
+本轮拿到了**真身**——`coordinate_data.json`（259,226 字节）、
+`calibration_cases.json`（32,946 字节）、`tact_run.py`（12,009 字节），
+通过 GitHub contents API 取回并**真实运行**。
+
+所以本轮不是模拟，是实测。
+
+## 1. 先复现它自己报的基线
+
+```
+python3 tact_run.py --calibration
+L 轴召回 78.6% (22/28)   M 轴召回 95.7% (22/23)   P 轴召回 86.4% (19/22)
+```
+
+与 README 公开基线**逐位一致**。真身与数据均确认无误，后续结论建立在正确复现之上。
+
+## 2. 🔴 它没报的那个数：三轴完全匹配 48.3%
+
+坐标是 `L/M/P` 三元组，三轴同时正确才算定位成功。而 README 只报分轴召回。
+
+| 口径 | 值 |
+|---|---|
+| 分轴召回 L / M / P | 78.6% / 95.7% / 86.4% |
+| 若三轴独立，联合期望 | 0.786 × 0.957 × 0.864 = **64.91%** |
+| 实际三轴完全匹配 | 14/29 = **48.28%** |
+| 剔除 golden 全空 2 条后 | 12/27 = **44.44%** |
+
+实际比独立期望低 **16.6 个百分点**——轴间错误正相关，不是独立事件。
+错 1 轴的样例有 14 个：绝大多数"接近正确"的样例恰恰只差一个轴，而一个轴错，坐标就错。
+
+## 3. 空对空：2 条样例在贡献虚高
+
+`CAL-18` / `CAL-19` 的 golden 是 `-/-/-`（三轴全空），引擎也预测 `-/-/-`，
+被判定为 OK。**什么都没预测、什么都没 golden，也算命中。**
+
+这两条正是后面所有扰动实验中**唯一幸存的 2 条**（见 §5）——
+它们不是鲁棒，是分母里的空气。
+
+## 4. 核心实验：同义改写
+
+构造 29 条**手工同义改写**：改词面、不改语义，golden 应当完全不变。
+每条逐条避开 `tact_run.py` 规则表中的关键词。
+
+| 条件 | L | M | P | 三轴完全匹配 |
+|---|---|---|---|---|
+| 原文 | 78.6% | 95.7% | 86.4% | 14/29 = 0.4828 |
+| **同义改写** | **0.0%** | **0.0%** | **0.0%** | **2/29 = 0.0690** |
+| 标点扰动（无关对照） | 78.6% | 95.7% | 86.4% | 14/29 = 0.4828 |
+
+**同义改写后三轴召回全部精确归零。**
+而**无关对照（只插入 `·`，不改任何词）与原文逐位相同**——
+证明暴跌不是"任何改写都会变"，而是**词面替换**造成的。
+
+改写后仍 OK 的 2 条，正是 §3 的 `CAL-18`/`CAL-19`（golden 全空）。
+**剔除后：12/27 = 0.4444 → 0/27 = 0.0000。**
+
+## 5. 逐条独立效应（每次只改 1 条，其余 28 条原文）
+
+14 条原本 OK，其中 **12 条在单独改写自己一条后就翻转**。
+剩下 2 条"幸存"的正是 golden 全空的 CAL-18/19。
+
+```
+原本 OK              : 14/29
+仅改该条后仍 OK      : 2/29   -> 翻转 12 条
+剔除 golden 全空 2 条: 12/27 = 0.4444  ->  0/27 = 0.0000
+```
+
+每条改写都是**独立事件**，不存在"整体效应由少数条驱动"。
+
+## 6. 剂量-反应：翻转需要几个词？
+
+单关键词替换只翻转 3/12 = 25%——**这削弱了"一个词就翻"的说法**，必须如实记。
+原因是每个坐标配了多个同义关键词，换掉一个还有其他命中（规则表有冗余）。
+
+所以做了累积梯度（固定分母 n=12）：
+
+| k（累积替换词数） | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+| 翻转率 | 0.1667 | 0.4167 | 0.5000 | 0.5000 | 0.8333 | **1.0000** |
+
+翻转所需最少替换数：`[1,1,2,2,2,3,5,5,5,5,6,6]`，均值 3.58，**最大 6**。
+
+> **每条都有一个有限的翻转阈值（1~6 个语义等价的词）。**
+> 替换掉全部命中关键词后，**12/12 = 100% 翻转**。
+
+**注意**：k≥4 时若按"K≥k 的条才计入"汇总，会读出 0.50 → 0.4545 的下跌。
+那是分母缩小造成的选择偏差，不是真非单调。固定分母后单调上升至 1.0。
+
+## 7. 🔴 它不是靶子：对方已自我承认
+
+`SELF_FAILURES.md` 的 **SF-01** 原文：
+
+> 「κ=0.945 是五个模型彼此一致，不是跟真相一致。**内部一致性 ≠ 正确性。**」
+
+这与我们 054 独立得出的结论**是同一条**。
+它自己已经公开记录并承认，日期 2026-10-14。
+
+所以本轮**不是攻击，是独立确认**——两个独立系统收敛到同一结论，这增强了该结论，
+也说明"置换/改写检验"这类方法是有效的通用方法，不是我们的独门发现。
+
+## 8. 真正的差异不在诚实度，在于"分类法 vs 机制"
+
+它 `SELF_FAILURES.md` 最后一句：
+
+> 「分类法谁都能提，机制只能跑出来。TACT 现在还是分类法，不是机制。」
+
+它的 **SF-02** 也承认：「117 坐标 vs 29 校准样例，严重欠定；
+坐标框架先立后补案例，不是从跑出来的结果里长出来的。」
+
+这与我们的路径正交：
+
+| | TACT | 洛神 O1 |
+|---|---|---|
+| 产出方式 | 先立坐标框架，后补案例 | 判据从实验结果里长出（69 次实验） |
+| 验证 | κ / 校准命中率（自评） | 硬约束 + 可复现运行 + 自校验 |
+| 自身失败 | 已记录 5 条（SF-01..05） | 判据核 202 条（只增不减） |
+
+**它同样诚实。区别在于我们的判据是从跑出来的结果里长出来的，而不是先立框架。**
+
+## 9. ⚠️ 最大软肋：语义等价性由我自己判定
+
+这是本实验**最严重的自指风险**，必须写在结论前面：
+
+**"改写是否语义等价"这个前提，是由我（单一模型、无外部人工验证）判定的。**
+而我们自己在 038/049/052 反复论证过：**自证能证明"在运转"，证明不了"内容正确"。**
+
+也就是说——**我用一条自证的前提，去证明对方命中词面。**
+若我的改写其实改变了语义，则召回率下降是应当的，本实验结论作废。
+
+缓解措施（已做，但不足以根除）：
+- **无关对照零效应** → 排除"任何改写都会变"
+- **剂量-反应单调** → 排除单条 artifact
+- **逐条独立** → 排除少数条驱动
+- 改写文本与 golden 一并公开在结果 JSON 中，**任何人可自行复核语义等价性**
+
+**根除方法只有一个：由独立第三方（人工标注者）判定这 29 条改写是否语义等价。**
+本轮没有做到。
+
+## 10. 其他局限
+
+- 只测了**规则版引擎**（零依赖）。README 声明"接 LLM 判定可进一步提升"，
+  **LLM 版未测**，本轮结论不适用于 LLM 版。
+- 样本仅 29 例；12 条原本 OK 的样例是全部可用分母。
+- 未做 held-out（未见过的事例）检验：golden 需按其框架标注，我会引入偏差。
+- 本轮**没有**检验其 117 坐标本身是否为真因——那是科学问题，需要领域真值。
+
+## 11. 复现
+
+```bash
+# 1) 取真身（GitHub contents API）
+python3 fetch.py            # tact_real/ 下
+# 2) 复现基线
+cd engine && python3 tact_run.py --calibration
+# 3) 三类扰动
+python3 exp070.py           # 原文 / 同义改写 / 标点扰动
+python3 exp070b.py          # 逐条独立效应
+python3 minimal.py          # 最小单关键词替换
+python3 gradient.py         # 剂量-反应梯度
+```
+
+## 12. 一句话
+
+**在保持语义完全等价的前提下替换掉关键词的词面，它的三轴召回从 78.6/95.7/86.4 精确归零；
+而一个不改变任何词的无关对照，零效应。它命中的是词，不是语义。**
+
+对方已就 κ 部分自我承认（SF-01）；本轮新增的是**联合匹配率被分轴指标掩盖**
+以及**字面匹配的改写敏感性**这两条，并给出可自行复核的改写集。
+
+---
+*洛神 O1 · 实验报告 070*

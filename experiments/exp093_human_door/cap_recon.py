@@ -1,1 +1,54 @@
-aW1wb3J0IGFzeW5jaW8sIGpzb24sIG9zLCByYW5kb20sIHN1YnByb2Nlc3MsIGN2MiwgbnVtcHkgYXMgbnAKZnJvbSBwbGF5d3JpZ2h0LmFzeW5jX2FwaSBpbXBvcnQgYXN5bmNfcGxheXdyaWdodApPVVQ9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDA5M19odW1hbl9kb29yIgpVPW9zLmVudmlyb25bIlFRX1UiXTsgUD1vcy5lbnZpcm9uWyJRUV9QIl0KCmFzeW5jIGRlZiBtYWluKCk6CiAgICBhc3luYyB3aXRoIGFzeW5jX3BsYXl3cmlnaHQoKSBhcyBwOgogICAgICAgIGIgPSBhd2FpdCBwLmNocm9taXVtLmxhdW5jaChleGVjdXRhYmxlX3BhdGg9Ii91c3IvYmluL2dvb2dsZS1jaHJvbWUiLGFyZ3M9WyItLW5vLXNhbmRib3giLCItLWRpc2FibGUtZGV2LXNobS11c2FnZSJdKQogICAgICAgIHBnID0gYXdhaXQgYi5uZXdfcGFnZSh2aWV3cG9ydD17IndpZHRoIjoxMjgwLCJoZWlnaHQiOjkwMH0pCiAgICAgICAgIyDorrDlvZXmiYDmnInor7fmsYIv5ZON5bqU77yM55yL6aqM6K+B56CB6LWE5rqQ5Yiw5bqV5Yqg6L295LqG5rKhCiAgICAgICAgbG9nPVtdCiAgICAgICAgcGcub24oInJlc3BvbnNlIiwgbGFtYmRhIHI6IGxvZy5hcHBlbmQoKHIuc3RhdHVzLCByLnVybFs6MTEwXSkpKQogICAgICAgIGF3YWl0IHBnLmdvdG8oImh0dHBzOi8vbWFpbC5xcS5jb20iLCB0aW1lb3V0PTQ1MDAwLCB3YWl0X3VudGlsPSJkb21jb250ZW50bG9hZGVkIikKICAgICAgICBhd2FpdCBwZy53YWl0X2Zvcl90aW1lb3V0KDYwMDApCiAgICAgICAgdGd0PU5vbmUKICAgICAgICBmb3IgZiBpbiBwZy5mcmFtZXM6CiAgICAgICAgICAgIGlmICJ4bG9naW4iIGluIGYudXJsOiB0Z3Q9ZjsgYnJlYWsKICAgICAgICBiYiA9IGF3YWl0IHRndC5sb2NhdG9yKCIjc3dpdGNoZXJfcGxvZ2luIikuYm91bmRpbmdfYm94KCkKICAgICAgICBhd2FpdCBwZy5tb3VzZS5jbGljayhiYlsieCJdK2JiWyJ3aWR0aCJdLzIsIGJiWyJ5Il0rYmJbImhlaWdodCJdLzIpCiAgICAgICAgYXdhaXQgcGcud2FpdF9mb3JfdGltZW91dCgzMDAwKQogICAgICAgIHViID0gYXdhaXQgdGd0LmxvY2F0b3IoIiN1IikuYm91bmRpbmdfYm94KCkKICAgICAgICBhd2FpdCBwZy5tb3VzZS5jbGljayh1YlsieCJdK3ViWyJ3aWR0aCJdLzIsIHViWyJ5Il0rdWJbImhlaWdodCJdLzIpCiAgICAgICAgZm9yIGNoIGluIFU6IGF3YWl0IHBnLmtleWJvYXJkLnR5cGUoY2gpOyBhd2FpdCBwZy53YWl0X2Zvcl90aW1lb3V0KGludChyYW5kb20udW5pZm9ybSg2MCwxNTApKSkKICAgICAgICBwYiA9IGF3YWl0IHRndC5sb2NhdG9yKCIjcCIpLmJvdW5kaW5nX2JveCgpCiAgICAgICAgYXdhaXQgcGcubW91c2UuY2xpY2socGJbIngiXStwYlsid2lkdGgiXS8yLCBwYlsieSJdK3BiWyJoZWlnaHQiXS8yKQogICAgICAgIGZvciBjaCBpbiBQOiBhd2FpdCBwZy5rZXlib2FyZC50eXBlKGNoKTsgYXdhaXQgcGcud2FpdF9mb3JfdGltZW91dChpbnQocmFuZG9tLnVuaWZvcm0oNjAsMTUwKSkpCiAgICAgICAgbGIgPSBhd2FpdCB0Z3QubG9jYXRvcigiI2xvZ2luX2J1dHRvbiIpLmJvdW5kaW5nX2JveCgpCiAgICAgICAgYXdhaXQgcGcubW91c2UuY2xpY2sobGJbIngiXStsYlsid2lkdGgiXS8yLCBsYlsieSJdK2xiWyJoZWlnaHQiXS8yKQogICAgICAgIGF3YWl0IHBnLndhaXRfZm9yX3RpbWVvdXQoODAwMCkKICAgICAgICBhd2FpdCBwZy5zY3JlZW5zaG90KHBhdGg9ZiJ7T1VUfS9jYXBfZnVsbC5wbmciKQogICAgICAgICMg6aqM6K+B56CB55u45YWz6LWE5rqQCiAgICAgICAgY2FwcmVsPVtsIGZvciBsIGluIGxvZyBpZiBhbnkoayBpbiBsWzFdLmxvd2VyKCkgZm9yIGsgaW4gWyJjYXB0Y2hhIiwiY2FwXyIsImNkYyIsInRkYyIsImRyYWciLCJzbGlkZSJdKV0KICAgICAgICBwcmludCgiPT09IENBUFRDSEEgUkVTT1VSQ0VTID09PSIpCiAgICAgICAgZm9yIHMsdV8gaW4gY2FwcmVsWzoyNV06IHByaW50KGYiICB7c30gIHt1X30iKQogICAgICAgICMg5YiX5Ye65omA5pyJIGZyYW1lCiAgICAgICAgcHJpbnQoIj09PSBGUkFNRVMgPT09IikKICAgICAgICBmb3IgZiBpbiBwZy5mcmFtZXM6IHByaW50KCIgIC0iLCBmLnVybFs6MTIwXSkKICAgICAgICAjIOWcqOmqjOivgeeggSBmcmFtZSDph4zmib7lhYPntKAKICAgICAgICBjZj1Ob25lCiAgICAgICAgZm9yIGYgaW4gcGcuZnJhbWVzOgogICAgICAgICAgICBpZiAiY2FwdGNoYSIgaW4gZi51cmwgb3IgImRyYWciIGluIGYudXJsOiBjZj1mOyBicmVhawogICAgICAgIGlmIGNmOgogICAgICAgICAgICBpbmZvID0gYXdhaXQgY2YuZXZhbHVhdGUoIiIiKCkgPT4gewogICAgICAgICAgICAgIGNvbnN0IG91dD17dXJsOmxvY2F0aW9uLmhyZWYsdGV4dDpkb2N1bWVudC5ib2R5LmlubmVyVGV4dC5zbGljZSgwLDMwMCksaW1nczpbXSxkaXZzOltdfTsKICAgICAgICAgICAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbWcnKS5mb3JFYWNoKGU9Pntjb25zdCByPWUuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCk7CiAgICAgICAgICAgICAgICBvdXQuaW1ncy5wdXNoKHtzcmM6KGUuc3JjfHwnJykuc2xpY2UoMCw5MCksdzpNYXRoLnJvdW5kKHIud2lkdGgpLGg6TWF0aC5yb3VuZChyLmhlaWdodCkseDpNYXRoLnJvdW5kKHIueCkseTpNYXRoLnJvdW5kKHIueSksbmF0OmUubmF0dXJhbFdpZHRoKyd4JytlLm5hdHVyYWxIZWlnaHR9KTt9KTsKICAgICAgICAgICAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdkaXYsc3BhbicpLmZvckVhY2goZT0+e2NvbnN0IHI9ZS5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKTsKICAgICAgICAgICAgICAgIGlmKHIud2lkdGg+MTAmJnIuaGVpZ2h0PjEwKSBvdXQuZGl2cy5wdXNoKHtpZDplLmlkLGNsczooZS5jbGFzc05hbWV8fCcnKS50b1N0cmluZygpLnNsaWNlKDAsMzApLHc6TWF0aC5yb3VuZChyLndpZHRoKSxoOk1hdGgucm91bmQoci5oZWlnaHQpLHg6TWF0aC5yb3VuZChyLngpLHk6TWF0aC5yb3VuZChyLnkpfSk7fSk7CiAgICAgICAgICAgICAgcmV0dXJuIG91dDt9IiIiKQogICAgICAgICAgICBwcmludChqc29uLmR1bXBzKGluZm8sZW5zdXJlX2FzY2lpPUZhbHNlLGluZGVudD0xKVs6MjAwMF0pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoIk5PIGNhcHRjaGEgZnJhbWUgZm91bmQiKQogICAgICAgIGF3YWl0IGIuY2xvc2UoKQphc3luY2lvLnJ1bihtYWluKCkpCg==
+import asyncio, json, os, random, subprocess, cv2, numpy as np
+from playwright.async_api import async_playwright
+OUT="/data/workspace/luoshen-o1/experiments/exp093_human_door"
+U=os.environ["QQ_U"]; P=os.environ["QQ_P"]
+
+async def main():
+    async with async_playwright() as p:
+        b = await p.chromium.launch(executable_path="/usr/bin/google-chrome",args=["--no-sandbox","--disable-dev-shm-usage"])
+        pg = await b.new_page(viewport={"width":1280,"height":900})
+        # 记录所有请求/响应，看验证码资源到底加载了没
+        log=[]
+        pg.on("response", lambda r: log.append((r.status, r.url[:110])))
+        await pg.goto("https://mail.qq.com", timeout=45000, wait_until="domcontentloaded")
+        await pg.wait_for_timeout(6000)
+        tgt=None
+        for f in pg.frames:
+            if "xlogin" in f.url: tgt=f; break
+        bb = await tgt.locator("#switcher_plogin").bounding_box()
+        await pg.mouse.click(bb["x"]+bb["width"]/2, bb["y"]+bb["height"]/2)
+        await pg.wait_for_timeout(3000)
+        ub = await tgt.locator("#u").bounding_box()
+        await pg.mouse.click(ub["x"]+ub["width"]/2, ub["y"]+ub["height"]/2)
+        for ch in U: await pg.keyboard.type(ch); await pg.wait_for_timeout(int(random.uniform(60,150)))
+        pb = await tgt.locator("#p").bounding_box()
+        await pg.mouse.click(pb["x"]+pb["width"]/2, pb["y"]+pb["height"]/2)
+        for ch in P: await pg.keyboard.type(ch); await pg.wait_for_timeout(int(random.uniform(60,150)))
+        lb = await tgt.locator("#login_button").bounding_box()
+        await pg.mouse.click(lb["x"]+lb["width"]/2, lb["y"]+lb["height"]/2)
+        await pg.wait_for_timeout(8000)
+        await pg.screenshot(path=f"{OUT}/cap_full.png")
+        # 验证码相关资源
+        caprel=[l for l in log if any(k in l[1].lower() for k in ["captcha","cap_","cdc","tdc","drag","slide"])]
+        print("=== CAPTCHA RESOURCES ===")
+        for s,u_ in caprel[:25]: print(f"  {s}  {u_}")
+        # 列出所有 frame
+        print("=== FRAMES ===")
+        for f in pg.frames: print("  -", f.url[:120])
+        # 在验证码 frame 里找元素
+        cf=None
+        for f in pg.frames:
+            if "captcha" in f.url or "drag" in f.url: cf=f; break
+        if cf:
+            info = await cf.evaluate("""() => {
+              const out={url:location.href,text:document.body.innerText.slice(0,300),imgs:[],divs:[]};
+              document.querySelectorAll('img').forEach(e=>{const r=e.getBoundingClientRect();
+                out.imgs.push({src:(e.src||'').slice(0,90),w:Math.round(r.width),h:Math.round(r.height),x:Math.round(r.x),y:Math.round(r.y),nat:e.naturalWidth+'x'+e.naturalHeight});});
+              document.querySelectorAll('div,span').forEach(e=>{const r=e.getBoundingClientRect();
+                if(r.width>10&&r.height>10) out.divs.push({id:e.id,cls:(e.className||'').toString().slice(0,30),w:Math.round(r.width),h:Math.round(r.height),x:Math.round(r.x),y:Math.round(r.y)});});
+              return out;}""")
+            print(json.dumps(info,ensure_ascii=False,indent=1)[:2000])
+        else:
+            print("NO captcha frame found")
+        await b.close()
+asyncio.run(main())

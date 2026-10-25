@@ -1,1 +1,56 @@
-IiIiMTE2YiDCtyDmiorlhazlvI/nmoTkuKTnp43nirbmgIHmjqXov5vmnKzkvZPlvJXmk47vvJrmgZLlrpogdnMg5Lqk5pu/77yM55yL57uT5p6E5piv5ZCm5pS55Y+YIiIiCmltcG9ydCBzeXMsIGpzb24KaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gc2NpcHkgaW1wb3J0IHN0YXRzCnN5cy5wYXRoLmluc2VydCgwLCAiL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEiKQpmcm9tIGNvcmUubGlmZTUgaW1wb3J0IExpZmU1CgpTVEVQUywgTiwgU0VFRFMgPSA0MDAsIDgsIGxpc3QocmFuZ2UoMTYpKQoKZGVmIHJ1bihjb25kLCBzZWVkLCBQPTgpOgogICAgIyBrX3NhbCDpu5jorqQgMC4wIOKGkiDlpJbpg6jovpPlhaXooqvor7vkvYbjgJDlrozlhajkuI3ov5vliqjlipvlrabjgJHvvIzkuInnu4Tlv4XnhLbpgJDkvY3nm7jlkIzjgIIKICAgICMg6L+Z5pivIDExMyDlt7LouKnov4fnmoTlnZHvvIzmnKzova7lj4jouKnkuIDmrKHvvJvlhYjpqozpgJrot6/lho3kuIvnu5PorrrjgIIKICAgIGwgPSBMaWZlNShOPU4sIHNlZWQ9c2VlZCwgcmF0aW89MC42LCBrX3NhbD0wLjQpCiAgICBmb3IgdCBpbiByYW5nZShTVEVQUyk6CiAgICAgICAgaWYgbm90IGwuYWxpdmU6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgIyDliYLph4/miavmj4/mmL7npLogcHJlcyDmjIfmlbDppbHlkozvvJppbnB1dF92YWw+PTAuNSDljbPpobbliLAgMS4w44CCCiAgICAgICAgIyDljp/orr7orqEgZmxpcCgwLjUvMC45KSB2cyBob2xkKDAuNSkg5YWo5Zyo6aWx5ZKM5Yy6ID0g5peg5pWI5a+55q+U44CCCiAgICAgICAgIyDmjKrliLDpnZ7ppbHlkozljLogWzAsIDAuM13jgIIKICAgICAgICBpZiBjb25kID09ICJob2xkIjoKICAgICAgICAgICAgbC5pbnB1dF92YWwgPSAwLjE1CiAgICAgICAgZWxpZiBjb25kID09ICJmbGlwIjoKICAgICAgICAgICAgbC5pbnB1dF92YWwgPSAwLjAgaWYgKHQgLy8gUCkgJSAyID09IDAgZWxzZSAwLjMKICAgICAgICBlbGlmIGNvbmQgPT0gIm5vbmUiOgogICAgICAgICAgICBsLmlucHV0X3ZhbCA9IDAuMAogICAgICAgIGwuc3RlcCgpCiAgICBjYXAgPSBucC5hc2FycmF5KGwuY2FwYWNpdHkpCiAgICByZXR1cm4gZGljdChhbGl2ZT1ib29sKGwuYWxpdmUpLCBza2V3PWZsb2F0KHN0YXRzLnNrZXcoY2FwKSkgaWYgY2FwLnN0ZCgpID4gMCBlbHNlIDAuMCwKICAgICAgICAgICAgICAgIGNhcF9zdGQ9ZmxvYXQoY2FwLnN0ZCgpKSkKCmRlZiBib290X2NpKGQsIG49ODAwMCwgc2VlZD0xKToKICAgIGQgPSBucC5hc2FycmF5KGQsIGZsb2F0KQogICAgaWYgbGVuKGQpID09IDA6IHJldHVybiAoZmxvYXQoIm5hbiIpLCBmbG9hdCgibmFuIikpCiAgICByZyA9IG5wLnJhbmRvbS5kZWZhdWx0X3JuZyhzZWVkKQogICAgYnMgPSBucC5hcnJheShbcmcuY2hvaWNlKGQsIGxlbihkKSwgcmVwbGFjZT1UcnVlKS5tZWFuKCkgZm9yIF8gaW4gcmFuZ2UobildKQogICAgcmV0dXJuIChmbG9hdChucC5wZXJjZW50aWxlKGJzLCAyLjUpKSwgZmxvYXQobnAucGVyY2VudGlsZShicywgOTcuNSkpKQoKcmVzID0ge30KZm9yIGNvbmQgaW4gWyJob2xkIiwgImZsaXAiLCAibm9uZSJdOgogICAgcnMgPSBbcnVuKGNvbmQsIHMpIGZvciBzIGluIFNFRURTXQogICAgcmVzW2NvbmRdID0gZGljdChuX2FsaXZlPXN1bShyWyJhbGl2ZSJdIGZvciByIGluIHJzKSwKICAgICAgICAgICAgICAgICAgICAgc2tld19tZWFuPWZsb2F0KG5wLm1lYW4oW3JbInNrZXciXSBmb3IgciBpbiByc10pKSwKICAgICAgICAgICAgICAgICAgICAgcGVyX3NlZWQ9W3JbInNrZXciXSBmb3IgciBpbiByc10pCgpkZWYgcGFpcmVkKGEsIGIpOgogICAgZCA9IFt4IC0geSBmb3IgeCwgeSBpbiB6aXAocmVzW2FdWyJwZXJfc2VlZCJdLCByZXNbYl1bInBlcl9zZWVkIl0pXQogICAgbG8sIGhpID0gYm9vdF9jaShkKQogICAgcmV0dXJuIGRpY3QoZGVsdGE9ZmxvYXQobnAubWVhbihkKSksIGNpPVtsbywgaGldLAogICAgICAgICAgICAgICAgc2lnbmlmaWNhbnQ9Ym9vbChsbyA+IDAgb3IgaGkgPCAwKSkKCm91dCA9IGRpY3QoY29uZGl0aW9ucz17azogZGljdChuX2FsaXZlPXZbIm5fYWxpdmUiXSwgc2tld19tZWFuPXZbInNrZXdfbWVhbiJdKQogICAgICAgICAgICAgICAgICAgICAgIGZvciBrLCB2IGluIHJlcy5pdGVtcygpfSwKICAgICAgICAgICBmbGlwX3ZzX2hvbGQ9cGFpcmVkKCJmbGlwIiwgImhvbGQiKSwKICAgICAgICAgICBob2xkX3ZzX25vbmU9cGFpcmVkKCJob2xkIiwgIm5vbmUiKSkKcHJpbnQoanNvbi5kdW1wcyhvdXQsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpKQpqc29uLmR1bXAob3V0LCBvcGVuKCJyZXMxMTZiX2VuZ2luZS5qc29uIiwgInciKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkK
+"""116b · 把公式的两种状态接进本体引擎：恒定 vs 交替，看结构是否改变"""
+import sys, json
+import numpy as np
+from scipy import stats
+sys.path.insert(0, "/data/workspace/luoshen-o1")
+from core.life5 import Life5
+
+STEPS, N, SEEDS = 400, 8, list(range(16))
+
+def run(cond, seed, P=8):
+    # k_sal 默认 0.0 → 外部输入被读但【完全不进动力学】，三组必然逐位相同。
+    # 这是 113 已踩过的坑，本轮又踩一次；先验通路再下结论。
+    l = Life5(N=N, seed=seed, ratio=0.6, k_sal=0.4)
+    for t in range(STEPS):
+        if not l.alive:
+            break
+        # 剂量扫描显示 pres 指数饱和：input_val>=0.5 即顶到 1.0。
+        # 原设计 flip(0.5/0.9) vs hold(0.5) 全在饱和区 = 无效对比。
+        # 挪到非饱和区 [0, 0.3]。
+        if cond == "hold":
+            l.input_val = 0.15
+        elif cond == "flip":
+            l.input_val = 0.0 if (t // P) % 2 == 0 else 0.3
+        elif cond == "none":
+            l.input_val = 0.0
+        l.step()
+    cap = np.asarray(l.capacity)
+    return dict(alive=bool(l.alive), skew=float(stats.skew(cap)) if cap.std() > 0 else 0.0,
+                cap_std=float(cap.std()))
+
+def boot_ci(d, n=8000, seed=1):
+    d = np.asarray(d, float)
+    if len(d) == 0: return (float("nan"), float("nan"))
+    rg = np.random.default_rng(seed)
+    bs = np.array([rg.choice(d, len(d), replace=True).mean() for _ in range(n)])
+    return (float(np.percentile(bs, 2.5)), float(np.percentile(bs, 97.5)))
+
+res = {}
+for cond in ["hold", "flip", "none"]:
+    rs = [run(cond, s) for s in SEEDS]
+    res[cond] = dict(n_alive=sum(r["alive"] for r in rs),
+                     skew_mean=float(np.mean([r["skew"] for r in rs])),
+                     per_seed=[r["skew"] for r in rs])
+
+def paired(a, b):
+    d = [x - y for x, y in zip(res[a]["per_seed"], res[b]["per_seed"])]
+    lo, hi = boot_ci(d)
+    return dict(delta=float(np.mean(d)), ci=[lo, hi],
+                significant=bool(lo > 0 or hi < 0))
+
+out = dict(conditions={k: dict(n_alive=v["n_alive"], skew_mean=v["skew_mean"])
+                       for k, v in res.items()},
+           flip_vs_hold=paired("flip", "hold"),
+           hold_vs_none=paired("hold", "none"))
+print(json.dumps(out, ensure_ascii=False, indent=1))
+json.dump(out, open("res116b_engine.json", "w"), ensure_ascii=False, indent=1)

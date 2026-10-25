@@ -1,1 +1,116 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQppbXBvcnQganNvbiwgbWF0aCwgb3MKaW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliIGltcG9ydCBmb250X21hbmFnZXIKCmZvciBmIGluIFsiV2VuUXVhbllpIE1pY3JvIEhlaSIsICJXZW5RdWFuWWkgWmVuIEhlaSIsICJOb3RvIFNhbnMgQ0pLIFNDIl06CiAgICB0cnk6CiAgICAgICAgZm9udF9tYW5hZ2VyLmZpbmRmb250KGYsIGZhbGxiYWNrX3RvX2RlZmF1bHQ9RmFsc2UpCiAgICAgICAgcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXSA9IFtmXQogICAgICAgIGJyZWFrCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGNvbnRpbnVlCnBsdC5yY1BhcmFtc1siYXhlcy51bmljb2RlX21pbnVzIl0gPSBGYWxzZQoKRCA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpvcy5jaGRpcihEKQoKZ2F0ZWQgPSBqc29uLmxvYWQob3BlbigiY2xhaW1fbG9nX2dhdGVkLmpzb24iLCBlbmNvZGluZz0idXRmLTgiKSkKcmF3ID0ganNvbi5sb2FkKG9wZW4oImNsYWltc19yYXcuanNvbiIsIGVuY29kaW5nPSJ1dGYtOCIpKQoKZmlnLCBheCA9IHBsdC5zdWJwbG90cygyLCAzLCBmaWdzaXplPSgxNiwgOS41KSkKCiMgLS0tICgwLDApIOWPr+i/vea6r+aAp+e8uuWPoyAtLS0KYSA9IGF4WzAsIDBdCm5fYWxsID0gMTEwCm5fbm9fY2kgPSBzdW0oMSBmb3IgdSBpbiByYXdbInVucGFyc2VkX3JlcG9ydHMiXSBpZiB1WyJyZWFzb24iXSA9PSAibm9fcGFyc2FibGVfQ0kiKQpuX2NsYWltID0gbGVuKHJhd1siY2xhaW1zIl0pCmEuYmFyKFsi5pyJ5Y+v6Kej5p6QQ0lcbueahOaKpeWRiiIsICLml6Dlj6/op6PmnpBDSVxu55qE5oql5ZGKIl0sIFtuX2FsbCAtIG5fbm9fY2ksIG5fbm9fY2ldLAogICAgICBjb2xvcj1bIiM0Yzc4YTgiLCAiI2IwYjBiMCJdKQpmb3IgaSwgdiBpbiBlbnVtZXJhdGUoW25fYWxsIC0gbl9ub19jaSwgbl9ub19jaV0pOgogICAgYS50ZXh0KGksIHYgKyAxLjUsIHN0cih2KSwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTEyLCBmb250d2VpZ2h0PSJib2xkIikKYS5zZXRfeWxhYmVsKCLmiqXlkYrmlbAiKQphLnNldF90aXRsZSgi4pGgIOWPr+i/vea6r+aAp+e8uuWPo++8mjExMCDku73miqXlkYrph4xcbuWPquaciSAlZCDku73og73mir3lh7rmlbDlgLwgQ0kiICUgKG5fYWxsIC0gbl9ub19jaSksCiAgICAgICAgICAgIGZvbnRzaXplPTExKQphLnNldF95bGltKDAsIDExOCkKCiMgLS0tICgwLDEpIOWQjeS5ieaYvuiRlyB2cyDmoKHmraPlkI7lrZjmtLsgLS0tCmEgPSBheFswLCAxXQpub20gPSBzdW0oMSBmb3IgYyBpbiByYXdbImNsYWltcyJdIGlmIGNbImNpX2V4Y2x1ZGVzX3plcm8iXSkKYmhyID0gc3VtKDEgZm9yIGMgaW4gcmF3WyJjbGFpbXMiXSBpZiBjLmdldCgicmVqZWN0X2JoIiwgRmFsc2UpKQpib25mID0gc3VtKDEgZm9yIGMgaW4gcmF3WyJjbGFpbXMiXSBpZiBjLmdldCgicmVqZWN0X2JvbmYiLCBGYWxzZSkpCmEuYmFyKFsi5ZCN5LmJXG7kuI3ot6gwIiwgIkJILUZEUlxu5ZCOIiwgIkJvbmZlcnJvbmlcbuWQjiJdLCBbbm9tLCBiaHIsIGJvbmZdLAogICAgICBjb2xvcj1bIiM3MmI3YjIiLCAiI2Y1ODUxOCIsICIjZTQ1NzU2Il0pCmZvciBpLCB2IGluIGVudW1lcmF0ZShbbm9tLCBiaHIsIGJvbmZdKToKICAgIGEudGV4dChpLCB2ICsgMC4yLCBzdHIodiksIGhhPSJjZW50ZXIiLCBmb250c2l6ZT0xMiwgZm9udHdlaWdodD0iYm9sZCIpCmEuc2V0X3RpdGxlKCLikaEg5Zue5rqv5a2Q6ZuGKG49JWQp77ya5qCh5q2j5ZCO5o6J5aSa5bCRIiAlIGxlbihyYXdbImNsYWltcyJdKSwgZm9udHNpemU9MTEpCmEuc2V0X3lsYWJlbCgi5pat6KiA5pWwIikKYS5zZXRfeWxpbSgwLCBtYXgobm9tLCBiaHIsIGJvbmYpICsgMi41KQoKIyAtLS0gKDAsMikg5YmN55675pat6KiA5pel5b+X77yaMjIg5p2hIC0tLQphID0gYXhbMCwgMl0KbnBhc3MgPSBzdW0oMSBmb3IgYyBpbiBnYXRlZCBpZiBjWyJQQVNTIl0pCm5iaCA9IHN1bSgxIGZvciBjIGluIGdhdGVkIGlmIGNbInJlamVjdF9iaCJdKQpubm9tID0gc3VtKDEgZm9yIGMgaW4gZ2F0ZWQgaWYgYy5nZXQoImNpX2xvIikgaXMgbm90IE5vbmUgYW5kIChjWyJjaV9sbyJdID4gMCBvciBjWyJjaV9oaSJdIDwgMCkpCmEuYmFyKFsi5ZCN5LmJIiwgIkJILUZEUiIsICLkuInpl7jlhajov4ciXSwgW25ub20sIG5iaCwgbnBhc3NdLAogICAgICBjb2xvcj1bIiM3MmI3YjIiLCAiI2Y1ODUxOCIsICIjNTRhMjRiIl0pCmZvciBpLCB2IGluIGVudW1lcmF0ZShbbm5vbSwgbmJoLCBucGFzc10pOgogICAgYS50ZXh0KGksIHYgKyAwLjMsIHN0cih2KSwgaGE9ImNlbnRlciIsIGZvbnRzaXplPTEyLCBmb250d2VpZ2h0PSJib2xkIikKYS5zZXRfdGl0bGUoIuKRoiDliY3nnrvmlq3oqIDml6Xlv5cobj0lZCnvvJpcbkcxL0cyL0czIOaLpuS4iyAlZCDmnaEiICUgKGxlbihnYXRlZCksIGxlbihnYXRlZCkgLSBucGFzcyksCiAgICAgICAgICAgIGZvbnRzaXplPTExKQphLnNldF95bGltKDAsIG1heChubm9tLCBuYmgsIG5wYXNzKSArIDMpCgojIC0tLSAoMSwwKSBxIOWAvOWIhuW4gyAtLS0KYSA9IGF4WzEsIDBdCnFzID0gc29ydGVkKGNbInFfYmgiXSBmb3IgYyBpbiBnYXRlZCBpZiBjLmdldCgicV9iaCIpIGlzIG5vdCBOb25lKQp5cyA9IFstbWF0aC5sb2cxMChtYXgocSwgMWUtMzAwKSkgZm9yIHEgaW4gcXNdCmNvbHMgPSBbIiM1NGEyNGIiIGlmIGNbIlBBU1MiXSBlbHNlICIjZTQ1NzU2IiBmb3IgYyBpbiBzb3J0ZWQoCiAgICBnYXRlZCwga2V5PWxhbWJkYSBjOiBjWyJxX2JoIl0pIGlmIGMuZ2V0KCJxX2JoIikgaXMgbm90IE5vbmVdCmEuYmFyKHJhbmdlKGxlbih5cykpLCB5cywgY29sb3I9Y29scykKYS5heGhsaW5lKC1tYXRoLmxvZzEwKDAuMDUpLCBjb2xvcj0iayIsIGxzPSItLSIsIGx3PTEuMikKYS50ZXh0KDAuNSwgLW1hdGgubG9nMTAoMC4wNSkgKyAxLjIsICJxPTAuMDUiLCBmb250c2l6ZT05KQphLnNldF94bGFiZWwoIuaWreiogO+8iOaMiSBxIOWNh+W6j++8iSIpCmEuc2V0X3lsYWJlbCgiLWxvZzEwKHEpIikKYS5zZXRfdGl0bGUoIuKRoyBCSC1GRFIg5ZCOIHEg5YC85YiG5biDXG7nu7896L+H6Ze4IOe6oj3ooqvmi6YiLCBmb250c2l6ZT0xMSkKCiMgLS0tICgxLDEpIEc0IOeos+WBpeaApyAtLS0KYSA9IGF4WzEsIDFdCmJ1cm5zID0gWzAsIDIwLCA1MCwgMTAwLCAyMDAsIDQwMF0KY2xvc2VkID0gWzAuMTY0MDk4LCAwLjE0MjU4NiwgMC4xMjU1NTgsIDAuMTAzNjc2LCAwLjA3NjA5NiwgMC4wNDU1MTFdCm9wZW52ID0gWzAuMDA3OTEzMSwgMC4wMDA3MTg1OCwgMC4wMDA5OTEyMSwgMC4wMDA5MTIzNiwgMC4wMDA3NTc3MSwgMC4wMDA3NDUxNl0KYS5wbG90KGJ1cm5zLCBjbG9zZWQsICJvLSIsIGNvbG9yPSIjNTRhMjRiIiwgbHc9MiwgbGFiZWw9ImNsb3NlZCjnm7jlgJrCt+ecn+WtpuS5oCkiKQphLnBsb3QoYnVybnMsIG9wZW52LCAicy0iLCBjb2xvcj0iI2U0NTc1NiIsIGx3PTIsIGxhYmVsPSJvcGVuKOebuOe7p8K35Lyw6K6h5Zmo5YGH6LGhKSIpCmEuYXhobGluZSgwLCBjb2xvcj0iayIsIGx3PTAuOCkKYS5zZXRfeGxhYmVsKCJidXJuLWluIOaLjeaVsCIpCmEuc2V0X3lsYWJlbCgi5a2m5Yiw55qEIGZnIikKYS5zZXRfdGl0bGUoIuKRpCBHNCDnqLPlgaXmgKfpl7jvvJrmjaLliIbmnpDlj5jkvZPlkI5cbuecn+aViOW6lOWJqSA2MyXvvIzlgYfosaHlj6rliakgMTIlIiwgZm9udHNpemU9MTEpCmEubGVnZW5kKGZvbnRzaXplPTgpCmEuc2V0X3lzY2FsZSgibG9nIikKCiMgLS0tICgxLDIpIOiiq+aLpuWOn+WboOe7n+iuoSAtLS0KYSA9IGF4WzEsIDJdCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKY250ID0gQ291bnRlcigpCmZvciBjIGluIGdhdGVkOgogICAgZm9yIHIgaW4gYy5nZXQoImdhdGVfcmVhc29ucyIsIFtdKToKICAgICAgICBjbnRbci5zcGxpdCgiOiIpWzBdXSArPSAxCmZvciBjIGluIHJhd1siY2xhaW1zIl06CiAgICBmb3IgciBpbiBjLmdldCgiZ2F0ZV9yZWFzb25zIiwgW10pIGlmICJnYXRlX3JlYXNvbnMiIGluIGMgZWxzZSBbXToKICAgICAgICBjbnRbci5zcGxpdCgiOiIpWzBdXSArPSAxCmxhYmVscyA9IHsiRzFfRkFJTCI6ICJHMSDmlYjlupTph48iLCAiRzJfRkFJTCI6ICJHMiDlpJrph43mr5TovoMiLAogICAgICAgICAgIkczX0ZBSUwiOiAiRzMg5pWw5o2u5YWF6LazIiwgIkc0X0ZBSUwiOiAiRzQg56iz5YGl5oCnIn0Ka3MgPSBbayBmb3IgayBpbiBbIkcxX0ZBSUwiLCAiRzJfRkFJTCIsICJHM19GQUlMIiwgIkc0X0ZBSUwiXSBpZiBjbnQuZ2V0KGspXQp2cyA9IFtjbnRba10gZm9yIGsgaW4ga3NdCmlmIGtzOgogICAgYS5iYXJoKFtsYWJlbHNba10gZm9yIGsgaW4ga3NdLCB2cywgY29sb3I9WyIjNGM3OGE4IiwgIiNmNTg1MTgiLCAiI2U0NTc1NiIsICIjYjI3OWEyIl1bOmxlbihrcyldKQogICAgZm9yIGksIHYgaW4gZW51bWVyYXRlKHZzKToKICAgICAgICBhLnRleHQodiArIDAuMywgaSwgc3RyKHYpLCB2YT0iY2VudGVyIiwgZm9udHNpemU9MTEsIGZvbnR3ZWlnaHQ9ImJvbGQiKQphLnNldF90aXRsZSgi4pGlIOWQhOmXuOaLpuaIquasoeaVsCIsIGZvbnRzaXplPTExKQphLnNldF94bGFiZWwoIuasoeaVsCIpCgpwbHQudGlnaHRfbGF5b3V0KCkKcGx0LnNhdmVmaWcoImZpZzEyOC5wbmciLCBkcGk9MTEwLCBiYm94X2luY2hlcz0idGlnaHQiKQpwcmludCgic2F2ZWQgZmlnMTI4LnBuZyIpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import json, math, os
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib import font_manager
+
+for f in ["WenQuanYi Micro Hei", "WenQuanYi Zen Hei", "Noto Sans CJK SC"]:
+    try:
+        font_manager.findfont(f, fallback_to_default=False)
+        plt.rcParams["font.sans-serif"] = [f]
+        break
+    except Exception:
+        continue
+plt.rcParams["axes.unicode_minus"] = False
+
+D = os.path.dirname(os.path.abspath(__file__))
+os.chdir(D)
+
+gated = json.load(open("claim_log_gated.json", encoding="utf-8"))
+raw = json.load(open("claims_raw.json", encoding="utf-8"))
+
+fig, ax = plt.subplots(2, 3, figsize=(16, 9.5))
+
+# --- (0,0) 可追溯性缺口 ---
+a = ax[0, 0]
+n_all = 110
+n_no_ci = sum(1 for u in raw["unparsed_reports"] if u["reason"] == "no_parsable_CI")
+n_claim = len(raw["claims"])
+a.bar(["有可解析CI\n的报告", "无可解析CI\n的报告"], [n_all - n_no_ci, n_no_ci],
+      color=["#4c78a8", "#b0b0b0"])
+for i, v in enumerate([n_all - n_no_ci, n_no_ci]):
+    a.text(i, v + 1.5, str(v), ha="center", fontsize=12, fontweight="bold")
+a.set_ylabel("报告数")
+a.set_title("① 可追溯性缺口：110 份报告里\n只有 %d 份能抽出数值 CI" % (n_all - n_no_ci),
+            fontsize=11)
+a.set_ylim(0, 118)
+
+# --- (0,1) 名义显著 vs 校正后存活 ---
+a = ax[0, 1]
+nom = sum(1 for c in raw["claims"] if c["ci_excludes_zero"])
+bhr = sum(1 for c in raw["claims"] if c.get("reject_bh", False))
+bonf = sum(1 for c in raw["claims"] if c.get("reject_bonf", False))
+a.bar(["名义\n不跨0", "BH-FDR\n后", "Bonferroni\n后"], [nom, bhr, bonf],
+      color=["#72b7b2", "#f58518", "#e45756"])
+for i, v in enumerate([nom, bhr, bonf]):
+    a.text(i, v + 0.2, str(v), ha="center", fontsize=12, fontweight="bold")
+a.set_title("② 回溯子集(n=%d)：校正后掉多少" % len(raw["claims"]), fontsize=11)
+a.set_ylabel("断言数")
+a.set_ylim(0, max(nom, bhr, bonf) + 2.5)
+
+# --- (0,2) 前瞻断言日志：22 条 ---
+a = ax[0, 2]
+npass = sum(1 for c in gated if c["PASS"])
+nbh = sum(1 for c in gated if c["reject_bh"])
+nnom = sum(1 for c in gated if c.get("ci_lo") is not None and (c["ci_lo"] > 0 or c["ci_hi"] < 0))
+a.bar(["名义", "BH-FDR", "三闸全过"], [nnom, nbh, npass],
+      color=["#72b7b2", "#f58518", "#54a24b"])
+for i, v in enumerate([nnom, nbh, npass]):
+    a.text(i, v + 0.3, str(v), ha="center", fontsize=12, fontweight="bold")
+a.set_title("③ 前瞻断言日志(n=%d)：\nG1/G2/G3 拦下 %d 条" % (len(gated), len(gated) - npass),
+            fontsize=11)
+a.set_ylim(0, max(nnom, nbh, npass) + 3)
+
+# --- (1,0) q 值分布 ---
+a = ax[1, 0]
+qs = sorted(c["q_bh"] for c in gated if c.get("q_bh") is not None)
+ys = [-math.log10(max(q, 1e-300)) for q in qs]
+cols = ["#54a24b" if c["PASS"] else "#e45756" for c in sorted(
+    gated, key=lambda c: c["q_bh"]) if c.get("q_bh") is not None]
+a.bar(range(len(ys)), ys, color=cols)
+a.axhline(-math.log10(0.05), color="k", ls="--", lw=1.2)
+a.text(0.5, -math.log10(0.05) + 1.2, "q=0.05", fontsize=9)
+a.set_xlabel("断言（按 q 升序）")
+a.set_ylabel("-log10(q)")
+a.set_title("④ BH-FDR 后 q 值分布\n绿=过闸 红=被拦", fontsize=11)
+
+# --- (1,1) G4 稳健性 ---
+a = ax[1, 1]
+burns = [0, 20, 50, 100, 200, 400]
+closed = [0.164098, 0.142586, 0.125558, 0.103676, 0.076096, 0.045511]
+openv = [0.0079131, 0.00071858, 0.00099121, 0.00091236, 0.00075771, 0.00074516]
+a.plot(burns, closed, "o-", color="#54a24b", lw=2, label="closed(相倚·真学习)")
+a.plot(burns, openv, "s-", color="#e45756", lw=2, label="open(相继·估计器假象)")
+a.axhline(0, color="k", lw=0.8)
+a.set_xlabel("burn-in 拍数")
+a.set_ylabel("学到的 fg")
+a.set_title("⑤ G4 稳健性闸：换分析变体后\n真效应剩 63%，假象只剩 12%", fontsize=11)
+a.legend(fontsize=8)
+a.set_yscale("log")
+
+# --- (1,2) 被拦原因统计 ---
+a = ax[1, 2]
+from collections import Counter
+cnt = Counter()
+for c in gated:
+    for r in c.get("gate_reasons", []):
+        cnt[r.split(":")[0]] += 1
+for c in raw["claims"]:
+    for r in c.get("gate_reasons", []) if "gate_reasons" in c else []:
+        cnt[r.split(":")[0]] += 1
+labels = {"G1_FAIL": "G1 效应量", "G2_FAIL": "G2 多重比较",
+          "G3_FAIL": "G3 数据充足", "G4_FAIL": "G4 稳健性"}
+ks = [k for k in ["G1_FAIL", "G2_FAIL", "G3_FAIL", "G4_FAIL"] if cnt.get(k)]
+vs = [cnt[k] for k in ks]
+if ks:
+    a.barh([labels[k] for k in ks], vs, color=["#4c78a8", "#f58518", "#e45756", "#b279a2"][:len(ks)])
+    for i, v in enumerate(vs):
+        a.text(v + 0.3, i, str(v), va="center", fontsize=11, fontweight="bold")
+a.set_title("⑥ 各闸拦截次数", fontsize=11)
+a.set_xlabel("次数")
+
+plt.tight_layout()
+plt.savefig("fig128.png", dpi=110, bbox_inches="tight")
+print("saved fig128.png")

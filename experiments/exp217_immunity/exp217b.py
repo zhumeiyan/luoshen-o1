@@ -1,1 +1,89 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMjE3Yu+8mumHjeaWsOagh+WumuOAguWogeiDgeS8mOWKv+iwg+WwjyhDPTAuMTUp77yM5omr5o+P6KeB6K+B5Lq66YeH5qC3546HIHPvvIzkv67or6/kvKTmjIfmoIciIiIKaW1wb3J0IG51bXB5IGFzIG5wLCBqc29uCgpCQVNFLCBCLCBDLCBLLCBHRU5TID0gMS4wLCAwLjYsIDAuMTUsIDIwMCwgNDAwCkxBTSwgRlAsIE5PSVNFID0gMC4xNSwgMC4wMiwgMC4wNQoKZGVmIHJ1bihzY2VuYXJpbywgc3RyYXRlZ3ksIHNlZWQsIHM9MC4zLCBtPTAuMDEsIHE9MC4wMSwgYWRhcHRpdmU9RmFsc2UpOgogICAgcm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpOyBOID0gSwogICAgdHlwID0gbnAuemVyb3MoTiwgZHR5cGU9bnAuaW50OCk7IG1hcmsgPSBucC56ZXJvcyhOLCBkdHlwZT1ucC5pbnQ4KQogICAgY29udHJpYiA9IG5wLm9uZXMoTiwgZHR5cGU9ZmxvYXQpCiAgICBpZiBzY2VuYXJpbyA9PSAnZXh0ZXJuYWwnOgogICAgICAgIG4wID0gbWF4KDEsIGludCgwLjAyICogTikpOyB0eXBbOm4wXSA9IDE7IG1hcmtbOm4wXSA9IDE7IGNvbnRyaWJbOm4wXSA9IDAuMAogICAgbl9taXMgPSAwOyBmaXJzdF9jbGVhciA9IE5vbmU7IEhsID0gW10KICAgIGZvciBnIGluIHJhbmdlKEdFTlMpOgogICAgICAgIEcgPSBjb250cmliLm1lYW4oKQogICAgICAgIGZpdCA9IEJBU0UgKyBCICogRyAtIEMgKiBjb250cmliCiAgICAgICAgaWYgc3RyYXRlZ3kgaW4gKCd3aXRuZXNzJywgJ2NvbWJvJyk6CiAgICAgICAgICAgIGZpdCA9IG5wLndoZXJlKHR5cCA9PSAwLCBmaXQgLSBMQU0gKiBzLCBmaXQpCiAgICAgICAgZml0ID0gbnAuY2xpcChmaXQsIDFlLTYsIE5vbmUpCiAgICAgICAgaWR4ID0gcm5nLmNob2ljZShOLCBzaXplPU4sIHJlcGxhY2U9VHJ1ZSwgcD1maXQgLyBmaXQuc3VtKCkpCiAgICAgICAgdHlwLCBtYXJrLCBjb250cmliID0gdHlwW2lkeF0uY29weSgpLCBtYXJrW2lkeF0uY29weSgpLCBjb250cmliW2lkeF0uY29weSgpCiAgICAgICAgaWYgc2NlbmFyaW8gPT0gJ2V4dGVybmFsJzoKICAgICAgICAgICAgbl9pbiA9IHJuZy5iaW5vbWlhbChOLCBtKQogICAgICAgICAgICBpZiBuX2luOgogICAgICAgICAgICAgICAgcG9zID0gcm5nLmNob2ljZShOLCBzaXplPW5faW4sIHJlcGxhY2U9RmFsc2UpOyB0eXBbcG9zXT0xOyBtYXJrW3Bvc109MTsgY29udHJpYltwb3NdPTAuMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG11dCA9IChybmcucmFuZG9tKE4pIDwgcSkgJiAodHlwID09IDApCiAgICAgICAgICAgIGlmIG11dC5hbnkoKTogdHlwW211dF0gPSAxOyBjb250cmliW211dF0gPSAwLjAKICAgICAgICBraWxsID0gbnAuemVyb3MoTiwgZHR5cGU9Ym9vbCkKICAgICAgICBtaXNfdGhpcyA9IDAKICAgICAgICBpZiBzdHJhdGVneSA9PSAnbWFya2VyJzoKICAgICAgICAgICAga2lsbCB8PSAobWFyayA9PSAxKQogICAgICAgIGVsaWYgc3RyYXRlZ3kgPT0gJ3NlbGZyZXBvcnQnOgogICAgICAgICAgICBraWxsIHw9IChucC53aGVyZSh0eXAgPT0gMSwgMS4wLCBjb250cmliKSA8IDAuNSkKICAgICAgICBlbGlmIHN0cmF0ZWd5IGluICgnd2l0bmVzcycsICdjb21ibycpOgogICAgICAgICAgICBpZiBzdHJhdGVneSA9PSAnY29tYm8nOiBraWxsIHw9IChtYXJrID09IDEpCiAgICAgICAgICAgIG5fcyA9IG1heCgxLCBpbnQocm91bmQocyAqIE4pKSkKICAgICAgICAgICAgc2FtcCA9IHJuZy5jaG9pY2UoTiwgc2l6ZT1uX3MsIHJlcGxhY2U9RmFsc2UpCiAgICAgICAgICAgIGJhZCA9IHNhbXBbY29udHJpYltzYW1wXSArIHJuZy5ub3JtYWwoMCwgTk9JU0UsIG5fcykgPCAwLjVdCiAgICAgICAgICAgIGtrID0gbnAuemVyb3MoTiwgZHR5cGU9Ym9vbCk7IGtrW2JhZF0gPSBUcnVlOyBraWxsIHw9IGtrCiAgICAgICAgbWlzID0gKHR5cCA9PSAwKSAmIGtpbGwKICAgICAgICBtaXNfdGhpcyA9IGludChtaXMuc3VtKCkpOyBuX21pcyArPSBtaXNfdGhpcwogICAgICAgIGFsaXZlID0gfmtpbGwKICAgICAgICBpZiBhbGl2ZS5zdW0oKSA9PSAwOiBhbGl2ZVs6XSA9IFRydWU7IHR5cFs6XT0wOyBtYXJrWzpdPTA7IGNvbnRyaWJbOl09MS4wCiAgICAgICAgaWYgYWxpdmUuc3VtKCkgPCBOOgogICAgICAgICAgICByZXAgPSBybmcuY2hvaWNlKG5wLndoZXJlKGFsaXZlKVswXSwgc2l6ZT1OLWFsaXZlLnN1bSgpLCByZXBsYWNlPVRydWUpCiAgICAgICAgICAgIGFpID0gbnAuY29uY2F0ZW5hdGUoW25wLndoZXJlKGFsaXZlKVswXSwgcmVwXSkKICAgICAgICBlbHNlOiBhaSA9IG5wLndoZXJlKGFsaXZlKVswXQogICAgICAgIHR5cCwgbWFyaywgY29udHJpYiA9IHR5cFthaV0sIG1hcmtbYWldLCBjb250cmliW2FpXQogICAgICAgIEhsLmFwcGVuZChmbG9hdChjb250cmliLm1lYW4oKSkpCiAgICAgICAgaWYgZmxvYXQoKHR5cD09MSkubWVhbigpKSA9PSAwLjAgYW5kIGZpcnN0X2NsZWFyIGlzIE5vbmUgYW5kIGcgPiA1OiBmaXJzdF9jbGVhciA9IGcKICAgIHJldHVybiB7J3NjZW5hcmlvJzpzY2VuYXJpbywnc3RyYXRlZ3knOnN0cmF0ZWd5LCdzZWVkJzpzZWVkLCdzJzpzLAogICAgICAgICAgICAndGhyZWF0X2ZpbmFsJzpmbG9hdCgodHlwPT0xKS5tZWFuKCkpLCdIX2ZpbmFsJzpmbG9hdChjb250cmliLm1lYW4oKSksCiAgICAgICAgICAgICdIX21lYW5fbGFzdDUwJzpmbG9hdChucC5tZWFuKEhsWy01MDpdKSksCiAgICAgICAgICAgICdtaXNfcGVyX2dlbic6bl9taXMvKEdFTlMqTiksJ2NsZWFyX2dlbic6Zmlyc3RfY2xlYXIsCiAgICAgICAgICAgICdIX2hpc3QnOltyb3VuZCh4LDQpIGZvciB4IGluIEhsWzo6OF1dfQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIFNUUkFUUyA9IFsnbm9uZScsJ21hcmtlcicsJ3NlbGZyZXBvcnQnLCd3aXRuZXNzJywnY29tYm8nXQogICAgU0VFRFMgPSBbMCwxLDIsMyw0XQogICAgb3V0ID0ge30KICAgIHByaW50KCc9PT0g6YeH5qC3546H5omr5o+P77yId2l0bmVzcywg5YaF55Sf5Zy65pmv77yJPT09JykKICAgIHByaW50KGYieydzJzo+Nn17J+WogeiDgee7iOWAvCc6PjEwfXsnSOe7iOWAvCc6PjEwfXsn6K+v5p2AL+S7oyc6PjEwfSIpCiAgICBzY2FuID0gW10KICAgIGZvciBzIGluIFswLjA1LDAuMSwwLjIsMC4zLDAuNSwwLjcsMC45LDEuMF06CiAgICAgICAgcnMgPSBbcnVuKCdpbnRlcm5hbCcsJ3dpdG5lc3MnLHNkLHM9cykgZm9yIHNkIGluIFNFRURTXQogICAgICAgIHRmPW5wLm1lYW4oW3JbJ3RocmVhdF9maW5hbCddIGZvciByIGluIHJzXSk7IGhmPW5wLm1lYW4oW3JbJ0hfZmluYWwnXSBmb3IgciBpbiByc10pCiAgICAgICAgbWc9bnAubWVhbihbclsnbWlzX3Blcl9nZW4nXSBmb3IgciBpbiByc10pCiAgICAgICAgc2Nhbi5hcHBlbmQoeydzJzpzLCd0aHJlYXRfZmluYWwnOnJvdW5kKHRmLDQpLCdIX2ZpbmFsJzpyb3VuZChoZiw0KSwnbWlzX3Blcl9nZW4nOnJvdW5kKG1nLDUpfSkKICAgICAgICBwcmludChmIntzOj42fXt0Zjo+MTAuM2Z9e2hmOj4xMC4zZn17bWc6PjEwLjRmfSIpCiAgICBvdXRbJ3NjYW5fcyddID0gc2NhbgogICAgcHJpbnQoKQogICAgZm9yIHNjLGtleSBpbiAoKCdleHRlcm5hbCcsJ0FfZXh0ZXJuYWwnKSwoJ2ludGVybmFsJywnQl9pbnRlcm5hbCcpKToKICAgICAgICBwcmludChmJz09PSB7IkEg5aSW6YOo5aiB6IOBKOW4pumdnuW3seagh+iusCkiIGlmIHNjPT0iZXh0ZXJuYWwiIGVsc2UgIkIg5YaF55Sf5aiB6IOBKG1hcmtlcj1zZWxmKSJ9ID09PScpCiAgICAgICAgcHJpbnQoZiJ7J+etlueVpSc6PDEyfXsn5aiB6IOB57uI5YC8Jzo+MTB9eydI57uI5YC8Jzo+MTB9eyfor6/mnYAv5LujJzo+MTB9eyfmuIXpm7YnOj43fSIpCiAgICAgICAgcm93cz1bXQogICAgICAgIGZvciBzdCBpbiBTVFJBVFM6CiAgICAgICAgICAgIHJzPVtydW4oc2Msc3Qsc2Qscz0wLjMpIGZvciBzZCBpbiBTRUVEU10KICAgICAgICAgICAgdGY9bnAubWVhbihbclsndGhyZWF0X2ZpbmFsJ10gZm9yIHIgaW4gcnNdKTsgaGY9bnAubWVhbihbclsnSF9maW5hbCddIGZvciByIGluIHJzXSkKICAgICAgICAgICAgbWc9bnAubWVhbihbclsnbWlzX3Blcl9nZW4nXSBmb3IgciBpbiByc10pCiAgICAgICAgICAgIGNnPXN1bSgxIGZvciByIGluIHJzIGlmIHJbJ2NsZWFyX2dlbiddIGlzIG5vdCBOb25lKQogICAgICAgICAgICByb3dzLmFwcGVuZCh7J3N0cmF0ZWd5JzpzdCwndGhyZWF0X2ZpbmFsJzpyb3VuZCh0Ziw0KSwnSF9maW5hbCc6cm91bmQoaGYsNCksCiAgICAgICAgICAgICAgICAgICAgICAgICAnbWlzX3Blcl9nZW4nOnJvdW5kKG1nLDUpLCdjbGVhcmVkJzpmIntjZ30ve2xlbihycyl9In0pCiAgICAgICAgICAgIHByaW50KGYie3N0OjwxMn17dGY6PjEwLjNmfXtoZjo+MTAuM2Z9e21nOj4xMC40Zn17c3RyKGNnKSsnLycrc3RyKGxlbihycykpOj43fSIpCiAgICAgICAgb3V0W2tleV09cm93cwogICAgICAgIHByaW50KCkKICAgIGpzb24uZHVtcChvdXQsIG9wZW4oJ3Jlc3VsdDIxN2IuanNvbicsJ3cnKSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkKICAgIHByaW50KCdzYXZlZCByZXN1bHQyMTdiLmpzb24nKQo=
+# -*- coding: utf-8 -*-
+"""217b：重新标定。威胁优势调小(C=0.15)，扫描见证人采样率 s，修误伤指标"""
+import numpy as np, json
+
+BASE, B, C, K, GENS = 1.0, 0.6, 0.15, 200, 400
+LAM, FP, NOISE = 0.15, 0.02, 0.05
+
+def run(scenario, strategy, seed, s=0.3, m=0.01, q=0.01, adaptive=False):
+    rng = np.random.default_rng(seed); N = K
+    typ = np.zeros(N, dtype=np.int8); mark = np.zeros(N, dtype=np.int8)
+    contrib = np.ones(N, dtype=float)
+    if scenario == 'external':
+        n0 = max(1, int(0.02 * N)); typ[:n0] = 1; mark[:n0] = 1; contrib[:n0] = 0.0
+    n_mis = 0; first_clear = None; Hl = []
+    for g in range(GENS):
+        G = contrib.mean()
+        fit = BASE + B * G - C * contrib
+        if strategy in ('witness', 'combo'):
+            fit = np.where(typ == 0, fit - LAM * s, fit)
+        fit = np.clip(fit, 1e-6, None)
+        idx = rng.choice(N, size=N, replace=True, p=fit / fit.sum())
+        typ, mark, contrib = typ[idx].copy(), mark[idx].copy(), contrib[idx].copy()
+        if scenario == 'external':
+            n_in = rng.binomial(N, m)
+            if n_in:
+                pos = rng.choice(N, size=n_in, replace=False); typ[pos]=1; mark[pos]=1; contrib[pos]=0.0
+        else:
+            mut = (rng.random(N) < q) & (typ == 0)
+            if mut.any(): typ[mut] = 1; contrib[mut] = 0.0
+        kill = np.zeros(N, dtype=bool)
+        mis_this = 0
+        if strategy == 'marker':
+            kill |= (mark == 1)
+        elif strategy == 'selfreport':
+            kill |= (np.where(typ == 1, 1.0, contrib) < 0.5)
+        elif strategy in ('witness', 'combo'):
+            if strategy == 'combo': kill |= (mark == 1)
+            n_s = max(1, int(round(s * N)))
+            samp = rng.choice(N, size=n_s, replace=False)
+            bad = samp[contrib[samp] + rng.normal(0, NOISE, n_s) < 0.5]
+            kk = np.zeros(N, dtype=bool); kk[bad] = True; kill |= kk
+        mis = (typ == 0) & kill
+        mis_this = int(mis.sum()); n_mis += mis_this
+        alive = ~kill
+        if alive.sum() == 0: alive[:] = True; typ[:]=0; mark[:]=0; contrib[:]=1.0
+        if alive.sum() < N:
+            rep = rng.choice(np.where(alive)[0], size=N-alive.sum(), replace=True)
+            ai = np.concatenate([np.where(alive)[0], rep])
+        else: ai = np.where(alive)[0]
+        typ, mark, contrib = typ[ai], mark[ai], contrib[ai]
+        Hl.append(float(contrib.mean()))
+        if float((typ==1).mean()) == 0.0 and first_clear is None and g > 5: first_clear = g
+    return {'scenario':scenario,'strategy':strategy,'seed':seed,'s':s,
+            'threat_final':float((typ==1).mean()),'H_final':float(contrib.mean()),
+            'H_mean_last50':float(np.mean(Hl[-50:])),
+            'mis_per_gen':n_mis/(GENS*N),'clear_gen':first_clear,
+            'H_hist':[round(x,4) for x in Hl[::8]]}
+
+if __name__ == '__main__':
+    STRATS = ['none','marker','selfreport','witness','combo']
+    SEEDS = [0,1,2,3,4]
+    out = {}
+    print('=== 采样率扫描（witness, 内生场景）===')
+    print(f"{'s':>6}{'威胁终值':>10}{'H终值':>10}{'误杀/代':>10}")
+    scan = []
+    for s in [0.05,0.1,0.2,0.3,0.5,0.7,0.9,1.0]:
+        rs = [run('internal','witness',sd,s=s) for sd in SEEDS]
+        tf=np.mean([r['threat_final'] for r in rs]); hf=np.mean([r['H_final'] for r in rs])
+        mg=np.mean([r['mis_per_gen'] for r in rs])
+        scan.append({'s':s,'threat_final':round(tf,4),'H_final':round(hf,4),'mis_per_gen':round(mg,5)})
+        print(f"{s:>6}{tf:>10.3f}{hf:>10.3f}{mg:>10.4f}")
+    out['scan_s'] = scan
+    print()
+    for sc,key in (('external','A_external'),('internal','B_internal')):
+        print(f'=== {"A 外部威胁(带非己标记)" if sc=="external" else "B 内生威胁(marker=self)"} ===')
+        print(f"{'策略':<12}{'威胁终值':>10}{'H终值':>10}{'误杀/代':>10}{'清零':>7}")
+        rows=[]
+        for st in STRATS:
+            rs=[run(sc,st,sd,s=0.3) for sd in SEEDS]
+            tf=np.mean([r['threat_final'] for r in rs]); hf=np.mean([r['H_final'] for r in rs])
+            mg=np.mean([r['mis_per_gen'] for r in rs])
+            cg=sum(1 for r in rs if r['clear_gen'] is not None)
+            rows.append({'strategy':st,'threat_final':round(tf,4),'H_final':round(hf,4),
+                         'mis_per_gen':round(mg,5),'cleared':f"{cg}/{len(rs)}"})
+            print(f"{st:<12}{tf:>10.3f}{hf:>10.3f}{mg:>10.4f}{str(cg)+'/'+str(len(rs)):>7}")
+        out[key]=rows
+        print()
+    json.dump(out, open('result217b.json','w'), ensure_ascii=False, indent=1)
+    print('saved result217b.json')

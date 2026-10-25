@@ -1,1 +1,19 @@
-IiIi6ICz5py16YCa6Lev77ya5aOw5rOiIC0+IOivneetkijmjaLog73lmagpIC0+IHdhdiAtPiBGRlQo6ICz6JyX6aKR546H5YiG5p6QKSAtPiDpopHosLHlkJHph48iIiIKaW1wb3J0IG51bXB5IGFzIG5wLCB3YXZlLCBzdHJ1Y3QKc3I9MTYwMDA7IGR1cj0xLjAKdD1ucC5saW5zcGFjZSgwLGR1cixpbnQoc3IqZHVyKSxlbmRwb2ludD1GYWxzZSkKIyDkuIDmrrUi6K+t6Z+z5qC3IuWkjeWQiOWjsO+8muWfuumikSAyMjBIeiArIOS4ieS4quazm+mfs++8jOaooeaLn+ivneetkuaUtuWIsOeahOWjsOmfswpzaWc9KDAuNipucC5zaW4oMipucC5waSoyMjAqdCkrMC40Km5wLnNpbigyKm5wLnBpKjQ0MCp0KQogICAgICswLjMqbnAuc2luKDIqbnAucGkqODgwKnQpKzAuMipucC5zaW4oMipucC5waSoxMzIwKnQpKQpzaWc9KHNpZyozMjc2NyowLjcpLmFzdHlwZShucC5pbnQxNikKd2l0aCB3YXZlLm9wZW4oIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xLy5zZW5zZS9taWMud2F2Iiwid2IiKSBhcyB3OgogICAgdy5zZXRuY2hhbm5lbHMoMSk7IHcuc2V0c2FtcHdpZHRoKDIpOyB3LnNldGZyYW1lcmF0ZShzcikKICAgIHcud3JpdGVmcmFtZXMoc2lnLnRvYnl0ZXMoKSkKcHJpbnQoIm1pYy53YXYgd3JpdHRlbjoiLCBsZW4oc2lnKSwgInNhbXBsZXMgQCIsIHNyLCAiSHoiKQojIOivneetkuaNouiDve+8mkZGVCAtPiDpopHosLEKeD1zaWcuYXN0eXBlKGZsb2F0KS8zMjc2OC4wClg9bnAuYWJzKG5wLmZmdC5yZmZ0KHgqbnAuaGFubmluZyhsZW4oeCkpKSkKZj1ucC5mZnQucmZmdGZyZXEobGVuKHgpLDEuMC9zcikKaWR4PW5wLmFyZ3NvcnQoWClbOjotMV1bOjZdCnBlYWtzPXNvcnRlZChyb3VuZChmbG9hdChmW2ldKSkgZm9yIGkgaW4gaWR4KQpwcmludCgi6ICz6JyX5o2i6IO96L6T5Ye6KOmikeiwseWzsOWAvCBIeik6IiwgcGVha3MpCg==
+"""耳朵通路：声波 -> 话筒(换能器) -> wav -> FFT(耳蜗频率分析) -> 频谱向量"""
+import numpy as np, wave, struct
+sr=16000; dur=1.0
+t=np.linspace(0,dur,int(sr*dur),endpoint=False)
+# 一段"语音样"复合声：基频 220Hz + 三个泛音，模拟话筒收到的声音
+sig=(0.6*np.sin(2*np.pi*220*t)+0.4*np.sin(2*np.pi*440*t)
+     +0.3*np.sin(2*np.pi*880*t)+0.2*np.sin(2*np.pi*1320*t))
+sig=(sig*32767*0.7).astype(np.int16)
+with wave.open("/data/workspace/luoshen-o1/.sense/mic.wav","wb") as w:
+    w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr)
+    w.writeframes(sig.tobytes())
+print("mic.wav written:", len(sig), "samples @", sr, "Hz")
+# 话筒换能：FFT -> 频谱
+x=sig.astype(float)/32768.0
+X=np.abs(np.fft.rfft(x*np.hanning(len(x))))
+f=np.fft.rfftfreq(len(x),1.0/sr)
+idx=np.argsort(X)[::-1][:6]
+peaks=sorted(round(float(f[i])) for i in idx)
+print("耳蜗换能输出(频谱峰值 Hz):", peaks)

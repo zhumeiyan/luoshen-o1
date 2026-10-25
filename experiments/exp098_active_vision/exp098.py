@@ -1,1 +1,245 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiMDk4IOS4u+WKqOinhuinie+8muinhumHjuWwj+S6juS4lueVjOaXtu+8jOaAjuS5iOWKqOeci+W+l+acgOWkmgoK55So5oi35ZG96aKY77yaCiAgIuS6uuexu+eci+ingeS6huS4nOilv++8jOecvOeQg+WcqOWKqCDigJTigJQg5LuA5LmI6IO95Yqo77yf5bim5pGE5YOP5aS055qE5LuA5LmI6IO95Yqo77yfIgogICLog73orqnoh6rlt7Hlj5jmiJDkuIDkuKrmsLjov5zpg73lnKjliqjnmoTkuJzopb/lkJfvvJ8iCiAgMDk3IOe7k+iuuu+8muebuOWvuei/kOWKqOaJjeS6p+eUn+inhuinieOAguacrOi9rui/vemXru+8mumCo+ivpeaAjuS5iOWKqO+8nwoK6Ieq54S256eR5a2m5L6d5o2u77yI5paH54yu77yM6Z2e5pys5a6e6aqM6Ieq6YCg77yJ77yaCiAgKiDkuK3lpK7lh7kgZm92ZWHvvJrpq5jliIbovqjnjofljLrku4XljaDop4bph47nuqYgMsKw77yM5aSW5Zu05YiG6L6o546H5oCl5Ymn5LiL6ZmNCiAgICDihpIg6KeG6KeJ57O757uf5b+F6aG7IueUqOWkluWbtOmAieeCueOAgeeUqOS4reWkruWHuei+qOiupCLvvIzov5nmmK/kuLvliqjop4bop4nnmoTmoLnmupDjgIIKICAqIOaJq+inhiBzYWNjYWRl77yaMy00IOasoS/np5LvvIzkuKTmrKHmiavop4bkuYvpl7TmmK/ms6jop4YgZml4YXRpb27jgIIKICAqIOaKkeWItui/lOWbniBJT1LvvIhQb3NuZXIgJiBDb2hlbiAxOTg077yJ77ya5bey6KKr5rOo5oSP6L+H55qE5L2N572u77yM5rOo5oSP6L+U5Zue5Y+Y5oWiCiAgICDihpIg6Ziy5q2i5omr5o+P5Zmo5Y+N5aSN5Zue5Yiw5ZCM5LiA5aSE77yM5piv5Li75Yqo6KeG6KeJ55qE5pWI546H5py65Yi244CCCiAgKiDmmL7okZfmgKcgc2FsaWVuY3nvvIhJdHRpICYgS29jaCAxOTk477yJ77ya5aSW5Zu05L2O5YiG6L6o546H54m55b6B5byV5a+85omr6KeG6JC954K544CCCgrmoLjlv4Porr7orqHvvIgyeDIg5Lqk5LqS77yJ77yaCiAg5LiW55WM57uT5p6E77yI5Z2H5YyAIC8g6IGa57CH77yJIHgg562W55Wl77yI5peg5aSW5Zu05L+h5oGv55qE55uy5omrIC8g5pyJ5aSW5Zu05byV5a+8IC8g5aSW5Zu0K0lPUu+8iQogIOmihOazqOWGjO+8mgogICAgSDEg6IGa57CH5pe277ya5aSW5Zu05byV5a+8ID4g55uy5omr77yI5pyJ57uT5p6E5Y+v5Yip55So77yJCiAgICBIMiDlnYfljIDml7bvvJrlpJblm7TlvJXlr7zml6DkvJjlir/nlJroh7PmnInlrrPvvIjml6Dnu5PmnoTlj6/liKnnlKjvvIxJT1Ig5Y+N6ICM5oqR5Yi25pyq55yL5Yy65Z+f77yJCiAgICBIMyBJT1Ig55qE5pS255uK5L6d6LWW5LiW55WM57uT5p6E77yI5Lqk5LqS77yM5LiN5piv5Li75pWI5bqU77yJCiAgICBINCDpnZnmraLmnIDlt67vvIjop4bph44gPDwg5LiW55WM77yJCgrnnJ/lrp7mgKfvvJoKICAqIOavj+S4quazqOinhueCuemDvei1sOecn+WunuWbvuWDj+mAmui3r++8mmNyb3AgLT4gUE5HIOe8lueggeiQveebmCAtPiDor7vlm57op6PnoIEgLT4g5YaN5Yik5a6aCiAgICDvvIjkuI3mmK/lhoXlrZjmlbDnu4Tnm7TmjqXliIfniYfvvIzkuK3pl7TmnInnnJ/lrp7nvJbnoIHlvoDov5TvvIkKICAqIOaKveagt+eUqCB0ZXNzZXJhY3Qg55yfIE9DUiDpqozor4Ei5Y+v6KeB5Y2z5Y+v6K+7Iu+8jOaKpeWRiuS4gOiHtOeOhwogICog5aSW5Zu057yp55Wl5Zu+5Y2V54us5YGaIE9DUiDpmLTmgKflr7nnhafvvJrlupTlh6DkuY7or7vkuI3lh7rvvIjor4HmmI7lroPlj6rphY3lvZPlvJXlr7zvvIzkuI3phY3lvZPovqjorqTvvIkKIiIiCmltcG9ydCBvcywgc3lzLCBqc29uLCB0aW1lLCByYW5kb20sIHN1YnByb2Nlc3MsIHRlbXBmaWxlCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgY3YyCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQKCnN5cy5wYXRoLmluc2VydCgwLCAnL2RhdGEvd29ya3NwYWNlL2x1b3NoZW4tbzEvY29yZScpCmZyb20gbGlmZTUgaW1wb3J0IExpZmU1CgpPVVQgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKb3MubWFrZWRpcnMoT1VULCBleGlzdF9vaz1UcnVlKQpGT05UX1BBVEggPSAnL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS9kZWphdnUvRGVqYVZ1U2Fucy1Cb2xkLnR0ZicKCiMgLS0tLS0tLS0tLS0tLS0tLSDkuJbnlYzlj4LmlbAgLS0tLS0tLS0tLS0tLS0tLQpXT1JMRCA9IDIwNDggICAgICAgICAgIyDkuJbnlYzovrnplb8KRk9WID0gMjU2ICAgICAgICAgICAgICMg5Lit5aSu5Ye56KeG6YeO6L656ZW/77yIMS84IOe6v+WuvSAtPiDpnaLnp68gMS82NO+8iQpOX1RBUkdFVCA9IDQwICAgICAgICAgIyDnm67moIfmlbAKR0xZUEggPSA0NCAgICAgICAgICAgICMg5pWw5a2X5a2X5Y+377yI5ZyoIDI1NiDop4bph47lhoXmuIXmmbDlj6/ovqjvvIkKS19TVEVQUyA9IDQwICAgICAgICAgICMg5rOo6KeG6aKE566XClBFUklQSCA9IDY0ICAgICAgICAgICAjIOWkluWbtOe8qeeVpeWbvui+uemVvwoKRk9OVCA9IEltYWdlRm9udC50cnVldHlwZShGT05UX1BBVEgsIEdMWVBIKQoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDkuJbnlYzmnoTlu7oKZGVmIG1ha2Vfd29ybGQoZGlzdCwgc2VlZCk6CiAgICAiIiLov5Tlm54gKHdvcmxkX3VpbnQ4LCB0YXJnZXRzKQogICAgdGFyZ2V0czogbGlzdCBvZiBkaWN0KHgsIHksIHRleHQsIHgwLHkwLHgxLHkxKSAg5bem5LiK6KeS5Li6ICh4MCx5MCkiIiIKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oc2VlZCAqIDc5MTkgKyAxMykKICAgIHdvcmxkID0gbnAuZnVsbCgoV09STEQsIFdPUkxEKSwgMjU1LCBucC51aW50OCkKICAgIGltZyA9IEltYWdlLmZyb21hcnJheSh3b3JsZCkKICAgIGRyID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQoKICAgIGlmIGRpc3QgPT0gJ3VuaWZvcm0nOgogICAgICAgIHB0cyA9IFsocm5nLnVuaWZvcm0oMC4wOCwgMC45MiksIHJuZy51bmlmb3JtKDAuMDgsIDAuOTIpKQogICAgICAgICAgICAgICBmb3IgXyBpbiByYW5nZShOX1RBUkdFVCldCiAgICBlbHNlOiAgIyBjbHVzdGVyZWQ6IDUg57CHCiAgICAgICAgY2VudGVycyA9IFsocm5nLnVuaWZvcm0oMC4xNSwgMC44NSksIHJuZy51bmlmb3JtKDAuMTUsIDAuODUpKQogICAgICAgICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UoNSldCiAgICAgICAgcHRzID0gW10KICAgICAgICBwZXIgPSBOX1RBUkdFVCAvLyA1CiAgICAgICAgZm9yIGMgaW4gY2VudGVyczoKICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UocGVyKToKICAgICAgICAgICAgICAgIHB0cy5hcHBlbmQoKG1pbigwLjk1LCBtYXgoMC4wNSwgY1swXSArIHJuZy5nYXVzcygwLCAwLjAzNSkpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pbigwLjk1LCBtYXgoMC4wNSwgY1sxXSArIHJuZy5nYXVzcygwLCAwLjAzNSkpKSkpCgogICAgdGFyZ2V0cyA9IFtdCiAgICB1c2VkID0gc2V0KCkKICAgIGZvciAoZngsIGZ5KSBpbiBwdHM6CiAgICAgICAgdHh0ID0gTm9uZQogICAgICAgIGZvciBfIGluIHJhbmdlKDUwKToKICAgICAgICAgICAgdCA9ICclMDJkJyAlIHJuZy5yYW5kcmFuZ2UoMTAsIDk5KQogICAgICAgICAgICBpZiB0IG5vdCBpbiB1c2VkOgogICAgICAgICAgICAgICAgdXNlZC5hZGQodCkKICAgICAgICAgICAgICAgIHR4dCA9IHQKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgaWYgdHh0IGlzIE5vbmU6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgY3gsIGN5ID0gaW50KGZ4ICogV09STEQpLCBpbnQoZnkgKiBXT1JMRCkKICAgICAgICBiYm94ID0gZHIudGV4dGJib3goKGN4LCBjeSksIHR4dCwgZm9udD1GT05ULCBhbmNob3I9J21tJykKICAgICAgICBkci50ZXh0KChjeCwgY3kpLCB0eHQsIGZvbnQ9Rk9OVCwgZmlsbD0wLCBhbmNob3I9J21tJykKICAgICAgICB0YXJnZXRzLmFwcGVuZChkaWN0KHg9Y3gsIHk9Y3ksIHRleHQ9dHh0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgeDA9YmJveFswXSwgeTA9YmJveFsxXSwgeDE9YmJveFsyXSwgeTE9YmJveFszXSkpCiAgICByZXR1cm4gbnAuYXJyYXkoaW1nKSwgdGFyZ2V0cwoKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDnnJ/lrp7ph4fpm4YKX0NBUERJUiA9IG9zLnBhdGguam9pbihPVVQsICdfY2FwJykKb3MubWFrZWRpcnMoX0NBUERJUiwgZXhpc3Rfb2s9VHJ1ZSkKCgpkZWYgY2FwdHVyZSh3b3JsZCwgY3gsIGN5LCB0YWc9JycpOgogICAgIiIi55yf5a6e6YCa6Lev77yaY3JvcCAtPiBQTkcg6JC955uYIC0+IOivu+Wbnuino+eggeOAgui/lOWbniAoaW1nLCBwbmdfcGF0aCkiIiIKICAgIGggPSBGT1YgLy8gMgogICAgeDAgPSBpbnQobnAuY2xpcChjeCAtIGgsIDAsIFdPUkxEIC0gRk9WKSkKICAgIHkwID0gaW50KG5wLmNsaXAoY3kgLSBoLCAwLCBXT1JMRCAtIEZPVikpCiAgICBwYXRjaCA9IHdvcmxkW3kwOnkwICsgRk9WLCB4MDp4MCArIEZPVl0KICAgIHAgPSBvcy5wYXRoLmpvaW4oX0NBUERJUiwgJ2ZvdiVzXyUwNGRfJTA0ZC5wbmcnICUgKHRhZywgeDAsIHkwKSkKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhwKToKICAgICAgICBJbWFnZS5mcm9tYXJyYXkocGF0Y2gpLnNhdmUocCkKICAgIGJhY2sgPSBucC5hcnJheShJbWFnZS5vcGVuKHApLmNvbnZlcnQoJ0wnKSkKICAgIHJldHVybiBiYWNrLCBwLCAoeDAsIHkwKQoKCmRlZiBwZXJpcGhlcmFsKHdvcmxkKToKICAgICIiIuWkluWbtO+8muaVtOS4quS4lueVjOe8qeWIsCA2NHg2NCDlubbmqKHns4ogLT4g5pyJ5a+G5bqm5L+h5oGv44CB5peg5a2X5b2i5L+h5oGvIiIiCiAgICBzbWFsbCA9IGN2Mi5yZXNpemUod29ybGQsIChQRVJJUEgsIFBFUklQSCksIGludGVycG9sYXRpb249Y3YyLklOVEVSX0FSRUEpCiAgICBzbWFsbCA9IGN2Mi5HYXVzc2lhbkJsdXIoc21hbGwsICg1LCA1KSwgMCkKICAgIHJldHVybiBzbWFsbAoKCmRlZiB2aXNpYmxlX2luKHRhcmdldHMsIGJveCk6CiAgICAiIiLlrozmlbTokL3lnKjop4bph47lhoUgPSDor6XmraXlj6/ovqjorqQiIiIKICAgIHgwLCB5MCA9IGJveAogICAgeDEsIHkxID0geDAgKyBGT1YsIHkwICsgRk9WCiAgICBvdXQgPSBbXQogICAgZm9yIHQgaW4gdGFyZ2V0czoKICAgICAgICBpZiB0Wyd4MCddID49IHgwIGFuZCB0Wyd5MCddID49IHkwIGFuZCB0Wyd4MSddIDw9IHgxIGFuZCB0Wyd5MSddIDw9IHkxOgogICAgICAgICAgICBvdXQuYXBwZW5kKHQpCiAgICByZXR1cm4gb3V0CgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOetlueVpQpkZWYgc2FsaWVuY3lfbWFwKHBlcmlwaCk6CiAgICAiIiLlpJblm7TnvKnnlaXlm74gLT4g5q+P5Liq5YCZ6YCJ5rOo6KeG5Lit5b+D55qEJ+WiqOi/uemHjyfvvIjlj6rpnIDnrpfkuIDmrKHvvIkiIiIKICAgIFAgPSBwZXJpcGguc2hhcGVbMF0KICAgIHdpbiA9IG1heCgxLCBGT1YgKiBQIC8vIFdPUkxEKQogICAgaW5rID0gKDI1NSAtIHBlcmlwaC5hc3R5cGUobnAuZmxvYXQzMikpIC8gMjU1LjAKICAgIHBhZCA9IG5wLnBhZChpbmssICgoMCwgd2luKSwgKDAsIHdpbikpLCBtb2RlPSdjb25zdGFudCcpCiAgICBpbnRlZyA9IHBhZC5jdW1zdW0oMCkuY3Vtc3VtKDEpCiAgICBpbnRlZyA9IG5wLnBhZChpbnRlZywgKCgxLCAwKSwgKDEsIDApKSwgbW9kZT0nY29uc3RhbnQnKQogICAgSCA9IFAgLSB3aW4gKyAxCiAgICBTID0gbnAuemVyb3MoKEgsIEgpLCBucC5mbG9hdDMyKQogICAgZm9yIHIgaW4gcmFuZ2UoSCk6CiAgICAgICAgZm9yIGMgaW4gcmFuZ2UoSCk6CiAgICAgICAgICAgIFNbciwgY10gPSAoaW50ZWdbciArIHdpbiwgYyArIHdpbl0gLSBpbnRlZ1tyLCBjICsgd2luXQogICAgICAgICAgICAgICAgICAgICAgIC0gaW50ZWdbciArIHdpbiwgY10gKyBpbnRlZ1tyLCBjXSkKICAgIHJldHVybiBTLCBILCBQLCB3aW4KCgpkZWYgc3RyYXRlZ3lfbmV4dChtb2RlLCBzdGF0ZSwgUywgSCwgcm5nKToKICAgICIiIui/lOWbnuS4i+S4gOS4quazqOinhuS4reW/gyAoY3gsIGN5KSIiIgogICAgaCA9IEZPViAvLyAyCiAgICBsbywgaGkgPSBoLCBXT1JMRCAtIGgKICAgIHdpbiA9IHN0YXRlLmdldCgnd2luJywgRk9WICogUEVSSVBIIC8vIFdPUkxEKQogICAgUCA9IHN0YXRlLmdldCgnUCcsIFBFUklQSCkKICAgIGlmIG1vZGUgPT0gJ3N0YXRpYyc6CiAgICAgICAgc3RhdGVbJ3Zpc2l0ZWQnXS5hcHBlbmQoKEggLy8gMiwgSCAvLyAyKSkKICAgICAgICByZXR1cm4gc3RhdGVbJ3N0YXJ0J10KICAgIGlmIG1vZGUgPT0gJ3Jhc3Rlcic6CiAgICAgICAgIyDml6Dop4blpJblm7TvvIzmjIkgOHg4IOe9keagvOmhuuW6j+mTugogICAgICAgIGcgPSA4CiAgICAgICAgaSA9IHN0YXRlWydzdGVwJ10gJSAoZyAqIGcpCiAgICAgICAgZ3gsIGd5ID0gaSAlIGcsIGkgLy8gZwogICAgICAgIHN0YXRlWyd2aXNpdGVkJ10uYXBwZW5kKChneCwgZ3kpKQogICAgICAgIHJldHVybiAoaW50KGxvICsgKGhpIC0gbG8pICogZ3ggLyAoZyAtIDEpKSwKICAgICAgICAgICAgICAgIGludChsbyArIChoaSAtIGxvKSAqIGd5IC8gKGcgLSAxKSkpCiAgICBpZiBtb2RlID09ICdyYW5kb20nOgogICAgICAgIGN4LCBjeSA9IHJuZy5yYW5kaW50KGxvLCBoaSksIHJuZy5yYW5kaW50KGxvLCBoaSkKICAgICAgICBzdGF0ZVsndmlzaXRlZCddLmFwcGVuZCgoaW50KGN4ICogUCAvIFdPUkxEKSwgaW50KGN5ICogUCAvIFdPUkxEKSkpCiAgICAgICAgcmV0dXJuIChjeCwgY3kpCiAgICBpZiBtb2RlIGluICgnc2FsaWVudCcsICdzYWxpZW50X2lvcicsICdodW1hbicpOgogICAgICAgIHcgPSBTLmNvcHkoKQogICAgICAgIGlmIG1vZGUgaW4gKCdzYWxpZW50X2lvcicsICdodW1hbicpOgogICAgICAgICAgICAjIElPUu+8muW3suazqOinhui/h+eahOagvOWtkOadg+mHjeihsOWHj++8iOS5mOaAp+aKkeWItu+8iQogICAgICAgICAgICBmb3IgKGd4LCBneSkgaW4gc3RhdGVbJ3Zpc2l0ZWQnXToKICAgICAgICAgICAgICAgIGlmIDAgPD0gZ3kgPCBIIGFuZCAwIDw9IGd4IDwgSDoKICAgICAgICAgICAgICAgICAgICB3W2d5LCBneF0gKj0gc3RhdGVbJ2lvcl9kZWNheSddCiAgICAgICAgaWYgbW9kZSA9PSAnaHVtYW4nOgogICAgICAgICAgICAjIOaJq+inhuiQveeCueWZquWjsCArIOWBtuWwlOWbnueci++8iOaooeaLn+S6uuexu+S4jeWujOe+ju+8iQogICAgICAgICAgICB3ID0gdyAqICgxLjAgKyBybmcuZ2F1c3MoMCwgMC4xNSkpCiAgICAgICAgaWR4ID0gaW50KG5wLmFyZ21heCh3KSkKICAgICAgICBneSwgZ3ggPSBkaXZtb2QoaWR4LCBIKQogICAgICAgIHN0YXRlWyd2aXNpdGVkJ10uYXBwZW5kKChneCwgZ3kpKSAgICMg6K6w5b2V6KKr6YCJ5Lit55qE5pi+6JGX5Zu+5qC85a2QCiAgICAgICAgIyDnvKnnlaXlm77moLzlrZAgLT4g5LiW55WM5Z2Q5qCH77yIK3dpbi8yIOWPlueql+WPo+S4reW/g++8iQogICAgICAgIGN4ID0gaW50KChneCArIHdpbiAvIDIpICogV09STEQgLyBQKQogICAgICAgIGN5ID0gaW50KChneSArIHdpbiAvIDIpICogV09STEQgLyBQKQogICAgICAgIGlmIG1vZGUgPT0gJ2h1bWFuJzoKICAgICAgICAgICAgY3ggKz0gaW50KHJuZy5nYXVzcygwLCAyNCkpCiAgICAgICAgICAgIGN5ICs9IGludChybmcuZ2F1c3MoMCwgMjQpKQogICAgICAgIHJldHVybiAoaW50KG5wLmNsaXAoY3gsIGxvLCBoaSkpLCBpbnQobnAuY2xpcChjeSwgbG8sIGhpKSkpCiAgICByYWlzZSBWYWx1ZUVycm9yKG1vZGUpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOS4gOi9ruaJq+aPjwpkZWYgcnVuX3NjYW4od29ybGQsIHRhcmdldHMsIG1vZGUsIHNlZWQsIGlvcl9kZWNheT0wLjE1LCBkb19vY3I9MCk6CiAgICBybmcgPSByYW5kb20uUmFuZG9tKHNlZWQgKiAxMDQ3MjkgKyA3KQogICAgcGVyaXBoID0gcGVyaXBoZXJhbCh3b3JsZCkKICAgIFMsIEgsIFAsIHdpbiA9IHNhbGllbmN5X21hcChwZXJpcGgpCiAgICBoID0gRk9WIC8vIDIKICAgIHN0YXRlID0geydzdGVwJzogMCwgJ3Zpc2l0ZWQnOiBbXSwgJ2lvcl9kZWNheSc6IGlvcl9kZWNheSwKICAgICAgICAgICAgICdzdGFydCc6IChXT1JMRCAvLyAyLCBXT1JMRCAvLyAyKSwKICAgICAgICAgICAgICdQJzogUCwgJ3dpbic6IHdpbn0KICAgIHNlZW4gPSB7fQogICAgc3RlcHNfbmV3ID0gW10KICAgIG9jcl9oaXRzLCBvY3JfdG90ID0gMCwgMAogICAgZm9yIGsgaW4gcmFuZ2UoS19TVEVQUyk6CiAgICAgICAgc3RhdGVbJ3N0ZXAnXSA9IGsKICAgICAgICBjeCwgY3kgPSBzdHJhdGVneV9uZXh0KG1vZGUsIHN0YXRlLCBTLCBILCBybmcpCiAgICAgICAgaW1nLCBwbmdwLCBib3ggPSBjYXB0dXJlKHdvcmxkLCBjeCwgY3ksIHRhZz0nX3MlZCcgJSBzZWVkKQogICAgICAgIHZpcyA9IHZpc2libGVfaW4odGFyZ2V0cywgYm94KQogICAgICAgIG5ldyA9IDAKICAgICAgICBmb3IgdCBpbiB2aXM6CiAgICAgICAgICAgIGlmIHRbJ3RleHQnXSBub3QgaW4gc2VlbjoKICAgICAgICAgICAgICAgIHNlZW5bdFsndGV4dCddXSA9IHQKICAgICAgICAgICAgICAgIG5ldyArPSAxCiAgICAgICAgc3RlcHNfbmV3LmFwcGVuZChuZXcpCiAgICAgICAgaWYgZG9fb2NyIGFuZCB2aXM6CiAgICAgICAgICAgICMg55yfIE9DUiDplJrlrprvvJrlj6/op4HnmoTnm67moIfvvIzlrp7pmYXor7vlh7rmnaXkuoblkJcKICAgICAgICAgICAgb2NyX3RvdCArPSAxCiAgICAgICAgICAgIHR4dCA9IG9jcl9yZWFkKHBuZ3ApCiAgICAgICAgICAgIGlmIGFueSh0Wyd0ZXh0J10gaW4gdHh0IGZvciB0IGluIHZpcyk6CiAgICAgICAgICAgICAgICBvY3JfaGl0cyArPSAxCiAgICBkdXAgPSBLX1NURVBTIC0gbGVuKHNldChzdGF0ZVsndmlzaXRlZCddKSkKICAgIHJldHVybiBkaWN0KG1vZGU9bW9kZSwgc2VlZD1zZWVkLCBmb3VuZD1sZW4oc2VlbiksIHRvdGFsPU5fVEFSR0VULAogICAgICAgICAgICAgICAgcmF0ZT1sZW4oc2VlbikgLyBOX1RBUkdFVCwKICAgICAgICAgICAgICAgIHN0ZXBzX25ldz1zdGVwc19uZXcsIHJldmlzaXQ9ZHVwIC8gS19TVEVQUywKICAgICAgICAgICAgICAgIG9jcl9oaXQ9b2NyX2hpdHMsIG9jcl90b3Q9b2NyX3RvdCkKCgpfT0NSX0NBQ0hFID0ge30KCgpkZWYgb2NyX3JlYWQocG5nX3BhdGgpOgogICAgaWYgcG5nX3BhdGggaW4gX09DUl9DQUNIRToKICAgICAgICByZXR1cm4gX09DUl9DQUNIRVtwbmdfcGF0aF0KICAgIHRyeToKICAgICAgICByID0gc3VicHJvY2Vzcy5ydW4oWyd0ZXNzZXJhY3QnLCBwbmdfcGF0aCwgJ3N0ZG91dCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnLS1wc20nLCAnMTEnLCAnLWMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Rlc3NlZGl0X2NoYXJfd2hpdGVsaXN0PTAxMjM0NTY3ODknXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCB0aW1lb3V0PTIwKQogICAgICAgIG91dCA9IHIuc3Rkb3V0CiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIG91dCA9ICcnCiAgICBfT0NSX0NBQ0hFW3BuZ19wYXRoXSA9IG91dAogICAgcmV0dXJuIG91dAo=
+# -*- coding: utf-8 -*-
+"""098 主动视觉：视野小于世界时，怎么动看得最多
+
+用户命题：
+  "人类看见了东西，眼球在动 —— 什么能动？带摄像头的什么能动？"
+  "能让自己变成一个永远都在动的东西吗？"
+  097 结论：相对运动才产生视觉。本轮追问：那该怎么动？
+
+自然科学依据（文献，非本实验自造）：
+  * 中央凹 fovea：高分辨率区仅占视野约 2°，外围分辨率急剧下降
+    → 视觉系统必须"用外围选点、用中央凹辨认"，这是主动视觉的根源。
+  * 扫视 saccade：3-4 次/秒，两次扫视之间是注视 fixation。
+  * 抑制返回 IOR（Posner & Cohen 1984）：已被注意过的位置，注意返回变慢
+    → 防止扫描器反复回到同一处，是主动视觉的效率机制。
+  * 显著性 saliency（Itti & Koch 1998）：外围低分辨率特征引导扫视落点。
+
+核心设计（2x2 交互）：
+  世界结构（均匀 / 聚簇） x 策略（无外围信息的盲扫 / 有外围引导 / 外围+IOR）
+  预注册：
+    H1 聚簇时：外围引导 > 盲扫（有结构可利用）
+    H2 均匀时：外围引导无优势甚至有害（无结构可利用，IOR 反而抑制未看区域）
+    H3 IOR 的收益依赖世界结构（交互，不是主效应）
+    H4 静止最差（视野 << 世界）
+
+真实性：
+  * 每个注视点都走真实图像通路：crop -> PNG 编码落盘 -> 读回解码 -> 再判定
+    （不是内存数组直接切片，中间有真实编码往返）
+  * 抽样用 tesseract 真 OCR 验证"可见即可读"，报告一致率
+  * 外围缩略图单独做 OCR 阴性对照：应几乎读不出（证明它只配当引导，不配当辨认）
+"""
+import os, sys, json, time, random, subprocess, tempfile
+import numpy as np
+import cv2
+from PIL import Image, ImageDraw, ImageFont
+
+sys.path.insert(0, '/data/workspace/luoshen-o1/core')
+from life5 import Life5
+
+OUT = os.path.dirname(os.path.abspath(__file__))
+os.makedirs(OUT, exist_ok=True)
+FONT_PATH = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+
+# ---------------- 世界参数 ----------------
+WORLD = 2048          # 世界边长
+FOV = 256             # 中央凹视野边长（1/8 线宽 -> 面积 1/64）
+N_TARGET = 40         # 目标数
+GLYPH = 44            # 数字字号（在 256 视野内清晰可辨）
+K_STEPS = 40          # 注视预算
+PERIPH = 64           # 外围缩略图边长
+
+FONT = ImageFont.truetype(FONT_PATH, GLYPH)
+
+
+# ---------------------------------------------------------------- 世界构建
+def make_world(dist, seed):
+    """返回 (world_uint8, targets)
+    targets: list of dict(x, y, text, x0,y0,x1,y1)  左上角为 (x0,y0)"""
+    rng = random.Random(seed * 7919 + 13)
+    world = np.full((WORLD, WORLD), 255, np.uint8)
+    img = Image.fromarray(world)
+    dr = ImageDraw.Draw(img)
+
+    if dist == 'uniform':
+        pts = [(rng.uniform(0.08, 0.92), rng.uniform(0.08, 0.92))
+               for _ in range(N_TARGET)]
+    else:  # clustered: 5 簇
+        centers = [(rng.uniform(0.15, 0.85), rng.uniform(0.15, 0.85))
+                   for _ in range(5)]
+        pts = []
+        per = N_TARGET // 5
+        for c in centers:
+            for _ in range(per):
+                pts.append((min(0.95, max(0.05, c[0] + rng.gauss(0, 0.035))),
+                            min(0.95, max(0.05, c[1] + rng.gauss(0, 0.035)))))
+
+    targets = []
+    used = set()
+    for (fx, fy) in pts:
+        txt = None
+        for _ in range(50):
+            t = '%02d' % rng.randrange(10, 99)
+            if t not in used:
+                used.add(t)
+                txt = t
+                break
+        if txt is None:
+            continue
+        cx, cy = int(fx * WORLD), int(fy * WORLD)
+        bbox = dr.textbbox((cx, cy), txt, font=FONT, anchor='mm')
+        dr.text((cx, cy), txt, font=FONT, fill=0, anchor='mm')
+        targets.append(dict(x=cx, y=cy, text=txt,
+                            x0=bbox[0], y0=bbox[1], x1=bbox[2], y1=bbox[3]))
+    return np.array(img), targets
+
+
+# ---------------------------------------------------------------- 真实采集
+_CAPDIR = os.path.join(OUT, '_cap')
+os.makedirs(_CAPDIR, exist_ok=True)
+
+
+def capture(world, cx, cy, tag=''):
+    """真实通路：crop -> PNG 落盘 -> 读回解码。返回 (img, png_path)"""
+    h = FOV // 2
+    x0 = int(np.clip(cx - h, 0, WORLD - FOV))
+    y0 = int(np.clip(cy - h, 0, WORLD - FOV))
+    patch = world[y0:y0 + FOV, x0:x0 + FOV]
+    p = os.path.join(_CAPDIR, 'fov%s_%04d_%04d.png' % (tag, x0, y0))
+    if not os.path.exists(p):
+        Image.fromarray(patch).save(p)
+    back = np.array(Image.open(p).convert('L'))
+    return back, p, (x0, y0)
+
+
+def peripheral(world):
+    """外围：整个世界缩到 64x64 并模糊 -> 有密度信息、无字形信息"""
+    small = cv2.resize(world, (PERIPH, PERIPH), interpolation=cv2.INTER_AREA)
+    small = cv2.GaussianBlur(small, (5, 5), 0)
+    return small
+
+
+def visible_in(targets, box):
+    """完整落在视野内 = 该步可辨认"""
+    x0, y0 = box
+    x1, y1 = x0 + FOV, y0 + FOV
+    out = []
+    for t in targets:
+        if t['x0'] >= x0 and t['y0'] >= y0 and t['x1'] <= x1 and t['y1'] <= y1:
+            out.append(t)
+    return out
+
+
+# ---------------------------------------------------------------- 策略
+def saliency_map(periph):
+    """外围缩略图 -> 每个候选注视中心的'墨迹量'（只需算一次）"""
+    P = periph.shape[0]
+    win = max(1, FOV * P // WORLD)
+    ink = (255 - periph.astype(np.float32)) / 255.0
+    pad = np.pad(ink, ((0, win), (0, win)), mode='constant')
+    integ = pad.cumsum(0).cumsum(1)
+    integ = np.pad(integ, ((1, 0), (1, 0)), mode='constant')
+    H = P - win + 1
+    S = np.zeros((H, H), np.float32)
+    for r in range(H):
+        for c in range(H):
+            S[r, c] = (integ[r + win, c + win] - integ[r, c + win]
+                       - integ[r + win, c] + integ[r, c])
+    return S, H, P, win
+
+
+def strategy_next(mode, state, S, H, rng):
+    """返回下一个注视中心 (cx, cy)"""
+    h = FOV // 2
+    lo, hi = h, WORLD - h
+    win = state.get('win', FOV * PERIPH // WORLD)
+    P = state.get('P', PERIPH)
+    if mode == 'static':
+        state['visited'].append((H // 2, H // 2))
+        return state['start']
+    if mode == 'raster':
+        # 无视外围，按 8x8 网格顺序铺
+        g = 8
+        i = state['step'] % (g * g)
+        gx, gy = i % g, i // g
+        state['visited'].append((gx, gy))
+        return (int(lo + (hi - lo) * gx / (g - 1)),
+                int(lo + (hi - lo) * gy / (g - 1)))
+    if mode == 'random':
+        cx, cy = rng.randint(lo, hi), rng.randint(lo, hi)
+        state['visited'].append((int(cx * P / WORLD), int(cy * P / WORLD)))
+        return (cx, cy)
+    if mode in ('salient', 'salient_ior', 'human'):
+        w = S.copy()
+        if mode in ('salient_ior', 'human'):
+            # IOR：已注视过的格子权重衰减（乘性抑制）
+            for (gx, gy) in state['visited']:
+                if 0 <= gy < H and 0 <= gx < H:
+                    w[gy, gx] *= state['ior_decay']
+        if mode == 'human':
+            # 扫视落点噪声 + 偶尔回看（模拟人类不完美）
+            w = w * (1.0 + rng.gauss(0, 0.15))
+        idx = int(np.argmax(w))
+        gy, gx = divmod(idx, H)
+        state['visited'].append((gx, gy))   # 记录被选中的显著图格子
+        # 缩略图格子 -> 世界坐标（+win/2 取窗口中心）
+        cx = int((gx + win / 2) * WORLD / P)
+        cy = int((gy + win / 2) * WORLD / P)
+        if mode == 'human':
+            cx += int(rng.gauss(0, 24))
+            cy += int(rng.gauss(0, 24))
+        return (int(np.clip(cx, lo, hi)), int(np.clip(cy, lo, hi)))
+    raise ValueError(mode)
+
+
+# ---------------------------------------------------------------- 一轮扫描
+def run_scan(world, targets, mode, seed, ior_decay=0.15, do_ocr=0):
+    rng = random.Random(seed * 104729 + 7)
+    periph = peripheral(world)
+    S, H, P, win = saliency_map(periph)
+    h = FOV // 2
+    state = {'step': 0, 'visited': [], 'ior_decay': ior_decay,
+             'start': (WORLD // 2, WORLD // 2),
+             'P': P, 'win': win}
+    seen = {}
+    steps_new = []
+    ocr_hits, ocr_tot = 0, 0
+    for k in range(K_STEPS):
+        state['step'] = k
+        cx, cy = strategy_next(mode, state, S, H, rng)
+        img, pngp, box = capture(world, cx, cy, tag='_s%d' % seed)
+        vis = visible_in(targets, box)
+        new = 0
+        for t in vis:
+            if t['text'] not in seen:
+                seen[t['text']] = t
+                new += 1
+        steps_new.append(new)
+        if do_ocr and vis:
+            # 真 OCR 锚定：可见的目标，实际读出来了吗
+            ocr_tot += 1
+            txt = ocr_read(pngp)
+            if any(t['text'] in txt for t in vis):
+                ocr_hits += 1
+    dup = K_STEPS - len(set(state['visited']))
+    return dict(mode=mode, seed=seed, found=len(seen), total=N_TARGET,
+                rate=len(seen) / N_TARGET,
+                steps_new=steps_new, revisit=dup / K_STEPS,
+                ocr_hit=ocr_hits, ocr_tot=ocr_tot)
+
+
+_OCR_CACHE = {}
+
+
+def ocr_read(png_path):
+    if png_path in _OCR_CACHE:
+        return _OCR_CACHE[png_path]
+    try:
+        r = subprocess.run(['tesseract', png_path, 'stdout',
+                            '--psm', '11', '-c',
+                            'tessedit_char_whitelist=0123456789'],
+                           capture_output=True, text=True, timeout=20)
+        out = r.stdout
+    except Exception:
+        out = ''
+    _OCR_CACHE[png_path] = out
+    return out

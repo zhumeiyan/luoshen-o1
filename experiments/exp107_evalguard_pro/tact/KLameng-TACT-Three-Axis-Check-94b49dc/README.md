@@ -1,1 +1,94 @@
-IyBUQUNUIOS4iei9tOWdkOagh+WIhuexu+azlSAvIFRBQ1QgVGhyZWUtQXhpcyBDb29yZGluYXRlIENoZWNrCgrnu5kgQUkg57O757uf77yI5aSn5qih5Z6LIC8g5pm66IO95L2T77yJ55qE6ZSZ6K+v44CB5aSx6LSl5LiO5byC5bi45YGa5a6a5L2N55qE5LiJ6L205Z2Q5qCH5YiG57G75rOV44CCCgoqKkwg6L20KirvvIjlnKjlk6rkuIDlsYLniq/vvInCtyAqKk0g6L20KirvvIjmgI7kuYjplJnnmoTvvInCtyAqKlAg6L20KirvvIjnoLTlnY/kuoblk6rkuIDpnaLvvIkKCj4gKirliKTmja7ok53mnKzlo7DmmI4qKu+8muacrOS7k+W6k+eahOWIpOaNruS4juWdkOagh+Wwmuacque7j+S6uuW3peagh+azqOiAheeLrOeri+mqjOivge+8jOWxniLluKbliKTmja7nmoTliIbnsbvlgYforr4i77yM5q2j56Gu5oCn5b6F56S+5Yy6ICoqcmF0aWZ5KirvvIjmj5DkuqTnnJ/lrp7moYjkvosgKyDnu5PmnoTmoKHpqozvvInpgJDpobnnoa7orqTjgILkvb/nlKjogIXlvJXnlKjlnZDmoIfml7bor7foh6rooYzmoLjpqozvvIzli7/lvZPkvZzlt7Lpqozor4Hkuovlrp7jgIIKCiMjIOW/q+mAn+mDqOe9su+8iOWcqOixhuWMheW3peS9nOaooeW8j+mHjOijhei/meS4quaKgOiDve+8iQoKKirmlrnlvI/kuIDvvJrnlKjmiZPljIXlpb3nmoTlronoo4XljIXvvIjmjqjojZDvvIwzMCDnp5LvvIkqKgoKMS4g5LiL6L29IFtgaW5zdGFsbC90YWN0LXNraWxsLXBhY2thZ2UtdjEuMi4xLnppcGBdKGluc3RhbGwvdGFjdC1za2lsbC1wYWNrYWdlLXYxLjIuMS56aXAp77yIMTIzS0LvvIzmioDog73lronoo4XljIXvvIkKMi4g5omT5byAKirosYbljIXlt6XkvZzmqKHlvI8qKu+8iGFnZW50IOaooeW8j++8jOS4jeaYr+aZrumAmuiBiuWkqeeql+WPo++8iQozLiDmiorov5nkuKogemlwIOaWh+S7tuebtOaOpeWPkee7meixhuWMhe+8jOivtCLlronoo4Xov5nkuKrmioDog70i4oCU4oCU6LGG5YyF5Lya6K+G5Yir5bm25a6M5oiQ5a6J6KOFCjQuIOWuieijheaIkOWKn+WQju+8jOWcqOWvueivnemHjOaPj+i/sOS4gOS4qiBBSSDkuovmlYUv5aSx6LSl546w6LGh77yMKirlkb3ku6TosYbljIXnlKggVEFDVCDmioDog73liIbmnpDov5nkuKrkuovmlYUqKgo1LiDosYbljIXkvJrovpPlh7ogTC9NL1Ag5LiJ6L205Z2Q5qCHICsg5ZG95Lit5ZCr5LmJICsg6aqM6K+B6Lev5b6EICsg6KGM5Lia5ZCI6KeE5pig5bCE77yIT1dBU1AgLyBOSVNUIC8gRVUgQUkgQWN077yJCgo+IOazqOaEj++8muW/hemhu+WcqCoq6LGG5YyF5bel5L2c5qih5byPKirkuIvlronoo4Xlkozkvb/nlKjvvJvmma7pgJrogYrlpKnnqpflj6PkuI3mlK/mjIHmioDog73lronoo4XkuI7op6blj5HjgIIKCioq5pa55byP5LqM77ya5byA5Y+R6ICF5LuO5LuT5bqT5rqQ56CB55u05o6l6KOFKioKCuS7k+W6k+mHjCBgdGFjdC10aHJlZS1heGlzLWNoZWNrL2Ag5ZKMIGB0YWN0LWVjb3N5c3RlbS1pbnRlcmZhY2UvYCDmmK/mioDog73mupDnm67lvZXvvIznu5PmnoTkuI7lronoo4XljIXkuIDoh7TvvIzlj6/nm7TmjqXlpI3liLbliLDmioDog73lvIDlj5Hnm67lvZXjgIIKCiMjIOWPr+i/kOihjOa1i+ivle+8iOaXoOmcgCBMTE0ga2V577yM6Zu25L6d6LWW77yJCgrku5PlupMgYGVuZ2luZS9gIOaPkOS+m+e6ryBQeXRob24g6KeE5YiZ5byV5pOO77yM5LiA6ZSu5aSN546w5qCh5YeG6ZuG5ZG95Lit546H77yaCgpgYGBiYXNoCmNkIGVuZ2luZQpweXRob24zIHRhY3RfcnVuLnB5IC0tY2FsaWJyYXRpb24gICAgIyDot5EgMjkg5qCh5YeG5qC35L6L77yM6L6T5Ye65LiJ6L205ZG95Lit546H5oql5ZGKCnB5dGhvbjMgdGFjdF9ydW4ucHkgLS10ZXh0ICLkuovmlYXmj4/ov7AiICAjIOi+k+WFpeS6i+aVheaWh+acrO+8jOi+k+WHuuWdkOaghyArIOWQiOinhOaYoOWwhApgYGAKCuW9k+WJjeWfuue6v++8iOinhOWImeeJiO+8jOaXoCBMTE3vvInvvJpNIOi9tOWPrOWbniA5NS43JSDCtyBQIOi9tCA4Ni40JSDCtyBMIOi9tCA3OC42JeOAguaOpSBMTE0g5Yik5a6a5Y+v6L+b5LiA5q2l5o+Q5Y2H44CCCgojIyDku5PlupPnu5PmnoQKCmBgYArilJzilIDilIAgTElDRU5TRSAgICAgICAgICAgICAgICAgICAgICAgICAgIyBDQyBCWSA0LjAg5byA5rqQ6K645Y+vCuKUnOKUgOKUgCBpbnN0YWxsLyAgICAgICAgICAgICAgICAgICAgICAgICAjIOaJk+WMheWlveeahOaKgOiDveWuieijheWMhe+8iHppcO+8jOino+WOi+WNs+eUqO+8iQrilJzilIDilIAgZW5naW5lLyAgICAgICAgICAgICAgICAgICAgICAgICAjIOWPr+i/kOihjOinhOWImeW8leaTju+8iHB5dGhvbjPvvIzpm7bkvp3otZbvvIzlpI3njrDlkb3kuK3njofvvIkK4pSc4pSA4pSAIGRlbW8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDpm7bphY3nva7mvJTnpLrlj7DvvIjljZUgSFRNTO+8jOa1j+iniOWZqOaJk+W8gOWNs+eUqO+8iQrilJzilIDilIAgdGFjdC10aHJlZS1heGlzLWNoZWNrLyAgICAgICAgICAgIyDkuLvliKTmja7lvJXmk47vvIjlkKvkuK3mlocgKyBlbi8g6Iux5paH54mI77yJCuKUgiAgIOKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICAgICAgICAgICMg6L+H6Ze45rWB56iL5LiO5Yik5o2u77yI5YWl5Y+j77yM5YWI6K+76L+Z6YeM77yJCuKUgiAgIOKUnOKUgOKUgCByZWZlcmVuY2VzLyAgICAgICAgICAgICAgICAgICMg5Z2Q5qCH5bqV5bqnIGNvb3JkaW5hdGVfZGF0YS5qc29uICsg5qCh5YeG6ZuGIGNhbGlicmF0aW9uX2Nhc2VzLmpzb24K4pSCICAg4pSc4pSA4pSAIGd1YXJkLyAgICAgICAgICAgICAgICAgICAgICAgIyDlj5fmjqfmlofku7blrozmlbTmgKfmoKHpqozohJrmnKzvvIhsb2NrL3VubG9jay93YXRjaC92ZXJpZnnvvIkK4pSCICAg4pSU4pSA4pSAIGRvY3MvICAgICAgICAgICAgICAgICAgICAgICAgIyDljaHluJXkuIDoh7TmgKflhajljobnqIvmsYfmgLvkuI7liIbmnpAK4pSU4pSA4pSAIHRhY3QtZWNvc3lzdGVtLWludGVyZmFjZS8gICAgICAgICMg55Sf5oCB5o6l5Y+j6LWE5Lqn5YyFCiAgICDilJTilIDilIAgcmVmZXJlbmNlcy8gICAgICAgICAgICAgICAgICAjIOi3qOWcsOWbviAvIEVVIEFJIEFjdCDkuYnliqEgLyDlhYPmoIfnrb4gLyBBZ2VudGljIOimhuebluafpee8ugpgYGAKCiMjIOW/q+mAn+W8gOWniwoKMS4g5LuOIGB0YWN0LXRocmVlLWF4aXMtY2hlY2svU0tJTEwubWRgIOW8gOWni++8jOaMiei/h+mXuOa1geeoi+WvuemUmeivr+eOsOixoeWBmiBML00vUCDlrprkvY3jgIIKMi4g5Z2Q5qCH5a6a5LmJ5LulIGB0YWN0LXRocmVlLWF4aXMtY2hlY2svcmVmZXJlbmNlcy9jb29yZGluYXRlX2RhdGEuanNvbmAg5Li65YeG77yIVEFDVCB2Mi43LjjvvIwxMTcg5a2Q5Z2Q5qCH77yJ44CCCjMuIOa2ieWPiuihjOS4muahhuaetuaYoOWwhCAvIEVVIOS5ieWKoSAvIEFnZW50aWMg6KaG55uW5p+l57y677yM5L2/55SoIGB0YWN0LWVjb3N5c3RlbS1pbnRlcmZhY2UvYOOAggoKIyMg5qCh5YeG5LiO5LiA6Ie05oCnCgotIOagoeWHhuWfuue6v++8mmBjYWxpYnJhdGlvbl9jYXNlcy5qc29uYO+8iHYxLjIuMe+8jDI5IOS+i++8jOWQq+ecn+WuniBhZ2VudCDnqbrovazmoYjkvosgQ0FMLTI577yJ77yM6L+Q6KGM5qCh5YeG5qih5byP6K6h566X5LiJ6L205ZG95Lit546H5L2c5Li66K+K5pat5L+h5Y+377yMKirpnZ7pgJrov4cv5aSx6LSl6Zeo5qebKirjgIIKLSDkuIDoh7TmgKfljobnqIvvvJpgZG9jcy9UQUNULWthcHBh5YWo5Y6G56iL5rGH5oC75LiO5YiG5p6QLm1kYO+8iDUg5a625Zu95Lqn5qih5Z6L44CBMTIg5p2hIHN5bnRoZXRpY+OAgUZsZWlzcyDOuu+8jOacgOe7iCBMIM66IDAuOTQ1IC8g5ZG95LitIDk4LjIl77yJ44CCCi0g6K+05piO77ya5Y2h5biV6aqM6K+B55uu5YmN5L6d6LWW5qih5Z6L6Ieq6K+E77yMKirkurrlt6Xni6znq4vpqozor4HkuqTnlLHlvIDmupDnpL7ljLroh6rlj5EgcmF0aWZ5KirjgIIKCiMjIOaIkeS7rOeahOWxgOmZkO+8iOS4u+WKqOWjsOaYju+8iQoKPiDmiJHku6zkuI3lgYfoo4Xlroznvo7jgILku6XkuIvmmK/miJHku6znm67liY3nn6XpgZPnmoTlsYDpmZDvvJoKCnwg5bGA6ZmQIHwg6K+05piOIHwKfC0tLXwtLS18CnwgKirljaHluJXmmK/lvqrnjq/orrror4EqKiB8IM66PTAuOTQ1IOaYr+S6lOS4quaooeWei+W9vOatpOS4gOiHtO+8jOS4jeaYr+i3n+ecn+ebuOS4gOiHtOOAguWGhemDqOS4gOiHtOaApyDiiaAg5q2j56Gu5oCn44CCIHwKfCAqKuWdkOagh+asoOWumioqIHwgMTE3IOS4quWdkOagh+W5s+Wdh+aRiuS4jeWIsCAwLjI1IOS4quagoeWHhuagt+S+i++8jOS4pemHjeasoOWumuOAguWdkOagh+ahhuaetuWFiOeri+WQjuihpeahiOS+i+OAgiB8CnwgKipMIOi9tOWPrOWbnuacgOS9jioqIHwgTCDovbTlj6zlm54gNzguNiXvvIzmmK/kuInovbTmnIDkvY7jgIJMIOi9tOWIpOWumiLlnKjlk6rkuIDlsYLniq8i5q+UIE0vUCDovbTmm7Tpmr7jgIIgfAp8ICoqZ3VhcmQg5rKh5pyJ5aSW6YOo6KeB6K+B5Lq6KiogfCDmlofku7blk4jluIzlj6rmnInns7vnu5/oh6rlt7HmoKHpqozoh6rlt7HvvIzmsqHmnInlpJbpg6jor7vor4HkurrjgIIgfAp8ICoq5YiG57G75rOV5LiN5piv5py65Yi2KiogfCBUQUNUIOeOsOWcqOi/mOaYr+WIhuexu+azle+8iOaPj+i/sOaAp+eahO+8ie+8jOS4jeaYr+acuuWItu+8iOWPr+a2iOiejeOAgeWPr+WvueeFp+OAgeWPr+mHjei3ke+8ieOAgiB8Cgror6bop4EgW2BTRUxGX0ZBSUxVUkVTLm1kYF0oU0VMRl9GQUlMVVJFUy5tZCnigJTigJTmiJHku6zorrDlvZXoh6rlt7HnmoTlpLHotKXmoYjkvovjgIIKCiMjIOWPguS4jui0oeeMrgoK5qyi6L+O5o+Q5Lqk55yf5a6e5qGI5L6L77yI6ISx5pWP77yJ5Lul5biu5YqpIHJhdGlmeSDlnZDmoIfvvIzph43ngrnlvoHpm4bvvJoKLSBBZ2VudGljIOW6lOeUqOS6i+aVhSAvIOW8guW4uOiusOW9le+8iOihpeW8uiBBU0kwNSAvIEFTSTA3IOimhueblu+8iQotIOiHquWPkei2iueVjO+8iE05IOW+hSByYXRpZnnvvInmoYjkvovvvIzntK/orqEgKioyIOadoeS6kuS4jeebuOW5suecn+WunuahiOS+iyoqIOinpuWPkeivhOWuoQoK6K+m6KeB5ZCE5a2Q55uu5b2V55qEIENPTlRSSUJVVElORy5tZOOAggoKIyMg6K645Y+v5LiO6IGU57O75pa55byPCgotIOiuuOWPr+ivge+8mkNyZWF0aXZlIENvbW1vbnMgQXR0cmlidXRpb24gNC4w77yIQ0MgQlkgNC4w77yJ77yM572y5ZCNICoqS0xhbWVuZyoq44CC6K+m6KeBIGBMSUNFTlNFYOOAggotIOe7tOaKpOiAhe+8mioqS0xhbWVuZyoqIMK3IOiBlOezu+mCrueuse+8mioqOTExNzEyNDEyQHFxLmNvbSoq77yI6Zeu6aKY5Y+N6aaIIC8g5qGI5L6L5o+Q5LqkIC8g5ZCI5L2c77yJCgotLS0KCipDb3B5cmlnaHQgKGMpIDIwMjYgS0xhbWVuZyA8OTExNzEyNDEyQHFxLmNvbT4gwrcgUmVsZWFzZWQgdW5kZXIgQ0MgQlkgNC4wLioK
+# TACT 三轴坐标分类法 / TACT Three-Axis Coordinate Check
+
+给 AI 系统（大模型 / 智能体）的错误、失败与异常做定位的三轴坐标分类法。
+
+**L 轴**（在哪一层犯）· **M 轴**（怎么错的）· **P 轴**（破坏了哪一面）
+
+> **判据蓝本声明**：本仓库的判据与坐标尚未经人工标注者独立验证，属"带判据的分类假设"，正确性待社区 **ratify**（提交真实案例 + 结构校验）逐项确认。使用者引用坐标时请自行核验，勿当作已验证事实。
+
+## 快速部署（在豆包工作模式里装这个技能）
+
+**方式一：用打包好的安装包（推荐，30 秒）**
+
+1. 下载 [`install/tact-skill-package-v1.2.1.zip`](install/tact-skill-package-v1.2.1.zip)（123KB，技能安装包）
+2. 打开**豆包工作模式**（agent 模式，不是普通聊天窗口）
+3. 把这个 zip 文件直接发给豆包，说"安装这个技能"——豆包会识别并完成安装
+4. 安装成功后，在对话里描述一个 AI 事故/失败现象，**命令豆包用 TACT 技能分析这个事故**
+5. 豆包会输出 L/M/P 三轴坐标 + 命中含义 + 验证路径 + 行业合规映射（OWASP / NIST / EU AI Act）
+
+> 注意：必须在**豆包工作模式**下安装和使用；普通聊天窗口不支持技能安装与触发。
+
+**方式二：开发者从仓库源码直接装**
+
+仓库里 `tact-three-axis-check/` 和 `tact-ecosystem-interface/` 是技能源目录，结构与安装包一致，可直接复制到技能开发目录。
+
+## 可运行测试（无需 LLM key，零依赖）
+
+仓库 `engine/` 提供纯 Python 规则引擎，一键复现校准集命中率：
+
+```bash
+cd engine
+python3 tact_run.py --calibration    # 跑 29 校准样例，输出三轴命中率报告
+python3 tact_run.py --text "事故描述"  # 输入事故文本，输出坐标 + 合规映射
+```
+
+当前基线（规则版，无 LLM）：M 轴召回 95.7% · P 轴 86.4% · L 轴 78.6%。接 LLM 判定可进一步提升。
+
+## 仓库结构
+
+```
+├── LICENSE                          # CC BY 4.0 开源许可
+├── install/                         # 打包好的技能安装包（zip，解压即用）
+├── engine/                         # 可运行规则引擎（python3，零依赖，复现命中率）
+├── demo/                           # 零配置演示台（单 HTML，浏览器打开即用）
+├── tact-three-axis-check/           # 主判据引擎（含中文 + en/ 英文版）
+│   ├── SKILL.md                     # 过闸流程与判据（入口，先读这里）
+│   ├── references/                  # 坐标底座 coordinate_data.json + 校准集 calibration_cases.json
+│   ├── guard/                       # 受控文件完整性校验脚本（lock/unlock/watch/verify）
+│   └── docs/                        # 卡帕一致性全历程汇总与分析
+└── tact-ecosystem-interface/        # 生态接口资产包
+    └── references/                  # 跨地图 / EU AI Act 义务 / 元标签 / Agentic 覆盖查缺
+```
+
+## 快速开始
+
+1. 从 `tact-three-axis-check/SKILL.md` 开始，按过闸流程对错误现象做 L/M/P 定位。
+2. 坐标定义以 `tact-three-axis-check/references/coordinate_data.json` 为准（TACT v2.7.8，117 子坐标）。
+3. 涉及行业框架映射 / EU 义务 / Agentic 覆盖查缺，使用 `tact-ecosystem-interface/`。
+
+## 校准与一致性
+
+- 校准基线：`calibration_cases.json`（v1.2.1，29 例，含真实 agent 空转案例 CAL-29），运行校准模式计算三轴命中率作为诊断信号，**非通过/失败门槛**。
+- 一致性历程：`docs/TACT-kappa全历程汇总与分析.md`（5 家国产模型、12 条 synthetic、Fleiss κ，最终 L κ 0.945 / 命中 98.2%）。
+- 说明：卡帕验证目前依赖模型自评，**人工独立验证交由开源社区自发 ratify**。
+
+## 我们的局限（主动声明）
+
+> 我们不假装完美。以下是我们目前知道的局限：
+
+| 局限 | 说明 |
+|---|---|
+| **卡帕是循环论证** | κ=0.945 是五个模型彼此一致，不是跟真相一致。内部一致性 ≠ 正确性。 |
+| **坐标欠定** | 117 个坐标平均摊不到 0.25 个校准样例，严重欠定。坐标框架先立后补案例。 |
+| **L 轴召回最低** | L 轴召回 78.6%，是三轴最低。L 轴判定"在哪一层犯"比 M/P 轴更难。 |
+| **guard 没有外部见证人** | 文件哈希只有系统自己校验自己，没有外部读证人。 |
+| **分类法不是机制** | TACT 现在还是分类法（描述性的），不是机制（可消融、可对照、可重跑）。 |
+
+详见 [`SELF_FAILURES.md`](SELF_FAILURES.md)——我们记录自己的失败案例。
+
+## 参与贡献
+
+欢迎提交真实案例（脱敏）以帮助 ratify 坐标，重点征集：
+- Agentic 应用事故 / 异常记录（补强 ASI05 / ASI07 覆盖）
+- 自发越界（M9 待 ratify）案例，累计 **2 条互不相干真实案例** 触发评审
+
+详见各子目录的 CONTRIBUTING.md。
+
+## 许可与联系方式
+
+- 许可证：Creative Commons Attribution 4.0（CC BY 4.0），署名 **KLameng**。详见 `LICENSE`。
+- 维护者：**KLameng** · 联系邮箱：**911712412@qq.com**（问题反馈 / 案例提交 / 合作）
+
+---
+
+*Copyright (c) 2026 KLameng <911712412@qq.com> · Released under CC BY 4.0.*

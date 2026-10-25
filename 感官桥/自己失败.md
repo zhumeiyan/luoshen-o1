@@ -1,1 +1,68 @@
-IyBUQUNUIOiHquaIkeWksei0peiusOW9lSAvIFNlbGYtRmFpbHVyZSBMb2cKCj4g6L+Z5Liq5bel5YW35LiT6Zeo57uZ5Yir5Lq655qE5aSx6LSl5YGa5a6a5L2N44CC6YKj5a6D6Ieq5bex5ZGi77yfCj4g5oiR5Lus5Li75Yqo6K6w5b2VIFRBQ1Qg6Ieq5bex55So6L+H55qE5aSx6LSl5qGI5L6L77yM6K+B5piO6L+Z5Liq5bel5YW35LiN5pivIuWPquivtOWIq+S6uuOAgeS4jeivtOiHquW3sSLjgIIKCiMjIOS4uuS7gOS5iOimgeiusOW9lQoKLSAqKuW3peWFt+S4jeiDveWPquivtOWIq+S6uuS4jeivtOiHquW3sSoq4oCU4oCU5LiT6Zeo5YGa5aSx6LSl5a6a5L2N55qE5bel5YW377yM6Ieq5bex5Lmf5bqU6K+l5pyJ5aSx6LSl6K6w5b2VCi0gKiror5rlrp7mr5Tlroznvo7ph43opoEqKuKAlOKAlOS4u+WKqOaatOmcsuW8seeCue+8jOavlOWBh+ijheaXoOaHiOWPr+WHu+abtOWPr+S/oQotICoq6Ieq5oiR5pS56L+b55qE6LW354K5KirigJTigJTnn6XpgZPoh6rlt7Hlk6rph4zlpLHotKXkuobvvIzmiY3og73mlLnov5sKCiMjIOW3suiusOW9leeahOWksei0peahiOS+iwoKIyMjIFNGLTAx77ya5Y2h5biV6aqM6K+B5piv5b6q546v6K666K+BCgoqKuaXpeacnyoq77yaMjAyNi0xMC0xNAoqKueOsOixoSoq77ya5aSW6YOo6K+E5a6h5oyH5Ye677yMzro9MC45NDUg5piv5LqU5Liq5qih5Z6L5b285q2k5LiA6Ie077yM5LiN5piv6Lef55yf55u45LiA6Ie044CCCioq5pys6LSoKirvvJrlhoXpg6jkuIDoh7TmgKcg4omgIOato+ehruaAp+OAguaooeWei+iHquivhOWPquiDveivtOaYjiLlroPku6zlvbzmraTlkIzmhI8i77yM5LiN6IO96K+05piOIuWug+S7rOi3n+ecn+ebuOS4gOiHtCLjgIIKKirlvbHlk40qKu+8muWNoeW4leaVsOaNruS4jeiDveW9k+aIkOe7qeeUqO+8jOWPquiDveW9k+iviuaWreS/oeWPt+OAggoqKuaUuei/m+aWueWQkSoq77ya5Lq65bel54us56uL6aqM6K+B5Lqk55Sx5byA5rqQ56S+5Yy66Ieq5Y+RIHJhdGlmee+8m+WinuWKoOecn+WunuS6i+aVheahiOS+i+eahOS6uuW3peagh+azqOOAggoKIyMjIFNGLTAy77ya5Z2Q5qCH5qyg5a6a77yIMTE3IOWdkOaghyB2cyAyOSDmoKHlh4bmoLfkvovvvIkKCioq5pel5pyfKirvvJoyMDI2LTEwLTE0Cioq546w6LGhKirvvJrlpJbpg6jor4TlrqHmjIflh7rvvIwxMTcg5Liq5Z2Q5qCH5bmz5Z2H5pGK5LiN5YiwIDAuMjUg5Liq5qCh5YeG5qC35L6L77yM5Lil6YeN5qyg5a6a44CCCioq5pys6LSoKirvvJrlnZDmoIfmoYbmnrblhYjnq4vlkI7ooaXmoYjkvovvvIzkuI3mmK/ku47ot5Hlh7rmnaXnmoTnu5Pmnpzph4zplb/lh7rmnaXnmoTjgIIKKirlvbHlk40qKu+8muW+iOWkmuWdkOagh+WPquacieeQhuiuuuWIpOaNru+8jOayoeacieecn+WunuahiOS+i+aUr+aSkeOAggoqKuaUuei/m+aWueWQkSoq77ya5oyB57ut5b6B6ZuG55yf5a6e5LqL5pWF5qGI5L6L77yM57Sv6K6h6Laz5aSf5qGI5L6L5ZCO6Kem5Y+R5Z2Q5qCH6K+E5a6h5LiO5ZCI5bm244CCCgojIyMgU0YtMDPvvJpMIOi9tOWPrOWbnuacgOS9ju+8iDc4LjYl77yJCgoqKuaXpeacnyoq77yaMjAyNi0xMC0xNAoqKueOsOixoSoq77ya5aSW6YOo6K+E5a6h5oyH5Ye677yMTCDovbTlj6zlm57mmK/kuInovbTmnIDkvY7vvIzogIwgTCDmmK8gVEFDVCDlkI3lrZfph4znmoTnrKzkuIDkuKrlrZfmr43jgIIKKirmnKzotKgqKu+8mkwg6L205Yik5a6aIuWcqOWTquS4gOWxgueKryLmr5QgTS9QIOi9tOabtOmavu+8jOWboOS4uuW+iOWkmuS6i+aVheaoqui3qOWkmuS4quWxguOAggoqKuW9seWTjSoq77yaTCDovbTliKTlrprlj6/og73kuI3lpJ/lh4bnoa7jgIIKKirmlLnov5vmlrnlkJEqKu+8muWinuWKoCBMIOi9tOWIpOWumueahOi+ueeVjOahiOS+i++8jOe7huWMliBMIOi9tOWIpOWumua1geeoi+OAggoKIyMjIFNGLTA077yaZ3VhcmQg5rKh5pyJ5aSW6YOo6KeB6K+B5Lq6CgoqKuaXpeacnyoq77yaMjAyNi0xMC0xNAoqKueOsOixoSoq77ya5aSW6YOo6K+E5a6h5oyH5Ye677yMZ3VhcmQg5pyJ5paH5Lu25ZOI5biM77yM5L2G5Y+q5pyJ57O757uf6Ieq5bex5qCh6aqM6Ieq5bex77yM5rKh5pyJ5aSW6YOo6K+76K+B5Lq644CCCioq5pys6LSoKirvvJrns7vnu5/oh6rlt7HmoKHpqozoh6rlt7HvvIzliY3pnaLlm5vmnaHpg73og73ooqvns7vnu5/oh6rlt7HkvKrpgKDlh7rkuIDlpZci55yL6LW35p2l5rKh5pS5IueahOeJiOacrOOAggoqKuW9seWTjSoq77yaZ3VhcmQg55qE5Y+v5L+h5bqm5pyJ6ZmQ44CCCioq5pS56L+b5pa55ZCRKirvvJrlvJXlhaXlpJbpg6jop4Hor4HvvIjnpL7ljLrlrqHorqHjgIHnrKzkuInmlrnmoKHpqozvvInjgIIKCiMjIyBTRi0wNe+8muS4gOS4quWIhuexu+Wksei0peeahOW3peWFt++8jOiHquW3seayoeiusOW9lei/h+iHquW3seeahOWksei0pQoKKirml6XmnJ8qKu+8mjIwMjYtMTAtMTQKKirnjrDosaEqKu+8muWklumDqOivhOWuoeaMh+WHuu+8jOi/meS4quW3peWFt+S4k+mXqOe7meWIq+S6uueahOWksei0peWBmuWumuS9je+8jOS9huS7k+W6k+mHjOmbtuadoeWksei0peiusOW9leOAggoqKuacrOi0qCoq77ya6K695Yi64oCU4oCU57uZ5Yir5Lq65YGa5aSx6LSl5a6a5L2N55qE5bel5YW377yM6Ieq5bex5LiN6K6w5b2V6Ieq5bex55qE5aSx6LSl44CCCioq5b2x5ZONKirvvJrlj6/kv6Hluqblj5fmjZ/jgIIKKirmlLnov5vmlrnlkJEqKu+8muWIm+W7uuacrOaWh+S7tu+8jOaMgee7reiusOW9lSBUQUNUIOiHquW3seeahOWksei0peahiOS+i+OAggoKIyMg6K6w5b2V6KeE5YiZCgotIOavj+adoeWksei0peiusOW9leW/hemhu+WMheWQq++8muaXpeacn+OAgeeOsOixoeOAgeacrOi0qOOAgeW9seWTjeOAgeaUuei/m+aWueWQkQotIOS4jeaOqeebluOAgeS4jee+juWMluKAlOKAlOWksei0peWwseaYr+Wksei0pQotIOaUuei/m+aWueWQkeWGmea4healmu+8jOS4jeWBmuepuuazm+aJv+ivugoKIyMg5Li65LuA5LmI6L+Z5b6I6YeN6KaBCgoqKuWIhuexu+azleiwgemDveiDveaPkO+8jOacuuWItuWPquiDvei3keWHuuadpeOAgioqCgpUQUNUIOeOsOWcqOi/mOaYr+WIhuexu+azle+8jOS4jeaYr+acuuWItuOAguaIkeS7rOiusOW9leiHquW3seeahOWksei0pe+8jOWwseaYr+WcqOacnSLmnLrliLYi5pa55ZCR6LWw44CCCgotLS0KCipDb3B5cmlnaHQgKGMpIDIwMjYgS0xhbWVuZyA8OTExNzEyNDEyQHFxLmNvbT4gwrcgUmVsZWFzZWQgdW5kZXIgQXBhY2hlLTIuMC4qCg==
+# TACT 自我失败记录 / Self-Failure Log
+
+> 这个工具专门给别人的失败做定位。那它自己呢？
+> 我们主动记录 TACT 自己用过的失败案例，证明这个工具不是"只说别人、不说自己"。
+
+## 为什么要记录
+
+- **工具不能只说别人不说自己**——专门做失败定位的工具，自己也应该有失败记录
+- **诚实比完美重要**——主动暴露弱点，比假装无懈可击更可信
+- **自我改进的起点**——知道自己哪里失败了，才能改进
+
+## 已记录的失败案例
+
+### SF-01：卡帕验证是循环论证
+
+**日期**：2026-10-14
+**现象**：外部评审指出，κ=0.945 是五个模型彼此一致，不是跟真相一致。
+**本质**：内部一致性 ≠ 正确性。模型自评只能说明"它们彼此同意"，不能说明"它们跟真相一致"。
+**影响**：卡帕数据不能当成绩用，只能当诊断信号。
+**改进方向**：人工独立验证交由开源社区自发 ratify；增加真实事故案例的人工标注。
+
+### SF-02：坐标欠定（117 坐标 vs 29 校准样例）
+
+**日期**：2026-10-14
+**现象**：外部评审指出，117 个坐标平均摊不到 0.25 个校准样例，严重欠定。
+**本质**：坐标框架先立后补案例，不是从跑出来的结果里长出来的。
+**影响**：很多坐标只有理论判据，没有真实案例支撑。
+**改进方向**：持续征集真实事故案例，累计足够案例后触发坐标评审与合并。
+
+### SF-03：L 轴召回最低（78.6%）
+
+**日期**：2026-10-14
+**现象**：外部评审指出，L 轴召回是三轴最低，而 L 是 TACT 名字里的第一个字母。
+**本质**：L 轴判定"在哪一层犯"比 M/P 轴更难，因为很多事故横跨多个层。
+**影响**：L 轴判定可能不够准确。
+**改进方向**：增加 L 轴判定的边界案例，细化 L 轴判定流程。
+
+### SF-04：guard 没有外部见证人
+
+**日期**：2026-10-14
+**现象**：外部评审指出，guard 有文件哈希，但只有系统自己校验自己，没有外部读证人。
+**本质**：系统自己校验自己，前面四条都能被系统自己伪造出一套"看起来没改"的版本。
+**影响**：guard 的可信度有限。
+**改进方向**：引入外部见证（社区审计、第三方校验）。
+
+### SF-05：一个分类失败的工具，自己没记录过自己的失败
+
+**日期**：2026-10-14
+**现象**：外部评审指出，这个工具专门给别人的失败做定位，但仓库里零条失败记录。
+**本质**：讽刺——给别人做失败定位的工具，自己不记录自己的失败。
+**影响**：可信度受损。
+**改进方向**：创建本文件，持续记录 TACT 自己的失败案例。
+
+## 记录规则
+
+- 每条失败记录必须包含：日期、现象、本质、影响、改进方向
+- 不掩盖、不美化——失败就是失败
+- 改进方向写清楚，不做空泛承诺
+
+## 为什么这很重要
+
+**分类法谁都能提，机制只能跑出来。**
+
+TACT 现在还是分类法，不是机制。我们记录自己的失败，就是在朝"机制"方向走。
+
+---
+
+*Copyright (c) 2026 KLameng <911712412@qq.com> · Released under Apache-2.0.*

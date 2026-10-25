@@ -1,1 +1,46 @@
-ZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QKCgpjbGFzcyBBSUNsaWVudCgpOgogICAgYXN5bmMgZGVmIGluZmVyZW5jZV93aXRoX3Byb21wdCgKICAgICAgICAgICAgc2VsZiwKICAgICAgICAgICAgdmFyaWFibGVfdmFsdWVzOiBEaWN0W3N0ciwgc3RyXSwKICAgICAgICAgICAgcHJvbXB0X3RlbXBsYXRlOiBzdHIsCiAgICAgICAgICAgIGlzX2pzb25fcmVzcG9uc2U6IGJvb2wgPSBUcnVlCiAgICApOgogICAgICAgICIiIgogICAgICAgIEluZmVycyB3aXRoIExhcmdlIExhbmd1YWdlIE1vZGVsIHdpdGggcHJvbXB0IGFuZCB2YXJpYWJsZXMKCiAgICAgICAgQXJnczoKICAgICAgICAgICAgdmFyaWFibGVfdmFsdWVzOiB2YXJpYWJsZXMgdG8gYmUgdXNlZCBpbiB0aGUgcHJvbXB0LgogICAgICAgICAgICBwcm9tcHRfdGVtcGxhdGU6IHByb21wdCB0ZW1wbGF0ZSB0byBiZSB1c2VkIHRvIGZpbGwgd2l0aCB2YXJpYWJsZXMgZm9yIGluZmVyZW5jZS4KICAgICAgICAgICAgaXNfanNvbl9yZXNwb25zZTogd2hldGhlciB0aGUgcmVzcG9uc2UgaXMgaW4ganNvbiBmb3JtYXQgb3Igbm90LgoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBXZSB0eXBpY2FsbHkgc3VnZ2VzdCByZXNwb25zZSBpbiBKU09OIGZvcm1hdC4gRm9yIGV4YW1wbGU6CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJ2FjdGlvbl9jb2RlJzogJ2dyYWRlID09IDUgb3IgZ3JhZGUgPT0gNicsCiAgICAgICAgICAgICAgICAgICAgJ2FyZ3VtZW50cyc6IFsnY2xhc3MnXQogICAgICAgICAgICAgICAgfQogICAgICAgICIiIgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbignU3ViY2xhc3NlcyBtdXN0IG92ZXJyaWRlIHRoaXMgbWV0aG9kLicpCgogICAgYXN5bmMgZGVmIGZpbmRfYmxvY2tfcGFyYW1zKAogICAgICAgICAgICBzZWxmLAogICAgICAgICAgICBibG9ja19kZXNjcmlwdGlvbjogc3RyCiAgICApOgogICAgICAgICIiIgogICAgICAgIEJhc2VkIG9uIHRoZSBibG9jayBkZXNjcmlwdGlvbm4sIGZpbmQgdGhlIGJsb2NrIHR5cGUsCiAgICAgICAgYmxvY2sgbGFuZ3VhZ2UsIHBpcGVsaW5lIHR5cGUsIGFuZCBjb25maWcgZm9yIHRoaXMgYmxvY2suCgogICAgICAgIEFyZ3M6CiAgICAgICAgICBibG9ja19kZXNjcmlwdGlvbjogZGVzY3JpcHRpb24gb2YgdGhlIGJsb2NrIGZ1bmN0aW9ucy4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgIHJldHVybiB0aGUgcmVzcG9uc2UgaW4gSlNPTiBmb3JtYXQgd2l0aCBmb2xsb3dpbmcga2V5czoKICAgICAgICAgICAgYmxvY2tfdHlwZTogdHlwZSBvZiB0aGUgYmxvY2s6IGRhdGFfbG9hZGVyLCB0cmFuc2ZvbWVyIG9yIGRhdGFfZXhwb3J0ZXIuCiAgICAgICAgICAgIGJsb2NrX2xhbmd1YWdlOiBsYW5ndWFnZSBvZiB0aGUgYmxvY2suCiAgICAgICAgICAgIHBpcGVsaW5lX3R5cGU6IHR5cGUgb2YgdGhlIHBpcGVsaW5lLgogICAgICAgICAgICBjb25maWc6IGNvbmZpZyBvZiB0aGUgYmxvY2suIEl0IGlzIGEgSlNPTiBpbmNsdWRpbmcgImFjdGlvbl90eXBlIiwgImRhdGFfc291cmNlIi4KICAgICAgICAiIiIKICAgICAgICByYWlzZSBFeGNlcHRpb24oJ1N1YmNsYXNzZXMgbXVzdCBvdmVycmlkZSB0aGlzIG1ldGhvZC4nKQo=
+from typing import Dict
+
+
+class AIClient():
+    async def inference_with_prompt(
+            self,
+            variable_values: Dict[str, str],
+            prompt_template: str,
+            is_json_response: bool = True
+    ):
+        """
+        Infers with Large Language Model with prompt and variables
+
+        Args:
+            variable_values: variables to be used in the prompt.
+            prompt_template: prompt template to be used to fill with variables for inference.
+            is_json_response: whether the response is in json format or not.
+
+        Returns:
+            We typically suggest response in JSON format. For example:
+                {
+                    'action_code': 'grade == 5 or grade == 6',
+                    'arguments': ['class']
+                }
+        """
+        raise Exception('Subclasses must override this method.')
+
+    async def find_block_params(
+            self,
+            block_description: str
+    ):
+        """
+        Based on the block descriptionn, find the block type,
+        block language, pipeline type, and config for this block.
+
+        Args:
+          block_description: description of the block functions.
+
+        Returns:
+          return the response in JSON format with following keys:
+            block_type: type of the block: data_loader, transfomer or data_exporter.
+            block_language: language of the block.
+            pipeline_type: type of the pipeline.
+            config: config of the block. It is a JSON including "action_type", "data_source".
+        """
+        raise Exception('Subclasses must override this method.')

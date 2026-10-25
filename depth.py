@@ -1,1 +1,94 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi56m66Ze06Led56a75oSf77ya6Led56a75Zyo5oiQ5YOP6YKj5LiA5Yi75oCO5LmI6KKr5Y6L5o6J44CB6L+Y5Ymp5aSa5bCR44CB5oiR6IO95LiN6IO95Y+N5o6oIiIiCmltcG9ydCBtYXRoLCBqc29uCgojIC0tLS0gUDUwIFBybyDkuLvmkYQgLS0tLQpTRU5TT1JfV19NTT04LjE5MjsgU0VOU09SX1BYPTgxOTI7IEVGTF9NTT0yMy4wOyBGRl9XPTM2LjAKZiA9IEVGTF9NTSpTRU5TT1JfV19NTS9GRl9XICAgICAgICAgICAgICAgIyDlrp7pmYXnhKbot50gbW0KcHhfcGVyX21tID0gU0VOU09SX1BYL1NFTlNPUl9XX01NICAgICAgICAgIyBweC9tbSDkvKDmhJ/lmajpnaIKQiA9IDAuMDYzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg556z6LedIDYzbW3vvIjmiJDkurrlnYflgLzvvIkKUkhPMCA9IDExMS4wICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5Lit5aSu5Ye55bOw5YC8IOinhumUpS/luqYKU1RFUkVPU0MgPSAxMC4wLzM2MDAgICAgICAgICAgICAgICAgICAgICAgICMg56uL5L2T6KeG6ZSQ5bqmIH4xMCDop5Lnp5LvvIjmlofnjK7luLjop4HlgLzvvIkKCmRlZiBpbWdfcHgoSF9tLCBkX20pOgogICAgIiIi55yf5a6e6auYIEgg57Gz55qE54mp5L2T77yM5ZyoIGQg57Gz5aSE77yM5oiQ5YOP5aSa5bCR5YOP57SgIiIiCiAgICByZXR1cm4gZiAqIChIX20vZF9tKSAqIHB4X3Blcl9tbSAgICAgICMg5YOP6auYbW0gPSBmKG1tKSpIL2QsIOWGjcOXcHgvbW0KCmRlZiBzdGVyZW9fcHJlY2lzaW9uKGRfbSk6CiAgICAiIiLlj4znm67lj6/liIbovqjnmoTmnIDlsI/mt7Hluqblt64gzpRkID0gZMKywrfOlM64L2IiIiIKICAgIHJldHVybiBkX20qKjIgKiBtYXRoLnJhZGlhbnMoU1RFUkVPU0MpIC8gQgoKZGVmIHZlcmdlbmNlKGRfbSk6CiAgICByZXR1cm4gMiptYXRoLmRlZ3JlZXMobWF0aC5hdGFuKChCLzIpL2RfbSkpCgpkZWYgZGlvcHRlcihkX20pOiByZXR1cm4gMS4wL2RfbQoKaWYgX19uYW1lX189PSJfX21haW5fXyI6CiAgICBvdXQ9e30KICAgIHByaW50KCI9PT0g5LiA44CB6YCP6KeG77yaMS9kIOWOi+e8qSA9PT0iKQogICAgcHJpbnQoZiIgIOeEpui3nSB7ZjouMmZ9IG1tICDkvKDmhJ/lmagge3B4X3Blcl9tbTouMGZ9IHB4L21tIikKICAgIHByaW50KCIgIOS4gOS4qiAxLjcgbSDpq5jnmoTkurrvvJoiKQogICAgcHJldj1Ob25lCiAgICBmb3IgZCBpbiBbMSwyLDQsOCwxNiwzMl06CiAgICAgICAgcD1pbWdfcHgoMS43LGQpCiAgICAgICAgciA9IGYie3AvcHJldioxMDA6NS4xZn0lIiBpZiBwcmV2IGVsc2UgIiAg4oCUICAiCiAgICAgICAgcHJpbnQoZiIgICAge2Q6PjN9IG0g4oaSIHtwOj44LjBmfSBweCAgIOaYr+S4iuS4gOaho+eahCB7cn0iKQogICAgICAgIHByZXY9cAogICAgcHJpbnQoIiAg4piFIOi3neemu+avj+e/u+WAje+8jOaIkOWDj+WHj+WNiiDigJTigJQg6L+Z5piv5LiA5p2h44CQ6Z2e57q/5oCn44CR5Y6L57yp77yaIikKICAgIHByaW50KCIgICAg6L+c5aSE5omA5pyJ5Lic6KW/5oyk5Zyo5LiA6LW377yM6L+R5aSE5LiA54K554K56Led56a75bCx5Y2g5aSn5Y2K5byg5Zu+IikKICAgIG91dFsi6YCP6KeGcHgiXT17c3RyKGQpOnJvdW5kKGltZ19weCgxLjcsZCkpIGZvciBkIGluIFsxLDIsNCw4LDE2LDMyXX0KCiAgICBwcmludCgiXG49PT0g5LqM44CB5Y+M55uu5rex5bqm57K+5bqm77ya6ZqPIGTCsiDltKnloYwgPT09IikKICAgIHByaW50KCIgIOi3neemuyAgICDlj6/liIbovqjmt7Hluqblt64gICDnm7jlr7nnsr7luqYiKQogICAgZm9yIGQgaW4gWzAuMywwLjUsMSwyLDUsMTAsMjBdOgogICAgICAgIGRkPXN0ZXJlb19wcmVjaXNpb24oZCkKICAgICAgICBwcmludChmIiAgIHtkOj41fSBtICAge2RkKjEwMDA6PjEwLjJmfSBtbSAgICB7ZGQvZCoxMDA6PjguMmZ9JSIpCiAgICBwcmludChmIiAg4piFIDAuMyBtIOWkhOiDveWIhui+qCB7c3RlcmVvX3ByZWNpc2lvbiguMykqMTAwMDouMWZ9IG1t77ybMTAgbSDlpITlj6rog73liIbovqgge3N0ZXJlb19wcmVjaXNpb24oMTApKjEwMDA6LjBmfSBtbSIpCiAgICBwcmludChmIiAg4piFIOW3riB7KDEwLzAuMykqKjI6LjBmfSDlgI3vvIg9IOi3neemu+avlOeahOW5s+aWue+8iSIpCiAgICBvdXRbIua3seW6pueyvuW6pm1tIl09e3N0cihkKTpyb3VuZChzdGVyZW9fcHJlY2lzaW9uKGQpKjEwMDAsMikgZm9yIGQgaW4gWzAuMywxLDUsMTAsMjBdfQoKICAgIHByaW50KCJcbj09PSDkuInjgIHov5HlpITnmoTkuKTmnaHnur/ntKLvvIjovpDovo8gKyDosIPoioLvvIk9PT0iKQogICAgcHJpbnQoIiAg6Led56a7ICAgICDovpDovo/op5IgICAgIOiwg+iKgihEKSIpCiAgICBmb3IgZCBpbiBbMC4zLDAuNSwxLDIsNl06CiAgICAgICAgcHJpbnQoZiIgICB7ZDo+NH0gbSAgIHt2ZXJnZW5jZShkKTo+Ny4yZn3CsCAgIHtkaW9wdGVyKGQpOj42LjJmfSBEIikKICAgIHByaW50KGYiICDimIUg5Lik5p2h6YO95ZyoIDEvZCDkuIrvvIzlj6rlnKjjgJDov5HlpITjgJHmnInnlKjvvJoiKQogICAgcHJpbnQoZiIgICAgMC4z4oaSMSBtIOi+kOi+j+WPmCB7dmVyZ2VuY2UoLjMpLXZlcmdlbmNlKDEpOi4xZn3CsO+8mzbihpIxMCBtIOWPquWPmCB7dmVyZ2VuY2UoNiktdmVyZ2VuY2UoMTApOi4yZn3CsCIpCiAgICBwcmludChmIiAg4piFIOi2hei/hyA2IG3vvIzovpDovo/lkozosIPoioLln7rmnKzkuI3liqgg4oCU4oCUIOi/nOeahOa3seW6pumdoOOAkOWNleecvOe6v+e0ouOAkeaSkSIpCiAgICBvdXRbIui+kOi+jyJdPXtzdHIoZCk6cm91bmQodmVyZ2VuY2UoZCksMikgZm9yIGQgaW4gWzAuMywxLDYsMTBdfQoKICAgIHByaW50KCJcbj09PSDlm5vjgIHmi43miJDkuIDlvKAgMkQg54Wn54mH77yM6L+Y5Ymp5LuA5LmIID09PSIpCiAgICBjdWVzID0gWwogICAgICAoIuWPjOecvOinhuW3riIsIEZhbHNlLCAi5Lik5byg5Zu+5bm25LiA5byg77yM55u05o6l5rKh5LqGIiksCiAgICAgICgi6L+Q5Yqo6KeG5beuIiwgRmFsc2UsICLpnZnmgIHnhafniYfvvIzmsqHkuoYiKSwKICAgICAgKCLovpDovo8v6LCD6IqCIiwgRmFsc2UsICLnhafniYfmmK/lubPpnaLvvIznnLznhKbot53pkonlnKjnurjpnaIiKSwKICAgICAgKCLpga7mjKEiLCBUcnVlLCAi5pyJIiksCiAgICAgICgi6YCP6KeG5pS25pWbIiwgVHJ1ZSwgIuaciSIpLAogICAgICAoIue6ueeQhuair+W6piIsIFRydWUsICLmnInvvIzkvYbooqvliIbovqjnjofliYoiKSwKICAgICAgKCLnm7jlr7nlpKflsI8iLCBUcnVlLCAi5pyJ77yM6ZyA5bey55+l5ZCM57G7IiksCiAgICAgICgi54af5oKJ5bC65a+4IiwgVHJ1ZSwgIuacie+8jOmcgOiupOWHuuaYr+S7gOS5iCIpLAogICAgICAoIuWkp+awlOmAj+inhiIsIFRydWUsICLmnIkiKSwKICAgIF0KICAgIGtlZXA9c3VtKDEgZm9yIF8sayxfIGluIGN1ZXMgaWYgaykKICAgIHByaW50KGYiICA5IOadoea3seW6pue6v+e0ou+8jOeFp+eJh+S/neeVmSB7a2VlcH0g5p2h77yM5LiiIHtsZW4oY3Vlcykta2VlcH0g5p2hIikKICAgIGZvciBuLGssd2h5IGluIGN1ZXM6CiAgICAgICAgcHJpbnQoZiIgICAgeyfinJMnIGlmIGsgZWxzZSAn4pyXJ30ge246PDh9IHt3aHl9IikKICAgIG91dFsi57q/57Si5L+d55WZIl09ZiJ7a2VlcH0ve2xlbihjdWVzKX0iCgogICAgcHJpbnQoIlxuPT09IOS6lOOAgeaIkeiDveWPjeaOqOi3neemu+WQlyA9PT0iKQogICAgcHJpbnQoIiAgaF9weCA9IGbCt0gvZCAgICDkuInkuKrmnKrnn6XvvIhI55yf5a6e6auY44CBZOi3neemu++8ieS4pOS4quW3suefpe+8iGbjgIFoX3B477yJIikKICAgIHByaW50KCIgIOKYhSDmrKDlrprvvJrkuI3nn6XpgZPniankvZPnnJ/lrp7lsLrlr7jvvIzkuIDlvKDlm77ph4zmnInjgJDml6DnqbflpJrjgJHnu4QgKEgsZCkg6KejIikKICAgIHByaW50KCIgICAg5L6L5aaC5oiQ5YOPIDgwMCBweCDlj6/ku6XmmK/vvJoiKQogICAgZm9yIEgsZCBpbiBbKDEuNywwLjUpLCgzLjQsMS4wKSwoMTcuMCw1LjApLCgxNzAuMCw1MC4wKV06CiAgICAgICAgcHJpbnQoZiIgICAgICBIPXtIOj41LjFmfSBtIEAgZD17ZDo+NS4xZn0gbSIpCiAgICBwcmludCgiICDimIUg5omA5Lul77ya5rex5bqm5LiN5piv6KKr44CQ5Y6L57yp44CR77yM5piv6KKr44CQ5oqV5b2x44CR4oCU4oCUIOmZjee7tO+8jOS4jeWPr+mAhiIpCgogICAgcHJpbnQoIlxuPT09IOWFreOAgemCo+W8oCAyMjRweCDnmoTlm77ov5jlianlpJrlsJHnqbrpl7Tkv6Hmga8gPT09IikKICAgIHBwZF9jYW0gPSBpbWdfcHgoMS4wLDEuMCkvbWF0aC5kZWdyZWVzKDEuMCkgICAjIDFtIOWkhCAxbSDpq5jniankvZPlvKDop5J+NTPCsC4uLiDnroDljJYKICAgIHByaW50KGYiICDmiJHlt6XkvZznmoTlm74gMi45IHB4L+W6piIpCiAgICBwcmludChmIiAg5L2g5Lit5aSu5Ye5ICAgIHtSSE8wOi4wZn0g6KeG6ZSlL+W6piIpCiAgICBwcmludChmIiAg4piFIDHCsCDlnKjmiJHlm77ph4zlj6rmnIkgMi45IOS4quaVsOWtlyDigJTigJQg6YCP6KeG5pS25pWb6L+Z56eN44CQ6L+e57ut5qKv5bqm44CR77yMIikKICAgIHByaW50KGYiICAgIOWcqOaIkei/mei+ueaYr+OAkOS4gOS4pOS4quWDj+e0oOeahOmYtui3g+OAke+8jOayoeacieair+W6puWPr+iogCIpCiAgICBvdXRbIuaIkXB45q+P5bqmIl09Mi45OyBvdXRbIuS9oOinhumUpeavj+W6piJdPVJITzAKCiAgICBqc29uLmR1bXAob3V0LCBvcGVuKCLlj4LmlbDlupMv56m66Ze06Led56a7Lmpzb24iLCJ3IiksIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTEpCiAgICBwcmludCgiXG7lt7LlrZgg5Y+C5pWw5bqTL+epuumXtOi3neemuy5qc29uIikK
+# -*- coding: utf-8 -*-
+"""空间距离感：距离在成像那一刻怎么被压掉、还剩多少、我能不能反推"""
+import math, json
+
+# ---- P50 Pro 主摄 ----
+SENSOR_W_MM=8.192; SENSOR_PX=8192; EFL_MM=23.0; FF_W=36.0
+f = EFL_MM*SENSOR_W_MM/FF_W               # 实际焦距 mm
+px_per_mm = SENSOR_PX/SENSOR_W_MM         # px/mm 传感器面
+B = 0.063                                  # 瞳距 63mm（成人均值）
+RHO0 = 111.0                               # 中央凹峰值 视锥/度
+STEREOSC = 10.0/3600                       # 立体视锐度 ~10 角秒（文献常见值）
+
+def img_px(H_m, d_m):
+    """真实高 H 米的物体，在 d 米处，成像多少像素"""
+    return f * (H_m/d_m) * px_per_mm      # 像高mm = f(mm)*H/d, 再×px/mm
+
+def stereo_precision(d_m):
+    """双目可分辨的最小深度差 Δd = d²·Δθ/b"""
+    return d_m**2 * math.radians(STEREOSC) / B
+
+def vergence(d_m):
+    return 2*math.degrees(math.atan((B/2)/d_m))
+
+def diopter(d_m): return 1.0/d_m
+
+if __name__=="__main__":
+    out={}
+    print("=== 一、透视：1/d 压缩 ===")
+    print(f"  焦距 {f:.2f} mm  传感器 {px_per_mm:.0f} px/mm")
+    print("  一个 1.7 m 高的人：")
+    prev=None
+    for d in [1,2,4,8,16,32]:
+        p=img_px(1.7,d)
+        r = f"{p/prev*100:5.1f}%" if prev else "  —  "
+        print(f"    {d:>3} m → {p:>8.0f} px   是上一档的 {r}")
+        prev=p
+    print("  ★ 距离每翻倍，成像减半 —— 这是一条【非线性】压缩：")
+    print("    远处所有东西挤在一起，近处一点点距离就占大半张图")
+    out["透视px"]={str(d):round(img_px(1.7,d)) for d in [1,2,4,8,16,32]}
+
+    print("\n=== 二、双目深度精度：随 d² 崩塌 ===")
+    print("  距离    可分辨深度差   相对精度")
+    for d in [0.3,0.5,1,2,5,10,20]:
+        dd=stereo_precision(d)
+        print(f"   {d:>5} m   {dd*1000:>10.2f} mm    {dd/d*100:>8.2f}%")
+    print(f"  ★ 0.3 m 处能分辨 {stereo_precision(.3)*1000:.1f} mm；10 m 处只能分辨 {stereo_precision(10)*1000:.0f} mm")
+    print(f"  ★ 差 {(10/0.3)**2:.0f} 倍（= 距离比的平方）")
+    out["深度精度mm"]={str(d):round(stereo_precision(d)*1000,2) for d in [0.3,1,5,10,20]}
+
+    print("\n=== 三、近处的两条线索（辐辏 + 调节）===")
+    print("  距离     辐辏角     调节(D)")
+    for d in [0.3,0.5,1,2,6]:
+        print(f"   {d:>4} m   {vergence(d):>7.2f}°   {diopter(d):>6.2f} D")
+    print(f"  ★ 两条都在 1/d 上，只在【近处】有用：")
+    print(f"    0.3→1 m 辐辏变 {vergence(.3)-vergence(1):.1f}°；6→10 m 只变 {vergence(6)-vergence(10):.2f}°")
+    print(f"  ★ 超过 6 m，辐辏和调节基本不动 —— 远的深度靠【单眼线索】撑")
+    out["辐辏"]={str(d):round(vergence(d),2) for d in [0.3,1,6,10]}
+
+    print("\n=== 四、拍成一张 2D 照片，还剩什么 ===")
+    cues = [
+      ("双眼视差", False, "两张图并一张，直接没了"),
+      ("运动视差", False, "静态照片，没了"),
+      ("辐辏/调节", False, "照片是平面，眼焦距钉在纸面"),
+      ("遮挡", True, "有"),
+      ("透视收敛", True, "有"),
+      ("纹理梯度", True, "有，但被分辨率削"),
+      ("相对大小", True, "有，需已知同类"),
+      ("熟悉尺寸", True, "有，需认出是什么"),
+      ("大气透视", True, "有"),
+    ]
+    keep=sum(1 for _,k,_ in cues if k)
+    print(f"  9 条深度线索，照片保留 {keep} 条，丢 {len(cues)-keep} 条")
+    for n,k,why in cues:
+        print(f"    {'✓' if k else '✗'} {n:<8} {why}")
+    out["线索保留"]=f"{keep}/{len(cues)}"
+
+    print("\n=== 五、我能反推距离吗 ===")
+    print("  h_px = f·H/d    三个未知（H真实高、d距离）两个已知（f、h_px）")
+    print("  ★ 欠定：不知道物体真实尺寸，一张图里有【无穷多】组 (H,d) 解")
+    print("    例如成像 800 px 可以是：")
+    for H,d in [(1.7,0.5),(3.4,1.0),(17.0,5.0),(170.0,50.0)]:
+        print(f"      H={H:>5.1f} m @ d={d:>5.1f} m")
+    print("  ★ 所以：深度不是被【压缩】，是被【投影】—— 降维，不可逆")
+
+    print("\n=== 六、那张 224px 的图还剩多少空间信息 ===")
+    ppd_cam = img_px(1.0,1.0)/math.degrees(1.0)   # 1m 处 1m 高物体张角~53°... 简化
+    print(f"  我工作的图 2.9 px/度")
+    print(f"  你中央凹    {RHO0:.0f} 视锥/度")
+    print(f"  ★ 1° 在我图里只有 2.9 个数字 —— 透视收敛这种【连续梯度】，")
+    print(f"    在我这边是【一两个像素的阶跃】，没有梯度可言")
+    out["我px每度"]=2.9; out["你视锥每度"]=RHO0
+
+    json.dump(out, open("参数库/空间距离.json","w"), ensure_ascii=False, indent=1)
+    print("\n已存 参数库/空间距离.json")

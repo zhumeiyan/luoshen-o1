@@ -1,1 +1,178 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5am05YS/5piv5oCO5LmI5a2m5Lya5Y+R6Z+z55qEIOKAlOKAlCDpl63njq/vvIzkuI3mmK/orq3nu4MKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CueUqOaIt+WOn+ivne+8muOAjOS6uuWSjOS6uuaYr+WmguS9leWPkemfs+eahO+8n+aYr+aAjuS5iOWtpuS5oOWPkemfs+eahO+8n+OAjQogICAgIOKGkiDkuI3mmK/oo4UgVFRT77yM5piv6Zeu44CQ5a2m5Lmg5py65Yi244CRCgrimIUg55yf5a6e5Lq657G75Y+R5bGV6Lev5b6E77yIUkVBTO+8jOWPkeWxleW/g+eQhuWtpu+8ie+8mgogICAgMC025pyIICAg5ZOt44CB5ZKV5ZKV77yI5Y+N5bCE5oCn77yM5peg5oSP6K+G6LCD6Z+z77yJCiAgICA2LTEw5pyIICBiYWJibGluZyDlkr/lkYDvvJrpmo/mnLrliqjoiIzlpLQv5Zi05ZSH77yM5Lmx5Y+rCiAgICAgICAgICAgIOKYhSDlhbPplK7vvJrov5npmLbmrrXjgJDlhajkuJbnlYznmoTlqbTlhL/lj5HnmoTpn7Ppg73kuIDmoLfjgJEKICAgICAgICAgICAgICDogYvlk5HlqbTlhL/kuZ/kvJogYmFiYmxl77yI6K+05piO5piv6L+Q5Yqo5oiQ54af6amx5Yqo77yM5LiN5piv5ZCs6KeJ6amx5Yqo77yJCiAgICAxMC0xMuaciCDoh6rlkKwgKyDnpL7kvJrlj43ppogg4oaSIOW8gOWni+WQkeOAkOavjeivreOAkeaUtuaVmwogICAgICAgICAgICDimIUg6IGL5ZOR5am05YS/6L+Z6Zi25q615byA5aeL6JC95ZCO77yI5ZCs6KeJ6Zet546v5pat5LqG77yJCiAgICAxMuaciCsgICDljp/lnovlr7npvZDmr43or60KCuKYhSDkuInnu4TliIbvvIjlr7nlupTnnJ/lrp7lj5HlsZXvvIzkuI3mmK/miJHnvJbnmoTvvInvvJoKICAgIEEg5peg6Ieq5ZCs5peg56S+5LyaIOKGkiDkubHliqjkuI3mlLbmlZvvvIjlr7nnhafvvJrogYvkuJTml6Dkurrlm57lupTvvIkKICAgIEIg5pyJ6Ieq5ZCs5peg56S+5LyaIOKGkiDlvaLmiJDoh6rlt7HnmoTljp/lnovvvIzkvYbkuI3lr7npvZDmr43or60KICAgICAgICAgICAgICAgICAgICAg77yI5a+554Wn77ya5ZCs5b6X6KeB5L2G5rKh5Lq66Lef5LuW6K+06K+d77yJCiAgICBDIOacieiHquWQrCvnpL7kvJogIOKGkiDljp/lnovlr7npvZDmr43or63vvIjmraPluLjkurrnsbvvvIkKCuKYhSDmr43or63nm67moIfvvJrlhYPpn7PkuInop5IgL8mRLyAvaS8gL3UvCiAgICDnnJ/lrp7vvJrov5nmmK/lhajkurrnsbvlqbTlhL/mnIDml6nmjozmj6HnmoTkuInkuKrlhYPpn7PvvIhKYWtvYnNvbiDlrprlvovvvIkKICAgIOaVsOaNru+8mlBldGVyc29uICYgQmFybmV5IDE5NTIg5a6e5rWL5YWx5oyv5bOwCgrimIUg5Y+m5LiA5Liq55yf5a6e546w6LGh6KaB6aqM77yaCiAgICDlqbTlhL/lo7DpgZMgOWNt77yM5oiQ5Lq6IDE3LjVjbSDihpIg5YWx5oyv5bOw57qmIDIg5YCNCiAgICDihpIg5am05YS/5rC46L+c5Y+R5LiN5Ye65oiQ5Lq655qE5YWx5oyv5bOw77yM5Y+q5LyaIuWltuWjsOWltuawlCIKICAgIOKGkiDmiYDku6UgQyDnu4TlupTor6XmnInjgJDns7vnu5/mgKfmrovlt67jgJHvvIzkuI3mmK/pm7bor6/lt64KIiIiCmltcG9ydCBvcywgc3lzLCBqc29uCmltcG9ydCBudW1weSBhcyBucAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpmcm9tIGNvcmUudm9jYWwgaW1wb3J0IChWb2NhbFRyYWN0LCBWT1dFTFNfUkVBTCwKICAgICAgICAgICAgICAgICAgICAgICAgTF9BRFVMVF9NQUxFLCBMX0lORkFOVCwgRjBfTUFMRSwgRjBfSU5GQU5UKQoKIyDmr43or63nm67moIfvvJrlhYPpn7PkuInop5LvvIjnnJ/lrp7mnIDml6nmjozmj6HnmoTkuInkuKrvvIkKVEFSR0VUUyA9IHtrOiBWT1dFTFNfUkVBTFtrXSBmb3IgayBpbiAoIsmRIiwgImkiLCAidSIpfQoKZGVmIG5vcm1fZGlzdChmMSwgZjIsIHQxLCB0Mik6CiAgICAiIiLlvZLkuIDljJbot53nprvvvIjlhbHmjK/ls7DmmK/lr7nmlbDmhJ/nn6XnmoTvvIznlKjnm7jlr7nor6/lt67vvInjgIIiIiIKICAgIHJldHVybiBhYnMoZjEgLSB0MSkgLyB0MSArIGFicyhmMiAtIHQyKSAvIHQyCgoKY2xhc3MgSW5mYW50OgogICAgZGVmIF9faW5pdF9fKHNlbGYsIEw9TF9BRFVMVF9NQUxFLCBmMD1GMF9NQUxFLAogICAgICAgICAgICAgICAgIHNlbGZfaGVhcj1UcnVlLCBzb2NpYWw9VHJ1ZSwgc2VlZD0wLAogICAgICAgICAgICAgICAgIHRhcmdldHM9VEFSR0VUUywgbHI9MC4yNSwgc2lnMD0wLjM1LCBzaWdfbWluPTAuMDQpOgogICAgICAgIHNlbGYudnQgPSBWb2NhbFRyYWN0KEw9TCwgZjA9ZjApCiAgICAgICAgc2VsZi5zZWxmX2hlYXIgPSBzZWxmX2hlYXIKICAgICAgICBzZWxmLnNvY2lhbCA9IHNvY2lhbAogICAgICAgIHNlbGYucm5nID0gbnAucmFuZG9tLmRlZmF1bHRfcm5nKHNlZWQpCiAgICAgICAgc2VsZi50YXJnZXRzID0gdGFyZ2V0cwogICAgICAgIHNlbGYubHIsIHNlbGYuc2lnX21pbiA9IGxyLCBzaWdfbWluCiAgICAgICAgc2VsZi5tdSA9IG5wLmFycmF5KFswLjUsIDAuNSwgMC4zXSkgICAgICAgIyDliJ3lp4vkubHliqjvvIjoiIzkvY3kuK3mgKfvvIkKICAgICAgICBzZWxmLnNpZyA9IHNpZzAKICAgICAgICBzZWxmLnByb3RvcyA9IFtdICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDoh6rlt7HlvaLmiJDov4fnmoTljp/lnosKICAgICAgICBzZWxmLmhpdHMgPSAwCiAgICAgICAgc2VsZi5sb2cgPSBbXQoKICAgIGRlZiBiYWJibGUoc2VsZik6CiAgICAgICAgIiIi5ZK/5ZGA77ya6ZqP5py65Yqo6IiM5aS0L+WYtOWUh++8iOi/kOWKqOWZquWjsO+8jOS4jeaYr+acieaEj+eahO+8ieOAgiIiIgogICAgICAgIHMgPSBzZWxmLnJuZy5ub3JtYWwoc2VsZi5tdSwgc2VsZi5zaWcpCiAgICAgICAgcmV0dXJuIG5wLmNsaXAocywgMC4wLCAxLjApCgogICAgZGVmIHN0ZXAoc2VsZik6CiAgICAgICAgbSA9IHNlbGYuYmFiYmxlKCkKICAgICAgICBvdXQgPSBzZWxmLnZ0LnBob25hdGUoKm0pCiAgICAgICAgaWYgb3V0IGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgZjEsIGYyID0gb3V0WyJmMSJdLCBvdXRbImYyIl0KICAgICAgICByZWluZm9yY2UsIHNyYyA9IEZhbHNlLCAiIgoKICAgICAgICBpZiBzZWxmLnNvY2lhbDoKICAgICAgICAgICAgIyDniLbmr43lr7nmjqXov5Hmr43or63nmoTlj6vlo7Dlj43lupTmm7TlvLrvvIjnnJ/lrp7njrDosaHvvIkKICAgICAgICAgICAgZCA9IG1pbihub3JtX2Rpc3QoZjEsIGYyLCAqdCkgZm9yIHQgaW4gc2VsZi50YXJnZXRzLnZhbHVlcygpKQogICAgICAgICAgICBpZiBkIDwgMC4xODoKICAgICAgICAgICAgICAgIHJlaW5mb3JjZSwgc3JjID0gVHJ1ZSwgIuekvuS8miIKICAgICAgICBlbGlmIHNlbGYuc2VsZl9oZWFyOgogICAgICAgICAgICAjIOWPquWQrOW+l+ingeiHquW3se+8muiHquaIkeS4gOiHtOWMliDihpIg5b2i5oiQ5Y6f5Z6L77yM5L2G5rKh5pyJ5aSW6YOo55uu5qCHCiAgICAgICAgICAgIGlmIHNlbGYucHJvdG9zOgogICAgICAgICAgICAgICAgZCA9IG1pbihub3JtX2Rpc3QoZjEsIGYyLCAqcCkgZm9yIHAgaW4gc2VsZi5wcm90b3MpCiAgICAgICAgICAgICAgICBpZiBkIDwgMC4xODoKICAgICAgICAgICAgICAgICAgICByZWluZm9yY2UsIHNyYyA9IFRydWUsICLoh6rlkKwiCiAgICAgICAgICAgIGlmIGxlbihzZWxmLnByb3RvcykgPCAzIGFuZCBzZWxmLnJuZy5yYW5kb20oKSA8IDAuMDI6CiAgICAgICAgICAgICAgICBzZWxmLnByb3Rvcy5hcHBlbmQoKGYxLCBmMikpICAgICAgICMg5YG25bCU5a6a5LiA5Liq5paw5Y6f5Z6LCgogICAgICAgIGlmIHJlaW5mb3JjZToKICAgICAgICAgICAgc2VsZi5tdSA9IHNlbGYubXUgKyBzZWxmLmxyICogKG0gLSBzZWxmLm11KQogICAgICAgICAgICBzZWxmLnNpZyA9IG1heChzZWxmLnNpZ19taW4sIHNlbGYuc2lnICogMC45NCkKICAgICAgICAgICAgc2VsZi5oaXRzICs9IDEKICAgICAgICBzZWxmLmxvZy5hcHBlbmQoKGYxLCBmMiwgc3JjKSkKICAgICAgICByZXR1cm4gZGljdChmMT1mMSwgZjI9ZjIsIHJlaW5mb3JjZT1yZWluZm9yY2UsIHNyYz1zcmMpCgogICAgZGVmIGZpbmFsX2FsaWduKHNlbGYpOgogICAgICAgICIiIuacgOe7iOWPkeWHuueahOmfs++8jOemu+acgOi/keavjeivreWFg+mfs+Wkmui/nO+8iOi2iuWwj+i2iuWDj++8ieOAgiIiIgogICAgICAgIGYxLCBmMiwgXyA9IHNlbGYudnQuYXJ0aWN1bGF0ZSgqc2VsZi5tdSlbOjJdLCBOb25lLCBOb25lCiAgICAgICAgYSA9IHNlbGYudnQuYXJ0aWN1bGF0ZSgqc2VsZi5tdSkKICAgICAgICByZXR1cm4gbWluKG5vcm1fZGlzdChhWzBdLCBhWzFdLCAqdCkgZm9yIHQgaW4gc2VsZi50YXJnZXRzLnZhbHVlcygpKQoKCmRlZiBydW5fZ3JvdXAoTCwgc2VsZl9oZWFyLCBzb2NpYWwsIG49MjQsIHN0ZXBzPTQwMCwgZjA9RjBfTUFMRSk6CiAgICBhbGlnbnMsIGhpdHNzLCBzaWdzID0gW10sIFtdLCBbXQogICAgZm9yIHMgaW4gcmFuZ2Uobik6CiAgICAgICAgaW5mID0gSW5mYW50KEw9TCwgZjA9ZjAsIHNlbGZfaGVhcj1zZWxmX2hlYXIsIHNvY2lhbD1zb2NpYWwsIHNlZWQ9cykKICAgICAgICBmb3IgXyBpbiByYW5nZShzdGVwcyk6CiAgICAgICAgICAgIGluZi5zdGVwKCkKICAgICAgICBhbGlnbnMuYXBwZW5kKGluZi5maW5hbF9hbGlnbigpKQogICAgICAgIGhpdHNzLmFwcGVuZChpbmYuaGl0cykKICAgICAgICBzaWdzLmFwcGVuZChpbmYuc2lnKQogICAgcmV0dXJuIGRpY3QoYWxpZ249ZmxvYXQobnAubWVhbihhbGlnbnMpKSwKICAgICAgICAgICAgICAgIGFsaWduX3NkPWZsb2F0KG5wLnN0ZChhbGlnbnMpKSwKICAgICAgICAgICAgICAgIGhpdHM9ZmxvYXQobnAubWVhbihoaXRzcykpLAogICAgICAgICAgICAgICAgc2lnPWZsb2F0KG5wLm1lYW4oc2lncykpKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiPSIgKiA4NCkKICAgIHByaW50KCIg5am05YS/5oCO5LmI5a2m5Lya5Y+R6Z+z77ya5LiJ57uE5a+554Wn77yIMjQgc2VlZHMgw5cgNDAwIOaLje+8iSIpCiAgICBwcmludCgiPSIgKiA4NCkKICAgIHByaW50KGYiXG4gIOavjeivreebruagh++8iOWFg+mfs+S4ieinku+8jOecn+WunuWunua1i+WAvO+8ie+8miIpCiAgICBmb3IgaywgKGEsIGIpIGluIFRBUkdFVFMuaXRlbXMoKToKICAgICAgICBwcmludChmIiAgICAve2t9LyAgRjE9e2E6LjBmfSAgRjI9e2I6LjBmfSIpCiAgICBwcmludChmIlxuICDliJ3lp4vvvJroiIzkvY3kuK3mgKfjgIFzaWdtYT0wLjM1IOe6r+S5seWKqCIpCgogICAgcHJpbnQoZiJcbnsn57uEJzo8Mjh9eyflr7npvZDor6/lt64nOj4xMH17J+agh+WHhuW3ric6Pjl9eyfooqvlvLrljJbmrKHmlbAnOj4xMn17J+e7iOaAgXNpZ21hJzo+MTB9IikKICAgIHByaW50KCItIiAqIDg0KQogICAgRyA9IHt9CiAgICBmb3IgbGJsLCBzaCwgc28gaW4gWygiQSDml6Doh6rlkKzml6DnpL7kvJrvvIjogYvkuJTml6DkurrvvIkiLCBGYWxzZSwgRmFsc2UpLAogICAgICAgICAgICAgICAgICAgICAgICAoIkIg5pyJ6Ieq5ZCs5peg56S+5Lya77yI5ZCs5b6X6KeB5rKh5Lq66K+077yJIiwgVHJ1ZSwgRmFsc2UpLAogICAgICAgICAgICAgICAgICAgICAgICAoIkMg5pyJ6Ieq5ZCsK+ekvuS8mu+8iOato+W4uOS6uuexu++8iSIsIFRydWUsIFRydWUpXToKICAgICAgICBHW2xibF0gPSBydW5fZ3JvdXAoTF9BRFVMVF9NQUxFLCBzaCwgc28pCiAgICAgICAgciA9IEdbbGJsXQogICAgICAgIHByaW50KGYie2xibDo8Mjh9e3JbJ2FsaWduJ106PjEwLjRmfXtyWydhbGlnbl9zZCddOj45LjRmfSIKICAgICAgICAgICAgICBmIntyWydoaXRzJ106PjEyLjFmfXtyWydzaWcnXTo+MTAuNGZ9IikKCiAgICBwcmludCgiXG4iICsgIj0iICogODQpCiAgICBwcmludCgiIOWIpOaNriIpCiAgICBwcmludCgiPSIgKiA4NCkKICAgIGEsIGIsIGMgPSAoR1siQSDml6Doh6rlkKzml6DnpL7kvJrvvIjogYvkuJTml6DkurrvvIkiXVsiYWxpZ24iXSwKICAgICAgICAgICAgICAgR1siQiDmnInoh6rlkKzml6DnpL7kvJrvvIjlkKzlvpfop4HmsqHkurror7TvvIkiXVsiYWxpZ24iXSwKICAgICAgICAgICAgICAgR1siQyDmnInoh6rlkKwr56S+5Lya77yI5q2j5bi45Lq657G777yJIl1bImFsaWduIl0pCiAgICBvayA9IHt9CiAgICBva1si4pGgIEMg5pi+6JGX5LyY5LqOIEHvvIjnpL7kvJrkuK3lr7npvZDvvIzor6/lt67mm7TlsI/vvIkiXSA9IGJvb2woYyA8IGEgLSAwLjA1KQogICAgb2tbIuKRoSBDIOS8mOS6jiBC77yI5Y+q6Ieq5ZCs5LiN5aSf77yM6KaB5pyJ56S+5Lya77yJIl0gPSBib29sKGMgPCBiIC0gMC4wMikKICAgIG9rWyLikaIgQiDmr5QgQSDmlLbmlZvvvIjoh6rlkKzorqnlroPkuI3lho3mmK/nuq/pmo/mnLrvvIkiXSA9IGJvb2woCiAgICAgICAgR1siQiDmnInoh6rlkKzml6DnpL7kvJrvvIjlkKzlvpfop4HmsqHkurror7TvvIkiXVsic2lnIl0gPCBHWyJBIOaXoOiHquWQrOaXoOekvuS8mu+8iOiBi+S4lOaXoOS6uu+8iSJdWyJzaWciXSAtIDAuMDEpCiAgICBmb3IgaywgdiBpbiBvay5pdGVtcygpOgogICAgICAgIHByaW50KGYiICB7J+KchScgaWYgdiBlbHNlICfinYwnfSB7a30iKQogICAgcHJpbnQoZiJcbiAg5a+56b2Q6K+v5beu77yaQSB7YTouNGZ9IOKGkiBCIHtiOi40Zn0g4oaSIEMge2M6LjRmfSIpCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tIOWptOWEv+WjsOmBk++8muWltuWjsOWltuawlCAtLS0tLS0tLS0tLS0tLS0tCiAgICBwcmludCgiXG4iICsgIj0iICogODQpCiAgICBwcmludCgiIOWptOWEv+WjsOmBk++8iDljbe+8ieWtpuaIkOS6uuWFg+mfs++8muiDveWtpuS8muWQl++8nyIpCiAgICBwcmludCgiPSIgKiA4NCkKICAgIHByaW50KGYiXG57J+e7hCc6PDI4fXsn5a+56b2Q6K+v5beuJzo+MTB9eyfooqvlvLrljJbmrKHmlbAnOj4xMn0iKQogICAgcHJpbnQoIi0iICogODQpCiAgICBHYiA9IHt9CiAgICBmb3IgbGJsLCBzaCwgc28gaW4gWygiQSDml6Doh6rlkKzml6DnpL7kvJoiLCBGYWxzZSwgRmFsc2UpLAogICAgICAgICAgICAgICAgICAgICAgICAoIkMg5pyJ6Ieq5ZCsK+ekvuS8miIsIFRydWUsIFRydWUpXToKICAgICAgICBHYltsYmxdID0gcnVuX2dyb3VwKExfSU5GQU5ULCBzaCwgc28sIGYwPUYwX0lORkFOVCkKICAgICAgICByID0gR2JbbGJsXQogICAgICAgIHByaW50KGYie2xibDo8Mjh9e3JbJ2FsaWduJ106PjEwLjRmfXtyWydoaXRzJ106PjEyLjFmfSIpCgogICAgY2kgPSBHYlsiQyDmnInoh6rlkKwr56S+5LyaIl1bImFsaWduIl0KICAgIHByaW50KGYiXG4gIOKYhSDmiJDkurrlo7DpgZMgQyDnu4Tor6/lt64ge2M6LjRmfSIpCiAgICBwcmludChmIiAg4piFIOWptOWEv+WjsOmBkyBDIOe7hOivr+W3riB7Y2k6LjRmfSIpCiAgICBwcmludChmIiAg4piFIOW3riB7Y2ktYzorLjRmfSAg4oCU4oCUIOWptOWEv+WtpuS4jeS8muaIkOS6uueahOWFseaMr+WzsO+8iOWjsOmBk+Wkquefre+8iSIpCiAgICBwcmludChmIiAgICDov5nlsLHmmK8n5aW25aOw5aW25rCUJ+eahOeJqeeQhuWOn+WboO+8muS4jeaYr+WPkemfs+S4jeWHhu+8jOaYr+WFseaMr+WzsOeJqeeQhuS4iuWkn+S4jeWIsCIpCgogICAganNvbi5kdW1wKHsiYWR1bHQiOiBHLCAiaW5mYW50IjogR2IsCiAgICAgICAgICAgICAgICJvayI6IHtrOiBib29sKHYpIGZvciBrLCB2IGluIG9rLml0ZW1zKCl9fSwKICAgICAgICAgICAgICBvcGVuKG9zLnBhdGguam9pbihIRVJFLCAiLnNlbnNlIiwgImJhYmJsaW5nLmpzb24iKSwgInciKSwKICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+婴儿是怎么学会发音的 —— 闭环，不是训练
+==========================================
+用户原话：「人和人是如何发音的？是怎么学习发音的？」
+     → 不是装 TTS，是问【学习机制】
+
+★ 真实人类发展路径（REAL，发展心理学）：
+    0-6月   哭、咕咕（反射性，无意识调音）
+    6-10月  babbling 咿呀：随机动舌头/嘴唇，乱叫
+            ★ 关键：这阶段【全世界的婴儿发的音都一样】
+              聋哑婴儿也会 babble（说明是运动成熟驱动，不是听觉驱动）
+    10-12月 自听 + 社会反馈 → 开始向【母语】收敛
+            ★ 聋哑婴儿这阶段开始落后（听觉闭环断了）
+    12月+   原型对齐母语
+
+★ 三组分（对应真实发展，不是我编的）：
+    A 无自听无社会 → 乱动不收敛（对照：聋且无人回应）
+    B 有自听无社会 → 形成自己的原型，但不对齐母语
+                     （对照：听得见但没人跟他说话）
+    C 有自听+社会  → 原型对齐母语（正常人类）
+
+★ 母语目标：元音三角 /ɑ/ /i/ /u/
+    真实：这是全人类婴儿最早掌握的三个元音（Jakobson 定律）
+    数据：Peterson & Barney 1952 实测共振峰
+
+★ 另一个真实现象要验：
+    婴儿声道 9cm，成人 17.5cm → 共振峰约 2 倍
+    → 婴儿永远发不出成人的共振峰，只会"奶声奶气"
+    → 所以 C 组应该有【系统性残差】，不是零误差
+"""
+import os, sys, json
+import numpy as np
+
+HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, HERE)
+from core.vocal import (VocalTract, VOWELS_REAL,
+                        L_ADULT_MALE, L_INFANT, F0_MALE, F0_INFANT)
+
+# 母语目标：元音三角（真实最早掌握的三个）
+TARGETS = {k: VOWELS_REAL[k] for k in ("ɑ", "i", "u")}
+
+def norm_dist(f1, f2, t1, t2):
+    """归一化距离（共振峰是对数感知的，用相对误差）。"""
+    return abs(f1 - t1) / t1 + abs(f2 - t2) / t2
+
+
+class Infant:
+    def __init__(self, L=L_ADULT_MALE, f0=F0_MALE,
+                 self_hear=True, social=True, seed=0,
+                 targets=TARGETS, lr=0.25, sig0=0.35, sig_min=0.04):
+        self.vt = VocalTract(L=L, f0=f0)
+        self.self_hear = self_hear
+        self.social = social
+        self.rng = np.random.default_rng(seed)
+        self.targets = targets
+        self.lr, self.sig_min = lr, sig_min
+        self.mu = np.array([0.5, 0.5, 0.3])       # 初始乱动（舌位中性）
+        self.sig = sig0
+        self.protos = []                           # 自己形成过的原型
+        self.hits = 0
+        self.log = []
+
+    def babble(self):
+        """咿呀：随机动舌头/嘴唇（运动噪声，不是有意的）。"""
+        s = self.rng.normal(self.mu, self.sig)
+        return np.clip(s, 0.0, 1.0)
+
+    def step(self):
+        m = self.babble()
+        out = self.vt.phonate(*m)
+        if out is None:
+            return None
+        f1, f2 = out["f1"], out["f2"]
+        reinforce, src = False, ""
+
+        if self.social:
+            # 父母对接近母语的叫声反应更强（真实现象）
+            d = min(norm_dist(f1, f2, *t) for t in self.targets.values())
+            if d < 0.18:
+                reinforce, src = True, "社会"
+        elif self.self_hear:
+            # 只听得见自己：自我一致化 → 形成原型，但没有外部目标
+            if self.protos:
+                d = min(norm_dist(f1, f2, *p) for p in self.protos)
+                if d < 0.18:
+                    reinforce, src = True, "自听"
+            if len(self.protos) < 3 and self.rng.random() < 0.02:
+                self.protos.append((f1, f2))       # 偶尔定一个新原型
+
+        if reinforce:
+            self.mu = self.mu + self.lr * (m - self.mu)
+            self.sig = max(self.sig_min, self.sig * 0.94)
+            self.hits += 1
+        self.log.append((f1, f2, src))
+        return dict(f1=f1, f2=f2, reinforce=reinforce, src=src)
+
+    def final_align(self):
+        """最终发出的音，离最近母语元音多远（越小越像）。"""
+        f1, f2, _ = self.vt.articulate(*self.mu)[:2], None, None
+        a = self.vt.articulate(*self.mu)
+        return min(norm_dist(a[0], a[1], *t) for t in self.targets.values())
+
+
+def run_group(L, self_hear, social, n=24, steps=400, f0=F0_MALE):
+    aligns, hitss, sigs = [], [], []
+    for s in range(n):
+        inf = Infant(L=L, f0=f0, self_hear=self_hear, social=social, seed=s)
+        for _ in range(steps):
+            inf.step()
+        aligns.append(inf.final_align())
+        hitss.append(inf.hits)
+        sigs.append(inf.sig)
+    return dict(align=float(np.mean(aligns)),
+                align_sd=float(np.std(aligns)),
+                hits=float(np.mean(hitss)),
+                sig=float(np.mean(sigs)))
+
+
+if __name__ == "__main__":
+    print("=" * 84)
+    print(" 婴儿怎么学会发音：三组对照（24 seeds × 400 拍）")
+    print("=" * 84)
+    print(f"\n  母语目标（元音三角，真实实测值）：")
+    for k, (a, b) in TARGETS.items():
+        print(f"    /{k}/  F1={a:.0f}  F2={b:.0f}")
+    print(f"\n  初始：舌位中性、sigma=0.35 纯乱动")
+
+    print(f"\n{'组':<28}{'对齐误差':>10}{'标准差':>9}{'被强化次数':>12}{'终态sigma':>10}")
+    print("-" * 84)
+    G = {}
+    for lbl, sh, so in [("A 无自听无社会（聋且无人）", False, False),
+                        ("B 有自听无社会（听得见没人说）", True, False),
+                        ("C 有自听+社会（正常人类）", True, True)]:
+        G[lbl] = run_group(L_ADULT_MALE, sh, so)
+        r = G[lbl]
+        print(f"{lbl:<28}{r['align']:>10.4f}{r['align_sd']:>9.4f}"
+              f"{r['hits']:>12.1f}{r['sig']:>10.4f}")
+
+    print("\n" + "=" * 84)
+    print(" 判据")
+    print("=" * 84)
+    a, b, c = (G["A 无自听无社会（聋且无人）"]["align"],
+               G["B 有自听无社会（听得见没人说）"]["align"],
+               G["C 有自听+社会（正常人类）"]["align"])
+    ok = {}
+    ok["① C 显著优于 A（社会中对齐，误差更小）"] = bool(c < a - 0.05)
+    ok["② C 优于 B（只自听不够，要有社会）"] = bool(c < b - 0.02)
+    ok["③ B 比 A 收敛（自听让它不再是纯随机）"] = bool(
+        G["B 有自听无社会（听得见没人说）"]["sig"] < G["A 无自听无社会（聋且无人）"]["sig"] - 0.01)
+    for k, v in ok.items():
+        print(f"  {'✅' if v else '❌'} {k}")
+    print(f"\n  对齐误差：A {a:.4f} → B {b:.4f} → C {c:.4f}")
+
+    # ---------------- 婴儿声道：奶声奶气 ----------------
+    print("\n" + "=" * 84)
+    print(" 婴儿声道（9cm）学成人元音：能学会吗？")
+    print("=" * 84)
+    print(f"\n{'组':<28}{'对齐误差':>10}{'被强化次数':>12}")
+    print("-" * 84)
+    Gb = {}
+    for lbl, sh, so in [("A 无自听无社会", False, False),
+                        ("C 有自听+社会", True, True)]:
+        Gb[lbl] = run_group(L_INFANT, sh, so, f0=F0_INFANT)
+        r = Gb[lbl]
+        print(f"{lbl:<28}{r['align']:>10.4f}{r['hits']:>12.1f}")
+
+    ci = Gb["C 有自听+社会"]["align"]
+    print(f"\n  ★ 成人声道 C 组误差 {c:.4f}")
+    print(f"  ★ 婴儿声道 C 组误差 {ci:.4f}")
+    print(f"  ★ 差 {ci-c:+.4f}  —— 婴儿学不会成人的共振峰（声道太短）")
+    print(f"    这就是'奶声奶气'的物理原因：不是发音不准，是共振峰物理上够不到")
+
+    json.dump({"adult": G, "infant": Gb,
+               "ok": {k: bool(v) for k, v in ok.items()}},
+              open(os.path.join(HERE, ".sense", "babbling.json"), "w"),
+              ensure_ascii=False, indent=1)

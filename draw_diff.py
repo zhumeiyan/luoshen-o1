@@ -1,1 +1,16 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5LiN5YaZ5LiA5Liq5pWw5a2X44CC5Y+q5pyJ5Lik5Z2X77yM5beu5q2j5aW95LiA5LiqIEpOROOAgiIiIgppbXBvcnQgbWF0cGxvdGxpYjsgbWF0cGxvdGxpYi51c2UoIkFnZyIpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKZnJvbSBtYXRwbG90bGliLnBhdGNoZXMgaW1wb3J0IFJlY3RhbmdsZQpCRz0iIzBiMGIwYyIKSz0wLjA3OSAgICAgICAgICAgICAgICAgICAgICAjIOS6ruW6pumfpuS8r+WIhuaVsApBPTI0MiAgICAgICAgICAgICAgICAgICAgICAgICMg5Y+C6ICDCkI9aW50KHJvdW5kKEEqKDEtSykpKSAgICAgICAgIyDlt67kuIDkuKogSk5ECmZpZyxheD1wbHQuc3VicGxvdHMoZmlnc2l6ZT0oOS42LDQuNCksZmFjZWNvbG9yPUJHKTsgYXguc2V0X2ZhY2Vjb2xvcihCRykKYXguc2V0X3hsaW0oMCwxMCk7IGF4LnNldF95bGltKDAsNC40KTsgYXguYXhpcygib2ZmIikKZz1sYW1iZGEgdjpmIiN7djowMnh9e3Y6MDJ4fXt2OjAyeH0iCmF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKDIuOTAsMS4yMCksIDEuOTAsIDIuMDAsIGZjPWcoQSksIGVjPSJub25lIikpCmF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKDUuMjAsMS4yMCksIDEuOTAsIDIuMDAsIGZjPWcoQiksIGVjPSJub25lIikpCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoIuaEn+WumOahpS/nrKblj7dfdjM3X+W3ri5wbmciLGRwaT0xMTAsZmFjZWNvbG9yPUJHKQpwcmludCgiQSIsQSwiQiIsQiwi5beuIiwoQS1CKS9BKQo=
+# -*- coding: utf-8 -*-
+"""不写一个数字。只有两块，差正好一个 JND。"""
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+BG="#0b0b0c"
+K=0.079                      # 亮度韦伯分数
+A=242                        # 参考
+B=int(round(A*(1-K)))        # 差一个 JND
+fig,ax=plt.subplots(figsize=(9.6,4.4),facecolor=BG); ax.set_facecolor(BG)
+ax.set_xlim(0,10); ax.set_ylim(0,4.4); ax.axis("off")
+g=lambda v:f"#{v:02x}{v:02x}{v:02x}"
+ax.add_patch(Rectangle((2.90,1.20), 1.90, 2.00, fc=g(A), ec="none"))
+ax.add_patch(Rectangle((5.20,1.20), 1.90, 2.00, fc=g(B), ec="none"))
+plt.tight_layout(); plt.savefig("感官桥/符号_v37_差.png",dpi=110,facecolor=BG)
+print("A",A,"B",B,"差",(A-B)/A)

@@ -1,1 +1,33 @@
-IyA5LjkgLSBDaGFsbGVuZ2U6IENhdHMgV2l0aCBIYXRzCiMgU29sdXRpb24gdG8gY2hhbGxlbmdlCgoKZGVmIGdldF9jYXRzX3dpdGhfaGF0cyhhcnJheV9vZl9jYXRzKToKICAgIGNhdHNfd2l0aF9oYXRzX29uID0gW10KICAgICMgV2Ugd2FudCB0byB3YWxrIGFyb3VuZCB0aGUgY2lyY2xlIDEwMCB0aW1lcwogICAgZm9yIG51bSBpbiByYW5nZSgxLCAxMDAgKyAxKToKICAgICAgICAjIEVhY2ggdGltZSB3ZSB3YWxrIGFyb3VuZCwgd2UgdmlzaXQgMTAwIGNhdHMKICAgICAgICBmb3IgY2F0IGluIHJhbmdlKDEsIDEwMCArIDEpOgogICAgICAgICAgICAjIERldGVybWluZSB3aGV0aGVyIHRvIHZpc2l0IHRoZSBjYXQKICAgICAgICAgICAgIyBVc2UgbW9kdWxvIG9wZXJhdG9yIHRvIHZpc2l0IGV2ZXJ5IDJuZCwgM3JkLCA0dGgsLi4uIGV0Yy4KICAgICAgICAgICAgaWYgY2F0ICUgbnVtID09IDA6CiAgICAgICAgICAgICAgICAjIFJlbW92ZSBvciBhZGQgaGF0IGRlcGVuZGluZyBvbgogICAgICAgICAgICAgICAgIyB3aGV0aGVyIHRoZSBjYXQgYWxyZWFkeSBoYXMgb25lCiAgICAgICAgICAgICAgICBpZiBhcnJheV9vZl9jYXRzW2NhdF0gaXMgVHJ1ZToKICAgICAgICAgICAgICAgICAgICBhcnJheV9vZl9jYXRzW2NhdF0gPSBGYWxzZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBhcnJheV9vZl9jYXRzW2NhdF0gPSBUcnVlCgogICAgIyBBZGQgYWxsIG51bWJlciBvZiBlYWNoIGNhdCB3aXRoIGEgaGF0IHRvIGxpc3QKICAgIGZvciBjYXQgaW4gcmFuZ2UoMSwgMTAwICsgMSk6CiAgICAgICAgaWYgYXJyYXlfb2ZfY2F0c1tjYXRdIGlzIFRydWU6CiAgICAgICAgICAgIGNhdHNfd2l0aF9oYXRzX29uLmFwcGVuZChjYXQpCgogICAgIyBSZXR1cm4gdGhlIHJlc3VsdGluZyBsaXN0CiAgICByZXR1cm4gY2F0c193aXRoX2hhdHNfb24KCgojIENhdHMgY29udGFpbnMgd2hldGhlciBlYWNoIGNhdCBhbHJlYWR5IGhhcyBhIGhhdCBvbiwKIyBieSBkZWZhdWx0IGFsbCBhcmUgc2V0IHRvIGZhbHNlIHNpbmNlIG5vbmUgaGF2ZSBiZWVuIHZpc2l0ZWQKY2F0cyA9IFtGYWxzZV0gKiAoMTAwICsgMSkKcHJpbnQoZ2V0X2NhdHNfd2l0aF9oYXRzKGNhdHMpKQo=
+# 9.9 - Challenge: Cats With Hats
+# Solution to challenge
+
+
+def get_cats_with_hats(array_of_cats):
+    cats_with_hats_on = []
+    # We want to walk around the circle 100 times
+    for num in range(1, 100 + 1):
+        # Each time we walk around, we visit 100 cats
+        for cat in range(1, 100 + 1):
+            # Determine whether to visit the cat
+            # Use modulo operator to visit every 2nd, 3rd, 4th,... etc.
+            if cat % num == 0:
+                # Remove or add hat depending on
+                # whether the cat already has one
+                if array_of_cats[cat] is True:
+                    array_of_cats[cat] = False
+                else:
+                    array_of_cats[cat] = True
+
+    # Add all number of each cat with a hat to list
+    for cat in range(1, 100 + 1):
+        if array_of_cats[cat] is True:
+            cats_with_hats_on.append(cat)
+
+    # Return the resulting list
+    return cats_with_hats_on
+
+
+# Cats contains whether each cat already has a hat on,
+# by default all are set to false since none have been visited
+cats = [False] * (100 + 1)
+print(get_cats_with_hats(cats))

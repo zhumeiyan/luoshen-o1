@@ -1,1 +1,2 @@
-ZnJvbSAucnVsZXMgaW1wb3J0IFJVTEVTCl9fdmVyc2lvbl9fID0gIjAuMi4wIgo=
+from .rules import RULES
+__version__ = "0.2.0"

@@ -1,1 +1,69 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCkNyZWF0ZWQgb24gMjAyMi8xMC8xOSAxMDo0MCBBTQotLS0tLS0tLS0KQHN1bW1hcnk6Ci0tLS0tLS0tLQpAYXV0aG9yOiBCb3JpcwpAZW1haWw6IGJvcmlzX2xpdUBmb3htYWlsLmNvbQoiIiIKZnJvbSBxdWV1ZSBpbXBvcnQgUXVldWUKCmltcG9ydCByZXF1ZXN0cwoKaW1wb3J0IGZlYXBkZXIuc2V0dGluZyBhcyBzZXR0aW5nCmZyb20gZmVhcGRlci5uZXR3b3JrLnByb3h5X3Bvb2wuYmFzZSBpbXBvcnQgQmFzZVByb3h5UG9vbApmcm9tIGZlYXBkZXIudXRpbHMgaW1wb3J0IG1ldHJpY3MKZnJvbSBmZWFwZGVyLnV0aWxzIGltcG9ydCB0b29scwoKCmNsYXNzIFByb3h5UG9vbChCYXNlUHJveHlQb29sKToKICAgICIiIgogICAg6YCa6L+HQVBJ5o+Q5Y+W5Luj55CG77yM5a2Y5YKo5Zyo5YaF5a2Y5Lit77yM5peg5Luj55CG5pe25Lya6Ieq5Yqo5o+Q5Y+WCiAgICBBUEnov5Tlm57nmoTku6PnkIbku6UgXHJcbiDliIbpmpQKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwcm94eV9hcGk9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgIHNlbGYucHJveHlfYXBpID0gcHJveHlfYXBpIG9yIHNldHRpbmcuUFJPWFlfRVhUUkFDVF9BUEkKICAgICAgICBzZWxmLnByb3h5X3F1ZXVlID0gUXVldWUoKQoKICAgIGRlZiBmb3JtYXRfcHJveHkoc2VsZiwgcHJveHkpOgogICAgICAgIHJldHVybiB7Imh0dHAiOiAiaHR0cDovLyIgKyBwcm94eSwgImh0dHBzIjogImh0dHA6Ly8iICsgcHJveHl9CgogICAgQHRvb2xzLnJldHJ5KDMsIGludGVydmFsPTUpCiAgICBkZWYgcHVsbF9wcm94aWVzKHNlbGYpOgogICAgICAgIHJlc3AgPSByZXF1ZXN0cy5nZXQoc2VsZi5wcm94eV9hcGkpCiAgICAgICAgcHJveGllcyA9IHJlc3AudGV4dC5zdHJpcCgpCiAgICAgICAgcmVzcC5jbG9zZSgpCiAgICAgICAgaWYgInsiIGluIHByb3hpZXMgb3Igbm90IHByb3hpZXM6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigi6I635Y+W5Luj55CG5aSx6LSlIiwgcHJveGllcykKICAgICAgICAjIOS9v+eUqCAvci9uIOWIhumalAogICAgICAgIHJldHVybiBwcm94aWVzLnNwbGl0KCJcclxuIikKCiAgICBkZWYgZ2V0X3Byb3h5KHNlbGYpOgogICAgICAgIHRyeToKICAgICAgICAgICAgaWYgc2VsZi5wcm94eV9xdWV1ZS5lbXB0eSgpOgogICAgICAgICAgICAgICAgcHJveGllcyA9IHNlbGYucHVsbF9wcm94aWVzKCkKICAgICAgICAgICAgICAgIGZvciBwcm94eSBpbiBwcm94aWVzOgogICAgICAgICAgICAgICAgICAgIHNlbGYucHJveHlfcXVldWUucHV0X25vd2FpdChwcm94eSkKICAgICAgICAgICAgICAgICAgICBtZXRyaWNzLmVtaXRfY291bnRlcigidG90YWwiLCAxLCBjbGFzc2lmeT0icHJveHkiKQoKICAgICAgICAgICAgcHJveHkgPSBzZWxmLnByb3h5X3F1ZXVlLmdldF9ub3dhaXQoKQogICAgICAgICAgICBzZWxmLnByb3h5X3F1ZXVlLnB1dF9ub3dhaXQocHJveHkpCgogICAgICAgICAgICBtZXRyaWNzLmVtaXRfY291bnRlcigidXNlZF90aW1lcyIsIDEsIGNsYXNzaWZ5PSJwcm94eSIpCgogICAgICAgICAgICByZXR1cm4gc2VsZi5mb3JtYXRfcHJveHkocHJveHkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICB0b29scy5zZW5kX21zZygi6I635Y+W5Luj55CG5aSx6LSlIiwgbGV2ZWw9ImVycm9yIikKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCLojrflj5bku6PnkIblpLHotKUiLCBlKQoKICAgIGRlZiBkZWxfcHJveHkoc2VsZiwgcHJveHkpOgogICAgICAgICIiIgogICAgICAgIEBzdW1tYXJ5OiDliKDpmaTku6PnkIYKICAgICAgICAtLS0tLS0tLS0KICAgICAgICBAcGFyYW0gcHJveHk6IGlwOnBvcnQKICAgICAgICAiIiIKICAgICAgICBpZiBwcm94eSBpbiBzZWxmLnByb3h5X3F1ZXVlLnF1ZXVlOgogICAgICAgICAgICBzZWxmLnByb3h5X3F1ZXVlLnF1ZXVlLnJlbW92ZShwcm94eSkKICAgICAgICAgICAgbWV0cmljcy5lbWl0X2NvdW50ZXIoImludmFsaWQiLCAxLCBjbGFzc2lmeT0icHJveHkiKQo=
+# -*- coding: utf-8 -*-
+"""
+Created on 2022/10/19 10:40 AM
+---------
+@summary:
+---------
+@author: Boris
+@email: boris_liu@foxmail.com
+"""
+from queue import Queue
+
+import requests
+
+import feapder.setting as setting
+from feapder.network.proxy_pool.base import BaseProxyPool
+from feapder.utils import metrics
+from feapder.utils import tools
+
+
+class ProxyPool(BaseProxyPool):
+    """
+    通过API提取代理，存储在内存中，无代理时会自动提取
+    API返回的代理以 \r\n 分隔
+    """
+
+    def __init__(self, proxy_api=None, **kwargs):
+        self.proxy_api = proxy_api or setting.PROXY_EXTRACT_API
+        self.proxy_queue = Queue()
+
+    def format_proxy(self, proxy):
+        return {"http": "http://" + proxy, "https": "http://" + proxy}
+
+    @tools.retry(3, interval=5)
+    def pull_proxies(self):
+        resp = requests.get(self.proxy_api)
+        proxies = resp.text.strip()
+        resp.close()
+        if "{" in proxies or not proxies:
+            raise Exception("获取代理失败", proxies)
+        # 使用 /r/n 分隔
+        return proxies.split("\r\n")
+
+    def get_proxy(self):
+        try:
+            if self.proxy_queue.empty():
+                proxies = self.pull_proxies()
+                for proxy in proxies:
+                    self.proxy_queue.put_nowait(proxy)
+                    metrics.emit_counter("total", 1, classify="proxy")
+
+            proxy = self.proxy_queue.get_nowait()
+            self.proxy_queue.put_nowait(proxy)
+
+            metrics.emit_counter("used_times", 1, classify="proxy")
+
+            return self.format_proxy(proxy)
+        except Exception as e:
+            tools.send_msg("获取代理失败", level="error")
+            raise Exception("获取代理失败", e)
+
+    def del_proxy(self, proxy):
+        """
+        @summary: 删除代理
+        ---------
+        @param proxy: ip:port
+        """
+        if proxy in self.proxy_queue.queue:
+            self.proxy_queue.queue.remove(proxy)
+            metrics.emit_counter("invalid", 1, classify="proxy")

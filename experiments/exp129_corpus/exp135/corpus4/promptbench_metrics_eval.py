@@ -1,1 +1,183 @@
-IyBDb3B5cmlnaHQgKGMpIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbi4KIyBMaWNlbnNlZCB1bmRlciB0aGUgTUlUIExpY2Vuc2UuCgpjbGFzcyBFdmFsOgogICAgIiIiCiAgICBBIHV0aWxpdHkgY2xhc3MgZm9yIGNvbXB1dGluZyB2YXJpb3VzIGV2YWx1YXRpb24gbWV0cmljcy4KCiAgICBUaGlzIGNsYXNzIHByb3ZpZGVzIHN0YXRpYyBtZXRob2RzIHRvIGNvbXB1dGUgbWV0cmljcyBzdWNoIGFzIGNsYXNzaWZpY2F0aW9uIGFjY3VyYWN5LCBTUXVBRCBWMiBGMSBzY29yZSwgQkxFVSBzY29yZSwgYW5kIG1hdGggYWNjdXJhY3kuCgogICAgTWV0aG9kczoKICAgIC0tLS0tLS0tCiAgICBjb21wdXRlX2Nsc19hY2N1cmFjeShwcmVkcywgZ3RzKQogICAgICAgIENvbXB1dGVzIGNsYXNzaWZpY2F0aW9uIGFjY3VyYWN5LgogICAgY29tcHV0ZV9zcXVhZF92Ml9mMShwcmVkcywgZ3RzLCBkYXRhc2V0KQogICAgICAgIENvbXB1dGVzIHRoZSBGMSBzY29yZSBmb3IgdGhlIFNRdUFEIFYyIGRhdGFzZXQuCiAgICBjb21wdXRlX2JsZXUocHJlZHMsIGd0cykKICAgICAgICBDb21wdXRlcyB0aGUgQkxFVSBzY29yZSBmb3IgdHJhbnNsYXRpb24gdGFza3MuCiAgICBjb21wdXRlX21hdGhfYWNjdXJhY3koZGF0YXNldCwgcHJlZHMsIGd0cykKICAgICAgICBDb21wdXRlcyBhY2N1cmFjeSBmb3IgbWF0aCBkYXRhc2V0LgogICAgIiIiCiAgICAKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBjb21wdXRlX2Nsc19hY2N1cmFjeShwcmVkcywgZ3RzKToKICAgICAgICAiIiIKICAgICAgICBDb21wdXRlcyBjbGFzc2lmaWNhdGlvbiBhY2N1cmFjeSBiYXNlZCBvbiBwcmVkaWN0aW9ucyBhbmQgZ3JvdW5kIHRydXRocy4KCiAgICAgICAgUGFyYW1ldGVyczoKICAgICAgICAtLS0tLS0tLS0tLQogICAgICAgIHByZWRzIDogbGlzdAogICAgICAgICAgICBBIGxpc3Qgb2YgcHJlZGljdGlvbnMuCiAgICAgICAgZ3RzIDogbGlzdAogICAgICAgICAgICBBIGxpc3Qgb2YgZ3JvdW5kIHRydXRocy4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAtLS0tLS0tLQogICAgICAgIGZsb2F0CiAgICAgICAgICAgIFRoZSBjbGFzc2lmaWNhdGlvbiBhY2N1cmFjeS4KICAgICAgICAiIiIKICAgICAgICB0cnk6CiAgICAgICAgICAgIHByZWRzID0gW3N0cihwcmVkKS5sb3dlcigpIGZvciBwcmVkIGluIHByZWRzXQogICAgICAgICAgICBndHMgPSBbc3RyKGd0KS5sb3dlcigpIGZvciBndCBpbiBndHNdCiAgICAgICAgZXhjZXB0IEF0dHJpYnV0ZUVycm9yOgogICAgICAgICAgICBwcmludCgiU29tZXRoaW5nIGluIGVpdGhlciBwcmVkcyBvciBndHMgY2FuIG5vdCBiZSBjb252ZXJ0IHRvIGEgc3RyaW5nLiIpCiAgICAgICAgICAgIAogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHByZWRzLCBsaXN0KToKICAgICAgICAgICAgcHJlZHMgPSBbcHJlZHNdCiAgICAgICAgICAgIGd0cyA9IFtndHNdCgogICAgICAgIHJldHVybiBzdW0oYSA9PSBiIGZvciBhLCBiIGluIHppcChwcmVkcywgZ3RzKSkgLyBsZW4ocHJlZHMpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGNvbXB1dGVfc3F1YWRfdjJfZjEocHJlZHMsIGd0cywgZGF0YXNldCk6CiAgICAgICAgIiIiCiAgICAgICAgQ29tcHV0ZXMgdGhlIEYxIHNjb3JlIGZvciB0aGUgU1F1QUQgVjIgZGF0YXNldC4KCiAgICAgICAgUGFyYW1ldGVyczoKICAgICAgICAtLS0tLS0tLS0tLQogICAgICAgIHByZWRzIDogbGlzdAogICAgICAgICAgICBBIGxpc3Qgb2YgcHJlZGljdGlvbnMuCiAgICAgICAgZ3RzIDogbGlzdAogICAgICAgICAgICBBIGxpc3Qgb2YgZ3JvdW5kIHRydXRoIElEcy4KICAgICAgICBkYXRhc2V0IDogbGlzdAogICAgICAgICAgICBUaGUgZGF0YXNldCBjb250YWluaW5nIHRoZSBTUXVBRCBWMiBkYXRhLgoKICAgICAgICBSZXR1cm5zOgogICAgICAgIC0tLS0tLS0tCiAgICAgICAgZmxvYXQKICAgICAgICAgICAgVGhlIEYxIHNjb3JlIGZvciB0aGUgU1F1QUQgVjIgZGF0YXNldC4KICAgICAgICAiIiIKICAgICAgICBmcm9tIC5zcXVhZF92Mi5zcXVhZF92MiBpbXBvcnQgU3F1YWRWMgogICAgICAgIG1ldHJpYyA9IFNxdWFkVjIoKQoKICAgICAgICBtb2RlbF9vdXRwdXQgPSBbXQogICAgICAgIGZvciBpZCwgcHJlZCBpbiB6aXAoZ3RzLCBwcmVkcyk6CiAgICAgICAgICAgIG5vX2Fuc19wcm9iID0gMSBpZiBwcmVkID09ICJ1bmFuc3dlcmFibGUiIGVsc2UgMAogICAgICAgICAgICBwcmVkID0gIiIgaWYgcHJlZCA9PSAidW5hbnN3ZXJhYmxlIiBlbHNlIHByZWQKICAgICAgICAgICAgbW9kZWxfb3V0cHV0LmFwcGVuZCh7ImlkIjogaWQsICJwcmVkaWN0aW9uX3RleHQiOiBwcmVkLCAibm9fYW5zd2VyX3Byb2JhYmlsaXR5Ijogbm9fYW5zX3Byb2J9KQoKICAgICAgICByZWZlcmVuY2VzID0gW3siYW5zd2VycyI6IGRhdGFbImFuc3dlcnMiXSwgImlkIjogZGF0YVsiaWQiXX0gZm9yIGRhdGEgaW4gZGF0YXNldF0KCiAgICAgICAgc2NvcmUgPSBtZXRyaWMuY29tcHV0ZShwcmVkaWN0aW9ucz1tb2RlbF9vdXRwdXQsIHJlZmVyZW5jZXM9cmVmZXJlbmNlcykKCiAgICAgICAgcmV0dXJuIHNjb3JlWyJmMSJdCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGNvbXB1dGVfYmxldShwcmVkcywgZ3RzKToKICAgICAgICAiIiIKICAgICAgICBDb21wdXRlcyB0aGUgQkxFVSBzY29yZSBmb3IgdHJhbnNsYXRpb24gdGFza3MuCgogICAgICAgIFBhcmFtZXRlcnM6CiAgICAgICAgLS0tLS0tLS0tLS0KICAgICAgICBwcmVkcyA6IGxpc3QKICAgICAgICAgICAgQSBsaXN0IG9mIHByZWRpY3Rpb25zLgogICAgICAgIGd0cyA6IGxpc3QKICAgICAgICAgICAgQSBsaXN0IG9mIGdyb3VuZCB0cnV0aCB0cmFuc2xhdGlvbnMuCgogICAgICAgIFJldHVybnM6CiAgICAgICAgLS0tLS0tLS0KICAgICAgICBmbG9hdAogICAgICAgICAgICBUaGUgQkxFVSBzY29yZS4KICAgICAgICAiIiIKICAgICAgICBmcm9tIC5ibGV1LmJsZXUgaW1wb3J0IEJsZXUKICAgICAgICBtZXRyaWMgPSBCbGV1KCkKICAgICAgICByZXN1bHRzID0gbWV0cmljLmNvbXB1dGUocHJlZGljdGlvbnM9cHJlZHMsIHJlZmVyZW5jZXM9Z3RzKQogICAgICAgIHJldHVybiByZXN1bHRzWydibGV1J10KCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgY29tcHV0ZV9tYXRoX2FjY3VyYWN5KHByZWRzLCBndHMpOgogICAgICAgICIiIgogICAgICAgIENvbXB1dGVzIGFjY3VyYWN5IGZvciB0aGUgJ21hdGgnIGRhdGFzZXQuCgogICAgICAgIFBhcmFtZXRlcnM6CiAgICAgICAgLS0tLS0tLS0tLS0KICAgICAgICBkYXRhc2V0IDogbGlzdAogICAgICAgICAgICBUaGUgZGF0YXNldCBjb250YWluaW5nIG1hdGggZGF0YS4KICAgICAgICBwcmVkcyA6IGxpc3QKICAgICAgICAgICAgQSBsaXN0IG9mIHByZWRpY3Rpb25zLgogICAgICAgIGd0cyA6IGxpc3QKICAgICAgICAgICAgQSBsaXN0IG9mIGdyb3VuZCB0cnV0aHMuCgogICAgICAgIFJldHVybnM6CiAgICAgICAgLS0tLS0tLS0KICAgICAgICBmbG9hdAogICAgICAgICAgICBUaGUgbWF0aCBhY2N1cmFjeS4KICAgICAgICAiIiIKICAgICAgICBwcm9jZXNzZWRfcHJlZHMgPSBbXQogICAgICAgIHByb2Nlc3NlZF9ndHMgPSBbXQogICAgICAgIAogICAgICAgIGZvciBwcmVkLCBndCBpbiB6aXAocHJlZHMsIGd0cyk6CiAgICAgICAgICAgIHByZWQgPSAiVHJ1ZSIgaWYgcHJlZC5sb3dlcigpID09ICJ5ZXMiIGVsc2UgKCJGYWxzZSIgaWYgcHJlZC5sb3dlcigpID09ICJubyIgZWxzZSBwcmVkKQogICAgICAgICAgICBndCA9IHN0cihndCkubG93ZXIoKQogICAgICAgICAgICBwcm9jZXNzZWRfcHJlZHMuYXBwZW5kKHByZWQubG93ZXIoKSkKICAgICAgICAgICAgcHJvY2Vzc2VkX2d0cy5hcHBlbmQoZ3QpCgogICAgICAgIHJldHVybiBzdW0oYSA9PSBiIGZvciBhLCBiIGluIHppcChwcm9jZXNzZWRfcHJlZHMsIHByb2Nlc3NlZF9ndHMpKSAvIGxlbihwcm9jZXNzZWRfZ3RzKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBjb21wdXRlX3ZxYV9hY2N1cmFjeShwcmVkcywgZ3RzKToKICAgICAgICAiIiIKICAgICAgICBDb21wdXRlcyB2cWEgYWNjdXJhY3kgZm9yIHRoZSBWUUF2MiBkYXRhc2V0LgoKICAgICAgICBQYXJhbWV0ZXJzOgogICAgICAgIC0tLS0tLS0tLS0tCiAgICAgICAgcHJlZHMgOiBsaXN0CiAgICAgICAgICAgIEEgbGlzdCBvZiBwcmVkaWN0aW9ucy4KICAgICAgICBndHMgOiBsaXN0CiAgICAgICAgICAgIEEgbGlzdCBvZiBhbnN3ZXJzLgoKICAgICAgICBSZXR1cm5zOgogICAgICAgIC0tLS0tLS0tCiAgICAgICAgZmxvYXQKICAgICAgICAgICAgVGhlIHZxYSBhY2N1cmFjeS4KICAgICAgICAiIiIKICAgICAgICBmcm9tIC52cWEuZXZhbF92cWEgaW1wb3J0IFZRQUV2YWwKICAgICAgICBtZXRyaWMgPSBWUUFFdmFsKG49MykKICAgICAgICBkaWN0X2d0cyA9IHtpOiB7ImFuc3dlcnMiOiB2YWx9IGZvciBpLCB2YWwgaW4gZW51bWVyYXRlKGd0cyl9CiAgICAgICAgZGljdF9wcmVkcyA9IHtpOiB7ImFuc3dlciI6IHZhbH0gZm9yIGksIHZhbCBpbiBlbnVtZXJhdGUocHJlZHMpfQogICAgICAgIHNjb3JlID0gbWV0cmljLmV2YWx1YXRlKGRpY3RfZ3RzLCBkaWN0X3ByZWRzLCBsaXN0KHJhbmdlKGxlbihwcmVkcykpKSkKICAgICAgICByZXR1cm4gc2NvcmUKICAgIAogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGNvbXB1dGVfY2lkZXIocHJlZHMsIGd0cyk6CiAgICAgICAgIiIiCiAgICAgICAgQ29tcHV0ZXMgdGhlIENJREVyIHNjb3JlIGZvciBpbWFnZSBjYXB0aW9uaW5nIHRhc2tzLgoKICAgICAgICBQYXJhbWV0ZXJzOgogICAgICAgIC0tLS0tLS0tLS0tCiAgICAgICAgcHJlZHMgOiBsaXN0CiAgICAgICAgICAgIEEgbGlzdCBvZiBwcmVkaWN0aW9ucy4KICAgICAgICBndHMgOiBsaXN0CiAgICAgICAgICAgIEEgbGlzdCBvZiBncm91bmQgdHJ1dGggY2FwdGlvbnMuCgogICAgICAgIFJldHVybnM6CiAgICAgICAgLS0tLS0tLS0KICAgICAgICBmbG9hdAogICAgICAgICAgICBUaGUgQ0lERXIgc2NvcmUuCiAgICAgICAgIiIiCiAgICAgICAgZnJvbSAuY2lkZXIuY2lkZXIgaW1wb3J0IENpZGVyCiAgICAgICAgbWV0cmljID0gQ2lkZXIoKQogICAgICAgIGRpY3RfZ3RzID0ge2k6IHZhbCBmb3IgaSwgdmFsIGluIGVudW1lcmF0ZShndHMpfQogICAgICAgIGRpY3RfcHJlZHMgPSB7aTogW3ZhbF0gZm9yIGksIHZhbCBpbiBlbnVtZXJhdGUocHJlZHMpfQogICAgICAgIHNjb3JlLCBfID0gbWV0cmljLmNvbXB1dGVfc2NvcmUoZ3RzPWRpY3RfZ3RzLCByZXM9ZGljdF9wcmVkcykKICAgICAgICByZXR1cm4gc2NvcmU=
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
+class Eval:
+    """
+    A utility class for computing various evaluation metrics.
+
+    This class provides static methods to compute metrics such as classification accuracy, SQuAD V2 F1 score, BLEU score, and math accuracy.
+
+    Methods:
+    --------
+    compute_cls_accuracy(preds, gts)
+        Computes classification accuracy.
+    compute_squad_v2_f1(preds, gts, dataset)
+        Computes the F1 score for the SQuAD V2 dataset.
+    compute_bleu(preds, gts)
+        Computes the BLEU score for translation tasks.
+    compute_math_accuracy(dataset, preds, gts)
+        Computes accuracy for math dataset.
+    """
+    
+    @staticmethod
+    def compute_cls_accuracy(preds, gts):
+        """
+        Computes classification accuracy based on predictions and ground truths.
+
+        Parameters:
+        -----------
+        preds : list
+            A list of predictions.
+        gts : list
+            A list of ground truths.
+
+        Returns:
+        --------
+        float
+            The classification accuracy.
+        """
+        try:
+            preds = [str(pred).lower() for pred in preds]
+            gts = [str(gt).lower() for gt in gts]
+        except AttributeError:
+            print("Something in either preds or gts can not be convert to a string.")
+            
+        if not isinstance(preds, list):
+            preds = [preds]
+            gts = [gts]
+
+        return sum(a == b for a, b in zip(preds, gts)) / len(preds)
+
+    @staticmethod
+    def compute_squad_v2_f1(preds, gts, dataset):
+        """
+        Computes the F1 score for the SQuAD V2 dataset.
+
+        Parameters:
+        -----------
+        preds : list
+            A list of predictions.
+        gts : list
+            A list of ground truth IDs.
+        dataset : list
+            The dataset containing the SQuAD V2 data.
+
+        Returns:
+        --------
+        float
+            The F1 score for the SQuAD V2 dataset.
+        """
+        from .squad_v2.squad_v2 import SquadV2
+        metric = SquadV2()
+
+        model_output = []
+        for id, pred in zip(gts, preds):
+            no_ans_prob = 1 if pred == "unanswerable" else 0
+            pred = "" if pred == "unanswerable" else pred
+            model_output.append({"id": id, "prediction_text": pred, "no_answer_probability": no_ans_prob})
+
+        references = [{"answers": data["answers"], "id": data["id"]} for data in dataset]
+
+        score = metric.compute(predictions=model_output, references=references)
+
+        return score["f1"]
+
+    @staticmethod
+    def compute_bleu(preds, gts):
+        """
+        Computes the BLEU score for translation tasks.
+
+        Parameters:
+        -----------
+        preds : list
+            A list of predictions.
+        gts : list
+            A list of ground truth translations.
+
+        Returns:
+        --------
+        float
+            The BLEU score.
+        """
+        from .bleu.bleu import Bleu
+        metric = Bleu()
+        results = metric.compute(predictions=preds, references=gts)
+        return results['bleu']
+
+    @staticmethod
+    def compute_math_accuracy(preds, gts):
+        """
+        Computes accuracy for the 'math' dataset.
+
+        Parameters:
+        -----------
+        dataset : list
+            The dataset containing math data.
+        preds : list
+            A list of predictions.
+        gts : list
+            A list of ground truths.
+
+        Returns:
+        --------
+        float
+            The math accuracy.
+        """
+        processed_preds = []
+        processed_gts = []
+        
+        for pred, gt in zip(preds, gts):
+            pred = "True" if pred.lower() == "yes" else ("False" if pred.lower() == "no" else pred)
+            gt = str(gt).lower()
+            processed_preds.append(pred.lower())
+            processed_gts.append(gt)
+
+        return sum(a == b for a, b in zip(processed_preds, processed_gts)) / len(processed_gts)
+
+    @staticmethod
+    def compute_vqa_accuracy(preds, gts):
+        """
+        Computes vqa accuracy for the VQAv2 dataset.
+
+        Parameters:
+        -----------
+        preds : list
+            A list of predictions.
+        gts : list
+            A list of answers.
+
+        Returns:
+        --------
+        float
+            The vqa accuracy.
+        """
+        from .vqa.eval_vqa import VQAEval
+        metric = VQAEval(n=3)
+        dict_gts = {i: {"answers": val} for i, val in enumerate(gts)}
+        dict_preds = {i: {"answer": val} for i, val in enumerate(preds)}
+        score = metric.evaluate(dict_gts, dict_preds, list(range(len(preds))))
+        return score
+    
+    @staticmethod
+    def compute_cider(preds, gts):
+        """
+        Computes the CIDEr score for image captioning tasks.
+
+        Parameters:
+        -----------
+        preds : list
+            A list of predictions.
+        gts : list
+            A list of ground truth captions.
+
+        Returns:
+        --------
+        float
+            The CIDEr score.
+        """
+        from .cider.cider import Cider
+        metric = Cider()
+        dict_gts = {i: val for i, val in enumerate(gts)}
+        dict_preds = {i: [val] for i, val in enumerate(preds)}
+        score, _ = metric.compute_score(gts=dict_gts, res=dict_preds)
+        return score

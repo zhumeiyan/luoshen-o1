@@ -1,1 +1,33 @@
-IyAxNDQg6aKE5rOo5YaM77ya5pe26Ze06IO95ZCm6KKrIueBjOaVsOaNriLmm7/ku6MKCiMjIOi1t+eCuQojNjUxOiBsaXZlZCAwLjYwNDcgdnMgZmVkIDAuNjIyNSwgQ0kg6LeoIDAg4oCU4oCUIOeBjOi+k+WOhuWPsuS4jeavlOecn+i3keW3ruOAggoKIyMgdjEg6K6+6K6h6ZSZ6K+vKOW3suS9nOW6nywg6K6w5b2V5Lul6Ziy6YeN54qvKQp2MSDorqkgZmVkIOeUqOS4jiBsaXZlZCDlrozlhajnm7jlkIznmoTmoLfmnKzluo/liJflgZrnm7jlkIznmoQgU0dEIOabtOaWsAogLT4g57uT5p6c6YCQ5L2N55u45ZCMICgwLjUzMjcgPT0gMC41MzI3KSwgZGVsdGEg57K+56GuIDAuMDAwMOOAggrov5nkuI3mmK8i5LqL5ZCO54GM5YWlIiwg5piv6YeN5pS+5ZCM5LiA5Liq6L+H56iL44CC5pWw5a2m5LiK562J5Lu3LCDlrp7pqozml6DmhI/kuYnjgIIKKDE0MyDph4wgY2xvbmUg5LiO55yf6Lqr5YWx55So5YiG5pSvIC0+IOmAkOS9jeebuOWQjCwg5ZCM55eF56ys5LqM5qyh5aSN5Y+RKQoKIyMgdjIg5Li75bygKOWFiOWGmeatuywg6LeR5a6M5Y+q5YGa5a+56LSoKQrml7bpl7TnmoTkuI3lj6/mm7/ku6PmgKcgPSAqKuS4jeiDveaKiuWPkeeUn+WcqOS4jeWQjOaXtuWIu+eahOS6i+S7tuW9k+aIkOWQjOaXtuWPkeeUn+eahOS6i+S7tuadpeWkhOeQhioq44CCCi0gbGl2ZWQ6IOS6i+S7tuaMieWPkeeUn+mhuuW6j+OAgeWcqOWPkeeUn+aXtuWIu+iiq+WkhOeQhiAtPiDkv53nlZnml7bpl7Tnu5PmnoQKLSBmZWQ6ICAg5oqK5pW05q615Y6G5Y+y5Y6L5bmz5oiQ5LiA5om55ZCM5pe25a2Y5Zyo55qE5pWw5o2uIC0+IOaXtumXtOe7k+aehOiiq+aKueaOiQrlnKjkuJbnlYzmvILnp7vml7YsIOWOi+W5s+S8muWtpuWIsCLlubPlnYci6ICM6Z2eIuW9k+WJjSLjgIIKCiMjIOWbm+S4quiHgijlkIzmlbDmja7ph48gVCwg5YWs5bmz5oCn55Sx5qC35pys5pWw5LiA6Ie05L+d6K+BKQoxLiBsaXZlZCAgICAgICAg5Zyo57q/IFNHRCwg6L655rS76L655a2mCjIuIGZlZF9iYXRjaCAgICDlhajpg6ggVCDkuKrmoLfmnKzlgZrmibnmnIDlsI/kuozkuZggICA8LSDov5nmiY3mmK/nnJ/mraPnmoQi54GM5pWw5o2uIgozLiBmZWRfcmVjZW50ICAg5pyA6L+RIFc9NTAg5Liq5qC35pys5om55pyA5bCP5LqM5LmYICA8LSDngYzmlbDmja4gKyDpgInmi6nmgKfpgZflv5gKNC4gZmVkX3NodWZmbGUgIOaJk+S5semhuuW6j+eahCBTR0QgICAgICAgICAgICAgPC0g5o6n5Yi2IumhuuW6jyJ2cyLmibnph48iCgojIyDkuInkuKrkuJbnlYwo5ZSv5LiA6Ieq5Y+Y6YePKQotIHN0YXRpb25hcnk6IEFfdCDmgZLlrpoKLSBkcmlmdDogICAgICBBX3Qg5Y2V6LCD5ryC56e7Ci0gY3ljbGljOiAgICAgQV90IOWRqOacn+WPmOWMlijmjqLntKLpobkpCgojIyDpl7jpl6go5b+F6aG76IO95ZCM5pe25Lqn55Sf55yf5ZKM5YGHKQotIEcxIOS4u+aViOW6lDogZHJpZnQg5LiW55WMIGZlZF9iYXRjaCAtIGxpdmVkID4gMCwgQ0kg5LiN6LeoIDAKLSBHMiDpmLTmgKflr7nnhac6IHN0YXRpb25hcnkg5LiW55WMIOivpeW3ruWAvCBDSSDot6ggMAogICAo6IulIHN0YXRpb25hcnkg5Lmf5pi+6JGXLCDliJnmlYjlupTkuI3mnaXoh6rkuJbnlYzmvILnp7ssIOS4u+W8oOS9nOW6nykKLSBHMyDmjqLntKI6IGZlZF9yZWNlbnQg6IO95ZCm6L+95bmzIGxpdmVkCg==
+# 144 预注册：时间能否被"灌数据"替代
+
+## 起点
+#651: lived 0.6047 vs fed 0.6225, CI 跨 0 —— 灌输历史不比真跑差。
+
+## v1 设计错误(已作废, 记录以防重犯)
+v1 让 fed 用与 lived 完全相同的样本序列做相同的 SGD 更新
+ -> 结果逐位相同 (0.5327 == 0.5327), delta 精确 0.0000。
+这不是"事后灌入", 是重放同一个过程。数学上等价, 实验无意义。
+(143 里 clone 与真身共用分支 -> 逐位相同, 同病第二次复发)
+
+## v2 主张(先写死, 跑完只做对质)
+时间的不可替代性 = **不能把发生在不同时刻的事件当成同时发生的事件来处理**。
+- lived: 事件按发生顺序、在发生时刻被处理 -> 保留时间结构
+- fed:   把整段历史压平成一批同时存在的数据 -> 时间结构被抹掉
+在世界漂移时, 压平会学到"平均"而非"当前"。
+
+## 四个臂(同数据量 T, 公平性由样本数一致保证)
+1. lived        在线 SGD, 边活边学
+2. fed_batch    全部 T 个样本做批最小二乘   <- 这才是真正的"灌数据"
+3. fed_recent   最近 W=50 个样本批最小二乘  <- 灌数据 + 选择性遗忘
+4. fed_shuffle  打乱顺序的 SGD             <- 控制"顺序"vs"批量"
+
+## 三个世界(唯一自变量)
+- stationary: A_t 恒定
+- drift:      A_t 单调漂移
+- cyclic:     A_t 周期变化(探索项)
+
+## 闸门(必须能同时产生真和假)
+- G1 主效应: drift 世界 fed_batch - lived > 0, CI 不跨 0
+- G2 阴性对照: stationary 世界 该差值 CI 跨 0
+   (若 stationary 也显著, 则效应不来自世界漂移, 主张作废)
+- G3 探索: fed_recent 能否追平 lived

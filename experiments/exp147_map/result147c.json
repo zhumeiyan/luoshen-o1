@@ -1,1 +1,132 @@
-ewogInNlZWQiOiAyMDI2MTAxOCwKICJjYXAiOiA0MjgsCiAidGFyZ2V0X2tub3duIjogMTMwLAogIm5fdHJpYWwiOiA2MCwKICJ0X2xpbWl0IjogNjAwMCwKICJ0b2xtYW4iOiB7CiAgIlJFQUwiOiB7CiAgICJtYXAiOiAxMzguMDUsCiAgICJyb3V0ZSI6IDIxMi44MTcsCiAgICJnYWluIjogNzQuNzY3LAogICAiY2kiOiBbCiAgICA0OS4yNjY3LAogICAgMTAxLjgzMzMKICAgXQogIH0sCiAgIlNZTlRIIjogewogICAibWFwIjogNzEuMjUsCiAgICJyb3V0ZSI6IDk5MS4xNSwKICAgImdhaW4iOiA5MTkuOSwKICAgImNpIjogWwogICAgNzQ0LjE2NjcsCiAgICAxMDg5LjcKICAgXQogIH0sCiAgIkNIQUlOIjogewogICAibWFwIjogMzMxNC43MzMsCiAgICJyb3V0ZSI6IDUwNzIuOTUsCiAgICJnYWluIjogMTc1OC4yMTcsCiAgICJjaSI6IFsKICAgIDEyNDguNzY2NywKICAgIDIyOTguNTUKICAgXQogIH0KIH0sCiAiaW1wcm92ZV92c19yYW5kb20iOiB7CiAgIlJFQUwiOiB7CiAgICJpbXByb3ZlIjogMC44NTIsCiAgICJjaSI6IFsKICAgIDAuNzg4LAogICAgMC45MTExCiAgIF0KICB9LAogICJTWU5USCI6IHsKICAgImltcHJvdmUiOiAwLjc0MTcsCiAgICJjaSI6IFsKICAgIDAuNjQ0OSwKICAgIDAuODMzNgogICBdCiAgfSwKICAiQ0hBSU4iOiB7CiAgICJpbXByb3ZlIjogMC40MjU1LAogICAiY2kiOiBbCiAgICAwLjMxNjksCiAgICAwLjUzNjQKICAgXQogIH0KIH0sCiAiYnJlYWsiOiB7CiAgIlJFQUwiOiB7CiAgICJzaHVmIjogMzY5LjMsCiAgICJtYXAiOiAxMzguMDUsCiAgICJkZWx0YSI6IDIzMS4yNSwKICAgImNpIjogWwogICAgNDIuMywKICAgIDQ3NC4xMTY3CiAgIF0KICB9LAogICJTWU5USCI6IHsKICAgInNodWYiOiAxMzguMTUsCiAgICJtYXAiOiA3MS4yNSwKICAgImRlbHRhIjogNjYuOSwKICAgImNpIjogWwogICAgMTguMTY2NywKICAgIDExOC42NjY3CiAgIF0KICB9LAogICJDSEFJTiI6IHsKICAgInNodWYiOiAzNjAyLjExNywKICAgIm1hcCI6IDMzMTQuNzMzLAogICAiZGVsdGEiOiAyODcuMzgzLAogICAiY2kiOiBbCiAgICAtMzAuNjUsCiAgICA2ODUuMzgzMwogICBdCiAgfQogfSwKICJpbnRlcl9SRUFMX3ZzX0NIQUlOIjogewogICJnYWluX1JFQUwiOiA3NC43NjcsCiAgImdhaW5fQ0hBSU4iOiAxNzU4LjIxNywKICAiZGVsdGEiOiAtMTY4My40NSwKICAiY2kiOiBbCiAgIC0yMjI3LjQsCiAgIC0xMTcyLjEzMzMKICBdCiB9LAogInByZXRlc3QiOiB7CiAgIlJFQUwiOiB7CiAgICJob21lIjogIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xLy5naXQvb2JqZWN0cy82NSIsCiAgICJleHBsb3JlX3N0ZXBzIjogMzg2LAogICAiY292ZXJhZ2UiOiAwLjMwMzcsCiAgICJkZXB0aF9tZWFuIjogMi44MjksCiAgICJkZXB0aF9tYXgiOiA3LAogICAiZGVnX21heCI6IDI1OSwKICAgImdpbmlfZGVnIjogMC40ODcsCiAgICJhcGwiOiAzLjg0MSwKICAgInJlZHVuZGFuY3kiOiAxLjAKICB9LAogICJTWU5USCI6IHsKICAgImhvbWUiOiAibjQiLAogICAiZXhwbG9yZV9zdGVwcyI6IDE2NDQsCiAgICJjb3ZlcmFnZSI6IDAuMzAzNywKICAgImRlcHRoX21lYW4iOiA4LjA0NywKICAgImRlcHRoX21heCI6IDEwLAogICAiZGVnX21heCI6IDQsCiAgICJnaW5pX2RlZyI6IDAuMzA5NywKICAgImFwbCI6IDExLjUxNSwKICAgInJlZHVuZGFuY3kiOiAxLjAKICB9LAogICJDSEFJTiI6IHsKICAgImhvbWUiOiAiYzMiLAogICAiZXhwbG9yZV9zdGVwcyI6IDg1NzYsCiAgICJjb3ZlcmFnZSI6IDAuMzAzNywKICAgImRlcHRoX21lYW4iOiAxODcuMjQ4LAogICAiZGVwdGhfbWF4IjogMzc0LAogICAiZGVnX21heCI6IDMsCiAgICJnaW5pX2RlZyI6IDAuMTEwNSwKICAgImFwbCI6IDEyNC45ODMsCiAgICJyZWR1bmRhbmN5IjogMS4wCiAgfQogfQp9
+{
+ "seed": 20261018,
+ "cap": 428,
+ "target_known": 130,
+ "n_trial": 60,
+ "t_limit": 6000,
+ "tolman": {
+  "REAL": {
+   "map": 138.05,
+   "route": 212.817,
+   "gain": 74.767,
+   "ci": [
+    49.2667,
+    101.8333
+   ]
+  },
+  "SYNTH": {
+   "map": 71.25,
+   "route": 991.15,
+   "gain": 919.9,
+   "ci": [
+    744.1667,
+    1089.7
+   ]
+  },
+  "CHAIN": {
+   "map": 3314.733,
+   "route": 5072.95,
+   "gain": 1758.217,
+   "ci": [
+    1248.7667,
+    2298.55
+   ]
+  }
+ },
+ "improve_vs_random": {
+  "REAL": {
+   "improve": 0.852,
+   "ci": [
+    0.788,
+    0.9111
+   ]
+  },
+  "SYNTH": {
+   "improve": 0.7417,
+   "ci": [
+    0.6449,
+    0.8336
+   ]
+  },
+  "CHAIN": {
+   "improve": 0.4255,
+   "ci": [
+    0.3169,
+    0.5364
+   ]
+  }
+ },
+ "break": {
+  "REAL": {
+   "shuf": 369.3,
+   "map": 138.05,
+   "delta": 231.25,
+   "ci": [
+    42.3,
+    474.1167
+   ]
+  },
+  "SYNTH": {
+   "shuf": 138.15,
+   "map": 71.25,
+   "delta": 66.9,
+   "ci": [
+    18.1667,
+    118.6667
+   ]
+  },
+  "CHAIN": {
+   "shuf": 3602.117,
+   "map": 3314.733,
+   "delta": 287.383,
+   "ci": [
+    -30.65,
+    685.3833
+   ]
+  }
+ },
+ "inter_REAL_vs_CHAIN": {
+  "gain_REAL": 74.767,
+  "gain_CHAIN": 1758.217,
+  "delta": -1683.45,
+  "ci": [
+   -2227.4,
+   -1172.1333
+  ]
+ },
+ "pretest": {
+  "REAL": {
+   "home": "/data/workspace/luoshen-o1/.git/objects/65",
+   "explore_steps": 386,
+   "coverage": 0.3037,
+   "depth_mean": 2.829,
+   "depth_max": 7,
+   "deg_max": 259,
+   "gini_deg": 0.487,
+   "apl": 3.841,
+   "redundancy": 1.0
+  },
+  "SYNTH": {
+   "home": "n4",
+   "explore_steps": 1644,
+   "coverage": 0.3037,
+   "depth_mean": 8.047,
+   "depth_max": 10,
+   "deg_max": 4,
+   "gini_deg": 0.3097,
+   "apl": 11.515,
+   "redundancy": 1.0
+  },
+  "CHAIN": {
+   "home": "c3",
+   "explore_steps": 8576,
+   "coverage": 0.3037,
+   "depth_mean": 187.248,
+   "depth_max": 374,
+   "deg_max": 3,
+   "gini_deg": 0.1105,
+   "apl": 124.983,
+   "redundancy": 1.0
+  }
+ }
+}

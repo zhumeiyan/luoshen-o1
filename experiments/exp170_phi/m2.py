@@ -1,1 +1,78 @@
-aW1wb3J0IGpzb24sIHRpbWUsIHJhbmRvbSwgbWF0aCwgYmlzZWN0Ck49MjAwCldPUks9MjAwMDAKZGVmIHdvcmtsb2FkKG4pOgogICAgcz0wLjAKICAgIGZvciBpIGluIHJhbmdlKG4pOiBzKz0oaSoxLjAwMDAwMSklNy4wCiAgICByZXR1cm4gcwpkZWYgbWVhcyhzbHApOgogICAgdDA9dGltZS5wZXJmX2NvdW50ZXIoKQogICAgaWYgc2xwPjA6IHRpbWUuc2xlZXAoc2xwKQogICAgd29ya2xvYWQoV09SSykKICAgIHJldHVybiAodGltZS5wZXJmX2NvdW50ZXIoKS10MCkqMWU5CkRFTFRBUz1bMC4wMDAyLDAuMDAwNSwwLjAwMSwwLjAwMiwwLjAwNCwwLjAwOF0KZGVmIGNvbmQoZGVsdGEsc2VlZCk6CiAgICBybmQ9cmFuZG9tLlJhbmRvbShzZWVkKQogICAgQT1bXTtCPVtdCiAgICBvcmRlcj1bMF0qTitbMV0qTgogICAgcm5kLnNodWZmbGUob3JkZXIpCiAgICBmb3IgbGFiIGluIG9yZGVyOgogICAgICAgIHY9bWVhcygwLjAgaWYgbGFiPT0wIGVsc2UgZGVsdGEpCiAgICAgICAgKEEgaWYgbGFiPT0wIGVsc2UgQikuYXBwZW5kKHYpCiAgICByZXR1cm4gQSxCCmRlZiBhY2NfYXQoQSxCLG5iKToKICAgICIiImhlbGQtb3V0IGFjYyB1c2luZyBlcXVhbC13aWR0aCBiaW5zIG92ZXIgcG9vbGVkIHJhbmdlLCBuYiBiaW5zIiIiCiAgICBhbGx2PUErQgogICAgbG89bWluKGFsbHYpO2hpPW1heChhbGx2KQogICAgaWYgaGk8PWxvOiByZXR1cm4gMC41CiAgICB3PShoaS1sbykvbmIKICAgIGY9bGFtYmRhIHY6IG1pbihuYi0xLGludCgodi1sbykvdykpCiAgICB0b3Q9MC4wCiAgICBmb3IgciBpbiByYW5nZSg0KToKICAgICAgICBybmQ9cmFuZG9tLlJhbmRvbSgxMDArcikKICAgICAgICBBQT1BWzpdO0JCPUJbOl0KICAgICAgICBybmQuc2h1ZmZsZShBQSk7cm5kLnNodWZmbGUoQkIpCiAgICAgICAgaD1sZW4oQUEpLy8yCiAgICAgICAgdHI9WyhmKHYpLDApIGZvciB2IGluIEFBWzpoXV0rWyhmKHYpLDEpIGZvciB2IGluIEJCWzpoXV0KICAgICAgICB0ZT1bKGYodiksMCkgZm9yIHYgaW4gQUFbaDpdXStbKGYodiksMSkgZm9yIHYgaW4gQkJbaDpdXQogICAgICAgIGNudD17MDp7fSwxOnt9fQogICAgICAgIGZvciBiayxjIGluIHRyOiBjbnRbY11bYmtdPWNudFtjXS5nZXQoYmssMCkrMQogICAgICAgIG4wPXN1bShjbnRbMF0udmFsdWVzKCkpO24xPXN1bShjbnRbMV0udmFsdWVzKCkpCiAgICAgICAgVj1zZXQobGlzdChjbnRbMF0pK2xpc3QoY250WzFdKSkKICAgICAgICBvaz0wCiAgICAgICAgZm9yIGJrLGMgaW4gdGU6CiAgICAgICAgICAgIHAwPShjbnRbMF0uZ2V0KGJrLDApKzAuNSkvKG4wKzAuNSpsZW4oVikpCiAgICAgICAgICAgIHAxPShjbnRbMV0uZ2V0KGJrLDApKzAuNSkvKG4xKzAuNSpsZW4oVikpCiAgICAgICAgICAgIGlmICgwIGlmIHAwPnAxIGVsc2UgMSk9PWM6IG9rKz0xCiAgICAgICAgdG90Kz1vay9sZW4odGUpCiAgICByZXR1cm4gdG90LzQKZGVmIGRwcmltZShhLGIpOgogICAgbWE9c3VtKGEpL2xlbihhKTttYj1zdW0oYikvbGVuKGIpCiAgICB2YT1zdW0oKHgtbWEpKioyIGZvciB4IGluIGEpLyhsZW4oYSktMSk7dmI9c3VtKCh4LW1iKSoqMiBmb3IgeCBpbiBiKS8obGVuKGIpLTEpCiAgICBzPW1hdGguc3FydCgodmErdmIpLzIpCiAgICByZXR1cm4gYWJzKG1hLW1iKS9zIGlmIHM+MCBlbHNlIDAuMApvdXQ9eydkZWx0YXMnOkRFTFRBUywncmVzJzpbXX0KQlM9WzIsMyw0LDYsOCwxMiwxNiwyNCwzMiw0OF0KZm9yIGQgaW4gREVMVEFTOgogICAgQSxCPWNvbmQoZCxzZWVkPWludChkKjFlNiklOTk5OSkKICAgIHN2PXNvcnRlZChBK0IpCiAgICBwMT1zdltpbnQoLjAxKmxlbihzdikpXTtwOTk9c3ZbaW50KC45OSpsZW4oc3YpKV0KICAgIHNhPShzdW0oKHYtc3VtKEEpL2xlbihBKSkqKjIgZm9yIHYgaW4gQSkvKGxlbihBKS0xKSkqKi41CiAgICBzYj0oc3VtKCh2LXN1bShCKS9sZW4oQikpKioyIGZvciB2IGluIEIpLyhsZW4oQiktMSkpKiouNQogICAgc2lnPW1hdGguc3FydCgoc2Eqc2Erc2Iqc2IpLzIpCiAgICBSPShwOTktcDEpL3NpZyBpZiBzaWc+MCBlbHNlIDAKICAgIGFjY3M9W2FjY19hdChBLEIsbmIpIGZvciBuYiBpbiBCU10KICAgICMgQiogPSBzbWFsbGVzdCBuYiByZWFjaGluZyA5OCUgb2YgbWF4IGFjYwogICAgbXg9bWF4KGFjY3MpCiAgICB0aHI9MC41KyhteC0wLjUpKjAuOTgKICAgIGJzdGFyPU5vbmUKICAgIGZvciBuYixhIGluIHppcChCUyxhY2NzKToKICAgICAgICBpZiBhPj10aHI6IGJzdGFyPW5iO2JyZWFrCiAgICBpZiBic3RhciBpcyBOb25lOiBic3Rhcj1CU1stMV0KICAgIGNzdGFyPVIqKigxLjAvYnN0YXIpIGlmIFI+MSBhbmQgYnN0YXI+MCBlbHNlIE5vbmUKICAgIG91dFsncmVzJ10uYXBwZW5kKHsnZGVsdGEnOmQsJ2RwcmltZSc6ZHByaW1lKEEsQiksJ1InOlIsJ3NpZ21hJzpzaWcsCiAgICAgICAgICAgICAgICAgICAgICAgJ2FjY3MnOmRpY3QoemlwKEJTLGFjY3MpKSwnQnN0YXInOmJzdGFyLCdjc3Rhcic6Y3N0YXIsCiAgICAgICAgICAgICAgICAgICAgICAgJ3BoaSc6KDErbWF0aC5zcXJ0KDUpKS8yfSkKICAgIHByaW50KGQsJ2Q9JS4yZiclZHByaW1lKEEsQiksJ1I9JS4xZiclUiwnQio9JXMnJWJzdGFyLCdjKj0lcyclKHJvdW5kKGNzdGFyLDMpIGlmIGNzdGFyIGVsc2UgTm9uZSksZmx1c2g9VHJ1ZSkKanNvbi5kdW1wKG91dCxvcGVuKCdtMi5qc29uJywndycpLGluZGVudD0xKQpwcmludCgnRE9ORScpCg==
+import json, time, random, math, bisect
+N=200
+WORK=20000
+def workload(n):
+    s=0.0
+    for i in range(n): s+=(i*1.000001)%7.0
+    return s
+def meas(slp):
+    t0=time.perf_counter()
+    if slp>0: time.sleep(slp)
+    workload(WORK)
+    return (time.perf_counter()-t0)*1e9
+DELTAS=[0.0002,0.0005,0.001,0.002,0.004,0.008]
+def cond(delta,seed):
+    rnd=random.Random(seed)
+    A=[];B=[]
+    order=[0]*N+[1]*N
+    rnd.shuffle(order)
+    for lab in order:
+        v=meas(0.0 if lab==0 else delta)
+        (A if lab==0 else B).append(v)
+    return A,B
+def acc_at(A,B,nb):
+    """held-out acc using equal-width bins over pooled range, nb bins"""
+    allv=A+B
+    lo=min(allv);hi=max(allv)
+    if hi<=lo: return 0.5
+    w=(hi-lo)/nb
+    f=lambda v: min(nb-1,int((v-lo)/w))
+    tot=0.0
+    for r in range(4):
+        rnd=random.Random(100+r)
+        AA=A[:];BB=B[:]
+        rnd.shuffle(AA);rnd.shuffle(BB)
+        h=len(AA)//2
+        tr=[(f(v),0) for v in AA[:h]]+[(f(v),1) for v in BB[:h]]
+        te=[(f(v),0) for v in AA[h:]]+[(f(v),1) for v in BB[h:]]
+        cnt={0:{},1:{}}
+        for bk,c in tr: cnt[c][bk]=cnt[c].get(bk,0)+1
+        n0=sum(cnt[0].values());n1=sum(cnt[1].values())
+        V=set(list(cnt[0])+list(cnt[1]))
+        ok=0
+        for bk,c in te:
+            p0=(cnt[0].get(bk,0)+0.5)/(n0+0.5*len(V))
+            p1=(cnt[1].get(bk,0)+0.5)/(n1+0.5*len(V))
+            if (0 if p0>p1 else 1)==c: ok+=1
+        tot+=ok/len(te)
+    return tot/4
+def dprime(a,b):
+    ma=sum(a)/len(a);mb=sum(b)/len(b)
+    va=sum((x-ma)**2 for x in a)/(len(a)-1);vb=sum((x-mb)**2 for x in b)/(len(b)-1)
+    s=math.sqrt((va+vb)/2)
+    return abs(ma-mb)/s if s>0 else 0.0
+out={'deltas':DELTAS,'res':[]}
+BS=[2,3,4,6,8,12,16,24,32,48]
+for d in DELTAS:
+    A,B=cond(d,seed=int(d*1e6)%9999)
+    sv=sorted(A+B)
+    p1=sv[int(.01*len(sv))];p99=sv[int(.99*len(sv))]
+    sa=(sum((v-sum(A)/len(A))**2 for v in A)/(len(A)-1))**.5
+    sb=(sum((v-sum(B)/len(B))**2 for v in B)/(len(B)-1))**.5
+    sig=math.sqrt((sa*sa+sb*sb)/2)
+    R=(p99-p1)/sig if sig>0 else 0
+    accs=[acc_at(A,B,nb) for nb in BS]
+    # B* = smallest nb reaching 98% of max acc
+    mx=max(accs)
+    thr=0.5+(mx-0.5)*0.98
+    bstar=None
+    for nb,a in zip(BS,accs):
+        if a>=thr: bstar=nb;break
+    if bstar is None: bstar=BS[-1]
+    cstar=R**(1.0/bstar) if R>1 and bstar>0 else None
+    out['res'].append({'delta':d,'dprime':dprime(A,B),'R':R,'sigma':sig,
+                       'accs':dict(zip(BS,accs)),'Bstar':bstar,'cstar':cstar,
+                       'phi':(1+math.sqrt(5))/2})
+    print(d,'d=%.2f'%dprime(A,B),'R=%.1f'%R,'B*=%s'%bstar,'c*=%s'%(round(cstar,3) if cstar else None),flush=True)
+json.dump(out,open('m2.json','w'),indent=1)
+print('DONE')

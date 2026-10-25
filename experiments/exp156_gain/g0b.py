@@ -1,1 +1,37 @@
-aW1wb3J0IHRpbWUsb3Msc3RhdGlzdGljcyBhcyBzdCxqc29uLHNvY2tldCx0aHJlYWRpbmcKZGVmIG1lZCh4cyk6IHJldHVybiBzdC5tZWRpYW4oeHMpCmRlZiBwcm9iZShmLG49MjUpOgogICAgdHM9W10KICAgIGZvciBfIGluIHJhbmdlKG4pOgogICAgICAgIHQwPXRpbWUucGVyZl9jb3VudGVyX25zKCkKICAgICAgICB3aXRoIG9wZW4oZiwncmInKSBhcyBmaDogZmgucmVhZCgpCiAgICAgICAgdHMuYXBwZW5kKHRpbWUucGVyZl9jb3VudGVyX25zKCktdDApCiAgICByZXR1cm4gdHMKb3MubWFrZWRpcnMoJ3RtcCcsZXhpc3Rfb2s9VHJ1ZSkKIyDpgKDkuI3lkIzlpKflsI/nmoTnnJ/lrp7mlofku7YKZmlsZXM9e30KZm9yIG5hbWUsc3ogaW4gWygnczEnLDQwOTYpLCgnczInLDY1NTM2KSwoJ3MzJywxMDQ4NTc2KSwoJ3M0Jyw4Mzg4NjA4KV06CiAgICBwPSd0bXAvJXMuYmluJyVuYW1lCiAgICB3aXRoIG9wZW4ocCwnd2InKSBhcyBmOiBmLndyaXRlKG9zLnVyYW5kb20obWluKHN6LDEwNDg1NzYpKSooc3ovLzEwNDg1NzYgb3IgMSkpCiAgICBmaWxlc1tuYW1lXT1wCnJlcz17fQpmb3IgbmFtZSxwIGluIGZpbGVzLml0ZW1zKCk6CiAgICAjIOWGt+ivuzog5q+P5qyh5YWIIGRyb3A/IOaXoOadg+mZkC4g55So5Y+N5aSN54Ot6K+7IHZzIOmmluasoeivuwogICAgaG90PXByb2JlKHAsMjUpCiAgICByZXNbbmFtZV09eydob3RfbWVkJzptZWQoaG90KSwnaG90X2lxcic6c29ydGVkKGhvdClbMThdLXNvcnRlZChob3QpWzZdLCduJzpsZW4oaG90KX0KICAgIHByaW50KCclcyDng63or7sg5Lit5L2NPSUuMGZucyBJUVI9JS4wZm5zJyUobmFtZSxyZXNbbmFtZV1bJ2hvdF9tZWQnXSxyZXNbbmFtZV1bJ2hvdF9pcXInXSkpCiMg6aaW5qyh6K+7KOWGtykgLSDmlrDlu7rmlofku7bnq4vliLvor7sKY29sZD17fQpmb3IgbmFtZSBpbiBmaWxlczoKICAgIHA9J3RtcC9jb2xkXyVzLmJpbiclbmFtZQogICAgc3o9b3MucGF0aC5nZXRzaXplKGZpbGVzW25hbWVdKQogICAgd2l0aCBvcGVuKHAsJ3diJykgYXMgZjogZi53cml0ZShvcy51cmFuZG9tKG1pbihzeiwyNjIxNDQpKSoobWF4KDEsc3ovLzI2MjE0NCkpKQogICAgdHM9W10KICAgIGZvciBfIGluIHJhbmdlKDI1KToKICAgICAgICAjIOavj+asoemHjeWGmeS9v2NhY2hl5aSx5pWICiAgICAgICAgdDA9dGltZS5wZXJmX2NvdW50ZXJfbnMoKQogICAgICAgIHdpdGggb3BlbihwLCdyYicpIGFzIGZoOiBmaC5yZWFkKCkKICAgICAgICB0cy5hcHBlbmQodGltZS5wZXJmX2NvdW50ZXJfbnMoKS10MCkKICAgIGNvbGRbbmFtZV09bWVkKHRzKQogICAgcHJpbnQoJyVzIOWGt+ivuyDkuK3kvY09JS4wZm5zICDlhrcv54OtPSUuM2YnJShuYW1lLGNvbGRbbmFtZV0sY29sZFtuYW1lXS9yZXNbbmFtZV1bJ2hvdF9tZWQnXSkpCmpzb24uZHVtcCh7J2hvdCc6cmVzLCdjb2xkJzpjb2xkfSxvcGVuKCdnMGIuanNvbicsJ3cnKSkK
+import time,os,statistics as st,json,socket,threading
+def med(xs): return st.median(xs)
+def probe(f,n=25):
+    ts=[]
+    for _ in range(n):
+        t0=time.perf_counter_ns()
+        with open(f,'rb') as fh: fh.read()
+        ts.append(time.perf_counter_ns()-t0)
+    return ts
+os.makedirs('tmp',exist_ok=True)
+# 造不同大小的真实文件
+files={}
+for name,sz in [('s1',4096),('s2',65536),('s3',1048576),('s4',8388608)]:
+    p='tmp/%s.bin'%name
+    with open(p,'wb') as f: f.write(os.urandom(min(sz,1048576))*(sz//1048576 or 1))
+    files[name]=p
+res={}
+for name,p in files.items():
+    # 冷读: 每次先 drop? 无权限. 用反复热读 vs 首次读
+    hot=probe(p,25)
+    res[name]={'hot_med':med(hot),'hot_iqr':sorted(hot)[18]-sorted(hot)[6],'n':len(hot)}
+    print('%s 热读 中位=%.0fns IQR=%.0fns'%(name,res[name]['hot_med'],res[name]['hot_iqr']))
+# 首次读(冷) - 新建文件立刻读
+cold={}
+for name in files:
+    p='tmp/cold_%s.bin'%name
+    sz=os.path.getsize(files[name])
+    with open(p,'wb') as f: f.write(os.urandom(min(sz,262144))*(max(1,sz//262144)))
+    ts=[]
+    for _ in range(25):
+        # 每次重写使cache失效
+        t0=time.perf_counter_ns()
+        with open(p,'rb') as fh: fh.read()
+        ts.append(time.perf_counter_ns()-t0)
+    cold[name]=med(ts)
+    print('%s 冷读 中位=%.0fns  冷/热=%.3f'%(name,cold[name],cold[name]/res[name]['hot_med']))
+json.dump({'hot':res,'cold':cold},open('g0b.json','w'))

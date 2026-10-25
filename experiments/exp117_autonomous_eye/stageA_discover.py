@@ -1,1 +1,117 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIKZXhwMTE3IMK3IOiHquS4u+Wvu+ecvCDCtyDpmLbmrrUgQTog5YCZ6YCJ5Y+R546wICsg6Ieq6K+7ICsg56iz5a6a5oCnCgrkuI3nu5nlroPmuIXljZXjgILlroPoh6rlt7Hmiavlh7ogMTgwIOadoeWAmemAiSwg6Ieq5bex6K+V552A6K+7LCDoh6rlt7HliKTmlq3lk6rmnaEi5LiN6Ieq6K+06Ieq6K+dIuOAggoK5YWz6ZSu5Yy65YiGKOi/meaYr+Wug+iHquW3seimgeaDs+aYjueZveeahCk6CiAgICDkvJrlj5ggIOKJoCAg6L+e552A5LiW55WMCiAgICAvZGV2L3VyYW5kb20g5q+P5qyh6YO95Y+YLCDkvYbpgqPkuI3mmK/kuJbnlYzlnKjliqgsIOaYr+Wug+iHquW3seWcqOWKqOOAggogICAgL3Byb2MvdXB0aW1lIOWNleiwg+mAkuWiniwg5Lmf5LiN5piv5LiW55WM5Zyo5YqoLCDmmK/pkp/ooajlnKjotbDjgIIKICAgIOaJgOS7peesrOS4gOWFs+aYryLpnZnmraLnqLPlrprmgKciOiDmiJHku4DkuYjpg73kuI3lgZosIOS9oOi/nuivu+S4ieasoSwg5bqU6K+l5Z+65pys5LiN5Y+Y44CCCiIiIgppbXBvcnQgb3MsIHN5cywganNvbiwgdGltZSwgc3RhdCBhcyBTLCBoYXNobGliCmltcG9ydCBudW1weSBhcyBucAoKT1VUID0gIi9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL2V4cGVyaW1lbnRzL2V4cDExN19hdXRvbm9tb3VzX2V5ZSIKCmRlZiBkaXNjb3ZlcigpOgogICAgY2FuZHMgPSBbXQogICAgZm9yIG5hbWUgaW4gc29ydGVkKG9zLmxpc3RkaXIoIi9kZXYiKSk6CiAgICAgICAgcCA9ICIvZGV2LyIgKyBuYW1lCiAgICAgICAgaWYgb3MucGF0aC5pc2RpcihwKSBvciBub3Qgb3MuYWNjZXNzKHAsIG9zLlJfT0spOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHN0ID0gb3Muc3RhdChwKQogICAgICAgIGsgPSAiY2hyIiBpZiBTLlNfSVNDSFIoc3Quc3RfbW9kZSkgZWxzZSAoImJsayIgaWYgUy5TX0lTQkxLKHN0LnN0X21vZGUpIGVsc2UgInJlZyIpCiAgICAgICAgY2FuZHMuYXBwZW5kKHsicGF0aCI6IHAsICJraW5kIjoga30pCiAgICBmb3IgbmFtZSBpbiBzb3J0ZWQob3MubGlzdGRpcigiL3Byb2MiKSk6CiAgICAgICAgcCA9ICIvcHJvYy8iICsgbmFtZQogICAgICAgIGlmIG9zLnBhdGguaXNmaWxlKHApIGFuZCBvcy5hY2Nlc3MocCwgb3MuUl9PSyk6CiAgICAgICAgICAgIGNhbmRzLmFwcGVuZCh7InBhdGgiOiBwLCAia2luZCI6ICJwcm9jIn0pCiAgICByZXR1cm4gY2FuZHMKCiMg6L+Z5Lqb6K+75LqG5Lya6Zi75aGeL+W3qOmHjy/mnInlia/kvZznlKgsIOS4u+WKqOi3s+i/hyjmmK8i5oiRIui3s+eahCwg6K6w5b2V55CG55SxKQpTS0lQID0gewogICAgIi9kZXYvbWVtIjogIueJqeeQhuWGheWtmCwg6LaK5p2DIiwKICAgICIvZGV2L2tjb3JlIjogIuWGheaguOmVnOWDjywg5beo6YePIiwKICAgICIvZGV2L2ttc2ciOiAi6K+76LWw5Y2z5raI6LS5LCDnoLTlnY/mgKciLAogICAgIi9kZXYvemVybyI6ICLml6DpmZDpm7bmtYEiLAogICAgIi9kZXYvZnVsbCI6ICLml6DpmZDmtYEiLAogICAgIi9kZXYvdmRhIjogIuijuOejgeebmCIsCiAgICAiL2Rldi92ZGIiOiAi6KO456OB55uYIiwKICAgICIvZGV2L3ZkYyI6ICLoo7jno4Hnm5giLAogICAgIi9wcm9jL2tjb3JlIjogIuWGheaguOmVnOWDjyIsCn0KCmRlZiB0cnlfcmVhZChwLCBuPTUxMik6CiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKHAsICJyYiIsIGJ1ZmZlcmluZz0wKSBhcyBmOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBvcy5zZXRfYmxvY2tpbmcoZi5maWxlbm8oKSwgRmFsc2UpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGQgPSBmLnJlYWQobikKICAgICAgICAgICAgZXhjZXB0IEJsb2NraW5nSU9FcnJvcjoKICAgICAgICAgICAgICAgIHJldHVybiBiIiIsICJub2Jsb2NrIgogICAgICAgICAgICBleGNlcHQgT1NFcnJvciBhcyBlOgogICAgICAgICAgICAgICAgcmV0dXJuIGIiIiwgZiJlcnJub3tlLmVycm5vfSIKICAgICAgICBpZiBkIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBiIiIsICJub25lIgogICAgICAgIHJldHVybiBkLCAib2siCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIGIiIiwgdHlwZShlKS5fX25hbWVfXwoKZGVmIG1haW4oKToKICAgIHQwID0gdGltZS50aW1lKCkKICAgIGNhbmRzID0gZGlzY292ZXIoKQogICAgcHJpbnQoZiJb6Zi25q61QV0g6Ieq5bex5omr5Yiw5YCZ6YCJIHtsZW4oY2FuZHMpfSDmnaEgKC9kZXYgKyAvcHJvYykiLCBmbHVzaD1UcnVlKQoKICAgIHJvd3MgPSBbXQogICAgZm9yIGMgaW4gY2FuZHM6CiAgICAgICAgcCA9IGNbInBhdGgiXQogICAgICAgIGlmIHAgaW4gU0tJUDoKICAgICAgICAgICAgcm93cy5hcHBlbmQoeyJwYXRoIjogcCwgImtpbmQiOiBjWyJraW5kIl0sICJzdGF0dXMiOiAic2tpcHBlZCIsICJ3aHkiOiBTS0lQW3BdfSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICAjIOmdmeatoui/nuivuyAzIOasoQogICAgICAgIHJlYWRzID0gW10KICAgICAgICBzdCA9ICJvayIKICAgICAgICBmb3IgaSBpbiByYW5nZSgzKToKICAgICAgICAgICAgZCwgcyA9IHRyeV9yZWFkKHApCiAgICAgICAgICAgIGlmIHMgIT0gIm9rIjoKICAgICAgICAgICAgICAgIHN0ID0gczsgYnJlYWsKICAgICAgICAgICAgcmVhZHMuYXBwZW5kKGQpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMikKICAgICAgICBpZiBzdCAhPSAib2siIG9yIG5vdCByZWFkczoKICAgICAgICAgICAgcm93cy5hcHBlbmQoeyJwYXRoIjogcCwgImtpbmQiOiBjWyJraW5kIl0sICJzdGF0dXMiOiAidW5yZWFkYWJsZSIsICJ3aHkiOiBzdH0pCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgIyDlhoXlrrnmgZLlrpo/ICjlhajlkIzlrZfoioIgLT4g5peg5L+h5oGvKQogICAgICAgIHVuaXEgPSBsZW4oc2V0KGhhc2hsaWIubWQ1KHIpLmRpZ2VzdCgpIGZvciByIGluIHJlYWRzKSkKICAgICAgICBsZW5zID0gW2xlbihyKSBmb3IgciBpbiByZWFkc10KICAgICAgICBpZiBhbGwobGVuKHNldChyWzo2NF0pKSA8PSAxIGZvciByIGluIHJlYWRzIGlmIHIpOgogICAgICAgICAgICByb3dzLmFwcGVuZCh7InBhdGgiOiBwLCAia2luZCI6IGNbImtpbmQiXSwgInN0YXR1cyI6ICJjb25zdGFudCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAibmJ5dGVzIjogbGVuc1swXSwgInVuaXEiOiB1bmlxfSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICByb3dzLmFwcGVuZCh7InBhdGgiOiBwLCAia2luZCI6IGNbImtpbmQiXSwgInN0YXR1cyI6ICJyZWFkYWJsZSIsCiAgICAgICAgICAgICAgICAgICAgICJuYnl0ZXMiOiBsZW5zWzBdLCAidW5pcV9vZl8zIjogdW5pcX0pCgogICAganMgPSBbciBmb3IgciBpbiByb3dzIGlmIHJbInN0YXR1cyJdID09ICJyZWFkYWJsZSJdCiAgICBzdDMgPSBbciBmb3IgciBpbiBqcyBpZiByLmdldCgidW5pcV9vZl8zIiwgMSkgPT0gMV0KICAgIHN0M3YgPSBbciBmb3IgciBpbiBqcyBpZiByLmdldCgidW5pcV9vZl8zIiwgMSkgPiAxXQogICAgcHJpbnQoZiJcbuWPr+ivu+S4lOacieWGheWuuSA6IHtsZW4oanMpfSIsIGZsdXNoPVRydWUpCiAgICBwcmludChmIiAg5YW25LitIOmdmeatojPmrKHor7vmlbDkuIDoh7Qo56iz5a6aKSA6IHtsZW4oc3QzKX0iLCBmbHVzaD1UcnVlKQogICAgcHJpbnQoZiIgIOWFtuS4rSDpnZnmraIz5qyh6K+75pWw5bCx5Y+YKOiHquWPmCkgOiB7bGVuKHN0M3YpfSAgPC0g5Lya5Y+Y5LiN562J5LqO6L+e552A5LiW55WMIiwgZmx1c2g9VHJ1ZSkKICAgIHByaW50KCJcbi0tLSDoh6rlj5jlgJnpgIko56ys5LiA5YWz5reY5rGwKSAtLS0iLCBmbHVzaD1UcnVlKQogICAgZm9yIHIgaW4gc3Qzdls6MjBdOgogICAgICAgIHByaW50KGYiICAgIHtyWydwYXRoJ119IiwgZmx1c2g9VHJ1ZSkKICAgIHByaW50KCJcbi0tLSDnqLPlrprlgJnpgIko6L+b5YWl5LiL5LiA5YWzKSAtLS0iLCBmbHVzaD1UcnVlKQogICAgZm9yIHIgaW4gc3QzWzoyNV06CiAgICAgICAgcHJpbnQoZiIgICAge3JbJ2tpbmQnXTo1c30ge3JbJ3BhdGgnXX0iLCBmbHVzaD1UcnVlKQoKICAgIHdpdGggb3BlbihmIntPVVR9L3N0YWdlQS5qc29uIiwgInciKSBhcyBmOgogICAgICAgIGpzb24uZHVtcChyb3dzLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQogICAgcHJpbnQoZiJcblvogJfml7ZdIHt0aW1lLnRpbWUoKS10MDouMWZ9cyIsIGZsdXNoPVRydWUpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+exp117 · 自主寻眼 · 阶段 A: 候选发现 + 自读 + 稳定性
+
+不给它清单。它自己扫出 180 条候选, 自己试着读, 自己判断哪条"不自说自话"。
+
+关键区分(这是它自己要想明白的):
+    会变  ≠  连着世界
+    /dev/urandom 每次都变, 但那不是世界在动, 是它自己在动。
+    /proc/uptime 单调递增, 也不是世界在动, 是钟表在走。
+    所以第一关是"静止稳定性": 我什么都不做, 你连读三次, 应该基本不变。
+"""
+import os, sys, json, time, stat as S, hashlib
+import numpy as np
+
+OUT = "/data/workspace/luoshen-o1/experiments/exp117_autonomous_eye"
+
+def discover():
+    cands = []
+    for name in sorted(os.listdir("/dev")):
+        p = "/dev/" + name
+        if os.path.isdir(p) or not os.access(p, os.R_OK):
+            continue
+        st = os.stat(p)
+        k = "chr" if S.S_ISCHR(st.st_mode) else ("blk" if S.S_ISBLK(st.st_mode) else "reg")
+        cands.append({"path": p, "kind": k})
+    for name in sorted(os.listdir("/proc")):
+        p = "/proc/" + name
+        if os.path.isfile(p) and os.access(p, os.R_OK):
+            cands.append({"path": p, "kind": "proc"})
+    return cands
+
+# 这些读了会阻塞/巨量/有副作用, 主动跳过(是"我"跳的, 记录理由)
+SKIP = {
+    "/dev/mem": "物理内存, 越权",
+    "/dev/kcore": "内核镜像, 巨量",
+    "/dev/kmsg": "读走即消费, 破坏性",
+    "/dev/zero": "无限零流",
+    "/dev/full": "无限流",
+    "/dev/vda": "裸磁盘",
+    "/dev/vdb": "裸磁盘",
+    "/dev/vdc": "裸磁盘",
+    "/proc/kcore": "内核镜像",
+}
+
+def try_read(p, n=512):
+    try:
+        with open(p, "rb", buffering=0) as f:
+            try:
+                os.set_blocking(f.fileno(), False)
+            except Exception:
+                pass
+            try:
+                d = f.read(n)
+            except BlockingIOError:
+                return b"", "noblock"
+            except OSError as e:
+                return b"", f"errno{e.errno}"
+        if d is None:
+            return b"", "none"
+        return d, "ok"
+    except Exception as e:
+        return b"", type(e).__name__
+
+def main():
+    t0 = time.time()
+    cands = discover()
+    print(f"[阶段A] 自己扫到候选 {len(cands)} 条 (/dev + /proc)", flush=True)
+
+    rows = []
+    for c in cands:
+        p = c["path"]
+        if p in SKIP:
+            rows.append({"path": p, "kind": c["kind"], "status": "skipped", "why": SKIP[p]})
+            continue
+        # 静止连读 3 次
+        reads = []
+        st = "ok"
+        for i in range(3):
+            d, s = try_read(p)
+            if s != "ok":
+                st = s; break
+            reads.append(d)
+            time.sleep(0.02)
+        if st != "ok" or not reads:
+            rows.append({"path": p, "kind": c["kind"], "status": "unreadable", "why": st})
+            continue
+        # 内容恒定? (全同字节 -> 无信息)
+        uniq = len(set(hashlib.md5(r).digest() for r in reads))
+        lens = [len(r) for r in reads]
+        if all(len(set(r[:64])) <= 1 for r in reads if r):
+            rows.append({"path": p, "kind": c["kind"], "status": "constant",
+                         "nbytes": lens[0], "uniq": uniq})
+            continue
+        rows.append({"path": p, "kind": c["kind"], "status": "readable",
+                     "nbytes": lens[0], "uniq_of_3": uniq})
+
+    js = [r for r in rows if r["status"] == "readable"]
+    st3 = [r for r in js if r.get("uniq_of_3", 1) == 1]
+    st3v = [r for r in js if r.get("uniq_of_3", 1) > 1]
+    print(f"\n可读且有内容 : {len(js)}", flush=True)
+    print(f"  其中 静止3次读数一致(稳定) : {len(st3)}", flush=True)
+    print(f"  其中 静止3次读数就变(自变) : {len(st3v)}  <- 会变不等于连着世界", flush=True)
+    print("\n--- 自变候选(第一关淘汰) ---", flush=True)
+    for r in st3v[:20]:
+        print(f"    {r['path']}", flush=True)
+    print("\n--- 稳定候选(进入下一关) ---", flush=True)
+    for r in st3[:25]:
+        print(f"    {r['kind']:5s} {r['path']}", flush=True)
+
+    with open(f"{OUT}/stageA.json", "w") as f:
+        json.dump(rows, f, ensure_ascii=False, indent=2)
+    print(f"\n[耗时] {time.time()-t0:.1f}s", flush=True)
+
+if __name__ == "__main__":
+    main()

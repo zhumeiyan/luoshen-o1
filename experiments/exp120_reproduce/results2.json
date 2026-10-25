@@ -1,1 +1,114 @@
-ewogICJTSU5HTEUiOiB7CiAgICAibiI6IDIwLAogICAgImJpbnMiOiA3LAogICAgInNpbXBzb25fYmluIjogMC44MjUsCiAgICAibmljaGVzIjogMSwKICAgICJzaW1wc29uX25pY2hlIjogMC4wLAogICAgInNwcmVhZCI6IDAuMDU2NwogIH0sCiAgIk1VTFRJIjogewogICAgIm4iOiAyMCwKICAgICJiaW5zIjogMTAsCiAgICAic2ltcHNvbl9iaW4iOiAwLjg3NSwKICAgICJuaWNoZXMiOiAyLAogICAgInNpbXBzb25fbmljaGUiOiAwLjI1NSwKICAgICJzcHJlYWQiOiAwLjE1MDQKICB9LAogICJtdV8wLjAiOiB7CiAgICAibiI6IDIwLAogICAgImJpbnMiOiAxLAogICAgInNpbXBzb25fYmluIjogMC4wLAogICAgIm5pY2hlcyI6IDEsCiAgICAic2ltcHNvbl9uaWNoZSI6IDAuMCwKICAgICJzcHJlYWQiOiAwLjAKICB9LAogICJtdV8wLjAxIjogewogICAgIm4iOiAyMCwKICAgICJiaW5zIjogMywKICAgICJzaW1wc29uX2JpbiI6IDAuMzk1LAogICAgIm5pY2hlcyI6IDEsCiAgICAic2ltcHNvbl9uaWNoZSI6IDAuMCwKICAgICJzcHJlYWQiOiAwLjAxODEKICB9LAogICJtdV8wLjA1IjogewogICAgIm4iOiAyMCwKICAgICJiaW5zIjogNiwKICAgICJzaW1wc29uX2JpbiI6IDAuNzgsCiAgICAibmljaGVzIjogMSwKICAgICJzaW1wc29uX25pY2hlIjogMC4wLAogICAgInNwcmVhZCI6IDAuMDUzNQogIH0sCiAgIm11XzAuMSI6IHsKICAgICJuIjogMjAsCiAgICAiYmlucyI6IDEwLAogICAgInNpbXBzb25fYmluIjogMC44NzUsCiAgICAibmljaGVzIjogMiwKICAgICJzaW1wc29uX25pY2hlIjogMC4yNTUsCiAgICAic3ByZWFkIjogMC4xNTA0CiAgfSwKICAibXVfMC4yIjogewogICAgIm4iOiAyMCwKICAgICJiaW5zIjogMTAsCiAgICAic2ltcHNvbl9iaW4iOiAwLjg2NSwKICAgICJuaWNoZXMiOiAyLAogICAgInNpbXBzb25fbmljaGUiOiAwLjE4LAogICAgInNwcmVhZCI6IDAuMTU2NgogIH0sCiAgIm11XzAuNCI6IHsKICAgICJuIjogMjAsCiAgICAiYmlucyI6IDksCiAgICAic2ltcHNvbl9iaW4iOiAwLjc4NSwKICAgICJuaWNoZXMiOiAzLAogICAgInNpbXBzb25fbmljaGUiOiAwLjYwNSwKICAgICJzcHJlYWQiOiAwLjY1MDMKICB9LAogICJtdV8wLjgiOiB7CiAgICAibiI6IDIwLAogICAgImJpbnMiOiAxMCwKICAgICJzaW1wc29uX2JpbiI6IDAuODIsCiAgICAibmljaGVzIjogMywKICAgICJzaW1wc29uX25pY2hlIjogMC40NDUsCiAgICAic3ByZWFkIjogMC41MzUyCiAgfSwKICAiS18yIjogewogICAgIm4iOiAyLAogICAgImJpbnMiOiAyLAogICAgInNpbXBzb25fYmluIjogMC41LAogICAgIm5pY2hlcyI6IDEsCiAgICAic2ltcHNvbl9uaWNoZSI6IDAuMCwKICAgICJzcHJlYWQiOiAwLjAyOTcKICB9LAogICJLXzUiOiB7CiAgICAibiI6IDUsCiAgICAiYmlucyI6IDUsCiAgICAic2ltcHNvbl9iaW4iOiAwLjgsCiAgICAibmljaGVzIjogMSwKICAgICJzaW1wc29uX25pY2hlIjogMC4wLAogICAgInNwcmVhZCI6IDAuMTEzNAogIH0sCiAgIktfMTAiOiB7CiAgICAibiI6IDEwLAogICAgImJpbnMiOiA2LAogICAgInNpbXBzb25fYmluIjogMC44LAogICAgIm5pY2hlcyI6IDEsCiAgICAic2ltcHNvbl9uaWNoZSI6IDAuMCwKICAgICJzcHJlYWQiOiAwLjA4MjYKICB9LAogICJLXzIwIjogewogICAgIm4iOiAyMCwKICAgICJiaW5zIjogMTAsCiAgICAic2ltcHNvbl9iaW4iOiAwLjg3NSwKICAgICJuaWNoZXMiOiAyLAogICAgInNpbXBzb25fbmljaGUiOiAwLjI1NSwKICAgICJzcHJlYWQiOiAwLjE1MDQKICB9LAogICJLXzQwIjogewogICAgIm4iOiA0MCwKICAgICJiaW5zIjogOCwKICAgICJzaW1wc29uX2JpbiI6IDAuODQ2MiwKICAgICJuaWNoZXMiOiAxLAogICAgInNpbXBzb25fbmljaGUiOiAwLjAsCiAgICAic3ByZWFkIjogMC4wNzg4CiAgfQp9
+{
+  "SINGLE": {
+    "n": 20,
+    "bins": 7,
+    "simpson_bin": 0.825,
+    "niches": 1,
+    "simpson_niche": 0.0,
+    "spread": 0.0567
+  },
+  "MULTI": {
+    "n": 20,
+    "bins": 10,
+    "simpson_bin": 0.875,
+    "niches": 2,
+    "simpson_niche": 0.255,
+    "spread": 0.1504
+  },
+  "mu_0.0": {
+    "n": 20,
+    "bins": 1,
+    "simpson_bin": 0.0,
+    "niches": 1,
+    "simpson_niche": 0.0,
+    "spread": 0.0
+  },
+  "mu_0.01": {
+    "n": 20,
+    "bins": 3,
+    "simpson_bin": 0.395,
+    "niches": 1,
+    "simpson_niche": 0.0,
+    "spread": 0.0181
+  },
+  "mu_0.05": {
+    "n": 20,
+    "bins": 6,
+    "simpson_bin": 0.78,
+    "niches": 1,
+    "simpson_niche": 0.0,
+    "spread": 0.0535
+  },
+  "mu_0.1": {
+    "n": 20,
+    "bins": 10,
+    "simpson_bin": 0.875,
+    "niches": 2,
+    "simpson_niche": 0.255,
+    "spread": 0.1504
+  },
+  "mu_0.2": {
+    "n": 20,
+    "bins": 10,
+    "simpson_bin": 0.865,
+    "niches": 2,
+    "simpson_niche": 0.18,
+    "spread": 0.1566
+  },
+  "mu_0.4": {
+    "n": 20,
+    "bins": 9,
+    "simpson_bin": 0.785,
+    "niches": 3,
+    "simpson_niche": 0.605,
+    "spread": 0.6503
+  },
+  "mu_0.8": {
+    "n": 20,
+    "bins": 10,
+    "simpson_bin": 0.82,
+    "niches": 3,
+    "simpson_niche": 0.445,
+    "spread": 0.5352
+  },
+  "K_2": {
+    "n": 2,
+    "bins": 2,
+    "simpson_bin": 0.5,
+    "niches": 1,
+    "simpson_niche": 0.0,
+    "spread": 0.0297
+  },
+  "K_5": {
+    "n": 5,
+    "bins": 5,
+    "simpson_bin": 0.8,
+    "niches": 1,
+    "simpson_niche": 0.0,
+    "spread": 0.1134
+  },
+  "K_10": {
+    "n": 10,
+    "bins": 6,
+    "simpson_bin": 0.8,
+    "niches": 1,
+    "simpson_niche": 0.0,
+    "spread": 0.0826
+  },
+  "K_20": {
+    "n": 20,
+    "bins": 10,
+    "simpson_bin": 0.875,
+    "niches": 2,
+    "simpson_niche": 0.255,
+    "spread": 0.1504
+  },
+  "K_40": {
+    "n": 40,
+    "bins": 8,
+    "simpson_bin": 0.8462,
+    "niches": 1,
+    "simpson_niche": 0.0,
+    "spread": 0.0788
+  }
+}

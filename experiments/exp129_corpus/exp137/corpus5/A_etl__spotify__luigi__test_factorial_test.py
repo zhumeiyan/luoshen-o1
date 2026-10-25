@@ -1,1 +1,49 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIwojIENvcHlyaWdodCAyMDEyLTIwMTUgU3BvdGlmeSBBQgojCiMgTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiMgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgojIFlvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdAojCiMgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiMKIyBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiMgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKIyBXSVRIT1VUIFdBUlJBTlRJRVMgT1IgQ09ORElUSU9OUyBPRiBBTlkgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4KIyBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiMgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiMKCmZyb20gaGVscGVycyBpbXBvcnQgdW5pdHRlc3QKCmltcG9ydCBsdWlnaQoKCmNsYXNzIEZhY3RvcmlhbChsdWlnaS5UYXNrKToKICAgICIiIlRoaXMgY2FsY3VsYXRlcyBmYWN0b3JpYWxzICpvbmxpbmUqIGFuZCBkb2VzIG5vdCB3cml0ZSBpdHMgcmVzdWx0cyBhbnl3aGVyZQoKICAgIERlbW9uc3RyYXRlcyB0aGUgYWJpbGl0eSBmb3IgZGVwZW5kZW5jaWVzIGJldHdlZW4gVGFza3MgYW5kIG5vdCBqdXN0IGJldHdlZW4gdGhlaXIgb3V0cHV0LgogICAgIiIiCgogICAgbiA9IGx1aWdpLkludFBhcmFtZXRlcihkZWZhdWx0PTEwMCkKCiAgICBkZWYgcmVxdWlyZXMoc2VsZik6CiAgICAgICAgaWYgc2VsZi5uID4gMToKICAgICAgICAgICAgcmV0dXJuIEZhY3RvcmlhbChzZWxmLm4gLSAxKQoKICAgIGRlZiBydW4oc2VsZik6CiAgICAgICAgaWYgc2VsZi5uID4gMToKICAgICAgICAgICAgc2VsZi52YWx1ZSA9IHNlbGYubiAqIHNlbGYucmVxdWlyZXMoKS52YWx1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYudmFsdWUgPSAxCiAgICAgICAgc2VsZi5jb21wbGV0ZSA9IGxhbWJkYTogVHJ1ZQoKICAgIGRlZiBjb21wbGV0ZShzZWxmKToKICAgICAgICByZXR1cm4gRmFsc2UKCgpjbGFzcyBGYWN0b3JpYWxUZXN0KHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X2ludm9rZShzZWxmKToKICAgICAgICBsdWlnaS5idWlsZChbRmFjdG9yaWFsKDEwMCldLCBsb2NhbF9zY2hlZHVsZXI9VHJ1ZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEZhY3RvcmlhbCg0MikudmFsdWUsIDE0MDUwMDYxMTc3NTI4Nzk4OTg1NDMxNDI2MDYyNDQ1MTE1Njk5MzYzODQwMDAwMDAwMDApCg==
+# -*- coding: utf-8 -*-
+#
+# Copyright 2012-2015 Spotify AB
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+
+from helpers import unittest
+
+import luigi
+
+
+class Factorial(luigi.Task):
+    """This calculates factorials *online* and does not write its results anywhere
+
+    Demonstrates the ability for dependencies between Tasks and not just between their output.
+    """
+
+    n = luigi.IntParameter(default=100)
+
+    def requires(self):
+        if self.n > 1:
+            return Factorial(self.n - 1)
+
+    def run(self):
+        if self.n > 1:
+            self.value = self.n * self.requires().value
+        else:
+            self.value = 1
+        self.complete = lambda: True
+
+    def complete(self):
+        return False
+
+
+class FactorialTest(unittest.TestCase):
+    def test_invoke(self):
+        luigi.build([Factorial(100)], local_scheduler=True)
+        self.assertEqual(Factorial(42).value, 1405006117752879898543142606244511569936384000000000)

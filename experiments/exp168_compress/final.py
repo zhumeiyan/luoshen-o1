@@ -1,1 +1,32 @@
-aW1wb3J0IGpzb24sbWF0aApoPWpzb24ubG9hZChvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNjhfY29tcHJlc3MvaGVhcHMuanNvbiIpKQpwPWpzb24ubG9hZChvcGVuKCIvZGF0YS93b3Jrc3BhY2UvbHVvc2hlbi1vMS9leHBlcmltZW50cy9leHAxNjhfY29tcHJlc3MvcHJlZC5qc29uIikpCgpwcmludCgiPSIqNTQpCnByaW50KCLmr4/nrKblj7fnu4/pqowgTi9WIOmaj+aVsOaNrumHj+WmguS9leWinumVv++8iD0gMS1i77yJIikKcHJpbnQoIj0iKjU0KQpmb3Iga18gaW4gKCJ6aCIsImNvZGUiKToKICAgIGQ9aFtrX107IGM9ZFsiY3VydmUiXTsgYj1kWyJiIl0KICAgIG4wLHYwPWNbMF07IG4xLHYxPWNbLTFdCiAgICByMD1uMC92MDsgcjE9bjEvdjEKICAgIGVtcD1tYXRoLmxvZyhyMS9yMCkvbWF0aC5sb2cobjEvbjApCiAgICBwcmludChmIlxue2RbJ25hbWUnXX0iKQogICAgcHJpbnQoZiIgIEhlYXBzIGIgPSB7YjouM2Z9ICAg5a6e5rWLIE4vViDmjIfmlbAgPSB7ZW1wOi4zZn0gICDnkIborrogMS1iID0gezEtYjouM2Z9IikKICAgIHByaW50KGYiICDmlbDmja7ph48ge24wfSAtPiB7bjF9ICAoe24xL24wOi4xZn3lgI0pIikKICAgIHByaW50KGYiICDmr4/nrKblj7fnu4/pqowge3IwOi4xZn0gLT4ge3IxOi4xZn0gICh7cjEvcjA6LjFmfeWAjSkiKQogICAgcHJpbnQoZiIgIHsnPj4g6LaK5a2m6LaK55yB5Yqb77yM5Y6L57yp5pyJ5pWIJyBpZiBiPDAuNSBlbHNlICc+PiDotorlrabotorotLnlipvvvIzljovnvKnlpLHmlYgnfSAgKOWIhueVjCBiPTAuNSkiKQoKcHJpbnQoIlxuIisiPSIqNTQpCnByaW50KCLmuJDov5HmnInmlYjpmLYgayogLT4gMS9iICDvvIgxNjHlj7flhazlvI/vvIkiKQpwcmludCgiPSIqNTQpCmZvciBrXyBpbiAoInpoIiwiY29kZSIpOgogICAgZD1oW2tfXTsgYj1kWyJiIl0KICAgIHByaW50KGYiICB7ZFsnbmFtZSddOjwxOH0gYj17YjouM2Z9ICBrKua4kOi/kT17MS9iOi4yZn0iKQoKcHJpbnQoIlxuIisiPSIqNTQpCnByaW50KCLlrp7mtYvls7DlgLzpmLbvvIhOPSVkIOWunumZheWPr+i+vu+8jOmdnua4kOi/ke+8iSIlcFsiTiJdKQpwcmludCgiPSIqNTQpCmZvciBubSxyb3dzIGluIHBbInJlcyJdLml0ZW1zKCk6CiAgICBiZXN0PW1heChyb3dzLGtleT1sYW1iZGEgcjpyWyJnYWluIl0pCiAgICBwcmludChmIiAge25tOjwxMn0g5bOw5YC8IGs9e2Jlc3RbJ2snXX0gIGdhaW49e2Jlc3RbJ2dhaW4nXTorLjRmfSAg6KaG55uW546HPXtiZXN0Wydjb3YnXTouM2Z9IikKcHJpbnQoIlxuICA+PiDlrp7mtYvls7DlgLzlnYfov5zkvY7kuo7muJDov5FrKu+8mlZeayA+PiBO77yM5a6e6ZmF6L6+5LiN5Yiw5riQ6L+R5Yy6IikK
+import json,math
+h=json.load(open("/data/workspace/luoshen-o1/experiments/exp168_compress/heaps.json"))
+p=json.load(open("/data/workspace/luoshen-o1/experiments/exp168_compress/pred.json"))
+
+print("="*54)
+print("每符号经验 N/V 随数据量如何增长（= 1-b）")
+print("="*54)
+for k_ in ("zh","code"):
+    d=h[k_]; c=d["curve"]; b=d["b"]
+    n0,v0=c[0]; n1,v1=c[-1]
+    r0=n0/v0; r1=n1/v1
+    emp=math.log(r1/r0)/math.log(n1/n0)
+    print(f"\n{d['name']}")
+    print(f"  Heaps b = {b:.3f}   实测 N/V 指数 = {emp:.3f}   理论 1-b = {1-b:.3f}")
+    print(f"  数据量 {n0} -> {n1}  ({n1/n0:.1f}倍)")
+    print(f"  每符号经验 {r0:.1f} -> {r1:.1f}  ({r1/r0:.1f}倍)")
+    print(f"  {'>> 越学越省力，压缩有效' if b<0.5 else '>> 越学越费力，压缩失效'}  (分界 b=0.5)")
+
+print("\n"+"="*54)
+print("渐近有效阶 k* -> 1/b  （161号公式）")
+print("="*54)
+for k_ in ("zh","code"):
+    d=h[k_]; b=d["b"]
+    print(f"  {d['name']:<18} b={b:.3f}  k*渐近={1/b:.2f}")
+
+print("\n"+"="*54)
+print("实测峰值阶（N=%d 实际可达，非渐近）"%p["N"])
+print("="*54)
+for nm,rows in p["res"].items():
+    best=max(rows,key=lambda r:r["gain"])
+    print(f"  {nm:<12} 峰值 k={best['k']}  gain={best['gain']:+.4f}  覆盖率={best['cov']:.3f}")
+print("\n  >> 实测峰值均远低于渐近k*：V^k >> N，实际达不到渐近区")
